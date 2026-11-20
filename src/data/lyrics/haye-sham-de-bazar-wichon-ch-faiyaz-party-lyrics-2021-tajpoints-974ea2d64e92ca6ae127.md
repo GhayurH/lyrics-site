@@ -1,47 +1,78 @@
 ---
-title: "Haye Sham De Bazar Wichon Ch Faiyaz Party Lyrics 2021"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے شام دے بازار وچوں"
+alternateTitle: "Haye Sham De Bazar Wichon"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+reciter: "Ch Faiyaz Party Sialkot"
+matamiSangat: "Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Sham de bazar wichon kyun jondiyaan main lang gayiyaan
+  Bas pathraan diyaan chawaan ne na veraan diyaan rayiyaan
+  Khuliya shehar da darwaza takiya main veer Ghazi
+
+  2
+  Sir baghiyaan de aaye ne sundi rayi manadi
+  Jandi aye amma Fizza kinj sanwaan main laiyaan
+  Tatheer di main waris haan aj be rida main aayi
+  Tazeem musalmana aynj aal di bhulai
+
+  3
+  Aandiyaan nahin bazaraan wich loko mere jaiyaan
+  Kita si Shimar khich ke sir tan taun juda tera
+  Manzar main wekhiya si aye hosla aye mera
+  Lash meri payi langdi aye main veera mar gayiyaan
+
+  4
+  Rondi aye bheer tak ke ainu kiwein chup karawaan
+  Haye Shimar de tamachiyaan taun ainu veer kinj bachawaan
+  Piyo de baad Sakina ne bas takleefaan sayiyaan
+  Ainu rook veer Abid munh te na mainu marey
+
+  5
+  Mera baba mar gaya aye waris ne qaid sare
+  Sun ke wain Sakina de qaidnaa rondiyaan paiyaan
+  Bazar nu musalmana Najfi si aynj sajaya
+  Aoulad-e-Fatima layi aj bheer nu bulaya
+
+  6
+  Bheer wichon darbar taein paidal turdiyaan rayiyaan
 ---
 
-1
-Haye Sham De Bazar Wichon Ch Faiyaz Party Sialkot
-Haye Sham De Bazar Wichon Kyun Jondiyaan Main Lang Gayiyaan.
-Bas Pathraan Diyaan Chawaan Ne Na Veraan Diyaan Rayiyaan.
-Khuliya Shehar Da Darwaza Takiya Main Veer Ghazi.
+۱
+ہائے شام دے بازار وچوں کیوں جیوندیاں میں لنگھ گئی آں
+بس پتھراں دیاں چھاواں نے، نہ ویراں دیاں رہیاں
+کھلیا شہر دا دروازہ، تکیا میں ویر غازی
 
-2
-Sir Baghiyaan De Aaye Ne Sundi Rayi Manadi.
-Jandi Aye Amma Fizza Kinj Sanwaan Main Laiyaan.
-Tatheer Di Main Waris Haan Aj Be Rida Main Aayi.
-Tazeem Musalmana Aynj Aal Di Bhulai.
+۲
+سر باغیاں دے آئے نے، سندی رہی منادی
+جاندی اے اماں فضہ، کنج ساہواں میں لئیاں
+تطہیر دی میں وارث ہاں، اج بے ردا میں آئی
+تعظیم مسلماناں اینج آل دی بھلائی
 
-3
-Aandiyaan Nahin Bazaraan Wich Loko Mere Jaiyaan.
-Kita Si Shimar Khich Ke Sir Tan Taun Juda Tera.
-Manzar Main Wekhiya Si Aye Hosla Aye Mera.
-Lash Meri Payi Langdi Aye Main Veera Mar Gayiyaan.
+۳
+آندیاں نہیں بازاراں وچ لوکو میرے جئیاں
+کیتا سی شمر کھچ کے سر تن توں جدا تیرا
+منظر میں ویکھیا سی، اے حوصلہ اے میرا
+لاش میری پئی لنگھدی اے، میں ویرا مر گئی آں
 
-4
-Rondi Aye Bheer Tak Ke Ainu Kiwein Chup Karawaan.
-Haye Shimar De Tamachiyaan Taun Ainu Veer Kinj Bachawaan.
-Piyo De Baad Sakina Ne Bas Takleefaan Sayiyaan.
-Ainu Rook Veer Abid Munh Te Na Mainu Marey.
+۴
+روندی اے بھیڑ تک کے، اینوں کیویں چپ کراواں
+ہائے شمر دے تماچیاں توں اینوں ویر کنج بچاواں
+پیو دے بعد سکینہ نے بس تکلیفاں سہیاں
+اینوں روک ویر عابد، منہ تے نہ مینوں مارے
 
-5
-Mera Baba Mar Gaya Aye Waris Ne Qaid Sare.
-Sun Ke Wain Sakina De Qaidnaa Rondiyaan Paiyaan.
-Bazar Nu Musalmana Najfi Si Aynj Sajaya.
-Aoulad-e-Fatima Layi Aj Bheer Nu Bulaya.
+۵
+میرا بابا مر گیا اے، وارث نے قید سارے
+سن کے وین سکینہ دے قیدناں روندیاں پئیاں
+بازار نوں مسلماناں نجفی سی اینج سجایا
+اولادِ فاطمہ لئی اج بھیڑ نوں بلایا
 
-6
-Bheer Wichon Darbar Taein Paidal Turdiyaan Rayiyaan.
-Noha Khuwan Party Ch Faiyaz Party Sialkot.
-Matami Sangat
-Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot
+۶
+بھیڑ وچوں دربار تائیں پیدل تردیاں رہیاں

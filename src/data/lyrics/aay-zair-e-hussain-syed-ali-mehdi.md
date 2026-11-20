@@ -1,6 +1,6 @@
 ---
 title: "اے زائرِ حسین سید علی مہدی"
-alternateTitle: "Aay Zair-e-Hussain Syed Ali Mehdi"
+alternateTitle: "Ae Zaair-e-Husain Syed Ali Mehdi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,33 +10,33 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aay zair e Hussain Syed Ali Mehdi
-  Rodad mere dil ki suno zair-e-Hussain
-  Mujh ko bhi sath le ke chalo zair-e-Hussain
-  Maula se kehna ab tu bola lijiye humein
-  Kitne ho khush naseeb bala woh mila tumhein
-  Janat ki simt aagay barho zair-e-Hussain
+  Ae Zaair-e-Husain Syed Ali Mehdi
+  Rudaad mere dil ki suno Zaair-e-Husain
+  Mujh ko bhi saath le ke chalo Zaair-e-Husain
+  Maula se kehna ab to bula lijiye hameṅ
+  Kitne ho khush naseeb bhala woh mila tumheṅ
+  Jannat ki simt aage barho Zaair-e-Husain
   Tum karna meri simt se ik sajda-e-wafa
-  Keh dena izn-e-hazari ab tu karo atta
-  Ghazi se ja ke tum jo milo zair-e-Hussain
-  Tashna labon ki pyas pe rona tum wahan
-  Le jao mere aanso baha dena tum wahan
-  Pani Furat ka jo piyo zair-e-Hussain
-  Main roza-e-Hussain pe kuch iss tarha rahon
-  Zawwar jo bhi aaye qadam oss ke chom loon
-  Chokhat pe mera naam likho zair-e-Hussain
-  Ashor ko jab halqa-e-matam wahan lagay
-  Ik zarb sar pe marna tum meri simt se
-  Pursa jab unn ko khon ka do zair-e-Hussain
-  Ik roz sath mujh ko wahan le ke jana hai
-  Tum alwida na kehna dobarah bhi aana hai
-  Qabar-e-Hussain se jab utho zair-e-Hussain
-  Zainab ke rastay pe chaley ja rahe ho tum
-  Ho ya Hussain honton pe aanso bahao tum
-  Mashi ka tey safar youn karo zair-e-Hussain
-  Kehna Habib se karo sadqa mujhe atta
-  Karna hai Naqsh noha Ali ko Hussain ka
-  Tum iltija yeh unn se karo zair-e-Hussain
+  Keh dena izn-e-haaziri ab to karo ata
+  Ghaazi se ja ke tum jo milo Zaair-e-Husain
+  Tashna laboṅ ki pyaas pe rona tum wahaaṅ
+  Le jaao mere aansu baha dena tum wahaaṅ
+  Paani Furaat ka jo piyo Zaair-e-Husain
+  Main rauza-e-Husain pe kuchh is tarah rahuṅ
+  Zawwaar jo bhi aaye qadam us ke chum luṅ
+  Chaukhat pe mera naam likho Zaair-e-Husain
+  Aashur ko jab halqa-e-maatam wahaaṅ lage
+  Ik zarb sar pe maarna tum meri simt se
+  Pursa jab un ko khun ka do Zaair-e-Husain
+  Ik roz saath mujh ko wahaaṅ le ke jaana hai
+  Tum alwida na kehna dobaara bhi aana hai
+  Qabr-e-Husain se jab utho Zaair-e-Husain
+  Zainab ke raste pe chale ja rahe ho tum
+  Ho ya Husain hontoṅ pe aansu bahaao tum
+  Mashi ka tay safar yuṅ karo Zaair-e-Husain
+  Kehna Habib se karo sadqa mujhe ata
+  Karna hai Naqsh nauha Ali ko Husain ka
+  Tum iltija yeh un se karo Zaair-e-Husain
 ---
 
 ۱

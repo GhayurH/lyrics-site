@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye kehte hai maqtal se ab bhi shahe abraar
-  Haq baat pe mar jaana ae mere azadaar
+  Ye kehte haiṅ maqtal se ab bhi Shah-e-Abraar
+  Haq baat pe mar jaana ae mere azaadaar
   Hal min nasirin yansurna
-  Jaaṅ gawa dena izzat na gawana
+  Jaaṅ ganwa dena izzat na ganwaana
   Dekho mera sajda tum bhul na jaana
   Tum hi to ho mere maqsad ke alamdaar
   Hal min nasirin yansurna...
-  Rakhna nigahoṅ meiṅ abid ki asiri
-  Haathoṅ meiṅ hathkariyaṅ aur paoṅ meiṅ beri
-  Hona jo zamane ki musibat meiṅ giraftaar
+  Rakhna nigaahoṅ meiṅ Aabid ki asiri
+  Haathoṅ meiṅ hathkariyaaṅ aur paaoṅ meiṅ beri
+  Hona jo zamaane ki musibat meiṅ giraftaar
   Hal min nasirin yansurna...
-  Rona jawano tum akbar se jawan ko
-  Bhul nahi jaana awaaz e azaṅ ko
-  Ban jaana zamane meiṅ islaam ka kirdaar
+  Rona jawaanoṅ tum Akbar se jawaan ko
+  Bhul nahiṅ jaana aawaaz-e-azaaṅ ko
+  Ban jaana zamaane meiṅ Islaam ka kirdaar
   Hal min nasirin yansurna...
-  Haye ye majburi haye ye gharibi
-  Baap ne khud bete ki qabr banayi
+  Haaye ye majburi haaye ye gharibi
+  Baap ne khud bete ki khabar banaayi
   Hilti thi zamiṅ ran ki jab roti thi talwaar
   Hal min nasirin yansurna...
-  Rakhna hifazat meiṅ behno ki ridayeiṅ
-  Tumko khuda bakshe us sar ki wafayeiṅ
+  Rakhna hifaazat meiṅ behnoṅ ki ridaaeṅ
+  Tumko Khuda bakhshe us sar ki wafaaeṅ
   Wo sar ke jo naize se gir jaata tha har baar
   Hal min nasirin yansurna...
-  Saamne abid ke tha hashr ka manzar
-  Balwe meiṅ zainab thi bemaqna o chadar
-  Tum bhul nahi jaana wo shaam ka bazaar
+  Saamne Aabid ke tha hashr ka manzar
+  Balwe meiṅ Zainab thi bemaqna o chaadar
+  Tum bhul nahiṅ jaana wo Shaam ka baazaar
   Hal min nasirin yansurna...
-  Parta hua nauha karta hua maatam
+  Parhta hua nauha karta hua maatam
   Dard liye dil meiṅ aur haath meiṅ parcham
-  Yuṅ aayega ghaibat se dunya ka nigehdaar
+  Yuṅ aayega ghaibat se duniya ka nigehdaar
   Hal min nasirin yansurna...
-  Shayar o zakir ho ae nayyar o aamir
-  Haaṅ tum mere nasir ho ae nayyar o aamir
-  Abbas mera hoga tum sab ka madadgaar
+  Shaayar o zaakir ho ae Nayyar o Aamir
+  Haaṅ tum mere naasir ho ae Nayyar o Aamir
+  Abbaas mera hoga tum sab ka madadgaar
   Hal min nasirin yansurna...
 ---
 

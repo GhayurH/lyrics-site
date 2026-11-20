@@ -1,6 +1,6 @@
 ---
 title: "آندھی کبھی بارش کبھی طوفاں کا عالم"
-alternateTitle: "Aandhi Kabhi Barish Kabhi Tufaṅ Ka Aalam"
+alternateTitle: "Aandhi Kabhi Baarish Kabhi Tufaaṅ Ka Aalam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,10 +12,10 @@ recitationId: "aandhi-kabhi-barish-kabhi-tofaan-ka-lyrics-2017"
 published: true
 romanLyrics: |-
   1
-  Aandhi kabhi barish kabhi tufaṅ ka aalam
+  Aandhi kabhi baarish kabhi tufaaṅ ka aalam
   Har daur meiṅ mausam ke taghayyur se lari hai
   Chaudah sau baras bit gaye ishq-e-Ali meiṅ
-  Tuti hui diwar bhi pairoṅ pe khari hai
+  Tuti hui diwaar bhi pairoṅ pe khari hai
 ---
 ۱
 آندھی کبھی بارش کبھی طوفاں کا عالم

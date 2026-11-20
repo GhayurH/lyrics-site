@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Thi kisi ki dasht meiṅ sada
   Haaye ham yatim ho gaye
-  Fatima ka ghar ujar gaya
+  Faatima ka ghar ujar gaya
   Haaye ham yatim ho gaye
 
   1

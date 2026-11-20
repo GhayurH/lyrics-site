@@ -1,35 +1,60 @@
 ---
-title: "Lash Akbar Ki Bhare Ran Se Uthaon Kaisay Lyrics 2023"
+title: "لاش اکبر کی بھرے رن سے اٹھاؤں کیسے"
+alternateTitle: "Lash Akbar Ki Bhare Ran Se Uthaon Kaisay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Lash Akbar ki bhare ran se uthaon kaisay
+  Barchi Akbar ko lagi maa ko dikhaon kaisay
+  Main akela hoon zaeefi hai kamar mein khum hai
+  Chal ke main lash talak jaon tu jaon kaisay
+
+  2
+  Khat-e-Sughra hai marey hath mein barchi bhi hai
+  Parh ke Akbar ko main tehreer sunaon kaisay
+  Aisa lagta hai keh binayi nahi aankhon mein
+  Aye mere lal teri lash pe aaon kaisay
+
+  3
+  Meri imdad ko aa jao Najaf se baba
+  Main akela hoon jawaan lash uthaon kaisay
+  Baith ke khaimay mein masroof-e-dua hai koi
+  Tere lashay ko main khiyam le jaon kaisay
+
+  4
+  Lasha kandhey pe jawaan lal ka uthay kaisay
+  Jo lagi aag hai seene mein bhujaon kaisay
+  Main Samar rotay hoye jag se chala jaon magar
+  Mar bhi jaon gham-e-Laila ko bhulaon kaisay
 ---
 
-1
-Lash Akbar Ki Bhare Ran Se Uthaon Kaisay
-Barchi Akbar Ko Lagi Maa Ko Dikhaon Kaisay.
-Main Akela Hoon Zaeefi Hai Kamar Mein Khum Hai.
-Chal Ke Main Lash Talak Jaon Tu Jaon Kaisay.
+۱
+لاش اکبر کی بھرے رن سے اٹھاؤں کیسے
+برچھی اکبر کو لگی ماں کو دکھاؤں کیسے
+میں اکیلا ہوں ضعیفی ہے کمر میں خم ہے
+چل کے میں لاش تلک جاؤں تو جاؤں کیسے
 
-2
-Khat-e-Sughra Hai Marey Hath Mein Barchi Bhi Hai.
-Parh Ke Akbar Ko Main Tehreer Sunaon Kaisay.
-Aisa Lagta Hai Keh Binayi Nahi Aankhon Mein.
-Aye Mere Lal Teri Lash Pe Aaon Kaisay.
+۲
+خطِ صغریٰ ہے میرے ہاتھ میں برچھی بھی ہے
+پڑھ کے اکبر کو میں تحریر سناؤں کیسے
+ایسا لگتا ہے کہ بینائی نہیں آنکھوں میں
+اے میرے لال تیری لاش پہ آؤں کیسے
 
-3
-Meri Imdad Ko Aa Jao Najaf Se Baba.
-Main Akela Hoon Jawaan Lash Uthaon Kaisay.
-Baith Ke Khaimay Mein Masroof-e-Dua Hai Koi.
-Tere Lashay Ko Main Khiyam Le Jaon Kaisay.
+۳
+میری امداد کو آ جاؤ نجف سے بابا
+میں اکیلا ہوں جواں لاش اٹھاؤں کیسے
+بیٹھ کے خیمے میں مصروفِ دعا ہے کوئی
+تیرے لاشے کو میں خیام لے جاؤں کیسے
 
-4
-Lasha Kandhey Pe Jawaan Lal Ka Uthay Kaisay.
-Jo Lagi Aag Hai Seene Mein Bhujaon Kaisay.
-Main Samar Rotay Hoye Jag Se Chala Jaon Magar.
-Mar Bhi Jaon Gham-e-Laila Ko Bhulaon Kaisay.
+۴
+لاشہ کندھے پہ جواں لال کا اٹھے کیسے
+جو لگی آگ ہے سینے میں بجھاؤں کیسے
+میں ثمر روتے ہوئے جگ سے چلا جاؤں مگر
+مر بھی جاؤں غمِ لیلیٰ کو بھلاؤں کیسے

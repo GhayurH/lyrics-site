@@ -7,6 +7,79 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ik raat diyaaṅ mehmaanaaṅ di mehmaan nawaazi kar Zainab
+  Kal digar vele zaalmaaṅ ne tera lutna ae wasda ghar Zainab
+
+  1
+  Kal maaṅ Asghar di Asghar de penge kol beh ke rona ae
+  Aide puttar di naazuk gardan wich jadoṅ harmal tir parona ae
+  Asghar diyaaṅ sukkiyaaṅ buliyaaṅ ne kal hona ae lahu naal tar Zainab
+
+  2
+  Kal god Rabaab toṅ wakh hoke sehra wich Asghar sonve ga
+  Kinne loriyaaṅ deke chakna ae raat no dar ke rove ga
+  Es naazuk phul ne retaaṅ di garmi naal jaana ae sar Zainab
+
+  3
+  Es khuni ret de tibbiyaaṅ te tere sehriyaaṅ wale marne ne
+  Ik raat che was ke ujri ne kujh vain anokhe karne ne
+  Jede na saahure na peke raiye aine jaana ae kehre ghar Zainab
+
+  4
+  Tere sehreaaṅ wale banre di kal laash te luti paini ae
+  Din dhalan toṅ pehla Kubra de hathaaṅ utoṅ mehndi lehni ae
+  Ik raat di wiyaahi banri da kal daaj woh jaana ae sar Zainab
+
+  5
+  Jadoṅ puttar jawaan de sine choṅ Shaah barchhi nuṅ hath paana eiṅ
+  Tak budhre pio diyaaṅ sabraaṅ nuṅ Nabiyaaṅ da dil ghabraana eiṅ
+  Jeri aasaaṅ laa ke baithi ae us behan ne jaana ae mar Zainab
+
+  6
+  Kal saaman teri chaadar da darya utoṅ waapas aana naiṅ
+  Pher Shimr toṅ Sain Sakina nuṅ tere ghaazi vir chhuraana naiṅ
+  Tere viran almaaṅ wale ne darya ute jaana ae mar Zainab
+
+  7
+  Teri maaṅ de wasde gulshan nuṅ jadoṅ lutna aan lainaaṅ ne
+  Kar yaad Abbaas nuṅ raat vele pher rona baal yatimaaṅ ne
+  Tainuṅ qabar de wich vi naiṅ bhulna kal raat da o manzar Zainab
+
+  8
+  Tere vir Quraan-e-Naatiq ne ho zakhmi rahail utoṅ lehna eiṅ
+  Teri chaadar lut ke zaalam ne tainuṅ chhirkaaṅ deke kehna eiṅ
+  Tere maan te saare tut gae hun Shaam tiyaari kar Zainab
+
+  9
+  Kal Akbar di jaagir wichoṅ tainuṅ milna ae ajr-e-risaalat da
+  Januṅ lok Saqifa kehnde ne o markaz-e-Shaam zalaalat da
+  Inj lagda ae tuṅ rulna ae wich Shaam de bin chaadar Zainab
+
+  10
+  Es gal da koi armaan naiṅ tere Akbar Asghar mar gae ne
+  Tera vir Abbaas jawaan gaya naale khaime ag wich sar gae ne
+  Tere hath wich rassiyaaṅ painiyaaṅ ne tuṅ hona ae nange sar Zainab
+
+  11
+  Taarikh de har ik waraq ute tera qaidan naam enaaṅ likhna eiṅ
+  Kaainaat di har ik Bibi ne tere dar toṅ parda sikhna eiṅ
+  Afsos Nabi di ummat ne tainuṅ rulna ae dar dar Zainab
+
+  12
+  Koi sabr-e-Khalil sunaaunda koi sabr-e-Yaqub nuṅ ronda ae
+  Kujh maar ke chikaaṅ ronde ne jadoṅ naam Ayyub da aaunda ae
+  Tere vir gharib de sabraaṅ nuṅ asaaṅ rona ae ghar ghar Zainab
+
+  13
+  Tuṅ behan athaaraaṅ viraaṅ di kal bin chaadar de hoveṅ gi
+  Jis vir toṅ jori waari tuṅ onuṅ khaak te beh ke roveṅ gi
+  Tere viran paak namaazi da sar saang te jaana ae charh Zainab
+
+  14
+  Naiṅ lor mainuṅ koi jannat di sardaar ae ro ro kehna ae
+  Was paindiyaaṅ akhiyaaṅ us vele jadoṅ naaṅ Abbaas da lainda ae
+  Wich mehshar de aide alam thalle asaaṅ rona ae nauha parh Zainab
 ---
 
 اک رات دیاں مہماناں دی مہمان نوازی کر زینبؑ

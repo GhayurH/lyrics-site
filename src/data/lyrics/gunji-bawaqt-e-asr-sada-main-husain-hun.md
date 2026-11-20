@@ -1,7 +1,7 @@
 ---
 title: "گونجی بوقتِ عصر صدا، میں حسین ہوں"
 recitationId: "goonji-bawaqt-e-asr"
-alternateTitle: "Gunji Bawaqt-e-Asr Sada, Maiṅ Husain Huṅ"
+alternateTitle: "Gunji Bawaqt-e-Asr Sada, Main Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,52 +13,52 @@ aliases:
   - "Goonji Bawaqt E Asr"
 published: true
 romanLyrics: |-
-  Gunji bawaqt-e-asr sada maiṅ Husain huṅ
-  Kaato na mera khushk gala maiṅ Husain huṅ
+  Gunji bawaqt-e-asr sada main Husain huṅ
+  Kaato na mera khushk gala main Husain huṅ
 
   1
   Sukhi hui haiṅ Shimr mere halq ki rageṅ
-  Aahista tu chhuri ko chala maiṅ Husain huṅ
+  Aahista tu chhuri ko chala main Husain huṅ
 
   2
   Shiriṅ ke ghar pe pahuncha jab raandoṅ ka qaafila
-  Naize se ek sar ne kaha maiṅ Husain huṅ
+  Naize se ek sar ne kaha main Husain huṅ
 
   3
-  Ammaaṅ kisi ne paani ki ek bund bhi na di
-  Maiṅ baar baar kehta raha maiṅ Husain huṅ
+  Ammaaṅ kisi ne paani ki ak bund bhi na di
+  Main baar baar kehta raha main Husain huṅ
 
   4
-  Katta hua gala mera dekha na jaayega
-  Naana maiṅ huṅ nawaasa tera maiṅ Husain huṅ
+  Katta hua gala mera dekha na jaaye ga
+  Naana main huṅ nawaasa tera main Husain huṅ
 
   5
   Bebaazuoṅ ki laash tarap kar ulat gayi
-  Aayi Furaat par jo sada maiṅ Husain huṅ
+  Aayi Furaat par jo sada main Husain huṅ
 
   6
-  Zaanu pe rakh ke sar ko kaha ek zaif ne
-  Akbar kahaaṅ hai dard bata maiṅ Husain huṅ
+  Zaanu pe rakh ke sar ko kaha ak zaif ne
+  Akbar kahaaṅ hai dard bata main Husain huṅ
 
   7
   Ae Shaamiyoṅ kafan na diya mujh ko gham nahiṅ
-  De do meri behan ko rida maiṅ Husain huṅ
+  De do meri behan ko rida main Husain huṅ
 
   8
-  Mehsus ho raha hai ke maqtal se aaj bhi
-  Aawaaz aa rahi hai Raza maiṅ Husain huṅ
+  Mahsus ho raha hai ke maqtal se aaj bhi
+  Aawaaz aa rahi hai Raza main Husain huṅ
 
   9
-  Darbaar meiṅ lain ke kohraam mach gaya
-  Mukhtar se jo sar ne kaha maiṅ Husain huṅ
+  Darbaar mein la'in ke kohraam mach gaya
+  Mukhtar se jo sar ne kaha main Husain huṅ
 
   10
-  Mehsus ab bhi hota hai ye zaairoṅ ko
-  Rauze se aa rahi hai sada maiṅ Husain huṅ
+  Mahsus ab bhi hota hai ye zaairoṅ ko
+  Rauze se aa rahi hai sada main Husain huṅ
 
   11
   Aisa laga Raza ke Shanawar se Fatima
-  Kehti hai baar baar suna maiṅ Husain huṅ
+  Kehti hai baar baar suna main Husain huṅ
 ---
 گونجی بوقتِ عصر صدا میں حسین ہوں
 کاٹو نہ میرا خشک گلا میں حسین ہوں

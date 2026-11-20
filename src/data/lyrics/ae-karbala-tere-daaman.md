@@ -12,19 +12,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae Karbala tere daaman meiṅ daastaaṅ hai koi
-  Husain ban na sakega na Karbala hai koi
+  Husain ban na sake ga na Karbala hai koi
 
   1
   Ali ki beti huṅ naana hai Mustafa mere
   Maiṅ berida huṅ mere sar pe na rida hai koi
 
   2
-  Na laash-e-baaba pe jaauṅgi chhor de zaalim
+  Na laash-e-baaba pe jaauṅ gi chhor de zaalim
   Ye keh ke nanhe se haathoṅ ko jorta hai koi
 
   3
   Na puchh maadar-e-Asghar ke dil ki bechaini
-  Tamaam raat gayi jhula jhula raha hai koi
+  Tamaam raat gayi jhula jhulaa raha hai koi
 
   4
   Khayaal aaya tha baazaar-e-Shaam ka shaayad

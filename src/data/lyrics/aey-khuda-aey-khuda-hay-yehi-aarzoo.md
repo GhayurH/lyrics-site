@@ -1,6 +1,6 @@
 ---
 title: "اے خدا اے خدا ہے یہ ہی آرزو"
-alternateTitle: "Aey Khuda Aey Khuda Hay Yehi Aarzoo"
+alternateTitle: "Ae Khuda Ae Khuda Hai Yehi Aarzu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,77 +9,77 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Khuda! Aey Khuda! Aey Khuda!
-  Aey Khuda Aey Khuda hay yehi aarzoo
+  Ae Khuda! Ae Khuda! Ae Khuda!
+  Ae Khuda Ae Khuda hai yehi aarzu
 
   1
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Misle Maisam jala kay chiragh-e-wafa
-  Bhardoon apnay lahoo sey ayad-e-wafa*
-  Qafila zuriyat ka na bhatkay kabhi
-  Misle Hurr choor jaoon chiragh-e-wafa
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Misl-e-Maisam jala ke chiraagh-e-wafa
+  Bhar duṅ apne lahu se ayaad-e-wafa
+  Qaafila zurriyat ka na bhatke kabhi
+  Misl-e-Hurr chhor jaauṅ chiraagh-e-wafa
 
   2
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Mairay Aqa ki janib jo uthee nazar
-  Cheen loonga un ankhoon sey noor-e-basar
-  Kaat doonga uss aadmi ki zabaan
-  Barh gaya koi had-e-adab sey agar
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Mere Aaqa ki jaanib jo uthi nazar
+  Chhin luṅ ga un aankhoṅ se nur-e-basar
+  Kaat duṅ ga us aadmi ki zabaaṅ
+  Barh gaya koi had-e-adab se agar
 
   3
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Kash jab mein hoon masroof-e-kaar-e-ghira*
-  Maujiza aisa dikhlaye maira Khuda
-  Dekh kar mujhko alooda-e-khaak-o-khoon
-  Khud Imam-e-Zamaan keh uthein marhaba
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Kaash jab main huṅ masruf-e-kaar-e-ghira
+  Maujiza aisa dikhlaaye mera Khuda
+  Dekh kar mujh ko aaluda-e-khaak o khuṅ
+  Khud Imam-e-Zamaaṅ keh utheṅ marhaba
 
   4
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Jab alam lay kay maqtal ki janib barhoon
-  Yeh rujuz shaan-e-Mola Ali mein parhoon*
-  Ghum nahi hay kay haq goi kay jurm mein
-  Qatl karday zamana kay phaasi charhoon
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Jab alam le ke maqtal ki jaanib barhuṅ
+  Yeh rajaz shaan-e-Maula Ali mein parhuṅ
+  Gham nahiṅ hai ke haq goi ke jurm mein
+  Qatl kar de zamaana ke phaansi charhuṅ
 
   5
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Ta ba anjaam-e-ghaybat jo mein na rahoon
-  Ayy Khuda haq-e-nusrat ada yu karoon
-  Jab Imam apnay lashkar ko tarteeb dein
-  Mein bhi turbat sey labaik kehta uthoon
-  Daagh hay dil pay Zahra ki jageer ka
-  Ghum hay Aale Muhammad ki tash-heer ka
-  Kam sey kam itni mohlat Khuda bakhsh dey
-  Badla mein lay sakoon khoon-e-Shabbir ka
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Ta ba anjaam-e-ghaibat jo main na rahuṅ
+  Ae Khuda haq-e-nusrat ada yuṅ karuṅ
+  Jab Imam apne lashkar ko tartib deṅ
+  Main bhi turbat se labbaik kehta uthuṅ
+  Daagh hai dil pe Zahra ki jaagir ka
+  Gham hai Aal-e-Muhammad ki tashhir ka
+  Kam se kam itni mohlat Khuda bakhsh de
+  Badla main le sakuṅ khun-e-Shabbir ka
 
   6
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Karbala mein ajab zulm dhaye gaye
-  Loota hay sheh ko khaimay jalaye gaye
-  Mujrimo ki tarhaa dar ba dar nangay sir
-  AhleBayt-e-Muhammad phirayee gayee
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Karbala mein ajab zulm dhaaye gaye
+  Luta hai sheh ko khaime jalaaye gaye
+  Mujrimoṅ ki tarah dar ba dar nange sar
+  Ahl-e-Bait-e-Muhammad phiraai gai
 
   7
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Ashqiya zulm per zulm dhatay rahay
-  Bay sabab taziyaanay lagatay rahay
-  Khoon rotay rahay Ahlebayt-e-Nabi
-  Log jashn-e-musarrat manatay rahay
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Ashqiya zulm par zulm dhaate rahe
+  Be sabab taaziyaane lagaate rahe
+  Khun rote rahe Ahl-e-Bait-e-Nabi
+  Log jashn-e-musarrat manaate rahe
 
   8
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Baandh kar aik rassi mein bara galay
-  Soo-e-darbar-e-shaam ashqiya lay chalay
-  Koi aisa na tha jo yeh poochta
-  Khatm kab hoongay yeh zulm kay silsilay
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Baandh kar ek rassi mein baarah gale
+  Su-e-darbaar-e-Shaam ashqiya le chale
+  Koi aisa na tha jo yeh puchhta
+  Khatm kab hoṅ ge yeh zulm ke silsile
 
   9
-  Mein Imam-e-Zamaa ka sipahi banoo
-  Karbala dey rahee hay musalsal sada
-  Muntazir janay kab sey hain ahle wila*
-  Jald hoo abb zahoor-e-Imam-e-Zamaan
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
+  Karbala de rahi hai musalsal sada
+  Muntazir jaane kab se haiṅ ahl-e-wila
+  Jald ho ab zuhur-e-Imam-e-Zamaaṅ
 
   10
-  Mein Imam-e-Zamaa ka sipahi banoo
+  Main Imam-e-Zamaaṅ ka sipaahi banuṅ
 ---
 
 اے خدا! اے خدا! اے خدا!

@@ -11,20 +11,20 @@ aliases:
   - "Laye Mazdoor Utha Kar Tera Lasha Kazim"
 published: true
 romanLyrics: |-
-  laye mazdur utha kar tera laasha Kazim
-  pul pe Baghdad ke rakha hai janaza Kazim
+  Laaye mazdur utha kar tera laasha Kazim
+  Pul pe Baghdad ke rakha hai janaaza Kazim
 
   1
-  jism par lipti haiṅ zanjireiṅ rihayi kaisi
-  mar ke bhi qaid raha tera sarapa Kazim
+  Jism par lipti haiṅ zanjireṅ rihaayi kaisi
+  Mar ke bhi qaid raha tera saraapa Kazim
 
   2
-  is qadar chhota hai zindan aziyyat hai bari
-  sar utha sakte nahi Maula Musa Kazim
+  Is qadar chhota hai zindaan aziyyat hai bari
+  Sar utha sakte nahiṅ Maula Musa Kazim
 
   3
-  misl-e-Sughra woh tarapti rahi furqat meiṅ teri
-  betiyaṅ takti rahiṅ tera rasta Kazim
+  Misl-e-Sughra woh tarapti rahi furqat meiṅ teri
+  Betiyaaṅ takti rahiṅ tera rasta Kazim
 ---
 
 لائے مزدور اُٹھا کر تیرا لاشہ کاظم

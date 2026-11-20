@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Puchha gaya kiuṅ bol nahiṅ sakti Sakina
-  Maaṅ boli meri bachchi ki gardan jo bandhi hai
+  Maaṅ boli meri bachchi ki gardan jo baandhi hai
 
   4
   Darbaar meiṅ Zahra ki tarah chup hai ye Bibi

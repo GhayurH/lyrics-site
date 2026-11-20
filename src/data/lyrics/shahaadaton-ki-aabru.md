@@ -16,8 +16,8 @@ romanLyrics: |-
   Shahid-e-Karbala Husain
 
   1
-  Imaam-e-mashraqain hai
-  Imaam-e-maghrabaiṅ hai
+  Imaam-e-mashriqain hai
+  Imaam-e-maghribeṅ hai
   Zamiṅ se aasmaan tak
   Husain hi Husain hai
   Qaraar-e-qalb-e-Mustafa
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   3
   Jo shah rag-e-yaqin se
-  Teri hayaat jil gayi
+  Teri hayaat jal gayi
   Tere lahu ki dhaar se
   Chhuri ki dhaar mur gayi
   Sitam na qatl kar saka
@@ -42,7 +42,7 @@ romanLyrics: |-
   4
   Hai sar darez paaoṅ par
   Zamaane bhar ki azmateṅ
-  Udhar salaam ke liye
+  Idhar salaam ke liye
   Khari hui hai aayateṅ
   Ke pal hai fakhr-e-innama
   Waqaar-e-hal ataa Husain
@@ -51,7 +51,7 @@ romanLyrics: |-
   Wo tashnagi ke maarkeṅ
   Furaat ki kahaaniyaṅ
   Wo phul jaise bachpane
-  Rasul si jawaaniyaṅ
+  Rasul se jawaaniyaṅ
   Khuda ka din kabhi tujhe
   Bhula na paayega Husain
 
@@ -76,7 +76,7 @@ romanLyrics: |-
   Hawa ke rukh ko mor do
   Utho Husainiyoṅ utho
   Diloṅ se dil ko jor do
-  Banenge khud hi raaste
+  Banega khud hi raaste
   Kaho to mil ke ya Husain
 
   9

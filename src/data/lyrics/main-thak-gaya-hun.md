@@ -14,46 +14,46 @@ published: true
 romanLyrics: |-
   Aaye faras ki zin se jab khaak par Husain
   Maadar ka chehra dekh ke karne lage ye bain
-  Ammaa maiṅ thak gaya huṅ maaṅ
-  Apni aaghosh meiṅ kuch der sula lo Ammaa
+  Ammaaṅ main thak gaya huṅ maaṅ
+  Apni aaghosh mein kuch der sula lo ammaaṅ
 
-  Maiṅ thak gaya huṅ ye laashe utha ke ae Ammaa
-  Apni aaghosh meiṅ kuch der sula lo Ammaa
+  Main thak gaya huṅ ye laashe utha ke ae ammaaṅ
+  Apni aaghosh mein kuch der sula lo ammaaṅ
 
   1
   Kitne naize hai Muhammad ke nawaase ke liye
   Qatl se pehle zara der dilaase ke liye
-  Apne mazlum ko sine se laga lo Ammaa
+  Apne mazlum ko sine se laga lo ammaaṅ
 
   2
   Qatl Abbas ka ho jaana qaza thi meri
-  Barchhi Akbar ko nahiṅ mere kaleje meiṅ lagi
-  Gham ki barchhi mere sine se nikaalo Ammaa
+  Barchhi Akbar ko nahiṅ mere kaleje mein lagi
+  Gham ki barchhi mere sine se nikaalo ammaaṅ
 
   3
   Ab mere khun ka pyaasa hai ye jangal saara
-  Koi is dasht meiṅ naasir bhi nahiṅ hai mera
-  Ho sake to mere Ghaazi ko bula lo Ammaa
+  Koi is dasht mein naasir bhi nahiṅ hai mera
+  Ho sake to mere ghaazi ko bula lo ammaaṅ
 
   4
-  Halq sukha hai kaleje meiṅ dukhan hoti hai
-  Ret zakhmoṅ meiṅ jo jaati hai chubhan hoti hai
-  Apni chaadar ko mere zakhmoṅ pe daalo Ammaa
+  Halq sukha hai kaleje mein dukhan hoti hai
+  Ret zakhmoṅ mein jo jaati hai chubhan hoti hai
+  Apni chaadar ko mere zakhmoṅ pe daalo ammaaṅ
 
   5
   Dekh ke Aun o Muhammad ko sar-e-dasht-e-bala
   Dil yuṅ tukre hua jis tarah badan Qaasim ka
-  Mere is tute hue dil ko sambhaalo Ammaa
+  Mere is tute hue dil ko sambhaalo ammaaṅ
 
   6
   Koi sar par nahiṅ gham kis ko sunaaye muztar
-  Baad mere meri Zainab ki chhinegi chaadar
-  Meri Zainab ko ujarne se bacha lo Ammaa
+  Baad mere meri Zainab ki chhine gi chaadar
+  Meri Zainab ko ujarne se bacha lo ammaaṅ
 
   7
   Ye jo Farhan ke Mazhar ke laboṅ par hai buka
-  Keh rahe the dam-e-zibh ye Shah-e-Karbobala
-  Zer-e-khanjar huṅ nigaahoṅ ko hata lo Ammaa
+  Keh rahe the dam-e-zibh ye Shah-e-Karb o Bala
+  Zer-e-khanjar huṅ nigaahoṅ ko hata lo ammaaṅ
 ---
 آئے فرس کی زین سے جب خاک پر حسین
 مادر کا چہرہ دیکھ کے کرنے لگے یہ بین

@@ -14,39 +14,39 @@ romanLyrics: |-
   Jor kar nanhe se haathoṅ ko Sakina ne kaha
 
   1
-  Apni Beti Ki Taraf Pyar Se Dekho Baba.
-  Yeh Meri Aakhri Khuwaish Hi Samajh Lo Baba.
-  Kuch Nahi Mango Gi Phir Tum Se Yeh Wadah Hai Mera.
+  Apni beti ki taraf pyaar se dekho Baba
+  Yeh meri aakhri khwaahish hi samajh lo Baba
+  Kuch nahiṅ maanguṅ gi phir tum se yeh waada hai mera
 
   2
-  Pass beShir Ke Maqtal Meiṅ Chale Jao Gaye.
-  Mujh Ko Malum Hai Ab Aap Nahi Ayo Gaye.
-  Kya Yeh Mumkin Nahi Kuch Dair Theher Jao Zara.
+  Paas Beshir ke maqtal meiṅ chale jaao ge
+  Mujh ko maalum hai ke ab aap nahiṅ aao ge
+  Kya yeh mumkin nahiṅ kuch der thehar jaao zara
 
   3
-  Phul Ki Tarha Sada Sath Hi Rakha Mujh Ko.
-  Aaj Tak Aap Ne Tanha Nahi Chora Mujh Ko.
-  Ab Mujhe Chur Ke Kiuṅ Jate Ho Tanha Baba.
+  Phul ki tarah sada saath rakha mujh ko
+  Aaj tak aap ne tanha nahiṅ chhora mujh ko
+  Ab mujhe chhor ke kiuṅ jaate ho tanha Baba
 
   4
-  Tanha Maidan Meiṅ Hargiz Nahi Jane Dete.
-  Hote Ghazi Tu Sakina Ki Sifarash Karte.
-  Aap Ko Wasta Ghazi Ke Kate Shano Ka.
+  Tanha maidaan meiṅ hargiz nahiṅ jaane dete
+  Hote Ghazi to Sakina ki sifaarish karte
+  Aap ko waasta Ghazi ke kate shaanoṅ ka
 
   5
-  Yeh Amanat Na Koi Chin Le Mujh Se Aa Kar.
-  Sath Le Jaiye Baba Mere Kano Ke Gohar.
-  Apni Masum Sakina Pe Yeh Ahsaaṅ Ho Ga.
+  Yeh amaanat na koi chhin le mujh se aa kar
+  Saath le jaaiye Baba mere kaanoṅ ke gauhar
+  Apni maasum Sakina pe yeh ahsaaṅ hoga
 
   6
-  Phir Se Quran Muhabbat Ki Tilawat Kar Loon.
-  Dil Yeh Kehta Hai Keh Ji Bhar Ke Ziyarat Kar Loon.
-  Ab Kahan Ho Gi Mulaqat Na Jane Baba.
+  Phir se Quran muhabbat ki tilaawat kar luṅ
+  Dil yeh kehta hai ke ji bhar ke ziyaarat kar luṅ
+  Ab kahaaṅ hogi mulaaqaat na jaane Baba
 
   7
-  Waqt Ae Kash Takallum Jo Wahiṅ Ruk Jata.
-  Apne Baba Se Sakina Na Kabhi Hoti Juda.
-  Phir Kabhi Aati Na Masum Laboṅ Se Yeh Sada.
+  Waqt ae kaash Takallum jo wahiṅ ruk jaata
+  Apne Baba se Sakina na kabhi hoti juda
+  Phir kabhi aati na maasum laboṅ se yeh sada
 ---
 ایک بار اور مجھے گود میں لے لو بابا
 جوڑ کر ننھے سے ہاتھوں کو سکینہ نے کہا

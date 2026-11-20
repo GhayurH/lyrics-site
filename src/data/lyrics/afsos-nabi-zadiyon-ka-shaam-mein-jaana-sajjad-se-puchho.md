@@ -12,47 +12,47 @@ published: true
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Afsos Nabi zadiyoṅ ka Shaam meiṅ jaana Sajjad se puchho
-  Sar nange wo maaoṅ behnoṅ ka darbar meiṅ jaana Sajjad se puchho
+  Sar nange wo maaoṅ behnoṅ ka darbaar meiṅ jaana Sajjad se puchho
 
   1
   Chhupti thi Nabi zadi Nabi zadi ke pichhe kis sharm o haya se
-  Aur Shimr ka un Bibiyoṅ ke naam batana Sajjad se puchho
+  Aur Shimr ka un Bibiyoṅ ke naam bataana Sajjad se puchho
 
   2
-  Baithe hue darbar meiṅ sab chhote bare the Sadaat khare the
-  Sar tasht meiṅ rakha hua Zainab ko dikhana Sajjad se puchho
+  Baithe hue darbaar meiṅ sab chhote bare the Sadaat khare the
+  Sar tasht meiṅ rakha hua Zainab ko dikhaana Sajjad se puchho
 
   3
-  Jab Dukhtar-e-Shabbir ne zindaṅ meiṅ qaza ki aafat ki ghari thi
-  Wo nanhi si maiyyat bandhe haathoṅ se uthana Sajjad se puchho
+  Jab dukhtar-e-Shabbir ne zindaaṅ meiṅ qaza ki aafat ki ghari thi
+  Wo nanhi si mayyat bandhe haathoṅ se uthaana Sajjad se puchho
 
   4
-  Jab ghusl Sakina ko wahaṅ de chuki ghassal tha sab ka bura haal
-  Us nanhi si maiyyat pe nishan rassi ke paana Sajjad se puchho
+  Jab ghusl Sakina ko wahaaṅ de chuki ghassal tha sab ka bura haal
+  Us nanhi si mayyat pe nishaan rassi ke paana Sajjad se puchho
 
   5
-  Thi ek rasan baara asiaroṅ ke gale the sab chupke khare the
+  Thi ek rasan baara asiroṅ ke gale the sab chupke khare the
   Rassi meiṅ bandhe Zainab o Kulsum ka aana Sajjad se puchho
 
   6
   Sar Hazrat-e-Muslim ka latakta tha jahaaṅ par waaṅ Sheh ka ruka sar
-  Durr Abid-e-bimar ko us waqt lagana Sajjad se puchho
+  Dar Sayyid Sajjad ko us waqt lagaana Sajjad se puchho
 
   7
   Jab baali Sakina ko ghusl dete the Sajjad faryaad hai faryaad
   Us nanhi si gardan pe nishaan rassi ke paana Sajjad se puchho
 
   8
-  Ghash kha ke gire Sayyid-e-Sajjad zamiṅ par barpa hua mahshar
-  Neze ki ani se unheiṅ us waqt uthana Sajjad se puchho
+  Ghash kha ke gire Sayyid Sajjad zamiṅ par barpa hua mahshar
+  Neze ki ani se unheiṅ us waqt uthaana Sajjad se puchho
 
   9
   Jab qaid-e-sitamgar se chhute Aal-e-Payambar ek shor tha ghar ghar
-  Athaarah azizoṅ ki lahad aa ke banana Sajjad se puchho
+  Athaarah azizoṅ ki lahad aa ke banaana Sajjad se puchho
 
   10
-  Akbar jo gire ghore se kehne lage Shabbir beta teri taqdir
-  Ek zaalim-e-bedin ka yuṅ neza lagana Sajjad se puchho
+  Akbar jo gire ghore se kehne lage Shabbir beta tiri taqdir
+  Ek zaalim-e-bedin ka yuṅ neza lagaana Sajjad se puchho
 ---
 افسوس نبی زادیوں کا شام میں جانا سجاد سے پوچھو
 سر ننگے وہ ماؤں بہنوں کا دربار میں جانا سجاد سے پوچھو

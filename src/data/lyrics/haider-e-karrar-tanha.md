@@ -13,9 +13,9 @@ aliases: ["Hydere Karar Tanha"]
 published: true
 romanLyrics: |-
   Ali ki aankh meiṅ aansu the aur hontoṅ pe ye nauha
-  Jo dil ka haal hai mere kabhi ummat na samjhegi
+  Jo dil ka haal hai mere kabhi ummat na samjhe gi
   Ali kehte the maiṅ talwaar se maara na jaauṅ ga
-  Magar Zahra ye tanhaai to meri jaan le legi
+  Magar Zahra ye tanhaai to meri jaan le gi
 
   Suno Zahra Madine meiṅ tera ghamkhwaar tanha hai
   Tumhaare baad Zahra Haider-e-Karrar tanha hai
@@ -51,8 +51,8 @@ romanLyrics: |-
 
   7
   Azaan-e-fajr nauha ban gayi hai aaj Kufe meiṅ
-  Kiya hai waar roze daar pe zaalim ne sajde meiṅ
-  Lahu itna baha sar se amaama khuṅ meiṅ duba hai
+  Kiya hai waar roza daar pe zaalim ne sajde meiṅ
+  Lahu itna baha sar se imaama khuṅ meiṅ duba hai
 
   8
   Maiṅ zakhmi huṅ magar taklif mujh ko ye nahiṅ Bibi

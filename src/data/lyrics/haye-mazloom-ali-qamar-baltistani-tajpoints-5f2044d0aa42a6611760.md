@@ -1,34 +1,58 @@
 ---
-title: "Haye Mazloom Ali Qamar Baltistani"
+title: "ہائے مظلوم علی قمر بلتستانی"
+alternateTitle: "Haye Mazloom Ali Qamar Baltistani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Alvi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye mazloom Ali Qamar Baltistani
+  Kaisi kaisi hai jafa tujh pe hoi bad-e-Nabi
+  Zakhm-e-Zahra abhi taza tha, howa sar zakhmi
+  Samne tere, tere dar ko jalaya maula
+  Cheen kar haq teri Zahra ko rulaya maula
+  Behar-e-baiyat teri gardan mein rasan bhi hai bandhi
+  Khoon rulata hai bohat hum ko yeh tareekh ka baab
+  Koi deta hi na tha tere salamo ka jawab
+  Kalma goyon ne diya tujh ko sila maula yehi
+  Pehle Ahmad ki judai ne sataya tujh ko
+  Our Zahra ki musibat ne rulaya tujh ko
+  Oss pe gham bantne ghar tere na aaya koi
+  Kalma goyon ne rakhi tujh se adawat maula
+  Mimberon se teri hoti thi ahanat maula
+  Tere mazloom Hasan ne yeh qayamat dekhi
+  Tujh pe mehrab-e-ibadat mein chali taig-e-sitam
+  Aaj tak har dil-e-momin mein hai taza tera gham
+  Tujh sa mazloom zamane mein nahi dekha koi
+  Dil hai Alvi keh ossay noha suna kar royon
+  Marqad-e-Meesum-e-Tammar pe ja kar royon
+  Kash maula meri ban jaye sand noha yehi
 ---
 
-1
-Haye Mazloom Ali Qamar Baltistani.
-Kaisi Kaisi Hai Jafa Tujh Pe Hoi Bad-e-Nabi.
-Zakhm-e-Zahra Abhi Taza Tha, Howa Sar Zakhmi.
-Samne Tere, Tere Dar Ko Jalaya Maula.
-Cheen Kar Haq Teri Zahra Ko Rulaya Maula.
-Behar-e-Baiyat Teri Gardan Mein Rasan Bhi Hai Bandhi.
-Khoon Rulata Hai Bohat Hum Ko Yeh Tareekh Ka Baab.
-Koi Deta Hi Na Tha Tere Salamo Ka Jawab.
-Kalma Goyon Ne Diya Tujh Ko Sila Maula Yehi.
-Pehle Ahmad Ki Judai Ne Sataya Tujh Ko.
-Our Zahra Ki Musibat Ne Rulaya Tujh Ko.
-Oss Pe Gham Bantne Ghar Tere Na Aaya Koi.
-Kalma Goyon Ne Rakhi Tujh Se Adawat Maula.
-Mimberon Se Teri Hoti Thi Ahanat Maula.
-Tere Mazloom Hasan Ne Yeh Qayamat Dekhi.
-Tujh Pe Mehrab-e-Ibadat Mein Chali Taig-e-Sitam.
-Aaj Tak Har Dil-e-Momin Mein Hai Taza Tera Gham.
-Tujh Sa Mazloom Zamane Mein Nahi Dekha Koi.
-Dil Hai Alvi Keh Ossay Noha Suna Kar Royon.
-Marqad-e-Meesum-e-Tammar Pe Ja Kar Royon.
-Kash Maula Meri Ban Jaye Sand Noha Yehi.
+۱
+ہائے مظلوم علی قمر بلتستانی
+کیسی کیسی ہے جفا تجھ پہ ہوئی بعدِ نبی
+زخمِ زہرا ابھی تازہ تھا، ہوا سر زخمی
+سامنے تیرے، تیرے در کو جلایا مولا
+چھین کر حق تیری زہرا کو رلایا مولا
+بہرِ بیعت تیری گردن میں رسن بھی ہے بندھی
+خون رلاتا ہے بہت ہم کو یہ تاریخ کا باب
+کوئی دیتا ہی نہ تھا تیرے سلاموں کا جواب
+کلمہ گویوں نے دیا تجھ کو صلہ مولا یہی
+پہلے احمد کی جدائی نے ستایا تجھ کو
+اور زہرا کی مصیبت نے رلایا تجھ کو
+اس پہ غم بانٹنے گھر تیرے نہ آیا کوئی
+کلمہ گویوں نے رکھی تجھ سے عداوت مولا
+منبروں سے تیری ہوتی تھی اہانت مولا
+تیرے مظلوم حسن نے یہ قیامت دیکھی
+تجھ پہ محرابِ عبادت میں چلی تیغِ ستم
+آج تک ہر دلِ مومن میں ہے تازہ تیرا غم
+تجھ سا مظلوم زمانے میں نہیں دیکھا کوئی
+دل ہے علوی کہ اسے نوحہ سنا کر روؤں
+مرقدِ میثمِ تمار پہ جا کر روؤں
+کاش مولا میری بن جائے سند نوحہ یہی

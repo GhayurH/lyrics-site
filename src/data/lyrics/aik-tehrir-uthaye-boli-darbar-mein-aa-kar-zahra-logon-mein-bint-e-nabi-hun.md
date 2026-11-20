@@ -11,39 +11,39 @@ aliases:
   - "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
 published: true
 romanLyrics: |-
-  Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-e-Nabi Huṅ
-  Aisa Badla Hai Madina, Apna Haq Maang Rahi Huṅ Ghasib Se
-  Kalma Go Kursi Nashiṅ Hai, Aur Maiṅ Kab Se Khari Huṅ
+  Aik tehrir uthaaye, boli darbaar mein aa kar Zahra, logoṅ main bint-e-Nabi huṅ
+  Aisa badla hai Madina, apna haq maang rahi huṅ ghaasib se
+  Kalma go kursi nashiṅ hai, aur main kab se khari huṅ
 
   1
-  Jitne Dukh Maiṅ ne Sahe, Gar Woh Din Par Bhi Pareiṅ, Woh Siyah Raat Baneiṅ
-  Yehi Dukh Kam To Nahiṅ Hai, Is Qadar Tanha Madine Meiṅ Hui Huṅ
-  Koi Sunta Hi Nahiṅ Hai, Ke Maiṅ Kya Bol Rahi Huṅ
+  Jitne dukh main ne sahe, gar woh din par bhi pareṅ, woh siyaah raat baneṅ
+  Yehi dukh kam to nahiṅ hai, is qadar tanha Madine mein hui huṅ
+  Koi sunta hi nahiṅ hai, ke main kya bol rahi huṅ
 
   2
-  Aise Khamosh Ho Kiuṅ, Kehna Chaho Jo Kaho, Amma Kuch To Bolo
-  Ro Ke Boli Betoṅ Se, Saath Behno Ka Nibhana Karbal Meiṅ
-  Nange Sar Kaise Chalengi, Bas Yehi Soch Rahi Huṅ
+  Aise khaamosh ho kiuṅ, kehna chaaho jo kaho, ammaaṅ kuchh to bolo
+  Ro ke boli betoṅ se, saath behnoṅ ka nibhaana Karbal mein
+  Nange sar kaise chaleṅgi, bas yehi soch rahi huṅ
 
   3
-  Pucha Haider Ne Bata, Kya Kya Masjid Meiṅ Hua, Ro Ke Bas Itna Kaha
-  Kabhi Diwaroṅ Ko Thama, Kabhi Maiṅ Khaak Pe Baithi Huṅ Thak Kar
-  Kabhi Betoṅ Ne Sambhala, Kabhi Raste Meiṅ Giri Huṅ
+  Puchha Haider ne bata, kya kya masjid mein hua, ro ke bas itna kaha
+  Kabhi diwaaroṅ ko thaama, kabhi main khaak pe baithi huṅ thak kar
+  Kabhi betoṅ ne sambhaala, kabhi raste mein giri huṅ
 
   4
-  Woh To Kamsin Hai Abhi, Dur Hai Shaam Se Bhi, Seh Na Payegi Kabhi
-  Mujh Se Zainab Ne Yeh Pucha, Kahaṅ Jati Ho Batao Ae Amma
-  Maiṅ ne Zainab Se Chhupaya, Ke Maiṅ Darbar Chali Huṅ
+  Woh to kamsin hai abhi, dur hai Shaam se bhi, seh na paayegi kabhi
+  Mujh se Zainab ne yeh puchha, kahaaṅ jaati ho bataao ae ammaaṅ
+  Main ne Zainab se chhupaaya, ke main darbaar chali huṅ
 
   5
-  Mera Haq Chhin Liya, Ajr Yeh Mujh Ko Diya, Yeh Sitam Mujh Pe Kiya
-  Mujhe Darbar Bulaya, Zakhm Woh Dil Pe Lagaya Hai Mere
-  Mera Dil Khun Hua Hai, Sar-e-Darbar Khari Huṅ
+  Mera haq chhin liya, ajr yeh mujh ko diya, yeh sitam mujh pe kiya
+  Mujhe darbaar bulaaya, zakhm woh dil pe lagaaya hai mire
+  Mera dil khun hua hai, sar-e-darbaar khari huṅ
 
   6
-  Turbat-e-Bint-e-Nabi, Dekhe Akbar Jo Kabhi, Mujh Ko Lagta Hai Yehi
-  Us Ka Mehdi Kehta Hai, Muntaqim Ban Ke Madine Zahra Ka
-  Jald Aaunga Maiṅ Logo, Daur-e-Hazir Ka Ali Huṅ
+  Turbat-e-bint-e-Nabi, dekhe Akbar jo kabhi, mujh ko lagta hai yehi
+  Us ka Mehdi kehta hai, muntaqim ban ke Madine Zahra ka
+  Jald aauṅ ga main logo, daur-e-haazir ka Ali huṅ
 ---
 
 ایک تحریر اٹھائے، بولی دربار میں آ کر زہراؑ، لوگوں میں بنتِ نبی ہوں

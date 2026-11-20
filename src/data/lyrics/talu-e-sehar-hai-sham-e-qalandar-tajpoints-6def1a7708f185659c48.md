@@ -1,23 +1,36 @@
 ---
-title: "Talu-e-Sehar Hai Sham-e-Qalandar"
+title: "طلوعِ سحر ہے شامِ قلندر"
+alternateTitle: "Talu-e-Sehar Hai Sham-e-Qalandar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+reciter: "Noor Jahan"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Utho rindo piyo jaam-e-Qalandar
+  Piyo may our jhomo sare aye hain Paak Dowarey
+  Iss dar pe jhomein nachein har raat ko chand sitare
+  Sitaron ka ghar hai Shaam-e-Qalandar
+  Sab Ghoos, Qutab, Subhani, nahi koi Shehbaz ka sani
+  Yeh hai Panjtan Pak ke ghar ki wahid anmool nishani
+  Keh hai naam-e-Khuda naam-e-Qalandar
+  Allah ki masti mein hai Shehbaz ki masti shamil
+  Jo har dam kehte hain Lal Lal hai peer unhi ka kamil
+  Kahin Aaqa kahin Mola kahin hai naam-e-Qalandar
 ---
 
-1
-Utho Rindo Piyo Jaam-e-Qalandar.
-Piyo May Our Jhomo Sare Aye Hain Paak Dowarey.
-Iss Dar Pe Jhomein Nachein Har Raat Ko Chand Sitare.
-Sitaron Ka Ghar Hai Shaam-e-Qalandar.
-Sab Ghoos,Qutab,Subhani, Nahi Koi Shehbaz Ka Sani.
-Yeh Hai Panjtan Pak Ke Ghar Ki Wahid Anmool Nishani.
-Keh Hai Naam-e-Khuda Naam-e-Qalandar.
-Allah Ki Masti Mein Hai Shehbaz Ki Masti Shamil.
-Jo Har Dam Kehte Hain Lal Lal Hai Peer Unhi Ka Kamil.
-Kahin Aaqa Kahin Mola Kahin Hai Naam-e-Qalandar.
-Vocalist::Noor Jahan:
+۱
+اٹھو رندو پیو جامِ قلندر
+پیو مے اور جھومو سارے آئے ہیں پاک دوارے
+اس در پہ جھومیں ناچیں ہر رات کو چاند ستارے
+ستاروں کا گھر ہے شامِ قلندر
+سب غوث، قطب، سبحانی، نہیں کوئی شہباز کا ثانی
+یہ ہے پنجتن پاک کے گھر کی واحد انمول نشانی
+کہ ہے نامِ خدا نامِ قلندر
+اللہ کی مستی میں ہے شہباز کی مستی شامل
+جو ہر دم کہتے ہیں لال لال ہے پیر انہی کا کامل
+کہیں آقا کہیں مولا کہیں ہے نامِ قلندر

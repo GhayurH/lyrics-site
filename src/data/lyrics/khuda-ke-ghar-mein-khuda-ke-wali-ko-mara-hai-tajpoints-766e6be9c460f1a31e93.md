@@ -1,38 +1,66 @@
 ---
-title: "Khuda Ke Ghar Mein Khuda Ke Wali Ko Mara Hai"
+title: "خدا کے گھر میں خدا کے ولی کو مارا ہے"
+alternateTitle: "Khuda Ke Ghar Mein Khuda Ke Wali Ko Mara Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Shahi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khuda ke ghar mein Khuda ke wali ko mara hai
+  Rasool Pak ka dil gham se parah parah hai
+
+  1
+  Chalai taig hai zalim ne oss namazi par
+  Imam-e-Haq hai do alam ka jo sahara hai
+  Sitara arsh se chokhat pe jiski utra tha
+  Laho mein doba howa aaj woh sitara hai
+
+  2
+  Ali ke sath mein tujh ko khabar hai aye zalim
+  Na jane kitne yateemo ko tu ne mara hai
+  Yateem kar diya haye ossi ke bachon ko
+  Woh jis ne deen ka muqadar sada sanwara hai
+
+  3
+  Janaza dekh ke Haider ka boli rooh-e-Nabi
+  Ali beghair mera deen be-sahara hai
+  Na jao chor ke Zainab yeh ke kehne lagi
+  Humein tumhari judai kahan gawara hai
+
+  4
+  Zamana bole ga hum ko yateem aye baba
+  Yeh keh ke qabar mein Hasnain ne utara hai
+  Nijaat oss ko ghamo se mili hai aye Shahi
+  Ali ko jis ne madad ke liye pukara hai
 ---
 
-Khuda Ke Ghar Mein Khuda Ke Wali Ko Mara Hai.
-Rasool Pak Ka Dil Gham Se Parah Parah Hai.
+خدا کے گھر میں خدا کے ولی کو مارا ہے
+رسولِ پاک کا دل غم سے پارہ پارہ ہے
 
-1
-Chalai Taig Hai Zalim Ne Oss Namazi Par.
-Imam-e-Haq Hai Do Alam Ka Jo Sahara Hai.
-Sitara Arsh Se Chokhat Pe Jiski Utra Tha.
-Laho Mein Doba Howa Aaj Woh Sitara Hai.
+۱
+چلائی تیغ ہے ظالم نے اس نمازی پر
+امامِ حق ہے دو عالم کا جو سہارا ہے
+ستارہ عرش سے چوکھٹ پہ جس کی اترا تھا
+لہو میں ڈوبا ہوا آج وہ ستارہ ہے
 
-2
-Ali Ke Sath Mein Tujh Ko Khabar Hai Aye Zalim
-Na Jane Kitne Yateemo Ko Tu Ne Mara Hai.
-Yateem Kar Diya Haye Ossi Ke Bachon Ko.
-Woh Jis Ne Deen Ka Muqadar Sada Sanwara Hai.
+۲
+علی کے ساتھ میں تجھ کو خبر ہے، اے ظالم
+نہ جانے کتنے یتیموں کو تو نے مارا ہے
+یتیم کر دیا ہائے اسی کے بچوں کو
+وہ جس نے دین کا مقدر سدا سنوارا ہے
 
-3
-Janaza Dekh Ke Haider Ka Boli Rooh-e-Nabi.
-Ali Beghair Mera Deen Be-Sahara Hai.
-Na Jao Chor Ke Zainab Yeh Ke Kehne Lagi.
-Humein Tumhari Judai Kahan Gawara Hai.
+۳
+جنازہ دیکھ کے حیدر کا بولی روحِ نبی
+علی بغیر میرا دین بے سہارا ہے
+نہ جاؤ چھوڑ کے، زینب یہ کہہ کہنے لگی
+ہمیں تمہاری جدائی کہاں گوارا ہے
 
-4
-Zamana Bole Ga Hum Ko Yateem Aye Baba.
-Yeh Keh Ke Qabar Mein Hasnain Ne Utara Hai.
-Nijaat Oss Ko Ghamo Se Mili Hai Aye Shahi.
-Ali Ko Jis Ne Madad Ke Liye Pukara Hai.
+۴
+زمانہ بولے گا ہم کو یتیم، اے بابا
+یہ کہہ کے قبر میں حسنین نے اتارا ہے
+نجات اس کو غموں سے ملی ہے، اے شاہی
+علی کو جس نے مدد کے لیے پکارا ہے

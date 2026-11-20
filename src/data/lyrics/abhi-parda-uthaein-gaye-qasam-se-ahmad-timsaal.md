@@ -1,6 +1,6 @@
 ---
 title: "ابھی پردہ اٹھائیں گے قسم سے احمد تمثال"
-alternateTitle: "Abhi Parda Uthaein Gaye Qasam Se Ahmad Timsaal"
+alternateTitle: "Abhi Parda Uthaaeṅ Ge Qasam Se Ahmad Timsaal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ poet: "Ahmad"
 aliases: []
 published: false
 romanLyrics: |-
-  Abhi parda uthaein gaye qasam se Ahmad timsaal
-  Rukh-e-Zeba dikhaein gay qasam se
+  Abhi parda uthaaeṅ ge qasam se Ahmad Timsaal
+  Rukh-e-zeba dikhaaeṅ ge qasam se
 
   1
-  Jahan mein noor hi bas noor ho ga
-  Andherey munh chupaein gay qasam se
-  Baharon ki haseen barsat ho gi
-  Shajar moti ugaein gay qasam se
+  Jahaaṅ mein nur hi bas nur ho ga
+  Andhere munh chhupaaeṅ ge qasam se
+  Bahaaroṅ ki hasin barsaat ho gi
+  Shajar moti ugaaeṅ ge qasam se
 
   2
-  Suno ghaibat se aa kar zalimo ko
-  Woh khud soli charhaein gay qasam se
-  Jinhoon ne Fatima ka dar jalaya
-  Unhein zindah jalein gay qasam se
+  Suno ghaibat se aa kar zaalimoṅ ko
+  Woh khud suli charhaaeṅ ge qasam se
+  Jinhoṅ ne Fatima ka dar jalaaya
+  Unheṅ zinda jalaaeṅ ge qasam se
 
   3
-  Azaan gonjay gi bas nam-e-Ali ki
-  Azaan jab woh dilaein gay qasam se
-  Dukanein band hongi muftiyon ki
-  Woh jab mimber pe aaein gay qasam se
+  Azaan gunje gi bas naam-e-Ali ki
+  Azaan jab woh dilaaeṅ ge qasam se
+  Dukaaneṅ band hoṅ gi muftiyoṅ ki
+  Woh jab mimber pe aaeṅ ge qasam se
 
   4
-  Bitha kar ru baro maula ko apne
-  Qasiday hum sunaein gay qasam se
-  Sakoon oss waqt hi aaye ga Ahmad
-  Woh jab tashreef laein gay qasam se
+  Bitha kar rubaru maula ko apne
+  Qaside hum sunaaeṅ ge qasam se
+  Sukun us waqt hi aaye ga Ahmad
+  Woh jab tashrif laaeṅ ge qasam se
 ---
 
 ابھی پردہ اٹھائیں گے قسم سے احمد تمثال

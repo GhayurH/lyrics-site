@@ -11,50 +11,50 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Amma laut aayi huṅ maiṅ
-  Daagh dil pe bahattar ke laayi huṅ maiṅ
+  Amma laut aayi huṅ main
+  Daagh dil pe bahattar ke laayi huṅ main
 
   1
   Jab gaye the yahaaṅ se to ghar tha bhara
   Gulistaan tera phuloṅ se aabaad tha
   Haaye dasht-e-sitam haaye Karb o Bala
   Lut kar le gaye sab bhara ghar mera
-  Sab luta aayi teri kamaai huṅ maiṅ
+  Sab luta aayi teri kamaai huṅ main
 
   2
   Qasim o Akbar o Asghar dilruba
-  Sab ke sab ho gaye Karbala meiṅ juda
+  Sab ke sab ho gaye Karbala mein juda
   Sher jaisa wo Abbas bhaai mera
   Kat gaye haath saahil pe maara gaya
-  Nehr pe bekafan chhor aayi huṅ maiṅ
+  Nehr pe bekafan chhor aayi huṅ main
 
   3
   Chumti thi bare pyaar se jo gala
-  Dasht-e-ghurbat meiṅ tan se hua wo juda
+  Dasht-e-ghurbat mein tan se hua wo juda
   Ik qatra dam-e-zabh mil na saka
   Laadla tera pyaasa jahaaṅ se gaya
-  Khun bhara pairahan saath laayi huṅ maiṅ
+  Khun bhara pairahan saath laayi huṅ main
 
   4
   Baad-e-Shabbir itna bara hausla
   Chhin kar le gaye chaadareṅ ashqiya
   Khaima-e-ahl par the Rasul Khuda
   Aag lagti gayi khaak hota gaya
-  Jalte khaimoṅ se Abid ko laayi huṅ maiṅ
+  Jalte khaimoṅ se Abid ko laayi huṅ main
 
   5
-  Ja baja pa barehna yuṅhi sar khule
-  Shaam o Kufa ki galiyoṅ meiṅ kheṅche gaye
+  Ja baja paa barahna yunhi sar khule
+  Shaam o Kufa ki galiyoṅ mein khenche gaye
   Kya kahuṅ waali-e-Shaam ke saamne
-  Haath the rassiyoṅ meiṅ hamaare bandhe
-  Nil baazu ke dikhlaane aayi huṅ maiṅ
+  Haath the rassiyoṅ mein hamaare bandhe
+  Nil baazu ke dikhlaane aayi huṅ main
 
   6
   Wo dulaari Sakina bhatiji meri
-  Kha rahi thi tamaanche maiṅ chup thi khari
+  Kha rahi thi tamaanche main chup thi khari
   Haaye re bebasi haaye bechaargi
   Wo sitam jhelte jhelte mar gayi
-  Shaam ki qaid meiṅ chhor aayi huṅ maiṅ
+  Shaam ki qaid mein chhor aayi huṅ main
 ---
 اماں لوٹ آئی ہوں میں
 داغ دل پہ بہتر کے لائی ہوں میں

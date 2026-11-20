@@ -1,35 +1,60 @@
 ---
-title: "Shabbar De Janaze Te Ainj Ghazi Farz Nibhaye Lyrics In Punjabi 2023"
+title: "شبّر دے جنازے تے اینج غازی فرض نبھائے"
+alternateTitle: "Shabbar De Janaze Te Ainj Ghazi Farz Nibhaye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sabir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shabbar de janaze te ainj Ghazi farz nibhaye
+  Kadi lash nu sanbhalay kadi teraan taun banaye
+  Kuhram ik bapa si wehray che Fatima de
+  Maiyyat choon teer Zainab, Kulsoom jad hataye
+
+  2
+  Shabbir janday ne yaan jandi aye Zainab
+  Paiwast teer kiwein lashay choon bar aaye
+  Jodah ne zehar de ke kita qatal Mujtaba da
+  Chalni badan si kita ummat ne fair haye
+
+  3
+  Tasbeeh e Fatima de khilray ne jiwein moti
+  Ohwein jigar de tukray seene choon bar aaye
+  Jis seene wich samaya haye pyar Syeda da
+  Oss seene wich ne lokaan haye teer hun chalaye
+
+  4
+  Ro aakhda si Ghazi mil jandi jay ijazat
+  Koi Addo na bach ke Yasrab choon bar jaye
+  Tareekh wich janaza na ghar nu mur ke aaya
+  Maiyyat kisay v Sabir aynj kafan do na paye
 ---
 
-1
-Shabbar De Janaze Te Ainj Ghazi Farz Nibhaye.
-Kadi Lash Nu Sanbhalay Kadi Teraan Taun Banaye.
-Kuhram Ik Bapa Si Wehray Che Fatima De.
-Maiyyat Choon Teer Zainab, Kulsoom Jad Hataye.
+۱
+شبّر دے جنازے تے اینج غازی فرض نبھائے
+کدی لاش نوں سنبھالے کدی تیراں توں بنائے
+کہرام اک بپا سی ویہڑے چ فاطمہ دے
+میّت چوں تیر زینب، کلثوم جد ہٹائے
 
-2
-Shabbir Janday Ne Yaan Jandi Aye Zainab.
-Paiwast Teer Kiwein Lashay Choon Bar Aaye.
-Jodah Ne Zehar De Ke Kita Qatal Mujtaba Da.
-Chalni Badan Si Kita Ummat Ne Fair Haye.
+۲
+شبّیر جاندے نے یاں جاندی اے زینب
+پیوست تیر کیویں لاشے چوں بار آئے
+جعدہ نے زہر دے کے کیتا قتل مجتبیٰ دا
+چھلنی بدن سی کیتا امّت نے فیر ہائے
 
-3
-Tasbeeh e Fatima De Khilray Ne Jiwein Moti.
-Ohwein Jigar De Tukray Seene Choon Bar Aaye.
-Jis Seene Wich Samaya Haye Pyar Syeda Da.
-Oss Seene Wich Ne Lokaan Haye Teer Hun Chalaye.
+۳
+تسبیحِ فاطمہ دے کھلرے نے جیویں موتی
+اوہویں جگر دے ٹکڑے سینے چوں بار آئے
+جس سینے وچ سمایا ہے پیار سیّدہ دا
+اوس سینے وچ نے لوکاں ہائے تیر ہن چلائے
 
-4
-Ro Aakhda Si Ghazi Mil Jandi Jay Ijazat.
-Koi Addo Na Bach Ke Yasrab Choon Bar Jaye.
-Tareekh Wich Janaza Na Ghar Nu Mur Ke Aaya.
-Maiyyat Kisay V Sabir Aynj Kafan Do Na Paye.
+۴
+رو آکھدا سی غازی مل جاندی جے اجازت
+کوئی عدو نہ بچ کے یثرب چوں بار جائے
+تاریخ وچ جنازہ نہ گھر نوں مڑ کے آیا
+میّت کسے وی صابر اینج کفن دو نہ پائے

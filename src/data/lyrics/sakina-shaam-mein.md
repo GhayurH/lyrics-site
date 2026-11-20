@@ -24,7 +24,7 @@ romanLyrics: |-
   Sakina ki qaza us par qayaamat dhaa gayi logo
 
   3
-  Bandhe haathoṅ pe ek bimaar laaya behan ki mayyat
+  Bandhe haathoṅ pe ik bimaar laaya behan ki mayyat
   Ye aulaad-e-Nabi par kaisi ghurbat chhaa gayi logo
 
   4

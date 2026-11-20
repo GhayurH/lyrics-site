@@ -1,6 +1,6 @@
 ---
 title: "شہید کربلا بابا"
-alternateTitle: "Shahide Karbala Baba"
+alternateTitle: "Shahid-e-Karbala Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,22 +9,22 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shahid e karbala baba
+  Shahid-e-Karbala baba
 
   1
-  Gharib ul bewatan baba
-  Bayan karti thi ye sughra
-  Mere be kafan baba
-  Hasan ko zehr pilwaya
-  Tumhe tayghoṅ se katwaya
-  Mitaya rafta rafta yuṅ
-  Nishan e panjetan baba
+  Gharib-ul-watan baba
+  Bayaan karti thi ye Sughra
+  Mere bekafan baba
+  Hasan ko zehr pilwaaya
+  Tumheṅ teghoṅ se katwaaya
+  Mitaaya rafta yuṅ
+  Nishaan-e-Panjtan baba
 
   2
-  Agar humraah mai hoti
-  Tumhari laash pe roti
-  Gadhaye kar ke pehnaati
-  Tumhe do gaz kafan baba
+  Agar hamraah main hoti
+  Tumhaari laash pe roti
+  Gadaai kar ke pehnaati
+  Tumheṅ do gaz kafan baba
 ---
 
 شہید کربلا بابا

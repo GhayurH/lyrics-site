@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Pyari sakina pyasi sakina
-  Pyari sakina bali sakina
-  Soja sakina soja sakina
-  Phir na milega baba ka seena
-  Soja sakina soja sakina
+  Pyaari Sakina pyaasi Sakina
+  Pyaari Sakina baali Sakina
+  Soja Sakina soja Sakina
+  Phir na milega baba ka sina
+  Soja Sakina soja Sakina
   Na ghabrao zakhmi badan ko na dekho
   Sakina mere pairahan ko na dekho
-  Ye baba ka hai imtehaṅ ae hazeena
-  Soja sakina...
-  Meri zindagi meiṅ na aansu bahao
-  Wagarna mai keh doonga qaime meiṅ jao
-  Tumhe mere bin aur kuch din hai jina
-  Soja sakina...
-  Tujhe kis tarha se dilaase doo beti
-  Mai kuch dayr ka aur mehmaṅ hoo beti
+  Ye baba ka hai imtehaaṅ ae hazeena
+  Soja Sakina...
+  Meri zindagi meiṅ na aansuṅ bahao
+  Wagarna main keh duṅ ga khaime meiṅ jao
+  Tumheiṅ mere bin aur kuch din hai jina
+  Soja Sakina...
+  Tujhe kis tarah se dilaase duṅ beti
+  Main kuch der ka aur mehmaaṅ huṅ beti
   Hai majhdhaar meiṅ mera is dam safina
-  Soja sakina...
-  Mere baad guzrenge faaqoṅ pe faaqe
-  Mere baad khaane hai tujhko tamache
-  Na tu jaa sakegi palat kar madina
-  Soja sakina...
+  Soja Sakina...
+  Mere baad guzreiṅ ge faaqoṅ pe faaqe
+  Mere baad khaane haiṅ tamaanche
+  Na tu jaa sakegi palat kar Madina
+  Soja Sakina...
   Sakina bahot gham uthane hai tujhko
   Abhi taziyane bhi khaane hai tujhko
   Hai maathe pe tere ye kaisa pasina
-  Soja sakina...
+  Soja Sakina...
   Sakina mere khun ki laaj rakhna
   Kisi se kabhi koi shikwa na karna
   Har ek saans par khun ka ghunt pina
-  Soja sakina...
-  Tujhe aaj kiuṅ nind aati nahi hai
-  Hai khamosh kiuṅ kuch bataati nahi hai
-  Tu anghushtari ka hai meri nagina
-  Soja sakina...
+  Soja Sakina...
+  Tujhe aaj kiuṅ nind aati nahiṅ hai
+  Hai khamosh kiuṅ kuch bataati nahiṅ hai
+  Tu angushtari ka hai meri nagina
+  Soja Sakina...
   Mera sar dikhayega tujhko sitamgar
-  Tere sar se phir chin lega wo chadar
+  Tere sar se phir chhin lega wo chadar
   Satayega reh reh ke tujhko kamina
-  Soja sakina...
-  Sada deṅge asif azadaar sun kar
-  Na parh aur aamir ae sheh ke sukhanwar
-  Ke tadpenge marqad meiṅ shaahe madina
-  Soja sakina...
+  Soja Sakina...
+  Sada deiṅ ge Asif azaadaar sun kar
+  Na parh aur Aamir ae sheh ke sukhanwar
+  Ke tarpeiṅ ge marqad meiṅ Shah-e-Madina
+  Soja Sakina...
 ---
 
 ۱

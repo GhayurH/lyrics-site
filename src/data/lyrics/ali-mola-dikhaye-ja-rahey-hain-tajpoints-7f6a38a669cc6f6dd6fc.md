@@ -1,44 +1,74 @@
 ---
-title: "Ali Mola Dikhaye Ja Rahey Hain"
+title: "علی مولا دکھائے جا رہے ہیں"
+alternateTitle: "Ali Mola Dikhaye Ja Rahey Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Wahi Ahmad sunaye ja rahe hain
+
+  1
+  Ali Maula dikhaye ja rahe hain
+  Yeh kyun Maidan-e-Khum ko anbiya sab
+  Sitaron se sajay ja rahe hain
+  Falak neechay nazar aane laga hai
+
+  2
+  Ali itna uthaye ja rahe hain
+  Charha kar doosh pe apne Ali ko
+  Kayi chehray jalaye ja rahe hain
+  Aye Mosa dekh le Noor-e-Khuda ko
+
+  3
+  Ali phir se dikhaye ja rahe hain
+  Yeh seena hai azadaron ka seena
+  Yahan tamgay lagaye ja rahe hain
+  Laga kar narah-e-Haider aye logo
+
+  4
+  Yahan shajrey bataye ja rahe hain
+  Yeh dekha khuwab mein ik raat main ne
+  Najaf mein hum bulaye ja rahe hain
+  Dar-e-Janat pe bhi ik saf hai jis se
+
+  5
+  Kayi mulla hataye ja rahe hain
+  Karam hai Ain par Meesum ka keh woh
+  Mujhe likhna sikhaye ja rahe hain
 ---
 
-Ali Mola Dikhaye Ja Rahey Hain Lyrics
-Wahi Ahmad Sunaye Ja Rahe Hain.
+وحی احمد سنائے جا رہے ہیں
 
-1
-Ali Maula Dikhaye Ja Rahe Hain.
-Yeh Kyun Maidan-e-Khum Ko Anbiya Sab.
-Sitaron Se Sajay Ja Rahe Hain.
-Falak Neechay Nazar Aane Laga Hai.
+۱
+علی مولا دکھائے جا رہے ہیں
+یہ کیوں میدانِ خم کو انبیا سب
+ستاروں سے سجائے جا رہے ہیں
+فلک نیچے نظر آنے لگا ہے
 
-2
-Ali Itna Uthaye Ja Rahe Hain.
-Charha Kar Doosh Pe Apne Ali Ko.
-Kayi Chehray Jalaye Ja Rahe Hain.
-Aye Mosa Dekh Le Noor-e-Khuda Ko.
+۲
+علی اتنا اٹھائے جا رہے ہیں
+چڑھا کر دوش پہ اپنے علی کو
+کئی چہرے جلائے جا رہے ہیں
+اے موسیٰ دیکھ لے نورِ خدا کو
 
-3
-Ali Phir Se Dikhaye Ja Rahe Hain.
-Yeh Seena Hai Azadaron Ka Seena.
-Yahan Tamgay Lagaye Ja Rahe Hain.
-Laga Kar Narah-e-Haider Aye Logo.
+۳
+علی پھر سے دکھائے جا رہے ہیں
+یہ سینہ ہے عزاداروں کا سینہ
+یہاں تمغے لگائے جا رہے ہیں
+لگا کر نعرۂ حیدر اے لوگو
 
-4
-Yahan Shajrey Bataye Ja Rahe Hain.
-Yeh Dekha Khuwab Mein Ik Raat Main Ne.
-Najaf Mein Hum Bulaye Ja Rahe Hain.
-Dar-e-Janat Pe Bhi Ik Saf Hai Jis Se.
+۴
+یہاں شجرے بتائے جا رہے ہیں
+یہ دیکھا خواب میں اک رات میں نے
+نجف میں ہم بلائے جا رہے ہیں
+درِ جنت پہ بھی اک صف ہے جس سے
 
-5
-Kayi Mulla Hataye Ja Rahe Hain.
-Karam Hai Ain Par Meesum Ka Keh Woh.
-Mujhe Likhna Sikhaye Ja Rahe Hain.
-Istefada Kalam::Faqeer Arif Imam:
+۵
+کئی ملا ہٹائے جا رہے ہیں
+کرم ہے عین پر میثم کا کہ وہ
+مجھے لکھنا سکھائے جا رہے ہیں

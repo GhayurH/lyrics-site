@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Pasliyoṅ se ris raha hai khun
-  Saaṅs le rahi hai Fatema
+  Saans le rahi hai Fatema
 
   3
   Chhup ke dekhte haiṅ Murtaza
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Thokaroṅ se maarte ho kiuṅ
-  Dukhtar-e-Nabi (s) hai Fatema
+  Dukhtar-e-Nabi hai Fatema
 
   6
   Gir gaye haiṅ muṅh ke bal Ali

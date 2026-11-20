@@ -11,17 +11,17 @@ tags: []
 aliases: ["Maa Kehti Thi Jalte Hue Jhule Se"]
 published: false
 romanLyrics: |-
-  Maa ke dulaare Ali Asghar
+  Maaṅ ke dulaare Ali Asghar
   Aankhoṅ ke taare Ali Asghar
   Aag lagi hai khaimoṅ meiṅ
-  Ae mere pyaare Ali Asghar
-  Maa kehti thi jalte hue jhule se lipat kar
-  Haye Haye Ali Asghar
+  Ae mere Asghar pyaare Ali Asghar
+  Maaṅ kehti thi jalte hue jhule se lipat kar
+  Haye haye Ali Asghar
 
   1
   Har samt nazar aata hai maqtal meiṅ andhera
   Tum raat ko uth jao agar nind se beta
-  Ghabrana nahi paas hai bhaiya Ali Akbar
+  Ghabraana nahiṅ paas hai bhaiya Ali Akbar
 
   2
   Zaalim ne tujhe qabr se is tarah nikaala
@@ -39,14 +39,14 @@ romanLyrics: |-
   Rumaal bhi baandha na gaya tere gale par
 
   5
-  Jis tir se naaqe ko giraate haiṅ zamiṅ par
+  Jis tir se naaqe ko giraata hai zamiṅ par
   Wo tir laga nanhe se halqum pe aa kar
   Tum khun ugalte rahe Baba se lipat kar
 
   6
   Tum mar gaye ye baat wo ab tak nahiṅ maani
-  Zid karti hai bhai ko pilaaungi maiṅ paani
-  Kuza liye maqtal meiṅ khari hai teri khwahar
+  Zid karti hai bhai ko pilaauṅ gi maiṅ paani
+  Kuza liye maqtal meiṅ khari hai teri khwaahar
 
   7
   Majbur thi ghar meiṅ mere paani hi nahiṅ tha
@@ -60,11 +60,11 @@ romanLyrics: |-
 
   9
   Sar is liye naize se gira dete ho apna
-  Godi meiṅ meri aana hai shaayad tumheiṅ beta
-  Lekin hai bandhe haath utha sakti nahiṅ sar
+  Godhi meiṅ meri aana hai shaayad tumheiṅ beta
+  Lekin haiṅ bandhe haath utha sakti nahiṅ sar
 
   10
-  Sajjad wo kehti thi chala bhi nahiṅ jaata
+  Sajjaad wo kehti thi chalaa bhi nahiṅ jaata
   Do chaar qadam baad hi gir jaati huṅ beta
   Meri bhi kamar kham hai teri laash utha kar
 ---

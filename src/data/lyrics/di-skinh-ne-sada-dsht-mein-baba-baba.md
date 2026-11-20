@@ -8,52 +8,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Di Sakina ne sada dasht may baba baba
-  Jald aa ke jala jata may khaima baba
+  Di Sakina ne sada dasht meiṅ baba baba
+  Jald aao ke jala jata hai khaima baba
 
   1
-  May watan jauṅ gi milne ke liye dadi se
-  In mazalim se agar bach gayi zinda baba
+  Main watan jaauṅ gi milne ke liye dadi se
+  In mazaalim se agar bach gayi zinda baba
 
   2
-  Waise umid nahi hai ke may bach pauṅ gi
-  Is qadar Shimr ka parta hai tamacha baba
+  Waise umid nahiṅ hai ke main bach paauṅ gi
+  Is qadar Shimr ka parta hai tamaancha baba
 
   3
-  Shimr ne bandhi thi jis waqt kalayi may rasan
-  Qabr may tarpa tha beshir ka lasha baba
+  Shimr ne baandhi thi jis waqt kalaai meiṅ rasan
+  Qabr meiṅ tarpa tha beshir ka laasha baba
 
   4
-  Sochti huṅ ke agar mar gayi may zindaṅ may
-  Kon de ga meri amma ho dilasa baba
+  Sochti huṅ ke agar mar gayi main zindaaṅ meiṅ
+  Kaun de ga meri ammaṅ ko dilaasa baba
 
   5
-  Hadiyaṅ pyas ki shiddat se meri sukh gayiṅ
-  Jal raha hai mere sine me kalaija baba
+  Haddiyaaṅ pyaas ki shiddat se meri sukh gayiṅ
+  Jal raha hai mere sine meiṅ kaleja baba
 
   6
-  Hae Sajjad mera jakra hai zanjiroṅ may
-  Kis tarha mera uthae ga janaza baba
+  Haaye Sajjad mera jakra hai zanjiroṅ meiṅ
+  Kis tarah mera uthaae ga janaaza baba
 
   7
-  Kon ghurbat par meri shab may jalae ga chiragh
-  Jab reha huṅ ke chala jaye ga kunba baba
+  Kaun ghurbat par meri shab meiṅ jalaae ga chiraagh
+  Jab riha huṅ ke chala jaae ga kunba baba
 
   8
-  Dast-e-shafqat na kis ne mere sar par phaira
-  Taziyano se diya logoṅ ne pursa baba
+  Dast-e-shafqat na kis ne mere sar par phera
+  Taaziyaanoṅ se diya logoṅ ne pursa baba
 
   9
-  Mere amu se tarai pe ye kehna ja kar
-  Chir gaye aag ke sholoṅ se Sakina baba
+  Mere ammu se taraai pe yeh kehna ja kar
+  Jal gayi aag ke sholoṅ se Sakina baba
 
   10
-  Ab to baqi nahi hai koi siwaye bimar
-  Kis tarha ho ga mera dafn janaza baba
+  Ab to baaqi nahiṅ hai koi siwaaye bimaar
+  Kis tarah ho ga mera dafn janaaza baba
 
   11
-  Baliyaṅ chin liṅ aada ne hamari aa kar
-  Dekho kano se lahu behta hai taza baba
+  Baaliyaaṅ chhin liṅ aada ne hamaari aa kar
+  Dekho kaanoṅ se lahu behta hai taaza baba
 ---
 
 دی سكینہ نے صدا دشت میں بابا بابا

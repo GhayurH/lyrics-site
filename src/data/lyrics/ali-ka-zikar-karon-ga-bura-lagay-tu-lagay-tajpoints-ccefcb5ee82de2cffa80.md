@@ -1,35 +1,59 @@
 ---
-title: "Ali Ka Zikar Karon Ga Bura Lagay Tu Lagay"
+title: "علی کا ذکر کروں گا برا لگے تو لگے"
+alternateTitle: "Ali Ka Zikar Karon Ga Bura Lagay Tu Lagay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali ka zikar karon ga bura lagay tu lagay
+  Aray oh dushman-e-Zahra bura lagay tu lagay
+  Ali se bugz bhi our hajj ko chale ho waiz
+  Qabool hajj na yeh ho ga bura lagay tu lagay
+
+  2
+  Zaban kat do par nara-e-Haider lab par
+  Buland phir bhi rahe ga bura lagay tu lagay
+  Bagair-e-hub-e-Ali admi yeh dunya ke
+  Bane hain khak ka putla bura lagay tu lagay
+
+  3
+  Har aik bazm mein be-sakhta karein gaye hum
+  Yazeediyat pe tabara bura lagay tu lagay
+  Mujhe Ali ne banaya hai laiq-e-tazeem
+  Sadaein deta hai Kaba bura lagay tu lagay
+
+  4
+  Sakhi Hussain ke matam ko kehte ho bidat
+  Tumhare ghar mein karon ga bura lagay tu lagay
+  Ali ke dar se yeh Afraz shair ki sorat
+  Youn leta jaye ga sadqa bura lagay tu lagay
 ---
 
-1
-Ali Ka Zikar Karon Ga Bura Lagay Tu Lagay.
-Aray Oh Dushman-e-Zahra Bura Lagay Tu Lagay.
-Ali Se Bugz Bhi Our Hajj Ko Chale Ho Waiz.
-Qabool Hajj Na Yeh Ho Ga Bura Lagay Tu Lagay.
+۱
+علی کا ذکر کروں گا برا لگے تو لگے
+ارے او دشمنِ زہرا برا لگے تو لگے
+علی سے بغض بھی اور حج کو چلے ہو واعظ
+قبول حج نہ یہ ہو گا برا لگے تو لگے
 
-2
-Zaban Kat Do Par Nara-e-Haider Lab Par.
-Buland Phir Bhi Rahe Ga Bura Lagay Tu Lagay.
-Bagair-e-Hub-e-Ali Admi Yeh Dunya Ke.
-Bane Hain Khak Ka Putla Bura Lagay Tu Lagay.
+۲
+زبان کاٹ دو پر نعرۂ حیدر لب پر
+بلند پھر بھی رہے گا برا لگے تو لگے
+بغیرِ حبِ علی آدمی یہ دنیا کے
+بنے ہیں خاک کا پتلا برا لگے تو لگے
 
-3
-Har Aik Bazm Mein Be-Sakhta Karein Gaye Hum.
-Yazeediyat Pe Tabara Bura Lagay Tu Lagay.
-Mujhe Ali Ne Banaya Hai Laiq-e-Tazeem.
-Sadaein Deta Hai Kaba Bura Lagay Tu Lagay.
+۳
+ہر ایک بزم میں بے ساختہ کریں گے ہم
+یزیدیت پہ تبرا برا لگے تو لگے
+مجھے علی نے بنایا ہے لائقِ تعظیم
+صدائیں دیتا ہے کعبہ برا لگے تو لگے
 
-4
-Sakhi Hussain Ke Matam Ko Kehte Ho Bidat.
-Tumhare Ghar Mein Karon Ga Bura Lagay Tu Lagay.
-Ali Ke Dar Se Yeh Afraz Shair Ki Sorat.
-Youn Leta Jaye Ga Sadqa Bura Lagay Tu Lagay.
+۴
+سخی حسین کے ماتم کو کہتے ہو بدعت
+تمہارے گھر میں کروں گا برا لگے تو لگے
+علی کے در سے یہ افراز شاعر کی صورت
+یوں لیتا جائے گا صدقہ برا لگے تو لگے

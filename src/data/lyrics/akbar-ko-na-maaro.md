@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Ae baba alaika minni as salaam
-  Jab ye awaaz suni jawan bete ki
-  Shaah gir gir ke uthe suye maidan chale
-  Haath akbar ka kaleje pe jo dekha to kaha
-  Ae barchiyoṅ waaloṅ akbar ko na maaro
-  Mere akbar ko na maaro
-  Allah allah kahiṅ tir kahiṅ bhaala hai
-  Kya ise barchiyaṅ khaane ke liye paala hai
-  Ye mera nure nazar shabihe paighambar
-  Ye agar maara gaya mai bhi na ji paaunga
-  Ae barchiyoṅ waalon...
-  Haye abbas ke marne se kamar may kham hai
-  Aur akbar ki judaai may nazar bhi kam hai
-  Dekho mai tanha hoo gharib kitna hoo
-  Mera ab koi nahi hai ali akbar ke siwa
-  Ae barchiyoṅ waalon...
-  Ghayr kar dasht may tum maar rahe ho jis ko
-  Mil ke do maaoṅ ne parwaan charaya is ko
-  Naiza bardaroṅ ruko kuch to ehsaas karo
-  Seh na payengi ye gham zainab o umme laila
-  Ae barchiyoṅ waalon...
-  Kabhi akbar to kabhi suye madina dekha
-  Dasht may jaate huwe yaad jab aayi sughra
-  Bole maula ro kar wo yahaṅ hoti agar
-  Dekhti kaisi jawaaṅ bhai ka zakhmi seena
-  Ae barchiyoṅ waalon...
-  Kya tumhari koi aulaad nahi hai bolo
-  Beta kis tarha jawaaṅ hota hai mujhse pucho
+  Jab ye aawaaz suni jawaan bete ki
+  Shaah gir gir ke uthe su-e-maidaan chale
+  Haath Akbar ka kaleje pe jo dekha to kaha
+  Ae barchiyoṅ waaloṅ Akbar ko na maaro
+  Mere Akbar ko na maaro
+  Allah Allah kahiṅ tir kahiṅ bhaala hai
+  Kya ise barchhiyaaṅ khaane ke liye paala hai
+  Ye mere nur-e-nazar shabih-e-paighambar
+  Ye agar maara gaya main bhi na ji paauṅ ga
+  Ae barchiyoṅ waaloṅ...
+  Haaye Abbas ke marne se kamar mein kham hai
+  Aur Akbar ki judaai mein nazar bhi kam hai
+  Dekho main tanha huṅ gharib kitna huṅ
+  Mera ab koi nahiṅ hai Ali Akbar ke siwa
+  Ae barchiyoṅ waaloṅ...
+  Gher kar dasht mein tum maar rahe ho jis ko
+  Mil ke do maaoṅ ne parwaan charhaaya is ko
+  Naiza bardaaroṅ ruko kuchh to ehsaas karo
+  Seh na paaengi ye gham Zainab o Umm-e-Laila
+  Ae barchiyoṅ waaloṅ...
+  Kabhi Akbar to kabhi su-e-Madina dekha
+  Dasht mein jaate hue yaad jab aai Sughra
+  Bole Maula ro ke wo yahaaṅ hoti agar
+  Dekhti kaisi jawaaṅ bhaai ka zakhmi sina
+  Ae barchiyoṅ waaloṅ...
+  Kya tumhaari koi aulaad nahiṅ hai bolo
+  Beta kis tarah jawaaṅ hota hai mujh se puchho
   Gurz se zakhmi hai sar hai lahu chehre par
-  Mera armaan tha akbar ke ho sar par sehra
-  Ae barchiyoṅ waalon...
+  Mera armaan tha Akbar ke ho sar par sehra
+  Ae barchiyoṅ waaloṅ...
   Maula jab bete ke paas aaye suno kya dekha
-  Aeriyaṅ khaak pe akbar ko ragadta dekha
-  Sabr phir tut gaya shaah ne ro ke kaha
-  Shiddat e dard se mar jaaye na akbar mera
-  Ae barchiyoṅ waalon...
-  Kya kabhi socha hai zishan aur irfan e aza
+  Eriyaaṅ khaak Akbar ko ragarta dekha
+  Sabr phir tut gaya Shaah ne ro ke kaha
+  Shiddat-e-dard se mar jaaye na Akbar mera
+  Ae barchiyoṅ waaloṅ...
+  Kya kabhi soncha hai Zeeshan aur Irfaan-e-Aza
   Kaise us baap ne bete ka uthaaya laasha
-  Haye jo qaimon se ghutniyo chalte huwe
-  Naujawaṅ laash tak aaya ye sada deta hua
-  Ae barchiyoṅ waalon...
+  Haaye jo khaimoṅ se ghutniyoṅ chalte hue
+  Naujawaaṅ laash tak aaya ye sada deta hua
+  Ae barchiyoṅ waaloṅ...
 ---
 
 ۱

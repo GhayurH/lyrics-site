@@ -1,6 +1,6 @@
 ---
 title: "ہر طرف جا بجا سج گیء کربلا"
-alternateTitle: "Khushbu E Aza"
+alternateTitle: "Khushbu-e-Aza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Har taraf jaa baja saj gayi karbala
-  Dene hum ko dua aagayi fatema
+  Har taraf jaa bajaa saj gayi Karbala
+  Dene ham ko dua aa gayi Fatema
   Ghar ghar se har ghar se har dil se
-  Matam ki sada aane lagi
-  Khushboo e aza aane lagi
+  Maatam ki sada aane lagi
+  Khushbu-e-aza aane lagi
   Dur hogi waba ab milegi shifa
-  Khushboo e aza aane lagi
-  Fatema zehra ke dil ke chain
+  Khushbu-e-aza aane lagi
+  Fatema Zehra ke dil ke chain
   Assalaam alaika ya Husain
-  Farshe aza bich gaya nauhoṅ ki aayi sada
-  Parchame ghazi khula hogayi majlis bapa
-  Khuld e moalla se hawa aane lagi
-  Khushboo e aza...
-  Kar ke jo matam bapa tum ne kaha ya Husain
-  Mil gaya ek baar phir fatema zehra ko chain
-  Dekho baqayya se hawa aane lagi
-  Khushboo e aza...
-  Jalti hui dhup meiṅ nikla julus e aza
-  Dekh kar ye walwala ulfate shabbir ka
+  Farsh-e-aza bichh gaya nauhoṅ ki aayi sada
+  Parcham-e-Ghazi khula ho gayi majlis bapa
+  Khuld-e-mualla se hawa aane lagi
+  Khushbu-e-aza...
+  Kar ke jo maatam bapa tum ne kaha ya Husain
+  Mil gaya ek baar phir Fatema Zehra ko chain
+  Dekho Baqiya se hawa aane lagi
+  Khushbu-e-aza...
+  Jalti hui dhup mein nikla julus-e-aza
+  Dekh kar ye walwala ulfat-e-Shabbir ka
   Jhum ke rehmat ki ghata aane lagi
-  Khushboo e aza...
-  Ulfate shabbir ke saanche meiṅ dil dhalte hai
-  Ya ali kehte huwe khaake shifa malte hai
-  Chehra e momin pe jila aane lagi
-  Khushboo e aza...
-  Surat-e-tayghe ali sukhi zuban jab hui
-  Asghar e baysheer ki jang yahaṅ jab hui
-  Naara e hyder ki sada aane lagi
-  Khushboo e aza...
-  Masnad e sheh jab bichi aur azakhana saja
-  Ghar pe azadaar ke ghazi ka parcham saja
-  Khul ke pharera jo hawa aane lagi
-  Khushboo e aza...
-  Kehta hua ya Husain khaafila e gham chala
-  Haathoṅ ne uth uth ke jab sino pe sajda kiya
-  Dushman e matam ko qaza aane lagi
-  Khushboo e aza...
-  Sheh ke jo ghamkhwar hai bakshne unko shifa
-  Log jo bemaar hai bakshne unko shifa
-  Leke shifa khaake shifa aane lagi
-  Khushboo e aza...
-  Zikre aza jaa baja karne lage nauhakhwan
-  Gauhar e haq kiuṅ na ho qalbe nabi shadmaṅ
-  Ishq-e-hussaini ki ziya aane lagi
-  Khushboo e aza...
+  Khushbu-e-aza...
+  Ulfat-e-Shabbir ke saanche mein dil dhalta hai
+  Ya Ali kehte hue khaak-e-shifa malte haiṅ
+  Chehra-e-momin pe jilaa aane lagi
+  Khushbu-e-aza...
+  Surat-e-tegh-e-Ali sukhi zabaan jab hui
+  Asghar-e-beshir ki jang yahaaṅ jab hui
+  Naara-e-Haidar ki sada aane lagi
+  Khushbu-e-aza...
+  Masnad-e-sheh jab bichhi aur aza khaana saja
+  Ghar pe azadaar ke ghaiz ka parcham saja
+  Khul ke phrera jo hawa aane lagi
+  Khushbu-e-aza...
+  Kehta hua ya Husain qaafila-e-gham chala
+  Haathoṅ ne uth uth ke jab sinoṅ pe sajda kiya
+  Dushman-e-maatam ko qaza aane lagi
+  Khushbu-e-aza...
+  Sheh ke jo gham khwaar hai bakhshne un ko shifa
+  Log jo bimaar hai bakhshne un ko shifa
+  Le ke khaak-e-shifa aane lage
+  Khushbu-e-aza...
+  Zikr-e-aza jaa bajaa karne lage nauha khwaaṅ
+  Gauhar-e-haq kiuṅ na ho qalb-e-Nabi shaadmaaṅ
+  Ishq-e-Husaini ki ziya aane lagi
+  Khushbu-e-aza...
 ---
 
 ۱

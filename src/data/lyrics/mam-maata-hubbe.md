@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Raahe hussaini par jo insan chalta nahi
-  Zinda reh kar bhi wo insaṅ zinda nahi
-  Hubbe aale mohamed meiṅ jo mar jaaye
-  To wo mar bhi jaaye agar to marta nahi
-  Mam maata aala hubbe aale mohamed
+  Raah-e-Husaini par jo insaan chalta nahiṅ
+  Zinda reh kar bhi wo insaaṅ zinda nahiṅ
+  Hubb-e-Aal-e-Muhammad meiṅ jo mar jaaye
+  To wo mar bhi jaaye agar to marta nahiṅ
+  Mam maata ala hubb-e-Aal-e-Muhammad
   Maata shahida
-  Aale nabi ki ulfat meiṅ logoṅ
-  Jo mar gaya wo marta nahi hai
-  Hai haq ka waada aur sacha waada
+  Aal-e-Nabi ki ulfat meiṅ logoṅ
+  Jo mar gaya wo marta nahiṅ hai
+  Hai haq ka waada aur sachcha waada
   Usko khuda khud rakhta hai zinda
-  Mam maata aala hubbe...
-  Matam to hoga matam to hoga
+  Mam maata ala hubb-e...
+  Maatam to hoga maatam to hoga
   Har simt hoga har ghar meiṅ hoga
-  Roze azal se roze abad tak
+  Roz-e-azal se roz-e-abad tak
   Zehra se hai ye khaaliq ka waada
-  Mam maata aala hubbe...
-  Hai karbala ki awaaz paiham
-  Apna hai rehbar ghazi ka parcham
-  Har matami ka jazba to dekho
+  Mam maata ala hubb-e...
+  Hai Karbala ki aawaaz paiham
+  Apna hai rehbar Ghazi ka parcham
+  Har maatam ka jazba to dekho
   Ghazi ka parcham girne na dega
-  Mam maata aala hubbe...
-  Muslim habib o john aur haabis
-  Shabbir ke sab bemisl naasir
-  Jab larte larte maidan meiṅ girte
-  Sab ke laboṅ par tha ek naara
-  Mam maata aala hubbe...
-  Haye wo qasim haye wo asghar
-  Abbas e ghazi haye wo akbar
+  Mam maata ala hubb-e...
+  Muslim Habib o Jaun aur Haabis
+  Shabbir ke sab bemisl Naasir
+  Jab larte larte maidaan meiṅ girte
+  Sab ke laboṅ par tha ik naara
+  Mam maata ala hubb-e...
+  Haaye wo Qasim haaye wo Asghar
+  Abbas-e-Ghazi haaye wo Akbar
   Ro ro ke un par hum jaan denge
   Pura karenge hum apna waada
-  Mam maata aala hubbe...
-  Jab bhi shahadat paata hai koi
+  Mam maata ala hubb-e...
+  Jab bhi shahaadat paata hai koi
   Shabbir usko aate hai lene
-  Aansu baha kar khud shaah e din ko
-  Deta hai pursa karbobala ka
-  Mam maata aala hubbe...
-  Hum rone waale karbobala ke
-  Darte nahi hai jor o sitam se
-  Gardan katayi baazu kataye
-  Lekin na chora gham karbala ka
-  Mam maata aala hubbe...
-  Ae meri maaoṅ ae meri behno
-  Darna nahi tum daur e sitam se
-  Sughra ke gham se laila ke gham se
-  Bad kar nahi koi gham hamara
-  Mam maata aala hubbe...
+  Aansuṅ baha kar khud shah-e-din ko
+  Deta hai pursa Karb-o-Bala ka
+  Mam maata ala hubb-e...
+  Hum rone waale Karb-o-Bala ke
+  Darte nahiṅ hai jaur o sitam se
+  Gardan kataayi baazu kataaye
+  Lekin na chhora gham Karbala ka
+  Mam maata ala hubb-e...
+  Ae meri maaoṅ ae meri behnoṅ
+  Darna nahiṅ tum daur-e-sitam se
+  Sughra ke gham se Laila ke gham se
+  Barh kar nahiṅ koi gham hamaara
+  Mam maata ala hubb-e...
   Maajid ye likh kar sab ko bata do
-  Ae shadman tum sab ko suna do
-  Hum matami hai shaah e huda ke
-  Mar kar bhi hum to rehte hai zinda
-  Mam maata aala hubbe...
+  Ae Shaadmaan tum sab ko suna do
+  Hum maatami hai shaah-e-huda ke
+  Mar kar bhi hum to rehte haiṅ zinda
+  Mam maata ala hubb-e...
 ---
 
 ۱

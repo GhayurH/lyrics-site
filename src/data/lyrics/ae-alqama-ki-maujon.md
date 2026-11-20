@@ -13,31 +13,31 @@ aliases: ["Ay Alqama Ki Maujon"]
 published: true
 romanLyrics: |-
   Ae Alqama ki maujoṅ khaamosh kiuṅ ho bolo
-  Kya raaz-e-tashnagi tha kuch to zubaaṅ kholo
+  Kya raaz-e-tashnagi tha kuch to zubaaṅ se kholo
 
   1
-  Ghazi ke gham meiṅ bachche ro ro ke so chuke haiṅ
+  Ghaazi ke gham meiṅ bachche ro ro ke so chuke haiṅ
   Aankhoṅ meiṅ meri aansu sab khushk ho chuke haiṅ
-  Abbas ke alam se tum hi lipat ke ro lo
+  Abbaas ke alam se tum hi lipat ke ro lo
 
   2
-  Kuze zamiṅ pe rakh kar beaas ho gayi hai
+  Kuze zamiṅ pe rakh kar be aas ho gayi hai
   Yaani Sakina ab to paani se dar rahi hai
   Paani ke naam se bhi darti hai ab wo dekho
 
   3
-  Baazu qalam huwe haiṅ darya pe jis jari ke
-  Sayyidaaniyaṅ jama haiṅ us ke alam ke niche
+  Baazu qalam hue haiṅ darya pe jis jari ke
+  Sayyidaaniyaaṅ jama haiṅ us ke alam ke niche
   Mashk-e-Sakina koi us ke alam se kholo
 
   4
   Do nim ho gayi hai gham se kamar hamaari
-  Kehte the Shaah-e-waala Ghazi maiṅ tujh pe waari
+  Kehte the Shaah waala Ghaazi main tujh pe waari
   Hasrat hai ye hamaari ek baar bhai keh do
 
   5
   Zainab pukarti hai meri rida ka zaamin
-  Darya pe so gaya hai guzreṅge kis tarah din
+  Darya pe so gaya hai guzreṅ ge kis tarah din
   Ae Bibiyoṅ ab apni chaadar se haath dho lo
 
   6
@@ -47,13 +47,13 @@ romanLyrics: |-
 
   7
   Kehta tha Fazl ro kar ae mere baaba jaan
-  Rehne na duṅga laasha aada ke darmiyaaṅ
-  Maiṅ aa raha huṅ baaba lillaah tum na roko
+  Rehne na duṅ ga laasha adaa ke darmiyaaṅ
+  Main aa raha huṅ baaba lillaah tum na roko
 
   8
-  Ghazi ke baad Shah ke bachchoṅ ka haal kya tha
+  Ghaazi ke baad Shah ke bachchoṅ ka haal kya tha
   Koi bilak raha tha koi tarap raha tha
-  Ghazi ke ye masaaib Rehaan tum bhi likho
+  Ghaazi ke ye masaaib Rehaan tum bhi likho
 ---
 اے علقمہ کی موجوں خاموش کیوں ہو بولو
 کیا راز تشنگی تھا کچھ تو زباں سے کھولو

@@ -10,46 +10,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ke laashe pa ye shabbir pukare
-  Utho mere bhai
+  Abbas ke laashe pe ye Shabbir pukaare
+  Utho mere bhaai
 
   1
-  Hum qaime se yahaṅ aaye hai lene ko tumhare
+  Hum khaime se yahaaṅ aaye haiṅ lene ko tumhaare
 
   2
-  Piri ka saath chin gaya hum hogaye beaas
+  Piri ka saath chhin gaya hum ho gaye beaas
   Koi na raha paas
-  Aa jao tumhi ae meri piri ke sahare
+  Aa jaao tumheṅ ae meri piri ke sahaare
 
   3
   Kya ye bhi koi to mohabbat ka hai andaaz
-  E aashiq e jaanbaaz
-  Darya ko to keh kar gaye kausar ko sidhare
+  Ae aashiq-e-jaanbaaz
+  Darya ko to keh kar gaye Kausar ko sidhaare
 
   4
-  Tum bali sakina ke liye laaye na pani
+  Tum baali Sakina ke liye laaye na paani
   Wo roti hai jaani
-  Bachi ki zabaṅ dekho aur asghar ke ishaare
+  Bachchi ki zabaaṅ dekho aur Asghar ke ishaare
 
   5
-  Qurban huwe mashk pe tum jaan e biradar
-  Lekin mere safdar
-  Tum arshe wafa ke ho chamakte huwe taare
+  Qurbaan huwe mashk pe tum jaan-e-baraadar
+  Lekin mere Safdar
+  Tum arsh-e-wafa ke ho chamakte huwe taare
 
   6
-  Dhaaras thi bari sab ko khayaal iska to karte
-  Ghurbat may na marte
-  Tum jite magar hum bhi to himmat nahi haare
+  Dhaaras thi bari sab ko khayaal is ka to karte
+  Ghurbat mein na marte
+  Tum jite magar hum bhi to himmat nahiṅ haare
 
   7
-  Cheenege rida zainab o kulsum ki ashraar
-  Ae ghazi o jarraar
-  Hum chor ke ab jaye unhe kis ke sahare
+  Chhineṅ ge ridaa Zainab o Kulsum ki ashraar
+  Ae ghaazi o jarraar
+  Hum chhor ke ab jaae unheṅ kis ke sahaare
 
   8
-  Kehte the wazir aah ye jab shaah e do aalam
-  Ek hashr tha payham
-  Tum mujhse zaifi may juda ho gaye pyare
+  Kehte the Wazir aah ye jab shaah-e-do aalam
+  Ik hashr tha paiham
+  Tum mujh se zaifi mein juda ho gaye pyaare
 ---
 
 عباس کے لاشے پہ یہ شبیر پکارے

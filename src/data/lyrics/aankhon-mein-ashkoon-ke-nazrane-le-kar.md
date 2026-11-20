@@ -10,20 +10,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aankhon mein ashkoon ke nazrane le kar main Aaqa ki mehfil sajata rahoon ga
-  Khuda mujh ko de ga deta rahe ga main sadqa Muhammad ka khata rahoon ga
+  Aankhoṅ mein ashkoṅ ke nazraane le kar main Aaqa ki mehfil sajaata rahuṅ ga
+  Khuda mujh ko de ga, deta rahe ga, main sadqa Muhammad ka khaata rahuṅ ga
 
   1
-  Bulaon ga sare dewane Nabi ke sajaon ga main apne chote se ghar ko
-  Jab tak hai meri yeh sansoon ka bandhan mailad-e-Nabi main manata rahoon ga
-  Main Mustafa ke hoon mukhre ka aashiq zamane ki nazrein mujhe kya lagein gi
-  Mujh pe karam hai yeh mere Nabi ka main izzat zamane mein pata rahoon ga
+  Bulaauṅ ga saare diwaane Nabi ke, sajaauṅ ga main apne chhote se ghar ko
+  Jab tak hai meri yeh saansoṅ ka bandhan, milaad-e-Nabi main manaata rahuṅ ga
+  Main Mustafa ke huṅ mukhre ka aashiq, zamaane ki nazreṅ mujhe kya lageṅ gi
+  Mujh pe karam hai yeh mere Nabi ka, main izzat zamaane mein paata rahuṅ ga
 
   2
-  Ishq-e-Nabi mein aqeeda hai mera mar ke bhi roshan rahein gi yeh aankhein
-  Aaqa tere naam ko choom kar main palkoon pe apni lagata rahoon ga
-  Main Aaqa ka mangta main Aaqa ka aashiq main Aaqa ka Rahat main Aaqa ka Sadiq
-  Main Aaqa ke dar ka gada ban ke sab ko Aaqa ki natein sunata rahoon ga
+  Ishq-e-Nabi mein aqida hai mera, mar ke bhi roshan raheṅ gi yeh aankheṅ
+  Aaqa tere naam ko chum kar main palkoṅ pe apni lagaata rahuṅ ga
+  Main Aaqa ka mangta, main Aaqa ka aashiq, main Aaqa ka Raahat, main Aaqa ka Saadiq
+  Main Aaqa ke dar ka gada ban ke sab ko Aaqa ki naateṅ sunaata rahuṅ ga
 ---
 
 آنکھوں میں اشکوں کے نذرانے لے کر میں آقا کی محفل سجاتا رہوں گا

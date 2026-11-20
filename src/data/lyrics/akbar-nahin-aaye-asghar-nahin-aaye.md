@@ -9,49 +9,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar nahi aaye Asghar nahi aaye
+  Akbar nahiṅ aaye Asghar nahiṅ aaye
 
   1
-  Din bit gaya ab raat hui dilbar nahi aaye
-  Hum name ali hum shakle nabi
-  Jurrat thi siwa ghairat thi bari
+  Din bit gaya ab raat hui dilbar nahiṅ aaye
+  Ham naam-e-Ali ham shakl-e-Nabi
+  Jurat thi siwa ghairat thi bari
   Lekin jab mushkil aayi ghari
-  Maa deti rahi ro ro ke sada
+  Maaṅ deti rahi ro ro ke sada
 
   2
-  Kehti thi ye bano ro ro
-  Lilaah bulado asghar ko
-  Kya jaan ye kis aalam may ho
-  Ran ko gaye baap ke haatoṅ par
-  Phir ghar nahi aaye
+  Kehti thi ye Bano ro ro
+  Lillaah bula do Asghar ko
+  Kya jaane kis aalam mein ho
+  Ran ko gaye baap ke haathoṅ par
+  Phir ghar nahiṅ aaye
 
   3
   Kya guzri laal mere tum par
-  Kuch to bolo jaane maadar
-  Kya baat hui ran may sarwar
-  Lekar to gaye the haatoṅ par
-  Lekar nahi aaye
+  Kuchh to bolo jaan-e-maadar
+  Kya baat hui ran mein Sarwar
+  Le kar to gaye the haathoṅ par
+  Le kar nahiṅ aaye
 
   4
   Tum par to hai sab haal ayaaṅ
-  Pani tha kahaṅ jo deti maa
-  Itni si baat pe jaaṅ di jaaṅ
-  Ghar se gaye aise hoke khafa
-  Mur kar nahi aaye
+  Paani tha kahaṅ jo deti maaṅ
+  Itni si baat pe de di jaaṅ
+  Ghar se gaye aise ho ke khafa
+  Mur kar nahiṅ aaye
 
   5
-  Aajao ae asghar aao
-  Maadar par laal taras khao
-  Ek baar gale se lag jao
+  Aa jaao ae Asghar aao
+  Maadar par laal taras khaao
+  Ak baar gale se lag jaao
   Mumkin hai laut ke phir dilbar
-  Maadar nahi aaye
+  Maadar nahiṅ aaye
 
   6
   Zakhmi hai gala majbur ho tum
-  Beta zakhmo se chur ho tum
-  Ab mai samjhi kyoṅ dur ho tum
-  Maidan gayi ae lakhte jigar
-  Kyon kar nahi aaye
+  Beta zakhmoṅ se chur ho tum
+  Ab main samjhi kiuṅ dur ho tum
+  Maidaan gayi ae lakht-e-jigar
+  Kiunkar nahiṅ aaye
 ---
 
 اکبر نہیں آئے اصغر نہیں آئے

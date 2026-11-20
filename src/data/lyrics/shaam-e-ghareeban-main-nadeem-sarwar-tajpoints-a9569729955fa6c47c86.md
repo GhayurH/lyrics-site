@@ -1,64 +1,118 @@
 ---
-title: "Shaam-e-Ghareeban Main Nadeem Sarwar"
+title: "شامِ غریباں میں ندیم سرور"
+alternateTitle: "Shaam-e-Ghareeban Main Nadeem Sarwar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shaam-e-ghareeban main Nadeem Sarwar
+  Sham-e-gham aa gayi bekasi cha gayi
+  Sham ki foaj khaimon talak aa gayi
+  Atish-e-zulm khaimay jalanay lagi
+
+  2
+  Mere khuda lab-e-Furat sayeban jal gaya
+  Jalay khiyam Syeda ka phir makan jal gaya
+  Sham-e-ghareebaan mein haram kartay they faryad
+  Haye haye haye haye haye Alamdar
+
+  3
+  Chadrein chin gayin lut gaya maal-o-zar
+  Khaima dar khaima hai bibiyon ka safar
+  Betiyaan Fatima ki hoin noha gar
+  Tarap tarap ke ya Ali pukarti thi bibiyaan
+
+  4
+  Idhar udhar bas apne lal dhondti thi bibiyaan
+  Jalnay laga haye udhar bistar-e-beemar
+  Haye haye haye haye haye Alamdar
+  Kya karey Zainab-e-khasta dil kya karey
+
+  5
+  Na rahe warisan-e-haram na rahe
+  Raat aayi nahi our sab so gaye
+  Dhowaan dhowaan fiza lahu lahu hai dasht-e-Karbala
+  Kissi nashaib se hai mustaqil sada-e-Fatima
+
+  6
+  Nala-e-ya Fatima ya Haider-e-karrar
+  Haye haye haye haye haye Alamdar
+  Khak par aa gayin bibiyaan noha gar
+  Gaud mein pyasay bachoon ke rakhay hain sar
+
+  7
+  Kis ko aawaz dein haye jaein kidhar
+  Na koi bhai hai na bhai ka pisar na bhanja
+  Ali ki ladli ne bhai ka alam utha liya
+  Meer-e-sadar meer-e-haram Zainab-e-la char
+
+  8
+  Haye haye haye haye haye Alamdar
+  Haye:REHAN-o-SARWAR: sar-e-Karbala
+  Ho ke be dast ik lasha-e-bawafa
+  Dekhta reh gaya qafila chal diya
+
+  9
+  Salam be kafan badan woh jin ke sar hoye juda
+  Salam dukhtaran-e-Fatima aseer-o-be rida
+  Ik rasan barah galay kocha-o-bazar
+  Haye haye haye haye haye Alamdar
 ---
 
-1
-Shaam-e-Ghareeban Main Nadeem Sarwar.
-Sham-e-Gham Aa Gayi Bekasi Cha Gayi.
-Sham Ki Foaj Khaimon Talak Aa Gayi.
-Atish-e-Zulm Khaimay Jalanay Lagi.
+۱
+شامِ غریباں میں ندیم سرور
+شامِ غم آ گئی بے کسی چھا گئی
+شام کی فوج خیموں تلک آ گئی
+آتشِ ظلم خیمے جلانے لگی
 
-2
-Mere Khuda Lab-e-Furat Sayeban Jal Gaya.
-Jalay Khiyam Syeda Ka Phir Makan Jal Gaya.
-Sham-e-Ghareebaan Mein Haram Kartay They Faryad.
-Haye Haye Haye Haye Haye Alamdar.
+۲
+میرے خدا لبِ فرات سائباں جل گیا
+جلے خیام سیدہ کا پھر مکاں جل گیا
+شامِ غریباں میں حرم کرتے تھے فریاد
+ہائے ہائے ہائے ہائے ہائے علمدار
 
-3
-Chadrein Chin Gayin Lut Gaya Maal-o-Zar.
-Khaima Dar Khaima Hai Bibiyon Ka Safar.
-Betiyaan Fatima Ki Hoin Noha Gar.
-Tarap Tarap Ke Ya Ali Pukarti Thi Bibiyaan.
+۳
+چادریں چھن گئیں لٹ گیا مال و زر
+خیمہ در خیمہ ہے بیبیوں کا سفر
+بیٹیاں فاطمہ کی ہوئیں نوحہ گر
+تڑپ تڑپ کے یا علی پکارتی تھیں بیبیاں
 
-4
-Idhar Udhar Bas Apne Lal Dhondti Thi Bibiyaan.
-Jalnay Laga Haye Udhar Bistar-e-Beemar.
-Haye Haye Haye Haye Haye Alamdar.
-Kya Karey Zainab-e-Khasta Dil Kya Karey.
+۴
+ادھر ادھر بس اپنے لال ڈھونڈتی تھیں بیبیاں
+جلنے لگا ہائے ادھر بسترِ بیمار
+ہائے ہائے ہائے ہائے ہائے علمدار
+کیا کرے زینبِ خستہ دل کیا کرے
 
-5
-Na Rahe Warisan-e-Haram Na Rahe.
-Raat Aayi Nahi Our Sab So Gaye.
-Dhowaan Dhowaan Fiza Lahu Lahu Hai Dasht-e-Karbala.
-Kissi Nashaib Se Hai Mustaqil Sada-e-Fatima.
+۵
+نہ رہے وارثانِ حرم نہ رہے
+رات آئی نہیں اور سب سو گئے
+دھواں دھواں فضا لہو لہو ہے دشتِ کربلا
+کسی نشیب سے ہے مستقل صدائے فاطمہ
 
-6
-Nala-e-Ya Fatima Ya Haider-e-Karrar.
-Haye Haye Haye Haye Haye Alamdar.
-Khak Par Aa Gayin Bibiyaan Noha Gar.
-Gaud Mein Pyasay Bachoon Ke Rakhay Hain Sar.
+۶
+نالۂ یا فاطمہ یا حیدرِ کرار
+ہائے ہائے ہائے ہائے ہائے علمدار
+خاک پر آ گئیں بیبیاں نوحہ گر
+گود میں پیاسے بچوں کے رکھے ہیں سر
 
-7
-Kis Ko Aawaz Dein Haye Jaein Kidhar.
-Na Koi Bhai Hai Na Bhai Ka Pisar Na Bhanja.
-Ali Ki Ladli Ne Bhai Ka Alam Utha Liya.
-Meer-e-Sadar Meer-e-Haram Zainab-e-La Char.
+۷
+کس کو آواز دیں ہائے جائیں کدھر
+نہ کوئی بھائی ہے نہ بھائی کا پسر نہ بھانجا
+علی کی لاڈلی نے بھائی کا علم اٹھا لیا
+میرِ صدر میرِ حرم زینبِ لاچار
 
-8
-Haye Haye Haye Haye Haye Alamdar.
-Haye:REHAN-o-SARWAR: Sar-e-Karbala.
-Ho Ke Be Dast Ik Lasha-e-Bawafa.
-Dekhta Reh Gaya Qafila Chal Diya.
+۸
+ہائے ہائے ہائے ہائے ہائے علمدار
+ہائے:ریحان و سرور: سرِ کربلا
+ہو کے بے دست اک لاشۂ باوفا
+دیکھتا رہ گیا قافلہ چل دیا
 
-9
-Salam Be Kafan Badan Woh Jin Ke Sar Hoye Juda.
-Salam Dukhtaran-e-Fatima Aseer-o-Be Rida.
-Ik Rasan Barah Galay Kocha-o-Bazar.
-Haye Haye Haye Haye Haye Alamdar.
+۹
+سلام بے کفن بدن وہ جن کے سر ہوئے جدا
+سلام دخترانِ فاطمہ اسیر و بے ردا
+اک رسن بارہ گلے کوچہ و بازار
+ہائے ہائے ہائے ہائے ہائے علمدار

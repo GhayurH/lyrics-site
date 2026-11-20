@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mazlum ka matam hai ruka hai na rukega
+  Mazlum ka maatam hai ruka hai na rukega
   Ye aisa diya hai jo hawaaoṅ meiṅ jalega
 
   1
@@ -25,26 +25,26 @@ romanLyrics: |-
 
   3
   Sada rahega Husain ka gham
-  Ye shor-e-girya ye shor-e-matam
-  Zehra ki dua hai ye matam
-  Ye matam kaise ruk jaye
+  Ye shor-e-girya ye shor-e-maatam
+  Zehra ki dua hai ye maatam
+  Ye maatam kaise ruk jaaye
   Seh roz ke pyaasoṅ se ye paani ka hai waada
-  Kaunain meiṅ ab koi bhi pyasa na rahega
+  Kaunain meiṅ ab koi bhi pyaasa na rahega
 
   4
   Hur ban ke koi aaye to Shabbir ki jaanib
-  Ye aisa gharana hai jo maangoge milega
+  Ye aisa gharaana hai jo maango ge milega
 
   5
-  Akbar ne kaha sheh se ulat duṅga maiṅ lashkar
-  Baba mujhe do ghuṅt agar paani milega
+  Akbar ne kaha sheh se ulat duṅ ga main lashkar
+  Baba mujhe do ghunt agar paani milega
 
   6
   Baadshaah-e-Karbala din ka hai aasra
-  Teri majlis tera matam zindagi hai ye Husain
+  Teri majlis tera maatam zindagi hai ya Husain
   Ya Husain ya Husain ya Husain
   Qaaim ko zara aane do ghaibat se Takallum
-  Ek halqa abhi khaana-e-Kaaba meiṅ lagega
+  Ik halqa abhi khaana-e-Kaaba meiṅ lagega
 ---
 
 مظلوم کا ماتم ہے رکا ہے نہ رکےگا

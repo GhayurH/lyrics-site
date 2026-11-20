@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Dil ka daalaan keh hai shor-e-wila se pur shor
-  Dil ke daalaan meiṅ mehmaan Abu Talib hai
+  Dil ke daalaan mein mehmaan Abu Talib hai
 
   3
   Raaz dunya pe Payambar ki kafaalat se khula

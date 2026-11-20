@@ -13,14 +13,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Aal-e-Aba meiṅ maatam-e-Sher-e-Khuda hai aaj
-  Roz-e-wida-e-Hazrat-e-Mushkilkusha hai aaj
+  Roz-e-widaa-e-Hazrat-e-Mushkilkushaa hai aaj
 
   1
   Masjid meiṅ ibn-e-Muljim-e-malun ki tegh se
   Zakhmi jo ho gaya tha usi ki qaza hai aaj
 
   2
-  Shioṅ uraao khaak garebaaṅ phaar do
+  Shiaoṅ uraao khaak garebaaṅ phaar do
   Uryaaṅ jinaaṅ meiṅ farq-e-Rasul-e-Khuda hai aaj
 
   3
@@ -28,12 +28,12 @@ romanLyrics: |-
   Jin ko yatim daur-e-falak ne kiya hai aaj
 
   4
-  Pursa do aaj Ahmad-e-Mursal ko bhai ka
-  Naib-e-Rasul-e-Haq ka jahaaṅ se utha hai aaj
+  Pursaa do aaj Ahmad-e-Mursal ko bhaai ka
+  Naaib-e-Rasul-e-Haq ka jahaaṅ se utha hai aaj
 
   5
-  Sadiq jahaaṅ meiṅ hashr ke aasaar hai ayaaṅ
-  Maah-e-siyam Maah-e-Muharram hua hai aaj
+  Saadiq jahaaṅ meiṅ hashr ke aasaar hai ayaaṅ
+  Maah-e-siyaam maah-e-Muharram hua hai aaj
 ---
 آل عبا میں ماتم شیر خدا ہے آج
 روز وداع حضرتِ مشکل کشاء ہے آج

@@ -12,8 +12,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Masjid-e-Kufa hai rozadaar hai
-  Farq se uṅchi lahu ki dhaar hai
+  Masjid-e-Kufa hai roza daar hai
+  Farq se unchi lahu ki dhaar hai
   Aah daamaad-e-Payambar ke liye
   Zehr meiṅ dubi hui talwaar hai
 
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   5
   Khun meiṅ hai gharq daamaad-e-Nabi
-  Saaṅs lena bhi bahut dushwaar hai
+  Saans lena bhi bahut dushwaar hai
 ---
 مسجد کوفہ ہے روزہ دار ہے
 فرق سے اونچی لہو کی دھار ہے

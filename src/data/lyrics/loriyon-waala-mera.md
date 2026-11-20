@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Loriyoṅ waale raj dulaare
-  Ae mere pyare haye ali asghar
-  Haye ali asghar haye ali asghar
+  Loriyoṅ waale raaj dulaare
+  Ae mere pyaare haaye Ali Asghar
+  Haaye Ali Asghar haaye Ali Asghar
   Loriyoṅ waala mera jal gaya jhula tera
-  Tu kahaṅ hai mere asghar dhundti phirti hai maa
-  Godh ujri hai meri ghar bhi ujra hai mera
-  Tu kahaṅ hai mere asghar dhundti phirti hai maa
-  Kiuṅ hua mujhse khafa kya hui maa se khata
-  Kar ke jo veeran jhula tu gaya suye qaza
-  Hai nigahoṅ may meri har ghari chehra tera
-  Tu kahaṅ hai mere asghar...
-  Ae mere nur-e-nazar ae mere lakhte jigar
-  Band jab aankheiṅ karuṅ mai aaye bas tu hi nazar
-  Khwab may doo loriyaṅ doo kabhi dar pe sada
-  Tu kahaṅ hai mere asghar...
-  Aa dhula doo moo tera khaak o khuṅ may hai atta
-  Aa mere asghar badal doo khuṅ bhara kurta tera
-  Tir jab tujhko laga khuṅ may tar hogaya
-  Tu kahaṅ hai mere asghar...
-  Shiddat e gham kha gayi qalb ko tarpa gayi
-  Maa ke bin ae laal tujhko kis tarha nind aagayi
-  Kisne di lori tujhe dasht may ye to bata
-  Tu kahaṅ hai mere asghar...
-  Zindagi dushwar hai maa teri ghamkhwar hai
-  Dhup may hai qabr teri maut matamdar hai
-  Raatoṅ ko uth uth ke mai karti rehti hoo buka
-  Tu kahaṅ hai mere asghar...
-  Tir se karke shahid mutmain kab the yazid
+  Tu kahaaṅ hai mere Asghar dhundti phirti hai maaṅ
+  God ujri hai meri ghar bhi ujra hai mera
+  Tu kahaaṅ hai mere Asghar dhundti phirti hai maaṅ
+  Kiuṅ hua mujh se khafa kya hui maaṅ se khata
+  Kar ke jo viraan jhula tu gaya su-e-qaza
+  Hai nigaahoṅ mein meri har ghari chehra tera
+  Tu kahaaṅ hai mere Asghar...
+  Ae mere nur-e-nazar ae mere lakht-e-jigar
+  Band jab aankheṅ karuṅ main aaye bas tu hi nazar
+  Khwaab mein duṅ loriyaaṅ duṅ kabhi dar pe sada
+  Tu kahaaṅ hai mere Asghar...
+  Aa dhula duṅ muṅh tera khaak o khuṅ mein hai ata
+  Aa mere Asghar badal duṅ khuṅ bhara kurta tera
+  Tir jab tujhko laga khuṅ mein tar ho gaya
+  Tu kahaaṅ hai mere Asghar...
+  Shiddat-e-gham kha gayi qalb ko tarpa gayi
+  Maaṅ ke bin ae laal tujhko kis tarah nind aa gayi
+  Kis ne di lori tujhe dasht mein ye to bata
+  Tu kahaaṅ hai mere Asghar...
+  Zindagi dushwaar hai maaṅ teri gham khwaar hai
+  Dhup mein hai qabr teri maut maatam daar hai
+  Raatoṅ ko uth uth ke main karti rehti huṅ buka
+  Tu kahaaṅ hai mere Asghar...
+  Tir se karke shahid mutmain kab the Yazid
   Qabr se laasha nikaala phir kiya tujhko shahid
   Le gaye wo sar tera baad uske kya hua
-  Tu kahaṅ hai mere asghar...
-  Mesum o mazhar wo gham ho nahi sakte raqam
-  Bain jab karti thi maadar rote the ahle haram
-  Sirf is faryad par qaime may kohraam tha
-  Tu kahaṅ hai mere asghar...
+  Tu kahaaṅ hai mere Asghar...
+  Mesum o Mazhar wo gham ho nahiṅ sakte raqam
+  Bain jab karti thi maadar rote the ahl-e-haram
+  Sirf is faryaad par khaime mein kohraam tha
+  Tu kahaaṅ hai mere Asghar...
 ---
 
 ۱

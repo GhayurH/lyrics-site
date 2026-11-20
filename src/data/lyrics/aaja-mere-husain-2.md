@@ -22,23 +22,23 @@ romanLyrics: |-
   1
   Tera janaza maqtal meiṅ tanha
   Maiṅ ro rahi huṅ ghurbat meiṅ tanha
-  Tu ne uthaye laashoṅ hai pe laashe
-  Kaise rahe maa hai mushkil meiṅ beta
-  Maaṅ huṅ maiṅ beta Husain
+  Tu ne uthaaye laashoṅ hai pe laashe
+  Kaise rahe maaṅ hai mushkil meiṅ beta
+  Maaṅ huṅ beta Husain
 
   2
   Chalta tha meri ungli ko thaame
   Karti thi tujh par aanchal ke saaye
   Tu dhup meiṅ reh gaya su-e-maqtal
   Aaja tujhe maaṅ kafan meiṅ chhupaaye
-  Mehsus kar maaṅ ke bain
+  Mahsus kar maaṅ ke bain
 
   3
   Tere gale par chala hai jo khanjar
-  Aa kar laga hai teri maa ke dil par
+  Aa kar laga hai teri maaṅ ke dil par
   Ye soch kar mera dil jal raha hai
-  Neze pe jayega beta tera sar
-  Pareshan kiye maa ne bain
+  Neze pe jaayega beta tera sar
+  Pareshaan kiye maaṅ ne bain
 ---
 آجا میرے حسین
 غربت سے ماں کے تھے بین

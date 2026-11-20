@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Asghar ko tere naam par qurbaan kar diya
   Gathri meiṅ tere waaste Qaasim utha liya
-  Maiṅ ne teri azaan par Akbar kiya fida
+  Main ne teri azaan par Akbar kiya fida
 
   2
   Jis dam Husain zin se utre zamin par
@@ -37,8 +37,8 @@ romanLyrics: |-
   Lekin Lab-e-Husain par jaari rahi sada
 
   5
-  Pyaasa ho zibh dasht meiṅ aur dekheiṅ Bibiyaṅ
-  Manzur ye tujhe hai agar Rabb-e-Do-Jahaaṅ
+  Pyaasa ho zibh dasht meiṅ aur dekheṅ Bibiyaaṅ
+  Manzur ye tujhe hai agar Rabb-e-do jahaaṅ
   Raazi teri riza pe hai Zahra ka laadla
 
   6
@@ -59,7 +59,7 @@ romanLyrics: |-
   9
   Shah par chali jo zarb Takallum wo aakhri
   Katti hui ragoṅ ki musalsal sada ye thi
-  Maiṅ ne jo tujh se waada kiya tha nibha diya
+  Main ne jo tujh se waada kiya tha nibha diya
 ---
 
 سبحان ربی الاعلیٰ

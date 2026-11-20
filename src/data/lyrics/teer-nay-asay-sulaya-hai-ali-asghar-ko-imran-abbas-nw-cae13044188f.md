@@ -4,9 +4,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tir ne aise sulaaya hai Ali Asghar ko
+  Phir to nezoṅ ne jagaaya hai Ali Asghar ko
+
+  Boli Masuma dikhaao to sahi Harmal ne
+  Kis tarah paani pilaaya hai Ali Asghar ko
+
+  Jal gaya jhula to jhule ki jagah ummat ne
+  Nok-e-neza pe jhulaaya hai Ali Asghar ko
+
+  Kis tarah tir nikaala hai Khuda hi jaane
+  Kaise bahnoṅ ko dikhaaya hai Ali Asghar ko
+
+  Jis ghari shah ne kaha jaae ga maidaan ko ye
+  Maaṅ ne Abbaas banaaya hai Ali Asghar ko
+
+  Ek kurte ka kafan jaane banaaya kioṅkar
+  Hai janaaza ke sajaaya hai Ali Asghar ko
+
+  Tir qaatil ka jaise ban mein rola na paaya
+  Maaṅ ki chaadar ne rolaaya hai Ali Asghar ko
+
+  Main to Bahlul woh Qaaim se talab karta huṅ
+  Maaṅ ne jo nauha sunaaya hai Ali Asghar ko
 ---
 
 تیر نے ایسے سُلایا ہے علی اصغرؑ کو

@@ -1,40 +1,55 @@
 ---
-title: "Haye Sajjad Chalay Shaam"
+title: "ہائے سجاد چلے شام"
+alternateTitle: "Haye Sajjad Chalay Shaam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Sajjad chalay Shaam, Khuda khair karay
+  Galay main tauq hay aur bariyan hain pearon main
+  Diya hain Shaam kay logo nay ye inaam, Khuda khair karay
+
+  1
+  Woh jis kay saar say rida bhi kabhi sarak jaye
+  To maray sharam kay suraj waheen palat jaye
+  Sharabiyon say howi hay woh hum kalam
+  Khuda khair karay
+
+  2
+  Tamam shearon kay deevar o dar sajaye hain
+  Khari hain auratain haaton main sang uthaye hain
+  Kiya hay jashan-e-fatah ka ye ahtamam
+  Khuda khair karay
+
+  3
+  Bana kay qaidi aulad-e-Ali ko laye hain
+  Ye shor barpa aaye hain baghi aaye hain
+  Macha hay Shaam kay logon main kohram
+  Khuda khair karay
 ---
 
-Haye Sajjad Chalay Shaam, Khuda Khair Karay.
+ہائے سجاد چلے شام، خدا خیر کرے
+گلے میں طوق ہے اور بیڑیاں ہیں پیروں میں
+دیا ہیں شام کے لوگوں نے یہ انعام، خدا خیر کرے
 
-Galay Main Tauq Hay Aur Bariyan Hain Pearon Main.
+۱
+وہ جس کے سر سے ردا بھی کبھی سرک جائے
+تو مارے شرم کے سورج وہیں پلٹ جائے
+شرابیوں سے ہوئی ہے وہ ہم کلام
+خدا خیر کرے
 
-Diya Hain Shaam Kay Logo Nay Ye Inaam, Khuda Khair Karay.
+۲
+تمام شہروں کے دیوار و در سجائے ہیں
+کھڑی ہیں عورتیں ہاتھوں میں سنگ اٹھائے ہیں
+کیا ہے جشنِ فتح کا یہ اہتمام
+خدا خیر کرے
 
-Woh Jis Kay Saar Say Rida Bhi Kabhi Sarak Jaye.
-
-To Maray Sharam Kay Suraj Waheen Palat Jaye.
-
-Sharabiyon Say Howi Hay Woh Hum Kalam.
-
-Khuda Khair Karay.
-
-Tamam Shearon Kay Deevar O Dar Sajaye Hain.
-
-Khari Hain Auratain Haaton Main Sang Uthaye Hain.
-
-Kiya Hay Jashan-e-Fatah Ka Ye Ahtamam.
-
-Khuda Khair Karay.
-
-Bana Kay Qaidi Aulad-e-Ali Ko Laye Hain.
-
-Ye Shor Barpa Aaye Hain Baghi Aaye Hain.
-
-Macha Hay Shaam Kay Logon Main Kohram.
-
-Khuda Khair Karay.
+۳
+بنا کے قیدی اولادِ علی کو لائے ہیں
+یہ شور برپا آئے ہیں باغی آئے ہیں
+مچا ہے شام کے لوگوں میں کہرام
+خدا خیر کرے

@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Waqt-e-aakhir ye kaha akbar ne baba jaan
-  Dekhluṅ ek baar phir se behna ko jo hai wahaṅ
-  Haa usi lamha nazar aayi madine ki zamiṅ
-  Kar rahi thi ye bayan sar ko jhukaye naznin
+  Waqt-e-aakhir ye kaha Akbar ne Baba Jaan
+  Dekh luṅ ek baar phir se behna ko jo hai wahaṅ
+  Haaṅ usi lamha nazar aayi Madine ki zamiṅ
+  Kar rahi thi ye bain sar ko jhukaye naaznin
   Lene aao bhai mujhko ghut raha hai dam yahaṅ
-  Dar pe apne sar ko rakh kar keh rahi thi nazniṅ
-  Bhai akbar lene mujhko ab talak aaye nahi
+  Dar pe apne sar ko rakh kar keh rahi thi naazniṅ
+  Bhai Akbar lene mujhko ab talak aaye nahiṅ
   Yaad meiṅ teri ye behna mar na jaye bhai jaaṅ
   Lene aao bhai mujhko...
-  Aankhoṅ se uske bahe jaate the ashkoṅ ke chiraag
+  Aankhoṅ se uske bahe jaate the ashkoṅ ke charaagh
   Bekasi aur bebasi ka dil meiṅ tha uske jo daagh
-  Maathe ki har ek shikan se uthta tha gham ka dhuaṅ
+  Maathe ki har ek shikan se uthta tha gham ka dhuaaṅ
   Lene aao bhai mujhko...
-  Hogayi hai wo firaaqe gham meiṅ is tarha nidhaal
-  Dekh kar sunsan dar ko lochti thi sar ke baal
-  Yaad aate hai jo akbar sunti thi jab bhi azaṅ
+  Ho gayi hai wo firaaq-e-gham meiṅ is tarah nidhaal
+  Dekh kar sunsaan dar ko lonchti thi sar ke baal
+  Yaad aate haiṅ jo Akbar sunti thi jab bhi azaaṅ
   Lene aao bhai mujhko...
-  Baap ki shafqat kabhi aur maa ki mamta thi kabhi
-  Bhai behno ki mohabbat pyar karti thi phupi
-  Phirta tha aankhoṅ meiṅ uske har ghari saara samaa
+  Baap ki shafqat kabhi aur maaṅ ki mamta thi kabhi
+  Bhai behnoṅ ki mohabbat pyaar karti thi phuphi
+  Phirta tha aankhoṅ meiṅ uske har ghari saara samaaṅ
   Lene aao bhai mujhko...
-  Haye bemaari ka aalam uspe hai tanhaiyaṅ
-  Chumti hai bhai akbar ke khadmon ke nishaṅ
-  Ashkoṅ se likh likh ke khat meiṅ kar diya sab kuch bayaṅ
+  Haaye bimaari ka aalam us pe hai tanhaaiyaaṅ
+  Chumti hai bhai Akbar ke qadmoṅ ke nishaaṅ
+  Ashkoṅ se likh likh ke khat meiṅ kar diya sab kuch bayaaṅ
   Lene aao bhai mujhko...
   Baith kar din bhar musalle par ye karti thi dua
-  Kunbe se mere milaado mujhko ae behre khuda
-  Ghutniyoṅ chalta ab hoga mera asghar bezuban
+  Kunbe se mere mila do mujhko ae bahr-e-Khuda
+  Ghutniyoṅ chalta ab hoga mera Asghar be zabaaṅ
   Lene aao bhai mujhko...
-  Dil ka khun ban kar siyaahi karta hai ahmed raqam
-  Aur rahega ta qayamat dil meiṅ ye irfaṅ ke gham
-  Sogh meiṅ tere ae bibi rota hai saara jahaṅ
+  Dil ka khun ban kar siyaahi karta hai Ahmed raqam
+  Aur rahega taa qayaamat dil meiṅ ye Irfaaṅ ke gham
+  Sog meiṅ tere ae Bibi rota hai saara jahaṅ
   Lene aao bhai mujhko...
 ---
 

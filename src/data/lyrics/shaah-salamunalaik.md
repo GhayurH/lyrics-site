@@ -1,6 +1,6 @@
 ---
 title: "شاہ سلامن علیک"
-alternateTitle: "Shaah Salamunalaik"
+alternateTitle: "Shaah Salaamun Alaik"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ published: false
 romanLyrics: |-
   1
   Shaah salaamun alaik
-  Shabbir o shabbar salaam
-  Hyder o safdar salaam
+  Shabbir o Shabbar salaam
+  Akbar o Safdar salaam
   Shaah ke dilbar salaam
-  Akbar o asghar salaam
-  Zainab e muztar salaam
-  Saani e hyder salaam
-  Qasime e bepar salaam
-  Abid e muztar salaam
-  Pyasi sakina salaam
-  Aun o mohamed salaam
-  Hurr e dilawar salaam
-  Zainab o kulsum salaam
-  Aaqa e qamber salaam
+  Akbar o Asghar salaam
+  Zainab-e-muztar salaam
+  Saani-e-Haidar salaam
+  Qaasim-e-bepar salaam
+  Aabid-e-muztar salaam
+  Pyaasi Sakina salaam
+  Aun o Muhammad salaam
+  Hurr-e-dilaawar salaam
+  Zainab o Kulsum salaam
+  Aaqa-e-Qambar salaam
   Shiyoṅ ke maula salaam
 ---
 

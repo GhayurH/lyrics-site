@@ -1,38 +1,66 @@
 ---
-title: "Ali Kay Dar Per"
+title: "علی کے در پر"
+alternateTitle: "Ali Kay Dar Per"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Razi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dekh aye qari-e-Quran Ali ke dar par
+  Aayatein charhti hain parwan Ali ke dar par
+
+  1
+  Asal Janat ki ziyarat ke liye jate hain
+  Keh ke yeh aate hain Rizwan Ali ke dar par
+  Mera dil kehta hai qadmo se nahi jate they
+  Sar ke bal jate they Salman Ali ke dar par
+
+  2
+  Kaha Behlool ne dewangi kam aati hai
+  Kam aate nahi osan Ali ke dar par
+  Haan ossi roz meri jan mein jan aaye gi
+  Jab keh nikley gi meri jan Ali ke dar par
+
+  3
+  Aisay logon se bohat achay hain dana dushman
+  Ban ke baithay hain jo nadan Ali ke dar par
+  Hai dua Karb-o-Bala mein ho meri Terah Rajab
+  Our ho teesri Shaban Ali ke dar par
+
+  4
+  Kaha Fizza ne keh iss mein nahi kuch mera kamal
+  Khud samajh aata hai Quran Ali ke dar par
+  Ho Razi:Mir Hasan Mir: Takallum ke Anees
+  Mir hain sare sana khuwan Ali ke dar par
 ---
 
-Dekh Aye Qari-e-Quran Ali Ke Dar Par.
-Aayatein Charhti Hain Parwan Ali Ke Dar Par.
+دیکھ اے قاریِ قرآن علی کے در پر
+آیتیں چڑھتی ہیں پروان علی کے در پر
 
-1
-Asal Janat Ki Ziyarat Ke Liye Jate Hain.
-Keh Ke Yeh Aate Hain Rizwan Ali Ke Dar Par.
-Mera Dil Kehta Hai Qadmo Se Nahi Jate They.
-Sar Ke Bal Jate They Salman Ali Ke Dar Par.
+۱
+اصل جنت کی زیارت کے لیے جاتے ہیں
+کہہ کے یہ آتے ہیں رضوان علی کے در پر
+میرا دل کہتا ہے قدموں سے نہیں جاتے تھے
+سر کے بل جاتے تھے سلمان علی کے در پر
 
-2
-Kaha Behlool Ne Dewangi Kam Aati Hai.
-Kam Aate Nahi Osan Ali Ke Dar Par.
-Haan Ossi Roz Meri Jan Mein Jan Aaye Gi.
-Jab Keh Nikley Gi Meri Jan Ali Ke Dar Par.
+۲
+کہا بہلول نے دیوانگی کام آتی ہے
+کام آتے نہیں اوسان علی کے در پر
+ہاں اسی روز میری جان میں جان آئے گی
+جب کہ نکلے گی میری جان علی کے در پر
 
-3
-Aisay Logon Se Bohat Achay Hain Dana Dushman.
-Ban Ke Baithay Hain Jo Nadan Ali Ke Dar Par.
-Hai Dua Karb-o-Bala Mein Ho Meri Terah Rajab.
-Our Ho Teesri Shaban Ali Ke Dar Par.
+۳
+ایسے لوگوں سے بہت اچھے ہیں دانا دشمن
+بن کے بیٹھے ہیں جو نادان علی کے در پر
+ہے دعا کرب و بلا میں ہو میری تیرہ رجب
+اور ہو تیسری شعبان علی کے در پر
 
-4
-Kaha Fizza Ne Keh Iss Mein Nahi Kuch Mera Kamal.
-Khud Samajh Aata Hai Quran Ali Ke Dar Par.
-Ho Razi:MIR HASAN MIR: Takallum Ke Anees.
- Mir Hain Sare Sana Khuwan Ali Ke Dar Par.
+۴
+کہا فضہ نے کہ اس میں نہیں کچھ میرا کمال
+خود سمجھ آتا ہے قرآن علی کے در پر
+ہو رازی:میر حسن میر: تکلم کے انیس
+میر ہیں سارے ثنا خواں علی کے در پر

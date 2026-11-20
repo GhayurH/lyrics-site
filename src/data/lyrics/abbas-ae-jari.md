@@ -14,67 +14,67 @@ published: true
 romanLyrics: |-
   Ae Fateh-e-Khaibar ke bete
   Ae sher-e-jawaaṅ Abbas Jari
-  Karti hai tumhari turbat par
-  Zainab ye fughaṅ Abbas Jari
+  Karti hai tumhaari turbat par
+  Zainab ye fughaaṅ Abbas Jari
 
   1
   Hum ghairat-e-Haider shaan-e-Ali
   Puchho to behan par kya guzri
-  Utho maiṅ dikhane aayi huṅ
-  Bazu ke nishaṅ Abbas Jari
+  Utho maiṅ dikhaane aayi huṅ
+  Baazu ke nishaaṅ Abbas Jari
 
   2
-  Di maiṅ ne sada bhaiya tum ko
-  Amma ne pukara tha tum ko
-  Jab pyase gale par Sarwar ke
-  Khanjar tha ravaṅ Abbas Jari
+  Di maiṅ ne sadaa bhaiya tum ko
+  Ammaaṅ ne pukaara tha tum ko
+  Jab pyaase gale par Sarwar ke
+  Khanjar tha ravaaṅ Abbas Jari
 
   3
   Shabbir ne tum ko yaad kiya
-  Hasrat se su-e-sahil dekha
-  Piri meiṅ uthai bekas ne
+  Hasrat se su-e-saahil dekha
+  Piri meiṅ uthaai bekas ne
   Jab laash-e-jawaaṅ Abbas Jari
 
   4
-  Jab Shaam-e-Gharibaṅ khaime jale
+  Jab Shaam-e-Gharibaaṅ khaime jale
   Jab hum pe baraste the kore
   Saahil pe suni hogi tum ne
-  Bewaoṅ ki fughaṅ Abbas Jari
+  Bewaaoṅ ki fughaaṅ Abbas Jari
 
   5
   Shabbir ke dil par kya guzri
-  Kuchh tum ko khabar iski na hui
+  Kuchh tum ko khabar is ki na hui
   Tuti mere Akbar ke dil meiṅ
-  Jab nok-e-sinaṅ Abbas Jari
+  Jab nok-e-sinaaṅ Abbas Jari
 
   6
-  Bemaqna o chadar Aal-e-Nabi
-  Bazar meiṅ darbaroṅ meiṅ gayiṅ
-  Har lamha tumheṅ deti thi sada
-  Ashkoṅ ki zabaṅ Abbas Jari
+  Bemaqna o chaadar Aal-e-Nabi
+  Baazaar meiṅ darbaaroṅ meiṅ gayiṅ
+  Har lamha tumheṅ deti thi sadaa
+  Ashkoṅ ki zabaaṅ Abbas Jari
 
   7
-  Tum naaz uthate the jis ke
-  Hum qaid meiṅ usko chhor aaye
-  Ta hashr tumhari pyari ka
-  Zindaṅ hai makaṅ Abbas Jari
+  Tum naaz uthaate the jis ke
+  Hum qaid meiṅ us ko chhor aaye
+  Taa hashr tumhaari pyaari ka
+  Zindaaṅ hai makaaṅ Abbas Jari
 
   8
-  Ae sher-e-dilawar kya ho bayaṅ
-  Phatta hai jigar rukti hai zabaṅ
-  Pamaal hua tanha ran meiṅ
-  Zehra ka nishaṅ Abbas Jari
+  Ae sher-e-dilawar kya ho bayaaṅ
+  Phatta hai jigar rukti hai zabaaṅ
+  Paamaal hua tanha ran meiṅ
+  Zehra ka nishaaṅ Abbas Jari
 
   9
-  Bano ne jo Asghar ka laasha
+  Baano ne jo Asghar ka laasha
   Shabbir ke haathoṅ par dekha
-  Manzar tha qayamat ka bhaiya
-  Mahshar ka samaṅ Abbas Jari
+  Manzar tha qayaamat ka bhaiya
+  Mahshar ka samaaṅ Abbas Jari
 
   10
-  Jaaved tha ek mahshar barpa
-  Ghazi ka larazta tha rauza
-  Awaz jo deti thi Zainab
+  Jaaved tha ik mahshar barpa
+  Ghaazi ka larazta tha rauza
+  Aawaaz jo deti thi Zainab
   Ae sher-e-jawaaṅ Abbas Jari
 ---
 

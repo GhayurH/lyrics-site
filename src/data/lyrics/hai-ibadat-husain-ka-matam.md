@@ -8,74 +8,74 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hay ibadat Husain ka matam
-  Hum ko Quran ne bataya hay
+  Hai ibaadat Husain ka maatam
+  Ham ko Quraaṅ ne ye bataaya hai
 
   1
-  Chomty hain usay farishty bhi
-  Matami hath jab uthata hay
-  Khoon bahaya na ruk saka matam
-  Zakhm banty na ruk saka matam
-  Hath katay na ruk saka matam
-  Hath katay na ruk saka matam
-  Thak k kehny lagain ye talwarain
-  Ye ibadat to mojzana hay
+  Chumte haiṅ ise farishte bhi
+  Maatami haath jab uthaata hai
+  Khuṅ bahaaya na ruk saka maatam
+  Zakhm kha ke na ruk saka maatam
+  Haath baandhe na ruk saka maatam
+  Haath kaate na ruk saka maatam
+  Sabhi kahne lageṅ ye talwaareṅ
+  Ye ibaadat to mojazaana hai
 
   2
-  Nohay parhty hain nooh jaise nabi
-  Ambiya khud safain banaty hain
-  Wo ibadat h matam e shabbir
-  Arsh waly bhi kitny atay hain
-  Farsh matam ka wo mussala hay
-  Jis pe kaba namaz parhta hay
-
-  3
-  Inki awaz hai azan jaisi
-  Nala e haq hay karbala hay
-  Shan iske nishan ki mat pocho
-  Fatah e shah ki ata hay yeh
-  Dagh e matam wo dagh hay jis main
-  Hajr e aswad dikhai deta hay
-
-  4
-  Farsh matam ka farsh h aisa
-  Daikh kar arsh jhoomta hay jise
-  Aisa sina h matami sina
-  Khoon pasina b chomta hay jise
-  Matami hath hath hay aisa
-  Jo ke jannat ka ghar banata hay
-
-  5
-  Taqat e matam e Husain bani
-  Lal sain ki taqat e parwaz
-  Yehi taghoot e la makan
-  Yehi abdullah shah ki awaz
-  Yehi nara bhi hai malangon ko
-  Yehi rasm e qalandarana hay
-
-  6
-  Taigh o shamsheer pe jo wajib thy
-  Wo bhi qarze chukaye hain isne
-  Jin pe takhdeerain naz karti hain
-  Wo muqaddar banaye hain isne
-  Yeh bachata hay nar e dozakh se
-  Yehi qaidi ko Hur banata hay
-
-  7
-  Khanch leta h jo naqabon ko
-  Kitna mazboot hath h iska
-  Aur haqeeqat se bhi ye waqif hay
-  Khoon kis ki ragon main h kiska
-  Sath naslain ye khool deta hay
-  Sub ka nam o nasab batata hay
-
-  8
-  Daikh kar iski saf main nabyon ko
-  Daikh kar iska mojzati asar
-  Daikh kar iski fazilat o azmat
-  Bat ta hashr hogai ye gohar
-  Jo karay ga Husain ka matam
-  Matami woh shareefzada hay
+  Jab bhi hoti hai majlis-e-Shabbir
+  Khud hawaaeṅ diye jalaati haiṅ
+  Sar pe hota hai saaya-e-rahmat
+  Aayateṅ gham mein jagmagaati haiṅ
+  -
+  Chaand khud chaandni bichhaata hai
+  Nohe parhte haiṅ Nuh jaise nabi
+  Ambiya khud safeṅ banaate haiṅ
+  Wo ibaadat hai maatam-e-Shabbir
+  Arsh waale bhi jis mein aate haiṅ
+  Farsh maatam ka wo musalla hai
+  Jis pe Kaaba namaaz parhta hai
+  Aasmaan o zamin o lauh o qalam
+  Is haqiqat ko maante haiṅ sabhi
+  Haj o khums o zakaat o roza kya
+  Is ke dam se haiṅ ye namaazeṅ bhi
+  Ye ibaadat to wo ibaadat hai
+  Har ibaadat ko jis ne paala hai
+  Unki aawaaz hai azaaṅ jaisi
+  Naala-e-haq hai Karbala hai ye
+  Shaan is ke nishaaṅ ki mat puchho
+  Faatih-e-Shaam ki ataa hai ye
+  Daagh maatam wo daagh hai jis mein
+  Hajr-e-Aswad dikhaai deta hai
+  Farsh maatam ka farsh hai aisa
+  Dekh kar arsh jhumta hai jise
+  Aisa sina hai maatami sina
+  Tur-e-Sina bhi chumta hai jise
+  Maatami haath haath hai aisa
+  Jo ke jannat mein ghar banaata hai
+  Taaqat-e-maatam-e-Husain bani
+  Laal Saaeṅ ki taaqat-e-parwaaz
+  Yahi laahut la makaaṅ ki sadaa
+  Yahi Abdullah Shaah ki aawaaz
+  Yahi naara bhi hai malangoṅ ka
+  Yahi rasm-e-qalandaraana hai
+  Tegh o shamshir pe jo waajib the
+  Wo bhi qarze chukaaye haiṅ is ne
+  Jin pe taqdireṅ naaz karti haiṅ
+  Wo muqaddar banaaye haiṅ is ne
+  Ye bachaata hai naar-e-dozakh se
+  Yahi qaidi ko Hur banaata hai
+  Khinch leta hai jo naqaaboṅ ko
+  Kitna mazbut haath hai is ka
+  Is haqiqat se bhi ye waaqif hai
+  Khun kis ki ragoṅ mein hai kis ka
+  Saat nasloṅ ko khol deta hai
+  Sab ka naam o nasab bataata hai
+  Dekh kar iski saf mein nabiyoṅ ko
+  Dekh kar is ka mojazaati asar
+  Sun kar iski fazilat o azmat
+  Baat tai ho gai ye Gauhar
+  Jo karega Husain ka maatam
+  Aadmi wo sharifzaada hai
 ---
 
 ہے عبادت حسینؑ کا ماتم

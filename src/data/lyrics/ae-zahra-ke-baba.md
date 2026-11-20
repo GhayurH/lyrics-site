@@ -12,32 +12,32 @@ tags: []
 aliases: ["Ay Zahra Ke Baba"]
 published: true
 romanLyrics: |-
-  Ae Zahra ke baba ae Shah-e-Madina
+  Ae Zahra ke baaba ae Shaah-e-Madina
   Yuṅ beti ko teri sataaya gaya hai
 
   Shikasta hai pehlu shikasta hai baazu
   Lahu Fatema ka bahaaya gaya hai
 
   1
-  Madine ki kya thi maiṅ haalat bataauṅ
+  Madine ki kya thi main haalat bataauṅ
   Tumheṅ Sayyeda ki musibat bataauṅ
-  Kabhi aag dar par lagayi hai uske
-  Kabhi haath us par uthaya gaya hai
+  Kabhi aag dar par lagaayi hai us ke
+  Kabhi haath us par uthaaya gaya hai
 
   2
-  Sada aa rahi thi ye ghar hi mita do
-  Jo rehte haiṅ ghar meiṅ unheṅ bhi jala do
-  Taharat ka kaaba jalane ki khaatir
+  Sadaa aa rahi thi ye ghar hi mitaa do
+  Jo rehte haiṅ ghar mein unheṅ bhi jalaa do
+  Tahaarat ka Kaaba jalaane ki khaatir
   Jamaat ko saari bulaaya gaya hai
 
   3
   Koi bhi na samjha Shah-e-La Fata ko
   Ye gham khaa gaya hai teri Fatema ko
-  Madine ki galiyoṅ meiṅ qaidi bana kar
+  Madine ki galiyoṅ mein qaidi bana kar
   Tere jaanashiṅ ko phiraaya gaya hai
 
   4
-  Na uthte the bachche na rukte the aansu
+  Na uthte the bachche na rukte the aansuṅ
   Sambhaale farishtoṅ ne donoṅ ke baazu
   Bari mushkiloṅ se janaaze se maaṅ ke
   Husain o Hasan ko hataaya gaya hai
@@ -50,12 +50,12 @@ romanLyrics: |-
 
   6
   Giri khaak par arsh par rehne waali
-  Shikasta hui uske kaanoṅ ki baali
-  Lahu chashm-e-Zahra meiṅ bharne laga tha
-  Tamaacha hi aisa lagaaya gaya hai
+  Shikasta hai us ke kaanoṅ ki baali
+  Lahu chashm-e-Zahra mein bharne laga tha
+  Tamaancha hi aisa lagaaya gaya hai
 
   7
-  Ali ko jo masjid bulaya gaya tha
+  Ali ko jo masjid bulaaya gaya tha
   Teri laadli ko jalaal aa gaya tha
   Ali ne diya waasta apne haq ka
   Madine ko aise bachaaya gaya hai
@@ -63,7 +63,7 @@ romanLyrics: |-
   8
   Ali ne banaayi thi chaalis qabreṅ
   Pata puchhti hai Takallum ki aaheṅ
-  Zamin-e-Madina meiṅ jaane kahaaṅ par
+  Zamin-e-Madina mein jaane kahaaṅ par
   Khazaana tumhaara chhupaaya gaya hai
 ---
 اے زہرا کے بابا اے شاہ مدینہ

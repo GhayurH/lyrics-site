@@ -1,44 +1,74 @@
 ---
-title: "Tauheed Keh Rahi Aye Ayh Nafs E Mutmain Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "توحید کہہ رہی اے اے نفسِ مطمئن"
+alternateTitle: "Tauheed Keh Rahi Aye Ayh Nafs E Mutmain"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tauheed keh rahi aye ayh nafs e mutmain aa ja Hussain aa ja
+  Tu jit layi aye jang Karbal che Ibn-e-Haider, Zahra da gul badan aa ja Hussain aa ja
+
+  1
+  Teri zaat hi oh zaat aye jis de qareeb haan main
+  Mera habib ayein toon tera habib haan main
+  Meri har raza da malik mamnon aye Khuda v ayeh fakhar-e-faya kun aa ja Hussain aa ja
+  Kar sajdah Lam Yazal da sajday che sir kata de
+
+  2
+  Tera lahu shifa aye ais khak nu shifa de
+  Karbal banra mualla kar foaj-e-ashqiya de teraan nu zaib-e-tan aa ja Hussain aa ja
+  Aadam taun Mustafa tak har ik Nabi aye aaya
+  Tere hoslay nu wekhan Baba Ali aye aaya
+
+  3
+  Sultan Nainawa da dardaan da badshah aye taun naz-e-panjtan aa ja Hussain aa ja
+  Khanjar de heth taun ayein wadh gayi aye shan meri
+  Kalma Quran bach gaye bach gayi aazan meri
+  Allah di toon sada ayein tere waang ujriya nayi kisay hor da chaman aa ja Hussain aa ja
+
+  4
+  Ta hashar LaIlaha di tafseer wich raway ga
+  Tera naam Kibriya di tauqeer wich raway ga
+  Mainu Arsh taun bola ke mere samne toon jiwein rulya ayein be kafan aa ja Hussain aa ja
+  Har din Ashor da te har thaan e Karbala di
+
+  5
+  Sehwan te Samar taiyon pursa aye ho riya aye
+  Ghar bar nu luta ke haq da imam hoya haq de layi be watan aa ja Hussain aa ja
 ---
 
-Tauheed Keh Rahi Aye Ayh Nafs e Mutmain Aa Ja Hussain Aa Ja.
-Tu Jit Layi Aye Jang Karbal Che Ibn-e-Haider, Zahra Da Gul Badan Aa Ja Hussain Aa Ja.
+توحید کہہ رہی اے اے نفسِ مطمئن آ جا حسین آ جا
+تُوں جت لئی اے جنگ کربل چ ابنِ حیدر، زہرا دا گل بدن آ جا حسین آ جا
 
-1
-Teri Zaat Hi Oh Zaat Aye Jis De Qareeb Haan Main.
-Mera Habib Ayein Toon Tera Habib Haan Main.
-Meri Har Raza Da Malik Mamnon Aye Khuda V Ayeh Fakhar-e-Faya Kun Aa Ja Hussain Aa Ja.
-Kar Sajdah Lam Yazal Da Sajday Che Sir Kata De.
+۱
+تیری ذات ہی اوہ ذات اے جس دے قریب ہاں میں
+میرا حبیب ایں تُوں تیرا حبیب ہاں میں
+میری ہر رضا دا مالک ممنون اے خدا وی اے فخرِ فیا کن آ جا حسین آ جا
+کر سجدہ لم یزل دا سجدے چ سر کٹا دے
 
-2
-Tera Lahu Shifa Aye Ais Khak Nu Shifa De.
-Karbal Banra Mualla Kar Foaj-e-Ashqiya De Teraan Nu Zaib-e-Tan Aa Ja Hussain Aa Ja.
-Aadam Taun Mustafa Tak Har Ik Nabi Aye Aaya.
-Tere Hoslay Nu Wekhan Baba Ali Aye Aaya.
+۲
+تیرا لہو شفا اے ایس خاک نوں شفا دے
+کربل بنڑا معلیٰ کر فوجِ اشقیا دے تیراں نوں زیبِ تن آ جا حسین آ جا
+آدم توں مصطفیٰ تک ہر اک نبی اے آیا
+تیرے حوصلے نوں ویکھن بابا علی اے آیا
 
-3
-Sultan Nainawa Da Dardaan Da Badshah Aye Taun Naz-e-Panjtan Aa Ja Hussain Aa Ja.
-Khanjar De Heth Taun Ayein Wadh Gayi Aye Shan Meri.
-Kalma Quran Bach Gaye Bach Gayi Aazan Meri.
-ALLAH Di Toon Sada Ayein Tere Waang Ujriya Nayi Kisay Hor Da Chaman Aa Ja Hussain Aa Ja.
+۳
+سلطانِ نینوا دا درداں دا بادشاہ اے تُوں نازِ پنجتن آ جا حسین آ جا
+خنجر دے ہیٹھ توں ایں ودھ گئی اے شان میری
+کلمہ قرآن بچ گئے بچ گئی اذان میری
+اللہ دی تُوں صدا ایں تیرے وانگ اجڑیا نئیں کسے ہور دا چمن آ جا حسین آ جا
 
-4
-Ta Hashar LaIlaha Di Tafseer Wich Raway Ga.
-Tera Naam Kibriya Di Tauqeer Wich Raway Ga.
-Mainu Arsh Taun Bola Ke Mere Samne Toon Jiwein Rulya Ayein Be Kafan Aa Ja Hussain Aa Ja.
-Har Din Ashor Da Te Har Thaan E Karbala Di.
+۴
+تا حشر لا الٰہ دی تفسیر وچ روے گا
+تیرا نام کبریا دی توقیر وچ روے گا
+مینوں عرش توں بلا کے میرے سامنے تُوں جیویں رلیا ایں بے کفن آ جا حسین آ جا
+ہر دن عاشور دا تے ہر تھاں اے کربلا دی
 
-5
-Sehwan Te Samar Taiyon Pursa Aye Ho Riya Aye.
-Ghar Bar Nu Luta Ke Haq Da Imam Hoya Haq De Layi Be Watan Aa Ja Hussain Aa Ja.
-Matami Sangat
-Khan Tasaduq Khan
+۵
+سیہون تے ثمر تائیوں پرسا اے ہو ریا اے
+گھر بار نوں لٹا کے حق دا امام ہویا حق دے لئی بے وطن آ جا حسین آ جا

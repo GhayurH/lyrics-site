@@ -1,46 +1,82 @@
 ---
-title: "Habib Aa Jao Mir Hasan Mir"
+title: "حبیب آ جاؤ میر حسن میر"
+alternateTitle: "Habib Aa Jao Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Habib aa jao Mir Hasan Mir
+  Yeh khat mein Shah ne likha Habib aa jao
+  Tumhara dost hai tanha Habib aa jao
+  Shaheed kaise howa woh batao gaye aa kar
+  Tum Haal-e-Muslim-e-bekas sunao gaye aa kar
+  Ruqaiya takti hai rasta Habib aa jao
+  Lagao iss se bhi andazay meri ghurbat ke
+  Jahan pe Ibn-e-Ali likhna tha wahan main ne
+  Diya hai maa ka hawala Habib aa jao
+  Bata raha tha osse koi bhi nahi hai mera
+  Tu bolin Sani-e-Zahra Habib aaye ga
+  Hai oss ko tum pe bharosa Habib aa jao
+  Woh jab yeh sunti hai Kofay se aa rahe hain shaqi
+  Tu pochti hai hamara bhi aaye ga koi
+  Duaein de gi Sakina Habib aa jao
+  Gawara kar nahi sakti Hussain ki ghirat
+  Tumhari zoja ki chadar loot le ummat
+  Tum oss ko choor ke Kofa Habib aa jao
+  Mujhe hai yaad woh lamha jo Rab ki marzi se
+  Tum ho ke zinda meri baat sunne aaye the
+  Bula raha hoon dobara Habib aa jao
+  Dar-e-Batool dobara jalaya jaye ga
+  Tumhare dost pe khanjar chalaya jaye ga
+  Nahi hai waqt zyada Habib aa jao
+  Chamakte chand ki hum ko bhi deed ho jaye
+  Tum aao tu mere bachoon mein Eid ho jaye
+  Bohat udas hai kunba Habib aa jao
+  Yeh khat nahi isse behno ki aarzu samjho
+  Hamare lafzon ko Zainab ki guftgu samjho
+  Behan yeh kehti hai bhaiya Habib aa jao
+  Behan ne oss ko Takallum jo bhai samjha tha
+  Pukari Sham-e-Gharebaan mein Sani-e-Zhara
+  Hamara lutta hai parda Habib aa jao
 ---
 
-1
-Habib Aa Jao Mir Hasan Mir.
-Yeh Khat Mein Shah Ne Likha Habib Aa Jao.
-Tumhara Dost Hai Tanha Habib Aa Jao.
-Shaheed Kaise Howa Woh Batao Gaye Aa Kar.
-Tum Haal-e-Muslim-e-Bekas Sunao Gaye Aa Kar.
-Ruqaiya Takti Hai Rasta Habib Aa Jao.
-Lagao Iss Se Bhi Andazay Meri Ghurbat Ke.
-Jahan Pe Ibn-e-Ali Likhna Tha Wahan Main Ne.
-Diya Hai Maa Ka Hawala Habib Aa Jao.
-Bata Raha Tha Osse Koi Bhi Nahi Hai Mera.
-Tu Bolin Sani-e-Zahra Habib Aaye Ga.
-Hai Oss Ko Tum Pe Bharosa Habib Aa Jao.
-Woh Jab Yeh Sunti Hai Kofay Se Aa Rahe Hain Shaqi.
-Tu Pochti Hai Hamara Bhi Aaye Ga Koi.
-Duaein De Gi Sakina Habib Aa Jao.
-Gawara Kar Nahi Sakti Hussain Ki Ghirat.
-Tumhari Zoja Ki Chadar Loot Le Ummat.
-Tum Oss Ko Choor Ke Kofa Habib Aa Jao.
-Mujhe Hai Yaad Woh Lamha Jo Rab Ki Marzi Se.
-Tum Ho Ke Zinda Meri Baat Sunne Aaye The.
-Bula Raha Hoon Dobara Habib Aa Jao.
-Dar-e-Batool Dobara Jalaya Jaye Ga.
-Tumhare Dost Pe Khanjar Chalaya Jaye Ga.
-Nahi Hai Waqt Zyada Habib Aa Jao.
-Chamakte Chand Ki Hum Ko Bhi Deed Ho Jaye.
-Tum Aao Tu Mere Bachoon Mein Eid Ho Jaye.
-Bohat Udas Hai Kunba Habib Aa Jao.
-Yeh Khat Nahi Isse Behno Ki Aarzu Samjho.
-Hamare Lafzon Ko Zainab Ki Guftgu Samjho.
-Behan Yeh Kehti Hai Bhaiya Habib Aa Jao.
-Behan Ne Oss Ko Takallum Jo Bhai Samjha Tha.
-Pukari Sham-e-Gharebaan Mein Sani-e-Zhara.
-Hamara Lutta Hai Parda Habib Aa Jao.
+۱
+حبیب آ جاؤ میر حسن میر
+یہ خط میں شاہ نے لکھا حبیب آ جاؤ
+تمہارا دوست ہے تنہا حبیب آ جاؤ
+شہید کیسے ہوا وہ بتاؤ گے آ کر
+تم حالِ مسلمِ بے کس سناؤ گے آ کر
+رقیہ تکتی ہے رستا حبیب آ جاؤ
+لگاؤ اس سے بھی اندازے میری غربت کے
+جہاں پہ ابنِ علی لکھنا تھا وہاں میں نے
+دیا ہے ماں کا حوالہ حبیب آ جاؤ
+بتا رہا تھا اسے کوئی بھی نہیں ہے میرا
+تو بولیں ثانیِ زہرا حبیب آئے گا
+ہے اس کو تم پہ بھروسا حبیب آ جاؤ
+وہ جب یہ سنتی ہے کوفے سے آ رہے ہیں شقی
+تو پوچھتی ہے ہمارا بھی آئے گا کوئی
+دعائیں دے گی سکینہ حبیب آ جاؤ
+گوارا کر نہیں سکتی حسین کی غیرت
+تمہاری زوجہ کی چادر لوٹ لے امت
+تم اس کو چھوڑ کے کوفہ حبیب آ جاؤ
+مجھے ہے یاد وہ لمحہ جو رب کی مرضی سے
+تم ہو کے زندہ میری بات سننے آئے تھے
+بلا رہا ہوں دوبارہ حبیب آ جاؤ
+درِ بتول دوبارہ جلایا جائے گا
+تمہارے دوست پہ خنجر چلایا جائے گا
+نہیں ہے وقت زیادہ حبیب آ جاؤ
+چمکتے چاند کی ہم کو بھی دید ہو جائے
+تم آؤ تو میرے بچوں میں عید ہو جائے
+بہت اداس ہے کنبہ حبیب آ جاؤ
+یہ خط نہیں اسے بہنوں کی آرزو سمجھو
+ہمارے لفظوں کو زینب کی گفتگو سمجھو
+بہن یہ کہتی ہے بھیا حبیب آ جاؤ
+بہن نے اس کو تکلم جو بھائی سمجھا تھا
+پکاری شامِ غریباں میں ثانیِ زہرا
+ہمارا لٹتا ہے پردہ حبیب آ جاؤ

@@ -1,37 +1,63 @@
 ---
-title: "Ali Ali Maula Ali Ali"
+title: "علی علی مولا علی علی"
+alternateTitle: "Ali Ali Maula Ali Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ali Ali Maula Ali Ali
+
+  1
+  Pak laho hai apna batana wajib hai
+  Nara-e-Haider youn hi lagana wajib hai
+  Khum mein yeh kehti thi soraj ki garmi
+  Jaltay dilon ko our jalana wajib hai
+  Zikar-e-Ali par ungli uthai ho jis ne
+  Oss insaan par hath uthana wajib hai
+
+  2
+  Mera Ali afzal hai sare nabiyon se
+  Kaisa taqaiyya yeh tu batana wajib hai
+  Marhab se hum kaise larein yeh kehte the
+  Qaul-e-Nabi hai jan bachana wajib hai
+  Choor ke wajib sajday ko kehte the Saeed
+  Maula ko teeron se bachana wajib hai
+
+  3
+  Dil ko zyda Karb-o-Bala ki khuwaish hai
+  Jab ke pata hai Hajj par jana wajib hai
+  Shia Sunni bad mein karna bachon ko
+  Pehle tu insan banana wajib hai
+  Jis mehfil mein khatra ho oss mein Sajjad
+  Maa ne bataya hai ke jana wajib hai
 ---
 
-Ali Ali Maula Ali Ali
+علی علی مولا علی علی
 
-1
-Pak Laho Hai Apna Batana Wajib Hai.
-Nara-e-Haider Youn Hi Lagana Wajib Hai.
-Khum Mein Yeh Kehti Thi Soraj Ki Garmi.
-Jaltay Dilon Ko Our Jalana Wajib Hai.
-Zikar-e-Ali Par Ungli Uthai Ho Jis Ne.
-Oss Insaan Par Hath Uthana Wajib Hai.
+۱
+پاک لہو ہے اپنا بتانا واجب ہے
+نعرۂ حیدر یوں ہی لگانا واجب ہے
+خم میں یہ کہتی تھی سورج کی گرمی
+جلتے دلوں کو اور جلانا واجب ہے
+ذکرِ علی پر انگلی اٹھائی ہو جس نے
+اُس انسان پر ہاتھ اٹھانا واجب ہے
 
-2
-Mera Ali Afzal Hai Sare Nabiyon Se.
-Kaisa Taqaiyya Yeh Tu Batana Wajib Hai.
-Marhab Se Hum Kaise Larein Yeh Kehte The.
-Qaul-e-Nabi Hai Jan Bachana Wajib Hai.
-Choor Ke Wajib Sajday Ko Kehte The Saeed.
-Maula Ko Teeron Se Bachana Wajib Hai.
+۲
+میرا علی افضل ہے سارے نبیوں سے
+کیسا تقیہ یہ تو بتانا واجب ہے
+مرحب سے ہم کیسے لڑیں یہ کہتے تھے
+قولِ نبی ہے جان بچانا واجب ہے
+چھوڑ کے واجب سجدے کو کہتے تھے سعید
+مولا کو تیروں سے بچانا واجب ہے
 
-3
-Dil Ko Zyda Karb-o-Bala Ki Khuwaish Hai.
-Jab Ke Pata Hai Hajj Par Jana Wajib Hai.
-Shia Sunni Bad Mein Karna Bachon Ko.
-Pehle Tu Insan Banana Wajib Hai.
-Jis Mehfil Mein Khatra Ho Oss Mein Sajjad.
-Maa Ne Bataya Hai Ke Jana Wajib Hai.
+۳
+دل کو زیادہ کرب و بلا کی خواہش ہے
+جب کہ پتا ہے حج پر جانا واجب ہے
+شیعہ سنی بعد میں کرنا بچوں کو
+پہلے تو انسان بنانا واجب ہے
+جس محفل میں خطرہ ہو اُس میں سجاد
+ماں نے بتایا ہے کہ جانا واجب ہے

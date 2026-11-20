@@ -10,39 +10,39 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aamad e Syeda ho gai Syed Mohammad Shah
+  Aamad-e-Syeda ho gayi Syed Mohammad Shah
 
   1
-  Dehar mein aamad-e-Syeda ho gayi
-  Nasal-e-Sadaat ki ibtida ho gayi
-  Le ke hathoon mein Zahra ko bolay Nabi
-  Aaj pori meri har dua ho gayi
-  Rotiyaan sath Zahra ke taqseem kin
-  Fizza bhi shamil-e-Hal Atta ho gayi
+  Dahr mein aamad-e-Syeda ho gayi
+  Nasl-e-Saadaat ki ibtida ho gayi
+  Le ke haathoṅ mein Zahra ko bole Nabi
+  Aaj puri meri har dua ho gayi
+  Rotiyaaṅ saath Zahra ke taqsim kiṅ
+  Fizza bhi shaamil-e-Hal Ata ho gayi
 
   2
-  Fatima mera hissa hai bolay Nabi
-  Yani Zahra Rasool-e-Khuda ho gayi
-  Jo Nabi se lara woh Jahanum gaya
-  Jo Ali se lari la pata ho gayi
-  Keh ke Umm-e-Abeeha Nabi ne kaha
+  Fatima mera hissa hai bole Nabi
+  Yani Zahra Rasul-e-Khuda ho gayi
+  Jo Nabi se lara woh jahannam gaya
+  Jo Ali se lari laapata ho gayi
+  Keh ke Umm-e-Abiha Nabi ne kaha
   Meri beti meri Aamna ho gayi
 
   3
-  Teri chadar hai Arsh-e-Olla Syeda
-  Baat roshan yeh Rooz-e-Kisa ho gayi
+  Teri chaadar hai arsh-e-aala Syeda
+  Baat roshan yeh roz-e-Kisa ho gayi
   Aaya Ghazi tu Zahra ki aayi sada
-  Mere Mohsin ki zahir wafa ho gayi
-  Dekh Romal-e-Zahra ka ijaz dekh
-  Hur ki mati bhi Khak-e-Shifa ho gayi
+  Mere Mohsin ki zaahir wafa ho gayi
+  Dekh rumaal-e-Zahra ka ijaaz dekh
+  Hur ki mitti bhi khaak-e-shifa ho gayi
 
   4
-  Ab namazon ka kya faida Sheikh jee
-  Aap se Majlis-e-Sheh qaza ho gayi
-  Tujh ko matam ki khatir banaya gaya
+  Ab namaazoṅ ka kya faida Sheikh ji
+  Aap se majlis-e-sheh qaza ho gayi
+  Tujh ko maatam ki khaatir banaya gaya
   Zindagi teri qeemat ada ho gayi
-  Main ne Akbar kiya shukar-e-Zahra ada
-  Nasal meri jo mehway azza ho gayi
+  Main ne Akbar kiya shukr-e-Zahra ada
+  Nasl meri jo mahv-e-aza ho gayi
 ---
 
 آمدِ سیدہ ہو گئی سید محمد شاہ

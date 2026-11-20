@@ -12,7 +12,7 @@ aliases: ["Dooba Hua Hussain"]
 published: true
 romanLyrics: |-
   Duba hua Husain ka laasha lahu meiṅ hai
-  Ya Mustafa ke qalb ka tukra lahu meiṅ hai
+  Ya Mustafa ke qalb ka tukre lahu meiṅ hai
 
   1
   Kiuṅ bekhata pe zulm kiya tu ne Hurmula
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Fawwaara khuṅ ka jaari hai Akbar ke sine se
-  Is waqt Mustafa ka saraapa lahu meiṅ hai
+  Is waqt Mustafa ka saraapa lahu meiṅ tar
 
   4
   Farwa ye boli dekh ke Qaasim ki laash ko

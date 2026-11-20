@@ -21,7 +21,7 @@ romanLyrics: |-
   Hai baagh-e-khuld bhi sasta Raza ke sikke se
 
   2
-  Ke is pe naqsh hai ism-e-Ali-e-Musi Raza
+  Ke is pe naqsh hai ism-e-Ali-e-Musaa Raza
   Aur is meiṅ aks hai Maula Raza ke rauze ka
   Khuruj-e-nur hai goya Raza ke sikke se
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Maarifat ki nazar se ye hum ne jaana hai
   Gharib-e-Tus ka haasil humeiṅ khazaana hai
-  Kharid leiṅge zamaana Raza ke sikke se
+  Kharid leiṅ ge zamaana Raza ke sikke se
 
   5
   Hamaare baazu pe jab maaeiṅ baaṅdhti haiṅ ise

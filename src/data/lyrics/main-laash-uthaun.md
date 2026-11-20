@@ -12,39 +12,39 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hai jalti zamiṅ tu hi bata Ae mere Asghar
-  Maiṅ laash uthauṅ ya teri qabr banauṅ
+  Hai jalti zamiṅ tu hi bata ae mere Asghar
+  Main laash uthauṅ ya teri qabr banauṅ
 
   Rakh bhi to nahiṅ sakta teri laash zamiṅ par
-  Maiṅ laash uthauṅ ya teri qabr banauṅ
+  Main laash uthauṅ ya teri qabr banauṅ
 
   1
   Rakhuṅ ga zamiṅ par jo tujhe mere jiyaale
   Hai garm zamiṅ jism pe par jaayeṅ ge chhaale
   Shabbir ko ab tu hi bata haṅsliyoṅ waale
-  Khud sambhala nahiṅ jaata tujhe kaise sambhaale
+  Khud sambhla nahiṅ jaata tujhe kaise sambhaale
   Asghar ko kaha shaah ne sine se laga kar
 
   2
   Ye baat alag hai ke taraste ho kafan ko
   Dafnaana zaruri hai bahut nanhe badan ko
-  Warna ye laiṅ kar deṅ ge paamaal badan ko
-  Maa teri na seh paaye gi is ranj o mihan ko
+  Warna ye la'iṅ kar deṅ ge paamaal badan ko
+  Maaṅ teri na seh paaye gi is ranj o mihan ko
   Phir rote rahe der talak shaah ye keh kar
 
   3
-  Hai ye bhi khabar qabr meiṅ na chain mile ga
+  Hai ye bhi khabar qabr mein na chain mile ga
   Hai garm zamiṅ garm hawa jism jale ga
   Paani ke bina dhup ki shiddat na sahe ga
-  Gar dafn na ho paaya to ghoroṅ se rundhe ga
-  Laaya huṅ tujhe is liye daaman meiṅ chhupa kar
+  Gar dafn na ho paaya to ghoroṅ se raunde ga
+  Laaya huṅ tujhe is liye daaman mein chhupa kar
 
   4
-  Aankhoṅ meiṅ andhera hai nazar kuchh nahiṅ aata
+  Aankhoṅ mein andhera hai nazar kuchh nahiṅ aata
   Tuti hai kamar baith ke utha nahiṅ jaata
-  Zaanu pe sula kar maiṅ tujhe lori sunaata
+  Zaanu pe sula kar main tujhe lori sunaata
   Ek haath se phir beta teri qabr banaata
-  Majbur huṅ ab uth bhi nahiṅ sakta maiṅ gir kar
+  Majbur huṅ ab uth bhi nahiṅ sakta main gir kar
 
   5
   Ik bund hi paani tu faqat maang raha tha
@@ -55,10 +55,10 @@ romanLyrics: |-
 
   6
   Hai phul sa naazuk ye tera chaand sa chehra
-  Kis dil se dabauṅ ga ise khaak meiṅ beta
+  Kis dil se dabauṅ ga ise khaak mein beta
   Mar jauṅ ga sadme se yahiṅ baap huṅ tera
   Aa jaaye ga us waqt mere muṅh ko kaleja
-  Daaluṅ ga tere rukh pe jo maiṅ ret utha kar
+  Daaluṅ ga tere rukh pe jo main ret utha kar
 
   7
   Alqissa Qamar qabr banaane lage Sarwar

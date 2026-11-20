@@ -13,12 +13,12 @@ aliases: ["Ay Fatema Ke Laal"]
 published: true
 romanLyrics: |-
   Ae Fatema ke laal tujhe aakhri salaam
-  Tujhko wida karne ko aaye haiṅ ye ghulaam
+  Tujhko widaa karne ko aaye haiṅ ye ghulaam
 
   1
   Kaisi udaasiyaaṅ hai ye ghurbat ka waqt hai
   Hum par ye aaj kaisi musibat ka waqt hai
-  Bazm-e-azaa se aap ki ruqsat ka waqt hai
+  Bazm-e-azaa se aap ki rukhsat ka waqt hai
   Raunaq hamaare ghar ki na le jaaiye Imam
 
   2
@@ -42,7 +42,7 @@ romanLyrics: |-
   5
   Maula ye hai Rashid Shahidi ki iltejaa
   Pahuncha de hum ghulaamoṅ ko ab jald Karbala
-  Maatam kareṅ ge phir tere rauze pe hum tera
+  Maatam kareṅ ge phir tera rauze pe hum tera
   Hum se na ho saki teri khidmat Shah-e-Anaam
 ---
 اے فاطمہ کے لال تجھے آخری سلام

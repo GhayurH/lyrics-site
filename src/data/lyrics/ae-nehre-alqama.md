@@ -1,6 +1,6 @@
 ---
 title: "اے نہر علقمہ"
-alternateTitle: "Ae Nehre Alqama"
+alternateTitle: "Ae Nehr-e-Alqama"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,50 +11,50 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae nehre alqama
+  Ae Nehr-e-Alqama
 
   1
-  Aaj bhi is bekasi par ro rahi hai karbala
-  Alqama behti rahi aur khaafila pyasa raha
+  Aaj bhi is bekasi par ro rahi hai Karbala
+  Alqama behti rahi aur qaafila pyaasa raha
 
   2
-  Pyasa tha tere samne kunba rasul ka
+  Pyaasa tha tere saamne kunba Rasul ka
 
   3
-  Ae nehre alqama tera mehman tha Husain
-  Kiuṅ tere paas reh ke bhi usko mila na chain
-  Tujhse hai ye gila ae nehre alqama
-  Pyasa tha tere saamne...
+  Ae Nehr-e-Alqama tera mehmaan tha Husain
+  Kiuṅ tere paas reh ke bhi us ko mila na chain
+  Tujh se hai ye gila ae Nehr-e-Alqama
+  Pyaasa tha tere saamne...
 
   4
-  Qaime the ahle bait ke kitne tere qarib
-  Pyase hi tere saamne wo mar gaye gharib
-  Roti thi karbala ae nehre alqama
-  Pyasa tha tere saamne...
+  Khaime the Ahl-e-Bait ke kitne tere qarib
+  Pyaase hi tere saamne wo mar gaye gharib
+  Roti thi Karbala ae Nehr-e-Alqama
+  Pyaasa tha tere saamne...
 
   5
-  Mashkeeza jis ke haath meiṅ tha dosh par alam
-  Saahil pe tere aaye the abbas ke qadam
-  Rutba tujhe mila ae nehre alqama
-  Pyasa tha tere saamne...
+  Mashkiza jis ke haath mein tha dosh par alam
+  Saahil pe tere aaye the Abbas ke qadam
+  Rutba tujhe mila ae Nehr-e-Alqama
+  Pyaasa tha tere saamne...
 
   6
-  Sukhi pari thi mashke sakina tarayi meiṅ
-  Do boond pani kya na tha saari khudayi meiṅ
-  Tune ye kya kiya ae nehre alqama
-  Pyasa tha tere saamne...
+  Sukhi pari thi mashk-e-Sakina taraai mein
+  Do bund paani kya na tha saari khudaai mein
+  Tu ne ye kya kiya ae Nehr-e-Alqama
+  Pyaasa tha tere saamne...
 
   7
-  Ek bekasi si ahle haram par tamaam thi
-  Kitni udaas shaam e gharibaṅ ki shaam thi
-  Ae wa musibata ae nehre alqama
-  Pyasa tha tere saamne...
+  Ik bekasi si Ahl-e-Haram par tamaam thi
+  Kitni udaas shaam-e-gharibaaṅ ki shaam thi
+  Ae wa musibata ae Nehr-e-Alqama
+  Pyaasa tha tere saamne...
 
   8
-  Nauhoṅ meiṅ hai jo tazkira e alqama hilal
-  Charoṅ taraf hai aaj bhi ek matam e malaal
-  Jaari hai ye aza ae nehre alqama
-  Pyasa tha tere saamne...
+  Nauhoṅ mein hai jo tazkira-e-Alqama Hilal
+  Chaaroṅ taraf hai aaj bhi ik maatam-e-malaal
+  Jaari hai ye aza ae Nehr-e-Alqama
+  Pyaasa tha tere saamne...
 ---
 
 اے نہر علقمہ

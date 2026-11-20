@@ -7,216 +7,110 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Goonj rahi hai ye sada ya hussain
-
-  Tujhko layeeno ne sataya hussain
-
+romanLyrics: |-
+  Gunj rahi hai ye sada ya Husain
+  Tujh ko la'inoṅ ne sataya ya Husain
+  Ya Husain, ya Husain
 
   1
-
-  Ya hussain, ya hussain
-
-  Teen shabo roz ka pyasa hussain
-
-  Dashte bala mein tujhe maara hussain
-
+  Tin shab o roz ka pyaasa Husain
+  Dasht-e-bala mein tujhe maara Husain
 
   2
-
-  Bayyate fasiq ke talabgaar thay
-
-  Zulmo sitam ke liye tayyar thay
-
-  Kitne tere sar ke khareedar thay
-
-  Tune magar sar na jhukaya hussain
-
+  Baiat-e-faasiq ke talabgaar the
+  Zulm o sitam ke liye tayyaar the
+  Kitne tere sar ke kharidaar the
+  Tu ne magar sar na jhukaya Husain
 
   3
-
-  Bhej ke khat tujhko bulaya gaya
-
-  Tera watan tujhse chudaya gaya
-
-  Qabr se nana ki hataya gaya
-
+  Bhej ke khat tujh ko bulaya gaya
+  Tera watan tujh se chhuraya gaya
+  Qabr se naana ki hataya gaya
+  Paikar-e-taslim o raza ya Husain
 
   4
-
-  Paykare tasleem o raza ya hussain
-
-  Karbobala ghayr ke laaye tujhe
-
-  Tere azeez akhroba saath thay
-
+  Karb o bala gher ke laaye tujhe
+  Tere aziz aur rufaqa saath the
+  Nahr se khaime bhi hataye gaye
+  Uzr zara bhi na hua ya Husain
 
   5
-
-  Nehr se qaime bhi hataye gaye
-
-  Uzr zara bhi na hua ya hussain
-
-  Dasht mein thodi si jagah mil gaye
-
+  Dasht mein thori si jagah mil gai
+  Aamad-e-aada se zamin hil gai
+  Aur nazar jab su-e-saahil gai
+  Is pe la'inoṅ ka tha pehra ya Husain
 
   6
-
-  Dasht may thodi si jagah mil gaye
-
-  Aamade aada se zameen hil gaye
-
-  Aur nazar jab sue saahil gaye
-
-  Us pa layeeno ka tha pehra hussain
-
+  Kya shab-e-aashur ka hangaam tha
+  Saara jahaaṅ larza barandaam tha
+  Tujh ko ibaadat se faqat kaam tha
+  Karta raha zikr-e-Khuda ka Husain
 
   7
-
-  Kya shabe aashoor ka hangaam tha
-
-  Saara jahan larza barandaam tha
-
-  Tujhko ibadat se faqad kaam tha
-
-  Karta raha zikr khuda ka hussain
-
+  Subh-e-dahum ka ho bhala kya bayaaṅ
+  Dene laga jab tera Akbar azaaṅ
+  Jaise thi aawaaz-e-Nabi begumaaṅ
+  Karb o bala thi ke Madina Husain
 
   8
-
-  Suboh dahum ka ho bhala kya bayan
-
-  Dene laga jab tera akbar azaan
-
-  Jaise thi awaaze nabi beguman
-
+  Fauj-e-Husaini mein bara josh tha
+  Tu ne bhi pyaasoṅ ko saf aara kiya
+  Saani Haidar ko alam de diya
+  Sab ne unheṅ fakhr se dekha Husain
 
   9
-
-  Karbobala thi ke madina hussain
-
-  Fauje hussaini mein bada josh tha
-
-  Tune bhi pyaso ko sahara kiya
-
+  Su-e-imaam ek namaazi barha
+  Dil se basad shaan-e-niyaazi barha
+  Fauj-e-adu se Hur ghaazi barha
+  Aa ke qadam bos hua ya Husain
 
   10
-
-  Saaniye hyder lo alam dediya
-
-  Sab ne unhe faqr se dekha hussain
-
-  Suye imam ek namazi badha
-
+  Haaye muhibb-e-shah-e-aali maqaam
+  Jis ka Habib ibn-e-Mazaahir hai naam
+  Zainab-e-dilgir ne bheja salaam
+  Tu ne gale un ko lagaya Husain
 
   11
-
-  Suye imam ek namazi barha
-
-  Dil se basad shaan e niyazi barha
-
-  Fauje udoo se hure ghazi barha
-
-  Aake qadam-bosh hua ya hussain
-
+  Phir to ajab hashr bapa ho gaya
+  Ek ke baad ek fida ho gaya
+  Dekhte hi dekhte kya ho gaya
+  Ab koi naasir na raha ya Husain
 
   12
-
-  Haaye muhibbe shahe aali maqaaam
-
-  Jinka habib ibne mazaahir hai naam
-
-  Zainabe dilgeer ne bheja salaam
-
-  Tumne gale unko lagaya hussain
-
+  Saani-e-Zehra ka bura haal tha
+  Jabke tadaaruk na koi ban para
+  Aun o Muhammad ko fida kar diya
+  Is pe bhi tu bach na saka ya Husain
 
   13
-
-  Phir to ajab hashr bapa ho gaya
-
-  Ek ke baad fida hogaya
-
-  Dekhte hi dekhte kya hogaya
-
-  Ab koi nasir na raha ya hussain
-
+  Maadar-e-Qaasim ka jigar dekhiye
+  Jazba-e-imaaṅ ka asar dekhiye
+  Bhij diya ran mein pisar dekhiye
+  Jo hua paamaal-e-jafa ya Husain
 
   14
-
-  Ab koi nasir na raha ya hussain
-
-  Saani e zehra ka bura haal tha
-
-  Jab ke tadaruk na koi ban pada
-
+  Hazrat Abbaas bhi marne chale
+  Nahr par jarraar ke baazu kate
+  Thaam ke aap apni kamar reh gaye
+  Ho gai chup ro ke Sakina Husain
 
   15
-
-  Aun o mohamad ko fida kar diya
-
-  Us pa bhi tu bach na saka ya hussain
-
-  Madare qasim ka jigar dekhiye
-
+  Ho gaye rukhsat jo shabih-e-Rasul
+  Ab shah-e-bekas the bahut dil malul
+  Aai kahiṅ se ye sada-e-Batul
+  Main teri himmat pe fida ya Husain
 
   16
-
-  Madare qasim ka jigar dekhiye
-
-  Jazbaye emaan ka asr dekhiye
-
-  Bhej diya ran may pisar dekhiye
-
-  Jo hua pamaale jafa ya hussain
-
+  Asghar beshir pe jaaneṅ fida
+  Khainche hue tir barha Harmala
+  Qat-e-kalaam shah-e-waala hua
+  Su-e-falak aap ne dekha Husain
 
   17
-
-  Hazrate abbas bhi marne chale
-
-  Nehr par jarraar ke baazu kate
-
-  Thaam ke aap apni kamar reh gaye
-
-  Hogayi chup roke sakina hussain
-
-
-  18
-
-  Hogaye ruqsat ko shabihe rasool
-
-  Ab shahe bekas thay bahot dil maloool
-
-  Aayi kahin se ye sadaye batool
-
-  Mai teri himmat pe fida ya hussain
-
-
-  19
-
-  Mai teri himmat pe fida ya hussain
-
-  Asghar e baysheer pe jaane fida
-
-  Khainche huve teer badha hurmala
-
-
-  20
-
-  Khasta kalaame shehe waala hua
-
-  Suye falak aap ne dekha hussain
-
-  Dhal gaya din aur khareeb aayi shaam
-
-
-  21
-
-  Phir to akele thay imame anaam
-
-  Dediya sar khatm kiya apna kaam
-
-  Deene nabi khoob bachaya hussain'
+  Dhal gaya din aur qarib aai shaam
+  Phir to akele the imaam-e-anaam
+  De diya sar khatm kiya apna kaam
+  Din-e-Nabi khub bachaya Husain
 ---
 
 گونج رہی ہے یہ صدا یاحسینؑ

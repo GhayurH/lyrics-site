@@ -1,56 +1,79 @@
 ---
-title: "Khol Di Ay Beemar Gharan De Jhandre Kadi Band Kardi"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کھول دی اے بیمار گھراں دے جندرے کدی بند کردی"
+alternateTitle: "Khol Di Ay Beemar Gharan De Jhandre Kadi Band Kardi"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khol di ay beemar gharan de jhandre kadi band kardi
+  Enu chain na aave, din raat sataave
+  Yaad Ali Akbar di
+
+  1
+  Jadon takdi paak beemar kise deya veeran nu
+  Pit pit ke ujri Sain raway takdeeran nu
+  Naam veer da laike, haye, rahwan te baike
+  Raway haawa bhardi
+
+  2
+  Kadi paak Rasool de rozay baith ke rondi ai
+  Kadi veer Akbar diyan rahwan mal khalondi ai
+  Dil dub dub jaway, haye, mur mur ke ruwavay
+  Yaad Ali Akbar di
+
+  3
+  Sab bibiyan paundiyan vain pakar jad Sughra nu
+  Gal laake roway bain jandi hoyi Kubra nu
+  Main pahre deyan gi, haye, main ban ke rowangi
+  Nokar Asghar di
+
+  4
+  Sughra ne vidiya keeta veer nu ro ro ke
+  Gal Sain ne laya sab nu naire ho ho ke
+  Ine kaliya rehna, haye, dukh veer da sehna
+  Ais mardi mardi
+
+  5
+  Noha likhda likhda ro paya hoke par par ke
+  Le sadqa paak Batool da bacheya mar mar ke
+  Meri sun ke duhaai, haye, Mola ne bachayi
+  Zindagi Akhtar di
 ---
 
-Khol Di Ay Beemar Gharan De Jhandre Kadi Band Kardi
+کھول دی اے بیمار گھراں دے جندرے کدی بند کردی
+اینوں چین نہ آوے، دن رات ستاوے
+یاد علی اکبر دی
 
-Enu Chain Na Aave, Din Raat Sataave
+۱
+جدوں تکدی پاک بیمار کسے دیاں ویراں نوں
+پٹ پٹ کے اجڑی سائیں رووے تقدیراں نوں
+نام ویر دا لے کے، ہائے، راہواں تے بہہ کے
+رووے ہاوا بھردی
 
-Yaad Ali Akbar Di
+۲
+کدی پاک رسول دے روضے بیٹھ کے روندی اے
+کدی ویر اکبر دیاں راہواں مل کھلوندی اے
+دل ڈب ڈب جاوے، ہائے، مڑ مڑ کے رواوے
+یاد علی اکبر دی
 
-Jadon Takdi Paak Beemar Kise Deya Veeran Nu
+۳
+سب بیبیاں پاؤندیاں وین پکڑ جد صغرا نوں
+گل لا کے رووے بھین جاندی ہوئی کبرا نوں
+میں پہرے دیاں گی، ہائے، میں بن کے روواں گی
+نوکر اصغر دی
 
-Pit Pit Ke Ujri Sain Raway Takdeeran Nu
+۴
+صغرا نے ودیا کیتا ویر نوں رو رو کے
+گل سائیں نے لایا سب نوں نیڑے ہو ہو کے
+اینے کلّیاں رہنا، ہائے، دکھ ویر دا سہنا
+ایس مردی مردی
 
-Naam Veer Da Laike, Haye, Rahwan Te Baike
-
-Raway Haawa Bhardi
-
-Kadi Paak Rasool De Rozay Baith Ke Rondi Ai
-
-Kadi Veer Akbar Diyan Rahwan Mal Khalondi Ai
-
-Dil Dub Dub Jaway, Haye, Mur Mur Ke Ruwavay
-
-Yaad Ali Akbar Di
-
-Sab Bibiyan Paundiyan Vain Pakar Jad Sughra Nu
-
-Gal Laake Roway Bain Jandi Hoyi Kubra Nu
-
-Main Pahre Deyan Gi, Haye, Main Ban Ke Rowangi
-
-Nokar Asghar Di
-
-Sughra Ne Vidiya Keeta Veer Nu Ro Ro Ke
-
-Gal Sain Ne Laya Sab Nu Naire Ho Ho Ke
-
-Ine Kaliya Rehna, Haye, Dukh Veer Da Sehna
-
-Ais Mardi Mardi
-
-Noha Likhda Likhda Ro Paya Hoke Par Par Ke
-
-Le Sadqa Paak Batool Da Bacheya Mar Mar Ke
-
-Meri Sun Ke Duhaai, Haye, Mola Ne Bachayi
-
-Zindagi Akhtar Di
+۵
+نوحہ لکھدا لکھدا رو پیا ہوکے پڑھ پڑھ کے
+لے صدقہ پاک بتول دا بچیا مر مر کے
+میری سن کے دہائی، ہائے، مولا نے بچائی
+زندگی اختر دی

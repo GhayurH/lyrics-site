@@ -12,11 +12,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ka tha nauha baba mere baba
-  Maiṅ Zainab huṅ pehchaano zara
-  Aankheiṅ kholo zakhmi baba
-  Kiuṅ sunte nahiṅ beti ki sada
-  Aankheiṅ kholo zakhmi baba
+  Zainab ka tha nauha baabaa mere baabaa
+  Maiṅ Zainab huṅ pehchaano zaraa
+  Aankheiṅ kholo zakhmi baabaa
+  Kiuṅ sunte nahiṅ beti ki sadaa
+  Aankheiṅ kholo zakhmi baabaa
 
   1
   Hazrat ka musalla hai khaali
@@ -24,7 +24,7 @@ romanLyrics: |-
   Suraj ko jagaate the tum to
   Ab nind ye kaisi aayi hai
   Maiṅ kab se hilaati huṅ shaana
-  Aankheiṅ kholo zakhmi baba
+  Aankheiṅ kholo zakhmi baabaa
 
   2
   Qurbaan maiṅ us ki ghairat ke
@@ -32,15 +32,15 @@ romanLyrics: |-
   Dehliz pe hujre ki kab se
   Sar apna jhukaaye baitha hai
   Abbas pe jaari hai sakta
-  Aankheiṅ kholo zakhmi baba
+  Aankheiṅ kholo zakhmi baabaa
 
   3
   Logoṅ ke diloṅ meiṅ aaj talak
   Sab Badr o Uhud ke kina hai
-  Amma bhi nahiṅ ab tum bhi nahiṅ
+  Ammaṅ bhi nahiṅ ab tum bhi nahiṅ
   Phir kis ke sahaare jina hai
-  Yuṅ chhor ke mat jaao tanha
-  Aankheiṅ kholo zakhmi baba
+  Yuṅ chhor ke mat jaao tanhaa
+  Aankheiṅ kholo zakhmi baabaa
 
   4
   Ek baar utho in se puchho
@@ -48,23 +48,23 @@ romanLyrics: |-
   Bin aap ke jab maiṅ aauṅ gi
   Patthar to nahiṅ maareṅ ge mujhe
   In Kufiyoṅ se le lo waada
-  Aankheiṅ kholo zakhmi baba
+  Aankheiṅ kholo zakhmi baabaa
 
   5
   Shaanoṅ ko chum ke kehte the
   Berehm zamaana hai Zainab
   Khaamosh hue itna keh kar
   Darbaar meiṅ jaana hai Zainab
-  Tafsil bata do aur zara
-  Aankheiṅ kholo zakhmi baba
+  Tafsil bata do aur zaraa
+  Aankheiṅ kholo zakhmi baabaa
 
   6
-  Amma ki niyaabat karti huṅ
+  Ammaṅ ki niyaabat karti huṅ
   Maiṅ bhuli nahiṅ huṅ mansab ko
   Maalum hai ghairat daar ho tum
   Parde ka khayaal hai Zainab ko
-  Maujud hai mere sar pe rida
-  Aankheiṅ kholo zakhmi baba
+  Maujud hai mere sar pe ridaa
+  Aankheiṅ kholo zakhmi baabaa
 
   7
   Kya likhuṅ janaaze ka manzar
@@ -72,7 +72,7 @@ romanLyrics: |-
   Aankheiṅ to na kholi zer-e-kafan
   Aankhoṅ se nikalte the aansu
   Taabut pe jab beti ne kaha
-  Aankheiṅ kholo zakhmi baba
+  Aankheiṅ kholo zakhmi baabaa
 ---
 زینب کا تھا نوحہ بابا میرے بابا
 میں زینب ہوں پہچانو ذرا

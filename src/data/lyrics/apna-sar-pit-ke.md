@@ -52,7 +52,7 @@ romanLyrics: |-
   Raat ki sard hawa aur ye sehra Akbar
 
   10
-  Jab se ujri hai meri maaṅg sar-e-Karbobala
+  Jab se ujri hai meri maaṅg sar-e-Karb o Bala
   Yaad aata hai Muhammad ka Madina Akbar
 
   11

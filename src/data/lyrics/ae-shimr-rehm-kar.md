@@ -29,14 +29,14 @@ romanLyrics: |-
 
   2
   Shaayad yehi wajah hai jo katta nahiṅ gala
-  Daadi ne khud gale pe gala hai rakha hua
+  Daadi ne khud gale gala hai rakha hua
   Lipti hui hai Fatema baba Husain se
-  Paani maiṅ baba jaan ko pila luṅ to zabh kar
+  Paani meiṅ baba jaan ko pila luṅ to zabh kar
 
   3
   Godi meiṅ un ke sar ko utha luṅ to zabh kar
   Laashe utha utha ke haiṅ baba thake hue
-  Zaanu hata de baba ke sine se is ghari
+  Zaanuṅ hata de baba ke sine se is ghari
   Lene de chain se inheṅ saanseṅ ye aakhri
 
   4
@@ -46,9 +46,9 @@ romanLyrics: |-
   Ab bhi muaaf kar deṅge ae Shimr wo tujhe
 
   5
-  Daadi pakar ke kiuṅ tu tamaache lagaata hai
-  Zehra ki betiyoṅ ke diloṅ ko dukhaata hai
-  Kiuṅ maarta hai bhai ko behnoṅ ke saamne
+  Daadi pakar ke yuṅ to tamaanche lagaate haiṅ
+  Zehra ki betiyoṅ ke diloṅ ko dukhaate haiṅ
+  Kiuṅ maarta hai bhaai ko behnoṅ ke saamne
 
   6
   Sajjad us ke saamne katta raha gala

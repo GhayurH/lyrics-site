@@ -12,11 +12,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tere dar par mere Maula, nahiṅ hone waala
+  Tere dar par mire Maula, nahiṅ hone waala
   Sab luta kar bhi khasaara, nahiṅ hone waala
 
   1
-  Har jagah Shaah ke hamraah mileṅge Abbas
+  Har jagah Shaah ke hamraah mileṅ ge Abbas
   Munqata jism se saaya, nahiṅ hone waala
 
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
   Phir wo Isa se bhi zinda, nahiṅ hone waala
 
   4
-  Ab Khuda Karb o Bala meiṅ hi nazar aayega
+  Ab Khuda Karb o Bala mein hi nazar aaye ga
   Ab kabhi Tur pe jalwa, nahiṅ hone waala
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Aisa darya ke jo qatra, nahiṅ hone waala
 
   6
-  Jab talak maatam-e-Sheh meiṅ na uthega Musa
+  Jab talak maatam-e-Sheh mein na uthe ga Musa
   Haath tera yad-e-baiza, nahiṅ hone waala
 
   7

@@ -27,18 +27,18 @@ romanLyrics: |-
   Jis jaa sawaari ruk ke na aage rawaaṅ hui
   Hairaaṅ sipaah-e-qasr o kaun o makaaṅ hui
   Chhe ghore badle dosh-e-Nabi ke sawaar ne
-  Lekin qadam barhaaya na ek raahwaar ne
+  Lekin qadam barhaaya na ik raahwaar ne
 
   3
-  Jumbish na markaboṅ meiṅ na paayi Husain ne
-  Ek musht-e-khaak jhuk ke uthaayi Husain ne
+  Jumbish na markaboṅ mein na paayi Husain ne
+  Ik musht-e-khaak jhuk ke uthaayi Husain ne
   Khud suṅghi aur behan ko suṅghaayi Husain ne
   Hamshir ki suni ye duhaayi Husain ne
 
   4
   Haaye haaye ye khaak pheṅko meri jaan jaati hai
-  Bhaiya tumhaare khun ki bu is meiṅ aati hai
-  Baashindoṅ ko wahaaṅ ke ye Maula ne di nida
+  Bhaiya tumhaare khun ki bu is mein aati hai
+  Baashindoṅ ko wahaaṅ ke ye Maula ne di sada
   Naam is zamiṅ ke jitne ho lo tum juda juda
 
   5
@@ -51,11 +51,11 @@ romanLyrics: |-
   Abbas ko pukaare na aage alam barhaao
   Manzil yahi hai chhaaoni pardesiyoṅ ki chhaao
   Hamshakl-e-Mustafa ko nida di barhe na jaao
-  Beta qanaatheṅ ghero saraache yahiṅ lagaao
+  Beta qanaateṅ ghero saraache yahi lagaao
 
   7
   Ghurre ko to hua hai hamaara safar tamaam
-  Daswiṅ ko hoga Fatima Zehra ka ghar tamaam
+  Daswiṅ ko hoga Faatima Zehra ka ghar tamaam
   Masnad pe yaaṅ bitha ke behan ko Shah-e-Huda
   Kursi bichha ke baithe qarib-e-haram sara
 
@@ -66,57 +66,57 @@ romanLyrics: |-
   Nazroṅ pe haath rakh ke baghal gir ho gaye
 
   9
-  Bithla ke pehluoṅ meiṅ unheṅ ye kiya bayaaṅ
-  Ae Karbalaaiyoṅ maiṅ tumhaara huṅ mehmaaṅ
-  Zaalim mujhe sataate haiṅ jaata huṅ maiṅ jahaaṅ
+  Bithla ke pehluoṅ mein unheṅ ye kiya bayaaṅ
+  Ae Karbalaaiyoṅ main tumhaara huṅ mehmaaṅ
+  Zaalim mujhe sataate haiṅ jaata huṅ main jahaaṅ
   Becho jo ye zamin to chand din rahuṅ yahaaṅ
 
   10
   Rehne se yaaṅ hamaare sab aaraam paayeṅge
   Khaak-e-shifa tumhaari zamiṅ ko banaayeṅge
   Dinaar de ke saat hazaar un se ye kaha
-  Bakhshi tumheṅ zamin hiba maiṅ ne kar diya
+  Bakhshi tumheṅ zamin hiba main ne kar diya
 
   11
   Shabbir ke muaamle par sab ne ro diya
   Likhne laga qabaala zamindaar-e-Karbala
-  Ghul par gaya Husain watan ko na jaayeṅge
-  Lo mol li zamiṅ yahiṅ basti basaayeṅge
+  Ghul par gaya Husain watan ko na jaayega
+  Lo mol li zamiṅ yahi basti basaayeṅge
 
   12
   Marqum ho raha tha qabaala ke naagaah
   Khaime se ek zan-e-Arabiya hui ayaaṅ
-  Sar taa qadam libaas meiṅ saara badan nihaaṅ
+  Sar taa qadam libaas mein saara badan nihaaṅ
   Par is pe bhi haya se larazte the istikhwaaṅ
 
   13
-  Betaab ho ke ulfat-e-Akbar meiṅ aayi thi
+  Betaab ho ke ulfat-e-Akbar mein aayi thi
   Raawi ne ye likha hai wo Zehra ki jaayi thi
-  Le kar balaaeṅ bhai ke kuch kaan meiṅ kaha
+  Le kar balaaeṅ bhaai ke kuchh kaan mein kaha
   Aur jaldi yuṅ phiri ke na saaya nazar para
 
   14
-  Kursi se yaaṅ tarap ke gire Shah-e-Karbala
+  Kursi se yaaṅ tarap ke gire Shaah-e-Karbala
   Abbas ne uthaa ke kaha haaye kya hua
   Maula bata qasam tujhe shir-e-Batul ki
-  Kya kah gayi nawaasi Janaab-e-Rasul ki
+  Kya keh gayi nawaasi Janaab-e-Rasul ki
 
   15
   Shah bole aah mujh se ye Zainab ka tha kalaam
-  Bhaiya qabaala meiṅ Ali Akbar ka hue naam
-  Yaani ke us ki milk meiṅ ho ye zamiṅ tamaam
-  Abbas jaao kah do ke majbur hai Imam
+  Bhaiya qabaala mein Ali Akbar ka hue naam
+  Yaani ke us ki milk mein ho ye zamiṅ tamaam
+  Abbas jaao keh do ke majbur hai Imam
 
   16
-  Athaara saal ke ye zamaane se jaayeṅge
-  Ek qabr ki jagah Ali Akbar bhi paayeṅge
-  Abbas khaime meiṅ gaye dene ko ye payaam
+  Athaara saal ke ye zamaan se jaayeṅge
+  Ik qabr ki jagah Ali Akbar bhi paayeṅge
+  Abbas khaime mein gaye dene ko ye payaam
   Zainab ne dekhte hi unheṅ ye kiya kalaam
 
   17
-  Kiuṅ bhai meri baat pe raazi hue anaam
-  Likha gaya qabaale meiṅ Akbar ka mere naam
-  Dulha banaauṅ gi maiṅ dulhan byaah laauṅ gi
+  Kiuṅ bhaai meri baat pe raazi hue anaam
+  Likha gaya qabaale mein Akbar ka mere naam
+  Dulha banaauṅ gi main dulhan byaah laauṅ gi
   Akbar ke naam ki yahaaṅ basti basaauṅ gi
 ---
 اے مومنوں حسین سے مقتل قریب ہے

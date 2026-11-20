@@ -12,40 +12,40 @@ tags: []
 aliases: ["Ay Alamdare Haram"]
 published: true
 romanLyrics: |-
-  Ae alamdar-e-haram
+  Ae alamdaar-e-haram
 
-  Saaqi-e-tishna labaaṅ ae alamdar-e-haram
-  Haidari sher-e-jawaaṅ ae alamdar-e-haram
+  Saaqi-e-tishna labaaṅ ae alamdaar-e-haram
+  Haidari sher-e-jawaaṅ ae alamdaar-e-haram
   Marhaba sher-e-jawaaṅ ae jawaaṅ ae jawaaṅ ae jawaaṅ
-  Ae alamdar-e-haram
+  Ae alamdaar-e-haram
 
   1
-  Ae shahanshah-e-wafa saani-e-Haidar Maula
+  Ae shahanshaah-e-wafa saani-e-Haidar Maula
   Ae Sakina ke chacha Fatima Zehra ki dua
-  Fauj-e-Shabbir ke saalaar alamdar-e-wafa
-  Bani Haashim ke qamar naaz-e-Shah-e-Karbobala
-  Maula qurbaan dil o jaaṅ ae alamdar-e-haram
+  Fauj-e-Shabbir ke saalaar alamdaar-e-wafa
+  Bani Haashim ke qamar naaz-e-Shaah-e-Karbobala
+  Maula qurbaan dil o jaaṅ ae alamdaar-e-haram
 
   2
   Haaye wo shaam-e-gharibaaṅ wo qayaamat ka samaaṅ
   Haaye saadaat ke jalte hue khaimoṅ ka dhuaaṅ
   Bibiyaaṅ karti thi ro ro ke yehi aah o fughaaṅ
   Aao Abbas ridaaoṅ ke muhaafiz ho kahaaṅ
-  Ho kahaaṅ sher-e-jawaaṅ ae alamdar-e-haram
+  Ho kahaaṅ sher-e-jawaaṅ ae alamdaar-e-haram
 
   3
-  Kab na Bibi ko alamdar chacha yaad aaya
+  Kab na Bibi ko alamdaar chacha yaad aaya
   Aaya jab Shaam ka baazaar chacha yaad aaya
   Na mila saaya-e-diwaar chacha yaad aaya
   Jab tamaanche lage har baar chacha yaad aaya
-  Thi Sakina ki fughaaṅ ae alamdar-e-haram
+  Thi Sakina ki fughaaṅ ae alamdaar-e-haram
 
   4
   Hum azaadaaroṅ ki taqdir jaga do Maula
   Karbala ka hameṅ zawwaar bana do Maula
   Apni jaagir ka didaar kara do Maula
   Rauza-e-Hazrat-e-Shabbir dikha do Maula
-  Hai yehi wird-e-zabaaṅ ae alamdar-e-haram
+  Hai yehi wird-e-zabaaṅ ae alamdaar-e-haram
 ---
 اے علمدار حرم
 

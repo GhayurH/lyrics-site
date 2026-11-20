@@ -1,58 +1,105 @@
 ---
-title: "Maula Mera Ve Ghar Nadeem Sarwar Lyrics 2015"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "مولا میرا وی گھر"
+alternateTitle: "Maula Mera Ve Ghar"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Khursheed"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Rahe dil mein salamat yeh gham tera
+  Na gham ho koi iss gham ke siwa
+  Manzoor karo sheh-e-Karb-o-Bala
+  Har momin ke yeh dil ki dua
+
+  1
+  Maula mera v ghar howay
+  Uttay almaan di chaan howay
+  Zikar Zahra de lalaan da
+  Mere ghar v biyaan howay
+  Charhey jad chan Muharram da
+  Saf-e-matam bichawaan main
+  Ghar che zakir bulawaan main
+  Teri majlis karawaan main
+  Zuljinah ghar choon jad nikley
+  Jag giriya kuna howay
+  Dukhi Zainab jo na kita
+  Tera matam karawaan main
+  Teri phori bichawaan main
+  Othay langar pakawaan main
+  Azadari layi Maula
+  Koi aisi v thaan howay
+  Azza khana mere ghar banay
+  Jithay masoom aawan gaye
+  Pair pawan gaye jad wehray
+  Paag mere jagawan gaye
+  Panjaan baraan te chodaan di
+  Othay sift-o-sana howay
+  Maula mainu miley jaye ghar
+  Jhola Asghar sajawaan main
+  Aap lawaan sabelaan main
+  Sab nu pani pyawaan main
+  Jithay mashk-e-Sakina howay
+  Ghazi da nishaan howay
+  Mere ghar choon baraamad howay
+  Jadon taboot beemar da
+  Yaad kar Maula Sajjad nu
+  Roway dil har azadar da
+  Sadqa beemar Sajjad da
+  Moaf har ik gunah howay
+  Mainu miliya jo hai gham tera
+  Nasal dar nasal milda raway
+  Panjtan di muhabbat da
+  Phul Khursheed aye khilda raway
+  Razi Sarwar te mehshar de din
+  Dukhi Zainab di maa howay
 ---
 
-1
-Maula Mera Ve Ghar Nadeem Sarwar Lyrics
-Rahe Dil Mein Salamat Yeh Gham Tera.
-Na Gham Ho Koi Iss Gham Ke Siwa.
-Manzoor Karo Sheh-e-Karb-o-Bala.
-Har Momin Ke Yeh Dil Ki Dua.
-Maula Mera V Ghar Howay.
-Uttay Almaan Di Chaan Howay.
-Zikar Zahra De Lalaan Da.
-Mere Ghar V Biyaan Howay.
-Charhey Jad Chan Muharram Da.
-Saf-e-Matam Bichawaan Main.
-Ghar Che Zakir Bulawaan Main.
-Teri Majlis Karawaan Main.
-Zuljinah Ghar Choon Jad Nikley.
-Jag Giriya Kuna Howay.
-Dukhi Zainab Jo Na Kita.
-Tera Matam Karawaan Main.
-Teri Phori Bichawaan Main.
-Othay Langar Pakawaan Main.
-Azadari Layi Maula.
-Koi Aisi V Thaan Howay.
-Azza Khana Mere Ghar Banay.
-Jithay Masoom Aawan Gaye.
-Pair Pawan Gaye Jad Wehray.
-Paag Mere Jagawan Gaye.
-Panjaan Baraan Te Chodaan Di.
-Othay Sift-o-Sana Howay.
-Maula Mainu Miley Jaye Ghar.
-Jhola Asghar Sajawaan Main.
-Aap Lawaan Sabelaan Main.
-Sab Nu Pani Pyawaan Main.
-Jithay Mashk-e-Sakina Howay.
-Ghazi Da Nishaan Howay.
-Mere Ghar Choon Baraamad Howay.
-Jadon Taboot Beemar Da.
-Yaad Kar Maula Sajjad Nu.
-Roway Dil Har Azadar Da.
-Sadqa Beemar Sajjad Da.
-Moaf Har Ik Gunah Howay.
-Mainu Miliya Jo Hai Gham Tera.
-Nasal Dar Nasal Milda Raway.
-Panjtan Di Muhabbat Da.
-Phul Khursheed Aye Khilda Raway.
-Razi Sarwar Te Mehshar De Din.
-Dukhi Zainab Di Maa Howay.
+رہے دل میں سلامت یہ غم تیرا
+نہ غم ہو کوئی اس غم کے سوا
+منظور کرو شہِ کرب و بلا
+ہر مومن کے یہ دل کی دعا
+
+۱
+مولا میرا وی گھر ہووے
+اُتّے علماں دی چھاں ہووے
+ذکر زہرا دے لالاں دا
+میرے گھر وی بیاں ہووے
+چڑھے جد چن محرم دا
+صفِ ماتم بچھاواں میں
+گھر چے ذاکر بلاواں میں
+تیری مجلس کراواں میں
+ذوالجناح گھر چوں جد نکلے
+جگ گریہ کناں ہووے
+دکھی زینب جو نہ کیتا
+تیرا ماتم کراواں میں
+تیری پھوڑی بچھاواں میں
+اوتھے لنگر پکاواں میں
+عزاداری لئی مولا
+کوئی ایسی وی تھاں ہووے
+عزا خانہ میرے گھر بنے
+جتھے معصوم آون گے
+پیر پاون گے جد ویہڑے
+بھاگ میرے جگاون گے
+پنجاں باراں تے چوداں دی
+اوتھے صفت و ثنا ہووے
+مولا مینوں ملے جائے گھر
+جھولا اصغر سجاواں میں
+آپ لاواں سبیلاں میں
+سبھ نوں پانی پیاواں میں
+جتھے مشکِ سکینہ ہووے
+غازی دا نشان ہووے
+میرے گھر چوں برآمد ہووے
+جدوں تابوت بیمار دا
+یاد کر مولا سجاد نوں
+رووے دل ہر عزادار دا
+صدقہ بیمار سجاد دا
+معاف ہر اک گناہ ہووے
+مینوں ملیا جو ہے غم تیرا
+نسل در نسل ملدا روے
+پنجتن دی محبت دا
+پھل خورشید اے کھلدا روے
+راضی سرور تے محشر دے دن
+دکھی زینب دی ماں ہووے

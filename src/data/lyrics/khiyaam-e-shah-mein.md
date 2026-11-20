@@ -44,7 +44,7 @@ romanLyrics: |-
 
   7
   Jawaaṅ bete ke laashe ko uthaana
-  Husain ibn-e-Ali ka maujiza hai
+  Husain ibn-e-Ali ka mujiza hai
 
   8
   Farid is gham ki azmat kya bayaaṅ ho

@@ -11,40 +11,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mangdi Shimar toṅ Zainab rida ae
+  Mangdi Shimar toṅ Zainab ridaaeṅ
   Ainj dhi Ali di hoi gharib ae
-  Rehya kaun baqi kis nu bulaaye
+  Rehya kaun baaqi kis nuṅ bulaaye
   Ainj dhi Ali di hoi gharib ae
 
   1
-  Jis bhain de veer hovan athara
+  Jis bhain de vir hovan athaara
   Rul gayi ae kiuṅ oh wich bazaaraṅ
-  Bachiya na koi Abid siwa ae
+  Bachiya na koi Aabid siwa ae
 
   2
   Pamaal takiya babe da sina
-  Bhul zakhm apne gayi hai Sakina
+  Bhul zakhm apne gayi ae Sakina
   Puchhdi Najaf da Zainab toṅ raah ae
 
   3
-  Maqtal jo aayi ohde waal khul gaye
-  Darbaar aaya ohnu veer bhul gaye
+  Maqtal choṅ aayi ohde waal khul gaye
+  Darbaar aaya ohnuṅ vir bhul gaye
   Kardi maran di Zainab dua ae
 
   4
   Kujh der babe de sine te sam gayi
   Mittiyaṅ te rul gayi jadoṅ raat dham gayi
-  Zainab Sakina nu gal naal la ae
+  Zainab Sakina nuṅ gal naal la ae
 
   5
-  Pehli waar Zainab jad Kufe aayi
-  Veeraṅ da saaya babe di shahi
+  Pehli waar Zainab jadoṅ Kufe aayi
+  Viraṅ da saaya babe di shaahi
   Duji waar Kufe aayi rasiyaṅ paa ae
 
   6
   Dunya toṅ wakhri ae Zainab hai ujri
   Jinde bhraavaaṅ di hove wasdi nagri
-  Nayi bhain kithe madfan di ja ae
+  Naiṅ bhain kite madfan di ja ae
 
   7
   Neze toṅ la ke sar jholi paandi
@@ -52,13 +52,13 @@ romanLyrics: |-
   Masruf hath hin lut gayi rida ae
 
   8
-  Amari de vaangoṅ zulfaṅ nu dhondi
+  Amaari de vaangoṅ zulfaṅ nuṅ dhondi
   Chum zakhm gal de ae raj ke rondi
   Ho gayi bhra toṅ Zainab juda ae
 
   9
   Tanvir Zainab Baqiye ja ke
-  Haalaat safraaṅ de maaṅ nu suna ke
+  Haalaat safraaṅ de maaṅ nuṅ suna ke
   Sab daagh zakhmaaṅ de Bibi wakha ae
 ---
 

@@ -24,9 +24,9 @@ romanLyrics: |-
   Dilbar-e-Shah-e-Huda gesuoṅ waale
   Do ghari ruk jaa zara maaṅ ke dulaare
   Aankhoṅ meiṅ chhaane lage gham ke andhere
-  Ab na raheiṅ ge mere ghar ke ujaale
-  Maaṅ teri qurbaaṅ Ali Akbaram
+  Ab na raheṅ ge mere ghar ke ujaale
   Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   2
   Ae mere lakht-e-jigar aise na jaao
@@ -34,7 +34,7 @@ romanLyrics: |-
   Naazoṅ se jis ne tujhe paala hai beta
   Jaane se pehle zara usko manaao
   Mujh pe ho ehsaan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   3
   Bhul na paauṅ gi maiṅ teri jawaani
@@ -42,23 +42,23 @@ romanLyrics: |-
   Chaand si surat teri aur tera lehja
   Saath rakhuṅ gi sada teri nishaani
   Mere dil o jaan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   4
-  Ae mere karyal jawaaṅ shakl-e-Payambar
-  Aa tujhe dekhegi maaṅ paas bitha kar
+  Ae mere kariyal jawaaṅ shakl-e-Payambar
+  Aa tujhe dekhegi maaṅ paas bithaa kar
   Zulfeiṅ sawaaruṅ tera sadqa utaaruṅ
   Aankhoṅ meiṅ apni basaauṅ gi ye manzar
   Ae mere mehmaan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   5
   Teri judaai ka gham sehti hai Sughra
   Kehta hai dil ghamzada rehti hai Sughra
-  Tera tha waada use jaaega lene
+  Tera tha waada use jaae ga lene
   Lagta hai ro kar sada deti hai Sughra
   Maiṅ huṅ pareshaan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   6
   Sadme uthaauṅ gi maiṅ mujhko khabar hai
@@ -66,7 +66,7 @@ romanLyrics: |-
   Tere jigar meiṅ sinaaṅ dekhegi maadar
   Zakhm ye khaauṅ gi maiṅ mujhko khabar hai
   Roti huṅ har aan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   7
   Boli Sakina ke phir mil na sakuṅ gi
@@ -74,7 +74,7 @@ romanLyrics: |-
   Nanhe se haathoṅ ko phir jor ke boli
   Jaate ho kiuṅ chhor kar ae mere bhaai
   Hoti huṅ bejaan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 
   8
   Bain ye karti thi maaṅ Safdar o Yawar
@@ -82,7 +82,7 @@ romanLyrics: |-
   Zainab-e-dilgir bhi ghash meiṅ pari hai
   Kehte the dil thaam ke Sibt-e-Payambar
   Rab hai nigehbaan Ali Akbaram
-  Maah-e-taabaaṅ Ali Akbaram
+  Maaṅ teri qurbaaṅ Ali Akbaram
 ---
 
 شبیہ پیمبر اکبر

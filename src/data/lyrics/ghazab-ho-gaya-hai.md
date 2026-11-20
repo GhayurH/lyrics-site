@@ -12,15 +12,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Suno rozadaaroṅ Ali Murtaza ke
-  Chali tegh sar par ghazab ho gaya hai
+  Suno roza daaroṅ Ali Murtaza ke
+  Chale tegh sar par ghazab ho gaya hai
 
   Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 
   1
-  Zamaane meiṅ gham ki ghata chhaa rahi hai
-  Baqayya se dekho sada aa rahi hai
+  Zamaane meiṅ gham ki ghataa chhaa rahi hai
+  Baqayya se dekho sadaa aa rahi hai
   Bata Ibn-e-Muljim sitam Murtaza par
   Ye dhaaya hai kiuṅ kar ghazab ho gaya hai
   Hai gham ka ye manzar kaho khaak ura kar
@@ -52,9 +52,9 @@ romanLyrics: |-
 
   5
   Janaaza Ali ka utha haaye haaye
-  Hai ahl-e-aza meiṅ buka haaye haaye
-  Bapa shor-e-maatam falak par hai Baqar
-  Jo kehta hai Safdar ghazab ho gaya hai
+  Hai ahl-e-azaa meiṅ bukaa haaye haaye
+  Bapaa shor-e-maatam falak par hai Baqar
+  Jo kehte haiṅ Safdar ghazab ho gaya hai
   Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 ---

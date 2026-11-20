@@ -19,11 +19,11 @@ romanLyrics: |-
   Zaif ho ke jawaani ko saath laaye haiṅ
 
   2
-  Ye sin ye saal ye azm-e-wafa mubaarak ho
+  Ye sinn ye saal ye azm-e-wafa mubaarak ho
   Gale lagaane tumheṅ khud Imam aaye haiṅ
 
   3
-  Lab-e-Husain ki jumbish meiṅ hai nigaah sab kuchh
+  Lab-e-Husain ki jumbish mein hai nigaah sab kuchh
   Payaam sun ke shahaadat ka muskuraaye haiṅ
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Qasam hai un ke kaleje pe tir khaaye haiṅ
 
   6
-  Wo ho Rasul Nabi ya payambaraan-e-salaf
+  Wo ho Rasul Nabi ya paighambaraan-e-salaf
   Husain ki tarah ashaab kis ne paaye haiṅ
 
   7

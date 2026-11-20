@@ -1,6 +1,6 @@
 ---
 title: "ابجد اور اعداد برابر نکلے ہیں"
-alternateTitle: "Abjad Our Aadad Barabar Nikle Hain"
+alternateTitle: "Abjad Aur Aadaad Barabar Nikle Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abjad our aadad barabar nikle hain Hasnain Akbar
-  Behtar ke maiyar bahatar nikley hain
-  Ran mein zindah sirf bahatar nikley hain
-  Baqi ke nu lakh tu pathar nikley hain
+  Abjad aur aadaad barabar nikle hain Hasnain Akbar
+  Behtar ke miyaar bahattar nikle hain
+  Ran mein zindah sirf bahattar nikle hain
+  Baaqi ke nau laakh to pathar nikle hain
 
   2
-  Jitnay bhi tareekh mein lashkar nikley hain
-  Jurat mein be sheer se kamtar nikley hain
-  Pas manzar se lakhon manzar nikley hain
-  Ik chulo se saat samandar nikley hain
+  Jitne bhi taarikh mein lashkar nikle hain
+  Juraat mein be shir se kamtar nikle hain
+  Pas-e-manzar se laakhoṅ manzar nikle hain
+  Ik chullu se saat samandar nikle hain
 
   3
-  Jitnay hain Quran mein naam malaik ke
-  Sab Zahra ke nokar chakar nikley hain
-  Mere sath Najaf jo sail pohanchay they
-  Unn mein se do chaar payamber nikley hain
+  Jitne hain Quraan mein naam malaaik ke
+  Sab Zahra ke naukar chaakar nikle hain
+  Mere saath Najaf jo saail pahunche the
+  Un mein se do chaar payambar nikle hain
 
   4
-  Pal mein kaisay zoaf badan ka theek howa
-  Kis ki chadar orh payamber nikley hain
-  Dast-e-Nabi pe pora kalma paish kiya
-  Sheikh se achay tu woh kankar nikley hain
+  Pal mein kaise zoaf badan ka thik hua
+  Kis ki chaadar orh payambar nikle hain
+  Dast-e-Nabi pe pura kalma pesh kiya
+  Shaikh se achchhe to woh kankar nikle hain
 
   5
-  Ishq-e-Ali ke loag kahin bhi dafan hoye
-  Jagay tu Kabay ke andar nikley hain
-  Ya Rab kaisay hath milaney Mehdi se
-  Tere ghar se Malik-e-Ashtar nikley hain
+  Ishq-e-Ali ke log kahiṅ bhi dafn hue
+  Jaage to Kaabe ke andar nikle hain
+  Ya Rab kaise haath milaane Mehdi se
+  Tere ghar se Maalik-e-Ashtar nikle hain
 
   6
-  Hajj karne aaye they khaliq ke ghar mein
-  Ghar se Ali ka kalma parh kar nikley hain
-  Aye Jibreel amanat apni le jao
-  Khaybar ki mati se kuch par nikley hain
+  Hajj karne aae the Khaaliq ke ghar mein
+  Ghar se Ali ka kalma parh kar nikle hain
+  Ae Jibril amaanat apni le jaao
+  Khaibar ki mitti se kuch par nikle hain
 
   7
-  Ahl-e-azza se munh ko chupaney walo kya
-  Hum hathoon mein sheesha le kar nikley hain
-  Apne gharon mein loag rahein hum ahl-e-azza
-  Matam karne ghar se bahir nikley hain
+  Ahl-e-aza se muṅh ko chhupaane waalo kya
+  Hum haathoṅ mein shisha le kar nikle hain
+  Apne gharoṅ mein log raheṅ hum ahl-e-aza
+  Maatam karne ghar se baahar nikle hain
 
   8
-  Woh kirdar ki batein karna kya janein
-  Jo firqay talwar ke dam par nikley hain
-  Ik be sheer ki aamad pe nu lakh ka haal
-  Jaisay ran mein chodah Haider nikley hain
+  Woh kirdaar ki baateṅ karna kya jaaneṅ
+  Jo firqe talwaar ke dam par nikle hain
+  Ik be shir ki aamad pe nau laakh ka haal
+  Jaise ran mein chaudah Haider nikle hain
 
   9
-  Shukar ke zail mein aaye hain ran mein Akbar
-  Sabar ke baab mein hanstay Asghar nikley hain
+  Shukar ke zail mein aae hain ran mein Akbar
+  Sabr ke baab mein haṅste Asghar nikle hain
   Manfi baat bhi musbat hoti hai Akbar
-  Aaj naye jo Fitrus ke par nikley hain
+  Aaj naye jo Fitrus ke par nikle hain
 ---
 
 ۱

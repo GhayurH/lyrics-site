@@ -17,7 +17,7 @@ romanLyrics: |-
   Baba Baba zindaan ka dar khulwa do
 
   1
-  Jine nahiṅ dega mujhe zindaaṅ ka andhera
+  Jine nahiṅ de ga mujhe zindaaṅ ka andhera
   Le jaaiye jald aa ke yahaṅ se mujhe warna
   Ghut ghut ke maiṅ zindaaṅ meiṅ mar jaauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Na paas phuphi hoṅ gi mere aap na bhaiya
-  Kehte haiṅ adu qaid kareṅge mujhe tanha
+  Kehte haiṅ adu qaid kareṅ ge mujhe tanha
   Tanhaai meiṅ maiṅ aur bhi ghabraauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 

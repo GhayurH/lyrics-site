@@ -10,45 +10,45 @@ tags: []
 aliases: ["Baba Ko Bacha Le Mere Baba Ko Bacha Le"]
 published: false
 romanLyrics: |-
-  Baba ko bachale mere baba ko bachale
-  Ashur ki shab kehti thi ro ro ke sakina
-  Tu maalik o mukhtar hai sunle mere naale
-  Ae paalne wale mere baba ko bachale
+  Baba ko bacha le mere baba ko bacha le
+  Aashur ki shab kehti thi ro ro ke Sakina
+  Tuṅ maalik o mukhtaar hai sun le mere naale
+  Ae paalne wale mere baba ko bacha le
 
   1
-  Baba ke bina nind nahi aayegi pal bhar
-  Ho jaungi muztar
-  Ae khaaliqe akbar mujhe dunya se uthaale
+  Baba ke bina nind nahiṅ aaye gi pal bhar
+  Ho jaauṅ gi muztar
+  Ae khaaliq-e-akbar mujhe duniya se utha le
 
   2
-  Kal suboh ko tootegi musibat pe musibat
-  Aayegi qayamat
-  Haathoṅ may adu ke hai chamakte hue bhaale
+  Kal subah o ko tute gi musibat pe musibat
+  Aaye gi qayaamat
+  Haathoṅ mein adu ke haiṅ chamakte hue bhaale
 
   3
-  Ek sar ke liye aaye hai laakhoṅ sitam [ejaad]
-  Ho jayegi bedaad
-  Sehme hue hai aaj ki shab naazoṅ ke paale
+  Ik sar ke liye aaye haiṅ laakhoṅ sitam [ijaad]
+  Ho jaaye gi bedaad
+  Sahme hue haiṅ aaj ki shab naazoṅ ke paale
 
   4
-  Har qaimay may jaati hai tarap kar phupi amma
-  Hai sakht pareshaṅ
-  Kal khaak may mil jaayenge aaghosh ke paale
+  Har khaime mein jaati hai tarap kar phuphi ammaaṅ
+  Hai sakht pareshaaṅ
+  Kal khaak mein mil jaayeṅ ge aaghosh ke paale
 
   5
-  Qaimo may udaasi hai dharakta hai mera dil
+  Khaimoṅ mein udaasi hai dharakta hai mera dil
   Hai zindagi mushkil
-  Kal hoṅge juda mujhse mere chaahne wale
+  Kal hoṅ ge juda mujh se mere chaahne wale
 
   6
-  Mar jayenge kal mere chacha aur bhaiya
-  Koi na bachega
-  Is gham ke talatum may mujhe kaun sambhale
+  Mar jaayeṅ kal mere chacha aur bhaiyya
+  Koi na bache ga
+  Is gham ke talaatum mein mujhe kaun sambhaale
 
   7
-  Sad haif ye kehti thi kalim dukhtare shabbir
-  Bhai mera baysheer
-  Ho jayega kal tir-e-sitamgar ke hawale
+  Sad haif ye kehti thi Kalim dukhtar-e-Shabbir
+  Bhaai mera beshir
+  Ho jaaye ga kal tir-e-sitamgar ke hawaale
 ---
 
 بابا کو بچا لے میرے بابا کو بچا لے

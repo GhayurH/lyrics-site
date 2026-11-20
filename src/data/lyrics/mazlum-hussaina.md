@@ -1,6 +1,6 @@
 ---
 title: "مظلوم حسینا مغموم حسینا"
-alternateTitle: "Mazlum Hussaina"
+alternateTitle: "Mazlum Husaina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,89 +10,89 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mazlum hussaina maghmum hussaina
+  Mazlum Husaina maghmum Husaina
 
   1
-  Lachaar hussaina beyaar hussaina
-  Ae bekasoṅ ke khaafila salaar hussaina
-  Wo khanjar e bepeer kuja haye muqaddar
-  Aur bosagahe ahmed e mukhtar hussaina
-  Balkhaye na kiuṅ dil mera jab noke sina par
-  Bandh jaye tere gaysu e khamdaar hussaina
-  Adam safiuallah se ta isie dauraṅ
-  Aisi na luti thi koi sarkar hussaina
-  Mazlum hussaina mazlum hussaina
-  Maghmum hussaina maghmum hussaina
-  Hai aale nabi besar o samaan hussaina
-  Ghar fatema ka hogaya veeran hussaina
+  Lachaar Husaina beyaar Husaina
+  Ae bekasoṅ ki qaafila salaar Husaina
+  Wo khanjar-e-bepir kuja haye muqaddar
+  Aur bosagaah-e-Ahmad-e-Mukhtaar Husaina
+  Balkhaye na kiuṅ dil mera jab nok-e-sinaaṅ par
+  Bandh jaye tere gesu-e-kaamdaar Husaina
+  Aadam Safiullah se taa aisi dauraaṅ
+  Aisi na luti thi koi sarkaar Husaina
+  Mazlum Husaina mazlum Husaina
+  Maghmum Husaina maghmum Husaina
+  Hai aal-e-Nabi be sar o saamaan Husaina
+  Ghar Fatema ka ho gaya viraan Husaina
 
   2
-  Zainab ki hai faryad nahi koi madadgaar
-  Sajjad hai bemaar
-  Dhaate hai sitam hum pe musalman hussaina
+  Zainab ki hai faryaad nahiṅ koi madadgaar
+  Sajjad hai bimaar
+  Dhaate haiṅ sitam ham pe musalmaan Husaina
 
   3
-  Ghar fatema ka hogaya...
-  Kaisi ye khiza aayi ke hum hogaye barbaad
-  Zainab ki hai faryad
-  Ujra hai payambar ka gulistan hussaina
+  Ghar Fatema ka ho gaya...
+  Kaisi ye khizaaṅ aayi ke ham ho gaye barbaad
+  Zainab ki hai faryaad
+  Ujra hai payambar ka gulistaan Husaina
 
   4
-  Ghar fatema ka hogaya...
-  Ashur ke din lut gayi zehra ki kameini
-  Ya rab hai duhaai
-  Islam pe ghar hogaya qurban hussaina
+  Ghar Fatema ka ho gaya...
+  Aashur ke din lut gayi Zehra ki kamaai
+  Ya Rab hai duhaai
+  Islaam pe ghar ho gaya qurbaan Husaina
 
   5
-  Ghar fatema ka hogaya...
-  Zianab pe hai tanhaai wo ab kisko bachaye
-  Kya hogaya haye
-  Hai ahle haram ran meiṅ pareshan hussaina
+  Ghar Fatema ka ho gaya...
+  Zainab pe hai tanhaai wo ab kis ko bachaye
+  Kya ho gaya haye
+  Hai ahl-e-haram ran mein pareshaan Husaina
 
   6
-  Ghar fatema ka hogaya...
+  Ghar Fatema ka ho gaya...
   Afsos jawaaṅ laal ko dulha na banaya
   Sehra na sajaya
-  Pura na hua maa ka ye armaan hussaina
+  Pura na hua maaṅ ka ye armaan Husaina
 
   7
-  Ghar fatema ka hogaya...
-  Aulaad e nabi lut gayi barbaad hua ghar
+  Ghar Fatema ka ho gaya...
+  Aulaad-e-Nabi lut gayi barbaad hua ghar
   Zainab hai khule sar
-  E tashna dahan kaari e quran hussaina
+  Ae tashna dahan qaari-e-Quraan Husaina
 
   8
-  Ghar fatema ka hogaya...
-  Ghar kar diya qurban magar diṅ bachaya
+  Ghar Fatema ka ho gaya...
+  Ghar kar diya qurbaan magar diṅ bachaaya
   Har ranj uthaya
-  Hai din e khuda par tera ehsaan hussaina
+  Hai din-e-Khuda par tera ahsaan Husaina
 
   9
-  Ghar fatema ka hogaya...
-  Sarkar e jina dosh e nabi ka wo makiṅ hai
+  Ghar Fatema ka ho gaya...
+  Sarkaar-e-jinaaṅ dosh-e-Nabi ka wo makiṅ hai
   Nabiyoṅ ka yakiṅ hai
-  Ummat ne bhulayi hai teri shaan hussaina
+  Ummat ne bhulayi hai teri shaan Husaina
 
   10
-  Ghar fatema ka hogaya...
-  Sar tan se juda hogaya aur baad e shahadat
+  Ghar Fatema ka ho gaya...
+  Sar tan se juda ho gaya aur baad-e-shahaadat
   Hai teri ye azmat
-  Parta raha naize pe tu quran hussaina
+  Parhta raha naize pe tu Quraan Husaina
 
   11
-  Ghar fatema ka hogaya...
-  Zainab ko abhi shaam ke bazaar hai jaana
+  Ghar Fatema ka ho gaya...
+  Zainab ko bhi Shaam ke bazaar hai jaana
   Aur ashk bahaana
-  Manzil hai meri shaam ka zindan hussaina
+  Manzil hai meri Shaam ka zindaan Husaina
 
   12
-  Ghar fatema ka hogaya...
-  Yazdaṅ ke laboṅ par hai muhib ab yehi nauha
-  Maghmum hai zehra
-  Hai bain ye dukhiya ka meri jaan hussaina
+  Ghar Fatema ka ho gaya...
+  Yazdaaṅ ke laboṅ par hai Muhib ab yehi nauha
+  Maghmum hai Zehra
+  Hai bain ye dukhiya ka meri jaana Husaina
 
   13
-  Ghar fatema ka hogaya...
+  Ghar Fatema ka ho gaya...
 ---
 
 مظلوم حسینا مغموم حسینا

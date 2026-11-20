@@ -3,45 +3,80 @@ title: "ہے میری دشت نوردی برائے عشقِ علی"
 alternateTitle: "Hai Meri Dasht Nawardi Bara-e-Ishq-e-Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hai meri dasht nawardi bara-e-ishq-e-Ali
+  Ho mujh ko Hazret e Bozarr atta e ishq Ali
+
+  1
+  Bina e alam e imkaan faqat sada e kun
+  Sada e kun ki bina hai sada e ishq Ali
+
+  2
+  Baghair hub e Ali kab faqeer banta hai
+  Sada se fuqr raha hai gada e ishq Ali
+
+  3
+  Awais chal diye Khaliq ki barghah main yon
+  Othaye ishq e Nabi or othaye ishq e Ali
+
+  4
+  Baghair e ishq Ali lutf e zindagi kiya hai
+  Ye zindagi tu mili hai bara e ishq Ali
+
+  5
+  Kahin pe aatish e Namrood sard ho jaye
+  Kahin pe khak ko kundan banaye ishq e Ali
+
+  6
+  Samaatoon k ofaq per bala ka jashan howa
+  Zubaan bureeda ne jab ki sana e ishq Ali
+
+  7
+  Ye Karbala ye Madina ye Shaam ye Kofa
+  Kahan kahan pe ragg e deen bachaye ishq e Ali
+
+  8
+  Khuda ko jhom k main ne bhi keh diya Kashif
+  Nahi hai koi tamana siwa e ishq e Ali
 ---
 
-Hai Meri Dasht Nawardi Bara-e-Ishq-e-Ali
-Ho Mujh Ko Hazret E Bozarr Atta E Ishq Ali
+ہے میری دشت نوردی برائے عشقِ علی
+ہو مجھ کو حضرتِ بوذر عطائے عشقِ علی
 
-1
-Bina E Alam E Imkaan Faqat Sada E Kun
-Sada E Kun Ki Bina Hai Sada E Ishq Ali
+۱
+بنائے عالمِ امکاں فقط صدائے کُن
+صدائے کُن کی بنا ہے صدائے عشقِ علی
 
-2
-Baghair Hub E Ali Kab Faqeer Banta Hai
-Sada Se Fuqr Raha Hai Gada E Ishq Ali
+۲
+بغیر حبِ علی کب فقیر بنتا ہے
+سدا سے فقر رہا ہے گدائے عشقِ علی
 
-3
-Awais Chal Diye Khaliq Ki Barghah Main Yon
-Othaye Ishq E Nabi Or Othaye Ishq E Ali
+۳
+اویس چل دیے خالق کی بارگاہ میں یوں
+اٹھائے عشقِ نبی اور اٹھائے عشقِ علی
 
-4
-Baghair E Ishq Ali Lutf E Zindagi Kiya Hai
-Ye Zindagi Tu Mili Hai Bara E Ishq Ali
+۴
+بغیرِ عشقِ علی لطفِ زندگی کیا ہے
+یہ زندگی تو ملی ہے برائے عشقِ علی
 
-5
-Kahin Pe Aatish E Namrood Sard Ho Jaye
-Kahin Pe Khak Ko Kundan Banaye Ishq E Ali
+۵
+کہیں پہ آتشِ نمرود سرد ہو جائے
+کہیں پہ خاک کو کندن بنائے عشقِ علی
 
-6
-Samaatoon K Ofaq Per Bala Ka Jashan Howa
-Zubaan Bureeda Ne Jab Ki Sana E Ishq Ali
+۶
+سماعتوں کے افق پر بلا کا جشن ہوا
+زبان بریدہ نے جب کی ثنائے عشقِ علی
 
-7
-Ye Karbala Ye Madina Ye Shaam Ye Kofa
-Kahan Kahan Pe Ragg E Deen Bachaye Ishq E Ali
+۷
+یہ کربلا یہ مدینہ یہ شام یہ کوفہ
+کہاں کہاں پہ رگِ دیں بچائے عشقِ علی
 
-8
-Khuda Ko Jhom K Main Ne Bhi Keh Diya Kashif
-Nahi Hai Koi Tamana Siwa E Ishq E Ali
+۸
+خدا کو جھوم کے میں نے بھی کہہ دیا کاشف
+نہیں ہے کوئی تمنا سوائے عشقِ علی

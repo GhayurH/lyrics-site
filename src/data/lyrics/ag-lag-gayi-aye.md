@@ -11,26 +11,26 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aag lag gayi aye wich khaimiyaan de sada reh gaya putar muhari
-  Sajjad nu aan bacha le ainu Zainab kand te cha le kehway har maa dardaan mari
-  Phophiyaan nu Sakina kehndi si mera veer beemar bachao
-  Mere kurtay di aag rehn diyo khaimay nu aan bhujao
-  Mere sah mil jawan ainu koi fikar nayi apni mainu raway lahu kuna choon jari
-  Akbar di lash de kool khari aye aakhdi Umm-e-Laila
-  Akbar di thaan ainu lawaan gi jehra sehra bhaijiya Sughra
-  Aiday jigar de sadqay la ke ainu Akbar putar bana ke kad laan gi zindagi sari
-  Aye aakh ke gash choon Abid nu Kulsoom ne hosh karaye
-  Tu jaag te ja par aye sun le saday burqay Shamiyaan laye
-  Sir nangay ne sab phophiyaan ajay putar na kholein akhiyaan wadh jaye na hor bemari
-  Oh jandi si aye dunya te Shabeer da mansab daar aye
-  Dowein qeemati san Zainab kitay ik Abid ik dastar aye
-  Barey Shamiyaan charey laye aag khaimay saar mokaye Zainab himmat na hari
-  Ik hath nal apne walaan nu payi mitiyaan naal lokaway
-  Ik hath nal Fizza Zainab nu aye aakh ke putar chokaway
-  Pathraan kharaan te turiye uth Sham safar te chaliye asaan kar layi aye teyari
-  Koi Qasim samajh ke sir chumdi koi Akbar putar bulaway
-  Saqlain koi Ghazi aakhay koi Asghar naal milaway
-  Har dukhiya khak te beh ke Sajjad de sir de sadqay rayi landi wari wari
+  Aag lag gayi ae wich khaimiyaan de saadda reh gaya putar muhari
+  Sajjad nu aan bacha le ainu Zainab kand te cha le kahwe har maan dardaan mari
+  Phophiyaan nu Sakina kehndi si mera veer bimaar bachao
+  Mere kurte di aag rehn diyo khaime nu aan bujhao
+  Mere saah mil jaawan ainu koi fikar nain apni mainu rawe lahu kannaan chon jaari
+  Akbar di laash de kol khari ae aakhdi Umm-e-Laila
+  Akbar di thaan ainu lawaan gi jehra sehra bhejiya Sughra
+  Aide jigar de sadqe la ke ainu Akbar putar bana ke kaddh laan gi zindagi saari
+  Eh aakh ke ghash chon Abid nu Kulsoom ne hosh karaaye
+  Tun jaag te ja par eh sun le saadde burqe Shaamiyaan laye
+  Sar nange ne sab phophiyaan aje putar na kholein akkhiyaan wadh jaaye na hor bimaari
+  Oh jaandi si eh duniya te Shabbir da mansab daar ae
+  Dowein qimati san Zainab kite ik Abid ik dastaar ae
+  Bare Shaamiyaan charhe laaye aag khaime saar mukaaye Zainab himmat na haari
+  Ik hath naal apne walaan nu payi mittiyaan naal lokawe
+  Ik hath naal Fizza Zainab nu eh aakh ke putar chakawe
+  Pathraan khaaraan te turiye uth Shaam safar te chaliye asaan kar layi ae tayaari
+  Koi Qasim samajh ke sar chumdi koi Akbar putar bulawe
+  Saqlain koi Ghazi aakhe koi Asghar naal milawe
+  Har dukhiya khaak te beh ke Sajjad de sar de sadqe rahi laindi waari waari
 ---
 
 ۱

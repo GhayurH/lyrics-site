@@ -1,44 +1,78 @@
 ---
-title: "Fabi-Ayyi Ala-I Rabbikuma Tukazziban"
+title: "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ"
+alternateTitle: "Fabi-Ayyi Ala-I Rabbikuma Tukazziban"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Fabi-ayyi ala-i Rabbikuma tukazziban
+  Zahra ke ghar ki azmat ko bas jane hain Quran
+
+  1
+  Do naimatein Arsh se le kar utra hai Sorah-e-Rehman
+  Aik hain Shabar ik Shabir hai lo lo Walmarjan
+  Chodah masoomo ke liye Khaliq ne banai dunya
+  Inhi ke waste kun keh keh kar Rab ne sajai dunya
+
+  2
+  Sab pe hai wajib inn ki itat jinn hoon ya insan
+  Khud bhi Khaliq jhoom raha hai baat yeh kehte kehte
+  Noor ke do sagar hain jo keh sath sath hain behte
+  Ali-o-Zahra hi tu hain Behrain-e-Yaltaqyaan
+
+  3
+  Kaha hai jab Allah ne tum har sheh ko theek se tolo
+  Iss ka matlab yeh hai Ali ko dill se Mula bolo
+  Wilayat-e-Haider hai sab aamaloon ki mezan
+  Do aalam mein jitne bhi hain malaika ke lashkar
+
+  4
+  Khuda ki khushnodi ke khatir zameen par aa aa kar
+  Dar-e-Ali par bante hain bari bari darban
+  Quran mein Khaliq ne bataya hai janat ka naqsha
+  Oss naqshey ko ghoor se dekha tu hum ne yeh jana
+
+  5
+  Janat tu hai bait-e-Ali-o-Zahra ka dalan
+  Suna do dunya walon ko tum yeh payam aye Majid
+  Jo nahi karte Aal-e-Nabi ka ahtram aye Majid
+  Aise musalmano se tu ache the Ahl-e-Najran
 ---
 
-Fabi-Ayyi Ala-I Rabbikuma Tukazziban.
-Zahra Ke Ghar Ki Azmat Ko Bas Jane Hain Quran.
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+زہرا کے گھر کی عظمت کو بس جانے ہیں قرآن
 
-1
-Do Naimatein Arsh SeLe Kar Utra Hai Sorah-e-Rehman.
-Aik Hain Shabar Ik Shabir Hai Lo Lo Walmarjan.
-Chodah Masoomo Ke Liye Khaliq Ne Banai Dunya.
-Inhi Ke Waste Kun Keh Keh Kar Rab Ne Sajai Dunya.
+۱
+دو نعمتیں عرش سے لے کر اترا ہے سورۂ رحمن
+ایک ہیں شبر اک شبیر ہے لؤلؤ والمرجان
+چودہ معصوموں کے لیے خالق نے بنائی دنیا
+انہی کے واسطے کن کہہ کہہ کر رب نے سجائی دنیا
 
-2
-Sab Pe Hai Wajib Inn Ki Itat Jinn Hoon Ya Insan.
-Khud Bhi Khaliq Jhoom Raha Hai Baat Yeh Kehte Kehte.
-Noor Ke Do Sagar Hain Jo Keh Sath Sath Hain Behte.
-Ali-o-Zahra Hi Tu Hain Behrain-e-Yaltaqyaan.
+۲
+سب پہ ہے واجب ان کی اطاعت جن ہوں یا انسان
+خود بھی خالق جھوم رہا ہے بات یہ کہتے کہتے
+نور کے دو ساگر ہیں جو کہ ساتھ ساتھ ہیں بہتے
+علی و زہرا ہی تو ہیں بحرینِ یلتقیان
 
-3
-Kaha Hai Jab ALLAH Ne Tum Har Sheh Ko Theek Se Tolo.
-Iss Ka Matlab Yeh Hai Ali Ko Dill Se Mula Bolo.
-Wilayat-e-Haider Hai Sab Aamaloon Ki Mezan.
-Do Aalam Mein Jitne Bhi Hain Malaika Ke Lashkar.
+۳
+کہا ہے جب اللہ نے تم ہر شے کو ٹھیک سے تولو
+اس کا مطلب یہ ہے علی کو دل سے مولا بولو
+ولایتِ حیدر ہے سب اعمالوں کی میزان
+دو عالم میں جتنے بھی ہیں ملائکہ کے لشکر
 
-4
-Khuda Ki Khushnodi Ke Khatir Zameen Par Aa Aa Kar
-Dar-e-Ali Par Bante Hain Bari Bari Darban.
-Quran Mein Khaliq Ne Bataya Hai Janat Ka Naqsha.
-Oss Naqshey Ko Ghoor Se Dekha Tu Hum Ne Yeh Jana.
+۴
+خدا کی خوشنودی کے خاطر زمین پر آ آ کر
+درِ علی پر بنتے ہیں باری باری دربان
+قرآن میں خالق نے بتایا ہے جنت کا نقشہ
+اس نقشے کو غور سے دیکھا تو ہم نے یہ جانا
 
-5
-Janat Tu Hai Bait-e-Ali-o-Zahra Ka Dalan.
-Suna Do Dunya Walon Ko Tum Yeh Payam Aye Majid.
-Jo Nahi Karte Aal-e-Nabi Ka Ahtram Aye Majid.
-Aise Musalmano Se Tu Ache The Ahl-e-Najran.
+۵
+جنت تو ہے بیتِ علی و زہرا کا دالان
+سنا دو دنیا والوں کو تم یہ پیام اے ماجد
+جو نہیں کرتے آلِ نبی کا احترام اے ماجد
+ایسے مسلمانوں سے تو اچھے تھے اہلِ نجران

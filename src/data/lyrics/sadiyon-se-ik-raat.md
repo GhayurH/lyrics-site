@@ -13,13 +13,13 @@ aliases: ["Sadiyon Se Ek Raat"]
 published: true
 romanLyrics: |-
   Kehte haiṅ ye Imam-e-Zamaaṅ Ae Karbala
-  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ maiṅ
+  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ main
 
-  Ji khol kar Husain ko roya nahiṅ huṅ maiṅ
-  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ maiṅ
+  Ji khol kar Husain ko roya nahiṅ huṅ main
+  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ main
 
   1
-  Dubi hui lahu meiṅ hai Shabbir ki jabiṅ
+  Dubi hui lahu mein hai Shabbir ki jabiṅ
   Abbas o Qasim o Ali Akbar bhi ab nahiṅ
   Karti hai bain saath mere Fatima yahi
   Aansu agar bahaauṅ to beh jaaye ye zamin
@@ -40,25 +40,25 @@ romanLyrics: |-
   Maalik mujhe Yazid se izn-e-jidaal de
   Aabid ke dil se Shaam ka manzar nikaal de
   Zehra ke zakhm zakhm ka ab indimaal de
-  Asghar ko ab Rabaab ke jhule meiṅ daal de
+  Asghar ko ab Rabaab ke jhule mein daal de
 
   5
   Apnoṅ ka haal dekh ke phatta hai ye jigar
   Quraan saja ke rakhe hai har ek taaq par
-  Sayyidaaniyoṅ jo phirti hai majlis meiṅ nange sar
+  Sayyidaaniyoṅ jo phirti hai majlis mein nange sar
   Girya bahut karta huṅ aamaal dekh kar
 
   6
-  Nashe meiṅ hirs o jahl ke tum log chur ho
-  Kirdaar aur amal meiṅ bahut beshuur ho
-  Maiṅ tum se to qarib huṅ tum mujh se dur ho
+  Nashe mein hirs o jahl ke tum log chur ho
+  Kirdaar aur amal mein bahut beshuur ho
+  Main tum se to qarib huṅ tum mujh se dur ho
   Taiyaar tum nahiṅ ho to kaise zuhur ho
 
   7
-  Raast usul-e-din ke har ek pal karo
+  Raast usul-e-din ke har ik pal karo
   Logoṅ furu-e-din pe pura amal karo
   Hirs o hawaas-e-nafs se jang o jadal karo
-  Maiṅ chaahta zuhur huṅ mushkil ko hal karo
+  Main chaahta zuhur huṅ mushkil ko hal karo
 ---
 کہتے ہیں یہ امام زماں اے کربلا
 صدیوں سے اک رات بھی سویا نہیں ہوں میں

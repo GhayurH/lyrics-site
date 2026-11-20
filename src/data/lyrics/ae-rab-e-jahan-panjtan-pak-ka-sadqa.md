@@ -13,84 +13,84 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Ae Rab-e-Jahaṅ, Panjtan Pak Ka Sadqa
-  Iss Qaum Ka Daman Gham-e-Shabbir Se Bhar De
+  Ae Rab-e-Jahaṅ, Panjtan paak ka sadqa
+  Is qaum ka daaman Gham-e-Shabbir se bhar de
 
   2
-  Bachoṅ Ko Atta Kar Ali Asghar Ka Tabasum
-  Burhuṅ Ko Habib Ibn-e-Muzahir Ki Nazar De
+  Bachchoṅ ko ataa kar Ali Asghar ka tabassum
+  Burhoṅ ko Habib Ibn-e-Muzahir ki nazar de
 
   3
-  Kam Sin Ko Mile Walwala-e-Aoun o Muhammad
-  Har Ik Jawaan Ko Ali Akbar Ka Jigar De
+  Kam sin ko mile walwala-e-Aun o Muhammad
+  Har ik jawaan ko Ali Akbar ka jigar de
 
   4
-  Maouṅ Ko Sikha Sani-e-Zahra Ka Saliqa
-  Behno Ko Sakina Ki Duaoṅ Ka Asar De
+  Maa'oṅ ko sikha Saani-e-Zahra ka saliqa
+  Behnoṅ ko Sakina ki duaa'oṅ ka asar de
 
   5
-  Ya Rab Tujhe Bimari-e-Abid Ki Qasam Hai
-  Bimar Ki Ratoṅ Ko Shifa Yaab Sahar De
+  Ya Rab tujhe bimaari-e-Abid ki qasam hai
+  Bimaar ki raatoṅ ko shifaa yaab sahar de
 
   6
-  Muflis Pe Zar o Maal o Jowahir Ki Ho Barish
-  Maqruz Ka Har Qarz Ada Gaib Se Kar De
+  Muflis pe zar o maal o jawaahir ki ho baarish
+  Maqruz ka har qarz adaa ghaib se kar de
 
   7
-  Paband-e-Rasan Zainab o Kulsum Ka Sadqa
-  Bejurm Asiroṅ Ko Rehai Ki Khabar De
+  Paaband-e-rasan Zainab o Kulsum ka sadqa
+  Bejurm asiroṅ ko rihaai ki khabar de
 
   8
-  Jo Maeiṅ Bhi Roti Haiṅ beYad-e-Ali Asghar
-  Unn Maouṅ Ki Aagosh Ko Aulaad Se Bhar De
+  Jo maa'eṅ bhi roti haiṅ biyaad-e-Ali Asghar
+  Un maa'oṅ ki aaghosh ko aulaad se bhar de
 
   9
-  Jo Haq Ke Tarafdar Huṅ Wo Hath Atta Kar
-  Jo Majlis-e-Shabbir Ki Khatir Ho Wo Ghar De
+  Jo haq ke tarafdaar huṅ wo haath ataa kar
+  Jo majlis-e-Shabbir ki khaatir ho wo ghar de
 
   10
-  Qismat Ko Faqat Khak-e-Shifa Bakhsh De Maula
-  Maiṅ Yeh Nahiṅ Kehta Ke Mujhe Laal o Gohar De
+  Qismat ko faqat khaak-e-shifaa bakhsh de Maula
+  Maiṅ yeh nahiṅ kehta ke mujhe laal o gauhar de
 
   11
-  Aankhoṅ Ko Dikha Roza-e-Mazlum Ka Manzar
-  Qadmoṅ Ko Najaf Tak Bhi Kabhi Izn-e-Safar De
+  Aaṅkhoṅ ko dikha rauza-e-mazlum ka manzar
+  Qadmoṅ ko Najaf tak bhi kabhi izn-e-safar de
 
   12
-  Jo Chadar-e-Zainab Ki Azadar Haiṅ Maula
-  Mehfuz Raheiṅ Aisi Khawatin Ke Parde
+  Jo chaadar-e-Zainab ki azaadaar haiṅ Maula
+  Mehfuz raheṅ aisi khawaatin ke parde
 
   13
-  Gham Koi Na De Hum Ko Siwaye Gham-e-Shabbir
-  Shabbir Ka Gham Bant Raha Hai Tu Idhar De
+  Gham koi na de hum ko siwaaye Gham-e-Shabbir
+  Shabbir ka gham baaṅt raha hai tu idhar de
 
   14
-  Kab Tak Rahuṅ Duniya Meiṅ Yatimoṅ Ki Tarah Maiṅ?
-  Waris Mera Parde Meiṅ Hai, Zahir Usse Kar De
+  Kab tak rahuṅ duniya meiṅ yatimoṅ ki tarah maiṅ?
+  Waaris miraa parde meiṅ hai, zaahir use kar de
 
   15
-  Manzur Hai Khwaboṅ Meiṅ Hi Aaqa Ki Ziyarat
-  Parwaz Ki Khwahish Meiṅ Na Jibril Ke Par De
+  Manzur hai khwaaboṅ meiṅ hi aaqa ki ziyaarat
+  Parwaaz ki khwaahish meiṅ na Jibril ke par de
 
   16
-  Jis Dar Ke Sawali Haiṅ Farishte Bhi Bashar Bhi
-  Awarah-e-Manzil Huṅ Mujhe Bhi Wohi Dar De
+  Jis dar ke sawaali haiṅ farishte bhi bashar bhi
+  Aawaara-e-manzil huṅ mujhe bhi wohi dar de
 
   17
-  Jo Din Ke Kaam Aaye Wo Aulaad Atta Kar
-  Jo Kat Ke Bhi Uncha Hi Nazar Aaye Wo Sar De
+  Jo din ke kaam aaye wo aulaad ataa kar
+  Jo kat ke bhi uṅcha hi nazar aaye wo sar de
 
   18
-  Khairat Dar-e-Shah-e-Najaf Chahiye Mujh Ko
-  Salman o Abu Zar Ki Tarah Koi Hunar De
+  Khairaat dar-e-Shaah-e-Najaf chaahiye mujh ko
+  Salman o Abu Zar ki tarah koi hunar de
 
   19
-  Sehraoṅ Meiṅ Abid Ki Musafat Ke Sile Meiṅ
-  Bhatke Huye Rahro Ko Samardar Shajar De
+  Sahraa'oṅ meiṅ Abid ki musaafat ke sile meiṅ
+  Bhatke huye raahrau ko samar daar shajar de
 
   20
-  Sar Par Ho Sada Parcham-e-Abbas Ka Saya
-  Mohsin Ki Dua Khatam Ho Ab Iss Ko Asar De
+  Sar par ho sada parcham-e-Abbas ka saaya
+  Mohsin ki duaa khatm ho ab is ko asar de
 ---
 
 ۱

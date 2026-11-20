@@ -10,61 +10,61 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jaan e Husain alamdar e Husain
-  E abalfazl alamdar e Husain
+  Jaan-e-Husain alamdar-e-Husain
+  Ae Abalfazl alamdar-e-Husain
 
   1
-  Bawafa monis o ghamkhwar e Husain
-  Ye azadaar na bhoolenge kabhi aap ka gham
+  Bawafa monis o ghamkhwar-e-Husain
+  Ye azadaar na bhuleṅge kabhi aap ka gham
   Hum na bhulenge kabhi khun meiṅ duba wo alam
-  Hashr tak aap ki ghurbat ka karenge matam
-  E jari aap ke baazu e bureeda ki qasam
+  Hashr tak aap ki ghurbat ka karenge maatam
+  Ae jari aap ke baazu-e-burida ki qasam
 
   2
   Aap ke dar se liya dars-e-sharafat hum ne
-  Aap se sikhi hai bhai ki mohabbat hum ne
-  Chadar e saani e zahra ki qasam e ghazi
-  Aap se sikhi hai behno ki hifazat hum ne
+  Aap se sikhi hai bhaai ki mohabbat hum ne
+  Chaadar-e-saani-e-Zahra ki qasam ae ghazi
+  Aap se sikhi hai behnoṅ ki hifaazat hum ne
 
   3
-  Ek masooma ke ehsaas pe rona aaya
+  Ek masuma ke ehsaas pe rona aaya
   Uski mazlumi pe aur pyaas pe rona aaya
-  Jab bhi parcham pe lagi mashke sakina dekhi
+  Jab bhi parcham pe lagi mashk-e-Sakina dekhi
   Aap ki tuti hui aas pe rona aaya
 
   4
-  Haye maula wo qayamat ki ghari
+  Haaye Maula wo qayaamat ki ghari
   Sheh ko jis waqt sada aap ne di
-  Aasmaṅ dard ka sarwar pe gira
-  Daure ye kehte huwe shaahe huda
-  Mere ghayyur mere shere jari
-  Tere bhai ki kamar tut gayi
-  Aur jina nahi ab mujhko gawara ghazi
-  Maar daalega mujhe daagh tumhara ghazi
+  Aasmaaṅ dard ka Sarwar pe gira
+  Daure ye kehte hue shaah-e-huda
+  Mere ghayur mere sher-e-jari
+  Tere bhaai ki kamar tut gayi
+  Aur jina nahiṅ ab mujhko gawaara ghazi
+  Maar daalega mujhe daagh tumhaara ghazi
 
   5
-  Haye maqtal ka wo manzar wo musibat maula
-  Ta abad yaad rahegi wo qayamat maula
-  Sina-e-sayyede waala pe layiṅ ka zaanu
-  Aur tarpti hui wo aap ki mayyat maula
+  Haaye maqtal ka wo manzar wo musibat Maula
+  Ta abad yaad rahegi wo qayaamat Maula
+  Sina-e-Sayyed-e-Waala pe laiṅ tha zaanuṅ
+  Aur tarapti hui wo aap ki mayyat Maula
 
   6
-  Dil bahot rota hai ye soch ke mera ghazi
-  Aap ko jaan se pyari thi sakina ghazi
-  Shimr ne usko tamachoṅ pe tamache maare
+  Dil bahut rota hai ye soch ke mera ghazi
+  Aap ko jaan se pyaari thi Sakina ghazi
+  Shimr ne us ko tamaanchoṅ pe tamaanche maare
   Aap ne kaise saha hoga ye sadma ghazi
 
   7
-  Dil laraz jaata hai ye sun ke azadaroṅ ka
-  Bhare bazaar meiṅ the ahle haram beparda
-  Haye kya aap pe guzri hai qayamat us dam
-  Jab ye zainab ne kaha chini gayi meri rida
+  Dil laraz jaata hai ye sun ke azadaaroṅ ka
+  Bhare baazaar meiṅ the ahl-e-haram beparda
+  Haaye kya aap pe guzri hai qayaamat us dam
+  Jab ye Zainab ne kaha chhini gayi meri rida
 
   8
-  Haye kis dil se nadim aap ki ghurbat likhe
+  Haaye kis dil se Nadim aap ki ghurbat likhe
   Is tasavvur se jigar hota hai tukre tukre
-  Mai bayaṅ kaise karuṅ aap ke zakhmi sar ko
-  Shimr ne gardan e rahwaar se baandha kaise
+  Main bayaaṅ kaise karuṅ aap ke zakhmi sar ko
+  Shimr ne gardan-e-rahwaar se baandha kaise
 ---
 
 جان حسین علمدار حسین

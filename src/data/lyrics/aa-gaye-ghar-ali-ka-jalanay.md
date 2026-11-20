@@ -1,6 +1,6 @@
 ---
 title: "آ گئے گھر علی کا جلانے"
-alternateTitle: "Aa Gaye Ghar Ali Ka Jalanay"
+alternateTitle: "Aa Gaye Ghar Ali Ka Jalane"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Lehad mein Mustafa ko satanay aa gaye ghar Ali ka jalanay
-  Loag ajar-e-risalat nibhanay aa gaye ghar Ali ka jalanay
+  Lahad mein Mustafa ko satane aa gaye ghar Ali ka jalane
+  Log ajr-e-risalat nibhane aa gaye ghar Ali ka jalane
   Zulm kaisa yeh ummat ne dhaya
-  Qabar tak Fatima ko rulaya
+  Qabr tak Fatima ko rulaya
 
   2
-  Ibtida Karbala ki karanay aa gaye ghar Ali ka jalanay
-  Dast-e-Haider mein bandhay rasan hain
-  Bach gaye qaidi Khaybar shikan hain
-  Galiyon mein Murtaza ko phiranay aa gaye ghar Ali ka jalanay
+  Ibtida Karbala ki karane aa gaye ghar Ali ka jalane
+  Dast-e-Haider mein bandhe rasan haiṅ
+  Bach gaye qaidi Khaybar shikan haiṅ
+  Galiyoṅ mein Murtaza ko phirane aa gaye ghar Ali ka jalane
 
   3
-  Kartay tazeem jis ki Nabi they
+  Karte tazim jis ki Nabi the
   Bibi darbar mein woh gayi hai
-  Mustafa ke jigar ko dukhanay aa gaye ghar Ali ka jalanay
-  Ajar ummat se kaisa mila hai
+  Mustafa ke jigar ko dukhane aa gaye ghar Ali ka jalane
+  Ajr ummat se kaisa mila hai
 
   4
-  Qatal Mohsin ka bhi ho gaya hai
-  Ranj-o-gham Fatima ka barhanay aa gaye ghar Ali ka jalanay
+  Qatl Mohsin ka bhi ho gaya hai
+  Ranj o gham Fatima ka barhane aa gaye ghar Ali ka jalane
   Bint-e-Sarwar woh zoja-e-Haider
-  Hoi rukhsat zamane se ro kar
+  Hui rukhsat zamane se ro kar
 
   5
-  Zakhm Baba ko apne dikhanay aa gaye ghar Ali ka jalanay
-  Haal Farman kaisay biyaan ho
-  Tere lafzoon se jo keh ayyaan ho
-  Badla Ohad-o-Badar ka chukanay aa gaye ghar Ali ka jalanay
+  Zakhm Baba ko apne dikhane aa gaye ghar Ali ka jalane
+  Haal Farman kaise bayaan ho
+  Tere lafzoṅ se jo ke ayaaṅ ho
+  Badla Uhud o Badr ka chukane aa gaye ghar Ali ka jalane
 ---
 
 ۱

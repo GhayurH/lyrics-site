@@ -1,25 +1,40 @@
 ---
-title: "Lay Kar Alam Furat Say"
+title: "لے کر علم فرات سے"
+alternateTitle: "Lay Kar Alam Furat Say"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Le kar alam Furat se Sheh aaye kartay bain
+  Sar peeto qatal ho gaya Haider ka noor-e-ain
+  Bazu kata ke so gaya bhai Furat par
+  Tanha jafa shoaron mein ab reh gaya Hussain
+  Ammo kahan hain pocha Sakina ne bar bar
+  Dakhil hoye khiyam mein jab Shah-e-Mashreqain
+  Dharas thi jis ke dam se woh soya Furat par
+  Ab Bibiyon ki guzrey gi kaisay sakoon se rain
+  Zair-e-alam Lababa ko laein jo Bibiyaan
+  Bhai ki bewah dekh keh gash kar gaye Hussain
+  Baqi rahe na yawar-o-ansar-o-aqarba
+  Rukhsat hoi Hussain ke lashkar ki zaib-o-zain
+  Gham mein Anees, Ghazi ke aal-e-Rasool mein
+  Tha misal-e-hashar Shah ke khaimay mein shoor-o-shain
 ---
 
-Le Kar Alam Furat Se Sheh Aaye Kartay Bain
-Sar Peeto Qatal Ho Gaya Haider Ka Noor-e-Ain
-Bazu Kata Ke So Gaya Bhai Furat Par
-Tanha Jafa Shoaron Mein Ab Reh Gaya Hussain
-Ammo Kahan Hain Pocha Sakina Ne Bar Bar
-Dakhil Hoye Khiyam Mein Jab Shah-e-Mashreqain
-Dharas Thi Jis Ke Dam Se Woh Soya Furat Par
-Ab Bibiyon Ki Guzrey Gi Kaisay Sakoon Se Rain
-Zair-e-Alam Lababa Ko Laein Jo Bibiyaan
-Bhai Ki Bewah Dekh Keh Gash Kar Gaye Hussain
-Baqi Rahe Na Yawar-o-Ansar-o-Aqarba
-Rukhsat Hoi Hussain Ke Lashkar Ki Zaib-o-Zain
-Gham Mein ANEES, Ghazi Ke Aal-e-Rasool Mein
-Tha Misal-e-Hashar Shah Ke Khaimay Mein Shoor-o-Shain
+لے کر علم فرات سے شہ آئے کرتے بین
+سر پیٹو قتل ہو گیا حیدر کا نورِ عین
+بازو کٹا کے سو گیا بھائی فرات پر
+تنہا جفا شعاروں میں اب رہ گیا حسین
+عمّو کہاں ہیں پوچھا سکینہ نے بار بار
+داخل ہوئے خیام میں جب شاہِ مشرقین
+ڈھارس تھی جس کے دم سے وہ سویا فرات پر
+اب بیبیوں کی گزرے گی کیسے سکون سے رین
+زیرِ علم لبابہ کو لائیں جو بیبیاں
+بھائی کی بیوہ دیکھ کے غش کر گئے حسین
+باقی رہے نہ یاور و انصار و اقربا
+رخصت ہوئی حسین کے لشکر کی زیب و زین
+غم میں انیس، غازی کے آلِ رسول میں
+تھا مثالِ حشر شہ کے خیمے میں شور و شین

@@ -14,45 +14,45 @@ romanLyrics: |-
   Maara gaya hai naize se beta Husain ka
   Ye sun ke ajab haal tha Maula Husain ka
 
-  Kabhi Girte The Kabhi Uthte The
-  Kehte The Husain Yeh Ro Ro Kar
-  Mera Akbar Mar Diya
-  Kis Tarha Uthaoṅ Ga Lasha Haye Maiṅ Apne Kandhe Par
+  Kabhi girte the kabhi uthte the
+  Kehte the Husain ye ro ro kar
+  Mera Akbar maar diya
+  Kis tarah uthaaoṅ ga laasha haaye main apne kaandhe par
 
   1
-  Bete Ki Judai Aankhoṅ Ki Binayi Bhi Le Jati Hai
-  Ik Maa Ja Ja Kar Khaime Ki Dewaroṅ Se Takrati Hai
-  Jab Baap Sadaeiṅ Deta Hai Ran Meiṅ Lashoṅ Se Takra Kar
+  Bete ki judaai aankhoṅ ki binaai bhi le jaati hai
+  Ik maa ja ja kar khaime ki diwaaroṅ se takraati hai
+  Jab baap sadaaeṅ deta hai ran mein laashoṅ se takra kar
 
   2
-  Arman Akbar Ki Shadi Ka Mere Dil Meiṅ Hi Dam Tur Gaya
-  Socha Tha Maiṅ Oss Ko Apne Hathuṅ Se Banaoṅ Ga Dulha
-  Yeh Baap Saje Ga Haye Ab Sehra Kis Ke Mathe Par
+  Armaan Akbar ki shaadi ka mire dil mein hi dam tor gaya
+  Socha tha main us ko apne haathoṅ se banaaoṅ ga dulha
+  Ye baap sajaaye ga haaye ab sehra kis ke maathe par
 
   3
-  Mujhe Hosla De Warna Beta Tera Baba Bhi Mar Jaye Ga
-  Mujh Se Tere Qatil Kehte Haiṅ Tera Akbar Ab Na Aaye Ga
-  Woh Neza Dikha Kar Hanste Haiṅ Jab Kehta Huṅ Maiṅ Ro Ro Kar
+  Mujhe hausla de warna beta ye baba bhi mar jaaye ga
+  Mujh se tire qaatil kehte haiṅ tira Akbar ab na aaye ga
+  Woh naiza dikha kar hanste haiṅ jab kehta huṅ main ro ro kar
 
   4
-  Chalte Chalte Yeh Kehte Hoye Hathuṅ Se Kamar Ko Tham Liya
-  Abbas Agar Tum Hote Tu Mera Akbar Bhi Zindah Hota
-  Pehle Tujhe Mar Diya Our Ab Inn Sham Ke Logoṅ Ne Mil Kar
+  Chalte chalte ye kehte hue haathoṅ se kamar ko thaam liya
+  Abbas agar tum hote to mira Akbar bhi zinda hota
+  Pehle tujhe maar diya aur ab in Shaam ke logoṅ ne mil kar
 
   5
-  Jab Pas Akbar Ke Pohanche Tu Zakhmi Oss Ka Seena Dekha
-  Bete Ne Aakhri Hichki Li Jab Tuta Howa Neza Khaincha
-  Shabbir Ne Bas Yeh Kehte Hoye Sar Rakh Diya Zakhmi Sine Par
+  Jab paas Ali Akbar ke pahunche zakhmi us ka sina dekha
+  Bete ne aakhri hichki li jab tuta hua naiza khaincha
+  Shabbir ne bas ye kehte hue sar rakh diya zakhmi sine par
 
   6
-  Atharah Saal Jisse Pala Nazuṅ Se Meri Zainab Ne
-  Barchi Ke Baad Oss Bete Ko Talwaroṅ Se Mara Sab Ne
-  Kis Tarha Kahoṅ Ga Khaimoṅ Meiṅ Jab Jaoṅ Ga Lasha Le Kar
+  Athaara saal jise paala naazoṅ se meri Zainab ne
+  Barchhi ke baad us bete ko talwaaroṅ se maara sab ne
+  Kis tarah kahuṅ ga khaimoṅ mein jab jaaoṅ ga laasha le kar
 
   7
-  Zishan o Raza Jab Beti Ka Khat Bete Ke Sine Pe Rakha
-  Shabbir Ke Ashkoṅ Ki Tarha Akbar Ka Khon Tapakne Laga
-  Jis Hath Se Barchi Khainchi Thi Oss Hath Se Likha Jab Khat Par
+  Zishan o Raza jab beti ka khat bete ke sine pe rakha
+  Shabbir ke ashkoṅ ki tarah Akbar ka khun tapakne laga
+  Jis haath se barchhi khainchi thi us haath se likha jab khat par
 ---
 
 مارا گیا ہے نیزے سے بیٹا حسین کا

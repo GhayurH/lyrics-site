@@ -1,6 +1,6 @@
 ---
 title: "ستم جو ڈھائے مسلماں نے مجھ پہ بعدِ نبی"
-alternateTitle: "Chupa Ke Roti Hai"
+alternateTitle: "Chhupa Ke Roti Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sitam jo dhaaye musalmaṅ ne mujhpe baade nabi
-  Tarap ke dekhe hai hasnain ne sitam wo sabhi
-  Mai aansuoṅ ko chupa loongi tuti phasli bhi
-  Jhuki kamar ye zaifi na chup sakegi kabhi
-  Shikasta pehlu mera aa ke dhaamp de fizza
-  Ke aise haal meiṅ zainab na dekh le fizza
-  Chupa ke roti hai bacchoṅ se phasliyaṅ zahra
-  Ali ko dekh ke leti hai siskiyaṅ zahra
+  Sitam jo dhaaye musalmaṅ ne mujh pe baad-e-Nabi
+  Tarap ke dekhe haiṅ Hasnain ne sitam wo sabhi
+  Main aansuoṅ ko chhupa luṅ gi tuti pasli bhi
+  Jhuki kamar, ye zaifi na chhup sake gi kabhi
+  Shikasta pehlu mara aa ke dhaanp de Fizza
+  Ke aise haal mein Zainab na dekh le Fizza
+  Chhupa ke roti haiṅ bachchoṅ se pasliyaaṅ Zahra
+  Ali ko dekh ke leti haiṅ siskiyaaṅ Zahra
   Giraya jis ghari zaalim ne dar ko pehlu par
-  Pukarti rahi fizza ko naagahaṅ zahra
-  Chupa ke roti hai...
-  Har ek saans pe phasli ko thaam leti hai
-  Ali bhi dekh ke kehte hai al-amaan zahra
-  Chupa ke roti hai...
-  Jigar ke tukre huwe jaa rahe the bibi ke
-  Sanad ke tukre uthaana tha imtehaṅ zahra
-  Chupa ke roti hai...
+  Pukaarti rahiṅ Fizza ko naagahaaṅ Zahra
+  Chhupa ke roti haiṅ...
+  Har ek saans pe pasli ko thaam leti haiṅ
+  Ali bhi dekh ke kehte haiṅ al-amaaṅ Zahra
+  Chhupa ke roti haiṅ...
+  Jigar ke tukre hue jaa rahe the Bibi ke
+  Sanad ke tukre uthaana tha imtihaaṅ Zahra
+  Chhupa ke roti haiṅ...
   Utha ke tukre sanad ke larazte haathoṅ se
-  Batauṅ kaise chali jaanib-e-makaaṅ zahra
-  Chupa ke roti hai...
+  Bataauṅ kaise chaliṅ jaanib-e-makaaṅ Zahra
+  Chhupa ke roti haiṅ...
   Na jaane kaun sa ummat ne zulm dhaaya hai
-  Zaif ho gayi ek din meiṅ naujawaṅ zahra
-  Chupa ke roti hai...
-  Na maa ke rone ki awaaz betiyaṅ sunle
-  Sisak ke leti rahi haye hichkiyaṅ zahra
-  Chupa ke roti hai...
-  Alaida hoti nahi pal ko betiyaṅ maa se
-  Ke phir milegi ye aaghosh aur na maa zahra
-  Chupa ke roti hai...
-  Wo apni daadi ke qatil se khud nimat lega
-  Pisar jo aap ka aayega gyarwaṅ zahra
-  Chupa ke roti hai...
-  Uthega maa ka jo saaya to aasim o rizwaṅ
-  Bohat satayega hasnain ko jahaṅ zahra
-  Chupa ke roti hai...
+  Zaif ho gaiṅ ek din mein naujawaaṅ Zahra
+  Chhupa ke roti haiṅ...
+  Na maaṅ ke rone ki aawaaz betiyaaṅ sun leṅ
+  Sisak ke leti rahiṅ haaye hichkiyaaṅ Zahra
+  Chhupa ke roti haiṅ...
+  Alaida hoti nahiṅ pal ko betiyaaṅ maaṅ se
+  Ke phir mile gi ye aaghosh aur na maaṅ Zahra
+  Chhupa ke roti haiṅ...
+  Wo apni daadi ke qaatil se khud nimat le ga
+  Pisar jo aap ka aaye ga gyaarahwaaṅ Zahra
+  Chhupa ke roti haiṅ...
+  Uthe ga maaṅ ka jo saaya to Aasim o Rizwaaṅ
+  Bahut sataaye ga Hasnain ko jahaaṅ Zahra
+  Chhupa ke roti haiṅ...
 ---
 
 ۱

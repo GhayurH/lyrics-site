@@ -1,42 +1,74 @@
 ---
-title: "Tasbih E Imam Musa Kazim Syed Raza Abbas Zaidi"
+title: "تسبیحِ امام موسیٰ کاظم سید رضا عباس زیدی"
+alternateTitle: "Tasbih E Imam Musa Kazim Syed Raza Abbas Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Munajat"
 poet: "Salman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tasbih e Imam Musa Kazim Syed Raza Abbas Zaidi
+  Adrikni, adrikni
+  Ya syedi, ya molai
+  Ya MosaBana Jafar
+  Ya bab-e-hawaij adrikni
+  La raib nahi hum ko duaon ka saleeqa
+  Bas tere waseelay ko banaya hai wazeefa
+  Aye Mosa-e-Kazim bin-e-jafar mere maula
+  Shahi nahi bas chahiye Shabeer ka sadqa
+  Danao ke saye mein bhi nadan banay ho
+  Masoom ke hotey hoye be aas hoye ho
+  Gar tum ho pareshan musayab mein ghiray ho
+  Tum Mosa-e-Kazim ki dua bhool rahe ho
+  Youn tu sabhi dunya ko issi dar se mila hai
+  Par sheh ke azadaro pe yeh khas atta hai
+  Khud wird humein aisa yeh maula ne diya hai
+  Woh jis se mujarib hoi har ik dua hai
+  Hai kaisa sakhi khud jo raha qaid-e-sitam mein
+  Tha pandrah baras zindah musayab mein alam mein
+  Rehne nahi deta hai humein yeh kissi gham mein
+  Aisa hai asar nam-e-shehanshah-e-ummam mein
+  Jo kasrat-e-sajdah se nazar aata tha gathri
+  Chalti thi kabhi nabz kabhi sans thi rukti
+  Roney ko janazay pe na beta tha na beti
+  Haye haye mere maula pe jafaon pe jafa thi
+  Salman-o- Raza hai yeh manajat ossi ki
+  Woh halat-e-sajdah mein kati zindagi jis ki
+  Pul pe rahi Baghdad ke maiyyat nahi uthi
+  Aankhein rahein nam jab kabhi tasbeeh parho inn ki
 ---
 
-1
-Tasbih e Imam Musa Kazim Syed Raza Abbas Zaidi.
-Adrikni, Adrikni.
-Ya Syedi, Ya Molai.
-Ya MosaBana Jafar.
-Ya Bab-e-Hawaij Adrikni.
-La Raib Nahi Hum Ko Duaon Ka Saleeqa.
-Bas Tere Waseelay Ko Banaya Hai Wazeefa.
-Aye Mosa-e-Kazim Bin-e-Jafar Mere Maula.
-Shahi Nahi Bas Chahiye Shabeer Ka Sadqa.
-Danao Ke Saye Mein Bhi Nadan Banay Ho.
-Masoom Ke Hotey Hoye Be Aas Hoye Ho.
-Gar Tum Ho Pareshan Musayab Mein Ghiray Ho.
-Tum Mosa-e-Kazim Ki Dua Bhool Rahe Ho.
-Youn Tu Sabhi Dunya Ko Issi Dar Se Mila Hai.
-Par Sheh Ke Azadaro Pe Yeh Khas Atta Hai.
-Khud Wird Humein Aisa Yeh Maula Ne Diya Hai.
-Woh Jis Se Mujarib Hoi Har Ik Dua Hai.
-Hai Kaisa Sakhi Khud Jo Raha Qaid-e-Sitam Mein.
-Tha Pandrah Baras Zindah Musayab Mein Alam Mein.
-Rehne Nahi Deta Hai Humein Yeh Kissi Gham Mein.
-Aisa Hai Asar Nam-e-Shehanshah-e-Ummam Mein.
-Jo Kasrat-e-Sajdah Se Nazar Aata Tha Gathri.
-Chalti Thi Kabhi Nabz Kabhi Sans Thi Rukti.
-Roney Ko Janazay Pe Na Beta Tha Na Beti.
-Haye Haye Mere Maula Pe Jafaon Pe Jafa Thi.
- Salman-o- Raza Hai Yeh Manajat Ossi Ki.
-Woh Halat-e-Sajdah Mein Kati Zindagi Jis Ki.
-Pul Pe Rahi Baghdad Ke Maiyyat Nahi Uthi.
-Aankhein Rahein Nam Jab Kabhi Tasbeeh Parho Inn Ki.
+۱
+تسبیحِ امام موسیٰ کاظم سید رضا عباس زیدی
+ادرکنی، ادرکنی
+یا سیدی، یا مولائی
+یا موسیٰ بن جعفر
+یا بابِ حوائج ادرکنی
+لا ریب نہیں ہم کو دعاؤں کا سلیقہ
+بس تیرے وسیلے کو بنایا ہے وظیفہ
+اے موسیٰ کاظم بنِ جعفر میرے مولا
+شاہی نہیں بس چاہیے شبیر کا صدقہ
+داناؤں کے سائے میں بھی نادان بنے ہو
+معصوم کے ہوتے ہوئے بے آس ہوئے ہو
+گر تم ہو پریشان مصائب میں گھرے ہو
+تم موسیٰ کاظم کی دعا بھول رہے ہو
+یوں تو سبھی دنیا کو اسی در سے ملا ہے
+پر شہ کے عزاداروں پہ یہ خاص عطا ہے
+خود ورد ہمیں ایسا یہ مولا نے دیا ہے
+وہ جس سے مجرّب ہوئی ہر اک دعا ہے
+ہے کیسا سخی خود جو رہا قیدِ ستم میں
+تھا پندرہ برس زندہ مصائب میں الم میں
+رہنے نہیں دیتا ہے ہمیں یہ کسی غم میں
+ایسا ہے اثر نامِ شہنشاہِ امم میں
+جو کثرتِ سجدہ سے نظر آتا تھا گٹھڑی
+چلتی تھی کبھی نبض کبھی سانس تھی رکتی
+رونے کو جنازے پہ نہ بیٹا تھا نہ بیٹی
+ہائے ہائے میرے مولا پہ جفاؤں پہ جفا تھی
+سلمان و رضا ہے یہ مناجات اسی کی
+وہ حالتِ سجدہ میں کٹی زندگی جس کی
+پل پہ رہی بغداد کے میت نہیں اٹھی
+آنکھیں رہیں نم جب کبھی تسبیح پڑھو ان کی

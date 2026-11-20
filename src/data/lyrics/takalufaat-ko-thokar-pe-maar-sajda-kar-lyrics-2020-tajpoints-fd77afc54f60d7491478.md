@@ -1,35 +1,59 @@
 ---
-title: "Takalufaat Ko Thokar Pe Maar Sajda Kar Lyrics 2020"
+title: "تکلفات کو ٹھوکر پہ مار سجدہ کر"
+alternateTitle: "Takalufaat Ko Thokar Pe Maar Sajda Kar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Takalufaat ko thokar pe maar sajda kar
+  Dar-e-Hussain pe dewana waar sajdah kar
+  Habib maula ka khat pa ke khud se kehte they
+  Yeh rang laya tera intezar sajdah kar
+
+  2
+  Jabeen-e-ijz se dewar-o-dar pe bosay de
+  Satoon satoon se lipat bar bar sajdah kar
+  Hussain khaima-e-Zainab mein laye hain tujh ko
+  Bara-e-izn-e-wiga Zulfiqar sajdah kar
+
+  3
+  Khuda yeh kehta tha razi hoon sar utha Shabeer
+  Magar woh dil ki tarap bar bar sajdah kar
+  Agar Khuda ka mawahid hai kar azadari
+  Agar Hussain ka hai pairokar sajdah kar
+
+  4
+  Udhar Hussain ka roza idhar hai Ghazi ka
+  Hain dono simt hi Parwardigar sajdah kar
+  Azan-e-asar ko noha khiyal kar Akbar
+  Gham-e-Hussain ko dil mein utar sajdah kar
 ---
 
-1
-Takalufaat Ko Thokar Pe Maar Sajda Kar.
-Dar-e-Hussain Pe Dewana Waar Sajdah Kar.
-Habib Maula Ka Khat Pa Ke Khud Se Kehte They.
-Yeh Rang Laya Tera Intezar Sajdah Kar.
+۱
+تکلفات کو ٹھوکر پہ مار سجدہ کر
+درِ حسین پہ دیوانہ وار سجدہ کر
+حبیب مولا کا خط پا کے خود سے کہتے تھے
+یہ رنگ لایا تیرا انتظار سجدہ کر
 
-2
-Jabeen-e-Ijz Se Dewar-o-Dar Pe Bosay De.
-Satoon Satoon Se Lipat Bar Bar Sajdah Kar.
-Hussain Khaima-e-Zainab Mein Laye Hain Tujh Ko.
-Bara-e-Izn-e-Wiga Zulfiqar Sajdah Kar.
+۲
+جبینِ عجز سے دیوار و در پہ بوسے دے
+ستون ستون سے لپٹ بار بار سجدہ کر
+حسین خیمۂ زینب میں لائے ہیں تجھ کو
+برائے اذنِ وغا ذوالفقار سجدہ کر
 
-3
-Khuda Yeh Kehta Tha Razi Hoon Sar Utha Shabeer.
-Magar Woh Dil Ki Tarap Bar Bar Sajdah Kar.
-Agar Khuda Ka Mawahid Hai Kar Azadari.
-Agar Hussain Ka Hai Pairokar Sajdah Kar.
+۳
+خدا یہ کہتا تھا راضی ہوں سر اٹھا شبیر
+مگر وہ دل کی تڑپ بار بار سجدہ کر
+اگر خدا کا موحد ہے کر عزاداری
+اگر حسین کا ہے پیروکار سجدہ کر
 
-4
-Udhar Hussain Ka Roza Idhar Hai Ghazi Ka.
-Hain Dono Simt Hi Parwardigar Sajdah Kar.
-Azan-e-Asar Ko Noha Khiyal Kar Akbar.
-Gham-e-Hussain Ko Dil Mein Utar Sajdah Kar.
+۴
+ادھر حسین کا روضہ ادھر ہے غازی کا
+ہیں دونوں سمت ہی پروردگار سجدہ کر
+اذانِ عصر کو نوحہ خیال کر اکبر
+غمِ حسین کو دل میں اتار سجدہ کر

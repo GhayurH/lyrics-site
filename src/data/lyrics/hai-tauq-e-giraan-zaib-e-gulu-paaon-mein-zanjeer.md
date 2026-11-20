@@ -3,35 +3,58 @@ title: "ہے طوقِ گراں زیبِ گلو پاؤں میں زنجیر"
 alternateTitle: "Hai Tauq-e-Giraan Zaib-e-Gulu Paaon Mein Zanjeer"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hai tauq-e-giraan zaib-e-gulu paaon mein zanjeer
+  Sajjad ki likhi gayi hai ashkon se taqdeer
+  Maa behnein phophi sath hain be maqna-o-chadar
+  Beemar bana jata hai khud dard ki tasveer
+
+  2
+  Zanjeron mein jakrey hoye zindaan mein kharey hain
+  Our hathoon pe Sajjad ke hai lasha-e-humsheer
+  Khud roney lagay phoot ke jab paon ke chalay
+  Aalaam-o-musayab ki likhi sehra ne tehreer
+
+  3
+  Beemar ke chal chal ke qadam soojh gaye they
+  Iss baat se tang our howa halqa-e-zanjeer
+  Zanjeer ki jhankar mein nohay ki sada thi
+  Masroof-e-buka nohay se thi Zainab-e-dilgeer
+
+  4
+  Oss Kofay mein Sajjad they paband musalsal
+  Woh Kofa jo maula ki howa karta tha jageer
+  Rehan ada ajar-e-risalat kiya aisay
+  Ik farz samajh kar kiya har nohay ko tehreer
 ---
 
-1
-Hai Tauq-e-Giraan Zaib-e-Gulu Paaon Mein Zanjeer
-Sajjad Ki Likhi Gayi Hai Ashkon Se Taqdeer
-Maa Behnein Phophi Sath Hain Be Maqna-o-Chadar
-Beemar Bana Jata Hai Khud Dard Ki Tasveer
+۱
+ہے طوقِ گراں زیبِ گلو پاؤں میں زنجیر
+سجاد کی لکھی گئی ہے اشکوں سے تقدیر
+ماں بہنیں پھوپھی ساتھ ہیں بے مقنع و چادر
+بیمار بنا جاتا ہے خود درد کی تصویر
 
-2
-Zanjeron Mein Jakrey Hoye Zindaan Mein Kharey Hain
-Our Hathoon Pe Sajjad Ke Hai Lasha-e-Humsheer
-Khud Roney Lagay Phoot Ke Jab Paon Ke Chalay
-Aalaam-o-Musayab Ki Likhi Sehra Ne Tehreer
+۲
+زنجیروں میں جکڑے ہوئے زنداں میں کھڑے ہیں
+اور ہاتھوں پہ سجاد کے ہے لاشۂ ہمشیر
+خود رونے لگے پھوٹ کے جب پاؤں کے چھالے
+آلام و مصائب کی لکھی صحرا نے تحریر
 
-3
-Beemar Ke Chal Chal Ke Qadam Soojh Gaye They
-Iss Baat Se Tang Our Howa Halqa-e-Zanjeer
-Zanjeer Ki Jhankar Mein Nohay Ki Sada Thi
-Masroof-e-Buka Nohay Se Thi Zainab-e-Dilgeer
+۳
+بیمار کے چل چل کے قدم سوج گئے تھے
+اس بات سے تنگ اور ہوا حلقۂ زنجیر
+زنجیر کی جھنکار میں نوحے کی صدا تھی
+مصروفِ بکا نوحے سے تھی زینبِ دلگیر
 
-4
-Oss Kofay Mein Sajjad They Paband Musalsal
-Woh Kofa Jo Maula Ki Howa Karta Tha Jageer
- Rehan Ada Ajar-e-Risalat Kiya Aisay
-Ik Farz Samajh Kar Kiya Har Nohay Ko Tehreer
+۴
+اس کوفے میں سجاد تھے پابند مسلسل
+وہ کوفہ جو مولا کی ہوا کرتا تھا جاگیر
+ریحان ادا اجرِ رسالت کیا ایسے
+اک فرض سمجھ کر کیا ہر نوحے کو تحریر

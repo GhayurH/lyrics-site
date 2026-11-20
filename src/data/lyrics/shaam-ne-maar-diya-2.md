@@ -10,44 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sham ne maar diya mujhe sham ne maar diya
-  Jab tak bhi rahe zinda sajjad ka nauha tha
-  Sham ne maar diya mujhe sham ne maar diya
+  Shaam ne maar diya mujhe Shaam ne maar diya
+  Jab tak bhi rahe zinda Sajjad ka nauha tha
+  Shaam ne maar diya mujhe Shaam ne maar diya
 
   1
-  Kaise na bahe khuṅ ankhoṅ se khanjar hi chala hai aisa
-  Dam meri jawani tod chuki bazaar hai maqtal mera
-  Wallah mai zinda hoo kehne ke liye warna
+  Kaise na bahe khuṅ aankhoṅ se khanjar hi chala hai aisa
+  Dam meri jawaani tor chuki bazaar hai maqtal mera
+  Wallaah maiṅ zinda huṅ kehne ke liye warna
 
   2
-  Phir-jata hai meri nazroṅ meiṅ bazaar-e-sham ka manzar
-  Mehsus ye hota hai mujhko hai saath phupi bechadar
-  Te mujhse nahi hota bazaar madine ka
+  Phir jaata hai meri nazroṅ meiṅ bazaar-e-Shaam ka manzar
+  Mahsus ye hota hai mujh ko hai saath phupi bechaadar
+  Te mujh se nahiṅ hota bazaar Madine ka
 
   3
-  Kehti hai shariyat sar na khule awaaz-e-azan jab aaye
-  Par ahle haram sar par apne haatoṅ ko bhi rakh na paaye
-  Rassi ne asiroṅ ko is tarha se jakra tha
+  Kehti hai shariyat sar na khole aawaaz-e-azaan jab aaye
+  Par ahl-e-haram sar par apne haathoṅ ko bhi rakh na paaye
+  Rassi ne asiroṅ ko is tarah se jakra tha
 
   4
-  Miras shahadat hai meri kya ye bhi mera wirsa tha
-  Phupiyoṅ ko liye bechadar is shehr se guzra tha
+  Miraas-e-shahaadat hai meri kya ye bhi mera wirsa tha
+  Phupiyoṅ ko liye bechaadar is shehr se guzra tha
   Sajjad ka maqtal hai is shehr ka har kucha
 
   5
-  Jab haath dua ko uth'te hai dil gham se mera phat'ta hai
-  Aati hai sakina yaad mujhe mehsus yehi hota hai
-  Jaise mere haatoṅ par rakha hai koi laasha
+  Jab haath dua ko uthte haiṅ dil gham se mera phat jaata hai
+  Aati hai Sakina yaad mujhe mahsus yahi hota hai
+  Jaise mere haathoṅ par rakha hai koi laasha
 
   6
-  Gar ahle madina tum apne ghar mujhko bulana chaho
-  Khushiyoṅ meiṅ nahi aa sakta kabhi majlis ka farsh bichao
-  Baakhi nahi khushiyo se ab koi mera rishta
+  Gar ahl-e-Madina tum apne ghar mujh ko bulaana chaaho
+  Khushiyoṅ meiṅ kabhi aa sakta nahiṅ majlis ka farsh bichwaao
+  Baaqi nahiṅ khushiyoṅ se ab koi mera rishta
 
   7
-  Bazaar meiṅ zainab ka jaana kya maut se kam iza thi
-  Kiuṅ zehr diya zaalim mujhko ab iski zarurat kya thi
-  Pehle hi takallum jab kehta tha mera maula
+  Bazaar meiṅ Zainab ka jaana kya maut se kam izaa tha
+  Kiuṅ zehr diya zaalim mujh ko ab is ki zarurat kya thi
+  Pehle hi Takallum jab kehta tha mera maula
 ---
 
 شام نے مار دیا مجھے شام نے ماردیا

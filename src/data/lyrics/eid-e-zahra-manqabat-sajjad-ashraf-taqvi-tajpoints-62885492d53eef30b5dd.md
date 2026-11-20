@@ -1,36 +1,62 @@
 ---
-title: "Eid-e-Zahra Manqabat Sajjad Ashraf Taqvi"
+title: "عیدِ زہرا منقبت سجاد اشرف تقوی"
+alternateTitle: "Eid-e-Zahra Manqabat Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Eid-e-Zahra manqabat Sajjad Ashraf Taqvi
+  Kiya haseen eid yeh hamari hai
+  Khum ke jaisa surror tari hai
+  Aaj ki shab Imam-e-Qayam ki
+  Taj poshi ka jashan jari hai
+  Aaj khush hain tamam ahl-e-azza
+  Ghar mein dushman ke ashkbari hai
+  Aaj ki shab munafiqon ke liye
+  Mera har aik shair bhari hai
+  Aaj khush hain Ali ke sare ghulam
+  Our munafiq pe maut tari hai
+  Baqi sab jaein gay jahanum mein
+  Woh jo janat hai woh hamari hai
+  Tujh pe Mukhtar momino ka salam
+  Tu hi iss eid ka likhari hai
+  Ta abad ab Yazeedi roein gay
+  Zarb-e-Mukhtar aisi kari hai
+  Tu hai woh sorma jarri jis ki
+  Khud nazar ne nazar utari hai
+  Noor walon ki manqabat sun kar
+  Woh hi jalta hai jo ke nari hai
+  Zindagi hum ne Gohar-o- Sajjad
+  Ishq-e-Aal-e-Nabi pe wari hai
 ---
 
-1
-Eid-e-Zahra Manqabat Sajjad Ashraf Taqvi.
-Kiya Haseen Eid Yeh Hamari Hai.
-Khum Ke Jaisa Surror Tari Hai.
-Aaj Ki Shab Imam-e-Qayam Ki.
-Taj Poshi Ka Jashan Jari Hai.
-Aaj Khush Hain Tamam Ahl-e-Azza.
-Ghar Mein Dushman Ke Ashkbari Hai.
-Aaj Ki Shab Munafiqon Ke Liye.
-Mera Har Aik Shair Bhari Hai.
-Aaj Khush Hain Ali Ke Sare Ghulam.
-Our Munafiq Pe Maut Tari Hai.
-Baqi Sab Jaein Gay Jahanum Mein.
-Woh Jo Janat Hai Woh Hamari Hai.
-Tujh Pe Mukhtar Momino Ka Salam.
-Tu Hi Iss Eid Ka Likhari Hai.
-Ta Abad Ab Yazeedi Roein Gay.
-Zarb-e-Mukhtar Aisi Kari Hai.
-Tu Hai Woh Sorma Jarri Jis Ki.
-Khud Nazar Ne Nazar Utari Hai.
-Noor Walon Ki Manqabat Sun Kar.
-Woh Hi Jalta Hai Jo Ke Nari Hai.
-Zindagi Hum Ne Gohar-o- Sajjad.
-Ishq-e-Aal-e-Nabi Pe Wari Hai.
+۱
+عیدِ زہرا منقبت سجاد اشرف تقوی
+کیا حسین عید یہ ہماری ہے
+خم کے جیسا سرور طاری ہے
+آج کی شب امامِ قائم کی
+تاج پوشی کا جشن جاری ہے
+آج خوش ہیں تمام اہلِ عزا
+گھر میں دشمن کے اشک باری ہے
+آج کی شب منافقوں کے لیے
+میرا ہر ایک شعر بھاری ہے
+آج خوش ہیں علی کے سارے غلام
+اور منافق پہ موت طاری ہے
+باقی سب جائیں گے جہنم میں
+وہ جو جنت ہے وہ ہماری ہے
+تجھ پہ مختار مومنوں کا سلام
+تو ہی اس عید کا لکھاری ہے
+تا ابد اب یزیدی روئیں گے
+ضربِ مختار ایسی کاری ہے
+تو ہے وہ سورما جری جس کی
+خود نظر نے نظر اتاری ہے
+نور والوں کی منقبت سن کر
+وہ ہی جلتا ہے جو کہ ناری ہے
+زندگی ہم نے گوہر و سجاد
+عشقِ آلِ نبی پہ واری ہے

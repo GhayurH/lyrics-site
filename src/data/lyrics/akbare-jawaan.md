@@ -15,35 +15,35 @@ romanLyrics: |-
   Laila ki jaan Shah ke pisar Akbar-e-jawaaṅ
 
   1
-  Zehra ne jo basai thi basti ujar gai
-  Suna sa ho gaya hai jahaṅ Akbar-e-jawaaṅ
+  Zehra ne jo basaai thi basti ujar gai
+  Sunaa sa ho gaya hai jahaṅ Akbar-e-jawaaṅ
 
   2
   Parda jo khaimagah se uthta tha baar baar
-  Kya dil kharash tha wo samaṅ Akbar-e-jawaaṅ
+  Kya dil kharaash tha wo samaṅ Akbar-e-jawaaṅ
 
   3
   Chehra tera ae laal in aankhoṅ meiṅ reh gaya
   Tujh par ae laal roti hai maaṅ Akbar-e-jawaaṅ
 
   4
-  Sina figar ho gaya barchhi ki nok se
+  Sina figaar ho gaya barchhi ki nok se
   Tum par ye ro raha hai jahaṅ Akbar-e-jawaaṅ
 
   5
-  Ya Rab kisi bhi baap ko ye din na dikhae
-  Ek khuṅ bhari ho lash jawaaṅ Akbar-e-jawaaṅ
+  Ya Rab kisi bhi baap ko ye din na dikhaae
+  Ek khuṅ bhari ho laash jawaaṅ Akbar-e-jawaaṅ
 
   6
   Dekho Khalil aap bhi manzar ye khuṅ bhara
-  Sarwar uthae lash jawaaṅ Akbar-e-jawaaṅ
+  Sarwar uthaae laash jawaaṅ Akbar-e-jawaaṅ
 
   7
-  Kis dil se mayyat lae haiṅ karyal jawan ki
+  Kis dil se mayyat laae haiṅ karyal jawan ki
   Dar par khari hai aap ki maaṅ Akbar-e-jawaaṅ
 
   8
-  Sabir jahaṅ se din ka Akbar guzar gaya
+  Saabir jahaṅ se din ka Akbar guzar gaya
   Iqbal ro raha hai yahaṅ Akbar-e-jawaaṅ
 ---
 

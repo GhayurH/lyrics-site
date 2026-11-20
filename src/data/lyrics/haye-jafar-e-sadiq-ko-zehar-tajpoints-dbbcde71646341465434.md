@@ -1,30 +1,48 @@
 ---
-title: "Haye Jafar E Sadiq Ko Zehar"
+title: "ہائے جعفرِ صادق کو زہر"
+alternateTitle: "Haye Jafar E Sadiq Ko Zehar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Jafar e Sadiq ko zehar kis ne diya hai
+  Kazim ke sar pe saya haye logo yateemi ka yeh kis ne kiya hai
+  Jala jis tarha se khaima Karbal mein Zainab ka
+  Ghar aaj oss tarha se phir logo Madine mein Jafar ka jala hai
+  Kaha Sadiq ne yeh Nana tere Madine mein
+  Tera deen mitanay ko tere lal pe hakim ne har zulm kiya hai
+  Howa Shabbar ka tha jaisay tukray jigar haye
+  Phir Nana ka shehar hai Jafar ka jigar haye phir tukray howa hai
+  Qatal Zahra hoin thin our phir qatal-e-Ali kar ke
+  Shabbar se hai Jafar tak logon ne wilayat ka haye badlah liya hai
+  Yeh zalim jantay hain Jafar khon-e-Muhammad hai
+  Ilm-e-Nabi ka waris ummat ke zulm seh ke dunya se chala hai
+  Tumhein Baghdad mein ummat qaidi banaye gi
+  Jan de ke dein bachana yeh Jafar-e-Sadiq ne Kazim se kaha hai
+  Najaf se Karbala se koi hai Sham se aaya
+  Aaye hain Baqiya walay Sajjad youn Jafar ka taboot utha hai
 ---
 
-1
-Haye Jafar e Sadiq Ko Zehar Lyrics Write Up
-Haye Jafar e Sadiq Ko Zehar Kis Ne Diya Hai.
-Kazim Ke Sar Pe Saya Haye Logo Yateemi Ka Yeh Kis Ne Kiya Hai.
-Jala Jis Tarha Se Khaima Karbal Mein Zainab Ka.
-Ghar Aaj Oss Tarha Se Phir Logo Madine Mein Jafar Ka Jala Hai.
-Kaha Sadiq Ne Yeh Nana Tere Madine Mein.
-Tera Deen Mitanay Ko Tere Lal Pe Hakim Ne Har Zulm Kiya Hai.
-Howa Shabbar Ka Tha Jaisay Tukray Jigar Haye.
-Phir Nana Ka Shehar Hai Jafar Ka Jigar Haye Phir Tukray Howa Hai.
-Qatal Zahra Hoin Thin Our Phir Qatal-e-Ali Kar Ke.
-Shabbar Se Hai Jafar Tak Logon Ne Wilayat Ka Haye Badlah Liya Hai.
-Yeh Zalim Jantay Hain Jafar Khon-e-Muhammad Hai.
-Ilm-e-Nabi Ka Waris Ummat Ke Zulm Seh Ke Dunya Se Chala Hai.
-Tumhein Baghdad Mein Ummat Qaidi Banaye Gi.
-Jan De Ke Dein Bachana Yeh Jafar-e-Sadiq Ne Kazim Se Kaha Hai.
-Najaf Se Karbala Se Koi Hai Sham Se Aaya.
-Aaye Hain Baqiya Walay Sajjad Youn Jafar Ka Taboot Utha Hai.
+۱
+ہائے جعفرِ صادق کو زہر کس نے دیا ہے
+کاظم کے سر پہ سایہ ہائے لوگو یتیمی کا یہ کس نے کیا ہے
+جلا جس طرح سے خیمہ کربل میں زینب کا
+گھر آج اس طرح سے پھر لوگو مدینے میں جعفر کا جلا ہے
+کہا صادق نے یہ نانا تیرے مدینے میں
+تیرا دین مٹانے کو تیرے لال پہ حاکم نے ہر ظلم کیا ہے
+ہوا شبر کا تھا جیسے ٹکڑے جگر ہائے
+پھر نانا کا شہر ہے جعفر کا جگر ہائے پھر ٹکڑے ہوا ہے
+قتل زہرا ہوئیں تھیں اور پھر قتلِ علی کر کے
+شبر سے ہے جعفر تک لوگوں نے ولایت کا ہائے بدلہ لیا ہے
+یہ ظالم جانتے ہیں جعفر خونِ محمد ہے
+علمِ نبی کا وارث امت کے ظلم سہ کے دنیا سے چلا ہے
+تمہیں بغداد میں امت قیدی بنائے گی
+جان دے کے دیں بچانا یہ جعفرِ صادق نے کاظم سے کہا ہے
+نجف سے کربلا سے کوئی ہے شام سے آیا
+آئے ہیں بقیع والے سجاد یوں جعفر کا تابوت اٹھا ہے

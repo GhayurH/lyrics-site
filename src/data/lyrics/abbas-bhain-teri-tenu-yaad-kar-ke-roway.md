@@ -1,6 +1,6 @@
 ---
 title: "عباس بھین تیری تینوں یاد کر کے رووے"
-alternateTitle: "Abbas Bhain Teri Tenu Yaad Kar Ke Roway"
+alternateTitle: "Abbas Bhain Teri Tenu Yaad Kar Ke Rowe"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas bhain teri tenu yaad kar ke roway
-  Tera naam laindi rayi aye jis moor te khaloway
-  Tin din da veer pyasa mangdi si bhain pani
-  Oh jandi si Ghazi nayi mashk khali aani
-  Oday samne na tera sir saang te paroway
-  Tere baad wekhiya main haye aakhri oh sajdah
+  Abbas bhain teri tenu yaad kar ke rowe
+  Tera naam laindi rahi ae jis mor te khalowe
+  Tin din da veer pyaasa mangdi si bhain paani
+  Oh jaandi si Ghazi nain mashk khaali aani
+  Ohde saamne na tera sir saang te parowe
+  Tere baad wekhiya main haaye aakhri oh sajda
   Mere veer ne sir de ke kita shukar ada Rab da
-  Koi baaj bhirawaan de ainj na ghareeb howay
-  Sir babay da sina te haye be rida ne mawaan
+  Koi baajh bhraawaan de ainj na gharib howe
+  Sir baabe da sinaan te haaye berida ne maawaan
   Tere qatilaan taun mangiyaan Sajjad ne ridawaan
-  Koi qaidnaa de kolon ainj chadraan na khoway
-  Phulaan jaye Asghar nu Shabbir ne dafnaya
-  Ujari Rubab, Ghazi khaimay che wain paya
-  Haye tapdiyaan ne raitaan kiwein mera lal soway
-  Jehray rokday ne bibi tere veer de matam nu
-  Najfi aye aakhda si oss mullaan te aalam nu
-  Shabbir da hathaan taun pehlaan oh khon toway
+  Koi qaidnaan de kolon ainj chaadraan na khowe
+  Phullaan jae Asghar nun Shabbir ne dafnaaya
+  Ujri Rubab, Ghazi khaime che wain paaya
+  Haaye tapdiyaan ne raitaan kiwein mera laal sowe
+  Jehre rokde ne Bibi tere veer de maatam nun
+  Najfi ae aakhda si os mullaan te aalam nun
+  Shabbir da hathaan taun pehlaan oh khun dhowe
 ---
 
 ۱

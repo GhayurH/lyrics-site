@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sada ye deti thi zehra mera Husain Husain
-  Hai tin roz ka pyasa mera Husain Husain
+  Sada ye deti thi Zehra mera Husain Husain
+  Hai tin roz ka pyaasa mera Husain Husain
   Khara hai dasht meiṅ tanha mera Husain Husain
-  Koi bachale Husain ko mere
-  Sada ye fatema zehra ki gunji maqtal meiṅ
-  Hai mera laal akela nahi koi yawar
-  Taras to khao koi is gharib o muztar par
+  Koi bacha le Husain ko mere
+  Sada ye Fatema Zehra ki gunji maqtal meiṅ
+  Hai mera laal akela nahiṅ koi yaawar
+  Taras to khaao koi is gharib o muztar par
   Chala na de ye sitamgar Husain par khanjar
-  Koi bachale Husain ko...
+  Koi bacha le Husain ko...
   Ye kaisa ajr diya tum ne meri khidmat ka
-  Koi to karde ada aaj haq risalat ka
-  Madad ko aaye koi waqt hai qayamat ka
-  Koi bachale Husain ko...
-  Zara to socho mohamed ka ye nawasa hai
-  E logoṅ din e khuda ka yehi asaasa hai
-  Bala ke dasht meiṅ seh roz ka ye pyasa hai
-  Koi bachale Husain ko...
-  Kahiṅ se aate hai pathar kahiṅ se tir o tabar
-  Sitam hai kaisa hazaroṅ hai zakhm ek dil par
-  Ghira hai nargha-e-aada meiṅ mera lakhte jigar
-  Koi bachale Husain ko...
-  Jo mujhpe bit rahi hai bata nahi sakti
-  Jo zakhm dil pe lage wo dikha nahi sakti
-  Mai apne lakhte jigar ko bacha nahi sakti
-  Koi bachale Husain ko...
-  Mai ek maa hoo mujhe sabr kis tarha aaye
-  Nabi ki beti hoo mujh par koi taras khaaye
-  Mai qatl gaah meiṅ karti hoo bain ye haye
-  Koi bachale Husain ko...
-  Tamaam ahle jahaṅ ne sada suni safdar
-  Gharib maa ki ye aah o buka suni safdar
-  Fughaṅ ye sab ne sar e nainawa suni safdar
-  Koi bachale Husain ko...
+  Koi to kar de ada aaj haq-e-risaalat ka
+  Madad ko aaye koi waqt hai qayaamat ka
+  Koi bacha le Husain ko...
+  Zara to socho Muhammad ka ye nawaasa hai
+  Ae logoṅ din-e-Khuda ka yahi asaasa hai
+  Bala ke dasht meiṅ seh roz ka ye pyaasa hai
+  Koi bacha le Husain ko...
+  Kahiṅ se aate haiṅ patthar kahiṅ se tir o tabar
+  Sitam hai kaisa hazaaroṅ hai zakhm ik dil par
+  Ghira hai nargha-e-aadaa meiṅ mera lakht-e-jigar
+  Koi bacha le Husain ko...
+  Jo mujh pe bit rahi hai bata nahiṅ sakti
+  Jo zakhm dil pe lage wo dikha nahiṅ sakti
+  Main apne lakht-e-jigar ko bacha nahiṅ sakti
+  Koi bacha le Husain ko...
+  Main ek maaṅ huṅ mujhe sabr kis tarah aaye
+  Nabi ki beti huṅ mujh par koi taras khaaye
+  Main qatl gaah meiṅ karti huṅ bain ye haaye
+  Koi bacha le Husain ko...
+  Tamaam ahl-e-jahaaṅ ne sada suni Safdar
+  Gharib maaṅ ki ye aah o buka suni Safdar
+  Fughaaṅ ye sab ne sar-e-Nainawa suni Safdar
+  Koi bacha le Husain ko...
 ---
 
 ۱

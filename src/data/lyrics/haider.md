@@ -13,14 +13,14 @@ aliases: ["Hyder"]
 published: true
 romanLyrics: |-
   Khana-e-Haider meiṅ bapa shor-e-buka Haider
-  Wavaila haye wavaila
+  Waawaila haaye waawaila
 
   1
   Qatl-e-Ali ki khabar aayi jo masjid se ghar
   Gunj uthi naala o shewan ki sada Haider
 
   2
-  Kufe ke bewaoṅ yatimoṅ ka hai nauha
+  Kufe ke bewaaoṅ yatimoṅ ka hai nauha
   Qatl hua aaj ghariboṅ ka sahaara
   Karte haiṅ nauha yahi saare masaakin bhi
   Gham ke asiroṅ ka masiha na raha Haider
@@ -32,15 +32,15 @@ romanLyrics: |-
   Roti hai Jibril ke nauhe pe fiza Haider
 
   4
-  Kufe ke ghar ghar meiṅ ye kohraam bapa hai
+  Kufe ke ghar ghar meiṅ ye kahraam bapa hai
   Khun-e-Ali sajda-e-Khaaliq meiṅ baha hai
   Rote haiṅ jin o bashar hai ye fughaaṅ arsh par
-  Marqad-e-Zehra o Nabi kaamp utha Haider
+  Marqad-e-Zehra o Nabi kaanp utha Haider
 
   5
   Kaise lafzoṅ meiṅ bayaaṅ hoga shahaadat naama
   Khaak uraate the haram mahv-e-buka thiṅ Fizza
-  Haaye ikkiswiṅ Ramzaan thi wo wavaila
+  Haaye ikkiswiṅ Ramzaan thi wo waawaila
   Ghar meiṅ Zehra ke hui kaisi qayaamat barpa
   Kehte the ahl-e-haram taaza tha Zehra ka gham
   Kar gaye duniya se safar uqda kusha Haider

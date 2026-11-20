@@ -9,141 +9,73 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Taboot E Hussain Nadeem Sarwar"
-romanLyrics: 'Taboot E Hussain Nadeem Sarwar Lyrics
-
-  Aa Raha Hai Taboot-e-Hussain-e-Ghareeb Wawela Wawela.
-
+romanLyrics: |-
+  Waawela waawela
 
   1
-
-  Momino Uthta Hai Taboot-e-Ghareeb-e-Zahra.
-
-  Jis Ko Nu Lakh Laeeno Ne Daga Se Mara.
-
-  Pusht-e-Gardan Se Jisay Haye Ghazab Qatal Kiya.
-
-  Darmiyaan Zeen-o-Zameen Ke Raha Jis Ka Lasha.
-
+  Aa raha hai tabut-e-Husain-e-Gharib
+  Mominoṅ uthta hai tabut-e-gharib-e-Zahra
+  Jis ko nau laakh lainoṅ ne dagha se maara
+  Pusht-e-gardan se jise haaye ghazab qatl kiya
+  Darmiyaaṅ zin o zamiṅ ke raha jis ka laasha
+  Chaudah sadiyoṅ se jise ahl-e-aza rote haiṅ
+  Aise bekas ko Husain ibn-e-Ali kehte haiṅ
 
   2
-
-  Chodah Sadiyon Se Jisay Ahl-e-Azza Rotay Hain.
-
-  Aisay Bekas Ko Hussain Ibn-e-Ali Kehte Hain.
-
-  Oss Ka Taboot Hai Jis Ne Hai Bara Gham Dekha.
-
-  Apna Ghar Luttay Hoye Daswein Muharram Dekha.
-
+  Us ka tabut hai jis ne hai bara gham dekha
+  Apna ghar lutte hue dasveṅ Muharram dekha
+  Apne ansaar rafiqoṅ ko lab-e-dam dekha
+  Akbar o Qasim o Abbas ka maatam dekha
+  Subah se shaam talak laashoṅ pe laashe laaya
+  Us ki ik laash koi bhi na uthaane aaya
 
   3
-
-  Apne Ansar Rafiqon Ko Lab-e-Dam Dekha.
-
-  Akbar-o-Qasim-o-Abbas Ka Matam Dekha.
-
-  Subha Se Sham Talak Lashon Pe Lashein Laya.
-
-  Oss Ki Ik Lash Koi Bhi Na Uthane Aaya.
-
+  Jab bhi tabut ye uthta hai kahiṅ waawela
+  Shaam se us ki behan aati hai karne girya
+  Saath ik bachchi bhi aati hai sunaane nauha
+  Apne baaba ke azaadaaroṅ ko deti hai dua
+  Daur ke baaba ke tabut pe gir jaati hai
+  Tabut se rone ki sada aati hai
 
   4
-
-  Jab Bhi Taboot Yeh Uthta Hai Kahin Wawela.
-
-  Sham Se Iss Ki Behan Aati Hai Karne Giriya.
-
-  Sath Ik Bachi Bhi Aati Hai Sunanay Noha.
-
-  Apne Baba Ke Azadaron Ko Deti Hai Dua.
-
+  Us ka ek beta tha athaarah baras ka Akbar
+  Ayyuhal badr-e-tamaami tha yahi nur-e-nazar
+  Biyaah ke din the bahut khush thi behan aur maadar
+  Haaye afsos sinaaṅ kaat gai us ka jigar
+  Us ki majbur zaifi ko sahaara dene
+  Aaj aaya hai ye tabut ko kaandha dene
 
   5
-
-  Door Ke Baba Ke Taboot Pe Gir Jati Hai.
-
-  Haye Taboot Se Roney Ki Sada Aati Hai.
-
-  Iss Ka Ik Beta Tha Atharah Baras Ka Akbar.
-
-  Ayyu Halbadar-e-Tamami Tha Yehi Noor-e-Nazar.
-
+  Jis ka tabut hai ik bhaai tha us ka Safdar
+  Log kehte the use Karb o Bala ka Haidar
+  Ho ke bedast gira jab vo zamiṅ ke upar
+  Bas usi din se na sidhi hui bekas ki kamar
+  Jab jahaaṅ bhi kahiṅ tabut baraamad ye hua
+  Barh ke karta hai Alamdaar ka parcham saaya
 
   6
-
-  Biyah Ke Din They Bohat Khush Thin Behan Our Madar.
-
-  Haye Afsoos Sina Kaat Gayi Oss Ka Jigar.
-
-  Iss Ki Majboor Zaeefi Ko Sahara Deney.
-
-  Aaj Aaya Hai Yeh Taboot Ko Kandah Deney.
-
+  Zer-e-tabut jo nanha sa ye gahwaara hai
+  Is se zaahir hai ke baaba ko bahut pyaara hai
+  Kurta is bachche ka bhi khun meiṅ tar saara hai
+  Is ke haathoṅ pe lainoṅ ne ise maara hai
+  Saath tabut ke shaamil haiṅ azaadaaroṅ meiṅ
+  Sab se kamsin ye azaadaar hai ghamkhwaaroṅ meiṅ
 
   7
-
-  Jis Ka Taboot Hai Ik Bhai Tha Iss Ka Safdar.
-
-  Loag Kehte They Ossay Karb-o-Bala Ka Haider.
-
-  Ho Ke Be Dast Gira Jab Woh Zameen Ke Opar.
-
-  Bas Ossi Din Se Na Seedhi Hoi Bekas Ki Kamar.
-
+  Asr ka waqt tha ghash kha ke jo ghore se gira
+  Is nihatte pe jo hazaaroṅ ka jo lashkar tuta
+  Ho ke behosh ye phir zin se ghore ki gira
+  Darmiyaaṅ zin o zamiṅ haaye badan tha is ka
+  Thi behan saamne jab sine pe jallaad charha
+  Maaṅ ke zaanuṅ pe tha jab haaye gala us ka kata
 
   8
-
-  Jab Jahan Bhi Kahin Taboot Baraamad Yeh Howa.
-
-  Aray Barh Ke Karta Hai Alamdar Ka Parcham Saya.
-
-  Zair-e-Taboot Jo Nana Sa Yeh Gehwara Hai.
-
-  Iss Se Zahir Hai Keh Baba Ko Bohat Pyara Hai.
-
-
-  9
-
-  Kurta Iss Bachay Ka Bhi Khon Mein Tar Sara Hai.
-
-  Iss Ke Hathoon Pe Laeeno Ne Issay Mara Hai.
-
-  Sath Taboot Ke Shamil Hain Azadaron Mein.
-
-  Sab Se Kam Sin Yeh Azadar Hai Ghumkhuwaron Mein.
-
-
-  10
-
-  Asar Ka Waqt Tha Gash Kha Ke Jo Ghorey Se Gira.
-
-  Iss Nehatay Pe Hazaron Ka Jo Lashkar Toota.
-
-  Ho Ke Be Hosh Yeh Phir Zeen Se Ghorey Ki Gira.
-
-  Darmiyaan Zeen-o-Zameen Haye Badan Tha Iss Ka.
-
-
-  11
-
-  Thi Behan Samne Jab Seene Pe Jalad Charha.
-
-  Aray Maa Ke Zanu Pe Tha Jab Haye Galla Iss Ka Kata.
-
-  Shor-e-Matam Mein Yeh Kaun Aaya Basad Aah-o-Boka.
-
-  Ke Loag Chilaney Lagay Ya Ali Haider Maula.
-
-
-  12
-
-  Sath Ik Bibi Hai Orhay Hoye Kala Burqa.
-
-  Kehti Hai Maa Hoon Teri Pehlu Shikasta Zahra.
-
-  Kya Adab:SARWAR-o-REHAN: Nazar Aata Hai.
-
-  Maa Padar Ke Liye Taboot Jhuka Jata Hai.'
+  Shor-e-maatam meiṅ ye kaun aaya basad aah o buka
+  Ke log chillaane lage ya Ali Haidar Maula
+  Saath ek Bibi hai orhe hue kaala burqa
+  Kehti hai maaṅ huṅ teri pehlu shikasta Zahra
+  Kya adab Sarwar o Rehaan nazar aata hai
+  Maaṅ pidar ke liye tabut jhuka jaata hai
 ---
 
 واویلا واویلا

@@ -1,37 +1,64 @@
 ---
-title: "Madh E Abbas Alamdar Syed Mudassir Mehdi"
+title: "مدحِ عباس علمدار سید مدثر مہدی"
+alternateTitle: "Madh-e-Abbas Alamdar Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Fazal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Madh-e-Abbas Alamdar Syed Mudassir Mehdi
+
+  1
+  Madh-e-abbas jo karne ko sana gar aaye
+  Dad deney ke liye Saqi-e-Kausar aaye
+  Chaar Shaban ke din farsh bana Arsh-e-Barin
+  Khud qamar ban ke hain Abbas-e-Dilawar aaye
+  Chor kar arsh malak jis ka jholaein jhola
+  Shah woh jhola jholaney tera aksar aaye
+
+  2
+  Ik yad-e-baiza hai our aik assa hai unn ka
+  Mojzay lainay do Mosa ik alam par aaye
+  Hukam Abbas-e-Dilawar ka agar ho jaye
+  Chal ke khud nehar abhi mashk ke andar aaye
+  Keh do Jibreel se hai ghaiz mein Abbas-e-Ali
+  Aaj dam Nad-e-Ali kar ke paron par aaye
+
+  3
+  Man-o-salwa tu koi maida bhola howa tha
+  Jab Nabi hazari Abbas ki chakh kar aaye
+  Khuld se chutna bhi Aadam ka humein yaad aaya
+  Jab qadam Roza-e-Abbas se bahir aaye
+  Fazal Abbas ke parcham ko main jab jab chomo
+  Khud dua deney Nabi ki mujhe dukhtar aaye
 ---
 
-Madh e Abbas Alamdar Syed Mudassir Mehdi.
+مدحِ عباس علمدار سید مدثر مہدی
 
-1
-Madh-e-Abbas Jo Karne Ko Sana Gar Aaye.
-Dad Deney Ke Liye Saqi-e-Kausar Aaye.
-Chaar Shaban Ke Din Farsh Bana Arsh-e-Barin.
-Khud Qamar Ban Ke Hain Abbas-e-Dilawar Aaye.
-Chor Kar Arsh Malak Jis Ka Jholaein Jhola.
-Shah Woh Jhola Jholaney Tera Aksar Aaye.
+۱
+مدحِ عباس جو کرنے کو ثنا گر آئے
+داد دینے کے لیے ساقیِ کوثر آئے
+چار شعبان کے دن فرش بنا عرشِ بریں
+خود قمر بن کے ہیں عباسِ دلاور آئے
+چھوڑ کر عرش مَلک جس کا جھلائیں جھولا
+شاہ وہ جھولا جھلانے تیرا اکثر آئے
 
-2
-Ik Yad-e-Baiza Hai Our Aik Assa Hai Unn Ka.
-Mojzay Lainay Do Mosa Ik Alam Par Aaye.
-Hukam Abbas-e-Dilawar Ka Agar Ho Jaye.
-Chal Ke Khud Nehar Abhi Mashk Ke Andar Aaye.
-Keh Do Jibreel Se Hai Ghaiz Mein Abbas-e-Ali.
-Aaj Dam Nad-e-Ali Kar Ke Paron Par Aaye.
+۲
+اک یدِ بیضا ہے اور ایک عصا ہے ان کا
+معجزے لینے دو موسیٰ اک علم پر آئے
+حکم عباسِ دلاور کا اگر ہو جائے
+چل کے خود نہر ابھی مشک کے اندر آئے
+کہہ دو جبرئیل سے ہے غیظ میں عباسِ علی
+آج دم نادِ علی کر کے پروں پر آئے
 
-3
-Man-o-Salwa Tu Koi Maida Bhola Howa Tha.
-Jab Nabi Hazari Abbas Ki Chakh Kar Aaye.
-Khuld Se Chutna Bhi Aadam Ka Humein Yaad Aaya.
-Jab Qadam Roza-e-Abbas Se Bahir Aaye.
- Fazal Abbas Ke Parcham Ko Main Jab Jab Chomo.
-Khud Dua Deney Nabi Ki Mujhe Dukhtar Aaye.
+۳
+من و سلویٰ تو کوئی مائدہ بھولا ہوا تھا
+جب نبی حاضری عباس کی چکھ کر آئے
+خلد سے چھوٹنا بھی آدم کا ہمیں یاد آیا
+جب قدم روضۂ عباس سے باہر آئے
+فضل عباس کے پرچم کو میں جب جب چوموں
+خود دعا دینے نبی کی مجھے دختر آئے

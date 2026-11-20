@@ -1,7 +1,7 @@
 ---
 title: "عاشور کو جلتے خیموں میں"
 recitationId: "ashoor-ko-jalte-qaimon"
-alternateTitle: "Aashur Ko Jalte Khaimoṅ"
+alternateTitle: "Aashur Ko Jalte Khaimoṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,49 +13,49 @@ aliases: []
 published: true
 romanLyrics: |-
   Aashur ko jalte khaimoṅ meiṅ
-  Kya janiye kya kya chhut gaya
-  Ghabra ke nikal aayi Bano
+  Kya jaaniye kya kya chhut gaya
+  Ghabraa ke nikal aayi Bano
   Beshir ka jhula chhut gaya
 
   1
   Nur aankhoṅ ka Akbar le ke gaye
   Nazroṅ meiṅ andhera chhut gaya
-  Yuṅ laash uthayi Maula ne
+  Yuṅ laash uthaai Maula ne
   Barchhi meiṅ kaleja chhut gaya
 
   2
-  Darya ke kanare mehmani
-  Aur band hai kismat se pani
+  Darya ke kinaare mehmaani
+  Aur band hai qismat se paani
   Ae behti maujoṅ dekh to lo
-  Beshir bhi pyasa chhut gaya
+  Beshir bhi pyaasa chhut gaya
 
   3
   Islam ki nazreṅ dekh to le
   Imaan zara pehchaan to le
   Ye kaun hai Bibi Kufe meiṅ
-  Ye kiska parda chhut gaya
+  Ye kis ka parda chhut gaya
 
   4
   Saahil ke qarib ghore se gire
   Abbas ko jalti khaak mili
-  Shabbir ka daaman chut na saka
+  Shabbir ka daaman chhut na saka
   Behta hua darya chhut gaya
 
   5
   Ye paara paara laasha hai
   Shabbir ka jalti reti par
-  Peshani-e-Aalam jhukne ko
-  Ya khaak pa Kaaba chhut gaya
+  Peshaani-e-aalam jhukne ko
+  Ya khaak pe Kaaba chhut gaya
 
   6
-  Cheh maah ke bachche ki himmat
+  Chhe maah ke bachche ki himmat
   Anjaam se nazreṅ takraaiṅ
-  Hoṅtoṅ pe hansi lehrane lagi
+  Hontoṅ pe hansi lehraane lagi
   Beshir ka rona chhut gaya
 
   7
   Kya le ke gaye kya le jaate
-  Bano ko nishani de ke gaye
+  Bano ki nishaani de ke gaye
   Ik khaali jhula chhut gaya
   Ik nanha sa kurta chhut gaya
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   Ye Fazl Husaini shayar ka
   Shabbir se barh kar koi nahiṅ
   Maula ka bharosa jab se kiya
-  Dunya ka sahara chhut gaya
+  Dunya ka sahaara chhut gaya
 ---
 
 عاشور کو جلتے خیموں میں

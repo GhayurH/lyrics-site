@@ -1,37 +1,60 @@
 ---
-title: "Ali Ne Dekha Hai Zeeshan Abidi"
+title: "علی نے دیکھا ہے ذیشان عابدی"
+alternateTitle: "Ali Ne Dekha Hai Zeeshan Abidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khuda hai kaun yeh Maula Ali ne dekha hai
+  Jo koi dekh na paya Ali ne dekha hai
+  Idhar se dekha Muhammad ne parda e Mairaj
+  Our oss taraf se woh pardah Ali ne dekha hai
+  Yeh muskura ke kaha shukriya Janab-e-Batool
+  Jab apne dar pe sitara Ali ne dekha hai
+
+  2
+  Jo tum se Toor pe dekha nahi gaya Mosa
+  Qasam Khuda ki woh jalwa Ali ne dekha hai
+  Galay pe jis ke bas ik bar Zulfiqar rakhi
+  Kab oss ko mur ke dobarah Ali ne dekha hai
+  Aye Jibraeel yeh Sidrah hai laut jao tum
+  Yahan se aagay ka rasta Ali ne dekha hai
+
+  3
+  Tu janta hai Ali ka laqab hai Ainullah
+  Tu phir bhi shak mein hai kya kya Ali ne dekha hai
+  Parhi jo Nehj-e-Balaga tu youn laga dunya
+  Bana raha tha Ali ya Ali ne dekha hai
+  Utha ke Ghazi ko Zeeshan kyun na khush hoon Ali
+  Khud aaj apna hi chehra Ali ne dekha hai
 ---
 
-Ali Ne Dekha Hai Zeeshan Abidi
+۱
+خدا ہے کون یہ مولا علی نے دیکھا ہے
+جو کوئی دیکھ نہ پایا علی نے دیکھا ہے
+ادھر سے دیکھا محمد نے پردۂ معراج
+اور اس طرف سے وہ پردہ علی نے دیکھا ہے
+یہ مسکرا کے کہا شکریہ جنابِ بتول
+جب اپنے در پہ ستارا علی نے دیکھا ہے
 
-1
-Khuda Hai Kaun Yeh Maula Ali Ne Dekha Hai.
-Jo Koi Dekh Na Paya Ali Ne Dekha Hai.
-Idhar Se Dekha Muhammad Ne Parda e Mairaj.
-Our Oss Taraf Se Woh Pardah Ali Ne Dekha Hai.
-Yeh Muskura Ke Kaha Shukriya Janab-e-Batool.
-Jab Apne Dar Pe Sitara Ali Ne Dekha Hai.
+۲
+جو تم سے طور پہ دیکھا نہیں گیا موسیٰ
+قسم خدا کی وہ جلوہ علی نے دیکھا ہے
+گلے پہ جس کے بس اک بار ذوالفقار رکھی
+کب اس کو مڑ کے دوبارہ علی نے دیکھا ہے
+اے جبرائیل یہ سدرہ ہے لوٹ جاؤ تم
+یہاں سے آگے کا راستہ علی نے دیکھا ہے
 
-2
-Jo Tum Se Toor Pe Dekha Nahi Gaya Mosa.
-Qasam Khuda Ki Woh Jalwa Ali Ne Dekha Hai.
-Galay Pe Jis Ke Bas Ik Bar Zulfiqar Rakhi.
-Kab Oss Ko Mur Ke Dobarah Ali Ne Dekha Hai.
-Aye Jibraeel Yeh Sidrah Hai Laut Jao Tum.
-Yahan Se Aagay Ka Rasta Ali Ne Dekha Hai.
-
-3
-Tu Janta Hai Ali Ka Laqab Hai Ainullah.
-Tu Phir Bhi Shak Mein Hai Kya Kya Ali Ne Dekha Hai.
-Parhi Jo Nehj-e-Balaga Tu Youn Laga Dunya.
-Bana Raha Tha Ali Ya Ali Ne Dekha Hai.
-Utha Ke Ghazi Ko Zeeshan Kyun Na Khush Hoon Ali.
-Khud Aaj Apna Hi Chehra Ali Ne Dekha Hai.
+۳
+تو جانتا ہے علی کا لقب ہے عین اللہ
+تو پھر بھی شک میں ہے کیا کیا علی نے دیکھا ہے
+پڑھی جو نہجِ بلاغہ تو یوں لگا دنیا
+بنا رہا تھا علی یا علی نے دیکھا ہے
+اٹھا کے غازی کو ذیشان کیوں نہ خوش ہوں علی
+خود آج اپنا ہی چہرہ علی نے دیکھا ہے

@@ -1,34 +1,56 @@
 ---
-title: "Sana-E-Zainab Hamza Rizvi"
+title: "ثنائے زینب حمزہ رضوی"
+alternateTitle: "Sana-e-Zainab Hamza Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mere labon pe hai jo aap ki sana Zainab
+  Karam hai Ghazi ka Shabeer ki atta Zainab
+  Mufasron se na tafseer ho saki jis ki
+  Hussainiyat hai woh aayat tu tarjuma Zainab
+  Khuda se manga hai sajdoon mein khud unhon ne tujhe
+  Ali se pochay koi tera martaba Zainab
+  Woh takht Sham ke hakim ko naaz tha jis par
+  Woh takht aap ne takhta bana diya Zainab
+  Tu theek karti hain chadar ko sar pe aurtein sab
+  Jo tera hota hai majlis mein tazkira Zainab
+  Uthaon sar main teri bargah mein kaisay
+  Yahan adab se kharey hain khud anbiya Zainab
+  Hai matami koi mushkil, pukar bibi ko
+  Hussain kehte they mushkil mein khud bhi ya Zainab
+  Safar jo Sham ka dekha tu Hajra bolein
+  Khuda ka kam tha jo aap ne kiya Zainab
+  Tumhare ashk Saloni ki de rahe they sada
+  Hussain kya hai koi tum se pochta Zainab
+  Parho jo ghoor se Quran-e-Karbala tu Asad
+  Warq warq pe miley ga likha howa Zainab
 ---
 
-1
-Sana-E-Zainab Hamza Rizvi Lyrics
-Mere Labon Pe Hai Jo Aap Ki Sana Zainab.
-Karam Hai Ghazi Ka Shabeer Ki Atta Zainab.
-Mufasron Se Na Tafseer Ho Saki Jis Ki.
-Hussainiyat Hai Woh Aayat Tu Tarjuma Zainab.
-Khuda Se Manga Hai Sajdoon Mein Khud Unhon Ne Tujhe.
-Ali Se Pochay Koi Tera Martaba Zainab.
-Woh Takht Sham Ke Hakim Ko Naaz Tha Jis Par.
-Woh Takht Aap Ne Takhta Bana Diya Zainab.
-Tu Theek Karti Hain Chadar Ko Sar Pe Aurtein Sab.
-Jo Tera Hota Hai Majlis Mein Tazkira Zainab.
-Uthaon Sar Main Teri Bargah Mein Kaisay.
-Yahan Adab Se Kharey Hain Khud Anbiya Zainab.
-Hai Matami Koi Mushkil, Pukar Bibi Ko.
-Hussain Kehte They Mushkil Mein Khud Bhi Ya Zainab.
-Safar Jo Sham Ka Dekha Tu Hajra Bolein.
-Khuda Ka Kam Tha Jo Aap Ne Kiya Zainab.
-Tumhare Ashk Saloni Ki De Rahe They Sada.
-Hussain Kya Hai Koi Tum Se Pochta Zainab.
-Parho Jo Ghoor Se Quran-e-Karbala Tu Asad.
-Warq Warq Pe Miley Ga Likha Howa Zainab.
+۱
+میرے لبوں پہ ہے جو آپ کی ثنا زینب
+کرم ہے غازی کا شبیر کی عطا زینب
+مفسروں سے نہ تفسیر ہو سکی جس کی
+حسینیت ہے وہ آیت تو ترجمہ زینب
+خدا سے مانگا ہے سجدوں میں خود انہوں نے تجھے
+علی سے پوچھے کوئی تیرا مرتبہ زینب
+وہ تخت شام کے حاکم کو ناز تھا جس پر
+وہ تخت آپ نے تختہ بنا دیا زینب
+تو ٹھیک کرتی ہیں چادر کو سر پہ عورتیں سب
+جو تیرا ہوتا ہے مجلس میں تذکرہ زینب
+اٹھاؤں سر میں تیری بارگاہ میں کیسے
+یہاں ادب سے کھڑے ہیں خود انبیا زینب
+ہے ماتمی کوئی مشکل، پکار بی‌بی کو
+حسین کہتے تھے مشکل میں خود بھی یا زینب
+سفر جو شام کا دیکھا تو ہاجرہ بولیں
+خدا کا کام تھا جو آپ نے کیا زینب
+تمہارے اشک سلونی کی دے رہے تھے صدا
+حسین کیا ہے کوئی تم سے پوچھتا زینب
+پڑھو جو غور سے قرآنِ کربلا تو اسد
+ورق ورق پہ ملے گا لکھا ہوا زینب

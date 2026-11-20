@@ -1,63 +1,115 @@
 ---
-title: "Dekh Rahi Hai Zahra"
+title: "دیکھ رہی ہے زہرا"
+alternateTitle: "Dekh Rahi Hai Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Joan Rizvi"
 poet: "Qasim"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Roti aankhon se yeh sab dekh rahi hai Zahra
+  Kalma go baithay hain khamosh khari hai Zahra
+
+  1
+  Mujh pe kiya guzri qayamat ki ghari bhi dekhein
+  Mere baloon mein marey Baba safaidi dekhein
+  Jhuk gayi meri kamar our zaeefi dekhein
+  Kaisay pehchano gay Baba keh yehi hai Zahra
+
+  2
+  Aik hi peshi ne yeh haal kiya hai mera
+  Kaisay guzrey ga aseeri mein safar Zainab ka
+  Cheen li jaye gi jab Sham-e-Ghareebaan mein rida
+  Thamay chadar ko yehi soch rahi hai Zahra
+
+  3
+  Dar jala ho gaya pehlu bhi shikasta Bibi
+  Aap ko mara hai Qunfuz ne tamacha Bibi
+  Ban gaya aap ka maqtal yeh Madina Bibi
+  Aap par tooti qayamat ki ghari hai Zahra
+
+  4
+  Koi mastoor na mushkil mein Khudaya aaye
+  Fatima dil ke sabhi dard kisay batlaye
+  Maa kabhi betay ke hotey na tamacha khaye
+  Gham tere seene mein naizay ki anni hai Zahra
+
+  5
+  Hai giraftar Ali chalti hai Zahra pichey
+  Hath pehlu pe rakhay our larkharatay hoye
+  Bain kartay hoye girti hai rida ko thamay
+  Har qadam sath youn Haider ke chali hai Zahra
+
+  6
+  Yeh tamachay ki wirasat tu Sakina le gi
+  Keel ban jaye gi Akbar ke jigar mein barchi
+  Khum yeh Sajjad ko Zainab ko miley gi peshi
+  Apni aoulad mein gham bant chuki hai Zahra
+
+  7
+  Iss tarha Bibi tera sajdah ada hota hai
+  Zakhm ka khon musallay pe baha jata hai
+  Hath har waqt hi pehlu pe rakha rehta hai
+  Kaisi tasveer musayab ki bani hai Zahra
+
+  8
+  Sabar Qasim youn sar-e-gaib kiya hai oss ne
+  Taig par soch ke hathoon ko rakha hai oss ne
+  Kyun nahi badlah abhi tera liya hai oss ne
+  Tere Mehdi ko aziyat yeh bari hai Zahra
 ---
 
-Roti Aankhon Se Yeh Sab Dekh Rahi Hai Zahra
-Kalma Go Baithay Hain Khamosh Khari Hai Zahra
+روتی آنکھوں سے یہ سب دیکھ رہی ہے زہرا
+کلمہ گو بیٹھے ہیں خاموش کھڑی ہے زہرا
 
-1
-Mujh Pe Kiya Guzri Qayamat Ki Ghari Bhi Dekhein
-Mere Baloon Mein Marey Baba Safaidi Dekhein
-Jhuk Gayi Meri Kamar Our Zaeefi Dekhein
-Kaisay Pehchano Gay Baba Keh Yehi Hai Zahra
+۱
+مجھ پہ کیا گزری قیامت کی گھڑی بھی دیکھیں
+میرے بالوں میں میرے بابا سفیدی دیکھیں
+جھک گئی میری کمر اور ضعیفی دیکھیں
+کیسے پہچانو گے بابا کہ یہی ہے زہرا
 
-2
-Aik Hi Peshi Ne Yeh Haal Kiya Hai Mera
-Kaisay Guzrey Ga Aseeri Mein Safar Zainab Ka
-Cheen Li Jaye Gi Jab Sham-e-Ghareebaan Mein Rida
-Thamay Chadar Ko Yehi Soch Rahi Hai Zahra
+۲
+ایک ہی پیشی نے یہ حال کیا ہے میرا
+کیسے گزرے گا اسیری میں سفر زینب کا
+چھین لی جائے گی جب شامِ غریباں میں ردا
+تھامے چادر کو یہی سوچ رہی ہے زہرا
 
-3
-Dar Jala Ho Gaya Pehlu Bhi Shikasta Bibi
-Aap Ko Mara Hai Qunfuz Ne Tamacha Bibi
-Ban Gaya Aap Ka Maqtal Yeh Madina Bibi
-Aap Par Tooti Qayamat Ki Ghari Hai Zahra
+۳
+در جلا ہو گیا پہلو بھی شکستہ بی‌بی
+آپ کو مارا ہے قنفذ نے تماچا بی‌بی
+بن گیا آپ کا مقتل یہ مدینہ بی‌بی
+آپ پر ٹوٹی قیامت کی گھڑی ہے زہرا
 
-4
-Koi Mastoor Na Mushkil Mein Khudaya Aaye
-Fatima Dil Ke Sabhi Dard Kisay Batlaye
-Maa Kabhi Betay Ke Hotey Na Tamacha Khaye
-Gham Tere Seene Mein Naizay Ki Anni Hai Zahra
+۴
+کوئی مستور نہ مشکل میں خدایا آئے
+فاطمہ دل کے سبھی درد کسے بتلائے
+ماں کبھی بیٹے کے ہوتے نہ تماچا کھائے
+غم ترے سینے میں نیزے کی انی ہے زہرا
 
-5
-Hai Giraftar Ali Chalti Hai Zahra Pichey
-Hath Pehlu Pe Rakhay Our Larkharatay Hoye
-Bain Kartay Hoye Girti Hai Rida Ko Thamay
-Har Qadam Sath Youn Haider Ke Chali Hai Zahra
+۵
+ہے گرفتار علی چلتی ہے زہرا پیچھے
+ہاتھ پہلو پہ رکھے اور لڑکھڑاتے ہوئے
+بین کرتے ہوئے گرتی ہے ردا کو تھامے
+ہر قدم ساتھ یوں حیدر کے چلی ہے زہرا
 
-6
-Yeh Tamachay Ki Wirasat Tu Sakina Le Gi
-Keel Ban Jaye Gi Akbar Ke Jigar Mein Barchi
-Khum Yeh Sajjad Ko Zainab Ko Miley Gi Peshi
-Apni Aoulad Mein Gham Bant Chuki Hai Zahra
+۶
+یہ تماچے کی وراثت تو سکینہ لے گی
+کیل بن جائے گی اکبر کے جگر میں برچھی
+خم یہ سجاد کو زینب کو ملے گی پیشی
+اپنی اولاد میں غم بانٹ چکی ہے زہرا
 
-7
-Iss Tarha Bibi Tera Sajdah Ada Hota Hai
-Zakhm Ka Khon Musallay Pe Baha Jata Hai
-Hath Har Waqt Hi Pehlu Pe Rakha Rehta Hai
-Kaisi Tasveer Musayab Ki Bani Hai Zahra
+۷
+اس طرح بی‌بی تیرا سجدہ ادا ہوتا ہے
+زخم کا خون مصلے پہ بہا جاتا ہے
+ہاتھ ہر وقت ہی پہلو پہ رکھا رہتا ہے
+کیسی تصویر مصائب کی بنی ہے زہرا
 
-8
-Sabar Qasim Youn Sar-e-Gaib Kiya Hai Oss Ne
-Taig Par Soch Ke Hathoon Ko Rakha Hai Oss Ne
-Kyun Nahi Badlah Abhi Tera Liya Hai Oss Ne
-Tere Mehdi Ko Aziyat Yeh Bari Hai Zahra
+۸
+صبر قاسم یوں سرِ غیب کیا ہے اس نے
+تیغ پر سوچ کے ہاتھوں کو رکھا ہے اس نے
+کیوں نہیں بدلہ ابھی تیرا لیا ہے اس نے
+تیرے مہدی کو اذیت یہ بڑی ہے زہرا

@@ -15,36 +15,36 @@ romanLyrics: |-
   Rehaai paa ke jo zindaaṅ se bewatan aayi
   Ye keh ke gir gayi naaqe se ro ke chillaayi
   Ke mere haal pe roti hai ab to tanhaai
-  Salaam karne ko aayi hai teri maa jaayi
+  Salaam karne ko aayi hai teri maaṅ jaayi
   Tu hi bata mere bhaiya kahaaṅ sukuṅ paauṅ
-  Madine jaauṅ ya Karb o Bala meiṅ reh jaauṅ
+  Madine jaauṅ ya Karb o Bala mein reh jaauṅ
 
   1
-  Sitam ne lut li ik din meiṅ kaainaat meri
+  Sitam ne lut li ik din mein kaainaat meri
   Na jaane kaise basar hogi ab hayaat meri
   Na din sukun se guzre ga na ab raat meri
   Kahaaṅ hai laal mere jo suneṅ ge baat meri
 
   2
-  Maiṅ tujh ko chhor ke bhaiya kahiṅ na jaauṅ gi
-  Maiṅ teri qabr ko apna watan banaauṅ gi
-  Maiṅ ek chhoti si basti yahiṅ basaauṅ gi
-  Maiṅ zaairin ko paani tere pilaauṅ gi
+  Main tujh ko chhor ke bhaiya kahiṅ na jaauṅ gi
+  Main teri qabr ko apna watan banaauṅ gi
+  Main ek chhoti si basti yahiṅ basaauṅ gi
+  Main zaairin ko paani tere pilaauṅ gi
 
   3
   Akeli reh gayi athaarah bhaaiyoṅ ki behan
-  Jo hota Ghaazi to banti na baazuoṅ meiṅ rasan
+  Jo hota Ghaazi to banti na baazuoṅ mein rasan
   Bataauṅ kya ke jo puchheṅ ge mujh se ahl-e-watan
   Husain ko diya tum ne bataao kaise kafan
 
   4
   Na koi tera yahaaṅ hai na koi mera wahaaṅ
-  Sakina Shaam meiṅ hai dafn aur tu hai yahaaṅ
+  Sakina Shaam mein hai dafn aur tu hai yahaaṅ
   Kahaaṅ kahaaṅ kise roye gi ab meri ammaaṅ
   Na hoga ab kabhi aabaad Faatima ka makaaṅ
 
   5
-  Yahaaṅ haiṅ Asghar-e-beshir aur wahaaṅ jhula
+  Yahaaṅ haiṅ Asghar-e-be shir aur wahaaṅ jhula
   Yahaaṅ pe Aun o Muhammad wahaaṅ pe Abdullah
   Jo puchha bachchoṅ ko un se kahuṅ gi kya bhaiya
   Madina dil hai mera ruh meri Karb o Bala
@@ -53,17 +53,17 @@ romanLyrics: |-
   Yahaaṅ hai Qaasim-e-khasta badan wahaaṅ Kubra
   Yahaaṅ shabih-e-Payambar wahaaṅ pe hai Sughra
   Wahaaṅ pe Fazl akela yahaaṅ pe hai kunba
-  Jawaab kitne sawaaloṅ ka duṅ gi maiṅ tanha
+  Jawaab kitne sawaaloṅ ka duṅ gi main tanha
 
   7
-  Ye haath jor ke kehti hai teri maa jaayi
+  Ye haath jor ke kehti hai teri maaṅ jaayi
   Duaaeṅ de gi mere bhai meri tanhaai
   Bas ek din ko mere saath chal mere bhai
-  Lage ga jaise Madine meiṅ phir bahaar aayi
+  Lage ga jaise Madine mein phir bahaar aayi
 
   8
   Lo jaa rahi hai behan alwida mere bhai
-  Rahi jo zinda to phir aaye gi ye maa jaayi
+  Rahi jo zinda to phir aaye gi ye maaṅ jaayi
   Raza ye sunte hi qabr-e-Husain tharraayi
   Phir is ke baad kabhi ye sada nahiṅ aayi
 ---

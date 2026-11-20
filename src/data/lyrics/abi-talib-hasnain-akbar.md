@@ -12,20 +12,20 @@ published: false
 romanLyrics: |-
   1
   Abi Talib Hasnain Akbar
-  Sakoot e Deen-e-Ibrahim, Sardab e Abi Talib
-  Azan-e-Ibn-e-Abdullah, Mehrab-e-Abi Talib
-  Muhammad ur Rasool Allah tehreer-e-Khudawandi
-  Magar tehreer ke harfoon pe ayerab e Abi Talib
-  Noshta sath yeh Islam ke bhaija Masabab ne
-  Baro e kar laye jaein asbab-e-Abi Talib
-  Abhi tak naat ne aayat ka lehja nahi paya
-  Abhi seekhay nahi dunya ne aadab-e-Abi Talib
-  Madina Kazmiya Karbala Maka Najaf Mashhad
-  Sabhi sheb e Abi Talib sabhi shab e Abi Talib
-  Khuda ne kar liye shamil sabhi asma-e-husna mein
-  Wohi jo ahl-e-Maka mein they alqab e Abi Talib
-  Riwayat kuch nahi Akbar yeh qayam se darait hai
-  Yaqeenan teen so terah hain ashab-e-Abi Talib
+  Sukut-e-din-e-Ibrahim, sardaab-e-Abi Talib
+  Azaan-e-ibn-e-Abdullah, mehraab-e-Abi Talib
+  Muhammadur Rasulullah tahrir-e-khudaawandi
+  Magar tahrir ke harfoṅ pe aeraab-e-Abi Talib
+  Naushta saath yeh Islaam ke bheja musabbib ne
+  Ba-ru-e-kaar laaye jaaeṅ asbaab-e-Abi Talib
+  Abhi tak naat ne aayat ka lehja nahiṅ paaya
+  Abhi sikhe nahiṅ duniya ne aadaab-e-Abi Talib
+  Madina Kaazmiya Karbala Makka Najaf Mashhad
+  Sabhi shib-e-Abi Talib sabhi shab-e-Abi Talib
+  Khuda ne kar liye shaamil sabhi asmaa-e-husna mein
+  Wohi jo ahl-e-Makka mein the alqaab-e-Abi Talib
+  Riwaayat kuchh nahiṅ Akbar yeh qiyaam se diraayat hai
+  Yaqinan tin sau terah haiṅ ashaab-e-Abi Talib
 ---
 
 ۱

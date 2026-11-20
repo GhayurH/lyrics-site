@@ -1,41 +1,72 @@
 ---
-title: "Dushmani Kya Thi Hasan Se Zulm Kyun Dhate Rahe"
+title: "دشمنی کیا تھی حسن سے ظلم کیوں ڈھاتے رہے"
+alternateTitle: "Dushmani Kya Thi Hasan Se Zulm Kyun Dhate Rahe"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Dushmani kya thi Hasan se zulm kyun dhate rahe
+  Kalma go maiyyat pe oss ki teer barsatay rahe
+  Lasha tha mazloom ka our marne walay kayi
+  Itnay marey teer maiyyat khon mein tar ho gayi
+
+  2
+  Bhai la ke ghar janaza kafan badlatay rahe
+  Jis tarha tukray kiya hai zehar ne mera jigar
+  Par gayi dein ko zarorat teri bhi Qasim agar
+  Ho ke tukray dein bachana Maula samjhatay rahe
+
+  3
+  Be dafan oss ka janaza haye mora zalimo
+  Gulshan-e-Zahra ka pehla phool tora zalimo
+  Aa mere pehlu mein so ja bibi farmatay rahe
+  Ujla tha tera kafan yeh lal kaisay ho gaya
+
+  4
+  Khainch kar lashay se teeron ko behan roi bara
+  Dekh kar halat Hasan ki bhai gash khatay rahe
+  Taras na aaya tujhey haye Jodah tu ne kya kiya
+  De di Qasim ko yateemi zehar mujh ko de diya
+
+  5
+  Ta hashar lanat ho tujh pe Maula farmatay rahe
+  Aa gaya wapis janaza do ghusal our do kafan
+  Kehte they Sajjad Ghazi na mila mujh ko izn
+  Be basi ke sare manzar haye tarpatay rahe
 ---
 
-1
-Dushmani Kya Thi Hasan Se Zulm Kyun Dhate Rahe.
-Kalma Go Maiyyat Pe Oss Ki Teer Barsatay Rahe.
-Lasha Tha Mazloom Ka Our Marne Walay Kayi.
-Itnay Marey Teer Maiyyat Khon Mein Tar Ho Gayi.
+۱
+دشمنی کیا تھی حسن سے ظلم کیوں ڈھاتے رہے
+کلمہ گو میت پہ اس کی تیر برساتے رہے
+لاشہ تھا مظلوم کا اور مارنے والے کئی
+اتنے مارے تیر میت خون میں تر ہو گئی
 
-2
-Bhai La Ke Ghar Janaza Kafan Badlatay Rahe.
-Jis Tarha Tukray Kiya Hai Zehar Ne Mera Jigar.
-Par Gayi Dein Ko Zarorat Teri Bhi Qasim Agar.
-Ho Ke Tukray Dein Bachana Maula Samjhatay Rahe.
+۲
+بھائی لا کے گھر جنازہ کفن بدلاتے رہے
+جس طرح ٹکڑے کیا ہے زہر نے میرا جگر
+پڑ گئی دیں کو ضرورت تیری بھی قاسم اگر
+ہو کے ٹکڑے دیں بچانا مولا سمجھاتے رہے
 
-3
-Be Dafan Oss Ka Janaza Haye Mora Zalimo.
-Gulshan-e-Zahra Ka Pehla Phool Tora Zalimo.
-Aa Mere Pehlu Mein So Ja Bibi Farmatay Rahe.
-Ujla Tha Tera Kafan Yeh Lal Kaisay Ho Gaya.
+۳
+بے دفن اس کا جنازہ ہائے موڑا ظالمو
+گلشنِ زہرا کا پہلا پھول توڑا ظالمو
+آ میرے پہلو میں سو جا بی‌بی فرماتے رہے
+اجلا تھا تیرا کفن یہ لال کیسے ہو گیا
 
-4
-Khainch Kar Lashay Se Teeron Ko Behan Roi Bara.
-Dekh Kar Halat Hasan Ki Bhai Gash Khatay Rahe.
-Taras Na Aaya Tujhey Haye Jodah Tu Ne Kya Kiya.
-De Di Qasim Ko Yateemi Zehar Mujh Ko De Diya.
+۴
+کھینچ کر لاشے سے تیروں کو بہن روئی بڑا
+دیکھ کر حالت حسن کی بھائی غش کھاتے رہے
+ترس نہ آیا تجھے ہائے جعدہ تو نے کیا کیا
+دے دی قاسم کو یتیمی زہر مجھ کو دے دیا
 
-5
-Ta Hashar Lanat Ho Tujh Pe Maula Farmatay Rahe.
-Aa Gaya Wapis Janaza Do Ghusal Our Do Kafan.
-Kehte They Sajjad Ghazi Na Mila Mujh Ko Izn.
-Be Basi Ke Sare Manzar Haye Tarpatay Rahe.
+۵
+تا حشر لعنت ہو تجھ پہ مولا فرماتے رہے
+آ گیا واپس جنازہ دو غسل اور دو کفن
+کہتے تھے سجاد غازی نہ ملا مجھ کو اذن
+بے بسی کے سارے منظر ہائے تڑپاتے رہے

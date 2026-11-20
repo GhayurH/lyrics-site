@@ -1,89 +1,168 @@
 ---
-title: "Hamary Ghar Main Aaj Aayen Bibi Fatima Syed Raza Abbas Zaidi"
+title: "ہمارے گھر میں آج آئیں بی‌بی فاطمہ سید رضا عباس زیدی"
+alternateTitle: "Hamary Ghar Main Aaj Aayen Bibi Fatima Syed Raza Abbas Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab kissi ke ghar mein koi marta hai
+  Pursa detey hain loag aa aa kar
+  Kitni mazloom hai Hussain ki maa
+  Pursa leti hai sab ke ghar ja kar
+
+  2
+  Chor diya maa ne Baqiya aa gaya Muharram
+  Ya Hussain kaho ya Hussain ya Hussain ya Hussain
+  Hoti hai majlis jahan aati hain wahan pe Fatima
+  Ghareeb hoon tu kya howa woh aaein gi
+
+  3
+  Humein bhi khush naseeb woh banaein gi
+  Utha ke hath de ke wasta Hussain ka
+  Dua karo dua karo hamarey ghar mein aaj aaein Bibi Fatima
+  Bicha ke farsh-e-gham yahan jinhein bola rahe hain hum
+
+  4
+  Woh pasliyon ko tham kar rakhein gi ghar mein jab qadam
+  Sunana unn ko dastaan Hussain ki
+  Bohat ghareeb hai woh maa Hussain ki
+  Jo pursa lainay aati hai ghareeb lal ka
+
+  5
+  Alam ke sath lazmi sajana aik mashk bhi
+  Chacha se door na rahe Hussain ki woh ladli
+  Zaror Bibi aaein gi hamarey ghar
+  Sakina ko bhi laein gi hamarey ghar
+
+  6
+  Saja ke sheh nasheen rakh ke sheh ka taziya
+  Yeh sirf rasam hi nahi hamari jan hai yeh gham
+  Karein gay matam-e-Hussain issi liye banay hain hum
+  Keh hum rahein ya na rahein rahe yeh gham
+
+  7
+  Kabhi tumhara hosla nahi ho kam
+  Rahe hamesha jari yeh azza ka silsila
+  Falak pe khoon bhara tera libas bich gaya Hussain
+  Jabhi tu surkh chand par likha howa hai ya Hussain
+
+  8
+  Rakhein gay dil ko Karbala bana ke hum
+  Ghareeb khane mein diya jala ke hum
+  Kahin gay ya Hussain hogi majlis-e-azza
+  Yeh jhola oss ki yaad hai jo che maheeney jee saka
+
+  9
+  Salam oss sagheer par jo pani bhi na pe saka
+  Sabeel oss ke naam ki laga ke tum
+  Pilana pani sab ko jab bola ke tum
+  Dua woh dein tu hath joor kar yeh bolna
+
+  10
+  Batool aik hath se libas jis ka khud seein
+  Yeh mah-e-gham mein kaisay ho hum oss ko yaad na karein
+  Jab aathwein ko Ghazi ki ho hazari
+  Nahi ho ayhteram mein koi kami
+
+  11
+  Adab se hath mein utha ke nazar-e-ba wafa
+  Guzar gaye hain kitne din miley hoye Hussain se
+  Main unn se door ab yahan rahon ga kaisay chain se
+  Jab aaein gi hamarey ghar mein Fatima
+
+  12
+  Main unn ko apna hal-e-dil sunaon ga
+  Woh keh dein tu bola lein gay Hussain Karbala
+  Na jane kitni jaldi guzar jaein gay yeh din
+  Phir pora saal yaad bohat aaein gay yeh din
+
+  13
+  Laein gay hum kahan se aye Zeeshan our Raza
+  Matam ki gaunj aah-o-boka ronaq-e-azza
+  Aglay baras jo hoga wohi roye ga Hussain
+  Zindah rahe tu hum bhi pukarein gay ya Hussain
 ---
 
-1
-Jab Kissi Ke Ghar Mein Koi Marta Hai.
-Pursa Detey Hain Loag Aa Aa Kar.
-Kitni Mazloom Hai Hussain Ki Maa.
-Pursa Leti Hai Sab Ke Ghar Ja Kar.
+۱
+جب کسی کے گھر میں کوئی مرتا ہے
+پرسہ دیتے ہیں لوگ آ آ کر
+کتنی مظلوم ہے حسین کی ماں
+پرسہ لیتی ہے سب کے گھر جا کر
 
-2
-Chor Diya Maa Ne Baqiya Aa Gaya Muharram.
-Ya Hussain Kaho Ya Hussain Ya Hussain Ya Hussain.
-Hoti Hai Majlis Jahan Aati Hain Wahan Pe Fatima.
-Ghareeb Hoon Tu Kya Howa Woh Aaein Gi.
+۲
+چھوڑ دیا ماں نے بقیع، آ گیا محرم
+یا حسین کہو یا حسین یا حسین یا حسین
+ہوتی ہے مجلس جہاں آتی ہیں وہاں پہ فاطمہ
+غریب ہوں تو کیا ہوا وہ آئیں گی
 
-3
-Humein Bhi Khush Naseeb Woh Banaein Gi.
-Utha Ke Hath De Ke Wasta Hussain Ka.
-Dua Karo Dua Karo Hamarey Ghar Mein Aaj Aaein Bibi Fatima.
-Bicha Ke Farsh-e-Gham Yahan Jinhein Bola Rahe Hain Hum.
+۳
+ہمیں بھی خوش نصیب وہ بنائیں گی
+اٹھا کے ہاتھ دے کے واسطہ حسین کا
+دعا کرو دعا کرو ہمارے گھر میں آج آئیں بی‌بی فاطمہ
+بچھا کے فرشِ غم یہاں جنہیں بلا رہے ہیں ہم
 
-4
-Woh Pasliyon Ko Tham Kar Rakhein Gi Ghar Mein Jab Qadam.
-Sunana Unn Ko Dastaan Hussain Ki.
-Bohat Ghareeb Hai Woh Maa Hussain Ki.
-Jo Pursa Lainay Aati Hai Ghareeb Lal Ka.
+۴
+وہ پسلیوں کو تھام کر رکھیں گی گھر میں جب قدم
+سنانا ان کو داستان حسین کی
+بہت غریب ہے وہ ماں حسین کی
+جو پرسہ لینے آتی ہے غریب لال کا
 
-5
-Alam Ke Sath Lazmi Sajana Aik Mashk Bhi.
-Chacha Se Door Na Rahe Hussain Ki Woh Ladli.
-Zaror Bibi Aaein Gi Hamarey Ghar.
-Sakina Ko Bhi Laein Gi Hamarey Ghar.
+۵
+علم کے ساتھ لازمی سجانا ایک مشک بھی
+چچا سے دور نہ رہے حسین کی وہ لاڈلی
+ضرور بی‌بی آئیں گی ہمارے گھر
+سکینہ کو بھی لائیں گی ہمارے گھر
 
-6
-Saja Ke Sheh Nasheen Rakh Ke Sheh Ka Taziya.
-Yeh Sirf Rasam Hi Nahi Hamari Jan Hai Yeh Gham.
-Karein Gay Matam-e-Hussain Issi Liye Banay Hain Hum.
-Keh Hum Rahein Ya Na Rahein Rahe Yeh Gham.
+۶
+سجا کے شہ نشین رکھ کے شہ کا تعزیہ
+یہ صرف رسم ہی نہیں ہماری جان ہے یہ غم
+کریں گے ماتمِ حسین اسی لیے بنے ہیں ہم
+کہ ہم رہیں یا نہ رہیں رہے یہ غم
 
-7
-Kabhi Tumhara Hosla Nahi Ho Kam.
-Rahe Hamesha Jari Yeh Azza Ka Silsila.
-Falak Pe Khoon Bhara Tera Libas Bich Gaya Hussain.
-Jabhi Tu Surkh Chand Par Likha Howa Hai Ya Hussain.
+۷
+کبھی تمہارا حوصلہ نہیں ہو کم
+رہے ہمیشہ جاری یہ عزا کا سلسلہ
+فلک پہ خون بھرا تیرا لباس بچھ گیا حسین
+جبھی تو سرخ چاند پر لکھا ہوا ہے یا حسین
 
-8
-Rakhein Gay Dil Ko Karbala Bana Ke Hum.
-Ghareeb Khane Mein Diya Jala Ke Hum.
-Kahin Gay Ya Hussain Hogi Majlis-e-Azza.
-Yeh Jhola Oss Ki Yaad Hai Jo Che Maheeney Jee Saka.
+۸
+رکھیں گے دل کو کربلا بنا کے ہم
+غریب خانے میں دیا جلا کے ہم
+کہیں گے یا حسین ہوگی مجلسِ عزا
+یہ جھولا اس کی یاد ہے جو چھ مہینے جی سکا
 
-9
-Salam Oss Sagheer Par Jo Pani Bhi Na Pe Saka.
-Sabeel Oss Ke Naam Ki Laga Ke Tum.
-Pilana Pani Sab Ko Jab Bola Ke Tum.
-Dua Woh Dein Tu Hath Joor Kar Yeh Bolna.
+۹
+سلام اس صغیر پر جو پانی بھی نہ پی سکا
+سبیل اس کے نام کی لگا کے تم
+پلانا پانی سب کو جب بلا کے تم
+دعا وہ دیں تو ہاتھ جوڑ کر یہ بولنا
 
-10
-Batool Aik Hath Se Libas Jis Ka Khud Seein.
-Yeh Mah-e-Gham Mein Kaisay Ho Hum Oss Ko Yaad Na Karein.
-Jab Aathwein Ko Ghazi Ki Ho Hazari.
-Nahi Ho Ayhteram Mein Koi Kami.
+۱۰
+بتول ایک ہاتھ سے لباس جس کا خود سیئیں
+یہ ماہِ غم میں کیسے ہو ہم اس کو یاد نہ کریں
+جب آٹھویں کو غازی کی ہو حاضری
+نہیں ہو احترام میں کوئی کمی
 
-11
-Adab Se Hath Mein Utha Ke Nazar-e-Ba Wafa.
-Guzar Gaye Hain Kitne Din Miley Hoye Hussain Se.
-Main Unn Se Door Ab Yahan Rahon Ga Kaisay Chain Se.
-Jab Aaein Gi Hamarey Ghar Mein Fatima.
+۱۱
+ادب سے ہاتھ میں اٹھا کے نذرِ باوفا
+گزر گئے ہیں کتنے دن ملے ہوئے حسین سے
+میں ان سے دور اب یہاں رہوں گا کیسے چین سے
+جب آئیں گی ہمارے گھر میں فاطمہ
 
-12
-Main Unn Ko Apna Hal-e-Dil Sunaon Ga.
-Woh Keh Dein Tu Bola Lein Gay Hussain Karbala.
-Na Jane Kitni Jaldi Guzar Jaein Gay Yeh Din.
-Phir Pora Saal Yaad Bohat Aaein Gay Yeh Din.
+۱۲
+میں ان کو اپنا حالِ دل سناؤں گا
+وہ کہہ دیں تو بلا لیں گے حسین کربلا
+نہ جانے کتنی جلدی گزر جائیں گے یہ دن
+پھر پورا سال یاد بہت آئیں گے یہ دن
 
-13
-Laein Gay Hum Kahan Se Aye Zeeshan Our Raza.
-Matam Ki Gaunj Aah-o-Boka Ronaq-e-Azza.
-Aglay Baras Jo Hoga Wohi Roye Ga Hussain.
-Zindah Rahe Tu Hum Bhi Pukarein Gay Ya Hussain.
+۱۳
+لائیں گے ہم کہاں سے اے ذیشان اور رضا
+ماتم کی گونج آہ و بکا رونقِ عزا
+اگلے برس جو ہوگا وہی روئے گا حسین
+زندہ رہے تو ہم بھی پکاریں گے یا حسین

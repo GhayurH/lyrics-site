@@ -13,14 +13,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Ya Gharib, ya Husain
-  As salaamu alaika ya Aba Abdillah
-  Ya Aba Abdillah ruhi wa jismi lakal fida
+  Assalaamu alaika ya Aba Abdillah
+  Ya Aba Abdillah ruhi o jismi lakal fida
   Har laasha deta jaata hai maqtal se ye sada
-  Ruhi wa jismi lakal fida ya Aba Abdillah
+  Ruhi o jismi lakal fida ya Aba Abdillah
 
   1
   Ham ne hai kiya aap ki maadar se ye waada
-  Majlis na rukegi kabhi maatam na rukega
+  Majlis na ruke gi kabhi maatam na ruke ga
   Kat jaaye chaahe haath ye kat jaaye ye gala
 
   2
@@ -29,12 +29,12 @@ romanLyrics: |-
   Kehte hue ye qaafile jaate haiṅ Karbala
 
   3
-  Zaalim na bana de kahiṅ ek aur Baqiya
-  Phir Maula wohi Shaam hai aur aap ka kunba
+  Zaalim na bana de kahiṅ ik aur Baqiya
+  Phir Maula woh hi Shaam hai aur aap ka kunba
   Izn-e-jihaad kijiye Mehdi ko ab ata
 
   4
-  Hal min ki jo Shabbir ne maqtal meiṅ sada di
+  Hal min ki jo Shabbir ne maqtal mein sada di
   Ashaab tarapne lage tanhaai pe Shah ki
   Uth uth ke deta jaata tha har laasha ye sada
 
@@ -44,19 +44,19 @@ romanLyrics: |-
   Laashe se keh ke dusra laasha lipat gaya
 
   6
-  Darbaar na jaauṅgi maiṅ kehti thi ye khwaahar
+  Darbaar na jaauṅ gi main kehti thi ye khwaahar
   Rote hue Shabbir ko dekha jo sinaaṅ par
   Labbaik keh ke chal pari darbaar Sayyida
 
   7
-  Jis waqt ke zindaan meiṅ pyaasoṅ ke sar aaye
+  Jis waqt ke zindaan mein pyaasoṅ ke sar aaye
   Zainab ne wahaaṅ Aun o Muhammad ke bajaaye
-  Bhai ke sar ko god meiṅ lete hue kaha
+  Bhai ke sar ko god mein lete hue kaha
 
   8
-  Aaṅkhoṅ meiṅ Takallum hai wo Aashur ka manzar
+  Aaṅkhoṅ mein Takallum hai woh Aashur ka manzar
   Ghaibat ko azaakhaana-e-Shabbir bana kar
-  Paiham Imam-e-Asr ke hoṅtoṅ pe hai sada
+  Paiham Imam-e-Asr ke hontoṅ pe hai sada
 ---
 یا غریب، یا حسین
 السلام علیک یا ابا عبداللہ

@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tanha ali ka laal tha nau laakh ashkiyaṅ
+  Tanha Ali ka laal tha nau laakh ashqiyaṅ
   Zakhmoṅ se chur garm hawa khushk tha gala
-  Shimr e layiṅ aastin ulte huwe barha
-  Khanjar abhi chala nahi tha ke ek maa ne di sada
-  Ban meiṅ the maa ke ye bain
-  Kaise mai paaungi chain
+  Shimr-e-laiṅ aastin ulte hue barha
+  Khanjar abhi chala nahiṅ tha ke ek maaṅ ne di sada
+  Ban mein the maaṅ ke ye bain
+  Kaise main paauṅ gi chain
   O mere laal Husain
-  Marqad ko apne chor ke sehra meiṅ aayi huṅ
-  Muztar huṅ ghamzada huṅ falak ki satayi huṅ
-  Aankhoṅ meiṅ ashk ko chupa kar mai laayi huṅ
-  Bikhre huwe hai baal ye deti duhaai huṅ
-  O mere laal Husain...
+  Marqad ko apne chhor ke sehra mein aayi huṅ
+  Muztar huṅ ghamzada huṅ falak ki sataayi huṅ
+  Aankhoṅ mein ashk ko chhupa kar main laayi huṅ
+  Bikhre hue hai baal ye deti duhaai huṅ
+  O mere laal Husain
   Paala hai chakki pis ke kitne jatan kiye
-  Sukhe abhi nahi mere haathoṅ ke aabile
-  Kis tarha dekh paungi khanjar tale tujhe
-  Maa keh ke ek baar to awaaz de mujhe
-  O mere laal Husain...
-  Bachpan meiṅ tujhko dhup meiṅ jaane nahi diya
+  Sukhe abhi nahiṅ mere haathoṅ ke aabile
+  Kis tarah dekh paauṅ gi khanjar tale tujhe
+  Maaṅ keh ke ek baar to aawaaz de mujhe
+  O mere laal Husain
+  Bachpan mein tujhko dhup mein jaane nahiṅ diya
   Aur aaj tere jism se suraj guzar gaya
-  Haye haye kisi ne aake urhayi nahi rida
-  Aa mere bikhre baaloṅ ke chaoṅ meiṅ baith ja
-  O mere laal Husain...
-  Tujhpe nahi ye taygh mere dil pe chalti hai
+  Haaye haaye kisi ne aa ke urhayi nahiṅ rida
+  Aa mere bikhre baaloṅ ke chhaaoṅ mein baith ja
+  O mere laal Husain
+  Tujh pe nahiṅ ye taigh mere dil pe chalti hai
   Ek aah mere sine se paiham nikalti hai
-  Jalte hai zakhm tere zamin itni jalti hai
-  Majbur teri maa hai khari haath malti hai
-  O mere laal Husain...
-  Zakhmoṅ se khaak saaf karungi rida se mai
-  Wapas na jaungi kabhi ab karbala se mai
-  Poochungi ye sawaal abhi alqama se mai
-  Teri jafa ka shikwa karuṅ kya khuda se mai
-  O mere laal Husain...
-  Tu gham na kar chalegi tere saath saath maa
-  Ho kar sawaar naize pe jayega tu jahaṅ
-  Tere baghair ab mujhe aaraam hai kahaṅ
-  Nauha kuna rahegi ye kehte huwe zabaṅ
-  O mere laal Husain...
-  begor o bekafan mere bacche tujhe salaam
-  Bakshi na jayegi kisi surat ye fauje shaam
-  Ae tashna lab gharib mohamed ke laal afaam
-  Jagir daar khuld ki jagir tere naam
-  O mere laal Husain...
-  Karbobala larazti thi zehra ke bain se
-  Binte rasul hogayi mehrum chain se
-  Uthta tha shor qabre shahe mashraqain se
-  Rehaan jab ye kehti thi zehra Husain se
-  O mere laal Husain...
+  Jalte haiṅ zakhm tere zamin itni jalti hai
+  Majbur teri maaṅ hai khari haath malti hai
+  O mere laal Husain
+  Zakhmoṅ se khaak saaf karuṅ gi rida se main
+  Waapas na jaauṅ gi kabhi ab Karbala se main
+  Puchhuṅ gi ye sawaal abhi Alqama se main
+  Teri jafa ka shikwa karuṅ kya Khuda se main
+  O mere laal Husain
+  Tu gham na kar chalegi tere saath saath maaṅ
+  Ho kar sawaar naize pe jaaye ga tu jahaaṅ
+  Tere baghair ab mujhe aaraam hai kahaaṅ
+  Nauha kunaaṅ rahegi ye kehte hue zabaaṅ
+  O mere laal Husain
+  Begor o bekafan mere bachche tujhe salaam
+  Bakshi na jaaye gi kisi surat ye fauj-e-Shaam
+  Ae tashna lab gharib Muhammad ke laal afaam
+  Jaagir daar khuld ki jaagir tere naam
+  O mere laal Husain
+  Karb o Bala larazti thi Zehra ke bain se
+  Bint-e-Rasul ho gayi mahrum chain se
+  Uthta tha shor qabr-e-shaah-e-mashraqain se
+  Rehaan jab ye kehti thi Zehra Husain se
+  O mere laal Husain
 ---
 
 ۱

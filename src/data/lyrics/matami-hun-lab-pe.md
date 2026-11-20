@@ -12,36 +12,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Matami huṅ lab pe mere ya Husain aa jaayega
-  Qabr meiṅ ik pal lagega mujh ko chain aa jaayega
+  Matami huṅ lab pe mere ya Husain aa jaaye ga
+  Qabr mein ik pal lage ga mujh ko chain aa jaaye ga
 
   1
-  Maiṅ to bas nauha parhuṅ ga aur karuṅ ga kya bhala
-  Ek qaidi Karbala se karne bain aa jaayega
+  Main to bas nauha parhuṅ ga aur karuṅ ga kya bhala
+  Ek qaidi Karbala se karne bain aa jaaye ga
 
   2
-  Roz-e-mahshar huṅ ga jab maiṅ apne Rab ke ru ba ru
-  Bakhshwaane Fatima ka nur-e-ain aa jaayega
+  Roz-e-mahshar huṅ ga jab main apne Rab ke ru ba ru
+  Bakhshwaane Fatima ka nur-e-ain aa jaaye ga
 
   3
-  Zehn meiṅ rach bas gayi hai roz-e-Aashura ki soch
-  Saath sau chauke wahaaṅ ka shor o shain aa jaayega
+  Zehn mein rach bas gayi hai roz-e-Aashura ki soch
+  Saath sau chauke wahaaṅ ka shor o shain aa jaaye ga
 
   4
   Ruh to tanha na pahunche gi dar-e-mazlum par
-  Jism bhi to saath bainul qiblatain aa jaayega
+  Jism bhi to saath bainul qiblatain aa jaaye ga
 
   5
-  Dhalte dhalte dhal hi jaayega wo din Aashur ka
-  Zer-e-khanjar do jahaaṅ ki zeb o zain aa jaayega
+  Dhalte dhalte dhal hi jaaye ga wo din Aashur ka
+  Zer-e-khanjar do jahaaṅ ki zeb o zain aa jaaye ga
 
   6
-  Raaste meiṅ lahad se Karb o Bala jaate hue
-  Samarra Kufa Najaf aur Kaazimain aa jaayega
+  Raaste mein lahad se Karb o Bala jaate hue
+  Samarra Kufa Najaf aur Kaazimain aa jaaye ga
 
   7
   Jab jahaaṅ mushkil pari Abid madad ke waaste
-  Wohi ibn-e-Faateh-e-Badr o Hunain aa jaayega
+  Wohi ibn-e-Faateh-e-Badr o Hunain aa jaaye ga
 ---
 ماتمی ہوں لب پہ میرے یا حسین آ جائے گا
 قبر میں اک پل لگے گا مجھ کو چین آ جائے گا

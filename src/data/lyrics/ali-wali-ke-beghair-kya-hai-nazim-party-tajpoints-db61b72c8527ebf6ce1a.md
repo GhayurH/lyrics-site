@@ -1,28 +1,43 @@
 ---
-title: "Ali Wali Ke Beghair Kya Hai Nazim Party"
+title: "علی ولی کے بغیر کیا ہے ناظم پارٹی"
+alternateTitle: "Ali Wali Ke Beghair Kya Hai Nazim Party"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Namaz roza yeh hajj zakat Ali Wali ke beghair kiya hai
+  Woh sajday sare teri khairat Ali Wali ke beghair kiya hai
+  Quraan ki ro se Habib-e-Dawar tamam kijiye pyam-e-Haq ko
+  Khuda ke nazdeek har shahadat Ali Wali ke beghair kiya hai
+  Aye Ibn-e-Muljam teri yeh zarbat Ali pe kya thi Wali hadaf tha
+  Tujhe bhi maloom tha wilayat Ali Wali ke beghair kya hai
+
+  2
+  Luta hai Karbal mein sara kunba Ali-o-Zahra tere chaman ka
+  Bataya Zainab ne deen-e-fitrat Ali Wali ke beghair kya hai
+  Yeh sare sajday yeh sab namazein sab apne mehwar se hat ke kya hain
+  Azaan mein khair-al-amal ki dawat Ali Wali ke beghair kya hai
+  Quran-e-natiq ke sar pe zarbat Nabi ke kunbay mein hashar barpa
+  Koi bhi sorat koi bhi aayat Ali Wali ke beghair kya hai
 ---
 
-Ali Wali Ke Beghair Kya Hai Nazim Party.
+۱
+نماز روزہ یہ حج زکات علی ولی کے بغیر کیا ہے
+وہ سجدے سارے تیری خیرات علی ولی کے بغیر کیا ہے
+قرآن کی رو سے حبیبِ داور تمام کیجیے پیامِ حق کو
+خدا کے نزدیک ہر شہادت علی ولی کے بغیر کیا ہے
+اے ابنِ ملجم تیری یہ ضربت علی پہ کیا تھی ولی ہدف تھا
+تجھے بھی معلوم تھا ولایت علی ولی کے بغیر کیا ہے
 
-1
-Namaz Roza Yeh Hajj Zakat Ali Wali Ke Beghair Kiya Hai.
-Woh Sajday Sare Teri Khairat Ali Wali Ke Beghair Kiya Hai.
-Quraan Ki Ro Se Habib-e-Dawar Tamam Kijiye Pyam-e-Haq Ko.
-Khuda Ke Nazdeek Har Shahadat Ali Wali Ke Beghair Kiya Hai.
-Aye Ibn-e-Muljam Teri Yeh Zarbat Ali Pe Kya Thi Wali Hadaf Tha.
-Tujhe Bhi Maloom Tha Wilayat Ali Wali Ke Beghair Kya Hai.
-
-2
-Luta Hai Karbal Mein Sara Kunba Ali-o-Zahra Tere Chaman Ka.
-Bataya Zainab Ne Deen-e-Fitrat Ali Wali Ke Beghair Kya Hai.
-Yeh Sare Sajday Yeh Sab Namazein Sab Apne Mehwar Se Hat Ke Kya Hain.
-Azaan Mein Khair-Al-Amal Ki Dawat Ali Wali Ke Beghair Kya Hai.
-Quran-e-Natiq Ke Sar Pe Zarbat Nabi Ke Kunbay Mein Hashar Barpa.
-Koi Bhi Sorat Koi Bhi Aayat Ali Wali Ke Beghair Kya Hai.
+۲
+لٹا ہے کربل میں سارا کنبہ علی و زہرا تیرے چمن کا
+بتایا زینب نے دینِ فطرت علی ولی کے بغیر کیا ہے
+یہ سارے سجدے یہ سب نمازیں سب اپنے محور سے ہٹ کے کیا ہیں
+اذان میں خیر العمل کی دعوت علی ولی کے بغیر کیا ہے
+قرآنِ ناطق کے سر پہ ضربت نبی کے کنبے میں حشر برپا
+کوئی بھی سورت کوئی بھی آیت علی ولی کے بغیر کیا ہے

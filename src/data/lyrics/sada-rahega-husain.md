@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sada rahega Husain ka gham
+  Sada rahe ga Husain ka gham
 
   1
   Ye shor-e-girya ye shor-e-maatam
   Suni hui daastaan-e-paiham
-  Ek aah ban kar ubhar rahi hai
+  Ak aah ban kar ubhar rahi hai
   Wo Karbala ki sada-e-purgham
 
   2
-  Uthe jo zulm o sitam ke jhoṅke
+  Uthe jo zulm o sitam ke jhonke
   Sawaal ye tha ke kaun roke
   Husain ibn-e-Ali ke dar par
   Jami hui thi nigaah-e-aalam
@@ -52,7 +52,7 @@ romanLyrics: |-
   7
   Na ruk saki hai na ruk sake gi
   Aza-e-mazlum kya ruke gi
-  Diloṅ ki har ek dharkanoṅ se
+  Diloṅ ki har ak dharkanoṅ se
   Ubhar rahi hai sada-e-maatam
 ---
 

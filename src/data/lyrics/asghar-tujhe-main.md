@@ -12,16 +12,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bano ye sada deti hai kahaaṅ ho beta
-  Asghar tujhe maiṅ ran meiṅ lori suna na paayi
-  Waqt-e-qaza tujhe maiṅ paani pila na paayi
+  Baano ye sada deti hai kahaaṅ ho beta
+  Asghar tujhe main ran meiṅ lori suna na paayi
+  Waqt-e-qaza tujhe main paani pila na paayi
 
   1
   Huṅ sharmsaar tujh se ae mere laal Asghar
   Aansu bahaane teri turbat pe aa na paayi
 
   2
-  Khaimoṅ ki raakh par ye karti thi bain Bano
+  Khaimoṅ ki raakh par ye karti thi bain Baano
   Chaadar ke saath tera jhula bacha na paayi
 
   3
@@ -30,27 +30,27 @@ romanLyrics: |-
 
   4
   Maara tha jis ne Asghar maqtal meiṅ tir tujhko
-  Ek pal bhi usko Bano ab tak bhula na paayi
+  Ik pal bhi usko Baano ab tak bhula na paayi
 
   5
   Sughra ne jo watan se bheja tha ek kurta
-  Jalte qayaam se wo kurta utha na paayi
+  Jalte qiyaam se wo kurta utha na paayi
 
   6
-  Nanhi si laash dekhi naize pe maaṅ ye boli
-  Maqtal ki khaak tujhko ek pal chhupa na paayi
+  Nanhi si laash dekhi neze pe maaṅ ye boli
+  Maqtal ki khaak tujhko ik pal chhupa na paayi
 
   7
   Jaati huṅ qaid ho kar darbaar-e-ashqiya meiṅ
   Haathoṅ meiṅ risma hai ye bhi bata na paayi
 
   8
-  Is baat ka qalaq hai jab tak rahuṅgi zinda
+  Is baat ka qalaq hai jab tak rahuṅ gi zinda
   Farsh-e-aza lahad par aa kar bichha na paayi
 
   9
   Ahsan o Irtaza bhi ye keh ke ro rahe haiṅ
-  Asghar ko dil se Bano apne laga na paayi
+  Asghar ko dil se Baano apne laga na paayi
 ---
 بانو یہ صدا دیتی ہے کہاں ہو بیٹا
 اصغر تجھے میں رن میں لوری سنا نہ پائی

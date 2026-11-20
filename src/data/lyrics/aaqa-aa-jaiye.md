@@ -11,22 +11,22 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaqa aa jaiye Maula aa jaiye muntazir aaj sara jahan hai aap aa jaiye
+  Aaqa aa jaiye Maula aa jaiye muntazir aaj saara jahaaṅ hai aap aa jaiye
 
   1
-  Janasheen-e-Nabi aap ka hi yeh arz-o-samaa hai aap aa jaiye
-  Kaba bhi tera youn veeran hai, ummat bhi sari pareshan hai
-  Aap hi aaein gay tu basay ga yeh sara jahan hai Aaqa aa jaiye
-  Maula yeh tere jo hubdar hain, mushkil mein sare giraftar hain
+  Jaanashin-e-Nabi aap ka hi yeh arz o samaa hai aap aa jaiye
+  Kaaba bhi tera yuṅ viraan hai, ummat bhi saari pareshaan hai
+  Aap hi aaeṅ ge to base ga yeh saara jahaaṅ hai Aaqa aa jaiye
+  Maula yeh tere jo hubdaar haiṅ, mushkil mein saare giraftaar haiṅ
 
   2
-  Askari ke samar sar nagoon aaj sara jahan hai Aaqa aa jaiye
-  Mana keh hum sab gunahgar hain, Mahi ke Maula talabgar hain
-  Hum tere matami har azadar noha kuna hai Aaqa aa jaiye
-  Mehdi ko bhejein aye Rab-e-Jalil, aabad Kaba ko dekhein Aqeel
+  Askari ke samar sar naguṅ aaj saara jahaaṅ hai Aaqa aa jaiye
+  Maana ke hum sab gunaahgaar haiṅ, Maahi ke Maula talabgaar haiṅ
+  Hum tere maatami har azaadaar nauha kunaaṅ hai Aaqa aa jaiye
+  Mehdi ko bhejeṅ ae Rab-e-Jalil, aabaad Kaaba ko dekheṅ Aqil
 
   3
-  Turbat-e-Fatima ne pukara Sahib Alzamaan hai Aaqa aa jaiye
+  Turbat-e-Faatima ne pukaara Saahib-uz-Zamaaṅ hai Aaqa aa jaiye
 ---
 
 آقا آ جائیے مولا آ جائیے منتظر آج سارا جہاں ہے آپ آ جائیے

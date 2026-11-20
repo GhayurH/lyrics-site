@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Chacha Mai Tera"]
 published: true
 romanLyrics: |-
-  Ae chacha maiṅ tera Sajjad huṅ pehchaan mujhe
+  Ae chacha main tera Sajjad huṅ pehchaan mujhe
   Khaa gaye haaye sitam Shaam ke zindaan mujhe
 
   1
@@ -21,8 +21,8 @@ romanLyrics: |-
   Taaziyaanoṅ se sataaya gaya har aan mujhe
 
   2
-  Qarz yuṅ ajr-e-risaalat ka chukaate the laiṅ
-  Kalma parh parh ke mujhe durre lagaate the laiṅ
+  Qarz yuṅ ajr-e-risaalat ka chukaate the la'iṅ
+  Kalma par par ke mujhe durre lagaate the la'iṅ
   Yaad hai aaj bhi ummat ka ye ehsaan mujhe
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   4
   Kabhi zindaanoṅ se guzra kabhi darbaaroṅ se
-  Dard sehte hue guzra huṅ maiṅ bazaaroṅ se
+  Dard sehte hue guzra huṅ main bazaaroṅ se
   Gaam dar gaam rulaate the Musalmaan mujhe
 
   5
@@ -46,9 +46,9 @@ romanLyrics: |-
   Bhari basti bhi nazar aati hai wiraan mujhe
 
   7
-  Maiṅ lahu rota tha wo zakhm lagaate the mujhe
+  Main lahu rota tha wo zakhm lagaate the mujhe
   Shaami paani ki jagah pyaas pilaate the mujhe
-  Qaidkhaanoṅ meiṅ rakha jaata tha mehmaan mujhe
+  Qaid khaanoṅ meiṅ rakha jaata tha mehmaan mujhe
 
   8
   Ae chacha ye bhi qayaamat ki ghari aayi hai

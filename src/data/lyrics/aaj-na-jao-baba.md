@@ -10,38 +10,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Subh-e-uneeswin Ramzaan thi ajab manzar tha
-  Ghar se hone lagay rukhsat jo Ali shair-e-khuda
-  Apne baba ka jo tar ashkon se chehra dekha
-  Haye be sakhta Zainab ne yeh baba se kaha
-  Jee na paein gaye humein youn na rulao baba
-  Aik ahsan karo aaj na jao baba
-  Hath jis tarha se rakha hai mere sar pe abhi
-  Main ne yeh haal tumhara tu nahi dekha kabhi
-  Ab na yeh hath mere sar se uthao baba
-  Baap seene se lagaye tu sakoon pati hain
-  Betiyaan baap ki halat ko samajh jati hain
-  Main samajh loon gi mujhe seene lagao baba
-  Kiya hai ashkon ki wajah kuch tu bata do hum ko
-  Bant lo Zainab-e-Kubra se tum apne gham ko
-  Dil mein jo baat hai hum se na chupao baba
-  Amma Zahra ka jo gham tha woh abhi taza hai
-  Sab mere dard ka baba tumhein andaza hai
-  Apne bachoon ko na youn chor ke jao baba
-  Hum ko deta hai qayamat ka ishara daman
-  Kyun yeh murgab ne jakra hai tumhara daman
-  Apne daman ko na iss tarha churao baba
-  Apni Zainab se chupatay ho kyun aanso apne
-  Ab chupaney se bhi yeh aanso nahi chup saktay
-  Hath chehray pe jo rakha hai hatao baba
-  Tum hi batlao yeh Zainab na samajh pati hai
-  Kyun yeh amma ke sisakney ki sada aati hai
-  Kya chupatay ho humein kuch tu batao baba
-  Samne aa ja mere baba younhi baithay raho
-  Mein tumhein takti rahon tum bhi mujhe taktay raho
-  Dekhtey dekhtey youn sar na jhukao baba
-  :Zain-o-Zeeshan: woh manzar tha qayamat jaisa
-  Jab woh rotay hoye beti se juda baap howa
+  Subh-e-unnisviṅ Ramzaan thi ajab manzar tha
+  Ghar se hone lage rukhsat jo Ali sher-e-Khuda
+  Apne baba ka jo tar ashkoṅ se chehra dekha
+  Haaye besaakhta Zainab ne yeh baba se kaha
+  Ji na paaeṅ ge hameiṅ yuṅ na rulao baba
+  Ek ehsaan karo aaj na jao baba
+  Haath jis tarah se rakha hai mere sar pe abhi
+  Main ne yeh haal tumhaara to nahiṅ dekha kabhi
+  Ab na yeh haath mere sar se uthao baba
+  Baap sine se lagaaye to sukun paati haiṅ
+  Betiyaaṅ baap ki haalat ko samajh jaati haiṅ
+  Main samajh luṅ gi mujhe sine lagao baba
+  Kya hai ashkoṅ ki wajah kuchh to bata do ham ko
+  Baant lo Zainab-e-Kubra se tum apne gham ko
+  Dil mein jo baat hai ham se na chhupao baba
+  Ammaaṅ Zahra ka jo gham tha woh abhi taaza hai
+  Sab mere dard ka baba tumheiṅ andaaza hai
+  Apne bachchoṅ ko na yuṅ chhor ke jao baba
+  Ham ko deta hai qayaamat ka ishaara daaman
+  Kiuṅ yeh murghaab ne jakra hai tumhaara daaman
+  Apne daaman ko na is tarah chhurao baba
+  Apni Zainab se chhupaate ho kiuṅ aaṅsu apne
+  Ab chhupaane se bhi yeh aaṅsu nahiṅ chhup sakte
+  Haath chehre pe jo rakha hai hatao baba
+  Tum hi batlao yeh Zainab na samajh paati hai
+  Kiuṅ yeh ammaaṅ ke sisakne ki sada aati hai
+  Kya chhupaate ho hameiṅ kuchh to batao baba
+  Saamne aa ja mere baba yuṅ hi baithe raho
+  Main tumheiṅ takti rahuṅ tum bhi mujhe takte raho
+  Dekhte dekhte yuṅ sar na jhukao baba
+  :Zain o Zishaan: woh manzar tha qayaamat jaisa
+  Jab woh rote hue beti se juda baap hua
   Beti kehti hi rahi laut ke aao baba
 ---
 

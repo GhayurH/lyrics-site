@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Haye mazluma Fatema Zehra
-  Haye mehruma Fatema Zehra
+  Haye mahruma Fatema Zehra
 
   1
   Fatema ka bhare Madine meiṅ
@@ -52,7 +52,7 @@ romanLyrics: |-
   Jab bachaane koi nahiṅ aaya
 
   7
-  Aath Shawwal ko hui Akbar
+  Aath Shawwaal ko hui Akbar
   Phir shahaadat Nabi ki beti ki
   Gir raha tha mazaar Bibi ka
   Aur bachaane koi nahiṅ aaya

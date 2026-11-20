@@ -1,38 +1,66 @@
 ---
-title: "Sawar Ki Ladli"
+title: "سرور کی لاڈلی"
+alternateTitle: "Sarwar Ki Ladli"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Laeeq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sarwar ki ladli ko zulmon ne mar wala
+  Ummat se jo miley hain zakhmo ne mar wala
+
+  1
+  Darbar ne banaya Zahra ko zindah lasha
+  Bikhrey hoye sand ke tukron ne mar wala
+  Kaisay tumhein sunaon Mohsin ki main shahadat
+  Ik be adab laeen ki zarboon ne mar wala
+
+  2
+  Dehleez-e-Syeda pe layi hai aag ummat
+  Qurba ko Hasabna ke sholon ne mar wala
+  Jhutla rahi hai ummat Hasnain ki gawahi
+  Sachon ko keh keh jhota jhoton ne mar wala
+
+  3
+  Rukh pe laga tamacha pehlu pe dar gira hai
+  Barsay jo Syeda pe durron ne mar wala
+  Hansta raha zamana Bait Al-Huzan jala ke
+  Palkon pe jo rukay hain ashkon ne mar wala
+
+  4
+  Zikar-e-Ali bina jo parhtay rahe namazein
+  Aisay namaziyon ko sajdoon ne mar wala
+  Parhdo Laeeq noha Bahlool likh raha hai
+  Qayam ka hai yeh noha sadmon ne mar wala
 ---
 
-Sarwar Ki Ladli Ko Zulmon Ne Mar Wala.
-Ummat Se Jo Miley Hain Zakhmo Ne Mar Wala.
+سرور کی لاڈلی کو ظلموں نے مار ڈالا
+امت سے جو ملے ہیں زخموں نے مار ڈالا
 
-1
-Darbar Ne Banaya Zahra Ko Zindah Lasha.
-Bikhrey Hoye Sand Ke Tukron Ne Mar Wala.
-Kaisay Tumhein Sunaon Mohsin Ki Main Shahadat.
-Ik Be Adab Laeen Ki Zarboon Ne Mar Wala.
+۱
+دربار نے بنایا زہرا کو زندہ لاشہ
+بکھرے ہوئے سند کے ٹکڑوں نے مار ڈالا
+کیسے تمہیں سناؤں محسن کی میں شہادت
+اک بے ادب لعین کی ضربوں نے مار ڈالا
 
-2
-Dehleez-e-Syeda Pe Layi Hai Aag Ummat.
-Qurba Ko Hasabna Ke Sholon Ne Mar Wala.
-Jhutla Rahi Hai Ummat Hasnain Ki Gawahi.
-Sachon Ko Keh Keh Jhota Jhoton Ne Mar Wala.
+۲
+دہلیزِ سیدہ پہ لائی ہے آگ امت
+قربیٰ کو حسبنا کے شعلوں نے مار ڈالا
+جھٹلا رہی ہے امت حسنین کی گواہی
+سچوں کو کہہ کہہ جھوٹا جھوٹوں نے مار ڈالا
 
-3
-Rukh Pe Laga Tamacha Pehlu Pe Dar Gira Hai.
-Barsay Jo Syeda Pe Durron Ne Mar Wala.
-Hansta Raha Zamana Bait Al-Huzan Jala Ke.
-Palkon Pe Jo Rukay Hain Ashkon Ne Mar Wala.
+۳
+رخ پہ لگا طمانچہ پہلو پہ در گرا ہے
+برسے جو سیدہ پہ دُرّوں نے مار ڈالا
+ہنستا رہا زمانہ بیت الحزن جلا کے
+پلکوں پہ جو رکے ہیں اشکوں نے مار ڈالا
 
-4
-Zikar-e-Ali Bina Jo Parhtay Rahe Namazein.
-Aisay Namaziyon Ko Sajdoon Ne Mar Wala.
-Parhdo Laeeq Noha Bahlool Likh Raha Hai.
-Qayam Ka Hai Yeh Noha Sadmon Ne Mar Wala.
+۴
+ذکرِ علی بنا جو پڑھتے رہے نمازیں
+ایسے نمازیوں کو سجدوں نے مار ڈالا
+پڑھ دو لئیق نوحہ بہلول لکھ رہا ہے
+قیام کا ہے یہ نوحہ صدموں نے مار ڈالا

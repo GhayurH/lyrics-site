@@ -1,15 +1,21 @@
 ---
-title: "Akhtar-e-Shaam Ki Aati Hai Falak Se Awaz"
+title: "اخترِ شام کی آتی ہے فلک سے آواز"
+alternateTitle: "Akhtar-e-Shaam Ki Aati Hai Falak Se Awaz"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sajdah karti hai sahar jis ko wo hai aaj ki raat
+  Rah-e-Yaak gaam hai himat ke liye arsh-e-bareen
+  Keh rahi hai ye Musalman se Mairaj ki raat
 ---
 
-1
-Sajdah Karti Hai Sahar Jis Ko Wo Hai Aaj Ki Raat.
-Rah-e-Yaak Gaam Hai Himat Ke Liye Arsh-e-Bareen.
-Keh Rahi Hai Ye Musalman Se Mairaj Ki Raat.
+۱
+سجدہ کرتی ہے سحر جس کو وہ ہے آج کی رات
+راہِ یک گام ہے ہمت کے لیے عرشِ بریں
+کہہ رہی ہے یہ مسلمان سے معراج کی رات

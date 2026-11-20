@@ -14,7 +14,7 @@ romanLyrics: |-
   Abbas Abbas ae mere bhai
 
   1
-  Akbar bhi gaye chhor diye mujhko akele
+  Akbar bhi gaye chhor diye mujh ko akele
   Kya kya na sitam haiṅ mere dil ne haiṅ jhele
   Lute haiṅ sitamgar mere barsoṅ ki kamai
 
@@ -24,14 +24,14 @@ romanLyrics: |-
   Ab lutf nahiṅ khaimoṅ meiṅ virani si chhai
 
   3
-  Bewaoṅ ki ridaoṅ ka bhi ab khauf hai mujhko
-  Tuti hai kamar Sheh ki ke ab kho diya tujhko
-  Ab daagh-e-rasan dekhegi Zainab ki kalai
+  Bewaoṅ ki ridaoṅ ka bhi ab khauf hai mujh ko
+  Tuti hai kamar Sheh ki ke ab kho diya tujh ko
+  Ab daagh-e-rasan dekhe gi Zainab ki kalai
 
   4
   Bhai mere bhai ki sada gunj rahi hai
   Mayus zaifi meiṅ khare Ibn-e-Ali haiṅ
-  Ab halat-e-Shabbir pe roti hai Khudai
+  Ab haalat-e-Shabbir pe roti hai khudai
 ---
 
 عباس عباس اے میرے بھائی

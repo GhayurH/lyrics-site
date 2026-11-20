@@ -1,6 +1,6 @@
 ---
 title: "غیرتِ مصطفیٰ بے ردا آ گیء"
-alternateTitle: "Mazloome Karbala Ki"
+alternateTitle: "Mazlum-e-Karbala Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghairat-e-mustafa berida aa gayi
-  Binte sher e khuda berida aa gayi
-  Mazlum e karbala ki azadaar aa gayi
+  Ghairat-e-Mustafa berida aa gayi
+  Bint-e-sher-e-Khuda berida aa gayi
+  Mazlum-e-Karbala ki azaadaar aa gayi
   Zainab barehna sar jo bazaar aa gayi
-  Talwaar ke baghair larungi mai aisi jang
-  Khutbe padhungi aise ke dushman bhi honge dang
-  Dekho Husain tum bhi hamare jihad ko
-  Zainab hai aaj ban ke alamdar aa gayi
-  Mazlum e karbala ki...
+  Talwaar ki baghair larungi main aisi jang
+  Khutbe parhungi aise ke dushman bhi honge dang
+  Dekho Husain tum bhi hamaare jihaad ko
+  Zainab hai aaj ban ke alamdaar aa gayi
+  Mazlum-e-Karbala ki...
   Zainab ne zindagi meiṅ na dekhi koi khushi
-  Roti hui wo shaam ki raahoṅ meiṅ mar gayi
+  Roti hui wo Shaam ki raahoṅ meiṅ mar gayi
   Tanha lehad meiṅ bhai ko rone ke waaste
-  Sarkar e panjetan ki wo ghamkhwar aa gayi
-  Mazlum e karbala ki...
-  Jis dam utha ye shor ke pyase ko maar lo
-  Jaldi karo nabi ke nawase ko maar lo
+  Sarkaar-e-Panjtan ki wo ghamkhwaar aa gayi
+  Mazlum-e-Karbala ki...
+  Jis dam utha ye shor ke pyaase ko maar lo
+  Jaldi karo Nabi ke nawaase ko maar lo
   Sun kar ye shor dhundti tanha Husain ko
-  Maqtal meiṅ binte hydere karraar aa gayi
-  Mazlum e karbala ki...
-  Chehlum ko karbala meiṅ jo pahuncha tha khaafla
-  Zainab ne keh ke naaqe se khud ko giraya tha
+  Maqtal meiṅ bint-e-Haidar-e-Karraar aa gayi
+  Mazlum-e-Karbala ki...
+  Chehlum ko Karbala meiṅ jo pahuncha tha qaafila
+  Zainab ne keh ke naaqe se khud ko giraaya tha
   Badle chuka ke baba ke saare mere Husain
-  Chehlum manane aap ki zawwaar aa gayi
-  Mazlum e karbala ki...
-  Mehshar ke roz aayegi jab nayib e batul
-  Tanvir ye kahenge khuda se mere rasul
+  Chehlum manaane aap ki zuwwaar aa gayi
+  Mazlum-e-Karbala ki...
+  Mahshar ke roz aaye gi jab naaib-e-Batul
+  Tanvir ye kaheṅ ge Khuda se mere Rasul
   Zinda rakhe hai jis ne iraade Husain ke
-  Ya rab wo mere diṅ ki madadgaar aa gayi
-  Mazlum e karbala ki...
+  Ya Rab wo mere diṅ ki madadgaar aa gayi
+  Mazlum-e-Karbala ki...
   Aaya sawaal jab kabhi diṅ ke usul ka
-  Aaya hai kaam khun ali o batul ka
-  Sunnat adaa batul ki karne ke waaste
-  Shabbir ki behan jo darbar aa gayi
-  Mazlume karbala ki...
-  Jis ke haya se shams ne khud ko chupa liya
+  Aaya hai kaam khun Ali o Batul ka
+  Sunnat adaa Batul ki karne ke waaste
+  Shabbir ki behan jo darbaar aa gayi
+  Mazlum-e-Karbala ki...
+  Jis ke haya se shams ne khud ko chhupa liya
   Ummat shaqi ne qaidi usi ko bana liya
-  Karbobala ke dasht se bazaar e shaam meiṅ
-  Chadar luta ke khaafila salaar aa gayi
-  Mazlume karbala ki...
+  Karb o Bala ke dasht se bazaar-e-Shaam meiṅ
+  Chaadar luta ke qaafila salaar aa gayi
+  Mazlum-e-Karbala ki...
 ---
 
 ۱

@@ -11,43 +11,43 @@ aliases: ["Ay Saani E Hyder"]
 published: true
 romanLyrics: |-
   Ae saani-e-Haider-e-Karraar
-  Alamdar Alamdar Alamdar
+  Alamdaar Alamdaar Alamdaar
 
   1
   Naize pe nahiṅ rukta hai kiuṅ sar
   Ae mere ghazanfar ae quwwat-e-Sarwar
-  Khwahar ko bata ae mere ghamkhwaar
-  Alamdar Alamdar Alamdar
+  Khwaahar ko bata ae mere ghamkhwaar
+  Alamdaar Alamdaar Alamdaar
 
   2
   Zainab teri ghairat ke hai qurbaan
   Ae baba ke armaan kunbe ke nigehbaan
-  Behna teri ab jaayegi bazaar
-  Alamdar Alamdar Alamdar
+  Behna teri ab jaaye gi bazaar
+  Alamdaar Alamdaar Alamdaar
 
   3
   Ghazi zara dekho to sinaaṅ par
   Barpa hua mahshar Shabbir ka hai sar
   Rote haiṅ sinaaṅ par Shah-e-Abraar
-  Alamdar Alamdar Alamdar
+  Alamdaar Alamdaar Alamdaar
 
   4
   Zehra ka gulistaaṅ hua barbaad
   Kis se kare faryaad Abbas tere baad
   Ro ro ke ye kehte haiṅ dil afgaar
-  Alamdar Alamdar Alamdar
+  Alamdaar Alamdaar Alamdaar
 
   5
-  Ammaaṅ ki maiṅ sunti huṅ sadaaeṅ
+  Ammaaṅ ki main sunti huṅ sadaaeṅ
   Leti haiṅ balaaeṅ tujhe deti hai duaaeṅ
-  Tujh sa nahiṅ duniya meiṅ wafaadaar
-  Alamdar Alamdar Alamdar
+  Tujh saa nahiṅ duniya mein wafaadaar
+  Alamdaar Alamdaar Alamdaar
 
   6
-  Hai aaj musibat meiṅ Sakina
+  Hai aaj musibat mein Sakina
   Mushkil hua jina mar jaaye kahiṅ na
   Zulmoṅ ki yatima pe hai bauchhaar
-  Alamdar Alamdar Alamdar
+  Alamdaar Alamdaar Alamdaar
 ---
 
 اے ثانیء حیدر کرار

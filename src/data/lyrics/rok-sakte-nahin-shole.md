@@ -28,7 +28,7 @@ romanLyrics: |-
   Tum ne likha hai Musalmaan riyaakaaroṅ ko
 
   4
-  Khud nahiṅ jhukta zamaane ko jhukaata hai Husain
+  Qad nahiṅ jhukta zamaane ko jhukaata hai Husain
   Kaun samjhaaye ye baiat ke talabgaaroṅ ko
 
   5

@@ -1,61 +1,112 @@
 ---
-title: "Sakina Watan Chalo Rajab Ali Khan"
+title: "سکینہ وطن چلو رجب علی خان"
+alternateTitle: "Sakina Watan Chalo Rajab Ali Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sahaab"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sakina watan chalo Rajab Ali Khan
+
+  1
+  Zindan khul gaya hai Sakina watan chalo
+  Sajjad keh ke gir para choti si qabar par
+  Mazloom aisay gir para turbat pe behan ki
+  Jaisay Hussain tha gira Akbar ki lash par
+  Dekho nahi rahi mere hathoon mein ab rasan
+  Jane laga hai qafila ab laut kar watan
+
+  2
+  Lekin tu behan Sham mein qaidi hi reh gayi
+  Kha kar tamachay so gayi zindaan ki khak par
+  Karta hoon yaad ro ke main manzar woh dard ka
+  Kano ke zakhm par jo tamacha tujhe laga
+  Baba ko tu sina pe sada deti reh gayi
+  Baba sina pe rotay they tab tujh ko dekh kar
+
+  3
+  Amma ki tarha tujh ko na mil payi thi rida
+  Baba ki tarha tujh ko kafan bhi na mil saka
+  Pathar bhi khaye Sham mein tu ne meri tarha
+  Naqay se gir ke ho gayi teri bhi khum kamar
+  Main le ke tujh ko Sham se wapis na ja saka
+  Baba ko kya bataon main ab ja ke Karbala
+
+  4
+  Kurtay mein dafan kar ke banai teri lehad
+  Abid ko khoon rulaye ga yeh dard umar bhar
+  Karbal mein chin gayi thi tere sar se jo rida
+  Wapis main la chuka hoon ossay dekh tu zarra
+  Sar par main tere rakhta rida apne hath se
+  Afsoos haye Sham mein tu na rahi magar
+
+  5
+  Amma ke bain sun ke nikalti hai jaan meri
+  Kehti hai umar bhar na woh saye mein jaye gi
+  Kaisay uthaon ujari hoi maa ko tu bata
+  Teri lehad se maa ki bhi hatti nahi nazar
+  Woh Rukhsat-e-Hussain pe Zainab ka imtehaan
+  Aisa hi aaj phir se hai zindan ka samaa
+
+  6
+  Sajjad ho raha hai juda aisay behan se
+  Uthta hai ro ke qabar se girta hai qabar par
+  Likhon Sahaab kis tarha mehshar ka marhala
+  Tha gham ki inteha pe bhi Abid ka hosla
+  Zindah behan ki qabar se uth kar chala gaya
+  Ahwal-e-Gham sunanay ko Baba ki qabar par
 ---
 
-Sakina Watan Chalo Rajab Ali Khan.
+سکینہ وطن چلو رجب علی خان
 
-1
-Zindan Khul Gaya Hai Sakina Watan Chalo.
-Sajjad Keh Ke Gir Para Choti Si Qabar Par.
-Mazloom Aisay Gir Para Turbat Pe Behan Ki.
-Jaisay Hussain Tha Gira Akbar Ki Lash Par.
-Dekho Nahi Rahi Mere Hathoon Mein Ab Rasan.
-Jane Laga Hai Qafila Ab Laut Kar Watan.
+۱
+زندان کھل گیا ہے سکینہ وطن چلو
+سجاد کہہ کے گر پڑا چھوٹی سی قبر پر
+مظلوم ایسے گر پڑا تربت پہ بہن کی
+جیسے حسین تھا گرا اکبر کی لاش پر
+دیکھو نہیں رہی میرے ہاتھوں میں اب رسن
+جانے لگا ہے قافلہ اب لوٹ کر وطن
 
-2
-Lekin Tu Behan Sham Mein Qaidi Hi Reh Gayi.
-Kha Kar Tamachay So Gayi Zindaan Ki Khak Par.
-Karta Hoon Yaad Ro Ke Main Manzar Woh Dard Ka.
-Kano Ke Zakhm Par Jo Tamacha Tujhe Laga.
-Baba Ko Tu Sina Pe Sada Deti Reh Gayi.
-Baba Sina Pe Rotay They Tab Tujh Ko Dekh Kar.
+۲
+لیکن تو بہن شام میں قیدی ہی رہ گئی
+کھا کر طمانچے سو گئی زنداں کی خاک پر
+کرتا ہوں یاد رو کے میں منظر وہ درد کا
+کانوں کے زخم پر جو طمانچہ تجھے لگا
+بابا کو تو سناں پہ صدا دیتی رہ گئی
+بابا سناں پہ روتے تھے تب تجھ کو دیکھ کر
 
-3
-Amma Ki Tarha Tujh Ko Na Mil Payi Thi Rida.
-Baba Ki Tarha Tujh Ko Kafan Bhi Na Mil Saka.
-Pathar Bhi Khaye Sham Mein Tu Ne Meri Tarha.
-Naqay Se Gir Ke Ho Gayi Teri Bhi Khum Kamar.
-Main Le Ke Tujh Ko Sham Se Wapis Na Ja Saka.
-Baba Ko Kya Bataon Main Ab Ja Ke Karbala.
+۳
+اماں کی طرح تجھ کو نہ مل پائی تھی ردا
+بابا کی طرح تجھ کو کفن بھی نہ مل سکا
+پتھر بھی کھائے شام میں تو نے میری طرح
+ناقے سے گر کے ہو گئی تیری بھی خم کمر
+میں لے کے تجھ کو شام سے واپس نہ جا سکا
+بابا کو کیا بتاؤں میں اب جا کے کربلا
 
-4
-Kurtay Mein Dafan Kar Ke Banai Teri Lehad.
-Abid Ko Khoon Rulaye Ga Yeh Dard Umar Bhar.
-Karbal Mein Chin Gayi Thi Tere Sar Se Jo Rida.
-Wapis Main La Chuka Hoon Ossay Dekh Tu Zarra.
-Sar Par Main Tere Rakhta Rida Apne Hath Se.
-Afsoos Haye Sham Mein Tu Na Rahi Magar.
+۴
+کرتے میں دفن کر کے بنائی تیری لحد
+عابد کو خون رلائے گا یہ درد عمر بھر
+کربل میں چھن گئی تھی تیرے سر سے جو ردا
+واپس میں لا چکا ہوں اسے دیکھ تو ذرا
+سر پر میں تیرے رکھتا ردا اپنے ہاتھ سے
+افسوس ہائے شام میں تو نہ رہی مگر
 
-5
-Amma Ke Bain Sun Ke Nikalti Hai Jaan Meri.
-Kehti Hai Umar Bhar Na Woh Saye Mein Jaye Gi.
-Kaisay Uthaon Ujari Hoi Maa Ko Tu Bata.
-Teri Lehad Se Maa Ki Bhi Hatti Nahi Nazar.
-Woh Rukhsat-e-Hussain Pe Zainab Ka Imtehaan.
-Aisa Hi Aaj Phir Se Hai Zindan Ka Samaa.
+۵
+اماں کے بین سن کے نکلتی ہے جان میری
+کہتی ہے عمر بھر نہ وہ سائے میں جائے گی
+کیسے اٹھاؤں اجڑی ہوئی ماں کو تو بتا
+تیری لحد سے ماں کی بھی ہٹتی نہیں نظر
+وہ رخصتِ حسین پہ زینب کا امتحان
+ایسا ہی آج پھر سے ہے زندان کا سماں
 
-6
-Sajjad Ho Raha Hai Juda Aisay Behan Se.
-Uthta Hai Ro Ke Qabar Se Girta Hai Qabar Par.
-Likhon Sahaab Kis Tarha Mehshar Ka Marhala.
-Tha Gham Ki Inteha Pe Bhi Abid Ka Hosla.
-Zindah Behan Ki Qabar Se Uth Kar Chala Gaya.
-Ahwal-e-Gham Sunanay Ko Baba Ki Qabar Par.
+۶
+سجاد ہو رہا ہے جدا ایسے بہن سے
+اٹھتا ہے رو کے قبر سے گرتا ہے قبر پر
+لکھوں سحاب کس طرح محشر کا مرحلہ
+تھا غم کی انتہا پہ بھی عابد کا حوصلہ
+زندہ بہن کی قبر سے اٹھ کر چلا گیا
+احوالِ غم سنانے کو بابا کی قبر پر

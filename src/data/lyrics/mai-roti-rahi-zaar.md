@@ -1,6 +1,6 @@
 ---
 title: "جب قاصد صغرا مقتل پہنچا"
-alternateTitle: "Mai Roti Rahi Zaar"
+alternateTitle: "Main Roti Rahi Zaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab qasid e sughra maqtal pahuncha
-  Usne dekha dasht meiṅ tanha
-  Baithe hai sarwar
-  Haathoṅ pe lekar laashaye akbar
+  Jab qaasid-e-Sughra maqtal pahuncha
+  Us ne dekha dasht meiṅ tanha
+  Baithe haiṅ Sarwar
+  Haathoṅ pe lekar laasha-e-Akbar
   Dil thaam ke phir maula ne
-  Tehrir padi sughra ki
+  Tahrir parhi Sughra ki
   Dukhiya ne kiya tha nauha
   Baba tum bhi na aaye
-  Bhaiya akbar na aaye
-  Na aaya mera alamdar
-  Zaar o zaar mai roti rahi
-  Nauha tha ye sughra ka
-  Jab sham dhale mai baithi
-  Chaukat pe aakar
-  Nazroṅ ko bicha kar royi
+  Bhaiya Akbar na aaye
+  Na aaya mera alamdaar
+  Zaar o zaar main roti rahi
+  Nauha tha ye Sughra ka
+  Jab shaam dhale main baithi
+  Chaukhat pe aakar
+  Nazroṅ ko bichha kar royi
   Ye baat keh kar
-  Tujhe aaj bhi raaheiṅ roti hai
-  Hamshir ki baaheiṅ roti hai
-  Mere akbar mere ghamkhwar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
+  Tujhe aaj bhi raaheṅ roti haiṅ
+  Hamshir ki baaheṅ roti haiṅ
+  Mere Akbar mere gham khwaar
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
   Aur kaam mera ab kya hai
-  Aansoo bahana
+  Aansuṅ bahana
   Yaad aaye mujhe har lamha
   Asghar ka jaana
-  Jhule ki hilakar doriyaṅ
-  Deti hoo use mai loriyaṅ
+  Jhule ki hila kar doriyaṅ
+  Deti huṅ use main loriyaṅ
   Mera jina hua dushwaar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
   Din raat tumhare gham meiṅ
-  Roti hai sughra
-  Ae baba chacha se kehna
-  Marti hai sughra
-  Kiuṅ dur mai tumse rehti hoo
-  Mai bhi to sakina jaisi hoo
-  Kya mujhse nahi hai pyar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
+  Roti hai Sughra
+  Ae baba chaacha se kehna
+  Marti hai Sughra
+  Kiuṅ dur main tum se rehti huṅ
+  Main bhi to Sakina jaisi huṅ
+  Kya mujh se nahiṅ hai pyaar
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
   Nazroṅ meiṅ sabhi ke chehre
-  Rehte hai baba
-  Kiuṅ aun o mohamed mujhse
-  Ruthe hai baba
-  Mere qasim o akbar aajaye
-  Sab mere baradar aajaye
-  Nahi jine se phir inkaar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
-  Kuch roz ki mai mehmaṅ hoo
-  Dunya meiṅ baba
-  Kya tumko gawara hai mai
-  Mar jauṅ tanha
-  Kuch roz agar na aayenge
-  Sughra ko lehad meiṅ payenge
+  Rehte haiṅ baba
+  Kiuṅ Aun o Muhammad mujh se
+  Ruthe haiṅ baba
+  Mere Qaasim o Akbar aa jaaye
+  Sab mere baraadar aa jaaye
+  Nahiṅ jine se phir inkaar
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
+  Kuch roz ki main mehmaaṅ huṅ
+  Duniya meiṅ baba
+  Kya tum ko ganwaara hai main
+  Mar jaa'uṅ tanha
+  Kuch roz agar na aayeṅge
+  Sughra ko lahad meiṅ paayeṅge
   Mere baba mere sardaar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
-  Amma se phuphi zainab se
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
+  Ammaaṅ se phuphi Zainab se
   Keh dena baba
-  Tum fateha parhne mere
+  Tum faatiha parhne mere
   Marqad pe aana
-  Akbar bhi agar saath aayega
-  Bimar ko chain aa jayega
-  Saare kunbe ki matamadar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
-  Jab meri lehad par pahunche
-  Irfan o mazhar
-  Dono ne diya tha pursa ye
-  Nauha pad kar
+  Akbar bhi agar saath aaye ga
+  Bimar ko chain aa jaaye ga
+  Saare kunbe ki maatam daar
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
+  Jab meri lahad par pahunche
+  Irfan aur Mazhar
+  Donoṅ ne diya tha pursa ye
+  Nauha parh kar
   Baba tum bhi na aaye
-  Bhaiya akbar na aaye
-  Na aaya mera alamdar
-  Zaar o zaar mai roti rahi...
-  Nauha tha ye sughra ka...
+  Bhaiya Akbar na aaye
+  Na aaya mera alamdaar
+  Zaar o zaar main roti rahi...
+  Nauha tha ye Sughra ka...
 ---
 
 ۱

@@ -17,22 +17,22 @@ romanLyrics: |-
   Jaise taswir-e-Mohammed se utha ho parda
   Jaise Haider ki jawaani ka chalan jalwa numa
 
-  Yak bayak salle ala naara-e-Akbar gunja
+  Yak ba yak salle ala naara-e-Akbar gunja
   Ana Ali Yabnul Husain Yabna Ali
-  Nahnu Wa Baytullah Aula bin Nabi
-  Ama Tarauna Kayfi Ahmi an Abi
-  Walaah La Yahkum Fina abna Dayi
-  Azribkum Bissaifi Ahmi an Abi
-  Zarbe Gulamin Hashmiin  Alavi
+  Nahn wa Baitullah bin Nabi
+  Ama tarauna kaifa ahmi an abi
+  Wallah la yahkum fina ibn ad-dai
+  Azribkum bis-saif ahmi an abi
+  Zarb ghulaamin Haashmi in Alavi
 
   1
-  Naam Akbar Ali Akbar hai mera
+  Naam Ali Akbar Ali Akbar hai mera
   Maiṅ Husain ibn-e-Ali ka beta
   Khaa raha huṅ qasam-e-Baitullah
   Hum ko haasil sharaf-e-khun-e-Nabi
 
   2
-  Badnasab ham pe hukumat karta
+  Bad nasb ham pe hukumat karta
   Na hua hai na kabhi ho sakta
   Wallah wallah Aba Abdillah
   Maiṅ fida tum pe Husain ibn-e-Ali
@@ -44,35 +44,35 @@ romanLyrics: |-
   Zarbat-e-Haashmi zarb-e-Alavi
 
   4
-  Keh ke ye fauj mein duba wo shujaa-e-azali
+  Keh ke ye fauj duba wo shujaa-e-azali
   Naara zan tha ke ana ibn-e-Husain ibn-e-Ali
   Tir chalne lage naize chale talwaar chali
-  Barq-e-Shamshir-e-Do Dam Se Saf-e-Kuffar Jali
+  Barq-e-shamshir-e-do dam se saf-e-kuffaar jali
   Kis tarah larta hai hamshakl-e-Payambar dekho
   Aaj shamshir-e-Husaini ke bhi jauhar dekho
 
   5
-  Palte maidaṅ se wigha karte hue
+  Palte maidaaṅ se wafa karte hue
   Aa ke baba se ye Akbar bole
   Thora paani mere baba jo mile
   Dekhna phir se meri tegh zani
 
   6
   Bole Sheh sukhi zabaaṅ dikhla kar
-  Muṅh meiṅ rakho ye anguthi Akbar
+  Muṅh meiṅ rakh lo ye anguthi Akbar
   Aisa sharbat tumheṅ deṅge Haider
-  Jisko pi kar tumheṅ kehna hai yahi
+  Jis ko pi kar tumheṅ kehna hai yahi
 
   7
   Ran meiṅ jaa kar wo bahut der lare
   Chaar jaanib se adu tut pare
   Naubateṅ bajne lagi jab wo gire
-  Ek sada gunji aba adrikni
+  Ik sada gunji Aba adrikni
 
   8
   Sun ke aawaaz-e-pisar Sheh daure
   Khaai thokar kabhi gir kar sambhle
-  Ghutniyoṅ chalte hue jab pahuṅche
+  Ghutniyoṅ chalte hue jab pahunche
   Ali Akbar ki ye aawaaz suni
 
   9

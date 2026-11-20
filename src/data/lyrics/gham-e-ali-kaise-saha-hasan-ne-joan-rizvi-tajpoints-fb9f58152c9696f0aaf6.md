@@ -1,53 +1,95 @@
 ---
-title: "Gham-e-Ali Kaise Saha Hasan Ne Joan Rizvi"
+title: "غمِ علی کیسے سہا حسن نے جون رضوی"
+alternateTitle: "Gham-e-Ali Kaise Saha Hasan Ne Joan Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Gham-e-Ali kaise saha Hasan ne Joan Rizvi
+  Logon ne haye kitna tarpaya Panjtan ko
+  Masjid mein mar dala kabay ke but shikan ko
+  Betay ke samne jo maa baap par hoye zulm
+
+  2
+  Ab tak rula rahe hain turbat mein woh Hasan ko
+  Zahra ke baad Ali ko logon ne jaisay mara kaisay saha Hasan ne
+  Zahra ka zakhmi chehra our zakhmi sar Ali ka kaisay saha Hasan ne
+  Jab gaud mein Hasan ne baba ke sar ko rakha
+
+  3
+  Dekha jo zakhm sar par tu bolay inna Lillah
+  Zahra ke zakhm jaisa zakhm-e-Ali tha gehra kaisay saha Hasan ne
+  Mazlomi-e-Ali par matam ki saf bicha kar
+  Ik dosrey ko gham se apne galay laga kar
+
+  4
+  Rona Hussain ka our Abbas ka tarapna kaisay saha Hasan ne
+  Masjid se jab Ali ko Hasnain laye ghar mein
+  Sab betiyon ne ro kar dali thi khak sar mein
+  Baba ko khoon mein doba jab betiyon ne dekha kaisay saha Hasan ne
+
+  5
+  Dar par yateem bachay kozay liye kharey hain
+  Hai kaun ab yateemo ke sar pe pochtay hain
+  Ro ro ke jab Ali ko Fizza ne yeh bataya kaisay saha Hasan ne
+  Ghusal-o-kafan Ali ko Hasnain de chukay jab
+
+  6
+  Gash kar gayin Hasan ko ro kar yeh keh ke Zainab
+  Kaisay kafan mein dekhey Zainab Ali ka chehra kaisay saha Hasan ne
+  Jab betiyaan Ali ke taboot se lipat kar
+  Ro ro ke keh rahi thin yeh peet peet ke sar
+
+  7
+  Seene laga lein uth kar phir betiyon ko baba kaisay saha Hasan ne
+  Baba ke baad Zainab jab unn ki har nishani
+  Seene Asad laga kar kartin thin noha khuwani
+  Rotin thin woh utha kar jab khoon bhara amama kaisay saha Hasan ne
 ---
 
-1
-Gham-e-Ali Kaise Saha Hasan Ne Joan Rizvi.
-Logon Ne Haye Kitna Tarpaya Panjtan Ko.
-Masjid Mein Mar Dala Kabay Ke But Shikan Ko.
-Betay Ke Samne Jo Maa Baap Par Hoye Zulm.
+۱
+غمِ علی کیسے سہا حسن نے جون رضوی
+لوگوں نے ہائے کتنا تڑپایا پنجتن کو
+مسجد میں مار ڈالا کعبے کے بت شکن کو
+بیٹے کے سامنے جو ماں باپ پر ہوئے ظلم
 
-2
-Ab Tak Rula Rahe Hain Turbat Mein Woh Hasan Ko.
-Zahra Ke Baad Ali Ko Logon Ne Jaisay Mara Kaisay Saha Hasan Ne.
-Zahra Ka Zakhmi Chehra Our Zakhmi Sar Ali Ka Kaisay Saha Hasan Ne.
-Jab Gaud Mein Hasan Ne Baba Ke Sar Ko Rakha.
+۲
+اب تک رلا رہے ہیں تربت میں وہ حسن کو
+زہرا کے بعد علی کو لوگوں نے جیسے مارا کیسے سہا حسن نے
+زہرا کا زخمی چہرہ اور زخمی سر علی کا کیسے سہا حسن نے
+جب گود میں حسن نے بابا کے سر کو رکھا
 
-3
-Dekha Jo Zakhm Sar Par Tu Bolay Inna Lillah.
-Zahra Ke Zakhm Jaisa Zakhm-e-Ali Tha Gehra Kaisay Saha Hasan Ne.
-Mazlomi-e-Ali Par Matam Ki Saf Bicha Kar.
-Ik Dosrey Ko Gham Se Apne Galay Laga Kar.
+۳
+دیکھا جو زخم سر پر تو بولے اِنّا لِلّٰہ
+زہرا کے زخم جیسا زخمِ علی تھا گہرا کیسے سہا حسن نے
+مظلومیِ علی پر ماتم کی صف بچھا کر
+اک دوسرے کو غم سے اپنے گلے لگا کر
 
-4
-Rona Hussain Ka Our Abbas Ka Tarapna Kaisay Saha Hasan Ne.
-Masjid Se Jab Ali Ko Hasnain Laye Ghar Mein.
-Sab Betiyon Ne Ro Kar Dali Thi Khak Sar Mein.
-Baba Ko Khoon Mein Doba Jab Betiyon Ne Dekha Kaisay Saha Hasan Ne.
+۴
+رونا حسین کا اور عباس کا تڑپنا کیسے سہا حسن نے
+مسجد سے جب علی کو حسنین لائے گھر میں
+سب بیٹیوں نے رو کر ڈالی تھی خاک سر میں
+بابا کو خون میں ڈوبا جب بیٹیوں نے دیکھا کیسے سہا حسن نے
 
-5
-Dar Par Yateem Bachay Kozay Liye Kharey Hain.
-Hai Kaun Ab Yateemo Ke Sar Pe Pochtay Hain.
-Ro Ro Ke Jab Ali Ko Fizza Ne Yeh Bataya Kaisay Saha Hasan Ne.
-Ghusal-o-Kafan Ali Ko Hasnain De Chukay Jab.
+۵
+در پر یتیم بچے کوزے لیے کھڑے ہیں
+ہے کون اب یتیموں کے سر پہ پوچھتے ہیں
+رو رو کے جب علی کو فضہ نے یہ بتایا کیسے سہا حسن نے
+غسل و کفن علی کو حسنین دے چکے جب
 
-6
-Gash Kar Gayin Hasan Ko Ro Kar Yeh Keh Ke Zainab.
-Kaisay Kafan Mein Dekhey Zainab Ali Ka Chehra Kaisay Saha Hasan Ne.
-Jab Betiyaan Ali Ke Taboot Se Lipat Kar.
-Ro Ro Ke Keh Rahi Thin Yeh Peet Peet Ke Sar.
+۶
+غش کر گئیں حسن کو رو کر یہ کہہ کے زینب
+کیسے کفن میں دیکھے زینب علی کا چہرہ کیسے سہا حسن نے
+جب بیٹیاں علی کے تابوت سے لپٹ کر
+رو رو کے کہہ رہی تھیں یہ پیٹ پیٹ کے سر
 
-7
-Seene Laga Lein Uth Kar Phir Betiyon Ko Baba Kaisay Saha Hasan Ne.
-Baba Ke Baad Zainab Jab Unn Ki Har Nishani.
-Seene Asad Laga Kar Kartin Thin Noha Khuwani.
-Rotin Thin Woh Utha Kar Jab Khoon Bhara Amama Kaisay Saha Hasan Ne.
+۷
+سینے لگا لیں اٹھ کر پھر بیٹیوں کو بابا کیسے سہا حسن نے
+بابا کے بعد زینب جب ان کی ہر نشانی
+سینے اسد لگا کر کرتی تھیں نوحہ خوانی
+روتی تھیں وہ اٹھا کر جب خون بھرا عمامہ کیسے سہا حسن نے

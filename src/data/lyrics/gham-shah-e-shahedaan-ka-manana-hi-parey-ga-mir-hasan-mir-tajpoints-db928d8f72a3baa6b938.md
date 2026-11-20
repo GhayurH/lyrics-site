@@ -1,38 +1,67 @@
 ---
-title: "Gham Shah-e-Shahedaan Ka Manana Hi Parey Ga Mir Hasan Mir"
+title: "غمِ شاہِ شہیداں کا منانا ہی پڑے گا"
+alternateTitle: "Gham Shah-e-Shahedaan Ka Manana Hi Parey Ga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+reciter: "Mir Hasan Mir"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Gham Shah-e-Shahedaan ka manana hi parey ga
+  Soyi hoi qismat ko jagana hi paray ga
+
+  1
+  Aisay nahi manay ga meri baat zamana
+  Matam ke liye hath uthana hi paray ga
+  Yeh Madar-e-Esa tu nahi hai jo palat jaye
+  Kabay ko niya dar tu banana hi paray ga
+
+  2
+  Shabeer ka gham rakh loon ga har cheez luta kar
+  Jeene ke liye kuch tu bachana hi paray ga
+  Janat ki giza khilaney ki khuwaish hai tu waiz
+  Majlis ka tabaruk tujhe khana hi paray ga
+
+  3
+  Abbas ko dekha tu Nuseri ne yeh socha
+  Bas aaj tu eman bachana hi paray ga
+  Jo loag Fidak kha ke banay sahib-e-dolat
+  Unn chehron ko aaina dikhana hi paray ga
+
+  4
+  Islam ke parcham ko bachana hai tu waiz
+  Abbas ke parcham ko uthana hi paray ga
+  Main ne tu dar-e-shah pe sar rakh diya Yasir
+  Taqdeer ko ab aouj pe jana hi paray ga
 ---
 
-Gham Shah-e-Shahedaan Ka Manana Hi Parey Ga – Mir Hasan Mir.
-Soyi Hoi Qismat Ko Jagana Hi Paray Ga.
+غمِ شاہِ شہیداں کا منانا ہی پڑے گا
+سوئی ہوئی قسمت کو جگانا ہی پڑے گا
 
-1
-Aisay Nahi Manay Ga Meri Baat Zamana.
-Matam Ke Liye Hath Uthana Hi Paray Ga.
-Yeh Madar-e-Esa Tu Nahi Hai Jo Palat Jaye.
-Kabay Ko Niya Dar Tu Banana Hi Paray Ga.
+۱
+ایسے نہیں مانے گا میری بات زمانہ
+ماتم کے لیے ہاتھ اٹھانا ہی پڑے گا
+یہ مادرِ عیسیٰ تو نہیں ہے جو پلٹ جائے
+کعبے کو نیا در تو بنانا ہی پڑے گا
 
-2
-Shabeer Ka Gham Rakh Loon Ga Har Cheez Luta Kar.
-Jeene Ke Liye Kuch Tu Bachana Hi Paray Ga.
-Janat Ki Giza Khilaney Ki Khuwaish Hai Tu Waiz.
-Majlis Ka Tabaruk Tujhe Khana Hi Paray Ga.
+۲
+شبیر کا غم رکھ لوں گا ہر چیز لٹا کر
+جینے کے لیے کچھ تو بچانا ہی پڑے گا
+جنت کی غذا کھلانے کی خواہش ہے تو واعظ
+مجلس کا تبرک تجھے کھانا ہی پڑے گا
 
-3
-Abbas Ko Dekha Tu Nuseri Ne Yeh Socha.
-Bas Aaj Tu Eman Bachana Hi Paray Ga.
-Jo Loag Fidak Kha Ke Banay Sahib-e-Dolat.
-Unn Chehron Ko Aaina Dikhana Hi Paray Ga.
+۳
+عباس کو دیکھا تو نصیری نے یہ سوچا
+بس آج تو ایمان بچانا ہی پڑے گا
+جو لوگ فدک کھا کے بنے صاحبِ دولت
+ان چہروں کو آئینہ دکھانا ہی پڑے گا
 
-4
-Islam Ke Parcham Ko Bachana Hai Tu Waiz.
-Abbas Ke Parcham Ko Uthana Hi Paray Ga.
-Main Ne Tu Dar-e-Shah Pe Sar Rakh Diya Yasir.
-Taqdeer Ko Ab Aouj Pe Jana Hi Paray Ga.
+۴
+اسلام کے پرچم کو بچانا ہے تو واعظ
+عباس کے پرچم کو اٹھانا ہی پڑے گا
+میں نے تو درِ شاہ پہ سر رکھ دیا یاسر
+تقدیر کو اب اوج پہ جانا ہی پڑے گا

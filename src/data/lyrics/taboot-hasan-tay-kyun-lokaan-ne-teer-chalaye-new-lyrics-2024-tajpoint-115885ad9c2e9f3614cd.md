@@ -1,32 +1,54 @@
 ---
-title: "Taboot Hasan Tay Kyun Lokaan Ne Teer Chalaye New Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "تابوت حسن تے کیوں لوکاں نے تیر چلائے"
+alternateTitle: "Taboot Hasan Tay Kyun Lokaan Ne Teer Chalaye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Taboot Hasan tay kyun lokaan ne teer chalaye
+  Kyun moriya aye be dafan janaza rozay taun ki aidi khata aye
+
+  1
+  Qasim yateem hoya Farwa aye wain kita
+  Ajay lal mera kamsin odhay sir taun kho le kyun haye babay de saye
+  Ghar choon safaid veran tainu kafan si paya
+  Hoya lal kafan haye Hasan bhira da kis zalim ayeh zulm kamaye
+
+  2
+  Loki dushmani ne karday haye jondiyaan de naal aye
+  Kehra wair si kyun haye Hasan Ameer di maiyyat te kyun teer wasaye
+  Le jao janazay nu zalim hukam sunaway
+  Shabbir kehya na zulm karo kalma go ayeh haye aman di ja aye
+
+  3
+  Nayi maa da sadma bhuliya babay da dukh rawaye
+  Ro veer Shabbir nu aakhan bhaina chad chaliya hun Hasan bhira aye
+  Sajjad janday ne ayeh khon aye Nabi da
+  Aina kalma gowaan baad Muhammad de aiday sab qaul bhulaye
 ---
 
-Taboot Hasan Tay Kyun Lokaan Ne Teer Chalaye.
-Kyun Moriya Aye Be Dafan Janaza Rozay Taun Ki Aidi Khata Aye.
+تابوت حسن تے کیوں لوکاں نے تیر چلائے
+کیوں موڑیا اے بے دفن جنازہ روضے توں کی ایدی خطا اے
 
-1
-Qasim Yateem Hoya Farwa Aye Wain Kita.
-Ajay Lal Mera Kamsin Odhay Sir Taun Kho Le Kyun Haye Babay De Saye.
-Ghar Choon Safaid Veran Tainu Kafan Si Paya.
-Hoya Lal Kafan Haye Hasan Bhira Da Kis Zalim Ayeh Zulm Kamaye.
+۱
+قاسم یتیم ہویا فروہ اے وین کیتا
+اجے لال میرا کمسن اوہدے سر توں کھو لے کیوں ہائے بابے دے سائے
+گھر چوں سفید ویراں تینوں کفن سی پایا
+ہویا لال کفن ہائے حسن بھرا دا کس ظالم ایہہ ظلم کمائے
 
-2
-Loki Dushmani Ne Karday Haye Jondiyaan De Naal Aye.
-Kehra Wair Si Kyun Haye Hasan Ameer Di Maiyyat Te Kyun Teer Wasaye.
-Le Jao Janazay Nu Zalim Hukam Sunaway.
-Shabbir Kehya Na Zulm Karo Kalma Go Ayeh Haye Aman Di Ja Aye.
+۲
+لوکی دشمنی نے کردے ہائے جوندیاں دے نال اے
+کیہڑا ویر سی کیوں ہائے حسن امیر دی میت تے کیوں تیر وسائے
+لے جاؤ جنازے نوں ظالم حکم سناوے
+شبیر کہیا نہ ظلم کرو کلمہ گو ایہہ ہائے امن دی جا اے
 
-3
-Nayi Maa Da Sadma Bhuliya Babay Da Dukh Rawaye.
-Ro Veer Shabbir Nu Aakhan Bhaina Chad Chaliya Hun Hasan Bhira Aye.
- Sajjad Janday Ne Ayeh Khon Aye Nabi Da.
-Aina Kalma Gowaan Baad Muhammad De Aiday Sab Qaul Bhulaye.
+۳
+نئیں ماں دا صدمہ بھلیا بابے دا دکھ روائے
+رو ویر شبیر نوں آکھن بھیناں چھڈ چلیا ہن حسن بھرا اے
+سجاد جاندے نے ایہہ خون اے نبی دا
+ایناں کلمہ گوواں بعد محمد دے ایدے سب قول بھلائے

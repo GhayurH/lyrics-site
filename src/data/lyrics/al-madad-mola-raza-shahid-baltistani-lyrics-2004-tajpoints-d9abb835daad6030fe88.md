@@ -1,50 +1,90 @@
 ---
-title: "Al Madad Mola Raza Shahid Baltistani Lyrics 2004"
+title: "المدد مولا رضا"
+alternateTitle: "Al Madad Mola Raza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Al madad Mola Raza Shahid Baltistani
+  Nana Nabi, dada Ali, dadi teri Khair-ul-Nisa
+
+  1
+  Tu hai Masiha-e-jahan Shah-e-Khursaan hai laqab
+  Youn har farishta roze par aata hai tere ba-adab
+  Haan rad nahi hoti tere roze pe koi bhi dua
+  Binai bhi deta hai tu goyai bhi deta hai tu
+
+  2
+  Mangay agar tujh se koi danai bhi deta hai tu
+  Tu bhi tu Bab-e-Ilm hai tu bhi tu hai Mushkil Kusha
+  Hai Zamin-e-Aaho bhi tu gul bhi hai tu khushbu bhi tu
+  Hai ponchta har aankh se girtay howay aanso bhi tu
+
+  3
+  Teri ataein dekh kar dushman ko bhi kehna para
+  Teri karamaat-e-nazar shab ho ke ho waqt-e-sehar
+  Kehta hai har zair tera roze ki jali choom kar
+  Mashad muqadas ho gaya tu ne jo aa kar di azaan
+
+  4
+  Tere hi dastar khuwan par hota hai janat ka gumaan
+  Jin-o-malak lete hain sab tere hi dar se rotiyaan
+  Mula tera maqrooz hai har ik gada-o-badshah
+  Rozay se tere door hain hum tu bohat majboor hain
+
+  5
+  Aankhon se aanso hain rawaan dil bhi ghamo se chor hain
+  Tujh se kahin gaye haal-e-dil izn-e-zyarat kar atta
+  Ahl-e-Azza ke hal par dukhta tu ho ga dil tera
+  Ishq-e-gham-e-Shabir mein maray gaye jo be-khata
+
+  6
+  Hai monas-o-yawar tu hi Ibn-e-Shaheed-e-Karbala
+  Rehan mujh ko hai yaqeen Mula Raza ki zaat se
+  Yeh nokari Shabir ki jaye gi ab na hath se
+  Nohay likhon ga main sada detey rahein gaye woh sila
 ---
 
-Al Madad Mola Raza Shahid Baltistani.
-Nana Nabi, Dada Ali, Dadi Teri Khair-ul-Nisa.
+المدد مولا رضا شاہد بلتستانی
+نانا نبی، دادا علی، دادی تیری خیر النساء
 
-1
-Tu Hai Masiha-e-Jahan Shah-e-Khursaan Hai Laqab.
-Youn Har Farishta Roze Par Aata Hai Tere Ba-Adab.
-Haan Rad Nahi Hoti Tere Roze Pe Koi Bhi Dua.
-Binai Bhi Deta Hai Tu Goyai Bhi Deta Hai Tu.
+۱
+تو ہے مسیحائے جہاں شاہِ خراساں ہے لقب
+یوں ہر فرشتہ روضے پر آتا ہے تیرے باادب
+ہاں رد نہیں ہوتی تیرے روضے پہ کوئی بھی دعا
+بینائی بھی دیتا ہے تو گویائی بھی دیتا ہے تو
 
-2
-Mangay Agar Tujh Se Koi Danai Bhi Deta Hai Tu.
-Tu Bhi Tu Bab-e-Ilm Hai Tu Bhi Tu Hai Mushkil Kusha.
-Hai Zamin-e-Aaho Bhi Tu Gul Bhi Hai Tu Khushbu Bhi Tu.
-Hai Ponchta Har Aankh Se Girtay Howay Aanso Bhi Tu.
+۲
+مانگے اگر تجھ سے کوئی دانائی بھی دیتا ہے تو
+تو بھی تو بابِ علم ہے تو بھی تو ہے مشکل کشا
+ہے ضامنِ آہو بھی تو گل بھی ہے تو خوشبو بھی تو
+ہے پونچھتا ہر آنکھ سے گرتے ہوئے آنسو بھی تو
 
-3
-Teri Ataein Dekh Kar Dushman Ko Bhi Kehna Para.
-Teri Karamaat-e-Nazar Shab Ho Ke Ho Waqt-e-Sehar.
-Kehta Hai Har Zair Tera Roze Ki Jali Choom Kar.
-Mashad Muqadas Ho Gaya Tu Ne Jo Aa Kar Di Azaan.
+۳
+تیری عطائیں دیکھ کر دشمن کو بھی کہنا پڑا
+تیری کراماتِ نظر شب ہو کہ ہو وقتِ سحر
+کہتا ہے ہر زائر تیرا روضے کی جالی چوم کر
+مشہد مقدس ہو گیا تو نے جو آ کر دی اذاں
 
-4
-Tere Hi Dastar Khuwan Par Hota Hai Janat Ka Gumaan.
-Jin-o-Malak Lete Hain Sab Tere Hi Dar Se Rotiyaan.
-Mula Tera Maqrooz Hai Har Ik Gada-o-Badshah.
-Rozay Se Tere Door Hain Hum Tu Bohat Majboor Hain.
+۴
+تیرے ہی دسترخوان پر ہوتا ہے جنت کا گماں
+جن و ملک لیتے ہیں سب تیرے ہی در سے روٹیاں
+مولا تیرا مقروض ہے ہر اک گدا و بادشاہ
+روضے سے تیرے دور ہیں ہم تو بہت مجبور ہیں
 
-5
-Aankhon Se Aanso Hain Rawaan Dil Bhi Ghamo Se Chor Hain.
-Tujh Se Kahin Gaye Haal-e-Dil Izn-e-Zyarat kar Atta.
-Ahl-e-Azza Ke Hal Par Dukhta Tu Ho Ga Dil Tera.
-Ishq-e-Gham-e-Shabir Mein Maray Gaye Jo Be-Khata.
+۵
+آنکھوں سے آنسو ہیں رواں دل بھی غموں سے چور ہیں
+تجھ سے کہیں گے حالِ دل اذنِ زیارت کر عطا
+اہلِ عزا کے حال پر دکھتا تو ہو گا دل تیرا
+عشقِ غمِ شبیر میں مارے گئے جو بے خطا
 
-6
-Hai Monas-o-Yawar Tu Hi Ibn-e-Shaheed-e-Karbala.
- Rehan Mujh Ko Hai Yaqeen Mula Raza Ki Zaat se.
-Yeh Nokari Shabir Ki Jaye Gi Ab Na Hath Se.
-Nohay Likhon Ga Main Sada Detey Rahein Gaye Woh Sila.
+۶
+ہے مونس و یاور تو ہی ابنِ شہیدِ کربلا
+ریحان مجھ کو ہے یقین مولا رضا کی ذات سے
+یہ نوکری شبیر کی جائے گی اب نہ ہاتھ سے
+نوحے لکھوں گا میں سدا دیتے رہیں گے وہ صلہ

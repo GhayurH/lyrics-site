@@ -1,33 +1,55 @@
 ---
-title: "Shabar Ke Janaze Ko Sajjad Ashraf Taqvi"
+title: "شبر کے جنازے کو، سجاد اشرف تقوی"
+alternateTitle: "Shabar Ke Janaze Ko, Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shabar ke janazay ko musalmano ne wapis lauta diya hai
+  Haye kash soch letey Zahra ka yeh pyara hai jo bint-e-Mustafa hai
+  Taboot lautana tha haye teer na chalatay
+  Baqiya mein Fatima ko itna tu na satatay
+  Haider ki betiyon ko socho tu zarra logo kis baat ka sila hai
+  Niklay Hasan ke tukray Farwa jo dekhey bikhrey
+  Haye naseeb mere kehne lagi tarap ke
+  Kis ki nazar lagi hai Zahra ke bharay ghar ko ummat ne kya kiya hai
+  Kehti thi ro ke Farwa hum se na door jao
+  Qasim abhi hain kamsin maula humein bachao
+  Dushman hoi khudai bin aap ke dunya mein ab kaun aasra hai
+  Bazaron mein maiyyat par paikaan baras rahe they
+  Taboot ko uthaye Abbas ro rahe they
+  Mehsos ho raha tha aoulad-e-Muhammad par aagaz-e-Karbala hai
+  Taboot toota toota our kafan bhi chida tha
+  Maiyyat ke har zakhm se haye khon beh raha tha
+  Kis haal mein utha hai dunya mein janaza yeh na uthay ga na utha hai
+  Aisi misal koi milti nahi dehar mein
+  Ghar se utha janaza phir laut aaye ghar mein
+  Kis be basi se wapis aaya tha janaza yeh tareekh bhi gawah hai
 ---
 
-1
-Shabar Ke Janaze Ko Sajjad Ashraf Taqvi.
-Shabar Ke Janazay Ko Musalmano Ne Wapis Lauta Diya Hai.
-Haye Kash Soch Letey Zahra Ka Yeh Pyara Hai Jo Bint-e-Mustafa Hai.
-Taboot Lautana Tha Haye Teer Na Chalatay.
-Baqiya Mein Fatima Ko Itna Tu Na Satatay.
-Haider Ki Betiyon Ko Socho Tu Zarra Logo Kis Baat Ka Sila Hai.
-Niklay Hasan Ke Tukray Farwa Jo Dekhey Bikhrey.
-Haye Naseeb Mere Kehne Lagi Tarap Ke.
-Kis Ki Nazar Lagi Hai Zahra Ke Bharay Ghar Ko Ummat Ne Kya Kiya Hai.
-Kehti Thi Ro Ke Farwa Hum Se Na Door Jao.
-Qasim Abhi Hain Kamsin Maula Humein Bachao.
-Dushman Hoi Khudai Bin Aap Ke Dunya Mein Ab Kaun Aasra Hai.
-Bazaron Mein Maiyyat Par Paikaan Baras Rahe They.
-Taboot Ko Uthaye Abbas Ro Rahe They.
-Mehsos Ho Raha Tha Aoulad-e-Muhammad Par Aagaz-e-Karbala Hai.
-Taboot Toota Toota Our Kafan Bhi Chida Tha.
-Maiyyat Ke Har Zakhm Se Haye Khon Beh Raha Tha.
-Kis Haal Mein Utha Hai Dunya Mein Janaza Yeh Na Uthay Ga Na Utha Hai.
-Aisi Misal Koi Milti Nahi Dehar Mein.
-Ghar Se Utha Janaza Phir Laut Aaye Ghar Mein.
-Kis Be Basi Se Wapis Aaya Tha Janaza Yeh Tareekh Bhi Gawah Hai.
+۱
+شبر کے جنازے کو مسلمانوں نے واپس لوٹا دیا ہے
+ہائے کاش سوچ لیتے زہرا کا یہ پیارا ہے جو بنتِ مصطفیٰ ہے
+تابوت لوٹانا تھا ہائے تیر نہ چلاتے
+بقیع میں فاطمہ کو اتنا تو نہ ستاتے
+حیدر کی بیٹیوں کو سوچو تو ذرا لوگو کس بات کا صلہ ہے
+نکلے حسن کے ٹکڑے فروہ جو دیکھے بکھرے
+ہائے نصیب میرے کہنے لگی تڑپ کے
+کس کی نظر لگی ہے زہرا کے بھرے گھر کو امت نے کیا کیا ہے
+کہتی تھی رو کے فروہ ہم سے نہ دور جاؤ
+قاسم ابھی ہیں کم سن مولا ہمیں بچاؤ
+دشمن ہوئی خدائی بن آپ کے دنیا میں اب کون آسرا ہے
+بازاروں میں میت پر پیکاں برس رہے تھے
+تابوت کو اٹھائے عباس رو رہے تھے
+محسوس ہو رہا تھا اولادِ محمد پر آغازِ کربلا ہے
+تابوت ٹوٹا ٹوٹا اور کفن بھی چھدا تھا
+میت کے ہر زخم سے ہائے خون بہہ رہا تھا
+کس حال میں اٹھا ہے دنیا میں جنازہ یہ نہ اٹھے گا نہ اٹھا ہے
+ایسی مثال کوئی ملتی نہیں دہر میں
+گھر سے اٹھا جنازہ پھر لوٹ آئے گھر میں
+کس بے بسی سے واپس آیا تھا جنازہ یہ تاریخ بھی گواہ ہے

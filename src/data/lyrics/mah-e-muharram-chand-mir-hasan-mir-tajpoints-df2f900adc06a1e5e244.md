@@ -1,36 +1,60 @@
 ---
-title: "Mah E Muharram Chand Mir Hasan Mir"
+title: "ماہِ محرم چاند میر حسن میر"
+alternateTitle: "Mah-e-Muharram Chand Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sughra ko Muharram ka jab chand nazar aaya
+  Yaad-e-sheh-e-wala ne dil our bhi tarpaya
+  Chand ko dekh ke Sughra ne kaha haye Hussain
+  Aa gaya mah-e-Muharram par nahi aaye Hussain
+  Yaad pardais mein aati hai lehad amma ki
+  Dil ka ahwal sunanay ko kahan jaye Hussain
+  Aap aaye na khabar aayi na Akbar aaye
+  Kaisay iss haal mein Sughra se jiya jaye Hussain
+  Jab se yeh chand Muharram ka nazar aaya hai
+  Amma roti hain tujhey aye mere maa jaye Hussain
+  Koi tasveer tu Zahra ki rahi parday mein
+  Yeh tu acha howa Sughra ko nahi laye Hussain
+  Naam par shah ne Akbar ke kharedi hai zameen
+  Kaisay jageer tujhey bhai ki dikhlaye Hussain
+  Eid bhi soag ke aalam mein guzari oss ne
+  Haye Akbar kabhi kehti thi kabhi haye Hussain
+  Mustaqil shah ki aankhon se they aanso jari
+  Khat-e-Sughra ko mukamal nahi parh paye Hussain
+  Aik ik beti se rukhsat hoye khaimay mein magar
+  Haye afsoos keh Sughra se na mil paye Hussain
+  Likh ke noha yeh Takallum ne dua mangi hai
+  Har azadar ko Ashor pe bulwaye Hussain
 ---
 
-1
-Mah e Muharram Chand Mir Hasan Mir
-Sughra Ko Muharram Ka Jab Chand Nazar Aaya.
-Yaad-e-Sheh-e-Wala Ne Dil Our Bhi Tarpaya.
-Chand Ko Dekh Ke Sughra Ne Kaha Haye Hussain.
-Aa Gaya Mah-e-Muharram Par Nahi Aaye Hussain.
-Yaad Pardais Mein Aati Hai Lehad Amma Ki.
-Dil Ka Ahwal Sunanay Ko Kahan Jaye Hussain.
-Aap Aaye Na Khabar Aayi Na Akbar Aaye.
-Kaisay Iss Haal Mein Sughra Se Jiya Jaye Hussain.
-Jab Se Yeh Chand Muharram Ka Nazar Aaya Hai.
-Amma Roti Hain Tujhey Aye Mere Maa Jaye Hussain.
-Koi Tasveer Tu Zahra Ki Rahi Parday Mein.
-Yeh Tu Acha Howa Sughra Ko Nahi Laye Hussain.
-Naam Par Shah Ne Akbar Ke Kharedi Hai Zameen.
-Kaisay Jageer Tujhey Bhai Ki Dikhlaye Hussain.
-Eid Bhi Soag Ke Aalam Mein Guzari Oss Ne.
-Haye Akbar Kabhi Kehti Thi Kabhi Haye Hussain.
-Mustaqil Shah Ki Aankhon Se They Aanso Jari.
-Khat-e-Sughra Ko Mukamal Nahi Parh Paye Hussain.
-Aik Ik Beti Se Rukhsat Hoye Khaimay Mein Magar.
-Haye Afsoos Keh Sughra Se Na Mil Paye Hussain.
-Likh Ke Noha Yeh Takallum Ne Dua Mangi Hai.
-Har Azadar Ko Ashor Pe Bulwaye Hussain.
+۱
+صغریٰ کو محرم کا جب چاند نظر آیا
+یادِ شہِ والا نے دل اور بھی تڑپایا
+چاند کو دیکھ کے صغریٰ نے کہا ہائے حسین
+آ گیا ماہِ محرم پر نہیں آئے حسین
+یاد پردیس میں آتی ہے لحد اماں کی
+دل کا احوال سنانے کو کہاں جائے حسین
+آپ آئے نہ خبر آئی نہ اکبر آئے
+کیسے اس حال میں صغریٰ سے جیا جائے حسین
+جب سے یہ چاند محرم کا نظر آیا ہے
+اماں روتی ہیں تجھے اے میرے ماں جائے حسین
+کوئی تصویر تو زہرا کی رہی پردے میں
+یہ تو اچھا ہوا صغریٰ کو نہیں لائے حسین
+نام پر شاہ نے اکبر کے خریدی ہے زمین
+کیسے جاگیر تجھے بھائی کی دکھلائے حسین
+عید بھی سوگ کے عالم میں گزاری اس نے
+ہائے اکبر کبھی کہتی تھی کبھی ہائے حسین
+مستقل شاہ کی آنکھوں سے تھے آنسو جاری
+خطِ صغریٰ کو مکمل نہیں پڑھ پائے حسین
+ایک اک بیٹی سے رخصت ہوئے خیمے میں مگر
+ہائے افسوس کہ صغریٰ سے نہ مل پائے حسین
+لکھ کے نوحہ یہ تکلم نے دعا مانگی ہے
+ہر عزادار کو عاشور پہ بلوائے حسین

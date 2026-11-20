@@ -19,43 +19,43 @@ romanLyrics: |-
 
   1
   Suraj ne jis ko na dekha beparda
-  Usko nange sar dekhegi ab dunya
+  Us ko nange sar dekhegi ab duniya
   Waqt ye kaisa ghurbat ka mujh par aaya
 
   2
-  Tu jab se jaa kar darya pe soya hai
-  Saara kunba khun ke aansu roya hai
+  Tu jab se jaa kar dariya pe soya hai
+  Saara kunba khun ke aansuṅ roya hai
   Jal gaye khaime chhin gayi chaadar ghar ujra
 
   3
   Jis ke athaarah bhaai the wo khwaahar
   Qaidi ban kar khaati hai dar dar thokar
-  Mujhko muqaddar ne kar daala hai tanha
+  Mujh ko muqaddar ne kar daala hai tanha
 
   4
-  Qatl hue mere bete aur sab bhai
+  Qatl hue mere bete aur sab bhaai
   Haye mujhe taqdir kahaaṅ le kar aai
   Kaun kare imdaad nahiṅ koi apna
 
   5
-  Jab se suna hai aane waala hai bazaar
+  Jab se suna hai aane waala hai baazaar
   Dard ki chalti hai mere dil par talwaar
   Waqt hai teri behna ke mar jaane ka
 
   6
-  Dil mera ghabrata hai kya hoga ab
+  Dil mera ghabraata hai kya hoga ab
   Baazaaroṅ se kaise guzregi Zainab
   Chaaroṅ jaanib naamahram majma hoga
 
   7
-  Maiṅ ek din jis Kufe ki shahzaadi thi
-  Jaati huṅ us shahr meiṅ ban kar ke qaidi
-  Ae Ghazi ab phat jayega dil mera
+  Main ek din jis Kufe ki shahzaadi thi
+  Jaati huṅ us shahr mein ban kar ke qaidi
+  Ae Ghazi ab phat jaayega dil mera
 
   8
   Ek jaisi hai maaṅ aur beti ki ghurbat
   Donoṅ ko darbaar talak laai qismat
-  Farq hai itna parde meiṅ thi maaṅ Zahra
+  Farq hai itna parde mein thi maaṅ Zahra
 
   9
   Ae Waiz ek hashr ka manzar tha us dam

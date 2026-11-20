@@ -12,32 +12,32 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aalaam o masaib meiṅ giraftar hai Sughra
-  Bimar hai Sughra lachaar hai Sughra
+  Aalaam o masaib meiṅ giraftaar hai Sughra
+  Bimaar hai Sughra lachaar hai Sughra
 
   1
-  Sab chhor gaye ammaṅ phuphi aur biradar
-  Socha na kisi ne bhi ke bimar hai Sughra
+  Sab chhor gaye ammaṅ phuphi aur biraadar
+  Socha na kisi ne bhi ke bimaar hai Sughra
 
   2
   Sab bhul gaye jaa ke khabar tak nahiṅ bheji
-  Kya aisi furqat ki sazawar hai Sughra
+  Kya aisi furqat ki sazaawaar hai Sughra
 
   3
-  Hai wajh-e-judai yehi sehat ki kharaabi
-  Ab apni hi bimaari se bezar hai Sughra
+  Hai wajh-e-judaai yehi sehat ki kharaabi
+  Ab apni hi bimaari se bezaar hai Sughra
 
   4
   Milta hai sukuṅ din ko na nind aati hai shab ko
-  Akbar teri aamad ki talabgar hai Sughra
+  Akbar teri aamad ki talabgaar hai Sughra
 
   5
   Kam hoti nazar aati nahiṅ ashk fishaani
   Kuchh aise hi haalaat se dochaar hai Sughra
 
   6
-  Karte haiṅ Anis aah o buka parh ke ye noha
-  Kunbe ki judaai se dilafgar hai Sughra
+  Karte haiṅ Anis aah o bukaa parh ke ye noha
+  Kunbe ki judaai se dilafgaar hai Sughra
 ---
 آلام و مصائب میں گرفتار ہے صغرا
 بیمار ہے صغرا لاچار ہے صغرا

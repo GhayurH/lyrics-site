@@ -1,37 +1,63 @@
 ---
-title: "Sakina Imamat Ka Sitara Hai Syed Raza Abbas Lyrics 2020"
+title: "سکینہ امامت کا ستارہ ہے"
+alternateTitle: "Sakina Imamat Ka Sitara Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Sakina imamat ka sitara hai Syed Raza Abbas Zaidi
+
+  1
+  Sakina fajar-e-imamat ka woh sitara hai
+  Hussain aap ki khatir jisay utara hai
+  Agar yeh na hoon tu taroon mein roshni na rahe
+  Issi ke noor se roshan jahan sara hai
+  Namaz-e-shab mein Sakina ko mangtay hain Hussain
+  Yeh ja namaz pe kitna haseen nazara hai
+
+  2
+  Diya jo wasta iss ka tu aa gaye Abbas
+  Chacha bhateeji ka rishta bhi kitna pyara hai
+  Yeh jab talak na ho seene pe neend aati nahi
+  Kahan Hussain ka iss ke bina guzara hai
+  Sakina ban ke chali aaein Fatima phir se
+  Bina Hussain ke rehna kahan gawara hai
+
+  3
+  Yeh mojza bhi kayi shab Rubab ne dekha
+  Wahin hai chand jahan aap ka ishara hai
+  Hai misal-e-fatima mushkil kusha imamat ki
+  Madad ke wastay Sajjad ne pukara hai
+  Ho shah zadi yeh Zeeshan our Raza pe karam
+  Bola lein rozay pe arman yeh hamara hai
 ---
 
-Sakina Imamat Ka Sitara Hai Syed Raza Abbas Zaidi
+سکینہ امامت کا ستارہ ہے سید رضا عباس زیدی
 
-1
-Sakina Fajar-e-Imamat Ka Woh Sitara Hai.
-Hussain Aap Ki Khatir Jisay Utara Hai.
-Agar Yeh Na Hoon Tu Taroon Mein Roshni Na Rahe.
-Issi Ke Noor Se Roshan Jahan Sara Hai.
-Namaz-e-Shab Mein Sakina Ko Mangtay Hain Hussain.
-Yeh Ja Namaz Pe Kitna Haseen Nazara Hai.
+۱
+سکینہ فجرِ امامت کا وہ ستارہ ہے
+حسین آپ کی خاطر جسے اتارا ہے
+اگر یہ نہ ہوں تو تاروں میں روشنی نہ رہے
+اسی کے نور سے روشن جہاں سارا ہے
+نمازِ شب میں سکینہ کو مانگتے ہیں حسین
+یہ جائے نماز پہ کتنا حسین نظارہ ہے
 
-2
-Diya Jo Wasta Iss Ka Tu Aa Gaye Abbas.
-Chacha Bhateeji Ka Rishta Bhi Kitna Pyara Hai.
-Yeh Jab Talak Na Ho Seene Pe Neend Aati Nahi.
-Kahan Hussain Ka Iss Ke Bina Guzara Hai.
-Sakina Ban Ke Chali Aaein Fatima Phir Se.
-Bina Hussain Ke Rehna Kahan Gawara Hai.
+۲
+دیا جو واسطہ اس کا تو آ گئے عباس
+چچا بھتیجی کا رشتہ بھی کتنا پیارا ہے
+یہ جب تلک نہ ہو سینے پہ نیند آتی نہیں
+کہاں حسین کا اس کے بنا گزارا ہے
+سکینہ بن کے چلی آئیں فاطمہ پھر سے
+بنا حسین کے رہنا کہاں گوارا ہے
 
-3
-Yeh Mojza Bhi Kayi Shab Rubab Ne Dekha.
-Wahin Hai Chand Jahan Aap Ka Ishara Hai.
-Hai Misal-e-Fatima Mushkil Kusha Imamat Ki.
-Madad Ke Wastay Sajjad Ne Pukara Hai.
-Ho Shah Zadi Yeh Zeeshan Our Raza Pe Karam.
-Bola Lein Rozay Pe Arman Yeh Hamara Hai.
+۳
+یہ معجزہ بھی کئی شب رباب نے دیکھا
+وہیں ہے چاند جہاں آپ کا اشارہ ہے
+ہے مثالِ فاطمہ مشکل کشا امامت کی
+مدد کے واسطے سجاد نے پکارا ہے
+ہو شاہ زادی یہ ذیشان اور رضا پہ کرم
+بلا لیں روضے پہ ارمان یہ ہمارا ہے

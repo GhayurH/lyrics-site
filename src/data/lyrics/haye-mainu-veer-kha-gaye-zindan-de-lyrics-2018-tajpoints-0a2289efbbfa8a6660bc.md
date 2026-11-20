@@ -1,38 +1,66 @@
 ---
-title: "Haye Mainu Veer Kha Gaye Zindan De Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے مینوں ویر کھا گئے زنداں دے"
+alternateTitle: "Haye Mainu Veer Kha Gaye Zindan De"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye mainu veer kha gaye zindan de haneray
+  Lokaan kitay mar gayi si haye Sakina ujari par veer
+
+  1
+  Di banwaan te aa ke kitay wainr batheray
+  Sajja veer mera rakhein maan khas is gal da
+  Meri maiyyat galiyaan wich haye na jaway vera
+  Jinj Sham de qaidi shamiyaan ne wich galiyaan de phairay
+
+  2
+  Main jan gayi saan veran meri maut aa gayi aye hun
+  Mere kitay Karbal toon haye bhira aa gaye ne
+  Te baith gaye Akbar Asghar mere char choferay
+  Dafnan toon v pehlaan bas itna veer das da ja
+
+  3
+  Othay apne babay nu haye main ki aakhaan gi
+  Kyun neel ne babay jay pochiya rukhsaraan te mere
+  Sajjad wain paway majboor veer aan tera
+  Awein tak nayi sakda main haye ijazat de de
+
+  4
+  Kand kar ke te mitiyaan pawan main chehray te teray
+  Turbat bana ke Akbar Sajjad tur gaya lekin
+  Apni turbat day andar haye Sakina kaliyan
+  Rab jane waaqt nibhandi rayi kiwein sham saweray
 ---
 
-Haye Mainu Veer Kha Gaye Zindan De Haneray.
-Lokaan Kitay Mar Gayi Si Haye Sakina Ujari Par Veer
+ہائے مینوں ویر کھا گئے زنداں دے ہنیرے
+لوکاں کِتّے مر گئی سی ہائے سکینہ اُجاڑی پر ویر
 
-1
-Di Banwaan Te Aa Ke Kitay Wainr Batheray.
-Sajja Veer Mera Rakhein Maan Khas Is Gal Da.
-Meri Maiyyat Galiyaan Wich Haye Na Jaway Vera
-Jinj Sham De Qaidi Shamiyaan Ne Wich Galiyaan De Phairay.
+۱
+دی بانواں تے آ کے کِتّے وین بتھیرے
+سجّا ویر میرا رکھیں مان خاص اِس گل دا
+میری میت گلیاں وچ ہائے نہ جاوے ویرا
+جنج شام دے قیدی شامیاں نے وچ گلیاں دے پھیرے
 
-2
-Main Jan Gayi Saan Veran Meri Maut Aa Gayi Aye Hun.
-Mere Kitay Karbal Toon Haye Bhira Aa Gaye Ne
-Te Baith Gaye Akbar Asghar Mere Char Choferay.
-Dafnan Toon V Pehlaan Bas Itna Veer Das Da Ja.
+۲
+میں جان گئی ساں ویراں میری موت آ گئی اے ہُن
+میرے کِتّے کربل توں ہائے بھِرا آ گئے نے
+تے بیٹھ گئے اکبر اصغر میرے چار چوفیرے
+دفنان توں وی پہلاں بس اتنا ویر دس دا جا
 
-3
-Othay Apne Babay Nu Haye Main Ki Aakhaan Gi
-Kyun Neel Ne Babay Jay Pochiya Rukhsaraan Te Mere.
-Sajjad Wain Paway Majboor Veer Aan Tera.
-Awein Tak Nayi Sakda Main Haye Ijazat De De
+۳
+اوتھے اپنے بابے نوں ہائے میں کی آکھاں گی
+کیوں نیل نے بابے جے پچھیا رخساراں تے میرے
+سجاد وین پاوے مجبور ویر آں تیرا
+ایویں تک نئیں سکدا میں ہائے اجازت دے دے
 
-4
-Kand Kar Ke Te Mitiyaan Pawan Main Chehray Te Teray.
-Turbat Bana Ke Akbar Sajjad Tur Gaya Lekin.
-Apni Turbat Day Andar Haye Sakina Kaliyan
-Rab Jane Waaqt Nibhandi Rayi Kiwein Sham Saweray.
+۴
+کندھ کر کے تے مٹیاں پاواں میں چہرے تے تیرے
+تربت بنا کے اکبر سجاد ٹر گیا لیکن
+اپنی تربت دے اندر ہائے سکینہ کلیاں
+رب جانے وقت نبھاندی رہی کیویں شام سویرے

@@ -22,23 +22,23 @@ romanLyrics: |-
   Qurban tere sog pe
   Mere maula har khushi
   Meri saansoṅ meiṅ aza
-  Meri dharkan meiṅ buka
+  Aza meri dharkan meiṅ buka
   Tera gham gham-e-Karbala
   Keh rahi hai ye chashm-e-nam
   Salam bar Moharram
 
   2
   Tumheiṅ to pata hai maula
-  Gunahgaar huṅ maiṅ maula
+  Gunahgaar huṅ main maula
   Har ek waqt har ek lamha
-  Khataaoṅ meiṅ huṅ maiṅ duba
+  Khataaoṅ meiṅ huṅ main duba
   Magar jab Moharram aaya
-  Teri simt maiṅ laut aaya
-  Khatakaar huṅ maiṅ beshak
-  Magar huṅ maiṅ banda tera
+  Teri simt main laut aaya
+  Khatarnak huṅ main beshak
+  Magar huṅ main banda tera
   Ye sab kuch teri hi ataa hai
   Hameiṅ ye mahina mila hai
-  Faqat ek aansu pe hi
+  Faqat ek aansuṅ pe hi
   Makan khuld meiṅ paaya hai
   Tera jo gham mila na koi gham raha
   Ae Shah-e-Karbala dil ne di ye sada
@@ -48,11 +48,11 @@ romanLyrics: |-
   3
   Julus-e-aza-e-Husaini
   Jahaaṅ meiṅ bapa hai paiham
-  Alamdar-e-Karbobala ka
+  Alamdaar-e-Karb o Bala ka
   Qiyaadat hai karta parcham
   Mukhalif tha saara aalam
   Ruke na aza aur matam
-  Hui chaudah sadiyaaṅ lekin
+  Hai chaudah sadiyaaṅ lekin
   Hai jaari raha ye Moharram
   Azadar-e-shah ka jazba
   Ye saare jahaaṅ ne dekha
@@ -94,7 +94,7 @@ romanLyrics: |-
   Bapa is liye matam hai
   Nabi o Ali Zahra ki
   Hui aankh is meiṅ nam hai
-  Qatl-e-shah-e-umam kaisa hua sitam
+  Qatl-e-shah-e-umam kaisa wa sitam
   Ta hashr bhi ye gham na ho sakega kam
   Salam bar gham-e-Karbala
   Salam bar Moharram
@@ -103,15 +103,15 @@ romanLyrics: |-
   Moharram ka aisa asar hai
   Zehn meiṅ wohi manzar hai
   Hai behta hua ek darya
-  To pyasa koi lashkar hai
+  To pyaasa koi lashkar hai
   Ke bikhri hui laasheiṅ hai
-  To chinti hui chadar hai
+  To chhinti hui chaadar hai
   Jala Fatema ka ghar hai
   Jahaaṅ meiṅ bapa mahshar hai
   Kahiṅ pe kate baazu haiṅ
   Lahu meiṅ kahiṅ gesu haiṅ
   Ye ujre hue pardesi
-  Har ek aankh meiṅ aansu hai
+  Har ek aankh meiṅ aansuṅ hai
   Kaisi hui jafa Zehra ka ghar luta
   Usi ki yaad meiṅ jaari hai silsila
   Salam bar Aal-e-Sayyeda
@@ -123,14 +123,14 @@ romanLyrics: |-
   Aza o buka ki khaatir
   Khuda ne hameiṅ hai banaya
   Hai Salman o Misam hum pe
-  Bine Sayyeda ka saaya
+  Bin Sayyeda ka saaya
   Hameiṅ naaz hai ke hum ne
   Unhiṅ ka to sadqa khaaya
   Bahut fakhr hum ko is par
   Ke hum hai ghulaam-e-Haidar
   Hai bas zindagi ka maqsad
   Hamaari aza-e-Sarwar
-  Shaair o nauhakhwaan
+  Shaair o nauha khwaan
   Jab tak rahegi jaan
   Deiṅ ge is tarah nauhoṅ ki hum azaan
   Salam bar dua-e-Zahra

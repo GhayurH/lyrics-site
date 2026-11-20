@@ -1,44 +1,78 @@
 ---
-title: "Fatima Ka Dilruba Mashhad Mein Hai"
+title: "فاطمہ کا دلربا مشہد میں ہے"
+alternateTitle: "Fatima Ka Dilruba Mashhad Mein Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sabeeh"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Fatima ka dilruba Mashhad mein hai
+  Zeenat-e-Aal-e-Aba Mashhad mein hai
+
+  1
+  Noor mein hai inn ke Khaliq ki jhalak
+  Inn ke paikar mein Muhammad ki chamak
+  Payi hai wirsay mein Haider ki damak
+  Ismaton ka aina Mashhad mein hai
+
+  2
+  Har jagah yeh bhi howay fatehyaab
+  Inn ka chehra dekhna bhi hai sawab
+  Yeh bhi magrib se bula lein aaftab
+  Kya Nuseri ka khuda Mashhad mein hai
+
+  3
+  Guftugu jiss waqt karte the Imam
+  Sab samajhte hain Hasan mehway-e-kalam
+  Youn gham-e-Shabir ka tha ahtemam
+  Aisa lagta Karbala Mashhad mein hai
+
+  4
+  Keh raha hai yeh Wajhi-e-khush nawa
+  Mujh ko aaqa se ajab tuhfa mila
+  Main issi tareekh ko paida howa
+  So mera hajat rawa Mashhad mein hai
+
+  5
+  Jab se dekha shah-e-wala ka deyar
+  Ban giya main bhi Sabeeh-e-naamdar
+  Dill yeh kehta hai ke jaon bar bar
+  Khuld ki aab-o-hawa Mashhad mein hai
 ---
 
-Fatima Ka Dilruba Mashhad Mein Hai.
-Zeenat-e-Aal-e-Aba Mashhad Mein Hai.
+فاطمہ کا دلربا مشہد میں ہے
+زینتِ آلِ عبا مشہد میں ہے
 
-1
-Noor Mein Hai Inn Ke Khaliq Ki Jhalak.
-Inn Ke Paikar Mein Muhammad Ki Chamak.
-Payi Hai Wirsay Mein Haider Ki Damak.
-Ismaton Ka Aina Mashhad Mein Hai.
+۱
+نور میں ہے ان کے خالق کی جھلک
+ان کے پیکر میں محمد کی چمک
+پائی ہے ورثے میں حیدر کی دمک
+عصمتوں کا آئینہ مشہد میں ہے
 
-2
-Har Jagah Yeh Bhi Howay Fatehyaab.
-Inn Ka Chehra Dekhna Bhi Hai Sawab.
-Yeh Bhi Magrib Se Bula Lein Aaftab.
-Kya Nuseri Ka Khuda Mashhad Mein Hai.
+۲
+ہر جگہ یہ بھی ہوئے فتح یاب
+ان کا چہرہ دیکھنا بھی ہے ثواب
+یہ بھی مغرب سے بلا لیں آفتاب
+کیا نصیری کا خدا مشہد میں ہے
 
-3
-Guftugu Jiss Waqt Karte The Imam.
-Sab Samajhte Hain Hasan Mehway-e-Kalam.
-Youn Gham-e-Shabir Ka Tha Ahtemam.
-Aisa Lagta Karbala Mashhad Mein Hai.
+۳
+گفتگو جس وقت کرتے تھے امام
+سب سمجھتے ہیں حسن محوِ کلام
+یوں غمِ شبیر کا تھا اہتمام
+ایسا لگتا کربلا مشہد میں ہے
 
-4
-Keh Raha Hai Yeh WAJHI-E-Khush Nawa.
-Mujh Ko Aaqa Se Ajab Tuhfa Mila.
-Main Issi Tareekh Ko Paida Howa.
-So Mera Hajat Rawa Mashhad Mein Hai.
+۴
+کہہ رہا ہے یہ وجہیِ خوش نوا
+مجھ کو آقا سے عجب تحفہ ملا
+میں اسی تاریخ کو پیدا ہوا
+سو میرا حاجت روا مشہد میں ہے
 
-5
-Jab Se Dekha Shah-e-Wala Ka Deyar.
-Ban Giya Main Bhi Sabeeh-e-Naamdar.
-Dill Yeh Kehta Hai Ke Jaon Bar Bar.
-Khuld Ki Aab-o-Hawa Mashhad Mein Hai.
+۵
+جب سے دیکھا شاہِ والا کا دیار
+بن گیا میں بھی صبیحِ نامدار
+دل یہ کہتا ہے کہ جاؤں بار بار
+خلد کی آب و ہوا مشہد میں ہے

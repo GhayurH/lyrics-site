@@ -12,13 +12,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam gham-e-Shabbir meiṅ elaan-e-wafa hai
+  Maatam gham-e-Shabbir meiṅ ailaan-e-wafa hai
   Ye mit nahiṅ sakta hai ye Zehra ki dua hai
 
   1
   Zehra ke gulistaaṅ ko luta gaya ban meiṅ
   Paamaal hua Qasim-e-naushaah bhi ran meiṅ
-  Aur khaima-e-Shabbir meiṅ kohraam bapa hai
+  Aur khaima-e-Shabbir meiṅ kahraam bapa hai
 
   2
   Zainab ne kaha pit ke sar haaye re ghurbat
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Farmaati thi ro kar yehi bas Zainab-e-naashaad
-  Kis tarah barhaauṅ maiṅ qadam maiṅ Sayyed-e-Sajjaad
+  Kis tarah bandhaauṅ main qadam main Sayyed Sajjaad
   Har simt tamaashaai hai sar mera khula hai
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   6
   Jakra hua zanjiroṅ meiṅ hai Aabid-e-muztar
   Kis tarah se dafnaaye bhala laasha-e-khwaahar
-  Ek bhaai pe zindaaṅ meiṅ ajab waqt para hai
+  Ik bhaai pe zindaaṅ meiṅ ajab waqt para hai
 
   7
   Jo ran meiṅ luti hai usi jaagir ka maatam

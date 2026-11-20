@@ -1,92 +1,172 @@
 ---
-title: "Meda Huq Banda Nadeem Sarwar"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "میڈا حق بنڑدا — ندیم سرور"
+alternateTitle: "Meda Huq Banda Nadeem Sarwar"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jawad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Maida haq banrda
+
+  1
+  Haye oh maida haq banrda
+  Main rat rowaan
+  Sajjad yeh kehte they ro kar
+  Aye shehar-e-Nabi insaf tu kar
+
+  2
+  Mera bhi kabhi aabad tha ghar
+  Gar Sham shehar dukh na deta
+  Main khon ke aanso kyun rota
+  Assi Hashmi Syed sare
+
+  3
+  Wadh sab taun rab nu pyaray
+  Sadi shan ich utray parey
+  Jadon dhalya bakht shareefan da
+  Shala oss welay main mar janda
+
+  4
+  Main kiwein Sham bholawaan
+  Sang bhainra phophiyaan mawaan
+  Tang moor te okhiyaan rahwaan
+  Jadon wasda si meen pathraan da
+
+  5
+  Shala oss welay main mar janda
+  Logo main Syed zadah
+  Konain ka main shehzada
+  Mujhe Sham shehar ne loota
+
+  6
+  Uff mere khudaya Allah Allah
+  Aye kash wahan main mar jata
+  Tasbeeh de tut gaye danray
+  Wich Karbal de rab janrey
+
+  7
+  Hin okhay dard bholanray
+  Jadon chaya kand te Aoun di maa
+  Shala oss welay main mar janda
+  Jadon Sham-e-ghareebaan aayi
+
+  8
+  Haye zalimaan looti payi
+  Rayi rondi Zahra jayi
+  Jadon sar gaye khaimay wich sehra
+  Shala oss welay main mar janda
+
+  9
+  Phophi Zainab dhi Zahra di
+  Shehzadi sharam-o-haya di
+  Abbas di murshid zadi
+  Jadon Kofay wich gayi baaj bhira
+
+  10
+  Shala oss welay main mar janda
+  Haris bin Nofal jis ne
+  Cheeni thi rida naizay se
+  Yeh zalim sare rastay
+
+  11
+  Phophiyon ko na soney deta tha
+  Aye kash wahan main mar jata
+  Wich Sham walay bazar aye
+  Aaye wekhan loag hazar aye
+
+  12
+  Ronday ray pardah daar aye
+  Jadon wekhiya Shimar nu main hasda
+  Shala oss welay main mar janda
+  Jawad Rehan te Sarwar
+
+  13
+  Aakhay Abid matam kar kar
+  Zalim darbar de andar
+  Jadon maa Zainab da naam liya
+  Shala oss welay main mar janda
 ---
 
-Meda Huq Banda Nadeem Sarwar Lyrics
-Maida Haq Banrda.
+میڈا حق بنڑدا
 
-1
-Haye Oh Maida Haq Banrda.
-Main Rat Rowaan.
-Sajjad Yeh Kehte They Ro Kar.
-Aye Shehar-e-Nabi Insaf Tu Kar.
+۱
+ہائے اوہ میڈا حق بنڑدا
+میں رت رواں
+سجاد یہ کہتے تھے رو کر
+اے شہرِ نبی انصاف تو کر
 
-2
-Mera Bhi Kabhi Aabad Tha Ghar.
-Gar Sham Shehar Dukh Na Deta.
-Main Khon Ke Aanso Kyun Rota.
-Assi Hashmi Syed Sare.
+۲
+میرا بھی کبھی آباد تھا گھر
+گر شام شہر دکھ نہ دیتا
+میں خون کے آنسو کیوں روتا
+اسیں ہاشمی سید سارے
 
-3
-Wadh Sab Taun Rab Nu Pyaray.
-Sadi Shan Ich Utray Parey.
-Jadon Dhalya Bakht Shareefan Da.
-Shala Oss Welay Main Mar Janda.
+۳
+ودھ سب توں رب نوں پیارے
+ساڈی شان وچ اترے پرے
+جدوں ڈھلیا بخت شریفاں دا
+شالا اوس ویلے میں مر جاندا
 
-4
-Main Kiwein Sham Bholawaan.
-Sang Bhainra Phophiyaan Mawaan.
-Tang Moor Te Okhiyaan Rahwaan.
-Jadon Wasda Si Meen Pathraan Da.
+۴
+میں کیویں شام بھلاواں
+سنگ بھینڑاں پھپھیاں ماواں
+تنگ موڑ تے اوکھیاں راہواں
+جدوں وسدا سی مینہہ پتھراں دا
 
-5
-Shala Oss Welay Main Mar Janda.
-Logo Main Syed Zadah.
-Konain Ka Main Shehzada.
-Mujhe Sham Shehar Ne Loota.
+۵
+شالا اوس ویلے میں مر جاندا
+لوگو میں سید زادہ
+کونین کا میں شہزادہ
+مجھے شام شہر نے لوٹا
 
-6
-Uff Mere Khudaya ALLAH ALLAH.
-Aye Kash Wahan Main Mar Jata.
-Tasbeeh De Tut Gaye Danray.
-Wich Karbal De Rab Janrey.
+۶
+اف میرے خدایا اللہ اللہ
+اے کاش وہاں میں مر جاتا
+تسبیح دے ٹٹ گئے دانڑے
+وچ کربل دے رب جانڑے
 
-7
-Hin Okhay Dard Bholanray.
-Jadon Chaya Kand Te Aoun Di Maa.
-Shala Oss Welay Main Mar Janda.
-Jadon Sham-e-Ghareebaan Aayi.
+۷
+ہِن اوکھے درد بھلانڑے
+جدوں چایا کندھ تے عون دی ماں
+شالا اوس ویلے میں مر جاندا
+جدوں شامِ غریباں آئی
 
-8
-Haye Zalimaan Looti Payi.
-Rayi Rondi Zahra Jayi.
-Jadon Sar Gaye Khaimay Wich Sehra.
-Shala Oss Welay Main Mar Janda.
+۸
+ہائے ظالماں لوٹی پئی
+رہی روندی زہرا جائی
+جدوں سڑ گئے خیمے وچ سہرا
+شالا اوس ویلے میں مر جاندا
 
-9
-Phophi Zainab Dhi Zahra Di.
-Shehzadi Sharam-o-Haya Di.
-Abbas Di Murshid Zadi.
-Jadon Kofay Wich Gayi Baaj Bhira.
+۹
+پھپھی زینب دھی زہرا دی
+شہزادی شرم و حیا دی
+عباس دی مرشد زادی
+جدوں کوفے وچ گئی باجھ بھرا
 
-10
-Shala Oss Welay Main Mar Janda.
-Haris Bin Nofal Jis Ne.
-Cheeni Thi Rida Naizay Se.
-Yeh Zalim Sare Rastay.
+۱۰
+شالا اوس ویلے میں مر جاندا
+حارث بن نوفل جس نے
+چھینی تھی ردا نیزے سے
+یہ ظالم سارے رستے
 
-11
-Phophiyon Ko Na Soney Deta Tha.
-Aye Kash Wahan Main Mar Jata.
-Wich Sham Walay Bazar Aye.
-Aaye Wekhan Loag Hazar Aye.
+۱۱
+پھپھیوں کو نہ سونے دیتا تھا
+اے کاش وہاں میں مر جاتا
+وچ شام والے بازار آئے
+آئے ویکھن لوگ ہزار آئے
 
-12
-Ronday Ray Pardah Daar Aye.
-Jadon Wekhiya Shimar Nu Main Hasda.
-Shala Oss Welay Main Mar Janda.
- Jawad Rehan Te Sarwar.
+۱۲
+روندے رے پردہ دار آئے
+جدوں ویکھیا شمر نوں میں ہسدا
+شالا اوس ویلے میں مر جاندا
+جواد ریحان تے سرور
 
-13
-Aakhay Abid Matam Kar Kar.
-Zalim Darbar De Andar.
-Jadon Maa Zainab Da Naam Liya.
-Shala Oss Welay Main Mar Janda.
+۱۳
+آکھے عابد ماتم کر کر
+ظالم دربار دے اندر
+جدوں ماں زینب دا نام لیا
+شالا اوس ویلے میں مر جاندا

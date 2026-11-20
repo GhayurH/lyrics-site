@@ -1,5 +1,6 @@
 ---
 title: "آ کے رسیوں سے سکینہؑ کو چھڑا لو بابا"
+alternateTitle: "Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,36 +9,35 @@ poet: "Iftekhar Hussain"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba"
 romanLyrics: |-
   Aa ke rassiyoṅ se Sakina ko chhura lo baba
 
-  1
   Main huṅ mushkil mein
   Mujhe paas bula lo baba
 
-  2
+  1
   Nind aati nahiṅ sone se bhi dar lagta hai
   Luṅ jo karwat to mere kaanoṅ se khun rista hai
   Apne sine pe
-  Ghari bhar ko sula lo baba
-  Aa ke rassiyoṅ se Sakina chhura lo baba
+  ghari bhar ko sula lo baba
+
+  2
   Tere qaatil mujhe rone se mana karte haiṅ
   Jab bhi roti huṅ to Aabid pe sitam karte haiṅ
   Khul ke ro luṅ mujhe
-  Neze pe utha lo baba
+  neze pe utha lo baba
 
   3
-  Bhaagte ont se baba main kai baar giri
+  Bhaagte unt se baba main kai baar giri
   Durr bhi chhine mere dekho meri poshaak jali
   Mujh ko zindaaṅ ke
-  Andheroṅ se nikaalo baba
+  andheroṅ se nikaalo baba
 
   4
   Shimar se maanguṅ jo paani to jhirak deta hai
   Phir mere saamne mitti pe gira deta hai
   Bhej ke Ghaazi ko
-  Do bund manga do baba
+  do bund manga do baba
 
   5
   Na koi mujh ko bulaata hai Sakina keh ke
@@ -49,21 +49,21 @@ romanLyrics: |-
   Baal khainche haiṅ mere rukh pe tamaanche maare
   Dekh ke Ghaazi ke sar ko rahe hanste saare
   Haaye zara apna
-  Wafaadaar jaga lo baba
+  wafaadaar jaga lo baba
 ---
 
 آ كے رسیوں سے سکینہؑ کو چُھڑا لو بابا
 
-۱
 میں ہوں مشکل میں
 مجھے پاس بلا لو بابا
 
-۲
+۱
 نیند آتی نہیں سونے سے بھی ڈر لگتا ہے
 لوں جو کروٹ تو میرے کانوں سے خون رِستا ہے
 اپنے سینے پہ
 گھڑی بھر کو سُلا لو بابا
-آ كے رسیوں سے سکینہؑ چُھڑا لو بابا
+
+۲
 تیرے قاتل مجھے رونے سے منع کرتے ہیں
 جب بھی روتی ہوں تو عابدؑ پہ ستم کرتے ہیں
 کُھل كے رو لوں مجھے

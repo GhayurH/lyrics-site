@@ -17,7 +17,7 @@ romanLyrics: |-
   Ae gharib-e-Zahra ae gharib-e-Zahra
 
   1
-  Mere bete maiṅ teri pyaas bujhaauṅ kaise
+  Mere bete main teri pyaas bujhaauṅ kaise
   Kund khanjar se tujhe laal bachaauṅ kaise
   Khaak maqtal meiṅ ura kar ye pukaari mamta
 
@@ -52,8 +52,8 @@ romanLyrics: |-
   Qaid khaane meiṅ Sakina jo kare waawaila
 
   8
-  Hai ye waada tere Yasir ko shafaat duṅ gi
-  Tere gham khwaar ko jannat ki zamaanat duṅ gi
+  Hai ye waada tere Yasir ko shafaat dungi
+  Tere gham khwaar ko jannat ki zamaanat dungi
   Jab bhi Sajid mujhe de ga tere gham ka pursa
 ---
 

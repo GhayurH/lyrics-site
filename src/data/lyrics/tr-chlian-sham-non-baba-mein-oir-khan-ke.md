@@ -10,102 +10,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Tur chaliyan shaamnu baba mein veer kohaa ke
-  Mein mar keh v nahi bhulna gai veer kuna dafna ke hai
-  Tati raithte sam gaya akbar naale tur gaya gaazi
-  Peya pathra haith hai baba medda veer namazi
-  Aa zainab kon sawaar kara
-  Vich karbal baba aake hai
-  Mein veer kohaake
-  Shala na koi mere vango injh laash te aawe
-  Na behn kise veeran dee injh uth ke jaawe
-  Uthi veer di lash to rohndi mein
-  Jiwe wal wal jidhka khake hai
-  Mein veer kohaake
-  Nai lash te rohwan dende pay zaalim menu
-  Iyo jee karda ay mera dhi ankhhe tenu
-  Rajh rowa chaar diwaari meh
-  Tadde gal wich bawa pake hai
-  Mein veer kohaake
-  Aa vekh zara farwa da jo baba haal ay
-  Nai umbri kpp pay lubde hath mehndiya waale
-  Aa hath lab bhan re qasim de
-  Mede naal to maqtal jaake hai
-  Mein veer kohaake
-  Payo aap banada parde to babul mere
-  Sang poor de wanj neh zainab wich sher de tere
-  Teri raah vekha sang parjaaya
-  Hath kariya rassiya paake hai
-  Mein veer kohaake
-  Oda matam jagte reh si ta hashr te jaari
-  Jidi laash te na raj rooyi ek darda mari Khursid bacha gya deen jidra
-  Wich sajde sees katake hai
-  Mein veer kohaake
-  Tur chaliyan shaam nu baba may veer kuhaake
-  May marke bhee nahi bhulna,  gai veer kuna dafna ke hai
-  May veer kuhaake
-  1) Tati raithte sooh gaya Akbar naale tur gaya Ghazi
-  Peya pathra haith hai baba medda veer namazi
-  Aa Zainab toon aswaar karan
-  Vich Karbal baba aake hai
-  May veer kuhaake
-  2) Shalana koi mere vango injh laash te aawe
-  Na behn kise virandi injh uthke jaawe
-  Uthi veer di lash to rohndi mein
-  Jiwe wal wal jidhka khake hai
-  May veer kuhaake
-  3) Nai lash te rohwan dende pay zaalim menu
-  Iyo jee karda ay mera dee ankhhe tenu
-  Rajh rowa chaar diwaari me
-  Tadde gal wich bawa pake hai
-  May veer kuhaake
-  4) Aa vekh zaara Farwa da jo baba haal ay
-  Nai umbri to pay lubde huth mehndiya waale
-  Aa hath lab bhan re Qasim de
-  Mede naal to maqtal jaake hai
-  May veer kuhaake
-  5) Payo aap banada parde to babul mere
-  Sang poor de wanjhde Zainab wich sher de tere
-  Teri raah vekha sang parjaaya
-  Hathqadiya rassiya paake hai
-  May veer kuhaake
-  6) Oda matam jagte rehsee taa hushar te jaari
-  Jidi laash te naa rajh rooi ek darda mari
-  Khursid bacha gayah deen jira
-  Wich sajde sees katake hai
-  May veer kuhaake
-  Tur chaliyan shaamnu baba mein veer kohaa ke
+  Tur chaliyaaṅ shaam nuṅ baba main vir kuha ke
 
   1
-  Tati raithte sam gaya akbar naale tur gaya gaazi
-  Peya pathra haith hai baba medda veer namazi
-  Aa zainab kon sawaar kara
-  Vich karbal baba aake hai
-  Mein veer kohaake
-  Shala na koi mere vango injh laash te aawe
-  Na behn kise veeran dee injh uth ke jaawe
-  Uthi veer di lash to rohndi mein
-  Jiwe wal wal jidhka khake hai
-  Mein veer kohaake
-  Nai lash te rohwan dende pay zaalim menu
-  Iyo jee karda ay mera dhi ankhhe tenu
-  Rajh rowa chaar diwaari meh
-  Tadde gal wich bawa pake hai
-  Mein veer kohaake
-  Aa vekh zara farwa da jo baba haal ay
-  Nai umbri kpp pay lubde hath mehndiya waale
-  Aa hath lab bhan re qasim de
-  Mede naal to maqtal jaake hai
-  Mein veer kohaake
-  Payo aap banada parde to babul mere
-  Sang poor de wanj neh zainab wich sher de tere
-  Teri raah vekha sang parjaaya
-  Hath kariya rassiya paake hai
-  Mein veer kohaake
-  Oda matam jagte resi ta hashr te jaari
-  Jidi laash te na rajh rooi ek darda mari Khursid bacha gya deen jidra
-  Wich sajde sees katake hai
-  Mein veer kohaake
+  Main marke vi naiṅ bhulna, gai vir kuṅ na dafna ke
+  Haaye vir kuha ke
+
+  2
+  Tatti ret te sam gaya Akbar naale tur gaya Ghazi
+  Peya pathraaṅ heth hai baba tenda vir namaazi
+  Aa Zainab kuṅ aswaar karaaṅ, vich Karbal baba aa ke haaye
+  Main vir kuha ke
+
+  3
+  Shaala na koi mere waangoṅ enj laash te aawe
+  Na bhen kise viranr di enj uth te jaawe
+  Uthi vir di laash toṅ rondi main, jiweṅ wal wal jhirkaaṅ khaa ke haaye
+  Main vir kuha ke
+
+  4
+  Naiṅ laash te rowan dende paye zaalim mainuṅ
+  Eho ji karda ae mera dhi aakhe tainuṅ
+  Rajj rowaaṅ chaar chawaari maiṅ, tende gal vich baawaaṅ paa ke
+  Haaye main vir kuha ke
+
+  5
+  Aa vekh zara Farwa da jo baba haal ae
+  Naiṅ ambri toṅ paye labhde hath mehndiyaaṅ waale
+  Aa hath labh banre Qasim de, mede naal tu maqtal jaa ke
+  Haaye main vir kuha ke
+
+  6
+  Paao aap banaanre parde toṅ baabul mere
+  Sang pur de wanjde Zainab vich sher de tere
+  Teri raah vekhaaṅ sang bharjaaiyaaṅ, hathkariyaaṅ rassiyaaṅ paa ke
+  Haaye main vir kuha ke
+
+  7
+  Odha maatam jag te reh si taa hashr taaṅ jaari
+  Jeindi laash te na rajj roi ik dardaaṅ maari
+  Khurshid bacha gaya diṅ jira, vich sajde sis kataa ke
+  Haaye main vir kuha ke
 ---
 
 ٹر چلیاں شام نوں بابا میں ویر کُہا كے

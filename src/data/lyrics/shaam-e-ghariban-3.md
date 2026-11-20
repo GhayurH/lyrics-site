@@ -1,6 +1,6 @@
 ---
 title: "یا مصطفیٰ یا علی یا زہرا یا زہرا"
-alternateTitle: "Shaam E Ghariban"
+alternateTitle: "Shaam-e-Gharibaaŋ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ya mustafa ya ali ya zahra ya zahra
+  Ya Mustafa ya Ali ya Zahra ya Zahra
   Kya aayi qayamat
   Ye bekasoṅ ki shaam asiroṅ ki shaam hai
-  Ye tashnalab gharib shahidoṅ ki shaam hai
+  Ye tashna lab gharib shahidoṅ ki shaam hai
   Suraj gawah hai ke yatimoṅ ki shaam hai
-  Ye shaam e gharibaṅ hai ye shaam e gharibaṅ hai
-  Ye shaam e gharibaṅ hai ghariboṅ ki shaam hai
+  Ye shaam-e-gharibaaṅ hai ye shaam-e-gharibaaṅ hai
+  Ye shaam-e-gharibaaṅ hai ghariboṅ ki shaam hai
   Pardes meiṅ gharib musafir ki shaam hai
-  E zikr e kibriya tere zakir ki shaam hai
-  Din e mohammadi tere nasir ki shaam hai
-  Ye shaam e gharibaṅ hai...
+  Ae zikr-e-kibriya tere zaakir ki shaam hai
+  Din-e-Mohammadi tere naasir ki shaam hai
+  Ye shaam-e-gharibaaṅ hai...
   Tapti hui zamiṅ pe hai tashna laboṅ ki shaam
-  Mazlumoṅ ki ye shaam hai ye baksoṅ ki shaam
+  Mazlumoṅ ki ye shaam hai ye bekasoṅ ki shaam
   Ye shaam hai asiroṅ ki ye qaidiyoṅ ki shaam
-  Ye shaam e gharibaṅ hai...
-  Apne gharoṅ se dur hai ye ghamzadoṅ ki shaam
-  Jo hai nigaah e aal meiṅ un aansuoṅ ki shaam
-  Dube jo apne khun meiṅ un gaysuoṅ ki shaam
-  Ye shaam e gharibaṅ hai...
-  Bewarison ki shaam hai shaam e alam hai ye
-  Behaal jis meiṅ bacche hai wo shaam e gham hai ye
-  Shaam e musafiraṅ hai ye shaam e haram hai ye
-  Ye shaam e gharibaṅ hai...
-  Zulm o sitam ki dasht meiṅ yaṅ inteha hai ye
-  Tashna laboṅ ke waaste tayghe jafa hai ye
-  Saydaniyo ke waaste shaam e qaza hai ye
-  Ye shaam e gharibaṅ hai...
-  Kehte hai jisko shaam e gharibaṅ wo shaam hai
-  Aayi jo baad e shaah e shahidaṅ wo shaam hai
-  Khuṅ jis meiṅ roya aankhoṅ se quraṅ wo shaam hai
-  Ye shaam e gharibaṅ hai...
-  Bhuli na jisko aale payambar wo shaam hai
-  Veeran hua hai jis meiṅ bhara ghar wo shaam hai
+  Ye shaam-e-gharibaaṅ hai...
+  Apne gharoṅ se dur hai ye ghamzadoṅ ke shaam
+  Jo hai nigaah-e-aal meiṅ un aansuoṅ ki shaam
+  Dube jo apne khun meiṅ un gesuoṅ ki shaam
+  Ye shaam-e-gharibaaṅ hai...
+  Bewaarisoṅ ki shaam hai shaam-e-aalam hai ye
+  Behaal jis meiṅ bachche haiṅ wo shaam-e-gham hai ye
+  Shaam-e-musaafiraaṅ hai ye shaam-e-haram hai ye
+  Ye shaam-e-gharibaaṅ hai...
+  Zulm o sitam ki dasht meiṅ yaaṅ inteha hai ye
+  Tashna laboṅ ke waaste tegh-e-jafa hai ye
+  Saydaaniyoṅ ke waaste shaam-e-qaza hai ye
+  Ye shaam-e-gharibaaṅ hai...
+  Kehte haiṅ jis ko shaam-e-gharibaaṅ wo shaam hai
+  Aayi jo baad-e-shaah-e-shahidaaṅ wo shaam hai
+  Khuṅ jis meiṅ roya aankhoṅ se Quraaṅ wo shaam hai
+  Ye shaam-e-gharibaaṅ hai...
+  Boli na jis ko aal-e-payambar wo shaam hai
+  Viraaṅ hua hai jis meiṅ bhara ghar wo shaam hai
   Jis meiṅ luti hai aal ki chadar wo shaam hai
-  Ye shaam e gharibaṅ hai...
+  Ye shaam-e-gharibaaṅ hai...
   Ye bekasoṅ shahidoṅ ke laashoṅ ki shaam hai
-  Jism e shahe ghareeb ke zakhmoṅ ki shaam hai
-  Shohda e haq ke khun ke khatroṅ ki shaam hai
-  Ye shaam e gharibaṅ hai...
-  Sadaat ke lute huwe kunbe ki shaam hai
-  Baysheer ke jale huwe jhule ki shaam hai
-  Naushaah ke kate huwe sehre ki shaam hai
-  Ye shaam e gharibaṅ hai...
-  Binte nabi ke haye lute ghar ki shaam hai
-  Ghurbat ki shaam hai shahe bebar ki shaam hai
-  Bikhre huwe nabi ke gul e tar ki shaam hai
-  Ye shaam e gharibaṅ hai...
-  Dayam hai ye asir ye aale aba ki shaam
-  Yazdaṅ hai ye sakina pe jor o jafa ki shaam
-  Suraj ghurub hogaya aayi qaza ki shaam
-  Ye shaam e gharibaṅ hai...
+  Jism-e-shaah-e-gharibaaṅ ke zakhmoṅ ki shaam hai
+  Shohada-e-haq ke khun ke khatroṅ ki shaam hai
+  Ye shaam-e-gharibaaṅ hai...
+  Saadaat ke lute hue kunbe ki shaam hai
+  Beshir ke jale hue jhule ki shaam hai
+  Naushaah ke kate hue sehre ki shaam hai
+  Ye shaam-e-gharibaaṅ hai...
+  Bint-e-Nabi ke haaye lute ghar ki shaam hai
+  Ghurbat ki shaam hai shaah-e-bebar ki shaam hai
+  Bikhre hue Nabi ke gul-e-tar ki shaam hai
+  Ye shaam-e-gharibaaṅ hai...
+  Daayam hai ye asir ye aal-e-aba ki shaam
+  Yazdaaṅ hai ye Sakina pe jor o jafa ki shaam
+  Suraj ghurub ho gaya aayi qaza ki shaam
+  Ye shaam-e-gharibaaṅ hai...
 ---
 
 ۱

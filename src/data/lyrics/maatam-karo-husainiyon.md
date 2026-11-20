@@ -29,7 +29,7 @@ romanLyrics: |-
   2
   Kis jurm meiṅ tukre hue Musa ke jigar ke
   Kis se kare sawaal koi to jawaab de
-  Doge jawaab aayega jab roz-e-jaza ka
+  Do ge jawaab aaye ga jab roz-e-jaza ka
 
   3
   Karbal kabhi Kufa meiṅ jaane kahaaṅ kahaaṅ
@@ -38,8 +38,8 @@ romanLyrics: |-
 
   4
   Mujh sa hai bhala kaun muqaddar ka sikandar
-  Mujhko banaaya Aal ka Khurshid nauhagar
-  Kis tarah karuṅ shukr maiṅ Panjetan ki ata ka
+  Mujhko banaaya Aal ka Khurshid nauha gar
+  Kis tarah karuṅ shukr main Panjetan ki ata ka
 ---
 ہو سلام یا امام یا امام ہو سلام
 

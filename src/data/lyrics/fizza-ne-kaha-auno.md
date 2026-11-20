@@ -11,64 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab ran meiṅ aaye hyder o jafar ke mehlaqa
-  Aur bekason pe tut pari fauje ashkiyan
-  Nagaah ek zaeefa khule sar barehna pa
-  Qaime ke dar pe aayi dilafgar o gham zada
-  Dekha jo aah bhar ke suye nehre alqama
-  Naizo uchal ke reh gaya pani furaat ka
-  Do nanhe nanhe laashe basad girya o buka
-  Laate huwe dikhayi diye shaahe karbala
+  Jab ran meiṅ aaye Haidar o Jafar ke mehlaqa
+  Aur bekasoṅ pe tut pari fauj-e-ashqiya
+  Naagaah ek zaeefa khule sar barahna pa
+  Khaime ke dar pe aayi dil afgaar o ghamzada
+  Dekha jo aah bhar ke su-e-nahr-e-Alqama
+  Naizoṅ uchhal ke reh gaya paani Furaat ka
+  Do nanhe nanhe laashe basad girya o buqa
+  Laate hue dikhaayi diye Shaah-e-Karbala
   Sar pitne lagi wo musibat mubtila
-  Pucha jo bibiyoṅ ne lab-e-nehr kya hua
-  Fizza ne kaha aun o mohamed gaye maare
-  Darya ke kanare
-  Mamu pe fida hogaye zainab ke dulaare
-  Darya ke kanare
-  Sun kar ye sada saani e zehra ye pukari
-  Amma gayi waari
-  Pyase hi mere laadle dunya se sidhaare
-  Darya ke kanare
+  Puchha jo bibiyoṅ ne lab-e-nahr kya hua
+  Fizza ne kaha Aun o Muhammad gaye maare
+  Darya ke kinaare
+  Maamuṅ pe fida ho gaye Zainab ke dulaare
+  Darya ke kinaare
+  Sun kar ye sada saani-e-Zehra ye pukaari
+  Ammaaṅ gayi waari
+  Pyaase hi mere laadle duniya se sidhaare
+  Darya ke kinaare
   Fizza ne kaha...
-  Dekhenge na pani ki taraf aankh utha ke
-  Waada tha ye maa se
-  Shehzado ne dam tor diya pyaas ke maare
-  Darya ke kanare
+  Dekheṅge na paani ki taraf aaṅkh utha ke
+  Waada tha ye maaṅ se
+  Shehzaadoṅ ne dam tor diya pyaas ke maare
+  Darya ke kinaare
   Fizza ne kaha...
   Maqtal ke andhere meiṅ hai is ghar ke ujaale
   Do phul se laashe
-  Jo chand ke tukre the bane tute hue taare
-  Darya ke kanare
+  Jo chaand ke tukre the bane tute hue taare
+  Darya ke kinaare
   Fizza ne kaha...
-  Qaime meiṅ abhi laane ki jaldi nahi logon
+  Khaime meiṅ abhi laane ki jaldi nahiṅ logo
   Akbar se ye keh do
-  Bachoṅ ko mere bhai ka sadqa to utaare
-  Darya ke kanare
-  Fizza ne kaha…
-  Acha hai ke sote rahe moo khaak pe rakh ke
+  Bachchoṅ ko mere bhai ka sadqa to utaare
+  Darya ke kinaare
+  Fizza ne kaha...
+  Achchha hai ke sote rahe muṅh khaak pe rakh pe
   Saaye meiṅ alam ke
-  Abbas ke qadmoṅ meiṅ rahe laal hamare
-  Darya ke kanare
+  Abbaas ke qadmoṅ meiṅ rahe laal hamaare
+  Darya ke kinaare
   Fizza ne kaha...
-  Yaad aagaye muslim ke pisar bekas o muztar
-  Barpa hua mehshar
-  Qatil ne jo sar aun o mohamed ke utaare
-  Darya ke kanare
+  Yaad aa gaye Muslim ke pisar bekas o muztar
+  Barpa hua mahshar
+  Qaatil ne jo sar Aun o Muhammad ke utaare
+  Darya ke kinaare
   Fizza ne kaha...
-  Kaata gaya jab khusk gala sibte nabi ka
-  Farzande ali ka
-  Islam ki sheh rag se bahe khun ke dhaare
-  Darya ke kanare
+  Kaata gaya jab khushk gala sibt-e-Nabi ka
+  Farzand-e-Ali ka
+  Islam ki shah rag se bahe khun ke dhaare
+  Darya ke kinaare
   Fizza ne kaha...
-  Ghar lut'ta hai zainab ka qayamat ki ghari hai
-  Khamosh khari hai
-  Sunta nahi koi to kise jaa ke pukare
-  Darya ke kanare
+  Ghar lutta hai Zainab ka qayaamat ki ghari hai
+  Khaamosh khari hai
+  Sunta nahiṅ koi to kaise jaa ke pukaare
+  Darya ke kinaare
   Fizza ne kaha...
-  Saahir haram-e-shaah meiṅ kohram bapa hai
+  Saahir haram-e-Shah meiṅ kohraam bapa hai
   Zainab ki sada hai
-  Mai lut gayi pardes meiṅ hae hae mere pyare
-  Darya ke kanare
+  Main lut gayi pardes meiṅ haaye haaye mere pyaare
+  Darya ke kinaare
   Fizza ne kaha...
 ---
 

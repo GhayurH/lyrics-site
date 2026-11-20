@@ -10,58 +10,58 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sha ast Husain badshah ast Husain
+  Shaah ast Husain baadshaah ast Husain
 
   1
-  Diṅ ast Husain diṅ panah ast Husain
-  Sar daad na daad dast dar daste yazid
-  Haqqa ke bina la ilaaha ast Husain
-  Sardar o shehenshah ae shahe shahidaṅ
-  Qaari sare naiza ae waarise quran
-  Kehti hai namaze ab tak sare maidan
+  Diṅ ast Husain diṅ panaah ast Husain
+  Sar daad na daad dast dar dast-e-Yazid
+  Haqqa ke binaa laa ilaaha ast Husain
+  Sardaar o shahenshaah ae shaah-e-shahidaaṅ
+  Qaari sar-e-naiza ae waaris-e-Quraan
+  Kehti haiṅ namaazeṅ ab tak sar-e-maidaan
   Suno zinda hai Husain suno zinda hai Husain
 
   2
-  Aazaṅ o namaze milad-e-mohamed
-  Ye majlis o matam abbas ka parcham
-  Kehti hai sabileiṅ kehta hai moharam
-  Suno zinda hai Husain…
+  Azaaṅ o namaazeṅ Milaad-e-Muhammad
+  Ye majlis o maatam Abbas ka parcham
+  Kehti haiṅ sabileṅ kehta hai Muharram
+  Suno zinda hai Husain...
 
   3
-  Akbar ka kaleja halqe ali asghar
-  Abbas ke baazu zainab ka khula sar
-  Ye kehte hai tujhse ae shaam ke lashkar
-  Suno zinda hai Husain…
+  Akbar ka kaleja halq-e-Ali Asghar
+  Abbas ke baazu Zainab ka khula sar
+  Ye kehte haiṅ tujh se ae Shaam ke lashkar
+  Suno zinda hai Husain...
 
   4
-  Marqad se nikal kar khud fatema zehra
+  Marqad se nikal kar khud Fatema Zehra
   Maqtal ki zamiṅ par deti rahi pehra
-  Khanjar se sina se kehti rahi zehra
-  Suno zinda hai Husain…
+  Khanjar se sinaaṅ se kehti rahi Zehra
+  Suno zinda hai Husain...
 
   5
-  Zanjir-e-sitam ne rasta nahi roka
-  Pehne huwe beri chalte rahe maula
-  Kehta hai abhi tak sajjad ka sajda
-  Suno zinda hai Husain…
+  Zanjir-e-sitam ne rasta nahiṅ roka
+  Pehne hue beri chalte rahe Maula
+  Kehta hai abhi tak Sajjad ka sajda
+  Suno zinda hai Husain...
 
   6
-  Aada ke tamache rukhsare sakina
-  Jhalta huwa daaman garmi ka mahina
+  Aadaa ke tamaache rukhsaar-e-Sakina
+  Jalta hua daaman garmi ka mahina
   Kehti thi phuphi se har ek se kehna
-  Suno zinda hai Husain…
+  Suno zinda hai Husain...
 
   7
-  Bimar-e-madina wo fatema sughra
-  Darwaze pe baithi takti hai jo rasta
+  Bimaar-e-Madina wo Fatema Sughra
+  Darwaaze pe baithi takti hai jo rasta
   Khud ko yehi keh kar deti hai dilaasa
-  Suno zinda hai Husain…
+  Suno zinda hai Husain...
 
   8
-  Sarwar sare majlis zikre shahe wala
-  Rehaan musalsal is gham ka hawala
-  Dohrata hai har dam tarikh ka jumla
-  Suno zinda hai Husain…
+  Sarwar sar-e-majlis zikr-e-shaah-e-waala
+  Rehaan musalsal is gham ka hawaala
+  Dohraata hai har dam taarikh ka jumla
+  Suno zinda hai Husain...
 ---
 
 شاہ است حُسین بادشاہ است حُسین

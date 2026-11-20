@@ -10,80 +10,86 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye Shair-e-Nistan-e-Haider Abbas.
-  Aye Sakhi Baab Ul Hawaij Bawafa Abbas.
+  Ae sher-e-naistaan-e-Haidar
+  Ae saqi Baab ul-Hawaaij
 
   1
-  Aslam Aye Bawafa Baab Ul Hawaij Aslam.
-  Be Kason Ka Baab Ul Hawaij Aslam.
-  Qayam-e-Aal-e-Muhammad Kul Imamo Ka Salam.
-  Aye Dua-e-Syeda Baab Ul Hawaij Aslam.
+  Baawafa Abbas
+  Assalaam ae baawafa Baab ul-Hawaaij assalaam
+  Bekasoṅ ka aasra Baab ul-Hawaaij assalaam
+  Khaima-e-aal-e-Muhammad kul imaamoṅ ka salaam
 
   2
-  Woh Roz Keh Jis Ka Wadah Hai.
-  Woh Roz Yaqeenan Aaye Ga.
-  Insaan Ka Muqadar Badlay Ga.
-  Jab Noor-e-Imamat Chaye Ga.
+  Ae dua-e-Sayyeda Baab ul-Hawaaij assalaam
+  Woh roz ke jis ka waada hai
+  Woh roz yaqinan aae ga
+  Insaan ka muqaddar badle ga
 
   3
-  Gonjay Gi Sada-e-Ja Al-Haq.
-  Our Mehdi Doraan Aaye Ga.
-  Oss Roz Se Sare Aalam Mein.
-  Bas Aik Alam Lehraye Ga.
+  Jab nur-e-imaamat chhaae ga
+  Gunje gi sada-e-jal-haq
+  Aur Mahdi-e-dauraaṅ aae ga
+  Us roz se saare aalam mein
 
   4
-  Ghazi Ka Alam Ik Saya Hai.
-  Jo Kal Bhi Tha Jo Aaj Bhi Hai.
-  Our Iss Ka Karam Kal Bhi Ho Ga.
-  Abbas Abbas Abbas Abbas.
+  Bas ek alam lahraae ga
+  Ghazi ka alam ek saaya hai
+  Jo kal bhi tha jo aaj bhi hai
+  Aur us ka karam kal bhi ho ga
 
   5
-  Sorjon Mein Chand Ban Kar Iss Tarha Zindah Raha.
-  Chadar-e-Zahra Ke Saye Mein Sada Palta Raha.
-  Yeh Ali Ibn-e-Abi Talib Ka Sarmaya Raha.
-  Zainab o Kulsoom Ki Bhi Aankh Ka Tara.
+  Abbas Abbas Abbas Abbas
+  Surajoṅ mein chaand band kar is tarah zinda raha
+  Chaadar-e-Zahra ke saae mein sada palta raha
+  Yeh Ali ibn-e-Taalib ka sarmaaya raha
 
   6
-  Hurmat-e-Deen-e-Nabi Zahra Ke Ghar Ki Aabro.
-  Dil Hai Yeh Umm Ul-Baneen Ka Our Haider Ka Lahu.
-  Seerat-e-Shabeer o Shabar Ka Sarapa Ho Baho.
-  Panjtan Ke Darmiyaan Kis Ka Sharf Aisa.
+  Zainab o Kulsum ki bhi aaṅkh ka taara raha
+  Salaam Abbas ya Maula
+  Hurmat-e-din-e-Nabi Zahra ke ghar ki aabru
+  Dil hai yeh Umm ul-Banin ka aur Haidar ka lahu
 
   7
-  Yeh Woh Ghar Hai Jis Taraf Dekha Humein Maula Mila.
-  Har Taraf Maula Hi Maula Ibtida Ta Inteha.
-  Gird Molaon Ke Yeh Ghazi Hai Maula-e-Wafa.
-  Hai Khuda Maula Nabi Maula Ali Maula.
+  Sirat-e-Shabbir o Shabbar ka saraapa hu bahu
+  Panjtan ke darmiyaaṅ kis ka sharaf aisa
+  Salaam Abbas ya Maula
+  Yeh woh ghar hai jis taraf dekha hameiṅ Maula mila
 
   8
-  Hai Ali Ki Badshahi Aasmaan Ho Ya Zameen.
-  Hai Ali Ism-e-Elahi Mustafa Ka Jansheen.
-  Dosra Haider Nahi Hai Dosra Ghazi Nahi.
-  Ya Ali Keh Kar Zabaan Ke Sath Dil Bola.
+  Har taraf Maula hi Maula ibtida ta intiha
+  Gird mulaaoṅ ke yeh Ghazi hai Maula-e-wafa
+  Ae Khuda Maula Nabi Maula Ali Maula
+  Salaam Abbas ya Maula
 
   9
-  Ain Se Abbas Ki Ilm o Alam Ishq-e-Ali.
-  Be Se Bism ALLAH Ki Baab Ul Hawaij Hai Sakhi.
-  Hai Alif ALLAH Ka Our Seen Se Islam Ki.
-  Ho Baho Haider Har Ik Meezan Mein Tola.
+  Hai Ali ki baadshaahi aasmaaṅ ho ya zamiṅ
+  Hai Ali is meiṅ ilaahi Mustafa ka jaanshiṅ
+  Dusra Haidar nahiṅ hai dusra Ghazi nahiṅ
+  Ya Ali kahta zabaaṅ ke saath dil bola
 
   10
-  Barh Raha Hai Janib-e-Darya Alam Abbas Ka.
-  Kaun Rokay Ga Bhala Barhta Qadam Abbas Ka.
-  Haan Magar Shabeer Ko Sehna Hai Gham Abbas Ka.
-  Hukam-e-Shabbiri Se Apne Ghaiz Ko Roka.
+  Salaam Abbas ya Maula
+  Bad raha hai jaanib-e-darya alam Abbas ka
+  Kaun roke ga bhala barhta qadam Abbas ka
+  Haaṅ magar Shabbir ko sahna hai gham Abbas ka
 
   11
-  Al-Amaan Woh Mashk Ka Chidna Tarapna Shair Ka.
-  Ya Sakina Alwida Keh Kar Woh Girna Shair Ka.
-  Dekhti Hi Reh Gayi Rasta Sakina Shair Ka.
-  Mar Ke Bhi Seene Se Liptaye Tha Mashkeza.
+  Hukm-e-Shabbiri se apne ghaiz ko roka
+  Salaam Abbas ya Maula
+  Al-amaaṅ woh mashk ka chhidna tarapna sher ka
+  Ya Sakina alwida kah kar woh girna sher ka
 
   12
-  Ho Karam Lillah Bar Haal-e-Ghareebaan Ya Sakhi.
-  Aap Se Hi Lo Lagaye Hain Yeh Sare Matami.
-  :SARWAR o REHAN: Ki Qayam Rahe Yeh Nokari.
-  Aye Sakhi Baab Ul Hawaij Fazal Ke Baba.
+  Dekhti hi rah gai rasta Sakina sher ka
+  Mar ke bhi sine se liptaae tha mashkiza
+  Salaam Abbas ya Maula
+  Woh karam lillaah bar haal-e-gharibaaṅ ya safir
+
+  13
+  Aap se hi lau lagaae hain yeh saare maatami
+  Sarwar o Rehaan ki qaaim rahe yeh naukari
+  Ae saqi Baab ul-Hawaaij Fazal ke baba
+  Salaam Abbas ya Maula
 ---
 
 اے شیر نیستان حیدر

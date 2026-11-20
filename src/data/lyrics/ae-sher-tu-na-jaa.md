@@ -20,21 +20,21 @@ romanLyrics: |-
   1
   Abbas tere haath mere sar ki hai rida
   Ae sher tu na jaa
-  Ye haath kat gaye to karuṅgi rida ka kya
+  Ye haath kat gaye to karuṅ gi rida ka kya
   Ae sher tu na jaa
 
   2
-  Kaun aayega bachaane ko tiroṅ se bhai ko
-  Khanjar chalega jab to kise duṅgi maiṅ sada
+  Kaun aaye ga bachaane ko tiroṅ se bhai ko
+  Khanjar chale ga jab to kise duṅ gi maiṅ sada
   Ae sher tu na jaa
 
   3
-  Naiza har ek ke haath meiṅ hoga ba-waqt-e-shaam
-  Kis kis se apne sar ki bachaauṅgi maiṅ rida
+  Naiza har ek ke haath meiṅ ho ga ba waqt-e-shaam
+  Kis kis se apne sar ki bachaauṅ gi maiṅ rida
   Ae sher tu na jaa
 
   4
-  Us waqt kya karuṅgi jab pyaasi Sakina ko
+  Us waqt kya karuṅ gi jab pyaasi Sakina ko
   Paani dikha dikha ke bahaayeṅge ashqiya
   Ae sher tu na jaa
 
@@ -49,8 +49,8 @@ romanLyrics: |-
   Ae sher tu na jaa
 
   7
-  Aayega khuṅ meiṅ duba hua jab alam Naved
-  Khaime ke dar pe gunj rahi hogi ye sada
+  Aaye ga khuṅ meiṅ duba hua jab alam Naved
+  Khaime ke dar pe gunj rahi ho gi ye sada
   Ae sher tu na jaa
 ---
 

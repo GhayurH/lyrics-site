@@ -13,7 +13,7 @@ aliases: ["Mazloom Meri Bachi"]
 published: true
 romanLyrics: |-
   Mazlum meri bachi kaise ho dafn tera
-  Kehti thi ro ke Bano dil muztarib hai mera
+  Kehti thi ro ke Baano dil muztarib hai mera
 
   1
   Kis bekasi meiṅ tera laasha para hua hai
@@ -41,9 +41,9 @@ romanLyrics: |-
 
   5
   Aabid tarap rahe haiṅ rukhsat hui Sakina
-  Is gham se ab Mujaahid ek hashr sa hai barpa
+  Is gham se ab Mujaahid ik hashr sa hai barpa
   Maatam se gunjta hai taarik qaid khaana
-  Bano ye keh rahi hai haafiz Khuda hai tera
+  Baano ye keh rahi hai haafiz Khuda hai tera
 ---
 مظلوم میری بچی کیسے ہو دفن تیرا
 کہتی تھی رو کے بانو دل مضطرب ہے میرا

@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Meri basti meiṅ jab tak tazkira Hur ka rahe ga
-  Paye taqdir saazi moajaza hota rahe ga
+  Paye taqdir saazi mojiza hota rahe ga
 
   2
   Gham-e-Sheh ke muqaabil fauj fatwoṅ ki na dekho
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Lareṅ ge hashr tak baatil se Zainab ke sipaahi
-  Kahiṅ chaadar kahiṅ aaṅsu kahiṅ khutba rahe ga
+  Kahiṅ chaadar kahiṅ aansu kahiṅ khutba rahe ga
 
   4
   Meri chaadar jo chhino ge to lehja orh luṅ gi
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Gham-e-Sarwar bachaaye ga mujhe ruswaaiyoṅ se
-  Mera aaṅsu mere kirdaar ka parda rahe ga
+  Mera aansu mere kirdaar ka parda rahe ga
 
   7
   Bilal-e-Kazmi turbat ho ya maidaan-e-mehshar

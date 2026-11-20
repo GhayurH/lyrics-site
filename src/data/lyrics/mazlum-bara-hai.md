@@ -12,28 +12,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala kehti hai mazlum bara hai Asghar
-  Zibh maidaaṅ meiṅ do baar hua hai Asghar
+  Karbalaa kehti hai mazlum baraa hai Asghar
+  Zibh maidaaṅ meiṅ do baar huaa hai Asghar
 
   1
   Haath meiṅ tegh nahiṅ aur ulat de faujeṅ
-  Jaise Abbas lare waisa lara hai Asghar
+  Jaise Abbaas lare waisaa laraa hai Asghar
 
   2
-  Sar hai naize pe rakha aur badan reti par
-  Haye kis haal meiṅ Bano ko mila hai Asghar
+  Sar hai naize pe rakhaa aur badan reti par
+  Haaye kis haal meiṅ Baano ko milaa hai Asghar
 
   3
-  Sun ke hal min ki sada dasht meiṅ jaane ke liye
-  Ghutniyoṅ Shaah ke khaime meiṅ chala hai Asghar
+  Sun ke hal min ki sadaa dasht meiṅ jaane ke liye
+  Ghutniyoṅ Shaah ke khaime meiṅ chalaa hai Asghar
 
   4
-  Asr ke aakhri sajde ke liye maula ne
-  Apne chehre pe tera khuṅ mala hai Asghar
+  Asr ke aakhri sajde ke liye maulaa ne
+  Apne chehre pe teraa khuṅ malaa hai Asghar
 
   5
-  Tera ehsaaṅ na bhulega Takallum maula
-  Mujhko sab kuch tere jhule se mila hai Asghar
+  Teraa ehsaaṅ na bhulegaa Takallum maulaa
+  Mujhko sab kuchh tere jhule se milaa hai Asghar
 ---
 کربلا کہتی ہے مظلوم بڑا ہے اصغر
 ذبح میداں میں دو بار ہوا ہے اصغر

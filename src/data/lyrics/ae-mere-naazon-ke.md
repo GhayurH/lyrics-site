@@ -15,7 +15,7 @@ romanLyrics: |-
   Ae mere naazoṅ ke paale khaak uraane ke liye
   Chhor kar apni lahad maaṅ Karbala jaayegi
 
-  Kund khanjar se teri sheh rag bachane ke liye
+  Kund khanjar se teri shah rag bachaane ke liye
   Chhor kar apni lahad maaṅ Karbala jaayegi
 
   1
@@ -24,29 +24,29 @@ romanLyrics: |-
   Qabr-e-Asghar pusht-e-khaima par banaane ke liye
 
   2
-  Haye suraj chhupa chuka ho dhal chuka ho shab meiṅ shaam
+  Haae suraj chhupaa chuka ho dhal chuka ho shab meiṅ shaam
   Roz-e-Ashura qayaamat ho chuki ho ikhtitaam
   Ek yatimi ko tere laashe pe laane ke liye
 
   3
-  Tera hamshakl-e-Payambar apna dil thaame hue
+  Tera hamshakl-e-Paimbar apna dil thaame hue
   Khuṅ meiṅ tar sine pe apne haath ko rakhe hue
   Mil ke tere saath Akbar ko uthaane ke liye
 
   4
   Jaayega Abbas tera Hur ke istiqbaal ko
-  Dar guzar kar dega tu mujrim ke sab aamaal ko
-  Uske ek rumaal maathe par sajane ke liye
+  Darguzar kar dega tu mujrim ke sab aamaal ko
+  Us ke ek rumaal maathe par sajaane ke liye
 
   5
   Kya sitam dekhegi Zainab teri khwaahar pur malaal
   Ghurbat-e-Sajjad ki dega gawaahi Zuljalaal
-  Kar ke himmat us ko sholoṅ se bachane ke liye
+  Kar ke himmat us ko sholoṅ se bachaane ke liye
 
   6
-  Boli Abid maaṅ jahaaṅ hogi teri majlis bapa
-  Nauha o maatam ki gunjegi kahiṅ bhi jab sada
-  Behte aansuoṅ apne daaman meiṅ uthaane ke liye
+  Boli Abid maaṅ jahaaṅ hogi teri majlis bapaa
+  Nauha o maatam ki gunjegi kahiṅ bhi jab sadaa
+  Behte aansoṅ apne daaman meiṅ uthaane ke liye
 ---
 
 اے میرے نازوں کے پالے خاک اڑانے کے لئے

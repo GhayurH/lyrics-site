@@ -1,6 +1,6 @@
 ---
 title: "آیا ہے ماہِ محرم آیا ہے"
-alternateTitle: "Aaya Hai Mah-e-Muharram Aaya Hai"
+alternateTitle: "Aaya Hai Maah-e-Muharram Aaya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,56 +10,56 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaya Hai Mah-e-Muharram Aaya Hai Syed Sabeeh Hassan Zaidi
-  Parcham-e-Ghazi Jo Khula
+  Aaya hai Maah-e-Muharram aaya hai Syed Sabih Hasan Zaidi
+  Parcham-e-Ghazi jo khula
 
   1
-  Dil Ko Yeh Mehsos Howa
-  Sar Pe Dast-e-Jarri Ka Saya Hai
-  Hum Jo Sar-e-Farsh-e-Azza
-  Aaye Paye Noha Boka
+  Dil ko yeh mahsus hua
+  Sar pe dast-e-jari ka saaya hai
+  Hum jo sar-e-farsh-e-aza
+  Aaye paye nauha buka
 
   2
-  Fatima Ka Salam Aaya Hai
-  Zulm Se Bezaar Raho
-  Haq Ke Liye Jan Bhi Do
-  Hum Ko Maula Ne Yeh Bataya Hai
+  Fatima ka salaam aaya hai
+  Zulm se bezaar raho
+  Haq ke liye jaan bhi do
+  Hum ko Maula ne yeh bataaya hai
 
   3
-  Mah-e-Azza Aane Tu Do
-  Hoga Hisab Iss Ka Suno
-  Iss Waba Ne Jo Zulm Dhaya Hai
-  Aao Sar-e-Karb-o-Bala
+  Maah-e-aza aane to do
+  Hoga hisaab is ka suno
+  Is waba ne jo zulm dhaaya hai
+  Aao sar-e-Karb o Bala
 
   4
-  Daimi Pao Gay Baqa
-  Iss Mein Noor-e-Khuda Samaya Hai
-  Gham Ko Sbook Tum Na Kaho
-  Jao Tu Tareekh Parho
+  Daaimi paao ge baqa
+  Is mein nur-e-Khuda samaaya hai
+  Gham ko subuk tum na kaho
+  Jaao to taarikh parho
 
   5
-  Sab Ghamo Par Yeh Gham Hi Saya Hai
-  Hafiz-e-Quran Ho Tum
-  Kaisay Musalman Ho Tum
-  Zulm Aal-e-Nabi Pe Dhaya Hai
+  Sab ghamoṅ par yeh gham hi saaya hai
+  Haafiz-e-Quraan ho tum
+  Kaise Musalmaan ho tum
+  Zulm Aal-e-Nabi pe dhaaya hai
 
   6
-  Khak Pe Socha Hai Ossay
-  Chain Se Sarwar Ne Jisay
-  Apne Seene Pe Hi Sulaya Hai
-  Shoor Tha Khaimon Mein Bapa
+  Khaak pe socha hai use
+  Chain se Sarwar ne jise
+  Apne sine pe hi sulaaya hai
+  Shor tha khaimoṅ mein bapa
 
   7
-  Khon Mujahid Ka Baha
-  Nanhay Asghar Ne Teer Khaya Hai
-  Chain Na Zahra Ko Mila
-  Kaat Liya Sheh Ka Gala
+  Khun mujaahid ka baha
+  Nanhe Asghar ne tir khaaya hai
+  Chain na Zahra ko mila
+  Kaat liya sheh ka gala
 
   8
-  Tu Ne Zalim Bohat Sataya Hai
-  Rook Hasan Apna Qalam
-  Ehd Tu Kar Zair-e-Alam
-  Tu Ne Qismat Se Gham Yeh Paya Hai
+  Tu ne zaalim bahut sataaya hai
+  Rok Hasan apna qalam
+  Ahd to kar zer-e-alam
+  Tu ne qismat se gham yeh paaya hai
 ---
 
 آیا ہے ماہِ محرم آیا ہے سید صبیح حسن زیدی

@@ -1,81 +1,178 @@
 ---
-title: "Main Karb-o-Bala Hoon"
+title: "میں کرب و بلا ہوں"
+alternateTitle: "Main Karb-o-Bala Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala maut ke saye ko nigal sakti hai
+  Karbala takht ko talwon se masal sakti hai
+  Karbala khak tu kiya aag pe chal sakti hai
+  Karbala waqt ki raftar badal sakti hai
+
+  1
+  Khusrawi jabar yahan kasht nahi kar sakti
+  Karbala taj ko bardasht nahi kar sakti
+  Kab bhala sab ko muyassar hai musalla mera
+  Naam Shabeer ne rakha hai mualla mera
+
+  2
+  Dast-e-qudrat ki tarashi hoi tasveer hoon main
+  Qismat-e-hur ki qasam katib-e-taqdeer hoon main
+  Khud pe magror hoon Abbas ki jageer hoon main
+  Markaz-e-noor hoon Washams ki tafseer hoon main
+
+  3
+  Ho nahi sakta mere noor ka humsar soraj
+  Meri aagosh mein utray hain bahatar soraj
+  Baar nabiyon ki amanat ka uthaya main ne
+  Apne zarron ko sitaron se barhaya main ne
+
+  4
+  Aisay darbar shahadat ka sajaya main ne
+  Farsh par arsh nasheeno ko bulaya main ne
+  Be ijazat na yahan se koi rehbar guzra
+  Har nabi khums lahu ka mujhe de kar guzra
+
+  5
+  Mujh ko zehno ke mareezo ki dawa aati hai
+  Mere zarron se Analhaq ki sada aati hai
+  Sajdah karne meri chokhat pe qaza aati hai
+  Bas meri khak se khushbo-e-wafa aati hai
+
+  6
+  Jab se Abbas ke parcham ko utha rakha hai
+  Aasmano ne mujhe sar pe bitha rakha hai
+  Qabar mein jab bhi utarti hai kissi ki maiyyat
+  Hukam-e-mabood se hota hai fishar-e-turbat
+
+  7
+  Mere malik ne mujhe bakhshi hai aisi qowat
+  Main kafan mein jo rahon khak-e-shifa ki sorat
+  Sakhtiyon se ossay turbat ki chura deti hoon
+  Main azadar ko jalnay se bacha leti hoon
+
+  8
+  Toor par Mosa ne bas aik jhalak dekhi thi
+  Hai mujasam yahan mojood Hussain ibn-e-ali
+  Meri mati ko bhala Toor se nisbat kaisi
+  Batein karne wahan Allah se jate they nabi
+
+  9
+  Meri sarhad mein yeh qanon badal jata hai
+  Yahan Shabeer se milne ko Khuda aata hai
+  Main ne Abbas ke qadmo se wafaein le lein
+  Apne qabzey mein zamane ki hawaein le lein
+
+  10
+  Rehmaton ne meri bhar bhar ke balaein le lein
+  Meri mati ne jo Zahra ki duaein le lein
+  Raat din mojzay iss wastay hotey hain yahan
+  Shab-e-Ashor ke jagay hoye sotay hain yahan
+
+  11
+  Meri mairaj ki tareekh hai iksath Hijjri
+  Woh jo sadiyon se thi be chaini meri khatam hoi
+  Meri taqdeer ne Hur ki tarha karwat badli
+  Main ne mangi thi jo dolat mujhe Shabeer ne di
+
+  12
+  Ab meri khak kissi taj ki muhtaj nahi
+  Sheh ki nalain se barh kar tu koi taj nahi
+  Ibn-e-zahra ne Takallum mere badlay halaat
+  Hai meri rah se lipati hoi ab rah-e-nijat
+
+  13
+  Takht-e-bilqees bani hai mere zarron ki zakat
+  Aik pyasay ne pilaya hai mujhe aab-e-hayat
+  Meri wadi pe qayamat na giraye ga Khuda
+  Jaisi hoon hashar mein waisa hi uthaye ga Khuda
 ---
 
-Karbala Maut Ke Saye Ko Nigal Sakti Hai.
-Karbala Takht Ko Talwon Se Masal Sakti Hai.
-Karbala Khak Tu Kiya Aag Pe Chal Sakti Hai.
-Karbala Waqt Ki Raftar Badal Sakti Hai.
+کربلا موت کے سائے کو نگل سکتی ہے
+کربلا تخت کو تلووں سے مسل سکتی ہے
+کربلا خاک تو کیا آگ پہ چل سکتی ہے
+کربلا وقت کی رفتار بدل سکتی ہے
 
-Khusrawi Jabar Yahan Kasht Nahi Kar Sakti.
-Karbala Taj Ko Bardasht Nahi Kar Sakti.
-Kab Bhala Sab Ko Muyassar Hai Musalla Mera.
-Naam Shabeer Ne Rakha Hai Mualla Mera.
+۱
+خسروی جبر یہاں کاشت نہیں کر سکتی
+کربلا تاج کو برداشت نہیں کر سکتی
+کب بھلا سب کو میسر ہے مصلیٰ میرا
+نام شبیر نے رکھا ہے معلیٰ میرا
 
-Dast-e-Qudrat Ki Tarashi Hoi Tasveer Hoon Main.
-Qismat-e-Hur Ki Qasam Katib-e-Taqdeer Hoon Main.
-Khud Pe Magror Hoon Abbas Ki Jageer Hoon Main.
-Markaz-e-Noor Hoon Washams Ki Tafseer Hoon Main.
+۲
+دستِ قدرت کی تراشی ہوئی تصویر ہوں میں
+قسمتِ حر کی قسم کاتبِ تقدیر ہوں میں
+خود پہ مغرور ہوں عباس کی جاگیر ہوں میں
+مرکزِ نور ہوں والشمس کی تفسیر ہوں میں
 
-Ho Nahi Sakta Mere Noor Ka Humsar Soraj.
-Meri Aagosh Mein Utray Hain Bahatar Soraj.
-Baar Nabiyon Ki Amanat Ka Uthaya Main Ne.
-Apne Zarron Ko Sitaron Se Barhaya Main Ne.
+۳
+ہو نہیں سکتا میرے نور کا ہمسر سورج
+میری آغوش میں اترے ہیں بہتّر سورج
+بار نبیوں کی امانت کا اٹھایا میں نے
+اپنے ذروں کو ستاروں سے بڑھایا میں نے
 
-Aisay Darbar Shahadat Ka Sajaya Main Ne.
-Farsh Par Arsh Nasheeno Ko Bulaya Main Ne.
-Be Ijazat Na Yahan Se Koi Rehbar Guzra.
-Har Nabi Khums Lahu Ka Mujhe De Kar Guzra.
+۴
+ایسے دربار شہادت کا سجایا میں نے
+فرش پر عرش نشینوں کو بلایا میں نے
+بے اجازت نہ یہاں سے کوئی رہبر گزرا
+ہر نبی خمس لہو کا مجھے دے کر گزرا
 
-Mujh Ko Zehno Ke Mareezo Ki Dawa Aati Hai.
-Mere Zarron Se Analhaq Ki Sada Aati Hai.
-Sajdah Karne Meri Chokhat Pe Qaza Aati Hai.
-Bas Meri Khak Se Khushbo-e-Wafa Aati Hai.
+۵
+مجھ کو ذہنوں کے مریضوں کی دوا آتی ہے
+میرے ذروں سے انا الحق کی صدا آتی ہے
+سجدہ کرنے میری چوکھٹ پہ قضا آتی ہے
+بس میری خاک سے خوشبوئے وفا آتی ہے
 
-Jab Se Abbas Ke Parcham Ko Utha Rakha Hai.
-Aasmano Ne Mujhe Sar Pe Bitha Rakha Hai.
-Qabar Mein Jab Bhi Utarti Hai Kissi Ki Maiyyat.
-Hukam-e-Mabood Se Hota Hai Fishar-e-Turbat.
+۶
+جب سے عباس کے پرچم کو اٹھا رکھا ہے
+آسمانوں نے مجھے سر پہ بٹھا رکھا ہے
+قبر میں جب بھی اترتی ہے کسی کی میت
+حکمِ معبود سے ہوتا ہے فشارِ تربت
 
-Mere Malik Ne Mujhe Bakhshi Hai Aisi Qowat.
-Main Kafan Mein Jo Rahon Khak-e-Shifa Ki Sorat.
-Sakhtiyon Se Ossay Turbat Ki Chura Deti Hoon.
-Main Azadar Ko Jalnay Se Bacha Leti Hoon.
+۷
+میرے مالک نے مجھے بخشی ہے ایسی قوت
+میں کفن میں جو رہوں خاکِ شفا کی صورت
+سختیوں سے اسے تربت کی چرا دیتی ہوں
+میں عزادار کو جلنے سے بچا لیتی ہوں
 
-Toor Par Mosa Ne Bas Aik Jhalak Dekhi Thi.
-Hai Mujasam Yahan Mojood Hussain Ibn-e-Ali.
-Meri Mati Ko Bhala Toor Se Nisbat Kaisi.
-Batein Karne Wahan ALLAH Se Jate They Nabi.
+۸
+طور پر موسیٰ نے بس ایک جھلک دیکھی تھی
+ہے مجسم یہاں موجود حسین ابنِ علی
+میری مٹی کو بھلا طور سے نسبت کیسی
+باتیں کرنے وہاں اللہ سے جاتے تھے نبی
 
-Meri Sarhad Mein Yeh Qanon Badal Jata Hai.
-Yahan Shabeer Se Milne Ko Khuda Aata Hai.
-Main Ne Abbas Ke Qadmo Se Wafaein Le Lein.
-Apne Qabzey Mein Zamane Ki Hawaein Le Lein.
+۹
+میری سرحد میں یہ قانون بدل جاتا ہے
+یہاں شبیر سے ملنے کو خدا آتا ہے
+میں نے عباس کے قدموں سے وفائیں لے لیں
+اپنے قبضے میں زمانے کی ہوائیں لے لیں
 
-Rehmaton Ne Meri Bhar Bhar Ke Balaein Le Lein.
-Meri Mati Ne Jo Zahra Ki Duaein Le Lein.
-Raat Din Mojzay Iss Wastay Hotey Hain Yahan.
-Shab-e-Ashor Ke Jagay Hoye Sotay Hain Yahan.
+۱۰
+رحمتوں نے میری بھر بھر کے بلائیں لے لیں
+میری مٹی نے جو زہرا کی دعائیں لے لیں
+رات دن معجزے اس واسطے ہوتے ہیں یہاں
+شبِ عاشور کے جاگے ہوئے سوتے ہیں یہاں
 
-Meri Mairaj Ki Tareekh Hai Iksath Hijjri.
-Woh Jo Sadiyon Se Thi Be Chaini Meri Khatam Hoi.
-Meri Taqdeer Ne Hur Ki Tarha Karwat Badli.
-Main Ne Mangi Thi Jo Dolat Mujhe Shabeer Ne Di.
+۱۱
+میری معراج کی تاریخ ہے اکسٹھ ہجری
+وہ جو صدیوں سے تھی بے چینی میری ختم ہوئی
+میری تقدیر نے حر کی طرح کروٹ بدلی
+میں نے مانگی تھی جو دولت مجھے شبیر نے دی
 
-Ab Meri Khak Kissi Taj Ki Muhtaj Nahi.
-Sheh Ki Nalain Se Barh Kar Tu Koi Taj Nahi.
-Ibn-e-Zahra Ne Takallum Mere Badlay Halaat.
-Hai Meri Rah Se Lipati Hoi Ab Rah-e-Nijat.
+۱۲
+اب میری خاک کسی تاج کی محتاج نہیں
+شہ کی نعلین سے بڑھ کر تو کوئی تاج نہیں
+ابنِ زہرا نے تکلم میرے بدلے حالات
+ہے میری راہ سے لپٹی ہوئی اب راہِ نجات
 
-Takht-e-Bilqees Bani Hai Mere Zarron Ki Zakat.
-Aik Pyasay Ne Pilaya Hai Mujhe Aab-e-Hayat.
-Meri Wadi Pe Qayamat Na Giraye Ga Khuda.
-Jaisi Hoon Hashar Mein Waisa Hi Uthaye Ga Khuda.
+۱۳
+تختِ بلقیس بنی ہے میرے ذروں کی زکوٰۃ
+ایک پیاسے نے پلایا ہے مجھے آبِ حیات
+میری وادی پہ قیامت نہ گرائے گا خدا
+جیسی ہوں حشر میں ویسا ہی اٹھائے گا خدا

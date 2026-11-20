@@ -4,9 +4,93 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Maula Maula Maula Husain
+  Maula Maula Maula Husain
+  Maula Maula Maula Maula Husain
+  Maula Maula Maula Maula Husain
+  Husain Husain Husain Maula
+  Husain Husain Husain Maula
+  Ae mai paighaame jahaan aar
+  Ae mai paighaame jahaan aar
+  Ae mai paighaame jahaan aar
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  1
+  Aahni majlis pachaare
+  Pyaas ni pyaas saare
+  Maula go wafa khanne
+  Hama yaada shuwa biyaare
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  2
+  Shahidaaṅ hune khatha
+  Hama bi sa khaak-e-shifa
+  Maaṅ jo sajda khuzaa'uṅ
+  Aakhta thai yaad mana
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  3
+  Gham-e-Akbar mazaaiṅ
+  Gham-e-Asghar mazaaiṅ
+  Gham-e-Zainab mazaaiṅ
+  Gham-e-chaadar mazaaiṅ
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  4
+  Khaali gham maaṅ na khuzaa'uṅ
+  Hameṅ nabiyaaṅ da khuza
+  Nokh istaare khuza
+  Hameṅ waliyaaṅ da khuza
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  5
+  Qaadir Shaah likh so rowe
+  Bas hameṅ Shaah ni gham
+  Umr bhar nauha parhaaṅ
+  Zur tho Farhaan qasam
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  Gushe
 ---
 
 مولا مولا مولا حسینؑ

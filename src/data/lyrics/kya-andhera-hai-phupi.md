@@ -9,17 +9,17 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kya andhera hai phuphi, kya andhera hai phuphi
-  Qaid khaane meiṅ Sakina ye bayaaṅ karti thi
-  Shama mangwaaiye warna maiṅ nahiṅ jine ki
+  Kya andhera hai phupi, kya andhera hai phupi
+  Qaid khaane mein Sakina ye bayaaṅ karti thi
+  Shama mangwaaiye warna main nahiṅ jine ki
 
   1
-  Apne sine se laga lo maiṅ tumhaare sadqe
-  God meiṅ le lo mujhe
+  Apne sine se laga lo main tumhaare sadqe
+  God mein le lo mujhe
   Dil dharakta hai mera khauf se tharraata hai ji
 
   2
-  Kiuṅ laiṅ qaid meiṅ laaye haiṅ mujhe kya malum
+  Kiuṅ la'iṅ qaid mein laaye haiṅ mujhe kya malum
   Haye Baba mazlum
   Gaye maidaan ko jis din se khabar meri na li
 
@@ -29,27 +29,27 @@ romanLyrics: |-
   Kya samajh kar mujhe yuṅ ghurkiyaaṅ deta hai shaqi
 
   4
-  Aaj ki shab ko bhi kya Baba nahiṅ aaeṅge
-  Mujh ko tarpaaeṅge
+  Aaj ki shab ko bhi kya Baba nahiṅ aaeṅ ge
+  Mujh ko tarpaaeṅ ge
   Un ke sine pe agar soti to nind aa jaati
 
   5
   Baad mere jo yahaaṅ hove padar ka aana
   Un se ye farmaana
-  Mar gai ghut ke andhere meiṅ tumhaari beti
+  Mar gai ghut ke andhere mein tumhaari beti
 
   6
   Sabr karti huṅ magar ho nahiṅ sakta mujh se
   Yahaaṅ se le chaliye mujhe
-  Warna pachhtaao gi zinda na rahuṅ gi maiṅ kabhi
+  Warna pachhtaao gi zinda na rahuṅ gi main kabhi
 
   7
   Paani laane ko kahaaṅ ruth gaye mujh se chacha
   Aap hi socheṅ zara
-  Hote ammu to maiṅ is tarah tamaache khaati
+  Hote ammu to main is tarah tamaanche khaati
 
   8
-  Puchhne ki meri un se nahiṅ himmat parti
+  Puchhne ki miri un se nahiṅ himmat parti
   Ae meri achchhi phuphi
   Mujh ko batlaaiye kiuṅ roti haiṅ chup chup ke chaachi
 ---

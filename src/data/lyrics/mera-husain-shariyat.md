@@ -22,8 +22,8 @@ romanLyrics: |-
   Ke jis ne diṅ pe bahattar ki jaaṅ lutaai hai
 
   1
-  Usi ki zaat se kaainaat meiṅ ujaala hai
-  Bajuz Husain ke taarikiyoṅ se aayi hai
+  Us ki zaat se kaainaat mein ujaala hai
+  Bajuz Husain ke taarikiyoṅ aayi hai
   Ke jis ne diṅ pe bahattar ki jaaṅ lutaai hai
 
   2
@@ -33,12 +33,12 @@ romanLyrics: |-
 
   3
   Ataa ke baad ye Hur ne kaha ke Ae Maula
-  Husain teri tabiat meiṅ kibriyaai hai
+  Husain teri tabiat mein kibriyaai hai
   Ke jis ne diṅ pe bahattar ki jaaṅ lutaai hai
 
   4
-  Har ek baat yaqiṅ se maiṅ keh raha huṅ Amir
-  Ali Wali ke malangoṅ meiṅ beriyaai hai
+  Har ek baat yaqiṅ se main keh raha huṅ Amir
+  Ali Wali ke malangoṅ mein beriyaai hai
   Ke jis ne diṅ pe bahattar ki jaaṅ lutaai hai
 ---
 دونوں جہاں روشن ہوئے احمد کے نور سے

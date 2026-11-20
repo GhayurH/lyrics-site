@@ -10,13 +10,13 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kehte the Shah-e-Deen mere, Abbas kahaaṅ ho
+  Kehte the Shah-e-Diṅ mere, Abbas kahaaṅ ho
 
   1
   Abbas kahaaṅ ho, Abbas kahaaṅ ho
-  Tanha huṅ khara dasht-e-bala mein baradar
+  Tanha huṅ khara dasht-e-balaa mein baraadar
   Dekho zara aa kar, dekho zara aa kar
-  Paala tha jinheṅ naazoṅ se, sote hain kahaaṅ wo
+  Paala tha jinheṅ naazoṅ se, sote haiṅ kahaaṅ wo
 
   2
   Dikhta nahiṅ aaṅkhoṅ se, har suṅ hai andhera
@@ -39,7 +39,7 @@ romanLyrics: |-
   Uthta huṅ kabhi girta huṅ thaame hue dil ko
 
   6
-  Chhineṅge Sakina ke gauhar ab ye sitamgar
+  Chhineṅ ge Sakina ke gauhar ab ye sitamgar
   Qasim hai na Akbar, Qasim hai na Akbar
   Laashe pe mere aa ke pukaaregi wo tum ko
 

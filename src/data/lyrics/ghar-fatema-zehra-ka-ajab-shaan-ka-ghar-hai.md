@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Islaam ke maahaul meiṅ imaan ka ghar hai
   Momin ki munaafiq ki ye pehchaan ka ghar hai
-  Kuch log mare jaate haiṅ is ranj o mehan meiṅ
-  Is ghar ka jo darwaaza hai masjid ke sehan meiṅ
+  Kuch log mare jaate haiṅ is ranj o mihan meiṅ
+  Is ghar ka jo darwaaza hai masjid ke sehn meiṅ
 
   2
   Allah ne is ghar ko nabuwwat se nawaaza
-  Dunya meiṅ ise din o shariat se nawaaza
+  Duniya meiṅ ise din o shariat se nawaaza
   Ismat se imaamat se wilaayat se nawaaza
   Har fard ko Quraan ki aayat se nawaaza
   Saanche meiṅ mashiyat ke ye afraad dhale haiṅ

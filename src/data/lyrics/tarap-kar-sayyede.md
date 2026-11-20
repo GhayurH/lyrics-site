@@ -15,7 +15,7 @@ romanLyrics: |-
   Tarap kar Sayyed-e-Sajjad roye
 
   Dafn karne ke liye laash-e-shahidaan-e-wafa
-  Karbala aaye ba aijaaz-e-imamat Maula
+  Karbala aaye ba ijaaz-e-imaamat Maula
   Chaar su bikhre hue tukroṅ ko jis dam dekha
   Phat gaya qalb o jigar zabt ka yaara na raha
 

@@ -1,35 +1,73 @@
 ---
-title: "Mazloom Bhira, Haye Nahi Sir Tay Rida"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "مظلوم بھرا، ہائے نہیں سر تے ردا"
+alternateTitle: "Mazloom Bhira, Haye Nahi Sir Tay Rida"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mazloom bhira, haye nahi sir tay rida, pund Shaam da kitni door ey
+  Nahi waqaf Shaam day rawan dee bin chadar haar mastoor ey
+
+  1
+  Teri laash na einj chahd jandee mei, teykoun veeran kafan pawandee mei
+  Kareen maaf khata chan veer mera teri behn baoun majboor ey
+
+  2
+  Nahien mangdee chadar apnay laee, bus laash teri tay pa jawan
+  Khavan pathar mei sang bharjaeeyan day mei koon veer ey gal manzoor ey
+
+  3
+  Paey sarhday khaimay sayadan day, paeeyan laashan char chofayray nay
+  Maqtal day wich maqtoolan noun paya labda saara poor ey
+
+  4
+  Na rown deyvan teri laash outhay, teri dhee masoom Sakina noun
+  Eyn gaal dasa dukhiya da bhira aey kis ja da dastoor ey
+
+  5
+  Hathkariyan da nahien ghaam koi, teri behn koun ey ghaam maar gaya
+  Sir nangay Zahra jaeeyan day sang Abid puthar ghayour ey
+
+  6
+  Jaway jis pasay sir Akbar da, Shabbir di akh hy ous pasay
+  Thak thak Shabbir thay Akbar noun paee rondi haar mastoor ey
+
+  7
+  Haider di jaee wich maqtal akhay ro ro kalma goan noun
+  Gal laan devo aik vaar mei koun jera sung zakhma day choor ey
 ---
 
-Mazloom Bhira, Haye Nahi Sir Tay Rida, Pund Shaam Da Kitni Door Ey.
+مظلوم بھرا، ہائے نہیں سر تے ردا، پنڈ شام دا کتنی دور اے
+نہیں واقف شام دے راواں دی، بن چادر ہار مستور اے
 
-Nahi Waqaf Shaam Day Rawan Dee  Bin Chadar Haar Mastoor Ey.
+۱
+تیری لاش نہ اینج چھڈ جاندی میں، تیکوں ویراں کفن پواندی میں
+کریں معاف خطا چن ویر میرا، تیری بہن بہوں مجبور اے
 
-Teri Laash Na Einj Chahd Jandee Mei, Teykoun Veeran Kafan Pawandee Mei
-Kareen Maaf Khata Chan Veer Mera  Teri Behn Baoun Majboor Ey.
+۲
+نہیں منگدی چادر اپنے لئی، بس لاش تیری تے پا جاواں
+کھاواں پتھر میں سنگ بھرجائیاں دے، میکوں ویر اے گل منظور اے
 
-Nahien Mangdee Chadar Apnay Laee, Bus Laash Teri Tay Pa Jawan
-Khavan Pathar Mei Sang Bharjaeeyan Day  Mei Koon Veer Ey Gal Manzoor Ey.
+۳
+پئے سڑدے خیمے سیداں دے، پئیاں لاشاں چار چوفیرے نیں
+مقتل دے وچ مقتولاں نوں، پیا لبھدا سارا پور اے
 
-Paey Sarhday Khaimay Sayadan Day, Paeeyan Laashan Char Chofayray Nay
-Maqtal Day Wich Maqtoolan Noun  Paya Labda Saara Poor Ey.
+۴
+نہ رون دیون تیری لاش اُتے، تیری دھی معصوم سکینہ نوں
+ایں گل دسا دکھیا دا بھرا، اے کس جا دا دستور اے
 
-Na Rown Deyvan Teri Laash Outhay, Teri Dhee Masoom Sakina Noun
-Eyn Gaal Dasa Dukhiya Da Bhira  Aey Kis Ja Da Dastoor Ey.
+۵
+ہتھکڑیاں دا نہیں غم کوئی، تیری بہن کوں اے غم مار گیا
+سر ننگے زہرا جائیاں دے، سنگ عابد پتر غیور اے
 
-Hathkariyan Da Nahien Ghaam Koi, Teri Behn Koun Ey Ghaam Maar Gaya
-Sir Nangay Zahra Jaeeyan Day  Sang Abid Puthar Ghayour Ey.
+۶
+جاوے جس پاسے سر اکبر دا، شبیر دی اکھ ہے اوس پاسے
+تک تک شبیر تے اکبر نوں، پئی روندی ہار مستور اے
 
-Jaway Jis Pasay Sir Akbar Da, Shabbir Di Akh Hy Ous Pasay
-Thak Thak Shabbir Thay Akbar Noun  Paee Rondi Haar Mastoor Ey.
-
-Haider Di Jaee Wich Maqtal Akhay Ro Ro Kalma Goan Noun
-Gal Laan Devo Aik Vaar Mei Koun  Jera Sung Zakhma Day Choor Ey.
+۷
+حیدر دی جائی وچ مقتل آکھے رو رو کلمہ گوآں نوں
+گل لان دیوو اک وار میکوں، جیڑا سنگ زخماں دے چور اے

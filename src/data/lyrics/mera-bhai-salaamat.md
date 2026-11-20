@@ -44,7 +44,7 @@ romanLyrics: |-
 
   4
   Thi Madine meiṅ bhi ik behan
-  Us ko rehta tha bas ye mahan
+  Us ko rehta tha bas ye mihan
   Khairiyat se ho bhai mera
   Ho na jaaye gharib-ul-watan
   Raat din ro ke bas ye kahe

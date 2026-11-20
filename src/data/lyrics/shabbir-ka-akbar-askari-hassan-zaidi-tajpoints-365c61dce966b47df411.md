@@ -1,45 +1,76 @@
 ---
-title: "Shabbir Ka Akbar Askari Hassan Zaidi"
+title: "شبیر کا اکبر"
+alternateTitle: "Shabbir Ka Akbar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Askari"
-tags: ["noUrdu"]
+poet: "Askari Hassan Zaidi"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Be misl jamal e rukh e anwar nazar aaye
+  Har rukh se woh humshakal e Pyamber nazar aaye
+  Dedar e Muhammad ki dua mangi thi rab se
+  Yousuf ko janab e Ali Akbar nazar aaye
+  Hone lagi dunya pa ayyan oss ki bazurgi
+  Jab sath mein Allah ke Akbar nazar aaye
+
+  2
+  Akbar ke tasadduq mein hoye chand sitare
+  Jo naqsh e qadam arsh ke oper nazar aaye
+  Be khof tha har khushk gala samne lekin
+  Medan mein sehme hoye khanjar nazar aaye
+  Nezay se ulatne ke liye Kybar e darya
+  Abbas bhi Ashor ko Haider nazar aaye
+
+  3
+  Romal mila Fatima Zahra ka inhein bhi
+  Yeh ashk e azza Hur ke baraber nazar aaye
+  Chaha tha jinhein talib e baiat ne jhukana
+  Nezey ki bulandi pa wohi sar nazar aaye
+  Saya pare Akbar ka tu phir husan ki saf mein
+  Yeh Jaun bhi Yousuf ke barabar nazar aaye
+
+  4
+  Seene pa rahe matam e Shabbir ka soraj
+  Gar chahte ho qabar munawar nazar aaye
+  Taqleed e Hasan mein ossay mimber se utaro
+  Gar dushman e Haider sar e mimber nazar aaye
+  Aye:Mir Hilal: apne khiyalo mein they Akbar
+  Jo shair mere Askari behter nazar aaye
 ---
 
-Shabbir Ka Akbar Askari Hassan Zaidi.
+۱
+بے مثل جمالِ رخِ انور نظر آئے
+ہر رخ سے وہ ہم شکلِ پیمبر نظر آئے
+دیدارِ محمد کی دعا مانگی تھی رب سے
+یوسف کو جنابِ علی اکبر نظر آئے
+ہونے لگی دنیا پہ عیاں اس کی بزرگی
+جب ساتھ میں اللہ کے اکبر نظر آئے
 
-1
-Be Misl Jamal e Rukh e Anwar Nazar Aaye.
-Har Rukh Se Woh Humshakal e Pyamber Nazar Aaye.
-Dedar e Muhammad Ki Dua Mangi Thi Rab Se.
-Yousuf Ko Janab e Ali Akbar Nazar Aaye.
-Hone Lagi Dunya Pa Ayyan Oss Ki Bazurgi.
-Jab Sath Mein ALLAH Ke Akbar Nazar Aaye.
+۲
+اکبر کے تصدق میں ہوئے چاند ستارے
+جو نقشِ قدم عرش کے اوپر نظر آئے
+بے خوف تھا ہر خشک گلا سامنے لیکن
+میدان میں سہمے ہوئے خنجر نظر آئے
+نیزے سے الٹنے کے لیے خیبرِ دریا
+عباس بھی عاشور کو حیدر نظر آئے
 
-2
-Akbar Ke Tasadduq Mein Hoye Chand Sitare.
-Jo Naqsh e Qadam Arsh Ke Oper Nazar Aaye.
-Be Khof Tha Har Khushk Gala Samne Lekin.
-Medan Mein Sehme Hoye Khanjar Nazar Aaye.
-Nezay Se Ulatne Ke Liye Kybar e Darya.
-Abbas Bhi Ashor Ko Haider Nazar Aaye.
+۳
+رومال ملا فاطمہ زہرا کا انھیں بھی
+یہ اشکِ عزا حر کے برابر نظر آئے
+چاہا تھا جنھیں طالبِ بیعت نے جھکانا
+نیزے کی بلندی پہ وہی سر نظر آئے
+سایہ پڑے اکبر کا تو پھر حسن کی صف میں
+یہ جون بھی یوسف کے برابر نظر آئے
 
-3
-Romal Mila Fatima Zahra Ka Inhein Bhi.
-Yeh Ashk e Azza Hur Ke Baraber Nazar Aaye.
-Chaha Tha Jinhein Talib e Baiat Ne Jhukana.
-Nezey Ki Bulandi Pa Wohi Sar Nazar Aaye.
-Saya Pare Akbar Ka Tu Phir Husan Ki Saf Mein.
-Yeh Jaun Bhi Yousuf Ke Barabar Nazar Aaye.
-
-4
-Seene Pa Rahe Matam e Shabbir Ka Soraj.
-Gar Chahte Ho Qabar Munawar Nazar Aaye.
-Taqleed e Hasan Mein Ossay Mimber Se Utaro.
-Gar Dushman e Haider Sar e Mimber Nazar Aaye.
-Aye:MIR HILAL: Apne Khiyalo Mein They Akbar.
-Jo Shair Mere Askari Behter Nazar Aaye.
+۴
+سینے پہ رہے ماتمِ شبیر کا سورج
+گر چاہتے ہو قبر منور نظر آئے
+تقلیدِ حسن میں اسے منبر سے اتارو
+گر دشمنِ حیدر سرِ منبر نظر آئے
+اے میر ہلال، اپنے خیالوں میں تھے اکبر
+جو شعر میرے عسکری بہتر نظر آئے

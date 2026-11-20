@@ -1,5 +1,6 @@
 ---
 title: "شام ہائے شام"
+alternateTitle: "Shaam Haye Shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,106 +9,68 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Shababul Momeneen lyrics:
-
-  Shaam Haye Shaam, Shaam Haye Shaam
-
+romanLyrics: |-
+  Shaam haaye Shaam
 
   1
+  Teri ummat ke zewar pehen kar
+  Dekho bhaiya chala huṅ main Shaam
 
-  TERE UMMAT KAY ZEWAR PEHEN KER, DEKHO NANA CHALEE HOUN MAIN SHAAM
+  2
+  Main deti kafan tujh ko bhaiya
+  Gar sar pe rida mere hoti
+  Gar hote khule haath mere
+  Tere zakhmoṅ ko haathoṅ se dhoti
+  Paaband-e-rasan sar barahna
+  Dekho Nana chali huṅ main Shaam
 
-  ME DAITHEE KAFAN TUJH KO BHAIYA GAR SAR PAY RIDA MAIRAY HOTHEE
+  3
+  Tere bachchoṅ ko le kar gai main
+  Shab bhar saari roti rahi huṅ
+  Kabhi Ghazi ka lehja badal kar
+  Main pehre bhi deti rahi huṅ
+  In bewa bahu betiyoṅ se
+  Kiuṅ karte nahiṅ ho kalaam
 
-  GAR HOTHAY KHULAY HAATH MAIRAY TERAY ZAKHMON KO HATHON SAY DHOTHEE
+  4
+  Mere Aabid pe taari ghashi thi
+  Aur Kulsum sehmi khari thi
+  Kabhi dekhuṅ main zakhmi Sakina
+  Jis ke daaman mein aag lagi thi
+  Kabhi rouṅ main apni rida ko
+  Kabhi dekhuṅ main jalte khiyaam
 
-  PABANDE-E-RASAN SAR BA REHNA, DEKHO BHAIYA CHALEE HOUN ME SHAAM
+  5
+  Haaye Nana main kaise sunaauṅ
+  Darbaar-e-shaqi ka woh manzar
+  Sabhi qaari o haafiz the baithe
+  Aur sar pe na thi mere chaadar
+  Haaye Nana teri betiyoṅ ko
+  Yuṅ laaye hain sar nange aam
 
-  TERAY ABID PAY THAREE GHASHEE THEE ORE KULSOOM ZEHMI KHAREE THEE
+  6
+  Jis Zainab ko tum ne baraadar
+  Kabhi nazreṅ utha kar na dekha
+  Haath rassi mein mere bandhe hain
+  Aur sar par nahiṅ mere chaadar
+  Kaise Kufe mein jaauṅ gi Ghazi
+  Jab majma mein aaye ga naam
 
-  KABHI DEKHOUN ME ZAKHMEE SAKINA JIS KAY DAMAN ME AAG LAGEE THEE
+  7
+  Jaise darbaar paas aa raha hai
+  Mera dil dubta ja raha hai
+  Main to ghar mein bhi kam bolti thi
+  Bhaai tum ko to sab kuchh pata hai
+  Kis tarah se kare gi bata do
+  Ak sharaabi se Zainab kalaam
 
-  KABHI RO UN ME APNEE RIDA KO, KABHEE DAIKHOUN ME JALTHAY KHAYAM
-
-  JIS ZAINAB KO TUMNAY BIRADER KABHI NAZRAIN OUTHA KAR NA DEKHA
-
-  HAATH RASEE ME MAIRAY BANDHAY HAIN ORE SAR PAY NAHIEN MAIRAY CHADAR
-
-  KAISAY KUFA ME JAOON GEE GHAZI, JAB MAJMAY ME AAEY GA NAAM
-
-  TERAY BACHON KO LAY KER GAEEY ME SHUB SAREE HEE ROTHEE RAHEE HOON
-
-  KABHI GHAZI KA LEHJA BADAL KAR ME PEHRAY BHI DAITHEE RAHEE HOON
-
-  AREY BEVA BAHOO BAYTION SAY, QUEN KARTHAY NAHIEN HO KALAAM
-
-  Mir Hasan Mir lyrics:
-
-  Ya HUSAIN (ASWS).....4
-
-  Shaam Ka Bazar Kuja..... AABID E BEEMAR (ASWS).....2
-
-  ZAINAB (SAWS) E Dilgeer Kuja.....Majma E Agyar Kuja.....
-
-  Haye Shaam......6
-
-  Teri Ummat Ke Zewar Pahan Kar.....2
-
-  Dekho Nana Chali Hun Mai Shaam.....
-
-  Shaam..... Haye Shaam.....3
-
-  Mai Deti Kafan Tujhko Bhaiya..... Gar Sar Pe Rida Meri Hoti.....
-
-  Gar Hote Khule Hath Mere.....Phir Zakhmon Ko Hathon Se Dhoti.....
-
-  Paband E Rasan Sar Barehna.....2
-
-  Dekho Bhaiya Chali Hun Mai Shaam.....
-
-  Shaam..... Haye Shaam.....3
-
-  Jis ZAINAB (SAWS) Ko Tum Ne Baradar.....Kabhi Nazren Utha Kar Na Dekha
-
-  Hath Rassi Se Mere Bandhe Hai.....Aur Sar Par Nahi Mere Parda.....
-
-  Kaise Kufe Mein Jaungi GAZI (ASWS)....2
-
-  Jub Balve Mein Aaienga Naam....
-
-  Shaam..... Haye Shaam.....3
-
-  Jaise Darbar Paas Aa Raha Hai..... Mera Dil Doobta Jaa Raha Hai.....
-
-  Mai To Ghar Mein Bhi Kam Bolti Thi..... Bhai Tum Ko To Sub Kutch Pata Hai.....
-
-  Kis Tarha Se Karengi Bata De.....2
-
-  Ek Sharabi Se ZAINAB (SAWS) Kalam.....
-
-  Shaam..... Haye Shaam.....3
-
-  Dil Yeh Kehta Hai Ro Ro Ke Bhaiya....Kash ABBAS (ASWS) Maujood Hota.....
-
-  Kaant Deta Woh Uski Zuban Ko..... Koi Baghi Agar Mujhko Kehta.....
-
-  Dekhti Phir Mai Kis Tarha Leta.....2
-
-  Koi ZAINAB (SAWS) Ka Majme Mein Naam
-
-  Shaam..... Haye Shaam.....3
-
-  Keh Rahe Hai Yeh Has Has Ke Shami..... Aane Wale Hai Darbar Baghi.....
-
-  Jis Ne Ajdad Mare Humare..... Aa Rahi Yahan Uski Beti.....
-
-  Khaulta Pani Pheko Chaton Se.....2
-
-  Pattharon Ka Karo Intezam
-
-  Shaam..... Haye Shaam.....3
-
-  Haye Shaam......6'
+  8
+  Jab roti thi baali Sakina
+  Aur Baba ko apne bulaati
+  Main deti thi us ko tasalli
+  Aur sine pe apne sulaati
+  Dhund zindaan mein maasum bachchi
+  Le le ke woh Baba ka naam
 ---
 
 شام ہائے شام

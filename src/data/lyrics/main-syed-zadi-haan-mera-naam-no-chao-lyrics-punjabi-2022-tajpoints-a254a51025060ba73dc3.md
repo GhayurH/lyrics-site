@@ -1,29 +1,48 @@
 ---
-title: "Main Syed Zadi Haan Mera Naam No Chao Lyrics Punjabi 2022"
+title: "میں سید زادی ہاں، میرا نام نوں چاؤ"
+alternateTitle: "Main Syed Zadi Haan Mera Naam No Chao"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main Syed Zadi haan mera naam no chao
+  Assi ghairat-e-Nabi haan na pathar wasao
+  Har zulm karo logo ayeh zulm na karo
+  Walaan taun phar ke Asghar da sir na chao
+
+  2
+  Main Sani-e-Zahra haan tatheer di waris
+  Kujh sharam karo logo na bazar sajao
+  Akhiyaan choon khon roway ghairat da shehanshah
+  Aye ne Batool jaiyaan na chadraan lao
+
+  3
+  Zindan de wich mar gayi meri bhain Sakina
+  Qasim ya Akbar aa ke aidi qabar banao
+  Haye Jaun dukhi Zainab dendi si aye sada
+  Sadi be ridai te aynj na jashan manao
 ---
 
-1
-Main Syed Zadi Haan Mera Naam No Chao.
-Assi Ghairat-e-Nabi Haan Na Pathar Wasao.
-Har Zulm Karo Logo Ayeh Zulm Na Karo.
-Walaan Taun Phar Ke Asghar Da Sir Na Chao.
+۱
+میں سید زادی ہاں میرا نام نوں چاؤ
+اسیں غیرتِ نبی ہاں نہ پتھر وساؤ
+ہر ظلم کرو لوگو ایہہ ظلم نہ کرو
+والاں توں پھڑ کے اصغر دا سر نہ چاؤ
 
-2
-Main Sani-e-Zahra Haan Tatheer Di Waris.
-Kujh Sharam Karo Logo Na Bazar Sajao.
-Akhiyaan Choon Khon Roway Ghairat Da Shehanshah.
-Aye Ne Batool Jaiyaan Na Chadraan Lao.
+۲
+میں ثانیِ زہرا ہاں تطہیر دی وارث
+کجھ شرم کرو لوگو نہ بازار سجاؤ
+اکھیاں چوں خون رووے غیرت دا شہنشاہ
+اے نیں بتول جائیاں نہ چادراں لاہو
 
-3
-Zindan De Wich Mar Gayi Meri Bhain Sakina.
-Qasim Ya Akbar Aa Ke Aidi Qabar Banao.
-Haye Jaun Dukhi Zainab Dendi Si Aye Sada.
-Sadi Be Ridai Te Aynj Na Jashan Manao.
+۳
+زندان دے وچ مر گئی میری بھین سکینہ
+قاسم یا اکبر آ کے ایہدی قبر بناؤ
+ہائے جون دکھی زینب دیندی سی اے صدا
+ساڈی بے ردائی تے اینج نہ جشن مناؤ

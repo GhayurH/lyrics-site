@@ -24,9 +24,9 @@ romanLyrics: |-
   Maiṅ faqir-e-dar-e-Haider huṅ zamaane walo
   Aashiq-e-Saqi-e-Kausar huṅ zamaane walo
   Haaṅ dar-e-ilm ka naukar huṅ zamaane walo
-  Khaadim-e-Shafa-e-Mehshar huṅ zamaane walo
+  Khaadim-e-Shafaa-e-Mehshar huṅ zamaane walo
   Fahm o idraak se baala hai faqiri meri
-  Kahiṅ ziyada hai amiroṅ se amiri meri
+  Kahiṅ ziyaada hai amiroṅ se amiri meri
 
   3
   Mera mazhab hai Ali meri ibaadat hai Ali
@@ -40,13 +40,13 @@ romanLyrics: |-
   Jab lagaata huṅ sar-e-raah Ali Haq ki sada
   Khud ba khud hota hai mujh par ye ayaaṅ kaun hai kya
   Pal meiṅ chal jaata hai insaan ke shajre ka pata
-  Kaun kis nasal ka hai kya hai aqida kis ka
+  Kaun kis nasl ka hai kya hai aqida kis ka
   Koi khush hota hai aksar koi jal jaata hai
-  Dono surat meiṅ magar mujh ko maza aata hai
+  Donoṅ surat meiṅ magar mujh ko maza aata hai
 
   5
   Ishq meiṅ dub ke barh jaata hai jab soz o gudaaz
-  Aur kuch wajd dila deta hai sankh ka saaz
+  Aur kuchh wajd dila deta hai sankh ka saaz
   Tab maiṅ parhta huṅ aqidat se wilaayat ki namaaz
   Apne Maula se bayaaṅ karta huṅ sab raaz o niyaaz
   Parda aaṅkhoṅ se hijaabaat ka hat jaata hai
@@ -61,7 +61,7 @@ romanLyrics: |-
   Mera maqsad to munaafiq ko jalaana thehra
 
   7
-  Ba-Khuda ishq-e-Khuda ishq-e-Ali Maula ka
+  Bakhuda ishq-e-Khuda ishq-e-Ali Maula ka
   Ain-e-tauhid hai kya ishq-e-Ali Maula ka
   Mehwar-e-nuqta-e-baa ishq-e-Ali Maula ka
   Mimbar-e-Khum ki sada ishq-e-Ali Maula ka
@@ -76,15 +76,15 @@ romanLyrics: |-
   Meri hasti ki baqa Ibn-e-Wali deta hai
   Rab ka banda huṅ magar rizq Ali deta hai
 
-  Qata
+  Qita
   Dunya kahaaṅ samjhegi bhala kya hai faqiri
   Har aql se azhaan se baala hai faqiri
   Maula ka malang subh o masa shaan se jis pe
   Karta hai ibaadat wo musalla hai faqiri
 
   9
-  Haaṅ bata dijiye Yasir ke faqiri kya hai
-  Dar-haqiqat ye sanad yaafta ik rutba hai
+  Haaṅ bata dijiye Yasir keh faqiri kya hai
+  Dar haqiqat ye sanad yaafta ik rutba hai
   Mustanad shakhs jo hota hai use milta hai
   Ye wo rutba hai jo bande ko amar karta hai
   Jis ko milti hai faqiri wo baqa paata hai

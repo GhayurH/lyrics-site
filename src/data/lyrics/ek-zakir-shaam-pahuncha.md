@@ -9,103 +9,108 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  A reciter reached Syria with a thought in his heart
-  Saw the market and the palace n asked himself.
+  Ek zakir Shaam pahuncha
 
   1
-  When Zainab was bareheaded, Husain lying shroud less
-  The sun standing still on the head,
+  Ek zakir Shaam pahuncha dil mein lekar ye khayaal
+  Dekh kar baazaar aur darbaar puchhuṅ ye sawaal,
 
   2
-  When covered the distance between the market and the palace
-  How much tribulation Bibi must have faced?
+  Sar barahna jab thi Zainab bekafan Zehra ka laal,
+  Sar pe suraj chal raha tha jis ghari chunti chaal,
 
   3
-  Reached the holy shrine and said to the guard,
-  O guard of Bibi Zainab’s shrine tell me this
+  Faasla baazaar se darbaar tak tai jab kiya
+  Waqt is mushkil safar mein kitna Bibi ko laga,
 
   4
-  I travelled from the market to the palace
-  I felt only a short span of time to reach
+  Marqad-e-Zainab pe pahuncha aur mujaawar se kaha,
+  Ae mujaawar marqad-e-Zainab ke mujh ko ye bata,
 
   5
-  To pass over this short distance
-  How much time did the sister of Husain, Zainab take?
+  Tai safar baazaar se darbaar tak main ne kiya,
+  Waqt mujh ko is safar mein chand saaat ka laga
 
   6
-  The guard lamented on listening to this question and said,
-  You are a reciter of Husain and you posses the courage to hear this
+  Is zara se faasle ko khwaahar-e-Shabbar ne
+  Kitni saaat mein kiya tai Zainab-e-dilgir ne
 
   7
-  You covered the distance in a short span
-  But the same journey of Zainab equated to a thousand years,
+  Ro diya, ro diya sun kar mujaawar ye sawaal aur ye kaha,
+  Zakir-e-Shabbar hai tu sunne ka tujh mein hausla,
 
   8
-  In thirty hours time reached the daughter of Fatima
-  Surrounded by lakhs of spectators and thousands sinful
+  Tu ne tai ye faasla jo chand saaat mein kiya,
+  Ye safar Zainab ka sadiyoṅ ke baraabar ho gaya,
 
   9
-  And my sisters this very moment is so very worth of pondering over
-  As she was sister of Abbas
+  Tis ghantoṅ mein yahaaṅ tak pahunchiṅ Bint-e-Faatima,
+  Gird the laakhoṅ tamaashaai hazaaroṅ ashqiya,
 
   10
-  Bare headedness odd time and the scorching thirst,
-  Desired Bibi for the cloak of Hazrat Abbas.
+  Aur meri bahnoṅ ye ghari hai is qadar ehsaas ki,
+  Thi bahan Abbaas ki nazreṅ awaamunnaas ki,
 
   11
-  The time of shaame ghareeban and remembrance of Abbas
-  When there was no son, mother but helplessness,
+  Beradaai beghari aur is pe shiddat pyaas ki,
+  Kahti thi mil jaae chaadar parcham-e-Abbaas ki
 
   12
-  In the grief-stricken hand came the whole of responsibility
-  Zainab became Ali, Abbas Husain too
+  Saaat-e-shaam-e-gharibaaṅ yaad wo Abbaas ki,
+  Jab na tha koi bhi waaris maaṅ siwaae bekasi,
 
   13
-  For the frightful children protector became the daughter of Ali
-  Offered condolences to everyone but wept herself
+  Ghamzada ke haath mein yak chob-e-qaima aa gai
+  Ban gai Zainab Ali Abbaas bhi Shabbar bhi,
 
   14
-  Suddenly she saw a carriage approaching
-  Bibi ran towards in anxiety to stop
+  Sahme bachchoṅ ke liye Bint-e-Ali thi pahredaar,
+  Sab ko deti thi tasalli khud magar thi ashkbaar,
 
   15
-  Asked what else they wanted to loot everything has already been taken away,
-  All things burnt, my brother too dead
+  Naagahaaṅ dekha chala aata hai jaise yak sawaar,
+  Thaam li baag-e-faras Bibi ne ho ke beqaraar,
 
   16
-  Go away for the sake of my father,
-  I am the daughter of a Prophet; I am Zainab the daughter of Sayeda
-  On hearing the name of Mustafa, the man got anxious
+  Boli ab kya lutne aaya hai sab kuchh lut gaya,
+  Jal gaya asbaab saara bhaai mera mar gaya,
 
   17
-  Hugged her with tears flowing and said
-  I am your Baba Ali mushkil Kusha grief stricken
+  Laut ja deti huṅ tujh ko Mustafa ka waasta
+  Main nabi zaadi huṅ main Zainab huṅ Bint-e-Sayyeda,
 
   18
-  Now you set off to the qaima I will replace you to guard
-  At the glimpse of her father her heart busted with sorrow
+  Mustafa ka naam sun kar ho gaya wo beqaraar
+  Daal kar baaheṅ gale mein ho ke bola ashkbaar,
 
   19
-  The tears dropped knowing no bounds,
-  She wept with an outcry and expressed her grief,
+  Main tera Baba Ali mushkil kusha huṅ ghamgusaar
+  Ab tu qaime mein chali ja main banuṅga pahredaar,
 
   20
-  Slaughtered my whole family oh Baba, pulled off my cloak
-  Akbar & Asgher departed Qasim n Abbas alongside too
-  The knife slit through the neck of Husain
+  Are baap ko dekha to gham se aur sina phat gaya,
+  Gajle aansuṅ jo tha aakhir ko beqaabu hua,
 
   21
-  I could do nothing but be a helpless spectator
-  O Baba, O. Baba Abbas died on the banks of the river
+  Boli Zainab Murtaza se kar ke ye aah o buka
+  Kat gaya, kat gaya, kat gaya kunba mera Baba chhini meri rada,
 
   22
-  This reverence we (Rehan) possess is our fortune
-  Under the shadow of shrine of Abbas this Noha have we written
+  Akbar o Asghar sidhaare Qaasim o Abbaas bhi,
+  Chal gai Shabbar ke hulqum pe Baba chhuri,
 
   23
-  When Sarwar recited at the shrine of Husain
-  It seemed like
-  The whole of Prophet hood have congregated for the mourning.
+  Main dar-e-qaima pe Baba haath malti rah gai,
+  So gaya, so gaya, so gaya dariya kinaare ja ke Abbaas jari
+
+  24
+  Ham ko ae Rehan qismat se sharaf kaisa mila,
+  Rauze Abbaas ke saae mein ye nauha likha,
+
+  25
+  Rauze Shabbar pe ja kar jo Sarwar ne parha,
+  Yuṅ laga, yuṅ laga, yuṅ laga
+  Kul anbiya haiṅ shaamil-e-ahl-e-aza
 ---
 
 ایک ذاکر شام پہنچا

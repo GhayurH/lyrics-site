@@ -9,39 +9,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maa ka naala laash tak aata hai akbar ghar may aao
-  Dekh koi yuṅ bhi rulwata hai akbar ghar may aao
-  Haaye akbar ghar may aao
+  Maaṅ ka naala laash tak aata hai, Akbar ghar mein aao
+  Maaṅ koi yuṅ bhi rulwaata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 
   2
-  Aakhri dedaar mumkin ho to dikhlado mujhe
-  Laash uthane ran may baap aata hai akbar ghar may aao
-  Haaye akbar ghar may aao
+  Aakhri didaar mumkin ho to dikhla do mujhe
+  Laash uthaaye ran mein baap aata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 
   3
-  Tukre tukre hogaya nazuk kaleja waqte jab
-  Is tarha barchi koi khata hai akbar ghar may aao
-  Haaye akbar ghar may aao
+  Tukre tukre ho gaya naazuk kaleja waqt jab
+  Is tarah barchhi koi khaata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 
   4
-  Sadqe jaungi wafa ehde jawani ne na kuch
-  Itne jaldi koi mar jaata hai akbar ghar may aao
-  Haaye akbar ghar may aao
+  Sadqe jaauṅ gi wafa ahd-e-jawaani ne na ki
+  Itni jaldi koi mar jaata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 
   5
-  Tum yahaṅ maqtal may ho aur maa hai deowri par tapa
-  Meri jaan ulfat me farq aata hai a akbar ghar may aao
-  Haaye akbar ghar may aao
+  Tum yahaaṅ maqtal mein ho aur maaṅ hai deorhi par tapaaṅ
+  Mere jaan-e-ulfat mein farq aata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 
   6
-  Tumse milna kya tumhari maa ke kismat may nahi
-  Dil mera kaahe ko ghabrata hai akbar ghar may aao
-  Haaye akbar ghar may aao
+  Tum se milna kya tumhaari maaṅ ki qismat mein nahiṅ
+  Dil mein kaahe ko ghabraata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 
   7
-  Qaime ke dar par tumhare waaste roti hai maa
-  Aise koi maa ko rulwata hai akbar ghar may aao
-  Haaye akbar ghar may aao
+  Khayme ke dar par tumhaare waaste roti hai maaṅ
+  Aise koi maaṅ ko rulwaata hai, Akbar ghar mein aao
+  Haaye Akbar ghar mein aao
 ---
 
 ۱

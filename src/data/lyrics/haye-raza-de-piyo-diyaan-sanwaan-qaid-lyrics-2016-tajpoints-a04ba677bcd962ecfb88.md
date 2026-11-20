@@ -1,38 +1,64 @@
 ---
-title: "Haye Raza De Piyo Diyaan Sanwaan Qaid Lyrics 2016"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے رضا دے پیو دیاں سانواں قید"
+alternateTitle: "Haye Raza De Piyo Diyaan Sanwaan Qaid"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Raza de piyo diyaan sanwaan qaid wich e muk gayiyaan
+
+  1
+  Ghar nu jawan waliyaan rahwaan qaid wich e muk gayiyaan
+  Malik-e-taqdeer qaidi ho giya
+  Dhiyaan da jiwein muqadar so giya
+  Haye wasan di duawaan qaid wich e muk gayiyaan
+
+  2
+  Wain jairay kandaan nal takranday re
+  Naal Kazim de ohh hare mar gaye
+  Jinj Sakina diyaan hawaan qaid wich e muk gayiyaan
+  Sham wal munh kar ke Kazim aakhda
+
+  3
+  Qaid khana kha giya Baghdad da
+  Tere Ghazi diyaan banwaan qaid wich e muk gayiyaan
+  Naam Sughra da laway te ro paway
+  Haye Akbar aakh ke Kazim kaway
+
+  4
+  Mere hokay harey hawaan qaid wich e muk gayiyaan
+  Bas aye Akbar Fatima aye jandi
+  Kine bachre kha gayi rah Sham te Baghdad di
+  Kine bachre dhiyaan manwaan qaid wich e muk gayiyaan
 ---
 
-Haye Raza De Piyo Diyaan Sanwaan Qaid Write Up
-Haye Raza De Piyo Diyaan Sanwaan Qaid Wich E Muk Gayiyaan.
+ہائے رضا دے پیو دیاں سانواں قید وچ ای مک گئیاں
 
-1
-Ghar Nu Jawan Waliyaan Rahwaan Qaid Wich E Muk Gayiyaan.
-Malik-e-Taqdeer Qaidi Ho Giya.
-Dhiyaan Da Jiwein Muqadar So Giya.
-Haye Wasan Di Duawaan Qaid Wich E Muk Gayiyaan.
+۱
+گھر نوں جاون والیاں راہواں قید وچ ای مک گئیاں
+مالکِ تقدیر قیدی ہو گیا
+دھیاں دا جیویں مقدر سو گیا
+ہائے وسن دی دعاواں قید وچ ای مک گئیاں
 
-2
-Wain Jairay Kandaan Nal Takranday Re.
-Naal Kazim De Ohh Hare Mar Gaye.
-Jinj Sakina Diyaan Hawaan Qaid Wich E Muk Gayiyaan.
-Sham Wal Munh Kar Ke Kazim Aakhda.
+۲
+وین جیڑے کنداں نال ٹکراندے رئے
+نال کاظم دے اوہ ہارے مر گئے
+جنج سکینہ دیاں ہواواں قید وچ ای مک گئیاں
+شام ول منہ کر کے کاظم آکھدا
 
-3
-Qaid Khana Kha Giya Baghdad Da.
-Tere Ghazi Diyaan Banwaan Qaid Wich E Muk Gayiyaan.
-Naam Sughra Da Laway Te Ro Paway.
-Haye Akbar Aakh Ke Kazim Kaway.
+۳
+قید خانہ کھا گیا بغداد دا
+تیرے غازی دیاں بانواں قید وچ ای مک گئیاں
+نام صغریٰ دا لاوے تے رو پاوے
+ہائے اکبر آکھ کے کاظم کووے
 
-4
-Mere Hokay Harey Hawaan Qaid Wich E Muk Gayiyaan.
-Bas Aye Akbar Fatima Aye Jandi.
-Kine Bachre Kha Gayi Rah Sham Te Baghdad Di.
-Kine Bachre Dhiyaan Manwaan Qaid Wich E Muk Gayiyaan.
+۴
+میرے ہوکے ہارے ہواواں قید وچ ای مک گئیاں
+بس اے اکبر فاطمہ اے جاندی
+کنے بچڑے کھا گئی راہ شام تے بغداد دی
+کنے بچڑے دھیاں ماواں قید وچ ای مک گئیاں

@@ -1,28 +1,45 @@
 ---
-title: "Mara Gaya Hasan Ko Mehdi Rizvi Hadi Rizvi"
+title: "مارا گیا حسن کو مہدی رضوی ہادی رضوی"
+alternateTitle: "Mara Gaya Hasan Ko Mehdi Rizvi Hadi Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mara gaya Hasan ko Mehdi Rizvi Hadi Rizvi
+  Yasrab mein zehar de kar mara gaya Hasan ko
+  Tarpaya iss tarha se Zahra ke gul badan ko
+  Bad-e-shahadat iss ko kab chain mil gaya hai
+  Teeron se bhar diya hai Syed ke iss kafan ko
+  Sara kafan lahu se Shabar ka bhar chuka hai
+  Kaisay dikhaein lasha Shabbir yeh behan ko
+  Lagne laga hai ab tu pardais yeh Madina
+  Kya ho gaya na jane Nana tere watan ko
+  Baba ka zakhm ab tak bholi nahi thi Zainab
+  Phir se hai khoon rulaya ummat ne Panjtan ko
+  Aisay nibhaya wadah logon ne Mustafa se
+  Haye ujaar dala Zahra ke kul chaman ko
+  Qambar, Hasan pukarey Sajjad ko bola kar
+  Dekho gay tum phophi ke hathoon mein ab rasan ko
 ---
 
-1
-Mara Gaya Hasan Ko Mehdi Rizvi Hadi Rizvi.
-Yasrab Mein Zehar De Kar Mara Gaya Hasan Ko.
-Tarpaya Iss Tarha Se Zahra Ke Gul Badan Ko.
-Bad-e-Shahadat Iss Ko Kab Chain Mil Gaya Hai.
-Teeron Se Bhar Diya Hai Syed Ke Iss Kafan Ko.
-Sara Kafan Lahu Se Shabar Ka Bhar Chuka Hai.
-Kaisay Dikhaein Lasha Shabbir Yeh Behan Ko.
-Lagne Laga Hai Ab Tu Pardais Yeh Madina.
-Kya Ho Gaya Na Jane Nana Tere Watan Ko.
-Baba Ka Zakhm Ab Tak Bholi Nahi Thi Zainab.
-Phir Se Hai Khoon Rulaya Ummat Ne Panjtan Ko.
-Aisay Nibhaya Wadah Logon Ne Mustafa Se.
-Haye Ujaar Dala Zahra Ke Kul Chaman Ko.
- Qambar, Hasan Pukarey Sajjad Ko Bola Kar.
-Dekho Gay Tum Phophi Ke Hathoon Mein Ab Rasan Ko.
+۱
+مارا گیا حسن کو مہدی رضوی ہادی رضوی
+یثرب میں زہر دے کر مارا گیا حسن کو
+تڑپایا اس طرح سے زہرا کے گل بدن کو
+بعدِ شہادت اس کو کب چین مل گیا ہے
+تیروں سے بھر دیا ہے سید کے اس کفن کو
+سارا کفن لہو سے شبر کا بھر چکا ہے
+کیسے دکھائیں لاشہ شبیر یہ بہن کو
+لگنے لگا ہے اب تو پردیس یہ مدینہ
+کیا ہو گیا نہ جانے نانا تیرے وطن کو
+بابا کا زخم اب تک بھولی نہیں تھی زینب
+پھر سے ہے خون رلایا امت نے پنجتن کو
+ایسے نبھایا وعدہ لوگوں نے مصطفیٰ سے
+ہائے اجاڑ ڈالا زہرا کے کل چمن کو
+قنبر، حسن پکارے سجاد کو بلا کر
+دیکھو گے تم پھوپھی کے ہاتھوں میں اب رسن کو

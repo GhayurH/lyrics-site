@@ -9,40 +9,88 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Loko may ujar gayi aan
+  [Loko main ujar gayi aan]
+  [Mera maariya vir Husain]
 
   1
-  Mera maariya veer Husain
+  [Zainab ae kardi ae vainr]
 
   2
-  Zainab paye kardi hai vain
-  Lokon may ujar gaye aan
-  1) Mazloom Husain di lash utay
-  Aj sog di malka aayi hai
-  Keevain kafan puwawan chan veeran
-  Meri chadar vi na ray ay
-  Khulay vaal tai kardi vain
+  Logo main ujar gayi huṅ
+  Mera maara hai bhai Husain
+  Zainab ye karti hai bain
+  Logo main ujar gayi huṅ
+  Mazlum Husain ke laashe par
+  Aj sog ki malka aayi hai
+  Kaise kafan duṅ tujh ko maaṅ jaaye
+  Meri chaadar bhi chhin gayi hai
+  Khule baal haiṅ karti huṅ bain
+  Logo main ujar kai huṅ
+  Mera maara hai bhai Husain
 
   3
-  2) Tu saang uthay main mehmaal tay
-  Haey Shaam diyaan nay raavan
-  Main bhul gayan Awn o Mohammad nu
-  Ghazi diyan katiyan bavan
-  Haey kon sunay meray vain
+  Tu neze par main mahmal par
+  Aur Shaam ki haiṅ ye raaheṅ
+  Main Aun o Mohammad bhul gayi
+  Ghazi ki kat gayiṅ baaheṅ
+  Haaye kaun sune mere bain
+  Logo main ujar kai huṅ
+  Mera maara hai bhai Husain
 
   4
-  3) Tatheer di waris sir nangai
-  Jadon wich bazar dai gayi hai
-  Har pasaiyon khalqat saari nai
-  Ditay tohfe hasbuna de
-  Mainu ujri Zainab kain
+  Tathir ki waaris sar nange
+  Jab Shaam baazaar mein aayi hai
+  Har taraf se khilqat saari ne
+  Diye tohfe hasbuna ke
+  Zainab ho gayi bechain
+  Logo main ujar kai huṅ
+  Mera maara hai bhai Husain
 
   5
-  4) Munh ker kai dariya val Zainab
-  Akhay veer Abbas hun aja
-  Lut pay gayi khaimay sar gaye nay
-  Saday parday aan bacha jaa
-  Aj kon sunay meray vain
+  Rukh kar ke darya ki jaanib
+  Kahe ae Abbas tu aa ja
+  Lut par gayi khaime jal gaye haiṅ
+  Parde tu aa ke bacha ja
+  Ab kaun sune mere bain
+  Logo main ujar kai huṅ
+  Mera maara hai bhai Husain
+
+  6
+  -
+
+  7
+  Zainab pai kardi ae vainr
+
+  8
+  Mazlum Husain di laash ute
+  Aj sog di malka aayi hai
+  Kivein kafan pawaawaan chan viranr
+  Meri chaadar vi na rai ae
+  Khulle vaal te kardi ae vainr
+
+  9
+  Tu saang ute main mahmal te
+  Haaye Shaam diaan neen raawaan
+  Main bhul gayiaan Aun o Mohammad nun
+  Ghazi diaan katiaan baawaan
+  Haaye kaun sune mere vain
+
+  10
+  Tathir di waaris sir nange
+  Jadaan vich baazaar de gayi ae
+  Har paasion khilqat saari ne
+  Ditte tohfe hasbuna de
+  Mainun ujri Zainab kainr
+
+  11
+  Munh kar ke darya val Zainab
+  Aakhe vir Abbas hunr aaja
+  Lut pai gayi khaime sar gaye neen
+  Saade parde aanr bacha ja
+  Aj kaun sunre mere vainr
+
+  12
+  -
 ---
 
 [لوکو میں اجڑ گئی آں]

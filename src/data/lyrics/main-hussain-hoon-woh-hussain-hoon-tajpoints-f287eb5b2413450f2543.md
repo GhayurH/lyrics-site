@@ -1,41 +1,72 @@
 ---
-title: "Main Hussain Hoon Woh Hussain Hoon"
+title: "میں حسین ہوں وہ حسین ہوں"
+alternateTitle: "Main Hussain Hoon Woh Hussain Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main Hussain hoon woh Hussain hoon
+  Dil-e-Fatima ka main chain hoon
+  Main Nabi ki aankhon ka noor hoon main Ali ke dil ka surror hoon
+  Meri maan hai Janab-e-Syeda meri bhai Hasan dil-e-Mustafa
+
+  2
+  Meri hum qadam meri do behan meri bhai Ghazi qarar-e-man
+  Main sawar-e-doosh-e-Rasool hoon main Hussain jan-e-Batool hoon
+  Main kalam-e-Rab ki misal hoon main gharan-e-la-zawaal hoon
+  Mujhe naaz apne chaman pe hai main hoon panchwaan rukan-e-Panjtan
+
+  3
+  Main Hussain waris-e-deen hoon main gumaan nahi main yaqeen hoon
+  Mujhe ishq naam-e-Khuda se hai meri jang ahl-e-daga se hain
+  Meri zindagi mere Rab ki hai main chala hoon ghar se liye kafan
+  Main hazar sadmay utha chuka main charag apne bhuja chuka
+
+  4
+  Main tamam lashkar ganwa chuka main zameen-e-maqtal saja chuka
+  Lo main Zuljina se gir gaya na hai zeen pe our na zameen pe tan
+  Lo main nook-e-naiza pe aa gaya main kamal-e-maqsad ko pa gaya
+  Tah-e-taig sajda adda kiya main utha tu paish-e-Khuda gaya
+
+  5
+  Hai sada-e-hal min ka mojza hai jahan mein zinda mera sukhan
+  Main Hussain jan-e-Karbala hai yahan ki mati mein bhi shifa
+  Lo Rehan-o- Sarwar karo dua rahe saya sab par Hussain ka
+  Rahe hashar tak yehi silsila yehi ik sada ho zameen zaman
 ---
 
-1
-Main Hussain Hoon Woh Hussain Hoon.
-Dil-e-Fatima Ka Main Chain Hoon.
-Main Nabi Ki Aankhon Ka Noor Hoon Main Ali Ke Dil Ka Surror Hoon.
-Meri Maan Hai Janab-e-Syeda Meri Bhai Hasan Dil-e-Mustafa.
+۱
+میں حسین ہوں وہ حسین ہوں
+دلِ فاطمہ کا میں چین ہوں
+میں نبی کی آنکھوں کا نور ہوں میں علی کے دل کا سرور ہوں
+میری ماں ہے جنابِ سیدہ میری بھائی حسن دلِ مصطفیٰ
 
-2
-Meri Hum Qadam Meri Do Behan Meri Bhai Ghazi Qarar-e-Man.
-Main Sawar-e-Doosh-e-Rasool Hoon Main Hussain Jan-e-Batool Hoon.
-Main Kalam-e-Rab Ki Misal Hoon Main Gharan-e-La-Zawaal Hoon.
-Mujhe Naaz Apne Chaman Pe Hai Main Hoon Panchwaan Rukan-e-Panjtan.
+۲
+میری ہم قدم میری دو بہن میری بھائی غازی قرارِ من
+میں سوارِ دوشِ رسول ہوں میں حسین جانِ بتول ہوں
+میں کلامِ رب کی مثال ہوں میں گھرانۂ لا زوال ہوں
+مجھے ناز اپنے چمن پہ ہے میں ہوں پانچواں رکنِ پنجتن
 
-3
-Main Hussain Waris-e-Deen Hoon Main Gumaan Nahi Main Yaqeen Hoon.
-Mujhe Ishq Naam-e-Khuda Se Hai Meri Jang Ahl-e-Daga Se Hain.
-Meri Zindagi Mere Rab Ki Hai Main Chala Hoon Ghar Se Liye Kafan.
-Main Hazar Sadmay Utha Chuka Main Charag Apne Bhuja Chuka.
+۳
+میں حسین وارثِ دیں ہوں میں گماں نہیں میں یقیں ہوں
+مجھے عشق نامِ خدا سے ہے میری جنگ اہلِ دغا سے ہیں
+میری زندگی میرے رب کی ہے میں چلا ہوں گھر سے لیے کفن
+میں ہزار صدمے اٹھا چکا میں چراغ اپنے بجھا چکا
 
-4
-Main Tamam Lashkar Ganwa Chuka Main Zameen-e-Maqtal Saja Chuka.
-Lo Main Zuljina Se Gir Gaya Na Hai Zeen Pe Our Na Zameen Pe Tan.
-Lo Main Nook-e-Naiza Pe Aa Gaya Main Kamal-e-Maqsad Ko Pa Gaya.
-Tah-e-Taig Sajda Adda Kiya Main Utha Tu Paish-e-Khuda Gaya.
+۴
+میں تمام لشکر گنوا چکا میں زمینِ مقتل سجا چکا
+لو میں ذوالجناح سے گر گیا نہ ہے زین پہ اور نہ زمین پہ تن
+لو میں نوکِ نیزہ پہ آ گیا میں کمالِ مقصد کو پا گیا
+تہِ تیغ سجدہ ادا کیا میں اٹھا تو پیشِ خدا گیا
 
-5
-Hai Sada-e-Hal Min Ka Mojza Hai Jahan Mein Zinda Mera Sukhan.
-Main Hussain Jan-e-Karbala Hai Yahan Ki Mati Mein Bhi Shifa.
-Lo Rehan-o- Sarwar Karo Dua Rahe Saya Sab Par Hussain Ka.
-Rahe Hashar Tak Yehi Silsila Yehi Ik Sada Ho Zameen Zaman.
+۵
+ہے صدائے ہل من کا معجزہ ہے جہاں میں زندہ میرا سخن
+میں حسین جانِ کربلا ہے یہاں کی ماٹی میں بھی شفا
+لو ریحان و سرور کرو دعا رہے سایہ سب پر حسین کا
+رہے حشر تک یہی سلسلہ یہی اک صدا ہو زمین زماں

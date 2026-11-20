@@ -54,7 +54,7 @@ romanLyrics: |-
   Tujhe dhundne jaauṅ kahaaṅ
 
   7
-  Banu-e-muztar Karbala ban meiṅ kehti thi Mirza pit ke sar
+  Baanu-e-muztar Karbala ban meiṅ kehti thi Mirza pit ke sar
   Kehti thi Mirza pit ke sar
   Tujhe dhundne jaauṅ kahaaṅ
   Tujhe dhundne jaauṅ kahaaṅ

@@ -23,13 +23,13 @@ romanLyrics: |-
 
   1
   Maiṅ salaamat rahuṅ maani thi ye tu ne mannat
-  Ho gayi khatm zamaane se ye teri zehmat
+  Ho gayi khatm zamaane se ye teri zahmat
   Ghar tere aaj maiṅ mehmaan hua is surat
   Sar mera nok-e-sinaaṅ jism Karbobala
 
   2
   Yaad Shiriṅ tujhe wo hoga zamaana mera
-  Saath saaye ki tarah rehta tha Naana mera
+  Saath saaye ki tarah rehta tha naana mera
   Kaam Jibril ka tha naaz uthaana mera
   Aaj begor o kafan jism hai maqtal meiṅ para
 

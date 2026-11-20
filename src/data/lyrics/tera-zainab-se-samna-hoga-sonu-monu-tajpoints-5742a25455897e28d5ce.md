@@ -1,30 +1,49 @@
 ---
-title: "Tera Zainab Se Samna Hoga Sonu Monu"
+title: "تیرا زینب سے سامنا ہوگا سونو مونو"
+alternateTitle: "Tera Zainab Se Samna Hoga Sonu Monu"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tera Zainab se samna hoga Sonu Monu
+  Soch le ab Yazid kya hoga
+  Tera Zainab se samna hoga
+  Haan tere lehjay se aashna Bibi
+  Yaan Ali hoon gay yaan Khuda hoga
+  Ab assa ki nahi talab Mosa
+  Yeh jo guzrein gi rasta hoga
+  Haan Baab-e-Saat pe iss liye roka
+  Kufar Zainab se dar raha hoga
+  Aaj phir se Yazid hoga fana
+  Aaj Zainab ka tazkira hoga
+  Inn azadar-e-Shah ka waiz
+  Haan bhala kar tera bhala hoga
+  Bint-e-Zahra ki yeh inayat hai
+  Matam Shah-e-Dein sada hoga
+  Zain zindah hai bad-e-marg bhi kyun
+  Nam-e-Zainab pe mar gaya hoga
 ---
 
-1
-Tera Zainab Se Samna Hoga Sonu Monu
-Soch Le Ab Yazid Kya Hoga.
-Tera Zainab Se Samna Hoga.
-Haan Tere Lehjay Se Aashna Bibi.
-Yaan Ali Hoon Gay Yaan Khuda Hoga.
-Ab Assa Ki Nahi Talab Mosa.
-Yeh Jo Guzrein Gi Rasta Hoga.
-Haan Baab-e-Saat Pe Iss Liye Roka.
-Kufar Zainab Se Dar Raha Hoga.
-Aaj Phir Se Yazid Hoga Fana.
-Aaj Zainab Ka Tazkira Hoga.
-Inn Azadar-e-Shah Ka Waiz.
-Haan Bhala Kar Tera Bhala Hoga.
-Bint-e-Zahra Ki Yeh Inayat Hai.
-Matam Shah-e-Dein Sada Hoga.
- Zain Zindah Hai Bad-e-Marg Bhi Kyun.
-Nam-e-Zainab Pe Mar Gaya Hoga.
+۱
+تیرا زینب سے سامنا ہوگا سونو مونو
+سوچ لے اب یزید کیا ہوگا
+تیرا زینب سے سامنا ہوگا
+ہاں تیرے لہجے سے آشنا بی‌بی
+یاں علی ہوں گے یاں خدا ہوگا
+اب عصا کی نہیں طلب موسیٰ
+یہ جو گزریں گی راستہ ہوگا
+ہاں بابِ ساعت پہ اس لیے روکا
+کفر زینب سے ڈر رہا ہوگا
+آج پھر سے یزید ہوگا فنا
+آج زینب کا تذکرہ ہوگا
+ان عزادارِ شہ کا واعظ
+ہاں بھلا کر تیرا بھلا ہوگا
+بنتِ زہرا کی یہ عنایت ہے
+ماتم شاہِ دین سدا ہوگا
+زین زندہ ہے بعدِ مرگ بھی کیوں
+نامِ زینب پہ مر گیا ہوگا

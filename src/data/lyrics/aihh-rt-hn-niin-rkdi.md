@@ -8,51 +8,51 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Eh rat hun nahi rukhdi, Eh rat hun nahi rukhdi
+  Eh raat hun naiṅ rukdi, eh raat hun naiṅ rukdi
 
   1
-  Touhid diyaṅ shahzadi nu ainjh paidal safar karai
-  Patharan da mi barsaya, Eh rat hun nahi rukhdi
+  Tauhid diyaaṅ shahzaadi nuṅ enj paidal safar karaai
+  Pathraan da mi barsaaya, eh raat hun naiṅ rukdi
 
   2
-  1. Mehdi bhen sakina mar gaye si, mere hath paband san os vele
-  Qurbat de alam de vich ro ro khariya te lashe chaya
-  Rasiyan de vich dafnaya, Eh rat hun nahi rukhdi
+  Meri behn Sakina mar gai si, mere haath paaband san os vele
+  Ghurbat de alam vich ro ro kariyaan te laashe chhiya
+  Rasiyaan de vich dafnaaya, eh raat hun naiṅ rukdi
 
   3
-  2. Aik lal si Hasan da chan varga jida lasha si pamaal hoya
-  Jidi ma si armaan barah nahi putar nahi puttar nu sehre paya
-  Ghadri vich lasha paya, Eh rat hun nahi rukhdi
+  Ek laal si Hasan da chaan varga jeda laasha si paamaal hoya
+  Jedi maaṅ da si armaan baraah, nahiṅ putar nuṅ sehra paaya
+  Ghattri vich laasha paaya, eh raat hun naiṅ rukdi
 
   4
-  3. Mera almaan wala ghazi si jide bazuan te si mahn barah
-  Jida laash leṅ kaya maqtal piya digda zahra jhaya
-  Nahi ghazi nu chuk paya, Eh rat hun nahi rukhdi
+  Mera almaan vaala ghaazi si jedi baazuaan te si maan baraah
+  Jeda laash leiṅ kaaya maqtal, piya dighda Zahra chaaya
+  Nahiṅ ghaazi nuṅ chak paaya, eh raat hun naiṅ rukdi
 
   5
-  4. Mere ma di ghod veraan hoyi, mera veer asghar vi maar ditta
-  Raya naal furaat paya mangda, jidi pyaas nai hai tarpaya
-  Mere rat nu surkh banaya, Eh rat hun nahi rukhdi
+  Mere maaṅ di god viraan hoi, mera vir Asghar vi maar ditta
+  Raaya naal Furaat paaya mangda, jedi pyaas nai hai tarpaaya
+  Mere raat nuṅ surkh banaaya, eh raat hun naiṅ rukdi
 
   6
-  5. Jeraa parch jibrail te sonda si ohda lasha gharam zamin
-  Beadab naal ohde sir nu qatil nai aahn kai chaya
-  Ohdi bhen dai samne laya, Eh rat hun nahi rukhdi
+  Jera pirch Jibraail te sonda si, ohda laasha gharaam zamin ohte
+  Beadab naal ohde sar nuṅ qaatil nai aahan kai chhaaya
+  Ohdi behn daai saamne laaya, eh raat hun naiṅ rukdi
 
   7
-  6. Humshakle payambar daise nai zalim nai barchi mar ditti
-  Kuwan mawa dai saangi mehnaat raitaan ch labb nahi paya
-  Iss gham bhi maan banaya, Eh rat hun nahi rukhdi
+  Payambar nai zaalim nai barchhi mar ditti
+  Kavaan maava daai chh lab nahiṅ paaya
+  Is gham bhi ma'an banaaya, eh raat hun naiṅ rukdi
 
   8
-  7. Jaffar tayar da sarmaya, Jodon ma nu milleṅ layi aya
-  Hasrat si ma sine lawe, Ma sine naal nah laya
-  Inna lillah farmaya, Eh rat huṅ nahi rukhdi
+  Tayaar da sarmaaya, maaṅ nuṅ mileiṅ laai aaya
+  Hasrat si maaṅ sine, maaṅ sine naal na laaya
+  Inna lillaah farmaaya, eh raat huṅ nahiṅ rukdi
 
   9
-  8. Qasim sibtal nahi jahn sakai oh sham gariba de manzar
-  Minhal mehdi ma da burka, Jiwain shimar nai aahn lahaya
-  Hass hass kai jashan manaya, Eh rat hun nahi rukhdi
+  Qaasim naiṅ jhan oh shaam de manzar
+  Mehdi maaṅ da burqa, shumaar nai aahan
+  Hans hans kai jashan manaaya, eh raat hun nahiṅ rukdi
 ---
 
 ایہہ رات ہن نئیں رکدی، ایہہ رات ہن نئیں رکدی

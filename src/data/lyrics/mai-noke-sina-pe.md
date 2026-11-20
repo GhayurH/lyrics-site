@@ -1,6 +1,6 @@
 ---
 title: "جب مدینے میں پائے کر ب و بلا"
-alternateTitle: "Mai Noke Sina Pe"
+alternateTitle: "Main Nok-e-Sinaaṅ Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab madine meiṅ paye karbobala
-  Daste khudrat ka sawara hua mehzar utra
-  Ghaur se zainab o shabbir ne usko dekha
-  Usmein likha tha ki kya hoga pase qatl e jafa
-  Imtehan baat liye bhai behan ne milkar
-  Dega sar kaun fida kaun karega chadar
-  Mai noke sina pe chalunga behan
-  Chalna hai tumhe bazaroṅ meiṅ
-  Pamaal badan hoga mera
-  Jaana hai tumhe bazaroṅ meiṅ
-  Mai noke sina…
-  Aaghaz-e-safar anjam-e-safar
-  Hai sakht bahot maiṅ ne maana
-  Mujhe yaad hai ab tak ae zainab
-  Nana se kiya tha jo wada
-  Mai tera din bacha'unga
-  Qurban karunga sar apna
-  Qurban rida tum kar dena
-  Mai noke sina…
-  Lo sar se kafan baandha maiṅ ne
+  Jab Madine mein paaye karb o bala
+  Dast-e-qudrat ka sawaara hua mehzar utra
+  Ghaur se Zainab o Shabbir ne us ko dekha
+  Us mein likha tha ke kya hoga paasaaye qatl-e-jafa
+  Imtehaan baant liye bhai behan ne mil kar
+  Dega sar kaun fida kaun karega chaadar
+  Main nok-e-sinaaṅ pe chalaaunga behan
+  Chalna hai tumheṅ baazaaroṅ mein
+  Paamaal badan hoga mera
+  Jaana hai tumheṅ baazaaroṅ mein
+  Main nok-e-sinaaṅ...
+  Aaghaaz-e-safar anjaam-e-safar
+  Hai sakht bahut main ne maana
+  Mujhe yaad hai ab tak ae Zainab
+  Naana se kiya tha jo waada
+  Main tera din bachaaunga
+  Qurbaan karunga sar apna
+  Qurbaan rida tum kar dena
+  Main nok-e-sinaaṅ...
+  Lo sar se kafan baandha main ne
   Pardes muqaddar jaan liya
   Hai dur abhi manzil lekin
-  Ghar karbobala ko maan liya
-  Behna hai jahaṅ par khuṅ mera
-  Us dharti ko pehchan liya
+  Ghar Karb o Bala ko maan liya
+  Behna hai jahaaṅ par khuṅ mera
+  Us dharti ko pehchaan liya
   Tum mera saath nibha dena
-  Mai noke sina…
-  Tum bhi ho sharike kaar meri
-  Ghazi ki tarha akbar ki tarha
-  Ek jang tumhe bhi larni hai
-  Betaygh ali asghar ki tarha
-  Sar aun o mohamed ke honge
-  Tar khun meiṅ mere sar ki tarha
-  Tum azm-e-ali dikhla dena
-  Mai noke sina…
-  Abbas ka matam karna hai
-  Qasim ki laash uthana hai
+  Main nok-e-sinaaṅ...
+  Tum bhi ho sharik-e-kaar meri
+  Ghazi ki tarah Akbar ki tarah
+  Ik jang tumheṅ bhi larni hai
+  Betegh Ali Asghar ki tarah
+  Sar Aun o Muhammad ke honge
+  Tar khun mein mere sar ki tarah
+  Tum azm-e-Ali dikhla dena
+  Main nok-e-sinaaṅ...
+  Abbaas ka maatam karna hai
+  Qaasim ki laash uthaana hai
   Maqtal se shahidoṅ ke laashe
-  Qaimon meiṅ akele laana hai
+  Khaimoṅ mein akele laana hai
   Maqtal ki taraf jaa kar hum ko
-  Wapas to nahi phir aana hai
-  Abid ko zara samjha dena
-  Mai noke sina…
-  Jab ahle haram qaidi ban kar
-  Pabande rasan humraah tere
-  Jane jo lage ba deeda e tar
-  Aur khafila maqtal se guzre
-  Koshish karna us aalam meiṅ
-  Hum ko na sakina dekh sake
-  Tum uska dhyan bata dena
-  Mai noke sina…
-  Jis noke sina par sar ho mera
-  Jab dekho sina wo rukh gayi hai
-  Us waat samajh lena zainab
-  Naaqe se sakina gir gayi hai
-  Jab dekhna abid ki jaanib
-  Badh kaar nazar koi uth gayi hai
-  Khutboṅ ki taygh chala dena
-  Mai noke sina…
-  Bazaroṅ meiṅ darbaroṅ meiṅ
-  Zindaṅ ki andheri raatoṅ meiṅ
-  Roye jo meri bachi zainab
-  Moo apna chupaye haatoṅ meiṅ
-  Samjhana use behlana use
-  Ghar yaad dilana baatoṅ meiṅ
+  Waapas to nahiṅ phir aana hai
+  Aabid ko zara samjha dena
+  Main nok-e-sinaaṅ...
+  Jab ahl-e-haram qaidi ban kar
+  Paaband-e-rasan hamraah tere
+  Jaane jo lage barida-e-tar
+  Aur qaafila maqtal se guzre
+  Koshish karna us aalam mein
+  Hum ko na Sakina dekh sake
+  Tum us ka dhyaan bata dena
+  Main nok-e-sinaaṅ...
+  Jis nok-e-sinaaṅ par sar ho mera
+  Jab dekho sinaaṅ woh ruk gayi hai
+  Us waqt samajh lena Zainab
+  Naaqe se Sakina gir gayi hai
+  Jab dekhna Aabid ki jaanib
+  Badkaar nazar koi uth gayi hai
+  Khutboṅ ki tegh chala dena
+  Main nok-e-sinaaṅ...
+  Baazaaroṅ mein darbaaroṅ mein
+  Zindaaṅ ki andheri raatoṅ mein
+  Roye jo meri bachi Zainab
+  Munh apna chhupaaye haathoṅ mein
+  Samjhaana use behlaana use
+  Ghar yaad dilaana baatoṅ mein
   Sughra ki yaad dila dena
-  Mai noke sina…
-  Rehan o raza kya manzar tha
-  Jis waqt kanizi meiṅ maanga
-  Darbar meiṅ us shehzadi ko
-  Haa naam sakina tha jiska
-  Us taaza sitam par abid aur
+  Main nok-e-sinaaṅ...
+  Rehaan o Raza kya manzar tha
+  Jis waqt kanizi mein maanga
+  Darbaar mein us shehzaadi ko
+  Haaṅ naam Sakina tha jis ka
+  Us taaza sitam par Aabid aur
   Zainab ka badan bhi kaamp gaya
-  Ye baat na tum dohradena
-  Mai noke sina…
+  Ye baat na tum dohra dena
+  Main nok-e-sinaaṅ...
 ---
 
 ۱

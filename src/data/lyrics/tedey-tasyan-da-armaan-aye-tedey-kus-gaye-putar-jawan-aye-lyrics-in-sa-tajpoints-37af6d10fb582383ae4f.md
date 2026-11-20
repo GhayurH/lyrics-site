@@ -1,42 +1,74 @@
 ---
-title: "Tedey Tasyan Da Armaan Aye Tedey Kus Gaye Putar Jawan Aye Lyrics In Saraiki 2019"
+title: "تیڈے تَسیاں دا ارمان اے تیڈے کُس ڳئے پتر جوان اے"
+alternateTitle: "Tedey Tasyan Da Armaan Aye Tedey Kus Gaye Putar Jawan Aye"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Maqbool"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tedey tasyan da armaan aye tedey kus gaye putar jawan aye
+  Aa gayi wich qatilaan dey haye Aayat-e-Tatheer di shan aye
+  Lab te tas balaan de reh gayi
+  Panri di jo aas na reh gayi
+  Maida bikhar gaya aye Quran aye
+  Teer Hurmal da gal te jhal ke
+  Aaya nahi ujari do wal ke
+  Sam rait te gaye nadan aye
+  Bazu veer Abbas de cha ke
+  Dasiya shah bhainri koon aa ke
+  Mar fauj da gaye nigran aye
+  Kiwein lash Akbar di chawaan
+  Mar waisan Akbar diyaan mawaan
+  Dey hosla putar jawan aye
+  Neelay hin rukhsar Sakina
+  Nahi labda babay da seena
+  Waddi golay wich maidan aye
+  Kiwein lash tu pathar hatawaan
+  Hath hin rasiyaan baaj ridawaan
+  Thi qaid da gaye aylan aye
+  Pak Rasool de deen de kitay
+  Putar bhira jaye dafan na kitay
+  Okkon ronda kul jahan aye
+  Kiwein tursaan Sham de rah te
+  Ghar da ghar Karbal lutwa ke
+  Maida thi gaye baho nuqsan aye
+  Tur payi Maqbool muasfir
+  Na dafnaya veer koon aakhir
+  Aye laeeq ayho arman aye
 ---
 
-1
-Tedey Tasyan Da Armaan Aye Tedey Kus Gaye Putar Jawan Aye.
-Aa Gayi Wich Qatilaan Dey Haye Aayat-e-Tatheer Di Shan Aye.
-Lab Te Tas Balaan De Reh Gayi.
-Panri Di Jo Aas Na Reh Gayi.
-Maida Bikhar Gaya Aye Quran Aye.
-Teer Hurmal Da Gal Te Jhal Ke.
-Aaya Nahi Ujari Do Wal Ke.
-Sam Rait Te Gaye Nadan Aye.
-Bazu Veer Abbas De Cha Ke.
-Dasiya Shah Bhainri Koon Aa Ke.
-Mar Fauj Da Gaye Nigran Aye.
-Kiwein Lash Akbar Di Chawaan.
-Mar Waisan Akbar Diyaan Mawaan.
-Dey Hosla Putar Jawan Aye.
-Neelay Hin Rukhsar Sakina.
-Nahi Labda babay Da Seena.
-Waddi Golay Wich Maidan Aye.
-Kiwein Lash Tu Pathar Hatawaan.
-Hath Hin Rasiyaan Baaj Ridawaan.
-Thi Qaid Da Gaye Aylan Aye.
-Pak Rasool De Deen De Kitay.
-Putar Bhira Jaye Dafan Na Kitay.
-Okkon Ronda Kul Jahan Aye.
-Kiwein Tursaan Sham De Rah Te.
-Ghar Da Ghar Karbal Lutwa Ke.
-Maida Thi Gaye Baho Nuqsan Aye.
-Tur Payi Maqbool Muasfir.
-Na Dafnaya Veer Koon Aakhir.
-Aye Laeeq Ayho Arman Aye.
+۱
+تیڈے تَسیاں دا ارمان اے تیڈے کُس ڳئے پتر جوان اے
+آ ڳئی وچ قاتلاں دے ہائے آیتِ تطہیر دی شان اے
+لب تے تَس بالاں دے رہ ڳئی
+پاݨی دی جو آس نہ رہ ڳئی
+میڈا بکھر ڳیا اے قرآن اے
+تیر حرمل دا ڳل تے جھل کے
+آیا نہیں اُجاڑی دوں ول کے
+سم ریت تے ڳئے نادان اے
+بازو ویر عباس دے چا کے
+دسیا شاہ بھینڑی کوں آ کے
+مر فوج دا ڳئے نگران اے
+کیویں لاش اکبر دی چاواں
+مر ویساں اکبر دیاں ماواں
+ڈے حوصلہ پتر جوان اے
+نیلے ہن رخسار سکینہ
+نہیں لبھدا بابے دا سینہ
+وڈی گولے وچ میدان اے
+کیویں لاش توں پتھر ہٹاواں
+ہتھ ہن رسیاں باج رداواں
+تھی قید دا ڳئے اعلان اے
+پاک رسول دے دین دے کیتے
+پتر بھرا جائے دفن نہ کیتے
+اوکوں روندا کل جہان اے
+کیویں ترساں شام دے راہ تے
+گھر دا گھر کربل لٹوا کے
+میڈا تھی ڳئے بہوں نقصان اے
+تر پئی مقبول مسافر
+نہ دفنایا ویر کوں آخر
+اے لائق ایہو ارمان اے

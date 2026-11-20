@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Har pal hai saath hai har dam
-  Maatam haaṅ Sheh ka maatam
+  Maatam haaṅ Shih ka maatam
 
   Jab naam-e-Shabbir liya
   Bhul gaye dunya ke gham

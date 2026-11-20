@@ -1,6 +1,6 @@
 ---
 title: "آپ آ جائیں جو مولا"
-alternateTitle: "Aap Ajayen Jo Mola"
+alternateTitle: "Aap Aa Jaaeṅ Jo Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aap aa jaein jo Maula hum yeh manzar dekh lein
-  Halqa-e-matam bana Kabay ke andar dekh lein
-  Inteqam-e-Karbala ki de Ali Akbar azaan
-  Murtaza ki taig se urtay hoye sar dekh lein
-  Daein Abuzar baein Qanbar samne Salman hoon
-  Ik namaz aisi bhi hum Kabay mein parh kar dekh lein
+  Aap aa jaaeṅ jo Maula hum yeh manzar dekh leṅ
+  Halqa-e-maatam bana Kaabe ke andar dekh leṅ
+  Inteqaam-e-Karbala ki de Ali Akbar azaaṅ
+  Murtaza ki tegh se urte hue sar dekh leṅ
+  Daaeṅ Abuzar baaeṅ Qanbar saamne Salman hoṅ
+  Ik namaaz aisi bhi hum Kaabe meiṅ parh kar dekh leṅ
 
   2
-  Aap ke zakir ki hai mairaj mimber aap ka
-  Aap mimber par hoon hum mairaj-e-mimber dekh lein
-  Munkir-e-ayelan-e-Khum par jis tarha kankar gira
-  Munkir-e-matam pe bhi youn girtay kankar dekh lein
-  Hum issi lalach mein peetey hain may hub-e-Ali
-  Aab-e-Kausar aap ke chulo mein pe kar dekh lein
+  Aap ke zaakir ki hai meraaj mimbar aap ka
+  Aap mimbar par hoṅ hum meraaj-e-mimbar dekh leṅ
+  Munkir-e-aelaan-e-Khum par jis tarah kankar gira
+  Munkir-e-maatam pe bhi yuṅ girte kankar dekh leṅ
+  Hum isi laalach meiṅ pite haiṅ mai hubb-e-Ali
+  Aab-e-Kausar aap ke chullu meiṅ pi kar dekh leṅ
 
   3
-  Woh tu Ghazi hai agar main ban gaya tera ghulam
-  Meri thokar mein jahan walay samandar dekh lein
-  Jab akelay Sibt-e-Jafar zalimo ki maut hai
-  Kya ho gar yeh teen so terah ka lashkar dekh lein
-  Mar ke bhi Darwaish ki aankhein karein gi intezar
-  Pyar se Maula issay nazrein mila kar dekh lein
+  Woh to Ghazi hai agar maiṅ ban gaya tera ghulaam
+  Meri thokar meiṅ jahaaṅ wale samandar dekh leṅ
+  Jab akele Sibt-e-Jafar zaalimoṅ ki maut hai
+  Kya ho gar yeh tin sau terah ka lashkar dekh leṅ
+  Mar ke bhi Darwaish ki aankheṅ kareṅ gi intezaar
+  Pyaar se Maula ise nazreṅ mila kar dekh leṅ
 ---
 
 ۱

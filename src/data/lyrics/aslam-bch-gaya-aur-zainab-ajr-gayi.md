@@ -7,6 +7,31 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Islaam bach gaya aur Zainab ujar gayi
+  Ae kalma go bataao ke Bint-e-Batul ki haaye
+  Chaadar kidhar gayi
+
+  2
+  Maasuma Sakina to zindaan ki ghutan meiṅ
+  Baaba ko yaad karti hui, khauf ke maare haaye
+  Roti hi mar gayi
+
+  3
+  Ghurbat ki raat Saani-e-Zehra pe to kathin thi
+  Jab saath woh Fizza ke Maasuma ko dhundne haaye
+  Thi nange sar gayi
+
+  4
+  Darya pe jaa ke Ghaazi waapas na khaime aaye
+  Aur Saani-e-Zehra ki ridaa, dasht-e-balaa meiṅ haaye
+  Sar se utar gayi
+
+  5
+  Saqqa-e-Sakina ka sar saang pe tarpa tha
+  Jab pyaas ki maari hui Shabbir ki beti haaye
+  Roti bichhar gayi
 ---
 
 ۱

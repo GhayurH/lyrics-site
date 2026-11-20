@@ -9,35 +9,23 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sakina qaid ho kar shaam ke zindan may jab aayi
-
-  Wo bachi us andhere ghar ki taarekhi se ghabrayi
-
-  Muqaddar ne ajab aafat ki pehli raat dikhlayi
-
-  Zameen to farsh thi saaya figan tha charkh e meenayi
-
+romanLyrics: |-
+  Haaye Sakina qaid ho kar shaam ke zindaaṅ mein jab aayi
+  Wo bachchi us andhere ghar ki taariki se ghabraayi
+  Zameeṅ to farsh thi saaya figan tha charkh-e-minaayi
+  Muqaddar ne musibat ki ye pehli raat dikhlaayi
 
   1
-
-  Phupi ke saath rehti thi na maa ke paas soti thi
-
-  Barehna sar khadi zindan ke darwaze pa roti thi
-
-  Udhar se jo guzarta tha usay kehti thi sunta ja
-
-  Mai bekas qaid may hoo ek ye paigham hai mera
-
+  Phuphi ke paas rehti thi na maaṅ ke paas soti thi
+  Barahna sar khari zindaaṅ ke darwaaze pe roti thi
+  Udhar se jo guzarta tha use kehti thi sunta ja
+  Main bekas qaid mein baithi huṅ ek paighaam hai mera
 
   2
-
-  Agar baba mile tujhko to ye kahiyo kasam kha kha
-
-  Sakina par musibat hai khabar lo ay shah e waala
-
-  Agar tujhse kahain qaime may sota chod aaya hoo
-
-  To tu kahiyo dar e zindan pe rota chod aaya hoo'
+  Agar baba mile tujhko to tu kehna qasam kha kha
+  Sakina par musibat hai khabar lo ae shah-e-waala
+  Agar tujh se kahe khaime mein sota chhor aaya huṅ
+  To tu kehna dar-e-zindaaṅ pe rota chhor aaya huṅ
 ---
 
 ہاے سکینہ قید ہو کر شام کے زنداں میں جب آی

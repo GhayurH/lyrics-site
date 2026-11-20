@@ -12,40 +12,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Godi Meiṅ Le Ke Bethi Hai Zahra Sar-e-Husain
-  Zakhmi Hai Maa Ke Hathuṅ Ke Jaisa Sar-e-Husain
+  Godi meiṅ le ke baithi hai Zahra sar-e-Husain
+  Zakhmi hai maaṅ ke haathoṅ le jaisa sar-e-Husain
 
   2
-  Ik Maa Duhai Deti Rahi Our Lain Ne
-  Naize Pe Rakh Ke Zulfuṅ Se Bandha Sar-e-Husain
+  Ik maaṅ duhaai deti rahi aur laeen ne
+  Naize pe rakh ke zulfoṅ se baandha sar-e-Husain
 
   3
-  Rakha Alag Alag Gaya Sandooq Meiṅ Magar
-  Akbar Ke Sar Ke Sath Hi Nikla Sar-e-Husain
+  Rakha alag alag gaya sanduq meiṅ magar
+  Akbar ke sar ke saath hi nikla sar-e-Husain
 
   4
-  Naqe Se Jitni Bar Giri Dukhtar-e-Husain
-  Naize Se Utni Bar Gira Tha Sar-e-Husain
+  Naaqe se jitni baar giri dukhtar-e-Husain
+  Naize se utni baar gira tha sar-e-Husain
 
   5
-  Ik Gaud Meiṅ Sakina Ki Ik Bar Qabar Meiṅ
-  Do Bar Qaid Khane Meiṅ Aaya Sar-e-Husain
+  Godi meiṅ ik baar to ik baar qabar meiṅ
+  Do baar qaid khaane meiṅ aaya sar-e-Husain
 
   6
-  Sheriṅ Se Jo Kiya Tha Woh Wadah Nibha Diya
-  Pohanche Nahi Husain Tu Pohancha Sar-e-Husain
+  Shiriṅ se jo kiya tha woh waada nibha diya
+  Pahunche nahiṅ Husain to pahuncha sar-e-Husain
 
   7
-  Aise Tu Zibha Hota Nahi Gosfand Bhi
-  Hans Hans Ke Jaise Shimar Ne Kata Sar-e-Husain
+  Aise to zibh hota nahiṅ gosfand bhi
+  Hans hans ke jaise Shimar ne kaata sar-e-Husain
 
   8
-  Zainab Ko Yaad Aa Gaye Bose Rasul Ke
-  Rahuṅ Meiṅ Pathroṅ Ne Jo Choma Sar-e-Husain
+  Zainab ko yaad aage bose Rasul ke
+  Raahoṅ meiṅ pathroṅ ne jo chuma sar-e-Husain
 
   9
-  Baluṅ Meiṅ Gird Abro Takallum Kate Hoye
-  Acha Howa Na Sughra Ne Dekha Sar-e-Husain
+  Baaloṅ meiṅ gird abru Takallum kate hue
+  Achha hua na Sughra ne dekha sar-e-Husain
 ---
 ۱
 گودی میں لے کے بیھٹی ہے زہرا سر ِحسین

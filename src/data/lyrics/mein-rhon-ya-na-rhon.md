@@ -9,155 +9,80 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Mein rahun ya na rahun Ya Hussain
-
+romanLyrics: |-
+  Main rahuṅ ya na rahuṅ mera islaam rahega
 
   1
-
-  Ma’bud taqabbal minna
-
+  Ae fauj-e-ashqiyaa mera islaam rahega
+  Quraan rahega mera paighaam rahega
+  Jab zohr tak Husain bahattar ko ro chuke
+  Akbar ko ro chuke Ali Asghar ko ro chuke
+  Ek dopahar mein baawafa lashkar ko ro chuke
+  Phir fauj-e-bad nasab se mukhaatib hue imaam
 
   2
-
-  Mera islam rahega Mera pegham rahega
-
+  Farmaate the Husain main beqasoor huṅ
+  Roshan hai tum pe chashma-e-payambar ka nur huṅ
+  Faaqoṅ se main nidhaal huṅ zakhmoṅ se chur huṅ
+  Zakhmoṅ pe zakhm pyaas ki shiddat mein khaauṅ ga
+  Lekin main naana jaan se waada nibhaauṅ ga
 
   3
-
-  1. Ay foje ashqiya mera islam rahega
-
-  Quran rahega mera peghaam rahega
-
+  Darya ko tum ne chhin liya main ne kuchh kaha
+  Paani dikha dikha ke piya main ne kuchh kaha
+  Daagh-e-Akbar-e-jawaaṅ ka diya main ne kuchh kaha
+  Haq par huṅ mere haq mein sinaaṅ bol rahi hai
+  Sun lo woh azaaṅ meri zabaaṅ bol rahi hai
 
   4
-
-  2. Jab zohr tak hussain bahattar ko rochuke
-
-  Akbar ko rochuke Ali Asghar ko rochuke
-
-  Ik dopahar mein bawafa lashkar ko rochuke
-
-  Phir foje bad nasab se mukhatib huwe imam
-
-  Hujjat tamam karta hun sunlo mera payaam
-
+  Maqsad hai laa ilaaha ki baqaa aur kuchh nahiṅ
+  Waada ho zer-e-tegh wafa aur kuchh nahiṅ
+  Is ke siwa laboṅ pe dua aur kuchh nahiṅ
+  Raazi ho mujh se mera khuda chaahta huṅ main
+  Main huṅ Husain sab ka bhala chaahta huṅ main
 
   5
-
-  3. Farmaate the Hussain ke mein be qasoor hun
-
-  Roshan he tumpe chashme payambar ka noor hun
-
-  Faqon se mein nidhal hun zakhmon se chhur hun
-
-  Zakhmon pe zakhm pyaas ki shiddat mein khawunga
-
-  Lekin mein nana jaan se wada nibhaunga
-
+  Maqsad nahiṅ hai jang hamaara khuda gawaah
+  Khat bhej ke hai tum ne bulaaya khuda gawaah
+  Bejurm tum ne mujh ko sataaya khuda gawaah
+  Khanjar tale buland main takbir karuṅ ga
+  Apne lahu se khaak pe tahrir karuṅ ga
 
   6
-
-  4. Darya ko tum ne chheen liya maine kuchh kaha
-
-  Pani dikha dikha ke piiya meine kuchh kaha
-
-  Daagh akbare jawaan ka diya meine kuchh kaha
-
-  Haq par hun mere haq mein sina bolrahi he
-
-  Sun lo who azan meri zubaan bol rahi he
-
+  Main aur karuṅ Yazid ki baiat nahiṅ nahiṅ
+  Badluṅ ajal ke dar se shariat nahiṅ nahiṅ
+  Jine ke badle chhoruṅ shahaadat nahiṅ nahiṅ
+  Tum kaun ho naqaab rukhoṅ se hataauṅ ga
+  Main kaun huṅ ye nok-e-sinaaṅ pe bataauṅ ga
 
   7
-
-  5. Maqsad he lailah ki baqa aur kuchh nahin
-
-  Wada ho zere tegh wafa aur kuchh nahin
-
-  Iske siwa labon pe dua aur kuchh nahin
-
-  Razi ho mujhse mera khuda chahta hun mein
-
-  Mein hun hussain sab ka bhala chahta hun mein
-
+  Aa kar dar-e-khiyaam pe Zainab ko di sada
+  Aa ae meri gharib bahan aa qarib aa
+  Le aakhri salaam Husain-e-gharib ka
+  Maqsad hai mera kya ye sabaq tujh ko yaad hai
+  Meri sharik-e-kaar mujhe etimaad hai
 
   8
-
-  6. Maqsad nahin he jang hamara khuda gawah
-
-  Khat bhejke he tumne bulaya khuda gawah
-
-  Bejurm tumne mujhko sataya khuda gawah
-
-  Khanjar tale baland mein takbir karunga
-
-  Apne lahu se khak pe tehreer karunga
-
+  Zainab tarap ke boli ke bhaiya samajh gai
+  Bhaiya tere ishaare ko bahna samajh gai
+  Main kya teri gharib Sakina samajh gai
+  Khutboṅ se main hilaauṅ gi qasr-e-Yazid ko
+  Marne na duṅ gi ab main kisi bhi shahid ko
 
   9
-
-  7. Mein aur karun yazeed ki bayat nahin nahin
-
-  Badlun ajal ke dar se shariyat nahin nahin
-
-  Jeene ke badle chorun shahadat nahin nahin
-
-  Tum kon ho naqaab rukhon se hataounga
-
-  Mein kon hun ye noke sina par bataaounga
-
+  Hal min naasirin yansurunaa
+  Utha woh baar-e-zulm karakti haiṅ bijliyaaṅ
+  Ziṅ se gire Husain uthi surkh aandhiyaaṅ
+  Naagahaaṅ sar-e-Husain ka aaya sar-e-sinaaṅ
+  Quraaṅ suna ke Sayyad-e-mazlum ne kaha
+  Lo naana jaan waada wafa main ne kar diya
 
   10
-
-  8. Aakar dare khayam pe Zainab ko di sada
-
-  Aa aey mere ghareeb behen aakhri dua
-
-  Le aakhri salam Hussaine ghareeb ka
-
-  Maqsad he mera ka ye sabaq tujhko yaad he
-
-  Meri shareeke kaar mujhe etemaad he
-
-
-  11
-
-  9. Zainab tarap ke boli ke bhaya samajhgayi
-
-  Bhaiya tere ishaare ko behna samajh gayi
-
-  Mein kya teri ghareeb Sakina samajh gayi
-
-  Khutbon se mein hilaungi qasre yazeed ko
-
-  Marne na dungi ab mein kisi bhi shaheed ko
-
-  Hal min nasirin yansurna
-
-  10.Uthtaa ghobar zulm karakti he bijliyan
-
-  Zeen se gire hussain uthi surkh aandhiyan
-
-  Nagaah sar hussain ka aaya sare sina
-
-  Quran suna ke sayyade mazloom ne kaha
-
-  Lo nanajaan wada wafa meine kardiya
-
-
-  12
-
-  Mabud taqabbal minna
-
-  10.Aey Sarwar o Rehan ye lamha ajeeb he
-
-  Neze pe lab kusha ye Hussaine ghareeb he
-
-  Zainab tumhari shame gharibaan kareeb he
-
-  Sab kuchh tere hawaale he ab tum sambhalna
-
-  Apna khayaal rakhna Sakina ko paalna'
+  Ae Sarwar o Rehan ye lamha ajib hai
+  Neze pe lab kushaa ye Husain-e-gharib hai
+  Zainab tumhaari shaam-e-gharibaaṅ qarib hai
+  Sab kuchh tere hawaale hai ab tum sambhaalna
+  Apna khayaal rakhna Sakina ko paalna
 ---
 
 میں رہوں یا نہ رہوں میرا اسلام رہے گا

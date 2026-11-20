@@ -9,38 +9,38 @@ poet: "Navaid"
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj ke din howa wo noor zahoor jis se Khair-ul-Nisa ki zaat bani
-  Aaj ke din saday-e-kun gonji aaj ke din ye kainat bani
+  Aaj ke din hua wo nur zahur jis se Khair-ul-Nisa ki zaat bani
+  Aaj ke din sada-e-kun gunji aaj ke din ye kaainaat bani
 
   1
-  Aaj paida howay mazahir sab kinz-e-makhfi howa hai zahir sab
-  Aaj tak noor-e-be sift thi jo zaat aaj majmowa-e-sifaat bani
-  Aaj paida howa hai main se tu aaj paida howay ye ha our hoo
-  Gonj utha la ila illa hoo shakal-e-aayat-e-binaat bani
+  Aaj paida hue mazaahir sab kinz-e-makhfi hua hai zaahir sab
+  Aaj tak nur-e-be sifat thi jo zaat aaj majmua-e-sifaat bani
+  Aaj paida hua hai main se tu aaj paida hue ye haa aur hu
+  Gunj utha la ilaaha illa hu shakl-e-aayaat-e-bayyinaat bani
 
   2
-  Aaj ke din bane yeh looh-o-qalam aaj ke din bane ye kursi-o-arsh
-  Aaj wahdat ko mil gayi kasrat ik tajali tajaliyaat bani
-  Aaj takhleeq-e-jibrail hoi aaj takmeel har daleel hoi
-  Aaj ka din bohat mubarak hai aaj ke din rah-e-nijaat bani
+  Aaj ke din bane ye lauh o qalam aaj ke din bane ye kursi o arsh
+  Aaj wahdat ko mil gayi kasrat ik tajalli tajalliyaat bani
+  Aaj takhliq-e-Jibraail hui aaj takmil har dalil hui
+  Aaj ka din bohat mubaarak hai aaj ke din raah-e-najaat bani
 
   3
-  Aaj ke din howa ye Kun fa ya koo aaj ke din bane baron-o-daron
-  Aaj ke din bane wajood-o-adam aaj ye din bana ye raat bani
-  Aaj ke din bane zameen-o-zamaa aaj ke din bane makeen-o-makaan
-  Aaj ke din wajood khalq howa aaj ke din hi ye hayat bani
+  Aaj ke din hua ye kun fa yakun aaj ke din bane barun o darun
+  Aaj ke din bane wujud o adam aaj ye din bana ye raat bani
+  Aaj ke din bane zamin o zamaaṅ aaj ke din bane makin o makaaṅ
+  Aaj ke din wujud khalq hua aaj ke din hi ye hayaat bani
 
   4
-  Aaj paida howay ye behr-o-bar aaj paida howay yeh khushk-o-tar
-  Aaj paida howay ye aab-o-giza aaj ye sorat-e-sabaat bani
-  Aaj paida howay fana-o-baqa aaj paida howay sakoot-o-sada
-  Aaj shakal-e-namood-e-subh-o-masa-e-noor-e-zahir ke sath sath bani
+  Aaj paida hue ye bahr o bar aaj paida hue ye khushk o tar
+  Aaj paida hue ye aab o ghiza aaj ye surat-e-sabaat bani
+  Aaj paida hue fana o baqa aaj paida hue sukut o sada
+  Aaj shakl-e-numud-e-subh o masa-e-nur-e-zaahir ke saath saath bani
 
   5
-  Aaj paida howa ye alam amar aaj paida howa ye alalm rooh
-  Aaj ye wajib-o-wajoob bane aaj ye shakal-e-mumkinaat bani
-  Aaj takhleeq-e-ilm ka din hai aaj takhleeq-e-aqal ka din hai
-  Aaj ke din yehi kahoon ga Navaid aaj ke din Khuda ki baat bani
+  Aaj paida hua ye aalam-e-amr aaj paida hua ye aalam-e-ruh
+  Aaj ye waajib o wujub bane aaj ye shakl-e-mumkinaat bani
+  Aaj takhliq-e-ilm ka din hai aaj takhliq-e-aql ka din hai
+  Aaj ke din yahi kahuṅ ga Navaid aaj ke din Khuda ki baat bani
 ---
 
 آج کے دن ہوا وہ نور ظہور جس سے خیر النساء کی ذات بنی

@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Sarhane dekho Sughra
-  Ka naamawar khara hai
+  Ka naamwar khara hai
   Dekho to gird beta
   Sab ghar ka ghar khara hai
 
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Lab par ye Umm-e-Laila
-  Keh hai Naved naala
+  Ke hai Naved naala
   Tum kya gaye gaya hai
   Ghar se mere ujaala
 ---

@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaj aaya hoon maa le ke lasha e Hasan
-  Teer Zainab ne nikalay our diya main ne kafan
-  Haq hamara hai maa pehlu-e-risalat par
-  Bhai ko kar na saka maa pas nana ke dafan
+  Aaj aaya huṅ maaṅ le ke lasha-e-Hasan
+  Tir Zainab ne nikaale aur diya main ne kafan
+  Haq hamara hai maaṅ pehlu-e-risalat par
+  Bhai ko kar na saka maaṅ paas nana ke dafan
 
   2
-  Pocha Zainab ne hai maa dekhi jab lash-e-Hasan
-  Itnay teeron ke nishaan hain Karbala hai yaan watan
+  Puchha Zainab ne haaye maaṅ dekhi jab lash-e-Hasan
+  Itne tiroṅ ke nishaaṅ haiṅ Karbala hai yaaṅ watan
   Na chalao teer logo main ro ke kehta raha
-  Zakhmi inn teeron se hota hai Muhammad ka badan
+  Zakhmi in tiroṅ se hota hai Muhammad ka badan
 
   3
-  De diya zehar Hasan ko main Karbala ko chala
-  Jaein gi Sham ko behnein pehne hathoon mein rasan
-  Ik taraf aap ka roza ik taraf hai Baqiya
-  Koi tu pochay yeh Najfi kaisay ujra yeh chaman
+  De diya zehr Hasan ko main Karbala ko chala
+  Jaaeṅ gi Sham ko behneṅ pehne haathoṅ mein rasan
+  Ik taraf aap ka roza ik taraf hai Baqi
+  Koi to puchhe ye Najfi kaise ujra ye chaman
 ---
 
 ۱

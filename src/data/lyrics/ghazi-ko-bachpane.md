@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mere beta abbas
-  Madine meiṅ ek raat ummul baneen
+  Mere beta Abbas
+  Madine meiṅ ek raat Ummul Banin
   Bete ko lori suna rahi hai
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane meiṅ maa ye sabakh parhaye
-  Tere baazuoṅ ke hote zainab na gham uthaye
-  Hyder ki zaujiyat meiṅ jis din se hoo mai aayi
-  Unke laboṅ pe maiṅ ne bas ye dua hai paayi
-  Ya rab wo laal de jo zainab ke kaam aaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
-  Maana ke tu banega salaar o mir e lashkar
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ maaṅ ye sabaq parhaaye
+  Tere baazuoṅ ke hote Zainab na gham uthaaye
+  Haidar ke zaujiyat meiṅ jis din se huṅ main aayi
+  Unke laboṅ pe main ne bas ye dua hai paayi
+  Ya rab wo laal de jo Zainab ke kaam aaye
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
+  Maana ke tu banega salaar o mir-e-lashkar
   Lekin Husain ka tu ban kar rahega naukar
-  Itna khayaal rakhna sar maa ka jhuk na jaaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
+  Itna khayaal rakhna sar maaṅ ka jhuk na jaaye
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
   Aaqa Husain ko tum bhai kabhi na kehna
   Jab tak hai saans baaqi ban kar ghulam rehna
-  Meri dua hai tumko saqqayyi raas aaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
-  Mai hoo kaniz-e-zehra fizza se phir bhi kam hoo
-  Ye soch soch kar mai bas mubtila e gham hoo
-  Tere sabab se beta zahra na ruth jaaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
-  Ye ghar hai sayyeda ka is ghar ki shaan parda
+  Meri dua hai tum ko saqqaai raas aaye
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
+  Main huṅ kaniz-e-Zehra Fizza se phir bhi kam huṅ
+  Ye soch soch kar main bas mubtala-e-gham huṅ
+  Tere sabab se beta Zahra na ruth jaaye
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
+  Ye ghar hai Sayyeda ka is ghar ki shaan parda
   Is ghar ki betiyoṅ ko suraj na dekh paaya
   Shahzadiyoṅ ke sar tak teri nazar na jaaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
-  Ab karbala ka manzar raavi ne yuṅ likha hai
-  Abbas fauje sheh ka salaar ban gaya hai
-  Kis ki majaal hai jo sheh se nazar milaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
+  Ab Karbala ka manzar raavi ne yuṅ likha hai
+  Abbas fauj-e-sheh ka salaar ban gaya hai
+  Kis ki majaal hai jo sheh se nazar milaaye
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
   Ashur ko hai tuti pyasoṅ pe kya qayamat
   Larne ke mil na paayi jarraar ko ijazat
-  Abbas jaa rahe hai mashk o alam uthaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
-  Ghazi ke raaste par nazreiṅ hai bibiyoṅ ki
-  Aur hai dua musalsal zainab ke ye laboṅ ki
+  Abbas jaa rahe hain mashk o alam uthaaye
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
+  Ghazi ke raaste par nazreṅ hain bibiyoṅ ki
+  Aur hai dua musalsal Zainab ke ye laboṅ ki
   Meri rida ka zaamin ae kaash laut aaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
-  Rehaan azmi jab bedast ho ke ghazi
-  Maqtal meiṅ gir gaya tha reti pe karbala ki
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
+  Rehaan Azmi jab be dast ho ke ghazi
+  Maqtal meiṅ gir gaya tha reti par Karbala ki
   Maadar ki wo nasihat ghazi ko yaad aaye
-  Abbas abbas abbas abbas
-  Ghazi ko bachpane mein...
+  Abbas Abbas Abbas Abbas
+  Ghazi ko bachpane meiṅ...
 ---
 
 ۱

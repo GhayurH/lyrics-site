@@ -1,6 +1,6 @@
 ---
 title: "عباس نہیں کوئی ہمارا سید علی نقوی"
-alternateTitle: "Abbas Nahe Koi Humara Syed Ali Naqvi"
+alternateTitle: "Abbas Nahiṅ Koi Hamaara Syed Ali Naqvi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas nahe koi humara Syed Ali Naqvi
-  Darya pe nahi jao khudara Abbas nahi koi hamara
-  Ab kaun humein de ga sahara Abbas nahi koi hamara
-  Hum dekh ke jeetay hain tera chehra baradar
+  Abbas nahiṅ koi hamaara Syed Ali Naqvi
+  Darya pe nahiṅ jaao khudaara, Abbas nahiṅ koi hamaara
+  Ab kaun hameṅ de ga sahaara, Abbas nahiṅ koi hamaara
+  Hum dekh ke jite haiṅ tera chehra baraadar
 
   2
-  Mar jaon ga pardais mein main tum se bichar kar
-  Dhondon ga kahan chehra tumhara Abbas nahi koi hamara
-  Mushkil hai tere baad meri beti ka jeena
-  Ammo hain kahan jab bhi yeh pochay gi Sakina
+  Mar jaauṅ ga pardes mein main tum se bichhar kar
+  Dhunduṅ ga kahaaṅ chehra tumhaara, Abbas nahiṅ koi hamaara
+  Mushkil hai tere baad meri beti ka jina
+  Ammu haiṅ kahaaṅ, jab bhi yeh puchhe gi Sakina
 
   3
-  Kya ossko bataon ga khudara Abbas nahi koi hamara
-  Gar kat gaye Abbas tere hath wahan par
-  Phir kaun bachaye ga meri behno ki chadar
-  Jeetay jee issi baat ne mara Abbas nahi koi hamara
+  Kya us ko bataauṅ ga khudaara, Abbas nahiṅ koi hamaara
+  Gar kat gaye Abbas tere haath wahaaṅ par
+  Phir kaun bachaaye ga meri behnoṅ ki chaadar
+  Jite ji isi baat ne maara, Abbas nahiṅ koi hamaara
 
   4
-  Hum kaisay utha paein gay bhai tere gham ko
-  Maqtal mein chaley jao gay jab chor ke hum ko
-  Khaimon mein na aao gay dobarah Abbas nahi koi hamara
-  Marey ga koi gurz koi teer jabeen par
+  Hum kaise uthaa paaeṅ ge bhaai tere gham ko
+  Maqtal mein chale jaao ge jab chhor ke hum ko
+  Khaimoṅ mein na aao ge dobaara, Abbas nahiṅ koi hamaara
+  Maare ga koi gurz koi tir jabiṅ par
 
   5
-  Gir jao gay tum chehray ke bal zeen se zameen par
-  Beh jaye ga khoon nehar pe sara Abbas nahi koi hamara
-  Ruk jao tum Abbas meri maa ki dua ho
-  Dharas ho meri sani-e-Zahra ki rida ho
+  Gir jaao ge tum chehre ke bal zin se zamiṅ par
+  Beh jaaye ga khun nehar pe saara, Abbas nahiṅ koi hamaara
+  Ruk jaao tum Abbas meri maaṅ ki dua ho
+  Dhaaras ho meri saani-e-Zahra ki rida ho
 
   6
-  Tu hai meri aankhon ka sitara Abbas nahi koi hamara
-  Zeeshan-o- Ali kaisa tha rukhsat ka woh manzar
-  Abbas chaley khaimon se jab mashk utha kar
-  Bas kehta raha Zahra ka pyara Abbas nahi koi hamara
+  Tu hai meri aankhoṅ ka sitaara, Abbas nahiṅ koi hamaara
+  Zishaan o Ali kaisa tha rukhsat ka woh manzar
+  Abbas chale khaimoṅ se jab mashk uthaa kar
+  Bas kehta raha Zahra ka pyaara, Abbas nahiṅ koi hamaara
 ---
 
 ۱

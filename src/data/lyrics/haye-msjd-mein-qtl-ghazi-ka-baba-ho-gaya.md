@@ -8,54 +8,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haey masjid may qatal Ghazi ka baba ho gaya
+  Haye masjid mein qatl Ghazi ka baba ho gaya
+  Fatima ki betiyoṅ pe, zulm kaisa ho gaya
 
   1
-  Fatima ki betiyon pay,  zulm kaisa ho gaya
+  Josh mein aakar farishtoṅ se laga kehne Khuda
+  Sar khula hai Fatima ka ro rahe haiṅ Mustafa
+  Hashr se pehle ye kaisa, hashr barpa ho gaya
 
   2
-  1) Josh main aakar farishto say laga kehnay khuda
-  Saar khula hai Fatima ka ro rahay hai Mustafa
-  Hashar say pehlay yeh kaisa,  hashar barpa ho gaya
+  Aa gaiṅ pardes mein saadaat pe barbaadiyaaṅ
+  Lut gai haiṅ Kufa mein konain ki shahzaadiyaaṅ
+  Kat gaye sajde mein Haider, din zinda ho gaya
 
   3
-  2) Aagayee pardes main saadaat pay barbaadiyaan
-  Lut gayee hai koofa main konain ki shahzaadiyaan
-  Kat gayey sajday main Haider,  deen zinda ho gaya
+  Dekh kar baba ko zakhmi ro rahi haiṅ betiyaaṅ
+  Arsh pe saare farishte le rahe haiṅ siskiyaaṅ
+  Aasmaaṅ hilne laga, nabiyoṅ pe sakta ho gaya
 
   4
-  3) Dekh kar baba ko zakhmi ro rahee hain baytiyaan
-  Arsh pay saaray faarishtay lay rahay hain siskiyaan
-  Aasmaan hilnay laga,  nabiyon pay sakta ho gaya
+  Haiṅ abhi Shabbir o Shabbar aur tera Abbas hai
+  Ghar hai tere baba ka, kab Shaam ka bazaar hai
+  Saani-e-Zehra tumhaara, sar kiuṅ uryaaṅ ho gaya
 
   5
-  4) Hai abhee Shabbir o Shabbar aur alambardaar hai
-  Ghar hai teray baba ka, kab Shaam ka bazaar hai
-  Saniyey Zehra tumhaara,  sir kiun uryan ho gaya
+  Rakh liya jholi mein sar hai aapka Shabbir ne
+  Dekh kar baba ko zakhmi ye kaha dilgir ne
+  Haye Kufe mein ye manzar, Karbala ka ho gaya
 
   6
-  5) Rakh lia jhooli main sir aapka Shabbir nay
-  Dekh kar baba ko zakhmi yeh kaha dilgeer nay
-  Haey koofa main yeh manzar,  Karbala ka ho gaya
+  Har taraf mahshar bapa hai ro rahe haiṅ Zulfiqar
+  Lag gai Haider ko zarbat al-amaaṅ ki thi pukaar
+  Waqt hai sehri ka lekin kiuṅ andhera ho gaya
+
   7
-  Har Taraf Mehshar Bapa Hai Ro Rahe Hain Zulfiqar
-  Lag Gayi Haider Ko Zarbat Al-Amaan Ki Thi Pukar
-  Waqt Hai Sehri Ka Lekin Kiun Andhera Ho Gaya
+  Khuld se aayi thi us dam ye farishtoṅ ki sada
+  Sar khula hai Fatima ka ro rahe haiṅ anbiya
+  Hashr se pehle ye kaisa hashr barpa ho gaya
 
   8
-  Khuld Se Aayi Thi Us Dam Ye Farishton Ki Sada
-  Sar Khula Hai Fatima Ka Ro Rahe Hain Anbiya
-  Hashr Se Pehle Ye Kaisa Hashr Barpa Ho Gaya
+  Mutmain tha din-e-Muhammad jab jahaaṅ se chal diye
+  Baad-e-Ahmad ke sahaara din ka Haider bane
+  Aaj Haider chal base haiṅ din tanha ho gaya
 
   9
-  Mutmain Tha Deen-e-Muhammad Jab Jahan Se Chal Diye
-  Baad-e-Ahmad Ke Sahara Deen Ka Haider Bane
-  Aaj Haider Chal Base Hain Deen Tanha Ho Gaya
-
-  10
-  Nasir-e-Deen-e-Nabi Sajde Mein Zakhmi Kab Hua
-  Shah Ne Pani Ka Pyala Apne Qatil Ko Diya
-  Ibn-e-Muljim Se Kaha Tha Kaam Tera Ho Gaya
+  Naasir-e-din-e-Nabi sajde mein zakhmi kab hua
+  Shaah ne paani ka pyaala apne qaatil ko diya
+  Ibn-e-Muljim se kaha tha kaam tera ho gaya
 ---
 
 ہاے مسجد میں قتل غازیؑ کا بابا ہو گیا

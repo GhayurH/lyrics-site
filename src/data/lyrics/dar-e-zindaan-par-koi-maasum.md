@@ -9,90 +9,54 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Dar-e-Zindaan Par Koi Maasum"
-romanLyrics: 'Dar e Zindan Pe Koi Masooma Mir Hasan Mir.
-
-  Dar-e-Zindaan Par Koi Masooma Parha Karti Hai Yeh Ro Kar Noha.
-
-  Baba, Baba, Baba, Baba.
-
-  Bohat Dar Mujh Ko Yahan Lagta Hai Bohat Tanha Hoon Chaley Aao Na.
-
+romanLyrics: |-
+  Dar-e-zindaaṅ par koi maasum
 
   1
-
-  Khud Aa Ke Dekh Lo Baba Meri Halat.
-
-  Nahi Pehchan Pao Gay Meri Sorat.
-
-  Sahey Bachpan Mein Musayab Itnay.
-
-  Zaeefa Dikhne Lagi Yeh Dukhiya.
-
+  Parha karti hai yeh ro kar noha
+  Baba baba baba baba
+  Bohat dar mujh ko yahaaṅ lagta hai
+  Bohat tanha huṅ chale aao na
 
   2
-
-  Bara Dushwar Hai Iss Qaid Mein Jeena.
-
-  Bohat Yaad Aa Raha Hai Aap Ka Seena.
-
-  Gaye Ho Jab Se Nahi Soyi Main.
-
-  Sakoon Se Ab Tak Kabhi Ik Lamha.
-
+  Khud aa ke dekh lo meri haalat
+  Nahiṅ pehchaan paao ge meri surat
+  Sahe bachpan mein masaaib itne
+  Zaif dikhne lagi yeh dukhiya
 
   3
-
-  Mujhe Phir Qabar Mein Lagne Laga Hai Dar.
-
-  Nikala Tha Jinhoon Ne Lasha-e-Asghar.
-
-  Woh Zalim Phir Se Palat Aaye Hain.
-
-  Phophi Our Main Hoon Yahan Phir Tanha.
-
+  Bare dushwaar hai is qaid mein jina
+  Bohat yaad aa raha hai aap ka sina
+  Gaye ho jab se nahiṅ soyi main
+  Sukuṅ se ab tak kabhi ek lamha
 
   4
-
-  Main Royon Le Ke Kab Tak Siskiyaan Baba.
-
-  Bohat Dukhti Hain Meri Pasliyaan Baba.
-
-  Sakina Iss Dam Hai Kis Halat Mein.
-
-  Faqat Samjhein Gi Yeh Dadi Zahra.
-
+  Mujhe phir qabr mein lagne laga hai dar
+  Nikaala tha jinhoṅ laasha-e-Asghar
+  Woh zaalim phir se palat aaye hai
+  Phuphi aur main huṅ yahaaṅ phir tanha
+  Main royoṅ le ke kab tak siskiyaaṅ Baba
+  Bohat dukhti hai meri pasliyaaṅ Baba
+  Sakina is dam hai kis haalat mein
+  Faqat samjheṅ gi yeh daadi Zahra
 
   5
-
-  Nazar aata nahi aankhon ko malti hoo
-
-  Sahara leke deewaron ka chalti hoo
-
-  Pakad kar zulfein mujhe zaalim ne
-
-  Na jaane kaisa tamacha maara
-
+  Nazar aata nahiṅ aankhoṅ ko malti huṅ
+  Sahaara le ke divaaroṅ ka chalti huṅ
+  Pakar kar zulfeṅ mujhe zaalim ne
+  Na jaane kaisa tamaancha maara
 
   6
-
-  Lagay Hain Zakhm Jitnay Sab Dikhaon Gi.
-
-  Jab Aao Gay Tu Main Sab Kuch Bataon Gi.
-
-  Bohat Mara Hai Bohat Tarpaya.
-
-  Mujhe Logon Ne Samajh Kar Tanha.
-
+  Lage haiṅ zakhm jitne sab dikhaauṅ gi
+  Jab aao ge to main sab kuch bataauṅ gi
+  Bohat maara hai bohat tarpaaya
+  Mujhe logoṅ ne samajh kar tanha
 
   7
-
-  Nadeem Oss Waqt Khud Zindan Rota Tha.
-
-  Sakina Jis Ghari Parhti Thi Yeh Noha.
-
-  Mujhe Lagta Hai Keh Ab Ghut Ghut Kar.
-
-  Nikal Jaye Ga Yahin Dam Mera.'
+  Nadeem us waqt khud zindaaṅ rota tha
+  Sakina jis ghari parhti thi yeh noha
+  Mujhe lagta hai ke ab ghut ghut kar
+  Nikal jaaye ga yahi dam mera
 ---
 
 در زنداں پر کوئی معصوم

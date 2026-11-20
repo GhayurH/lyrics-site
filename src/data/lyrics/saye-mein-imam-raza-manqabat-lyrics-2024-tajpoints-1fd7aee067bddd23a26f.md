@@ -1,36 +1,59 @@
 ---
-title: "Saye Mein Imam Raza Manqabat Lyrics 2024"
+title: "سائے میں امام رضا"
+alternateTitle: "Saye Mein Imam Raza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qalam uthaya hai main ne sana ke saye mein
+  Milein gay lafz bhi mujh ko atta ke saye mein
+  Qalam pe aya-e-Tatheer kar ke dam main ne
+  Likhi Raza ki sana Innama ke saye mein
+  Jo chahtey ho keh mushkil na rah mein aaye
+  Safar kiya karo Maula Raza ke saye mein
+  Mareez paye ga foran shifa yaqeen karo
+  Jo aa ke baithay ga sehan-e-shifa ke saye mein
+  Woh kaisay samjhay ga Maula Raza ke rutbay ko
+  Guzari umar ho jis ne khata ke saye mein
+  Dar-e-Raza ka hoon mangta nahi hai fikar mujhe
+  Hai milta rizq bhi baab-e-sakha ke saye mein
+  Pali Hussain ke saye mein jis tarha Zainab
+  Pali hai Masooma waisay Raza ke saye mein
+  Muhammad-o-Ali-o-Fatima Hussain-o-Hasan
+  Hain inn ke sath Raza bhi Kisa ke saye mein
+  Janab-e-Ghazi ke parcham ko chom kar main ne
+  Likha Raza ka qaseeda wafa ke saye mein
+  Bulaein gay mujhe Debal ki tarha ab Maula
+  Sana karon ga main ja kar Raza ke saye mein
+  Bola lo Sindh se ab Mohtasham ko Mashhad mein
+  Rahe woh aap ke lutf-o-atta ke saye mein
 ---
 
-1
-Saye Mein Imam Raza Manqabat 2024
-Qalam Uthaya Hai Main Ne Sana Ke Saye Mein.
-Milein Gay Lafz Bhi Mujh Ko Atta Ke Saye Mein.
-Qalam Pe Aya-e-Tatheer Kar Ke Dam Main Ne.
-Likhi Raza Ki Sana Innama Ke Saye Mein.
-Jo Chahtey Ho Keh Mushkil Na Rah Mein Aaye.
-Safar Kiya Karo Maula Raza Ke Saye Mein.
-Mareez Paye Ga Foran Shifa Yaqeen Karo.
-Jo Aa Ke Baithay Ga Sehan-e-Shifa Ke Saye Mein.
-Woh Kaisay Samjhay Ga Maula Raza Ke Rutbay Ko.
-Guzari Umar Ho Jis Ne Khata Ke Saye Mein.
-Dar-e-Raza Ka Hoon Mangta Nahi Hai Fikar Mujhe.
-Hai Milta Rizq Bhi Baab-e-Sakha Ke Saye Mein.
-Pali Hussain Ke Saye Mein Jis Tarha Zainab.
-Pali Hai Masooma Waisay Raza Ke Saye Mein.
-Muhammad-o-Ali-o-Fatima Hussain-o-Hasan.
-Hain Inn Ke Sath Raza Bhi Kisa Ke Saye Mein.
-Janab-e-Ghazi Ke Parcham Ko Chom Kar Main Ne.
-Likha Raza Ka Qaseeda Wafa Ke Saye Mein.
-Bulaein Gay Mujhe Debal Ki Tarha Ab Maula.
-Sana Karon Ga Main Ja Kar Raza Ke Saye Mein.
-Bola Lo Sindh Se Ab Mohtasham Ko Mashhad Mein.
-Rahe Woh Aap Ke Lutf-o-Atta Ke Saye Mein.
+۱
+قلم اٹھایا ہے میں نے ثنا کے سائے میں
+ملیں گے لفظ بھی مجھ کو عطا کے سائے میں
+قلم پہ آیۂ تطہیر کر کے دم میں نے
+لکھی رضا کی ثنا اِنَّما کے سائے میں
+جو چاہتے ہو کہ مشکل نہ راہ میں آئے
+سفر کیا کرو مولا رضا کے سائے میں
+مریض پائے گا فوراً شفا یقین کرو
+جو آ کے بیٹھے گا صحنِ شفا کے سائے میں
+وہ کیسے سمجھے گا مولا رضا کے رتبے کو
+گزاری عمر ہو جس نے خطا کے سائے میں
+درِ رضا کا ہوں منگتا نہیں ہے فکر مجھے
+ہے ملتا رزق بھی بابِ سخا کے سائے میں
+پالی حسین کے سائے میں جس طرح زینب
+پالی ہے معصومہ ویسے رضا کے سائے میں
+محمد و علی و فاطمہ حسین و حسن
+ہیں ان کے ساتھ رضا بھی کسا کے سائے میں
+جنابِ غازی کے پرچم کو چوم کر میں نے
+لکھا رضا کا قصیدہ وفا کے سائے میں
+بلائیں گے مجھے دیبل کی طرح اب مولا
+ثنا کروں گا میں جا کر رضا کے سائے میں
+بلا لو سندھ سے اب محتشم کو مشہد میں
+رہے وہ آپ کے لطف و عطا کے سائے میں

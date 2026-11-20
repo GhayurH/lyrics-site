@@ -12,20 +12,20 @@ aliases: []
 published: true
 reciter: "Nasir Zaidi"
 romanLyrics: |-
-  Abul Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Maah-e-Haashmi nasab Amir-e-Dilaawaram
+  Abul Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 
   1
-  Tu shahenshah-e-wafadari hai
+  Tu shahenshaah-e-wafaadaari hai
   Tera gham misl-e-hawa jaari hai
   Tere parcham ki chamak kya kehna
-  Ta qayamat ye alamdari hai
+  Taa qayaamat ye alamdaari hai
 
   2
-  Bakhuda chashm-e-Karbala tum ho
+  Baakhuda chashm-e-Karbala tum ho
   Hum faqiroṅ ka aasra tum ho
-  Aap ki zaat hai shaur-e-falak
-  Bazu-e-Ibn-e-Fatima tum ho
+  Aap ki zaat hai shu'ur-e-falak
+  Baazu-e-Ibn-e-Fatima tum ho
 
   3
   Rukh-e-purnur surat-e-gul hai
@@ -34,28 +34,28 @@ romanLyrics: |-
   Teri jurrat ka chaar su ghul hai
 
   4
-  Tum sada-e-dili ki sunte ho
-  Yuṅ bhi hajat-rawai karte ho
-  Dastgiri baghair bazu bhi
+  Tum sadaa-e-dili ki sunte ho
+  Yuṅ bhi haajat rawaai karte ho
+  Dastgiri baghair baazu bhi
   Chaudah sadiyoṅ se karte rehte ho
 
   5
-  Ae Ghulam-e-Husain Ibn-e-Ali
-  Barsar-e-Alqama bhi tashnalabi
+  Ae ghulaam-e-Husain Ibn-e-Ali
+  Bar sar-e-Alqama bhi tashna labi
   Tere hi khun se tar tha tera alam
-  Pyas jiti hai Alqama haari
+  Pyaas jiti hai Alqama haari
 
   6
   Bain karti hai ek masuma
   Wo Sakina gala bandha jis ka
   Aaj bhi tere intezar meiṅ hai
-  Aaj bhi zindaṅ se aa rahi hai sada
+  Aaj bhi zindaaṅ se aa rahi hai sadaa
 
   7
   Tir ik aankh meiṅ tha ik meiṅ lahu
   Jab kiya hai pae-namaz wuzu
   Qalb-e-Zainab lahu ugalne laga
-  Aai pani meiṅ jab teri khushbu
+  Aai paani meiṅ jab teri khushbu
 
   8
   Sar barehna thi jis ghari Zainab
@@ -64,14 +64,14 @@ romanLyrics: |-
   Khaak pe ro ke gir pari Zainab
 
   9
-  Tere lashe pe jab gaye Shabbir
+  Tere laashe pe jab gaye Shabbir
   Dekha paiwast aankh meiṅ hai tir
   Shiddat-e-gham se jhuk gayi thi kamar
-  Khuṅ meiṅ ghaltaṅ thi baap ki tasvir
+  Khuṅ meiṅ ghaltaaṅ thi baap ki tasvir
 
   10
   Zindagi bhar hameṅ kaha Aaqa
-  Bole Ghazi se Shah-e-Karbobala
+  Bole Ghazi se Shaah-e-Karb o Bala
   Mere Nasir meri Rehaan dili
   Bhai keh do ho hameṅ pae Zehra
 ---

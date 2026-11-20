@@ -1,40 +1,70 @@
 ---
-title: "Dama Dam Mast Qalandar"
+title: "دما دم مست قلندر"
+alternateTitle: "Dama Dam Mast Qalandar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Pila saqi pila jam-e-Qalandar
+  Piein gaye le ke naam-e-Qalandar
+  Suna hai hum ne waliyon se suna hai
+  Keh yeh Shahbaz dast-e-auliya hai
+  Keh iss ka shajrah bhi Haq se mila hai
+  Imam-e-Sadiq ke yeh silsila hai
+  Siyadat tu hai ahram-e-Qalandar
+  Qalandar our qutab yeh hain jo sare
+  Hain darya-e-taswuf ke sitare
+  Inhein mushkil mein jo jo bhi pukare
+  Ali ke sadqay mein dein gaye sahare
+  Hai Ahl-e-Bait pegham-e-Qalandar
+  Kabhi Shabir-o-Abid ko pukara
+  Baha ke ashk hasti ko guzara
+  Kiya dhamal mein Haq ka nazara
+  Ali dam dam Ali dam ka nara
+  Yehi tha dein-o-Islam-e-Qalandar
+  Jahan par bhi hain matamdar-e-Sarwar
+  Jo matam karte hain Sehwan mein ja kar
+  Unhein milta hai jab izn-e-Qalandar
+  Lagate hain wahan zanjeer ro kar
+  Yeh unn sab par hai ilham-e-Qalandar
+  Qalandar Lal par har shair mera
+  Yeh aik Syed ko hai Syed ka tohfa
+  Aye Majid yeh kalam-e-Haq hai sara
+  Wajhi iss nazm ko karta hai hadiya
+  Mile ga aaj inam-e-Qalandar
 ---
 
-1
-Pila Saqi Pila Jam-e-Qalandar.
-Piein Gaye Le Ke Naam-e-Qalandar.
-Suna Hai Hum Ne Waliyon Se SunaHai.
-Keh Yeh Shahbaz Dast-e-Auliya Hai.
-Keh Iss Ka Shajrah Bhi Haq Se Mila Hai.
-Imam-e-Sadiq Ke Yeh Silsila Hai.
-Siyadat Tu Hai Ahram-e-Qalandar.
-Qalandar Our Qutab Yeh Hain Jo Sare.
-Hain Darya-e-Taswuf Ke Sitare.
-Inhein Mushkil Mein Jo Jo Bhi Pukare.
-Ali Ke Sadqay Mein Dein Gaye Sahare.
-Hai Ahl-e-Bait Pegham-e-Qalandar.
-Kabhi Shabir-o-Abid Ko Pukara.
-Baha Ke Ashk Hasti Ko Guzara.
-Kiya Dhamal Mein Haq Ka Nazara.
-Ali Dam Dam Ali Dam Ka Nara.
-Yehi Tha Dein-o-Islam-e-Qalandar.
-Jahan Par Bhi Hain Matamdar-e-Sarwar.
-Jo Matam Karte Hain Sehwan Mein Ja Kar.
-Unhein Milta Hai Jab Izn-e-Qalandar.
-Lagate Hain Wahan Zanjeer Ro Kar.
-Yeh Unn Sab Par Hai Ilham-e-Qalandar.
-Qalandar Lal Par Har Shair Mera.
-Yeh Aik Syed Ko Hai Syed Ka Tohfa.
-Aye Majid Yeh Kalam-e-Haq Hai Sara.
- Wajhi Iss Nazm Ko Karta Hai Hadiya.
-Mile Ga Aaj Inam-e-Qalandar.
+۱
+پلا ساقی پلا جامِ قلندر
+پئیں گے لے کے نامِ قلندر
+سنا ہے ہم نے ولیوں سے سنا ہے
+کہ یہ شہباز دستِ اولیا ہے
+کہ اس کا شجرہ بھی حق سے ملا ہے
+امامِ صادق کے یہ سلسلہ ہے
+سیادت تو ہے احرامِ قلندر
+قلندر اور قطب یہ ہیں جو سارے
+ہیں دریائے تصوف کے ستارے
+انہیں مشکل میں جو جو بھی پکارے
+علی کے صدقے میں دیں گے سہارے
+ہے اہلِ بیت پیغامِ قلندر
+کبھی شبیر و عابد کو پکارا
+بہا کے اشک ہستی کو گزارا
+کیا دھمال میں حق کا نظارہ
+علی دم دم علی دم کا نعرہ
+یہی تھا دین و اسلامِ قلندر
+جہاں پر بھی ہیں ماتم دارِ سرور
+جو ماتم کرتے ہیں سیہون میں جا کر
+انہیں ملتا ہے جب اذنِ قلندر
+لگاتے ہیں وہاں زنجیر رو کر
+یہ ان سب پر ہے الہامِ قلندر
+قلندر لال پر ہر شعر میرا
+یہ ایک سید کو ہے سید کا تحفہ
+اے ماجد یہ کلامِ حق ہے سارا
+وجہی اس نظم کو کرتا ہے ہدیہ
+ملے گا آج انعامِ قلندر

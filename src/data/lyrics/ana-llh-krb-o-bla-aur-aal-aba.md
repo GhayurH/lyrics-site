@@ -8,98 +8,58 @@ poet: "Mohsin"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Inna lilaah
-
+romanLyrics: |-
+  Inna lillaah inna lillaah
+  Karb o bala aur aal-e-aba
+  Inna lillaah inna lillaah
 
   1
-
-  1) Karbobala aur aale aba
-
-  Charon taraf hay fauje jafa
-
-  Darya pa bhi hay pehra laga
-
-  Pyasay hay atfale shaah
-
-  Qalbe fitrat de ye sada
-
+  Chaaroṅ taraf hai fauj-e-jafa
+  Darya pe bhi hai pehra laga
+  Pyaase haiṅ atfaal-e-shaah
+  Qalb-e-fitrat de ye sada
 
   2
-
-  2) Wo garmi wo pyase bache
-
-  Bali Sakina kehti thi sab se
-
-  Ammu gaye hain nehr pay mere
-
-  Maango dua pani aajaye
-
+  Wo garmi wo pyaase bachche
+  Baali Sakina kehti thiṅ sab se
+  Ammu gaye haiṅ nehr pe mere
+  Maango dua paani aa jaaye
   Lekin aisa ho na saka
 
-
   3
-
-  3) Khaali alam jab khaime may aaya
-
+  Khaali alam jab khaime mein aaya
   Boli Sakina kahiye baba
-
-  Reh gaye ammu kya labe darya
-
-  Sarne hurahe shaahe wala
-
-  Keh na sake kuch iske siwa
-
+  Reh gaye Ammu kya lab-e-darya
+  Sarne hurahe shaah-e-waala
+  Keh na sake kuch is ke siwa
 
   4
-
-  4) Sunke kalaame Sarware deen
-
-  Saaniye Zehra kehti thi
-
-  Haaye mera Abbas nahi
-
-  Hogaya mujko iska yaqeen
-
-  Jaayegi mere sar se rida
-
+  Sun ke kalaam-e-Sarwar-e-diṅ
+  Saani-e-Zehra kehti thiṅ
+  Haaye mera Abbas nahiṅ
+  Ho gaya mujh ko is ka yaqeen
+  Jaaye gi mere sar se rida
 
   5
-
-  5) Ran ko chalay jab khaime se Akbar
-
-  Zainab aayin khaime ke dar par
-
-  Umme Laila kehti thi ro kar
-
-  Maa se to milne aaoge dilbar
-
+  Ran ko chale jab khaime se Akbar
+  Zainab aayi khaime ke dar par
+  Umm-e-Laila kehti thi ro kar
+  Maaṅ se to milne aaoge dilbar
   Sar ko jhuka kar Sheh ne kaha
 
-
   6
-
-  6) Zere aba ek maahe munawar
-
-  Maidan may laaye hain Sarwar
-
-  Pani maanga ro diya lashkar
-
-  Dast e Sheh par hans parray Asghar
-
-  Gardan may jab teer laga
-
+  Zer-e-aba ek maah-e-munawwar
+  Maidan mein laaye haiṅ Sarwar
+  Paani maanga ro diya lashkar
+  Hanste Sheh par hans pare Asghar
+  Gardan mein jab teer laga
 
   7
-
-  7) Mohsin may ye sochta hoon
-
-  Pursa bano ko kaise doon
-
-  Behtar hay khamosh rahoon
-
-  Honton se kuch bhi na kahoon
-
-  Aankhon bolay rizan be qaza'
+  Mohsin main ye sochta huṅ
+  Pursa Bano ko kaise duṅ
+  Behtar hai khaamosh rahuṅ
+  Hoṅtoṅ se kuch bhi na kahuṅ
+  Aankheṅ boliṅ rizan be qaza
 ---
 
 انا للہ انا للہ

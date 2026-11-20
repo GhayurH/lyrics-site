@@ -1,43 +1,74 @@
 ---
-title: "Haye Zahra Ko Sataya Hai Musalmano Ne"
+title: "ہائے زہرا کو ستایا ہے مسلمانوں نے"
+alternateTitle: "Haye Zahra Ko Sataya Hai Musalmano Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar"
 reciter: "Sajjad Ashraf Taqvi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Zahra ko sataya hai musalmano ne
+  Zulm sadaat pe dhaya hai musalmano ne
+
+  1
+  Kya qayamat hai issi naam ka parh kar kalma
+  Ghar Muhammad ka jalaya hai musalmano ne
+
+  2
+  Jis ki tazeem mein uthtey they Rasool-e-Akram
+  Oss ka kya haal banaya hai musalmano ne
+
+  3
+  Jis ki khuwaish thi uthay oss ka janaza shab mein
+  Oss ko darbar bulaya hai musalmano ne
+
+  4
+  Tukray tukray kiya tehreer-e-nabi ko haye
+  Kaisa bibi ko rulaya hai musalmano ne
+
+  5
+  Le gaye kar ke rasan basta Ali ko zalim
+  Waqt yeh kaisa dikhaya hai musalmano ne
+
+  6
+  Kar diya Hazrat-e-Mohsin ko kuch iss tarha shaheed
+  Jalta darwaza giraya hai musalmano ne
+
+  7
+  Aye Zafar kehti gayi Sobbat Aliya bibi
+  Inn ka roza bhi giraya hai musalmano ne
 ---
 
-Haye Zahra Ko Sataya Hai Musalmano Ne
-Zulm Sadaat Pe Dhaya Hai Musalmano Ne
+ہائے زہرا کو ستایا ہے مسلمانوں نے
+ظلم سادات پہ ڈھایا ہے مسلمانوں نے
 
-1
-Kya Qayamat Hai Issi Naam Ka Parh Kar Kalma
-Ghar Muhammad Ka Jalaya Hai Musalmano Ne
+۱
+کیا قیامت ہے اسی نام کا پڑھ کر کلمہ
+گھر محمد کا جلایا ہے مسلمانوں نے
 
-2
-Jis Ki Tazeem Mein Uthtey They Rasool-e-Akram
-Oss Ka Kya Haal Banaya Hai Musalmano Ne
+۲
+جس کی تعظیم میں اٹھتے تھے رسولِ اکرم
+اس کا کیا حال بنایا ہے مسلمانوں نے
 
-3
-Jis Ki Khuwaish Thi Uthay Oss Ka Janaza Shab Mein
-Oss Ko Darbar Bulaya Hai Musalmano Ne
+۳
+جس کی خواہش تھی اٹھے اس کا جنازہ شب میں
+اس کو دربار بلایا ہے مسلمانوں نے
 
-4
-Tukray Tukray Kiya Tehreer-e-Nabi Ko Haye
-Kaisa Bibi Ko Rulaya Hai Musalmano Ne
+۴
+ٹکڑے ٹکڑے کیا تحریرِ نبی کو ہائے
+کیسا بی‌بی کو رلایا ہے مسلمانوں نے
 
-5
-Le Gaye Kar Ke Rasan Basta Ali Ko Zalim
-Waqt Yeh Kaisa Dikhaya Hai Musalmano Ne
+۵
+لے گئے کر کے رسن بستہ علی کو ظالم
+وقت یہ کیسا دکھایا ہے مسلمانوں نے
 
-6
-Kar Diya Hazrat-e-Mohsin Ko Kuch Iss Tarha Shaheed
-Jalta Darwaza Giraya Hai Musalmano Ne
+۶
+کر دیا حضرتِ محسن کو کچھ اس طرح شہید
+جلتا دروازہ گرایا ہے مسلمانوں نے
 
-7
-Aye Zafar Kehti Gayi Sobbat Aliya Bibi
-Inn Ka Roza Bhi Giraya Hai Musalmano Ne
+۷
+اے ظفر کہتی گئی صُبَّتْ عَلَيَّ بی‌بی
+ان کا روضہ بھی گرایا ہے مسلمانوں نے

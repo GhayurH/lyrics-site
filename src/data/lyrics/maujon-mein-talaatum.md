@@ -21,13 +21,13 @@ romanLyrics: |-
   Andaaza hai darya ko Abbas ke tewar ka
 
   2
-  Hathyaar meiṅ Ghazi ke bas paas hai ek neza
+  Hathyaar meiṅ Ghazi ke bas paas hai ik neza
   Har fard hai kiuṅ larza phir Shaam ke lashkar ka
   Andaaza hai darya ko Abbas ke tewar ka
 
   3
-  Mashkize meiṅ darya ko ab ammu le aayeṅge
-  Reh jaaye bharam baaqi ye dukhtar-e-Sarwar ka
+  Mashkize meiṅ darya ko ab ammuṅ le aayeṅge
+  Rih jaaye bharam baaqi ye dukhtar-e-Sarwar ka
   Andaaza hai darya ko Abbas ke tewar ka
 
   4

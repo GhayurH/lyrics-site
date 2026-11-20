@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ashkoṅ se maiṅ ne Shaam ka darbaar likh diya
-  Phir khun-e-dil Abid-e-bimaar likh diya
+  Phir khun-e-dil Abid bimaar likh diya
 
   1
   Wo naam us ka shaamil-e-fauj-e-Yazid tha

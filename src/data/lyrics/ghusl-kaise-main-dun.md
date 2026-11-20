@@ -15,7 +15,7 @@ romanLyrics: |-
   Boli ghassaala Bano se ro kar
   Ghusl kaise maiṅ duṅ Sakina ko
 
-  Ro pari bibiyaaṅ bhi ye sun kar
+  Ro pari bibiyaaṅ bhi sun kar
   Ghusl kaise maiṅ duṅ Sakina ko
 
   1
@@ -41,12 +41,12 @@ romanLyrics: |-
   5
   Uff ye mayyat ka haal hai kaisa
   Dekh ke phatta hai kaleja mera
-  Royi aurat koi ye keh keh kar
+  Royi mayyat koi ye keh keh kar
 
   6
   Hai ragoṅ meiṅ to tashnagi paiwast
   Hai qaza meiṅ to zindagi paiwast
-  Apna begaana royega is par
+  Apna begaana roye ga is par
 
   7
   Chhil gaya zakhmoṅ se badan is ka

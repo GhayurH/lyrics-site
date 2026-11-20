@@ -1,6 +1,6 @@
 ---
 title: "اگر حسین کی ماں آ گئی تو کیا ہوگا"
-alternateTitle: "Agar Hussain Ki Maa Agai Tuh Kiya Hoga"
+alternateTitle: "Agar Husain Ki Maaṅ Aa Gai To Kya Hoga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,61 +9,61 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Hussain, Hussain ya Hussain
+  Ya Husain, Husain ya Husain
 
   1
-  Sawar pusht pay qatil gala tahay khanjar
-  Agar Hussain ki maa agai tuh kiya hoga
-  Ghareeb e Zehra pay Shimr asah zulm na kar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Sawaar pusht pe qaatil, gala tah-e-khanjar
+  Agar Husain ki maaṅ aa gai to kya hoga
+  Gharib-e-Zehra pe Shimr aisa zulm na kar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   2
-  Bawaqt e asr musalsal sada e gaibi thi
-  Zameen e Karbobala had hai ye shakawat ki
-  Ye jaan e binte pyamabar hai kiya nahi hai kahbar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Bawaqt-e-asr musalsal sada-e-ghaibi thi
+  Zamin-e-Karb o Bala had hai ye shaqaawat ki
+  Ye jaan-e-bint-e-Payambar hai kya nahiṅ hai khabar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   3
-  Sahar se asr talak har sitam rawa dekha
-  Har aik sitam pay kiya Shay nay shukar ka sajda
-  Niga ha koi na hargis uthai ajj bashar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Sahar se asr talak har sitam ravaa dekha
+  Har aik sitam pe kiya Shah ne shukr ka sajda
+  Nigaah koi na hargiz uthaaye aaj bashar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   4
-  Nabi k deen ko khoon dey k paalnay walay
-  Pisar k seenay se barchi nikalnay walay
-  Zameen e Karb pe barpa hoa hai aik mehshar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Nabi ke din ko khun de ke paalne waale
+  Pisar ke sine se barchhi nikaalne waale
+  Zamin-e-Karb pe barpaa hua hai aik mahshar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   5
-  Zameen e aalmay gurbat main dekhtey hain Hussain
-  Bana k nanni si turbat ye sochtey hain Hussain
-  Rabab kahmay k andar na ho kahin muztar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Zamin-e-aalam-e-ghurbat mein dekhte haiṅ Husain
+  Bana ke nanhi si turbat ye sochte haiṅ Husain
+  Rabaab khaime ke andar na ho kahiṅ muztar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   6
-  Hain zakhm Aun o Mohammad bhi dil pay khai howay
-  Burida baazo e Abbas hain uthai howay
-  Na pochay kahmay e saadat pay kahin ye kahbar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Haiṅ zakhm-e-Aun o Muhammad bhi dil pe khaaye hue
+  Burida baazu-e-Abbaas haiṅ uthaaye hue
+  Na pahunche khaima-e-saadaat pe kahiṅ ye khabar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   7
-  Hassan k laal k tukray paray hain maidaan main
-  Hussain thokarain khatey chalay hain maidaan main
-  Nikal na ai kahin aaha berida khahar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Hasan ke laal ke tukre pare haiṅ maidaan mein
+  Husain thokareṅ khaate chale haiṅ maidaan mein
+  Nikal na aaye kahiṅ aah be ridaa khwaahar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   8
-  Jo aai sham e ghareeban ujar gai khaymay
-  Sakina khaaq pay baithi hain sir jhukai howay
-  Hain sir ba rehna haram koi dey unhay chadar
-  Agar Hussain ki maa agai tuh kiya hoga
+  Jo aai shaam-e-gharibaaṅ ujar gaye khaime
+  Sakina khaaq pe baithi haiṅ sar jhukaaye hue
+  Haiṅ sar barahna haram koi de unheṅ chaadar
+  Agar Husain ki maaṅ aa gai to kya hoga
 
   9
-  Rehan Azmi farsh e aza e Maula hain
-  Yahan pe haqday adab ka kahyal rakhna hai
-  Lagaye koi na fatway khudara matam par
-  Agar Hussain ki maa agai tuh kiya hoga
+  Rehaan Azmi farsh-e-azaa-e-Maula haiṅ
+  Yahaaṅ pe haq-e-adab ka khayaal rakhna hai
+  Lagaaye koi na fatwe khudaara maatam par
+  Agar Husain ki maaṅ aa gai to kya hoga
 ---
 
 یا حسین، حسین یا حسین

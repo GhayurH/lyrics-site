@@ -7,6 +7,37 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Momino khaak uraao saroṅ par
+  Uth raha hai Ali ka janaaza
+
+  1
+  Ro rahe haiṅ yatimaan-e-Haidar
+
+  2
+  Shahr-e-Kufa mein hai shor o girya
+  Chhin gaya bekasoṅ ka sahaara
+  Khaak uraate haiṅ Shabbir o Shabbar
+
+  3
+  Kaun de ga yatimoṅ ko pursa
+  Kaun Zainab ko de ab dilaasa
+  Har taraf hai qayaamat ka manzar
+
+  4
+  Roza daaroṅ woh kaisi sahar thi
+  Phir na sajde se utha namaazi
+  Suna suna hai mehraab o mimbar
+
+  5
+  Aao Shabbir o Shabbar ab aao
+  Saath Kulsum o Zainab ko laao
+  Kar lo didaar baaba ka aa kar
+
+  6
+  Sun ke dilsoz Zainab ke naale
+  Dil Mujib apna kaise sambhaale
+  Bepidar ho gai Bint-e-Haidar
 ---
 
 مومنو خاک اڑاؤ سروں پر

@@ -32,7 +32,7 @@ romanLyrics: |-
   Jis ne dekha Husain ka rauza
 
   5
-  Kya kare dil ke Kaabe meiṅ bhi ise
+  Kya kare dil, ke Kaabe meiṅ bhi ise
   Yaad aaya Husain ka rauza
 
   6

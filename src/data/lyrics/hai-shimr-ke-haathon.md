@@ -18,7 +18,7 @@ romanLyrics: |-
   Reti pe tarapta hai pyaasa
 
   1
-  Faryaad kunaṅ hai jin o malak
+  Faryaad kunaaṅ hai jinn o malak
   Hilti hai zamiṅ larza hai falak
   Kuchh der meiṅ ab barse ga lahu
   Katne ko hai Shah ka pyaasa gala
@@ -27,7 +27,7 @@ romanLyrics: |-
   Aabaad tha kaisa ghar kal tak
   The Akbar aur Asghar kal tak
   Viraan hai Zehra ka chaman
-  Chhota hi bacha hai aur na bara
+  Chhota hi bachaa hai aur na bara
 
   3
   Abbas akela chhor gaye

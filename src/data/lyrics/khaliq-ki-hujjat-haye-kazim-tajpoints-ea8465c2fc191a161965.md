@@ -1,38 +1,66 @@
 ---
-title: "Khaliq Ki Hujjat Haye Kazim"
+title: "خالق کی حجت ہائے کاظم"
+alternateTitle: "Khaliq Ki Hujjat Haye Kazim"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khaliq ki hujjat haye Kazim
+  Islam ki zeenat haye Kazim
+
+  1
+  Tu lal Ali our Zahra ka
+  Ahmad ki itrat haye Kazim
+  Woh qaid raku ki halat mein
+  Hai aouj-e-ibadat haye Kazim
+
+  2
+  Qatil pe tumharey lanat hi
+  Hai tum se mawaddat haye Kazim
+  Qurban tumharey sabron par
+  Aalaam ki kasrat haye Kazim
+
+  3
+  Thi qaid ki muddat chodah baras
+  Har lamha qayamat haye Kazim
+  Zindaan ki musibat aik taraf
+  Phir zehar ki shiddat haye Kazim
+
+  4
+  Ahsas watan se doori ka
+  Our pul pe maiyyat haye Kazim
+  Hasnain yeh ajar-e-risalat hai
+  Dushman hoi raiyyat haye Kazim
 ---
 
-Khaliq Ki Hujjat Haye Kazim Lyrics
-Islam Ki Zeenat Haye Kazim.
+خالق کی حجت ہائے کاظم
+اسلام کی زینت ہائے کاظم
 
-1
-Tu Lal Ali Our Zahra Ka.
-Ahmad Ki Itrat Haye Kazim.
-Woh Qaid Raku Ki Halat Mein.
-Hai Aouj-e-Ibadat Haye Kazim.
+۱
+تو لال علی اور زہرا کا
+احمد کی عترت ہائے کاظم
+وہ قید رکوع کی حالت میں
+ہے اوجِ عبادت ہائے کاظم
 
-2
-Qatil Pe Tumharey Lanat Hi.
-Hai Tum Se Mawaddat Haye Kazim.
-Qurban Tumharey Sabron Par.
-Aalaam Ki Kasrat Haye Kazim.
+۲
+قاتل پہ تمہارے لعنت ہی
+ہے تم سے مودت ہائے کاظم
+قربان تمہارے صبروں پر
+آلام کی کثرت ہائے کاظم
 
-3
-Thi Qaid Ki Muddat Chodah Baras.
-Har Lamha Qayamat Haye Kazim.
-Zindaan Ki Musibat Aik Taraf.
-Phir Zehar Ki Shiddat Haye Kazim.
+۳
+تھی قید کی مدت چودہ برس
+ہر لمحہ قیامت ہائے کاظم
+زنداں کی مصیبت ایک طرف
+پھر زہر کی شدت ہائے کاظم
 
-4
-Ahsas Watan Se Doori Ka.
-Our Pul Pe Maiyyat Haye Kazim.
- Hasnain Yeh Ajar-e-Risalat Hai.
-Dushman Hoi Raiyyat Haye Kazim.
+۴
+احساس وطن سے دوری کا
+اور پل پہ میت ہائے کاظم
+حسنین یہ اجرِ رسالت ہے
+دشمن ہوئی رعیت ہائے کاظم

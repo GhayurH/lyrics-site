@@ -1,35 +1,60 @@
 ---
-title: "Di Masjid-e-Kofa Mein Yeh Tauheed Sada Hai"
+title: "دی مسجدِ کوفہ میں یہ توحید صدا ہے"
+alternateTitle: "Di Masjid-e-Kofa Mein Yeh Tauheed Sada Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Di Masjid-e-Kofa mein yeh tauheed sada hai
+  Sajdoon mein lahu deney ka aagaz howa hai
+  Fil Qurba ki aayat pe chala Kofay mein khanjar
+  Tar khoon mein musallay par Quran-e-Wila hai
+
+  2
+  Hai karti rahi Eid qatal kar ke Ali ko
+  Ummat ne ajar khoob yeh Ahmad ko diya hai
+  Dastar-e-Nabi khon-e-Haider se hai rangeen
+  Khanjar yeh dil-e-Bint-e-Ahmad pe chala hai
+
+  3
+  Hain Syeda ke qatil Ali Maula ke qatil
+  Yeh zulm haqeeqat mein tu Saqeefa se jura hai
+  Aye Malka-e-Haya aap ko hai gham ka yeh pursa
+  Baba tera pardais mein howa tum se juda hai
+
+  4
+  Hasnain chaley le ke jo Baba ka janaza
+  Hai sath chali rotay Ghazi ki wafa hai
+  Azhar gham-e-Haider mein hai aflak pe matam
+  Naeem ki zabaan par bhi yeh azan-e-azza hai
 ---
 
-1
-Di Masjid-e-Kofa Mein Yeh Tauheed Sada Hai.
-Sajdoon Mein Lahu Deney Ka Aagaz Howa Hai.
-Fil Qurba Ki Aayat Pe Chala Kofay Mein Khanjar.
-Tar Khoon Mein Musallay Par Quran-e-Wila Hai.
+۱
+دی مسجدِ کوفہ میں یہ توحید صدا ہے
+سجدوں میں لہو دینے کا آغاز ہوا ہے
+فی القربیٰ کی آیت پہ چلا کوفے میں خنجر
+تر خون میں مصلّے پر قرآنِ ولا ہے
 
-2
-Hai Karti Rahi Eid Qatal Kar Ke Ali Ko.
-Ummat Ne Ajar Khoob Yeh Ahmad Ko Diya Hai.
-Dastar-e-Nabi Khon-e-Haider Se Hai Rangeen.
-Khanjar Yeh Dil-e-Bint-e-Ahmad Pe Chala Hai.
+۲
+ہے کرتی رہی عید قتل کر کے علی کو
+امت نے اجر خوب یہ احمد کو دیا ہے
+دستارِ نبی خونِ حیدر سے ہے رنگین
+خنجر یہ دلِ بنتِ احمد پہ چلا ہے
 
-3
-Hain Syeda Ke Qatil Ali Maula Ke Qatil.
-Yeh Zulm Haqeeqat Mein Tu Saqeefa Se Jura Hai.
-Aye Malka-e-Haya Aap Ko Hai Gham Ka Yeh Pursa.
-Baba Tera Pardais Mein Howa Tum Se Juda Hai.
+۳
+ہیں سیدہ کے قاتل علی مولا کے قاتل
+یہ ظلم حقیقت میں تو سقیفہ سے جڑا ہے
+اے ملکۂ حیا آپ کو ہے غم کا یہ پرسا
+بابا تیرا پردیس میں ہوا تم سے جدا ہے
 
-4
-Hasnain Chaley Le Ke Jo Baba Ka Janaza.
-Hai Sath Chali Rotay Ghazi Ki Wafa Hai.
- Azhar Gham-e-Haider Mein Hai Aflak Pe Matam.
- Naeem Ki Zabaan Par Bhi Yeh Azan-e-Azza Hai.
+۴
+حسنین چلے لے کے جو بابا کا جنازہ
+ہے ساتھ چلی روتے غازی کی وفا ہے
+اظہر غمِ حیدر میں ہے افلاک پہ ماتم
+نعیم کی زباں پر بھی یہ اذانِ عزا ہے

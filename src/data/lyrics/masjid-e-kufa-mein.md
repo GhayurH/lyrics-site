@@ -12,15 +12,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Masjid-e-Kufa meiṅ zakhmi ho gaya ek rozadaar
-  Zainab o Kulsum ki ab khair ho Parwardigaar
+  Masjid-e-Kufa meiṅ zakhmi ho gaya ek roza daar
+  Zainab o Kulsum ki ab khair ho, Parwardigaar
 
   1
-  Is namaazi ne namak se ki thi sahri ya Khuda
-  Ibn-e-Muljim ne kiya hai sajda-e-khaaliq meiṅ waar
+  Is namaazi ne namak se ki thi sahri, ya Khuda
+  Ibn-e-Muljim ne kiya hai sajda-e-Khaaliq meiṅ waar
 
   2
-  Khun se tar ho gayi mehraab zakhmi ae Ali
+  Khun se tar ho gayi mehraab zakhmi, ae Ali
   Betiyaṅ ghar meiṅ tarap kar kar rahi haiṅ intezaar
 
   3
@@ -32,16 +32,16 @@ romanLyrics: |-
   Aur hai chhote se Abbas-e-dilaawar ashk baar
 
   5
-  Nauha parhta hai musalla hai namaazeṅ maatami
-  Aaj se Haidar ke gham meiṅ hai azaaneṅ gham gusaar
+  Nauha parhte haiṅ musalla, hai namaazeṅ maatami
+  Aaj se Haidar ke ghar meiṅ hai azaaneṅ gham gusaar
 
   6
   Dekh kar Zainab ko Haidar jaane kiuṅ rone lage
   Dekhti hai bhaai ko hasrat se Zainab baar baar
 
   7
-  Pheṅk kar sar se amaama ro raha hai kiuṅ tabib
-  Betiyaṅ Baaba pe karti haiṅ duaaoṅ ka hisaar
+  Phenk kar sar se amaama ro raha hai kiuṅ tabib
+  Betiyaṅ baaba pe karti haiṅ duaaoṅ ka hisaar
 
   8
   Uth raha tha jab janaaza mere Maula ka Zafar

@@ -10,43 +10,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Matam zamin pe hota hai aur arsh par buka
-  Tabut e Murtaza ko uthate haiṅ Ambiya
+  Tabut-e-Murtaza ko uthate haiṅ ambiya
 
   1
   Chehre pe khun behta hai sar hai shigafta
-  Dunya se is tarha mera mushkil kusha chala
+  Dunya se is tarah mera mushkil kusha chala
 
   2
-  Wo jis ko dekhna bhi ibadat kaha gaya
-  Duba hua hai khuṅ may wo chehra Imam ka
+  Woh jis ko dekhna bhi ibadat kaha gaya
+  Duba hua hai khuṅ meiṅ woh chehra Imam ka
 
   3
   Ummat yatim ho gayi beaasra hayat
   Jo sab ke bojh uthata tha dunya se uth gaya
 
   4
-  Jinn o Malak Rasul o bashar sare aa gaye
-  Kis shan se utha tha janaza Imam ka
+  Jinn o malak rasul o bashar saare aa gaye
+  Kis shaan se utha tha janaza Imam ka
 
   5
-  Abbas ko supard kiya hai Husain ke
-  Jate hue Ali ki hai ankhoṅ may Karbala
+  Abbas ko supurd kiya hai Husain ke
+  Jaate hue Ali ki hai aankhoṅ meiṅ Karbala
 
   6
-  Zainab kahaṅ hai puchte haiṅ ghash may Murtaza
-  Ankhaiṅ haiṅ band samne manzar hai Shaam ka
+  Zainab kahaaṅ hai puchhte haiṅ ghash meiṅ Murtaza
+  Aankheṅ haiṅ band saamne manzar hai Shaam ka
 
   7
-  Mola mila hai aap ko tabut aur kafan
-  Begor o bekafan raha lasha Husain ka
+  Maula mila hai aap ko tabut aur kafan
+  Begor o bekafan raha laasha Husain ka
 
   8
-  Beta usi ka pyasa raha tin roz tak
-  Qatil ko apne jis ne ke sharbat ata kiya
+  Beta usi ka pyaasa raha tin roz tak
+  Qaatil ko apne jis ne keh sharbat ata kiya
 
   9
-  Mushkil may sab ki jaan bachata tha jo qamar
-  Sajde may zalimo ne use qatl kar diya
+  Mushkil meiṅ sab ki jaan bachata tha jo qamar
+  Sajde meiṅ zaalimoṅ ne use qatl kar diya
 ---
 
 ماتم زمین پہ ہوتا ہے اور عرش پر بکا

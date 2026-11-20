@@ -1,36 +1,61 @@
 ---
-title: "Ro Ke Kehti Thi Madar Mere Ladlay Asghar"
+title: "رو کے کہتی تھی مادر میرے لاڈلے اصغر"
+alternateTitle: "Ro Ke Kehti Thi Madar Mere Ladlay Asghar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Alam"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ro ke kehti thi madar mere ladlay Asghar
+  Soye ho kahan ja kar mere ladlay Asghar
+  Iss andheray jangal mein neend kaise aaye gi
+  Meri gaud mein aao maa tumhein sulaye gi
+  Jalti khak se uth kar mere ladlay Asghar
+  Jal gaya agar jhola fikar tu na kar beta
+  Maa tujhe jhulaye gi apne hathon se jhola
+  Loat aao aye dilbar mere ladlay Asghar
+  Pyas ki woh shiddat se haye tera murjhana
+  Shah ki sada sun kar woh tera machal jana
+  Bhol paon gi kyun kar mere ladlay Asghar
+  Jab se tujh se bichari hoon main sakoon na pati hoon
+  Main khiyalon mein tujh ko loriyaan sonati hoon
+  Shab ko chonk kar aksar mere ladlay Asghar
+  Qaid se agar ho ga choot kar watan jana
+  Kya ossay bataon gi poche gi tujhe Sughra
+  Hai kahan mera Asghar mere ladlay Asghar
+  Samne Sakina ke jab bhi pani aata hai
+  Tera chehra nazron ke aagay ghoom jata hai
+  Girti hai woh ghash kha kar mere ladlay Asghar
+  Gayarhwein Muharram ka kya ajeeb tha manzar
+  Yad jis ko aye Alam kar rathi thi yeh madar
+  Sar tha oss ka naizay par mere ladlay Asghar
 ---
 
-1
-Ro Ke Kehti Thi Madar Mere Ladlay Asghar.
-Soye Ho Kahan Ja Kar Mere Ladlay Asghar.
-Iss Andheray Jangal Mein Neend Kaise Aaye Gi.
-Meri Gaud Mein Aao Maa Tumhein Sulaye Gi.
-Jalti Khak Se Uth Kar Mere Ladlay Asghar.
-Jal Gaya Agar Jhola Fikar Tu Na Kar Beta.
-Maa Tujhe Jhulaye Gi Apne Hathon Se Jhola.
-Loat Aao Aye Dilbar Mere Ladlay Asghar.
-Pyas Ki Woh Shiddat Se Haye Tera Murjhana.
-Shah Ki Sada Sun Kar Woh Tera Machal Jana.
-Bhol Paon Gi Kyun Kar Mere Ladlay Asghar.
-Jab Se Tujh Se Bichari Hoon Main Sakoon Na Pati Hoon.
-Main Khiyalon Mein Tujh Ko Loriyaan Sonati Hoon.
-Shab Ko Chonk Kar Aksar Mere Ladlay Asghar.
-Qaid Se Agar Ho Ga Choot Kar Watan Jana.
-Kya Ossay Bataon Gi Poche Gi Tujhe Sughra.
-Hai Kahan Mera Asghar Mere Ladlay Asghar.
-Samne Sakina Ke Jab Bhi Pani Aata Hai.
-Tera Chehra Nazron Ke Aagay Ghoom Jata Hai.
-Girti Hai Woh Ghash Kha Kar Mere Ladlay Asghar.
-Gayarhwein Muharram Ka Kya AJeeb Tha Manzar.
-Yad Jis Ko Aye Alam Kar Rathi Thi Yeh Madar.
-Sar Tha Oss Ka Naizay Par Mere Ladlay Asghar.
+۱
+رو کے کہتی تھی مادر میرے لاڈلے اصغر
+سوئے ہو کہاں جا کر میرے لاڈلے اصغر
+اس اندھیرے جنگل میں نیند کیسے آئے گی
+میری گود میں آؤ ماں تمہیں سلائے گی
+جلتی خاک سے اٹھ کر میرے لاڈلے اصغر
+جل گیا اگر جھولا فکر تو نہ کر بیٹا
+ماں تجھے جھلائے گی اپنے ہاتھوں سے جھولا
+لوٹ آؤ اے دلبر میرے لاڈلے اصغر
+پیاس کی وہ شدت سے ہائے تیرا مرجھانا
+شاہ کی صدا سن کر وہ تیرا مچل جانا
+بھول پاؤں گی کیوں کر میرے لاڈلے اصغر
+جب سے تجھ سے بچھڑی ہوں میں سکون نہ پاتی ہوں
+میں خیالوں میں تجھ کو لوریاں سناتی ہوں
+شب کو چونک کر اکثر میرے لاڈلے اصغر
+قید سے اگر ہو گا چھوٹ کر وطن جانا
+کیا اسے بتاؤں گی پوچھے گی تجھے صغریٰ
+ہے کہاں میرا اصغر میرے لاڈلے اصغر
+سامنے سکینہ کے جب بھی پانی آتا ہے
+تیرا چہرہ نظروں کے آگے گھوم جاتا ہے
+گرتی ہے وہ غش کھا کر میرے لاڈلے اصغر
+گیارہویں محرم کا کیا عجیب تھا منظر
+یاد جس کو اے عالم کر رہی تھی یہ مادر
+سر تھا اس کا نیزے پر میرے لاڈلے اصغر

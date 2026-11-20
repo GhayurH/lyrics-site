@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Suno Shaan-e-Fatima Suno Shaan-e-Syeda
+  Suno shaan-e-Fatima suno shaan-e-Syeda
 
   1
   Zahra ki baat ho gi bari aan baan se
@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Jo do jahaaṅ ka chain hai ye us ka chain hai
   Zainab ki maaṅ hai chehra-e-Yazdaaṅ ki zain hai
-  Rab-e-Hasan hai Fatima Rab-e-Husain hai
+  Rab-e-Hasan hai Fatima rab-e-Husain hai
   Ye ain-e-haq hai is ka adu ain ghain hai
   Sun kar Khuda ke din ki chikh o pukaar ko
   Paala hai is ne sabr ke parwardigaar ko
@@ -82,7 +82,7 @@ romanLyrics: |-
   Mansub wo hadis-e-kisa hai janaab se
   Aajiz hai kufr aaj bhi jis ke jawaab se
   Roshan dil o dimaagh haiṅ jis aaftaab se
-  Ham ne yahi suna hai Risaalat maab se
+  Ham ne yahi suna hai risaalat maab se
   Ilm o hunar ka mor hadis-e-kisa meiṅ hai
   Quraan ka nichor hadis-e-kisa meiṅ hai
 
@@ -91,8 +91,8 @@ romanLyrics: |-
   Imaan ki ghiza ka bara bandobast hai
   Har shakhs aaj ishq ki masti meiṅ mast hai
   Zahra ke dushmanoṅ ki mukammal shikast hai
-  Mehfil qalandaraana sada hai jo saj gai
-  Lafzoṅ ne wo dhamaal kiya dhum mach gai
+  Mehfil qalandaraana sada hai jo saj gayi
+  Lafzoṅ ne wo dhamaal kiya dhum mach gayi
 ---
 
 سنو شانِ فاطمہ سنو شانِ سیدہ

@@ -9,53 +9,36 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Asghar Ho Tum Kahan Mir Hasan"
-romanLyrics: 'Asghar Ho Tum Kahan.
-
-  Aye Ali Asghar.
-
+romanLyrics: |-
+  Ae Ali Asghar
+  Maqtal mein baithi khaak par
+  Noha kunaaṅ hai maaṅ
+  Asghar ho tum kahaaṅ
 
   1
-
-  Maqtal Mein Baithi Khak Par Noha Kuna Hai Maa Asghar Ho Tum Kahan.
-
-  Jhola Jala Tu Jal Gaye Arman Bhi Mere.
-
-  Main Jee Rahi Thi Aik Hi Hasrat Liye Howay.
-
-  Dolha Tumhein Banaon Gi Jab Ho Gaye Tum Asghar Ho Tum Kahan.
-
+  Jhula jalaa to jal gaye armaan bhi mere
+  Main ji rahi thi ek hi hasrat liye hue
+  Dulha tumheṅ banaauṅgi jab hoṅge tum jawaaṅ
 
   2
-
-  Bikhre Howay Yeh Chand Sitare Zameen Pe Hain.
-
-  Zinda Nahi Hai Koi Magar Sab Yahin Pe Hain.
-
-  Ik Teri Lash Hi Nahi Lashon Ke Darmiyaan Asghar Ho Tum Kahan.
-
-  Do Char Din Bhi Zinda Nahi Reh Sakon Gi Main.
-
+  Bikhre hue ye chaand sitaare zamiṅ pe haiṅ
+  Zinda hi hai koi magar sab yahiṅ pe haiṅ
+  Ik teri laash hi nahiṅ laashoṅ ke darmiyaaṅ
 
   3
-
-  Itna Teri Ghareebi Pe Matam Karon Gi Main.
-
-  Aye Lal Mere Hathon Ki Khulwa De Rasiyaan Asghar Ho Tum Kahan.
-
-  Maqtal Se Qafile Ko Guzara Giya Tha Jab.
-
-  Pyaron Ko Apne Dete The Ro Kar Sadaein Sab.
-
+  Do chaar din bhi zinda nahiṅ reh sakuṅ gi main
+  Itna teri gharibi pe maatam karuṅ gi main
+  Ae laal mere haathoṅ ki khulwa de rassiyaaṅ
 
   4
+  Maqtal se qaafile ko guzaara gaya tha jab
+  Pyaaroṅ ko apne dete the ro kar sadaaeṅ jab
+  Ye kehte kehte bandh gai Baano ki hichkiyaaṅ
 
-  Yeh Kehte Kehte Bandh Gayein Bano Ki Hichkiyaan Asghar Ho Tum Kahan.
-
-  Majlis Wahin Pe:MIR TAKALLUM: Bapa Hoi.
-
-  Maa Tubat-e-Sagheer Pe Kehti Thi Jis Ghari.
-
-  Jata Hai Soye Sham Ab Lut Kar Ye Karwaan Asghar Ho Tum Kahan.'
+  5
+  Majlis wahiṅ pe Mir Takallum bapa hui
+  Maaṅ turbat-e-saghir par kehti thi jis ghari
+  Jaata hai su-e-Shaam ab lut kar ye karwaaṅ
 ---
 
 اے علی اصغر

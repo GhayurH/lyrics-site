@@ -9,65 +9,41 @@ poet: "Mir Sajjad Mir"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Binte zahra ka khula sar hai khuda khair kare
-
+romanLyrics: |-
+  Bint-e-Zahra ka khula sir hai, Khuda khair kare
+  Aur har haath mein patthar hai, Khuda khair kare
 
   1
-
-  Aur har haath may pathar hai khuda khair kare
-
-  Hur ke bete pe hi shabbir bahot roye thay
-
-  Ab to laashe ali akbar hai khuda khair kare
-
+  Hur ke bete pe hi Shabbir bohat roye the
+  Ab to laash-e-Ali Akbar hai, Khuda khair kare
 
   2
-
-  Maarte hai wahan naizon ko zameen par zaalim
-
-  Dafn jis ja ali asghar hai khuda khair kare
-
+  Maarte haiṅ wahaaṅ naizoṅ ko zamiṅ par zaalim
+  Dafn jis ja Ali Asghar hai, Khuda khair kare
 
   3
-
-  Kuch qadam door khadi dekh rahi hai zainab
-
-  Shimr ke haath may khanjar hai khuda khair kare
-
+  Kuch qadam dur khari dekh rahi hai Zainab
+  Shimr ke haath mein khanjar hai, Khuda khair kare
 
   4
-
-  Chaunk kar khaab se kehti thi watan may sughra
-
-  Kaisi mushkil may mera ghar hai khuda khair kare
-
+  Chaunk kar khaab se kehti thi watan mein Sughra
+  Kaisi mushkil mein mera ghar hai, Khuda khair kare
 
   5
-
-  Peeche deewar hai aur jalta hua dar aage
-
-  Beech may binte payambar hai khuda khair kare
-
+  Pichhe diwar hai aur jalta hua dar aage
+  Bich mein Bint-e-Payambar hai, Khuda khair kare
 
   6
-
-  Be-rida jaana hai zainab ko wahan par ke jahan
-
-  Har koi dushmane haider hai khuda khair kare
-
+  Berida jaana hai Zainab ko wahaaṅ par ke jahaaṅ
+  Har koi dushman-e-Haidar hai, Khuda khair kare
 
   7
-
-  Hai chadi haath may zaalim ke labon par hai hasi
-
-  Tasht may sheh ka rakha sar hai khuda khair kare
-
+  Hai chhari haath mein zaalim ke labboṅ par hai hansi
+  Tasht mein shah ka rakha sar hai, Khuda khair kare
 
   8
-
-  Mir sajjad ye shireen ne kaha rote huwe
-
-  Kiski naize pe ye chadar hai khuda khair kare'
+  Mir Sajjad ye Shiriṅ ne kaha rote hue
+  Kis ki naize pe ye chaadar hai, Khuda khair kare
 reciter: "Meer Hasan Meer"
 ---
 

@@ -10,61 +10,61 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Laashe qasim pe boli sakina
-  Mar gaya haye ek shab ka dulha
+  Laash-e-Qasim pe boli Sakina
+  Mar gaya haaye ek shab ka dulha
 
   1
-  Ek suhagan hui aaj bewa
+  Ek suhaagan hui aaj bewa
 
   2
-  Laashe qasim hai aur ek dulhan hai
+  Laash-e-Qasim hai aur ek dulhan hai
   Ye dulhan hi to meri behan hai
-  Dekha jaata nahi is ka chehra
+  Dekha jaata nahiṅ is ka chehra
 
   3
-  Kitne tukre huwe tere bhaiya
-  Jab aba may tumhe laaye bhaiya
-  Mai ye samjhi ke hai tera sehra
+  Kitne tukre hue tere bhaiya
+  Jab aba mein tumheṅ laaye bhaiya
+  Main ye samjhi ke hai tera sehra
 
   4
   Kya khabar thi ye mujhko ae bhai
   Maut aayi hai tujhko ae bhai
-  Teri mayyat hai aur hai sakina
+  Teri mayyat hai aur hai Sakina
 
   5
-  Teri mayyat nahi dekhi jaati
-  Wo kalayi bhi hai khuṅ may dubi
-  Jis pa baba ne baandha tha kangna
+  Teri mayyat nahiṅ dekhi jaati
+  Wo kalaai bhi hai khuṅ mein dubi
+  Jis pe baba ne baandha tha kangna
 
   6
-  Kaise bewa jiyegi ae qasim
-  Jab safar tay karegi ae qasim
+  Kaise bewa jiye gi ae Qasim
+  Jab safar tay karegi ae Qasim
   Nok-e-naiza pe sar tera hoga
 
   7
-  Kaun us se batayega aakhir
+  Kaun us se bataaye ga aakhir
   Bekasoṅ ka na tha koi nasir
-  Kufiyoṅ ne unhe maar daala
+  Kufiyoṅ ne unheṅ maar daala
 
   8
-  Laashe qasim hai aur hai qayamat
-  Ur gayi ruye kubra ki rangat
-  Jis ghari dekha waaris ka laasha
+  Laash-e-Qasim hai aur hai qayaamat
+  Ur gayi ru-e-Kubra ki rangat
+  Jis ghari dekha Waaris ka laasha
 
   9
-  Dekha maa ne jo bete ka laasha
-  Yaad waaris ka aaya kaleja
-  Jin ka tukre jigar tasht may tha
+  Dekha maaṅ ne jo bete ka laasha
+  Yaad Waaris ka aaya kaleja
+  Jin ka tukre jigar tasht mein tha
 
   10
-  Rukh madine ki jaanib kiya jab
-  Boli sun ke ye sughra ae ya rab
+  Rukh Madine ki jaanib kiya jab
+  Boli sun ke ye Sughra ae ya Rab
   Ho chuki hai behan teri bewa
 
   11
-  Gham mubarak o rehan roko
-  Sunke behsoh hai farwa gham ko
-  Ye sukhan sun ke roti hai zehra
+  Gham Mubarak o Rehan ro ko
+  Sun ke behosh hai Farwa gham ko
+  Ye sukhan sun ke roti hai Zehra
 ---
 
 لاش قاسم پہ بولی سکینہ

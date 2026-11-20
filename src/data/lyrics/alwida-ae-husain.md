@@ -13,64 +13,64 @@ romanLyrics: |-
   1
   Alwida alwida ae Husain alwida
   Kehti thi dukhiya behen mere Husain alwida
-  Banda e mabud ada sidq o safa ki kitaab
-  Paikare sabr o riza ruhe risalat ma'ab
-  Faatahe karbobala lakhte dil-e-bu-turaab
-  Ambiya ki zindagi fatema ke jaan o tan
+  Banda-e-maabud ada sidq o safa ki kitaab
+  Paikar-e-sabr o raza ruh-e-risaalat ma'aab
+  Faatih-e-Karb o Bala lakht-e-dil-e-Bu Turaab
+  Ambiya ki zindagi Fatema ke jaan o tan
 
   2
   Kis jagah taqdir ka laaya safeena mujhe
   Dekh mila hai yahaṅ gham ka dafeena mujhe
-  Kaash ke kar le qubul jadh ka madina mujhe
-  Jaati huṅ saughaat meiṅ leke nishane rasan
+  Kaash ke kar le qubul jadd ka Madina mujhe
+  Jaati huṅ saughaat meiṅ le ke nishaan-e rasan
 
   3
   Teri qasam ae Husain qabr pe aati zarur
-  Aake lehed par teri shamma jalati zarur
-  Chadar e ashke aza roke charhati zarur
-  Kya kare zindaṅ meiṅ qaid thi teri behen
+  Aa ke lahad par teri sham'a jalaati zarur
+  Chaadar-e-ashk-e-aza ro ke charhaati zarur
+  Kya kare zindaaṅ meiṅ qaid thi teri behen
 
   4
-  Peshe nazar har ghari ghurbate ahle haram
-  Qasime muztar ki yaad aun o mohamed ka gham
-  Baad tere ae hussan mujhpe thi har har qadam
-  Dard o alam ki ghata baarishe ranj o mehen
+  Pesh-e-nazar har ghari ghurbat-e-ahl-e haram
+  Qaasim-e-muztar ki yaad Aun o Muhammad ka gham
+  Baad tere ae Husain mujh pe thi har har qadam
+  Dard o alam ki ghata baarish-e-ranj o mihan
 
   5
-  Gham ki har ek daastaṅ jaake sunaungi mai
-  Nil jo shaano pe hai wo bhi dikhaungi mai
-  Roke mazaar e nabi par ye bataungi mai
-  Luta gaya kis tarha nana tumhara chaman
+  Gham ki har ek daastaaṅ jaa ke sunaauṅ gi main
+  Nil jo shaanoṅ pe hai wo bhi dikhaauṅ gi main
+  Ro ke mazaar-e-Nabi par ye bataauṅ gi main
+  Luta gaya kis tarah naana tumhaara chaman
 
   6
-  Dil ke nagineiṅ sar e dashte bala kho gaye
+  Dil ke nagiṅ sar-e-dasht-e bala kho gaye
   Ran meiṅ dileroṅ ko aayi qaza so gaye
-  Bhai bhatije pisar mujhse juda ho gaye
+  Bhaai bhatije pisar mujh se juda ho gaye
   Sone na degi mujhe ab mere dil ki chubhan
 
   7
   Gham meiṅ tere raat din roye na kiuṅ dil malul
-  Khusboo e dine khuda baaghe imamat ke phul
-  Haye re ghurbat teri raakib e doshe rasul
+  Khushbu-e-din-e-Khuda baagh-e-imaamat ke phul
+  Haaye re ghurbat teri raaqib-e-dosh-e-Rasul
   Na hui turbat nasib laash rahi bekafan
 
   8
-  Gham ki meri daastaṅ haal safar ka suno
-  Ruhe payambar utho mere baradar utho
-  Uth ke zara qabr se daade shuja'at to do
-  Jit ke kufa o shaam aayi hai dukhiya behen
+  Gham ki meri daastaaṅ haal safar ka suno
+  Ruh-e-payambar utho mere baraadar utho
+  Uth ke zara qabr se daad-e shuja'at to do
+  Jit ke Kufa o Shaam aayi dukhiya behen
 
   9
-  Raas na aaya tujhe ye safar e karbala
-  Maa ki lehed bhi chuti nana ka rauza chuta
-  Zindagi bhar ke liye dur madina hua
-  Koi nahi deher meiṅ tujhsa ghareebul watan
+  Raas na aaya tujhe ye safar-e-Karbala
+  Maaṅ ki lahad bhi chhuti naana ka rauza chhuta
+  Zindagi bhar ke liye dur Madina hua
+  Koi nahiṅ dahr meiṅ tujh sa gharib-ul-watan
 
   10
-  Kya teri fikre rasa kya tera nauha bilal
-  Khatra e na-chiz tu aur wo darya bilal
-  Dil meiṅ faqat hai yehi ek tamanna bilal
-  Kaash ye karle qubul shaahe huda ki behen
+  Kya teri fikr-e rasa kya tera nauha Bilal
+  Khatra-e-naachiz tu aur wo darya Bilal
+  Dil meiṅ faqat hai yahi ek tamanna Bilal
+  Kaash ye kar le qubul shaah-e huda ki behen
 ---
 
 ۱

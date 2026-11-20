@@ -12,14 +12,14 @@ tags: []
 aliases: ["Mai Aa Raha Hoo"]
 published: true
 romanLyrics: |-
-  Assalamu alaiki ya Sayyidatana Ruqaiyya
-  Assalamu alaiki ya bint Fatimat az-Zahra, Sayyidat nisa al-alamin
-  Assalamu alaiki ya bint Husain ash-shahid
+  Assalaamu alaiki ya Sayyidatana Ruqaiyya
+  Assalaamu alaiki ya bint Faatimat az-Zahra, Sayyidat nisaa al-aalamin
+  Assalaamu alaiki ya bint Husain ash-shahid
 
   Maiṅ aa raha huṅ Sakina
 
   Hai bas khatm hone ko hai imtihaaṅ
-  Koi ghaib se de raha hai sada
+  Koi ghaib se de raha hai sadaa
   Maiṅ aa raha huṅ Sakina
 
   1

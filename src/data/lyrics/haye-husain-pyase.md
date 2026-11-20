@@ -1,7 +1,7 @@
 ---
 title: "ہاے حسین پیاسے حسین"
 recitationId: "haye-hussain-pyase"
-alternateTitle: "Haye Husain Pyase"
+alternateTitle: "Haye Husain Pyaase"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,17 +12,17 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haye Husain pyase Husain
+  Haye Husain pyaase Husain
 
   1
   Jaan-e-Payambar dilbar-e-Zehra
   Apna bhara ghar tu ne lutaya
   Ibn-e-Ali ehsaan hai tera
-  Tu hai muhaafiz Kaaba-e-haq ka
-  Sajde meiṅ sar tera kata
+  Tu hi muhaafiz Kaaba-e-haq ka
+  Sajde mein sar tera kata
 
   2
-  Dhund rahe haiṅ ran meiṅ Sarwar
+  Dhund rahe haiṅ ran mein Sarwar
   Bechaini se laasha-e-Akbar
   Khaate haiṅ har gaam pe thokar
   Kaun sahaara dega barh kar
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Zainab ki aankhoṅ ke ujaale
   Aun o Muhammad ran ko sidhaare
-  Jang hui aur khuṅ meiṅ nahaaye
+  Jang hui aur khuṅ mein nahaaye
   Maqtal se jab aaye laashe
   Karti hai Zainab shukr-e-Khuda
 
@@ -39,15 +39,15 @@ romanLyrics: |-
   Byaah hui kuchh der na guzri
   Ran ko chali Qasim ki sawaari
   Kubra baithi soch rahi thi
-  Ab ujre gi maang hamaari
+  Ab ujregi maang hamaari
   Aa gaya dulha ka laasha
 
   5
   Thaame kamar ye kehte the Sarwar
-  Dasht-e-bala meiṅ shaane kata kar
+  Dasht-e-bala mein shaane kata kar
   Qatl hue Abbas-e-dilaawar
   De pursa mujhko meri khwaahar
-  Ho gaya Zainab maiṅ tanha
+  Ho gaya Zainab main tanha
 
   6
   Bain yehi karti thi Sakina
@@ -65,13 +65,13 @@ romanLyrics: |-
 
   8
   Kaisi ghari hai Aal-e-Nabi par
-  Ghash meiṅ pare haiṅ Aabid-e-muztar
+  Ghash mein pare haiṅ Aabid-e-muztar
   Keh de koi Abbas se jaa kar
   Chhin raha hai Shimr-e-sitamgar
   Bint-e-Ali ke sar se rida
 
   9
-  Zainab ke baazu meiṅ rasan hai
+  Zainab ke baazu mein rasan hai
   Aur laboṅ par bas ye sukhan hai
   Laash teri begor o kafan hai
   Aaj bahut majbur behan hai
@@ -94,7 +94,7 @@ romanLyrics: |-
   12
   Zist ka maqsad pyaasoṅ ka gham
   Hota rahe ta hashr ye maatam
-  Le ke yuṅhi Abbas ka parcham
+  Le ke yunhi Abbas ka parcham
   Parwaane Shabbir ke har dam
   Dete raheṅ ge bas ye sada
 
@@ -103,7 +103,7 @@ romanLyrics: |-
   Ashk-e-aza hai qalb ki quwwat
   Karte rahe har dam ye ibaadat
   Maatam hai Shabbir ki nusrat
-  Gunji faza meiṅ bas ye sada
+  Gunji faza mein bas ye sada
 ---
 
 ہاے حسین پیاسے حسین

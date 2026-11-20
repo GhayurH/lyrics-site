@@ -9,74 +9,45 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Kazim Utha Rahe Hain Jafar Ka Janaza Mesum Abbas"
-romanLyrics: 'Kazim utha rahe hai jafar ka janaza
-
-  Haye hussain keh kar aansu baha rahe hai
-
-  Kazim utha rahe hai jafar ka janaza
-
+romanLyrics: |-
+  Kazim utha rahe haiṅ Jafar ka janaza
+  Haye Husain keh kar aansuṅ baha rahe haiṅ
+  Kazim utha rahe haiṅ Jafar ka janaza
 
   1
-
-  Taboot ko utha kar jitne qadam badhaye
-
-  Har ek qadam pe unko sajjad yaad aaye
-
-  Abid ki bebasi ka nauha suna rahe hai
-
+  Tabut ko utha kar jitne qadam barhaye
+  Har ek qadam pe unko Sajjad yaad aaye
+  Abid ki bebasi ka nauha suna rahe haiṅ
 
   2
-
-  Mansoor ne ghiza mein zehr e jafa diya tha
-
-  Mazloom ke badan par jiska asar hua tha
-
-  Aflaak se malayik purse ko aa rahe hai
-
+  Mansur ne ghiza mein zehr-e-jafa diya tha
+  Mazlum ke badan par jiska asar hua tha
+  Aflaak se malaaik purse ko aa rahe haiṅ
 
   3
-
-  Nikla dehan se baahar haye jigar jo kat kar
-
-  Khoon rang ho gaya tha maula ka mere bistar
-
-  Manzar ye ahle dil ke dil ko dukha rahe hai
-
+  Nikla dahan se baahar haye jigar jo kat kar
+  Khuṅ rang ho gaya tha Maula ka mere bistar
+  Manzar ye ahl-e-dil ke dil ko dukha rahe haiṅ
 
   4
-
-  Hyder se dushmani ye ab tak nahi ruki hai
-
-  Maula hassan se le kar jafar tak aagayi hai
-
-  Har ek charagh e zehra zaalim bujha rahe hai
-
+  Haidar se dushmani ye ab tak nahiṅ ruki hai
+  Maula Hasan se le kar Jafar tak aa gai hai
+  Har ek charagh-e-Zehra zaalim bujha rahe haiṅ
 
   5
-
-  Aulaad e sayyeda mein aisa hai ye janaza
-
-  Jis mein madine waale dene ko aaye pursa
-
-  Ahle madina saare ye gham mana rahe hai
-
+  Aulaad-e-Sayyeda mein aisa hai ye janaza
+  Jis mein Madine waale dene ko aaye pursa
+  Ahl-e-Madina saare ye gham mana rahe haiṅ
 
   6
-
-  Jafar ke zehn mein bhi kazim ka hai janaza
-
+  Jafar ke zakhm mein bhi Kazim ka hai
   Mayyat uthane waala waaris koi na hoga
-
-  Zer e kafan bhi jafar khoon rote jaa rahe hai
-
+  Zer-e-kafan bhi Jafar khuṅ rote jaa rahe haiṅ
 
   7
-
-  Salman aur mesum dekha ye khwaab aksar
-
-  Baad e zahoor e maula mehdi baqi mein aa kar
-
-  Zehra ka aur inka rauza bana rahe hai'
+  Salman aur Mesum dekha ye khwaab aksar
+  Baad-e-zahur-e-Maula Mehdi Baqi mein aa kar
+  Zehra ka aur in ka rauza bana rahe haiṅ
 ---
 
 کاظم اٹھا رہے ہیں جعفر کا جنازہ

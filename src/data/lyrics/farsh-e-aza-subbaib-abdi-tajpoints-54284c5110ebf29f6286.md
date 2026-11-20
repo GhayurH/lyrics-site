@@ -1,136 +1,263 @@
 ---
-title: "Farsh E Aza Subbaib Abdi"
+title: "فرشِ عزا سبیب عبدی"
+alternateTitle: "Farsh-e-Aza Subbaib Abdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hamari qaum ki pehchan hai yeh farsh-e-azza
+  Shareef logon ka unwan hai yeh farsh-e-azza
+  Atash ki jeet ka ayelan hai yeh farsh-e-azza
+  Ali ki beti ka arman hai yeh farsh-e-azza
+
+  2
+  Kiya hai wadah jo haq se kabhi na torein gay
+  Qasam Hussain ki farsh-e-azza na chorein gay
+  Khiyal-e-ranj-o-alam ko lahu lahu kar ke
+  Khuda ki our risalat ki guftgu kar ke
+
+  3
+  Khud apni zaat-e-girami ko surkhuru kar ke
+  Azza ke farsh pe aao magar wozu kar ke
+  Khilay khilay hoye pholon ke sath baitho gay
+  Yahan pe aa ke rasolon ke sath baitho gay
+
+  4
+  Aqeedaton ke liye aaina hai farsh-e-azza
+  Tamam ahl-e-azza ki wafa hai farsh-e-azza
+  Hussain ibn-e-Ali aap ka hai farsh-e-azza
+  Keh mojzoon ke liye mojza hai farsh-e-azza
+
+  5
+  Ghareeb loag bhi jo saal bhar kamatay hain
+  Woh pori shan se farsh-e-azza bichatay hain
+  Yeh matami hai bohat bawafa yeh kehta hai
+  Yeh matami hai sitam ki qaza yeh kehta hai
+
+  6
+  Mizaj iss ka hai sab se juda yeh kehta hai
+  Zamane walon se farsh-e-azza yeh kehta hai
+  Shaoor-o-fikar ka beemar ho nahi sakta
+  Jo matami hai woh ghaddar ho nahi sakta
+
+  7
+  Munafiqon ke liye waar hai yeh farsh-e-azza
+  Sitam ke halq pe talwar hai yeh farsh-e-azza
+  Hussain walon ka maiyar hai yeh farsh-e-azza
+  Har ik bashar se khabardar hai yeh farsh-e-azza
+
+  8
+  Najis darakht kabhi chaon rakh nahi saktay
+  Fidak ke chor yahan paon rakh nahi saktay
+  Labon pe rehti hai har waqt jo sana-e-Hussain
+  Gharon se apne nikalte ho tum bara-e-Hussain
+
+  9
+  Muqadron ko muyassar hai yeh fizaye Hussain
+  Inhi ke dam se mili hai tumhein aza-e-Hussain
+  Azza ke farsh pe jab jab bhi tum qiyam karo
+  Halal zaday ho maa baap ko salam karo
+
+  10
+  Faraz-e-mimber-e-haq tazkira Hussain ka hai
+  Jaloos, farsh-e-azza, taziya Hussain ka hai
+  Salam-o-manqabat-o-marsiya Hussain ka hai
+  Qasam rasool-e-Khuda ki, Khuda Hussain ka hai
+
+  11
+  Azza ka farsh musallon ko hum banatay hain
+  Khuda ke ghar mein bhi farsh-e-azza bichatay hain
+  Musibaton ne kiya hai agar tumhein khasta
+  Nahi hai rizq ka pukhta agar koi rasta
+
+  12
+  Moqablay pe khari hai agar yeh kul dunya
+  Yeh mashwara hai gharon mein bichao farsh-e-azza
+  Makaan ho kacha ya paka zaror aati hain
+  Jahan Hussain hoon Zahra zaror aati hain
+
+  13
+  Yeh be shaouri hai ujlat na kar Khuda ke liye
+  Yazidiyon ki hamayat na kar Khuda ke liye
+  Abhi hai waqt hamaqat na kar Khuda ke liye
+  Yeh farsh-e-gham hai siyasat na kar Khuda ke liye
+
+  14
+  Jo rukh pe parday paray hain woh sab hata de ga
+  Khuda garor tera khak mein mila de ga
+  Jo chahtey ho keh Allah tum se ho razi
+  Azza ke farsh pe baitho karo bashar sazi
+
+  15
+  Alam utha ke karo gay jo anjuman bazi
+  Khiyal rakhna keh ho jaye ga khafa Ghazi
+  Tamam ahl-e-azza mein lagan Hussain ki hai
+  Nayi porani har ik anjuman Hussain ki hai
+
+  16
+  Yeh mera our yeh oss ka khateeb mat karna
+  Woh khush naseeb hai woh bad naseeb mat karna
+  Yahan pe aa ke baeed-o-qareeb mat karna
+  Yeh farsh-e-gham hai ameer-o-ghareeb mat karna
+
+  17
+  Har ik amal ka yahan par hisab hota hai
+  Jo munkisar hai wohi kamyab hota hai
+  Adab se kartay ho jab mil ke taziya dari
+  Zara bhi hoti nahi jab koi riyakari
+
+  18
+  Hussain hotey hain khush dekh kar wafadari
+  Boland karti hai itna tumhein azadari
+  Jinna se aan ke horein balaein leti hain
+  Tumhein Hussain ki madar duaein deti hain
+
+  19
+  Barhaya Zainab-e-muztar ne har qadam aisay
+  Rakha sanbhal ke Abbas ka alam aisay
+  Kiya Yazid ke har ik hadaf ko khum aisay
+  Bichaya Sham mein bhai ka farsh-e-gham aisay
+
+  20
+  Sina pe apni behan ke liye dua karne
+  Sar-e-Hussain gaya shukriya ada karne
+  Khuda ka shukar azadar hoon, Sharar Naqvi
+  Main Karbala ka wafadar hoon, Sharar Naqvi
+
+  21
+  Har ik mahaz pe khuddar hoon, Sharar Naqvi
+  Ghulam-e-hazrat-e-Mukhtar hoon, Sharar Naqvi
+  Para jo waqt tu yeh rasta nikalon ga
+  Azza ke wastay main khud ko baich dalon ga
 ---
 
-1
-Hamari Qaum Ki Pehchan Hai Yeh Farsh-e-Azza.
-Shareef Logon Ka Unwan Hai Yeh Farsh-e-Azza.
-Atash Ki Jeet Ka Ayelan Hai Yeh Farsh-e-Azza.
-Ali Ki Beti Ka Arman Hai Yeh Farsh-e-Azza.
+۱
+ہماری قوم کی پہچان ہے یہ فرشِ عزا
+شریف لوگوں کا عنوان ہے یہ فرشِ عزا
+آتش کی جیت کا اعلان ہے یہ فرشِ عزا
+علی کی بیٹی کا ارمان ہے یہ فرشِ عزا
 
-2
-Kiya Hai Wadah Jo Haq Se Kabhi Na Torein Gay.
-Qasam Hussain Ki Farsh-e-Azza Na Chorein Gay.
-Khiyal-e-Ranj-o-Alam Ko Lahu Lahu Kar Ke.
-Khuda Ki Our Risalat Ki Guftgu Kar Ke.
+۲
+کیا ہے وعدہ جو حق سے کبھی نہ توڑیں گے
+قسم حسین کی فرشِ عزا نہ چھوڑیں گے
+خیالِ رنج و الم کو لہو لہو کر کے
+خدا کی اور رسالت کی گفتگو کر کے
 
-3
-Khud Apni Zaat-e-Girami Ko Surkhuru Kar Ke.
-Azza Ke Farsh Pe Aao Magar Wozu Kar Ke.
-Khilay Khilay Hoye Pholon Ke Sath Baitho Gay.
-Yahan Pe Aa Ke Rasolon Ke Sath Baitho Gay.
+۳
+خود اپنی ذاتِ گرامی کو سرخرو کر کے
+عزا کے فرش پہ آؤ مگر وضو کر کے
+کھلے کھلے ہوئے پھولوں کے ساتھ بیٹھو گے
+یہاں پہ آ کے رسولوں کے ساتھ بیٹھو گے
 
-4
-Aqeedaton Ke Liye Aaina Hai Farsh-e-Azza.
-Tamam Ahl-e-Azza Ki Wafa Hai Farsh-e-Azza.
-Hussain Ibn-e-Ali Aap Ka Hai Farsh-e-Azza.
-Keh Mojzoon Ke Liye Mojza Hai Farsh-e-Azza.
+۴
+عقیدتوں کے لیے آئینہ ہے فرشِ عزا
+تمام اہلِ عزا کی وفا ہے فرشِ عزا
+حسین ابنِ علی آپ کا ہے فرشِ عزا
+کہ معجزوں کے لیے معجزہ ہے فرشِ عزا
 
-5
-Ghareeb Loag Bhi Jo Saal Bhar Kamatay Hain.
-Woh Pori Shan Se Farsh-e-Azza Bichatay Hain.
-Yeh Matami Hai Bohat Bawafa Yeh Kehta Hai.
-Yeh Matami Hai Sitam Ki Qaza Yeh Kehta Hai.
+۵
+غریب لوگ بھی جو سال بھر کماتے ہیں
+وہ پوری شان سے فرشِ عزا بچھاتے ہیں
+یہ ماتمی ہے بہت باوفا یہ کہتا ہے
+یہ ماتمی ہے ستم کی قضا یہ کہتا ہے
 
-6
-Mizaj Iss Ka Hai Sab Se Juda Yeh Kehta Hai.
-Zamane Walon Se Farsh-e-Azza Yeh Kehta Hai.
-Shaoor-o-Fikar Ka Beemar Ho Nahi Sakta.
-Jo Matami Hai Woh Ghaddar Ho Nahi Sakta.
+۶
+مزاج اس کا ہے سب سے جدا یہ کہتا ہے
+زمانے والوں سے فرشِ عزا یہ کہتا ہے
+شعور و فکر کا بیمار ہو نہیں سکتا
+جو ماتمی ہے وہ غدار ہو نہیں سکتا
 
-7
-Munafiqon Ke Liye Waar Hai Yeh Farsh-e-Azza.
-Sitam Ke Halq Pe Talwar Hai Yeh Farsh-e-Azza.
-Hussain Walon Ka Maiyar Hai Yeh Farsh-e-Azza.
-Har Ik Bashar Se Khabardar Hai Yeh Farsh-e-Azza.
+۷
+منافقوں کے لیے وار ہے یہ فرشِ عزا
+ستم کے حلق پہ تلوار ہے یہ فرشِ عزا
+حسین والوں کا معیار ہے یہ فرشِ عزا
+ہر اک بشر سے خبردار ہے یہ فرشِ عزا
 
-8
-Najis Darakht Kabhi Chaon Rakh Nahi Saktay.
-Fidak Ke Chor Yahan Paon Rakh Nahi Saktay.
-Labon Pe Rehti Hai Har Waqt Jo Sana-e-Hussain.
-Gharon Se Apne Nikalte Ho Tum Bara-e-Hussain.
+۸
+نجس درخت کبھی چھاؤں رکھ نہیں سکتے
+فدک کے چور یہاں پاؤں رکھ نہیں سکتے
+لبوں پہ رہتی ہے ہر وقت جو ثنائے حسین
+گھروں سے اپنے نکلتے ہو تم برائے حسین
 
-9
-Muqadron Ko Muyassar Hai Yeh Fizaye Hussain.
-Inhi Ke Dam Se Mili Hai Tumhein Aza-e-Hussain.
-Azza Ke Farsh Pe Jab Jab Bhi Tum Qiyam Karo.
-Halal Zaday Ho Maa Baap Ko Salam Karo.
+۹
+مقدروں کو میسر ہے یہ فضائے حسین
+انہی کے دم سے ملی ہے تمہیں عزائے حسین
+عزا کے فرش پہ جب جب بھی تم قیام کرو
+حلال زادے ہو ماں باپ کو سلام کرو
 
-10
-Faraz-e-Mimber-e-Haq Tazkira Hussain Ka Hai.
-Jaloos, Farsh-e-Azza, Taziya Hussain Ka Hai.
-Salam-o-Manqabat-o-Marsiya Hussain Ka Hai.
-Qasam Rasool-e-Khuda Ki, Khuda Hussain Ka Hai.
+۱۰
+فرازِ منبرِ حق تذکرہ حسین کا ہے
+جلوس، فرشِ عزا، تعزیہ حسین کا ہے
+سلام و منقبت و مرثیہ حسین کا ہے
+قسم رسولِ خدا کی، خدا حسین کا ہے
 
-11
-Azza Ka Farsh Musallon Ko Hum Banatay Hain.
-Khuda Ke Ghar Mein Bhi Farsh-e-Azza Bichatay Hain.
-Musibaton Ne Kiya Hai Agar Tumhein Khasta.
-Nahi Hai Rizq Ka Pukhta Agar Koi Rasta.
+۱۱
+عزا کا فرش مصلّوں کو ہم بناتے ہیں
+خدا کے گھر میں بھی فرشِ عزا بچھاتے ہیں
+مصیبتوں نے کیا ہے اگر تمہیں خستہ
+نہیں ہے رزق کا پختہ اگر کوئی راستہ
 
-12
-Moqablay Pe Khari Hai Agar Yeh Kul Dunya.
-Yeh Mashwara Hai Gharon Mein Bichao Farsh-e-Azza.
-Makaan Ho Kacha Ya Paka Zaror Aati Hain.
-Jahan Hussain Hoon Zahra Zaror Aati Hain.
+۱۲
+مقابلے پہ کھڑی ہے اگر یہ کل دنیا
+یہ مشورہ ہے گھروں میں بچھاؤ فرشِ عزا
+مکان ہو کچا یا پکا ضرور آتی ہیں
+جہاں حسین ہوں زہرا ضرور آتی ہیں
 
-13
-Yeh Be Shaouri Hai Ujlat Na Kar Khuda Ke Liye.
-Yazidiyon Ki Hamayat Na Kar Khuda Ke Liye.
-Abhi Hai Waqt Hamaqat Na Kar Khuda Ke Liye.
-Yeh Farsh-e-Gham Hai Siyasat Na Kar Khuda Ke Liye.
+۱۳
+یہ بے شعوری ہے عجلت نہ کر خدا کے لیے
+یزیدیوں کی حمایت نہ کر خدا کے لیے
+ابھی ہے وقت حماقت نہ کر خدا کے لیے
+یہ فرشِ غم ہے سیاست نہ کر خدا کے لیے
 
-14
-Jo Rukh Pe Parday Paray Hain Woh Sab Hata De Ga.
-Khuda Garor Tera Khak Mein Mila De Ga.
-Jo Chahtey Ho Keh ALLAH Tum Se Ho Razi.
-Azza Ke Farsh Pe Baitho Karo Bashar Sazi.
+۱۴
+جو رخ پہ پردے پڑے ہیں وہ سب ہٹا دے گا
+خدا غرور تیرا خاک میں ملا دے گا
+جو چاہتے ہو کہ اللہ تم سے ہو راضی
+عزا کے فرش پہ بیٹھو کرو بشر سازی
 
-15
-Alam Utha Ke Karo Gay Jo Anjuman Bazi.
-Khiyal Rakhna Keh Ho Jaye Ga Khafa Ghazi.
-Tamam Ahl-e-Azza Mein Lagan Hussain Ki Hai.
-Nayi Porani Har Ik Anjuman Hussain Ki Hai.
+۱۵
+علم اٹھا کے کرو گے جو انجمن بازی
+خیال رکھنا کہ ہو جائے گا خفا غازی
+تمام اہلِ عزا میں لگن حسین کی ہے
+نئی پرانی ہر اک انجمن حسین کی ہے
 
-16
-Yeh Mera Our Yeh Oss Ka Khateeb Mat Karna.
-Woh Khush Naseeb Hai Woh Bad Naseeb Mat Karna.
-Yahan Pe Aa Ke Baeed-o-Qareeb Mat Karna.
-Yeh Farsh-e-Gham Hai Ameer-o-Ghareeb Mat Karna.
+۱۶
+یہ میرا اور یہ اس کا خطیب مت کرنا
+وہ خوش نصیب ہے وہ بد نصیب مت کرنا
+یہاں پہ آ کے بعید و قریب مت کرنا
+یہ فرشِ غم ہے امیر و غریب مت کرنا
 
-17
-Har Ik Amal Ka Yahan Par Hisab Hota Hai.
-Jo Munkisar Hai Wohi Kamyab Hota Hai.
-Adab Se Kartay Ho Jab Mil Ke Taziya Dari.
-Zara Bhi Hoti Nahi Jab Koi Riyakari.
+۱۷
+ہر اک عمل کا یہاں پر حساب ہوتا ہے
+جو منکسر ہے وہی کامیاب ہوتا ہے
+ادب سے کرتے ہو جب مل کے تعزیہ داری
+ذرا بھی ہوتی نہیں جب کوئی ریاکاری
 
-18
-Hussain Hotey Hain Khush Dekh Kar Wafadari.
-Boland Karti Hai Itna Tumhein Azadari.
-Jinna Se Aan Ke Horein Balaein Leti Hain.
-Tumhein Hussain Ki Madar Duaein Deti Hain.
+۱۸
+حسین ہوتے ہیں خوش دیکھ کر وفاداری
+بلند کرتی ہے اتنا تمہیں عزاداری
+جنت سے آن کے حوریں بلائیں لیتی ہیں
+تمہیں حسین کی مادر دعائیں دیتی ہیں
 
-19
-Barhaya Zainab-e-Muztar Ne Har Qadam Aisay.
-Rakha Sanbhal Ke Abbas Ka Alam Aisay.
-Kiya Yazid Ke Har Ik Hadaf Ko Khum Aisay.
-Bichaya Sham Mein Bhai Ka Farsh-e-Gham Aisay.
+۱۹
+بڑھایا زینبِ مضطر نے ہر قدم ایسے
+رکھا سنبھال کے عباس کا علم ایسے
+کیا یزید کے ہر اک ہدف کو خم ایسے
+بچھایا شام میں بھائی کا فرشِ غم ایسے
 
-20
-Sina Pe Apni Behan Ke Liye Dua Karne.
-Sar-e-Hussain Gaya Shukriya Ada Karne.
-Khuda Ka Shukar Azadar Hoon:SHARAR NAQVI:.
-Main Karbala Ka Wafadar Hoon:SHARAR NAQVI:.
+۲۰
+سناں پہ اپنی بہن کے لیے دعا کرنے
+سرِ حسین گیا شکریہ ادا کرنے
+خدا کا شکر عزادار ہوں، شرر نقوی
+میں کربلا کا وفادار ہوں، شرر نقوی
 
-21
-Har Ik Mahaz Pe Khuddar Hoon:SHARAR NAQVI:.
-Ghulam-e-Hazrat-e-Mukhtar Hoon:SHARAR NAQVI:.
-Para Jo Waqt Tu Yeh Rasta Nikalon Ga.
-Azza Ke Wastay Main Khud Ko Baich Dalon Ga.
+۲۱
+ہر اک محاذ پہ خوددار ہوں، شرر نقوی
+غلامِ حضرتِ مختار ہوں، شرر نقوی
+پڑا جو وقت تو یہ راستہ نکالوں گا
+عزا کے واسطے میں خود کو بیچ ڈالوں گا

@@ -11,35 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae Baqaiya mujhe tera ghum hai Rizwan Zaidi
-  Iss liye tu yeh aankh purnam hai
-  Jab se tera yeh inhedam howa
-  Dil mein bas gham ka hi qiyam howa
-  Ab tu ik izterab-e-paihum hai
-  Qabar-e-Zahra jo dhayi aada ne
-  Kya bigara tha inn ka dukhiya ne
-  Hum tu jitna bhi roein woh kam hai
-  Hai jo be saya turbat-e-Sajjad
-  Kyun na hum ghamzada karein faryad
-  Iss se barh kar bhi koi kya gham hai
-  Qabar Baqir ki our Jafar ki
+  Ae Baqaiya mujhe tera gham hai Rizwan Zaidi
+  Is liye to yeh aankh purnam hai
+  Jab se tera yeh inhidaam hua
+  Dil mein bas gham ka hi qiyaam hua
+  Ab to ik iztiraab-e-paiham hai
+  Qabar-e-Zahra jo dhaai aada ne
+  Kya bigaara tha in ka dukhiya ne
+  Hum to jitna bhi roeiṅ woh kam hai
+  Hai jo besaaya turbat-e-Sajjaad
+  Kiuṅ na hum ghamzada kareiṅ faryaad
+  Is se barh kar bhi koi kya gham hai
+  Qabar Baqir ki aur Jafar ki
   Hai shikasta jo qabar Shabar ki
-  Har taraf soag ka sa aalam hai
+  Har taraf sog ka sa aalam hai
   Keh utha dekh kar dil-e-muztar
-  Haye re qabar-e-madar-e-Haider
-  Iss ki tauqeer tu muqaddam hai
-  Jab bhi tashreef laein gay Mehdi
-  Ho ga tameer phir Baqaiya bhi
+  Haaye re qabar-e-maadar-e-Haidar
+  Is ki tauqir to muqaddam hai
+  Jab bhi tashrif laaeiṅ ge Mehdi
+  Ho ga taamir phir Baqaiya bhi
   Mujh ko ik yeh hi aas har dam hai
-  Kyun na aawaz-e-haq uthaein hum
-  Kaisay batil se khof khaein hum
-  Sar pe jab Bawafa ka parcham hai
-  Jis ne Zahra ka dil dukhaya hai
-  Our unhein umar bhar rulaya hai
-  Oss pe lanat hi ab tu har dam hai
-  Chain Izhar youn nahi aata
+  Kiuṅ na aawaaz-e-haq uthaaeiṅ hum
+  Kaise baatil se khauf khaaeiṅ hum
+  Sar pe jab baawafa ka parcham hai
+  Jis ne Zahra ka dil dukhaaya hai
+  Aur unheiṅ umr bhar rulaaya hai
+  Us pe laanat hi ab to har dam hai
+  Chain Izhar yuṅ nahiṅ aata
   Har ghari hai alam Baqaiya ka
-  Har ghari dil mein shor-e-matam hai
+  Har ghari dil mein shor-e-maatam hai
 ---
 
 ۱

@@ -10,33 +10,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae Zainab vain karendi rahi sanu chhor ke inj na ja Baba
-  Uth Baba khol ke kafan vichon dhiyan nu sine la Baba
+  Ae Zainab vainr karendi rai saanon chhor ke inj na jaa Baba
+  Uth baawaan khol ke kafan vichon dhiyaan nu sine laa Baba
 
   1
-  Saade sar te saadi maan vi nahin hun tu vi jag ton jaavin na
-  Dhiyan de pekhe vehre te inj maut de jandre laavin na
-  Bismillah parh ke jaag zara na sanu hor ruwa Baba
+  Saade sar te saadi maan vi nain hunr tu vi jag ton jaavin na
+  Dhiyaan de pekhe vere te inj maut de jandre laavin na
+  Bismillaah parh ke jaag zara na saanon hor ruwaa Baba
 
   2
-  Tainu waasta ambri Zehra da ae maut di masnad chhor zara
-  Tu Sahib-e-Amr hai chan Baba suraj nu wapas mor zara
-  Zainab de sar ton leh gayi ae aj pehli waar rida Baba
+  Tainon waasta ambri Zehra da ae maut di masnad chhor zara
+  Tu Saahib-e-Amr hai chan Baba suraj nu waapas mor zara
+  Zainab de sar ton leh gayi ae aj pehli waar ridaa Baba
 
   3
-  Dastur ae saari duniya da jadon eidan nere aundiyan ne
-  Dhiyan nu pekhe vehriyan ton kayi kayi saugatan aandiyan ne
-  Ae Eid guzar si kinj saadi uth ujriyan nu samjha Baba
+  Dastur ae saari duniya da jadon idaan nere aundiyaan ne
+  Dhiyaan nun pekhe vehriyaan ton kayi kayi saugaataan jaandiyaan ne
+  Ae Id guzar si kinj saadi uth ujriyaan nun samjhaa Baba
 
   4
-  Tera paak janaza putran ne apne hathan naal chana ae
-  Tabut tere nu Najaf de vich Hasnain ne khud dafnana ae
-  Jadon main marna koi nahin hona mera Sajjad siwa Baba
+  Tera paak janaaza putraan ne apne hathaan naal chaanra ae
+  Taabut tere nun Najaf de vich Hasnain ne khud dafnaana ae
+  Jadon main marna koi nain hona mera Sajjaad siwaa Baba
 
   5
-  Tu tur jaana ae duniya ton aulaad te mushkil par jaani
-  Haye badli hasab o na wali namus teri te par jaani
-  Naane de ummatiyan maar dene mere Hasan Husain bhira Baba
+  Tu tur jaana ae dinaa ton aulaad te mushkil par jaani
+  Haaye badli hasab o naa waali naamus teri te par jaani
+  Naane de ummatiyaan maar dene mere Hasan Husain bhiraa Baba
 ---
 
 اے زینب وینڑ کریندی رئی سانوں چھوڑ کے انج نا جا بابا

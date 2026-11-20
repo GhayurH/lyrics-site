@@ -1,7 +1,7 @@
 ---
 title: "میں جگر کے ٹکڑوں کو چھوڑ کے جاؤں کہاں"
 recitationId: "mai-jigar-ke-tukdon"
-alternateTitle: "Maiṅ Jigar Ke Tukroṅ"
+alternateTitle: "Main Jigar Ke Tukroṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,36 +11,36 @@ tags: []
 aliases: ["Mai Jigar Ke Tukdon"]
 published: true
 romanLyrics: |-
-  Maiṅ jigar ke tukroṅ ko chhor ke jaauṅ kahaaṅ
-  Ek hai zindaan meiṅ ek bayaabaan meiṅ
+  Main jigar ke tukroṅ ko chhor ke jaauṅ kahaaṅ
+  Ek hai zindaan mein ek bayaabaan mein
 
   1
-  Asghar-e-naadaaṅ hai soya bayaabaan meiṅ
-  Aur Sakina meri Shaam ke zindaan meiṅ
+  Asghar-e-naadaaṅ hai soya bayaabaan mein
+  Aur Sakina meri Shaam ke zindaan mein
 
   2
-  Qabr-e-Sakina pe tha jism to bedam mera
-  Maamta le kar chali Shaam sue Karbala
+  Qabr-e-Sakina pe tha jism to be dam mera
+  Maamta le kar chali Shaam su-e-Karbala
 
   3
-  Maiṅ huṅ meri uljhane aur dil-e-ghamzada
+  Main huṅ meri uljhaane aur dil-e-ghamzada
   Koi kare aa ke hal meri ye mushkil zara
 
   4
   Zakhmi hai is ki labeṅ zakhmi hai us ka gala
-  Kushta-e-dard o alam donoṅ ka hai ek sa
+  Kushta-e-dard o alam donoṅ ka hai ik sa
 
   5
   Jhula jhulaauṅ kise lori sunaauṅ kise
   Paani pilaauṅ kise baali pehnaauṅ kise
 
   6
-  Mujhe guzarti hai jo kis se bayaaṅ maiṅ karuṅ
-  Rouṅ maiṅ us ke liye is ka ya maatam karuṅ
+  Mujhe guzarti hai jo kis se bayaaṅ main karuṅ
+  Rouṅ main us ke liye is ka ya maatam karuṅ
 
   7
-  Kaarwaaṅ hone ko hai sue Madina rawaaṅ
-  Kaise watan jaauṅgi dil hai pareshaan yahaaṅ
+  Kaarwaaṅ hone ko hai su-e-Madina rawaaṅ
+  Kaise watan jaauṅ gi dil hai pareshaan yahaaṅ
 
   8
   Qasim o Nayaab ki pehli tamanna hai ye

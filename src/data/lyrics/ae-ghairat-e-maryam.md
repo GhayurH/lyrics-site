@@ -48,7 +48,7 @@ romanLyrics: |-
   Kubra kahaaṅ jaaye na raha koi thikaana
 
   9
-  Ye majlis o maatam ki bina tere hi dam se
+  Ye majlis o maatam ki binaa tere hi dam se
   Paaya hai azaadaar ne bakhshish ka banaana
 ---
 اے غیرتِ مریم تیرا بازار میں آنا

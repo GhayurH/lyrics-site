@@ -1,6 +1,6 @@
 ---
 title: "عباس اور حسین حسنین عباس برادرز"
-alternateTitle: "Abbas Aur Hussain Hasnain Abbas Brothers"
+alternateTitle: "Abbas Aur Husain Hasnain Abbas Brothers"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,21 +10,21 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas aur Hussain Hasnain Abbas Brothers
-  Bunyad la ilaha mein Abbas our Hussain
-  Tauheed ki sipah mein Abbas our Hussain
-  Noor-e-Khuda-o-noor-e-Muhammad ke noor hain
-  Wahdat ke mehar-o-mah mein Abbas our Hussain
-  Aa tu gaya ho laut ke Karb-o-Bala se main
-  Hain aaj nigah mein Abbas our Hussain
-  Pata hoon faiz aaj bhi Karb-o-Bala se main
-  Hain dil ki dars ga mein Abbas our Hussain
-  Shamil hain Karbala ke hain bahatar namaz mein
-  Hain meri sajdah ga mein Abbas our Hussain
-  Midhat Ali Wali ki aqeeday ki dhaal hai
-  Rakhein gay youn panah mein Abbas our Hussain
-  Mehfil wila ki jab bhi Nawazish sajaein gay
-  Aaein gay bazm ga mein Abbas our Hussain
+  Abbas aur Husain Hasnain Abbas Brothers
+  Bunyaad laa ilaaha meiṅ Abbas aur Husain
+  Tauhid ki sipaah meiṅ Abbas aur Husain
+  Nur-e-Khuda o nur-e-Muhammad ke nur haiṅ
+  Wahdat ke mehr o maah meiṅ Abbas aur Husain
+  Aa to gaya huṅ laut ke Karb o Bala se maiṅ
+  Haiṅ aaj nigaah meiṅ Abbas aur Husain
+  Paata huṅ faiz aaj bhi Karb o Bala se maiṅ
+  Haiṅ dil ki dars gaah meiṅ Abbas aur Husain
+  Shaamil haiṅ Karbala ke haiṅ bahattar namaaz meiṅ
+  Haiṅ meri sajda gaah meiṅ Abbas aur Husain
+  Midhat Ali Wali ki aqide ki dhaal hai
+  Rakheṅ ge yuṅ panaah meiṅ Abbas aur Husain
+  Mehfil wila ki jab bhi Nawazish sajaaeṅ ge
+  Aaeṅ ge bazm gaah meiṅ Abbas aur Husain
 ---
 
 ۱

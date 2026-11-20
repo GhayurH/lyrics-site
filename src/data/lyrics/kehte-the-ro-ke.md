@@ -12,56 +12,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kehte the ro ke Aabid-e-Dilgir kya karuṅ
-  Zaalim bahut hai lashkar-e-Bepir kya karuṅ
+  Kehte the ro ke Aabid-e-dilgir kya karuṅ
+  Zaalim bahut hai lashkar-e-bepir kya karuṅ
 
   1
   Bimaar huṅ ke raah ka chalna muhaal hai
-  Us par sitam hai paaoṅ meiṅ zanjir kya karuṅ
+  Us par sitam hai paaoṅ mein zanjir kya karuṅ
 
   2
-  Karb o Bala meiṅ aa ke ye ehsaas bhi na tha
+  Karb o Bala mein aa ke ye ehsaas bhi na tha
   Ye din mujhe dikhaayegi taqdir kya karuṅ
 
   3
   Shiddat ki garm ret pe sukhi zabaaṅ liye
-  Tarpa hai mera Asghar-e-Beshir kya karuṅ
+  Tarpa hai mera Asghar-e-beshir kya karuṅ
 
   4
   Karyal jawaaṅ ke sine pe neza jo chal gaya
-  Royi bahut hai maadar-e-Dilgir kya karuṅ
+  Royi bahut hai maadar-e-dilgir kya karuṅ
 
   5
   Ye to khabar thi hoṅ ge bahattar ke sar qalam
   Bepardagi dikha gayi taqdir kya karuṅ
 
   6
-  Din-e-Nabi ko jis ne ujaala ata kiya
-  Hai tiragi meiṅ aaj wo tanvir kya karuṅ
+  Din-e-Nabi ko jis ne ujaala ataa kiya
+  Hai tiragi mein aaj wo tanvir kya karuṅ
 
   7
   Bachche tarap ke mar gaye paani nahiṅ mila
   Wo tashnagi ki dekhi hai tasvir kya karuṅ
 
   8
-  Sab kuchh luta ke dasht meiṅ daaman ko jhaar kar
-  Baithe the ran meiṅ Hazrat-e-Shabbir kya karuṅ
+  Sab kuchh luta ke dasht mein daaman ko jhaar kar
+  Baithe the ran mein Hazrat-e-Shabbir kya karuṅ
 
   9
   Baagh-e-Fidak ko chhin ke jab dil nahiṅ bhara
-  Karb o Bala meiṅ lut li jaagir kya karuṅ
+  Karb o Bala mein lut li jaagir kya karuṅ
 
   10
-  Zainab phuphi hai Shaam ke balwe meiṅ berida
-  Aur har taraf hai majma-e-Bepir kya karuṅ
+  Zainab phuphi hai Shaam ke balwe mein berida
+  Aur har taraf hai majma-e-bepir kya karuṅ
 
   11
-  Hasrat liye Madine ki zindaan-e-Shaam meiṅ
-  Zer-e-Zamin so gayi hamshir kya karuṅ
+  Hasrat liye Madine ki zindaan-e-Shaam mein
+  Zer-e-zamin so gayi hamshir kya karuṅ
 
   12
-  Nauha likha Raza to qayaamat guzar gayi
-  Dil ro raha hai aur maiṅ tahrir kya karuṅ
+  Nauha likha Raza to qiyaamat guzar gayi
+  Dil ro raha hai aur main tahrir kya karuṅ
 ---
 کہتے تھے رو کے عابدِ دلگیر کیا کروں
 ظالم بہت ہے لشکرِ بے پیر کیا کروں

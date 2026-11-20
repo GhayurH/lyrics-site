@@ -10,53 +10,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sar peettay they dekh ke mazloom-e-karbala Abbas ka lasha
-  Kehte they kaisay dekhey gi haye meri Sakina Abbas ka lasha
+  Sar pitte the dekh ke mazlum-e-Karbala Abbas ka laasha
+  Kehte the kaise dekhe gi haaye meri Sakina Abbas ka laasha
 
   1
-  Maqtal ki rait hathoon mein syed ne utha li
-  Haye lashay talak aate hoye sar mein woh dali
-  Our khud ko kayi bar yehi keh ke giraya Abbas ka lasha
+  Maqtal ki rait haathoṅ mein Sayyid ne utha li
+  Haaye laashe talak aate hue sar mein woh daali
+  Aur khud ko kai baar yehi keh ke giraaya Abbas ka laasha
 
   2
-  Khali nazar aayi jonhi bhai ki sawari
-  Shabbir ne rotay hoye dastar utari
-  Hathoon ko utha kar yehi sheh kartay they noha Abbas ka lasha
+  Khaali nazar aai jonhi bhaai ki sawaari
+  Shabbir ne rote hue dastaar utaari
+  Haathoṅ ko utha kar yehi sheh karte the nauha Abbas ka laasha
 
   3
-  Sheh aate they lashay ki taraf hanstay they azlam
-  Ro ro ke kamar tham ke sheh kartay they matam
-  Maqtal mein laeeno ne tha nezon pe uthaya Abbas ka lasha
+  Sheh aate the laashe ki taraf hanste the azlam
+  Ro ro ke kamar thaam ke sheh karte the maatam
+  Maqtal mein lainoṅ ne tha nezoṅ pe uthaaya Abbas ka laasha
 
   4
-  Sheh lasha-e-abbas pe kehte they aye bhai
-  Ik bosay ki ja bhi nahi mujh ko nazar aayi
-  Sheh bosa kahan detey keh zakhmo se bhara tha Abbas ka lasha
+  Sheh laasha-e-Abbas pe kehte the ae bhaai
+  Ik bose ki jaa bhi nahiṅ mujh ko nazar aai
+  Sheh bosa kahaaṅ dete keh zakhmoṅ se bhara tha Abbas ka laasha
 
   5
-  Tum khud zara Abbas yeh batlao na mujh ko
-  Iss haal mein sheh khaimon mein le jaein jo tujh ko
-  Zindah rahe gi dekh ke kya Zainab-e-Kubra Abbas ka lasha
+  Tum khud zara Abbas yeh batlaao na mujh ko
+  Is haal mein sheh khaimoṅ mein le jaaeṅ jo tujh ko
+  Zinda rahe gi dekh ke kya Zainab-e-Kubra Abbas ka laasha
 
   6
-  Ik aankh mein haye teer they bazu bhi katay they
-  Sar gurz se zakhmi tha tu zanu bhi katay they
-  Mashkeza kahin par tha kahin bikhra para tha Abbas ka lasha
+  Ik aankh mein haaye tir the baazu bhi kate the
+  Sar gurz se zakhmi tha to zaanu bhi kate the
+  Mashkiza kahiṅ par tha kahiṅ bikhra para tha Abbas ka laasha
 
   7
-  Sheh chalte they aahista se qadmo ko uthate
-  Lasha nahi laya gaya tu khaimon tak aate
-  Mur mur ke udhar dekhtey jis simt para tha Abbas ka lasha
+  Sheh chalte the aahista se qadmoṅ ko uthaate
+  Laasha nahiṅ laaya gaya to khaimoṅ tak aate
+  Mur mur ke udhar dekhte jis simt para tha Abbas ka laasha
 
   8
-  Ro kar yeh Sakina ne kaha bibiyaan aaein
-  Maqtal alamdar ka hum lasha uthaein uthaein
-  Baba pe zaeefi hai ab unn se nahi uthta Abbas ka lasha
+  Ro kar yeh Sakina ne kaha bibiyaaṅ aaeṅ
+  Maqtal alamdaar ka hum laasha uthaaeṅ uthaaeṅ
+  Baaba pe zaifi hai ab un se nahiṅ uthta Abbas ka laasha
 
   9
-  Dafnane Asad lashon ko Sajjad jab aaye
-  Rotay rahe do hath katay seene lagaye
-  Dil tham ke Sajjad ne maqtal se samaita Abbas ka lasha
+  Dafnaane Asad laashoṅ ko Sajjad jab aae
+  Rote rahe do haath kate sine lagaaye
+  Dil thaam ke Sajjad ne maqtal se sameta Abbas ka laasha
 ---
 
 سر پیٹتے تھے دیکھ کے مظلومِ کربلا عباس کا لاشہ

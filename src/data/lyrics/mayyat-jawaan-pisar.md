@@ -24,12 +24,12 @@ romanLyrics: |-
 
   2
   Baaqi na bezubaaṅ hai na Akbar sa mah laqaa
-  Abbaas jaan wafaa hai na Qaasim sa dilruba
+  Abbaas jaan-e-wafaa hai na Qaasim sa dilrubaa
   Har haal meiṅ Husain ne shukr-e-Khuda kiya
   Peshaani hukm-e-haq pe jhukaai Husain ne
 
   3
-  Islaam par thi kufr ki chhaai hui ghata
+  Islaam par thi kufr ki chhaai hui ghataa
   Bechain thi lahad meiṅ udhar ruh-e-Mustafa
   Sar de ke apne shaah ne din ko bachaa liya
   Bujhti hui ye shama jalaai Husain ne

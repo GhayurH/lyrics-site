@@ -17,40 +17,40 @@ romanLyrics: |-
   Qaid meri guzar gayi bhaiyya
   Wo jo rassi thi mere haathoṅ meiṅ
   Dekho aakhir utar gayi bhaiyya
-  Qatl chupne nahi diya tera
+  Qatl chhupne nahiṅ diya tera
   Har jagah khun ka diya pursa
-  Tere maqtal se shaam e zindaṅ tak
+  Tere maqtal se shaam-e-zindaaṅ tak
   Khun meiṅ ho ke tar gayi bhaiyya
   Tera chehlum manaane...
   Ek naize pe tera sar tha aur
   Ek naize pe meri chaadar thi
-  Teri aankheiṅ to band thi par mai
+  Teri aankheṅ to band thiṅ par main
   Shaam tak nange sar gayi bhaiyya
   Tera chehlum manaane...
-  Wo jo asghar ke baad kehti thi
-  Ab mera aasra sakina hai
-  Kaise saaye meiṅ usko laauṅ mai
-  Ab sakina bhi mar gayi bhaiyya
+  Wo jo Asghar ke baad kehti thi
+  Ab mera aasra Sakina hai
+  Kaise saaye meiṅ us ko laauṅ main
+  Ab Sakina bhi mar gayi bhaiyya
   Tera chehlum manaane...
-  Rassiyaṅ to utar gayi hai magar
-  Baazuoṅ par nishan baaqi hai
-  Kaise zinda rahenge abdullah
-  Mai jo zakhmi hi ghar gayi bhaiyya
+  Rassiyaṅ to utar gayi haiṅ magar
+  Baazuoṅ par nishaan baaqi haiṅ
+  Kaise zinda raheṅge Abdullah
+  Main jo zakhmi hi ghar gayi bhaiyya
   Tera chehlum manaane...
-  Haye baba kuja ke bin chadar meri
+  Haaye baba kujaa ke bin chaadar meri
   Maa ne mujhe na dekha tha
-  Baad e ghazi ke ek shaam kahaṅ
+  Baad-e-Ghazi ke ek shaam kahaaṅ
   Har jagah nange sar gayi bhaiyya
   Tera chehlum manaane...
-  Kya hua agar ye behen aa na saki
-  Tera chaliswaṅ mana na saki
-  Dekh kar bhir pursadaron ki
-  Meri mehnat sawar gayi bhaiyya
+  Kya ho gar ye behen aa na saki
+  Tera chaaliswaaṅ mana na saki
+  Dekh kar bhir pursa daaroṅ ki
+  Meri mehnat sanwar gayi bhaiyya
   Tera chehlum manaane...
   Karbala kab wo rehne aayi hai
-  Sirf imran kehne aayi hai
-  Maiṅ ne dobara shaam jaana hai
-  Hashr tak mai bichar gayi bhaiyya
+  Sirf Imran kehne aayi hai
+  Main ne dobaara Shaam jaana hai
+  Hashr tak main bichhar gayi bhaiyya
   Tera chehlum manaane...
 ---
 

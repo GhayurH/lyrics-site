@@ -8,6 +8,37 @@ reciter: "Syed Sajid Hussain Jafry"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chal gai tegh Haidar ke sar par
+  Roza daaroṅ meiṅ maatam bapaa hai
+
+  1
+  Aaj jaate haiṅ duniya se Haidar
+
+  2
+  Aaj Kufe meiṅ hai aah o zaari
+  Maatami hai Ali ki dulaari
+  Aaj rote haiṅ Shabbir o Shabbar
+
+  3
+  Betiyaaṅ ro rahi haiṅ Ali ki
+  Haae aai qayaamat yeh kaisi
+  Ab nahiṅ baap ka saaya sar par
+
+  4
+  Yeh namaaz o azaaṅ ro rahe haiṅ
+  Gham meiṅ donoṅ jahaaṅ ro rahe haiṅ
+  Khuṅ meiṅ dube haiṅ mehraab o mimbar
+
+  5
+  Khuṅ bahta hai Haidar ke sar se
+  Aaj uthe ga taabut ghar se
+  Aaj badla hai kaisa muqaddar
+
+  6
+  Hai Zafar yeh Ali ka janaaza
+  Dil pe Zainab ke hai zakhm taaza
+  Kah rahe haiṅ azaadaar ro kar
 ---
 
 چل گئ تیغ حیدرؑ کے سر پر

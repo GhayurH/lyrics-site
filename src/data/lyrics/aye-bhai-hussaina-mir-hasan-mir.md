@@ -9,86 +9,57 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Aye Bhai Hussaina Mir Hasan Mir"
-romanLyrics: 'Aye Bhai Hussaina Mir Hasan Mir Lyrics
-
-  Bin Tere Na Aaram Kahin Paye Gi Behna.
-
+romanLyrics: |-
+  Bin tere na aaraam kahiṅ paaye gi behna
+  Ae bhai Husaina, ae bhai Husaina
 
   1
-
-  Ro Ro Ke Teri Yaad Mein Mar Jaye Gi Behna.
-
-  Ujray Hoye Kunbay Ko Sanbhalon Gi Main Bhai.
-
-  Har Haal Mein Abid Ko Banaon Gi Main Bhai.
-
-  Lab Par Koi Shikwa Na Kabhi Laye Gi Behna.
-
+  Ro ro ke teri yaad mein mar jaaye gi behna
 
   2
-
-  Tu Alam-e-Ghurbat Mein Akela Tha Akela.
-
-  Our Tha Tere Hathoon Pe Jawaan Betay Ka Lasha.
-
-  Manzar Woh Kabhi Bhi Na Bhula Paye Gi Behna.
-
-  Ghabraye Gi Zainab Jo Rida Sar Pe Na Ho Gi.
-
+  Ujre hue kunbe ko sanbhaaluṅ gi main bhai
+  Har haal mein Abid ko bachaauṅ gi main bhai
+  Lab par koi shikwa na kabhi laaye gi behna
 
   3
-
-  Mar Jaye Gi Zainab Jo Rida Sar Pe Na Ho Gi.
-
-  Bazar Mein Kis Tarha Bhala Jaye Gi Behna.
-
-  Bewaon Yateemo Ko Liye Bekas-o-Muztar.
-
-  Darbar-e-Yazeedi Mein Rasan Basta Khulay Sar.
-
+  Tu aalam-e-ghurbat mein akela tha akela
+  Aur tha tere haathoṅ pe jawaaṅ bete ka laasha
+  Manzar woh kabhi bhi na bhula paaye gi behna
 
   4
-
-  Jana Howa Youn Bhi Tu Na Ghabraye Gi Behna.
-
-  Zindan Mein Roi Jo Tere Gham Mein Sakina.
-
-  Dhondney Gi Jo Soney Ke Liye Baap Ka Seena.
-
-  Oss Bachi Ko Kis Tarha Se Behlaye Gi Behna.
-
+  Ghabraaye gi Zainab jo rida sar pe na ho gi
+  Mar jaaye gi Zainab jo rida sar pe na ho gi
+  Baazaar mein kis tarah bhala jaaye gi behna
 
   5
-
-  De De Ke Sadaein Tujhe Yeh Jaan Khoye Gi Zainab.
-
-  Tanhai Mein Ghut Ghut Ke Bohat Roye Gi Zainab.
-
-  Ghar Ja Ke Tujhe Jab Keh Nahi Paye Gi Behna.
-
-  Sughra Ne Jo Pocha Keh Kahan Hain Mere Bhaiyya.
-
+  Bewaaoṅ yatimoṅ ko liye bekas o muztar
+  Darbaar-e-Yazidi mein rasan basta khule sar
+  Jaana hua yuṅ bhi to na ghabraaye gi behna
 
   6
-
-  Batlao Phophi Amma Kahan Reh Gaye Baba.
-
-  Kya Ja Ke Bhala Sughra Ko Batlaye Gi Behna.
-
-  Be Goor-o-Kafan Lash Jahan Hai Teri Bhaiyya.
-
-  Abbas-e-Dilawar Ki Behan Karti Hai Wadah.
-
+  Zindaan mein roi jo tere gham mein Sakina
+  Dhunde gi jo sone ke liye baap ka sina
+  Us bachchi ko kis tarah se bahlaaye gi behna
 
   7
+  De de ke sadaaeṅ tujhe jaaṅ khoye gi Zainab
+  Tanhai mein ghut ghut ke bahut roye gi Zainab
+  Ghar ja ke tujhe jab keh nahiṅ paaye gi behna
 
-  Roza Tera Aa Kar Wahin Banwaye Gi Behna.
+  8
+  Sughra ne jo puchha ke kahaaṅ hai mere bhaiya
+  Batlaao phuphi ammaaṅ kahaaṅ rah gaye baaba
+  Kya ja ke bhala Sughra ko batlaaye gi behna
 
-  Gohar Yeh Kaha Our Woh Behan Khak Se Uthi.
+  9
+  Be gor o kafan laash jahaaṅ hai teri bhaiya
+  Abbaas-e-Dilaawar ki bahan karti hai waada
+  Roza tere aa kar wahi banwaaye gi behna
 
-  Bhaiyya Tere Qatil Ko Main Jeene Nahi Doon Gi.
-
-  Batil Ko Mita Kar Hi Yahan Aaye Gi Behna.'
+  10
+  Gohar yeh kaha aur woh bahan khaak se uthi
+  Bhaiya tere qaatil ko main jine nahiṅ duṅ gi
+  Baatil ko mita kar hi yahaaṅ aaye gi behna
 ---
 
 بن تیرے نہ آرام کہیں پاے گی بہنا

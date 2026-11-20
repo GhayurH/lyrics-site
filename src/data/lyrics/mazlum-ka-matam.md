@@ -13,42 +13,42 @@ romanLyrics: |-
   Mazlum ka matam hai mazlum ka matam
 
   1
-  Logoṅ ye tamasha nahi is rone pe hasna nahi
+  Logoṅ ye tamaasha nahiṅ is rone pe haṅsna nahiṅ
 
   2
-  Kya milta hai matam meiṅ kis tarha bataye
-  Mazlum ko rote hai mazlum jahaṅ meiṅ
-  Pathar nahi sine meiṅ dil hai to ye matam
+  Kya milta hai matam meiṅ kis tarah bataae
+  Mazlum ko rote haiṅ mazlum jahaaṅ meiṅ
+  Patthar nahiṅ sine meiṅ dil hai to ye matam
 
   3
-  Ghar fatema zehra ka kis tarha se ujra
-  Jab hogi qayamat to yuṅ aayengi zehra
-  Ek haat meiṅ do baazu ek haat meiṅ parcham
+  Ghar Fatema Zehra ka kis tarah se ujra
+  Jab hogi qayaamat to yuṅ aaengi Zehra
+  Ik haath meiṅ do baazu ik haath meiṅ parcham
 
   4
-  Jab pyare mohamed se mai pyar karunga
-  Phir us ke nawase ka matam bhi karunga
-  Jis ghar meiṅ mohamed hai us ghar ka ye matam
+  Jab pyaare Mohammad se maiṅ pyaar karuṅ ga
+  Phir us ke nawaase ka matam bhi karuṅ ga
+  Jis ghar meiṅ Mohammad hai us ghar ka ye matam
 
   5
-  Logoṅ nabi zaadi ka bazaroṅ meiṅ aana
-  Aur band ke rassi meiṅ darbaroṅ meiṅ laana
-  Is baat pe rote hai is dard ka matam
+  Logoṅ Nabi zaadi ka baazaaroṅ meiṅ aana
+  Aur baandh ke rassi meiṅ darbaaroṅ meiṅ laana
+  Is baat pe rote haiṅ is dard ka matam
 
   6
-  Zanjiroṅ meiṅ jakra hai shabbir ka beta
-  Maa behne khule sar thi khuṅ rota tha maula
-  Sajjaad se pucho to kiuṅ hai ye kamar kham
+  Zanjiroṅ meiṅ jakra hai Shabbir ka beta
+  Maaṅ behneṅ khule sar thi khuṅ rota tha Maula
+  Sajjaad se puchho to kiuṅ hai ye kamar kham
 
   7
-  Khat fatema sughra ka kis waqt mila hai
-  Jab bhai sina khaaye reti pe para hai
+  Khat Fatema Sughra ka kis waqt mila hai
+  Jab bhaai sinaaṅ khaae reti pe para hai
   Khat kaun parhe tera tanhaai ka aalam
 
   8
-  Rehaan ka sarwar ka bakshish ka waseela
-  Ye nauha ye matam hai ye farsh aza ka
-  Aur sar pe khula apne abbas ka parcham
+  Rehaan ka Sarwar ka bakhshish ka wasila
+  Ye nauha ye matam hai ye farsh-e-aza ka
+  Aur sar pe khula apne Abbas ka parcham
 ---
 
 مظلوم کا ماتم ہے مظلوم کا ماتم

@@ -1,74 +1,138 @@
 ---
-title: "Haal Wo Zainab Ne Socho Kasy Dekha Baap Ka Wajhi Hasan Zaidi"
+title: "حال وہ زینب نے سوچو کیسے دیکھا باپ کا"
+alternateTitle: "Haal Wo Zainab Ne Socho Kasy Dekha Baap Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jary"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haal wo Zainab ne socho kasy dekha baap ka
+  Khon mein bheega howa tha jab amama baap ka
+
+  1
+  Baap ki furqat mein giriya kartay kartay chal basi
+  Gham utha payi na shehzadi Khadija baap ka
+  Poch lo kitna rulata hai yateemo ko sada
+  Yaad aata hai yateemo ko jo chehra baap ka
+
+  2
+  Aa rahe hain gash jisay baba ko zakhmi dekh kar
+  Kis tarha dekhey gi woh Zainab janaza baap ka
+  Chom ke Zainab ossay roney lagi zaar-o-qatar
+  Jab diya Shabbar ne Zainab ko musalla baap ka
+
+  3
+  Murtaza ko noha madar ka sunaya umar bhar
+  Maa ki turbat par parha Zainab ne noha baap ka
+  Haal aisa baap ka dekhey na beti koi bhi
+  Zainab-o-Kulsoom ne jo haal dekha baap ka
+
+  4
+  Aaiye ahl-e-azza Zainab ko pursa dijiye
+  Uth gaya Zainab ke sar se aaj saya baap ka
+  Allah Allah yeh karimi, paish sharbat kar diya
+  Samne Abbas ke qatil jo aaya baap ka
+
+  5
+  Woh Madina bhi bhala kaisa Madina tha jahan
+  Gham mananay ko taras jati thi Zahra baap ka
+  Phir chaley aaein gay baba, bas issi umeed par
+  Rasta takti rahi Yasrab mein Sughra baap ka
+
+  6
+  Momino Yaqoob ke Yousuf se furqat ik taraf
+  Ik taraf Akbar ki maiyyat ko uthana baap ka
+  Apne kandhoon par utha laya jawaan betay ki lash
+  Hosla dekhey zara sara zamana baap ka
+
+  7
+  Sochiye aye momino sham-e-ghareebaan ka samaa
+  Dhondti thi dasht mein lasha Sakina baap ka
+  Tab kahin aayi samajh mujh ko yateemi ki tapish
+  Jis ghari sar se utha hai mere saya baap ka
+
+  8
+  Ho gaya andaza kitna kartay hain paidal safar
+  Jab nazar aaya mujhe paon ka chala baap ka
+  Dekh ke apne jawaan betay ki maiyyat dosto
+  Phat na jaye oss ghari gham se kaleja baap ka
+
+  9
+  Baap ke kandhoon pe main ne kamsini mein ki thi sair
+  Main ne kandhoon par uthaya hai janaza baap ka
+  Kaun jaye ga jaloos-e-Sheh mein, pocha baap ne
+  Oss ghari bachoon ne foran hath thama baap ka
+
+  10
+  Yak ba yak aankhein meri nam ho gayin aye dosto
+  Fateha mein naam jab main ne pukara baap ka
+  Hai yateman e Ali mein naam mera bhi Jary
+  Mujh ko seene se laga ke dijay pursa baap ka
 ---
 
-Haal Wo Zainab Ne Socho Kasy Dekha Baap Ka Wajhi Hasan Zaidi.
-Khon Mein Bheega Howa Tha Jab Amama Baap Ka.
+حال وہ زینب نے سوچو کیسے دیکھا باپ کا
+خون میں بھیگا ہوا تھا جب عمامہ باپ کا
 
-1
-Baap Ki Furqat Mein Giriya Kartay Kartay Chal Basi.
-Gham Utha Payi Na Shehzadi Khadija Baap Ka.
-Poch Lo Kitna Rulata Hai Yateemo Ko Sada.
-Yaad Aata Hai Yateemo Ko Jo Chehra Baap Ka.
+۱
+باپ کی فرقت میں گریہ کرتے کرتے چل بسی
+غم اٹھا پائی نہ شہزادی خدیجہ باپ کا
+پوچھ لو کتنا رلاتا ہے یتیموں کو سدا
+یاد آتا ہے یتیموں کو جو چہرہ باپ کا
 
-2
-Aa Rahe Hain Gash Jisay Baba Ko Zakhmi Dekh Kar.
-Kis Tarha Dekhey Gi Woh Zainab Janaza Baap Ka.
-Chom Ke Zainab Ossay Roney Lagi Zaar-o-Qatar.
-Jab Diya Shabbar Ne Zainab Ko Musalla Baap Ka.
+۲
+آ رہے ہیں غش جسے بابا کو زخمی دیکھ کر
+کس طرح دیکھے گی وہ زینب جنازہ باپ کا
+چوم کے زینب اسے رونے لگی زار و قطار
+جب دیا شبر نے زینب کو مصلّیٰ باپ کا
 
-3
-Murtaza Ko Noha Madar Ka Sunaya Umar Bhar.
-Maa Ki Turbat Par Parha Zainab Ne Noha Baap Ka.
-Haal Aisa Baap Ka Dekhey Na Beti Koi Bhi.
-Zainab-o-Kulsoom Ne Jo Haal Dekha Baap Ka.
+۳
+مرتضیٰ کو نوحہ مادر کا سنایا عمر بھر
+ماں کی تربت پر پڑھا زینب نے نوحہ باپ کا
+حال ایسا باپ کا دیکھے نہ بیٹی کوئی بھی
+زینب و کلثوم نے جو حال دیکھا باپ کا
 
-4
-Aaiye Ahl-e-Azza Zainab Ko Pursa Dijiye.
-Uth Gaya Zainab Ke Sar Se Aaj Saya Baap Ka.
-ALLAH ALLAH Yeh Karimi, Paish Sharbat Kar Diya.
-Samne Abbas Ke Qatil Jo Aaya Baap Ka.
+۴
+آئیے اہلِ عزا زینب کو پرسہ دیجیے
+اٹھ گیا زینب کے سر سے آج سایہ باپ کا
+اللہ اللہ یہ کریمی، پیش شربت کر دیا
+سامنے عباس کے قاتل جو آیا باپ کا
 
-5
-Woh Madina Bhi Bhala Kaisa Madina Tha Jahan.
-Gham Mananay Ko Taras Jati Thi Zahra Baap Ka.
-Phir Chaley Aaein Gay Baba, Bas Issi Umeed Par.
-Rasta Takti Rahi Yasrab Mein Sughra Baap Ka.
+۵
+وہ مدینہ بھی بھلا کیسا مدینہ تھا جہاں
+غم منانے کو ترس جاتی تھی زہرا باپ کا
+پھر چلے آئیں گے بابا، بس اسی امید پر
+راستہ تکتی رہی یثرب میں صغریٰ باپ کا
 
-6
-Momino Yaqoob Ke Yousuf Se Furqat Ik Taraf.
-Ik Taraf Akbar Ki Maiyyat Ko Uthana Baap Ka.
-Apne Kandhoon Par Utha Laya Jawaan Betay Ki Lash.
-Hosla Dekhey Zara Sara Zamana Baap Ka.
+۶
+مومنو یعقوب کے یوسف سے فرقت اک طرف
+اک طرف اکبر کی میت کو اٹھانا باپ کا
+اپنے کاندھوں پر اٹھا لایا جوان بیٹے کی لاش
+حوصلہ دیکھے ذرا سارا زمانہ باپ کا
 
-7
-Sochiye Aye Momino Sham-e-Ghareebaan Ka Samaa.
-Dhondti Thi Dasht Mein Lasha Sakina Baap Ka.
-Tab Kahin Aayi Samajh Mujh Ko Yateemi Ki Tapish.
-Jis Ghari Sar Se Utha Hai Mere Saya Baap Ka.
+۷
+سوچیے اے مومنو شامِ غریباں کا سماں
+ڈھونڈتی تھی دشت میں لاشہ سکینہ باپ کا
+تب کہیں آئی سمجھ مجھ کو یتیمی کی تپش
+جس گھڑی سر سے اٹھا ہے میرے سایہ باپ کا
 
-8
-Ho Gaya Andaza Kitna Kartay Hain Paidal Safar.
-Jab Nazar Aaya Mujhe Paon Ka Chala Baap Ka.
-Dekh Ke Apne Jawaan Betay Ki Maiyyat Dosto.
-Phat Na Jaye Oss Ghari Gham Se Kaleja Baap Ka.
+۸
+ہو گیا اندازہ کتنا کرتے ہیں پیدل سفر
+جب نظر آیا مجھے پاؤں کا چھالا باپ کا
+دیکھ کے اپنے جوان بیٹے کی میت دوستو
+پھٹ نہ جائے اس گھڑی غم سے کلیجہ باپ کا
 
-9
-Baap Ke Kandhoon Pe Main Ne Kamsini Mein Ki Thi Sair.
-Main Ne Kandhoon Par Uthaya Hai Janaza Baap Ka.
-Kaun Jaye Ga Jaloos-e-Sheh Mein, Pocha Baap Ne.
-Oss Ghari Bachoon Ne Foran Hath Thama Baap Ka.
+۹
+باپ کے کاندھوں پہ میں نے کم سنی میں کی تھی سیر
+میں نے کاندھوں پر اٹھایا ہے جنازہ باپ کا
+کون جائے گا جلوسِ شہ میں، پوچھا باپ نے
+اس گھڑی بچوں نے فوراً ہاتھ تھاما باپ کا
 
-10
-Yak Ba Yak Aankhein Meri Nam Ho Gayin Aye Dosto.
-Fateha Mein Naam Jab Main Ne Pukara Baap Ka.
-Hai Yateman e Ali Mein Naam Mera Bhi Jary.
-Mujh Ko Seene Se Laga Ke Dijay Pursa Baap Ka.
+۱۰
+یک بہ یک آنکھیں میری نم ہو گئیں اے دوستو
+فاتحہ میں نام جب میں نے پکارا باپ کا
+ہے یتیمانِ علی میں نام میرا بھی جری
+مجھ کو سینے سے لگا کے دیجے پرسہ باپ کا

@@ -7,6 +7,57 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Fatima ki qabr pe Bint-e-Ali hai nauha khwaaṅ
+  Maaṅ se beti keh rahi hai Karbala ki daastaaṅ
+
+  1
+  Yuṅ parhi farzand tere ne namaaz-e-aakhiri
+  Qibla ru sajde mein sar halqum par khanjar rawaaṅ
+
+  2
+  Ammi dastaar-e-yatimi yuṅ bandhi Sajjad ko
+  Beriyaaṅ paaoṅ mein aur gardan mein tha tauq-e-giraaṅ
+
+  3
+  Baad-e-qatl-e-Shaah-e-Din har su andhera chhaa gaya
+  Aandhiyaaṅ uthi faza mein khun roya aasmaaṅ
+
+  4
+  Kat gaye Ghazi ke baazu aur main takti rahi
+  Tir Asghar ke laga Akbar ke sine mein sinaaṅ
+
+  5
+  Jal gaye khaime saroṅ se chaadareṅ bhi chhin liṅ
+  Taaziyaane is qadar barse tha mahshar ka samaaṅ
+
+  6
+  Main ne khud baandhi sitam haathoṅ mein bhaabhi ke rasan
+  Kaash shaq hoti zamiṅ ya tut parta aasmaaṅ
+
+  7
+  Le chale sunsaaṅ raahoṅ se hamaara qaafila
+  Saamne manzil na koi aur manzil ka nishaaṅ
+
+  8
+  Dhakti chingaariyaaṅ thiṅ ya ke zarre ret ke
+  Is pe woh purkhaar raaheṅ tha barahna saarbaaṅ
+
+  9
+  Aansuoṅ mein khun ke pinhaaṅ tha sadma aur hi
+  Dahakte dil ki aag thi jis se nahiṅ uthta dhuaaṅ
+
+  10
+  God khaali hai har ik ki aur saroṅ mein khaak hai
+  Aa gaya lut ke gharoṅ mein Mustafa ka karwaaṅ
+
+  11
+  Thi phuphi se puchhti Sughra bataao kuchh mujhe
+  Kya hue Aun o Muhammad Qaasim o Akbar kahaaṅ
+
+  12
+  Gir pari ghash kar ke Zainab qabr pe maaṅ ki nisaar
+  Kab talak maaṅ ko sunaati woh sitam ki daastaaṅ
 ---
 
 فاطمہؑ کی قبر پہ بنت علؑی ھے نوحہ خواں

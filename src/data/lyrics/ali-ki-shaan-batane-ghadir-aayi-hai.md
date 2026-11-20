@@ -11,40 +11,40 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ali ki shaan batane Ghadir aayi hai
-  Munafiqoṅ ko jalane Ghadir aayi hai
-  Rasul kar do wo ailan jo farz hai tujh par
+  Ali ki shaan bataane Ghadir aayi hai
+  Munafiqoṅ ko jalaane Ghadir aayi hai
+  Rasul kar do wo ailaan jo farz hai tujh par
   Diya ye hukm Khuda ne Ghadir aayi hai
 
   1
   Hai aaj khatre meiṅ kaar-e-risalat-e-Mursal
-  Nabuwatoṅ ko bachane Ghadir aayi hai
-  Ali Wali ki wilayat ka ho gaya ailan
-  Wila ki khushiyaṅ manane Ghadir aayi hai
+  Nabuwwatoṅ ko bachaane Ghadir aayi hai
+  Ali Wali ki wilayat ka ho gaya ailaan
+  Wila ki khushiyaṅ manaane Ghadir aayi hai
 
   2
   Rasul Maula haiṅ jis ke haiṅ us ke Maula Ali
-  Samaṅ ye aaj dikhane Ghadir aayi hai
+  Samaaṅ ye aaj dikhaane Ghadir aayi hai
   Ali se ishq hai kis ko hai kis ko bughz-e-Ali
-  Naqab sab ke hatane Ghadir aayi hai
+  Naqaab sab ke hataane Ghadir aayi hai
 
   3
   Ye bole Qanbar o Miqdad Buzar o Salman
-  Khushi ke aaye zamane Ghadir aayi hai
+  Khushi ke aaye zamaane Ghadir aayi hai
   Kahiṅ pe aag giri to siyah chehre hue
-  Lo aaj un ko jalane Ghadir aayi hai
+  Lo aaj un ko jalaane Ghadir aayi hai
 
   4
   Bakhin bakhin to kaha par diloṅ pe tir lage
-  Qulub un ke dukhane Ghadir aayi hai
+  Qulub un ke dukhaane Ghadir aayi hai
   Mare bemaut kayi log sun ke hukm-e-Rasul
   Lapeta un ko qaza ne Ghadir aayi hai
 
   5
-  Ghadir walo piyo ishq-e-Murtaza ki sharab
-  Sharab-e-ishq pilane Ghadir aayi hai
-  Mujhe hai bazm-e-wila meiṅ Ae Danish-e-Abbas
-  Ali ke git sunane Ghadir aayi hai
+  Ghadir walo piyo ishq-e-Murtaza ki sharaab
+  Sharaab-e-ishq pilaane Ghadir aayi hai
+  Mujhe hai bazm-e-wila meiṅ ae Danish-e-Abbas
+  Ali ke git sunaane Ghadir aayi hai
 ---
 
 علی کی شان بتانے غدیر آئی ہے

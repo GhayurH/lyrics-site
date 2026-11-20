@@ -23,13 +23,13 @@ romanLyrics: |-
   Phir lut gaya tumhaara ghar baar Raza Maula
 
   2
-  Yasrab meiṅ teri behna karti hai yaad tujhko
+  Yasrab meiṅ teri behen karti hai yaad tujhko
   Bhai se ab mila de parwardigaar mujhko
   Ho na saka behen ko didaar Raza Maula
 
   3
   Ae mere laal keh kar wo pyaar se bulaana
-  Maathe ko chumna aur sine se bhi lagaana
+  Maathe chumna aur sine se bhi lagaana
   Yaad aayega Taqi ko tera pyaar Raza Maula
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   6
   Ae Fatema ke bete ye hai hamaara waada
-  Karte raheṅge tere qaatil pe hum tabbara
+  Karte raheṅge tere qaatil pe hum tabarra
   Rokegi ab na koi diwaar Raza Maula
 
   7

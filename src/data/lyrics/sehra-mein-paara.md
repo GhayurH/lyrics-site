@@ -46,11 +46,11 @@ romanLyrics: |-
 
   7
   Ya Rab mujhe utha le ab ji ke kya karuṅ maiṅ
-  Ik ghamzada dulhan ke hoṅtoṅ pe ye dua hai
+  Ik ghamzada dulhan ke hontoṅ pe ye dua hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   8
-  Jab tak hai zindagaani guzregi aansuoṅ meiṅ
+  Jab tak hai zindagaani guzre gi aansuoṅ meiṅ
   Dil ki zamiṅ pe aisa zakhmoṅ ka ghar basa hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 

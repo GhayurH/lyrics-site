@@ -19,32 +19,32 @@ romanLyrics: |-
 
   1
   Bataauṅ Shaam se saughaat-e-dard laayi huṅ
-  Maiṅ apne chehre pe sadiyoṅ ki gard laayi huṅ
+  Main apne chehre pe sadiyoṅ ki gard laayi huṅ
   Lahu Husain ka ammaaṅ bana hai khaak-e-shifa
 
   2
-  Bata rahi hai jo baaloṅ meiṅ dhul hai Bibi
+  Bata rahi hai jo baaloṅ mein dhul hai Bibi
   Ke khaak par Ali Asghar sa phul hai Bibi
   Tu raakh dhul ki Zainab lahad pe maaṅ ki dikha
 
   3
-  Lahu meiṅ duba ye kurta tere Husain ka hai
+  Lahu mein duba ye kurta tere Husain ka hai
   Lahu jo rota hai beta tere Husain ka hai
   Bichhaane aayi huṅ turbat pe teri farsh-e-aza
 
   4
   Do paara kar diya barchhi ne sina-e-Akbar
-  Na karne paayi huṅ maatam maiṅ us ke laashe par
+  Na karne paayi huṅ maatam main us ke laashe par
   Jawaab kya duṅ jo Akbar ko puchh le Sughra
 
   5
   Na Aun hai na Muhammad na Qaasim o Asghar
   Hai in ke baad lahad ki tarah hamaara ghar
-  Maiṅ ek laash huṅ ammaaṅ maiṅ ab kahaaṅ zinda
+  Main ek laash huṅ ammaaṅ main ab kahaaṅ zinda
 
   6
-  Maiṅ thak ke baithi jahaaṅ taaziyaane khaaye haiṅ
-  Ruke jo ashk to aada rulaane aaye haiṅ
+  Main thak ke baithi jahaaṅ taaziyaane khaaye haiṅ
+  Ruke jo ashk to aadaa rulaane aaye haiṅ
   Dikha dikha ke shahidoṅ ke sar rulaaya gaya
 
   7
@@ -55,12 +55,12 @@ romanLyrics: |-
   8
   Sakina saath gayi thi jo saath aa na saki
   Wo ghut ke mar gayi ammaaṅ rihaayi paa na saki
-  Maiṅ Shaam jaauṅ gi bachchi se hai mera waada
+  Main Shaam jaauṅ gi bachchi se hai mera waada
 
   9
   Laraz laraz gaya marqad Rasul zaadi ka
   Wo bain Zainab-e-muztar ke the Rehaan o Raza
-  Rihaayi paa ke watan meiṅ ye pehla tha pursa
+  Rihaayi paa ke watan mein ye pehla tha pursa
 ---
 رو کے فضہ نے کہا اے بی‌بی مدینہ آ گیا
 

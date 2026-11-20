@@ -13,10 +13,10 @@ published: true
 romanLyrics: |-
   Aashur ko maqtal meiṅ thi sada
   Hameiṅ raas na aayi Karb o Bala
-  Kehti thi bilak kar ek dukhiya
+  Kehti thi bilak kar ik dukhiya
 
   1
-  Ae paalne waale mujhko bata
+  Ae paalne waale mujh ko bata
   Zaanu pe sar hai bete ka
   Jise pis ke chakki paala tha
   Jibril ne jhula jhulaaya tha
@@ -36,28 +36,28 @@ romanLyrics: |-
   Jab tir laga Asghar ne kaha
   Jab gurz laga Ghaazi ne kaha
   Taqsim hue Qasim ne kaha
-  Ek baat rulaati hai aaqa
+  Ik baat rulaati hai aaqa
   Maaṅ behneṅ hoṅgi beparda
 
   4
   Ghere hue fauj-e-baatil hai
   Baba sine par qaatil hai
-  Ye zulm ki kaunsi manzil hai
-  Ek maaṅ pe kitni mushkil hai
+  Ye zulm ki kaun si manzil hai
+  Ik maaṅ pe kitni mushkil hai
   Ye beta aap hi ka dil hai
   Jise dekh ke rota saahil hai
 
   5
   Ye arsh-e-Bari se aayi sada
   Ae mere pyaase laut ke aa
-  Raazi hai tujhse tera khuda
+  Raazi hai tujh se tera khuda
   Waada jo kiya tha pura hua
   Phir Shimr ke khanjar ne ye kaha
-  Maiṅ haara jita sabr tera
+  Main haara jita sabr tera
 
   6
   Ae Bibi Mohsin ki hai dua
-  Zinda rahe matamdaar sada
+  Zinda rahe maatam daar sada
   Aur hota rahe nauha tera
   Nazroṅ meiṅ rahe bas Karb o Bala
   Bachpan se hameiṅ ye dars mila

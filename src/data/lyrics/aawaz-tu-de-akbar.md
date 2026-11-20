@@ -43,7 +43,7 @@ romanLyrics: |-
   Barchhi se bas kaleja, tera nahiṅ chhida hai
   Maqtal mein Fatima ne dil apna thaam liya hai
   Bhaai Hasan, nana Nabi, baba Ali, dadi teri
-  Maujud hain sab hi idhar
+  Maujud haiṅ sab hi idhar
 
   6
   Kaise bayaaṅ karuṅ main, woh dardnaak manzar
@@ -52,8 +52,8 @@ romanLyrics: |-
   Rakh kar kaha zaanuṅ sar
 
   7
-  Laashe ke dono jaanib, baithiṅ hain maaeṅ donoṅ
-  Sine pe bose de kar leti hain balaaeṅ donoṅ
+  Laashe ke dono jaanib, baithiṅ haiṅ maaeṅ donoṅ
+  Sine pe bose de kar leti haiṅ balaaeṅ donoṅ
   Zainab idhar Laila udhar, chumeṅ tera zakhmi jigar
   In se to koi baat kar
 

@@ -12,9 +12,9 @@ aliases: ["Tajdar-e-Qalab-o-Jaan Behr-e-Sakha Abbas Hai"]
 published: true
 romanLyrics: |-
   1
-  Paasdaar-e-fateh-e-arz o sama Abbas hai
+  Paasdaar-e-fath-e-arz o samaa Abbas hai
   Kiuṅ na ho maqbul is ka naam khaas o aam meiṅ
-  Haidar o Hasnain o Zahra ki dua Abbas hai
+  Haidar o Hasnain o Zahra ki duaa Abbas hai
 ---
 ۱
 پاسدارِ فتحِ ارض و سما عباس ہے

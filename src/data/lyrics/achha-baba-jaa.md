@@ -20,56 +20,56 @@ romanLyrics: |-
   1
   Sakht garmi ka safar hai aur ye nanhi si jaan
   Phul sa Asghar mera murjha na jaae Baba jaaṅ
-  Aap ke hujre meiṅ Jannat ki hawa ka hai guzar
-  Maiṅ wahiṅ souṅ gi Baba is ko le kar raat ko
+  Aap ke hujre mein Jannat ki hawa ka hai guzar
+  Main wahiṅ souṅ gi Baba is ko le kar raat ko
 
   2
-  Maiṅ bina Akbar ke ji na paauṅ gi Baba magar
-  Dil behal jaae ga Asghar ko humakta dekh kar
-  Ye bhara ghar ho ga jo wiraan mar jaauṅ gi maiṅ
+  Main bina Akbar ke ji na paauṅ gi Baba magar
+  Dil behal jaae ga Asghar ko humaktaa dekh kar
+  Ye bhara ghar ho ga jo wiraan mar jaauṅ gi main
   Zinda rehne ka mere koi bahaana bhi to ho
 
   3
   Saath apne loriyaaṅ de kar sulaauṅ gi ise
-  Sayyeda ki maiṅ kahaani khud sunaauṅ gi ise
+  Sayyeda ki main kahaani khud sunaauṅ gi ise
   Dekh kar Asghar ka chehra chain aae ga mujhe
-  Is ke chehre meiṅ shabaahat aap ki aati hai jo
+  Is ke chehre mein shabaahat aap ki aati hai jo
 
   4
   Haath mere sar pe rakh ke kaun de ga ab dua
   Tum na ho ge Baba na Akbar na Abid chacha
-  Jaa rahi hai maaṅ behan phuphiyaaṅ sabhi muṅh mor ke
-  Maiṅ bhare ghar ki huṅ aadi kya karuṅ Baba kaho
+  Jaa rahi hai maaṅ behan phuphiyaaṅ sabhi munh mor ke
+  Main bhare ghar ki huṅ aadi kya karuṅ Baba kaho
 
   5
-  Baba Akbar se maiṅ kehti hi rahi kab aao ge
-  Sar jhukaae wo khara tha ashk aankhoṅ meiṅ liye
+  Baba Akbar se main kehti hi rahi kab aao ge
+  Sar jhukaae wo kharaa tha ashk aankhoṅ mein liye
   Yaad jab waada dilaaya ro ke wo kehne laga
-  Jald aauṅ ga behan maiṅ dam raha sine meiṅ to
+  Jald aauṅ ga behan main dam raha sine mein to
 
   6
   Jald bulwaana mere Baba Madine se mujhe
-  Bhai ka sehra banaauṅ gi maiṅ apne haath se
+  Bhaai ka sehra banaauṅ gi main apne haath se
   Husn mere bhaaiyoṅ ka dekhe ga saara jahaaṅ
   Dulha jab Akbar sa ho Asghar sa shah baala bhi ho
 
   7
   Muskuraata hai mera Asghar Sakina ki tarah
-  Wo chali jaae gi to kaise jaauṅ gi maiṅ bhala
+  Wo chali jaae gi to kaise jaauṅ gi main bhala
   Yaad aae gi Sakina ki to dekhuṅ gi ise
-  Dil sukun paae ga kaise ghar meiṅ jab koi na ho
+  Dil sukun paae ga kaise ghar mein jab koi na ho
 
   8
   Halq ko Asghar ke Baba chumte ho jab kabhi
   Yuṅ tarap jaate ho jaise zakhm dekha ho koi
   Muskuraata hai jo Asghar ro diya karte ho tum
-  Muskuraane meiṅ chhupa hai raaz kya is ke kaho
+  Muskuraane mein chhupa hai raaz kya is ke kaho
 
   9
   Jab Samar aae haram dekha Raza Sughra ne kya
-  Maaṅ ki godi meiṅ nahiṅ Asghar hai kurta khuṅ bhara
+  Maaṅ ki godi mein nahiṅ Asghar hai kurta khuṅ bhara
   Lakriyaaṅ jhule ki sine se lagaae hai Rubab
-  Keh rahe haiṅ ro ke Abid dhup se Amma utho
+  Keh rahe haiṅ ro ke Abid dhup se Ammaaṅ utho
 ---
 آخری رخصت کو آئے جب شہ کربوبلا
 جوڑ کے ہاتھوں کو صغرا نے یہ بابا سے کہا

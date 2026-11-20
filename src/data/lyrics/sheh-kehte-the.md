@@ -10,71 +10,71 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh kehte the kis moo se mai ab qaime meiṅ jaauṅ
-  Asghar mai tujhe kaise teri maa se milauṅ
+  Sheh kehte the kis muṅh se main ab khaime meiṅ jaauṅ
+  Asghar main tujhe kaise teri maa se milauṅ
 
   1
-  Halaat mere saath nahi karbobala ke
-  Kab tak me rakhuṅ tujhko yuṅ sine se laga ke
-  Gar tujhko chupauṅ bhi mai daaman meiṅ aba ke
-  Dekhegi teri maa tujhe nazdeeq se aa ke
+  Halaat mere saath nahiṅ Karb o Bala ke
+  Kab tak main rakhuṅ tujhko yuṅ sine se laga ke
+  Gar tujhko chupauṅ bhi main daaman meiṅ aba ke
+  Dekhegi teri maa tujhe nazdik se aa ke
   Kis sheh se bata de ke tera zakhm chupauṅ
 
   2
   Ae nur ke paikar meri aankhoṅ ke ujaale
-  Qurban mai tujhpe ae mere hasliyoṅ waale
+  Qurban main tujh pe ae mere hansliyoṅ waale
   Bas itna bata de ae mere naazoṅ ke paale
-  Kis tarha karuṅ tujhko mai mitti ke hawale
-  Kin haathoṅ se asghar mai teri qabr banauṅ
+  Kis tarah karuṅ tujhko main mitti ke hawale
+  Kin haathoṅ se Asghar main teri qabr banauṅ
 
   3
-  Kis mor pe le aayi hai kismat mujhe beta
-  Jaati hai nazar tujhpe to phat'ta hai kaleja
-  Afsos tujhe ghusl o kafan de nahi sakta
+  Kis mor pe le aayi hai qismat mujhe beta
+  Jaati hai nazar tujh pe to phatta hai kaleja
+  Afsos tujhe ghusl o kafan de nahiṅ sakta
   Is baat ka daadi se na karna koi shikwa
-  Kya mujhpe guzrti hai tujhe kaise batauṅ
+  Kya mujh pe guzarti hai tujhe kaise batauṅ
 
   4
   Aur is se bari kya hai mere sabr ki tafsir
-  Khud pe mujhe rone nahi deti meri taqdir
-  Qurban mai tujhpe e mere asghar e baysheer
-  Hai waada e tifli ke mere paoṅ meiṅ zanjir
-  Qaimon ki taraf kaise qadam apne barhauṅ
+  Khud pe mujhe rone nahiṅ deti meri taqdir
+  Qurban main tujh pe ae mere Asghar be shir
+  Hai waada-e-tifli ke mere paaṅv meiṅ zanjir
+  Khaimoṅ ki taraf kaise qadam apne barhauṅ
 
   5
   Hoti hai har ek baap ke dil meiṅ ye tamanna
   Ho jaaye jawaaṅ dekhte hi dekhte beta
-  Jab jab bhi nazar aaya kabhi chand sa chehra
+  Jab jab bhi nazar aaya kabhi chaand sa chehra
   Chehre pe nazar aaya tamannaoṅ ka sehra
-  Mannat mai teri koi bhala kaise barhauṅ
+  Mannat main teri koi bhala kaise barhauṅ
 
   6
-  Kin aankhoṅ se dekhuṅ mai tabaahi ka ye manzar
-  Ek din meiṅ mera hogaya taaraaj bhara ghar
+  Kin aankhoṅ se dekhuṅ main tabaahi ka ye manzar
+  Ik din meiṅ mera ho gaya taaraaj bhara ghar
   Jhulse na badan tera sataata hai mujhe darr
-  Kis tarha litauṅ mai tujhe garm zamiṅ par
-  Sine se lagauṅ bhi to kab tak mai lagauṅ
+  Kis tarah litauṅ main tujhe garm zamiṅ par
+  Sine se lagauṅ bhi to kab tak main lagauṅ
 
   7
   Jis waqt se chehre pe lahu tera mala hai
   Ye kaise batauṅ tujhe kya haal mera hai
   Gham tera mere laal har ek gham se bara hai
-  Is din ka har ek gham meri kismat meiṅ likha hai
-  Hai kaun madad ke liye mai kis ko bulauṅ
+  Is din ka har ek gham meri qismat meiṅ likha hai
+  Hai kaun madad ke liye main kis ko bulauṅ
 
   8
-  Mai dekh raha hoo ke qayamat ke hai aasaar
-  Haste hai mere rone pe bayyat ke talabgaar
-  Is umr ke bachoṅ se to karte hai sabhi pyaar
+  Main dekh raha huṅ ke qayamat ke haiṅ aasaar
+  Hanste haiṅ mere rone pe baiat ke talabgaar
+  Is umr ke bachchoṅ se to karte haiṅ sabhi pyaar
   Go apna koi khaas ho ya phir koi aghyaar
-  Beta teri khamoshi pe qurban mai jaauṅ
+  Beta teri khaamoshi pe qurban main jaauṅ
 
   9
-  Asif shahe mazlum ka reh reh ke tarapna
-  Tarpaata hai ek baap ka bete se lipatna
-  Aamir hameiṅ din raat rulayega ye jumla
-  Asghar ye bata de mujhe mai kya karuṅ beta
-  Mai pichhe hatuṅ ya ke qadam aage barhauṅ
+  Asif shah-e-mazlum ka reh reh ke tarapna
+  Tarpaata hai ik baap ka bete se lipatna
+  Aamir hameiṅ din raat rulaayega ye jumla
+  Asghar ye bata de mujhe main kya karuṅ beta
+  Main pichhe hatuṅ ya ke qadam aage barhauṅ
 ---
 
 شہ کہتے تھے کس منہ سے میں اب خیمے میں جاؤں

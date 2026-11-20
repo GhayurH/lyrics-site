@@ -1,32 +1,54 @@
 ---
-title: "Khudai Kaam Chalaye Imam Baqir Ne"
+title: "خدائی کام چلائے امام باقر نے"
+alternateTitle: "Khudai Kaam Chalaye Imam Baqir Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khudai kaam chalaye Imam Baqir ne
+  Sikhayi midhat-e-Khair-al-Inam Baqir ne
+
+  1
+  Umoor aisay nibhaye hain baad Abid ke
+  Khuda ke deen ko bakhsha dawaam Baqir ne
+  Ossi ko le ke chaley they Imam-e-Sadiq bhi
+  Bata diya tha jo unn ko nizam Baqir ne
+
+  2
+  Kaha jo main ne Musayab mein al-madad Maula
+  Tu door kar diye ranj-o-alam Baqir ne
+  Banaya mujh ko sukhnwar bhi our ashiq bhi
+  Barha diya hai youn mera moqam Baqir ne
+
+  3
+  Na ho ga khof koi phir baroz-e-mehshar ka
+  Jo keh diya mujhe apna ghulam Baqir ne
+  Karon mein kyun na muqaddar pe rashk aye Hasnain
+  Atta kiya hai mujhe yeh kalam Baqir ne
 ---
 
-Khudai Kaam Chalaye Imam Baqir Ne.
-Sikhayi Midhat-e-Khair-Al-Inam Baqir Ne.
+خدائی کام چلائے امام باقر نے
+سکھائی مدحتِ خیر الانام باقر نے
 
-1
-Umoor Aisay Nibhaye Hain Baad Abid Ke.
-Khuda Ke Deen Ko Bakhsha Dawaam Baqir Ne.
-Ossi Ko Le Ke Chaley They Imam-e-Sadiq Bhi.
-Bata Diya Tha Jo Unn Ko Nizam Baqir Ne.
+۱
+امور ایسے نبھائے ہیں بعد عابد کے
+خدا کے دین کو بخشا دوام باقر نے
+اسی کو لے کے چلے تھے امامِ صادق بھی
+بتا دیا تھا جو ان کو نظام باقر نے
 
-2
-Kaha Jo Main Ne Musayab Mein Al-Madad Maula.
-Tu Door Kar Diye Ranj-o-Alam Baqir Ne.
-Banaya Mujh Ko Sukhnwar Bhi Our Ashiq Bhi.
-Barha Diya Hai Youn Mera Moqam Baqir Ne.
+۲
+کہا جو میں نے مسیب میں المدد مولا
+تو دور کر دیے رنج و الم باقر نے
+بنایا مجھ کو سخنور بھی اور عاشق بھی
+بڑھا دیا ہے یوں میرا مقام باقر نے
 
-3
-Na Ho Ga Khof Koi Phir Baroz-e-Mehshar Ka.
-Jo Keh Diya Mujhe Apna Ghulam Baqir Ne.
-Karon Mein Kyun Na Muqaddar Pe Rashk Aye Hasnain.
-Atta Kiya Hai Mujhe Yeh Kalam Baqir Ne
+۳
+نہ ہو گا خوف کوئی پھر بروزِ محشر کا
+جو کہہ دیا مجھے اپنا غلام باقر نے
+کروں میں کیوں نہ مقدر پہ رشک اے حسنین
+عطا کیا ہے مجھے یہ کلام باقر نے

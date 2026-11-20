@@ -12,28 +12,28 @@ tags: []
 aliases: ["Tera Lahoo Rayegan"]
 published: true
 romanLyrics: |-
-  Husain tera lahu raaigaaṅ na jaayega
-  Behen ka waada hai ye rang zarur laayega
+  Husain tera lahu raaigaaṅ na jaaye ga
+  Behen ka waada hai rang zarur laaye ga
 
   1
   Har ek zabaaṅ pe tera zikr-e-paak hi hoga
-  Jahaaṅ meiṅ dekhna ek waqt wo bhi aayega
+  Jahaaṅ mein dekhna ek waqt wo bhi aaye ga
 
   2
-  Tujhe zamaane meiṅ apne paraaye royeṅge
-  Sajjad teri wo mazlumiyat bataayega
+  Tujhe zamaane mein apne paraaye royeṅ ge
+  Sajjad teri wo mazlumiyat bataaye ga
 
   3
   Sada gharibi ki tanha hi jab tu deta raha
-  Mujhe to tera wo manzar bahut rulaayega
+  Mujhe to tera wo manzar bahut rulaaye ga
 
   4
-  Na benamaazi kahega tujhe koi bhi Husain
-  Na tujh pe baaghi ki tohmat koi lagaayega
+  Na benamaazi kahe ga tujhe koi bhi Husain
+  Na tujh pe baaghi ki tohmat koi lagaaye ga
 
   5
-  Sajjad zinda rahega jahaaṅ meiṅ jab tak
-  Amir aaṅsu lahu ke hi wo bahaayega
+  Sajjad zinda rahe ga jahaaṅ mein jab tak
+  Amir aansu lahu ke hi wo bahaaye ga
 ---
 حسین تیرا لہو رائیگاں نہ جائے گا
 بہن کا وعدہ ہے رنگ ضرور لائے گا

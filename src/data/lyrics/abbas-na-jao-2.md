@@ -11,64 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab ran ko chale khaime se Abbas-e-dilawar
+  Jab ran ko chale khaime se Abbas dilaawar
   Sab bibiyaaṅ lipti thiṅ sambhaale hue chaadar
   Haathoṅ se kamar thaam ke paas aaye jo Sarwar
   Bosa liya Abbas ke shaanoṅ ka ye keh kar
-  Tum jaisa baraadar maiṅ kahaaṅ paauṅ ga bhaai
+  Tum jaisa baraadar main kahaaṅ paauṅ ga bhaai
   Tum laut ke na aaye to mar jaauṅ ga bhaai
   Sine se laga kar Sheh ne kaha Abbas na jaao ruk jaao
   Ae bhaai na jaao ruk jaao
   Koi bhi nahiṅ hai ab mera Abbas na jaao ruk jaao
 
   2
-  Bolo to Sakina ko maiṅ samjhaa duṅ ga Abbas
-  Mashkiza mujhe de do maiṅ lautaa duṅ ga Abbas
+  Bolo to Sakina ko main samjhaa duṅ ga Abbas
+  Mashkiza mujhe de do main lautaa duṅ ga Abbas
   Shikwa na kare gi paani ka
   Rakh de gi wo haathoṅ se kuza
   Wo kehna nahiṅ taale gi mera
 
   3
-  Thehro ke tumheṅ de luṅ maiṅ jine ki duaaeṅ
+  Thehro ke tumheṅ de luṅ main jine ki duaaeṅ
   Tum mar gaye to kaun bachaaye ga ridaaeṅ
   Dhaaras hai tumhiṅ se Zainab ko
   Jaa jaa ke bataati hai sab ko
   Zinda hai abhi Ghazi mera
 
   4
-  Maidaan meiṅ kaise maiṅ tumheṅ jaane duṅ bolo
+  Maidaan mein kaise main tumheṅ jaane duṅ bolo
   Akbar ki tarah paala hai is bhaai ne tum ko
   Jo ran ko gaya wo na aaya
   Tum bhi na agar aaye bhaiya
-  Maiṅ kaise uthaauṅ ga laasha
+  Main kaise uthaauṅ ga laasha
 
   5
   Rukte hi na the Zainab o Kulsum ke aansu
   Jab Sheh ne kaha chum ke Abbas ke baazu
   Ye shaane qalam na ho jaaeṅ
-  Be aasra ham na ho jaaeṅ
+  Be aasraa ham na ho jaaeṅ
   Ye baazu sahaara haiṅ sab ka
 
   6
-  Wo Kufa wo zarbat maiṅ kahaaṅ bhulaa huṅ Abbas
+  Wo Kufa wo zarbat main kahaaṅ bhulaa huṅ Abbas
   Tum aakhri Baba ki nishaani ho mere paas
   Yaad aati hai jab bhi Baba ki
-  Maiṅ dekhta huṅ tum ko Ghazi
+  Main dekhta huṅ tum ko Ghazi
   Zakhmi na ho Baba ka chehra
 
   7
-  Behneṅ na mere saath agar hotiṅ Alamdar
-  Khud tum ko laraai ke liye karta maiṅ tayyaar
+  Behneṅ na mere saath agar hotiṅ Alamdaar
+  Khud tum ko laraai ke liye karta main tayyaar
   Yaaṅ waar karo ge tum jitne
   Har waar ka teri behnoṅ se
-  Bazaar meiṅ leṅ ge wo badla
+  Bazaar mein leṅ ge wo badla
 
   8
   Zishan o Raza kaisa tha rukhsat ka wo manzar
   Bhaai ke qadam chum ke mashkiza utha kar
   Abbas jo khaimoṅ se nikle
   Girti thiṅ ridaaeṅ khud sar se
-  Aur kehte rahe Shah-e-Waala
+  Aur kehte rahe Shah Waala
 ---
 
 ۱

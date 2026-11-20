@@ -1,35 +1,61 @@
 ---
-title: "Mara Hai Musallay Pe Muhammad Ke Akhi Ko"
+title: "مارا ہے مصلّے پہ محمد کے اخی کو"
+alternateTitle: "Mara Hai Musallay Pe Muhammad Ke Akhi Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mara hai musallay pe Muhammad ke akhi ko
+  Tarpaya gaya Kofay mein aoulad e Nabi ko
+  Barbad kiya Fatima Zahra ko dobarah
+  Phir chena gaya Aal-e-Muhammad ka sahara
+  Tarpaya gaya qabar mein phir Bint-e-Nabi ko
+  Beton ka sahara liye ghar aate hain Maula
+  Kyun betiyon ke samne ghabratay hain Maula
+  Kya ho gaya hai fatah-e-Khaibar se qavi ko
+  Zakhmi hai bohat Zainab-o-Kulsoom ka baba
+  Mazloom bohat hai Sheh-e-Mazloom ka baba
+  Ummat ne sataya hai rulaya hai Ali ko
+  Rotay hain Ali Zainab-o-Kulsoom ki khatir
+  Be pardagi e itrat-e-masoom ki khatir
+  Haan sochtay hain Sham ke bazar-o-ghali ko
+  Dam toor diya Haider-e-Karrar Ali ne
+  Insaniyat ke monis-o-gham khawar Ali ne
+  Haye jahan ne kho diya Haider se wali ko
+  Abbas ka dil khon howa jata hai phat kar
+  Gash kha rahi hain Zainab-o-Kulsoom barabar
+  Kis tarha se dekhey bhala behno ki gashi ko
+  Ikeeswin Ramzan ka manzar hi juda hai
+  Ik farsh-e-azza aaj jahan bhar mein bicha hai
+  Sadma hai bohat:Ahmad e Timsaal: sabhi ko
 ---
 
-1
-Mara Hai Musallay Pe Muhammad Ke Akhi Ko.
-Tarpaya Gaya Kofay Mein Aoulad e Nabi Ko.
-Barbad Kiya Fatima Zahra Ko Dobarah.
-Phir Chena Gaya Aal-e-Muhammad Ka Sahara.
-Tarpaya Gaya Qabar Mein Phir Bint-e-Nabi Ko.
-Beton Ka Sahara Liye Ghar Aate Hain Maula.
-Kyun Betiyon Ke Samne Ghabratay Hain Maula.
-Kya Ho Gaya Hai Fatah-e-Khaibar Se Qavi Ko.
-Zakhmi Hai Bohat Zainab-o-Kulsoom Ka Baba.
-Mazloom Bohat Hai Sheh-e-Mazloom Ka Baba.
-Ummat Ne Sataya Hai Rulaya Hai Ali Ko.
-Rotay Hain Ali Zainab-o-Kulsoom Ki Khatir.
-Be Pardagi e Itrat-e-Masoom Ki Khatir.
-Haan Sochtay Hain Sham Ke Bazar-o-Ghali Ko.
-Dam Toor Diya Haider-e-Karrar Ali Ne.
-Insaniyat Ke Monis-o-Gham Khawar Ali Ne.
-Haye Jahan Ne Kho Diya Haider Se Wali Ko.
-Abbas Ka Dil Khon Howa Jata Hai Phat Kar.
-Gash Kha Rahi Hain Zainab-o-Kulsoom Barabar.
-Kis Tarha Se Dekhey Bhala Behno Ki Gashi Ko.
-Ikeeswin Ramzan Ka Manzar Hi Juda Hai.
-Ik Farsh-e-Azza Aaj Jahan Bhar Mein Bicha Hai.
-Sadma Hai Bohat:AHMAD e TIMSAAL: Sabhi Ko.
+۱
+مارا ہے مصلّے پہ محمد کے اخی کو
+تڑپایا گیا کوفے میں اولادِ نبی کو
+برباد کیا فاطمہ زہرا کو دوبارہ
+پھر چھینا گیا آلِ محمد کا سہارا
+تڑپایا گیا قبر میں پھر بنتِ نبی کو
+بیٹوں کا سہارا لیے گھر آتے ہیں مولا
+کیوں بیٹیوں کے سامنے گھبراتے ہیں مولا
+کیا ہو گیا ہے فتحِ خیبر سے قوی کو
+زخمی ہے بہت زینب و کلثوم کا بابا
+مظلوم بہت ہے شہِ مظلوم کا بابا
+امت نے ستایا ہے رلایا ہے علی کو
+روتے ہیں علی زینب و کلثوم کی خاطر
+بے پردگیِ عترتِ معصوم کی خاطر
+ہاں سوچتے ہیں شام کے بازار و گلی کو
+دم توڑ دیا حیدرِ کرار علی نے
+انسانیت کے مونس و غم خوار علی نے
+ہائے جہاں نے کھو دیا حیدر سے ولی کو
+عباس کا دل خون ہوا جاتا ہے پھٹ کر
+غش کھا رہی ہیں زینب و کلثوم برابر
+کس طرح سے دیکھے بھلا بہنوں کی غشی کو
+اکیسویں رمضان کا منظر ہی جدا ہے
+اک فرشِ عزا آج جہاں بھر میں بچھا ہے
+صدمہ ہے بہت، احمدِ تمثال، سبھی کو

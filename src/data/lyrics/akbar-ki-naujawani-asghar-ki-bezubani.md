@@ -9,32 +9,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar ki naujawani asghar ki bezubani
+  Akbar ki naujawaani Asghar ki bezubaani
 
   1
-  Ek gham ki daastaṅ hai ek dard ki kahani
-  Pabandiya hazaro aayad kare zamana
-  Roke na ruk sakegi askhon ki ye rawani
+  Ik gham ki daastaaṅ hai ik dard ki kahaani
+  Paabandiyaaṅ hazaaroṅ aaid kare zamaana
+  Roke na ruk sakegi ashkoṅ ki ye rawaani
 
   2
-  Bekaar koshishe hai matam ko rokne ki
-  Matam sada rahega ye gham hai kya ledani
+  Bekaar koshisheṅ haiṅ maatam ko rokne ki
+  Maatam sadaa rahega ye gham hai lidaani
 
   3
-  Har waaqeya hai jiska duba hua lahu may
-  Dunya bhula sakegi kis tarha wo kahani
+  Har waaqia hai jis ka duba hua lahu meiṅ
+  Duniya bhula sakegi kis tarah wo kahaani
 
   4
-  Le kar chale hai sarwar asghar ko ran ki jaanib
-  Shayad pilaade koi do ghunt isko pani
+  Le kar chale haiṅ Sarwar Asghar ko ran ki jaanib
+  Shaayad pila de koi do ghunt is ko paani
 
   5
-  Dam tod te hai akbar ran may tarap tarap kar
-  Parwaan chad rahi islam ki jawani
+  Dam torti hai Akbar ran meiṅ tarap tarap kar
+  Parwaan charh rahi hai Islaam ki jawaani
 
   6
-  Bole Husain ya rab jaata hai ab wo marne
-  Husn o shabab may jo ahmed ki hai nishani
+  Bole Husain ya Rab jaata hai ab wo marne
+  Husn o shabaab meiṅ jo Ahmad ki hai nishaani
 ---
 
 اکبرؑ کی نوجوانی اصغرؑ کی بے زبانی

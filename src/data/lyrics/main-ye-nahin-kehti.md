@@ -13,31 +13,31 @@ aliases: []
 published: true
 romanLyrics: |-
   Ghar se jaane lage Shabbir to Sughra ne kaha
-  Le chalo mujh ko bhi bimaar tumheṅ degi dua
-  Ho jaana khafa raah meiṅ gar royegi Sughra
-  Yaaṅ nind kab aati hai jo wahaaṅ soyegi Sughra
+  Le chalo mujh ko bhi bimaar tumheṅ de gi dua
+  Ho jaana khafa raah mein gar roye gi Sughra
+  Yaaṅ nind kab aati hai jo wahaaṅ soye gi Sughra
   Baba baba
   Tanhaai saza hai mujhe aisi na saza do
 
-  Maiṅ ye nahiṅ kehti ke amaari meiṅ bitha do
+  Main ye nahiṅ kehti ke amaari mein bithaa do
   Baba baba
-  Baba mujhe Fizza ki sawaari meiṅ bitha do
+  Baba mujhe Fizza ki sawaari mein bithaa do
 
   1
-  Sab baitheṅ sawaari pe maiṅ paidal hi chaluṅ gi
+  Sab baitheṅ sawaari pe main paidal hi chaluṅ gi
   Waada hai kisi ko koi taklif na duṅ gi
   Baba baba
-  Ammaaṅ se maiṅ hargiz na kahuṅ gi ke dawa do
+  Ammaaṅ se main hargiz na kahuṅ gi ke dawa do
 
   2
-  Palkoṅ se maiṅ saaya Ali Asghar pe karuṅ gi
+  Palkoṅ se main saaya Ali Asghar pe karuṅ gi
   Ammaaṅ ki sawaari se bahut dur rahuṅ gi
   Baba baba
   Haaṅ keh ke meri zist ke kuchh roz barha do
 
   3
-  Maiṅ paani pilaauṅ gi sawaari ko tumhaari
-  Behlaauṅ gi raste meiṅ Sakina ko tumhaari
+  Main paani pilaauṅ gi sawaari ko tumhaari
+  Behlaauṅ gi raste mein Sakina ko tumhaari
   Baba baba
   Jo kaam kanizoṅ ke haiṅ sab mujh ko bata do
 
@@ -48,19 +48,19 @@ romanLyrics: |-
   Tauqir meri ye hai to marne ki dua do
 
   5
-  Kya guzregi jab ghar se chale jaayeṅ ge Akbar
-  Kaise mujhe har baat meiṅ yaad aayeṅ ge Akbar
+  Kya guzre gi jab ghar se chale jaayeṅ ge Akbar
+  Kaise mujhe har baat mein yaad aayeṅ ge Akbar
   Baba baba
   Kab aayeṅ ge lene mujhe bhaiya ye bata do
 
   6
-  Haaṅ apni mohabbat ka maiṅ izhaar to kar luṅ
+  Haaṅ apni mohabbat ka main izhaar to kar luṅ
   Thehro Ali Asghar ko zara pyaar to kar luṅ
   Baba baba
   Naaqe se jhalak nanhe musaafir ki dikha do
 
   7
-  Rehaan wo bimaar ye thak haar ke boli
+  Rehaan wo bimaar ye thak haar keh boli
   Ae Sarwar-e-zishaan tamanna hai meri
   Baba baba
   Jaate ho to turbat meri tum khud hi bana do

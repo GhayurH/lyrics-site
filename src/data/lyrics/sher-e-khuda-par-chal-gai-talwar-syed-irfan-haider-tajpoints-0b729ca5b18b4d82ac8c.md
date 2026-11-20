@@ -1,37 +1,64 @@
 ---
-title: "Sher E Khuda Par Chal Gai Talwar Syed Irfan Haider"
+title: "شیرِ خدا پر چل گئی تلوار سید عرفان حیدر"
+alternateTitle: "Sher-e-Khuda Par Chal Gai Talwar Syed Irfan Haider"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Shakeel"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chehra lahu se baba ka tar hai Syed Ali Naqvi
+
+  1
+  Zainab ki aankhein giriya kuna hain chehra lahu se baba ka tar hai
+  Mehshar bapa hai sab ro rahe hain matam kada aaj Zahra ka ghar hai
+  Talwar zehar-e-hilahil mein dobi jo Ibn-e-Muljim ne sar par hai mari
+  Sar peet kar kehte hain roney walay rooz-e-qayamat sa har aik pehar hai
+  Zakhmi Ali ko laye hain dekho sab chahney walay hathoon pe apne
+  Mushkil kusha par mushkil pari hai giriya kuna aaj har aik bashar hai
+
+  2
+  Zakhm itna gehra hai dekha na jaye Kulsoom-o-Zainab ke lab par hai haye
+  Abbas-o-Hasnain sab ro rahe hain baba ke chehray pe sab ki nazar hai
+  Matam farishton mein barpa howa hai aal-e-nabi aaj noha kuna hain
+  Phaili hai har so jo qatal-e-Ali ki dil ko hila deney wali khabar hai
+  Mushkil kusha par rota hai koi khoon se musalla bhegota hai koi
+  Uth jaye na sar se Maula ka saya iss baat ka haye sab ko hi dar hai
+
+  3
+  Roi azanein tarpay hain sajday noha kuna hai masjid minarey
+  Tum ne namazi ko sajday mein mara Allah ka tum ko koi na dar hai
+  Ro kar uthao taboot-e-Haider yeh din nahi hai Ashor se kam
+  Aye rozay daro aanso bahao Maula ki rukhsat ki aayi sahar hai
+  Tanha Shakeel ab nahi roney wala rota hai Haider pe sara zamana
+  Parh kar Ali ki shahadat ka noha be sakhta ik Ali noha gar hai
 ---
 
-Chehra Lahu Se Baba Ka Tar Hai Syed Ali Naqvi.
+چہرہ لہو سے بابا کا تر ہے سید علی نقوی
 
-1
-Zainab Ki Aankhein Giriya Kuna Hain Chehra Lahu Se Baba Ka Tar Hai.
-Mehshar Bapa Hai Sab Ro Rahe Hain Matam Kada Aaj Zahra Ka Ghar Hai.
-Talwar Zehar-e-Hilahil Mein Dobi Jo Ibn-e-Muljim Ne Sar Par Hai Mari.
-Sar Peet Kar Kehte Hain Roney Walay Rooz-e-Qayamat Sa Har Aik Pehar Hai.
-Zakhmi Ali Ko Laye Hain Dekho Sab Chahney Walay Hathoon Pe Apne.
-Mushkil Kusha Par Mushkil Pari Hai Giriya Kuna Aaj Har Aik Bashar Hai.
+۱
+زینب کی آنکھیں گریہ کناں ہیں چہرہ لہو سے بابا کا تر ہے
+محشر بپا ہے سب رو رہے ہیں ماتم کدہ آج زہرا کا گھر ہے
+تلوار زہرِ ہلاہل میں ڈوبی جو ابنِ ملجم نے سر پر ہے ماری
+سر پیٹ کر کہتے ہیں رونے والے روزِ قیامت سا ہر ایک پہر ہے
+زخمی علی کو لائے ہیں دیکھو سب چاہنے والے ہاتھوں پہ اپنے
+مشکل کشا پر مشکل پڑی ہے گریہ کناں آج ہر ایک بشر ہے
 
-2
-Zakhm Itna Gehra Hai Dekha Na Jaye Kulsoom-o-Zainab Ke Lab Par Hai Haye.
-Abbas-o-Hasnain Sab Ro Rahe Hain Baba Ke Chehray Pe Sab Ki Nazar Hai.
-Matam Farishton Mein Barpa Howa Hai Aal-e-Nabi Aaj Noha Kuna Hain.
-Phaili Hai Har So Jo Qatal-e-Ali Ki Dil Ko Hila Deney Wali Khabar Hai.
-Mushkil Kusha Par Rota Hai Koi Khoon Se Musalla Bhegota Hai Koi.
-Uth Jaye Na Sar Se Maula Ka Saya Iss Baat Ka Haye Sab Ko Hi Dar Hai.
+۲
+زخم اتنا گہرا ہے دیکھا نہ جائے کلثوم و زینب کے لب پر ہے ہائے
+عباس و حسنین سب رو رہے ہیں بابا کے چہرے پہ سب کی نظر ہے
+ماتم فرشتوں میں برپا ہوا ہے آلِ نبی آج نوحہ کناں ہیں
+پھیلی ہے ہر سو جو قتلِ علی کی دل کو ہلا دینے والی خبر ہے
+مشکل کشا پر روتا ہے کوئی خون سے مصلیٰ بھگوتا ہے کوئی
+اٹھ جائے نہ سر سے مولا کا سایہ اس بات کا ہائے سب کو ہی ڈر ہے
 
-3
-Roi Azanein Tarpay Hain Sajday Noha Kuna Hai Masjid Minarey.
-Tum Ne Namazi Ko Sajday Mein Mara ALLAH Ka Tum Ko Koi Na Dar Hai.
-Ro Kar Uthao Taboot-e-Haider Yeh Din Nahi Hai Ashor Se Kam.
-Aye Rozay Daro Aanso Bahao Maula Ki Rukhsat Ki Aayi Sahar Hai.
-Tanha Shakeel Ab Nahi Roney Wala Rota Hai Haider Pe Sara Zamana.
-Parh Kar Ali Ki Shahadat Ka Noha Be Sakhta Ik Ali Noha Gar Hai.
+۳
+روئیں اذانیں تڑپے ہیں سجدے نوحہ کناں ہے مسجد مینارے
+تم نے نمازی کو سجدے میں مارا اللہ کا تم کو کوئی نہ ڈر ہے
+رو کر اٹھاؤ تابوتِ حیدر یہ دن نہیں ہے عاشور سے کم
+اے روزہ دارو آنسو بہاؤ مولا کی رخصت کی آئی سحر ہے
+تنہا شکیل اب نہیں رونے والا روتا ہے حیدر پہ سارا زمانہ
+پڑھ کر علی کی شہادت کا نوحہ بے ساختہ اک علی نوحہ گر ہے

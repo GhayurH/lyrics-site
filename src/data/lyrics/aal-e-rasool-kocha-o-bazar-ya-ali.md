@@ -1,6 +1,6 @@
 ---
 title: "آلِ رسول کوچہ و بازار یا علی"
-alternateTitle: "Aal-e-Rasool Kocha-o-Bazar Ya Ali"
+alternateTitle: "Aal-e-Rasul Kocha o Baazaar Ya Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,56 +9,56 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aal e Rasool kocha o bazar ya Ali Nadeem Sarwar
-  Roti tu ho gi aap ki talwar ya Ali
+  Aal-e-Rasul kocha o baazaar ya Ali Nadim Sarwar
+  Roti to ho gi aap ki talwaar ya Ali
 
   1
-  Shehzadiyoon ke sar pe ridaein nahi rahein
-  Bachoon ke pas bachoon ki maein nahi rahein
-  Khushiyaan tu kya khushi ki hawaein nahi rahein
-  Looti gayi hai aap ki sarkar ya Ali
+  Shehzaadiyoṅ ke sar pe ridaaeṅ nahiṅ raheiṅ
+  Bachchoṅ ke paas bachchoṅ ki maaeṅ nahiṅ raheiṅ
+  Khushiyaaṅ to kya khushi ki hawaaeṅ nahiṅ raheiṅ
+  Luti gai hai aap ki sarkaar ya Ali
 
   2
-  Abbas jo Hussain ke lashkar ki aas tha
-  Lagta tha aap sath hain jab tak woh pas tha
-  Na khof koi tha na kissi ko hiraas tha
-  Utha hai sar se saya-e-didaar ya Ali
+  Abbaas jo Husain ke lashkar ki aas tha
+  Lagta tha aap saath haiṅ jab tak woh paas tha
+  Na khauf koi tha na kisi ko hiraas tha
+  Utha hai sar se saaya-e-didaar ya Ali
 
   3
-  Cheeni gayin sitam se Sakina ki baliyaan
-  Rukhsar par numaya tamachon ke hain nishaan
-  Shimar laeen jo bachi ko deta hai ghurkiyaan
-  Maqtal mein kanpta hai alamdar ya Ali
+  Chhini gaiṅ sitam se Sakina ki baaliyaaṅ
+  Rukhsaar par numaayaaṅ tamaanchoṅ ke haiṅ nishaaṅ
+  Shimar laiṅ jo bachchi ko deta hai ghurkiyaaṅ
+  Maqtal mein kaaṅpta hai alamdaar ya Ali
 
   4
-  Ab Sham ka safar our Nabi ki nawasiyaan
-  Pehne hoye hain Syed-e-Sajjad beriyaan
-  Zalim jo le ke aaye hain lashon ke darmiyaan
-  Aankhon se khoon bahata hai beemar ya Ali
+  Ab Shaam ka safar aur Nabi ki nawaasiyaaṅ
+  Pehne hue haiṅ Sayyid-e-Sajjaad beriyaaṅ
+  Zaalim jo le ke aae haiṅ laashoṅ ke darmiyaaṅ
+  Aaṅkhoṅ se khun bahaata hai bimaar ya Ali
 
   5
-  Woh dekho bazuon mein hai Zainab ke resmaan
-  Sar nangay jis ki maa ko na dekhey hai aasmaan
-  Balway mein sar khulay hai woh makhdoma-e-jahan
-  Koi nahi hai monis-o-ghamkhuwar ya Ali
+  Woh dekho baazuoṅ mein hai Zainab ke rismaaṅ
+  Sar nange jis ki maaṅ ko na dekhe hai aasmaaṅ
+  Balwe mein sar khule hai woh makhduma-e-jahaaṅ
+  Koi nahiṅ hai munis o ghamkhwaar ya Ali
 
   6
-  Zahra lehad ko chor ke Yasrab se aayi hain
-  Faryad apne lab pe Khadija bhi layi hain
-  Maqtool Karbala mein jo Zainab ke bhai hain
-  Mara gaya hai khuld ka sardar ya Ali
+  Zahra lahad ko chhor ke Yasrib se aai haiṅ
+  Faryaad apne lab pe Khadija bhi laai haiṅ
+  Maqtul Karbala mein jo Zainab ke bhaai haiṅ
+  Maara gaya hai khuld ka sardaar ya Ali
 
   7
-  Bazu qalam hoye hain alam hai lahu lahu
-  Asghar ke khoon se kar liya Shabeer ne wozu
-  Phaili hoi hai gham ki fiza aisi chaar so
-  Jis mein hai sans lena bhi dushwar ya Ali
+  Baazu qalam hue haiṅ alam hai lahu lahu
+  Asghar ke khun se kar liya Shabbir ne wuzu
+  Phaili hui hai gham ki faza aisi chaar su
+  Jis mein hai saaṅs lena bhi dushwaar ya Ali
 
   8
-  Bazm-e-Azza mein, Sarwar-o-Rehan, gham ke phool
-  Tum ne khilaye aisay keh razi hoin Batool
-  Rooz-e-Hisab dekhna farmaein gay Rasool
-  Dono Hussain ke hain azadar ya Ali
+  Bazm-e-Aza mein, Sarwar o Rehan, gham ke phul
+  Tum ne khilaae aise ke raazi huiṅ Batul
+  Roz-e-Hisaab dekhna farmaaeṅ ge Rasul
+  Donoṅ Husain ke haiṅ azaadaar ya Ali
 ---
 
 آلِ رسول کوچہ و بازار یا علی ندیم سرور

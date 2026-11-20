@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maqtal may sar ko pit ke kehti thi fatema
+  Maqtal mein sar ko pit ke kehti thi Fatema
   Zaalim mere Husain ke sar ko na kar juda
-  Zakhmi hai mera lakhte jigar khushk hai gala
-  Pyasa hai tin roz ka ye mera mehleka
-  Zaalim ne ek maa ki na aah o buka suni
-  Aakhir gale pe phayr di farzand ke churi
-  Le gaya shimr bete ka sar kaat kar
-  Reh gayi ek maa khun rote huwe
+  Zakhmi hai mera lakht-e-jigar, khushk hai gala
+  Pyasa hai tin roz ka ye mera mah laqa
+  Zaalim ne ek maaṅ ki na aah o buka suni
+  Aakhir gale pe pher di farzand ke churi
+  Le gaya Shimr bete ka sar kaat kar
+  Reh gayi ik maaṅ khun rote hue
   Saamne mar gaya haye nur-e-nazar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
   Kund khanjar chalata raha behaya
-  Waqt-e-aakhir na pyase ko pani diya
+  Waqt-e-aakhir na pyase ko paani diya
   Haye chalti rahi jab churi halq par
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
-  Us ghari roye bekas pa arz o samaa
-  Kha ke ghash gir gayi dasht may sayyeda
-  Baal pakre huwe jab chala le ke sar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
+  Us ghari roye bekas pa arz o samaaṅ
+  Kha ke ghash gir gayi dasht mein Sayyeda
+  Baal pakre hue jab chala le ke sar
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
   Haye sukhe gale par chali jab churi
-  Apni maa ko sada ro ke sarwar ne di
-  Amma pyasa hoo kehta raha ek pisar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
-  Jaa bajaa jism par tir khaye huwe
-  Kaisa shakir hai khaaliq ke sajde may hai
+  Apni maa ko sada ro ke Sarwar ne di
+  Ammaaṅ pyasa huṅ, kehta raha ik pisar
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
+  Ja baja jism par tir khaye hue
+  Kaisa shakir hai khaaliq ke sajde mein hai
   Zakhmi tiroṅ pe bete ka tan dekh kar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
-  Baap ki muntazir hai wo dukhiya udhar
-  Mar gaya dasht may us ka baba idhar
-  Koi pahunchade yasrab may haye khabar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
+  Baap ki muntazir hai wo dukhiya idhar
+  Mar gaya dasht mein us ka baba idhar
+  Koi pahuncha de Yasrab mein haye khabar
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
   Kaise dekhuṅ ye haalat pisar ki bhala
-  Kar raha hai layiṅ tanse sar ko juda
+  Kar raha hai layiṅ tan se sar so juda
   Gham se hone laga mera tukre jigar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
-  Godh may jis ko rakhti thi apne sada
-  Zulm aada ne us par ye kaisa kiya
-  Laash uski hai jalti hui khaak par
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
-  Ek qayaamt ka manzar wo rehan tha
-  Kaise danish raqam ho wo aah o buka
-  Haye bekas ka naize pe aaya jo sar
-  Reh gayi ek maa khun rote huwe
-  Le gaya shimr bete ka...
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
+  God mein jis ko rakhti thi apne sada
+  Zulm aadaa ne us par ye kaisa kiya
+  Laash us ki hai jalti hui khaak par
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
+  Ik qayaamat ka manzar wo Rehan tha
+  Kaise Danish raqam ho wo aah o buka
+  Haye bekas ka neze pe aaya jo sar
+  Reh gayi ik maaṅ khun rote hue
+  Le gaya Shimr bete ka...
 ---
 
 ۱

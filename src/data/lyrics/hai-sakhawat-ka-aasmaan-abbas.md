@@ -3,41 +3,72 @@ title: "ہے سخاوت کا آسماں عباس"
 alternateTitle: "Hai Sakhawat Ka Aasmaan Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hai sakhawat ka aasmaan Abbas
+  Hai wafaon ki dastaan Abbas
+
+  1
+  Oss ki samjho badal gayi qismat
+  Ho gaye jis pe meharbaan Abbas
+
+  2
+  Aaj mehfil mein khoob ronaq hai
+  Jaisay mojood hoon yahan Abbas
+
+  3
+  Hum alam iss liye uthatay hain
+  Yeh alam hai tera nishaan Abbas
+
+  4
+  Har taraf bas issi ke jalway hain
+  Kiya kahon hain kahan kahan Abbas
+
+  5
+  Zairo kiya naseeb paya hai
+  Karbala ke hain maizbaan Abbas
+
+  6
+  Tu sahara Ali ki beti ka
+  Qalb-e-Zahra Ali ki jaan Abbas
+
+  7
+  Likhe Zeeshan our Nabeel parhey
+  Chalta jaye yeh karwaan Abbas
 ---
 
-Hai Sakhawat Ka Aasmaan Abbas
-Hai Wafaon Ki Dastaan Abbas
+ہے سخاوت کا آسماں عباس
+ہے وفاؤں کی داستاں عباس
 
-1
-Oss Ki Samjho Badal Gayi Qismat
-Ho Gaye Jis Pe Meharbaan Abbas
+۱
+اس کی سمجھو بدل گئی قسمت
+ہو گئے جس پہ مہربان عباس
 
-2
-Aaj Mehfil Mein Khoob Ronaq Hai
-Jaisay Mojood Hoon Yahan Abbas
+۲
+آج محفل میں خوب رونق ہے
+جیسے موجود ہوں یہاں عباس
 
-3
-Hum Alam Iss Liye Uthatay Hain
-Yeh Alam Hai Tera Nishaan Abbas
+۳
+ہم علم اس لیے اٹھاتے ہیں
+یہ علم ہے تیرا نشاں عباس
 
-4
-Har Taraf Bas Issi Ke Jalway Hain
-Kiya Kahon Hain Kahan Kahan Abbas
+۴
+ہر طرف بس اسی کے جلوے ہیں
+کیا کہوں ہیں کہاں کہاں عباس
 
-5
-Zairo Kiya Naseeb Paya Hai
-Karbala Ke Hain Maizbaan Abbas
+۵
+زائرو کیا نصیب پایا ہے
+کربلا کے ہیں میزبان عباس
 
-6
-Tu Sahara Ali Ki Beti Ka
-Qalb-e-Zahra Ali Ki Jaan Abbas
+۶
+تو سہارا علی کی بیٹی کا
+قلبِ زہرا علی کی جان عباس
 
-7
-Likhe Zeeshan Our Nabeel Parhey
-Chalta Jaye Yeh Karwaan Abbas
+۷
+لکھے ذیشان اور نبیل پڑھے
+چلتا جائے یہ کارواں عباس

@@ -9,30 +9,30 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salam akhri tujh ko, Husain kar ke chali,
-  Behan tumhari hai
-  Tu bekhata gaya mara, mere bhi sar se rida,
-  Gayi utari hai
+  Salaam aakhri tujh ko, Husain kar ke chali
+  Behan tumhaari hai
+  Tu bekhataa gaya maara, mere bhi sar se rida
+  Gayi utaari hai
 
   2
-  Ajr aisa mila, Nana ki hae ummat se
-  Haiṅ kan zakhmi Sakina ke, Sajjad ki ankhoṅ
-  Se khun jari hai
+  Ajr aisa mila, naana ki hae ummat se
+  Haiṅ kaan zakhmi Sakina ke, Sajjad ki aankhoṅ
+  Se khun jaari hai
 
   3
-  Jaise tir chale, Shabbir pe haiṅ Karbal may
-  Hui hai aal e Muhammad pe, Sham may aise,
-  Hai sang bari hai
+  Jaise tir chale, Shabbir pe haiṅ Karbal mein
+  Hui hai aal-e-Muhammad, pe Shaam mein aise,
+  Hai sang baari hai
 
   4
-  Teri lash Husain hai dhoop may behan majbur
-  Is baat ne mari bohat dil-e-Zainab
-  Pe zarb kari hai
+  Teri laash Husain, hai dhup mein behan majbur
+  Is baat ne maari bohat dil-e-Zainab
+  Pe zarb kaari hai
 
   5
-  Qadam qadam pe shahid hona hai teri Zainab ne
-  Hai us ke sath safar may, tha jis ne Akbar ko
-  Hae barchi mari hai
+  Qadam qadam pe shahid, hona hai teri Zainab ne
+  Hai us ke saath safar mein, tha jis ne Akbar ko
+  Hae barchhi maari hai
 ---
 
 ۱

@@ -40,12 +40,12 @@ romanLyrics: |-
   Kisi tarah shab-e-gham ko phuphi sehar kar lo
 
   4
-  Ye socha Zainab-e-muztar ne nange sar huṅ maiṅ
-  Ajib waqt hai mujh par ke darbadar huṅ maiṅ
-  Hazaar bekas o majbur bhi agar huṅ maiṅ
-  Yazidiyat ke liye ab bhi dard-e-sar huṅ maiṅ
+  Ye socha Zainab-e-muztar ne nange sar huṅ main
+  Ajib waqt hai mujh par ke darbadar huṅ main
+  Hazaar bekas o majbur bhi agar huṅ main
+  Yazidiyat ke liye ab bhi dard-e-sar huṅ main
   Ali ki beti huṅ qasr-e-Yazid dhaa duṅ gi
-  Yazid kaun hai maiṅ kaun huṅ bata duṅ gi
+  Yazid kaun hai main kaun huṅ bata duṅ gi
 
   5
   Teri majaal ke sar nange tu kare tashhir
@@ -56,10 +56,10 @@ romanLyrics: |-
   Teri nijaat ki zid ban ke gaye hai ham mazlum
 
   6
-  Yazid paikar-e-zillat hai ae musalmaano
-  Yazid dushman-e-ummat hai ae musalmaano
-  Yazidiyat hi aziyat hai ae musalmaano
-  Uruj ki jo zarurat hai ae musalmaano
+  Yazid paikar-e-zillat hai ae musalmaanoṅ
+  Yazid dushman-e-ummat hai ae musalmaanoṅ
+  Yazidiyat hi aziyat hai ae musalmaanoṅ
+  Uruj ki jo zarurat hai ae musalmaanoṅ
   Yazidiyat ko mitaao ise bala samjho
   Khuda ke waaste mafhum-e-Karbala samjho
 ---

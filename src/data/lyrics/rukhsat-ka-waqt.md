@@ -29,7 +29,7 @@ romanLyrics: |-
   Tukroṅ meiṅ us ne baata kaleja Hasan ka hai
 
   3
-  Zainab pachhaareiṅ khaati hai Farwa ke bain se
+  Zainab pachhaareṅ khaati hai Farwa ke bain se
   Kulsum ki zabaaṅ pe nauha Hasan ka hai
 
   4
@@ -42,10 +42,10 @@ romanLyrics: |-
 
   6
   Tanha Hasan ka ghar se janaaza utha magar
-  Socho to aaj saath meiṅ Naana Hasan ka hai
+  Socho to aaj saath meiṅ naana Hasan ka hai
 
   7
-  Ghurbat ke haiṅ hisaar meiṅ Farwa ka Nur-e-ain
+  Ghurbat ke haiṅ hisaar meiṅ Farwa ka nur-e-ain
   Qasim ke sar pe ab kahaaṅ saaya Hasan ka hai
 
   8

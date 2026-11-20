@@ -8,107 +8,62 @@ poet: "Mirza Murtaza Ali"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Tera ghar hogaya veerana
-
-  Ay nana faryaad hai
-
+romanLyrics: |-
+  Tera ghar ho gaya veeraana
+  Ae nana faryaad hai
 
   1
-
-  Kehti thi zainab e muztar
-
+  Kehti thi Zainab-e-muztar
 
   2
-
-  Aayi hoo bhai ko kho kar
-
+  Aayi huṅ bhai ko kho kar
 
   3
-
-  Bhai ko mehman bula kar
-
-  Haye haye shimr-e-sitamgar
-
+  Bhai ko mehmaan bula kar
+  Haaye haaye Shimr-e-sitamgar
   Halq pe phera hai khanjar
 
-
   4
-
   Shab ko rachi thi shaadi
-
-  Subho huyi barbadi
-
-  Khaakh hai dulhan ke sar par
-
+  Subah hui barbaadi
+  Khaak hai dulhan ke sar par
 
   5
-
-  Bali sakina roti thi
-
-  Baap ke gham may na soti thi
-
-  Mar gayi zindan may aa kar
-
+  Baali Sakina roti thi
+  Baap ke gham meiṅ na soti thi
+  Mar gayi zindaan meiṅ aa kar
 
   6
-
-  Kat gaye saqqa ke baazu
-
-  Beh gaya armaano ka lahoo
-
-  Hogaye hum sab bechadar
-
+  Baali Sakina ki mayyat Aabid-e-muztar ki ghurbat
+  Sochti huṅ phatta hai jigar haaye nana faryaad hai
 
   7
-
-  Bali Sakina ki mayyit Abid e muztar ki ghurbat
-
-  Sochta hoon phat-ta hay jigar Haey Nana faryad hay
-
+  Kat gaye saqqa ke baazu
+  Bah gaya armaanoṅ ka lahu
+  Ho gaye ham sab bechaadar
 
   8
-
-  Maare gaye qasim akbar
-
-  Aun o mohamed aur asghar
-
-  Ujad gaya sab ghar ka ghar
-
+  Maare gaye Qaasim Akbar
+  Aun o Muhammad aur Asghar
+  Ujar gaya sab ghar ka ghar
 
   9
-
-  Asghar-e-naadan tashna dahan
-
+  Asghar-e-naadaaṅ tashna dahan
   Maara gaya wo ghuncha dahan
-
-  Teer sitam ka khaakar
-
+  Teer-e-sitam ka kha kar
 
   10
-
-  Akbar o asghar maare gaaye
-
-  Aun o mohamed maare gaye
-
-  Karbobala may loote gaye
-
+  Akbar o Asghar maare gaye
+  Aun o Muhammad maare gaye
+  Karb o Bala meiṅ lute gaye
+  Aap ki ummat ne nana
+  Itrat par wo zulm kiya
+  Sar pe nahiṅ thi chaadar
 
   11
-
-  Aap ki ummat ne nana
-
-  Itrat par wo zulm kiya
-
-  Sar pe nahi thi chadar
-
-
-  12
-
-  Baara galay aur ek rasan
-
-  Mirza tha ye sab ranj o mehan
-
-  Baandhe thay rassi may kas kar'
+  Baarah gale aur ik rasan
+  Mirza tha ye ranj o mihan
+  Bandhe the rassi meiṅ kas kar
 ---
 
 تیرا گھر ہو گیا ویرانا

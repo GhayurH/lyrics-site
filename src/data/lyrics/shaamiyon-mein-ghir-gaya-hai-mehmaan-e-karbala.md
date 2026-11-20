@@ -12,7 +12,7 @@ tags: []
 aliases: ["Shamiyon May Ghir"]
 published: true
 romanLyrics: |-
-  Shaamiyoṅ meiṅ ghir gaya hai mehmaan-e-Karbala
+  Shaamiyoṅ mein ghir gaya hai mehmaan-e-Karbala
 
   1
   Kalma-e-tauhid ka irfaaṅ bayaan-e-Karbala
@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Tin din se band hai paani Nabi ki aal par
   Kaun hai jo tars khaaye bekasoṅ ke haal par
-  Khub mehmani ada ki mezbaan-e-Karbala
+  Khub mehmaani ada ki mezbaan-e-Karbala
 
   3
   Yusuf-e-Karb o Bala hamshakl-e-mehbub-e-Khuda
@@ -31,33 +31,33 @@ romanLyrics: |-
 
   4
   Kaamp utha arsh-e-mualla hil gaye qalb-e-adu
-  Sina-e-Shabbir meiṅ dil ho gaya gham se lahu
-  Tir khaa kar haṅs diya jab bezabaan-e-Karbala
+  Sina-e-Shabbir mein dil ho gaya gham se lahu
+  Tir khaa kar hans diya jab bezabaan-e-Karbala
 
   5
   Pher di halq-e-Shaah-e-diṅ par sitamgaar ne chhuri
-  Pitti sar aa gai maidaan meiṅ bint-e-Ali
+  Pitti sar aa gai maidaan mein bint-e-Ali
   Tum bhi pito apne sar ko aashiqaan-e-Karbala
 
   6
   Kis tarah jhuk jaayega wo zor-e-baatil se bhala
   Baazu-e-Abbas ka jis ko sahaara mil gaya
-  Hashr tak uṅcha rahega ab nishaan-e-Karbala
+  Hashr tak uncha rahega ab nishaan-e-Karbala
 
   7
-  Jal gaye khaime chhini chaadar bandhe rassi meiṅ haath
-  Ab nahiṅ koi haram ke sar pe juz aab-e-kizaakh
+  Jal gaye khaime chhini chaadar bandhe rassi mein haath
+  Ab nahiṅ koi haram ke sar pe juz aab-e-kazaaq
   Shaam ko jaata hai lut kar kaarwaan-e-Karbala
 
   8
-  Asr ka hamgaam aur wo Shaah-e-diṅ ki kaarzaar
+  Asr ka hangaam aur wo Shaah-e-diṅ ki kaarzaar
   Tha qayaamat ka samaaṅ jab chal rahi thi Zulfiqar
-  Khun meiṅ tar the zamin o aasmaan-e-Karbala
+  Khun mein tar the zamin o aasmaan-e-Karbala
 
   9
   Allah Allah subh-e-aashura wo Akbar ki sada
   Chhor kar baatil ka daaman jaanib-e-haq Hur chala
-  Gunji jab Momin fazaaoṅ meiṅ azaan-e-Karbala
+  Gunji jab Momin fazaaoṅ mein azaan-e-Karbala
 ---
 شامیوں میں گھِر گیا ہے مہمانِ کربلا
 

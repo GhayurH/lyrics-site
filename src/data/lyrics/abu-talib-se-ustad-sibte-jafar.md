@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Izzat Abu Talib se shohrat Abu Talib se
-  Hum laye hain likhwa kar qismat Abu Talib se
+  Ham laaye haiṅ likhwa kar qismat Abu Talib se
 
   1
-  Woh jis liye kartay hain nafrat Abu Talib se
-  Hum ko hai ossi bais ulfat Abu Talib se
-  Jaan apni chali jaye bach jaye Muhammad ki
-  Aayi hai yeh Haider mein adat Abu Talib ki
+  Woh jis liye karte haiṅ nafrat Abu Talib se
+  Ham ko hai usi baais ulfat Abu Talib se
+  Jaan apni chali jaaye bach jaaye Muhammad ki
+  Aayi hai yeh Haider meiṅ aadat Abu Talib ki
 
   2
-  Sarwar ke mohafiz they our walid Haider ke
-  Rakhti hai adawat youn ummat Abu Talib se
-  Galiyon se muhabbat hai kamli se aqeedat hai
-  Par khash hai logon ko hazrat Abu Talib se
+  Sarwar ke muhaafiz the aur waalid Haider ke
+  Rakhti hai adaawat yuṅ ummat Abu Talib se
+  Galiyoṅ se muhabbat hai kamli se aqidat hai
+  Parkhaash hai logoṅ ko Hazrat Abu Talib se
 
   3
-  Jo aqad Khadija our Sarwar ka parhaya tha
-  Khutba ki hoi jari sunnat Abu Talib se
-  Kiya shaib e Abu Talib nusrat mein payamber ki
-  Kya kuch na howa pocho yeh mat Abu Talib se
+  Jo aqd Khadija aur Sarwar ka parhaaya tha
+  Khutba ki hui jaari sunnat Abu Talib se
+  Kiya Shib-e-Abu Talib nusrat meiṅ Payambar ki
+  Kya kuchh na hua puchho yeh mat Abu Talib se
 
   4
-  Leta raha woh badlah aoulad-e-payamber se
+  Leta raha woh badla aulaad-e-Payambar se
   Hoti rahi jis jis ko khiffat Abu Talib se
-  Nuqsan jo aada ne Haider se uthaya tha
-  Kartay hain wasool oss ki qeemat Abu Talib se
+  Nuqsaan jo aada ne Haider se uthaaya tha
+  Karte haiṅ wasul us ki qimat Abu Talib se
 
   5
-  Uz qaul-e-Nabi kul-e-emaan ke bhi hain baba
-  Hasil karo emaan ki dolat Abu Talib se
-  Sarkar ne farmaya oss saal ko Aam Al-Huzan
-  Jis saal hoi unn ki furqat Abu Talib se
+  Az qaul-e-Nabi kul-e-imaaṅ ke bhi haiṅ baaba
+  Haasil karo imaaṅ ki daulat Abu Talib se
+  Sarkaar ne farmaaya us saal ko Aam al-Huzn
+  Jis saal hui un ki furqat Abu Talib se
 
   6
-  Reh paye na maka mein ik saal bhi Aan Hazrat
-  Sarkar ki hijrat hai rukhsat Abu Talib se
-  Har aik hawala hai mazboot magar Sibt e
-  Jafar ki sadat hai nisbat Abu Talib se
+  Reh paaye na Makkah meiṅ ik saal bhi Aanhazrat
+  Sarkaar ki hijrat hai rukhsat Abu Talib se
+  Har ik hawaala hai mazbut magar Sibt-e-
+  Jafar ki saadaat hai nisbat Abu Talib se
 ---
 
 عزت ابو طالب سے شہرت ابو طالب سے

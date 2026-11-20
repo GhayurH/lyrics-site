@@ -1,32 +1,54 @@
 ---
-title: "Khushi Ka Din Hai Zamane Mein Aaj Aaye Naqi"
+title: "خوشی کا دن ہے زمانے میں آج آئے نقی"
+alternateTitle: "Khushi Ka Din Hai Zamane Mein Aaj Aaye Naqi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khushi ka din hai zamane mein aaj aaye Naqi
+  Saji hai aaj ki mehfil yahan bara-e-Naqi
+
+  1
+  Ali Naqi ki fazeelat Khuda batata hai
+  Khuda-e-haq ki haqeeqat humein bataye Naqi
+  Sanwar deti hai naslon ko hub-e-aal-e-Nabi
+  Magar naseeb yeh ho gi jo ho attaye Naqi
+
+  2
+  Ali ka beta hai yeh bhi tu moor sakta hai
+  Palat ke aaye ga soraj agar bulaye Naqi
+  Jahan pe koi bhi rasta nazar nahi aata
+  Khuda ke hukam se mujh ko wahan bachaye Naqi
+
+  3
+  Karon main dushman-e-Maula ka ayhteram agar
+  Tu agla sans na de mujh ko phir Khuda-e-Naqi
+  Sunaon ga yeh qaseeda pakar ke jali ko
+  Dua hai rozay pe Hasnain ko bulaye Naqi
 ---
 
-Khushi Ka Din Hai Zamane Mein Aaj Aaye Naqi.
-Saji Hai Aaj Ki Mehfil Yahan Bara-e-Naqi.
+خوشی کا دن ہے زمانے میں آج آئے نقی
+سجی ہے آج کی محفل یہاں برائے نقی
 
-1
-Ali Naqi Ki Fazeelat Khuda Batata Hai.
-Khuda-e-Haq Ki Haqeeqat Humein Bataye Naqi.
-Sanwar Deti Hai Naslon Ko Hub-e-Aal-e-Nabi.
-Magar Naseeb Yeh Ho Gi Jo Ho Attaye Naqi.
+۱
+علی نقی کی فضیلت خدا بتاتا ہے
+خدائے حق کی حقیقت ہمیں بتائے نقی
+سنوار دیتی ہے نسلوں کو حبِ آلِ نبی
+مگر نصیب یہ ہوگی جو ہو عطائے نقی
 
-2
-Ali Ka Beta Hai Yeh Bhi Tu Moor Sakta Hai.
-Palat Ke Aaye Ga Soraj Agar Bulaye Naqi.
-Jahan Pe Koi Bhi Rasta Nazar Nahi Aata.
-Khuda Ke Hukam Se Mujh Ko Wahan Bachaye Naqi.
+۲
+علی کا بیٹا ہے یہ بھی تو موڑ سکتا ہے
+پلٹ کے آئے گا سورج اگر بلائے نقی
+جہاں پہ کوئی بھی راستہ نظر نہیں آتا
+خدا کے حکم سے مجھ کو وہاں بچائے نقی
 
-3
-Karon Main Dushman-e-Maula Ka Ayhteram Agar.
-Tu Agla Sans Na De Mujh Ko Phir Khuda-e-Naqi.
-Sunaon Ga Yeh Qaseeda Pakar Ke Jali Ko.
-Dua Hai Rozay Pe Hasnain Ko Bulaye Naqi.
+۳
+کروں میں دشمنِ مولا کا احترام اگر
+تو اگلا سانس نہ دے مجھ کو پھر خدائے نقی
+سناؤں گا یہ قصیدہ پکڑ کے جالی کو
+دعا ہے روضے پہ حسنین کو بلائے نقی

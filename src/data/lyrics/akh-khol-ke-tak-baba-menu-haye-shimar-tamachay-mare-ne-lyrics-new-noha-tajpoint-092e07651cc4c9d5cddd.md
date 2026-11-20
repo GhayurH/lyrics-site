@@ -1,24 +1,40 @@
 ---
-title: "Akh Khol Ke Tak Baba Menu Haye Shimar Tamachay Mare Ne Lyrics New Noha 13 Safar 2025 |Sirat Ul Jannah"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اکھ کھول کے تک بابا مینوں ہائے شمر تماچے مارے نے"
+alternateTitle: "Akh Khol Ke Tak Baba Menu Haye Shimar Tamachay Mare Ne"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Joan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Akh khol ke tak Baba menu haye Shimar tamachay mare ne
+  Zakhma te rasiyan wich reh ke Baba main waqt guzarey ne
+  Kujh farq nayi mazlomi wich tasveer dowaan di sanjhi aye
+  Tere zakhmi chehray jay Baba tak mere v rukhsaray ne
+  Kana choon taza khon diyaan aina lehraan kolon aa puch le
+  Tere qatil ne mere dur Baba kehrey zulm de naal utaray ne
+  Mere zakhma nu na aina ro main kali zakhmi nayi Baba
+  Abid tu leh keh phophiyaan tak mere wargay zakhmi sare ne
+  Jadon wakhri qaid saan Baba mainu koi millan v nayi aaya
+  Akbar, Qasim te Ghazi tak main sab de naam pukarey ne
+  Jehray bagi sanu aakhday ne Joan aakhay Sain taun ik wari
+  Aina Shamiyaan nu te das Baba saday dar te lehnday taray ne
 ---
 
-1
-Akh Khol Ke Tak Baba Menu Haye Shimar Tamachay Mare Ne.
-Zakhma Te Rasiyan Wich Reh Ke Baba Main Waqt Guzarey Ne.Kujh Farq Nayi Mazlomi Wich Tasveer Dowaan Di Sanjhi Aye.
-Tere Zakhmi Chehray Jay Baba Tak Mere V Rukhsaray Ne.
-Kana Choon Taza Khon Diyaan Aina Lehraan Kolon Aa Puch Le.
-Tere Qatil Ne Mere Dur Baba Kehrey Zulm De Naal Utaray Ne.
-Mere Zakhma Nu Na Aina Ro Main Kali Zakhmi Nayi Baba.
-Abid Tu Leh Keh Phophiyaan Tak Mere Wargay Zakhmi Sare Ne.
-Jadon Wakhri Qaid Saan Baba Mainu Koi Millan V Nayi Aaya.
-Akbar, Qasim Te Ghazi Tak Main Sab De Naam Pukarey Ne.
-Jehray Bagi Sanu Aakhday Ne Joan Aakhay Sain Taun Ik Wari.
-Aina Shamiyaan Nu Te Das Baba Saday Dar Te Lehnday Taray Ne.
+۱
+اکھ کھول کے تک بابا مینوں ہائے شمر تماچے مارے نے
+زخماں تے رسیاں وچ رہ کے بابا میں وقت گزارے نے
+کجھ فرق نئیں مظلومی وچ تصویر دواں دی سانجھی اے
+تیرے زخمی چہرے جئے بابا تک میرے وی رخسارے نے
+کناں چوں تازہ خون دیاں ایناں لہراں کولوں آ پچھ لے
+تیرے قاتل نے میرے دُر بابا کیہڑے ظلم دے نال اتارے نے
+میرے زخماں نوں نہ اینا رو میں کلّی زخمی نئیں بابا
+عابد توں لے کے پھپھیاں تک میرے ورگے زخمی سارے نے
+جدوں وکھری قید ساں بابا مینوں کوئی ملن وی نئیں آیا
+اکبر، قاسم تے غازی تک میں سب دے نام پکارے نے
+جیہڑے باغی سانوں آکھدے نے جون آکھے سائیں توں اک واری
+ایناں شامیاں نوں تے دس بابا ساڈے در تے لہندے تارے نے

@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mere ammu abbas
-  Jab pyaas bari pani na mila
-  To ro ke sakina ne di sada
-  Ae mere chacha mai tum pe fida
-  Asghar hai mera kab se pyasa
-  Tum pyasoṅ ki saqqayi karo
-  Darya se hame pani la do
-  Sar chum ke phir shehzadi ka
-  Abbas e jari ne farmaya
-  La denge tumhe pani ye bacchoṅ ko batado
-  Hum nehr pe jaate hai ae shehzadi dua do
-  Hum baithe hai do zaanu tum aage barho bibi
-  Khud haathoṅ se mashkeeza kaandhe pe rakho bibi
-  Ae pyasi sakina hume saqqa to bana do
-  Hum nehr pe jaate hai...
-  Mai jaauṅ jo maidan meiṅ tile pe chali aana
+  Mere ammu Abbas
+  Jab pyaas bari paani na mila
+  To ro ke Sakina ne di sada
+  Ae mere chacha main tum pe fida
+  Asghar hai mera kab se pyaasa
+  Tum pyaasoṅ ki saqqaayi karo
+  Darya se hameṅ paani laa do
+  Sar chum ke phir shehzaadi ka
+  Abbas-e-Jari ne farmaaya
+  Le denge tumheṅ paani ye bachchoṅ ko bata do
+  Hum nehr pe jaate haiṅ ae shehzaadi dua do
+  Hum baithe haiṅ do zaanuṅ tum aage barho Bibi
+  Khud haathoṅ se mashkiza kaandhe pe rakho Bibi
+  Ae pyaasi Sakina hameṅ saqqa to bana do
+  Hum nehr pe jaate haiṅ...
+  Main jaauṅ jo maidaan mein tile pe chali aana
   Khud dekhna aankhoṅ se saahil pe mera jaana
-  Tum roz hi kehti thi ke siffin suna do
-  Hum nehr pe jaate hai...
+  Tum roz hi kehti thi ke Siffin suna do
+  Hum nehr pe jaate haiṅ...
   Allah kare jaldi ye khatm udaasi ho
-  Abbas ke hote bhi seh roz se pyasi ho
-  Mere bandhe haatoṅ ko azaad kara do
-  Hum nehr pe jaate hai...
-  Izhaar na ho paya is quwwate baazu ka
-  Majbur e ita'at hai dil phat'ta hai ammu ka
+  Abbas ke hote bhi seh roz se pyaasi ho
+  Mere bandhe haathoṅ ko aazaad kara do
+  Hum nehr pe jaate haiṅ...
+  Izhaar na ho paaya is quwwat-e-baazu ka
+  Majbur-e-itaat hai dil phatta hai ammu ka
   Lillaah ab na kehna meri pyaas bujha do
-  Hum nehr pe jaate hai...
-  Khidmat meiṅ bhatiji ki kaam aaye mere baazu
-  Bil-farz jo darya par kat jaaye mere baazu
-  Tadpogi nahi bibi yaqin mujhko dila do
-  Hum nehr pe jaate hai...
-  Ye ruqsat e aakhir hai baba ko tujhe saumpa
-  Ab tiroṅ ki baarish meiṅ jaata hai tera saqqa
-  Ek shor hai faujoṅ mei kamar sheh ki jhuka do
-  Hum nehr pe jaate hai...
-  Pur khuṅ meiṅ takallum jab wo mashk o alam dekhe
-  Abbas ke bete ne ro kar kaha bibi se
-  Baba ki tarha se hame mashkeeza to laa do
-  Hum nehr pe jaate hai...
+  Hum nehr pe jaate haiṅ...
+  Khidmat mein bhatiji ki kaam aaye mere baazu
+  Bilfarz jo darya par kat jaaye mere baazu
+  Tarpaaogi nahiṅ Bibi yaqin mujhko dila do
+  Hum nehr pe jaate haiṅ...
+  Ye rukhsat-e-aakhir hai baba ko tujhe saumpa
+  Ab tiroṅ ki baarish mein jaata hai tera saqqa
+  Ek shahr hai faujoṅ mein kamar sheh ki jhuka do
+  Hum nehr pe jaate haiṅ...
+  Pur khuṅ mein Takallum jab wo mashk o alam dekhe
+  Abbas ke bete ne ro kar kaha Bibi se
+  Baba ki tarah se hameṅ mashkiza to laa do
+  Hum nehr pe jaate haiṅ...
 ---
 
 ۱

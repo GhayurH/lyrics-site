@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Baandh kar baarah galoṅ ko ik rasan meiṅ behaya
-  Qaid kar ke le gaye hum logoṅ ko Ahl-e-jafa
+  Qaid kar ke le gaye ham logoṅ ko ahl-e-jafa
   Dil mera phatta hai jab bhi sochti huṅ wo samaaṅ
 
   6

@@ -13,30 +13,30 @@ aliases: ["Koi Hussain Sa Sajda"]
 published: true
 romanLyrics: |-
   Koi Husain sa sajda bhala ada to kare
-  Keh rashk jis pe sada khaak-e-Karbala to kare
+  Ke rashk jis pe sada khaak-e-Karbala to kare
 
   1
-  Shahid kaun sa guzra hai pure aalam meiṅ
-  Sinaaṅ ki nok pe jo zikr-e-la ilaah to kare
+  Shahid kaun sa guzra hai pure aalam mein
+  Sinaaṅ ki nok pe jo zikr-e-laa ilaah to kare
 
   2
   Lab-e-Furaat wo baazu kata ke soya hai
-  Abbas jaisi jahaaṅ meiṅ koi wafa to kare
+  Abbas jaisi jahaaṅ mein koi wafa to kare
 
   3
   Alam ke niche jo maango qabul hoti hai
   Khulus-e-dil se koi shakhs gar dua to kare
 
   4
-  Maiṅ baba aap ka beta huṅ go keh Asghar huṅ
-  Kaho lain se sitam ki wo intiha to kare
+  Main baaba aap ka beta huṅ go ke Asghar huṅ
+  Kaho la-in se sitam ki wo intiha to kare
 
   5
   Kahaaṅ se laaoge aisa jigar jo diṅ ke liye
   Asr se pehle bahattar ko jo juda to kare
 
   6
-  Kiya Husain ne jaise hai sabr Karbal meiṅ
+  Kiya Husain ne jaise hai sabr Karbal mein
   Amir sabr pe yuṅ koi iktifa to kare
 ---
 

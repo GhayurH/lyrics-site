@@ -1,46 +1,113 @@
 ---
-title: "Teen Din Ka Bhookha Pyasa"
+title: "تین دن کا بھوکا پیاسا"
+alternateTitle: "Teen Din Ka Bhookha Pyasa"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Lasha-e-Akbar pe Sheh kartay they yeh aah-o-boka
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  1
+  Zainab-e-Dilgeer ki godi ka pala tha yehi
+  Our apni maa ki aankhon ka ujala tha yehi
+  Ho gaya hai aaj hum se Karbala mein yeh juda
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  2
+  Arman tha keh dasht mein shadi rachaein gay teri
+  Laein gay dulhan biyah ke chand si beta teri
+  Khaimay mein ab lash ko roti hai beta mamta
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  3
+  Poshaak teri shadi ki sehra Ali Akbar tera
+  Haan sajatay dasht mein khaima sabhi Akbar tera
+  Ho gaya hai dasht mein sapna sabhi reza mera
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  4
+  Haan ujala tha Shah-e-zeeshan ki aankhon ka tu
+  Haan shabeeh e Mustafa aye lal ke lagta tha tu
+  Haan mita di dasht mein tasveer-e-mehboob-e-Khuda
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  5
+  Lut gayi hai dasht mein beta teri maa ki rida
+  Chal diye hum Sham ko ab chor kar yeh qatal ga
+  Haan kaho uth kar yeh maa ko maa Khuda hafiz tera
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  6
+  Kar rahi hai yaad tujh ko ik behan Sughra wahan
+  So gaya bhai bala ke dasht mein oss ka yahan
+  Tak rahi hai rah jo oss ko kahon kiya yeh bata?
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  7
+  Dukh nahi keh lut gayi chadar meri aye lal sun
+  Dukh jo hai sab se bara dil ko mere aye lal sun
+  Nezay pe dekhey gi kaisay sar tera yeh mamta
+  Teen din ka bhoka pyasa nojawaan mara gaya
+
+  8
+  Anjuman e Abbasia ke lab pe hai pursa tera
+  Ro raha hai likhtay likhtay Sindh mein Zaidi tera
+  Matami ke dil ki sun our pori kar inn ki dua
+  Teen din ka bhoka pyasa nojawaan mara gaya
 ---
 
-Teen Din Ka Bhookha Pyasa
-Lasha-e-Akbar Pe Sheh Kartay They Yeh Aah-o-Boka
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Zainab-e-Dilgeer Ki Godi Ka Pala Tha Yehi
-Our Apni Maa Ki Aankhon Ka Ujala Tha Yehi
-Ho Gaya Hai Aaj Hum Se Karbala Mein Yeh Juda
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Arman Tha Keh Dasht Mein Shadi Rachaein Gay Teri
-Laein Gay Dulhan Biyah Ke Chand Si Beta Teri
-Khaimay Mein Ab Lash Ko Roti Hai Beta Mamta
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Poshaak Teri Shadi Ki Sehra Ali Akbar Tera
-Haan Sajatay Dasht Mein Khaima Sabhi Akbar Tera
-Ho Gaya Hai Dasht Mein Sapna Sabhi Reza Mera
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Haan Ujala Tha Shah-e-Zeeshan Ki Aankhon Ka Tu
-Haan Shabeeh e Mustafa Aye Lal Ke Lagta Tha Tu
-Haan Mita Di Dasht Mein Tasveer-e-Mehboob-e-Khuda
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Lut Gayi Hai Dasht Mein Beta Teri Maa Ki Rida
-Chal Diye Hum Sham Ko Ab Chor Kar Yeh Qatal Ga
-Haan Kaho Uth Kar Yeh Maa Ko Maa Khuda Hafiz Tera
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Kar Rahi Hai Yaad Tujh Ko Ik Behan Sughra Wahan
-So Gaya Bhai Bala Ke Dasht Mein Oss Ka Yahan
-Tak Rahi Hai Rah Jo Oss Ko Kahon Kiya Yeh Bata?
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-Dukh Nahi Keh Lut Gayi Chadar Meri Aye Lal Sun
-Dukh Jo Hai Sab Se Bara Dil Ko Mere Aye Lal Sun
-Nezay Pe Dekhey Gi Kaisay Sar Tera Yeh Mamta
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
-ANJUMAN E ABBASIA Ke Lab Pe Hai Pursa Tera
-Ro Raha Hai Likhtay Likhtay Sindh Mein ZAIDI Tera
-Matami Ke Dil Ki Sun Our Pori Kar Inn Ki Dua
-Teen Din Ka Bhoka Pyasa Nojawaan Mara Gaya
+لاشۂ اکبر پہ شہ کرتے تھے یہ آہ و بکا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۱
+زینبِ دلگیر کی گودی کا پالا تھا یہی
+اور اپنی ماں کی آنکھوں کا اجالا تھا یہی
+ہو گیا ہے آج ہم سے کربلا میں یہ جدا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۲
+ارمان تھا کہ دشت میں شادی رچائیں گے تیری
+لائیں گے دلہن بیاہ کے چاند سی بیٹا تیری
+خیمے میں اب لاش کو روتی ہے بیٹا ممتا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۳
+پوشاک تیری شادی کی سہرا علی اکبر تیرا
+ہاں سجاتے دشت میں خیمہ سبھی اکبر تیرا
+ہو گیا ہے دشت میں سپنا سبھی ریزہ میرا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۴
+ہاں اجالا تھا شاہِ ذیشان کی آنکھوں کا تو
+ہاں شبیہِ مصطفیٰ اے لال کہ لگتا تھا تو
+ہاں مٹا دی دشت میں تصویرِ محبوبِ خدا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۵
+لٹ گئی ہے دشت میں بیٹا تیری ماں کی ردا
+چل دیے ہم شام کو اب چھوڑ کر یہ قتل گاہ
+ہاں کہو اٹھ کر یہ ماں کو ماں خدا حافظ تیرا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۶
+کر رہی ہے یاد تجھ کو اک بہن صغریٰ وہاں
+سو گیا بھائی بلا کے دشت میں اس کا یہاں
+تک رہی ہے راہ جو اس کو کہوں کیا یہ بتا؟
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۷
+دکھ نہیں کہ لٹ گئی چادر میری اے لال سن
+دکھ جو ہے سب سے بڑا دل کو میرے اے لال سن
+نیزے پہ دیکھے گی کیسے سر تیرا یہ ممتا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا
+
+۸
+انجمنِ عباسیہ کے لب پہ ہے پرسا تیرا
+رو رہا ہے لکھتے لکھتے سندھ میں زیدی تیرا
+ماتمی کے دل کی سن اور پوری کر ان کی دعا
+تین دن کا بھوکا پیاسا نوجوان مارا گیا

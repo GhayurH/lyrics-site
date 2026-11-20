@@ -1,28 +1,77 @@
 ---
-title: "Aise Hum Saqi E Kausar Ki Taraf Dekhte Hain Mir Hasan Mir"
+title: "ایسے ہم ساقیِ کوثر کی طرف دیکھتے ہیں"
+alternateTitle: "Aise Hum Saqi-e-Kausar Ki Taraf Dekhte Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+reciter: "Mir Hasan Mir"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aise Hum Saqi-e-Kausar Ki Taraf Dekhte Hain
+  Jis tarha piyase samandur ki taraf dekhte hain
+
+  2
+  Yaad aata hai humein tera (13) Rajab ka manzar
+  Jab bhi Allah tere ghar ki taraf dekhte hain
+
+  3
+  Khud samaj jata hai Malik ka ishara Malik
+  Bas Ali Malik-e-Ashtar ki taraf dekhte hain
+
+  4
+  Ayatein hoon ya Muhammad hoon amaan ki khatir
+  Fatima Zahra ki chadar ki taraf dekhte hain
+
+  5
+  Jab Nusehri mere Mula ko Khuda kehta hai
+  Hans ke Salman Abuzar ki taraf dekhte hain
+
+  6
+  Hosla apna barhane ke liye mushkil mein
+  Anbiya khud Ali Asghar ki taraf dekhte hain
+
+  7
+  Ruk ja aye maut ziyarat ka maza lene de
+  Hum abhi chehra-e-Haider ki taraf dekhte hain
+
+  8
+  Lafz khud Aal-e-Muhammad ki sana mein Akbar
+  Joor kar hath sukhnwar ki taraf dekhte hain
 ---
 
-1
-Jis Tarha Piyase Samandur Ki dTaraf Dekhte Hain.
-Yaad Aata Hai Humein Tera(13) Rajab Ka Manzar.
-Jab Bhi Allah Tere Ghar Ki Taraf Dekhte Hain.
-Khud Samaj Jata Hai Malik Ka Ishara Malik.
-Bas Ali Malik-e-Ashtar Ki Taraf Dekhte Hain.
-Ayatein Hoon Ya Muhammad Hoon Amaan Ki Khatir.
-Fatima Zahra Ki Chadar Ki Taraf Dekhte Hain.
-Jab Nusehri Mere Mula Ko Khuda Kehta Hai.
-Hans Ke Salman Abuzar Ki Taraf Dekhte Hain.
-Hosla Apna Barhane Ke Liye Mushkil Mein.
-Anbiya Khud Ali Asghar Ki Taraf Dekhte Hain.
-Ruk Ja Aye Maut Ziyarat Ka Maza Lene De.
-Hum Abhi Chehra-e-Haider Ki Taraf Dekhte Hain.
-Lafz Khud Aal-e-Muhammad Ki Sana Mein Akbar.
-Joor Kar Hath Sukhnwar Ki Taraf Dekhte Hain.
+۱
+ایسے ہم ساقیِ کوثر کی طرف دیکھتے ہیں
+جس طرح پیاسے سمندر کی طرف دیکھتے ہیں
+
+۲
+یاد آتا ہے ہمیں تیرہ رجب کا منظر
+جب بھی اللہ تیرے گھر کی طرف دیکھتے ہیں
+
+۳
+خود سمجھ جاتا ہے مالک کا اشارہ مالک
+بس علی مالکِ اشتر کی طرف دیکھتے ہیں
+
+۴
+آیتیں ہوں یا محمد ہوں اماں کی خاطر
+فاطمہ زہرا کی چادر کی طرف دیکھتے ہیں
+
+۵
+جب نصیری میرے مولا کو خدا کہتا ہے
+ہنس کے سلمان ابوذر کی طرف دیکھتے ہیں
+
+۶
+حوصلہ اپنا بڑھانے کے لیے مشکل میں
+انبیا خود علی اصغر کی طرف دیکھتے ہیں
+
+۷
+رک جا اے موت زیارت کا مزہ لینے دے
+ہم ابھی چہرۂ حیدر کی طرف دیکھتے ہیں
+
+۸
+لفظ خود آلِ محمد کی ثنا میں اکبر
+جوڑ کر ہاتھ سخنور کی طرف دیکھتے ہیں

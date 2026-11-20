@@ -11,7 +11,7 @@ tags: []
 aliases: ["Sadae Fatema Zahra"]
 published: true
 romanLyrics: |-
-  Ya Imam-e-zamaana
+  Ya Imam-e-Zamaana
 
   Sada-e-Fatema Zahra baqi se aati hai
   Husain-e-asr tujhe Karbala bulaati hai
@@ -47,7 +47,7 @@ romanLyrics: |-
   Nishaan-e-qabr banaati kabhi mitaati hai
 
   7
-  Mera Husain mera ba wafa mera Mohsin
+  Mera Husain mera bawafa mera Mohsin
   Saghir Qaasim o Akbar Sakina aur Hasan
   Mujhe Ali ki bhi tanhaai yaad aati hai
 ---

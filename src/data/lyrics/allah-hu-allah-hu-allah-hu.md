@@ -15,51 +15,51 @@ romanLyrics: |-
   Allah Hu, Allah Hu, Allah Hu
 
   1
-  Chand Taroṅ Ki Shan-e-Jamali Meiṅ Tu
-  Sabz Pattoṅ Meiṅ Pholoṅ Ki Lali Meiṅ Tu
-  Khoshe Khoshe Meiṅ Tu, Bali Bali Meiṅ Tu
-  Tehni Tehni Meiṅ Tu, Dali Dali Meiṅ Tu
-  Bute Bute Meiṅ Gul, Gul Meiṅ Bu, Bu Meiṅ Tu
+  Chaand taaroṅ ki shaan-e-jamaali mein tu
+  Sabz pattoṅ mein phuloṅ ki laali mein tu
+  Khoshe khoshe mein tu, baali baali mein tu
+  Tehni tehni mein tu, daali daali mein tu
+  Bute bute mein gul, gul mein bu, bu mein tu
   Allah Hu, Allah Hu, Allah Hu
 
   2
-  Youṅ Tu Har Ik Nabi Tujh Se Mansub Hai
-  Tera Bheja Howa Hai Bohat Khub Hai
-  Haaṅ Magar Un Meiṅ Ik Tera Mehbub Hai
-  Jis Ki Har Ik Ada Tujh Ko Margub Hai
-  Tera Mehbub Woh, Us Ka Mehbub Tu
+  Yuṅ tu har ik nabi tujh se mansub hai
+  Tera bheja hua hai bohat khub hai
+  Haaṅ magar un mein ik tera mahbub hai
+  Jis ki har ik adaa tujh ko marghub hai
+  Tera mahbub woh, us ka mahbub tu
   Allah Hu, Allah Hu, Allah Hu
 
   3
-  Dakhl Mumkin Nahiṅ Tere Asrar Meiṅ
-  Kis Ko Yara Bhala Teri Sarkar Meiṅ
-  Kis Ko Taab-e-Sukhan Tere Darbar Meiṅ
-  Husn-e-Yousuf Sa Bik Jaye Bazar Meiṅ
-  Aur Nafs-e-Nabi Ka Kharidar Tu
+  Dakhl mumkin nahiṅ tere asraar mein
+  Kis ko yaaraa bhalaa teri sarkaar mein
+  Kis ko taab-e-sukhan tere darbaar mein
+  Husn-e-Yusuf saa bik jaaye baazaar mein
+  Aur nafs-e-nabi ka kharidaar tu
   Allah Hu, Allah Hu, Allah Hu
 
   4
-  Did Kis Ko Muyassar Teri Zaat Ki
-  Lakh Musa Ne Tujh Se Munajaat Ki
-  Phir Bhi Tu Ne Na Un Se Mulaqaat Ki
-  Chhup Ke Parde Meiṅ Ki Jab Kabhi Baat Ki
-  Aur Muhammad Se Ki Do-Ba-Do Guftagu
+  Did kis ko muyassar teri zaat ki
+  Laakh Musa ne tujh se munaajaat ki
+  Phir bhi tu ne na un se mulaaqaat ki
+  Chhup ke parde mein ki jab kabhi baat ki
+  Aur Muhammad se ki do ba do guftagu
   Allah Hu, Allah Hu, Allah Hu
 
   5
-  Har Fazilat Muhammad Ke Ghar Bhaij Di
-  Thi Jo She Khub Se Khub Tar Bhaij Di
-  Un Ke Bhai Ko Taig-e-Do-Sar Bhaij Di
-  Aur Malak Se Phir Us Ki Khabar Bhaij Di
-  La-Fata Ki Sada Ab Bhi Hai Chaar Su
+  Har fazilat Muhammad ke ghar bhej di
+  Thi jo shai khub se khub tar bhej di
+  Un ke bhaai ko taigh-e-do sar bhej di
+  Aur malak se phir us ki khabar bhej di
+  Laa fataa ki sadaa ab bhi hai chaar su
   Allah Hu, Allah Hu, Allah Hu
 
   6
-  Jin Ko Apne Buzurgoṅ Se Pasti Mili
-  Ilm o Irfan Ki Faqa Masti Mili
-  Din o Emaṅ Ki Tang Dasti Mili
-  Apne Ajdad Se But Parasti Mili
-  Un Ki Mehfil Meiṅ Bhi Aaj Hai Chaar Su
+  Jin ko apne buzurgoṅ se pasti mili
+  Ilm o irfaan ki faaqa masti mili
+  Din o imaaṅ ki tang dasti mili
+  Apne ajdaad se but parasti mili
+  Un ki mahfil mein bhi aaj hai chaar su
   Allah Hu, Allah Hu, Allah Hu
 ---
 

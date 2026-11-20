@@ -8,48 +8,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Tha ye Bano ka bayan, kis ko doon ab lorian
-  Dhoondti phirti hay maadar hay mera Asghar kahan
+  Tha ye Bano ka bayaaṅ, kis ko duṅ ab loriyaaṅ
+  Dhundti phirti hai maadar, hai mera Asghar kahaaṅ
 
   1
-  Tera jhoola jal gaya, aey meray tishna dahaan
-  Dhoondti phirti hay maadar hay mera Asghar kahaan
+  Tera jhula jal gaya, ae mere tishna dahaaṅ
 
   2
-  Haey woh nazuk gala, teen din se khushk tha
-  Barhh ke moj e teer ne wo, kis qadar zakhmi kiya
-  Tar hui khoon se zabaan, le sakay na hichkiyaan
-  Dhoondti phirti hay maadar hay mera Asghar kahaan
+  Haaye woh naazuk gala, tin din se khushk tha
+  Barh ke mauj-e-tir ne woh, kis qadar zakhmi kiya
+  Tar hui khuṅ se zabaan, le sake na hichkiyaaṅ
 
   3
-  Khoon bhara kurta tera, haey wo bhi chin gaya
-  Ab jiyon kis ke saharay, paas meray kiya raha
-  Zindagi hay raegan, umar bhar hoon noha khawan
-  Dhoondti phirti hay maadar hay mera Asghar kahaan
+  Khuṅ bhara kurta tera, haaye woh bhi chhin gaya
+  Ab jiyuṅ kis ke sahaare, paas mere kya raha
+  Zindagi hai raaegaaṅ, umr bhar huṅ nauha khwaaṅ
 
   4
-  Khaali jhoola dekh kar, aey meray noor e nazar
-  Ankh faryadi hay meri, aur rota hay jigar
-  Soo gaye ho tum kahan, chain paya kaisay maa
-  Dhoondti phirti hay mada hay mera Asghar kahaan
+  Khaali jhula dekh kar, ae mere nur-e-nazar
+  Aaṅkh faryaadi hai meri, khaak hota hai jigar
+  So gaye ho tum kahaaṅ, chain paaye kaise maaṅ
 
   5
-  May musafir Shaam ki, khatm had aaram ki
-  Qaid ho kar ja rahi hoon, gard hay aalam ki
-  Bandh chuki hain rassiyan, ham kahaan ab tum kahaan
-  Dhoondti phirti hay maadar hay mera Asghar kahaan
+  Main musaafir Shaam ki, khatm hadd aaraam ki
+  Qaid ho kar ja rahi huṅ, gard hai aalaam ki
+  Bandh chuki haiṅ rassiyaaṅ, ham kahaaṅ ab tum kahaaṅ
 
   6
-  Jaam ashkon ke piyo, aaj ki shab soo rahoo
-  Umr lag jaye hamari, tum yuhin jeetay rahoo
-  Tum pe qurbaan meri jaan, aey qarar e bekasaan
-  Dhoondti phirti hay maadar hay mera Asghar kahaan
+  Jaam ashkoṅ ke piyo, aaj ki shab so raho
+  Umr lag jaaye hamaari, tum yunhi jite raho
+  Tum pe qurbaaṅ meri jaaṅ, ae qaraar-e-bekasaaṅ
 
   7
-  Mir kiya Rehan kiya, jis ne ye Noha suna
-  Ashk ankhon se baha kar, us ne ro ro kar kaha
-  Haey wo Asghar ki maa, Uff wo tera imtehaan
-  Dhoondti phirti hay maadar hay mera Asghar kahaan
+  Mir kya Rehan kya, jis ne ye nauha suna
+  Ashk aaṅkhoṅ se baha kar, us ne ro ro kar kaha
+  Haaye woh Asghar ki maaṅ, uff woh tera imtihaaṅ
 ---
 
 تھا یہ بانو کا بیاں، کس کو دوں اب لوریاں

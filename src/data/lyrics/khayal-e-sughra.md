@@ -1,6 +1,6 @@
 ---
 title: "خیال صغرا"
-alternateTitle: "Khayal E Sughra"
+alternateTitle: "Khayaal-e-Sughra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khayaal e sughra
-  Khabar aayi aane ko hai khaafila
-  To sughra ne qalbe haziṅ se kaha
+  Khayaal-e-Sughra
+  Khabar aayi aane ko hai qaafila
+  To Sughra ne qalb-e-haziṅ se kaha
   Tarapne se rone se ab kaam kya
   Tera shukriya rab ada kaise ho
   Ke bichre huoṅ ko milaata hai tu
-  Phir uth kar ye ghazi ki maa se kaha
+  Phir uth kar ye Ghazi ki maa se kaha
   Chalo amma aaya hai kunba mera
-  Ab mai kahaṅ roti hoo
+  Ab main kahaṅ roti huṅ
   Ujaale meri simt barhne lage
-  Ke baba Husain aaj ghar aa rahe hai
-  Mai baba ko dekhungi to ji uthungi
-  Balayeiṅ sakina ki asghar ki lungi
-  Bahot khush hoo aata hai akbar mera
-  Ab mai kahaṅ roti hoo...
-  Mai baba ke jhuk kar qadam chum lungi
-  Bhulaya mujhe unse shikwa karungi
-  Na tum aaye baba na ghar aaye akbar
-  Na paate hameiṅ dayr hoti jo dam bhar
-  Tum aaye karuṅ kiuṅ na shukre khuda
-  Ab mai kahaṅ roti hoo...
-  Sajaalun mai akbar ka hujra zara
+  Ke baba Husain aaj ghar aa rahe haiṅ
+  Main baba ko dekhungi to ji uthungi
+  Balaayeṅ Sakina ki Asghar ki lungi
+  Bahut khush huṅ aata hai Akbar mera
+  Ab main kahaṅ roti huṅ...
+  Main baba ke jhuk kar qadam chum lungi
+  Bhulaya mujhe unse shikwa karuṅ gi
+  Na tum aaye baba na ghar aaye Akbar
+  Na paate hameṅ der hoti jo dam bhar
+  Tum aaye karuṅ kiuṅ na shukr-e-Khuda
+  Ab main kahaṅ roti huṅ...
+  Saja luṅ main ka hujra zara
   Suna hai mera bhai dulha bana
-  Na yaad aayi behna hai dil meiṅ chuban
-  Magar khush hoo layega akbar dulhan
-  To saaya karungi mai quran ka
-  Ab mai kahaṅ roti hoo...
-  Na pyasi ho meri sakina kahiṅ
-  Hai pehla safar aur jalti zamiṅ
-  Na garmi se sukhe huwe ho gale
-  Banaluṅ mai sharbat sabhi ke liye
-  Pilayenge ghar aake sab ko chacha
-  Ab mai kahaṅ roti hoo...
-  Jo guzri phupi ko bataungi mai
-  Gale mil ke amma se roungi mai
-  Liye hongi asghar ko chadar tale
-  Ke nanhi se jaan zer e saaya rahe
-  Meri godh meiṅ hoga asghar mera
-  Ab mai kahaṅ roti hoo...
+  Na yaad aayi behna hai dil mein chuban
+  Magar khush huṅ laayega Akbar dulhan
+  To saaya karuṅ gi main Quraan ka
+  Ab main kahaṅ roti huṅ...
+  Na pyaasi ho meri Sakina kahiṅ
+  Hai pehle safar aur jalti zamiṅ
+  Na garmi se sukhe hue ho gale
+  Bana luṅ main sharbat sabhi ke liye
+  Pilayenge ghar aa ke sab ko chacha
+  Ab main kahaṅ roti huṅ...
+  Jo guzri phuphi ko bataauṅ gi main
+  Gale mil ke amma se roungi main
+  Liye hongi Asghar ko chadar tale
+  Ke nanhi se jaan zer-e-saaya rahe
+  Meri god mein ho ga Asghar mera
+  Ab main kahaṅ roti huṅ...
   Achanak utha shor aaye haram
-  Barhi kehke sughra elaahi karam
-  Gale mil ke ghazi ki maa se kaha
+  Barhi keh ke Sughra ilaahi karam
+  Gale mil ke Ghazi ki maa se kaha
   Chalo amma aaya hai kunba mera
-  Na ro'o khudara khushi ki hai jaa
-  Ab mai kahaṅ roti hoo...
-  Jo nikli to aahoṅ ka tufan tha
-  Nazar aaya ujra hua khaafila
-  Jo ghash khaake wo gham ki maari giri
+  Na ro-o khudaara khushi ki hai jaa
+  Ab main kahaṅ roti huṅ...
+  Jo nikli to aahoṅ ka tufaan tha
+  Nazar aaya ujra hua qaafila
+  Jo ghash kha ke woh gham ki maari giri
   To naaqe se maa ki amaari giri
-  Kabhi phir na gunji fiza meiṅ sada
-  Ab mai kahaṅ roti hoo...
-  Madine ki galyioṅ meiṅ ab bhi samar
-  Ye dekha hai phat'ta hai gham se jigar
+  Kabhi phir na gunji fiza mein sada
+  Ab main kahaṅ roti huṅ...
+  Madine ki galiyoṅ mein ab bhi Samar
+  Ye dekha hai phatta hai gham se jigar
   Fiza saari ashkoṅ se bhigi hui
-  Ye kehti hai sughra to ab na rahi
-  Hai khamosh hontoṅ pe nauha raza
-  Ab mai kahaṅ roti hoo...
+  Ye kehti hai Sughra to ab na rahi
+  Hai khaamosh hontoṅ pe nauha raza
+  Ab main kahaṅ roti huṅ...
 ---
 
 ۱

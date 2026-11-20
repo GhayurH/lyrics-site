@@ -1,107 +1,224 @@
 ---
-title: "Main Hoon Aik Phool Aza Kahnay Ka"
+title: "میں ہوں ایک پھول عزا خانے کا"
+alternateTitle: "Main Hoon Aik Phool Aza Kahnay Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Main hoon aik phool aza kahnay ka
+
+  Kaise karta hai, chaman ashk fishaani suniye
+  Aik masoom ki choti si kahaani suniye
+  Jiski roodaad hai khud uski zabaani suniye
+  Bey zabaa(n) phool ki ayejaaz bayaani suniye
+  Karbala walon, ka har nakshe qadam taaza hai
+  Ghuncha-o- gul mein bhi Shabbir ka gham taaza hai
+
+  1
+  Mein hoon woh phool, joh har daawatey matam mein raha
+  Mein hoon woh phool, joh Kausar kabhi Zam Zam mein raha
+  Mein hoon woh phool joh tat-heer ki shabnam mein raha
+  Mein hoon woh phool joh Abbas ke parcham mein raha
+  Meri har phool se, taaseer juda milti hai
+  Meri khushboo se mareezon ko shifa milti hai
+
+  Aik masoom ki choti si kahaani suniye
+
+  2
+  Sabz patton se mili mujhko Hasan ki chaahat
+  Khoon-e-Sarwar ki badaulat hai yeh meri rangat
+  Mujhko Asghar ke tabassum se mili hai shohrat
+  Rishta-e- khaak-e-shifa ne mujhe bakshi nak-hat
+  Meri takhleek, hui ajr-e-risalat ke liye
+  Mein chuna jaata hoon iz-haare aqeedat ke liye
+
+  Aik masoom ki choti si kahaani suniye
+
+  3
+  Karbala waale bahaatar pa fida rehta hoon
+  Mein azakhaane ki chaukatt pa saja rehta hoon
+  Mein Muharram mein sada mehw-e-aza rehta hoon
+  Zikr-e-Asghar ki badaulat mein khila rehta hoon
+  Aik beysheer, ne bakshi hai yeh daulat mujhko
+  Hai Muharram mein bhi hasney ki ijazat mujhko
+
+  Aik masoom ki choti si kahaani suniye
+
+  4
+  Logh taaboot ki chaader mein sajaate hain mujhe
+  Taziyaa khanon mein kiss shaan se laate hain mujhe
+  Apne bachon ko tabaruk mein khilatey hain mujhe
+  Mein joh girr jaoon toh palkon se uthatey hain mujhe
+  Khush naseebi hai, meri shah ke gham tak jaana
+  Meri meraj hai ghazi ke alam par jaana
+
+  Aik masoom ki choti si kahaani suniye
+
+  5
+  Mein hoon suraj ka dulaara mein hawaon ka habeeb
+  Kaam m-mera hai niraala toh meri shaan n-ajeeb
+  Aasmaanon se bhi ooncha hai bohat mera naseeb
+  Mujhko parcham mein jaga milti hai panjey ke qareeb
+  Naam-e-Abbas, ki tas-beeh parha karta hoon
+  Guftagu mashk-e-Sakina se kiya karta hoon
+
+  Aik masoom ki choti si kahaani suniye
+
+  6
+  Dard samjhe toh koi kaash sh-mere haaron ka
+  Saath acha nahi lagta hai mujhe khaaron ka
+  Shaukh hai taaj ki zeenat ka na dastaaron ka
+  Muntazir rehta hoon gulshan mein azadaron ka
+  Taaziye par mujhe le jaake charha dete hain
+  Saare nabiyon se meri shaan barha dete hain
+
+  Aik masoom ki choti si kahaani suniye
+
+  7
+  Badnaseebi hai kisi aur taraf jaane mein
+  Mujhko mil jaey jaga shah ke kashaane mein
+  Lutf khilney ka nazar aayega murjhaane mein
+  Mein bohat chain se rehta hoon aza khaane mein
+  Aarzoo jiski hai mujhko wohi taameer miley
+  Kuch miley ya na miley roza-e-Shabbir miley
+
+  Aik masoom ki choti si kahaani suniye
+
+  8
+  Bezabaa(n) ki bhi ibadat ke saleeqey dekho
+  Mera Kaaba mera qibla mere sajdey dekho
+  Kitne mazboot hain Shabbir se rishtey dekho
+  Aao samaan-e-aza mein mere tukrhey dekho
+  Lutf khilne ka mila hai mujhe murjhaane mein
+  Aakhiri saans joh guzri hai aza khaane mein
+
+  Aik masoom ki choti si kahaani suniye
+
+  9
+  Aa rahi thi daro deewar se halmin ki sada
+  Mere kaanon ne bhi awaaz ko mehsoos kiya
+  Phool ghabraey bahaaron ne chaman chorh diya
+  Shor uthta tha ke yeh kaisi qayamat hai bapa
+  Nusrat-e-haq ke liye mein bhi zadey teer mein tha
+  Roze Aashur safey Asghar-e-baysheer mein tha
+
+  10
+  Daasta phool ki kitni hai Anoo ki likhi
+  Dekhna joh bhi suneyga nahi bhooley ga kabhi
+  Jis taraf dekho udhar khuld ki khushboo hai bassi
+  Aaj Kazim ko dua degi naseem-e-sehri
+  Aaley ath-haar ki seeney mein mohabbat rakhe
+  Uske har phool ko Allah salamat rakhe
+
+  Aik masoom ki choti si kahaani suniye
 ---
 
-Main Hoon Aik Phool Aza Kahnay Ka
+میں ہوں ایک پھول عزا خانے کا
 
-Kaise Karta Hai, Chaman Ashk Fishaani Suniye
-Aik Masoom Ki Choti Si Kahaani Suniye
-Jiski Roodaad Hai Khud Uski Zabaani Suniye
-Bey Zabaa(n) Phool Ki Ayejaaz Bayaani Suniye
-Karbala Walon, Ka Har Nakshe Qadam Taaza Hai
-Ghuncha-o- Gul Mein Bhi Shabbir Ka Gham Taaza Hai
+کیسے کرتا ہے، چمن اشک فشانی سنیے
+ایک معصوم کی چھوٹی سی کہانی سنیے
+جس کی روداد ہے خود اس کی زبانی سنیے
+بے زباں پھول کی اعجاز بیانی سنیے
+کربلا والوں، کا ہر نقشِ قدم تازہ ہے
+غنچہ و گل میں بھی شبیر کا غم تازہ ہے
 
-Mein Hoon Woh Phool, Joh Har Daawatey Matam Mein Raha
-Mein Hoon Woh Phool, Joh Kausar Kabhi Zam Zam Mein Raha
-Mein Hoon Woh Phool Joh Tat-heer Ki Shabnam Mein Raha
-Mein Hoon Woh Phool Joh Abbas Ke Parcham Mein Raha
-Meri Har Phool Se, Taaseer Juda Milti Hai
-Meri Khushboo Se Mareezon Ko Shifa Milti Hai
+۱
+میں ہوں وہ پھول، جو ہر دعوتِ ماتم میں رہا
+میں ہوں وہ پھول، جو کوثر کبھی زم زم میں رہا
+میں ہوں وہ پھول جو تطہیر کی شبنم میں رہا
+میں ہوں وہ پھول جو عباس کے پرچم میں رہا
+میری ہر پھول سے، تاثیر جدا ملتی ہے
+میری خوشبو سے مریضوں کو شفا ملتی ہے
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Sabz Patton Se Mili Mujhko Hasan Ki Chaahat
-Khoon-e-Sarwar Ki Badaulat Hai Yeh Meri Rangat
-Mujhko Asghar Ke Tabassum Se Mili Hai Shohrat
-Rishta-e- Khaak-e-Shifa Ne Mujhe Bakshi Nak-hat
-Meri Takhleek, Hui Ajr-e-Risalat Ke Liye
-Mein Chuna Jaata Hoon Iz-haare Aqeedat Ke Liye
+۲
+سبز پتوں سے ملی مجھ کو حسن کی چاہت
+خونِ سرور کی بدولت ہے یہ میری رنگت
+مجھ کو اصغر کے تبسم سے ملی ہے شہرت
+رشتۂ خاکِ شفا نے مجھے بخشی نکہت
+میری تخلیق، ہوئی اجرِ رسالت کے لیے
+میں چنا جاتا ہوں اظہارِ عقیدت کے لیے
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Karbala Waale Bahaatar Pa Fida Rehta Hoon
-Mein Azakhaane Ki Chaukatt Pa Saja Rehta Hoon
-Mein Muharram Mein Sada Mehw-e-Aza Rehta Hoon
-Zikr-e-Asghar Ki Badaulat Mein Khila Rehta Hoon
-Aik Beysheer, Ne Bakshi Hai Yeh Daulat Mujhko
-Hai Muharram Mein Bhi Hasney Ki Ijazat Mujhko
+۳
+کربلا والے بہتر پہ فدا رہتا ہوں
+میں عزا خانے کی چوکھٹ پہ سجا رہتا ہوں
+میں محرم میں سدا محوِ عزا رہتا ہوں
+ذکرِ اصغر کی بدولت میں کھلا رہتا ہوں
+ایک بے شیر، نے بخشی ہے یہ دولت مجھ کو
+ہے محرم میں بھی ہنسنے کی اجازت مجھ کو
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Logh Taaboot Ki Chaader Mein Sajaate Hain Mujhe
-Taziyaa Khanon Mein Kiss Shaan Se Laate Hain Mujhe
-Apne Bachon Ko Tabaruk Mein Khilatey Hain Mujhe
-Mein Joh Girr Jaoon Toh Palkon Se Uthatey Hain Mujhe
-Khush Naseebi Hai, Meri Shah Ke Gham Tak Jaana
-Meri Meraj Hai Ghazi Ke Alam Par Jaana
+۴
+لوگ تابوت کی چادر میں سجاتے ہیں مجھے
+تعزیہ خانوں میں کس شان سے لاتے ہیں مجھے
+اپنے بچوں کو تبرک میں کھلاتے ہیں مجھے
+میں جو گر جاؤں تو پلکوں سے اٹھاتے ہیں مجھے
+خوش نصیبی ہے، میری شاہ کے غم تک جانا
+میری معراج ہے غازی کے علم پر جانا
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Mein Hoon Suraj Ka Dulaara Mein Hawaon Ka Habeeb
-Kaam m-Mera Hai Niraala Toh Meri Shaan n-Ajeeb
-Aasmaanon Se Bhi Ooncha Hai Bohat Mera Naseeb
-Mujhko Parcham Mein Jaga Milti Hai Panjey Ke Qareeb
-Naam-e-Abbas, Ki Tas-beeh Parha Karta Hoon
-Guftagu Mashk-e-Sakina Se Kiya Karta Hoon
+۵
+میں ہوں سورج کا دلارا میں ہواؤں کا حبیب
+کام میرا ہے نرالا تو میری شان عجیب
+آسمانوں سے بھی اونچا ہے بہت میرا نصیب
+مجھ کو پرچم میں جگہ ملتی ہے پنجے کے قریب
+نامِ عباس، کی تسبیح پڑھا کرتا ہوں
+گفتگو مشکِ سکینہ سے کیا کرتا ہوں
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Dard Samjhe Toh Koi Kaash sh-Mere Haaron Ka
-Saath Acha Nahi Lagta Hai Mujhe Khaaron Ka
-Shaukh Hai Taaj Ki Zeenat Ka Na Dastaaron Ka
-Muntazir Rehta Hoon Gulshan Mein Azadaron Ka
-Taaziye Par Mujhe Le Jaake Charha Dete Hain
-Saare Nabiyon Se Meri Shaan Barha Dete Hain
+۶
+درد سمجھے تو کوئی کاش میرے ہاروں کا
+ساتھ اچھا نہیں لگتا ہے مجھے خاروں کا
+شوق ہے تاج کی زینت کا نہ دستاروں کا
+منتظر رہتا ہوں گلشن میں عزاداروں کا
+تعزیے پر مجھے لے جا کے چڑھا دیتے ہیں
+سارے نبیوں سے میری شان بڑھا دیتے ہیں
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Badnaseebi Hai Kisi Aur Taraf Jaane Mein
-Mujhko Mil Jaey Jaga Shah Ke Kashaane Mein
-Lutf Khilney Ka Nazar Aayega Murjhaane Mein
-Mein Bohat Chain Se Rehta Hoon Aza Khaane Mein
-Aarzoo Jiski Hai Mujhko Wohi Taameer Miley
-Kuch Miley Ya Na Miley Roza-e-Shabbir Miley
+۷
+بدنصیبی ہے کسی اور طرف جانے میں
+مجھ کو مل جائے جگہ شاہ کے کاشانے میں
+لطف کھلنے کا نظر آئے گا مرجھانے میں
+میں بہت چین سے رہتا ہوں عزا خانے میں
+آرزو جس کی ہے مجھ کو وہی تعمیر ملے
+کچھ ملے یا نہ ملے روضۂ شبیر ملے
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Bezabaa(n) Ki Bhi Ibadat Ke Saleeqey Dekho
-Mera Kaaba Mera Qibla Mere Sajdey Dekho
-Kitne Mazboot Hain Shabbir Se Rishtey Dekho
-Aao Samaan-e-Aza Mein Mere Tukrhey Dekho
-Lutf Khilne Ka Mila Hai Mujhe Murjhaane Mein
-Aakhiri Saans Joh Guzri Hai Aza Khaane Mein
+۸
+بے زباں کی بھی عبادت کے سلیقے دیکھو
+میرا کعبہ میرا قبلہ میرے سجدے دیکھو
+کتنے مضبوط ہیں شبیر سے رشتے دیکھو
+آؤ سامانِ عزا میں میرے ٹکڑے دیکھو
+لطف کھلنے کا ملا ہے مجھے مرجھانے میں
+آخری سانس جو گزری ہے عزا خانے میں
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے
 
-Aa Rahi Thi Daro Deewar Se Halmin Ki Sada
-Mere Kaanon Ne Bhi Awaaz Ko Mehsoos Kiya
-Phool Ghabraey Bahaaron Ne Chaman Chorh Diya
-Shor Uthta Tha Ke Yeh Kaisi Qayamat Hai Bapa
-Nusrat-e-Haq Ke Liye Mein Bhi Zadey Teer Mein Tha
-Roze Aashur Safey Asghar-e-Baysheer Mein Tha
+۹
+آ رہی تھی در و دیوار سے ہل من کی صدا
+میرے کانوں نے بھی آواز کو محسوس کیا
+پھول گھبرائے بہاروں نے چمن چھوڑ دیا
+شور اٹھتا تھا کہ یہ کیسی قیامت ہے بپا
+نصرتِ حق کے لیے میں بھی زدِ تیر میں تھا
+روزِ عاشور صفِ اصغرِ بے شیر میں تھا
 
-Daasta Phool Ki Kitni Hai Anoo Ki Likhi
-Dekhna Joh Bhi Suneyga Nahi Bhooley Ga Kabhi
-Jis Taraf Dekho Udhar Khuld Ki Khushboo Hai Bassi
-Aaj Kazim Ko Dua Degi Naseem-e-Sehri
-Aaley Ath-haar Ki Seeney Mein Mohabbat Rakhe
-Uske Har Phool Ko Allah Salamat Rakhe
+۱۰
+داستاں پھول کی کتنی ہے انو کی لکھی
+دیکھنا جو بھی سنے گا نہیں بھولے گا کبھی
+جس طرف دیکھو ادھر خلد کی خوشبو ہے بسی
+آج کاظم کو دعا دے گی نسیمِ سحری
+آلِ اطہار کی سینے میں محبت رکھے
+اس کے ہر پھول کو اللہ سلامت رکھے
 
-Aik Masoom Ki Choti Si Kahaani Suniye
+ایک معصوم کی چھوٹی سی کہانی سنیے

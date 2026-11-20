@@ -1,29 +1,47 @@
 ---
-title: "Chup Kar Ke Tur Gaya Aye Dukh Seh Ke Tur Gaya Aye Lyrics In Punjabi 2023"
+title: "چپ کر کے تُر گیا اے، دکھ سہہ کے تُر گیا اے"
+alternateTitle: "Chup Kar Ke Tur Gaya Aye Dukh Seh Ke Tur Gaya Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Abdullah"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chup kar ke tur gaya aye dukh seh ke tur gaya aye
+  Ik waar nayi do wari haye zehar pe gaya aye
+  Ik chok Madine da ainu yaad rehya aye aiday piyo nu rasiyaan pa ke khichday ne leaye
+  Takda aye rehya aye chup ho gaya si oss welay jadon maa nu mariya aye
+
+  2
+  Sab bhain bhira mere Ghazi nu bulao khamosh wafawaan wali dastar pawao
+  Mere gal nal lao hun taun ais chup da waris ayein Ghazi nu keh gaya aye
+  Nana teri ummat ne aye ajar walaye phulaan diyaan patiyaan wangoon haye teer wasaye
+  Kyun taras na aaye nanay de rozay te ja ke aye janaza mur gaya aye
+
+  3
+  Qasim nu Maula ne taweez pawaya samjhan layi Qasim nu seene te litaya
+  Gal sun mera jaya aynj da pamal toon hona aye banay khak oh shifa aye
+  Aal-e- Abdullah aye mazloom bara aye ik bibi zehar piyaye ik teer chalaye
+  Haye arsh halaye kita aye basharat lokaan ne ainu qatal be khata aye
 ---
 
-1
-Chup Kar Ke Tur Gaya Aye Dukh Seh Ke Tur Gaya Aye.
-Ik Waar Nayi Do Wari Haye Zehar Pe Gaya Aye.
-Ik Chok Madine Da Ainu Yaad Rehya Aye Aiday Piyo Nu Rasiyaan Pa Ke Khichday Ne Leaye.
-Takda Aye Rehya Aye Chup Ho Gaya Si Oss Welay Jadon Maa Nu Mariya Aye.
+۱
+چپ کر کے تُر گیا اے، دکھ سہہ کے تُر گیا اے
+اک وار نئیں، دو واری ہائے زہر پی گیا اے
+اک چوک مدینے دا اینوں یاد رہیا اے، ایہدے پیو نوں رسیاں پا کے کھچدے نے لیائے
+تکدا اے رہیا اے، چپ ہو گیا سی اوس ویلے جدوں ماں نوں ماریا اے
 
-2
-Sab Bhain Bhira Mere Ghazi Nu Bulao Khamosh Wafawaan Wali Dastar Pawao.
-Mere Gal Nal Lao Hun Taun Ais Chup Da Waris Ayein Ghazi Nu Keh Gaya Aye.
-Nana Teri Ummat Ne Aye Ajar Walaye Phulaan Diyaan Patiyaan Wangoon Haye Teer Wasaye.
-Kyun Taras Na Aaye Nanay De Rozay Te Ja Ke Aye Janaza Mur Gaya Aye.
+۲
+سب بھین بھرا میرے غازی نوں بلاؤ، خاموش وفاواں والی دستار پواؤ
+میرے گل نال لاؤ، ہُن توں ایس چپ دا وارث ایں، غازی نوں کہہ گیا اے
+نانا تیری امت نے اے اجر ولائے، پھلاں دیاں پتیاں وانگوں ہائے تیر وسائے
+کیوں ترس نہ آئے، نانے دے روضے تے جا کے اے جنازہ مُڑ گیا اے
 
-3
-Qasim Nu Maula Ne Taweez Pawaya Samjhan Layi Qasim Nu Seene Te Litaya.
-Gal Sun Mera Jaya Aynj Da Pamal Toon Hona Aye Banay Khak Oh Shifa Aye.
-Aal-e- Abdullah Aye Mazloom Bara Aye Ik Bibi Zehar Piyaye Ik Teer Chalaye.
-Haye Arsh Halaye Kita Aye Basharat Lokaan Ne Ainu Qatal Be Khata Aye.
+۳
+قاسم نوں مولا نے تعویذ پوایا، سمجھن لئی قاسم نوں سینے تے لٹایا
+گل سُن میرا جایا، اینج دا پامال توں ہونا اے، بنے خاک اوہ شفا اے
+آلِ عبداللہ اے، مظلوم بڑا اے، اک بی بی زہر پیائے، اک تیر چلائے
+ہائے عرش ہلائے، کیتا اے بشارت لوکاں نے اینوں قتلِ بے خطا اے

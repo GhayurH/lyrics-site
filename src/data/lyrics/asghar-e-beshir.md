@@ -13,8 +13,8 @@ aliases: []
 published: true
 romanLyrics: |-
   Ro rahi hai soch kar Ummul Banin ye aaj bhi
-  Asghar-e-Beshir jaisi qabr hai Abbas ki
-  Rashk karti thi maiṅ aks-e-Haider-e-Karrar par
+  Asghar-e-Be Shir jaisi qabr hai Abbas ki
+  Rashk karti thi main aks-e-Haider-e-Karrar par
   Paaoṅ khat dete the uske baith kar rahwaar par
   Haaye mere sher ki ye kaisi haalat ho gayi
 
@@ -29,24 +29,24 @@ romanLyrics: |-
   Aap ki tasvir tukre ho gayi hai Ya Ali
 
   3
-  Kaun lar sakta tha us se kis meiṅ tha itna jigar
+  Kaun lar sakta tha us se kis mein tha itna jigar
   Sunti huṅ nau laakh ne maara hai usko gher kar
-  Laash bhi uski salaamat dasht meiṅ rehne na di
+  Laash bhi uski salaamat dasht mein rehne na di
 
   4
   Kya qad o qaamat thi uski ye use maalum tha
-  Ek gathri meiṅ simat kar kaise Qasim aa gaya
+  Ek gathri mein simat kar kaise Qasim aa gaya
   Umme Farwa jaanti hai kya hai meri bekasi
 
   5
-  Kab samaata tha meri chaadar meiṅ tu ae mere laal
+  Kab samaata tha meri chaadar mein tu ae mere laal
   Kar diya hai zaalimoṅ ne ye tere laashe ka haal
   Hai mere sar ki rida bhi teri turbat se bari
 
   6
   Keh ke Ya Abbas karta hai wo ashkoṅ se wuzu
   Darti huṅ jaari na ho phir uski aankhoṅ se lahu
-  Saamne Abid ke yuṅ kehti nahiṅ huṅ maiṅ kabhi
+  Saamne Abid ke yuṅ kehti nahiṅ huṅ main kabhi
 
   7
   Ro ke karti hai salaam unko Takallum Karbala

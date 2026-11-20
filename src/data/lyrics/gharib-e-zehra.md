@@ -13,36 +13,36 @@ aliases: ["Ghareebe Zehra"]
 published: true
 romanLyrics: |-
   Safar tamaam hua dekh chuka Karbobala
-  Alvida kehne jo maula ke haram meiṅ pahuncha
-  Aankh se aansu bahe dil meiṅ udaasi chaayi
+  Alvida kehne jo maula ke haram mein pahuncha
+  Aaṅkh se aaṅsu bahe dil mein udaasi chhaayi
   Yaad jab Syed-e-Sajjad ki rukhsat aayi
   Haaye wo dasht-e-bala bekafan tha laasha
-  Apne haathoṅ meiṅ kafan dekh ke maiṅ ne ye kaha
+  Apne haathoṅ mein kafan dekh ke main ne ye kaha
 
   Gharib-e-Zahra shahid-e-Karbobala
   Kahaṅ hamaara safar kahaṅ hamaara safar
 
   1
-  Hum ne jab pehla qadam Karbobala meiṅ rakha
-  Tum ne zawwaroṅ ka is tarah se ehsaas kiya
+  Hum ne jab pehla qadam Karbobala mein rakha
+  Tum ne zawwaaroṅ ka is tarah se ehsaas kiya
   Rakh diya haath azaadaaroṅ ke dil par haaye
   Hum ne rona bhi agar chaaha to rone na diya
   Haaṅ magar tum ko yahaṅ jab bulaaya mehmaaṅ
-  Mil ke nau laakh ne maqtal meiṅ rula kar maara
+  Mil ke nau laakh ne maqtal mein rula kar maara
 
   2
   Aaj rauze se bahut dur hai darya maula
-  Haaṅ magar phir bhi in aankhoṅ ne ye dekha maula
-  Har qadam raah meiṅ paani ki sabileṅ to mili
-  Karbala meiṅ na mila koi bhi pyaasa maula
+  Haaṅ magar phir bhi in aaṅkhoṅ ne ye dekha maula
+  Har qadam raah mein paani ki sabileṅ to mili
+  Karbala mein na mila koi bhi pyaasa maula
   Tin din tak tum pe band paani rakh ke
-  Kar diya qatl isi shehr meiṅ bhuka pyaasa
+  Kar diya qatl isi shehr mein bhuka pyaasa
 
   3
   Maula hum bhul nahiṅ paayeṅge Zainab ki thakan
   Aap ki tarah mere saath bhi aayi hai behan
   Wo bhi ghar laut ke jaayegi yahaṅ se lekin
-  Sar pe chaadar bhi hai haathoṅ meiṅ nahiṅ koi rasan
+  Sar pe chaadar bhi hai haathoṅ mein nahiṅ koi rasan
   Aur tumhaari wo behan ho ke paaband-e-rasan
   Shaam rukhsat hui baaloṅ se chhupa kar chehra
 
@@ -51,8 +51,8 @@ romanLyrics: |-
   Jab meri beti mere sine se aa kar lipti
   Koi na aaya use mujh se chhuraane ke liye
   Haaṅ magar aap ki wo chaar baras ki pyaasi
-  Dasht meiṅ roti hui aap se jab lipti
-  Shimr ne kheṅch ke baaloṅ se tamaacha maara
+  Dasht mein roti hui aap se jab lipti
+  Shimr ne kheṅch ke baaloṅ se tamaancha maara
 
   5
   Ek din rauza-e-Abbas pe hum baithe the
@@ -64,19 +64,19 @@ romanLyrics: |-
 
   6
   Dil yahiṅ chhor diya laut ke jaata huṅ watan
-  Karne aaya huṅ salaam aakhri Ae Shah-e-Zaman
+  Karne aaya huṅ salaam aakhri ae Shah-e-Zaman
   Na andhera hai na mujh par hai musibat koi
-  Tauq gardan meiṅ na zanjir meiṅ jakra hai badan
+  Tauq gardan mein na zanjir mein jakra hai badan
   Aur wo Aabid ka safar ek qaidi ban kar
   Sar jhukaaye hue laashe se tumhaare guzra
 
   7
-  Aa gaya Mesum o Zishan maiṅ rukhsat ho kar
+  Aa gaya Mesum o Zishan main rukhsat ho kar
   Na hi kaantoṅ ki chubhan na koi sar neze par
   Taaziyaane bhi kisi ne nahiṅ maare mujh ko
   Aag na khaulta paani na baraste patthar
   Jitna chaaha roya kab kisi ne maara
-  Raah meiṅ apna safar dekh ke maiṅ kehta raha
+  Raah mein apna safar dekh ke main kehta raha
 ---
 سفر تمام ہوا دیکھ چکا کربوبلا
 الوداع کہنے جو مولا کے حرم میں پہنچا

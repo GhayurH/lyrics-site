@@ -18,7 +18,7 @@ romanLyrics: |-
   Kya karti ajal Misam-e-Tammaar se baateṅ
 
   2
-  Ye naasir-e-Shabbir hai pichhe na hateṅge
+  Ye naasir-e-Shabbir hai pichhe na hateṅ ge
   Faujeṅ na kareṅ aahani diwaar se baateṅ
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Allah ki marzi ke liye Shaah-e-Shahidaaṅ
-  Ab kaun karega tere didaar se baateṅ
+  Ab kaun kare ga tere didaar se baateṅ
 
   5
   Is tezi se Abbas su-e-nehr chale haiṅ

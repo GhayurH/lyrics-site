@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Uncha rahe uncha rahe ghazi alam tera
-  Har daur meiṅ uncha raha ghazi alam tera
+  Uncha rahe uncha rahe ghaazi alam tera
+  Har daur meiṅ uncha raha ghaazi alam tera
   Chauda sau baras se jhuk na saka
-  Yeh rab ka karam hai
-  Abbas ka alam hai Abbas ka alam hai
-  Panja hai jalaal-e-dast-e-Khuda
-  Patka is ka Zainab ki rida
+  Yeh Rab ka karam hai
+  Abbaas ka alam hai Abbaas ka alam hai
+  Panja hai jalaal-e-dast-e-Khudaa
+  Patka is ka Zainab ki ridaa
   Taawiz-e-wafa hai mashkiza
-  Ye mashk o alam honge na juda
+  Yeh mashk o alam honge na judaa
   Patke par raqam hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
   Sadiyoṅ pe muhit is ka saaya
-  Ye shaan-e-wafa ki keh laaya
+  Yeh shaan-e-wafa ki keh laaya
   Haidar ne Muhammad se paaya
-  Zainab ki dua Zehra ki ataa
+  Zainab ki duaa Zehra ki ataa
   Pyaasoṅ ka bharam hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
   Ghar ghar se julus-e-gham nikle
   Tabut ke saath alam nikle
   Ham karte hue maatam nikle
   Roke jo julusoṅ ka rasta
-  Ab kis meiṅ ye dam hai
-  Abbas ka alam hai...
+  Ab kis meiṅ yeh dam hai
+  Abbaas ka alam hai...
   Go laakh mitaana chaaha magar
   Jaari hai azaadaari ka safar
   Har samt alam aate hai nazar
   Mar paaya nahiṅ jhuk paaya nahiṅ
-  Duniya ko ye gham hai
-  Abbas ka alam hai...
+  Duniya ko yeh gham hai
+  Abbaas ka alam hai...
   Aa dekh zamaane dekh zara
-  Ye paak alam ki alam hawa
-  Karti hai ataa deti hai shifa
+  Yeh paak alam ki alam hawaa
+  Karti hai ataa deti hai shifaa
   Ghabraana nahiṅ kahiṅ jaana nahiṅ
   Jo maango woh kam hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
   Hamza ko mila Jafar ko mila
   Phir Khaibar meiṅ Haidar ko mila
   Haidar se dil-e-Sarwar ko mila
   Nisbat ka sharaf ya shaah-e-Najaf
   Kya jaah o hasham hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
   Taarikh-e-alamdaari hai alam
   Zainab ki azaadaari hai alam
   Zehra se wafaadaari hai alam
-  Deti hai sada ye sheh ki azaa
+  Deti hai sadaa yeh sheh ki azaa
   Rehbar jo alam hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
   Jab baarahwaaṅ Haidar aaye ga
   Haq kya hai pata chal jaaye ga
   Kaabe pe alam lehraaye ga
-  Ye manzar haaṅ dekhe ga jahaaṅ
+  Yeh manzar haaṅ dekhe ga jahaaṅ
   Uncha jo alam hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
   Jab hashr ki dhup meiṅ pahuncheṅ ge
-  Ghazi ka alam jab dekheṅ ge
+  Ghaazi ka alam jab dekheṅ ge
   Farhaan aur Mazhar keh deṅ ge
   Ab roz-e-qayaamat ka ham ko
   Na dar hai na gham hai
-  Abbas ka alam hai...
+  Abbaas ka alam hai...
 ---
 
 ۱

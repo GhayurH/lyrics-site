@@ -1,6 +1,6 @@
 ---
 title: "عباس میں حیدر کا جلوہ نظر آتا ہے"
-alternateTitle: "Abbas Mein Haider Ka Jalwa Nazar Atta Hai"
+alternateTitle: "Abbas Meiṅ Haider Ka Jalwa Nazar Aata Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,24 +9,24 @@ poet: "Akbar"
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas Mein Haider Ka Jalwa Nazar Atta Hai
-  Mula ka pisar hum ko mula nazar atta hai
+  Abbas meiṅ Haider ka jalwa nazar aata hai
+  Maula ka pisar ham ko maula nazar aata hai
 
   1
-  Har mauj ki khowaish hai cholu mein sama jaye
-  Jata howa darya bhi atta nazar atta hai
-  Oss ko bhi Kamalat-e-ghazi ne kiya mushrik
-  Kuch din se Nuseri bhi uljha nazar atta hai
-  Dekhein tu nazar walay Abbas ke roze se
-  Shabir ka roza bhi Kaba nazar atta hai
+  Har mauj ki khwaahish hai chullu meiṅ sama jaae
+  Jaata hua darya bhi ataa nazar aata hai
+  Us ko bhi kamaalaat-e-ghaazi ne kiya mushrik
+  Kuchh din se Nusairi bhi uljha nazar aata hai
+  Dekheṅ to nazar wale Abbas ke rauze se
+  Shabbir ka rauza bhi Kaaba nazar aata hai
 
   2
-  Iss alam-e-imkaan mein phaile hain alam jitne
-  Islam ossi had tak phaila nazar atta hai
-  Mosa ka assa jhuk ke takta hai alam aise
-  Jaise kissi nokar ko aaqa nazar atta hai
-  Aankhon ne kabhi jis ko dekha hi nahi Akbar
-  Har simt mujhe oss ka jalwa nazar atta hai
+  Is aalam-e-imkaan meiṅ phaile haiṅ alam jitne
+  Islaam usi had tak phaila nazar aata hai
+  Musa ka asaa jhuk ke takta hai alam aise
+  Jaise kisi naukar ko aaqa nazar aata hai
+  Aankhoṅ ne kabhi jis ko dekha hi nahiṅ Akbar
+  Har simt mujhe us ka jalwa nazar aata hai
 ---
 
 عباس میں حیدر کا جلوہ نظر آتا ہے

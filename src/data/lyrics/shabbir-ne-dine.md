@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Pehle to utha kar Akbar ko
   Shabbir ne zakhm-e-dil dekha
-  Jab Naana ki ummat yaad aayi
+  Jab naana ki ummat yaad aayi
   Sine se laga kar chhor diya
 
   3

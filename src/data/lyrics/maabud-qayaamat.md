@@ -13,7 +13,7 @@ aliases: ["Mabood Qayamat"]
 published: true
 romanLyrics: |-
   Maabud qayaamat ye mujh pe na guzar jaaye
-  Ghairat se kahiṅ mera Sajjad na mar jaaye
+  Ghairat se kahiṅ mera Sajjaad na mar jaaye
 
   1
   Ab is ke siwa mera duniya meiṅ nahiṅ koi
@@ -21,7 +21,7 @@ romanLyrics: |-
   Mardoṅ meiṅ koi ek to pardes se ghar jaaye
 
   2
-  Qasim na raha mera Akbar na raha mera
+  Qaasim na raha mera Akbar na raha mera
   Had ho gayi jhule meiṅ Asghar na raha mera
   Hai kaun yahaaṅ mera ab kis pe nazar jaaye
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Haathoṅ ko utha kar ye Zainab ne kaha hoga
   Jis simt mere Maalik soya hai mera bhaiya
-  Zaalim hameiṅ sar nange le kar na udhar jaaye
+  Zaalim hameṅ sar nange le kar na udhar jaaye
 
   5
   Tarapta hai reh reh ke ye ranj o mihan mujh ko
@@ -41,19 +41,19 @@ romanLyrics: |-
   Aisa na ho is gham se bimaar bikhar jaaye
 
   6
-  Kuchh der hi guzri hai kholi hai abhi aaṅkheiṅ
-  Gham meiṅ Shaah-e-Waala ke royi hai abhi aaṅkheiṅ
+  Kuchh der hi guzri hai kholi hai abhi aaṅkheṅ
+  Gham meiṅ Shaah-e-Waala ke royi hai abhi aaṅkheṅ
   Dar hai ke na maqtal meiṅ ye sher biphar jaaye
 
   7
-  Kis tarah balaaeiṅ bhi bimaar ki ab luṅ maiṅ
-  Abbas ke marne ki kis dil se khabar duṅ maiṅ
+  Kis tarah balaaeṅ bhi bimaar ki ab luṅ maiṅ
+  Abbaas ke marne ki kis dil se khabar duṅ maiṅ
   Aur saamne kis muṅh se ye tashna jigar jaaye
 
   8
   Hai dur abhi manzil aur dur thikaana hai
   Baazaar meiṅ jaana hai darbaar meiṅ jaana hai
-  Zaalim hameiṅ ab le kar kya jaane kidhar jaaye
+  Zaalim hameṅ ab le kar kya jaane kidhar jaaye
 
   9
   Aamir ne Khuda jaane kis dil se parhe Asif

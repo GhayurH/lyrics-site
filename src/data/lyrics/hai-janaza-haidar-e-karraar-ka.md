@@ -12,11 +12,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hai janaza Haidar-e-Karraar ka
+  Hai janaaza Haidar-e-Karraar ka
   Mominoṅ do mil ke kaandha
-  Hai janaza Haidar-e-Karraar ka
+  Hai janaaza Haidar-e-Karraar ka
   Chal basa Zainab ka baba
-  Hai janaza Haidar-e-Karraar ka
+  Hai janaaza Haidar-e-Karraar ka
 
   1
   Kis ne ye mehraab meiṅ
@@ -25,7 +25,7 @@ romanLyrics: |-
   Noha ye Jibril ka tha
 
   2
-  Rok lo bhaiya janaza
+  Rok lo bhaiya janaaza
   Mere baba jaan ka
   Ro ke Zainab ne kaha
   Dekh luṅ chehra dobaara
@@ -34,7 +34,7 @@ romanLyrics: |-
   Koi Zainab se ye keh de
   Ro le ji bhar kar abhi
   Saath hai bhai sabhi
-  Hai salamat tera parda
+  Hai salaamat tera parda
 
   4
   Eid hai nazdik aur
@@ -51,17 +51,17 @@ romanLyrics: |-
   6
   Baap ke qadmoṅ pe
   Sar rakh kar haram ki aas ne
-  Ye kaha Abbas ne
+  Ye kaha Abbaas ne
   Alwida Ghaazi ke baba
 
   7
-  Tir aayega janaze par
+  Tir aayega janaaze par
   Na pathar aayega
-  Aur na waapas jayega
+  Aur na waapas jaayega
   Shaan se ye dafn hoga
 
   8
-  Shaam ka ahwaal jab
+  Shaam ke ahwaal jab
   Beti se kehte the Ali
   Gham ke maare us ghari
   Zard tha maula ka chehra

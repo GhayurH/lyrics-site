@@ -1,42 +1,76 @@
 ---
-title: "Sulagti Rait Pay Sajday Ki Inteha Dekhi"
+title: "سلگتی ریت پہ سجدے کی انتہا دیکھی"
+alternateTitle: "Sulagti Rait Pay Sajday Ki Inteha Dekhi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sulagti rait pay sajday ki inteha dekhi
+  Rasan may varis-e-Tatheer bay rida dekhi, bay rida dekhi
+
+  1
+  Yeh sajda woh hai kay jis nay bachaya deen-e-Khuda
+  Agar yeh sajda na hota to kuch bhi na hota
+  Is hi sajday may buniyad-e-La Ila dekhi, La Ila dekhi
+
+  2
+  Kataya sajday may sir deen ki baqa kay liye
+  Na taaj-o-tauk ko dekha na maal-o-dolat ko
+  Fakat Hussain nay Allaha ki raza dekhi, haan raza dekhi
+
+  3
+  Ajeeb waqt tha kay pathron ki barish may
+  Sina ki nok pay dekha Quran-e-natik ko
+  Labon pay surah-e-Tatheer ki sada dekhi, haan sada dekhi
+
+  4
+  Khuda ka shukar hai Sughara gayi na tu Karbal
+  Nahi to aaj bhi logon nay yeh samajhna tha
+  Bazar-e-Shaam may qaidi hai Fatima dekhi, Fatima dekhi
+
+  5
+  Sajjad khoon na rota to aur kya karta
+  Ghayoor qaidi nay in khoon alood ankhon say
+  Khari hazaron may tafseer-e-Innama dekhi, Innama dekhi
+
+  6
+  Sakina daur kay lipti thi apnay baba say
+  Ali ki betiyan behosh ho gayin Akhtar
+  Chidi jo teeron say Shabeer ki aba dekhi, haan aba dekhi
 ---
-Sulagti Rait Pay Sajday Ki Inteha Dekhi
-Rasan May Varis-e-Tatheer Bay Rida Dekhi, Bay Rida Dekhi
+سلگتی ریت پہ سجدے کی انتہا دیکھی
+رسن میں وارثِ تطہیر بے ردا دیکھی، بے ردا دیکھی
 
-1
-Yeh Sajda Woh Hai Kay Jis Nay Bachaya Deen-e-Khuda
-Agar Yeh Sajda Na Hota To Kuch Bhi Na Hota
-Is Hi Sajday May Buniyad-e-La Ila Dekhi, La Ila Dekhi
+۱
+یہ سجدہ وہ ہے کہ جس نے بچایا دینِ خدا
+اگر یہ سجدہ نہ ہوتا تو کچھ بھی نہ ہوتا
+اس ہی سجدے میں بنیادِ لا اِلٰہ دیکھی، لا اِلٰہ دیکھی
 
-2
-Kataya Sajday May Sir Deen Ki Baqa Kay Liye
-Na Taaj-o-Tauk Ko Dekha Na Maal-o-Dolat Ko
-Fakat Hussain Nay Allaha Ki Raza Dekhi, Haan Raza Dekhi
+۲
+کٹایا سجدے میں سر دین کی بقا کے لیے
+نہ تاج و طوق کو دیکھا نہ مال و دولت کو
+فقط حسین نے اللہ کی رضا دیکھی، ہاں رضا دیکھی
 
-3
-Ajeeb Waqt Tha Kay Pathron Ki Barish May
-Sina Ki Nok Pay Dekha Quran-e-Natik Ko
-Labon Pay Surah-e-Tatheer Ki Sada Dekhi, Haan Sada Dekhi
+۳
+عجیب وقت تھا کہ پتھروں کی بارش میں
+سناں کی نوک پہ دیکھا قرآنِ ناطق کو
+لبوں پہ سورۂ تطہیر کی صدا دیکھی، ہاں صدا دیکھی
 
-4
-Khuda Ka Shukar Hai Sughara Gayi Na Tu Karbal
-Nahi To Aaj Bhi Logon Nay Yeh Samajhna Tha
-Bazar-e-Shaam May Qaidi Hai Fatima Dekhi, Fatima Dekhi
+۴
+خدا کا شکر ہے صغریٰ گئی نہ تو کربل
+نہیں تو آج بھی لوگوں نے یہ سمجھنا تھا
+بازارِ شام میں قیدی ہے فاطمہ دیکھی، فاطمہ دیکھی
 
-5
-Sajjad Khoon Na Rota To Aur Kya Karta
-Ghayoor Qaidi Nay In Khoon Alood Ankhon Say
-Khari Hazaron May Tafseer-e-Innama Dekhi, Innama Dekhi
+۵
+سجاد خون نہ روتا تو اور کیا کرتا
+غیور قیدی نے ان خون آلود آنکھوں سے
+کھڑی ہزاروں میں تفسیرِ اِنَّما دیکھی، اِنَّما دیکھی
 
-6
-Sakina Daur Kay Lipti Thi Apnay Baba Say
-Ali Ki Betiyan Behosh Ho Gayin Akhtar
-Chidi Jo Teeron Say Shabeer Ki Aba Dekhi, Haan Aba Dekhi
+۶
+سکینہ دوڑ کے لپٹی تھی اپنے بابا سے
+علی کی بیٹیاں بے ہوش ہو گئیں اختر
+چھدی جو تیروں سے شبیر کی عبا دیکھی، ہاں عبا دیکھی

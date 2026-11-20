@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae gule gulzaar ali akbaram
-  Shaah ke dildaar ali akbaram
-  Ya ali ali akbar ya ali ali akbar
-  Ya ali ya ali ya ali akbar akbar akbar
-  Yusuf e laila dilbare zehra jaane tamanna
-  Salaam ali akbar
-  Salaam salaam ali akbar
-  Naujawano ke madadgaar ali akbar hai
-  Waqt ke hyder e karraar ali akbar hai
-  Lashkar e husn meiṅ yusuf to faqat shaamil hai
-  Haaṅ magar khaafila salaar ali akbar hai
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
-  Yuṅ to khud husn meiṅ naadir hai Husain ibne ali
-  Par teri zaat pe faakhir hai Husain ibne ali
-  Saari dunya hai Husain ibne ali ki zaair
-  Aur tere chehre ke zaair hai Husain ibne ali
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
-  Aap hai saaqi e kausar ki nishani akbar
-  Aap ke hontoṅ ka pyasa hai ye pani akbar
-  Humko majlis ke tabarruk meiṅ shahadat de de
-  Aap ke naam jawano ki jawani ali akbar
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
-  Shabihe payambar akbar zibha ba maidan
-  Shaah ka dilbar akbar zibha ba maidan
-  Socha bhi na tha maa ne ye din kabhi aayega
-  Marne ke liye akbar maidan meiṅ jayega
-  Qaimon meiṅ bapa matam ae mere jawaaṅ akbar
-  Zibha ba maidan
-  Shabihe payambar akbar zibha ba maidan
-  Salaam ali akbar salaam ali akbar
-  Jo zamiṅ maskane shabbir ali akbar hai
-  Aap ke naam pe tehrir ali akbar hai
-  Humko thori si jagah de de lehad ki khaatir
-  Karbala aap ki jagir ali akbar hai
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
-  Yaad ashur ki aati hai musalle pe hameiṅ
-  Maqsade shaah bataati hai musalle pe hameiṅ
-  Jab azaṅ sunte hai mehsus yehi hota hai
-  Teri awaaz bulaati hai musalle pe hameiṅ
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
+  Ae gul-e-gulzaar Ali Akbaram
+  Shaah ke dildaar Ali Akbaram
+  Ya Ali Ali Akbar ya Ali Ali Akbar
+  Ya Ali ya Ali ya Ali Akbar Akbar Akbar
+  Yusuf-e-Laila dilbar-e-Zehra jaan-e-tamanna
+  Salaam Ali Akbar
+  Salaam salaam Ali Akbar
+  Naujawaanoṅ ke madadgaar Ali Akbar haiṅ
+  Waqt ke Haidar-e-Karraar Ali Akbar haiṅ
+  Lashkar-e-husn meiṅ Yusuf to faqat shaamil haiṅ
+  Haaṅ magar qaafila salaar Ali Akbar haiṅ
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
+  Yuṅ to khud husn meiṅ naadir haiṅ Husain Ibn-e-Ali
+  Par teri zaat pe faakhir haiṅ Husain Ibn-e-Ali
+  Saari duniya hai Husain Ibn-e-Ali ki zaair
+  Aur tere chehre ke zaair haiṅ Husain Ibn-e-Ali
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
+  Aap haiṅ saaqi-e-Kausar ki nishaani Akbar
+  Aap ke hontoṅ ka pyaasa hai ye paani Akbar
+  Hum ko majlis ke tabarruk meiṅ shahaadat de deiṅ
+  Aap ke naam jawaanoṅ ki jawaani Ali Akbar
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
+  Shabih-e-payambar Akbar zibah ba maidaan
+  Shaah ka dilbar Akbar zibah ba maidaan
+  Soncha bhi na tha maaṅ ne ye din kabhi aayega
+  Marne ke liye Akbar maidaan meiṅ jaayega
+  Khaimoṅ meiṅ bapa maatam ae mere jawaaṅ Akbar
+  Zibah ba maidaan
+  Shabih-e-payambar Akbar zibah ba maidaan
+  Salaam Ali Akbar salaam Ali Akbar
+  Jo zamiṅ maskan-e-Shabbir Ali Akbar hai
+  Aap ke naam pe tahrir Ali Akbar hai
+  Hum ko thori si jagah de deiṅ lahad ki khaatir
+  Karbala aap ki jaagir Ali Akbar hai
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
+  Yaad Aashur ki aati hai musalle pe hameiṅ
+  Maqsad-e-Shaah bataati hai musalle pe hameiṅ
+  Jab azaaṅ sunte haiṅ mahsus yahi hota hai
+  Teri aawaaz bulaati hai musalle pe hameiṅ
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
   Ek ek zakhm ko aankhoṅ meiṅ basa rakha hai
   Zakhmi sina tera sine se laga rakha hai
-  Sheh ko bardaasht nahi tujhse judaai ek pal
-  Is liye aaj bh pehlu meiṅ sula rakha hai
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
-  Khat-e-sughra jo mila laashe ali akbar par
-  Mir sajjad bahot roye wo parh kar sarwar
-  Fatema sughra ki tehrir yahaṅ khatm hui
-  Apni shadi meiṅ mujhe bhul na jaana akbar
-  Ali akbar ali akbar ali akbar ali ali
-  Yusuf e laila dilbare zehra...
+  Shah ko bardaasht nahiṅ tujh se judaai ek pal
+  Is liye aaj bhi pehlu meiṅ sula rakha hai
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
+  Khat-e-Sughra jo mila laash-e-Ali Akbar par
+  Mir Sajjad bahut Sajjad bahut roye wo parh kar Sarwar
+  Fatema Sughra ki tahrir yahaaṅ khatm hui
+  Apni shaadi meiṅ mujhe bhul na jaana Akbar
+  Ali Akbar Ali Akbar Ali Akbar Ali Ali
+  Yusuf-e-Laila dilbar-e-Zehra...
 ---
 
 ۱

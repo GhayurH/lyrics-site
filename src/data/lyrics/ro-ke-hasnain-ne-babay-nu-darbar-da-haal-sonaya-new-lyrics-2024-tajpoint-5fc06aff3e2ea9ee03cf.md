@@ -1,32 +1,54 @@
 ---
-title: "Ro Ke Hasnain Ne Babay Nu Darbar Da Haal Sonaya New Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "رو کے حسنین نے بابے نوں دربار دا حال سنایا"
+alternateTitle: "Ro Ke Hasnain Ne Babay Nu Darbar Da Haal Sonaya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Soz"
 poet: "Yousuf"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ro ke Hasnain ne babay nu darbar da haal sonaya
+  Sadi maa Khatoon-e-Janat nu kalma gowaan jhutlaya
+
+  1
+  Saday sir te zakhmi hath rakh ke maa qasmaan chandi rayi aye
+  Sanu baba rondiyaan wekh ke haye gasib ne qehqaha laya
+  Baba darbar taun ghar taein maa jitni wari jhanr payi
+  Tera naa le ke utni wari asaan dowaan veraan chaya
+
+  2
+  Ronda hoya Hasan aye Haider nu dasda rehya maa di halat
+  Kayi wari Bint-e-Sarwar nu hai musalmana dhamkaya
+  Karey wain Hussain aye ro ro ke odhay mimber te baba beh ke
+  Ashabiyaan saday nanay te hizyan da fatwa laya
+
+  3
+  Maloon Saqeefay waliyaan te howay lanat pak Nabi di
+  Jinna Yasrab de wich Zahra nu Darbar-e-Sham wikhaya
+  Yousuf ik zakhm aoulad kolon ik zakhm Ali taun Zahra
+  Fizza dasiya aye baad Nabi hai sab taun sain lukaya
 ---
 
-Ro Ke Hasnain Ne Babay Nu Darbar Da Haal Sonaya.
-Sadi Maa Khatoon-e-Janat Nu Kalma Gowaan Jhutlaya.
+رو کے حسنین نے بابے نوں دربار دا حال سنایا
+ساڈی ماں خاتونِ جنت نوں کلمہ گوآں جھٹلایا
 
-1
-Saday Sir Te Zakhmi Hath Rakh Ke Maa Qasmaan Chandi Rayi Aye.
-Sanu Baba Rondiyaan Wekh Ke Haye Gasib Ne Qehqaha Laya.
-Baba Darbar Taun Ghar Taein Maa Jitni Wari Jhanr Payi.
-Tera Naa Le Ke Utni Wari Asaan Dowaan Veraan Chaya.
+۱
+ساڈے سر تے زخمی ہتھ رکھ کے ماں قسماں چاندی رہی اے
+سانوں بابا روندیاں ویکھ کے ہائے غاصب نے قہقہہ لایا
+بابا دربار توں گھر تائیں ماں جتنی واری جھانڑ پئی
+تیرا ناں لے کے اتنی واری اساں دواں ویراں چایا
 
-2
-Ronda Hoya Hasan Aye Haider Nu Dasda Rehya Maa Di Halat.
-Kayi Wari Bint-e-Sarwar Nu Hai Musalmana Dhamkaya.
-Karey Wain Hussain Aye Ro Ro Ke Odhay Mimber Te Baba Beh Ke.
-Ashabiyaan Saday Nanay Te Hizyan Da Fatwa Laya.
+۲
+روندا ہویا حسن اے حیدر نوں دسدا رہیا ماں دی حالت
+کئی واری بنتِ سرور نوں ہے مسلماناں دھمکایا
+کرے وین حسین اے رو رو کے اوہدے منبر تے بابا بہہ کے
+اصحابیاں ساڈے نانے تے ہذیان دا فتویٰ لایا
 
-3
-Maloon Saqeefay Waliyaan Te Howay Lanat Pak Nabi Di.
-Jinna Yasrab De Wich Zahra Nu Darbar-e-Sham Wikhaya.
- Yousuf Ik Zakhm Aoulad Kolon Ik Zakhm Ali Taun Zahra.
-Fizza Dasiya Aye Baad Nabi Hai Sab Taun Sain Lukaya.
+۳
+ملعون سقیفے والیاں تے ہووے لعنت پاک نبی دی
+جنہاں یثرب دے وچ زہرا نوں دربارِ شام وکھایا
+یوسف اک زخم اولاد کولوں اک زخم علی توں زہرا
+فضہ دسیا اے بعد نبی ہے سب توں سائیں لکایا

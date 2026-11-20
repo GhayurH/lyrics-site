@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hal min nasir yan surna
-  Ya zainab ya zainab
-  Labbaik ya zainab
-  Aa rahi hai rauza e zainab se halmin ki sada
-  Ghir gayi hai shaamiyo meiṅ phir se aale mustafa
-  Waqt rone ka nahi ye waqt hai labbaik ka
-  Labbaik labbaik ya zainab
-  Aa rahi hai rauza e zainab se...
-  Kuch nahi zainab se bad kar ye batana hai hameiṅ
-  Fatema zahra ko ek din moo dikhana hai hameiṅ
-  Rokna hai jo baqayya se chala hai silsila
-  Labbaik labbaik ya zainab
-  Aa rahi hai rauza e zainab se...
-  Rone waale karbala par us ke dil ki aas hai
-  Matami uski nazar meiṅ baazu e abbas hai
-  Maan rakhna hai hameiṅ ab khwahar e shabbir ka
-  Labbaik labbaik ya zainab
-  Aa rahi hai rauza e zainab se...
-  Kal bhi usne dukh uthaye thi magar dhaaras use
-  Ghairat-e-abbas ban kar saath meiṅ sajjad hai
-  Aaj tanha reh gayi hai baani e farshe aza
-  Labbaik labbaik ya zainab
-  Aa rahi hai rauza e zainab se...
-  Kehte honge shaah se abbas ye rote huwe
-  Mai kate haathoṅ se bhi lar lunga fauje shaam se
-  Bas mujhe ek baar maula izn kar dijiye ata
-  Labbaik labbaik ya zainab
-  Aa rahi hai rauza e zainab se...
-  Shaam haye shaam haye shaam haye shaam
-  Haye haye zainab haye haye shaam
-  Chalne ki jo aadi na thi paidal wohi meelo chali
-  Durre kabhi pathar kabhi khaati rahi binte imam
-  Haye haye zainab haye haye shaam
-  Jaane sitam kaisa hua chehra lahu se chup gaya
-  Binte ali se baap ka lete thay shaami inteqam
-  Haye haye zainab haye haye shaam
-  Akbar kare kaise bayaaṅ deta hai jab koi azaṅ
-  Lagti hai sine par sina aata hai jab akbar ka naam
-  Haye haye zainab haye haye shaam
+  Hal min naasirin yansurna
+  Ya Zainab ya Zainab
+  Labbaik ya Zainab
+  Aa rahi hai rauza-e-Zainab se hal min ki sada
+  Ghir gayi hai shaamiyoṅ mein phir se Aal-e-Mustafa
+  Waqt rone ka nahiṅ ye waqt hai labbaik ka
+  Labbaik labbaik ya Zainab
+  Aa rahi hai rauza-e-Zainab se...
+  Kuchh nahiṅ Zainab se barh kar ye bataana hai hameiṅ
+  Fatema Zahra ko ek din munh dikhaana hai hameiṅ
+  Rokna hai jo baqiyya se chala hai silsila
+  Labbaik labbaik ya Zainab
+  Aa rahi hai rauza-e-Zainab se...
+  Rone waale Karbala par us ke dil ki aas hai
+  Maatami us ki nazar mein baazu-e-Abbas hai
+  Maan rakhna hai hameiṅ ab khwahar-e-Shabbir ka
+  Labbaik labbaik ya Zainab
+  Aa rahi hai rauza-e-Zainab se...
+  Kal bhi us ne dukh uthaaye thi magar dhaaras use
+  Ghairat-e-Abbas ban kar saath mein Sajjad hai
+  Aaj tanha reh gayi hai baani-e-farsh-e-aza
+  Labbaik labbaik ya Zainab
+  Aa rahi hai rauza-e-Zainab se...
+  Kehte hoṅge shaah se Abbas ye rote hue
+  Main kate haathoṅ se bhi lar luṅga fauj-e-Shaam se
+  Bas mujhe ik baar maula izn kar dijiye ata
+  Labbaik labbaik ya Zainab
+  Aa rahi hai rauza-e-Zainab se...
+  Shaam haaye Shaam haaye Shaam haaye Shaam
+  Haaye haaye Zainab haaye haaye Shaam
+  Chalne ki jo aadi na thi paidal kai miloṅ chali
+  Durre kabhi patthar kabhi khaati rahi Bint-e-Imaam
+  Haaye haaye Zainab haaye haaye Shaam
+  Jaane sitam kaisa hua chehra lahu se chhup gaya
+  Bint-e-Ali se baap ka lete hain shaami inteqaam
+  Haaye haaye Zainab haaye haaye Shaam
+  Akbar kare kaise bayaaṅ deta hai jab koi azaaṅ
+  Lagti hai sine par sinaaṅ aata hai jab Akbar ka naam
+  Haaye haaye Zainab haaye haaye Shaam
 ---
 
 ۱

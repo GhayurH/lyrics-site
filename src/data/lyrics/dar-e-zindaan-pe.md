@@ -21,58 +21,58 @@ romanLyrics: |-
 
   2
   Takti rehti huṅ parindoṅ ko basad hasrat o yaas
-  Kya watan jaauṅ gi is qaid se chhut kar maiṅ bhala
+  Kya watan jaauṅ gi is qaid se chhut kar main bhala
 
   3
   Dekh kar haalat-e-Sajjad wo ro ke kehti
-  Haae bimaar mere bhaai pe hai kaisi jafa
+  Haaye bimaar mere bhaai pe hai kaisi jafa
 
   4
   Yaad aa jaate jo Asghar kabhi Akbar us ko
   Bhaai aa jaao yahaaṅ ro ro wo deti thi sada
 
   5
-  Maaṅ ki aaghosh meiṅ kis tarah use nind aaye
+  Maaṅ ki aaghosh mein kis tarah use nind aaye
   Baap ke sine pe soti rahi bachchi jo sada
 
   6
-  Kis tarah dil ko maiṅ behlaauṅ ghuta jaata hai dam
+  Kis tarah dil ko main behlaauṅ ghuta jaata hai dam
   Hai na nanhe mere saathi hai na ammu Baba
 
   7
   Is ka daaman bhi jala kaanoṅ se durr chhin liye
-  Pusht par nile the aur kaanoṅ meiṅ bhi khuṅ tha jama
+  Pusht par nile the aur kaanoṅ mein bhi khuṅ tha jama
 
   8
-  Rote rote yuṅhi ik shab jo zara aaṅkh lagi
-  Chauṅk kar uthi Sakina jo yehi maadar se kaha
+  Rote rote yunhi ik shab jo zara aankh lagi
+  Chaunk kar uthi Sakina jo yehi maadar se kaha
 
   9
   Shor ye sun ke utha nind se badbakht Yazid
-  Bola zindaan meiṅ le jaao sar-e-Shah-e-Huda
+  Bola zindaan mein le jaao sar-e-Shaah-e-Huda
 
   10
   Sab ne barh barh ke salaami Shah-e-mazlum ko di
-  God meiṅ le ke sar-e-Shah Sakina ne kaha
+  God mein le ke sar-e-Shaah Sakina ne kaha
 
   11
   Aap ke baad mujhe Shimr ne maare durre
   Baad Baba tere kya kya na sitam ham ne saha
 
   12
-  Wo mujhe lene ko aaye haiṅ maiṅ sadqe un ke
-  Baba ke saath maiṅ jaauṅ gi hui puri dua
+  Wo mujhe lene ko aaye haiṅ main sadqe un ke
+  Baba ke saath main jaauṅ gi hui puri dua
 
   13
   Bolte bolte khaamosh hui jab Bibi
-  Ro ke Bano ne kaha dekho to Sajjad zara
+  Ro ke Baanu ne kaha dekho to Sajjad zara
 
   14
   Kya hua baat nahiṅ karti hai mazlum meri
-  Paas Abid jo gaye dekha ke sadma hai naya
+  Paas Aabid jo gaye dekha ke sadma hai naya
 
   15
-  Hathkari pehne hue khodi lahad Abid ne
+  Hathkari pehne hue khodi lahad Aabid ne
   Khuṅ bhara kurta kafan ban gaya Shahzaadi ka
 
   16

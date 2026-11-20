@@ -1,92 +1,174 @@
 ---
-title: "Ali Ali Dam Dam Joan Rizvi"
+title: "علی علی دم دم جون رضوی"
+alternateTitle: "Ali Ali Dam Dam Joan Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khuda kahan hai kisay kab dikhai deta hai
+  Woh bas Ali hai jisay sab dikhai deta hai
+
+  1
+  Jabhi tu baithtay hain hum Najaf mein ja ja ke
+  Mowaliyon ko wahan Rab dikhai deta hai
+  Layi hai khushiyaan terah Rajab Kaba Ali ka ghar ban gaya
+  Tha intezar-e-Ali iss qadar dewar mein hi dar ban gaya
+
+  2
+  Kabay mein rakha jo pehla qadam
+  Bint-e-Asad se yeh bola haram
+  De ke Ali mujh ko qibla bana dein bolta rahon sada
+  Pohanchay Nabi jab Mairaj par Allah se milne ke liye
+
+  3
+  Aawaz aayi parday se tu suntay hi Ahmad kehne lagay
+  Kyun hai Ali jaisa lehja tera
+  Kya pas-e-pardah hai bhai mera
+  Parday se ik hath nikla angothi dekhi tu bolay Mustafa
+
+  4
+  Khaybar mein Marhab se jab koi lar na saka tu bolay Nabi
+  Aye mere bhai tu hai kahan meri madad kar aa kar Ali
+  Parhi Nabi ne jo nad-e-Ali
+  Pohancha wahan pe woh shair-e-jali
+
+  5
+  Marhab ko mara tu Khaybar mein har simt gonji yeh sada
+  Bana de aaj Ghadeeri nizam aye saqi
+  Pila de hum ko wilayat ka jaam aye saqi
+  Ali ke ishq ke hum may kaday mein baithay hain
+
+  6
+  May tahoor ka kar intezam aye saqi
+  Bitha de mimber-e-palaan par malangon ko
+  Hasen our bhi kar de yeh sham aye saqi
+  Khiyal rakhiyo ke hum bhi bhatak na jaein kahin
+
+  7
+  Nuseriyat se bacha le lagam aye saqi
+  Tabarah iss mein kuch aisay mila ke charh jaye
+  Karon main sheikh ka jeena haram aye saqi
+  Ghilaf-e-khana e Kaba se bhi nichor ke la
+
+  8
+  Na hum peein gay koi aam jaam aye saqi
+  Maidan-e-Khum mein dast-e-Ali oncha utha kar bolay Nabi
+  Maloom hai sab ko main wohi kehta hoon jo kehti wahi
+  Sab ke liye hai yeh hukam-e-jali
+
+  9
+  Bad-e-Muhammad hai maula Ali
+  Sun kar koi jal gaya tu kissi ne jhoom kar kaha
+  Jang-e-Ohad mein jab chor kar bhagay bhagoray ghar ki taraf
+  Tanha Muhammad ko dekh kar pohanchay wahan par shah-e-Najaf
+
+  10
+  Arsh se jab ik saif chali
+  Boli la fatah ilaha Ali
+  Dast-e-Khuda ki kalai mein aa kar Zulfiqar ne kaha
+  Shair-e-Khuda tu hi hajat rawa tu hi mushkil kusha mera
+
+  11
+  Nafs-e-Nabi tu hai haq ka wali maula tu aasra mera
+  Dil ke dharakne ki dhak dhak mein tu tujh pe dil yeh fida mera
+  Hasrat se taktay they aasmaan jagay hoye they sab raat bhar
+  Ahl-e-Madina be chain they banney ko Zahra ka humsafar
+
+  12
+  Arsh se phir ik tara chala
+  Sab ke dilon ko jalata howa
+  Dar pe Ali ke jab utra sitara tu bolne laga
+  Aye Joan-o- Zeeshan aao chalein Kabay se chal kar shehar-e-Najaf
+
+  13
+  Narey lagatay jaein gay hum janat se ik janat ki taraf
+  Meesum ki tarha yeh kehte raho
+  Salman-o-Buzar ke sath kaho
+  Nam-e-Ali sun ke tum se bohat khush hoon gi Fatima
 ---
 
-Khuda Kahan Hai Kisay Kab Dikhai Deta Hai.
-Woh Bas Ali Hai Jisay Sab Dikhai Deta Hai.
+خدا کہاں ہے کسے کب دکھائی دیتا ہے
+وہ بس علی ہے جسے سب دکھائی دیتا ہے
 
-1
-Jabhi Tu Baithtay Hain Hum Najaf Mein Ja Ja Ke.
-Mowaliyon Ko Wahan Rab Dikhai Deta Hai.
-Layi Hai Khushiyaan Terah Rajab Kaba Ali Ka Ghar Ban Gaya.
-Tha Intezar-e-Ali Iss Qadar Dewar Mein Hi Dar Ban Gaya.
+۱
+جبھی تو بیٹھتے ہیں ہم نجف میں جا جا کے
+موالیوں کو وہاں رب دکھائی دیتا ہے
+لائی ہے خوشیاں تیرہ رجب کعبہ علی کا گھر بن گیا
+تھا انتظارِ علی اس قدر دیوار میں ہی در بن گیا
 
-2
-Kabay Mein Rakha Jo Pehla Qadam.
-Bint-e-Asad Se Yeh Bola Haram.
-De Ke Ali Mujh Ko Qibla Bana Dein Bolta Rahon Sada.
-Pohanchay Nabi Jab Mairaj Par ALLAH Se Milne Ke Liye.
+۲
+کعبے میں رکھا جو پہلا قدم
+بنتِ اسد سے یہ بولا حرم
+دے کے علی مجھ کو قبلہ بنا دیں بولتا رہوں سدا
+پہنچے نبی جب معراج پر اللہ سے ملنے کے لیے
 
-3
-Aawaz Aayi Parday Se Tu Suntay Hi Ahmad Kehne Lagay.
-Kyun Hai Ali Jaisa Lehja Tera.
-Kya Pas-e-Pardah Hai Bhai Mera.
-Parday Se Ik Hath Nikla Angothi Dekhi Tu Bolay Mustafa.
+۳
+آواز آئی پردے سے تو سنتے ہی احمد کہنے لگے
+کیوں ہے علی جیسا لہجہ تیرا
+کیا پسِ پردہ ہے بھائی میرا
+پردے سے اک ہاتھ نکلا انگوٹھی دیکھی تو بولے مصطفیٰ
 
-4
-Khaybar Mein Marhab Se Jab Koi Lar Na Saka Tu Bolay Nabi.
-Aye Mere Bhai Tu Hai Kahan Meri Madad Kar Aa Kar Ali.
-Parhi Nabi Ne Jo Nad-e-Ali.
-Pohancha Wahan Pe Woh Shair-e-Jali.
+۴
+خیبر میں مرحب سے جب کوئی لڑ نہ سکا تو بولے نبی
+اے میرے بھائی تو ہے کہاں میری مدد کر آ کر علی
+پڑھی نبی نے جو نادِ علی
+پہنچا وہاں پہ وہ شیرِ جلی
 
-5
-Marhab Ko Mara Tu Khaybar Mein Har Simt Gonji Yeh Sada.
-Bana De Aaj Ghadeeri Nizam Aye Saqi.
-Pila De Hum Ko Wilayat Ka Jaam Aye Saqi.
-Ali Ke Ishq Ke Hum May Kaday Mein Baithay Hain.
+۵
+مرحب کو مارا تو خیبر میں ہر سمت گونجی یہ صدا
+بنا دے آج غدیری نظام اے ساقی
+پلا دے ہم کو ولایت کا جام اے ساقی
+علی کے عشق کے ہم مے کدے میں بیٹھے ہیں
 
-6
-May Tahoor Ka Kar Intezam Aye Saqi.
-Bitha De Mimber-e-Palaan Par Malangon Ko.
-Hasen Our Bhi Kar De Yeh Sham Aye Saqi.
-Khiyal Rakhiyo Ke Hum Bhi Bhatak Na Jaein Kahin.
+۶
+مے طہور کا کر انتظام اے ساقی
+بٹھا دے منبرِ پالاں پر ملنگوں کو
+حسین اور بھی کر دے یہ شام اے ساقی
+خیال رکھیو کہ ہم بھی بھٹک نہ جائیں کہیں
 
-7
-Nuseriyat Se Bacha Le Lagam Aye Saqi.
-Tabarah Iss Mein Kuch Aisay Mila Ke Charh Jaye.
-Karon Main Sheikh Ka Jeena Haram Aye Saqi.
-Ghilaf-e-Khana e Kaba Se Bhi Nichor Ke La.
+۷
+نصیریت سے بچا لے لگام اے ساقی
+تبرّا اس میں کچھ ایسے ملا کے چڑھ جائے
+کروں میں شیخ کا جینا حرام اے ساقی
+غلافِ خانۂ کعبہ سے بھی نچوڑ کے لا
 
-8
-Na Hum Peein Gay Koi Aam Jaam Aye Saqi.
-Maidan-e-Khum Mein Dast-e-Ali Oncha Utha Kar Bolay Nabi.
-Maloom Hai Sab Ko Main Wohi Kehta Hoon Jo Kehti Wahi.
-Sab Ke Liye Hai Yeh Hukam-e-Jali.
+۸
+نہ ہم پئیں گے کوئی عام جام اے ساقی
+میدانِ خم میں دستِ علی اونچا اٹھا کر بولے نبی
+معلوم ہے سب کو میں وہی کہتا ہوں جو کہتی وحی
+سب کے لیے ہے یہ حکمِ جلی
 
-9
-Bad-e-Muhammad Hai Maula Ali.
-Sun Kar Koi Jal Gaya Tu Kissi Ne Jhoom Kar Kaha.
-Jang-e-Ohad Mein Jab Chor Kar Bhagay Bhagoray Ghar Ki Taraf.
-Tanha Muhammad Ko Dekh Kar Pohanchay Wahan Par Shah-e-Najaf.
+۹
+بعدِ محمد ہے مولا علی
+سن کر کوئی جل گیا تو کسی نے جھوم کر کہا
+جنگِ احد میں جب چھوڑ کر بھاگے بھگوڑے گھر کی طرف
+تنہا محمد کو دیکھ کر پہنچے وہاں پر شاہِ نجف
 
-10
-Arsh Se Jab Ik Saif Chali.
-Boli La Fatah Ilaha Ali.
-Dast-e-Khuda Ki Kalai Mein Aa Kar Zulfiqar Ne Kaha.
-Shair-e-Khuda Tu Hi Hajat Rawa Tu Hi Mushkil Kusha Mera.
+۱۰
+عرش سے جب اک سیف چلی
+بولی لا فتى إلا علي
+دستِ خدا کی کلائی میں آ کر ذوالفقار نے کہا
+شیرِ خدا تو ہی حاجت روا تو ہی مشکل کشا میرا
 
-11
-Nafs-e-Nabi Tu Hai Haq Ka Wali Maula Tu Aasra Mera.
-Dil Ke Dharakne Ki Dhak Dhak Mein Tu Tujh Pe Dil Yeh Fida Mera.
-Hasrat Se Taktay They Aasmaan Jagay Hoye They Sab Raat Bhar.
-Ahl-e-Madina Be Chain They Banney Ko Zahra Ka Humsafar.
+۱۱
+نفسِ نبی تو ہے حق کا ولی مولا تو آسرا میرا
+دل کے دھڑکنے کی دھک دھک میں تو تجھ پہ دل یہ فدا میرا
+حسرت سے تکتے تھے آسمان جاگے ہوئے تھے سب رات بھر
+اہلِ مدینہ بے چین تھے بننے کو زہرا کا ہمسفر
 
-12
-Arsh Se Phir Ik Tara Chala.
-Sab Ke Dilon Ko Jalata Howa.
-Dar Pe Ali Ke Jab Utra Sitara Tu Bolne Laga.
-Aye Joan-o- Zeeshan Aao Chalein Kabay Se Chal Kar Shehar-e-Najaf.
+۱۲
+عرش سے پھر اک تارا چلا
+سب کے دلوں کو جلاتا ہوا
+در پہ علی کے جب اترا ستارا تو بولنے لگا
+اے جون و ذیشان آؤ چلیں کعبے سے چل کر شہرِ نجف
 
-13
-Narey Lagatay Jaein Gay Hum Janat Se Ik Janat Ki Taraf.
-Meesum Ki Tarha Yeh Kehte Raho.
-Salman-o-Buzar Ke Sath Kaho.
-Nam-e-Ali Sun Ke Tum Se Bohat Khush Hoon Gi Fatima.
+۱۳
+نعرے لگاتے جائیں گے ہم جنت سے اک جنت کی طرف
+میثم کی طرح یہ کہتے رہو
+سلمان و بوذر کے ساتھ کہو
+نامِ علی سن کے تم سے بہت خوش ہوں گی فاطمہ

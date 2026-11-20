@@ -1,47 +1,84 @@
 ---
-title: "Aye Bali Sakina Syed Ali Naqvi"
+title: "اے بالی سکینہ سید علی نقوی"
+alternateTitle: "Aye Bali Sakina Syed Ali Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Dua"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye bali Sakina Syed Ali Naqvi
+  Aye bali Sakina kar dijiye sifarish Abbas bola lein
+  Dedar ki khatir be chain hain aankhein darbar dikha dein
+  Main janta hoon woh mujh ko darbar mein bulwa lein gay
+
+  2
+  Haan apni bhateeji ka woh kehna na kabhi talein gay
+  Keh dijiye Bibi woh Karb-o-Bala se ab mujh ko sada dein
+  Jab Karb-o-Bala jata hai zawwar koi Sarwar ka
+  Oss zair ko lainay khud aate hain mere Maula
+
+  3
+  Ammo se kahin keh kab aaein gay lainay bas itna bata dein
+  Bin Karb-o-Bala aye Bibi main our na jee paon ga
+  Dil yaad mein phat jaye ga ro ro ke main mar jaon ga
+  Din beet rahe hain dar lagta hai Bibi ruk jaein na sansein
+
+  4
+  Maula se milon yeh mujh ko arman bohat hai Bibi
+  Mujh se na biyaan hogi jo halat hai mere iss dil ki
+  Hoon door bohat main ab sabar na hoga Ghazi se mila dein
+  Jab tak na haram dekhon main kuch lutf nahi jeene mein
+
+  5
+  Jeetay jee yehi aye Bibi chahat hai mere seene mein
+  Ghazi ki lehad se ik bar lipat kar hum haal suna lein
+  Maloom wahan hoti hai zair ki fazeelat Bibi
+  Kartay hain sabhi rahoon mein zawwar ki khidmat Bibi
+
+  6
+  Zawwar ki khidmat hai farz hamara hum farz nibha lein
+  Zeeshan-o- Ali ki ab tu pori yeh tamana kar dein
+  Aye Bibi muradoon se ab daman ko hamarey bhar dein
+  Iss nohay ka Bibi rozay pe bola kar ab hum ko sila dein
 ---
 
-1
-Aye Bali Sakina Syed Ali Naqvi
-Aye Bali Sakina Kar Dijiye Sifarish Abbas Bola Lein.
-Dedar Ki Khatir Be Chain Hain Aankhein Darbar Dikha Dein.
-Main Janta Hoon Woh Mujh Ko Darbar Mein Bulwa Lein Gay.
+۱
+اے بالی سکینہ سید علی نقوی
+اے بالی سکینہ کر دیجیے سفارش عباس بلا لیں
+دیدار کی خاطر بے چین ہیں آنکھیں دربار دکھا دیں
+میں جانتا ہوں وہ مجھ کو دربار میں بلوا لیں گے
 
-2
-Haan Apni Bhateeji Ka Woh Kehna Na Kabhi Talein Gay.
-Keh Dijiye Bibi Woh Karb-o-Bala Se Ab Mujh Ko Sada Dein.
-Jab Karb-o-Bala Jata Hai Zawwar Koi Sarwar Ka.
-Oss Zair Ko Lainay Khud Aate Hain Mere Maula.
+۲
+ہاں اپنی بھتیجی کا وہ کہنا نہ کبھی ٹالیں گے
+کہہ دیجیے بی‌بی وہ کرب و بلا سے اب مجھ کو صدا دیں
+جب کرب و بلا جاتا ہے زوار کوئی سرور کا
+اس زائر کو لینے خود آتے ہیں میرے مولا
 
-3
-Ammo Se Kahin Keh Kab Aaein Gay Lainay Bas Itna Bata Dein.
-Bin Karb-o-Bala Aye Bibi Main Our Na Jee Paon Ga.
-Dil Yaad Mein Phat Jaye Ga Ro Ro Ke Main Mar Jaon Ga.
-Din Beet Rahe Hain Dar Lagta Hai Bibi Ruk Jaein Na Sansein.
+۳
+عمو سے کہیں کہ کب آئیں گے لینے بس اتنا بتا دیں
+بن کرب و بلا اے بی‌بی میں اور نہ جی پاؤں گا
+دل یاد میں پھٹ جائے گا رو رو کے میں مر جاؤں گا
+دن بیت رہے ہیں ڈر لگتا ہے بی‌بی رک جائیں نہ سانسیں
 
-4
-Maula Se Milon Yeh Mujh Ko Arman Bohat Hai Bibi.
-Mujh Se Na Biyaan Hogi Jo Halat Hai Mere Iss Dil Ki.
-Hoon Door Bohat Main Ab Sabar Na Hoga Ghazi Se Mila Dein.
-Jab Tak Na Haram Dekhon Main Kuch Lutf Nahi Jeene Mein.
+۴
+مولا سے ملوں یہ مجھ کو ارمان بہت ہے بی‌بی
+مجھ سے نہ بیان ہوگی جو حالت ہے میرے اس دل کی
+ہوں دور بہت میں اب صبر نہ ہوگا غازی سے ملا دیں
+جب تک نہ حرم دیکھوں میں کچھ لطف نہیں جینے میں
 
-5
-Jeetay Jee Yehi Aye Bibi Chahat Hai Mere Seene Mein.
-Ghazi Ki Lehad Se Ik Bar Lipat Kar Hum Haal Suna Lein.
-Maloom Wahan Hoti Hai Zair Ki Fazeelat Bibi.
-Kartay Hain Sabhi Rahoon Mein Zawwar Ki Khidmat Bibi.
+۵
+جیتے جی یہی اے بی‌بی چاہت ہے میرے سینے میں
+غازی کی لحد سے اک بار لپٹ کر ہم حال سنا لیں
+معلوم وہاں ہوتی ہے زائر کی فضیلت بی‌بی
+کرتے ہیں سبھی راہوں میں زوار کی خدمت بی‌بی
 
-6
-Zawwar Ki Khidmat Hai Farz Hamara Hum Farz Nibha Lein.
- Zeeshan-o- Ali Ki Ab Tu Pori Yeh Tamana Kar Dein.
-Aye Bibi Muradoon Se Ab Daman Ko Hamarey Bhar Dein.
-Iss Nohay Ka Bibi Rozay Pe Bola Kar Ab Hum Ko Sila Dein.
+۶
+زوار کی خدمت ہے فرض ہمارا ہم فرض نبھا لیں
+ذیشان و علی کی اب تو پوری یہ تمنا کر دیں
+اے بی‌بی مرادوں سے اب دامن کو ہمارے بھر دیں
+اس نوحے کا بی‌بی روضے پہ بلا کر اب ہم کو صلہ دیں

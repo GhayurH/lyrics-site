@@ -81,9 +81,9 @@ romanLyrics: |-
   Aisi qaamat hai in ki Nur Ali
   Din ki qaamat-e-daraaz haiṅ ye
   Haiṅ namaazi keh khud namaaz haiṅ ye
-  Donoṅ aalam ke chaarah saaz haiṅ ye
+  Donoṅ aalam ke chaara saaz haiṅ ye
   Qaid meiṅ qaidiyoṅ ko dekha hai
-  Qaid meiṅ chaarah gar nahiṅ dekhe
+  Qaid meiṅ chaara gar nahiṅ dekhe
 ---
 
 فریادِ زندانِ شام

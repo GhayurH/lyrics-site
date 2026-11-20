@@ -20,12 +20,12 @@ romanLyrics: |-
   Nili hai pusht haaye roti hai Shah ki dukhtar
 
   2
-  Kaanoṅ se khuṅ ab bhi hai ghamzada ke jaari
+  Kaanoṅ se khuṅ hai ab bhi hai ghamzada ke jaari
   Jab jab haiṅ kaan dukhte roti hai Shah ki beti
-  Ab ro ke keh rahi hai bhaiya chaleṅge ghar hum
+  Ab ro ke keh rahi hai bhaiya chaleṅ ge ghar hum
 
   3
-  Bimaar reh ke bhai sine pe hi sulaata
+  Bimaar reh ke bhai sine pe hai sulaata
   Gar haath hathkari meiṅ donoṅ bandha na hota
   Gardan meiṅ tauq bhaari aur hai kamar meiṅ langar
 

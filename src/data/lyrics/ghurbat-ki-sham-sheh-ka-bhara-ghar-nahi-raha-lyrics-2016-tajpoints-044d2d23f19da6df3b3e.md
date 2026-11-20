@@ -1,29 +1,48 @@
 ---
-title: "Ghurbat Ki Sham Sheh Ka Bhara Ghar Nahi Raha Lyrics 2016"
+title: "غربت کی شام شہ کا بھرا گھر نہیں رہا"
+alternateTitle: "Ghurbat Ki Sham Sheh Ka Bhara Ghar Nahi Raha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghurbat ki sham Sheh ka bhara ghar nahi raha
+  Chadar nahi rahi tu kahin sar nahi raha
+  Jhola ke gird baitha hai chup chap ghar ka ghar
+  Jhola jhulaney walon ka Asghar nahi raha
+
+  2
+  Gonji sada jo Shah ki Sughra ujar gayi
+  Sab ko khabar yeh ho gayi Akbar nahi raha
+  Sab lasha-e-Hussain pe barsa chukay laeen
+  Ab in ke pas aik bhi pathar nahi raha
+
+  3
+  Tanha pidar ko dhondne maqtal mein aa gayi
+  Masooma ko kissi ka bhi ab dar nahi raha
+  Jaisay gayi thi waisay hi Saqlain aa gayi
+  Ik bond pani mashk ke andar nahi raha
 ---
 
-1
-Ghurbat Ki Sham Sheh Ka Bhara Ghar Nahi Raha.
-Chadar Nahi Rahi Tu Kahin Sar Nahi Raha.
-Jhola Ke Gird Baitha Hai Chup Chap Ghar Ka Ghar.
-Jhola Jhulaney Walon Ka Asghar Nahi Raha.
+۱
+غربت کی شام شہ کا بھرا گھر نہیں رہا
+چادر نہیں رہی تو کہیں سر نہیں رہا
+جھولا کے گرد بیٹھا ہے چپ چاپ گھر کا گھر
+جھولا جھلانے والوں کا اصغر نہیں رہا
 
-2
-Gonji Sada Jo Shah Ki Sughra Ujar Gayi.
-Sab Ko Khabar Yeh Ho Gayi Akbar Nahi Raha.
-Sab Lasha-e-Hussain Pe Barsa Chukay Laeen.
-Ab In Ke Pas Aik Bhi Pathar Nahi Raha.
+۲
+گونجی صدا جو شاہ کی صغریٰ اجڑ گئی
+سب کو خبر یہ ہو گئی اکبر نہیں رہا
+سب لاشۂ حسین پہ برسا چکے لعین
+اب ان کے پاس ایک بھی پتھر نہیں رہا
 
-3
-Tanha Pidar Ko Dhondne Maqtal Mein Aa Gayi.
-Masooma Ko Kissi Ka Bhi Ab Dar Nahi Raha.
-Jaisay Gayi Thi Waisay Hi Saqlain Aa Gayi.
-Ik Bond Pani Mashk Ke Andar Nahi Raha.
+۳
+تنہا پدر کو ڈھونڈنے مقتل میں آ گئی
+معصومہ کو کسی کا بھی اب ڈر نہیں رہا
+جیسے گئی تھی ویسے ہی ثقلین آ گئی
+اک بوند پانی مشک کے اندر نہیں رہا

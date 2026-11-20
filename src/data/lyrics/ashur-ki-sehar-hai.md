@@ -13,34 +13,34 @@ aliases: []
 published: true
 romanLyrics: |-
   Ashur ki sehar hai Akbar ki azaaṅ hai
-  Shabbir ke lashkar meiṅ ek shor-e-fughaaṅ hai
+  Shabbir ke lashkar mein ak shor-e-fughaaṅ hai
   Ashur ki sehar hai Akbar ki azaaṅ hai
 
   1
-  Saf basta ghazi haiṅ maula ki amanat meiṅ
-  Ansar-e-Shah-e-diṅ haiṅ masruf ibadat meiṅ
-  Sajde meiṅ dua karti Akbar teri maaṅ hai
+  Saf basta ghaazi haiṅ maula ki amaanat mein
+  Ansaar-e-Shaah-e-diṅ haiṅ masruf ibaadat mein
+  Sajde mein dua karti Akbar teri maaṅ hai
 
   2
-  Kya sog ka aalam tha Shabbir ke lashkar meiṅ
-  Maaṅ kehti thi laauṅ gi Akbar ki dulhan ghar meiṅ
-  Malum na tha in ki qismat meiṅ sinaaṅ hai
+  Kya sog ka aalam tha Shabbir ke lashkar mein
+  Maaṅ kehti thi laauṅ gi Akbar ki dulhan ghar mein
+  Malum na tha in ki qismat mein sinaaṅ hai
 
   3
-  Ashur se har subh ki aaghosh meiṅ ab tak
+  Ashur se har subh ki aaghosh mein ab tak
   Masum ki taasir-e-bayaaṅ gunj rahi hai
-  Islam ki waadi meiṅ aawaz hi ae log
+  Islam ki waadi mein aawaaz hi ae log
   Shabbir ke Akbar ki azaaṅ gunj rahi hai
 
   4
-  Aawaz-e-azaaṅ pahunchi jis waqt Madine meiṅ
-  Sughra ne kaha koi hasrat nahiṅ sine meiṅ
+  Aawaaz-e-azaaṅ pahunchi jis waqt Madine mein
+  Sughra ne kaha koi hasrat nahiṅ sine mein
   Mujhe itna ye bata de bhai tuṅ kahaṅ hai
 
   5
   Dam torte Akbar ne baba se kaha ro kar
   Sughra ko bata dena sehra na bandha sar par
-  Barchhi hai kaleje meiṅ aur khushk zabaaṅ hai
+  Barchhi hai kaleje mein aur khushk zabaaṅ hai
 
   6
   Athaara baras paal ke jis ko jawaaṅ kiya
@@ -50,8 +50,8 @@ romanLyrics: |-
 
   7
   Zainab ke ye naale the laash-e-Ali Akbar par
-  Athaara baras maiṅ ne paala tha tujhe Akbar
-  Maiṅ dhup meiṅ baithi huṅ aur ashk rawaaṅ hai
+  Athaara baras main ne paala tha tujhe Akbar
+  Main dhup mein baithi huṅ aur ashk rawaaṅ hai
 ---
 
 عاشور کی سحر ہے اکبر کی اذاں ہے

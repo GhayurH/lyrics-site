@@ -1,38 +1,66 @@
 ---
-title: "Sakoon-e-Qalb Muyassar Hai Shukar-e-Bari Hai"
+title: "سکونِ قلب میسر ہے شکرِ باری ہے"
+alternateTitle: "Sakoon-e-Qalb Muyassar Hai Shukar-e-Bari Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sakoon-e-qalb muyassar hai shukar-e-Bari hai
+  Khumar-e-ishq-e-AliL mein hoon wajd tari hai
+
+  1
+  Jo main wilayat-e-Haider ki bat karta hoon
+  Faqat mizaj nahi hai yeh zimadari hai
+  Jisay bithaya howa hai Nabi ke mimbar par
+  Meri nigah mein mujrim woh ishtehari hai
+
+  2
+  Likha hai parh le keh Zahra ko unka haq na mila
+  Meri kitab nahi hai yeh teri Bukhari hai
+  Hain youn tu nama-e-amal mein amal kafi
+  Magar wila-e-Ali in mein sab se bhari hai
+
+  3
+  Teri barai ko Mula koi samaj na saka
+  Tu sajda raiz hai yeh teri inkisari hai
+  Nabi se arsh pe batein zameen pe sajda
+  Yeh kaisa raaz hai yeh kaisi pardadari hai
+
+  4
+  Wajood-e-aalam-e-imkaan ke do pehlu hain
+  Khuda ka hukam hai Mula ki dastkari hai
+  Karam yeh Lal Qalandar ka tujh pe hai Yasir
+  Bina paron ke bhi parwaz teri jari hai
 ---
 
-Sakoon-e-Qalb Muyassar Hai Shukar-e-Bari Hai.
-Khumar-e-Ishq-e-AliL Mein Hoon Wajd Tari Hai.
+سکونِ قلب میسر ہے شکرِ باری ہے
+خمارِ عشقِ علی میں ہوں وجد طاری ہے
 
-1
-Jo Main Wilayat-e-Haider Ki Bat Karta Hoon.
-Faqat Mizaj Nahi Hai Yeh Zimadari Hai.
-Jisay Bithaya Howa Hai Nabi Ke Mimbar Par.
-Meri Nigah Mein Mujrim Woh Ishtehari Hai.
+۱
+جو میں ولایتِ حیدر کی بات کرتا ہوں
+فقط مزاج نہیں ہے یہ ذمہ داری ہے
+جسے بٹھایا ہوا ہے نبی کے منبر پر
+میری نگاہ میں مجرم وہ اشتہاری ہے
 
-2
-Likha Hai Parh Le Keh Zahra Ko Unka Haq Na Mila.
-Meri Kitab Nahi Hai Yeh Teri Bukhari Hai.
-Hain Youn Tu Nama-e-Amal Mein Amal Kafi.
-Magar Wila-e-Ali In Mein Sab Se Bhari Hai.
+۲
+لکھا ہے پڑھ لے کہ زہرا کو ان کا حق نہ ملا
+میری کتاب نہیں ہے یہ تیری بخاری ہے
+ہیں یوں تو نامۂ عمل میں عمل کافی
+مگر ولائے علی ان میں سب سے بھاری ہے
 
-3
-Teri Barai Ko Mula Koi Samaj Na Saka.
-Tu Sajda Raiz Hai Yeh Teri Inkisari Hai.
-Nabi Se Arsh Pe Batein Zameen Pe Sajda.
-Yeh Kaisa Raaz Hai Yeh Kaisi Pardadari Hai.
+۳
+تیری بڑائی کو مولا کوئی سمجھ نہ سکا
+تو سجدہ ریز ہے یہ تیری انکساری ہے
+نبی سے عرش پہ باتیں زمین پہ سجدہ
+یہ کیسا راز ہے یہ کیسی پردہ داری ہے
 
-4
-Wajood-e-Aalam-e-Imkaan Ke Do Pehlu Hain.
-Khuda Ka Hukam Hai Mula Ki Dastkari Hai.
-Karam Yeh Lal Qalandar Ka Tujh Pe Hai Yasir.
-Bina Paron Ke Bhi Parwaz Teri Jari Hai.
+۴
+وجودِ عالمِ امکان کے دو پہلو ہیں
+خدا کا حکم ہے مولا کی دست کاری ہے
+کرم یہ لال قلندر کا تجھ پہ ہے یاسر
+بنا پروں کے بھی پرواز تیری جاری ہے

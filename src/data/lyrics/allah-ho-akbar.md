@@ -11,79 +11,79 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Roze ashur hai zuljanah par sawaar
+  Roz-e-Aashur hai Zuljanaah par sawaar
   Gham ka sine pe baar
-  Kaun maqtal meiṅ aata hai parwardigaar
-  Dil meiṅ bhai ka betoṅ ka apno ka gham
+  Kaun maqtal meiṅ aata hai Parwardigaar
+  Dil meiṅ bhai ka betoṅ ka apnoṅ ka gham
   Seh raha hai musalsal sitam par sitam
   Khuṅ meiṅ duba libaas-e-gharibi liye
   Ran meiṅ dekho Husain aa raha hai
-  Khushk hontoṅ se sukhi zabaṅ se
+  Khushk hontoṅ se sukhi zabaaṅ se
   Jo sada pe sada de raha hai
-  Shaamiyoṅ shaamiyoṅ
+  Shaamiyoṅ Shaamiyoṅ
   Shaamiyoṅ aao maqtal meiṅ aao
-  Ek pyase ki jang dekho ek pyase ki jang dekho
-  Allahu akbar allahu akbar
-  Naam mere khuda ka rahega
-  Kalma e la ilaaha rahega
-  Din quran kaaba rahega
-  Mera islam zinda rahega
-  Taygh meri qaza meiṅ dhali hai
-  Mere baazu meiṅ zor e ali hai
-  Shaamiyoṅ shaamiyon...
+  Ek pyaase ki jang dekho ek pyaase ki jang
+  Allahu Akbar Allahu Akbar
+  Naam mere Khuda ka rahega
+  Kalma-e-la ilaaha rahega
+  Din Quraan Kaaba rahega
+  Mera Islam zinda rahega
+  Tegh meri qaza meiṅ dhali hai
+  Mere baazu meiṅ zor-e-Ali hai
+  Shaamiyoṅ Shaamiyoṅ...
   Karbala haq ki taaqat rahegi
-  Ye lahu ki tamazat rahegi
+  Ye lahu ki tamaazat rahegi
   Meri dharti ki izzat rahegi
   Mere parcham ki hurmat rahegi
   Khatm ho jaayegi har ghulami
-  Mujhko tarikh degi salaami
-  Shaamiyoṅ shaamiyon...
-  Tum ho sairaab aur mai hu pyasa
-  Tum hazaroṅ ho aur mai hu tanha
+  Mujhko taarikh degi salaami
+  Shaamiyoṅ Shaamiyoṅ...
+  Tum ho sairaab aur main huṅ pyaasa
+  Tum hazaaroṅ ho aur main huṅ tanha
   Mar gaya hai jawaaṅ bhai mera
   Le gaya nur aankhoṅ ka beta
   Jang ka naam ab tum na loge
-  Kya ali aagaye ye kahoge
-  Shaamiyoṅ shaamiyon...
-  Khun kiuṅ aadmi ka bahayeiṅ
-  Amn ke phul har jaa khilayeiṅ
-  Saari insaniyat ko jagayeiṅ
-  Zulm se haaṅ magar haath uthayeiṅ
+  Kya Ali aa gaye ye kahoge
+  Shaamiyoṅ Shaamiyoṅ...
+  Khun kiuṅ aadmi ka bahaaeṅ
+  Amn ke phul har jaa khilaaeṅ
+  Saari insaniyat ko jagaaeṅ
+  Zulm se haaṅ magar haath uthaaeṅ
   Tum ne majbur mujhko kiya hai
-  Ab meri taygh o amr e khuda hai
-  Shaamiyoṅ shaamiyon...
-  Wo jo laashoṅ pe laashe uthaye
-  Ek khatra jo pani na paaye
-  Jis ka ghora bhi thak kar kara hai
-  Jang us ki hazaroṅ se haaye
-  Phir bhi jinn o malak jang dekheiṅ
-  Arsh waale meri jang dekheiṅ
-  Shaamiyoṅ shaamiyon...
-  Mere baba ali aa chuke hai
-  Mere bhaiya Hasan aa chuke hai
-  Daad abbas bhi de rahe hai
-  Mujhko akbar mere dekhte hai
-  Dar e qaima pe behne khari hai
-  Amma zahra dua de rahi hai
-  Shaamiyoṅ shaamiyon...
-  Jab kiya pad ke takbir hamla
-  Shor uthne laga al amaan ka
-  Shola e zulfiqar aisa chamka
-  Paaoṅ tak khuṅ meiṅ duba tha ghora
-  Ran meiṅ uthne lagi khuṅ ki maujeiṅ
-  Jaa ke kufe se takrayi faujeiṅ
-  Shaamiyoṅ shaamiyon...
+  Ab meri tegh o amr-e-Khuda hai
+  Shaamiyoṅ Shaamiyoṅ...
+  Wo jo laashoṅ pe laashe uthaae
+  Ek khatra jo paani na paae
+  Jis ka ghora bhi thak kar khara hai
+  Jang us ki hazaaroṅ se haae
+  Phir bhi jinn o malak jang dekheṅ
+  Arsh waale meri jang dekheṅ
+  Shaamiyoṅ Shaamiyoṅ...
+  Mere baba Ali aa chuke haiṅ
+  Mere bhaiya Hasan aa chuke haiṅ
+  Daad Abbas bhi de rahe haiṅ
+  Mujhko Akbar mere dekhte haiṅ
+  Dar-e-khaima pe behna khari hai
+  Ammaaṅ Zehra dua de rahi hai
+  Shaamiyoṅ Shaamiyoṅ...
+  Jab kiya parh ke takbir hamla
+  Shor uthne laga al-amaaṅ ka
+  Shola-e-Zulfiqaar aisa chamka
+  Paaoṅ tak khuṅ meiṅ tha duba ghora
+  Ran meiṅ uthne lagi khuṅ ki maujeṅ
+  Jaa ke Kufe se takraai faujeṅ
+  Shaamiyoṅ Shaamiyoṅ...
   Jab ye dekha falak se ye manzar
-  Bola jibril se rabb e akbar
-  Keh do shabbir se ab ye jaa kar
-  Imtehaṅ khatm hai ibne hyder
+  Bola Jibril se Rabb-e-Akbar
+  Keh do Shabbir se ab ye jaa kar
+  Imtihaaṅ khatm hai ibn-e-Haidar
   Mutmain nafs waale palat aa
   Rab tera tujhse raazi hua
-  Tera zaakir hai tera khuda
-  Ae Husain irjaie irjaie marhaba
-  Shor rehaan o sarwar utha
+  Tera zaakir hai tera Khuda
+  Ae Husain irjai irjai marhaba
+  Shor Rehaan o Sarwar utha
   Asr-e-aashur ka waqt tha
-  Aa rahi thi azaaṅ ki sada
+  Aa rahi hai thi azaaṅ ki sada
   Sheh ne sajde meiṅ sar rakh diya
   Ya Husain ya Husain ya Husain ya Husain
 ---

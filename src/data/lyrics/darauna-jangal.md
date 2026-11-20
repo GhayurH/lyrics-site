@@ -13,7 +13,7 @@ aliases: ["Darona Jangal", "دارونا جنگل ہے رات اندھیری"]
 published: true
 romanLyrics: |-
   Darauna jangal hai raat andheri
-  Sitaare kuchh jhilmila rahe haiṅ
+  Sitaare kuchh jhil mila rahe haiṅ
   Pare haiṅ reti par chaand laashe
   Jo apna gham aap kha rahe haiṅ
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Shikasta hathyaar kuchh pare haiṅ
   Ye log shaayad yahaaṅ lare haiṅ
-  Lare to wo hoṅ ge jo bare haiṅ
+  Lare to wo hoṅge jo bare haiṅ
   Nazar to bachche bhi aa rahe haiṅ
 
   5

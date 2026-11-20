@@ -1,101 +1,188 @@
 ---
-title: "Shaheedan E Kufa Saleem Mastan"
+title: "شہیدانِ کوفہ سلیم مستان"
+alternateTitle: "Shaheedan-e-Kufa Saleem Mastan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Marsiya"
 poet: "Ahsaan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Pyasa shaheed kar diya Muslim ko Eid par
+  Lasha phiraya galiyon mein oss ka idhar udhar
+  Koi Ali ki beti ko ja kar karey khabar
+  Lo aaj logon tooti hai Abbas ki kamar
+  Abbas ko Hussain ne manzar dikhaya hai
+  Muslim ka lasha chat se zameen par giraya hai
+
+  2
+  Muslim ke sath aaye they Muslim ke ladlay
+  Lekin yeh zulm dono padar se bichar gaye
+  Jo rahbar hain Khizar ke woh darbadar hoye
+  Jis ja qadam uthay ossi rastay pe chal diye
+  Kuch dair ruk ke dono ne dam apna bharna tha
+  Lekin laeen ne bhaiyon ko qaid karna tha
+
+  3
+  Zindaan mein qaid ho gaye Muslim ke gulbadan
+  Bhok our pyas se hoye dono ke khasta tan
+  Pairon mein beriyaan hain tu hathoon mein hai rasan
+  Haye khizaan ki zad pe Ruqaiya ka hai chaman
+  Murjhane lag gaye hain yeh ghazi ke phool hain
+  Muslim ke lal ibn-e-Rasool hain
+
+  4
+  Daroga ne jo qaidiyon ke chehray ko taka
+  Chehray ka noor noor-e-Muhammad sa hi laga
+  Pocha jo khandan tu dono ne yeh kaha
+  Haider ke hum nawasay hain kuch reham hum pe kha
+  Sun kar Ali ka naam woh qadmo mein gir gaya
+  De kar rehai zulm ki rahoon se phir gaya
+
+  5
+  Zindaan se jab chutay tu woh tha waqt-e-neem shab
+  Ik dar pe aa ke ruk gaye dono hi jaan bulb
+  Aawaz sun ke giriye ki nikli kaneez-e-Rab
+  Dono se pocha pyar se roney ka kya sabab
+  Muslim ka naam letey hi gham se bikhar gaye
+  Gash kha ke youn girey keh laga koch kar gaye
+
+  6
+  Gash se afaqa hotey hi ghar layi dono ko
+  Kehne lagi tum aal-e-Muhammad ho tu suno
+  Khidmat ka iss kaneez ko moqa hi bakhsh do
+  Main pani le ke aati hoon tum dono woh piyo
+  Itnay mein aaya Haris e bad kho azab mein
+  Bad mast tha woh bughz-e-Ali ki sharab mein
+
+  7
+  Aawaz aayi kan mein bachoon ke roney ki
+  Hujray mein dekha dono ko halat badal gayi
+  Khaincha pakar ke zulfoon se dono ko oss ghari
+  Iss zulm par bhi kaisay qayamat thehar gayi
+  Dalan tak woh khainch ke dono ko lata hai
+  Rukhsar par laeen tamachay lagata hai
+
+  8
+  Kar ke sitam bhi chain se betha na badchalan
+  Maloon tha woh khar keh pholon se thi chubhan
+  Talwar taiz karne mein woh ho gaya magan
+  Our khoon se lal ho gaye bachoon ke parahan
+  Dam ruk gaya tha seene mein chehray bhi zard they
+  They zakhm taza our badan unn ke sard they
+
+  9
+  Darya ke pas dono ko le aaya woh laeen
+  Bachay jo kanptay they tu tharati thi zameen
+  Yeh raat aakhri hai yeh dono ko tha yaqeen
+  Shukar-e-Khuda mein khak pe rakh di gayi jaben
+  Bikhrey hoye sitaron ko dekha zameen par
+  Haris ne dono bachoon ko khaincha zameen par
+
+  10
+  Talwar ko hawa mein ghomaya laeen ne
+  Dono yateem khof se thara ke reh gaye
+  Dono bayak zaban yeh Haris se keh uthay
+  Sar dono ke woh sath hi tan se juda karey
+  Thukra ke unn ki baat youn mara laeen ne
+  Aik aik kar ke sar ko utara laeen ne
+
+  11
+  Ahsaan bad-e-zulm ajab saneha howa
+  Darya mein jonhi lashon ko oss ne baha diya
+  Lashay bhi dono bachoon ke hotey nahi juda
+  Kuch door pohanchay lashay tu ik noor cha gaya
+  Do hath niklay darya se lashon ke wastay
+  Nana ka pyar hai yeh nason ke wastay
 ---
 
-Shaheedan e Kufa Saleem Mastan
+۱
+پیاسا شہید کر دیا مسلم کو عید پر
+لاشہ پھرایا گلیوں میں اس کا ادھر ادھر
+کوئی علی کی بیٹی کو جا کر کرے خبر
+لو آج لوگوں ٹوٹی ہے عباس کی کمر
+عباس کو حسین نے منظر دکھایا ہے
+مسلم کا لاشہ چھت سے زمین پر گرایا ہے
 
-1
-Pyasa Shaheed Kar Diya Muslim Ko Eid Par.
-Lasha Phiraya Galiyon Mein Oss Ka Idhar Udhar.
-Koi Ali Ki Beti Ko Ja Kar Karey Khabar.
-Lo Aaj Logon Tooti Hai Abbas Ki Kamar.
-Abbas Ko Hussain Ne Manzar Dikhaya Hai.
-Muslim Ka Lasha Chat Se Zameen Par Giraya Hai.
+۲
+مسلم کے ساتھ آئے تھے مسلم کے لاڈلے
+لیکن یہ ظلم دونوں پدر سے بچھڑ گئے
+جو رہبر ہیں خضر کے وہ دربدر ہوئے
+جس جا قدم اٹھائے اسی رستے پہ چل دیے
+کچھ دیر رک کے دونوں نے دم اپنا بھرنا تھا
+لیکن لعین نے بھائیوں کو قید کرنا تھا
 
-2
-Muslim Ke Sath Aaye They Muslim Ke Ladlay.
-Lekin Yeh Zulm Dono Padar Se Bichar Gaye.
-Jo Rahbar Hain Khizar Ke Woh Darbadar Hoye.
-Jis Ja Qadam Uthay Ossi Rastay Pe Chal Diye.
-Kuch Dair Ruk Ke Dono Ne Dam Apna Bharna Tha.
-Lekin Laeen Ne Bhaiyon Ko Qaid Karna Tha.
+۳
+زنداں میں قید ہو گئے مسلم کے گلبدن
+بھوک اور پیاس سے ہوئے دونوں کے خستہ تن
+پیروں میں بیڑیاں ہیں تو ہاتھوں میں ہے رسن
+ہائے خزاں کی زد پہ رقیہ کا ہے چمن
+مرجھانے لگ گئے ہیں یہ غازی کے پھول ہیں
+مسلم کے لال ابنِ رسول ہیں
 
-3
-Zindaan Mein Qaid Ho Gaye Muslim Ke Gulbadan.
-Bhok Our Pyas Se Hoye Dono Ke Khasta Tan.
-Pairon Mein Beriyaan Hain Tu Hathoon Mein Hai Rasan.
-Haye Khizaan Ki Zad Pe Ruqaiya Ka Hai Chaman.
-Murjhane Lag Gaye Hain Yeh Ghazi Ke Phool Hain.
-Muslim Ke Lal Ibn-e-Rasool Hain.
+۴
+داروغہ نے جو قیدیوں کے چہرے کو تاکا
+چہرے کا نور نورِ محمد سا ہی لگا
+پوچھا جو خاندان تو دونوں نے یہ کہا
+حیدر کے ہم نواسے ہیں کچھ رحم ہم پہ کھا
+سن کر علی کا نام وہ قدموں میں گر گیا
+دے کر رہائی ظلم کی راہوں سے پھر گیا
 
-4
-Daroga Ne Jo Qaidiyon Ke Chehray Ko Taka.
-Chehray Ka Noor Noor-e-Muhammad Sa Hi Laga.
-Pocha Jo Khandan Tu Dono Ne Yeh Kaha.
-Haider Ke Hum Nawasay Hain Kuch Reham Hum Pe Kha.
-Sun Kar Ali Ka Naam Woh Qadmo Mein Gir Gaya.
-De Kar Rehai Zulm Ki Rahoon Se Phir Gaya.
+۵
+زنداں سے جب چھوٹے تو وہ تھا وقتِ نیم شب
+اک در پہ آ کے رک گئے دونوں ہی جاں بلب
+آواز سن کے گریے کی نکلی کنیزِ رب
+دونوں سے پوچھا پیار سے رونے کا کیا سبب
+مسلم کا نام لیتے ہی غم سے بکھر گئے
+غش کھا کے یوں گرے کہ لگا کوچ کر گئے
 
-5
-Zindaan Se Jab Chutay Tu Woh Tha Waqt-e-Neem Shab.
-Ik Dar Pe Aa Ke Ruk Gaye Dono Hi Jaan Bulb.
-Aawaz Sun Ke Giriye Ki Nikli Kaneez-e-Rab.
-Dono Se Pocha Pyar Se Roney Ka Kya Sabab.
-Muslim Ka Naam Letey Hi Gham Se Bikhar Gaye.
-Gash Kha Ke Youn Girey Keh Laga Koch Kar Gaye.
+۶
+غش سے افاقہ ہوتے ہی گھر لائی دونوں کو
+کہنے لگی تم آلِ محمد ہو تو سنو
+خدمت کا اس کنیز کو موقع ہی بخش دو
+میں پانی لے کے آتی ہوں تم دونوں وہ پیو
+اتنے میں آیا حارثِ بد خو عذاب میں
+بدمست تھا وہ بغضِ علی کی شراب میں
 
-6
-Gash Se Afaqa Hotey Hi Ghar Layi Dono Ko.
-Kehne Lagi Tum Aal-e-Muhammad Ho Tu Suno.
-Khidmat Ka Iss Kaneez Ko Moqa Hi Bakhsh Do.
-Main Pani Le Ke Aati Hoon Tum Dono Woh Piyo.
-Itnay Mein Aaya Haris e Bad Kho Azab Mein.
-Bad Mast Tha Woh Bughz-e-Ali Ki Sharab Mein.
+۷
+آواز آئی کان میں بچوں کے رونے کی
+حجرے میں دیکھا دونوں کو حالت بدل گئی
+کھینچا پکڑ کے زلفوں سے دونوں کو اس گھڑی
+اس ظلم پر بھی کیسے قیامت ٹھہر گئی
+دالان تک وہ کھینچ کے دونوں کو لاتا ہے
+رخسار پر لعین طمانچے لگاتا ہے
 
-7
-Aawaz Aayi Kan Mein Bachoon Ke Roney Ki.
-Hujray Mein Dekha Dono Ko Halat Badal Gayi.
-Khaincha Pakar Ke Zulfoon Se Dono Ko Oss Ghari.
-Iss Zulm Par Bhi Kaisay Qayamat Thehar Gayi.
-Dalan Tak Woh Khainch Ke Dono Ko Lata Hai.
-Rukhsar Par Laeen Tamachay Lagata Hai.
+۸
+کر کے ستم بھی چین سے بیٹھا نہ بدچلن
+ملعون تھا وہ خار کہ پھولوں سے تھی چبھن
+تلوار تیز کرنے میں وہ ہو گیا مگن
+اور خون سے لال ہو گئے بچوں کے پیرہن
+دم رک گیا تھا سینے میں چہرے بھی زرد تھے
+تھے زخم تازہ اور بدن ان کے سرد تھے
 
-8
-Kar Ke Sitam Bhi Chain Se Betha Na Badchalan.
-Maloon Tha Woh Khar Keh Pholon Se Thi Chubhan.
-Talwar Taiz Karne Mein Woh Ho Gaya Magan.
-Our Khoon Se Lal Ho Gaye Bachoon Ke Parahan.
-Dam Ruk Gaya Tha Seene Mein Chehray Bhi Zard They.
-They Zakhm Taza Our Badan Unn Ke Sard They.
+۹
+دریا کے پاس دونوں کو لے آیا وہ لعین
+بچے جو کانپتے تھے تو تھراتی تھی زمین
+یہ رات آخری ہے یہ دونوں کو تھا یقین
+شکرِ خدا میں خاک پہ رکھ دی گئی جبیں
+بکھرے ہوئے ستاروں کو دیکھا زمین پر
+حارث نے دونوں بچوں کو کھینچا زمین پر
 
-9
-Darya Ke Pas Dono Ko Le Aaya Woh Laeen.
-Bachay Jo Kanptay They Tu Tharati Thi Zameen.
-Yeh Raat Aakhri Hai Yeh Dono Ko Tha Yaqeen.
-Shukar-e-Khuda Mein Khak Pe Rakh Di Gayi Jaben.
-Bikhrey Hoye Sitaron Ko Dekha Zameen Par.
-Haris Ne Dono Bachoon Ko Khaincha Zameen Par.
+۱۰
+تلوار کو ہوا میں گھمایا لعین نے
+دونوں یتیم خوف سے تھرا کے رہ گئے
+دونوں بیک زباں یہ حارث سے کہہ اٹھے
+سر دونوں کے وہ ساتھ ہی تن سے جدا کرے
+ٹھکرا کے ان کی بات یوں مارا لعین نے
+ایک ایک کر کے سر کو اتارا لعین نے
 
-10
-Talwar Ko Hawa Mein Ghomaya Laeen Ne.
-Dono Yateem Khof Se Thara Ke Reh Gaye.
-Dono Bayak Zaban Yeh Haris Se Keh Uthay.
-Sar Dono Ke Woh Sath Hi Tan Se Juda Karey.
-Thukra Ke Unn Ki Baat Youn Mara Laeen Ne.
-Aik Aik Kar Ke Sar Ko Utara Laeen Ne.
-
-11
- Ahsaan Bad-e-Zulm Ajab Saneha Howa.
-Darya Mein Jonhi Lashon Ko Oss Ne Baha Diya.
-Lashay Bhi Dono Bachoon Ke Hotey Nahi Juda.
-Kuch Door Pohanchay Lashay Tu Ik Noor Cha Gaya.
-Do Hath Niklay Darya Se Lashon Ke Wastay.
-Nana Ka Pyar Hai Yeh Nason Ke Wastay.
+۱۱
+احسان بعدِ ظلم عجب سانحہ ہوا
+دریا میں جونہی لاشوں کو اس نے بہا دیا
+لاشے بھی دونوں بچوں کے ہوتے نہیں جدا
+کچھ دور پہنچے لاشے تو اک نور چھا گیا
+دو ہاتھ نکلے دریا سے لاشوں کے واسطے
+نانا کا پیار ہے یہ نواسوں کے واسطے

@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas bhira da sir tak ke deway Zainab sain dohaiyaan
-  Kehra agla shehar aye qaidnaa layi mainu puchdiyaan ne bharjaiyaan
+  Abbas bhira da sir tak ke deve Zainab saaiṅ dohaaiyaaṅ
+  Kehra agla shehar ae qaidnaaṅ lai mainuṅ puchhdiyaaṅ ne bharjaaiyaaṅ
 
   1
-  Main ki dasaan kinj bolna aye kinj kand de ohlay howana aye
-  Main v darbar di peshi te aj pehli wari aayi aan
-  Darbar di peshi te Ghazi main maa nu sochdi aa pohanchi
-  Te Fidak de khutbay waliyaan galaan yadaan wich dohraiyan
+  Main ki dasaaṅ kinj bolna ae kinj kandh de ohle hovana ae
+  Main vi darbar di peshi te aj pehli vaari aayi aaṅ
+  Darbar di peshi te Ghazi main maaṅ nuṅ sochdi aa pahunchi
+  Te Fidak de khutbe valiyaaṅ gallaaṅ yaadaaṅ vich dohraaiyaaṅ
 
   2
-  Darbar de wich sir Ghazi da hoya oss welay be chain aye
-  Jadon Shimar ne aakhiya le aao Abbas di qaidan bhain aye
-  Hik pasay sir Abbas da hayi hik pasay veer Hussain aye
-  Aa wekh Ghazi main ujari nu rayi kardi Zainab wain aye
+  Darbar de vich sir Ghazi da hoya os vele bechain ae
+  Jadoṅ Shimar ne aakhiya le aao Abbas di qaidan bhain ae
+  Hik paase sir Abbas da hai hik paase veer Husain ae
+  Aa vekh Ghazi main ujri nuṅ rahi kardi Zainab vain ae
 
   3
-  Darbar di peshi de welay mastoraan te mastoraan ne
-  Jithon Abid v na guzar sakay aina oh rahwaan apnaiyan
-  Har shehar ich apne jitan da aina wakhrey rang ayelan kita
-  Kadi sir lehraye neziyaan te kadi chadraan ne lehraiyan
+  Darbar di peshi de vele masturaaṅ te masturaaṅ ne
+  Jithoṅ Abid vi na guzar sake enhaaṅ oh raahvaaṅ apnaaiyaaṅ
+  Har shehar ich apne jatan da enhaaṅ vakhre rang elaan kita
+  Kadi sir lehraaye neziyaaṅ te kadi chaadraaṅ ne lehraaiyaaṅ
 
   4
-  Aye aakh Sakina rondi aye chachay di nishani mil jaway
-  Mashkezay naal wandawaan gi main qaid diyaan tanhaiyaan
-  Akbar aye bibi wain karey almaan walay diyaan bhaina waan
-  Tere sir di qasam assi safraan wich kisay moor te nayi ghabraiyan
+  Ae aakh Sakina rondi ae chaache di nishaani mil jaave
+  Mashkize naal vandaavaaṅ gi main qaid diyaaṅ tanhaaiyaaṅ
+  Akbar ae Bibi vain kare almaaṅ vaale diyaaṅ bhainaaṅ vaaṅ
+  Tere sir di qasam assiṅ safraaṅ vich kise mor te naiṅ ghabraaiyaaṅ
 ---
 
 عباس بھرا دا سر تک کے دیوے زینب سائیں دہائیاں

@@ -1,6 +1,6 @@
 ---
 title: "ادب سے رکھی جو خاکِ شفا مصلّے پر"
-alternateTitle: "Adab Se Rakhi Jo Khak-e-Shifa Musalle Par"
+alternateTitle: "Adab Se Rakhi Jo Khaak-e-Shifa Musalle Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,22 +10,22 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Tu yad aa gayi Karb-o-Bala musalle par
+  Tu yaad aa gayi Karb o Bala musalle par
 
   1
-  Khuda ki zaat ko razi jo tum ne karna ho
-  Azza Hussain ki kar do bapa musalle par
-  Woh jiss ke dil mein nahi hub-e-Ahl-e-Bait-e-Rasool
-  Osse na ho ga koi faida musalle par
-  Khuda ki yaad mein shamil hoi Hussain ki yaad
-  Bichaya main ne jo farsh-e-azza musalle par
+  Khuda ki zaat ko raazi jo tum ne karna ho
+  Aza Husain ki kar do bapa musalle par
+  Woh jis ke dil mein nahiṅ hubb-e-Ahl-e-Bait-e-Rasul
+  Use na hoga koi faida musalle par
+  Khuda ki yaad mein shaamil hui Husain ki yaad
+  Bichhaaya main ne jo farsh-e-aza musalle par
 
   2
-  Jo yaad aya mujhe tera aakhri sajda
+  Jo yaad aaya mujhe tera aakhri sajda
   Bilak bilak ke main rone laga musalle par
   Mere naseeb mein ho jaye Karbala ka safar
-  Khuda se mangi faqat yeh dua musalle par
-  Namaz oss ko hi deti hai faida Raqib
+  Khuda se maangi faqat yeh dua musalle par
+  Namaaz us ko hi deti hai faida Raqib
   Woh jis ne naam-e-Ali le liye musalle par
 ---
 

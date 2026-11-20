@@ -1,41 +1,72 @@
 ---
-title: "Sab Se Alag Hai"
+title: "سب سے الگ ہے"
+alternateTitle: "Sab Se Alag Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra ki qasam sab se juda sab se alag hai
+  Hur tere amama jo bandha sab se alag hai
+  Woh subha ko ban jata hai aflak pe soraj
+  Bibi tere hujray ka diya sab se alag hai
+
+  2
+  Hai Khana-e-Kaba ka ghilaf apni jagah par
+  Lekin sar-e-Zahra ki rida sab se alag hai
+  Shabeer ne Quran jo Zahra se suna hai
+  Youn naizay pe parhne ki ada sab se alag hai
+
+  3
+  Fizza man-o-salwa bhi manga sakti hai lekin
+  Ghar mein tere faqoon ka maza sab se alag hai
+  Dehleez pe Zahra ki tahajud ki namazein
+  Salman ke sajdoon ka sila sab se alag hai
+
+  4
+  Bhujney hi nahi deti charag-e-gham-e-Sarwar
+  Jo Sham se aati hai howa sab se alag hai
+  Khud fakhar se bola hai Muhammad ke chacha ne
+  Masoom Sakina ka chacha sab se alag hai
+
+  5
+  Khud sakhta Allah jo dunya ne banaye
+  Unn sab mein Nuseri ka khuda sab se alag hai
+  Yeh main nahi kehta hoon zamane ki sada hai
+  Zahra ki Takallum pe atta sab se alag hai
 ---
 
-1
-Zahra Ki Qasam Sab Se Juda Sab Se Alag Hai.
-Hur Tere Amama Jo Bandha Sab Se Alag Hai.
-Woh Subha Ko Ban Jata Hai Aflak Pe Soraj.
-Bibi Tere Hujray Ka Diya Sab Se Alag Hai.
+۱
+زہرا کی قسم سب سے جدا سب سے الگ ہے
+حر تیرے عمامہ جو باندھا سب سے الگ ہے
+وہ صبح کو بن جاتا ہے افلاک پہ سورج
+بی‌بی تیرے حجرے کا دیا سب سے الگ ہے
 
-2
-Hai Khana-e-Kaba Ka Ghilaf Apni Jagah Par.
-Lekin Sar-e-Zahra Ki Rida Sab Se Alag Hai.
-Shabeer Ne Quran Jo Zahra Se Suna Hai.
-Youn Naizay Pe Parhne Ki Ada Sab Se Alag Hai.
+۲
+ہے خانۂ کعبہ کا غلاف اپنی جگہ پر
+لیکن سرِ زہرا کی ردا سب سے الگ ہے
+شبیر نے قرآن جو زہرا سے سنا ہے
+یوں نیزے پہ پڑھنے کی ادا سب سے الگ ہے
 
-3
-Fizza Man-o-Salwa Bhi Manga Sakti Hai Lekin.
-Ghar Mein Tere Faqoon Ka Maza Sab Se Alag Hai.
-Dehleez Pe Zahra Ki Tahajud Ki Namazein.
-Salman Ke Sajdoon Ka Sila Sab Se Alag Hai.
+۳
+فضہ من و سلویٰ بھی منگا سکتی ہے لیکن
+گھر میں تیرے فاقوں کا مزہ سب سے الگ ہے
+دہلیز پہ زہرا کی تہجد کی نمازیں
+سلمان کے سجدوں کا صلہ سب سے الگ ہے
 
-4
-Bhujney Hi Nahi Deti Charag-e-Gham-e-Sarwar.
-Jo Sham Se Aati Hai Howa Sab Se Alag Hai.
-Khud Fakhar Se Bola Hai Muhammad Ke Chacha Ne.
-Masoom Sakina Ka Chacha Sab Se Alag Hai.
+۴
+بجھنے ہی نہیں دیتی چراغِ غمِ سرور
+جو شام سے آتی ہے ہوا سب سے الگ ہے
+خود فخر سے بولا ہے محمد کے چچا نے
+معصوم سکینہ کا چچا سب سے الگ ہے
 
-5
-Khud Sakhta ALLAH Jo Dunya Ne Banaye.
-Unn Sab Mein Nuseri Ka Khuda Sab Se Alag Hai.
-Yeh Main Nahi Kehta Hoon Zamane Ki Sada Hai.
-Zahra Ki Takallum Pe Atta Sab Se Alag Hai.
+۵
+خود ساختہ اللہ جو دنیا نے بنائے
+ان سب میں نصیری کا خدا سب سے الگ ہے
+یہ میں نہیں کہتا ہوں زمانے کی صدا ہے
+زہرا کی تکلم پہ عطا سب سے الگ ہے

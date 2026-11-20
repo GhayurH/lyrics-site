@@ -9,16 +9,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aah uftaad zatan dast-e-alamdar-e-Husain
+  Aah uftaad zatan dast-e-Alamdaar-e-Husain
 
   1
-  Ae Alamdar-e-Husain ae Alamdar-e-Husain
+  Ae Alamdaar-e-Husain ae Alamdaar-e-Husain
   Ae bahan maatam-e-Abbas-e-Ali kijiye bapaa
   Karte the pit ke sar Hazrat-e-Shabbir bukaa
   Ho gaya qatl mera bhai nahiṅ dil ko chain
 
   2
-  Di khabar shah ne juṅhi qatl alamdar hue
+  Di khabar shaah ne junhi qatl alamdaar hue
   Chaadareṅ chhin gai ye sun ke haram ke sar se
   Karti thi aal-e-abaa shiddat-e-aalaam se bain
 

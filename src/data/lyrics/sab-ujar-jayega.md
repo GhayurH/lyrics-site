@@ -17,10 +17,10 @@ romanLyrics: |-
 
   1
   Subh-e-Aashur to de di Ali Akbar ne azaaṅ
-  Kaun dega bhala maghrib ki azaaṅ asr ke baad
+  Kaun de ga bhala maghrib ki azaaṅ asr ke baad
 
   2
-  Raakh pe khaimoṅ ki rote hue bachche hoṅ ge
+  Raakh par khaimoṅ ki rote hue bachche hoṅ ge
   Dasht meiṅ hoga qayaamat ka samaaṅ asr ke baad
 
   3
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Kaun maasum Sakina pe taras khaaye ga
-  Kaun samjhe ga yatimoṅ ki fughaaṅ asr ke baad
+  Kaun samjhe ga yatimi ki zabaaṅ asr ke baad
 
   5
   Laash Abbas ki darya pe tarap jaaye gi
@@ -40,8 +40,8 @@ romanLyrics: |-
   Yaad aane laga Zainab ko samaaṅ asr ke baad
 
   7
-  Kis tarah dil ko sambhaale gi Ali ki beti
-  Ran meiṅ roye gi jo Shabbir ko maaṅ asr ke baad
+  Apna dil kaise sambhaale gi Ali ki beti
+  Ran meiṅ jab roye gi Shabbir ki maaṅ asr ke baad
 
   8
   Kam se kam hai abhi bimaar ka bistar baaqi
@@ -53,10 +53,10 @@ romanLyrics: |-
 
   10
   Khatm kar do yahaaṅ ae Aamir o Nayyar nauha
-  Kar sako ge na ghamoṅ ka ye bayaaṅ asr ke baad
+  Kar sako ge na ghamoṅ ke ye bayaaṅ asr ke baad
 
   11
-  Laash Shabbir ki paamaal kareṅ ge aadaa
+  Laash-e-Shabbir ko paamaal kareṅ ge aadaa
   Khun barsaaye ga ye saara jahaaṅ asr ke baad
 
   12

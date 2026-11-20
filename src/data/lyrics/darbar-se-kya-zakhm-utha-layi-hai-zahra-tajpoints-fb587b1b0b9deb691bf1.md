@@ -1,38 +1,66 @@
 ---
-title: "Darbar Se Kya Zakhm Utha Layi Hai Zahra"
+title: "دربار سے کیا زخم اٹھا لائی ہے زہرا"
+alternateTitle: "Darbar Se Kya Zakhm Utha Layi Hai Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mazhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Darbar se kya zakhm utha layi hai Zahra
+  Ik aag kalejay mein chupa layi hai Zahra
+
+  1
+  Kyun teri gawahi ko jhutlaya giya hai
+  Kiss jurm ki umat se saza payi hai Zahra
+  Soo zakhm jigar haye marham na dawa hai
+  Iss gham mein hi matam ki fugan layi hai Zahra
+
+  2
+  Mohsin ki shahadat bhi ik koh-e-alam hai
+  Yasrab pe mosaib ki ghata chayi hai Zahra
+  Aankhon se bahe aanso our khoon-e-jigar bhi
+  Umat tere iss gham ki tamashai hai Zahra
+
+  3
+  Kya beet gayi dill pe mushkil ye biyaan hai
+  Ye baat qiyamat ki khabar layi hai Zahra
+  Umat ne sataya hai youn baad-e-paimber
+  Tasveer gham-o-ranj ki kehlai hai Zahra
+
+  4
+  Halqe pare aankhon mein nohoon ka sabab hai
+  Na baap raha sar par na bahi hai Zahra
+  Mazhar ye mosibat thi shehzadi ke dill par
+  Darbar mein jana bari ruswai hai Zahra
 ---
 
-Darbar Se Kya Zakhm Utha Layi Hai Zahra.
-Ik Aag Kalejay Mein Chupa Layi Hai Zahra.
+دربار سے کیا زخم اٹھا لائی ہے زہرا
+اک آگ کلیجے میں چھپا لائی ہے زہرا
 
-1
-Kyun Teri Gawahi Ko Jhutlaya Giya Hai.
-Kiss Jurm Ki Umat Se Saza Payi Hai Zahra.
-Soo Zakhm Jigar Haye Marham Na Dawa Hai.
-Iss Gham Mein Hi Matam Ki Fugan Layi Hai Zahra.
+۱
+کیوں تیری گواہی کو جھٹلایا گیا ہے
+کس جرم کی امت سے سزا پائی ہے زہرا
+سو زخم جگر ہائے مرہم نہ دوا ہے
+اس غم میں ہی ماتم کی فغاں لائی ہے زہرا
 
-2
-Mohsin Ki Shahadat Bhi Ik Koh-e-Alam Hai.
-Yasrab Pe Mosaib Ki Ghata Chayi Hai Zahra.
-Aankhon Se Bahe Aanso Our Khoon-e-Jigar Bhi.
-Umat Tere Iss Gham Ki Tamashai Hai Zahra.
+۲
+محسن کی شہادت بھی اک کوہِ الم ہے
+یثرب پہ مصائب کی گھٹا چھائی ہے زہرا
+آنکھوں سے بہے آنسو اور خونِ جگر بھی
+امت تیرے اس غم کی تماشائی ہے زہرا
 
-3
-Kya Beet Gayi Dill Pe Mushkil Ye Biyaan Hai.
-Ye Baat Qiyamat Ki Khabar Layi Hai Zahra.
-Umat Ne Sataya Hai Youn Baad-e-Paimber.
-Tasveer Gham-o-Ranj Ki Kehlai Hai Zahra.
+۳
+کیا بیت گئی دل پہ مشکل یہ بیاں ہے
+یہ بات قیامت کی خبر لائی ہے زہرا
+امت نے ستایا ہے یوں بعدِ پیمبر
+تصویر غم و رنج کی کہلائی ہے زہرا
 
-4
-Halqe Pare Aankhon Mein Nohoon Ka Sabab Hai.
-Na Baap Raha Sar Par Na Bahi Hai Zahra.
- Mazhar Ye Mosibat Thi Shehzadi Ke Dill Par.
-Darbar Mein Jana Bari Ruswai Hai Zahra.
+۴
+حلقے پڑے آنکھوں میں نوحوں کا سبب ہے
+نہ باپ رہا سر پر نہ بھائی ہے زہرا
+مظہر یہ مصیبت تھی شہزادی کے دل پر
+دربار میں جانا بڑی رسوائی ہے زہرا

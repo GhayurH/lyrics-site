@@ -14,26 +14,26 @@ romanLyrics: |-
   1
   Aghaaz-e-zikr-e-wasf-e-Sheh-e-Anbiya karuṅ
   Pehle durud parh luṅ to phir ibtida karuṅ
-  Misal-e-gulab mehke aqidat ka lafz lafz
-  Gulpashi-e-adab hi se midhat kiya karuṅ
+  Misaal-e-gulaab mehke aqidat ka lafz lafz
+  Gul paashi-e-adab hi se midhat kiya karuṅ
 
   2
-  Sochuṅ to Shehr-e-Ilm tasawwur meiṅ ho mudam
+  Sochuṅ to Shehr-e-Ilm tasawwur meiṅ ho mudaam
   Likhuṅ to is ke dar ke qaside likha karuṅ
-  Aae zabaṅ pe Ism-e-Muhammad to jhum kar
+  Aae zabaaṅ pe Ism-e-Muhammad to jhum kar
   Apne hi laboṅ ke aap hi bose liya karuṅ
 
   3
-  Iman ki chandni se mawaddat ka nur luṅ
-  Sidq o safa se ajr-e-risalat ada karuṅ
-  Sarmast-e-kaif o masti jam-e-wila jo huṅ
-  Yasrab ke maikade ki damadam piya karuṅ
+  Imaan ki chaandni se mawaddat ka nur luṅ
+  Sidq o safa se ajr-e-risaalat ada karuṅ
+  Sarmast-e-kaif o masti jaam-e-wila jo huṅ
+  Yasrab ke mai kade ki damadam piya karuṅ
 
   4
-  Namus-e-Ahl-e-Bait-e-Risalat pe jaan duṅ
+  Naamus-e-Ahl-e-Bait-e-Risaalat pe jaan duṅ
   Dil ki mina ko zinat-e-Karb o Bala karuṅ
-  Andaz apna khub hai Mumtaz o munfarid
-  Aslub-e-fan ko rang achhute ata karuṅ
+  Andaaz apna khub hai Mumtaz o munfarid
+  Uslub-e-fan ko rang achhute ata karuṅ
 ---
 ۱
 آغازِ ذکرِ وصفِ شہِ انبیا کروں

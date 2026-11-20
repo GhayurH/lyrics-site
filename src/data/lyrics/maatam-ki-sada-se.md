@@ -18,14 +18,14 @@ romanLyrics: |-
   Majlis meiṅ bataaya jaata hai
 
   1
-  Islam ke shaidaai sikheṅ
+  Islam ki shaidaai sikheṅ
   Yuṅ din bachaaya jaata hai
   Sar tan se kataaya jaata hai
   Ghar baar lutaaya jaata hai
 
   2
-  Shabbir ne ye dikhlaaya hai
-  Ghurbat meiṅ bhi saare aalam ko
+  Shabbir ye dikhlaaya hai
+  Ghurbat meiṅ saare aalam ko
   Piri meiṅ jawaaṅ ke laashe ko
   Kis tarah uthaaya jaata hai
 
@@ -36,9 +36,9 @@ romanLyrics: |-
   Quraan sunaaya jaata hai
 
   4
-  Qaasim ki shahaadat hote hi
-  Ek shab ki suhaagan raand hui
-  Afsos ke ek ek churi ko
+  Qaasim ki shahaadat hoti hai
+  Ik shab ki suhaagan raand hui
+  Afsos ke ik ik churi ko
   Bewa ki barhaaya jaata hai
 
   5

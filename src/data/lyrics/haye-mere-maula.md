@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sar pito momino ke qayamat ki ghari hai
-  Aale ali pa dekho musibat ye bari hai
-  Haye ali maula haye ali maula
-  Qatl sajde meiṅ ho gaye maula
-  Khuṅ ugalti hai masjid e kufa
-  Hae mere maula aa mere maula
-  Hae mere aaqa aa mera aaqa
-  Masjid meiṅ shor utha ali qatl ho gaye khaalik ke ghar meiṅ rab ke wali qatl ho gaye
-  Khaalik ke ghar meiṅ rab ke wali qatl ho gaye
-  Tar khuṅ meiṅ musalla hua bu-turaab ka
+  Sar pito mominoṅ ke qayamat ki ghari hai
+  Aal-e-Ali pe dekho musibat ye bari hai
+  Haye Ali Maula, haye Ali Maula
+  Qatl sajde mein ho gaye Maula
+  Khuṅ ugalti hai masjid-e-Kufa
+  Haye mere Maula aa mere Maula
+  Haye mere aaqa aa mere aaqa
+  Masjid mein shor utha Ali qatl ho gaye
+  Khaaliq ke ghar mein Rab ke wali qatl ho gaye
+  Tar khuṅ mein musalla hua Bu Turaab ka
   Qatl sajde mein...
   Khuṅ ugalti hai...
-  Har zarra ro raha hai ali gham meiṅ aap ke
-  Kaaba bhi ghamzada hai ali gham meiṅ aap ke
-  Aansu baha rahe hai nabi aur ambiya
+  Har zarra ro raha hai Ali gham mein aap ke
+  Kaaba bhi ghamzada hai Ali gham mein aap ke
+  Aansuṅ baha rahe haiṅ Nabi aur ambiya
   Qatl sajde mein...
   Khuṅ ugalti hai...
   Kaisa sitam kiya hai ye dekho sharir ne
-  Talwaar has ke mari hai us bezameer ne
-  Do nim hogaya hai sare shaahe la fata
+  Talwaar hans ke maari hai us bezamir ne
+  Do nim ho gaya hai sar-e-Shaah-e-La Fata
   Qatl sajde mein...
   Khuṅ ugalti hai...
-  Hasnain sar ko pit ke hote hai beqarar
-  Abbas bhi tarapte hai rote hai zaar zaar
-  Ab kaun hai yatimoṅ ka dunya meiṅ aasra
+  Hasnain sar ko pit ke hote haiṅ beqaraar
+  Abbas bhi tarapte haiṅ rote haiṅ zaar zaar
+  Ab kaun hai yatimoṅ ka duniya mein aasra
   Qatl sajde mein...
   Khuṅ ugalti hai...
-  Hyder ko is tariqe se hasnain uthaye the
-  Jis tarha koi kaandhe pe mayyat ko laadle
-  Mushkil kusha ke betoṅ pa mushkil ki inteha
+  Haidar ko is tariqe se Hasnain uthaaye the
+  Jis tarah koi kaandhe pe mayyat ko laad le
+  Mushkil Kusha ke betoṅ pe mushkil ki intiha
   Qatl sajde mein...
   Khuṅ ugalti hai...
-  Aaye ali jo ghar meiṅ to roti thi bibiyaṅ
+  Aaye Ali jo ghar mein to roti thi Bibiyaṅ
   Kulsum sar ko pit ke leti thi hichkiyaṅ
   Zainab giri hai khaak pe karti hui buka
   Qatl sajde mein...
   Khuṅ ugalti hai...
-  Nasir ye nauha sunke bahot roye soghwaar
-  Haathoṅ ko apne jor ke ye bole soghwaar
+  Nasir ye nauha sun ke bahut roye sogwaar
+  Haathoṅ ko apne jor ke ye bole sogwaar
   Arif ne pursa aap ka dil se ada kiya
   Qatl sajde mein...
   Khuṅ ugalti hai...
-  Sar pite fatema
-  Khuṅ roye mustafa
+  Sar piti Fatima
+  Khuṅ roye Mustafa
   Shabbar ka tarapna
   Shabbir ka girya
   Ghazi ka machalna

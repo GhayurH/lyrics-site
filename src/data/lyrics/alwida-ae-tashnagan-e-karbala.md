@@ -7,63 +7,40 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Alwida aey tishna gane Karbala
-
+romanLyrics: |-
+  Alwida ae tishna-gaan-e-Karbala
 
   1
-
-  Alwida aey koshta gane Karbala
-
+  Alwida ae kushta-gaan-e-Karbala
   Is baras bhi mil saka na dil ko chain
-
-  Ro sake na tujko jee bhar kar hussain
-
-  Nohagar hai aaj matam ki sada
-
+  Ro sake na tujh ko ji bhar ke Husain
+  Noha gar hai aaj maatam ki sada
 
   2
-
-  As-salam aey umme laila ke jawan
-
-  Kab tere seene may dar aayi sina
-
-  Khaab ibrahim ka poora hua
-
+  As-salaam ae Umm-e-Laila ke jawaaṅ
+  Kab tere sine meiṅ dar aayi sanaaṅ
+  Khwaab Ibrahim ka pura hua
 
   3
-
-  As-salam ay saahibe mashko alam
-
+  As-salaam ae saahib-e-mashk o alam
   Tere gham ke saath hai kuch aur gham
-
-  Bebasi bali sakina alqama
-
+  Bebasi baali Sakina Alqama
 
   4
-
-  As-salam ay asghare ghuncha-dahan
-
-  Sab ke seeno may hai naawak ki chuban
-
-  Tu na ho to kuch nahi hai karbala
-
+  As-salaam ae Asghar-e-ghuncha dahan
+  Sab ke sinoṅ meiṅ hai naawak ki chubhan
+  Tu na ho to kuch nahiṅ hai Karbala
 
   5
-
-  As-salam ay kund khanjar ke qateeb
-
-  Hai teri taazeem may roohe khaleel
-
-  Rehgaya tere sabab naame khuda
-
+  As-salaam ae kund khanjar ke khatib
+  Hai teri taazim meiṅ ruh-e-Khalil
+  Rah gaya tere sabab naam-e-Khuda
 
   6
-
-  Dashte ghurbat ke sitaro par salam
-
-  Shaahe-deen ke jaanisaro par salam
-
-  Unpe hai shahid hamari jaan fida'
+  Dasht-e-ghurbat ke sitaaroṅ pe salaam
+  Shaah-e-diṅ ke jaanisaaroṅ par salaam
+  Un par hai Shahid hamaari jaaṅ fida
+  Alwida ae tashn
 ---
 
 الوداع اے تشنہ گان کربلا

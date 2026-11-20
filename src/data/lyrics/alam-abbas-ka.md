@@ -12,47 +12,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae karbala bata ae alqama bata
+  Ae Karbala bata ae Alqama bata
   Tanha Husain dekh rahe the ye maajra
-  Aaya tha kis tarha se tarayi pe bawafa
-  Aur kis tarha se khun meiṅ tar hoke reh gaya
-  Alam abbas ka alam abbas ka
+  Aaya tha kis tarah se taraai pe bawafa
+  Aur kis tarah se khun meiṅ tar ho ke reh gaya
+  Alam Abbas ka alam Abbas ka
   Ye wo alam hai jis se shahidoṅ ki shaan hai
-  Qurbaniyoṅ ka naam wafa ka nishan hai
-  Bachoṅ ki aabru hai sakina ki jaan hai
-  Alam abbas ka...
-  Lehra raha hai iska pharera hawaoṅ meiṅ
-  Iski bulandiyoṅ ka hai charcha fizaaoṅ meiṅ
-  Sab karbala hai iske pharere ki chaaoṅ meiṅ
-  Alam abbas ka...
-  Phaila hua hai iska jo saaya Husain tak
+  Qurbaniyoṅ ka naam wafa ka nishaan hai
+  Bachoṅ ki aabru hai Sakina ki jaan hai
+  Alam Abbas ka...
+  Lehra raha hai is ka pharera hawaaoṅ meiṅ
+  Is ki bulandiyoṅ ka hai charcha fizaaoṅ meiṅ
+  Sab Karbala hai is ke pharere ki chaaoṅ meiṅ
+  Alam Abbas ka...
+  Phaila hua hai is ko jo saaya Husain tak
   Rasta isi ne sab ko dikhaya Husain tak
   Hurr bhi isi ko dekh ke aaya Husain tak
-  Alam abbas ka...
-  Pyasoṅ ka is alam meiṅ safina bhi dekhiye
-  Panje meiṅ roshni ka khazeena bhi dekhiya
-  Lipti hui hai mashk e sakina bhi dekhiye
-  Alam abbas ka...
+  Alam Abbas ka...
+  Pyaasoṅ ka is alam meiṅ safina bhi dekhiye
+  Panje meiṅ roshni ka khazina bhi dekhiye
+  Lipti hui hai mashk-e-Sakina bhi dekhiye
+  Alam Abbas ka...
   Dekh is alam ke saaye meiṅ yakja hai kaun kaun
-  Qasim hai wehab e kalbi o aabis umair o aun
-  Akbar se khubru ke barabar khare hai john
-  Alam abbas ka...
+  Qasim hai Wahb-e-Kalbi o Aabis Umair o Aun
+  Akbar se khubru ke baraabar khare haiṅ Jaun
+  Alam Abbas ka...
   Ghazi ke khuṅ se jo mili hai baqa ise
-  Haasil ye iftekhaar rahega sada ise
-  Har daur meiṅ uthayenge ahle aza ise
-  Alam abbas ka...
-  Bete bichar gaye hai ye dil ko malaal hai
-  Lekin bahan ko bhai ke haq ka sawaal hai
+  Haasil ye iftikhaar rahega sada ise
+  Har daur meiṅ uthaayeṅ ge ahl-e-aza ise
+  Alam Abbas ka...
+  Bete bichhar gaye haiṅ ye dil ko malaal hai
+  Lekin behan ko bhaai ke haq ka sawaal hai
   Zainab ko har dua meiṅ isi ka khayaal hai
-  Alam abbas ka...
+  Alam Abbas ka...
   Ae tashna lab wafaaoṅ ke darya salaam le
-  Har apne soghwaar ka pyasa salaam le
-  Ae karbala ke daste bureeda salaam le
-  Alam abbas ka...
-  Hum ko jo ye taraayi meiṅ behre karam mila
-  Tarikh ko hilal kahaṅ ye hasham mila
+  Har apne sogwaar ka pyaasa salaam le
+  Ae Karbala ke dast-e-burida salaam le
+  Alam Abbas ka...
+  Hum ko jo ye taraai meiṅ bahr-e-karam mila
+  Taarikh ko Hilal kahaṅ ye hasham mila
   Zainab ki ye dua thi ke aisa alam mila
-  Alam abbas ka...
+  Alam Abbas ka...
 ---
 
 ۱

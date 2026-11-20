@@ -12,76 +12,76 @@ published: false
 romanLyrics: |-
   1
   Waqt nazdik tha aakhri raat thi
-  Zakhmi zahra ne fizza ko awaaz di
-  Aayi fizza to zahra ne ro kar kaha
+  Zakhmi Zahra ne Fizza ko aawaaz di
+  Aayi Fizza to Zahra ne ro kar kaha
   Ab tumhare hawale hai ye ghar mera
-  Tumko malum hai mera haal ae bahan
-  Mere bachoṅ ka rakhna khayaal ae bahan
-  Ye fizza pukari batayeiṅ ye bibi
-  Kami kaise maa ki mai puri karungi
-  Maa maa hoti hai
+  Tum ko malum hai mera haal ae bahan
+  Mere bachchoṅ ka rakhna khayaal ae bahan
+  Ye Fizza pukaari bataaeṅ ye Bibi
+  Kami kaise maaṅ ki main puri karuṅgi
+  Maaṅ maaṅ hoti hai
   Wo dekhte haiṅ tum ko to milta hai un ko chain
-  Amma pukaarte haiṅ tumheiṅ bhi Hasan Husain
-  Mai bhuli nahi aap ka ghar chalana
-  Wo ek waqt meiṅ do farize nibhana
+  Ammaṅ pukaarte haiṅ tumheṅ bhi Hasan Husain
+  Mai bhuli nahiṅ aap ka ghar chalana
+  Wo ik waqt mein do farize nibhana
   Wo chakki chalana wo jhula jhulana
   Kabhi aap ke bin na guzra koi din
-  Mujhe amma fizza wo kehte hai lekin
-  Maa maa hoti hai
+  Mujhe ammaṅ Fizza wo kehte haiṅ lekin
+  Maaṅ maaṅ hoti hai
   Aadat hai loriyoṅ ki mere dil ke chain ko
   Lori suna ke tum bhi sulaana Husain ko
-  Wo godhi meiṅ lekar use pyar karna
-  Wo kehna mere laal soja hussaina
-  Wo awaaz sunte hi bete ka sona
-  Mai jab usko lori sunaungi bibi
-  Kahaṅ se wo awaaz laaungi bibi
-  Maa maa hoti hai
+  Wo godi mein le kar use pyaar karna
+  Wo kehna mere laal so ja Husaina
+  Wo aawaaz sunte hi bete ka sona
+  Mai jab us ko lori sunaa'uṅ gi Bibi
+  Kahaṅ se wo aawaaz laa'uṅ gi Bibi
+  Maaṅ maaṅ hoti hai
   Lagti bahut hai pyaas mere nur-e-ain ko
-  Uth uth ke shab meiṅ paani pilaana Husain ko
-  Ho pyasa to pani piladungi bibi
-  Mai khaana bhi usko khiladungi bibi
-  Savere meiṅ chehra dhuladungi bibi
-  Gale se laga'un wo ruthe mana'un
-  Magar maa ki khusbu kahaṅ se mai laa'un
-  Maa maa hoti hai
+  Uth uth ke shab mein paani pilaana Husain ko
+  Ho pyaasa to paani pila duṅ gi Bibi
+  Mai khaana bhi us ko khila duṅgi Bibi
+  Savere mein chehra dhula duṅgi Bibi
+  Gale se laga luṅ wo ruthe manaa'uṅ
+  Magar maaṅ ki khusbu kahaṅ se main laa'uṅ
+  Maaṅ maaṅ hoti hai
   Zaalim ne dar gira ke meri god ujaar kar
-  Ek nasl khatm ki mere Mohsin ko maar kar
-  Ae bibi wo dar jab uthaya tha maiṅ ne
-  Shikasta hai pehlu ye dekha tha maiṅ ne
-  Wo jab aap se haal pucha tha maiṅ ne
-  Na hum phasliyoṅ ka na pehlu ka sadma
-  Thi ye fikr mohsin na mar jaye mera
-  Maa maa hoti hai
+  Ik nasl khatm ki mere Mohsin ko maar kar
+  Ae Bibi wo dar jab uthaya tha main ne
+  Shikasta hai pehlu ye dekha tha main ne
+  Wo jab aap se haal puchha tha main ne
+  Na gham pasliyoṅ ka na pehlu ka sadma
+  Thi ye fikr Mohsin na mar jaaye mera
+  Maaṅ maaṅ hoti hai
   Jab bhi Hasan ke saamne jaati hai Fatima
   Haathoṅ se apne gaal chhupaati hai Fatima
-  Kaha roke fizza ne ae shaahzadi
-  Wo chup chup ke rota hai ghurbat pe maa ki
-  Nishaṅ ungliyoṅ ke hai chehre pe ab bhi
-  Janaze pe aa ke wo chehra jo dekhe
-  Mai us waqt usko sambhalungi kaise
-  Maa maa hoti hai
-  Beparda laayi jaayengi bazaar betiyaaṅ
-  Meri tarah se jaayengi darbaar betiyaaṅ
-  Unhe shaamiyoṅ se bachalungi bibi
-  Mai haathoṅ ko chadar banalungi bibi
-  Unhe apne piche chupalungi bibi
-  Khule sar wo aaye jo darbar jaye
-  Chali aaiyega jo zainab bulaye
-  Maa maa hoti hai
+  Kaha ro ke Fizza ne ae shaahzadi
+  Wo chhup chhup ke rota hai ghurbat pe maaṅ ki
+  Nishaaṅ ungliyoṅ ke hai chehre pe ab bhi
+  Janaaze pe aa ke wo chehra jo dekhe
+  Mai us waqt us ko sambhaaluṅgi kaise
+  Maaṅ maaṅ hoti hai
+  Beparda laayi jaaeṅ gi baazaar betiyaaṅ
+  Meri tarah se jaaeṅ gi darbaar betiyaaṅ
+  Unheṅ shaamiyoṅ se bacha luṅgi Bibi
+  Mai haathoṅ ko chaadar bana luṅ gi Bibi
+  Unheṅ apne pichhe chhupa luṅ gi Bibi
+  Khule sar wo aaye jo darbaar jaaye
+  Chali aaiyega jo Zainab bulaaya
+  Maaṅ maaṅ hoti hai
   Tasbih kar rahi thi jo aawaaz kho gayi
   Thak kar ghamoṅ se Fatima khaamosh ho gayi
-  Janaze pe zehra ke dekha ye manzar
-  Kaha jab ye shabbir ne maa se ro kar
-  Ae amma bulalo hai bechain dilbar
-  Ye sunkar kafan se uthe haath maa ke
-  Ye fizza ne dekha to boli ali se
-  Maa maa hoti hai
-  Raza aur zishan kaisa samaa tha
-  Wo jab shimr ne sheh pe khanjar chalaya
-  Pahunch kar ye maqtal meiṅ fizza ne dekha
-  Pisar ke sirhane kaha fatema ne
-  Lehad chor aayi hoo tujhko bachane
-  Maa maa hoti hai
+  Janaaze pe Zahra ke dekha ye manzar
+  Kaha jab ye Shabbir ne maaṅ se ro kar
+  Ae ammaṅ bula lo hai bechain dilbar
+  Ye sun kar kafan se uthe haath maaṅ ke
+  Ye Fizza ne dekha to boli Ali se
+  Maaṅ maaṅ hoti hai
+  Raza aur Zishan kaisa samaaṅ tha
+  Wo jab Shimr ne shah pe khanjar chalaya
+  Pahunch kar ye maqtal mein Fizza ne dekha
+  Pisar ke sirhaane kaha Fatima ne
+  Lahad chhor aayi huṅ tujh ko bachaane
+  Maaṅ maaṅ hoti hai
 ---
 
 ۱

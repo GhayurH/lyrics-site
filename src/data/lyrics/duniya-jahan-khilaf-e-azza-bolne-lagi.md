@@ -1,12 +1,15 @@
 ---
-title: "Duniya Jahan Khilaf-e-Azza Bolne Lagi"
+title: "دنیا جہاں خلافِ عزا بولنے لگی"
+alternateTitle: "Duniya Jahan Khilaf-e-Azza Bolne Lagi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Har matami mein Karb-o-Bala bolne lagi
 ---
 
-Har Matami Mein Karb-o-Bala Bolne Lagi
+ہر ماتمی میں کرب و بلا بولنے لگی

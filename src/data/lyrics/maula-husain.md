@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Husain mera hai kehte hai zamane waale
-  Ke baadshahi har ek dil pe hai ab tera Husain
-  Nahi hai din o mazahib ka yahṅ koi bandish
-  Ye tera ishq hi sar char ke bolta hai Husain
+  Husain mera hai kehte haiṅ zamaane waale
+  Ke baadshaahi har ek dil pe hai ab tera Husain
+  Nahiṅ hai din o mazaahib ka yaaṅ koi bandish
+  Ye tera ishq hi sar charh ke bolta hai Husain
   Husain se ye din hai
   Wo din jo azim hai
   Khaaliq bhi kya karim hai
-  Banaya usko is tarha
+  Banaaya us ko is tarah
   Baatil se jaake wo lara
   Yazidiyat ke chehre se naqaab ko ulat diya
-  Husain uska naam hai jo waaris e quran hai
-  Rasul e paak ne kaha mai is se hu wo mujhse hai
-  Khuda ne bad ke di sada zibhe azim tu bana
-  Ay nafse mutmaina tera intezar mujhko hai
-  Jisne raza e haq ke liye jaan ko qurban ki
-  Din e payambari ke liye jaan ko qurban ki
-  Jis ne aziz aqroba ko din pe qurban ki
-  Insan pe har aan tu ehsaaṅ bana hai
+  Husain us ka naam hai jo waaris-e-Quraan hai
+  Rasul-e-Paak ne kaha main is se huṅ wo mujh se hai
+  Khuda ne barh ke di sada zibh-e-azim tu bana
+  Ae nafs-e-mutmaina tera intezaar mujhko hai
+  Jis ne raza-e-haq ke liye jaan ko qurbaan ki
+  Din-e-payambar ke liye jaan ko qurbaan ki
+  Jis ne aziz aqraba ko din pe qurbaan ki
+  Insaan pe har aan tu ehsaaṅ bana hai
   Maula Husain maula Husain
-  Har ek azadaar ka pehchaan bana hai
+  Har ek azaadaar ka pehchaan bana hai
   Maula Husain maula Husain
-  Uska lahu to zarb hai karbal ki zamiṅ meiṅ
-  Na sochna wo dab gaya karbal ki zamiṅ meiṅ
-  Insaniyat ko jazba e emaan diya hai
+  Uska lahu to zarb hai Karbal ki zamiṅ meiṅ
+  Na sochna wo dab gaya Karbal ki zamiṅ meiṅ
+  Insaaniyat ko jazba-e-imaan diya hai
   Maula Husain maula Husain
-  Insan pe har aan...
-  Kaaba bacha quraṅ bacha din bhi bacha
-  Lekin Husain ka bhara ghar hogaya tabaah
-  Hai fakhr mohamed ko wo nawasa mera hai
+  Insaan pe har aan...
+  Kaaba bacha Quraaṅ bacha din bhi bacha
+  Lekin Husain ka bhara ghar ho gaya tabaah
+  Hai fakhr Muhammad ko wo nawaasa mera hai
   Maula Husain maula Husain
-  Insan pe har aan...
-  Hai fikhr na gham jaan lutaane ka zara bhi
-  Kya josh hai himmat hai kasam rab e jahaṅ ki
-  Raahe khuda meiṅ shaukhe shahadat sikhaya hai
+  Insaan pe har aan...
+  Hai fikr na gham jaan lutaane ka zara bhi
+  Kya josh hai himmat hai qasam rabb-e-jahaaṅ ki
+  Raah-e-Khuda meiṅ shauq-e-shahaadat sikhaaya hai
   Maula Husain maula Husain
-  Insan pe har aan...
-  Qasim kabhi akbar kabhi abbas sa bhai
+  Insaan pe har aan...
+  Qaasim kabhi Akbar kabhi Abbaas sa bhai
   Ran meiṅ shahid hote the har ek sipaahi
-  Apne zif kaandhe pe laasha uthaya hai
+  Apne zaif kaandhe pe laasha uthaaya hai
   Maula Husain maula Husain
-  Insan pe har aan...
-  Kaate pare hai pyaas ki shiddat se zaban meiṅ
-  Aur garm hawa garm zamiṅ dashte bala meiṅ
-  Aasan na tha aisa jihad is ne kiya hai
+  Insaan pe har aan...
+  Kaate pare haiṅ pyaas ki shiddat se zabaan meiṅ
+  Aur garm hawa garm zamiṅ dasht-e-bala meiṅ
+  Aasaan na tha aisa jihaad is ne kiya hai
   Maula Husain maula Husain
-  Insan pe har aan...
-  Zehra ki duaoṅ ka talabgaar hai aazam
-  Ahsan parho nauha karo sar pit ke matam
-  Shauke ghame Husain to naslo ka pata hai
+  Insaan pe har aan...
+  Zehra ki duaaoṅ ka talabgaar hai Aazam
+  Ahsaan parho nauha karo sar pit ke maatam
+  Shauq-e-gham-e-Husain to nasloṅ ka pata hai
   Maula Husain maula Husain
-  Insan pe har aan...
+  Insaan pe har aan...
 ---
 
 ۱

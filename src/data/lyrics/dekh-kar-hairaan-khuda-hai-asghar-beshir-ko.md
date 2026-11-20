@@ -22,13 +22,13 @@ romanLyrics: |-
 
   2
   Qaid ki tanhaaiyaaṅ aur is pe zaalim ke sitam
-  Bhul jaayegi laiṅ ko aur kaanoṅ ke zakhm
+  Bhul jaayegi la'iṅ ko aur kaanoṅ ke zakhm
   Qabr bhulegi na teri haaye kabhi hamshir ko
 
   3
   Saath jab baba ke Asghar ko na paayegi Rubaab
   Le ke khaali god kaise Shaam jaayegi Rubaab
-  Bas khayaal aata hai maqtal meiṅ yehi Shabbir ko
+  Bas khayaal aata hai maqtal mein yehi Shabbir ko
 
   4
   Jhulta neze pe jhula na ye bhulega jahaaṅ
@@ -36,7 +36,7 @@ romanLyrics: |-
   Kar gaya naakaam zaalim ki jo har tadbir ko
 
   5
-  Dekh kar Asghar ka haṅsna ro rahe the ashqiya
+  Dekh kar Asghar ka hansna ro rahe the ashqiya
   Dekh Asghar ki shujaat jhumte the anbiya
   Saare mil kar dekhte the din ki tanvir ko
 

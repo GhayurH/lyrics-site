@@ -7,6 +7,57 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Wa waila sad wa waila, wa waila
+
+  1
+  Gyaarhviṅ Maula ki hai aza - wa waila
+  Sam ne jigar ko tukre kiya - wa waila
+  Karte haiṅ Mahdi baap pe girya
+  Rote haiṅ saare ahl-e-aza
+  Wa waila
+  Aai haiṅ marqad se Zehra - wa waila
+  Askari par haiṅ nauha kunaaṅ - wa waila
+  Kaun o makaaṅ mein girya o maatam
+  Aankhoṅ se jaari ashk-e-azaaṅ
+  Wa waila
+  Khaatima maah-e-aza ka hua - wa waila
+  Aakhri majlis hai barpa - wa waila
+  Aankh mein aansu zakhm-e-jigar mein
+  Roye na ji bhar ke Maula - wa waila
+
+  2
+  Sina na kiuṅ maatam se phata - wa waila
+  Khun na kiuṅ aankhoṅ se baha - wa waila
+  Zehra ke dilbar ibn-e-Payambar
+  Jaaṅ ko fida tum par na kiya - wa waila
+
+  3
+  Barchhi ka phal sine mein laga - wa waila
+  Baazu hue shaanoṅ se juda - wa waila
+  Aun o Muhammad, Qaasim o Asghar
+  Saare shahidoṅ ka pursa - wa waila
+
+  4
+  Baali Sakina ka pursa - wa waila
+  Zainab-e-muztar ka pursa - wa waila
+  Umm-e-Rubaab o Laila o Aabid
+  Saare asiroṅ ka pursa - wa waila
+
+  5
+  Agle baras gar zinda rahe - wa waila
+  Saans hamaari chalti rahe - wa waila
+  Majlis o maatam phir se kareṅ ge
+  Kar le Khuda manzur dua - wa waila
+
+  6
+  Khatm hua ye kalaam Aaqa - wa waila
+  Rizwaaṅ ka ye salaam Aaqa - wa waila
+  Kaun jiye ga agle baras tak
+  Kis ke nasib mein phir se aza - wa waila
+
+  7
+  (Sayyid Rizwaan Razvi)
 ---
 
 وا ویلا صد وا ویلا، وا ویلا

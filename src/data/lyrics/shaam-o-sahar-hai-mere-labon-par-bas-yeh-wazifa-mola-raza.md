@@ -16,8 +16,8 @@ romanLyrics: |-
   Mola Raza ya Mola Raza ya Mola Raza ya Mola Raza
 
   1
-  Teri zamanat meiṅ rehta huṅ mujh ko kisi ka khauf nahiṅ
-  Baandh rakha hai maiṅ ne tere naam ka sikka Mola Raza
+  Teri zamaanat meiṅ rehta huṅ mujh ko kisi ka khauf nahiṅ
+  Baandh rakha hai main ne tere naam ka sikka Mola Raza
   Us ki nazar wiraan ho jaaye yeh to kabhi mumkin hi nahiṅ
   Jis ki aankhoṅ meiṅ bas jaaye aap ka rauza Mola Raza
 
@@ -28,10 +28,10 @@ romanLyrics: |-
   Aap ke dar par baithe hue darbaan ka rutba Mola Raza
 
   3
-  Arsh-e-aula ke baashinde hoṅ ya ke farsh ke baashinde
-  Khaate haiṅ sab aap ke dastar khuwaab ka sadqa Mola Raza
+  Arsh-e-aala ke baashinde hoṅ ya ke farsh ke baashinde
+  Khaate haiṅ sab aap ke dastaar khwaab ka sadqa Mola Raza
   Puchha kisi ne farsh-e-zamin par khuld kahaaṅ par utri hai
-  De diya maiṅ ne fauran hi Mashhad ka hawaala Mola Raza
+  De diya main ne fauran hi Mashhad ka hawaala Mola Raza
 
   4
   Aap ka rutba aap ki azmat ahl-e-maatam jaane haiṅ

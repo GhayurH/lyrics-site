@@ -31,9 +31,9 @@ romanLyrics: |-
   In haathoṅ se maiṅ rizq-e-jahaṅ baant raha huṅ
 
   4
-  Do khas hijabat bane Bint-e-Wali ke
-  Ek Fatema Zahra ne diya ek Ali ne
-  Ek chadar-e-tathir to ek maiṅ wo rida huṅ
+  Do khaas hijaabaat bane Bint-e-Wali ke
+  Ik Fatema Zahra ne diya ik Ali ne
+  Ik chaadar-e-tathir to ik maiṅ wo rida huṅ
 
   5
   Aaghosh meiṅ maaṅ ki meri chalti rahiṅ saanseṅ
@@ -46,18 +46,18 @@ romanLyrics: |-
   Tathir ke malbus pehan kar maiṅ pala huṅ
 
   7
-  Biphre hue ek sher ki shamshir zani ki
-  Ek mashk thi Siffin meri tishnalabi ki
+  Biphre hue ik sher ki shamshir zani ki
+  Ik mashk thi Siffin meri tishna labi ki
   Maiṅ pyaas se larta hua Abbas bana huṅ
 
   8
   Kaabe ki fasiloṅ se sar-e-dasht-e-shahadat
   Lipta hua qadmoṅ se raha saaye ki surat
-  Shabbir ke har naqsh-e-kaf-e-pa meiṅ basa huṅ
+  Shabbir ke har naqsh-e-kaf-e-paa meiṅ basa huṅ
 
   9
   Alhamd ki surat huṅ maiṅ aaghaz pe Akbar
-  Wan Nas ki surat huṅ maiṅ aakhir pe muqarrar
+  Wan Naas ki surat huṅ maiṅ aakhir pe muqarrar
   Yuṅ Surah-e-Kausar ki hifazat pe khara huṅ
 ---
 

@@ -8,64 +8,33 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Faras Ki Zeen Se Beshak Utar Gaye Hain Hussain.....
-
-  Zameen Dhoond Rahi Hai Kidhar Gaye Hain Hussain
-
-  Faras Ke Zeen Se Beshak Utar Gaye Hain Hussain
-
+romanLyrics: |-
+  Faras ki zin se beshak utar gaye haiṅ Husain
 
   1
-
-  Karenga shimr (xLa) Ka Khanjar To Sirf Sar Ko Juda.....
-
-  Magar Ke Lashae Akbar Pe Mar Gaye Hain Hussain
-
+  Zamin dhund rahi hai kidhar gaye haiṅ Husain
+  Karega Shimr ka khanjar to sirf sar ko juda
+  Wagarna laasha-e-Akbar pe mar gaye haiṅ Husain
 
   2
-
-  Sare Burida Kate Hoth Khoon Chehre Par.....
-
-  Ajeeb Haal Mein Sherin Ke Ghar Gaye Hain Hussain
-
+  Sar-e-burida kate hont khun chehre par
+  Ajib haal meiṅ Shiriṅ ke ghar gaye haiṅ Husain
 
   3
-
-  Zameen dhoond rahi hai kidhar gaye hai hussain
-
-  Karega shimr ka khanjar to sirf sar ko juda
-
-  Wagarna laasha e akbar pe mar gaye hai hussain
-
+  Maiṅ milne Shaam ke zindaan meiṅ aauṅga tujh se
+  Yeh baat aakhri beti se kar gaye haiṅ Husain
 
   4
-
-  Mai Milne Sham Ke Zindan Me Aaunga Tujhse.....
-
-  Yeh Baat Aakhri Beti Se Kar Gaye Hain Hussain
-
+  Kahiṅ haiṅ Qaasim o Abbaas aur kahiṅ Akbar
+  Kahaaṅ kahaaṅ tere tukre bikhar gaye haiṅ Husain
 
   5
-
-  Kahin Hai Qasim O Abbas Aur Kahin Akbar.....
-
-  Kahan Kahan Tere Tukde Bikhar Gaye Hain Hussain
-
+  Qaza ke baad bhi bhaai bahan ke saath raha
+  Jidhar jidhar gai Zainab udhar gaye haiṅ Husain
 
   6
-
-  Kaza Ke Baad Bhi Bhai Bahan Ke Sath Raha.....
-
-  Jidhar Jidhar Gai Zainab (xSa) Udhar Gaye Hain Hussain
-
-
-  7
-
-  Kisi Ne Mara Hai Patthar Bahan Ke Kya Akbar
-
-  Jo Karte Karte Tilawat Thaher Gaye Hain Hussain
-
-  Faras Ke Zeen Se Beshak Utar Gai Hain Hussain.....'
+  Kisi ne maara hai patthar bahan ke kya Akbar
+  Jo karte karte tilaawat thahar gaye haiṅ Husain
 ---
 
 فرس کی زین سے بے شک اُترگئے ہیں حسین

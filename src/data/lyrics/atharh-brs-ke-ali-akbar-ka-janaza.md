@@ -7,6 +7,25 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Athaarah baras ke Ali Akbar ka janaaza
+
+  1
+  Shah laate haiṅ ham shakl Paighambar ka janaaza
+
+  2
+  Ae kal ke madadgaar madad karne ko aao
+  Shabbir se uthta nahiṅ Akbar ka janaaza
+  Khaime mein alam aaya hai kohraam hai barpa
+  Darya pe hai Abbas-e-Dilaawar ka janaaza
+  Kis darja Sakina se tha sharminda alamdaar
+  Shah la na sake apne baraadar ka janaaza
+  Par jaae na yaarab kahiṅ Zainab ki nigaaheṅ
+  Tiroṅ pe hai rakha hua Sarwar ka janaaza
+  Kya zulm hai tapti hui reti pe para hai
+  Be gor o kafan sibt-e-Paighambar ka janaaza
+  Baano ne kaha tir haiṅ paiwast badan mein
+  Dhire se uthaana mere shauhar ka janaaza
 ---
 
 اٹھارہ برس کے علی اکبرؑ کا جنازہ

@@ -1,30 +1,50 @@
 ---
-title: "Haan Woh Hain Mujtaba Haan Woh Hain Mujtaba"
+title: "ہاں وہ ہیں مجتبیٰ ہاں وہ ہیں مجتبیٰ"
+alternateTitle: "Haan Woh Hain Mujtaba Haan Woh Hain Mujtaba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haan woh hain Mujtaba haan woh hain Mujtaba
+  Jin se hoi hai Sorah-e-Kausar ki ibtida
+  Chalne se tha youn lagta Muhammad hain chal rahe
+  Maidaan mein tha youn lagta Ali hain khare hoye
+  Lagte hain mujh ko mazhar-e-aousaf-e-kibriya
+  Raziq Khuda hai sab ka koi iss mein shak nahi
+  Hai sadqa Mujtaba ka mujhe yeh bhi hai yaqeen
+  Dastar khuwaan jis ka aaj bhi bichta hai har jagah
+  Uthti jo taig oss ki koi bachta phir kahan
+  Deen-e-Khuda ki khatir kya sab pe yeh ayyan
+  Jis ne Ameer-e-Sham ko qalam se hara diya
+  Ik dushman-e-Ali tha darbar mein khara
+  Mula Hasan ke jad ko kaha os ne kuch bura
+  Oss mard ko tha jis ne aurat bana diya
+  Khairat hai yeh Yousufi qirtas pe tere
+  Ashar warna kaise Hasan ke hain yeh likhte
+  Har ik faqeer ke liye hai jis ka dar khula
 ---
 
-1
-Haan Woh Hain Mujtaba Haan Woh Hain Mujtaba.
-Jin Se Hoi Hai Sorah-e-Kausar Ki Ibtida.
-Chalne Se Tha Youn Lagta Muhammad Hain Chal Rahe.
-Maidaan Mein Tha Youn Lagta Ali Hain Khare Hoye.
-Lagte Hain Mujh Ko Mazhar-e-Aousaf-e-Kibriya.
-Raziq Khuda Hai Sab Ka Koi Iss Mein Shak Nahi.
-Hai Sadqa Mujtaba Ka Mujhe Yeh Bhi Hai Yaqeen.
-Dastar Khuwaan Jis Ka Aaj Bhi Bichta Hai Har Jagah.
-Uthti Jo Taig Oss Ki Koi Bachta Phir Kahan.
-Deen-e-Khuda Ki Khatir Kya Sab Pe Yeh Ayyan.
-Jis Ne Ameer-e-Sham Ko Qalam Se Hara Diya.
-Ik Dushman-e-Ali Tha Darbar Mein Khara.
-Mula Hasan Ke Jad Ko Kaha Os Ne Kuch Bura.
-Oss Mard Ko Tha Jis Ne Aurat Bana Diya.
-Khairat Hai Yeh Yousufi Qirtas Pe Tere.
-Ashar Warna Kaise Hasan Ke Hain Yeh Likhte.
-Har Ik Faqeer Ke Liye Hai Jis Ka Dar Khula.
+۱
+ہاں وہ ہیں مجتبیٰ ہاں وہ ہیں مجتبیٰ
+جن سے ہوئی ہے سورۂ کوثر کی ابتدا
+چلنے سے تھا یوں لگتا محمد ہیں چل رہے
+میدان میں تھا یوں لگتا علی ہیں کھڑے ہوئے
+لگتے ہیں مجھ کو مظہرِ اوصافِ کبریا
+رازق خدا ہے سب کا کوئی اس میں شک نہیں
+ہے صدقہ مجتبیٰ کا مجھے یہ بھی ہے یقین
+دسترخوان جس کا آج بھی بچھتا ہے ہر جگہ
+اٹھتی جو تیغ اس کی کوئی بچتا پھر کہاں
+دینِ خدا کی خاطر کیا سب پہ یہ عیاں
+جس نے امیرِ شام کو قلم سے ہرا دیا
+اک دشمنِ علی تھا دربار میں کھڑا
+مولا حسن کے جد کو کہا اس نے کچھ برا
+اس مرد کو تھا جس نے عورت بنا دیا
+خیرات ہے یہ یوسفی قرطاس پہ تیرے
+اشعار ورنہ کیسے حسن کے ہیں یہ لکھتے
+ہر اک فقیر کے لیے ہے جس کا در کھلا

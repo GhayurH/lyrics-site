@@ -1,29 +1,48 @@
 ---
-title: "Shabbir Bhira Di Maiyyat Nu Teraan Taun Veer Bachawin New Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "شبیر بھرا دی میت نوں تیراں توں ویر بچاویں"
+alternateTitle: "Shabbir Bhira Di Maiyyat Nu Teraan Taun Veer Bachawin"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shabbir bhira di maiyyat nu teraan taun veer bachawin
+  Akhiyaan da noor way Zahra da aina zalimaan nu samjhawin
+  Khich le ne teer lash wichon ainu doja kafan pawaya aye
+  Nanay de naal nayi ja denday Baqiya wich qabar banawin
+
+  2
+  Kita aye be dakhal nana ummat ne tere rozay taun
+  Assi watna te be watan hoye dukh maa nu veer sunawin
+  Oss pardah daar nu aakhein jinnay pehla teer chalaya aye
+  Tainu wasta pak risalat da maa ban ke teer chalawin
+
+  3
+  Bhaina ne wain paya aye dafnan taun pehlaan ik wari
+  Jiday arsh taun joray aanday ne odha maa nu kafan wakhawin
+  Qatil ne tere bachray de jinhaan qatal Rasool da kita aye
+  Najfi aye wain aye Zainab da odhay veer di lash te pawein
 ---
 
-1
-Shabbir Bhira Di Maiyyat Nu Teraan Taun Veer Bachawin.
-Akhiyaan Da Noor Way Zahra Da Aina Zalimaan Nu Samjhawin.
-Khich Le Ne Teer Lash Wichon Ainu Doja Kafan Pawaya Aye.
-Nanay De Naal Nayi Ja Denday Baqiya Wich Qabar Banawin.
+۱
+شبیر بھرا دی میت نوں تیراں توں ویر بچاویں
+اکھیاں دا نور وے زہرا دا ایناں ظالماں نوں سمجھاویں
+کھچ لے نے تیر لاش وچوں اینوں دوجا کفن پوایا اے
+نانے دے نال نئیں جا دیندے بقیع وچ قبر بناویں
 
-2
-Kita Aye Be Dakhal Nana Ummat Ne Tere Rozay Taun.
-Assi Watna Te Be Watan Hoye Dukh Maa Nu Veer Sunawin.
-Oss Pardah Daar Nu Aakhein Jinnay Pehla Teer Chalaya Aye.
-Tainu Wasta Pak Risalat Da Maa Ban Ke Teer Chalawin.
+۲
+کیتا اے بے دخل نانا امت نے تیرے روضے توں
+اسیں وطناں تے بے وطن ہوئے دکھ ماں نوں ویر سناویں
+اوس پردہ دار نوں آکھیں جنّے پہلا تیر چلایا اے
+تینوں واسطہ پاک رسالت دا ماں بن کے تیر چلاویں
 
-3
-Bhaina Ne Wain Paya Aye Dafnan Taun Pehlaan Ik Wari.
-Jiday Arsh Taun Joray Aanday Ne Odha Maa Nu Kafan Wakhawin.
-Qatil Ne Tere Bachray De Jinhaan Qatal Rasool Da Kita Aye.
- Najfi Aye Wain Aye Zainab Da Odhay Veer Di Lash Te Pawein.
+۳
+بھیناں نے وین پایا اے دفنان توں پہلاں اک واری
+جیدے عرش توں جوڑے آندے نے اوہدا ماں نوں کفن وکھاویں
+قاتل نے تیرے بچڑے دے جنہاں قتل رسول دا کیتا اے
+نجفی اے وین اے زینب دا اوہدے ویر دی لاش تے پاویں

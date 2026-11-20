@@ -9,100 +9,150 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Haye...
+  Ho ke zindaaṅ se aazaad bint-e-Ali
+
   1
-  Hayeeee...
-  Ho ke zinda se azad bint e Ali
-  Sooey Karbobla kar ke matam chali
-  Pounchi jab Karbala Fatima Ki pali
-  Qabra e Shah e Shaheedaa pe aa kar ruki
-  Gohrray ki zeen se jasay Ghazi giray
-  Aisay bhai ki turbat pe Zainab giri
-  Aur Krny Lagi
-  Meray mazloom bekass bhira
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
+  Su-e-karb o bala kar ke maatam chali
+  Pahunchi jab Karbala Fatima ki pali
+  Qabr-e-Shah-e-Shahidaaṅ pe aa kar ruki
+  Ghore ki zeen se jaise Ghazi gire
+  Aise bhai ki turbat pe Zainab giri
+  Aur kahne lagi
+  Mere mazloom bekas bhira
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Haye safar ka kya main haal sunaauṅ
+  Bin chaadar thi kya main bataauṅ
+  Main sharm se mar gayi bhai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Baad tere vo waqt bhi aaya
+  Nezoṅ par tere saath hi bhaiya
+  Meri chaadar Shimar uthaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Rassiyoṅ se mere haath bandhe the
+  Maaṅ bahnoṅ ke saath le ja ke
+  Main shahr ba shahr phiraai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Pahunchi jab main Shaam shahr mein
+  Kar ke ujaala har ik ghar mein
+  Har Shaami Eid manaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Har su tha maahaul sharaabi
+  Sar uriyaaṅ thi bahan tumhaari
+  Main gayi darbaar bulaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Ghairat ka sultaan muhaari
+  Khun-e-jigar aaṅkhoṅ se jaari
+  Sajjad na Shaam bhulaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Shimar ki ghurkiyoṅ se vo dar gayi
+  Baali Sakina qaid mein mar gayi
+  Ik kurte mein dafnaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Haye qabr-e-Husain ko gale se laga ge
+  Zainab apna dukhra suna ke
+  Tera chehlum karne aayi ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
+  Haye Jawwaad o Rizwaaṅ ko bula lo
+  Maula apna rauza dikha do
+  Fariyaad laboṅ par aayi ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve, pardesiya veera
+  Hui saal ke baad rihaai ve, pardesiya veera
 
   2
-  Safran Da Kya Haal Sunawa
-  Vich Pardesan Banj Ridawaa
-  Haye Rul Gaye Zahra Jai vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  3
-  Baad Teray Oo Vela Aya
-  Naizay Tey Nal Ambriya Jaya
-  Medi Chadar Shimar Lahai vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  4
-  Rasiyan de Vich bandhiyan bawan
-  Sang Bharjaiyan baj ridawan
-  May Shehar ba Shehar pherai vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  5
-  Haye pohonchi Jad mae Sham vechal ae
-  Haye har Ghar Ghar da Vich kar ke ujaly
-  Ina Shamiya Eid manai vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  6
-  Har Sou Tha Mahool Sharabi
-  Sar Tange Thi Behan Tumhari
-  Mae Gai Darbae Bulai wa
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  7
-  Ghairat Wala Putar Muhrai
-  Khoon Jigar Ankheyan Chu Jari
-  Sajjad Na Shaam bhulai vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  8
-  Haye Shimar diyan jhirrkan tou dar gaye
-  Vich zindan Sakina marr haye
-  Hik cholay vich dafnai vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
-
-  9
-  Haye qabar Husain koon gal nal la ke
-  Saian Jawad O Sarwar aakhy
-  Tera chelum karn aayi vay
-  Pardaseya veera
-  Mae Sham di qaidan aey vay
-  Pardaseya veera
-  Haye bhain di thi ae rehai vay
-  Pardaseya veera
+  Su-e-karb o bala kar ke maatam chali
+  Pahunchi jab Karbala Fatima ki pali
+  Qabr-e-Shah-e-Shahidaaṅ pe aa kar ruki
+  Ghore ki zeen se jaise Ghazi gire
+  Aise bhai ki turbat pe Zainab giri
+  Aur kahne lagi
+  Mere mazloom bekas bhira
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bhain di thai ae rihaai ve
+  Pardesiya veera
+  Safraaṅ da kya haal sunaavaaṅ
+  Vich pardesaaṅ baaj bhiraavaaṅ
+  Haye rul gayi Zahra jaaye ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Baad tere o vela aaya
+  Neze de naal ambri jaaya
+  Medi chaadar Shimar lahaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Rassiaaṅ de vich bandhiaaṅ baanhvaaṅ
+  Sang bharjaaiaaṅ baaj ridaavaaṅ
+  Main shahr ba shahr phiraai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Haye pahunchi jad main Shaam vichaal ae
+  Haye har ghar ghar de vich kar ke ujaale
+  Inaaṅ Shaamiaaṅ Eid manaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Har su tha maahaul sharaabi
+  Sar nange thi bahan tumhaari
+  Main gayi darbaar bulaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Ghairat vaala puttar muhaari
+  Khun-e-jigar ankhiaaṅ choṅ jaari
+  Sajjad ne Shaam nibhaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Haye Shimar diaaṅ jhirkaaṅ to dar gayi
+  Vich zindaan Sakina mar gayi
+  Hik chole vich dafnaai ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
+  Haye qabr Husain kuṅ gal naal la ke
+  Sainr Jawwaad o Sarwar aakhe
+  Tera chehlum karan main aayi ve
+  Pardesiya veera
+  Main Shaam di qaidan aayi ve
+  Pardesiya veera
+  Haye bahan di thi ae rihaai ve
+  Pardesiya veera
 ---
 
 ہائــــے...

@@ -10,79 +10,79 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye Qamar-e-Bani Hashim
-  Kar nazar-e-karam hakim
+  Ae Qamar-e-Bani Hashim
+  Kar nazar-e-karam haakim
 
   1
-  Detay hain sada khadim
+  Dete haiṅ sada khaadim
   Abbas, Abbas
-  Tu ibn-e-Ali hai aalam ka wAli hai
-  Tu shah ka lashkar tu shair-e-jarri hai
+  Tu ibn-e-Ali hai aalam ka wali hai
+  Tu shaah ka lashkar tu sher-e-jarri hai
 
   2
-  Qafila salar-e-haram Abal Fazl
-  Tum ko Elahi se Yadullah ne manga
-  Beta tumhein kehti hain khud Fatima Zahra
-  Saye mein rehtey hain tere Syed-e-Wala
+  Qaafila salaar-e-haram Abal Fazl
+  Tum ko Ilaahi se Yadullah ne maanga
+  Beta tumheṅ kehti haiṅ khud Fatima Zahra
+  Saaye mein rehte haiṅ tere Sayyid-e-Waala
 
   3
-  Tu Sakina ka chacha hai tu shehanshah-e-wafa hai
-  Nasal-e-Ali jah-o-hasham Abal Fazl
+  Tu Sakina ka chacha hai tu shehanshaah-e-wafa hai
+  Nasl-e-Ali jaah o hasham Abal Fazl
   Aath Muharram ko mujhe saqqa bana ke
-  Girvi kiya bandh ke ik dori alam pe
+  Girvi kiya baandh ke ik dori alam pe
 
   4
-  Maa ne kiya maula mujhe tere hawalay
-  Chahe dushman ho zamana tu agar sath hai maula
-  Toot nahi sakta bharam Abal Fazl
-  Kis ne kaha teri atta aam hai maula
+  Maaṅ ne kiya maula mujhe tere hawaale
+  Chahe dushman ho zamaana tu agar saath hai maula
+  Tut nahiṅ sakta bharam Abal Fazl
+  Kis ne kaha teri ata aam hai maula
 
   5
   Tera sakhawat mein bara naam hai maula
-  Bigri bana dena tera kam hai maula
-  Sare aalam ke nigehdar sani-e-Haider-e-Karrar
-  Khas karo hum pe karam Abal Fazl
+  Bigri bana dena tera kaam hai maula
+  Saare aalam ke nigehdaar saani-e-Haider-e-Karraar
+  Khaas karo hum pe karam Abal Fazl
 
   6
   Ali ibn-e-Ali
   Hazrat-e-Abbas Ali ibn-e-Ali
-  Hai dil-e-hasas Ali ibn-e-Ali
-  Deen ke almas Ali ibn-e-Ali
+  Hai dil-e-hassaas Ali ibn-e-Ali
+  Din ke almaas Ali ibn-e-Ali
 
   7
-  Rakhna humein pas Ali ibn-e-Ali
-  Sani-e-Haider Ali ibn-e-Ali
-  Deen ke mehwar Ali ibn-e-Ali
-  Bazu-e-Sarwar Ali ibn-e-Ali
+  Rakhna hameṅ paas Ali ibn-e-Ali
+  Saani-e-Haider Ali ibn-e-Ali
+  Din ke mehwar Ali ibn-e-Ali
+  Baazu-e-Sarwar Ali ibn-e-Ali
 
   8
-  Shair-e-dilawar Ali ibn-e-Ali
+  Sher-e-dilaawar Ali ibn-e-Ali
   Ishq mera Abal Fazl
   Rab-e-wafa Abal Fazl
-  Uqdah kusha Abal Fazl
+  Uqda kusha Abal Fazl
 
   9
-  Baab-e-atta Abal Fazl, maula mera Abal Fazl
-  Kyun na Khuda tum ko pukaron main wafa ka
-  Bazu juda ho gaye kuch bhi nahi bola
-  Zakhmi hoi teer se jab mashk-e-Sakina
+  Baab-e-ata Abal Fazl, maula mera Abal Fazl
+  Kiuṅ na Khuda tum ko pukaaruṅ main wafa ka
+  Baazu juda ho gaye kuchh bhi nahiṅ bola
+  Zakhmi hui tir se jab mashk-e-Sakina
 
   10
-  Ba Khuda toot gayi aas khak par gir gaye Abbas
-  Kha gaya mashkezay ka gham Abal Fazl
-  Pusht se rahwar ki jab aaye zameen par
-  Maula mere tum ne nahi dekha palat kar
+  Bakhuda tut gayi aas khaak par gir gaye Abbas
+  Kha gaya mashkize ka gham Abal Fazl
+  Pusht se rahwaar ki jab aaye zamin par
+  Maula mere tum ne nahiṅ dekha palat kar
 
   11
-  Borha ossi pal mein howa tera baradar
-  Ik qayamat hoi barpa aa gayin dasht mein Zahra
+  Burha usi pal mein hua tera baraadar
+  Ik qayaamat hui barpa aa gayiṅ dasht mein Zahra
   Sheh ki kamar ho gayi khum Abal Fazl
-  Meesum-o-Azlan yeh ghazi ki sada hai
+  Misum o Azlan yeh ghaazi ki sada hai
 
   12
-  Gham nahi be goor-o-kafan lasha mera hai
-  Gham hai bara sar meri Zainab ka khula hai
-  Haan alamdar hai Zainab dein ki salar hai Zainab
+  Gham nahiṅ be gur o kafan laasha mira hai
+  Gham hai bara sar miri Zainab ka khula hai
+  Haaṅ alamdaar hai Zainab din ki salaar hai Zainab
   Ab na kaho rab ki qasam Abal Fazl
 ---
 

@@ -17,13 +17,13 @@ romanLyrics: |-
   Suraj ke sar se khinch li shab ne ridaa-e-shaam
 
   1
-  Khaimoṅ ko apne laut chali zulm ki sipaah
+  Khemoṅ ko apne laut chali zulm ki sipaah
   Khuṅ se zamiṅ surkh hui aag se siyaah
   Uthte hue dhueṅ se falak hai siyaah faam
 
   2
-  Taarik raastoṅ se dehelte haiṅ bewatan
-  Kaanoṅ meiṅ aa rahi hai sadaa-e-bizan bizan
+  Taarik raastoṅ se dhulte haiṅ bewatan
+  Kaanoṅ meiṅ aa rahi hai sadaaeṅ be zan be zan
   Sab mehr o maah le ke kahiṅ chhup gayi hai shaam
 
   3

@@ -1,6 +1,6 @@
 ---
 title: "زینب سے جو پوچھی گئی روداد سفر کی"
-alternateTitle: "Sajjad Se Poocho"
+alternateTitle: "Sajjad Se Pucho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,69 +12,69 @@ published: false
 romanLyrics: |-
   1
   Zainab se jo puchi gayi rudaad safar ki
-  Dil thaam ke kehne lagi ye zainabe muztar
-  Kya bit gayi shaam ke bazaar meiṅ logon
+  Dil thaam ke kehne lagi ye Zainab-e-muztar
+  Kya bit gayi Shaam ke bazaar meiṅ logo
   Sajjad se pucho
 
   2
-  Mafhum asiri ka khula shaam meiṅ jaa kar
-  Jab nauha kuna noke sina par hue sarwar
-  Bhaiya ne jo nauha kiya yasrab ke makino
+  Mafhum asiri ka khula Shaam meiṅ jaa kar
+  Jab nauha kunaaṅ nok-e-sinaaṅ par hue Sarwar
+  Bhaiya ne jo nauha kiya Yasrab ke makino
   Sajjad se pucho
 
   3
-  Kya bit gayi…
-  Mehfuz hai aankhoṅ meiṅ aziyyat ke wo lamhe
+  Kya bit gayi...
+  Mehfuz haiṅ aankhoṅ meiṅ aziyyat ke woh lamhe
   Sadaat khule sar the tamashayi khare the
   Us dard ki shiddat ko agar puchna chaho
 
   4
   Sajjad se pucho
-  Kya bit gayi…
-  The haath pase pusht bandhe sar meiṅ pari khaak
-  Sadmo se kaleje the garebaaṅ ki tarha chaak
+  Kya bit gayi...
+  The haath pas-e-pusht bandhe sar meiṅ pari khaak
+  Sadmoṅ se kaleje the garebaaṅ ki tarah chaak
 
   5
-  Ae logon mile zakhm jo un raahoṅ meiṅ humko
+  Ae logo mile zakhm jo un raahoṅ meiṅ hum ko
   Sajjad se pucho
-  Kya bit gayi…
-  Jab girta tha abbas ka sar noke sina se
+  Kya bit gayi...
+  Jab girta tha Abbas ka sar nok-e-sinaaṅ se
 
   6
   Kya is ka sabab hai jo laiṅ puchne aate
-  Mai kehti thi mujse nahi ye baat layino
+  Main kehti thi mujh se nahiṅ ye baat laino
   Sajjad se pucho
-  Kya bit gayi…
+  Kya bit gayi...
 
   7
-  Pathar kahi barsaye gaye ehle haram par
-  Baaghi kabhi kehlayi gayi aale payambar
+  Patthar kahiṅ barsaye gaye ahl-e-haram par
+  Baaghi kabhi kehlayi gayi aal-e-payambar
   Afsos yehi hai ke musalmaṅ the sabhi to
   Sajjad se pucho
 
   8
-  Kya bit gayi…
-  Jab gir gayi naaqe se mere bhai ki dukhtar
-  Wo naiza ruka jispe rakha tha sare sarwar
-  Us dam jo aziyat hui aulaade nabi ko
+  Kya bit gayi...
+  Jab gir gayi naaqe se mere bhaai ki dukhtar
+  Woh naiza ruka jis pe rakha tha sar-e-Sarwar
+  Us dam jo aziyyat hui aulaad-e-Nabi par
 
   9
   Sajjad se pucho
-  Kya bit gayi…
-  Jab milgayi zindaṅ se asiroṅ ko rihaai
-  Ghar jaye ke na jaye kaho fatema jaayi
+  Kya bit gayi...
+  Jab mil gayi zindaaṅ se asiroṅ ko rihaai
+  Ghar jaye ke na jaye kaho Fatema jaayi
 
   10
-  Ro kar kaha zainab ne ke mujhse nahi bano
+  Ro kar kaha Zainab ne ke mujh se nahiṅ Bano
   Sajjad se pucho
-  Kya bit gayi…
-  Jab mazhar o irfan kiya sughra ne nauha
+  Kya bit gayi...
+  Jab Mazhar o Irfan kiya Sughra ne nauha
 
   11
-  Zainab ki zaifi ka sabab maa se jo pucha
-  Maa kehne lagi roke kaleje ko sambhalo
+  Zainab ki zaifi ka sabab maaṅ se jo pucha
+  Maaṅ kehne lagi ro ke kaleje ko sambhalo
   Sajjad se pucho
-  Kya bit gayi…
+  Kya bit gayi...
 ---
 
 ۱

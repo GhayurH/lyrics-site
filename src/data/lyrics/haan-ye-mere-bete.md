@@ -56,7 +56,7 @@ romanLyrics: |-
   5
   Aun o Muhammad kya ye hasrat
   Puri hui zindaaṅ meiṅ jaa kar
-  Jab waqt aazaadi aaya
+  Jab waqt-e-aazaadi aaya
   Nok-e-sinaaṅ se utre jab sar
   Boli Zainab pit ke sar ko
   Laawaaris jo dikhte haiṅ

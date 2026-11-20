@@ -1,32 +1,54 @@
 ---
-title: "Ali Kehne Se Sonu Monu"
+title: "علی کہنے سے سونو مونو"
+alternateTitle: "Ali Kehne Se Sonu Monu"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Na tu ghabra aye Musalman Ali kehne se
+  Mushkilein hoti hain aasan Ali kehne se
+
+  1
+  Chehray parh leta hoon main zikar-e-Ali kar kar ke
+  Hoti hai nasal ki pehchan Ali kehne se
+  Maa ne bachpan mein sikhayi thi mujhe Nad-e-Ali
+  Mar leta hoon main maidan Ali kehne se
+
+  2
+  Nuqta-e-Ba mein simat aayi hai pori hi kitab
+  Pora parh leta hoon Quran Ali kehne se
+  Aadmi kya hai yeh Aadam ke liye bhi hai sharf
+  Sirf katrata hai Shetan Ali kehne se
+
+  3
+  Kaisay bantay hain Qalandar main bataon tum ko
+  Meesum-o-Abuzar-o-Salman Ali kehne se
+  Zikar-e-Haider main younhi karta rahon ga Haider
+  Jati hai jaye meri jan Ali kehne se
 ---
 
-Na Tu Ghabra Aye Musalman Ali Kehne Se.
-Mushkilein Hoti Hain Aasan Ali Kehne Se.
+نہ تو گھبرا اے مسلمان علی کہنے سے
+مشکلیں ہوتی ہیں آسان علی کہنے سے
 
-1
-Chehray Parh Leta Hoon Main Zikar-e-Ali Kar Kar Ke.
-Hoti Hai Nasal Ki Pehchan Ali Kehne Se.
-Maa Ne Bachpan Mein Sikhayi Thi Mujhe Nad-e-Ali.
-Mar Leta Hoon Main Maidan Ali Kehne Se.
+۱
+چہرے پڑھ لیتا ہوں میں ذکرِ علی کر کر کے
+ہوتی ہے نسل کی پہچان علی کہنے سے
+ماں نے بچپن میں سکھائی تھی مجھے نادِ علی
+مار لیتا ہوں میں میدان علی کہنے سے
 
-2
-Nuqta-e-Ba Mein Simat Aayi Hai Pori Hi Kitab.
-Pora Parh Leta Hoon Quran Ali Kehne Se.
-Aadmi Kya Hai Yeh Aadam Ke Liye Bhi Hai Sharf.
-Sirf Katrata Hai Shetan Ali Kehne Se.
+۲
+نقطۂ با میں سمٹ آئی ہے پوری ہی کتاب
+پورا پڑھ لیتا ہوں قرآن علی کہنے سے
+آدمی کیا ہے یہ آدم کے لیے بھی ہے شرف
+صرف کتراتا ہے شیطان علی کہنے سے
 
-3
-Kaisay Bantay Hain Qalandar Main Bataon Tum Ko.
-Meesum-o-Abuzar-o-Salman Ali Kehne Se.
-Zikar-e-Haider Main Younhi Karta Rahon Ga Haider.
-Jati Hai Jaye Meri Jan Ali Kehne Se.
+۳
+کیسے بنتے ہیں قلندر میں بتاؤں تم کو
+میثم و ابوذر و سلمان علی کہنے سے
+ذکرِ حیدر میں یونہی کرتا رہوں گا حیدر
+جاتی ہے جائے میری جان علی کہنے سے

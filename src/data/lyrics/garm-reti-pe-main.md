@@ -1,7 +1,7 @@
 ---
 title: "گرم ریتی پہ میں گرتا ہوں سنبھالو اماں"
 recitationId: "garm-reti-pa-mai"
-alternateTitle: "Garm Reti Pe Maiṅ"
+alternateTitle: "Garm Reti Pe Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,40 +12,40 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Garm reti pe maiṅ girta huṅ sambhaalo ammaaṅ
+  Garm reti pe main girta huṅ sambhaalo ammaaṅ
 
   1
   Asr-e-Aashur tha Shabbir the tanhaai thi
   Maah-e-Zehra pe ghata zulm ki jab chhaayi thi
   Shaah pe jab nok-e-sinaaṅ su-e-zamiṅ laayi thi
-  Girte girte lab-e-zakhmi pe sada aayi thi
+  Girte girte lab-e-zakhmi pe sadaa aayi thi
 
   2
-  Laash Qasim ki uthaayi hai nazar zakhmi hai
+  Laash Qaasim ki uthaayi hai nazar zakhmi hai
   Zakhm Akbar ka jo dekha hai jigar zakhmi hai
   Qalb zakhmi hai badan zakhmi hai sar zakhmi hai
   De sahaara mujhe baaba ko bula lo ammaaṅ
 
   3
-  Maiṅ jo ghore se giruṅ tum mujhe taskiṅ dena
+  Main jo ghore se giruṅ tum mujhe taskiṅ dena
   Pyaar karna meri himmat ko duaaeṅ dena
-  Daal kar baaheṅ gale meiṅ mujhe lipta lena
-  Ha dam-e-zibh magar haath hata lo ammaaṅ
+  Daal kar baaheṅ gale mein mujhe liptaa lena
+  Haa dam-e-zibh magar haath hataa lo ammaaṅ
 
   4
-  Ghir gaya huṅ maiṅ kisi ki bhi mujhe aas nahiṅ
+  Gir gaya huṅ main kisi ki bhi mujhe aas nahiṅ
   Qatl sab ho gaye ab koi bhi mere paas nahiṅ
-  Mera Qasim nahiṅ Akbar nahiṅ Abbas nahiṅ
+  Mera Qaasim nahiṅ Akbar nahiṅ Abbas nahiṅ
   Tum mujhe aa ke kaleje se laga lo ammaaṅ
 
   5
-  Ab koi ban meiṅ mere halq pe khanjar hoga
+  Ab koi ban mein mere halq pe khanjar hoga
   Aur sine pe mere Shimr-e-sitamgaar hoga
   Khun ka hoga kafan khaak ka bistar hoga
   Aakhri naaz ye bete ka utha lo ammaaṅ
 
   6
-  Apne waade ke liye maiṅ ne har iza sah li
+  Apne waade ke liye main ne har izaa seh li
   Ek armaan mera nikle to inaayat hogi
   Zibh ke waqt meri tum se tamanna hai yahi
   Sar mera khaak se zaanu pe utha lo ammaaṅ

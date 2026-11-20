@@ -7,6 +7,32 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shaam ki raahoṅ meiṅ beparda Nabi ki betiyaaṅ
+
+  1
+  Ghurbatoṅ ka karti haiṅ nauha Nabi ki betiyaaṅ
+  Jin ka saaya bhi nahiṅ dekha tha suraj ne kabhi
+  Haaye woh ismat ka haiṅ Kaaba Nabi ki betiyaaṅ
+
+  2
+  Nok-e-neza se sar-e-Abbaas girta baar baar
+  Dekh kar karti haiṅ yeh girya Nabi ki betiyaaṅ
+  Shaam ki raahoṅ meiṅ beparda Nabi ki betiyaaṅ
+  Baaghi baaghi keh kar patthar maarte haiṅ sab
+  Sunte haiṅ ummat se yeh taana Nabi ki betiyaaṅ
+
+  3
+  Khun rone ka sabab Sajjaad ki aaṅkhoṅ meiṅ hai
+  Tishnagi bepardagi al-shah Nabi ki betiyaaṅ
+
+  4
+  Zikr-e-Ahl-e-Bait gham ka marsiya hai Zuhur
+  Likh kar roya der tak misra Nabi ki betiyaaṅ
+
+  5
+  Khun aaṅkhoṅ se bahaata dekh kar Sajjaad ko
+  Ro rahi haiṅ Hazrat Fissa Nabi ki betiyaaṅ
 ---
 
 شام کی راہوں میں بے پردہ نبی کی بیٹیاں

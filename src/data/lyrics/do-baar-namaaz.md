@@ -11,9 +11,9 @@ tags: []
 aliases: ["Do Baar Namaz"]
 published: true
 romanLyrics: |-
-  Haye Ali haye haye Ali
-  Haye Husain
-  Haye Ali haye Husain
+  Haaye Ali haaye haaye Ali
+  Haaye Husain
+  Haaye Ali haaye Husain
 
   Do baar namaaz shahid hui
   Ek masjid meiṅ ek maqtal meiṅ
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   2
   Ghurbat ne yuṅ majbur kiya beaas Batul ki beti ko
-  Do baar Madina yaad aaya ek zindaaṅ meiṅ ek mehmil meiṅ
+  Do baar Madina yaad aaya ek zindaaṅ meiṅ ek mahmil meiṅ
 
   3
   Kuchh paak namaazi qatl hue tiroṅ talwaaroṅ se Mohsin
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ek masjid meiṅ ek maqtal meiṅ
 
   5
-  Ek bint-e-Ali ka Baaba tha
+  Ek bint-e-Ali ka baaba tha
   Ek baap ke jaise bhaai tha
   Do baar yatim hui Bibi
   Ek masjid meiṅ ek maqtal meiṅ

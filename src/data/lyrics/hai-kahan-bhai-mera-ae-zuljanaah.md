@@ -8,16 +8,16 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Hai Kahaṅ Bhai Mera Ae Zuljanaah"
+alternateTitle: "Hai Kahaaṅ Bhaai Mera Ae Zuljanaah"
 romanLyrics: |-
   Zuljanaah Zuljanaah
-  Hai kahaṅ bhai mera ae Zuljanaah
+  Hai kahaaṅ bhaai mera ae Zuljanaah
 
   1
   Zin khaali aur rakaaboṅ se tapakta hai lahu
   Tujh se aati hai gharib-e-Karbala ke khuṅ ki bu
   Kya Sakina ki yatimi ki khabar laaya hai tu
-  Khun hai maathe pe ye kis ka mala
+  Khun hai maathe pe kis ka mala
 
   2
   Haal aaqa ki musibat ka suna de Zuljanaah
@@ -26,13 +26,13 @@ romanLyrics: |-
   Dhundne jaaye kahaaṅ Shah ko bhala
 
   3
-  Wa Husaina ki sadaaeṅ haiṅ fiza meiṅ kis liye
+  Haaye wa Husainaaṅ ki sadaaeṅ haiṅ fiza meiṅ kis liye
   Surkh aandhi chal rahi hai Karbala meiṅ kis liye
   Baj rahe haiṅ shaadiyaane ashqiya meiṅ kis liye
   Shaamiyoṅ meiṅ shor hai kaisa bapa
 
   4
-  Dil bahut betaab tha aaya hai jab se naamabar
+  Dil bahut betaab tha aaya hai jab se naama bar
   Yaad Sughra aa gayi kya naujawaaṅ ki laash par
   Larte larte par gayi kya zakhmi sine par nazar
   Laash par Akbar ki kya ghash aa gaya
@@ -44,7 +44,7 @@ romanLyrics: |-
   Ye bata tashna dahan kis jaa gira
 
   6
-  Laut kar wo ghar na aaya aaj maqtal jo gaya
+  Laut ke wo ghar na aaya aaj maqtal jo gaya
   Fatema ka chaand bhi kya Nainawa meiṅ kho gaya
   Shaam se pehle Takallum kiuṅ andhera ho gaya
   Kya diya qabr-e-Nabi ka bujh gaya

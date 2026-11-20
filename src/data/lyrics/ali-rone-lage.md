@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Rone waaloṅ rone waaloṅ
-  Dekh kar beti ke aansu khud bhi ro jaata hai baap
+  Dekh kar beti ke aansuṅ khud bhi ro jaata hai baap
   Kitna bebas betiyoṅ ke gham meiṅ ho jaata hai baap
-  Betiyoṅ ka jab khayal aaya ali rone lage
+  Betiyoṅ ka jab khayaal aaya Ali rone lage
 
   1
-  Sar shikasta hogaya lekin ali khamosh the
-  Dard ki shiddat meiṅ bhi na aankh se aansu bahe
+  Sar shikasta ho gaya lekin Ali khaamosh the
+  Dard ki shiddat meiṅ bhi na aankh se aansuṅ bahe
 
   2
-  Jab Hasan ne baap ka sar apne zaano par rakha
-  Zakhm gehra dekh ke shabbir ne girya kiya
+  Jab Hasan ne baap ka sar apne zaanoṅ par rakha
+  Zakhm gehra dekh ke Shabbir ne girya kiya
   Apne betoṅ ko musalsal hausla dete rahe
 
   3
   Betiyoṅ ke haal ka tha baap ki aankhoṅ meiṅ gham
-  Haye zainab haye chadar keh rahe the har qadam
-  Masjid-e-kufa se ghar tak raastoṅ ko dekh ke
+  Haaye Zainab haaye chaadar keh rahe the har qadam
+  Masjid-e-Kufa se ghar tak raastoṅ ko dekh ke
 
   4
-  Dekh ke is haal meiṅ mar jaaye na zainab meri
-  Saamne uske mai ghar se chal ke aaya tha abhi
-  Apne betoṅ ke sahare haye ghar jaate huwe
+  Dekh ke is haal meiṅ mar jaaye na Zainab meri
+  Saamne us ke main ghar se chal ke aaya tha abhi
+  Apne betoṅ ke sahaare haaye ghar jaate hue
 
   5
-  Karbala yaad aayi to chuma gala shabbir ka
-  Aur phir abbas ke shaano ka bhi bosa liya
-  Haaṅ magar sajjad ke nanhe se paoṅ chum ke
+  Karbala yaad aayi to chuma gala Shabbir ka
+  Aur phir Abbas ke shaanoṅ ka bhi bosa liya
+  Haaṅ magar Sajjad ke nanhe se paaoṅ chum ke
 
   6
-  Kitne manzar aa rahe the murtaza ke roo baroo
-  Zakhmi sar se beh ke aa pahuncha jo chehre tak lahu
-  Shaam meiṅ sar pe baraste patharoṅ ka soch ke
+  Kitne manzar aa rahe the Murtaza ke rubaru
+  Zakhmi sar se beh ke aa pahunche jo chehre tak lahu
+  Shaam meiṅ sar pe baraste pattharoṅ ka soch ke
 
   7
-  Jab gayi darbar zahra the sahabi saamne
-  Shaam ke darbar meiṅ honge sharabi saamne
-  Aakhri sansoṅ meiṅ naame fatema lete huwe
+  Jab gayi darbaar Zahra the sahaabi saamne
+  Shaam ke darbaar meiṅ honge sharaabi saamne
+  Aakhiri saansoṅ meiṅ naam-e-Faatema lete hue
 
   8
-  Kiuṅ ali ki aankh se hote rahe aansu rawaṅ
-  Bas wo samjhega khuda ne di hai jis ko betiyaṅ
-  Dil tarap kar reh gaya jab ye suna zishan se
+  Kiuṅ Ali ki aankh se hote rahe aansu rawaṅ
+  Bas wo samjhe ga Khuda ne di hai jis ko betiyaaṅ
+  Dil tarap kar reh gaya jab ye suna Zishan se
 ---
 رونے والوں رونے والوں
 دیکھ کر بیٹی کے آنسوں خود بھی رو جاتا ہے باپ

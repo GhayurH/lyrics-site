@@ -23,21 +23,21 @@ romanLyrics: |-
   Tujhe apni maaṅ se dur Asghar
 
   2
-  Ek baar shahadat sab ke liye
-  Do baar shahadat tere liye
+  Ik baar shahaadat sab ke liye
+  Do baar shahaadat tere liye
   Ek tir-e-giraaṅ aur ek naiza
-  Is gaam pe hai mamur Asghar
+  Is gaam pe hai maamur Asghar
 
   3
-  Hum pyas liye haiṅ zabaanoṅ par
+  Hum pyaas liye haiṅ zabaanoṅ par
   Wo qabza kiye haiṅ darya par
   Mansur ye hum mazlumoṅ ka
   Wo zaalim ka Mansur Asghar
 
   4
   Ye Shami Kufi patthar dil
-  Kuch der meiṅ ye sab royeṅge
-  Mumkin jo na tha ho jayega
+  Kuch der meiṅ ye sab roeṅ ge
+  Mumkin jo na tha ho jaae ga
   Hansne se tere wo zarur Asghar
 
   5
@@ -47,16 +47,16 @@ romanLyrics: |-
   Aaghosh ka mere Tur Asghar
 
   6
-  Kuch din hi jiyegi baad tere
+  Kuch din hi jiye gi baad tere
   Tujhe god meiṅ paalne waali maaṅ
   Bachchoṅ ki judaai ke zakhmoṅ se
   Us ka dil hoga chur Asghar
 
   7
-  Abid tere gham ka kaatib hai
-  Abid tere dar ka sajid hai
+  Aabid tere gham ka kaatib hai
+  Aabid tere dar ka saajid hai
   Hai jo bhi likha hai jo bhi parha
-  Sab tu ne diya hai shaur Asghar
+  Sab tu ne diya hai shuur Asghar
 ---
 
 آ تیر گراں لے گردن پر

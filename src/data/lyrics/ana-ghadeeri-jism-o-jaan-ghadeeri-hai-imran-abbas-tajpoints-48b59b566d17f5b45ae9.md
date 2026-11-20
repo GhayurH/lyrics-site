@@ -1,29 +1,48 @@
 ---
-title: "Ana Ghadeeri Jism O Jaan Ghadeeri Hai Imran Abbas"
+title: "انا غدیری جسم و جان غدیری ہے عمران عباس"
+alternateTitle: "Ana Ghadeeri Jism O Jaan Ghadeeri Hai Imran Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sadiq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ana Ghadeeri jism o jaan Ghadeeri hai Imran Abbas
+
+  1
+  Khuda ka shukar mera jism-o-jaan Ghadeeri hai
+  Meri namaz Ghadeeri aazaan Ghadeeri hai
+  Faroh, usool ke jhagrey ka faisla hai Ghadeer
+  Ali ko chorne wala kahan Ghadeeri hai
+  Ali ka ishq jhalakta hai pak naslon mein
+  Hai beta iss liye acha keh maa Ghadeeri hai
+
+  2
+  Ba faiz e Hazrat-e-Meesum karam howa mujh par
+  Mizaj apna Ghadeeri zabaan Ghadeeri hai
+  Alam ka panja gawahi yeh de raha hai suno
+  Makeen Ghadeeri hai iss ka makaan Ghadeeri hai
+  Ali ka ishq hi karta hai faisla Sadiq
+  Falaan Ghadeeri nahi hai falaan Ghadeeri hai
 ---
 
-Ana Ghadeeri Jism o Jaan Ghadeeri Hai Imran Abbas.
+انا غدیری جسم و جان غدیری ہے عمران عباس
 
-1
-Khuda Ka Shukar Mera Jism-o-Jaan Ghadeeri Hai.
-Meri Namaz Ghadeeri Aazaan Ghadeeri Hai.
-Faroh, Usool Ke Jhagrey Ka Faisla Hai Ghadeer.
-Ali Ko Chorne Wala Kahan Ghadeeri Hai.
-Ali Ka Ishq Jhalakta Hai Pak Naslon Mein.
-Hai Beta Iss Liye Acha Keh Maa Ghadeeri Hai.
+۱
+خدا کا شکر میرا جسم و جان غدیری ہے
+میری نماز غدیری اذان غدیری ہے
+فروع، اصول کے جھگڑے کا فیصلہ ہے غدیر
+علی کو چھوڑنے والا کہاں غدیری ہے
+علی کا عشق جھلکتا ہے پاک نسلوں میں
+ہے بیٹا اس لیے اچھا کہ ماں غدیری ہے
 
-2
-Ba Faiz e Hazrat-e-Meesum Karam Howa Mujh Par.
-Mizaj Apna Ghadeeri Zabaan Ghadeeri Hai.
-Alam Ka Panja Gawahi Yeh De Raha Hai Suno.
-Makeen Ghadeeri Hai Iss Ka Makaan Ghadeeri Hai.
-Ali Ka Ishq Hi Karta Hai Faisla Sadiq.
-Falaan Ghadeeri Nahi Hai Falaan Ghadeeri Hai.
+۲
+بہ فیضِ حضرتِ میثم کرم ہوا مجھ پر
+مزاج اپنا غدیری زبان غدیری ہے
+علم کا پنجہ گواہی یہ دے رہا ہے سنو
+مکین غدیری ہے اس کا مکان غدیری ہے
+علی کا عشق ہی کرتا ہے فیصلہ صادق
+فلاں غدیری نہیں ہے فلاں غدیری ہے

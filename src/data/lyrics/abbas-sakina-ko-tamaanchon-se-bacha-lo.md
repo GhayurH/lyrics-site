@@ -31,7 +31,7 @@ romanLyrics: |-
   Zindaaṅ mein zara chain nahiṅ paati hai bachchi
   Dukh had se guzarta hai to chillaati hai bachchi
   Jab Shimr hai barhta to laraz jaati hai bachchi
-  Imdaad karo bhaai yateema ki dua lo
+  Imdaad karo bhaai yatima ki dua lo
 
   4
   Sar par mere chaadar nahiṅ kuchh aas nahiṅ hai
@@ -52,7 +52,7 @@ romanLyrics: |-
   Saahil se utho qaid se ab isko chhura lo
 
   7
-  Zindaan mein Zainab ki Qamar hai yahi faryad
+  Zindaan mein Zainab ki Qamar hai yahi faryaad
   Zinda na Sakina rahi itni hui bedaad
   Tadfin ho kaise ke hai zanjir mein Sajjad
   Mayyat ko Sakina ki koi barh ke utha lo

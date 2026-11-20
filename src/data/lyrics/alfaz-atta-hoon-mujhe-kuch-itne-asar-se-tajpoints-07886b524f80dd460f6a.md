@@ -1,35 +1,59 @@
 ---
-title: "Alfaz Atta Hoon Mujhe Kuch Itne Asar Se"
+title: "الفاظ عطا ہوں مجھے کچھ اتنے اثر سے"
+alternateTitle: "Alfaz Atta Hoon Mujhe Kuch Itne Asar Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Raqib"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Alfaz atta hoon mujhe kuch itne asar se
+  Main naat Nabi ki likhon Jibreel ke par se
+  Kar sakta hoon main oss se andheron mein ujale
+  Gar khak mile mujh ko teri rahguzar se
+
+  2
+  Ahmad ke haseen naam se hi un mein zia hai
+  Gar shak hai tu khud poch lo tum shamas-o-qamar se
+  Phir ilm ke iss shehar mein jana nahi mumkin
+  Hai dil mein tere bugz agar ilm ke dar se
+
+  3
+  Tum ko bhi nazar aein gaye janat ke nazare
+  Dekho gaye Madina jo kabhi meri nazar se
+  Paigham yehi Aal-e-Muhammad ne diya hai
+  Haq baat chupao na kabhi maut ke dar se
+
+  4
+  Yeh noor-e-Muhammad hi mera noor hai logo
+  Awaz yehi atti hai Tauheed Nagar se
+  Raqib woh bohat toot ke chahta hai Nabi ko
+  Mujh ko yehi mehsoos howa shaq-e-qamar se
 ---
 
-1
-Alfaz Atta Hoon Mujhe Kuch Itne Asar Se.
-Main Naat Nabi Ki Likhon Jibreel Ke Par Se.
-Kar Sakta Hoon Main Oss Se Andheron Mein Ujale.
-Gar Khak Mile Mujh Ko Teri Rahguzar Se.
+۱
+الفاظ عطا ہوں مجھے کچھ اتنے اثر سے
+میں نعتِ نبی کی لکھوں جبریل کے پر سے
+کر سکتا ہوں میں اس سے اندھیروں میں اجالے
+گر خاک ملے مجھ کو تیری رہگزر سے
 
-2
-Ahmad Ke Haseen Naam Se Hi Un Mein Zia Hai.
-Gar Shak Hai Tu Khud Poch Lo Tum Shamas-o-Qamar Se.
-Phir Ilm Ke Iss Shehar Mein Jana Nahi Mumkin.
-Hai Dil Mein Tere Bugz Agar Ilm Ke Dar Se.
+۲
+احمد کے حسین نام سے ہی ان میں ضیا ہے
+گر شک ہے تو خود پوچھ لو تم شمس و قمر سے
+پھر علم کے اس شہر میں جانا نہیں ممکن
+ہے دل میں تیرے بغض اگر علم کے در سے
 
-3
-Tum Ko Bhi Nazar Aein Gaye Janat Ke Nazare.
-Dekho Gaye Madina Jo Kabhi Meri Nazar se.
-Paigham Yehi Aal-e-Muhammad Ne Diya Hai.
-Haq Baat Chupao Na Kabhi Maut Ke Dar Se.
+۳
+تم کو بھی نظر آئیں گے جنت کے نظارے
+دیکھو گے مدینہ جو کبھی میری نظر سے
+پیغام یہی آلِ محمد نے دیا ہے
+حق بات چھپاؤ نہ کبھی موت کے ڈر سے
 
-4
-Yeh Noor-e-Muhammad Hi Mera Noor Hai Logo.
-Awaz Yehi Atti Hai Tauheed Nagar Se.
- Raqib Woh Bohat Toot Ke Chahta Hai Nabi Ko.
-Mujh Ko Yehi Mehsoos Howa Shaq-e-Qamar Se.
+۴
+یہ نورِ محمد ہی میرا نور ہے لوگو
+آواز یہی آتی ہے توحید نگر سے
+رقیب وہ بہت ٹوٹ کے چاہتا ہے نبی کو
+مجھ کو یہی محسوس ہوا شقِ قمر سے

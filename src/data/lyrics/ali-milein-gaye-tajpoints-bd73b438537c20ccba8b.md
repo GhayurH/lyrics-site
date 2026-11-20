@@ -1,68 +1,126 @@
 ---
-title: "Ali Milein Gaye"
+title: "علی ملیں گے"
+alternateTitle: "Ali Milein Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Naqsh"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mera aqeeda hai mujh se aa kar Ali milein gaye
+  Lehad ke andar falak ke opar Ali milein gaye
+
+  1
+  Rasool jaisay ko Karbala mein madad ki khatir
+  Bashakal-e-Ghazi bashakal-e-Asghar Ali milein gaye
+  Chaley hain Sidrah pe Rab se milne magar yeh sun lein
+  Khuda nahi aye Nabi wahan par Ali milein gaye
+
+  2
+  Abhi tu jhutla rahe ho unn ki wila ko lekin
+  Karo gaye kiya jab baroz-e-mehshar Ali milein gaye
+  Hain kun pe qadir magar woh sajday mein sar ko rakh kar
+  Nuseriyat ko laga ke thokar Ali milein gaye
+
+  3
+  Nahi hai aagaz-e-zindagi tu batao kiya hai
+  Jo waqt-e-naza sirhaney aa kar Ali milein gaye
+  Yeh Haiderium Qalandarium ki le pukari
+  Jhukao Sehwan mein sar ko aa kar Ali milein gaye
+
+  4
+  Kissi ne pocha ke dar se Zahra ke pao gaye kiya
+  Yeh bolay Salman our Abuzar Ali milein gaye
+  Yeh naimaton ka tamam hona bata raha hai
+  Khuda ki har ik atta ka mehwar Ali milein gaye
+
+  5
+  Nabi ke ashab tu bohat they pa mushkilon mein
+  Kitab-e-Tareekh chup hai keh kar Ali milein gaye
+  Koi tu mere maiyar ka ik sawal lao
+  Saloni kehte hoye yeh aksar Ali milein gaye
+
+  6
+  Jo dar pe Zahra ke dil ko rakh kar karey ga sajday
+  Ossi bashar ko Khuda-o-sarwar Ali milein gaye
+  Yeh Kuluna tu hai ghar ke logon ki baat lekin
+  Yahan tu inn ke gharon ke nokar Ali milein gaye
+
+  7
+  Khuda ne ik dosrey ki khatir jinhein banaya
+  Woh bas hain Zahra ya unn ke shohar Ali milein gaye
+  Hussain ghurbat teri mitanay ko aa rahe hain
+  Tujhe aye karb-o-bala bahatar Ali milein gaye
+
+  8
+  Haan aik hi waqt ho ga sun lo na aazmao
+  Karo tu dawat tumhare ghar ghar Ali milein gaye
+  Namaz totay na our sail ki jholi bhar de
+  Khuda ke bandon mein banda parwar Ali milein gaye
+
+  9
+  Paray jo deen-e-Nabi pe mushkil tu meri sorat
+  Hussain kehte hain zair-e-khanjar Ali milein gaye
+  Jo Naqsh pyason ka gham manaya tu iss ke badlay
+  Wajih hum ko pilaney Kausar Ali milein gaye
 ---
 
-Mera Aqeeda Hai Mujh Se Aa Kar Ali Milein Gaye.
-Lehad Ke Andar Falak Ke Opar Ali Milein Gaye.
+میرا عقیدہ ہے مجھ سے آ کر علی ملیں گے
+لحد کے اندر فلک کے اوپر علی ملیں گے
 
-1
-Rasool Jaisay Ko Karbala Mein Madad Ki Khatir.
-Bashakal-e-Ghazi Bashakal-e-Asghar Ali Milein Gaye.
-Chaley Hain Sidrah Pe Rab Se Milne Magar Yeh Sun Lein.
-Khuda Nahi Aye Nabi Wahan Par Ali Milein Gaye.
+۱
+رسول جیسے کو کربلا میں مدد کی خاطر
+بشکلِ غازی بشکلِ اصغر علی ملیں گے
+چلے ہیں سدرہ پہ رب سے ملنے مگر یہ سن لیں
+خدا نہیں اے نبی وہاں پر علی ملیں گے
 
-2
-Abhi Tu Jhutla Rahe Ho Unn Ki Wila Ko Lekin.
-Karo Gaye Kiya Jab Baroz-e-Mehshar Ali Milein Gaye.
-Hain Kun Pe Qadir Magar Woh Sajday Mein Sar Ko Rakh Kar.
-Nuseriyat Ko Laga Ke Thokar Ali Milein Gaye.
+۲
+ابھی تو جھٹلا رہے ہو ان کی ولا کو لیکن
+کرو گے کیا جب بروزِ محشر علی ملیں گے
+ہیں کن پہ قادر مگر وہ سجدے میں سر کو رکھ کر
+نصیریت کو لگا کے ٹھوکر علی ملیں گے
 
-3
-Nahi Hai Aagaz-e-Zindagi Tu Batao Kiya Hai.
-Jo Waqt-e-Naza Sirhaney Aa Kar Ali Milein Gaye.
-Yeh Haiderium Qalandarium Ki Le Pukari.
-Jhukao Sehwan Mein Sar Ko Aa Kar Ali Milein Gaye.
+۳
+نہیں ہے آغازِ زندگی تو بتاؤ کیا ہے
+جو وقتِ نزع سرہانے آ کر علی ملیں گے
+یہ حیدریم قلندریم کی لے پکاری
+جھکاؤ سیہون میں سر کو آ کر علی ملیں گے
 
-4
-Kissi Ne Pocha Ke Dar Se Zahra Ke Pao Gaye Kiya.
-Yeh Bolay Salman Our Abuzar Ali Milein Gaye.
-Yeh Naimaton Ka Tamam Hona Bata Raha Hai.
-Khuda Ki Har Ik Atta Ka Mehwar Ali Milein Gaye.
+۴
+کسی نے پوچھا کہ در سے زہرا کے پاؤ گے کیا
+یہ بولے سلمان اور ابوذر علی ملیں گے
+یہ نعمتوں کا تمام ہونا بتا رہا ہے
+خدا کی ہر اک عطا کا محور علی ملیں گے
 
-5
-Nabi Ke Ashab Tu Bohat They Pa Mushkilon Mein.
-Kitab-e-Tareekh Chup Hai Keh Kar Ali Milein Gaye.
-Koi Tu Mere Maiyar Ka Ik Sawal Lao.
-Saloni Kehte Hoye Yeh Aksar Ali Milein Gaye.
+۵
+نبی کے اصحاب تو بہت تھے پہ مشکلوں میں
+کتابِ تاریخ چپ ہے کہہ کر علی ملیں گے
+کوئی تو میرے معیار کا اک سوال لاؤ
+سلونی کہتے ہوئے یہ اکثر علی ملیں گے
 
-6
-Jo Dar Pe Zahra Ke Dil Ko Rakh Kar Karey Ga Sajday.
-Ossi Bashar Ko Khuda-o-Sarwar Ali Milein Gaye.
-Yeh Kuluna Tu Hai Ghar Ke Logon Ki Baat Lekin.
-Yahan Tu Inn Ke Gharon Ke Nokar Ali Milein Gaye.
+۶
+جو در پہ زہرا کے دل کو رکھ کر کرے گا سجدے
+اسی بشر کو خدا و سرور علی ملیں گے
+یہ کلنا تو ہے گھر کے لوگوں کی بات لیکن
+یہاں تو ان کے گھروں کے نوکر علی ملیں گے
 
-7
-Khuda Ne Ik Dosrey Ki Khatir Jinhein Banaya.
-Woh Bas Hain Zahra Ya Unn Ke Shohar Ali Milein Gaye.
-Hussain Ghurbat Teri Mitanay Ko Aa Rahe Hain.
-Tujhe Aye Karb-o-Bala Bahatar Ali Milein Gaye.
+۷
+خدا نے اک دوسرے کی خاطر جنہیں بنایا
+وہ بس ہیں زہرا یا ان کے شوہر علی ملیں گے
+حسین غربت تری مٹانے کو آ رہے ہیں
+تجھے اے کرب و بلا بہتر علی ملیں گے
 
-8
-Haan Aik Hi Waqt Ho Ga Sun Lo Na Aazmao.
-Karo Tu Dawat Tumhare Ghar Ghar Ali Milein Gaye.
-Namaz Totay Na Our Sail Ki Jholi Bhar De.
-Khuda Ke Bandon Mein Banda Parwar Ali Milein Gaye.
+۸
+ہاں ایک ہی وقت ہو گا سن لو نہ آزماؤ
+کرو تو دعوت تمہارے گھر گھر علی ملیں گے
+نماز ٹوٹے نہ اور سائل کی جھولی بھر دے
+خدا کے بندوں میں بندہ پرور علی ملیں گے
 
-9
-Paray Jo Deen-e-Nabi Pe Mushkil Tu Meri Sorat.
-Hussain Kehte Hain Zair-e-Khanjar Ali Milein Gaye.
-Jo Naqsh Pyason Ka Gham Manaya Tu Iss Ke Badlay.
- Wajih Hum Ko Pilaney Kausar Ali Milein Gaye.
+۹
+پڑے جو دینِ نبی پہ مشکل تو میری صورت
+حسین کہتے ہیں زیرِ خنجر علی ملیں گے
+جو نقش پیاسوں کا غم منایا تو اس کے بدلے
+وجیہ ہم کو پلانے کوثر علی ملیں گے

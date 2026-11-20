@@ -12,68 +12,68 @@ published: false
 romanLyrics: |-
   1
   Jab kisi ghar meiṅ koi marta hai
-  Pursa dete hai log aa aa kar
-  Kitni mazlum hai Husain ki maa
-  Pursa leti hai sab ke ghar jaa kar
-  Chor diya maa ne baqayya
-  Aagaya muharram
+  Pursa dete haiṅ log aa aa kar
+  Kitni mazlum hai Husain ki maaṅ
+  Pursa leti hai sab ke ghar aa kar
+  Chhor diya maaṅ ne baqayya
+  Aa gaya Muharram
   Ya Husain kaho ya Husain
   Ya Husain ya Husain
-  Hoti hai majlis jahaṅ aati hai wahaṅ pe fatema
-  Gharib huṅ to kya hua wo aayengi
-  Hame bhi khush nasib wo banayengi
+  Hoti hai majlis jahaaṅ aati hai wahaaṅ pe Fatema
+  Gharib huṅ to kya hua wo aayeṅ gi
+  Hameiṅ bhi khush nasib wo banaayeṅ gi
   Utha ke haath de ke waasta Husain ka
   Dua karo dua karo
-  Hamare ghar meiṅ aaj aaye bibi fatema
-  Bichha ke farshe gham yahaṅ jinhe bula rahe hai hum
-  Wo phasliyoṅ ko thaam kar rakhengi ghar meiṅ jab qadam
-  Sunana unko daastaṅ Husain ki
-  Bahot gharib hai wo maa Husain ki
+  Hamaare ghar meiṅ aaj aaye Bibi Fatema
+  Bichha ke farsh-e-gham yahaaṅ jinheiṅ bula rahe haiṅ hum
+  Wo pasliyoṅ ko thaam kar rakheiṅ gi ghar meiṅ jab qadam
+  Sunana un ko daastaaṅ Husain ki
+  Bahut gharib hai wo maaṅ Husain ki
   Jo pursa lene aati hai gharib laal ka
-  Dua karo dua karo hamare ghar meiṅ...
+  Dua karo dua karo hamaare ghar meiṅ aaj...
   Alam ke saath laazmi sajana ek mashk bhi
   Chacha se dur na rahe Husain ki wo laadli
-  Zarur bibi aayengi hamare ghar
-  Sakina ko bhi layengi hamare ghar
-  Saja ke sheh nashin rakh ke sheh ka taaziya
-  Dua karo dua karo hamare ghar meiṅ...
-  Ye sirf rasm hi nahi hamari jaan hai ye gham
-  Kareṅge matame Husain isi liye bane hai hum
+  Zarur Bibi aayeṅ gi hamaare ghar
+  Sakina ko bhi laayeṅ gi hamaare ghar
+  Saja ke shah nashin rakh ke shah ka taaziya
+  Dua karo dua karo hamaare ghar meiṅ aaj...
+  Ye sirf rasm hi nahiṅ hamaari jaan hai ye gham
+  Kareiṅ ge maatam-e-Husain isi liye bane hai hum
   Ke hum rahe ya na rahe rahe ye gham
-  Kabhi tumhara hausla nahi ho kam
+  Kabhi tumhaara hausla nahiṅ ho kam
   Rahe hamesha jaari ye aza ka silsila
-  Dua karo dua karo hamare ghar meiṅ...
-  Falak pe khun bhara tera libaas bich gaya Husain
-  Jabhi to surkh chand par likha hua hai ya Husain
-  Rakhenge dil ko karbala bana ke hum
+  Dua karo dua karo hamaare ghar meiṅ aaj...
+  Falak pe khun bhara tera libaas bichh gaya Husain
+  Jabhi to surkh chaand par likha hua hai ya Husain
+  Rakheiṅ ge dil ko Karbala bana ke hum
   Gharib khaane meiṅ diya jala ke hum
-  Kahenge ya Husain hogi majlise aza
-  Dua karo dua karo hamare ghar meiṅ...
-  Ye jhula us ki yaad hai jo cheh mahine ji saka
-  Salaam us saghir par jo pani bhi na pi saka
+  Kaheiṅ ge ya Husain ho gi majlis-e-aza
+  Dua karo dua karo hamaare ghar meiṅ aaj...
+  Ye jhula us ki yaad hai jo chhe mahine ji saka
+  Salaam us saghir par jo paani bhi na pi saka
   Sabil us ke naam ki laga ke tum
-  Pilaana pani sab ko jab bula ke tum
+  Pilaana paani sab ko bula ke tum
   Dua wo de to haath jor kar ye bolna
-  Dua karo dua karo hamare ghar meiṅ...
+  Dua karo dua karo hamaare ghar meiṅ aaj...
   Batul ek haath se libaas jis ka khud siye
-  Yeh maahe gham meiṅ kaise ho hum us ko yaad na kare
-  Jab aathwiṅ ko ghazi ki ho haazri
-  Nahi ho ehteraam meiṅ koi kami
-  Adab se haath mein utha ke nazre bawafa
-  Dua karo dua karo hamare ghar meiṅ...
-  Guzar gaye hai kitne din mile huwe Husain se
-  Mai unse dur ab yahaṅ rahunga kaise chain se
-  Jab aayengi hamare ghar meiṅ fatema
-  Mai un ko apna haale dil sunaunga
-  Wo keh de to bula lenge Husain karbala
-  Dua karo dua karo hamare ghar meiṅ...
-  Na jaane kitni jaldi guzar jayenge ye din
-  Phir pura saal yaad bahot aayenge ye din
-  Layenge hum kahaṅ se ae zishan aur raza
-  Matam ki gunj aah o buka raunaq e aza
-  Agle baras jo hoga wohi royega Husain
-  Zinda rahe to hum bhi pukarenge ya Husain
-  Dua karo dua karo hamare ghar meiṅ...
+  Ye maah-e-gham meiṅ kaise ho hum us ko yaad na kare
+  Jab aathweiṅ ko Ghazi ki ho haazri
+  Nahiṅ ho ehtiraam meiṅ koi kami
+  Adab se haath utha ke nazr-e-bawafa
+  Dua karo dua karo hamaare ghar meiṅ aaj...
+  Guzar gaye hai kitne din mile hue Husain se
+  Main un se dur ab yahaaṅ rahuṅ ga kaise chain se
+  Jab aayeṅ ge hamaare ghar meiṅ Fatema
+  Main un ko apna haal-e-dil sunaauṅ ga
+  Wo keh de to bula leiṅ ge Husain Karbala
+  Dua karo dua karo hamaare ghar meiṅ aaj...
+  Na jaane kitni jaldi guzar jaayeṅ ge ye din
+  Phir pura saal bahut aayeṅ ge ye din
+  Laayeṅ ge hum kahaaṅ se ae Zeeshan aur Raza
+  Maatam ki gunj aah o buka raunaq-e-aza
+  Agle baras jo ho ga wohi roye ga Husain
+  Zinda rahe to hum bhi pukaareiṅ ge ya Husain
+  Dua karo dua karo hamaare ghar meiṅ aaj...
 ---
 
 ۱

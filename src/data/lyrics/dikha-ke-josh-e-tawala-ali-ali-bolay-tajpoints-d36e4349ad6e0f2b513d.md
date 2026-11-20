@@ -1,38 +1,66 @@
 ---
-title: "Dikha Ke Josh-e-Tawala Ali Ali Bolay"
+title: "دکھا کے جوشِ تولّا علی علی بولے"
+alternateTitle: "Dikha Ke Josh-e-Tawala Ali Ali Bolay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ashhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dikha ke josh-e-tawala Ali Ali bolay
+  Hai pak jis ka bhi shajrah Ali Ali bolay
+
+  1
+  Shab-e-zahoor-e-janab-e-Ameer kehti hai
+  Zamana chup rahe Kaba Ali Ali bolay
+  Jahan kahin pe bhi dunya ne rasta roka
+  Wahan pe Esa-o-Mosa Ali Ali bolay
+
+  2
+  Yeh kaisi maa hai jo kehti hai bacha maa na kahey
+  Zabaan se lafz yeh pehla Ali Ali bolay
+  Zara si khak-e-shifa tum zaban par rakh do
+  Jo chahtey ho keh gonga Ali Ali bolay
+
+  3
+  Main oss ko qari-e-Quran hi samjhta hoon
+  Khaloos-e-dil se jo banda Ali Ali bolay
+  Khuda bhuja de jahanum ko mera dawa hai
+  Agar yeh sara zamana Ali Ali bolay
+
+  4
+  Safar ruka kahan Meesum ki madah khuwani ka
+  Zabaan kati tu zyada Ali Ali bolay
+  Idhar jo narah-e-Haider lagaya Ashhar ne
+  Udhar Imam-e-Zamana Ali Ali bolay
 ---
 
-Dikha Ke Josh-e-Tawala Ali Ali Bolay.
-Hai Pak Jis Ka Bhi Shajrah Ali Ali Bolay.
+دکھا کے جوشِ تولّا علی علی بولے
+ہے پاک جس کا بھی شجرہ علی علی بولے
 
-1
-Shab-e-Zahoor-e-Janab-e-Ameer Kehti Hai.
-Zamana Chup Rahe Kaba Ali Ali Bolay.
-Jahan Kahin Pe Bhi Dunya Ne Rasta Roka.
-Wahan Pe Esa-o-Mosa Ali Ali Bolay.
+۱
+شبِ ظہورِ جنابِ امیر کہتی ہے
+زمانہ چپ رہے، کعبہ علی علی بولے
+جہاں کہیں پہ بھی دنیا نے راستہ روکا
+وہاں پہ عیسیٰ و موسیٰ علی علی بولے
 
-2
-Yeh Kaisi Maa Hai Jo Kehti Hai Bacha Maa Na Kahey.
-Zabaan Se Lafz Yeh Pehla Ali Ali Bolay.
-Zara Si Khak-e-Shifa Tum Zaban Par Rakh Do.
-Jo Chahtey Ho Keh Gonga Ali Ali Bolay.
+۲
+یہ کیسی ماں ہے جو کہتی ہے بچہ ماں نہ کہے
+زباں سے لفظ یہ پہلا علی علی بولے
+ذرا سی خاکِ شفا تم زبان پر رکھ دو
+جو چاہتے ہو کہ گونگا علی علی بولے
 
-3
-Main Oss Ko Qari-e-Quran Hi Samjhta Hoon.
-Khaloos-e-Dil Se Jo Banda Ali Ali Bolay.
-Khuda Bhuja De Jahanum Ko Mera Dawa Hai.
-Agar Yeh Sara Zamana Ali Ali Bolay.
+۳
+میں اُس کو قاریِ قرآن ہی سمجھتا ہوں
+خلوصِ دل سے جو بندہ علی علی بولے
+خدا بجھا دے جہنم کو میرا دعویٰ ہے
+اگر یہ سارا زمانہ علی علی بولے
 
-4
-Safar Ruka Kahan Meesum Ki Madah Khuwani Ka.
-Zabaan Kati Tu Zyada Ali Ali Bolay.
-Idhar Jo Narah-e-Haider Lagaya Ashhar Ne.
-Udhar Imam-e-Zamana Ali Ali Bolay.
+۴
+سفر رکا کہاں میثم کی مدح خوانی کا
+زباں کٹی تو زیادہ علی علی بولے
+اِدھر جو نعرۂ حیدر لگایا اشہر نے
+اُدھر امامِ زمانہ علی علی بولے

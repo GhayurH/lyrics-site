@@ -11,64 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qatl jo mazlum hua uski faqat hai ye khata
-  Wo pairawe wilayat hai
-  Aliun waliullah aliun waliullah
-  Ali ali ali ali ali
+  Qatl jo mazlum hua us ki furqat hai ye khata
+  Wo pairav-e-wilaayat hai
+  Aliun Waliullah Aliun Waliullah
+  Ali Ali Ali Ali Ali
 
   2
-  Zalimoṅ ki maut hai aur aasra mazlum ka
-  Ali ali aliun waliullah
-  Hum azadaroṅ ki ye pehchan hai zer e falak
-  Godh se maadar ki le kar qabr ki aaghosh tak
+  Zaalimoṅ ki maut hai aur aasra mazlum ka
+  Ali Ali Aliun Waliullah
+  Hum azadaaroṅ ki ye pehchan hai zer-e-falak
+  God se maadar ki le kar qabr ki aaghosh tak
 
   3
-  Ek markaz ek nukhta ek mehwar ek sada
-  Ali ali aliun waliullah...
-  Jo ise naafiz kare wo qaum zindabad hai
-  Adliya ki shaan hai ye adl ki buniyad hai
+  Ek markaz ek nuqta ek mihwar ek sadaa
+  Aliun Waliullah...
+  Jo ise naafiz kare wo qaum zindabaad hai
+  Adliya ki shaan hai ye adl ki buniyaad hai
 
   4
-  Sirf naara hi nahi ye hai nizaame kibriya
-  Ali ali aliun waliullah...
-  Sab se pehle ghar jala jiska ali ke naam par
-  Ho gayi wo khud zaeefa phasliyaṅ tuti magar
+  Sirf naara hi nahiṅ ye hai nizaam-e-kibriya
+  Aliun Waliullah...
+  Sab se pehle ghar jala jis ka Ali ke naam par
+  Ho gayi wo khud zaifa pasliyaaṅ tuti magar
 
   5
-  Fatema ki siskiyoṅ meiṅ aakhri dam tak raha
-  Ali ali aliun waliullah...
-  Saltanat ke waaste tha kab qayame karbala
-  Is liye sheh ne kiya tha ehtemame karbala
+  Fatema ki siskiyaaṅ meiṅ aakhri dam tak raha
+  Aliun Waliullah...
+  Saltanat ke waaste tha kab qiyaam-e-Karbala
+  Is liye shah ne kiya tha ehtimaam-e-Karbala
 
   6
-  Jaanti thi saari dunya maanta koi na tha
-  Ali ali aliun waliullah...
-  Hichkiyaṅ maa ki bani zainab musalle par giri
-  Naam sun kar baba jaaṅ ka ro diya ibne ali
+  Jaanti thi saari duniya maanta koi na tha
+  Aliun Waliullah...
+  Hichkiyaaṅ maaṅ ki bani Zainab musalle par giri
+  Naam sun kar baaba jaaṅ ka ro diya Ibn-e-Ali
 
   7
-  Subhe ashoora azaaṅ meiṅ naujawaṅ ne jab kaha
-  Ali ali aliun waliullah...
-  beridayi aur khutba al haafizo alamaaṅ
-  Fatha ka aelaan sun kar gunji awaaze azaaṅ
+  Subh-e-Aashura azaaṅ meiṅ naujawaaṅ ne jab kaha
+  Aliun Waliullah...
+  Be ridaai aur khutba al-Hafiz o al-Amaaṅ
+  Fath ka ailaan sun kar gunji aawaaz-e-azaaṅ
 
   8
-  Bar sare darbaar zainab ne ye saabit kar diya
-  Ali ali aliun waliullah...
-  Zainab ki jayedaad aliun waliullah
-  Emaan se muraad aliun waliullah
+  Bar sar-e-darbaar Zainab ne ye saabit kar diya
+  Aliun Waliullah...
+  Zainab ki jaaydaad Aliun Waliullah
+  Imaan se muraad Aliun Waliullah
 
   9
-  Ha sab ka hai mafaad aliun waliullah
-  Hai bait e ittehad aliun waliullah
+  Haaṅ sab ka hai mafaad Aliun Waliullah
+  Hai bait-e-ittehaad Aliun Waliullah
   Ghaibat meiṅ muntazir ko rulao na dostoṅ
   Is naare ko fasaad banao na dostoṅ
 
   10
-  Jab bhi ghaibat se takallum aane waala aayega
+  Jab bhi ghaibat se Takallum aane waala aayega
   Chaahta hai jo khuda darwesh wo ho jayega
-  Us ghari raij zamiṅ par har taraf ho jayega
-  Ali ali aliun waliullah...
+  Us ghari raaij zamiṅ par har taraf ho jayega
+  Aliun Waliullah...
 ---
 
 ۱

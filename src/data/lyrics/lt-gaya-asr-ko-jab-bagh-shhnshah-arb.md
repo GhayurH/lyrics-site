@@ -9,134 +9,154 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Lut gaya asr ko jab baagh-e-Shahinshah-e-Arab
-  Ek pa ek dashte bayabaa(n) me hua shore ajab
-  Aag khaimo me lagaye hain adoo haye ghazab
+  Lut gaya asr ko jab baagh-e-Shahanshaah-e-Arab
+  Ik ba ik dasht-e-bayaabaaṅ meiṅ hua shor-e-ajab
+  Aag khaimoṅ meiṅ lagaate haiṅ adu haaye ghazab
   Di sada Baanu-e-Muztar ne ke dauro Zainab
 
   2
-  Ghash me hai Aabid-e-beemar jagao Bibi
-  Jalti hai masnad-e-Sajjad bujhao Bibi
+  Ghash meiṅ hai Aabid-e-bimaar jagaao Bibi
+  Jalti hai masnad-e-Sajjaad bujhaao Bibi
 
   3
-  Pyas itni hai ke bistar bhi uthana mushkil
+  Pyaas itni hai ke bistar se bhi uthna mushkil
   Hai maraz aisa ke karwat bhi badalna mushkil
-  Dhoop ithni hai ke sehra me teher na mushkil
+  Dhup itni hai ke sehra meiṅ tharna mushkil
   Zoaf aisa hai ke do gaam bhi chalna mushkil
 
   4
-  Sainkdon zakhm liye Aabid-e-dilgeer chala
-  Haye kis haal me pehene hue zanjeer chala
+  Sainkroṅ zakhm liye Aabid-e-dilgir chala
+  Haaye kis haal meiṅ pehne hue zanjir chala
 
   5
-  Al gharaz baap ke laashe pe jo aye Aabid
-  The khade dayr talak sar ko jhukaye Aabid
-  Hoke be chain ye Zainab ne kaha ay Aabid
-  Gham se dam tera kahin toot na jaye Aabid
+  Chain Aabid ko mayassar nahiṅ dam bhar ke liye
+  An ginat ranj o alam ik dil-e-muztar ke liye
+  Aaye haiṅ aahani zewar mere dilbar ke liye
+  Maut se kam to ye manzar nahiṅ maadar ke liye
 
   6
-  Marhala sakht hai ab khud ko sambhalo beta
-  Baap ke laashe se nazron ko hata lo beta
+  Dhup shiddat ki hai qaidi ko bacha lo Zainab
+  Mere bimaar ko aanchal meiṅ chhupa lo Zainab
 
   7
-  Maqsade haq ke liye ab tujhe jeena hoga
-  Mushkilon se tujhe har lamha guzarna hoga
-  Daagh phupion ki aseeri ka uthana hoga
-  Ujde kumbe ko liye ab tujhe chalna hoga
+  Algharaz baap ke laashe pe jo aaye Aabid
+  The khare der talak sar ko jhukaaye Aabid
+  Ho ke bechain ye Zainab ne kaha ae Aabid
+  Gham se dam tera kahiṅ tut na jaaye Aabid
 
   8
-  Har qadam par tere hamrah chalungi pyaare
-  Saya ban kar mai tere saath chalungi pyaare
+  Marhala sakht hai ab khud ko sambhaalo beta
+  Baap ke laashe se nazroṅ ko hata lo beta
 
   9
-  Ye suqan sunke bhatije ne phupi ko dekha
-  Ro ke farmaya phupi jaa(n) ye ghazab hai kaisa
-  Ran me be goro kafan baap ka laasha hai padha
-  Shiddathe dard se phat’ta hai kaleja mera
+  Maqsad-e-haq ke liye ab tujhe jina hoga
+  Mushkiloṅ se tujhe har lamha guzarna hoga
+  Daagh phuphiyoṅ ki asiri ka uthaana hoga
+  Ujre kumbe ko liye ab tujhe chalna hoga
 
   10
-  Aasmano se bhi ye baar-e-musibath na uthe
-  Beta maujud rahe baap ki mayyath na uthe
+  Har qadam par tere hamraah chaluṅgi pyaare
+  Saaya ban kar main tere saath rahuṅgi pyaare
 
   11
-  Phir tane Shah ki taraf dekh ke bole baba
-  Ye pisar kaise bandhe haathon ko khole baba
-  Dhoop barsane lagi aag ke gole baba
-  Hain mere paon me garmi ke phapole baba
+  Ye sukhan sun ke bhatije ne phuphi ko dekha
+  Ro ke farmaaya phuphi jaaṅ ye ghazab hai kaisa
+  Ran meiṅ be gor o kafan baap ka laasha hai para
+  Shiddat-e-dard se phatta hai kaleja mera
 
   12
-  Pa ba zanjeer hun kaise tumhe dafnaon mai
-  Kaash ajaye abhi maut toh marjaon mai
+  Aasmaanoṅ se bhi ye baar-e-musibat na uthe
+  Beta maujud rahe baap ki mayyat na uthe
 
   13
-  Taaziyane liye ithne me sitam gar aaye
-  Durre beemar pa be jurm o khata barsaye
-  Nangi oonton pa Nabizaadiyon ko bithlaye
-  Khauf o dehshat se aseerane bala tharraye
+  Phir tan-e-Shah ki taraf dekh ke bole baaba
+  Ye pisar kaise bandhe haathoṅ ko khole baaba
+  Dhup barsaane lagi aag ke gole baaba
+  Haiṅ mere paaṅv meiṅ garmi se phaphole baaba
 
   14
-  Ithni tezi se adu oonton ko dauraate the
-  Bachhe girte the jigar maaon ke phat jaate the
+  Pa ba zanjir huṅ kaise tumheiṅ dafnaauṅ main
+  Kaash aa jaaye abhi maut to mar jaauṅ main
 
   15
-  Aise aalam me Sakina ne pukara bhaiya
-  Pushte naaqa pe chhila jata hai seena bhaiya
-  Dard o gham se mera phat’ta hai kaleja bhaiya
-  Saans lena bhi toh dushwar hai mera bhaiya
+  Dhup tanhaai gharib-ul-watani bepidari
+  Haaye bimaari meri haaye meri bepidari
+  Ye asiri ye jafa tishna labi bepidari
+  Dasht-e-ghurbat meiṅ yatimi ko mili bepidari
 
   16
-  Is musibath se mujhe jald churalo bhaiya
-  Mar rahi hai ye behen aake bachalo bhaiya
+  Ik dil-e-tishna dahan aur hazaaroṅ nashtar
+  Baaba is haal meiṅ kis tarah se tai hoga safar
 
   17
-  Sunke aawaz-e-Sakina ko jo pahunche Sajjad
-  Boli bhaiya mujhe baba ki bahut aai hai yaad
-  Abhi sunne hi na paaye the behen ki faryad
-  Durre lehrate hue aagaye shaami jallad
+  Taaziyaane liye itne meiṅ sitamgar aaye
+  Durre bimaar pe be jurm o khata barsaaye
+  Nangi untoṅ pe Nabi zaadiyoṅ ko bithlaaye
+  Khauf o dahshat se asiraan-e-bala tharraaye
 
   18
-  Pusht par aisa kisi shaqs ne koda mara
-  Dil se ek aah uthi khaak pe beemar gira
+  Itni tezi se adu untoṅ ko dauraate the
+  Bachche girte the jigar maaoṅ ke phat jaate the
 
   19
-  Daud kar goad me Aabid ko liya Zainab ne
-  Dashte shafqath sare aqdas pe rakha Zainab ne
-  Rayth ko zaqmon se phir saaf kiya Zainab ne
-  Choom kar baazu e Sajjad kaha Zainab ne
+  Aise aalam meiṅ Sakina ne pukaara bhaiya
+  Pusht-e-naaqa pe chhila jaata hai sina bhaiya
+  Dard o gham se mera phatta hai kaleja bhaiya
+  Saans lena bhi to dushwaar hai mera bhaiya
 
   20
-  Uth mere laal phupi jaan ho qurba(n) tujh par
-  Imtehan aur bhi baaqi hain meri jaan tujh par
+  Is musibat se mujhe jald chhura lo bhaai
+  Mar rahi hai ye baheṅ aa ke bacha lo bhaai
 
   21
-  Ab tujhe sainkdon taklifen uthani hogi
-  Sar khule bibiyan aage tere chalti hongi
-  In nazaron se teri aankhen bhi chhalni hongi
-  Sakhtiyan raahe safar ki tujhe sehni hongi
+  Sun ke aawaaz-e-Sakina ko jo pahunche Sajjaad
+  Boli bhaiya mujhe baaba ki bahut aati hai yaad
+  Abhi sunne hi na paaye the baheṅ ki faryaad
+  Durre lahraate hue aa gaye Shaami jallaad
 
   22
-  Din me aaram na raaton ko bhi sona hoga
-  Dhoop ka odna mitti ka bichona hoga
+  Pusht par aisa kisi shakhs ne kora maara
+  Dil se ik aah uthi khaak pe bimaar gira
 
   23
-  Aag barsayenge zaalim tere sar par jani
-  Ashqiya phekenge tujh par abhi patthar jaani
-  Bibiyan sham me jayenge khule sar jaani
-  Tujhko rehna hai abhi qaid ke andar jani
+  Daur kar god meiṅ Aabid ko liya Zainab ne
+  Dasht-e-shafqat sar-e-aqdas pe rakha Zainab ne
+  Ret ko zakhmoṅ se phir saaf kiya Zainab ne
+  Chum kar baazu-e-Sajjaad kaha Zainab ne
 
   24
-  Khaatema tujh pa hare ek zulm ka hoga beta
-  Tu hai sabir ka pisar sabr dikhana hoga
+  Uth mere laal phuphi jaan ho qurbaaṅ tujh par
+  Imtihaaṅ aur bhi baaqi haiṅ meri jaaṅ tujh par
 
   25
-  Aakherash aye Madine me Shahinshahe anaam
-  Ay Mujeeb ham ne kiya Shah se ek din ye kalam
-  Sadma kab sabse zyada tumhe pahuncha hai Imam
-  Roke farmate the Sajjad ke al-Shaam al-Shaam
+  Ab tujhe sainkroṅ taklifeṅ uthaani hoṅgi
+  Sar khule bibiyaaṅ aage tere chalti hoṅgi
+  In nazaaroṅ se teri aaṅkheṅ bhi chhalni hoṅgi
+  Sakhtiyaṅ raah-e-safar ki tujhe sahni hoṅgi
 
   26
-  Saaneha Sham ke baazar ka bhoolun kaise
-  Waaqiya qasre sitamgar ka sunaon kaise.
+  Din meiṅ aaraam na raatoṅ ko bhi sona hoga
+  Dhup ka orna mitti ka bichhauna hoga
+
+  27
+  Aag barsaayeṅge zaalim tere sar par jaani
+  Ashqiya phekeiṅge tujh par abhi patthar jaani
+  Bibiyaaṅ Shaam meiṅ jaayeṅge khule sar jaani
+  Tujh ko rehna hai abhi qaid ke andar jaani
+
+  28
+  Khaatima tujh pe har ik zulm ka hoga beta
+  Tu hai saabir ka pisar sabr dikhaana beta
+
+  29
+  Aakhirash aaye Madine meiṅ Shahanshaah-e-anaam
+  Ae Mujib ham ne kiya Shah se ik din ye kalaam
+  Sadma kab sab se zyaada tumheiṅ pahuncha hai Imaam
+  Ro ke farmaate the Sajjaad ke Aashaam Aashaam
+
+  30
+  Saaniha Shaam ke baazaar ka bhuluṅ kaise
+  Waaqia qasr-e-sitamgar ka sunaauṅ kaise
 ---
 
 ۱

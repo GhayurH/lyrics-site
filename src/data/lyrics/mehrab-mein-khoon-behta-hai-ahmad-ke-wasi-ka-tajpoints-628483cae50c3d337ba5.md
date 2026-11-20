@@ -1,53 +1,98 @@
 ---
-title: "Mehrab Mein Khoon Behta Hai Ahmad Ke Wasi Ka"
+title: "محراب میں خون بہتا ہے احمد کے وصی کا"
+alternateTitle: "Mehrab Mein Khoon Behta Hai Ahmad Ke Wasi Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najam"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mehrab mein khoon behta hai Ahmad ke wasi ka
+
+  1
+  Mehrab mein khoon behta hai Ahmad ke wasi ka, Konain mein ik shoor hai bas haye Ali ka
+  Jibreel yeh detey hain sada arz-o-sama mein, Kuch din ke hain mehman Ali dar-e-fana mein
+  Be jurm-o-khata syed Abrar ko mara, Konain mein ik shoor hai bas haye Ali ka
+
+  2
+  Rangeen khoon se aaj imam-e-do sara hai, Our masjid Kofa mein ajab hashar bapa hai
+  Rotay hain namazi wa aliya ki hai sada, Konain mein ik shoor hai bas haye Ali ka
+  Ik bad nasal ne dein ka satoon dhaya diya hai aaj, Bidat ka hai, Aagaz Khawarij ka howa raaj
+  Ummat ne kardi ajar-e-risalat ki ibtida, Konain mein ik shoor hai bas haye Ali ka
+
+  3
+  Hasnain ne baba ko ajab haal mein dekha, Chehra lahu se tar, Sar-e-aqdas hai do parah
+  Dil shiddat gham se phata munh ko jigar aaya, Konain mein ik shoor hai bas haye Ali ka
+  Seena koi peetay koi sar peet raha hai, Har simt bapa giriya-o-matam ki sada hai
+  Ik our qayamat hoi bar khana-e-Zahra, Konain mein ik shoor hai bas haye Ali ka
+
+  4
+  Jarrah ne jab zakhm ajal kheiz ko dekha, Sar peet ke bola keh zehar kam kar chuka
+  Ab chand saaton ke hain mehmaan sheh Batha, Konain mein ik shoor hai bas haye Ali ka
+  Sun kar yeh sukhan zabt ka yara na reh saka, Zainab ne khud ko baap ke qadmo pe giraya
+  Matam kuna thi aal Ali e Asad Ullah, Konain mein ik shoor hai bas haye Ali ka
+
+  5
+  Hazrat ne sunay Zainab-o-Kulsoom ke nalay, Gash se hoye bedar basad yaas yeh bolay
+  Giriya tujhe karna hai bohat aye meri dukhiya, Konain mein ik shoor hai bas haye Ali ka
+  Shabbar se kaha aal Nabi tere hawalay, Ab tum ho imam-e-do jahan baad hamarey
+  Har amar-e-Elahi pe tumhein sabar hai karna, Konain mein ik shoor hai bas haye Ali ka
+
+  6
+  Phir Zainab-o-Shabir ko pas apne bolaya, Dono ka chehra dekh ke kartay rahe giriya
+  Manzar tha nigahon mein ayyaan Karb-o-Bala ka, Konain mein ik shoor hai bas haye Ali ka
+  Abbas se bolay keh yahan aao main wari, Shano ke liye bosay basad gham kayi bari
+  Farmaya hai Shabbir tera aaj se aaqa, Konain mein ik shoor hai bas haye Ali ka
+
+  7
+  Ikeeswin ki subha qayamat jo thi aayi, Zahra ke gharanay ke liye layi tabahi
+  Hasnain ke kandhoon pe tha baba ka janaza, Konain mein ik shoor hai bas haye Ali ka
+  Giriya kuna hain masjid Kofa ki fizaein, Ab koi nahi de ga saloni ki sadaein
+  Dunya se safar hai yeh Najam Haq ke wali ka, Konain mein ik shoor hai bas haye Ali ka
 ---
 
-1
-Mehrab Mein Khoon Behta Hai Ahmad Ke Wasi Ka.
-Mehrab Mein Khoon Behta Hai Ahmad Ke Wasi Ka, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Jibreel Yeh Detey Hain Sada Arz-o-Sama Mein, Kuch Din Ke Hain Mehman Ali Dar-e-Fana Mein.
-Be Jurm-o-Khata Syed Abrar Ko Mara, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+محراب میں خون بہتا ہے احمد کے وصی کا
 
-2
-Rangeen Khoon Se Aaj Imam-e-Do Sara Hai, Our Masjid Kofa Mein Ajab Hashar Bapa Hai.
-Rotay Hain Namazi Wa Aliya Ki Hai Sada, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Ik Bad Nasal Ne Dein Ka Satoon Dhaya Diya Hai Aaj, Bidat Ka Hai, Aagaz Khawarij Ka Howa Raaj.
-Ummat Ne Kardi Ajar-e-Risalat Ki Ibtida, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+۱
+محراب میں خون بہتا ہے احمد کے وصی کا، کونین میں اک شور ہے بس ہائے علی کا
+جبریل یہ دیتے ہیں صدا ارض و سما میں، کچھ دن کے ہیں مہمان علی دارِ فنا میں
+بے جرم و خطا سیدِ ابرار کو مارا، کونین میں اک شور ہے بس ہائے علی کا
 
-3
-Hasnain Ne Baba Ko Ajab Haal Mein Dekha, Chehra Lahu Se Tar, Sar-e-Aqdas Hai Do Parah.
-Dil Shiddat Gham Se Phata Munh Ko Jigar Aaya, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Seena Koi Peetay Koi Sar Peet Raha Hai, Har Simt Bapa Giriya-o-Matam Ki Sada Hai.
-Ik Our Qayamat Hoi Bar Khana-e-Zahra, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+۲
+رنگین خون سے آج امامِ دو سرا ہے، اور مسجدِ کوفہ میں عجب حشر بپا ہے
+روتے ہیں نمازی وا علیا کی ہے صدا، کونین میں اک شور ہے بس ہائے علی کا
+اک بد نسل نے دین کا ستون ڈھایا دیا ہے آج، بدعت کا ہے، آغاز خوارج کا ہوا راج
+امت نے کر دی اجرِ رسالت کی ابتدا، کونین میں اک شور ہے بس ہائے علی کا
 
-4
-Jarrah Ne Jab Zakhm Ajal Kheiz Ko Dekha, Sar Peet Ke Bola Keh Zehar Kam Kar Chuka.
-Ab Chand Saaton Ke Hain Mehmaan Sheh Batha, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Sun Kar Yeh Sukhan Zabt Ka Yara Na Reh Saka, Zainab Ne Khud Ko Baap Ke Qadmo Pe Giraya.
-Matam Kuna Thi Aal Ali e Asad Ullah, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+۳
+حسنین نے بابا کو عجب حال میں دیکھا، چہرہ لہو سے تر، سرِ اقدس ہے دو پارہ
+دل شدتِ غم سے پھٹا منہ کو جگر آیا، کونین میں اک شور ہے بس ہائے علی کا
+سینہ کوئی پیٹے کوئی سر پیٹ رہا ہے، ہر سمت بپا گریہ و ماتم کی صدا ہے
+اک اور قیامت ہوئی بر خانۂ زہرا، کونین میں اک شور ہے بس ہائے علی کا
 
-5
-Hazrat Ne Sunay Zainab-o-Kulsoom Ke Nalay, Gash Se Hoye Bedar Basad Yaas Yeh Bolay.
-Giriya Tujhe Karna Hai Bohat Aye Meri Dukhiya, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Shabbar Se Kaha Aal Nabi Tere Hawalay, Ab Tum Ho Imam-e-Do Jahan Baad Hamarey.
-Har Amar-e-Elahi Pe Tumhein Sabar Hai Karna, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+۴
+جراح نے جب زخمِ اجل خیز کو دیکھا، سر پیٹ کے بولا کہ زہر کام کر چکا
+اب چند ساعتوں کے ہیں مہمان شہِ بطحا، کونین میں اک شور ہے بس ہائے علی کا
+سن کر یہ سخن ضبط کا یارا نہ رہ سکا، زینب نے خود کو باپ کے قدموں پہ گرایا
+ماتم کناں تھی آلِ علیِ اسد اللہ، کونین میں اک شور ہے بس ہائے علی کا
 
-6
-Phir Zainab-o-Shabir Ko Pas Apne Bolaya, Dono Ka Chehra Dekh Ke Kartay Rahe Giriya.
-Manzar Tha Nigahon Mein Ayyaan Karb-o-Bala Ka, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Abbas Se Bolay Keh Yahan Aao Main Wari, Shano Ke Liye Bosay Basad Gham Kayi Bari.
-Farmaya Hai Shabbir Tera Aaj Se Aaqa, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+۵
+حضرت نے سنے زینب و کلثوم کے نالے، غش سے ہوئے بیدار بصد یاس یہ بولے
+گریہ تجھے کرنا ہے بہت اے میری دکھیّا، کونین میں اک شور ہے بس ہائے علی کا
+شبّر سے کہا آلِ نبی تیرے حوالے، اب تم ہو امامِ دو جہاں بعد ہمارے
+ہر امرِ الٰہی پہ تمہیں صبر ہے کرنا، کونین میں اک شور ہے بس ہائے علی کا
 
-7
-Ikeeswin Ki Subha Qayamat Jo Thi Aayi, Zahra Ke Gharanay Ke Liye Layi Tabahi.
-Hasnain Ke Kandhoon Pe Tha Baba Ka Janaza, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
-Giriya Kuna Hain Masjid Kofa Ki Fizaein, Ab Koi Nahi De Ga Saloni Ki Sadaein.
-Dunya Se Safar Hai Yeh Najam Haq Ke Wali Ka, Konain Mein Ik Shoor Hai Bas Haye Ali Ka.
+۶
+پھر زینب و شبیر کو پاس اپنے بلایا، دونوں کا چہرہ دیکھ کے کرتے رہے گریہ
+منظر تھا نگاہوں میں عیاں کرب و بلا کا، کونین میں اک شور ہے بس ہائے علی کا
+عباس سے بولے کہ یہاں آؤ میں واری، شانوں کے لیے بوسے بصد غم کئی باری
+فرمایا ہے شبیر تیرا آج سے آقا، کونین میں اک شور ہے بس ہائے علی کا
+
+۷
+اکیسویں کی صبح قیامت جو تھی آئی، زہرا کے گھرانے کے لیے لائی تباہی
+حسنین کے کاندھوں پہ تھا بابا کا جنازہ، کونین میں اک شور ہے بس ہائے علی کا
+گریہ کناں ہیں مسجدِ کوفہ کی فضائیں، اب کوئی نہیں دے گا سَلُونِی کی صدائیں
+دنیا سے سفر ہے یہ نجم حق کے ولی کا، کونین میں اک شور ہے بس ہائے علی کا

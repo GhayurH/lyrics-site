@@ -24,7 +24,7 @@ romanLyrics: |-
   Us pe sadqe namaaz ho jaaye
 
   3
-  Jis jagah tere naqsh-e-pa baithe
+  Jis jagah tir-e-naqsh-e-paa baithe
   Wo zamiṅ sarfaraaz ho jaaye
 
   4

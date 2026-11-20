@@ -1,46 +1,82 @@
 ---
-title: "Amma Tera Laal Hai Tanha Azadar E Batool"
+title: "امّاں تیرا لال ہے تنہا عزادارِ بتول"
+alternateTitle: "Amma Tera Laal Hai Tanha Azadar E Batool"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Amma tera laal hai tanha azadar e batool
+  Sheh kehte they maqtal mein chali aaein jo Zahra, Amma tera lal hai tanha
+  Zalim yeh mujhe detey hain tanhai ka tana, Amma tera lal hai tanha
+  Arman kayi dil mein they jo toot gaye hain
+  Jitnay bhi saharey they mere choot gaye hain
+  Abid ka hai ya behno ka hai mujh ko sahara, Amma tera lal hai tanha
+  Hal min ki sada suntay hi woh ho gayin be chain
+  Betay ki ghareebi pe kiye Zahra ne tab bain
+  Tanhai ke aalam mein jo mazloom pukara, Amma tera lal hai tanha
+  Aye maa zara tum hosla betay ka barha do
+  Talwar chalata hoon main tum mujh ko dua do
+  Abbas ke qatil se mujhe lena hai badlah, Amma tera lal hai tanha
+  Har simt se be kas pe laeen toot paray hain
+  Lekin jo mere dil mein hain woh zakhm barey hain
+  Kuch dair mein yeh zakhmi hai dam torne wala, Amma tera lal hai tanha
+  Ab pyas ki shiddat mujhe tarpaney lagi hai
+  Thandak teri aagosh ki yaad aane lagi hai
+  Aa kar dam-e-aakhir mujhe seene se lagana, Amma tera lal hai tanha
+  Main pyaron ke lashon ko uthata raha din bhar
+  Koi nahi jo lash uthaye meri aa kar
+  Gir jaon main jab zeen se tum mujh ko uthana, Amma tera lal hai tanha
+  Shehzada tera maut se kab darta hai amma
+  Par iss tarha ghurbat mein koi marta hai amma
+  Qatil yeh mere lotein gay mil kar mera lasha, Amma tera lal hai tanha
+  Abbas hain Akbar hain na Qasim hain jo aate
+  Asghar ki lehad aa ke mere sath banatay
+  Sheh roye uthatay hoye Asghar ka janaza, Amma tera lal hai tanha
+  Sar khak bhara peet ke Kulsoom thi roti
+  Maqtal ki taraf dekh ke Zainab thi tarapti
+  Rukh kar ke Baqiya ka jo kehti thi Sakina, Amma tera lal hai tanha
+  Shabbir ki gardan pe Asad chal gaya khanjar
+  Our dekhti hi reh ke gayin Shabbir ki madar
+  Our gonjti hi reh gayi yeh pyasay ki sada, Amma tera lal hai tanha
 ---
 
-1
-Amma Tera Laal Hai Tanha Azadar e Batool
-Sheh Kehte They Maqtal Mein Chali Aaein Jo Zahra Amma Tera Lal Hai Tanha.
-Zalim Yeh Mujhe Detey Hain Tanhai Ka Tana Amma Tera Lal Hai Tanha.
-Arman Kayi Dil Mein They Jo Toot Gaye Hain.
-Jitnay Bhi Saharey They Mere Choot Gaye Hain.
-Abid Ka Hai Ya Behno Ka Hai Mujh Ko Sahara Amma Tera Lal Hai Tanha.
-Hal Min Ki Sada Suntay Hi Woh Ho Gayin Be Chain.
-Betay Ki Ghareebi Pe Kiye Zahra Ne Tab Bain.
-Tanhai Ke Aalam Mein Jo Mazloom Pukara Amma Tera Lal Hai Tanha.
-Aye Maa Zara Tum Hosla Betay Ka Barha Do.
-Talwar Chalata Hoon Main Tum Mujh Ko Dua Do.
-Abbas Ke Qatil Se Mujhe Lena Hai Badlah Amma Tera Lal Hai Tanha.
-Har Simt Se Be Kas Pe Laeen Toot Paray Hain.
-Lekin Jo Mere Dil Mein Hain Woh Zakhm Barey Hain.
-Kuch Dair Mein Yeh Zakhmi Hai Dam Torne Wala Amma Tera Lal Hai Tanha.
-Ab Pyas Ki Shiddat Mujhe Tarpaney Lagi Hai.
-Thandak Teri Aagosh Ki Yaad Aane Lagi Hai.
-Aa Kar Dam-e-Aakhir Mujhe Seene Se Lagana Amma Tera Lal Hai Tanha.
-Main Pyaron Ke Lashon Ko Uthata Raha Din Bhar.
-Koi Nahi Jo Lash Uthaye Meri Aa Kar.
-Gir Jaon Main Jab Zeen Se Tum Mujh Ko Uthana Amma Tera Lal Hai Tanha.
-Shehzada Tera Maut Se Kab Darta Hai Amma.
-Par Iss Tarha Ghurbat Mein Koi Marta Hai Amma.
-Qatil Yeh Mere Lotein Gay Mil Kar Mera Lasha Amma Tera Lal Hai Tanha.
-Abbas Hain Akbar Hain Na Qasim Hain Jo Aate.
-Asghar Ki Lehad Aa Ke Mere Sath Banatay.
-Sheh Roye Uthatay Hoye Asghar Ka Janaza Amma Tera Lal Hai Tanha.
-Sar Khak Bhara Peet Ke Kulsoom Thi Roti.
-Maqtal Ki Taraf Dekh Ke Zainab Thi Tarapti.
-Rukh Kar Ke Baqiya Ka Jo Kehti Thi Sakina Amma Tera Lal Hai Tanha.
-Shabbir Ki Gardan Pe Asad Chal Gaya Khanjar.
-Our Dekhti Hi Reh Ke Gayin Shabbir Ki Madar.
-Our Gonjti Hi Reh Gayi Yeh Pyasay Ki Sada Amma Tera Lal Hai Tanha.
+۱
+امّاں تیرا لال ہے تنہا عزادارِ بتول
+شہ کہتے تھے مقتل میں چلی آئیں جو زہرا، امّاں تیرا لال ہے تنہا
+ظالم یہ مجھے دیتے ہیں تنہائی کا طعنہ، امّاں تیرا لال ہے تنہا
+ارمان کئی دل میں تھے جو ٹوٹ گئے ہیں
+جتنے بھی سہارے تھے میرے چھوٹ گئے ہیں
+عابد کا ہے یا بہنوں کا ہے مجھ کو سہارا، امّاں تیرا لال ہے تنہا
+ہل من کی صدا سنتے ہی وہ ہو گئیں بے چین
+بیٹے کی غریبی پہ کیے زہرا نے تب بین
+تنہائی کے عالم میں جو مظلوم پکارا، امّاں تیرا لال ہے تنہا
+اے ماں ذرا تم حوصلہ بیٹے کا بڑھا دو
+تلوار چلاتا ہوں میں تم مجھ کو دعا دو
+عباس کے قاتل سے مجھے لینا ہے بدلہ، امّاں تیرا لال ہے تنہا
+ہر سمت سے بے کس پہ لعیں ٹوٹ پڑے ہیں
+لیکن جو میرے دل میں ہیں وہ زخم بڑے ہیں
+کچھ دیر میں یہ زخمی ہے دم توڑنے والا، امّاں تیرا لال ہے تنہا
+اب پیاس کی شدت مجھے تڑپانے لگی ہے
+ٹھنڈک تری آغوش کی یاد آنے لگی ہے
+آ کر دمِ آخر مجھے سینے سے لگانا، امّاں تیرا لال ہے تنہا
+میں پیاروں کے لاشوں کو اٹھاتا رہا دن بھر
+کوئی نہیں جو لاش اٹھائے میری آ کر
+گر جاؤں میں جب زین سے تم مجھ کو اٹھانا، امّاں تیرا لال ہے تنہا
+شہزادہ تیرا موت سے کب ڈرتا ہے امّاں
+پر اس طرح غربت میں کوئی مرتا ہے امّاں
+قاتل یہ میرے لوٹیں گے مل کر میرا لاشہ، امّاں تیرا لال ہے تنہا
+عباس ہیں اکبر ہیں نہ قاسم ہیں جو آتے
+اصغر کی لحد آ کے میرے ساتھ بناتے
+شہ روئے اٹھاتے ہوئے اصغر کا جنازہ، امّاں تیرا لال ہے تنہا
+سر خاک بھرا پیٹ کے کلثوم تھی روتی
+مقتل کی طرف دیکھ کے زینب تھی تڑپتی
+رخ کر کے بقیع کا جو کہتی تھی سکینہ، امّاں تیرا لال ہے تنہا
+شبیر کی گردن پہ اسد چل گیا خنجر
+اور دیکھتی ہی رہ کے گئیں شبیر کی مادر
+اور گونجتی ہی رہ گئی یہ پیاسے کی صدا، امّاں تیرا لال ہے تنہا

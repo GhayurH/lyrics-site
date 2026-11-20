@@ -1,32 +1,54 @@
 ---
-title: "Malik E Jannat Ka Lasha Teeron Ke Hai Darmiyaan New Lyrics 2024"
+title: "مالکِ جنت کا لاشہ تیروں کے ہے درمیاں"
+alternateTitle: "Malik-e-Jannat Ka Lasha Teeron Ke Hai Darmiyaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Malik e jannat ka lasha teeron ke hai darmiyaan
+  Marne walay Hasan ko sab ke sab hain musalmaan
+
+  1
+  Ho gaya chalni badan baba ka Qasim ro kahey
+  Rook lo teeron ko aa ke chacha Ghazi ho kahan
+  Lash pe aa ke Hasan ki ro ke yeh madar kahey
+  Dekh ke ghurbat teri haye chor aayi Baqiya maa
+
+  2
+  Aayi Qasim pe yateemi Farwa bewah ho gayin
+  Kar diya Zahra ka ghar phir haye logon ne veraan
+  Aa gaya be dafan tere rozay se Shabar tera
+  Khainch ke lashay se roein teer haye bibiyaan
+
+  3
+  Rotay hain Shabbir nana Hasan ka zakhmi badan
+  Zehar de kar teer marey kafan mein hai khoon rawaan
+  Hai tere betay ki qatil teri ummat ya Nabi
+  Dukh karey Sajjad kaisay tere Shabar ke biyaan
 ---
 
-Malik e Jannat Ka Lasha Teeron Ke Hai Darmiyaan.
-Marne Walay Hasan Ko Sab Ke Sab Hain Musalmaan.
+مالکِ جنت کا لاشہ تیروں کے ہے درمیاں
+مارنے والے حسن کو سب کے سب ہیں مسلمان
 
-1
-Ho Gaya Chalni Badan Baba Ka Qasim Ro Kahey.
-Rook Lo Teeron Ko Aa Ke Chacha Ghazi Ho Kahan.
-Lash Pe Aa Ke Hasan Ki Ro Ke Yeh Madar Kahey.
-Dekh Ke Ghurbat Teri Haye Chor Aayi Baqiya Maa.
+۱
+ہو گیا چھلنی بدن بابا کا قاسم رو کہے
+روک لو تیروں کو آ کے چچا غازی ہو کہاں
+لاش پہ آ کے حسن کی رو کے یہ مادر کہے
+دیکھ کے غربت تیری ہائے چھوڑ آئی بقیع ماں
 
-2
-Aayi Qasim Pe Yateemi Farwa Bewah Ho Gayin.
-Kar Diya Zahra Ka Ghar Phir Haye Logon Ne Veraan.
-Aa Gaya Be Dafan Tere Rozay Se Shabar Tera.
-Khainch Ke Lashay Se Roein Teer Haye Bibiyaan.
+۲
+آئی قاسم پہ یتیمی فروہ بیوہ ہو گئیں
+کر دیا زہرا کا گھر پھر ہائے لوگوں نے ویراں
+آ گیا بے دفن تیرے روضے سے شبر تیرا
+کھینچ کے لاشے سے روئیں تیر ہائے بیبیاں
 
-3
-Rotay Hain Shabbir Nana Hasan Ka Zakhmi Badan.
-Zehar De Kar Teer Marey Kafan Mein Hai Khoon Rawaan.
-Hai Tere Betay Ki Qatil Teri Ummat Ya Nabi.
-Dukh Karey Sajjad Kaisay Tere Shabar Ke Biyaan.
+۳
+روتے ہیں شبیر نانا حسن کا زخمی بدن
+زہر دے کر تیر مارے کفن میں ہے خون رواں
+ہے تیرے بیٹے کی قاتل تیری امت یا نبی
+دکھ کرے سجاد کیسے تیرے شبر کے بیاں

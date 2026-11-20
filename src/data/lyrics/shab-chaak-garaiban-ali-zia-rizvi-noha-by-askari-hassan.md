@@ -9,193 +9,76 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Shab Chaak Garaiban Ali Zia Rizvi Noha By Askari Hassan"
-romanLyrics: 'Shab Chaak Garaiban Ali Zia Rizvi Noha by Askari Hassan.
-
+romanLyrics: |-
+  Shab chaak garebaaṅ sahar girya kunaaṅ hai
+  Makhluq-e-Khuda maail-e-faryaad o fughaaṅ hai
+  Maabain-e-zamin aasmaan mahshar ka samaaṅ hai
+  Unnisviṅ Ramzaan ka yeh haal bayaan hai
+  Taarikh yeh woh hai jo qayaamat se nahiṅ kam
+  Ae mominoṅ sar pito karo girya o maatam
 
   1
-
-  Shab Chak Girebaan Sahar Giriya Kuna Hai.
-
-  Makhlooq-e-Khuda Mail-e-Faryad-o-Fogaan Hai.
-
-  Ma Bain Zameen Aasmaan Mehshar Ka Samaa Hai.
-
-  Uneeswin Ramzan Ka Yeh Haal Biyaan Hai.
-
-  Tareekh Yeh Woh Hai Jo Qayamat Se Nahi Kam.
-
-  Aye Momino Sar Peeto Karo Giriya-o-Matam.
-
+  Faarigh jo tahajjud se hue faateh-e-Khaibar
+  Aur sehan mein aaye junhi hujre se nikal kar
+  Bas qasd kiya hi tha abhi jaane ka baahar
+  Hota ke ada fajr ka woh farz muqarrar
+  Murghaabiyoṅ ne gher liya Haq ke wali ko
+  Darwaaze se jaane nahiṅ deti thiṅ Ali ko
+  Darwaaze se jaane...
 
   2
-
-  Farig Jo Tahajud Se Hoye Fatah-e-Khaybar.
-
-  Our Sehan Mein Aaye Jonhi Hujray Se Nikal Kar.
-
-  Bas Qasad Kiya Hi Tha Abhi Jane Ka Bahir.
-
-  Hota Ke Ada Fajar Ka Woh Farz Muqarar.
-
-  Murgabiyon Ne Ghair Liya Haq Ke Wali Ko.
-
-  Darwazay Pe Jane Nahi Deti Thin Ali Ko.
-
+  Goya hue murghaabiyoṅ se Haidar-e-Karraar
+  Is uns ki de tum ko jazaa Khaaliq-e-Ghaffaar
+  Naale na karo sabr karo ae meri ghamkhwaar
+  Jo waqt muayyan hai woh talta nahiṅ zinhaar
+  Daaman ko mere chhor do yuṅ ashk na barsaao
+  Masjid mein mujhe jaane do darwaaze se hat jaao
+  Masjid mein mujhe...
 
   3
-
-  Goya huye murghabiyo se haidare karrar
-
-  Is uns ki de tumko jaza khaaliqe ghaffar
-
-  Naale na karo sabr karo ay meri ghamkhar
-
-  Jo waqt mueyan hai wo talta nahi zinhaar
-
-  Daman ko mere chordo yun ashq na barsao
-
-  Masjid may mujhe jaane do darwaze se hatt jao
-
-  Masjid may....
-
+  Pahunche junhi masjid mein Ali dekha yeh manzar
+  Aundha para sota hai laain ek zamin par
+  Jab us ke qarib pahunche to goya hue Haidar
+  Uth pairav-e-Iblis-e-shaqi aur sitamgar
+  Maalum hai sab kis liye tu aaya hai Kufa
+  Kis kaam ke karne ka yahaaṅ par hai iraada
+  Kis kaam ke...
 
   4
-
-  Pohanchay Jonhi Masjid Mein Ali Dekha Yeh Manzar.
-
-  Ondha Para Sota Hai Laeen Aik Zameen Par.
-
-  Jab Oss Ke Qareeb Aaye Tu Goya Hoye Haider.
-
-  Uth Pairway Iblees Shaqi Our Sitamgar.
-
-  Maloom Hai Sab Kis Liye Tu Aaya Hai Kofa.
-
-  Kis Kam Ke Karne Ka Yahan Par Hai Iradah.
-
+  Yeh keh ke azaaṅ dene lage khalq ke Maula
+  Mehraab-e-ibaadat mein hue zaib-e-musalle
+  Masruf hue taaat-e-Rab mein shah-e-waala
+  Thi fajr ki pehli woh rakat pehla woh sajda
+  Talwaar aqab se Bin Muljim ne lagaai
+  Do paara kiya sar ko jabiṅ tak utar aai
+  Do paara kiya...
 
   5
-
-  Yeh Keh Ke Azaan Deney Lagay Khalq Ke Maula.
-
-  Mehrab Ibadat Mein Hoye Zaib Musallay.
-
-  Masroof Hoye Taat e Rab Mein Shah e Wala.
-
-  Thi Fajar Ki Pehli Woh Rakat Pehla Woh Sajdah.
-
-  Talwar Aqab Se Bin-e-Muljim Ne Lagai.
-
-  Do Parah Kiya Sar Ko Jabeen Tak Utar Aayi.
-
+  Sar pit ke kehte the namaazi ke ae jallaad
+  Kya kar diya yeh khaana-e-Haq mein sitam ijaad
+  Ki Haq ke wali par yeh bhala kis liye bedaad
+  Faryaad hai faryaad hai faryaad hai faryaad
+  Is shor o fughaaṅ ko suna Hasnain ne jis dam
+  Masjid ko chale ghar se woh karte hue maatam
+  Masjid ko chale...
 
   6
-
-  Sar peet ke kehte thay namazi ke ay jallad
-
-  Kya kar diya ye khana e haq may sitam ejaad
-
-  Ki haq ke wali par ye bhala kis liye bedaad
-
-  Faryad hai faryad hai faryad hai faryad
-
-  Is shoro fughaan ko suna hasnain ne jis dum
-
-  Masjid ko chale ghar se wo karte hue matam
-
-  Masjid ko....
-
+  Hasnain ne aaluda ba khuṅ baap ko paaya
+  Woh bain kiye jis se ke muṅh ko jigar aaya
+  Phir ek chataai pe gharaz un ko litaaya
+  Ghamkhwaaroṅ ne zakhmi shah-e-Safdar ko uthaaya
+  Ghar laaye mabaada kahiṅ haalat na bigar jaaye
+  Sar khole hue Saani-e-Zahra na nikal aaye
+  Sar khole hue...
 
   7
-
-  Hasnain ne aaluda ba khoon baap ko paaya
-
-  Wo bain kiye jis se ke moo ko jigar aaya
-
-  Phir ek chataai pa gharaz unko litaya
-
-  Ghamkaron ne zaqmi shahe safdar ko uthaya
-
-  Ghar laaye mubada kahin haalat na bigadjaye
-
-  Sar khole hue saniye zahra na nikal aaye
-
-  Sar khole....
-
-
-  8
-
-  Dakhil Hoye Jab Ghar Mein Pisar Baap Ko Le Kar.
-
-  Waan Nalah-o-Shewan Se Bapa Ho Gaya Mehshar.
-
-  Thamay Hoye Thi Beti Koi Paon Koi Sar.
-
-  Aahista Se Hujray Mein Litaya Inhein Ja Kar.
-
-  Tha Wird-e-Zabaan Wa Aliya Aah-o-Boka Mein.
-
-  Aawaz Yehi Gonjti Thi Arz-o-Samaa Mein.
-
-
-  9
-
-  Dekhi Sar-e-Haider Ki Jo Jarah Ne Halat.
-
-  Seene Ko Laga Peetne Tari Hoi Riqqat.
-
-  Hosh Aaya Tu Kehne Laga Hai Zehar Ki Shiddat.
-
-  Nazdeek Hai Ab Nafs-e-Payamber Ki Shahadat.
-
-  Aalodah Thi Talwar Zehar Mein Jo Lagai.
-
-  Sab Jism Mein Phaila Hai Asar Haq Ki Dohai.
-
-
-  10
-
-  Yeh Suntay Hi Haider Pe Jo Riqqat Hoi Tari.
-
-  Kuch Hichkiyaan Iss Arsa Mein Aaein Kayi Bari.
-
-  Zainab Ne Yeh Dekha Tu Woh Ro Ro Kar Pukari.
-
-  Youn Chor Ke Tanha Na Humein Jaiye Wari.
-
-  Logo Mere Baba Ko Bacha Lo Koi Aa Kar.
-
-  Bach Jaein Agar Yeh Mujhe Sadqa Karo Inn Par.
-
-
-  11
-
-  Aye Momino Sar Peeto Qayamat Hoi Barpa.
-
-  Unees Ka Our Bees Ka Din Karb Mein Guzra.
-
-  Ikeeswin Tareekh Qayamat Ka Samaa Tha.
-
-  Har Shaks Tha Matam Kuna Har Lab Pe Tha Noha.
-
-  Zalim Ne Ghazab Kaba-e-Eman Ko Dhaya.
-
-  Jo Bad-e-Nabi Maula Tha Woh Hum Se Choraya.
-
-
-  12
-
-  Ikeeswin Ramzan Hai Kya Sab Ko Bataon.
-
-  Aadab Rafaqat Ke Zamane Ko Sikhaon.
-
-  Jo Guzri Rodad Ik Ik Ko Sunaon.
-
-  Ahmad Ka Wasi Mara Gaya Soag Manaon.
-
-  Ho Jate Hain Chehron Se Ayyaan Hizn Ke Aasaar.
-
-  Chupta Nahi Lakhon Mein Anees Aap Ka Ghamkhuwar.'
+  Daakhil hue jab ghar mein pisar baap ko le kar
+  Waaṅ naala o shaivan se bapa ho gaya mahshar
+  Thaame hue thi beti koi paaoṅ koi sar
+  Aahista se hujre mein litaaya inheṅ ja kar
+  Tha wird-e-zabaaṅ waa Aliyaa aah o bukaa mein
+  Aawaaz yahi gunjti thi arz o samaaṅ mein
+  Aawaaz yahi gunjti...
 ---
 
 شب چاک گریباں سحر گریہ کناں ہے

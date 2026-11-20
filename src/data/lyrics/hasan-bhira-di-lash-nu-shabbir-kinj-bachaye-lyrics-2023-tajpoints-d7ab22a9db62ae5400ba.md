@@ -1,29 +1,48 @@
 ---
-title: "Hasan Bhira Di Lash Nu Shabbir Kinj Bachaye Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "حسن بھرا دی لاش نوں شبیر کنج بچائے"
+alternateTitle: "Hasan Bhira Di Lash Nu Shabbir Kinj Bachaye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hasan bhira di lash nu Shabbir kinj bachaye Asghar Khan
+  Kadi wadh wadh rokay teraan nu kadi aa ke veer di maiyyat nu seene lagaye
+  Bas cholay nayi kafan v dowaan bhirawaan kitay arshaan taun bhaijay Rab ne
+  Ik kafan bina e rehna aye tayon kafan dowein e arshaan de Shabar nu pawaye
+
+  2
+  Shabbir wain paway jiwein janaziyaan te phul ne wasaye janday
+  Nanay de kalma gowaan ne saday veer de janazay te ainj teer wasaye
+  Jis veer che wekhi si bhaina ne sari zindagi hashmat Ali Wali di
+  Oss veer da lasha teraan nal bharya Shabbir kiwein bhaina nu wakhaye
+
+  3
+  Haider de dushmana ne ik lash kolon jiwein badlah liya aye apna
+  Har momina maa da farz way bachiyaan nu qatilaan de sab naam sikhaye
+  Saqlain Syedaan ne turbat di ja mangi si Bag-e-Fidak nayi mangiya
+  Maiyyat nu ghar taun le gaye si tehreer wangoon lashay nu ghar moor leaye
 ---
 
-1
-Hasan Bhira Di Lash Nu Shabbir Kinj Bachaye Asghar Khan.
-Kadi Wadh Wadh Rokay Teraan Nu Kadi Aa Ke Veer Di Maiyyat Nu Seene Lagaye.
-Bas Cholay Nayi Kafan V Dowaan Bhirawaan Kitay Arshaan Taun Bhaijay Rab Ne.
-Ik Kafan Bina E Rehna Aye Tayon Kafan Dowein E Arshaan De Shabar Nu Pawaye.
+۱
+حسن بھرا دی لاش نوں شبیر کنج بچائے اصغر خان
+کدی ودھ ودھ روکے تیراں نوں کدی آ کے ویر دی میت نوں سینے لگائے
+بس چولے نئیں کفن وی دواں بھراواں کیتے عرشاں توں بھیجے رب نے
+اک کفن بنا ای رہنا اے تائیں کفن دوویں ای عرشاں دے شبّر نوں پوائے
 
-2
-Shabbir Wain Paway Jiwein Janaziyaan Te Phul Ne Wasaye Janday.
-Nanay De Kalma Gowaan Ne Saday Veer De Janazay Te Ainj Teer Wasaye.
-Jis Veer Che Wekhi Si Bhaina Ne Sari Zindagi Hashmat Ali Wali Di.
-Oss Veer Da Lasha Teraan Nal Bharya Shabbir Kiwein Bhaina Nu Wakhaye.
+۲
+شبیر وین پاوے جیویں جنازیاں تے پھل نے وسائے جاندے
+نانے دے کلمہ گوآں نے ساڈے ویر دے جنازے تے اینج تیر وسائے
+جس ویر چ ویکھی سی بھیناں نے ساری زندگی حشمت علی ولی دی
+اوس ویر دا لاشہ تیراں نال بھریا شبیر کیویں بھیناں نوں وکھائے
 
-3
-Haider De Dushmana Ne Ik Lash Kolon Jiwein Badlah Liya Aye Apna.
-Har Momina Maa Da Farz Way Bachiyaan Nu Qatilaan De Sab Naam Sikhaye.
- Saqlain Syedaan Ne Turbat Di Ja Mangi Si Bag-e-Fidak Nayi Mangiya.
-Maiyyat Nu Ghar Taun Le Gaye Si Tehreer Wangoon Lashay Nu Ghar Moor Leaye.
+۳
+حیدر دے دشمناں نے اک لاش کولوں جیویں بدلہ لیا اے اپنا
+ہر مومنہ ماں دا فرض وے بچیاں نوں قاتلاں دے سب نام سکھائے
+ثقلین سیداں نے تربت دی جا منگی سی باغِ فدک نئیں منگیا
+میت نوں گھر توں لے گئے سی تحریر وانگوں لاشے نوں گھر موڑ لیائے

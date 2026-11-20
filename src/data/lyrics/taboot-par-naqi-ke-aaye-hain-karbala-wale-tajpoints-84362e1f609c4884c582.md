@@ -1,29 +1,50 @@
 ---
-title: "Taboot Par Naqi Ke Aaye Hain Karbala Wale"
+title: "تابوت پر نقی کے آئے ہیں کربلا والے"
+alternateTitle: "Taboot Par Naqi Ke Aaye Hain Karbala Wale"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Shahbaz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taboot par Naqi ke aaye hain Karbala wale
+  Mazloom Shah Naqi ko rotay hain khud Khuda walay
+  Zehar-e-sitam se kata mazloom ke jigar ko
+  Aaye hain dafan karne pardais mein Kisa walay
+
+  2
+  Bag-e-Rasool ke hain kuch phool bikhrey aisay
+  Na ho sakay zamane mein yakja yeh Mustafa walay
+  Aadam se le ke Khatim hain sogowar sare
+  Pursa Naqi ko deney aaye hain Murtaza walay
+
+  3
+  Hai pursa iss jahan mein Sadaat Syeda ka
+  Hadi jo deen ke hain Shahbaz Fatima walay
+
+  Basilsila-e-shahadat
+  Hazrat Imam Ali Naqi 3 Rajab
 ---
 
-1
-Taboot Par Naqi Ke Aaye Hain Karbala Wale.
-Mazloom Shah Naqi Ko Rotay Hain Khud Khuda Walay.
-Zehar-e-Sitam Se Kata Mazloom Ke Jigar Ko.
-Aaye Hain Dafan Karne Pardais Mein Kisa Walay.
+۱
+تابوت پر نقی کے آئے ہیں کربلا والے
+مظلوم شاہ نقی کو روتے ہیں خود خدا والے
+زہرِ ستم سے کٹا مظلوم کے جگر کو
+آئے ہیں دفن کرنے پردیس میں کساء والے
 
-2
-Bag-e-Rasool Ke Hain Kuch Phool Bikhrey Aisay.
-Na Ho Sakay Zamane Mein Yakja Yeh Mustafa Walay.
-Aadam Se Le Ke Khatim Hain Sogowar Sare.
-Pursa Naqi Ko Deney Aaye Hain Murtaza Walay.
+۲
+باغِ رسول کے ہیں کچھ پھول بکھرے ایسے
+نہ ہو سکے زمانے میں یکجا یہ مصطفیٰ والے
+آدم سے لے کے خاتم ہیں سوگوار سارے
+پرسہ نقی کو دینے آئے ہیں مرتضیٰ والے
 
-3
-Hai Pursa Iss Jahan Mein Sadaat Syeda Ka.
-Hadi Jo Deen Ke Hain Shahbaz Fatima Walay.
-Basilsila-e-Shahadat
-Hazrat Imam Ali Naqi 3 Rajab
+۳
+ہے پرسہ اس جہاں میں ساداتِ سیدہ کا
+ہادی جو دین کے ہیں شہباز فاطمہ والے
+
+بسلسلۂ شہادت
+حضرت امام علی نقی ۳ رجب

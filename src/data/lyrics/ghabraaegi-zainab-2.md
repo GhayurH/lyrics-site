@@ -12,46 +12,46 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghabraaegi Zainab ghabraaegi Zainab
-  Bhaiya tumheṅ ghar jaa ke kahaaṅ paaegi Zainab
+  Ghabraae gi Zainab ghabraae gi Zainab
+  Bhaiya tumheṅ ghar jaa ke kahaaṅ paae gi Zainab
 
-  Pardes hai ghurbat hai kahaaṅ jaaegi Zainab
-  Ghabraaegi Zainab ghabraaegi Zainab
+  Pardes hai ghurbat hai kahaaṅ jaae gi Zainab
+  Ghabraae gi Zainab ghabraae gi Zainab
 
   1
   Tum saani-e-Zehra ki gharibi ko samajhna
   Ghazi ki qasam hai tumheṅ bhaai na tarapna
-  Beparda teri laash pe jab aaegi Zainab
+  Beparda teri laash pe jab aae gi Zainab
 
   2
-  Kis tarah guzruṅgi qayaamat ka wo lamha
-  Jab shaam-e-gharibaaṅ meiṅ mera chaand na hoga
-  Baaba se nigaaheṅ na mila paaegi Zainab
+  Kis tarah guzruṅ gi qayaamat ka wo lamha
+  Jab shaam-e-gharibaaṅ mein mera chaand na ho ga
+  Baaba se nigaaheṅ na mila paae gi Zainab
 
   3
   Insaaf karo kaise behen dil ko sambhaale
   Is tanz ka ehsaas mujhe maar na daale
-  Baaghi ki behen Shaam meiṅ kehlaaegi Zainab
+  Baaghi ki behen Shaam mein kehlaae gi Zainab
 
   4
-  Tum meri tarah gham ye akele hi sahoge
-  Waada karo ye baat na Baano se kahoge
-  Zindaaṅ meiṅ Sakina ko jo dafnaaegi Zainab
+  Tum meri tarah gham ye akele hi saho ge
+  Waada karo ye baat na Baano se kaho ge
+  Zindaaṅ mein Sakina ko jo dafnaae gi Zainab
 
   5
-  Dekhi nahiṅ jaaeṅgi wo meinus nigaaheṅ
+  Dekhi nahiṅ jaae gi wo maayus nigaaheṅ
   Sughra jo use deti hai jine ki duaaeṅ
-  Akbar ke bina jab bhi watan jaaegi Zainab
+  Akbar ke bina jab bhi watan jaae gi Zainab
 
   6
-  Kya kya hua baazaar meiṅ batlaauṅgi kaise
-  Abdullah-e-Jafar ko maiṅ samjhaauṅgi kaise
-  Jab nil rasan ke unheṅ dikhlaaegi Zainab
+  Kya kya hua baazaar mein batlaauṅ gi kaise
+  Abdullah Jafar ko main samjhaauṅ gi kaise
+  Jab nil rasan ke unheṅ dikhlaae gi Zainab
 
   7
   Bhaai pe nazar kar ke Takallum wo pukaari
-  Bhaiya maiṅ samajhti huṅ tabiat ko tumhaari
-  Achchha ye sada lab pe nahiṅ laaegi Zainab
+  Bhaiya main samajhti huṅ tabiat ko tumhaari
+  Achchha ye sada lab pe nahiṅ laae gi Zainab
 ---
 
 گھبرائے گی زینب گھبرائے گی زینب

@@ -1,6 +1,6 @@
 ---
 title: "آخری وقت میں سجاد پکارے باقر"
-alternateTitle: "Aakhri Waqt Mein Sajjad Pokaray Baqir"
+alternateTitle: "Aakhri Waqt Mein Sajjad Pukaare Baaqir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,52 +10,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aakhri waqt mein Sajjad pokaray Baqir
-  Ghar yeh ab sara hawalay hai tumhare Baqir
-  Aini shahid ho tumhein Karb-o-Bala ke beta
-  Karbala mein jo howa tum ko pata hai sara
+  Aakhri waqt mein Sajjad pukaare Baaqir
+  Ghar yeh ab saara hawaale hai tumhaare Baaqir
+  Aini shaahid ho tumheiṅ karb o bala ke beta
+  Karbala mein jo hua tum ko pata hai saara
 
   2
-  Kis tarha dada tumhare gaye marey Baqir
-  Deen-o-Islam pe ghar apna lutaya sara
-  Qasim-o-Akbar-o-Ghazi, Ali Asghar bhi diya
-  Dasht mein so gaye baba ke saharey Baqir
+  Kis tarah daada tumhaare gaye maare Baaqir
+  Din o Islaam pe ghar apna lutaaya saara
+  Qaasim o Akbar o Ghaazi, Ali Asghar bhi diya
+  Dasht mein so gaye baaba ke sahaare Baaqir
 
   3
-  Sar katay, khaimay jalay lashein bhi pamal hoye
-  Dasht-e-Khonkhuwar mein Aal-e-Nabi be haal hoye
-  Yaad hai zulm ke manzar mujhe sare Baqir
-  Aik nezay pe rida aik pe sar baba ka
+  Sar kate, khaime jale laasheiṅ bhi paamaal hue
+  Dasht-e-khunkhwaar mein Aal-e-Nabi be haal hue
+  Yaad hai zulm ke manzar mujhe saare Baaqir
+  Aik neze pe rida aik pe sar baaba ka
 
   4
-  Tauq-o-Zanjeer pehan kar main chala payada pa
-  Be rida ahl-e-haram sath sidharay Baqir
-  Gir pari aount se jab meri Sakina khwahar
-  Ruk gaya nook-e-sina par mere baba ka sar
+  Tauq o zanjir pehan kar main chala piyaada paa
+  Be rida ahl-e-haram saath sidhaare Baaqir
+  Gir pari unt se jab meri Sakina khwaahar
+  Ruk gaya nok-e-sinaaṅ par mere baaba ka sar
 
   5
-  Shimar ne taziyane hain mujhe marey Baqir
-  Jaisay jaisay hi qareeb aata gaya Sham shehar
-  Maut aa jaye mujhe thi yeh dua honton par
-  Meri aankhon se bahay khon ke dharay Baqir
+  Shimar ne taaziyaane haiṅ mujhe maare Baaqir
+  Jaise jaise hi qarib aata gaya Shaam shehar
+  Maut aa jaaye mujhe thi yeh dua honton par
+  Meri aankhon se bahe khun ke dhaare Baaqir
 
   6
-  Har musibat mein mere sath rahi meri behan
-  Ho gayi mujh se juda Sham mein woh khasta badan
-  So gayi qaid mein woh goor kinaray Baqir
-  Shah ka naam jab aaya tu howa khoon jari
+  Har musibat mein mere saath rahi meri behan
+  Ho gayi mujh se juda Shaam mein woh khasta badan
+  So gayi qaid mein woh gor kinaare Baaqir
+  Shaah ka naam jab aaya to hua khun jaari
 
   7
-  Yaad tashheer-e-haram aayi tu pehar ki zaari
-  Zakhm pehar se hoye taza mere sare Baqir
-  Ghusal jab Syed-e-Sajjad ko Baqir ne diya
-  Khoon fishaan dekh ke baba ko yeh Baqir ne kaha
+  Yaad tashhir-e-haram aayi to phir ki zaari
+  Zakhm phir se hue taaza mere saare Baaqir
+  Ghusl jab Sayyid-e-Sajjad ko Baaqir ne diya
+  Khun fishaaṅ dekh ke baaba ko yeh Baaqir ne kaha
 
   8
-  Baba ghurbat pe tere jan ko warey Baqir
-  Mohtasham rota jahan se gaya haye haye Maula
-  Ro ke Baqir ne janazay pe yeh Sajjad kaha
-  Qabar mein aap ko kis tarha utaray Baqir
+  Baaba ghurbat pe tere jaaṅ ko waare Baaqir
+  Mohtasham rota jahaaṅ se gaya haaye haaye Maula
+  Ro ke Baaqir ne janaaze pe yeh Sajjad kaha
+  Qabr mein aap ko kis tarah utaare Baaqir
 ---
 
 ۱

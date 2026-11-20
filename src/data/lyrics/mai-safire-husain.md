@@ -1,6 +1,6 @@
 ---
 title: "مسلم عقیل ہوں سفیر حسین ہوں"
-alternateTitle: "Mai Safire Husain"
+alternateTitle: "Main Safir-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,111 +11,111 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Muslim e aqil huṅ safir e Husain huṅ
-  Baatil ka khauf e haq se kaleja laraz utha
-  Bas ek sada se haakim e kufa laraz utha
-  Ehsaas e qalb e haq huṅ zameer e Husaiṅ huṅ
-  Mai aashiq e ali huṅ assir e Husain huṅ
-  Zainab ka intekhab mushir e Husain huṅ
-  Pehchaan lo mujhko mai safir e Husain huṅ
-  Mai safir e Husain huṅ
-  Muslim e aqil huṅ mai jaan le jahaṅ
-  Ashjaul arab kahe zamin o aasmaṅ
-  Hashmi wirasatoṅ se azm hai jawaaṅ
-  Hyderi shuja'atein lahoon meiṅ hai rawaṅ
-  Mai waqt ka hisaar huṅ
-  Mai nur ki bahaar huṅ
-  Zamiṅ ka ikhtetaar huṅ
-  Falak ka iftekhar huṅ
-  Mai ishq ka sheaar huṅ
-  Wafa ka aetbaar huṅ
-  Dua ka ikhteyar huṅ
-  Mai sheh ka jaaṅ nisar huṅ
-  Mai safir e Husain huṅ...
-  Aetmaad rakta hai ali ka nur-e-ain
-  Ki mujhe imam ne siparatoṅ ki zain
-  Sar pe hai mere dua e shaah e mashraqain
-  Mai akela zaat mai huṅ lashkar e Husain
-  Mai hausle ki jast huṅ
-  Wafa e haq parast huṅ
-  Maye wila se mast huṅ
-  Mai diṅ ka bandobast huṅ
-  Mai aetebaar e hast huṅ
-  Mai har hisaar-e-dast huṅ
-  Mai kufa e zamir meiṅ
+  Muslim Aqil huṅ safir-e-Husain huṅ
+  Baatil khauf-e-haq se kaleja laraz utha
+  Bas ek sadaa se haakim-e-Kufa laraz utha
+  Ehsaas-e-qalb-e-haq huṅ
+  Zamir-e-Husain asir-e-Husain huṅ
+  Zainab ka intikhaab mushir-e-Husain huṅ
+  Pehchaan lo mujhko main safir-e-Husain huṅ
+  Main safir-e-Husain huṅ
+  Muslim Aqil huṅ main jaan le jahaaṅ
+  Ashjaul Arab kahe zamin o aasmaaṅ
+  Hashim wirasatoṅ se azm hai jawaaṅ
+  Haidari shujaateṅ lahu mein hai rawaaṅ
+  Main waqt ka hisaar huṅ
+  Main nur ki bahaar huṅ
+  Zamiṅ ka ikhtiyaar huṅ
+  Falak ka iftikhaar huṅ
+  Main ishq ka shiaar huṅ
+  Wafa ka aetibaar huṅ
+  Dua ka ikhtiyaar huṅ
+  Main sheh ka jaaṅ nisaar huṅ
+  Main safir-e-Husain huṅ...
+  Aetmaad rakhta hai Ali ka nur-e-ain
+  Ki mujhe Imam ne sipaartoṅ ki zain
+  Sar pe hai mere dua-e-Shaah-e-Mashriqain
+  Main akela zaat mein huṅ lashkar-e-Husain
+  Main hausle ki jast huṅ
+  Wafa-e-haq parast huṅ
+  Mai-e-wila se mast huṅ
+  Main diṅ ka bandobast huṅ
+  Main aetibaar-e-hast huṅ
+  Main har hisaar-e-dast huṅ
+  Main Kufa-e-zamir mein
   Yazid ki shikast huṅ
-  Mai safir e Husain huṅ...
-  Ye ghulame shaahe diṅ haq batayega
-  Sheh ka saath dega jo falaah payega
-  Jang jo karega mujhse maat khayega
-  Taygh se meri na koi bach ke jayega
-  Mai daur e inqelaab hoon
-  Mai taygh ka shabab huṅ
-  Mai nusratoṅ ka khwab huṅ
-  Mai khuṅ ka hisaab huṅ
-  Mai ilm ki kitaab huṅ
-  Mai jehl par azaab huṅ
-  Husain ki hasiṅ sifaratoṅ ka intekhab huṅ
-  Mai safir e Husain huṅ...
-  Aa raha huṅ chum kar qadam imam ka
-  Haat meiṅ baland hai alam imam ka
-  Leke aa raha huṅ mai bharam imam ka
-  Kufiyoṅ pata hai tum ko gham imam ka
+  Main safir-e-Husain huṅ...
+  Ye ghulaam-e-Shaah-e-diṅ haq bataaye ga
+  Sheh ka saath de ga jo falaah paaye ga
+  Jang jo kare ga mujh se maat khaaye ga
+  Tegh se meri na koi bach ke jaaye ga
+  Main daur-e-inqilaab laboṅ
+  Main tegh ka shabaab huṅ
+  Main nusratoṅ ka khwab huṅ
+  Main khuṅ ka hisaab huṅ
+  Main ilm ki kitaab huṅ
+  Main jehl par azaab huṅ
+  Husain ki hasiṅ sifaaratoṅ ka intikhaab huṅ
+  Main safir-e-Husain huṅ...
+  Aa raha huṅ chum kar qadam Imam ka
+  Haath mein buland hai alam Imam ka
+  Le ke aa raha huṅ bharam Imam ka
+  Kufiyoṅ pata hai tum ko gham Imam ka
   Zindagi hai tashna kaam
-  Din ka kab hai ehteram
+  Din ka kab hai ehtiraam
   Qatl o khun hai aaj aam
-  Mushkiloṅ meiṅ hai imam
-  Chor kar wafa awaam
-  Khwahishoṅ ki hai ghulam
+  Mushkiloṅ mein hai Imam
+  Chhor kar wafa awaam
+  Khwahishoṅ ki hai ghulaam
   Jo bhi hai mera kalaam
-  Hai Husain ka payam
-  Mai safir e Husain huṅ...
-  Ghaibate imam meiṅ ho aisa intezar
-  Ilm par yaqin ho amal pe aetebaar
-  Nasiran e haq ka phir se hona hai shumaar
-  Muntakhib safir hoga kaun ab ki baar
+  Hai Husain ka payaam
+  Main safir-e-Husain huṅ...
+  Ghaibat-e-Imam mein ho aisa intizaar
+  Ilm par yaqin ho amal pe aetibaar
+  Nasiraan-e-haq ka phir se hona hai shumaar
+  Muntakhab safir hoga kaun ab ki baar
   Agar ho saum aur salaat
-  Hajj o khums aur zakat
-  Amr aur nahi ki din e haq meiṅ saari mumkinaat
+  Hajj o khums aur zakaat
+  Amr aur nahiṅ ki din-e-haq mein saari mumkinaat
   Ho Husain hi Husain
   Bhul jaaye apni zaat
   Diṅ pe yuṅ amal kare
   To keh sake ye hum ye baat
-  Mai safir e Husain huṅ...
-  Muslim e gharib ne kiya hai jab kalaam
-  Marte dam nasib ho ziyarat e imam
-  Karbala uthi kiya hawaoṅ par qayam
-  Dekh kar Husain ko kaha hai as-salam
-  As salamo alaika ya aba abdillah
-  As salamo alaika yabna rasoolillah
+  Main safir-e-Husain huṅ...
+  Muslim-e-gharib ne kiya hai jab kalaam
+  Marte dam nasib ho ziyarat-e-Imam
+  Karbala uthi kya hawaaoṅ par khiyaam
+  Dekh kar Husain ko kaha hai as-salaam
+  As-salaam o alaik ya Aba Abdillah
+  As-salaam alaik ya bin Rasulullah
   Chur chur jism hai jigar hai paash paash
-  Hai kahaṅ pisar mere kahaṅ karuṅ talaash
-  Qatl kar ke le chale hai mujhko bad-khamash
-  Maut ke bhi baad hai safar meiṅ meri laash
-  Mai safir e Husain huṅ...
-  Nazim aur razi ki tarz sab se hai juda
-  Jaffar aur baksh bhai aur ali zia
-  Javedan hai lehja ab bhi sache bhai ka
-  Hum hai tifle maktab aur ye asaateza
-  Ye hai aza ka kaarwaṅ
-  Ye hai lehen ki kehkeshaṅ
-  Ye lehja o khayal meiṅ ghame Husain ki azaṅ
-  Ye karbala ki dastaaṅ
-  Yeh zikr sheh ka sayebaṅ
-  Azim hai jo nauhakhwan unhi ka huṅ mai tarjuma
-  Mai safir e Husain huṅ...
-  Rizwan farhan sab hai nauha gar
-  Nasir o shujah aur ali safdar
-  Shadmaṅ shahid o nadim sarwar
-  Sab ke sab ki ek hi sada hai ye qamar
-  Mai huṅ aza ke paksh par
-  Mai huṅ diloṅ ke arsh par
-  Mai majlisoṅ meiṅ nauha gar
-  Majlis aur julus meiṅ huṅ jalwa gar
+  Hai kahaaṅ pisar mere kahaaṅ karuṅ talaash
+  Qatl kar ke le chale haiṅ mujhko bad khamaash
+  Maut ke bhi baad hai safar mein meri laash
+  Main safir-e-Husain huṅ...
+  Nazim aur Razi ki tarz sab se hai juda
+  Jafar aur Bakhsh bhai aur Ali Zia
+  Javedana hai lehja ab bhi Sache bhai ka
+  Hum hai tifl-e-maktab aur ye asaatiza
+  Ye hai aza ka kaarwaaṅ
+  Ye hai lahn ki kahkashaaṅ
+  Ye lehja o khayaal mein gham-e-Husain ki azaaṅ
+  Ye Karbala ki daastaaṅ
+  Ye zikr-e-Sheh ka saayabaaṅ
+  Azim hai jo nauha khwaaṅ unhiṅ ka huṅ main tarjuma
+  Main safir-e-Husain huṅ...
+  Rizwaan Farhaan sab hai nauha gar
+  Nasir o Shuja aur Safdar
+  Shadmaaṅ Shahid o Nadim Sarwar
+  Sab ke sab ki ek hi sadaa hai ye Qamar
+  Main huṅ aza ke paksh par
+  Main huṅ diloṅ ke arsh par
+  Main majlisoṅ mein nauha gar
+  Majlis aur julus mein huṅ jalwa gar
   Gali gali nagar nagar
-  Mai aansuoṅ ka hamsafar
-  Mai puri kayenat meiṅ Husain ka payaam bar
-  Mai safir e Husain huṅ...
+  Main aansuoṅ ka hamsafar
+  Main puri kaainaat mein Husain ka payaam bar
+  Main safir-e-Husain huṅ...
 ---
 
 ۱

@@ -1,41 +1,72 @@
 ---
-title: "Haye Lal Ruqaiya De Pardes Che Maray Lyrics Punjabi 2023"
+title: "ہائے لال رقیہ دے پردیس چے مارے"
+alternateTitle: "Haye Lal Ruqaiya De Pardes Che Maray"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye lal Ruqaiya de pardes che maray
+  Zalim ne qatal kitay darya de kinaray
+  Ik dojay nu ro aakhan haye gal che pa ke banwaan
+  Asaan wichriyan mar jana kyun wekhna ayein rahwaan
+
+  2
+  Shehzada chota wal wal Ghazi nu pukarey
+  Qaidaan de wich aye rul gayi Muslim di haye jori
+  Masooma te zalim ne had zulm di har tori
+  Haris ne qatal kar ke sar haye utaray
+
+  3
+  Kofay na kala Muslim dardi nayi haye koi
+  Maa Zahra chad ke Baqiya aa lash uttay roi
+  Sar jholi pa ke rowaan mere lal pyaray
+  Shehzadiyaan nu miliya haye babay da na saya
+
+  4
+  Hai zalimaan di nagri haye dais aye paraya
+  Bikhrey ne jiwein haye Quran de parey
+  Chadiya watan Madina pardesan de wich aaye
+  Aakhan Hussain maula Kaba aman di jah aye
+
+  5
+  Ghar bar asaan nana tere deen taun warey
+  Sajjad likhe Asghar dukh bibi de sunaye
+  Haye sain Ruqaiya aye ro ro ke wain paye
+  Putraan de baaj kiwein maa Eid guzarey
 ---
 
-1
-Haye Lal Ruqaiya De Pardes Che Maray.
-Zalim Ne Qatal Kitay Darya De Kinaray.
-Ik Dojay Nu Ro Aakhan Haye Gal Che Pa Ke Banwaan.
-Asaan Wichriyan Mar Jana Kyun Wekhna Ayein Rahwaan.
+۱
+ہائے لال رقیہ دے پردیس چے مارے
+ظالم نے قتل کیتے دریا دے کنارے
+اک دوجے نوں رو آکھن ہائے گل چے پا کے بانہواں
+اساں وچھڑیاں مر جانا کیوں ویکھنا ایں راہواں
 
-2
-Shehzada Chota Wal Wal Ghazi Nu Pukarey.
-Qaidaan De Wich Aye Rul Gayi Muslim Di Haye Jori.
-Masooma Te Zalim Ne Had Zulm Di Har Tori.
-Haris Ne Qatal Kar Ke Sar Haye Utaray.
+۲
+شہزادہ چھوٹا ول ول غازی نوں پکارے
+قیداں دے وچ اے رُل گئی مسلم دی ہائے جوڑی
+معصوماں تے ظالم نے حد ظلم دی ہر توڑی
+حارث نے قتل کر کے سر ہائے اتارے
 
-3
-Kofay Na Kala Muslim Dardi Nayi Haye Koi.
-Maa Zahra Chad Ke Baqiya Aa Lash Uttay Roi.
-Sar Jholi Pa Ke Rowaan Mere Lal Pyaray.
-Shehzadiyaan Nu Miliya Haye Babay Da Na Saya.
+۳
+کوفے نا کلا مسلم دردی نئیں ہائے کوئی
+ماں زہرا چھڈ کے بقیع آ لاش اتے روئی
+سر جھولی پا کے روواں میرے لال پیارے
+شہزادیاں نوں ملیا ہائے بابے دا نہ سایہ
 
-4
-Hai Zalimaan Di Nagri Haye Dais Aye Paraya.
-Bikhrey Ne Jiwein Haye Quran De Parey.
-Chadiya Watan Madina Pardesan De Wich Aaye.
-Aakhan Hussain Maula Kaba Aman Di Jah Aye.
+۴
+ہائے ظالماں دی نگری ہائے دیس اے پرایا
+بکھرے نے جیویں ہائے قرآن دے پارے
+چھڈیا وطن مدینہ پردیساں دے وچ آئے
+آکھن حسین مولا کعبہ امن دی جا اے
 
-5
-Ghar Bar Asaan Nana Tere Deen Taun Warey.
- Sajjad Likhe Asghar Dukh Bibi De Sunaye.
-Haye Sain Ruqaiya Aye Ro Ro Ke Wain Paye.
-Putraan De Baaj Kiwein Maa Eid Guzarey.
+۵
+گھر بار اساں نانا تیرے دین توں وارے
+سجاد لکھے اصغر دکھ بی بی دے سنائے
+ہائے سائیں رقیہ اے رو رو کے وین پائے
+پتراں دے باجھ کیویں ماں عید گزارے

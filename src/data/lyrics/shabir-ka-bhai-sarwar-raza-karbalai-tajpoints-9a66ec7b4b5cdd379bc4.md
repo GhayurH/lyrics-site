@@ -1,53 +1,96 @@
 ---
-title: "Shabir Ka Bhai Sarwar Raza Karbalai"
+title: "شبیر کا بھائی سرور رضا کربلائی"
+alternateTitle: "Shabir Ka Bhai Sarwar Raza Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shabir ka bhai Sarwar Raza Karbalai
+
+  1
+  Jab barhaye qadam, le ke mashk-o-alam
+  Roab jah-o-hasham, aa Shabeer ka bhai
+  Mashk-o-alam le kar chala, darya ki janib jab barha
+  Bhagay sabhi kehte yehi, aaya Sakina ka chacha
+  Ho baho Murtaza, qamat e Mustafa
+  Shah ka bawafa aa Shabeer ka bhai
+
+  2
+  Aagay agar jo aa gaya, jaye ga jaan se ba Khuda
+  Shair-e-Khuda ka shair hoon, kar doon ga sar tan se juda
+  Main hoon aks-e-Ali, shair hoon Zainabi
+  Roab mujh mein jali aa Shabeer ka bhai
+  Aisi larai aafrin, larza falak kanpi zameen
+  Aisi chalai taig keh, tan hai kahin sar hai kahin
+
+  3
+  Kaisa hai majra, Shamiyon ne kaha
+  Yeh hai qehar-e-Khuda aa Shabeer ka bhai
+  Shabeer ka ghamkhuwar hai, maidaan mein be talwar hai
+  Zainab ka yeh hubdar hai, jag mein alambardar hai
+  Jab talak dam mein dam, roab jah-o-hasham
+  Hai nishani alam aa Shabeer ka bhai
+
+  4
+  Mashkeza jonhi chid gaya, ro kar yeh ghazi ne kaha
+  Kaisay main jaon laut kar, pani nahi jo la saka
+  Ro diya oss ghari, gir gaya oss ghari
+  Mar gaya oss ghari aa Shabeer ka bhai
+  Rahwar pe rahwar hai, ghazi ke lashay pe chaley
+  Bolay keh koi na raha, Shabeer ab tanha hoye
+
+  5
+  Kya ghazab ho gaya, sar tabhi kat gaya
+  Naizay pe uth gaya aa Shabeer ka bhai
+  Asif youn hi likhtay raho, Sarwar sada nohay parho
+  Woh pyas mein mara gaya, pyason ka tha jo aasra
+  Tu wafa ka Khuda, ba Khuda ba Khuda
+  Shah ki hai sada aa Shabeer ka bhai
 ---
 
-Shabir Ka Bhai Sarwar Raza Karbalai.
+شبیر کا بھائی سرور رضا کربلائی
 
-1
-Jab Barhaye Qadam, Le Ke Mashk-o-Alam.
-Roab Jah-o-Hasham, Aa Shabeer Ka Bhai.
-Mashk-o-Alam Le Kar Chala, Darya Ki Janib Jab Barha.
-Bhagay Sabhi Kehte Yehi, Aaya Sakina Ka Chacha.
-Ho Baho Murtaza, Qamat e Mustafa.
-Shah Ka Bawafa Aa Shabeer Ka Bhai.
+۱
+جب بڑھائے قدم، لے کے مشک و علم
+رعب جاہ و حشم، آ شبیر کا بھائی
+مشک و علم لے کر چلا، دریا کی جانب جب بڑھا
+بھاگے سبھی کہتے یہی، آیا سکینہ کا چچا
+ہو بہو مرتضیٰ، قامتِ مصطفیٰ
+شاہ کا باوفا آ شبیر کا بھائی
 
-2
-Aagay Agar Jo Aa Gaya, Jaye Ga Jaan Se Ba Khuda.
-Shair-e-Khuda Ka Shair Hoon, Kar Doon Ga Sar Tan Se Juda.
-Main Hoon Aks-e-Ali, Shair Hoon Zainabi.
-Roab Mujh Mein Jali Aa Shabeer Ka Bhai.
-Aisi Larai Aafrin, Larza Falak Kanpi Zameen.
-Aisi Chalai Taig Keh, Tan Hai Kahin Sar Hai Kahin.
+۲
+آگے اگر جو آ گیا، جائے گا جان سے بخدا
+شیرِ خدا کا شیر ہوں، کر دوں گا سر تن سے جدا
+میں ہوں عکسِ علی، شیر ہوں زینبی
+رعب مجھ میں جلی آ شبیر کا بھائی
+ایسی لڑائی آفریں، لرزا فلک کانپی زمین
+ایسی چلائی تیغ کہ، تن ہے کہیں سر ہے کہیں
 
-3
-Kaisa Hai Majra, Shamiyon Ne Kaha.
-Yeh Hai Qehar-e-Khuda Aa Shabeer Ka Bhai.
-Shabeer Ka Ghamkhuwar Hai, Maidaan Mein Be Talwar Hai.
-Zainab Ka Yeh Hubdar Hai, Jag Mein Alambardar Hai.
-Jab Talak Dam Mein Dam, Roab Jah-o-Hasham.
-Hai Nishani Alam Aa Shabeer Ka Bhai.
+۳
+کیسا ہے ماجرا، شامیوں نے کہا
+یہ ہے قہرِ خدا آ شبیر کا بھائی
+شبیر کا غمخوار ہے، میدان میں بے تلوار ہے
+زینب کا یہ حب دار ہے، جگ میں علم بردار ہے
+جب تلک دم میں دم، رعب جاہ و حشم
+ہے نشانی علم آ شبیر کا بھائی
 
-4
-Mashkeza Jonhi Chid Gaya, Ro Kar Yeh Ghazi Ne Kaha.
-Kaisay Main Jaon Laut Kar, Pani Nahi Jo La Saka.
-Ro Diya Oss Ghari, Gir Gaya Oss Ghari.
-Mar Gaya Oss Ghari Aa Shabeer Ka Bhai.
-Rahwar Pe Rahwar Hai, Ghazi Ke Lashay Pe Chaley.
-Bolay Keh Koi Na Raha, Shabeer Ab Tanha Hoye.
+۴
+مشکیزہ جونہی چھد گیا، رو کر یہ غازی نے کہا
+کیسے میں جاؤں لوٹ کر، پانی نہیں جو لا سکا
+رو دیا اس گھڑی، گر گیا اس گھڑی
+مر گیا اس گھڑی آ شبیر کا بھائی
+رہوار پہ رہوار ہے، غازی کے لاشے پہ چلے
+بولے کہ کوئی نہ رہا، شبیر اب تنہا ہوئے
 
-5
-Kya Ghazab Ho Gaya, Sar Tabhi Kat Gaya.
-Naizay Pe Uth Gaya Aa Shabeer Ka Bhai.
- Asif Youn Hi Likhtay Raho, Sarwar Sada Nohay Parho.
-Woh Pyas Mein Mara Gaya, Pyason Ka Tha Jo Aasra.
-Tu Wafa Ka Khuda, Ba Khuda Ba Khuda.
-Shah Ki Hai Sada Aa Shabeer Ka Bhai.
+۵
+کیا غضب ہو گیا، سر تبھی کٹ گیا
+نیزے پہ اٹھ گیا آ شبیر کا بھائی
+آصف یوں ہی لکھتے رہو، سرور سدا نوحے پڑھو
+وہ پیاس میں مارا گیا، پیاسوں کا تھا جو آسرا
+تو وفا کا خدا، بخدا بخدا
+شاہ کی ہے صدا آ شبیر کا بھائی

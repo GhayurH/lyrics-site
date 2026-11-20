@@ -11,14 +11,14 @@ tags: []
 aliases: ["Ay Raat Na Dhalna"]
 published: true
 romanLyrics: |-
-  Ae raat na dhalna ke ujar jaayegi Zainab
-  Bhai se dam-e-subh bichhar jaayegi Zainab
-  Ae raat na dhalna ke ujar jaayegi Zainab
+  Ae raat na dhalna ke ujar jaaye gi Zainab
+  Bhai se dam-e-subh bichhar jaaye gi Zainab
+  Ae raat na dhalna ke ujar jaaye gi Zainab
 
   1
-  Sone de Sakina ko ke phir so na sakegi
-  Rona bhi jo chaahegi to phir ro na sakegi
-  Asghar se mulaaqaat to phir ho na sakegi
+  Sone de Sakina ko ke phir so na sake gi
+  Rona bhi jo chaahe to phir ro na sake gi
+  Asghar se mulaaqaat to phir ho na sake gi
 
   2
   Ghabraaye huye laal haiṅ sehmi hui maaeṅ
@@ -26,13 +26,13 @@ romanLyrics: |-
   Lena hai abhi Aun o Muhammad ki balaaeṅ
 
   3
-  Ae raat bikhar ja tere bas meiṅ hai jahaaṅ tak
-  Mit jaayeṅge kal aal-e-payambar ke nishaaṅ tak
+  Ae raat bikhar jaa tere bas meiṅ hai jahaaṅ tak
+  Mit jaayeṅ ge kal aal-e-payambar ke nishaaṅ tak
   Baaqi hai ye manzar Ali Akbar ki azaaṅ tak
 
   4
   Har chand ke bachchoṅ ki abhi pyaas hai baaqi
-  Kuchh aaṅkh meiṅ hasrat hai to kuchh aas hai baaqi
+  Kuchh aaṅkh meiṅ hasrat hai kuchh aas hai baaqi
   Lekin mera bhai mera Abbas hai baaqi
 
   5
@@ -41,14 +41,14 @@ romanLyrics: |-
   Jhula Ali Asghar ka jhulaati hai Sakina
 
   6
-  Kal kaun sunega ye meri aah o buka bhi
+  Kal kaun sune ga ye meri aah o buka bhi
   Hoga tah-e-khanjar mere bhai ka gala bhi
-  Khaima to kuja sar pe na hogi ye rida bhi
+  Khaima to kujaa sar pe na ho gi ye rida bhi
 
   7
   Ae raat ghari bhar ko tu rehne de sukuṅ meiṅ
-  Ghir jaayeṅge Nasir mere aada ki safoṅ meiṅ
-  Ye chaand se chehre to nahaa jaayeṅge khuṅ meiṅ
+  Ghir jaayeṅ ge Nasir mere aada ki safoṅ meiṅ
+  Ye chaand se chehre to nahaa jaayeṅ ge khuṅ meiṅ
 ---
 
 اے رات نہ ڈھلنا کہ اجڑ جائے گی زینب

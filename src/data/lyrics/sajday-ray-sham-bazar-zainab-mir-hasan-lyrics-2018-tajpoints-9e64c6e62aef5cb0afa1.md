@@ -1,50 +1,91 @@
 ---
-title: "Sajday Ray Sham Bazar Zainab Mir Hasan Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "سجدے رہے شام بازار زینب"
+alternateTitle: "Sajday Ray Sham Bazar Zainab"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+reciter: "Mir Hasan Mir"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajday ray Sham bazar Zainab turdi rayi
+  Ray wasday pathar hazar Zainab turdi rayi
+
+  1
+  Sir nangay aynj tarpaya
+  Har moor te majma laya
+  Be-Pardah parday daar Zainab turdi rayi
+  Ik durray kand te likhiya
+
+  2
+  Sajjad kitay nayi rukna
+  Fair nayi kita inkar Zainab turdi rayi
+  Har ja tarpawan kitay
+  Zakhmaa te lawan kitay
+
+  3
+  Ray sutday shami khaar Zainab turdi rayi
+  Jis waqt Sakina khoi
+  Dig payi oh labdi hoi
+  Oss moor te kohniyaan bhaar Zainab turdi rayi
+
+  4
+  Aglay rasta na dewan
+  Te pichle wadhday aawan
+  Rondi hoi zaaro zaar Zainab turdi rayi
+  Naizay te veran saray
+
+  5
+  Odah maan nibhawan walay
+  Seh ke jhirkaan day waar Zainab turdi rayi
+  Jis ja te Abid rukya
+  Othon Zainab qadam na chukya
+
+  6
+  Jad taein turya bemar Zainab turdi rayi
+  Akbar hoya ki haal aye
+  Pay gaye pairaan wich chalay
+  Aaya jad tak na darbar Zainab turdi rayi
 ---
 
-Sajday Ray Sham Bazar Zainab Turdi Rayi Mir Hasan Mir.
-Ray Wasday Pathar Hazar Zainab Turdi Rayi.
+سجدے رہے شام بازار زینب ٹردی رہی
+رہے وسدے پتھر ہزار زینب ٹردی رہی
 
-1
-Sir Nangay Aynj Tarpaya.
-Har Moor Te Majma Laya.
-Be-Pardah Parday Daar Zainab Turdi Rayi.
-Ik Durray Kand Te Likhiya.
+۱
+سر ننگے اینج تڑپایا
+ہر موڑ تے مجمع لایا
+بے پردہ پردے دار زینب ٹردی رہی
+اک دُرّے کندھ تے لکھیا
 
-2
-Sajjad Kitay Nayi Rukna.
-Fair Nayi Kita Inkar Zainab Turdi Rayi.
-Har Ja Tarpawan Kitay.
-Zakhmaa Te Lawan Kitay.
+۲
+سجاد کتے نئیں رکنا
+فیر نئیں کیتا انکار زینب ٹردی رہی
+ہر جا تڑپاون کِیتے
+زخماں تے لاون کِیتے
 
-3
-Ray Sutday Shami Khaar Zainab Turdi Rayi.
-Jis Waqt Sakina Khoi.
-Dig Payi Oh Labdi Hoi.
-Oss Moor Te Kohniyaan Bhaar Zainab Turdi Rayi.
+۳
+رہے سٹدے شامی خار زینب ٹردی رہی
+جس وقت سکینہ کھوئی
+ڈگ پئی اوہ لبھدی ہوئی
+اوس موڑ تے کہنیاں بھار زینب ٹردی رہی
 
-4
-Aglay Rasta Na Dewan.
-Te Pichle Wadhday Aawan.
-Rondi Hoi Zaaro Zaar Zainab Turdi Rayi.
-Naizay Te Veran Saray.
+۴
+اگلے رستہ نہ دیون
+تے پچھلے ودھدے آون
+روندی ہوئی زار و زار زینب ٹردی رہی
+نیزے تے ویراں سارے
 
-5
-Odah Maan Nibhawan Walay.
-Seh Ke Jhirkaan Day Waar Zainab Turdi Rayi.
-Jis Ja Te Abid Rukya.
-Othon Zainab Qadam Na Chukya.
+۵
+اوہدا مان نبھاون والے
+سہہ کے جھڑکاں دے وار زینب ٹردی رہی
+جس جا تے عابد رکیا
+اوتھوں زینب قدم نہ چکیا
 
-6
-Jad Taein Turya Bemar Zainab Turdi Rayi.
- Akbar Hoya Ki Haal Aye.
-Pay Gaye Pairaan Wich Chalay.
-Aaya Jad Tak Na Darbar Zainab Turdi Rayi.
+۶
+جد تائیں ٹریا بیمار زینب ٹردی رہی
+اکبر ہویا کی حال اے
+پے گئے پیراں وچ چھالے
+آیا جد تک نہ دربار زینب ٹردی رہی

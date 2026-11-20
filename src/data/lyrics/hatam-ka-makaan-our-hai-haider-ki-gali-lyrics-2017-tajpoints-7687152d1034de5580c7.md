@@ -1,44 +1,78 @@
 ---
-title: "Hatam Ka Makaan Our Hai Haider Ki Gali Lyrics 2017"
+title: "حاتم کا مکاں اور ہے، حیدر کی گلی"
+alternateTitle: "Hatam Ka Makaan Our Hai Haider Ki Gali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hatam ka makaan our hai, Haider ki gali
+  Kehna nahi parta yahan sayal ko kabhi our
+
+  1
+  Inn aqal ke andhoon ko bhala koan bataye
+  Hota hai Khuda our na hota hai Ali our
+  Aye Bint-e-Asad jald pohanch jao harm mein
+  Chalta howa Kaba na chala aye teri our
+
+  2
+  Bheja na giya koi bhi Quran dobara
+  Likhi na gayi Nehaj-e-Balagah bhi koi our
+  Salman yeh kehte the Madine ke faqeero
+  Dekha hai koi Fateh-e-Khaiber sa ghani our
+
+  3
+  Khutbaat-e-Ali Asma-e-Husna se milaye
+  Kuch our tasawar mein tha, tasveer bani our
+  Kuch our Muhammad ke nawasay bhi tu hote
+  Juz Fatima hoti jo koi Bint-e-Nabi our
+
+  4
+  Salman batate hain Ali aein tu lasha
+  Jaag uthta hai, barh jati hai chehre ki khushi our
+  Hum zikar-e-Ali karte hain Hadi se Khuda tak
+  Apna na jali our hai na apna wali our
+
+  5
+  Hum shakal-e-Payamber ki jabeen par hai paseena
+  Takhleeq na ho jaein sawa lakh Nabi our
+  Haider ki sana par yehi dil kehta hai Akbar
+  Haan, our abhi our abhi our abhi our
 ---
 
-Hatam Ka Makaan Our Hai Haider Ki Gali Write Up
-Kehna Nahi Parta Yahan Sayal Ko Kabhi Our.
+حاتم کا مکاں اور ہے، حیدر کی گلی
+کہنا نہیں پڑتا یہاں سائل کو کبھی اور
 
-1
-Inn Aqal Ke Andhoon Ko Bhala Koan Bataye.
-Hota Hai Khuda Our Na Hota Hai Ali Our.
-Aye Bint-e-Asad Jald Pohanch Jao Harm Mein.
-Chalta Howa Kaba Na Chala Aye Teri Our.
+۱
+ان عقل کے اندھوں کو بھلا کون بتائے
+ہوتا ہے خدا اور نہ ہوتا ہے علی اور
+اے بنتِ اسد جلد پہنچ جاؤ حرم میں
+چلتا ہوا کعبہ نہ چلا آئے تیری اور
 
-2
-Bheja Na Giya Koi Bhi Quran Dobara.
-Likhi Na Gayi Nehaj-e-Balagah Bhi Koi Our.
-Salman Yeh Kehte The Madine Ke Faqeero.
-Dekha Hai Koi Fateh-e-Khaiber Sa Ghani Our.
+۲
+بھیجا نہ گیا کوئی بھی قرآن دوبارہ
+لکھی نہ گئی نہج البلاغہ بھی کوئی اور
+سلمان یہ کہتے تھے مدینے کے فقیرو
+دیکھا ہے کوئی فاتحِ خیبر سا غنی اور
 
-3
-Khutbaat-e-Ali Asma-e-Husna Se Milaye.
-Kuch Our Tasawar Mein Tha Tasveer Bani Our.
-Kuch Our Muhammad Ke Nawasay Bhi Tu Hote.
-Juz Fatima Hoti Jo Koi Bint-e-Nabi Our.
+۳
+خطباتِ علی اسمائے حسنیٰ سے ملائے
+کچھ اور تصور میں تھا، تصویر بنی اور
+کچھ اور محمد کے نواسے بھی تو ہوتے
+جز فاطمہ ہوتی جو کوئی بنتِ نبی اور
 
-4
-Salman Batate Hain Ali Aein Tu Lasha.
-Jaag Uthta Hai Barh Jati Hai Chehre Ki Khushi Our.
-Hum Zikar-e-Ali Karte Hain Hadi Se Khuda Tak.
-Apna Na Jali Our Hai Na Apna Wali Our.
+۴
+سلمان بتاتے ہیں علی آئیں تو لاشہ
+جاگ اٹھتا ہے، بڑھ جاتی ہے چہرے کی خوشی اور
+ہم ذکرِ علی کرتے ہیں ہادی سے خدا تک
+اپنا نہ جلی اور ہے نہ اپنا ولی اور
 
-5
-Hum Shakal-e-Payamber Ki Jabeen Par Hai Paseena.
-Takhleeq Na Ho Jaein Sawa Lakh Nabi Our.
-Haider Ki Sana Par Yehi Dil Kehta Hai Akbar.
-Haan Our Abhi Our Abhi Our Abhi Our.
+۵
+ہم شکلِ پیمبر کی جبیں پر ہے پسینہ
+تخلیق نہ ہو جائیں سوا لاکھ نبی اور
+حیدر کی ثنا پر یہی دل کہتا ہے اکبر
+ہاں، اور ابھی اور ابھی اور ابھی اور

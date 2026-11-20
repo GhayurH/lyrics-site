@@ -9,68 +9,70 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye sakina...(4)
-  Apne baba ki ladli hu mai, mujhko pardes me rulao na..(2)
-  Goshware mai khud utaarti hu, tum tamache mujhe lagao na
-  Apne baba ki..(2)
-  Haye sakina, haye sakina
+  Haaye Sakina
+  Apne baaba ki laadli huṅ main
+  Mujh ko pardes mein rulaao na
+  Goshwaare mein khud utaarti ho
+  Tum tamaache mujhe lagaao na
 
   2
-  1. Maar daala hai mere baba ko
-  Unke laashe ko mai sambhalungi
-  Apne nanhe se zakhmi haatho se
-  Teer unke sabhi nikalungi
-  Chhod jaao yahi sakina ko, tum aseera mujhe banao na
-  Apne baba ki..(2)
+  Haaye Sakina, haaye Sakina
+  Maar daala hai mere baaba ko
+  Un ke laashe ko main sambhaaluṅ gi
+  Apne nanhe se zakhmi haathoṅ se
+  Tir un ke sabhi nikaaluṅ gi
+  Chhor jaao yahiṅ Sakina ko, tum asira mujhe banaao na
 
   3
-  2. Mai bahan hu sagheer asghar ki
-  Mujhko choti batool kehte hai
-  Mere kaano se khoon jaari hai
-  Dekh aasu bhi mere behte hai
-  Teen din se bohot pyaasi hu, thoda paani mujhe pilao na
-  Apne baba ki..(2)
+  Main bahan ho Saghir Asghar ki
+  Mujh ko chhoti Batul kehte haiṅ
+  Mere kaanoṅ se khun jaari hai
+  Dekho aaṅsu bhi mere behte haiṅ
+  Tin din se bahut hi pyaasi huṅ
+  Thora paani mujhe pilaao na
 
   4
-  3. Mujhko sajjad dhoondhte honge
-  Meri phupiyan tadap rahi hongi
-  Baith kar khaak par wo khaimo ki
-  Chupke chupke sisak rahi hongi
-  Maine apno ke paas jaana, lillah unse mujhe milao na
-  Apne baba ki..(2)
+  Mujh ko Sajjad dhundte hoṅge
+  Meri phuphiyaaṅ tarap rahi hoṅgi
+  Baith kar raakh par woh khaimoṅ ki
+  Chupke chupke sisak rahi hoṅgi
+  Main ne apnoṅ ke paas jaana hai
+  Lillah un se mujhe milaao na
 
   5
-  4. Mai kali hu nabi ke gulshan ki
-  Mujhko tumne bohot sataya hai
-  Mere baba ko maar daala hai
-  Rehm tumko zara na aaya hai
-  Hogayi hu sehra mein, saath rehwaar ke daudao na
-  Apne baba ki..(2)
+  Main kali ho Nabi ke gulshan ki
+  Mujh ko tum ne bahut sataaya hai
+  Mere baaba ko maar daala hai
+  Rahm tum ko zara na aaya hai
+  Ho gai huṅ yatim sahra mein
+  Saath rahwaar ke dauraao na
 
   6
-  5. Rehm shere khuda ki poti par
-  Tumko shimr e laee nahi aata
-  Bhook hai pyaas hai nakahat hai
-  Mujhse paidal chala nahi jata
-  Saas lene do thodi der zara, taziyane mujhe lagao na
-  Apne baba ki..(2)
+  Rahm sher-e-Khuda ki poti par
+  Tum ko Shimr-e-laiṅ nahiṅ aata
+  Bhuk hai pyaas hai naqaahat hai
+  Mujh se paidal chala nahiṅ jaata
+  Saaṅs lene do thori der zara
+  Taaziyaane mujhe lagaao na
 
   7
-  6. Mere ghazi chacha agar hote
-  Tu mujhe is tarha satata na
-  Mujhko baalon se yu pakadta na
-  Khoon kaanon se yu bahata na
-  Berehem chhod mere baalon ko, ek yateema pe zulm dhaao na
-  Apne baba ki..(2)
+  Mere Ghazi chacha agar hote
+  Tu mujhe is tarah sataata na
+  Mujh ko baaloṅ se yuṅ pakarta na
+  Khun kaanoṅ se yuṅ bahaata na
+  Berahm chhor mere baaloṅ ko
+  Ik yatima pe zulm dhaao na
 
   8
-  7. Haye taukeer phool si bacchi
-  Shimr e maloon se yu kehti thi
-  Mai wo choti batool hu zalim
-  Seena e shaah pe jo rehti thi
-  Zulm karke dukhi sakina par, dard sajjad ke badhao na
-  Apne baba ki..(2)
-  Haye sakina.. Haye sakina
+  Haaye Tauqir phul si bachchi
+  Shimr malun se yeh kehti thi
+  Main woh chhoti Batul huṅ zaalim
+  Sina-e-Shaah pe jo rehti thi
+  Zulm kar ke dukhi Sakina par
+  Dard Sajjad ke barhaao na
+
+  9
+  Haaye Sakina.. Haaye Sakina
 ---
 
 ۱

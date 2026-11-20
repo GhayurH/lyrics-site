@@ -1,30 +1,41 @@
 ---
-title: "Main Sham Turpaiyaan Deen Di Baka"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "میں شام ٹر پئیاں دین دی بقا"
+alternateTitle: "Main Sham Turpaiyaan Deen Di Baka"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Main Sham tur paiyaan deen di baka ban kay
+  Tun mere sir tey ravin meri rida ban kay
+
+  1
+  Salar mera ayna gar tey safar okhai
+  Turangi naal mai bhi mardey shafa ban kay
+  Tun mere sir tey ravin meri rida ban kay
+  Main Sham tur paiyaan deen di baka ban kay
+
+  2
+  Mere tey pathran diyaan bhaway barishan howardh
+  Main kariyaan paiyaan tere qatl di gawan ban kay
+  Tun mere sir tey ravin meri rida ban kay
+  Main Sham tur paiyaan deen di baka ban kay
 ---
 
-Main Sham Tur Paiyaan Deen Di Baka Ban Kay
+میں شام ٹر پئیاں دین دی بقا بن کے
+توں میرے سر تے رہویں میری ردا بن کے
 
-Tun Mere Sir Tey Ravin Meri Rida Ban Kay
+۱
+سالار میرا ایناں گھر تے سفر اوکھا اے
+ٹراں گی نال میں بیمار دی شفا بن کے
+توں میرے سر تے رہویں میری ردا بن کے
+میں شام ٹر پئیاں دین دی بقا بن کے
 
-Salar Mera Ayna Gar tey Safar Okhai
-
-Turangi Naal Mai bhi Mardey Shafa ban kay
-
-Tun Mere Sir Tey Ravin Meri Rida Ban Kay
-
-Main Sham Tur Paiyaan Deen Di Baka Ban Kay
-
-Mere Tey Pathran Diyaan Bhaway Barishan Howardh
-
-Main Kariyaan Paiyaan Tere Qatl Di Gawan Ban Kay
-
-Tun Mere Sir Tey Ravin Meri Rida Ban Kay
-
-Main Sham Tur Paiyaan Deen Di Baka Ban Kay
+۲
+میرے تے پتھراں دیاں بھاویں بارشاں ہوون
+میں کھڑیاں پئیاں تیرے قتل دی گواہ بن کے
+توں میرے سر تے رہویں میری ردا بن کے
+میں شام ٹر پئیاں دین دی بقا بن کے

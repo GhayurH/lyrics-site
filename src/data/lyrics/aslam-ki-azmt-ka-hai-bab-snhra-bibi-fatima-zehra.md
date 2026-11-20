@@ -9,38 +9,30 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bibi fatema Zehra
-  Islam ki azmat ka,  Hay baab sunehra
+  Bibi Fatima Zehra
 
   1
-  Sadqe me tere bibi abad har ek anghan
-  Saye me tere bibi shiyyat ka jahaan roshan
-  Kirdaar tera bibi,  Duniya me ikehra
+  Islam ki azmat ka, hai baab sunehra
+  Bibi Fatima Zehra
+  Jalta hua darwaaza faasiq ne giraaya hai
+  Baazu pe tere Bibi chaabaq bhi chalaaya hai
+  Ehsaas kiya Bibi kuchh na tere ghar ka
+  Darbaar bulaaya hai naamus-e-payambar ko
+  Tukroṅ mein uraaya hai tahrir-e-payambar ko
+  Donoṅ ka hai is dil pe sadma bara gehra
+  Shioṅ ka sahaara hai Shabbir ka ye maatam
+  Har chiz se barh kar hai saadaat ke ghar ka gham
+  Darte nahiṅ ham chaahe sochoṅ pe ho pehra
 
   2
-  Panjetan ka wasila hay imaan ki taqat hai
-  Bibi ki ghulami hi ik sayaa-e-rehmat hai
-  Roshan hai har ek dil ka,  Ujla huwa sehra
+  Sadme jo sahe tune wo likh hi nahiṅ sakte
+  Bibi ke masaaib to ham keh bhi nahiṅ sakte
+  Taa hashr kareṅge ham, maatam tera Zehra
 
   3
-  Baba bhi mila aisa waris jo risalat ka
-  Shohar bhi mila aisa wo fakhr-e-shujaat ka
-  Beto ka hai is din se,  Rishta bharra gehra
-
-  4
-  Shiyo ka saharaa hai shabbir ka ye matam
-  Har cheez se barrhkar hai sadat ke ghar ka gham
-  Darte nahi ham chahe,  Sochon pe ho pehra
-
-  5
-  Sadme jo sahe tune wo likh hi nahi sakhte
-  Bibi ke masaaib to ham keh bhi nahi sakte
-  Ta hashr karenge ham,  Matam tera Zehra
-
-  6
-  Ummat na samaj payi tazeem risalat ko
-  Darbaro me layi hai tathir ki waris ko
-  Hai baagh-e-fiddak ab bhi,  Bas naam tere Zehra
+  Ummat na samajh paai taazim-e-risaalat ko
+  Darbaaro mein le aai hai tathir ki waaris ko
+  Hai baagh-e-Fadak ab bhi, bas naam tere Zehra
 ---
 
 بی‌بی فاطمہ زہرہ

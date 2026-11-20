@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Meri mazlum behna Sakina
   Meri maasum behna Sakina
-  Bole Sajjad shaana hila kar
+  Bole Sajjaad shaana hila kar
   Sakina Sakina
 
   Haaye zindaan tera watan ban gaya
@@ -24,7 +24,7 @@ romanLyrics: |-
   Kya karuṅ qaid khaana hai ye ghar nahiṅ
   Ghusl dene ko paani mayassar nahiṅ
   Aur kafnaauṅ kaise ke chaadar nahiṅ
-  Bekasi aur ghurbat meiṅ Ae ghamzada
+  Bekasi aur ghurbat meiṅ ae ghamzada
 
   2
   Jab tu royi tamaachoṅ ki paayi saza
@@ -41,18 +41,18 @@ romanLyrics: |-
   4
   Aisi bichhri ke phir baap se na mili
   Chhut ke Baba se zindaaṅ ki qaidi bani
-  Haaye ye baat Sajjad ko khaa gayi
-  Haaye tiroṅ se un ka kafan ban gaya
+  Haaye ye baat Sajjaad ko khaa gayi
+  Haaye tiroṅ se in ka kafan ban gaya
 
   5
   Tujh ko zindaaṅ meiṅ Baba ka sar jo mila
-  Tu ne Baba ke muṅh par jo muṅh ko rakha
+  Tu ne Baba ke munh par jo munh ko rakha
   Itna royi ke zindaaṅ larazne laga
   Rote rote hi aayi hai tujh ko qaza
 
   6
   Kam sini meiṅ sitam tu ne kitne sahe
-  Chaar saala yatima maiṅ sadqe tere
+  Chaar saala yatima main sadqe tere
   Baad-e-Aashur soyi nahiṅ chain se
   Chain mar ke bhi tujh ko nahiṅ mil saka
 

@@ -14,33 +14,33 @@ romanLyrics: |-
   1
   Kehti hai wafadari virsa hai alamdari
   Bedast hai phir bhi hai alamdar alamdar
-  Hai abbas alamdar abbas alamdar
-  Saqi abbas alamdar, abbas alamdar
-  Saqqa e sakina hai mashkeeza batata hai
-  Bhatke huwe logoṅ ko manzil se milata hai
-  Matam ke julusoṅ may aage nazar aata hai
-  Hai tera alam khaafila salaar alamdar
-  Abbas alamdar…
-  Abbas ye tujhse hai izhare wafadari
-  Pani ki sabileiṅ ye majlis ye azadari
-  Tere kate shano ka sadqa hai mere ghazi
-  Naukar hai tere saare azadar alamdar
-  Abbas alamdar…
-  Ye kaisi qayamat hai aulade payambar par
-  begor o kafan laashe seydaniya bechadar
-  Har bibi ye kehti hai dekho to zara aa kar
-  Jaate hai haram shaam ke bazaar alamdar
-  Abbas alamdar…
+  Hai Abbas alamdar Abbas alamdar
+  Sakhi Abbas alamdar, Abbas alamdar
+  Saqqa-e-Sakina hai mashkiza batata hai
+  Bhatke hue logoṅ ko manzil se milata hai
+  Maatam ke julusoṅ mein aage nazar aata hai
+  Hai tera alam qaafila salaar alamdar
+  Abbas alamdar...
+  Abbas ye tujh se hai izhaar-e-wafadari
+  Paani ki sabileṅ ye majlis ye azadari
+  Tere kate shaanoṅ ka sadqa hai mere ghaazi
+  Naukar haiṅ tere saare azadar alamdar
+  Abbas alamdar...
+  Ye kaisi qayaamat hai aulaad-e-payambar par
+  Be gor o kafan laashe sayyidaaniyaaṅ be chaadar
+  Har Bibi ye kehti hai dekho to zara aa kar
+  Jaate haiṅ haram Shaam ke bazaar alamdar
+  Abbas alamdar...
   Abbas ka girna tha jalti hui reti par
-  Sarwar ki kamar tuti zainab ki giri chadar
+  Sarwar ki kamar tuti Zainab ki giri chaadar
   Laashe pe nabi zaadi deti thi sada ro kar
   Maara gaya pyasoṅ ka madadgaar alamdar
-  Abbas alamdar…
-  Yawar ye hakeekat hai masum batate hai
-  Maula ki ziyarat ko jo khaafile aate hai
-  Jab karbobala ke wo nazdik pahunchte hai
-  Lene ke liye aate hai har baar alamdar
-  Abbas alamdar…
+  Abbas alamdar...
+  Yawar ye haqiqat hai maasum batate haiṅ
+  Maula ki ziyaarat ko jo qaafile aate haiṅ
+  Jab Karb o Bala ke wo nazdik pahuṅchte haiṅ
+  Lene ke liye aate haiṅ har baar alamdar
+  Abbas alamdar...
 ---
 
 ۱

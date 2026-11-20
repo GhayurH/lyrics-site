@@ -1,7 +1,7 @@
 ---
 title: "سورج نے ستاروں سے کہا سب سے الگ ہے"
 recitationId: "soraj-ne-sitaron-se-kaha-sab-se-alag-hai"
-alternateTitle: "Suraj Ne Sitaaroṅ Se Kaha Sab Se Alag Hai"
+alternateTitle: "Suraj Ne Sitaaroṅ Se Kahaa Sab Se Alag Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,40 +12,40 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Suraj ne sitaaroṅ se kaha sab se alag hai
-  Shabbir ke khaime ka diya sab se alag hai
+  Suraj ne sitaaroṅ se kahaa sab se alag hai
+  Shabbir ke khaime ka diyaa sab se alag hai
 
   1
-  Jab Hur ne kaha meri khata sab se alag hai
-  Maula ne kaha meri ataa sab se alag hai
+  Jab Hur ne kahaa meri khataa sab se alag hai
+  Maula ne kahaa meri ataa sab se alag hai
 
   2
-  Jab puchha gaya kis ki ziya sab se alag hai
-  To Kaabe ne kaha Karb o Balaa sab se alag hai
+  Jab puchha gayaa kis ki ziyaa sab se alag hai
+  To Kaabe ne kahaa Karb o Balaa sab se alag hai
 
   3
   Shabbir tere dar ki ataa kya ho bayaaṅ jab
   Beshir ke jhule ki ataa sab se alag hai
 
   4
-  Misam se kaha Ibn-e-Mazaahir ne kaha bhaai
-  Shabbir pe marne ka maza sab se alag hai
+  Misam se kahaa Ibn-e-Mazaahir ne kahaa bhaai
+  Shabbir pe marne ka mazaa sab se alag hai
 
   5
   Mahshar meiṅ alag kar ke hameiṅ Rab ye kahe ga
-  Haaṅ Fatima Zahra ki dua sab se alag hai
+  Haaṅ Fatima Zahra ki duaa sab se alag hai
 
   6
   Sajda use khud Sher-e-Ilaahi ne kiya hai
   Naadaano jabhi mera Khuda sab se alag hai
 
   7
-  Isa huṅ maiṅ murdoṅ ko shifa deta huṅ lekin
-  Ae Khaak-e-Shifa teri shifa sab se alag hai
+  Isa huṅ main murdoṅ ko shifaa deta huṅ lekin
+  Ae Khaak-e-Shifaa teri shifaa sab se alag hai
 
   8
   Milni hai Nusairi ko bhi har haal meiṅ lekin
-  Mahshar meiṅ muqassir ki saza sab se alag hai
+  Mahshar meiṅ muqassir ki sazaa sab se alag hai
 ---
 
 سورج نے ستاروں سے کہا سب سے الگ ہے

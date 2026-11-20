@@ -11,84 +11,84 @@ aliases:
   - "Al-Ajal Al-Ajal Ya Imam-E-Zamana Al-Ajal"
 published: true
 romanLyrics: |-
-  Al-Ajal Al-Ajal, Ya Imam-e-Zamana, Al-Ajal
+  Al-Ajal al-ajal, ya Imam-e-Zamana, al-ajal
 
-  Gar Ho Meri Hayaat Mere Ikhteyar Meiṅ,
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
-  Maula Ab Aap Parda-e-Ghaibat Uthaiye,
-  Do Din To Zindagi Ke Guzaruṅ Bahar Meiṅ
+  Gar ho miri hayaat mire ikhteyar meiṅ,
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
+  Maula ab aap parda-e-ghaibat uthaiye,
+  Do din to zindagi ke guzaruṅ bahar meiṅ
 
   1
-  Is Waqt Garche Adl Se Khali Zamin Hai
-  Mazlum Ke Makaan Meiṅ Zalim Makin Hai
-  Duniya Sitam-Shaar Hai, Maghlub Din Hai
-  Moula Zarur Aaenge, Mujhko Yaqin Hai
+  Is waqt garche adl se khali zamin hai
+  Mazlum ke makaan meiṅ zalim makin hai
+  Duniya sitam-shiaar hai, maghlub din hai
+  Maula zarur aaeṅ ge, mujh ko yaqin hai
 
-  Aaegi Kuch Kami Na Mere Aitbaar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Aae gi kuch kami na mire aitbaar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   2
-  Sab Log Khwahishat Ke Ab Ho Gaye Ghulam
-  Iblisiyat Ka Daur Hai, bePardagi Hai Aam
-  Pine Lage Lahu Haiṅ, To Khane Lage Haram
-  Kehta Hai Dil Ke Bas Abhi Aajaiye Imam
+  Sab log khwahishat ke ab ho gaye ghulam
+  Iblisiyat ka daur hai, bepardagi hai aam
+  Pine lage lahu haiṅ, to khane lage haram
+  Kehta hai dil ke bas abhi aa jaiye Imam
 
-  Gar Der Hai Mashiyat-e-Parwardigaar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Gar der hai mashiyat-e-parwardigaar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   3
-  Mushkil Ke Waqt Humne Pukara Hai Ya Husain
-  Ghaibat Ke Imtehaṅ Meiṅ Sahara Hai Ya Husain
-  Quran-e-Ahl-e-Bait Ka Paara Hai Ya Husain
-  Haq Ne Hamare Dil Pe Utara Hai Ya Husain
+  Mushkil ke waqt hum ne pukara hai ya Husain
+  Ghaibat ke imtehaaṅ meiṅ sahara hai ya Husain
+  Quran-e-Ahl-e-Bait ka paara hai ya Husain
+  Haq ne hamare dil pe utara hai ya Husain
 
-  Reh Kar Dua-e-Bint-e-Nabi Ke Hisaar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Reh kar dua-e-bint-e-Nabi ke hisaar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   4
-  Is Daur-e-Pur-Khatar Meiṅ Haiṅ Dushwar Manzileiṅ
-  Moula Is Imtehan Meiṅ Dil Ko Sukun De
-  Roza, Namaz, Haq Ke Manasik Ada Kareiṅ
-  Hum Sham, Karbala Ki Ziyarat Ko Ja Sakeiṅ
+  Is daur-e-pur-khatar meiṅ haiṅ dushwar manzileiṅ
+  Maula is imtehaan meiṅ dil ko sukun de
+  Roza, namaz, haq ke manasik ada kareiṅ
+  Hum Sham, Karbala ki ziyarat ko ja sakeiṅ
 
-  Aa Jaega Qaraar Dil-e-beQaraar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Aa jaae ga qaraar dil-e-beqaraar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   5
-  Khud-Kash Haiṅ Bam Dhamake, Hadd-e-Zulm o Jaur Hai
-  Kuch Saamne Hai Aur Pas-e-Manzar Kuch Aur Hai
-  Abhi Yazidiyat Ke Mazalim Ka Taur Hai
-  Garche Ye Mominin Pe Mushkil Ka Daur Hai
+  Khudkash haiṅ bam dhamaake, hadd-e-zulm o jaur hai
+  Kuch saamne hai aur pas-e-manzar kuch aur hai
+  Abhi Yazidiyat ke mazalim ka taur hai
+  Garche ye mominin pe mushkil ka daur hai
 
-  Duniya Ke Dard o Gham Haiṅ Bhala Kis Shumaar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Duniya ke dard o gham haiṅ bhala kis shumaar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   6
-  Ahl-e-Aza Ko Jurat o Tadbir Chahiye
-  Dekha Hai Khwab, Khwab Ki Tabir Chahiye
-  Taskin-e-Qalb-e-Madar-e-Shabbir Chahiye
-  Ab Jannat-ul-Baqi Ki Tamir Chahiye
+  Ahl-e-Aza ko jurat o tadbir chahiye
+  Dekha hai khwab, khwab ki tabir chahiye
+  Taskin-e-qalb-e-maadar-e-Shabbir chahiye
+  Ab Jannat-ul-Baqi ki tamir chahiye
 
-  Aa Jaegi Bahar Is Ujre Dayaar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Aa jaae gi bahar is ujre dayaar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   7
-  Alfaaz Se Diloṅ Pe Hukumat Mili Mujhe
-  Mazlumi-e-Husain Se Taqat Mili Mujhe
-  Mimbar Mila Husain Ka, Izzat Mili Mujhe
-  Badle Meiṅ Ek Ashk Ke Jannat Mili Mujhe
+  Alfaaz se diloṅ pe hukumat mili mujhe
+  Mazlumi-e-Husain se taqat mili mujhe
+  Mimbar mila Husain ka, izzat mili mujhe
+  Badle meiṅ ek ashk ke jannat mili mujhe
 
-  Ghaata Kabhi Hua Nahiṅ Is Karobaar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Ghaata kabhi hua nahiṅ is karobaar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 
   8
-  Dar Par Tumhare Hote Haiṅ Har Roz Mojize
-  Kitne Amir Ho Gaye Is Dar Ki Bhik Se
-  Sab Apne Apne Hisse Ki Khairat Le Gaye
-  Zikr-e-Imam-e-Asr Meiṅ Hissa Qamar Mile
+  Dar par tumhare hote haiṅ har roz mojize
+  Kitne amir ho gaye is dar ki bhik se
+  Sab apne apne hisse ki khairat le gaye
+  Zikr-e-Imam-e-Asr meiṅ hissa Qamar mile
 
-  Maiṅ Mutmain Huṅ, Maiṅ Bhi Khara Huṅ Qataar Meiṅ
-  Sadiyaṅ Guzar Dunga Tere Intezar Meiṅ
+  Main mutmain huṅ, main bhi khara huṅ qataar meiṅ
+  Sadiyaṅ guzar duṅ ga tire intezar meiṅ
 ---
 
 العجل العجل، یا امامِ زمانہؑ، العجل

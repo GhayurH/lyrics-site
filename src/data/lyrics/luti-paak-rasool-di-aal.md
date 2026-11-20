@@ -1,66 +1,120 @@
 ---
-title: "Luti Paak Rasool Di Aal"
+title: "لُٹی پاک رسول دی آل"
 alternateTitle: "Tapdiyan Raitan Te"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Luti paak Rasool di aal
+  Hoya chan Zahra pamal
+  Tapdiyan raitan te
+
+  1
+  Lokon Bibi Zahra saani
+  Paak Batool di paak nishaani
+  Khari ban wich khol ke waal
+
+  2
+  Daahda ummat zulam kamaya
+  Pyaase gal te teer chalaya
+  Haye maareya Asghar baal
+
+  3
+  Farwa akhay Zahra jaya
+  Dhup te onay dera laaya
+  Aa vekh Rubab da haal
+
+  4
+  Bhaina khariyan rassiyan paa ke
+  Kyun nai mureya nehr te jakay
+  Aa Ummal Baneen da laal
+
+  5
+  Kalla alam hai khaymay aaya
+  Chacha Ghazi kyun nai aaya
+  Ayho pyasay karan sawaal
+
+  6
+  Chan Qasim di rul gayi mehndi
+  Tapdi rait te dul gayi mehndi
+  Maa vekhdi hasrat naal
+
+  7
+  Jhunreya Akbar barchi khaa ke
+  Paak Hussain musafir akhay
+  Haye ujreya hussan jamaal
+
+  8
+  Behnaa tur kay Shaam nu jana
+  Teray lashay nay rah jana
+  Lujpaalan da lujpaal
+
+  9
+  Veera apna qoaul nibehsan
+  Tera chelum aan kerisan
+  Aawaan gee aglay saal
+
+  10
+  Eh Tauqeer ki dard sunaway
+  Ki Abid da haal vekahway
+  Jadon turya bairiyan naal
 ---
 
-Luti Paak Rasool Di Aal
-Hoya Chan Zahra Pamal
-Tapdiyan Raitan Te
+لُٹی پاک رسول دی آل
+ہویا چن زہرا پامال
+تپدیاں ریتاں تے
 
-1
-Lokon Bibi Zahra Saani
-Paak Batool Di Paak Nishaani
-Khari Ban Wich Khol Ke Waal
+۱
+لوکو بی بی زہرا ثانی
+پاک بتول دی پاک نشانی
+کھڑی بن وچ کھول کے وال
 
-2
-Daahda Ummat Zulam Kamaya
-Pyaase Gal Te Teer Chalaya
-Haye Maareya Asghar Baal
+۲
+ڈاہڈا امت ظلم کمایا
+پیاسے گل تے تیر چلایا
+ہائے ماریا اصغر بال
 
-3
-Farwa Akhay Zahra Jaya
-Dhup Te Onay Dera Laaya
-Aa Vekh Rubab Da Haal
+۳
+فروہ آکھے زہرا جایا
+دھپ تے اوہنے ڈیرہ لایا
+آ ویکھ رباب دا حال
 
-4
-Bhaina Khariyan Rassiyan Paa Ke
-Kyun Nai Mureya Nehr Te Jakay
-Aa Ummal Baneen Da Laal
+۴
+بھیناں کھڑیاں رسیاں پا کے
+کیوں نئیں مڑیا نہر تے جا کے
+آ ام البنین دا لال
 
-5
-Kalla Alam Hai Khaymay Aaya
-Chacha Ghazi Kyun Nai Aaya
-Ayho Pyasay Karan Sawaal
+۵
+کلّا علم ہی خیمے آیا
+چاچا غازی کیوں نئیں آیا
+ایہو پیاسے کرن سوال
 
-6
-Chan Qasim Di Rul Gayi Mehndi
-Tapdi Rait Te Dul Gayi Mehndi
-Maa Vekhdi Hasrat Naal
+۶
+چن قاسم دی رُل گئی مہندی
+تپدی ریت تے ڈُل گئی مہندی
+ماں ویکھدی حسرت نال
 
-7
-Jhunreya Akbar Barchi Khaa Ke
-Paak Hussain Musafir Akhay
-Haye Ujreya Hussan Jamaal
+۷
+جھُنڑیا اکبر برچھی کھا کے
+پاک حسین مسافر آکھے
+ہائے اجڑیا حسن جمال
 
-8
-Behnaa Tur Kay Shaam Nu Jana
-Teray Lashay Nay Rah Jana
-Lujpaalan Da Lujpaal
+۸
+بہناں تر کے شام نوں جانا
+تیرے لاشے نے رہ جانا
+لجپالاں دا لجپال
 
-9
-Veera Apna Qoaul Nibehsan
-Tera Chelum Aan Kerisan
-Aawaan Gee Aglay Saal
+۹
+ویرا اپنا قول نبھساں
+تیرا چہلم آں کریساں
+آواں گی اگلے سال
 
-10
-Eh Tauqeer Ki Dard Sunaway
-Ki Abid Da Haal Vekahway
-Jadon Turya Bairiyan Naal
+۱۰
+ایہ توقیر کی درد سناوے
+کی عابد دا حال ویکھاوے
+جدوں ترے ویریاں نال

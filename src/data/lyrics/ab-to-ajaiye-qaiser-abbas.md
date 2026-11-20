@@ -1,6 +1,6 @@
 ---
 title: "اب تو آ جائیے قیصر عباس"
-alternateTitle: "Ab To Ajaiye Qaiser Abbas"
+alternateTitle: "Ab To Aa Jaaiye Qaiser Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye Imam-e-Zamaan ab tu aa jaiye
-  Sab ke hajat rawa ab tu aa jaiye
-  Aap ka zikar rehta hai sham-o-sahar
-  Aap ko dhondti hai hamari nazar
-  Pardah-e-gaib ab tu hata jaiye
-  Aankh purnam hai our dil pareshan hai
-  Gham ke maron ki dunya bhi veeran hai
-  Nori dedar ab tu kara jaiye
-  Rah takti hai har ik nigah-e-bashar
-  Zulm kartay hain had se siwa ahl-e-shar
-  Adal-o-insaf-e-Yazdaan dikha jaiye
-  Aansoon se arezay likhatay hain hum
-  Gham ki halat mein khushiyaan manatay hain hum
-  Sab ghamo ko hamarey mita jaiye
-  Maula irfan hum ko atta kijiye
-  Aap jaisa bhi chahein bana dijiye
-  Qalb-e- Rizwan-o- Qaiser jila jaiye
+  Ae Imaam-e-Zamaaṅ ab to aa jaaiye
+  Sab ke haajat rawaa ab to aa jaaiye
+  Aap ka zikr rehta hai shaam o sahar
+  Aap ko dhundti hai hamaari nazar
+  Parda-e-ghaib ab to hataa jaaiye
+  Aankh purnam hai aur dil pareshaan hai
+  Gham ke maaroṅ ki duniya bhi viraan hai
+  Nuri didaar ab to karaa jaaiye
+  Raah takti hai har ik nigaah-e-bashar
+  Zulm karte haiṅ had se siwaa ahl-e-shar
+  Adl o insaaf-e-Yazdaaṅ dikhaa jaaiye
+  Aansuoṅ se arize likhte haiṅ ham
+  Gham ki haalat mein khushiyaaṅ manaate haiṅ ham
+  Sab ghamoṅ ko hamaare mitaa jaaiye
+  Maula irfaan ham ko ataa kijiye
+  Aap jaisaa bhi chaaheṅ banaa dijiye
+  Qalb-e-Rizwan o Qaiser jilaa jaaiye
 ---
 
 ۱

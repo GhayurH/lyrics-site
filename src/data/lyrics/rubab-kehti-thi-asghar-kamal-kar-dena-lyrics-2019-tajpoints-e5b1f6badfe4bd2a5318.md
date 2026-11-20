@@ -1,32 +1,54 @@
 ---
-title: "Rubab Kehti Thi Asghar Kamal Kar Dena Lyrics 2019"
+title: "رباب کہتی تھی اصغر کمال کر دینا"
+alternateTitle: "Rubab Kehti Thi Asghar Kamal Kar Dena"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rubab kehti thi Asghar kamal kar dena
+  Hussain jo bhi kahin mere lal kar dena
+
+  1
+  Tamam raat yehi loriyaan thin madar ki
+  Yeh jaan meri hai beta sanbhaal kar dena
+  Hussain choom ke gardan pisar ki kehtey rahe
+  Yeh kis se seekha hai gardan ko dhaal kar dena
+
+  2
+  Rubab dunya ko hairat hai teri himmat par
+  Yeh kab sehal tha kaleja nikal kar dena
+  Kaha tha maa ne koi keh na paye kamsin ho
+  Youn cheh mahino ko athara saal kar dena
+
+  3
+  Sakina kehti thi pani agar mile Asghar
+  Do dhont mere liye bhi sawal kar dena
+  Tha Karbala hi ki maon ga hosla Saqlain
+  Qaza ke hathon mein beton ko paal kar dena
 ---
 
-Rubab Kehti Thi Asghar Kamal Kar Dena.
-Hussain Jo Bhi Kahin Mere Lal Kar Dena.
+رباب کہتی تھی اصغر کمال کر دینا
+حسین جو بھی کہیں میرے لال کر دینا
 
-1
-Tamam Raat Yehi Loriyaan Thin Madar Ki.
-Yeh Jaan Meri Hai Beta Sanbhaal Kar Dena.
-Hussain Choom Ke Gardan Pisar Ki Kehtey Rahe.
-Yeh Kis Se Seekha Hai Gardan Ko Dhaal Kar Dena.
+۱
+تمام رات یہی لوریاں تھیں مادر کی
+یہ جان میری ہے بیٹا سنبھال کر دینا
+حسین چوم کے گردن پسر کی کہتے رہے
+یہ کس سے سیکھا ہے گردن کو ڈھال کر دینا
 
-2
-Rubab Dunya Ko Hairat Hai Teri Himmat Par.
-Yeh Kab Sehal Tha Kaleja Nikal Kar Dena.
-Kaha Tha Maa Ne Koi Keh Na Paye Kamsin Ho.
-Youn Cheh Mahino Ko Athara Saal Kar Dena.
+۲
+رباب دنیا کو حیرت ہے تیری ہمت پر
+یہ کب سہل تھا کلیجہ نکال کر دینا
+کہا تھا ماں نے کوئی کہہ نہ پائے کم سن ہو
+یوں چھ مہینوں کو اٹھارہ سال کر دینا
 
-3
-Sakina Kehti Thi Pani Agar Mile Asghar.
-Do Dhont Mere Liye Bhi Sawal Kar Dena.
-Tha Karbala Hi Ki Maon Ga Hosla Saqlain.
-Qaza Ke Hathon Mein Beton Ko Paal Kar Dena.
+۳
+سکینہ کہتی تھی پانی اگر ملے اصغر
+دو گھونٹ میرے لیے بھی سوال کر دینا
+تھا کربلا ہی کی ماؤں کا حوصلہ ثقلین
+قضا کے ہاتھوں میں بیٹوں کو پال کر دینا

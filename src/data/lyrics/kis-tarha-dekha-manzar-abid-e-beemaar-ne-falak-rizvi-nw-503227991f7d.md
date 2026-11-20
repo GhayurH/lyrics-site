@@ -4,9 +4,47 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kis tarah dekha woh manzar Aabid-e-Bimaar ne
+
+  1
+  Kis tarah dekha woh manzar Aabid-e-Bimaar ne
+  Sang baari ki jo Zainab par bhare baazaar ne
+
+  2
+  Hans ke lehraai sinaaṅ se baaraha baazaar meiṅ
+  Bint-e-Haidar ki rida Shimr-e-laiṅ badkaar ne
+
+  3
+  Shimr ne maare Sakina ko tamaache kis qadar
+  Kar diya zaahir yeh khuṅ behte hue rukhsaar ne
+
+  4
+  Khun roye umr bhar is gham meiṅ Sajjad-e-haziṅ
+  Be rida Zainab ko dekha majma-e-aghyaar ne
+
+  5
+  Maqtal-e-baazaar ka jaane kiya kaise safar
+  Be rida saiyidaaniyoṅ ke qaafila salaar ne
+
+  6
+  Karbala ke baad har lamha lahu ro kar kiya
+  Khuṅ ka maatam chashm-e-gham se Aabid-e-Bimaar ne
+
+  7
+  Har gali kuche meiṅ har baazaar har darbaar meiṅ
+  Chaadareiṅ maaṅgeiṅ musalmaanoṅ se ghairat daar ne
+
+  8
+  Jaane naamahram nigaahoṅ se nikalne waale tir
+  Kaise jhele saahibaan-e-ismat-e-athaar ne
+
+  9
+  Ghurbat-e-Aabid Falak Zahra se sunte hi Iram!
+  Der tak maatam kiya har ek maatam daar ne
 ---
 
 کس طرح دیکھا وہ منظر عابدِ بیمارؑ نے

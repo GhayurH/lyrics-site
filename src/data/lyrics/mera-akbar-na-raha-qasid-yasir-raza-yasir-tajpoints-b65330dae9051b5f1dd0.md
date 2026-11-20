@@ -1,34 +1,58 @@
 ---
-title: "Mera Akbar Na Raha Qasid Yasir Raza Yasir"
+title: "میرا اکبر نہ رہا قاصد یاسر رضا یاسر"
+alternateTitle: "Mera Akbar Na Raha Qasid Yasir Raza Yasir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Yasir"
-tags: ["noUrdu"]
+poet: "Yasir Raza Yasir"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mera Akbar na raha qasid Yasir Raza Yasir
+  Main sunaon kisay khat Sughra ka mera Akbar na raha qasid
+  Shah-e-wala ne yeh ro ro ke kaha mera Akbar na raha qasid
+  Kash aa jate jo tum pehle tu acha hota
+  Tum ko iss haal mein milta nahi zindah hota
+  Aaye ho ab sar-e-maidan-e-bala mera Akbar na raha qasid
+  Barchi seene mein hai tooti hoi dekho qasid
+  Sans hai halq mein atki hoi dekho qasid
+  Dam nikalta hai Ali Akbar ka mera Akbar na raha qasid
+  Keh raha tha hai akeli meri behna baba
+  Jane kis haal mein hogi meri Sughra baba
+  Ho ke Sughra se juda jee na saka mera Akbar na raha qasid
+  Iss ne martay hoye Sughra ko bohat yaad kiya
+  Dam nikalta raha Sughra ko sada deta raha
+  Apna wadah yeh nibha na paya mera Akbar na raha qasid
+  Kya bhala doon tujhey qasid khat-e-Sughra ka jawab
+  Khon mein doob gaya hai Ali Akbar ka shabab
+  Teri aankhon ne yeh khud dekh liya mera Akbar na raha qasid
+  Khat ka bosa liya phir seene Akbar pe rakha
+  Shah ne khon se Yasir khat-e-Sughra pe likha
+  Sabar ka waqt hai Innalillah mera Akbar na raha qasid
 ---
 
-1
-Mera Akbar Na Raha Qasid Yasir Raza Yasir.
-Main Sunaon Kisay Khat Sughra Ka Mera Akbar Na Raha Qasid.
-Shah-e-Wala Ne Yeh Ro Ro Ke Kaha Mera Akbar Na Raha Qasid.
-Kash Aa Jate Jo Tum Pehle Tu Acha Hota.
-Tum Ko Iss Haal Mein Milta Nahi Zindah Hota.
-Aaye Ho Ab Sar-e-Maidan-e-Bala Mera Akbar Na Raha Qasid.
-Barchi Seene Mein Hai Tooti Hoi Dekho Qasid.
-Sans Hai Halq Mein Atki Hoi Dekho Qasid.
-Dam Nikalta Hai Ali Akbar Ka Mera Akbar Na Raha Qasid.
-Keh Raha Tha Hai Akeli Meri Behna Baba.
-Jane Kis Haal Mein Hogi Meri Sughra Baba.
-Ho Ke Sughra Se Juda Jee Na Saka Mera Akbar Na Raha Qasid.
-Iss Ne Martay Hoye Sughra Ko Bohat Yaad Kiya.
-Dam Nikalta Raha Sughra Ko Sada Deta Raha.
-Apna Wadah Yeh Nibha Na Paya Mera Akbar Na Raha Qasid.
-Kya Bhala Doon Tujhey Qasid Khat-e-Sughra Ka Jawab.
-Khon Mein Doob Gaya Hai Ali Akbar Ka Shabab.
-Teri Aankhon Ne Yeh Khud Dekh Liya Mera Akbar Na Raha Qasid.
-Khat Ka Bosa Liya Phir Seene Akbar Pe Rakha.
-Shah Ne Khon Se Yasir Khat-e-Sughra Pe Likha.
-Sabar Ka Waqt Hai Innalillah Mera Akbar Na Raha Qasid.
+۱
+میرا اکبر نہ رہا قاصد یاسر رضا یاسر
+میں سناؤں کسے خط صغریٰ کا میرا اکبر نہ رہا قاصد
+شاہِ والا نے یہ رو رو کے کہا میرا اکبر نہ رہا قاصد
+کاش آ جاتے جو تم پہلے تو اچھا ہوتا
+تم کو اس حال میں ملتا نہیں زندہ ہوتا
+آئے ہو اب سرِ میدانِ بلا میرا اکبر نہ رہا قاصد
+برچھی سینے میں ہے ٹوٹی ہوئی دیکھو قاصد
+سانس ہے حلق میں اٹکی ہوئی دیکھو قاصد
+دم نکلتا ہے علی اکبر کا میرا اکبر نہ رہا قاصد
+کہہ رہا تھا ہے اکیلی میری بہنا بابا
+جانے کس حال میں ہوگی میری صغریٰ بابا
+ہو کے صغریٰ سے جدا جی نہ سکا میرا اکبر نہ رہا قاصد
+اس نے مرتے ہوئے صغریٰ کو بہت یاد کیا
+دم نکلتا رہا صغریٰ کو صدا دیتا رہا
+اپنا وعدہ یہ نبھا نہ پایا میرا اکبر نہ رہا قاصد
+کیا بھلا دوں تجھے قاصد خطِ صغریٰ کا جواب
+خون میں ڈوب گیا ہے علی اکبر کا شباب
+تیری آنکھوں نے یہ خود دیکھ لیا میرا اکبر نہ رہا قاصد
+خط کا بوسہ لیا پھر سینۂ اکبر پہ رکھا
+شاہ نے خون سے یاسر خطِ صغریٰ پہ لکھا
+صبر کا وقت ہے انا للہ میرا اکبر نہ رہا قاصد

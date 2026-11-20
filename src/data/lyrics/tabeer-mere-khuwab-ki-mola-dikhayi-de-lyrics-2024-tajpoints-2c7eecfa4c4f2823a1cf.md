@@ -1,47 +1,84 @@
 ---
-title: "Tabeer Mere Khuwab Ki Mola Dikhayi De Lyrics 2024"
+title: "تعبیر میرے خواب کی مولا دکھائی دے"
+alternateTitle: "Tabeer Mere Khuwab Ki Mola Dikhayi De"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tabeer mere khuwab ki Mola dikhayi de
+  Tameer hota Roza-e-Zahra dikhai de
+  Be saya turbaton pe bhi saya dikhai de
+  Parwardigar Gunbad-e-Baqiya dikhai de
+
+  2
+  Khizra ke sath aaye nazar Gunbad-e-Batool
+  Baba ke sath beti ka roza dikhai de
+  Phir nasab gunbadon pe ho Abbas ka alam
+  Lehrata unn pe sabz pharera dikhai de
+
+  3
+  Jaisay Nabi ke rozay pe aate hain qafilay
+  Waisay hi zairon ka risala dikhai de
+  Ho kar Nabi ke rozay se phir Janat Al-Baqee
+  Zair Dar-e-Batool pe aata dikhai de
+
+  4
+  Beti se bugz baap se dawa hai ishq ka
+  Be faida yeh ishq ka dawa dikhai de
+  Jan-e-Khadija, Bint-e-Muhammad se dushmani
+  Wallah do jahan ka khasara dikhai de
+
+  5
+  Raziya, Marziya-o-Siddiqa Rasool-e-Haq
+  Beti ko kehta Umm-e-Abeeha dikhai de
+  Chahe Mubahila ho keh Tatheer ki rida
+  Mehwar inhi mein Fatima Zahra dikhai de
+
+  6
+  Zahra ke dushmano pe tabarah karey na jo
+  Rishta zaror unn se ossi ka dikhai de
+  Ho izn jo Zyarat-e-Zahra ka Mohtasham
+  Parhta Baqi mein yeh qaseeda dikhai de
 ---
 
-1
-Tabeer Mere Khuwab Ki Mola Dikhayi De.
-Tameer Hota Roza-e-Zahra Dikhai De.
-Be Saya Turbaton Pe Bhi Saya Dikhai De.
-Parwardigar Gunbad-e-Baqiya Dikhai De.
+۱
+تعبیر میرے خواب کی مولا دکھائی دے
+تعمیر ہوتا روضۂ زہرا دکھائی دے
+بے سایہ تربتوں پہ بھی سایہ دکھائی دے
+پروردگار گنبدِ بقیع دکھائی دے
 
-2
-Khizra Ke Sath Aaye Nazar Gunbad-e-Batool.
-Baba Ke Sath Beti Ka Roza Dikhai De.
-Phir Nasab Gunbadon Pe Ho Abbas Ka Alam.
-Lehrata Unn Pe Sabz Pharera Dikhai De.
+۲
+خضرا کے ساتھ آئے نظر گنبدِ بتول
+بابا کے ساتھ بیٹی کا روضہ دکھائی دے
+پھر نصب گنبدوں پہ ہو عباس کا علم
+لہراتا اُن پہ سبز پھریرا دکھائی دے
 
-3
-Jaisay Nabi Ke Rozay Pe Aate Hain Qafilay.
-Waisay Hi Zairon Ka Risala Dikhai De.
-Ho Kar Nabi Ke Rozay Se Phir Janat Al-Baqee.
-Zair Dar-e-Batool Pe Aata Dikhai De.
+۳
+جیسے نبی کے روضے پہ آتے ہیں قافلے
+ویسے ہی زائروں کا رسالہ دکھائی دے
+ہو کر نبی کے روضے سے پھر جنت البقیع
+زائر درِ بتول پہ آتا دکھائی دے
 
-4
-Beti Se Bugz Baap Se Dawa Hai Ishq Ka.
-Be Faida Yeh Ishq Ka Dawa Dikhai De.
-Jan-e-Khadija, Bint-e-Muhammad Se Dushmani.
-Wallah Do Jahan Ka Khasara Dikhai De.
+۴
+بیٹی سے بغض باپ سے دعویٰ ہے عشق کا
+بے فائدہ یہ عشق کا دعویٰ دکھائی دے
+جانِ خدیجہ، بنتِ محمد سے دشمنی
+واللہ دو جہاں کا خسارہ دکھائی دے
 
-5
-Raziya, Marziya-o-Siddiqa Rasool-e-Haq.
-Beti Ko Kehta Umm-e-Abeeha Dikhai De.
-Chahe Mubahila Ho Keh Tatheer Ki Rida.
-Mehwar Inhi Mein Fatima Zahra Dikhai De.
+۵
+راضیہ، مرضیہ و صدیقہ رسولِ حق
+بیٹی کو کہتا اُمِّ ابیہا دکھائی دے
+چاہے مباہلہ ہو کہ تطہیر کی ردا
+محور انہی میں فاطمہ زہرا دکھائی دے
 
-6
-Zahra Ke Dushmano Pe Tabarah Karey Na Jo.
-Rishta Zaror Unn Se Ossi Ka Dikhai De.
-Ho Izn Jo Zyarat-e-Zahra Ka Mohtasham.
-Parhta Baqi Mein Yeh Qaseeda Dikhai De.
+۶
+زہرا کے دشمنوں پہ تبرّا کرے نہ جو
+رشتہ ضرور اُن سے اُسی کا دکھائی دے
+ہو اذن جو زیارتِ زہرا کا محتشم
+پڑھتا بقیع میں یہ قصیدہ دکھائی دے

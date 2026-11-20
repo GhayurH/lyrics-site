@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Andhere dasht meiṅ dukhiya Sakina kiuṅ chali aayeṅ
-  Tan besar ye kehta tha Sakina kiuṅ chali aayeṅ
+  Tan be sar ye kehta tha Sakina kiuṅ chali aayeṅ
 
   1
   Pare haiṅ khaak par tukre yahaṅ talwaaroṅ naize ke

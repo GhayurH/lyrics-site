@@ -12,65 +12,65 @@ tags: []
 aliases: ["Aao Zaware Hussain"]
 published: true
 romanLyrics: |-
-  Karbala tumko bulaati hai azadar-e-Husain
+  Karbala tum ko bulaati hai azaadaar-e-Husain
   Aao zawwar-e-Husain
-  Khud lagaaeṅ ge gale tumko sab ansaar-e-Husain
+  Khud lagaaeṅ ge gale tum ko sab ansaar-e-Husain
   Aao zawwar-e-Husain
 
   1
   Ek jaanib hai maqaam-e-Ali Akbar dekho
-  Ek maqam aisa ke gehwara-e-Asghar dekho
-  Har jagah sheh ke azadaaroṅ ka manzar dekho
-  Ambiya aur malak bhi hai azadar-e-Husain
+  Ak maqaam aisa ke gehwaara-e-Asghar dekho
+  Har jagah sheh ke azaadaaroṅ ka manzar dekho
+  Ambiya aur malak bhi hai azaadaar-e-Husain
   Aao zawwar-e-Husain
 
   2
-  Yaum-e-Ashur zara karbobala ko dekho
-  Jis jagah zulm hua uski fiza ko dekho
+  Yaum-e-Aashur zara Karbobala ko dekho
+  Jis jagah zulm hua us ki fiza ko dekho
   Khuṅ ugalti hui tum khaak-e-shifa ko dekho
-  Ab to har qaum hui jaati hai bimar-e-Husain
+  Ab to har qaum hui jaati hai bimaar-e-Husain
   Aao zawwar-e-Husain
 
   3
-  Bhai ki qabr pe jis roz ke aayi khwahar
+  Bhai ki qabr pe jis roz ke aayi khwaahar
   Aao zawwaroṅ usi din safar-e-chehlum par
-  Lahad-e-Shah talak hoga jo paidal ye safar
-  Deṅ gi har gaam dua maadar-e-ghamkhwar-e-Husain
+  Lahad-e-Shaah talak hoga jo paidal ye safar
+  Deṅ gi har gaam dua maadar-e-ghamkhwaar-e-Husain
   Aao zawwar-e-Husain
 
   4
-  Shahr-e-Shabbir meiṅ aa jao fazilat pao
-  Rizq o aulaad meiṅ aur saansoṅ meiṅ barkat pao
+  Shahr-e-Shabbir mein aa jao fazilat pao
+  Rizq o aulaad mein aur saansoṅ ka barkat pao
   Zinda reh kar bhi yahaaṅ fazl-e-shahaadat pao
   Ho ye koshish ke hameṅ dekh le Sarkar-e-Husain
   Aao zawwar-e-Husain
 
   5
-  Ek jali ayat-e-Allah hai ye karbobala
-  Ambiya ki bhi guzar raah hai ye karbobala
-  Azm-e-Shabbir se aagaah hai ye karbobala
+  Ak jali aayat-e-Allah hai ye Karbobala
+  Ambiya ki bhi guzar raah hai ye Karbobala
+  Azm-e-Shabbir se aagaah hai ye Karbobala
   Mil ke Shabbir se khud sikh lo kirdaar-e-Husain
   Aao zawwar-e-Husain
 
   6
-  Dil meiṅ Shabbir ho har dam chalo karbobala
-  Lab pe ho din ka paighaam chalo karbobala
-  Baandh kar Kaabe ka ehraam chalo karbobala
-  Bait-e-Allah bhi har waqt hai ghamkhwar-e-Husain
+  Dil mein Shabbir ho har dam chalo Karbobala
+  Lab pe ho din ka paighaam chalo Karbobala
+  Baandh kar Kaabe ehraam chalo Karbobala
+  Bait-e-Allah bhi har waqt hai ghamkhwaar-e-Husain
   Aao zawwar-e-Husain
 
   7
   Khud ba khud haath wahaaṅ jaate maatam ko uthe
-  Roz-e-Ashur jahaaṅ baazu-e-Abbas kate
+  Roz-e-Aashur jahaaṅ baazu-e-Abbas kate
   Shaah jab laasha-e-Abbas pe ye kehte chale
   Tum kamar tor gaye meri madadgaar-e-Husain
   Aao zawwar-e-Husain
 
   8
-  Chashm ko ashk-e-gham-e-Shah tar karna hai
-  Dil meiṅ har nasir-e-Shabbir ke ghar karna hai
-  Su-e-Shabbir kuch is tarha safar karna hai
-  Ho sada aa gaye wo Majid o Mukhtar-e-Husain
+  Chashm ko ashk-e-gham-e-Shaah tar karna hai
+  Dil mein har naasir-e-Shabbir ke ghar karna hai
+  Su-e-Shabbir kuch is tarah safar karna hai
+  Ho sadaa aa gaye wo Majid o Mukhtar-e-Husain
   Aao zawwar-e-Husain
 ---
 

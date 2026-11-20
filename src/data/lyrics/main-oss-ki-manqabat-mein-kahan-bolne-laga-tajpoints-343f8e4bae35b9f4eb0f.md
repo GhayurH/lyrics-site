@@ -1,29 +1,48 @@
 ---
-title: "Main Oss Ki Manqabat Mein Kahan Bolne Laga"
+title: "میں اُس کی منقبت میں کہاں بولنے لگا"
+alternateTitle: "Main Oss Ki Manqabat Mein Kahan Bolne Laga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main oss ki manqabat mein kahan bolne laga
+  Allah ka nabi jisay maa bolne laga
+  Juzdan jab se chadar-e-Zahra ka mil gaya
+  Quran Fatima ki zabaan bolne laga
+
+  2
+  Pocha Khuda ne kis ne jalaya dar-e-Batool
+  Ashab chup rahe tu dhuwaan bolne laga
+  Yeh Fatima ke naam ki taseer dekhiye
+  Nazdeek aain Rab ka makaan bolne laga
+
+  3
+  Rach bas gayi thi fizza mein khushbu Batool ki
+  Zahra ka lal unn ko bhi maa bolne laga
+  Rehan se jo pocha muhib-e-Ali hai tu
+  Luknat ke bawojood bhi haan bolne laga
 ---
 
-1
-Main Oss Ki Manqabat Mein Kahan Bolne Laga.
-ALLAH Ka Nabi Jisay Maa Bolne Laga.
-Juzdan Jab Se Chadar-e-Zahra Ka Mil Gaya.
-Quran Fatima Ki Zabaan Bolne Laga.
+۱
+میں اُس کی منقبت میں کہاں بولنے لگا
+اللہ کا نبی جسے ماں بولنے لگا
+جزدان جب سے چادرِ زہرا کا مل گیا
+قرآن فاطمہ کی زبان بولنے لگا
 
-2
-Pocha Khuda Ne Kis Ne Jalaya Dar-e-Batool.
-Ashab Chup Rahe Tu Dhuwaan Bolne Laga.
-Yeh Fatima Ke Naam Ki Taseer Dekhiye.
-Nazdeek Aain Rab Ka Makaan Bolne Laga.
+۲
+پوچھا خدا نے کس نے جلایا درِ بتول
+اصحاب چپ رہے تو دھواں بولنے لگا
+یہ فاطمہ کے نام کی تاثیر دیکھیے
+نزدیک آئیں رب کا مکان بولنے لگا
 
-3
-Rach Bas Gayi Thi Fizza Mein Khushbu Batool Ki.
-Zahra Ka Lal Unn Ko Bhi Maa Bolne Laga.
- Rehan Se Jo Pocha Muhib-e-Ali Hai Tu.
-Luknat Ke Bawojood Bhi Haan Bolne Laga.
+۳
+رچ بس گئی تھی فضا میں خوشبو بتول کی
+زہرا کا لال اُن کو بھی ماں بولنے لگا
+ریحان سے جو پوچھا محبِ علی ہے تُو
+لکنت کے باوجود بھی ہاں بولنے لگا

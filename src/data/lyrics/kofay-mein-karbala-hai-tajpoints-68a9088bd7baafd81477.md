@@ -1,38 +1,66 @@
 ---
-title: "Kofay Mein Karbala Hai"
+title: "کوفے میں کربلا ہے"
+alternateTitle: "Kofay Mein Karbala Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Farman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Howa qatal Murtaza hai Kofay mein Karbala hai
+  Jibreel ki sada hai Kofay mein Karbala hai
+
+  1
+  Khuda ke ghar jo chali hai taig-e-jafa sitam ki
+  Tar khoon se musalla hai Kofay mein Karbala hai
+  Tere waar ne kiya kya hai aye Ibn-e-Muljim
+  Har simt yeh buqa hai Kofay mein Karbala hai
+
+  2
+  Mara gaya namaz mein ik rozay daar ko
+  Kuhram ja baja hai Kofay mein Karbala hai
+  Kulsoom-o-Zainab hain be haal ho gayin
+  Giriya kuna Zahra hai Kofay mein Karbala hai
+
+  3
+  Sar peet ke rota hai Ghazi yeh dekh kar
+  Zakhmi Shair-e-Khuda hai Kofay mein Karbala hai
+  Madar ka abhi bholi kahan thi gham Zainab
+  Baba howa juda hai Kofay mein Karbala hai
+
+  4
+  Sajday mein sar Ali ka our waar hai shaqi ka
+  Qayamat ik bapa hai Kofay mein Karbala hai
+  Utha dehar se janaza Farman hai Ali ka
+  Ummat ki yeh jafa hai Kofay mein Karbala hai
 ---
 
-Howa Qatal Murtaza Hai Kofay Mein Karbala Hai.
-Jibreel Ki Sada Hai Kofay Mein Karbala Hai.
+ہوا قتل مرتضیٰ ہے کوفے میں کربلا ہے
+جبرئیل کی صدا ہے کوفے میں کربلا ہے
 
-1
-Khuda Ke Ghar Jo Chali Hai Taig-e-Jafa Sitam Ki.
-Tar Khoon Se Musalla Hai Kofay Mein Karbala Hai.
-Tere Waar Ne Kiya Kya Hai Aye Ibn-e-Muljim.
-Har Simt Yeh Buqa Hai Kofay Mein Karbala Hai.
+۱
+خدا کے گھر جو چلی ہے تیغِ جفا ستم کی
+تر خون سے مصلیٰ ہے کوفے میں کربلا ہے
+تیرے وار نے کیا کیا ہے اے ابنِ ملجم
+ہر سمت یہ بُکا ہے کوفے میں کربلا ہے
 
-2
-Mara Gaya Namaz Mein Ik Rozay Daar Ko.
-Kuhram Ja Baja Hai Kofay Mein Karbala Hai.
-Kulsoom-o-Zainab Hain Be Haal Ho Gayin.
-Giriya Kuna Zahra Hai Kofay Mein Karbala Hai.
+۲
+مارا گیا نماز میں اک روزے دار کو
+کہرام جا بجا ہے کوفے میں کربلا ہے
+کلثوم و زینب ہیں بے حال ہو گئیں
+گریہ کناں زہرا ہے کوفے میں کربلا ہے
 
-3
-Sar Peet Ke Rota Hai Ghazi Yeh Dekh Kar.
-Zakhmi Shair-e-Khuda Hai Kofay Mein Karbala Hai.
-Madar Ka Abhi Bholi Kahan Thi Gham Zainab.
-Baba Howa Juda Hai Kofay Mein Karbala Hai.
+۳
+سر پیٹ کے روتا ہے غازی یہ دیکھ کر
+زخمی شیرِ خدا ہے کوفے میں کربلا ہے
+مادر کا ابھی بھولی کہاں تھی غم زینب
+بابا ہوا جدا ہے کوفے میں کربلا ہے
 
-4
-Sajday Mein Sar Ali Ka Our Waar Hai Shaqi Ka.
-Qayamat Ik Bapa Hai Kofay Mein Karbala Hai.
-Utha Dehar Se Janaza Farman Hai Ali Ka.
-Ummat Ki Yeh Jafa Hai Kofay Mein Karbala Hai.
+۴
+سجدے میں سر علی کا اور وار ہے شقی کا
+قیامت اک بپا ہے کوفے میں کربلا ہے
+اٹھا دہر سے جنازہ فرمان ہے علی کا
+امت کی یہ جفا ہے کوفے میں کربلا ہے

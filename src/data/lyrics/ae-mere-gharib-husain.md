@@ -14,43 +14,43 @@ romanLyrics: |-
   Ae mere gharib Husain
 
   1
-  Bande kafan ko tor ke
-  Aayi hai phir se maa
+  Band kafan ko tor ke
+  Aayi hai phir se maaṅ
 
   2
-  Maathe pe tir pehlu may paywast barchiyaṅ
-  Aur qalb may sina
-  Marham lagayegi teri maadar kahaṅ kahaṅ
+  Maathe pe tir pehlu mein paiwast barchhiyaṅ
+  Aur qalb mein sinaaṅ
+  Marham lagaye gi teri maadar kahaaṅ kahaaṅ
 
   3
-  Baaheiṅ gale may daal lo himmat zara karo
+  Baaheṅ gale mein daal lo himmat zara karo
   Ae laal ghar chalo
-  In patharoṅ ke dher may tum chup gaye kahaṅ
+  In pattharoṅ ke dher mein tum chup gaye kahaaṅ
 
   4
-  Rakh dungi haath gardan o khanjar ke darmiyaṅ
+  Rakh duṅgi haath gardan o khanjar ke darmiyaaṅ
   Waada hai meri jaaṅ
-  Ghazi ki tarha dasht may qurban hogi maa
+  Ghazi ki tarha dasht mein qurbaan hogi maaṅ
 
   5
-  Kariyal jawaaṅ ki laash pe tera tha imtehaṅ
-  Tayyaar ab hai maa
-  Beta mai tere sine se khaynchungi khud sina
+  Kariyal jawaaṅ ki laash pe tera tha imtihaaṅ
+  Tayyaar ab hai maaṅ
+  Beta main tere sine se khinchuṅ gi khud sinaaṅ
 
   6
   Mohsin ke baad se meri jaise jhuki kamar
   Tujhko to hai khabar
-  Aise hai baad ghazi ke teri kamar kamaan
+  Aise hai baad Ghazi ke teri kamar kamaan
 
   7
-  Bete ke saath dasht may maadar ka khuṅ bahe
-  Keh do ye shimr se
-  Gardan pe pehle wo kare khanjar mere rawaṅ
+  Bete ke saath dasht mein maadar ka khuṅ bahe
+  Keh do ye Shimr se
+  Gardan pe pehle wo kare khanjar mere rawaaṅ
 
   8
-  Amma hata lo haath takallum thi ye sada
+  Ammaaṅ hata lo haath Takallum thi ye sada
   Katne do ab gala
-  Har zarb par ye kehti thi pehlu shikasta maa
+  Har zarb par ye kehti thi pehlu shikasta maaṅ
 ---
 
 ہائے غریب ہائے حسین

@@ -12,34 +12,34 @@ tags: []
 aliases: ["Mula Ab Aa Bhi Jaein Kab Se Bula Rahe Hain"]
 published: true
 romanLyrics: |-
-  Maula ab aa bhi jaaeiṅ kab se bula rahe haiṅ
-  Jaur o sitam jahaaṅ ke barhte hi ja rahe haiṅ
-  Dushman jo aap ke the ham ko sata rahe haiṅ
+  Maula ab aa bhi jaaeiṅ kab se bulaa rahe haiṅ
+  Jaur o sitam jahaaṅ ke barhte hi jaa rahe haiṅ
+  Dushman jo aap ke the ham ko sataa rahe haiṅ
 
   1
   Hote haiṅ masjidoṅ meiṅ phir aae din dhamaake
   Maula bataaeiṅ kab tak apne uthaaeiṅ laashe
-  Muhlat na in ko dije jo khun baha rahe haiṅ
+  Muhlat na in ko dije jo khun bahaa rahe haiṅ
 
   2
   Kya maatami o ghaazi kya haaji o namaazi
   Ilm o amal se aari guftaar ke namaazi
-  Zahra o Murtaza ka sab dil dukha rahe haiṅ
+  Zahra o Murtaza ka sab dil dukhaa rahe haiṅ
 
   3
-  Yeh nazar aur majaalis, milaad aur mahaafil
+  Yeh nazr aur majaalis, milaad aur mahaafil
   Socheiṅ kabhi ham in se kya kar rahe haiṅ haasil
-  Ikhlaas hi nahiṅ jab phir kya kama rahe haiṅ
+  Ikhlaas hi nahiṅ jab phir kya kamaa rahe haiṅ
 
   4
   Un se salaam kahna baad-e-saba hamaara
   Ae baaqi rahne waalo ham ko na bhul jaana
-  Tum intezaar karna ab ham to ja rahe haiṅ
+  Tum intezaar karna ab ham to jaa rahe haiṅ
 
   5
   Aashur ho ya chehlum jab bhi hua dhamaaka
   Ahl-e-aza ko Shahr-e-Qaaid meiṅ ham ne dekha
-  Kis hausle se apne laashe utha rahe haiṅ
+  Kis hausle se apne laashe uthaa rahe haiṅ
 
   6
   Inaam bhi mile ga shaabaash bhi mile gi

@@ -1,35 +1,59 @@
 ---
-title: "Ghar Se Nikal Ke Khoon Mein Nihane Chale Hussain"
+title: "گھر سے نکل کے خون میں نہانے چلے حسین"
+alternateTitle: "Ghar Se Nikal Ke Khoon Mein Nihane Chale Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Naveed"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghar se nikal ke khoon mein nihane chale Hussain
+  Khoon mein nihane dein ko bachane chale Hussain
+  Kham kha gayi thi jis se Brahim ki kamar
+  Oss wazan-e-Karbala ko uthane chale Hussain
+
+  2
+  Bandhe howay hain tan pe jo ahram-e-Karbala
+  Kaba bachane haj ke bahane chale Hussain
+  Gehware mein kiya tha jo wadah Rasool se
+  Wadah wo aaj apna nibhane chale Hussain
+
+  3
+  Aa dasht-e-Nainwa mein hawaye-e-Yazeediyat
+  Apne laho se shama jalane chale Hussain
+  Kuch iss qadar Khuda ki khudai ki fikar hai
+  Ghar de ke ghar Khuda ka bachane chale Hussain
+
+  4
+  Asghar ko aah kar ke hawale zameen ke
+  Khanjar se apni piyas bhujane chale Hussain
+  Jo ban sake Naveed kissi se na juz Hussain
+  Sokhe laboon wo baat banane chale Hussain
 ---
 
-1
-Ghar Se Nikal Ke Khoon Mein Nihane Chale Hussain.
-Khoon Mein Nihane Dein Ko Bachane Chale Hussain.
-Kham Kha Gayi Thi Jis Se Brahim Ki Kamar.
-Oss Wazan-e-Karbala Ko Uthane Chale Hussain.
+۱
+گھر سے نکل کے خون میں نہانے چلے حسین
+خون میں نہانے دیں کو بچانے چلے حسین
+خم کھا گئی تھی جس سے براہیم کی کمر
+اُس وزنِ کربلا کو اٹھانے چلے حسین
 
-2
-Bandhe Howay Hain Tan Pe Jo Ahram-e-Karbala.
-Kaba Bachane Haj Ke Bahane Chale Hussain.
-Gehware Mein Kiya Tha Jo Wadah Rasool Se.
-Wadah Wo Aaj Apna Nibhane Chale Hussain.
+۲
+باندھے ہوئے ہیں تن پہ جو احرامِ کربلا
+کعبہ بچانے حج کے بہانے چلے حسین
+گہوارے میں کیا تھا جو وعدہ رسول سے
+وعدہ وہ آج اپنا نبھانے چلے حسین
 
-3
-Aa Dasht-e-Nainwa Mein Hawaye-e-Yazeediyat.
-Apne Laho Se Shama Jalane Chale Hussain.
-Kuch Iss Qadar Khuda Ki Khudai Ki Fikar Hai.
-Ghar De Ke Ghar Khuda Ka Bachane Chale Hussain.
+۳
+آ دشتِ نینوا میں ہوائے یزیدیت
+اپنے لہو سے شمع جلانے چلے حسین
+کچھ اس قدر خدا کی خدائی کی فکر ہے
+گھر دے کے گھر خدا کا بچانے چلے حسین
 
-4
-Asghar Ko Aah Kar Ke Hawale Zameen Ke.
-Khanjar Se Apni Piyas Bhujane Chale Hussain.
-Jo Ban Sake Naveed Kissi Se Na Juz Hussain.
-Sokhe Laboon Wo Baat Banane Chale Hussain.
+۴
+اصغر کو آہ کر کے حوالے زمین کے
+خنجر سے اپنی پیاس بجھانے چلے حسین
+جو بن سکے نوید کسی سے نہ جز حسین
+سوکھے لبوں وہ بات بنانے چلے حسین

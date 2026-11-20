@@ -16,73 +16,73 @@ romanLyrics: |-
   Matam bapa karo ke qayamat ki raat hai
 
   Zehra ke khaandaan pe ghurbat ki raat hai
-  Khamosh khaimagah hai wehshat ki raat hai
+  Khaamosh khaima gaah hai wehshat ki raat hai
 
   1
-  Ashab ko hai dhyaan bas apne Imam ka
+  As-haab ko hai dhyaan bas apne Imam ka
   Pyaasoṅ ko intezar shahadat ke jaam ka
-  Abbas kar rahe haiṅ talaya qayaam ka
+  Abbas kar rahe haiṅ talaya qiyaam ka
   In sab ke waaste ye ibadat ki raat hai
 
   2
   Ahl-e-haram hai dekh pareshaan Karbala
   Dil aaj hi se sab ke haiṅ viraan Karbala
-  Kal tak rahenge ye tere mehman Karbala
+  Kal tak raheṅ ge ye tere mehmaan Karbala
   Ye raat un pe sakht musibat ki raat hai
 
   3
-  Qasim Hasan ka laal jo maidan ko jayega
-  Dasht-e-Bala meiṅ khun ka darya bahayega
-  Maqtal ki sar zamin ko mehshar banayega
-  Naushah-e-Karbala pe shahadat ki raat hai
+  Qasim Hasan ka laal jo maidaan ko jaaye ga
+  Dasht-e-Bala meiṅ khun ka darya bahaaye ga
+  Maqtal ki sar zamin ko mehshar banaaye ga
+  Naushaah-e-Karbala pe shahadat ki raat hai
 
   4
-  Kal subha deke aakhri mojiz numa azaaṅ
-  Barchi jigar pa khayega phir Akbar-e-jawaaṅ
+  Kal subah de ke aakhri mojiz numa azaaṅ
+  Barchi jigar pe khaaye ga phir Akbar jawaaṅ
   Sakte meiṅ kal se aakhri din tak rahegi maaṅ
   Bete ki aakhri ye ziyarat ki raat hai
 
   5
-  Chaadar hai aaj sar pa hai Zainab ko itminaan
-  Kal hoga sab saroṅ pa magar charkh saayabaaṅ
+  Chaadar hai aaj sar pe hai Zainab ko itminaan
+  Kal hoga sab saroṅ pe magar charkh saayabaaṅ
   Kal hoga Fatima ka rasan basta khaandaan
   Ye aakhri ridaoṅ ki hurmat ki raat hai
 
   6
-  Shaane kata ke nehr pa Abbas soyenge
-  Tuti kamar ko thaam ke Shabbir royenge
-  Bachche bhi pyaas bujhne ki ummid khoyenge
-  Ghazi pa aaj zabt-e-shujaat ki raat hai
+  Shaane kata ke nehr pe Abbas soeṅ ge
+  Tuti kamar ko thaam ke Shabbir roeṅ ge
+  Bachche bhi pyaas bujhne ki ummid khoeṅ ge
+  Ghazi pe aaj zabt-e-shujaat ki raat hai
 
   7
-  Hamla Ali ke sher pa hoga furaat par
-  Mar jayega Sakina ka saqqa furaat par
-  Kal hoga ambiya ka bhi girya furaat par
+  Hamla Ali ke sher pe hoga Furaat par
+  Mar jaaye ga Sakina ka saqqa Furaat par
+  Kal hoga ambiya ka bhi girya Furaat par
   Khaimoṅ ki aakhri ye hifazat ki raat hai
 
   8
-  Tir-e-sitam se kal jo kiya jayega shahid
+  Tir-e-sitam se kal jo kiya jaaye ga shahid
   Shashmaah hai wo jis pe musibat hai ye shadid
-  Ye zulm kar ke royega khud lashkar-e-Yazid
-  Bano pa intehaa-e-aziyat ki raat hai
+  Ye zulm kar ke roye ga khud lashkar-e-Yazid
+  Bano pe intehaa-e-aziyat ki raat hai
 
   9
-  Hangam-e-Asr qatl kiye jayenge Husain
-  Kal bekafan rahenge yahaaṅ shaah-e-mashraqain
-  Maqtal meiṅ gunj uthenge kal Fatima ke bain
-  Ye raat mere laal pa ghurbat ki raat hai
+  Hangaam-e-Asr qatl kiye jaaeṅ ge Husain
+  Kal bekafan raheṅ ge yahaaṅ shaah-e-mashraqain
+  Maqtal meiṅ gunj utheṅ ge kal Fatima ke bain
+  Ye raat mere laal pe ghurbat ki raat hai
 
   10
-  Laazim hai kaainaat pa ye gham Husain ka
-  Kaise kareṅge haq ye ada hum Husain ka
+  Laazim hai kaainaat pe gham Husain ka
+  Kaise kareṅ ge haq ye ada hum Husain ka
   Bachpan se karte aaye haiṅ matam Husain ka
   Apne liye ye raat saadat ki raat hai
 
   11
   Maango Jamil Khaaliq-e-Akbar se ye dua
-  Ae Rabb-e-Pak tujh ko hai is shab ka waasta
+  Ae Rabb-e-Paak tujh ko hai is shab ka waasta
   Hum sab Husain waaloṅ ko pahuncha de Karbala
-  Aansu bahaye jao ye riqqat ki raat hai
+  Aansu bahaaye jaao ye riqqat ki raat hai
 ---
 
 عاشور کی یہ شب ہے شہادت کی رات ہے

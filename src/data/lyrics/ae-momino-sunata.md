@@ -15,7 +15,7 @@ romanLyrics: |-
   Suno suno ae momino
 
   Ae momino sunaata huṅ pur dard waaqia
-  Dulha bana jo Hazrat-e-Shabbar ka laadla
+  Dulha bana jo Hazrat-e-Shabbir ka laadla
 
   Aashur ki wo shab wo qayaamat ki thi ghari
   Ibn-e-Hasan ke haath meiṅ mehndi rachi hui
@@ -32,7 +32,7 @@ romanLyrics: |-
   Saaya alam ka karte the Abbas ba wafa
 
   3
-  Ashkoṅ ke phul gundh ke maaṅ ne kaha pisar
+  Ashkoṅ ke phul gondh ke maaṅ ne kaha pisar
   Ae laal mera sharm se jhukne na paaye sar
   Rangin tere khun se ho dasht-e-Karbala
 
@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Amma hameṅ chacha se pa-e-Sher-e-Kibriya
   Izn-e-jihaad aap hi dilwaaiye zara
-  Yaad aayega lainoṅ ko Khaibar ka maaraka
+  Yaad aaye ga lainoṅ ko Khaibar ka maaraka
 
   6
   Maaṅ ne kaha ki maiṅ to bahut arz kar chuki
@@ -59,16 +59,16 @@ romanLyrics: |-
   8
   Bole Husain tum to nishaani Hasan ki ho
   Ae laal mujh gharib ka tum imtihaan na lo
-  Tum mar gaye to kaise jiyega ye ghamzada
+  Tum mar gaye to kaise jiye ga ye ghamzada
 
   9
-  Taawiz ek baazu se Qasim ne khol kar
+  Taawiz ak baazu se Qasim ne khol kar
   Maula Husain ko diya qadmoṅ pe rakh ke sar
-  Taawiz meiṅ payaam-e-Hasan tha likha hua
+  Taawiz meiṅ payaam-e-Hasan tha likha tha hua
 
   10
   Amma ki jaan bhaai ke qalb o jigar Husain
-  Karbobala meiṅ fidya hai mera ye nur-e-ain
+  Karb o Bala meiṅ fidya hai mere ye nur-e-ain
   Qasim ko dena izn-e-wigha hukm hai mera
 
   11
@@ -124,7 +124,7 @@ romanLyrics: |-
   21
   Daaman meiṅ apne laash ke tukre Shah-e-Huda
   Chunte the aur kehte the ae mere mah laqa
-  Dulhan se teri jaa ke kahega Husain kya
+  Dulhan se teri jaa ke kahe ga Husain kya
 
   22
   Mesum tarap ke reh gaya Rehaan ka qalam

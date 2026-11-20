@@ -1,6 +1,6 @@
 ---
 title: "آنکھیں کھولو ہمیں سینے سے لگاؤ اماں"
-alternateTitle: "Aankhein Kholo Hame Seenay Se Lagaoo Amma"
+alternateTitle: "Aankheṅ Kholo Hameṅ Sine Se Lagao Ammaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,57 +9,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aankhein kholo hame seenay se lagaoo amma
-  Roke Shabbir pukaare k na jaoooo amma
-  Aankhe kholo
+  Aankheṅ kholo hameṅ sine se lagao ammaaṅ
+  Ro ke Shabbir pukaare ke na jaao ammaaṅ
+  Aankheṅ kholo
 
   2
-  Utho amma mjhe seene se lagaoo to zara
-  Loriyaa hamd-e-elahi ki sunaooo to zara
-  Neend aati hy mjhe uthke sulaooo amma
-  Aankhe kholo
+  Utho ammaaṅ mujhe sine se lagao to zara
+  Loriyaaṅ hamd-e-Ilahi ki sunao to zara
+  Nind aati hai mujhe uth ke sulao ammaaṅ
+  Aankheṅ kholo
 
   3
-  Pehle hum sote the fir baad me tum soti theen
-  Tumto humse kbhi naraaz nhi hoti theen
-  Aaj q ruth gayei kuch to bataooo amma
-  Aankhe kholo
+  Pehle hum sote the phir baad meiṅ tum soti thiṅ
+  Tum to hum se kabhi naraaz nahiṅ hoti thiṅ
+  Aaj kiuṅ ruth gaiṅ kuchh to batao ammaaṅ
+  Aankheṅ kholo
 
   4
-  Zakhm nana ki judayi ka abhi taazaa hay
-  Dard kitna hy mere dil me kuch andaza hay
-  Kis trha dilko sambhalu ye bataoo amma
-  Aankhe kholo
+  Zakhm nana ki judai ka abhi taaza hai
+  Dard kitna hai mere dil meiṅ kuchh andaaza hai
+  Kis tarah dil ko sambhaaluṅ ye batao ammaaṅ
+  Aankheṅ kholo
 
   5
-  Apne haatho se sada khana khilaya hmko
-  Jab lagi pyaas to khud paani pilaya hmko
-  Kyun ho khamosh hame kuch to bataoo amma
-  Aankhe kholo
+  Apne haathoṅ se sada khaana khilaaya hum ko
+  Jab lagi pyaas to khud paani pilaaya hum ko
+  Kiuṅ ho khaamosh hameṅ kuchh to batao ammaaṅ
+  Aankheṅ kholo
 
   6
-  Ab bhi boli na agr ap to hum ro denge
-  Itna royenge k hum jaan bhi ab kho denge
-  Ghamzada dil ko mere or na jalaoo amma
-  Aankhe kholo
+  Ab bhi boli na agar aap to hum ro deṅ ge
+  Itna roeṅ ge ke hum jaan bhi ab kho deṅ ge
+  Ghamzada dil ko mere aur na jalao ammaaṅ
+  Aankheṅ kholo
 
   7
-  Daf-atan toot gaye band-e-kafan zehra ke
-  Aayi awaaz k aalag jaa mere sine se
-  Ab na kehna mere bachhe na rulaoo amma
-  Aankhe kholo
+  Dafatan tut gae band-e-kafan Zehra ke
+  Aai aawaaz ke aa lag jaa mere sine se
+  Ab na kehna mere bachche na rulao ammaaṅ
+  Aankheṅ kholo
 
   8
-  Aaj jis tarha se seenay se lagaya hay mujhe
-  Kal sar-e-Karbobala sar bhi katana hay mujhe
-  Kya madad k liye aaogi bataaooo ammaa
-  Aankhe kholo
+  Aaj jis tarah se sine se lagaaya hai mujhe
+  Kal sar-e-Karb o Bala sar bhi kataana hai mujhe
+  Kya madad ke liye aao gi batao ammaaṅ
+  Aankheṅ kholo
 
   9
-  Gunjti hay lab-e-Zehra se sada haaye Hussain
-  Ek kohraam sa pakhdi hay bapa haaye Hussain
-  Shah roro ke ye kehte hain na jaaoooo amma
-  Aankhe kholo
+  Gunjti hai lab-e-Zehra se sada haaye Husain
+  Ek kohraam sa pakri hai bapa haaye Husain
+  Shah ro ro ke ye kehte haiṅ na jaao ammaaṅ
+  Aankheṅ kholo
 ---
 
 ۱

@@ -1,35 +1,60 @@
 ---
-title: "Sajday Se Joon Sar Uthaya Madah Ki Sajjad Ki"
+title: "سجدے سے جوں سر اٹھایا مدح کی سجاد کی"
+alternateTitle: "Sajday Se Joon Sar Uthaya Madah Ki Sajjad Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sajday se joon sar uthaya madah ki Sajjad ki
+  Tab howa razi Khuda our khoob phir imdad ki
+  Qaid kar laye sitam zanjeer mein kuch iss tarha
+  Sabar mein aayi nazar tasveer youn ajdad ki
+
+  2
+  Aap ke dam se howa Maula ujala chaar so
+  Roshni tareek se hai aap ne aazad ki
+  Hosla aisa Sakhi ke dar se hai hum ko mila
+  Hum gareebon ne faqat hai inn ke haan faryad ki
+
+  3
+  Iss zameen ke bhag jagay aa gaye Maula marey
+  Veraan basti naqsh-e-pa ki shan se aabad ki
+  Mangtay hain har dua mein bas Khuda se hum yehi
+  Nokari de bas Muhammad inn ki hi aoulad ki
+
+  4
+  Door they jo aal se marey hoye woh bugz ke
+  Unn ki maa ki ik khata ne nasal hai barbad ki
+  Syeda ki hai atta Zeeshan warna hum bhala
+  Likh sakein kab martaba our manqabat Sajjad ki
 ---
 
-1
-Sajday Se Joon Sar Uthaya Madah Ki Sajjad Ki.
-Tab Howa Razi Khuda Our Khoob Phir Imdad Ki.
-Qaid Kar Laye Sitam Zanjeer Mein Kuch Iss Tarha.
-Sabar Mein Aayi Nazar Tasveer Youn Ajdad Ki.
+۱
+سجدے سے جوں سر اٹھایا مدح کی سجاد کی
+تب ہوا راضی خدا اور خوب پھر امداد کی
+قید کر لائے ستم زنجیر میں کچھ اس طرح
+صبر میں آئی نظر تصویر یوں اجداد کی
 
-2
-Aap Ke Dam Se Howa Maula Ujala Chaar So.
-Roshni Tareek Se Hai Aap Ne Aazad Ki.
-Hosla Aisa Sakhi Ke Dar Se Hai Hum Ko Mila.
-Hum Gareebon Ne Faqat Hai Inn Ke Haan Faryad Ki.
+۲
+آپ کے دم سے ہوا مولا اجالا چار سو
+روشنی تاریک سے ہے آپ نے آزاد کی
+حوصلہ ایسا سخی کے در سے ہے ہم کو ملا
+ہم غریبوں نے فقط ہے ان کے ہاں فریاد کی
 
-3
-Iss Zameen Ke Bhag Jagay Aa Gaye Maula Marey.
-Veraan Basti Naqsh-e-Pa Ki Shan Se Aabad Ki.
-Mangtay Hain Har Dua Mein Bas Khuda Se Hum Yehi.
-Nokari De Bas Muhammad Inn Ki Hi Aoulad Ki.
+۳
+اس زمین کے بھاگ جاگے آ گئے مولا میرے
+ویران بستی نقشِ پا کی شان سے آباد کی
+مانگتے ہیں ہر دعا میں بس خدا سے ہم یہی
+نوکری دے بس محمد ان کی ہی اولاد کی
 
-4
-Door They Jo Aal Se Marey Hoye Woh Bugz Ke.
-Unn Ki Maa Ki Ik Khata Ne Nasal Hai Barbad Ki.
-Syeda Ki Hai Atta Zeeshan Warna Hum Bhala.
-Likh Sakein Kab Martaba Our Manqabat Sajjad Ki.
+۴
+دور تھے جو آل سے مارے ہوئے وہ بغض کے
+ان کی ماں کی اک خطا نے نسل ہے برباد کی
+سیدہ کی ہے عطا ذیشان ورنہ ہم بھلا
+لکھ سکیں کب مرتبہ اور منقبت سجاد کی

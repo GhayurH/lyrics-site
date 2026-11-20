@@ -7,6 +7,56 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sultaan-e-Ambiya ka gham ham ne manaaya hai
+  Farsh-e-aza bichha kar, Zehra ko bulaaya hai
+
+  1
+  Chaudah sau baras pahle jo uth nahiṅ saka tha
+  Taabut Mustafa ka, ham ne woh uthaaya hai
+
+  2
+  Hasnain ro rahe haiṅ girya kunaaṅ haiṅ Zehra
+  Kunbe pe risaalat ke, gham kaisa ye chhaaya hai
+
+  3
+  Ummat ka baap logo duniya se ja raha hai
+  Purse mein kalma go ne, darwaaza jalaaya hai
+
+  4
+  Ehsaan-e-risaalat ka kaisa ajr diya hai
+  Darbaar mein bula kar, Zehra ko rulaaya hai
+
+  5
+  Tum kaise musalmaaṅ ho ye puchhti haiṅ Zehra
+  Baaba ke janaaze pe, koi bhi na aaya hai
+
+  6
+  Girya Rasul zaadi ka har dil ko chirta hai
+  Tanha hi janaaze par, haaye ashk bahaaya hai
+
+  7
+  Maula Ali ko mil kar majbur kar diya hai
+  Farmaan-e-risaalat ko, ik pal mein bhulaaya hai
+
+  8
+  Taariki chha gai ho roshan dinoṅ pe jaise
+  Zehra ko musalmaaṅ ne, kuchh aise sataaya hai
+
+  9
+  Mil kar utha rahe haiṅ taabut ko farishte
+  Rizwaan ne ye nauha, un ko bhi sunaaya hai
+
+  10
+  -
+
+  11
+  Maatam kunaaṅ farishte rote haiṅ ambiya sab
+  Rizwaan ke nauhe ne, sab ko hi rulaaya ye
+
+  12
+  Aaye haiṅ janaaze par Jibril aur malaaik
+  Rizwaan ne ye nauha un ko bhi sunaaya hai
 ---
 
 سلطانِ انبیاءؐ کا غم ہم نے منایا ہے

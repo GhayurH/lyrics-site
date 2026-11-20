@@ -28,7 +28,7 @@ romanLyrics: |-
   Baarish hai khuṅ ki chashm-e-falak ashkbaar hai
 
   4
-  Chilla rahi hai khaime se Zainab utar laiṅ
+  Chilla rahi hai khaime se Zainab utar la'iṅ
   Bhai ka mere zakhmoṅ se sina figaar hai
 
   5

@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Jis jagah baandhi gayi us ke gale meiṅ rassi
-  Jis meiṅ kheṅcha gaya us ko wo gali zakhmi hai
+  Jis meiṅ khencha gaya us ko wo gali zakhmi hai
 
   5
   Maatam o girya se faarigh nahiṅ koi maujud

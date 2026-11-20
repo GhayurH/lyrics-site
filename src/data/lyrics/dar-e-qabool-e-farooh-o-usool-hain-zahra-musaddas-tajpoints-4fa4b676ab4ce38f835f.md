@@ -1,74 +1,138 @@
 ---
-title: "Dar-e-Qabool-e-Farooh-o-Usool Hain Zahra Musaddas"
+title: "درِ قبولِ فروع و اصول ہیں زہرا مسدس"
+alternateTitle: "Dar-e-Qabool-e-Farooh-o-Usool Hain Zahra Musaddas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dar-e-qabool-e-farooh-o-usool hain Zahra Musaddas
+  Ke wajhe khilqat-e-noor-e-Rasool hain Zahra
+
+  1
+  Hai arsh jis se moatar woh phool hain Zahra
+  Yeh Innama ka hai nara Batool hain Zahra
+  Ossi ka khalq mein roshan muqam ho jaye
+  Jo in ki gaud mein aye imam ho jaye
+
+  2
+  Inhi ke dar ki kaneezi ka hain sharf Fiza
+  Jise Batool ki khidmat mein yeh muqam mila
+  Keh inn ko kehte the maa sibt-e-Syed-e-wala
+  Zuban-e-Fiza ne bhi aisa kuch asar paya
+
+  3
+  Agar yeh chahe tu dunya khilona ban jaye
+  Jo lab hilaye tu dewar sona ban jaye
+  Inhi ke kafwo ko dunya mein kehte hain Haider
+  Khitab jis ka hai mashoor fateh-e-Khaiber
+
+  4
+  Ossi ki taig ke kushte hain Marhab-o-Antar
+  Ali hai naam laqab unn ka zaigham-e-Dawar
+  Para jo ran mein sar-e-ahl-e-sitam bhi toore hain
+  Nabi ke dosh pe charh kar sanam bhi tore hain
+
+  5
+  Zahoor-e-rehmat-e-Haq hai zahoor Zahra ka
+  Farog-e-noor-e-Muhammd hai noor Zahra ka
+  Ali ka noor hain wajah-e-suror Zahra ka
+  Najaf ko iss liye kehte hain Toor Zahra ka
+
+  6
+  Inhi ke sheer ki tatheer youn gawah bani
+  Keh khak-e-turbat-e-Shabir sajda ga bani
+  Batool arsh-e-Khuda ka azeem zewar hai
+  Jabeen-e-wahdat-e-Haq ka haseen jhomar hai
+
+  7
+  Wuzo se inn ke jo bachta hai aab-e-johar hai
+  Ossi ka naam tu janat mein hooz-e-Kausar hai
+  Yeh kehkishaan jo munawar dikhai deti hai
+  Dar-e-Batool ki nokar dikhai deti hai
+
+  8
+  Inhi ke bete hain Hasnain Syed-e-janat
+  Keh jin ki sare zamane pe farz hai ulfat
+  Qaseeda parhti hai Quraan ki aik ik ayat
+  Inhi ka waris-e-muhkam hai aakhri hujjat
+
+  9
+  Jo rukh se waris-e-Zahra niqab uthein gaye
+  Fidak ke ghasibon ke hath kaat jaein gaye
+  Qasam Khuda ki kaneez-e-Ilah hain Zahra
+  Nashoor-e-rooz-e-azal ki gawah hain Zahra
+
+  10
+  Jo deen panah hai oss ki panah hain Zahra
+  Mobahle mein sadaqat ki rah hain Zahra
+  Mobahle ki aye Majid yehi tu ayat hai
+  Keh Fatima ke addo par Khuda ki lanat hai
 ---
 
-Dar-e-Qabool-e-Farooh-o-Usool Hain Zahra Musaddas.
-Ke Wajhe Khilqat-e-Noor-e-Rasool Hain Zahra.
+درِ قبولِ فروع و اصول ہیں زہرا مسدس
+کہ وجہِ خلقتِ نورِ رسول ہیں زہرا
 
-1
-Hai Arsh Jis Se Moatar Woh Phool Hain Zahra.
-Yeh Innama Ka Hai Nara Batool Hain Zahra.
-Ossi Ka Khalq Mein Roshan Muqam Ho Jaye.
-Jo In Ki Gaud Mein Aye Imam Ho Jaye.
+۱
+ہے عرش جس سے معطر وہ پھول ہیں زہرا
+یہ انما کا ہے نعرہ بتول ہیں زہرا
+اسی کا خلق میں روشن مقام ہو جائے
+جو ان کی گود میں آئے امام ہو جائے
 
-2
-Inhi Ke Dar Ki Kaneezi Ka Hain Sharf Fiza.
-Jise Batool Ki Khidmat Mein Yeh Muqam Mila.
-Keh Inn Ko Kehte The Maa Sibt-e-Syed-e-Wala.
-Zuban-e-Fiza Ne Bhi Aisa Kuch Asar Paya.
+۲
+انہی کے در کی کنیزی کا ہیں شرف فضہ
+جسے بتول کی خدمت میں یہ مقام ملا
+کہ ان کو کہتے تھے ماں سبطِ سیدِ والا
+زبانِ فضہ نے بھی ایسا کچھ اثر پایا
 
-3
-Agar Yeh Chahe Tu Dunya Khilona Ban Jaye.
-Jo Lab Hilaye Tu Dewar Sona Ban Jaye.
-Inhi Ke Kafwo Ko Dunya Mein Kehte Hain Haider.
-Khitab Jis Ka Hai Mashoor Fateh-e-Khaiber.
+۳
+اگر یہ چاہے تو دنیا کھلونا بن جائے
+جو لب ہلائے تو دیوار سونا بن جائے
+انہی کے کفو کو دنیا میں کہتے ہیں حیدر
+خطاب جس کا ہے مشہور فاتحِ خیبر
 
-4
-Ossi Ki Taig Ke Kushte Hain Marhab-o-Antar.
-Ali Hai Naam Laqab Unn Ka Zaigham-e-Dawar.
-Para Jo Ran Mein Sar-e-Ahl-e-Sitam Bhi Toore Hain.
-Nabi Ke Dosh Pe Charh Kar Sanam Bhi Tore Hain.
+۴
+اسی کی تیغ کے کشتے ہیں مرحب و عنتر
+علی ہے نام لقب ان کا ضیغمِ داور
+پڑا جو رن میں سرِ اہلِ ستم بھی توڑے ہیں
+نبی کے دوش پہ چڑھ کر صنم بھی توڑے ہیں
 
-5
-Zahoor-e-Rehmat-e-Haq Hai Zahoor Zahra Ka.
-Farog-e-Noor-e-Muhammd Hai Noor Zahra Ka.
-Ali Ka Noor Hain Wajah-e-Suror Zahra Ka.
-Najaf Ko Iss Liye Kehte Hain Toor Zahra Ka.
+۵
+ظہورِ رحمتِ حق ہے ظہور زہرا کا
+فروغِ نورِ محمد ہے نور زہرا کا
+علی کا نور ہیں وجہِ سرور زہرا کا
+نجف کو اس لیے کہتے ہیں طور زہرا کا
 
-6
-Inhi Ke Sheer Ki Tatheer Youn Gawah Bani.
-Keh Khak-e-Turbat-e-Shabir Sajda Ga Bani.
-Batool Arsh-e-Khuda Ka Azeem Zewar Hai.
-Jabeen-e-Wahdat-e-Haq Ka Haseen Jhomar Hai.
+۶
+انہی کے شیر کی تطہیر یوں گواہ بنی
+کہ خاکِ تربتِ شبیر سجدہ گاہ بنی
+بتول عرشِ خدا کا عظیم زیور ہے
+جبینِ وحدتِ حق کا حسین جھومر ہے
 
-7
-Wuzo Se Inn Ke Jo Bachta Hai Aab-e-Johar Hai.
-Ossi Ka Naam Tu Janat Mein Hooz-e-Kausar Hai.
-Yeh Kehkishaan Jo Munawar Dikhai Deti Hai.
-Dar-e-Batool Ki Nokar Dikhai Deti Hai.
+۷
+وضو سے ان کے جو بچتا ہے آبِ جوہر ہے
+اسی کا نام تو جنت میں حوضِ کوثر ہے
+یہ کہکشاں جو منور دکھائی دیتی ہے
+درِ بتول کی نوکر دکھائی دیتی ہے
 
-8
-Inhi Ke Bete Hain Hasnain Syed-e-Janat.
-Keh Jin Ki Sare Zamane Pe Farz Hai Ulfat.
-Qaseeda Parhti Hai Quraan Ki Aik Ik Ayat.
-Inhi Ka Waris-e-Muhkam Hai Aakhri Hujjat.
+۸
+انہی کے بیٹے ہیں حسنین سیدِ جنت
+کہ جن کی سارے زمانے پہ فرض ہے الفت
+قصیدہ پڑھتی ہے قرآن کی ایک اک آیت
+انہی کا وارثِ محکم ہے آخری حجت
 
-9
-Jo Rukh Se Waris-e-Zahra Niqab Uthein Gaye.
-Fidak Ke Ghasibon Ke Hath Kaat Jaein Gaye.
-Qasam Khuda Ki Kaneez-e-Ilah Hain Zahra.
-Nashoor-e-Rooz-e-Azal Ki Gawah Hain Zahra.
+۹
+جو رخ سے وارثِ زہرا نقاب اٹھیں گے
+فدک کے غاصبوں کے ہاتھ کاٹ جائیں گے
+قسم خدا کی کنیزِ الٰہ ہیں زہرا
+نشورِ روزِ ازل کی گواہ ہیں زہرا
 
-10
-Jo Deen Panah Hai Oss Ki Panah Hain Zahra.
-Mobahle Mein Sadaqat Ki Rah Hain Zahra.
-Mobahle Ki Aye Majid Yehi Tu Ayat Hai.
-Keh Fatima Ke Addo Par Khuda Ki Lanat Hai.
+۱۰
+جو دین پناہ ہے اس کی پناہ ہیں زہرا
+مباہلے میں صداقت کی راہ ہیں زہرا
+مباہلے کی اے ماجد یہی تو آیت ہے
+کہ فاطمہ کے عدو پر خدا کی لعنت ہے

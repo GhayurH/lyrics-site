@@ -1,32 +1,54 @@
 ---
-title: "Tukre Hasan K Laal Ke Syed Mudassir Mehdi"
+title: "ٹکڑے حسن کے لال کے سید مدثر مہدی"
+alternateTitle: "Tukre Hasan Ke Laal Ke Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tukray Hasan ke lal ke gathri mein aaye hain
+  Arman maa ke khak mein kis ne milaye hain
+
+  1
+  Kaisay uthaein lash ko, ghurbat Hussain ki
+  Maqtal mein Shah-e-deen abba ko bichaye hain
+  Qasim ki maa shaheed ka chehra na dekhna
+  Mehndi ke kuch nishan Summo ne lagaye hain
+
+  2
+  Farwa jawaan shaheed ka pursa qabool ho
+  Syedaniyaan khiyam mein halqa banaye hain
+  Mehndi lagi hoi hai ya Qasim ka khon hai?
+  Kubra pe din sohag ke kaisay yeh aaye hain
+
+  3
+  Itna lipat ke roye keh gash kha ke gir gaye
+  Qasim pe youn Hussain ne aanso bahaye hain
+  Haider yeh pochti rahi tehreer cheekh kar
+  Noha likha ya lash ke tukray sajay hain
 ---
 
-Tukray Hasan Ke Lal Ke Gathri Mein Aaye Hain.
-Arman Maa Ke Khak Mein Kis Ne Milaye Hain.
+ٹکڑے حسن کے لال کے گٹھڑی میں آئے ہیں
+ارمان ماں کے خاک میں کس نے ملائے ہیں
 
-1
-Kaisay Uthaein Lash Ko, Ghurbat Hussain Ki.
-Maqtal Mein Shah-e-Deen Abba Ko Bichaye Hain.
-Qasim Ki Maa Shaheed Ka Chehra Na Dekhna.
-Mehndi Ke Kuch Nishan Summo Ne Lagaye Hain.
+۱
+کیسے اٹھائیں لاش کو، غربت حسین کی
+مقتل میں شاہِ دیں عبا کو بچھائے ہیں
+قاسم کی ماں شہید کا چہرہ نہ دیکھنا
+مہندی کے کچھ نشان سمو نے لگائے ہیں
 
-2
-Farwa Jawaan Shaheed Ka Pursa Qabool Ho.
-Syedaniyaan Khiyam Mein Halqa Banaye Hain.
-Mehndi Lagi Hoi Hai Ya Qasim Ka Khon Hai?.
-Kubra Pe Din Sohag Ke Kaisay Yeh Aaye Hain.
+۲
+فروہ جوان شہید کا پرسا قبول ہو
+سیدانیاں خیام میں حلقہ بنائے ہیں
+مہندی لگی ہوئی ہے یا قاسم کا خون ہے؟
+کبریٰ پہ دن سہاگ کے کیسے یہ آئے ہیں
 
-3
-Itna Lipat Ke Roye Keh Gash Kha Ke Gir Gaye.
-Qasim Pe Youn Hussain Ne Aanso Bahaye Hain.
- Haider Yeh Pochti Rahi Tehreer Cheekh Kar.
-Noha Likha Ya Lash Ke Tukray Sajay Hain.
+۳
+اتنا لپٹ کے روئے کہ غش کھا کے گر گئے
+قاسم پہ یوں حسین نے آنسو بہائے ہیں
+حیدر یہ پوچھتی رہی تحریر چیخ کر
+نوحہ لکھا یا لاش کے ٹکڑے سجائے ہیں

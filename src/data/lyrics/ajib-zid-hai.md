@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Har ek baat suno har kisi se fatwa lo
   Kahe jo Aal-e-Muhammad use kabhi na suno
-  Ek Shehr-e-Ilm ka dar hai udhar ka rukh na karo
+  Ek Shehr-e-ilm ka dar hai udhar ka rukh na karo
   Suni sunayi hui baat par yaqin kar lo
 
   2
@@ -27,15 +27,15 @@ romanLyrics: |-
   Inheṅ to dur se hi bas salaam karte raho
 
   3
-  Barai jis se ibaarat hai ye wo aazam hai
+  Baraai jis se ibaarat hai ye wo aazam hai
   Usul-e-diṅ hai Ibn-e-Rasul-e-Khaatam hai
-  Imam-e-Jafar-e-Saadiq Imam-e-aalam hai
+  Imam-e-Jafar-e-Saadiq imam-e-aalam hai
   Khuda ke waaste kuch to samajh ki baat karo
 
   4
   Ghatao martaba Aal-e-Mustafa din raat
   Usul-e-kasrat-e-aara se un ko de do maat
-  Ye inteha-e-adawat hai ke har ek wo baat
+  Ye intehaa-e-adaawat hai ke har ek wo baat
   Jo un ke haq meiṅ kahi jae us ko kufr kaho
 
   5
@@ -75,9 +75,9 @@ romanLyrics: |-
   Shumaar karne pe aae magar shumaar na ho
 
   11
-  Pisar ki laash pe baithe the Sayyed-e-Waala
+  Pisar ki laash pe baithe the Sayyed-e-waala
   Ke ek mard khush atwaar saamne aaya
-  Salaam kar ke kaha maiṅ huṅ Qaasid-e-Sughra
+  Salaam kar ke kaha maiṅ huṅ qaasid-e-Sughra
   Tarap rahi hai bulaya hai us ne Akbar ko
 
   12
@@ -88,7 +88,7 @@ romanLyrics: |-
 
   13
   Likha tha khat meiṅ hazaaroṅ salaam Akbar ko
-  Duaaeṅ baali Sakina ko pyar Asghar ko
+  Duaaeṅ baali Sakina ko pyaar Asghar ko
   Chacha ko likha tha aadaab aur Sarwar ko
   Likha tha Baba gaye bhul aap bhi mujh ko
 

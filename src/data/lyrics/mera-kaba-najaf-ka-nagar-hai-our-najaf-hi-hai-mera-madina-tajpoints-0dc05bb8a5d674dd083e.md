@@ -1,29 +1,48 @@
 ---
-title: "Mera Kaba Najaf Ka Nagar Hai Our Najaf Hi Hai Mera Madina"
+title: "میرا کعبہ نجف کا نگر ہے اور نجف ہی ہے میرا مدینہ"
+alternateTitle: "Mera Kaba Najaf Ka Nagar Hai Aur Najaf Hi Hai Mera Madina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mera Kaba Najaf ka nagar hai our Najaf hi hai mera Madina
+  Karbala badbaan par likha hai kaise dobe ga mera safina
+  Gar kahin dekh le husan-e-Akbar chand parde mein chehra chupa le
+  Husan-e-Yousuf nida de ga barh kar husan aisa tu dekha kabhi na
+
+  2
+  Mujh se barh kar tawangar nahi hai mujh se barh kar qalandar nahi hai
+  Muflisi aa nahi sakti mujh tak Panjtan ka hai ghar mein khazina
+  Kar liya hajj tu Kabay mein ja kar tum ne dekhein Madine ki galiyaan
+  Karbala jao gaye tum na jab tak mill nahi sakta janat ka zeena
+
+  3
+  Aaye meri lahad mein farishte dekh kar daag-e-matam yeh bole
+  Ab sawal our jawab iss se kya ho kaisa pur noor hai iss ka seena
+  Aye Hasan kargah-e-jahan mein ji ke marna tu aata hai sab ko
+  Karbala keh rahi hai yeh ab bhi karnama tu hai mar ke jeena
 ---
 
-1
-Mera Kaba Najaf Ka Nagar Hai Our Najaf Hi Hai Mera Madina.
-Karbala Badbaan Par Likha Hai Kaise Dobe Ga Mera Safina.
-Gar Kahin Dekh Le Husan-e-Akbar Chand Parde Mein Chehra Chupa Le.
-Husan-e-Yousuf Nida De Ga Barh Kar Husan Aisa Tu Dekha Kabhi Na.
+۱
+میرا کعبہ نجف کا نگر ہے اور نجف ہی ہے میرا مدینہ
+کربلا بادبان پر لکھا ہے، کیسے ڈوبے گا میرا سفینہ
+گر کہیں دیکھ لے حسنِ اکبر، چاند پردے میں چہرہ چھپا لے
+حسنِ یوسف ندا دے گا بڑھ کر، حسن ایسا تو دیکھا کبھی نہ
 
-2
-Mujh Se Barh Kar Tawangar Nahi Hai Mujh Se Barh Kar Qalandar Nahi Hai.
-Muflisi Aa Nahi Sakti Mujh Tak Panjtan Ka Hai Ghar Mein Khazina.
-Kar Liya Hajj Tu Kabay Mein Ja Kar Tum Ne Dekhein Madine Ki Galiyaan.
-Karbala Jao Gaye Tum Na Jab Tak Mill Nahi Sakta Janat Ka Zeena.
+۲
+مجھ سے بڑھ کر تونگر نہیں ہے، مجھ سے بڑھ کر قلندر نہیں ہے
+مفلسی آ نہیں سکتی مجھ تک، پنج تن کا ہے گھر میں خزینہ
+کر لیا حج تو کعبے میں جا کر، تم نے دیکھیں مدینے کی گلیاں
+کربلا جاؤ گے تم نہ جب تک، مل نہیں سکتا جنت کا زینہ
 
-3
-Aaye Meri Lahad Mein Farishte Dekh Kar Daag-e-Matam Yeh Bole.
-Ab Sawal Our Jawab Iss Se Kya Ho Kaisa Pur Noor Hai Iss Ka Seena.
-Aye Hasan Kargah-e-Jahan Mein Ji Ke Marna Tu Aata Hai Sab Ko.
-Karbala Keh Rahi Hai Yeh Ab Bhi Karnama Tu Hai Mar Ke Jeena.
+۳
+آئے میری لحد میں فرشتے، دیکھ کر داغِ ماتم یہ بولے
+اب سوال اور جواب اس سے کیا ہو، کیسا پُرنور ہے اس کا سینہ
+اے حسن کارگاہِ جہاں میں جی کے مرنا تو آتا ہے سب کو
+کربلا کہہ رہی ہے یہ اب بھی، کارنامہ تو ہے مر کے جینا

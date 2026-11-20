@@ -13,11 +13,11 @@ aliases: ["Ay Ghazi Abbas"]
 published: true
 romanLyrics: |-
   Ab nahiṅ jine ki kuchh aas ae Ghazi Abbas
-  Maiṅ bhi aata huṅ tere paas ae Ghazi Abbas
+  Main bhi aata huṅ tere paas ae Ghazi Abbas
 
   1
   Dard tum mujh se judaai ka na seh paao ge
-  Bin mere khuld-e-bariṅ meiṅ bhi reh paao ge
+  Bin mere khuld-e-bariṅ mein bhi reh paao ge
   Mujh se ulfat jo hai kuchh khaas ae Ghazi Abbas
 
   2
@@ -36,7 +36,7 @@ romanLyrics: |-
   Kya nahiṅ tum ko ye ehsaas ae Ghazi Abbas
 
   5
-  Kaise le jaauṅ maiṅ khaime meiṅ alam ko bhaiya
+  Kaise le jaauṅ main khaime mein alam ko bhaiya
   Tum se dhaaras thi bahut ahl-e-haram ko bhaiya
   Sab ki ab tut gai aas ae Ghazi Abbas
 
@@ -46,12 +46,12 @@ romanLyrics: |-
   Ab Sakina ko nahiṅ pyaas ae Ghazi Abbas
 
   7
-  Aa gaya sakht musibat meiṅ safina mera
-  Aa ke pardes meiṅ chatka hai nagina mera
+  Aa gaya sakht musibat mein safina mera
+  Aa ke pardes mein chhatka hai nagina mera
   Tutta hai mera almaas ae Ghazi Abbas
 
   8
-  Aini khaime meiṅ jo Abbas ka parcham paaya
+  Aini khaime mein jo Abbas ka parcham paaya
   Jo bhi behosh tha Aamir wo lab-e-dam aaya
   Shor utha ye basad yaas ae Ghazi Abbas
 ---

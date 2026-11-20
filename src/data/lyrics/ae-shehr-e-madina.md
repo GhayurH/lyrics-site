@@ -12,63 +12,63 @@ tags: []
 aliases: ["Ay Shehre Madina"]
 published: true
 romanLyrics: |-
-  Jangal meiṅ bhare ghar ko luta aayi hai Zainab
-  Ae Shehr-e-Madina
-  Abid ko kisi tarah bacha laayi hai Zainab
+  Jangal meiṅ bhare ghar ko lutaa aayi hai Zainab
+  Ae shehr-e-Madina
+  Aabid ko kisi tarah bachaa laayi hai Zainab
 
   1
   Na Qasim o Akbar rahe bhai bhi sidhaare
   Sab hi gaye maare
   Begor unheiṅ dasht meiṅ chhor aayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   2
-  Wo shaam-e-gharibaṅ ho ya wo Shaam ka bazaar
-  Abid rahe laachaar
+  Wo shaam-e-gharibaaṅ ho ya wo Shaam ka bazaar
+  Aabid rahe laachaar
   Sab zakhm isi qalb meiṅ bhar laayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   3
   Kya kya na sitam raah meiṅ saadaat ne jhela
   Maiṅ tujh se kahuṅ kya
   Baaghi ki behan Shaam meiṅ kehlaayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   4
   Parda jo sikhaati rahi wo Bibi khule sar
   Phirti rahi dar dar
-  Bazaaroṅ meiṅ darbaaroṅ meiṅ ho aayi hai Zainab
-  Ae Shehr-e-Madina
+  Baazaaroṅ meiṅ darbaaroṅ meiṅ ho aayi hai Zainab
+  Ae shehr-e-Madina
 
   5
   Aa ja tu kanizi meiṅ meri bola sitamgar
   Ae shaah ki dukhtar
   Ye lamha wohi tha jahaṅ ghabraayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   6
-  Zindaṅ meiṅ kahiṅ kho gaya bhai ka nagina
+  Zindaaṅ meiṅ kahiṅ kho gaya bhai ka nagina
   Maasum Sakina
   Do baaliyaṅ zindaan se le aayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   7
-  Zindaṅ se riha hoke bhi baaqi hai asiri
-  Matam kar tu bhi
+  Zindaaṅ se riha hoke bhi baaqi hai asiri
+  Maatam kar tu bhi
   Rassi ke nishaaṅ is liye le aayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   8
   Ye zakhm mere qalb ka jine nahiṅ dega
   Hai zulm hi aisa
   Shabbir sar-e-dasht hai ghar aayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 
   9
   Puchhegi yehi Fatema Sughra abhi mujh se
   Akbar nahiṅ aaye
   Dukhiya ke sawaaloṅ se hi ghabraayi hai Zainab
-  Ae Shehr-e-Madina
+  Ae shehr-e-Madina
 ---
 
 جنگل میں بھرے گھر کو لٹا آئی ہے زینب

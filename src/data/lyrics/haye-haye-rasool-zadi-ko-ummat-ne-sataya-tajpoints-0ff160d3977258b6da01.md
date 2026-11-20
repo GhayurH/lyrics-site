@@ -1,40 +1,70 @@
 ---
-title: "Haye Haye Rasool Zadi Ko Ummat Ne Sataya"
+title: "ہائے ہائے رسول زادی کو امت نے ستایا"
+alternateTitle: "Haye Haye Rasool Zadi Ko Ummat Ne Sataya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najam"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye haye Rasool zadi ko ummat ne sataya
+  Hay hay Rasool zadi ko ummat ne sataya
+  Jis dar pe Nabi aate they oss dar ko jalaya
+  Pehlu shikasta ho gaya, Mohsin hoye shaheed
+  Zalim ne choob e taig se woh zakhm lagaya
+  Ahmad ke janeshen ko shehar-e-Rasool mein
+  Gardan mein rasan bandh ke darbar bulaya
+  Ashab bhi khamosh rahe zulm-o-sitam par
+  Aqwal-e-Muhammad ko bohat jald bhulaya
+  Sab bugz ayyaan ho gaya Hashim ki aal se
+  Tareekh ne sab chehron se youn pardah uthaya
+  Faryad bibi karti thin Baba se roz-o-shab
+  Baad aap ki ummat ne bohat dil hai dukhaya
+  Din ko siyah kar dein musayab woh paray hain
+  Yeh ajar Baba aap ki ummat se hai paya
+  Roney bhi nahi detey aziyat bhi hain detey
+  Dil uth gaya jahan se ab mera Khudaya
+  Ranj-o-alam utha ke safar kar gayin Zahra
+  Mamta ka aaj bachoon ke sar se utha saya
+  Giriya kuna hain betiyan, sab betay hain nidhal
+  Daag-e-judai madar-e-dilgeer hai paya
+  Kuhram bapa ho gaya jab bait-e-Ali mein
+  Hasnain ne amma ke janazay ko uthaya
+  Tareek shab mein le ke Baqiya chaley Ali
+  Phir qabar-e-Syeda ke nishaan ko bhi mitaya
+  Aagaz jo howa tha Najam ghar se Ali ke
+  Aal-e-Nabi ne dehar mein phir chain na paya
 ---
 
-1
-Haye Haye Rasool Zadi Ko Ummat Ne Sataya.
-Hay Hay Rasool Zadi Ko Ummat Ne Sataya.
-Jis Dar Pe Nabi Aate They Oss Dar Ko Jalaya.
-Pehlu Shikasta Ho Gaya, Mohsin Hoye Shaheed.
-Zalim Ne Choob e Taig Se Woh Zakhm Lagaya.
-Ahmad Ke Janeshen Ko Shehar-e-Rasool Mein.
-Gardan Mein Rasan Bandh Ke Darbar Bulaya.
-Ashab Bhi Khamosh Rahe Zulm-o-Sitam Par.
-Aqwal-e-Muhammad Ko Bohat Jald Bhulaya.
-Sab Bugz Ayyaan Ho Gaya Hashim Ki Aal Se.
-Tareekh Ne Sab Chehron Se Youn Pardah Uthaya.
-Faryad Bibi Karti Thin Baba Se Roz-o-Shab.
-Baad Aap Ki Ummat Ne Bohat Dil Hai Dukhaya.
-Din Ko Siyah Kar Dein Musayab Woh Paray Hain.
-Yeh Ajar Baba Aap Ki Ummat Se Hai Paya.
-Roney Bhi Nahi Detey Aziyat Bhi Hain Detey.
-Dil Uth Gaya Jahan Se Ab Mera Khudaya.
-Ranj-o-Alam Utha Ke Safar Kar Gayin Zahra.
-Mamta Ka Aaj Bachoon Ke Sar Se Utha Saya.
-Giriya Kuna Hain Betiyan, Sab Betay Hain Nidhal.
-Daag-e-Judai Madar-e-Dilgeer Hai Paya.
-Kuhram Bapa Ho Gaya Jab Bait-e-Ali Mein.
-Hasnain Ne Amma Ke Janazay Ko Uthaya.
-Tareek Shab Mein Le Ke Baqiya Chaley Ali.
-Phir Qabar-e-Syeda Ke Nishaan Ko Bhi Mitaya.
-Aagaz Jo Howa Tha Najam Ghar Se Ali Ke.
-Aal-e-Nabi Ne Dehar Mein Phir Chain Na Paya.
+۱
+ہائے ہائے رسول زادی کو امت نے ستایا
+ہائے ہائے رسول زادی کو امت نے ستایا
+جس در پہ نبی آتے تھے اُس در کو جلایا
+پہلو شکستہ ہو گیا، محسن ہوئے شہید
+ظالم نے چوبِ تیغ سے وہ زخم لگایا
+احمد کے جانشین کو شہرِ رسول میں
+گردن میں رسن باندھ کے دربار بلایا
+اصحاب بھی خاموش رہے ظلم و ستم پر
+اقوالِ محمد کو بہت جلد بھلایا
+سب بغض عیاں ہو گیا ہاشم کی آل سے
+تاریخ نے سب چہروں سے یوں پردہ اٹھایا
+فریاد بی‌بی کرتی تھیں بابا سے روز و شب
+بعد آپ کی امت نے بہت دل ہے دکھایا
+دن کو سیاہ کر دیں مصائب وہ پڑے ہیں
+یہ اجر بابا آپ کی امت سے ہے پایا
+رونے بھی نہیں دیتے اذیت بھی ہیں دیتے
+دل اٹھ گیا جہاں سے اب میرا خدایا
+رنج و الم اٹھا کے سفر کر گئیں زہرا
+ممتا کا آج بچوں کے سر سے اٹھا سایہ
+گریہ کناں ہیں بیٹیاں، سب بیٹے ہیں نڈھال
+داغِ جدائی مادرِ دلگیر ہے پایا
+کہرام بپا ہو گیا جب بیتِ علی میں
+حسنین نے اماں کے جنازے کو اٹھایا
+تاریک شب میں لے کے بقیع چلے علی
+پھر قبرِ سیدہ کے نشان کو بھی مٹایا
+آغاز جو ہوا تھا نجم گھر سے علی کے
+آلِ نبی نے دہر میں پھر چین نہ پایا

@@ -11,75 +11,75 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Nisaar kar chuke jab raahe haq may asghar ko
-  Tab aaye qaime may sheh ruqsate mukarrar ko
+  Nisaar kar chuke jab raah-e-haq mein Asghar ko
+  Tab aaye khaime mein shah rukhsat-e-muqarrar ko
   Bayaan kaise karuṅ bekas ke manzar ko
-  Thi pesh manzileiṅ dushware ibne hyder ko
-  Koi na tha jo karata sawaar sarwar ko
-  Bithaya ghore pe hamshir ne biradar ko
+  Thi pesh manzileṅ dushwaar Ibn-e-Haidar ko
+  Koi na tha jo karta sawaar Sarwar ko
+  Bithaaya ghore pe hamshir ne baraadar ko
 
   2
-  Har ek bibi ka dil gham se tha taho-bala
-  Na koi monis o yawar na godh ka paala
-  Koi lipat-ti thi daaman se kartii thi naala
-  Khade the sar ko jhukaye huwe shahe wala
-  Koi na tha jo karata....
+  Har ek Bibi ka dil gham se tha tah o baalaa
+  Na koi munis o yaawar na god ka paala
+  Koi lipatti thi daaman se karti thi naala
+  Khare the sar ko jhukaaye hue Shah-e-Waala
+  Koi na tha jo karta...
 
   3
-  Buland hoti thi qaime se al-atash ki sada
+  Buland hoti thi khaime se al-atash ki sada
   Sakina kehti thi maqtal se jald aao chacha
-  Kabhi pukaarti koi ke aao shere khuda
-  Madad ka waqt hai shabbir ho rahe hai juda
-  Koi na tha jo karata....
+  Kabhi pukaarti koi ke aao sher-e-Khuda
+  Madad ka waqt hai Shabbir ho rahe haiṅ juda
+  Koi na tha jo karta...
 
   4
-  Pukari zainab-e-mustar kahaṅ ho ae akbar
-  Akela fauje adu may chala nabi ka pisar
-  Qabar na loge chacha ki ae qasime mustar
-  Kahaṅ pe hai mera shere jari wafa paykar
-  Koi na tha jo karata....
+  Pukaari Zainab-e-Muztar kahaaṅ ho ae Akbar
+  Akela fauj-e-adu mein chala Nabi ka pisar
+  Khabar na loge chacha ki ae Qasim-e-Muztar
+  Kahaaṅ pe hai mera sher-e-jari wafa paikar
+  Koi na tha jo karta...
 
   5
-  Ye nowha karti thi maqtal may zainab-e-kubra
-  Bachane wala koi mere bhai ka na raha
-  Gulu bureeda se deta tha har shahid sada
+  Ye nauha karti thi maqtal mein Zainab-e-Kubra
+  Bachaane waala koi mere bhai ka na raha
+  Gulu burida se deta tha har shahid sada
   Mile hayaat to phir ho hazaar baar fida
-  Koi na tha jo karata....
+  Koi na tha jo karta...
 
   6
-  Kaha Husain ne zainab se alvida hamshir
-  Bula rahe hai paye jang kaf se bepeer
-  Khayal rakhna sakina ka hai bahut hi saghir
-  Muaf karna jo karde kabhi koi tafsir
-  Koi na tha jo karata....
+  Kaha Husain ne Zainab se alwida hamshir
+  Bula rahe haiṅ pay-e-jang kab se ye bepir
+  Khayaal rakhna Sakina ka hai bahut hi saghir
+  Muaaf karna jo kar de kabhi koi taqsir
+  Koi na tha jo karta...
 
   7
-  Lagaam thaam ke ghore ke bole ye shabbir
-  Hamare saath hai zulmo sitam ka tu bhi asir
-  Safar hai aakhri tujhpar mera ye ae dilgir
-  Tuhi hai munis o gham khwar mera waqte akhir
-  Koi na tha jo karata....
+  Lagaam thaam ke ghore se bole ye Shabbir
+  Hamaare saath hai jo zulm o sitam ka tu bhi asir
+  Safar hai aakhri tujh par mera ye ae dilgir
+  Tu hi hai munis o ghamkhwaar mera waqt-e-akhir
+  Koi na tha jo karta...
 
   8
-  Imam-e-waqt se jab zuljana ne ye suna
-  Zubaane haal se wo bezubaan huwa goya
+  Imam-e-waqt se jab Zuljanaah ne ye suna
+  Zabaan-e-haal se wo bezubaaṅ hua goya
   Huzur aap pe sau baar meri jaan fida
-  Zehe nasib ke ye farz aap ne sawmpa
-  Koi na tha jo karata....
+  Zehe nasib ke ye farz aap ne saunpa
+  Koi na tha jo karta...
 
   9
-  Mai jaanta hoo ke ye aakhri sawari hai
-  Karu jihad ye khud mujko beqarari hai
-  Sumo se lipti hui aapki dulaari hai
+  Main jaanta huṅ ke ye aakhri sawaari hai
+  Karuṅ jihaad ye khud mujh ko beqaraari hai
+  Sumoṅ se lipti hui aap ki dulaari hai
   Mere padar ko na leja ye lab pe jaari hai
-  Koi na tha jo karata....
+  Koi na tha jo karta...
 
   10
-  Anis rukhsate aakhir ke waqt tha mehshar
-  Koi to pit-ti thi seena koi bibi sar
-  Kabhi pukarti thi apne pyaro ko rokar
-  Kahaṅ pe ho zara ye haal dekh lo aakar
-  Koi na tha jo karata....
+  Anis rukhsat-e-aakhir ke waqt tha mahshar
+  Koi to pitti thi sina koi Bibi sar
+  Kabhi pukaarti thi apne pyaaroṅ ko rokar
+  Kahaaṅ pe ho zara ye haal dekh lo aakar
+  Koi na tha jo karta...
 ---
 
 ۱

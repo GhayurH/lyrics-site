@@ -11,54 +11,54 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Suna hai Madina suna hai Madina
+  Sunaa hai Madina sunaa hai Madina
 
-  Aashur ko aaya ye Khat-e-Fatima Sughra
-  Suna hai Madina
+  Aashur ko aaya ye khat-e-Fatima Sughra
+  Sunaa hai Madina
   Kab laut ke ghar aao ge ya Shaah-e-Madina
-  Suna hai Madina
+  Sunaa hai Madina
 
   1
-  Maiṅ dar pe khari rehti huṅ ek aas lagaaye
+  Maiṅ dar pe khari rehti huṅ ik aas lagaaye
   Bhaiya nahiṅ aaye
   Shikwa nahiṅ Akbar se hai taqdir se shikwa
-  Suna hai Madina
+  Sunaa hai Madina
 
   2
   Do din se mere halq se paani nahiṅ utra
   Qurbaan ho Sughra
   Dil kehta hai pardes meiṅ tum pyaase ho baba
-  Suna hai Madina
+  Sunaa hai Madina
 
   3
   Pardes meiṅ bhaiya ho agar byaah tumhaara
   Armaan hai mera
   Baandhe hue sehra meri turbat pe bhi aana
-  Suna hai Madina
+  Sunaa hai Madina
 
   4
   Maiṅ raatoṅ ko soti huṅ to jaag uthti huṅ aksar
   Kya baat hai aakhir
   Bikhraaye hue baal nazar aati hai Zehra
-  Suna hai Madina
+  Sunaa hai Madina
 
   5
-  Ek shishe meiṅ kuchh khaak liye phirti hai daadi
+  Ik shishe meiṅ kuchh khaak liye phirti hai daadi
   Aur karti hai zaari
   Mazlum Husaina mere mazlum Husaina
-  Suna hai Madina
+  Sunaa hai Madina
 
   6
-  Amma ki bhari god rahe maang na ujre
+  Ammaaṅ ki bhari god rahe maang na ujre
   Khaaliq se dua hai
-  Ya Rab mere beshir ka aabaad ho jhula
-  Suna hai Madina
+  Ya Rab mere beshir ka aabaad ho jhulaa
+  Sunaa hai Madina
 
   7
   Khat parh ke Husain Ibn-e-Ali khub sa roye
   Aur sar ko jhukaaye
-  Qaasid ke qarib rakh diya ek nanha sa laasha
-  Suna hai Madina
+  Qaasid ke qarib rakh diya ik nanha sa laasha
+  Sunaa hai Madina
 ---
 
 سُونا ہے مدینہ سُونا ہے مدینہ

@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Nile haiṅ rukhsaar mere aur gale meiṅ hai rasan
-  Tashnagi bewaarsi laachaargi aur bewatan
+  Tashnagi bewaarisi laachaargi aur bewatan
   Ek hai dil gham hazaar baba
 
   3
@@ -33,13 +33,13 @@ romanLyrics: |-
   Roti huṅ zaar o qataar baba
 
   4
-  Berida sab Bibiyaṅ haiṅ Shaam ka baazaar hai
+  Berida sab bibiyaaṅ haiṅ Shaam ka baazaar hai
   Zabt ka yaara nahiṅ hai sabr bhi dushwaar hai
   Sabr ke parwardigaar baba
 
   5
   Mil na sakuṅ gi kabhi maiṅ aap se ae baba jaaṅ
-  Aap ka rauza banega Karbala ke darmiyaaṅ
+  Aap ka rauza bane ga Karbala ke darmiyaaṅ
   Shaam meiṅ mera mazaar baba
 
   6
@@ -53,13 +53,13 @@ romanLyrics: |-
   Dekhti thi baar baar baba
 
   8
-  Kaun hai pursaan-e-haal pyaas bujhaayega kaun
-  Baaliyaaṅ meri sitamgaroṅ se dilaayega kaun
+  Kaun hai pursaan-e-haal pyaas bujhaaye ga kaun
+  Baaliyaaṅ meri sitamgaroṅ se dilaaye ga kaun
   So gaye sab jaanisaar baba
 
   9
   Mazhar Abidi bayaan karta hai Irfan se
-  Aati hai ab bhi sadaaeiṅ Shaam ke zindaan se
+  Aati hai ab bhi sadaaeṅ Shaam ke zindaan se
   Karte the tum kitna pyaar baba
 ---
 

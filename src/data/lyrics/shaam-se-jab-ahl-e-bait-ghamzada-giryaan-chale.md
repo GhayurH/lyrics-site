@@ -18,106 +18,106 @@ romanLyrics: |-
   1
   Shaam se jab Ahl-e-Bait, ghamzada giryaaṅ chale
   Yaani su-e-Karbala, chaak girebaaṅ chale
-  Le ke shahidoṅ ke sar, besar o saamaaṅ chale
+  Le ke shahidoṅ ke sar, be sar o saamaaṅ chale
   Karte hue ye bayaaṅ baa-dil-e-naalaaṅ chale
   Aaj hai chaaliswaaṅ Hazrat-e-Shabbir ka
   Tishna-dahan kushta-e-khanjar o taqdir ka
 
   2
-  Raah meiṅ un se koi, puchta gar aan kar
+  Raah mein un se koi, puchhta gar aan kar
   Kis ke ho naamus tum, kis ke ho lakht-e-jigar
   Kis ne hai luta tumheiṅ, kis ne kiya bepadar
   Kehte the Ahl-e-Haram un se yuṅ ba-chashm-e-tar
-  Tum se bayaaṅ kya kareiṅ apne hum ehwaal ko
+  Tum se bayaaṅ kya kareiṅ apne ham ahwaal ko
   Dafn haiṅ karne chale Fatima ke laal ko
 
   3
   Woh jo haram mohtaram, Shah ke ba-sad bukaa
-  Manzileiṅ te karte haaye, pohanche dar-e-Karbala
-  Dur se woh qatl-gaah, un ko dikhayi diya
-  Ro ke yeh kehne lage Hazrat-e-Zain-ul-Aba
+  Manzileiṅ tai karte haaye, pahunche dar-e-Karbala
+  Dur se woh qatl-gaah, un ko dikhaayi diya
+  Ro ke ye kehne lage Hazrat-e-Zain-ul-Aba
   Untoṅ se utro tum ab karte hue shor o shain
-  Rote chalo piyaada-pa, yaaṅ se ba-laash-e-Husain
+  Rote chalo piyaada pa, yaaṅ se ba-laash-e-Husain
 
   4
-  Hazrat Sajjad se sun ke Haram yeh kalaam
+  Hazrat Sajjad se sun ke Haram ye kalaam
   Pit-te rote hue untoṅ se utre tamaam
   Aaye jo laashoṅ ke paas, haaye woh naashaad kaam
   Sar ko lage pitne, waarisoṅ ke le ke naam
-  Chaadareiṅ sar se utaar aansu bahane lage
+  Chaadareiṅ sar se utaar aaṅsu bahane lage
   Haathoṅ se us ban ki khaak sar pe uraane lage
 
   5
-  Hazrat-e-Sajjad ne dekh ke yeh maajra
+  Hazrat-e-Sajjad ne dekh ke ye maajra
   Bibiyoṅ ko saath le, khub sa maatam kiya
-  Sar jo shahidoṅ ke the, bich meiṅ un ko rakha
-  Sina o sar pit kar, ro ro yeh nauha parha
+  Sar jo shahidoṅ ke the, bich mein un ko rakha
+  Sina o sar pit kar, ro ro ye nauha parha
   Zahra ke masum ka aaj hai chaaliswaaṅ
-  Syed-e-Mazlum ka aaj hai chaaliswaaṅ
+  Sayyid-e-Mazlum ka aaj hai chaaliswaaṅ
 
   6
-  Woh jo hai Ibn-e-Hasan Shah ka aali-nasab
+  Woh jo hai Ibn-e-Hasan Shah ka aali nasab
   Biyaah ke din haaye haaye, qatl hua tishna-lab
-  Shaadi ka jora jo tha, mil gaya mitti meiṅ sab
+  Shaadi ka jora jo tha, mil gaya mitti mein sab
   Us ka bhi chehlum hai aaj, haaye sitam hai ghazab
   Akbar o Asghar ka bhi aaj hai chaaliswaaṅ
   Shah ke lashkar ka bhi aaj hai chaaliswaaṅ
 
   7
-  Hazrat-e-Zain-ul-Aba, noha ye jab parh chuke
-  Bibiyoṅ se iss tarah, ro ro ye kehne lage
-  Pehle kaho kis ki laash, qabr meiṅ Abid rakhe
-  Bano-e-Abbas yuṅ, boli maiṅ sadqe tere
-  Pehle mere saaeiṅ ki, laash tou dhundwaaio
-  De ke kafan qabr meiṅ, phir usse dalwaaio
+  Hazrat-e-Zain-ul-Aba, nauha ye jab parh chuke
+  Bibiyoṅ se is tarah, ro ro ye kehne lage
+  Pehle kaho kis ki laash, qabr mein Abid rakhe
+  Bano-e-Abbas yuṅ, boli main sadqe tire
+  Pehle mire saaiṅ ki, laash to dhundwaaiyo
+  De ke kafan qabr mein, phir use dalwaaiyo
 
   8
-  Ro diya Sajjad ne, sunte hi uss ki ye baat
+  Ro diya Sajjad ne, sunte hi us ki ye baat
   Bano-e-Abbas ko, le chale phir apne saath
-  Rote hue jab gaye, bar lab-e-nehr-e-furaat
-  Dekha tou Abbas ke, kat gaye haiṅ dono haath
-  Haathoṅ ka khun beh gaya, zardi hai sab chaa gayi
-  Ungli har ek haath ki, dhup se murjhaa gayi
+  Rote hue jab gaye, bar lab-e-nahr-e-Furaat
+  Dekha to Abbas ke, kat gaye haiṅ donoṅ haath
+  Haathoṅ ka khun beh gaya, zardi hai sab chhaa gayi
+  Ungli har ak haath ki, dhup se murjhaa gayi
 
   9
-  Aap ne ek baar ye, dekha jo phir ghor se
-  Tan se juda hogaye, shaane kate haiṅ pare
+  Aap ne ak baar ye, dekha jo phir ghor se
+  Tan se juda ho gaye, shaane kate haiṅ pare
   Sina-e-mazlum par, zakhm haiṅ talwaar ke
-  Ghaaiyaaṅ bhi kat gayi, zakhmoṅ se shamshir ke
-  Sina-e-pur nur hai, tirouṅ se chida hua
-  Laasha hai tukre para, khaak meiṅ lipta hua
+  Ghaaiyaaṅ bhi kat gayiṅ, zakhmoṅ se shamshir ke
+  Sina-e-purnur hai, tiroṅ se chhida hua
+  Laasha hai tukre para, khaak mein lipta hua
 
   10
   Bewa-e-Abbas ne, dekh ke ye maajra
-  Le le ke shohar ka naam, khub sa matam kiya
-  Laasha-e-Abbas ke, tukre jo the jaa bajaa
-  Chun ke har ek uzu ko, sar se mila kar kaha
-  Aao ae Zain-ul-Aba, khaak uraati huṅ maiṅ
-  Yaani sar Abbas ka, tan se milaati huṅ maiṅ
+  Le le ke shohar ka naam, khub sa maatam kiya
+  Laasha-e-Abbas ke, tukre jo the ja bajaa
+  Chun ke har ak uzv ko, sar se mila kar kaha
+  Aao ae Zain-ul-Aba, khaak uraati huṅ main
+  Yaani sar Abbas ka, tan se milaati huṅ main
 
   11
-  Kehti thi Akbar ki maaṅ ae mere karyal jawaaṅ
+  Kehti thi Akbar ki maaṅ ae mere kariyal jawaaṅ
   Chhut ke zindaaṅ se karne ko chaaliswaaṅ
   Khasta jigar aayi hai sehti hui sakhtiyaaṅ
   Dekh to nur-e-nazar kis tarah roti hai maaṅ
-  Faatiha dilwaauṅgi ashkoṅ ki barsaat meiṅ
-  Zakhm hare ho gaye sina-e-Saadaat meiṅ
+  Faatiha dilwaauṅ gi ashkoṅ ki barsaat mein
+  Zakhm hare ho gaye sina-e-Saadaat mein
 
   12
-  Bachchoṅ se bichhre hue Zainab-e-Laachaar ko
+  Bachchoṅ se bichhre hue Zainab laachaar ko
   Bit gaye kitne din muztar o ghamkhwaar ko
-  Ab jo rehaayi mili haaye dilafgaar ko
+  Ab jo rihaayi mili haaye dilafgaar ko
   Aun o Muhammad ke phir sina o rukhsaar ko
   Pyaar kiya aur ye kaha ae mere sheroṅ suno
   Karna hai chaaliswaaṅ Bibiyoṅ maatam karo
 
   13
-  Boli Rubab-e-Haziṅ laasha-e-Beshir par
+  Boli Rubaab haziṅ laasha-e-beshir par
   Kiuṅ na gire bijliyaaṅ maadar-e-dilgir par
   Khuṅ hai abhi tak laga zulm ke us tir par
-  Aaj wo din aa gaya uff meri taqdir par
+  Aaj woh din aa gaya uff meri taqdir par
   Karti huṅ chaaliswaaṅ nanhe se Quran ka
-  Sadqa maiṅ dila saki haaye teri jaan ka
+  Sadqa main dila saki haaye teri jaan ka
 ---
 ۱
 شام سے جب اہلِ بیت، غمزدہ گریاں چلے

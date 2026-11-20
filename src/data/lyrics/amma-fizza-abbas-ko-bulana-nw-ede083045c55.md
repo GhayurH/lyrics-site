@@ -1,50 +1,100 @@
 ---
-title: "Amma Fizza Abbas Ko Bulana"
+title: "امّاں فضّہ عبّاس کو بلانا"
+alternateTitle: "Amma Fizza Abbas Ko Bulana"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aagaya bazar e Shaam
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  1
+  Chadar nahi hai sarpar
+  Hai be haya zamana, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  2
+  Rahon mein chalte chalte kyun kafela ruka hai
+  Jakda hai bediyon mein Sajjad gir gaya hai
+  Aata hai Shimr le kar
+  Hathon mein taziyana, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  3
+  Jakdi hui rasan mein, lachar bibiyan hai
+  Sar par rida nahi hai pur khar wadiyan hai
+  In wadiyon mein chal kar, pandrahsao mil jana, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  4
+  Shabbir ki yatima khati hai jub tamache
+  Mai ro ke poochti hun tujhko bachaun kaise
+  Abbas ko bulale, deta hai Shimr tana, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  5
+  Balon se apna chehra har gam par chupaun,
+  Mai malka e haya hun darbar kaise jaaun
+  Mai ro rahi hun lekin, hasta hai yeh zamana, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  6
+  Zainab ka naam lekar zalim bula raha hai,
+  Sajjad na tawan ko phir khoon rula raha hai
+  Gairat ke us khuda ko manzar hai yeh dikhane, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
+
+  7
+  Kaise bayan karenge Farhan aur Mazhar,
+  Har gaam keh rahi thi Zainab yehi to ro kar
+  Bazar se guzar kar zindan tak hai jaana, Amma Fizza Abbas ko bulana
+  Aada ke pattharon ka Zainab bani nishana, Amma Fizza Abbas ko bulana
 ---
 
-Aagaya Bazar E Shaam …..5
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..2
+آ گیا بازارِ شام
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-Chadar Nahi Hai Sarpar …..2
-Hai Be Haya Zamana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
+۱
+چادر نہیں ہے سر پر
+ہے بے حیا زمانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-Rahon Mein Chalte Chalte Kyun Kafela Ruka Hai
-Jakda Hai Bediyon Mein SAJJAD (ASWS) Gir Gaya Hai
-Aata Hai shimr (LA) Le Kar
-Hathon Mein Taziyana , Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
+۲
+راہوں میں چلتے چلتے کیوں قافلہ رکا ہے
+جکڑا ہے بیڑیوں میں سجّادؑ گر گیا ہے
+آتا ہے شمر (لع) لے کر
+ہاتھوں میں تازیانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-Jakdi Hui Rasan Mein , Lachar BIBIYAN (SAWS) Hai
-Sar Par Rida Nahi Hai Pur Khar Wadiyan Hai
-In Wadiyon Mein Chal Kar, Pandrahsao Mil Jana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
+۳
+جکڑی ہوئی رسن میں، لاچار بیبیاںؑ ہیں
+سر پر ردا نہیں ہے پرخار وادیاں ہیں
+ان وادیوں میں چل کر، پندرہ سو میل جانا، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-SHABBIR (ASWS) Ki YATIMA (SAWS) Khati Hai Jub Tamache
-Mai Ro Ke Poochti Hun Tujhko Bachaun Kaise
-ABBAS (ASWS) Ko Bulale , Deta Hai shimr (LA) Tana, , Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
+۴
+شبّیرؑ کی یتیمہؑ کھاتی ہے جب طمانچے
+میں رو کے پوچھتی ہوں تجھ کو بچاؤں کیسے
+عبّاسؑ کو بلا لے، دیتا ہے شمر (لع) طعنہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-Balon Se Apna Chehra Har Gam Par Chupaun,
-Mai Malka E Haya Hun Darbar Kaise Jaaun
-Mai Ro Rahi Hun Lekin, Hasta Hai Yeh Zamana , Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
+۵
+بالوں سے اپنا چہرہ ہر گام پر چھپاؤں،
+میں ملکۂ حیا ہوں دربار کیسے جاؤں
+میں رو رہی ہوں لیکن، ہنستا ہے یہ زمانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-ZAINAB (SAWS) Ka Naam Lekar Zalim Bula Raha Hai,
-SAJJAD (ASWS) Na Tawan Ko Phir Khoon Rula Raha Hai
-Gairat Ke Us Khuda Ko Manzar Hai Yeh Dikhane , Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
+۶
+زینبؑ کا نام لے کر ظالم بلا رہا ہے،
+سجّادؑ ناتواں کو پھر خون رلا رہا ہے
+غیرت کے اس خدا کو منظر ہے یہ دکھانے، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
 
-Kaise Bayan Karenge Farhan Aur Mazhar,
-Har Gaam Keh Rahi Thi ZAINAB (SAWS) Yehi To Ro Kar
-Bazar Se Guzar Kar Zindan Tak Hai Jaana, , Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-Aada Ke Pattharon Ka ZAINAB (SAWS) Bani Nishana, Amma FIZZA (AS) ABBAS (ASWS) Ko Bulana…..
-
-Shared via Nohay Writeups for iOS
+۷
+کیسے بیاں کریں گے فرحان اور مظہر،
+ہر گام کہہ رہی تھی زینبؑ یہی تو رو کر
+بازار سے گزر کر زنداں تک ہے جانا، امّاں فضّہؑ عبّاسؑ کو بلانا
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا

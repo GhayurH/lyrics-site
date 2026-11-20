@@ -1,89 +1,167 @@
 ---
-title: "Ana Majnoon Al Ali Haider Haider"
+title: "انا مجنون آلِ علی حیدر حیدر"
+alternateTitle: "Ana Majnoon Al Ali Haider Haider"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kul-e-eman Ali
+  Mera sultan Ali
+  Noor-e-yazdan Ali
+  Momin ka eman Ali hai
+
+  2
+  Sajdoon ki meezan Ali hai
+  Terah Rajab ko ho gaya zahir
+  Kabay ki pehchan Ali hai
+  Aayat Allah Ali
+
+  3
+  Kabatu Allah Ali
+  Izzat Allah Ali
+  Kaun hai tere jaisa saein
+  Mere murshid Maula saein
+
+  4
+  Raas faqeeri aa gayi mujh ko
+  Yeh hai tera sadqa saein
+  Paishwa mera Ali
+  Rehnuma mera Ali
+
+  5
+  Aasra mera Ali
+  Dil ke andar lab ke opar
+  Haider Haider Haider Haider
+  Masti mein jab tujh ko paye
+
+  6
+  Kyun na dhamalein dalay Qalandar
+  Shah-e- Shahbaz Ali
+  Deen ka raaz Ali
+  Rab ki aawaz Ali
+
+  7
+  Baat munafiq ko yeh khali hai
+  Mera Ali waliyon ka wali hai
+  Kafir kafir kehne walo
+  Hum shiyon ki jan Ali hai
+
+  8
+  Roh-e- Islam Ali
+  Sab mere kam Ali
+  Aap ke naam Ali
+  Soraj ko paltaya Ali ne
+
+  9
+  Taray ko bulwaya Ali ne
+  Apni khatir do nabiyon se
+  Kabay ko banwaya Ali ne
+  Shah-e-mehrab Ali
+
+  10
+  Dur-e-nayab Ali
+  Fakhar-e-ashab Ali
+  Khaybar ka darwaza ukhara
+  Marhab ko bhi iss ne pachara
+
+  11
+  Woh kyun pahari par bhagay ga
+  Jis ne parha hai Haider ka pahara
+  Sab ka mohsin hai Ali
+  Dil-e- momin hai Ali
+
+  12
+  Mera zamin hai Ali
+  Aao Takallum Khum ke jaisa
+  Hum bhi lagaein mil kar narah
+  Hath utha kar sare bolo
+
+  13
+  Haider Maula Haider Maula
+  Sharah-e-tauheed Ali
+  Subh-e-umeed Ali
+  Hai meri eid Ali
 ---
 
-1
-Kul-e-Eman Ali.
-Mera Sultan Ali.
-Noor-e-Yazdan Ali.
-Momin Ka Eman Ali Hai.
+۱
+کلِ ایماں علی
+میرا سلطان علی
+نورِ یزداں علی
+مومن کا ایماں علی ہے
 
-2
-Sajdoon Ki Meezan Ali Hai.
-Terah Rajab Ko Ho Gaya Zahir.
-Kabay Ki Pehchan Ali Hai.
-Aayat ALLAH Ali.
+۲
+سجدوں کی میزان علی ہے
+تیرہ رجب کو ہو گیا ظاہر
+کعبے کی پہچان علی ہے
+آیت اللہ علی
 
-3
-Kabatu ALLAH Ali.
-Izzat ALLAH Ali.
-Kaun Hai Tere Jaisa Saein.
-Mere Murshid Maula Saein.
+۳
+کعبۃ اللہ علی
+عزت اللہ علی
+کون ہے تیرے جیسا سائیں
+میرے مرشد مولا سائیں
 
-4
-Raas Faqeeri Aa Gayi Mujh Ko.
-Yeh Hai Tera Sadqa Saein.
-Paishwa Mera Ali.
-Rehnuma Mera Ali.
+۴
+راس فقیری آ گئی مجھ کو
+یہ ہے تیرا صدقہ سائیں
+پیشوا میرا علی
+رہنما میرا علی
 
-5
-Aasra Mera Ali.
-Dil Ke Andar Lab Ke Opar.
-Haider Haider Haider Haider.
-Masti Mein Jab Tujh Ko Paye.
+۵
+آسرا میرا علی
+دل کے اندر لب کے اوپر
+حیدر حیدر حیدر حیدر
+مستی میں جب تجھ کو پائے
 
-6
-Kyun Na Dhamalein Dalay Qalandar.
-Shah-e- Shahbaz Ali.
-Deen Ka Raaz Ali.
-Rab Ki Aawaz Ali.
+۶
+کیوں نہ دھمالیں ڈالے قلندر
+شاہِ شہباز علی
+دین کا راز علی
+رب کی آواز علی
 
-7
-Baat Munafiq Ko Yeh Khali Hai.
-Mera Ali Waliyon Ka Wali Hai.
-Kafir Kafir Kehne Walo.
-Hum Shiyon Ki Jan Ali Hai.
+۷
+بات منافق کو یہ کھلی ہے
+میرا علی ولیوں کا ولی ہے
+کافر کافر کہنے والو
+ہم شیعوں کی جان علی ہے
 
-8
-Roh-e- Islam Ali.
-Sab Mere Kam Ali.
-Aap Ke Naam Ali.
-Soraj Ko Paltaya Ali Ne.
+۸
+روحِ اسلام علی
+سب میرے کام علی
+آپ کے نام علی
+سورج کو پلٹایا علی نے
 
-9
-Taray Ko Bulwaya Ali Ne.
-Apni Khatir Do Nabiyon Se.
-Kabay Ko Banwaya Ali Ne.
-Shah-e-Mehrab Ali.
+۹
+تارے کو بلوایا علی نے
+اپنی خاطر دو نبیوں سے
+کعبے کو بنوایا علی نے
+شاہِ محراب علی
 
-10
-Dur-e-Nayab Ali.
-Fakhar-e-Ashab Ali.
-Khaybar Ka Darwaza Ukhara.
-Marhab Ko Bhi Iss Ne Pachara.
+۱۰
+دُرِ نایاب علی
+فخرِ اصحاب علی
+خیبر کا دروازہ اکھاڑا
+مرحب کو بھی اس نے پچھاڑا
 
-11
-Woh Kyun Pahari Par Bhagay Ga.
-Jis Ne Parha Hai Haider Ka Pahara.
-Sab Ka Mohsin Hai Ali.
-Dil-e- Momin Hai Ali.
+۱۱
+وہ کیوں پہاڑی پر بھاگے گا
+جس نے پڑھا ہے حیدر کا پہاڑا
+سب کا محسن ہے علی
+دلِ مومن ہے علی
 
-12
-Mera Zamin Hai Ali.
-Aao Takallum Khum Ke Jaisa.
-Hum Bhi Lagaein Mil Kar Narah.
-Hath Utha Kar Sare Bolo.
+۱۲
+میرا ضامن ہے علی
+آؤ تکلم خم کے جیسا
+ہم بھی لگائیں مل کر نعرہ
+ہاتھ اٹھا کر سارے بولو
 
-13
-Haider Maula Haider Maula.
-Sharah-e-Tauheed Ali.
-Subh-e-Umeed Ali.
-Hai Meri Eid Ali.
+۱۳
+حیدر مولا حیدر مولا
+شرحِ توحید علی
+صبحِ امید علی
+ہے میری عید علی

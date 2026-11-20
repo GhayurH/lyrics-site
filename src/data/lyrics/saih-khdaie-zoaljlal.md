@@ -10,58 +10,73 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaye jo qabre Fatima pe Syed-e-Anaam
-  Rukhsaar rekh ke qabr pe ro kar kiya kalam
-  Sehra me dil ke tukroon ki basti basaoon ga
-  Amma Madina laut ke may aa na paoon ga
-  Kampa falak laraznay lagi qabr-e-Syeda
-  Aayi janab-e-Fatima ki qabr se sada
+  Aaye jo qabr-e-Fatima pe Sayyid-e-Anaam
+  Rukhsaar rakh ke qabr pe ro kar kiya kalaam
+  Sehra mein dil ke tukroṅ ki basti basaauṅ ga
+  Ammaaṅ Madine laut ke main aa na paauṅ ga
+  Kaanpa falak larazne lagi qabr-e-Sayyida
+  Aayi janaab-e-Fatima ki qabr se sadaa
 
   2
-  Jaao mere laal,  Tum pe har qadam rahe dua meri,
-  Aur saaya-e-khuda-e-zul jalaal
+  Jaao mere laal, jaao mere laal
+  Tum pe har qadam rahe dua meri
+  Aur saaya-e-Khudaa-e-Zuljalaal
 
   3
-  Ja rahe ho tum jo keh ke deene haq bachaoon ga
-  Amma aap ki kasam, me khoon me nahawunga
-  Ab ho jo bhi haal, tum ho payemaal,
-  Tum pe har qadam rahe dua meri, Aur saaya-e-khuda-e-zul jalaal
+  Jaa rahe ho tum jo keh ke din-e-haq bachaauṅ ga
+  Ammaaṅ aap ki qasam main khun mein nahaauṅ ga
+  Ab ho jo bhi haal, tum ho paaye maal
+  Tum pe har qadam rahe dua meri
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 
   4
-  Bachpanay me jo kiya tha wada baba jaan se
-  Waqt ab wo aa gaya kafan tu sar se baandhne
-  Dekh mere laal, deen ka hai sawaal,
-  Kamyaabiyan hai tere saath hi, Aur saaya-e-khuda-e-zul jalaal
+  Bachpane mein jo kiya tha waada Baba Jaan se
+  Waqt ab woh aa gaya kafan tu sar se baandh le
+  Dekh mere laal, din ka hai sawaal
+  Kaamyaabiyaaṅ haiṅ tere saath hi
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 
   5
-  Chahiye Khuda ke deen ko Asghar amma
-  Do ridaay-e-zainab-e-hazeen ka sayebaan
-  Jawo ab shiqaab ibn-e-buturaab,
-  Mei tumhare saath baba jaan bhi, Aur saaya-e-khuda-e-zul jalaal
+  Chaahiye Khudaa ke din ko agar ammaaṅ
+  Do ridaa-e-Zainab-e-hazin ka saaibaaṅ
+  Jaao ab shitaab ibn-e-Bu Turaab
+  Haiṅ tumhaare saath Baba Jaan bhi
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 
   6
-  De raha hay deen-e-Kibriya tumhe salam
-  Almadad Husain almadad shah-e-huda
-  Bay watan Husain, mere dil ke cheyn,
-  Hamsafar tumhare saath maa huwi, Aur saaya-e-khuda-e-zul jalaal
+  De raha hai din-e-Kibriyaa tumheṅ sadaa
+  Almadad Husain almadad shah-e-Hudaa
+  Be watan Husain mere dil ke chain
+  Hamsafar tumhaare saath maaṅ hui
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 
   7
-  Shaney Ba wafa ke hoon gay jis ghari qalam
-  Rowenge alam ke saaye mei tere haram
-  Rowengi wafaa aur karbala,
-  Rowengi faraat aur tashnagi, Aur saaya-e-khuda-e-zul jalaal
+  Shaane baawafaa ke hoṅ ge jis ghari qalam
+  Roeṅ ge alam ke saaye mein tere haram
+  Roye gi wafaa aur Karbalaa
+  Roye gi Faraat aur tashnagi
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 
   8
-  Akbar-e-Jawaan jigar pe khayen gay sina
-  Maa kahengi mera chaand khogaya kaha
-  Uspe nohakhwaan, honge meri jaan,
-  Mei bi aur Hasan bi aur Rasool bi, Aur saaya-e-khuda-e-zul jalaal
+  Akbar-e-jawaaṅ jigar pe khaaye ga sinaaṅ
+  Maaṅ kahe gi mera chaand kho gaya kahaaṅ
+  Us pe noha khwaaṅ, hoṅ ge meri jaaṅ
+  Main bhi aur Hasan bhi aur Rasul bhi
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 
   9
-  Ye Sada mazar-e-Syeda se Mazhar Abidi
-  Sunke rodiyey Husain Mustafa ki aal bhi
-  Jaawo mere laal, jaawo mere laal,
-  Tumpe har qadam rahe dua meri, aur saaya-e-khuda-e-zuljalaal
+  Ye sadaa mazaar-e-Sayyida se Mazhar Aabidi
+  Sun ke ro diye Husain Mustafa ki aal bhi
+  Jaao mere laal jaao mere laal
+  Tum pe har qadam rahe dua meri
+  Aur saaya-e-Khudaa-e-Zuljalaal
+  Jaao mere laal, jaao mere laal
 ---
 
 ۱

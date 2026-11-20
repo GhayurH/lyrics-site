@@ -10,98 +10,98 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jis dam Zahoor-e-Qayam e aali maqam ho
-  Aye kash nokaron mein hamara bhi naam ho
+  Jis dam zahur-e-Qaaim-e-aali maqaam ho
+  Ae kaash naukaroṅ mein hamaara bhi naam ho
 
   1
-  Aye kash Rab dikhaye woh manzar kamal ka
-  Kabay pe jab nazool ho Zahra ke lal ka
-  Jab aks jalwa bar ho Rab ke jamal ka
-  Main bhi woh noor dekhon Rukh-e-Zuljalal ka
+  Ae kaash Rab dikhaaye woh manzar kamaal ka
+  Kaabe pe jab nuzul ho Zahra ke laal ka
+  Jab aks jalwa baar ho Rab ke jamaal ka
+  Main bhi woh nur dekhuṅ rukh-e-Zuljalaal ka
 
   2
-  Qadmo mein sar jhuka ke kahon ya Ali madad
-  Maula jawab dein mujhe Maula Ali madad
-  Aye kash aisa ho keh jab aaein merey Imam
-  Shamil ho khadmein mein mera bhi aik naam
+  Qadmoṅ mein sar jhuka ke kahuṅ ya Ali madad
+  Maula jawaab deṅ mujhe Maula Ali madad
+  Ae kaash aisa ho ke jab aaeṅ mere Imam
+  Shaamil ho khaadimin mein mera bhi ek naam
 
   3
-  Ho sakta hai na zindah ho tab unn ka yeh ghulam
-  Par malik-e-hayat karein aisa ahtamam
-  Kabay ki chat pe aa ke lagaein sada Imam
-  Turbat se uthoon keh ke main Labaik ya Imam
+  Ho sakta hai na zinda ho tab un ka yeh ghulaam
+  Par maalik-e-hayaat kareṅ aisa ehtimaam
+  Kaabe ki chhat pe aa ke lagaaeṅ sada Imam
+  Turbat se uthuṅ keh ke main labbaik ya Imam
 
   4
-  Jis dam attaye noor ho jari Imam ki
-  Utray zameen par jo amari Imam ki
-  Jab le balaein Khaliq-e-Bari Imam ki
-  Our samne merey ho sawari Imam ki
+  Jis dam ataa-e-nur ho jaari Imam ki
+  Utre zamin par jo amaari Imam ki
+  Jab le balaaeṅ Khaaliq-e-Baari Imam ki
+  Aur saamne mere ho sawaari Imam ki
 
   5
-  Hasil jo anbiya ko ho main woh maqam loon
-  Barh kar main Murtajiz ki rakabon ko tham loon
-  Noor-e-Khuda ka jalwa jo kuch dekh paon main
-  Mansab malaika se bhi barh kar yeh paon main
+  Haasil jo anbiya ko ho main woh maqaam luṅ
+  Barh kar main Murtajiz ki rikaaboṅ ko thaam luṅ
+  Nur-e-Khuda ka jalwa jo kuchh dekh paauṅ main
+  Mansab malaaika se bhi barh kar yeh paauṅ main
 
   6
-  Rahoon mein Zuljinah ki aankhein bichaon main
-  Hathoon se Zuljinah ko charah khilaon main
-  Itna rahon boland keh qausain chom loon
-  Aye kash main Imam ki nalain chom loon
+  Raahoṅ mein Zuljanaah ki aaṅkheṅ bichhaauṅ main
+  Haathoṅ se Zuljanaah ko chaara khilaauṅ main
+  Itna rahuṅ buland ke qausain chum luṅ
+  Ae kaash main Imam ki naalain chum luṅ
 
   7
-  Aye kash jab Imam-e-Zamana ka ho zahoor
-  Aye kash jab zameen pe chamkay Khuda ka noor
-  Aye kash jab aroj pe ho Haidery garor
-  Aye kash jalwa bar ho jis dam Shua-e-Toor
+  Ae kaash jab Imam-e-Zamaana ka ho zahur
+  Ae kaash jab zamin pe chamke Khuda ka nur
+  Ae kaash jab uruj pe ho Haidari ghurur
+  Ae kaash jalwa baar ho jis dam shuaa-e-Tur
 
   8
-  Ho ru baro jo chehra Shah e Mashraqain ka
-  Pursa main doon namaz se pehle Hussain ka
-  Kabay ke samne lagay jab halqa-e-azza
-  Jab hoga nasab Parcham-e-Abbas-e-Bawafa
+  Ho rubaru jo chehra Shaah-e-Mashraqain ka
+  Pursa main duṅ namaaz se pehle Husain ka
+  Kaabe ke saamne lage jab halqa-e-aza
+  Jab hoga nasb parcham-e-Abbaas-e-baawafa
 
   9
-  Halqay mein saf ba saf nazar aaein gay anbiya
-  Dawood parhne aaein gay noha Hussain ka
-  Misal-e-Sitara shal-e-azza mein jara rahon
-  Dawood ki beyaz pakar kar khara rahon
+  Halqe mein saf ba saf nazar aaeṅ ge anbiya
+  Daaud parhne aaeṅ ge nauha Husain ka
+  Misaal-e-sitaara shaal-e-aza mein jara rahuṅ
+  Daaud ki bayaaz pakar kar khara rahuṅ
 
   10
-  Phir oss ke baad jaye jahan Lashkar-e-Imam
-  Shamil ho oss sipah mein aye kash yeh ghulam
-  Ho jaye aik pal mein yeh hasrat meri tamam
-  Aa jaye yeh wajood mera unn ke kuch tu kam
+  Phir us ke baad jaaye jahaaṅ lashkar-e-Imam
+  Shaamil ho us sipaah mein ae kaash yeh ghulaam
+  Ho jaaye ek pal mein yeh hasrat meri tamaam
+  Aa jaaye yeh wajud mera un ke kuchh to kaam
 
   11
-  Jaye woh jahan Sahib-e-Saqlain ki tarha
-  Lipta rahon main pairon se nalain ki tarha
-  Kabay se jab ho Karb-o-Bala ki taraf safar
-  Yani dua ka apni atta ki taraf safar
+  Jaaye woh jahaaṅ Saahib-e-Saqlain ki tarah
+  Liptaa rahuṅ main pairoṅ se naalain ki tarah
+  Kaabe se jab ho Karb o Bala ki taraf safar
+  Yaani dua ka apni ataa ki taraf safar
 
   12
-  Farsh-e-Zameen se arsh-e-ola ki taraf safar
-  Yani Khuda ke ghar se Khuda ki taraf safar
-  Mujh ko bhi kar ke shamil-e-halaat le chalein
-  Kaba sadaein de ga mujhe sath le chalein
+  Farsh-e-zamin se arsh-e-aala ki taraf safar
+  Yaani Khuda ke ghar se Khuda ki taraf safar
+  Mujh ko bhi kar ke shaamil-e-haalaat le chaleṅ
+  Kaaba sadaaeṅ de ga mujhe saath le chaleṅ
 
   13
-  Zahir karein gay khuwab bhi tabeer ke nishan
-  Karb-o-Bala mein khuld ki jageer ke nishan
-  Quran khud dikhaye ga tafseer ke nishan
-  Maula ko main dikhaon ga zanjeer ke nishan
+  Zaahir kareṅ ge khwaab bhi taabir ke nishaaṅ
+  Karb o Bala mein khuld ki jaagir ke nishaaṅ
+  Quraan khud dikhaaye ga tafsir ke nishaaṅ
+  Maula ko main dikhaauṅ ga zanjir ke nishaaṅ
 
   14
-  Iss intezar e ishq mein rahi hoon aap ka
-  Maula main aik adna sipahi hoon aap ka
-  Rizwan our :Noor Ali: hai yeh aarzu
-  Aamad ka shoor jab ho Madine mein chaar so
+  Is intizaar-e-ishq mein raahi huṅ aap ka
+  Maula main ek adna sipaahi huṅ aap ka
+  Rizwaan aur Nur Ali hai yeh aarzu
+  Aamad ka shor jab ho Madine mein chaar su
 
   15
-  Zahra ki shan parhta ho har aik khush gulu
-  Tameer-e-Qabar-e-Zahra ki jab hogi justaju
-  Aye kash mujh ko noor ke parey mein gondh dein
-  Mera wajood bhi ossi garey mein gondh dein
+  Zahra ki shaan parhta ho har ek khush gulu
+  Taamir-e-qabr-e-Zahra ki jab hogi justuju
+  Ae kaash mujh ko nur ke pere mein gundh deṅ
+  Mera wajud bhi usi gaare mein gundh deṅ
 ---
 
 جس دم ظہورِ قائمِ عالی مقام ہو

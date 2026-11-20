@@ -1,29 +1,48 @@
 ---
-title: "Maut Se Khauf Kha Kar Jo Sham-o-Sahar Mangte Hain Dua Zindagi Ke Liye"
+title: "موت سے خوف کھا کر جو شام و سحر مانگتے ہیں دعا زندگی کے لیے"
+alternateTitle: "Maut Se Khauf Kha Kar Jo Sham-o-Sahar Mangte Hain Dua Zindagi Ke Liye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Saeed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Maut se khauf kha kar jo sham-o-sahar mangte hain dua zindagi ke liye
+  Dast basta hai unn se yehi iltija zindagi waqf kar dein Ali ke liye
+  Aap Qanbar ke rutbay se waqif nahi our samajhne chalay hain muqam-e-Ali
+  Banda parwar khudara koi cheez tu choor dijiye Khuda our Nabi ke liye
+
+  2
+  Naza ka waqt hai muskuraon na kyun meri dareena umeed barh aayi hai
+  Meri baleen pe aaya hai Mula mera maut mangi thi main ne issi ke liye
+  Mere Mula ko jo keh raha hai Khuda shirk mein mubtila hai woh mana magar
+  Jab bhi aaya Nuseri koi samne hath barh hi gaya dosti ke liye
+
+  3
+  Tujh ko iss baat ki kya nahi hai khabar teri baleen pe hoon gaye Ali jalwa gar
+  Aye Saeed-e-khush anjam ab qabar mein our kya chahiye roshni ke liye
+  Shah-e-mardaan Ali shair-e-yazdaan Ali fakhar-e-anbiya Ali shah-e-shahaan Ali
+  Roh-e-quraan Ali jan-e-emaan Ali hai fazeelat hai zaibaan iss ke liye
 ---
 
-1
-Maut Se Khauf Kha Kar Jo Sham-o-Sahar Mangte Hain Dua Zindagi Ke Liye.
-Dast Basta Hai Unn Se Yehi Iltija Zindagi Waqf Kar Dein Ali Ke Liye.
-Aap Qanbar Ke Rutbay Se Waqif Nahi Our Samajhne Chalay Hain Muqam-e-Ali.
-Banda Parwar Khudara Koi Cheez Tu Choor Dijiye Khuda Our Nabi Ke Liye.
+۱
+موت سے خوف کھا کر جو شام و سحر مانگتے ہیں دعا زندگی کے لیے
+دست بستہ ہے ان سے یہی التجا زندگی وقف کر دیں علی کے لیے
+آپ قنبر کے رتبے سے واقف نہیں اور سمجھنے چلے ہیں مقامِ علی
+بندہ پرور خدارا کوئی چیز تو چھوڑ دیجیے خدا اور نبی کے لیے
 
-2
-Naza Ka Waqt Hai Muskuraon Na Kyun Meri Dareena Umeed Barh Aayi Hai.
-Meri Baleen Pe Aaya Hai Mula Mera Maut Mangi Thi Main Ne Issi Ke Liye.
-Mere Mula Ko Jo Keh Raha Hai Khuda Shirk Mein Mubtila Hai Woh Mana Magar.
-Jab Bhi Aaya Nuseri Koi Samne Hath Barh Hi Gaya Dosti Ke Liye.
+۲
+نزع کا وقت ہے مسکراؤں نہ کیوں میری دیرینہ امید بر آئی ہے
+میری بالیں پہ آیا ہے مولا میرا موت مانگی تھی میں نے اسی کے لیے
+میرے مولا کو جو کہہ رہا ہے خدا شرک میں مبتلا ہے وہ مانا مگر
+جب بھی آیا نصیری کوئی سامنے ہاتھ بڑھ ہی گیا دوستی کے لیے
 
-3
-Tujh Ko Iss Baat Ki Kya Nahi Hai Khabar Teri Baleen Pe Hoon Gaye Ali Jalwa Gar.
-Aye Saeed-E-Khush Anjam Ab Qabar Mein Our Kya Chahiye Roshni Ke Liye.
-Shah-e-Mardaan Ali Shair-e-Yazdaan Ali Fakhar-e-Anbiya Ali Shah-e-Shahaan Ali.
-Roh-e-Quraan Ali Jan-e-Emaan Ali Hai Fazeelat Hai Zaibaan Iss Ke Liye.
+۳
+تجھ کو اس بات کی کیا نہیں ہے خبر تیری بالیں پہ ہوں گے علی جلوہ گر
+اے سعیدِ خوش انجام اب قبر میں اور کیا چاہیے روشنی کے لیے
+شاہِ مرداں علی شیرِ یزداں علی فخرِ انبیا علی شاہِ شاہاں علی
+روحِ قرآن علی جانِ ایماں علی ہے فضیلت ہے زیباں اس کے لیے

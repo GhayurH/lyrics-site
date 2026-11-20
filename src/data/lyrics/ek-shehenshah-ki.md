@@ -16,9 +16,9 @@ romanLyrics: |-
   Ek saahib-e-aalam ne basaayi thi Karbala
 
   1
-  Maa ne mujhe lori meiṅ sunaayi thi Karbala
+  Maaṅ ne mujhe lori meiṅ sunaayi thi Karbala
   Us din se mere dil meiṅ samaayi thi Karbala
-  Maa ne sunaayi thi suno meri zabaani
+  Maaṅ ne sunaayi thi suno meri zabaani
   Mazlum shehenshah ki mazlum kahaani
   Tum bhi kaho maiṅ bhi kahuṅ
   Gunj uthe saare zamaane meiṅ yahi shor o shain
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   2
   Wo shehenshah Madine meiṅ raha karta tha
-  Jis ki maa Fatema Zehra thi Ali tha baaba
+  Jis ki maaṅ Fatema Zehra thi Ali tha baaba
   Jis ka bhaai tha Hasan aur Nabi tha naana
   Sab se afzal tha zamaane meiṅ isi ka kunba
   Tum bhi kaho maiṅ bhi kahuṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
   Husain Husain Imam Husain
 
   3
-  Us shehenshah ka ek bhaai tha Abbas-e-jari
+  Us shehenshah ka ek bhaai tha Abbas jari
   Ek beta Ali Akbar bhi tha hamshakl-e-Nabi
   Ek farzand tha shehzaada Ali Asghar bhi
   Ek beti thi Sakina jo sukun-e-dil thi
@@ -44,8 +44,8 @@ romanLyrics: |-
 
   4
   Ek pisar aisa shehenshah ko Khaaliq ne diya
-  Naam Sajjad laqab Zain-ul-Aba tha jis ka
-  Ek behan Zainab-e-Kubra thi haya ki malka
+  Naam Sajjad laqab Zain-ul-Abaa tha jis ka
+  Ek behan Zainab-e-Kubra thi haya ki malika
   Bhaai ke saath jo saaye ki tarah thi Wallaah
   Tum bhi kaho maiṅ bhi kahuṅ
   Gunj uthe saare zamaane meiṅ yahi shor o shain

@@ -1,6 +1,6 @@
 ---
 title: "اے غریب الغرباء اے میرے بھائی رضاؑ"
-alternateTitle: "Aey Ghareeb-ul-Ghurba Aey Mere Bhai Raza"
+alternateTitle: "Ae Ghareeb-ul-Ghurba Ae Mere Bhai Raza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,74 +8,74 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Aey mere bhai Raza aey mere bhai Raza
+  Ae mere bhai Raza ae mere bhai Raza
 
   1
-  May saaniye Zainab hoon, tu saaniye Hussain
-  Aey ghareeb-ul-ghurba
+  Main saani-e-Zainab hoṅ, tu saani-e-Husain
+  Ae ghareeb-ul-ghurba
 
   2
-  Tujh pe hamsheer fida
-  Tujhse milne ke liye
-  Kitne milo ka safar
+  Tujh pe hamshir fida
+  Tujh se milne ke liye
+  Kitne miloṅ ka safar
   Teri Zainab ne kiya haaye
-  Aey ghareeb-ul-ghurba
+  Ae ghareeb-ul-ghurba
 
   3
-  Tujh pe hamsheer fida
+  Tujh pe hamshir fida
 
   4
-  Mujhko pardes me ye baat rulati hi rahi
-  Door hoon ghar se magar sar pe rida hai bhai
-  Binte Zehra ne magar
-  Shaam-o-kufa ka safar
+  Mujh ko pardes mein ye baat rulaati hi rahi
+  Dur hoṅ ghar se magar sar pe rida hai bhai
+  Bint-e-Zehra ne magar
+  Shaam o Kufa ka safar
   Be rida kaise kiya haaye
 
   5
-  Tere deedar bina bhai nahi reh sakti
-  Gham may furqat ka teri aur nahi seh sakti
-  Kya mujhe bhool gaey
-  Tumko bahna se mile
-  Ek baras beet gaya haaye
+  Tere didaar bina bhai nahiṅ reh sakti
+  Gham mein furqat ka teri aur nahiṅ seh sakti
+  Kya mujhe bhul gaye
+  Tum ko bahna se mile
+  Ek baras bit gaya haaye
 
   6
-  Tum ko zindaan mein kahin qaid na karle koi
-  Mere baba ki tarha zeher na dede koi
-  Jee nahi paungi may
-  Sun ke mar jaungi may
-  Tumko gar kuch bhi hua haaye
+  Tum ko zindaaṅ mein kahiṅ qaid na kar le koi
+  Mere baba ki tarah zeher na de de koi
+  Ji nahiṅ paauṅ gi main
+  Sun ke mar jaauṅ gi main
+  Tum ko gar kuchh bhi hua haaye
 
   7
-  Baap ki tarha mere sar pe tera saaya hay
-  Apni beti ki tarha tu ne mujhe paala haey
-  Tu haey aey bhai jahan
-  Mujhko bulwale wahan
-  Hoga ahsaan tera haaye
+  Baap ki tarah mere sar pe tera saaya hai
+  Apni beti ki tarah tu ne mujhe paala hai
+  Tu hai ae bhai jahaaṅ
+  Mujh ko bulwa le wahaaṅ
+  Hoga ehsaan tera haaye
 
   8
-  Saath hum hote agar Shaam ko jaate bhai
-  Phir Sakina ke liye ashk bahate bhai
-  Kya nahi tum ko khabar
-  Aagaya maahe Safar
-  Waarise Karb o bala haaye
+  Saath ham hote agar Shaam ko jaate bhai
+  Phir Sakina ke liye ashk bahaate bhai
+  Kya nahiṅ tum ko khabar
+  Aa gaya maah-e-Safar
+  Waaris-e-Karb o Bala haaye
 
   9
-  Maut se pehle mujhe milne baradar aaja
-  Apni Sughra ke liye aey mere Akbar aaja
-  Dil mein mere hasrat haey mere
-  Kekh loon chehra tera
-  Phir mujhe aaey qaza haaey
+  Maut se pehle mujhe milne baraadar aa jaa
+  Apni Sughra ke liye ae mere Akbar aa jaa
+  Dil mein mere hasrat hai mere
+  Dekh luṅ chehra tera
+  Phir mujhe aaye qaza haaye
 
   10
-  Aey takallum ye behen bhai pe jaan deti thi
-  Sun ke bhai ki khabar khaak pe ye aisaey giri
-  Lab pe tha haaey Raza
+  Ae Takallum ye behen bhai pe jaan deti thi
+  Sun ke bhai ki khabar khaak pe ye aise giri
+  Lab pe tha haaye Raza
   Dil pe qaabu na raha
-  Aa gayi usko kaza haaey
-  Aey ghareeb-ul-ghurba
+  Aa gayi us ko qaza haaye
+  Ae ghareeb-ul-ghurba
 
   11
-  Tujh pe hamsheer fida
+  Tujh pe hamshir fida
 ---
 
 اے میرے بھائی رضا اے میرے بھائی رضا

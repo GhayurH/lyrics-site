@@ -33,7 +33,7 @@ romanLyrics: |-
   Aap ne dekhi hai kya aisi zaifi baba
 
   4
-  Khun beshir se andaaza kiya tha main ne
+  Khun-e-Beshir se andaaza kiya tha main ne
   Aap ka chehra to pehchaan liya tha main ne
   Aap pehchaano ge kaise mera chehra baba
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Dena chaaha tha mujhe logoṅ ne sadqa baba
 
   8
-  Us ghari dhund rahi thi main chacha jaaṅ ka sar
+  Us ghari dhund rahi thi main chachaa jaaṅ ka sar
   Kaise batlaauṅ ke kya guzri teri beti par
   Mujhko zaalim ne kanizi mein jo maanga baba
 

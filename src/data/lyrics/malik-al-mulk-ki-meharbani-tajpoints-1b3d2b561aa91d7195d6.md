@@ -1,35 +1,60 @@
 ---
-title: "Malik-Al-Mulk Ki Meharbani"
+title: "مالک الملک کی مہربانی"
+alternateTitle: "Malik-al-Mulk Ki Meharbani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Sahil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Malik-al-Mulk ki meharbani
+  Dil mein Shabir aankh mein pani
+  Har wafadar mohtaram lekin
+  Koi Abbas ka nahi sani
+
+  2
+  Rook paye gi giriya-o-matam
+  Nasal-e-bad bakht ki hai nadani
+  Ye jahan kya hai hum ne marqad mein
+  Wah Hussaina ki dil mein hai thani
+
+  3
+  Majlisein khatam ho nahi saktin
+  Pak Zainab jab iss ki hain bani
+  Mulk-e-sabar-o-raza mein hashar talak
+  Sakhi Sajjad ki hai sultani
+
+  4
+  Khuld ka behtareen rasta hai
+  Aal-e-Ahmad ki ye sana khuwani
+  Zikr-e-Khairalwara karon Sahil
+  Shair ho jaein mere lafani
 ---
 
-1
-Malik-Al-Mulk Ki Meharbani.
-Dil Mein Shabir Aankh Mein Pani.
-Har Wafadar Mohtaram Lekin.
-Koi Abbas Ka Nahi Sani.
+۱
+مالک الملک کی مہربانی
+دل میں شبیر آنکھ میں پانی
+ہر وفادار محترم لیکن
+کوئی عباس کا نہیں ثانی
 
-2
-Rook Paye Gi Giriya-o-Matam.
-Nasal-e-Bad Bakht Ki Hai Nadani.
-Ye Jahan Kya Hai Hum Ne Marqad Mein.
-Wah Hussaina Ki Dil Mein Hai Thani.
+۲
+روک پائے گی گریہ و ماتم
+نسلِ بدبخت کی ہے نادانی
+یہ جہاں کیا ہے ہم نے مرقد میں
+وا حسینا کی دل میں ہے ٹھانی
 
-3
-Majlisein Khatam Ho Nahi Saktin.
-Pak Zainab Jab Iss Ki Hain Bani.
-Mulk-e-Sabar-o-Raza Mein Hashar Talak.
-Sakhi Sajjad Ki Hai Sultani.
+۳
+مجلسیں ختم ہو نہیں سکتیں
+پاک زینب جب اس کی ہیں بانی
+ملکِ صبر و رضا میں حشر تلک
+سخی سجاد کی ہے سلطانی
 
-4
-Khuld Ka Behtareen Rasta Hai.
-Aal-e-Ahmad Ki Ye Sana Khuwani.
-Zikr-e-Khairalwara Karon Sahil.
-Shair Ho Jaein Mere Lafani.
+۴
+خلد کا بہترین راستہ ہے
+آلِ احمد کی یہ ثنا خوانی
+ذکرِ خیر الوریٰ کروں ساحل
+شعر ہو جائیں میرے لافانی

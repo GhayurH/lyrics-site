@@ -15,7 +15,7 @@ romanLyrics: |-
   Gharib-e-Zehra ki ghurbat suno ae ahl-e-aza
 
   1
-  Akela reh gaya maqtal meiṅ jab mera Maula
+  Akela reh gaya maqtal mein jab mera Maula
   Sipaah-e-Shaam ne chaaroṅ taraf se gher liya
   Lab-e-Furaat tha har ek khun ka pyaasa
   Tha ghul charaagh-e-imaamat abhi bujhaana hai
@@ -23,23 +23,23 @@ romanLyrics: |-
 
   2
   Ye sun ke sang kisi ne jabiṅ par maara
-  Kisi ne pehlu meiṅ barchhi ka phal utaar diya
+  Kisi ne pehlu mein barchhi ka phal utaar diya
   Kisi ne saamne aa kar chalaayi tegh-e-jafa
   Gharib-e-Zehra ka ziṅ par sambhalna mushkil tha
-  Ali o Zehra ko ran meiṅ rulaaya jaata tha
+  Ali o Zehra ko ran mein rulaaya jaata tha
   Husain girte nahiṅ the giraaya jaata tha
 
   3
   Laga jo tir to Asghar ko Shah ne yaad kiya
   Pukaara Ghaazi ko jis waqt sar pe gurz laga
   Lagi jo barchhi to Akbar ko di tarap ke sada
-  Tamaacha Khuli ne maara to bole ya Zahra
+  Tamaancha Khuli ne maara to bole ya Zehra
   Ali ko yaad kiya sar pe zarb chalte hue
   Hasan ko yaad kiya munh se khuṅ ugalte hue
 
   4
   Zamiṅ se zin pe Hazrat jo munh ke bal aaye
-  Jo tir sine meiṅ the pusht se nikal aaye
+  Jo tir sine mein the pusht se nikal aaye
   Nikal ke pehlu se sab barchhiyoṅ ke phal aaye
   Qaraar kis tarah ab Shah ko ek pal aaye
   Rikaabeṅ pairoṅ se Ibn-e-Ali ki chhut gayiṅ
@@ -54,26 +54,26 @@ romanLyrics: |-
   Tu rahm kar mere baaloṅ ko chhor de zaalim
 
   6
-  Para tha dasht meiṅ bejaaṅ Batul ka beta
+  Para tha dasht mein be jaaṅ Batul ka beta
   Husain zinda hai kya Shimr se kisi ne kaha
   Qarib jaa ke ye di Shimr ne phir hans ke sada
-  Wo dekho aa gayi maqtal meiṅ Saani-e-Zehra
-  Ye sunte hi Shah-e-dilgir uth ke baith gaye
+  Wo dekho aa gayi maqtal mein Saani-e-Zehra
+  Ye sunte hi Shah-e-Dilgir uth ke baith gaye
   Behan ka naam pe Shabbir uth ke baith gaye
 
   7
-  Ye keh ke aage barha haath meiṅ liye khanjar
+  Ye keh ke aage barha haath mein liye khanjar
   Udhar tarapne lagi ek laash darya par
-  Idhar qayaam se nikli Batul ki dukhtar
+  Idhar qiyaam se nikli Batul ki dukhtar
   Ajib beadabi Shimr ne ye ki aa kar
   Zara si bhi na murawwat dikhaayi zaalim ne
   Kalaam-e-Paak ko thokar lagaayi zaalim ne
 
   8
   Ajab tarah se sitamgar ye kar raha tha sitam
-  Kabhi Husain ki zulfoṅ meiṅ haath the baaham
+  Kabhi Husain ki zulfoṅ mein haath the baaham
   Pakar ke rish-e-mubaarak kabhi hansa azlam
-  Hataaya baaloṅ ko khanjar se Shimr ne ek dam
+  Hataaya baaloṅ ko khanjar se Shimr ne ik dam
   Kaha Husain ne dekho zara Ali Akbar
   Laiṅ ne rakh diya zaanuṅ hamaare sine par
 
@@ -87,19 +87,19 @@ romanLyrics: |-
 
   10
   Ab is ke aage Takallum bayaan kya hoga
-  Lagi jo zarbeṅ na nikla lahu ka ek khatra
-  Lain ghaiz meiṅ aa kar sada ye dene laga
-  Husain jaldi bata maujiza ye hai kaisa
+  Lagi jo zarbeṅ na nikla lahu ka ik khatra
+  Lain ghaiz mein aa kar sada ye dene laga
+  Husain jaldi bata muajiza ye hai kaisa
   Kaha gharib ne tu pyaar maaṅ ka kya jaane
   Gale pe mere gala rakh diya hai Zehra ne
 
   11
-  Kaha Husain ne amma hata leṅ apna gala
+  Kaha Husain ne ammaaṅ hata leṅ apna gala
   Mazid aap ho zakhmi ye ho nahiṅ sakta
   Gale pe Shaah ke khanjar lain ka jo chala
-  Sadaaeṅ aati thi Subhaana Rabbiyal Aala
-  Pisar ka khun baha Sayyeda ki godi meiṅ
-  Sar-e-Husain kata Faatima ki godi meiṅ
+  Sadaaeṅ aati thi Subhaana Rabbiyal Aalaa
+  Pisar ka khun baha Sayyeda ki godi mein
+  Sar-e-Husain kata Faatima ki godi mein
 ---
 
 غریب زہرا کی غربت سنو اے اہلِ عزا

@@ -1,38 +1,66 @@
 ---
-title: "Khum Mein Nabi Ne Saaf Pukara Haider Hai"
+title: "خم میں نبی نے صاف پکارا حیدر ہے"
+alternateTitle: "Khum Mein Nabi Ne Saaf Pukara Haider Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khum mein Nabi ne saaf pukara Haider hai
+  Baad marey bas Maula tumhara Haider hai
+
+  1
+  Ghair ke dar par jaein kyun hum aye logo
+  Jab keh hamara mehaz sahara Haider hai
+  Kyun tu Ghadeer-e-Khum se jalta hai waiz
+  Jalna kya jab Rab ka dulara Haider hai
+
+  2
+  Bugz mein kalma go they magar bolay Hindu
+  Dewata our bhagwan hamara Haider hai
+  Larna ho gar yaad rakho lashkar walo
+  Jeet ka mantar ya ho narah Haider hai
+
+  3
+  Kabay se ulfat hai zyada youn hum ko
+  Kabay se aane wala dobarah Haider hai
+  Sheh ko muhabbat jaisay thi apne Asghar se
+  Waisay Muhammad ko hi pyara Haider hai
+
+  4
+  Chor ke Haider kaisay parha tu ne Hafiz
+  Jab keh magar Quran tu sara Haider hai
+  Zahra ki midhat kaisay biyaan ho aye Zeeshan
+  Inn ke muqadar ka jo sitara Haider hai
 ---
 
-Khum Mein Nabi Ne Saaf Pukara Haider Hai.
-Baad Marey Bas Maula Tumhara Haider Hai.
+خم میں نبی نے صاف پکارا حیدر ہے
+بعد مرے بس مولا تمہارا حیدر ہے
 
-1
-Ghair Ke Dar Par Jaein Kyun Hum Aye Logo.
-Jab Keh Hamara Mehaz Sahara Haider Hai.
-Kyun Tu Ghadeer-e-Khum Se Jalta Hai Waiz.
-Jalna Kya Jab Rab Ka Dulara Haider Hai.
+۱
+غیر کے در پر جائیں کیوں ہم اے لوگو
+جب کہ ہمارا محض سہارا حیدر ہے
+کیوں تو غدیرِ خم سے جلتا ہے واعظ
+جلنا کیا جب رب کا دلارا حیدر ہے
 
-2
-Bugz Mein Kalma Go They Magar Bolay Hindu.
-Dewata Our Bhagwan Hamara Haider Hai.
-Larna Ho Gar Yaad Rakho Lashkar Walo.
-Jeet Ka Mantar Ya Ho Narah Haider Hai.
+۲
+بغض میں کلمہ گو تھے مگر بولے ہندو
+دیوتا اور بھگوان ہمارا حیدر ہے
+لڑنا ہو گر یاد رکھو لشکر والو
+جیت کا منتر یا ہو نعرہ حیدر ہے
 
-3
-Kabay Se Ulfat Hai Zyada Youn Hum Ko.
-Kabay Se Aane Wala Dobarah Haider Hai.
-Sheh Ko Muhabbat Jaisay Thi Apne Asghar Se.
-Waisay Muhammad Ko Hi Pyara Haider Hai.
+۳
+کعبے سے الفت ہے زیادہ یوں ہم کو
+کعبے سے آنے والا دوبارہ حیدر ہے
+شہ کو محبت جیسے تھی اپنے اصغر سے
+ویسے محمد کو ہی پیارا حیدر ہے
 
-4
-Chor Ke Haider Kaisay Parha Tu Ne Hafiz.
-Jab Keh Magar Quran Tu Sara Haider Hai.
-Zahra Ki Midhat Kaisay Biyaan Ho Aye Zeeshan.
-Inn Ke Muqadar Ka Jo Sitara Haider Hai.
+۴
+چھوڑ کے حیدر کیسے پڑھا تو نے حافظ
+جب کہ مگر قرآن تو سارا حیدر ہے
+زہرا کی مدحت کیسے بیاں ہو اے ذیشان
+ان کے مقدر کا جو ستارہ حیدر ہے

@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Momino utha janaza
-  Baqir e mazlum ka
-  Qatle na-haq kalmago ne
-  Phir kiya masum ka
-  Ahle arsh o farsh meiṅ
-  Mehshar bapa hai al amaan
-  Gham se phat'ta hai kaleja
-  Sadiq e maghmum ka
-  Gham e baqir meiṅ roti hai khudayi
-  Jafa ye kalmago ne kaisi dhaayi
-  Yuṅ phir hai gulshan e saadaat ujra
-  Madina sog e baqir meiṅ hai duba
-  Sar apna pit ke kehti hai farwa
-  Yatimi jafar e sadiq pa chaayi
-  Gham e baqir mein...
+  Mominoṅ utha janaaza
+  Baqir-e-mazlum ka
+  Qatl-e-naahaq kalma goṅ ne
+  Phir kiya maasum ka
+  Ahl-e-arsh o farsh meiṅ
+  Mahshar bapa hai al amaan
+  Gham se phatta hai kaleja
+  Sadiq-e-maghmum ka
+  Gham-e-Baqir meiṅ roti hai khudaayi
+  Jafa ye kalma goṅ ne kaisi dhaayi
+  Yuṅ phir hai gulshan-e-saadaat ujra
+  Madina sog-e-Baqir meiṅ hai duba
+  Sar apna pit ke kehti hai Farwa
+  Yatimi Jafar-e-Sadiq pe chhaayi
+  Gham-e-Baqir meiṅ...
   Wo jis se rahmateiṅ hoti thi naazil
-  Ye ummat hogayi uski hi qaatil
+  Ye ummat ho gayi us ki hi qaatil
   Bata aakhir hua kya tujh ko haasil
-  Mawaddat kaisi ummat ne nibhayi
-  Gham e baqir mein...
-  Lehad meiṅ fatema ko phir rulaya
-  Sutun e rauza e hyder hilaya
-  Hishaam e bad nasab ne zulm dhaaya
-  Duhaai ya muhamed hai duhaai
-  Gham e baqir mein...
-  Sada e haye wawaila lagaate
-  Imam e ilm par aansu bahaate
-  Chale hai marsiya qudsi sunaate
+  Mawaddat kaisi ummat ne nibhaayi
+  Gham-e-Baqir meiṅ...
+  Lahad meiṅ Fatema ko phir rulaaya
+  Sutun-e-rauza-e-Haidar hilaaya
+  Hishaam-e-bad nasab ne zulm dhaaya
+  Duhaai ya Muhammad hai duhaai
+  Gham-e-Baqir meiṅ...
+  Sada-e-haaye waawaila lagaate
+  Imam-e-ilm par aansuṅ bahaate
+  Chale haiṅ marsiya Qudsi sunaate
   Hai ta aflaak nauhoṅ ki rasaayi
-  Gham e baqir mein...
-  Shahe yasrab zara khidmaat dekheiṅ
+  Gham-e-Baqir meiṅ...
+  Shah-e-Yasrab zara khidmat dekheiṅ
   Di ummat ne nayi saughaat dekheiṅ
   Gham o aazaar hai din raat dekheiṅ
-  Luti phir fatema ki hai kamaayi
-  Gham e baqir mein...
+  Luti phir Fatema ki hai kamaayi
+  Gham-e-Baqir meiṅ...
   Sitam aisa hua aflaak roye
-  Lehad meiṅ sayyed e laulaak roye
-  Hue jafar garibaṅ chaak roye
-  Gira dil par hai ehsaas e judaai
-  Gham e baqir mein...
-  Wila e hyder e safdar ki khaatir
-  Shahe mazlum ke maqtal ka zaakir
-  Hua ruqsat wo karbal ka musafir
+  Lahad meiṅ Sayyed-e-Laulaak roye
+  Hue Jafar garibaaṅ chaak roye
+  Gira dil par hai ehsaas-e-judaai
+  Gham-e-Baqir meiṅ...
+  Wila-e-Haidar-e-Safdar ki khaatir
+  Shah-e-mazlum ke maqtal ka zaakir
+  Hua rukhsat wo Karbal ka musaafir
   Aziyat jis ne bachpan se uthaayi
-  Gham e baqir mein...
+  Gham-e-Baqir meiṅ...
 ---
 
 ۱

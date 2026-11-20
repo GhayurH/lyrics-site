@@ -8,11 +8,11 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye kis tarha kati Shaam-e-Gharibaṅ Zainab
-  Kitna purhaul tha Karbal ka bayabaaṅ Zainab
+  Haye kis tarah kati shaam-e-gharibaaṅ Zainab
+  Kitna purhaul tha Karbal ka bayaabaaṅ Zainab
 
   1
-  Aag khaimoṅ meiṅ lagi bhai bhatije na pisar
+  Aag khaimoṅ meiṅ lagaai bhaai bhatije na pisar
   Kitni us waqt hui aap pareshaan Zainab
 
   2
@@ -20,7 +20,7 @@ romanLyrics: |-
   Kitne the dil meiṅ tere hasrat o armaaṅ Zainab
 
   3
-  Aag ke sholoṅ se Sajjad ko laayi kiun kar
+  Aag ke sholoṅ se Sajjad ko laae kiunkar
   Aaj tak qalb hai us haal pe giryaaṅ Zainab
 
   4
@@ -32,8 +32,8 @@ romanLyrics: |-
   Misl-e-Abbas rahi sab ki nigehbaaṅ Zainab
 
   6
-  Pusht par haath bandhe sar khule aada ke sitam
-  Kaise dafnaati bhala laashe shahidaaṅ Zainab
+  Pusht par haath baandhe sar khule aadaa ke sitam
+  Kaise dafnaai bhala laashe shahidaaṅ Zainab
 ---
 
 ہائے کس طرح کٹی شام غریباں زینبؑ

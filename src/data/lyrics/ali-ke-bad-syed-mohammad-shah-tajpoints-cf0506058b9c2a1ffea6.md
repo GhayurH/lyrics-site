@@ -1,30 +1,48 @@
 ---
-title: "Ali Ke Bad Syed Mohammad Shah"
+title: "علی کے بعد سید محمد شاہ"
+alternateTitle: "Ali Ke Bad Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghar mein Ali ke barpa hai Mehshar Ali ke baad
+  Behno se bhai rotay they chup kar Ali ke baad
+  Kehte they Baba kyun mujhe paidal chala karo
+  Zainab yeh sochti rahi aksar Ali ke baad
+  Bazar hai yeh Kofay ka Zainab na bholna
+  Guzro gi tum yahin se khulay sar Ali ke baad
+  Ro ro ke Kofa walon se kehte rahe Ali
+  Zainab ko koi marey na pathar Ali ke baad
+  Jo teer Murtaza ko laga tha namaz mein
+  Ab woh galay pe khaein gay Asghar Ali ke baad
+  Kitne tamachay badlay mein Badar-o-Hunain ke
+  Marey gaye Sakina ke rukh par Ali ke baad
+  Abbas apni behno ka rakhna bohat khiyal
+  Ummat inhein phiraye gi dar dar Ali ke baad
+  Zainab ke bazu dekh ke rotay rahe Asad
+  Abbas our Hussain-e-Dilawar Ali ke bad
 ---
 
-1
-Ali Ke Bad Syed Mohammad Shah Lyrics
-Ghar Mein Ali Ke Barpa Hai Mehshar Ali Ke Baad.
-Behno Se Bhai Rotay They Chup Kar Ali Ke Baad.
-Kehte They Baba Kyun Mujhe Paidal Chala Karo.
-Zainab Yeh Sochti Rahi Aksar Ali Ke Baad.
-Bazar Hai Yeh Kofay Ka Zainab Na Bholna.
-Guzro Gi Tum Yahin Se Khulay Sar Ali Ke Baad.
-Ro Ro Ke Kofa Walon Se Kehte Rahe Ali.
-Zainab Ko Koi Marey Na Pathar Ali Ke Baad.
-Jo Teer Murtaza Ko Laga Tha Namaz Mein.
-Ab Woh Galay Pe Khaein Gay Asghar Ali Ke Baad.
-Kitne Tamachay Badlay Mein Badar-o-Hunain Ke.
-Marey Gaye Sakina Ke Rukh Par Ali Ke Baad.
-Abbas Apni Behno Ka Rakhna Bohat Khiyal.
-Ummat Inhein Phiraye Gi Dar Dar Ali Ke Baad.
-Zainab Ke Bazu Dekh Ke Rotay Rahe Asad.
-Abbas Our Hussain-e-Dilawar Ali Ke Bad.
+۱
+گھر میں علی کے برپا ہے محشر علی کے بعد
+بہنوں سے بھائی روتے تھے چھپ کر علی کے بعد
+کہتے تھے بابا کیوں مجھے پیدل چلا کرو
+زینب یہ سوچتی رہی اکثر علی کے بعد
+بازار ہے یہ کوفے کا زینب نہ بھولنا
+گزرو گی تم یہیں سے کھلے سر علی کے بعد
+رو رو کے کوفہ والوں سے کہتے رہے علی
+زینب کو کوئی مارے نہ پتھر علی کے بعد
+جو تیر مرتضیٰ کو لگا تھا نماز میں
+اب وہ گلے پہ کھائیں گے اصغر علی کے بعد
+کتنے طمانچے بدلے میں بدر و حنین کے
+مارے گئے سکینہ کے رخ پر علی کے بعد
+عباس اپنی بہنوں کا رکھنا بہت خیال
+امت انھیں پھرائے گی در در علی کے بعد
+زینب کے بازو دیکھ کے روتے رہے اسد
+عباس اور حسینِ دلاور علی کے بعد

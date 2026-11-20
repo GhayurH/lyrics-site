@@ -1,41 +1,72 @@
 ---
-title: "Hamd O Sana Ka Tujh Ko Saliqa Tu Hai Nahi Lyrics 2023"
+title: "حمد و ثنا کا تجھ کو سلیقہ تو ہے نہیں"
+alternateTitle: "Hamd O Sana Ka Tujh Ko Saliqa Tu Hai Nahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hamd o sana ka tujh ko saliqa tu hai nahi
+  Lafzoon mein tere Nehj-e-Balaga tu hai nahi
+  Tu faqar kaisay samjhay ga aye jaib ke faqeer
+  Ishq-e-Ali ka hath mein kasa tu hai nahi
+
+  2
+  Be taig oss ko dekh ke bhi bhagti hai foaj
+  Aamad hai ran mein shair ki hamla tu hai nahi
+  Jee jan se lutaiye majlis ke naam par
+  Qarza sakhi Hussain bhi rakhta tu hai nahi
+
+  3
+  Baiyat ka kitna shoor machaya tha Sham ne
+  Asghar ke robaro koi bola tu hai nahi
+  Janat mein kaisay jaye ga matam kiye beghair
+  Seene pe tere khuld ka naqsha tu hai nahi
+
+  4
+  Munkir Nakir kaisi hai teyari aap ki
+  Mushkil sawal koi bhi pocha tu hai nahi
+  La raib malkiyat hai jinna bhi Hussain ki
+  Lekin woh Karbala se zyada tu hai nahi
+
+  5
+  Tabdeel our Khuda ki zabaan ka kaha howa
+  Akbar yeh aadmi ka iradah tu hai nahi
+  Main ishq baichta hoon azza baichta nahi
+  Akbar yeh shayari mera pesha tu hai nahi
 ---
 
-1
-Hamd o Sana Ka Tujh Ko Saliqa Tu Hai Nahi.
-Lafzoon Mein Tere Nehj-e-Balaga Tu Hai Nahi.
-Tu Faqar Kaisay Samjhay Ga Aye Jaib Ke Faqeer.
-Ishq-e-Ali Ka Hath Mein Kasa Tu Hai Nahi.
+۱
+حمد و ثنا کا تجھ کو سلیقہ تو ہے نہیں
+لفظوں میں تیرے نہجِ بلاغہ تو ہے نہیں
+تو فقر کیسے سمجھے گا اے جیب کے فقیر
+عشقِ علی کا ہاتھ میں کاسہ تو ہے نہیں
 
-2
-Be Taig Oss Ko Dekh Ke Bhi Bhagti Hai Foaj.
-Aamad Hai Ran Mein Shair Ki Hamla Tu Hai Nahi.
-Jee Jan Se Lutaiye Majlis Ke Naam Par.
-Qarza Sakhi Hussain Bhi Rakhta Tu Hai Nahi.
+۲
+بے تیغ اس کو دیکھ کے بھی بھاگتی ہے فوج
+آمد ہے رن میں شیر کی حملہ تو ہے نہیں
+جی جان سے لٹائیے مجلس کے نام پر
+قرضہ سخی حسین بھی رکھتا تو ہے نہیں
 
-3
-Baiyat Ka Kitna Shoor Machaya Tha Sham Ne.
-Asghar Ke Robaro Koi Bola Tu Hai Nahi.
-Janat Mein Kaisay Jaye Ga Matam Kiye Beghair.
-Seene Pe Tere Khuld Ka Naqsha Tu Hai Nahi.
+۳
+بیعت کا کتنا شور مچایا تھا شام نے
+اصغر کے روبرو کوئی بولا تو ہے نہیں
+جنت میں کیسے جائے گا ماتم کیے بغیر
+سینے پہ تیرے خلد کا نقشہ تو ہے نہیں
 
-4
-Munkir Nakir Kaisi Hai Teyari Aap Ki.
-Mushkil Sawal Koi Bhi Pocha Tu Hai Nahi.
-La Raib Malkiyat Hai Jinna Bhi Hussain Ki.
-Lekin Woh Karbala Se Zyada Tu Hai Nahi.
+۴
+منکر نکیر کیسی ہے تیاری آپ کی
+مشکل سوال کوئی بھی پوچھا تو ہے نہیں
+لا ریب ملکیت ہے جِنّا بھی حسین کی
+لیکن وہ کربلا سے زیادہ تو ہے نہیں
 
-5
-Tabdeel Our Khuda Ki Zabaan Ka Kaha Howa.
- Akbar Yeh Aadmi Ka Iradah Tu Hai Nahi.
-Main Ishq Baichta Hoon Azza Baichta Nahi.
- Akbar Yeh Shayari Mera Pesha Tu Hai Nahi.
+۵
+تبدیل اور خدا کی زبان کا کہا ہوا
+اکبر یہ آدمی کا ارادہ تو ہے نہیں
+میں عشق بیچتا ہوں عزا بیچتا نہیں
+اکبر یہ شاعری میرا پیشہ تو ہے نہیں

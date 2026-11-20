@@ -12,58 +12,58 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aati hai garduṅ se ye paiham sada
-  Qatl huwe sajde meiṅ Sher-e-Khuda
-  Khana-e-Haq meiṅ ye ghazab ho gaya
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Aati hai garduṅ se ye paiham sadaa
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
+  Khaana-e-Haq meiṅ ye ghazab ho gaya
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 
   1
-  Gham se hai Zainab nidhal
+  Gham se hai Zainab nidhaal
   Khol diye sar ke baal
-  Kehti hai ye purmalal
+  Kehti hai ye pur malaal
   Dekho to Baba ka haal
-  Dete haiṅ Jibrail ye kaisi nida
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Dete haiṅ Jibrail ye kaisi nidaa
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 
   2
   Saath pare jalwagar
   Kehti hai sar pit kar
   Phatta hai mera jigar
   Koi to laaye khabar
-  Ghar meiṅ Khuda ke ye sitam kya hua
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Ghar meiṅ Khudaa ke ye sitam kya hua
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 
   3
-  Dekho to Hasnain jao
-  Baba ko ghar meiṅ to lao
+  Dekho to Hasnain jaao
+  Baba ko ghar meiṅ to laao
   Aisa laga sar pe ghaao
-  Mujh ko Khudara batao
-  Puchho to jarrah se hogi shifa
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Mujh ko Khudaaraa bataao
+  Puchho to jarraah se hogi shifaa
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 
   4
   Nashtar-e-gham dil pe khae
   Daur kar Hasnain aaye
-  Dekha ajab haal haye
+  Dekha ajab haal haaye
   Khuṅ meiṅ haiṅ Baba nahae
-  Farsh se ta arsh hai mahshar bapa
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Farsh se ta arsh hai mahshar bapaa
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 
   5
-  Haye qayamat hui
+  Haaye qayaamat hui
   Tegh-e-sitam ki chali
   Maara Ali-e-Wali
   Girya-e-ruh-e-Nabi
-  Kaisi lain ne ye ki jaur o jafa
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Kaisi la'in ne ye ki jaur o jafaa
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 
   6
-  Ae mere zakhmi Imam
-  Tum pe durud o salam
+  Ae mere zakhmi Imaam
+  Tum pe durud o salaam
   Khub ki tabligh-e-aam
-  De diya qatil ko jaam
-  Hoga Anis aisa koi peshwa
-  Qatl huwe sajde meiṅ Sher-e-Khuda
+  De diya qaatil ko jaam
+  Hoga Anis aisa koi peshwaa
+  Qatl huwe sajde meiṅ Sher-e-Khudaa
 ---
 
 آتی ہے گردوں سے یہ پیہم صدا

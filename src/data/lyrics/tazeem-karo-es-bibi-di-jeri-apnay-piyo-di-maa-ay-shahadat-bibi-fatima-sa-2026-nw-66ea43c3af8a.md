@@ -1,12 +1,66 @@
 ---
-title: "Tazeem Karo Es Bibi Di Jeri Apnay Piyo Di Maa Ay"
+title: "تعظیم کرو ایس بی‌بی دی جیہڑی اپنے پیو دی ماں اے"
+alternateTitle: "Taazim Karo Es Bibi Di Jehri Apne Piyo Di Maaṅ Ae"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Taazim karo es Bibi di jehri apne piyo di maaṅ ae
+  Fizza aakhe na jhirkaaṅ do
+  Ae apne piyo de waaste
+  Rahmat di chhaaṅ ae
+
+  1
+  Na jalaao ghar de es buhe nuṅ buhe te farishte aande ne
+  Eh nuri buh Zehra da
+  Es buhe andar hoya
+  Naazil Quraaṅ ae
+
+  2
+  Inj rulaai Zehra es ummat ne naiṅ aj taaiṅ athru khushk hoye
+  Jitthe maatam Shah da honda ae
+  Rondi ae momnaaṅ naal baraa
+  Shabbir di maaṅ ae
+
+  3
+  Sine laa ke Zainab nuṅ maaṅ aakhe tayaari kar le Shaam di tuṅ
+  Main baaparda darbaar gai
+  Jadoṅ tuṅ darbaar ch jaanaa ae
+  Honaa sar uryaaṅ ae
+
+  4
+  Allah jaane Zehra kiveṅ sah gai ae darbaar di peshi kai ghante
+  Darbaar de najis maahaul de vich
+  Bari beadabi nal lainde rae
+  Zehra da naaṅ ae
+
+  5
+  Piyo de darbaar vichoṅ khaali aai jiveṅ uthdi bahndi apne ghar
+  Duniyaa de saare momnaaṅ nuṅ
+  Tere khaali vaapas aavan da
+  Rehnaa armaaṅ ae
+
+  6
+  Yaad ki aayaa ae mere Maula nuṅ tadfin kiti jadoṅ Zehra di
+  Haidar ne Baqi vich kai vaari
+  Hathaaṅ nal aap mitaayaa ae
+  Ohda qabr nishaaṅ ae
+
+  7
+  Ik na ik din logo mere Maula ne duniyaa ch dubaaraa aanaa ae
+  Zehra toṅ lai ke Askari tak
+  Har qatl da badlaa lainaa ae
+  Imaam-e-Zamaaṅ ae
+
+  8
+  Naiṅ Hasan kiti ae badduaa Zehra bhaaveṅ jitne masaaib vekhe ne
+  Bas itnaa yaad rakhe duniyaa
+  Meri Bibi paak de sadqe vich
+  Qaaim eh jahaaṅ ae
 ---
 
 Tazeem Karo Es Bibi Di Jeri Apnay Piyo Di Maa Ay | Shahadat Bibi Fatima sa 2026 | Shazaib Hassan

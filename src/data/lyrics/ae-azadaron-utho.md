@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Azadaron Utho"]
 published: true
 romanLyrics: |-
-  Ae azadaroṅ utho Shah ke ansaar bano
+  Ae azadaaroṅ utho Shah ke ansaar bano
   Pairawi Hur ki karo waqt ko jaane na do
   Aa gaya maah-e-buka maah-e-alam maah-e-aza
   Jis ke ek din meiṅ luta Zehra ka ghar waawaila
@@ -23,26 +23,26 @@ romanLyrics: |-
   Is maah meiṅ kaunain meiṅ barpa hua larza
 
   1
-  Hai aamad-e-Shabbir azakhana sajaao
+  Hai aamad-e-Shabbir azakhaana sajaao
   Taqdim karo taaziya haathoṅ se banaao
   Abbas ka parcham bhi qarib aa ke lagaao
   Hamraah-e-alam mashk-e-Sakina ko bhi laao
 
   2
   Naam-e-Ali Asghar pe sabiloṅ ko lagaao
-  Raahoṅ meiṅ azadaroṅ ke palkoṅ ko bichhaao
+  Raahoṅ meiṅ azadaaroṅ ke palkoṅ ko bichhaao
   Lillaah karo zikr na dunya ko dikhaao
-  Jo kuch hai azadari-e-Sarwar meiṅ lutaao
+  Jo kuch hai azadaari-e-Sarwar meiṅ lutaao
 
   3
   Aayaat-e-shahadat ki parho sab ko sunaao
-  Jazba hai wafadari ka dunya ko bataao
+  Jazba hai wafadaari ka dunya ko bataao
   Hur ban ke dar-e-Hazrat-e-Shabbir pe aao
   Khud haathoṅ se bigri hui taqdir banaao
 
   4
   Is maah meiṅ Farwa se chhuta Qasim-e-muztar
-  Paamaal hua laasha-e-ibne bine Haidar
+  Paamaal hua laasha-e-ibn-e-Payambar
   Phuloṅ ki tarah jism ke tukre the zamiṅ par
   Shah laae jise ek ghatri meiṅ rakh kar
 

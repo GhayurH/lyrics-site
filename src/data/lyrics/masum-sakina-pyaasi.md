@@ -20,38 +20,38 @@ romanLyrics: |-
   Masum Sakina pyaasi hai
 
   2
-  Ye tashnalabi ye jalti zamiṅ
-  Paani ka koi imkaan nahiṅ
-  Naazuk se jigar se uthta dhuaaṅ
+  Ye tashna labi ye jalti zamiṅ
+  Paani kaa koi imkaan nahiṅ
+  Naazuk se jigar se uthtaa dhuaaṅ
 
   3
-  Bachchi ki sada paani paani
+  Bachchi ki sadaa paani paani
   Aaṅkhoṅ meiṅ haram ke viraani
   Muztar hai phuphi betaab hai maaṅ
 
   4
-  Kya kuza gir kar tut gaya
-  Ya aas ka daaman chhut gaya
-  Kya ab na chacha aayeṅge yahaaṅ
+  Kya kuza gir kar tut gayaa
+  Yaa aas kaa daaman chhut gayaa
+  Kya ab na chachaa aayeṅge yahaaṅ
 
   5
-  Ae patthar dil behte darya
-  Tujhko bhi taras aaya na zara
-  Kis kaam ka tera aab-e-ravaaṅ
+  Ae patthar dil behte daryaa
+  Tujhko bhi taras aayaa na zaraa
+  Kis kaam kaa teraa aab-e-ravaaṅ
 
   6
   Abbas the itne sharminda
-  Saahil pe ye kehke dam tora
+  Saahil pe ye kehke dam toraa
   Kis muṅh meiṅ bhala maiṅ jaauṅ wahaaṅ
 
   7
   Dil khun hue jaate haiṅ magar
   Bachchi ko tasalli de kiuṅ kar
-  Khud pyaas se hai sab pir o javaaṅ
+  Khud pyaas se hai sab pir o jawaaṅ
 
   8
   Likhuṅ bhi to kya likhuṅ Akhtar
-  Larza hai qalam paani hai jigar
+  Larzaa hai qalam paani hai jigar
   Nauhe hai ye mere ashk-e-ravaaṅ
 ---
 

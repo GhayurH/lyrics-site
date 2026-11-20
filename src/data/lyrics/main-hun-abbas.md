@@ -16,7 +16,7 @@ romanLyrics: |-
   Naam mera hai zamaane ko adab sikhlaana
 
   1
-  Nange paaoṅ hai chale saahib-e-Meraaj yahaaṅ
+  Nange paaoṅ hai chale saahib-e-Miraaj yahaaṅ
   Aisi naalain ke dastaar bhi rakh kar jaana
 
   2
@@ -48,7 +48,7 @@ romanLyrics: |-
   Yahaaṅ Behlol bhi kha lete hai daana daana
 
   9
-  Mir Sajjad utha haath jo mazlumoṅ par
+  Mir Sajjad uthaa haath jo mazlumoṅ par
   Maiṅ ne rajat qalam karna hai har wo shaana
 ---
 میں ہوں عباس میرے در پہ تم ایسے آنا

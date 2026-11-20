@@ -13,11 +13,11 @@ aliases: ["Kya Yateemi Hai"]
 published: true
 romanLyrics: |-
   Haae jab shaam-e-gharibaaṅ ka andhera chhaaya
-  Dhundne baap ko maqtal meiṅ gayi ek dukhiya
-  Darmiyaan laashoṅ ke ek laasha-e-besar dekha
+  Dhundne baap ko maqtal meiṅ gayi ik dukhiya
+  Darmiyaan laashoṅ ke ik laasha-e-be sar dekha
   Aayi us laash se aawaaz Sakina aa ja
   Jab suni baap ki aawaaz to royi bachchi
-  Laash-e-besar se lipat kar ye fughaaṅ karne lagi
+  Laash-e-be sar se lipat kar ye fughaaṅ karne lagi
 
   Aap ke baad ye ehsaas hua hai baaba
   Kya yatimi hai ye ab mujh pe khula hai baaba
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Zibh se pehle tujhe paani diya zaalim ne
-  Ya gala khushk tera kaata gaya hai baaba
+  Ye gala khushk tera kaata gaya hai baaba
 
   5
   Luto saadaat ko Abbas nahiṅ hai baaqi

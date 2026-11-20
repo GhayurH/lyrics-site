@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Mere Baba Jaan"]
 published: true
 romanLyrics: |-
-  Maqtal ke sannaate meiṅ
+  Maqtal ke sannaate mein
   Nauha karti hai naadaaṅ
   Ae mere baba jaaṅ
   Ae mere baba jaaṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
   3
   Kab se khaati huṅ tamaanche
   Donoṅ aariz haiṅ nile
-  Pehnaaye the jo bunde
+  Pehnaaye the jo bundeṅ
   Wo bhi aadaa ne chhine
   Beti ki haalat dekho
   Zakhmi haiṅ donoṅ hi kaan
@@ -43,7 +43,7 @@ romanLyrics: |-
   Luta khaima bhi ghar bhi
   Gehwaara bhi bistar bhi
   Maqna bhi aur chaadar bhi
-  Hasli bhi aur gauhar bhi
+  Haasil bhi aur gauhar bhi
   Aadaa ne aag laga kar
   Lute haiṅ ghar ke saamaan
 
@@ -52,37 +52,37 @@ romanLyrics: |-
   Wo Asghar ki turbat hai
   Ye Farwa ki hasrat hai
   Wo Zainab ki ghairat hai
-  Bikhre pare haiṅ ran meiṅ
+  Bikhre pare haiṅ ran mein
   Zehra ke dil ke armaaṅ
 
   6
   Tum the Ahmad ke nawaase
   Duri thi kya darya se
-  Zabha hue kiuṅ pyaase
+  Zabaaṅ hue kiuṅ pyaase
   Batlaauṅ kya duniya se
   Tum ko kalma goyoṅ ne
   Maara bula ke mehmaaṅ
 
   7
   Wo haiṅ ammu ke baazu
-  Ye hain Akbar ke gesu
-  Qasim bikhre haiṅ har su
-  Maiṅ huṅ aur mere aansu
-  Kal tak thi is maqtal meiṅ
+  Ye hai Akbar ke gesoṅ
+  Qaasim bikhre haiṅ har su
+  Main huṅ aur mere aansu
+  Kal tak thi is maqtal mein
   Mere kunbe ki kya shaan
 
   8
-  Kufe meiṅ ghabraauṅgi
-  Kiuṅ kar himmat laauṅgi
-  Balwe meiṅ sharmaauṅgi
-  Ghairat se mar jaauṅgi
+  Kufe mein ghabraauṅ gi
+  Kiuṅ kar himmat laauṅ gi
+  Balwe mein sharmaauṅ gi
+  Ghairat se mar jaauṅ gi
   Rukh par mitti hi mal do
   Hone na paaye pehchaan
 
   9
-  Majaalis meiṅ jab aate haiṅ
+  Majaalis mein jab aate haiṅ
   Ashk-e-gham barsaate haiṅ
-  Maatam meiṅ kho jaate haiṅ
+  Maatam mein kho jaate haiṅ
   Rote haiṅ rulwaate haiṅ
   Nayyar aur Aamir ki tum
   Mushkil kar dena aasaan

@@ -1,66 +1,121 @@
 ---
 title: "ثار اللہ خونِ خدا یا حسیںؑ یا حسینؑ"
+alternateTitle: "Sarallah Khooney Khuda Ya Husain Ya Husain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sarallah
+  Sarallah khooney Khuda
+  Ya Husain ya Husain
+  Ae dile Mustafa
+  Ya Husain ya Husain
+
+  2
+  Tareef e ambiya
+  Ya Husain ya Husain
+
+  3
+  Ae jaane dile madar Husaina
+  Ae bekaso beyawar Husaina
+  Tashnaye Alqama ya Husain ya Husain
+
+  4
+  Ye zulm o sitam ye zoro jafa
+  Ye behta lahu bejurmo khata
+  Har zamee Karbala ya Husain ya Husain
+
+  5
+  Kya humko daraega ye jahan
+  Ye teero jawa ye arzo sama
+  Sab hai tujhpar fida ya Husain ya Husain
+
+  6
+  Ye farshe aza ye aaho buka
+  Matam ki sada Zahra ki dua
+  Zikr hai ek bapa ya Husain ya Husain
+
+  7
+  Wo bali Sakina aur wo pyaas
+  Wo bazu qalam wo hasrat o yaas
+  Hauz ye tha bapa ya Husain ya Husain
+
+  8
+  Akbar neem jaan ye jalti zameen
+  Dil thaam ke baithe hai shahedeen
+  Khaimo me hai buka ya Husain ya Husain
+
+  9
+  Wo tauq e gera wo Zainul Eba
+  Wo aale Nabi wo qaid e bala
+  Zainab e berida ya Husain ya Husain
+
+  10
+  Ye nauha Zafar maula ki ataa
+  Safdar ke dilo jaa ki hai sadaa
+  Khoon e dil se likha ya Husain ya Husain
+
+  11
+  Sarallah khooney Khuda ya Husain ya Husain
+  Ae dile Mustafa ya Husain ya Husain
 ---
 
-1
-Sarallah..(12)
-Sarallah khooney khuda
-Ya husain ya husain
-Ae dile mustafa
-Ya husain ya husain
+۱
+ثار اللہ
+ثار اللہ خونِ خدا
+یا حسین یا حسین
+اے دلِ مصطفیٰ
+یا حسین یا حسین
 
-2
-Tareef e ambiya
-Ya husain ya husain
+۲
+تعریفِ انبیا
+یا حسین یا حسین
 
-3
-1. ae jaane dile madar husaina..(2)
-Ae bekaso beyawar husaina..(2)
-Tashnaye alqama ya husain ya husain
+۳
+اے جانِ دلِ مادر حسینا
+اے بے کس و بے یاور حسینا
+تشنۂ علقمہ یا حسین یا حسین
 
-4
-2. ye zulm o sitam ye zoro jafa..(2)
-Ye behta lahu bejurmo khata
-Har zamee karbala ya husain ya husain
+۴
+یہ ظلم و ستم یہ زور و جفا
+یہ بہتا لہو بے جرم و خطا
+ہر زمیں کربلا یا حسین یا حسین
 
-5
-3. kya humko daraega ye jahan..(2)
-Ye teero jawa ye arzo sama..(2)
-Sab hai tujhpar fida ya husain ya husain
+۵
+کیا ہم کو ڈرائے گا یہ جہاں
+یہ تیر و جوا یہ ارض و سما
+سب ہے تجھ پر فدا یا حسین یا حسین
 
-6
-4. Ye farshe aza ye aaho buka..(2)
-Matam ki sada zahra ki dua..(2)
-Zikr hai ek bapa ya husain ya husain
+۶
+یہ فرشِ عزا یہ آہ و بکا
+ماتم کی صدا زہرا کی دعا
+ذکر ہے ایک بپا یا حسین یا حسین
 
-7
-5. wo bali sakina aur wo pyaas..(2)
-Wo bazu qalam wo hasrat o yaas..(2)
-Hauz ye tha bapa ya husain ya husain
+۷
+وہ بالی سکینہ اور وہ پیاس
+وہ بازو قلم وہ حسرت و یاس
+حوض یہ تھا بپا یا حسین یا حسین
 
-8
-6. akbar neem jaan ye jalti zameen..(2)
-Dil thaam ke baithe hai shahedeen..(2)
-Khaimo me hai buka ya husain ya husain
+۸
+اکبر نیم جاں یہ جلتی زمین
+دل تھام کے بیٹھے ہیں شاہدین
+خیموں میں ہے بکا یا حسین یا حسین
 
-9
-7. wo tauq e gera wo zainul eba..(2)
-Wo aale nabi wo qaid e bala..(2)
-Zainab e berida ya husain ya husain
+۹
+وہ طوقِ گراں وہ زین العبا
+وہ آلِ نبی وہ قیدِ بلا
+زینبِ بے ردا یا حسین یا حسین
 
-10
-8. ye nauha zafar maula ki ataa..(2)
-Safdar ke dilo jaa ki hai sadaa..(2)
-Khoon e dil se likha ya husain ya husain
+۱۰
+یہ نوحہ ظفر مولا کی عطا
+صفدر کے دل و جاں کی ہے صدا
+خونِ دل سے لکھا یا حسین یا حسین
 
-11
-Sarallah khooney khuda ya husain ya husain
-Ae dile Mustafa ya husain ya husain
+۱۱
+ثار اللہ خونِ خدا یا حسین یا حسین
+اے دلِ مصطفیٰ یا حسین یا حسین

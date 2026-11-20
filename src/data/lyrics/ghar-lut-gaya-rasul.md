@@ -28,7 +28,7 @@ romanLyrics: |-
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 
   3
-  Jo ghutniyoṅ bhi chalne ka qaabil abhi na tha
+  Jo ghantiyoṅ bhi chalne ka qaabil abhi na tha
   Wo bhi qaza ke haathoṅ se bejaan ho gaya
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 
   5
-  Karb o Bala meiṅ aa ke uthaayi wo sakhtiyaaṅ
+  Karb o Bala mein aa ke uthaayi wo sakhtiyaaṅ
   Chhini gayi Sakina ke kaanoṅ se baaliyaaṅ
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 

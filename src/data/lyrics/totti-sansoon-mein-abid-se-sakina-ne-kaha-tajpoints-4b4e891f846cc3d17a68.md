@@ -1,40 +1,71 @@
 ---
-title: "Totti Sansoon Mein Abid Se Sakina Ne Kaha"
+title: "ٹوٹی سانسوں میں عابد سے سکینہ نے کہا"
+alternateTitle: "Totti Sansoon Mein Abid Se Sakina Ne Kaha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Totti sansoon mein Abid se Sakina ne kaha
+  Baba lainay aa gaye hain ja rahi hoon alwida
+  Dekh kar rukhsar zakhmi naizay par roney lagay
+  Main tere qurban ujari kehte hain baba mere
+
+  2
+  Tere mere milney mein ab waqt thora reh gaya
+  Mujh pe dhaye hain sitam our main sehti rahi
+  Bas mila do mera baba bhai se kehti rahi
+  Phir nahi royon gi bhaiyya sar mere baba ka la
+
+  3
+  Sorah-e-Kausar hoon par Quran ki tafseer hoon
+  Beti hoon Shabeer ki Sajjad ki humsheer hoon
+  Main agar keh doon yeh dunya khatam kar de ga Khuda
+  Kya likhon tere musayab ladli Shabeer ki
+
+  4
+  Dukh mein sadiyon ke barabar chaar sala zindagi
+  Haye yateemi qaid-e-tanha zulm ki hai inteha
+  Bhool gayi apne tamachay sirf Asghar yaad hai
+  Teen din ka pyasa mara kehti woh Sajjad hai
+
+  5
+  Teer ke qabil nahi tha haye Asghar yeh mera
+  Tere baba wala naiza aagay kyun jata nahi
+  Zulm kar ke kehta tha Sajjad se Shimar laeen
+  Ho gayi hai gum Sakina iss liye yeh ruk gaya
 ---
 
-1
-Totti Sansoon Mein Abid Se Sakina Ne Kaha.
-Baba Lainay Aa Gaye Hain Ja Rahi Hoon Alwida.
-Dekh Kar Rukhsar Zakhmi Naizay Par Roney Lagay.
-Main Tere Qurban Ujari Kehte Hain Baba Mere.
+۱
+ٹوٹی سانسوں میں عابد سے سکینہ نے کہا
+بابا لینے آ گئے ہیں جا رہی ہوں الوداع
+دیکھ کر رخسار زخمی نیزے پر رونے لگے
+میں تیرے قربان اجاڑی کہتے ہیں بابا میرے
 
-2
-Tere Mere Milney Mein Ab Waqt Thora Reh Gaya.
-Mujh Pe Dhaye Hain Sitam Our Main Sehti Rahi.
-Bas Mila Do Mera Baba Bhai Se Kehti Rahi.
-Phir Nahi Royon Gi Bhaiyya Sar Mere Baba Ka La.
+۲
+تیرے میرے ملنے میں اب وقت تھوڑا رہ گیا
+مجھ پہ ڈھائے ہیں ستم اور میں سہتی رہی
+بس ملا دو میرا بابا بھائی سے کہتی رہی
+پھر نہیں روؤں گی بھیا سر میرے بابا کا لا
 
-3
-Sorah-e-Kausar Hoon Par Quran Ki Tafseer Hoon.
-Beti Hoon Shabeer Ki Sajjad Ki Humsheer Hoon.
-Main Agar Keh Doon Yeh Dunya Khatam Kar De Ga Khuda.
-Kya Likhon Tere Musayab Ladli Shabeer Ki.
+۳
+سورۂ کوثر ہوں پر قرآن کی تفسیر ہوں
+بیٹی ہوں شبیر کی سجاد کی ہمشیر ہوں
+میں اگر کہہ دوں یہ دنیا ختم کر دے گا خدا
+کیا لکھوں تیرے مصائب لاڈلی شبیر کی
 
-4
-Dukh Mein Sadiyon Ke Barabar Chaar Sala Zindagi.
-Haye Yateemi Qaid-e-Tanha Zulm Ki Hai Inteha.
-Bhool Gayi Apne Tamachay Sirf Asghar Yaad Hai.
-Teen Din Ka Pyasa Mara Kehti Woh Sajjad Hai.
+۴
+دکھ میں صدیوں کے برابر چار سالہ زندگی
+ہائے یتیمی قیدِ تنہا ظلم کی ہے انتہا
+بھول گئی اپنے طمانچے صرف اصغر یاد ہے
+تین دن کا پیاسا مارا کہتی وہ سجاد ہے
 
-5
-Teer Ke Qabil Nahi Tha Haye Asghar Yeh Mera.
-Tere Baba Wala Naiza Aagay Kyun Jata Nahi.
-Zulm Kar Ke Kehta Tha Sajjad Se Shimar Laeen.
-Ho Gayi Hai Gum Sakina Iss Liye Yeh Ruk Gaya.
+۵
+تیر کے قابل نہیں تھا ہائے اصغر یہ میرا
+تیرے بابا والا نیزہ آگے کیوں جاتا نہیں
+ظلم کر کے کہتا تھا سجاد سے شمر لعین
+ہو گئی ہے گم سکینہ اس لیے یہ رک گیا

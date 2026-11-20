@@ -12,39 +12,39 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali Ali Ali Haider Haider
-  Man Kunto Maula Fa Haza Ali Maula
+  Man kunto maula fa haza Ali maula
 
   1
-  Molaiyo Ghadir Ka Rasta Na Chorna
-  Sab Chor Dena Zikar Ali Ka Na Chorna
-  Phal Aik Roz De Ga Yeh Bole Abu Turab
-  Misum Tum Iss Darakht Ko Pyasa Na Chorna
-  Bugz-e-Ali Ki Aag Se Jalte Haiṅ Jin Ke Dil
-  Zikar-e-Ali Se Unn Ko Jalana Na Chorna
+  Molaiyo Ghadir ka rasta na chorna
+  Sab chor dena zikr Ali ka na chorna
+  Bhale ik roz de ga, yeh bole Abu Turab
+  Misum tum is darakht ko pyasa na chorna
+  Bughz-e-Ali ki aag se jalte haiṅ jin ke dil
+  Zikr-e-Ali se un ko jalana na chorna
 
   2
-  Hum Ko Yeh Maeiṅ Deti Haiṅ Jhole Meiṅ Loriyaaṅ
-  Matam Namaz Our Tabara Na Chorna
-  Zahra Ne Khuwab Meiṅ Abu Ishaq Se Kaha
-  Qatil Husain Ka Koi Zindah Na Chorna
-  Shia Ho Tum Ali Ke Tu Sajjad Ki Tarha
-  Matam Ke Sath Sath Musalla Na Chorna
+  Hum ko yeh maaeṅ deti haiṅ jhule meiṅ loriyaaṅ
+  Matam namaz aur tabarra na chorna
+  Zahra ne khwab meiṅ Abu Ishaq se kaha
+  Qatil Husain ka koi zinda na chorna
+  Shia ho tum Ali ke to Sajjad ki tarah
+  Matam ke saath saath musalla na chorna
 
   3
-  Gar Chahte Ho Tum Keh Namazeiṅ Qabul Huṅ
-  Darwaza-e-Batul Pe Sajdah Na Chorna
-  Aayat Koi Our Bhi Le Aaye Ga Magar
-  Jibril Tum Husain Ka Jhola Na Chorna
-  Gar Chahte Ho Razi Huṅ Hasnain o Fatima
-  Haider Ke Dushmano Pe Tabara Na Chorna
+  Agar chahte ho tum keh namazeṅ qabul huṅ
+  Darwaza-e-Batul pe sajda na chorna
+  Aayat koi aur bhi le aaye ga magar
+  Jibril tum Husain ka jhula na chorna
+  Agar chahte ho razi huṅ Hasnain o Fatima
+  Haider ke dushmanoṅ pe tabarra na chorna
 
   4
-  Har Momina Behan Se Hai Yeh Iltija Meri
-  Zainab Ki Gar Kaniz Ho Pardah Na Chorna
-  Gar Samne Rasul Ke Hona Hai Surkhru
-  Jab Tak Hai Sans Khon Ka Pursa Na Chorna
-  Akbar Kaha Batul Ne Bahir Bahisht Se
-  Koi Ali Ka Chahne Wala Na Chorna
+  Har momina behan se hai yeh iltija meri
+  Zainab ki gar kaniz ho parda na chorna
+  Agar saamne Rasul ke hona hai surkhru
+  Jab tak hai saaṅs khun ka pursa na chorna
+  Akbar kaha Batul ne bahar bahisht se
+  Koi Ali ka chahne wala na chorna
 
 ---
 علی علی علی حیدر حیدر

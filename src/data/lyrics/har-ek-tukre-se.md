@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Har ek tukre se tukra mila rahe hai Husain
-  Hasan ka laal dobara bana rahe haiṅ Husain
+  Hasan ka laal dobaara bana rahe haiṅ Husain
 
   1
   Hasan ke laashe se jaise nikaala tiroṅ ko

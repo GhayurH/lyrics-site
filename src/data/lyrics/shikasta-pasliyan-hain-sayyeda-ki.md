@@ -1,49 +1,89 @@
 ---
 title: "شکستہ پسلیاں ہیں سیّدہؑ کی"
+alternateTitle: "Shikasta Pasliyan Hain Sayyeda Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shikasta pasliyan hain Sayyeda ki
+  Lahu roti hain aankhein Murtaza ki
+
+  1
+  Hai waqt e inteqal e Izzatullah
+  Farishton ne falak per yeh nida ki
+
+  2
+  Chala ghar se janaza Fatema ka
+  Khudayi kaanp uththii hai Khuda ki
+
+  3
+  Hai mushkil ho gayi pehchan na bhi
+  Gham e Zahra me surat Mujtaba ki
+
+  4
+  Behen Shabbir ki yun ro padhi hai
+  Nazar aati hai manzil Karbala ki
+
+  5
+  Mere maula na kuch khane ko kehna
+  Ali se Murtajiz ne ilteja ki
+
+  6
+  Musalmano ke sar hai khoon e Zahra
+  Dil-e-Ahmed pe yeh kaisi jafa ki
+
+  7
+  Khadija Maryam o Saara o Hawwa
+  Saro se hai rida sab ne juda ki
+
+  8
+  Wilayat ki wakaalat karte karte
+  Chali duniya se beti Mustafa ki
+
+  9
+  Jinhone Fatema ka dar jalaya
+  Shabih lanat ho unn par qibriya ki
 ---
 
-Shikasta pasliyan hain Sayyeda ki
-Lahu roti hain aankhein Murtaza ki
+شکستہ پسلیاں ہیں سیّدہ کی
+لہو روتی ہیں آنکھیں مرتضیٰ کی
 
-1
-1. Hai waqt e inteqal e izzatullah..
-Fٖarishton ne falak per yeh nida ki
+۱
+ہے وقتِ انتقالِ عزت اللہ
+فرشتوں نے فلک پر یہ ندا کی
 
-2
-2. Chala ghar se janaza fatema ka..
-Khudayi kaanp uththii hai khuda ki
+۲
+چلا گھر سے جنازہ فاطمہ کا
+خدائی کانپ اٹھی ہے خدا کی
 
-3
-3. Hai mushkil ho gayi pehchan na bhi..
-Gham e zahra me surat mujtaba ki
+۳
+ہے مشکل ہو گئی پہچاننا بھی
+غمِ زہرا میں صورت مجتبیٰ کی
 
-4
-4. Behen shabbir ki yun ro padhi hai..
-Nazar aati hai manzil karbala ki
+۴
+بہن شبیر کی یوں رو پڑی ہے
+نظر آتی ہے منزل کربلا کی
 
-5
-5. Mere maula na kuch khane ko kehna..
-Ali se murtajiz ne ilteja ki.
+۵
+میرے مولا نہ کچھ کھانے کو کہنا
+علی سے مرتجز نے التجا کی
 
-6
-6. Musalmano ke sar hai khoon e zahra
-Dil-e-Ahmed pe yeh kaisi jafa ki
+۶
+مسلمانوں کے سر ہے خونِ زہرا
+دلِ احمد پہ یہ کیسی جفا کی
 
-7
-7. Khadija Maryam o Saara o Hawwa
-Saro se hai rida sab ne juda ki
+۷
+خدیجہ مریم و سارہ و حوا
+سروں سے ہے ردا سب نے جدا کی
 
-8
-8. Wilayat ki wakaalat karte karte..
-Chali duniya se beti Mustafa ki
+۸
+ولایت کی وکالت کرتے کرتے
+چلی دنیا سے بیٹی مصطفیٰ کی
 
-9
-9. Jinhone Fatema ka dar jalaya..
-SHABIH lanat ho unn par qibriya ki
+۹
+جنہوں نے فاطمہ کا در جلایا
+شبیہ لعنت ہو ان پر کبریا کی

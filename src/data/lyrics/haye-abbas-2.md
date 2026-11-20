@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baazu e shahe karbobala hazrate abbas
-  Saqqa e haram sher e wigha hazrate abbas
-  Abbas abbas haye abbas haye abbas
-  Shabbir ki ita'at thi faqat unki shariyat
-  Mashur zamane meiṅ hai maula ki shuja'at
-  Paayi asadullah ki kul tumne virasat
-  Baatil ke liye misle qaza hazrate abbas
-  Abbas abbas...
-  Gar hukm mile karde abhi shaam ko tashkir
-  Abbas ke kabze meiṅ ali ki jo hai shamshir
-  Bas muntazir hai izn jo de hazrate shabbir
-  De wada khilaafi ki saza hazrate abbas
-  Abbas abbas...
-  Shabbir ke lashkar ke alamdar hai abbas
-  Kehta hai alam hyder e karrar hai abbas
-  Baatil ke liye aahini dewaar hai abbas
-  Islam ke parcham ki baqa hazrate abbas
-  Abbas abbas...
-  Farmate the shabbir ho tum zinate lashkar
-  Qayam hai tere dam se meri shaukat e lashkar
-  Ek aah ki farmeina ke ye qismat e lashkar
-  Hai kaun jo lashkar meiṅ ruka hazrate abbas
-  Abbas abbas...
-  Paate hi riza maula se lene chale pani
-  Darya ko chala tab asadullah ka jaani
+  Baazu-e-Shah-e-Karbobala Hazrat-e-Abbas
+  Saqqa-e-haram sher-e-wagha Hazrat-e-Abbas
+  Abbas Abbas haaye Abbas haaye Abbas
+  Shabbir ki ita'at thi faqat un ki shariat
+  Mashur zamaane meiṅ hai Maula ki shuja'at
+  Paayi Asadullah ki kul tum ne viraasat
+  Baatil ke liye misl-e-qaza Hazrat-e-Abbas
+  Abbas Abbas...
+  Gar hukm mile kar de abhi Shaam ko tashkir
+  Abbas ke qabze meiṅ Ali ki jo hai shamshir
+  Bas muntazir hai izn jo de Hazrat-e-Shabbir
+  De waada khilaafi ki saza Hazrat-e-Abbas
+  Abbas Abbas...
+  Shabbir ke lashkar ke alamdaar haiṅ Abbas
+  Kehta hai alam Haidar-e-Karraar haiṅ Abbas
+  Baatil ke liye aahani divaar hai Abbas
+  Islam ke parcham ki baqa Hazrat-e-Abbas
+  Abbas Abbas...
+  Farmaate the Shabbir ho tum zinat-e-lashkar
+  Qiyaam hai tere dam se meri shaukat-e-lashkar
+  Ik aah ki farmaaya ke ye qismat-e-lashkar
+  Hai kaun jo lashkar meiṅ ruka Hazrat-e-Abbas
+  Abbas Abbas...
+  Paate hi raza Maula se lene chale paani
+  Darya ko chala tab Asadullah ka jaani
   The nehr pe qabza kiye wo zulm ke baani
-  Kab daur pari fauje jafa hazrate abbas
-  Abbas abbas...
-  Ashur ko jab maara gaya shaah ka lashkar
-  Aur pyaas se bache nazar aane lage muztar
-  Dekha na gaya ghazi se wo karb ka manzar
-  Sarwar se chale lene riza hazrate abbas
-  Abbas abbas...
-  Mashkize meiṅ tab pani ko bharne lage maula
-  Ghore se kaha tu hai kayi roz se pyasa
-  Rehwaar ye bola ke nahi mujhko ye zeba
-  Phir aab ko chullu meiṅ liya hazrate abbas
-  Abbas abbas...
-  Mashkeeza liye qaime ke jaanib chale hazrat
-  Tir aate the parne lagi talwaroṅ ki zarbat
-  Mashkize pe jab tir laga ghut gayi taaqat
-  Shabbir ko dete the sada hazrate abbas
-  Abbas abbas...
-  Ya rab na kisi bhai ko manzar ye dikhaye
-  Jis tarha kamar pakre wahaṅ shaah the aaye
-  Abbas se farmate the mai kya karoo haye
-  Kiuṅ hote ho tum hum se juda hazrate abbas
-  Abbas abbas...
-  Qaime meiṅ Husain aaye liye ghazi ka parcham
-  Qaimo meiṅ haram ke tha bapa ghazi ka matam
-  The bain sakina ke laboṅ par yehi payham
-  Kiuṅ sogaye darya pe chacha hazrate abbas
-  Abbas abbas...
-  Ye bain the zainab ke suno mere dilawar
+  Kab daur pari fauj-e-jafa Hazrat-e-Abbas
+  Abbas Abbas...
+  Aashur ko jab maara gaya shaah ka lashkar
+  Aur pyaas se bachche nazar aane lage muztar
+  Dekha na gaya ghaazi se wo karb ka manzar
+  Sarvar se chale lene raza Hazrat-e-Abbas
+  Abbas Abbas...
+  Mashkize meiṅ tab paani ko bharne lage Maula
+  Ghore se kaha tu hai kai roz se pyaasa
+  Rahvaar ye bola ke nahiṅ mujh ko ye zeba
+  Phir aab ko chullu meiṅ liya Hazrat-e-Abbas
+  Abbas Abbas...
+  Mashkiza liye khaime ke jaanib chale Hazrat
+  Tir aate the parhne lagi talwaroṅ ki zarbat
+  Mashkize pe jab tir laga ghat gayi taaqat
+  Shabbir ko dete the sadaa Hazrat-e-Abbas
+  Abbas Abbas...
+  Ya Rab na kisi bhaai ko manzar ye dikhaaye
+  Jis tarah kamar pakre wahaṅ shaah the aaye
+  Abbas se farmaate the main kya karuṅ haaye
+  Kiuṅ hote ho tum ham se juda Hazrat-e-Abbas
+  Abbas Abbas...
+  Khaime meiṅ Husain aaye liye ghaazi ka parcham
+  Khaimoṅ meiṅ haram ke tha bapa ghaazi ka maatam
+  The bain Sakina ke laboṅ par yahi paighaam
+  Kiuṅ so gaye darya pe chacha Hazrat-e-Abbas
+  Abbas Abbas...
+  Ye bain the Zainab ke suno mere dilawar
   Tanha hai Husain aur udhar laakhoṅ ka lashkar
-  Baad'az shahe diṅ hoyega barpa yahaṅ mehshar
-  Cheenenge layiṅ meri rida hazrate abbas
-  Abbas abbas...
-  Aijaz qalam rok lo mehshar ka samaa hai
-  Ghazi ke alam meiṅ ye buka shor o fughaṅ hai
-  Aqif yahaṅ matam meiṅ har ek pir o jawaaṅ hai
-  Hai sab ke laboṅ ki ye sada hazrate abbas
-  Abbas abbas...
+  Baad az Shah-e-diṅ hoyega barpa yahaṅ mahshar
+  Chhineṅge laiṅ meri rida Hazrat-e-Abbas
+  Abbas Abbas...
+  Aijaz qalam rok lo mahshar ka samaaṅ hai
+  Ghaazi ke alam meiṅ ye buka shor o fughaaṅ hai
+  Aakif yahaṅ maatam meiṅ har ik pir o jawaaṅ hai
+  Hai sab ke laboṅ ki ye sadaa Hazrat-e-Abbas
+  Abbas Abbas...
 ---
 
 ۱

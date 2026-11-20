@@ -1,37 +1,60 @@
 ---
-title: "Madh E Ali Akbar Syed Mudassir Mehdi"
+title: "مدحِ علی اکبر سید مدثر مہدی"
+alternateTitle: "Madh-e-Ali Akbar Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Turab"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hasil jisay khitab Shabeeh-e-Nabi ka hai
+  Kul kainat-e-husan pe qabza ossi ka hai
+  Nikla qalam se lafz ki sorat mein dil mera
+  Akbar ka tazkira bhi ajab dilkashi ka hai
+  Akbar ka zikar hai mere kunan-e-fikar mein
+  Jalwa nigah-o-dil mein ajab roshni ka hai
+
+  2
+  Manzar hai deedni Ali Akbar ki jang ka
+  Chehra hai Mustafa ka tu hamla Ali ka hai
+  Betay ka chehra dekhtey hain dair tak Hussain
+  Kitna haseen waseela yeh deed-e-Nabi ka hai
+  Yeh husan yeh jamal yeh atharwaan baras
+  Zainab ke wastay yeh sila zindagi ka hai
+
+  3
+  Kantay zabaan ke la na sakay lehan mein khalal
+  Shiddat ki tashnagi mein bhi lehja Ali ka hai
+  Pani bohat zaeef hai our pyas par shabab
+  Akbar yeh mojza teri tashna labi ka hai
+  Soot-e-azaan ne Hur ko bhi hur kar diya Turab
+  Wallah yeh kamal tu paygambari ka hai
 ---
 
-Madh e Ali Akbar Syed Mudassir Mehdi.
+۱
+حاصل جسے خطاب شبیہِ نبی کا ہے
+کل کائناتِ حسن پہ قبضہ اسی کا ہے
+نکلا قلم سے لفظ کی صورت میں دل میرا
+اکبر کا تذکرہ بھی عجب دلکشی کا ہے
+اکبر کا ذکر ہے میرے کنانِ فکر میں
+جلوہ نگاہ و دل میں عجب روشنی کا ہے
 
-1
-Hasil Jisay Khitab Shabeeh-e-Nabi Ka Hai.
-Kul Kainat-e-Husan Pe Qabza Ossi Ka Hai.
-Nikla Qalam Se Lafz Ki Sorat Mein Dil Mera.
-Akbar Ka Tazkira Bhi Ajab Dilkashi Ka Hai.
-Akbar Ka Zikar Hai Mere Kunan-e-Fikar Mein.
-Jalwa Nigah-o-Dil Mein Ajab Roshni Ka Hai.
+۲
+منظر ہے دیدنی علی اکبر کی جنگ کا
+چہرہ ہے مصطفیٰ کا تو حملہ علی کا ہے
+بیٹے کا چہرہ دیکھتے ہیں دیر تک حسین
+کتنا حسین وسیلہ یہ دیدِ نبی کا ہے
+یہ حسن یہ جمال یہ اٹھارہواں برس
+زینب کے واسطے یہ صلہ زندگی کا ہے
 
-2
-Manzar Hai Deedni Ali Akbar Ki Jang Ka.
-Chehra Hai Mustafa Ka Tu Hamla Ali Ka Hai.
-Betay Ka Chehra Dekhtey Hain Dair Tak Hussain.
-Kitna Haseen Waseela Yeh Deed-e-Nabi.Ka Hai.
-Yeh Husan Yeh Jamal Yeh Atharwaan Baras.
-Zainab Ke Wastay Yeh Sila Zindagi Ka Hai.
-
-3
-Kantay Zabaan Ke La Na Sakay Lehan Mein Khalal.
-Shiddat Ki Tashnagi Mein Bhi Lehja Ali Ka Hai.
-Pani Bohat Zaeef Hai Our Pyas Par Shabab.
-Akbar Yeh Mojza Teri Tashna Labi Ka Hai.
-Soot-e-Azaan Ne Hur Ko Bhi Hur Kar Diya Turab.
-Wallah Yeh Kamal Tu Paygambari Ka Hai.
+۳
+کانٹے زبان کے لا نہ سکے لحن میں خلل
+شدت کی تشنگی میں بھی لہجہ علی کا ہے
+پانی بہت ضعیف ہے اور پیاس پر شباب
+اکبر یہ معجزہ تیری تشنہ لبی کا ہے
+صوتِ اذاں نے حر کو بھی حر کر دیا تراب
+واللہ یہ کمال تو پیغمبری کا ہے

@@ -7,6 +7,29 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shaah kehte the jo mohlat de zamaana Zainab
+  Taraf-e-gor-e-gharibaaṅ kabhi aana Zainab
+
+  1
+  Shaah kehte the chhirakne ko na deṅ ge paani
+  Ashk-e-hasrat meri turbat pe bahaana Zainab
+
+  2
+  Shaah kehte the agar Shaam se ho qasd-e-watan
+  Tum meri qabr se hoti hui jaana Zainab
+
+  3
+  Shaah kehte the ke din kat gaye yakjaai ke
+  Aa gaya sar pe judaai ka zamaana Zainab
+
+  4
+  Shaah kehte the watan jaa ke meri jaanib se
+  Meri bimaar ko chhaati se lagaana Zainab
+
+  5
+  Shah ne farmaaya mere baad ho tum meri jagah
+  Apne sine pe Sakina ko sulaana Zainab
 ---
 
 شاہ کہتے تھے جومہلت دے زمانہ زینبؑ

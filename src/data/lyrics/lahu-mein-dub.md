@@ -13,7 +13,7 @@ aliases: ["Lahoo Mein Doob"]
 published: true
 romanLyrics: |-
   Lahu meiṅ dub gaya jab shabih-e-Paighambar
-  Zamin-e-Karbobala par tha hashr ka manzar
+  Zamin-e-Karb o Bala par tha hashr ka manzar
 
   1
   Husain dhund rahe the jawaaṅ ke laashe ko
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kaleja thaam ke Akbar tarap rahe the udhar
 
   7
-  Sada sune to sahaara mile zaifi ko
+  Sada suno to sahaara mile zaifi ko
   Ajib waqt hai mushkil kusha ke bete par
 
   8

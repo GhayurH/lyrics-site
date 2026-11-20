@@ -1,34 +1,58 @@
 ---
-title: "Ghazi Main Razi Haan Lyrics In Punjabi 2012"
+title: "غازی میں راضی ہاں"
+alternateTitle: "Ghazi Main Razi Haan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghazi main razi haan
+  Alma wale mere alma wale ghazi main razi haan
+  Kaindi aye Baqiyah choo loko Abbas di ujri maa
+  Iss khabar tu pore Yasrab wich wad maan gay ne mere
+  Tera sir rakhiya aye jholi wich Zahra ne akhri wailay
+  Tenu putar bolandi rayi bibi teri chum chum ke bawaan
+  Main hik wari tenu dasiya si tu nazraan nu nayi chukna
+  Tenu maut tu baad v yaad riya Zainab da sir nahi takna
+  Na sir naizey te rokiya tu na kholiyaan tu aakhiyaan
+  Dasiya aye Ruqayyah ne menu tu kiwein farz nibhaya
+  Pani te qabza kar ke v pani nu munh nahi laya
+  Aynj piyasiyaan reh ke meriyaan v rakh layiyaan tu iztaan
+  Chodaan sadiyaan tu kaindi aye ro ro Abbas di amri
+  Hun naam di Umul Baneen haan main pawein jholi aye meri khali
+  Par ji karda aye mera chan bachra bas ayho aakhdi jaan
+  Teri gurbat aye main jandi haan bin bazo zeen tu lathiya
+  Peshani de bal digiyaa toon rukhsaar zameen te lagiya
+  Oss wailay v mashkeezay te tu nazraan san rakhiyaan
+  Saqlain aye bibi kaindi si pawein alam nahi mansab odah
+  Main wapis aande qafley wich aye manzar aap aye takiya
+  Zainab de sir te kiti si tere fazal ne alam di chaan
 ---
 
-1
-Ghazi Main Razi Haan
-Alma Wale Mere Alma Wale Ghazi Main Razi Haan.
-Kaindi Aye Baqiyah Choo Loko Abbas Di Ujri Maa.
-Iss Khabar Tu Pore Yasrab Wich Wad Maan Gay Ne Mere.
-Tera Sir Rakhiya Aye Jholi Wich Zahra Ne Akhri Wailay.
-Tenu Putar Bolandi Rayi Bibi Teri Chum Chum Ke Bawaan.
-Main Hik Wari Tenu Dasiya Si Tu Nazraan Nu Nayi Chukna.
-Tenu Maut Tu Baad V Yaad Riya Zainab Da Sir Nahi Takna.
-Na Sir Naizey Te Rokiya Tu Na Kholiyaan Tu Aakhiyaan.
-Dasiya Aye Ruqayyah Ne Menu Tu Kiwein Farz Nibhaya.
-Pani Te Qabza Kar Ke V Pani Nu Munh Nahi Laya.
-Aynj Piyasiyaan Reh Ke Meriyaan V Rakh Layiyaan Tu Iztaan.
-Chodaan Sadiyaan Tu Kaindi Aye Ro Ro Abbas Di Amri.
-Hun Naam Di Umul Baneen Haan Main Pawein Jholi Aye Meri Khali.
-Par Ji Karda Aye Mera Chan Bachra Bas Ayho Aakhdi Jaan.
-Teri Gurbat Aye Main Jandi Haan Bin Bazo Zeen Tu Lathiya.
-Peshani De Bal Digiyaa Toon Rukhsaar Zameen Te Lagiya.
-Oss Wailay V Mashkeezay Te Tu Nazraan San Rakhiyaan.
- Saqlain Aye Bibi Kaindi Si Pawein Alam Nahi Mansab Odah.
-Main Wapis Aande Qafley Wich Aye Manzar Aap Aye Takiya.
-Zainab De Sir Te Kiti Si Tere Fazal Ne Alam Di Chaan.
+۱
+غازی میں راضی ہاں
+علماں والے میرے علماں والے غازی میں راضی ہاں
+کہندی اے بقیع چوں لوکو عباس دی اجڑی ماں
+اِس خبر توں پورے یثرب وچ ودھ مان گئے نے میرے
+تیرا سر رکھیا اے جھولی وچ زہرا نے آخری ویلے
+تینوں پتر بولاندی رہی بی‌بی تیری چم چم کے باواں
+میں ہک واری تینوں دسیا سی تُوں نظراں نوں نئیں چکنا
+تینوں موت توں بعد وی یاد ریا زینب دا سر نہیں تکنا
+نہ سر نیزے تے روکیا تُوں نہ کھولیاں تُوں اکھیاں
+دسیا اے رقیہ نے مینوں تُوں کیویں فرض نبھایا
+پانی تے قبضہ کر کے وی پانی نوں منہ نہیں لایا
+اینج پیاسیاں رہ کے میریاں وی رکھ لئیاں تُوں عزتاں
+چوداں صدیاں توں کہندی اے رو رو عباس دی امڑی
+ہُن نام دی ام البنین ہاں میں بھاویں جھولی اے میری خالی
+پر جی کردا اے میرا چن بچڑا بس ایہو آکھدی جاں
+تیری غربت اے میں جاندی ہاں بن بازو زین توں لتھیا
+پیشانی دے بل ڈگیا تُوں رخسار زمین تے لگیا
+اوس ویلے وی مشکیزے تے تُوں نظراں سن رکھیاں
+ثقلین ایہہ بی‌بی کہندی سی بھاویں علم نہیں منصب اوہدا
+میں واپس آندے قافلے وچ ایہہ منظر آپ اے تکیا
+زینب دے سر تے کیتی سی تیرے فضل نے علم دی چھاں

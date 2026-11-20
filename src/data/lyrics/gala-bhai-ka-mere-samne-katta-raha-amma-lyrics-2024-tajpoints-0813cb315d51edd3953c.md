@@ -1,45 +1,75 @@
 ---
-title: "Gala Bhai Ka Mere Samne Katta Raha Amma Lyrics 2024"
+title: "گلا بھائی کا میرے سامنے کٹتا رہا امّاں"
+alternateTitle: "Gala Bhai Ka Mere Samne Katta Raha Amma"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Aimaad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Hussain haye Hussain, haye Hussain haye Hussain
+  Gala bhai ka mere samne katta raha Amma
+  Main roti reh gayi khanjar magar chalta raha Amma
+  Laeen ko dekha jab main ne hai pusht-e-Shah par betha
+  Pukara main ne kar kuch reham pyasa hai Nabi zadah
+  Pakar kar sheh ko zulfoon se laeen hansta raha Amma
+
+  2
+  Ragein thin khushk lekin zair-e-lab woh kuch tu parhta tha
+  Yeh manzar dekha jab main ne tu mera dil yeh kehta tha
+  Keh shayad yaad woh Abbas ko karta raha Amma
+  Sitamgar har taraf maidan mein khushiyaan manatay they
+  Chalein surkh aandhiyaan bhi our badil gham ke chaye they
+  Pakar kar zulfein bhai ki laeen chalta raha Amma
+
+  3
+  Main khaimay se nikal kar jab sar-e-dasht-e-bala aayi
+  Tah-e-Khanjar jo maqtal mein nazar aaya mujhe bhai
+  Wahan oss dasht mein dil mera ghabrata raha Amma
+  Biyaan kaisay karon tum se jo main ne dekha tha manzar
+  Rawaan tha kund khanjar haye mere pyasay bhai par
+  Na aa jaye Sakina yeh khiyal aata raha Amma
+
+  4
+  Ajab ik aas thi bhai ki aankhon mein dam-e-aakhir
+  Woh kehna chahta tha kuch yehi aankhon se tha zahir
+  Main oss ko dekhti thi woh mujhe takta raha Amma
+  Aimaad oss waqt Yasrab ki zameen mein zalzala aaya
+  Jo qabar-e-Fatima Zahra pe Zainab ne yeh farmaya
+  Mere hi samne bhai mera marta raha Amma
 ---
 
-Gala Bhai Ka Mere Samne Katta Raha Amma Muhammad Raza Mungla.
+۱
+ہائے حسین ہائے حسین، ہائے حسین ہائے حسین
+گلا بھائی کا میرے سامنے کٹتا رہا امّاں
+میں روتی رہ گئی خنجر مگر چلتا رہا امّاں
+لعین کو دیکھا جب میں نے ہے پشتِ شہ پر بیٹھا
+پکارا میں نے کر کچھ رحم پیاسا ہے نبی زادہ
+پکڑ کر شہ کو زلفوں سے لعین ہنستا رہا امّاں
 
-1
-Haye Hussain Haye Hussain, Haye Hussain Haye Hussain.
-Gala Bhai Ka Mere Samne Katta Raha Amma.
-Main Roti Reh Gayi Khanjar Magar Chalta Raha Amma.
-Laeen Ko Dekha Jab Main Ne Hai Pusht-e-Shah Par Betha.
-Pukara Main Ne Kar Kuch Reham Pyasa Hai Nabi Zadah.
-Pakar Kar Sheh Ko Zulfoon Se Laeen Hansta Raha Amma.
+۲
+رگیں تھیں خشک لیکن زیرِ لب وہ کچھ تو پڑھتا تھا
+یہ منظر دیکھا جب میں نے تو میرا دل یہ کہتا تھا
+کہ شاید یاد وہ عباس کو کرتا رہا امّاں
+ستمگر ہر طرف میدان میں خوشیاں مناتے تھے
+چلیں سرخ آندھیاں بھی اور بادل غم کے چھائے تھے
+پکڑ کر زلفیں بھائی کی لعین چلتا رہا امّاں
 
-2
-Ragein Thin Khushk Lekin Zair-e-Lab Woh Kuch Tu Parhta Tha.
-Yeh Manzar Dekha Jab Main Ne Tu Mera Dil Yeh Kehta Tha.
-Keh Shayad Yaad Woh Abbas Ko Karta Raha Amma.
-Sitamgar Har Taraf Maidan Mein Khushiyaan Manatay They.
-Chalein Surkh Aandhiyaan Bhi Our Badil Gham Ke Chaye They.
-Pakar Kar Zulfein Bhai Ki Laeen Chalta Raha Amma.
+۳
+میں خیمے سے نکل کر جب سرِ دشتِ بلا آئی
+تہِ خنجر جو مقتل میں نظر آیا مجھے بھائی
+وہاں اُس دشت میں دل میرا گھبراتا رہا امّاں
+بیاں کیسے کروں تم سے جو میں نے دیکھا تھا منظر
+رواں تھا کند خنجر ہائے میرے پیاسے بھائی پر
+نہ آ جائے سکینہ یہ خیال آتا رہا امّاں
 
-3
-Main Khaimay Se Nikal Kar Jab Sar-e-Dasht-e-Bala Aayi.
-Tah-e-Khanjar Jo Maqtal Mein Nazar Aaya Mujhe Bhai.
-Wahan Oss Dasht Mein Dil Mera Ghabrata Raha Amma.
-Biyaan Kaisay Karon Tum Se Jo Main Ne Dekha Tha Manzar.
-Rawaan Tha Kund Khanjar Haye Mere Pyasay Bhai Par.
-Na Aa Jaye Sakina Yeh Khiyal Aata Raha Amma.
-
-4
-Ajab Ik Aas Thi Bhai Ki Aankhon Mein Dam-e-Aakhir.
-Woh Kehna Chahta Tha Kuch Yehi Aankhon Se Tha Zahir.
-Main Oss Ko Dekhti Thi Woh Mujhe Takta Raha Amma.
- Aimaad Oss Waqt Yasrab Ki Zameen Mein Zalzala Aaya.
-Jo Qabar-e-Fatima Zahra Pe Zainab Ne Yeh Farmaya.
-Mere Hi Samne Bhai Mera Marta Raha Amma.
+۴
+عجب اک آس تھی بھائی کی آنکھوں میں دمِ آخر
+وہ کہنا چاہتا تھا کچھ یہی آنکھوں سے تھا ظاہر
+میں اُس کو دیکھتی تھی وہ مجھے تکتا رہا امّاں
+عماد اُس وقت یثرب کی زمیں میں زلزلہ آیا
+جو قبرِ فاطمہ زہرا پہ زینب نے یہ فرمایا
+میرے ہی سامنے بھائی میرا مرتا رہا امّاں

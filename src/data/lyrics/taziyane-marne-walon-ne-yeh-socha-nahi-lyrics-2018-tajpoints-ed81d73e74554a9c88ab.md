@@ -1,35 +1,60 @@
 ---
-title: "Taziyane Marne Walon Ne Yeh Socha Nahi Lyrics 2018"
+title: "تازیانے مارنے والوں نے یہ سوچا نہیں"
+alternateTitle: "Taziyane Marne Walon Ne Yeh Socha Nahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taziyane marne walon ne yeh socha nahi
+  Aablay hain paon mein Sajjad chal sakta nahi
+  Beriyaan dalo na iss ko tauq mat dalo issay
+  Qaid hai Zainab tu Abid ab kahin jata nahi
+
+  2
+  Be-kafan lashon ki khamoshi ne jane kya kaha
+  Karbala ke bad Abid Sham tak bola nahi
+  Har gali mein keh raha hai main Nabi ki aal hoon
+  Haye ghurbat koi bhi Sajjad ki sunta nahi
+
+  3
+  Kan hain zakhmi tu rukh pe tamanchon ke nishaan
+  Shayad iss bachi ke sar par baap ka saya nahi
+  Sar barehna aayi kaise woh bhare darbar mein
+  Jis ke baloon ko kabhi Baba ne bhi dekha nahi
+
+  4
+  Zulm ki shidat se shayad jam gaya sara laho
+  Ab bhi zakhmi hain Sakina par laho behta nahi
+  Aankh mein utra nahi Akbar abhi bazar-e-Sham
+  Ashk behte hain meri aankhon se khoon nikla nahi
 ---
 
-1
-Taziyane Marne Walon Ne Yeh Socha Nahi.
-Aablay Hain Paon Mein Sajjad Chal Sakta Nahi.
-Beriyaan Dalo Na Iss Ko Tauq Mat Dalo Issay.
-Qaid Hai Zainab Tu Abid Ab Kahin Jata Nahi.
+۱
+تازیانے مارنے والوں نے یہ سوچا نہیں
+آبلے ہیں پاؤں میں سجاد چل سکتا نہیں
+بیڑیاں ڈالو نہ اس کو طوق مت ڈالو اسے
+قید ہے زینب تو عابد اب کہیں جاتا نہیں
 
-2
-Be-Kafan Lashon Ki Khamoshi Ne Jane Kya Kaha.
-Karbala Ke Bad Abid Sham Tak Bola Nahi.
-Har Gali Mein Keh Raha Hai Main Nabi Ki Aal Hoon.
-Haye Ghurbat Koi Bhi Sajjad Ki Sunta Nahi.
+۲
+بے کفن لاشوں کی خاموشی نے جانے کیا کہا
+کربلا کے بعد عابد شام تک بولا نہیں
+ہر گلی میں کہہ رہا ہے میں نبی کی آل ہوں
+ہائے غربت کوئی بھی سجاد کی سنتا نہیں
 
-3
-Kan Hain Zakhmi Tu Rukh Pe Tamanchon Ke Nishaan.
-Shayad Iss Bachi Ke Sar Par Baap Ka Saya Nahi.
-Sar Barehna Aayi Kaise Woh Bhare Darbar Mein.
-Jis Ke Baloon Ko Kabhi Baba Ne Bhi Dekha Nahi.
+۳
+کان ہیں زخمی تو رخ پہ طمانچوں کے نشان
+شاید اس بچی کے سر پر باپ کا سایہ نہیں
+سر برہنہ آئی کیسے وہ بھرے دربار میں
+جس کے بالوں کو کبھی بابا نے بھی دیکھا نہیں
 
-4
-Zulm Ki Shidat Se Shayad Jam Gaya Sara Laho.
-Ab Bhi Zakhmi Hain Sakina Par Laho Behta Nahi.
-Aankh Mein Utra Nahi Akbar Abhi Bazar-e-Sham.
-Ashk Behte Hain Meri Aankhon Se Khoon Nikla Nahi.
+۴
+ظلم کی شدت سے شاید جم گیا سارا لہو
+اب بھی زخمی ہیں سکینہ پر لہو بہتا نہیں
+آنکھ میں اترا نہیں اکبر ابھی بازارِ شام
+اشک بہتے ہیں میری آنکھوں سے خون نکلا نہیں

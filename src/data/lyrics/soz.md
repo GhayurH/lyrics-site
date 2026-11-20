@@ -7,6 +7,28 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haaye Akbar ka dam nikalta hai
+  Naujawaani ka baagh ujarta hai
+  Baap ke saamne jawaan beta
+  Khaak par erhiyaaṅ ragarta hai
+
+  2
+  Jab naujawaaṅ ki laash na paai Husain ne
+  Thokar har ek gaam pe khaai Husain ne
+  Gir kar zamiṅ pe khaak uraai Husain ne
+  Dil thaam kar ye baat sunaai Husain ne
+  Aankhoṅ se sujta nahiṅ mujh dil-e-malul ko
+  Ae zaalimoṅ dikha do shabih-e-Rasul ko
+
+  3
+  Ae azizoṅ kya bayaaṅ ho maajra-e-Ahl-e-Bait
+  Jab raha waaris na koi sar pe haaye Ahl-e-Bait
+  Aur laga lutne wahaaṅ ismat saraaye Ahl-e-Bait
+  Kya kahuṅ us waqt ki main haaye haaye Ahl-e-Bait
+  Pit kar ro ro ke kehte the yahi ba shor o shain
+  Ham ko mat luto laainoṅ ham haiṅ naamus-e-Husain
 ---
 
 ۱

@@ -16,7 +16,7 @@ romanLyrics: |-
   Saqqa-e-haram Hazrat-e-Abbas kahaaṅ haiṅ
 
   1
-  Sab ahl-e-haram dekh rahe haiṅ Shah-e-din ko
+  Sab ahl-e-haram dekh raheiṅ haiṅ Shah-e-din ko
   Har aankh hai nam Hazrat-e-Abbas kahaaṅ haiṅ
 
   2
@@ -32,15 +32,15 @@ romanLyrics: |-
   Behnoṅ ka bharam Hazrat-e-Abbas kahaaṅ haiṅ
 
   5
-  Shabbir se ye ghurbat-e-Shabbir ne puchha
+  Shabbir se ye ghurbat-e-Shabbir na puchha
   Ae Shah-e-umam Hazrat-e-Abbas kahaaṅ haiṅ
 
   6
-  Halq-e-Shah-e-mazlum hai aur Shimr ka khanjar
+  Halqa-e-Shah-e-mazlum hai aur Shimr ka khanjar
   Ab waqt hai kam Hazrat-e-Abbas kahaaṅ haiṅ
 
   7
-  Kuch der meiṅ ho jaayegi ab shaam-e-gharibaaṅ
+  Kuch dahr meiṅ ho jaayegi ab shaam-e-gharibaaṅ
   Ae dasht-e-sitam Hazrat-e-Abbas kahaaṅ haiṅ
 
   8
@@ -48,8 +48,8 @@ romanLyrics: |-
   Barhte haiṅ qadam Hazrat-e-Abbas kahaaṅ haiṅ
 
   9
-  Ek lashkar-e-ashraar muqaabil pe hai Shahid
-  Narghe meiṅ haiṅ hum Hazrat-e-Abbas kahaaṅ haiṅ
+  Ik lashkar-e-ashraar muqaabil pe hai Shahid
+  Narghe meiṅ hum Hazrat-e-Abbas kahaaṅ haiṅ
 ---
 اے مشک و علم حضرت عباس کہاں ہیں
 سقائے حرم حضرت عباس کہاں ہیں

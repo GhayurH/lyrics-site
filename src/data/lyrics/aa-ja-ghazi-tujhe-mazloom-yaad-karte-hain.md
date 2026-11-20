@@ -10,26 +10,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa ja Ghazi tujhe mazloom yaad karte hain
-  Zulm Abbas bara tere baad kartay hain
+  Aa ja Ghazi tujhe mazlum yaad karte haiṅ
+  Zulm Abbas bara tere baad karte haiṅ
 
   1
-  Mar wala hai Masooma ko zindano mein
-  Kya kissi qaidi ko youn haye aazad kartay hain
-  Bint-e-Haider ne kaha Ghazi haram qaid hoye
-  Barsein pathar be rida hum jehad kartay hain
+  Maar daala hai Maasuma ko zindaanoṅ mein
+  Kya kisi qaidi ko yuṅ haaye aazaad karte haiṅ
+  Bint-e-Haider ne kaha Ghazi, Haram qaid hue
+  Barseṅ patthar be rida ham jihaad karte haiṅ
 
   2
-  Khon de kar tujhey bhaiyon ka our beton ka
-  Karbala dekh tujhey hum aabad kartay hain
-  Alam ko chom ke mango tu zara Ghazi se
-  Pori har momin ki woh murad kartay hain
+  Khun de kar tujhe bhaaiyoṅ ka aur betoṅ ka
+  Karbala dekh tujhe ham aabaad karte haiṅ
+  Alam ko chum ke maango to zara Ghazi se
+  Puri har momin ki woh muraad karte haiṅ
 
   3
-  Ab nahi Ghazi ka dar mujh ko Shimar kehta tha
-  Aao Muhammad ki qatal sab aoulad kartay hain
-  Pursa Asghar ne diya bibi tere Ghazi ka
-  Mil ke hum zikar-e-wafa aao Sajjad kartay hain
+  Ab nahiṅ Ghazi ka dar mujh ko Shimar kehta tha
+  Aao Muhammad ki qatl sab aulaad karte haiṅ
+  Pursa Asghar ne diya Bibi tere Ghazi ka
+  Mil ke ham zikr-e-wafa aao Sajjaad karte haiṅ
 ---
 
 آ جا غازی تجھے مظلوم یاد کرتے ہیں

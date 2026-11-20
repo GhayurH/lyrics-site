@@ -1,59 +1,107 @@
 ---
-title: "Dar-e-Batool Jalaya Giya Madine Mein"
+title: "درِ بتول جلایا گیا مدینے میں"
+alternateTitle: "Dar-e-Batool Jalaya Giya Madine Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Dar-e-Batool jalaya giya Madine mein
+  Ali ko khoon rulaya giya Madine mein
+  Na jane kya howa bad-e-Nabi zamane ko
+  Namaz jis se hai qayam woh ghar jalane ko
+
+  2
+  Namaziyon ko bulaya giya Madine mein
+  Sitam tu yeh hai tamashai ban gayi dunya
+  Kissi ne kuch na kaha dekhti rahi dunya
+  Ali ko qaidi banaya giya Madine mein
+
+  3
+  Shikasta pehlu jo Zhara dikhai deti hai
+  Hadees-e-biz-atto mini duhai deti hai
+  Nabi ka khoon bahaya giya Madine mein
+  Kaha yeh bhai ne ik bhai se galay lag kar
+
+  4
+  Hasan bhula nahi sakta Hussain woh manzar
+  Jab hath maa pe uthaya giya Madine mein
+  Jawab kya dein Ali pochti hai yeh beti
+  Hai baba jalta howa dar giraya ke maa pe meri
+
+  5
+  Suna hai jashan manaya giya Madine mein
+  Howa yeh zulm jo masjid mein ro pare Mula
+  Woh jiss ne mara tha bint-e-Rasool ko durah
+  Wazifa oss ka barhaya giya Madine mein
+
+  6
+  Kaha Rasool se bint-e-Rasool ne ja kar
+  Fidak na detay mujhe koi gham nahi tha magar
+  Mera mazaq uraya giya Madine mein
+  Yeh raaz dafan hai do bhaiyon ke seene mein
+
+  7
+  Nabi ki beti ko masjid mein ghar mein koche mein
+  Kahan kahan pe sataya giya Madine mein
+  Hasan Hussain ko pehchan hi nahi payi
+  Tamam ho gayi bint-e-Nabi ki benai
+
+  8
+  Tamacha aisa lagaya giya Madine mein
+  Ghareebi likhe Takallum ameer ki kaise
+  Andheri raat mein chup kar Madine walon se
+  Mazar-e-Zahra banaya giya Madine mein
 ---
 
-1
-Dar-e-Batool Jalaya Giya Madine Mein.
-Ali Ko Khoon Rulaya Giya Madine Mein.
-Na Jane Kya Howa Bad-e-Nabi Zamane Ko.
-Namaz Jis Se Hai Qayam Woh Ghar Jalane Ko.
+۱
+درِ بتول جلایا گیا مدینے میں
+علی کو خون رلایا گیا مدینے میں
+نہ جانے کیا ہوا بعدِ نبی زمانے کو
+نماز جس سے ہے قائم وہ گھر جلانے کو
 
-2
-Namaziyon Ko Bulaya Giya Madine Mein.
-Sitam Tu Yeh Hai Tamashai Ban Gayi Dunya.
-Kissi Ne Kuch Na Kaha Dekhti Rahi Dunya.
-Ali Ko Qaidi Banaya Giya Madine Mein.
+۲
+نمازیوں کو بلایا گیا مدینے میں
+ستم تو یہ ہے تماشائی بن گئی دنیا
+کسی نے کچھ نہ کہا دیکھتی رہی دنیا
+علی کو قیدی بنایا گیا مدینے میں
 
-3
-Shikasta Pehlu Jo Zhara Dikhai Deti Hai.
-Hadees-e-Biz-Atto Mini Duhai Deti Hai.
-Nabi Ka Khoon Bahaya Giya Madine Mein.
-Kaha Yeh Bhai Ne Ik Bhai Se Galay Lag Kar.
+۳
+شکستہ پہلو جو زہرا دکھائی دیتی ہے
+حدیثِ بضعة منی دہائی دیتی ہے
+نبی کا خون بہایا گیا مدینے میں
+کہا یہ بھائی نے اک بھائی سے گلے لگ کر
 
-4
-Hasan Bhula Nahi Sakta Hussain Woh Manzar.
-Jab Hath Maa Pe Uthaya Giya Madine Mein.
-Jawab Kya Dein Ali Pochti Hai Yeh Beti.
-Hai Baba Jalta Howa Dar Giraya Ke Maa Pe Meri.
+۴
+حسن بھلا نہیں سکتا حسین وہ منظر
+جب ہاتھ ماں پہ اٹھایا گیا مدینے میں
+جواب کیا دیں علی پوچھتی ہے یہ بیٹی
+ہے بابا جلتا ہوا در گرایا کہ ماں پہ میری
 
-5
-Suna Hai Jashan Manaya Giya Madine Mein.
-Howa Yeh Zulm Jo Masjid Mein Ro Pare Mula.
-Woh Jiss Ne Mara Tha Bint-e-Rasool Ko Durah.
-Wazifa Oss Ka Barhaya Giya Madine Mein.
+۵
+سنا ہے جشن منایا گیا مدینے میں
+ہوا یہ ظلم جو مسجد میں رو پڑے مولا
+وہ جس نے مارا تھا بنتِ رسول کو دُرّہ
+وظیفہ اس کا بڑھایا گیا مدینے میں
 
-6
-Kaha Rasool Se Bint-e-Rasool Ne Ja Kar.
-Fidak Na Detay Mujhe Koi GHam Nahi Tha Magar.
-Mera Mazaq Uraya Giya Madine Mein.
-Yeh Raaz Dafan Hai Do Bhaiyon Ke Seene Mein.
+۶
+کہا رسول سے بنتِ رسول نے جا کر
+فدک نہ دیتے مجھے کوئی غم نہیں تھا مگر
+میرا مذاق اڑایا گیا مدینے میں
+یہ راز دفن ہے دو بھائیوں کے سینے میں
 
-7
-Nabi Ki Beti Ko Masjid Mein Ghar Mein Koche Mein.
-Kahan Kahan Pe Sataya Giya Madine Mein.
-Hasan Hussain Ko Pehchan Hi Nahi Payi.
-Tamam Ho Gayi Bint-e-Nabi Ki Benai.
+۷
+نبی کی بیٹی کو مسجد میں گھر میں کوچے میں
+کہاں کہاں پہ ستایا گیا مدینے میں
+حسن حسین کو پہچان ہی نہیں پائی
+تمام ہو گئی بنتِ نبی کی بینائی
 
-8
-Tamacha Aisa Lagaya Giya Madine Mein.
-Ghareebi Likhe Takallum Ameer Ki Kaise.
-Andheri Raat Mein Chup Kar Madine Walon Se.
-Mazar-e-Zahra Banaya Giya Madine Mein.
+۸
+طمانچہ ایسا لگایا گیا مدینے میں
+غریبی لکھے تکلم امیر کی کیسے
+اندھیری رات میں چھپ کر مدینے والوں سے
+مزارِ زہرا بنایا گیا مدینے میں

@@ -13,10 +13,10 @@ aliases: ["Hamare Ghar May"]
 published: true
 romanLyrics: |-
   Maula aa rahe haiṅ
-  Hamare ghar meiṅ Maula aa rahe haiṅ
+  Hamaare ghar meiṅ Maula aa rahe haiṅ
 
-  Azaakhane sajaaye jaa rahe haiṅ
-  Hamare ghar meiṅ Maula aa rahe haiṅ
+  Azaa khaane sajaaye jaa rahe haiṅ
+  Hamaare ghar meiṅ Maula aa rahe haiṅ
 
   1
   Kisi ki bhuk ka sadqa to dekho
@@ -32,18 +32,18 @@ romanLyrics: |-
 
   4
   Ye jhula ye alam taabut dekho
-  Ziyaarat ko malaaek aa rahe haiṅ
+  Ziyaarat ko malaaik aa rahe haiṅ
 
   5
-  Bare chhotoṅ ko mimbar par bitha kar
-  Hai kya Karb o Bala samjhaa rahe haiṅ
+  Bare chhotoṅ ko mimbar par bithaa kar
+  Hai kya Karb o Balaa samjhaa rahe haiṅ
 
   6
   Agarche kat chuke baazu haiṅ lekin
   Alam Abbas ke lehraa rahe haiṅ
 
   7
-  Aza ka farsh ghar meiṅ bich chuka hai
+  Azaa ka farsh ghar meiṅ bichh chuka hai
   Imam-e-Asr ghar meiṅ aa rahe haiṅ
 
   8
@@ -51,8 +51,8 @@ romanLyrics: |-
   Sinaaṅ sine pe Akbar khaa rahe haiṅ
 
   9
-  Ye dekha maadar-e-Qasim ne Maula
-  Utha kar ek gathri laa rahe haiṅ
+  Ye dekhaa maadar-e-Qasim ne Maula
+  Uthaa kar ek gathri laa rahe haiṅ
 
   10
   Qamar dekho bichhaa kar chaandni ko

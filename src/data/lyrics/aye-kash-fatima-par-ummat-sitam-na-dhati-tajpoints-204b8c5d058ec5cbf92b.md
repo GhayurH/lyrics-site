@@ -1,50 +1,90 @@
 ---
-title: "Aye Kash Fatima Par Ummat Sitam Na Dhati"
+title: "اے کاش فاطمہ پر امت ستم نہ ڈھاتی"
+alternateTitle: "Aye Kash Fatima Par Ummat Sitam Na Dhati"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aye kash Fatima par ummat sitam na dhati
+  Roti hoi jahan se bint-e-Nabi na jati
+
+  1
+  Jan-e-Nabi Ali hai yeh baat jan letey
+  Ayelan-e-Khum Saqeefa walay jo maan letey
+  Tu gardan-e-Ali mein haye rasan na aati
+  Baiyat unhi se lainay batil parast aaye
+
+  2
+  Jin ke liye Khuda ne dono jahan banaye
+  Unn hastiyon ki azmat ummat na youn bhulati
+  Mohsin shaheed hota Zahra pe girta na dar
+  Ghar na Nabi ka lutta ummat Rasool ki gar
+
+  3
+  Mimber pe Mustafa ke gasib ko na bithati
+  Chehray pe Fatima ke neela nishaan para tha
+  Haye sitam they itnay bibi batati kya kya
+  Bachoon se zakhm apne bibi rahi chupati
+
+  4
+  Bag-e-Fidak ko hi jab Zahra se cheenana tha
+  Tu yeh na karti ummat bas bagh cheenti na
+  Keh Fatima pe ummat youn hath na uthati
+  Mana na kalma go ne tehreer-e-Mustafa ko
+
+  5
+  Hans hans ke zalimo ne jhutlaya Fatima ko
+  Parh parh ke aayatein bhi bibi rahi sunati
+  Zahra ko qatal kar ke darasal ibtida ki
+  Ahl-e-Saqeefa ne khud Yasrab mein Karbala ki
+
+  6
+  Aal-e-Nabi ko itna ummat rahi satati
+  Zahra ke baad Ali ko Kofay mein mar dala
+  Badar-o-Ohad ka badlah aisay Asad utara
+  Ummat janazon par bhi rahi teeron ko chalati
 ---
 
-Aye Kash Fatima Par Ummat Sitam Na Dhati.
-Roti Hoi Jahan Se Bint-e-Nabi Na Jati.
+اے کاش فاطمہ پر امت ستم نہ ڈھاتی
+روتی ہوئی جہاں سے بنتِ نبی نہ جاتی
 
-1
-Jan-e-Nabi Ali Hai Yeh Baat Jan Letey.
-Ayelan-e-Khum Saqeefa Walay Jo Maan Letey.
-Tu Gardan-e-Ali Mein Haye Rasan Na Aati.
-Baiyat Unhi Se Lainay Batil Parast Aaye.
+۱
+جانِ نبی علی ہے یہ بات جان لیتے
+اعلانِ خم سقیفہ والے جو مان لیتے
+تو گردنِ علی میں ہائے رسن نہ آتی
+بیعت انہی سے لینے باطل پرست آئے
 
-2
-Jin Ke Liye Khuda Ne Dono Jahan Banaye.
-Unn Hastiyon Ki Azmat Ummat Na Youn Bhulati.
-Mohsin Shaheed Hota Zahra Pe Girta Na Dar.
-Ghar Na Nabi Ka Lutta Ummat Rasool Ki Gar.
+۲
+جن کے لیے خدا نے دونوں جہاں بنائے
+ان ہستیوں کی عظمت امت نہ یوں بھلاتی
+محسن شہید ہوتا زہرا پہ گرتا نہ در
+گھر نہ نبی کا لٹتا امت رسول کی گر
 
-3
-Mimber Pe Mustafa Ke Gasib Ko Na Bithati.
-Chehray Pe Fatima Ke Neela Nishaan Para Tha.
-Haye Sitam They Itnay Bibi Batati Kya Kya.
-Bachoon Se Zakhm Apne Bibi Rahi Chupati.
+۳
+منبر پہ مصطفیٰ کے غاصب کو نہ بٹھاتی
+چہرے پہ فاطمہ کے نیلا نشان پڑا تھا
+ہائے ستم تھے اتنے بی‌بی بتاتی کیا کیا
+بچوں سے زخم اپنے بی‌بی رہی چھپاتی
 
-4
-Bag-e-Fidak Ko Hi Jab Zahra Se Cheenana Tha.
-Tu Yeh Na Karti Ummat Bas Bagh Cheenti Na.
-Keh Fatima Pe Ummat Youn Hath Na Uthati.
-Mana Na Kalma Go Ne Tehreer-e-Mustafa Ko.
+۴
+باغِ فدک کو ہی جب زہرا سے چھیننا تھا
+تو یہ نہ کرتی امت بس باغ چھینتی نا
+کہ فاطمہ پہ امت یوں ہاتھ نہ اٹھاتی
+مانا نہ کلمہ گو نے تحریرِ مصطفیٰ کو
 
-5
-Hans Hans Ke Zalimo Ne Jhutlaya Fatima Ko.
-Parh Parh Ke Aayatein Bhi Bibi Rahi Sunati.
-Zahra Ko Qatal Kar Ke Darasal Ibtida Ki.
-Ahl-e-Saqeefa Ne Khud Yasrab Mein Karbala Ki.
+۵
+ہنس ہنس کے ظالموں نے جھٹلایا فاطمہ کو
+پڑھ پڑھ کے آیتیں بھی بی‌بی رہی سناتی
+زہرا کو قتل کر کے دراصل ابتدا کی
+اہلِ سقیفہ نے خود یثرب میں کربلا کی
 
-6
-Aal-e-Nabi Ko Itna Ummat Rahi Satati.
-Zahra Ke Baad Ali Ko Kofay Mein Mar Dala.
-Badar-o-Ohad Ka Badlah Aisay Asad Utara.
-Ummat Janazon Par Bhi Rahi Teeron Ko Chalati.
+۶
+آلِ نبی کو اتنا امت رہی ستاتی
+زہرا کے بعد علی کو کوفے میں مار ڈالا
+بدر و احد کا بدلہ ایسے اسد اتارا
+امت جنازوں پر بھی رہی تیروں کو چلاتی

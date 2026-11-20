@@ -42,7 +42,7 @@ romanLyrics: |-
   5
   Samajh sake to samajh guftagu ka dhab kya hai
   Zamiṅ par teri takhliq ka sabab kya hai
-  Yazid-e-nahas tera shajra-e-nasab kya hai
+  Yazid-e-nahs tera shajra-e-nasab kya hai
   Sunaayegi sar-e-darbaar Saani-e-Zehra
 
   6
@@ -66,7 +66,7 @@ romanLyrics: |-
   9
   Kabhi Furaat nazar meiṅ kabhi taraai hai
   Nigaah meiṅ lahd-e-Shaah-e-Karbalaai hai
-  Giri hai uṅt se ghutnoṅ se chal ke aai hai
+  Giri hai unt se ghutnoṅ se chal ke aai hai
   Gharib o bekas o naachaar Saani-e-Zehra
 
   10

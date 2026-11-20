@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tanhaai-e-Zainab hai aur shaam-e-gharibaṅ hai
+  Tanhaai-e-Zainab hai aur shaam-e-gharibaaṅ hai
   Jalte hue khaime haiṅ kunba sar-e-maidaaṅ hai
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
   Maqtal meiṅ andhera hai dil khauf se larza hai
 
   3
-  Bin paani ke aada ne gardan pe chhuri pheri
+  Bin paani ke aadaa ne gardan pe chhuri pheri
   Ye koi nahiṅ jaana bhai mera mehmaaṅ hai
 
   4

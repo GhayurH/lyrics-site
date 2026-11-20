@@ -13,7 +13,7 @@ aliases: ["Qaimon Ko Jalaya"]
 published: true
 romanLyrics: |-
   Khaimoṅ ko jalaaya gaya Abbas na aaye
-  Maqtal meiṅ dhuaaṅ chhaa gaya Abbas na aaye
+  Maqtal mein dhuaaṅ chhaa gaya Abbas na aaye
 
   1
   Maqtal ki zamiṅ par jo sitaaroṅ ki tarah the
@@ -21,14 +21,14 @@ romanLyrics: |-
   Un laashoṅ ko raunda gaya Abbas na aaye
 
   2
-  The bain Sakina ke maiṅ ab kis ko bulaauṅ
-  Rukh par ye tamaachoṅ ke nishaaṅ kis ko dikhaauṅ
+  The bain Sakina ke main ab kis ko bulaauṅ
+  Rukh par ye tamaanchoṅ ke nishaaṅ kis ko dikhaauṅ
   Chehra mera sonha gaya Abbas na aaye
 
   3
   Zainab ne yatimoṅ ko kabhi khud ko sambhaala
-  Jalte hue khaime se bhatije ko nikaala
-  Dil dard se ghabra gaya Abbas na aaye
+  Jalte hue khaimoṅ se bhatije ko nikaala
+  Dil dard se ghabraa gaya Abbas na aaye
 
   4
   Zainab ne kaha mujh pe chale tanz ke nashtar
@@ -52,16 +52,16 @@ romanLyrics: |-
 
   8
   Sajjad na bhule kabhi wo Shaam ka manzar
-  Saadaat pe maare gaye baazaaroṅ meiṅ patthar
-  Sadqa kabhi pheṅka gaya Abbas na aaye
+  Saadaat pe maare gaye baazaaroṅ mein patthar
+  Sadqa kabhi phenka gaya Abbas na aaye
 
   9
   Wo hashr ka hangaam qayaamat ki ghari thi
-  Beparda behan kursi nashinoṅ meiṅ khari thi
+  Beparda behan kursi nashinoṅ mein khari thi
   Darbaar sajaaya gaya Abbas na aaye
 
   10
-  Phir shaam dhali qaid meiṅ ghabraayi Sakina
+  Phir shaam dhali qaid mein ghabraayi Sakina
   Rukh su-e-falak kar ke ye chillaayi Sakina
   Har ek parinda gaya Abbas na aaye
 

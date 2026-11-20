@@ -16,14 +16,14 @@ romanLyrics: |-
   Miyaan-e-khanjar o sar thi Husain ki maadar
   Jo de rahi thi sada bekhata hai mera pisar
   Kahaṅ ye narm gala aur kahaṅ ye kund chhuri
-  Hai tin roz ka pyasa Husain ibn-e-Ali
+  Hai tin roz ka pyaasa Husain ibn-e-Ali
   Ek sayyid ko pardesi ko mehmaṅ bana kar lut liya
   Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro na maaro
   Main maaṅ huṅ bata main kaise
   Dekhuṅ ye dard ka manzar
-  Sukha hai gala pyase ka
+  Sukha hai gala pyaase ka
   Tu rok le apna khanjar
   Khuda ke liye ise chhor de
   Ye meri saari dunya hai
@@ -62,12 +62,12 @@ romanLyrics: |-
   Shaanoṅ pe lahu lashkar ka
   Kya haal hua Sarwar ka
   Khuda ke liye ise chhor de
-  Ye tere Nabi ka nawasa hai
+  Ye tere Nabi ka nawaasa hai
   Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Hurr John o Habib aur Muslim
-  Maare gaye ran mein pyase
+  Hurr Jaun o Habib aur Muslim
+  Maare gaye ran mein pyaase
   Laaya hai utha kar tanha
   Maqtal se sabhi ke laashe
   Khuda ke liye ise chhor de

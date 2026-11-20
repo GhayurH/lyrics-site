@@ -8,40 +8,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Wafa thi unke liye auy yeh wafa ke liye
+  Wafa thi in ke liye aur yeh haiṅ wafa ke liye
   Ali ne maanga tha Ghazi ko Karbala ke liye
 
   1
-  Jari ke pairoṅ ko chuma hai, roz e Aashura
-  Yeh khushnaseebi rahi, mauje al qama ke liye
+  Jari ke pairoṅ ko chuma hai, roz-e-Aashura
+  Yeh khushnasibi rahi, mauj-e-Alqama ke liye
 
   2
-  Husain Jhula Jhulate the, Inko yeh kah kar
-  Yeh kaam aayega Zainab, trte rida ke liye
+  Husain jhula jhulaate the, in ko yeh kah kar
+  Yeh kaam aayega Zainab, tiri rida ke liye
 
   3
-  Lab-e-Furath jo bazu qalam hue inke
-  Bohut bara tha yeh gham ruh e Sayyada ke liye
+  Lab-e-Furaat jo baazu qalam hue in ke
+  Bahut bara tha yeh gham ruh-e-Sayyada ke liye
 
   4
-  Alam ke saaye meiṅ aate hi mil gayi seyhat
+  Alam ke saaye mein aate hi mil gayi sehat
   Tarap rahe the kai din se jo shifa ke liye
 
   5
-  Na jane kis liye Haidar ne Inke baazo ko
-  Hazaar bose gale se laga laga ke diye
+  Na jaane kis liye Haidar ne in ke baazu ko
+  Hazaar bose gale se laga laga ke liye
 
   6
-  Sakina Baba se izn-e-wigha dilaao hame
+  Sakina Baba se izn-e-wigha dila do hameṅ
   Zara sa kaam yeh kar do faqat chacha ke liye
 
   7
-  Yeh Khizr-e-raah hai, parcham bhi inka raahnuma
-  Samandaroṅ ke, sitaroṅ ke aur hawa ke liye
+  Yeh Khizr-e-raah hai parcham bhi in ka raah numa
+  Samandaroṅ ke sitaaroṅ ke aur hawa ke liye
 
   8
-  Unhi ke naam pe Rehan harf milte haiṅ
-  Raza ye naam waseela hai har dua ke liye
+  Inhi ke naam pe Rehan harf milte haiṅ
+  Raza yeh naam wasila hai har dua ke liye
 ---
 
 وفا تھی اِن کے لیے اور یہ ہیں وفا كے لیے

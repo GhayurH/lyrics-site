@@ -9,151 +9,81 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Sakina Sakina Mesum Abbas"
-romanLyrics: 'Andhere bayaban mein ek yateema
-
-  Chali dhoondne apne baba ko tanha
-
+romanLyrics: |-
+  Andhere bayaabaaṅ mein ek yatima
+  Chali dhundne apne baba ko tanha
 
   1
-
-  Yahan se wahan roti phirti hai ran mein
-
-  Wo laashon se takra ke girti hai ran mein
-
-  Tadap kar sada de rahi hai ye dhukiya
-
-  Andhera bahot hai kahan jaun baba
-
+  Yahaaṅ se wahaaṅ roti phirti hai ran mein
+  Woh laashoṅ se takraa ke girti hai ran mein
+  Tarap kar sada de rahi hai yeh dukhiyaa
+  Andheraa bahut hai kahaaṅ jaauṅ baba
 
   2
-
-  Bahot darr yahan lag raha hai bachao
-
-  Kahan ho mujhe paas apne bulao
-
-  Padar ko ye awaaz tadpa rahi hai
-
-  Kate halq se ye sada aa rahi hai
-
+  Bahut dar yahaaṅ lag rahaa hai bachaao
+  Kahaaṅ ho mujhe paas apne bulaao
+  Padar ko yeh aawaaz tarpaa rahi hai
+  Kate halq se yeh sada aa rahi hai
 
   3
-
-  Sakina, sakina
-
-  Sada de raha hai ye sarwar ka laasha
-
-  Chali aa chali aa sakina, sakina
-
-  Chali aa padar ki sada ke sahare
-
+  Sakina, Sakina
+  Sada de rahaa hai yeh Sarwar ka laasha
+  Chali aa chali aa Sakina, Sakina
+  Chali aa padar ki sada ke sahaare
 
   4
-
-  Yahan har taraf mere dushman hai saare
-
-  Koi bhi tujhe na batayega rasta
-
+  Yahaaṅ har taraf mere dushman hai saare
+  Koi bhi tujhe na bataaega rastaa
   Chali aa chali aa...
-
-  Tere paas khud chal ke aata tha baba
-
+  Tere paas khud chal ke aataa tha baba
 
   5
-
-  Kaleje se tujhko lagata tha baba
-
-  Magar aaj kismat ne dastoor badla
-
-  Meri jaan bahot zulm tu seh rahi hai
-
+  Kaleje se tujhko lagaataa tha baba
+  Magar aaj qismat ne dastur badlaa
+  Meri jaan bahut zulm tu seh rahi hai
 
   6
-
-  Tamachon ki awaaz maine suni hai
-
-  Phata jaa raha hai padar ka kaleja
-
-  Sab apni musibat bata aake mujhko
-
+  Tamaachoṅ ki aawaaz main ne suni hai
+  Phataa jaa rahaa hai padar ka kaleja
+  Sab apni musibat bataa aake mujhko
 
   7
-
-  Jo guzri hai dil par bata aake mujhko
-
+  Jo guzri hai dil par bataa aa ke mujhko
   Tere dil ka har dard baba sunega
-
-  Nahi koi tujh par taras khaane waala
-
+  Nahiṅ koi tujh par taras khaane waalaa
 
   8
-
-  Ay meri yateema mere paas aaja
-
-  Padar de de tujhko yateemi ka pursa
-
-  Padar ko bahot iska sadma hai beti
-
+  Ae meri yatima mere paas aa jaa
+  Padar de de tujhko yatimi ka pursa
+  Padar ko bahut is ka sadmaa hai beti
 
   9
-
-  Tujhe khaak pe kal se sona hai beti
-
-  Mere paas aake zara dayr soja
-
-  Nadeem ek qayamat ka manzar tha us dam
-
+  Tujhe khaak pe kal se sonaa hai beti
+  Mere paas aa ke zaraa der so jaa
+  Nadeem ek qayaamat ka manzar tha us dam
 
   10
-
-  Qareeb Aa Raha Hai Bicharne Ka Lamha.
-
-  Sada Jab Suni Ghamzada Ne Padar Ki.
-
-  Woh Sehmi Hoi Lash Ke Pas Pohanchi.
-
-  Ajab Haal Dekha.
-
+  The halq-e-burida ke yeh bain Misam
+  Qarib aa rahaa hai bichharne ka lamha
+  Suno na suno na suno pyaare baba
 
   11
-
-  Thay halq e bureeda ke ye bain meesam
-
-  Khareeb aa raha hai bichadne ka lamha
-
-  Suno na suno na suno pyare baba
-
+  Yahaaṅ hai Sakina yahaaṅ hai Sakina
+  Sada jab suni ghamzada ne padar ki
+  Woh sehmi hui laash ke paas pahunchi
+  Ajab haal dekhaa tha tiroṅ pe laasha
 
   12
-
-  Yahan hai sakina yahan hai sakina
-
-  Sada jab suni gamzada ne padar ki
-
-  Wo sehmi hui laash ke pas pahunchi
-
-  Ajab haal dekha tha teeron pe laasha
-
+  Achaanak lagaa dil pe bachchi ke sadmaa
+  Use kuchh samajh mein nahiṅ aa rahaa tha
+  Kabhi woh sarhaane talak jaa rahi thi
+  Kabhi laash ke paainti aa rahi thi
 
   13
-
-  Achanak laga dil pe bacchi ke sadma
-
-  Usay kuch samaj mein nahi aa raha tha
-
-  Kabhi wo sarhane talak jaa rahi thi
-
-  Kabhi laash ke painti aa rahi thi
-
-
-  14
-
-  Idhar se udhar thokarein kha rahi thi
-
-  Yateema ye keh keh ke chilla rahi thi
-
-  Ye tum ho ay baba
-
-  Baba baba'
+  Idhar se udhar thokareṅ khaa rahi thi
+  Yatima yeh keh keh ke chillaa rahi thi
+  Yeh tum ho ae baba
+  Baba baba
 ---
 
 اندھیرے بیاباں میں ایک یتیمہ

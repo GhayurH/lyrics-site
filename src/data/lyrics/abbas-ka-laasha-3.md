@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ka laasha main nahiṅ laaya Sakina
-  Laaya huṅ tarayi se alam khuṅ meiṅ duba
+  Laaya huṅ tarayi se alam khuṅ mein duba
   Abbas ka laasha main nahiṅ laaya Sakina
 
   1
@@ -33,19 +33,19 @@ romanLyrics: |-
   Mujhse tere ammu ne kaha tha meri pyaari
   Abbas ki ye aakhri khwahish thi dulaari
   Le jaana na khaime ki taraf laash hamari
-  Puri hui Abbas-e-Dilaawar ki tamanna
+  Puri hui Abbas Dilaawar ki tamanna
 
   5
   Chhota na karo dil meri naadan Sakina
   Qismat ka likha hai ye meri jaan Sakina
   Tujh par ye tera baap ho qurban Sakina
-  Ye baat meri laadli dil meiṅ nahiṅ rakhna
+  Ye baat meri laadli dil mein nahiṅ rakhna
 
   6
-  Abbas ke laashe ko tasavvur meiṅ bana lo
+  Abbas ke laashe ko tasavvur mein bana lo
   Ji bhar ke chacha jaan pe ashkoṅ ko baha lo
   Ammu ka alam laaya huṅ sine se laga lo
-  Reh jaaye na ye dil meiṅ khalaq ae meri dukhiya
+  Reh jaaye na ye dil mein khalaq ae meri dukhiya
 
   7
   Dil par jo mere zakhm laga kaise batauṅ
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   8
   Masum Sakina ko kaleje se laga kar
-  Roye hain bahot der talak sibt-e-payambar
+  Roye hain bahut der talak sibt-e-payambar
   Kehte the ki ab sabr karo ae meri dukhtar
   Main ne wo kiya jo mere bhai ne kaha tha
 

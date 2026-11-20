@@ -25,7 +25,7 @@ romanLyrics: |-
 
   2
   Baith ke ab parhti hai namaazeṅ
-  Noha kunaṅ hai aaheṅ karaaheṅ
+  Noha kunaaṅ hai aaheṅ karaaheṅ
   Nind aati hi nahiṅ ek lamha
   Kitne dard saho gi maaṅ
 
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   5
   Bole Shah jab ziṅ se giruṅ ga
-  Ammaṅ maiṅ tiroṅ pe rahuṅ ga
+  Ammaaṅ main tiroṅ pe rahuṅ ga
   Degi sada phir halq-e-burida
   Kitne dard saho gi maaṅ
 
@@ -56,13 +56,13 @@ romanLyrics: |-
   7
   Bachche mere pyaase hi raheṅ ge
   Barchhiyaaṅ sinoṅ par khaayeṅ ge
-  Jab ke nikaaluṅ ga maiṅ neza
+  Jab ke nikaaluṅ ga main neza
   Kitne dard saho gi maaṅ
 
   8
   Kaise Mubarak likhe masaaib
   Gham bhi hai Irfan ajaaib
-  Karbobala meiṅ kaun hai kehta
+  Karb o Bala mein kaun hai kehta
 
   9
   Sunte sunte mar gayi Bibi

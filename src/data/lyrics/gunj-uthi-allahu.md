@@ -39,7 +39,7 @@ romanLyrics: |-
   Kalma goyoṅ hai Shabih-e-Mustafa maidaan meiṅ
 
   5
-  Shor maqtal meiṅ uthaalo chal gaya barchhi ka waar
+  Shor maqtal meiṅ utha lo chal gaya barchi ka waar
   Ho gaya hai asl meiṅ neza dil-e-Laila ka paar
   Kab faqat ik qalb-e-Akbar ka chhida maidaan meiṅ
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   Baap ke haathoṅ pe beta mar gaya maidaan meiṅ
 
   8
-  Kiuṅ Shajaaat aur Ahsan ho na ab nauha kunaaṅ
+  Kiuṅ Shajaat aur Ahsan ho na ab nauha kunaaṅ
   Dekh paayegi na chashm-e-dahr Akbar sa jawaaṅ
   Aa gayi hai ye jawaani ko qaza maidaan meiṅ
 ---

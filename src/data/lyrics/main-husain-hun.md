@@ -1,7 +1,7 @@
 ---
 title: "کرتا رہوں گا شکرِ خدا میں حسین ہوں"
 recitationId: "mai-hussain-hoon"
-alternateTitle: "Maiṅ Husain Huṅ"
+alternateTitle: "Main Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,44 +12,44 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karta rahuṅ ga shukr-e-Khuda maiṅ Husain huṅ
-  Khanjar ke niche duṅ ga dua maiṅ Husain huṅ
+  Karta rahuṅ ga shukr-e-Khuda main Husain huṅ
+  Khanjar ke niche duṅ ga dua main Husain huṅ
 
   1
   Mal luṅ ga apne rukh pe lahu apne laal ka
-  Phir bhi na uf karuṅ ga zara maiṅ Husain huṅ
+  Phir bhi na uf karuṅ ga zara main Husain huṅ
 
   2
-  Aeri ragarta hoga jahaaṅ mera naujawaaṅ
-  Hoga wahiṅ burhaapa mera maiṅ Husain huṅ
+  Eri ragarta hoga jahaaṅ mera naujawaaṅ
+  Hoga wahiṅ burhaapa mera main Husain huṅ
 
   3
-  Hai baazuoṅ meiṅ mere kate baazuoṅ ki laaj
-  Dekhe zamaana meri wafa maiṅ Husain huṅ
+  Hai baazuoṅ mein mere kate baazuoṅ ki laaj
+  Dekhe zamaana meri wafa main Husain huṅ
 
   4
   Fidya diya tha tum ne to patti thi aaṅkh par
-  Dekho Khalil mujh ko zara maiṅ Husain huṅ
+  Dekho Khalil mujh ko zara main Husain huṅ
 
   5
   Ruh-e-Rasul nikli mere khushk halq se
-  Qaatil samajh raha hai mera maiṅ Husain huṅ
+  Qaatil samajh raha hai mera main Husain huṅ
 
   6
-  Sajde meiṅ the Husain to gardan pe thi chhuri
-  Maula ne tab Khuda se kaha maiṅ Husain huṅ
+  Sajde mein the Husain to gardan pe thi chhuri
+  Maula ne tab Khuda se kaha main Husain huṅ
 
   7
-  Ab Karbala ke dasht meiṅ gunjegi siskiyaaṅ
-  Zehra kareṅ gi mujh pe buka maiṅ Husain huṅ
+  Ab Karbala ke dasht mein gunje gi siskiyaaṅ
+  Zehra kareṅ gi mujh pe buka main Husain huṅ
 
   8
   Tathir berida hai to Kaaba beghilaaf
-  Laasha bhi bekafan hai mera maiṅ Husain huṅ
+  Laasha bhi bekafan hai mera main Husain huṅ
 
   9
   Karte raheṅ ge Aamir o Nayyar meri aza
-  Donoṅ pe hogi meri ata maiṅ Husain huṅ
+  Donoṅ pe hogi meri ata main Husain huṅ
 ---
 کرتا رہوں گا شکرِ خدا میں حسین ہوں
 خنجر کے نیچے دوں گا دعا میں حسین ہوں

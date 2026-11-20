@@ -1,32 +1,54 @@
 ---
-title: "Haye Bazar Che Jad Pehla See Balwa Takiya Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے بازار چے جد پہلا سی بلوا تکیا"
+alternateTitle: "Haye Bazar Che Jad Pehla Si Balwa Takiya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Na riya Ghazi na ridawaan rayiyaan
+  Dhiyaan Ali diyaan Najaf de pasay munh kar ke rondiyaan rayiyaan
+
+  1
+  Haye bazar che jad pehla si balwa takiya haye balwa takiya
+  Kubra te Sakina Zainab ohlay parday layi chupdiyaan rayiyaan
+  Haye darya taun jadon qaidi si bhainraan langiyaan haye bhainraan langiyaan
+  Ghazi di lash nu Sham-e-Ghareebaan kinj guzri dasdiyaan rayiyaan
+
+  2
+  Haye Shabeer ne naizay te si Quraan parhya haye Quraan parhya
+  Chadraan v safar wich Nam-e-Zahra parh parh ke rondiyaan rayiyaan
+  Haye rawaan che wachanday ray si Shami kanday haye Shami kanday
+  Phophiyaan qadam qadam putar di rah choon kandiyaan nu chunr diyaan rayiyaan
+
+  3
+  Haye rasiyaan che janazay ne aye bhainraan aakhanr haye bhainraan aakhanr
+  Ghazi de baad nayi qasam Khuda di veer assi jiondiyaan rayiyaan
+  Haye pathraan di jadon barish si hoi Akbar haye hoi Akbar
+  Bhainraan jhuka ke sir ro ro ke bas Nad-e-Ali parhdiyaan rayiyaan
 ---
 
-Na Riya Ghazi Na Ridawaan Rayiyaan.
-Dhiyaan Ali Diyaan Najaf De Pasay Munh Kar Ke Rondiyaan Rayiyaan.
+نہ رہیا غازی نہ رداواں رہیاں
+دھیاں علی دیاں نجف دے پاسے منہ کر کے روندیاں رہیاں
 
-1
-Haye Bazar Che Jad Pehla Si Balwa Takiya Haye Balwa Takiya.
-Kubra Te Sakina Zainab Ohlay Parday Layi Chupdiyaan Rayiyaan.
-Haye Darya Taun Jadon Qaidi Si Bhainraan Langiyaan Haye Bhainraan Langiyaan.
-Ghazi Di Lash Nu Sham-e-Ghareebaan Kinj Guzri Dasdiyaan Rayiyaan.
+۱
+ہائے بازار چے جد پہلا سی بلوا تکیا ہائے بلوا تکیا
+کبریٰ تے سکینہ زینب اوہلے پردے لئی چھپدیاں رہیاں
+ہائے دریا توں جدوں قیدی سی بھینڑاں لنگھیاں ہائے بھینڑاں لنگھیاں
+غازی دی لاش نوں شامِ غریباں کنج گزری دسّدیاں رہیاں
 
-2
-Haye Shabeer Ne Naizay Te Si Quraan Parhya Haye Quraan Parhya.
-Chadraan V Safar Wich Nam-e-Zahra Parh Parh Ke Rondiyaan Rayiyaan.
-Haye Rawaan Che Wachanday Ray Si Shami Kanday Haye Shami Kanday.
-Phophiyaan Qadam Qadam Putar Di Rah Choon Kandiyaan Nu Chunr Diyaan Rayiyaan.
+۲
+ہائے شبیر نے نیزے تے سی قرآن پڑھیا ہائے قرآن پڑھیا
+چادراں وی سفر وچ نامِ زہرا پڑھ پڑھ کے روندیاں رہیاں
+ہائے راہواں چے وچھاندے رہے سی شامی کنڈے ہائے شامی کنڈے
+پھوپھیاں قدم قدم پتر دی راہ چوں کنڈیاں نوں چنڑدیاں رہیاں
 
-3
-Haye Rasiyaan Che Janazay Ne Aye Bhainraan Aakhanr Haye Bhainraan Aakhanr.
-Ghazi De Baad Nayi Qasam Khuda Di Veer Assi Jiondiyaan Rayiyaan.
-Haye Pathraan Di Jadon Barish Si Hoi Akbar Haye Hoi Akbar.
-Bhainraan Jhuka Ke Sir Ro Ro Ke Bas Nad-e- Ali Parhdiyaan Rayiyaan.
+۳
+ہائے رسیاں چے جنازے نے آئے بھینڑاں آکھنڑ ہائے بھینڑاں آکھنڑ
+غازی دے بعد نئیں قسم خدا دی ویر اسیں جیوندیاں رہیاں
+ہائے پتھراں دی جدوں بارش سی ہوئی اکبر ہائے ہوئی اکبر
+بھینڑاں جھکا کے سر رو رو کے بس نادِ علی پڑھدیاں رہیاں

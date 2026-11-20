@@ -1,41 +1,72 @@
 ---
-title: "Ali Ke Jah-o-Jalalat Ka Naam Hai Zainab 2009"
+title: "علی کے جاہ و جلالت کا نام ہے زینب ۲۰۰۹"
+alternateTitle: "Ali Ke Jah-o-Jalalat Ka Naam Hai Zainab 2009"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali ke jah-o-jalalat ka naam hai Zainab Munawar Ali Khan
+  Batooliyat ki tabiyat ka naam hai Zainab
+  Nabi ki aya-e-tatheer Fatima Zahra
+  Ali ke amar-e-wilayat ka naam hai Zainab
+
+  2
+  Gham-e-Hussain ka pehla saheefa-e-matam
+  Azza ki pori shariyat ka naam hai Zainab
+  Shareek-e-kar-e-Hussain ibn-e-Murtaza jo hoi
+  Wo deen saaz sharakat ka naam hai Zainab
+
+  3
+  Hassan ki sulha se sehra ke tishna sajday tak
+  Har ik namaz ki niyat ka naam hai Zainab
+  Khud apni zaat mein wahdat misal hai lekin
+  Hajoom-e-Sham kasrat ka naam hai Zainab
+
+  4
+  Diyar-e-Sham mein Sajadiyat ke lashkar ki
+  Rasan mein qaid qaiyadat ka naam hai Zainab
+  Yazeed(L) tujh se yehi bhool ho gayi tu ne
+  Ye samjha aam si aurat ka naam hai Zainab
+
+  5
+  Rasan mein gawah hain Abid ki beriyaan Shahid
+  Kahin kahin tu imamat ka naam hai Zainab
+  Meri zuban mein Akbar ye hi tauraf hai
+  Rida ka parde ka ismat ka naam hai Zainab
 ---
 
-1
-Ali Ke Jah-o-Jalalat Ka Naam Hai Zainab Munawar Ali Khan.
-Batooliyat Ki Tabiyat Ka Naam Hai Zainab.
-Nabi Ki Aya-e-Tatheer Fatima Zahra.
-Ali Ke Amar-e-Wilayat Ka Naam Hai Zainab.
+۱
+علی کے جاہ و جلالت کا نام ہے زینب منور علی خان
+بتولیت کی طبیعت کا نام ہے زینب
+نبی کی آیۂ تطہیر فاطمہ زہرا
+علی کے امرِ ولایت کا نام ہے زینب
 
-2
-Gham-e-Hussain Ka Pehla Saheefa-e-Matam.
-Azza Ki Pori Shariyat Ka Naam Hai Zainab.
-Shareek-e-Kar-e-Hussain Ibn-e-Murtaza Jo Hoi.
-Wo Deen Saaz Sharakat Ka Naam Hai Zainab.
+۲
+غمِ حسین کا پہلا صحیفۂ ماتم
+عزا کی پوری شریعت کا نام ہے زینب
+شریکِ کارِ حسین ابنِ مرتضیٰ جو ہوئی
+وہ دین ساز شراکت کا نام ہے زینب
 
-3
-Hassan Ki Sulha Se Sehra Ke Tishna Sajday Tak.
-Har Ik Namaz Ki Niyat Ka Naam Hai Zainab.
-Khud Apni Zaat Mein Wahdat Misal Hai Lekin.
-Hajoom-e-Sham Kasrat Ka Naam Hai Zainab.
+۳
+حسن کی صلح سے صحرا کے تشنہ سجدے تک
+ہر اک نماز کی نیت کا نام ہے زینب
+خود اپنی ذات میں وحدت مثال ہے لیکن
+ہجومِ شام کثرت کا نام ہے زینب
 
-4
-Diyar-e-Sham Mein Sajadiyat Ke Lashkar Ki.
-Rasan Mein Qaid Qaiyadat Ka Naam Hai Zainab.
-Yazeed(L) Tujh Se Yehi Bhool Ho Gayi Tu Ne.
-Ye Samjha Aam Si Aurat Ka Naam Hai Zainab.
+۴
+دیارِ شام میں سجادیت کے لشکر کی
+رسن میں قید قیادت کا نام ہے زینب
+یزید(ل) تجھ سے یہی بھول ہو گئی تو نے
+یہ سمجھا عام سی عورت کا نام ہے زینب
 
-5
-Rasan Mein Gawah Hain Abid Ki Beriyaan Shahid.
-Kahin Kahin Tu Imamat Ka Naam Hai Zainab.
-Meri Zuban Mein Akbar Ye Hi Tauraf Hai.
-Rida Ka Parde Ka Ismat Ka Naam Hai Zainab.
+۵
+رسن میں گواہ ہیں عابد کی بیڑیاں شاہد
+کہیں کہیں تو امامت کا نام ہے زینب
+میری زباں میں اکبر یہ ہی تعارف ہے
+ردا کا پردے کا عصمت کا نام ہے زینب

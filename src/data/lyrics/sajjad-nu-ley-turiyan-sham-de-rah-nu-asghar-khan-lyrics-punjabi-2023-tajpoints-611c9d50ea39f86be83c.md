@@ -1,38 +1,66 @@
 ---
-title: "Sajjad Nu Ley Turiyan Sham De Rah Nu Asghar Khan Lyrics Punjabi 2023"
+title: "سجاد نوں لے ٹریاں شام دے راہ نوں اصغر خان"
+alternateTitle: "Sajjad Nu Ley Turiyan Sham De Rah Nu Asghar Khan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad nu ley turiyan Sham de rah nu Asghar Khan
+  Koi rondi putraan nu koi roway bhira nu
+
+  1
+  Veer Shabbir main tainu ro ro kafan pawandi
+  Jay loki na lutday meri pak rida nu
+  Jadon lokaan ne jalaye khaimay musafiran de
+  Zainab ne banaya ghairat de Khuda nu
+
+  2
+  Aisay chan veer main khutbay wich Sham de parhaan gi
+  Kar jaan gi mualla tere sajday di ja nu
+  Tera chan veer main chehlum bazaraan wich manaya
+  Rowan di ijazat nayi Aoun di maa nu
+
+  3
+  Majma sharabiyaan da be pardah Zahra jaiyaan
+  Har bibi bolandi ro Shah-e-Wafa nu
+  Haye zindana che rul gayi teri ladli Sakina
+  Dendi si ro ro paigham hawa nu
+
+  4
+  Kita wadah bhain veran ta hashar hosi pursa
+  Aabad main kar saan ainj Karb-o-Bala nu
+  Kehway Sajjad aye Asghar sadqa bhira da bibi
+  Kar karam tarasday beemar shifa nu
 ---
 
-Sajjad Nu Ley Turiyan Sham De Rah Nu Asghar Khan.
-Koi Rondi Putraan Nu Koi Roway Bhira Nu.
+سجاد نوں لے ٹریاں شام دے راہ نوں اصغر خان
+کوئی روندی پتراں نوں کوئی رووے بھرا نوں
 
-1
-Veer Shabbir Main Tainu Ro Ro Kafan Pawandi.
-Jay Loki Na Lutday Meri Pak Rida Nu.
-Jadon Lokaan Ne Jalaye Khaimay Musafiran De.
-Zainab Ne Banaya Ghairat De Khuda Nu.
+۱
+ویر شبیر میں تینوں رو رو کفن پاوندی
+جے لوکی نہ لٹدے میری پاک ردا نوں
+جدوں لوکاں نے جلائے خیمے مسافراں دے
+زینب نے بنایا غیرت دے خدا نوں
 
-2
-Aisay Chan Veer Main Khutbay Wich Sham De Parhaan Gi.
-Kar Jaan Gi Mualla Tere Sajday Di Ja Nu.
-Tera Chan Veer Main Chehlum Bazaraan Wich Manaya.
-Rowan Di Ijazat Nayi Aoun Di Maa Nu.
+۲
+ایسے چن ویر میں خطبے وچ شام دے پڑھاں گی
+کر جاں گی معلّیٰ تیرے سجدے دی جا نوں
+تیرا چن ویر میں چہلم بازاراں وچ منایا
+روون دی اجازت نئیں عون دی ماں نوں
 
-3
-Majma Sharabiyaan Da Be Pardah Zahra Jaiyaan.
-Har Bibi Bolandi Ro Shah-e-Wafa Nu.
-Haye Zindana Che Rul Gayi Teri Ladli Sakina.
-Dendi Si Ro Ro Paigham Hawa Nu.
+۳
+مجمع شرابیاں دا بے پردہ زہرا جائیاں
+ہر بی‌بی بولاندی رو شاہِ وفا نوں
+ہائے زندانا چے رل گئی تیری لاڈلی سکینہ
+دیندی سی رو رو پیغام ہوا نوں
 
-4
-Kita Wadah Bhain Veran Ta Hashar Hosi Pursa.
-Aabad Main Kar Saan Ainj Karb-o-Bala Nu.
-Kehway Sajjad Aye Asghar Sadqa Bhira Da Bibi.
-Kar Karam Tarasday Beemar Shifa Nu.
+۴
+کیتا وعدہ بھین ویراں تا حشر ہوسی پرسہ
+آباد میں کر ساں اینج کرب و بلا نوں
+کہوے سجاد اے اصغر صدقہ بھرا دا بی‌بی
+کر کرم ترسدے بیمار شفا نوں

@@ -10,50 +10,74 @@ published: false
 romanLyrics: |-
   1
   Ya Husain Ya Husain Ya Husain
-  Chand Muharram Ka Nazar Aa Gaya
-  Bas Gayi Karb o Bala
+  Chaand Muharram ka nazar aa gaya
+  Bas gayi Karb o Bala
+  Haaye ghazab ho gaya
+  Fatima Zahra ka bhara ghar luta
+  Kat gaya Shabbir ka sukha gala
 
   2
-  Haye Ghazab Ho Gaya
-  Fatima Zahra Ka Bhara Ghar Luta
-  Kat Gaya Shabeer Ka Sokha Galla
-  Mah-e-Muharram Mein Yeh Kya Ho Gaya
+  Maah-e-Muharram mein yeh kya ho gaya
+  Kat gaya Shabbir ka sukha gala
 
   3
-  Momino Veeran Madina Howa
-  Ho Gayi Aabad Magar Karbala
-  Rotay Hain Marqad Mein Rasool-e-Khuda
-  Haye Woh Ashor Woh Karb o Bala
+  Momino viraan Madina hua
+  Ho gayi aabaad magar Karbala
+  Rote haiṅ marqad mein Rasul-e-Khuda
 
   4
-  Bhool Na Paein Gay Yeh Ahl-e-Azza
-  Aal-e-Muhammad Pe Thi Kaisi Jafa
-  Ho Gayin Pardais Mein Barbadiyaan
-  Bain Yeh Karti Rahein Shehzadiyaan
+  Kat gaya Shabbir ka sukha gala
 
   5
-  Sham Talak Jaein Gay Hum Be Rida
-  Jab Hoye Abbas Ke Bazu Qalam
-  Ho Gaye Be Aasra Ahl-e-Haram
-  Cheeni Gayin Pak Saron Se Rida
+  Haaye woh Aashur ko Karb o Bala
+  Bhul na paaenge yeh ahl-e-aza
+  Aakhir yeh Muhammad pe thi kaisi jafa
 
   6
-  Samne Darya Younhi Behta Raha
-  Kunba Muhammad Ka Tarapta Raha
-  Teen Shab o Roz Na Pani Mila
-  Beh Gaya Jab Khak Pe Sheh Ka Lahu
+  Kat gaya Shabbir ka sukha gala
 
   7
-  Gaunj Rahi Thi Yeh Sada Chaar So
-  Karti Thi Faryad Yeh Khak-e-Shifa
-  Sham-e-Ghareebaan Hoi Khaimay Jalay
-  Ahl-e-Haram Khak Pe Baithay Rahe
+  Haaye ghazab ho gaya
+  Fatima Zahra ka bhara ghar luta
+  Kat gaya Shabbir ka sukha gala
 
   8
-  Syed-e-Sajjad Ka Noha Yeh Tha
-  Noha:ALI JEE:-o- Shanawar Parho
-  :SARWAR o REHAN: Ke Bazu Bano
-  Dard Mein Dobi Hoi Aaye Sada
+  Ho gayi pardes mein barbaadiyaaṅ
+  Bain yeh karti raheiṅ shehzaadiyaaṅ
+  Shaam talak jaaenge ham berida
+
+  9
+  Kat gaya Shabbir ka sukha gala
+
+  10
+  Haaye ghazab ho gaya
+  Fatima Zahra ka bhara ghar luta
+  Kat gaya Shabbir ka sukha gala
+
+  11
+  Khun ka tasht barasta raha
+  Khun yeh Haidar ka Muhammad ka tha
+  Had yeh hai khun Ali Asghar baha
+  Kat gaya Shabbir ka sukha gala
+
+  12
+  Shaam-e-Gharibaaṅ hui khaime jale
+  Ahl-e-haram khaak pe baithe rahe
+  Sayyid-e-Sajjaad ka nauha yeh tha
+  Kat gaya Shabbir ka sukha gala
+
+  13
+  Haaye ghazab ho gaya
+  Fatima Zahra ka bhara ghar luta
+  Kat gaya Shabbir ka sukha gala
+
+  14
+  Nauha Ali Ji o Shanawar parho
+  Sarwar o Rehan ke baazu bano
+  Karb mein dubi hui aaye sada
+  Haaye ghazab ho gaya
+  Fatima Zahra ka bhara ghar luta
+  Kat gaya Shabbir ka sukha gala
 ---
 
 ۱

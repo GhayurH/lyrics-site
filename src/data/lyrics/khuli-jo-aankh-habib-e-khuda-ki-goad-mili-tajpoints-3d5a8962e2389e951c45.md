@@ -1,74 +1,138 @@
 ---
-title: "Khuli Jo Aankh Habib-e-Khuda Ki Goad Mili"
+title: "کھلی جو آنکھ حبیبِ خدا کی گود ملی"
+alternateTitle: "Khuli Jo Aankh Habib-e-Khuda Ki Goad Mili"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ejaz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khuli jo aankh Habib-e-Khuda ki goad mili
+  Ali ki goad mili Fatima ki goad mili
+
+  1
+  Hasan se paikar-e-sidq-o-safa ki goad mili
+  Imam-e-sabar-e-sheh-e-Karbala ki goad mili
+  Yeh gul woh hai jise sare chaman ne pala hai
+  Sharaf yeh hai ke inhein Panjtan ne pala hai
+
+  2
+  Sharaf se aap ke waqif hain sab ke sab Zainab
+  Dari hain qowat-e-zulm-o-sitam se kab Zainab
+  Baqay-e-deen-e-Khuda ka bani sabab Zainab
+  Tamam umar rahein ban ke zeen-e-aab Zainab
+
+  3
+  Diyar-e-Sham mein Zainab ne youn kalam kiya
+  Adab se Nehaj-e-Balagah ne khud salam kiya
+  Hai mera naam tu Zainab Ali ki beti hoon
+  Yeh janate hain yahan sab Ali ki beti hoon
+
+  4
+  Safeer-e-shah hai mansab Ali ki beti hoon
+  Yeh sun le waqt ka Marhab Ali ki beti hoon
+  Yazeediyat ka janaza utha ke dam loon gi
+  Main aaj qila-e-baiat ko dha ke dam loon gi
+
+  5
+  Yeh Hal Atta ka gharana mera gharana hai
+  Mere hi ghar pe farishton ka aana jana hai
+  Keh sajda gah-e-malak mera aastana hai
+  Mere addo ka Jahanum mein bas thikana hai
+
+  6
+  Sharaf mein sab se siwa bad-e-Panjtan mein hoon
+  Ali ki beti hoon Abbas ki behan main hoon
+  Ali ki rahat-e-jaan teri himaton ko salam
+  Azeem beton ki maa teri azmaton ko salam
+
+  7
+  Rasool-e-shah-e-zamaan teri rifatoon ko salam
+  Hussainiyaat ki ammaan teri mehnatoon ko salam
+  Qadam qadam pe ajab moajze dikhaye hain
+  Hawa ki zad pe cherag-e-azza jalaye hain
+
+  8
+  Zameer-e-ghairat-e-insaniyat jhanjhoor diya
+  Har aik zehan ko soye-e-Hussain moor diya
+  Gharor Sham ke hakim ka oss ne toor diya
+  Yazeed-e-Sham ko lanat ke sath joor diya
+
+  9
+  Faqat yeh dukhtar-e-Zahra ke karnama hai
+  Yazeed mar giya lekin Hussain zinda hai
+  Tere biyan-e-fazail ka haq adda kya ho
+  Teri sifat ka lafzoon mein tazkira kya ho
+
+  10
+  Bhala sharaf tera har ik pe aina kya ho
+  Tu haq ki subha tera Sham ko pata kya ho
+  Teri sana kahan Ejaz ki zaban kahan
+  Ghabar-e-rah kahan our aasman kahan
 ---
 
-Khuli Jo Aankh Habib-e-Khuda Ki Goad Mili.
-Ali Ki Goad Mili Fatima Ki Goad Mili.
+کھلی جو آنکھ حبیبِ خدا کی گود ملی
+علی کی گود ملی فاطمہ کی گود ملی
 
-1
-Hasan Se Paikar-e-Sidq-o-Safa Ki Goad Mili.
-Imam-e-Sabar-e-Sheh-e-Karbala Ki Goad Mili.
-Yeh Gul Woh Hai Jise Sare Chaman Ne Pala Hai.
-Sharaf Yeh Hai Ke Inhein Panjtan Ne Pala Hai.
+۱
+حسن سے پیکرِ صدق و صفا کی گود ملی
+امامِ صبرِ شہِ کربلا کی گود ملی
+یہ گل وہ ہے جسے سارے چمن نے پالا ہے
+شرف یہ ہے کہ انھیں پنجتن نے پالا ہے
 
-2
-Sharaf Se Aap Ke Waqif Hain Sab Ke Sab Zainab.
-Dari Hain Qowat-e-Zulm-o-Sitam Se Kab Zainab.
-Baqay-e-Deen-e-Khuda Ka Bani Sabab Zainab.
-Tamam Umar Rahein Ban Ke Zeen-e-Aab Zainab.
+۲
+شرف سے آپ کے واقف ہیں سب کے سب زینب
+ڈری ہیں قوتِ ظلم و ستم سے کب زینب
+بقائے دینِ خدا کا بنی سبب زینب
+تمام عمر رہیں بن کے زینِ آب زینب
 
-3
-Diyar-e-Sham Mein Zainab Ne Youn Kalam Kiya.
-Adab Se Nehaj-e-Balagah Ne Khud Salam Kiya.
-Hai Mera Naam Tu Zainab Ali Ki Beti Hoon.
-Yeh Janate Hain Yahan Sab Ali Ki Beti Hoon.
+۳
+دیارِ شام میں زینب نے یوں کلام کیا
+ادب سے نہج البلاغہ نے خود سلام کیا
+ہے میرا نام تو زینب علی کی بیٹی ہوں
+یہ جانتے ہیں یہاں سب علی کی بیٹی ہوں
 
-4
-Safeer-e-Shah Hai Mansab Ali Ki Beti Hoon.
-Yeh Sun Le Waqt Ka Marhab Ali Ki Beti Hoon.
-Yazeediyat Ka Janaza Utha Ke Dam Loon Gi.
-Main Aaj Qila-e-Baiat Ko Dha Ke Dam Loon Gi.
+۴
+سفیرِ شاہ ہے منصب علی کی بیٹی ہوں
+یہ سن لے وقت کا مرحب علی کی بیٹی ہوں
+یزیدیت کا جنازہ اٹھا کے دم لوں گی
+میں آج قلعۂ بیعت کو ڈھا کے دم لوں گی
 
-5
-Yeh Hal Atta Ka Gharana Mera Gharana Hai.
-Mere Hi Ghar Pe Farishton Ka Aana Jana Hai.
-Keh Sajda Gah-e-Malak Mera Aastana Hai.
-Mere Addo Ka Jahanum Mein Bas Thikana Hai.
+۵
+یہ ہل اتیٰ کا گھرانا میرا گھرانا ہے
+میرے ہی گھر پہ فرشتوں کا آنا جانا ہے
+کہ سجدہ گاہِ مَلَک میرا آستانہ ہے
+میرے عدو کا جہنم میں بس ٹھکانہ ہے
 
-6
-Sharaf Mein Sab Se Siwa Bad-e-Panjtan Mein Hoon.
-Ali Ki Beti Hoon Abbas Ki Behan Main Hoon.
-Ali Ki Rahat-e-Jaan Teri Himaton Ko Salam.
-Azeem Beton Ki Maa Teri Azmaton Ko Salam.
+۶
+شرف میں سب سے سوا بعدِ پنجتن میں ہوں
+علی کی بیٹی ہوں عباس کی بہن میں ہوں
+علی کی راحتِ جاں تیری ہمتوں کو سلام
+عظیم بیٹوں کی ماں تیری عظمتوں کو سلام
 
-7
-Rasool-e-Shah-e-Zamaan Teri Rifatoon Ko Salam.
-Hussainiyaat Ki Ammaan Teri Mehnatoon Ko Salam.
-Qadam Qadam Pe Ajab Moajze Dikhaye Hain.
-Hawa Ki Zad Pe Cherag-e-Azza Jalaye Hain.
+۷
+رسولِ شاہِ زماں تیری رفعتوں کو سلام
+حسینیات کی اماں تیری محنتوں کو سلام
+قدم قدم پہ عجب معجزے دکھائے ہیں
+ہوا کی زد پہ چراغِ عزا جلائے ہیں
 
-8
-Zameer-e-Ghairat-e-Insaniyat Jhanjhoor Diya.
-Har Aik Zehan Ko Soye-e-Hussain Moor Diya.
-Gharor Sham Ke Hakim Ka Oss Ne Toor Diya.
-Yazeed-e-Sham Ko Lanat Ke Sath Joor Diya.
+۸
+ضمیرِ غیرتِ انسانیت جھنجھوڑ دیا
+ہر ایک ذہن کو سوئے حسین موڑ دیا
+غرور شام کے حاکم کا اس نے توڑ دیا
+یزیدِ شام کو لعنت کے ساتھ جوڑ دیا
 
-9
-Faqat Yeh Dukhtar-e-Zahra Ke Karnama Hai.
-Yazeed Mar Giya Lekin Hussain Zinda Hai.
-Tere Biyan-e-Fazail Ka Haq Adda Kya Ho.
-Teri Sifat Ka Lafzoon Mein Tazkira Kya Ho.
+۹
+فقط یہ دخترِ زہرا کے کارنامہ ہے
+یزید مر گیا لیکن حسین زندہ ہے
+تیرے بیانِ فضائل کا حق ادا کیا ہو
+تیری صفت کا لفظوں میں تذکرہ کیا ہو
 
-10
-Bhala Sharaf Tera Har Ik Pe Aina Kya Ho.
-Tu Haq Ki Subha Tera Sham Ko Pata Kya Ho.
-Teri Sana Kahan Ejaz Ki Zaban Kahan.
-Ghabar-e-Rah Kahan Our Aasman Kahan.
+۱۰
+بھلا شرف تیرا ہر اک پہ آئینہ کیا ہو
+تو حق کی صبح تیرا شام کو پتا کیا ہو
+تیری ثنا کہاں اعجاز کی زباں کہاں
+غبارِ راہ کہاں اور آسماں کہاں

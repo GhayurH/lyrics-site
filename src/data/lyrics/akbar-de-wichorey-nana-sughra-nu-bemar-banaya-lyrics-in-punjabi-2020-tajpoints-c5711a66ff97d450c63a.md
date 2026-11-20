@@ -1,30 +1,50 @@
 ---
-title: "Akbar De Wichorey Nana Sughra Nu Bemar Banaya Lyrics In Punjabi 2020"
+title: "اکبر دے وچھوڑے نانا صغریٰ نوں بیمار بنایا"
+alternateTitle: "Akbar De Wichorey Nana Sughra Nu Bemar Banaya"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sabir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Akbar de wichorey nana Sughra nu bemar banaya
+  Odhi yadaan meriyaan mantaan haye roz rulaya
+  Khushbo Ali Akbar di rataan nu aa jagandi
+  Qadma di wehriyaan choon aawaz fair aandi
+  Kadi chehra veer da disda kadi veer da saya
+  Toon tur gaya sain Karbal Akbar beghair mere
+  Main bhul gayi saan jeena mere veer baad tere
+  Ais waday fair taun jeena Sughra nu sikhaya
+  Asghar nu yaad kardi jholay de kool bethi
+  Teraan che zakhmi gardan veran di nazar aayi
+  Oss din taun bhain ne mur ke nayi jhola jholaya
+  Wich khab de main takiya Akbar nu jadon ronda
+  Kayi wajaan mariyaan main safraan nu turda janda
+  Ik wari veerna mur ke nayi mainu bulaya
+  Sabir aye le ke khabran Karbal taun aaye panchi
+  Sughra beemar tere Akbar nu lag gayi barchi
+  Nayi layi veer ne mehndi na sehra sajaya
 ---
 
-1
-Akbar De Wichorey Nana Sughra Nu Bemar Banaya.
-Odhi Yadaan Meriyaan Mantaan Haye Roz Rulaya.
-Khushbo Ali Akbar Di Rataan Nu Aa Jagandi.
-Qadma Di Wehriyaan Choon Aawaz Fair Aandi.
-Kadi Chehra Veer Da Disda Kadi Veer Da Saya.
-Toon Tur Gaya Sain Karbal Akbar Beghair Mere.
-Main Bhul Gayi Saan Jeena Mere Veer Baad Tere.
-Ais Waday Fair Taun Jeena Sughra Nu Sikhaya.
-Asghar Nu Yaad Kardi Jholay De Kool Bethi.
-Teraan Che Zakhmi Gardan Veran Di Nazar Aayi.
-Oss Din Taun Bhain Ne Mur Ke Nayi Jhola Jholaya.
-Wich Khab De Main Takiya Akbar Nu Jadon Ronda.
-Kayi Wajaan Mariyaan Main Safraan Nu Turda Janda.
-Ik Wari Veerna Mur Ke Nayi Mainu Bulaya.
- Sabir Aye Le Ke Khabran Karbal Taun Aaye Panchi.
-Sughra Beemar Tere Akbar Nu Lag Gayi Barchi.
-Nayi Layi Veer Ne Mehndi Na Sehra Sajaya.
+۱
+اکبر دے وچھوڑے نانا صغریٰ نوں بیمار بنایا
+اوہدی یاداں میریاں منتاں ہائے روز رلایا
+خوشبو علی اکبر دی راتاں نوں آ جگاندی
+قدماں دی ویہڑیاں چوں آواز فیر آندی
+کدی چہرہ ویر دا دِسدا کدی ویر دا سایہ
+توں ٹر گیا سیں کربل اکبر بغیر میرے
+میں بھل گئی ساں جینا میرے ویر بعد تیرے
+ایس وعدے فیر توں جینا صغریٰ نوں سکھایا
+اصغر نوں یاد کردی جھولے دے کول بیٹھی
+تیراں چے زخمی گردن ویراں دی نظر آئی
+اوس دن توں بھین نے مڑ کے نئیں جھولا جھولایا
+وچ خواب دے میں تکیا اکبر نوں جدوں روندا
+کئی واجاں ماریاں میں سفراں نوں ٹردا جاندا
+اک واری ویرنا مڑ کے نئیں مینوں بلایا
+صابر اے لے کے خبراں کربل توں آئے پنچھی
+صغریٰ بیمار تیرے اکبر نوں لگ گئی برچھی
+نئیں لائی ویر نے مہندی نہ سہرا سجایا

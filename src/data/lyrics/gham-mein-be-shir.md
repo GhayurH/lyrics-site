@@ -12,11 +12,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gham meiṅ beshir ke hota hai kaleja paani
+  Gham mein be shir ke hota hai kaleja paani
   Jab bhi sunte haiṅ ke Shabbir ne maaṅga paani
 
   1
-  Karbala meiṅ koi insaan nahiṅ tha warna
+  Karbala mein koi insaan nahiṅ tha warna
   Waqt-e-zibh to koi Sheh ko pilaata paani
 
   2

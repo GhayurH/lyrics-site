@@ -1,25 +1,36 @@
 ---
-title: "Assi Waris Nayi Baba Tere Ummat Farman Sunaya Aye"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اسیں وارث نئیں بابا تیرے امت فرمان سنایا اے"
+alternateTitle: "Assi Waris Nayi Baba Tere Ummat Farman Sunaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Assi waris nayi Baba tere ummat farman sunaya aye
+  Mera Baba maa mainu aakhda si mainu ummat ne aj jhutlaya aye
+  Dukh bhulna nayi aye qabar taein mainu wekh ke zalim hans de ray
+  Teri dhi nu Baba Musalmana haye wich darbar rawaya aye
+  Pehchaniya nayi mainu dhiyaan ne mere sir de waal safaid hoye
+  Darbar taun main dehleez taein jiwein Sham da safar mukaya aye
+  Darwaza toor ke kalma go mainu dhiyaan samne mariya aye
+  Tera wasda shehar Madina aye meri madad nu koi na aaya aye
+  Gal naal Shabeer nu la Baba bari dair taein main rondi rayi
+  Mainu Asghar Baba yaad aaya jadon Mohsin nu dafnaya aye
+  Aj qabar Batool di puchdi aye Najfi har kalma go kolon
+  Zahra di lehad chopan layi kyun qabrastan banaya aye
 ---
 
-Assi Waris Nayi Baba Tere Ummat Farman Sunaya Aye
-Mera Baba Maa Mainu Aakhda Si Mainu Ummat Ne Aj Jhutlaya Aye
-Dukh Bhulna Nayi Aye Qabar Taein Mainu Wekh Ke Zalim Hans De Ray
-Teri Dhi Nu Baba Musalmana Haye Wich Darbar Rawaya Aye
-Pehchaniya Nayi Mainu Dhiyaan Ne Mere Sir De Waal Safaid Hoye
-Darbar Taun Main Dehleez Taein Jiwein Sham Da Safar Mukaya Aye
-Darwaza Toor Ke Kalma Go Mainu Dhiyaan Samne Mariya Aye
-Tera Wasda Shehar Madina Aye Meri Madad Nu Koi Na Aaya Aye
-Gal Naal Shabeer Nu La Baba Bari Dair Taein Main Rondi Rayi
-Mainu Asghar Baba Yaad Aaya Jadon Mohsin Nu Dafnaya Aye
-Aj Qabar Batool Di Puchdi Aye NAJFI Har Kalma Go Kolon
-Zahra Di Lehad Chopan Layi Kyun Qabrastan Banaya Aye
-Noha Khuwan Party Ch Faiyaz Party Sialkot
-Matami Sangat
+اسیں وارث نئیں بابا تیرے امت فرمان سنایا اے
+میرا بابا ماں مینوں آکھدا سی مینوں امت نے اج جھٹلایا اے
+دکھ بھلنا نئیں اے قبر تائیں مینوں ویکھ کے ظالم ہنسدے رہے
+تیری دھی نوں بابا مسلماناں ہائے وچ دربار روایا اے
+پہچانیا نئیں مینوں دھیاں نے میرے سر دے وال سفید ہوئے
+دربار توں میں دہلیز تائیں جیویں شام دا سفر مکایا اے
+دروازہ توڑ کے کلمہ گو مینوں دھیاں سامنے ماریا اے
+تیرا وسدا شہر مدینہ اے میری مدد نوں کوئی نہ آیا اے
+گل نال شبیر نوں لا بابا بڑی دیر تائیں میں روندی رہی
+مینوں اصغر بابا یاد آیا جدوں محسن نوں دفنایا اے
+اج قبر بتول دی پچھدی اے نجفی ہر کلمہ گو کولوں
+زہرا دی لحد چھپان لئی کیوں قبرستان بنایا اے

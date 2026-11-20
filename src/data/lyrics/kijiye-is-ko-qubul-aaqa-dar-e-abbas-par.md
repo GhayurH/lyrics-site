@@ -12,12 +12,12 @@ aliases: ["Kijiye Iss Ko Qabool Aaqa Dar-e-Abbas Par"]
 published: true
 romanLyrics: |-
   Kijiye is ko qubul aaqa dar-e-Abbas par
-  Kar raha huṅ maiṅ jo sajda dar-e-Abbas par
+  Kar raha huṅ main jo sajda dar-e-Abbas par
 
   1
   Kiuṅ na aa jaaye bhala Kaaba dar-e-Abbas par
   Jashn hai Ghaazi ke baaba ka dar-e-Abbas par
-  Dekh kar mujh ko sar-e-mimbar yahaaṅ bole malak
+  Dekh kar mujh ko sar-e-minbar yahaaṅ bole malak
   Aa gaya Abbas ka banda dar-e-Abbas par
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Jaise rukte the Muhammad dekh kar Zahra ka dar
   Har nabi waise hi hai rukta dar-e-Abbas par
-  Khush Ghadir-e-Khum meiṅ the Salman o Abuzar jis tarah
+  Khush Ghadir-e-Khum mein the Salman o Abuzar jis tarah
   Aise khush hai har Ali waala dar-e-Abbas par
 
   4
@@ -42,12 +42,12 @@ romanLyrics: |-
   Kaise aa jaati dar-e-Abbas par lene mujhe
   Maut ko bhi maut ka dar tha dar-e-Abbas par
   Wo dar-e-Abbas tha yaaṅ ye zamin-e-Tur hai
-  Soch meiṅ haiṅ Hazrat-e-Musa dar-e-Abbas par
+  Soch mein haiṅ Hazrat-e-Musa dar-e-Abbas par
 
   6
-  Mujh se ik darwesh ne ye khwaab meiṅ aa kar kaha
+  Mujh se ik darwesh ne ye khwaab mein aa kar kaha
   Zinda rehna hai to ja mar ja dar-e-Abbas par
-  Tere fatwoṅ se bhala maiṅ rukne waala huṅ kahaaṅ
+  Tere fatwoṅ se bhala main rukne waala huṅ kahaaṅ
   Dekh mera sar hai ae mulla dar-e-Abbas par
 
   7

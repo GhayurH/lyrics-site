@@ -24,10 +24,10 @@ romanLyrics: |-
   Saare aalam pe tera ijaara
 
   2
-  Kaun hai aise rutboṅ pe pahuṅcha
-  Tu Muhammad ke kaandhoṅ pe pahuṅcha
-  Ek hi waqt meiṅ mera Maula
-  Puri chaalis jagahoṅ pe pahuṅcha
+  Kaun hai aise rutboṅ pe pahuncha
+  Tu Muhammad ke kaandhoṅ pe pahuncha
+  Ek hi waqt mein mera Maula
+  Puri chaalis jagahoṅ pe pahuncha
   Laamakaaṅ tu faqat Kibriya hai
   Kya kaheiṅ tum ko bolo khudaara
 
@@ -36,27 +36,27 @@ romanLyrics: |-
   Aur Musa ki haibat Ali hai
   Sirf taaqat nahiṅ hai Nabi ki
   Hai Khuda ki bhi quwwat Ali se
-  Jab bhi mushkil meiṅ koi para hai
+  Jab bhi mushkil mein koi para hai
   Kaam aaya Ali ka hi naara
 
   4
   Din ka bol baala hai tum se
-  Chaand meiṅ bhi ujaala hai tum se
+  Chaand mein bhi ujaala hai tum se
   De raha hai ye Quraan gawaahi
   Naam Khaaliq ka aala hai tum se
-  Dube suraj ko palta de pal meiṅ
+  Dube suraj ko palta de pal mein
   Tere abru ka ek ishaara
 
   5
   Rasm-e-tauhid tujh se chali hai
-  Tere ghar meiṅ ibaadat pali hai
+  Tere ghar mein ibaadat pali hai
   Jis ko kehte haiṅ sab log jannat
   Wo tumhaare hi ghar ki gali hai
   Teri chaukhat ki hai ye bulandi
   Sajda karne ko aaya sitaara
 
   6
-  Tere dar pe jo pahuṅcha sawaali
+  Tere dar pe jo pahuncha sawaali
   Phir nahiṅ aaya wo haath khaali
   Ye hadis-e-payambar bhi sun lo
   Nahiṅ dushman Ali ka halaali

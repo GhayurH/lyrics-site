@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Madh-e-Abu Turaab ki rassi ko thaam ke
   Pehle to muskuraaeṅ ge munkir ke saamne
-  Phir nazar-e-inteqaam Ali Ali kareṅ ge
+  Phir nazr-e-inteqaam Ali Ali kareṅ ge
 
   4
   Yasrab o Saamra ho ya wo Shaam o Karbala
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Zikr-e-Ali se aql ki hairaani dur ho
-  Milta hai aagahi ka tabarruk shaur ko
+  Milta hai aagahi ka tabarruk shu'ur ko
   Yuṅ anbiya tamaam Ali Ali kareṅ ge
 
   6

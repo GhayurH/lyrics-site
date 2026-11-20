@@ -16,12 +16,12 @@ romanLyrics: |-
   Sar pe jab haath rakha ro ke Sakina ne kaha
   Jab se Baaba se maiṅ bichhri huṅ bahut maara gaya
   Mere gaaloṅ pe tamaanchoṅ ke nishaaṅ haiṅ Bibi
-  Tum ne dekhi hai mere jaisi yatima koi
+  Tum ne dekhi hai mire jaisi yatima koi
 
   Baat jab ye suni wo bhi rone lagi
   Phir zaifa Sakina se kehne lagi
 
-  Tum se pehle ek yatima aisi bhi thi
+  Tum se pehle ik yatima aisi bhi thi
 
   1
   Haaṅ tumhaare watan meiṅ hi rehti thi wo
@@ -34,7 +34,7 @@ romanLyrics: |-
   2
   Zaalimoṅ ne yuṅ Baaba ka pursa diya
   Jalta darwaaza us par giraaya gaya
-  Dar ke niche thi wo dar hataa na saki
+  Dar ke niche thi wo dar hata na saki
   Haath bhi jal gaye pehlu zakhmi hua
   Log chal kar yahaaṅ se gaye jab wahaaṅ
   Paaoṅ rakh rakh ke tori gayi pasliyaaṅ
@@ -78,7 +78,7 @@ romanLyrics: |-
   7
   Haath pehlu se apne uthaate hue
   Zakhmi chehre se parda hataate hue
-  Ae Raza aur Zishan rone lagiṅ
+  Ae Raza aur Zishaan rone lagiṅ
   Ye Sakina ko Zehra bataate hue
   Mera wirsa ho tum mera chehra ho tum
   Ab samajh aaya kiuṅ chhoti Zehra ho tum

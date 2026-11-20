@@ -10,33 +10,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shakle ali ghazi mera qayam rahe iski wafa
+  Shakl-e-Ali Ghazi mera qaaim rahe iski wafa
 
   1
-  Abbas alam tera jo log uthayenge
-  Zahra ki duaaoṅ ke saaye meiṅ wo aayenge
-  Tehrir hai darya par ghazi ki wafadari
-  Shabbir tere munkir kya usko mitayenge
+  Abbas alam tera jo log uthaayeṅge
+  Zahra ki duaaoṅ ke saaye meiṅ wo aayeṅge
+  Tahrir hai darya par Ghazi ki wafadaari
+  Shabbir tere munkir kya usko mitaayeṅge
 
   2
-  Hai tujhse yehi waada shabbir ki majlis meiṅ
-  Abbas tere gham meiṅ hum khuṅ bahayenge
+  Hai tujhse yehi waada Shabbir ki majlis meiṅ
+  Abbas tere gham meiṅ hum khuṅ bahaayeṅge
 
   3
   Baazu jo qalam ho kar darya pe gire tere
-  Hum hashr talak inka ab sog manayenge
+  Hum hashr talak inka ab sog manaayeṅge
 
   4
-  Zainab ki tamanna hai khwahish hai sakina ki
-  Har ghar pe alam tera hum log sajayenge
+  Zainab ki tamanna hai khwaahish hai Sakina ki
+  Har ghar pe alam tera hum log sajaayeṅge
 
   5
-  Khush hoga mera ghazi sarwar bhi dua denge
-  Pani pe sakina ki hum nazr dilayenge
+  Khush hoga mera Ghazi Sarwar bhi dua denge
+  Paani pe Sakina ki hum nazr dilaayenge
 
   6
-  Rehaan bapa hogi majlis jo qayamat meiṅ
-  Nauha ye hasan sadiq jannat meiṅ sunayenge
+  Rehaan bapa hogi majlis jo qayaamat meiṅ
+  Nauha ye Hasan Saadiq jannat meiṅ sunaayeṅge
 ---
 
 شکل علی غازی میرا قایم رہے اسکی وفا

@@ -1,6 +1,6 @@
 ---
 title: "عباس کے ہاتھوں کو سلامت رکھنا"
-alternateTitle: "Abbas Kay Hathon Ko Salamat Rakhna"
+alternateTitle: "Abbas Ke Haathoṅ Ko Salaamat Rakhna"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shah ne maqtal ki ijazat jo Alamdar ko di
-  Gir gayi sajda-e-Khaliq mein Ali ki beti
-  Ro ke Khaliq se dua karti thin Bint-e-Zahra
-  Mere Abbas ke hathoon ko salamat rakhna
-  Jab se Abbas ne jane ki riza hai mangi
-  Kya bataon hai Sheh-e-Deen ki halat kaisi
-  Bosay shano ke ossay detey hain ro kar Maula
-  Oss ki gardan mein Sakina ne poroi jo abhi
-  Sirf woh mashk nahi jaan hai mere bachoon ki
-  Oss ke shano se na utray yeh kabhi mashkeza
-  Dekhti hoon ke abhi larzah tha ran mein parcham
-  Khak par gir gaye Shabeer youn uljhay they qadam
-  Tham kar apni kamar uthtey hain Shah-e-Wala
-  Marne walay tu lakhon hain akelay hain Hussain
-  Sath Abbas hain jab tak hai mere dil ko chain
-  Iss ke hotey koi bhaiyya ko nahi cho sakta
-  Aik ahsas-e-hifazat hai yeh hum sab ke liye
-  Dosri chadar-e-tatheer hai Zainab ke liye
-  Ho ga Zainab pe yeh ahsan Elahi tera
-  Chalna seekha karo baba ne kaha tha jab se
-  Oss ke jeene ki dua karti hai Zainab tab se
-  Aisa lagta hai keh woh waqt hai aane wala
-  Umm-e-Kulsoom ko main dekh ke aayi hoon abhi
-  Roti hai seene se talwar laga kar oss ki
-  Baad Abbas ke shayad na bachay gi zindah
-  Dil mein Akbar yehi kehti thi Ali ki beti
-  Teer mashkezay pe barsaein gay maqtal mein shaqi
-  Kis tarha hathoon se rokay ga woh teeron ko bhala
+  Shaah ne maqtal ki ijaazat jo Alamdaar ko di
+  Gir gayi sajda-e-Khaaliq mein Ali ki beti
+  Ro ke Khaaliq se dua karti thiṅ Bint-e-Zahra
+  Mere Abbas ke haathoṅ ko salaamat rakhna
+  Jab se Abbas ne jaane ki raza hai maaṅgi
+  Kya bataauṅ hai Shah-e-Din ki haalat kaisi
+  Bose shaanoṅ ke use dete haiṅ ro kar Maula
+  Us ki gardan mein Sakina ne piroi jo abhi
+  Sirf woh mashk nahiṅ jaan hai mere bachchoṅ ki
+  Us ke shaanoṅ se na utre yeh kabhi mashkiza
+  Dekhti huṅ ke abhi larza tha ran mein parcham
+  Khaak par gir gaye Shabbir yuṅ uljhe the qadam
+  Thaam kar apni kamar uthte haiṅ Shaah-e-Waala
+  Maarne waale to laakhoṅ haiṅ akele haiṅ Husain
+  Saath Abbas haiṅ jab tak hai mere dil ko chain
+  Is ke hote koi bhaiya ko nahiṅ chhu sakta
+  Ek ehsaas-e-hifaazat hai yeh hum sab ke liye
+  Dusri chaadar-e-tathir hai Zainab ke liye
+  Ho ga Zainab pe yeh ehsaan Ilaahi tera
+  Chalna sikha karo baaba ne kaha tha jab se
+  Us ke jine ki dua karti hai Zainab tab se
+  Aisa lagta hai ke woh waqt hai aane waala
+  Umm-e-Kulsum ko main dekh ke aayi huṅ abhi
+  Roti hai sine se talwaar laga kar us ki
+  Baad Abbas ke shaayad na bache gi zinda
+  Dil mein Akbar yahi kehti thi Ali ki beti
+  Tir mashkize pe barsaaeṅ ge maqtal mein shaqi
+  Kis tarah haathoṅ se roke ga woh tiroṅ ko bhala
 ---
 
 ۱

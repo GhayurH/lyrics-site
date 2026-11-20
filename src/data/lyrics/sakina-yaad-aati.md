@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rehaai milgayi zainab abhi yaadoṅ ki qaidi hai
-  Watan to aagayi maa ki lehad par bain karti hai
-  Amanat apne bhai ki pase zindan chor aayi
-  Sakina ab andheri qabr meiṅ kis tarha soti hai
-  Sakina yaad aati hai sakina yaad aati hai
-  Hawaeiṅ shaam aati hai to zainab chaunk jaati hai
+  Rihaai mil gayi Zainab abhi yaadoṅ ki qaidi hai
+  Watan to aa gayi maaṅ ki lahad par bain karti hai
+  Amaanat apne bhaai ki pas-e-zindaan chhor aayi
+  Sakina ab andheri qabr meiṅ kis tarah soti hai
+  Sakina yaad aati hai Sakina yaad aati hai
+  Hawaeṅ Shaam aati hain to Zainab chaunk jaati hai
   Sakina yaad aati hai
-  Phupi bemaar sughra ko agar pani pilaati hai
+  Phuphi bimaar Sughra ko agar paani pilaati hai
   Sakina yaad aati hai
-  Alam abbas ka dekhe to palkeiṅ bhig jaati hai
-  Ali akbar ke hujre meiṅ kayi yaadeiṅ satati hai
-  Kisi bachi ke kaano meiṅ nazar baali jo aati hai
+  Alam Abbas ka dekhe to palkeṅ bhig jaati hain
+  Ali Akbar ke hujre meiṅ kai yaadeṅ sataati hain
+  Kisi bachchi ke kaanoṅ meiṅ nazar baali jo aati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Lehad pe maa ki jab dukhra sunane ke liye jaye
-  Aziyat patharoṅ ki aur kabhi zindan yaad aaye
-  Na jaane rote rote kyoṅ har ek gham bhul jaati hai
+  Hawaeṅ Shaam aati hai...
+  Lahad pe maaṅ ki jab dukhra sunaane ke liye jaaye
+  Aziyat pattharoṅ ki aur kabhi zindaan yaad aaye
+  Na jaane rote rote kiuṅ har ek gham bhul jaati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Wuzu karte huye pani ki thandak se larazti hai
-  Falak par abid ab dekhe to shehzadi ye kehti hai
+  Hawaeṅ Shaam aati hai...
+  Wuzu karte hue paani ki thandak se larazti hai
+  Falak par Aabid ab dekhe to shehzaadi ye kehti hai
   Madine meiṅ ye baarish to baras ke dil dukhaati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Bahot yaadeiṅ bahot baateiṅ abhi sine meiṅ baakhi hai
-  Rasan ke daagh durro ke nishaṅ sine meiṅ baakhi hai
-  Tasavvur meiṅ ali asghar ko jab jhula jhulaati hai
+  Hawaeṅ Shaam aati hai...
+  Bahut yaadeṅ bahut baateṅ abhi sine meiṅ baaqi hain
+  Rasan ke daagh durroṅ ke nishaaṅ sine meiṅ baaqi hai
+  Tasavvur meiṅ Ali Asghar ko jab jhula jhulaati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Koi zindaṅ ka dar khulne ka khissa bhi na dohraye
-  Kahiṅ aisa na ho gham se meri dharkan hi ruk jaye
-  Rehaai ki ghari meiṅ hind jab chaadar uraati hai
+  Hawaeṅ Shaam aati hai...
+  Koi zindaaṅ ka dar khulne ka qissa bhi na dohraaye
+  Kahiṅ aisa na ho gham se meri dharkan hi ruk jaaye
+  Rihaai ki ghari meiṅ Hind jab chaadar uraati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Kabhi sughra jo sine se lipat kar sone lagti hai
-  Behan abbas e ghazi tarap ke rone lagti hai
-  Kabhi shabbir ka seena kabhi ghurbat rulaati hai
+  Hawaeṅ Shaam aati hai...
+  Kabhi Sughra jo sine se lipat kar sone lagti hai
+  Behan Abbas Ghazi tarap ke rone lagti hai
+  Kabhi Shabbir ka sina kabhi ghurbat rulaati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Kabhi abid se chupti hai kabhi umme sakina se
-  Palat kar aayi hai jabse rehaai paake zindaṅ se
-  Rehaai paane waloṅ se kahaṅ nazreiṅ milaati hai
+  Hawaeṅ Shaam aati hai...
+  Kabhi Aabid se chhupaati hai kabhi Umme sakina se
+  Palat kar aayi hai jab se rihaai paake zindaaṅ se
+  Rihaai paane waaloṅ se kahaaṅ nazreṅ milaati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Nigaheiṅ phayr leti hai agar baqar nazar aaye
-  Agar baatoṅ hi baatoṅ meiṅ rasan ka zikr aajaye
-  To aankheiṅ bandh karke khaak par wo baith jaati hai
+  Hawaeṅ Shaam aati hai...
+  Nigaaheṅ pher leti hai agar Baaqir nazar aaye
+  Agar baatoṅ hi baatoṅ meiṅ rasan ka zikr aa jaaye
+  To aankheṅ band karke khaak par wo baith jaati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Na bhuli hai na bhoolegi kabhi bazaar ka manzar
-  Baraste the asiroṅ ke saroṅ par jis ghari pathar
-  Watan aakar bhi ek nanhi lehad khaaboṅ meiṅ aati hai
+  Hawaeṅ Shaam aati hai...
+  Na bhuli hai na bhulegi kabhi baazaar ka manzar
+  Baraste the asiroṅ ke saroṅ par jis ghari patthar
+  Watan aakar bhi ek nanhi lahad khwaaboṅ meiṅ aati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
-  Kabhi rehaan aur rizwan jaana qabre zainab par
-  Nazar aayega tumko dard meiṅ duba ye ek manzar
-  Musalsal qabre zainab se yehi awaaz aati hai
+  Hawaeṅ Shaam aati hai...
+  Kabhi Rehaan aur Rizwaan jaana qabr-e-Zainab par
+  Nazar aayega tum ko dard meiṅ duba ye ek manzar
+  Musalsal qabr-e-Zainab se yahi aawaaz aati hai
   Sakina yaad aati hai
-  Hawaeiṅ shaam aati hai...
+  Hawaeṅ Shaam aati hai...
 ---
 
 ۱

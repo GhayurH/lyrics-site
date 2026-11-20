@@ -1,38 +1,65 @@
 ---
-title: "Ali Ki Chup"
+title: "علی کی چپ"
+alternateTitle: "Ali Ki Chup"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasnain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ali ke sath hoi hai jafa Ali chup hain
+  Ali se bugz bhi rakha gaya Ali chup hain
+
+  1
+  Ali Madine mein tanha hoye hain bad-e-Nabi
+  Ali ko khoob sataya gaya Ali chup hain
+  Ali Hussain se pehle hain awwalo al-mazloom
+  Ali ke hotey hoye ghar luta Ali chup hain
+
+  2
+  Ali ka sabar tu Abbas se bhi zyada hai
+  Ali ke samne dar jal gaya Ali chup hain
+  Ali ki betiyaan madar ke gham mein roti hain
+  Ali ne unn ko dilasa diya Ali chup hain
+
+  3
+  Ali hain fatah-e-Khaybar magar Rasool ke baad
+  Ali ka jakra rasan mein galla Ali chup hain
+  Ali salam karein koi bhi jawab na de
+  Ali ne zulm hai yeh bhi saha Ali chup hain
+
+  4
+  Ali ki zoja ko ghar aa ke mara zalim ne
+  Ali ke beton ko jhutla diya Ali chup hain
+  Ali ke gham koi Hasnain kya karey ga biyaan
+  Ali ko sadma-e-Zahra mila Ali chup hain
 ---
 
-Ali Ke Sath Hoi Hai Jafa Ali Chup Hain.
-Ali Se Bugz Bhi Rakha Gaya Ali Chup Hain.
+علی کے ساتھ ہوئی ہے جفا، علی چپ ہیں
+علی سے بغض بھی رکھا گیا، علی چپ ہیں
 
-1
-Ali Madine Mein Tanha Hoye Hain Bad-e-Nabi.
-Ali Ko Khoob Sataya Gaya Ali Chup Hain.
-Ali Hussain Se Pehle Hain Awwalo Al-Mazloom.
-Ali Ke Hotey Hoye Ghar Luta Ali Chup Hain.
+۱
+علی مدینے میں تنہا ہوئے ہیں بعدِ نبی
+علی کو خوب ستایا گیا، علی چپ ہیں
+علی حسین سے پہلے ہیں اوّل المظلوم
+علی کے ہوتے ہوئے گھر لٹا، علی چپ ہیں
 
-2
-Ali Ka Sabar Tu Abbas Se Bhi Zyada Hai.
-Ali Ke Samne Dar Jal Gaya Ali Chup Hain.
-Ali Ki Betiyaan Madar Ke Gham Mein Roti Hain.
-Ali Ne Unn Ko Dilasa Diya Ali Chup Hain.
+۲
+علی کا صبر تو عباس سے بھی زیادہ ہے
+علی کے سامنے در جل گیا، علی چپ ہیں
+علی کی بیٹیاں مادر کے غم میں روتی ہیں
+علی نے ان کو دلاسا دیا، علی چپ ہیں
 
-3
-Ali Hain Fatah-e-Khaybar Magar Rasool Ke Baad.
-Ali Ka Jakra Rasan Mein Galla Ali Chup Hain.
-Ali Salam Karein Koi Bhi Jawab Na De.
-Ali Ne Zulm Hai Yeh Bhi Saha Ali Chup Hain.
+۳
+علی ہیں فاتحِ خیبر مگر رسول کے بعد
+علی کا جکڑا رسن میں گلا، علی چپ ہیں
+علی سلام کریں کوئی بھی جواب نہ دے
+علی نے ظلم ہے یہ بھی سہا، علی چپ ہیں
 
-4
-Ali Ki Zoja Ko Ghar Aa Ke Mara Zalim Ne.
-Ali Ke Beton Ko Jhutla Diya Ali Chup Hain.
-Ali Ke Gham Koi Hasnain Kya Karey Ga Biyaan.
-Ali Ko Sadma-e-Zahra Mila Ali Chup Hain.
+۴
+علی کی زوجہ کو گھر آ کے مارا ظالم نے
+علی کے بیٹوں کو جھٹلا دیا، علی چپ ہیں
+علی کے غم کوئی حسنین کیا کرے گا بیاں
+علی کو صدمۂ زہرا ملا، علی چپ ہیں

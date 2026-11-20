@@ -1,7 +1,7 @@
 ---
 title: "سجدے میں تیرے شیر نے تلوار کھائی ہے"
 recitationId: "sajde-may-tere-sher"
-alternateTitle: "Sajde Meiṅ Tere Sher"
+alternateTitle: "Sajde Mein Tere Sher"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,13 +12,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajde meiṅ tere sher ne talwaar khaai hai
+  Sajde mein tere sher ne talwaar khaai hai
 
   Haidar jahaaṅ se uthte haiṅ gham ki khudaai hai
-  Ye shor hai fiza meiṅ Khuda ki duhaai hai
+  Ye shor hai fiza mein Khuda ki duhaai hai
 
   1
-  Allah se ye kahti thi jannat meiṅ Fatima
+  Allah se ye kahti thi jannat mein Fatima
   Bachche mere yatim hue ae duhaai hai
 
   2
@@ -34,7 +34,7 @@ romanLyrics: |-
   Sunti huṅ mere baap ne talwaar khaai hai
 
   5
-  Afsos ibn-e-Muljim malun ki tegh ne
+  Afsos ibn-e-Muljim mal'un ki tegh ne
   Kis tan ko malaal ki surat dikhaai hai
 
   6
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   8
   Ae mominoṅ tumhaara jo pahla imaam tha
-  Us ko laiṅ ne sajde meiṅ zarbat lagaai hai
+  Us ko la'iṅ ne sajde mein zarbat lagaai hai
 
   9
   Yusuf ka haal rahm ke qaabil hai al-madad

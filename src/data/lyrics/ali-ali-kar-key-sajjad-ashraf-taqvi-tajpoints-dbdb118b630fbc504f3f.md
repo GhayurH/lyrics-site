@@ -1,29 +1,48 @@
 ---
-title: "Ali Ali Kar Key Sajjad Ashraf Taqvi"
+title: "علی علی کر کے سجاد اشرف تقوی"
+alternateTitle: "Ali Ali Kar Key Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dil khilein gay Ali Ali kar ke
+  Hum jeein gay Ali Ali kar ke
+
+  1
+  Keh rahi hai jidar-e-Kaba yeh hi
+  Dar khulein gay Ali Ali kar ke
+  Aaj Kaba banay ga qibla zaror
+  Sar jhukein gay Ali Ali kar ke
+  Jitnay but hain Saqeefa walon ke
+  Toor dein gay Ali Ali kar ke
+  Hoga mehshar ka roz eid ka din
+  Hum uthein gay Ali Ali kar ke
+  Samne hoga chashma-e-Kausar
+  Hum peein gay Ali Ali kar ke
+  Dhona chahta hai gar gunahon ko
+  Woh dhulein gay Ali Ali kar ke
+  Dil se Sajjad our Raza ne kaha
 ---
 
-Dil Khilein Gay Ali Ali Kar Ke.
-Hum Jeein Gay Ali Ali Kar Ke.
+دل کھلیں گے علی علی کر کے
+ہم جئیں گے علی علی کر کے
 
-1
-Keh Rahi Hai Jidar-e-Kaba Yeh Hi.
-Dar Khulein Gay Ali Ali Kar Ke.
-Aaj Kaba Banay Ga Qibla Zaror.
-Sar Jhukein Gay Ali Ali Kar Ke.
-Jitnay But Hain Saqeefa Walon Ke.
-Toor Dein Gay Ali Ali Kar Ke.
-Hoga Mehshar Ka Roz Eid Ka Din.
-Hum Uthein Gay Ali Ali Kar Ke.
-Samne Hoga Chashma-e-Kausar.
-Hum Peein Gay Ali Ali Kar Ke.
-Dhona Chahta Hai Gar Gunahon Ko.
-Woh Dhulein Gay Ali Ali Kar Ke.
-Dil Se Sajjad Our Raza Ne Kaha.
+۱
+کہہ رہی ہے جدارِ کعبہ یہی
+در کھلیں گے علی علی کر کے
+آج کعبہ بنے گا قبلہ ضرور
+سر جھکیں گے علی علی کر کے
+جتنے بت ہیں سقیفہ والوں کے
+توڑ دیں گے علی علی کر کے
+ہوگا محشر کا روز عید کا دن
+ہم اٹھیں گے علی علی کر کے
+سامنے ہوگا چشمۂ کوثر
+ہم پئیں گے علی علی کر کے
+دھونا چاہتا ہے گر گناہوں کو
+وہ دھلیں گے علی علی کر کے
+دل سے سجاد اور رضا نے کہا

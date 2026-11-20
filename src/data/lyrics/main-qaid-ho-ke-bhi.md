@@ -1,7 +1,7 @@
 ---
 title: "میں قید ہو کے بھی گھر کربلا سے جاؤں گی"
 recitationId: "mai-qaid-hoke-bhi"
-alternateTitle: "Maiṅ Qaid Ho Ke Bhi"
+alternateTitle: "Main Qaid Ho Ke Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maiṅ qaid ho ke bhi ghar Karbala se jaauṅ gi
+  Main qaid ho ke bhi ghar Karbala se jaauṅ gi
   Yazidiyat ki imaarat gira ke aauṅ gi
 
   1
@@ -27,33 +27,33 @@ romanLyrics: |-
 
   3
   Kabhi Husain nazar aauṅ gi kabhi Abbas
-  Yatim bachchoṅ ko hone na duṅ gi kuch ehsaas
+  Yatim bachchoṅ ko hone na duṅ gi kuchh ehsaas
   Har ek zulm o sitam se unheṅ bachaauṅ gi
 
   4
   Jinhoṅ ne ae mere bhaiya tujhe kafan na diya
   Jinhoṅ ne chhini ae bhai mere sar se rida
-  Maiṅ un ke rukh se naqaaboṅ ko hataauṅ gi
+  Main un ke rukh se naqaaboṅ ko hataauṅ gi
 
   5
-  Mita ke chhoruṅ gi bhaiya maiṅ tere qaatil ko
+  Mita ke chhoruṅ gi bhaiya main tere qaatil ko
   Har ik mahaaz pe hogi shikast baatil ko
   Har ek mahaaz pe tera alam lagaauṅ gi
 
   6
   Pukaari dekh ke maqtal ki simt Bint-e-Ali
-  Salaam le mere bhai maiṅ su-e-Shaam chali
-  Maiṅ waapas aauṅ gi aur Ghazi ban ke aauṅ gi
+  Salaam le mere bhai main su-e-Shaam chali
+  Main waapas aauṅ gi aur Ghazi ban ke aauṅ gi
 
   7
-  Maiṅ ahl-e-zulm ka jina haraam kar duṅ gi
+  Main ahl-e-zulm ka jina haraam kar duṅ gi
   Jahaaṅ se upri jo qismat tamaam kar duṅ gi
-  Jo waada tu ne kiya tha wo maiṅ nibhaauṅ gi
+  Jo waada tu ne kiya tha wo main nibhaauṅ gi
 
   8
   Chali ye kehte hue Karbala se wo Gohar
   Khitaab mere padar ka hai Faateh-e-Khaibar
-  Jo aaj maiṅ ne kaha hai wo kar dikhaauṅ gi
+  Jo aaj main ne kaha hai wo kar dikhaauṅ gi
 ---
 میں قید ہو کے بھی گھر کربلا سے جاؤں گی
 یزیدیت کی عمارت گرا کے آؤں گی

@@ -1,52 +1,74 @@
 ---
-title: "Haye Mera Watan, Madina Kab Jaingaye Hum Amma"
+title: "ہائے میرا وطن، مدینہ کب جائیں گے ہم اماں"
+alternateTitle: "Haye Mera Watan, Madina Kab Jaingaye Hum Amma"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Haye mera watan, Madina kab jaingaye hum amma
+  Na koi yahan hai apna, kab jaingaye hum amma
+
+  1
+  Is zulm ki basti main rehna bohat khatan hai
+  Koi marta tamachay, koi kehnchta rasan hai
+  Mushkil bara hai jeenaa aaa, kab jaingaye hum amma
+  Haye mera watan, Madina kab jaingaye hum amma
+
+  2
+  Mere baba aur bhai Karbal main baykafan hain
+  Raah takti hogi kabse Sughra meri behan hai
+  Hai safar bara tarinaa, kab jaingaye hum amma
+  Haye mera watan, Madina kab jaingaye hum amma
+
+  3
+  Aik bar mujeh amma tum seenay se lagao
+  Kai din se ro rahi hon is qaid se bachao
+  Marta Shimr kamina, kab jaingaye hum amma
+  Haye mera watan, Madina kab jaingaye hum amma
+
+  4
+  Zindan ki is qadi main tunay sahay zulam hain
+  Uth beti ghar chalain aab hoi qaid ye kahtam hai
+  Ab khai ghi ye kabhi naa, kab jaingaye hum amma
+  Haye mera watan, Madina kab jaingaye hum amma
+
+  5
+  Ghar bar yahan Sahir is ka watan ko jai
+  Sajjad ko yehi gham din raat rulai
+  Qaidi bangai Sakinaa, kab jaingaye hum amma
 ---
 
-Haye Mera Watan, Madina Kab Jaingaye Hum Amma (x5)
+ہائے میرا وطن، مدینہ کب جائیں گے ہم اماں
+نہ کوئی یہاں ہے اپنا، کب جائیں گے ہم اماں
 
-Na Koi Yahan Hai Apna, Kab Jaingaye Hum Amma
+۱
+اس ظلم کی بستی میں رہنا بہت کٹھن ہے
+کوئی مارتا طمانچے، کوئی کھینچتا رسن ہے
+مشکل بڑا ہے جینا آ، کب جائیں گے ہم اماں
+ہائے میرا وطن، مدینہ کب جائیں گے ہم اماں
 
-Is Zulm Ki Basti Main Rehna Bohat Khatan Hai
+۲
+میرے بابا اور بھائی کربل میں بے کفن ہیں
+راہ تکتی ہوگی کب سے صغریٰ میری بہن ہے
+ہے سفر بڑا ترِنا، کب جائیں گے ہم اماں
+ہائے میرا وطن، مدینہ کب جائیں گے ہم اماں
 
-Koi marta Tamachay, Koi Kehnchta Rasan Hai
+۳
+ایک بار مجھے اماں تم سینے سے لگاؤ
+کئی دن سے رو رہی ہوں اس قید سے بچاؤ
+مارتا شمر کمینہ، کب جائیں گے ہم اماں
+ہائے میرا وطن، مدینہ کب جائیں گے ہم اماں
 
-Mushkil Bara Hai Jeenaa Aaa, Kab Jaingaye Hum Amma
+۴
+زندان کی اس قید میں تو نے سہے ظلم ہیں
+اٹھ بیٹی گھر چلیں اب ہوئی قید یہ ختم ہے
+اب کہے گی یہ کبھی نہ، کب جائیں گے ہم اماں
+ہائے میرا وطن، مدینہ کب جائیں گے ہم اماں
 
-Haye Mera Watan, Madina Kab Jaingaye Hum Amma (x5)
-
-Mere Baba aur Bhai Karbal Main Baykafan Hain
-
-Raah Takti Hogi Kabse Sughra Meri Behan Hai
-
-Hai Safar Bara Tarinaa, Kab Jaingaye Hum Amma
-
-Haye Mera Watan, Madina Kab Jaingaye Hum Amma (x5)
-
-Aik Bar mujeh Amma Tum Seenay Se Lagao
-
-Kai din Se Ro Rahi Hon Is Qaid Se Bachao
-
-Marta Shimr Kamina, Kab Jaingaye Hum Amma
-
-Haye Mera Watan, Madina Kab Jaingaye Hum Amma (x5)
-
-Zindan Ki Is Qadi Main Tunay Sahay Zulam Hain
-
-Uth Beti Ghar Chalain Aab Hoi Qaid Ye Kahtam Hai
-
-Ab Khai Ghi Ye Kabhi Naa, Kab Jaingaye Hum Amma
-
-Haye Mera Watan, Madina Kab Jaingaye Hum Amma (x5)
-
-Ghar Bar Yahan Sahir Is Ka Watan Ko Jai
-
-Sajjad Ko Yehi Gham Din Raat Rulai
-
-Qaidi Bangai Sakinaa, Kab Jaingaye Hum Amma
+۵
+گھر بار یہاں ساحر اس کا وطن کو جائے
+سجاد کو یہی غم دن رات رلائے
+قیدی بن گئی سکینہ، کب جائیں گے ہم اماں

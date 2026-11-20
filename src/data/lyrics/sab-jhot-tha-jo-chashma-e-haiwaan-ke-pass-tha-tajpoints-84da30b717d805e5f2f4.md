@@ -1,34 +1,58 @@
 ---
-title: "Sab Jhot Tha Jo Chashma-e-Haiwaan Ke Pass Tha"
+title: "سب جھوٹ تھا جو چشمۂ حیواں کے پاس تھا"
+alternateTitle: "Sab Jhot Tha Jo Chashma-e-Haiwaan Ke Pass Tha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Adam"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aab-e-baqa faqat lab-e-janaa ke pass tha
+  Jeete rahe hum aap se milne ki aas par
+  Kya husan aik jhote se paimaan ke pass tha
+  Mazloom panchiyon ki tawaze ke waste
+  Ik dil-fraib baag bhi zindaan ke pass tha
+  Ik din tu admi ko wo deta khuli majal
+  Par itna hosla kahan Yazdaan ke pass tha
+  Phir bhi adab ki had se main aagay na barh saka
+  Go mera hath oss ke girebaan ke pass tha
+  Kya benazir cheez hoi kis jagah naseeb
+  Dil ka qarar zulf-e-pareshaan ke pass tha
+  Takhreeb-e-kainat ka ilzam kis ko dein
+  Dunya ka intezam tu insaan ke pass tha
+  Dunya ki sari hashmat-o-dolat ke bawojod
+  Tha ik Khuda ka naam jo insaan ke pass tha
+  Hukaam ne wahan se bhi mujh ko utha diya
+  Baitha howa main yaar ke darbaan ke pass tha
+  Ab bhi gila kare mera mehmaan tu kya kahon
+  Mera tamam ghar mere mehmaan ke pass tha
+  Jo phool tha wo meri pohanch mein na tha Adam
+  Jo khar tha wo meri rag-e-jaan ke pass tha
 ---
 
-1
-Aab-e-Baqa Faqat Lab-e-Janaa Ke Pass Tha.
-Jeete Rahe Hum Aap Se Milne Ki Aas Par.
-Kya Husan Aik Jhote Se Paimaan Ke Pass Tha.
-Mazloom Panchiyon Ki Tawaze Ke Waste.
-Ik Dil-Fraib Baag Bhi Zindaan Ke Pass Tha.
-Ik Din Tu Admi Ko Wo Deta Khuli Majal.
-Par Itna Hosla Kahan Yazdaan Ke Pass Tha.
-Phir Bhi Adab Ki Had Se Main Aagay Na Barh Saka.
-Go Mera Hath Oss Ke Girebaan Ke Pass Tha.
-Kya Benazir Cheez Hoi Kis Jagah Naseeb.
-Dil Ka Qarar Zulf-e-Pareshaan Ke Pass Tha.
-Takhreeb-e-Kainat Ka Ilzam Kis Ko Dein.
-Dunya ka Intezam Tu Insaan Ke Pass Tha.
-Dunya Ki Sari Hashmat-o-Dolat Ke Bawojod.
-Tha Ik Khuda Ka Naam Jo Insaan Ke Pass Tha.
-Hukaam Ne Wahan Se Bhi Mujh Ko Utha Diya.
-Baitha Howa Main Yaar Ke Darbaan Ke Pass Tha.
-Ab Bhi Gila Kare Mera Mehmaan Tu Kya Kahon.
-Mera Tamam Ghar Mere Mehmaan Ke Pass Tha.
-Jo Phool Tha Wo Meri Pohanch Mein Na Tha Adam.
-Jo Khar Tha Wo Meri Rag-e-Jaan Ke Pass Tha.
+۱
+آبِ بقا فقط لبِ جاناں کے پاس تھا
+جیتے رہے ہم آپ سے ملنے کی آس پر
+کیا حسن ایک جھوٹے سے پیماں کے پاس تھا
+مظلوم پنچھیوں کی تواضع کے واسطے
+اک دل فریب باغ بھی زنداں کے پاس تھا
+اک دن تو آدمی کو وہ دیتا کھلی مجال
+پر اتنا حوصلہ کہاں یزداں کے پاس تھا
+پھر بھی ادب کی حد سے میں آگے نہ بڑھ سکا
+گو میرا ہاتھ اس کے گریباں کے پاس تھا
+کیا بے نظیر چیز ہوئی کس جگہ نصیب
+دل کا قرار زلفِ پریشاں کے پاس تھا
+تخریبِ کائنات کا الزام کس کو دیں
+دنیا کا انتظام تو انساں کے پاس تھا
+دنیا کی ساری حشمت و دولت کے باوجود
+تھا اک خدا کا نام جو انساں کے پاس تھا
+حکام نے وہاں سے بھی مجھ کو اٹھا دیا
+بیٹھا ہوا میں یار کے درباں کے پاس تھا
+اب بھی گلہ کرے میرا مہمان تو کیا کہوں
+میرا تمام گھر میرے مہمان کے پاس تھا
+جو پھول تھا وہ میری پہنچ میں نہ تھا آدم
+جو خار تھا وہ میری رگِ جاں کے پاس تھا

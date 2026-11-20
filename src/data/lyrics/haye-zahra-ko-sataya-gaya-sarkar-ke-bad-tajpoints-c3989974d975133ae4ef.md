@@ -1,35 +1,59 @@
 ---
-title: "Haye Zahra Ko Sataya Gaya Sarkar Ke Baad"
+title: "ہائے زہرا کو ستایا گیا سرکار کے بعد"
+alternateTitle: "Haye Zahra Ko Sataya Gaya Sarkar Ke Baad"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Zahra ko sataya gaya Sarkar ke bad
+  Sar-e-darbar bulaya gaya Sarkar ke bad
+  Farz tu yeh tha ke Zahra ko tasali detey
+  Haif hai our rulaya gaya Sarkar ke bad
+
+  2
+  Jis pe aate the gawahi ke liye ahl-e-falak
+  Haan ossi dar ko jalaya gaya Sarkar ke bad
+  Jis ki tazeem mein Sarkar khare hote they
+  Oss pe darwaza giraya gaya Sarkar ke bad
+
+  3
+  Kaisi umat hai keh ji khool ke rone na diya
+  Ghar se be-ghar bhi karaya gaya Sarkar ke bad
+  Iss se barh kar Nabi zadi pe sitam kya ho ga
+  Haye naqsh-e-Mohsin ko mitaya gaya Sarkar ke bad
+
+  4
+  Bad-e-rehlat bhi laeeno ne kiye zulm-o-sitam
+  Turbat-e-Zahra ko dhaya gaya Sarkar ke bad
+  Kar ke do tukre sanad ke sar-e-paishi Yasir
+  Haq Nabi zadi ka khaya gaya Sarkar ke bad
 ---
 
-1
-Haye Zahra Ko Sataya Gaya Sarkar Ke Bad
-Sar-e-Darbar Bulaya Gaya Sarkar Ke Bad
-Farz Tu Yeh Tha Ke Zahra Ko Tasali Detey
-Haif Hai Our Rulaya Gaya Sarkar Ke Bad
+۱
+ہائے زہرا کو ستایا گیا سرکار کے بعد
+سرِ دربار بلایا گیا سرکار کے بعد
+فرض تو یہ تھا کہ زہرا کو تسلی دیتے
+حیف ہے اور رلایا گیا سرکار کے بعد
 
-2
-Jis Pe Aate The Gawahi Ke Liye Ahl-e-Falak
-Haan Ossi Dar Ko Jalaya Gaya Sarkar Ke Bad
-Jis Ki Tazeem Mein Sarkar Khare Hote They
-Oss Pe Darwaza Giraya Gaya Sarkar Ke Bad
+۲
+جس پہ آتے تھے گواہی کے لیے اہلِ فلک
+ہاں اسی در کو جلایا گیا سرکار کے بعد
+جس کی تعظیم میں سرکار کھڑے ہوتے تھے
+اس پہ دروازہ گرایا گیا سرکار کے بعد
 
-3
-Kaisi Umat Hai Keh Ji Khool Ke Rone Na Diya
-Ghar Se Be-Ghar Bhi Karaya Gaya Sarkar Ke Bad
-Iss Se Barh Kar Nabi Zadi Pe Sitam Kya Ho Ga
-Haye Naqsh-e-Mohsin Ko Mitaya Gaya Sarkar Ke Bad
+۳
+کیسی امت ہے کہ جی کھول کے رونے نہ دیا
+گھر سے بے گھر بھی کرایا گیا سرکار کے بعد
+اس سے بڑھ کر نبی زادی پہ ستم کیا ہوگا
+ہائے نقشِ محسن کو مٹایا گیا سرکار کے بعد
 
-4
-Bad-e-Rehlat Bhi Laeeno Ne Kiye Zulm-o-Sitam
-Turbat-e-Zahra Ko Dhaya Gaya Sarkar Ke Bad
-Kar Ke Do Tukre Sanad Ke Sar-e-Paishi Yasir
-Haq Nabi Zadi Ka Khaya Gaya Sarkar Ke Bad
+۴
+بعدِ رحلت بھی لعینوں نے کیے ظلم و ستم
+تربتِ زہرا کو ڈھایا گیا سرکار کے بعد
+کر کے دو ٹکڑے سند کے سرِ پیشی یاسر
+حق نبی زادی کا کھایا گیا سرکار کے بعد

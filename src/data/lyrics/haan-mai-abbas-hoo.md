@@ -1,6 +1,6 @@
 ---
 title: "حسب نسب میں ہوں لاثانی"
-alternateTitle: "Haaṅ Mai Abbas Hoo"
+alternateTitle: "Haaṅ Main Abbas Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,83 +11,83 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hasab nasab meiṅ huṅ la saani
-  Mashk o alam hai meri nishani
-  Hai mere shaano meiṅ bhi quwwate yazdani
-  Agar karuṅ darya ko ishara
-  Qaimon meiṅ aa jaaye wo saara
-  Mere isharoṅ par chalta hai darya ka pani
-  Lo jaan lo mujhko pehchan lo mujhko
-  Haaṅ mai abbas huṅ abbas
-  Ayyohan naas ayyohan naas
-  Haaṅ mai abbas huṅ
-  Haaṅ mai abbas
-  Sun lo ye ta’aruf mera
-  Mai beta huṅ hyder ka
-  Saqqa e sakina mujhko
-  Kehti hai ye saari dunya
-  Mai baazu e sarwar huṅ
+  Hasab nasab mein huṅ laasaani
+  Mashk o alam hai meri nishaani
+  Hai mere shaanoṅ mein bhi quwwat-e-yazdaani
+  Agar karuṅ darya ko ishaara
+  Khaimoṅ mein aa jaae woh saara
+  Mere ishaaroṅ par chalta hai darya ka paani
+  Lo jaan lo mujhko pehchaan lo mujhko
+  Haaṅ main Abbas huṅ Abbas
+  Ayyuhan naas ayyuhan naas
+  Haaṅ main Abbas huṅ
+  Haaṅ main Abbas
+  Sun lo taaruf mera
+  Main beta huṅ Haidar ka
+  Saqqa-e-Sakina mujhko
+  Kehti hai ye saari duniya
+  Main baazu-e-Sarwar huṅ
   Ghairat ka samandar huṅ
-  Khud zaat meiṅ lashkar huṅ
-  Ayyohan naas ayyohan naas
-  Haaṅ mai abbas huṅ...
-  Jab ghaiz meiṅ waar karunga
-  Aisi yalghaar karunga
-  Ek laash ke do do tukre
-  Phir do ke chaar karunga
-  Mohlat hai sambhal jao
-  Kasrat pe na itrao
-  Mat sher se takrao
-  Salar huṅ jarrar huṅ jeedaar huṅ mai
-  Haaṅ mai abbas huṅ abbas
-  Maiṅ ne jo khat khaynch diya hai paar karuṅ to jaanuṅ
-  Mujhse aa kar aankh milao phir mai tum ko maanuṅ
-  Sabaq wohi siffin ka tum ko phir se yaad dilauṅ
-  Palat ke dharti ulat ke darya tum ko ghaiz dikhauṅ
-  Ye taygh ye khanjar kya hai
+  Khud zaat mein lashkar huṅ
+  Ayyuhan naas ayyuhan naas
+  Haaṅ main Abbas huṅ...
+  Jab ghaiz mein waar karuṅ ga
+  Aisi yalghaar karuṅ ga
+  Ik laash ke do do tukre
+  Phir do ke chaar karuṅ ga
+  Mohlat hai sambhal jaao
+  Kasrat pe na itraao
+  Mat sher se takraao
+  Saalar huṅ jarraar huṅ jidaar huṅ main
+  Haaṅ main Abbas huṅ Abbas
+  Main ne jo khat khench diya hai paar karuṅ to jaanuṅ
+  Mujh se aa kar aankh milaao phir main tum ko maanuṅ
+  Sabaq wohi Siffin ka tum ko phir se yaad dilaauṅ
+  Palat ke dharti ulat ke darya tum ko ghaiz dikhaauṅ
+  Ye tegh ye khanjar kya hai
   Bas dekh lo tewar kya hai
   Pairoṅ se masal duṅ dharti
   Nau laakh ka lashkar kya hai
-  Sar tan se ura dunga
-  Mitti meiṅ mila dunga
-  Ek hashr macha dunga
-  Ayyohan naas ayyohan naas
-  Haaṅ mai abbas huṅ...
-  Mai chin ke tum se darya
-  Bhar loonga abhi mashkeeza
-  Tum dekhte reh jaoge
-  Na rok sakoge rasta
-  Jo keh duṅ wo karta huṅ
-  Kab maut se mai darta huṅ
-  Har baar yehi kehta huṅ
-  Ayyohan naas ayyohan naas
-  Haaṅ mai abbas huṅ...
-  Jab mashk chidi pyasoṅ ki
-  Aur beh gaya saara pani
+  Sar tan se ura duṅ ga
+  Mitti mein mila duṅ ga
+  Ek hashr macha duṅ ga
+  Ayyuhan naas ayyuhan naas
+  Haaṅ main Abbas huṅ...
+  Main chhin ke tum se darya
+  Bhar luṅ ga abhi mashkiza
+  Tum dekhte reh jaao ge
+  Na rok sako ge rasta
+  Jo keh duṅ woh karta huṅ
+  Kab maut se main darta huṅ
+  Har baar yahi kehta huṅ
+  Ayyuhan naas ayyuhan naas
+  Haaṅ main Abbas huṅ...
+  Jab mashk chhidi pyaasoṅ ki
+  Aur beh gaya saara paani
   Ghazi ne kata ke baazu
-  Tarikh wafa ki likh di
+  Taarikh-e-wafa ki likh di
   Shabbir jo laashe par
-  Pahunche to suna aakar
-  Jumle the yehi lab par
-  Haaṅ mai abbas huṅ...
-  Ek aankh meiṅ tir laga tha
-  Shabbir ne jab wo nikala
+  Pahunche to suna aa kar
+  Jumle the yahi lab par
+  Haaṅ main Abbas huṅ...
+  Ek aankh mein tir laga tha
+  Shabbir ne jab woh nikaala
   Zaanu pe rakha jab sar ko
   Ghazi ne kiya ye nauha
-  Aankhoṅ meiṅ sakina ka
+  Aankhoṅ mein Sakina ka
   Chehra hai mere aaqa
-  Ab kaise ye bolunga
-  Ayyohan naas ayyohan naas
-  Haaṅ mai abbas huṅ...
-  Wo sher wafa ka paikar
+  Ab kaise ye boluṅ ga
+  Ayyuhan naas ayyuhan naas
+  Haaṅ main Abbas huṅ...
+  Woh sher wafa ka paikar
   Jab qatl hua darya par
-  Karti thi tarap kar zainab
-  Ye bain hi misum o mazhar
-  Ho jaungi jab tanha
-  Tab khun rulayega
+  Karti thi tarap kar Zainab
+  Ye bain hi Maisam o Mazhar
+  Ho jaauṅ gi jab tanha
+  Tab khun rulaae ga
   Ae bhai tera kehna
-  Ayyohan naas ayyohan naas
-  Haaṅ mai abbas huṅ...
+  Ayyuhan naas ayyuhan naas
+  Haaṅ main Abbas huṅ...
 ---
 
 ۱

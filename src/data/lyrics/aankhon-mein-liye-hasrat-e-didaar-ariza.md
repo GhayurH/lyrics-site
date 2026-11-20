@@ -13,7 +13,7 @@ aliases: ["Aankhon Mein Liye Hasrat-e-Deedar Areza"]
 published: true
 romanLyrics: |-
   Aankhoṅ meiṅ liye hasrat-e-didaar ariza
-  Khizr Raah meiṅ pahunchne ko hai tayyaar ariza
+  Khizr raah meiṅ pahunchne ko hai tayyaar ariza
   Ye shauq-e-ziyaarat meiṅ bahot aage hai mujh se
   Is paar agar maiṅ huṅ to us paar ariza
 
@@ -21,7 +21,7 @@ romanLyrics: |-
   Barhta hi chala jaata hai jazbaat ki rau meiṅ
   Maujoṅ se siwa rakhta hai raftaar ariza
   Har haal meiṅ manzil pe pahunch kar hi rukega
-  Hai moataqid-e-Aabid-e-Bimaar ariza
+  Hai mutaqid-e-Aabid-e-Bimaar ariza
 
   2
   Ik bund bhi pita nahiṅ daryaaoṅ ka paani

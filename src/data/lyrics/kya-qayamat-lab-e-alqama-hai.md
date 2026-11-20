@@ -9,123 +9,71 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Kya qayamat lab-e-alqama hai
-
-  Mashk chidi pani baha ho gaye baazu qalam
-
-  Khoon se abbas ka surkh huwa jab alam
-
+romanLyrics: |-
+  Kya qayamat lab-e-Alqama hai
+  Mashk chhidi paani baha ho gaye baazu qalam
+  Khun se Abbas ka surkh hua jab alam
 
   1
-
-  Shor utha nehr par, qatl-e-alamdar shud
-
-  Shaad huve ehl-e-shar, qatl-e-alamdar shud
-
-  Dekha suye nehr to shabbir ne rokar kaha
-
-  Khoon may dooba alam abbas ka
-
+  Shor utha nehr par, qatl-e-alamdaar shud
+  Shaad hue ahl-e-shar, qatl-e-alamdaar shud
+  Dekha su-e-nehr to Shabbir ne ro kar kaha
+  Khun meiṅ duba alam Abbas ka
 
   2
-
-  Ab mera lashkar kahan, qatl-e-alamdar shud
-
-  Mai hua tanha yahan, qatl-e-alamdar shud
-
-  Kyun na kamar ho kaman, qatl-e-alamdar shud
-
-  Kyun na lahoo aankhon se barsa-un bata karbala
-
-  Khoon may dooba....
-
+  Ab mera lashkar kahaaṅ, qatl-e-alamdaar shud
+  Maiṅ hua tanha yahaaṅ, qatl-e-alamdaar shud
+  Kiuṅ na kamar ho kamaaṅ, qatl-e-alamdaar shud
+  Kiuṅ na lahu aaṅkhoṅ se barsaauṅ bata Karbala
+  Khun meiṅ duba.....
 
   3
-
-  Rone lagi alqama, qatl-e-alamdar shud
-
-  Maujon ne matam kiya, qatl-e-alamdar shud
-
-  Dasht se aayi sada, qatl-e-alamdar shud
-
-  Dekha suye nehr to zainab ko nazar aagaya
-
+  Rone lagi Alqama, qatl-e-alamdaar shud
+  Maujoṅ ne maatam kiya, qatl-e-alamdaar shud
+  Dasht se aayi sada, qatl-e-alamdaar shud
+  Dekha su-e-nehr to Zainab ko nazar aa gaya
 
   4
-
-  Qaimo may hai shor-o-shain, qatl-e-alamdar shud
-
-  Lut gaya zehra ka chain, qatl-e-alamdar shud
-
-  Roke ye bole hussain, qatl-e-alamdar shud
-
-  Meri sakina ke liye hoga payam-e-qaza
-
+  Khaimoṅ meiṅ hai shor o shain, qatl-e-alamdaar shud
+  Lut gaya Zehra ka chain, qatl-e-alamdaar shud
+  Ro ke ye bole Husain, qatl-e-alamdaar shud
+  Meri Sakina ke liye ho ga payaam-e-qaza
 
   5
-
-  Karti hai zainab buka, qatl-e-alamdar shud
-
-  Koi nahi aasra, qatl-e-alamdar shud
-
-  Bhai akela huwa, qatl-e-alamdar shud
-
-  Sar se rida jayegi zainab ko yakeen hogaya
-
+  Karti hai Zainab buka, qatl-e-alamdaar shud
+  Koi nahiṅ aasra, qatl-e-alamdaar shud
+  Bhai akela hua, qatl-e-alamdaar shud
+  Sar se rida jaaye gi Zainab ko yaqiṅ ho gaya
 
   6
-
-  Fizza ne paayi khabar, qatl-e-alamdar shud
-
-  Haath rakha qalb par, qatl-e-alamdar shud
-
-  Phaynki rida khaak par, qatl-e-alamdar shud
-
-  Ehl-e-haram saath huwe padhne lagi marsiya
-
+  Fizza ne paayi khabar, qatl-e-alamdaar shud
+  Haath rakha qalb par, qatl-e-alamdaar shud
+  Phenki rida khaak par, qatl-e-alamdaar shud
+  Ahl-e-haram saath hue parhne lagi marsiya
 
   7
-
-  Bachon se sheh ne kaha, qatl-e-alamdar shud
-
-  Toot gaya aasra, qatl-e-alamdar shud
-
-  Pani nahi aayega, qatl-e-alamdar shud
-
-  Bhigi huvi aankhon se dekho to suye-alqama
-
+  Bachoṅ se Sheh ne kaha, qatl-e-alamdaar shud
+  Tut gaya aasra, qatl-e-alamdaar shud
+  Paani nahiṅ aaye ga, qatl-e-alamdaar shud
+  Bhigi hui aaṅkhoṅ se dekho to su-e-Alqama
 
   8
-
-  Noha hai kulsoom ka, qatl-e-alamdar shud
-
-  Kaise jiyungi bhala, qatl-e-alamdar shud
-
-  Mujko na aayi qaza, qatl-e-alamdar shud
-
-  Aas meri toot gayi dekha jo mere khuda
-
+  Nauha hai Kulsum ka, qatl-e-alamdaar shud
+  Kaise jaauṅ gi bhala, qatl-e-alamdaar shud
+  Mujh ko na aayi qaza, qatl-e-alamdaar shud
+  Aas meri tut gayi dekha jo mere Khuda
 
   9
-
-  Rote hai mushkil kusha, qatl-e-alamdar shud
-
-  Nana ne nawha kiya, qatl-e-alamdar shud
-
-  Kehti hai maa sayyeda, qatl-e-alamdar shud
-
-  Dekh naya zakhm mere laal tujhe degaya
-
+  Rote haiṅ Mushkil Kusha, qatl-e-alamdaar shud
+  Naana ne nauha kiya, qatl-e-alamdaar shud
+  Kehti hai maaṅ Sayyeda, qatl-e-alamdaar shud
+  Dekh naya zakhm mere laal tujhe de gaya
 
   10
-
-  Karta hai mazhar buka, qatl-e-alamdar shud
-
-  Khaak udao zara, qatl-e-alamdar shud
-
-  Nawha hai irfaan ka, qatl-e-alamdar shud
-
-  Peet-te hai sina-o-sar dekh ke ehl-e-aza'
+  Karta hai Mazhar buka, qatl-e-alamdaar shud
+  Khaak uraao zara, qatl-e-alamdaar shud
+  Nauha hai Irfaan ka, qatl-e-alamdaar shud
+  Pitti hai sina o sar dekh ke ahl-e-aza
 ---
 
 کیا قیامت لبِ علقمہ ہے

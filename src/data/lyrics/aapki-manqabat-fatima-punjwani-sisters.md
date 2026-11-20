@@ -12,26 +12,26 @@ published: false
 romanLyrics: |-
   1
   Aap ki manqabat jab parhi Fatima
-  Arshiyon ne bhi aa kar suni Fatima
-  Hai Khadija ki wahid khushi Fatima
-  Ghar Muhammad ke nazil hoi Fatima
-  Kya fazeelat hai keh bas Ali ko mili
-  Do jahan mein teri humsari Fatima
-  Sorah-e-Dehar-o-Rehman parh kar khula
-  Madah khuwaan hai tera khud jali Fatima
-  Tere romal se sheh ne khud saaf ki
-  Hur ke chehray se sharmindagi Fatima
-  Tha merey gird Rab ka hisar-e-karam
-  Teri tasbeeh jis dam parhi Fatima
-  Youn laga arsh se ja laga mera sar
-  Dar pe tere jabeen jab rakhi Fatima
-  Oss mein bhi markazi hai hawala tera
-  Bazm zair-e-kisa jo saji Fatima
-  Oss ki azmat mein yeh hi bari baat hai
-  Aap ki hai dua matami Fatima
-  Kaisay gasib Fidak ka jinna jaye ga
+  Arshiyoṅ ne bhi aa kar suni Fatima
+  Hai Khadija ki waahid khushi Fatima
+  Ghar Muhammad ke naazil hui Fatima
+  Kya fazilat hai ke bas Ali ko mili
+  Do jahaaṅ mein teri humsari Fatima
+  Surah-e-Dahr o Rahmaan parh kar khula
+  Madah khwaaṅ hai tera khud jali Fatima
+  Tere rumaal se shah ne khud saaf ki
+  Hur ke chehre se sharmindagi Fatima
+  Tha mere gird Rab ka hisaar-e-karam
+  Teri tasbih jis dam parhi Fatima
+  Yuṅ laga arsh se ja laga mera sar
+  Dar pe tere jabiṅ jab rakhi Fatima
+  Us mein bhi markazi hai hawaala tera
+  Bazm zer-e-Kisa jo saji Fatima
+  Us ki azmat mein yahi bari baat hai
+  Aap ki hai dua maatami Fatima
+  Kaise ghaasib-e-Fadak ka jina jaaye ga
   Dar pe jannat ke bhi hai khari Fatima
-  Arsh tak chal ke jana para tha Asad
+  Arsh tak chal ke jaana para tha Asad
   Ja ke phir Mustafa ko mili Fatima
 ---
 

@@ -1,29 +1,48 @@
 ---
-title: "Khaimay Udasiyon Ke Qum Se Hain Sham Tak"
+title: "خیمے اداسیوں کے قم سے ہیں شام تک"
+alternateTitle: "Khaimay Udasiyon Ke Qum Se Hain Sham Tak"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jarrar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khaimay udasiyon ke Qum se hain Sham tak
+  Sadaat hain youn tanha har ik imam tak
+  Qum ki fizaein roein matam Raza karein
+  Roti rahein namazein unn par qiyam tak
+
+  2
+  Pardon mein gaib ke hi roya Khuda bhi woh
+  Suntay hain Qum mein oss ke ab bhi alam tak
+  Sorah atta jo Kausar bheji thi tu ne Allah
+  Oss par hain zulm kartay dekhey ghulam tak
+
+  3
+  Rona hai Syedon ne jane kahan kahan
+  Chahe woh Qum ya Karbal ya ho woh Sham tak
+  Masoom meri bibi izzat Khuda ki aap
+  Jarrar ka hai pursa sajdah salam tak
 ---
 
-1
-Khaimay Udasiyon Ke Qum Se Hain Sham Tak.
-Sadaat Hain Youn Tanha Har Ik Imam Tak.
-Qum Ki Fizaein Roein Matam Raza Karein.
-Roti Rahein Namazein Unn Par Qiyam Tak.
+۱
+خیمے اداسیوں کے قم سے ہیں شام تک
+سادات ہیں یوں تنہا ہر اک امام تک
+قم کی فضائیں روئیں ماتم رضا کریں
+روتی رہیں نمازیں ان پر قیام تک
 
-2
-Pardon Mein Gaib Ke Hi Roya Khuda Bhi Woh.
-Suntay Hain Qum Mein Oss Ke Ab Bhi Alam Tak.
-Sorah Atta Jo Kausar Bheji Thi Tu Ne ALLAH.
-Oss Par Hain Zulm Kartay Dekhey Ghulam Tak.
+۲
+پردوں میں غیب کے ہی رویا خدا بھی وہ
+سنتے ہیں قم میں اس کے اب بھی الم تک
+سورۂ عطا جو کوثر بھیجی تھی تو نے اللہ
+اس پر ہیں ظلم کرتے دیکھے غلام تک
 
-3
-Rona Hai Syedon Ne Jane Kahan Kahan.
-Chahe Woh Qum Ya Karbal Ya Ho Woh Sham Tak.
-Masoom Meri Bibi Izzat Khuda Ki Aap.
- Jarrar Ka Hai Pursa Sajdah Salam Tak.
+۳
+رونا ہے سیدوں نے جانے کہاں کہاں
+چاہے وہ قم یا کربل یا ہو وہ شام تک
+معصوم میری بی‌بی عزت خدا کی آپ
+جرار کا ہے پرسا سجدہ سلام تک

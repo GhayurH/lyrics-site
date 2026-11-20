@@ -14,41 +14,41 @@ published: true
 romanLyrics: |-
   Khaime ke darwaaze se ye di Sakina ne sada
   Laut kar aa jaao waapas ho kahaaṅ ammu
-  Ho gaya pardes meiṅ ab jurm paani maangna
+  Ho gaya pardes mein ab jurm paani maangna
   Laut kar aa jaao waapas ho kahaaṅ ammu
 
   1
   Huṅ khari khaime ke dar par khaali kuza thaam kar
-  Pyaas ki shiddat nahiṅ seh paauṅ gi maiṅ lamha bhar
+  Pyaas ki shiddat nahiṅ seh paauṅ gi main lamha bhar
   Phatta hai gham se jigar aur khushk hai mera gala
 
   2
-  Yaad ab aate haiṅ mujhko guzre jo Yasrab meiṅ din
+  Yaad ab aate haiṅ mujhko guzre jo Yasrab mein din
   Saamne rakhte the paani kuch zabaaṅ se bole bin
   Lamha bhar bhi pyaas ka ehsaas na hone diya
 
   3
   Ho gaya maalum ab to pyaas kehte haiṅ kise
   Kya khabar thi din ye mujhko bhi pareṅ ge dekhne
-  Chaar saala umr meiṅ ye dard hai sehna para
+  Chaar saala umr mein ye dard hai sehna para
 
   4
-  Paas aate the hamesha meri ek aawaaz par
+  Paas aate the hamesha meri ik aawaaz par
   Dekh kar hairaaṅ huṅ ab badle se andaaz par
   Kiuṅ nahiṅ aate palat kar kya hui mujhse khata
 
   5
-  Kho na jaaye pyaas ki in waadiyoṅ meiṅ ham kahiṅ
-  Lag raha hai ab banegi shaam tak turbat yahiṅ
-  Daalne turbat pe paani aaoge kya ab chacha
+  Kho na jaaye pyaas ki in waadiyoṅ mein ham kahiṅ
+  Lag raha hai ab bane gi shaam tak turbat yahi
+  Daalne turbat pe paani aao ge kya ab chacha
 
   6
   Sabr rakhe kis tarah se bhaai bhi chhe maah ka
   Paani maange kis tarah se bhaai bhi chhe maah ka
-  Chand lamhoṅ meiṅ hai lagta aayegi usko qaza
+  Chand lamhoṅ mein hai lagta aaye gi us ko qaza
 
   7
-  Maiṅ bujhaauṅ gi chacha jaaṅ apne hi ashkoṅ se pyaas
+  Main bujhaauṅ gi chacha jaaṅ apne hi ashkoṅ se pyaas
   Hai dua ke jald aao khairiyat se mere paas
   Ab kabhi na pyaas ka shikwa karuṅ gi ba Khuda
 

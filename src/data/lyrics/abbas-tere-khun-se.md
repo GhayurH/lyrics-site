@@ -24,11 +24,11 @@ romanLyrics: |-
   Zainab se utha hoga kis tarah se gham tera
 
   3
-  Ae sher-e-Jari jab tu darya ko sidhara tha
+  Ae sher-e-Jari jab tu darya ko sidhaara tha
   Tha mashk-e-Sakina meiṅ ya sine meiṅ dam tera
 
   4
-  Behte hue pani meiṅ tasvir-e-Sakina thi
+  Behte hue paani meiṅ tasvir-e-Sakina thi
   Dam ye diya darya se utha na qadam tera
 ---
 

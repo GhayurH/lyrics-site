@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shauq arz-e-Karbala ka mere aab o gil meiṅ hai
-  Jite ji jannat meiṅ pahuṅchuṅ ye tamanna dil meiṅ hai
+  Shauq-e-arz-e-Karbala ka mere aab o gil meiṅ hai
+  Jite ji jannat meiṅ pahunchuṅ ye tamanna dil meiṅ hai
   Daagh-e-maatam se hai raunaq mehfil-e-Shabbir ki
   Jaisi ye mehfil hai waisi shama bhi mehfil meiṅ hai
 
   1
   Bhar ke paani nehr se Abbas pyaase hi gaye
-  Ye unhi hoṅtoṅ ki khushki aaj tak saahil meiṅ hai
-  Bhej di naizoṅ meiṅ Akbar se pisar ko khud Husain
-  Ummat-e-jad ki mohabbat hai ke barchhi dil meiṅ hai
+  Ye unhi hontoṅ ki khushki aaj tak saahil meiṅ hai
+  Bhej di nezoṅ meiṅ Akbar se pisar ko khud Husain
+  Ummat-e-jadd ki mohabbat hai ke barchhi dil meiṅ hai
 
   2
   Nikli parti hai ke khaime meiṅ nahiṅ parta qaraar

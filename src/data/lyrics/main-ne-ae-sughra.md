@@ -36,7 +36,7 @@ romanLyrics: |-
   Roshni chiz hai kya ab to yahaaṅ bhul gayi
 
   6
-  Tum ko maiṅ dukhra sunaauṅ gi gale se lag kar
+  Tum ko maiṅ dukhra sunaauṅ gi gale se laga kar
   Qaid se jald rihaai ki ho surat sab ki
 
   7

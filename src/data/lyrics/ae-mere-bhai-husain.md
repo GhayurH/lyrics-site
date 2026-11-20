@@ -12,15 +12,15 @@ tags: []
 aliases: ["Ay Mere Bhai Hussain"]
 published: true
 romanLyrics: |-
-  Suno suno Shab-e-Ashur ka ye manzar hai
-  Sirhane bhai ke baithi Ali ki dukhtar hai
+  Suno suno shab-e-Ashur ka ye manzar hai
+  Sirhaane bhai ke baithi Ali ki dukhtar hai
 
   1
   Wo keh rahi hai mera sabr aazmaoge
   Ae mere bhai Husain
   Qadam qadam pe mujhe bhai yaad aaoge
   Ae mere bhai Husain ae mere bhai Husain
-  Sehar ko nana ka waada jo tum nibhaoge
+  Sahar ko nana ka waada jo tum nibhaoge
   Ae mere bhai Husain ae mere bhai Husain
 
   2
@@ -29,17 +29,17 @@ romanLyrics: |-
   Sahar se pehle charaghoṅ ko tum bujhaoge
 
   3
-  Nabi sawari tumhari sawaar tum bhai
+  Nabi sawaari tumhari sawaar tum bhai
   The ammaṅ Zahra ke dil ka qaraar tum bhai
   Aur aaj khun meiṅ apne hi tum nahaoge
 
   4
-  Tumhare chehre ka ye itmenan jaanti huṅ
-  Tumhara hona hai jo imtehan jaanti huṅ
-  Behan se dard-e-jigar ko chhupa na paaoge
+  Tumhare chehre ka ye imtinaan jaanti huṅ
+  Tumhara hona hai jo imtihaan jaanti huṅ
+  Bahan se dard-e-jigar ko chhupa na paaoge
 
   5
-  Gulu-e-Asghar-e-beshir sina-e-Akbar
+  Gulu-e-Asghar beshir sina-e-Akbar
   Sata raha hai tumheiṅ sabr kar rahe ho magar
   Rida ki baat pe nazreiṅ mila na paaoge
 
@@ -56,7 +56,7 @@ romanLyrics: |-
   8
   Kaha Husain ne sun kar kalaam Zainab ka
   Hamari jaan ke badle bache tera parda
-  Ye kya kaha ke mera sabr aazmaoge
+  Ye kya kaha ke mere sabr aazmaoge
 
   9
   Tere baghair mukammal nahiṅ payaam mera
@@ -65,8 +65,8 @@ romanLyrics: |-
 
   10
   Ye guftugu thi ke gunji azaan Akbar ki
-  Rehaan hoti thi yalghaar Sheh pe lashkar ki
-  Ali ki beti pukari hameiṅ rulaoge
+  Rehaan hoti thi yalgaar Sheh pe lashkar ki
+  Ali ki pukari hameiṅ rulaoge
 ---
 
 سنو سنو شب عاشور کا یہ منظر ہے

@@ -12,8 +12,8 @@ tags: []
 aliases: ["Dil Ki Zaban Pe"]
 published: true
 romanLyrics: |-
-  Dil ki zabaaṅ pe naam rahega Husain ka
-  Har ashk-e-gham sunaayega nauha Husain ka
+  Dil ki zabaaṅ pe naam rahe ga Husain ka
+  Har ashk-e-gham sunaaye ga nauha Husain ka
 
   1
   Chalti hui gale pe hai Shimr-e-laiṅ ki tegh
@@ -32,7 +32,7 @@ romanLyrics: |-
   Hai jis ko yaad aakhri sajda Husain ka
 
   5
-  Hone ko hai Husain ke lashkar ka khaatema
+  Hone ko hai Husain ke lashkar ka khaatima
   Aata hai ran meiṅ aakhri fidya Husain ka
 
   6
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Apnoṅ ka zikr kya hai tabarruk ke naam se
-  Khaate raheṅge ghair bhi sadqa Husain ka
+  Khaate raheṅ ge ghair bhi sadqa Husain ka
 
   8
   Kya sakht imtehaan the Sibt-e-Rasul ke
@@ -60,7 +60,7 @@ romanLyrics: |-
   Koi nahiṅ hai bekas o tanha Husain ka
 
   12
-  Hum ko Viqar khun ke aansu rulaayega
+  Hum ko Viqar khun ke aansu rulaaye ga
   Qabr-e-Nabi pe ashk bahaana Husain ka
 ---
 دل کی زباں پہ نام رہے گا حسین کا

@@ -13,8 +13,8 @@ aliases: ["Khuwab Mein Jalwa Numa Mukhtar Hussain Fatehpuri", "khuwab-mein-jalwa
 published: true
 romanLyrics: |-
   1
-  Khwaab meiṅ jalwa numa jalwa-e-Sarkaar hua
-  Maiṅ jo soya to muqaddar mera bedaar hua
+  Khwaab mein jalwa numa jalwa-e-Sarkaar hua
+  Main jo soya to muqaddar mera bedaar hua
 
   2
   Jis ne Abbas ke roze ki ziyaarat kar li
@@ -26,15 +26,15 @@ romanLyrics: |-
 
   4
   Wo muhibboṅ ki iyaadat ke liye aate haiṅ
-  Baarha maiṅ bhi isi shauq meiṅ bimaar hua
+  Baarha main bhi isi shauq mein bimaar hua
 
   5
   Jis ko Ghaazi tere parcham ki hawaaeṅ na mileṅ
   Us ko jina hi nahiṅ marna bhi dushwaar hua
 
   6
-  Buturaab aur shariat se baghaawat ki thi
-  Shaikh turbat meiṅ pahuṅchte hi giraftaar hua
+  Bu Turaab aur shariat se baghaawat ki thi
+  Shaikh turbat mein pahuṅchte hi giraftaar hua
 ---
 ۱
 خواب میں جلوہ نما جلوۂ سرکار ہوا

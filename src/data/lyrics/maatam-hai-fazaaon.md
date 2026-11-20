@@ -41,12 +41,12 @@ romanLyrics: |-
   5
   Kehne lage Zainab se Ali phir ye tarap kar
   Karta huṅ tujhe sabr ki talqin meri dukhtar
-  Baazu meiṅ rasan hoyegi chhin jaayegi chaadar
+  Baazu meiṅ rasan hoye gi chhin jaaye gi chaadar
   Hamraah na hoga koi juz Aabid-e-Muztar
 
   6
-  Kat jaayeṅge Abbas Alamdar ke shaane
-  Lut jaayega ghar asr ko jal jaayeṅge khaime
+  Kat jaayeṅ ge Abbas Alamdaar ke shaane
+  Lut jaaye ga ghar asr ko jal jaayeṅ ge khaime
   Phaileṅge juṅhi Shaam-e-Gharibaaṅ ke andhere
   Beti meri pehra tujhe dena hai akele
 

@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Aaye majlis meiṅ Ali bint-e-Zehra o Nabi
-  Hai qayaamat ki ghari
+  Hai qiyaamat ki ghari
 
   3
   Haaye barchhi ki ani qalb-e-Akbar meiṅ lagi
@@ -34,7 +34,7 @@ romanLyrics: |-
   Ro para dekho shaqi
 
   6
-  Shah-e-Diṅ jaan-e-Ali teri woh tashnalabi
+  Shah-e-Diṅ jaan-e-Ali teri woh tashna labi
   Bekasi roti rahi
 
   7

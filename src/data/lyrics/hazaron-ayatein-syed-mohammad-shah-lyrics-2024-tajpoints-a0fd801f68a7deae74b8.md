@@ -1,37 +1,60 @@
 ---
-title: "Hazaron Ayatein Syed Mohammad Shah Lyrics 2024"
+title: "ہزاروں آیتیں سید محمد شاہ"
+alternateTitle: "Hazaron Ayatein Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hazaron aayatein Khaliq ki hain bari se bari
+  Nahi hai koi nishani mere Nabi se bari
+  Woh aik shab, Shab-e-Asra pukartay hain jisay
+  Tamam nabiyon ki hai sari zindagi se bari
+  Ali ne abd kaha khud ko our kiya sabit
+  Bas aik zaat Muhammad ki hai Ali se bari
+
+  2
+  Hussain pusht pe they dil mein keh rahe they Rasool
+  Khushi Hussain ki hai meri bandagi se bari
+  Zamana kya hai Madine mein bhi mili na humein
+  Koi ghali Bani Hashim ki ik ghali se bari
+  Darood parh ke Muhammad bata gaye sab ko
+  Meri Batool ki chokhat hai har kissi se bari
+
+  3
+  Mili na ishq-e-Muhammad ki iss zamane mein
+  Koi misal Abu Talib ki aashiqui se bari
+  Rasool kehte they maula Hasan ki aamad par
+  Koi khushi nahi Zahra teri khushi se bari
+  Bataya aya-e-Baligh ke lehjay ne Akbar
+  Keh ik manadi hai baqi pyamberi se bari
 ---
 
-Hazaron Ayatein Syed Mohammad Shah.
+۱
+ہزاروں آیتیں خالق کی ہیں بڑی سے بڑی
+نہیں ہے کوئی نشانی میرے نبی سے بڑی
+وہ ایک شب، شبِ اسرا پکارتے ہیں جسے
+تمام نبیوں کی ہے ساری زندگی سے بڑی
+علی نے عبد کہا خود کو اور کیا ثابت
+بس ایک ذات محمد کی ہے علی سے بڑی
 
-1
-Hazaron Aayatein Khaliq Ki Hain Bari Se Bari.
-Nahi Hai Koi Nishani Mere Nabi Se Bari.
-Woh Aik Shab, Shab-e-Asra Pukartay Hain Jisay.
-Tamam Nabiyon Ki Hai Sari Zindagi Se Bari.
-Ali Ne Abd Kaha Khud Ko Our Kiya Sabit.
-Bas Aik Zaat Muhammad Ki Hai Ali Se Bari.
+۲
+حسین پشت پہ تھے دل میں کہہ رہے تھے رسول
+خوشی حسین کی ہے میری بندگی سے بڑی
+زمانہ کیا ہے مدینے میں بھی ملی نہ ہمیں
+کوئی گلی بنی ہاشم کی اک گلی سے بڑی
+درود پڑھ کے محمد بتا گئے سب کو
+میری بتول کی چوکھٹ ہے ہر کسی سے بڑی
 
-2
-Hussain Pusht Pe They Dil Mein Keh Rahe They Rasool.
-Khushi Hussain Ki Hai Meri Bandagi Se Bari.
-Zamana Kya Hai Madine Mein Bhi Mili Na Humein.
-Koi Ghali Bani Hashim Ki Ik Ghali Se Bari.
-Darood Parh Ke Muhammad Bata Gaye Sab Ko.
-Meri Batool Ki Chokhat Hai Har Kissi Se Bari.
-
-3
-Mili Na Ishq-e-Muhammad Ki Iss Zamane Mein.
-Koi Misal Abu Talib Ki Aashiqui Se Bari.
-Rasool Kehte They Maula Hasan Ki Aamad Par.
-Koi Khushi Nahi Zahra Teri Khushi Se Bari.
-Bataya Aya-e-Baligh Ke Lehjay Ne Akbar.
-Keh Ik Manadi Hai Baqi Pyamberi Se Bari.
+۳
+ملی نہ عشقِ محمد کی اس زمانے میں
+کوئی مثال ابو طالب کی عاشقی سے بڑی
+رسول کہتے تھے مولا حسن کی آمد پر
+کوئی خوشی نہیں زہرا تیری خوشی سے بڑی
+بتایا آیۂ بلّغ کے لہجے نے اکبر
+کہ اک منادی ہے باقی پیمبری سے بڑی

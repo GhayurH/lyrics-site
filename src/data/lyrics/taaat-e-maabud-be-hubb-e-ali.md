@@ -12,12 +12,12 @@ tags: []
 aliases: ["Taate Mabood Be Hubbe"]
 published: true
 romanLyrics: |-
-  Taaat-e-maabud behubb-e-Ali achchhi nahiṅ
+  Taaat-e-maabud be hubb-e-Ali achchhi nahiṅ
   Ho haram meiṅ bhi to aisi bandagi achchhi nahiṅ
 
   1
   Us imaamat ke jo dosh-e-Mustafa par ba Khuda
-  Jo bahaana dhundhe wo paighambari achchhi nahiṅ
+  Jo bahaana dhunde wo paighambari achchhi nahiṅ
 
   2
   Dekh kar Abbas ko bhaage ye kahte lashkari
@@ -52,8 +52,8 @@ romanLyrics: |-
   Majlis-e-Sarwar meiṅ ashkoṅ ki kami achchhi nahiṅ
 
   10
-  Mustafa ke nur ki baaradaari ke maa siwa
-  Do jahaaṅ meiṅ ek bhi baaradaari achchhi nahiṅ
+  Mustafa ke nur ki baraadari ke maa siwa
+  Do jahaaṅ meiṅ ek bhi baraadari achchhi nahiṅ
 
   11
   Aarzu hai meri Mahir umr ro kar kaat do

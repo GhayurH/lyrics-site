@@ -1,7 +1,7 @@
 ---
 title: "اسیر فوج ستم قیدیء محن زینب"
 recitationId: "aseere-fauje-sitam"
-alternateTitle: "Asire Fauje Sitam"
+alternateTitle: "Asir-e-Fauj-e-Sitam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Asir-e-fauj-e-sitam qaidi-e-mehan Zainab
+  Asir-e-fauj-e-sitam qaidi-e-mihan Zainab
 
   1
   Hai jis ka aayat-e-tathir pairahan Zainab
@@ -36,11 +36,11 @@ romanLyrics: |-
   Jawaaṅ ka qatl to khud us ke dil pe bhaala tha
   Tha gham azim to Shabbir ko sambhaala tha
   Qadam jo khaime se pehle pahal nikaala tha
-  Sahaara dene ko aayi thi pur mehan Zainab
+  Sahaara dene ko aayi thi pur mihan Zainab
 
   5
-  Dayaar-e-Kufa meiṅ taqrir se jihaad kiya
-  Diya hai Shaam ke darbaar meiṅ kabhi khutba
+  Dayaar-e-Kufa mein taqrir se jihaad kiya
+  Diya hai Shaam ke darbaar mein kabhi khutba
   Kabhi khamoshi se mazlumiyat ko nashr kiya
   Kabhi Ali kabhi Zehra kabhi Hasan Zainab
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   Khayaal kunbe ka tha ro saki na ji bhar ke
   Nikalne paaye na armaan bint-e-Haidar ke
   Tha ek qalb-e-haziṅ daagh the bahattar ke
-  Lahad meiṅ le gayi zakhmoṅ ka ye chaman Zainab
+  Lahad mein le gayi zakhmoṅ ka ye chaman Zainab
 
   7
   Qanaat thaam le ye Akbar-e-jawaaṅ se kaho

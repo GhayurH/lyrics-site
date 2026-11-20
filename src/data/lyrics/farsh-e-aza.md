@@ -42,7 +42,7 @@ romanLyrics: |-
   Is waqt sar-e-farsh-e-aza aa gai Zehra
 
   6
-  Ek marsiya maiṅ ne jo parha tashna laboṅ ka
+  Ak marsiya maiṅ ne jo parha tashna laboṅ ka
   Jab naam Sakina ka mere hontoṅ pe aaya
   Bas naam Sakina ka suna aa gai Zehra
 

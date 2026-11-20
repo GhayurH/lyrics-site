@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Sinaaṅ ki nok se Khuda ne apna zikr jab suna
   To us ne tere zikr ko yeh martaba ata kiya
-  Jahaṅ azaaṅ bhi nahiṅ wahaṅ bhi Ya Husain hai
+  Jahaṅ azaaṅ bhi nahiṅ wahaṅ bhi ya Husain hai
 
   4
   Idhar Rasul-e-Paak haiṅ udhar Janab-e-Sayyeda
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Tha ik Nusairi shauq meiṅ Najaf se Karbala gaya
   Jo dekha jalwa nur ka wahaṅ to us ne yeh kaha
-  Qasam Ali ki aaj se mera Khuda Husain hai
+  Qasam Ali ki aaj se mira Khuda Husain hai
 
   6
   Mile jo par to ro diya khushi se Fitrus-e-haziṅ

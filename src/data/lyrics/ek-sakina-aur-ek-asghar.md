@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ek Sakina aur ek Asghar
+  Ik Sakina aur ek Asghar
   Ek naaqe par ek naize par
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
   Ek naaqe par ek naize par
 
   2
-  Zulm ki zad par rehte haiṅ donoṅ
+  Zulm ki zid par rehta hai donoṅ
   Dard ka manzar rehte haiṅ donoṅ
   Saaya mayassar hota nahiṅ hai
   Dhup meiṅ din bhar rehte haiṅ donoṅ
@@ -64,11 +64,11 @@ romanLyrics: |-
   Ek naaqe par ek naize par
 
   7
-  Donoṅ ki ghurbat ek jaisi
+  Donoṅ ki ghurbat ik jaisi
   Donoṅ ki hi umr hai chhoti
   Asghar hai chhe maah ka bachcha
   Aur Sakina chaar baras ki
-  Donoṅ haiṅ ek dard ka paikar
+  Donoṅ haiṅ ik dard ka paikar
   Ek naaqe par ek naize par
 
   8

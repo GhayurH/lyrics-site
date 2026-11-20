@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Apne haathoṅ se baba ne
+  Apne haathoṅ se baaba ne
   Turbat meiṅ sulaya tha mujhko
-  Aur shaam ke zaalim lashkar ke
+  Aur Shaam ke zaalim lashkar ke
   Naizoṅ ne sataya tha mujhko
   Turbat meiṅ mujhe rehne na diya
   Sar mera bhi naize pe utha
-  Amma amma
-  Amma tumhara asghar naize pe aagaya hai
-  Do baar zibha mujhko ran meiṅ kiya gaya hai
-  Noke sina pe amma dohra hai dard mera
+  Ammaaṅ ammaaṅ
+  Ammaaṅ tumhaara Asghar naize pe aa gaya hai
+  Do baar zibah mujhko ran meiṅ kiya gaya hai
+  Nok-e-sinaaṅ pe ammaaṅ dohra hai dard mera
   Ek naize par barabar meiṅ aap ki rida hai
-  Amma tumhara asghar...
-  Chaale pare hai kaise zakhmi huwe hai kaise
-  Kuch to batao amma haathoṅ ko kya hua hai
-  Amma tumhara asghar...
+  Ammaaṅ tumhaara Asghar...
+  Chhaale pare haiṅ kaise zakhmi hue haiṅ kaise
+  Kuchh to bataao ammaaṅ haathoṅ ko kya hua hai
+  Ammaaṅ tumhaara Asghar...
   Apna khayaal rakhna meri na fikr karna
-  Dadi ne mujhko apni godhi meiṅ le liya hai
-  Amma tumhara asghar...
-  Cheh maah ke ali ka din bhi hai cheh moharram
-  Maa dekhti hai ab bhi jhula kahaṅ saja hai
-  Amma tumhara asghar...
-  Nikla tha jab watan se tha godh meiṅ tumhari
-  Hamraah ab tumhare sar kat ke jaa raha hai
-  Amma tumhara asghar...
-  Ghazi ka huṅ bhatija aankheiṅ mai kholuṅ kaise
-  Maiṅ ne suna hai amma behno ka sar khula hai
-  Amma tumhara asghar...
-  Naize se mai sakina ko dekhta raha huṅ
+  Daadi ne mujhko apni godi meiṅ le liya hai
+  Ammaaṅ tumhaara Asghar...
+  Chhe maah ke Ali ka din bhi hai chhe Muharram
+  Maaṅ dekhti hai ab bhi jhula kahaaṅ saja hai
+  Ammaaṅ tumhaara Asghar...
+  Nikla tha jab watan se tha god meiṅ tumhaari
+  Hamraah ab tumhaare sar kat ke jaa raha hai
+  Ammaaṅ tumhaara Asghar...
+  Ghaazi ka huṅ bhatija aankheiṅ maiṅ kholuṅ kaise
+  Maiṅ ne suna hai ammaaṅ behnoṅ ka sar khula hai
+  Ammaaṅ tumhaara Asghar...
+  Naize se maiṅ Sakina ko dekhte raha huṅ
   Chehra meri behen ka zakhmoṅ se bhar gaya hai
-  Amma tumhara asghar...
-  Zindaṅ bhi dhup meiṅ thi turbat bhi dhup meiṅ hai
-  Bano ne ae takallum waada nibha diya hai
-  Amma tumhara asghar...
+  Ammaaṅ tumhaara Asghar...
+  Zindaaṅ bhi dhup meiṅ thi turbat bhi dhup meiṅ hai
+  Baano ne ae Takallum waada nibha diya hai
+  Ammaaṅ tumhaara Asghar...
 ---
 
 ۱

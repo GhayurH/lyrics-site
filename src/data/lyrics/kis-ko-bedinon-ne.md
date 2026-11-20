@@ -15,11 +15,11 @@ romanLyrics: |-
   Hai Payambar ka dulaara ae zamin-e-Karbala
 
   1
-  Paani paani jab ke ho jaayegi ye kheti tamaam
+  Paani paani jab ke ho jaayegi ye riti tamaam
   Ek tu hogi kinaara ae zamin-e-Karbala
 
   2
-  Kis tarha khodi lahad kya guzri dil par Shaah ke
+  Kis tarah khodi lahad kya guzri dil par Shaah ke
   Jab ke Asghar ko utaara ae zamin-e-Karbala
 
   3
@@ -39,12 +39,12 @@ romanLyrics: |-
   Saare ghar ka hai dulaara ae zamin-e-Karbala
 
   7
-  Ye bataa de kis tarha mayyat pe pahunche the Husain
+  Ye bataa de kis tarah mayyat pe pahunche the Husain
   Jab ke Akbar ne pukaara ae zamin-e-Karbala
 
   8
   Le liye tu ne meri godi ke paale boli maaṅ
-  Ab karuṅ kiuṅ kar guzaara ae zamin-e-Karbala
+  Ab karuṅ kiunkar guzaara ae zamin-e-Karbala
 ---
 
 کس کو بے دینوں نے مارا اے زمینِ کربلا

@@ -8,149 +8,85 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Har durood aur har salaam
-
+romanLyrics: |-
+  Har durud aur har salaam
 
   1
-
-  Madare hussain tere naam
-
-  Zaujaye ali e sar baland
-
-  Fatema azeem arjumand
-
-  Jiske aastane paak ke
-
-  Qudsiyane arsh hai ghulam
-
+  Madar-e-Husain tere naam
+  Zauja-e-Ali-e-sar baland
+  Fatema azim arjumand
+  Jis ke aastaan-e-paak ke
+  Qudsiyaan-e-arsh haiṅ ghulaam
 
   2
-
-  Hai wo fatema wo fatema
-
-  Aarzoo-e-qalb e mustufa
-
-  Jiske laadle hassan hussain
-
-  Jiski betiyan falak muqaam
-
+  Hai wo Fatema wo Fatema
+  Aarzu-e-qalb-e-Mustafa
+  Jis ke laadle Hasan Husain
+  Jis ki betiyaaṅ falak maqaam
 
   3
-
-  Kat raha tha farte shaahe deen
-
-  Chal raha tha khanjare layeen
-
-  Bibi aap dekhti rahi
-
-  Lut gaye haram jalay khayaam
-
+  Kat raha tha farq-e-shaah-e-diṅ
+  Chal raha tha khanjar-e-la'iṅ
+  Bibi aap dekhti rahiṅ
+  Mit gaye haram jale khiyaam
 
   4
-
-  Har durood aur salam
-
-  Khwahare hussain tere naam
-
-  Sani e janabe sayyeda
-
-  Allah allah tera hausla
-
-  Khoob ki hifazate haram
-
-  Baad-e-qatle sayyede anaam
-
+  Har durud aur salaam
+  Khwahar-e-Husain tere naam
+  Saani-e-janaab-e-Sayyeda
+  Allah Allah tera hausla
+  Khub ki hifaazat-e-haram
+  Baad-e-qatl-e-Sayyed-e-anaam
 
   5
-
-  Bibi gham uthaye hai bahot
-
-  Dil pe daagh khaaye hai bahot
-
-  Tujpe ay hussain ki behan
-
-  Hogayi musibatein tamaam
-
+  Bibi gham uthaaye haiṅ bahut
+  Dil pe daagh khaaye haiṅ bahut
+  Tujh pe ae Husain ki behan
+  Ho ga'iṅ musibateṅ tamaam
 
   6
-
   Karbala mein apne dilruba
-
-  Kardiye hussain par fida
-
-  Aun aur mohamed e jari
-
-  Hogaye shaheed e tashnakaam
-
+  Kar diye Husain par fida
+  Aun aur Muhammad-e-Jari
+  Ho gaye shahid-e-tashna kaam
 
   7
-
-  Daulate batool lut gayi
-
-  Dukhtare rasool lut gayi
-
-  Chin gayi saro se chadarein
-
-  Jal gaye hussain ke qayam
-
+  Daulat-e-Batul lut gayi
+  Dukhtar-e-Rasul lut gayi
+  Chhin gayi saroṅ se chaadareṅ
+  Jal gaye Husain ke khiyaam
 
   8
-
-  Mayyatein padi hai bekafan
-
-  Kya kare hussain ki behan
-
+  Mayyateṅ pari haiṅ bekafan
+  Kya kare Husain ki behan
   Bekasi aur aisi bekasi
-
-  Shaam aur karbala ki shaam
-
+  Shaam aur Karbala ki shaam
 
   9
-
-  Inqilaabe waqt dekhiye
-
-  Imtihane saqt dekhiye
-
-  Sar khule rasool zadiyan
-
-  Aur ahle shar ka ijtema
-
+  Inqilaab-e-waqt dekhiye
+  Imtihaan-e-sakht dekhiye
+  Sar khule Rasul zaadiyaaṅ
+  Aur ahl-e-shar ka izdahaam
 
   10
-
-  Har durood aur salam
-
-  Dukhtare hussain tere naam
-
-  Shimr kibriya ka waasta
-
-  Tujko mustafa ka waasta
-
-  Binte shaah be-gohar na thi
-
-  Mubtela e gham hai tashnakaam
-
+  Har durud aur salaam
+  Dukhtar-e-Husain tere naam
+  Shimr kibriyaa ka waasta
+  Tujh ko Mustafa ka waasta
+  Bint-e-shaah ke gauhar na chhin
+  Mubtala-e-gham hai tashna kaam
 
   11
-
-  Shimr ke tamache khaye hai
-
-  Bibi kitne gham uthaye hai
-
+  Shimr ke tamaanche khaaye haiṅ
+  Bibi kitne gham uthaaye haiṅ
   Baap ki judaai kam na thi
-
-  Tujpe qaid ke sitam khatam
-
+  Tujh pe qaid ke sitam khatm
 
   12
-
   Bibi aap par sitam hue
-
-  Mar gayi pidar ka gham liye
-
-  Haaye jeete ji na chut saka
-
-  Qaid qaanaye ameere shaam'
+  Mar ga'iṅ pidar ka gham liye
+  Haaye jite ji na chhut saka
+  Qaid khaana-e-amir-e-Shaam
 ---
 
 ہر درود اور ہر سلام

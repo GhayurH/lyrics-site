@@ -1,6 +1,6 @@
 ---
 title: "آگ خیموں میں لگی ہے ذریت عمران شیرازی"
-alternateTitle: "Aag Khaimo Mein Lagi Hai Zurriat Imran Sherazi"
+alternateTitle: "Aag Khaimoṅ Mein Lagi Hai Zurriat Imran Sherazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aag khaimon mein lagi hai our dhowaan khamosh hai
-  Teer sare chal chukay hain har kamaan khamosh hai
-  Jis ke hathoon ke isharey se urrey maidaan mein sar
-  Woh jarri bhai behan ke darmiyaan khamosh hai
+  Aag khaimoṅ mein lagi hai aur dhuaaṅ khamosh hai
+  Teer saare chal chuke haiṅ har kamaaṅ khamosh hai
+  Jis ke haathoṅ ke ishaare se ure maidaaṅ mein sar
+  Woh jari bhai behan ke darmiyaṅ khamosh hai
   Maut ne baba ki jis ko dard itna de diya
-  Roi hai baba ko itna keh fogaan khamosh hai
+  Roi hai baba ko itna ke faghaaṅ khamosh hai
 
   2
-  Na khuda Islam ka khanjar talay sajday mein hai
-  Samne Shabeer ke har imtehaan khamosh hai
-  Loot li hain Shimar ne ahl-e-haram ki chadrein
-  Dasht mein inn chadron ka pasbaan khamosh hai
-  Rooz-e-Ashora hai jin pe yeh jahan giriya kuna
-  Seena-e-Akbar mein tooti ik sina khamosh hai
+  Naakhuda Islam ka khanjar tale sajde mein hai
+  Saamne Shabbir ke har imtihaaṅ khamosh hai
+  Lut li haiṅ Shimr ne ahl-e-haram ki chaadreṅ
+  Dasht mein in chaadroṅ ka paasbaaṅ khamosh hai
+  Roz-e-Ashura hai jin pe yeh jahaaṅ girya kunaaṅ
+  Sina-e-Akbar mein tuti ik sinaaṅ khamosh hai
 
   3
-  Dar pe khaimay ke khari hai Kibriya ki aabro
-  Deen ki sheh rag kati hai har gumaan khamosh hai
-  Be amma hain dasht mein Mushkil Kusha ki betiyaan
-  Sab ridaein lut chuki hain saibaan khamosh hai
-  Dekhti jati hai mur mur ke soye nehar-e-Furat
-  Hath mein Zainab pehan kar rasiyaan khamosh hai
+  Dar pe khaime ke khari hai Kibriya ki aabru
+  Din ki shah rag kati hai har gumaaṅ khamosh hai
+  Be amaaṅ haiṅ dasht mein Mushkil Kusha ki betiyaaṅ
+  Sab ridaaeṅ lut chuki haiṅ saaibaaṅ khamosh hai
+  Dekhti jaati hai mur mur ke su-e-nahr-e-Furaat
+  Haath mein Zainab pehan kar rassiyaaṅ khamosh hai
 
   4
-  Pyas ki shiddat bhi hai our tang halqa-e-rasan
-  Ik faqat lab hil rahe hain our zabaan khamosh hai
-  Ghairat-e-rab-e-jali rota hai aanso khon ke
-  Samne Sajjad ke sara jahan khamosh hai
-  Parh rahi hai Sham ke darbar mein khutbay Raza
-  Robaro bint-e-Ali ke har azaan khamosh hai
+  Pyaas ki shiddat bhi hai aur tang halqa-e-rasan
+  Ik faqat lab hil rahe haiṅ aur zabaaṅ khamosh hai
+  Ghairat-e-Rab-e-Jali rota hai aansu khun ke
+  Saamne Sajjad ke saara jahaaṅ khamosh hai
+  Parh rahi hai Shaam ke darbaar mein khutbe Raza
+  Rubaru bint-e-Ali ke har azaaṅ khamosh hai
 ---
 
 ۱

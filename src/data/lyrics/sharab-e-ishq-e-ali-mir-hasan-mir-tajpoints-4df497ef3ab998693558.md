@@ -1,44 +1,78 @@
 ---
-title: "Sharab E Ishq E Ali Mir Hasan Mir"
+title: "شرابِ عشقِ علی میر حسن میر"
+alternateTitle: "Sharab-e-Ishq-e-Ali Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarosh"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sharab e ishq e Ali Mir Hasan Mir
+  Sharab-e-ishq-e-Nabi
+
+  1
+  Sharab-e-ishq-e-Ali
+  Haider ke may kharon ko pila de saqiya
+  Chodah sharab khano ki yakja mila ke la
+  Aye umar-e-javedaan mera sagar utha ke la
+
+  2
+  Aye Jibraeel aaye hain baleen pe Buturab
+  Ja jald ja ke arsh se kursi utha ke la
+  Peena hai may Ghadeer ki Kabay mein baith kar
+  Jo hajiyon mein rind hain unn ko bola ke la
+
+  3
+  Hain jo Ali Ali ke taraney pe motariz
+  Unn ko dil-e-Rasool ki dharkan suna ke la
+  Gar ho Ali ki neend ki mairaj dekhni
+  Hijrat ki shab ki aankh se kajal chura ke la
+
+  4
+  Dam hai tu kar le sham-e-azza se munazra
+  Fatwon ki aandhiyon ko zara wargala ke la
+  Jam-e-wila mein zehar-e-adawat na ghool dein
+  Iss may ko dushmano ki nazar se bacha ke la
+
+  5
+  Kehti hai roz nar-e-jahanum yeh maut se
+  Ik sath aaj sare addo Murtaza ke la
+  Waiz ko jam-e-midhat-e-Haider pila Sarosh
+  Le ja iss aadmi ko bhi insaan bana ke la
 ---
 
-Sharab e Ishq e Ali Mir Hasan Mir.
-Sharab-e-Ishq-e-Nabi.
+شرابِ عشقِ علی میر حسن میر
+شرابِ عشقِ نبی
 
-1
-Sharab-e-Ishq-e-Ali.
-Haider Ke May Kharon Ko Pila De Saqiya.
-Chodah Sharab Khano Ki Yakja Mila Ke La.
-Aye Umar-e-Javedaan Mera Sagar Utha Ke La.
+۱
+شرابِ عشقِ علی
+حیدر کے مے خواروں کو پلا دے ساقیا
+چودہ شراب خانوں کی یکجا ملا کے لا
+اے عمرِ جاوداں میرا ساغر اٹھا کے لا
 
-2
-Aye Jibraeel Aaye Hain Baleen Pe Buturab.
-Ja Jald Ja Ke Arsh Se Kursi Utha Ke La.
-Peena Hai May Ghadeer Ki Kabay Mein Baith Kar.
-Jo Hajiyon Mein Rind Hain Unn Ko Bola Ke La.
+۲
+اے جبرائیل آئے ہیں بالیں پہ بو تراب
+جا جلد جا کے عرش سے کرسی اٹھا کے لا
+پینا ہے مے غدیر کی کعبے میں بیٹھ کر
+جو حاجیوں میں رند ہیں ان کو بلا کے لا
 
-3
-Hain Jo Ali Ali Ke Taraney Pe Motariz.
-Unn Ko Dil-e-Rasool Ki Dharkan Suna Ke La.
-Gar Ho Ali Ki Neend Ki Mairaj Dekhni.
-Hijrat Ki Shab Ki Aankh Se Kajal Chura Ke La.
+۳
+ہیں جو علی علی کے ترانے پہ معترض
+ان کو دلِ رسول کی دھڑکن سنا کے لا
+گر ہو علی کی نیند کی معراج دیکھنی
+ہجرت کی شب کی آنکھ سے کاجل چرا کے لا
 
-4
-Dam Hai Tu Kar Le Sham-e-Azza Se Munazra.
-Fatwon Ki Aandhiyon Ko Zara Wargala Ke La.
-Jam-e-Wila Mein Zehar-e-Adawat Na Ghool Dein.
-Iss May Ko Dushmano Ki Nazar Se Bacha Ke La.
+۴
+دم ہے تو کر لے شامِ عزا سے مناظرہ
+فتووں کی آندھیوں کو ذرا ورغلا کے لا
+جامِ ولا میں زہرِ عداوت نہ گھول دیں
+اس مے کو دشمنوں کی نظر سے بچا کے لا
 
-5
-Kehti Hai Roz Nar-e-Jahanum Yeh Maut Se.
-Ik Sath Aaj Sare Addo Murtaza Ke La.
-Waiz Ko Jam-e-Midhat-e-Haider Pila Sarosh.
-Le Ja Iss Aadmi Ko Bhi Insaan Bana Ke La.
+۵
+کہتی ہے روز نارِ جہنم یہ موت سے
+اک ساتھ آج سارے عدوِ مرتضیٰ کے لا
+واعظ کو جامِ مدحتِ حیدر پلا سروش
+لے جا اس آدمی کو بھی انسان بنا کے لا

@@ -1,37 +1,64 @@
 ---
-title: "Faqat Zainab Syed Mudassir Mehdi"
+title: "فقط زینب سید مدثر مہدی"
+alternateTitle: "Faqat Zainab Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Faqat Zainab Syed Mudassir Mehdi
+
+  1
+  Our koi nahi faqat Zainab
+  Fatima ki hai hum sift Zainab
+  Jo dua ki Ali ne sajdoon mein
+  Tu hai oss ki qaboliyat Zainab
+  Zikar tera hai dono ki mairaj
+  Ho ibadat ya abdiyat Zainab
+
+  2
+  Aayatein bhi namaz parhti hain
+  Teri parh parh ke manqabat Zainab
+  Jantay hain Hussain our Sajjad
+  Tere sajdoon ki manzalat Zainab
+  Karbala saltanat hai Akbar ki
+  Yani hai teri malkiyat Zainab
+
+  3
+  Jo hain takraein tere khutbay se
+  Woh azanein bhi hain galat Zainab
+  Tujh se sansoon ka rizq letey hain
+  Karbala our Hussainiyaat Zainab
+  Likh ke laya hai manqabat Muhsin
+  Kijiye iss pe dastakhat Zainab
 ---
 
-Faqat Zainab Syed Mudassir Mehdi.
+فقط زینب سید مدثر مہدی
 
-1
-Our Koi Nahi Faqat Zainab.
-Fatima Ki Hai Hum Sift Zainab.
-Jo Dua Ki Ali Ne Sajdoon Mein.
-Tu Hai Oss Ki Qaboliyat Zainab.
-Zikar Tera Hai Dono Ki Mairaj.
-Ho Ibadat Ya Abdiyat Zainab.
+۱
+اور کوئی نہیں فقط زینب
+فاطمہ کی ہے ہم صفت زینب
+جو دعا کی علی نے سجدوں میں
+تو ہے اُس کی قبولیت زینب
+ذکر تیرا ہے دونوں کی معراج
+ہو عبادت یا عبدیت زینب
 
-2
-Aayatein Bhi Namaz Parhti Hain.
-Teri Parh Parh Ke Manqabat Zainab.
-Jantay Hain Hussain Our Sajjad.
-Tere Sajdoon Ki Manzalat Zainab.
-Karbala Saltanat Hai Akbar Ki.
-Yani Hai Teri Malkiyat Zainab.
+۲
+آیتیں بھی نماز پڑھتی ہیں
+تیری پڑھ پڑھ کے منقبت زینب
+جانتے ہیں حسین اور سجاد
+تیرے سجدوں کی منزلت زینب
+کربلا سلطنت ہے اکبر کی
+یعنی ہے تیری ملکیت زینب
 
-3
-Jo Hain Takraein Tere Khutbay Se.
-Woh Azanein Bhi Hain Galat Zainab.
-Tujh Se Sansoon Ka Rizq Letey Hain.
-Karbala Our Hussainiyaat Zainab.
-Likh Ke Laya Hai Manqabat Muhsin.
-Kijiye Iss Pe Dastakhat Zainab.
+۳
+جو ہیں ٹکرائیں تیرے خطبے سے
+وہ اذانیں بھی ہیں غلط زینب
+تجھ سے سانسوں کا رزق لیتے ہیں
+کربلا اور حسینیات زینب
+لکھ کے لایا ہے منقبت محسن
+کیجیے اس پہ دستخط زینب

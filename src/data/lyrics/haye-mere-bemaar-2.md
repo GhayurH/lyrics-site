@@ -10,41 +10,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ahle madina kehte the ro kar
+  Ahl-e-Madina kehte the ro kar
   Haye mere bemaar imam
 
   1
-  Kar gaye rehlat jaanib e kausar
+  Kar gaye rehlat jaanib-e-Kausar
 
   2
-  Qaime jalaye chadareiṅ china
-  Aur zar o zewar luta
-  Legaye aada aap ka bistar
+  Khaime jalaaye chaadareṅ chhinaa
+  Aur zar o zewar lutaa
+  Le gaye aadaa aap ka bistar
 
   3
-  Hathkari beri tauq pinaaya
-  Ahle jafa ne baad e Husain
+  Hathkari bere tauq pehnaaya
+  Ahl-e-jafa ne baad-e-Husain
   Baandhe kamar meiṅ aap ke langar
 
   4
-  Rote rahe chalis baras tak
-  Baba ko apne roz wo shaam
-  Chain ne aaya aap ko din bhar
+  Rote rahe chaalis baras tak
+  Baba ko apne roz o shaam
+  Chain na aaya aap ko din bhar
 
   5
-  Roti thi jab baali sakina
+  Roti thi jab baali Sakina
   Durre lagaata tha zaalim
   Sadme sahe sab aap ne dil par
 
   6
-  Kaantoṅ pa paidal aap gaye
-  Az karbobala taa kufa o shaam
-  Aabile paaoṅ ke phute hai ye keh kar
+  Kaantoṅ pe paidal aap gaye
+  Az Karb o Bala taa Kufa o Shaam
+  Aable paaoṅ ke phute haiṅ ye keh kar
 
   7
-  Fatema zehra lene ko pursa
+  Fatema Zehra lene ko pursa
   Aati hai majlis meiṅ us jaa
-  Pursa do farhat tum bhi ye keh kar
+  Pursa do Farhat tum bhi ye keh kar
 ---
 
 أہل مدینہ کہتے تھے رو کر

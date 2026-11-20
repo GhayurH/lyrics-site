@@ -14,11 +14,11 @@ romanLyrics: |-
   Pyaasa hai tin roz se kunba Rasul ka
   Ae nehr-e-Alqama
 
-  Kuch tujh se dur bhi nahiṅ pyaasoṅ ka qaafila
+  Kuchh tujh se dur bhi nahiṅ pyaasoṅ ka qaafila
   Ae nehr-e-Alqama
 
   1
-  Allah re wafaa-e-alamdar-e-Karbala
+  Allah re wafaa-e-alamdaar-e-Karbala
   Qabza kiya Furaat pe paani nahiṅ piya
   Ae nehr-e-Alqama
 

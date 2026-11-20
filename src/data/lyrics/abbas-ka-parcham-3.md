@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Hota hai jahaṅ maatam-e-farzand-e-payambar
-  Ghazi ka alam bhi wahiṅ uncha nazar aaya
+  Ghaazi ka alam bhi wahiṅ uncha nazar aaya
 
   5
   Kya guzri na jaane dil-e-maadar pe ilaahi
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Nazroṅ meiṅ wohi phir gayi tasvir-e-Sakina
-  Ghazi ko jo behta hua darya nazar aaya
+  Ghaazi ko jo behta hua darya nazar aaya
 
   7
   Islaam ki tarikh meiṅ chauda sau sadi se
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   9
   Kehte haiṅ Khalil aaj mili khaab ki taabir
-  Sehra meiṅ jo Shabbir ka laasha nazar aaya
+  Sehraa meiṅ jo Shabbir ka laasha nazar aaya
 
   10
   Aankhoṅ se meri ashk chhalakne lage Mazhar

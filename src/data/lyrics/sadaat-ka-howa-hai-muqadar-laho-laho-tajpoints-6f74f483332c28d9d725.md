@@ -1,38 +1,66 @@
 ---
-title: "Sadaat Ka Howa Hai Muqadar Laho Laho"
+title: "سادات کا ہوا ہے مقدر لہو لہو"
+alternateTitle: "Sadaat Ka Howa Hai Muqadar Laho Laho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Bahlool"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sadaat ka howa hai muqadar laho laho
+  Masjid mein Mustafa ka baradar laho laho
+
+  1
+  Gonjay gi ab kahan pe Saloni ki woh sada
+  Masjid laho laho hai tu minbar laho laho
+  Tewar yeh keh rahe hain ummat ke aal se
+  Iss ghar ke hoon gaye Akbar-o-Asghar laho laho
+
+  2
+  Doba howa laho mein dekha jo Murtaza ko
+  Abbas ke howay hain tewar laho laho
+  Kitni sitam bhari hai yeh ekiswin ki raat
+  Rote rahe hain Syed shab bhar laho laho
+
+  3
+  Qad qotila amir ki deta hai ro sada
+  Jibreel ke howay hain shehpar laho laho
+  Zainab sanbhalo khud kko bole yeh ro Hussain
+  Hain dekhne tumhein tu bahatar laho laho
+
+  4
+  Sadaat ke naseeb se eidein nikal gayin
+  Jab se howay hain Muslim-o-Haider laho laho
+  Bahlool ab tu aaye woh lene ko inteqam
+  Jis ka keh ho gaya hai bhara ghar laho laho
 ---
 
-Sadaat Ka Howa Hai Muqadar Laho Laho.
-Masjid Mein Mustafa Ka Baradar Laho Laho.
+سادات کا ہوا ہے مقدر لہو لہو
+مسجد میں مصطفیٰ کا برادر لہو لہو
 
-1
-Gonjay Gi Ab Kahan Pe Saloni Ki Woh Sada.
-Masjid Laho Laho Hai Tu Minbar Laho Laho.
-Tewar Yeh Keh Rahe Hain Ummat Ke Aal Se.
-Iss Ghar Ke Hoon Gaye Akbar-o-Asghar Laho Laho.
+۱
+گونجے گی اب کہاں پہ سلونی کی وہ صدا
+مسجد لہو لہو ہے تو منبر لہو لہو
+تیور یہ کہہ رہے ہیں امت کے آل سے
+اس گھر کے ہو گئے اکبر و اصغر لہو لہو
 
-2
-Doba Howa Laho Mein Dekha Jo Murtaza Ko.
-Abbas Ke Howay Hain Tewar Laho Laho.
-Kitni Sitam Bhari Hai Yeh Ekiswin Ki Raat.
-Rote Rahe Hain Syed Shab Bhar Laho Laho.
+۲
+ڈوبا ہوا لہو میں دیکھا جو مرتضیٰ کو
+عباس کے ہوئے ہیں تیور لہو لہو
+کتنی ستم بھری ہے یہ اکیسویں کی رات
+روتے رہے ہیں سید شب بھر لہو لہو
 
-3
-Qad Qotila Amir Ki Deta Hai Ro Sada.
-Jibreel Ke Howay Hain Shehpar Laho Laho.
-Zainab Sanbhalo Khud KKo Bole Yeh Ro Hussain.
-Hain Dekhne Tumhein Tu Bahatar Laho Laho.
+۳
+قد قُتِلَ امیر کی دیتا ہے رو صدا
+جبریل کے ہوئے ہیں شہپر لہو لہو
+زینب سنبھالو خود کو بولے یہ رو حسین
+ہیں دیکھنے تمہیں تو بہتر لہو لہو
 
-4
-Sadaat Ke Naseeb Se Eidein Nikal Gayin.
-Jab Se Howay Hain Muslim-o-Haider Laho Laho.
- Bahlool Ab Tu Aaye Woh Lene Ko Inteqam.
-Jis Ka Keh Ho Gaya Hai Bhara Ghar Laho Laho.
+۴
+سادات کے نصیب سے عیدیں نکل گئیں
+جب سے ہوئے ہیں مسلم و حیدر لہو لہو
+بہلول اب تو آئے وہ لینے کو انتقام
+جس کا کہ ہو گیا ہے بھرا گھر لہو لہو

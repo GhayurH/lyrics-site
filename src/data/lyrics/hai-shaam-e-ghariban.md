@@ -20,12 +20,12 @@ romanLyrics: |-
   1
   Karbal meiṅ dhal gaye haiṅ shaam-e-alam ke saaye
   Baithi hai dukhi Zainab laashoṅ pe sar jhukaaye
-  Hai dhundti maqtal meiṅ bachchoṅ ko bibiyaṅ
+  Hai dhundti maqtal meiṅ bachchoṅ ko bibiyaaṅ
 
   2
   Waaris gaye sab maare jaaye to kidhar jaaye
-  Al haafiz o hafiz ki hai aa rahi sadaaeṅ
-  Ho gayi hai sar barehna Zahra ki betiyaṅ
+  Al-Haafiz ki hai aa rahi sadaaeṅ
+  Ho gayi hai sar barehna Zahra ki betiyaaṅ
 
   3
   Baaba ki sada sun kar aayi laash pe Sakina
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Jalta hua daaman hai kaanoṅ se lahu jaari
-  Hai maarte tamaache Quraan ke ye qaari
+  Hai maarte tamaanche Quraan ke ye qaari
   Kehti thi ro Sakina baaba ho tum kahaaṅ
 
   5

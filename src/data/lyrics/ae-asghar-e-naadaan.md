@@ -24,7 +24,7 @@ romanLyrics: |-
   Maidaaṅ ko tum jaate ho Allah nigahbaaṅ
 
   3
-  Rakha tha tumheiṅ maiṅ ne zamaane se bacha ke
+  Rakha tha tumhi main ne zamaane se bacha ke
   Sine se laga ke
   Is dasht meiṅ tum maaṅ se bichharte ho meri jaaṅ
 
@@ -34,9 +34,9 @@ romanLyrics: |-
   Maidaan se jald aaiyo ye maaṅ tere qurbaaṅ
 
   5
-  Tum hote jawaaṅ shaan se maiṅ byaah rachaati
+  Tum hote jawaaṅ shaan se main byaah rachaati
   Aur dulha banaati
-  Maiṅ lutti huṅ milta hai mera khaak meiṅ armaaṅ
+  Main lutti huṅ milta hai mera khaak meiṅ armaaṅ
 ---
 
 اے اصغر ناداں

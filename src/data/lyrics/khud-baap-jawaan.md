@@ -16,12 +16,12 @@ romanLyrics: |-
   Ya Rab kisi dushman pe bhi ye waqt na aaye
 
   1
-  Sheh se Ali Akbar ka janaaza na uthega
+  Sheh se Ali Akbar ka janaaza na uthe ga
   Darya se koi jaa ke Alamdar ko laaye
 
   2
   Yuṅ tez qadam jaanib-e-khaima chale Sarwar
-  Ghabra ke kahiṅ ran meiṅ na Zainab nikal aaye
+  Ghabra ke kahiṅ ran mein na Zainab nikal aaye
 
   3
   Sehre ki jagah dekhe jawaaṅ bete ki mayyat

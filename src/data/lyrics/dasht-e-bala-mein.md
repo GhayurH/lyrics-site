@@ -14,22 +14,22 @@ published: true
 romanLyrics: |-
   Haae maara gaya Ibn-e-Hasan
 
-  Dasht-e-bala meiṅ gunji ye Shabbir ki sada
+  Dasht-e-balaa meiṅ gunji ye Shabbir ki sadaa
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   1
-  Qasim hamaare bhaiya Hasan ki tha yaadgaar
+  Qaasim hamaare bhaiya Hasan ki tha yaadgaar
   Ab kaun ham ko keh ke pukaarega ae chacha
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   2
-  Abbas tum bhi saath chalo dasht-e-zaar meiṅ
+  Abbaas tum bhi saath chalo dasht-e-zaar meiṅ
   Wo laasha ham se tanha sameta na jaaega
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   3
   Wo paara paara laash uthaane ke waaste
-  Keh kar bichhaai Sarwar-e-mazlum ne aba
+  Keh kar bichhaai Sarwar-e-mazlum ne abaa
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   6
-  Dulha ajib shaan ka hai Qasim-e-Hasan
+  Dulha ajib shaan ka hai Qaasim-e-Hasan
   Ke jis ka sehra sajne se pehle bikhar gaya
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   8
   Jab khaimagaah pahunche to nauha yehi parhe
-  Maula se hai ye Majid o Mukhtar ki dua
+  Maula se hai ye Maajid o Mukhtaar ki duaa
   Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 ---
 ہائے مارا گیا ابنِ حسن

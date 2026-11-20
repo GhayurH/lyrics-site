@@ -1,29 +1,48 @@
 ---
-title: "Al-Amaan Al-Amaan"
+title: "الامان الامان"
+alternateTitle: "Al-Amaan Al-Amaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Naqvi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rote hain Mehdi soch ke Zainab ki siskiyaan
+
+  1
+  Har samt tamashai hain logon ki bheer hai
+  Zad mein hai pathron ki ab mazloom-e-karwaan
+  Abid ko gham yeh kha gaya be-parda kyun gayin
+  Darbar mein Yazid ke Zahra ki betiyaan
+  Ghairat ka imtehan hai Sajjad ke liye
+  Iss ke galay mein tauq hai paon mein beriyaan
+
+  2
+  Uthta nahi hai lasha-e-Akbar Hussain se
+  Beta jawaan hai baap hai majboor na-tawaan
+  Zakhmi howa jo teer se be-sheer ka gala
+  Tarpa tarap ke reh gaya hathon pe be-zabaan
+  Yeh gham hai kainat ko aye Naqvi-o- Hasan
+  Karb-o-Bala mein lut gayin Zahra ki betiyaan
 ---
 
-Rote Hain Mehdi Soch Ke Zainab Ki Siskiyaan.
+روتے ہیں مہدی سوچ کے زینب کی سسکیاں
 
-1
-Har Samt Tamashai Hain Logon Ki Bheer Hai.
-Zad Mein Hai Pathron Ki Ab Mazloom-e-Karwaan.
-Abid Ko Gham Yeh Kha Gaya Be-Parda Kyun Gayin.
-Darbar Mein Yazid(L) Ke Zahra Ki Betiyaan.
-Ghairat Ka Imtehan Hai Sajjad Ke Liye.
-Iss Ke Galay Mein Tauq Hai Paon Mein Beriyaan.
+۱
+ہر سمت تماشائی ہیں لوگوں کی بھیڑ ہے
+زد میں ہے پتھروں کی اب مظلومِ کارواں
+عابد کو غم یہ کھا گیا بے پردہ کیوں گئیں
+دربار میں یزید کے زہرا کی بیٹیاں
+غیرت کا امتحان ہے سجاد کے لیے
+اس کے گلے میں طوق ہے پاؤں میں بیڑیاں
 
-2
-Uthta Nahi Hai Lasha-e-Akbar Hussain Se.
-Beta Jawaan Hai Baap Hai Majboor Na-Tawaan.
-Zakhmi Howa Jo Teer Se Be-Sheer Ka Gala.
-Tarpa Tarap Ke Reh Gaya Hathon Pe Be-Zabaan.
-Yeh Gham Hai Kainat Ko Aye Naqvi-o- Hasan.
-Karb-o-Bala Mein Lut Gayin Zahra Ki Betiyaan.
+۲
+اٹھتا نہیں ہے لاشۂ اکبر حسین سے
+بیٹا جوان ہے باپ ہے مجبور ناتواں
+زخمی ہوا جو تیر سے بے شیر کا گلا
+تڑپا تڑپ کے رہ گیا ہاتھوں پہ بے زباں
+یہ غم ہے کائنات کو اے نقوی و حسن
+کرب و بلا میں لٹ گئیں زہرا کی بیٹیاں

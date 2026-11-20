@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abid ko har qadam pe satatay rahe zalim
-  Hans hans ke taziyane lagatay rahe zalim
-  Syedaniyon ki naizon pa rakhte they chadarein
-  Maula ko aise khon rolatay rahe zalim
+  Aabid ko har qadam pe sataate rahe zaalim
+  Hans hans ke taaziyaane lagaate rahe zaalim
+  Sayyidaaniyoṅ ki nezoṅ pe rakhte the chaadareṅ
+  Maula ko aise khun rulaate rahe zaalim
 
   2
-  Zain-al-Iba ki pusht pe bazar-e-Sham mein
-  Durron se sanad deein ki sajatay rahe zalim
-  Zahra ki shabeeh bint-e-Hussain ibn-e-Ali ko
-  Baba ka sar dikha ke rulatay rahe zalim
+  Zain al Aba ki pusht pe baazaar-e-Shaam mein
+  Durroṅ se sanad din ki sajaate rahe zaalim
+  Zahra ki shabih bint-e-Husain ibn-e-Ali ko
+  Baaba ka sar dikha ke rulaate rahe zaalim
 
   3
-  Jis sar pa saja dekha Muhammad ka amama
-  Naizay pe ossi sar ko uthatay rahe zalim
+  Jis sar pe saja dekha Muhammad ka imaama
+  Neze pe usi sar ko uthaate rahe zaalim
   Dekha jo Sakina ko kabhi sote qaid mein
-  Zanjeer-e-na-tawaan ko hilatay rahe zalim
+  Zanjir-e-naatawaaṅ ko hilaate rahe zaalim
 
   4
-  Allah re Sajjad ki pardis mein ghurbat
-  Zewar badan ke our barhatay rahe zalim
-  Afraz deen bachana tha mere Imam ne
-  Chup chap saha zalim jo dhatay rahe zalim
+  Allaah re Sajjaad ki pardes mein ghurbat
+  Zewar badan ke aur barhaate rahe zaalim
+  Afraaz din bachaana tha mere Imaam ne
+  Chup chaap saha zaalim jo dhaate rahe zaalim
 ---
 
 ۱

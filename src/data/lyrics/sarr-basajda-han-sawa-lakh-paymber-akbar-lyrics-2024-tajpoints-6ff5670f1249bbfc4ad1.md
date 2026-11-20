@@ -1,38 +1,66 @@
 ---
-title: "Sarr BaSajda Han Sawa Lakh Paymber Akbar Lyrics 2024"
+title: "سر بسجدہ ہیں سوا لاکھ پیمبر اکبر"
+alternateTitle: "Sar Ba Sajda Hain Sawa Lakh Paymber Akbar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sarr ba sajda han sawa lakh Paymber Akbar Zawar Ali Raza
+  Tera andaz-e-azaan Allah Akbar Akbar
+
+  1
+  Khalq mein khulq mein teenat mein Muhammad ki misal
+  Kaun aaye ga tere qad ke barabar Akbar
+  Hai Ali naam Payamber sa sarapa tera
+  Tu Muhammad hai kabhi our kabhi Haider Akbar
+
+  2
+  Tere laiq thi woh kamli wohi kali kamli
+  Tere shayan tha hijrat ka woh bistar Akbar
+  Aainay taktay hain herani se aa aa ke unhein
+  Youn chamaktay hain tere shehar ke pathar Akbar
+
+  3
+  Husan-e-yousuf ka howa jata hai charcha basi
+  Baat hoti hai tere husan ki ghar ghar Akbar
+  Teri tazeem mein ik yeh bhi hai rutba shamil
+  Tu Sakina si behan ka hai baradar Akbar
+
+  4
+  Subha woh subha tere noor se roshan roshan
+  Sham woh sham keh pardah tere rukh par Akbar
+  Jaisay Salman ko detey they Muhammad aawaz
+  Kash youn mujh ko pukarein Ali Akbar Akbar
 ---
 
-Sarr BaSajda Han Sawa Lakh Paymber Akbar Zawar Ali Raza
-Tera Andaz-e-Azaan ALLAH Akbar Akbar.
+سر بسجدہ ہیں سوا لاکھ پیمبر اکبر زوار علی رضا
+تیرا اندازِ اذاں اللہ اکبر اکبر
 
-1
-Khalq Mein Khulq Mein Teenat Mein Muhammad Ki Misal.
-Kaun Aaye Ga Tere Qad Ke Barabar Akbar.
-Hai Ali Naam Payamber Sa Sarapa Tera.
-Tu Muhammad Hai Kabhi Our Kabhi Haider Akbar.
+۱
+خلق میں خُلق میں طینت میں محمد کی مثال
+کون آئے گا تیرے قد کے برابر اکبر
+ہے علی نام پیمبر سا سراپا تیرا
+تو محمد ہے کبھی اور کبھی حیدر اکبر
 
-2
-Tere Laiq Thi Woh Kamli Wohi Kali Kamli.
-Tere Shayan Tha Hijrat Ka Woh Bistar Akbar.
-Aainay Taktay Hain Herani Se Aa Aa Ke Unhein.
-Youn Chamaktay Hain Tere Shehar Ke Pathar Akbar.
+۲
+تیرے لائق تھی وہ کملی وہی کالی کملی
+تیرے شایاں تھا ہجرت کا وہ بستر اکبر
+آئینے تکتے ہیں حیرانی سے آ آ کے انہیں
+یوں چمکتے ہیں تیرے شہر کے پتھر اکبر
 
-3
-Husan-e-Yousuf Ka Howa Jata Hai Charcha Basi.
-Baat Hoti Hai Tere Husan Ki Ghar Ghar Akbar.
-Teri Tazeem Mein Ik Yeh Bhi Hai Rutba Shamil.
-Tu Sakina Si Behan Ka Hai Baradar Akbar.
+۳
+حسنِ یوسف کا ہوا جاتا ہے چرچا باسی
+بات ہوتی ہے تیرے حسن کی گھر گھر اکبر
+تیری تعظیم میں اک یہ بھی ہے رتبہ شامل
+تو سکینہ سی بہن کا ہے برادر اکبر
 
-4
-Subha Woh Subha Tere Noor Se Roshan Roshan.
-Sham Woh Sham Keh Pardah Tere Rukh Par Akbar.
-Jaisay Salman Ko Detey They Muhammad Aawaz.
-Kash Youn Mujh Ko Pukarein Ali Akbar Akbar.
+۴
+صبح وہ صبح تیرے نور سے روشن روشن
+شام وہ شام کہ پردہ تیرے رخ پر اکبر
+جیسے سلمان کو دیتے تھے محمد آواز
+کاش یوں مجھ کو پکاریں علی اکبر اکبر

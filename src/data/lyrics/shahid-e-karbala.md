@@ -15,7 +15,7 @@ romanLyrics: |-
   Tabassum hai tera shamshir Asghar
 
   1
-  Madine meiṅ faqat kuchh din ka sin tha
+  Madine meiṅ faqat kuchh din ka sinn tha
   Ke tu ne chhor di aaghosh-e-Sughra
   Tha dil meiṅ tere qurbaani ka jazba
   Tu hai jaan-e-dil-e-Shabbir Asghar
@@ -24,17 +24,17 @@ romanLyrics: |-
   Yeh hai pyaasa musaafir aur kamsin
   Hai is ki mutthiyaṅ bhi band lekin
   Yeh kar sakta hai naamumkin ko mumkin
-  Karega din ki taamir Asghar
+  Kare ga din ki taamir Asghar
 
   3
   Akele ran meiṅ the Sibt-e-Payambar
   Magar kitna yaqin tha un ko tujh par
-  Ke maqtal meiṅ sada hal min ki de kar
+  Ke maqtal meiṅ sadaa hal min ki de kar
   Bulaate haiṅ tujhe Shabbir Asghar
 
   4
   Barasta khun Karbal ki hawa meiṅ
-  Woh hal min ki sada dasht-e-bala meiṅ
+  Woh hal min ki sadaa dasht-e-bala meiṅ
   Woh tera ran ko aana is faza meiṅ
   Baraa-e-nusrat-e-Shabbir Asghar
 
@@ -45,8 +45,8 @@ romanLyrics: |-
   Mukammal sabr ki tasvir Asghar
 
   6
-  Na bhulega zamaana tera ehsaaṅ
-  Tabassum tera fath-e-haq ka aelaan
+  Na bhule ga zamaana tera ehsaaṅ
+  Tabassum tera fatah-e-haq ka aelaan
   Tu hai beshir magar mard-e-maidaaṅ
   Atash ke kaarwaaṅ ke mir Asghar
 ---

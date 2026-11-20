@@ -19,12 +19,12 @@ romanLyrics: |-
   Majma-e-aam meiṅ bewatan beamaaṅ aa gaya karwaaṅ
 
   1
-  Maiṅ bhi huṅ Marziya bint-e-Khair-un-Nisa
+  Main bhi huṅ Marziya bint-e-Khair-un-Nisa
   Mere lehje meiṅ hai Baba teri ada
   Naam Zainab mera tu ne jo rakh diya de de apni zubaaṅ
 
   2
-  Baba jaaṅ maiṅ rida maangti reh gayi
+  Baba jaaṅ main rida maangti reh gayi
   Baam o dar saj gaye jite ji mar gayi
   Halqa-e-Shaam meiṅ naam sun kar mera mar gaya naatawaaṅ
 
@@ -46,16 +46,16 @@ romanLyrics: |-
 
   6
   Shaam-e-Aashur se Shaam o Kufa talak
-  Maiṅ ne maanga nahiṅ hai khiraaj-e-Fadak
+  Main ne maanga nahiṅ hai khiraaj-e-Fadak
   Meri chaadar se hai meri maaṅ ka sukuṅ sun le zaalim jahaaṅ
 
   7
-  Kal thi maaṅ aaj maiṅ bhi huṅ darbaar meiṅ
-  Misl-e-Zahra khari huṅ maiṅ aghyaar meiṅ
+  Kal thi maaṅ aaj main bhi huṅ darbaar meiṅ
+  Misl-e-Zahra khari huṅ main aghyaar meiṅ
   Us taraf haiṅ shaqi is taraf reh gayiṅ bepidar betiyaaṅ
 
   8
-  Aisa khutba diya maiṅ ne darbaar meiṅ
+  Aisa khutba diya main ne darbaar meiṅ
   Likh raha hai jo Yawar tere pyaar meiṅ
   Lehja-e-Haidari har azaaṅ ke liye hai sada-e-azaaṅ
 ---

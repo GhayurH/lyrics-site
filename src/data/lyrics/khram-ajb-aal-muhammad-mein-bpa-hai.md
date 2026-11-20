@@ -8,79 +8,49 @@ poet: "Anees Pehersari"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Kohram ajab aale Muhammad may bapa hay
-
+romanLyrics: |-
+  Kohram ajab Aal-e-Muhammad mein bapa hai
 
   1
-
-  Ab sibte nabi behre wigha ran ko chala hay
-
-  1) Lipti hui daman se ye kehti thi Sakina
-
-  May jaane nahi doongi ye ran dashte bala hay
-
+  Ab sibt-e-Nabi bahr-e-wagha ran ko chala hai
+  Lipti hui daaman se ye kehti thi Sakina
+  Main jaane nahiṅ duṅ gi ye ran dasht-e-bala hai
 
   2
-
-  2) Jo bhi gaya wo laut ke ghar may nahi aaya
-
-  Qasim ka na Akbar ka na ammu ka pata hay
-
+  Jo bhi gaya wo laut ke ghar mein nahiṅ aaya
+  Qasim ka na Akbar ka na ammuṅ ka pata hai
 
   3
-
-  3) Asghar hay kahan aap gaye thay unhe lekar
-
-  Kya wo bhi giraftaar-e-bala ran may hua hay
-
+  Asghar haiṅ kahaaṅ aap gaye the unheṅ le kar
+  Kya wo bhi giraftaar-e-bala ran mein hua hai
 
   4
-
-  4) Aap aaye hain ruksat ke liye faisla karke
-
-  Kyun zuljana-e-shah bhi dweori pe khada hay
-
+  Aap aaye haiṅ rukhsat ke liye faisla kar ke
+  Kiuṅ Zuljanah-e-Shah abhi deorhi pe khara hai
 
   5
-
-  5) May jaake lipat jaaungi paon se jo uske
-
-  Jaayega na rehwaar agar kuch bhi haya hay
-
+  Main ja ke lipat jaauṅ gi paauṅ se jo us ke
+  Jaaye ga na raahwaar agar kuchh bhi haya hai
 
   6
-
-  6) Goya huay lipta ke Sakina ko ye Shabbir
-
-  Jo kuch bhi kaho tum ye meri laal baja hay
-
+  Goya hue lipta ke Sakina ko ye Shabbir
+  Jo kuchh bhi kaha tu ne meri jaan baja hai
 
   7
-
-  7) Ham jaate hay lene ke liye pani jo mil jaaye
-
-  Beti ko meri tashnagi had se siva hay
-
+  Ham jaate haiṅ lene ke liye paani jo mil jaaye
+  Beti ko meri tashnagi ab had se siwa hai
 
   8
-
-  8) Farmaya tarap kar ye Sakina ne ke baba
-
-  Pani ka na lo naam mujhe marna rawa hay
-
+  Farmaaya tarap kar ye Sakina ne ke baba
+  Paani ka na lo naam mujhe marna rawa hai
 
   9
-
-  9) Baba na kabhi maangungi may ab pani kisi se
-
-  Is pani ki khatir hi chacha mujhse chuta hay
-
+  Baba na kabhi maanguṅ gi main ab paani kisi se
+  Is paani ki khaatir hi chacha mujh se chhuta hai
 
   10
-
-  10) Rukhsat ka Anees haal raqam kis tarha hoga
-
-  Ab gham se qalam bhi to lahoo dena laga hay'
+  Rukhsat ka Anees haal raqam kis tarah ho ga
+  Ab gham se qalam bhi to lahu dena laga hai
 ---
 
 کہرام عجب آل محمدؑ میں بپا ہے

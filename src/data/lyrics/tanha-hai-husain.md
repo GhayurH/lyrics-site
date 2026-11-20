@@ -24,33 +24,33 @@ romanLyrics: |-
 
   1
   Mere Abbas dilaawar ko khabar do jaa kar
-  Tere aaqa pe na chal jaae laiṅ ka khanjar
+  Tere aaqa pe na chal jaae la'iṅ ka khanjar
   Haaṅ yehi waqt-e-musibat hai dikhaani hai wafa
 
   2
-  Ek pyase ko lainoṅ ne yahaaṅ ghera hai
+  Ek pyaase ko la'inoṅ ne yahaaṅ ghera hai
   Saat bhai na bhatija na koi beta hai
-  Haae is naizoṅ ke jangal meiṅ kise dega sada
+  Haaye is naizoṅ ke jangal meiṅ kise dega sadaa
 
   3
-  Dosti tum ko nibhani hai mere bhai ki
+  Dosti tum ko nibhaani hai mere bhai ki
   Aao maqtal se Habib ibn-e-Mazahir Asadi
   Shimr khanjar liye aata hai utho bahr-e-Khuda
 
   4
   Chur zakhmoṅ se badan saara lahu jaari hai
-  Haae kuch der meiṅ sar katne ki tayyaari hai
-  Hai Muhammad ke nawaase pe ajab waqt para
+  Haaye kuch der meiṅ sar katne ki tayyaari hai
+  Hai Muhammad ke nawaase pe ajab waqt paraa
 
   5
-  Darmiyaṅ zin o zamiṅ ke hai badan pyase ka
-  Dur hai dasht-e-bayaabaaṅ se watan pyase ka
-  Haae is aalam-e-ghurbat meiṅ koi bhi na raha
+  Darmiyaaṅ zin o zamiṅ ke hai badan pyaase ka
+  Dur hai dasht-e-bayaabaaṅ se watan pyaase ka
+  Haaye is aalam-e-ghurbat meiṅ koi bhi na rahaa
 
   6
   Ret ke tile se dekha ye sitam ka manzar
   Thi buka Safdar o Mazhar ye behan ke lab par
-  Aao imdaad ko ae baaba Ali maaṅ Zahra
+  Aao imdaad ko ae baabaa Ali maaṅ Zahra
 ---
 حسین جب کہ چلے بعد دو پہر رن کو
 نہ تھا کوئی جو تھامے رکاب توسن کو

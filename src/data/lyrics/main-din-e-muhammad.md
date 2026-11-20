@@ -1,7 +1,7 @@
 ---
 title: "میں دین محمد کو بقا دینے چلی ہوں"
 recitationId: "mai-deene-mohamed"
-alternateTitle: "Maiṅ Din-e-Muhammad"
+alternateTitle: "Main Din-e-Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,28 +12,28 @@ tags: []
 aliases: ["Mai Deene Mohamed"]
 published: true
 romanLyrics: |-
-  Maiṅ din-e-Muhammad ko baqa dene chali huṅ
+  Main din-e-Muhammad ko baqa dene chali huṅ
   Bimaar hai wo us ko shifa dene chali huṅ
 
   1
-  Islam tera dhup meiṅ baatil ki hai ya Rab
-  Islam pe maiṅ sar ki rida dene chali huṅ
+  Islam tera dhup mein baatil ki hai ya Rab
+  Islam pe main sar ki rida dene chali huṅ
 
   2
-  Allah mera hausla tum dekhna ban meiṅ
-  Abbas sa maiṅ Shaah-e-Wafa dene chali huṅ
+  Allah mera hausla tum dekhna ban mein
+  Abbas sa main Shaah-e-Wafa dene chali huṅ
 
   3
   Hamshakl-e-Payambar hai mujhe jaan se pyaara
-  Maiṅ tere liye us ka gala dene chali huṅ
+  Main tere liye us ka gala dene chali huṅ
 
   4
   Ab rang shahaadat ka tere diṅ pe charhe ga
-  Maiṅ Qasim o Kubra ki hina dene chali huṅ
+  Main Qasim o Kubra ki hina dene chali huṅ
 
   5
-  Tauhin imaamat ki hui dasht-e-bala meiṅ
-  Maiṅ Shaam meiṅ zaalim ko saza dene chali huṅ
+  Tauhin imaamat ki hui dasht-e-bala mein
+  Main Shaam mein zaalim ko saza dene chali huṅ
 
   6
   Ham Aal-e-Muhammad hai nahiṅ zulm se darte
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Tauqir kaha Bibi ne maatam ki sada se
-  Maiṅ qasr-e-Yazidi ko mita dene chali huṅ
+  Main qasr-e-Yazidi ko mita dene chali huṅ
 ---
 میں دین محمد کو بقا دینے چلی ہوں
 بیمار ہے وہ اس کو شفا دینے چلی ہوں

@@ -1,29 +1,47 @@
 ---
-title: "Kehya Zainab Nana Ayi Aan Main Karan Salam Akheri Lyrics 2022"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کہیا زینب نانا آئی آں میں کراں سلام اَخیری"
+alternateTitle: "Kehya Zainab Nana Ayi Aan Main Karan Salam Akheri"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kehya Zainab Nana ayi aan main karan salam akheri
+  Teri Zainab di aj muk gayi aye haye paykay shehar ameeri
+  Jana aye sohne Akbar di jageer wasawan layi
+  Meri Sughra ne kaliyaan rehna haye iss jageer che teri
+
+  2
+  Walaan wich teri turbat di kujh khak wasa laan main
+  Ik saal taein fair walaan te koi chadar hoor nayi honi
+  Rehna aye safar oh melaan da sanghaan taun cheetay wich
+  Naa shehraan de bhul jane ne bas rehni yaad aseeri
+
+  3
+  Tere darbar galiyaan nu pehchan nayi rehni
+  Aynj Abid te aa jani aye ik saal de baad zaeefi
+  Kehndi si Akbar aye Bibi but Sham de toraan gi
+  Bas ik wari main kat aawaan Nana darbar di peshi
 ---
 
-1
-Kehya Zainab Nana Ayi Aan Main Karan Salam Akheri.
-Teri Zainab Di Aj Muk Gayi Aye Haye Paykay Shehar Ameeri.
-2- Jana Aye Sohne Akbar Di Jageer Wasawan Layi.
-Meri Sughra Ne Kaliyaan Rehna Haye Iss Jageer Che Teri.
+۱
+کہیا زینب نانا آئی آں میں کراں سلام اَخیری
+تیری زینب دی اج مک گئی اے ہائے پیکے شہر امیری
+جانا اے سوہنے اکبر دی جاگیر وساون لئی
+میری صغریٰ نے کلیاں رہنا ہائے اِس جاگیر چ تیری
 
-2
-3- Walaan Wich Teri Turbat Di Kujh Khak Wasa Laan Main.
-Ik Saal Taein Fair Walaan Te Koi Chadar Hoor Nayi Honi.
-4- Rehna Aye Safar Oh Melaan Da Sanghaan Taun Cheetay Wich.
-Naa Shehraan De Bhul Jane Ne Bas Rehni Yaad Aseeri.
+۲
+والاں وچ تیری تربت دی کجھ خاک وسا لاں میں
+اک سال تائیں فیر والاں تے کوئی چادر ہور نئیں ہونی
+رہنا اے سفر اوہ میلاں دا سنگھاں توں چیتے وچ
+ناں شہراں دے بھل جانے نے بس رہنی یاد اسیری
 
-3
-5- Tere Darbar Galiyaan Nu Pehchan Nayi Rehni.
-Aynj Abid Te Aa Jani Aye Ik Saal De Baad Zaeefi.
-6- Kehndi Si Akbar Aye Bibi But Sham De Toraan Gi.
-Bas Ik Wari Main Kat Aawaan Nana Darbar Di Peshi
+۳
+تیرے دربار گلیاں نوں پہچان نئیں رہنی
+اینج عابد تے آ جانی اے اک سال دے بعد ضعیفی
+کہندی سی اکبر اے بی‌بی بُت شام دے توڑاں گی
+بس اک واری میں کٹ آواں نانا دربار دی پیشی

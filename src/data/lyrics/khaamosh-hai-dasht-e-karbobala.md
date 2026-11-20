@@ -21,12 +21,12 @@ romanLyrics: |-
   Aane do qayaamat aane do
   Boleṅ ge lab-e-qudrat khud hi
   Ik bakhshish-e-ummat ki khaatir
-  Shabbir ne kya kuch de daala
+  Shabbir ne kya kuchh de daala
 
   2
   Hai mashk-e-Sakina kaandhe par
   Hoshiyaar taraai se aada
-  Khaali na phirega darya se
+  Khaali na phire ga darya se
   Darya ki taraf aane waala
 
   3

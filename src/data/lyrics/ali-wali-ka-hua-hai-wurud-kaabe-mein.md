@@ -19,25 +19,25 @@ romanLyrics: |-
   1
   Ye aa rahi hai sada mimbar-e-Saluni se
   Hai shehr to is ka dar hai Ali
-  Ehata is ki fazilat ka ho nahi sakta
-  Hamare fahm o farasat se balatar hai Ali
+  Ihaata is ki fazilat ka ho nahiṅ sakta
+  Hamare fahm o faraasat se baalaatar hai Ali
 
   2
   Ali hai Haider o Safdar Ali Shah-e-Mardaaṅ
   Raqam haiṅ sab ke diloṅ par fazilateiṅ us ki
-  Ho jang Khaibar o Khandaq Uhud ke Badr o Hunain
+  Ho jang-e-Khaibar o Khandaq Uhud ke Badr o Hunain
   Hai din ki fath-e-mubin sab shujaateiṅ us ki
 
   3
   Ali wo naasir o mushkil-kusha-e-aalam hai
   Khuda ne bakhshi haiṅ jis ko karamateiṅ saari
-  Ali ko jis ne madad ke liye pukara hai
+  Ali ko jis ne madad ke liye pukaara hai
   Ali ne taal diṅ us ki musibateiṅ saari
 
   4
   Khuda ke nur ka hissa Nabi Nabi ka Ali
   Nabi Ali ke sab anwaar ek jaise haiṅ
-  Agar ho shak hijrat ko dekh le dunya
+  Agar ho shak hijrat ko dekh le duniya
   Khuda ke donoṅ ye shahkaar ek jaise haiṅ
 
   5
@@ -47,10 +47,10 @@ romanLyrics: |-
   Isi amal se ibaarat haiṅ majliseiṅ apni
 
   6
-  Ali wali hai wo dast-e-Khuda zamane meiṅ
+  Ali wali hai wo dast-e-Khuda zamaane meiṅ
   Ke jis ka dast-e-karam mazhar-ul-ajaib hai
-  Khuda aur us ki khudai bhi jis pe naaz kare
-  Yehi wo fakhr-e-nabuwat Nabi ka naaib hai
+  Khuda aur us ki khudaai bhi jis pe naaz kare
+  Yehi wo fakhr-e-nabuwwat Nabi ka naaib hai
 ---
 علی ولی کا ہوا ہے ورود کعبے میں
 فلک سے پہنچی صدائے درود کعبے میں

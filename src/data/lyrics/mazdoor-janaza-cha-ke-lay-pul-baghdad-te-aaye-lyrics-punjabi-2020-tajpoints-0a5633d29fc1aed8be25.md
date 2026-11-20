@@ -1,30 +1,50 @@
 ---
-title: "Mazdoor Janaza Cha Ke Lay Pul Baghdad Te Aaye Lyrics Punjabi 2020"
+title: "مزدور جنازہ چا کے لے پل بغداد تے آئے"
+alternateTitle: "Mazdoor Janaza Cha Ke Lay Pul Baghdad Te Aaye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Naeem"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mazdoor janaza cha ke lay pul Baghdad te aaye
+  Ik qaidi mar gaya qaid de wich koi aa zanjeer lahaway
+  Riya chodah saal raku de wich Syed wich qaid de deen layi
+  Ainu samajh be waris be deena dita zehar imam nu peen layi
+  Aidha hai koi lagda te aa ke aidhi lash nu ghar le jaway
+  Dastoor zamane da loko jadon qaidi mar jaye qaid de wich
+  Odha kafan dafan lagday kar ke fair aap lahanday lehad de wich
+  Aye maiyyat aye Mosa-e-Kazim di ainu ghair na koi hath laway
+  Mazdoraan taun pochiya tawa aye kis beemar nu chaya aye
+  Aye Karbal walay Syedaan da chewein imam da jaya aye
+  Aidhi dhiyaan nu itela diyo yaan aap Raza aa jaway
+  Abbas de bazu qalam hoye bachiyaan di tas be chain kita
+  Sir nangay kar mastoraan nu nalay Karbal qatal Hussain kita
+  Kis jurm na Aal-e-Muhammad taein aye zalimaan zulm kamaye
+  Dita hukam sipahiyaan nu zalim ainu hor v sakht saza diyo
+  Na jaway apne ghar de wal ainu hor zanjeeraan pa diyo
+  Kiwein Naeem Saqeefay waliyaan ne chun chun ke Syed ne marey
 ---
 
-1
-Mazdoor Janaza Cha Ke Lay Pul Baghdad Te Aaye.
-Ik Qaidi Mar Gaya Qaid De Wich Koi Aa Zanjeer Lahaway.
-Riya Chodah Saal Raku De Wich Syed Wich Qaid De Deen Layi.
-Ainu Samajh Be Waris Be Deena Dita Zehar Imam Nu Peen Layi.
-Aidha Hai Koi Lagda Te Aa Ke Aidhi Lash Nu Ghar Le Jaway.
-Dastoor Zamane Da Loko Jadon Qaidi Mar Jaye Qaid De Wich.
-Odha Kafan Dafan Lagday Kar Ke Fair Aap Lahanday Lehad De Wich.
-Aye Maiyyat Aye Mosa-e-Kazim Di Ainu Ghair Na Koi Hath Laway.
-Mazdoraan Taun Pochiya Tawa Aye Kis Beemar Nu Chaya Aye.
-Aye Karbal Walay Syedaan Da Chewein Imam Da Jaya Aye.
-Aidhi Dhiyaan Nu Itela Diyo Yaan Aap Raza Aa Jaway.
-Abbas De Bazu Qalam Hoye Bachiyaan Di Tas Be Chain Kita.
-Sir Nangay Kar Mastoraan Nu Nalay Karbal Qatal Hussain Kita.
-Kis Jurm Na Aal-e-Muhammad Taein Aye Zalimaan Zulm Kamaye.
-Dita Hukam Sipahiyaan Nu Zalim Ainu Hor V Sakht Saza Diyo.
-Na Jaway Apne Ghar De Wal Ainu Hor Zanjeeraan Pa Diyo.
-Kiwein Naeem Saqeefay Waliyaan Ne Chun Chun Ke Syed Ne Marey.
+۱
+مزدور جنازہ چا کے لے پل بغداد تے آئے
+اک قیدی مر گیا قید دے وچ کوئی آ زنجیر لاہوے
+ریہا چوداں سال رکوع دے وچ سید وچ قید دے دین لئی
+اینوں سمجھ بے وارث بے دیناں دتا زہر امام نوں پین لئی
+ایہدا ہے کوئی لگدا تے آ کے ایہدی لاش نوں گھر لے جاوے
+دستور زمانے دا لوکو جدوں قیدی مر جائے قید دے وچ
+اوہدا کفن دفن لگدے کر کے فیر آپ لاہندے لحد دے وچ
+ایہہ میت اے موسیٰ کاظم دی اینوں غیر نہ کوئی ہتھ لاوے
+مزدوراں توں پچھیا توا اے کس بیمار نوں چایا اے
+ایہہ کربل والے سیداں دا چھیویں امام دا جایا اے
+ایہدی دھیاں نوں اطلاع دیو یاں آپ رضا آ جاوے
+عباس دے بازو قلم ہوئے بچیاں دی تس بے چین کیتا
+سر ننگے کر مستوراں نوں نالے کربل قتل حسین کیتا
+کس جرم نال آلِ محمد تائیں اے ظالماں ظلم کمائے
+دتا حکم سپاہیاں نوں ظالم اینوں ہور وی سخت سزا دیو
+نہ جاوے اپنے گھر دے ول اینوں ہور زنجیراں پا دیو
+کیویں نعیم سقیفے والیاں نے چن چن کے سید نے مارے

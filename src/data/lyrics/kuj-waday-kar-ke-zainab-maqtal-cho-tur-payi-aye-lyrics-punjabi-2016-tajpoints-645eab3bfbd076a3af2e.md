@@ -1,26 +1,42 @@
 ---
-title: "Kuj Waday Kar Ke Zainab Maqtal Cho Tur Payi Aye Lyrics Punjabi 2016"
+title: "کجھ وعدے کر کے زینب مقتل چوں ٹر پئی اے"
+alternateTitle: "Kuj Waday Kar Ke Zainab Maqtal Cho Tur Payi Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeshaan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kuj waday kar ke Zainab maqtal cho tur payi aye
+  Kyun sadmay laine chan veran ki behan mar gayi aye
+
+  1
+  Hun chain naal sowein har dard bhul ke veeran
+  Sar uriyaan chadar dardaan di haye behan orhdi aye
+  Gham marda aye zalim babe di judai da
+  Sochein na zulm tun haye tere masooma dar gayi aye
+
+  2
+  Safraan de wich sanbhale mastoraan te balaan nu
+  Kadi maa ban ke kadi piyo ban ke har farz nibhandi aye
+  Zeshaan bazaraan te darbar qaid khane
+  Har moor te Zainab khud mar ke naa Rab da bacha gayi aye
 ---
 
-Kuj Waday Kar Ke Zainab Maqtal Cho Tur Payi Aye.
-Kyun Sadmay Laine Chan Veran Ki Behan Mar Gayi Aye.
+کجھ وعدے کر کے زینب مقتل چوں ٹر پئی اے
+کیوں صدمے لینے چن ویراں، کی بہن مر گئی اے؟
 
-1
-Hun Chain Naal Sowein Har Dard Bhul Ke Veeran.
-Sar Uriyaan Chadar Dardaan Di Haye Behan Orhdi Aye.
-Gham Marda Aye Zalim Babe Di Judai Da.
-Sochein Na Zulm Tun Haye Tere Masooma Dar Gayi Aye.
+۱
+ہن چین نال سوویں ہر درد بھل کے ویراں
+سر عریاں چادر درداں دی ہائے بہن اوڑھدی اے
+غم ماردا اے ظالم بابے دی جدائی دا
+سوچیں نہ ظلم توں ہائے تیرے معصوما ڈر گئی اے
 
-2
-Safraan De Wich Sanbhale Mastoraan Te Balaan Nu.
-Kadi Maa Ban Ke Kadi Piyo Ban Ke Har Farz Nibhandi Aye.
- Zeshaan Bazaraan Te Darbar Qaid Khane.
-Har Moor Te Zainab Khud Mar Ke Naa Rab Da Bacha Gayi Aye.
+۲
+سفراں دے وچ سنبھالے مستوراں تے بالاں نوں
+کدی ماں بن کے کدی پیو بن کے ہر فرض نبھاندی اے
+ذیشان بازاراں تے دربار قید خانے
+ہر موڑ تے زینب خود مر کے ناں رب دا بچا گئی اے

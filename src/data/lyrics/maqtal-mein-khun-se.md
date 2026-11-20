@@ -15,7 +15,7 @@ romanLyrics: |-
   Maqtal meiṅ khuṅ se laal hai Baano kaa naunihaal
 
   1
-  Abru wohi Husain ke palkeṅ Husain ki
+  Abru hi Husain ki palkeṅ Husain ki
   Tewar wohi Husain ke aankheṅ Husain ki
   Aaina-e-jamaal hai Baano kaa naunihaal
 
@@ -26,8 +26,8 @@ romanLyrics: |-
 
   3
   Allah re wo teri tabassum bhari nigaah
-  Ek aan meiṅ safeṅ hi palat di Khudaa gawaah
-  Haibat meiṅ ek jalaal hai Baano kaa naunihaal
+  Ik aan meiṅ safeṅ hi palat de Khudaa gawaah
+  Haibat meiṅ ik jalaal hai Baano kaa naunihaal
 
   4
   Teraa lahu zamin par girne nahiṅ diyaa
@@ -40,9 +40,9 @@ romanLyrics: |-
   Haathoṅ pe naunihaal hai Baano kaa naunihaal
 
   6
-  Uthtaa hai shor-e-girya jo ek khaima gaah se
+  Uthtaa hai shor-e-girya jo ik khaima gaah se
   Sab ban kaa ban laraztaa hai Baano ki aah se
-  Ek tir se nidhaal hai Baano kaa naunihaal
+  Ik tir se nidhaal hai Baano kaa naunihaal
 ---
 
 مقتل میں خوں سے لعل ہے بانو کا نونہال

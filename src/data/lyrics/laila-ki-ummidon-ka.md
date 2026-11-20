@@ -14,8 +14,8 @@ romanLyrics: |-
   Jab ghar se jawaaṅ beta marne ko chala hoga
 
   1
-  Laila ne tasavvur meiṅ socha bhi na tha shayad
-  Sar Akbar-e-Ghaazi ka neze pe charha hoga
+  Laila ne tasavvur meiṅ soncha bhi na tha shayad
+  Sar Akbar Ghaazi ka neze pe charha hoga
 
   2
   Athaara baras ka sin neze ki ani dil meiṅ

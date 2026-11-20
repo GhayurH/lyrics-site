@@ -1,35 +1,60 @@
 ---
-title: "Teri Nalain Pey Ya Zahra"
+title: "تیری نعلین پہ یا زہرا"
+alternateTitle: "Teri Nalain Pey Ya Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Teri nalain pe jab tak nahi ho ga Zahra
+  Ho nahi paye ga afzal koi sajdah Zahra
+  Tere Kausar ke qasiday ne issay pora kiya
+  Warna Quran-e-Muhammad tha adhora Zahra
+
+  2
+  Hai mila iss liye Mariyam ko pisar Esa sa
+  Karti rehti thi na sajdoon mein woh Zahra Zahra
+  Kurtay Hasnain ke janat se mangaye lekin
+  Kurta Abbas ka khud tu ne banaya Zahra
+
+  3
+  Noor nabiyon ki jabeeno pe yeh batlata hai
+  Aap ke dar pe woh kartay rahe sajdah Zahra
+  Wohi sajdah tu hai masjood ke hone ki daleel
+  Tere daman pe Ali ne jo kiya tha Zahra
+
+  4
+  Aa gaye Hazrat-e-Abbas madad ko meri
+  Main ne mushkil mein kaha hi tha abhi ya Zahra
+  Dar-e-Ghazi pe jabeen rakhi Asad ne tu mila
+  Jab bhi manga teri midhat ka saleeqa Zahra
 ---
 
-1
-Teri Nalain Pe Jab Tak Nahi Ho Ga Zahra.
-Ho Nahi Paye Ga Afzal Koi Sajdah Zahra.
-Tere Kausar Ke Qasiday Ne Issay Pora Kiya.
-Warna Quran-e-Muhammad Tha Adhora Zahra.
+۱
+تیری نعلین پہ جب تک نہیں ہو گا زہرا
+ہو نہیں پائے گا افضل کوئی سجدہ زہرا
+تیرے کوثر کے قصیدے نے اسے پورا کیا
+ورنہ قرآنِ محمد تھا ادھورا زہرا
 
-2
-Hai Mila Iss Liye Mariyam Ko Pisar Esa Sa.
-Karti Rehti Thi Na Sajdoon Mein Woh Zahra Zahra.
-Kurtay Hasnain Ke Janat Se Mangaye Lekin.
-Kurta Abbas Ka Khud Tu Ne Banaya Zahra.
+۲
+ہے ملا اس لیے مریم کو پسر عیسیٰ سا
+کرتی رہتی تھی نا سجدوں میں وہ زہرا زہرا
+کرتے حسنین کے جنت سے منگائے لیکن
+کرتا عباس کا خود تو نے بنایا زہرا
 
-3
-Noor Nabiyon Ki Jabeeno Pe Yeh Batlata Hai.
-Aap Ke Dar Pe Woh Kartay Rahe Sajdah Zahra.
-Wohi Sajdah Tu Hai Masjood Ke Hone Ki Daleel.
-Tere Daman Pe Ali Ne Jo Kiya Tha Zahra.
+۳
+نور نبیوں کی جبینوں پہ یہ بتلاتا ہے
+آپ کے در پہ وہ کرتے رہے سجدہ زہرا
+وہی سجدہ تو ہے مسجود کے ہونے کی دلیل
+تیرے دامن پہ علی نے جو کیا تھا زہرا
 
-4
-Aa Gaye Hazrat-e-Abbas Madad Ko Meri.
-Main Ne Mushkil Mein Kaha Hi Tha Abhi Ya Zahra.
-Dar-e-Ghazi Pe Jabeen Rakhi Asad Ne Tu Mila.
-Jab Bhi Manga Teri Midhat Ka Saleeqa Zahra.
+۴
+آ گئے حضرتِ عباس مدد کو میری
+میں نے مشکل میں کہا ہی تھا ابھی یا زہرا
+درِ غازی پہ جبیں رکھی اسد نے تو ملا
+جب بھی مانگا تیری مدحت کا سلیقہ زہرا

@@ -1,7 +1,7 @@
 ---
 title: "زندہ رہے زندہ رہے زندہ رہے"
 recitationId: "ay-azadare-hussaini-ye"
-alternateTitle: "Ae Azadar-e-Husaini Ye"
+alternateTitle: "Ae Azadaar-e-Husaini Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,18 +14,18 @@ published: true
 romanLyrics: |-
   Zinda rahe zinda rahe zinda rahe
 
-  Ae azadar-e-Husaini ye chalan zinda rahe
-  Haaṅ azakhane sajaane ki lagan zinda rahe
+  Ae azadaar-e-Husaini ye chalan zinda rahe
+  Haaṅ azaakhaane sajaane ki lagan zinda rahe
 
-  Jab azakhana saje to dil bane farsh-e-aza
-  Dharkanoṅ meiṅ matam-e-Shah-e-zaman zinda rahe
+  Jab azaakhaana saje to dil bane farsh-e-aza
+  Dharkanoṅ meiṅ maatam-e-Shaah-e-zaman zinda rahe
 
   1
-  Roz-e-Ashura julus-e-gham ko kya raahat se kaam
+  Roz-e-Aashura julus-e-gham ko kya raahat se kaam
   Yaad meiṅ pyaase asiroṅ ki thakan zinda rahe
 
   2
-  Ae azadaroṅ chalo mashk o alam ke saaye meiṅ
+  Ae azadaaroṅ chalo mashk o alam ke saaye meiṅ
   Ye tajammul ye hasham ye baak pan zinda rahe
 
   3
@@ -33,7 +33,7 @@ romanLyrics: |-
   Haaṅ wahaaṅ Zehra ke saare gul badan zinda rahe
 
   4
-  Sab azakhane hamaare sab hi apni majliseṅ
+  Sab azaakhaane hamaare sab hi apni majliseṅ
   Ae dua-e-Sayyida ye apna pan zinda rahe
 
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
   Dil meiṅ taabut-e-Sakina ki chubhan zinda rahe
 
   6
-  Nauhakhwaaṅ matam ke saaye meiṅ safar karte raheṅ
+  Nauha khwaaṅ maatam ke saaye meiṅ safar karte raheṅ
   Har bayaaz-e-gham khule har anjuman zinda rahe
 
   7

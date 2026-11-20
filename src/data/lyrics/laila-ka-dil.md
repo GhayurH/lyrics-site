@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Haye kya qayamat hai
-  Sina e akbar se takrayi sina
-  Tukre tukre hogaya laila ka dil
-  Ran meiṅ ghore se gira kariyal jawaaṅ
-  Tukre tukre hogaya laila ka dil
-  Jis ghari laaya gaya maadar ko laashe ke khareeb
-  Ungliyaṅ thi zulf e akbar meiṅ tarapti thi gharib
+  Sina-e-Akbar se takraai sanaaṅ
+  Tukre tukre ho gaya Laila ka dil
+  Ran mein ghore se gira kariyal jawaaṅ
+  Tukre tukre ho gaya Laila ka dil
+  Jis ghari laaya gaya maadar ko laashe ke qarib
+  Ungliyaaṅ thi zulf mein tarapti thi gharib
   Dekh kar sine pe barchi ka nishaṅ
-  Tukre tukre hogaya...
-  Chand se sine meiṅ uljha hai kahaṅ barchi ka phal
-  Maa ko batlade nikalegi koi mushkil ka hal
-  Kuch to moo se bol ae baba ki jaaṅ
-  Tukre tukre hogaya...
-  Khun ho kar reh gayi sab hasrateiṅ akbar ke saath
-  Barchiyoṅ ne lootli lamhoṅ meiṅ maa ki kayenat
-  Keh rahi hai ro ke saari bibiyaṅ
-  Tukre tukre hogaya...
+  Tukre tukre ho gaya...
+  Chaand se sine mein uljha hai kahaṅ barchi ka phal
+  Maaṅ ko batla de nikaalegi koi mushkil ka hal
+  Kuch to munh se bol ae baba ki jaaṅ
+  Tukre tukre ho gaya...
+  Khun ho kar reh gayi sab hasrateṅ Akbar ke saath
+  Barchiyoṅ ne lut li lamhoṅ mein maaṅ ki kaainaat
+  Keh rahi hai ro ke saari bibiyaaṅ
+  Tukre tukre ho gaya...
   Dekh kar naize pe apne laal ko rone lagi
-  Kaifiyat ek ghamzada maa ki ajab hone lagi
-  Qaatil e akbar nazar aaya jahaṅ
-  Tukre tukre hogaya...
-  Dekh kar naize pa sar akbar ka sab ne sar dhuna
+  Kaifiyat ek ghamzada maaṅ ki ajab hone lagi
+  Qaatil-e-Akbar nazar aaya jahaṅ
+  Tukre tukre ho gaya...
+  Dekh kar naize pe Akbar ka sab ne sar dhunaaṅ
   Aurtoṅ ko shaam ki jis waqt ye kehte suna
-  Mar gayi ho is jawaaṅ bete ki maa
-  Tukre tukre hogaya...
-  Aur kuch bhi barh gaya ek ghamzada maa ka malaal
-  Sun ke aansu aagaye bemaar beti ka sawaal
+  Mar gayi ho is jawaaṅ bete ki maaṅ
+  Tukre tukre ho gaya...
+  Aur kuch bhi barh gaya ek ghamzada maaṅ ka malaal
+  Sun ke aansuṅ aa gaye bemaar beti ka sawaal
   Hai kahaṅ jis dam pukari bhai jaaṅ
-  Tukre tukre hogaya...
-  Ye hua mehsus ke ashur ka din aagaya
-  Yaad ae karbobala tera muazzin aagaya
-  Masjidoṅ meiṅ jab kabhi gunji azaaṅ
-  Tukre tukre hogaya...
-  Apne yusuf ki judaai maa ko tarpane lagi
-  Chand si surat ali akbar ki yaad aane lagi
-  Chand ko tere jo dekha aasmaṅ
-  Tukre tukre hogaya...
-  Farshe majlis par azadaroṅ ka chehra zard hai
-  Aamir o akhtar har ek misre meiṅ itna dard hai
-  Sun ke nauha keh rahe hai do jahaṅ
-  Tukre tukre hogaya...
+  Tukre tukre ho gaya...
+  Ye hua mahsus ke Aashur ka din aa gaya
+  Yaad ae Karb o Bala tera muazzin aa gaya
+  Masjidoṅ mein jab kabhi gunji azaaṅ
+  Tukre tukre ho gaya...
+  Apne Yusuf ki judaai maaṅ ko tarpane lagi
+  Chaand si surat Ali Akbar ki yaad aane lagi
+  Chaand ko tere jo dekha aasmaaṅ
+  Tukre tukre ho gaya...
+  Farsh-e-majlis par azaadaaroṅ ka chehra zard hai
+  Aamir o Akhtar har ek misre mein itna dard hai
+  Sun ke nauha keh rahe haiṅ do jahaṅ
+  Tukre tukre ho gaya...
 ---
 
 ۱

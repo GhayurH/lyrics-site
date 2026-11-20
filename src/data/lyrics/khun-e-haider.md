@@ -16,14 +16,14 @@ romanLyrics: |-
   Zehra ka ghar luta hai haaye raah-e-Khuda meiṅ
 
   1
-  Ek fajr par hai sajda ek sajda asr par hai
-  Ek simt par hai beta ek simt pe padar hai
+  Ik fajr par hai sajda ik sajda asr par hai
+  Ik simt par hai beta ik simt pe padar hai
   Kya farq hai bataao donoṅ pe is jafa meiṅ
 
   2
   Kufe meiṅ Murtaza ki beti pe hai yatimi
   Shabbir ki yatima Karbobala meiṅ ujri
-  Hai Zainab o Sakina ek dard ki fiza meiṅ
+  Hai Zainab o Sakina ik dard ki fiza meiṅ
 
   3
   Kulsum aur Zainab parhti rahi hai nauha
@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Maalum tha Ali ko sajda na hoga pura
   Sarwar ko bhi pata hai ab aakhri hai sajda
-  Sar ko jhukaaya phir bhi taazim-e-Kibriya meiṅ
+  Sar ko jhukaaya phir bhi tazim-e-Kibriya meiṅ
 
   5
   Qaasim ke ho wo tukre ya ho gulu-e-Asghar

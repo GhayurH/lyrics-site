@@ -13,17 +13,17 @@ aliases: ["Ay Karbala Mein Haq"]
 published: true
 romanLyrics: |-
   Ae Karbala meiṅ haq ke safiroṅ salaam lo
-  Ae bekasoṅ yatimoṅ asiroṅ salaam lo
+  Ae bekas o yatimoṅ asiroṅ salaam lo
 
   1
-  Ae haamiyaan-e-Aal-e-Payambar tumheṅ salaam
+  Ae haamiyaan-e-Ahl-e-Payambar tumheṅ salaam
   Ae naasiraan-e-bekas o muztar tumheṅ salaam
   Ae Karbala ke Hamza o Jafar tumheṅ salaam
   Ae paasbaan-e-itrat-e-Haidar tumheṅ salaam
 
   2
   Ghar bhar ke laadle Ali Akbar tumheṅ salaam
-  Ae Fatima ke laal ke dilbar tumheṅ salaam
+  Ae Faatima ke laal ke dilbar tumheṅ salaam
   Barchhi lagi hai kaisi jigar par tumheṅ salaam
   Suna para hai ab ye bhara ghar tumheṅ salaam
 
@@ -34,7 +34,7 @@ romanLyrics: |-
   Shahzaade band ho gaya paani tumheṅ salaam
 
   4
-  Sheroṅ ke sher saani-e-Haidar tumheṅ salaam
+  Sheroṅ ki sher saani-e-Haidar tumheṅ salaam
   Kya thi majaal rokta lashkar tumheṅ salaam
   Paani ko tum ne maar di thokar tumheṅ salaam
   Bas laut aaye mashk ko bhar kar tumheṅ salaam
@@ -46,15 +46,15 @@ romanLyrics: |-
   Ulta ke rakh di saari khudaai tumheṅ salaam
 
   6
-  Tiroṅ se chhalni jism-e-mutahhar tumheṅ salaam
+  Tiroṅ se chhalni jism-e-mutaahir tumheṅ salaam
   Baaqi nahiṅ libaas badan par tumheṅ salaam
-  Paamaal laashe Sibt-e-Payambar tumheṅ salaam
+  Paamaal laash-e-Sibt-e-Payambar tumheṅ salaam
   Neze par wird karte hue sar tumheṅ salaam
 
   7
   Dukh ae Sakina tum ne uthaae tumheṅ salaam
   Baba bhi laut kar nahiṅ aaye tumheṅ salaam
-  Rukhsaar par tamaache bhi khaaye tumheṅ salaam
+  Rukhsaar par tamaanche bhi khaaye tumheṅ salaam
   Naazuk se kaan khuṅ meiṅ nahaae tumheṅ salaam
 ---
 اے کربلا میں حق کے سفیروں سلام لو

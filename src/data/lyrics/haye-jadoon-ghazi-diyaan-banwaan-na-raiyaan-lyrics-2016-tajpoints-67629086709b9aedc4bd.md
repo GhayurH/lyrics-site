@@ -1,41 +1,71 @@
 ---
-title: "Haye Jadoon Ghazi Diyaan Banwaan Na Raiyaan Lyrics 2016"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے جدوں غازی دیاں بانواں نہ رہیاں"
+alternateTitle: "Haye Jadoon Ghazi Diyaan Banwaan Na Raiyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye jadoon Ghazi diyaan banwaan na raiyaan
+  Zahra ne arsh taun wain kita meri dhiyaan ujar gayiyaan
+  Jeri jagah te Ghazi lathiya si zeen taun
+  Parh ke durood meri dhiyaan zameen taun
+
+  2
+  Chuk ke chadar di ja sir te othon mitiyaan orh laiyaan
+  Ghazi de sir ne takiya jadon aanda qafila
+  Ainay wekhiya ke Zainab ho gayi aye be rida
+  Teraan nal bhariyaan akhiyaan v Ghazi ne meet laiyaan
+
+  3
+  Aaya aye waqt kaisa teri Sakina te
+  Shami sawal karday ohno kaneezi de
+  Te aurtaan Sham bazar diyaan ohno sadqa dain paiyaan
+  Chum chum ke katiyaan banwaan ro ro ke Zahra aakhay
+
+  4
+  Bara maan si bhaina nu Ghazi de bazuwaan te
+  Aiday aasrey te meri dhiyaan Yasrab choon nikal paiyaan
+  Bhaina da naam le ke loki pukarday ray
+  Naizay de naal Shami chadraan utarday ray
+
+  5
+  Tere badoon aina ne Ghazi bari jhirkaan ne sayiyaan
+  Jadon qaid ho ke darya de kolon guzariyaan
+  Fizza de olay bhaina Saqlain ho gayiyaan
+  Aynj veer Abbas di lash kolon sab bhaina guzar gayiyaan
 ---
 
-1
-Haye Jadoon Ghazi Diyaan Banwaan Na Raiyaan.
-Zahra Ne Arsh Taun Wain Kita Meri Dhiyaan Ujar Gayiyaan.
-Jeri Jagah Te Ghazi Lathiya Si Zeen Taun.
-Parh Ke Durood Meri Dhiyaan Zameen Taun.
+۱
+ہائے جدوں غازی دیاں بانواں نہ رہیاں
+زہرا نے عرش توں وین کیتا میری دھیاں اجڑ گئیاں
+جیہڑی جگہ تے غازی لتھیا سی زین توں
+پڑھ کے درود میری دھیاں زمین توں
 
-2
-Chuk Ke Chadar Di Ja Sir Te Othon Mitiyaan Orh Laiyaan.
-Ghazi De Sir Ne Takiya Jadon Aanda Qafila.
-Ainay Wekhiya Ke Zainab Ho Gayi Aye Be Rida.
-Teraan Nal Bhariyaan Akhiyaan V Ghazi Ne Meet Laiyaan.
+۲
+چک کے چادر دی جا سر تے اوتھوں مٹیاں اوڑھ لئیاں
+غازی دے سر نے تکیا جدوں آندا قافلہ
+اینیں ویکھیا کہ زینب ہو گئی اے بے ردا
+تیراں نال بھریاں اکھیاں وی غازی نے میٹ لئیاں
 
-3
-Aaya Aye Waqt Kaisa Teri Sakina Te.
-Shami Sawal Karday Ohno Kaneezi De.
-Te Aurtaan Sham Bazar Diyaan Ohno Sadqa Dain Paiyaan.
-Chum Chum Ke Katiyaan Banwaan Ro Ro Ke Zahra Aakhay.
+۳
+آیا اے وقت کیسا تیری سکینہ تے
+شامی سوال کردے اوہنوں کنیزی دے
+تے عورتاں شام بازار دیاں اوہنوں صدقہ دین پئیاں
+چم چم کے کٹیاں بانواں رو رو کے زہرا آکھے
 
-4
-Bara Maan Si Bhaina Nu Ghazi De Bazuwaan Te.
-Aiday Aasrey Te Meri Dhiyaan Yasrab Choon Nikal Paiyaan.
-Bhaina Da Naam Le Ke Loki Pukarday Ray.
-Naizay De Naal Shami Chadraan Utarday Ray.
+۴
+بڑا مان سی بھیناں نوں غازی دے بازواں تے
+ایدے آسرے تے میری دھیاں یثرب چوں نکل پئیاں
+بھیناں دا نام لے کے لوکی پکاردے رہے
+نیزے دے نال شامی چادراں اتاردے رہے
 
-5
-Tere Badoon Aina Ne Ghazi Bari Jhirkaan Ne Sayiyaan.
-Jadon Qaid Ho Ke Darya De Kolon Guzariyaan.
-Fizza De Olay Bhaina Saqlain Ho Gayiyaan.
-Aynj Veer Abbas Di Lash Kolon Sab Bhaina Guzar Gayiyaan.
+۵
+تیرے بدوں ایناں نے غازی بڑی جھڑکاں نے سہیاں
+جدوں قید ہو کے دریا دے کولوں گزریاں
+فضہ دے اولے بھیناں ثقلین ہو گئیاں
+اینج ویر عباس دی لاش کولوں سب بھیناں گزر گئیاں

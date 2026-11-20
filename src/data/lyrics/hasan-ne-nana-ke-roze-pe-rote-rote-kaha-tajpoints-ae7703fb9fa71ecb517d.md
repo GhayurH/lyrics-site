@@ -1,50 +1,90 @@
 ---
-title: "Hasan Ne Nana Ke Roze Pe Rote Rote Kaha"
+title: "حسن نے نانا کے روضے پہ روتے روتے کہا"
+alternateTitle: "Hasan Ne Nana Ke Roze Pe Rote Rote Kaha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hasan ne nana ke roze pe rote rote kaha
+  Keh mere samne meri hi maa ko mara gaya
+
+  1
+  Shaqi ne rah mein oss par yeh zulm dhaya hai
+  Bohat hi zoor se oss ko tamacha mara hai
+  Bachaney wala magar koi bhi nahi aaya
+  Solagta darwaza amma pe girtay dekha hai
+
+  2
+  Haan oss ko main ne tamachay bhi khatay dekha hai
+  Kaleja dukhta hai amma ko main bacha na saka
+  Khamida pusht hai oss ki assa hai hathoon mein
+  Atharah saal mein aayi safaidi baloon mein
+
+  3
+  Zaeefa ho gayi gham sehtay sehtay maa Zahra
+  Sahara leti hai dewaron ka jo chalti hai
+  Shikasta pehlu se amma ki jaan nikalti hai
+  Namaz baith ke parhti hai nana jaan Zahra
+
+  4
+  Hain tooti pasliyaan darwaza wazni girney se
+  Howa hai bazu bhi shal oss pe durray khaney se
+  Bohat hi mara gaya teri beti ko nana
+  Shikasta pehlu liye woh gayi sar-e-darbar
+
+  5
+  Diya na haq teri beti ko jis ki thi haqdar
+  Gawah rad kiye teri sand ko phaar diya
+  Aye nana maa pe mere samne howa jo sitam
+  Sitam woh bhool nahi paon ga main martay dam
+
+  6
+  Woh yaad kar ke main rota hoon raat din nana
+  Hasan na guzra aye Sajjad-o-Mohtasham wahan se
+  Jahan pe amma ne oss ki tamachay khaye they
+  Hasan sa koi bhi mazloom dosra na howa
 ---
 
-Hasan Ne Nana Ke Roze Pe Rote Rote Kaha.
-Keh Mere Samne Meri Hi Maa Ko Mara Gaya.
+حسن نے نانا کے روضے پہ روتے روتے کہا
+کہ میرے سامنے میری ہی ماں کو مارا گیا
 
-1
-Shaqi Ne Rah Mein Oss Par Yeh Zulm Dhaya Hai.
-Bohat Hi Zoor Se Oss Ko Tamacha Mara Hai.
-Bachaney Wala Magar Koi Bhi Nahi Aaya.
-Solagta Darwaza Amma Pe Girtay Dekha Hai.
+۱
+شقی نے راہ میں اس پر یہ ظلم ڈھایا ہے
+بہت ہی زور سے اس کو طمانچہ مارا ہے
+بچانے والا مگر کوئی بھی نہیں آیا
+سلگتا دروازہ اماں پہ گرتے دیکھا ہے
 
-2
-Haan Oss Ko Main Ne Tamachay Bhi Khatay Dekha Hai.
-Kaleja Dukhta Hai Amma Ko Main Bacha Na Saka.
-Khamida Pusht Hai Oss Ki Assa Hai Hathoon Mein.
-Atharah Saal Mein Aayi Safaidi Baloon Mein.
+۲
+ہاں اس کو میں نے طمانچے بھی کھاتے دیکھا ہے
+کلیجہ دکھتا ہے اماں کو میں بچا نہ سکا
+خمیدہ پشت ہے اس کی عصا ہے ہاتھوں میں
+اٹھارہ سال میں آئی سفیدی بالوں میں
 
-3
-Zaeefa Ho Gayi Gham Sehtay Sehtay Maa Zahra.
-Sahara Leti Hai Dewaron Ka Jo Chalti Hai.
-Shikasta Pehlu Se Amma Ki Jaan Nikalti Hai.
-Namaz Baith Ke Parhti Hai Nana Jaan Zahra.
+۳
+ضعیفہ ہو گئی غم سہتے سہتے ماں زہرا
+سہارا لیتی ہے دیواروں کا جو چلتی ہے
+شکستہ پہلو سے اماں کی جان نکلتی ہے
+نماز بیٹھ کے پڑھتی ہے نانا جان زہرا
 
-4
-Hain Tooti Pasliyaan Darwaza Wazni Girney Se.
-Howa Hai Bazu Bhi Shal Oss Pe Durray Khaney Se.
-Bohat Hi Mara Gaya Teri Beti Ko Nana.
-Shikasta Pehlu Liye Woh Gayi Sar-e-Darbar.
+۴
+ہیں ٹوٹی پسلیاں دروازہ وزنی گرنے سے
+ہوا ہے بازو بھی شل اس پہ درّے کھانے سے
+بہت ہی مارا گیا تیری بیٹی کو نانا
+شکستہ پہلو لیے وہ گئی سرِ دربار
 
-5
-Diya Na Haq Teri Beti Ko Jis Ki Thi Haqdar.
-Gawah Rad Kiye Teri Sand Ko Phaar Diya.
-Aye Nana Maa Pe Mere Samne Howa Jo Sitam.
-Sitam Woh Bhool Nahi Paon Ga Main Martay Dam.
+۵
+دیا نہ حق تیری بیٹی کو جس کی تھی حق دار
+گواہ رد کیے تیری سند کو پھاڑ دیا
+اے نانا ماں پہ میرے سامنے ہوا جو ستم
+ستم وہ بھول نہیں پاؤں گا میں مرتے دم
 
-6
-Woh Yaad Kar Ke Main Rota Hoon Raat Din Nana.
-Hasan Na Guzra Aye Sajjad-o- Mohtasham Wahan Se.
-Jahan Pe Amma Ne Oss Ki Tamachay Khaye They.
-Hasan Sa Koi Bhi Mazloom Dosra Na Howa.
+۶
+وہ یاد کر کے میں روتا ہوں رات دن نانا
+حسن نہ گزرا اے سجاد و محتشم وہاں سے
+جہاں پہ اماں نے اس کی طمانچے کھائے تھے
+حسن سا کوئی بھی مظلوم دوسرا نہ ہوا

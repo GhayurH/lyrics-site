@@ -1,50 +1,90 @@
 ---
-title: "Asghar Teri Kahani SM Taqi Rizvi"
+title: "اصغر تیری کہانی ایس ایم تقی رضوی"
+alternateTitle: "Asghar Teri Kahani SM Taqi Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mohsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Pur dard hai bohat hi Asghar teri kahani
+  Na raas aayi tum ko che mah ki zindagani
+
+  1
+  Jis waqt al-atash ki detey they tum sadaein
+  Tashna labi pe teri roti thin sab jafaein
+  Mojein tarap rahi thin giriya kuna tha pani
+  Masoom ke galay se kar paar teer dala
+
+  2
+  Hathoon pe baba jaan ke Asghar ko cheer wala
+  Ab lash be khata ki nezay pe hai uthani
+  Asghar ki qabar pe yeh bibi Rubab boli
+  Be sheer reh gayi hai hasrat meri adhori
+
+  3
+  Afsoos dekh payi na maa teri jawani
+  Chahe tu aab-e-Kausar yeh farsh pe bola le
+  Zam Zam ke aab se bhi yeh pyas ko bhuja le
+  Asghar ne phir bhi apne rab ki raza hai mani
+
+  4
+  Bhai ke gham ne amma hai mera chain chena
+  Yeh bain kar rahi hai khiyam mein Sakina
+  Asghar ke baad kis ko lori hai ab sonani
+  Shabbir keh rahe they ab dair na lagao
+
+  5
+  Umm-e-Rubab bibi meri madad ko aao
+  Maqtal mein ladlay ki haye qabar hai banani
+  Maa boli aab ka na ran mein sawal karna
+  Gar teer marey zalim gardan ko dhaal karna
+
+  6
+  Khud teer kha ke rakhna mehfooz Sheh ka jani
+  Sab pursa daar Mohsin ro ro ke keh rahe hain
+  Aal-e-Abba ke gham mein jo ashk beh rahe hain
+  Kar lein qabool bibi ashkon ki yeh rawani
 ---
 
-Pur Dard Hai Bohat Hi Asghar Teri Kahani.
-Na Raas Aayi Tum Ko Che Mah Ki Zindagani.
+پر درد ہے بہت ہی اصغر تیری کہانی
+نہ راس آئی تم کو چھ ماہ کی زندگانی
 
-1
-Jis Waqt Al-Atash Ki Detey They Tum Sadaein.
-Tashna Labi Pe Teri Roti Thin Sab Jafaein.
-Mojein Tarap Rahi Thin Giriya Kuna Tha Pani.
-Masoom Ke Galay Se Kar Paar Teer Dala.
+۱
+جس وقت العطش کی دیتے تھے تم صدائیں
+تشنہ لبی پہ تیری روتی تھیں سب جفائیں
+موجیں تڑپ رہی تھیں گریہ کناں تھا پانی
+معصوم کے گلے سے کر پار تیر ڈالا
 
-2
-Hathoon Pe Baba Jaan Ke Asghar Ko Cheer Wala.
-Ab Lash Be Khata Ki Nezay Pe Hai Uthani.
-Asghar Ki Qabar Pe Yeh Bibi Rubab Boli.
-Be Sheer Reh Gayi Hai Hasrat Meri Adhori.
+۲
+ہاتھوں پہ بابا جان کے اصغر کو چیر والا
+اب لاشِ بے خطا کی نیزے پہ ہے اٹھانی
+اصغر کی قبر پہ یہ بی‌بی رباب بولی
+بے شیر رہ گئی ہے حسرت میری ادھوری
 
-3
-Afsoos Dekh Payi Na Maa Teri Jawani.
-Chahe Tu Aab-e-Kausar Yeh Farsh Pe Bola Le.
-Zam Zam Ke Aab Se Bhi Yeh Pyas Ko Bhuja Le.
-Asghar Ne Phir Bhi Apne Rab Ki Raza Hai Mani.
+۳
+افسوس دیکھ پائی نہ ماں تیری جوانی
+چاہے تو آبِ کوثر یہ فرش پہ بلا لے
+زم زم کے آب سے بھی یہ پیاس کو بجھا لے
+اصغر نے پھر بھی اپنے رب کی رضا ہے مانی
 
-4
-Bhai Ke Gham Ne Amma Hai Mera Chain Chena.
-Yeh Bain Kar Rahi Hai Khiyam Mein Sakina.
-Asghar Ke Baad Kis Ko Lori Hai Ab Sonani.
-Shabbir Keh Rahe They Ab Dair Na Lagao.
+۴
+بھائی کے غم نے اماں ہے میرا چین چھینا
+یہ بین کر رہی ہے خیام میں سکینہ
+اصغر کے بعد کس کو لوری ہے اب سنانی
+شبیر کہہ رہے تھے اب دیر نہ لگاؤ
 
-5
-Umm-e-Rubab Bibi Meri Madad Ko Aao.
-Maqtal Mein Ladlay Ki Haye Qabar Hai Banani.
-Maa Boli Aab Ka Na Ran Mein Sawal Karna.
-Gar Teer Marey Zalim Gardan Ko Dhaal Karna.
+۵
+امِ رباب بی‌بی میری مدد کو آؤ
+مقتل میں لاڈلے کی ہائے قبر ہے بنانی
+ماں بولی آب کا نہ رن میں سوال کرنا
+گر تیر مارے ظالم گردن کو ڈھال کرنا
 
-6
-Khud Teer Kha Ke Rakhna Mehfooz Sheh Ka Jani.
-Sab Pursa Daar Mohsin Ro Ro Ke Keh Rahe Hain.
-Aal-e-Abba Ke Gham Mein Jo Ashk Beh Rahe Hain.
-Kar Lein Qabool Bibi Ashkon Ki Yeh Rawani.
+۶
+خود تیر کھا کے رکھنا محفوظ شہ کا جانی
+سب پرسہ دار محسن رو رو کے کہہ رہے ہیں
+آلِ عبا کے غم میں جو اشک بہہ رہے ہیں
+کر لیں قبول بی‌بی اشکوں کی یہ روانی

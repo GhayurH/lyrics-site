@@ -1,7 +1,7 @@
 ---
 title: "اربعیں کے سوگواروں الوداع"
 recitationId: "arbaeen-ke-soghwaro"
-alternateTitle: "Arbaiṅ Ke Soghwaro"
+alternateTitle: "Arbaiṅ Ke Sogwaaroṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -1,65 +1,119 @@
 ---
-title: "Maula Tum Hamare Maula Hum Tumhare"
+title: "مولا تم ہمارے مولا ہم تمہارے"
+alternateTitle: "Maula Tum Hamare Maula Hum Tumhare"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sarwar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Maula tum hamare Maula hum tumhare
+  Maula salam aap pe sad waar ya Hussain
+  Sab ishq-e-Hussaini mein hai sarshar ya Hussain
+  Sab pe ho karam aap ka sarkar ya Hussain
+
+  2
+  Hazir hain, hazir hain, hazir hain azadar ya Hussain
+  Hum charag-e-Mustafa ke parwane aye zamane
+  Panjtan ke naam ke hain dewane aye zamane
+  Hamara dil hamari jaan, hamari aik hi zabaan
+
+  3
+  Hai hamare seeno par likha howa
+  Azadar-e-Hussain, azadar-e-Hussain, azadar-e-Hussain
+  Maka Madina-o-Najaf Karbala, ishq-e-Khuda ka hai yehi rasta
+  Fatima Hasnain Ali la-fatah qibla-e-man aaqa rasool-e-Khuda
+
+  4
+  Aik sukhan aik lagan, aik zabaan aik dahan
+  Panjtan ke naam par nisar hain, hum hain wafadar-e-Khuda
+  Naam-e-Muhammad pe fida, khatim-e-rasool kirdgar hain
+  Haan main wafadar hoon Shabir ka, haan main azadar hoon Shabir ka
+
+  5
+  Monis-o-ghamkhuwar hoon Shabir ka, matami zawwar hoon Shabir ka
+  Ashk-e-azza meri dawa, farsh-e-wila ishq mera
+  Hum dar-e-Maula ke talabgar hain, pehne howay shal-e-azza
+  Dil mein liye karab-o-bala, Maula tere qafilay teyar hain
+
+  6
+  Karb-o-bala kya hai batate chalo, momino is gham ko manate chalo
+  Farsh-e-azza mil ke bichate raho, parcham-e-Abbas uthate raho
+  Mil ke raho mil ke chalo, aisa bano aisa karo
+  Jaisa ke Quran ka farman hai, haq pe geo haq pe maro
+
+  7
+  Pyar karo sath raho, karab-o-bala ki yehi pehchan hai
+  Haan sara jahan halqa-e-matam mein hai, gham ki fiza mah-e-Muharram mein hai
+  Ishq-e-Khuda pyas ke mosam mein hai, Maula mera darad ke alam mein hai
+  Aao chalein karab-o-bala, karne ko matam yeh bapa
+
+  8
+  Parcham-e-Abbas nigheban hai, aati hai Zainab ki sada
+  Aa gaya jo karab-o-bala, Fatima Zahra ka woh mehman hai
+  Barhta rahe qafila Shabir ka, marhala dar marhala dar marhala
+  Tay ho safar Sarwar-o- Rehan ka, silsila dar silsila dar silsila
+
+  9
+  Chaman chaman kali kali, nagar nagar gali gali
+  Maqsad-e-Shabir batate chalo
+  Ho ga karam qadam qadam, le ke chalo Shah ka gham
+  Parcham-e-Abbas uthate chalo
 ---
 
-1
-Maula Tum Hamare Maula Hum Tumhare.
-Maula Salam Aap Pe Sad Waar Ya Hussain.
-Sab Ishq-e-Hussaini Mein Hai Sarshar Ya Hussain.
-Sab Pe Ho Karam Aap Ka Sarkar Ya Hussain.
+۱
+مولا تم ہمارے مولا ہم تمہارے
+مولا سلام آپ پہ صد بار یا حسین
+سب عشقِ حسینی میں ہے سرشار یا حسین
+سب پہ ہو کرم آپ کا سرکار یا حسین
 
-2
-Hazir Hain, Hazir Hain, Hazir Hain Azadar Ya Hussain.
-Hum Charag-e-Mustafa Ke Parwane Aye Zamane.
-Panjtan Ke Naam Ke Hain Dewane Aye Zamane.
-Hamara Dil Hamari Jaan, Hamari Aik Hi Zabaan.
+۲
+حاضر ہیں، حاضر ہیں، حاضر ہیں عزادار یا حسین
+ہم چراغِ مصطفیٰ کے پروانے اے زمانے
+پنجتن کے نام کے ہیں دیوانے اے زمانے
+ہمارا دل ہماری جان، ہماری ایک ہی زبان
 
-3
-Hai Hamare Seeno Par Likha Howa.
-Azadar-e-Hussain, Azadar-e-Hussain, Azadar-e-Hussain.
-Maka Madina-o-Najaf Karbala, Ishq-e-Khuda Ka Hai Yehi Rasta.
-Fatima Hasnain Ali La-Fatah Qibla-e-Man Aaqa Rasool-e-Khuda.
+۳
+ہے ہمارے سینوں پر لکھا ہوا
+عزادارِ حسین، عزادارِ حسین، عزادارِ حسین
+مکہ مدینہ و نجف کربلا، عشقِ خدا کا ہے یہی راستہ
+فاطمہ حسنین علی لا فتیٰ قبلۂ من آقا رسولِ خدا
 
-4
-Aik Sukhan Aik Lagan, Aik Zabaan Aik Dahan.
-Panjtan Ke Naam Par Nisar Hain, Hum Hain Wafadar-e-Khuda.
-Naam-e-Muhammad Pe Fida, Khatim-e-Rasool Kirdgar Hain.
-Haan Main Wafadar Hoon Shabir Ka, Haan Main Azadar Hoon Shabir Ka.
+۴
+ایک سخن ایک لگن، ایک زبان ایک دہن
+پنجتن کے نام پر نثار ہیں، ہم ہیں وفادارِ خدا
+نامِ محمد پہ فدا، خاتمِ رسول کردگار ہیں
+ہاں میں وفادار ہوں شبیر کا، ہاں میں عزادار ہوں شبیر کا
 
-5
-Monis-o-Ghamkhuwar Hoon Shabir Ka, Matami Zawwar Hoon Shabir Ka.
-Ashk-e-Azza Meri Dawa, Farsh-e-Wila Ishq Mera.
-Hum Dar-e-Maula Ke Talabgar Hain, Pehne Howay Shal-e-Azza.
-Dil Mein Liye Karab-o-Bala, Maula Tere Qafilay Teyar Hain.
+۵
+مونس و غم خوار ہوں شبیر کا، ماتمی زوار ہوں شبیر کا
+اشکِ عزا میری دوا، فرشِ ولا عشق میرا
+ہم درِ مولا کے طلبگار ہیں، پہنے ہوئے شالِ عزا
+دل میں لیے کرب و بلا، مولا تیرے قافلے تیار ہیں
 
-6
-Karb-o-Bala Kya Hai Batate Chalo, Momino Is Gham Ko Manate Chalo.
-Farsh-e-Azza Mil Ke Bichate Raho, Parcham-e-Abbas Uthate Raho.
-Mil Ke Raho Mil Ke Chalo, Aisa Bano Aisa Karo.
-Jaisa Ke Quran Ka Farman Hai, Haq Pe Geo Haq Pe Maro.
+۶
+کرب و بلا کیا ہے بتاتے چلو، مومنو اس غم کو مناتے چلو
+فرشِ عزا مل کے بچھاتے رہو، پرچمِ عباس اٹھاتے رہو
+مل کے رہو مل کے چلو، ایسا بنو ایسا کرو
+جیسا کہ قرآن کا فرمان ہے، حق پہ جیو حق پہ مرو
 
-7
-Pyar Karo Sath Raho, Karab-o-Bala Ki Yehi Pehchan Hai.
-Haan Sara Jahan Halqa-e-Matam Mein Hai, Gham Ki Fiza Mah-e-Muharram Mein Hai.
-Ishq-e-Khuda Pyas Ke Mosam Mein Hai, Maula Mera Darad Ke Alam Mein Hai.
-Aao Chalein Karab-o-Bala, Karne Ko Matam Yeh Bapa.
+۷
+پیار کرو ساتھ رہو، کرب و بلا کی یہی پہچان ہے
+ہاں سارا جہاں حلقۂ ماتم میں ہے، غم کی فضا ماہِ محرم میں ہے
+عشقِ خدا پیاس کے موسم میں ہے، مولا میرا درد کے عالم میں ہے
+آؤ چلیں کرب و بلا، کرنے کو ماتم یہ بپا
 
-8
-Parcham-e-Abbas Nigheban Hai, Aati Hai Zainab Ki Sada.
-Aa Gaya Jo Karab-o-Bala, Fatima Zahra Ka Woh Mehman Hai.
-Barhta Rahe Qafila Shabir Ka, Marhala Dar Marhala Dar Marhala.
-Tay Ho Safar Sarwar-o- Rehan Ka, Silsila Dar Silsila Dar Silsila.
+۸
+پرچمِ عباس نگہبان ہے، آتی ہے زینب کی صدا
+آ گیا جو کرب و بلا، فاطمہ زہرا کا وہ مہمان ہے
+بڑھتا رہے قافلہ شبیر کا، مرحلہ در مرحلہ در مرحلہ
+طے ہو سفر سرور و ریحان کا، سلسلہ در سلسلہ در سلسلہ
 
-9
-Chaman Chaman Kali Kali, Nagar Nagar Gali Gali.
-Maqsad-e-Shabir Batate Chalo.
-Ho Ga Karam Qadam Qadam, Le Ke Chalo Shah Ka Gham.
-Parcham-e-Abbas Uthate Chalo.
+۹
+چمن چمن کلی کلی، نگر نگر گلی گلی
+مقصدِ شبیر بتاتے چلو
+ہو گا کرم قدم قدم، لے کے چلو شاہ کا غم
+پرچمِ عباس اٹھاتے چلو

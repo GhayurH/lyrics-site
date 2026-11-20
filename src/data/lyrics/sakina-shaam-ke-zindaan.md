@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Tamaanche Shimr se khaati thi jab bhi roti thi
   Andheri raat meiṅ uth uth ke bas ye kehti thi
-  Meri asiri pe roti hai bekasi baba
+  Meri asiri pe roti bekasi baba
 
   2
   Ae baba aap ke sine ki usko aadat thi
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Phuphi se kehti thi ro ro ke ye bata do phuphi
-  Sitam ki qaid se ghar apne ja sakeṅ ge kabhi
+  Sitam ki qaid se ghar apne ja sake ga kabhi
   Use rihaai na mar ke bhi mil saki baba
 
   4

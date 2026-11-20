@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Naize ki nok maar ke pasli meiṅ baar baar
-  Jalti zamiṅ pe ziṅ se giraaya Husain ko
+  Jalti zamiṅ pe ziṅ giraaya Husain ko
 
   2
   Patthar kisi ne maare to phenki kisi ne khaak
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Khanjar chala raha hai wo sine pe baith kar
-  Bachi na aa ke dekh le baaba Husain ko
+  Bachchi na aa ke dekh le baaba Husain ko
 
   4
   Ek maaṅ ne baal khole hai bilkul usi jagah

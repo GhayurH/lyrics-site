@@ -8,88 +8,75 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Dilo may gham to hay par abroo e gham nahi baqi
-  Aqeedat ko go garmata ho wo matam nahi baqi
-
   1
-  Hamari ankh may tehzeeb ka zamzam nahi baqi
-  Paye tameer e ummat koshish e payham nahi baqi
+  Diloṅ mein gham to hai par aabru-e-gham nahiṅ baaqi
+  Aqidat ko jo garmaata ho woh maatam nahiṅ baaqi
+  Hamaari aaṅkh mein tahzib ka Zam Zam nahiṅ baaqi
+  Pae taamir-e-ummat koshish-e-paiham nahiṅ baaqi
 
   2
-  Maye ikhlas ka hasil riyakari na ban jaye
-  May darta hon azadari adakari na ban jaye
+  Mai-e-ikhlaas ka haasil riyaakaari na ban jaae
+  Main darta huṅ azaadaari adaakaari na ban jaae
 
   3
-  Ajab halat hay Hur bannay ki tayyari nahi kartay
-  Aza e Sheh ke maqsad se wafadari nahi kartay
+  Ajab haalat hai Hur banne ki tayyaari nahiṅ karte
+  Azaa-e-Sheh ke maqsad se wafaadaari nahiṅ karte
+  Bazaahir jaagte hain kaar-e-bedaari nahiṅ karte
+  Jo laae inqilaab aisi azaadaari nahiṅ karte
 
   4
-  Bazahir jagtay hain kar e bedari nahi kartay
-  Jo laye inqilab aisi azadari nahi kartay
+  Kahaaṅ se aaega yeh ahd-e-badraftaar junbish mein
+  Ham hi masruf hain beruh jazboṅ ki numaaish mein
 
   5
-  Kahan se aaye ga ye ehd e bad raftar junbish may
-  Ham hi masroof hain beroh jazbon ki numayaish may
+  Shariat ke gale ko kaatti talwaar rasmoṅ ki
+  Khari kar di muqaabil din ke diwaar rasmoṅ ki
+  Bani jab se jahaalat qaafila saalaar rasmoṅ ki
+  Azaa ke naam par hoti hai bas takraar rasmoṅ ki
 
   6
-  Shariat ke galay ko katti talwar rasmo ki
-  Khari kar di muqabil deen ke deewar rasmo ki
+  Riwaajoṅ ka andhera khaa gaya nur-e-haqiqat ko
+  Badal daala hai kuchh logoṅ ne taswir-e-shariat ko
 
   7
-  Bani jab se jahalat qafila salar rasmo ki
-  Aza ke naam par hoti hay bas takrar rasmo ki
+  Shahidoṅ ke hadaf se dur hote jaa rahe hain ham
+  Ke ab apne sharaf se dur hote jaa rahe hain ham
+  Ke moti aur sadaf se dur hote jaa rahe hain ham
+  Haqiqat mein Najaf se dur hote jaa rahe hain ham
 
   8
-  Riwajo ka andhera kha gaya noor e haqeeqat ko
-  Badal dala hay kuch logo ne tasweer e shariat ko
+  Lihaaza zahn o dil ke band darwaazoṅ ko kholeṅ ham
+  Zara sa aao apni is haalat pe ro leṅ ham
 
   9
-  Shaheedo ke hadaf se door hotay ja rahay hain ham
-  Ke ab apnay sharaf se door hotay ja rahay hain ham
+  Bina aamaal ke aaṅsu se jannat mil nahiṅ sakti
+  Agar kirdaar maila ho to izzat mil nahiṅ sakti
+  Kisi millat ko bas naaroṅ se raahat mil nahiṅ sakti
+  Faqat rone se maqsad ko hifaazat mil nahiṅ sakti
 
   10
-  Hain moti aur sadaf se door hotay ja rahay hain ham
-  Haqeeqat may Najaf se door hotay ja rahay hain ham
+  Suno rasmoṅ ke registaan mein sar mat khapaao tum
+  Husaini ho to maidaan-e-amal mein aage aao tum
 
   11
-  Lehaza zehn o dil ke band darwazon ko kholay hain
-  Zara se aao apni is halat pe ro lain ham
+  Ali Akbar ke jazboṅ ki haraarat ho jawaanoṅ mein
+  Baraa-e-din-e-haq shauq-e-shahaadat ho jawaanoṅ mein
+  Gunaahoṅ se bacheṅ itni shujaaat ho jawaanoṅ mein
+  Ali ke ilm ki taqsim daulat ho jawaanoṅ mein
 
   12
-  Bina aamal ke ansoo se jannat mil nahi sakti
-  Agar kirdar maila ho to izzat mil nahi sakti
+  Jahaaṅ aisi azaadri ke kul aasaar milte hain
+  Wahaaṅ soe hue afraad bhi bedaar milte hain
 
   13
-  Kisi millat ko bas naron se rahat mil nahi sakti
-  Faqat ronay se maqsad ko hifazat mil nahi sakti
+  Muharram naam hai khud ko buraai se bachaane ka
+  Muharram naam hai taarikiyaaṅ dil se mitaane ka
+  Muharram naam hai Hur ki tarah sar ko jhukaane ka
+  Muharram naam hai Shabbir ke lashkar mein aane ka
 
   14
-  Suno rasmo ke registan may sar mat khapao tum
-  Hussaini ho to maidan e amal may aagay aao tum
-
-  15
-  Ali Akbar ke jazbo ki hararat ho jawano may
-  Bara e deen e haq shoq e shahdat ho jawano may
-
-  16
-  Gunaho se bachain itni shujaat ho jawano may
-  Ali ke ilm ki taqseem dolat ho jawano may
-
-  17
-  Jahan aisi azadri ke kul aasar miltay hain
-  Wahan soey huay afrad bhi bedar miltay hain
-
-  18
-  Muharram naam hay khud ko burai se bachanay ka
-  Muharram naam hay tareekian dil se mitanay ka
-
-  19
-  Muharram naam hay Hur ki tarha sar ko jhukanay ka
-  Muharram naam hay Shabbir ke lashkar may aanay ka
-
-  20
-  Hamaray gham mananay ka agar har dhab Hussaini ho
-  Zamany bhi ki har ik qom ka mazhab Hussaini ho
+  Hamaare gham manaane ka agar har dhab Husaini ho
+  Zamaane bhar ki har ik qaum ka mazhab Husaini ho
 ---
 
 ۱

@@ -1,29 +1,48 @@
 ---
-title: "Dar-e-Fatima Zahra Se Dhuwaan Uthta Tha"
+title: "درِ فاطمہ زہرا سے دھواں اٹھتا تھا"
+alternateTitle: "Dar-e-Fatima Zahra Se Dhuwaan Uthta Tha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dar-e-Fatima Zahra se dhuwaan uthta tha
+
+  1
+  Shoor galiyon mein Madine ki ajab barpa tha
+  Our Dar-e-Fatima Zahra se Dhowaan uthta tha
+  Oss ko jhutlaya hai darbar mein kalma go ne
+  Jis ki tazeem zamane ka Nabi karta tha
+  Kaun mastoor hai darbar mein kyun aayi hai
+  Qehqahey mar ke Zahra ka addo hansta tha
+
+  2
+  Dukhtar-e-Ahmad-e-Mursal pe reham mat karna
+  Dar-e-Zahra ko jala kar yeh laeen kehta tha
+  Dono beton ko liye roti palat aayi hai
+  Issi darbar mein Baba ka kabhi charcha tha
+  Itni be rehmi se bi Bibi pe giraya gaya dar
+  Dar ki kelon se bhi Hasnain lahu behta tha
 ---
 
-Dar-e-Fatima Zahra Se Dhuwaan Uthta Tha.
+درِ فاطمہ زہرا سے دھواں اٹھتا تھا
 
-1
-Shoor Galiyon Mein Madine Ki Ajab Barpa Tha.
-Our Dar-e-Fatima Zahra Se Dhowaan Uthta Tha.
-Oss Ko Jhutlaya Hai Darbar Mein Kalma Go Ne.
-Jis Ki Tazeem Zamane Ka Nabi Karta Tha.
-Kaun Mastoor Hai Darbar Mein Kyun Aayi Hai.
-Qehqahey Mar Ke Zahra Ka Addo Hansta Tha.
+۱
+شور گلیوں میں مدینے کی عجب برپا تھا
+اور درِ فاطمہ زہرا سے دھواں اٹھتا تھا
+اس کو جھٹلایا ہے دربار میں کلمہ گو نے
+جس کی تعظیم زمانے کا نبی کرتا تھا
+کون مستور ہے دربار میں کیوں آئی ہے
+قہقہے مار کے زہرا کا عدو ہنستا تھا
 
-2
-Dukhtar-e-Ahmad-e-Mursal Pe Reham Mat Karna.
-Dar-e-Zahra Ko Jala Kar Yeh Laeen Kehta Tha.
-Dono Beton Ko Liye Roti Palat Aayi Hai.
-Issi Darbar Mein Baba Ka Kabhi Charcha Tha.
-Itni Be Rehmi Se Bi Bibi Pe Giraya Gaya Dar.
-Dar Ki Kelon Se Bhi Hasnain Lahu Behta Tha.
+۲
+دخترِ احمدِ مرسل پہ رحم مت کرنا
+درِ زہرا کو جلا کر یہ لعین کہتا تھا
+دونوں بیٹوں کو لیے روتی پلٹ آئی ہے
+اسی دربار میں بابا کا کبھی چرچا تھا
+اتنی بے رحمی سے بھی بی‌بی پہ گرایا گیا در
+در کی کیلوں سے بھی حسنین لہو بہتا تھا

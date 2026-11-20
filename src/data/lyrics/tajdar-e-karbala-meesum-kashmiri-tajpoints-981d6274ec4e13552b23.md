@@ -1,119 +1,227 @@
 ---
-title: "Tajdar E Karbala Meesum Kashmiri"
+title: "تاجدارِ کربلا میثم کشمیری"
+alternateTitle: "Tajdar-e-Karbala Meesum Kashmiri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Izhar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Labaik ya Hussain labaik ya Hussain
+  Ya Sarallah Hussain ya Sarallah Hussain
+  Hussain Hussain Hussain
+  Badshah Hussain
+
+  2
+  Shehanshah Hussain
+  Hal atta Hussain
+  Innama Hussain
+  Rahbar Hussain
+
+  3
+  Rehnuma Hussain
+  Rabta Hussain
+  Marhaba Hussain
+  Jan-o-dil Hussain
+
+  4
+  Dein panah Hussain
+  Ahl-e-azza ka aasra Hussain
+  Arsh se bhi aa rahi hai yeh sada
+  Fatima ke noor-e-ain marhaba
+
+  5
+  Aslam aye tajdar-e-Karbala
+  Aslam aye badshah-e-Karbala
+  Dukhtar-e-Rasool Fatima ke dil ke chain
+  Mujtaba ki jan Murtaza ke noor-e-ain
+
+  6
+  Deen-e-Mustafa ki ab hai tu hi zaib-o-zeen
+  Kar rahe hain tujh ko sab salam ya Hussain
+  Karbala se aa rahi hai yeh sada
+  Tu ne hi Islam ko zindah kiya
+
+  7
+  Keh raha hai aaj tu sara jahan yehi
+  Tere siwa dein ka mohafiz nahi koi
+  Tham ke hathoon mein apne parcham-e-jarri
+  Ja rahe hain janib-e-karb-o-bala sabhi
+
+  8
+  Keh rahe mil ke yeh ahl-e-azza
+  Cha gaya hai zehan-o-dil pe ba wafa
+  Matam-e-Shabeer rukay ga na ab kabhi
+  Parcham-e-Abbas jhukay ga na ab kabhi
+
+  9
+  Ho gi azadaron ki aankhon mein bhi nami
+  Roye ga tashna labon ko ab tu har koi
+  Jari rahe ga yeh sada silsila
+  Hashar talak ho ga tera tazkira
+
+  10
+  Garor toot gaya koi martaba na mila
+  Jafa ke baad bhi kuch hasil-e-jafa na mila
+  Sar-e-Hussain mila hai Yazid ko lekin
+  Shikast yeh hai keh phir bhi jhuka howa na mila
+
+  11
+  Arsh se bhi aa rahi hai yeh sada
+  Fatima ke noor-e-ain marhaba
+  Karbala mein tu ne bhara ghar luta diya
+  Teen din ki pyas mein sar bhi kata diya
+
+  12
+  Jo kabhi kiya tha woh wadah nibha diya
+  Tu azeem hai yeh jahan ko bata diya
+  Keh rahi hai yeh hi arz-e-Nainawa
+  Marhaba aye jan-e-Ali marhaba
+
+  13
+  Gaud ke palay bhi tu qurban sab hoye
+  Dastaan wafa ki likhi sab ne khon se
+  Shah-e-ummam dasht mein tanha jo ho gaye
+  Kehti rahi bint-e-Ali sar ko peet ke
+
+  14
+  Aa ke yahan dekhiye baba zara
+  Bhai mera dasht mein mara gaya
+  Karbala ke dasht mein Sarwar ki thi fogaan
+  Mara gaya haye re kariyal mera jawaan
+
+  15
+  Toot gayi oss ke kalejay mein bhi sina
+  Ab main jawaan lal ko paon bhala kahan
+  Noha gham-e-shah ka jis dam likha
+  Ro ke yeh Izhar bhi kehta raha
+
+  16
+  Tajdar Karbala aslam aslam!
+  Mustafa ke dilruba aslam aslam!
+  Ibn-e-shah e la fatah aslam aslam!
+  Aoun-o-Muhammad ki maa aslam aslam!
+
+  17
+  Akbar-o-Qasim jawaan aslam aslam!
+  Asghar tashna dahan aslam aslam!
+  Bint-e-shah e Karbala aslam aslam!
+  Maula Ghazi bawafa aslam aslam!
+
+  18
+  Aye mere pyasay imam aslam aslam!
+  Aye shaheed-e-Nainwa aslam aslam!
+  Aye ghareb e Syeda salam!
+  Ya Hussain ya Hussain ya Hussain!
 ---
 
-1
-Labaik Ya Hussain Labaik Ya Hussain.
-Ya Sarallah Hussain Ya Sarallah Hussain.
-Hussain Hussain Hussain.
-Badshah Hussain.
+۱
+لبیک یا حسین، لبیک یا حسین
+یا ثار اللہ حسین، یا ثار اللہ حسین
+حسین حسین حسین
+بادشاہ حسین
 
-2
-Shehanshah Hussain.
-Hal Atta Hussain.
-Innama Hussain.
-Rahbar Hussain.
+۲
+شہنشاہ حسین
+ہل اتیٰ حسین
+انما حسین
+رہبر حسین
 
-3
-Rehnuma Hussain.
-Rabta Hussain.
-Marhaba Hussain.
-Jan-o-Dil Hussain.
+۳
+رہنما حسین
+رابطہ حسین
+مرحبا حسین
+جان و دل حسین
 
-4
-Dein Panah Hussain.
-Ahl-e-Azza Ka Aasra Hussain.
-Arsh Se Bhi Aa Rahi Hai Yeh Sada.
-Fatima Ke Noor-e-Ain Marhaba.
+۴
+دیں پناہ حسین
+اہلِ عزا کا آسرا حسین
+عرش سے بھی آ رہی ہے یہ صدا
+فاطمہ کے نورِ عین مرحبا
 
-5
-Aslam Aye Tajdar-e-Karbala.
-Aslam Aye Badshah-e-Karbala.
-Dukhtar-e-Rasool Fatima Ke Dil Ke Chain.
-Mujtaba Ki Jan Murtaza Ke Noor-e-Ain.
+۵
+السلام اے تاجدارِ کربلا
+السلام اے بادشاہِ کربلا
+دخترِ رسول فاطمہ کے دل کے چین
+مجتبیٰ کی جاں، مرتضیٰ کے نورِ عین
 
-6
-Deen-e-Mustafa Ki Ab Hai Tu Hi Zaib-o-Zeen.
-Kar Rahe Hain Tujh Ko Sab Salam Ya Hussain.
-Karbala Se Aa Rahi Hai Yeh Sada.
-Tu Ne Hi Islam Ko Zindah Kiya.
+۶
+دینِ مصطفیٰ کی اب ہے تو ہی زیب و زین
+کر رہے ہیں تجھ کو سب سلام یا حسین
+کربلا سے آ رہی ہے یہ صدا
+تو نے ہی اسلام کو زندہ کیا
 
-7
-Keh Raha Hai Aaj Tu Sara Jahan Yehi.
-Tere Siwa Dein Ka Mohafiz Nahi Koi.
-Tham Ke Hathoon Mein Apne Parcham-e-Jarri.
-Ja Rahe Hain Janib-e-Karb-o-Bala Sabhi.
+۷
+کہہ رہا ہے آج تو سارا جہاں یہی
+تیرے سوا دیں کا محافظ نہیں کوئی
+تھام کے ہاتھوں میں اپنے پرچمِ جری
+جا رہے ہیں جانبِ کرب و بلا سبھی
 
-8
-Keh Rahe Mil Ke Yeh Ahl-e-Azza.
-Cha Gaya Hai Zehan-o-Dil Pe Ba Wafa.
-Matam-e-Shabeer Rukay Ga Na Ab Kabhi.
-Parcham-e-Abbas Jhukay Ga Na Ab Kabhi.
+۸
+کہہ رہے مل کے یہ اہلِ عزا
+چھا گیا ہے ذہن و دل پہ باوفا
+ماتمِ شبیر رکے گا نہ اب کبھی
+پرچمِ عباس جھکے گا نہ اب کبھی
 
-9
-Ho Gi Azadaron Ki Aankhon Mein Bhi Nami.
-Roye Ga Tashna Labon Ko Ab Tu Har Koi.
-Jari Rahe Ga Yeh Sada Silsila.
-Hashar Talak Ho Ga Tera Tazkira.
+۹
+ہو گی عزاداروں کی آنکھوں میں بھی نمی
+روئے گا تشنہ لبوں کو اب تو ہر کوئی
+جاری رہے گا یہ سدا سلسلہ
+حشر تلک ہو گا تیرا تذکرہ
 
-10
-Garor Toot Gaya Koi Martaba Na Mila.
-Jafa Ke Baad Bhi Kuch Hasil-e-Jafa Na Mila.
-Sar-e-Hussain Mila Hai Yazid Ko Lekin.
-Shikast Yeh Hai Keh Phir Bhi Jhuka Howa Na Mila.
+۱۰
+غرور ٹوٹ گیا کوئی مرتبہ نہ ملا
+جفا کے بعد بھی کچھ حاصلِ جفا نہ ملا
+سرِ حسین ملا ہے یزید کو لیکن
+شکست یہ ہے کہ پھر بھی جھکا ہوا نہ ملا
 
-11
-Arsh Se Bhi Aa Rahi Hai Yeh Sada.
-Fatima Ke Noor-e-Ain Marhaba.
-Karbala Mein Tu Ne Bhara Ghar Luta Diya.
-Teen Din Ki Pyas Mein Sar Bhi Kata Diya.
+۱۱
+عرش سے بھی آ رہی ہے یہ صدا
+فاطمہ کے نورِ عین مرحبا
+کربلا میں تو نے بھرا گھر لٹا دیا
+تین دن کی پیاس میں سر بھی کٹا دیا
 
-12
-Jo Kabhi Kiya Tha Woh Wadah Nibha Diya.
-Tu Azeem Hai Yeh Jahan Ko Bata Diya.
-Keh Rahi Hai Yeh Hi Arz-e-Nainawa.
-Marhaba Aye Jan-e-Ali Marhaba.
+۱۲
+جو کبھی کیا تھا وہ وعدہ نبھا دیا
+تو عظیم ہے یہ جہاں کو بتا دیا
+کہہ رہی ہے یہ ہی ارضِ نینوا
+مرحبا اے جانِ علی مرحبا
 
-13
-Gaud Ke Palay Bhi Tu Qurban Sab Hoye.
-Dastaan Wafa Ki Likhi Sab Ne Khon Se.
-Shah-e-Ummam Dasht Mein Tanha Jo Ho Gaye.
-Kehti Rahi Bint-e-Ali Sar Ko Peet Ke.
+۱۳
+گود کے پالے بھی تو قربان سب ہوئے
+داستان وفا کی لکھی سب نے خون سے
+شاہِ امم دشت میں تنہا جو ہو گئے
+کہتی رہی بنتِ علی سر کو پیٹ کے
 
-14
-Aa Ke Yahan Dekhiye Baba Zara.
-Bhai Mera Dasht Mein Mara Gaya.
-Karbala Ke Dasht Mein Sarwar Ki Thi Fogaan.
-Mara Gaya Haye Re Kariyal Mera Jawaan.
+۱۴
+آ کے یہاں دیکھیے بابا ذرا
+بھائی میرا دشت میں مارا گیا
+کربلا کے دشت میں سرور کی تھی فغاں
+مارا گیا ہائے رے کڑیل میرا جواں
 
-15
-Toot Gayi Oss Ke Kalejay Mein Bhi Sina.
-Ab Main Jawaan Lal Ko Paon Bhala Kahan.
-Noha Gham-e-Shah Ka Jis Dam Likha.
-Ro Ke Yeh Izhar Bhi Kehta Raha.
+۱۵
+ٹوٹ گئی اس کے کلیجے میں بھی سناں
+اب میں جواں لال کو پاؤں بھلا کہاں
+نوحہ غمِ شاہ کا جس دم لکھا
+رو کے یہ اظہار بھی کہتا رہا
 
-16
-Tajdar Karbala Aslam Aslam!
-Mustafa Ke Dilruba Aslam Aslam!
-Ibn-e-Shah e La Fatah Aslam Aslam!
-Aoun-o-Muhammad Ki Maa Aslam Aslam!
+۱۶
+تاجدارِ کربلا السلام السلام!
+مصطفیٰ کے دلربا السلام السلام!
+ابنِ شاہِ لا فتیٰ السلام السلام!
+عون و محمد کی ماں السلام السلام!
 
-17
-Akbar-o-Qasim Jawaan Aslam Aslam!
-Asghar Tashna Dahan Aslam Aslam!
-Bint-e-Shah e Karbala Aslam Aslam!
-Maula Ghazi Bawafa Aslam Aslam!
+۱۷
+اکبر و قاسم جواں السلام السلام!
+اصغر تشنہ دہن السلام السلام!
+بنتِ شاہِ کربلا السلام السلام!
+مولا غازی باوفا السلام السلام!
 
-18
-Aye Mere Pyasay Imam Aslam Aslam!
-Aye Shaheed-e-Nainwa Aslam Aslam!
-Aye Ghareb e Syeda Salam!
-Ya Hussain Ya Hussain Ya Hussain!
+۱۸
+اے میرے پیاسے امام السلام السلام!
+اے شہیدِ نینوا السلام السلام!
+اے غریبِ سیدہ سلام!
+یا حسین یا حسین یا حسین!

@@ -1,6 +1,6 @@
 ---
 title: "آغوشِ محمد کا یوں پالا تو دکھاؤ"
-alternateTitle: "Aagosh-e-Muhammad Ka Youn Pala To Dikhao"
+alternateTitle: "Aaghosh-e-Muhammad Ka Yuṅ Paala To Dikhaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aagosh-e-Muhammad ka youn pala to dikhao
-  Mujh ko Hussain sa koi mula to dikhao
-  Milti nahi tareekh mein aisi koi misal
-  Jaisi keh Hur ne ki mujhe toba to dikhao
+  Aaghosh-e-Muhammad ka yuṅ paala to dikhaao
+  Mujh ko Husain sa koi Maula to dikhaao
+  Milti nahiṅ taarikh mein aisi koi misaal
+  Jaisi ke Hur ne ki mujhe tauba to dikhaao
 
   2
-  Sajday ta qayamat youn adda hote rahein gaye
-  Khud sajday jis ko karte hoon sajda to dikhao
-  Ik khutba diya our ulat dala takh ko
-  Sajjad ke jaisa mujhe hamla to dikhao
+  Sajde taa qayaamat yuṅ ada hote raheṅ ge
+  Khud sajde jis ko karte hoṅ sajda to dikhaao
+  Ik khutba diya aur ulat daala takht ko
+  Sajjad ke jaisa mujhe hamla to dikhaao
 
   3
-  Shak Hazrat Imran mein karte ho aap loag
-  Apno ka pehle tum mujhe shajra to dikhao
-  Jaise woh aaye pul pe farishte yahi bolay
-  Iss se abboor hone ka nama to dikhao
+  Shak Hazrat Imraan mein karte ho aap log
+  Apnoṅ ka pehle tum mujhe shajra to dikhaao
+  Jaise woh aaye pul pe farishte yahi bole
+  Is se ubur hone ka naama to dikhaao
 
   4
-  Aayi hain jab se gaud-e-Khadija mein Fatima
-  Abtar ke jaisa phir mujhe tana to dikhao
-  Tableegiyon se Yousufi karta hai ik sawal
-  Mujh ko Fidak ke choron ka chehra to dikhao
+  Aayi haiṅ jab se god-e-Khadija mein Fatima
+  Abtar ke jaisa phir mujhe taana to dikhaao
+  Tablighiyoṅ se Yusufi karta hai ik sawaal
+  Mujh ko Fidak ke choroṅ ka chehra to dikhaao
 ---
 
 ۱

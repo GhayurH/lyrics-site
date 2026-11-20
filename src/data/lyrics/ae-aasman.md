@@ -1,7 +1,7 @@
 ---
 title: "اے آسمان اے آسمان"
 recitationId: "ay-aasman"
-alternateTitle: "Ae Aasman"
+alternateTitle: "Ae Aasmaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Hilta tha Arsh-e-Kibriya
   Sakte meiṅ the kul ambiya
-  Jab naujawaṅ ke qalb se
+  Jab naujawaaṅ ke qalb se
   Kheinchi zaifi ne sinaaṅ
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   Tuti dulhan ki churiyaaṅ
 
   4
-  Bachi sisakti reh gayi
+  Bachchi sisakti reh gayi
   Chehroṅ ko takti reh gayi
   Jab nehr par maara gaya
   Ahl-e-haram ka paasbaan
@@ -46,14 +46,14 @@ romanLyrics: |-
   6
   Ye bekasi maqtal meiṅ thi
   Ye laash thi mazlum ki
-  Jab paemaali ke liye
+  Jab paaymaali ke liye
   Hone lagi tayyaariyaaṅ
 
   7
   Taskin-e-shar hoti rahi
   Insaniyat roti rahi
   Jab gardan-e-bimaar meiṅ
-  Dekha gaya tauq-e-giraṅ
+  Dekha gaya tauq-e-giraaṅ
 
   8
   Shahid sar-e-Karb o Bala

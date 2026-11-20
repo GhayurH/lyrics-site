@@ -9,61 +9,38 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Khizaan Ne Loot Li Sari Bahar Ik Din Mein Mir Hasan Mir"
-romanLyrics: 'Haye ghareeb haye hussain
-
+romanLyrics: |-
+  Haaye ghareb haaye Husain
+  Khizaaṅ ne lut li saari bahaar ik din mein
+  Husain qatl hue kitni baar ik din mein
 
   1
-
-  Khiza ne loot-li saari bahaar ek din mein
-
-  Hussain qatl huwe kitni baar ek din mein
-
-  Khiza ne lootli...
-
-  Kahan chale gaye abid phuphi se kehte thay
-
-  Akela chor ke sab jaanisaar ek din mein
-
-  Khiza ne lootli...
-
+  Kahaaṅ chale gaye Aabid phuphi se kehte the
+  Akela chhor ke sab jaanisaar ik din mein
 
   2
-
-  Ye baat pooche to abid ki bekasi se koi
-
-  Banaye kaise bahattar mazaar ek din mein
-
-  Khiza ne lootli...
-
-  Abhi to shaam talak hai safar sakina ka
-
-  Tamache itne na bachi ko maar ek din mein
-
+  Ye baat puchhe to Aabid ki bekasi se koi
+  Banaaye kaise bahattar mazaar ik din mein
 
   3
-
-  Anguthi koi aba koi le gaya kurta
-
-  Luti yun laashe ghareeb-ud dayaar ek din mein
-
-  Khiza ne lootli...
-
-  Jawan bete ki mayyat pe keh rahe thay hussain
-
-  Mai lut gaya mere parwar-digar ek din mein
-
+  Abhi to Shaam talak hai safar Sakina ka
+  Tamaanche itne na bachi ko maar ik din mein
 
   4
+  Anguthi koi aba koi le gaya kurta
+  Luti yuṅ laash-e-Ghareb-ud-Dayaar ik din mein
 
-  Tumhare baba ke zakhmo mein zakhm hai bibi
+  5
+  Jawaan bete ki mayyat pe keh rahe the Husain
+  Main lut gaya mere parwardigaar ik din mein
 
-  Ye zakhm kaise karogi shumaar ek din mein
+  6
+  Tumhaare baaba ke zakhmoṅ mein zakhm hai Bibi
+  Ye zakhm kaise karogi shumaar ik din mein
 
-  Khiza ne lootli...
-
-  Dil-e-mareez ne jhele hai itne gham akhtar
-
-  Qalam se hona sakenge shumaar ek din mein'
+  7
+  Dil-e-mareez ne jhele hain itne gham Akhtar
+  Qalam se ho na sakeṅge shumaar ik din mein
 ---
 
 ہا ے غریب ہا ےحسین

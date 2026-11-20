@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaam e ashur jab rote rote
-  Ghash kha gayi sakina
-  Khwaab may dekhti hai sakina
-  Bhaiya qaasim ka aaya hai sehra
+  Shaam-e-Aashur jab rote rote
+  Ghash kha gayi Sakina
+  Khwaab mein dekhti hai Sakina
+  Bhaiya Qaasim ka aaya hai sehra
   Jab na aaya nazar usko dulha
-  Maqtal may usko dhundne nikli wo jaa ba jaa
-  Nagaah usko laasha e qasim nazar aaya
-  Laashe qasim pe boli sakina
-  Ghar chalo bhai mehndi lagalo
-  Ghar may shadi ki masnad bichai hai
-  Fatema kubra dulhan bani hai
-  Dhum shaadi ki ran may machai hai
+  Maqtal mein usko dhundne nikli hai jaa ba jaa
+  Naagaah usko laasha-e-Qaasim nazar aaya
+  Laash-e-Qaasim pe boli Sakina
+  Ghar chalo bhai mehndi laga lo
+  Ghar mein shaadi ki masnad bichhi hai
+  Fatema Kubra dulhan bani hai
+  Dhum shaadi ki ran mein machi hai
   Ghar chalo bhai...
-  Manqabat dada hyder ki pad kar
-  Haath may tera sehra utha kar
-  Tujhko awaaz deti hai khwahar
+  Manqabat dada Haidar ki parh kar
+  Haath mein tera sehra utha kar
+  Tujhko aawaaz deti hai khwaahar
   Ghar chalo bhai...
-  Ye ghari mujhko rab ne dikhayi
-  Aaj hai teri rasm e hinaayi
+  Ye ghari mujhko Rab ne dikhaayi
+  Aaj hai teri rasm-e-hinaayi
   Neg mehndi ka dena hai bhai
   Ghar chalo bhai...
-  Kaisa kubra ka bigra muqaddar
-  Syaah kapre hai uske badan par
-  Kiuṅ ye kehti hoo mai ban may ro kar
+  Kaisa Kubra ka bigra muqaddar
+  Siyaah kapre hain uske badan par
+  Kiuṅ ye kehti huṅ main ban mein ro kar
   Ghar chalo bhai...
-  Jis ghari tuta khwaab e sakina
-  Khud ko usne sar e dasht paaya
-  Pit ke sar pukari wo dukhiya
+  Jis ghari tuta khwaab-e-Sakina
+  Khud ko usne sar-e-dasht paaya
+  Pit ke sar pukaari wo dukhiya
   Ghar chalo bhai...
-  Hai phupi ke laboṅ par ye nauha
-  Hogaya qatl maqtal may dulha
-  Raaegaṅ hai mera ab ye kehna
+  Hai phuphi ke laboṅ par ye nauha
+  Ho gaya qatl maqtal mein dulha
+  Raaegaaṅ hai mera ab ye kehna
   Ghar chalo bhai...
-  Amma farwa ko kaise sambhaluṅ
-  Kis tarha mai tasalli unhe doo
-  Pehle khud ko ye kehke sambhalo
+  Ammaṅ Farwa ko kaise sambhaaluṅ
+  Kis tarah main tasalli unheṅ duṅ
+  Pehle khud ko ye keh ke sambhaalo
   Ghar chalo bhai...
-  Dasht may tha jo pur dard manzar
-  Keh nahi paaye irfan o mazhar
+  Dasht mein tha jo pur dard manzar
+  Keh nahiṅ paaye Irfan o Mazhar
   Kaampti thi zamiṅ bas ye sun kar
   Ghar chalo bhai...
 ---

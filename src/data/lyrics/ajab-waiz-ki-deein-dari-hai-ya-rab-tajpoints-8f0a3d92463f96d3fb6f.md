@@ -1,25 +1,41 @@
 ---
-title: "Ajab Waiz Ki Deein Dari Hai Ya Rab"
+title: "عجب واعظ کی دین داری ہے یا رب"
+alternateTitle: "Ajab Waiz Ki Deein Dari Hai Ya Rab"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ajab waiz ki deein dari hai ya Rab
+  Adawat hai ossay sare jahan se
+
+  1
+  Koi ab tak na ye samaj paya keh insaan
+  Kahan jata hai atta hai kahan se
+  Wahin se raat ko zulmat milli hai
+  Chamak tare ne payi hai jahan se
+
+  2
+  Hum apni dard mandi ka fasana
+  Suna karte hain apne raazdaan se
+  Bari bareek hain waiz ki chalein
+  Larz jata hai awaz-e-azaan se
 ---
 
-Ajab Waiz Ki Deein Dari Hai Ya Rab.
-Adawat Hai Ossay Sare Jahan Se.
+عجب واعظ کی دین داری ہے یا رب
+عداوت ہے اسے سارے جہاں سے
 
-1
-Koi Ab Tak Na Ye Samaj Paya Keh Insaan.
-Kahan Jata Hai Atta Hai Kahan Se.
-Wahin Se Raat Ko Zulmat Milli Hai.
-Chamak Tare Ne Payi Hai Jahan Se.
+۱
+کوئی اب تک نہ یہ سمجھ پایا کہ انسان
+کہاں جاتا ہے آتا ہے کہاں سے
+وہیں سے رات کو ظلمت ملی ہے
+چمک تارے نے پائی ہے جہاں سے
 
-2
-Hum Apni Dard Mandi Ka Fasana.
-Suna Karte Hain Apne Raazdaan Se.
-Bari Bareek Hain Waiz Ki Chalein.
-Larz Jata Hai Awaz-e-Azaan Se.
+۲
+ہم اپنی درد مندی کا فسانہ
+سنا کرتے ہیں اپنے رازداں سے
+بڑی باریک ہیں واعظ کی چالیں
+لرز جاتا ہے آوازِ اذاں سے

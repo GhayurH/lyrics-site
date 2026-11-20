@@ -12,40 +12,40 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam kya hai dunya waaloṅ zulm se nafrat ka aelaan
-  Majlis kya hai Shah se mohabbat aur aqidat ka aelaan
+  Maatam kya hai duniya waaloṅ zulm se nafrat ka elaan
+  Majlis kya hai Shah se mohabbat aur aqidat ka elaan
 
   1
   Haq kya hai aur baatil kya hai kufr hai kya Islam hai kya
-  Karbobala meiṅ Shah ne kiya hai sab ki haqiqat ka aelaan
+  Karbobala meiṅ Shah ne kiya hai sab ki haqiqat ka elaan
 
   2
-  Bojh gunaahoṅ ka bhi bara to fikr nahiṅ ha roz-e-jaza
-  Ashk-e-gham-e-Shah pe kareṅge apni shafaaat ka aelaan
+  Bojh gunaahoṅ ka bhi bara to fikr nahiṅ har roz-e-jaza
+  Ashk-e-gham-e-Shah pe kareṅ ge apni shafaaat ka elaan
 
   3
-  Kufr ki koshish hai ye musalsal zikr-e-Shaah-e-diṅ mit jaaye
-  Zikr-e-Shaah-e-diṅ mit nahiṅ sakta hai ye mashiyat ka aelaan
+  Kufr ki koshish hai ye musalsal zikr-e-Shah-e-diṅ mit jaaye
+  Zikr-e-Shah-e-diṅ mit nahiṅ sakta hai ye mashiyat ka elaan
 
   4
   Chhin liya Abbas ne darya phir bhi laboṅ ko tar na kiya
-  Tashna labi ke saath kiya hai apni shujaaat ka aelaan
+  Tashna labi ke saath kiya hai apni shujaaat ka elaan
 
   5
-  Nargha-e-aada meiṅ bhi hua ek hashr bapa kohraam macha
-  Asghar ke hoṅtoṅ pe tabassum aakh-e-qayaamat ka aelaan
+  Nargha-e-aadaa meiṅ bhi hua ek hashr bapa kohraam macha
+  Asghar ke hoṅtoṅ pe tabassum aq-e-qayaamat ka elaan
 
   6
-  Chhup na sakega khun-e-shahidaaṅ taaba qayaamat Zainab ne
-  Shaam ke baazaaroṅ meiṅ kiya is tarah shahaadat ka aelaan
+  Chhup na sakega khun-e-shahidaaṅ ta ba qayaamat Zainab ne
+  Shaam ke baazaaroṅ meiṅ kiya is tarah shahaadat ka elaan
 
   7
   Maqtal meiṅ jab Shah ne pukaara hai koi meri nusrat ko
-  Gir gaye jhule se Asghar ye sun ke imaamat ka aelaan
+  Gir gaye jhule se Asghar ye sun ke imaamat ka elaan
 
   8
   Karbobala waaloṅ ki kahaani hum ko bataati hai Uruj
-  Sibt-e-Nabi ne phir se kiya hai din o shariat ka aelaan
+  Sibt-e-Nabi ne phir se kiya hai din o shariat ka elaan
 ---
 ماتم کیا ہے دنیا والوں ظلم سے نفرت کا اعلان
 مجلس کیا ہے شہ سے محبت اور عقیدت کا اعلان

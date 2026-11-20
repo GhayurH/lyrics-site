@@ -10,29 +10,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa ja way veer Asghar tainu lori sunawaan
-  Kujh dair da mehman ayein tainu seene main lawaan
-  Jiwein Sughra da manr aye Akbar
-  Ewein toon meri jan ayein Asghar
-  Tere baaj dasday veran kiwein chain main pawaan
-  Khushk buliyan te nalay garam hawa
-  Pyas ne kita tera khushk gala
-  Majboor bhainr teri kiwein pani pilawaan
-  Chacha Ghazi v chad gaya kaliyaan
-  Hun mera veer toon v tur chaliyaan
-  Tere naal chaldiyan ne hunr meriyaan sanwaan
-  Tere bajoon main Sham nu janra
-  Veer Karbal nu mur ke nayi aanraan
-  Mainu le ke tur paiyaan ne haye Sham qazawan
+  Aa ja ve vir Asghar tainu lori sunawaan
+  Kujh dair da mehmaan ain tainu sine main lawaan
+  Jiwein Sughra da maan ae Akbar
+  Ewein tun meri jaan ain Asghar
+  Tere baaj dass de viraan kiwein chain main paawaan
+  Khushk bulliyaan te naale garam hawa
+  Pyaas ne kita tera khushk gala
+  Majbur bhain teri kiwein paani pilaawaan
+  Chaacha Ghazi vi chhadd gaya kaliyaan
+  Hun mera vir tun vi tur chaliyaan
+  Tere naal chaldiyaan ne hun meriyaan saanwaan
+  Tere baajon main Shaam nu jaana
+  Vir Karbal nu mur ke nain aanaan
+  Mainu le ke tur paiyaan ne haaye Shaam qazaawaan
   Pa ke rasiyaan ne tur paye sare
-  Chad ke Karbal di rait te pyaray
-  Kujh neziyaan te sir ne kujh te ne ridawaan
-  Shala Qayam da hun zahoor howay
-  Maula nal Sham wich Ashor howay
-  Turbat teri te bibi aa deway jalawan
-  Wird har dam Dua-e-Zainab da
-  Howay jaldi zahoor Qayam da
-  Seene choon matami de ayho aan sadawaan
+  Chhadd ke Karbal di rait te pyaare
+  Kujh neziyaan te sir ne kujh te ne ridaawaan
+  Shaala Qaaim da hun zuhur hove
+  Maula naal Shaam vich Aashur hove
+  Turbat teri te Bibi aa deve jalaawaan
+  Wird har dam dua-e-Zainab da
+  Hove jaldi zuhur Qaaim da
+  Sine chon maatami de eho aan sadaawaan
 ---
 
 ۱

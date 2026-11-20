@@ -1,38 +1,66 @@
 ---
-title: "Khowabaan Ch Veer Nu Nana Asghar Khan Lyrics 2015"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "خواباں چ ویر نوں نانا اصغر خان"
+alternateTitle: "Khowabaan Ch Veer Nu Nana Asghar Khan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khowabaan ch veer nu nana Asghar Khan
+  Khowabaan ch veer nu nana jadon bolwaan Akbar nai bolda
+
+  1
+  Teri Sughra waan haye ro ro ke aakhdi jawan haye Akbar nai bolda
+  Awaz main dewan te chan veer chup raway
+  Aj taein aynj nai hoya dil mein kinj saway
+  Ayna dardaan tu haye meri muk na jawan sawan haye Akbar nai bolda
+
+  2
+  Main wekhiya aye nana wich dasht-e-Karbala
+  Phirda piya aye baba chuk ke mera bhira
+  Piya Ghazi nu haye piya Ghazi nu oh deway ro ro sadawaan haye Akbar nai bolda
+  Zainab phophi nu baba ro ro ke aakhiya
+
+  3
+  Darda piyaan haan Zainab mar jaye na Laila
+  Kiwein Laila nu haye kiwein Laila nu Zainab aye khabar sonawaan haye Akbar nai bolda
+  Main aakhni aan Akbar shagnaa ch kho giya ayein
+  Seene te mehndi la ke hath rakh ke so giya ayein
+
+  4
+  Koi lay jaway haye koi laye jaway ohday kool main onno jagawaan haye Akbar nai bolda
+  Chum ke qabar nu Sughra Saqlain aye kiya
+  Wich khaimiyaan de nana manzar main wekhiya
+  Ikko wain karan haye ikko wain karan mere veer te phophiyaan mawaan haye Akbar nai bolda
 ---
 
-Khowabaan Ch Veer Nu Nana Asghar Khan
-Khowabaan Ch Veer Nu Nana Jadon Bolwaan Akbar Nai Bolda.
+خواباں چ ویر نوں نانا اصغر خان
+خواباں چ ویر نوں نانا جدوں بولواں اکبر نئیں بولدا
 
-1
-Teri Sughra Waan Haye Ro Ro Ke Aakhdi Jawan Haye Akbar Nai Bolda.
-Awaz Main Dewan Te Chan Veer Chup Raway.
-Aj Taein Aynj Nai HOya Dil Mein Kinj Saway.
-Ayna Dardaan Tu Haye Meri Muk Na Jawan Sawan Haye Akbar Nai Bolda.
+۱
+تیری صغرا واں ہائے رو رو کے آکھدی جاواں ہائے اکبر نئیں بولدا
+آواز میں دیواں تے چن ویر چپ روے
+اج تائیں اینج نئیں ہویا دل میں کنج سووے
+ایناں درداں توں ہائے میری مک نہ جاون ساواں ہائے اکبر نئیں بولدا
 
-2
-Main Wekhiya Aye Nana Wich Dasht-e-Karbala.
-Phirda Piya Aye Baba Chuk Ke Mera Bhira.
-Piya Ghazi Nu Haye piya Ghazi Nu Oh Deway Ro Ro Sadawaan Haye AkbarNai Bolda.
-Zainab Phophi Nu Baba Ro Ro Ke Aakhiya.
+۲
+میں ویکھیا اے نانا وچ دشتِ کربلا
+پھردا پیا اے بابا چک کے میرا بھرا
+پیا غازی نوں ہائے پیا غازی نوں اوہ دیوے رو رو صداواں ہائے اکبر نئیں بولدا
+زینب پھوپھی نوں بابا رو رو کے آکھیا
 
-3
-Darda Piyaan Haan Zainab Mar Jaye Na Laila.
-Kiwein Laila Nu Haye Kiwein Laila Nu Zainab Aye Khabar Sonawaan Haye Akbar Nai Bolda.
-Main Aakhni Aan Akbar Shagnaa Ch Kho Giya Ayein.
-Seene Te Mehndi La Ke Hath Rakh Ke So GIya Ayein.
+۳
+ڈردا پیاں ہاں زینب مر جائے نہ لیلا
+کیویں لیلا نوں ہائے کیویں لیلا نوں زینب اے خبر سناواں ہائے اکبر نئیں بولدا
+میں آکھنی آں اکبر شگناں چ کھو گیا ایں
+سینے تے مہندی لا کے ہتھ رکھ کے سو گیا ایں
 
-4
-Koi Lay Jaway Haye Koi Laye Jaway Ohday Kool Main Onno Jagawaan Haye Akbar Nai Bolda.
-Chum Ke Qabar Nu Sughra Saqlain Aye Kiya.
-Wich Khaimiyaan De Nana Manzar Main Wekhiya.
-Ikko Wain Karan Haye Ikko Wain Karan Mere Veer Te Phophiyaan Mawaan Haye Akbar Nai Bolda.
+۴
+کوئی لے جاوے ہائے کوئی لے جاوے اوہدے کول میں اونوں جگاواں ہائے اکبر نئیں بولدا
+چم کے قبر نوں صغرا ثقلین اے کہیا
+وچ خیمیاں دے نانا منظر میں ویکھیا
+اکو وین کرن ہائے اکو وین کرن میرے ویر تے پھوپھیاں ماواں ہائے اکبر نئیں بولدا

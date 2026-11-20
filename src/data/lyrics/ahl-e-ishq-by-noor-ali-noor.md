@@ -10,10 +10,10 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hamari maout bhi banti hai bais-e-majlis
-  Hum apni maout bhi nazr-e-Imam karte hain
-  Hum ahl-e-ishq ka rishta hai oss qabele se
-  Jahan kate howay sir bhi kalam karte hain
+  Hamaari maut bhi banti hai baais-e-majlis
+  Ham apni maut bhi nazr-e-Imaam karte haiṅ
+  Ham ahl-e-ishq ka rishta hai us qabile se
+  Jahaaṅ kate hue sar bhi kalaam karte haiṅ
 ---
 
 ۱

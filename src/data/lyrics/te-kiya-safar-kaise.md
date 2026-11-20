@@ -1,7 +1,7 @@
 ---
 title: "طے کیا کیسے سفر پہنے بیڑیاں عابد"
 recitationId: "tay-kiya-safar-kaise"
-alternateTitle: "Te Kiya Safar Kaise"
+alternateTitle: "Tay Kiya Safar Kaise"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Te kiya safar kaise pehne beriyaaṅ Abid
+  Tay kiya safar kaise pehne beriyaaṅ Abid
   Sar khule thiṅ naaqoṅ par saath Bibiyaaṅ Abid
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
   Kaise dekha aankhoṅ ne haye wo samaaṅ Abid
 
   3
-  Bekaja wa untoṅ par haiṅ haram barehna sar
+  Be kaja wo untoṅ par haiṅ haram barehna sar
   Sar jhukaaye jaate haiṅ ban ke saarbaan Abid
 
   4
@@ -40,7 +40,7 @@ romanLyrics: |-
   Rote the wo pyaasoṅ par le ke hichkiyaaṅ Abid
 
   7
-  Zikr tashna kaamoṅ ka subh shaam karta hai
+  Zikr tashna kaamoṅ ka hai subh shaam karta hai
   Yuṅ Anis hai tujh par aaj mehrbaan Abid
 ---
 طے کیا کیسے سفر پہنے بیڑیاں عابد

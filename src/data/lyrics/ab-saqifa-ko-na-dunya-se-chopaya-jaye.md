@@ -1,6 +1,6 @@
 ---
 title: "اب سقیفہ کو نہ دنیا سے چھپایا جائے"
-alternateTitle: "Ab Saqifa Ko Na Dunya Se Chopaya Jaye"
+alternateTitle: "Ab Saqifa Ko Na Dunya Se Chhupaya Jaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ab Saqifa ko na dunya se chopaya jaye
-  Kis ne mara hai Fatima ko bataya jaye
-  Beti ka haq nahi tu haq kaisa hai
-  Tum ghulamo ko bhi mimber par bithaya jaye
+  Ab Saqifa ko na dunya se chhupaya jaye
+  Kis ne maara hai Fatima ko bataya jaye
+  Beti ka haq nahiṅ to haq kaisa hai
+  Tum ghulaamoṅ ko bhi minbar par bithaya jaye
 
   2
-  Farman-e-Nabi jis ne jhutlaya tha
-  Oss ko keh kar na Razi Allah bulaya jaye
-  Aawaz sun rahe they Nabi arshon par
+  Farmaan-e-Nabi jis ne jhutlaya tha
+  Us ko keh kar na Raazi Allah bulaya jaye
+  Aawaaz sun rahe the Nabi arshoṅ par
   Fatima Zahra ka darwaza jalaya jaye
 
   3
-  Tehreer-e-Muhammad hai Quran zalim
-  Boli Zahra na youn qadmo mein giraya jaye
+  Tehrir-e-Muhammad hai Quran zaalim
+  Boli Zahra na yuṅ qadmoṅ mein giraya jaye
   Bas Joun ki ibadat yeh hi logo
-  Dushman-e-Zahra pe tabarah lagaya jaye
+  Dushman-e-Zahra pe tabarra lagaya jaye
 ---
 
 ۱

@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye sayeda zainab jaane karbala zainab
-  Misle bawafa zainab ajaare jafa zainab
-  Jinn o ins rote hai, keh ke jaan khote hai
-  Wa musibata zainab haye sayeda zainab
-  Haye haye haye sayeda zainab
-  Bani-e-aza zainab
-  Pehli zakira zainab
-  Haye sayeda zainab…
-  Zulm o jaur sehne ki ibteda to maa ne ki
-  Tu hai inteha zainab haye sayeda zainab
-  Haye haye haye sayeda zainab…
-  Raat ke andhere meiṅ dushmano ke ghayre meiṅ
-  Dhundti hai kya zainab haye sayeda zainab
-  Haye haye haye sayeda zainab…
-  Dard o gham uthane ko, bangaya zamane ko
-  Tera naksh-e-pa zainab haye sayeda zainab
-  Haye haye haye sayeda zainab…
-  Kitne raah meiṅ bichre kya kya haadse guzre
-  Zulm sab saha zainab haye sayeda zainab
-  Haye haye haye sayeda zainab…
-  Ae anis-e-ziṅ zainab dard ki makiṅ zainab
-  Haye sayeda zainab haye sayeda zainab
-  Haye haye haye sayeda zainab…
+  Haye Sayeda Zainab jaan-e-Karbala Zainab
+  Misl-e-bawafa Zainab ajaare jafa Zainab
+  Jinn o ins rote haiṅ, keh ke jaan khote haiṅ
+  Wa musibata Zainab haye Sayeda Zainab
+  Haye haye haye Sayeda Zainab
+  Baani-e-aza Zainab
+  Pehli zaakira Zainab
+  Haye Sayeda Zainab
+  Zulm o jaur sehne ki ibteda to maaṅ ne ki
+  Tu hai inteha Zainab haye Sayeda Zainab
+  Haye haye haye Sayeda Zainab
+  Raat ke andhere meiṅ dushmanoṅ ke ghere meiṅ
+  Dhundti hai kya Zainab haye Sayeda Zainab
+  Haye haye haye Sayeda Zainab
+  Dard o gham uthaane ko, ban gaya zamaane ko
+  Tera naqsh-e-paa Zainab haye Sayeda Zainab
+  Haye haye haye Sayeda Zainab
+  Kitne raah meiṅ bichhre kya kya haadse guzre
+  Zulm sab saha Zainab haye Sayeda Zainab
+  Haye haye haye Sayeda Zainab
+  Ae Anis-e-ziṅ Zainab dard ki makiṅ Zainab
+  Haye Sayeda Zainab haye Sayeda Zainab
+  Haye haye haye Sayeda Zainab
 ---
 
 ۱

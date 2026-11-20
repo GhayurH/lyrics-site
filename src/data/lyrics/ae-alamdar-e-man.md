@@ -1,7 +1,7 @@
 ---
 title: "اے علمدار من"
 recitationId: "ay-alamdare-man"
-alternateTitle: "Ae Alamdar-e-Man"
+alternateTitle: "Ae Alamdaar-e-Man"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,42 +12,42 @@ tags: []
 aliases: ["Ay Alamdare Man"]
 published: true
 romanLyrics: |-
-  Ae alamdar-e-man
+  Ae alamdaar-e-man
   Ae sipaah daar-e-man
   Ae wafaadaar-e-man aa
-  Maiṅ ho gaya tanha
-  Ya Abbas ya Abbas ya Abbas ya Abbas
+  Main ho gaya tanha
+  Ya Abbaas ya Abbaas ya Abbaas ya Abbaas
 
   1
   Waqt-e-madad hai ba wafa
   Darya pe ab sota hai kya
   Hal min ki deta huṅ sada
-  Sun ae Sakina ke chacha
+  Sun ae Sakina ke chaacha
   Ae mere ba wafa ae mere dilruba
-  Ae mere mah laqa aa
-  Maiṅ ho gaya tanha
-  Ya Abbas ya Abbas ya Abbas
+  Ae mere maah laqa aa
+  Main ho gaya tanha
+  Ya Abbaas ya Abbaas ya Abbaas
 
   2
   Aa dekh meri zindagi
-  Dard o alam meiṅ ghir gayi
+  Dard o alam mein ghir gayi
   Zakhmi hua rahwaar bhi
   Barhne lagi hai tishnagi
   Tu ne rakha bharam
   Har ghari har qadam
   Phir utha le alam aa
-  Maiṅ ho gaya tanha
-  Ya Abbas ya Abbas ya Abbas
+  Main ho gaya tanha
+  Ya Abbaas ya Abbaas ya Abbaas
 
   3
   Laasheṅ utha kar thak gaya
   Puchho na kaise ghar gaya
-  Abbas phir maiṅ gir gaya
-  Samjhi behan maiṅ mar gaya
+  Abbaas phir main gir gaya
+  Samjhi behan main mar gaya
   Haaye kya reh gaya ho gayi intiha
   Jaan-e-mushkil kusha aa
-  Maiṅ ho gaya tanha
-  Ya Abbas ya Abbas ya Abbas
+  Main ho gaya tanha
+  Ya Abbaas ya Abbaas ya Abbaas
 
   4
   Bhaiya mujhe ye hai khabar
@@ -55,10 +55,10 @@ romanLyrics: |-
   Phir bhi magar koshish to kar
   Aa ja taraai chhor kar
   Tere baazu qalam
-  Khuṅ meiṅ duba alam
+  Khuṅ mein duba alam
   Hai Sakina ko gham aa
-  Maiṅ ho gaya tanha
-  Ya Abbas ya Abbas ya Abbas
+  Main ho gaya tanha
+  Ya Abbaas ya Abbaas ya Abbaas
 
   5
   Khanjar tale hai hai mera
@@ -68,8 +68,8 @@ romanLyrics: |-
   Aa mere bhaai aa
   Kat raha hai gala
   Aakhri hai sada aa
-  Maiṅ ho gaya tanha
-  Ya Abbas ya Abbas ya Abbas
+  Main ho gaya tanha
+  Ya Abbaas ya Abbaas ya Abbaas
 ---
 
 اے علمدار من

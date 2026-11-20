@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Jo hai jaah o hasham us ka rakho bharam
   Karti hai ye buka Bint-e-Shaah-e-Umam
-  Aaya hoṅtoṅ pe dam ye lo mashk o alam
+  Aaya hontoṅ pe dam ye lo mashk o alam
   Ye na ho pyaas se mar jaaye pyaase bekhata
   Mere pyaare chacha Abal Fazlil Abbas
   Saaqi Al Atash ae Abal Fazlil Abbas
@@ -57,7 +57,7 @@ romanLyrics: |-
   Dekho sukhi zabaaṅ ae Mir-e-Kaarwaaṅ
   Tum se bole nahiṅ to phir jaaye kahaaṅ
   Zulmat ki dhup hai aur tum ho saaybaaṅ
-  Tum to is Dasht-e-Bala meiṅ ho sab ka aasra
+  Tum to is dasht-e-bala meiṅ ho sab ka aasra
   Mere pyaare chacha Abal Fazlil Abbas
   Saaqi Al Atash ae Abal Fazlil Abbas
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   Sun ke aah o buka Ghaazi-e-Baawafa
   Le ke mashk o alam darya ko chal diya
   Shah ne thaami kamar Zainab ne ki dua
-  Mere maabud zindabaad rahe ye sada
+  Mere maabud zinda baad rahe ye sada
   Saaqi Al Atash ae Abal Fazlil Abbas
 
   8
@@ -79,7 +79,7 @@ romanLyrics: |-
   Baazu kar ke fida ghore se jab gira
   Girte hi khaak par aaqa ko di sada
   Pahuncha Shaah-e-Umam laashe pe ki buka
-  Mujh ko ek baar kaho bhai mere baawafa
+  Mujh ko ik baar kaho bhai mere baawafa
   Mere pyaare chacha Abal Fazlil Abbas
   Saaqi Al Atash ae Abal Fazlil Abbas
 
@@ -92,7 +92,7 @@ romanLyrics: |-
 
   11
   Do laashe aise hai khaimoṅ meiṅ nahiṅ aaye
-  Ek laasha Sarwar ka ek laasha Ghaazi ka
+  Ik laasha Sarwar ka ik laasha Ghaazi ka
 ---
 
 اے ساقی باب الحوائج اے سکینہ کے چچا

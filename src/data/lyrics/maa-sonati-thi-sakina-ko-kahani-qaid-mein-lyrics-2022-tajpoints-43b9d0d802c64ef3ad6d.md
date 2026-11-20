@@ -1,30 +1,49 @@
 ---
-title: "Maa Sonati Thi Sakina Ko Kahani Qaid Mein Lyrics 2022"
+title: "ماں سناتی تھی سکینہ کو کہانی قید میں"
+alternateTitle: "Maa Sunati Thi Sakina Ko Kahani Qaid Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Maa sunati thi Sakina ko kahani qaid mein
+  Aik shahzadi ki guzri zindagani qaid mein
+  Jis ka mashkeza bana tha Aab-e-Kausar ke liye
+  Roti thi woh janwar serab hotey dekh ke
+  Koi deta na tha peenay ko bhi pani qaid mein
+  Chaar barson ki zaeefa ka howa kuch aisa haal
+  Iss ka dewaron ko thamay bin howa chalna mohal
+  Par gayi thi rasam dadi ki nibhani qaid mein
+  Maa yeh ro ke kehti jageer sari lut gayi
+  Arsh se le kar Madine tak ke malik they wohi
+  Aik shehzada hai ab inn ki nishani qaid mein
+  Jis ke ghar se le ke jate they farishtay rotiyaan
+  Be saro saman thin zindaan mein oss ki betiyaan
+  Kaisay kartin Hind ki woh mezbani qaid mein
+  Kehti thi Akbar Sakina maa ke bazu chom kar
+  Aap ki baton se ab mujh ko yehi lagta hai dar
+  Par na jaye inn ko maiyyat ik chopani qaid mein
 ---
 
-1
-Maa Sunati Thi Sakina Ko Kahani Qaid Mein
-Aik Shahzadi Ki Guzri Zindagani Qaid Mein.
-Jis Ka Mashkeza Bana Tha Aab-e-Kausar Ke Liye.
-Roti Thi Woh Janwar Serab Hotey Dekh Ke.
-Koi Deta Na Tha Peenay Ko Bhi Pani Qaid Mein.
-Chaar Barson Ki Zaeefa Ka Howa Kuch Aisa Haal.
-Iss Ka Dewaron Ko Thamay Bin Howa Chalna Mohal.
-Par Gayi Thi Rasam Dadi Ki Nibhani Qaid Mein.
-Maa Yeh Ro Ke Kehti Jageer Sari Lut Gayi.
-Arsh Se Le Kar Madine Tak Ke Malik They Wohi.
-Aik Shehzada Hai Ab Inn Ki Nishani Qaid Mein.
-Jis Ke Ghar Se Le Ke Jate They Farishtay Rotiyaan.
-Be Saro Saman Thin Zindaan Mein Oss Ki Betiyaan.
-Kaisay Kartin Hind Ki Woh Mezbani Qaid Mein.
-Kehti Thi Akbar Sakina Maa Ke Bazu Chom Kar.
-Aap Ki Baton Se Ab Mujh Ko Yehi Lagta Hai Dar.
-Par Na Jaye Inn Ko Maiyyat Ik Chopani Qaid Mein.
+۱
+ماں سناتی تھی سکینہ کو کہانی قید میں
+ایک شہزادی کی گزری زندگانی قید میں
+جس کا مشکیزہ بنا تھا آبِ کوثر کے لیے
+روتی تھی وہ جانور سیراب ہوتے دیکھ کے
+کوئی دیتا نہ تھا پینے کو بھی پانی قید میں
+چار برسوں کی ضعیفہ کا ہوا کچھ ایسا حال
+اس کا دیواروں کو تھامے بن ہوا چلنا محال
+پڑ گئی تھی رسم دادی کی نبھانی قید میں
+ماں یہ رو کے کہتی جاگیر ساری لٹ گئی
+عرش سے لے کر مدینے تک کے مالک تھے وہی
+ایک شہزادہ ہے اب ان کی نشانی قید میں
+جس کے گھر سے لے کے جاتے تھے فرشتے روٹیاں
+بے سر و سامان تھیں زنداں میں اس کی بیٹیاں
+کیسے کرتیں ہند کی وہ میزبانی قید میں
+کہتی تھی اکبر سکینہ ماں کے بازو چوم کر
+آپ کی باتوں سے اب مجھ کو یہی لگتا ہے ڈر
+پڑ نہ جائے ان کو میت اک چھپانی قید میں

@@ -1,29 +1,59 @@
 ---
-title: "Mazloom Zamanay Tay Shabbir"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "مظلوم زمانے تے شبیر"
+alternateTitle: "Mazloom Zamanay Tay Shabbir"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mazloom zamanay tay Shabbir jaya koyi nahin
+
+  Jidi behan sharafat di malka hay Rida koyi nahi
+
+  1
+  Ais fahni jahan andar, haar cheez fana ho si
+  Shabbir nu ro laye ik pal da wasa koyi nahi
+
+  2
+  Hath chuman ya gal chuman, akhay veer namazi nu
+  Zakhman ton rahi khali veeran teri jaa koyi nahi
+
+  3
+  Jeri veer di maqtal chon, zalim nay utha chori
+  Ainj behan zamanay tay medi sain siwa koyi nahi
+
+  4
+  Khaimay chon vaindi rahi, ummat day zulman nu
+  Ruk Shimar gaya ohdon jadon vaikhya saah koyi nahi
+
+  5
+  Rona tay ibadat ay, Zainab di amanat ay
+  Pal do pal ro laye pal bhar da wasa koyi nai
 ---
 
-Mazloom Zamanay Tay Shabbir Jaya Koyi Nahin.
+مظلوم زمانے تے شبیر جایا کوئی نہیں
 
-Jidi Behan Sharafat Di Malka Hay Rida Koyi Nahi
+جیدی بہن شرافت دی ملکہ ہے ردا کوئی نہیں
 
-Ais Fahni Jahan Andar, Haar Cheez Fana Ho Si
-Shabbir Nu Ro Laye Ik Pal Da Wasa Koyi Nahi
+۱
+ایس فانی جہان اندر، ہر چیز فنا ہو سی
+شبیر نوں رو لئیے اک پل دا وسا کوئی نہیں
 
-Hath Chuman Ya Gal Chuman, Akhay Veer Namazi Nu
-Zakhman Ton Rahi Khali Veeran Teri Jaa Koyi Nahi
+۲
+ہتھ چماں یا گل چماں، آکھے ویر نمازی نوں
+زخماں توں رہی خالی ویراں تیری جا کوئی نہیں
 
-Jeri Veer Di Maqtal Chon, Zalim Nay Utha Chori
-Ainj Behan Zamanay Tay Medi Sain Siwa Koyi Nahi
+۳
+جیہڑی ویر دی مقتل چوں، ظالم نے اٹھا چھوڑی
+اینج بہن زمانے تے میڈے سائیں سوا کوئی نہیں
 
-Khaimay Chon Vaindi Rahi, Ummat Day Zulman Nu
-Ruk Shimar Gaya Ohdon Jadon Vaikhya Saah Koyi Nahi
+۴
+خیمے چوں ویندی رہی، امت دے ظلماں نوں
+رک شمر گیا اوہدوں جدوں ویکھیا ساہ کوئی نہیں
 
-Rona Tay Ibadat Ay, Zainab Di Amanat Ay
-Pal Do Pal Ro Laye Pal Bhar Da Wasa Koyi Nai
+۵
+رونا تے عبادت اے، زینب دی امانت اے
+پل دو پل رو لئیے پل بھر دا وسا کوئی نئیں

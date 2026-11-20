@@ -1,38 +1,66 @@
 ---
-title: "Matam Mein Uth Rahe Hain Jo Yeh Hath Bar Bar"
+title: "ماتم میں اٹھ رہے ہیں جو یہ ہاتھ بار بار"
+alternateTitle: "Matam Mein Uth Rahe Hain Jo Yeh Hath Bar Bar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Matam mein uth rahe hain jo yeh hath bar bar
+  Zahra se le rahe hain yeh khairat bar bar
+
+  1
+  Fizza ki rotiyon ka yeh badlah hai bilyaqeen
+  Jibreel la rahe hain jo aayat bar bar
+  Main bar bar jata hoon Qabar-e-Hussain par
+  Hoti hai apne Rab se mulaqaat bar bar
+
+  2
+  Rooz-e-Ghadeer ehd ki tajdeed ke liye
+  Hotey hain khud buland mere hath bar bar
+  Chup ho gaya main keh ke faqat ya Ali madad
+  Zair-e-Lehad hoye jo sawalaat bar bar
+
+  3
+  Khaybar bhi yaad kijiye Khandaq bhi Sheikh Jee
+  Kyun apni bhool jate ho oqaat bar bar
+  Har dushman-e-Batool pe Mehshar ki subha tak
+  Barsay gi lanatoon ki yeh barsat bar bar
+
+  4
+  Nam-e-Ali namaz-o-azaan se nikal kar
+  Batil karo na apni ibadaat bar bar
+  Bibi yehi hai Muhsin-o- Sajjad ki dua
+  Inn ko atta ho izn-e-ziyaraat bar bar
 ---
 
-Matam Mein Uth Rahe Hain Jo Yeh Hath Bar Bar.
-Zahra Se Le Rahe Hain Yeh Khairat Bar Bar.
+ماتم میں اٹھ رہے ہیں جو یہ ہاتھ بار بار
+زہرا سے لے رہے ہیں یہ خیرات بار بار
 
-1
-Fizza Ki Rotiyon Ka Yeh Badlah Hai Bilyaqeen.
-Jibreel La Rahe Hain Jo Aayat Bar Bar.
-Main Bar Bar Jata Hoon Qabar-e-Hussain Par.
-Hoti Hai Apne Rab Se Mulaqaat Bar Bar.
+۱
+فضہ کی روٹیوں کا یہ بدلہ ہے بالیقین
+جبریل لا رہے ہیں جو آیت بار بار
+میں بار بار جاتا ہوں قبرِ حسین پر
+ہوتی ہے اپنے رب سے ملاقات بار بار
 
-2
-Rooz-e-Ghadeer Ehd Ki Tajdeed Ke Liye.
-Hotey Hain Khud Buland Mere Hath Bar Bar.
-Chup Ho Gaya Main Keh Ke Faqat Ya Ali Madad.
-Zair-e-Lehad Hoye Jo Sawalaat Bar Bar.
+۲
+روزِ غدیر عہد کی تجدید کے لیے
+ہوتے ہیں خود بلند میرے ہاتھ بار بار
+چپ ہو گیا میں کہہ کے فقط یا علی مدد
+زیرِ لحد ہوئے جو سوالات بار بار
 
-3
-Khaybar Bhi Yaad Kijiye Khandaq Bhi Sheikh Jee.
-Kyun Apni Bhool Jate Ho Oqaat Bar Bar.
-Har Dushman-e-Batool Pe Mehshar Ki Subha Tak.
-Barsay Gi Lanatoon Ki Yeh Barsat Bar Bar.
+۳
+خیبر بھی یاد کیجیے خندق بھی شیخ جی
+کیوں اپنی بھول جاتے ہو اوقات بار بار
+ہر دشمنِ بتول پہ محشر کی صبح تک
+برسے گی لعنتوں کی یہ برسات بار بار
 
-4
-Nam-e-Ali Namaz-o-Azaan Se Nikal Kar.
-Batil Karo Na Apni Ibadaat Bar Bar.
-Bibi Yehi Hai Muhsin-o- Sajjad Ki Dua.
-Inn Ko Atta Ho Izn-e-Ziyaraat Bar Bar.
+۴
+نامِ علی نماز و اذان سے نکال کر
+باطل کرو نہ اپنی عبادات بار بار
+بی‌بی یہی ہے محسن و سجاد کی دعا
+ان کو عطا ہو اذنِ زیارات بار بار

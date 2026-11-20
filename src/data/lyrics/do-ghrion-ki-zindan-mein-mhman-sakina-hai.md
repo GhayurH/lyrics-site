@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Do Gharriyoṅ Ki Zindaṅ Meiṅ, Mehman Sakina Hai
-  Sajjad Chalai Aao, Perishaan Sakina Hai
+  Do ghariyoṅ ki zindaaṅ meiṅ, mehmaan Sakina hai
+  Sajjad chale aao, pareshaan Sakina hai
 
   1
-  1) Jaisa Mei Kehrahee Huṅ, Waisa Hi Tum Karogai
-  Kurte Maire Mei Bhaiya, Mujhko Dafan Karogai
-  Kuch Mangthee Hai Tumsai, Mehman Sakina Hai
+  Jaisa maiṅ keh rahi huṅ, waisa hi tum karo ge
+  Kurte mere meiṅ bhaiya, mujhko dafn karo ge
+  Kuchh maangti hai tum se, paimaan Sakina hai
 
   2
-  2) Thora Sa Waqt Bhai, Moun Ronai Sai Nikalo
-  Thairi Muntazir Hai Behna, Aa Ker Isse Sambhalo
-  Kuch Dair Mei Daikhogai, Bai Jaan Sakina Hai
+  Thora sa waqt bhai, khuṅ rone se nikaalo
+  Teri muntazir hai behna, aa kar ise sambhaalo
+  Kuchh der meiṅ dekho ge, bejaan Sakina hai
 
   3
-  3) Mairai Goshwarai Bhaiya, Haiṅ Shimr Nai Outharai
-  Baloṅ Sai Mujh Ko Pakra, Moun Per Tamachai Marai
-  Samjha Na Thaharath Ka, Quran Sakina Hai
+  Mere goshwaare Aabid, haiṅ Shimr ne utaare
+  Baaloṅ se mujh ko pakra, muṅh par tamaanche maare
+  Samjha na tahaarat ka, Quraan Sakina hai
 
   4
-  4) Kantay Nikalnai Ka, Itna Mujhai Sila Do
-  Kuch Dair Kai Leeyai Hee, Baba Kai Sar Ko Laado
-  Phelai Baithee Apna, Damaan Sakina Hai
+  Yaad aa raha hai mujh ko, basta ho Madina
+  Bistar tha mera bhaiya, apne pidar ka sina
+  Zindaaṅ meiṅ to ghurbat ka, saamaan Sakina hai
 
   5
-  5) Yaa aa raha hay mujh ko, basta hua Madina
-  Bistar tha mera bhayya, apnay padar ka seena
-  Zindan may to ghurbat ka saman Sakina hai
+  Kaante nikaalne ka, itna mujhe sila do
+  Kuchh der ke liye hi, baaba ke sar ko laa do
+  Phailaaye baithi apna, daamaan Sakina hai
 
   6
-  6) Sab qaidiyoṅ ke bhayya, dukh dard ho batate
-  Apni behan se laikin, milne nahi ho aate
-  Is baat se zindaṅ may, hairan Sakina hai
+  Sab qaidiyoṅ ke bhaiya, dukh dard ho bataate
+  Apni behan se lekin, milne nahiṅ ho aate
+  Is baat se zindaaṅ meiṅ, hairaan Sakina hai
 
   7
-  7) Tauqir Matami Kiouṅ, Duniya Mei Dukh Uthe
-  Ghairoṅ Kai Dar Pai Jaa Kai, Kiouṅ Jholiyaṅ Phelaye
-  Us Ke Mouamloṅ Ki, Nigraan Sakina Hai
+  Tauqir Maatami kiuṅ, duniya meiṅ dukh uthe
+  Ghairoṅ ke dar pe jaa ke, kiuṅ jholiyaaṅ phailaaye
+  Us ke maamaloṅ ki, nigraan Sakina hai
 ---
 
 دو گھڑیوں کی زنداں میں، مہمان سكینہؑ ہے

@@ -21,58 +21,58 @@ romanLyrics: |-
   Thaam ke apna jigar kehti hai Bint-e-Zahra
 
   Paraye des meiṅ jisko kafan talak na mila
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main us gharib ka chehlum manaane aayi huṅ
 
-  Wo jiska dasht meiṅ pamaal ho gaya laasha
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Wo jiska dasht meiṅ paamaal ho gaya laasha
+  Main us gharib ka chehlum manaane aayi huṅ
 
   1
-  Laiṅ phiraata raha jiske halq par khanjar
+  La'iṅ phiraata raha jiske halq par khanjar
   Sawaar Shimr-e-sitamgar tha jiske sine par
-  Maiṅ jiska dekh ke aayi huṅ bekafan laasha
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main jiska dekh ke aayi huṅ bekafan laasha
+  Main us gharib ka chehlum manaane aayi huṅ
 
   2
   Mujhko zaalim ne gala jiska dikha kar kaata
   Jis ke rukhsaar pe zaalim ne tamaancha maara
   Dekh kar mujhko sukuṅ milta tha jis ka chehra
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main us gharib ka chehlum manaane aayi huṅ
 
   3
   Ke jis ke phul se bachche ko na mila paani
   Aur uska tin dinoṅ haaye band tha paani
   Gale meiṅ jiske pisar ke tha tir seh shohba
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main us gharib ka chehlum manaane aayi huṅ
 
   4
   Bhatije bhaanje bhai shahid jiske hue
-  Maiṅ dekhti rahi pamaal ho gaye laashe
-  Bas ek roz meiṅ wo jiski lut gayi dunya
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main dekhti rahi paamaal ho gaye laashe
+  Bas ek roz meiṅ wo jiski lut gayi duniya
+  Main us gharib ka chehlum manaane aayi huṅ
 
   5
   Wo jiska laal na turbat meiṅ reh saka haaye
-  Lain nanha sa laasha nikaal kar laaye
-  Maiṅ dekhti rahi naazuk gale ko katta hua
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  La'in nanha sa laasha nikaal kar laaye
+  Main dekhti rahi naazuk gale ko katta hua
+  Main us gharib ka chehlum manaane aayi huṅ
 
   6
-  Giri mazaar pe bhai ki nauhakhwaṅ Zainab
+  Giri mazaar pe bhai ki nauhakhwaaṅ Zainab
   Bata do bhaiya mere jaaye ab kahaaṅ Zainab
   Ye keh ke qabr pe behosh ho gayi dukhiya
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main us gharib ka chehlum manaane aayi huṅ
 
   7
   Ye dekh lo mere bhai hai chhut gayi Zainab
   Dilaauṅ nazreṅ bhala kis pe lut gayi Zainab
-  Bala ke dasht meiṅ luta gaya hai ghar mera
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Bala ke dasht meiṅ lutaa gaya hai ghar mera
+  Main us gharib ka chehlum manaane aayi huṅ
 
   8
   Gharib-e-Faatima Zahra ka arbaiṅ hai ye
   Jahaaṅ pukaara ke Maula ka arbaiṅ hai ye
   Dharakta qalb hai Rehaan aur Mubarak ka
-  Maiṅ us gharib ka chehlum manaane aayi huṅ
+  Main us gharib ka chehlum manaane aayi huṅ
 ---
 اربعین حسین
 

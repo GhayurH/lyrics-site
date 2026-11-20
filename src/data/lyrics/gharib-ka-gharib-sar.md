@@ -10,77 +10,77 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kabhi Yeh Sheriṅ Ke Ghar Mila Hai
-  Kabhi Yeh Rahib Ke Ghar Gaya Hai
-  Kabhi Shajar Pe Rasan Se Bandha
-  Kabhi Yeh Sandooq Meiṅ Rakha Hai
-  Na Jane Iss Ka Safar Hai Kaisa
-  Nahi Hai Mazlum Koi Aisa
-  Gharib Ka Yeh Gharib Sar Hai Jo Dar Badar Hai
+  Kabhi yeh Shiriṅ ke ghar mila hai
+  Kabhi yeh rahib ke ghar gaya hai
+  Kabhi shajar par rasan se baandha
+  Kabhi yeh tandur meiṅ rakha hai
+  Na jaane is ka safar hai kaisa
+  Nahiṅ hai mazlum koi aisa
+  Gharib ka yeh gharib sar hai jo dar badar hai
 
   1
-  Hai Rish Jis Ki Lahu Meiṅ Dobi
-  Rageiṅ Bhi Sokhi Hoi Haiṅ Jis Ki
-  Bhari Hai Zulfuṅ Meiṅ Khak Haye
-  Kate Haiṅ Lab Our Jabiṅ Hai Zakhmi
-  Ayyaaṅ Haiṅ Chehre Se Gham Bala Ke
-  Ho Jaise Mara Rula Rula Ke
+  Hai rish jis ki lahu meiṅ dubi
+  Rageṅ bhi sukhi hui haiṅ is ki
+  Bhari hai zulfoṅ meiṅ khaak haaye
+  Kate haiṅ lab aur jabiṅ hai zakhmi
+  Ayaaṅ haiṅ chehre se gham bala ke
+  Ho jaise maara rula rula ke
 
   2
-  Chala Tha Jis Waqt Iss Pe Khanjar
-  Tha Gaud Meiṅ Fatima Ki Yeh Sar
-  Khari Thiṅ Satar Qadam Pe Zainab
-  Gira Yeh Sar Jab Zamiṅ Pe Kat Kar
-  Uthaya Zulfuṅ Se Shimar Ne Sar
-  Tapak Raha Tha Lahu Zamiṅ Par
+  Chala tha jis waqt is pe khanjar
+  Tha god meiṅ Fatima ki yeh sar
+  Khari thiṅ sattar qadam pe Zainab
+  Gira yeh sar jab zamiṅ pe kat kar
+  Uthaya zulfoṅ se Shimar ne sar
+  Tapak raha tha lahu zamiṅ par
 
   3
-  Sawar Nuk-e-Sina Pe Ho Kar
-  Chala Hai Karb o Bala Se Yeh Sar
-  Nazar Hai Akbar Ke Sar Ki Janib
-  Ajib Ghurbat Ka Hai Yeh Manzar
-  Kare Yeh Akbar Se Jab Bhi Bateiṅ
-  Tu Khon Roti Haiṅ Iss Ki Aankheiṅ
+  Sawaar nok-e-sinaaṅ pe ho kar
+  Chala hai Karb o Bala se yeh sar
+  Nazar hai Akbar ke sar ki jaanib
+  Ajib ghurbat ka hai yeh manzar
+  Kare yeh Akbar se jab bhi baateṅ
+  To khun roti haiṅ is ki aankheṅ
 
   4
-  Yeh Sar Jo Kholi Ke Hath Aaya
-  Ajib Zalim Ne Zulm Dhaya
-  Ghar Oss Ke Zahra Tarap Ke Pohanchiṅ
-  Jab Oss Ne Tandur Meiṅ Chupaya
-  Kiye Jo Zahra Ne Bain Ro Kar
-  Tarap Raha Tha Husain Ka Sar
+  Yeh sar jo Kholi ke haath aaya
+  Ajib zaalim ne zulm dhaaya
+  Ghar us ke Zahra tarap ke pahuncheṅ
+  Jab us ne tandur meiṅ chhupaya
+  Kiye jo Zahra ne bain ro kar
+  Tarap raha tha Husain ka sar
 
   5
-  Nazar Pare Jab Behan Ke Sar Par
-  Pukare Abbas Ko Tarap Kar
-  Tamachay Jab Bhi Sakina Khaye
-  Zamiṅ Pe Gir Jaye Haye Yeh Sar
-  Koi Jo Abid Pe Zulm Dhaye
-  Pukare Naize Se Haye Haye
+  Nazar pare jab behan ke sar par
+  Pukaare Abbas ko tarap kar
+  Tamaacha jab bhi Sakina khaaye
+  Zamiṅ pe gir jaaye haaye yeh sar
+  Koi jo Abid pe zulm dhaaye
+  Pukaare naize se haaye haaye
 
   6
-  Giri Thi Naqe Se Jab Sakina
-  Wahiṅ Yeh Sar Bhi Thehar Gaya Tha
-  Nazar Na Aayi Jab Iss Ko Beti
-  Tarap Ke Zainab Ki Simt Dekha
-  Kaha Yeh Zainab Se Jald Jao
-  Meri Sakina Ko Dhond Lao
+  Giri thi naaqe se jab Sakina
+  Wahiṅ yeh sar bhi thahar gaya tha
+  Nazar na aayi jab is ko beti
+  Tarap Zainab ki simt dekha
+  Kaha yeh Zainab se jald jaao
+  Meri Sakina ko dhund laao
 
   7
-  Sitam Yeh Darbar Meiṅ Howa Tha
-  Gharib Sar Tasht Meiṅ Rakha Tha
-  Yazid Dandan-e-Shah-e-Deiṅ Par
-  Chari Ko Hans Hans Ke Marta Tha
-  Sakina Abid Ko Dekhti Thiṅ
-  Padar Ki Ghurbat Pe Ro Rahi Thiṅ
+  Sitam yeh darbaar meiṅ hua tha
+  Gharib sar tasht meiṅ rakha tha
+  Yazid dandaan-e-shah-e-diṅ par
+  Chhari ko hans hans ke maarta tha
+  Sakina Abid ko dekhti thiṅ
+  Padar ki ghurbat pe ro rahi thiṅ
 
   8
-  Hai Sham Ki Qaid Ka Yeh Manzar
-  Mila Sakina Ko Baap Ka Sar
-  Raza-o- Zishan Thi Qayamat
-  Kaha Sakina Ne Jab Lipat Kar
-  Nasib Kya Ho Gaya Hamara
-  Hai Mere Sine Pe Sar Tumhara
+  Hai Shaam ki qaid ka yeh manzar
+  Mila Sakina ko baap ka sar
+  Raza o Zishaan thi qayaamat
+  Kaha Sakina ne jab lipat kar
+  Nasib kya ho gaya hamaara
+  Hai mere sine pe sar tumhaara
 
 ---
 کبھی یہ شیریں کے گھر ملا ھے

@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khon rota hai bara aaye jab Sham ka naam
-  Yaad karta hai bara
-  Jo phiraya nangay sar phophiyon ko sar-e-aam
-  Yaad aata hai ossay bharay darbaron mein
+  Khun rota hai baraa aaye jab Shaam ka naam
+  Yaad karta hai baraa
+  Jo phiraaya nange sar phuphiyoṅ ko sar-e-aam
+  Yaad aata hai use bhare darbaaroṅ mein
 
   2
-  Samne Zainab ke
-  Bantna fasiq ka qatilon ko woh inam
-  Bholta kaisay bhala haal darbaron ka
-  Our bazaron ka
+  Saamne Zainab ke
+  Baantna faasiq ka qaatiloṅ ko woh inaam
+  Bhulta kaise bhala haal darbaaroṅ ka
+  Aur baazaaroṅ ka
 
   3
-  Ro ke kehta tha yehi Sham bas Sham haye Sham
-  Gash se jab hosh kiya Karbala ke andar
+  Ro ke kehta tha yahi Shaam bas Shaam haaye Shaam
+  Ghash se jab hosh kiya Karbala ke andar
   Kaisa dekha manzar
-  Nangay sar phophiyaan thin jal rahe they sab khiyam
+  Nange sar phuphiyaaṅ thiṅ jal rahe the sab khiyaam
 
   4
-  Sath Abid ke bandha tha gala Baqir ka
+  Saath Aabid ke bandha tha gala Baaqir ka
   Jhuk ke woh chalta raha
-  Tha woh majboor bara kaisay karta woh qiyam
-  Sath maon ko liye jab Madina pohancha
+  Tha woh majbur baraa kaise karta woh qiyaam
+  Saath maaoṅ ko liye jab Madina pahuncha
 
   5
-  Har taraf shoor utha
-  Dair tak rota raha kar ke Sughra ko salam
-  Jo bhi dein pursa yahan Karbala walon ko
-  LaIlaha walon ko
+  Har taraf shor utha
+  Der tak rota raha kar ke Sughra ko salaam
+  Jo bhi deṅ pursa yahaaṅ Karbala waaloṅ ko
+  Laa ilaaha waaloṅ ko
 
   6
-  Unn ke roney ke liye kafi hai Sham ka naam
-  Noha Zaair ne likha Hazrat-e-Abid ka
-  Ro paray arz-o-sama
-  Sath phophiyon ko liye jis ne dekhi haye Sham
+  Un ke rone ke liye kaafi hai Shaam ka naam
+  Nauha Zaair ne likha Hazrat-e-Aabid ka
+  Ro pare arz o samaa
+  Saath phuphiyoṅ ko liye jis ne dekhi haaye Shaam
 ---
 
 ۱

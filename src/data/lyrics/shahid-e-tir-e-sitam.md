@@ -48,7 +48,7 @@ romanLyrics: |-
   Chale jo turbat-e-beshir se su-e-khaima
   Husain bekas o mazlum tashna lab tanha
   Farid koi na tha dasht-e-Nainawa ke siwa
-  Faza meiṅ gunj rahi thi yeh Fatima ki sada
+  Fazaa meiṅ gunj rahi thi yeh Fatima ki sada
 ---
 
 شہید تیر ستم بے زباں علی اصغر

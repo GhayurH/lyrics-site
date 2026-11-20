@@ -21,18 +21,18 @@ romanLyrics: |-
 
   2
   Ae shehr-e-bewafa ye hai inqilaab kaisa
-  Kufe ki shaahzaadi Kufe meiṅ beamaaṅ hai
+  Kufe ki shaahzaadi Kufe mein beamaaṅ hai
 
   3
   Sad haif ke musalmaaṅ baithe haiṅ kursiyoṅ par
-  Jakra hua rasan meiṅ bimaar saarbaaṅ hai
+  Jakra hua rasan mein bimaar saarbaaṅ hai
 
   4
   Hum gir gaye zamiṅ par ammaaṅ bachaao hum ko
-  Uṅtoṅ se girne waale bachchoṅ ki ye fughaaṅ hai
+  Untoṅ se girne waale bachchoṅ ki ye fughaaṅ hai
 
   5
-  Maiṅ Shaam ki musaafat tai kar ke aa gaya huṅ
+  Main Shaam ki musaafat tai kar ke aa gaya huṅ
   Rauze pe Mustafa ke Sajjad ka bayaaṅ hai
 
   6

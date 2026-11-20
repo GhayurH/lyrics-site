@@ -1,71 +1,132 @@
 ---
-title: "Hastam Nokr E Ameer Ul Momeneen Wajhi Hasan Zaidi"
+title: "ہستم نوکرِ امیر المؤمنین وجہی حسن زیدی"
+alternateTitle: "Hastam Nokr E Ameer Ul Momeneen Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hastam nokr e Ameer ul Momeneen Wajhi Hasan Zaidi
+  Ali ka naam malangon ko pyara lagta hai
+  Sakon milta hai jab bhi yeh narah lagta hai
+  Al-hamdo lillahe Rab il Aalameen
+
+  2
+  Hastam nokar-e-Ameer Almomineen
+  Haider Haider Haider
+  Jab terah Rajab aaye arsh se Ali
+  Khush hokay dewar-e-Kaba bool uthi
+
+  3
+  Ainullah Haider, Wajhullah Haider
+  Ban gayi hoon aap ke liye main aaj dar
+  Jo alam ki hasrat mein jaag rahe they
+  Marhab se wohi dar kar bhag rahe they
+
+  4
+  Jab aaya Haider, youn chaya Haider
+  Boli Zulfiqar kaat kar laeen ka sar
+  Bar dushman-e-Murtaza Ali lanat beshumar
+  Mere dil mein basta hai bas mera Ali
+
+  5
+  Jo Ali ko nahi manay woh hai lanati
+  Jo bola Haider, mera Maula Haider
+  Apna lagta hai Ghadeeriyon ko woh bashar
+  Rehne do karo gay tum kiya barabari
+
+  6
+  Nahi dekha Ali jaisa hum ne koi bhi
+  Kahey Mosa Haider, kahey Essa Haider
+  Mushkilon mein har Nabi ke aaya honton par
+  Ayelan-e-Mustafa ka asar dekhtey rahe
+
+  7
+  Palaan they jahan woh udhar dekhtey rahe
+  Unn se Ali ka hath Muhammad ke hath mein
+  Dekha na ja raha tha magar dekhtey rahe
+  Nabi ne jab kaha Khum mein bholna nahi
+
+  8
+  Mera bhai Ali hi hai mera jansheen
+  Maula sab ka Haider, wali Rab ka Haider
+  Koi jal gaya tu koi bola jhoom kar
+  Sakhi e bawafa manam dam hama dam Ali Ali
+
+  9
+  Azan-e-wilayat di hai Bilal ne
+  Chalo Sehwan chalein sab dhamal dalne
+  Mera narah Haider, mujhe pyara Haider
+  Wajad mein jahan yeh bolta hai Qalandar
+
+  10
+  Hasrat hai Wajih our :Zeeshan Abidi:
+  Najaf e Ashraf jab bhi hogi hazari
+  Kahin gay hum Haider, Ali dam dam Haider
+  Boltay rahein gay hum haram mein baith kar
 ---
 
-1
-Hastam Nokr e Ameer ul Momeneen Wajhi Hasan Zaidi.
-Ali Ka Naam Malangon Ko Pyara Lagta Hai.
-Sakon Milta Hai Jab Bhi Yeh Narah Lagta Hai.
-Al-Hamdo Lillahe Rab il Aalameen.
+۱
+ہستم نوکرِ امیر المؤمنین وجہی حسن زیدی
+علی کا نام ملنگوں کو پیارا لگتا ہے
+سکون ملتا ہے جب بھی یہ نعرہ لگتا ہے
+الحمد للہ رب العالمین
 
-2
-Hastam Nokar-e-Ameer Almomineen.
-Haider Haider Haider.
-Jab Terah Rajab Aaye Arsh Se Ali.
-Khush Hokay Dewar-e-Kaba Bool Uthi.
+۲
+ہستم نوکرِ امیر المؤمنین
+حیدر حیدر حیدر
+جب تیرہ رجب آئے عرش سے علی
+خوش ہو کے دیوارِ کعبہ بول اٹھی
 
-3
-Ainullah Haider, Wajhullah Haider.
-Ban Gayi Hoon Aap Ke Liye Main Aaj Dar.
-Jo Alam Ki Hasrat Mein Jaag Rahe They.
-Marhab Se Wohi Dar Kar Bhag Rahe They.
+۳
+عین اللہ حیدر، وجہ اللہ حیدر
+بن گئی ہوں آپ کے لیے میں آج در
+جو علم کی حسرت میں جاگ رہے تھے
+مرحب سے وہی ڈر کر بھاگ رہے تھے
 
-4
-Jab Aaya Haider, Youn Chaya Haider.
-Boli Zulfiqar Kaat Kar Laeen Ka Sar.
-Bar Dushman-e-Murtaza Ali Lanat Beshumar.
-Mere Dil Mein Basta Hai Bas Mera Ali.
+۴
+جب آیا حیدر، یوں چھایا حیدر
+بولی ذوالفقار کاٹ کر لعین کا سر
+بر دشمنِ مرتضیٰ علی لعنت بے شمار
+میرے دل میں بستا ہے بس میرا علی
 
-5
-Jo Ali Ko Nahi Manay Woh Hai Lanati.
-Jo Bola Haider, Mera Maula Haider.
-Apna Lagta Hai Ghadeeriyon Ko Woh Bashar.
-Rehne Do Karo Gay Tum Kiya Barabari.
+۵
+جو علی کو نہیں مانے وہ ہے لعنتی
+جو بولا حیدر، میرا مولا حیدر
+اپنا لگتا ہے غدیریوں کو وہ بشر
+رہنے دو کرو گے تم کیا برابری
 
-6
-Nahi Dekha Ali Jaisa Hum Ne Koi Bhi.
-Kahey Mosa Haider, Kahey Essa Haider.
-Mushkilon Mein Har Nabi Ke Aaya Honton Par.
-Ayelan-e-Mustafa Ka Asar Dekhtey Rahe.
+۶
+نہیں دیکھا علی جیسا ہم نے کوئی بھی
+کہے موسیٰ حیدر، کہے عیسیٰ حیدر
+مشکلوں میں ہر نبی کے آیا ہونٹوں پر
+اعلانِ مصطفیٰ کا اثر دیکھتے رہے
 
-7
-Palaan They Jahan Woh Udhar Dekhtey Rahe.
-Unn Se Ali Ka Hath Muhammad Ke Hath Mein.
-Dekha Na Ja Raha Tha Magar Dekhtey Rahe.
-Nabi Ne Jab Kaha Khum Mein Bholna Nahi.
+۷
+فلاں تھے جہاں وہ ادھر دیکھتے رہے
+ان سے علی کا ہاتھ محمد کے ہاتھ میں
+دیکھا نہ جا رہا تھا مگر دیکھتے رہے
+نبی نے جب کہا خم میں بھولنا نہیں
 
-8
-Mera Bhai Ali Hi Hai Mera Jansheen.
-Maula Sab Ka Haider, Wali Rab Ka Haider.
-Koi Jal Gaya Tu Koi Bola Jhoom Kar.
-Sakhi e Bawafa Manam Dam Hama Dam Ali Ali.
+۸
+میرا بھائی علی ہی ہے میرا جانشین
+مولا سب کا حیدر، ولی رب کا حیدر
+کوئی جل گیا تو کوئی بولا جھوم کر
+سخیِ باوفا منم دم ہمہ دم علی علی
 
-9
-Azan-e-Wilayat Di Hai Bilal Ne.
-Chalo Sehwan Chalein Sab Dhamal Dalne.
-Mera Narah Haider, Mujhe Pyara Haider.
-Wajad Mein Jahan Yeh Bolta Hai Qalandar.
+۹
+اذانِ ولایت دی ہے بلال نے
+چلو سیہون چلیں سب دھمال ڈالنے
+میرا نعرہ حیدر، مجھے پیارا حیدر
+وجد میں جہاں یہ بولتا ہے قلندر
 
-10
-Hasrat Hai Wajih Our:ZEESHAN ABIDI:.
-Najaf e Ashraf Jab Bhi Hogi Hazari.
-Kahin Gay Hum Haider, Ali Dam Dam Haider.
-Boltay Rahein Gay Hum Haram Mein Baith Kar.
+۱۰
+حسرت ہے وجہی اور ذیشان عابدی
+نجفِ اشرف جب بھی ہوگی حاضری
+کہیں گے ہم حیدر، علی دم دم حیدر
+بولتے رہیں گے ہم حرم میں بیٹھ کر

@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Mere Tashnadahan"]
 published: true
 romanLyrics: |-
-  Tha ye Baano ka bayaaṅ
+  Thaa ye Baano ka bayaaṅ
   Ae mere tashna dahaaṅ
 
   Tum pe waari ho ye maaṅ
@@ -27,19 +27,19 @@ romanLyrics: |-
   2
   Tera gehwaara para hai khaali
   Loriyaaṅ de ke sulaane waali
-  Yaad meiṅ teri tarapti hai ye maaṅ
+  Yaad mein teri tarapti hai ye maaṅ
   Ae mere tashna dahaaṅ
 
   3
-  Khaak meiṅ khud ko mila kar ye kaha
+  Khaak mein khud ko mila kar ye kaha
   Raakh jhule ki ura kar ye kaha
   Aise bikhre na kisi ke armaaṅ
   Ae mere tashna dahaaṅ
 
   4
-  God meiṅ tujh ko humakna tha abhi
-  Ghutniyoṅ chal ke chehekna tha abhi
-  Thi ye chaahat tujhe dekhuṅ maiṅ jawaaṅ
+  God mein tujh ko humakna thaa abhi
+  Ghutniyoṅ chal ke chehekna thaa abhi
+  Thi ye chaahat tujhe dekhuṅ main jawaaṅ
   Ae mere tashna dahaaṅ
 
   5
@@ -49,14 +49,14 @@ romanLyrics: |-
   Ae mere tashna dahaaṅ
 
   6
-  Dekh Sughra ne likha hai khat meiṅ
-  Mar na jaaye wo kahiṅ furqat meiṅ
+  Dekh Sughra ne likha hai khat mein
+  Mar na jaaye wo kahiṅ furqat mein
   Wo ye kehti hai ke Asghar ho kahaaṅ
   Ae mere tashna dahaaṅ
 
   7
   Apni bakhshish ki dua karta huṅ
-  Maiṅ Hasan us se wafa karta huṅ
+  Main Hasan us se wafa karta huṅ
   Kat gayi khushk jo nanhi si zabaaṅ
   Ae mere tashna dahaaṅ
 ---

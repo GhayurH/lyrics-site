@@ -1,38 +1,66 @@
 ---
-title: "Maa Khadija Ki Tarha Baba Payamber Ki Tarha"
+title: "ماں خدیجہ کی طرح بابا پیمبر کی طرح"
+alternateTitle: "Maa Khadija Ki Tarha Baba Payamber Ki Tarha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Maa Khadija ki tarha baba Payamber ki tarha
+  Our kab paya kisi ne Zaooj Haider ki tarha
+
+  1
+  Betay beti inn ke jaise our kis maa ko milay
+  Zainab-o-Kulsoom our Shabir-o-Shabar ki tarha
+  Kehte hain Ummo Abeeha Fatima ko Mustafa
+  Karte hain tazeem unn ki apni madar ki tarha
+
+  2
+  Fatima juzway-e-Muhammad hi tu hai phir kya jhijhak
+  Madh-e-Zahra kijiye madh-e-Payamber ki tarha
+  Jis tarha Quraan mein aaya lafz-e-Kausar aik bar
+  Fatima bhi aik hain Quraan mein Kausar ki tarha
+
+  3
+  Ho sakay tu dhond kar le aa moarkh koi maa
+  Mohsina Haq ki ho jo Zahra ki madar ki tarha
+  Fatima tafseer-e-Kausar mani-e-khair-e-kaseer
+  Jin ke bachoon ne rakhi dunya mein Walhur ki tarha
+
+  4
+  Dushman-e-Mustafa-o-Fatima hain dahar mein
+  Sahib-e-aulad ho kar khawar abtar ki tarha
+  Bola Rizwaan shoq se janat mein aao aye Wajhi
+  Manqabat lekin sunao:Sibt-e-Jafar: ki tarha
 ---
 
-Maa Khadija Ki Tarha Baba Payamber Ki Tarha.
-Our Kab Paya Kisi Ne Zaooj Haider Ki Tarha.
+ماں خدیجہ کی طرح بابا پیمبر کی طرح
+اور کب پایا کسی نے زوجِ حیدر کی طرح
 
-1
-Betay Beti Inn Ke Jaise Our Kis Maa Ko Milay.
-Zainab-o-Kulsoom Our Shabir-o-Shabar Ki Tarha.
-Kehte Hain Ummo Abeeha Fatima Ko Mustafa.
-Karte Hain Tazeem Unn Ki Apni Madar Ki Tarha.
+۱
+بیٹے بیٹی ان کے جیسے اور کس ماں کو ملے
+زینب و کلثوم اور شبیر و شبر کی طرح
+کہتے ہیں امِ ابیہا فاطمہ کو مصطفیٰ
+کرتے ہیں تعظیم ان کی اپنی مادر کی طرح
 
-2
-Fatima Juzway-e-Muhammad Hi Tu Hai Phir Kya Jhijhak.
-Madh-e-Zahra Kijiye Madh-e-Payamber Ki Tarha.
-Jis Tarha Quraan Mein Aaya Lafz-e-Kausar Aik Bar.
-Fatima Bhi Aik Hain Quraan Mein Kausar Ki Tarha.
+۲
+فاطمہ جزوِ محمد ہی تو ہے پھر کیا جھجک
+مدحِ زہرا کیجیے مدحِ پیمبر کی طرح
+جس طرح قرآن میں آیا لفظِ کوثر ایک بار
+فاطمہ بھی ایک ہیں قرآن میں کوثر کی طرح
 
-3
-Ho Sakay Tu Dhond Kar Le Aa Moarkh Koi Maa.
-Mohsina Haq Ki Ho Jo Zahra Ki Madar Ki Tarha.
-Fatima Tafseer-e-Kausar Mani-e-Khair-e-Kaseer.
-Jin Ke Bachoon Ne Rakhi Dunya Mein Walhur Ki Tarha.
+۳
+ہو سکے تو ڈھونڈ کر لے آ مؤرخ کوئی ماں
+محسنہ حق کی ہو جو زہرا کی مادر کی طرح
+فاطمہ تفسیرِ کوثر معنیِ خیرِ کثیر
+جن کے بچوں نے رکھی دنیا میں والحر کی طرح
 
-4
-Dushman-e-Mustafa-o-Fatima Hain Dahar Mein.
-Sahib-e-Aulad Ho Kar Khawar Abtar Ki Tarha.
-Bola Rizwaan Shoq Se Janat Mein Aao Aye Wajhi
-Manqabat Lekin Sunao:SIBT-E-JAFAR: Ki Tarha.
+۴
+دشمنِ مصطفیٰ و فاطمہ ہیں دہر میں
+صاحبِ اولاد ہو کر خوار ابتر کی طرح
+بولا رضوان شوق سے جنت میں آؤ اے وجہی
+منقبت لیکن سناؤ:سبطِ جعفر: کی طرح

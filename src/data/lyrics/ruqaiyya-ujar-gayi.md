@@ -9,77 +9,44 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Ruqaiyya Ujar Gayi"
-romanLyrics: 'Karb-o-Bala Se Pehle Ruqaiya Ujar Gayi.
-
-  Muslim Ki Lash Kofay Mein Be Aasra Hoi.
-
-  Kya Haal Kar Diya Hai Safeer-e-Hussain Ka.
-
-  Zakhmo Se Choor Choor Hai Damad-e-Murtaza.
-
+romanLyrics: |-
+  Karb o Bala se pehle Ruqaiyya ujar gayi
 
   1
-
-  Phir Kofa Roney Aayi Hai Beti Rasool Ki.
-
-  Logo Zirrah Ko Baich Ke Dena Mujhe Kafan.
-
-  Mil Jaein Jab Pisar Mere Pohanchana Tum Watan.
-
-  Muslim Ki Pori Koi Wasiyat Na Ho Saki.
-
+  Muslim ki laash Kufe mein be aasra hui
+  Kya haal kar diya hai safeer-e-Husain ka
+  Zakhmoṅ se chur chur hai damaad-e-Murtaza
+  Phir Kufa rone aayi hai beti Batul ki
 
   2
-
-  Muslim Hai Be Deyar Kissi Ko Nahi Khiyal.
-
-  Kya Ho Ga Karbala Mein Yeh Kofay Mein Jab Hai Haal.
-
-  Syed Shaheed Hota Hai Hanstay Hain Ummati.
-
-  Beton Ko Intezar Tha Woh Laut Aaein Gaye.
-
+  Logoṅ zira ko bech ke dena mujhe kafan
+  Mil jaae jab pisar mere pohanchana tum watan
+  Muslim ki puri koi wasiyat na ho saki
 
   3
-
-  Beton ko intezar tha wo laut aayenge
-
-  Behno ki eid hogi galay jab lagayenge
-
-  Baba ke badle unse yateemi galay mili
-
+  Muslim hai be dayaar kisi ko nahiṅ khayaal
+  Kya hoga Karbala mein ye Kufe mein jab hai haal
+  Saiyad shahid hota hai hanste haiṅ ummati
 
   4
-
-  Behno Ki Eid Ho Gi Galay Jab Lagaein Gaye.
-
-  Haye Baba Ke Badlay Unn Se Yateemi Galay Mili.
-
-  Do Ungliyon Ke Darmiyaan Dekho Tu Bhai Jaan.
-
-  Khanjar Galay Pe Kofay Mein Muslim Ke Hai Rawaan.
-
+  Betoṅ ko intezaar tha wo laut aaenge
+  Behnoṅ ki eid hogi gale jab lagaaenge
+  Baba ke badle un se yatimi gale mili
 
   5
-
-  Yeh Baat Ro Ke Ghazi Se Shabeer Ne Kahi.
-
-  Ik Eid Ke Qareeb Hoye Baap Se Juda.
-
-  Ik Eid Par Behan Ka Bhara Ghar Ujar Gaya.
-
-  Abbas Dono Eidoon Pe Rotay Hain Aaj Bhi.
-
+  Do ungliyoṅ ke darmiyaṅ dekho to bhai jaaṅ
+  Khanjar gale pe Kufe mein Muslim ke hai rawaaṅ
+  Ye baat ro ke Ghazi se Shabbir ne kahi
 
   6
+  Ik eid ke qarib hue baap se juda
+  Ik eid par behan ka bhara ghar ujar gaya
+  Abbas donoṅ eidoṅ pe rote haiṅ aaj bhi
 
-  Qabar-e-Batool Par Gayi Ik Khali Gaud Maa.
-
-  Sajday Ke Sath Aankh Se Aanso Hoye Rawaan.
-
-  Umm-Ul-Baneen Ko Jab Yeh Takallum Khabar Mili.
-
-  Istefadah Misra::Shaukat Raza Shaukat:'
+  7
+  Qabr-e-Batul par gayi ik khaali god maaṅ
+  Sajde ke saath aankh se aansuṅ hue rawaaṅ
+  Umm-ul-Banin ko jab ye Takallum khabar mili
 ---
 
 کربوبلا سے پہلے رقیہ اجڑ گیء

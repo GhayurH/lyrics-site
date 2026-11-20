@@ -21,36 +21,36 @@ romanLyrics: |-
   1
   Kya ye kaafi nahiṅ hai rone ko
   Apni chashm-e-aza se tum dekho
-  Leke ek khuṅ bhara kurta
+  Leke ik khuṅ bhara kurta
   Farsh-e-majlis pe aa gayi Zehra
 
   2
   Bund paani nahiṅ mila us ko
   Aaj tak bhi Husain pyaasa hai
-  Apni aankhoṅ se do unheiṅ darya
+  Apni aankhoṅ se do unheṅ darya
   Farsh-e-majlis pe aa gayi Zehra
 
   3
-  Haath phaile hue haiṅ Bibi ke
-  Ek kafan ek rida ki taalib hai
-  Kya karega unheiṅ koi hadiya
+  Haath phaila hue hai Bibi ke
+  Ik kafan ik rida ki taalib hai
+  Kya karega unheṅ koi hadiya
   Farsh-e-majlis pe aa gayi Zehra
 
   4
-  Haae wo Aun aur Muhammad the
+  Haaye wo Aun aur Muhammad the
   Jin ke laashoṅ pe maaṅ nahiṅ royi
   Maaṅ ko beti ke gham ka do pursa
   Farsh-e-majlis pe aa gayi Zehra
 
   5
-  Us ki mehwi saja ke Ae logoṅ
+  Us ki mehwi saja ke ae logoṅ
   Koi ghatri bana ke le aao
   Karne Qasim ki laash par girya
   Farsh-e-majlis pe aa gayi Zehra
 
   6
   Aao us par kare bapaa maatam
-  Jis ke sine meiṅ ek sinaaṅ tuti
+  Jis ke sine meiṅ ik sinaaṅ tuti
   Karne Akbar ke gham meiṅ waawaila
   Farsh-e-majlis pe aa gayi Zehra
 
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   8
   Ye amal-e-khair bhi karo Yasir
-  Tum se raazi Batul ho jaae
+  Tum se raazi Batul ho jaaye
   Tum jhulaao Saghir ka jhula
   Farsh-e-majlis pe aa gayi Zehra
 ---

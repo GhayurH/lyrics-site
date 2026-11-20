@@ -31,14 +31,14 @@ romanLyrics: |-
   Hamaare jaan o jigar the yehi Ali Akbar
   Hamaare nur-e-nazar the yehi Ali Akbar
   Hamaare rashk-e-qamar the yehi Ali Akbar
-  Hamaare sher pisar the yehi Ali Akbar
-  Hue zaif kidhar jaaye hum asa na raha
+  Hamaare sher-e-pisar the yehi Ali Akbar
+  Hue zaif kidhar jaaye ham asa na raha
   Hamaari zist ka Zaafar koi maza na raha
 
   4
   Tum se ziyaada rakhta tha taaqat wo baawafa
-  Yuṅ khul ke apne bhaai ko larne nahiṅ diya
-  Kat kar bhi uska haath na talwaar se hata
+  Yuṅ khul ke apne bhaai koi ko larne nahiṅ diya
+  Kat kar bhi us ka haath na talwaar se hata
   Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   5
@@ -54,8 +54,8 @@ romanLyrics: |-
 
   7
   Ye mayyateṅ hai Aun o Muhammad ki bekafan
-  Do aansu tum bhi nazar karo ji uthe behan
-  Laashoṅ pe un ki royi nahiṅ bint-e-Murtaza
+  Do aansuṅ tum bhi nazar karo ji uthe behan
+  Laashoṅ pe un ki roi nahiṅ bint-e-Murtaza
   Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   8
@@ -71,10 +71,10 @@ romanLyrics: |-
 
   10
   Nigaah thi taraf-e-aasmaaṅ chale Hazrat
-  Jahaaṅ khare the wahiṅ aaye phir zahe qismat
+  Jahaaṅ khare the wahi aaye phir zahe qismat
   Kaha saboṅ se mulaaqaat ho chuki rukhsat
   Farishte jaaye falak par Nabi su-e-jannat
-  Jidhar se laaye hai tashrif sab udhar jaaye
+  Jidhar se laaye haiṅ tashrif sab udhar jaaye
   Faqat yahaaṅ Malak-ul-Maut ab nazar aaye
 
   11

@@ -17,7 +17,7 @@ romanLyrics: |-
   Kis liye aayi hai karne mere ghar tu girya
 
   1
-  Kya Muhammad ki nawaasi ko tu pehchaanti hai
+  Kya Muhammad ki nawaasi so tu pehchaanti hai
   Kya mere Aun o Muhammad ko bhi tu jaanti hai
   Tujhko maalum hai ahwaal mere bachchoṅ ka
 
@@ -27,7 +27,7 @@ romanLyrics: |-
   Orh kar ghar se nikalti thi wo Zehra ki rida
 
   3
-  Khencha karta tha qalateiṅ Ali Akbar uski
+  Khencha karta tha qanaateiṅ Ali Akbar uski
   Kitni taazim kiya karte the Sarwar uski
   Aur Abbas diya karte the pehra uska
 
@@ -44,12 +44,12 @@ romanLyrics: |-
   6
   Maiṅ hi Zainab huṅ magar aaj huṅ maiṅ kitni gharib
   Le gaya nargha-e-aada meiṅ mujhe mera nasib
-  Aur mere paas na mehmil thi na maqna na rida
+  Aur mere paas na mahmil thi na maqna na rida
 
   7
   Hue maqtul-e-jafa dasht meiṅ bachche mere
   Had to ye hai ke jalaaye gaye khaime mere
-  Jal gaya sholoṅ meiṅ beshir ka nanha jhula
+  Jal gaye sholoṅ meiṅ beshir ka nanha jhula
 
   8
   Rukh pe Sarwar ne mala khun Ali Asghar ka
@@ -57,7 +57,7 @@ romanLyrics: |-
   Saamne mere kata hai mere bhai ka gala
 
   9
-  Kahuṅ kis tarah bandhi thi mere shaanoṅ pe rasan
+  Kahuṅ kis tarah bandhi thi mere shaanoṅ meiṅ rasan
   Kaise batlaauṅ maiṅ wo Shaam ke zindaaṅ ki ghutan
   Ho gayi khaak ka paiwand Sakina dukhiya
 

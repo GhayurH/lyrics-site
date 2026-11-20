@@ -21,7 +21,7 @@ romanLyrics: |-
   Ik behaya ne aag se wo dar jala diya
 
   2
-  Hansne laga lain jo rone lagiṅ Batul
+  Hansne laga la'in jo rone lagiṅ Batul
   Ghaasib ne Sayyeda ki gawaahi na ki qabul
   Khud sachcha ban ke Bibi ko jhuta bana diya
 
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   4
   Jis shakhs ne di aap ko hizyaan ki saughaat
-  Jis se mila na aap ko kaghaz qalam dawaat
+  Jis se mila na aap ko kaaghaz qalam dawaat
   Darbaar meiṅ Batul ko us ne rula diya
 ---
 اے شاہِ انبیاء یہ مسلماں نے کیا کِیا

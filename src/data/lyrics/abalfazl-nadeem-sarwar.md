@@ -10,22 +10,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abalfazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi Nasab Ameer-e-Dilawaram
-  Khuda Ke Dein Ka Pasbaan Shujaton Ka Aasmaan Jalal Tera Al-Amaan Abalfazl
-  Hussainiyat Ka Tarjumaan Yeh Ghamzadon Ka Saibaan Alam Badoosh Rehnuma Abalfazl
+  Abalfazl-e-baawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
+  Khuda ke din ka paasbaaṅ shujaatoṅ ka aasmaaṅ jalaal tera al-amaaṅ Abalfazl
+  Husainiyat ka tarjumaaṅ yeh gham zadoṅ ka saaibaaṅ alam badosh rehnuma Abalfazl
 
   2
-  Yeh Murtaza Ka Gulbadan Waqar-e-Haidery Chaman Shujaton Ki Anjuman Abalfazl
-  Ali Misal Taig Zan Wohi Sukhan Wohi Chalan Ali-e-Dasht-e-Karbala Abalfazl
-  Ameer-e-Sabar Ka Akhi Qarar-e-Jan-e-Zainabi Amm-e-Sakina Hai Yehi Abalfazl
-  Tujh Ko Shahadat Jo Mili Bholay Gi Dunya Na Kabhi Tera Alam Oncha Raha Abalfazl
+  Yeh Murtaza ka gul badan waqaar-e-Haidari chaman shujaatoṅ ki anjuman Abalfazl
+  Ali misaal tegh zan wohi sukhan wohi chalan Ali-e-dasht-e-Karbala Abalfazl
+  Amir-e-sabr ka akhi qaraar-e-jaan-e-Zainabi amm-e-Sakina hai yehi Abalfazl
+  Tujh ko shahaadat jo mili bhule gi duniya na kabhi tera alam uncha raha Abalfazl
 
   3
-  Aye Noor-e-Dil Mara Qamar Aye Roshni Mara Sahar Ba-Waqt-e-Gham Mara Sipar Abalfazl
-  Tere Hain Sab Yeh Behar-o-Bar Tu Hi Duaon Mein Asar Tere Sabab Hub-e-Khatar Abalfazl
-  Ghulam-e-Ibn-e-Murtaza Rehan-o-Sarwar-e-Azza Hamara Markaz-e-Wafa Abalfazl
-  Dua-e-Bint-e-Fatima Jahan Alam Yeh Jab Utha Falak Pukara Marhaba Abalfazl
+  Ae nur-e-dil maraa qamar ae roshni maraa sahar ba waqt-e-gham maraa sipar Abalfazl
+  Tere haiṅ sab yeh bahr o barr tu hi duaaoṅ meiṅ asar tere sabab hubb-e-khatar Abalfazl
+  Ghulaam-e-Ibn-e-Murtaza Rehan o Sarwar-e-aza hamaara markaz-e-wafa Abalfazl
+  Duaa-e-bint-e-Fatima jahaaṅ alam yeh jab utha falak pukaara marhaba Abalfazl
 ---
 
 ۱

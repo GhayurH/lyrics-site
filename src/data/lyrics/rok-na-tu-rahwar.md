@@ -9,45 +9,72 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab Maqtal Ko Mazloom Chala
-  Zainab Ne Lagam Ko Tham Liya.
-  Zainab Rok Na Tu Rahwar
+  Jab maqtal ko mazlum chala
+  Zainab ne lagaam ko thaam liya
+  Tujhe jaane duṅ dil nahiṅ karta
+  Bin tere jiyuṅ dil nahiṅ karta
+  Maula ne kaha mujhe jaana hai
+  Mujhe waada behan nibhaana hai
+  Na lashkar na ghar baar raha
+  Tu ujar gayi main ujar gaya
+  Nahiṅ lagda, dil mera
+  Mera koi raha na ghamkhwaar Zainab
 
   1
-  Tujhey Jane Doon Dil Nahi Karta, Bin Tere Jiyon Dil Nahi Karta
-  Maula Ne Kaha Mujhe Jana Hai, Mujhe Wadah Behan Nibhana Hai
-  Na Lashkar Na Ghar Bar Raha, Tu Ujar Gayi Main Ujar Gaya
-  Haan Nayi Lagda Haan Dil Mera, Haan Mera Koi Raha Na Ghamkhuwar
+  Rok na tu rahwaar, Zainab
+  Rok na tu rahwaar
 
   2
-  Mil Veer Koon Aakhri War, Zainab Rook Na Tu Rahwar
-  Mera Lashkar Raha Na Salar, Zainab Rook Na Tu Rahwar
-  Aao Behna Zainab Aao, Mere Seene Se Lag Jao
-  Beti Ali Ki Na Ghabrao, Aao Meri Aas Bandhao
+  Mil vir kun aakhri baar Zainab
 
   3
-  Na Ho Ga Haan Ab Milna, Haan Mujhe Dekh Le Aakhri Bar
-  Main Pardesi ALLAH Rasi, Main Hoon Our Meri Tanhai
-  Jati Hai Ab Meri Sawari, Mera Khuda Ho Mujh Se Razi
-  Main Tanha Haan Main Pyasa, Haan Mera Lashkar Raha Na Salar
+  Mera lashkar raha na saalaar Zainab
 
   4
-  Aaya Chad Ke Shehar-e-Madina, Lutiya Mera Pak Safena
-  Dil Tukray Zakhmi Hai Seena, Baad Akbar De Main Nayi Jeena
-  Nayi Lagda Haan Dil Mera, Na Lashkar Riya Na Salar
-  Baad Mere Masoom Sakina, Yaad Karey Gi Mera Seena
+  Aao behna Zainab aao
+  Mere sine se lag jaao
+  Beti Ali ki na ghabraao
+  Aao meri aas bandhaao
+  Na hoga haaṅ ab milna
+  Mujhe dekh le aakhri baar Zainab
 
   5
-  Mujh Se Miley Gi Ab Woh Kabhi Na, Mushkil Ho Ga Oss Ka Jeena
-  Meri Pyari Haan Meri Beti, Haan Mere Seene Pe Soyi Har Bar
-  Baad Mere Oh Wela Aanra, Sir Taun Pardah Shimar Lahanra
-  Qaidiyan Wala Zewar Panra, Qaidi Ho Ke Sham Nu Janra
+  Main pardesi Allah raasi
+  Main huṅ aur meri tanhaai
+  Jaati hai ab meri sawaari
+  Mera Khuda ho mujh se raazi
+  Main tanha main pyaasa
 
   6
-  Bazaraan Haan Darbaraan, Haan Taun Wanjraan Aye Sang Beemar
-  Mera Ik Paigham Hai Behna, Mere Azadaron Se Kehna
-  Jab Bhi Thanda Pani Peena, Pyasay Husain Ki Pyas Pe Rona
-  Haan Ghar Ghar Haan Ta Mehshar, Haan Mujhe Roein Gay Pursay Daar
+  Aaya chhad ke shahr-e-Madina
+  Lutiya mera paak safina
+  Dil tukre zakhmi hai sina
+  Baad Akbar de main nain jina
+  Nahiṅ lagda haaṅ dil mera
+  Na lashkar riya na saalaar Zainab
+
+  7
+  Baad mere maasum Sakina
+  Yaad karegi mera sina
+  Mujh se milegi ab woh kabhi na
+  Mushkil hoga us ka jina
+  Meri pyaari haaṅ meri beti
+  Mere sine pe soyi har baar Zainab
+
+  8
+  Baad mere woh vela aanra
+  Sir to parda Shimar lahaanra
+  Qaidiyan waala zewar paanra
+  Qaidi ho ke Shaam nun jaana
+  Bazaaran haaṅ darbaaran
+  Tu ujra ae sang bimaar Zainab
+
+  9
+  Mera ik paighaam hai behna
+  Mere azaadaaroṅ se kehna
+  Jab bhi thanda paani pina
+  Pyaase Husain ki pyaas pe rona
+  Ghar ghar ta mahshar mujhe roeṅge purse daar Zainab
 ---
 
 جب مقتل کو مظلوم چلا

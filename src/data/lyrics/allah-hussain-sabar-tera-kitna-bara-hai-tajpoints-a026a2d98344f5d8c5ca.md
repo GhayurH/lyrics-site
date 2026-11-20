@@ -1,41 +1,72 @@
 ---
-title: "Allah Hussain Sabar Tera Kitna Bara Hai"
+title: "اللہ حسین، صبر تیرا کتنا بڑا ہے"
+alternateTitle: "Allah Hussain Sabar Tera Kitna Bara Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Joun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Allah Hussain sabar tera kitna bara hai
+  Betay ka jigar nikla howa dekh raha hai
+  Zalim hai keh Akbar ki haye reesh noch kar
+  Phir samne padar ke sar kaat raha hai
+
+  2
+  Laila tu apni dunya bas dekhti rahi
+  Sartaj par ghareebi betay pe qaza hai
+  Bolay Hussain, Akbar se bheer hatatay
+  Aye zalimo na kuchlo yeh nazoon se pala hai
+
+  3
+  Haye tooti pasliyon se uthati thi maa jisay
+  Tooti kamar se beta uthane woh chala hai
+  Aisay gira keh chehra ja khak par laga
+  Itna Hussain logo zaeefi se lara hai
+
+  4
+  Zainab ke sar se chadar utari thi iss liye
+  Woh hi nahi raha jo chadar mein pala hai
+  Sughra ko kaisay qasad do gay jawab tum
+  Khat ka jawab Akbar ne seene pe likha hai
+
+  5
+  Boli Sakina, Abid ka shana hila kar
+  Bhaiyya uthao jao kar mera baba gira hai
+  Kandhoon pe Joun Shah ke Akbar tha iss tarha
+  Jaisay khulay zakhm par ik zakhm rakha hai
 ---
 
-1
-Allah Hussain Sabar Tera Kitna Bara Hai.
-Betay Ka Jigar Nikla Howa Dekh Raha Hai.
-Zalim Hai Keh Akbar Ki Haye Reesh Noch Kar.
-Phir Samne Padar Ke Sar Kaat Raha Hai.
+۱
+اللہ حسین، صبر تیرا کتنا بڑا ہے
+بیٹے کا جگر نکلا ہوا دیکھ رہا ہے
+ظالم ہے کہ اکبر کی ہائے ریش نوچ کر
+پھر سامنے پدر کے سر کاٹ رہا ہے
 
-2
-Laila Tu Apni Dunya Bas Dekhti Rahi.
-Sartaj Par Ghareebi Betay Pe Qaza Hai.
-Bolay Hussain, Akbar Se Bheer Hatatay.
-Aye Zalimo Na Kuchlo Yeh Nazoon Se Pala Hai.
+۲
+لیلیٰ تو اپنی دنیا بس دیکھتی رہی
+سرتاج پر غریبی بیٹے پہ قضا ہے
+بولے حسین، اکبر سے بھیڑ ہٹاتے
+اے ظالمو نہ کچلو یہ نازوں سے پلا ہے
 
-3
-Haye Tooti Pasliyon Se Uthati Thi Maa Jisay.
-Tooti Kamar Se Beta Uthane Woh Chala Hai.
-Aisay Gira Keh Chehra Ja Khak Par Laga.
-Itna Hussain Logo Zaeefi Se Lara Hai.
+۳
+ہائے ٹوٹی پسلیوں سے اٹھاتی تھی ماں جسے
+ٹوٹی کمر سے بیٹا اٹھانے وہ چلا ہے
+ایسے گرا کہ چہرہ جا خاک پر لگا
+اتنا حسین لوگو ضعیفی سے لڑا ہے
 
-4
-Zainab Ke Sar Se Chadar Utari Thi Iss Liye.
-Woh Hi Nahi Raha Jo Chadar Mein Pala Hai.
-Sughra Ko Kaisay Qasad Do Gay Jawab Tum.
-Khat Ka Jawab Akbar Ne Seene Pe Likha Hai.
+۴
+زینب کے سر سے چادر اتاری تھی اس لیے
+وہ ہی نہیں رہا جو چادر میں پلا ہے
+صغریٰ کو کیسے قاصد دو گے جواب تم
+خط کا جواب اکبر نے سینے پہ لکھا ہے
 
-5
-Boli Sakina, Abid Ka Shana Hila Kar.
-Bhaiyya Uthao Jao Kar Mera Baba Gira Hai.
-Kandhoon Pe Joun Shah Ke Akbar Tha Iss Tarha.
-Jaisay Khulay Zakhm Par Ik Zakhm Rakha Hai.
+۵
+بولی سکینہ، عابد کا شانہ ہلا کر
+بھیا اٹھو جا کر میرا بابا گرا ہے
+کندھوں پہ جون شاہ کے اکبر تھا اس طرح
+جیسے کھلے زخم پر اک زخم رکھا ہے

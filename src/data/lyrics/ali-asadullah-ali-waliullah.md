@@ -13,102 +13,102 @@ romanLyrics: |-
 
   1
   Ya Ali
-  Haderiyam Qalanderam Mastam
-  Banda-e-Murtaza Ali Hastam
+  Haidariyam, qalandaram, mastam
+  Banda-e-Murtaza Ali hastam
 
   2
-  Marami Kashad Ishq-e-Oo Har Taraf
+  Mara mi kashad ishq-e-u u har taraf
   Ali Asadullah Ali Waliullah
-  Giraftam Man Az Naam-e-Haider Sharaf
+  Giraftaaram man az naam-e-Haidar sharaf
   Ali Asadullah Ali Waliullah
-  Gidayam Giday-e-Gidayaan-e-Oo
-  Asiram Asir-e-Amir-e-Najjaf
+  Gadaayam daay-e-gadaayam u u
+  Asiram asir-e-amir-e-Najaf
   Ali Asadullah Ali Waliullah
 
   3
   Haaṅ
-  Marami Kashad Ishq-e-Oo Har Taraf
-  Giraftam Man Az Naam-e-Haider Sharaf
-  Gidayam Giday-e-Gidayaan-e-Oo
-  Asiram Asir-e-Amir-e-Najjaf
+  Mara mi kashad ishq-e-u u har taraf
+  Gireftam maan az naam-e-Haidar sharaf
+  Gadaayam gadaay-e-gadaayaan-e-u u
+  Asiram asir-e-mir-e-Najaf
   Ali Asadullah Ali Waliullah
 
   4
   Haaṅ
-  Waris-e-Teygh o Alam Bab-e-Sharaf
-  Taaj-e-Wehdat Ke Liye Dur-e-Najjaf
-  Gohar-e-Nehj-e-Balagha Ka Sadaf
-  Jalwa-e-Fouj-e-Khuda Waqt-e-Sahar
-  Haa Aliyun Basharun Kaifa Bashar
+  Waaris-e-tegh o alam baab-e-sharaf
+  Taaj-e-wahdat ke liye dur-e-Najaf
+  Gohar-e-nihj-e-balaagha ka sadaf
+  Jalwa-e-fauj-e-Khuda waqt-e-sahar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   5
   Haaṅ
-  Saqi-e-Koun o Makan Qibla-e-Jaan
-  Qasim-e-Ilm o Adab Naar o Jinnah
-  Sahib-e-Louh o Qalam Ruh-e-Rawaaṅ
-  Mashal-e-Nur-e-Rukh AlShams o Qamar
-  Haa Aliyun Basharun Kaifa Bashar
+  Saaqi-e-kaun o makaan qibla-e-jaan
+  Qaasim-e-ilm o adab naar o janaah
+  Saahib-e-lauh o qalam ruh-e-rawaaṅ
+  Mashal-e-nur-e-rukh ash-shaams o kamar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   6
   Haaṅ
-  Hamil-e-Qudrat-e-Qum Beizani
-  Qull-e-Imaan Iraadoṅ Ka Dhani
-  Uss Ke Jaisa Na Sakhi Aur Ghani
-  Khak-e-Nalain-e-Ali Dur o Gohar
-  Haa Aliyun Basharun Kaifa Bashar
+  Haamil-e-qudrat-e-kam be azaani
+  Kull-e-imaan iraadoṅ ka dhani
+  Us ke jaisa na sakhi aur ghani
+  Khaak-e-naalain-e-Ali dur o gohar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   7
-  Hasti-e-Haider-e-Karar Khuda Ka Lashkar
-  Paich Ammaame Ke Aflaak o Zamin Ka Chakar
-  Raasta Khuld Ka Hai Jaa-e-Namaz-e-Haider
-  Maskan-e-Haider-e-Karar Hai Allah Ka Ghar
-  Naashir-e-Fuzto Be Rabil Kaba
-  Ye Zamin Jisska Nishan-e-Sajda
-  Jisska Saaya Nahi Usska Saaya
-  Rabbahu Fi Hai Tajjalla-e-Zahar
-  Haa Aliyun Basharun Kaifa Bashar
+  Hasti-e-Haidar-e-Qaraar Khuda ka lashkar
+  Pech amaame ke aflaaq o zamin ka chakkar
+  Raasta khuld ka hai jaa-e-namaaz-e-Haidar
+  Maskan-e-Haidar-e-Qaraar hai Allah ka ghar
+  Naashir-e-fuztu bi rabbil Kaaba
+  Ye zamin jis ka nishaan-e-sajda
+  Jis ka saaya nahiṅ us ka saaya
+  Rabbahu fi hai tajalla-e-zahr
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   8
-  Paa-e-Haider Se Jo Mass Raah Ka Pathar Ho Ga
-  Sang Wo Dur-e-Najjaf Surat-e-Gohar Ho Ga
-  Aisa Gohar Jo Kabhi Misam o Qamber Ho Ga
-  Aur Kabhi Surat-e-Salman o Abu Zar Ho Ga
-  Ishq-e-Haider Ba Khuda Lutf-e-Khuda
-  Saahib-e-Zarf Ko Hota Hai Ata
-  Ishq-e-Haider Maiṅ Ibadat Ka Maza
-  Jisske Maddaah Sabhi Barg o Shajjar
-  Haa Aliyun Basharun Kaifa Bashar
+  Paa-e-Haidar se jo maas raah ka patthar ho ga
+  Sang wo dur-e-Najaf surat-e-gohar ho ga
+  Aisa gohar jo kabhi Maisam o Qambar ho ga
+  Aur kabhi surat-e-Salmaan o Abu Zar ho ga
+  Ishq-e-Haidar ba Khuda lutf-e-Khuda
+  Saahib-e-zarf ko hota hai ataa
+  Ishq-e-Haidar meiṅ ibaadat ka maza
+  Jis ke maddaah sabhi barg o shajar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   9
   Haaṅ
-  Khub Haider Ne Piya Jaam-e-Qaza
-  Apne Qatil Ko Jagah Ker Ye Kaha
-  Kaam Kar Dushman-e-Rab-e-Kaba
-  Allah Allah Ali Ka Ye Jigar
-  Haa Aliyun Basharun Kaifa Bashar
+  Khub Haidar ne piya jaam-e-qaza
+  Apne qaatil ko jaga kar ye kaha
+  Kaam kar dushman-e-rab-e-Kaaba
+  Allah Allah Ali ka ye jigar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   10
   Haaṅ
-  Aalam-e-Karb Hai Tanhaai Teri
-  Karbala Khaa Gai Binaai Teri
-  Tere Bachoṅ Maiṅ Thi Danaai Teri
-  Utra Meydaaṅ Maiṅ Ye Keh Kar Akber
-  Haa Aliyun Basharun Kaifa Bashar
+  Aalam-e-karb hai tanhaai teri
+  Karbala khaa gai binaai teri
+  Tere bachchoṅ meiṅ thi daanaai teri
+  Utra maidaaṅ meiṅ ye keh kar Akbar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 
   11
   Haaṅ
-  Fikar-e-Rehan o Nadim-e-Sarwar
-  Hai Dua-e-Dil-e-Zehra s.a Ka Asar
-  Bar Sar-e-Farsh-e-Azza Ya Haider
-  Le Ke Moujud Haiṅ Tere Nokar
-  Haa Aliyun Basharun Kaifa Bashar
+  Fikr-e-Rehan o Nadim-e-Sarwar
+  Hai dua-e-dil-e-Zehra ka asar
+  Bar sar-e-farsh-e-aza ya Haidar
+  Le ke maujud haiṅ tere naukar
+  Haaṅ Aliya bashara kaifa bashar
   Ali Asadullah Ali Waliullah
 ---
 

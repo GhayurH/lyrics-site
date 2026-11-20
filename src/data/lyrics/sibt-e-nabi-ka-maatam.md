@@ -12,16 +12,16 @@ tags: []
 aliases: ["Sibte Nabi Ka Matam"]
 published: true
 romanLyrics: |-
-  Sibt-e-Nabi ka maatam manshur-e-zindagi hai
+  Sibt-e-Nabi ka maatam mashhur zindagi hai
   Maatam hi zindagi hai maatam hi bandagi hai
 
   1
   Daagh-e-yatimi de ke mujh ko kahaaṅ gaye ho
-  Maqtal meiṅ ek bachchi baaba ko dhundti hai
+  Maqtal mein ek bachchi baaba ko dhundti hai
   Maatam hi zindagi hai maatam hi bandagi hai
 
   2
-  Abbas ne ye kah kar izn-e-jihaad maaṅga
+  Abbas ne ye kah kar izn-e-jihaad maanga
   Mujh se na dekhi jaaye bachchoṅ ki tashnagi hai
   Maatam hi zindagi hai maatam hi bandagi hai
 

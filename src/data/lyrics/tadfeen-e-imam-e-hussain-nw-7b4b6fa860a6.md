@@ -4,9 +4,94 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ae rone waaloṅ hai ye ghari shor o shain ki
+
+  Tadfin ho rahi hai Imam-e-Husain ki
+
+  1
+  Kufe se aaye pehne jo Sajjad beriyaaṅ
+  Laash-e-Husain dekh ke aaṅsu hue rawaaṅ
+  Haathoṅ ko jor kar kiya bimaar ne bayaaṅ
+  Baba tumhaari laash ko dhunduṅ kahaaṅ kahaaṅ
+
+  Kaise kafan duṅ laash ko ghurbat nasib huṅ
+  Baba main aaj tum se zyaada gharib huṅ
+
+  2
+  Ro kar Bani Asad ke qabile ko di sada
+  Laash-e-Husain mil ke ikattha karo zara
+  Utre lahad mein Shah ki bimaar-e-Karbala
+  Bole parhuṅ main kis tarah talqiṅ ya Khuda
+
+  Rukh kaise su-e-Kaaba ho Zehra ke chain ka
+  Sar hi nahiṅ yahaaṅ mere Baba Husain ka
+
+  3
+  Jitne bhi tukre mil sake sab chun liye gaye
+  Aahista se lahad mein wo bimaar ne rakhe
+  Sine pe haath rakha jo bete ne baap ke
+  Haalat pe Baba jaan ki Sajjad ro pare
+
+  Bole ke khud bhi is waqt Daadi jaaṅ
+  Toreṅ haiṅ is tarah mere Baba ki pasliyaaṅ
+
+  4
+  Luti hai aise laash Ghurb-ud-Diyaar ki
+  Ghoroṅ se pehle laash ki paamaali ki gai
+  Phir kurta aur amaama, aba le gaya koi
+  Ye hi nahiṅ ke sirf anguthi nahiṅ mili
+
+  Be ehtiraami ki hai yuṅ Zehra ke chain ki
+  Ungli laiṅ ne kaati hai Baba Husain ki
+
+  5
+  Tiroṅ se saara jism hai haaye bhara hua
+  Pehlu pe Baba jaaṅ ke hai neza gara hua
+  Terah jagahoṅ se unka gala hai kata hua
+  Hai tan yahaaṅ pe sar wahaaṅ khuṅ se bhara hua
+
+  Sar dekh kar yaqiṅ hai mere khaandaan ko
+  Maara pattharoṅ se mere Baba jaan ko
+
+  6
+  Barh kar Bani Asad ne ye ek baat puchh li
+  Maula muaaf kijiye gar ho khata koi
+  Chhoti si kya ye sine pe shai hai rakhi hui
+  Aabid ki baat sun ke har ek maaṅ tarap gai
+
+  Bole ye dekh dekh ke dil paash paash hai
+  Sine pe Baba jaan ke Asghar ki laash hai
+
+  7
+  Puchha kisi ne Maula baraabar mein kaun hai
+  Shabbir uske sine pe kiuṅ haath haiṅ rakhe
+  Lagta hai unko ko pyaar tha is naujawaan se
+  Akbar ka naam lete hi Sajjad ro pare
+
+  Bole ke haath sine pe yuṅ hai rakha hua
+  Hai bete ke kaleje mein neza laga hua
+
+  8
+  Aai sada ye Fatima Zehra ki qabr se
+  Sajjad laut jaao ke Baba ko ro chuke
+  Kufe mein yaad karti hai beti meri tujhe
+  Tum to yahaaṅ ho wo bhala aawaaz kis ko de
+
+  Zainab ke dil ko aur bhi zaalim rulaata hai
+  Shimr-e-laiṅ bahan tamaache lagaata hai
+
+  9
+  Sajjad Karbala ke wo manzar ajib the
+  Farhan aa rahi thi ye aawaaz qabr se
+  Milwa do beta phir zara Abbas se mujhe
+  Bolo ke aakhiri ye meri baat maan le
+
+  Aabid pukaare ae dil-e-Ehsaas aaiye
+  Mitti lahad pe daalne Abbas aaiye
 ---
 
 اے رونے والوں ہے یہ گھڑی شوروشین کی

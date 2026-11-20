@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae parindoṅ dar-e-zindaaṅ se guzra na karo
+  Ae parindoṅ dar-e-zindaaṅ se guzraa na karo
   Ek yatima ko sar-e-shaam se sataaya na karo
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Tum ho aazaad mubaarak ho tumheṅ aazaadi
-  Qaid-e-zindaaṅ meiṅ Sakina hai magar faryaadi
+  Qaid-e-zindaaṅ mein Sakina hai magar faryaadi
   Ek dukhe dil ko idhar aa ke dukhaaya na karo
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   6
   Tum ko maalum nahiṅ kitni ghutan hai us ko
   Dil bhi zakhmi hai safar ki bhi thakan hai us ko
-  Us ki taklif meiṅ ab aur izaafa na karo
+  Us ki taklif mein ab aur izaafa na karo
 
   7
   Is yatima pe bahut tang hui hai dunya

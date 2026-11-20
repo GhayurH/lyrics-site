@@ -1,36 +1,62 @@
 ---
-title: "Maa Zahra"
+title: "ماں زہرا"
+alternateTitle: "Maa Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azlan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kiya yeh Zainab-o-Kulsoom ne noha aye maa Zahra
+  Sar-e-darbar batlao howa kya kya aye maa Zahra
+  Suna hai aap ko darbar mein pehron khara rakha
+  Yeh keh do jhoot hai zalim ne tum ko hai kaha jhota
+  Yeh hathoon mein hai kis tehreer ka tukra aye maa Zahra
+  Nishaan kaisay hain chehray par rida se jo chupati ho
+  Nazar hum betiyon ki apne rukh se kyun hatati ho
+  Batao ho gaya rukhsar kyun neela aye maa Zahra
+  Yaqeen aata nahi bint-e-Nabi jis waqt roti thi
+  Wahan par qehqahey lagtay they our ummat yeh hansti thi
+  Taraptay hoon gay manzar dekh kar nana aye maa Zahra
+  Duaein maon ki Khaliq kabhi bhi rad nahi karta
+  Hamarey haq mein karna jab dua tu bas yehi karna
+  Na ho hum ko kabhi darbar mein jana aye maa Zahra
+  Bas ik din mein hi amma aap ki halat yeh badli hai
+  Kamar khum ho gayi hai our baloon mein safaidi hai
+  Tumhein ik pal ko hum ne bhi na pehchana aye maa Zahra
+  Galay lag jao mere aao maa ke pas aa jao
+  Meri shehzadiyo main theek hoon hargiz na ghabrao
+  Yeh keh kar tum hamara dil na behlana aye maa Zahra
+  Yehi Azlan-o- Meesum betiyaan kehti rahein ro kar
+  Tumharey haal se zahir hai sab darbar ka manzar
+  Saha jo zulm tum ne chup nahi sakta aye maa Zahra
 ---
 
-1
-Kiya Yeh Zainab-o-Kulsoom Ne Noha Aye Maa Zahra.
-Sar-e-Darbar Batlao Howa Kya Kya Aye Maa Zahra.
-Suna Hai Aap Ko Darbar Mein Pehron Khara Rakha.
-Yeh Keh Do Jhoot Hai Zalim Ne Tum Ko Hai Kaha Jhota.
-Yeh Hathoon Mein Hai Kis Tehreer Ka Tukra Aye Maa Zahra.
-Nishaan Kaisay Hain Chehray Par Rida Se Jo Chupati Ho.
-Nazar Hum Betiyon Ki Apne Rukh Se Kyun Hatati Ho.
-Batao Ho Gaya Rukhsar Kyun Neela Aye Maa Zahra.
-Yaqeen Aata Nahi Bint-e-Nabi Jis Waqt Roti Thi.
-Wahan Par Qehqahey Lagtay They Our Ummat Yeh Hansti Thi.
-Taraptay Hoon Gay Manzar Dekh Kar Nana Aye Maa Zahra.
-Duaein Maon Ki Khaliq Kabhi Bhi Rad Nahi Karta.
-Hamarey Haq Mein Karna Jab Dua Tu Bas Yehi Karna.
-Na Ho Hum Ko Kabhi Darbar Mein Jana Aye Maa Zahra.
-Bas Ik Din Mein Hi Amma Aap Ki Halat Yeh Badli Hai.
-Kamar Khum Ho Gayi Hai Our Baloon Mein Safaidi Hai.
-Tumhein Ik Pal Ko Hum Ne Bhi Na Pehchana Aye Maa Zahra.
-Galay Lag Jao Mere Aao Maa Ke Pas Aa Jao.
-Meri Shehzadiyo Main Theek Hoon Hargiz Na Ghabrao.
-Yeh Keh Kar Tum Hamara Dil Na Behlana Aye Maa Zahra.
-Yehi Azlan-o- Meesum Betiyaan Kehti Rahein Ro Kar.
-Tumharey Haal Se Zahir Hai Sab Darbar Ka Manzar.
-Saha Jo Zulm Tum Ne Chup Nahi Sakta Aye Maa Zahra.
+۱
+کیا یہ زینب و کلثوم نے نوحہ اے ماں زہرا
+سرِ دربار بتلاؤ ہوا کیا کیا اے ماں زہرا
+سنا ہے آپ کو دربار میں پہروں کھڑا رکھا
+یہ کہہ دو جھوٹ ہے ظالم نے تم کو ہے کہا جھوٹا
+یہ ہاتھوں میں ہے کس تحریر کا ٹکڑا اے ماں زہرا
+نشاں کیسے ہیں چہرے پر ردا سے جو چھپاتی ہو
+نظر ہم بیٹیوں کی اپنے رخ سے کیوں ہٹاتی ہو
+بتاؤ ہو گیا رخسار کیوں نیلا اے ماں زہرا
+یقین آتا نہیں بنتِ نبی جس وقت روتی تھی
+وہاں پر قہقہے لگتے تھے اور امت یہ ہنستی تھی
+تڑپتے ہوں گے منظر دیکھ کر نانا اے ماں زہرا
+دعائیں ماؤں کی خالق کبھی بھی رد نہیں کرتا
+ہمارے حق میں کرنا جب دعا تو بس یہی کرنا
+نہ ہو ہم کو کبھی دربار میں جانا اے ماں زہرا
+بس اک دن میں ہی اماں آپ کی حالت یہ بدلی ہے
+کمر خم ہو گئی ہے اور بالوں میں سفیدی ہے
+تمہیں اک پل کو ہم نے بھی نہ پہچانا اے ماں زہرا
+گلے لگ جاؤ میرے آؤ ماں کے پاس آ جاؤ
+میری شہزادیو میں ٹھیک ہوں ہرگز نہ گھبراؤ
+یہ کہہ کر تم ہمارا دل نہ بہلانا اے ماں زہرا
+یہی ازلان و میثم بیٹیاں کہتی رہیں رو کر
+تمہارے حال سے ظاہر ہے سب دربار کا منظر
+سہا جو ظلم تم نے چھپ نہیں سکتا اے ماں زہرا

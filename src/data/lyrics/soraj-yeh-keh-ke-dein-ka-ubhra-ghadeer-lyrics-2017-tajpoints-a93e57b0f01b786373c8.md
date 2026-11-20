@@ -1,53 +1,96 @@
 ---
-title: "Soraj Yeh Keh Ke Dein Ka Ubhra Ghadeer Lyrics 2017"
+title: "سورج یہ کہہ کے دیں کا ابھرا غدیر"
+alternateTitle: "Soraj Yeh Keh Ke Dein Ka Ubhra Ghadeer"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Soraj yeh keh ke dein ka ubhra Ghadeer mein
+  Takmeel aaj paye ga kalma Ghadeer mein
+  Simti kuch aise wahi ki dunya Ghadeer mein
+  Balag pe aa ke ruk gayi Iqra Ghadeer mein
+
+  2
+  Quraan bana howa tha wilayat ki manqabat
+  Tauheed parh rahi thi qaseeda Ghadeer mein
+  Jab se Ali hain tab se hain Mola-e-Kainat
+  Elan teh shudah tha keh ho ga Ghadeer mein
+
+  3
+  Bazoo buland kar ke dikhate rahe Rasool
+  Andhoo ne phir bhi kuch nahi dekha Ghadeer mein
+  Quraan ki aytoon ka safar inteha pe tha
+  Thi ibteda pe Nehj-e-Balaga Ghadeer mein
+
+  4
+  Parde ke paar kaun tha parde ke aar koan
+  Mairaj se utha hai woh parda Ghadeer mein
+  Naam-e-Ali nahi tha tu andhi thi azaan
+  Pora howa azan ka chehrah Ghadeer mein
+
+  5
+  Ishq-e-Ali mein takiya agar halal
+  Ayat kabhi badalti na lehja Ghadeer mein
+  Rasta bhatak giya tha musafir Ghadeer ka
+  Hur bas zara se dair se pohancha Ghadeer mein
+
+  6
+  Sadiyon ka fasla hai mere un ke darmiyaan
+  Lekin main janta hoon keh main tha Ghadeer mein
+  Hasaan ki jagah main parhon ga yeh manqabat
+  Minber sajay ga jab yeh dobara Ghadeer mein
+
+  7
+  Dil mast ankh mast zubaan mast rooh mast
+  Qanbar tha khaas dekhne wala Ghadeer mein
+  Sajdah kabhi idhar kiya Akbar kabhi udhar
+  Daein tu kabhi baein tha Kaba Ghadeer mein
 ---
 
-1
-Soraj Yeh Keh Ke Dein Ka Ubhra Ghadeer Mein.
-Takmeel Aaj Paye Ga Kalma Ghadeer Mein.
-Simti Kuch Aise Wahi Ki Dunya Ghadeer Mein.
-Balag Pe Aa Ke Ruk Gayi Iqra Ghadeer Mein.
+۱
+سورج یہ کہہ کے دیں کا ابھرا غدیر میں
+تکمیل آج پائے گا کلمہ غدیر میں
+سمٹی کچھ ایسے وحی کی دنیا غدیر میں
+بلاغ پہ آ کے رک گئی اقرا غدیر میں
 
-2
-Quraan Bana Howa Tha Wilayat Ki Manqabat.
-Tauheed Parh Rahi Thi Qaseeda Ghadeer Mein.
-Jab Se Ali Hain Tab Se Hain Mola-e-Kainat.
-Elan Teh Shudah Tha Keh Ho Ga Ghadeer Mein.
+۲
+قرآن بنا ہوا تھا ولایت کی منقبت
+توحید پڑھ رہی تھی قصیدہ غدیر میں
+جب سے علی ہیں تب سے ہیں مولائے کائنات
+اعلان طے شدہ تھا کہ ہو گا غدیر میں
 
-3
-Bazoo Buland Kar Ke Dikhate Rahe Rasool.
-Andhoo Ne Phir Bhi Kuch Nahi Dekha Ghadeer Mein.
-Quraan Ki Aytoon Ka Safar Inteha Pe Tha.
-Thi Ibteda Pe Nehj-e-Balaga Ghadeer Mein.
+۳
+بازو بلند کر کے دکھاتے رہے رسول
+اندھوں نے پھر بھی کچھ نہیں دیکھا غدیر میں
+قرآن کی آیتوں کا سفر انتہا پہ تھا
+تھی ابتدا پہ نہج البلاغہ غدیر میں
 
-4
-Parde Ke Paar Kaun Tha Parde Ke Aar Koan.
-Mairaj Se Utha Hai Woh Parda Ghadeer Mein.
-Naam-e-Ali Nahi Tha Tu Andhi Thi Azaan.
-Pora Howa Azan Ka Chehrah Ghadeer Mein.
+۴
+پردے کے پار کون تھا، پردے کے آر کون
+معراج سے اٹھا ہے وہ پردہ غدیر میں
+نامِ علی نہیں تھا تو اندھی تھی اذان
+پورا ہوا اذان کا چہرہ غدیر میں
 
-5
-Ishq-e-Ali Mein Takiya Agar Halal.
-Ayat Kabhi Badalti Na Lehja Ghadeer Mein.
-Rasta Bhatak Giya Tha Musafir Ghadeer Ka.
-Hur Bas Zara Se Dair Se Pohancha Ghadeer Mein.
+۵
+عشقِ علی میں تقیہ اگر حلال
+آیت کبھی بدلتی نہ لہجہ غدیر میں
+راستہ بھٹک گیا تھا مسافر غدیر کا
+حر بس ذرا سی دیر سے پہنچا غدیر میں
 
-6
-Sadiyon Ka Fasla Hai Mere Un Ke Darmiyaan.
-Lekin Main Janta Hoon Keh Main Tha Ghadeer Mein.
-Hasaan Ki Jagah Main Parhon Ga Yeh Manqabat.
-Minber Sajay Ga Jab Yeh Dobara Ghadeer Mein.
+۶
+صدیوں کا فاصلہ ہے میرے ان کے درمیاں
+لیکن میں جانتا ہوں کہ میں تھا غدیر میں
+حسّان کی جگہ میں پڑھوں گا یہ منقبت
+منبر سجے گا جب یہ دوبارہ غدیر میں
 
-7
-Dil Mast Ankh Mast Zubaan Mast Rooh Mast.
-Qanbar Tha Khaas Dekhne Wala Ghadeer Mein.
-Sajdah Kabhi Idhar Kiya Akbar Kabhi Udhar.
-Daein Tu Kabhi Baein Tha Kaba Ghadeer Mein.
+۷
+دل مست آنکھ مست زباں مست روح مست
+قنبر تھا خاص دیکھنے والا غدیر میں
+سجدہ کبھی ادھر کیا اکبر کبھی ادھر
+دائیں تو کبھی بائیں تھا کعبہ غدیر میں

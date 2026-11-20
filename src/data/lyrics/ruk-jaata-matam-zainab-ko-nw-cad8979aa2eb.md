@@ -1,32 +1,65 @@
 ---
-title: "Ruk Jaata Matam Zainab Ko"
+title: "رک جاتا ماتم زینب کو"
+alternateTitle: "Ruk Jaata Matam Zainab Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ruk jaata matam Zainab ko, na lay aatay bazaroun main
+  Khud paak Mohammed shamil hain, Shabbir kay matamdaroun main
+
+  1
+  Islam pay sab kuch vardiya, Khaliq nay kaha main raazi howa
+  Koyi karna saka Shabbir siva, sajda teeron talwaroun main
+
+  2
+  Darbar-e-khalafat main Zahra, aur Shaam main Zainab apni rida
+  Rayhi mangti dono maa bayti, haq ummat kay darbaroun main
+
+  3
+  Kisi aur ka kya nuksan howa, ghaar Haider ka veeran howa
+  Tum ajj bhi kaytay phirtay ho, kuch farq nayhi in charoun main
+
+  4
+  Paband-e-rasaan aur nangay saar, nah jaati Zainab Shaam agaar
+  Nah khoon kabhi Abid rota, you Shaam walay bazaroun main
+
+  5
+  Chahay katal-e-aam rahay jaari, na hogi khatam azadari
+  Zanjeeroun say matam kartay hain, kuch jaltay howay angaaroun main
+
+  6
+  Hoti hai jahan bhi rasam-e-Zzza, Tanveer Hussain ki maa Zahra
+  Ronay kay liye woh baitoun ko, aati hain parda daroun main
 ---
 
-Ruk Jaata Matam Zainab Ko, Na Lay Aatay Bazaroun Main
+رک جاتا ماتم زینب کو، نہ لے آتے بازاروں میں
+خود پاک محمد شامل ہیں، شبیر کے ماتم داروں میں
 
-Khud Paak Mohammed Shamil Hain, Shabbir Kay Matamdaroun Main.
+۱
+اسلام پہ سب کچھ وار دیا، خالق نے کہا میں راضی ہوا
+کوئی کر نہ سکا شبیر سوا، سجدہ تیروں تلواروں میں
 
-Islam Pay Sab Kuch Vardiya, Khaliq Nay Kaha Main Raazi Howa
-Koyi Karna Saka Shabbir Siva, Sajda Teeron Talwaroun Main.
+۲
+دربارِ خلافت میں زہرا، اور شام میں زینب اپنی ردا
+رہی مانگتی دونوں ماں بیٹی، حق امت کے درباروں میں
 
-Darbar-e-Khalafat Main Zahra, Aur Shaam Main Zainab Apni Rida
-Rayhi Mangti Dono Maa Bayti, Haq Ummat Kay Darbaroun Main.
+۳
+کسی اور کا کیا نقصان ہوا، گھر حیدر کا ویران ہوا
+تم آج بھی کہتے پھرتے ہو، کچھ فرق نہیں ان چاروں میں
 
-Kisi Aur Ka Kya Nuksan Howa, Ghaar Haider Ka Veeran Howa
-Tum Ajj Bhi Kaytay Phirtay Ho, Kuch Farq Nayhi In Charoun Main.
+۴
+پابندِ رساں اور ننگے سر، نہ جاتی زینب شام اگر
+نہ خون کبھی عابد روتا، یوں شام والے بازاروں میں
 
-Paband-e-rasaan Aur Nangay Saar, Nah Jaati Zainab Shaam Agaar
-Nah Khoon Kabhi Abid Rota, You Shaam Walay Bazaroun Main.
+۵
+چاہے قتلِ عام رہے جاری، نہ ہوگی ختم عزاداری
+زنجیروں سے ماتم کرتے ہیں، کچھ جلتے ہوئے انگاروں میں
 
-Chahay Katal-e-Aam Rahay Jaari, Na Hogi Khatam Azadari
-Zanjeeroun Say Matam Kartay Hain, Kuch Jaltay Howay Angaaroun Main.
-
-Hoti Hai Jahan Bhi Rasam-e-Zzza, Tanveer Hussain Ki Maa Zahra
-Ronay Kay Liye Woh Baitoun Ko, Aati Hain Parda Daroun Main.
+۶
+ہوتی ہے جہاں بھی رسمِ عزا، تنویر حسین کی ماں زہرا
+رونے کے لیے وہ بیٹوں کو، آتی ہیں پردہ داروں میں

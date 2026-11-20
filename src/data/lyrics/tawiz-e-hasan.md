@@ -21,7 +21,7 @@ romanLyrics: |-
   Bhai ko bhai yaad aaya
 
   1
-  Ek pal ke liye nazroṅ meiṅ phira
+  Ik pal ke liye nazroṅ meiṅ phira
   Bhai ki shahaadat ka manzar
   Kya bain kiye the behnoṅ ne
   Tha tasht meiṅ tukre tukre jigar
@@ -30,7 +30,7 @@ romanLyrics: |-
   Bhai ko bhai yaad aaya
 
   2
-  Tehrir meiṅ Shabbar ne ye kaha
+  Tahrir meiṅ Shabbar ne ye kaha
   Taskin-e-mohabbat de dena
   Maqtal ki ijaazat jab maange
   Qasim ko ijaazat de dena
@@ -50,7 +50,7 @@ romanLyrics: |-
   4
   Ghore se gira jab Ibn-e-Hasan
   Maula ko pukaara waawaila
-  Pahunche jo Shah-e-diṅ maqtal meiṅ
+  Pahunche jo Sheh-e-diṅ maqtal meiṅ
   Paamaal badan tha Qasim ka
   Bhai ke pisar ko Maula ne
   Is haal meiṅ jab paaya
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   7
   Mesum wo qayaamat ka manzar
-  Tehrir meiṅ laaya hai Mazhar
+  Tahrir meiṅ laaya hai Mazhar
   Gathri ko junhi khola Sheh ne
   Saadaat hue phir khaak basar
   Ashkoṅ ko Ali ka beta bhi

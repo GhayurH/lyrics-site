@@ -13,43 +13,43 @@ aliases: []
 published: true
 romanLyrics: |-
   Ek riwaayat meiṅ hai ke baad-e-asiri Sajjad
-  Pahunche hijaaz se jab maaria meiṅ zainuliba
+  Pahunche ijaaz se jab Maariya meiṅ Zain-ul-Aba
   Dekha ke qabr wahaaṅ khodte haiṅ kuchh afraad
   Baaqi masruf haiṅ dafnaane meiṅ karke faryaad
   Aap ne laasha-e-farzand-e-Nabi dafnaaya
   Qabr meiṅ laasha-e-Abbas ko bhi pahunchaaya
   Yahaaṅ qabila-e-Asad karta hai is tarah bayaaṅ
-  Qabr se jab na chacha ki hue Sajjad ayaaṅ
+  Qabr se jab na Chacha ki hue Sajjad ayaaṅ
   Hum ko tashwish hui qabr meiṅ dekha to wahaaṅ
   Laash se lipte hue karte haiṅ Sajjad fughaaṅ
-  Aap ke baad chacha aisi tabaahi aayi
-  Qatl baba hue maare gaye saare bhaai
+  Aap ke baad Chacha aisi tabaahi aayi
+  Qatl Baba hue maare gaye saare bhaai
 
-  Haaye chacha Abbas haaye chacha Abbas
-  Koi nahiṅ hai paas haaye chacha Abbas
+  Haaye Chacha Abbas haaye Chacha Abbas
+  Koi nahiṅ hai paas haaye Chacha Abbas
 
   1
-  Baad tumhaare amme dilaawar
+  Baad tumhaare ammu dilaawar
   Barchhi se chheda sina-e-Akbar
   Laasha utha kar laaye Sarwar
   Gham se bapa tha khaime meiṅ mahshar
 
   2
   Asghar pe tha pyaas ka ghalba
-  Paani pilaane le gaye baba
+  Paani pilaane le gaye Baba
   Ahl-e-jafa ne rahm na khaaya
   Paani ke badle tir lagaaya
 
   3
   Ran meiṅ bana kar turbat-e-Asghar
-  Sar ko jhukaaye behad muztar
+  Sar ko jhukaaye be had muztar
   Aaye Shah-e-diṅ khaime ke dar par
   Haal ye tha pahchaani na khaahar
 
   4
   Baba ne dekhi jo ye haalat
   Dil bhar aaya ho gayi riqqat
-  Naam har ek ka le ke ba ulfat
+  Naam har ik ka le ke baa ulfat
   Kahne lage haiṅ tum se bhi rukhsat
 
   5
@@ -60,13 +60,13 @@ romanLyrics: |-
 
   6
   Sibt-e-Nabi ne tab farmaaya
-  Asghar ne ek naawak khaaya
+  Asghar ne ik naawak khaaya
   Khun-e-pisar chehre pe lagaaya
-  Ran meiṅ use maiṅ ne dafnaaya
+  Ran meiṅ use main ne dafnaaya
 
   7
   Kaise kahuṅ ae Shah ke biraadar
-  Chal gaya halq-e-Shaah pe khanjar
+  Chal gaya halq-e-Shah pe khanjar
   Jal gaye khaime aur mera bistar
   Chhin gayi maaṅ bahnoṅ ki chaadar
 

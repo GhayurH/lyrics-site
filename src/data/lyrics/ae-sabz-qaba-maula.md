@@ -16,11 +16,11 @@ romanLyrics: |-
   Barsaat hai tiroṅ ki kiuṅ tujh pe Hasan Maula
 
   1
-  Ye kaisa janaza hai jo laut ke ghar aaya
+  Ye kaisa janaaza hai jo laut ke ghar aaya
   Is teri gharibi pe roti hai behan Maula
 
   2
-  Haye zehr-e-halahal ne kaise ye sitam dhaya
+  Haaye zehr-e-halaahal ne kaise ye sitam dhaaya
   Tukre hai jigar tera zakhmi hai dahan Maula
 
   3
@@ -28,11 +28,11 @@ romanLyrics: |-
   Dekhe to zara kitne zakhmi haiṅ Hasan Maula
 
   4
-  Jab tere janaze par tiroṅ ki hui baarish
+  Jab tere janaaze par tiroṅ ki hui baarish
   Kis tarah sahi tu ne tiroṅ ki chubhan Maula
 
   5
-  Aulaad-e-Muhammad par jaari hai sitam haye
+  Aulaad-e-Muhammad par jaari hai sitam haaye
   Kiuṅ ahl-e-Madina ka badla hai chalan Maula
 
   6
@@ -48,7 +48,7 @@ romanLyrics: |-
   Hai ghair teri khaatir apna hi watan Maula
 
   9
-  Rehaan o Raza haye girya na kare kiuṅ kar
+  Rehaan o Raza haaye girya na kare kiuṅ kar
   Phir Fatima Zehra ka ujra hai chaman Maula
 ---
 اے سبز قبا مولا اے سرخ کفن مولا

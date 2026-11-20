@@ -14,11 +14,11 @@ published: true
 romanLyrics: |-
   Ae shaam-e-gharibaṅ
   Har khaime se uthta hai dhuaaṅ shaam-e-gharibaṅ
-  Ab ahl-e-haram jaaye kahaaṅ shaam-e-gharibaṅ
+  Ab ahl-e-haram jaaye kahaaṅ
 
   1
-  Jis samt nazar jaaye wahaaṅ laashe hai besar
-  Abbas-e-alamdaar kahiṅ Qasim o Akbar
+  Jis samt nazar jaaye wahaaṅ laash hai be sar
+  Abbas alamdaar kahiṅ Qasim o Akbar
   Maare gaye sab pir o jawaaṅ shaam-e-gharibaṅ
 
   2
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Khaime bhi jale aur rida sar pe nahiṅ hai
   Ujre hue saadaat hai aur garm zamiṅ hai
-  Pyaase hai sabhi nauha kunaṅ shaam-e-gharibaṅ
+  Pyaase hai sabhi nauha kunaaṅ shaam-e-gharibaṅ
 
   5
   Kab jalne laga aag meiṅ Sajjad ka bistar

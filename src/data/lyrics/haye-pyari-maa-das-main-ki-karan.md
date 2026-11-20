@@ -9,35 +9,31 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Haaye maaṅ pyaari maaṅ dis main ki karaaṅ
+  Na tuṅ duniya te na baaba ae na veraaṅ di chhaaṅ
+
   1
-  Haye Maa Pyari Maa Das Main Ki Karaan.
-  Na Tu Dunya Te Na Baba Aye Na Veraan Di Chaan.
-  Main Sharam Di Malka Mere Kus Gaye Sare.
-  Mainu Amari Deway Hunr Kaun Saharey.
+  Main sharam di malka mere tur gaye saare, mainu imri deve hun kaun sahaare
+  Pehre te khari aaṅ dariya te samiyaaṅ meri chaadar da nigraaṅ
 
   2
-  Pehrey Te Khari Aan Darya Te Samiyaan Meri Chadar Da Nigraan.
-  Zahra Da Aaya Pasay Tu Wain Aye.
-  Tera Dukhra Sunr Ke Amari Be Chain Aye.
-  Mainu Mar Gaye Ne Putraan De Sadmay Main Kehrey Pasay Jaan.
+  Zahra da aaya paase tuṅ vin ae, tera dukhra sun ke imri bechain ae
+  Mainu maar gaye ne patraaṅ de sadme main kere paase jaaṅ
 
   3
-  Main Bint-e-Ali Aan Ismat Di Kali Aan.
-  Sehrawan Andar Be Pardah Khari Aan.
-  Main Kiun Na Rowaan Mainu Disdi Aye Akbar De Qatal Di Thaan.
-  Hai Bheer Bazari Wadh Gayi Bemari.
+  Main bint-e-Ali aaṅ ismat di kali aaṅ, sehraavaaṅ andar beparda khari aaṅ
+  Main kiuṅ na rovaaṅ mainu dis di ae Akbar de qatl di thaaṅ
 
   4
-  Khara Abid Roway Haye Zaar o Zaari.
-  Ohno Mar Gaye Ne Phophiyaan De Sadmay Kariyaan De Ronr Nishaan.
-  Be Ghairat Majma Hai Charey Pasay.
-  Zainab Nu Amari De Aanr Dilasay.
+  Hai bhir baazaari vad gayi bimaari, khara Aabid rove haaye zaar o zaari
+  Unu maar gaye ne phuphiyaaṅ de sadme kariyaaṅ de ron nishaan
+  Beghairat majma hai chaare paase
+  Zainab nuṅ amri de aaṅ dilaase
+  Neze te rove meri haalat tak ke amri naatiq Quraan
 
   5
-  Nezay Te Roway Meri Halat Tak Ke Amari Natiq Quraan.
-  Tauqeer Hai Rehnra Shabbir Da Matam.
-  Natiq Quraan Di Tafseer Da Matam.
-  Jinna Ne Mil Ke Islam Di Khatir Kar Chadiya Ghar Qurbaan.
+  Tauqeer ae rehna Shabbir da maatam, naatiq Quraan di taqdir da maatam
+  Jina ne mil ke Islaam di khaatir kar jadiya ghar qurbaan
 ---
 
 ہائے ماں پیاری ماں دِس میں کی کِراں

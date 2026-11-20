@@ -1,28 +1,46 @@
 ---
-title: "Kya Karbala Shahadat E Zahra Sajjad Ashraf Taqvi"
+title: "کیا کربلا شہادتِ زہرا سجاد اشرف تقوی"
+alternateTitle: "Kya Karbala Shahadat e Zahra Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Kaleem"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kya Karbala shahadat e Zahra Sajjad Ashraf Taqvi
+  Kya Karbala shahadat-e-Zahra hai kya kahin
+  Kuhram Ahl-e-Bait mein barpa hai kya kahin
+  Kis zakhm se hoi hai shahadat Batool ki
+  Sabir Ali sa cheekh ke roya hai kya kahin
+  Rota hai phoot phoot ke Konain ka bhi dil
+  Qissa gham-e-Batool ka kaisa hai kya kahin
+  Phaila diye kafan se bhi Zahra ne apne hath
+  Shabbir ka khiyal hi aisa hai kya kahin
+  Khamosh kis malal mein rehtey hain Qiblatain
+  Dar Fatima ka aag mein dekha hai kya kahin
+  Rakha hai kis khiyal se ummat ne aal ko
+  Sara khiyal khon mein doba hai kya kahin
+  Kaisay biyaan ho Fatima Zahra ka gham Kaleem
+  Din koi jaisay raat se badla hai kya kahin
 ---
 
-1
-Kya Karbala Shahadat e Zahra Sajjad Ashraf Taqvi.
-Kya Karbala Shahadat-e-Zahra Hai Kya Kahin.
-Kuhram Ahl-e-Bait Mein Barpa Hai Kya Kahin.
-Kis Zakhm Se Hoi Hai Shahadat Batool Ki.
-Sabir Ali Sa Cheekh Ke Roya Hai Kya Kahin.
-Rota Hai Phoot Phoot Ke Konain Ka Bhi Dil.
-Qissa Gham-e-Batool Ka Kaisa Hai Kya Kahin.
-Phaila Diye Kafan Se Bhi Zahra Ne Apne Hath.
-Shabbir Ka Khiyal Hi Aisa Hai Kya Kahin.
-Khamosh Kis Malal Mein Rehtey Hain Qiblatain.
-Dar Fatima Ka Aag Mein Dekha Hai Kya Kahin.
-Rakha Hai Kis Khiyal Se Ummat Ne Aal Ko.
-Sara Khiyal Khon Mein Doba Hai Kya Kahin.
-Kaisay Biyaan Ho Fatima Zahra Ka Gham Kaleem.
-Din Koi Jaisay Raat Se Badla Hai Kya Kahin.
+۱
+کیا کربلا شہادتِ زہرا سجاد اشرف تقوی
+کیا کربلا شہادتِ زہرا ہے کیا کہیں
+کہرام اہلِ بیت میں برپا ہے کیا کہیں
+کس زخم سے ہوئی ہے شہادت بتول کی
+صابر علی سا چیخ کے رویا ہے کیا کہیں
+روتا ہے پھوٹ پھوٹ کے کونین کا بھی دل
+قصہ غمِ بتول کا کیسا ہے کیا کہیں
+پھیلا دیے کفن سے بھی زہرا نے اپنے ہاتھ
+شبیر کا خیال ہی ایسا ہے کیا کہیں
+خاموش کس ملال میں رہتے ہیں قبلتین
+در فاطمہ کا آگ میں دیکھا ہے کیا کہیں
+رکھا ہے کس خیال سے امت نے آل کو
+سارا خیال خون میں ڈوبا ہے کیا کہیں
+کیسے بیان ہو فاطمہ زہرا کا غم کلیم
+دن کوئی جیسے رات سے بدلا ہے کیا کہیں

@@ -12,7 +12,7 @@ aliases: ["Khoon Ke Aansu"]
 published: true
 romanLyrics: |-
   Khun ke aansu lahu lahu ye manzar tere naam
-  Tapti reti besar laasha-e-Sarwar tere naam
+  Tapti reti be sar laashe Sarwar tere naam
 
   1
   Chala Abu Talib ka beta aayi nidaa-e-ghaib

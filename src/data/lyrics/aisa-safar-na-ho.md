@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sajde may hai zamiṅ to falak hai qayaam may
-  Quwwat nahi hai utne ki bemaar imam may
-  Aaya sar e Husain to kohraam mach gaya
-  Gunji sada sakina ki zindan e shaam may
+  Sajde mein hai zamiṅ to falak hai qiyaam mein
+  Quwwat nahiṅ hai uthne ki bimaar imaam mein
+  Aaya sar-e-Husain to kohraam mach gaya
+  Gunji sadaa Sakina ke zindaan-e-Shaam mein
   Baba kisi gharib ka aisa safar na ho
-  Ghurbat may is tarha koi taraaj ghar na ho
+  Ghurbat mein is tarah koi taaraaj ghar na ho
   Aisa safar na ho aisa safar na ho
-  Baba mai dekhti rahi ke hua qatl aap ka
-  Dihklaye rab na beti ko ye haal baap ka
+  Baba main dekhti rahi ke hua qatl aap ka
+  Dikhlaaye Rab na beti ko ye haal baap ka
   Sar jism se kisi ke juda is qadar na ho
   Aisa safar na ho...
-  Daaghe yatimi kya hai khabar tak na thi mujhe
+  Daagh-e-yatimi kya hai khabar tak na thi mujhe
   Ye baat aap hi ne to batlaayi thi mujhe
-  Baccha wohi yatim hai jiska pidar na ho
+  Bachcha wohi yatim hai jis ka pidar na ho
   Aisa safar na ho...
-  Jab bhi tamache maarta tha shimr e bad gohar
-  Baba tarap tarap ke mai gir jaati khaak par
+  Jab bhi tamaanche maarta tha Shimr-e-bad gohar
+  Baba tarap tarap ke main gir jaati khaak par
   Beti ke aage baap ka naize pe sar na ho
   Aisa safar na ho...
-  Har pal tumhe bulaati thi baba ab aaiye
-  Meri madad ko kiuṅ nahi aaye bataiye
+  Har pal tumheṅ bulaati thi Baba ab aaiye
+  Meri madad ko kiuṅ nahiṅ aaye bataaiye
   Mumkin na ho ke aap ko meri khabar na ho
   Aisa safar na ho...
-  Kufe ki raah may kabhi bazaar e aam may
-  Ahle sitam ke saamne darbar-e-shaam may
-  Meri tarha kisi ka bhi uryan sar na ho
+  Kufe ki raah mein kabhi bazaar-e-Shaam mein
+  Ahl-e-sitam ke saamne darbaar-e-Shaam mein
+  Meri tarah kisi ka bhi uryaan sar na ho
   Aisa safar na ho...
   Jakra hua tha mera gala rassiyoṅ ke bich
-  Mai berida khari thi tamashaiyoṅ ke bich
-  Bazaar e shaam jaisi koi reh guzar na ho
+  Main berida khari thi tamaashaaiyoṅ ke bich
+  Bazaar-e-Shaam jaisi koi reh guzar na ho
   Aisa safar na ho...
-  Ye kamsini may koh e musibat to dekhiye
-  Zindan e shaam may meri haalat to dekhiye
-  Pinjre may jaise panchi ho aur jiske par na ho
+  Ye kamsini mein koh-e-musibat to dekhiye
+  Zindaan-e-Shaam mein meri haalat to dekhiye
+  Pinjre mein jaise panchhi ho aur jis ke par na ho
   Aisa safar na ho...
-  Godhi may leke sar e shaah e ins o jaaṅ
-  Mohsin mujib bali sakina ne ki fughaṅ
-  Mujh ghamzada ki tarha koi bepidar na ho
+  Godi mein le ke sar-e-shaah-e-ins o jaaṅ
+  Mohsin Mujib baali Sakina ne ki fughaaṅ
+  Mujh ghamzada ki tarah koi bepidar na ho
   Aisa safar na ho...
 ---
 

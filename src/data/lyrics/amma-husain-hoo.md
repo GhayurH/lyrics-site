@@ -1,6 +1,6 @@
 ---
 title: "آواز دے رہی تھی"
-alternateTitle: "Amma Husain Hoo"
+alternateTitle: "Ammaṅ Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Awaaz de rahi thi
-  Maqtal meiṅ laashe sarwar
+  Maqtal meiṅ laash-e Sarwar
   Kya dhundti ho maadar
   Laashe pe mere aa kar
-  Amma Husain hoo mai
+  Ammaṅ Husain huṅ maiṅ
   Sine pe haath rakh do
   Shayad ke chain aaye
-  Mumkin nahi nazar ab
-  Tumko Husain aaye
-  Laasha hai mera besar
-  Amma Husain hoo mai...
+  Mumkin nahiṅ nazar ab
+  Tum ko Husain aaye
+  Laasha hai mera be sar
+  Ammaṅ Husain huṅ maiṅ...
   Tum chumti thi jis ko
-  Amma ye wo gala hai
+  Ammaṅ ye wo gala hai
   Khanjar se kat chuka hai
   Ab khun ris raha hai
-  Pehchan mujhko maadar
-  Amma Husain hoo mai...
-  Wo dekho laashe akbar
+  Pehchaan mujhko maadar
+  Ammaṅ Husain huṅ maiṅ...
+  Wo dekhe laash-e Akbar
   Naize meiṅ dil hai jis ka
   Tanha uthaaya maiṅ ne
   Is ka jawan laasha
   Tukre jigar hai maadar
-  Amma Husain hoo mai...
-  Deti hai maa tarap kar
-  Asghar ko jab sadayeiṅ
+  Ammaṅ Husain huṅ maiṅ...
+  Deti hai maaṅ tarap kar
+  Asghar ko jab sadaayeṅ
   Bano ko dhundti hai
-  Baysheer ki nigaheiṅ
+  Be shir ki nigaaheṅ
   Lagti hai chot dil par
-  Amma Husain hoo mai...
-  Amma mai kho chuka hoo
+  Ammaṅ Husain huṅ maiṅ...
+  Ammaṅ maiṅ kho chuka huṅ
   Abbas jaisa bhai
   Baazu utha liye the
-  Mayyat nahi uthaayi
-  Aaya hoo sab luta kar
-  Amma Husain hoo mai...
-  Jaayegi ab samar na
-  Taa hashr maa yahaṅ se
-  Kehtii thi laashe sarwar
-  Ab bhi raza ye maa se
-  Baithi raho yahaṅ par
-  Amma Husain hoo mai...
+  Mayyat nahiṅ uthaayi
+  Aaya huṅ sab luta kar
+  Ammaṅ Husain huṅ maiṅ...
+  Jaaye ab samar na
+  Taa hashr maaṅ yahaaṅ se
+  Kehti thi laash-e Sarwar
+  Ab bhi raza ye maaṅ se
+  Baithi raho yahaaṅ par
+  Ammaṅ Husain huṅ maiṅ...
 ---
 
 ۱

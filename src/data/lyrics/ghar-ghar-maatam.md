@@ -19,14 +19,14 @@ romanLyrics: |-
 
   1
   Tera maatami ae mere Maula
-  Dunya ke kisi kone meiṅ gaya
-  Masruf raha maatam meiṅ tere
+  Dunya ke kisi kone mein gaya
+  Masruf raha maatam mein tere
   Deta hai sukuṅ tera maatam
 
   2
   Jab dil ne kaha aaye Zehra
-  Mere ghar meiṅ bahaane ashk-e-aza
-  Bas maiṅ ne bichha ke farsh-e-aza
+  Mere ghar mein bahaane ashk-e-aza
+  Bas main ne bichha ke farsh-e-aza
   Kuch der kiya barpa maatam
 
   3
@@ -62,14 +62,8 @@ romanLyrics: |-
   8
   Bimaar tha aur zanjireṅ thi
   Pairoṅ ke tale jalti thi zamiṅ
-  Sajjad ke gham meiṅ ro ro kar
+  Sajjad ke gham mein ro ro kar
   Karta hai har ek rasta maatam
-
-  9
-  Sardar-e-Jinna Shabeer Hain Jab
-  Rehan Kaho Yeh Baat Bhi Ab
-  Sarwar Jo Sunaye Ga Noha
-  Janat Mein Bapa Hoga Matam
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

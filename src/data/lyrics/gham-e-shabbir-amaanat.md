@@ -19,7 +19,7 @@ romanLyrics: |-
   Apni tasvir saja rakhi hai aaine meiṅ
 
   2
-  Ran meiṅ hamshakl-e-Payambar ko na bheje Maula
+  Ran meiṅ ham shakl-e-Payambar ko na bheje Maula
   Koi barchhi na utar aaye kahiṅ sine meiṅ
 
   3
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Bachcha chhe maah ka tha saamne darya tha rawaaṅ
-  Kya ghata jaata tha do ghunt bhala pine meiṅ
+  Kya ghataa jaata tha do ghunt bhala pine meiṅ
 ---
 غم شبیر امانت ہے میرے سینے میں
 اک یہی بات ہے جو دل ہے لگا جینے میں

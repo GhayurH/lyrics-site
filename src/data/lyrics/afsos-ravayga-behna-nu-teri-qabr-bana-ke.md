@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Afsos ravayga behna nu, teri qabr bana ke jaandiyan
-  Patharaan de hait teri, ruldi na laash veerna, tenu kafan pawa ke jaandiyan
+  Pathraan de heth teri, ruldi na laash virna, tenu kafan pawa ke jaandiyan
 
   1
-  Vich jholi de tere sir nu na paaya veeran
-  Thatiya rehta cho laashe nu, na chaaya veeran
-  Hasrat hi rehgayi aye, Karbal ton saadi veerna,
-  Tere zakham lukka ke jaandiyan
+  Vich jholi de tere sir nu na paaya viran
+  Tattiyan retaan chon laashe nu, na chaaya viran
+  Hasrat hi reh gayi ae, Karbal ton saadi virna,
+  Tere zakhm luka ke jaandiyan
 
   2
   Maan Ghazi diyan behna de, gaye muk saare
-  Deen toh Akbar Qasim ke, puttar ne waare
-  Lut de na logh aake, bhurke vee sade veerna
+  Din ton Akbar Qasim ke, puttar ne waare
+  Lutde na lok aa ke, burqe vi saade virna
   Laasha te paa ke jaandiyan
 
   3
-  Tere sajde di fazilat nu, wadhauna aye asaa
-  Teri ghurbat da noha jaa ke, sunaana aye asaa
-  Tere bajon Shaamiyan ne, kiwey khaimain saare veerna
+  Tere sajde di fazilat nu, wadhauna ae asaan
+  Teri ghurbat da noha jaa ke, sunauna ae asaan
+  Tere baajon Shaamiyan ne, kiwein khaime saare virna
   Tenu haal suna ke jaandiyan
 ---
 

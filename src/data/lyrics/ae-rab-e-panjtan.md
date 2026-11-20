@@ -11,55 +11,55 @@ aliases:
   - "Aye Rab-E-Panjtan"
 published: true
 romanLyrics: |-
-  Ae Rab-e-Panjtan, Meri Tujh Se Hai Yeh Dua
+  Ae Rab-e-Panjtan, meri tujh se hai yeh dua
 
   1
-  Parwardigar, Tu Hi Rahim o Karim Hai
-  Quran Keh Raha Hai Aliyy-ul-Azim Hai
-  Aawaz-e-Kun Se Pehle Hai Itna Qadim Hai
-  Wajib Hai Kainat Pe Har Dam Teri Sana
+  Parwardigaar, tu hi Rahim o Karim hai
+  Quran keh raha hai Aliyy-ul-Azim hai
+  Aawaaz-e-Kun se pehle hai itna qadim hai
+  Waajib hai kaainaat pe har dam tiri sana
 
   2
-  Chaha Jo Tu Ne Khalq Meiṅ Pehchan Ho Teri
-  Tu Ne Banai Panch Sitaroṅ Ki Ik Lari
-  Un Ki Raza Meiṅ Teri Raza Hai Chhupi Hui
-  Naraz Hum Se Ho Na Kabhi Aal-e-Mustafa
+  Chaaha jo tu ne khalq meiṅ pehchaan ho tiri
+  Tu ne banaai paanch sitaaroṅ ki ik lari
+  Un ki raza meiṅ teri raza hai chhupi hui
+  Naaraaz hum se ho na kabhi Aal-e-Mustafa
 
   3
-  Tanhaiyoṅ Ka Teri Raha Hai Jo Humsafar
-  Woh Mustafa Jo Baad Tere Sab Se Moatbar
-  Hai Qarz Jis Ka Ajr-e-Risalat Jahaṅ Par
-  Har Qarz Kar De Ghaib Se Maqruz Ka Ada
+  Tanhaaiyoṅ ka teri raha hai jo hum safar
+  Woh Mustafa jo baad tire sab se moatabar
+  Hai qarz jis ka ajr-e-risaalat jahaaṅ par
+  Har qarz kar de ghaib se maqruz ka ada
 
   4
-  Tujh Sa Ali Bhi Kehta Hai Khaliq Jise Ali
-  Ungli Pakar Ke Jis Ki Shariyat Teri Chali
-  Raziq Hai Do Jahaṅ Ka, Waliyoṅ Ka Hai Wali
-  Sadqe Meiṅ Us Ke Rizq Meiṅ Huṅ Wusateiṅ Atta
+  Tujh sa Ali bhi kehta hai Khaaliq jise Ali
+  Ungli pakar ke jis ki shariat tiri chali
+  Raaziq hai do jahaaṅ ka, waliyoṅ ka hai wali
+  Sadqe meiṅ us ke rizq meiṅ huṅ wusateiṅ ataa
 
   5
-  Woh Fatima, Hijab Bhi Nuri Mila Jise
-  Hasnain Jaise Jis Ne Pisar Paal Kar Diye
-  Rehmat Bani Jo Rehmat-e-Aalam Ke Waste
-  Tote Na Mominin Se Rehmat Ka Silsila
+  Woh Fatima, hijaab bhi nuri mila jise
+  Hasnain jaise jis ne pisar paal kar diye
+  Rehmat bani jo rehmat-e-aalam ke waaste
+  Tute na mominin se rehmat ka silsila
 
   6
-  Woh Mustafa Ka Lal Jo Din Ko Bacha Gaya
-  Taigoṅ Ko Apne Zor-e-Qalam Se Hara Gaya
-  Aman o Amaan Ka Dars Jahaṅ Ko Parha Gaya
-  Har Simt Us Ke Sadqe Meiṅ Ho Aman Ki Fiza
+  Woh Mustafa ka laal jo din ko bacha gaya
+  Taighoṅ ko apne zor-e-qalam se hara gaya
+  Aman o amaan ka dars jahaaṅ ko parha gaya
+  Har simt us ke sadqe meiṅ ho aman ki fiza
 
   7
-  Mabud, Woh Husain Jo Mehbub Hai Tera
-  Sar Kaat Kar Bhi Jis Ka Na Zalim Jhuka Saka
-  Jis Ne Zamin Ko Arsh-e-Mualla Bana Diya
-  Dikhla De Hum Faqiroṅ Ko Roza-e-Husain Ka
+  Mabud, woh Husain jo mehbub hai tira
+  Sar kaat kar bhi jis ka na zaalim jhuka saka
+  Jis ne zamin ko arsh-e-mualla bana diya
+  Dikhla de hum faqiroṅ ko roza-e-Husain ka
 
   8
-  Mushkil Ko Taal, Hal-e-Masaib Ko Bhej De
-  Haiṅ Jis Ke Muntazir, Usi Sahib Ko Bhej De
-  Mushkil Kusha Ke Aakhri Naib Ko Bhej De
-  Hai Sibt-e-Jafar Aur Hasan Ki Yeh Iltija
+  Mushkil ko taal, hal-e-masaaib ko bhej de
+  Haiṅ jis ke muntazir, usi saahib ko bhej de
+  Mushkil kusha ke aakhri naaib ko bhej de
+  Hai Sibt-e-Jafar aur Hasan ki yeh iltija
 ---
 
 اے ربِ پنجتن، میری تجھ سے ہے یہ دعا

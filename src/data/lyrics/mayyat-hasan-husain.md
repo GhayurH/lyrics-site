@@ -21,19 +21,19 @@ romanLyrics: |-
 
   2
   Kehti hai ek ek se Kulsum kya karuṅ
-  Amma ki tarah chhor ke Baaba bhi jaate haiṅ
+  Ammaaṅ ki tarah chhor ke Baaba bhi jaate haiṅ
 
   3
   Gham ki siyaah aandhiyaṅ uthti hai chaar su
   Aasaar kaainaat ke phir dagmagaate haiṅ
 
   4
-  Afsos qatl kar diya Haidar ko sajde meiṅ
+  Afsos qatl kar diya Haidar ko sajde mein
   Zaalim Khuda ke ghar ko bhi maqtal banaate haiṅ
 
   5
   Dekho ajib haal hai Ummul Banin ka
-  Qaabu meiṅ dil nahiṅ hai qadam dagmagaate haiṅ
+  Qaabu mein dil nahiṅ hai qadam dagmagaate haiṅ
 
   6
   Abbas bole maaṅ se ke Baaba se puchhiye
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   9
   Jaate hue janaaze ko dekha to ro pari
-  Murghaabiyoṅ meiṅ bain hai Razzaaq jaate haiṅ
+  Murghaabiyoṅ mein bain hai Razzaaq jaate haiṅ
 
   10
   Daamaad-e-Mustafa ka hai kya mominoṅ qusur

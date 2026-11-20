@@ -1,6 +1,6 @@
 ---
 title: "بازارِ شام میں دربار عام میں"
-alternateTitle: "Ay Bawafa"
+alternateTitle: "Ae Bawafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bazaar e shaam may darbar e aam may
-  Zainab ki sadayeiṅ aati thi
-  Aa ghazi aa ghazi
-  Zainab bula rahi hai awaaz to suna do
-  Ae bawafa kahaṅ ho bhai zara sada do
-  Aa dekh teri behne bazaar may khari hai
-  Majma hai shamiyoṅ ka chadar kahiṅ se laa do
-  Zainab bula rahi hai awaaz to suna do
-  Ae bawafa kahaṅ ho...
-  Ahle haram ne ghazi kitna tujhe pukara
-  bechain hai sakina chehra use dikha do
-  Zainab bula rahi hai awaaz to suna do
-  Ae bawafa kahaṅ ho...
-  In zaalimo ne mujhko sone nahi diya hai
-  Saaye may tum alam ke kuch dayr ko sula do
-  Zainab bula rahi hai awaaz to suna do
-  Ae bawafa kahaṅ ho...
-  Darbar jaa rahe hai sajjad saarbaṅ hai
-  Ghazi musibatoṅ may kuch hausla barha do
-  Zainab bula rahi hai awaaz to suna do
-  Ae bawafa kahaṅ ho...
-  Mere ghazi mere bhaiya
+  Baazaar-e-Shaam mein darbaar-e-aam mein
+  Zainab ki sadaaeṅ aati thi
+  Aa Ghazi aa Ghazi
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho bhai zara sada do
+  Aa zara teri behneṅ baazaar mein khari hai
+  Majma hai Shaamiyoṅ ka chaadar kahiṅ se laa do
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho...
+  Ahl-e-haram ne Ghazi kitna tujhe pukaara
+  Bechain hai Sakina chehra use dikha do
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho...
+  In zaalimoṅ ne mujhko sone nahiṅ diya hai
+  Saaye mein tum alam ke kuch der ko sula do
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho...
+  Darbaar jaa rahe Sajjad saarbaaṅ hai
+  Ghazi musibatoṅ mein kuch hausla barha do
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho...
+  Mere Ghazi mere bhaiya
   Shabbir ke ghamoṅ ko ae dur karne waale
-  Qaidi bane khare hai azaad to kara do
-  Zainab bula rahi hai awaaz to suna do
-  Ae bawafa kahaṅ ho...
-  Mere ghazi mere bhaiya
+  Qaidi bane khare haiṅ aazaad to kara do
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho...
+  Mere Ghazi mere bhaiya
 ---
 
 ۱

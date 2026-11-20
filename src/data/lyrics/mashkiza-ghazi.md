@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Sajde meiṅ Sarwar gaye jab asr ka hangaam tha
-  Chal raha tha kund khanjar bas Khuda ka naam tha
+  Chal raha tha kund khanjar us Khuda ka naam tha
   Zainab-e-muztar ke lab par nauha subh shaam tha
 
   2
@@ -25,37 +25,37 @@ romanLyrics: |-
   Naize par sar haae aqda aur the farq-e-munir
 
   3
-  Dekh kar zulm o sitam aada ke maiṅ tharra gayi
+  Dekh kar zulm o sitam aada ke main tharra gayi
   Kya kahuṅ Shah ki shahaadat kis qadar tarpa gayi
   Haae wo baali Sakina Shimr se ghabra gayi
 
   4
   Bhai ki khaatir behen maqtal meiṅ roti aai thi
-  Dil ko thaame berida maiṅ kya kahuṅ ghabraai thi
+  Dil ko thaame berida main kya kahuṅ ghabraai thi
   Jab chhini sar se ridaaeṅ kis qadar sharmaai thi
 
   5
-  Pani ki khaatir hue jaate the bachche bad hawaas
-  Seh gaya jaur o sitam Ghazi mera tha Shah ka paas
+  Paani ki khaatir hue jaate the bachche bad hawaas
+  Seh gayi jaur o sitam Ghazi mera tha Shah ka pas
   Thi alamdaar-e-Husaini se bari Zainab ko aas
 
   6
-  Thi haram ko Hazrat-e-Abbas se dhaaras bandhi
+  Thi haram ko Abbas se dhaaras bandhi
   Baad-e-Abbas-e-jari mujh ko rasan baandhi gayi
   Bhai ke sukhe gale par Shimr ne pheri chhuri
 
   7
   Haath karwa kar qalam likhi hai taarikh-e-wafa
   Nusrat-e-Shabbir meiṅ Ghazi bhi shaane de gaya
-  Jaan se pyaara rakha gham Hazrat-e-Shabbir ka
+  Jaan se pyaara rakha gham-e-Shabbir ka
 
   8
-  Bhar chuka tha mashk meiṅ pani na pani wo piya
-  Nehr ke pani pe bhi saaya na us ka hai para
+  Bhar chuka tha mashk meiṅ paani na paani wo piya
+  Nehr ke paani pe bhi saaya na us ka hai para
   Taaat-e-Shabbir meiṅ shaamil hue tan se juda
 
   9
-  Hazrat-e-Abbas se zaahir tha ejaaz-e-Ali
+  Abbas se zaahir tha ejaaz-e-Ali
   Karbal meiṅ saani-e-Haidar tha dam saaz-e-Ali
   Bhaag utha hai lashkar-e-kiṅ sun ke aawaaz-e-Ali
 
@@ -70,14 +70,14 @@ romanLyrics: |-
   Us ke gham meiṅ roti thi Fizza bhi Zehra ki kaniz
 
   12
-  Haae wo shaam-e-gharibaṅ haae wo baazaar-e-Shaam
+  Haae wo shaam-e-gharibaaṅ haae wo baazaar-e-Shaam
   The lainoṅ ki zabaaṅ par bekasoṅ ke paak naam
   Ahl-e-bait-e-Mustafa the aur nigaah-e-khaas o aam
 
   13
   Sabir o Iqbal the wo Zainab-e-muztar ke bain
   Baad-e-Abbas-e-Ali jab chhin chuka tha sab ka chain
-  Pyase zibh ho gaye Zehra ke shaah-e-mashriqain
+  Pyaase zibh ho gaye Zehra ke shaah-e-mashriqain
 ---
 
 مشکیزہ غازی بھرا ہے لے کے چلو میں فرات

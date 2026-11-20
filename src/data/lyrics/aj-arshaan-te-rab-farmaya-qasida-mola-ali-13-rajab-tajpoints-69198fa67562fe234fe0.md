@@ -1,30 +1,41 @@
 ---
-title: "Aj Arshaan Te Rab Farmaya Qasida Mola Ali 13 Rajab"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اج عرشاں تے رب فرمایا، قصیدہ مولا علی ۱۳ رجب"
+alternateTitle: "Aj Arshaan Te Rab Farmaya Qasida Mola Ali 13 Rajab"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Qasida"
 poet: "Najfi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aj arshaan te Rab farmaya jehra ghar si main odhay layi banaya Ali de aj naa laya
+  Jiwein Rab taun mang ke liya si Mosa ne Haroon aye
+  Tainu mangiya piyo Zahra de Rab da oh mamnon aye
+  Matha chum ke Nabi ne farmaya aj dunya te veer mera aaya Ali de aj naa laya
+  Aadam khilqat mati di aye odhay layi aizaz aye
+  Laqab Abu Turab aye tera Rab jane ki raaz aye
+  Tera sehra hai Rab ne banaya jinnay so ke Nabi nu aye bachaya Ali de aj naa laya
+  Jannat tere putraan di aye pani aye Zahra da
+  Taun raziq vein kul dunya da aj Rab da aye iradah
+  Wela khushiyaan da Kabay uttay aaya jo kuj v main jag te banaya Ali de aj naa laya
+  Matami jehray aasaan le ke tere dar te aaye
+  Sadqa de Hasnain da Maula khali na koi jaye
+  Narah Najfi, Ali da aye sunaya jehray dil wich Ali aye samaya Ali de aj naa laya
 ---
 
-1
-Aj Arshaan Te Rab Farmaya Qasida Mola Ali 13 Rajab
-Aj Arshaan Te Rab Farmaya Jehra Ghar Si Main Odhay Layi Banaya Ali De Aj Naa Laya.
-Jiwein Rab Taun Mang Ke Liya Si Mosa Ne Haroon Aye.
-Tainu Mangiya Piyo Zahra De Rab Da Oh Mamnon Aye.
-Matha Chum Ke Nabi Ne Farmaya Aj Dunya Te Veer Mera Aaya Ali De Aj Naa Laya.
-Aadam Khilqat Mati Di Aye Odhay Layi Aizaz Aye.
-Laqab Abu Turab Aye Tera Rab Jane Ki Raaz Aye.
-Tera Sehra Hai Rab Ne Banaya Jinnay So Ke Nabi Nu Aye Bachaya Ali De Aj Naa Laya.
-Jannat Tere Putraan Di Aye Pani Aye Zahra Da.
-Taun Raziq Vein Kul Dunya Da Aj Rab Da Aye Iradah.
-Wela Khushiyaan Da Kabay Uttay Aaya Jo Kuj V Main Jag Te Banaya Ali De Aj Naa Laya.
-Matami Jehray Aasaan Le Ke Tere Dar Te Aaye.
-Sadqa De Hasnain Da Maula Khali Na Koi Jaye.
-Narah Najfi, Ali Da Aye Sunaya Jehray Dil Wich Ali Aye Samaya Ali De Aj Naa Laya.
-Qasida Khuwan Party Ch Faiyaz Party Sialkot.
-Matami Sangat
-Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot
+۱
+اج عرشاں تے رب فرمایا جہڑا گھر سی میں اوہدے لئی بنایا علی دے اج ناں لایا
+جیویں رب توں منگ کے لیا سی موسیٰ نے ہارون اے
+تینوں منگیا پیو زہرا دے رب دا اوہ ممنون اے
+متھا چم کے نبی نے فرمایا اج دنیا تے ویر میرا آیا علی دے اج ناں لایا
+آدم خلقت مٹی دی اے اوہدے لئی اعزاز اے
+لقب ابو تراب اے تیرا رب جانے کی راز اے
+تیرا سہرا ہے رب نے بنایا جنّے سو کے نبی نوں اے بچایا علی دے اج ناں لایا
+جنت تیرے پتراں دی اے پانی اے زہرا دا
+توں رازق ویں کل دنیا دا اج رب دا اے ارادہ
+ویلا خوشیاں دا کعبے اُتّے آیا جو کجھ وی میں جگ تے بنایا علی دے اج ناں لایا
+ماتمی جہڑے آساں لے کے تیرے در تے آئے
+صدقہ دے حسنین دا مولا خالی نہ کوئی جائے
+نعرہ نجفی، علی دا اے سنایا جہڑے دل وچ علی اے سمایا علی دے اج ناں لایا

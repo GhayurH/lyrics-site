@@ -12,18 +12,18 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajjad tujhe khun rulayega ye baazaar
+  Sajjad tujhe khun rulaayega ye baazaar
   Chaalis baras bhul na paayega ye baazaar
 
   1
-  Bedinoṅ ke narghe meiṅ haram hoṅge khule sar
+  Bedinoṅ ke narghe mein haram hoṅge khule sar
   Barsaayeṅge kothoṅ se asiroṅ pe wo patthar
   Taa umr nigaahoṅ se jaayega na ye baazaar
 
   2
-  Darwaaza-e-saaat pe laiṅ deṅge munaadi
-  Naaqoṅ se utar jaaye isi dhup meiṅ qaidi
-  Yuṅ zehmat-e-saadaat barhaayega ye baazaar
+  Darwaaza-e-saa'at pe la'iṅ deṅge munaadi
+  Naaqoṅ se utar jaaye isi dhup mein qaidi
+  Yuṅ zahmat-e-saadaat barhaayega ye baazaar
 
   3
   Yuṅ ghairat-e-Maryam ko sataayeṅge sitamgar
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Chaudah sau baras baad hameṅ Safdar o Mazhar
-  Milte haiṅ kitaaboṅ meiṅ yehi dard ke manzar
+  Milte haiṅ kitaaboṅ mein yehi dard ke manzar
   Phir kis tarah bimaar bhulaayega ye baazaar
 ---
 سجاد تجھے خون رلائے گا یہ بازار

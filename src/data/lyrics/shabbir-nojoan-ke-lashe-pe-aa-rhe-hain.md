@@ -8,65 +8,41 @@ poet: "Ashraf"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Shabbir naujawan ke laashe pe aa rahe hai
-
+romanLyrics: |-
+  Shabbir naujawaaṅ ke laashe pe aa rahe haiṅ
 
   1
-
-  Karbobala may aada khushiyan mana rahe hai
-
+  Karb o Bala mein aadaa khushiyaaṅ mana rahe haiṅ
   Abbas uth ke dekho ye bebasi ka aalam
-
-  Akbar ki laash sarwar tanha utha rahe hai
-
+  Akbar ki laash ab wo tanha utha rahe haiṅ
 
   2
-
-  Karbobala ke ban may hai kis khadar khamoshi
-
-  Bhai ko khat behan ka sarwar suna rahe hai
-
+  Karb o Bala ke ban mein hai kis qadar khaamoshi
+  Bhaai ko khat behan ka Sarwar suna rahe haiṅ
 
   3
-
-  Sarwar ki hai zaeefi aur naujawan pisar hai
-
-  Mayyat utha to li hai par ladkhada rahe hai
-
+  Sarwar ki hai zaifi aur naujawaaṅ pisar hai
+  Mayyat utha to li hai par larkhara rahe haiṅ
 
   4
-
-  Mayyat jawan ki rakh ke qaime may shaahe waala
-
-  Cheh maah ke pisar ko maidan may laa rahe hai
-
+  Mayyat jawaan ki rakh ke khaime mein Shaah-e-Waalaa
+  Chhe maah ke pisar ko maidaaṅ mein laa rahe haiṅ
 
   5
-
-  Ya rab kahin sakina gham se guzar na jaye
-
-  Akbar ki laash sarwar qaime may laa rahe hai
-
+  Ya Rab kahiṅ Sakina gham se guzar na jaaye
+  Akbar ki laash Sarwar khaime mein laa rahe haiṅ
 
   6
-
-  Sookhi zaban dikha ke haaton pe shaahe deen ke
-
-  Fauje adoo ko asghar ran may rula rahe hai
-
+  Sukhi zabaaṅ dikha ke haathoṅ pe Shaah-e-Diṅ ke
+  Fauj-e-Adu ko Asghar ran mein rula rahe haiṅ
 
   7
-
-  Qaime ke dar se maa ne dekha ajeeb manzar
-
-  Teere sitam se asghar sheh ko bacha rahe hai
-
+  Khaime ke dar se maaṅ ne dekha ajib manzar
+  Tir-e-Sitam se Asghar pahlu bacha rahe haiṅ
 
   8
-
-  Jo aashna hai ashraf mehboobe kibriya se
-
-  Aulaad e fatema ka wo gham mana rahe hai'
+  Jo aashna haiṅ Ashraf Mahbub-e-Kibriya se
+  Aulaad-e-Fatima ka wo gham mana rahe haiṅ
 ---
 
 شبیر نوجواں کے لاشے پہ آ رہے ہیں

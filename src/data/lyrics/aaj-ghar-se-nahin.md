@@ -22,35 +22,35 @@ romanLyrics: |-
   Aaj ghar se nahiṅ jaao baba
 
   1
-  Kaise samjhaye tum ko ye dukhiya
+  Kaise samjhaaye tum ko ye dukhiya
   Kaifiyat ko meri samjho baba
-  Khauf hai mere dil meiṅ ajab sa
+  Khauf hai mere dil mein ajab sa
   Koi hum se tumheiṅ chhin lega
   Hoga hum pe yatimi ka saaya
   Aaj ghar se nahiṅ jaao baba
 
   2
   Maan lo aaj ye baat meri
-  Pyare baba pareshan hai beti
+  Pyaare baba pareshaan hai beti
   Aaj ka din laga mujhko aise
   Jaise darbaar ko maaṅ gayi thi
   Waasta hai tumheiṅ Sayyeda ka
   Aaj ghar se nahiṅ jaao baba
 
   3
-  Kal se Kufe meiṅ hai khauf phaila
+  Kal se Kufe mein hai khauf phaila
   Shakhs dekha gaya ek aisa
-  Zehar meiṅ dubi talwaar thaame
+  Zehar mein dubi talwaar thaame
   Wo bhi masjid ki jaanib gaya tha
   Ilteja sun lo meri khudara
   Aaj ghar se nahiṅ jaao baba
 
   4
-  Jaanti huṅ maiṅ ye baad-e-Zahra
-  Ghar meiṅ lagta nahiṅ dil tumhara
-  Aaj ke roz bas reh lo ghar meiṅ
-  Saani-e-Fatima huṅ maiṅ baba
-  Meri chadar ko kar lo musalla
+  Jaanti huṅ main ye baad-e-Zahra
+  Ghar mein lagta nahiṅ dil tumhara
+  Aaj ke roz bas reh lo ghar mein
+  Saani-e-Fatima huṅ main baba
+  Meri chaadar ko kar lo musalla
   Aaj ghar se nahiṅ jaao baba
 
   5
@@ -65,7 +65,7 @@ romanLyrics: |-
   Tum to khud jaante ho na baba
   Bewafa hai ye saara hi Kufa
   Ye to pursa bhi hum ko na deiṅge
-  Fitratoṅ meiṅ hai in ki Madina
+  Fitratoṅ mein hai in ki Madina
   Jaane kiuṅ khinch raha hai kaleja
   Aaj ghar se nahiṅ jaao baba
 

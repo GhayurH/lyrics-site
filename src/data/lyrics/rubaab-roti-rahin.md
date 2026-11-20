@@ -31,12 +31,12 @@ romanLyrics: |-
 
   4
   Ajib khaimoṅ ka manzar hai ek udaasi hai
-  Zibaah hua hai wo bachcha ki jis ka sin kam hai
+  Zabah hua hai wo bachcha ke jis ka sinn kam hai
   Kya itne chhote se bachche bhi qatl hote haiṅ
 
   5
   Parhuṅ jo bain ye Asghar ka dil yuṅ phatta hai
-  Likha jo manzar jo Zayaul ne qalam rukta hai
+  Likha jo manzar jo Ziyaaul ne qalam rukta hai
   Har ek maatami daste ki aankheṅ yuṅ nam haiṅ
 ---
 

@@ -20,7 +20,7 @@ romanLyrics: |-
   Sitaaroṅ ne kaha ae chaand insaan aise hote haiṅ
 
   2
-  Musaafir ka tan besar hai aur shab ka andhera hai
+  Musaafir ka tan be sar hai aur shab ka andhera hai
   Kisi ki laash par gesu pareshaaṅ aise hote haiṅ
 
   3

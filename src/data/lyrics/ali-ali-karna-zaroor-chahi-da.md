@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Har ghari pal wich har mushkil
-  Oh nara ehda lagna zarur chahi da
+  Oh naara ehda lagna zarur chahi da
 
   2
   Khaibari de wich vi Nabi ne aakhiya
@@ -29,47 +29,47 @@ romanLyrics: |-
 
   3
   Allah da Wali jadoṅ Khaibar aaya
-  Pak Nabi ne ghore tauṅ lahaya
+  Paak Nabi ne ghore toṅ laaya
   Nabi da alam mere Maula chaya
   De ke alam Nabi farmaya
   Tuṅ Allah da Wali aeṅ nale mainda Wasi
   Oh Marhab marna zarur chahi da
 
   4
-  Bibi kaho Ghadeer ke Maula ko bhej duṅ
+  Bibi kaho Ghadir ke Maula ko bhej duṅ
   Ghar mein hi kya haqiqat qibla ko bhej duṅ
-  Terah Rajab ko bola Khuda Ae Ali ki maaṅ
-  Aap aaogi yaṅ Khana-e-Kaba ko bhej duṅ
-  Bint-e-Asad khud nahiṅ aayi aap Khuda ne bulwayi
-  Kehya ja Jibreel bana raste nal raviṅ naukar ban ke
+  Terah Rajab ko bola Khuda, ae Ali ki maaṅ
+  Aap aaogi yahaaṅ Khana-e-Kaba ko bhej duṅ
+  Bint-e-Asad khud nahiṅ aaiṅ aap Khuda ne bulwayi
+  Kehya ja Jibril bana raaste nal raviṅ naukar ban ke
   Dar kholeṅ na purana Ali Kabe wich aana
   Oh nawaṅ dar banna zarur chahi da
 
   5
-  Baat teri ban jaegi
-  Mushkil khud tal jaegi
+  Baat teri ban jaaegi
+  Mushkil khud tal jaaegi
   Baitha hai kiuṅ afsurda
-  Are yaad nahiṅ kya Nad-e-Ali
+  Are yaad nahiṅ kya Naad-e-Ali
   Khud rasta banega Rab khair karega
   Oh Maula Maula kehna zarur chahi da
 
   6
   Maaṅ naam mera Haider rakhiya
-  Khaibar da qaul sand baniya
+  Khaibar da qaul sanad baniya
   Beh Lal Qalandar di baini
   Gal ae faqir di nahiṅ bhulni
-  Hamnam Jali da nara Pir Ali da
+  Hamnaam Jali da naara Pir Ali da
   Oh dil wich wajna zarur chahi da
 
   7
   Na bhul kar bhi kabhi tum kisi ki baat karo
   Ali ka zikr karo bas Ali ki baat karo
-  Farishto kaise sawal o jawab turbat mein
+  Farishto, kaise sawal o jawab turbat mein
   Ab aa gaye ho to baitho Ali ki baat karo
 
   8
   Chhor jhamele dunya ke dar par aa ja Haider ke
-  Phere laga kar gali gali nare laga Ya Haider ke
+  Phere laga kar gali gali naare laga ya Haider ke
   Kabe ka gohar Ali Ali
   Zehra ka shauhar Ali Ali
   Iman ka mehwar Ali Ali

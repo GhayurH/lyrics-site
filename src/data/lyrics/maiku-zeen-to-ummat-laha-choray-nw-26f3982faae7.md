@@ -1,35 +1,75 @@
 ---
-title: "Maiku Zeen To Ummat Laha Choray"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "میکوں زین توں اُمت لاہ چھوڑے"
+alternateTitle: "Maiku Zeen To Ummat Laha Choray"
+language: "Saraiki"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Maiku zeen to ummat laha choray teeran ton kon lahaway main zeen zameen de adh vich haan
+
+  Mazloom thakay howay lahjay vich, howay amri de naal alaway, main zeen zameen de adh vich haan
+
+  1
+  Ohkon main maqtal val torya ha mainku wainda dekhay maqtal tain
+  Akbar ko Baba da a tah tal hanaq walaway
+
+  2
+  Main dhi ko zeen te nahi labhda main maan ko khak te nahi disda
+  Kiwain bachri away kol mainday kiwain amri gal nal laway
+
+  3
+  Nana Sahab mairaaj sahi menday badan chon teer guzarday paye
+  Mendi mairaaj da safar zara menda Nana daikhan away
+
+  4
+  Man hasbi Yalla parhdi haye teeran da pandh thi tay wesay
+  Main sajda gah tain pohnch wanjaan mendi Saen dua farmaway
+
+  5
+  Ohkon marzyan neendar de badlay vich Khaliq de tarfon milyan hin
+  Mainda marzyan wala Baba aj menda sajda vaikhan away
+
+  6
+  Rahwar Hussain ko ahda hay mendi zeen te bay ghin watan ghinaa
+  Mazloom jo han mendi muk gaye ay bay kas Shabeer alaway
+
+  7
+  Aithay main han dard di manzil vich othon khat Sughra da a vanj hay
+  Dukhi bahan de sad ke qasid kon Akbar de lash milaway
 ---
 
-Maiku Zeen To Ummat Laha Choray Teeran Ton Kon Lahaway Main Zeen Zameen De Adh Vich Haan
+میکوں زین توں اُمت لاہ چھوڑے تیراں توں کون لہاوے میں زین زمین دے ادھ وچ ہاں
 
-Mazloom Thakay Howay Lahjay Vich, Howay Amri De Naal Alaway, Main Zeen Zameen De Adh Vich Haan
+مظلوم تھکے ہوئے لہجے وچ، ہوئے امڑی دے نال الاوے، میں زین زمین دے ادھ وچ ہاں
 
-Ohkon Main Maqtal Val Torya Ha Mainku Wainda Dekhay Maqtal Tain
-Akbar Ko Baba Da A Tah Tal Hanaq Walaway
+۱
+اوہکوں میں مقتل ول ٹوریا ہا مینکوں ویندا دیکھے مقتل تائیں
+اکبر کوں بابا دا آ تہ تل حنق ولاوے
 
-Main Dhi Ko Zeen Te Nahi Labhda Main Maan Ko Khak Te Nahi Disda
-Kiwain Bachri Away Kol Mainday Kiwain Amri Gal Nal Laway
+۲
+میں دھی کوں زین تے نہیں لبھدا میں ماں کوں خاک تے نہیں دسدا
+کیویں بچڑی آوے کول میندے کیویں امڑی گل نال لاوے
 
-Nana Sahab Mairaaj Sahi Menday Badan Chon Teer Guzarday Paye
-Mendi Mairaaj Da Safar Zara Menda Nana Daikhan Away
+۳
+نانا صاحب معراج سہی میندے بدن چوں تیر گزردے پئے
+میندی معراج دا سفر ذرا میندا نانا دیکھن آوے
 
-Man Hasbi Yalla Parhdi Haye Teeran Da Pandh Thi Tay Wesay
-Main Sajda Gah Tain Pohnch Wanjaan Mendi Saen Dua Farmaway
+۴
+من حسبی اللہ پڑھدی ہائے تیراں دا پندھ تھی تے ویسے
+میں سجدہ گاہ تائیں پہنچ ونجاں میندی سائیں دعا فرماوے
 
-Ohkon Marzyan Neendar De Badlay Vich Khaliq De Tarfon Milyan Hin
-Mainda Marzyan Wala Baba Aj Menda Sajda Vaikhan Away
+۵
+اوہکوں مرضیاں نیندر دے بدلے وچ خالق دے طرفوں ملیاں ہن
+میندا مرضیاں والا بابا اج میندا سجدہ ویکھن آوے
 
-Rahwar Hussain Ko Ahda Hay Mendi Zeen Te Bay Ghin Watan Ghinaa
-Mazloom Jo Han Mendi Muk Gaye Ay Bay Kas Shabeer Alaway
+۶
+رہوار حسین کوں آہدا ہے میندی زین تے بہہ گھِن وطن گھناں
+مظلوم جو ہاں میندی مک گئے اے بے کس شبیر الاوے
 
-Aithay Main Han Dard Di Manzil Vich Othon Khat Sughra Da A Vanj Hay
-Dukhi Bahan De Sad Ke Qasid Kon Akbar De Lash Milaway
+۷
+ایتھے میں ہاں درد دی منزل وچ اوتھوں خط صغریٰ دا آ ونج ہے
+دکھی بہن دے سد کے قاصد کون اکبر دی لاش ملاوے

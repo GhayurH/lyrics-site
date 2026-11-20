@@ -1,42 +1,74 @@
 ---
-title: "Chun Tukray Qasim Di Mayyat Shah Gathri Seene Layi Aye"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "چن ٹکڑے قاسم دی میت شاہ گٹھڑی سینے لائی اے"
+alternateTitle: "Chun Tukray Qasim Di Mayyat Shah Gathri Seene Layi Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Bahadur"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chun tukray Qasim di mayyat shah gathri seene layi aye
+  Shadi di rasam aye Qasim banra raas tainu na aayi aye
+
+  1
+  Imam haan main iss waqt da main janrda saan aynj honra ayein
+  Tainu toor welay maidan de wich taiyon akh wich akh na payi aye
+
+  2
+  Qasim maidaan choon aaya nayi na lash odhi khaimay aayi
+  Farwa gash kha gayi oss welay jad gathri khol wakhai aye
+
+  3
+  Pamal hoi aye lash aidi kiwein zeen te ainu le jawaan
+  Gathri da kafan de ke maiyyat khaimay de kool layi aye
+
+  4
+  Phophiyan bhaina sab aa gayiyaan fair oss banray de shagna layi
+  Hoya matam khaimiyaan de andar machya kuhram duhai aye
+
+  5
+  Qasim de janazay nu rakh ke rasmaan da aynj aagaz hoya
+  Maiyyat fair khon di mehndi te hanjwaan de naal sajai aye
+
+  6
+  Farwa keh ke tareef keeti toon piyo di wasiyat poliya nayi
+  Tu maan bacha liya babay da nanay naal toor nibhai aye
+
+  7
+  Jo aal-e-Nabi te aayi aye oh hor kisay te na aaye
+  Ro ro ke Bahadur Maula ne ayho rodad sunai aye
 ---
 
-Chun Tukray Qasim Di Mayyat Shah Gathri Seene Layi Aye
-Shadi Di Rasam Aye Qasim Banra Raas Tainu Na Aayi Aye
+چن ٹکڑے قاسم دی میت شاہ گٹھڑی سینے لائی اے
+شادی دی رسم اے قاسم بنڑا راس تینوں نہ آئی اے
 
-1
-Imam Haan Main Iss Waqt Da Main Janrda Saan Aynj Honra Ayein
-Tainu Toor Welay Maidan De Wich Taiyon Akh Wich Akh Na Payi Aye
+۱
+امام ہاں میں اس وقت دا میں جانڑدا ساں اینج ہونڑا ایں
+تینوں تور ویلے میدان دے وچ تائیوں اکھ وچ اکھ نہ پائی اے
 
-2
-Qasim Maidaan Choon Aaya Nayi Na Lash Odhi Khaimay Aayi
-Farwa Gash Kha Gayi Oss Welay Jad Gathri Khol Wakhai Aye
+۲
+قاسم میدان چوں آیا نئیں نہ لاش اوہدی خیمے آئی
+فروہ غش کھا گئی اوس ویلے جد گٹھڑی کھول وکھائی اے
 
-3
-Pamal Hoi Aye Lash Aidi Kiwein Zeen Te Ainu Le Jawaan
-Gathri Da Kafan De Ke Maiyyat Khaimay De Kool Layi Aye
+۳
+پامال ہوئی اے لاش ایدی کیویں زین تے اینوں لے جاواں
+گٹھڑی دا کفن دے کے میت خیمے دے کول لائی اے
 
-4
-Phophiyan Bhaina Sab Aa Gayiyaan Fair Oss Banray De Shagna Layi
-Hoya Matam Khaimiyaan De Andar Machya Kuhram Duhai Aye
+۴
+پھوپھیاں بھیناں سب آ گئیاں فیر اوس بنڑے دے شگناں لئی
+ہویا ماتم خیمیاں دے اندر مچیا کہرام دہائی اے
 
-5
-Qasim De Janazay Nu Rakh Ke Rasmaan Da Aynj Aagaz Hoya
-Maiyyat Fair Khon Di Mehndi Te Hanjwaan De Naal Sajai Aye
+۵
+قاسم دے جنازے نوں رکھ کے رسماں دا اینج آغاز ہویا
+میت فیر خون دی مہندی تے ہنجواں دے نال سجائی اے
 
-6
-Farwa Keh Ke Tareef Keeti Toon Piyo Di Wasiyat Poliya Nayi
-Tu Maan Bacha Liya Babay Da Nanay Naal Toor Nibhai Aye
+۶
+فروہ کہہ کے تعریف کیتی توں پیو دی وصیت بھولیا نئیں
+تُو مان بچا لیا بابے دا نانے نال توڑ نبھائی اے
 
-7
-Jo Aal-e-Nabi Te Aayi Aye Oh Hor Kisay Te Na Aaye
-Ro Ro Ke Bahadur Maula Ne Ayho Rodad Sunai Aye
+۷
+جو آلِ نبی تے آئی اے اوہ ہور کسے تے نہ آئے
+رو رو کے بہادر مولا نے ایہو روداد سنائی اے

@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dasht-e-ghurbat meiṅ Sakina maiṅ akela ho gaya
+  Dasht-e-ghurbat mein Sakina main akela ho gaya
 
   1
   Laash-e-Abbas-e-Ali se uth ke aae haiṅ Husain
@@ -22,36 +22,36 @@ romanLyrics: |-
 
   2
   Khun beh jaane ka koi gham na tha Abbas ko
-  Apni nazroṅ meiṅ basaae tha wo teri pyaas ko
+  Apni nazroṅ mein basaae tha wo teri pyaas ko
   Chot pahunchi haae mere bhaai ke ehsaas ko
   Beh gaya paani chhida jis waqt mashkiza tera
 
   3
-  Maiṅ ne dekha hai dar-e-khaima se us ka haal-e-zaar
-  Jab hua bedast mera bhaai mera gham guzaar
+  Main ne dekha hai dar-e-khaima se us ka haal-e-zaar
+  Jab hua bedast mera bhaai mera gham guzar
   Har taraf se har koi mazlum par karta tha waar
   Kis qadar zakhmi hua hai kya kahuṅ saqqa tera
 
   4
   Haal mere bhaai ka beti karuṅ kaise bayaaṅ
-  Jab maiṅ pahuncha wo hayaat o maut ke tha darmiyaaṅ
+  Jab main pahuncha wo hayaat o maut ke tha darmiyaaṅ
   Sar se paa tak gurz ke teghoṅ ke bhaaloṅ ke nishaaṅ
-  Aaṅkh meiṅ ik tir tha ik aaṅkh meiṅ tha khuṅ bhara
+  Aaṅkh mein ik tir tha ik aaṅkh mein tha khuṅ bhara
 
   5
-  Kehta tha laasha mera lillaah khaimoṅ meiṅ na jaae
-  Mujh se ab saiyyadaaniyoṅ ka saamna hone na paae
+  Kehta tha laasha mera lillaah khaimoṅ mein na jaae
+  Mujh se ab sayyidaaniyoṅ ka saamna hone na paae
   Ye guzaarish hai Sakina mere laashe par na aae
   Marte marte us ka saqqa us se sharminda raha
 
   6
   Har aziyat seh gae sab baawafa saathi mere
   Jo bhi ghore se gira us ke salaamat haath the
-  Ye musibat haaṅ magar hisse meiṅ thi Abbas ke
+  Ye musibat haaṅ magar hisse mein thi Abbas ke
   Kya bataauṅ kaise ghore se zamiṅ par wo gira
 
   7
-  Karbala meiṅ is tarah Aashur ki majlis hui
+  Karbala mein is tarah Aashur ki majlis hui
   Zikr tha Abbas ka zaakir Husain Ibn-e-Ali
   Bibiyoṅ ki aah o zaari se zamiṅ hilne lagi
   Kehte the Ahsan yehi ro ro ke Shaah-e-Karbala

@@ -15,40 +15,40 @@ romanLyrics: |-
   Haaye Fizza haaye haaye Fizza
 
   1
-  Ali ki betiyoṅ ko yuṅ bachaayegi Fizza
-  Ke un ke hisse ke patthar bhi khaayegi Fizza
+  Ali ki betiyoṅ ko yuṅ bachaaye gi Fizza
+  Ke un ke hisse ke patthar bhi khaaye gi Fizza
 
   2
-  Lipat ke royegi Zainab se Karbala ki hawa
-  Rida jo khaak-e-shifa ke urhaayegi Fizza
+  Lipat ke roye gi Zainab se Karbala ki hawa
+  Rida jo khaak-e-shifa ke urhaaye gi Fizza
 
   3
   Karegi yaad zamaana Ali ki shaahi ka
-  Asir ho ke jo Kufe meiṅ jaayegi Fizza
+  Asir ho ke jo Kufe meiṅ jaaye gi Fizza
 
   4
-  Khule saroṅ ko bahut yaad aayega Ghaazi
-  Qabile waaloṅ ko jis dam bulaayegi Fizza
+  Khule saroṅ ko bahut yaad aaye ga Ghaazi
+  Qabile waaloṅ ko jis dam bulaaye gi Fizza
 
   5
   Karegi qaid meiṅ yuṅ ehtiraam Zainab ka
-  Qadam ki khaak ko sar par uthaayegi Fizza
+  Qadam ki khaak ko sar par uthaaye gi Fizza
 
   6
   Sarhaane baithi hui turbat-e-Sakina par
-  Na hogi shama to aansu jalaayegi Fizza
+  Na hogi shama to aansu jalaaye gi Fizza
 
   7
   Mili lahad bhi bahut paas shaahzaadi ke
-  Na chhor kar kahiṅ Zainab ko jaayegi Fizza
+  Na chhor kar kahiṅ Zainab ko jaaye gi Fizza
 
   8
   Jahaaṅ jahaaṅ pe bhi Zainab ka tazkira hoga
-  Wahaaṅ wahaaṅ saf-e-maatam bichhaayegi Fizza
+  Wahaaṅ wahaaṅ saf-e-maatam bichhaaye gi Fizza
 
   9
   Khare haiṅ marqad-e-Fizza pe Aamir o Nayyar
-  Inheṅ bhi lahja-e-Quraaṅ sikhaayegi Fizza
+  Inheṅ bhi lahja-e-Quraaṅ sikhaaye gi Fizza
 ---
 
 ہائے فضہ ہائے ہائے فضہ

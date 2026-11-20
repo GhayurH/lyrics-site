@@ -1,6 +1,6 @@
 ---
 title: "آدھا حسین منّی ہے آدھا من الحسین سجاد اشرف تقوی"
-alternateTitle: "Aadha Hussain Minni Hai Aadha Min Al-Hussain Sajjad Ashraf Taqvi"
+alternateTitle: "Aadha Husain Minni Hai Aadha Min Al-Husain Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,21 +11,21 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aadha Hussain Minni Hai Aadha Min Al-Hussain Sajjad Ashraf Taqvi
-  Deen-e-Nabi Youn Tey Howa Rooz-e-Azzal Hussain
-  Aadha Hussain Mini Hai Aadha Min Al-Hussain
-  Quran Kaisay Parhtay Hain Bad-e-Ajal Hussain
-  Nabiyon Ke Pas Bhi Nahi Tha Iss Ka Hal Hussain
-  Woh Kamsini Ka Josh Woh Peri Ka Walwala
-  Pusht-e-Nabi Se Nook-e-Sina Tak Atal Hussain
-  Fitrus Paron Ko Dekh Ke Kehta Tha Bar Bar
-  Koi Nahi Hai Aap Ka Nam Al Badal Hussain
-  Khaimay Se Aik Khaimay Tak Oss Ki Thakan Ke Naam
-  Hur Ko Diya Hai Aap Ne Mehnat Ka Phal Hussain
-  Hum Khush Hain Our Aisay Keh Dunya Se Be Khabar
-  Jari Hain Jashan Aap Ke Jo Aaj Kal Hussain
-  Ashor Ki Woh Subha Woh Qayam Ka Intezar
-  Akbar Ke Lab Pe Jari Raha Al-Ajal Hussain
+  Aadha Husain minni hai aadha min al-Husain Sajjad Ashraf Taqvi
+  Din-e-Nabi yuṅ tay hua roz-e-azal Husain
+  Aadha Husain minni hai aadha min al-Husain
+  Quraan kaise parhte haiṅ baad-e-ajal Husain
+  Nabiyoṅ ke paas bhi nahiṅ tha is ka hal Husain
+  Woh kam sini ka josh woh piri ka walwala
+  Pusht-e-Nabi se nok-e-sinaaṅ tak atal Husain
+  Fitrus paroṅ ko dekh ke kehta tha baar baar
+  Koi nahiṅ hai aap ka nem-ul-badal Husain
+  Khaime se ek khaime tak us ki thakan ke naam
+  Hur ko diya hai aap ne mehnat ka phal Husain
+  Hum khush haiṅ aur aise keh duniya se bekhabar
+  Jaari haiṅ jashn aap ke jo aaj kal Husain
+  Aashur ki woh subh woh qiyaam ka intizaar
+  Akbar ke lab pe jaari raha al-ajal Husain
 ---
 
 ۱

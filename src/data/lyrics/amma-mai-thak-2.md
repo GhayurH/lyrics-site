@@ -1,6 +1,6 @@
 ---
 title: "کہتے تھے رن میں سرور"
-alternateTitle: "Amma Mai Thak"
+alternateTitle: "Ammaṅ Main Thak"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kehte the ran meiṅ sarwar
+  Kehte the ran meiṅ Sarwar
   Maara gaya baradar
   Tuti kamar hai meri
   Laashe utha utha kar
-  Amma mai thak gaya hoo
-  Seh roz ka hoo pyasa
-  Mai hogaya akela
+  Ammaṅ main thak gaya huṅ
+  Seh roz ka huṅ pyaasa
+  Main ho gaya akela
   Asghar ko dafn kar ke
-  Khud ban gaya hoo laasha
+  Khud ban gaya huṅ laasha
   Dekho mera muqaddar
-  Amma mai thak gaya hoo...
+  Ammaṅ main thak gaya huṅ...
   Ye fikr khaa rahi hai
   Ab shaam aa rahi hai
-  Mansubeiṅ fauje aada
-  Ab ye bana rahi hai
-  Chine haram ki chadar
-  Amma mai thak gaya hoo...
-  Ae amma ye na pucho
-  Kya hogaya hai mujhko
-  Tum khud hi zakhme akbar
-  Maidaṅ meiṅ aake dekho
+  Mansubeiṅ fauj-e-aada
+  Ab ye bana rahi haiṅ
+  Chhine haram ki chaadar
+  Ammaṅ main thak gaya huṅ...
+  Ae ammaṅ ye na puchho
+  Kya ho gaya hai mujhko
+  Tum khud hi zakhm-e-Akbar
+  Maidaaṅ meiṅ aa ke dekho
   Qaabu nahi hai dil par
-  Amma mai thak gaya hoo...
+  Ammaṅ main thak gaya huṅ...
   Maqtal se chun ke laaya
   Pamaal ek laasha
-  Haathoṅ ki jiski mehndi
+  Haathoṅ ki jis ki mehndi
   Deti thi mujhko pursa
-  Aansu baha baha kar
-  Amma mai thak gaya hoo...
-  Bedast ho ke ghazi
+  Aansuṅ baha baha kar
+  Ammaṅ main thak gaya huṅ...
+  Bedast ho ke Ghazi
   Sota hai nind gehri
   Duba lahu meiṅ parcham
-  Zakhmi hai mashk uski
-  Usko jagaa jagaa kar
-  Amma mai thak gaya hoo...
+  Zakhmi hai mashk us ki
+  Us ko jaga jaga kar
+  Ammaṅ main thak gaya huṅ...
   Tuti kamar sambhaluṅ
   Ya dil pe haath rakhuṅ
-  Jo tir aa rahe hai
+  Jo tir aa rahe haiṅ
   Haathoṅ se kaise rokuṅ
   Khud ko bacha bacha kar
-  Amma mai thak gaya hoo...
+  Ammaṅ main thak gaya huṅ...
   Khushbu bata rahi hai
-  Aap aagayi hai rann meiṅ
-  Mai kab se dhundta hoo
-  Karbobala ke ban meiṅ
-  Aajao khud hi maadar
-  Amma mai thak gaya hoo...
-  Aayi sada e zehra
-  Rehaan karbala meiṅ
-  Tanha nahi hai ab tu
-  Is maqtal e jafa meiṅ
+  Aap aa gai haiṅ ran meiṅ
+  Main kab se dhundta huṅ
+  Karb o Bala ke ban meiṅ
+  Aa jaao khud hi maadar
+  Ammaṅ main thak gaya huṅ...
+  Aai sada-e-Zehra
+  Rehaan Karbala meiṅ
+  Tanha nahiṅ hai ab tu
+  Is maqtal-e-jafa meiṅ
   Kiuṅ keh raha hai dilbar
-  Amma mai thak gaya hoo...
+  Ammaṅ main thak gaya huṅ...
 ---
 
 ۱

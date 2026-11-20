@@ -1,54 +1,127 @@
 ---
-title: "Main Ghareeb ul Ghuraba Hoon Main Moeen uz Zoafa Hoon"
+title: "میں غریب الغربا ہوں، میں معین الضعفا ہوں"
+alternateTitle: "Main Ghareeb ul Ghuraba Hoon Main Moeen uz Zoafa Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Main ghareeb ul ghuraba hoon main moeen uz zoafa hoon
+
+  1
+  Mujh ko khalaq-e-do aalam ne banaya hai imam
+  Apne dada ke mashabe hoon Ali hai mera naam
+  Mere lehjay mein hai iss darja sadaqat ka nizam
+  Lafz kehte hain keh Quran hai masroof-e-kalam
+  Marzi-e-Rab ka khulasa hoon Riza kehte hain
+  Our azadar ghareeb-ul-ghuraba kehte hain
+
+  2
+  Meri rag rag mein rawan Abu Tali ka laho
+  Nazish-e-adal hoon main khud yeh qasam khaein addo
+  Iss noiyat ka hai kuch mera sarapa meri khoo
+  Mujh se mas ho tu taharat ka bhi ho jaye wozu
+  Hazrat-e-Mosi-e-Kazim ka main shahzada hoon
+  Shehar-e-imdad ka main aathwaan darwaza hoon
+
+  3
+  Jiss ke chehre ki ziyarat hai abadat main hoon
+  Ahl-e-emaan ke liye rah-e-hidayat main hoon
+  Dekh lo Nahaj-e-Balaga ki balagat main hoon
+  Rab ne tasaduq kari jis ki woh aayat main hoon
+  Qaul-e-mula-e-suleman gawahi de ga
+  Mere rutbaat ki Quran gawahi de ga
+
+  4
+  Mojza kya hai meri fikar ki hai rad-o-badal
+  Jise kehte ho shariyat hai mera tarz-e-amal
+  Mere qabze mein hain sadiyaan mere qabze mein hain pal
+  Kon aisa hai ke jis ki na karein mushkilein hal
+  Naz karta hai jis pe woh shahkar hoon main
+  Apne dada ki tarha kul ka madadgar hoon main
+
+  5
+  Nuqta-e-ba bhi hoon Kausar bhi hon wal Naas bhi hoon
+  Aks-e-Jafar bhi hon Haider bhi hoon Abbas bhi hoon
+  Be-saharon ki main umeed bhi hoon aas bhi hoon
+  Jis se har qalab ko dharas hai woh ahsas bhi hoon
+  Maut khud dene tahafuz osse pehra bandhe
+  Hath par jo bhi mere naam ka sika bandhe
+
+  6
+  Zoor aawar yahan logon ki kamai kab hai
+  Mere dar tak kissi munkir ki rasai kab hai
+  Badshahon ko bhi hasil yeh barai kab hai
+  Aise weson ko yahan milti gadai kab hai
+  Sahib-e-izzat-o-ikram bana deta hoon
+  Jis se khush hota hon khudam bana deta hoon
+
+  7
+  Jab azadar pohanchte hain mere roze par
+  Khoob deti hain dua unn ko hamari khuwahir
+  Loag hi loag nazar aate hain ta had-e-nazar
+  Our Yasir yehi chalti hai zamane mein khabar
+  Mere roze mein kuch iss tarz ki aasaish hai
+  Sari dunya bhi sama jaye tu gunjaish hai
 ---
 
-Main Ghareeb ul Ghuraba Hoon Main Moeen uz Zoafa Hoon
-Mujh Ko Khalaq-e-Do Aalam Ne Banaya Hai Imam
-Apne Dada Ke Mashabe Hoon Ali Hai Mera Naam
-Mere Lehjay Mein Hai Iss Darja Sadaqat Ka Nizam
-Lafz Kehte Hain Keh Quran Hai Masroof-e-Kalam
-Marzi-e-Rab Ka Khulasa Hoon Riza Kehte Hain
-Our Azadar Ghareeb-ul-Ghuraba Kehte Hain
-Meri Rag Rag Mein Rawan Abu Tali Ka Laho
-Nazish-e-Adal Hoon Main Khud Yeh Qasam Khaein Addo
-Iss Noiyat Ka Hai Kuch Mera Sarapa Meri Khoo
-Mujh Se Mas Ho Tu Taharat Ka Bhi Ho Jaye Wozu
-Hazrat-e-Mosi-e-Kazim Ka Main Shahzada Hoon
-Shehar-e-Imdad Ka Main Aathwaan Darwaza Hoon
-Jiss Ke Chehre Ki Ziyarat Hai Abadat Main Hoon
-Ahl-e-Emaan Ke Liye Rah-e-Hidayat Main Hoon
-Dekh Lo Nahaj-e-Balaga Ki Balagat Main Hoon
-Rab Ne Tasaduq Kari Jis Ki Woh Aayat Main Hoon
-Qaul-e-Mula-e-Suleman Gawahi De Ga
-Mere Rutbaat Ki Quran Gawahi De Ga
-Mojza Kya Hai Meri Fikar Ki Hai Rad-o-Badal
-Jise Kehte Ho Shariyat Hai Mera Tarz-e-Amal
-Mere Qabze Mein Hain Sadiyaan Mere Qabze Mein Hain Pal
-Kon Aisa Hai Ke Jis Ki Na Karein Mushkilein Hal
-Naz Karta Hai Jis Pe Woh Shahkar Hoon Main
-Apne Dada Ki Tarha Kul Ka Madadgar Hoon Main
-Nuqta-e-Ba Bhi Hoon Kausar Bhi Hon Wal Naas Bhi Hoon
-Aks-e-Jafar Bhi Hon Haider Bhi Hoon Abbas Bhi Hoon
-Be-Saharon Ki Main Umeed Bhi Hoon Aas Bhi Hoon
-Jis Se Har Qalab Ko Dharas Hai Woh Ahsas Bhi Hoon
-Maut Khud Dene Tahafuz Osse Pehra Bandhe
-Hath Par Jo Bhi Mere Naam Ka Sika Bandhe
-Zoor Aawar Yahan Logon Ki Kamai Kab Hai
-Mere Dar Tak Kissi Munkir Ki Rasai Kab Hai
-Badshahon Ko Bhi Hasil Yeh Barai Kab Hai
-Aise Weson Ko Yahan Milti Gadai Kab Hai
-Sahib-e-Izzat-o-Ikram Bana Deta Hoon
-Jis Se Khush Hota Hon Khudam Bana Deta Hoon
-Jab Azadar Pohanchte Hain Mere Roze Par
-Khoob Deti Hain Dua Unn Ko Hamari Khuwahir
-Loag Hi Loag Nazar Aate Hain Ta Had-e-Nazar
-Our YASIR Yehi Chalti Hai Zamane Mein Khabar
-Mere Roze Mein Kuch Iss Tarz Ki Aasaish Hai
-Sari Dunya Bhi Sama Jaye Tu Gunjaish Hai
+میں غریب الغربا ہوں، میں معین الضعفا ہوں
+
+۱
+مجھ کو خلّاقِ دو عالم نے بنایا ہے امام
+اپنے دادا کے مشابہ ہوں، علی ہے میرا نام
+میرے لہجے میں ہے اس درجہ صداقت کا نظام
+لفظ کہتے ہیں کہ قرآن ہے مصروفِ کلام
+مرضیِ رب کا خلاصہ ہوں، رضا کہتے ہیں
+اور عزادار غریب الغربا کہتے ہیں
+
+۲
+میری رگ رگ میں رواں ابو طالب کا لہو
+نازشِ عدل ہوں میں، خود یہ قسم کھائیں عدو
+اس نوعیت کا ہے کچھ میرا سراپا، میری خو
+مجھ سے مس ہو تو طہارت کا بھی ہو جائے وضو
+حضرتِ موسیٰ کاظم کا میں شہزادہ ہوں
+شہرِ امداد کا میں آٹھواں دروازہ ہوں
+
+۳
+جس کے چہرے کی زیارت ہے عبادت، میں ہوں
+اہلِ ایمان کے لیے راہِ ہدایت، میں ہوں
+دیکھ لو نہج البلاغہ کی بلاغت، میں ہوں
+رب نے تصدق کری جس کی، وہ آیت میں ہوں
+قولِ مولائے سلیمان گواہی دے گا
+میرے رتبات کی قرآن گواہی دے گا
+
+۴
+معجزہ کیا ہے، میری فکر کی ہے رد و بدل
+جسے کہتے ہو شریعت، ہے میرا طرزِ عمل
+میرے قبضے میں ہیں صدیاں، میرے قبضے میں ہیں پل
+کون ایسا ہے کہ جس کی نہ کریں مشکلیں حل
+ناز کرتا ہے جس پہ، وہ شاہکار ہوں میں
+اپنے دادا کی طرح کل کا مددگار ہوں میں
+
+۵
+نقطۂ با بھی ہوں، کوثر بھی ہوں، والناس بھی ہوں
+عکسِ جعفر بھی ہوں، حیدر بھی ہوں، عباس بھی ہوں
+بے سہاروں کی میں امید بھی ہوں، آس بھی ہوں
+جس سے ہر قلب کو ڈھارس ہے، وہ احساس بھی ہوں
+موت خود دینے تحفظ اسے پہرا باندھے
+ہاتھ پر جو بھی میرے نام کا سکہ باندھے
+
+۶
+زور آور یہاں لوگوں کی کمائی کب ہے
+میرے در تک کسی منکر کی رسائی کب ہے
+بادشاہوں کو بھی حاصل یہ بڑائی کب ہے
+ایسے ویسوں کو یہاں ملتی گدائی کب ہے
+صاحبِ عزت و اکرام بنا دیتا ہوں
+جس سے خوش ہوتا ہوں، خدام بنا دیتا ہوں
+
+۷
+جب عزادار پہنچتے ہیں میرے روضے پر
+خوب دیتی ہیں دعا ان کو ہماری خواہر
+لوگ ہی لوگ نظر آتے ہیں تا حدِ نظر
+اور یاسر یہی چلتی ہے زمانے میں خبر
+میرے روضے میں کچھ اس طرز کی آسائش ہے
+ساری دنیا بھی سما جائے تو گنجائش ہے

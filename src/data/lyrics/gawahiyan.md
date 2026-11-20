@@ -11,77 +11,77 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aayega jab wo waarise qurane karbala
-  Ek hashr hoga bar sare maidan-e-karbala
-  Aayenge uthke saare shahidane karbala
-  Hogi sada ke laao gawahane karbala
-  Goonjegi jab sada ye imame zaman ki
-  Dene gawahi aayegi har shay jahan ki
-  Gawahiyaṅ gawahiyaṅ
-  Gawahe ghurbate shabbir hoga saara jahaṅ
-  Kareṅgi zulmateiṅ ro ro ke zulmatoṅ ko bayaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Falak ke saath faza bhi gawahiyaṅ degi
-  Ghamoṅ ki garm hawa bhi gawahiyaṅ degi
-  Zamin e karbobala bhi gawahiyaṅ degi
-  Bahegi khaak ke zarro se mere khuṅ ta rawaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Kahegi sahibe wal-asr se ye roke furaat
-  Nabi ke laal pe thi tang karbala meiṅ hayaat
-  Mai khud bhi pyasi thi tashna-dahan Husain ke saath
-  Agar Husain bulaate to khud mai jaati wahaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Gawahi zulm ki yuṅ dega hurmala ka tir
-  Tarap ke rehgaya sarwar ke haath par baysheer
-  Ye imtehan tha mera na thi meri taqsir
-  Chala tha mai jo kamaṅ se to ro pari thi kamaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Sina batayegi aaye the laash par sarwar
-  Tarap ke aeriyaṅ malta tha khaak par akbar
-  Bayaṅ ho kaise sina khenchne ka wo manzar
-  Zaif hogaye sarwar uthaai laashe jawaaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Kahenge mehdi e daura se tir aur bhaale
-  Hum hi the zin se sheh ko utaarne waale
-  Wo tashnagi thi ke sheh ki ragoṅ meiṅ the chaale
-  Har ek zakhm ke andar bhi zakhm ka tha nishaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Gawahi dene jab aayengi zainabe muztar
-  Kaheṅgi saahibe wal asr se ye ro ro kar
-  Athara zarbe gini maiṅ ne sheh ki gardan par
-  Har ek zarb ka ab tak hai mere dil pe nishaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Gawah honge shahidane karbala saare
-  Gawah honge nabi aur ambiya saare
-  Kareṅge ghurbate shabbir par buka saare
-  Har ek taraf nazar aayega hashr hi ka samaa
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Gawah banke shahidane gham bhi aayenge
-  Ghame Husain meiṅ aankhoṅ se khuṅ bahayenge
-  Janabe mehdi-e-daura ko ye batayenege
-  Lutayi hum ne bhi maula ghame Husain meiṅ jaaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Udegi khaak jab aayegi sayyeda zehra
-  Kaheṅgi kaun hai mujhsa gawah ae beta
-  Ke meri godh meiṅ kaata gaya tha khushk gala
-  Mere Husain ke jaisa gharib hoga kahaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
-  Gawahi nur ali deṅge abid e bemaar
-  Ae muntaqim zara sambhli jo meri haalate zaar
-  Sina ki nauk pe dekha sare shahe abraar
-  Jale qayaam se us waqt uth raha tha dhuaṅ
-  Gawahe ghurbate shabbir...
-  Gawahiyan...
+  Aae ga jab woh waaris-e-Quraan-e-Karbala
+  Ik hashr hoga bar sar-e-maidaan-e-Karbala
+  Aaeṅge uth ke saare shahidaan-e-Karbala
+  Hogi sadaa ke laao gawaahaan-e-Karbala
+  Gunje gi jab sadaa-e-imaam-e-zamaan ki
+  Dene gawaahi aae gi har shai jahaan ki
+  Gawaahiyaaṅ gawaahiyaaṅ
+  Gawaah-e-ghurbat-e-Shabbir hoga saara jahaaṅ
+  Kareṅ gi zulmateṅ ro ro ke zulmatoṅ ko bayaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Falak ke saath fazaa bhi gawaahiyaaṅ degi
+  Ghamoṅ ki garm hawaa bhi gawaahiyaaṅ degi
+  Zamin-e-Karbo Bala bhi gawaahiyaaṅ degi
+  Bahe gi khaak ke zarroṅ se mere khuṅ taa rawaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Kahe gi saahib-e-wal-asr se ye ro ke Furaat
+  Nabi ke laal pe thi tang Karbala meiṅ hayaat
+  Main khud bhi pyaasi thi tashna-dahan Husain ke saath
+  Agar Husain bulaate to khud main jaati wahaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Gawaahi zulm ki yuṅ dega Hurmala ka tir
+  Tarap ke reh gaya Sarwar ke haath meiṅ be shir
+  Ye imtihaan tha mera na thi meri taqsir
+  Chala tha main jo kamaaṅ se to ro pari thi kamaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Sanaaṅ bataae gi aae the laash par Sarwar
+  Tarap ke eriyaaṅ malta tha khaak par Akbar
+  Bayaaṅ ho kaise sanaaṅ khinchne ka woh manzar
+  Zaif ho gaya Sarwar uthaai laash-e-jawaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Kaheṅ ge Mahdi-e-dauraaṅ se tir aur bhaale
+  Hum hi the zin se Shah ko utaarne waale
+  Woh tashnagi thi ke Shah ki ragoṅ meiṅ the chhaale
+  Har ek zakhm ke andar bhi zakhm ka tha nishaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Gawaahi dene jab aae gi Zainab-e-muztar
+  Kaheṅ gi saahib-e-wal-asr se ye ro ro kar
+  Athaara zarbeṅ gini main ne Shah ki gardan par
+  Har ek zakhm ka ab tak hai mere dil pe nishaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Gawaah honge shahidaan-e-Karbala saare
+  Gawaah honge Nabi aur ambiyaa saare
+  Kareṅ ge ghurbat-e-Shabbir par bukaa saare
+  Har ek taraf nazar aae ga hashr hi ka samaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Gawaah ban ke shahidaan-e-gham bhi aaeṅge
+  Gham-e-Husain meiṅ aaṅkhoṅ se khuṅ bahaaeṅge
+  Janaab-e-Mahdi-e-dauraaṅ ko ye bataaeṅge
+  Lutaai hum ne bhi Maula gham-e-Husain meiṅ jaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Ure gi khaak jab aaeṅgi Sayyid Zehra
+  Kaheṅ gi kaun hai mujh sa gawaah ae beta
+  Ke meri god meiṅ kaata gaya tha khushk gala
+  Mere Husain ke jaisa gharib hoga kahaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
+  Gawaahi Nur Ali deṅ ge Aabid-e-bimaar
+  Ae muntaqim zara sambhli jo meri haalat-e-zaar
+  Sanaaṅ ki nok pe dekha sar-e-Shah-e-abraar
+  Jale qiyaam se us waqt uth raha tha dhuaaṅ
+  Gawaah-e-ghurbat-e-Shabbir...
+  Gawaahiyaaṅ...
 ---
 
 ۱

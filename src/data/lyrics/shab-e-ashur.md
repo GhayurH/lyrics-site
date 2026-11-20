@@ -13,7 +13,7 @@ aliases: ["Shabe Ashoor"]
 published: true
 romanLyrics: |-
   Haye haye haye
-  Ghabraegi Zainab ghabraegi Zainab
+  Ghabraaye gi Zainab ghabraaye gi Zainab
 
   Shab-e-Ashur dhalti jaa rahi hai
   Ali ki laadli ghabra rahi hai

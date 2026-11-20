@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   1
   Karbobala mein dekh ke bikhre hue laashe
-  Har laasha-e-besar par bahut royi hai Zahra
+  Har laasha-e-be sar par bahut royi hai Zahra
   Sar saare shahidoṅ ke jab aaye sar-e-naiza
   Zahra ne kaha dekh ke Abbas ka laasha
   Haaye Shaam, haaye bazaar, haaye ghairat-e-Abbas
@@ -23,7 +23,7 @@ romanLyrics: |-
   Shabbir ke laashe sa hai Abbas ka laasha
   Naizoṅ par nazar aata hai...
   Jaise hi kaha shaah ne sheroṅ mere utho
-  Labbaik kaho uthke Husain ibn-e-Ali ko
+  Labbaik kaho uth ke Husain ibn-e-Ali ko
   Ye sun ke bahut tarpa hai Abbas ka laasha
   Naizoṅ par nazar aata hai...
   Barsaat tamaanchoṅ ki Sakina pe hui hai

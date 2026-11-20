@@ -49,7 +49,7 @@ romanLyrics: |-
   Ro kehti thi har dam Husain
 
   5
-  Na sar ko jhukaane paaye laiṅ
+  Na sar ko jhukaane paaye la'iṅ
   Chaaha tha jhukaana jis sar ko
   Khud apne saroṅ se bhi uncha
   Para un ko uthaana jis sar ko
@@ -70,7 +70,7 @@ romanLyrics: |-
   Karti hai maatam Zainab ka
   Khurshid ke dil ki har dharkan
   Tere Akbar Qasim Asghar ka
-  Har saaṅs meiṅ maatam Husain
+  Har saans meiṅ maatam Husain
 ---
 
 ہر دم حسین تیرا غم حسین

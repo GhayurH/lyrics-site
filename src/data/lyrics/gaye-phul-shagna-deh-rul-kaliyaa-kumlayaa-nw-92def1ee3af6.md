@@ -1,30 +1,59 @@
 ---
-title: "Gaye Phul Shagna Deh Rul Kaliyaa Kumlayaa"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "گئے پھل شگناں دے رُل کلیاں کملایا"
+alternateTitle: "Gaye Phul Shagna Deh Rul Kaliyaa Kumlayaa"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Gaye phul shagna deh rul kaliyaa kumlayaa
+
+  Aya din daswee da lagiyaa zulam deeya bayaa
+
+  1
+  Uth veer Hassan deya jaya,
+  Tera arsho sehra ayaa sath banaya
+  Tenoo khushiya wali ghariya raas na ayaa
+
+  2
+  Bara hosla Sabir paya,
+  Sara kunba qaid karaya sabar dekhaya
+  Ali Abid par Bismillah beriya payaa
+
+  3
+  Jado lash Qasam dee aye,
+  Ik bibi khemiyo ayee dard satayi
+  Akhe kis dar jawa meh ujri deya saiya
+
+  4
+  Tussa haq deh kol dasawe,
+  Assa haq tho bachre ware ik nahi sare
+  Assa deen Nabi sang laa keh tor nibhaya
 ---
 
-Gaye Phul Shagna Deh Rul Kaliyaa Kumlayaa
+گئے پھل شگناں دے رُل کلیاں کملایا
 
-Aya Din Daswee Da Lagiyaa Zulam Deeya Bayaa
+آیا دن دسویں دا لگیاں ظلم دیاں بایاں
 
-Uth Veer Hassan Deya Jaya,
-Tera Arsho Sehra Ayaa Sath Banaya
-Tenoo Khushiya Wali Ghariya Raas Na Ayaa
+۱
+اُٹھ ویر حسن دیا جایا،
+تیرا عرشوں سہرا آیا ساتھ بنایا
+تینوں خوشیاں والی گھڑیاں راس نہ آیا
 
-Bara Hosla Sabir Paya,
-Sara Kunba Qaid Karaya Sabar Dekhaya
-Ali Abid Par Bismillah Beriya Payaa
+۲
+بڑا حوصلہ صابر پایا،
+سارا کنبہ قید کرایا صبر دکھایا
+علی عابد پر بسم اللہ بیڑیاں پایاں
 
-Jado Lash Qasam Dee Aye,
-Ik Bibi Khemiyo Ayee Dard Satayi
-Akhe Kis Dar Jawa Meh Ujri Deya Saiya
+۳
+جدوں لاش قاسم دی آئے،
+اک بی بی خیمیوں آئی درد ستائی
+آکھے کس در جاواں میں اُجڑی دیا سائیاں
 
-Tussa Haq Deh Kol Dasawe,
-Assa Haq Tho Bachre Ware Ik Nahi Sare
-Assa Deen Nabi Sang Laa Keh Tor Nibhaya
+۴
+تُساں حق دے کول دساوے،
+اساں حق توں بچڑے وارے اک نہیں سارے
+اساں دین نبی سنگ لا کے توڑ نبھایا

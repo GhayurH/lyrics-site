@@ -10,20 +10,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Salam aye bazu-e-rehbar Aaqa Qasim Sulemani
-  They khushbo-e-Malik-e-Ashtar Aaqa Qasim Sulemani
+  Salaam ae baazu-e-rehbar Aaqa Qaasim Sulemaani
+  The khushbu-e-Maalik-e-Ashtar Aaqa Qaasim Sulemaani
 
   1
-  Najaf se Karbala our Karbala se aa ke Mashhad tak
-  Tera guzra jism-e-athar Aaqa Qasim Sulemani
-  Iraq our Sham ki Daish se lara tu jawan ho kar
-  Bach ke taig Fatah-e-Khaybar Aaqa Qasim Sulemani
+  Najaf se Karbalaa aur Karbalaa se aa ke Mashhad tak
+  Tera guzra jism-e-athar Aaqa Qaasim Sulemaani
+  Iraaq aur Shaam ki Daaish se lara tu jawaan ho kar
+  Bach ke tegh-e-Faatih-e-Khaybar Aaqa Qaasim Sulemaani
 
   2
-  Jurat hoi na kissi ko haram ke nazdeek aa jaye
-  They jab aap paish-e-nazar Aaqa Qasim Sulemani
-  Yaqeen Farman ka hai seene se tujh ko lagane ko
-  Aaye hoon gaye Sheh-e-Sarwar Aaqa Qasim Sulemani
+  Juraat hui na kisi ko haram ke nazdik aa jaaye
+  The jab aap pesh-e-nazar Aaqa Qaasim Sulemaani
+  Yaqin Farmaan ka hai sine se tujh ko lagaane ko
+  Aaye hoṅ ge Sheh-e-Sarwar Aaqa Qaasim Sulemaani
 ---
 
 سلام اے بازوئے رہبر آقا قاسم سلیمانی

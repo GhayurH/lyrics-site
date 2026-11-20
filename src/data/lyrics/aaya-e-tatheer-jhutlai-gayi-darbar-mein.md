@@ -10,26 +10,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaya-e-Tatheer jhutlai gayi darbar mein
-  Mangney haq aa gayi Bint-e-Nabi darbar mein
+  Aaya-e-Tathir jhutlaai gayi darbaar mein
+  Maangne haq aa gayi Bint-e-Nabi darbaar mein
 
   1
-  Phaar kar tukray sand ke hans rahe they kalma go
-  Our Bint-e-Mustafa roti rahi darbar mein
-  Jis ki azmat ki gawahi deta hai Rab-e-Qadeer
-  Haan wohi Bint-e-Nabi layi gayi darbar mein
+  Phaar kar tukre sanad ke hans rahe the kalma go
+  Aur Bint-e-Mustafa roti rahi darbaar mein
+  Jis ki azmat ki gawaahi deta hai Rab-e-Qadir
+  Haaṅ wohi Bint-e-Nabi laai gayi darbaar mein
 
   2
-  Madar-e-Kulsoom-o-Zainab our Nabi ki ladli
-  Zoja-e-Mushkil Kusha mushkil mein thi darbar mein
-  Bad-e-Ahmad woh sitam ummat ne dhaya aal par
-  Malka-e-Konain hai qaidi bani darbar mein
+  Maadar-e-Kulsum o Zainab aur Nabi ki laadli
+  Zauja-e-Mushkil Kusha mushkil mein thi darbaar mein
+  Baad-e-Ahmad woh sitam ummat ne dhaaya aal par
+  Malika-e-Kaunain hai qaidi bani darbaar mein
 
   3
-  Chota na darbaron mein jana Nabi ki aal ka
-  Rasam zalim yeh teri aisi chali darbar mein
-  Ashqiya kursi nasheen they jab keh Zakir our Nabeel
-  Madar-e-Shabeer-o-Shabar thi khari darbar mein
+  Chhuta na darbaaroṅ mein jaana Nabi ki aal ka
+  Rasm zaalim yeh teri aisi chali darbaar mein
+  Ashqiya kursi nashiṅ the jab ke Zakir aur Nabil
+  Maadar-e-Shabbir o Shabbar thi khari darbaar mein
 ---
 
 آیۂ تطہیر جھٹلائی گئی دربار میں

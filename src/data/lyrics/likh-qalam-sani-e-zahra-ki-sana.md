@@ -15,26 +15,26 @@ romanLyrics: |-
   1
   Likh qalam Sani-e-Zahra ki sana Bismillah
   Wahi o ilhaam ko tahrir mila Bismillah
-  Ba ke nuqte se har ik nuqta mila Bismillah
+  Baa ke nuqte se har ik nuqta mila Bismillah
   Aaj ye raaz zamaane ko bata Bismillah
   Ilm-e-Haider ka khulaasa hai Ali ki beti
-  Dusri Nahj-e-Balaagha hai Ali ki beti
+  Dusri Nahj-ul-Balaagha hai Ali ki beti
 
   2
   Aal-e-Zahra ke liye Sani-e-Zahra Zainab
   Is liye Zaat-e-Ilaahi ne ye chaaha Zainab
-  Mustaqil ho teri chaukhat pe ujaala Zainab
-  Teri khaatir ho naye rang ka Zuhra Zainab
+  Mustaqil ho tiri chaukhat pe ujaala Zainab
+  Tiri khaatir ho naye rang ka Zuhra Zainab
   Bani Haashim ka qamar ban ke sitaara aa jaaye
-  Teri dehliz pe Ghaazi ko utaara jaaye
+  Tiri dehliz pe Ghaazi ko utaara jaaye
 
   3
   Jin ki naalain ke qausain bhi muhtaaj mile
-  Wo Nabi aur Ali barsar-e-Mairaaj mile
-  Tohfe Allah se do kal ke liye aaj mile
+  Wo Nabi aur Ali barsar-e-Meraaj mile
+  Tuhfe Allah se do kal ke liye aaj mile
   Donoṅ maasumoṅ ko ismat ke naye taaj mile
-  Shab-e-Mairaaj ye taqsim Khuda ne ki hai
-  Fatima ek ko di ek ko Zainab di hai
+  Shab-e-Meraaj ye taqsim Khuda ne ki hai
+  Faatima ek ko di ek ko Zainab di hai
 
   4
   Maah-e-Shaabaan-e-yakam aur wo nur-e-Zainab
@@ -50,7 +50,7 @@ romanLyrics: |-
   Chaudah maasumoṅ ki ummid hai pehli Shaabaan
   Saari eidoṅ ke liye eid hai pehli Shaabaan
   Arsh se ban ke wilaayat ki safir aayi hai
-  Lailatulqadr ke ghar Eid-e-Ghadir aayi hai
+  Lailatul Qadr ke ghar Eid-e-Ghadir aayi hai
 
   6
   Tu ne uskut jo kaha ho gaye aadaa khaamosh
@@ -58,7 +58,7 @@ romanLyrics: |-
   Sirf Kufa hi nahiṅ ho gayi dunya khaamosh
   Sirf dunya hi nahiṅ Khuda tha khaamosh
   Aisa lehje ka asar tha ke zamaana chup tha
-  Teri taazim meiṅ khud tera gharaṅ chup tha
+  Tiri taazim meiṅ khud tera gharaaṅ chup tha
 
   7
   Pal meiṅ saakit bhare baazaar ki hal chal kar di
@@ -66,13 +66,13 @@ romanLyrics: |-
   Waqt par waqt ki dehliz muqaffal kar di
   Din ko maazul kiya raat muattal kar di
   Khauf meiṅ dube hue dil wo ubharne na diye
-  Saaṅs bhi rok diye log bhi marne na diye
+  Saans bhi rok diye log bhi marne na diye
 
   8
   Qaafila farsh-e-aza ka ye chali hai le kar
   Chaudah sadiyoṅ se khitaab is ka hai jaari ghar ghar
-  Taaziya jhula alam aaṅsu hai is ka lashkar
-  Kaun rokega bhala Shah ka maatam Akbar
+  Taaziya jhula alam aansu hai is ka lashkar
+  Kaun roke ga bhala Shaah ka maatam Akbar
   Karbala ka jo har ik saahib-e-dil qaail hai
   Is ki tabligh meiṅ Zainab ka lahu shaamil hai
 ---

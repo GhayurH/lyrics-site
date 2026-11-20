@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Ahl-e-haram hai pyaas ki shiddat se beqaraar
-  Nauha-kunaaṅ hai dasht mein kunba Husain ka
+  Nauha-kunaaṅ hai dasht kunba Husain ka
 
   2
   Tukroṅ meiṅ munqasim hua ibn-e-Ali ka laal
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Aansu baha rahe haiṅ jo gham meiṅ Husain ke
-  Usko duaaeṅ deta hai Baaba Husain ka
+  Usko duaaeṅ deta hai baaba Husain ka
 
   6
   Mashk-e-Sakina bhar ke chala sher ka pisar

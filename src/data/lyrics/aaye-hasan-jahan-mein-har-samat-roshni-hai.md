@@ -1,6 +1,6 @@
 ---
 title: "آئے حسن جہاں میں ہر سمت روشنی ہے"
-alternateTitle: "Aaye Hasan Jahan Mein Har Samat Roshni Hai"
+alternateTitle: "Aaye Hasan Jahaaṅ Meiṅ Har Samt Roshni Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaye Hasan jahan mein har samat roshni hai
-  Dunya tu aaj sari ik khuld si bani hai
+  Aaye Hasan jahaaṅ meiṅ har samt roshni hai
+  Dunya to aaj saari ik khuld si bani hai
 
   1
-  Hai qabal az nazool-e-Quran in ki aamad
-  Tarteeb-e-mah-e-Ramzaan iss tarha se chali hai
+  Hai qabl az nazul-e-Quraan in ki aamad
+  Tartib-e-maah-e-Ramzaaṅ is tarah se chali hai
   Allah ki taraf se tohfa hai Syeda ko
-  Shabar ki jo wiladat Zahra ke ghar hoi hai
+  Shabar ki jo wilaadat Zahra ke ghar hui hai
 
   2
-  Aaye hain bheek lene sare malak wahin par
-  Zahra jahan pisar ka jhola jhula rahi hai
-  Jab mah-e-Fatima ko mah-e-falak ne dekha
-  Chanda ki chandni bhi bas maand par gayi hai
+  Aaye haiṅ bhik lene saare malak wahiṅ par
+  Zahra jahaaṅ pisar ka jhula jhula rahi hai
+  Jab maah-e-Fatima ko maah-e-falak ne dekha
+  Chandaa ki chaandni bhi bas maand par gayi hai
 
   3
-  Chehra tu ho baho hai iss ka Rasool jaisa
-  Iss ki kalai Mula Haider se mil rahi hai
-  Aagosh-e-Fatima mein soya Hasan hai aise
-  Quran hai Hasan our Zahra rehel bani hai
+  Chehra to hu bahu hai is ka Rasul jaisa
+  Is ki kalaai Maula Haider se mil rahi hai
+  Aaghosh-e-Fatima meiṅ soya Hasan hai aise
+  Quraan hai Hasan aur Zahra rehel bani hai
 
   4
-  Hain chomte muqarar chehra Hasan sakhi ka
-  Pyare Nabi ki khatir kitni bari khushi hai
-  Afraz ne hai paya husan-e-Hasan ka sadqa
-  Kehte hain log sun kar kya khob shayari hai
+  Haiṅ chumte mukarrar chehra Hasan sakhi ka
+  Pyaare Nabi ki khaatir kitni bari khushi hai
+  Afraaz ne hai paaya husn-e-Hasan ka sadqa
+  Kehte haiṅ log sun kar kya khub shaayari hai
 ---
 
 آئے حسن جہاں میں ہر سمت روشنی ہے

@@ -1,26 +1,42 @@
 ---
-title: "Main Abid Da Har Moor Te Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "میں عابد دا ہر موڑ تے"
+alternateTitle: "Main Abid Da Har Moor Te"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Main Abid da har moor te pathraan ne dard wandaya
+  Main peo di yaad che jad roya menu kariyaan seene laya
+
+  1
+  Jadon Shaam bazar che soraj di dhup wad gayi te sadi khatir
+  Kul shehar ne mil ke pathran nal sadey sir te kita saya
+  Kadi lashaan nu kadi phuphiyaan nu kadi balaan nu ayna lokaan
+  Kadi kafna tun kadi chadraan tun kadi pani tu tarsaya
+
+  2
+  Kadi rukdiyaan san kadi chaldiyaan san har lafz te meriyaan nabzaan
+  Jadoon aan Sakina chehre de neelaan da haal sunaya
+  Akbar Sajad aye wain kare meri gurbat koi na samjay
+  Main qabar day wich te aa giya waan bazar choon bar nayi aya
 ---
 
-Main Abid Da Har Moor Te Pathraan Ne Dard Wandaya.
-Main Peo Di Yaad Che Jad Roya Menu Kariyaan Seene Laya.
+میں عابد دا ہر موڑ تے پتھراں نے درد ونڈایا
+میں پیو دی یاد چے جد رویا مینوں کڑیاں سینے لایا
 
-1
-Jadon Shaam Bazar Che Soraj Di Dhup Wad Gayi Te Sadi Khatir.
-Kul Shehar Ne Mil Ke Pathran Nal Sadey Sir Te Kita Saya.
-Kadi Lashaan Nu Kadi Phuphiyaan Nu Kadi Balaan Nu Ayna Lokaan.
-Kadi Kafna Tun Kadi Chadraan Tun Kadi Pani Tu Tarsaya.
+۱
+جدوں شام بازار چے سورج دی دھپ ودھ گئی تے ساڈی خاطر
+کل شہر نے مل کے پتھراں نال ساڈے سر تے کیتا سایہ
+کدی لاشاں نوں کدی پھپھیاں نوں کدی بالاں نوں اینہاں لوکاں
+کدی کفناں توں کدی چادراں توں کدی پانی توں ترسایا
 
-2
-Kadi Rukdiyaan San Kadi Chaldiyaan San Har Lafz Te Meriyaan Nabzaan.
-Jadoon Aan Sakina Chehre De Neelaan Da Haal Sunaya.
- Akbar Sajad Aye Wain Kare Meri Gurbat Koi Na Samjay.
-Main Qabar Day Wich Te Aa Giya Waan Bazar Choon Bar Nayi Aya.
+۲
+کدی رکدیاں سن کدی چلدیاں سن ہر لفظ تے میریاں نبضاں
+جدوں آن سکینہ چہرے دے نیلاں دا حال سنایا
+اکبر سجاد ایہہ وین کرے میری غربت کوئی نہ سمجھے
+میں قبر دے وچ تے آ گیا واں بازار چوں باہر نئیں آیا

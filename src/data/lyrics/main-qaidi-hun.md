@@ -15,17 +15,17 @@ romanLyrics: |-
   Na maaro na maaro
   Haae patthar na maaro
   Patthar barsaane waaloṅ
-  Maiṅ qaidi pardesi huṅ
+  Main qaidi pardesi huṅ
 
   Mujh ko tarpaane ki khaatir
   Zehra ko rulaane ki khaatir
   Rastoṅ ko sajaane waaloṅ pardesi huṅ
 
   1
-  Sunte ho azaaṅ meiṅ naam us ka
+  Sunte ho azaaṅ mein naam us ka
   Dar asl wo hai mera naana
   Aae ho tamaashaai ban kar
-  Bemiqna lahu meiṅ bechaadar
+  Bemiqna lahu mein bechaadar
   Ae mujh ko rulaane waaloṅ pardesi huṅ
 
   2
@@ -33,40 +33,40 @@ romanLyrics: |-
   Har gaam sataate ho mujh ko
   Durroṅ se aziyyat dete ho
   Rone pe qayaamat dhaate ho
-  Baazaar meiṅ laane waaloṅ pardesi huṅ
+  Baazaar mein laane waaloṅ pardesi huṅ
 
   3
-  Din dhup meiṅ hai shab os meiṅ hai
-  Har ek lamha afsos meiṅ hai
+  Din dhup mein hai shab os mein hai
+  Har ek lamha afsos mein hai
   Zardi hai alam ki chehroṅ par
   Aur gard-e-safar hai baaloṅ par
   Dil mera dukhaane waaloṅ pardesi huṅ
 
   4
-  Is shehr ki maiṅ shehzaadi thi
+  Is shehr ki main shehzaadi thi
   Sab ko parda sikhlaati thi
   Aazaad kanizoṅ ko bhi kiya
   Apna yatimoṅ ko samjha
   Mujhe qaidi banaane waaloṅ pardesi huṅ
 
   5
-  Saae meiṅ nahiṅ chalne dete
+  Saae mein nahiṅ chalne dete
   Aaraam nahiṅ karne dete
-  Girte haiṅ jo uṅtoṅ se
+  Girte haiṅ jo untoṅ se
   Bachche marte haiṅ wo dab kar pairoṅ se
   Ae rehm na khaane waaloṅ pardesi huṅ
 
   6
   Mere bhai bhatije maar diye
   Sar kaat ke phir nezoṅ pe rakhe
-  Raste meiṅ koi thokar khaata hai
+  Raste mein koi thokar khaata hai
   Bimaar ko ghash aa jaata hai
   Ae zakhm lagaane waaloṅ pardesi huṅ
 
   7
   Rehaan meri aaqa zaadi
-  Darbaar meiṅ yuṅ thi faryaadi
-  Kohraam bapa darbaar meiṅ tha
+  Darbaar mein yuṅ thi faryaadi
+  Kohraam bapa darbaar mein tha
   Us waqt Nabi zaadi ne kaha
   Ghar mera jalaane waaloṅ pardesi huṅ
 ---

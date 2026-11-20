@@ -1,38 +1,65 @@
 ---
-title: "Shabbir Ka Lasha Joan Rizvi"
+title: "شبیر کا لاشہ جون رضوی"
+alternateTitle: "Shabbir Ka Lasha Joan Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kis haal mein maqtal mein tha Shabeer ka lasha, Zainab ko khabar hai
+  Paiwast kahan teer they kis kis jagah naiza, Zainab ko khabar hai
+
+  1
+  Zulfoon se uthatay they laeen jab sar-e-Shabeer, sehti rahi humsheer
+  Kis kis ne uthaya ossay kis kis ne giraya, Zainab ko khabar hai
+  Thi chand qadam door behan khaimay ke dar par, tha halq pe khanjar
+  Khanjar talay mazloom ne kis kis ko pukara, Zainab ko khabar hai
+
+  2
+  Maqtal mein laeen aaya tu mojood thi beti jo baap se lipati
+  Kis tarha kiya dono ko zalim ne alehdah, Zainab ko khabar hai
+  Sheh kehte they har zarb pe jab haye baradar, aye mere dilawar
+  Har zarb pe tarpa koi lasha lab-e-darya, Zainab ko khabar hai
+
+  3
+  Khaimon mein lagi aag tu sholon se guzar kar be miqna-o-chadar
+  Kis tarha se Sajjad ko sholon se nikala, Zainab ko khabar hai
+  Be goor-o-kafan chor diya lasha-e-be sar, roi na lipat kar
+  Kya sabar ki mairaj hai yeh Sani-e-Zahra, Zainab ko khabar hai
+
+  4
+  Jis ke bina Shabeer ka katta na tha ik pal, aankhon se hai ojhal
+  Zakhmi dil-e-Shabeer hai Akbar se zyada, Zainab ko khabar hai
+  Muhsin abhi likha hai musayab ka khulasa, dil phatta hai mera
+  Tafseel-e-musayab ki hai Zahra ko khabar ya Zainab ko khabar hai
 ---
 
-Kis Haal Mein Maqtal Mein Tha Shabeer Ka Lasha Zainab Ko Khabar Hai.
-Paiwast Kahan Teer They Kis Kis Jagah Naiza Zainab Ko Khabar Hai.
+کس حال میں مقتل میں تھا شبیر کا لاشہ، زینب کو خبر ہے
+پیوست کہاں تیر تھے کس کس جگہ نیزہ، زینب کو خبر ہے
 
-1
-Zulfoon Se Uthatay They Laeen Jab Sar-e-Shabeer Sehti Rahi Humsheer.
-Kis Kis Ne Uthaya Ossay Kis Kis Ne Giraya Zainab Ko Khabar Hai.
-Thi Chand Qadam Door Behan Khaimay Ke Dar Par Tha Halq Pe Khanjar.
-Khanjar Talay Mazloom Ne Kis Kis Ko Pukara Zainab Ko Khabar Hai.
+۱
+زلفوں سے اٹھاتے تھے لعین جب سرِ شبیر، سہتی رہی ہمشیر
+کس کس نے اٹھایا اسے کس کس نے گرایا، زینب کو خبر ہے
+تھی چند قدم دور بہن خیمے کے در پر، تھا حلق پہ خنجر
+خنجر تلے مظلوم نے کس کس کو پکارا، زینب کو خبر ہے
 
-2
-Maqtal Mein Laeen Aaya Tu Mojood Thi Beti Jo Baap Se Lipati.
-Kis Tarha Kiya Dono Ko Zalim Ne Alehdah Zainab Ko Khabar Hai.
-Sheh Kehte They Har Zarb Pe Jab Haye Baradar Aye Mere Dilawar.
-Har Zarb Pe Tarpa Koi Lasha Lab-e-Darya Zainab Ko Khabar Hai.
+۲
+مقتل میں لعین آیا تو موجود تھی بیٹی جو باپ سے لپٹی
+کس طرح کیا دونوں کو ظالم نے علیحدہ، زینب کو خبر ہے
+شہ کہتے تھے ہر ضرب پہ جب ہائے برادر، اے میرے دلاور
+ہر ضرب پہ تڑپا کوئی لاشہ لبِ دریا، زینب کو خبر ہے
 
-3
-Khaimon Mein Lagi Aag Tu Sholon Se Guzar Kar Be Miqna-o-Chadar.
-Kis Tarha Se Sajjad Ko Sholon Se Nikala Zainab Ko Khabar Hai.
-Be Goor-o-Kafan Chor Diya Lasha-e-Be Sar Roi Na Lipat Kar.
-Kya Sabar Ki Mairaj Hai Yeh Sani-e-Zahra Zainab Ko Khabar Hai.
+۳
+خیموں میں لگی آگ تو شعلوں سے گزر کر بے مقنع و چادر
+کس طرح سے سجاد کو شعلوں سے نکالا، زینب کو خبر ہے
+بے گور و کفن چھوڑ دیا لاشۂ بے سر، روئی نہ لپٹ کر
+کیا صبر کی معراج ہے یہ ثانیِ زہرا، زینب کو خبر ہے
 
-4
-Jis Ke Bina Shabeer Ka Katta Na Tha Ik Pal Aankhon Se Hai Ojhal.
-Zakhmi Dil-e-Shabeer Hai Akbar Se Zyada Zainab Ko Khabar Hai.
- Muhsin Abhi Likha Hai Musayab Ka Khulasa Dil Phatta Hai Mera.
-Tafseel-e-Musayab Ki Hai Zahra Ko Khabar Ya Zainab Ko Khabar Hai.
+۴
+جس کے بنا شبیر کا کٹتا نہ تھا اک پل، آنکھوں سے ہے اوجھل
+زخمی دلِ شبیر ہے اکبر سے زیادہ، زینب کو خبر ہے
+محسن ابھی لکھا ہے مصائب کا خلاصہ، دل پھٹتا ہے میرا
+تفصیلِ مصائب کی ہے زہرا کو خبر یا زینب کو خبر ہے

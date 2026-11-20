@@ -13,7 +13,7 @@ aliases: ["Matam Karo Azadaro"]
 published: true
 romanLyrics: |-
   Ujre Muhammad ke ghar ka maatam karo azaadaaroṅ
-  Karbal ki shaam o sehar ka maatam karo azaadaaroṅ
+  Karbal ki shaam o sahar ka maatam karo azaadaaroṅ
 
   1
   Hamshakl-e-Ahmad tha haaye karyal jawaaṅ Ali Akbar
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Kuchh is tarah se shaqi ne bundoṅ ko kaanoṅ se khincha
-  Zakhmi laweṅ ho gayi thi kaanoṅ se tha khun rista
+  Zakhmi labeṅ ho gayi thi kaanoṅ se tha khun rista
   Chhine gaye us gohar ka maatam karo azaadaaroṅ
 
   7
@@ -51,7 +51,7 @@ romanLyrics: |-
   Beparda Zainab ke sar ka maatam karo azaadaaroṅ
 
   8
-  Rudaad Karbobala ki kaise koi bhul paaye
+  Rudaad Karb o Bala ki kaise koi bhul paaye
   Khaadim likhe is ko kaise Rehaan kaise sunaaye
   Gham se bhari is khabar ka maatam karo azaadaaroṅ
 ---

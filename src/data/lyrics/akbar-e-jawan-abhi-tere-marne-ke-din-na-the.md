@@ -8,80 +8,48 @@ poet: "Raza"
 tags: []
 aliases: []
 published: false
-romanLyrics: '1. Akbar haye Akbar haye Akbar
-
-  Akbar jawan abhi tere marne ke din na thay
-
+romanLyrics: |-
+  Akbar haaye Akbar haaye Akbar
+  Akbar jawaan abhi tere marne ke din na the
 
   1
-
-  Apne laho mai app sawarne ke din na thay
-
+  Apne lahu meiṅ aap sanwarne ke din na the
 
   2
-
-  2. Rukhta nahin hai seenay se jo khoon hai rawan
-
-  Aey lal yeh bata do ke kis jaa lagi sina
-
-  Apni reazaton ka khazeena to dekh loon
-
-  Akbar hatao hath mai sena tou dekh lon
-
+  Rukta nahiṅ hai sine se jo khun hai rawaaṅ
+  Ae laal yeh bata do ke kis jaa lagi sinaaṅ
+  Apni riyaazatoṅ ka khazina to dekh luṅ
+  Akbar hataao haath meiṅ sina to dekh luṅ
 
   3
-
-  3. Tum kiya giray ho maqtal me uth na saka Hussain
-
-  Tum ko sina lagi hai or zakhmi hua Hussain
-
-  Ankhein jo tum churate ho dil chortay hain hum
-
-  Tum hichkiyan jo laite ho dum tortay hein hum
-
+  Tum kya gire ho maqtal meiṅ uth na saka Husain
+  Tum ko sina lagi hai aur zakhmi hua Husain
+  Aaṅkheiṅ jo tum churaate ho dil chhorte haiṅ ham
+  Tum hichkiyaaṅ jo lete ho dam torte haiṅ ham
 
   4
-
-  4. Olaad pe jab ata hai atharwan baraas
-
-  Khushiyan samait lata hai atharwan baras
-
-  Dhulha say app lagtay thay har aik libas mein
-
-  Dil maa ka shad rehta tha sehra ki ass mein
-
+  Aulaad pe jab aata hai athaarwaaṅ baras
+  Khushiyaaṅ samet laata hai athaarwaaṅ baras
+  Dulha se aap lagte the har ik libaas meiṅ
+  Dil maaṅ ka shaad rehta tha sehre ki aas meiṅ
 
   5
-
-  5. Qasid khara hai pehlu mein aey lal dekh lo
-
-  Sughra duayain daiti hai aameen tou kaho
-
-  Rakhta hoon khat ko lash pe dilbar jawab do
-
-  Sughra salam kehti hai Akbar jawab do
-
+  Qaasid khara hai pahlu meiṅ ae laal dekh lo
+  Sughra duaaeiṅ deti hai aamin to kaho
+  Rakhta huṅ khat ko laash pe dilbar jawaab do
+  Sughra salaam kehti hai Akbar jawaab do
 
   6
-
-  6. Aey Shaa-e-kibriya mujhe quwat ata karein
-
-  Lashe jawan uthaney ki himmat ata karein
-
-  Ankhon ka noor ley gaye noor-e-nazar ki lash
-
-  Khaibar ke dar se wazni hai mere pisar ki lash
-
+  Ae Sher-e-Kibriya mujhe quwwat ataa kareiṅ
+  Laash-e-jawaaṅ uthaane ki himmat ataa kareiṅ
+  Aaṅkhoṅ ka nur le gai nur-e-nazar ki laash
+  Khaibar ke dar se wazni hai mere pisar ki laash
 
   7
-
-  7. Bas ae Raza kalam ko kardo yaha tamam
-
-  Mashgool-e-girya hogya majlis me khas o aam
-
-  Sadma badan ko akbar-e-zeeshan daitey hein
-
-  Subh-e-azan daitey thay abb jan deite hein'
+  Bas ae Raza kalaam ko kar do yahaaṅ tamaam
+  Mashghul-e-girya ho gae majlis meiṅ khaas o aam
+  Sadma pidar ko Akbar-e-zishaan dete haiṅ
+  Subh azaan dete the ab jaan dete haiṅ
 ---
 
 اکبرؑ ہائے اکبرؑ ہائے اکبرؑ

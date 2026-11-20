@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Haaye garmaaye hue suraj ki kiran
   Aur god meiṅ baaba ki Asghar
-  Ye phul aba ke saaye meiṅ
+  Ye phul abaa ke saaye meiṅ
   Bedard zamaana dekh na le
 
   4

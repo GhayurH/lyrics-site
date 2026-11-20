@@ -1,36 +1,58 @@
 ---
-title: "Masaib E Sadaat Meesum Kashmiri"
+title: "مصائبِ سادات میثم کشمیری"
+alternateTitle: "Masaib E Sadaat Meesum Kashmiri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Iram"
-tags: ["noUrdu"]
+poet: "Shumaila Iram"
+reciter: "Meesum Kashmiri"
+nohaVolume: "Meesum Kashmiri 2023-24"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khuda ne sirf deein Sadaat ko sardariyaan phir bhi
+  Magar ummat ne kein unn par sitam aaraiyan phir bhi
+  Batai thi Nabi ne aal ki tauqeer ummat ko
+  Magar sehtay rahe Sadaat zulm-o-sakhtiyaan phir bhi
+  Sitam ki inteha tu ho chuki thi qatal-e-Zahra par
+  Magar Bibi ki turbat ki hoin mismariyan phir bhi
+  Ali ka sar howa tukray, kati Shabeer ki gardan
+  Sada sajday ki halat mein rahein peshaniyan phir bhi
+  Musalmaan khud yeh kehte they keh humshakal-e-Nabi hai woh
+  Bohat mari gayin Akbar ko ran mein barchiyaan phir bhi
+  Katay Ghazi ke bazo, chid gaya halq-e-Ali Asghar
+  Jahan mein reh gayin pani ki tashna kamiyan, phir bhi
+  Ali jaisay padar ne be rida dekha na tha jin ko
+  Sar-e-bazar woh layi gayin syedaniyaan phir bhi
+  Sulaya qabar mein Abid ne Masooma ko khoon ro kar
+  Abhi tak uthti hain zindaan se oss ki siskiyaan phir bhi
+  Taqi, Maula Naqi, Kazim, Raza rehbar they ummat ke
+  Sahein sab ne magar qaid-e-sitam ki sakhtiyaan phir bhi
+  Bahatar sar, jalay khaimay, ridaein, tishnagi, qaidein
+  Iram deein ki baqa ko chahiye do baliyaan phir bhi
 ---
 
-1
-Khuda Ne Sirf Deein Sadaat Ko Sardariyaan Phir Bhi.
-Magar Ummat Ne Kein Unn Par Sitam Aaraiyan Phir Bhi.
-Batai Thi Nabi Ne Aal Ki Tauqeer Ummat Ko.
-Magar Sehtay Rahe Sadaat Zulm-o-Sakhtiyaan Phir Bhi.
-Sitam Ki Inteha Tu Ho Chuki Thi Qatal-e-Zahra Par.
-Magar Bibi Ki Turbat Ki Hoin Mismariyan Phir Bhi.
-Ali Ka Sar Howa Tukray, Kati Shabeer Ki Gardan.
-Sada Sajday Ki Halat Mein Rahein Peshaniyan Phir Bhi.
-Musalmaan Khud Yeh Kehte They Keh Humshakal-e-Nabi Hai Woh.
-Bohat Mari Gayin Akbar Ko Ran Mein Barchiyaan Phir Bhi.
-Katay Ghazi Ke Bazo, Chid Gaya Halq-e-Ali Asghar.
-Jahan Mein Reh Gayin Pani Ki Tashna Kamiyan, Phir Bhi.
-Ali Jaisay Padar Ne Be Rida Dekha Na Tha Jin Ko.
-Sar-e-Bazar Woh Layi Gayin Syedaniyaan Phir Bhi.
-Sulaya Qabar Mein Abid Ne Masooma Ko Khoon Ro Kar.
-Abhi Tak Uthti Hain Zindaan Se Oss Ki Siskiyaan Phir Bhi.
-Taqi, Maula Naqi, Kazim, Raza Rehbar They Ummat Ke.
-Sahein Sab Ne Magar Qaid-e-Sitam Ki Sakhtiyaan Phir Bhi.
-Bahatar Sar, Jalay Khaimay, Ridaein, Tishnagi, Qaidein.
- Iram Deein Ki Baqa Ko Chahiye Do Baliyaan Phir Bhi.
-Poetess::Shumaila Iram:
-Noha Khowan::Meesum Kashmiri:
-Noha Volume::Meesum Kashmiri 2023-24:
+۱
+خدا نے صرف دیں سادات کو سرداریاں پھر بھی
+مگر امت نے کیں اُن پر ستم آرائیاں پھر بھی
+بتائی تھی نبی نے آل کی توقیر امت کو
+مگر سہتے رہے سادات ظلم و سختیاں پھر بھی
+ستم کی انتہا تو ہو چکی تھی قتلِ زہرا پر
+مگر بی‌بی کی تربت کی ہوئیں مسماریاں پھر بھی
+علی کا سر ہوا ٹکڑے، کٹی شبیر کی گردن
+سدا سجدے کی حالت میں رہیں پیشانیاں پھر بھی
+مسلماں خود یہ کہتے تھے کہ ہم شکلِ نبی ہے وہ
+بہت ماری گئیں اکبر کو رن میں برچھیاں پھر بھی
+کٹے غازی کے بازو، چھد گیا حلقِ علی اصغر
+جہاں میں رہ گئیں پانی کی تشنہ کامیاں، پھر بھی
+علی جیسے پدر نے بے ردا دیکھا نہ تھا جن کو
+سرِ بازار وہ لائی گئیں سیدانیاں پھر بھی
+سلایا قبر میں عابد نے معصومہ کو خون رو کر
+ابھی تک اٹھتی ہیں زنداں سے اُس کی سسکیاں پھر بھی
+تقی، مولا نقی، کاظم، رضا رہبر تھے امت کے
+سہیں سب نے مگر قیدِ ستم کی سختیاں پھر بھی
+بہتّر سر، جلے خیمے، ردائیں، تشنگی، قیدیں
+ارم دین کی بقا کو چاہیے دو بلیاں پھر بھی

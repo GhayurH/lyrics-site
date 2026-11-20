@@ -45,7 +45,7 @@ romanLyrics: |-
   Hum un ke arize laaye haiṅ
 
   6
-  Jo naam tumhara leta hai
+  Jo naam tumhaara leta hai
   Allah bhi us ko deta hai
   Khairaat burida shaanoṅ ki
   Lene ke liye hum aaye haiṅ
@@ -66,37 +66,37 @@ romanLyrics: |-
   Kha kha ke tamaache roti hai
   Zindaan ki khaak pe soti hai
   Bujh jaaye pyaas Sakina ki
-  Hum aaṅkh meiṅ aansu laaye haiṅ
+  Hum aankh meiṅ aansu laaye haiṅ
 
   10
   Ab qabr se paani lipta hai
-  Saqqa-e-Sakina pyasa hai
+  Saqqa-e-Sakina pyaasa hai
   Ab hashr talak dariya saare
-  dene ko salaami aaye haiṅ
+  Dene ko salaami aaye haiṅ
 
   11
-  Ik jaanib roza tumhara hai
-  Shabbir ka roza ek taraf
-  Bainul Haramain aa kar
-  humne daaman apne phailaaye haiṅ
+  Ik jaanib rauza tumhaara hai
+  Shabbir ka rauza ek taraf
+  Bainul Haramain aa kar hum ne
+  Daaman apne phailaaye haiṅ
 
   12
   Kya aap pe Aaqa guzri thi
-  kuch kahiye musibat apni bhi
+  Kuchh kahiye musibat apni bhi
   Bin haathoṅ ke kaise lehra kar
-  ghore se zamiṅ par aaye haiṅ
+  Ghore se zamiṅ par aaye haiṅ
 
   13
-  Zahra ke laal ka pyasa gala
-  gardan ki pusht se katta gaya
+  Zahra ke laal ka pyaasa gala
+  Gardan ki pusht se katta gaya
   Khanjar ki har ik zarbat par
-  ye arz o sama tharraye haiṅ
+  Ye arz o samaa tharraaye haiṅ
 
   14
   Ek qabr hai Shaam ke zindaan meiṅ
-  ek mashk abhi tak khaali hai
-  Hum pyasi Sakina ki khatir
-  aankhoṅ meiṅ aansu laaye haiṅ
+  Ek mashk abhi tak khaali hai
+  Hum pyaasi Sakina ki khaatir
+  Aankhoṅ meiṅ aansu laaye haiṅ
 
   15
   Darbaar Sakhi Abbas ka tha

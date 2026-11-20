@@ -1,7 +1,7 @@
 ---
 title: "ماں کو جلتے ہوئے خیموں میں وہ تڑپاتی ہے"
 recitationId: "maa-mujhe-neend"
-alternateTitle: "Maa Mujhe Nind"
+alternateTitle: "Maaṅ Mujhe Nind"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,56 +12,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maa ko jalte hue khaimoṅ meiṅ wo tarpaati hai
+  Maaṅ ko jalte hue khaimoṅ mein wo tarpaati hai
   Ek ujri hui turbat se sada aati hai
 
-  Sine laga lo lori suna do mujhko sula do maa
-  Maa mujhe nind aati hai
+  Sine laga lo lori suna do mujhko sula do maaṅ
+  Maaṅ mujhe nind aati hai
 
-  Shaam-e-gharibaaṅ meiṅ Asghar ne ran se pukaara maa
-  Maa nind aati hai nind aati hai
+  Shaam-e-gharibaaṅ mein Asghar ne ran se pukaara maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   1
   Raat hai pehli qabr ke andar kaise rahuṅ ga tanha
   Tera aanchal paas nahiṅ hai kis se bhala kheluṅ ga
-  Tu hai kahaaṅ par ye to bata de kiuṅ hai andhera maa
-  Maa nind aati hai nind aati hai
+  Tu hai kahaaṅ par ye to bata de kiuṅ hai andhera maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   2
-  Us ki kya aulaad nahiṅ thi paani tha jis se maaṅga
-  Jis se giraate hai naaqoṅ ko tir wo mujhko maara
-  Zulm to dekho tir wo mere qad se bara tha maa
-  Maa nind aati hai nind aati hai
+  Us ki kya aulaad nahiṅ thi paani tha jis se maanga
+  Jis se ghairat hai naaqoṅ ko tir wo mujhko maara
+  Zulm to dekho tir wo mere qad se bara tha maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   3
-  Teri qasam maa tir gale par khaa kar maiṅ nahiṅ tarpa
-  Dekh ke behta khuṅ mere muṅh se baba roye maiṅ nahiṅ roya
-  Lekin ae maa tir se mujhko dard hua tha maa
-  Maa nind aati hai nind aati hai
+  Teri qasam maaṅ tir gale par khaa kar main nahiṅ tarpa
+  Dekh ke behta khuṅ mere muṅh se baba roye main nahiṅ roya
+  Lekin ae maaṅ tir se mujhko dard hua tha maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   4
   Jalti zamiṅ par mujhko lita kar qabr banaayi meri
   Sabr se baba jaan ne aadhi laash chhupaayi meri
-  Lekin mitti daal ke muṅh par ro diye baba maa
-  Maa nind aati hai nind aati hai
+  Lekin mitti daal ke muṅh par ro diye baba maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   5
-  Bhaiya Ali Akbar se zyaada zakhmi hai mera seena
-  Sehm gaya dil chauṅk gaya maiṅ naiza jo mujhko maara
-  Maiṅ to sukuṅ se qabr meiṅ apni soya hua tha maa
-  Maa nind aati hai nind aati hai
+  Bhaiya Ali Akbar se zyaada zakhmi hai mera sina
+  Sehm gaya dil chaunk gaya main naiza jo mujhko maara
+  Main to sukuṅ se qabr mein apni soya hua tha maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   6
   Aakhri kaam tu kar de ye mera qabr bana de meri
   Ghoroṅ se paamaal na kar de laash chhupa de meri
-  Kaat ke sar ko le gaye zaalim reh gaya laasha maa
-  Maa nind aati hai nind aati hai
+  Kaat ke sar ko le gaye zaalim reh gaya laasha maaṅ
+  Maaṅ nind aati hai nind aati hai
 
   7
-  Naize se Sajjad tarap kar maa se Asghar bole
-  Kaise uthaati god meiṅ mujhko maa tu bandhe haathoṅ se
-  Shaam se pehle mar gaya maiṅ bhi achchha hua na maa
-  Maa nind aati hai nind aati hai
+  Naize se Sajjad tarap kar maaṅ se Asghar bole
+  Kaise uthaati god mein mujhko maaṅ tu bandhe haathoṅ se
+  Shaam se pehle mar gaya main bhi achchha hua na maaṅ
+  Maaṅ nind aati hai nind aati hai
 ---
 ماں کو جلتے ہوئے خیموں میں وہ تڑپاتی ہے
 ایک اجڑی ہوئی تربت سے صدا آتی ہے

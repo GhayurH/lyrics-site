@@ -1,29 +1,48 @@
 ---
-title: "Taqi Di Lash Te Aa Ke Kehway Zahra Musalmana New Lyrics Punjabi 2025"
+title: "تقی دی لاش تے آ کے کہوے زہرا مسلمانا"
+alternateTitle: "Taqi Di Lash Te Aa Ke Kehway Zahra Musalmana"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taqi di lash te aa ke kehway Zahra musalmana
+  Raza di pag de waris nu qatal kita musalmana
+  Mere putraan diyaan qabraan kisay ik thaan nayi baniyaan
+  Meri aoulad nu baba ewein lutiya musalmana
+
+  2
+  Taqi mera jawani wich kehway bibi qatal kita
+  Shehar Baghdad wich mainu ewein sadya musalmana
+  Taqi de zard hontaan nu aye tak ke aakhiya amari
+  Mere masoom nu pani v nayi pochiya musalmana
+
+  3
+  Taqi nu jan be waris karaya zulm aurat taun
+  Jigar aidha zehar de nal si ainj katiya musalmana
+  Taqi di lash gal la ke kehya aye Jaun ro bibi
+  Mainu rowan layi safraan de wich rakhiya musalmana
 ---
 
-1
-Taqi Di Lash Te Aa Ke Kehway Zahra Musalmana.
-Raza Di Pag De Waris Nu Qatal Kita Musalmana.
-Mere Putraan Diyaan Qabraan Kisay Ik Thaan Nayi Baniyaan.
-Meri Aoulad Nu Baba Ewein Lutiya Musalmana.
+۱
+تقی دی لاش تے آ کے کہوے زہرا مسلمانا
+رضا دی پگ دے وارث نوں قتل کیتا مسلمانا
+میرے پتراں دیاں قبراں کسے اک تھاں نئیں بنیاں
+میری اولاد نوں بابا ایویں لٹیا مسلمانا
 
-2
-Taqi Mera Jawani Wich Kehway Bibi Qatal Kita.
-Shehar Baghdad Wich Mainu Ewein Sadya Musalmana.
-Taqi De Zard Hontaan Nu Aye Tak Ke Aakhiya Amari.
-Mere Masoom Nu Pani V Nayi Pochiya Musalmana.
+۲
+تقی میرا جوانی وچ کہوے بی بی قتل کیتا
+شہر بغداد وچ مینوں ایویں سدیا مسلمانا
+تقی دے زرد ہونٹھاں نوں اے تک کے آکھیا عماری
+میرے معصوم نوں پانی وی نئیں پچھیا مسلمانا
 
-3
-Taqi Nu Jan Be Waris Karaya Zulm Aurat Taun.
-Jigar Aidha Zehar De Nal Si Ainj Katiya Musalmana.
-Taqi Di Lash Gal La Ke Kehya Aye Jaun Ro Bibi.
-Mainu Rowan Layi Safraan De Wich Rakhiya Musalmana.
+۳
+تقی نوں جاں بے وارث کرایا ظلم عورت توں
+جگر ایہدا زہر دے نال سی اینج کٹیا مسلمانا
+تقی دی لاش گل لا کے کہیا اے جون رو بی بی
+مینوں روون لئی سفراں دے وچ رکھیا مسلمانا

@@ -1,45 +1,80 @@
 ---
 title: "اتھرو لہو چہ بدلے تائیوں بیمار دے"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+alternateTitle: "Athru Laaho Ch Badlay Tayon Beemar Day"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Athru Laaho Ch Badlay Tayon Beemar Day
+
+  1
+  Abid nay vekhiya jad haye burqay lath gaye loko haar parda daar day
+
+  2
+  Karbal ch ah Musalman agh khaimyan nu la gay
+  Sir zakhmi Zahra jayua day kaar kay bay haya gay
+  Haye nal naizyan day rahay log bibiyan to chadran utaar day
+
+  3
+  Bazaar Shaam lokaan hathan tay majmay laye
+  Ay kah kay sang maran Karbal chon baghi aaye
+  Tar khoon nal hoye Abid libas vekhay haar sougwar day
+
+  4
+  Baqir day piyo nu loko manzar oh bhul na paya
+  Shimar-e-layeen ahkay jadon hukam ay sunaya
+  Mastoran qaidnan nu sirr nangay vich phirawo har ik bazaar day
+
+  5
+  Turda si holay holay zanjeer wazni pakay
+  Halat rako ch kitay ay safar dard nak ay
+  Aj teek main nahi vekhay beemar ainj day koyi sakhti sehar day
+
+  6
+  Is gal ton khon roya Sajjad chali saal ay
+  Phuphiyan nu karnay pay gaye bandh okhay Shaam walay
+  Zahra diyan jayan nay rastay vi nahi si vekhay kadi ghaar to bahar day
+
+  7
+  Beemar-e-Karbala day taboot tay jo akay
+  Aqdas duawana karday momin ay hath utha kay
+  Manzoor kaar lay Mola dukh dour hon saray haar pursadar day
 ---
 
-Athru Laaho Ch Badlay Tayon Beemar Day
+اتھرو لہو چہ بدلے تائیوں بیمار دے
 
-1
-Abid Nay Vekhiya Jad Haye Burqay Lath Gaye Loko Haar Parda Daar Day.
+۱
+عابد نے ویکھیا جد ہائے برقعے لتھ گئے لوکو ہر پردہ دار دے
 
-2
-Karbal Ch Ah Musalman Agh Khaimyan Nu La Gay
-Sir Zakhmi Zahra Jayua Day Kaar Kay Bay Haya Gay
-Haye Nal Naizyan Day Rahay Log Bibiyan To Chadran Utaar Day.
+۲
+کربل چ ایہہ مسلمان اگ خیمیاں نوں لا گئے
+سر زخمی زہرا جائیواں دے کر کے بے حیا گئے
+ہائے نال نیزیاں دے رہے لوگ بیبیاں توں چادراں اتار دے
 
-3
-Bazaar Shaam Lokaan Hathan Tay Majmay Laye
-Ay Kah Kay Sang Maran Karbal Chon Baghi Aaye
-Tar Khoon Nal Hoye Abid Libas Vekhay Haar Sougwar Day.
+۳
+بازار شام لوکاں ہتھاں تے مجمعے لائے
+ایہہ کہہ کے سنگ مارن کربل چوں باغی آئے
+تر خون نال ہوئے عابد لباس ویکھے ہر سوگوار دے
 
-4
-Baqir Day Piyo Nu Loko Manzar Oh Bhul Na Paya
-Shimar-e-layeen Ahkay Jadon Hukam Ay Sunaya
-Mastoran Qaidnan Nu Sirr Nangay Vich Phirawo Har Ik Bazaar Day.
+۴
+باقر دے پیو نوں لوکو منظر اوہ بھل نہ پایا
+شمرِ لعین آکھ کے جدوں حکم ایہہ سنایا
+مستوراں قیدناں نوں سر ننگے وچ پھراؤ ہر اک بازار دے
 
-5
-Turda Si Holay Holay Zanjeer Wazni Pakay
-Halat Rako Ch Kitay Ay Safar Dard Nak Ay
-Aj Teek Main Nahi Vekhay Beemar Ainj Day Koyi Sakhti Sehar Day.
+۵
+ٹردا سی ہولے ہولے زنجیر وزنی پا کے
+حالت رکوع چ کیتے ایہہ سفر دردناک اے
+اج تیک میں نہیں ویکھے بیمار اینج دے کوئی سختی سہر دے
 
-6
-Is Gal Ton Khon Roya Sajjad Chali Saal Ay
-Phuphiyan Nu Karnay Pay Gaye Bandh Okhay Shaam Walay
-Zahra Diyan Jayan Nay Rastay Vi Nahi Si Vekhay Kadi Ghaar To Bahar Day
+۶
+اس گل توں خون رویا سجاد چالی سال اے
+پھوپھیاں نوں کرنے پے گئے بند اوکھے شام والے
+زہرا دیاں جائیاں نے رستے وی نہیں سی ویکھے کدی گھر توں باہر دے
 
-7
-Beemar-e-Karbala Day Taboot Tay Jo Akay
-Aqdas Duawana Karday Momin Ay Hath Utha Kay
-Manzoor Kaar Lay Mola Dukh Dour Hon Saray Haar Pursadar Day.
+۷
+بیمارِ کربلا دے تابوت تے جو آ کے
+اقدس دعاواں کردے مومن اے ہتھ اٹھا کے
+منظور کر لے مولا دکھ دور ہون سارے ہر پرسہ دار دے

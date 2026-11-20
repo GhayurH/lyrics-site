@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Haath meiṅ kangna jo baandhuṅ to parhuṅ Naad-e-Ali
-  Nazar-e-bad se tujhe aada ki bachaaye maadar
+  Nazar-e-bad se tujhe aadaa ki bachaaye maadar
 
   4
   Teri baaraat meiṅ armaan ho baraati mere

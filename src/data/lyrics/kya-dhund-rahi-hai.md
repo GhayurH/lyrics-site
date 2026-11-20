@@ -26,13 +26,13 @@ romanLyrics: |-
   Asghar ke baghair ab mujh ko nahiṅ jina
 
   3
-  Zad par hai mazaalim ki ye phul si maasuma
+  Zad par mazaalim ke ye phul si maasuma
   Maqtal se kahaaṅ jaaye Shabbir ki mazluma
   Wo durroṅ ka khaana wo ashkoṅ ka pina
 
   4
   Mushkil meiṅ ghiri haaye aulaad-e-Nabi kaisi
-  Is dasht-e-musibat meiṅ hai tashnalabi kaisi
+  Is dasht-e-musibat meiṅ hai tashna labi kaisi
   Aaya nahiṅ ab tak saqqa-e-Sakina
 
   5
@@ -46,12 +46,12 @@ romanLyrics: |-
   Naize ki ani hai aur bete ka sina
 
   7
-  Ahmed ke nawaase ko maara hai Muharram meiṅ
+  Ahmad ke nawaase ko maara hai Muharram meiṅ
   Chaalis baras roye Sajjad isi gham meiṅ
   Taarikh pukaari hai gham ka mahina
 
   8
-  Hoṅ ge sar-e-mehshar bhi unche yuṅ hi sar apne
+  Hoṅ ge sar-e-mahshar bhi unche yuṅ hi sar apne
   Marqad ko ujaaloṅ se bhar deṅ ge Zafar apne
   Rakhte haiṅ lahad meiṅ hum ashkoṅ ka khazina
 

@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aao aaj azadaro Zahra ki dua le lo
-  Jageer hai Syeda ki janat ki raza le lo
-  Beti hoon Muhammad ki tehreer hai Baba ki
-  Wirsa hai Fidak mera Hasnain gawah le lo
+  Aao aaj azaadaaro Zahra ki dua le lo
+  Jaagir hai Sayyeda ki jannat ki raza le lo
+  Beti huṅ Muhammad ki tahrir hai Baaba ki
+  Wirsa hai Fadak mera Hasnain gawaah le lo
 
   2
-  Ho teri shahadat par hairan Zabeeh Allah
-  Akbar se kaha Shah ne youn hans ke qaza le lo
-  Main Sani-e-Zahra hoon cheno na meri chadar
-  Deti hoon tumhein zewar darbar bhara le lo
+  Ho teri shahaadat par hairaan Zabih Allah
+  Akbar se kahaa Shaah ne yuṅ hans ke qaza le lo
+  Main Saani-e-Zahra huṅ chhino na meri chaadar
+  Deti huṅ tumheṅ zewar darbaar bharaa le lo
 
   3
-  Seene pe karo matam Zainab ki aseeri ka
-  Behno our maon ke liye dars-e-haya le lo
-  Mureed bano sail Khaton ki chokhat par
-  Tum apne gunahon ki iss dar se shifa le lo
+  Sine pe karo maatam Zainab ki asiri ka
+  Behno aur maaoṅ ke liye dars-e-haya le lo
+  Murid bano saail Khaatun ki chaukhat par
+  Tum apne gunaahoṅ ki is dar se shifa le lo
 ---
 
 ۱

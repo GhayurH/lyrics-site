@@ -52,7 +52,7 @@ romanLyrics: |-
   Ya Hasan ya Husain ya Hasan ya Husain
 
   5
-  Hasan ek saath ae Husain tu bhi Sayyad-e-Arab
+  Hasan ek saath, ae Husain, tu bhi Sayyad-e-Arab
   Fazilatoṅ ke baab meiṅ hai tu bhi Haashmi laqab
   Husain sab se motabar hai tera shajra-e-nasab
   Sadaf meiṅ jo bhi hai gauhar wo aabdaar hai Husain
@@ -68,20 +68,20 @@ romanLyrics: |-
 
   7
   Husain teri thokaroṅ meiṅ masnad-e-Yazid hai
-  Husain tere gham meiṅ jis ne jaan di shahid hai
-  Husain tera munharif lain hai palid hai
+  Husain tere gham meiṅ jis ne jaan di, shahid hai
+  Husain tera munharif la'in hai palid hai
   Jahaaṅ meiṅ nasl-e-Shimr ab bhi barqaraar hai Husain
   Ke jis ko tera tazkira bhi naagawaar hai Husain
 
   8
-  Chali jo teri tegh kufr muṅh chhupa ke reh gaya
+  Chali jo teri tegh, kufr muṅh chhupa ke reh gaya
   Yam-e-Furaat meiṅ mulukiyat ka qasr beh gaya
   Zamir-e-muftiyaaṅ-e-din farosh bhi ye keh gaya
   Payambaraana azmatoṅ ka wirsa daar hai Husain
   Bina-e-la ilaaha din-e-Kirdigaar hai Husain
 
   9
-  Sabil taaziye alam julus o maatam-e-aza
+  Sabil taaziye alam julus o maatam-e-azaa
   Majaal hai jo ruk sake ye majlisoṅ ka silsila
   Sabab is ehtimaam ka faqat dua-e-Sayyeda
   Har ek baargaah teri yaadgaar hai Husain
@@ -116,7 +116,7 @@ romanLyrics: |-
   Na koi dost hai na koi gham gusaar hai Husain
 
   14
-  Sauubateiṅ guzar gaiṅ musibateiṅ guzar gaiṅ
+  Suubateiṅ guzar gaiṅ musibateiṅ guzar gaiṅ
   Bayaaṅ na ho sake kabhi jo aafateiṅ guzar gaiṅ
   Nabi ke ahl-e-bait par qayaamateiṅ guzar gaiṅ
   Isi sabab ye kaainaat sogwaar hai Husain

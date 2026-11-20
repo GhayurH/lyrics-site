@@ -12,41 +12,41 @@ tags: []
 aliases: ["Abaad Ghar Hussain"]
 published: true
 romanLyrics: |-
-  Aabad ghar Husain ka viran ho gaya
-  Shahr-e-Rasul-e-Haq bara sunsan ho gaya
+  Aabaad ghar Husain ka viraan ho gaya
+  Shahr-e-Rasul-e-Haq bara sunsaan ho gaya
 
   1
-  Jalti zamiṅ pe gir pare jab Akbar-e-jawaaṅ
+  Jalti zamiṅ pe gir pare jab Akbar jawaaṅ
   Laashe pe Shah pahunche to andher tha jahaṅ
-  Laila se dekha jaega kis tarha ye samaṅ
-  Karil jawaaṅ ke sine meiṅ tuti hui sinaṅ
+  Laila se dekha jaega kis tarah ye samaṅ
+  Karil jawaaṅ ke sine meiṅ tuti hui sinaaṅ
 
   2
-  Aankhoṅ meiṅ Sheh ki did ka armaṅ laboṅ pe jaaṅ
-  Hail hai darmiyan meiṅ ek tir-e-jaaṅ nisaṅ
-  Rone lage tarap ke Shahanshah-e-ins o jaaṅ
+  Aankhoṅ meiṅ Sheh ki did ka armaaṅ laboṅ pe jaaṅ
+  Haail hai darmiyaan meiṅ ek tir-e-jaa nisaaṅ
+  Rone lage tarap ke Shahanshaah-e-ins o jaaṅ
 
   3
   Kya hausle the tifl-e-Shah-e-benazir ke
   The nehr par buland irade saghir ke
-  Tewar ayaṅ the rukh se Janab-e-Amir ke
+  Tewar ayaaṅ the rukh se Janab-e-Amir ke
   Nanha sa ek gala tha muqabil meiṅ tir ke
 
   4
   Beta khara hai saamne aur berida behen
   Jakra hua hai tauq o salasil meiṅ saara tan
   Baba ki laash ran meiṅ hai begor o bekafan
-  Sadme se kaanpne laga Sajjad ka badan
+  Sadme se kaanpne laga Sajjaad ka badan
 
   5
-  Karbobala se karwaṅ Kufa hua rawaṅ
-  Uṅtoṅ ki nangi pusht pe baithi haiṅ Bibiyaṅ
-  Hai sar khula har ek ka baazu meiṅ resmaṅ
-  Zainab tarap ke dekhti hai su-e-aasmaṅ
+  Karbobala se kaarwaaṅ Kufa hua rawaaṅ
+  Untoṅ ki nangi pusht pe baithi haiṅ bibiyaaṅ
+  Hai sar khula har ek ka baazu meiṅ resmaaṅ
+  Zainab tarap ke dekhti hai su-e-aasmaaṅ
 
   6
-  Tarik qaidkhane meiṅ jab qafila gaya
-  Ro kar Sakina boli ke Amma ye kya hua
+  Taarik qaid khaane meiṅ jab qaafila gaya
+  Ro kar Sakina boli ke Ammaaṅ ye kya hua
   Kya waqt meri maut ka nazdik aa gaya
   Bano pukari ye na kaho meri dilruba
 
@@ -54,25 +54,25 @@ romanLyrics: |-
   Tasht-e-tila meiṅ farq-e-Shah-e-Din tha rakha
   Aur ek taraf khara hua kunba Rasul ka
   Hoṅtoṅ pe phir Husain ke woh zulm ho gaya
-  Zainab ka natawan badan kaanpta raha
+  Zainab ka nataawaan badan kaanpta raha
 
   8
-  Jaari the qaidiyoṅ pe mazalim ke silsile
+  Jaari the qaidiyoṅ pe mazaalim ke silsile
   Asna-e-rah-e-Kufa meiṅ the sakht marhale
-  Uṅtoṅ se gir ke mar gaye bachche Husain ke
-  Godi gharib maaoṅ ki viran kar gaye
+  Untoṅ se gir ke mar gaye bachche Husain ke
+  Godi gharib maaoṅ ki viraan kar gaye
 
   9
-  Tha hichkiyoṅ ke darmiyaṅ khwahar ka ye bayaṅ
-  Hai shiddat-e-atash se mere khushk ustukhwaṅ
+  Tha hichkiyoṅ ke darmiyaaṅ khwaahar ka ye bayaaṅ
+  Hai shiddat-e-atash se mere khushk ustukhwaaṅ
   Thandi jagah pe dafn karo hum ko Bhai Jaan
-  Sar ko jhukaye rote the Sajjad-e-natawaṅ
+  Sar ko jhukaye rote the Sajjaad-e-nataawaaṅ
 
   10
   Hai zikr subh o shaam Shah-e-Mashriqain ka
-  Karbal ke tashnakaam ka Zehra ke chain ka
-  Matam hai dilbar-e-Shah-e-Badr o Hunain ka
-  Ahsan hayat apni hai sadqa Husain ka
+  Karbal ke tashna kaam ka Zehra ke chain ka
+  Maatam hai dilbar-e-Shah-e-Badr o Hunain ka
+  Ahsan hayaat apni hai sadqa Husain ka
 ---
 آباد گھر حسین کا ویران ہو گیا
 شہرِ رسولِ حق بڑا سنسان ہو گیا

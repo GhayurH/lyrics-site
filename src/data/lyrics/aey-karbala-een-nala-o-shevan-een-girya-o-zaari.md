@@ -1,6 +1,6 @@
 ---
 title: "اے کربلا ایں نالہ و شیون ایں گریہ و زاری"
-alternateTitle: "Aey Karbala, Een Nala o Shevan, Een Girya o Zaari"
+alternateTitle: "Ae Karbala, Iṅ Naala o Shevan, Iṅ Girya o Zaari"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,51 +8,51 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Karbala
-  En Nara O Shevan En Girya O Zaari Dar Khaeyma-e-Shabbir Bapa shud
-  Aey Karbala Karbala Aey Karbala
+  Ae Karbala
+  Iṅ naala o shevan, iṅ girya o zaari dar khaima-e-Shabbir bapa shud
+  Ae Karbala Karbala ae Karbala
 
   1
-  Jar janib haey sitamgar (be khata aal-e-PAeyambar)
-  Koi be maqna o chadar (koi be hosh zamee par)
-  Shud Zainab-e girya ba haal-e-pareshaa as dast-e-sitamgar be rida shud
-  Aey Karbala Karbala Aey Karbala
+  Har jaanib haaye sitamgar (be khata aal-e-Payambar)
+  Koi be maqna o chaadar (koi behosh zamiṅ par)
+  Shud Zainab-e-giryaaṅ ba haal-e-pareshaaṅ az dast-e-sitamgar be rida shud
+  Ae Karbala Karbala ae Karbala
 
   2
-  Jal uthao aag se sehra (kahi khAeyma kahi jhoola)
-  Har taraf Aeyk hAey manzar (kahi matam kahi noha)
-  As aatishe shoza aznaar-e-Farawa paamaal-e-sitam aale aba shud
-  Aey Karbala Karbala Aey Karbala
+  Jal utha aag se sahra (kahiṅ khaima kahiṅ jhula)
+  Har taraf ek hai manzar (kahiṅ maatam kahiṅ noha)
+  Az aatish-e-sozaaṅ, az naar-e-faraawaaṅ paamaal-e-sitam aal-e-aba shud
+  Ae Karbala Karbala ae Karbala
 
   3
-  Aeya yeh kAeysa Muharram (bibiya roti hAey pAeygham)
-  Khoon barsati hAey aankhe (khoon me duba hAey parcham)
-  Aamacho Muharram girya khona aalam khoona ba fisha chashme aza shud
-  Aey Karbala Karbala Aey Karbala
+  Aaya yeh kaisa Muharram (Bibiyaaṅ roti haiṅ paighaam)
+  Khun barsaati haiṅ aaṅkheṅ (khun meiṅ duba hai parcham)
+  Aamad cho Muharram, girya-e-khuṅ, aalam-e-khuṅ ba fishaaṅ chashm-e-aza shud
+  Ae Karbala Karbala ae Karbala
 
   4
-  Haey kahi laasha-e-Akbar (to kahi turbat-e-Asghar)
-  Zakhm kis derja lage hAey (hAeye Bano ke jigar par)
-  Ham shakley PAeyambar lakhte dil-e-Sarwar asteero sina asr-e-kaza shud
-  Aey Karbala Karbala Aey Karbala
+  Hai kahiṅ laasha-e-Akbar (to kahiṅ turbat-e-Asghar)
+  Zakhm kis darja lage haiṅ (haaye Bano ke jigar par)
+  Ham shakl-e-Payambar, lakht-e-dil-e-Sarwar, az tir o sana, asar-e-qaza shud
+  Ae Karbala Karbala ae Karbala
 
   5
-  Binte Zahra ki dukhaee (saat roti hAey khudaee)
-  De gAeya daag-e-judaee (haAey Abbas sa bhAey)
-  Be taab se gham khwaa shut sani-e-Zahra Abbas labe nehr fiza shud
-  Aey Karbala Karbala Aey Karbala
+  Bint-e-Zahra ki dukhaai (saath roti hai khudaai)
+  De gaya daagh-e-judaai (haaye Abbas sa bhaai)
+  Be taab se gham khwaah shud saani-e-Zahra, Abbas lab-e-nehr Fiza shud
+  Ae Karbala Karbala ae Karbala
 
   6
-  Aeyse bikra koi lasha (jAeyse bikra hua sehra)
-  Khaak par bethi hAey Farwa (aur karti hAey ye noha)
-  Lakhte dil-e-Farwa gum gashtare sehra paamaal-e-sitam noha laka shud
-  Aey Karbala Karbala Aey Karbala
+  Aise bikhra koi laasha (jaise bikhra hua sehra)
+  Khaak par baithi hai Farwa (aur karti hai yeh noha)
+  Lakht-e-dil-e-Farwa, gum gashta rah-e-sahra, paamaal-e-sitam noha laqa shud
+  Ae Karbala Karbala ae Karbala
 
   7
-  Ik taraf pyaaso ka girya (ik taraf rota hAey darya)
-  Marsiya parti hAey Fiza (aur kehti hAey ye Zehra)
-  Gham tashna labara darya-e-rawara intash nalabe kehro bara shud
-  Aey Karbala Karbala Aey Karbala
+  Ik taraf pyaasoṅ ka girya (ik taraf rota hai darya)
+  Marsiya parhti hai Fiza (aur kehti hai yeh Zahra)
+  Gham-e-tashna lab ra, darya-e-rawaaṅ ra, iṅ tashna lab-e-qahr o bala shud
+  Ae Karbala Karbala ae Karbala
 ---
 
 اے کربلا

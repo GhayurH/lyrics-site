@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Guzar gayi jo qayaamat kisi ko kya maalum
   Yatim ho gaye Hasnain o Zainab o Kulsum
-  Ali shahid hue Ali shahid hue Ali shahid hue
+  Ali shahid hue, Ali shahid hue, Ali shahid hue
 
   1
   Wo zakhm tha ke musalla lahu meiṅ dub gaya
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Sar-e-Ali pe lagi zahr meiṅ bujhi talwaar
-  Zamin chikh uthi aasmaaṅ hua bezaar
+  Zamin chikh uthi, aasmaaṅ hua bezaar
   Khuda ke ghar meiṅ luti Faatima ke ghar ki bahaar
 
   3
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Sukuṅ ke saath koi lamha bhi guzar na saka
-  Dawaayeṅ laakh hui sar ka zakhm bhar na saka
+  Dawaayeṅ laakh hui, sar ka zakhm bhar na saka
   Ye aaftaab yuṅ duba ke phir ubhar na saka
 
   7

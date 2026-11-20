@@ -1,6 +1,6 @@
 ---
 title: "ابو طالب کی مدحت کا صلہ ہرگز نہ کم لوں گا"
-alternateTitle: "Abu Talib Ki Midhat Ka Sila Hargiz Na Kam Loon Ga"
+alternateTitle: "Abu Talib Ki Midhat Ka Sila Hargiz Na Kam Luṅ Ga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,26 +10,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abu Talib ki midhat ka sila hargiz na kam loon ga
-  Main apni saat naslon ke liye Bag-e-Iram loon ga
+  Abu Talib ki midhat ka sila hargiz na kam luṅ ga
+  Main apni saat nasloṅ ke liye Baagh-e-Iram luṅ ga
 
   1
-  Sana khuwan-e-payamber ke dar-e-aqdas ka sail hoon
-  So unn se bheek lafzoon ki juda our mohtashim loon ga
-  Abu Talib ki sari aal jab hajat rawa thehri
-  Mujhe jaisi talab ho gi inhi se mohtaram loon ga
+  Sana khwaan-e-payambar ke dar-e-aqdas ka saail huṅ
+  So un se bhik lafzoṅ ki juda aur mohtashim luṅ ga
+  Abu Talib ki saari aal jab haajat rawa thehri
+  Mujhe jaisi talab hogi inhi se mohtaram luṅ ga
 
   2
-  Hasan Makhdoom ke dar se sakoon-e-qalb paon ga
-  Sakhi Shabbir ki chokhat se khairat-e-bharam loon ga
-  Daroon kis wastay sahib main ranj-o-gham ke tofaan se
-  Kabhi mushkil jo aayi tu amma zair-e-alam loon ga
+  Hasan Makhdum ke dar se sukun-e-qalb paauṅ ga
+  Sakhi Shabbir ki chaukhat se khairaat-e-bharam luṅ ga
+  Daruṅ kis waaste saahib main ranj o gham ke tufaan se
+  Kabhi mushkil jo aai to amaaṅ zer-e-alam luṅ ga
 
   3
-  Agar kuch rizq mein payi kami tu janib-e-mashhad
-  Main phailaon ga daman ko karein gay woh karam loon ga
-  Mera eman hai Sahil Ali sultan hai Sahil
-  Main apni qabar se seedha Najaf ja kar hi dam loon ga
+  Agar kuch rizq mein paai kami to jaanib-e-Mashhad
+  Main phailaauṅ ga daaman ko, kareṅ ge woh karam luṅ ga
+  Mera imaan hai Sahil, Ali sultaan hai Sahil
+  Main apni qabr se sidha Najaf ja kar hi dam luṅ ga
 ---
 
 ابو طالب کی مدحت کا صلہ ہرگز نہ کم لوں گا

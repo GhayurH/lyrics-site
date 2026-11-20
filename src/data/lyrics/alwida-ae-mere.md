@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Waqt-e-aakhir tha Haider ka nauha
   Alwida ae mere sogwaaroṅ
-  Chhor kar jaa raha huṅ maiṅ dunya
+  Chhor kar jaa raha huṅ main duniya
   Alwida ae mere sogwaaroṅ
 
   1
@@ -34,16 +34,16 @@ romanLyrics: |-
 
   4
   Har qadam par sataaya gaya huṅ
-  Besabab maiṅ rulaaya gaya huṅ
+  Besabab main rulaaya gaya huṅ
   Martaba koi samjha na mera
 
   5
-  Maiṅ ne dekha hai Zehra ka rona
+  Main ne dekha hai Zehra ka rona
   Aag ki zad pe Mohsin ko khona
-  Seh na paaya maiṅ ab tak wo sadma
+  Seh na paaya main ab tak wo sadma
 
   6
-  Jab gale meiṅ rasan bandh rahi thi
+  Jab gale mein rasan bandh rahi thi
   Mere nazdik Zainab khari thi
   Dekh kar mujh ko roti thi Zehra
 
@@ -63,8 +63,8 @@ romanLyrics: |-
   Tum ko meri qasam ab na kehna
 
   10
-  Gunjti thi ye Asif sadaaeiṅ
-  Lene aati hai Zainab balaaeiṅ
+  Gunjti thiṅ ye Asif sadaaeṅ
+  Lene aati hai Zainab balaaeṅ
   Lab pe Maula ke Aamir tha nauha
 ---
 وقتِ آخر تھا حیدر کا نوحہ

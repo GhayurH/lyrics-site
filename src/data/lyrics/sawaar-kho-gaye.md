@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye murtajiz se kaha jab uqaab o ashal ne
-  Bayaṅ ho kaise jo manzar dikhaye maqtal ne
-  Kiya sawaroṅ pe saaya ghamoṅ ke badal ne
-  Hamay rulaya hai har ek qadam har ek pal ne
-  Kisi bhi haal may hoga na kam malaal apna
-  Bayan karte hai ek dusre se haal apna
-  Sawaar kho gaye aur raahwar rote rahe
-  Haye ali akbar haye ali akbar
-  Ye ro ke kehne laga raahwar akbar ka
-  Bapa tha qaimon may kohram kaisa manzar tha
-  Mai jab shabih e mohamed ko leke ran ko chala
-  The piche piche mere baadshah-e-karbobala
-  Sada ye aati thi kuch dayr to ruko akbar
-  Palat palat ke mujhe dekhte raho akbar
-  Sawaar kho gaye aur...
-  Kaha auqaab ne maidaṅ may yuṅ lare akbar
-  Idhar saroṅ ko uraya udhar bade akbar
-  Lagi jo sine may barchi to gir gaye akbar
-  Mai dekhta hi raha phir na uth sake akbar
-  Sadayeiṅ rone ki aane lagi madine se
-  Jo khaynci baap ne barchi pisar ke sine se
-  Sawaar kho gaye aur...
-  Haye abbas haye abbas
-  Ye sun ke ashal-e-abbas ro ke kehne laga
-  Uthaye mashk o alam jab chale mere maula
-  Nazar may roab tha haathoṅ may ek tha naiza
-  Labe furaat pahunch kar bhara jo mashkeeza
-  Wo mujhse kehte the ashaal sakina pyasi hai
-  Mujhe khayaam may le chal sakina pyasi hai
-  Sawaar kho gaye aur...
-  Qadam jo maiṅ ne barhaye to shor uthne laga
-  Na jaaye qaime may abbas sab karo hamla
+  Ye Murtajiz se kaha jab Uqaab o Ashal ne
+  Bayaaṅ huṅ kaise jo manzar dikhaaye maqtal ne
+  Kiya sawaaroṅ pe saaya ghamoṅ ke baadal ne
+  Hameṅ rulaaya hai har ik qadam har pal ne
+  Kisi bhi haal meiṅ hoga na kam malaal apna
+  Bayaan karte haiṅ ik dusre se haal apna
+  Sawaar kho gaye aur raahwaar rote rahe
+  Haaye Ali Akbar haaye Ali Akbar
+  Ye ro ke kehne laga raahwaar Akbar ka
+  Bapa tha khaimoṅ meiṅ kohraam kaisa manzar tha
+  Main jab shabih-e-Muhammad ko leke ran ko chala
+  The pichhe pichhe mere baadshaah-e-Karbobala
+  Sada ye aati thi kuchh der to ruko Akbar
+  Palat palat ke mujhe dekhte raho Akbar
+  Sawaar kho gaye...
+  Kaha Uqaab ne maidaaṅ meiṅ yuṅ lare Akbar
+  Idhar saroṅ ko uraaya udhar barhe Akbar
+  Lagi jo sine meiṅ barchhi to gir gaye Akbar
+  Main dekhta hi raha phir na uth sake Akbar
+  Sadaaeṅ rone ki aane lagiṅ Madine se
+  Jo khinchi baap ne barchhi pisar ke sine se
+  Sawaar kho gaye...
+  Haaye Abbas haaye Abbas
+  Ye sun ke Ashal-e-Abbas ro ke kehne laga
+  Uthaaye mashk o alam jab chale mere Maula
+  Nazar meiṅ roab tha haathoṅ meiṅ ek neza tha
+  Lab-e-Furaat pahunch kar bhara jo mashkiza
+  Wo mujh se kehte the Ashal Sakina pyaasi hai
+  Mujhe khiyaam meiṅ le chal Sakina pyaasi hai
+  Sawaar kho gaye...
+  Qadam jo main ne barhaaye to shor uthne laga
+  Na jaaye khaime meiṅ Abbas sab karo hamla
   Kate jo haath alam khaak par hua thanda
-  Chidi jo mashk to pani bhi beh gaya saara
-  Laga jo gurz to phir na sambhal sake maula
-  Zamiṅ pe zin se chehre ke bal gire maula
-  Sawaar kho gaye aur...
-  Haye Husain haye Husain
-  Kaha Husain ke rahwaar ne ye rote huwe
-  Gharib-e-zehra jo maqtal ki simt jaane lage
-  Kiya tha sani e zahra ne khud sawaar aa ke
-  Kaha Husain ne ae murtajiz barho aage
-  Qadam mai kaise barhata sakina lipti thi
-  Na leke ja mere baba ko mujhse kehti thi
-  Sawaar kho gaye aur...
-  Mai apne maula ko maqtal may leke jab pahuncha
-  Ajib khauf tha dushman pe sher-e-hyder ka
-  Akele pyase ko laakhoṅ ne milke ghayr liya
-  Hua gharib pe charoṅ taraf se yuṅ hamla
-  Ho garm khaak ya pathar ho tir ya naiza
-  Jo jiske haath may aaya Husain ko maara
-  Sawaar kho gaye aur...
-  Gire zamin pe to sayyeda ne thaam liya
-  Pahunch ke shimr ne khanjar gale pe jab rakha
-  Tarap ke us ghari zaalim se sayyeda ne kaha
-  Na maar laal mera tin din ka hai pyasa
-  Sadayeiṅ deti rahi maa nahi ruka khanjar
-  Mai khaak urhaata raha kat gaya Husain ka sar
-  Sawaar kho gaye aur...
-  Tha murtajiz ka ye zishan aur raza nauha
-  Akela laut ke qaimon may jab mai aaya tha
+  Chhidi jo mashk to paani bhi beh gaya saara
+  Laga jo gurz to phir na sambhal sake Maula
+  Zamiṅ pe zin se chehre ke bal gire Maula
+  Sawaar kho gaye...
+  Haaye Husain haaye Husain
+  Kaha Husain ke rahwaar ne ye rote hue
+  Gharib-e-Zehra jo maqtal ki simt jaane lage
+  Kiya tha Saani-e-Zahra ne khud sawaar aa ke
+  Kaha Husain ne ae Murtajiz barho aage
+  Qadam main kaise barhaata Sakina lipti thiṅ
+  Na leke ja mere baba ko mujh se kehti thiṅ
+  Sawaar kho gaye...
+  Main apne Maula ko maqtal meiṅ leke jab pahuncha
+  Ajib khauf tha dushman pe sher-e-Haidar ka
+  Akele pyaase ko laakhoṅ ne mil ke gher liya
+  Hua gharib pe chaaroṅ taraf se yuṅ hamla
+  Ho garm khaak ya patthar ho tir ya neza
+  Jo jis ke haath meiṅ aaya Husain ko maara
+  Sawaar kho gaye...
+  Gire zamin pe to Sayyeda ne thaam liya
+  Pahunch ke Shimr ne khanjar gale pe jab rakha
+  Tarap ke us ghari zaalim se Sayyeda ne kaha
+  Na maar laal mera tin din ka hai pyaasa
+  Sadaaeṅ deti rahi maaṅ nahiṅ ruka khanjar
+  Main khaak uraata raha kat gaya Husain ka sar
+  Sawaar kho gaye...
+  Tha Murtajiz ka ye Zishan aur Raza nauha
+  Akela laut ke khaimoṅ meiṅ jab main aaya tha
   Sakina samjhi ke maqtal se aa gaye baba
-  Nazar na aaye jo baba to mujhse ro ke kaha
-  Hai chur zakhmoṅ se kiuṅ tu ne sar jhukaya hai
-  Bata kahaṅ mere baba ko chor aaya hai
+  Nazar na aaye jo baba to mujh se ro ke kaha
+  Hai chur zakhmoṅ se kiuṅ tu ne sar jhukaaya hai
+  Bata kahaaṅ mere baba ko chhor aaya hai
 ---
 
 ۱

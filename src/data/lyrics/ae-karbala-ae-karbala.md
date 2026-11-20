@@ -38,7 +38,7 @@ romanLyrics: |-
   Shah ne kaha haaye mera sher mar gaya
 
   4
-  Zakhmi hua Akbar-e-zi jaah ka sina
+  Zakhmi hua Akbar-e-zijaah ka sina
   Barchhiyaaṅ paiwast hui garh gaya neza
   Koi bhi us waqt madadgaar nahiṅ tha
   Baap ne khud bete ke laashe ko uthaaya
@@ -54,7 +54,7 @@ romanLyrics: |-
   Qatl hui Aal-e-Nabi ghar ujar gaya
 
   6
-  Hashmi sheroṅ ka lahu beh gaya ran meiṅ
+  Haashmi sheroṅ ka lahu beh gaya ran meiṅ
   Lut gayi Kaunain ki shahzaadiyaaṅ ban meiṅ
   Aag lagaai gayi Zehra ke chaman meiṅ
   Jakra gaya haaye yatimoṅ ko rasan meiṅ
@@ -64,7 +64,7 @@ romanLyrics: |-
   7
   Aaj bhi hai waqt ke Gohar yahi naale
   Raakh hue jal gaye Saadaat ke khaime
-  Maare gaye baali Sakina ke tamaache
+  Maare gaye baali Sakina ke tamaanche
   Qaid hue Sayyid-e-Kaunain ke pyaare
   Ho gayi maqtal meiṅ Nabi zaadi berida
   Qatl hui Aal-e-Nabi ghar ujar gaya

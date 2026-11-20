@@ -21,22 +21,22 @@ romanLyrics: |-
 
   2
   Donoṅ ki gardanoṅ se dekha hai khun jaari
-  Rassi ke ek gale meiṅ ek tir se tha zakhmi
-  Ek Shaam ki musaafir ek Karbala ka pyaasa
+  Rassi ke ak gale meiṅ ak tir se tha zakhmi
+  Ak Shaam ki musaafir ak Karbala ka pyaasa
 
   3
-  Ek nur-e-chashm-e-maadar ek baap ka saputi
+  Ak nur-e-chashm-e-maadar ak baap ka saputi
   Na wo juda hua tha na ye juda hui thi
   Maaṅ baap se qaza ne pardes meiṅ chhina
 
   4
-  Ek shir khwaar bachcha ek naunihaal bachchi
+  Ak shir khwaar bachcha ak naunihaal bachchi
   Donoṅ ne laaj rakh li mazlum-e-Karbala ki
   Thukra ke Alqama ko paani piya qaza ka
 
   5
   Daaman jala behan ka bhai ka ban meiṅ jhula
-  Bhai ne tir khaaya hamshir ne tamaacha
+  Bhai ne tir khaaya hamshir ne tamaancha
   Sughra se phir watan meiṅ milne gaya koi na
 
   6

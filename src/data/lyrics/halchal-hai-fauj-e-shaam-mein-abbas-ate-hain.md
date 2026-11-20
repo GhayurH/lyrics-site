@@ -1,7 +1,7 @@
 ---
 title: "ہلچل ہے فوجِ شام میں عباسؑ آتے ہیں"
 recitationId: "halchal-hay-fauj-e-shaam-mein-abbas-atay-hain"
-alternateTitle: "Halchal Hai Fauj-e-Shaam Meiṅ Abbas Ate Haiṅ"
+alternateTitle: "Halchal Hai Fauj-e-Shaam Meiṅ Abbas Aate Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,37 +12,37 @@ aliases:
   - "Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
 published: true
 romanLyrics: |-
-  Halchal hai fauj-e-shaam meiṅ Abbas ate haiṅ
+  Halchal hai fauj-e-Shaam meiṅ Abbas aate haiṅ
 
-  Tiroṅ pe tir naizoṅ pe naize chalaty haiṅ
+  Tiroṅ pe tir naizoṅ par naize chalaate haiṅ
 
   1
-  Kya waqt parr gaya hai Muhammad ki aal par
-  Chadar nahi hai baaloṅ se mun ko chhupate haiṅ
+  Kya waqt par gaya hai Muhammad ki aal par
+  Chaadar nahiṅ hai, baaloṅ se munh ko chhupaate haiṅ
 
   2
-  Asghar ko maa chhupati hai jhuk jhuk ke goud me
-  Khaimoṅ ko torr torr ke jab tir ate haiṅ
+  Asghar ko maaṅ chhupaati hai jhuk jhuk ke god meiṅ
+  Khaimoṅ ko tor tor ke jab tir aate haiṅ
 
   3
-  Dil pani pani hota hai bachoṅ ki pyas se
-  Sukhi zubaan hontoṅ par Asghar phiraty haiṅ
+  Dil paani paani hota hai bachchoṅ ki pyaas se
+  Sukhi zabaan hontoṅ par Asghar bharaate haiṅ
 
   4
-  Ghore doraye shaam ke lashkar jo ate haiṅ
-  Kam umr bache khaimoṅ me ghabraye jate haiṅ
+  Ghore doraaye Shaam ke lashkar jo aate haiṅ
+  Kam umr bachche khaimoṅ meiṅ ghabraaye jaate haiṅ
 
   5
   Dunya ko de diya hai sabaq ye Husain ne
-  Raah-e-khuda me is tarhan sar ko kataty haiṅ
+  Raah-e-Khuda meiṅ is tarah sar ko kataate haiṅ
 
   6
-  Allah re sabar sayed-e-waala ka dekhiye
-  Rann me jawan bete ka laasha uthaty haiṅ
+  Allah re sabr Saiyad-e-waala ka dekhiye
+  Ran meiṅ jawaan bete ka laasha uthaate haiṅ
 
   7
-  Jis waqt ye suna ke mai marti huṅ pyas se
-  Mashkiza le haathoṅ me Abbas jate haiṅ
+  Jis waqt ye suna ke maiṅ marti huṅ pyaas se
+  Mashkiza le haathoṅ meiṅ Abbas jaate haiṅ
 ---
 
 ہلچل ہے فوجِ شام میں عباسؑ آتے ہیں

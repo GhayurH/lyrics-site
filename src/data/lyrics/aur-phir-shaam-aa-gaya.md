@@ -11,92 +11,92 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Karb o bala se loat ke aaya jo qafla
-  Qabr-e-Nabi pe matam-e-Shabbir jab hua
+  Karb o bala se laut ke aaya jo qaafila
+  Qabr-e-Nabi pe maatam-e-Shabbir jab hua
   Zainab ne baal khole Nabi ke mazaar par
-  Boli luta ke aayi huṅ jangal may saara ghar
+  Boli luta ke aayi huṅ jangal mein saara ghar
   Are Nana
-  May roti rahi mera ghar ujrra tera din bacha Nana
-  Laikin mere Husain ne waada nibha diya
+  Main roti rahi mera ghar ujra tera din bacha Nana
+  Lekin mere Husain ne waada nibha diya
 
   2
   Husain ya Husain ya Husain
 
   3
-  Nana tere sheher se chala
-  Zehra ka laadla Din ke kaam aa gaya
-  Salaar-e-qafla ban gaya bimar natawaṅ
+  Nana tere shahr se chala
+  Zehra ka laadla din ke kaam aa gaya
+  Saalar-e-qaafila ban gaya bimaar naatawaaṅ
   Aur phir Shaam aa gaya
 
   4
-  Raahoṅ ke sangrezon ne pursa diya use
-  Hae Nana Shaam waloṅ ne baaghi kaha use
-  Ae din ke badshah tere is mazlum laal par
+  Raahoṅ ke sang rezoṅ ne pursa diya use
+  Haaye Nana Shaam waloṅ ne baaghi kaha use
+  Ae din ke baadshaah tere us mazlum laal par
   Ye bhi ilzaam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   5
-  Ae Nana baazuoṅ may jab baandhi gayi rasan
-  May ro parhi to naize se bole Shah e zaman
-  Ae behna gham saho har gharhi ummat ke waste
-  Sun ke aaram aa gaya
+  Ae Nana baazuoṅ mein jab baandhi gayi rasan
+  Main ro pari to neze se bole shah-e-zaman
+  Ae behna gham saho har ghari ummat ke waaste
+  Sun ke aaraam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   6
-  Nana batauṅ kaise may kiya ho gaye sitam
-  Kufe ke dar pe jaise hi pohonche asir-e-gham
+  Nana bataauṅ kaise main kya ho gaye sitam
+  Kufe ke dar pe jaise hi pahunche asir-e-gham
   Abid ke lab hile dekh kar Muslim ki laash ko
   Lab pe Ash-Shaam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   7
   Waaṅ ik Yahudi rehta tha Bahya tha jis ka naam
-  Wo kalma parrh ke chaadaraiṅ le aaya khush kharam
-  Phir chadaraiṅ chini phir wohi behurmati hui
+  Woh kalma parh ke chaadareṅ le aaya khush kharaam
+  Phir chaadareṅ chhineṅ phir wohi behurmati hui
   Sabr phir kaam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   8
-  Kufe may ham jo aa gaye beparda noha gar
-  Kehta tha Kufe waloṅ se ye shimr e bad gohar
-  Hakim ko do khabar laya huṅ naizoṅ pe sab ke sar
-  Lene in-aam aa gaya
+  Kufe mein ham jo aa gaye beparda noha gar
+  Kehta tha Kufe waloṅ se ye Shimr-e-badgohar
+  Haakim ko do khabar laya huṅ nezoṅ pe sab ke sar
+  Lene inaam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   9
-  Abid ko aa ke Khuli ne gham ki khabar ye di
-  Hakim ke samne abhi peshi hai aap ki
-  Nana ye saneha aap ke sadaat ke liye
+  Abid ko aa ke Khauli ne gham ki khabar ye di
+  Haakim ke saamne abhi peshi hai aap ki
+  Nana ye saaniha aap ke saadaat ke liye
   Ban ke kohraam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   10
-  Beghairaton ke shahr may sadaat aa gaye
-  Pohonche jo dil ko thaam ke haakim ke saamne
-  Ae Nana us gharri aik ik bibi ke zehn may
-  Tera zarghaam aa gaya
+  Beghairatoṅ ke shahr mein saadaat aa gaye
+  Pahunche jo dil ko thaam ke haakim ke saamne
+  Ae Nana is ghari ek ik Bibi ke zehn mein
+  Tera zargaam aa gaya
   Aur phir Shaam aa gaya
-  Nana tere sheher se....
+  Nana tere shahr se....
 
   11
-  Wo bataiṅ likh saka hi nahi Mazhar Abidi
+  Woh baateṅ likh saka hi nahiṅ Mazhar Abidi
   Jo keh rahi thi Nana se beti Batul ki
   Ae Nana mere dard ka Irfan hai jise
-  Are ansu na ruk sakaiṅ ge kabhi us ki ankh se
+  Are aaṅsu na ruk sakeṅ ge kabhi us ki aaṅkh se
 
   12
-  Jab Shaam pohoncha qafila - hai hai hai
-  Sadaat may kohraam tha - hai hai
-  Pathar bhi lage, sau zakhm sahe
-  Durre lage, tane sahe
+  Jab Shaam pahuncha qafila - hai hai hai
+  Saadaat mein kohraam tha - hai hai
+  Patthar bhi lage, sau zakhm sahe
+  Durre lage, taane sahe
   Sab hanste rahe, ham rote rahe
-  Bas hae Hussaina kehte rahe
+  Bas haaye Husaina kehte rahe
   Husain ya Husain ya Husain
 ---
 

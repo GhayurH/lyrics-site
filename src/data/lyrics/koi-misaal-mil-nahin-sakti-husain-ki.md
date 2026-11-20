@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Alfaaz tangdast maani faqir haiṅ
   Nutq o bayaaṅ ke harf matlab haqir haiṅ
-  Mahdud zehn apni hadoṅ meiṅ asir haiṅ
+  Mahdud zehn apni haddoṅ meiṅ asir haiṅ
   Hum past kya likheṅ keh wo kitne amir haiṅ
   Bas ik yehi misaal hai Zahra ke chain ki
   Koi misaal mil nahiṅ sakti Husain ki
@@ -42,15 +42,15 @@ romanLyrics: |-
   La shai ki mamlakat meiṅ sakhi ne qadam rakha
   Laahut meiṅ jahaaṅ bane Maula ke naqsh-e-pa
   Utha wahiṅ wahiṅ khamir-e-malaaika
-  Rab-al-malaaikaat paroṅ par likha hua
+  Rabb-ul-malaaikaat paroṅ par likha hua
   Dunya samajh meiṅ aaya ye rutba Husain ka
   Jibril kiuṅ jhulaate the jhula Husain ka
 
   5
   Apni sipaah ka saahib-e-ijaad khud Husain
-  Sinoṅ meiṅ saaṅs ban ke hai aabaad khud Husain
+  Sinoṅ meiṅ saans ban ke hai aabaad khud Husain
   Hai lashkar-e-Husain ki bunyaad khud Husain
-  Abbas khud Husain haiṅ Sajjad khud Husain
+  Abbaas khud Husain haiṅ Sajjaad khud Husain
   Ban kar yaqin sinoṅ ke andar Husain haiṅ
   Ik do nahiṅ ye pure bahattar Husain haiṅ
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   Kehti thi Karbala mera mehmaan aa gaya
   Farmaaṅ rawa mera, mera sultaan aa gaya
   Aayat le ke bolta Quraan aa gaya
-  Ab kaisi bebasi mera Rehmaan aa gaya
+  Ab kaisi bebasi mera Rahmaan aa gaya
   Shirkat bata rahi hai ye bete Amir ki
   Khul kar Husain baat kareṅge Ghadir ki
 

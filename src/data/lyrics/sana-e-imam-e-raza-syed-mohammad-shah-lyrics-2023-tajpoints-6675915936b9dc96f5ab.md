@@ -1,34 +1,60 @@
 ---
-title: "Sana E Imam E Raza Syed Mohammad Shah Lyrics 2023"
+title: "ثنائے امامِ رضا"
+alternateTitle: "Sana-e-Imam-e-Raza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sana-e-Imam-e-Raza Syed Mohammad Shah
+
+  1
+  Sana-e-Imam-e-Raza mein rahon ga
+  Hamesha Najaf ki hawa mein rahon ga
+  Hai nalain-e-Maula Raza oss ke sar par
+  Main Maroof ki gard-e-pa mein rahon ga
+  Main mehman e Maula Raza reh chuka hoon
+  Jahan bhi rahon ga ana mein rahon ga
+  Hai Esa ke dil ki tamana zameen par
+  Rahon ga tu sehan-e-shifa mein rahon ga
+  Miley gi mujhe meri marzi ki janat
+  Khurasan ya Karbala mein rahon ga
+  Main Mashhad mein hoon Toor ki kya zarorat
+  Yahin jalwa gah-e-Khuda mein rahon ga
+  Main ishq-e-Raza hoon taraney ki sorat
+  Sada nobatoon ki sada mein rahon ga
+  Banaya gaya hoon main matam ki khatir
+  Sada Syeda ki dua mein rahon ga
+  Yeh behtay hoye Jaun ka khon bola
+  Dawa ban ke khak-e-shifa mein rahon ga
+  Jahan oss ke Maula wahan unn ka Akbar
+  Main bad-e-qaza Karbala mein rahon ga
 ---
 
-1
-Sana E Imam E Raza Syed Mohammad Shah
-Sana-e-Imam-e-Raza Mein Rahon Ga.
-Hamesha Najaf Ki Hawa Mein Rahon Ga.
-Hai Nalain-e-Maula Raza Oss Ke Sar Par.
-Main Maroof Ki Gard-e-Pa Mein Rahon Ga.
-Main Mehman e Maula Raza Reh Chuka Hoon.
-Jahan Bhi Rahon Ga Ana Mein Rahon Ga.
-Hai Esa Ke Dil Ki Tamana Zameen Par.
-Rahon Ga Tu Sehan-e-Shifa Mein Rahon Ga.
-Miley Gi Mujhe Meri Marzi Ki Janat.
-Khurasan Ya Karbala Mein Rahon Ga.
-Main Mashhad Mein Hoon Toor Ki Kya Zarorat.
-Yahin Jalwa Gah-e-Khuda Mein Rahon Ga.
-Main Ishq-e-Raza Hoon Taraney Ki Sorat.
-Sada Nobatoon Ki Sada Mein Rahon Ga.
-Banaya Gaya Hoon Main Matam Ki Khatir.
-Sada Syeda Ki Dua Mein Rahon Ga.
-Yeh Behtay Hoye Jaun Ka Khon Bola.
-Dawa Ban Ke Khak-e-Shifa Mein Rahon Ga.
-Jahan Oss Ke Maula Wahan Unn Ka Akbar.
-Main Bad-e-Qaza Karbala Mein Rahon Ga.
+ثنائے امامِ رضا سید محمد شاہ
+
+۱
+ثنائے امامِ رضا میں رہوں گا
+ہمیشہ نجف کی ہوا میں رہوں گا
+ہے نعلینِ مولا رضا اُس کے سر پر
+میں معروف کی گردِ پا میں رہوں گا
+میں مہمانِ مولا رضا رہ چکا ہوں
+جہاں بھی رہوں گا انا میں رہوں گا
+ہے عیسیٰ کے دل کی تمنا زمین پر
+رہوں گا تو صحنِ شفا میں رہوں گا
+ملے گی مجھے میری مرضی کی جنت
+خراسان یا کربلا میں رہوں گا
+میں مشہد میں ہوں طور کی کیا ضرورت
+یہیں جلوہ گاہِ خدا میں رہوں گا
+میں عشقِ رضا ہوں ترانے کی صورت
+سدا نوبتوں کی صدا میں رہوں گا
+بنایا گیا ہوں میں ماتم کی خاطر
+سدا سیدہ کی دعا میں رہوں گا
+یہ بہتے ہوئے جون کا خون بولا
+دوا بن کے خاکِ شفا میں رہوں گا
+جہاں اُس کے مولا وہاں اُن کا اکبر
+میں بعدِ قضا کربلا میں رہوں گا

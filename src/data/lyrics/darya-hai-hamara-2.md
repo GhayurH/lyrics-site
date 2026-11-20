@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Lo baand chuka mashk ko parcham se alamdar
+  Lo baandh chuka mashk ko parcham se alamdaar
   Darya ki taraf dekha bare ghaiz se ek baar
-  Tawiz sakina ki duaoṅ ka utha ke
+  Taawiz Sakina ki duaaoṅ ka utha ke
   Zainab se kaha baandh de baazu pe hamare
-  Is shaan se nikla suye darya wo wafadaar
-  Ek shor utha aaya shahe diṅ ka alamdar
-  Abbas alamdar abbas alamdar
-  Abbas ne ye keh ke layino ko pukara
+  Is shaan se nikla su-e-darya wo wafadaar
+  Ek shor utha aaya shah-e-diṅ ka alamdaar
+  Abbas alamdaar Abbas alamdaar
+  Abbas ne ye keh ke lainoṅ ko pukaara
   Darya hai hamara darya hai hamara
-  Hum hyder e karrar ke keh laate hai saani
-  Le jayenge pani
-  Bas keh diya hum aagaye ab choro kanara
+  Hum Haidar-e-Karraar ke kehlaate haiṅ saani
+  Le jaaeṅ ge paani
+  Bas keh diya hum aa gaye ab chhoro kinaara
   Darya hai hamara...
-  betaygh hi larne ke liye aate hai dekho
+  Betegh hi larne ke liye aate haiṅ dekho
   Lo raasta roko
-  Hat'te ho ke siffin ka dikhlaye nazara
+  Hatte ho ke Siffin ka dikhlaae nazaara
   Darya hai hamara...
-  Hum maalik o mukhtar hai is kon o makaṅ ke
-  Is aab e rawaṅ ke
-  Ye khaam khayali hai ke darya hai tumhara
+  Hum maalik o mukhtaar hai is kaun o makaaṅ ke
+  Is aab-e-rawaaṅ ke
+  Ye khatm khayaali hai ke darya hai tumhara
   Darya hai hamara...
-  Hum baazu e shabbir hai saqqa e haram hai
-  Pyasoṅ ka bharam hai
+  Hum baazu-e-Shabbir hai saqqa-e-haram hai
+  Pyaasoṅ ka bharam hai
   Shahid hai isi baat pe ye dasht bhi saara
   Darya hai hamara...
-  Hai dukhtare shabbir hamay jaan se pyari
+  Hai dukhtar-e-Shabbir hameṅ jaan se pyaari
   Hai saans hamari
-  Keh kar yehi aaye the karo zabt ka yaara
+  Keh kar yahi aaye the karo zabt ka yaara
   Darya hai hamara...
-  Pehre jo bithaye hai bohat naaz hai tum ko
-  Darya se to pucho
-  Khud tum ko batayega ye darya ka kanara
+  Pehre jo bithaae haiṅ bahut naaz hai tum ko
+  Darya se to puchho
+  Khud tum ko bataae ga ye darya ka kinaara
   Darya hai hamara...
-  Shabbir se kehti thi yehi fatema jaayi
+  Shabbir se kehti thi yahi Fatema jaayi
   Deti huṅ duhaai
-  Ye keh ke alamdar ko bulwao khudara
+  Ye keh ke alamdaar ko bulwaao khudaara
   Darya hai hamara...
-  Abbas ke marqad ke jo atraaf hai pani
-  Ye bhi hai nishani
-  Goya ke alamdar ye karta hai ishaara
+  Abbas ke marqad ke jo atraaf hai paani
+  Ye bhi hai nishaani
+  Goya ke alamdaar ye karta hai ishaara
   Darya hai hamara...
-  Abbas ke qabze meiṅ hai darya o samandar
-  Kehta hai ye safdar
-  Phir kiuṅ na azadaar lagaye yehi naara
+  Abbas ke qabze mein hai darya o samandar
+  Kehta hai ye Safdar
+  Phir kiuṅ na azaadaar lagaae yahi naara
   Darya hai hamara...
 ---
 

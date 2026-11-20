@@ -1,44 +1,79 @@
 ---
 title: "دس بابا کدوں وسنا اے میرے بابے دا ویڑا"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+alternateTitle: "Das Baba Kadon Wasna Aey Meray Babay Da Wairra"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Das nana kadon wasna aey meray babay da wairra
+
+  1
+  Kion janglaich laya aie
+  Mere babe ne dera
+  Hasrat hai mai ujri di kar puri jag de wali
+  Mendi mein lawa nana
+  Bana veer no sehra
+
+  2
+  Jeven veer to vichar ke mei nana rul gayeia
+  Enj behen tei berada
+  Na howe nakhera
+
+  3
+  Tere noor tu manavar nana ai do jahan ai
+  Mera chanana hai Akbar
+  Odhe baad hanera
+
+  4
+  Babul no ache koi mera sada wasa koi nai
+  Ik wari bhej Akbar
+  Lawe watan da phera
+
+  5
+  Din guzrea vade da tak nana shama paia
+  Nain veer lain aya
+  Na dhalea hanera
+
+  6
+  Tehrir to ki karne ghum hijar di malika de
+  Kowe ro ke kalam rahib
+  Udha dard bathera
 ---
 
-Das nana kadon wasna aey meray babay da wairra
+دس نانا کدوں وسنا اے میرے بابے دا ویڑا
 
-1
-Kion janglaich laya aie
-Mere babe ne dera
-1) Hasrat hai mai ujri di kar puri jag de wali
-Mendi mein lawa nana
-Bana veer no sehra
+۱
+کیوں جنگل اچ لایا اے
+میرے بابے نے ڈیرا
+حسرت ہے میں اجڑی دی کر پوری جگ دے والی
+مہندی میں لاواں نانا
+بنا ویر نوں سہرا
 
-2
-2) Jeven veer to vichar ke mei nana rul gayeia
-Enj behen tei berada
-Na howe nakhera
+۲
+جیویں ویر توں وچھڑ کے میں نانا رل گئی آں
+اینج بھین تے بھرا دا
+نہ ہووے نکھیڑا
 
-3
-3) Tere noor tu manavar nana ai do jahan ai
-Mera chanana hai Akbar
-Odhe baad hanera
+۳
+تیرے نور توں منور نانا ایہہ دو جہاں اے
+میرا چاننا ہے اکبر
+اوہدے بعد ہنیرا
 
-4
-4) Babul no ache koi mera sada wasa koi nai
-Ik wari bhej Akbar
-Lawe watan da phera
+۴
+بابل نوں آکھے کوئی میرا صدا وسا کوئی نئیں
+اک واری بھیج اکبر
+لاوے وطن دا پھیرا
 
-5
-5) Din guzrea vade da tak nana shama paia
-Nain veer lain aya
-Na dhalea hanera
+۵
+دن گزریا وعدے دا تک نانا شاماں پئیاں
+نئیں ویر لین آیا
+نہ ڈھلیا ہنیرا
 
-6
-6) Tehrir to ki karne ghum hijar di malika de
-Kowe ro ke kalam rahib
-Udha dard bathera
+۶
+تحریر توں کی کرنے غم ہجر دی ملکہ دے
+کہوے رو کے کلام راہب
+اوہدا درد بتھیرا

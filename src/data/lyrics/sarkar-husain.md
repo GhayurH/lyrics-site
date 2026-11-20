@@ -29,23 +29,23 @@ romanLyrics: |-
   Shabbir teri majlis hum sab ka sahaara hai
   Har dil meiṅ tu rehta hai ye dil ne pukaara hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   2
   Kya hoti hai qurbaani ye sab ko dikhaane ko
   Sar apna diya tu ne tauhid bachaane ko
-  Ghar baar lutaaya hai diṅ us ka basaane ko
+  Ghar baar lutaaya hai diṅ us ka basaana ko
   Kehte haiṅ kise saabir ye tu ne bataaya hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   3
   Akbar ki jawaani ko qurbaan kiya tu ne
-  Asghar bhi diya tu ne Ghaazi bhi diya tu ne
+  Asghar bhi diya tu ne Ghaazi bhi tu ne
   Allah re mere Maula kya kya na saha tu ne
   Diṅ teri musibat par ashkoṅ ko bahaata hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   4
   Thi Karb o bala barpa Haidar ki wilaayat par
@@ -53,15 +53,15 @@ romanLyrics: |-
   Hai qarz ye Sarwar ka har ek ibaadat par
   Ab dars ye dunya ko ta hashr sunaana hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   5
   Yaad-e-gham-e-Zainab meiṅ chalna hai julusoṅ meiṅ
   Ashkoṅ ka bhi nazraana dena hai julusoṅ meiṅ
   Maqsad gham-e-Sarwar ka parhna hai julusoṅ meiṅ
-  Ye jaan bhale jaaye is gham ko bachaana hai
+  Ye jaan bhalaa jaaye is gham ko bachaana hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   6
   Taabut o alam saare Sarwar ki nishaani hai
@@ -69,7 +69,7 @@ romanLyrics: |-
   Jhula jo uthaate haiṅ Asghar ki nishaani hai
   Har waqt gham-e-Shah ki bas yaad manaana hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   7
   Ye hathkari ye beri zewar hai gham-e-Shah ka
@@ -77,7 +77,7 @@ romanLyrics: |-
   Jo shaal-e-aza hai wo gauhar hai gham-e-Shah ka
   Arif ne kaha Nasir ye sab ko sunaana hai
   Sarkaar Husain Maula sarkaar Husain Maula
-  Sultan Husain Maula sarkaar Husain Maula
+  Sultan Husain Maula Sultan Husain Maula
 
   8
   Shahid Husain

@@ -1,6 +1,6 @@
 ---
 title: "اے شامِ غریباں کیا بھائی کی خطا تھی"
-alternateTitle: "Aey Sham-e-Ghariban Kiya Bhai Ki Khata Thi"
+alternateTitle: "Ae Shaam-e-Gharibaaṅ Kya Bhai Ki Khata Thi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey sham-e-ghariban
-  Kiya bhai ki khata thi aey sham-e-ghariban
+  Ae shaam-e-gharibaaṅ
+  Kya bhai ki khata thi, ae shaam-e-gharibaaṅ
 
   1
-  Sab khaimay jal chukain hain chadar nahi hay sar per
-  Akber raha na Ghazi aey sham-e-ghariban
+  Sab khaime jal chuke haiṅ, chaadar nahiṅ hai sar par
+  Akbar raha na Ghazi, ae shaam-e-gharibaaṅ
 
   2
-  Seenay pay sonay wali khati hay ab tamachay
-  Had ho gaye jafa ki aey sham-e-ghariban
+  Sine pe sone wali khaati hai ab tamaanche
+  Had ho gai jafa ki, ae shaam-e-gharibaaṅ
 
   3
-  Jaltay huway gharon may jhula bhi jal gaya hay
-  Rota hay aasmaan bhi aey sham-e-ghariban
+  Jalte hue gharoṅ meiṅ jhula bhi jal gaya hai
+  Rota hai aasmaan bhi, ae shaam-e-gharibaaṅ
 
   4
-  Ghash may perha hay Abid kaisay jagayey Zainab
-  Hay har taraf udasi aey sham-e-ghariban
+  Ghash meiṅ para hai Aabid, kaise jagaaye Zainab
+  Hai har taraf udaasi, ae shaam-e-gharibaaṅ
 
   5
-  Bay sar paray hain lashai Zainab kissay sada day
-  Looti gayeen ridain aey sham-e-ghariban
+  Be sar pare haiṅ laashe, Zainab kise sada de
+  Luti gaiṅ ridaaeṅ, ae shaam-e-gharibaaṅ
 
   6
-  Bazu bandhay huay hain qaidi bani hui hay
-  Koofay ki shahzadi aey sham-e-ghariban
+  Baazu bandhe hue haiṅ, qaidi bani hui hai
+  Kufe ki shahzaadi, ae shaam-e-gharibaaṅ
 ---
 
 اے شامِ غریباں

@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Saath Aabid ke rahi ban ke azaadaar-e-Husain
-  Taare ashk-e-Gham-e-Sarwar meiṅ simat kar royi zanjir
+  Taare ashk-e-gham-e-Sarwar meiṅ simat kar royi zanjir
 
   2
   Sar khule dekh kar balwe meiṅ Nabi ki itrat

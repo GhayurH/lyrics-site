@@ -16,19 +16,19 @@ romanLyrics: |-
 
   1
   Hosh Qasim ki jang ne khoye
-  Besar-e-sad ke hawaas nahiṅ
+  Be sar-e-sad ke hawaas nahiṅ
 
   2
   Dil se baateṅ ye karti thi Sughra
-  Shaah aaye safar se aas nahiṅ
+  Shaah aaeṅ safar se aas nahiṅ
 
   3
-  Yuṅ lute Shah ke baad ahl-e-haram
-  Ek chaadar kisi ke paas nahiṅ
+  Yuṅ lutaae Shih ke baad ahl-e-haram
+  Ik chaadar kisi ke paas nahiṅ
 
   4
   Ran meiṅ Asghar ko le chale haiṅ Husain
-  Chhaaoṅ tiroṅ ki inko raas nahiṅ
+  Chhaaoṅ tiroṅ ki in ko raas nahiṅ
 
   5
   Qabr-e-Asghar pe maaṅ ye kehti thi

@@ -1,47 +1,84 @@
 ---
-title: "Ali Ka Ghar Veeran Ho Gaya Sabir Habib Khan Lyrics Punjabi 2021"
+title: "علی کا گھر ویراں ہو گیا"
+alternateTitle: "Ali Ka Ghar Veeran Ho Gaya"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali ka ghar veeran ho gaya Sabir Habib Khan
+  Aana bhi Ali hai tera jana bhi Ali hai
+  Khon-e-Ali se surkh yeh Ramzan ho gaya
+  Ghar hai Ali ka Eid pe veeran ho gaya
+
+  2
+  Iss chand ki wajah se hai darain matami
+  Dekha jo chand ro ke kaha Dukhtar-e-Ali
+  Meri yateemi ka hai yeh ayelan ho gaya
+  Doba howa hai khon mein Imran ka pisar
+
+  3
+  Maqtal bana howa hai yeh logo Khuda ka ghar
+  Sajday mein qatal Natiq-e-Quran ho gaya
+  De ke chaley jahan ko sajday ka yeh hunar
+  Hain mutmain Ali tu sar de ke bhi magar
+
+  4
+  Zalim hi zulm kar ke pareshan ho gaya
+  Fuztu berab al-Kaba kahey waqt ka imam
+  De ke chala hoon aaj main Islam ko qiyam
+  Sad shukar keh main deen pe qurban ho gaya
+
+  5
+  Dohra
+  Kita qatal Quran nu wich masjid ik zalim bad kirdar aye
+  Phat gayi peshani Haider di hoya zulm da aisa waar aye
+  Khul gayi dastar Muhammad di roway nabiyaan da sardar aye
+
+  6
+  Azhar Haider di ghurbat te Baqiya v matamdar aye
+  Tar hai Ali ke khon se Dastar-e-Mustafa
+  Azhar Ali ke gham mein hai magmoom Syeda
+  Rukhsat jahan se Mazhar-e-Yazdan ho gaya
 ---
 
-1
-Ali Ka Ghar Veeran Ho Gaya Sabir Habib Khan
-Aana Bhi Ali Hai Tera Jana Bhi Ali Hai.
-Khon-e-Ali Se Surkh Yeh Ramzan Ho Gaya.
-Ghar Hai Ali Ka Eid Pe Veeran Ho Gaya.
+۱
+علی کا گھر ویراں ہو گیا صابر حبیب خان
+آنا بھی علی ہے تیرا جانا بھی علی ہے
+خونِ علی سے سرخ یہ رمضان ہو گیا
+گھر ہے علی کا عید پہ ویراں ہو گیا
 
-2
-Iss Chand Ki Wajah Se Hai Darain Matami.
-Dekha Jo Chand Ro Ke Kaha Dukhtar-e-Ali.
-Meri Yateemi Ka Hai Yeh Ayelan Ho Gaya.
-Doba Howa Hai Khon Mein Imran Ka Pisar.
+۲
+اس چاند کی وجہ سے ہے دارین ماتمی
+دیکھا جو چاند رو کے کہا دخترِ علی
+میری یتیمی کا ہے یہ اعلان ہو گیا
+ڈوبا ہوا ہے خون میں عمران کا پسر
 
-3
-Maqtal Bana Howa Hai Yeh Logo Khuda Ka Ghar.
-Sajday Mein Qatal Natiq-e-Quran Ho Gaya.
-De Ke Chaley Jahan Ko Sajday Ka Yeh Hunar.
-Hain Mutmain Ali Tu Sar De Ke Bhi Magar.
+۳
+مقتل بنا ہوا ہے یہ لوگو خدا کا گھر
+سجدے میں قتل ناطقِ قرآن ہو گیا
+دے کے چلے جہاں کو سجدے کا یہ ہنر
+ہیں مطمئن علی تو سر دے کے بھی مگر
 
-4
-Zalim Hi Zulm Kar Ke Pareshan Ho Gaya.
-Fuztu Berab Al-Kaba Kahey Waqt Ka Imam.
-De Ke Chala Hoon Aaj Main Islam Ko Qiyam.
-Sad Shukar Keh Main Deen Pe Qurban Ho Gaya.
+۴
+ظالم ہی ظلم کر کے پریشان ہو گیا
+فزت برب الکعبہ کہے وقت کا امام
+دے کے چلا ہوں آج میں اسلام کو قیام
+صد شکر کہ میں دین پہ قربان ہو گیا
 
-5
-Dohra.
-Kita Qatal Quran Nu Wich Masjid Ik Zalim Bad Kirdar Aye.
-Phat Gayi Peshani Haider Di Hoya Zulm Da Aisa Waar Aye.
-Khul Gayi Dastar Muhammad Di Roway Nabiyaan Da Sardar Aye.
+۵
+دوہڑا
+کیتا قتل قرآن نوں وچ مسجد اک ظالم بدکردار اے
+پھٹ گئی پیشانی حیدر دی ہویا ظلم دا ایسا وار اے
+کھل گئی دستار محمد دی رووے نبیاں دا سردار اے
 
-6
- Azhar Haider Di Ghurbat Te Baqiya V Matamdar Aye.
-Tar Hai Ali Ke Khon Se Dastar-e-Mustafa.
- Azhar Ali Ke Gham Mein Hai Magmoom Syeda.
-Rukhsat Jahan Se Mazhar-e-Yazdan Ho Gaya.
+۶
+اظہر حیدر دی غربت تے بقیہ وی ماتم دار اے
+تر ہے علی کے خون سے دستارِ مصطفیٰ
+اظہر علی کے غم میں ہے مغموم سیدہ
+رخصت جہاں سے مظہرِ یزداں ہو گیا

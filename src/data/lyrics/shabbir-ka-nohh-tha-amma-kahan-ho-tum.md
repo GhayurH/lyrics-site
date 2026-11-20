@@ -7,6 +7,44 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haaye meri pyaari maaṅ haaye meri pyaari maaṅ
+
+  1
+  Main rahe gaya tanha ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Ghar aa gaya huṅ Aabid-e-Muztar saunp kar
+  Zainab ke paas laadli dukhtar ko saunp kar
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Akbar bhi qatl ho gaye Ghazi nahiṅ raha
+  Laachaar ke siwa mera koi nahiṅ raha
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Umm Rabab ke ye muqaddar ki qabr hai
+  Jalti hui zamin par Asghar ki qabr hai
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Ham Karbala ke dasht mein aa kar ujar gaye
+  Kal raat tak jo saath the wo sab bichhar gaye
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Zainab ki beridaai ka saamaaṅ qarib hai
+  Din dhal raha hai shaam-e-gharibaaṅ qarib hai
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Ab khaime jalaane waale hain lutne ko hai rida
+  Ho kar asir jaaye ga zindaaṅ ko qaafila
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Ab ham bhi marne jaate hain maqtal qarib hai
+  Beaab qatl hona hamaara nasib hai
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
+  Karb o bala mein Mir Takallum thi Karbala
+  Aati thi Ali ye kisi mazlum ki sada
+  Main rahe gaya akela ammaṅ kahaaṅ ho tum
+  Shabbir ka tha nauha ammaṅ kahaaṅ ho tum
 ---
 
 ہاۓ میری پیاری ماں ہاۓ میری پیاری ماں

@@ -21,7 +21,7 @@ romanLyrics: |-
   Kaainaat-e-Mustafa meiṅ ik andhera chha gaya
 
   2
-  Ho gaye hai aaj haaye Musa Kaazim yatim
+  Ho gaya hai aaj haaye Musa Kaazim yatim
   Ambiya hai girya kunaaṅ rote haiṅ Musa-e-Kalim
   Tukre tukre ho gaya dil bolte Quraan ka
 

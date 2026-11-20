@@ -8,6 +8,55 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ayyuhan naas shomaa raa ba haqq-e-khun-e-Husain
+  In jaai josh-e-namaayaaṅ aaṅ jaai shaivan o shain
+
+  1
+  Ayyuhan naas tumheṅ khun-e-Husaini ki qasam
+  Kam na ho ranj o alam aur ye shor-e-maatam
+  Ye vo maatam hai jo Zehra o Ali karte rahe
+  Asr-e-Aashur ye maatam to Nabi karte rahe
+  Jab lutaa Fatima Zehra ka bharaa ghar ran mein
+  Alqama roti thi aur Karb o Balaa karti thi bain
+  Shod Sakina jo giraftaar-e-ajal dar zindaaṅ
+  Na rafiq na anis na dam-e-gham khwaaraaṅ
+  Mar gai Shaam ke zindaaṅ mein Sakina ghut kar
+  Qatl ke vaqt bhi aae nahiṅ bhaiyaa Akbar
+  Jis ki hasrat rahi dil mein hi rihaai na mili
+  Khuṅ bharaa kurta kafan ban gayaa marqad-e-zindaaṅ
+  Vo jo farzand-e-jawaaṅ khuld-e-sanaaṅ dar sinaa
+  Pedar-e-sokhta jaaṅ giryaaṅ konad va vailaa
+  Mar gayaa saamne athaara baras ka betaa
+  Haae is umr mein sajtaa hai saroṅ par sehraa
+  Nur aaṅkhoṅ ka gayaa thokareṅ khaate haiṅ Husain
+  Dar-e-khaima pe khari roti hai bint-e-Zehra
+  Turbat-e-Asghar-e-maasum ba maidaaṅ bini
+  Bar raa-e-ashk fashaanand Husain ibn-e-Ali
+  Ek nanhi si lahad khod ke maidaaṅ mein Husain
+  Kahte haiṅ saunpaa Khudaa ko tujhe ae nur-e-ain
+  Khwaab sab aaṅkhoṅ ka paivand hue Umm-e-Rabaab
+  Khaali jholaa huaa aur kokh tumhaari ujri
+  Rafta shod chaadar-e-Zainab sar-e-baazaar-e-jafaa
+  Sina kubi baa konand ahl-e-azaa vaavailaa
+  Sar-e-baazaar-e-jafaa bint-e-Ali bechaadar
+  Bhaai athaara the koi na rahaa sar pe magar
+  Rassiyaaṅ qaid-e-sitam ranj o alam kunbe ka gham
+  Tan ba taqdir hai is haal mein bint-e-Zehra
+  Man naa khwaaham degar zindagi aakhir-e-lashkar
+  Baad-e-Abbaas alamdaar o Ali Akbar
+  Ji ke ab kya kareṅ Shabbir ke lashkar na rahaa
+  Vo alamdaar vo Abbaas dilaavar na rahaa
+  Asr ka vaqt lie jaam-e-shahaadat aayaa
+  Rakh diyaa sajda-e-maabud mein Shabbir ne sar
+  Chashm-e-maa ashk fashaaṅ dar gham-e-Shabbir hanuz
+  Man naa khwaaham maa sivaa-e-maatam-e-Shabbir hanuz
+  Ashk aaṅkhoṅ se nahiṅ thamte haiṅ Rehaan kabhi
+  Yaad aa jaataa hai jab Shaam ka zindaan kabhi
+  Jab bhi qirtaas pe main nauha-e-Shabbir likhuṅ
+  Meri tahrir mein aataa hai mere qalb ka soz
+  Ayyuhan naas tumheṅ khun-e-Husaini ki qasam
+  Kam na ho ranj o alam aur ye shor-e-maatam
 ---
 
 ایہا الناس شما را بحق خون حسینؑ

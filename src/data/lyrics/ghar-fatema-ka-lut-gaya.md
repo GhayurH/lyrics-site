@@ -15,20 +15,20 @@ romanLyrics: |-
   Ghar Fatema ka lut gaya
 
   1
-  Maatam karo Ahl-e-Aza
+  Maatam karo ahl-e-aza
   Hai aasmaanoṅ par buka
-  Karte haiṅ maatam Ambiya
-  Hai sar barehna Mustafa
+  Karte haiṅ maatam ambiya
+  Hai sar barahna Mustafa
 
   2
   Zainab ke wo nur-e-nazar
-  Jab chal base dono pisar
-  Maaṅ ka jigar sajde meiṅ sar
+  Jab chal base donoṅ pisar
+  Maaṅ ka jigar sajde mein sar
   Rone lage Shaah-e-Huda
 
   3
   Tukre Hasan ke laal ke
-  Maqtal meiṅ the bikhre hue
+  Maqtal mein the bikhre hue
   Ab laash ye kaise uthe
   Sarwar bichhaate haiṅ abaa
 
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Laila ka aur Shabbir ka
-  Karyal jawaaṅ farzand tha
+  Kariyal jawaaṅ farzand tha
   Barchhi se dil us ka chhida
   Jalti zamiṅ par so gaya
 
@@ -48,11 +48,11 @@ romanLyrics: |-
   Abbaas saqqa-e-haram
   Haq ka nishaaṅ jis ka alam
   Jis ki wafa din ka bharam
-  Bhaai wo Shah ka baawafa
+  Bhaai wo shaah ka baawafa
 
   7
   Ummul Banin ka wo pisar
-  Bedast Ghaazi khuṅ meiṅ tar
+  Bedast ghaazi khuṅ mein tar
   Kaise gira wo khaak par
   Girya kunaaṅ hai Fatema
 
@@ -60,10 +60,10 @@ romanLyrics: |-
   Haathoṅ pe apne baap ke
   Maqtal ko Asghar jab gaye
   Ahl-e-sitam rone lage
-  Wo tir khaa kar haṅs para
+  Wo tir khaa kar hans para
 
   9
-  The muztarib ran meiṅ Husain
+  The muztarib ran mein Husain
   Ro ro ke karte the ye bain
   Kis tarah aaye dil ko chain
   Maaṅ se kaheṅ ge jaa ke kya
@@ -75,15 +75,15 @@ romanLyrics: |-
   Paamaal laasha ho gaya
 
   11
-  Aage yuṅhi barhte raho
-  Maatam yuṅhi karte raho
-  Noha yuṅhi parhte raho
+  Aage yunhi barhte raho
+  Maatam yunhi karte raho
+  Noha yunhi parhte raho
   Bint-e-Ali deṅ gi dua
 
   12
   Maatam karo Abbaas ka
   Tum ko milega hausla
-  Aankhoṅ meiṅ rakho Karbala
+  Aankhoṅ mein rakho Karbala
   Behte rahe ashk-e-aza
 
   13
@@ -101,8 +101,8 @@ romanLyrics: |-
   15
   Bechaadari bechainiyaaṅ
   Mushkil kusha ki betiyaaṅ
-  Aur baazuoṅ meiṅ rismaaṅ
-  Zanjir meiṅ Zainul Abaa
+  Aur baazuoṅ mein resmaaṅ
+  Zanjir mein Zainul Abaa
 
   16
   Durre tamaache sailiyaaṅ
@@ -114,7 +114,7 @@ romanLyrics: |-
   Shabbir ae jaan-e-Batul
   Lafzoṅ ko de qadmoṅ ki dhul
   Noha ye tu kar le qubul
-  Aezaaz ye kar de ata
+  Ezaaz ye kar de ata
 
   18
   Maatam hamaari zindagi
@@ -123,10 +123,10 @@ romanLyrics: |-
   Ham yaad rakheṅ ge sada
 
   19
-  Ab hai Rashid ashkoṅ ke bain
+  Ab hai Rasheed ashkoṅ ke bain
   Ae Fatema ke nur-e-ain
   De dil ko chain ab ya Husain
-  Pahuṅcha de ham ko Karbala
+  Pahuncha de ham ko Karbala
 ---
 
 گھر فاطمہ کا لٹ گیا

@@ -19,38 +19,38 @@ romanLyrics: |-
 
   1
   Lori tujhe sunaauṅ gi jhula jhulaauṅ gi
-  Ashkoṅ se tera chehra Asghar maiṅ dhulaauṅ gi
+  Ashkoṅ se tera chehra Asghar main dhulaauṅ gi
   Aawaaz meri sun kar lillaah zara jaago
   Kuchh bolo mere bhaiya Asghar
 
   2
   Suraj to jaa chuka hai hone laga andhera
   Taarik shaam aayi bhulo na ghar ka raasta
-  Maiṅ dar rahi huṅ bhaiya jangal meiṅ dar na jaao
+  Main dar rahi huṅ bhaiya jangal mein dar na jaao
   Kuchh bolo mere bhaiya Asghar
 
   3
-  Amma to bekhabar haiṅ maidaaṅ meiṅ kya hua hai
+  Ammaaṅ to bekhabar haiṅ maidaaṅ mein kya hua hai
   Lekin mujhe khabar hai zakhmi tera gala hai
   Haazir haiṅ ashk mere zakhmoṅ ko apne dho lo
   Kuchh bolo mere bhaiya Asghar
 
   4
-  Khushbu tere lahu ki saansoṅ meiṅ aa rahi hai
+  Khushbu tere lahu ki saansoṅ mein aa rahi hai
   Tum aao wagar na meri ab jaan jaa rahi hai
-  Dil keh raha hai mera bhai ko apne ro lo
+  Dil keh raha hai mera bhaai ko apne ro lo
   Kuchh bolo mere bhaiya Asghar
 
   5
   Aa kar dikhaao chehra dam ghut raha hai mera
-  Maiṅ bhi to dekhuṅ bhaiya hai zakhm kitna gehra
+  Main bhi to dekhuṅ bhaiya hai zakhm kitna gehra
   Ab mere sabr ko tum Asghar na aur tolo
   Kuchh bolo mere bhaiya Asghar
 
   6
   Ye khaali khaali jhula mujh ko sata raha hai
   Tere baghair Asghar dil duba jaa raha hai
-  Tum ko jo ran se laaye aawaaz duṅ maiṅ kis ko
+  Tum ko jo ran se laaye aawaaz duṅ main kis ko
   Kuchh bolo mere bhaiya Asghar
 
   7

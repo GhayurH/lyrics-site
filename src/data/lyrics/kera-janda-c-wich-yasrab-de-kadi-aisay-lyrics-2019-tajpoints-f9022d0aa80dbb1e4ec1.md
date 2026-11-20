@@ -1,29 +1,48 @@
 ---
-title: "Kera Janda C Wich Yasrab De Kadi Aisay Lyrics 2019"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کیہڑا جاندا سی وچ یثرب دے کدی ایسے"
+alternateTitle: "Kera Janda C Wich Yasrab De Kadi Aisay"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kera janda c wich Yasrab de kadi aisay welay aane ne
+  Haider de lal di maiyyat te lokaan ne teer chalane ne
+  Shabir nu kafan pawawan di hasrat jo dil wich rehni aye
+  Zahra diyaan dhiyaan Shabar nu do wari kafan pawane ne
+
+  2
+  Shabar de pak janazay te teyari hoi Karbal di
+  Jadoon pehli wari Zainab ne maiyyat toon teer hatane ne
+  Kuj neel si maa de chehray de jeray putar de jigar te aaye san
+  Aidhay jigar te zehar toon pehlaan de kuj hoor v zakhm purane ne
+
+  3
+  Aye zehar Hasan te nayi rukhna ainay jana aye Jafar Sadiq tak
+  Ik ik kar ke wich Baqiye de kuj hoor v Syed aane ne
+  Akbar Ahmad de rozay te jina dafan de pehray laye ne
+  Onna ne Hasan di qabar uttay Baqiye wich pehray lane ne
 ---
 
-1
-Kera Janda C Wich Yasrab De Kadi Aisay Welay Aane Ne.
-Haider De Lal Di Maiyyat Te Lokaan Ne Teer Chalane Ne.
-Shabir Nu Kafan Pawawan Di Hasrat Jo Dil Wich Rehni Aye.
-Zahra Diyaan Dhiyaan Shabar Nu Do Wari Kafan Pawane Ne.
+۱
+کیہڑا جاندا سی وچ یثرب دے کدی ایسے ویلے آنے نے
+حیدر دے لال دی میت تے لوکاں نے تیر چلانے نے
+شبیر نوں کفن پواون دی حسرت جو دل وچ رہنی اے
+زہرا دیاں دھیاں شبر نوں دو واری کفن پوانے نے
 
-2
-Shabar De Pak Janazay Te Teyari Hoi Karbal Di.
-Jadoon Pehli Wari Zainab Ne Maiyyat Toon Teer Hatane Ne.
-Kuj Neel Si Maa De Chehray De Jeray Putar De Jigar Te Aaye San.
-Aidhay Jigar Te Zehar Toon Pehlaan De Kuj Hoor V Zakhm Purane Ne.
+۲
+شبر دے پاک جنازے تے تیاری ہوئی کربل دی
+جدوں پہلی واری زینب نے میت توں تیر ہٹانے نے
+کجھ نیل سی ماں دے چہرے دے جیہڑے پتر دے جگر تے آئے سن
+ایہدے جگر تے زہر توں پہلاں دے کجھ ہور وی زخم پرانے نے
 
-3
-Aye Zehar Hasan Te Nayi Rukhna Ainay Jana Aye Jafar Sadiq Tak.
-Ik Ik Kar Ke Wich Baqiye De Kuj Hoor V Syed Aane Ne.
- Akbar Ahmad De Rozay Te Jina Dafan De Pehray Laye Ne.
-Onna Ne Hasan Di Qabar Uttay Baqiye Wich Pehray Lane Ne.
+۳
+اے زہر حسن تے نئیں رکنا اینے جانا اے جعفر صادق تک
+اک اک کر کے وچ بقیعے دے کجھ ہور وی سید آنے نے
+اکبر احمد دے روضے تے جنہاں دفن دے پہرے لائے نے
+اوہناں نے حسن دی قبر اتے بقیعے وچ پہرے لانے نے

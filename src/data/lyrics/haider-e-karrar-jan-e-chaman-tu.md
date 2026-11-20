@@ -5,9 +5,87 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ya Ali maula, Ali Ali Ali
+  Ali Ali maula Ali, ya Ali ya Ali
+  Jaan-e-chaman tu, shiriṅ sukhan tu
+  Rab ka dahan tu, shaah-e-zaman tu
+  Us ki duniya ghulaam hoti hai, jo Ali ka ghulaam hota hai
+  Rang Haider ka jis pe charh jaae, us ka mar kar bhi naam hota hai
+  Ali Ali maula Ali, Ali maulana Ali
+  Maula maula maula maula, Ali wali Allah
+
+  2
+  Sardaar alamdaar do aalam ka madadgaar
+  Ali Haider Karrar, Ali Haider Karrar
+  Piroṅ mein mera pir zabardast hai sarkaar
+  Shaahoṅ se bhi aala haiṅ tere dar ke gadaagar
+  Karte haiṅ ghulaami teri duniya ke Sikandar
+  Aala haiṅ amiroṅ se faqiroṅ ke muqaddar
+  Jannat ke haiṅ taajir teri dahliz ke naukar
+  Naara-e-Haidari maula, naara-e-Khaibari maula
+  Naare Safdari maula, naara-e-Qambari maula
+  Maisam ne lagaaya hai yahi naara sar-e-daar
+
+  3
+  Allah ka anmol jo shaahkaar bana hai
+  Islaam ka aala jo alamdaar bana hai
+  Mushkil mein jo nabiyoṅ ka jo madadgaar bana hai
+  Woh saare hi imaamoṅ ka jo sardaar bana hai
+  Kul-e-imaan hai maula, din ki shaan hai maula
+  Shaah-e-mardaan hai maula, sher-e-Yazdaan hai maula
+  Kehte haiṅ nabi apna jise waaris-e-dastaar
+
+  4
+  Saadaat ki purazm qiyaadat mein Ali hai
+  Shabbir ke andaaz-e-ibaadat mein Ali hai
+  Sajjaad ki Zainab ki khataabat mein Ali hai
+  Abbaas ke parcham ki jalaalat mein Ali hai
+  Ali Asghar mein bhi maula, Ali Akbar mein bhi maula,
+  Aal-e-athar mein bhi maula, haaṅ bahattar mein maula
+  Hai paak gharaana tera Islaam ka maimaar
+
+  5
+  Sarkaar ye sab aap ki zauja ki dua hai
+  Ghar ghar mein jo ye maatam-e-saadaat bapa hai
+  Har dil tere bachchoṅ ka aza khaana bana hai
+  Aaṅkheṅ haiṅ Najaf dil mein basi Karb o Bala hai
+  Ham azaadaar haiṅ maula, ham wafaadaar haiṅ maula
+  Tere gham khwaar haiṅ maula, aap sardaar haiṅ maula
+  Sarkaar bana lijiye apna hameṅ zawwaar
+  Shaah-e-mardaaṅ sher-e-Yazdaaṅ, quwwat-e-parwardigaar
+  La fata illa Ali la saif illa Zulfiqaar
+  Ba Ali ba Ali ba Ali ba Ali
+
+  6
+  Meri har fikr har soch mein rehta hai Ali
+  Nur ban kar meri aaṅkhoṅ mein chamakta hai Ali
+  Ishq ban kar meri saaṅsoṅ mein samaaya hai Ali
+  Misl-e-Quraan mere dil mein dharakta hai Ali
+  Abr-e-rahmat ki tarah mujh par barasta hai Ali
+  Ali Ali Ali
+  Faatih-e-Khaibar, Ali Ali Ali
+  Nafs-e-paighambar, Ali Ali Ali
+  Saaqi-e-Kausar, Ali Ali Ali
+  Nabiyoṅ ka yaawar, Ali Ali Ali
+  Waliyoṅ ka rehbar, Ali Ali Ali
+  Gauhar-e-mimbar, Ali Ali Ali
+  ... Dilaawar, Ali Ali Ali
+  Mera ... muqaddar, Ali Ali Ali
+
+  7
+  Sahifa-e-falak, Haider Haider
+  Wazifa-e-malak, Haider Haider
+  Arsh Ali talak, Haider Haider
+  Shehenshaah-e-Najaf, Haider Haider
+  Nuqta ba sharaf, Haider Haider
+  Sada hai har taraf, Haider Haider
+  Maula maula, Ali Ali Ali
+  Ali Ali Ali Ali
 ---
 
 ۱

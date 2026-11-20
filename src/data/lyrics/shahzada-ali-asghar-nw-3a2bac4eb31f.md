@@ -1,76 +1,105 @@
 ---
-title: "SHAHZADA ALI ASGHAR"
+title: "شاہزادہ علی اصغر"
+alternateTitle: "Shahzada Ali Asghar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shahzada Ali Asghar
+  Aye Ali Asghar
+  Shahzada Ali Asghar
+  Jo Ibne Ali ne bayan kiya
+  Suno Asghar ki maa Rabab
+  Shahzada Ali Asghar
+
+  1
+  Mai Karbobala ke maidaa(n) me,
+  Asghar ko mai lekar puhuncha tha
+  Mai wo bache ke liye pocha tha pani
+  Shahzada Ali Asghar
+
+  2
+  Kisi ek zalim ko na rehem aya,
+  Mere bhooke pyase Asghar par
+  Be rehem se Asghar ko mara tha layino ne
+  Shahzada Ali Asghar
+
+  3
+  Mere nanhe mujaheed Asghar par,
+  Teen muh ki teer jo akar lagi
+  Maine sabr kiya
+  Shahzada Ali Asghar
+
+  4
+  Asghar ke gale se bazo par,
+  Wohi teer jo mujhko chupgayi
+  Haye wo nanha Asghar
+  Shahzada Ali Asghar
+
+  5
+  Behoush jo hokar girgaye,
+  Kuch loog ne Asghar ko dekha
+  Ye qurbaani qurbaan kiya
+  Shahzada Ali Asghar
+
+  6
+  Aye Mazhar o Rizvi tune jo,
+  Asghar ka masaib likha hai
+  Zehra ki dua taa hashr likho
+  Shahzada Ali Asghar
+
+  Jo Ibne ne Ali ne bayan kiya
+  Suno Asghar ki maa Rabaab
+  Shahzada Ali Asghar
 ---
 
-Shahzada ali asghar
+شاہزادہ علی اصغر
+اے علی اصغر
+شاہزادہ علی اصغر
+جو ابنِ علی نے بیان کیا
+سنو اصغر کی ماں رباب
+شاہزادہ علی اصغر
 
-aye ali asghar (x4)
+۱
+میں کرب و بلا کے میداں میں،
+اصغر کو میں لے کر پہنچا تھا
+میں وہ بچے کے لیے پوچھا تھا پانی
+شاہزادہ علی اصغر
 
-shahzada ali asghar (x4)
+۲
+کسی ایک ظالم کو نہ رحم آیا،
+میرے بھوکے پیاسے اصغر پر
+بے رحم سے اصغر کو مارا تھا لعینوں نے
+شاہزادہ علی اصغر
 
-jo ibne ali ne bayan kiya
+۳
+میرے ننھے مجاہد اصغر پر،
+تین منہ کی تیر جو آ کر لگی
+میں نے صبر کیا
+شاہزادہ علی اصغر
 
-suno asghar ki maa rabab
+۴
+اصغر کے گلے سے بازو پر،
+وہی تیر جو مجھ کو چبھ گئی
+ہائے وہ ننھا اصغر
+شاہزادہ علی اصغر
 
-shahzada ali asghar (x4)
+۵
+بے ہوش جو ہو کر گر گئے،
+کچھ لوگ نے اصغر کو دیکھا
+یہ قربانی قربان کیا
+شاہزادہ علی اصغر
 
-(1) mai karbobala ke maidaa(n) me,
+۶
+اے مظہر و رضوی تو نے جو،
+اصغر کا مصائب لکھا ہے
+زہرا کی دعا تا حشر لکھو
+شاہزادہ علی اصغر
 
-asghar ko mai lekar puhuncha tha
-
-mai wo bache ke liye pocha tha pani
-
-shahzada ali asghar (x4)
-
-(2) kisi ek zalim ko na rehem aya,
-
-mere bhooke pyase asghar par
-
-be rehem se asghar ko mara tha layino ne
-
-shahzada ali asghar (x4)
-
-(3) mere nanhe mujaheed asghar par,
-
-teen muh ki teer jo akar lagi (x4)
-
-maine sabr kiya
-
-shahzada ali asghar (x4)
-
-(4) asghar ke gale se bazo par,
-
-wohi teer jo mujhko chupgayi
-
-haye wo nanha asghar
-
-shahzada ali asghar (X4)
-
-(5) behoush jo hokar girgaye,
-
-kuch loog ne asghar ko dekha
-
-ye qurbaani qurbaan kiya
-
-shahzada ali asghar (x4)
-
-(6) aye mazhar o rizvi tune jo,
-
-asghar ka masaib likha hai
-
-zehra ki dua taa hashr likho
-
-shahzada ali asghar (x4)
-
-jo ibne ne ali ne bayan kiya
-
-suno asghar ki maa rabaab
-
-shahzada ali asghar (x4)
+جو ابنِ نے علی نے بیان کیا
+سنو اصغر کی ماں رباب
+شاہزادہ علی اصغر

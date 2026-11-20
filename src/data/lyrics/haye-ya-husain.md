@@ -7,6 +7,71 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haaye ya Husain haaye ya Husain
+  Haaye ya Husain haaye ya Husain
+
+  1
+  Naala-e-Fatima az dasht-e-bala haaye ya Husain
+  Aah Shabbir shuma rafta kuja haaye ya Husain
+  Sar-e-tu az tan-e-tu juda shuda haaye ya Husain
+  Haaye woh Asghar beshir tera
+  Jis ko ek qatra na paani ka mila
+  Chhid gaya tir se us ka bhi gala
+  Laash ko dafn kiya sabr kiya
+  Naaz karta hai tujh par to Khuda
+
+  2
+  Haaye Akbar bhi tera qatl hua
+  Aaṅkh se nur tera jaata raha
+  Neza jab sina-e-Akbar meiṅ laga
+  Larkharaata hua maqtal ko chala
+  Charkh se aati hai paiham yeh sada
+
+  3
+  Tere Qasim ko bhi paamaal kiya
+  Umm-e-Farwa ka gulistaan luta
+  Laash ke tukroṅ ko jab yakja kiya
+  Kehta tha aaiye ya sher-e-Khuda
+  Le ke laashe ko su-e-khaima chala
+
+  4
+  Woh tera bhaai woh Abbas tera
+  Jis ka laasha hai lab-e-nahr para
+  Sher ne nahr ko qabze meiṅ liya
+  Haaye isaar ke paani na piya
+  Bas Sakina ko sada deta raha
+
+  5
+  Phir tere baad tera khaima jala
+  Aal-e-Ahmad ka sab asbaab luta
+  Ghash meiṅ tha Sayyid Sajjad tera
+  Tauq o zanjir meiṅ woh jakra gaya
+  Zaalimoṅ ne use rone na diya
+
+  6
+  Lut gai Zainab-e-muztar ki rida
+  Nauha Bibi ka yahi gunjta tha
+  Dekho kya haal bahan ka hai hua
+  Berida jaati huṅ su-e-Kufa
+  Uth ke dekho to zara haal mera
+
+  7
+  Woh Sakina woh tera mah-e-liqa
+  Jis ke kaanoṅ se lahu behta raha
+  Asr ke baad ajab zulm hua
+  Aag se jal gaya daaman us ka
+  Dasht meiṅ deti rahi tum ko woh sada
+
+  8
+  Gunjti thi yahi maqtal meiṅ sada
+  Maaṅ ko aawaaz to do bahr-e-Khuda
+  Haaṅ sada aati rahe gi yeh sada
+  Haaye mazlum o qatil-ul-abarat
+  Maajid apna bhi yahi hai nauha
+  Naala-e-Fatima az dasht-e-bala haaye ya Husain
+  Aah Shabbir shuma rafta kuja haaye ya Husain
+  Sar-e-tu az tan-e-tu juda shuda haaye ya Husain
 ---
 
 ہاۓ یاحسینؑ ہاۓ یاحسینؑ

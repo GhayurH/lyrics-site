@@ -1,32 +1,54 @@
 ---
-title: "Sheh Kehte They Dil Se Mere Liptay Raho Asghar Lyrics New Noha 03 Safar 2025 Anjuman E Guldasta E Jaffria Lahore"
+title: "شہ کہتے تھے دل سے مرے لپٹے رہو اصغر"
+alternateTitle: "Sheh Kehte They Dil Se Mere Liptay Raho Asghar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sheh kehte they dil se mere liptay raho Asghar
+  Quran mere hathoon pe parhtay raho Asghar
+
+  1
+  Dena hai tumhein baba ki Mehshar mein gawahi
+  Jo kuch yeh laeen kehta hai suntay raho Asghar
+  Ik teer chala aata tha be sheer ki janib
+  Shabbir yeh kehte rahe jeetay raho Asghar
+
+  2
+  Roti hoi aankhon se sada detey they baba
+  Jab tak yeh lehad banti hai hanstay raho Asghar
+  Jab tak na koi neza tumhein dhondne aaye
+  Iss khak ke gehwarey mein soye raho Asghar
+
+  3
+  Aye shair mere aa hi gaye ho jo sina par
+  Humrah mere Sham ko barhtey raho Asghar
+  Akbar sar-e-besheer ko maa kehti thi ro kar
+  Kis haal mein maa qaidi hai taktay raho Asghar
 ---
 
-Sheh Kehte They Dil Se Mere Liptay Raho Asghar.
-Quran Mere Hathoon Pe Parhtay Raho Asghar.
+شہ کہتے تھے دل سے مرے لپٹے رہو اصغر
+قرآن مرے ہاتھوں پہ پڑھتے رہو اصغر
 
-1
-Dena Hai Tumhein Baba Ki Mehshar Mein Gawahi.
-Jo Kuch Yeh Laeen Kehta Hai Suntay Raho Asghar.
-Ik Teer Chala Aata Tha Be Sheer Ki Janib.
-Shabbir Yeh Kehte Rahe Jeetay Raho Asghar.
+۱
+دینا ہے تمھیں بابا کی محشر میں گواہی
+جو کچھ یہ لعین کہتا ہے سنتے رہو اصغر
+اک تیر چلا آتا تھا بے شیر کی جانب
+شبیر یہ کہتے رہے جیتے رہو اصغر
 
-2
-Roti Hoi Aankhon Se Sada Detey They Baba.
-Jab Tak Yeh Lehad Banti Hai Hanstay Raho Asghar.
-Jab Tak Na Koi Neza Tumhein Dhondne Aaye.
-Iss Khak Ke Gehwarey Mein Soye Raho Asghar.
+۲
+روتی ہوئی آنکھوں سے صدا دیتے تھے بابا
+جب تک یہ لحد بنتی ہے ہنستے رہو اصغر
+جب تک نہ کوئی نیزہ تمھیں ڈھونڈنے آئے
+اس خاک کے گہوارے میں سوئے رہو اصغر
 
-3
-Aye Shair Mere Aa Hi Gaye Ho Jo Sina Par.
-Humrah Mere Sham Ko Barhtey Raho Asghar.
- Akbar Sar-e-Besheer Ko Maa Kehti Thi Ro Kar.
-Kis Haal Mein Maa Qaidi Hai Taktay Raho Asghar.
+۳
+اے شیر مرے آ ہی گئے ہو جو سناں پر
+ہمراہ مرے شام کو بڑھتے رہو اصغر
+اکبر سرِ بے شیر کو ماں کہتی تھی رو کر
+کس حال میں ماں قیدی ہے تکتے رہو اصغر

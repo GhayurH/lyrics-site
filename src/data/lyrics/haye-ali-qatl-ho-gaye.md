@@ -9,59 +9,59 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye ali qatl hogaye
+  Haaye Ali qatl ho gaye
 
   1
   Jibril de rahe the nida ke ghazab hua
-  Hyder ko qatl qanaye khaaliq meiṅ kar diya
+  Haidar ko qatl khaana-e-Khaaliq meiṅ kar diya
 
   2
-  Shehzadiyo ne jyon hi suni gham ki ye sada
-  Betaab hoke royi aur hasnain se kaha
-  Masjid meiṅ jaake dekho zara kya hai maajra
-  Ye kaun keh raha hai hue qatl murtaza
+  Shehzaadiyoṅ ne juṅ hi suni gham ki ye sada
+  Betaab ho ke roeiṅ aur Hasnain se kaha
+  Masjid meiṅ jaa ke dekho zara kya hai maajra
+  Ye kaun keh raha hai hue qatl Murtaza
 
   3
-  Zarbe layiṅ se hogaya jis dam do para sar
+  Zarb-e-laiṅ se ho gaya jis dam do paara sar
   Us dam alam se hilte the masjid ke baam o dar
   Mehraab aur musalla hua saara khuṅ meiṅ tar
   Kaampa falak to zalzala aaya zamin par
 
   4
-  Daure ye sunte hi suye masjid Hasan Husain
-  Dekha namazi karte hai naale ba shor o shain
-  Apne lahu meiṅ laut'te hai shaahe mashraqain
-  Paaya pidar ko aise kiye dono ne ye bain
+  Daure ye sunte hi su-e-masjid Hasan Husain
+  Dekha namaazi karte hai naale ba shor o shain
+  Apne lahu meiṅ lotte haiṅ shaah-e-mashraqain
+  Paaya pidar ko aise kiye donoṅ ne ye bain
 
   5
-  Dekha namaziyo ne jo betoṅ ko hat gaye
-  Hasnain bad ke apne pidar se lipat gaye
-  Naale kiye wo sunke jigar gham se phat gaye
+  Dekha namaaziyoṅ ne jo betoṅ ko hat gaye
+  Hasnain barh ke apne pidar se lipat gaye
+  Naale kiye wo sun ke jigar gham se phat gaye
   Riqqat se dostoṅ ke kaleje ulat gaye
 
   6
-  Yaṅ ho rahi thi seena zani naala o buka
-  Aayi kahiṅ khareeb se fizza ki ye sada
-  Zehra ki betiyoṅ ko nahi yaara zabt ka
-  Bechain hai wo dekhne ko haale murtaza
+  Yuṅ ho rahi thi seena zani naala o buka
+  Aayi kahiṅ qarib se Fizza ki ye sada
+  Zehra ki betiyoṅ ko nahiṅ yaara zabt ka
+  Bechain haiṅ wo dekhne ko haal-e-Murtaza
 
   7
-  Kya haal hai pidar ka na aakar bataoge
-  Hasnain se kaho ke jo unse chupaoge
-  Hyder ko jald ghar meiṅ agar tum na laaoge
+  Kya haal hai pidar ka na aa kar bataaoge
+  Hasnain se kaho ke jo un se chhupaaoge
+  Haidar ko jald ghar meiṅ agar tum na laaoge
   Zainab ko sar khule hue masjid meiṅ paaoge
 
   8
-  Awaaz sunke bole ali ye baja nahi
-  Hum besahara bekaso beaashna nahi
-  Hai paas sab rafiq ye ahle jafa nahi
-  Kufa hai kehdo beti se ye karbala nahi
+  Aawaaz sun ke bole Ali ye baja nahiṅ
+  Hum besahaara bekas o beaashna nahiṅ
+  Hai paas sab rafiq ye ahl-e-jafa nahiṅ
+  Kufa hai keh do beti se ye Karbala nahiṅ
 
   9
-  Hasnain leke baba ko pahunche khareebe dar
-  Sab hatgaye anis jo aaya ali ka ghar
-  Betaab hoke betiyaṅ nikli barehna sar
-  Lipti pidar se aah hui is tarha nohagar
+  Hasnain le ke baaba ko pahunche qarib-e-dar
+  Sab hat gaye Anis jo aaya Ali ka ghar
+  Betaab ho ke betiyaṅ nikli barahna sar
+  Lipti pidar se aah hui is tarah nauha gar
 ---
 
 ہائے علیؑ قتل ہوگئے

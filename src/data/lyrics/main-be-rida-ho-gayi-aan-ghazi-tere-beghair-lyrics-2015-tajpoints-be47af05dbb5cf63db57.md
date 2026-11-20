@@ -1,29 +1,48 @@
 ---
-title: "Main Be Rida Ho Gayi Aan Ghazi Tere Beghair Lyrics 2015"
+title: "میں بے ردا ہو گئی آں غازی تیرے بغیر"
+alternateTitle: "Main Be Rida Ho Gayi Aan Ghazi Tere Beghair"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main be rida ho gayi aan Ghazi tere beghair Asghar Khan
+  Zainab ne rasiyaan pa laiyaan Ghazi tere beghair
+  Ayeh haal saday ho gaye jis ja aakhay khalu gaye
+  Zalim jad toriya tur paiyaan Ghazi tere beghair
+
+  2
+  Veraan de naal hi mere sab haq bolan de muk gaye
+  Har gal tu jhirkaan main sehyaan Ghazi tere beghair
+  Soraj charhan di dair si khalqat galiyaan che aa gayi
+  Pathraan diyaan chawaan ho gayiyaan Ghazi tere beghair
+
+  3
+  Har ja sataya veerna zarbaan hontaan te mariyaan
+  Ik sir taun badlay le gayiyaan Ghazi tere beghair
+  Kehnday nayi Bint-e-Fatima Akbar aakhay Syeda
+  Main Umm Al-Mosayab ho gayiyaan Ghazi tere beghair
 ---
 
-1
-Main Be Rida Ho Gayi Aan Ghazi Tere Beghair Asghar Khan
-Zainab Ne Rasiyaan Pa Laiyaan Ghazi Tere Beghair.
-Ayeh Haal Saday Ho Gaye Jis Ja Aakhay Khalu Gaye.
-Zalim Jad Toriya Tur Paiyaan Ghazi Tere Beghair.
+۱
+میں بے ردا ہو گئی آں غازی تیرے بغیر اصغر خان
+زینب نے رسیاں پا لئیاں غازی تیرے بغیر
+ایہہ حال ساڈے ہو گئے جس جا آکھے کھلو گئے
+ظالم جد ٹوریا ٹر پئیاں غازی تیرے بغیر
 
-2
-Veraan De Naal Hi Mere Sab Haq Bolan De Muk Gaye.
-Har Gal Tu Jhirkaan Main Sehyaan Ghazi Tere Beghair.
-Soraj Charhan Di Dair Si Khalqat Galiyaan Che Aa Gayi.
-Pathraan Diyaan Chawaan Ho Gayiyaan Ghazi Tere Beghair.
+۲
+ویراں دے نال ہی میرے سب حق بولن دے مک گئے
+ہر گل توں جھڑکاں میں سہیاں غازی تیرے بغیر
+سورج چڑھن دی دیر سی خلقت گلیاں چے آ گئی
+پتھراں دیاں چھاواں ہو گئیاں غازی تیرے بغیر
 
-3
-Har Ja Sataya Veerna Zarbaan Hontaan Te Mariyaan.
-Ik Sir Taun Badlay Le Gayiyaan Ghazi Tere Beghair.
-Kehnday Nayi Bint-e-Fatima Akbar Aakhay Syeda.
-Main Umm Al-Mosayab Ho Gayiyaan Ghazi Tere Beghair.
+۳
+ہر جا ستایا ویرنا ضرباں ہونٹاں تے ماریاں
+اک سر توں بدلے لے گئیاں غازی تیرے بغیر
+کہندے نئیں بنتِ فاطمہ اکبر آکھے سیدہ
+میں ام المصائب ہو گئیاں غازی تیرے بغیر

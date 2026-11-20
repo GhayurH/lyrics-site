@@ -1,37 +1,63 @@
 ---
-title: "Safar E Mashhad E Muqadas"
+title: "سفرِ مشہدِ مقدس"
+alternateTitle: "Safar E Mashhad E Muqadas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Safar e Mashhad e muqadas
+
+  1
+  Kahan kissi ko yeh naimat naseeb hoti hai
+  Humein Raza ki ziyarat naseeb hoti hai
+  Mera sharf hai main zair hoon Shehar-e-Mashhad ka
+  Kissi kissi ko yeh izzat naseeb hoti hai
+  Unn ashiqon pe muqadar ko rashk hai jin ko
+  Raza ke shehar mein turbat naseeb hoti hai
+
+  2
+  Hain khush naseeb yeh zawwar aathwein Maula
+  Inhi ko aap ki janat naseeb hoti hai
+  Bas ahl-e-ishq hi peetey hain teri soni sabeel
+  Kahan kissi ko yeh lazzat naseeb hoti hai
+  Hazar lamhon ko jeeta hoon ja ke Mashhad mein
+  Mujhe wahin pe yeh saat naseeb hoti hai
+
+  3
+  Woh hukam de tu samandar palat ke aa jaye
+  Jisay Imam ki qurbat naseeb hoti hai
+  Amal jo kartay hain Farman-e-Shah-e-Mashhad par
+  Unhein Ali ki wilayat naseeb hoti hai
+  Karam hai Malika-e-Qum ka har baras Afraz
+  Raza ki mehfil-e-midhat naseeb hoti hai
 ---
 
-Safar e Mashhad e Muqadas
+سفرِ مشہدِ مقدس
 
-1
-Kahan Kissi Ko Yeh Naimat Naseeb Hoti Hai.
-Humein Raza Ki Ziyarat Naseeb Hoti Hai.
-Mera Sharf Hai Main Zair Hoon Shehar-e-Mashhad Ka.
-Kissi Kissi Ko Yeh Izzat Naseeb Hoti Hai.
-Unn Ashiqon Pe Muqadar Ko Rashk Hai Jin Ko.
-Raza Ke Shehar Mein Turbat Naseeb Hoti Hai.
+۱
+کہاں کسی کو یہ نعمت نصیب ہوتی ہے
+ہمیں رضا کی زیارت نصیب ہوتی ہے
+میرا شرف ہے میں زائر ہوں شہرِ مشہد کا
+کسی کسی کو یہ عزت نصیب ہوتی ہے
+ان عاشقوں پہ مقدر کو رشک ہے جن کو
+رضا کے شہر میں تربت نصیب ہوتی ہے
 
-2
-Hain Khush Naseeb Yeh Zawwar Aathwein Maula.
-Inhi Ko Aap Ki Janat Naseeb Hoti Hai.
-Bas Ahl-e-Ishq Hi Peetey Hain Teri Soni Sabeel.
-Kahan Kissi Ko Yeh Lazzat Naseeb Hoti Hai.
-Hazar Lamhon Ko Jeeta Hoon Ja Ke Mashhad Mein.
-Mujhe Wahin Pe Yeh Saat Naseeb Hoti Hai.
+۲
+ہیں خوش نصیب یہ زوّار آٹھویں مولا
+انہی کو آپ کی جنت نصیب ہوتی ہے
+بس اہلِ عشق ہی پیتے ہیں تیری سونی سبیل
+کہاں کسی کو یہ لذت نصیب ہوتی ہے
+ہزار لمحوں کو جیتا ہوں جا کے مشہد میں
+مجھے وہیں پہ یہ ساعت نصیب ہوتی ہے
 
-3
-Woh Hukam De Tu Samandar Palat Ke Aa Jaye.
-Jisay Imam Ki Qurbat Naseeb Hoti Hai.
-Amal Jo Kartay Hain Farman-e-Shah-e-Mashhad Par.
-Unhein Ali Ki Wilayat Naseeb Hoti Hai.
-Karam Hai Malika-e-Qum Ka Har Baras Afraz.
-Raza Ki Mehfil-e-Midhat Naseeb Hoti Hai.
+۳
+وہ حکم دے تو سمندر پلٹ کے آ جائے
+جسے امام کی قربت نصیب ہوتی ہے
+عمل جو کرتے ہیں فرمانِ شاہِ مشہد پر
+انہیں علی کی ولایت نصیب ہوتی ہے
+کرم ہے ملکۂ قم کا ہر برس افراز
+رضا کی محفلِ مدحت نصیب ہوتی ہے

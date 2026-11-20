@@ -13,7 +13,7 @@ aliases: ["Shaame Ghariban"]
 published: true
 romanLyrics: |-
   Baad-e-Husain dasht meiṅ mahshar bapa hua
-  Chhaane laga har simt se ghan ghor andhera
+  Chhaane laga har simt se jahaaṅ gor andhera
   Khaime jale ridaaeṅ chhini haaye kya hua
   Pardes meiṅ luta gaya Zahra ka gharaana
   Aayi shaam-e-gharibaṅ
@@ -25,27 +25,27 @@ romanLyrics: |-
   Sehra bhi tera dekh na paayi tu chal basa
 
   2
-  Jalte hue khaimoṅ se jo uthta raha dhuaaṅ
+  Jalte hue khaimoṅ se uthta raha dhuaaṅ
   Hairaan o pareshaan tha Shabbir ka kunba
 
   3
-  Laashe ke tukre bikhre pare the zamiṅ par
+  Laash ke tukre bikhre pare the zamiṅ par
   Paamaal is tarah hua dulhe ka saraapa
 
   4
   Bhai ko apne dhundti thi dasht-e-bala meiṅ
-  Haathoṅ meiṅ liye paani ke kuze ko Sakina
+  Haathoṅ meiṅ liye paani ke kuze ka Sakina
 
   5
-  Barsa rahe the jism pe bimaar ke kore
+  Barsa rahe the jism pe bimaar ke kure
   Is aalam-e-ghurbat meiṅ kiya shukr ka sajda
 
   6
   Ye keh rahi thi Shaah ki khwaahar lab-e-Furaat
-  Abbas dekho sar se meri chhin gayi rida
+  Abbas dekho sar se meri chhin gayi chaadar
 
   7
-  Naize chubhote jaate the durre lagaate the
+  Naize chubhote jaate the durre lagaate jaate the
   Aal-e-Nabi pe hoti rahi raat bhar jafa
 
   8

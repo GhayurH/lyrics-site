@@ -9,145 +9,66 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Haye Jab Imam Main Bana Nadeem Sarwar"
-romanLyrics: 'Haye Jab Imam Main Bana Nadeem Sarwar.
-
+romanLyrics: |-
+  Aashur ko ghash se jo phuphi jaaṅ ne uthaya
 
   1
-
-  Ashor Ko Gash Se Jo Phophi Jaan Ne Uthaya.
-
-  Jalta Howa Lutta Howa Samaan Nazar Aaya.
-
-  Baba Na Alamdar Na Lashkar Tha Hamara.
-
-  Maa Behno Ke Sar Par Bhi Ridaon Ko Na Paya.
-
-  Oss Haal Mein Dastar-e-Imamat Ko Sanbhala.
-
-  Marsiya Tha Ik Ghareeb Ka Haye Jab Imam Main Bana.
-
+  Jalta hua lutta hua saamaaṅ nazar aaya
+  Baba na Alamdar na lashkar tha hamaara
+  Maaṅ behnoṅ ke sar par bhi ridaaoṅ ko na paaya
+  Is haal mein dastaar-e-imaamat ko sambhaala
+  Marsiya tha ik ghareeb ka
+  Haaye jab imaam main bana
 
   2
-
-  Cha Chuki Thi Sham Ki Ghata.
-
-  Jal Raha Tha Haye Ghar Mera.
-
-  Lut Raha Tha Maal-o-Zar Mera.
-
-  Hans Rahe They Hum Pe Ashqiya.
-
-  Samne Phophi Thin Be Rida.
-
+  Chha chuki thi shaam ki ghata
+  Jal raha tha haaye ghar mera
+  Lut raha tha maal o zar mera
+  Hans rahe the ham pe ashqiyaa
+  Saamne phuphi thi be rida
+  Marsiya tha ik...
 
   3
-
-  Mere Samne Thi Karbala.
-
-  Giriya-o-Boka Ka Shoor Tha.
-
-  Maiyyatein Parin Thin Ja Baja.
-
-  Ro Rahi Thi Nehar-e-Alqama.
-
-  Our Main Yeh Dekhta Raha.
-
+  Haaye jab imaam...
+  Mere saamne thi Karbala
+  Giriya o buka ka shor tha
+  Maiyateṅ pari thi ja baja
+  Ro rahi thi nahr-e-Alqama
+  Aur main yeh dekhta raha
 
   4
-
-  Ho rahi thi aise ibteda
-
-  Marsiya tha ek...
-
-  Haye jab imam...
-
-  Haye shaamiyon ka ashdahaam
-
-  Aur wo ghairaton ka qatle aam
-
-  Khoon ro raha tha subho shaam
-
+  Mujh se keh rahi thi yeh phuphi
+  Masnad-e-Rasul jal gayi
+  Chal gayi Husain par chhuri
+  Ab imaam-e-waqt ho tumheṅ
 
   5
-
-  Kehke haye shaam haye shaam
-
-  Kyun na us ghadi mai mar gaya
-
-  Marsiya tha ek...
-
-  Haye jab imam...
-
-  Aaj hum pe tang hai zameen
-
-  Ro rahi hai zainabe hazeen
-
+  Ho rahi thi aise ibtidaa
+  Haaye jab imaam...
+  Haaye shaamiyoṅ ka azhdahaam
+  Aur woh ghairatoṅ ka qatl-e-aam
+  Khun ro raha hai subah o shaam
 
   6
-
-  Mai be haisiyat imam e deen
-
-  Rakh raha hoo khaak par jabeen
-
-  Kar raha hoo sajda e khuda
-
-  Marsiya tha ek...
-
-  Haye jab imam...
-
-  Sarwar o zafar wo shaam e gham
-
+  Keh ke haaye shaam, haaye shaam
+  Kiuṅ na us ghari main mar gaya
+  Marsiya tha ik...
+  Haaye jab imaam...
+  Aaj ham pe tang hai zameeṅ
+  Ro rahi hai Zainab-e-hazeeṅ
 
   7
-
-  Mujh Se Keh Rahi Thin Yeh Phophi.
-
-  Masnad-e-Rasool Jal Gayi.
-
-  Chal Gayi Hussain Par Churi.
-
-  Ab Imam-e-Waqt Ho Tumhi.
-
-  Ho Rahi Thi Aisay Ibtida.
-
+  Main be haisiyat imaam-e-deen
+  Rakh raha huṅ khaak par jabeeṅ
+  Kar raha huṅ sajda-e-Khuda
+  Marsiya tha ik...
+  Sarwar o Zafar woh shaam-e-gham
 
   8
-
-  Haye Shamiyon Ka Azdaham.
-
-  Our Woh Ghairaton Ka Qatal-e-Aam.
-
-  Khon Ro Raha Tha Subha-o-Sham.
-
-  Keh Ke Haye Sham Haye Sham.
-
-  Kyun Na Oss Ghari Main Mar Gaya.
-
-
-  9
-
-  Aaj Hum Pe Tang Hai Zameen.
-
-  Ro Rahein Hain Zainab-e-Hazeen.
-
-  Main Bahaisiyat Imam Ki.
-
-  Rakh Raha Hoon Khak Par Jabeen.
-
-  Kar Raha Hoon Sajda-e-Khuda.
-
-
-  10
-
-  :SARWAR-o-ZAFAR: Woh Sham-e-Gham.
-
-  Haye Woh Musibat-o-Alam.
-
-  Woh Yateem-e-Shah Par Sitam.
-
-  Mar Raha Tha Jo Qadam Qadam.
-
-  Keh Raha Tha Jo Basad Boka.'
+  Haaye woh musibat o alam
+  Woh yateem-e-shaah par sitam
+  Mar raha tha jo qadam qadam
+  Keh raha tha jo basad buka
 ---
 
 عاشور کو غش سے جو پھپھی جاں نے اٹھایا

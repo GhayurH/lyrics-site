@@ -12,31 +12,31 @@ aliases: []
 published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
-  Yusuf-e-Laila Shabih-e-Payambar
+  Yusuf-e-Laila shabih-e-Payambar
   Kehte the ye ran meiṅ Sarwar
-  Ae Ali Akbar Ae Ali Akbar
-  Ae jaan-e-dil-e-Sarwar Ae Ali Akbar
-  Aina Aina Ae Ali Akbar
+  Ae Ali Akbar, ae Ali Akbar
+  Ae jaan-e-dil-e-Sarwar, ae Ali Akbar
+  Aina aina, ae Ali Akbar
 
   1
-  Buka ye sun lo zarur beta
+  Bukaa ye sun lo zarur beta
   Hue ho tum jab se dur beta
   Gaya in aankhoṅ se nur beta
-  Hue haiṅ tarik do jahaṅ
-  Dhundhuṅ maiṅ kahaṅ jaa kar
+  Hue haiṅ tarik do jahaaṅ
+  Dhunduṅ maiṅ kahaaṅ jaa kar
 
   2
-  Uthaye maiṅ ne tamaam laashe
-  Na haath larze na paaoṅ kaaṅpe
+  Uthaaye maiṅ ne tamaam laashe
+  Na haath larze na paauṅ kaaṅpe
   Sada tumhari suni hai jab se
   Laraz raha hai badan mera
   Ye kehta chala ro kar
 
   3
   Koi tasalli na kuchh dilaasa
-  Maiṅ kaise dhundhuṅ tumhara laasha
+  Maiṅ kaise dhunduṅ tumhara laasha
   Laboṅ pe naale badan meiṅ rasha
-  Bhatak raha huṅ maiṅ ja baja
+  Bhatak raha huṅ maiṅ jaa bajaa
   Hai Naad-e-Ali lab par
 
   4
@@ -56,9 +56,9 @@ romanLyrics: |-
   6
   Maiṅ kaise Abbas ko bulauṅ
   Sitam rasida ko kiuṅ satauṅ
-  Bata de tu hi kahaṅ maiṅ aauṅ
-  Kahaṅ pe ghore se tu gira
-  Aa jauṅ ga nauhagar
+  Bata de tu hi kahaaṅ maiṅ aauṅ
+  Kahaaṅ pe ghore se tu gira
+  Aa jaauṅ ga nauha gar
 
   7
   Tamaam waade nibha chuka huṅ
@@ -75,8 +75,8 @@ romanLyrics: |-
   Kehti hai yehi muztar
 
   9
-  Yehi tha sheh ka bayaan Mazhar
-  Tha jis pe ab nauhakhwan Safdar
+  Yehi tha shah ka bayaan Mazhar
+  Tha jis pe ab nauha khwaan Safdar
   Qalam bhi rota hai likh ke manzar
   Husain parhte the marsiya
   Tha haath kaleje par

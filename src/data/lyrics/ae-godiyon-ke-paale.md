@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Parda para hua hai kis tarah maaṅ pukaare
-  Ae maut ki nazar se aankheiṅ laraane waale
+  Ae maut ki nazar se aankheṅ laraane waale
 
   3
   Ujre hue chaman ki khilti kali hai Akbar
@@ -30,7 +30,7 @@ romanLyrics: |-
   Ae nur-e-chashm-e-Laila taqdir ke ujaale
 
   5
-  Ruqsat ka dil par gham hai Akbar salaam le lo
+  Rukhsat ka dil par gham hai Akbar salaam le lo
   Ye aakhri alam hai Akbar salaam le lo
 
   6

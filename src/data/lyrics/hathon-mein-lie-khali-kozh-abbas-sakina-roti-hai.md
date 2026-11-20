@@ -1,76 +1,128 @@
 ---
 title: "ہاتھوں میں لئے خالی کوزہ عباسؑ سکینہؑ روتی ہے"
+alternateTitle: "Hathon Mein Lie Khali Kozah Abbas Sakina Roti Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
+poet: "Wajahat Hussain"
 published: false
+romanLyrics: |-
+  1
+  Maula Abbas
+  Toote dilo ki aas hai mere Maula Abbas
+
+  2
+  Mazloomo bekas ki yaad hai mere Maula Abbas
+
+  3
+  Toote dilo ki aas hai mere Maula Abbas
+
+  4
+  Sukha tumhara hai raaij
+  Ya mere Babul Hawaij
+  Har dil ke tu ehsaas mere Maula Abbas
+
+  5
+  Toote dilo ki aas hai mere Maula Abbas
+
+  6
+  Tuhi toh haajat rawaa hai
+  Tuhi toh mushkil kusha hai
+  Pedar ka tu Akkas hai mere Maula Abbas
+
+  7
+  Toote dilo ki aas hai mere Maula Abbas
+
+  8
+  Paani gae lene pyaare
+  Baazu kate jab tumhare
+  Tabse Sakina udaas hai mere Maula Abbas
+
+  9
+  Toote dilo ki aas hai mere Maula Abbas
+
+  10
+  Jab naam tera zubaa par
+  Aata hai ae Ibne Haider
+  Mehsus hoti mithaas hai mere Maula Abbas
+
+  11
+  Toote dilo ki aas hai mere Maula Abbas
+
+  12
+  Ye alatash ki sadaae
+  Haaye kaleje jalaae
+  Khaimo kaisi pyaas hai mere Maula Abbas
+
+  13
+  Toote dilo ki aas hai mere Maula Abbas
+
+  14
+  Darwesh aur ae Wajahat
+  Tum maanglo apni haajat
+  Har waqt dil ke paas hai mere Maula Abbas
+
+  15
+  Toote dilo ki aas hai mere Maula Abbas
 ---
 
-Wajahat Hussain
+۱
+مولا عباس
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-1
-Maula Abbas
-Toote dilo ki aas hai mere maula Abbas
+۲
+مظلوم و بے کس کی یاد ہے میرے مولا عباس
 
-2
-Mazloomo bekas ki yaad hai mere maula Abbas
+۳
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-3
-Toote dilo ki aas hai mere maula Abbas
+۴
+سخا تمہارا ہے رائج
+یا میرے باب الحوائج
+ہر دل کے تو احساس میرے مولا عباس
 
-4
-(1)
-Sukha tumhara hai raaij
-Ya mere babul hawaij
-Har Dil ke tu ehsaasmere maula Abbas
+۵
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-5
-Toote dilo ki aas hai mere maula Abbas
+۶
+تو ہی تو حاجت روا ہے
+تو ہی تو مشکل کشا ہے
+پدر کا تو عکاس ہے میرے مولا عباس
 
-6
-(2)
-Tuhi toh haajat rawaa hai
-Tuhi toh mushkil kusha hai
-Pedar ka tu Akkashai mere maula Abbas
+۷
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-7
-Toote dilo ki aas hai mere maula Abbas
+۸
+پانی گئے لینے پیارے
+بازو کٹے جب تمہارے
+تب سے سکینہ اداس ہے میرے مولا عباس
 
-8
-(3)
-Paani gae Lene Pyaare
-Baazu Kate jab tumhare
-Tabse sakina udaashai mere maula abbas
+۹
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-9
-Toote dilo ki aas hai mere maula Abbas
+۱۰
+جب نام تیرا زباں پر
+آتا ہے اے ابنِ حیدر
+محسوس ہوتی مٹھاس ہے میرے مولا عباس
 
-10
-(4)
-Jab Naam tera zubaa par
-Aata hai ae ibne Haider
-Mehsus Hoti mithaashai mere maula Abbas
+۱۱
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-11
-Toote dilo ki aas hai mere maula Abbas
+۱۲
+یہ العطش کی صدائیں
+ہائے کلیجے جلائیں
+خیموں کیسی پیاس ہے میرے مولا عباس
 
-12
-(5)
-Ye alatash ki sadaae
-Haaye kaleje jalaae
-Khaimo kaisi pyaashai mere maula Abbas
+۱۳
+ٹوٹے دلوں کی آس ہے میرے مولا عباس
 
-13
-Toote dilo ki aas hai mere maula Abbas
+۱۴
+درویش اور اے وجاہت
+تم مانگ لو اپنی حاجت
+ہر وقت دل کے پاس ہے میرے مولا عباس
 
-14
-(6)
-Darwesh aur ae Wajahat
-Tum maanglo apni haajat
-Har waqt Dil ke paashai mere maula abbas
-
-15
-Toote dilo ki aas hai mere maula Abbas
+۱۵
+ٹوٹے دلوں کی آس ہے میرے مولا عباس

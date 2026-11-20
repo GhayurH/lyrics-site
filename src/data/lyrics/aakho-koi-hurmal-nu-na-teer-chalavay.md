@@ -1,6 +1,6 @@
 ---
 title: "آکھو کوئی حرمل نوں نہ تیر چلاوے"
-alternateTitle: "Aakho Koi Hurmal Nu Na Teer Chalavay"
+alternateTitle: "Aakho Koi Hurmal Nuṅ Na Tir Chalaave"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,33 +10,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aakho koi Hurmal nu na teer chalavay
-  Dar Khaimay cho Bano di,  awaz yeh avaay
+  Aakho koi Hurmal nuṅ na tir chalaave
+  Dar khaime choṅ Baano di, aawaaz yeh aave
 
   1
-  Armaan rai yah dil wich ma keh kai bulavay
-  Sehrawan dai wich lab di tu nazar na aavay
-  Tak khali taira jhula,  Dil dhub dhub javay
+  Armaan rehia dil wich maaṅ keh ke bulaave
+  Sehrawaaṅ de wich labhdi tuṅ nazar na aave
+  Tak khaali tera jhula, dil dhub dhub jaave
 
   2
-  Jaira bhi gaiya maqtal oo mur kay na aaya
-  Chalya hay mera Asghar howay khair Khudaya
-  Ghazi nu koi aakhay,  Ainu larna sikhavay
+  Jira bhi gia maqtal oh mur ke na aaya
+  Chalia hai mera Asghar hove khair Khudaaya
+  Ghaazi nuṅ koi aakhe, ainuṅ larna sikhaave
 
   3
-  Hondi veer nai veera di wich mushkilan di aakain
-  Chalaya jhana to Akber lai dil wich ehsas ai
-  Hovay javan Asghar,  mul barchi da pavay
+  Hondi vir naiṅ viraaṅ di wich mushkilaaṅ di aakeṅ
+  Chalia Jhanaa toṅ Akbar lai dil wich ehsaas ae
+  Hove jawaaṅ Asghar, mul barchhi da paave
 
   4
-  Daita kafan na tainu main ker shikva tu Asgher na
-  Mairai baad kissai Asgher tainu dafan bhi na kerna
-  Aa soach kai shah wakhri,  Aik Kabar banavay
+  Dita kafan na tainuṅ main kar shikwa tuṅ Asghar na
+  Mere baad kise Asghar tainuṅ dafan bhi na karna
+  Aa soch ke Shah wakhri, ik qabar banaave
 
   5
-  Asgher tay Ali Akber kyun ja ka na aayai
-  Kivain veeran day bin jeevan ro Sughra Sunavay
-  Kidai shakal karai ujri,  kinu goud khadavai
+  Asghar te Ali Akbar kiuṅ jaa ke na aaye
+  Kiveṅ viraaṅ de bin jivaaṅ ro Sughra sunaave
+  Kide shakal kare ujri, kinuṅ god khadaave
 ---
 
 آکھو کوئی حرمل نوں نہ تیر چلاوے

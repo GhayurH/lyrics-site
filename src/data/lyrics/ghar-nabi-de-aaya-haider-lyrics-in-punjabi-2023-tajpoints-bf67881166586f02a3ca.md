@@ -1,39 +1,68 @@
 ---
-title: "Ghar Nabi De Aaya Haider Lyrics In Punjabi 2023"
+title: "گھر نبی دے آیا حیدر"
+alternateTitle: "Ghar Nabi De Aaya Haider"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ghar Nabi de aaya Haider
+  Lara Nabiyaan banaya Haider
+
+  1
+  Paya sehra Maula Ameer aye
+  Sohnra saj gaye Shiyaan da peer aye
+  Qadam mubarak uthaya Haider
+
+  2
+  Asad di bachri de baal wanjraan aye
+  Farishtiyan jinj de naal wanjraan aye
+  Aye janjiyaan nu dasaya Haider
+
+  3
+  Esa Mosa Khalil aa gaye
+  Wila de sare wakeel aa gaye
+  Madine Kaba bulaya Haider
+
+  4
+  Pak Zahra da taj aaya
+  Nibha ke rasma rawaj aaya
+  Hai gana shagna da paya Haider
+
+  5
+  Atta aye Hasnain te thayi aye
+  Ali di shadi jo main likhi aye
+  Karam aye sara kamaya Haider
 ---
 
-Ghar Nabi De Aaya Haider
-Lara Nabiyaan Banaya Haider.
+گھر نبی دے آیا حیدر
+لاڑا نبیاں بنایا حیدر
 
-1
-Paya Sehra Maula Ameer Aye.
-Sohnra Saj Gaye Shiyaan Da Peer Aye.
-Qadam Mubarak Uthaya Haider.
+۱
+پایا سہرا مولا امیر اے
+سوہݨا سج گئے شیعیاں دا پیر اے
+قدم مبارک اٹھایا حیدر
 
-2
-Asad Di Bachri De Baal Wanjraan Aye.
-Farishtiyan Jinj De Naal Wanjraan Aye.
-Aye Janjiyaan Nu Dasaya Haider.
+۲
+اسد دی بچڑی دے بال ونجران آئے
+فرشتیاں جنج دے نال ونجران آئے
+آئے جنجیاں نوں دسایا حیدر
 
-3
-Esa Mosa Khalil Aa Gaye.
-Wila De Sare Wakeel Aa Gaye.
-Madine Kaba Bulaya Haider.
+۳
+عیسیٰ موسیٰ خلیل آ گئے
+ولا دے سارے وکیل آ گئے
+مدینے کعبہ بلایا حیدر
 
-4
-Pak Zahra Da Taj Aaya.
-Nibha Ke Rasma Rawaj Aaya.
-Hai Gana Shagna Da Paya Haider.
+۴
+پاک زہرا دا تاج آیا
+نبھا کے رسماں رواج آیا
+ہے گانا شگناں دا پایا حیدر
 
-5
-Atta Aye Hasnain Te Thayi Aye.
-Ali Di Shadi Jo Main Likhi Aye.
-Karam Aye Sara Kamaya Haider.
+۵
+عطا اے حسنین تے تھئی اے
+علی دی شادی جو میں لکھی اے
+کرم اے سارا کمایا حیدر

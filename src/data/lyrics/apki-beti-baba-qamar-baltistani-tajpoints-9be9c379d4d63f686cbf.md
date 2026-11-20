@@ -1,47 +1,82 @@
 ---
-title: "Apki Beti Baba Qamar Baltistani"
+title: "آپ کی بیٹی بابا قمر بلتستانی"
+alternateTitle: "Apki Beti Baba Qamar Baltistani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zaire"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aap ke baad aap ki beti roti darbar se chali aayi
+  Hanstay rahe woh baith ke our main khari rahi
+  Baba tumhare baad woh mimber sanbhal kar
+
+  2
+  Hanstay rahe sand ko hawa mein ochaal kar
+  Chunti rahi main ro ro ke tehreer aap ki
+  Ummat ne mere ghar ko jalaya tumhare baad
+  Iss darjah Fatima ko sataya tumhare baad
+
+  3
+  Jhaili nahi hai main ne jo mushkil hai kaun si
+  Guzri jo mujh pe kaisay sunaon main aap ko
+  Pehlu ka zakhm kaisay dikhaon main aap ko
+  Main janti hoon kaisay main darbar mein gayi
+
+  4
+  Deney gawahi beton ko le kar chali thi sath
+  Zakhmi tha mera chehra jo lauti main khali hath
+  Halat meri yeh dekh ke rotay rahe Ali
+  Hathoon mein apne aap ki tehreer ko liye
+
+  5
+  Qasim ka bikhra lasha dikhai diya mujhe
+  Waan Karbala ki main ne hai tasveer dekh li
+  Ummat ne mujh ko chain se soney nahi diya
+  Baba tumhari beti ko roney nahi diya
+
+  6
+  Ummat hai bhool bethi keh beti hoon aap ki
+  Har matami ke kan mein aati hai yeh sada
+  Zaire jo Pak Zahra ne darbar mein kaha
+  Itna kahon gi jhoot tu main bolti nahi
 ---
 
-1
-Apki Beti Baba Qamar Baltistani Lyrics
-Aap Ke Baad Aap Ki Beti Roti Darbar Se Chali Aayi.
-Hanstay Rahe Woh Baith Ke Our Main Khari Rahi.
-Baba Tumhare Baad Woh Mimber Sanbhal Kar.
+۱
+آپ کے بعد آپ کی بیٹی روتی دربار سے چلی آئی
+ہنستے رہے وہ بیٹھ کے اور میں کھڑی رہی
+بابا تمہارے بعد وہ منبر سنبھال کر
 
-2
-Hanstay Rahe Sand Ko Hawa Mein Ochaal Kar.
-Chunti Rahi Main Ro Ro Ke Tehreer Aap Ki.
-Ummat Ne Mere Ghar Ko Jalaya Tumhare Baad.
-Iss Darjah Fatima Ko Sataya Tumhare Baad.
+۲
+ہنستے رہے سند کو ہوا میں اچھال کر
+چنتی رہی میں رو رو کے تحریر آپ کی
+امت نے میرے گھر کو جلایا تمہارے بعد
+اس درجہ فاطمہ کو ستایا تمہارے بعد
 
-3
-Jhaili Nahi Hai Main Ne Jo Mushkil Hai Kaun Si.
-Guzri Jo Mujh Pe Kaisay Sunaon Main Aap Ko.
-Pehlu Ka Zakhm Kaisay Dikhaon Main Aap Ko.
-Main Janti Hoon Kaisay Main Darbar Mein Gayi.
+۳
+جھیلی نہیں ہے میں نے جو مشکل ہے کون سی
+گزری جو مجھ پہ کیسے سناؤں میں آپ کو
+پہلو کا زخم کیسے دکھاؤں میں آپ کو
+میں جانتی ہوں کیسے میں دربار میں گئی
 
-4
-Deney Gawahi Beton Ko Le Kar Chali Thi Sath.
-Zakhmi Tha Mera Chehra Jo Lauti Main Khali Hath.
-Halat Meri Yeh Dekh Ke Rotay Rahe Ali.
-Hathoon Mein Apne Aap Ki Tehreer Ko Liye.
+۴
+دینے گواہی بیٹوں کو لے کر چلی تھی ساتھ
+زخمی تھا میرا چہرہ جو لوٹی میں خالی ہاتھ
+حالت میری یہ دیکھ کے روتے رہے علی
+ہاتھوں میں اپنے آپ کی تحریر کو لیے
 
-5
-Qasim Ka Bikhra Lasha Dikhai Diya Mujhe.
-Waan Karbala Ki Main Ne Hai Tasveer Dekh Li.
-Ummat Ne Mujh Ko Chain Se Soney Nahi Diya.
-Baba Tumhari Beti Ko Roney Nahi Diya.
+۵
+قاسم کا بکھرا لاشہ دکھائی دیا مجھے
+واں کربلا کی میں نے ہے تصویر دیکھ لی
+امت نے مجھ کو چین سے سونے نہیں دیا
+بابا تمہاری بیٹی کو رونے نہیں دیا
 
-6
-Ummat Hai Bhool Bethi Keh Beti Hoon Aap Ki.
-Har Matami Ke Kan Mein Aati Hai Yeh Sada.
- Zaire Jo Pak Zahra Ne Darbar Mein Kaha.
-Itna Kahon Gi Jhoot Tu Main Bolti Nahi.
+۶
+امت ہے بھول بیٹھی کہ بیٹی ہوں آپ کی
+ہر ماتمی کے کان میں آتی ہے یہ صدا
+زائر جو پاک زہرا نے دربار میں کہا
+اتنا کہوں گی جھوٹ تو میں بولتی نہیں

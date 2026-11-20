@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Kufe meiṅ waqt-e-sahar
   Tegh chali farq par
-  Khuṅ se hua farsh tar
+  Khuṅ se hua farsh-e-tar
   Rote haiṅ sar pit kar
   Saare azaadaar Ali alvida
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   Hashr ka hangaam hai
   Girya hai kohraam hai
   Rasm-e-jafa aam hai
-  Kufa hi ab shaam hai
+  Kufa hi ab Shaam hai
   Gham meiṅ giraftaar Ali alvida
 
   4
@@ -44,10 +44,10 @@ romanLyrics: |-
   Kehte haiṅ zawwaar Ali alvida
 
   5
-  Khutbe sunayega kaun
-  Khaana khilayega kaun
-  Gham se chhuraayega kaun
-  Murde jilayega kaun
+  Khutbe sunaaye ga kaun
+  Khaana khilaaye ga kaun
+  Gham se chhuraaye ga kaun
+  Murde jilaaye ga kaun
   Maalik o mukhtaar Ali alvida
 
   6
@@ -58,7 +58,7 @@ romanLyrics: |-
   Mere madadgaar Ali alvida
 
   7
-  Bint-e-shaah-e-bahr o bar
+  Bint-e-shaah-e-bahr o barr
   Dukhtar-e-khairul bashar
   Pasliyoṅ ko thaam kar
   Kehti hai baa chashm-e-tar

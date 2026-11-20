@@ -12,53 +12,53 @@ aliases:
   - "Aap Par Darood Aur Salam Aye Mere Imam"
 published: true
 romanLyrics: |-
-  Aap Par Darud Aur Salam Ae Mere Imam
-  Bas Yehi Sada Hai Subh o Sham Ae Mere Imam
+  Aap par darud aur salaam ae mere imaam
+  Bas yahi sadaa hai subh o shaam ae mere imaam
 
   1
-  Aa Rahe Haiṅ Aap, Chal Rahi Hai Yeh Khabar
-  Khana-e-Khuda Pe Hai Tiki Hui Nazar
-  Saj Rahe Haiṅ Raste Tamam Ae Mere Imam
+  Aa rahe haiṅ aap, chal rahi hai yeh khabar
+  Khaana-e-Khudaa pe hai tiki hui nazar
+  Saj rahe haiṅ raaste tamaam ae mere imaam
 
   2
-  Har Nafas Tujhe Mera Salam Arz Hai
-  Maiṅ Tu Kya Huṅ Har Nabi Wali Pe Farz Hai
-  Do Jahaṅ Meiṅ Tera Ahteram Ae Mere Imam
+  Har nafas tujhe mera salaam arz hai
+  Maiṅ to kya huṅ har nabi wali pe farz hai
+  Do jahaaṅ meiṅ tera ehtiraam ae mere imaam
 
   3
-  Do Jahaṅ Ki Badshah Teri Zaat Hai
-  Tu Hai Us Ka Hath Jo Khuda Ka Hath Hai
-  Tere Hath Baiatteiṅ Tamam Ae Mere Imam
+  Do jahaaṅ ki baadshaah teri zaat hai
+  Tu hai us ka haath jo Khudaa ka haath hai
+  Tere haath baiateiṅ tamaam ae mere imaam
 
   4
-  Iss Liye Tumhara Intezar Hai Shadid
-  Sar Uthaye Phir Rahe Haiṅ Waqt Ke Yazid
-  Aa Ke Un Se Lijiye Inteqam Ae Mere Imam
+  Is liye tumhaara intezaar hai shadid
+  Sar uthaaye phir rahe haiṅ waqt ke Yazid
+  Aa ke un se lijiye inteqaam ae mere imaam
 
   5
-  Zikr-e-Khair Aap Ka Wazifa Hai Mera
-  Manqabat Nahi Hai Yeh Ariza Hai Mera
-  Parh Raha Huṅ Roz Subh o Sham Ae Mere Imam
+  Zikr-e-khair aap ka wazifa hai mera
+  Manqabat nahiṅ hai yeh ariza hai mera
+  Parh raha huṅ roz subh o shaam ae mere imaam
 
   6
-  Khana-e-Khuda Ko Qaid Se Chhuraiye
-  Moula Jald Aaiye, Ab Aa Bhi Jaiye
-  Le Ke Zulfiqar beNiyaam Ae Mere Imam
+  Khaana-e-Khudaa ko qaid se chhuraiye
+  Maula jald aaiye, ab aa bhi jaaiye
+  Le ke Zulfiqaar beniyaam ae mere imaam
 
   7
-  Mangte Haiṅ Aur Youṅ Zahur Ki Dua
-  Dekhna Hai Hum Ko Inteqam-e-Karbala
-  Chahe Phir Ho Zindagi Tamam Ae Mere Imam
+  Maangte haiṅ aur yuṅ zuhur ki dua
+  Dekhna hai hum ko inteqaam-e-Karbala
+  Chaahe phir ho zindagi tamaam ae mere imaam
 
   8
-  Chomte Haiṅ Paoṅ Aa Ke Taare Aap Ke
-  Chal Raha Hai Dekh Ke Ishare Aap Ke
-  Sari Kainat Ka Nizam Ae Mere Imam
+  Chumte haiṅ paaoṅ aa ke taare aap ke
+  Chal raha hai dekh ke ishaare aap ke
+  Saari kaainaat ka nizaam ae mere imaam
 
   9
-  Wasf Sab Hasin Hasan Ke Naam Ho Gaye
-  Takht o Taj Mir Ke Ghulam Ho Gaye
-  Jab Se Woh Hua Tera Ghulam Ae Mere Imam
+  Wasf sab hasin Hasan ke naam ho gaye
+  Takht o taaj Mir ke ghulaam ho gaye
+  Jab se woh hua tira ghulaam ae mere imaam
 ---
 
 آپ پر درود اور سلام اے میرے امام

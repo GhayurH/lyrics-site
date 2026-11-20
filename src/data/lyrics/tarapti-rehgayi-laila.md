@@ -13,10 +13,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Tarapti reh gayi Laila chale gaye Akbar
-  Kise banaayegi dulha chale gaye Akbar
+  Kise banaaye gi dulha chale gaye Akbar
 
   1
-  Ye aarzu thi ke Laila khilaayegi pote
+  Ye aarzu thi ke Laila khilaaye gi pote
   Raha ye khwaab adhura chale gaye Akbar
 
   2
@@ -41,11 +41,11 @@ romanLyrics: |-
 
   7
   Husain jaate haiṅ maqtal meiṅ sar kataane ko
-  Uthega kaise janaaza chale gaye Akbar
+  Uthe ga kaise janaaza chale gaye Akbar
 
   8
   Husain rote the Anwar ye kehte jaate the
-  Jiyegi kis tarah Laila chale gaye Akbar
+  Jiye gi kis tarah Laila chale gaye Akbar
 ---
 تڑپتی رہ گئی لیلیٰ چلے گئے اکبر
 کسے بنائے گی دولہا چلے گئے اکبر

@@ -15,34 +15,34 @@ romanLyrics: |-
   Maiṅ raahib huṅ maiṅ raahib huṅ
 
   1
-  Maiṅ huṅ raahib hai Masih mera qabila logoṅ
+  Maiṅ huṅ raahib Masih mera qabila logoṅ
   Mere aaqa mere sardaar hai Isa logoṅ
-  Ek haqiqat se uthaata huṅ maiṅ parda logoṅ
+  Ak haqiqat se uthaata huṅ maiṅ parda logoṅ
   Mera Husain hai Isa ka masiha logoṅ
   Imam-e-waqt ka maiṅ intezaar karta huṅ
   Halab ke dair meiṅ lamhe shumaar karta huṅ
   Yaqin hai ye mera jab aayeṅge Maula
-  Maiṅ unke qadmoṅ meiṅ gir kar sada lagaauṅga
+  Maiṅ un ke qadmoṅ meiṅ gir kar sada lagaauṅ ga
   Tum pe Maula maiṅ fida jaan karuṅ
   Apne betoṅ ko maiṅ qurbaan karuṅ
   Maiṅ huṅ Najraan ka raahib
 
   2
-  Suno ke tumko sunaata huṅ waqiya aisa
+  Suno ke tum ko sunaata huṅ waqiya aisa
   Meri hayaat meiṅ aisa bhi waqt aaya tha
-  Maiṅ laawalad tha aur ummid na thi koi mujhe
+  Maiṅ laa walad tha aur ummid na thi koi mujhe
   Huzur Paak ne ye baat khud kahi thi mujhe
   Lauh-e-mahfuz ki tahrir bhi sunaai mujhe
   Magar Husain ne us dam pisar diye the mujhe
-  Ek nahiṅ saat nagine ata kiye the mujhe
+  Ak nahiṅ saat nagine ata kiye the mujhe
   Hai ye ehsaan bara bhulaauṅ kaise bhala
-  Ye baat unse kahuṅga ke farz hai ye mera
+  Ye baat un se kahuṅ ga ke farz hai ye mera
   Tum pe Maula maiṅ fida jaan karuṅ
   Apne betoṅ ko maiṅ qurbaan karuṅ
   Maiṅ huṅ Najraan ka raahib
 
   3
-  Dafatan qaafila ek shahr-e-Halab meiṅ pahuncha
+  Dafatan qaafila ak shahr-e-Halab meiṅ pahuncha
   Ya Husaina ya Husaina se larazti thi fiza
   Nind se mujhko jaga kar meri zauja ne kaha
   Khwaab se jaago ke phatta hai kaleja mera
@@ -60,40 +60,40 @@ romanLyrics: |-
   Kya kahiṅ maiṅ ne kin aankhoṅ se wo manzar dekha
   Berida chand asiroṅ ko khule sar dekha
   Kitne suraj the jinheṅ nok-e-sinaaṅ par dekha
-  Maiṅ ne ek chhota sa sar dil ko pakar kar dekha
-  Ek sar par nahiṅ maujud rida
+  Maiṅ ne ak chhota sa sar dil ko pakar kar dekha
+  Ak sar par nahiṅ maujud rida
   Ek sar sharm o haya se hai jhuka
   Ek rahwaar ki gardan meiṅ bandha
   Ek sar bar sar-e-nok-e-naiza
-  Dekh kar qaafila maiṅ aah o buka karta huṅ
+  Dekh kar qaafila maiṅ aah o bukaa karta huṅ
   Pit kar sar ko maiṅ zaar o qataar rota huṅ
   Maiṅ huṅ Najraan ka raahib
 
   5
   Maiṅ ne pehle bhi kahiṅ dekhe haiṅ aise chehre
-  Aise nuraani bashar to mubaahile meiṅ hi the
+  Aise nur-e-ain bashar to mubaahile meiṅ hi the
   Ya Khuda naize pe jo sar hai ye wo log na ho
   Wo jo aulaad-e-Payambar hai ye wo log na ho
   Jinki taarif meiṅ Injil meiṅ bhi jumle hai
   Wo jo chaahe to pahaaroṅ ko hila sakte haiṅ
   Yaqin hai ye mera jab aayeṅge Maula
-  Maiṅ unke qadmoṅ meiṅ gir kar sada lagaauṅga
+  Maiṅ un ke qadmoṅ meiṅ gir kar sada lagaauṅ ga
   Tum pe Maula maiṅ fida jaan karuṅ
   Apne betoṅ ko maiṅ qurbaan karuṅ
   Maiṅ huṅ Najraan ka raahib
 
   6
-  Wo jo sar naatiq-e-Quran nazar aata tha
+  Wo jo sar naatiq-e-Quraan nazar aata tha
   Do sitamgaaroṅ ka us sar pe laga tha pehra
   Darte darte jo maiṅ nazdik gaya
   Naiza bardaaroṅ se maiṅ ne puchha
   Ye jo khun rota hai sar kya hai Zahra ka pisar
-  Pehredaaroṅ ne kaha hai ye baaghi bakhuda
+  Pehredaaroṅ ne kaha hai ye baaghi bah Khuda
   Haakim-e-Shaam ne hai is pe inaam rakha
-  Iske haami na bano tum raahib
-  Iske haami ka hai marna waajib
+  Is ke haami na bano tum raahib
+  Is ke haami ka hai marna waajib
   Maiṅ pareshaaṅ hua aur ye kehne laga
-  Ek shak hai mere dil meiṅ zara puchhuṅ is se
+  Ek ashk hai mere dil meiṅ zara puchhuṅ is se
   Ek lamhe ke liye baat maiṅ kar luṅ is se
   Mujhe is sar se mila do jitne qimat hai laga do
   Ek shab ke liye sar se apne pehre ko hata do
@@ -108,11 +108,11 @@ romanLyrics: |-
   Wo ye bola mujhe pehchaan zara
   Tera mehmaan huṅ maiṅ tera mehmaan huṅ maiṅ
   Nibhaane tifli ka waada
-  Le ke sab apna main kunba
+  Le ke sab apna kunba
   Tere ghar aa gaya raahib
   Maiṅ Payambar ka jigar huṅ raahib
   Maiṅ hi Zehra ka pisar huṅ raahib
-  Jisne bete tujhe bakhshe wo sakhi huṅ raahib
+  Jisne bete tujhe bakhshe wo saqi huṅ raahib
   Ba Khuda maiṅ hi Husain ibn-e-Ali huṅ raahib
   Karbala meiṅ jo sitam tute bataata huṅ tujhe
   Apne betoṅ ka bhi maqtal maiṅ sunaata huṅ tujhe
@@ -122,7 +122,7 @@ romanLyrics: |-
   Mere Qaasim ko hai paamaal kiya
   Sar kiye Aun o Muhammad ke juda
   Ye inteha hai ke Asghar pe rahm na khaaya
-  Ya Husaina ya Husaina ya Husaina ya Husain
+  Ya Husaina ya Husaina ya Husaina ya Husaina ya Husaina ya Husaina
   Maiṅ huṅ Najraan ka raahib
 
   7

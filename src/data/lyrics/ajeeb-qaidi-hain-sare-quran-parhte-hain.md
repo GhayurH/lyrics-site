@@ -5,9 +5,73 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ajib qaidi haiṅ, saare Quraan parhte haiṅ
+  Har koi paani rota hai, woh khun baithe rote haiṅ
+
+  1
+  Mehsus aise hota hai, yeh pardadaar ghar ke
+  Kuchh bhi nahiṅ woh maaṅgeṅ, chand burqe sirf maaṅgte haiṅ
+
+  2
+  Har gale mein rasan hai, rassiyoṅ se khun behta hai
+  Sach puchhe to jo Hinda, bejurm saare lagte haiṅ
+
+  3
+  Ek hai saghir qaidan, naap jis ka hai Sakina
+  Dur dekh dekh kehti, dur mere Ramla lagte haiṅ
+
+  4
+  Tun kehti hai ke mera, murshid Husain sohna
+  Naaraaz je na tu ho, ae sab Husain kagte haiṅ
+
+  5
+  Kai ghante thi gaye han, koi nain galinda
+  Khul khul ke qaidiaan de, lagda ae pair dukhde han
+
+  6
+  Ramla ke bain sun ke, darbaar aai Hinda
+  Sar pit ke woh boli, sardaar yuṅ na lutte haiṅ
+
+  7
+  Naushaad bint-e-Zehra, Hinda ko dekh ro di
+  Pehchaan main huṅ Zainab, na mere baal chhupte haiṅ
+
+  ---***---
+
+  Ajib qaidi han, saare Quraan parhde han
+  Har koi paani ronda, o khun baithe ronde han
+
+  1
+  Mehsus ewen thinda ae, enaan pardadaar ghar de
+  Biya kaj nain o mangde, chand burqe baithe mangde han
+
+  2
+  Har gal de vich rasan ae, rassiaan chon khun vehnda ae
+  Sach puchhdi ain je Hindaan, bejurm saare lagde han
+
+  3
+  Ik hai saghir qaidan, jenda ae naan Sakina
+  Dur mende vekh aahndi, dur mende Ramla lagde han
+
+  4
+  Tun aahndi ain je mera, murshid Husain sohna
+  Naaraaz je na thiwen, ae qul Husain dasde han
+
+  5
+  Kai ghante thi gaye han, koi nain galinda
+  Khul khul ke qaidiaan de, lagda ae pair dukhde han
+
+  6
+  Ramla de vain sun ke, darbaar aai Hindaan
+  Chaadar laha ke ro pai, sardaar enj na lutde han
+
+  7
+  Naushaad bint-e-Zehra, Hindaan kun vekh ro pai
+  Pehchaan main haan Zainab, na mende vaal lukde han
 ---
 
 عجیب قیدی ہیں، سارے قرآن پڑھتے ہیں

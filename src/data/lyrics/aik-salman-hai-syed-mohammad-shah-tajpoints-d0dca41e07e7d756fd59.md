@@ -1,37 +1,64 @@
 ---
-title: "Aik Salman Hai Syed Mohammad Shah"
+title: "ایک سلمان ہے سید محمد شاہ"
+alternateTitle: "Aik Salman Hai Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aik Salman hai Syed Mohammad Shah
+
+  1
+  Chodah masoomo ka jis ko irfan hai, aik Salman hai
+  Daswein darjay pe our kis ka eman hai, aik Salman hai
+  Jis ki sachayi par aasmaan ta zameen sare hairat mein hain
+  Woh Abuzar bhi khud jis pe hairan hai aik Salman hai
+  Woh they muhtaj angushtari ke, magar yeh rahe be niyaz
+  Farq khud dekhiye ik Suleman hai aik Salman hai
+
+  2
+  Our hai kaun jis se main batein karon, dil ko halka karon
+  Chaar so, jo bhi hai woh Musalman hai, aik Salman hai
+  Aisay khud ko na uljha, zara ja ke oss shaks se baat kar
+  Tu Nuseri bhala kyun pareshan hai, aik Salman hai
+  Marifat ke liye teen chezon ko choray gaye hain Nabi
+  Aik hai Ahlebait, aik Quran hai, aik Salman hai
+
+  3
+  Aik Allah oss ki haqeeqat samjhna tu mumkin nahi
+  Yeh bhi kafi hai gar tera eman hai aik Salman hai
+  Yeh wazeefa parho our bachalo aqeeday ko tum shirk se
+  Aik Salman hai, aik Salman hai, aik Salman hai
+  Main mazameen midhat ke leta hoon Haider ossi zaat se
+  So mere wastay madah aasan hai, aik Salman hai
 ---
 
-Aik Salman Hai Syed Mohammad Shah.
+ایک سلمان ہے سید محمد شاہ
 
-1
-Chodah Masoomo Ka Jis Ko Irfan Hai, Aik Salman Hai.
-Daswein Darjay Pe Our Kis Ka Eman Hai, Aik Salman Hai.
-Jis Ki Sachayi Par Aasmaan Ta Zameen Sare Hairat Mein Hain.
-Woh Abuzar Bhi Khud Jis Pe Hairan Hai Aik Salman Hai.
-Woh They Muhtaj Angushtari Ke, Magar Yeh Rahe Be Niyaz.
-Farq Khud Dekhiye Ik Suleman Hai Aik Salman Hai.
+۱
+چودہ معصوموں کا جس کو عرفان ہے، ایک سلمان ہے
+دسویں درجے پہ اور کس کا ایمان ہے، ایک سلمان ہے
+جس کی سچائی پر آسمان تا زمین سارے حیرت میں ہیں
+وہ ابوذر بھی خود جس پہ حیران ہے ایک سلمان ہے
+وہ تھے محتاج انگشتری کے، مگر یہ رہے بے نیاز
+فرق خود دیکھیے اک سلیمان ہے ایک سلمان ہے
 
-2
-Our Hai Kaun Jis Se Main Batein Karon, Dil Ko Halka Karon.
-Chaar So, Jo Bhi Hai Woh Musalman Hai, Aik Salman Hai.
-Aisay Khud Ko Na Uljha, Zara Ja Ke Oss Shaks Se Baat Kar.
-Tu Nuseri Bhala Kyun Pareshan Hai, Aik Salman Hai.
-Marifat Ke Liye Teen Chezon Ko Choray Gaye Hain Nabi.
-Aik Hai Ahlebait, Aik Quran Hai, Aik Salman Hai.
+۲
+اور ہے کون جس سے میں باتیں کروں، دل کو ہلکا کروں
+چار سو، جو بھی ہے وہ مسلمان ہے، ایک سلمان ہے
+ایسے خود کو نہ الجھا، ذرا جا کے اس شخص سے بات کر
+تو نصیری بھلا کیوں پریشان ہے، ایک سلمان ہے
+معرفت کے لیے تین چیزوں کو چھوڑے گئے ہیں نبی
+ایک ہے اہلِ بیت، ایک قرآن ہے، ایک سلمان ہے
 
-3
-Aik ALLAH Oss Ki Haqeeqat Samjhna Tu Mumkin Nahi.
-Yeh Bhi Kafi Hai Gar Tera Eman Hai Aik Salman Hai.
-Yeh Wazeefa Parho Our Bachalo Aqeeday Ko Tum Shirk Se.
-Aik Salman Hai, Aik Salman Hai, Aik Salman Hai.
-Main Mazameen Midhat Ke Leta Hoon Haider Ossi Zaat Se.
-So Mere Wastay Madah Aasan Hai, Aik Salman Hai.
+۳
+ایک اللہ اس کی حقیقت سمجھنا تو ممکن نہیں
+یہ بھی کافی ہے گر تیرا ایمان ہے ایک سلمان ہے
+یہ وظیفہ پڑھو اور بچا لو عقیدے کو تم شرک سے
+ایک سلمان ہے، ایک سلمان ہے، ایک سلمان ہے
+میں مضامینِ مدحت کے لیتا ہوں حیدر اسی ذات سے
+سو میرے واسطے مدح آسان ہے، ایک سلمان ہے

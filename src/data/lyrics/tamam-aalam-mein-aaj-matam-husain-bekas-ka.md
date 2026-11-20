@@ -9,89 +9,54 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Tamaam aalam may aaj matam, Hussain bekas ka ho raha hay
-
+romanLyrics: |-
+  Tamaam aalam meiṅ aaj maatam
+  Husain bekas ka ho raha hai
+  Alam gharoṅ meiṅ saje hue haiṅ
+  Diloṅ meiṅ farsh-e-aza bichha hai
+  Tamaam aalam meiṅ aaj maatam
 
   1
-
-  Alam gharon may sajay huway hain, dilon may farsh-e-aza bicha hay
-
+  Siyaah kapre siyaah chaadar
+  Ghamoṅ ki gard o ghubaar sar par
+  Hai sogwaaroṅ ke ashk jaari
+  Ke saani-e-Zehra berida hai
 
   2
-
-  Siyah kapde siyah chadar
-
-  Ghamon ki gard o ghubaar sar par
-
-  Hai sogwaron ke ashk jaari
-
-  Ke saani e zehra berida hai
-
+  Na chashm-e-purnam ho kiuṅ sawaali
+  Julus hai Zuljanaah khaali
+  Ke mera Duldul sawaare Maula
+  Zameen-e-Karbal meiṅ so raha hai
 
   3
-
-  Na chashme purnam ho kyon sawali
-
-  Juloos hai zuljana khaali
-
-  Ke mera duldul saware maula
-
-  Zameene karbal mein so raha hai
-
+  Alam meiṅ mashk-e-Sakina dekho
+  To momino bas ye keh ke ro lo
+  Chacha bhatiji meiṅ kya hai nisbat
+  Wafa-e-Abbas kya wafa hai
 
   4
-
-  Alam mein mashke sakina dekho
-
-  To momino bas ye keh ke rolo
-
-  Chacha bhatiji mein kya hai nisbat
-
-  Wafa e abbas kya wafa hai
-
+  Husain piri meiṅ dil sambhaale
+  Ke dil se uljhi sinaaṅ nikaale
+  Jawaan beta lahu meiṅ duba
+  Zamiṅ pe aeri ragar raha hai
 
   5
-
-  Hussain peeri mein dil sambhale
-
-  Ke dil se uljhi sina nikaale
-
-  Jawan beta lahoo mein dooba
-
-  Zameen pe aedi ragad raha hai
-
+  Na maar barchhi dil-e-Nabi par
+  Abhi hue haiṅ jawaan Akbar
+  Ye qatl jis ko tuṅ kar raha hai
+  Yehi to hamshakl-e-Mustafa hai
 
   6
-
-  Na maar barchi dil e nabi par
-
-  Abhi huwe hai jawan akbar
-
-  Ye qatl jisko tu kar raha hai
-
-  Yehi to hamshakle mustafa hai
-
+  Madine waalo khaamosh rehna
+  Ghareeb Zainab se kuchh na kehna
+  Basa hua ghar jo le gayi thi
+  Wo Karbala meiṅ ujar gaya hai
 
   7
-
-  Madine walon khamosh rehna
-
-  Ghareeb zainab se kuch na kehna
-
-  Basa huwa ghar jo le gayi thi
-
-  Wo karbala mein ujad gaya hai
-
-
-  8
-
-  Aza e shabbir hai ibadat
-
-  Janabe zainab ki hai amanat
-
-  Ye nauha tere qalam se mehshar
-
-  Janabe zehra ki ek ata hai'
+  Aza-e-Shabbir hai ibaadat
+  Janaab-e-Zainab ki hai amaanat
+  Ye nauha tere qalam se Mehshar
+  Janaab-e-Zehra ki ik ata hai
 ---
 
 تمام عالم میں آج ماتم

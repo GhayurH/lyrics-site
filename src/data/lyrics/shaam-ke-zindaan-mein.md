@@ -32,12 +32,12 @@ romanLyrics: |-
   3
   Aap haiṅ masruf-e-girya is taraf
   Aur qayaamat aa chuki hai is taraf
-  Hazrat-e-Zainab se behnoṅ ne kaha
+  Zainab se behnoṅ ne kaha
   Mar gayi bimaar ki chhoti behan
 
   4
   Bhaai ki baahoṅ meiṅ baaheṅ daal kar
-  Maut ka te kar liya aakhir safar
+  Maut ka tai kar liya aakhir safar
   Dekhti Baaba ka kab tak raasta
   Mar gayi bimaar ki chhoti behan
 

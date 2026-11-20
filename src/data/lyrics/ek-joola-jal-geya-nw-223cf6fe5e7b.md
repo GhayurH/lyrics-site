@@ -1,38 +1,67 @@
 ---
-title: "Ek Joola Jal Geya"
+title: "ایک جھولا جل گیا"
+alternateTitle: "Ek Joola Jal Geya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ek joola jal geya
+
+  Ye joola ose joule howe joole ka he nishan
+
+  Pehlo me mena hotho na ghabra na mere lal
+
+  Jungle me neend ayeto sojana mere lal
+
+  Tum agyee to lal solaee ge ma kaha
+
+  Wo haath sar pay khaak na dalain toh keya karain
+
+  Sar peet nay kay kaam na ahtain toh keya karain
+
+  Gin hathoon say jhulati thee jhula tujay yay ma
+
+  Saye me aye Bano tho ghasht e ka ke gir paree
+
+  Pelo jo shal howa to sar khak e gir paree
+
+  Daman me the jalay howe joule ke lak reyan
+
+  Khadmo me thake Ghazi ke dareya be sogeya
+
+  Asgar ko leke goodme sara be sogeya
+
+  Joole ke rak jalgaee ek ma ki loreya
 ---
 
-Ek joola jal geya
+ایک جھولا جل گیا
 
--Ye joola ose joule howe joole ka he nishan
+یہ جھولا اس جھولے ہوئے جھولے کا ہے نشاں
 
--Pehlo me mena hotho na ghabra na mere lal
+پہلو میں میں نہ ہوں تو نہ گھبرانا میرے لال
 
-Jungle me neend ayeto sojana mere lal
+جنگل میں نیند آئے تو سو جانا میرے لال
 
-Tum agyee to lal solaee ge ma kaha
+تم آ گئی تو لال سلائے گی ماں کہاں
 
-Wo haath sar pay khaak na dalain toh keya karain
+وہ ہاتھ سر پہ خاک نہ ڈالیں تو کیا کریں
 
-Sar peet nay kay kaam na ahtain toh keya karain
+سر پیٹنے کے کام نہ آتے تو کیا کریں
 
-gin hathoon say jhulati thee jhula tujay yay ma
+جن ہاتھوں سے جھلاتی تھی جھولا تجھے یہ ماں
 
-Saye me aye bano tho ghasht e ka ke gir paree
+سائے میں آئی بانو تو غش کھا کے گر پڑی
 
-Pelo jo shal howa to sar khak e gir paree
+پہلو جو شل ہوا تو سرِ خاک ہی گر پڑی
 
-daman me the jalay howe joule ke lak reyan
+دامن میں تھیں جلے ہوئے جھولے کی لکڑیاں
 
-khadmo me thake ghazi ke dareya be sogeya
+قدموں میں تھک کے غازی کے دریا بھی سو گیا
 
-asgar ko leke goodme sara be sogeya
+اصغر کو لے کے گود میں صحرا بھی سو گیا
 
-joole ke rak jalgaee ek ma ki loreya
+جھولے کی راکھ، جل گئیں ایک ماں کی لوریاں

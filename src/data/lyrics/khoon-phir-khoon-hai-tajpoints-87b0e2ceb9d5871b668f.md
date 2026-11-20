@@ -1,49 +1,88 @@
 ---
-title: "Khoon Phir Khoon Hai"
+title: "خون پھر خون ہے"
+alternateTitle: "Khoon Phir Khoon Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Khoon phir khoon hai
+  Zulm phir zulm hai barhta hai mit jata hai
+
+  1
+  Khon phir khoon hai tapke ga tu jam jaye ga
+  Khak-e-sehra pe jame ya kaf-e-qatil pe jame
+  Farq-e-insaf pe ye pay-e-salasal pe jame
+  Taig-e-bedad pe ya lasha-e-bismil pe jame
+
+  2
+  Khoon phir khoon hai tapke ga tu jam jaye ga
+  Lakh baithe koi chup chup ke kameen gahon mein
+  Khon khud deta hai jaladon ke maskan ka surag
+  Sazishein lakh urhati rahein zulmat ki naqab
+
+  3
+  Le ke har bond nikalti hai hatheli pe cherag
+  Zulm ki qismat-e-nakarah-o-ruswa se kaho
+  Jabar ki hikmat-e-parkar ke emma se kaho
+  Khoon dewana hai daman pe lapak sakta hai
+
+  4
+  Shola-e-tand hai kharman pe lapak sakta hai
+  Tum ne jiss khoon ko maqtal mein dabana chaha
+  Aaj wo kocha-o-bazaar mein aa nikla hai
+  Kahin shola kahin narah kahin pathar ban ke
+
+  5
+  Khoon chalta hai rukta nahi sangeeno se
+  Sar uthata hai tu dabta nahi ayno se
+  Zulm ki baat hi kya zulm ki okaat hi kya
+  Zulm bas zulm hai agaz se anjam talak
+
+  6
+  Khoon phir khoon hai so shakal badal sakta hai
+  Aysi shaklein keh mitao tu mitaye na bane
+  Aise sholay ke bhujao tu bhujaye na bane
+  Aise nare ke dabao tu dabaye na bane
 ---
 
-Khoon Phir Khoon Hai.
-Zulm Phir Zulm Hai Barhta Hai Mit Jata Hai.
+خون پھر خون ہے
+ظلم پھر ظلم ہے بڑھتا ہے مٹ جاتا ہے
 
-1
-Khon Phir Khoon Hai Tapke Ga Tu Jam Jaye Ga.
-Khak-e-Sehra Pe Jame Ya Kaf-e-Qatil Pe Jame.
-Farq-e-Insaf Pe Ye Pay-e-Salasal Pe Jame.
-Taig-e-Bedad Pe Ya Lasha-e-Bismil Pe Jame.
+۱
+خون پھر خون ہے ٹپکے گا تو جم جائے گا
+خاکِ صحرا پہ جمے یا کفِ قاتل پہ جمے
+فرقِ انصاف پہ یا پائے سلاسل پہ جمے
+تیغِ بیداد پہ یا لاشۂ بسمل پہ جمے
 
-2
-Khoon Phir Khoon Hai Tapke Ga Tu Jam Jaye Ga.
-Lakh Baithe Koi Chup Chup Ke Kameen Gahon Mein.
-Khon Khud Deta Hai Jaladon Ke Maskan Ka Surag.
-Sazishein Lakh Urhati Rahein Zulmat Ki Naqab.
+۲
+خون پھر خون ہے ٹپکے گا تو جم جائے گا
+لاکھ بیٹھے کوئی چھپ چھپ کے کمین گاہوں میں
+خون خود دیتا ہے جلادوں کے مسکن کا سراغ
+سازشیں لاکھ اڑاتی رہیں ظلمت کی نقاب
 
-3
-Le Ke Har Bond Nikalti Hai Hatheli Pe Cherag.
-Zulm Ki Qismat-e-Nakarah-o-Ruswa Se Kaho.
-Jabar Ki Hikmat-e-Parkar Ke Emma Se Kaho.
-Khoon Dewana Hai Daman Pe Lapak Sakta Hai.
+۳
+لے کے ہر بوند نکلتی ہے ہتھیلی پہ چراغ
+ظلم کی قسمتِ ناکارہ و رسوا سے کہو
+جبر کی حکمتِ پرکار کے ایما سے کہو
+خون دیوانہ ہے دامن پہ لپک سکتا ہے
 
-4
-Shola-e-Tand Hai Kharman Pe Lapak Sakta Hai.
-Tum Ne Jiss Khoon Ko Maqtal Mein Dabana Chaha.
-Aaj Wo Kocha-o-Bazaar Mein Aa Nikla Hai.
-Kahin Shola Kahin Narah Kahin Pathar Ban Ke.
+۴
+شعلۂ تند ہے خرمن پہ لپک سکتا ہے
+تم نے جس خون کو مقتل میں دبانا چاہا
+آج وہ کوچہ و بازار میں آ نکلا ہے
+کہیں شعلہ کہیں نعرہ کہیں پتھر بن کے
 
-5
-Khoon Chalta Hai Rukta Nahi Sangeeno Se.
-Sar Uthata Hai TU Dabta Nahi Ayno Se.
-Zulm Ki Baat Hi Kya Zulm Ki Okaat Hi Kya.
-ZUlm Bas Zulm Hai Agaz Se Anjam Talak.
+۵
+خون چلتا ہے رکتا نہیں سنگینوں سے
+سر اٹھاتا ہے تو دبتا نہیں آئینوں سے
+ظلم کی بات ہی کیا ظلم کی اوقات ہی کیا
+ظلم بس ظلم ہے آغاز سے انجام تلک
 
-6
-Khoon Phir Khoon Hai So Shakal Badal Sakta Hai.
-Aysi Shaklein Keh Mitao Tu Mitaye Na Bane.
-Aise Sholay Ke Bhujao Tu Bhujaye Na Bane.
-Aise Nare Ke Dabao Tu Dabaye Na Bane.
+۶
+خون پھر خون ہے سو شکل بدل سکتا ہے
+ایسی شکلیں کہ مٹاؤ تو مٹائے نہ بنے
+ایسے شعلے کہ بجھاؤ تو بجھائے نہ بنے
+ایسے نعرے کہ دباؤ تو دبائے نہ بنے

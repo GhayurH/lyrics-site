@@ -1,44 +1,78 @@
 ---
-title: "Rooz Barpa Hai Ik Azay-e-Hussain"
+title: "روز برپا ہے اک عزائے حسین"
+alternateTitle: "Rooz Barpa Hai Ik Azay-e-Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rooz barpa hai ik azay-e-Hussain
+  Mere dil mein hai Karbalay-e-Hussain
+
+  1
+  Khud hi ban jati hai woh khak-e-shifa
+  Khak jo aye zair-e-paye Hussain
+  Tujh ko idrak-e-ibtida hi nahi
+  Kaise paye ga intehay-e-Hussain
+
+  2
+  Jis ka parhte hain kalma Hindu bhi
+  Our koi nahi siwaye Hussain
+  Oss ko phir ranj ka nahi khatra
+  Pass jis ke hai nuskha haye Hussain
+
+  3
+  Oss ko phir kaun rook sakta hai
+  Karbala khud jise bolaye Hussain
+  Hai mere waste woh sajda ga
+  Jis jagah dekhon naqsh-e-paye Hussain
+
+  4
+  Hai dua sirf tere naam ka ho
+  Ashk aankhon mein jab bhi aye Hussain
+  Zikar-e-Shabir tu hai aisa amal
+  Jis mein shamil hai khud Khuday-e-Hussain
+
+  5
+  Gir ke be-hosh ho gaye Mosa
+  Dekh paye na wo ziya-e-Hussain
+  Syeda ki riza hai yeh Raqib
+  Tu jo karne laga sanay-e-Hussain
 ---
 
-Rooz Barpa Hai Ik Azay-e-Hussain.
-Mere Dil Mein Hai Karbalay-e-Hussain.
+روز برپا ہے اک عزائے حسین
+میرے دل میں ہے کربلائے حسین
 
-1
-Khud Hi Ban Jati Hai Woh Khak-e-Shifa.
-Khak Jo Aye Zair-e-Paye Hussain.
-Tujh Ko Idrak-e-Ibtida Hi Nahi.
-Kaise Paye Ga Intehay-e-Hussain.
+۱
+خود ہی بن جاتی ہے وہ خاکِ شفا
+خاک جو آئے زیرِ پائے حسین
+تجھ کو ادراکِ ابتدا ہی نہیں
+کیسے پائے گا انتہائے حسین
 
-2
-Jis Ka Parhte Hain Kalma Hindu Bhi.
-Our Koi Nahi Siwaye Hussain.
-Oss Ko Phir Ranj Ka nahi Khatra.
-Pass Jis Ke Hai Nuskha Haye Hussain.
+۲
+جس کا پڑھتے ہیں کلمہ ہندو بھی
+اور کوئی نہیں سوائے حسین
+اس کو پھر رنج کا نہیں خطرہ
+پاس جس کے ہے نسخہ ہائے حسین
 
-3
-Oss Ko Phir Kaun Rook Sakta Hai.
-Karbala Khud Jise Bolaye Hussain.
-Hai Mere Waste Woh Sajda Ga.
-Jis Jagah Dekhon Naqsh-e-Paye Hussain.
+۳
+اس کو پھر کون روک سکتا ہے
+کربلا خود جسے بلائے حسین
+ہے میرے واسطے وہ سجدہ گاہ
+جس جگہ دیکھوں نقشِ پائے حسین
 
-4
-Hai Dua Sirf Tere Naam Ka Ho.
-Ashk Aankhon Mein Jab Bhi Aye Hussain.
-Zikar-e-Shabir Tu Hai Aisa Amal.
-Jis Mein Shamil Hai Khud Khuday-e-Hussain.
+۴
+ہے دعا صرف تیرے نام کا ہو
+اشک آنکھوں میں جب بھی آئے حسین
+ذکرِ شبیر تو ہے ایسا عمل
+جس میں شامل ہے خود خدائے حسین
 
-5
-Gir Ke Be-Hosh Ho Gaye Mosa.
-Dekh Paye Na Wo Ziya-e-Hussain.
-Syeda Ki Riza Hai Yeh Raqib.
-Tu Jo Karne Laga Sanay-e-Hussain.
+۵
+گر کے بے ہوش ہو گئے موسیٰ
+دیکھ پائے نہ وہ ضیائے حسین
+سیدہ کی رضا ہے یہ رقیب
+تو جو کرنے لگا ثنائے حسین

@@ -14,8 +14,8 @@ published: true
 romanLyrics: |-
   Ya Ali mushkil kusha dil rota hai
   Har azaadaar-e-Husain kehta hai
-  Sadqe meiṅ Sayyeda ke ham par karam rahe
-  Is dil meiṅ sirf aap ke bete ka gham rahe
+  Sadqe mein Sayyeda ke ham par karam rahe
+  Is dil mein sirf aap ke bete ka gham rahe
 
   1
   Ya Murtaza Ali mujhe dunya ka gham na ho
@@ -24,42 +24,42 @@ romanLyrics: |-
   2
   Khushiyoṅ se dur ho kar jita rahuṅ ga Maula
   Is gham se dur ho kar ji na sakuṅ ga Maula
-  Koi khushi nasib meiṅ chaahe raqam na ho
+  Koi khushi nasib mein chaahe raqam na ho
 
   3
-  Wo din bhi jald aaye Ae do jahaaṅ ke saahib
+  Wo din bhi jald aaye ae do jahaaṅ ke saahib
   Rota hua Najaf se Karbobala ki jaanib
-  Itna chaluṅ ke bas mere saansoṅ meiṅ dam na ho
+  Itna chaluṅ ke bas mere saansoṅ mein dam na ho
 
   4
-  Mushkil kusha tumhi ko maiṅ maanta huṅ Maula
+  Mushkil kusha tumhein ko main maanta huṅ Maula
   Sab par karam kiya hai ye jaanta huṅ Maula
-  Beshak mere hayaat meiṅ koi karam na ho
+  Beshak mere hayaat mein koi karam na ho
 
   5
   Shabbir ke hi gham se milti hai dil ko raahat
   Kab maangta huṅ Maula dunya ki baadshaahat
-  Beshak mere nasib meiṅ jaah o hasham na ho
+  Beshak mere nasib mein jaah o hasham na ho
 
   6
-  Chaahe jawaaṅ laasha bete ka maiṅ uthaauṅ
+  Chaahe jawaaṅ laasha bete ka main uthaauṅ
   Yaad-e-Husain le kar mayyat pe us ki jaauṅ
   Chalne ki taab khatm ho uthta qadam na ho
 
   7
   Rote hue Sakina kehne lagi phuphi se
-  Rouṅ to Shimr aa ke maare mujhe tamaache
+  Rouṅ to Shimr aa ke maare mujhe tamaanche
   Kijiye dua ke ab meri ye aankh nam na ho
 
   8
-  Shabbir ke liye hi maanga tha maiṅ ne Ghazi
-  Ummul Banin ke lab par bas ek ye dua thi
+  Shabbir ke liye hi maanga tha main ne Ghazi
+  Ummul Baniṅ ke lab par bas ek ye dua thi
   Jab tak jiuṅ mujhe mere Ghazi ka gham na ho
 
   9
   Rehaan Azmi ye kehne lage Raza se
-  Ro ro ke aaj maiṅ ne maanga hai Murtaza se
-  Dunya meiṅ mere naam ka chaahe bharam na ho
+  Ro ro ke aaj main ne maanga hai Murtaza se
+  Dunya mein mere naam ka chaahe bharam na ho
 ---
 یا علی مشکل کشا دل روتا ہے
 ہر عزادار حسین کہتا ہے

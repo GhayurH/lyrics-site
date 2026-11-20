@@ -13,15 +13,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Gir para ghore se jab ran meiṅ Shah-e-Karb o Balaa
-  Saare aalam meiṅ qayamat ka tha ek shor bapa
-  Dard meiṅ dubi hui aayi ye ek maaṅ ki sada
+  Saare aalam meiṅ qayaamat ka tha ik shor bapa
+  Dard meiṅ dubi hui aayi ye ik maaṅ ki sada
   Haye mazlum Husain mera mazlum Husain
 
-  Asr-e-Ashur mera laal bara pyasa hai
+  Asr-e-Ashur mera laal bara pyaasa hai
   Haye mazlum Husain mera mazlum Husain
 
   1
-  Ye Muhammad ka nawasa hai Ali ka beta
+  Ye Muhammad ka nawaasa hai Ali ka beta
   Kya khata hai mere bete ki bataao to zara
   Zaalimoṅ kiuṅ ise bejurm o khata ghera hai
 
@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Aaiye bahr-e-Khuda hashr bapa hai baba
   Shimr khanjar liye baaliṅ pe khara hai baba
-  Aap ke pyare nawase ka gala katta hai
+  Aap ke pyaare nawaase ka gala katta hai
 ---
 گر پڑا گھوڑے سے جب رن میں شاہ کرب و بلا
 سارے عالم میں قیامت کا تھا اک شور بپا

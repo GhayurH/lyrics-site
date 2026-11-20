@@ -11,73 +11,73 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Subbat alayya masaibu law annaha
-  Subbat alal ayyami sirna layaliya
+  Subbat alayya masaaibu law annaha
+  Subbat alal ayyaami sirna layaaliyaa
 
-  Jiska ji chaahe wo zehra pe sitam dhaata hai
+  Jis ka ji chaahe wo Zehra pe sitam dhaata hai
   Pursa kya aise yatimoṅ ko diya jaata hai
-  Mera darwaza jalaya kar diya pehlu shikasta
-  Phasliyaṅ tor di meri
-  Ya ali hyder e karrar
-  Kya unhe khabar nahi ali
+  Mera darwaaza jalaaya kar diya pehlu shikasta
+  Pasliyaaṅ tor di meri
+  Ya Ali Haidar-e-Karraar
+  Kya unheṅ khabar nahiṅ Ali
   Fatema yatim ho gayi
-  Zahra haye zahra zahra haye zahra
+  Zehra haaye Zehra Zehra haaye Zehra
 
   1
-  Sochti thi mustafa ki huṅ mai laadli
-  Pursa dene aayenge madine se sabhi
-  Intezar farshe gham pe karti reh gayi
+  Sochti thi Mustafa ki huṅ main laadli
+  Pursa dene aayeṅge Madine se sabhi
+  Intezaar farsh-e-gham pe karti reh gayi
   Mere sar pe haath rakhne aaya na koi
   Tin din ke baad aaye to
-  Ghar mera jala diya ali
+  Ghar meiṅ jala diya Ali
 
   2
-  Zaalimoṅ ne jalta dar giraya jis ghari
-  Haye mujhko fikr thi bas apne laal thi
-  Phasliyoṅ ke tutne ki kab sada suni
-  Mera mohsin ab nahi bacha samajh gayi
-  Jiska intezar tha mujhe
-  Chehra uska dekh na saki
+  Zaalimoṅ ne jalta dar giraaya jis ghari
+  Haaye mujhko fikr thi bas apne laal thi
+  Pasliyoṅ ke tutne ki kab sada suni
+  Mera Mohsin ab nahiṅ bacha samajh gayi
+  Jis ka intezaar tha mujhe
+  Chehre us ka dekh na saki
 
   3
-  Aap se na jaane unko kitna bughz tha
-  Ya ali kaha to aage ek layiṅ bara
-  Kya batauṅ jab talak wo thak nahi gaya
-  Haath par wo taaziyane maarta raha
+  Aap se na jaane un ko kitna bughz tha
+  Ya Ali kaha to aage ek laeeṅ bara
+  Kya bataauṅ jab talak wo thak nahiṅ gaya
+  Haath par wo taaziyaane maarta raha
   Ungliyoṅ meiṅ itna dard hai
   Haath na uthega ab kabhi
 
   4
-  Kaise ye tamache ka nishaṅ chupaungi
-  Poochega Husain to mai kya bataungi
-  Kaise apne bachoṅ se nzazar milaungi
-  Saamne Hasan ke ab mai kaise jaungi
-  Mujhpe haath utha jahaṅ kabhi
-  Bhul na sakungi wo gali
+  Kaise ye tamaanche ka nishaaṅ chhupaauṅ gi
+  Puchhega Husain to main kya bataauṅ gi
+  Kaise apne bachchoṅ se nazar milaauṅ gi
+  Saamne Hasan ke ab main kaise jaauṅ gi
+  Mujh pe haath utha jahaaṅ kabhi
+  Bhul na sakuṅ gi wo gali
 
   5
-  Mujhko dekhte hi masnad apni chor kar
-  Karte the adab mera jahaṅ mere padar
-  Jaane kab talak khari thi mai magar
-  Baithe has rahe the sab wo mere haal par
-  Unka ye suluk dekh kar
-  Dekho mai zaifa hogayi
+  Mujhko dekhte hi masnad apni chhor kar
+  Karte the adab mera jahaaṅ mere padar
+  Jaane kab talak khari thi main magar
+  Baithe hans rahe the sab wo mere haal par
+  Un ka ye suluk dekh kar
+  Dekho main zaif ho gayi
 
   6
-  Zakhmi aur yatim meri tarha ya ali
+  Zakhmi aur yatim meri tarha ya Ali
   Hogi ek laadli mere Husain ki
-  Choti zehra hone pe sitam uthayegi
-  Qaid hoke jab wo shehre shaam jayegi
-  Khayegi tamache shimr ke
-  Raah meiṅ sakina bhi meri
+  Chhoti Zehra hone pe sitam uthaayegi
+  Qaid ho ke jab wo shahr-e-Shaam jaayegi
+  Khaayegi tamaanche Shimr ke
+  Raah meiṅ Sakina bhi meri
 
   7
-  Kaise zishan likhe kis tarha farhan parhe
-  Fatema zehra pe jo zulm madine meiṅ huwe
-  Bibi har zulm pe kehti thi yehi ro ro ke
+  Kaise Zeeshan likhe kis tarha Farhan parhe
+  Fatema Zehra pe jo zulm Madine meiṅ hue
+  Bibi har zulm pe kehti thi yahi ro ro ke
   Kya yatimoṅ pe sitam karta hai koi aise
-  Hai dua waqt kisi maa pe na aaye aisa
-  Saamne bachoṅ ke jis tarha mujhe maara gaya
+  Hai dua waqt kisi maaṅ pe na aaye aisa
+  Saamne bachchoṅ ke jis tarha mujhe maara gaya
 ---
 صُبَّتْ عَلَيَّ مَصَائِبٌ لَوْ أَنَّهَا
 صُبَّتْ عَلَى الْأَيَّامِ صِرْنَ لَيَالِيَا

@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Bhaiya Abbas"]
 published: true
 romanLyrics: |-
-  Kehte the Hazrat-e-Shabbir ae bhaiya Abbas
+  Kehte the Hazrat Shabbir ae bhaiya Abbas
   Bachche pyaase haiṅ unheṅ paani pilaana Abbas
 
   1
@@ -21,7 +21,7 @@ romanLyrics: |-
   Laut kar aaoge ye waada karo ya Abbas
 
   2
-  Maiṅ ne sab bachchoṅ se khaimoṅ meiṅ kiya hai waada
+  Main ne sab bachchoṅ se khaimoṅ mein kiya hai waada
   Paani laane ke liye nehr pe jaate haiṅ chacha
   Tum hi waade ko Sakina ke nibhaana Abbas
 
@@ -41,13 +41,13 @@ romanLyrics: |-
   Dekho wo paani liye aata hai pyaara Abbas
 
   6
-  Jis ghari khaime meiṅ daakhil hue Shah-e-aalam
-  Bole Shabbir liye haathoṅ meiṅ Ghazi ka alam
+  Jis ghari khaime mein daakhil hue Shah-e-aalam
+  Bole Shabbir liye haathoṅ mein Ghazi ka alam
   Chhor do aas Sakina nahiṅ zinda Abbas
 
   7
-  Khaimoṅ meiṅ Majid o Mukhtar ajab tha aalam
-  Gird sab bachche the aur bich meiṅ Ghazi ka alam
+  Khaimoṅ mein Majid o Mukhtar ajab tha aalam
+  Gird sab bachche the aur bich mein Ghazi ka alam
   Thi ye Zainab ki sada ae mere bhaiya Abbas
 ---
 کہتے تھے حضرت شبیر اے بھیا عباس

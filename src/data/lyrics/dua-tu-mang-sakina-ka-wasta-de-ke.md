@@ -9,57 +9,39 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Dua Tu Mang Sakina Ka Wasta De Ke"
-romanLyrics: 'Dua Tu Mang Sakina Ka Wasta De Ke.
-
-  Yeh Kaise Ho Ga Ke Abbas Our Atta Na Kare.
-
-  Alam Pe Ja Ke Sakina Ka Wasta Dena.
-
-  Pharera Tham Ke Gham Apne Sab Suna Dena.
-
+romanLyrics: |-
+  Dua tu maaṅg Sakina ka waasta de ke
 
   1
-
-  Jalana Nam-e-Sakina Ka Ik Diya Ja Ke.
-
-  Alam Pe Jao Tu Bachoon Ko Sath Le Jao.
-
-  Wahan Sakina Ka Pursa Do Phir Dua Mango.
-
-  Tumhare Haq Mein Sakina Jo Khud Dua Kar De.
-
+  Yeh kaise hoga ke Abbas aur ataa na kare
+  Alam pe ja ke Sakina ka waasta dena
+  Pharera thaam ke gham apne sab bhula dena
+  Jalaana naam-e-Sakina ka ik diya ja ke
 
   2
-
-  Rida-e-Zainab-e-Muztar Ka Wasta Dena.
-
-  Ghareeb-e-Zahra Ka Sharbat Pe Fateha Dena.
-
-  Duaein Mangna Hathoon Mein Baliyaan Rakh Ke.
-
-  Atta Kare Jo Khuda Mujh Ko Aik Ghar Apna.
-
+  Alam pe jaao to bachchoṅ ko saath le jaao
+  Wahaaṅ Sakina ka pursa do phir dua maaṅgo
+  Tumhaare haq mein Sakina jo khud dua kar de
 
   3
-
-  Rakhoon Ga Ghar Mein Sakina Ke Naam Ka Hujrah.
-
-  Alam Ko Tham Ke Manat Yeh Man Le Ro Ke.
-
-  Jo Tu Ne Mang Li Aulad Our Yeh Socha.
-
-  Osse Sakina Ka Saqa Main Khud Banao Ga.
-
+  Rida-e-Zainab-e-Muztar ka waasta dena
+  Gharib-e-Zahra ka sharbat pe faatiha dena
+  Duaaeṅ maaṅgna haathoṅ mein baaliyaaṅ rakh ke
 
   4
+  Ataa kare jo Khuda mujh ko ek ghar apna
+  Rakhuṅ ga ghar mein Sakina ke naam ka hujra
+  Alam ko thaam ke mannat yeh maan li ro ke
 
-  Niyat Yeh Kar Li Jo Tu Ne Duaon Se Pehle.
+  5
+  Jo tu ne maaṅg li aulaad aur yeh socha
+  Use Sakina ka saqqa main khud banaauṅ ga
+  Niyat yeh kar li jo tu ne duaaoṅ se pehle
 
-  Buland Bas Yeh Aqeeda Hai Mazhar-o- Farhan.
-
-  Hussainiyo Ki Tu Rahat Ka Hai Yehi Saman.
-
-  Jo Panjtan Ke Bhikari Bano Saleeqe Se.'
+  6
+  Buland bas yeh aqida hai Mazhar o Farhan
+  Husainiyoṅ ki to raahat ka hai yehi saamaaṅ
+  Jo Panjtan ke bhikaari bano saliqe se
 ---
 
 دعا تو مانگ سکینہ کا واسطہ دیکے

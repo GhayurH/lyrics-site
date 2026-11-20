@@ -1,6 +1,6 @@
 ---
 title: "اے بارھویں مولاؑ میرا ایمان جگا دے"
-alternateTitle: "Aye Barwe Moula Mera Iman Jaga Day"
+alternateTitle: "Ae Baarhweṅ Maula Mera Imaan Jaga De"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,75 +9,75 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye barwe moula mera iman jaga day
-  AsSalam o Alaika ya baqiyat Allah
-  Miljaye raza Rab ki saleeqa tu dikha day
+  Ae baarhweṅ Maula mera imaan jaga de
+  Assalaamu alaika ya Baqiyyat Allah
+  Mil jaaye raza Rab ki saliqa tu dikha de
 
   1
-  Khudgarzi ka aualam hai har ek shaqs pareshaan
-  Mazhab pey ibadat hai doori ka yeh saaman
-  Momin ki hai pehchaan rasta woh dikha day
-  Aye baarwe moula mera imaan jaga day
+  Khudgharzi ka aalam hai har ek shakhs pareshaan
+  Mazhab pe ibaadat hai duri ka yeh saamaan
+  Momin ki hai pehchaan rasta woh dikha de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   2
-  Har simt gunahon ki Fiza ruh hai har su
-  Ham logon pe saaya kiye rahta hai bas ek tu
-  Har ek gunah se mere daman ko bacha dey
-  Aye baarwe moula mera imaan jaga day
+  Har simt gunaahon ki fiza ruh hai har su
+  Ham logoṅ pe saaya kiye rehta hai bas ek tu
+  Har ek gunaah se mere daaman ko bacha de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   3
-  Moula mai gunahgaar khata Kaar bada hun
-  Mai aas ye rakhta hun ke momin toh tera hun
-  Bigdi hui taqdeer hai moula tu bana day
-  Aye baarwe moula mera imaan jaga day
+  Maula main gunaahgaar khataakaar bara huṅ
+  Main aas yeh rakhta huṅ ke momin to tera huṅ
+  Bigri hui taqdir hai Maula tu bana de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   4
-  Mai majlis-e-Shabbir bapa karta hun moula
-  Lekin mai dikhave ka bharam rakhta hun moula
-  Is dil mein mere sheh ka azakhana saja day
-  Aye baarwe moula mera imaan jaga day
+  Main majlis-e-Shabbir bapa karta huṅ Maula
+  Lekin main dikhaawe ka bharam rakhta huṅ Maula
+  Is dil mein mere sheh ka azaakhaana saja de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   5
-  Ghaibat ka jo purda hai usse ab toh uthaday
-  Deewane tadaptein hai ziyarat toh karaday
-  Tu Hujjat-e-Allah hai jahan ko yeh bata day
-  Aye baarwe moula mera imaan jaga day
+  Ghaibat ka jo parda hai use ab to utha de
+  Diwaane tarapte haiṅ ziyaarat to kara de
+  Tu Hujjat-e-Allah hai jahaaṅ ko yeh bata de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   6
-  Har pal mein ibadat ho tilwat wo qurani
-  Ho hamko dua-e-nudba yaad zubani
-  Shaamil tere lashkar mein ho yeh (azm) banaday
-  Aye baarwe moula mera imaan jaga day
+  Har pal mein ibaadat ho tilaawat woh Quraani
+  Ho ham ko dua-e-Nudba yaad zabaani
+  Shaamil tere lashkar mein ho yeh azm bana de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   7
-  Qaem rahe majlis yeh azakhane hamarey
-  Tutein na waseelon ke muraadoN ke saharey
-  Jo dushman-e-Shabbir hai usko tu mita day
-  Aye baarwe moula mera imaan jaga day
+  Qaaim rahe majlis yeh azaakhaane hamaare
+  Tuteṅ na wasiloṅ ke muraadoṅ ke sahaare
+  Jo dushman-e-Shabbir hai us ko tu mita de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   8
-  Aajaye na Shiite pey baqa shah ka ho gham
-  Jhuk payega parcham na rukega kabhi matam
-  Ye zikr-e-Hussaini hai issey azm-e-wafa day
-  Aye baarwe moula mera imaan jaga day
+  Aa jaaye na Shiat pe baqa sheh ka ho gham
+  Jhuk paayega parcham na rukega kabhi maatam
+  Yeh zikr-e-Husaini hai ise azm-e-wafa de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   9
-  Moula tujhe Zainab ki aseeri ki kasam hai
-  Jo bhi hai giraftaar ya (jid) ghar mein bhi gham hai
-  Sadqe meri bibi ke nijaat tumko diladay
-  Aye baarwe moula mera imaan jaga day
+  Maula tujhe Zainab ki asiri ki qasam hai
+  Jo bhi hai giraftaar ya jis ghar mein bhi gham hai
+  Sadqe meri Bibi ke nijaat tum ko dila de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   10
-  Aulad sey mahroom hai bhurti hai jo aahein
-  Behney woh pakad kar karein duleh ko duaaein
-  In logon ke gulshan mein bas ab phool khiladay
-  Aye baarwe moula mera imaan jaga day
+  Aulaad se mahrum haiṅ bharti haiṅ jo aaheṅ
+  Behneṅ woh pakar kar kareṅ dulhe ko duaaeṅ
+  In logoṅ ke gulshan mein bas ab phul khila de
+  Ae baarhweṅ Maula mera imaan jaga de
 
   11
-  Jinka nahin imaan imamat pey bharosa
-  Woh asl mein detey hai (alijeer) ko dhoka
-  Kya hukm-e-Nabi hai tu inhein aaake sunaday
-  Aye baarwe moula mera imaan jaga day
+  Jin ka nahiṅ imaan imaamat pe bharosa
+  Woh asl mein dete haiṅ Ali Ji ko dhoka
+  Kya hukm-e-Nabi hai tu inheṅ aa ke suna de
+  Ae baarhweṅ Maula mera imaan jaga de
 ---
 
 اے بارھویں مولا میرا ایمان جگا دے

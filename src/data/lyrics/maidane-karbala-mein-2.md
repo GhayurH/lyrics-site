@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tarikh e karbala ka sab ko sabakh hai yaad
+  Tarikh-e-Karbala ka sab ko sabaq hai yaad
   Hai khun-e-sheh ke sadqe tauhid zindabad
-  Chauda sau saal guzre lekin labe rawaṅ se
-  Aati hai ye sadayeiṅ masjid ki har azaṅ se
-  Maidan e karbala meiṅ khamosh mayyatoṅ ne
+  Chauda sau saal guzre lekin lab-e-rawaaṅ se
+  Aati hai ye sadaaeṅ masjid ki har azaaṅ se
+  Maidan-e-Karbala meiṅ khamosh mayyatoṅ ne
   Islam ki baqa ka elaan kar diya
-  Hasnain ke lahu ke cheento ki rehmato ne
+  Hasnain ke lahu ke chhitoṅ ki rahmatoṅ ne
   Dunya ke har bashar par ehsaan kar diya hai
-  Shaah e mardan shere yazdaṅ quwate parwardigar
-  La fata illa ali la saif illa zulfeqaar
-  Ye hai ali ka rutba abbas unka beta
-  Tiroṅ ki barishoṅ meiṅ mashkeeza bhar raha hai
-  Maidan e karbala mein...
-  Aale iba pani ki ek ek bundh ko haye taraste hai
-  Ahle haram registano meiṅ maare maare phirte hai
-  Sehra e karbala meiṅ un zaalimo ke haathoṅ
-  Sarkar e do jahan ka pyara sa ghar luta hai
-  Maidan e karbala mein...
-  Kya hai rutba aale nabi ka aao mohamed se pucho
-  Baaghe jina ke shehzadoṅ se aun o mohamed se pucho
-  Sajde se sar utha'ta kaise nabi khuda ka
-  Kaandhe pa apne jisne nure nazar liya hai
-  Maidan e karbala mein...
-  Jo bhi gaya maqtal ki taraf laasha uska wapas aaya
-  Aada ne har ek mujahid ko dhoka de kar maara
-  Ansar e shaah e deen ne tauhid ko bachane
-  Ishq e ali meiṅ khud ko qurban kar diya hai
-  Maidan e karbala mein...
-  Baade shahe diṅ zainabe muztar diṅ ka alam lekar nikli
-  Shaam aur kufa ke darbaroṅ ko wo ulat kar hi palti
-  Baatil samajh raha tha qatl e Husain kar ke
-  Tauhid ka tasavvur dunya se mit gaya hai
-  Maidan e karbala mein...
+  Shaah-e-mardaan sher-e-yazdaaṅ quwwat-e-parwardigaar
+  La fata illa Ali la saif illa Zulfiqaar
+  Ye hai Ali ka rutba Abbas unka beta
+  Tiroṅ ki baarishoṅ meiṅ mashkiza bhar raha hai
+  Maidan-e-Karbala meiṅ...
+  Aal-e-Aba paani ki ek ek bundh ko haaye taraste haiṅ
+  Ahl-e-haram registaanoṅ meiṅ maare maare phirte haiṅ
+  Sehra-e-Karbala meiṅ in zaalimoṅ ke haathoṅ
+  Sarkaar-e-do jahaaṅ ka pyaara sa ghar luta hai
+  Maidan-e-Karbala meiṅ...
+  Kya hai rutba aal-e-nabi ka aao Muhammad se puchho
+  Baagh-e-jinaaṅ ke shahzaadoṅ Aun o Muhammad se puchho
+  Sajde se sar uthta kaise nabi-e-Khuda ka
+  Kaandhe pe apne jis ne nur-e-nazar liya hai
+  Maidan-e-Karbala meiṅ...
+  Jo bhi gaya maqtal ki taraf laasha us ka waapas aaya
+  Aada ne har ek mujaahid ko dhoka de kar maara
+  Ansaar-e-Shaah-e-Shahidaaṅ ne tauhid ko bachaane
+  Ishq-e-Ali meiṅ khud ko qurbaan kar diya hai
+  Maidan-e-Karbala meiṅ...
+  Baad-e-sheh-e-diṅ Zainab-e-muztar diṅ ka alam le kar nikli
+  Shaam aur Kufe ke darbaaroṅ ko wo ulat kar hi palti
+  Baatil samajh raha tha qatl-e-Husain kar ke
+  Tauhid ka tasawwur dunya se mit gaya hai
+  Maidan-e-Karbala meiṅ...
 ---
 
 ۱

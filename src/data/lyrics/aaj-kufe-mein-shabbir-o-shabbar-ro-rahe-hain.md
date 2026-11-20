@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Aaj Kufe meiṅ Shabbir o Shabbar ro rahe haiṅ
   Baap ko apne Zehra ke dilbar ro rahe haiṅ
-  Bahr o bar meiṅ hai ghul aaj barpa wa Ali ka
+  Bahr o bar meiṅ hai ghul aaj barpa waa Ali ka
   Aaj Jibrail arsh-e-Baari par ro rahe haiṅ
   Aaj Kufe meiṅ...
   Aaj shehzaadiyaaṅ haiṅ pareshaaṅ shaah-e-zishaaṅ
@@ -21,7 +21,7 @@ romanLyrics: |-
   Chhor kar ham ko Baba sidhaare
   Betiyaaṅ Faatima ki ye keh kar ro rahe haiṅ
   Aaj Kufe meiṅ...
-  Hai yatimoṅ ke bewaoṅ ke waali shaah-e-aali
+  Hai yatimoṅ ke bewaaoṅ ke waali shaah-e-aali
   Ab na waaris raha koi sar par ro rahe haiṅ
   Aaj Kufe meiṅ...
   Hai janaaze pe ik shor barpa bekasoṅ ka

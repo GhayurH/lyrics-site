@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sheh-rag-e-Asghar pe haaye
+  Sheh rag-e-Asghar pe haaye
   Hurmala ka tir hai
 
   Dekh kar manzar hai naazaaṅ
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Maiṅ bhi Qasim ki tarah
-  Duṅgi Asghar khwaab tha
+  Duṅ gi Asghar khwaab tha
   Aaj tu ne laaj rakh li
   Ye meri taabir hai
 

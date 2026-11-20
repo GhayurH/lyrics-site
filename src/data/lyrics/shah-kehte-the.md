@@ -9,28 +9,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shaah kehte the mujhe shakl dikha do akbar
+  Shaah kehte the mujhe shakl dikha do Akbar
 
   1
-  Aa nahi sakte ho awaaz suna do akbar
-  Thokare khaake ye majbur pidar gir na pare
-  Nur aankhoṅ may nahi raah dikha do akbar
+  Aa nahiṅ sakte ho aawaaz suna do Akbar
+  Thokareṅ kha ke ye majbur pidar gir na pare
+  Nur aankhoṅ mein nahiṅ raah dikha do Akbar
 
   2
-  Paalne waali phupi ghash may pari hai beta
-  Usko chal kar zara daaman ki hawa do akbar
+  Paalne waali phuphi ghash mein pari hai beta
+  Usko chal kar zara daaman ki hawa do Akbar
 
   3
-  Baal khole huwe maadar ye khari hai beta
-  Usko samjha ke aba apni udha do akbar
+  Baal khole hue maadar ye khari hai beta
+  Usko samjha ke aba apni urha do Akbar
 
   4
   Paas darya ke agar ho to ye ehsaan karo
-  Dayr se sote hai abbas jaga do akbar
+  Der se sote haiṅ Abbas jaga do Akbar
 
   5
   Asr ka waqt qarib aa gaya jaago mere laal
-  Ek baar apni azaṅ mujhko suna do akbar
+  Ek baar apni azaaṅ mujhko suna do Akbar
 ---
 
 شاہ کہتے تھے مجھے شکل دکھا دو اکبر

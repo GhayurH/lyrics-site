@@ -1,30 +1,50 @@
 ---
-title: "Lay Ke Sajjad Be Rida Mawaan Kiwein Aaya Aye New Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "لے کے سجاد بے ردا ماواں کیویں آیا اے"
+alternateTitle: "Lay Ke Sajjad Be Rida Mawaan Kiwein Aaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Lay ke Sajjad be rida mawaan kiwein aaya aye Khuda khair kare
+  Dhiyaan Zahra diyaan nu zalim ne kyun darbar bulaya aye Khuda khair karey
+  Darbar de band darwaziyan ne beemar da istaqbal kita
+  Oh sir v naal ne sangaan te jinna lashaan nu pamal kita
+  Safar bhul gaye ne sare Abid nu ik peshi mar mukaya aye Khuda khair karey
+  Beemar di akh da har manzar oss welay khon che rangiya aye
+  Ik fasiq ne haye qaidiyan choon kino naal kaneezi mangiya aye
+  Kiwein suniya aye Abid Rab jane onay naam Sakina chaya aye Khuda khair karey
+  Sir khak te khon di chadar le Zainab, Sajjad de naal gayi
+  Jinnay jan bachai Abid di har moor uttay oh naal rayi
+  Oh v puchdi aye Abid zalimaan ne aj kyun darbar sajaya aye Khuda khair karey
+  Ik rasi de wich baniyaan ne kuj be pardah mastoraan ne
+  Munh walaan naal chupaye ne darbar de wich majboran ne
+  Ona de aasrey nu zalim ne haye qatal da hukam sunaya aye Khuda khair karey
+  Kariyaan te beriyaan tauq jiday zakhma te zakhm banaye ne
+  Rab jane jiondiyaan Abid ne kiwein Sham de safar mokaye ne
+  Kiwein jhalna aye Najfi, Abid ne jehra phat darbar ne laya aye Khuda khair karey
 ---
 
-1
-Lay Ke Sajjad Be Rida Mawaan Kiwein Aaya Aye Khuda Khair Kare.
-Dhiyaan Zahra Diyaan Nu Zalim Ne Kyun Darbar Bulaya Aye Khuda Khair Karey.
-Darbar De Band Darwaziyan Ne Beemar Da Istaqbal Kita.
-Oh Sir V Naal Ne Sangaan Te Jinna Lashaan Nu Pamal Kita.
-Safar Bhul Gaye Ne Sare Abid Nu Ik Peshi Mar Mukaya Aye Khuda Khair Karey.
-Beemar Di Akh Da Har Manzar Oss Welay Khon Che Rangiya Aye.
-Ik Fasiq Ne Haye Qaidiyan Choon Kino Naal Kaneezi Mangiya Aye.
-Kiwein Suniya Aye Abid Rab Jane Onay Naam Sakina Chaya Aye Khuda Khair Karey.
-Sir Khak Te Khon Di Chadar Le Zainab, Sajjad De Naal Gayi.
-Jinnay Jan Bachai Abid Di Har Moor Uttay Oh Naal Rayi.
-Oh V Puchdi Aye Abid Zalimaan Ne Aj Kyun Darbar Sajaya Aye Khuda Khair Karey.
-Ik Rasi De Wich Baniyaan Ne Kuj Be Pardah Mastoraan Ne.
-Munh Walaan Naal Chupaye Ne Darbar De Wich Majboran Ne.
-Ona De Aasrey Nu Zalim Ne Haye Qatal Da Hukam Sunaya Aye Khuda Khair Karey.
-Kariyaan Te Beriyaan Tauq Jiday Zakhma Te Zakhm Banaye Ne.
-Rab Jane Jiondiyaan Abid Ne Kiwein Sham De Safar Mokaye Ne.
-Kiwein Jhalna Aye Najfi, Abid Ne Jehra Phat Darbar Ne Laya Aye Khuda Khair Karey.
+۱
+لے کے سجاد بے ردا ماواں کیویں آیا اے خدا خیر کرے
+دھیاں زہرا دیاں نوں ظالم نے کیوں دربار بلایا اے خدا خیر کرے
+دربار دے بند دروازیاں نے بیمار دا استقبال کیتا
+اوہ سر وی نال نیں سنگاں تے جنہاں لاشاں نوں پامال کیتا
+سفر بھل گئے نیں سارے عابد نوں اک پیشی مار مکایا اے خدا خیر کرے
+بیمار دی اکھ دا ہر منظر اوس ویلے خون چے رنگیا اے
+اک فاسق نے ہائے قیدیاں چوں کنوں نال کنیزی منگیا اے
+کیویں سنیا اے عابد رب جانے اوہنے نام سکینہ چایا اے خدا خیر کرے
+سر خاک تے خون دی چادر لے زینب، سجاد دے نال گئی
+جنے جان بچائی عابد دی ہر موڑ اتے اوہ نال رہی
+اوہ وی پچھدی اے عابد ظالماں نے اج کیوں دربار سجایا اے خدا خیر کرے
+اک رسی دے وچ بنھیاں نیں کجھ بے پردہ مستوراں نیں
+منہ والاں نال چھپائے نیں دربار دے وچ مجبوراں نے
+اوناں دے آسرے نوں ظالم نے ہائے قتل دا حکم سنایا اے خدا خیر کرے
+کڑیاں تے بیڑیاں طوق جیدے زخماں تے زخم بنائے نیں
+رب جانے جیوندیاں عابد نے کیویں شام دے سفر مکائے نیں
+کیویں جھلنا اے نجفی، عابد نے جہڑا پھٹ دربار نے لایا اے خدا خیر کرے

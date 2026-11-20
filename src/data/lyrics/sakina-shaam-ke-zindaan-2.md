@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Shaam ko ghar jaate haiṅ sab taairaan-e-aasmaaṅ
-  Kab Madine jaauṅ gi maiṅ ae mera tashna dahaaṅ
+  Kab Madine jaauṅ gi main ae mera tashna dahaaṅ
   Kab miluṅ gi jaa ke Sughra se meri jo hai wahaaṅ
 
   7
@@ -57,12 +57,12 @@ romanLyrics: |-
 
   9
   Bhai ki chaahat kahaaṅ aur aap ki shafqat kahaaṅ
-  Sine pe so jaauṅ maiṅ aisi meri qismat kahaaṅ
+  Sine pe so jaauṅ main aisi meri qismat kahaaṅ
   Bhai Akbar yaad aate haiṅ jo sunti huṅ azaaṅ
 
   10
   Soz ho ek ko ata aur ek ko zor-e-qalam
-  Rakhiyega donoṅ pe ae Bibi sada chashm-e-karam
+  Rakhiye ga donoṅ pe ae Bibi sada chashm-e-karam
   Aap ka shaayar hai Ahmed aur Mohsin nauha khwaaṅ
 ---
 سکینہ شام کے زندان میں رو رو کے کرتی تھی بیاں

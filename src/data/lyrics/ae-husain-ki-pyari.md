@@ -21,13 +21,13 @@ romanLyrics: |-
   Saath chhor kar mera tum gayi kahaaṅ Bibi
 
   2
-  Aaj shab ki tariki barh gayi hai zindaaṅ meiṅ
+  Aaj shab ki taariki barh gayi hai zindaaṅ meiṅ
   Bebasi udaasi hai bekasi hai zindaaṅ meiṅ
-  Tum jo ab nahiṅ roti khamoshi hai zindaaṅ meiṅ
-  Sogwaar baithi hai saari Bibiyaaṅ Bibi
+  Tum jo ab nahiṅ roti khaamoshi hai zindaaṅ meiṅ
+  Sogwaar baithi hai saari bibiyaaṅ Bibi
 
   3
-  Karbala ke maidan meiṅ mujhse chhut gaya Asghar
+  Karbala ke maidaan meiṅ mujhe chhut gaya Asghar
   Tum se hi bahalta tha ab mera dil-e-muztar
   Kitni besahaara huṅ ye to sochti dilbar
   Tum se chhut ke zindaan meiṅ kya jiyegi maaṅ Bibi
@@ -40,15 +40,15 @@ romanLyrics: |-
 
   5
   Jaa ke apne ammu ko haal apna dikhlaaye
-  Kya sitam uthaaye haiṅ kya sahi hai izaayeiṅ
+  Kya sitam uthaaye haiṅ kya sahi hai izaayeṅ
   Aap ke chacha Bibi ghaiz meiṅ na aa jaaye
-  Dekh kar tamaachoṅ ke gaal par nishaaṅ Bibi
+  Dekh kar tamaanchoṅ ke gaal par nishaaṅ Bibi
 
   6
   Kaan se chhine gauhar aur jal gaya kurta
   Donoṅ gaal zakhmi haiṅ pusht par laga durra
   Dekhti rahi bebas maaṅ bahut hai sharminda
-  Maaṅ ke saamne khaayi tum ne sailiyaaṅ Bibi
+  Maaṅ ke saamne khaayi tum ne siliyaaṅ Bibi
 
   7
   Tang qaid khaane meiṅ sab hai muztar o hairaaṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   8
   Ghar ujar gaya mera qatl ho gaye Baba
   Karbala se laayi huṅ dil pe daagh Asghar ka
-  Ab to dil ki har hasrat thi tumhiṅ se waabasta
+  Ab to dil ki har hasrat thi tumheṅ se waabasta
   Kar gayi mere armaaṅ khaak meiṅ nihaaṅ Bibi
 ---
 

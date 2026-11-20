@@ -16,7 +16,7 @@ romanLyrics: |-
   Aa god meiṅ aa jaa mere Husain
 
   1
-  Abbas mar gayaa teraa Akbar nahiṅ rahaa
+  Abbaas mar gayaa teraa Akbar nahiṅ rahaa
   Godi meiṅ jis ko paalaa thaa Asghar nahiṅ rahaa
   Sab mar chuke haiṅ roti hai Zehra mere Husain
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Royegi dil ko thaam ke Zehra mere Husain
 
   7
-  Tu ne galaa kataa diyaa Islam ke liye
+  Tu ne galaa kataa diyaa Islaam ke liye
   Di jaan apni din ke paighaam ke liye
   Khaaliq kaa naam kar diyaa unchaa mere Husain
 

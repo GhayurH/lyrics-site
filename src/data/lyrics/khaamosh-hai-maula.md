@@ -13,17 +13,17 @@ aliases:
   - "Khamosh Hai Maula"
 published: true
 romanLyrics: |-
-  Haae haae Ali Akbar
+  Haaye haaye Ali Akbar
   Laasha jawaan bete ka hai saamne para
   Khaamosh hai Maula
-  Armaan tha jiski shaadi ka wo laal mar gaya
+  Armaan tha jis shaadi ka wo laal mar gaya
   Khaamosh hai Maula
   Allah kitna saabir hai Husain
 
   1
   Shaana kabhi hilaata hai chehra kabhi thapakta hai
   Kitna gharib baaba hai
-  Haṅste hai barchhiyoṅ waale Akbar nahiṅ uthta
+  Hanste hai barchhiyoṅ waale Akbar nahiṅ uthta
   Khaamosh hai Maula
 
   2
@@ -33,15 +33,15 @@ romanLyrics: |-
   Khaamosh hai Maula
 
   3
-  Athaara saal waale ke chehre pe kuch nishaaṅ bhi hai
+  Athaara saal waale ke chehre pe kuchh nishaaṅ bhi nahiṅ
   Aur tuti pasliyaaṅ bhi hai
   Bete ka haal dekh ke yaad aati hai Zahra
   Khaamosh hai Maula
 
   4
-  Tum sabr karna ae baaba sine se kheṅch kar barchhi
+  Tum sabr karna ae baaba sine se khench kar barchhi
   Akbar ki ye wasiyyat thi
-  Sine se kheṅch li barchhi pura hua waada
+  Sine se khench li barchhi pura hua waada
   Khaamosh hai Maula
 
   5
@@ -51,9 +51,9 @@ romanLyrics: |-
   Khaamosh hai Maula
 
   6
-  Khaime meiṅ Shaah le aaye karyal jawaan ka laasha
+  Khaime meiṅ Shaah le aaye kariyal jawaan ko
   Kohraam ho gaya barpa
-  Bhai ke zakhmi sine se lipti hai Sakina
+  Bhai ki zakhmi sine se lipti hai Sakina
   Khaamosh hai Maula
 
   7

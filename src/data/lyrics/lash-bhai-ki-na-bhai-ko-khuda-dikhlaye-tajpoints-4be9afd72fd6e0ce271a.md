@@ -1,50 +1,90 @@
 ---
-title: "Lash Bhai Ki Na Bhai Ko Khuda Dikhlaye"
+title: "لاش بھائی کی نہ بھائی کو خدا دکھلائے"
+alternateTitle: "Lash Bhai Ki Na Bhai Ko Khuda Dikhlaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Lash bhai ki na bhai ko Khuda dikhlaye
+
+  1
+  Gir gaye hazrat-e-Abbas kinare darya
+  Tab kamar pakre hoye lash par pohanche Mula
+  Dekha keh khon mein doba howa hai akhi ka lasha
+  Dekh kar soye falak shah-e-Hudda ne yeh kaha
+  Our taqdeer har ik ranj-o-bala dikhlaye
+  Aye mere bhai mere lal mere lakht-e-jigar
+  Choor kar mujh ko yahan kar gaye dunya se safar
+  Tum nahi ho tu bhala main bhi jiyon ga kyun kar
+  Koi bhi dekhe na woh zakhm jo main ne paye
+
+  2
+  Ab talak yeh hai ke kyun maut na mujh ko aayi
+  Kaisi taqdeer ne saat yeh mujhe dikhlai
+  Bhai se ho ke juda jeeta hai kaise bhai
+  Aa ke yeh baat koi mujh ko zara samjhaye
+  Ja rahe the jo soye lash-e-Ghazi Mula
+  Jis tarha jate hoye bint-e-Ali ne dekha
+  Ashk aankhon se baha kar yehi karti thi dua
+  Kitne zakhm our mera bhai sahe ga haye
+  Koi iss bat ka andaza nahi kar sakta
+  Dil-e-Shabir pe oss waqt bhala guzari kya
+  Jabke Abbas ko be-hath ke dekha ho ga
+  Khon aankhon se yehi kehte hoye barsaye
+  Jis jagah se hoye the bazo-e-Abbas juda
+  Apne hathon ko wahan rakh ke pukare Mula
+  Hath Shabir ke lag jaein tujhe aye bhaiyya
+  Hath bhai ke liye bhai na youn katwaye
+  Le ke tab parcham-e-Abbas shehanshah-e-zamaan
+  Lash ko chor ke tanha the soye khaima rawaan
+  Oss ghari lash se aati thi yeh aawaz-e-fogaan
+  Ab kissi par na koi teer-e-sitam barsaye
+  :Mir Monis: ke baqool aao Wajhi-o- Majid
+  Sab ko yeh marsiya sunwao Wajhi-o- Majid
+  Bazm-e-ko keh ke yeh rulwao Wajhi-o- Majid
+  Our taqdeer har ik ranj-o-bala dikhlaye
 ---
 
-Lash Bhai Ki Na Bhai Ko Khuda Dikhlaye.
+لاش بھائی کی نہ بھائی کو خدا دکھلائے
 
-1
-Gir Gaye Hazrat-e-Abbas Kinare Darya.
-Tab Kamar Pakre Hoye Lash Par Pohanche Mula.
-Dekha Keh Khon Mein Doba Howa Hai Akhi Ka Lasha.
-Dekh Kar Soye Falak Shah-e-Hudda Ne Yeh Kaha.
-Our Taqdeer Har Ik Ranj-o-Bala Dikhlaye.
-Aye Mere Bhai Mere Lal Mere Lakht-e-Jigar.
-Choor Kar Mujh Ko Yahan Kar Gaye Dunya Se Safar.
-Tum Nahi Ho Tu Bhala Main Bhi Jiyon Ga Kyun Kar.
-Koi Bhi Dekhe Na Woh Zakhm Jo Main Ne Paye.
+۱
+گر گئے حضرتِ عباس کنارے دریا
+تب کمر پکڑے ہوئے لاش پر پہنچے مولا
+دیکھا کہ خون میں ڈوبا ہوا ہے اخی کا لاشہ
+دیکھ کر سوئے فلک شاہِ ہدیٰ نے یہ کہا
+اور تقدیر ہر اک رنج و بلا دکھلائے
+اے میرے بھائی میرے لال میرے لختِ جگر
+چھوڑ کر مجھ کو یہاں کر گئے دنیا سے سفر
+تم نہیں ہو تو بھلا میں بھی جیوں گا کیوں کر
+کوئی بھی دیکھے نہ وہ زخم جو میں نے پائے
 
-2
-Ab Talak Yeh Hai Ke Kyun Maut Na Mujh Ko Aayi.
-Kaisi Taqdeer Ne Saat Yeh Mujhe Dikhlai.
-Bhai Se Ho Ke Juda Jeeta Hai Kaise Bhai.
-Aa Ke Yeh Baat Koi Mujh Ko Zara Samjhaye.
-Ja Rahe The Jo Soye Lash-e-Ghazi Mula.
-Jis Tarha Jate Hoye Bint-e-Ali Ne Dekha.
-Ashk Aankhon Se Baha Kar Yehi Karti Thi Dua.
-Kitne Zakhm Our Mera Bhai Sahe Ga Haye.
-Koi Iss Bat Ka Andaza Nahi Kar Sakta.
-Dil-e-Shabir Pe Oss Waqt Bhala Guzari Kya.
-Jabke Abbas Ko Be-Hath Ke Dekha Ho Ga.
-Khon Aankhon Se Yehi Kehte Hoye Barsaye.
-Jis Jagah Se Hoye The Bazo-e-Abbas Juda.
-Apne Hathon Ko Wahan Rakh Ke Pukare Mula.
-Hath Shabir Ke Lag Jaein Tujhe Aye Bhaiyya.
-Hath Bhai Ke Liye Bhai Na Youn Katwaye.
-Le Ke Tab Parcham-e-Abbas Shehanshah-e-Zamaan.
-Lash Ko Chor Ke Tanha The Soye Khaima Rawaan.
-Oss Ghari Lash Se Aati Thi Yeh Aawaz-e-Fogaan.
-Ab Kissi Par Na Koi Teer-e-Sitam Barsaye.
-:MIR MONIS: Ke Baqool Aao Wajhi-O- Majid.
-Sab Ko Yeh Marsiya Sunwao Wajhi-O- Majid.
-Bazm-e-Ko Keh Ke Yeh Rulwao Wajhi-O- Majid.
-Our Taqdeer Har Ik Ranj-o-Bala Dikhlaye.
+۲
+اب تلک یہ ہے کہ کیوں موت نہ مجھ کو آئی
+کیسی تقدیر نے ساعت یہ مجھے دکھلائی
+بھائی سے ہو کے جدا جیتا ہے کیسے بھائی
+آ کے یہ بات کوئی مجھ کو ذرا سمجھائے
+جا رہے تھے جو سوئے لاشِ غازی مولا
+جس طرح جاتے ہوئے بنتِ علی نے دیکھا
+اشک آنکھوں سے بہا کر یہی کرتی تھی دعا
+کتنے زخم اور میرا بھائی سہے گا ہائے
+کوئی اس بات کا اندازہ نہیں کر سکتا
+دلِ شبیر پہ اس وقت بھلا گزری کیا
+جبکہ عباس کو بے ہاتھ کے دیکھا ہو گا
+خون آنکھوں سے یہی کہتے ہوئے برسائے
+جس جگہ سے ہوئے تھے بازوئے عباس جدا
+اپنے ہاتھوں کو وہاں رکھ کے پکارے مولا
+ہاتھ شبیر کے لگ جائیں تجھے اے بھیا
+ہاتھ بھائی کے لیے بھائی نہ یوں کٹوائے
+لے کے تب پرچمِ عباس شہنشاہِ زماں
+لاش کو چھوڑ کے تنہا تھے سوئے خیمہ رواں
+اس گھڑی لاش سے آتی تھی یہ آوازِ فغاں
+اب کسی پر نہ کوئی تیرِ ستم برسائے
+میر مونس کے بقول آؤ وجہی و مجید
+سب کو یہ مرثیہ سنواؤ وجہی و مجید
+بزم کو کہہ کے یہ رلواؤ وجہی و مجید
+اور تقدیر ہر اک رنج و بلا دکھلائے

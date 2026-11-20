@@ -13,44 +13,44 @@ aliases: []
 published: true
 romanLyrics: |-
   Qaid ho kar jo su-e-Shaam chali Bint-e-Ali
-  Pahunch kar laash-e-baradar pe buka karne lagi
+  Pahunch kar laash-e-baraadar pe bukaa karne lagi
   Tu mere baaloṅ pe khaak daal de
   Maiṅ tere laashe pe khaak daal duṅ
-  Tu mujhe rida de de maiṅ tujhe kafan de duṅ
-  Alwida Husain alwida
+  Tu mujhe ridaa de de maiṅ tujhe kafan de duṅ
+  Alwidaa Husain alwidaa
 
   1
   Dasht meiṅ tujhko lainoṅ ne kafan bhi na diya
-  Chhin li sar se mere haye sitamgar ne rida
-  Na raha koi madadgaar sar-e-dasht-e-bala
+  Chhin li sar se mere haaye sitamgar ne ridaa
+  Na raha koi madadgaar sar-e-dasht-e-balaa
   Tu raha bekafan maiṅ asir-e-mihan
-  Maiṅ hui berida tu gharib-ul-watan
+  Maiṅ hui beridaa tu gharib-ul-watan
 
   2
-  Tera laasha hua paamaal sar-e-Karbobala
-  Haye tukre hua Zainab ka jigar wawaila
-  Aayi besaakhta bhai mere hontoṅ pe sada
+  Tera laasha hua paamaal sar-e-Karb o Balaa
+  Haaye tukre hua Zainab ka jigar waawailaa
+  Aayi besaakhta bhai mere hontoṅ pe sadaa
   Ye sitam kya hua mera ghar lut gaya
   Koi yaawar nahiṅ kya karuṅ maiṅ bhala
 
   3
-  Mere mazlum baradar maiṅ tujhe deti kafan
-  Haye pardes meiṅ majbur hui teri behan
+  Mere mazlum baraadar maiṅ tujhe deti kafan
+  Haaye pardes meiṅ majbur hui teri behan
   Yaad aata hai mere bhai mujhe mera watan
   Dard se chur huṅ gham se ranjur huṅ
-  Imtihaṅ hai mera haye majbur huṅ
+  Imtihaṅ hai mera haaye majbur huṅ
 
   4
   Jo mere dil pe guzarti hai bayaṅ kaise karuṅ
   Jo lage zakhm jigar par wo ayaṅ kaise karuṅ
   Maiṅ bhala sabr mere tashna dahaṅ kaise karuṅ
   Khaak uraauṅ gi maiṅ gham uthaauṅ gi maiṅ
-  Kis tarah berida Shaam jaauṅ gi maiṅ
+  Kis tarah beridaa Shaam jaauṅ gi maiṅ
 
   5
   Ye tera jism nahiṅ khun meiṅ tar hai Quraaṅ
   Nok-e-naiza se chhini chaadar-e-tathir yahaṅ
-  Beridai ka hai ehsaas mere dil pe garaṅ
+  Beridaai ka hai ehsaas mere dil pe garaṅ
   Maiṅ karuṅ gi ada jo mera farz hai
   Mere bhai magar ye meri arz hai
 
@@ -64,16 +64,16 @@ romanLyrics: |-
   7
   Waqt-e-rukhsat ye laiṅ hum pe sitam dhaayeṅ ge
   Bar sar-e-nok-e-sinaṅ tera ye sar laayeṅ ge
-  Berida mujh ko bhi baazaar meiṅ le jaayeṅ ge
+  Beridaa mujh ko bhi baazaar meiṅ le jaayeṅ ge
   Tera dil roye ga zakhm wo paauṅ gi
-  Su-e-baazaar maiṅ berida jaauṅ gi
+  Su-e-baazaar maiṅ beridaa jaauṅ gi
 
   8
   Kya qayaamat ka wo manzar tha Nadim o Safdar
   Laasha-e-Shaah tarapta tha ye naale sun kar
   Aur sar pit ke kehti rahi Bint-e-Haider
-  Alwida khasta tan alwida bekafan
-  Alwida bewatan alwida pur mihan
+  Alwidaa khasta tan alwidaa bekafan
+  Alwidaa bewatan alwidaa pur mihan
 ---
 قید ہو کر جو سوے شام چلی بنت علی
 پہنچ کر لاشِ برادر پہ بکا کرنے لگی

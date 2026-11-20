@@ -8,29 +8,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Taayon Abid Rat Roya
+  Taaiyoṅ Abid Rat Roya
 
   1
-  Ummat ne qaid kitiyaan, haye phuphiyan be rida, taayon Abid rat roya
-  Bardasht kar na sakiya,  ghairat da aey khuda, taayon Abid rat roya
-  1. Kithay majma laena da, kithay Zahra diyaan paliaan
-  Mu walaan de nal kaj ke, bazaaran de vich kaliyaan,
-  Mangdi rayi burkay ro ro,  konain di malka.
+  Ummat ne qaid kitiyaaṅ, haaye phuphiyaaṅ be rida
 
   2
-  2. Zainab dey khutbey surnke, hasdey si shami saarey
-  Tohfey samaj ke pathar, jadon shamiyan nay maarey
-  Baalaan nu zakhmi keeta,  be jurm o be khata.
+  Bardaasht kar na sakiya, ghairat da ae Khuda
 
   3
-  3. Sir nangey rulaya ay, kul nabiyan di ghairat nu
-  Kiun kalma go aan kita, sharminda sharafat nu
-  Nayzey tey rai ay rondi,  Abbas di wafa
+  Kithe majma la'inaaṅ da, kithe Zahra diyaaṅ paliyaaṅ
+  Muṅh vaalaaṅ de naal kaj ke, bazaaraaṅ de vich kaliyaaṅ
+  Mangdi rai burqe ro ro, konain di malka
 
   4
-  4. Sajjad nay vekhay hin, Akhtar o zulm saray,
-  Kivain Shimr laeen koray, edi paak kandh tey maarey
-  Phir ve na mu cho nikli,  ummat laye bad-duwa
+  Zainab de khutbe sun kar, hansde si Shaami saare
+  Tohfe samajh ke pathar, jadoṅ Shaamiyaaṅ ne maare
+  Baaloṅ nuṅ zakhmi kita, be jurm o be khata
+
+  5
+  Sir nange rulaaya ae, kul nabiyaaṅ de ghairat nuṅ
+  Kiuṅ kalma go ae kita, sharminda risaalat nuṅ
+  Neze te rai ae rondi, Abbas di wafa
+
+  6
+  Sajjad ne vekhe hin, Akhtar o zulm saare
+  Kiveṅ Shimr-e-la'in kore, edi paak kand te maare
+  Phir vi na muṅh choṅ nikli, ummat lai bad dua
 ---
 
 تائیوں عابدؑ رت رویا

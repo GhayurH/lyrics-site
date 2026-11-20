@@ -3,42 +3,74 @@ title: "مارا گیا دریا پہ جو شیدائے سکینہ"
 alternateTitle: "Mara Gaya Dariya Pe"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mara gaya darya pe jo Sheda-e-Sakina
+  Sheh rag se sada aati rahi haye Sakina
+
+  2
+  Sheh se kaha Abbas ne dar hai mujhe Aaqa
+  Darya pe kahin roti na aa jaye Sakina
+
+  3
+  Lashay se sada aati thi hum bhi na peein gay
+  Jab tak tumhein pani nahi mil jaye Sakina
+
+  4
+  Kis tarha se dikhlaon tumhein shakal dobarah
+  Jab pani hi mashkezay se beh jaye Sakina
+
+  5
+  Majboor hai bazu bhi nahi tum hi batao
+  Kis tarha se ammo tumhein behlaye Sakina
+
+  6
+  Zainab ne kaha zair-e-alam peet ke sar ko
+  Matam karo mara gaya Saqa-e-Sakina
+
+  7
+  Aa jaiye youn Zoja-e-Abbas pukari
+  Wali kahin furqat mein na mar jaye Sakina
+
+  8
+  Sab chahney walay tu Anees ho gaye maqdoor
+  Rukhsar ke neel ab kisay dikhlaye Sakina
 ---
 
-1
-Mara Gaya Darya Pe Jo Sheda-e-Sakina
-Sheh Rag Se Sada Aati Rahi Haye Sakina
+۱
+مارا گیا دریا پہ جو شیدائے سکینہ
+شہ رگ سے صدا آتی رہی ہائے سکینہ
 
-2
-Sheh Se Kaha Abbas Ne Dar Hai Mujhe Aaqa
-Darya Pe Kahin Roti Na Aa Jaye Sakina
+۲
+شہ سے کہا عباس نے ڈر ہے مجھے آقا
+دریا پہ کہیں روتی نہ آ جائے سکینہ
 
-3
-Lashay Se Sada Aati Thi Hum Bhi Na Peein Gay
-Jab Tak Tumhein Pani Nahi Mil Jaye Sakina
+۳
+لاشے سے صدا آتی تھی ہم بھی نہ پیئیں گے
+جب تک تمہیں پانی نہیں مل جائے سکینہ
 
-4
-Kis Tarha Se Dikhlaon Tumhein Shakal Dobarah
-Jab Pani Hi Mashkezay Se Beh Jaye Sakina
+۴
+کس طرح سے دکھلاؤں تمہیں شکل دوبارہ
+جب پانی ہی مشکیزے سے بہہ جائے سکینہ
 
-5
-Majboor Hai Bazu Bhi Nahi Tum Hi Batao
-Kis Tarha Se Ammo Tumhein Behlaye Sakina
+۵
+مجبور ہے بازو بھی نہیں تم ہی بتاؤ
+کس طرح سے عمو تمہیں بہلائے سکینہ
 
-6
-Zainab Ne Kaha Zair-e-Alam Peet Ke Sar Ko
-Matam Karo Mara Gaya Saqa-e-Sakina
+۶
+زینب نے کہا زیرِ علم پیٹ کے سر کو
+ماتم کرو مارا گیا سقائے سکینہ
 
-7
-Aa Jaiye Youn Zoja-e-Abbas Pukari
-Wali Kahin Furqat Mein Na Mar Jaye Sakina
+۷
+آ جائیے یوں زوجۂ عباس پکاری
+ولی کہیں فرقت میں نہ مر جائے سکینہ
 
-8
-Sab Chahney Walay Tu Anees Ho Gaye Maqdoor
-Rukhsar Ke Neel Ab Kisay Dikhlaye Sakina
+۸
+سب چاہنے والے تو انیس ہو گئے مقدور
+رخسار کے نیل اب کسے دکھلائے سکینہ

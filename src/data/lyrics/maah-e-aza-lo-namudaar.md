@@ -14,8 +14,8 @@ published: true
 romanLyrics: |-
   Arsh ke taare Husain
   Zehra ke pyaare Husain
-  Tum ho hamare Husain
-  Hum haiṅ tumhare Husain
+  Tum ho hamaare Husain
+  Hum haiṅ tumhaare Husain
 
   1
   Maah-e-aza lo namudaar hua
@@ -28,17 +28,17 @@ romanLyrics: |-
   3
   Falak pe phir se Muharram ka chaand nikla hai
   Husain waaloṅ ne kaala libaas pehna hai
-  Kahiṅ pe nauha kahiṅ par sadaa-e-girya hai
-  Shaah alaikas salaam Ae mere bekas Imam
+  Kahiṅ pe nauha, kahiṅ par sadaa-e-girya hai
+  Shaah alaikas salaam, ae mere bekas Imam
   Aap pe sab kuchh fida
-  Ya Husain ya Husain ya Husain Husain Husain
-  Ya Husain ya Husain ya Husain Husain Husain
+  Ya Husain ya Husain ya Husain ya Husain
+  Ya Husain ya Husain ya Husain ya Husain
 
   4
   Kisi ke haath meiṅ Abbas ka alam hoga
   Koi uthaaega taabut Ibn-e-Zehra ka
-  Kahiṅ se taaziya jhula kahiṅ se niklega
-  Hogi qayaamat bapa roeṅge ahl-e-aza
+  Kahiṅ se taaziya, jhula kahiṅ se niklega
+  Hogi qayaamat bapa, roeṅge ahl-e-aza
   Shor hai Aashur ka
 
   5
@@ -59,21 +59,21 @@ romanLyrics: |-
   Taaziye khaane khule maatami shaane khule
   Hota hai maatam bapa
   Be abi anta wa ummi ya Husain
-  Kehta hai har dil yehi ho mere maaṅ baap bhi
+  Kehta hai har dil yehi, ho mere maaṅ baap bhi
   Aap pe Maula fida
 
   8
   Tabarrukaat ke sanduq laae jaate haiṅ
-  Alam pe patke pharere sajaae jaate haiṅ
+  Alam pe patke pharire sajaae jaate haiṅ
   Sabil lagti hai saqqe banaae jaate haiṅ
-  Le ke shahidoṅ ke naam batte haiṅ paani ke jaam
+  Le ke shahidoṅ ke naam, batte haiṅ paani ke jaam
   Dete haiṅ pyaase dua
 
   9
-  Karo Husain ka maatam karo azaadaari
+  Karo Husain ka maatam, karo azaadaari
   Furaat aaṅkhoṅ se jaari ho aise ashkoṅ ki
   Ke khaali haath na jaae Rasul ki beti
-  Haath meiṅ rumaal hai maaṅ ka ajab haal hai
+  Haath meiṅ rumaal hai, maaṅ ka ajab haal hai
   Deti hai Bibi dua
 
   10
@@ -84,7 +84,7 @@ romanLyrics: |-
   Aaṅkh se darya baha
 
   11
-  Hue haiṅ khalq Takallum hum is aza ke liye
+  Hue haiṅ khalq Takallum ho is aza ke liye
   Hamaari qaum ke bachche ghulaam Asghar ke
   Jawaan sab Ali Akbar ke naam par sadqe
   Taaba zuhur-e-Imam roeṅge ye khaas o aam

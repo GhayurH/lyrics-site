@@ -8,94 +8,51 @@ poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Tar Khoon Mein Hoi Haider Ki Jabeen Hasan Sadiq"
-romanLyrics: 'Tar Khoon Mein Hoi Haider Ki Jabeen Hasan Sadiq.
-
-  Youn Rote Hain Jibreel-e-Ameen.
-
+alternateTitle: "Tar Khuṅ Mein Hui Haider Ki Jabiṅ"
+romanLyrics: |-
+  Tar khun mein hui Haider ki jabiṅ
 
   1
-
-  Ye Taig Chali Kis Ke Sar Par.
-
-  Zakhmi Howay Sajde Mein Haider.
-
-  Kyun Hilne Laga Hai Arsh-e-Bareen.
-
-  Karti Hai Azaane Wawaila.
-
+  Yuṅ rote haiṅ Jibril-e-Amiṅ
+  Ya Ali, ya Ali
+  Ye tegh chali kis ke sar par
+  Zakhmi hue sajde mein Haider
+  Kiuṅ hilne laga hai arsh-e-bariṅ
 
   2
-
-  Masjid Ka Sehan Hai Farsh-e-Azza.
-
-  Haider Ke Laho Se Tar Hai Zameen.
-
-  Kyun Roze Dar Pe Zulm Kiya.
-
-  Tu Ne Bin-e-Muljim Ye Tu Bata.
-
+  Karti haiṅ azaaneṅ waawailaa
+  Masjid ka sehan hai farsh-e-aza
+  Haider ke lahu se tar hai zamiṅ
 
   3
-
-  Shaq Ho Gayi Kyun Mula Ki Jabeen.
-
-  Hasnain Ke Sar Se Saya Utha.
-
-  Magmoom Hoi Kabe Ki Fiza.
-
-  Marqad Mein Nabi Ko Chain Nahi.
-
+  Kiuṅ roze daar pe zulm kiya
+  Tu ne bin-e-Muljim ye to bata
+  Shaq ho gai kiuṅ Maula ki jabiṅ
 
   4
-
-  Wo Shah-e-Arab Wo Shair-e-Khuda.
-
-  Wo Nafas-e-Nabi WO Dast-e-Khuda.
-
-  Kyun Taig Chalai Dushman-e-Deein.
-
-  Zainab Pe Yateemi Chayi Hai.
-
+  Hasnain ke sar se saaya utha
+  Maghmum hui Kaabe ki fiza
+  Marqad mein Nabi ko chain nahiṅ
 
   5
-
-  Zainab pe yateemi chaayi hai
-
-  Masjid se khabar ye aayi hai
-
-  Lo qatl hua kaabe ka makeen
-
+  Wo shaah-e-Arab wo sher-e-Khuda
+  Wo nafs-e-Nabi wo dast-e-Khuda
+  Kiuṅ tegh chalai dushman-e-diṅ
 
   6
-
-  7) Abbas tarap ker rotai hai
-
-  Rukhsta merai mola hotai hain
-
-  Phir jayai falak phat kar na kaheen
-
+  Zainab pe yatimi chhai hai
+  Masjid se khabar ye aai hai
+  Lo qatl hua Kaabe ka makiṅ
 
   7
-
-  Masjid Se Khabar Ye Ayi Hai.
-
-  Lo Qatal HOwa Kabe Ka Makeen.
-
-  Abbas Tarap Kar Rote Hain.
-
-  Rukhsat Mere Mula Hote Hain.
-
+  Abbaas tarap kar rote haiṅ
+  Rukhsat mere Maula hote haiṅ
+  Gir jaae falak phat kar na kahiṅ
 
   8
-
-  Gir Jaye Na Falak Phat Kar Na Kahin.
-
-  Rehan Bichao Farsh-e-Azza.
-
-  Ghar Ghar Se Uthe Matam Ki Sada.
-
-  Iss Gham Ki Kissi Ko Taab Nahi.'
+  Rehan bichhaao farsh-e-azza
+  Ghar ghar se uthe maatam ki sada
+  Is gham ki kisi ko taab nahiṅ
 reciter: "Hasan Sadiq"
 ---
 

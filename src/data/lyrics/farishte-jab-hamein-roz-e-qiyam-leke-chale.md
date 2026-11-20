@@ -9,10 +9,10 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Farishte jab hamaiṅ roz-e-qayam le ke chale
-  Sifarishoṅ ka bara ihtemam le ke chale
-  Har aik qoam ke tha sath sirf aik imam
-  Ham apne sath may barah imam le ke chale
+  Farishte jab hameṅ roz-e-qiyaam le ke chale
+  Sifaarishoṅ ka bara ehtimaam le ke chale
+  Har aik qaum ke tha saath sirf aik imaam
+  Ham apne saath mein baarah imaam le ke chale
 ---
 
 ۱

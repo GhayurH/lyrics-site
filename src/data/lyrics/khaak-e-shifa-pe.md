@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Tere lahu ka ek ek khatra hai laajawaab
-  Milti nahi jahaaṅ meiṅ teri koi bhi misaal
+  Milti nahiṅ jahaaṅ meiṅ teri koi bhi misaal
   Ye martaba ke maaṅ teri Zehra hai ae Husain
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Tu ne lahu diya to bacha din-e-Mustafa
-  Maqruz tere ho gaye ye saare ambiya
+  Maqruz tere ho gaye ye saare ambiyaa
   Dunya meiṅ har jagah tera charcha hai ae Husain
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Sar nange dekh aayi hai baazaar-e-Shaam tak
-  Qaidi ki tarah pahuṅchi hai darbaar-e-Shaam tak
+  Qaidi ki tarah pahunchi hai darbaar-e-Shaam tak
   Ye imtihaan-e-zabt bhi kaisa hai ae Husain
 
   8

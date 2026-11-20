@@ -20,16 +20,16 @@ romanLyrics: |-
   Bigra kahaaṅ se aayi Payambar ke shahr meiṅ
 
   2
-  Inkar se Husain ne aisi lagayi aag
+  Inkaar se Husain ne aisi lagayi aag
   Shole uthe Yazid-e-sitamgar ke shahr meiṅ
 
   3
-  Ye inquilaab dekha hai Nad-e-Ali ke baad
+  Ye inqilaab dekha hai Naad-e-Ali ke baad
   Darwaza tut jaata hai Khaibar ke shahr meiṅ
 
   4
   Mashkize meiṅ samet ke darya ko le gaya
-  Haider ek aur dekha hai Haider ke shahr meiṅ
+  Haider ak aur dekha hai Haider ke shahr meiṅ
 
   5
   Jab se Ali ne tora hai josh-e-jihaad meiṅ
@@ -56,8 +56,8 @@ romanLyrics: |-
   Taara utar ke aa gaya Haider ke shahr meiṅ
 
   11
-  Tashnalabi ne had ke jigar phaar daale haiṅ
-  Ek paak kali ye phul ki patthar ke shahr meiṅ
+  Tashna labi ne had ke jigar phaar daale haiṅ
+  Ak paak kali ye phul ki patthar ke shahr meiṅ
 
   12
   Mahir Najaf ki khaak se hum apne waaste

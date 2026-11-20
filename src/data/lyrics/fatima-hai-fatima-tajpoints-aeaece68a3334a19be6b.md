@@ -1,35 +1,60 @@
 ---
-title: "Fatima Hai Fatima"
+title: "فاطمہ ہے فاطمہ"
+alternateTitle: "Fatima Hai Fatima"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Koi manay ya na manay Fatima hai Fatima
+  Jis ke laiq Mustafa hain woh atta hai Fatima
+  Do Muhammad paal kar tu ne diye Islam ko
+  Baap ne youn tujh ko apni maa kaha hai
+
+  2
+  Khud ko woh Hasnain ka darzi kahey ga umar bhar
+  Aap ne Rizwaan ko darzi keh diya hai Fatima
+  Apni darhi se safai tere dar ki raat bhar
+  Kaun hai jo youn tahajud parh raha hai Fatima
+
+  3
+  Joor kar hathoon ko apne Hur ne yeh aawaz di
+  Aap ke hathoon mein mera faisla hai Fatima
+  Mukhtasir Khair-al-Nisa ka bas yehi mafhoom hai
+  Alam-e-niswaan ki khatir Mustafa hai Fatima
+
+  4
+  Sehan-e-Kaba tak bhi jane ki na zehmat di gayi
+  Tujh ko har beta musallay par mila hai Fatima
+  Mehdi-e-doraan Takallum hai jahan par aaj bhi
+  Pardah-e-ghaibat nahi teri rida hai Fatima
 ---
 
-1
-Koi Manay Ya Na Manay Fatima Hai Fatima.
-Jis Ke Laiq Mustafa Hain Woh Atta Hai Fatima.
-Do Muhammad Paal Kar Tu Ne Diye Islam Ko.
-Baap Ne Youn Tujh Ko Apni Maa Kaha Hai.
+۱
+کوئی مانے یا نہ مانے فاطمہ ہے فاطمہ
+جس کے لائق مصطفیٰ ہیں وہ عطا ہے فاطمہ
+دو محمد پال کر تو نے دیے اسلام کو
+باپ نے یوں تجھ کو اپنی ماں کہا ہے
 
-2
-Khud Ko Woh Hasnain Ka Darzi Kahey Ga Umar Bhar.
-Aap Ne Rizwaan Ko Darzi Keh Diya Hai Fatima.
-Apni Darhi Se Safai Tere Dar Ki Raat Bhar.
-Kaun Hai Jo Youn Tahajud Parh Raha Hai Fatima.
+۲
+خود کو وہ حسنین کا درزی کہے گا عمر بھر
+آپ نے رضوان کو درزی کہہ دیا ہے فاطمہ
+اپنی داڑھی سے صفائی تیرے در کی رات بھر
+کون ہے جو یوں تہجد پڑھ رہا ہے فاطمہ
 
-3
-Joor Kar Hathoon Ko Apne Hur Ne Yeh Aawaz Di.
-Aap Ke Hathoon Mein Mera Faisla Hai Fatima.
-Mukhtasir Khair-Al-Nisa Ka Bas Yehi Mafhoom Hai.
-Alam-e-Niswaan Ki Khatir Mustafa Hai Fatima.
+۳
+جوڑ کر ہاتھوں کو اپنے حُر نے یہ آواز دی
+آپ کے ہاتھوں میں میرا فیصلہ ہے فاطمہ
+مختصر خیر النسا کا بس یہی مفہوم ہے
+عالمِ نسواں کی خاطر مصطفیٰ ہے فاطمہ
 
-4
-Sehan-e-Kaba Tak Bhi Jane Ki Na Zehmat Di Gayi.
-Tujh Ko Har Beta Musallay Par Mila Hai Fatima.
-Mehdi-e-Doraan Takallum Hai Jahan Par Aaj Bhi.
-Pardah-e-Ghaibat Nahi Teri Rida Hai Fatima.
+۴
+صحنِ کعبہ تک بھی جانے کی نہ زحمت دی گئی
+تجھ کو ہر بیٹا مصلّے پر ملا ہے فاطمہ
+مہدیِ دوراں تکلم ہے جہاں پر آج بھی
+پردۂ غیبت نہیں تیری ردا ہے فاطمہ

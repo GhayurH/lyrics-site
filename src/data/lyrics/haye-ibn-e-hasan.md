@@ -20,15 +20,15 @@ romanLyrics: |-
   1
   Ghar se nikla tha baandh kar sehra
   Jagmagaaya tha chaand sa mukhra
-  Do ghari meiṅ khushi ne muṅh mora
-  Zindagi ne diya ajab dhoka
-  Ran meiṅ ghoroṅ se ho gaya paamaal
+  Do ghari mein khushi ne munh mora
+  Zindagi ne diya ajab mauqa
+  Ran mein ghoroṅ se ho gaya paamaal
   Phul jaise badan pe kya guzri
 
   2
-  Shah ki piri hai uljhanoṅ meiṅ asir
+  Shah ki piri hai uljhanoṅ mein asir
   Aur kya kya dikhaayegi taqdir
-  Pahunche jis waqt dasht meiṅ Shabbir
+  Pahunche jis waqt dasht mein Shabbir
   Tukre tukre thi bhaai ki tasvir
   Dekh kar laash ko bhatije ki
   Qalb-e-Shaah-e-Zaman pe kya guzri
@@ -45,7 +45,7 @@ romanLyrics: |-
   Kab thi taqdir ek yatim ke saath
   Surkh sehra tha zulm ki saughaat
   Ek musaafir ki yuṅ charhi baaraat
-  Raas aai na dasht meiṅ ek raat
+  Raas aai na dasht mein ek raat
   Aa ke apne watan se kosoṅ dur
   Ek Gharib-ul-Watan pe kya guzri
 
@@ -58,18 +58,18 @@ romanLyrics: |-
   Ek bewa ke man pe kya guzri
 
   6
-  Ek behen jo watan meiṅ thi teri
+  Ek behen jo watan mein thi teri
   Yaad aai na kiuṅ tujhe us ki
-  Tere haathoṅ meiṅ rakhi hai mehndi
-  Us ne khwaaboṅ meiṅ dekh li shaadi
-  Tujh ko sehra meiṅ kya khabar Qasim
+  Tere haathoṅ mein rakhi hai mehndi
+  Us ne khwaaboṅ mein dekh li shaadi
+  Tujh ko sehra mein kya khabar Qasim
   Teri Sughra behen pe kya guzri
 
   7
   Wo masaaib hue raqam Akhtar
   Bas tarapne laga qalam Akhtar
   Reh gaya fikr ka bharam Akhtar
-  Ho gayi sab ki aaṅkh nam Akhtar
+  Ho gayi sab ki aankh nam Akhtar
   Pursa Irfan de ke Qasim ka
   Kya khabar anjuman pe kya guzri
 ---

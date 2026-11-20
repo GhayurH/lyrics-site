@@ -13,10 +13,10 @@ aliases: ["Ay Zuljana"]
 published: true
 romanLyrics: |-
   Ae Zuljanah kya kiya apne sawaar ko
-  Dilband-e-Mustafa Shah-e-gardo waqaar ko
+  Dilband-e-Mustafa Shah-e-gard o waqaar ko
 
   1
-  Jab jaanta tha mar gaye sab khaish o aqraba
+  Jab jaanta tha mar gaye sab sab khaas o aqrabaa
   Phir kis pe chhor aaya gharib-ud-dayaar ko
 
   2
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kya us jagah utaara hai apne sawaar ko
 
   7
-  Ae Qais ahl-e-Shaam ne andher kar diya
+  Ae Qais ahl-e-Shaam ne andhiyaar kar diya
   Gul kar diya Nabi ke charaagh-e-mazaar ko
 ---
 اے ذوالجناح کیا کیا اپنے سوار کو

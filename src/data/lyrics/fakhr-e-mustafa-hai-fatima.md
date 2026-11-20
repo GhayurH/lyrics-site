@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Ab bhi mushkiloṅ meiṅ maujzan
-  Tera mojaza hai Fatima
+  Tera mojiza hai Fatima
 
   8
   Kurta sher pe jache na kiuṅ

@@ -1,32 +1,54 @@
 ---
-title: "Hain Dar-e-Haider Pe Salman Our Qanbar Aik Se"
+title: "ہیں درِ حیدر پہ سلمان اور قنبر ایک سے"
+alternateTitle: "Hain Dar-e-Haider Pe Salman Our Qanbar Aik Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hain Dar-e-Haider pe Salman our Qanbar aik se
+  Martabe mein hain sahabi our nokar aik se
+
+  1
+  Woh pisar ho bhai ko ya dost ho ya ho ghulam
+  Sheh ko lagte hain bahatar ke bahatar aik se
+  Aik bakhsha hai Khuda ne aik bakhsha Shah ne
+  Par nazar aate hain Fitrus tere do par aik se
+
+  2
+  Aye Nuseri tu kahe ga our kis kis ko Khuda
+  Hai hamare barah ke barah hi rehbar aik se
+  Hath jab parde se nikla Mustafa kehne lage
+  Rab ki our Haider ki ungli mein hain pathar aik se
+
+  3
+  Dono mein hai itni wusat doob jaye kainat
+  Hain azadaron ke aanso our samandar aik se
+  Woh Wajhi-e-Khush Nawa ho ya keh ho:Zill-e-Raza:
+  Ban rahe hain khuld mein dono hi ke ghar aik se
 ---
 
-Hain Dar-e-Haider Pe Salman Our Qanbar Aik Se.
-Martabe Mein Hain Sahabi Our Nokar Aik Se.
+ہیں درِ حیدر پہ سلمان اور قنبر ایک سے
+مرتبے میں ہیں صحابی اور نوکر ایک سے
 
-1
-Woh Pisar Ho Bhai Ko Ya Dost Ho Ya Ho Ghulam.
-Sheh Ko Lagte Hain Bahatar Ke Bahatar Aik Se.
-Aik Bakhsha Hai Khuda Ne Aik Bakhsha Shah Ne.
-Par Nazar Aate Hain Fitrus Tere Do Par Aik Se.
+۱
+وہ پسر ہو بھائی کو یا دوست ہو یا ہو غلام
+شہ کو لگتے ہیں بہتر کے بہتر ایک سے
+ایک بخشا ہے خدا نے ایک بخشا شاہ نے
+پر نظر آتے ہیں فطرس تیرے دو پر ایک سے
 
-2
-Aye Nuseri Tu Kahe Ga Our Kis Kis Ko Khuda.
-Hai Hamare Barah Ke Barah Hi Rehbar Aik Se.
-Hath Jab Parde Se Nikla Mustafa Kehne Lage.
-Rab Ki Our Haider Ki Ungli Mein Hain Pathar Aik Se.
+۲
+اے نصیری تو کہے گا اور کس کس کو خدا
+ہے ہمارے بارہ کے بارہ ہی رہبر ایک سے
+ہاتھ جب پردے سے نکلا مصطفیٰ کہنے لگے
+رب کی اور حیدر کی انگلی میں ہیں پتھر ایک سے
 
-3
-Dono Mein Hai Itni Wusat Doob Jaye Kainat.
-Hain Azadaron Ke Aanso Our Samandar Aik Se.
-Woh Wajhi-e-Khush Nawa Ho Ya Keh Ho:ZILL-E-RAZA:
-Ban Rahe Hain Khuld Mein Dono Hi Ke Ghar Aik Se.
+۳
+دونوں میں ہے اتنی وسعت ڈوب جائے کائنات
+ہیں عزاداروں کے آنسو اور سمندر ایک سے
+وہ وجہیِ خوش نوا ہو یا کہ ہو ظلِ رضا
+بن رہے ہیں خلد میں دونوں ہی کے گھر ایک سے

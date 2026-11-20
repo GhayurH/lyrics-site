@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Ghore se jab gira shah-e-mazlum ka pisar
-  Khaime ki simt shaah ne dekha ba-chashm-e-tar
+  Khaime ki simt shaah ne dekha ba chashm-e-tar
   Laila pukaari kya hai mere laal ki khabar
   Bekas Husain kehne lage dil ko thaam kar
 

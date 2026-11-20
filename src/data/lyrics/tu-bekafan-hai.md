@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rehgayi dasht may tanha to watan yaad aaya
-  Pani paaya to har ek tishna dahan yaad aaya
-  Leke har chiz madine se chali thi zainab
-  Bhai ki laash pe pahunchi to kafan yaad aaya
+  Reh gayi dasht mein tanha to watan yaad aaya
+  Paani paaya to har ek tishna dahan yaad aaya
+  Le ke har chiz Madine se chali thi Zainab
+  Bhai ki laash pe pahuncha to kafan yaad aaya
   Tu bekafan hai Husain behan berida hai
-  Aayi thi madine se le kar mai apna bhara ghar bhai
+  Aayi thi Madine se le kar main apna bhara ghar bhai
   Logoṅ ne mera ghar lut liya bas paas rahi tanhai
-  Yahaṅ tashna lab tu raha hai behan berida hai
+  Yahaaṅ tishna lab tu raha hai, behan berida hai
   Tu bekafan hai Husain...
-  Pani se tujhe mehrum rakha aur mujhko tere matam se
-  Tukre hai kaleja zainab ka ae bhai faqat is gham se
-  Sina par tera sar rakha hai behan berida hai
+  Paani se tujhe mahrum rakha aur mujhko tere maatam se
+  Tukre hai kaleja Zainab ka ae bhai faqat is gham se
+  Sinaaṅ par tera sar rakha hai, behan berida hai
   Tu bekafan hai Husain...
-  Tu mere liye faryad kare mai tere liye ae bhai
-  Mazlum musafir teri behan baaghi ki behan kehlayi
-  Ye gham is sitam se bara hai behan berida hai
+  Tu mere liye faryaad kare main tere liye ae bhai
+  Mazlum musafir teri behan baaghi ki behan kehlaayi
+  Ye gham is sitam se bara hai, behan berida hai
   Tu bekafan hai Husain...
-  Laashe se tere aati hai sada sunti hai behan majaye
-  Ae kaash koi tadbir bane aur zainab shaam na jaye
-  Asir e rasan khafila hai behan berida hai
+  Laashe se tere aati hai sada sunti hai behan maanjaaye
+  Ae kaash koi tadbir bane aur Zainab Shaam na jaaye
+  Asir-e-rasan qaafila hai, behan berida hai
   Tu bekafan hai Husain...
-  Mai qaidi bani aur shaam chali mehmil na amari aayi
-  Zainab ke liye hai sab se bara gham tujhse bicharna bhai
-  Tujhe ye hi gham kha gaya hai behan berida hai
+  Main qaidi bani aur Shaam chali mahmil na amaari aayi
+  Zainab ke liye hai sab se bara gham tujh se bichharna bhai
+  Tujhe ye hi gham kha gaya hai, behan berida hai
   Tu bekafan hai Husain...
-  Amma ki sada ye aati hai kiuṅ lut liya pyase ko
-  Sar tera badan se kaat liya pamaal kiya laashe ko
-  Qatil e jafa tu hua hai behan berida hai
+  Ammaaṅ ki sada ye aati hai kiuṅ lut liya pyaase ko
+  Sar tera badan se kaat liya paamaal kiya laashe ko
+  Qatil-e-jafa tu hai, behan berida hai
   Tu bekafan hai Husain...
-  Hai kaaṅ sakina ke zakhmi abid ka muqaddar beri
-  Naizoṅ pe shaheedo ke sar hai sadaat bane hai qaidi
-  Abhi shaam ka marhala hai behan berida hai
+  Hai kaaṅ Sakina ke zakhmi Abid ka muqaddar beri
+  Naizoṅ pe shahidoṅ ke sar hai sadaat bane haiṅ qaidi
+  Abhi Shaam ka marhala hai, behan berida hai
   Tu bekafan hai Husain...
-  Ghar tera khareeb e asr luta mai shaam e alam may ujri
-  Khun tera baha bejurm o khata hamshir is gham may ujri
-  Tere khun se ye wafa hai behan berida hai
+  Ghar tera qarib-e-asr luta main shaam-e-alam mein ujri
+  Khun tera baha bejurm o khata hamshir is gham mein ujri
+  Tere khun se ye wafa hai, behan berida hai
   Tu bekafan hai Husain...
-  Ta umr padhenge ye nauha farhan aur mazhar rokar
-  Zainab ke baradar ke marqad par humne suna hai aksar
-  Shahe diṅ ka ye marsiya hai behan berida hai
+  Ta umr parheṅge ye nauha Farhan aur Mazhar ro kar
+  Zainab ke baradar ke marqad par ham ne suna hai aksar
+  Shah-e-diṅ ka ye marsiya hai, behan berida hai
   Tu bekafan hai Husain...
 ---
 

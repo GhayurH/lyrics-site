@@ -35,19 +35,19 @@ romanLyrics: |-
   Zaifi ke haathoṅ se uthti jawaani
 
   6
-  Ubalte haiṅ Abbas ke ran meiṅ aaṅsu
+  Ubalte haiṅ Abbas ke ran meiṅ aansu
   Tapakta hai mashk-e-Sakina se paani
 
   7
   Jab Asghar humakte haiṅ haathoṅ pe Shah ke
-  Ubalta hai darya chhalakta hai paani
+  Ubalte haiṅ darya chhalakta hai paani
 
   8
   Lute donoṅ Aashur ko Karbala meiṅ
   Nabi ka alam aur Ali ki nishaani
 
   9
-  Rahe nil baazu-e-Zainab pe baaqi
+  Rahe nil baazu pe Zainab ke baaqi
   Watan ko gayi Karbala ki nishaani
 ---
 تڑپنا وہ اکبر کا کہہ کہہ کے پانی

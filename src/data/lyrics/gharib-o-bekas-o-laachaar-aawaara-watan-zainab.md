@@ -24,7 +24,7 @@ romanLyrics: |-
   Hui hai jaa ba haq pardes meiṅ majruh tan Zainab
 
   3
-  Tamim-e-bad-gohar ke na khalaq ne kya sitam tora
+  Tamim-e-ba'd gohar ke na khaaliq ne kya sitam tora
   Asir-e-ranj o gham hai bedayaar o bewatan Zainab
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
   Usi ke zer-e-saaya khun meiṅ tar hai khasta tan Zainab
 
   5
-  Wo teri pusht-e-athar aur jaraahat taaziyaanoṅ ki
+  Wo teri pusht-e-at-haar aur jaraahat taaziyaanoṅ ki
   Har ik ko khun rulaata hai tera zakhmi badan Zainab
 
   6
@@ -40,12 +40,12 @@ romanLyrics: |-
   Kabhi darbaar meiṅ hai berida sheh ki behan Zainab
 
   7
-  Na bhula hai zamaana aur na bhulega qayaamat tak
+  Na bhula hai zamaana aur na bhule ga qayaamat tak
   Wo darbaar-e-Yazidi tere baazu aur rasan Zainab
 
   8
   Dua Mirza ki hai bigri kanizoṅ ki bana dijiye
-  Tumhaare dar pa aaye aazaar hai charkh-e-gohan Zainab
+  Tumhaare dar pe aaye aazaar haiṅ charkh-e-gohan Zainab
 ---
 غریب و بے کس و لاچار آوارہ وطن زینب
 مقدر ہو چکے تیرے لیے رنج و محن زینب

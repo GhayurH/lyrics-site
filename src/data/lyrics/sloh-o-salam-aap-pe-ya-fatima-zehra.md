@@ -8,139 +8,79 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Salwat-o-salam aap pe ya Fatima Zehra
-
+romanLyrics: |-
+  Salaat o salaam aap pe ya Fatima Zehra
 
   1
-
-  Purse ke liye aaye hai ya Fatima Zehra
-
-  Ho laakh darood aap pe shehzadiye kaunain
-
-  Gham itne sahe aap ne ay madare hasnain
-
-  Marqad may bhi aada ne nahi lene diya chain
-
-  Azbaad mohammad rahe lab par tere bain
-
-  Fflaak bhi tharraye hai ya Fatima Zehra
-
+  Purse ke liye aaye haiṅ ya Fatima Zehra
+  Ho laakh durud aap pe shehzaadi-e-kaunain
+  Gham itne sahe aap ne ae maadar-e-Hasnain
+  Marqad mein bhi aada ne nahiṅ lene diya chain
+  Az baad-e-Muhammad rahe lab par tere ye bain
+  Aflaak bhi tharraaye haiṅ ya Fatima Zehra
 
   2
-
-  Jab chand moharram ka nazar aata hai bibi
-
-  Shabbir ka tab yaad safar aata hai bibi
-
-  Ashoor ka manzar hame rulwata hai bibi
-
-  Ujrra jo nazar aap ka ghar aata hai bibi
-
-  Hum nowhakuna aaye hai ya Fatima Zehra
-
+  Jab chaand Muharram ka nazar aata hai Bibi
+  Shabbir ka tab yaad safar aata hai Bibi
+  Aashur ka manzar hameṅ rulaata Bibi
+  Ujra jo nazar aap ka ghar aata hai Bibi
+  Hum nauha kunaaṅ aaye haiṅ ya Fatima Zehra
 
   3
-
-  Ashoor ki wo subhe azane ali akbar
-
-  Chalte hue wo teer ibadar ka wo manzar
-
-  Qaime may pareshaan thi zainab teri dukhtar
-
-  Aur pyas se gehware may rota raha asghar
-
-  Hum bhool nahi paaye hai ya Fatima Zehra
-
+  Aashur ki wo subh-e-azaan-e-Ali Akbar
+  Chalte hue wo teer ibaadat ka wo manzar
+  Khaime mein pareshaan thi Zainab teri dukhtar
+  Aur pyaas se gahwaare mein rota raha Asghar
+  Hum bhul nahiṅ paaye haiṅ ya Fatima Zehra
 
   4
-
-  Zainab ke pisar Aun-o-Mohammed ki shahadat
-
-  Khamoshi se Zainab ne sahi thi wo qayamat
-
-  Na ashk bahaye na ki awaaz mere sad
-
-  Darya pe jo jaane ki na thi maa ki ijazat
-
-  Pyase hi palat aaye hai ya Fatima Zehra
-
+  Zainab ke pisar Aun o Muhammad ki shahaadat
+  Khaamoshi se Zainab ne sahi thi wo qayaamat
+  Na ashk bahaaye na ki aawaaz-e-mere sad
+  Darya pe jo jaane ki na thi maaṅ ki ijaazat
+  Pyaase hi palat aaye haiṅ ya Fatima Zehra
 
   5
-
-  Ek ghatri may ek chand se qasim ka janaza
-
-  Maidan se jab qaimaye fargha misa aaya
-
-  Sab behne buka karti thi dulhan ka tha nowha
-
-  Kab khoon ki mehndi se saja hai koi dulha
-
-  Sheh dard se tharraye hai ya Fatima Zehra
-
+  Ik gathri mein ik chaand se Qaasim ka janaaza
+  Maidan se jab khaima-e-Farwaah mein aaya
+  Sab bahneṅ buka kartiṅ thiṅ dulhan ka tha nauha
+  Kab khun ki mehndi se saja hai koi dulha
+  Sheh dard se tharraaye haiṅ ya Fatima Zehra
 
   6
-
-  Kis tarha likhi jaaye alamdar ki ruqsat
-
-  Ya fathima zehra nahi alfaaz may taaqat
-
-  Pyaso ke kaleje pe gira kohe musibat
-
-  Jaati rahi tab baazue shabbir ki quwwat
-
-  Jab mashqo alan laaye hai ya Fatima Zehra
-
+  Kis tarah likhi jaaye Alamdaar ki rukhsat
+  Ya Fatima Zehra nahiṅ alfaaz mein taaqat
+  Pyaasoṅ ke kaleje pe gira koh-e-musibat
+  Jaati rahi tab baazu-e-Shabbir ki quwwat
+  Jab mashk o alam laaye haiṅ ya Fatima Zehra
 
   7
-
-  Laila ne sawara ali akbar ko ye kehkar
-
-  Din byah ke hai phir bhi sidharo mere dilbar
-
-  Sharminda mohammad se na ho jaaye ye madar
-
-  Dam nade ali kar doon tere seene ke upar
-
-  Gul sehre ke murjhaye hai ya Fatima Zehra
-
+  Laila ne sanwaara Ali Akbar ko ye keh kar
+  Din byaah ke haiṅ phir bhi sidhaaro mere dilbar
+  Sharminda Muhammad se na ho jaaye ye maadar
+  Dam naad-e-Ali kar duṅ tere seene ke upar
+  Gul sehre ke murjhaaye haiṅ ya Fatima Zehra
 
   8
-
-  Jab teero ki barsaat may ghar se gaye asghar
-
-  Maa kehti thi pani isay de denge sitamgar
-
-  Maloom na tha teer hai asghar ka muqaddar
-
-  Tadpega abhi baap ke haaton pe ye dilbar
-
-  Sheh laasha utha laaye hai ya Fatima Zehra
-
+  Jab teeroṅ ki barsaat mein ghar se gaye Asghar
+  Maaṅ kehti thi paani ise de denge sitamgar
+  Maalum na tha teer hai Asghar ka muqaddar
+  Tarpega abhi baap ke haathoṅ pe ye dilbar
+  Sheh laasha utha laaye haiṅ ya Fatima Zehra
 
   9
-
-  Jab gardane shabbir pe chalne laga khanjar
-
-  Khud aap to maujood thi wahan binte payambar
-
-  Maa kehke sada deta tha jab aap ko dilbar
-
-  Jannat se chale aaye thay jab dasht may haider
-
-  Hum rone ko yahan aaye hai ya Fatima Zehra
-
+  Jab gardan-e-Shabbir pe chalne laga khanjar
+  Khud aap to maujud thiṅ wahaaṅ bint-e-Payambar
+  Maaṅ keh ke sada deta tha jab aap ko dilbar
+  Jannat se chale aaye the jab dasht mein Haidar
+  Hum rone ko yaaṅ aaye haiṅ ya Fatima Zehra
 
   10
-
-  Aey Kashif-o-Rehaan pase shame ghariban
-
-  Saydaniya roti thi larazta tha bayaban
-
-  Jalte hue qaimo ka dhuan bar sare maidan
-
-  Ek bachi ko sholo may sulagta hua daaman
-
-  Dil dard se bhar aaye hai ya Fatima Zehra'
+  Ae Kaashif o Rehaan pas-e-shaam-e-gharibaaṅ
+  Sayyidaaniyaaṅ roti thiṅ larazta tha bayaabaaṅ
+  Jalte hue khaimoṅ ka dhuaaṅ bar sar-e-maidaaṅ
+  Ik bachi ka sholoṅ mein sulagta hua daaman
+  Dil dard se bhar aaye haiṅ ya Fatima Zehra
 ---
 
 صلوٰۃ و سلام آپ پہ یا فاطمہ زہرا

@@ -9,41 +9,92 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haey Zainab veer di maut diyan ghariyaan ghunaindi reh gaye
+  Haaye Zainab vir di maut diyaaṅ, ghariyaaṅ ghariindi reh gai
+  Nap ke dar khaime da haaye, takraaṅ mariindi reh gai
 
   1
-  Nap kay der khaimay da hy
-  Takraan marayndi reh gaye
+  Zabh kiuṅ karte ho is ko pyaasa
+  Mustafa ka ye to hai nawaasa
+  Ik behan maqtal mein haaye
+  Faryaad karti reh gai
 
   2
-  1) Lab baysheer day hil gaaye bahan pani
-  Ropayee gurbat taun baun nimani
-  Tin dinaan taun pyasi hy
-  Paani mangayndi reh gaye
+  Na Husain ko maareṅ waasta ei
+  Kalli bhainri da ae aasra ei
+  Vir de qaatil tuṅ haaye
+  Mintaaṅ kariindi reh gai
 
   3
-  2) Veer day walaan chay hath Shimar da
-  Saamnay bhaynee day haaye kusda
-  Hun tay Ghazi aaway haaye
-  Wal wal saddayndee reh gaye
+  Kar diya Quraaṅ ko paara paara
+  Shah ka sar neze pe laaye aada
+  Laut ke aa ja Ghazi haaye
+  Zainab bulaati reh gai
 
   4
-  3) Na Husain koun maarein wasta ay
-  Kalli bhaynee da ay asra ae
-  Veer day qatil koun hy
-  Mintaan karayndee reh gaye
+  Saath mein aaye the jitne taare
+  Chhin gaye ghurbat mein sab sahaare
+  Karbala ke ban mein haaye
+  Har su udaasi reh gai
 
   5
-  4) Ghauray bhajday rehgaaye dhayndi rehgaye
-  Ban kay baybas bibi rondi rehgaye
-  Cha kay dhee kamsin koun hy
-  Baba dayndi reh gaye
+  Laash-e-Akbar par tha maaṅ ka nauha
+  Teri shaadi karti haaye beta
+  Dekhti tera sehra
+  Hasrat ye dil ki reh gai
 
   6
-  5) Veer saaray tur gaaye Shaam thee gaye
-  Ek munadi pal wich aam thi gaye
-  Lut ghinno hun burqay hy
-  Abid bachayndi reh gaye
+  Sehmi sehmi nanhi Shah ki dukhtar
+  Jab shaqi ni chhine us ke gauhar
+  Baba baba keh ke haaye
+  Bachchi bilakti reh gai
+
+  7
+  Dasht mein ghurbat ki shaam aai
+  Haaye sitam ki zad mein Zehra jaai
+  Aao Najaf se baba haaye
+  Beti akeli reh gai
+
+  8
+  Ae Suhail ashkoṅ ki ye sada hai
+  Zulm is se barh kar aur kya hai
+  Bint-e-Saaqi-e-Kausar haaye
+  Sehra mein pyaasi reh gai
+
+  9
+  Haaye Zainab vir di maut diyaaṅ
+  Ghariyaaṅ ghariindi reh gai
+  Nap ke dar khaime da haaye
+  Takraaṅ mariindi reh gai
+
+  10
+  Lab Shabbir de hil gaye bhanir paani
+  Ro pai ghurbat tuṅ bahuṅ namaanri
+  Tin dinaaṅ tuṅ pyaasi haaye
+  Paani mangiindi reh gai
+
+  11
+  Ghore bhajde reh gaye dhehndi reh gai
+  Banr ke bebas Bibi rondi reh gai
+  Cha ke dhi kamsin kuṅ haaye
+  Baba dikhiindi reh gai
+
+  12
+  Vir de waalaaṅ che hath Shimar da
+  Saamne bhainri de haaye kusda
+  Hunr te Ghazi aave haaye
+  Wal wal sadiindi reh gai
+
+  13
+  Vir saare tur gaye Shaam thi gai
+  Ik munaadi pal wich aam thi gai
+  Lut ghino hantar burqe haaye
+  Abid bachiindi reh gai
+
+  14
+  Gaal ae Naushaad bahuṅ ruwa gai
+  Pag bandha Abid kuṅ sintar aa gai
+  Saariyaaṅ sintri kuṅ haaye
+  Rassiyaaṅ pawiindi reh gai
 ---
 
 ہائے زینبؑ ویر دی موت دیاں، گھڑیاں گھڑیندی رہ گئی

@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sajjad ka beta shahzada baqer
-  Jab aaya madine sota hi nahi tha
+  Sajjad ka beta shehzada Baqir
+  Jab aaya Madine sota hi nahiṅ tha
   Bas rota tha
-  Ek shab fizza ne aake kaha
-  Shehzade kiuṅ sote nahi ho mere aaqa zade
-  Maula baqer ne ro ke kaha amma
+  Ek shab Fizza ne kaha
+  Shehzade kiuṅ sote nahiṅ ho mere aaqazade
+  Maula Baqir ne ro ke kaha ammaṅ
   Dekha hai in aankhoṅ ne dada ke kate sar ko
-  Na bhoolunga mai wo karbobala
-  Padhunga sada yehi marsiya
-  Haaṅ mai rounga
-  Mai rounga amma fizza mai rounga
-  Dekha hai in aankhoṅ ne jab karbobala pahunche
-  Darya pe lage qaime darya se hate qaime
-  Na bhoolunga mai wo tifl o jawaaṅ
-  The tashna dahan labe alqama
-  Haaṅ mai rounga
-  Mai rounga...
-  Dekha hai in aankhoṅ ne ashur ka wo manzar
+  Na bhuluṅ ga maiṅ wo Karb o Bala
+  Parhuṅ ga sadaa yehi marsiya
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga Ammaṅ Fizza maiṅ rouṅ ga
+  Dekha hai in aankhoṅ ne jab Karb o Bala pahunche
+  Darya pe lage khaime darya se hate khaime
+  Na bhuluṅ ga maiṅ wo tifl o jawaaṅ
+  The tashna dahan lab-e-Alqama
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
+  Dekha hai in aankhoṅ ne Aashur ka wo manzar
   Laashe hi bayabaṅ se sheh laate rahe din bhar
-  Na bhoolunga mai wo ranj o alam
-  Sar e dasht e gham huwe sar qalam
-  Haaṅ mai rounga
-  Mai rounga...
+  Na bhuluṅ ga maiṅ wo ranj o alam
+  Sar-e-dasht-e-gham huwe sar qalam
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
   Dekha hai in aankhoṅ ne naizoṅ pe shahidoṅ ko
-  Aur shaam e gharibaṅ meiṅ jalte huwe qaimon ko
-  Na bhoolunga mai chini chadareiṅ
-  Jali masnadeiṅ mere saamne
-  Haaṅ mai rounga
-  Mai rounga...
+  Aur shaam-e-gharibaṅ meiṅ jalte huwe khaimoṅ ko
+  Na bhuluṅ ga maiṅ chhini chaadareṅ
+  Jali masnadeṅ mere saamne
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
   Dekha hai in aankhoṅ ne kaunain ki shehzadi
-  Jis waqt bani qaidi ghazi ko bulaati thi
-  Na bhoolunga mai haram ka safar
-  Chale nange sar rasan pehen kar
-  Haaṅ mai rounga
-  Mai rounga...
-  Dekha hai in aankhoṅ ne kaanto pe safar karna
-  Un shaam ki galiyoṅ meiṅ ek qaidi ka khuṅ rona
-  Na bhoolunga mai saje baam o dar
+  Jis waqt bani qaidi Ghazi ko bulaati thi
+  Na bhuluṅ ga maiṅ haram ka safar
+  Chale nange sar rasan pahan kar
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
+  Dekha hai in aankhoṅ ne kaantoṅ pe safar karna
+  In Shaam ki galiyoṅ meiṅ ek qaidi ka khuṅ rona
+  Na bhuluṅ ga maiṅ saje baam o dar
   Har ek gaam par wo naizoṅ pe sar
-  Haaṅ mai rounga
-  Mai rounga...
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
   Dekha hai in aankhoṅ ne us waqt asiri meiṅ
   Shabbir ki dukhtar ko jab maanga kanizi meiṅ
-  Na bhoolunga mai haram ro diye
+  Na bhuluṅ ga maiṅ haram ro diye
   Sabhi karb se tarapne lage
-  Haaṅ mai rounga
-  Mai rounga...
-  Dekha hai in aankhoṅ ne zindan ka wo manzar
-  Laasha tha sakina ka bemaar ke haathoṅ par
-  Na bhoolunga mai phupi ki qaza
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
+  Dekha hai in aankhoṅ ne zindaan ka wo manzar
+  Laasha tha Sakina ka bemaar ke haathoṅ par
+  Na bhuluṅ ga maiṅ phuphi ki qaza
   Kafan ban gaya wo kurta jala
-  Haaṅ mai rounga
-  Mai rounga...
-  Dekha hai in aankhoṅ ne zindaṅ se reha hoke
-  Wo ujre huwe qaidi jab karbobala pahunche
-  Na bhoolunga mai ke daadi meri
-  Ye kehne lagi behen aagayi
-  Haaṅ mai rounga
-  Mai rounga...
-  Dekha hai in aankhoṅ ne irfan e aza ban kar
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
+  Dekha hai in aankhoṅ ne zindaṅ se riha ho ke
+  Wo ujre huwe qaidi jab Karb o Bala pahunche
+  Na bhuluṅ ga maiṅ ke daadi meri
+  Ye kehne lagi behen aa gai
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
+  Dekha hai in aankhoṅ ne irfaan-e-aza ban kar
   Dekho mere chehre ko har gham ka hai ye mazhar
-  Na bhoolunga mai kabhi karbala
-  Wo qaid e jafa dayaar e saza
-  Haaṅ mai rounga
-  Mai rounga...
+  Na bhuluṅ ga maiṅ kabhi Karbala
+  Wo qaid-e-jafa dayaar-e-saza
+  Haaṅ maiṅ rouṅ ga
+  Maiṅ rouṅ ga...
 ---
 
 ۱

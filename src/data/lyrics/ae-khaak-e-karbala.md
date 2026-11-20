@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Beti ne Fatema ki rakhe qadam hai tujh par
-  Pehre pe aayi ban kar wo hu bahu dilaawar
+  Pehre pe aayi ban kar wo huṅ bahu dilaawar
   Jo kuchh kiya hai bas wo Zainab ka hausla hai
 
   4
@@ -42,8 +42,8 @@ romanLyrics: |-
 
   6
   Tujh pe ae khaak baitha sar ko jhukaaye qaidi
-  Aankhoṅ ko apne khuṅ ka darya banaaye qaidi
-  Kaandhoṅ pe jis ke haaye kul wazn-e-Karbala hai
+  Aankhoṅ ko apne khuṅ ka darya bahaaye qaidi
+  Kaandhoṅ pe jis ka haaye kul wazn-e-Karbala hai
 
   7
   Abid Husainiyoṅ ka ye khaak aasmaaṅ hai

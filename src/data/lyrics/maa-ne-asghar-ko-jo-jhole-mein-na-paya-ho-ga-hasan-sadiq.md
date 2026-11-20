@@ -8,45 +8,29 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Maa Ne Asghar Ko Jo Jhole Mein Na Paya Ho Ga Hasan Sadiq"
-romanLyrics: 'Maa nay Asghar ko jo jhulay may na paya ho ga
-
-  Raat bhar chain usay, Kis terha aaya ho ga
-
+romanLyrics: |-
+  Maaṅ ne Asghar ko jo jhole mein na paaya ho ga
 
   1
-
-  1) Maa yehi soch kai roti thi lahu kai anso
-
-  Sheh nai kis terha kiya hoga zara khoon sai wuzu
-
-  Teer Jab Asghare, baisheer na khaya ho ga
-
+  Raat bhar chain use kis tarah aaya ho ga
+  Maaṅ yahi soch ki roti thi lahu ke aansoṅ
+  Shah ne kis tarah kiya ho ga tere khuṅ se wuzu
+  Tir jab Asghar-e-beshir ne khaaya ho ga
 
   2
-
-  2) Kuch jalee lakriyan jhulay ki utha laye thi
-
-  Bano jab chut kai zindaan sai ghar aayi thi
-
-  Hal Asgher Ka yun, Sughra ko sunaya ho ga
-
+  Kuch jali larkiyaaṅ jhole ki utha laai thi
+  Baano jab chhute ke zindaaṅ se ghar aai thi
+  Haal Asghar ka yuṅ Sughra ko sunaaya ho ga
 
   3
-
-  3) Zindagi bhar kabhi sayai main ba bethi madar
-
-  Kehti thi dhoop main sota hai mera noor-e-nazar
-
-  Meri to qabar pai bhi, dhoop ka saya ho ga
-
+  Zindagi bhar kabhi saaye mein na baithi maadar
+  Kehti thi dhup mein sota hai mera nur-e-nazar
+  Meri to qabr pe bhi dhup ka saaya ho ga
 
   4
-
-  4) Poochti rehti thi har aik sai maa Asghar ki
-
-  Muj ko batlao bani qabar kahan Asghar ki
-
-  Uski turbat pai diya, kisnai jalaya ho ga'
+  Puchhti rehti thi har ek se maaṅ Asghar ki
+  Mujh ko batlaao bani qabr kahaaṅ Asghar ki
+  Us ki turbat pe diya kis ne jalaaya ho ga
 ---
 
 ماں نے اصغر کو جو جھولے میں نہ پایا ہوگا

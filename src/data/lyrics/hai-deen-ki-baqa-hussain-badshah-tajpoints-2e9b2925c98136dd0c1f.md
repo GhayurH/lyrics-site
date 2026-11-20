@@ -1,68 +1,125 @@
 ---
-title: "Hai Deen Ki Baqa Hussain Badshah"
+title: "ہے دین کی بقا حسین بادشاہ"
+alternateTitle: "Hai Deen Ki Baqa Hussain Badshah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hai deen ki baqa Hussain badshah
+  Bina-e-La Ilaha Hussain badshah
+
+  1
+  Karam ki inteha hai deen ki baqa Hussain badshah
+  Teri panah mein hai deen bilyaqeen
+  Teri faeelatoon ki had koi nahi
+  Nabi ki pusht ka Hussain hai makeen
+
+  2
+  Hai haq jahan jahan Hussain hai wahin
+  Hain noor-e-kibriya Hussain badshah
+  Hussain kainat mein hai sab se moatbar
+  Sakhawatoon ke baab mein sakhi azeem tar
+
+  3
+  Batay-e-dill ke koan hai Nabi ka chara gar
+  Woh dekh bad-e-qatal bhi sina ki nook par
+  Hai koan lab kusha Hussain badshah
+  Har aik dill pe aaj bhi ossi ka raaj hai
+
+  4
+  Ossi ke sar ko zaib rehmatoon ka taaj hai
+  Gharor hai Khuda ka woh Nabi ki laaj hai
+  Sifaat our zaat mein Khuda mizaaj hai
+  Hai sabar ka Khuda Hussain badshah
+
+  5
+  Hai koan jiss ne dushmano ki jaan bakhsh di
+  Kitab-e-haq ki aayaton ko shan bakhsh di
+  Yeh kis ne patharon ko bhi zaban baksh di
+  Yeh kis ne Hur ko rah mein amaan baksh di
+
+  6
+  Tu Hur ne keh diya Hussain badshah
+  Gharor-e-anbiya hai woh Khuda ka naaz hai
+  Khuda-e-la-shareek ka woh karsaaz hai
+  Bashar na pa sake jise woh aisa raaz hai
+
+  7
+  Nabi ki pusht pe ho gar tu woh namaz hai
+  Sarapa moajza Hussain badshah
+  Hussain hujat-e-Khuda Hussain hai wafa
+  Nabi ka mudua hai woh Batool ki dua
+
+  8
+  Hussain ka wojood hai wojood-e-Mustafa
+  Ossi ke dar pe Fitrus-e-hazeen ne yeh kaha
+  Hai markaz-e-atta Hussain badshah
+  Muhib ke harf ko hayat mill gayi
+
+  9
+  Jisse main dhondta tha woh siraat mil gayi
+  Dar-e-Hussain kya mila nijaat mil gayi
+  Manaqab-o-salam ki zakaat mil gayi
+  Qalam ne jab likha Hussain badshah
 ---
 
-Hai Deen Ki Baqa Hussain Badshah.
-Bina-e-La Ilaha Hussain Badshah.
+ہے دین کی بقا حسین بادشاہ
+بنائے لا الٰہ حسین بادشاہ
 
-1
-Karam Ki Inteha Hai Deen Ki Baqa Hussain Badshah.
-Teri Panah Mein Hai Deen Bilyaqeen.
-Teri Faeelatoon Ki Had Koi Nahi.
-Nabi Ki Pusht Ka Hussain Hai Makeen.
+۱
+کرم کی انتہا ہے دین کی بقا حسین بادشاہ
+تیری پناہ میں ہے دین بالیقین
+تیری فضیلتوں کی حد کوئی نہیں
+نبی کی پشت کا حسین ہے مکین
 
-2
-Hai Haq Jahan Jahan Hussain Hai Wahin.
-Hain Noor-e-Kibriya Hussain Badshah.
-Hussain Kainat Mein Hai Sab Se Moatbar.
-Sakhawatoon Ke Baab Mein Sakhi Azeem Tar.
+۲
+ہے حق جہاں جہاں حسین ہے وہیں
+ہیں نورِ کبریا حسین بادشاہ
+حسین کائنات میں ہے سب سے معتبر
+سخاوتوں کے باب میں سخی عظیم تر
 
-3
-Batay-e-Dill Ke Koan Hai Nabi Ka Chara Gar.
-Woh Dekh Bad-e-Qatal Bhi Sina Ki Nook Par.
-Hai Koan Lab Kusha Hussain Badshah.
-Har Aik Dill Pe Aaj Bhi Ossi Ka Raaj Hai.
+۳
+بتائے دل کہ کون ہے نبی کا چارہ گر
+وہ دیکھ بعدِ قتل بھی سناں کی نوک پر
+ہے کون لب کشا حسین بادشاہ
+ہر ایک دل پہ آج بھی اسی کا راج ہے
 
-4
-Ossi Ke Sar Ko Zaib Rehmatoon Ka Taaj Hai.
-Gharor Hai Khuda Ka Woh Nabi Ki Laaj Hai.
-Sifaat Our Zaat Mein Khuda Mizaaj Hai.
-Hai Sabar Ka Khuda Hussain Badshah.
+۴
+اسی کے سر کو زیب رحمتوں کا تاج ہے
+غرور ہے خدا کا وہ نبی کی لاج ہے
+صفات اور ذات میں خدا مزاج ہے
+ہے صبر کا خدا حسین بادشاہ
 
-5
-Hai Koan Jiss Ne Dushmano Ki Jaan Bakhsh Di.
-Kitab-e-Haq Ki Aayaton Ko Shan Bakhsh Di.
-Yeh Kis Ne Patharon Ko Bhi Zaban Baksh Di.
-Yeh Kis Ne Hur KO Rah Mein Amaan Baksh Di.
+۵
+ہے کون جس نے دشمنوں کی جان بخش دی
+کتابِ حق کی آیتوں کو شان بخش دی
+یہ کس نے پتھروں کو بھی زباں بخش دی
+یہ کس نے حُر کو راہ میں اماں بخش دی
 
-6
-Tu Hur Ne Keh Diya Hussain Badshah.
-Gharor-e-Anbiya Hai Woh Khuda Ka Naaz Hai.
-Khuda-e-La-Shareek Ka Woh Karsaaz Hai.
-Bashar Na Pa Sake Jise Woh Aisa Raaz Hai.
+۶
+تو حُر نے کہہ دیا حسین بادشاہ
+غرورِ انبیا ہے وہ خدا کا ناز ہے
+خدائے لا شریک کا وہ کارساز ہے
+بشر نہ پا سکے جسے وہ ایسا راز ہے
 
-7
-Nabi Ki Pusht Pe Ho Gar Tu Woh Namaz Hai.
-Sarapa Moajza Hussain Badshah.
-Hussain Hujat-e-Khuda Hussain Hai Wafa.
-Nabi Ka Mudua Hai Woh Batool Ki Dua.
+۷
+نبی کی پشت پہ ہو گر تو وہ نماز ہے
+سراپا معجزہ حسین بادشاہ
+حسین حجتِ خدا حسین ہے وفا
+نبی کا مدعا ہے وہ بتول کی دعا
 
-8
-Hussain Ka Wojood Hai Wojood-e-Mustafa.
-Ossi Ke Dar Pe Fitrus-e-Hazeen Ne Yeh Kaha.
-Hai Markaz-e-Atta Hussain Badshah.
-Muhib Ke Harf Ko Hayat Mill Gayi.
+۸
+حسین کا وجود ہے وجودِ مصطفیٰ
+اسی کے در پہ فطرسِ حزیں نے یہ کہا
+ہے مرکزِ عطا حسین بادشاہ
+محب کے حرف کو حیات مل گئی
 
-9
-Jisse Main Dhondta Tha Woh Siraat Mil Gayi.
-Dar-e-Hussain Kya Mila Nijaat Mil Gayi.
-Manaqab-o-Salam Ki Zakaat Mil Gayi.
-Qalam Ne Jab Likha Hussain Badshah.
+۹
+جسے میں ڈھونڈتا تھا وہ صراط مل گئی
+درِ حسین کیا ملا نجات مل گئی
+مناقب و سلام کی زکات مل گئی
+قلم نے جب لکھا حسین بادشاہ

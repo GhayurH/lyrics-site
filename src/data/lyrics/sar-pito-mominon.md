@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Athaara saal meiṅ hi wo duniya se chal basi
-  Tarpa rahi hai bachchoṅ ko rehlat Batul ki
+  Tarpa rahi hai bachchoṅ ko rihlat Batul ki
 
   6
   Ahl-e-haram meiṅ ranj se mahshar bapa hua

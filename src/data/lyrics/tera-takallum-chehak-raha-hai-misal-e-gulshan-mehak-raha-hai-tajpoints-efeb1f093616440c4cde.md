@@ -1,50 +1,90 @@
 ---
-title: "Tera Takallum Chehak Raha Hai Misal E Gulshan Mehak Raha Hai"
+title: "تیرا تکلم چہک رہا ہے مثالِ گلشن مہک رہا ہے"
+alternateTitle: "Tera Takallum Chehak Raha Hai Misal-e-Gulshan Mehak Raha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tera takallum chehak raha hai misal e gulshan mehak raha hai
+  Zamane walon ko khar yeh hai na ruk raha hai na thak raha hai
+
+  1
+  Zameen-e-Midhat pe tera dushman bilak raha tha bilak raha hai
+  Hamari saif e qalam se Maula lahu musalsal tapak raha hai
+  Jala ke rakh de ga sari dunya agar zaban-e-sukhan se phota
+  Kisay dikhaon tere elawah jo lawa seene mein pak raha hai
+
+  2
+  Yeh shehar bhi hai Madine jaisa kisay sunaon tera qasida?
+  Koi idhar se khisak raha hai koi idhar se khisak raha hai
+  Nabi ki beti ke dushmano ka shorow kis din tamasha hoga
+  Hamari aankhon ka pardah Maula tumhare parday ko tak raha hai
+
+  3
+  Khuda ne his di hai janwar ko yeh bhanp leta hai zalzalon ko
+  Ghadeer koson hai door abhi se kissi ka naqa bidak raha hai
+  Imam-e-Aakhir se ghairiyat bhi, hasool-e-shohrat bhi manfeat bhi
+  Tumhare kashkool-e-zakiri mein yeh kis ka sikka khanak raha hai
+
+  4
+  Kissi kissi ko dikhai deney laga hai noor-e-khuda ka jalwa
+  Zahoor-e-Sughra tu ho chuka hai zamana ab tak bhatak raha hai
+  Hazoor purkhon ki ab wirasat sanbhal lijay bazor e taqat
+  Hai aaj qabzey mein aisay Kaba keh jaisay Bag-e-Fidak raha hai
+
+  5
+  Na Zikar-e-Mehdi pe munh banana na ungli ghaibat pe tum uthana
+  Tamacha par jaye ga ghazab ka, alam ka panja lachak raha hai
+  Hai garam bazar-e-fatwa sazi patharay daroon mein hain namazi
+  Ajeeb zair-o-zabar hai dunya jo bik raha hai woh bak raha hai
+
+  6
+  Chala hai Makkay se Ibn-e-Zahra, sada yeh deta hai youm-e-arfa
+  Mujhe yeh lagta hai aaj Kaba jagah se apni sarak raha hai
+  Bola ke Toor e Najaf pe Maula zara Takallum se baat kar lo
+  Tumhari janib Misal-e-Mosa yeh tifal-e-maktab humak raha hai
 ---
 
-Tera Takallum Chehak Raha Hai Misal e Gulshan Mehak Raha Hai.
-Zamane Walon Ko Khar Yeh Hai Na Ruk Raha Hai Na Thak Raha Hai.
+تیرا تکلم چہک رہا ہے مثالِ گلشن مہک رہا ہے
+زمانے والوں کو خار یہ ہے نہ رک رہا ہے نہ تھک رہا ہے
 
-1
-Zameen-e-Midhat Pe Tera Dushman Bilak Raha Tha Bilak Raha Hai.
-Hamari Saif e Qalam Se Maula Lahu Musalsal Tapak Raha Hai.
-Jala Ke Rakh De Ga Sari Dunya Agar Zaban-e-Sukhan Se Phota.
-Kisay Dikhaon Tere Elawah Jo Lawa Seene Mein Pak Raha Hai.
+۱
+زمینِ مدحت پہ تیرا دشمن بلک رہا تھا بلک رہا ہے
+ہماری سیفِ قلم سے مولا لہو مسلسل ٹپک رہا ہے
+جلا کے راکھ دے گا ساری دنیا اگر زبانِ سخن سے پھوٹا
+کسے دکھاؤں تیرے علاوہ جو لاوا سینے میں پک رہا ہے
 
-2
-Yeh Shehar Bhi Hai Madine Jaisa Kisay Sunaon Tera Qasida?.
-Koi Idhar Se Khisak Raha Hai Koi Idhar Se Khisak Raha Hai.
-Nabi Ki Beti Ke Dushmano Ka Shorow Kis Din Tamasha Hoga.
-Hamari Aankhon Ka Pardah Maula Tumhare Parday Ko Tak Raha Hai.
+۲
+یہ شہر بھی ہے مدینے جیسا کسے سناؤں تیرا قصیدہ؟
+کوئی ادھر سے کھسک رہا ہے کوئی ادھر سے کھسک رہا ہے
+نبی کی بیٹی کے دشمنوں کا شور وہ کس دن تماشا ہوگا
+ہماری آنکھوں کا پردہ مولا تمہارے پردے کو تک رہا ہے
 
-3
-Khuda Ne His Di Hai Janwar Ko Yeh Bhanp Leta Hai Zalzalon Ko.
-Ghadeer Koson Hai Door Abhi Se Kissi Ka Naqa Bidak Raha Hai.
-Imam-e-Aakhir Se Ghairiyat Bhi, Hasool-e-Shohrat Bhi Manfeat Bhi.
-Tumhare Kashkool-e-Zakiri Mein Yeh Kis Ka Sikka Khanak Raha Hai.
+۳
+خدا نے حس دی ہے جانور کو یہ بھانپ لیتا ہے زلزلوں کو
+غدیر کوسوں ہے دور ابھی سے کسی کا ناقہ بدک رہا ہے
+امامِ آخر سے غیریت بھی، حصولِ شہرت بھی منفعت بھی
+تمہارے کشکولِ ذاکری میں یہ کس کا سکہ کھنک رہا ہے
 
-4
-Kissi Kissi Ko Dikhai Deney Laga Hai Noor-e-Khuda Ka Jalwa.
-Zahoor-e-Sughra Tu Ho Chuka Hai Zamana Ab Tak Bhatak Raha Hai.
-Hazoor Purkhon Ki Ab Wirasat Sanbhal Lijay Bazor e Taqat.
-Hai Aaj Qabzey Mein Aisay Kaba Keh Jaisay Bag-e-Fidak Raha Hai.
+۴
+کسی کسی کو دکھائی دینے لگا ہے نورِ خدا کا جلوہ
+ظہورِ صغریٰ تو ہو چکا ہے زمانہ اب تک بھٹک رہا ہے
+حضور پرکھوں کی اب وراثت سنبھال لیجے بزورِ طاقت
+ہے آج قبضے میں ایسے کعبہ کہ جیسے باغِ فدک رہا ہے
 
-5
-Na Zikar-e-Mehdi Pe Munh Banana Na Ungli Ghaibat Pe Tum Uthana.
-Tamacha Par Jaye Ga Ghazab Ka, Alam Ka Panja Lachak Raha Hai.
-Hai Garam Bazar-e-Fatwa Sazi Patharay Daroon Mein Hain Namazi.
-Ajeeb Zair-o-Zabar Hai Dunya Jo Bik Raha Hai Woh Bak Raha Hai.
+۵
+نہ ذکرِ مہدی پہ منہ بنانا نہ انگلی غیبت پہ تم اٹھانا
+تماچا پڑ جائے گا غضب کا، علم کا پنجہ لچک رہا ہے
+ہے گرم بازارِ فتویٰ سازی پتھرائے دروں میں ہیں نمازی
+عجیب زیر و زبر ہے دنیا جو بک رہا ہے وہ بک رہا ہے
 
-6
-Chala Hai Makkay Se Ibn-e-Zahra, Sada Yeh Deta Hai Youm-e-Arfa.
-Mujhe Yeh Lagta Hai Aaj Kaba Jagah Se Apni Sarak Raha Hai.
-Bola Ke Toor e Najaf Pe Maula Zara Takallum Se Baat Kar Lo.
-Tumhari Janib Misal-e-Mosa Yeh Tifal-e-Maktab Humak Raha Hai.
+۶
+چلا ہے مکے سے ابنِ زہرا، صدا یہ دیتا ہے یومِ عرفہ
+مجھے یہ لگتا ہے آج کعبہ جگہ سے اپنی سرک رہا ہے
+بولا کہ طورِ نجف پہ مولا ذرا تکلم سے بات کر لو
+تمہاری جانب مثالِ موسیٰ یہ طفلِ مکتب ہمک رہا ہے

@@ -1,37 +1,64 @@
 ---
-title: "Tu Kuja Fatima Man Kuja Fatima"
+title: "تو کجا فاطمہ من کجا فاطمہ"
+alternateTitle: "Tu Kuja Fatima Man Kuja Fatima"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tu kuja Fatima man kuja Fatima Sarwar Raza Karbalai Seengar Ali Safvi
+
+  1
+  Jhuk ke Mariyam yeh boli keh ya Fatima
+  Tu kuja Fatima man kuja Fatima
+  Aayi jis dam kisa mein yeh Bint-e-Nabi
+  Tu Khuda ne kaha marhaba Fatima
+  LaIlaha ki qasam Kibriya ki tarha
+  Tujh sa koi nahi dosra Fatima
+
+  2
+  Khuld ke dar pe likha howa hai Ali
+  Khuld ke baam par Syeda Fatima
+  Arsh walay khilatay hain sab ko magar
+  Arsh walon ki hai raziqa Fatima
+  Oss se mehshar mein razi na ho ga Khuda
+  Thi zamane mein jis se khafa Fatima
+
+  3
+  Barh ke mujh ko galay se laga le Hussain
+  Hur ke jaisa muqadar bana Fatima
+  Aik khuwaish hai dunya mein ya Fatima
+  Bantay dekhon main roza tera Fatima
+  Koi Asif ho ya keh ho Sarwar tera
+  Apni turbat pe unn ko bola Fatima
 ---
 
-Tu Kuja Fatima Man Kuja Fatima Sarwar Raza Karbalai Seengar Ali Safvi.
+تو کجا فاطمہ من کجا فاطمہ سرور رضا کربلائی سینگار علی صفوی
 
-1
-Jhuk Ke Mariyam Yeh Boli Keh Ya Fatima.
-Tu Kuja Fatima Man Kuja Fatima.
-Aayi Jis Dam Kisa Mein Yeh Bint-e-Nabi.
-Tu Khuda Ne Kaha Marhaba Fatima.
-LaIlaha Ki Qasam Kibriya Ki Tarha.
-Tujh Sa Koi Nahi Dosra Fatima.
+۱
+جھک کے مریم یہ بولی کہ یا فاطمہ
+تو کجا فاطمہ من کجا فاطمہ
+آئی جس دم کسا میں یہ بنتِ نبی
+تو خدا نے کہا مرحبا فاطمہ
+لا الٰہ کی قسم کبریا کی طرح
+تجھ سا کوئی نہیں دوسرا فاطمہ
 
-2
-Khuld Ke Dar Pe Likha Howa Hai Ali.
-Khuld Ke Baam Par Syeda Fatima.
-Arsh Walay Khilatay Hain Sab Ko Magar.
-Arsh Walon Ki Hai Raziqa Fatima.
-Oss Se Mehshar Mein Razi Na Ho Ga Khuda.
-Thi Zamane Mein Jis Se Khafa Fatima.
+۲
+خلد کے در پہ لکھا ہوا ہے علی
+خلد کے بام پر سیدہ فاطمہ
+عرش والے کھلاتے ہیں سب کو مگر
+عرش والوں کی ہے رازقہ فاطمہ
+اس سے محشر میں راضی نہ ہو گا خدا
+تھی زمانے میں جس سے خفا فاطمہ
 
-3
-Barh Ke Mujh Ko Galay Se Laga Le Hussain.
-Hur Ke Jaisa Muqadar Bana Fatima.
-Aik Khuwaish Hai Dunya Mein Ya Fatima.
-Bantay Dekhon Main Roza Tera Fatima.
-Koi Asif Ho Ya Keh Ho Sarwar Tera.
-Apni Turbat Pe Unn Ko Bola Fatima.
+۳
+بڑھ کے مجھ کو گلے سے لگا لے حسین
+حر کے جیسا مقدر بنا فاطمہ
+ایک خواہش ہے دنیا میں یا فاطمہ
+بنتے دیکھوں میں روضہ تیرا فاطمہ
+کوئی آصف ہو یا کہ ہو سرور تیرا
+اپنی تربت پہ ان کو بلا فاطمہ

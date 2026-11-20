@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Ae ahl-e-Madina tu khaamosh hi rehna
   Zainab se khudaara tu ik lafz na kehna
-  Jo saaṅseiṅ bachi haiṅ kho de gi hazina
+  Jo saanseiṅ bachi haiṅ kho de gi hazina
 
   3
   Ye soch ke roti hai bimaar hai Sughra
@@ -36,21 +36,21 @@ romanLyrics: |-
 
   5
   Jab pursa mujhe deṅ ge sab log watan ke
-  Kis tarah chhupaauṅ gi ye nil rasan ke
-  Ahwaal safar ka keh de ye kahiṅ na
+  Kis tarah chhupaauṅ gi ye nil-e-rasan ke
+  Ahwaal-e-safar ka keh de ye kahiṅ na
 
   6
-  Har zakhm suna de ga ahwaal safar ka
+  Har zakhm suna de ga ahwaal-e-safar ka
   Phat jaaye na dil us ka jab dekhe gi Sughra
   Peshaani-e-Sajjad aur surkh pasina
 
   7
-  Hujroṅ meiṅ jo jaauṅ gi maiṅ Aun o Muhammad ke
+  Hujroṅ meiṅ jo jaauṅ gi main Aun o Muhammad ke
   Is dil ko rulaayeṅ ge bachchoṅ ke khilone
   Dil shiddat-e-gham se phat jaaye kahiṅ na
 
   8
-  Sab kuchh to luta aayi pardes meiṅ Zainab
+  Sab kuchh to lutaa aayi pardes meiṅ Zainab
   Mazluma musaafir ye kya ji ke kare ab
   Bin bhaai ke ab to dushwaar hai jina
 

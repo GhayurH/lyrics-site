@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye ali, haye ali
-  Zehra se pucho kya hai aliyun waliullah
-  Iske liye batul ka do baar ghar jala
-  Baghdad, sham o kufa, khurasan o karbala
-  Ummat ne fatema ko kahaṅ dukh nahi diya
-  Sab kuch lutaya diṅ ki hifazat ke waaste
+  Haaye Ali, haaye Ali
+  Zehra se puchho kya hai Aliyun Waliullah
+  Iske liye Batul ka do baar ghar jala
+  Baghdaad, Shaam o Kufa, Khuraasaan o Karbala
+  Ummat ne Fatema ko kahaṅ dukh nahiṅ diya
+  Sab kuch lutaaya diṅ ki hifaazat ke waaste
   Zehra ujar gayi hai wilayat ke waaste
-  Darbar meiṅ bachane gayi fathema zehra
-  Aliyun waliullah, aliyun waliullah
-  Sunta na tha madine meiṅ zehra ki koi baat
-  Lekar Hasan Husain ko har subho apne saath
-  Ghar ghar pe yaad jaake dilaati thi sayyeda
-  Aliyun waliullah, aliyun waliullah
-  Gham meiṅ abu turaab ke ghut ghut ke mar gayi
-  Dar parda fatema ki wasiyat yehi to thi
-  Aaye na wo janaze par jisne nahi parha
-  Aliyun waliullah, aliyun waliullah
-  Tuti hui thi phasliyaṅ dam tha ruka hua
-  Tha sayyeda pe jalta hua dar gira hua
-  Phir bhi labe batul pe jari thi ye sada
-  Aliyun waliullah, aliyun waliullah
-  Zainab pukari ae mere mazlum bewatan
-  Wada tumhari laash pe karti hai ye behan
-  Ek din zarur shaam ki galiyoṅ meiṅ goonjega
-  Aliyun waliullah, aliyun waliullah
-  Aaye najaf se sham-e-gharibaṅ meiṅ jab ali
+  Darbaar meiṅ bachaane gayi Fatema Zehra
+  Aliyun Waliullah, Aliyun Waliullah
+  Sunta na tha Madine meiṅ Zehra ki koi baat
+  Lekar Hasan Husain ko har subh apne saath
+  Ghar ghar pe yaad jaa ke dilaati thi Sayyeda
+  Aliyun Waliullah, Aliyun Waliullah
+  Gham meiṅ Abu Turaab ke ghut ghut ke mar gayi
+  Dar parda Fatema ki wasiyat yahi to thi
+  Aaye na wo janaaze par jis ne nahiṅ parha
+  Aliyun Waliullah, Aliyun Waliullah
+  Tuti huiṅ thi pasliyaṅ dam tha ruka hua
+  Tha Sayyeda pe jalta hua dar gira hua
+  Phir bhi lab-e-Batul pe jaari thi ye sada
+  Aliyun Waliullah, Aliyun Waliullah
+  Zainab pukaari ae mere mazlum bewatan
+  Waada tumhaari laash pe karti hai ye behan
+  Ik din zarur Shaam ki galiyoṅ meiṅ gunjega
+  Aliyun Waliullah, Aliyun Waliullah
+  Aaye Najaf se Shaam-e-gharibaaṅ meiṅ jab Ali
   Zainab ye kehke apne padar se lipat gayi
-  Khanjar tale bhi bhai ke zakhmi laboṅ pe tha
-  Aliyun waliullah, aliyun waliullah
-  Boli sakina aaya jo zindaṅ meiṅ sheh ka sar
-  Kaise bata'un shaam ka kaise kiya safar
-  Gir gir ke khun kano se deta raha sada
-  Aliyun waliullah, aliyun waliullah
-  Zindaṅ meiṅ ek qabr banane ke waaste
-  Hamshir ka janaza uthane ke waaste
-  Nade ali ki shakl meiṅ sajjad ne parha
-  Aliyun waliullah, aliyun waliullah
-  Na mehramo ki bhir thi darbar e sham meiṅ
-  Zainab ne de ke khutba zabane imam meiṅ
-  Bewaqt ki azan meiṅ dabne nahi diya
-  Aliyun waliullah, aliyun waliullah
-  Maa ki lehad pe bain takallum the beti ke
-  Pehlu pe zakhm khaake bachaya tha aap ne
-  Maiṅ ne rida luta ke bachaya hai ba-khuda
-  Aliyun waliullah, aliyun waliullah
+  Khanjar tale bhi bhaai ke zakhmi laboṅ pe tha
+  Aliyun Waliullah, Aliyun Waliullah
+  Boli Sakina aaya jo zindaaṅ meiṅ sheh ka sar
+  Kaise bataauṅ Shaam ka kaise kiya safar
+  Gir gir ke khun kaanoṅ se deta raha sada
+  Aliyun Waliullah, Aliyun Waliullah
+  Zindaaṅ meiṅ ek qabr banaane ke waaste
+  Hamshir ka janaaza uthaane ke waaste
+  Naad-e-Ali ki shakl meiṅ Sajjad ne parha
+  Aliyun Waliullah, Aliyun Waliullah
+  Naamahramoṅ ki bhir thi darbaar-e-Shaam meiṅ
+  Zainab ne de ke khutba zabaan-e-imaam meiṅ
+  Bewaqt ki azaan meiṅ dabne nahiṅ diya
+  Aliyun Waliullah, Aliyun Waliullah
+  Maaṅ ki lahad pe bain Takallum the beti ke
+  Pehlu pe zakhm khaa ke bachaaya tha aap ne
+  Maiṅ ne rida lutaa ke bachaaya hai ba khuda
+  Aliyun Waliullah, Aliyun Waliullah
 ---
 
 ۱

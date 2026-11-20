@@ -9,10 +9,10 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kia yuṅ qissa-e-batil tamam Zainab ne
-  Ukhar phainka hai darbar-e-Shaam Zainab ne
-  Bana ke Shaam ke zindan ko aza khana
-  Yazidiat se liya inteqam Zainab ne
+  Kiya yuṅ qissa-e-baatil tamaam Zainab ne
+  Ukhaar phainkaa hai darbaar-e-Shaam Zainab ne
+  Banaa ke Shaam ke zindaan ko azaa khaana
+  Yazidiyat se liyaa intiqaam Zainab ne
 ---
 
 ۱

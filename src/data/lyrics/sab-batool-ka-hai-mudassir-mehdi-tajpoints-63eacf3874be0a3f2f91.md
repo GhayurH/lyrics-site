@@ -1,34 +1,55 @@
 ---
-title: "Sab Batool Ka Hai Mudassir Mehdi"
+title: "سب بتول کا ہے مدثر مہدی"
+alternateTitle: "Sab Batool Ka Hai Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Jary"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Na hum se pochiye kya, kaisay, kab, Batool ka hai
+  Khuda, Rasool ka jo kuch hai sab Batool ka hai
+  Bata rahe hain yeh Esa jahan walon ko
+  Shifa jo deta hai mujh ko, matab, Batool ka hai
+  Mujhe yaqeen hai sand mein likha howa tha yehi
+  Faqat Fidak nahi sara Arab Batool ka hai
+  Bata rahe hain amal se Rasool dunya ko
+  Zamane walon pe wajib adab Batool ka hai
+  Woh ummati tu yaqeenan bana tha Esa ka
+  Magar yeh sach hai keh nokar Wahab Batool ka hai
+  Ossay bahisht mein jane se kaun rokay ga
+  Ke Hur ke mathay pe romal jab Batool ka hai
+  Usool hai jo wirasat ka oss hawalay se
+  Jo kuch hai Ahmad-e-Mursal ka sab Batool ka hai
+  Khateeb-e-mimber-e-azam, biyaan karein tafseer
+  Jo ik yeh Umm-e-Abeeha laqab Batool ka hai
+  Laeen-e-Sham ko ja kar khabar karey koi
+  Najaf, Madina-o-Kofa, Halab Batool ka hai
+  Wohi tu teen so terah ki foaj mein hoga
+  Sipahi jo bhi Jary muntahib Batool ka hai
 ---
 
-1
-Sab Batool Ka Hai Mudassir Mehdi Lyrics
-Na Hum Se Pochiye Kya, Kaisay, Kab, Batool Ka Hai.
-Khuda, Rasool Ka Jo Kuch Hai Sab Batool Ka Hai.
-Bata Rahe Hain Yeh Esa Jahan Walon Ko.
-Shifa Jo Deta Hai Mujh Ko, Matab, Batool Ka Hai.
-Mujhe Yaqeen Hai Sand Mein Likha Howa Tha Yehi.
-Faqat Fidak Nahi Sara Arab Batool Ka Hai.
-Bata Rahe Hain Amal Se Rasool Dunya Ko.
-Zamane Walon Pe Wajib Adab Batool Ka Hai.
-Woh Ummati Tu Yaqeenan Bana Tha Esa Ka.
-Magar Yeh Sach Hai Keh Nokar Wahab Batool Ka Hai.
-Ossay Bahisht Mein Jane Se Kaun Rokay Ga.
-Ke Hur Ke Mathay Pe Romal Jab Batool Ka Hai.
-Usool Hai Jo Wirasat Ka Oss Hawalay Se.
-Jo Kuch Hai Ahmad-e-Mursal Ka Sab Batool Ka Hai.
-Khateeb-e-Mimber-e-Azam, Biyaan Karein Tafseer.
-Jo Ik Yeh Umm-e-Abeeha Laqab Batool Ka Hai.
-Laeen-e-Sham Ko Ja Kar Khabar Karey Koi.
-Najaf, Madina-o-Kofa, Halab Batool Ka Hai.
-Wohi Tu Teen So Terah Ki Foaj Mein Hoga.
-Sipahi Jo Bhi Jary Muntahib Batool Ka Hai.
+۱
+نہ ہم سے پوچھیے کیا، کیسے، کب، بتول کا ہے
+خدا، رسول کا جو کچھ ہے سب بتول کا ہے
+بتا رہے ہیں یہ عیسیٰ جہاں والوں کو
+شفا جو دیتا ہے مجھ کو، مطب، بتول کا ہے
+مجھے یقین ہے سند میں لکھا ہوا تھا یہی
+فقط فدک نہیں سارا عرب بتول کا ہے
+بتا رہے ہیں عمل سے رسول دنیا کو
+زمانے والوں پہ واجب ادب بتول کا ہے
+وہ امتی تو یقیناً بنا تھا عیسیٰ کا
+مگر یہ سچ ہے کہ نوکر وہب بتول کا ہے
+اسے بہشت میں جانے سے کون روکے گا
+کہ حر کے ماتھے پہ رومال جب بتول کا ہے
+اصول ہے جو وراثت کا اس حوالے سے
+جو کچھ ہے احمدِ مرسل کا سب بتول کا ہے
+خطیبِ منبرِ اعظم، بیان کریں تفسیر
+جو اک یہ امِ ابیہا لقب بتول کا ہے
+لعینِ شام کو جا کر خبر کرے کوئی
+نجف، مدینہ و کوفہ، حلب بتول کا ہے
+وہی تو تین سو تیرہ کی فوج میں ہوگا
+سپاہی جو بھی جری منتخب بتول کا ہے

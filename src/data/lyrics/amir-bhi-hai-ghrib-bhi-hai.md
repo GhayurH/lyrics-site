@@ -9,107 +9,64 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ameer Hussain gharib Hussain
-
-  Ameer bhi hai gharib bhi hai
-
-  Ameer Hussain gharib Hussain
-
+romanLyrics: |-
+  Amir Husain gharib Husain
+  Amir bhi hai gharib bhi hai
+  Amir Husain gharib Husain
 
   1
-
-  Hussain Mehboob e Kibriya hai
-
-  Hussain ghurbat ki inteha hai
-
+  Husain mahbub-e-Kibriya hai
+  Husain ghurbat ki intiha hai
 
   2
-
-  Hussain Maqsood e Karbala hai (2)
-
-  Hussain Mazloom e Karbala hai
-
-  Ameer bhi hai gharib bhi hai (2)
-
+  Husain maqsud-e-Karbala hai
+  Husain mazlum-e-Karbala hai
 
   3
-
-  Ameer aisa kafan ki saughaat
-
-  Jiske roze se bat rahi hai
-
-  Ghareeb aisa ke khud ko ab tak
-
-  Kafan meinassar nahi huva hai
-
+  Amir aisa kafan ki saughaat
+  Jis ke rauze se bat rahi hai
+  Gharib aisa ke khud ko ab tak
+  Kafan muyassar nahiṅ hua hai
 
   4
-
-  Ameer aisa ke jis ka jhoola
-
-  Nabi jhulayein ali jhulayein
-
-  Ghareeb aisa ke jiske bache
-
-  Ka ban mein jhoola bhi jal gaya hai
-
+  Amir aisa ke jis ka jhula
+  Nabi jhulaaeṅ Ali jhulaaeṅ
+  Gharib aisa ke jis ke bachche
+  Ka ban mein jhula bhi jal gaya hai
 
   5
-
-  Ameer aisa ke rasme parda-dari
-
+  Amir aisa ke rasm-e-pardadaari
   Chali hai usi ke ghar se
-
-  Ghareeb aisa ke shaam-o-kufa
-
-  Mein us ki hamsheer be rida hai
-
+  Gharib aisa ke Shaam o Kufa
+  Mein us ki hamshir berida hai
 
   6
-
-  Ameer aisa sakina jaisi
-
-  Khuda ne beti jisay ata ki
-
-  Ghareeb aisa usi ke moo par
-
-  Koi tamache laga raha hai
-
+  Amir aisa Sakina jaisi
+  Khuda ne beti jise ataa ki
+  Gharib aisa usi ke munh par
+  Koi tamaache laga raha hai
 
   7
-
-  Ameer aisa ke jis ke baba
-
-  Ki milkiyat mein hai hauze kausar
-
-  Ghareeb aisa ke teen din se
-
-  Usi ko pani nahi mila hai
-
+  Amir aisa ke jis ke baaba
+  Ki milkiyat mein hai hauz-e-Kausar
+  Gharib aisa ke tin din se
+  Usi ko paani nahiṅ mila hai
 
   8
-
-  Ameer aisa k jis ka beta Shabih e Sardar e Anbia hai
-
-  Gharib aisa k wo he senay pe barchi khai tarap raha hai
-
+  Amir aisa ke jis ka beta shabih-e-sardaar-e-anbiya hai
+  Gharib aisa ke woh hi sine pe barchhi khaae tarap raha hai
 
   9
-
-  Ameer aisa khuda ka deen
-
-  Jis ke dam se hai aaj tak salamat
-
-  Ghareeb aisa ke ran mein jis ka
-
-  Badan salamat nahi raha hai
-
+  Amir aisa Khuda ka diṅ
+  Jis ke dam se hai aaj tak salaamat
+  Gharib aisa ke ran mein jis ka
+  Badan salaamat nahiṅ raha hai
 
   10
-
-  Ameer aisa k pathar’un ko bna day gohar wo he takallum
-
-  Gharib aisa k pathar’un may usi ka lasha chupa hoa hai'
+  Amir aisa ke pattharoṅ ko
+  Bana de gauhar wohi Takallum
+  Gharib aisa ke pattharoṅ mein
+  Usi ka laasha chhupa hua hai
 ---
 
 امير حسينؑ غريب حسينؑ

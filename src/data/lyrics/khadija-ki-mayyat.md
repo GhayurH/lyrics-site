@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Madine me aayi ye kaisi qayamath, nikalti hai ghar se Khadeeja ki mayyat,
-  Hai mehzun shaahe madeena ki haalath, nikalti hai ghar se Khadeeja ki mayyath..
+  Madine meiṅ aai ye kaisi qayaamat, nikalti hai ghar se Khadija ki mayyat
+  Hai mahzun Shaah-e-Madina ki haalat, nikalti hai ghar se Khadija ki mayyat
 
   1
-  Nikalte haiṅ rote hue sab gharoṅ se, ke jaise utha maa ka saaya saroṅ se,
-  Yunmasroof gham hai Mohammed ki ummat nikalti hai ghar se Khadeeja ki mayyath..
+  Nikalte haiṅ rote hue sab gharoṅ se, ke jaise utha maaṅ ka saaya saroṅ se
+  Yuṅ masruf-e-gham hai Muhammad ki ummat, nikalti hai ghar se Khadija ki mayyat
 
   2
-  Hai Maa aur beti me ab toh judayi, Nabi kaise beti ko deṅ ab tasalli,
-  Ke tuta hai Zehra pa koh e musibath, nikalti hai ghar se Khadeeja ki mayyath..
+  Hai maaṅ aur beti meiṅ ab to judaai, Nabi kaise beti ko deṅ ab tasalli
+  Ke tuta hai Zehra pe koh-e-musibat, nikalti hai ghar se Khadija ki mayyat
 
   3
-  Koi Maa ke marne ka gham kya bataye, Yatimi ka sadma yatima hi jaane,
-  Sahe Fatima kaise maadar ki furqat, nikalti hai ghar se Khadeeja ki mayyath..
+  Koi maaṅ ke marne ka gham kya bataae, yatimi ka sadma yatima hi jaane
+  Sahe Fatima kaise maadar ki furqat, nikalti hai ghar se Khadija ki mayyat
 
   4
-  Ye tanhayi aur ye yatimi ka sadma, bina Maa ke dushwar hota hai jina,
-  Mile kaise binte Khadeeja ko rahat, nikalti hai ghar se Khadeeja ki mayyath..
+  Ye tanhaai aur ye yatimi ka sadma, bina maaṅ ke dushwaar hota hai jina
+  Mile kaise Bint-e-Khadija ko raahat, nikalti hai ghar se Khadija ki mayyat
 
   5
-  Nadi aankh se aansuoṅ ki rawaṅ hai, Zabaṅ par faqat haye Maa haye Maa hai,
-  Kahaṅ Fatima ko hai rone ki fursat, nikalti hai ghar se Khadeeja ki mayyath..
+  Nadi aaṅkh se aansuoṅ ki rawaaṅ hai, zabaaṅ par faqat haae maaṅ haae maaṅ hai
+  Kahaaṅ Fatima ko hai rone ki fursat, nikalti hai ghar se Khadija ki mayyat
 
   6
-  Mujib aaj har ummati ro raha hai, Razi shehr e yasrab me matam bapa hai,
-  Ke Zehra ki Maa kar gayin aaj rehlath, nikalti hai ghar se Khadeeja ki mayyath..
+  Mujib aaj har ummati ro raha hai, Razi shahr-e-Yasrab meiṅ maatam bapa hai
+  Ke Zehra ki maaṅ kar gaiṅ aaj rihlat, nikalti hai ghar se Khadija ki mayyat
 ---
 
 مدینے میں آئی یہ کیسی قیامت نکلتی ہے گھر سے خدیجہؑ کی میّت

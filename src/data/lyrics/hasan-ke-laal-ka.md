@@ -40,7 +40,7 @@ romanLyrics: |-
   Ke laash dulha ki maqtal se laa rahe haiṅ Husain
 
   7
-  Mujhe bhatije ka pursa do aao Ae Zainab
+  Mujhe bhatije ka pursa do aao ae Zainab
   Ye keh ke apni behen ko bula rahe haiṅ Husain
 
   8

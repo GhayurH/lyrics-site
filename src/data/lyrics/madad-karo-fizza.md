@@ -9,75 +9,51 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Madad Karo Fizza"
-romanLyrics: 'Madad Karo Fizza.
-
-  Shikasta Pehlu Se Mere Yeh Dar Hata Do Khudaya.
-
+romanLyrics: |-
+  Madad karo Fizza madad karo Fizza
 
   1
-
-  Tumhari Zehmatein Jaldi Se Ab Tamam Karon.
-
-  Main Jate Jate Jahan Se Unhein Salam Karon.
-
-  Woh Dekho Aa Gaye Baba utha Do De Ke Sahara.
-
-  Gira hai Toot Ke Aangan Mera Goashwara Mera.
-
+  Shikasta pehlu se mere yeh dar hata do khudara
 
   2
-
-  Hai Kan Zakhmi Sitamgar Ne Iss Tarha Mara.
-
-  Ali Na Dekhein Khudara Chupa Do Zakhm Yeh Mera.
-
-  Chalo Madine Mein Ik Aik Ghar Pe Jaein Gaye.
-
-  Ghadeer Kya Hai Unhein Yaad Hum Dilaein Gaye.
-
+  Tumhari zahmateiṅ jaldi se ab tamaam karuṅ
+  Main jaate jaate jahaaṅ se unheiṅ salaam karuṅ
+  Woh dekho aa gaye baba utha do de ke sahaara
 
   3
-
-  Fidak Tu Chin Giya Mera Yeh Haq Na Cheenein Ali Ka.
-
-  Mareez-e-Maut Ke Jaisi Naheef Lagti Hoon.
-
-  Main Aaj Tum Se Zyda Zaeef Lagti Hoon.
-
-  Laga Hai Jab Se Tamacha Mujhe Nazar Nahi Atta.
-
+  Gira hai tut ke aangan mein goshwaara mera
+  Hai kaan zakhmi sitamgar ne is tarah maara
+  Ali na dekhe khudara chhupa do zakhm yeh mera
 
   4
-
-  Sahara De Ke Mujhe Le Chalo Khudara Wahan.
-
-  Woh Rasi Bandh Ke Haider Ko Le Gaye Hain Jahan.
-
-  Na Ab Ho Dair Khudara Hai Mera Mula Akela.
-
-  Yeh Baat Soch Ke Dill Gham Se Para Para Hai.
-
+  Chalo Madine mein ek ek pe jaaeṅge
+  Ghadir kya hai unheiṅ yaad hum dilaaeṅge
+  Fadak to chhin gaya mera yeh haq na chhine Ali ka
 
   5
-
-  Hasan Ke Samne Zalim Ne Mujh Ko Mara Hai.
-
-  Bata Do Kaise Karon Gi Bhala Main Samna Oss Ka.
-
-  Main Baal Khool Ke Arsh-e-Ulla Hila Doon Gi.
-
-  Abul Hasan Ko Na Chora Tu Bad-Dua Doon Gi.
-
+  Mariz-e-maut ke jaisi nahif lagti huṅ
+  Main aaj tum se ziyaada zaif lagti huṅ
+  Laga hai jab se tamaancha mujhe nazar nahiṅ aata
 
   6
+  Sahaara de ke mujhe le chalo khudara wahaaṅ
+  Woh rassi baandh ke Haidar ko le gaye haiṅ jahaaṅ
+  Na ab ho der khudara hai mera maula akela
 
-  Dua Ke Wastay Mera Yeh Hath Uth Do Khudara.
+  7
+  Yeh baat sonch ke dil gham se paara paara hai
+  Hasan ke saamne zaalim ne mujh ko maara hai
+  Bata do kaise karuṅgi bhala main saamna us ka
 
-  Hoi Yeh Keh Ke Takallum Khamosh Woh Bibi.
+  8
+  Main baal khol ke arsh-e-ula hila duṅgi
+  Abul Hasan ko na chhora to bad dua duṅgi
+  Dua ke waaste mera yeh haath utha do khudara
 
-  Main Apne Lal Se Rukhsat Na Ho Sakoon Gi Kabhi.
-
-  Lita Do Janib-e-Qibla Hussain Aata Hi Ho Ga.'
+  9
+  Hui yeh keh ke Takallum khamosh woh Bibi
+  Main apne laal se rukhsat na ho sakuṅgi kabhi
+  Lita do jaanib-e-qibla Husain aata hi hoga
 ---
 
 مدد کرو فضہ مدد کرو فضہ

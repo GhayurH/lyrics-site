@@ -1,51 +1,91 @@
 ---
-title: "Ghar Jalaya Gaya Hai Jafar Ka"
+title: "گھر جلایا گیا ہے جعفر کا"
+alternateTitle: "Ghar Jalaya Gaya Hai Jafar Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Kaleem"
 poet: "Akhtar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ghar jalaya gaya hai Jafar ka
+  Jaisay Zahra ka dar jalaya tha
+
+  1
+  Yaad aane lagi Shab-e-Ashor
+  Phir Madina bana hai Karb-o-Bala
+
+  2
+  Ghar mein syedaniyaan bhi thin mojood
+  Phir woh manzar tha Sham-e-Ghurbat ka
+
+  3
+  Kyun gareebon ka ghar jalatay ho
+  Kya musalmaan nahi hai khoof-e-khuda
+
+  4
+  Dushmani kya hai Aal-e-Ahmad se
+  Phir Muhammad ko kyun rulaya gaya
+
+  5
+  Youn giraftar kaun karta hai
+  Kyun musalay se hai ghaseeta gaya
+
+  6
+  Haye maula Imam-e-Sadiq ko
+  Zehar de kar shaheed kar dala
+
+  7
+  Yeh yateemi ki shab hai Kazim ki
+  Phir se Zahra hain aaj mehway boka
+
+  8
+  Qabar mismar misal-e-Zahra hai
+  Our roney pe bhi hai pehra laga
+
+  9
+  Kaisay Akhtar biyaan ho woh manzar
+  Ibn-e-Baqir ka jab janaza utha
 ---
 
-Ghar Jalaya Gaya Hai Jafar Ka
-Jaisay Zahra Ka Dar Jalaya Tha
+گھر جلایا گیا ہے جعفر کا
+جیسے زہرا کا در جلایا تھا
 
-1
-Yaad Aane Lagi Shab-e-Ashor
-Phir Madina Bana Hai Karb-o-Bala
+۱
+یاد آنے لگی شبِ عاشور
+پھر مدینہ بنا ہے کرب و بلا
 
-2
-Ghar Mein Syedaniyaan Bhi Thin Mojood
-Phir Woh Manzar Tha Sham-e-Ghurbat Ka
+۲
+گھر میں سیدانیاں بھی تھیں موجود
+پھر وہ منظر تھا شامِ غربت کا
 
-3
-Kyun Gareebon Ka Ghar Jalatay Ho
-Kya Musalmaan Nahi Hai Khoof-e-Khuda
+۳
+کیوں غریبوں کا گھر جلاتے ہو
+کیا مسلمان نہیں ہے خوفِ خدا
 
-4
-Dushmani Kya Hai Aal-e-Ahmad Se
-Phir Muhammad Ko Kyun Rulaya Gaya
+۴
+دشمنی کیا ہے آلِ احمد سے
+پھر محمد کو کیوں رلایا گیا
 
-5
-Youn Giraftar Kaun Karta Hai
-Kyun Musalay Se Hai Ghaseeta Gaya
+۵
+یوں گرفتار کون کرتا ہے
+کیوں مصلّے سے ہے گھسیٹا گیا
 
-6
-Haye Maula Imam-e-Sadiq Ko
-Zehar De Kar Shaheed Kar Dala
+۶
+ہائے مولا امامِ صادق کو
+زہر دے کر شہید کر ڈالا
 
-7
-Yeh Yateemi Ki Shab Hai Kazim Ki
-Phir Se Zahra Hain Aaj Mehway Boka
+۷
+یہ یتیمی کی شب ہے کاظم کی
+پھر سے زہرا ہیں آج محوِ بکا
 
-8
-Qabar Mismar Misal-e-Zahra Hai
-Our Roney Pe Bhi Hai Pehra Laga
+۸
+قبر مسمار مثالِ زہرا ہے
+اور رونے پہ بھی ہے پہرا لگا
 
-9
-Kaisay Akhtar Biyaan Ho Woh Manzar
-Ibn-e-Baqir Ka Jab Janaza Utha
+۹
+کیسے اختر بیاں ہو وہ منظر
+ابنِ باقر کا جب جنازہ اٹھا

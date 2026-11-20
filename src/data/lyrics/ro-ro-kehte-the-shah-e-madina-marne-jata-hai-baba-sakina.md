@@ -8,42 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Salam - Ro ro kehte the
-  Ro ro kehte the shahe Madina, Marne jaata hai baba Sakina
+  Ro ro kehte the Shah-e-Madina, marne jaata hai baba Sakina
+  Ab na paaogi baba ka seena, marne jaata hai baba Sakina
 
   1
-  Ab na paaogi baba ka seena, Marne jaata hai baba Sakina
-  Uttho ae mere naazon ki paali,
-  Ae meri laash pe rone wali,
-  Kal hai tuu aur zulme kamina.
+  Uttho ae mere naazoṅ ki paali, ae meri laash pe rone wali
+  Kal hai tu aur zulm-e-kamina, marne jaata hai baba Sakina
+  Aayegi kal tere sar pe aafat, howegi tujh pe barpa qayamat
+  Shaaq tera hai aadaa ko jeena, marne jaata hai baba Sakina
+  Kal tere chhine jaayenge gohar, aur tamaache lagaayenge rukh par
+  Khuṅ rawaaṅ hoga misl-e-pasina, marne jaata hai baba Sakina
+  Koi dewe ghiza tujh ko laa kar, faaqa kash aur bekas samajh kar
+  Haath phaila na dena Sakina, marne jaata hai baba Sakina
+  Sar pe maaṅ ka phupi ka hai saaya, na karo in se dam bhar kinaara
+  Raatoṅ ko in ke seene pe sona, marne jaata hai baba Sakina
+  Ro ke kehte the Haamid pe Sarwar, apni dukhtar se ba dida-e-tar
 
   2
-  Aayegi kal tere sar pe aafath,
-  Howegi tujh pa barpa qayamat,
-  Shaaq tera hai aada ku jeena.
-
-  3
-  Kal tere cheene jaayenge gohar,
-  Aur tamache lagayenge rukh par,
-  Khoon rawan hoga misle pasina.
-
-  4
-  Koi dewe ghiza tujh ko laa kar,
-  Faaqa kash aur bekas samajh kar,
-  Haath phaila na dena Sakina.
-
-  5
-  Sar pa Maa ka Phupi ka hai saaya,
-  Na karo in se dam bhar kinara,
-  Raaton ko in ke seene pa sona.
-
-  6
-  Ro ke kehte the Haamid pa Sarwar,
-  Apni duqtar se ba deedae tar,
-  Ab na paaogi Baba ka seena.
-
-  7
-  Ab na paaogi baba ka seena, Marne jaata hai baba Sakina
+  Marne jaata hai baba Sakina, ro ro kehte the Shah-e-Madina
 ---
 
 رو رو کہتے تھے شاہ مدینہ مرنے جاتا ہے بابا سکینہؑ

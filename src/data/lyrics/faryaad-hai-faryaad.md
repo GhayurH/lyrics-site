@@ -12,14 +12,14 @@ tags: []
 aliases: ["Faryad Hai Faryad"]
 published: true
 romanLyrics: |-
-  Karti thi ye ro ro ke fughaaṅ Zainab-e-naashaad
+  Karti thi ye ro ro ke fughaaṅ Zainab naashaad
   Faryaad hai faryaad
 
   Pardes meiṅ Zehra ka bhara ghar hua barbaad
   Faryaad hai faryaad
 
   1
-  Barchhi ki ani sina-e-Akbar meiṅ lagi hai
+  Barchhi ki ani sine-e-Akbar meiṅ lagi hai
   Kya maaṅ pe bani hai
   Tasvir-e-Nabi ran meiṅ hui jaati hai barbaad
 
@@ -36,16 +36,16 @@ romanLyrics: |-
   4
   Pardes meiṅ hum ahl-e-haram aise lute haiṅ
   Sar nange phire haiṅ
-  Ruk jaate to dete the aziyat sitam ijaad
+  Ruk jaate to dete the aziyyat sitam ijaad
 
   5
   Tapti hui sahra ki zamiṅ raah meiṅ kaante
-  Aur paaoṅ meiṅ chhaale
-  Ghash khaa ke na gir jaaye kahiṅ Sayyid-e-Sajjad
+  Aur pairoṅ meiṅ chhaale
+  Ghash khaa ke na gir jaaye kahiṅ Sayyid-e-Sajjaad
 
   6
-  Ab Aun o Muhammad hai na Abbas na Akbar
-  Qasim hai na Asghar
+  Ab Aun o Muhammad hai na Abbaas na Akbar
+  Qaasim hai na Asghar
   Har ek ne ghar chhor ke maqtal kiya aabaad
 
   7
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   9
   Sahir gham-e-Shabbir meiṅ aansu na rukeṅ ge
-  Ta hashr baheṅ ge
+  Taa hashr baheṅ ge
   Ab hum ko nahiṅ kuchh bhi masaaib ke siwa yaad
 ---
 

@@ -14,47 +14,47 @@ published: true
 romanLyrics: |-
   Sakina se kehte the maqtal meiṅ Sarwar
   Hai ye aakhri raat so ja Sakina
-  Meri zindagi meiṅ hi aaram kar le
+  Miri zindagi meiṅ hi aaraam kar le
   Abhi to muyassar hai baba ka sina
 
   1
-  Ae jaan-e-padar mujhko malum hai ye
+  Ae jaan-e-padar mujh ko maalum hai ye
   Tujhe kal se bedard sone na deṅge
-  Meri laash-e-pamaal par bhi Sakina
+  Miri laash-e-paamaal par bhi Sakina
   Tujhe ye sitamgaar rone na deṅge
   Tu ji bhar ke mujh se mulaqat kar le
   Yehi chand lamhe haiṅ meri hazina
 
   2
   Tujhe is liye hi to maanga tha maiṅ ne
-  Shaboṅ ki namazoṅ meiṅ apne Khuda se
-  Ke meri mohabbat ka jab imtehaṅ ho
-  Judaai teri maiṅ sahuṅ Karbala se
+  Shaboṅ ki namaazoṅ meiṅ apne Khuda se
+  Ke meri mohabbat ka jab imtehaaṅ ho
+  Judaai tiri maiṅ sahuṅ Karbala se
   Karuṅ sabr teri yatimi pe maiṅ bhi
   Kare sabr maqtal meiṅ tu bhi Sakina
 
   3
   Ye raunaq bhi kal shaam tak hai Sakina
   Ke barh jayegi teri tashna dahani
-  Tera bhai Asghar to pyasa rahega
+  Tira bhaai Asghar to pyaasa rahega
   Dikha kar tujhe Shimr phenkega paani
-  Meri tashnagi yaad kar lena beta
+  Miri tashnagi yaad kar lena beta
   Ke raahoṅ meiṅ jab bhi kabhi paani pina
 
   4
-  Safar ki thaki hai kuch aaram kar le
+  Safar ki thaki hai kuchh aaraam kar le
   Ae shehzadi ye raat dhalne se pehle
-  Ye sina bhi pamaal ho jayega kal
+  Ye sina bhi paamaal ho jayega kal
   Katega gala dam nikalne se pehle
   Mujhe bekhata qatl hona hai ran meiṅ
-  Meri laal ab mera mushkil hai jina
+  Miri laal ab mera mushkil hai jina
 
   5
-  Inheṅ ye khabar hai meri laadli hai
+  Inheṅ ye khabar hai miri laadli hai
   Tujhe bhi satayeṅge ye Shaam wale
   Tujhe zulm sehne haiṅ in zaalimoṅ ke
-  Tujhe kar raha huṅ Khuda ke hawale
-  Bahut mushkileṅ hoṅ giṅ Ashur ke din
+  Tujhe kar raha huṅ Khuda ke hawaale
+  Bahut mushkileṅ hoṅ giṅ Aashur ke din
   Musibat meiṅ ye ghir gaya hai safina
 
   6
@@ -71,7 +71,7 @@ romanLyrics: |-
   Wo baap aur beti ki rukhsat ka manzar
   Dil-e-Karbala par hai ye zakhm kaari
   Kahaṅ Shah ki qabr Karb o Bala meiṅ
-  Kahaṅ Shaam meiṅ hai mazar-e-Sakina
+  Kahaṅ Shaam meiṅ hai mazaar-e-Sakina
 ---
 
 سکینہ سے کہتے تھے مقتل میں سرور

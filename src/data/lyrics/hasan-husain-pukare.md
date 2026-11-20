@@ -11,58 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qabr e rasool par yehi hasnain ke thay bain
-  Nana tumhare baad na amma ne paaya chain
-  Hasan Husain pukare ab aao ay nana
-  Hamari amma hai zakhmi bachao ay nana
-
-  2
-  Tumhare jaane se maa ko bohat aziyat hai
-  Pahaad waqt hai har lamha ek musibat hai
-  Lehad se uth ke galay se lagao ay nana
-  Hasan Husain pukare...
-
-  3
-  Shikasta hogaya pehlu hamari amma ka
-  Hamara bhai wo mohsin shaheed e zulm hua
-  Hamay na maarde humko bachao ay nana
-  Hasan Husain pukare...
-
-  4
-  Uthaya jalta hua dar jo bibi fizza ne
-  To dekha maykhein gadi hai badan pe amma ke
-  Ye kis khata ki saza hai batao ay nana
-  Hasan Husain pukare...
-
-  5
-  Wo janasheen tumhara hamara wo baba
-  Gala khuda ke wali ka rasan se baandha gaya
-  Gala chuda ke galay se lagao ay nana
-  Hasan Husain pukare...
-
-  6
-  Kisi nabi ke bhi bachon pe kya ye zulm hua
-  Jala ho dar kahin durra kahin tamacha laga
-  Hum ahlebait e nabi hai batao ay nana
-  Hasan Husain pukare...
-
-  7
-  Khuda hi jaane ke kab tak sitam uthana hai
-  Hamay to sar ko katana hai ghar lutana hai
-  Jahan ho tum wahin hum ko bulalo ay nana
-  Hasan Husain pukare...
-
-  8
-  Ay nana qabr se dekha to hoga wo manzar
-  Gira tha jalta hua dar jo amma ke upar
-  Har ek zakhm pe marham lagao ay nana
-  Hasan Husain pukare...
-
-  9
-  Hasan Husain ay majid jo roye zaar o qataar
-  Laraz rahi thi wahan qabre ahmed e mukhtar
-  Bilak ke kehte thay bache bachao ay nana
-  Hasan Husain pukare...
+  Qabr-e-Rasul par yehi Hasnain ke the bain
+  Naana tumhaare baad na ammaṅ ne paaya chain
+  Hasan Husain pukaare ab aao ae naana
+  Hamaari ammaṅ hai zakhmi bachaao ae naana
+  Tumhaare jaane se maaṅ ko bahut aziyat hai
+  Pahaar-e-waqt hai har lamha ik musibat hai
+  Lahad se uth ke gale se lagaao ae naana
+  Hasan Husain pukaare...
+  Shikasta ho gaya pehlu hamaari ammaṅ ka
+  Hamaara bhaai woh Mohsin shahid-e-zulm hua
+  Hameṅ na maar de ham ko bachaao ae naana
+  Hasan Husain pukaare...
+  Uthaaya jalta hua dar jo Bibi Fizza ne
+  To dekha mekheṅ gari hai badan pe ammaṅ ke
+  Ye kis khata ki saza hai bataao ae naana
+  Woh jaanashin tumhaara hamaara woh baaba
+  Gala Khuda ke wali ka rasan se baandha gaya
+  Gala chhura ke gale se lagaao ae naana
+  Hasan Husain pukaare...
+  Kisi nabi ke bhi bachchoṅ pe kya ye zulm hua
+  Jala ho dar kahiṅ durra kahiṅ tamaancha laga
+  Ham Ahl-e-Bait-e-Nabi haiṅ bataao ae naana
+  Hasan Husain pukaare...
+  Khuda hi jaane ke kab tak sitam uthaana hai
+  Hameṅ to sar ko kataana hai ghar lutaana hai
+  Jahaaṅ ho tum wahi ham ko bula lo ae naana
+  Hasan Husain pukaare...
+  Ae naana qabr se dekha to hoga woh manzar
+  Gira tha jalta hua dar jo ammaṅ ke upar
+  Har ek zakhm pe marham lagaao ae naana
+  Hasan Husain pukaare...
+  Hasan Husain ae Majid jo roye zaar o qataar
+  Laraz rahi thi wahaaṅ qabr-e-Ahmad-e-Mukhtaar
+  Bilak ke kehte the bachche bachaao ae naana
+  Hasan Husain pukaare...
 ---
 
 ۱

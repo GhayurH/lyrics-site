@@ -8,72 +8,43 @@ poet: "Shaukath Bilgrami"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Armaan nikalon parwaan charha loon
-
+romanLyrics: |-
+  Armaan nikaaluṅ parwaan charhaa luṅ
 
   1
-
-  1) Armaan nikalon parwaan charha loon
-
-  Thehro Ali Akbar tumhay dulha to bana loon
-
-  Armaan nikaloon parwaan charha loon
-
+  Thehro Ali Akbar tumheiṅ dulhaa to banaa luṅ
 
   2
-
-  2) Phal barchi ka khaye howay sote ho zamee par
-
-  Aey laal kalejay ko may kistarha sambha loon
-
+  Phal barchhi kaa khaae hue sote ho zamiṅ par
+  Ae laal kaleje ko main kis tarah sambhaaluṅ
 
   3
-
-  3) Shayed yonhi tham jaye laho zakhme jigar ka
-
-  Utho Ali Akbar may kalejay se laga loon
-
+  Shaayad yuṅhi tham jaae lahu zakhm-e-jigar kaa
+  Utho Ali Akbar main kaleje se lagaa luṅ
 
   4
-
-  4) Aey laal teray biyah ka Zainab ko tha armaan
-
-  In khoon bharay hathon may main mehndi to laga loon
-
+  Ae laal tere byaah kaa Zainab ko thaa armaaṅ
+  In khuṅ bhare haathoṅ meiṅ main mehndi lagaa luṅ
 
   5
-
-  5) Yon ghar se mere laal ko lejaye na Sarwar
-
-  Saya karen anchal ka may behnon ko bula loon
-
+  Yuṅ ghar se mere laal ko le jaae na Hazrat
+  Saaya kare aanchal kaa main bahnoṅ ko bulaa luṅ
 
   6
-
-  6) Itna bhi na soocha ke kaleja hay ye maa ka
-
-  Ghurbat may diya daagh jawani ka bala loon
-
+  Itnaa bhi nahiṅ soche ko kaleja hai ye maaṅ kaa
+  Ghurbat meiṅ kya daagh jawaani kaa barhaa luṅ
 
   7
-
-  7) Thehrao janaza mujhe hasrat to na reh jaye
-
-  Armaan bharay laal ka armaan nika loon
-
+  Thehraao janaaza mujhe hasrat to na rah jaae
+  Armaan bare laal kaa armaan nikaaluṅ
 
   8
-
-  Shaukat pa zara rehm kar ay maut teher ja
-
-  Aankhon se mazaare shahe mazloom lagalun
-
+  Pehnaa ke zaraa dekh luṅ poshaak shaahaani
+  Taabut pe phuloṅ kaa main sehraa to charhaa luṅ
 
   9
-
-  8) Pehna kay zara dekh loon poshaak shahani
-
-  Taboot pay phoolon ke may sehra to charha loon'
+  Shaukat pe zaraa rahm kar ae maut thehar jaa
+  Aankhoṅ se mazaar-e-shah-e-mazlum lagaa luṅ
 ---
 
 ارمان نکالوں پروان چڑھالوں

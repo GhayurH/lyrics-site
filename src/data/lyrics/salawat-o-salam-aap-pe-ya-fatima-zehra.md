@@ -8,68 +8,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  1) Salwato salam aap pe ya Fatima Zehra
-  Ham aaye hain pursay ke liye Fatima Zehra
+  Salaat o salaam aap pe ya Fatima Zehra
+  Ham aaeṅ haiṅ purse ke liye Fatima Zehra
 
   1
-  2) Ham detay hain pursa tumhain Abbase jari ka
-  Aur Akbare dilgeer ka ya Fatima Zehra
+  Ham dete haiṅ pursa tumheiṅ Abbas-e-Jari ka
+  Aur Akbar-e-dilgir ka ya Fatima Zehra
 
   2
-  3) Zainab ke pisar Auno Mohammed ka bhi pursa
-  Aur Asghare besheer ka ya Fatima Zehra
+  Zainab ke pisar Aun o Muhammad ka bhi pursa
+  Aur Asghar-e-beshir ka ya Fatima Zehra
 
   3
-  4) Abbas jo lashkar ka tha Sarwar ke alamdar
-  Dariya pe usay qatal kiya Fatima Zehra
+  Abbas jo lashkar ka tha Sarwar ke alamdaar
+  Dariya pe use qatl kiya Fatima Zehra
 
   4
-  5) Pamal kiya Qasime bepar ki laash ko
+  Paamaal kiya Qasim-e-bepar ki laash ko
   Kubra ko bhi bewa kiya ya Fatima Zehra
 
   5
-  6) Kano se Sakina ke utaray gaye gohar
-  Zainab ki bhi chini hay rida Fatima Zehra
-
-  6
-  7) Beri pinhaye dohri badan zakmi kar diya
-  Sajjad pe ye zulm kiya Fatima Zehra
-
-  7
-  8) Ik din may bharay ghar ko ujarra hay sitam ne
-  Koi na sar e dasht bach, ya Fatima Zehra
-
-  8
-  9) Do betay fida kar diya bhai pe behan ne
-  Wo bhai magar qatl hua, Fatima Zehra
-
-  9
-  10) Pyason pe fida ho gaya saqqa e haram bhi
-  Baqi hay alam khoon may bhara, Fatima Zehra
-
-  10
-  11) Hamshakl e Paymber ne sina seenay pe khaayi
-  Ye zulm bhi ummat ne kiya, Fatima Zehra
-
-  11
-  12) Qasim ka badan ghorron se pamal hua hay
-  Shabbar ka chaman khaak hua, Fatima Zehra
-
-  12
-  13) Hur aur Habib ibne Mazahir bhi hain besar
-  Shabbir ka lashkar na raha, Fatima Zehra
-
-  13
-  14) Pohonchi hain Nabi zadian balway may khulay sar
-  Ab tak jihain roti hay rida, Fatima Zehra
-
-  14
-  15) Zindan may Sakina ka janaza bhi uthaey
-  Sajjad pe ye zulm o jafa, Fatima Zehra
-
-  15
-  16) Kis dil se Husain aap ki rodad parrhon ga
-  Mazhar jo bayan likh na saka, Fatima Zehra
+  Kaanoṅ se Sakina ke utaare gae gauhar
+  Zainab ki bhi chhini hai rida Fatima Zehra
 ---
 
 صلواۃ و سلام آپ پہ یا فاطمہ زہراؑ

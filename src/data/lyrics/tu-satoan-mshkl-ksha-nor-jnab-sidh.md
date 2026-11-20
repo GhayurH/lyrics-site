@@ -8,128 +8,72 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Yabna jafar abur raza
-
-  Ya musa e kazim ya musa e kazim
-
+romanLyrics: |-
+  Ya ibn-e-Jafar Abur Raza ya Musa Kazim
+  Tu saatwaaṅ mushkil kusha noor-e-janaab-e-Sayyeda
 
   1
-
-  Tu saathwa mushkil khusha
-
-  Noor e janaab e sayyeda
-
+  Tera baba Imam-e-Sadiq hai
+  Jis ke dam se haiṅ Jafari saare
+  Din o mazhab sabaq ibaadat ke
+  Ham ko saare usi ke dar se mile
 
   2
-
-  Tere baba imam e sadiq hai
-
-  Jis ke dam se hai jaferi saare
-
-  Deen o mazhab sabaq ibadat ke
-
-  Hum ko saare usi ke dar se milay
-
-
-  3
-
-  Hai karamaat e murtaza tujh mein
-
-  Saailon ke bhi ye ata tujh mein
-
-  Radh jo hoti nahi kisi surat
-
+  Hai karaamaat-e-Murtaza tujh mein
+  Saailoṅ ke liye ataa tujh mein
+  Rad jo hoti nahiṅ kisi surat
   Saans leti hai wo dua tujh mein
 
+  3
+  Tum bhi haajib rawa-e-aalam ho
+  Haidariyat ka azm-e-mohkam ho
+  Tum dua-e-janaab-e-Zahra se
+  Wirsa daar-e-janaab-e-Aadam ho
 
   4
-
-  Tum bhi haajat rawa e aalam ho
-
-  Hyderiyat ka azme mohkam ho
-
-  Tum dua e janaab e zahra se
-
-  Virsadar e janaab e adam ho
-
+  Bas junun o jamal aur jila watani
+  Tere pyaaroṅ ne tujh se hai paai
+  Kitne naadaan haiṅ tere diwaane
+  Umr bhar teri naukri kar li
 
   5
-
-  Bas junoon o jabal jilaawatni
-
-  Tere pyaron ne tujhse hai paayi
-
-  Kitne daana thay tere deewane
-
-  Umr bhar teri naukri karli
-
+  Al madad Maula Raza
+  Tera beta Imam-e-Zaamin hai
+  Jis ke qabze mein raat hai din hai
+  Wo Khuraasaan ka hai shehzaada
+  Har shifa us ke dar pe mumkin hai
+  Tu saatwaaṅ mushkil kusha
+  Noor-e-janaab-e-Sayyeda
 
   6
-
-  Al madad maula raza
-
-  Tera beta imam e zaamin hai
-
-  Jis ke qabze mei raat hai din hai
-
-  Wo khurasan ka hai shehzaada
-
-  Har shifa uske dar pe mumkin hai
-
+  Teri dukhtar hai Qum ki shehzaadi
+  Us ki chaukhat pe de sada jo bhi
+  Jholiyaaṅ apni bhar ke laata hai
+  Gham se milti hai us ko aazaadi
 
   7
-
-  Teri dukhtar hai qum ki shehzadi
-
-  Uski choukat pe de sada jo bhi
-
-  Jholiyan apni bhar ke laata hai
-
-  Gham se milti hai usko aazadi
-
+  Tere taabut ki wo tanhaai
+  Na tha beta qarib na bhaai
+  Chand mazdur aaye ujrat par
+  Laash raste se teri uthwaai
 
   8
-
-  Tere taboot ki wo tanhaai
-
-  Na tha beta ghareeb na bhai
-
-  Chand mazdoor aaye ujrat par
-
-  Laash raste se teri uthwaayi
-
+  Hai Najaf dushmanoṅ ke narghe mein
+  Karbala Saamarra ke raste mein
+  Bekafan mominoṅ ke laashe haiṅ
+  Kufr daakhil hua Madine mein
 
   9
-
-  Hai najaf dushmano ke narghe mein
-
-  Karbala saamara ke raste mein
-
-  Bekafan momino ke laashe hai
-
-  Kufr daakhil hua madine mein
-
+  Maula tu bhi dar-e-hawaaij hai
+  Tera sikka jahaaṅ mein raaij hai
+  Ham to har imtihaaṅ se guzreṅge
+  Dene waala tu hi nataaij hai
 
   10
-
-  Maula tu bhi dar e hawaij hai
-
-  Tera sikka jahan mein raaij hai
-
-  Hum to har imtehan se guzrenge
-
-  Dene waala tuhi nataaij hai
-
-
-  11
-
-  Tu bhi rehaan isteghasa sa kar
-
-  Keh ke ya musa ya bine jafar
-
-  Nauha goyi karun qayamat tak
-
-  Aur ghulami karun dar e shaah par'
+  Tu bhi Rehaan istighaasa kar
+  Keh ke ya Musa ya ibn-e-Jafar
+  Nauha goi karo qayaamat tak
+  Aur ghulaami karuṅ dar-e-shaah par
 ---
 
 یا ابن جعفر ابوالرضا یا موسی کاظمؑ

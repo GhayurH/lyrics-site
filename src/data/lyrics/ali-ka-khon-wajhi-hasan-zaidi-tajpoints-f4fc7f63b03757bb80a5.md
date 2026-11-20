@@ -1,65 +1,118 @@
 ---
-title: "Ali Ka Khon Wajhi Hasan Zaidi"
+title: "علی کا خون"
+alternateTitle: "Ali Ka Khon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Wajih"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali ka khon bahaya gaya hai Kofay mein
+  Nabi ko aaj rulaya gaya hai Kofay mein
+  Udas Khana-e-Kaba hai sajdah zakhmi hai
+
+  2
+  Namaz aaj khud apne lahu mein dobi hai
+  Azeem zulm yeh dhaya gaya hai Kofay mein
+  Lahu bahatay hain Hasnain lut gayi dunya
+  Hai sar pe khak yateemi nahi rahe baba
+
+  3
+  Din aaj kaisa dikhaya gaya hai Kofay mein
+  Batool roti hain pehlu shikasta thamay hoye
+  Marey imam hain khak our lahu mein dobay hoye
+  Yeh kaisa farz nibhaya gaya hai Kofay mein
+
+  4
+  Padar ko yaad kiya gham se sogowar rahe
+  Baroz Eid bhi sadaat ashkbar rahe
+  Azza ka farsh bichaya gaya hai Kofay mein
+  Ali ke pursay ki khatir bhi koi aaya nahi
+
+  5
+  Kissi ne Aal-e-Nabi ko galay lagaya nahi
+  Kuch aisay soag manaya gaya hai Kofay mein
+  Phir iss ke baad hoi tar lahu se Karb-o-Bala
+  Marey Hussain ko mehmaan bola ke qatal kiya
+
+  6
+  Sitam phir our barhaya gaya hai Kofay mein
+  Laga hai zakhm jo sar par bohat hi gehra hai
+  Jabeen shigaf hai rangeen khoon se chehra hai
+  Woh zakhm-e-taig lagaya gaya hai Kofay mein
+
+  7
+  Ali ke baad phir ummat ne yeh sitam dhaya
+  Hasan ko zehar-e-daga se shaheed kar dala
+  Hussain ko bhi bulaya gaya hai Kofay mein
+  Khizab hogi marey hi lahu se reesh meri
+
+  8
+  Bata rahi hai yeh khutbon mein baat ghurbat ki
+  Ali ko kitna sataya gaya hai Kofay mein
+  Padar tha Kofay mein kal jis ka hukmaraan logo
+  Rasan se bandh ke bazu barehna sar oss ko
+
+  9
+  Aseer kar ke phiraya gaya hai Kofay mein
+  Yeh keh rahe they Wajih-o- Hilal ahl-e-jafa
+  Jisay bhi lena ho woh apna aa ke le badla
+  Ali ki aal ko laya gaya hai Kofay mein
 ---
 
-1
-Ali Ka Khon Wajhi Hasan Zaidi Lyrics
-Ali Ka Khon Bahaya Gaya Hai Kofay Mein.
-Nabi Ko Aaj Rulaya Gaya Hai Kofay Mein.
-Udas Khana-e-Kaba Hai Sajdah Zakhmi Hai.
+۱
+علی کا خون بہایا گیا ہے کوفے میں
+نبی کو آج رلایا گیا ہے کوفے میں
+اداس خانۂ کعبہ ہے، سجدہ زخمی ہے
 
-2
-Namaz Aaj Khud Apne Lahu Mein Dobi Hai.
-Azeem Zulm Yeh Dhaya Gaya Hai Kofay Mein.
-Lahu Bahatay Hain Hasnain Lut Gayi Dunya.
-Hai Sar Pe Khak Yateemi Nahi Rahe Baba.
+۲
+نماز آج خود اپنے لہو میں ڈوبی ہے
+عظیم ظلم یہ ڈھایا گیا ہے کوفے میں
+لہو بہاتے ہیں حسنین، لٹ گئی دنیا
+ہے سر پہ خاکِ یتیمی، نہیں رہے بابا
 
-3
-Din Aaj Kaisa Dikhaya Gaya Hai Kofay Mein.
-Batool Roti Hain Pehlu Shikasta Thamay Hoye.
-Marey Imam Hain Khak Our Lahu Mein Dobay Hoye.
-Yeh Kaisa Farz Nibhaya Gaya Hai Kofay Mein.
+۳
+دن آج کیسا دکھایا گیا ہے کوفے میں
+بتول روتی ہیں پہلو شکستہ تھامے ہوئے
+میرے امام ہیں خاک اور لہو میں ڈوبے ہوئے
+یہ کیسا فرض نبھایا گیا ہے کوفے میں
 
-4
-Padar Ko Yaad Kiya Gham Se Sogowar Rahe.
-Baroz Eid Bhi Sadaat Ashkbar Rahe.
-Azza Ka Farsh Bichaya Gaya Hai Kofay Mein.
-Ali Ke Pursay Ki Khatir Bhi Koi Aaya Nahi.
+۴
+پدر کو یاد کیا، غم سے سوگوار رہے
+بروزِ عید بھی سادات اشک بار رہے
+عزا کا فرش بچھایا گیا ہے کوفے میں
+علی کے پرسے کی خاطر بھی کوئی آیا نہیں
 
-5
-Kissi Ne Aal-e-Nabi Ko Galay Lagaya Nahi.
-Kuch Aisay Soag Manaya Gaya Hai Kofay Mein.
-Phir Iss Ke Baad Hoi Tar Lahu Se Karb-o-Bala.
-Marey Hussain Ko Mehmaan Bola Ke Qatal Kiya.
+۵
+کسی نے آلِ نبی کو گلے لگایا نہیں
+کچھ ایسے سوگ منایا گیا ہے کوفے میں
+پھر اس کے بعد ہوئی تر لہو سے کرب و بلا
+میرے حسین کو مہمان بلا کے قتل کیا
 
-6
-Sitam Phir Our Barhaya Gaya Hai Kofay Mein.
-Laga Hai Zakhm Jo Sar Par Bohat Hi Gehra Hai.
-Jabeen Shigaf Hai Rangeen Khoon Se Chehra Hai.
-Woh Zakhm-e-Taig Lagaya Gaya Hai Kofay Mein.
+۶
+ستم پھر اور بڑھایا گیا ہے کوفے میں
+لگا ہے زخم جو سر پر بہت ہی گہرا ہے
+جبیں شگاف ہے، رنگین خون سے چہرہ ہے
+وہ زخمِ تیغ لگایا گیا ہے کوفے میں
 
-7
-Ali Ke Baad Phir Ummat Ne Yeh Sitam Dhaya.
-Hasan Ko Zehar-e-Daga Se Shaheed Kar Dala.
-Hussain Ko Bhi Bulaya Gaya Hai Kofay Mein.
-Khizab Hogi Marey Hi Lahu Se Reesh Meri.
+۷
+علی کے بعد پھر امت نے یہ ستم ڈھایا
+حسن کو زہرِ دغا سے شہید کر ڈالا
+حسین کو بھی بلایا گیا ہے کوفے میں
+خضاب ہوگی میرے ہی لہو سے ریش میری
 
-8
-Bata Rahi Hai Yeh Khutbon Mein Baat Ghurbat Ki.
-Ali Ko Kitna Sataya Gaya Hai Kofay Mein.
-Padar Tha Kofay Mein Kal Jis Ka Hukmaraan Logo.
-Rasan Se Bandh Ke Bazu Barehna Sar Oss Ko.
+۸
+بتا رہی ہے یہ خطبوں میں بات غربت کی
+علی کو کتنا ستایا گیا ہے کوفے میں
+پدر تھا کوفے میں کل جس کا حکمراں لوگو
+رسن سے باندھ کے بازو، برہنہ سر اس کو
 
-9
-Aseer Kar Ke Phiraya Gaya Hai Kofay Mein.
-Yeh Keh Rahe They Wajih-o- Hilal Ahl-e-Jafa.
-Jisay Bhi Lena Ho Woh Apna Aa Ke Le Badla.
-Ali Ki Aal Ko Laya Gaya Hai Kofay Mein.
+۹
+اسیر کر کے پھرایا گیا ہے کوفے میں
+یہ کہہ رہے تھے وجیہ و ہلال اہلِ جفا
+جسے بھی لینا ہو وہ اپنا آ کے لے بدلا
+علی کی آل کو لایا گیا ہے کوفے میں

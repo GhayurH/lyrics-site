@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam hai Saamara meiṅ Imam-e-Hasan ka aaj
+  Maatam hai Saamara meiṅ Imam Hasan ka aaj
   Saaya saroṅ se uth gaya Shah-e-Zaman ka aaj
 
   1
   Roti hai sar ko pit ke Narjis ba-haal-e-zaar
-  Bewa hui maiṅ uth gaya waali jahaaṅ se aaj
+  Bewa hui main uth gaya waali jahaaṅ se aaj
 
   2
   Khairunnisa ko haaye rulaaya mazaar meiṅ

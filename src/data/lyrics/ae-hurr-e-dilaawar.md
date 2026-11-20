@@ -50,7 +50,7 @@ romanLyrics: |-
   6
   Aayeṅ ge ziyaarat ko tere chaahne waale
   Karte hue naale
-  Hoga tera Karbal ke qarib rauza-e-Athar
+  Hoga tera Karbal ke qarib rauza-e-At-har
   Ae Hurr-e-Dilaawar ae Hurr-e-Dilaawar
 
   7

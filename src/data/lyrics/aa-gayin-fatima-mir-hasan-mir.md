@@ -1,6 +1,6 @@
 ---
 title: "آ گئیں فاطمہ میر حسن میر"
-alternateTitle: "Aa Gayin Fatima Mir Hasan Mir"
+alternateTitle: "Aa Gayiṅ Fatima Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gayin Fatima
-  Jibraeel-e-Ameen de rahe hain sada, aa gayein Fatima
+  Aa gayiṅ Fatima
+  Jibrail-e-Amin de rahe haiṅ sada, aa gayiṅ Fatima
 
   1
-  Aaj khush hain bohat Ashraf-ul-Anbiya, aa gayein Fatima
-  Arsh se farsh tak noor ka hai samaa
-  Aayi aalim mein giyara imamo ki maa
-  Door aalam ka sara andhera howa, aa gayein Fatima
+  Aaj khush haiṅ bohat Ashraf-ul-Anbiya, aa gayiṅ Fatima
+  Arsh se farsh tak nur ka hai samaaṅ
+  Aayi aalam mein gyaarah imaamoṅ ki maaṅ
+  Dur aalam ka saara andhera hua, aa gayiṅ Fatima
 
   2
-  Mustafa our Hasnain our Murtaza
-  Hukam-e-Khaliq se jab ho gaye aik ja
-  Phir darodon ki barish mein zair-e-kisa, aa gayein Fatima
-  Jis ke dar se malak rizq pate rahe
+  Mustafa aur Hasnain aur Murtaza
+  Hukm-e-Khaaliq se jab ho gaye aik jaa
+  Phir durudoṅ ki baarish mein zer-e-kisa, aa gayiṅ Fatima
+  Jis ke dar se malak rizq paate rahe
 
   3
-  Our ban ban ke khaiyaat aate rahe
-  Bheek leni hai, ja jaldi se kashkool la, aa gayein Fatima
-  Main gunahgar kya, meri okaat kya
-  Aik aanso ke badle sila yeh mila
+  Aur ban ban ke khayyaat aate rahe
+  Bhik leni hai, jaa jaldi se kashkul laa, aa gayiṅ Fatima
+  Main gunaahgaar kya, meri auqaat kya
+  Aik aansu ke badle sila yeh mila
 
   4
-  Khuld se khud mere haq mein karne dua, aa gayein Fatima
-  Main Hassan mushkilon mein gira jab kabhi
-  Min ne Darbar-e-Zahra mein faryad ki
-  Khatam hone na payi thi meri dua, aa gayin Fatima
+  Khuld se khud mere haq mein karne dua, aa gayiṅ Fatima
+  Main Hasan mushkiloṅ mein gira jab kabhi
+  Main ne Darbaar-e-Zahra mein faryaad ki
+  Khatm hone na paayi thi meri dua, aa gayiṅ Fatima
 ---
 
 آ گئیں فاطمہ

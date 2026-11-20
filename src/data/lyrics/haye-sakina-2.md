@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maara gaya darya pe jo shedaye sakina
-  Sheh ragh se sada aati rahi haye sakina
-  Sheh se kaha abbas ne darr hai mujhe aaqa
-  Darya pe kahiṅ roti na aajaye sakina
-  Haye sakina, haye sakina
-  Laashe se sada aati thi hum bhi na piyenge
-  Jab tak tumhe pani nahi miljaye sakina
-  Haye sakina, haye sakina
-  Kis tarha se dikhla'un tumhe shakl dubara
-  Jab pani hi mashkize se beh jaye sakina
-  Haye sakina, haye sakina
-  Majbur hai baazu bhi nahi tum hi batao
-  Kis tarha se ammu tumhe behlaye sakina
-  Haye sakina, haye sakina
-  Zainab ne kaha zere alam pit ke sar ko
-  Matam karo maara gaya saqqaye sakina
-  Haye sakina, haye sakina
-  Aaja'iye yuṅ zowjaye abbas pukari
-  Waali kahiṅ furqat may na marjaye sakina
-  Haye sakina, haye sakina
-  Sab chahne waale to anis hogaye maqsud
-  Ruqsaar ke nil ab kise dikhlaye sakina
-  Haye sakina, haye sakina
+  Maara gaya darya pe jo shaida-e-Sakina
+  Sheh rag se sada aati rahi haye Sakina
+  Sheh se kaha Abbas ne dar hai mujhe aaqa
+  Darya pe kahiṅ roti na aa jaaye Sakina
+  Haye Sakina, haye Sakina
+  Laashe se sada aati thi ham bhi na piyenge
+  Jab tak tumheṅ paani nahiṅ mil jaaye Sakina
+  Haye Sakina, haye Sakina
+  Kis tarah se dikhlaauṅ tumheṅ shakl dubaara
+  Jab paani hi mashkize se beh jaaye Sakina
+  Haye Sakina, haye Sakina
+  Majbur hai baazu hi nahiṅ tum hi bataao
+  Kis tarah se ammu tumheṅ behlaaye Sakina
+  Haye Sakina, haye Sakina
+  Zainab ne kaha zer-e-alam pit ke sar ko
+  Maatam karo maara gaya saqqa-e-Sakina
+  Haye Sakina, haye Sakina
+  Aa jaaiye yuṅ zauja-e-Abbas pukaari
+  Waali kahiṅ furqat meiṅ na mar jaaye Sakina
+  Haye Sakina, haye Sakina
+  Sab chaahne waale to Anees ho gaye maqsud
+  Rukhsaar ke nil ab kise dikhlaaye Sakina
+  Haye Sakina, haye Sakina
 ---
 
 ۱

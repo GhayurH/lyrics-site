@@ -1,37 +1,64 @@
 ---
-title: "Sadqa Mere Aaqa Ka Hai Aam Madine Mein Mir Hasan Mir Lyrics 2021"
+title: "صدقہ میرے آقا کا ہے عام مدینے میں"
+alternateTitle: "Sadqa Mere Aaqa Ka Hai Aam Madine Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Mehshar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nakamiyan hoti hain na kaam Madine mein
+
+  1
+  Phir kyun na wahin ja kar hum loag kahin natein
+  Suntay hain keh hota hai ilham Madine mein
+  Rozay ki ziyarat ko main Hajj mein badal doon ga
+  Bandhon ga aqeedat ka aehram Madine mein
+  Uthoon tu Ali keh kar so jaon Nabi keh kar
+  Aagaz Najaf mein ho anjam Madine mein
+
+  2
+  Salman-o-abuzar ki main pehli hi boli par
+  Kar doon yeh qalam apna nelam Madine mein
+  Deti na zamanat jo aoulad Payamber ki
+  Qaidi ki tarha rehta Islam Madine mein
+  So Hajj bhi kiye jaein phir bhi nahi mit sakta
+  Ik bar jo lag jaye ilzam Madine mein
+
+  3
+  Shayar ko muqarar ko le ja ke zara dekho
+  Milta hai kisay pehle inam Madine mein
+  Tum aik hi ka rona rotay ho musalmano
+  Hain our bhi kitne hi Saddam Madine mein
+  Jibreel agar de de par apne mujhe Mehshar
+  Har subha Najaf mein ho har sham Madine mein
 ---
 
-Nakamiyan Hoti Hain Na Kaam Madine Mein.
+ناکامیاں ہوتی ہیں ناکام مدینے میں
 
-1
-Phir Kyun Na Wahin Ja Kar Hum Loag Kahin Natein.
-Suntay Hain Keh Hota Hai Ilham Madine Mein.
-Rozay Ki Ziyarat Ko Main Hajj Mein Badal Doon Ga.
-Bandhon Ga Aqeedat Ka Aehram Madine Mein.
-Uthoon Tu Ali Keh Kar So Jaon Nabi Keh Kar.
-Aagaz Najaf Mein Ho Anjam Madine Mein.
+۱
+پھر کیوں نہ وہیں جا کر ہم لوگ کہیں نعتیں
+سنتے ہیں کہ ہوتا ہے الہام مدینے میں
+روضے کی زیارت کو میں حج میں بدل دوں گا
+باندھوں گا عقیدت کا احرام مدینے میں
+اٹھوں تو علی کہہ کر سو جاؤں نبی کہہ کر
+آغاز نجف میں ہو انجام مدینے میں
 
-2
-Salman-o-Abuzar Ki Main Pehli Hi Boli Par.
-Kar Doon Yeh Qalam Apna Nelam Madine Mein.
-Deti Na Zamanat Jo Aoulad Payamber Ki.
-Qaidi Ki Tarha Rehta Islam Madine Mein.
-So Hajj Bhi Kiye Jaein Phir Bhi Nahi Mit Sakta.
-Ik Bar Jo Lag Jaye Ilzam Madine Mein.
+۲
+سلمان و ابوذر کی میں پہلی ہی بولی پر
+کر دوں یہ قلم اپنا نیلام مدینے میں
+دیتی نہ ضمانت جو اولادِ پیمبر کی
+قیدی کی طرح رہتا اسلام مدینے میں
+سو حج بھی کیے جائیں پھر بھی نہیں مٹ سکتا
+اک بار جو لگ جائے الزام مدینے میں
 
-3
-Shayar Ko Muqarar Ko Le Ja Ke Zara Dekho.
-Milta Hai Kisay Pehle Inam Madine Mein.
-Tum Aik Hi Ka Rona Rotay Ho Musalmano.
-Hain Our Bhi Kitne Hi Saddam Madine Mein.
-Jibreel Agar De De Par Apne Mujhe Mehshar.
-Har Subha Najaf Mein Ho Har Sham Madine Mein.
+۳
+شاعر کو مقرر کو لے جا کے ذرا دیکھو
+ملتا ہے کسے پہلے انعام مدینے میں
+تم ایک ہی کا رونا روتے ہو مسلمانو
+ہیں اور بھی کتنے ہی صدام مدینے میں
+جبریل اگر دے دے پر اپنے مجھے محشر
+ہر صبح نجف میں ہو ہر شام مدینے میں

@@ -20,24 +20,24 @@ romanLyrics: |-
   Jo mujh pe guzarti hai zara jaa ke bata de
 
   2
-  Har gaam mayassar ho tujhe sehne gulistaan
+  Har gaam mayassar ho tujhe sehn-e-gulistaan
   Ta hashr salaamat rahe mehke tera daaman
   Bachche ki mere qabr pe do phul charha de
 
   3
   Hamdard na hamdam na koi munis o yaawar
-  Sannaate biyaabaan meiṅ gum jaae na Asghar
+  Sannaate biyaabaan mein gum jaae na Asghar
   Har simt andhera hai tu hi shama jala de
 
   4
-  Ye dhyaan rahe dasht meiṅ dhire se utarna
+  Ye dhyaan rahe dasht mein dhire se utarna
   Har simt se aahista dabe paaoṅ guzarna
-  Aisa na ho aada meiṅ koi shor macha de
+  Aisa na ho aadaa mein koi shor macha de
 
   5
   Ghabraana nahiṅ kushta-e-shamshir jo puchhe
   Tu kaun hai kiuṅ aai hai Shabbir jo puchhe
-  Maiṅ ne tujhe bheja hai ye chupke se bata de
+  Main ne tujhe bheja hai ye chupke se bata de
 
   6
   Rona bhi agar aae to muṅh pher ke rona
@@ -52,17 +52,17 @@ romanLyrics: |-
   8
   Karta hai lahu dil pe mere us ka bichharna
   Dekhe na koi maaṅ kisi jhule ka ujarna
-  Wo aae agar god meiṅ tu haath barha de
+  Wo aae agar god mein tu haath barha de
 
   9
-  Aaghosh meiṅ rakhe jo machalne ka iraada
+  Aaghosh mein rakhe jo machalne ka iraada
   Ho us ka agar ghutniyoṅ chalne ka iraada
   Tu zer-e-qadam khaak pe palkoṅ ko bichha de
 
   10
   Har sher masaaib ki naginoṅ se jara hai
-  Kazim ne likha hai use Aamir ne parha hai
-  Ye nauha mera Fatima Zehra ko suna de
+  Kaazim ne likha hai use Aamir ne parha hai
+  Ye nauha mera Faatima Zehra ko suna de
 ---
 
 اے بادِ صبا جا جا بادِ صبا جا

@@ -14,19 +14,19 @@ published: true
 romanLyrics: |-
   Jab kat gaya Zehra ka chaman dasht-e-bala meiṅ
   Shaamil hua pyaasoṅ ka lahu khaak-e-shifa meiṅ
-  Koi na raha fauj-e-Imaam-e-do sara meiṅ
-  Aur gir gaya Haidar ka pisar ahl-e-jafa meiṅ
-  Ek khushk gala aur kayi sau neza o khanjar
-  Are nau laakh ka mela aur akela wo dilaawar
+  Koi na raha fauj-e-imaam-e-do sara meiṅ
+  Aur ghir gaya Haidar ka pisar ahl-e-jafa meiṅ
+  Ik khushk gala aur kahiṅ sau neza o khanjar
+  Are nau laakh ka rela o akela wo dilaawar
 
   Jab mera Husain Fatima ka chain
-  Pusht-e-raahwaar se khaak pe ghira
+  Pusht-e-raahwaar se jab khaak par gira
   Khanjar qarib zaanu-e-qaatil qarib hai
   Aaj imtihaan-e-sabr-e-Husain-e-gharib hai
 
   1
-  Jaaṅ ke qarib sar mera Parwardigaar dekh
-  Aashiq ka apne reg-e-tapaaṅ par qaraar dekh
+  Jaaṅ se qarib tar mere Parwardigaar dekh
+  Aashiq ka apni reg-e-tapaaṅ par karaar dekh
   Mera yaqin dekh mera aetbaar dekh
   Maiṅ kitna mutmain huṅ idhar ek baar dekh
 
@@ -37,22 +37,22 @@ romanLyrics: |-
   Ab teri baargaah meiṅ tere huzur huṅ
 
   3
-  Ek qalb-e-naatawaaṅ pe bahattar ka daagh hai
+  Ik qalb-e-naatawaaṅ pe bahattar ka daagh hai
   Athaara saal ke Ali Akbar ka daagh hai
   Baazu burida sher ka Asghar ka daagh hai
   Lagna abhi luti hui chaadar ka daagh hai
 
   4
-  Ye keh ke jo khaamosh hue Sibt-e-Payambar
+  Ye keh ke jo khamosh hue Sibt-e-Payambar
   Dekha ke sarhaane hai khari maadar-e-muztar
   Shahzaadi ke sar par hai pari khaak ki chaadar
-  Kehti hai wo sar god meiṅ Shabbir ka lekar
+  Kehtiṅ haiṅ wo sar god meiṅ Shabbir ka lekar
 
   5
   Mazlum ki imdaad ko aata nahiṅ koi
   Paani bhi dam-e-marg pilaata nahiṅ koi
   Zakhmoṅ meiṅ lagi khaak chhuraata nahiṅ koi
-  Haae haae mere bachche ko bachaata nahiṅ koi
+  Hae hae mere bachche ko bachaata nahiṅ koi
 
   6
   Haidar se kaha Zehra ne khauf aata hai saahib
@@ -67,9 +67,9 @@ romanLyrics: |-
   Kis tarah se dekhogi tarapta hua laasha
 
   8
-  Ek baar jo khaimoṅ ki taraf yaas se dekha
-  Dekha ke dar-e-khaima pe roti hai Sakina
-  Ek huk uthi qalb meiṅ rone lage Maula
+  Ik baar jo khaimoṅ ki taraf yaas se dekha
+  Dekha ke dar-e-khaime pe roti hai Sakina
+  Ik huk uthi qalb meiṅ rone lage Maula
   Zainab se ishaaroṅ se kaha ae meri behna
 
   9
@@ -80,7 +80,7 @@ romanLyrics: |-
 
   10
   Jab pahuṅchi behan bhaai ke laashe pe khule sar
-  Dekha ke laiṅ pher chuka halq pe khanjar
+  Dekha ke laa'iṅ pher chuka halq pe khanjar
   Aur Shimr liye jaata hai sar gesu pakar kar
   Ae Sarwar o Rehaan karo yaad wo manzar
 ---

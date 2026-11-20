@@ -1,47 +1,84 @@
 ---
-title: "Hasan Askari Ka Zikar"
+title: "حسن عسکری کا ذکر"
+alternateTitle: "Hasan Askari Ka Zikar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Shehwaar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye Rab-e-Zuljalal Hasan Askari ka zikar
+  Tujh sa hai la zawwal Hasan Askari ka zikar
+  Khaki dahan ko noor ke alfaz mil gaye
+  Kitna hai ba kamal Hasan Askari ka zikar
+
+  2
+  Inn ki sana mein chehra e Rehman ki qasam
+  Aks-e-rukh-e-jamal Hasan Askari ka zikar
+  Likhni ho hamd-e-Rab ya mujhe naat-e-Mustafa
+  Mera shareek-e-haal Hasan Askari ka zikar
+
+  3
+  Marboot hoon main apne Imam-e-Zaman se
+  Hai wajha e itesal Hasan Askari ka zikar
+  Koh-e-garaan pe utray tu surma ho Toor ka
+  Aye dil zara sanbhal Hasan Askari ka zikar
+
+  4
+  Lakhon hoon zakhm dil pe tu ban kar mera tabeeb
+  Karta hai indmal Hasan Askari ka zikar
+  Mehfil mein hum ko gaib mein Maula-e-Asar ko
+  Kar deta hai nehal Hasan Askari ka zikar
+
+  5
+  Aasaan samajh na kar-e-mashiyat hai yeh sana
+  Aayat se nikal Hasan Askari ka zikar
+  Lahan e izan e ishq se mehmiz hum bhi hoon
+  Kar dein agar Bilal Hasan Askari ka zikar
+
+  6
+  Hasil hai izn-e-madah tu do lafz likh liye
+  Warna meri majal Hasan Askari ka zikar
+  Shehwaar jab ho sath attaye Imam Asar
+  Kyunkar rahe mohal Hasan Askari ka zikar
 ---
 
-1
-Aye Rab-e-Zuljalal Hasan Askari Ka Zikar.
-Tujh Sa Hai La Zawwal Hasan Askari Ka Zikar.
-Khaki Dahan Ko Noor Ke Alfaz Mil Gaye.
-Kitna Hai Ba Kamal Hasan Askari Ka Zikar.
+۱
+اے ربِ ذوالجلال حسن عسکری کا ذکر
+تجھ سا ہے لازوال حسن عسکری کا ذکر
+خاکی دہن کو نور کے الفاظ مل گئے
+کتنا ہے باکمال حسن عسکری کا ذکر
 
-2
-Inn Ki Sana Mein Chehra e Rehman Ki Qasam.
-Aks-e-Rukh-e-Jamal Hasan Askari Ka Zikar.
-Likhni Ho Hamd-e-Rab Ya Mujhe Naat-e-Mustafa.
-Mera Shareek-e-Haal Hasan Askari Ka Zikar.
+۲
+ان کی ثنا میں چہرۂ رحمان کی قسم
+عکسِ رخِ جمال حسن عسکری کا ذکر
+لکھنی ہو حمدِ رب یا مجھے نعتِ مصطفیٰ
+میرا شریکِ حال حسن عسکری کا ذکر
 
-3
-Marboot Hoon Main Apne Imam-e-Zaman Se.
-Hai Wajha e Itesal Hasan Askari Ka Zikar.
-Koh-e-Garaan Pe Utray Tu Surma Ho Toor Ka.
-Aye Dil Zara Sanbhal Hasan Askari Ka Zikar.
+۳
+مربوط ہوں میں اپنے امامِ زماں سے
+ہے وجہِ اتصال حسن عسکری کا ذکر
+کوہِ گراں پہ اترے تو سرمہ ہو طور کا
+اے دل ذرا سنبھل حسن عسکری کا ذکر
 
-4
-Lakhon Hoon Zakhm Dil Pe Tu Ban Kar Mera Tabeeb.
-Karta Hai Indmal Hasan Askari Ka Zikar.
-Mehfil Mein Hum Ko Gaib Mein Maula-e-Asar Ko.
-Kar Deta Hai Nehal Hasan Askari Ka Zikar.
+۴
+لاکھوں ہوں زخم دل پہ تو بن کر میرا طبیب
+کرتا ہے اندمال حسن عسکری کا ذکر
+محفل میں ہم کو غیب میں مولائے عصر کو
+کر دیتا ہے نہال حسن عسکری کا ذکر
 
-5
-Aasaan Samajh Na Kar-e-Mashiyat Hai Yeh Sana.
-Aayat Se Nikal Hasan Askari Ka Zikar.
-Lahan e Izan e Ishq Se Mehmiz Hum Bhi Hoon.
-Kar Dein Agar Bilal Hasan Askari Ka Zikar.
+۵
+آسان سمجھ نہ کارِ مشیت ہے یہ ثنا
+آیت سے نکل حسن عسکری کا ذکر
+لہنِ اذانِ عشق سے مہمیز ہم بھی ہوں
+کر دیں اگر بلال حسن عسکری کا ذکر
 
-6
-Hasil Hai Izn-e-Madah Tu Do Lafz Likh Liye.
-Warna Meri Majal Hasan Askari Ka Zikar.
- Shehwaar Jab Ho Sath Attaye Imam Asar.
-Kyunkar Rahe Mohal Hasan Askari Ka Zikar.
+۶
+حاصل ہے اذنِ مدح تو دو لفظ لکھ لیے
+ورنہ میری مجال حسن عسکری کا ذکر
+شہوار جب ہو ساتھ عطائے امامِ عصر
+کیونکر رہے محال حسن عسکری کا ذکر

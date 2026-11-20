@@ -1,6 +1,6 @@
 ---
 title: "دن ڈھل گیا ہے لوگوں"
-alternateTitle: "Haye Shame Ghariban"
+alternateTitle: "Haye Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,42 +13,42 @@ romanLyrics: |-
   Din dhal gaya hai logoṅ
   Ghar jal gaya hai logoṅ
   Zainab ujar gayi hai
-  Haye shaam e gharibaṅ
-  Zainab ke sar se dekho chadar bhi chin li hai
-  Bemaar ek jaan ko kaisi saza ye di hai
-  Abid bhi ro raha hai daaman bhigo raha hai
+  Haye shaam-e-gharibaṅ
+  Zainab ke sar se dekho chaadar bhi chhin li hai
+  Bimaar ek jaan ko kaisi saza ye di hai
+  Aabid bhi ro raha hai daaman bhigo raha hai
   Zainab ujar gayi hai
-  Haye shaam e ghariban...
-  Luta hai zalimoṅ ne zahra ke gulistaṅ ko
-  Dekho lage tamache nanhi si ek jaaṅ ko
-  beaasra sakina bhai padar bhi china
+  Haye shaam-e-gharibaṅ...
+  Luta hai zaalimoṅ ne Zehra ke gulistaaṅ ko
+  Dekho lage tamaanche nanhi si ek jaaṅ ko
+  Beaasra Sakina bhaai padar bhi chhina
   Zainab ujar gayi hai
-  Haye shaam e ghariban...
-  Laashe pe jaake baap ke kehti hai ye sakina
-  Phir kab milega baba mujhko tera ye seena
-  Dushman jahaṅ hai mera china hai pyar tera
+  Haye shaam-e-gharibaṅ...
+  Laashe pe jaake baap ke kehti hai ye Sakina
+  Phir kab milega baaba mujhko tera ye sina
+  Dushman jahaaṅ hai mera chhina hai pyaar tera
   Zainab ujar gayi hai
-  Haye shaam e ghariban...
-  Aaya sawaar koi qaimon meiṅ ek hijab meiṅ
-  Pucha batul zaadi ne tu kaun hai naqaab meiṅ
-  Bole ali na ghabra ye kya hua hai batla
+  Haye shaam-e-gharibaṅ...
+  Aaya sawaar koi khaimoṅ meiṅ ik hijaab meiṅ
+  Puchha Batul zaadi ne tu kaun hai naqaab meiṅ
+  Bole Ali na ghabra ye kya hua hai batla
   Zainab ujar gayi hai
-  Haye shaam e ghariban...
-  Roke kaha ye zainab ne hum lut gaye hai baba
-  Maidan e karbala meiṅ hum mit gaye hai baba
+  Haye shaam-e-gharibaṅ...
+  Roke kaha ye Zainab ne hum lut gaye haiṅ baaba
+  Maidaan-e-Karbala meiṅ hum mit gaye haiṅ baaba
   Haye zulm kya hua hai haye kya sitam hua hai
   Zainab ujar gayi hai
-  Haye shaam e ghariban
+  Haye shaam-e-gharibaṅ...
   Daaman kisi ka dekho aatish se jal raha hai
-  Logoṅ yehi sakina asghar se jo juda hai
-  Bhai kisi ka bichra gulshan ali ka ujra
+  Logoṅ yahi Sakina Asghar se jo juda hai
+  Bhaai kisi ka bichhra gulshan-e-Ali ka ujra
   Zainab ujar gayi hai
-  Haye shaam e ghariban
-  Nasir ye shaam kaisi aayi hai karbala meiṅ
-  Kya kya musibatoṅ ko laayi hai karbala meiṅ
-  Bhai bichar gaya hai ghar bhi ujar gaya hai
+  Haye shaam-e-gharibaṅ...
+  Naasir ye shaam kaisi aayi hai Karbala meiṅ
+  Kya kya musibatoṅ ko laayi hai Karbala meiṅ
+  Bhaai bichhar gaya hai ghar bhi ujar gaya hai
   Zainab ujar gayi hai
-  Haye shaam e ghariban
+  Haye shaam-e-gharibaṅ...
 ---
 
 ۱

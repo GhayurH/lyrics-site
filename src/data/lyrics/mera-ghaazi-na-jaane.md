@@ -23,12 +23,12 @@ romanLyrics: |-
   1
   Suna ban hai sitamgar hai ye shab
   Pehra deti hai khaimoṅ ka Zainab
-  Phir bhi hoṅtoṅ pe ye marsiya hai
+  Phir bhi hontoṅ pe ye marsiya hai
 
   2
   Sabr kaise kareṅ ab Sakina
   Pyaas karti hai dushwaar jina
-  Khushk hoṅtoṅ pe bas ye buka hai
+  Khushk hontoṅ pe bas ye buka hai
 
   3
   Jaanib-e-khaima aata hai lashkar

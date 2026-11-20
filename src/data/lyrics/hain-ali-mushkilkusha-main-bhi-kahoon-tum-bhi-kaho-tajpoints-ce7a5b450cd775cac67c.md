@@ -1,44 +1,78 @@
 ---
-title: "Hain Ali Mushkilkusha Main Bhi Kahoon Tum Bhi Kaho"
+title: "ہیں علی مشکل کشا میں بھی کہوں تم بھی کہو"
+alternateTitle: "Hain Ali Mushkilkusha Main Bhi Kahoon Tum Bhi Kaho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hain Ali Mushkilkusha main bhi kahoon tum bhi kaho
+  Hal Atta-o-Innama main bhi kahoon tum bhi kaho
+
+  1
+  Jis ka aana bhi Ali ho jis ka jana bhi Ali
+  Hai Ali woh ba-Khuda main bhi kahoon tum bhi kaho
+  Jis ka sona bhi Ali ho jagna bhi ho Ali
+  Woh Ali sab se juda main bhi kahoon tum bhi kaho
+
+  2
+  Baap bhi jiss ka Ali bete bhi jiss ke hoon Ali
+  Hai Ali Murtaza main bhi kahoon tum bhi kaho
+  Jis ki ik zarbat pe Rab qurban kul sajday kare
+  Woh Ali Lafatah main bhi kahoon tum bhi kaho
+
+  3
+  Keh rahi hai lash bhi Marhab ki Khaiber mein yehi
+  Hai Ali shair-e-Khuda main bhi kahoon tum bhi kaho
+  Jiss ka main Mula hoon oss oss ka bhi Mula hai Ali
+  Keh gaye hain Mustafa main bhi kahoon tum bhi kaho
+
+  4
+  Malik-e-jood-o-sakha-o-waris-e-kul anbiya
+  Shohar-e-khair-ul-Nisa main bhi kahoon tum bhi kaho
+  Jang-e-Ghazi dekh kar Ashtar se kehte hain Ali
+  Marhaba sad marhaba main bhi kahoon tum bhi kaho
+
+  5
+  Mustafa bole suno Najran ke logo suno
+  Kazboon pe bad-dua main bhi kahoon tum bhi kaho
+  Keh rhaa hai yeh Nuseri aaj bhi Kashif mujhe
+  Hain Ali mere Khuda main bhi kahoon tum bhi kaho
 ---
 
-Hain Ali Mushkilkusha Main Bhi Kahoon Tum Bhi Kaho.
-Hal Atta-o-Innama Main Bhi Kahoon Tum Bhi Kaho.
+ہیں علی مشکل کشا میں بھی کہوں تم بھی کہو
+ہل اتیٰ و انما میں بھی کہوں تم بھی کہو
 
-1
-Jis Ka Aana Bhi Ali Ho Jis Ka Jana Bhi Ali.
-Hai Ali Woh Ba-Khuda Main Bhi Kahoon Tum Bhi Kaho.
-Jis Ka Sona Bhi Ali Ho Jagna Bhi Ho Ali.
-Woh Ali Sab Se Juda Main Bhi Kahoon Tum Bhi Kaho.
+۱
+جس کا آنا بھی علی ہو جس کا جانا بھی علی
+ہے علی وہ بخدا میں بھی کہوں تم بھی کہو
+جس کا سونا بھی علی ہو جاگنا بھی ہو علی
+وہ علی سب سے جدا میں بھی کہوں تم بھی کہو
 
-2
-Baap Bhi Jiss Ka Ali Bete Bhi Jiss Ke Hoon Ali.
-Hai Ali Murtaza Main Bhi Kahoon Tum Bhi Kaho.
-Jis Ki Ik Zarbat Pe Rab Qurban Kul Sajday Kare.
-Woh Ali Lafatah Main Bhi Kahoon Tum Bhi Kaho.
+۲
+باپ بھی جس کا علی بیٹے بھی جس کے ہوں علی
+ہے علی مرتضیٰ میں بھی کہوں تم بھی کہو
+جس کی اک ضربت پہ رب قربان کل سجدے کرے
+وہ علی لا فتیٰ میں بھی کہوں تم بھی کہو
 
-3
-Keh Rahi Hai Lash Bhi Marhab Ki Khaiber Mein Yehi.
-Hai Ali Shair-e-Khuda Main Bhi Kahoon Tum Bhi Kaho.
-Jiss Ka Main Mula Hoon Oss Oss Ka Bhi Mula Hai Ali.
-Keh Gaye Hain Mustafa Main Bhi Kahoon Tum Bhi Kaho.
+۳
+کہہ رہی ہے لاش بھی مرحب کی خیبر میں یہی
+ہے علی شیرِ خدا میں بھی کہوں تم بھی کہو
+جس کا میں مولا ہوں اُس اُس کا بھی مولا ہے علی
+کہہ گئے ہیں مصطفیٰ میں بھی کہوں تم بھی کہو
 
-4
-Malik-e-Jood-o-Sakha-o-Waris-e-Kul Anbiya.
-Shohar-e-Khair-ul-Nisa Main Bhi Kahoon Tum Bhi Kaho.
-Jang-e-Ghazi Dekh Kar Ashtar Se Kehte Hain Ali.
-Marhaba Sad Marhaba Main Bhi Kahoon Tum Bhi Kaho.
+۴
+مالکِ جود و سخا و وارثِ کل انبیا
+شوہرِ خیر النساء میں بھی کہوں تم بھی کہو
+جنگِ غازی دیکھ کر اشتر سے کہتے ہیں علی
+مرحبا صد مرحبا میں بھی کہوں تم بھی کہو
 
-5
-Mustafa Bole Suno Najran Ke Logo Suno.
-Kazboon Pe Bad-Dua Main Bhi Kahoon Tum Bhi Kaho.
-Keh Rhaa Hai Yeh Nuseri Aaj Bhi Kashif Mujhe.
-Hain Ali Mere Khuda Main Bhi Kahoon Tum Bhi Kaho.
+۵
+مصطفیٰ بولے سنو نجران کے لوگو سنو
+کاذبوں پہ بد دعا میں بھی کہوں تم بھی کہو
+کہہ رہا ہے یہ نصیری آج بھی کاشف مجھے
+ہیں علی میرے خدا میں بھی کہوں تم بھی کہو

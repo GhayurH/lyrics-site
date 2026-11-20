@@ -14,7 +14,7 @@ recitationId: "haq-nara-hyderi-ya-ali-intezar-hussain-khan-lyrics-punjabi-2025"
 romanLyrics: |-
   Shaana waala taaj Ali da
   Hai do jag te raaj Ali da
-  Shukar Khuda kitae mainuṅ
+  Shukar Khuda kitaae mainuṅ
   Mere Khuda muhtaaj Ali da
 
   1
@@ -22,22 +22,22 @@ romanLyrics: |-
   Mere naal ral ke jehra naara laawe ga haq naara Haideri Haideri Haideri
 
   2
-  Maa Haider di Kaabe wal aayi
-  Kaabe ne diwaar ich raah banraayi
+  Maaṅ Haider di Kaabe wal aayi
+  Kaabe ne diwaar ach raah banraayi
   Bibi Rab ne aap ghar bulaayi ae
   Kaabe wich aj aida waaris aawe ga haq naara Haideri Haideri Haideri
 
   3
   Maula-e-Qanbar Aaqa-e-Abuzar
   Haq da Imaam Ali Haider Safdar
-  Sher-e-Kirdgaar Faatah-e-Khaibar
+  Sher-e-Kirdgaar Faatih-e-Khaibar
   Paar howe ga ae jehra manda jaawe ga haq naara Haideri Haideri Haideri
 
   4
-  Thokaraaṅ dar dar kiuṅ paya khaana aeṅ
+  Thokaraaṅ dar dar kiuṅ payaa khaana aeṅ
   Kiuṅ naiṅ Ali de dar te tu aana aeṅ
   Bakhshaahaaṅ da aeho thikaana ae
-  Bakhtaaṅ waale aithay jehra sar jhukaawe ga haq naara Haideri Haideri Haideri
+  Bakhtaaṅ waale aithe jehra sar jhukaawe ga haq naara Haideri Haideri Haideri
 
   5
   Suli te charh gaya fair vi naiṅ jhukya
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Nabiyaaṅ di mushkil dur Ali karda
-  Kise vi maidaan ich Ali naiṅ ae haarda
+  Kise vi maidaan ach Ali naiṅ ae haarda
   Ali de rutbe toṅ jehra ae sarda
   Ohnu hor ag de wich Khuda jalaawe ga haq naara Haideri Haideri Haideri
 ---

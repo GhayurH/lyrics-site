@@ -5,9 +5,31 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haider ka janaaza hai Haider ka janaaza
+  Hasnain ke kaandhoṅ pe hai Haider ka janaaza
+
+  1
+  Maula-e-jahaaṅ ka shah Safdar ka janaaza
+  Haider ka janaaza hai ye Haider ka janaaza
+
+  2
+  Ae momino Sarwar ki yatimi ka hai ye waqt
+  Ae momino Shabbar ki yatimi ka hai ye waqt
+  Ab uthne ko tayyaar hai rahbar ka janaaza
+
+  3
+  Zainab ki bhi aankhoṅ meiṅ nazar aate haiṅ aansu
+  Abbaas bhi rote haiṅ ajab hashr hai har su
+  Ae shio ye hai diṅ ke muqaddar ka janaaza
+
+  4
+  Wo Bibi ke jis Bibi ki tori gai pasli
+  Makhduma wohi Bibi payambar ki thi beti
+  Hai ye usi gham paai ke shauhar ka janaaza
 ---
 
 حیدرؑ کا جنازہ ہے حیدرؑ کا جنازہ

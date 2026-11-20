@@ -11,26 +11,26 @@ tags: []
 aliases: ["Ay Alamdara Rasha"]
 published: true
 romanLyrics: |-
-  Ae alamdara Ghazi Abbasa
-  Ae alamdara raasha zama ro ra
+  Ae alamdaara Ghazi Abbasa
+  Ae alamdaara raasha zama ro ra
   Ghazi Abbasa raasha zama ro ra
 
   1
   Kaun bewaoṅ ki chaadar ko bachaaye aa kar
-  Laashe sab waali o waaris ke pare haiṅ besar
+  Laashe sab waali o waaris ke pare haiṅ be sar
   Meri aawaaz pe koi nahiṅ aata Ghazi
-  Ho gayi dasht-e-bayabaaṅ meiṅ tanha khwaahar
+  Ho gayi dasht-e-bayaabaaṅ meiṅ tanha khwaahar
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   2
-  Zulm karte haiṅ hameṅ tanha samajh kar aada
-  Berida balwe meiṅ rote haiṅ haram waawaila
+  Zulm karte haiṅ hameṅ tanha samajh kar aadaa
+  Be rida balwe meiṅ rote haiṅ haram waawailaa
   Sar pe maasum Sakina ke nahiṅ dast-e-karam
   Chhin gaye us ke gauhar aag se daaman bhi jala
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   3
-  Ae alamdar fughaaṅ lab pe Sakina laaye
+  Ae alamdaar fughaaṅ lab pe Sakina laaye
   Har taraf aag dhuaaṅ hai wo kahaaṅ par jaaye
   Ghurkiyaaṅ ranj o alam tishna labi daagh-e-padar
   Su-e-darya na chali jaaye Sakina haaye
@@ -39,12 +39,12 @@ romanLyrics: |-
   4
   Hum to aaye the yahaaṅ tere sahaare Ghazi
   Tu magar so gaya darya ke kinaare Ghazi
-  Bewatan tishna dahan maara gaya bhaai mera
+  Be watan tishna dahan maara gaya bhaai mera
   Chhin gayi chaadareṅ ab sar se hamaare Ghazi
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   5
-  Ae mere parde ke zaamin ae alamdar aa ja
+  Ae mere parde ke zaamin ae alamdaar aa ja
   Mere Ghazi ae mere munis o ghamkhwaar aa ja
   Aa ke pardes meiṅ bigra hai muqaddar mera
   Teri Zainab ka nahiṅ koi madadgaar aa ja
@@ -54,7 +54,7 @@ romanLyrics: |-
   Teri hamshir hai balwe meiṅ khule sar Ghazi
   Ab nahiṅ koi mera munis o yaawar Ghazi
   Tere jaane se bharam tut gaya Zainab ka
-  Haaye beaas hui Aal-e-Payambar Ghazi
+  Haaye be aas hui Aal-e-Payambar Ghazi
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   7

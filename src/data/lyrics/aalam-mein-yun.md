@@ -11,24 +11,24 @@ reciter: "Pyare Khan"
 aliases: []
 published: true
 romanLyrics: |-
-  Aalam meiṅ yuṅ sharik-e-risalat hai Fatima
-  Rehmat Nabi hai saya-e-rehmat hai Fatima
+  Aalam meiṅ yuṅ sharik-e-risaalat hai Fatima
+  Rehmat Nabi hai saaya-e-rehmat hai Fatima
 
   1
-  Shauhar Wali padar hai Payambar pisar Imam
-  Kitni azim din ki taqat hai Fatima
+  Shauhar Wali padar hai Payambar pisar Imaam
+  Kitni azim din ki taaqat hai Fatima
 
   2
-  Maryam ka Fatima se bhala kya muqabla
-  Maryam to aabida hai ibadat hai Fatima
+  Maryam ka Fatima se bhala kya muqaabla
+  Maryam to aabida hai ibaadat hai Fatima
 
   3
-  Dasht-e-Mubahila meiṅ Payambar ko dekh kar
-  Kehna parega juzv-e-risalat hai Fatima
+  Dasht-e-Mubaahila meiṅ Payambar ko dekh kar
+  Kehna parega juzv-e-risaalat hai Fatima
 
   4
-  Dono ke ishteraak se sajda qubul hai
-  Haider agar namaz hai niyat hai Fatima
+  Donoṅ ke ishteraak se sajda qubul hai
+  Haider agar namaaz hai niyat hai Fatima
 ---
 عالم میں یوں شریکِ رسالت ہے فاطمہ
 رحمت نبی ہے سایۂ رحمت ہے فاطمہ

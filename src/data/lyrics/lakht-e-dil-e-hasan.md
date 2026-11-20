@@ -49,14 +49,14 @@ romanLyrics: |-
 
   9
   Deti rahi sadaaeṅ Farwa kahaaṅ ho Qaasim
-  Haṅste rahe sitamgar khaime jala jala ke
+  Hanste rahe sitamgar khaime jala jala ke
 
   10
   Farwa ka chaand khuṅ meiṅ duba kuchh is tarah se
   Rota raha falak bhi taare bujha bujha ke
 
   11
-  Tukre nahiṅ ye Qaasim ran meiṅ tere badan ke
+  Tukre nahiṅ ye Qaasim ran meiṅ tire badan ke
   Naqsh-e-baqa rakhe haiṅ tu ne bana bana ke
 ---
 لختِ دِل حسن کے ٹکڑے اٹھا اٹھا کے

@@ -13,35 +13,35 @@ romanLyrics: |-
   Abbas chale aao bachi na guzar jaaye
 
   1
-  Darwaza e zindaṅ par ro ro ke na mar jaye
-  Kano se lahu payham shano pe tapakta hai
+  Darwaza-e zindaaṅ par ro ro ke na mar jaaye
+  Kaanoṅ se lahu bayham shaanoṅ pe tapakta hai
   Bibi ke tarapne par dil sab ka tarapta hai
-  Zindaṅ ke andhere meiṅ bemaar kidhar jaye
+  Zindaaṅ ke andhere meiṅ bimaar kidhar jaaye
 
   2
-  Baazar se ho aayi darbar se ho aayi
-  Ashur ko jangal meiṅ shabbir ko kho aayi
-  Ab sirf yehi zid hai tum aao to ghar jaye
+  Baazaar se ho aayi darbaar se ho aayi
+  Aashur ko jangal meiṅ Shabbir ko kho aayi
+  Ab sirf yehi zid hai tum aao to ghar jaaye
 
   3
-  Aahat koi hoti hai sine se lagati hai
-  Aaghosh meiṅ bachi ko ghabra ke chupati hai
-  Madar ko ye dharka hai sote meiṅ na darr jaye
+  Aahat koi hoti hai sine se lagaati hai
+  Aaghosh meiṅ bachi ko ghabra ke chupaati hai
+  Maadar ko ye dharka hai sote meiṅ na dar jaaye
 
   4
-  Kaunain ki shahzadi hai khaak basar kab se
-  Ik pal ko nahi soyi tum dur gaye jab se
-  Ghut ghut ke asiri meiṅ zainab hi na mar jaye
+  Kaunain ki shahzaadi hai khaak basar kab se
+  Ik pal ko nahiṅ so tum dur gaye jab se
+  Ghut ghut ke asiri meiṅ Zainab hi na mar jaaye
 
   5
-  Kuch dayr ko laila ke shahzade ko le aao
-  Aate huye godhi meiṅ shish maah ko le aao
-  Ukhra hua dam shayad ik pal ko thehar jaye
+  Kuch der ko Laila ke shahzaade ko le aao
+  Aate huye godi meiṅ shashmaahe ko le aao
+  Ukhra hua dam shaayad ik pal ko thehar jaaye
 
   6
-  Itrat pe jo guzri hai waaqif hai jahaṅ saara
-  Shahid hai zamiṅ saari shahid hai zamaan saara
-  Ae kaash kisi surat sughra ko khabar jaye
+  Itrat pe jo guzri hai waaqif hai jahaaṅ saara
+  Shaahid hai zamiṅ saari shaahid hai zamaan saara
+  Ae kaash kisi surat Sughra ko khabar jaaye
 ---
 
 عباس چلے آو بچی نہ گزر جائے

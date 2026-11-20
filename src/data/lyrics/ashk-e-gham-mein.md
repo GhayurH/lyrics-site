@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Naam Allah ka lene ke liye maaz Allah
-  Log taamil kiye baithe haiṅ Khaibar kitne
+  Log ta'mil kiye baithe haiṅ Khaibar kitne
 
   4
   Ulfat-e-Aal ka dunya ne sila khub diya

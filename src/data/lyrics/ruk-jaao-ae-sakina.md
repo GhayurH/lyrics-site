@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Khaa khaa ke tum tamaache ghabra gayi ho shaayad
-  Aa shaam sikh jaao bhi aansuoṅ ko pina
+  Aashaam sikh jaao bhi aansuoṅ ko pina
 
   3
   Aa jaao maiṅ sula duṅ sar zaanuoṅ pe rakh kar

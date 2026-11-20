@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Kohraam hai taabut-e-Hasan uthta hai ghar se
-  Kulsum buka karti hai lipti hui dar se
+  Kulsum bukaa karti hai lipti hui dar se
   Ae waaye musibat
 
   1
@@ -27,8 +27,8 @@ romanLyrics: |-
   Ae waaye musibat
 
   3
-  Qasim jo jawaaṅ hote hue Karbobala tak
-  Dekheṅge Hasan bete ko Farwa ki nazar se
+  Qasim jo jawaaṅ hote hue Karb o Bala tak
+  Dekheṅ ge Hasan bete ko Farwa ki nazar se
   Ae waaye musibat
 
   4
@@ -37,12 +37,12 @@ romanLyrics: |-
   Ae waaye musibat
 
   5
-  Bas ek janaaza hai ye dunya meiṅ Hasan ka
-  Do baar uthaya jo gaya ek hi ghar se
+  Bas ek janaaza hai ye duniya meiṅ Hasan ka
+  Do baar uthaaya jo gaya ek hi ghar se
   Ae waaye musibat
 
   6
-  Dil sine meiṅ Majid na thehar paayega us dam
+  Dil sine meiṅ Majid na thehar paaye ga us dam
   Dekhe koi is gham ko Shah-e-diṅ ki nazar se
   Ae waaye musibat
 ---

@@ -25,14 +25,14 @@ romanLyrics: |-
 
   3
   Mere Husain ne tauhid ko bachaaya hai
-  Husainiyat ko bachaayega Kibriya-e-Husain
+  Husainiyat ko bachaaye ga Kibriya-e-Husain
 
   4
   Tujhi se aaj bhi qaaim hai naam-e-Rab-e-Ulaa
   Tabhi to naaz mashiyat tere uthaaye Husain
 
   5
-  Basurat-e-shaah-e-Duldul sawaar al madadi
+  Basurat-e-shaah-e-Duldul sawaar aal madade
   Fiza meiṅ gunj rahi hai abhi sada-e-Husain
 
   6

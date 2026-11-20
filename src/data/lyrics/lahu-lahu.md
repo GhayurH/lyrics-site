@@ -16,8 +16,8 @@ romanLyrics: |-
 
   1
   Nabi ki beti ke dil ke tukre hai jaa bajaa
-  Khaak o khuṅ meiṅ lathde
-  Haiṅ barchhiyoṅ meiṅ koi kaleja
+  Khaak o khuṅ mein latde
+  Haiṅ barchhiyoṅ mein koi kaleja
   Chhuri ke niche koi gala hai
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Na paas ammu hai aur na baba
   Kise ab aawaaz de Sakina
-  Koi laiṅ chhinta hai baali
+  Koi la'iṅ chhinta hai baali
   Koi rida le ke jaa raha hai
 
   4
@@ -42,10 +42,10 @@ romanLyrics: |-
   Ye kaun bachchi hai mahv-e-zaari
   Hai jis ke kaanoṅ se khun jaari
   Kahaaṅ ho ammu madad ko aao
-  Laiṅ tamaaṅche laga raha hai
+  La'iṅ tamaaṅche laga raha hai
 
   6
-  Dhuaaṅ dhuaaṅ hai qayaam saare
+  Dhuaaṅ dhuaaṅ hai qiyaam saare
   Ali ki beti kise pukaare
   Kahiṅ pe bistar jhulas raha hai
   Kahiṅ pe jhula sulag raha hai
@@ -57,14 +57,14 @@ romanLyrics: |-
   Kisi ka baazu bandha hua hai
 
   8
-  Khuda-e-ghairat kathin hai saaat
+  Khuda-e-ghairat kathin hai saa'at
   Nawaaz Zainab ke dil ko quwwat
   Diyaar-e-Karbobala se aage
   Abhi to Kufe ka saamna hai
 
   9
   Azaan-e-gham de raha hai Aamir
-  Karam hai karyal jawaaṅ ka Nayyar
+  Karam hai kariyal jawaaṅ ka Nayyar
   Kalaam mera likh raha hai nauha
   Burida shaanoṅ ki ye ata hai
 ---

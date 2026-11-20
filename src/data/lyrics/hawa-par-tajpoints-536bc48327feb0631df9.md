@@ -1,32 +1,54 @@
 ---
-title: "Hawa Par"
+title: "ہوا پر"
+alternateTitle: "Hawa Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Pabandi lagaye koi be peer hawa par
+  Karti hai safar midhat-e-Shabeer hawa par
+
+  1
+  Mashriq ki hawaein kabhi magrib mein na aatin
+  Gar khainchta Ghazi khat-e-shamsheer hawa par
+  Ab sirf main pani pe bharosa na karon ga
+  Karna hai areeza mujhe tehreer hawa par
+
+  2
+  Tab ja ke hoi hai woh kahin chalne ke qabil
+  Jab nam-e-Ali ho gaya tehreer hawa par
+  Dhondo na zameen par na mili hai na miley gi
+  Asghar ke kaf-e-pa ki hai tasveer hawa par
+
+  3
+  Uskut jo kaha ho gayi khamosh khudai
+  Qabza hai tera Shah ki humsheer hawa par
+  Jo zarf mein kagaz ke samata nahi Sajjad
+  Woh shair main kar deta ho tehreer hawa par
 ---
 
-Pabandi Lagaye Koi Be Peer Hawa Par.
-Karti Hai Safar Midhat-e-Shabeer Hawa Par.
+پابندی لگائے کوئی بے پیر ہوا پر
+کرتی ہے سفر مدحتِ شبیر ہوا پر
 
-1
-Mashriq Ki Hawaein Kabhi Magrib Mein Na Aatin.
-Gar Khainchta Ghazi Khat-e-Shamsheer Hawa Par.
-Ab Sirf Main Pani Pe Bharosa Na Karon Ga.
-Karna Hai Areeza Mujhe Tehreer Hawa Par.
+۱
+مشرق کی ہوائیں کبھی مغرب میں نہ آتیں
+گر کھینچتا غازی خطِ شمشیر ہوا پر
+اب صرف میں پانی پہ بھروسا نہ کروں گا
+کرنا ہے عریضہ مجھے تحریر ہوا پر
 
-2
-Tab Ja Ke Hoi Hai Woh Kahin Chalne Ke Qabil.
-Jab Nam-e-Ali Ho Gaya Tehreer Hawa Par.
-Dhondo Na Zameen Par Na Mili Hai Na Miley Gi.
-Asghar Ke Kaf-e-Pa Ki Hai Tasveer Hawa Par.
+۲
+تب جا کے ہوئی ہے وہ کہیں چلنے کے قابل
+جب نامِ علی ہو گیا تحریر ہوا پر
+ڈھونڈو نہ زمین پر نہ ملی ہے نہ ملے گی
+اصغر کے کفِ پا کی ہے تصویر ہوا پر
 
-3
-Uskut Jo Kaha Ho Gayi Khamosh Khudai.
-Qabza Hai Tera Shah Ki Humsheer Hawa Par.
-Jo Zarf Mein Kagaz Ke Samata Nahi Sajjad.
-Woh Shair Main Kar Deta Ho Tehreer Hawa Par.
+۳
+اُسْکُتْ جو کہا ہو گئی خاموش خدائی
+قبضہ ہے تیرا شاہ کی ہمشیر ہوا پر
+جو ظرف میں کاغذ کے سماتا نہیں سجاد
+وہ شعر میں کر دیتا ہوں تحریر ہوا پر

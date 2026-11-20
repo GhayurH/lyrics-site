@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Ae mere sher-e-jawaaṅ ae mere bhai ho kahaṅ
-  Shaakh hai dil pe mere teri judaai ho kahaṅ
+  Saakh hai dil pe mere teri judaai ho kahaṅ
   Der se deti huṅ bhaiya maiṅ duhaai ho kahaṅ
   Lutti hai Fatema Zehra ki kamaai ho kahaṅ
   Abbas khanjar hai halq-e-Sarwar par
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Gir ke ghore se sada baap ko Akbar ne jo di
-  Dilbar-e-Fatema Zehra ki ajab haalat thi
+  Dilbar-e-Fatema ki ajab haalat thi
   Haath malte the kabhi ghaat ko takte the kabhi
   Thaam kar tuti kamar kehte the farzand-e-Nabi
   Abbas laauṅ kaise laash-e-Akbar
@@ -52,7 +52,7 @@ romanLyrics: |-
   6
   Bhai ko bhul gaye dhyaan na behnoṅ ka raha
   Yaad aaya na koi paayi jo darya ki hawa
-  Haaye kis dil se kiya tum ne gawaara bhaiya
+  Hai kis dil se kiya tum ne gawaara bhaiya
   Har tamaache pe Sakina ne tumheṅ yaad kiya
   Abbas jab chhine gaye kaanoṅ se gohar
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   Tum ne achchha hi kiya dur basaai basti
   Dekh sakte the kahaṅ tum jo hai haalat meri
   Balwa-e-aam meiṅ bhaiya maiṅ khule sar huṅ khari
-  Abbas aada le gaye sar se chaadar
+  Abbas adaa le gaye sar se chaadar
 
   9
   Azmat o izzat-e-Saadaat bhula di bhai

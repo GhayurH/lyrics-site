@@ -8,100 +8,61 @@ poet: "Mir Anees"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Salaami kehte thay aada rulao zainab ko
-
+romanLyrics: |-
+  Salaami kehte the aada rulaao Zainab ko
 
   1
-
-  Imam hote thay zakhmi to kehte thay aada
-
-  Jo qaime se nikal aaye dikhao zainab ko
-
+  Imaam hote the zakhmi to kehte the aada
+  Jo khaime se nikal aaye dikhaao Zainab ko
 
   2
-
-  Sar e hussain sina par dikhao zainab ko
-
-  Chupa ke haathon se moo ko ye boli binte ali
-
-  Khuda ke waaste logon chupao zainab ko
-
+  Sar-e-Husain sinaa par dikhaao Zainab ko
+  Chhupa ke haathoṅ se muṅh ko ye boli Bint-e-Ali
+  Khuda ke waaste logoṅ chhupaao Zainab ko
 
   3
-
-  Hussain imam ko jis se kiya hai ran mein shaheed
-
-  Wo khoon bhara hua khanjar dikhao zainab ko
-
+  Husain Imaam ko jis se kiya hai ran meiṅ shahid
+  Wo khuṅ bhara hua khanjar dikhaao Zainab ko
 
   4
-
-  Na nikle dukhtare zehra jo qaime se baahar
-
-  Pakad ke haath abhi khaynch lao zainab ko
-
+  Na nikle dukhtar-e-Zehra jo khaime se baahar
+  Pakar ke haath abhi khainch laao Zainab ko
 
   5
-
-  Sada e fatema aayi ke ay mere shabbir
-
-  Tadap rahi hai galay se lagao zainab ko
-
+  Sadaa-e-Fatema aayi ke ae mere Shabbir
+  Tarap rahi hai gale se lagaao Zainab ko
 
   6
-
-  Rida jo aap se dewe na dukhtare zehra
-
-  Ba rehna taygh dikha kar darao zainab ko
-
+  Rida jo aap se deve na dukhtar-e-Zehra
+  Ba rehna tegh dikha kar daraao Zainab ko
 
   7
-
-  Jakad ke laaye hai khyber shikan ki beti ko
-
-  Ye kehke shaam may dar dar phirao zainab ko
-
+  Jakar ke laayi haiṅ Khaibar shikan ki beti ko
+  Ye kehke Shaam meiṅ dar dar phiraao Zainab ko
 
   8
-
-  Jo aayi shaam ke bazaar may to chillayi
-
-  Ali ki qabr ka rasta dikhao zainab ko
-
+  Jo laayi Shaam ke baazaar meiṅ to chillaayi
+  Ali ki qabr ka rasta dikhaao Zainab ko
 
   9
-
-  Kaha yazeed ne jab shimr se sar e darbar
-
-  Kidhar hai dukhtar e zehra bulao zainab ko
-
+  Kaha Yazid ne jab Shimr se sar-e-darbaar
+  Kidhar hai dukhtar-e-Zehra bulaao Zainab ko
 
   10
-
-  Lipat ke laasha e sheh se ye boli binte ali
-
-  Khuda ke waaste bhaiya bulao zainab ko
-
+  Lipat ke laasha-e-sheh se ye boli Bint-e-Ali
+  Khuda ke waaste bhaiya bulaao Zainab ko
 
   11
-
-  Gala katane diya kyun na apne badle mujhe
-
-  Mai tum se rooth gayi hoo manao zainab ko
-
+  Gala kataane diya kiuṅ na apne badle mujhe
+  Maiṅ tum se ruh gayi huṅ manaao Zainab ko
 
   12
-
-  Jagaane aagaya naize se us ghadi zaalim
-
-  Kaha jo fizza ne kuch pal sulao zainab ko
-
+  Jagaane aa gaya naize se us ghari zaalim
+  Kaha jo Zainab ne kuchh pal sulaao Zainab ko
 
   13
-
-  Anees ahle haram may bapa hua mehshar
-
-  Kaha jo haakim e azlam ne lao zainab ko'
+  Anees ahl-e-haram meiṅ bapaa hua mahshar
+  Kaha jo haakim-e-azlam ne laao Zainab ko
 ---
 
 سلامی کہتے تھے اعدا رلاؤ زینب کو

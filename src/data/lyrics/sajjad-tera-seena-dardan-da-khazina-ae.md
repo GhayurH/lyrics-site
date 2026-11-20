@@ -8,28 +8,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad tera seena dardan da khazeena aey
+  Sajjad tera sina dardaaṅ da khazina ae
+  Aj qaid tere ralle Zainab te Sakina ae
 
   1
-  Aj qaid teray rallay Zainab te Sakina aey
+  Sajjad muhaari tuṅ turya wi na jaanda ae
+  Ik rait garam zakhmi pairaaṅ diyaaṅ talyaaṅ neṅ
 
   2
-  Sajjad muhari toon turya wi na janda aey
-  Ik rait garam zakhmi pairan diyan talyan nay
-  Sajjad kiwain parday phupyan day banaway ga
-  Nana tera Karbal chon bahoon door Madinay aey
-  O shehr Madina si sooraj nay haya keeta
-  Sir nangay bazaraan wich Zehra diya jaiyan nay
-  Zehra diya jayan nay janglan wich aayan nain
-  Sir haq laey kata dena Sayyadan da qareena aey
-  Lokan ne pathar maray Saadat nu wadh wadh ke
-  Jad Shaam de wich aaya Paakan da safeena aey
-  Zindaan de wich roway beemaron nu pharrh pharrh ke
-  Masooma nu yaad aanda jad baap da seena aey
-  Bazar wich oo bibi haey kiwain rahi turdi
-  Babay di hawaili wich haey jairri turi na aey
-  Zainab di kamar aulay dukh jandi aey ro ro ke
-  Dis janda Sakina nu jad Shimr kameena aey
+  Sajjad kiweṅ parde phuphyaaṅ de banaarwe ga
+  Naana tera Karbal tuṅ bhoṅ dur Madina ae
+
+  3
+  O shehr Madina si suraj ne haya kita
+  Sir nange bazaaraaṅ wich Zehra diyaaṅ jaaiyaaṅ neṅ
+
+  4
+  Zehra diyaaṅ jaaiyaaṅ neṅ janglaaṅ wich aaiyaaṅ neṅ
+  Sir haq lai kata dena Sayyadaaṅ da qarina ae
+
+  5
+  Lokaaṅ ne pathar maare Saadaat nuṅ wadh wadh ke
+  Jad Shaam de wich aaya paakaaṅ da safina ae
+
+  6
+  Zindaan de wich rowe bimaaraaṅ nuṅ phar phar ke
+  Maasuma nuṅ yaad aanda jad baabe da sina ae
+
+  7
+  Bazaaraaṅ ch o Bibi haae kiweṅ rai turdi
+  Baabe di haweli wich haae jeri turi na ae
+
+  8
+  Zainab di kamar ole dukh jaandi ae ro ro ke
+  Dis jaanda Sakina nuṅ jad Shimr kamina ae
 ---
 
 سجاد تیرا سینہ درداں دا خزینہ اے

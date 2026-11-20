@@ -1,59 +1,106 @@
 ---
-title: "Khuwaish E Azadar E Hussain"
+title: "خواہشِ عزادارِ حسین"
+alternateTitle: "Khuwaish E Azadar E Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Laeeq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kitna be chain hoon Maula yeh bata sakta nahi
+  Aap ko haal jo dil ka hai suna sakta nahi
+  Apni qismat ke sitaron ko jaga sakta nahi
+
+  2
+  Jab talak tum na bulao gay main aa sakta nahi
+  Karbala Karbala Karbala Karbala
+  Allahumma arzuqna ziyarat al Hussain
+  Qaul-e-masoom hai
+
+  3
+  Zindagi mein aik bar Karbala-e-Mualla zaror jana ta keh janat ke raston se waqif ho sako
+  Meri qismat ke charagon ko jala do Maula
+  Karbala hum ko bhi ik bar dikha do Maula
+  Meri taqdeer mein kya aap ka dedar nahi
+
+  4
+  Aisa lagta hai keh qismat meri bedar nahi
+  Meri soyi hoi qismat ko jaga do Maula
+  Har ghari lab pe mere zikar tera jari ho
+  Tera darbar ho our teri azadari ho
+
+  5
+  Aik din hum ko bhi aisa tu dikha do Maula
+  Qafila jata howa jab bhi nazar aata hai
+  Dekh kar qalb yeh be chain tarap jata hai
+  Kab bulawa hai mera itna bata do Maula
+
+  6
+  Tera zakir hoon tera zikar kiya karta hoon
+  Farsh-e-majlis pe main ro kar yeh dua karta hoon
+  Apne darbar se hum ko bhi sada do Maula
+  Karbala ki jo ziyarat ka sharf patay hain
+
+  7
+  Teri aawaz pe labaik chaley aate hain
+  Apne darbar se hum ko bhi sada do Maula
+  Karbala dekhey bina ab na raha jata hai
+  Mujh ko har samt andhera hi nazar aata hai
+
+  8
+  Meri qismat ke andheron ko mita do Maula
+  Kaisay izhar karon haal ajab hai dil ka
+  Bas Laeeq aaj yeh Zeeshan ke dil ki hai sada
+  Karbala aane ki hum ko bhi raza do Maula
 ---
 
-1
-Khuwaish e Azadar e Hussain Lyrics
-Kitna Be Chain Hoon Maula Yeh Bata Sakta Nahi.
-Aap Ko Haal Jo Dil Ka Hai Suna Sakta Nahi.
-Apni Qismat Ke Sitaron Ko Jaga Sakta Nahi.
+۱
+کتنا بے چین ہوں مولا یہ بتا سکتا نہیں
+آپ کو حال جو دل کا ہے سنا سکتا نہیں
+اپنی قسمت کے ستاروں کو جگا سکتا نہیں
 
-2
-Jab Talak Tum Na Bulao Gay Main Aa Sakta Nahi.
-Karbala Karbala Karbala Karbala.
-Allahumma Arzuqna Ziyarat Al Hussain.
-Qaul-e-Masoom Hai.
+۲
+جب تلک تم نہ بلاؤ گے میں آ سکتا نہیں
+کربلا کربلا کربلا کربلا
+اللّٰہم ارزقنا زیارت الحسین
+قولِ معصوم ہے
 
-3
-Zindagi Mein Aik Bar Karbala-e-Mualla Zaror Jana Ta Keh Janat Ke Raston Se Waqif Ho Sako.
-Meri Qismat Ke Charagon Ko Jala Do Maula.
-Karbala Hum Ko Bhi Ik Bar Dikha Do Maula.
-Meri Taqdeer Mein Kya Aap Ka Dedar Nahi.
+۳
+زندگی میں ایک بار کربلائے معلّیٰ ضرور جانا تا کہ جنت کے راستوں سے واقف ہو سکو
+میری قسمت کے چراغوں کو جلا دو مولا
+کربلا ہم کو بھی اک بار دکھا دو مولا
+میری تقدیر میں کیا آپ کا دیدار نہیں
 
-4
-Aisa Lagta Hai Keh Qismat Meri Bedar Nahi.
-Meri Soyi Hoi Qismat Ko Jaga Do Maula.
-Har Ghari Lab Pe Mere Zikar Tera Jari Ho.
-Tera Darbar Ho Our Teri Azadari Ho.
+۴
+ایسا لگتا ہے کہ قسمت میری بیدار نہیں
+میری سوئی ہوئی قسمت کو جگا دو مولا
+ہر گھڑی لب پہ میرے ذکر تیرا جاری ہو
+تیرا دربار ہو اور تیری عزاداری ہو
 
-5
-Aik Din Hum Ko Bhi Aisa Tu Dikha Do Maula.
-Qafila Jata Howa Jab Bhi Nazar Aata Hai.
-Dekh Kar Qalb Yeh Be Chain Tarap Jata Hai.
-Kab Bulawa Hai Mera Itna Bata Do Maula.
+۵
+ایک دن ہم کو بھی ایسا تو دکھا دو مولا
+قافلہ جاتا ہوا جب بھی نظر آتا ہے
+دیکھ کر قلب یہ بے چین تڑپ جاتا ہے
+کب بلاوا ہے میرا اتنا بتا دو مولا
 
-6
-Tera Zakir Hoon Tera Zikar Kiya Karta Hoon.
-Farsh-e-Majlis Pe Main Ro Kar Yeh Dua Karta Hoon.
-Apne Darbar Se Hum Ko Bhi Sada Do Maula.
-Karbala Ki Jo Ziyarat Ka Sharf Patay Hain.
+۶
+تیرا ذاکر ہوں تیرا ذکر کیا کرتا ہوں
+فرشِ مجلس پہ میں رو کر یہ دعا کرتا ہوں
+اپنے دربار سے ہم کو بھی صدا دو مولا
+کربلا کی جو زیارت کا شرف پاتے ہیں
 
-7
-Teri Aawaz Pe Labaik Chaley Aate Hain.
-Apne Darbar Se Hum Ko Bhi Sada Do Maula.
-Karbala Dekhey Bina Ab Na Raha Jata Hai.
-Mujh Ko Har Samt Andhera Hi Nazar Aata Hai.
+۷
+تیری آواز پہ لبیک چلے آتے ہیں
+اپنے دربار سے ہم کو بھی صدا دو مولا
+کربلا دیکھے بنا اب نہ رہا جاتا ہے
+مجھ کو ہر سمت اندھیرا ہی نظر آتا ہے
 
-8
-Meri Qismat Ke Andheron Ko Mita Do Maula.
-Kaisay Izhar Karon Haal Ajab Hai Dil Ka.
-Bas Laeeq Aaj Yeh Zeeshan Ke Dil Ki Hai Sada.
-Karbala Aane Ki Hum Ko Bhi Raza Do Maula.
+۸
+میری قسمت کے اندھیروں کو مٹا دو مولا
+کیسے اظہار کروں حال عجب ہے دل کا
+بس لئیق آج یہ ذیشان کے دل کی ہے صدا
+کربلا آنے کی ہم کو بھی رضا دو مولا

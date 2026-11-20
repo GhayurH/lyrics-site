@@ -1,40 +1,113 @@
 ---
-title: "Fatima Fatima"
+title: "فاطمہ فاطمہ"
+alternateTitle: "Fatima Fatima"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+# Rubai Poet: Nayab Hallauri
+romanLyrics: |-
+  1
+  Hai yehi sab se bara tera qaseeda Zahra
+  Baap kehta hai tujhey umm-e- abeeha Zahra
+  Kul-e- emaan ne parhi hai tere aanchal pe namaz
+  Kyun na phir tujh ko kahon kabay ka kaba Zahra
+
+  2
+  Lailatul qadar ka tarjuma Fatima
+  La fatah ke khuda ka pata Fatima
+
+  3
+  Anbiya ke hain mushkil kusha Murtaza
+  Murtaza ki hain mushkil kusha Fatima
+
+  4
+  Yeh na hotin tu kuch bhi na hota kahin
+  Kun ka matlab hai kiya Fatima Fatima
+
+  5
+  Teri Fizza ki dehleez se mang kar
+  Mojzay le gaye anbiya Fatima
+
+  6
+  Qabar-e- masooma-e- Qum dikha di mujhe
+  Haq se pocha jo tera pata Fatima
+
+  7
+  Jab bhi mairaj ki dil mein khuwaish hoi
+  Tere ghar aa gaye Mustafa Fatima
+
+  8
+  Gasibon pe jo lanat nahi bhaijta
+  Aisa beta hai kis kam ka Fatima
+
+  9
+  Tum bhi parday mein thin kuch tu wazeh karo
+  Our mairaj mein kiya howa Fatima
+
+  10
+  Bach rahe hain khad -o- khal Abbas ke
+  Hain musallay pe mehway dua Fatima
+
+  11
+  Ja ke dekho likha hai yeh tareekh mein
+  Kis se ho kar gayin hain khafa Fatima
+
+  12
+  Haq ki tareef likhni thi ik lafz mein
+  Bas Takallum ne phir likh diya Fatima
 ---
 
-1
-Hai Yehi Sab Se Bara Tera Qaseeda Zahra.
-Baap Kehta Hai Tujhey Umm-e- Abeeha Zahra.
-Kul-e- Emaan Ne Parhi Hai Tere Aanchal Pe Namaz.
-Kyun Na Phir Tujh Ko Kahon Kabay Ka Kaba Zahra.
-Rubai Poet: Nayab Hallauri
-Lailatul Qadar Ka Tarjuma Fatima.
-La Fatah Ke Khuda Ka Pata Fatima.
-Anbiya Ke Hain Mushkil Kusha Murtaza.
-Murtaza Ki Hain Mushkil Kusha Fatima.
-Yeh Na Hotin Tu Kuch Bhi Na Hota Kahin.
-Kun Ka Matlab Hai Kiya Fatima Fatima.
-Teri Fizza Ki Dehleez Se Mang Kar.
-Mojzay Le Gaye Anbiya Fatima.
-Qabar-e- Masooma-e- Qum Dikha Di Mujhe.
-Haq Se Pocha Jo Tera Pata Fatima.
-Jab Bhi Mairaj Ki Dil Mein Khuwaish Hoi.
-Tere Ghar Aa Gaye Mustafa Fatima.
-Gasibon Pe Jo Lanat Nahi Bhaijta.
-Aisa Beta Hai Kis Kam Ka Fatima.
-Tum Bhi Parday Mein Thin Kuch Tu Wazeh Karo.
-Our Mairaj Mein Kiya Howa Fatima.
-Bach Rahe Hain Khad -o- Khal Abbas Ke.
-Hain Musallay Pe Mehway Dua Fatima.
-Ja Ke Dekho Likha Hai Yeh Tareekh Mein.
-Kis Se Ho Kar Gayin Hain Khafa Fatima.
-Haq Ki Tareef Likhni Thi Ik Lafz Mein.
-Bas Takallum Ne Phir Likh Diya Fatima.
+۱
+ہے یہی سب سے بڑا تیرا قصیدہ زہرا
+باپ کہتا ہے تجھے امِ ابیہا زہرا
+کلِ ایماں نے پڑھی ہے تیرے آنچل پہ نماز
+کیوں نہ پھر تجھ کو کہوں کعبے کا کعبہ زہرا
+
+۲
+لیلۃ القدر کا ترجمہ فاطمہ
+لا فتیٰ کے خدا کا پتا فاطمہ
+
+۳
+انبیا کے ہیں مشکل کشا مرتضیٰ
+مرتضیٰ کی ہیں مشکل کشا فاطمہ
+
+۴
+یہ نہ ہوتیں تو کچھ بھی نہ ہوتا کہیں
+کن کا مطلب ہے کیا فاطمہ فاطمہ
+
+۵
+تیری فضہ کی دہلیز سے مانگ کر
+معجزے لے گئے انبیا فاطمہ
+
+۶
+قبرِ معصومۂ قم دکھا دی مجھے
+حق سے پوچھا جو تیرا پتا فاطمہ
+
+۷
+جب بھی معراج کی دل میں خواہش ہوئی
+تیرے گھر آ گئے مصطفیٰ فاطمہ
+
+۸
+غاصبوں پہ جو لعنت نہیں بھیجتا
+ایسا بیٹا ہے کس کام کا فاطمہ
+
+۹
+تم بھی پردے میں تھیں کچھ تو واضح کرو
+اور معراج میں کیا ہوا فاطمہ
+
+۱۰
+بچ رہے ہیں خد و خال عباس کے
+ہیں مصلّے پہ محوِ دعا فاطمہ
+
+۱۱
+جا کے دیکھو لکھا ہے یہ تاریخ میں
+کس سے ہو کر گئیں ہیں خفا فاطمہ
+
+۱۲
+حق کی تعریف لکھنی تھی اک لفظ میں
+بس تکلم نے پھر لکھ دیا فاطمہ

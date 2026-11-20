@@ -1,38 +1,65 @@
 ---
-title: "Ali Akbar Ki Midhat Ho Rahi Hai"
+title: "علی اکبر کی مدحت ہو رہی ہے"
+alternateTitle: "Ali Akbar Ki Midhat Ho Rahi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Shadan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ali Akbar ki midhat ho rahi hai
+  Gham-e-dunya se fursat hoor hi hai
+
+  1
+  Kissi ka mashaf e rukh hai nazar mein
+  Yeh pakeeza sahafat ho rahi hai
+  Hai Akbar ki mawaddat hasb-e-fitrat
+  Sana hasb-e-zarorat ho rahi hai
+
+  2
+  Jo shehzada hai humshakal-e-payamber
+  Ossi ki aaj midhat ho rahi hai
+  Azaan mein naam hai Akbar ka shamil
+  Musalsal yeh ibadat ho rahi hai
+
+  3
+  Yahan main likh raha hoon inn ke aousaf
+  Wahan tameer jannat ho rahi hai
+  Shifat, magfirat, jannat muyassar
+  Tumhari hi badolat ho rahi hai
+
+  4
+  Main inn ki manqabat likhney na paya
+  Mujhe khud se nadamat ho rahi hai
+  Yaqeenan rehmat-e-bari ko Shadan
+  Hamari bhi zarorat ho rahi hai
 ---
 
-Ali Akbar Ki Midhat Ho Rahi Hai Lyrics
-Gham-e-Dunya Se Fursat Hoor Hi Hai.
+علی اکبر کی مدحت ہو رہی ہے
+غمِ دنیا سے فرصت ہو رہی ہے
 
-1
-Kissi Ka Mashaf e Rukh Hai Nazar Mein.
-Yeh Pakeeza Sahafat Ho Rahi Hai.
-Hai Akbar Ki Mawaddat Hasb-e-Fitrat.
-Sana Hasb-e-Zarorat Ho Rahi Hai.
+۱
+کسی کا مصحفِ رخ ہے نظر میں
+یہ پاکیزہ صحافت ہو رہی ہے
+ہے اکبر کی مودّت حسبِ فطرت
+ثنا حسبِ ضرورت ہو رہی ہے
 
-2
-Jo Shehzada Hai Humshakal-e-Payamber.
-Ossi Ki Aaj Midhat Ho Rahi Hai.
-Azaan Mein Naam Hai Akbar Ka Shamil.
-Musalsal Yeh Ibadat Ho Rahi Hai.
+۲
+جو شہزادہ ہے ہم شکلِ پیمبر
+اسی کی آج مدحت ہو رہی ہے
+اذاں میں نام ہے اکبر کا شامل
+مسلسل یہ عبادت ہو رہی ہے
 
-3
-Yahan Main Likh Raha Hoon Inn Ke Aousaf.
-Wahan Tameer Jannat Ho Rahi Hai.
-Shifat, Magfirat, Jannat Muyassar.
-Tumhari Hi Badolat Ho Rahi Hai.
+۳
+یہاں میں لکھ رہا ہوں ان کے اوصاف
+وہاں تعمیرِ جنت ہو رہی ہے
+شفاعت، مغفرت، جنت میسر
+تمہاری ہی بدولت ہو رہی ہے
 
-4
-Main Inn Ki Manqabat Likhney Na Paya.
-Mujhe Khud Se Nadamat Ho Rahi Hai.
-Yaqeenan Rehmat-e-Bari Ko Shadan.
-Hamari Bhi Zarorat Ho Rahi Hai.
+۴
+میں ان کی منقبت لکھنے نہ پایا
+مجھے خود سے ندامت ہو رہی ہے
+یقیناً رحمتِ باری کو شاداں
+ہماری بھی ضرورت ہو رہی ہے

@@ -1,38 +1,65 @@
 ---
-title: "Dono Hain Shahnshah Zakir Bilawal Ali Hussaini Lyrics In Urud 2024"
+title: "دونوں ہیں شہنشاہ"
+alternateTitle: "Dono Hain Shahnshah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajid"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Dono hain shahnshah Zakir Bilawal Ali Hussaini
+  Sabar-o-raza ke paikar dono hain shehanshah
+
+  1
+  Maula Ali Wali our Abbas bawafa
+  Masjid mein qatal ho gaya Maula Ameer Haider
+  Rangeen lahu se jin ke howa hai mehrab mimber
+  Lagi zarb tu yeh bolay Fuztu berab e Kaba
+
+  2
+  Qatil ko khud jagaye aisa nahi koi
+  Ossay doodh bhi pilaye aisa kahan sakhi
+  Dekha faqat jahan mein bas Maula Murtaza
+  Abbas hi wafa ka parwardigar hai
+
+  3
+  Hai naaz Aliya ka Ibn-e-Karrar hai
+  Karti hai jis ko sajdah darain ki wafa
+  Mil jati jo ijazat Abbas ko agar
+  Haider ka lal ran mein karta bapa hashar
+
+  4
+  Sabar-o-raza ki ho gaya Karbal mein inteha
+  Abbas our Ali ki pori ho aarzu
+  Qayam ki shahi dekhein dunya mein chaar so
+  Ya Rab qabool ho ab Sajid ki iltija
 ---
 
-Dono Hain Shahnshah Zakir Bilawal Ali Hussaini.
-Sabar-o-Raza Ke Paikar Dono Hain Shehanshah.
+دونوں ہیں شہنشاہ ذاکر بلاول علی حسینی
+صبر و رضا کے پیکر دونوں ہیں شہنشاہ
 
-1
-Maula Ali Wali Our Abbas Bawafa.
-Masjid Mein Qatal Ho Gaya Maula Ameer Haider.
-Rangeen Lahu Se Jin Ke Howa Hai Mehrab Mimber.
-Lagi Zarb Tu Yeh Bolay Fuztu Berab e Kaba.
+۱
+مولا علی ولی اور عباس باوفا
+مسجد میں قتل ہو گیا مولا امیر حیدر
+رنگین لہو سے جن کے ہوا ہے محراب منبر
+لگی ضرب تو یہ بولے فزت بربِ کعبہ
 
-2
-Qatil Ko Khud Jagaye Aisa Nahi Koi.
-Ossay Doodh Bhi Pilaye Aisa Kahan Sakhi.
-Dekha Faqat Jahan Mein Bas Maula Murtaza.
-Abbas Hi Wafa Ka Parwardigar Hai.
+۲
+قاتل کو خود جگائے ایسا نہیں کوئی
+اسے دودھ بھی پلائے ایسا کہاں سخی
+دیکھا فقط جہاں میں بس مولا مرتضیٰ
+عباس ہی وفا کا پروردگار ہے
 
-3
-Hai Naaz Aliya Ka Ibn-e-Karrar Hai.
-Karti Hai Jis Ko Sajdah Darain Ki Wafa.
-Mil Jati Jo Ijazat Abbas Ko Agar.
-Haider Ka Lal Ran Mein Karta Bapa Hashar.
+۳
+ہے ناز عالیہ کا ابنِ کرار ہے
+کرتی ہے جس کو سجدہ دارین کی وفا
+مل جاتی جو اجازت عباس کو اگر
+حیدر کا لال رن میں کرتا بپا حشر
 
-4
-Sabar-o-Raza Ki Ho Gaya Karbal Mein Inteha.
-Abbas Our Ali Ki Pori Ho Aarzu.
-Qayam Ki Shahi Dekhein Dunya Mein Chaar So.
-Ya Rab Qabool Ho Ab Sajid Ki Iltija.
+۴
+صبر و رضا کی ہو گیا کربل میں انتہا
+عباس اور علی کی پوری ہو آرزو
+قائم کی شاہی دیکھیں دنیا میں چار سو
+یا رب قبول ہو اب ساجد کی التجا

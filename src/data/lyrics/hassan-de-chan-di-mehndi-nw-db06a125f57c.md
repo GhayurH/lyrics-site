@@ -1,25 +1,47 @@
 ---
-title: "Hassan De Chan Di Mehndi"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "حسن دے چن دی مہندی"
+alternateTitle: "Hassan De Chan Di Mehndi"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hassan de chan di mehndi aj phupiyaan lay kay aayaan
+
+  1
+  Kal enjh diyaan ghariyaan aarn gaiyaan, vich mittiyaan day rul jaarn gaiyaan,
+  Shagna diyaan mehndiyaan layaan
+
+  2
+  Hassan day raj dularaye nu, kitta ghorya naal pamaal aye
+  Qasim di laash da haar tukra
+  Shah chukta rehya utha bayda
+  Rayaan tak diyaan Zehra jayaan
+
+  3
+  Aj di raat akhriye, kal Qasim nay turr jana
+  Uth puttar day shangarn mana Farwa
+  Bachraye nu mehndiyaan laa Farwa
+  Devay Zainab Sain duayaan
 ---
 
-Hassan De Chan Di Mehndi Aj Phupiyaan Lay Kay Aayaan.
+حسن دے چن دی مہندی اج پھپھیاں لے کے آیاں
 
-Kal Enjh Diyaan Ghariyaan Aarn Gaiyaan, Vich Mittiyaan Day Rul Jaarn Gaiyaan,
-Shagna Diyaan Mehndiyaan Layaan.
+۱
+کل انج دیاں گھڑیاں آن گئیاں، وچ مٹیاں دے رل جان گئیاں،
+شگناں دیاں مہندیاں لایاں
 
-Hassan Day Raj Dularaye Nu, Kitta Ghorya Naal Pamaal Aye
-Qasim Di Laash Da Haar Tukra
-Shah Chukta Rehya Utha Bayda
-Rayaan Tak Diyaan Zehra Jayaan.
+۲
+حسن دے راج دلارے نوں، کیتا گھوڑیاں نال پامال اے
+قاسم دی لاش دا ہر ٹکڑا
+شاہ چکدا رہیا اُتھا بیڑا
+رہیاں تکدیاں زہرا جائیاں
 
-Aj Di Raat Akhriye, Kal Qasim Nay Turr Jana
-Uth Puttar Day Shangarn Mana Farwa
-Bachraye Nu Mehndiyaan Laa Farwa
-Devay Zainab Sain Duayaan.
+۳
+اج دی رات آخری اے، کل قاسم نے ٹر جانا
+اٹھ پتر دے شنگارن منا فروا
+بچڑے نوں مہندیاں لا فروا
+دیوے زینب سائیں دعایاں

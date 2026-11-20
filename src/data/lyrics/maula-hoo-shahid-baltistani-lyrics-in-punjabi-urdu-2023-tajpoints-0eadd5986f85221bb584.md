@@ -1,46 +1,99 @@
 ---
-title: "Maula Hoo Shahid Baltistani Lyrics In Punjabi Urdu 2023"
+title: "مولا ہُو"
+alternateTitle: "Maula Hoo"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Darwaish"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+# Hooet::Bulleh Shah:
+# Hooet::Muhsin Jaffri:
+# Manqabat Khuwan::Shahid Baltistani:
+# Manqabat Volum::Shahid Baltistani 2022-23:
+# ComHoosition::Shahid Baltistani:
+romanLyrics: |-
+  1
+  Kehnda aye Shehbaz Qalandar hai Ali da pehla number
+  Az azal ta rooz-e-mehshar bas Ali aye dil de andar
+  Maula har so aye teri khushbo Maula Hoo
+
+  2
+  Apne ishq che kar de mainu aynj fana saiyaan
+  Main na howaan tu howein yaan teri parchaiyaan
+  Maula kar de dunya taun anjan Maula Hoo
+
+  3
+  Teri chokhat ke darbaan Salmaan-o-Abuzar hain
+  Our ghali ke sag dekhon taun Lal Qalandar hain
+  Maula darzi hai tera Rizwan Maula Hoo
+
+  4
+  Pagaan waliyo naam japo Maula naam
+  Rozay Hajj namazaan tu vein nayi mukna rola
+  Maula jay na tainu manay har banda Maula
+  Maula taun aye amlaan di meezan Maula Hoo
+
+  5
+  Tu inam hai nemat-e-uzma teri wilayat hai
+  Dil mein tera pyar ho tu har sans ibadat hai
+  Maula tu hi malangon ki hai jaan Maula Hoo
+
+  6
+  Pagaan waliyo naam japo Maula naam
+  Kar de iss qabil ho paon tere samne paish
+  Dunya se begana kar dey, kar de mujhe Darwaish
+  Maula kar de Muhsin pe ahsan Maula Hoo
+
+  7
+  Na main momin wich maseet aan
+  Na main pakaan wich paleet aan
+  Na main wich kufar diyaan reet aan
+  Na main Mosa na main Firon
+  Bullehiya ki janra main kaun
+  Way Bullehiya asaan marna naheen
+  Goor piya koi hoor
 ---
 
-1
-Maula Hoo Shahid Baltistani Lyrics In Punjabi Urdu
-Kehnda Aye Shehbaz Qalandar Hai Ali Da Pehla Number.
-Az Azal Ta Rooz-e-Mehshar Bas Ali Aye Dil De Andar.
-Maula Har So Aye Teri Khushbo Maula Hoo.
-Apne Ishq Che Kar De Mainu Aynj Fana Saiyaan.
-Main Na Howaan Tu Howein Yaan Teri Parchaiyaan.
-Maula Kar De Dunya Taun Anjan Maula Hoo.
-Teri Chokhat Ke Darbaan Salmaan-o-Abuzar Hain.
-Our Ghali Ke Sag Dekhon Taun Lal Qalandar Hain.
-Maula Darzi Hai Tera Rizwan Maula Hoo.
-Pagaan Waliyo Naam Japo Maula Naam.
-Rozay Hajj Namazaan Tu Vein Nayi Mukna Rola.
-Maula Jay Na Tainu Manay Har Banda Maula.
-Maula Taun Aye Amlaan Di Meezan Maula Hoo.
-Tu Inam Hai Nemat-e-Uzma Teri Wilayat Hai.
-Dil Mein Tera Pyar Ho Tu Har Sans Ibadat Hai.
-Maula Tu Hi Malangon Ki Hai Jaan Maula Hoo.
-Pagaan Waliyo Naam Japo Maula Naam.
-Kar De Iss Qabil Ho Paon Tere Samne Paish.
-Dunya Se Begana Kar Dey, Kar De Mujhe Darwaish.
-Maula Kar De Muhsin Pe Ahsan Maula Hoo.
-Na Main Momin Wich Maseet Aan.
-Na Main Pakaan Wich Paleet Aan.
-Na Main Wich Kufar Diyaan Reet Aan.
-Na Main Mosa Na Main Firon.
-Bullehiya Ki Janra Main Kaun.
-Way Bullehiya Asaan Marna Naheen.
-Goor Piya Koi Hoor.
-Hooet::Bulleh Shah:
-Hooet::Muhsin Jaffri:
-Manqabat Khuwan::Shahid Baltistani:
-Manqabat Volum::Shahid Baltistani 2022-23:
-ComHoosition::Shahid Baltistani:
+۱
+کہندا اے شہباز قلندر ہے علی دا پہلا نمبر
+از ازل تا روزِ محشر بس علی اے دل دے اندر
+مولا ہر سو اے تیری خوشبو مولا ہُو
+
+۲
+اپنے عشق چے کر دے مینوں اینج فنا سائیں
+میں نہ ہوواں تُو ہوویں یاں تیری پرچھائیاں
+مولا کر دے دنیا توں انجان مولا ہُو
+
+۳
+تیری چوکھٹ کے دربان سلمان و ابوذر ہیں
+اور گلی کے سگ دیکھوں تو لال قلندر ہیں
+مولا درزی ہے تیرا رضوان مولا ہُو
+
+۴
+پگاں والیو نام جپو مولا نام
+روزے حج نمازاں توں وی نئیں مکنا رولا
+مولا جے نہ تینوں منے ہر بندہ مولا
+مولا تُوں اے عملاں دی میزان مولا ہُو
+
+۵
+تُو انعام ہے نعمتِ عظمیٰ تیری ولایت ہے
+دل میں تیرا پیار ہو تو ہر سانس عبادت ہے
+مولا تُو ہی ملنگوں کی ہے جان مولا ہُو
+
+۶
+پگاں والیو نام جپو مولا نام
+کر دے اس قابل ہو پاؤں تیرے سامنے پیش
+دنیا سے بیگانہ کر دے، کر دے مجھے درویش
+مولا کر دے محسن پہ احسان مولا ہُو
+
+۷
+نہ میں مومن وچ مسیت آں
+نہ میں پاکاں وچ پلید آں
+نہ میں وچ کفر دیاں ریت آں
+نہ میں موسیٰ نہ میں فرعون
+بلھیا کی جانڑا میں کون
+وے بلھیا اساں مرنا نہیں
+گور پیا کوئی ہور

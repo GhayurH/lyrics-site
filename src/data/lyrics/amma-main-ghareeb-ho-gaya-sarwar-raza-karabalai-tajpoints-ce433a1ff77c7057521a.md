@@ -1,44 +1,79 @@
 ---
-title: "Amma Main Ghareeb Ho Gaya Sarwar Raza Karabalai"
+title: "اماں میں غریب ہو گیا سرور رضا کربلائی"
+alternateTitle: "Amma Main Ghareeb Ho Gaya Sarwar Raza Karabalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Amma main ghareeb ho gaya Sarwar Raza Karabalai
+
+  1
+  Utha ke gaud mein mujhe kaha tha tum ne ba Khuda
+  Hussain mera badshah Hussain mera ladla
+  Bina tumhare kaun ab sunaye mujh ko loriyaan
+  Bina tumhare kis tarha jiyon bhala meri maa
+  Janaza maa ka jab utha yeh Shah-e-Dein ne di sada
+  Haan aakhri dafa mujhe laga lo seene se zara
+
+  2
+  Tumhare bina bhala mujhe sakon aaye kis tarha
+  Sakon mera kho gaya qarrar mera kho gaya
+  Tamacha maa ko jis ghari Hasan ke samne laga
+  Batool roti reh gayi Hasan bhi rota reh gaya
+  Haan aasman hill gaya woh farsh pe hai zalzala
+  Hasan ne bhar ke siskiyaan haan zair-e-lab yeh keh diya
+
+  3
+  Pukari Zainab-e-Hazeen na chor jao maa abhi
+  Yateem ban ke kis tarha guzaron gi main zindagi
+  Addo jo ho gaye sabhi zamana hai yeh ajnabi
+  Roi Bint-e-Syeda sun ke bhai ki sada
+  Laga jo neza seene par Hussain ke jawan ko
+  Tu hath rakh ke seene par Hussain ne ki guftgu
+
+  4
+  Hai neza seene mein gara karon main kaisay justaju
+  Sada yeh tab suni gayi hai Karbala mein chaar so
+  Utha janaza Bibi ka malak bhi roye ba Khuda
+  Aye:ASIF-E-: hazeen abhi qalam ko rook lo zara
+  Parho yeh dil se ja baja Aye:SARWAR-E-RAZ: sada
+  Haan kano mein jo aati hai Hussain ki woh ik sada
 ---
 
-Amma Main Ghareeb Ho Gaya Sarwar Raza Karabalai.
+اماں میں غریب ہو گیا سرور رضا کربلائی
 
-1
-Utha Ke Gaud Mein Mujhe Kaha Tha Tum Ne Ba Khuda.
-Hussain Mera Badshah Hussain Mera Ladla.
-Bina Tumhare Kaun Ab Sunaye Mujh Ko Loriyaan.
-Bina Tumhare Kis Tarha Jiyon Bhala Meri Maa.
-Janaza Maa Ka Jab Utha Yeh Shah-e-Dein Ne Di Sada.
-Haan Aakhri Dafa Mujhe Laga Lo Seene Se Zara.
+۱
+اٹھا کے گود میں مجھے کہا تھا تم نے بخدا
+حسین میرا بادشاہ حسین میرا لاڈلا
+بنا تمہارے کون اب سنائے مجھ کو لوریاں
+بنا تمہارے کس طرح جیوں بھلا میری ماں
+جنازہ ماں کا جب اٹھا یہ شاہِ دیں نے دی صدا
+ہاں آخری دفعہ مجھے لگا لو سینے سے ذرا
 
-2
-Tumhare Bina Bhala Mujhe Sakon Aaye Kis Tarha.
-Sakon Mera Kho Gaya Qarrar Mera Kho Gaya.
-Tamacha Maa Ko Jis Ghari Hasan Ke Samne Laga.
-Batool Roti Reh Gayi Hasan Bhi Rota Reh Gaya.
-Haan Aasman Hill Gaya Woh Farsh Pe Hai Zalzala.
-Hasan Ne Bhar Ke Siskiyaan Haan Zair-e-Lab Yeh Keh Diya.
+۲
+تمہارے بنا بھلا مجھے سکون آئے کس طرح
+سکون میرا کھو گیا قرار میرا کھو گیا
+طمانچہ ماں کو جس گھڑی حسن کے سامنے لگا
+بتول روتی رہ گئی حسن بھی روتا رہ گیا
+ہاں آسمان ہل گیا وہ فرش پہ ہے زلزلہ
+حسن نے بھر کے سسکیاں ہاں زیرِ لب یہ کہہ دیا
 
-3
-Pukari Zainab-e-Hazeen Na Chor Jao Maa Abhi.
-Yateem Ban Ke Kis Tarha Guzaron Gi Main Zindagi.
-Addo Jo Ho Gaye Sabhi Zamana Hai Yeh Ajnabi.
-Roi Bint-e-Syeda Sun Ke Bhai Ki Sada.
-Laga Jo Neza Seene Par Hussain Ke Jawan Ko.
-Tu Hath Rakh Ke Seene Par Hussain Ne Ki Guftgu.
+۳
+پکاری زینبِ حزیں نہ چھوڑ جاؤ ماں ابھی
+یتیم بن کے کس طرح گزاروں گی میں زندگی
+عدو جو ہو گئے سبھی زمانہ ہے یہ اجنبی
+روئی بنتِ سیدہ سن کے بھائی کی صدا
+لگا جو نیزہ سینے پر حسین کے جواں کو
+تو ہاتھ رکھ کے سینے پر حسین نے کی گفتگو
 
-4
-Hai Neza Seene Mein Gara Karon Main Kaisay Justaju.
-Sada Yeh Tab Suni Gayi Hai Karbala Mein Chaar So.
-Utha Janaza Bibi Ka Malak Bhi Roye Ba Khuda.
-Aye:ASIF-E-: Hazeen Abhi Qalam Ko Rook Lo Zara.
-Parho Yeh Dil Se Ja Baja Aye:SARWAR-E-RAZ: Sada.
-Haan Kano Mein Jo Aati Hai Hussain Ki Woh Ik Sada.
+۴
+ہے نیزہ سینے میں گڑا کروں میں کیسے جستجو
+صدا یہ تب سنی گئی ہے کربلا میں چار سو
+اٹھا جنازہ بی‌بی کا ملک بھی روئے بخدا
+اے آصفِ حزیں ابھی قلم کو روک لو ذرا
+پڑھو یہ دل سے جا بجا اے سرورِ راز صدا
+ہاں کانوں میں جو آتی ہے حسین کی وہ اک صدا

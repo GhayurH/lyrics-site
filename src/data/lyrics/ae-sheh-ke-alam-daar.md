@@ -35,8 +35,8 @@ romanLyrics: |-
   Hoti huṅ dil afgaar, hoti huṅ dil afgaar, ae Sheh ke alam daar alam daar
 
   5
-  Ammaṅ ka chaman ujra pardes meiṅ ae bhaiya
-  Hum dasht meiṅ tanha haiṅ chaaroṅ taraf aada haiṅ
+  Ammaṅ ka chaman ujra pardes mein ae bhaiya
+  Hum dasht mein tanha haiṅ chaaroṅ taraf aada haiṅ
   Mar jaae na bimaar, mar jaae na bimaar, ae Sheh ke alam daar alam daar
 
   6
@@ -45,33 +45,33 @@ romanLyrics: |-
   Mahshar ke haiṅ aasaar, mahshar ke haiṅ aasaar, ae Sheh ke alam daar alam daar
 
   7
-  Jhule meiṅ nahiṅ Asghar lori de kise maadar
+  Jhule mein nahiṅ Asghar lori de kise maadar
   Darwaaza-e-khaima par kehti hai wo ro ro kar
-  Maiṅ kis ko karuṅ pyaar, maiṅ kis ko karuṅ pyaar, ae Sheh ke alam daar alam daar
+  Main kis ko karuṅ pyaar, main kis ko karuṅ pyaar, ae Sheh ke alam daar alam daar
 
   8
-  Bachchoṅ ko huṅ maiṅ roi keh sakta nahiṅ koi
+  Bachchoṅ ko huṅ main roi keh sakta nahiṅ koi
   Wo bhai ka sadqa the bas is liye zinda the
   Kya un se sarokaar, kya un se sarokaar, ae Sheh ke alam daar alam daar
 
   9
   Jaati huṅ sar-e-zindaaṅ ae bhai sar-e-uryaaṅ
   Baazu haiṅ rasan basta purkhaar bahut rasta
-  Nazroṅ meiṅ hai darbaar, nazroṅ meiṅ hai darbaar, ae Sheh ke alam daar alam daar
+  Nazroṅ mein hai darbaar, nazroṅ mein hai darbaar, ae Sheh ke alam daar alam daar
 
   10
   Akbar ne sinaaṅ khaai mujh ko na ajal aai
   Sina hua do paara nezoṅ se use maara
-  Maiṅ us ki huṅ ghamkhwaar, maiṅ us ki huṅ ghamkhwaar, ae Sheh ke alam daar alam daar
+  Main us ki huṅ ghamkhwaar, main us ki huṅ ghamkhwaar, ae Sheh ke alam daar alam daar
 
   11
-  Maiṅ laut ke aauṅ gi marqad bhi banaauṅ gi
-  Maiṅ duṅ gi kafan tujh ko mohlat de agar mujh ko
+  Main laut ke aauṅ gi marqad bhi banaauṅ gi
+  Main duṅ gi kafan tujh ko mohlat de agar mujh ko
   Ae mere wafaadaar, ae mere wafaadaar, ae Sheh ke alam daar alam daar
 
   12
   Rehaan qalam roya jab likh chuka ye noha
-  Majlis meiṅ hua maatam jab aaya tera parcham
+  Majlis mein hua maatam jab aaya tera parcham
   Rote the azaadaar, rote the azaadaar, ae Sheh ke alam daar alam daar
 reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 ---

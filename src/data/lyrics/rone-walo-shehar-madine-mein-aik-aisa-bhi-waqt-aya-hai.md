@@ -8,58 +8,60 @@ poet: "Tauqeer Kamalvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Rone Walo Shehar Madine Mein Aik Aisa Bhi Waqt Aya Hai"
-romanLyrics: 'Rone Walo Shehar Madine Mein Aik Aisa Bhi Waqt Aya Hai.
-
-  Kalma Goyoun Ne Kalma Walon Ko Bahre Darbar Mein Rolaya Hai.
-
-  Hai Muqadma Rasool Zadi Ka Bahre Darbar Mein Woh Ayi Hai.
-
-  Jin Pe Allah Nabi Darood Parhe Aise Farzand Sath Layi Hai.
-
+alternateTitle: "Rone Waloṅ Shehar Madine Meiṅ Aik Aisa Bhi Waqt Aaya Hai"
+romanLyrics: |-
+  Rone waloṅ shehar Madine meiṅ
 
   1
-
-  Gasban-e-Fidak Ne Phir Kaise Unn Gawahoon Ka Dill Dukhaya Hai.
-
-  Masnad-e-Mustafa Pe Ghasib Hai Samne Mustafa Ki Beti Hai.
-
-  Mera Haq De Do Aye Musalmano Ro Ke Khair-ul-Nisa Ye Kehti Hai.
-
-  Mere Baba Ke Baad Kyun Tum Ne Fatima Pe Yeh Zulm Dhaya Hai.
-
+  Aik aisa bhi waqt aaya hai
+  Kalma goyoṅ ne kalma waloṅ ko
+  Bhare darbaar meiṅ rulaaya hai
+  Hai muqadma Rasul zaadi ka
+  Bhare darbaar meiṅ woh aayi hai
+  Jin pe Allah bhi durud parhe
+  Aise farzand saath laayi hai
+  Ghaasibaan-e-Fidak ne phir kaise
+  Un gawaahoṅ ka dil dukhaaya hai
 
   2
-
-  Bola Be Zarf Aye Nabi Zadi Tere Haq Tu Main Janta Hi Nahi.
-
-  Jo Likhi Thi Tumhare Baba Ne Main Wo Tehreer Manta Hi Nahi.
-
-  Chaak Kar De Sanad Muhmmad Ki Kehka Zoor Se Lagaya Hai.
-
-  Qabar-e-Ahmad Pe Je Ke Kehne Lagin Fatima Ko Naheef Kar Dala.
-
+  Masnad-e-Mustafa pe ghaalib hai
+  Saamne Mustafa ki beti hai
+  Mera haq de do ae Musalmano
+  Ro ke Khair-un-Nisa yeh kehti hai
+  Mere baaba ke baad kiuṅ tum ne
+  Fatima pe yeh zulm dhaaya hai
 
   3
-
-  Dekho Baba Tumhari Umat Ne Kitna Mujh Ko Zaeef Kar Dala.
-
-  Mera Mohsin Shaheed Kar Dala Mere Pehlu Pe Dar Giraya Hai.
-
-  Fatima Syeda Ko Baba Ki Gar Virasat Pe Ikhtiyar Nahi.
-
-  Phir Wo Orat Nabi Ke Hujray Ki Aye Musalmano Virsa Daar Nahi.
-
+  Bola bezarf ae Nabi zaadi
+  Tere haq ko main jaanta hi nahiṅ
+  Jo likhi thi tumhaare baaba ne
+  Main woh tahrir maanta hi nahiṅ
+  Chaak kar di sanad Muhammad ki
+  Qahqaha zor se lagaaya hai
 
   4
+  Qabr-e-Ahmad pe ja ke kehne lagiṅ
+  Fatima ko nahif kar daala
+  Dekho baaba tumhaari ummat ne
+  Kitna mujh ko zaif kar daala
+  Mera Mohsin shahid kar daala
+  Mere pehlu pe dar giraaya hai
 
-  Jiss Ne Maula Hassan Ki Maiyat Pe Teer Khud Hathon Se Khud Chalaya Hai.
+  5
+  Fatima Sayyida ko baaba ki
+  Gar wiraasat pe ikhtiyaar nahiṅ
+  Phir woh aurat Nabi ke hujre ki
+  Ae Musalmano wirsa daar nahiṅ
+  Jis ne Maula Hasan ki mayyat pe
+  Tir haathoṅ se khud chalaaya hai
 
-  Gham-e-Aal-e-Aaba Mein Rehta Hai Zikar-e-Shabir Aam Karta Hai.
-
-  Matami Tu Tauqeer Nohon Mein Iss Liye Bhi Salam Karta Hai.
-
-  Iss Ne Bibi Batool Ke Gham Mein Dill Ko Bait-ul-Huzan Banaya Hai.'
+  6
+  Gham-e-Aal-e-Aba meiṅ rehta hai
+  Zikr-e-Shabbir aam karta hai
+  Maatami tauq o tir nauhoṅ meiṅ
+  Is liye bhi salaam karta
+  Jis ne Bibi Batul ke gham meiṅ
+  Dil ko Bait-ul-Hazan banaaya hai
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 ---
 

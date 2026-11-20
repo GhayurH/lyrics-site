@@ -1,32 +1,54 @@
 ---
-title: "Kon Kar Sakta Hai Iss Qadar Inayat Pori"
+title: "کون کر سکتا ہے اس قدر عنایت پوری"
+alternateTitle: "Kon Kar Sakta Hai Iss Qadar Inayat Pori"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kon kar sakta hai iss qadar inayat pori
+  Dar-e-Abbas pe ho jati hai hajat pori
+
+  1
+  Char Shaban ko bolay yeh Hussain Ibn-e-Ali
+  Karbala aaj hoi teri zarorat pori
+  Kal alam mujh ko mile ga thi yeh sab ki khuwaish
+  Par sahaba ki na ho payi yeh hasrat pori
+
+  2
+  Gar ibadat se hata de koi nuqta ba ka
+  Khali ho jati hai iss banday ki ibadat pori
+  Aaj bhi kehte hai yeh molvi Shiya kafir
+  Jin ko bivi se bhi milti nahi izzat pori
+
+  3
+  Parda-e-Ghaiab mein hai lal wilayat tu kya
+  Aaj bhi karta hai sab ki woh hidayat pori
+  Yousufi kehta hai likh ke yeh qasida khud se
+  Ho gayi mere qalam ki youn taharat pori
 ---
 
-Kon Kar Sakta Hai Iss Qadar Inayat Pori.
-Dar-e-Abbas Pe Ho Jati Hai Hajat Pori.
+کون کر سکتا ہے اس قدر عنایت پوری
+درِ عباس پہ ہو جاتی ہے حاجت پوری
 
-1
-Char Shaban Ko Bolay Yeh Hussain Ibn-e-Ali.
-Karbala Aaj Hoi Teri Zarorat Pori.
-Kal Alam Mujh Ko Mile Ga Thi Yeh Sab Ki Khuwaish.
-Par Sahaba Ki Na Ho Payi Yeh Hasrat Pori.
+۱
+چار شعبان کو بولے یہ حسین ابنِ علی
+کربلا آج ہوئی تیری ضرورت پوری
+کل علم مجھ کو ملے گا تھی یہ سب کی خواہش
+پر صحابہ کی نہ ہو پائی یہ حسرت پوری
 
-2
-Gar Ibadat Se Hata De Koi Nuqta Ba Ka.
-Khali Ho Jati Hai Iss Banday Ki Ibadat Pori.
-Aaj Bhi Kehte Hai Yeh Molvi Shiya Kafir.
-Jin Ko Bivi Se Bhi Milti Nahi Izzat Pori.
+۲
+گر عبادت سے ہٹا دے کوئی نقطہ با کا
+خالی ہو جاتی ہے اس بندے کی عبادت پوری
+آج بھی کہتے ہیں یہ مولوی شیعہ کافر
+جن کو بیوی سے بھی ملتی نہیں عزت پوری
 
-3
-Parda-e-Ghaiab Mein Hai Lal Wilayat Tu Kya.
-Aaj Bhi Karta Hai Sab Ki Woh Hidayat Pori.
- Yousufi Kehta Hai Likh Ke Yeh Qasida Khud Se.
-Ho Gayi Mere Qalam Ki Youn Taharat Pori.
+۳
+پردۂ غیب میں ہے لعلِ ولایت تو کیا
+آج بھی کرتا ہے سب کی وہ ہدایت پوری
+یوسفی کہتا ہے لکھ کے یہ قصیدہ خود سے
+ہو گئی میرے قلم کی یوں طہارت پوری

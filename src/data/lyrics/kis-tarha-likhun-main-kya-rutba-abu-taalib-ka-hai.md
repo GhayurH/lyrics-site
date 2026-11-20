@@ -1,7 +1,7 @@
 ---
 title: "کس طرح لکھوں میں کیا رتبہ ابو طالب کا ہے"
 recitationId: "kis-tarha-likhun-main-kya-rutba-abu-talib-ka-hai"
-alternateTitle: "Kis Tarha Likhuṅ Maiṅ Kya Rutba Abu Taalib Ka Hai"
+alternateTitle: "Kis Tarha Likhuṅ Main Kya Rutba Abu Taalib Ka Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["kis-tarha-likhon-main-kya-rutba-abu-talib-ka-hai-lyrics-2018"]
 published: true
 romanLyrics: |-
-  Kis tarha likhuṅ maiṅ kya rutba Abu Taalib ka hai
+  Kis tarha likhuṅ main kya rutba Abu Taalib ka hai
   Mustafa jis ka parheṅ kalma Abu Taalib ka hai
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Jaata hai jo su-e-haq jaada Abu Taalib ka hai
 
   2
-  Naaz se tere Nabi bachpan ke is aalam meiṅ bhi
+  Naaz se tere Nabi bachpan ke is aalam mein bhi
   Ghumte the jis pe wo shaana Abu Taalib ka hai
 
   3
@@ -27,28 +27,28 @@ romanLyrics: |-
   Khaaliq-e-Akbar ko ye waada Abu Taalib ka hai
 
   4
-  Naam hai Imraan to phir dekh lo Quraan meiṅ
+  Naam hai Imraan to phir dekh lo Quraan mein
   Aal-e-Imraan ka bhi to sura Abu Taalib ka hai
 
   5
-  Uthta hai har daur meiṅ baatil ke jo rukhsaar par
-  Maatami ke rup meiṅ panja Abu Taalib ka hai
+  Uthta hai har daur mein baatil ke jo rukhsaar par
+  Maatami ke rup mein panja Abu Taalib ka hai
 
   6
   Sun lo ae naapaak naslo aap ke ajdaad par
   Ibtida hi se raha ghalba Abu Taalib ka hai
 
   7
-  Paas mat jaana wahaaṅ bistar meiṅ jo maujud hai
+  Paas mat jaana wahaaṅ bistar mein jo maujud hai
   Hai nahiṅ wo khud magar naqsha Abu Taalib ka hai
 
   8
-  Lo kiye deta huṅ maiṅ talkhis un ke shaan ki
-  Saari dunya Rab ki hai qabza Abu Taalib ka hai
+  Lo kiye deta huṅ main talkhis un ke shaan ki
+  Saari duniya Rab ki hai qabza Abu Taalib ka hai
 
   9
-  Ahliyat itni kahaaṅ thi tujh meiṅ Zaakir Yusufi
-  Rup meiṅ ashaar ke tohfa Abu Taalib ka hai
+  Ahliyat itni kahaaṅ thi tujh mein Zaakir Yusufi
+  Rup mein ashaar ke tohfa Abu Taalib ka hai
 ---
 
 کس طرح لکھوں میں کیا رتبہ ابو طالب کا ہے

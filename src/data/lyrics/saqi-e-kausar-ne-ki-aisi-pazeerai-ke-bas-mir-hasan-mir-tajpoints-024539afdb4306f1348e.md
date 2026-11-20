@@ -1,23 +1,36 @@
 ---
-title: "Saqi-e-Kausar Ne Ki Aisi Pazeerai Ke Bas Mir Hasan Mir"
+title: "ساقیِ کوثر نے کی ایسی پذیرائی کہ بس میر حسن میر"
+alternateTitle: "Saqi-e-Kausar Ne Ki Aisi Pazeerai Ke Bas Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarosh"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Saqi-e-Kausar ne ki aisi pazeerai ke bas Mir Hasan Mir
+  Phir bhi mere jaam se kab yeh sada aayi ke bas
+  Aik din mein likhne baitha tha shab-e-hijrat ka haal
+  Kya kahoon yaro mujhe kuch aisi neend aayi ke bas
+
+  2
+  Phir khiyal aaya Elahi kaisi ho gi Zulfiqar
+  Samne aankhon ke aisi barq lehrai ke bas
+  Inn farishton ne abhi pocha hi kya tha aye Sarosh
+  Dafattan mere sirhane se sada aayi ke bas
 ---
 
-1
-Saqi-e-Kausar Ne Ki Aisi Pazeerai Ke Bas Mir Hasan Mir.
-Phir Bhi Mere Jaam Se Kab Yeh Sada Aayi Ke Bas.
-Aik Din Mein Likhne Baitha Tha Shab-e-Hijrat Ka Haal.
-Kya Kahoon Yaro Mujhe Kuch Aisi Neend Aayi Ke Bas.
+۱
+ساقیِ کوثر نے کی ایسی پذیرائی کہ بس میر حسن میر
+پھر بھی میرے جام سے کب یہ صدا آئی کہ بس
+ایک دن میں لکھنے بیٹھا تھا شبِ ہجرت کا حال
+کیا کہوں یارو مجھے کچھ ایسی نیند آئی کہ بس
 
-2
-Phir Khiyal Aaya Elahi Kaisi Ho Gi Zulfiqar.
-Samne Aankhon Ke Aisi Barq Lehrai Ke Bas.
-Inn Farishton Ne Abhi Pocha Hi Kya Tha Aye Sarosh.
-Dafattan Mere Sirhane Se Sada Aayi Ke Bas.
+۲
+پھر خیال آیا الٰہی کیسی ہو گی ذوالفقار
+سامنے آنکھوں کے ایسی برق لہرائی کہ بس
+ان فرشتوں نے ابھی پوچھا ہی کیا تھا اے سروش
+دفعتاً میرے سرہانے سے صدا آئی کہ بس

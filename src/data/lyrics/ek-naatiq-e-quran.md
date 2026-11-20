@@ -14,31 +14,31 @@ published: true
 romanLyrics: |-
   Ae Naatiq-e-Quraaṅ ya Maula
   Ae Waaris-e-Quraaṅ ya Maula
-  Ek Naatiq-e-Quraaṅ neze par Quran sunaata jaata hai
+  Ik Naatiq-e-Quraaṅ neze par Quraan sunaata jaata hai
   Aur Waaris-e-Quraaṅ marqad meiṅ haaye khaak uraata jaata hai
 
   1
-  Quran-e-masaaib ke sar se juzdaan utaare jaate haiṅ
-  Ek ek aayat ke sine meiṅ khanjar jo utaare jaate haiṅ
-  Quran ke haafiz ke haathoṅ Quran jalaaya jaata hai
+  Quraan-e-masaaib ke sar se juzdaan utaare jaate haiṅ
+  Ik ek aayat ke sine meiṅ khanjar jo utaare jaate haiṅ
+  Quraan ke haafiz ke haathoṅ Quraan jalaaya jaata hai
 
   2
-  Ek chhota sa Quran abhi neze pe jo maiṅ ne dekha hai
+  Ik chhota sa Quraan abhi neze pe jo maiṅ ne dekha hai
   Seh pehlu tir se us ka gala takbir suna kar chheda hai
-  Ek rehl numa jhule ko sar-e-maidaan jalaaya jaata hai
+  Ik rehl numa jhule ko sar-e-maidaan jalaaya jaata hai
 
   3
-  Quran sifat wo do bachche jo dosh-e-Nabi ke raakib the
-  Wo jin ke gale Mehbub-e-Khuda chuma karte the aaṅkhoṅ se
+  Quraan sifat wo do bachche jo dosh-e-Nabi ke raakib the
+  Wo jin ke gale Mahbub-e-Khuda chuma karte the aaṅkhoṅ se
   Kabhi zehr pilaaya jaata hai tiroṅ pe sulaaya jaata hai
 
   4
-  Quran ka parda rakhna hai ae Umm-e-Abiha teri tarah
+  Quraan ka parda rakhna hai ae Umm-e-Abiha teri tarah
   Sajjad ki majburi dekho tarpa hai kisi machhli ki tarah
   Kausar si chhoti aayat ko turbat meiṅ chhupaaya jaata hai
 
   5
-  Kuchh chhoti bari aayaat bhi thiṅ ek sura bhi qaidi dekha
+  Kuchh chhoti bari aayaat bhi thiṅ ik sura bhi qaidi dekha
   Baazaar-e-sitam meiṅ beparda suraj ne wo chehra bhi dekha
   Jise Saani-e-Zahra kehte hue palkoṅ ko jhukaaya jaata hai
 
@@ -49,16 +49,16 @@ romanLyrics: |-
 
   7
   Ae kalma go kuchh sharm to kar ae qaari-e-Quraaṅ dub ke mar
-  Quran-e-imaamat ki dukhtar kis tarah kare kaaṅtoṅ pe safar
-  In pairoṅ ke riste khuṅ se zam zam ko banaaya jaata hai
+  Quraan-e-imaamat ki dukhtar kis tarah kare kaaṅtoṅ pe safar
+  In pairoṅ ke riste khuṅ se Zamzam ko banaaya jaata hai
 
   8
   Beghusl o kafan kitne Quraaṅ paamaal kiye haaye haaye
-  Afsos ke baa-e-Bismillah nezoṅ pe utha ke le aaye
-  Quran ki hurmat lut ke ye kiuṅ jashn manaaya jaata hai
+  Afsos keh baa-e-Bismillah nezoṅ pe utha ke le aaye
+  Quraan ki hurmat lut ke ye kiuṅ jashn manaaya jaata hai
 
   9
-  Chausath paare rastoṅ meiṅ gire aaghosh se apni maaoṅ ki
+  Chaunsath paare rastoṅ meiṅ gire aaghosh se apni maaoṅ ki
   Khuṅ rang hui raahoṅ ki zamiṅ in bachchoṅ ki turbat na bani
   In ujri god ki maaoṅ ko phir khun rulaaya jaata hai
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   Wo jin ke pasine se Kaabe ko ghusl karaaya jaata hai
 
   11
-  Quran-e-aza hai farsh-e-aza Raihaan-e-aza Rizwaan-e-aza
+  Quraan-e-aza hai farsh-e-aza Raihaan-e-aza Rizwaan-e-aza
   Ye noha-e-gham rudaad-e-sitam Zahra ki qasam bar dosh-e-hawa
   Majlis meiṅ suna kar Zahra ko mehmaan banaaya jaata hai
 ---

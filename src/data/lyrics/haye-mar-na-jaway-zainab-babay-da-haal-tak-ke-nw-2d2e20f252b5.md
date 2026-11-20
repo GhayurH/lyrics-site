@@ -1,45 +1,68 @@
 ---
-title: "Haye Mar Na Jaway Zainab Babay Da Haal Tak Ke"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے مر نہ جاوے زینب بابے دا حال تک کے"
+alternateTitle: "Haye Mar Na Jaway Zainab Babay Da Haal Tak Ke"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye mar na jaway Zainab babay da haal tak ke
+  Sun ke hi haal pyu da, saa chal raye ne ruk ke
+
+  1
+  Badal yateemi de kyun, dhiyan de sir te chaye
+  Teray bajoun muk jaane ne, dhiyan ton sukh de saaye
+  Armaan saray beh gaye, hanjuan de naal luk ke
+
+  2
+  Karbal di noha khwani, akhiyan ch aa rahi hai
+  Sir nangay teri Zainab, haye Shaam jaa rahi hai
+  Teri dhi nu wakhanday ne, sir naizeyan te chuk ke
+
+  3
+  Teray vangu nayi raway ga, Hasnain da vi saaya
+  Rouwain ga tu vi tak ke, ay kinj da vela aaya
+  Haye safar jadoun karne, bazaaran de main jhuk ke
+
+  4
+  Haye roun ton vi pehray, maa Zahra te ne laaye
+  Ghut ghut ke ro rayiaan, ajj baba mein vi haaye
+  Kal roway gi Sakina, zalim layeen ton luk ke
+
+  5
+  Zeeshan janazay te, Zainab ne vain paaye
+  Veeraan de baad kho ke, chadraan de baba saaye
+  Naa Rab da bachaway gi, dhi aap teri muk ke
 ---
 
-Haye Mar Na Jaway Zainab Babay Da Haal Tak Ke
+ہائے مر نہ جاوے زینب بابے دا حال تک کے
+سن کے ہی حال پیو دا، ساہ چل رہے نے رک کے
 
-Sun Ke Hi Haal Pyu Da, Saa Chal Raye Ne Ruk Ke
+۱
+بادل یتیمی دے کیوں، دھیاں دے سر تے چھائے
+تیرے باجھوں مک جانے نے، دھیاں توں سکھ دے سائے
+ارمان سارے بہہ گئے، ہنجواں دے نال لک کے
 
-Badal Yateemi De Kyun, Dhiyan De Sir Te Chaye,
+۲
+کربل دی نوحہ خوانی، اکھیاں چ آ رہی ہے
+سر ننگے تیری زینب، ہائے شام جا رہی ہے
+تیری دھی نوں وکھاندے نے، سر نیزیاں تے چک کے
 
-Teray Bajoun Muk Jaane Ne, Dhiyan Ton Sukh De Saaye,
+۳
+تیرے وانگوں نئی رہوے گا، حسنین دا وی سایا
+روویں گا توں وی تک کے، اے کنج دا ویلا آیا
+ہائے سفر جدوں کرنے، بازاراں دے میں جھک کے
 
-Armaan Saray Beh Gaye, Hanjuan De Naal Luk Ke,
+۴
+ہائے روؤں توں وی پہرے، ماں زہرا تے نے لائے
+گھٹ گھٹ کے رو رہیاں، اج بابا میں وی ہائے
+کل رووے گی سکینہ، ظالم لعین توں لک کے
 
-Karbal Di Noha Khwani, Akhiyan ch Aa Rahi Hai,
-
-Sir Nangay Teri Zainab, Haye Shaam Jaa Rahi Hai,
-
-Teri Dhi Nu Wakhanday Ne, Sir Naizeyan Te Chuk Ke,
-
-Teray Vangu Nayi Raway Ga, Hasnain Da Vi Saaya,
-
-Rouwain Ga Tu Vi Tak Ke, Ay Kinj Da Vela Aaya,
-
-Haye Safar Jadoun Karne, Bazaaran De Main Jhuk Ke,
-
-Haye Roun Ton Vi Pehray, Maa Zahra Te Ne Laaye,
-
-Ghut Ghut Ke Ro Rayiaan, Ajj Baba Mein Vi Haaye,
-
-Kal Roway Gi Sakina, Zalim Layeen Ton Luk Ke,
-
-Zeeshan Janazay Te, Zainab Ne Vain Paaye,
-
-Veeraan De Baad Kho Ke, Chadraan De Baba Saaye,
-
-Naa Rab Da Bachaway Gi, Dhi Aap Teri Muk Ke,
+۵
+ذیشان جنازے تے، زینب نے وین پائے
+ویراں دے بعد کھو کے، چادراں دے بابا سائے
+ناں رب دا بچاوے گی، دھی آپ تیری مک کے

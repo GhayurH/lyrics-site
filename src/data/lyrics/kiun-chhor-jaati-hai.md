@@ -28,13 +28,13 @@ romanLyrics: |-
   Ungli pakar ke chalaaya
   Sine se apne lagaaya
   In tin saaloṅ meiṅ ammaṅ
-  Tum ne bahut kuch sikhaaya
+  Tum ne bahut kuchh sikhaaya
   Maaṅ se bichhar ke jite haiṅ kaise
   Kya ye sikhaati hai maaṅ
 
   2
   Darwaaza jab se gira hai
-  Pehlu shakista hua hai
+  Pehlu shikasta hua hai
   Tuti hui pasliyaaṅ haiṅ
   Shabbir sab jaanta hai
   Taklif meiṅ huṅ bachchoṅ ko apne
@@ -60,13 +60,13 @@ romanLyrics: |-
   Jab se laga taaziyaana
   Mushkil tha mujh ko sulaana
   Jab haath dekha tumhaara
-  Tab jaa ke maiṅ ne ye jaana
+  Tab jaa ke main ne ye jaana
   Ho haath zakhmi phir bhi thapak kar
   Lori sunaati hai maaṅ
 
   6
   Shabbir ne phir sada di
-  Kya chhor jaaogi tum bhi
+  Kya chhor jaao gi tum bhi
   Kiuṅ aisa kehti ho ammaṅ
   Rehti nahiṅ maaṅ kisi ki
   Achchha bataao kya dur jaa ke
@@ -77,8 +77,8 @@ romanLyrics: |-
   Har maaṅ to aati nahiṅ laut ke
   Ae mere dil mere nur-e-nazar
   Zahra ka ab tum se waada hai ye
-  Jab tum bulaaoge aaegi maaṅ
-  Sine se tum ko lagaaegi maaṅ
+  Jab tum bulaao ge aae gi maaṅ
+  Sine se tum ko lagaae gi maaṅ
 
   8
   Ik roz aisa bhi aaya

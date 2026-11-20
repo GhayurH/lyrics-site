@@ -9,20 +9,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Fatema zehra ka ya rab khub hai gulzaar bhi
+  Fatema Zehra ka ya Rab khub hai gulzaar bhi
 
   1
-  Gul hi gul hai aur nazar aata nahi ek khaar bhi
-  Paanch harf islam may hai paanch harf emaan may
-  Panjetan islam hai emaan ka minaar bhi
+  Gul hi gul hai aur nazar aata nahiṅ ik khaar bhi
+  Paanch harf Islaam mein haiṅ paanch harf imaan mein
+  Panjetan Islaam haiṅ imaan ka minaar bhi
 
   2
-  Waqte aakhir roke ye sheh se kaha abbas ne
-  Ran may hoo chahta hoo aaqa aap ka dedaar bhi
+  Waqt-e-aakhir ro ke ye sheh se kaha Abbaas ne
+  Ran mein huṅ chaahta huṅ aaqa aap ka didaar bhi
 
   3
-  Sayyede sajjad ke sar par qayamat aagayi
-  Sar barehna hai haram aur shaam ka bazaar bhi
+  Sayyid-e-Sajjaad ke sar par qayaamat aa gai
+  Sar barehna haiṅ haram aur Shaam ka bazaar bhi
 ---
 
 فاطمہ زہرا کا یارب خوب ہے گلزار بھی

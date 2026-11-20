@@ -13,7 +13,7 @@ tags: []
 aliases: ["Ay Soghwaro Aaho"]
 published: true
 romanLyrics: |-
-  Ae sogwaroṅ aah o buka ka maqam hai
+  Ae sogwaroṅ aah o buka ka maqaam hai
   Ab rukhsat-e-Husain alaihissalaam hai
   Mehmaaṅ tumhaara jaata hai jo tashna kaam hai
   Sar pito khaak uraao ke maatam tamaam hai
@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   Ae jaan-e-Fatima teri khidmat na ho saki
   Mehmaan-e-Nainawa teri khidmat na ho saki
-  Ji bhar ke ro sake na ye gardish nasib ki
+  Ji bhar ro sake na ye gardish nasib ki
   Majlis ye aakhri hai Husain-e-Gharib ki
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
   4
   Tayyaar qaafila hai Shah-e-Mashriqain ka
   Lo Karbala ko jaata hai kunba Husain ka
-  Abbas baawafa Ali Akbar na jaaiye
+  Abbaas baawafa Ali Akbar na jaaiye
   Jhule ko khaali chhor ke Asghar na jaaiye
 
   5
@@ -49,14 +49,14 @@ romanLyrics: |-
   Phir agle saal apne bhare ghar ko laayeṅge
 
   6
-  Bin byaah naujawaaṅ Ali Akbar bhi aayeṅge
+  Bin byaah nau jawaaṅ Ali Akbar bhi aayeṅge
   Mashk o alam ke saath baraadar bhi aayeṅge
   Baano ki god meiṅ Ali Asghar bhi aayeṅge
   Naushaah ban ke Qasim-e-bepar bhi aayeṅge
 
   7
   Zainab ka haath thaame Sakina bhi aayegi
-  Ek shab ki byaahi Fatima Kubra bhi aayegi
+  Ik shab ki byaahi Fatima Kubra bhi aayegi
   Zainab ke laal baandh ke hathyaar aayeṅge
   Sughra mariz Abid-e-bimaar aayeṅge
 
@@ -68,14 +68,14 @@ romanLyrics: |-
 
   9
   Bechain Fatima hai na aansu bahaao tum
-  Maiṅ jaa raha huṅ ro ke na mujhko rulaao tum
+  Maiṅ jaa rahi huṅ ro ke na mujhko rulaao tum
   Zahmat na ho to meri ziyaarat ko aao tum
   Turbat pe aa ke ashkoṅ ki chaadar charhaao tum
 
   10
   Mehmaaṅ jo Karbala meiṅ mere paas aayeṅge
-  Un sab ki peshwaai ko Abbas aayeṅge
-  Lo alwida hota hai rukhsat ye tashna kaam
+  Un sab ki peshwaai ko Abbaas aayeṅge
+  Alwida hota hai rukhsat ye tashna kaam
   Tum ro rahe ho maah-e-Muharram se subh o shaam
 
   11
@@ -85,7 +85,7 @@ romanLyrics: |-
   Ammaa duaaeṅ deti hai aabaad tum raho
 
   12
-  Haaṅ aashiqoṅ Husain ki aah o buka karo
+  Haaṅ aashiqoṅ Husain ke aah o buka karo
   Zehra ka saath do madad-e-Mustafa karo
   Haq-e-mohabbat-e-Shah-e-bekas ada karo
   Ab kuch hai Husain ka mahshar bapa karo
@@ -109,7 +109,7 @@ romanLyrics: |-
   Ae ummat-e-Rasul ke ghamkhwaar alwida
 
   16
-  Aadaab-e-taaziyat na ada hum se ho sake
+  Aadaab-e-taziyat na ada hum se ho sake
   Ae hasrat rahi ke haaye na ji bhar ke ro sake
   Ae Shah-e-Karbala-e-Mualla salaam lo
   Hum bekasoṅ ke waali o Maula salaam lo

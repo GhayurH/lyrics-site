@@ -1,7 +1,7 @@
 ---
 title: "میں لٹ گئی نانا میں لٹ گئی نانا"
 recitationId: "mai-lutgayi-nana"
-alternateTitle: "Maiṅ Lut Gayi Nana"
+alternateTitle: "Maiṅ Lut Gayi Naana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,12 +12,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maiṅ lut gayi nana maiṅ lut gayi nana
-  Karbobala ke ban meiṅ ghar lut gaya mera
+  Maiṅ lut gayi Naana maiṅ lut gayi Naana
+  Karb o Bala ke ban meiṅ ghar lut gaya mera
 
   1
   Aisi tabaahi laaya Aashur ka sawera
-  Kubra ki maang ujri Qasim ka luta sehra
+  Kubra ki maang ujri, Qasim ka luta sehra
   Bejurm gaya maara ik raat ka dulha
 
   2
@@ -28,32 +28,32 @@ romanLyrics: |-
   3
   Zaalim ne tir maara maasum ke gale par
   Pyaasa lahu meiṅ duba beshir Ali Asghar
-  Maqtal meiṅ ro raha tha bhai mera tanha
+  Maqtal meiṅ ro raha tha bhaai mera tanha
 
   4
   Wo jis ka naam pyaase bachchoṅ ki aas tha
   Jis ko laqab mila tha saqqa-e-Sakina
-  Wo bhai lab-e-darya maara gaya pyaasa
+  Wo bhaai lab-e-darya maara gaya pyaasa
 
   5
-  Bachchoṅ ko jis pe maiṅ ne sadqe kiya tha nana
-  Jo mera bhai mujh ko tha jaan se pyaara
-  Paamaal hote dekha us bhai ka laasha
+  Bachchoṅ ko jis pe maiṅ ne sadqe kiya tha Naana
+  Jo mera bhaai mujh ko tha jaan se pyaara
+  Paamaal hote dekha us bhaai ka laasha
 
   6
-  Luta sitamgaroṅ ne mere ghar ko jalaaya
-  Ahl-e-sitam ne nana us dar ko jalaaya
-  Rehta tha jis pe nana Abbas ka pehra
+  Luta sitamgaroṅ ne, mere ghar ko jalaaya
+  Ahl-e-sitam ne Naana us dar ko jalaaya
+  Rehta tha jis pe Naana Abbas ka pehra
 
   7
-  Jis bachchi ka bistar tha mere bhai ka sina
-  Kehta tha mera bhai jise pyaar se Sakina
+  Jis bachchi ka bistar tha mere bhaai ka sina
+  Kehta tha mera bhaai jise pyaar se Sakina
   Zindaaṅ meiṅ kho aayi Zainab wo nagina
 
   8
-  Balwe meiṅ laiṅ laaye jis waqt rasan basta
+  Balwe meiṅ la'iṅ laaye jis waqt rasan basta
   Tha haal ajab Gohar Abbas ki khwaahar ka
-  Majma tha hazaaroṅ ka Zainab thi berida
+  Majma tha hazaaroṅ ka, Zainab thi berida
 ---
 میں لٹ گئی نانا میں لٹ گئی نانا
 کربوبلا کے بن میں گھر لٹ گیا میرا

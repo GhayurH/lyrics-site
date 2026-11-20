@@ -15,14 +15,14 @@ romanLyrics: |-
   Sajde meiṅ sar hai halq pe khanjar ki dhaar hai
   Banda ye kaun aisa ibaadat guzaar hai
   Khaamosh kaise tu mere Parwardigaar hai
-  Dar par behan hai pusht pe qaatil sawaar hai
+  Dar par bahan hai pusht pe qaatil sawaar hai
   Is haal meiṅ bhi lab pe yahi baar baar hai
   Sad shukr sad shukr sad shukr mere ya Rab
 
   1
   Haaṅ ye wohi Husain alaihis salaam hai
   Teri taraf se jis pe durud o salaam hai
-  Sibt-e-Nabi hai ye Shaah-e-Aali Maqaam hai
+  Sibt-e-Nabi hai ye shaah-e-aali maqaam hai
   Jis ke laboṅ pe ek hi kalma mudaam hai
 
   2
@@ -38,7 +38,7 @@ romanLyrics: |-
   Shukr-e-Khuda meiṅ baat wo kiuṅ kar na ye kahe
 
   4
-  Aulaad waaloṅ tum hi karo dil se faisla
+  Aulaad waaloṅ, tum hi karo dil se faisla
   Wo shakhs jis ka beta ho hamshakl-e-Mustafa
   Dekhe usi pisar ka wo sina chhida hua
   Neza nikaalte hue sine se di sada
@@ -46,12 +46,12 @@ romanLyrics: |-
   5
   Rukh su-e-aasmaaṅ kiya Khaaliq ko di sada
   Asghar shahid ho gaya Akbar guzar gaya
-  Lashkar kahaaṅ ka mera biraadar nahiṅ raha
+  Lashkar kahaaṅ ka mera baraadar nahiṅ raha
   Par bekas o malul ne shikwa nahiṅ kiya
 
   6
   Naaraaz tu ho mujh se mujhe kab qabul hai
-  Tu khush ho Ae Karim mujhe sab qabul hai
+  Tu khush ho, ae Karim, mujhe sab qabul hai
   Qaid-e-haram asiri-e-Zainab qabul hai
   Kya tujh ko meri baat ye ya Rab qabul hai
 
@@ -59,10 +59,10 @@ romanLyrics: |-
   Zakhmoṅ se chur chur tha jab Fatima ka laal
   Lakht-e-dil-e-Ali o Nabi gham se tha nidhaal
   Chehre pe khun mal ke basad hasrat o malaal
-  Ki arz Shah ne shukr hai Ae Rabb-e-Zuljalaal
+  Ki arz shah ne, shukr hai ae Rabb-e-Zuljalaal
 
   8
-  Kaise kahuṅ Rehaan jo Shah par guzar gayi
+  Kaise kahuṅ, Rehaan, jo shah par guzar gayi
   Bete shahid ho gaye bachchi bichhar gayi
   Zainab dayaar-e-Shaam meiṅ jab nange sar gayi
   Nok-e-sinaaṅ se su-e-falak ye khabar gayi

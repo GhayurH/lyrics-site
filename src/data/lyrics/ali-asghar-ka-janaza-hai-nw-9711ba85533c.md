@@ -1,32 +1,47 @@
 ---
-title: "Ali Asghar Ka Janaza Hai"
+title: "علی اصغر کا جنازہ ہے"
+alternateTitle: "Ali Asghar Ka Janaza Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali Asghar ka janaza hai Shabbir ko pursa do
+  Khawhish hai Sakina ki Sughra ko he bulwa do
+
+  1
+  Pooch hai Sakina ne baba sai ye hasrat hai
+  Mayyat pe mein jhirkoungi
+  Ek jaam mujhe laado
+
+  2
+  Asghar ka galla zakhmi aur ma ka jigger chalni
+  Kitnay hi jainazay hain
+  Hurmal ko yeh samjha do
+
+  3
+  Thanha hai khara run main koee bhi nahi sathi
+  Shabbir bulla thay hain
+  Roo-thay howay shehzadon
 ---
 
-Ali Asghar Ka Janaza Hai Shabbir Ko Pursa Do
+علی اصغر کا جنازہ ہے شبیر کو پرسہ دو
+خواہش ہے سکینہ کی صغریٰ کو ہی بلوا دو
 
-Khawhish Hai Sakina Ki  Sughra Ko He Bulwa Do.
+۱
+پوچھ ہے سکینہ نے بابا سے یہ حسرت ہے
+میت پہ میں جھڑکوں گی
+ایک جام مجھے لا دو
 
-Pooch Hai Sakina Ne Baba Sai Ye Hasrat Hai
+۲
+اصغر کا گلا زخمی اور ماں کا جگر چھلنی
+کتنے ہی جنازے ہیں
+حرمل کو یہ سمجھا دو
 
-Mayyat Pe Mein Jhirkoungi
-
-Ek Jaam Mujhe Laado.
-
-Asghar Ka Galla Zakhmi Aur Ma Ka Jigger Chalni
-
-Kitnay Hi Jainazay Hain
-
-Hurmal Ko Yeh Samjha Do.
-
-Thanha Hai Khara Run Main Koee Bhi Nahi Sathi
-
-Shabbir Bulla Thay Hain
-
-Roo-thay Howay Shehzadon
+۳
+تنہا ہے کھڑا رن میں کوئی بھی نہیں ساتھی
+شبیر بلاتے ہیں
+روٹھے ہوئے شہزادو

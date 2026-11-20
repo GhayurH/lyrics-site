@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Shahid-e-Karbala hai din ki baqa,
-  Zabih-e-Nainawa Husain baadshaah
+  Zabih hai Nainawa Husain baadshaah
 
   Hashr meiṅ rang laayega khun-e-shahidaaṅ dekhna
   Aayeṅgi jab Fatema, haal-e-pareshaaṅ dekhna
@@ -21,11 +21,11 @@ romanLyrics: |-
   1
   Rubaru Baba ke jab Khaatun-e-jannat aayeṅgi
   Khaali jholi Sarwar-e-kaunain ko dikhlaayegi
-  Bil yaqin tharraayega mahshar ka maidaaṅ dekhna
+  Bilyaqin tharraayega mahshar ka maidaaṅ dekhna
 
   2
   Rakh diya barchhi ne Akbar ka kaleja chir ke
-  Rukh badal daale hai ummat ne teri tasvir ke
+  Rukh badla dil hai ummat ne teri tasvir ke
   Maalik-e-Kausar zara ummat ke ehsaaṅ dekhna
 
   3
@@ -34,7 +34,7 @@ romanLyrics: |-
   Nehr se paani nahiṅ dete musalmaaṅ dekhna
 
   4
-  Zainab o Kulsum se kehta tha Shimr-e-badgauhar
+  Zainab o Kulsum se kehta tha Shimr-e-bad gauhar
   Shaam meiṅ jaaogi nange sar phirogi dar badar
   Karbala ke baad ab taarik zindaaṅ dekhna
 

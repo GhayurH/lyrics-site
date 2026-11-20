@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Andheri qaid hai ab sans meri thamne wali hai
+  Andheri qaid hai ab saans meri thamne wali hai
   Chale aao mere baba Sakina marne wali hai
 
   1
-  Reha ho kar chale jayaiṅ ge sab hi apne apne ghar
-  Magar beti tumhari jan ab de de gi ro ro kar
+  Riha ho kar chale jaaeṅ ge sab hi apne apne ghar
+  Magar beti tumhari jaan ab de de gi ro ro kar
   Ye lagta hai yahaṅ ab qabar meri banne wali hai
 
   2
-  Ujale may may rehti thi bhula baithe ho kia bolo
-  Jala do shama koi aa ke ye malum hai tum ko
-  Andhare may tumhari bachchi kitna darne wali hai
+  Ujaale mein main rehti thi bhula baithe ho kya bolo
+  Jala do shama koi aa ke ye maalum hai tum ko
+  Andhere mein tumhari bachchi kitna darne wali hai
 
   3
-  Tumhare sine par baba mujhe sone ki adat thi
-  May ashura se ab tak chain se so hi nahi payi
-  Bohat nid aa rahi hai ankh meri lagne wali hai
+  Tumhare sine par baba mujhe sone ki aadat thi
+  Main Ashura se ab tak chain se so hi nahiṅ paai
+  Bohat nind aa rahi hai aankh meri lagne wali hai
 
   4
-  May jis ki muntazir thi moat wo paigham le aayi
-  Tumhare pas aane ki ghari nazdik hai aayi
+  Main jis ki muntazir thi maut wo paighaam le aayi
+  Tumhare paas aane ki ghari nazdik hai aayi
   Mere sar se musibat qaid ki ab talne wali hai
 
   5
-  Mila hukm e rehai hai magar may ghar na jauṅ gi
-  Juda reh kar may sab se sham ka zinda basauṅ gi
+  Mila hukm-e-rihaai hai magar main ghar na jaauṅ gi
+  Juda reh kar main sab se Shaam ka zindaaṅ basaauṅ gi
   Musibat ye bhi ik nanhi si jaaṅ par parne wali hai
 ---
 

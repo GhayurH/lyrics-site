@@ -1,45 +1,76 @@
 ---
-title: "Keh Kya Hai Matami Mughees Hashmmi Lyrics New"
+title: "کہ کیا ہے ماتمی"
+alternateTitle: "Keh Kya Hai Matami"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Soz"
 poet: "Navaid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aao batlata hoon tum ko main keh kya hai matami
+  Saya-e-Zainab mein Zahra ki dua hai matami
+  Sirf Zahra ko hai iss ki qadar-o-qeemat ki khabar
+  Aqal ke idrak se tu mawra hai matami
+  Aasmaan par jab niya tara koi zahir howa
+  Bool uthay arsh-o-zameen paida howa hai matami
+
+  2
+  Taiz hoti ja rahi hai dam ba dam matam ki leh
+  Halqa-e-matam mein koi aa raha hai matami
+  Kis tarha se reh ke zindah rizq patay hain shaheed
+  Kaisay yeh jane koi kya pa raha hai matami
+  Hai basharat koi kya jane hai kya ajar-e-azeem
+  Kya khabar hai matami ko haye kya hai matami
+
+  3
+  Iss ke daman par na uth kar gard-e-dunya aa saki
+  Jaisa aaya waisa dunya se gaya hai matami
+  Nori-o-khaki samajh kar janna aasaan nahi
+  Jane kis tarkeeb-o-teenat se bana hai matami
+  Kya kahon main chalta phirta ik azza khana hai woh
+  Karbala jis mein dikhey woh aaina hai matami
+
+  4
+  Roshni se apni hi roshan hai jo roshan zameen
+  Har azza ki anjuman ka woh diya hai matami
+  Chor de kursi zara aye arsh kar jhuk kar salam
+  Khon mein apne hi doba aa raha hai matami
+  Kya hi sare lafz mein aaye biyaan oss ka Navaid
+  Main ne jo likha hai oss se bhi siwa hai matami
 ---
 
-Keh Kya Hai Matami Mughees Hashmmi Lyrics New
+۱
+آؤ بتلاتا ہوں تم کو میں کہ کیا ہے ماتمی
+سایۂ زینب میں زہرا کی دعا ہے ماتمی
+صرف زہرا کو ہے اس کی قدر و قیمت کی خبر
+عقل کے ادراک سے تو ماورا ہے ماتمی
+آسمان پر جب نیا تارا کوئی ظاہر ہوا
+بول اٹھے عرش و زمین، پیدا ہوا ہے ماتمی
 
-1
-Aao Batlata Hoon Tum Ko Main Keh Kya Hai Matami.
-Saya-e-Zainab Mein Zahra Ki Dua Hai Matami.
-Sirf Zahra Ko Hai Iss Ki Qadar-o-Qeemat Ki Khabar.
-Aqal Ke Idrak Se Tu Mawra Hai Matami.
-Aasmaan Par Jab Niya Tara Koi Zahir Howa.
-Bool Uthay Arsh-o-Zameen Paida Howa Hai Matami.
+۲
+تیز ہوتی جا رہی ہے دم بہ دم ماتم کی لے
+حلقۂ ماتم میں کوئی آ رہا ہے ماتمی
+کس طرح سے رہ کے زندہ رزق پاتے ہیں شہید
+کیسے یہ جانے کوئی کیا پا رہا ہے ماتمی
+ہے بشارت کوئی کیا جانے ہے کیا اجرِ عظیم
+کیا خبر ہے ماتمی کو ہائے کیا ہے ماتمی
 
-2
-Taiz Hoti Ja Rahi Hai Dam Ba Dam Matam Ki Leh.
-Halqa-e-Matam Mein Koi Aa Raha Hai Matami.
-Kis Tarha Se Reh Ke Zindah Rizq Patay Hain Shaheed.
-Kaisay Yeh Jane Koi Kya Pa Raha Hai Matami.
-Hai Basharat Koi Kya Jane Hai Kya Ajar-e-Azeem.
-Kya Khabar Hai Matami Ko Haye Kya Hai Matami.
+۳
+اس کے دامن پر نہ اٹھ کر گردِ دنیا آ سکی
+جیسا آیا ویسا دنیا سے گیا ہے ماتمی
+نوری و خاکی سمجھ کر جاننا آسان نہیں
+جانے کس ترکیب و طینت سے بنا ہے ماتمی
+کیا کہوں میں چلتا پھرتا اک عزا خانہ ہے وہ
+کربلا جس میں دکھے وہ آئینہ ہے ماتمی
 
-3
-Iss Ke Daman Par Na Uth Kar Gard-e-Dunya Aa Saki.
-Jaisa Aaya Waisa Dunya Se Gaya Hai Matami.
-Nori-o-Khaki Samajh Kar Janna Aasaan Nahi.
-Jane Kis Tarkeeb-o-Teenat Se Bana Hai Matami.
-Kya Kahon Main Chalta Phirta Ik Azza Khana Hai Woh.
-Karbala Jis Mein Dikhey Woh Aaina Hai Matami.
-
-4
-Roshni Se Apni Hi Roshan Hai Jo Roshan Zameen.
-Har Azza Ki Anjuman Ka Woh Diya Hai Matami.
-Chor De Kursi Zara Aye Arsh Kar Jhuk Kar Salam.
-Khon Mein Apne Hi Doba Aa Raha Hai Matami.
-Kya Hi Sare Lafz Mein Aaye Biyaan Oss Ka Navaid.
-Main Ne Jo Likha Hai Oss Se Bhi Siwa Hai Matami.
+۴
+روشنی سے اپنی ہی روشن ہے جو روشن زمین
+ہر عزا کی انجمن کا وہ دیا ہے ماتمی
+چھوڑ دے کرسی ذرا اے عرش، کر جھک کر سلام
+خون میں اپنے ہی ڈوبا آ رہا ہے ماتمی
+کیا ہی سارے لفظ میں آئے بیاں اس کا نوید
+میں نے جو لکھا ہے اس سے بھی سوا ہے ماتمی

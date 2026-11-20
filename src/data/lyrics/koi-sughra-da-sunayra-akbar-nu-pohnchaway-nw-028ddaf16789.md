@@ -1,44 +1,67 @@
 ---
-title: "Koi Sughra Da Sunayra Akbar Nu Pohnchaway"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کوئی صغریٰ دا سنیہڑا اکبر نوں پہنچاوے"
+alternateTitle: "Koi Sughra Da Sunayra Akbar Nu Pohnchaway"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Koi Sughra da sunayra Akbar nu pohnchaway
+  Ghar aaja veerna, teri bhen na mar jaaway
+
+  1
+  Rondeya chor gaya sain, bhen ujri nu jithayin
+  Teriyan khairan o mungdi, beth ke aj wee uthayin
+  Menu tere aaawn di, hunr koi vi na dus paaway
+
+  2
+  Jakay Karbal tenu veeraa, yaad humsheer di bhul gayi
+  Kalli barbaad gharan wich, rondi rondi mai han rul gayi
+  Tenu vaaja maardi, jadon yaad teri aaway
+
+  3
+  Allah janay kadon mukray, meri kismat ton vichore
+  Baat Karbal di hai baaqi, saa numandi de ne thoray
+  Kis wailay aan ke, Ali Akbar gal laaway
+
+  4
+  Rozay nanay te mai javan, manna mantaan baalan deevay
+  Ro ro mungdiyan duawan, chotiyan wala veer jeevay
+  Mera Asghar aan ke, menu shakal na dikh laway
+
+  5
+  Lagi Akbar nu ay barchi, teer Asghar ne hai jhalleya
+  Shah ne Akbar di kaddi barchi, khoon Asghar da mu te malleya
+  Koi Akhtar beemar nu, ay khabar na pohanchaway
 ---
 
-Koi Sughra Da Sunayra Akbar Nu Pohnchaway
+کوئی صغریٰ دا سنیہڑا اکبر نوں پہنچاوے
+گھر آ جا ویرنا، تیری بھین نہ مر جاوے
 
-Ghar Aaja Veerna, Teri Bhen Na Mar Jaaway.
+۱
+روندیاں چھوڑ گیا سیں، بھین اجڑی نوں جتھائیں
+تیریاں خیراں او منگدی، بیٹھ کے اج وی اتھائیں
+مینوں تیرے آون دی، ہُن کوئی وی نہ دس پاوے
 
-Rondeya Chor Gaya Sain, Bhen Ujri Nu Jithayin
+۲
+جا کے کربل تینوں ویرا، یاد ہمشیر دی بھل گئی
+کلّی برباد گھراں وچ، روندی روندی میں ہاں رل گئی
+تینوں واجاں ماردی، جدوں یاد تیری آوے
 
-Teriyan Khairan O Mungdi, Beth Ke Aj Wee Uthayin
+۳
+اللہ جانے کدوں مکرے، میری قسمت توں وچھوڑے
+بات کربل دی ہے باقی، ساہ نمانڑی دے نیں تھوڑے
+کس ویلے آ کے، علی اکبر گل لاوے
 
-Menu Tere Aaawn Di, Hunr Koi Vi Na Dus Paaway
+۴
+روضے نانے تے میں جاواں، مناں منتاں بالاں دیوے
+رو رو منگدیاں دعاواں، چوٹیّاں والا ویر جیوے
+میرا اصغر آ کے، مینوں شکل نہ دکھ لاوے
 
-Jakay Karbal Tenu Veeraa, Yaad Humsheer Di Bhul Gayi
-
-Kalli Barbaad Gharan Wich, Rondi Rondi Mai Han Rul Gayi
-
-Tenu Vaaja Maardi, Jadon Yaad Teri Aaway
-
-Allah Janay Kadon Mukray, Meri Kismat Ton Vichore
-
-Baat Karbal Di Hai Baaqi, Saa Numandi De Ne Thoray
-
-Kis Wailay Aan Ke, Ali Akbar Gal Laaway
-
-Rozay Nanay Te Mai Javan, Manna Mantaan Baalan Deevay
-
-Ro Ro Mungdiyan Duawan, Chotiyan Wala Veer Jeevay
-
-Mera Asghar Aan Ke, Menu Shakal Na Dikh Laway
-
-Lagi Akbar Nu Ay Barchi, Teer Asghar Ne Hai Jhalleya
-
-Shah Ne Akbar di Kaddi Barchi, Khoon Asghar Da Mu Te Malleya
-
-Koi Akhtar Beemar Nu, Ay Khabar Na Pohanchaway.
+۵
+لگی اکبر نوں اے برچھی، تیر اصغر نے ہے جھلیا
+شاہ نے اکبر دی کڈھی برچھی، خون اصغر دا منہ تے ملیا
+کوئی اختر بیمار نوں، اے خبر نہ پہنچاوے

@@ -22,17 +22,17 @@ romanLyrics: |-
 
   2
   Qatl hoga Shabih-e-Paighambar
-  Maara jaayega Qasim-e-Muztar
+  Maara jaaye ga Qasim-e-Muztar
   Ali Akbar ki aakhri shab hai
 
   3
-  Shaan-e-Abbas ke juda hoṅge
-  Asghar-e-Bezabaaṅ fida hoṅge
+  Shaan-e-Abbas ke juda hoṅ ge
+  Asghar-e-bezabaaṅ fida hoṅ ge
   Ali Asghar ki aakhri shab hai
 
   4
-  Ghash meiṅ bimaar-e-Karbala hoṅge
-  Qaid naamus-e-Mustafa hoṅge
+  Ghash meiṅ bimaar-e-Karbala hoṅ ge
+  Qaid naamus-e-Mustafa hoṅ ge
   Haq ke Sarwar ki aakhri shab hai
 
   5

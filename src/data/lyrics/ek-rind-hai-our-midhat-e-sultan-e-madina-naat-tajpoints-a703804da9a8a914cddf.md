@@ -1,41 +1,72 @@
 ---
-title: "Ek Rind Hai Our Midhat-e-Sultan-e-Madina Naat"
+title: "ایک رند ہے اور مدحتِ سلطانِ مدینہ نعت"
+alternateTitle: "Ek Rind Hai Our Midhat-e-Sultan-e-Madina Naat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Jigar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ek rind hai our midhat-e-Sultan-e-Madina
+  Haan koi nazar rehmat-e-Sultan-e-Madina
+  Tu subah-e-azal aina-e-husan-e-azal bhi
+  Aye sal-e-alla sorat-e-Sultan-e-Madina
+
+  2
+  Damaan nazar tang-o-frawani-e-jalwa
+  Aye talat-e-Haq talat-e-Sultan-e-Madina
+  Aye khak-e-Madina teri galiyon ke tasaduq
+  Tu khuld hai tu janat-e-Sultan-e-Madina
+
+  3
+  Iss tarha ke har sans ho masroof-e-ibadat
+  Dekho main dar-e-dolat-e-Sultan-e-Madina
+  Ik nang-e-gham-e-ishq bhi hai muntazir-e-deed
+  Sadqay tere aye sorat-e-Sultan-e-Madina
+
+  4
+  Konain ka gham yaad-e-Khuda our shifat
+  Dolat hai yehi dolat-e-Sultan-e-Madina
+  Zahir mein ghareeb-ul-ghuraba phir bhi yeh aalam
+  Shahon se siwa satoot-e-Sultan-e-Madina
+
+  5
+  Iss umat-e-aasi se na munh phair Khudaya
+  Nazuk hai bohat ghairat-e-Sultan-e-Madina
+  Kuch hum ko nahi kam Jigar our kissi se
+  Kafi hai bas ik nisbat-e-Sultan-e-Madina
 ---
 
-1
-Ek Rind Hai Our Midhat-e-Sultan-e-Madina.
-Haan Koi Nazar Rehmat-e-Sultan-e-Madina.
-Tu Subah-e-Azal Aina-e-Husan-e-Azal Bhi.
-Aye Sal-e-Alla Sorat-e-Sultan-e-Madina.
+۱
+ایک رند ہے اور مدحتِ سلطانِ مدینہ
+ہاں کوئی نظر رحمتِ سلطانِ مدینہ
+تو صبحِ ازل آئینۂ حسنِ ازل بھی
+اے صلِ علیٰ صورتِ سلطانِ مدینہ
 
-2
-Damaan Nazar Tang-o-Frawani-e-Jalwa.
-Aye Talat-e-Haq Talat-e-Sultan-e-Madina.
-Aye Khak-e-Madina Teri Galiyon Ke Tasaduq.
-Tu Khuld Hai Tu Janat-e-Sultan-e-Madina.
+۲
+دامانِ نظر تنگ و فراوانیِ جلوہ
+اے طلعتِ حق طلعتِ سلطانِ مدینہ
+اے خاکِ مدینہ تیری گلیوں کے تصدق
+تو خلد ہے تو جنتِ سلطانِ مدینہ
 
-3
-Iss Tarha Ke Har Sans Ho Masroof-e-Ibadat.
-Dekho Main Dar-e-Dolat-e-Sultan-e-Madina.
-Ik Nang-e-Gham-e-Ishq Bhi Hai Muntazir-e-Deed.
-Sadqay Tere Aye Sorat-e-Sultan-e-Madina.
+۳
+اس طرح کہ ہر سانس ہو مصروفِ عبادت
+دیکھو میں درِ دولتِ سلطانِ مدینہ
+اک ننگِ غمِ عشق بھی ہے منتظرِ دید
+صدقے تیرے اے صورتِ سلطانِ مدینہ
 
-4
-Konain Ka Gham Yaad-e-Khuda Our Shifat.
-Dolat Hai Yehi Dolat-e-Sultan-e-Madina.
-Zahir Mein Ghareeb-ul-Ghuraba Phir Bhi Yeh Aalam.
-ShahonSe Siwa Satoot-e-Sultan-e-Madina.
+۴
+کونین کا غم یادِ خدا اور شفاعت
+دولت ہے یہی دولتِ سلطانِ مدینہ
+ظاہر میں غریب الغربا پھر بھی یہ عالم
+شاہوں سے سوا سطوتِ سلطانِ مدینہ
 
-5
-Iss Umat-e-Aasi Se Na Munh Phair Khudaya.
-Nazuk Hai Bohat Ghairat-e-Sultan-e-Madina.
-Kuch Hum Ko Nahi Kam Jigar Our Kissi Se.
-Kafi Hai Bas Ik Nisbat-e-Sultan-e-Madina.
+۵
+اس امتِ عاصی سے نہ منہ پھیر خدایا
+نازک ہے بہت غیرتِ سلطانِ مدینہ
+کچھ ہم کو نہیں کام جگر اور کسی سے
+کافی ہے بس اک نسبتِ سلطانِ مدینہ

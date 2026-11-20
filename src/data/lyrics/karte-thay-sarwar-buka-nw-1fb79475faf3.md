@@ -1,62 +1,97 @@
 ---
-title: "Karte Thay Sarwar Buka"
+title: "کرتے تھے سرور بکا"
+alternateTitle: "Karte Thay Sarwar Buka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karte thay Sarwar buka haye kamar jhuk gayi
+  Mar gaya bhai mera haye kamar jhuk gayi
+
+  1
+  Margaye hum jeete ji chut gaye humse aqi
+  Hogaye baazu juda haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  2
+  Khuwate baazu tha wo khalb ki taaqat tha wo
+  Hogaye hum benawa haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  3
+  Thaam lo bazu pisar le chalo suye faraad
+  Mar gaye tere chacha haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  4
+  Le chalo Akbar wahan bhai hai mera jahan
+  Jald chalo Mehleqa haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  5
+  Darr pe khadi beqarar karti hai wo intezar
+  Ussay kahunga mai kya haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  6
+  Le ke chacha ka alam noha ye padte huye
+  Jao suye qaimagah haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  7
+  Pyas se sab hai nidhaal pani ka hoga sawaal
+  Kehna wo sab beh gaya haye kamar jhuk gayi
+  Mar gaya bhai….
+
+  8
+  Aisa Anees ab kahan paaega Sibte Nabi
+  Jaisa ke Abbas tha haye kamar jhuk gayi
+  Mar gaya bhai….
 ---
 
-Karte thay sarwar buka haye kamar jhuk gayi
+کرتے تھے سرور بکا، ہائے کمر جھک گئی
+مر گیا بھائی میرا، ہائے کمر جھک گئی
 
-mar gaya bhai mera haye kamar jhuk gayi
+۱
+مر گئے ہم جیتے جی، چھوٹ گئے ہم سے اخی
+ہو گئے بازو جدا، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-margaye hum jeete ji chut gaye humse aqi
+۲
+قوتِ بازو تھا وہ، قلب کی طاقت تھا وہ
+ہو گئے ہم بے نوا، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-hogaye baazu juda haye kamar jhuk gayi
+۳
+تھام لو بازو پسر، لے چلو سوئے فرات
+مر گئے تیرے چچا، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-mar gaya bhai….
+۴
+لے چلو اکبر وہاں، بھائی ہے میرا جہاں
+جلد چلو مہ لقا، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-khuwate baazu tha wo khalb ki taaqat tha wo
+۵
+در پہ کھڑی بے قرار، کرتی ہے وہ انتظار
+اسے کہوں گا میں کیا، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-hogaye hum benawa haye kamar jhuk gayi
+۶
+لے کے چچا کا علم، نوحہ یہ پڑھتے ہوئے
+جاؤ سوئے خیمہ گاہ، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-mar gaya bhai….
+۷
+پیاس سے سب ہیں نڈھال، پانی کا ہوگا سوال
+کہنا وہ سب بہہ گیا، ہائے کمر جھک گئی
+مر گیا بھائی…
 
-thaam lo bazu pisar le chalo suye faraad
-
-mar gaye tere chacha haye kamar jhuk gayi
-
-mar gaya bhai….
-
-le chalo akbar wahan bhai hai mera jahan
-
-jald chalo mehleqa haye kamar jhuk gayi
-
-mar gaya bhai….
-
-darr pe khadi beqarar karti hai wo intezar
-
-ussay kahunga mai kya haye kamar jhuk gayi
-
-mar gaya bhai….
-
-le ke chacha ka alam noha ye padte huye
-
-jao suye qaimagah haye kamar jhuk gayi
-
-mar gaya bhai….
-
-pyas se sab hai nidhaal pani ka hoga sawaal
-
-kehna wo sab beh gaya haye kamar jhuk gayi
-
-mar gaya bhai….
-
-aisa anees ab kahan paaega sibte nabi
-
-jaisa ke abbas tha haye kamar jhuk gayi
-
-mar gaya bhai….
+۸
+ایسا انیس اب کہاں پائے گا سبطِ نبی
+جیسا کہ عباس تھا، ہائے کمر جھک گئی
+مر گیا بھائی…

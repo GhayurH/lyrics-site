@@ -1,35 +1,60 @@
 ---
-title: "Dilon Pe Qabza Hussain Ka Hai"
+title: "دلوں پہ قبضہ حسین کا ہے"
+alternateTitle: "Dilon Pe Qabza Hussain Ka Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Sahil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Dilon pe qabza Hussain ka hai
+  Jahan shaida Hussain ka hai
+  Jahaan bhi hain ba-zameer baste
+  Wohi elaqa Hussain ka hai
+
+  2
+  Hamare idrak se kahin kar
+  Buland rutba Hussain ka hai
+  Khuda bhi jiss par darood bhaijay
+  Woh khanwadah Hussain ka hai
+
+  3
+  Woh roz-e-mehshar kyun larkharaein
+  Jinhein sanbhala Hussain ka hai
+  Jahan hai ghairat ka dars jari
+  Wohi idarah Hussain ka hai
+
+  4
+  Mere qalam par atta ki sorat
+  Yeh zikar utra Hussain ka hai
+  Nijat ke wastay tu Sahil
+  Bohat qasidah Hussain ka hai
 ---
 
-1
-Dilon Pe Qabza Hussain Ka Hai.
-Jahan Shaida Hussain Ka Hai.
-Jahaan Bhi Hain Ba-Zameer Baste.
-Wohi Elaqa Hussain Ka Hai.
+۱
+دلوں پہ قبضہ حسین کا ہے
+جہاں شیدا حسین کا ہے
+جہاں بھی ہیں باضمیر بستے
+وہی علاقہ حسین کا ہے
 
-2
-Hamare Idrak Se Kahin Kar.
-Buland Rutba Hussain Ka Hai.
-Khuda Bhi Jiss Par Darood Bhaijay.
-Woh Khanwadah Hussain Ka Hai.
+۲
+ہمارے ادراک سے کہیں کر
+بلند رتبہ حسین کا ہے
+خدا بھی جس پر درود بھیجے
+وہ خانوادہ حسین کا ہے
 
-3
-Woh Roz-e-Mehshar Kyun Larkharaein.
-Jinhein Sanbhala Hussain Ka Hai.
-Jahan Hai Ghairat Ka Dars Jari.
-Wohi Idarah Hussain Ka Hai.
+۳
+وہ روزِ محشر کیوں لڑکھڑائیں
+جنہیں سنبھالا حسین کا ہے
+جہاں ہے غیرت کا درس جاری
+وہی ادارہ حسین کا ہے
 
-4
-Mere Qalam Par Atta Ki Sorat.
-Yeh Zikar Utra Hussain Ka Hai.
-Nijat Ke Wastay Tu Sahil.
-Bohat Qasidah Hussain Ka Hai.
+۴
+میرے قلم پر عطا کی صورت
+یہ ذکر اترا حسین کا ہے
+نجات کے واسطے تو ساحل
+بہت قصیدہ حسین کا ہے

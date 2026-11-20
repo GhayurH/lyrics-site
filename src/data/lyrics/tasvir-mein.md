@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Tasvir meiṅ Husain ka rauza hai taaziya
-  Karb o bala ki yaad dilaata hai taaziya
+  Karb o balaa ki yaad dilaata hai taaziya
 
   1
   Qudrat ne taaziye ko ataa ki hai qudrateṅ
@@ -24,7 +24,7 @@ romanLyrics: |-
   Ujre hue gharoṅ ko basaata hai taaziya
 
   3
-  Mahsus dil ko hoti hai is darja tafliyat
+  Mahsus dil ko hoti hai is darja taflit
   Mehmaan hoke ghar meiṅ jab aata hai taaziya
 
   4

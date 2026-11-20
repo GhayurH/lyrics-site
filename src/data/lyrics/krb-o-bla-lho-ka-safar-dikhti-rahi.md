@@ -8,72 +8,45 @@ poet: "Shahid Jafer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Karbobala lahoo ka safar dekhti rahi
-
-
-  1
-
+romanLyrics: |-
+  Karb o bala lahu ka safar dekhti rahi
   Maqtal ki simt raah guzar dekhti rahi
 
-  Maqtal may aediyon ko ragarta raha pisar
-
-  Aankhon say khoon bahati hui baap ki nazar
-
-  Barchi may nowjavan ka jigar dekhti rahi
-
+  1
+  Maqtal meiṅ eriyoṅ ko ragarta raha pisar
+  Aankhoṅ se khuṅ bahati hui baap ki nazar
+  Barchhi meiṅ naujawaaṅ ka jigar dekhti rahi
+  Karb o balka lahu
 
   2
-
-  Bayton ne yun khayaal rakha apni baat ka
-
-  Jaan say guzar gaye na kiya rukh furaat ka
-
-  Maa apni tarbiyat ka asar dekhti rahi
-
+  Betoṅ ne yuṅ khayaal rakha apni baat ka
+  Jaal se guzar gaye na kiya rukh Furaat ka
+  Maaṅ apni tarbiyat ka asar dekhti rahi
 
   3
-
-  Lekar aba may aaye jigar ko shahe zaman
-
-  Laashay ko rakh kay saamne ibne hasan ki ma
-
-  Dulhan ki chashme tar ke guhar dekhti rahi
-
+  Le kar aba meiṅ aaye jigar ko shaah-e-zaman
+  Laashe ko dikh kar saamne Ibn-e-Hasan ki maaṅ
+  Dulhan ke chashm-e-tar ke gauhar dekhti rahi
 
   4
-
-  Jab qaimagah ja na saka sher laut kar
-
-  Huzn-o-alam se hazrate abbas-e-naamvar
-
-  Be-aab mashk khoon may tar dekhti rahi
-
+  Jab khaima gaah ja na saka sher laut kar
+  Huzn o alam se Hazrat-e-Abbas-e-naamvar
+  Beaab mashk khuṅ meiṅ tar dekhti rahi
 
   5
-
-  Jis waqt kayanat ki gardish bhi ruk gayi
-
-  Qaime ke dar pay maadare muztar khadi hui
-
-  Paykan-e-hurmala tera shar dekhti rahi
-
+  Jis waqt kaainaat ki gardish bhi ruk gayi
+  Khaime ke dar pe maadar-e-muztar khari rahi
+  Paikaan-e-Hurmala tera shar dekhti rahi
 
   6
-
-  Khanjar ki pyas khoon se bujha kar utha layeen
-
-  Aaghosh may dareeda badan ko liye zameen
-
-  Nokay sina pe shah ka sar dekhti rahi
-
+  Khanjar ki pyaas khuṅ se bichha kar utha lain
+  Aaghosh meiṅ burida badan ko liye zamin
+  Nok-e-sinaaṅ pe shaah ka sar dekhti rahi
 
   7
-
-  Shahid rakha imam ne ghurbat main bhi lihaz
-
-  Insaniyat nazar ko jhukaye basad niyaz
-
-  Zaanu pe sheh ke john ka sar dekhti rahi'
+  Shahid rakha Imaam ne ghurbiyat meiṅ bhi lihaaz
+  Insaaniyat nazar ko jhukaaye baad-e-niyaaz
+  Zaanu pe shah ke Jaun ka sar dekhti rahi
 ---
 
 کرب و بلا لہو کا سفر دیکھتی رہی

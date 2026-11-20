@@ -1,23 +1,36 @@
 ---
-title: "Main Hosh Mein Tha Tu Phir Oss Pe Mar Giya Kaise"
+title: "میں ہوش میں تھا تو پھر اس پہ مر گیا کیسے"
+alternateTitle: "Main Hosh Mein Tha Tu Phir Oss Pe Mar Giya Kaise"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Kamil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main hosh mein tha tu phir oss pe mar giya kaise
+  Ye zehar mere laho mein utar giya kaise
+  Kuch oss ke dil mein lagawat zaror thi warna
+  Wo mera hath daba kar guzar giya kaise
+
+  2
+  Zaror oss ki tawaju ki rehbari ho gi
+  Nashe mein tha tu main apne hi ghar giya kaise
+  Jise bhulaye kayi saal ho gay Kamil
+  Main aaj oss ki ghali se guzar giya kaise
 ---
 
-1
-Main Hosh Mein Tha Tu Phir Oss Pe Mar Giya Kaise.
-Ye Zehar Mere Laho Mein Utar Giya Kaise.
-Kuch Oss Ke Dil Mein Lagawat Zaror Thi Warna.
-Wo Mera Hath Daba Kar Guzar Giya Kaise.
+۱
+میں ہوش میں تھا تو پھر اس پہ مر گیا کیسے
+یہ زہر میرے لہو میں اتر گیا کیسے
+کچھ اس کے دل میں لگاوٹ ضرور تھی ورنہ
+وہ میرا ہاتھ دبا کر گزر گیا کیسے
 
-2
-Zaror Oss Ki Tawaju Ki Rehbari Ho Gi.
-Nashe Mein Tha Tu Main Apne Hi Ghar Giya Kaise.
-Jise Bhulaye Kayi Saal Ho Gay Kamil.
-Main Aaj Oss Ki Ghali Se Guzar Giya Kaise.
+۲
+ضرور اس کی توجہ کی رہبری ہوگی
+نشے میں تھا تو میں اپنے ہی گھر گیا کیسے
+جسے بھلائے کئی سال ہو گئے کامل
+میں آج اس کی گلی سے گزر گیا کیسے

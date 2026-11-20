@@ -19,30 +19,30 @@ romanLyrics: |-
   1
   Haye haye tum na aaye
   Ae meri aankhoṅ ke chain
-  Haye wo gham das moharam
+  Haye wo gham das Muharram
   Aur Sakina ke wo bain
   Akbar bhi sun ke ro para
   Behnoṅ ki siskiyaṅ
 
   2
-  Kya jawani kaisa pani
+  Kya jawaani kaisa paani
   Tashnagi ki raat thi
   Haye ae Rab aakhri shab
   Aansuoṅ ke saath thi
-  Ubhri thi haye is tarha
+  Ubhri thi haye is tarah
   Aashur ki azaaṅ
 
   3
   Mustafa ke chaand taare
   Shaam tak gehna gaye
   Haye haye phul saare
-  Kis tarha murjha gaye
+  Kis tarah murjha gaye
   Yuṅ Fatima ke baagh meiṅ
-  Aati rahi khizaṅ
+  Aati rahi khizaaṅ
 
   4
   Haye haye gham uthaye
-  Is tarha saadat ne
+  Is tarah saadaat ne
   Aah o zaari ashk waari
   Ki ghamoṅ ki raat ne
   Jaise jawaaṅ laash par
@@ -54,26 +54,26 @@ romanLyrics: |-
   Naujavaaṅ ka yuṅ janaza
   Aise uthta hai kahiṅ
   Roti hai aaj ye zamin
-  Rota hai aasmaṅ
+  Rota hai aasmaaṅ
 
   6
   Haye Akbar bola ro kar
   Ye azaan aakhri
   Sun rahe haiṅ Karbala meiṅ
-  Aaj jis tarha sabhi
+  Aaj jis tarah sabhi
   Sughra bhi kaash sun sake
   Ae mere baba jaaṅ
 
   7
-  Haye haye sar kataye
-  Sab jawan so jaaeṅge
+  Haye haye sar kataaye
+  Sab jawaan so jaaeṅge
   Dehr chhor ke khaak orhe
   Dasht meiṅ kho jaaeṅge
-  Qaayam rahegi hashr tak
+  Qaaim rahegi hashr tak
   Allah ki azaaṅ
 
   8
-  Wo muazzim maut ke din
+  Wo muazzam maut ke din
   Gin raha tha ae Zafar
   Shaah ka dil kaisi mushkil
   Meiṅ tha Misum raat bhar

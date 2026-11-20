@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kya puchte ho ahle aza kya karuṅ bayaṅ
-  Mai zaair e Husain hoo aur ek nauhakhwan
-  Aaya hoo karbala se basad ranj aur fughaṅ
-  Koi kare sawaal aansu hai kiuṅ rawaṅ
-  Dil karbala meiṅ reh gaya mai aagaya yahaṅ
-  Ye dil bina Husain ke paaye sukuṅ kahaṅ
-  Naam e Husain kaafi tha rone ke waaste
-  Ek ek qadam rulaati hai yuṅ karbala mujhe
-  Pehle mai qaimagah e hussaini pe ruk gaya
-  Yaad aagaya ke ek behan yaṅ thi nauhakhwan
-  Ghurbat meiṅ qatl hogaya mazlum bewatan
-  Mai bhai bhai kehti thi laasha behan behan
-  Dil karbala mein reh gaya...
-  Nikla mai uske baad qayaam e Husain se
-  Aasaar thori dur the qatl e yadain ke
-  Dekha maqam e baazu bureeda mai ro diya
-  Kaise pukara hoga wafaoṅ ka aasmaṅ
-  Mere haath nahi hai mere haath nahi hai
-  Dil karbala mein reh gaya...
-  Nazdik tha maqam e ali akbar e jawaaṅ
-  Girya kuna thi sehra liye chand bibiyaṅ
-  Awaaz ek fazaoṅ meiṅ dil ko hilaati thi
-  Baba mile to kehna ke kehta tha ek jawaaṅ
-  Hai jaan ab laboṅ par barchi na khaynchna
-  Bole pidar se akbar barchi na khaynchna
-  Dil karbala mein reh gaya...
-  Gehwara ek choti imaarat meiṅ tha rakha
-  Gehware meiṅ shuluka tha ek khun meiṅ bhara
-  Gehwara chum chum ke de de ke loriyaṅ
-  Lagta tha keh rahi ho Husain o Hasan ki maa
-  Maa qurban asghar jaan aa jao
-  Dil karbala mein reh gaya...
-  Haaṅ wo maqam jo ke zamiṅ se baland tha
-  Beti ali o zehra ki pahunchi basad buka
-  Dekhi jo chalti gardan e shabbir par churi
-  Bibi pukaari baba ghazab hogaya yahaṅ
+  Kya puchhte ho ahl-e-aza kya karuṅ bayaaṅ
+  Main zaair-e-Husain huṅ aur ek nauhakhwaaṅ
+  Aaya huṅ Karbala se basad ranj aur fughaaṅ
+  Koi kare sawaal aaṅsu hai kiuṅ rawaaṅ
+  Dil Karbala meiṅ reh gaya main aa gaya yahaaṅ
+  Ye dil bina Husain ke paaye sukuṅ kahaaṅ
+  Naam-e-Husain kaafi tha rone ke waaste
+  Ek ek qadam rulaati hai yuṅ Karbala mujhe
+  Pehle main khaima gaah-e-Husaini pe ruk gaya
+  Yaad aa gaya ke ek behan yaaṅ thi nauhakhwaaṅ
+  Ghurbat meiṅ qatl ho gaya mazlum ba watan
+  Main bhaai bhaai kehti thi laasha behan behan
+  Dil Karbala meiṅ...
+  Nikla main us ke baad khiyaam-e-Husain se
+  Aasaar thori dur the qat-e-yadain ke
+  Dekha maqaam-e-baazu burida main ro diya
+  Kaise pukaara hoga wafaoṅ ka aasmaaṅ
+  Mere haath nahiṅ haiṅ mere haath nahiṅ haiṅ
+  Dil Karbala meiṅ...
+  Nazdik tha maqaam-e-Ali Akbar-e-jawaaṅ
+  Girya kunaaṅ thi sehra liye chand bibiyaaṅ
+  Aawaaz ek fazaoṅ meiṅ dil ko hilaati thi
+  Baba mileṅ to kehna ke kehta tha ek jawaaṅ
+  Hai jaan ab laboṅ par barchhi na khenchna
+  Bole pidar se Akbar barchhi na khenchna
+  Dil Karbala meiṅ...
+  Gehwaara ek chhoti imaarat meiṅ tha rakha
+  Gehwaare meiṅ shuluka tha ek khun meiṅ bhara
+  Gehwaara chum chum ke de de ke loriyaaṅ
+  Lagta tha keh rahi huṅ Husain o Hasan ki maaṅ
+  Maaṅ qurbaan Asghar jaan aa jao
+  Dil Karbala meiṅ...
+  Haaṅ wo maqaam jo ke zamiṅ se buland tha
+  Beti Ali o Zehra ki pahunchi basad buka
+  Dekhi jo chalti gardan-e-Shabbir par chhuri
+  Zainab pukaari Baba ghazab ho gaya yahaaṅ
   Zainab lipat ke baap se deti rahi sada
-  Sattar qadam ka faasla bhai behan meiṅ tha
-  Dil karbala mein reh gaya...
-  Jannat nishaṅ hai aaj bhi rauza Husain ka
-  Maqsud e kayenat hai baba Husain ka
+  Sattar qadam ka faasla bhaai behan meiṅ tha
+  Dil Karbala meiṅ...
+  Jannat nishaaṅ hai aaj bhi rauza-e-Husain ka
+  Maqsud-e-kaainaat hai Baba Husain ka
   Itne amir baap ke bete ne kiuṅ kaha
-  Faryad kar rahi ho jo sukhi hui zubaṅ
-  Amma gharib hoo mai amma gharib hoo mai
-  Dil karbala mein reh gaya...
-  Manzar bara ajib tha rehaan aur raza
-  Maqtal ke simt jaane lage shaah e karbala
-  Aur nind se sakina ke chehre pe warm tha
-  Godhi meiṅ leke sheh ne kaha ab na ho fughaṅ
-  Meri sakina ko nind aa rahi hai
-  Dil karbala mein reh gaya...
+  Faryaad kar rahi ho jo sukhi hui zubaaṅ
+  Ammaaṅ gharib huṅ main ammaaṅ gharib huṅ main
+  Dil Karbala meiṅ...
+  Manzar bara ajib tha Rehaan aur Raza
+  Maqtal ki simt jaane lage shaah-e-Karbala
+  Aur nind se Sakina ke chehre pe waram tha
+  Godi meiṅ le ke sheh ne kaha ab na ho fughaaṅ
+  Meri Sakina ko nind aa rahi hai
+  Dil Karbala meiṅ...
 ---
 
 ۱

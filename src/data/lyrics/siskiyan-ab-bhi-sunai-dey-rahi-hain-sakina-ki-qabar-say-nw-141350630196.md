@@ -1,34 +1,67 @@
 ---
-title: "Siskiyan Ab Bhi Sunai Dey Rahi Hain Sakina Ki Qabar Say"
+title: "سسکیاں اب بھی سنائی دے رہی ہیں سکینہ کی قبر سے"
+alternateTitle: "Siskiyan Ab Bhi Sunai Dey Rahi Hain Sakina Ki Qabar Say"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Siskiyan ab bhi sunai dey rahi hain Sakina ki qabar say
+
+  Jo kethi hai mere baba mai tanha so nahi sakti Shimar key dar say
+
+  1
+  Sahay dukhray na janay qaid mei kya kya Sakina nay
+  Kay seena baap ka hi khaak ko samjha Sakina nay
+  Nahi bayti koi aisi umar saari jo baba kay
+  Pyaar ko tarsay
+
+  2
+  Sakina nay kaha bhaiya mujhay baba say milwado
+  Mujhay lay jao un kay pas ya unko hi bulvado
+  Yeh tanhai say behtartha mai rastay may hi mar jaati
+  Thak kay safar say
+
+  3
+  Tamachay Shimar nay mun par mere maqtal may maray hain
+  Mere kanon may jo thay goshwaray wo utaray hain
+  Meray baba bina tere keyamat mujh pay yey tooti
+  Pehlay hashar say
+
+  4
+  Ali ki baytiyo ka dard hi meri ibaadat hai
+  Mai Panjtan ka gada gar hun yeh Ghazi ki inayat hai
+  Mili hai bheek Akhtar ko jahan mei noha khanon ki
+  Zahra kay dar say
 ---
 
-Siskiyan Ab Bhi Sunai Dey Rahi Hain Sakina Ki Qabar Say
+سسکیاں اب بھی سنائی دے رہی ہیں سکینہ کی قبر سے
 
-Jo Kethi Hai Mere Baba Mai Tanha So Nahi Sakti Shimar Key Dar Say
+جو کہتی ہے میرے بابا میں تنہا سو نہیں سکتی شمر کے ڈر سے
 
-Sahay Dukhray Na Janay Qaid Mei Kya Kya Sakina Nay
-Kay Seena Baap Ka Hi Khaak Ko Samjha Sakina Nay
-Nahi Bayti Koi Aisi Umar Saari Jo Baba Kay
-Pyaar Ko Tarsay
+۱
+سہے دکھڑے نہ جانے قید میں کیا کیا سکینہ نے
+کہ سینہ باپ کا ہی خاک کو سمجھا سکینہ نے
+نہیں بیٹی کوئی ایسی عمر ساری جو بابا کے
+پیار کو ترسے
 
-Sakina Nay Kaha Bhaiya Mujhay Baba Say Milwado
-Mujhay Lay Jao Un Kay Pas Ya Unko Hi Bulvado
-Yeh Tanhai Say Behtartha Mai Rastay May Hi Mar Jaati
-Thak Kay Safar Say
+۲
+سکینہ نے کہا بھیا مجھے بابا سے ملوا دو
+مجھے لے جاؤ ان کے پاس یا ان کو ہی بلوا دو
+یہ تنہائی سے بہتر تھا میں راستے میں ہی مر جاتی
+تھک کے سفر سے
 
-Tamachay Shimar Nay Mun Par Mere Maqtal May Maray Hain
-Mere Kanon May Jo Thay Goshwaray Wo Utaray Hain
-Meray Baba Bina Tere Keyamat Mujh Pay Yey Tooti
-Pehlay Hashar Say
+۳
+تماچے شمر نے منہ پر میرے مقتل میں مارے ہیں
+میرے کانوں میں جو تھے گوشوارے وہ اتارے ہیں
+میرے بابا بنا تیرے قیامت مجھ پہ یہ ٹوٹی
+پہلے حشر سے
 
-Ali Ki Baytiyo Ka Dard Hi Meri Ibaadat Hai
-Mai Panjtan Ka Gada Gar Hun Yeh Ghazi Ki Inayat Hai
-Mili Hai Bheek Akhtar Ko Jahan Mei Noha Khanon Ki
-Zahra Kay Dar Say
+۴
+علی کی بیٹیوں کا درد ہی میری عبادت ہے
+میں پنجتن کا گداگر ہوں یہ غازی کی عنایت ہے
+ملی ہے بھیک اختر کو جہاں میں نوحہ خوانوں کی
+زہرا کے در سے

@@ -1,34 +1,59 @@
 ---
-title: "Kunba Nabi Ka Qaid Tha Bazar-e-Sham Tha Hasan Sadiq"
+title: "کنبہ نبی کا قید تھا بازارِ شام تھا حسن صادق"
+alternateTitle: "Kunba Nabi Ka Qaid Tha Bazar-e-Sham Tha Hasan Sadiq"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kunba Nabi ka qaid tha Bazar-e-Sham tha Hasan Sadiq
+  Zainab thi sar barehna tu qaidi Imam tha
+  Beti Ali ki sar khulay Darbar-e-Aam mein
+  Abbas ke liye yeh haya ka maqam tha
+
+  2
+  Zanjeer-o-tauq beriyaan pehne hoye chala
+  Sajjad ke naseeb mein kya sakht kam tha
+  Aaya Dar-e-Hussain pe qismat badal gayi
+  Hur thori dair baad Alh Aslam tha
+
+  3
+  Tatheer Syeda ki rida ka jo naam hai
+  Zainab teri rida ka tu Abbas naam tha
+  Abbas jaisa bhai nahi do jahan mein
+  Jo bhai tha Hussain ka lekin ghulam tha
+
+  4
+  Yeh aaj jo sabeelein lagin hain jagah jagah
+  Yeh bargah oss ki hai jo tashna kam tha
+  Noha nahi tha woh tu aqeedat ke phool they
+  :Rehan Azmi: ke qalam ka salam tha
 ---
 
-1
-Kunba Nabi Ka Qaid Tha Bazar-e-Sham Tha Hasan Sadiq.
-Zainab Thi Sar Barehna Tu Qaidi Imam Tha.
-Beti Ali Ki Sar Khulay Darbar-e-Aam Mein.
-Abbas Ke Liye Yeh Haya Ka Maqam Tha.
+۱
+کنبہ نبی کا قید تھا بازارِ شام تھا حسن صادق
+زینب تھی سر برہنہ تو قیدی امام تھا
+بیٹی علی کی سر کھلے دربارِ عام میں
+عباس کے لیے یہ حیا کا مقام تھا
 
-2
-Zanjeer-o-Tauq Beriyaan Pehne Hoye Chala.
-Sajjad Ke Naseeb Mein Kya Sakht Kam Tha.
-Aaya Dar-e-Hussain Pe Qismat Badal Gayi.
-Hur Thori Dair Baad Alh Aslam Tha.
+۲
+زنجیر و طوق بیڑیاں پہنے ہوئے چلا
+سجاد کے نصیب میں کیا سخت کام تھا
+آیا درِ حسین پہ قسمت بدل گئی
+حر تھوڑی دیر بعد علیہ السلام تھا
 
-3
-Tatheer Syeda Ki Rida Ka Jo Naam Hai.
-Zainab Teri Rida Ka Tu Abbas Naam Tha.
-Abbas Jaisa Bhai Nahi Do Jahan Mein.
-Jo Bhai Tha Hussain Ka Lekin Ghulam Tha.
+۳
+تطہیر سیدہ کی ردا کا جو نام ہے
+زینب تیری ردا کا تو عباس نام تھا
+عباس جیسا بھائی نہیں دو جہاں میں
+جو بھائی تھا حسین کا لیکن غلام تھا
 
-4
-Yeh Aaj Jo Sabeelein Lagin Hain Jagah Jagah.
-Yeh Bargah Oss Ki Hai Jo Tashna Kam Tha.
-Noha Nahi Tha Woh Tu Aqeedat Ke Phool They.
-:REHAN AZMI: Ke Qalam Ka Salam Tha.
+۴
+یہ آج جو سبیلیں لگیں ہیں جگہ جگہ
+یہ بارگاہ اس کی ہے جو تشنہ کام تھا
+نوحہ نہیں تھا وہ تو عقیدت کے پھول تھے
+:ریحان اعظمی: کے قلم کا سلام تھا

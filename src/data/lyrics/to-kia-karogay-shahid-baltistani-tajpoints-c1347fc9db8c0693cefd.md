@@ -1,53 +1,96 @@
 ---
-title: "To Kia Karogay Shahid Baltistani"
+title: "تو کیا کرو گے شاہد بلتستانی"
+alternateTitle: "To Kia Karogay Shahid Baltistani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Surani"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  To kia karogay Shahid Baltistani
+
+  1
+  Zahoor ka waqt aa gaya hai Imam se lau lagaye rakhna
+  Yeh pochta hoon main khud se aksar zahoor ho ga tu kya karo gay
+  Ba Izn-e-Mehdi jo niyatton se uthay ga pardah tu kya karo gay
+  Jab aaye ga woh Ali ka beta karey ga nusrat ka woh taqaza
+  Faqat zabani hai gar aqeeda kahan chupao gay apna chehra
+  Jo oss ghari phir qadam na uthein gay soye Kaba tu kya karo gay
+
+  2
+  Ali Wali ki wila hai ojab kabhi na samjhota iss pe karna
+  Ali ke mansab pe shak na karna Ali pe jeena Ali pe marna
+  Sawal gar barhwein Ali ne Ali ka pocha tu kya karo gay
+  Karo tasawar qareeb apne kiya agar na talab unhon ne
+  Tumhein muhabbat bohat hai unn se magar amal ke sabab unhon ne
+  Tumhari janib nigah-e-ulfat se gar na dekha tu kya karo gay
+
+  3
+  Nabi ki ummat ka aik hona bohat zarori hai yaad rakhna
+  Magar hain jo bhi adoye Zahra tum unn pa bhi be shumar karna
+  Namak halali ka hai taqaza sawal ho ga tu kya karo gay
+  Tum apni aasaishon ki khatir tamam zariye bana rahe ho
+  Woh aa rahe hain khiyal rakhna jo tum yeh dolat luta rahe ho
+  Tumharey opar kahin kissi ka bhi haq jo nikla tu kya karo gay
+
+  4
+  Woh Waris-e-Fatima jo aa ke khud apni dadi ke haq mein bolay
+  Amen gar tum nahi ho socho tum apne Maula se kya kaho gay
+  Agar woh pochein keh khums ka tum ne hai kya kya tu kya karo gay
+  Adab se farsh-e-azza pe jao Gham-e-Shah e Karbala manao
+  Kahan ki dolat kahan ki shohrat fariab e dunya se baaz aao
+  Tumhara yeh bhi amal rahe ga agar na sach tu kya karo gay
+
+  5
+  Abhi tu itra rahe ho lekin qareeb hai ab hisab ka din
+  Sawal tum ne bohat kiye hain, hai samne ab jawab ka din
+  Tumharey palay koi bhi khalis amal na nikla tu kya karo gay
+  Yehi Surani pyam-e-haq hai sitam ke aagay kabhi na jhukna
+  Sada-e-Haq buland karna kabhi bhi Darwaish tum na darna
+  Baroz-e-Mehshar tumharey haq mein na bolein Zahra tu kya karo gay
 ---
 
-To Kia Karogay Shahid Baltistani.
+تو کیا کرو گے شاہد بلتستانی
 
-1
-Zahoor Ka Waqt Aa Gaya Hai Imam Se Lau Lagaye Rakhna.
-Yeh Pochta Hoon Main Khud Se Aksar Zahoor Ho Ga Tu Kya Karo Gay.
-Ba Izn-e-Mehdi Jo Niyatton Se Uthay Ga Pardah Tu Kya Karo Gay.
-Jab Aaye Ga Woh Ali Ka Beta Karey Ga Nusrat Ka Woh Taqaza.
-Faqat Zabani Hai Gar Aqeeda Kahan Chupao Gay Apna Chehra.
-Jo Oss Ghari Phir Qadam Na Uthein Gay Soye Kaba Tu Kya Karo Gay.
+۱
+ظہور کا وقت آ گیا ہے امام سے لو لگائے رکھنا
+یہ پوچھتا ہوں میں خود سے اکثر ظہور ہو گا تو کیا کرو گے
+بہ اذنِ مہدی جو نیتوں سے اٹھے گا پردہ تو کیا کرو گے
+جب آئے گا وہ علی کا بیٹا کرے گا نصرت کا وہ تقاضا
+فقط زبانی ہے گر عقیدہ کہاں چھپاؤ گے اپنا چہرہ
+جو اس گھڑی پھر قدم نہ اٹھیں گے سوئے کعبہ تو کیا کرو گے
 
-2
-Ali Wali Ki Wila Hai Ojab Kabhi Na Samjhota Iss Pe Karna.
-Ali Ke Mansab Pe Shak Na Karna Ali Pe Jeena Ali Pe Marna.
-Sawal Gar Barhwein Ali Ne Ali Ka Pocha Tu Kya Karo Gay.
-Karo Tasawar Qareeb Apne Kiya Agar Na Talab Unhon Ne.
-Tumhein Muhabbat Bohat Hai Unn Se Magar Amal Ke Sabab Unhon Ne.
-Tumhari Janib Nigah-e-Ulfat Se Gar Na Dekha Tu Kya Karo Gay.
+۲
+علی ولی کی ولا ہے عجب کبھی نہ سمجھوتا اس پہ کرنا
+علی کے منصب پہ شک نہ کرنا علی پہ جینا علی پہ مرنا
+سوال گر بارہویں علی نے علی کا پوچھا تو کیا کرو گے
+کرو تصور قریب اپنے کیا اگر نہ طلب انہوں نے
+تمہیں محبت بہت ہے ان سے مگر عمل کے سبب انہوں نے
+تمہاری جانب نگاہِ الفت سے گر نہ دیکھا تو کیا کرو گے
 
-3
-Nabi Ki Ummat Ka Aik Hona Bohat Zarori Hai Yaad Rakhna.
-Magar Hain Jo Bhi Adoye Zahra Tum Unn Pa Bhi Be Shumar Karna.
-Namak Halali Ka Hai Taqaza Sawal Ho Ga Tu Kya Karo Gay.
-Tum Apni Aasaishon Ki Khatir Tamam Zariye Bana Rahe Ho.
-Woh Aa Rahe Hain Khiyal Rakhna Jo Tum Yeh Dolat Luta Rahe Ho.
-Tumharey Opar Kahin Kissi Ka Bhi Haq Jo Nikla Tu Kya Karo Gay.
+۳
+نبی کی امت کا ایک ہونا بہت ضروری ہے یاد رکھنا
+مگر ہیں جو بھی عدوئے زہرا تم ان پہ بھی بے شمار کرنا
+نمک حلالی کا ہے تقاضا سوال ہو گا تو کیا کرو گے
+تم اپنی آسائشوں کی خاطر تمام ذریعے بنا رہے ہو
+وہ آ رہے ہیں خیال رکھنا جو تم یہ دولت لٹا رہے ہو
+تمہارے اوپر کہیں کسی کا بھی حق جو نکلا تو کیا کرو گے
 
-4
-Woh Waris-e-Fatima Jo Aa Ke Khud Apni Dadi Ke Haq Mein Bolay.
-Amen Gar Tum Nahi Ho Socho Tum Apne Maula Se Kya Kaho Gay.
-Agar Woh Pochein Keh Khums Ka Tum Ne Hai Kya Kya Tu Kya Karo Gay.
-Adab Se Farsh-e-Azza Pe Jao Gham-e-Shah e Karbala Manao.
-Kahan Ki Dolat Kahan Ki Shohrat Fariab e Dunya Se Baaz Aao.
-Tumhara Yeh Bhi Amal Rahe Ga Agar Na Sach Tu Kya Karo Gay.
+۴
+وہ وارثِ فاطمہ جو آ کے خود اپنی دادی کے حق میں بولے
+امین گر تم نہیں ہو سوچو تم اپنے مولا سے کیا کہو گے
+اگر وہ پوچھیں کہ خمس کا تم نے ہے کیا کیا تو کیا کرو گے
+ادب سے فرشِ عزا پہ جاؤ غمِ شاہِ کربلا مناؤ
+کہاں کی دولت کہاں کی شہرت فریبِ دنیا سے باز آؤ
+تمہارا یہ بھی عمل رہے گا اگر نہ سچ تو کیا کرو گے
 
-5
-Abhi Tu Itra Rahe Ho Lekin Qareeb Hai Ab Hisab Ka Din.
-Sawal Tum Ne Bohat Kiye Hain, Hai Samne Ab Jawab Ka Din.
-Tumharey Palay Koi Bhi Khalis Amal Na Nikla Tu Kya Karo Gay.
-Yehi Surani Pyam-e-Haq Hai Sitam Ke Aagay Kabhi Na Jhukna.
-Sada-e-Haq Buland Karna Kabhi Bhi Darwaish Tum Na Darna.
-Baroz-e-Mehshar Tumharey Haq Mein Na Bolein Zahra Tu Kya Karo Gay.
+۵
+ابھی تو اترا رہے ہو لیکن قریب ہے اب حساب کا دن
+سوال تم نے بہت کیے ہیں، ہے سامنے اب جواب کا دن
+تمہارے پلّے کوئی بھی خالص عمل نہ نکلا تو کیا کرو گے
+یہی سورانی پیامِ حق ہے ستم کے آگے کبھی نہ جھکنا
+صدائے حق بلند کرنا کبھی بھی درویش تم نہ ڈرنا
+بروزِ محشر تمہارے حق میں نہ بولیں زہرا تو کیا کرو گے

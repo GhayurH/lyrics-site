@@ -12,28 +12,28 @@ published: false
 romanLyrics: |-
   1
   Jab na aada se kisi tarha safayi tehri
-  Subhe ashur-e-moharram ko larayi tehri
-  Pucha zainab ne ke kya ae mere bhai tehri
-  Sheh ne farmeina behan tum se judaai tehri
+  Subh-e-Ashur-e-Moharram ko larayi tehri
+  Puchha Zainab ne ke kya ae mere bhai tehri
+  Sheh ne farmaaya behan tum se judaai tehri
   Aaj pyaroṅ se mulaqaat ghanimat jaano
   Ae behan aaj ki ye raat ghanimat jaano
-  Aagayi shaam e gharibaṅ ghar jalaane ke liye
-  Subhe ashura hui laasheiṅ uthaane ke liye
-  Jab se zainab ne suna hai aagaye baba mere
-  Dhundti phirti hai chadar sar chupane ke liye
-  Subhe ashura hui...
-  Baazu e ghazi agar kaafi nahi tujhko furaat
-  Kya ruqayya aaye ab baazu katane ke liye
-  Subhe ashura hui...
-  Khune asghar se agar bujhti nahi tiroṅ ki pyaas
-  Khun haazir hai sakina ka bujhane ke liye
-  Subhe ashura hui...
-  Sar se chadar ka utarna maut zainab ki hai par
-  Ab bhi zinda hai to abid ko bachane ke liye
-  Subhe ashura hui...
-  Karbala ke baad asghar ke tabassum ke siwa
-  Kya sabab bachta hai akbar muskurane ke liye
-  Subhe ashura hui...
+  Aa gayi Shaam-e-Gharibaaṅ ghar jalaane ke liye
+  Subh-e-Ashura hui laasheṅ uthaane ke liye
+  Jab se Zainab ne suna hai aa gaye baba mere
+  Dhundti phirti hai chaadar sar chhupaane ke liye
+  Subh-e-Ashura hui...
+  Baazu-e-Ghazi agar kaafi nahiṅ tujhko Furaat
+  Kya Ruqayya aaye ab baazu kataane ke liye
+  Subh-e-Ashura hui...
+  Khun-e-Asghar se agar bujhti nahiṅ tiroṅ ki pyaas
+  Khun haazir hai Sakina ka bujhaane ke liye
+  Subh-e-Ashura hui...
+  Sar se chaadar ka utarna maut Zainab ki hai par
+  Ab bhi zinda hai to Aabid ko bachaane ke liye
+  Subh-e-Ashura hui...
+  Karbala ke baad Asghar ke tabassum ke siwa
+  Kya sabab bachta hai Akbar muskuraane ke liye
+  Subh-e-Ashura hui...
 ---
 
 ۱

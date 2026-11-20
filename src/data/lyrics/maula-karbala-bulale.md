@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khaafile hai rawaṅ jaa baja mai phir se tanha reh gaya
-  Nikaal koi raasta maula
+  Qaafile hai rawaaṅ jaa bajaa main phir se tanha reh gaya
+  Nikaal koi raasta Maula
   Maula tarap raha huṅ dar dar bhatak raha huṅ
-  Faryad kar raha huṅ
-  Maula karbala bulaale rauza dikha de maula
-  Din raat aisi koi nahi jo tujhko nahi pukara
-  Majlis meiṅ ja ke aansu baha ke har saal hai guzara
+  Faryaad kar raha huṅ
+  Maula Karbala bula le rauza dikha de Maula
+  Din raat aisi koi nahiṅ jo tujhko nahiṅ pukaara
+  Majlis meiṅ ja ke aansuṅ baha ke har saal hai guzaara
   Ye saal bhi hai bita phir intezaar jita
-  Aaya nahi bulawa
-  Maula karbala bulaale...
-  Ye bhi dua hai jab bhi bulana aisa sabab banana
-  Maa baap mere aulaad meri aaye mera gharana
-  Mere paas kuch nahi hai na zar hai na zamiṅ hai
-  Tujhpe hi bas yaqiṅ hai
-  Maula karbala bulaale...
+  Aaya nahiṅ bulaawa
+  Maula Karbala bula le...
+  Ye bhi dua hai jab bhi bulaana aisa sabab banaana
+  Maaṅ baap mere aulaad mere aaye mera gharaana
+  Mere paas kuch nahiṅ hai na zar hai na zamiṅ hai
+  Tujh pe hi bas yaqiṅ hai
+  Maula Karbala bula le...
   Huṅ beqaraar kitna hai pyaar ek baar aazma le
-  Jitni thakan ho sukha dahan ho ya paaoṅ meiṅ ho chaale
-  Paidal safar karunga sab sakhtiyaṅ sahunga
-  Nauha tera padhunga
-  Maula karbala bulaale...
-  Karbobala meiṅ zawwaroṅ ka mai khadim bana rahunga
-  Muaqqib meiṅ jaa ke khaana khila ke saqqayi bhi karunga
-  Palkeiṅ bichaunga mai sab ko bulaunga mai
-  Paaoṅ dabaunga mai
-  Maula karbala bulaale...
-  Ghazi ke dar pe de ke salami aaunga tere dar par
-  Do badshahoṅ ki saltanat meiṅ jannat ka hoga manzar
+  Jitni thakan ho sukha dahan ho ya paaoṅ meiṅ ho chhaale
+  Paidal safar karuṅ ga sab sakhtiyaṅ sahuṅ ga
+  Nauha tera parhuṅ ga
+  Maula Karbala bula le...
+  Karbobala meiṅ zawwaaroṅ ka main khaadim bana rahuṅ ga
+  Maukib meiṅ ja ke khaana khila ke saqaai bhi karuṅ ga
+  Palkeiṅ bujhaauṅ ga main sab ko bulaauṅ ga main
+  Paaoṅ dabaauṅ ga main
+  Maula Karbala bula le...
+  Ghazi ke dar pe de ke salaami aauṅ ga tere dar par
+  Do baadshaahoṅ ki saltanat meiṅ jannat ka hoga manzar
   Aise hasin lamhe qismat meiṅ meri likh de
-  Ae baadshah bula le
-  Maula karbala bulaale...
-  Tere haram ki jaali pakar ke lipta rahunga aise
-  Muddat ke baad masum bacha lipta ho maa se jaise
-  Sajde karunga maula ro ro ke doonga pursa
+  Ae baadshaah bula le
+  Maula Karbala bula le...
+  Tere haram ki jaali pakar ke lipta rahuṅ ga aise
+  Muddat ke baad maasum bachcha lipta ho maaṅ se jaise
+  Sajde karuṅ ga Maula ro ro ke duṅ ga pursa
   Armaan kar de pura
-  Maula karbala bulaale...
-  Dekhunga nehre alqama matam karunga pyaas ka
-  Ziṅ se gira tha tu jahaṅ maqam e saahib uz zamaan
-  Ja kar kaf e abbas par matam karo sar pit kar
-  Khaayi jahaṅ pe thi sina maqam e akbar hai wahaṅ
-  Maqam e asghar pe jaaunga jhule pe mannat badhaunga
-  Wo qaimagaah e bekasaṅ karunga majlis mai wahaṅ
-  Bhulauṅ kaise tu bata wo ek teela rayt ka
-  Sattar qadam ka faasla jahaṅ hai teri qatl gaah
-  Wahaṅ se dekha tha behen ne chala tha khanjar shimr ka
-  Farhan o mazhar hai dua maula sar e karbobala
+  Maula Karbala bula le...
+  Dikhuṅ ga nahr-e-Alqama maatam karuṅ ga pyaas ka
+  Ziṅ se gira tha tu jahaaṅ maqaam-e-Saahib-uz-Zamaaṅ
+  Ja kar kaf-e-Abbas par maatam karo sar pit kar
+  Khaai jahaaṅ pe thi sanaaṅ maqaam-e-Akbar hai wahaaṅ
+  Maqaam-e-Asghar pe jaauṅ ga jhule pe mannat barhaauṅ ga
+  Wo khaima gaah-e-bekasaaṅ karuṅ ga majlis meiṅ wahaaṅ
+  Bhulaauṅ kaise tu bata wo ek tila ret ka
+  Sattar qadam ka faasla jahaaṅ hai teri qatl gaah
+  Wahaaṅ se dekha tha behen ne chala tha khanjar-e-Shimr ka
+  Farhan o Mazhar hai dua Maula sar-e-Karbobala
   De qabr ki hum ko jagah
-  Ya maula karbala bula le rauza dikha de maula
+  Ya Maula Karbala bula le rauza dikha de Maula
 ---
 
 ۱

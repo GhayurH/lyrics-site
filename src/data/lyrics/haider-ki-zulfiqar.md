@@ -9,60 +9,60 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Arsh-e-Bariṅ Se Aayi Hai Haider Ki Zulfiqar
-  Ijaz-e-Kibriyai Hai Haider Ki Zulfiqar
+  Arsh-e-Bariṅ se aayi hai Haider ki Zulfiqar
+  Ijaaz-e-Kibriyaai hai Haider ki Zulfiqar
 
   1
-  Aahan Se Sakht Tar Hai Yeh, Khanjar Se Taiz Dhaar
-  Qudrat Ne Khud Banai Hai Haider Ki Zulfiqar
+  Aahan se sakht tar hai yeh, khanjar se tez dhaar
+  Qudrat ne khud banaai hai Haider ki Zulfiqar
 
   2
-  Har Dushman-e-Ali Ko Jahanum Dikhane Ka
-  Paigham Sath Layi Hai Haider Ki Zulfiqar
+  Har dushman-e-Ali ko Jahannam dikhaane ka
+  Paighaam saath laayi hai Haider ki Zulfiqar
 
   3
-  Bas Dekh Ke Hi Razm Meiṅ Do Chaar Mar Gaye
-  Maidaaṅ Meiṅ Jab Bhi Aayi Hai Haider Ki Zulfiqar
+  Bas dekh ke hi razm mein do chaar mar gaye
+  Maidaaṅ mein jab bhi aayi hai Haider ki Zulfiqar
 
   4
-  Dast-e-Khuda Se Dast-e-Khuda Ko Atta Hoi
-  Sarwar Ne Hi Mangayi Hai Haider Ki Zulfiqar
+  Dast-e-Khuda se dast-e-Khuda ko ataa hui
+  Sarwar ne hi mangaai hai Haider ki Zulfiqar
 
   5
-  Rakhti Haiṅ Apne Hath Se Iss Ko Sanwar Kar
-  Zahra Ke Dil Ko Bhai Hai Haider Ki Zulfiqar
+  Rakhti haiṅ apne haath se is ko sanwaar kar
+  Zahra ke dil ko bhaayi hai Haider ki Zulfiqar
 
   6
-  Dast-e-Khuda Hi Ho Ga Jo Iss Ko Uthaye Ga
-  Abbas Ne Uthai Hai Haider Ki Zulfiqar
+  Dast-e-Khuda hi ho ga jo is ko uthaaye ga
+  Abbas ne uthaai hai Haider ki Zulfiqar
 
   7
-  Do Tukre Ho Ke Gir Pare Bas Aik Waar Meiṅ
-  Jis Ne Bhi Aazmai Hai Haider Ki Zulfiqar
+  Do tukre ho ke gir pare bas ek waar mein
+  Jis ne bhi aazmaai hai Haider ki Zulfiqar
 
   8
-  Karb o Bala Ke Ban Meiṅ Bohat Se Fana Kiye
-  Shabbir Ne Chalai Hai Haider Ki Zulfiqar
+  Karb o Bala ke ban mein bohat se fana kiye
+  Shabbir ne chalaai hai Haider ki Zulfiqar
 
   9
-  Do Pal Meiṅ Kaat Sakti Huṅ Nu Lakh Hi Tu Haiṅ
-  Keh Kar Yeh Muskurai Hai Haider Ki Zulfiqar
+  "Do pal mein kaat sakti huṅ nau laakh hi to haiṅ"
+  Keh kar yeh muskuraai hai Haider ki Zulfiqar
 
   10
-  Haider Ki Aankh Ke Yeh Ishare Pe Chalti Hai
-  Karti Younhi Safai Hai Haider Ki Zulfiqar
+  Haider ki aankh ke yeh ishaare pe chalti hai
+  Karti yuṅhi safaai hai Haider ki Zulfiqar
 
   11
-  Nasloṅ Ki Janch Kar Ke Urati Hai Gardaneiṅ
-  Zerak Bhi Intehai Hai Haider Ki Zulfiqar
+  Nasloṅ ki jaanch kar ke uraati hai gardaneiṅ
+  Zerak bhi intehaai hai Haider ki Zulfiqar
 
   12
-  Hathuṅ Meiṅ Le Ke Aaeiṅ Ge Ab Barhweiṅ Imam
-  Unn Ke Liye Bachai Hai Haider Ki Zulfiqar
+  Haathoṅ mein le ke aaeiṅ ge ab baarhweiṅ Imam
+  Un ke liye bachaai hai Haider ki Zulfiqar
 
   13
-  Rizwan Keh Raha Hai Khuda Bemisal Hai
-  Khaliq Se Dad Payi Hai Haider Ki Zulfiqar
+  Rizwan keh raha hai Khuda "bemisaal hai"
+  Khaaliq se daad paayi hai Haider ki Zulfiqar
 ---
 عرشِ بریں سے آئی ہے حیدرؑ کی ذوالفقار
 اعجازِ کبریائی ہے حیدرؑ کی ذوالفقار

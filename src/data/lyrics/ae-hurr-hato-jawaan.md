@@ -13,7 +13,7 @@ aliases: ["Ay Hurr Hato Jawan"]
 published: true
 romanLyrics: |-
   Waqt-e-aakhir Hurr ke jo bete ne di sada
-  Daure Husain Hurr se bhi pehle basad buka
+  Daure Husain Hurr se bhi pehle basad bukaa
   Jis dam jawaan laash uthaane ko Hurr barha
   Kaandhe pe rakh ke haath ye Shabbir ne kaha
 
@@ -51,14 +51,14 @@ romanLyrics: |-
   Maqtal meiṅ khare ho ke na yuṅ ashk bahaao
 
   7
-  Maqtal ka kuch hi der meiṅ manzar badal gaya
-  Ek baap phir jawaan ke laashe pe hai khara
+  Maqtal ka kuchh hi der meiṅ manzar badal gaya
+  Ak baap phir jawaan ke laashe pe hai khara
   Aur bebasi ye kehti rahi ashk bahaao
 
   8
   Hurr ke jawaan bete ko Shah ne uthaaya tha
   Akbar ki laash kaun uthaaega ae Khuda
-  Ae Shah-e-Najaf Shah ki madad karne ko aao
+  Ae Shaah-e-Najaf Shah ki madad karne ko aao
 
   9
   Aini kaleja dekhne waaloṅ ka phat gaya

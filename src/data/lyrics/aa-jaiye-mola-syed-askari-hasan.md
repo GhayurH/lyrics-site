@@ -10,68 +10,68 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hai be kasoon ki sada aa bhi jaiye Maula
-  Bara andhera hai jalwa dikhayiye Maula
+  Hai bekasoṅ ki sada, aa bhi jaiye Maula
+  Bara andhera hai, jalwa dikhaiye Maula
 
   1
-  Zamana qatil-o-khonkhuwar hai sitamgar hai
-  Akelay hum hain yahan zalimo ka lashkar hai
-  Jo zulfiqar-e-Ali hai chalaiye Maula
+  Zamaana qaatil o khuṅ khwaar hai, sitamgar hai
+  Akele ham haiṅ yahaaṅ, zaalimoṅ ka lashkar hai
+  Jo Zulfiqaar-e-Ali hai chalaiye Maula
 
   2
-  Abhi tu dard ke darya mein dil dabona hai
-  Abhi tu pyasay musafir pe khul ke rona hai
-  Humein Hussain ke gham mein rolaiye Maula
+  Abhi to dard ke darya mein dil dubona hai
+  Abhi to pyaase musaafir pe khul ke rona hai
+  Hameṅ Husain ke gham mein rulaiye Maula
 
   3
-  Sitam shaar ke harbay naye jafa hai nayi
-  Yazid-o-Shimar naye jang-e-Karbala hai nayi
-  Tu aap aa ke naye Hur banaiye Maula
+  Sitam shiaar ke harbe naye, jafa hai nai
+  Yazid o Shimr naye, jang-e-Karbala hai nai
+  To aap aa ke naye Hur banaiye Maula
 
   4
-  Abhi tu Kaba mein farsh-e-azza bichana hai
-  Wahin pe parcham-e-Abbas bhi sajana hai
-  Sabeel Kaba pe Zam Zam pilaiye Maula
+  Abhi to Kaaba mein farsh-e-aza bichhaana hai
+  Wahiṅ pe parcham-e-Abbaas bhi sajaana hai
+  Sabil-e-Kaaba pe Zam Zam pilaiye Maula
 
   5
-  Haram ke sehan mein jab zikar-e-Karbala hoga
-  Hum ahl-e-dard ka oss roz hajj ada hoga
-  Bas aap jald yeh manzar dikhayiye Maula
+  Haram ke sehn mein jab zikr-e-Karbala hoga
+  Ham ahl-e-dard ka us roz hajj ada hoga
+  Bas aap jald ye manzar dikhaiye Maula
 
   6
-  Hamari subha ko be chargi ne ghaira hai
-  Beghair aap ke dunya mein ghup andhera hai
-  Ab aa ke shama imamat jalaiye Maula
+  Hamaari subh ko bechaargi ne ghera hai
+  Baghair aap ke duniya mein ghup andhera hai
+  Ab aa ke sham-e-imaamat jalaiye Maula
 
   7
-  Yeh pur bahar fizaon ka kya karon aaqa
-  Beghair aap ke dunya mein dil nahi lagta
-  Bas ab zahoor ka gulshan sajaiye Maula
+  Ye purbahaar fazaaoṅ ka kya karuṅ aaqa
+  Baghair aap ke duniya mein dil nahiṅ lagta
+  Bas ab zuhur ka gulshan sajaiye Maula
 
   8
-  Tamam dagh jigar ke dikha diye hum ne
-  Hazaron lakhon arezay baha diye hum ne
+  Tamaam daagh-e-jigar ke dikha diye ham ne
+  Hazaaroṅ laakhoṅ arize baha diye ham ne
   Ab apne faiz ke darya bahaiye Maula
 
   9
-  Hamarey paon mein chalay hain thak gaye hain hum
-  Jo seedhi rah hai oss se bhatak gaye hain hum
-  Hain gumshuda humein rasta dikhayiye Maula
+  Hamaare paaoṅ mein chhaale haiṅ, thak gaye haiṅ ham
+  Jo sidhi raah hai us se bhatak gaye haiṅ ham
+  Haiṅ gumshuda, hameṅ raasta dikhaiye Maula
 
   10
-  Woh shair-e-nar keh wafadar hai laqab jis ka
-  Kiya Furat ki har mauj ne adab jis ka
-  Ossi jarri ka alam le ke aaiye Maula
+  Wo sher-e-nar ke wafaadaar hai laqab jis ka
+  Kiya Furaat ki har mauj ne adab jis ka
+  Usi jarri ka alam le ke aaiye Maula
 
   11
-  Suna hai aap ka pora badan sisakta hai
-  Gham Hussain mein aankhon se khoon tapakta hai
-  Humein bhi khon ke aanso rolaiye Maula
+  Suna hai aap ka pura badan sisakta hai
+  Gham-e-Husain mein aaṅkhoṅ se khun tapakta hai
+  Hameṅ bhi khun ke aaṅsu rulaiye Maula
 
   12
-  Ghulam aap ke hain be khudi ki halat mein
-  Para howa hai Mussadiq bhi khuwab-e-ghaflat mein
-  Ossay jhanjhoriye oss ko jagaiye Maula
+  Ghulaam aap ke haiṅ bekhudi ki haalat mein
+  Para hua hai Mussadiq bhi khwaab-e-ghaflat mein
+  Use jhanjhoriye, us ko jagaiye Maula
 ---
 
 ہے بے کسوں کی صدا، آ بھی جائیے مولا

@@ -13,7 +13,7 @@ aliases: ["Sakina Par Khudara"]
 published: true
 romanLyrics: |-
   Yatim bachchi hai dard o alam ki maari hai
-  Koi gharib nahiṅ hai ye shaahzaadi hai
+  Koi gharib nahiṅ hai ye shaah zaadi hai
   Sakina par khudaara sitam itna na dhaao
 
   Yatimi ki ghari hai bahut sehmi hui hai
@@ -23,7 +23,7 @@ romanLyrics: |-
   1
   Abhi maara gaya hai is ka baaba
   Are is waqt do is ko dilaasa
-  Tamaache mat lagaao
+  Tamaanche mat lagaao
 
   2
   Bahut pyaasi bahut pyaasi hai haae
@@ -32,12 +32,12 @@ romanLyrics: |-
 
   3
   Ye sayyidaani hai ye aala nasab hai
-  Are ye dukhtar-e-Shah-e-Arab hai
+  Are ye dukhtar-e-Shaah-e-Arab hai
   Qarib is ke na jaao
 
   4
   Khari hai itni laashoṅ meiṅ ye tanha
-  Andhera aur bala ka hai andhera
+  Andhere aur bala ka hai. Andhera
   Zara himmat barhaao
 
   5
@@ -56,7 +56,7 @@ romanLyrics: |-
   Zara sa rehm khaao
 
   8
-  Sada ek laash se Gohar ye aai
+  Sada ik laash se Gohar ye aai
   Na tum ghabraao ae baaba ki pyaari
   Hamaare paas aao
 ---

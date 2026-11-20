@@ -31,10 +31,10 @@ romanLyrics: |-
 
   3
   Aaya ye jab jahaaṅ meiṅ phuphi ne khushi khushi
-  Aazaad ek kaniz thi ki Shirin naam ki
+  Aazaad ak kaniz thi ki Shirin naam ki
   Aur saath saath ye bhi kaha tha na fikr kar
   Baraat le ke aauṅ gi us ki maiṅ tere ghar
-  Pahuṅcha wahaaṅ na us ke jidhar jaane ke din the
+  Pahuncha wahaaṅ na us ke jidhar jaane ke din the
 
   4
   Lag jaaye na nazar mere Yusuf jamaal ko

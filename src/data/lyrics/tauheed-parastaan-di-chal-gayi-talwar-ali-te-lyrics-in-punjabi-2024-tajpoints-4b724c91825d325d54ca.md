@@ -1,32 +1,54 @@
 ---
-title: "Tauheed Parastaan Di Chal Gayi Talwar Ali Te Lyrics In Punjabi 2024"
+title: "توحید پرستاں دی چل گئی تلوار علی تے"
+alternateTitle: "Tauheed Parastaan Di Chal Gayi Talwar Ali Te"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tauheed parastaan di chal gayi talwar Ali te
+  Hoya waar asal de wich aye haye Zaat-e-Jali te
+
+  1
+  Fil-Qurba di aayat da ainj badlah chukaya
+  Be deen musalmana Zahra da ghar jalaya
+  Chali zarb Saqeefa di aj Ahmad de wasi te
+  Hondi jay kool ambari das dendi aye Baba
+
+  2
+  Darbar-e-sharabi wich kiwein dena aye khutba
+  Ahsan aye karda jawein nazaan di pali te
+  Wich kafan de Maula nu hai fikar ridawaan di
+  Shabbir di gardan te Ghazi diyaan banwaan di
+
+  3
+  Hun maan barey tainu Zainab, Abbas Jari te
+  Hai sada aqeeda aye ayho sadi ibadat
+  Sadaat de munkir te din raat Raza lanat
+  Rab aap parhey salwataan mere Peer Ali te
 ---
 
-Tauheed Parastaan Di Chal Gayi Talwar Ali Te.
-Hoya Waar Asal De Wich Aye Haye Zaat-e-Jali Te.
+توحید پرستاں دی چل گئی تلوار علی تے
+ہویا وار اصل دے وچ اے ہائے ذاتِ جلی تے
 
-1
-Fil-Qurba Di Aayat Da Ainj Badlah Chukaya.
-Be Deen Musalmana Zahra Da Ghar Jalaya.
-Chali Zarb Saqeefa Di Aj Ahmad De Wasi Te.
-Hondi Jay Kool Ambari Das Dendi Aye Baba.
+۱
+فی القربیٰ دی آیت دا اینج بدلہ چکایا
+بے دین مسلمانا زہرا دا گھر جلایا
+چلی ضرب سقیفہ دی اج احمد دے وصی تے
+ہوندی جے کول امبڑی دس دیندی اے بابا
 
-2
-Darbar-e-Sharabi Wich Kiwein Dena Aye Khutba.
-Ahsan Aye Karda Jawein Nazaan Di Pali Te.
-Wich Kafan De Maula Nu Hai Fikar Ridawaan Di.
-Shabbir Di Gardan Te Ghazi Diyaan Banwaan Di.
+۲
+دربارِ شرابی وچ کیویں دینا اے خطبہ
+احسان اے کردا جاویں نازاں دی پالی تے
+وچ کفن دے مولا نوں ہے فکر رداواں دی
+شبیر دی گردن تے غازی دیاں بانہواں دی
 
-3
-Hun Maan Barey Tainu Zainab, Abbas Jari Te.
-Hai Sada Aqeeda Aye Ayho Sadi Ibadat.
-Sadaat De Munkir Te Din Raat Raza Lanat.
-Rab Aap Parhey Salwataan Mere Peer Ali Te.
+۳
+ہن مان بڑ اے تینوں زینب، عباس جری تے
+ہے ساڈا عقیدہ اے ایہو ساڈی عبادت
+سادات دے منکر تے دن رات رضا لعنت
+رب آپ پڑھے صلواتاں میرے پیر علی تے

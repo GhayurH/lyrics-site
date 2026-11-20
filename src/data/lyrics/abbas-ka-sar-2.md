@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye Abbas haye haye Abbas
-  Ghairat ka aasmaṅ Zainab ka saaibaṅ
+  Haaye Abbas haaye haaye Abbas
+  Ghairat ka aasmaṅ Zainab ka saaibaaṅ
   Kaise Zainab ki taraf dekhta Abbas ka sar
   Sharm se khaak pe girta raha Abbas ka sar
 
   2
   Shaam ke logoṅ ne patthar se kiya istiqbaal
-  Jun hi baazaar meiṅ daakhil hua Abbas ka sar
+  Junhi baazaar meiṅ daakhil hua Abbas ka sar
   Kaise Zainab ki taraf...
-  Yuṅ bhi is sar se liya Badr o Ohad ka badla
+  Yuṅ bhi is sar se liya Badr o Ahd ka badla
 
   3
   Hu ba hu Baba Ali jaisa tha Abbas ka sar
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   4
   Kaise Zainab ki taraf...
-  Paoṅ ke aable Abid ko kahaṅ yaad rahe
+  Paaoṅ ke aable Aabid ko kahaṅ yaad rahe
   Jab gira garm zamiṅ par gira Abbas ka sar
   Kaise Zainab ki taraf...
 
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   7
   Kaise Zainab ki taraf...
-  Yaad Zeeshan sar-e-Sher-e-Khuda aane laga
+  Yaad Zishaan sar-e-Sher-e-Khuda aane laga
   Gurz se aise shikasta hua Abbas ka sar
   Kaise Zainab ki taraf...
 ---

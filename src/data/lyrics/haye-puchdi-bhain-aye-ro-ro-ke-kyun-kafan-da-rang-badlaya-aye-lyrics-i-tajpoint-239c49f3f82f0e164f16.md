@@ -1,30 +1,50 @@
 ---
-title: "Haye Puchdi Bhain Aye Ro Ro Ke Kyun Kafan Da Rang Badlaya Aye Lyrics In Punjabi 28 Safar 2026"
+title: "ہائے پچھدی بھین اے رو رو کے کیوں کفن دا رنگ بدلایا اے"
+alternateTitle: "Haye Puchdi Bhain Aye Ro Ro Ke Kyun Kafan Da Rang Badlaya Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Rizwan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye puchdi bhain aye ro ro ke kyun kafan da rang badlaya aye
+  Kujh lagdi nayi si Hasan di oh jinay pehla teer chalaya aye
+  Aina pak Nabi de rozay te ik Kofa hor banaya aye
+  Jehray waris ne ais rozay de odhay dafan te pehra laya aye
+  Do wari Zahra jaiyaan ne ais veer nu kafan pawaya aye
+  Jadon Qasim ne ja phophiyaan nu babay di khabar sunai aye
+  Rab janrey kiwein Aoun di maa haye veer apne kool aayi aye
+  Chum tukray veer de ro aakhay kis tainu zehar piyaya aye
+  Bhaina ne pochiya ro ro ke talwar phari jad Ghazi ne
+  Bara okha wela aa gaya aye mere veran pak namazi te
+  Be waris samajh ke lokaan ne meen teraan da barsaya
+  Pehlaan haq amari da khoya si hun veer te fatwa laya aye
+  Aina sand de tukray kitay san dafnan te pehra laya aye
+  Pehlaan Jamal che babay naal lari hun Hasan te zulm karaya aye
+  Teraan wich wekh janazay nu aoulad Ali di pitdi rayi
+  Har teer te parh ke Nad-e-Ali Zahra di jayi kichdi rayi
+  Rizwan janaza moor denday kyun teraan naal sajaya aye
 ---
 
-1
-Haye Puchdi Bhain Aye Ro Ro Ke Kyun Kafan Da Rang Badlaya Aye.
-Kujh Lagdi Nayi Si Hasan Di Oh Jinay Pehla Teer Chalaya Aye.
-Aina Pak Nabi De Rozay Te Ik Kofa Hor Banaya Aye.
-Jehray Waris Ne Ais Rozay De Odhay Dafan Te Pehra Laya Aye.
-Do Wari Zahra Jaiyaan Ne Ais Veer Nu Kafan Pawaya Aye.
-Jadon Qasim Ne Ja Phophiyaan Nu Babay Di Khabar Sunai Aye.
-Rab Janrey Kiwein Aoun Di Maa Haye Veer Apne Kool Aayi Aye.
-Chum Tukray Veer De Ro Aakhay Kis Tainu Zehar Piyaya Aye.
-Bhaina Ne Pochiya Ro Ro Ke Talwar Phari Jad Ghazi Ne.
-Bara Okha Wela Aa Gaya Aye Mere Veran Pak Namazi Te.
-Be Waris Samajh Ke Lokaan Ne Meen Teraan Da Barsaya.
-Pehlaan Haq Amari Da Khoya Si Hun Veer Te Fatwa Laya Aye.
-Aina Sand De Tukray Kitay San Dafnan Te Pehra Laya Aye.
-Pehlaan Jamal Che Babay Naal Lari Hun Hasan Te Zulm Karaya Aye.
-Teraan Wich Wekh Janazay Nu Aoulad Ali Di Pitdi Rayi.
-Har Teer Te Parh Ke Nad-e-Ali Zahra Di Jayi Kichdi Rayi.
- Rizwan Janaza Moor Denday Kyun Teraan Naal Sajaya Aye.
+۱
+ہائے پچھدی بھین اے رو رو کے کیوں کفن دا رنگ بدلایا اے
+کجھ لگدی نئیں سی حسن دی اوہ جنھے پہلا تیر چلایا اے
+انہاں پاک نبی دے روضے تے اک کوفہ ہور بنایا اے
+جیہڑے وارث نے ایس روضے دے اوہدے دفن تے پہرا لایا اے
+دو واری زہرا جائیاں نے ایس ویر نوں کفن پوایا اے
+جدوں قاسم نے جا پھپھیاں نوں بابے دی خبر سنائی اے
+رب جانڑے کیویں عون دی ماں ہائے ویر اپنے کول آئی اے
+چم ٹکڑے ویر دے رو آکھے کس تینوں زہر پیایا اے
+بھیناں نے پچھیا رو رو کے تلوار پھڑی جد غازی نے
+بڑا اوکھا ویلا آ گیا اے میرے ویراں پاک نمازی تے
+بے وارث سمجھ کے لوکاں نے مینہ تیراں دا برسایا
+پہلاں حق عماری دا کھویا سی ہن ویر تے فتویٰ لایا اے
+انہاں سند دے ٹکڑے کیتے سن دفناں تے پہرا لایا اے
+پہلاں جمل چے بابے نال لڑی ہن حسن تے ظلم کرایا اے
+تیراں وچ ویکھ جنازے نوں اولاد علی دی پٹدی رہی
+ہر تیر تے پڑھ کے نادِ علی زہرا دی جائی کھچدی رہی
+رضوان جنازہ موڑ دیندے کیوں تیراں نال سجایا اے

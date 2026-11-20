@@ -1,34 +1,81 @@
 ---
-title: "Sajjad Diyan Rondiyaan Akhiyan, Naal Phupiyan Nay Be Rida"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "سجاد دیاں روندیاں اکھیاں، نال پھپھیاں نیں بے ردا"
+alternateTitle: "Sajjad Diyan Rondiyaan Akhiyan, Naal Phupiyan Nay Be Rida"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad diyan rondiyaan akhiyan, naal phupiyan nay be rida
+
+  1
+  Koie behna naal na qaid howay, na vekhay mor bazaran de, mangda beemar dua haye
+
+  2
+  Shaam di rawan te, behn de pairan de chale, vekhda aye Abid
+
+  3
+  Gal la ke faer Sakina nu, akiyan chon khoon bahanda aye, lainda aye okhay saa haye
+
+  4
+  Haye Sakina dig paie, vain mehmal ton ah aye ne phoophie Zainab de
+
+  5
+  Paya Shimr toh kore khanda aye, par behn nu chor ke rawan te, bemar nahi turda haye
+
+  6
+  Qafla Shaam aya, Shamiyan mare ne pathar wich bazaran de
+
+  7
+  Rat ronda vekh ke sir zakhmi, bazaran de wich phupiyan de, gash kah ke si digda
+
+  8
+  Naal oh phupiyan de, har ik mor te rukda aye te rat ronda aye
+
+  9
+  Jhuk kamar gaie aye Abid di, lang Shaam de oh bazar gaye aynu jundayein mar muka haye
+
+  10
+  Bheer bazaran di, Ali Akbar da kaleja vi bula gie Sabir
+
+  11
+  Gardan da took vi bari si, akhiyan chon khoon vi jari si, par sajda nahi bulya haye
 ---
 
-Sajjad Diyan Rondiyaan Akhiyan, Naal Phupiyan Nay Be Rida
+سجاد دیاں روندیاں اکھیاں، نال پھپھیاں نیں بے ردا
 
-Koie Behna Naal Na Qaid Howay, Na Vekhay Mor Bazaran De, Mangda Beemar Dua Haye
+۱
+کوئی بہناں نال نہ قید ہووے، نہ ویکھے موڑ بازاراں دے، منگدا بیمار دعا ہائے
 
-Shaam Di Rawan Te, Behn De Pairan De Chale, Vekhda Aye Abid
+۲
+شام دی راواں تے، بھین دے پیراں دے چھالے، ویکھدا اے عابد
 
-Gal La Ke Faer Sakina Nu, Akiyan Chon Khoon Bahanda Aye, Lainda Aye Okhay Saa Haye
+۳
+گل لا کے فیر سکینہ نوں، اکھیاں چوں خون بہاندا اے، لیندا اے اوکھے ساہ ہائے
 
-Haye Sakina Dig Paie, Vain Mehmal Ton Ah Aye Ne Phoophie Zainab De
+۴
+ہائے سکینہ ڈگ پئی، وین محمل توں آہ آئے نیں پھوپھی زینب دے
 
-Paya Shimr Toh Kore Khanda Aye, Par Behn Nu Chor Ke Rawan Te, Bemar Nahi Turda Haye
+۵
+پیا شمر توں کوڑے کھاندا اے، پر بھین نوں چھوڑ کے راواں تے، بیمار نہیں ٹردا ہائے
 
-Qafla Shaam Aya, Shamiyan Mare Ne Pathar Wich Bazaran De
+۶
+قافلہ شام آیا، شامیاں مارے نیں پتھر وچ بازاراں دے
 
-Rat Ronda Vekh Ke Sir Zakhmi, Bazaran De Wich Phupiyan De, Gash Kah Ke Si Digda
+۷
+رتّ روندا ویکھ کے سر زخمی، بازاراں دے وچ پھپھیاں دے، غش کھا کے سی ڈگدا
 
-Naal Oh Phupiyan De, Har Ik Mor Te Rukda Aye Te Rat Ronda Aye
+۸
+نال اوہ پھپھیاں دے، ہر اک موڑ تے رکدا اے تے رتّ روندا اے
 
-Jhuk Kamar Gaie Aye Abid Di, Lang Shaam De Oh Bazar Gaye Aynu Jundayein Mar Muka Haye
+۹
+جھک کمر گئی اے عابد دی، لنگھ شام دے اوہ بازار گئے اینوں جِندیاں ای مار مکا ہائے
 
-Bheer Bazaran Di, Ali Akbar Da Kaleja Vi Bula Gie Sabir
+۱۰
+بھیڑ بازاراں دی، علی اکبر دا کلیجہ وی بھلا گئی صابر
 
-Gardan Da Took Vi Bari Si, Akhiyan Chon Khoon Vi Jari Si, Par Sajda Nahi Bulya Haye
+۱۱
+گردن دا طوق وی بھاری سی، اکھیاں چوں خون وی جاری سی، پر سجدہ نہیں بھلیا ہائے

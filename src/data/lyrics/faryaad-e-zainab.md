@@ -87,7 +87,7 @@ romanLyrics: |-
   Bibi ki sada dohraata hai
   Jise nauha khwaani aati hai
   Rehaan mere ashaar
-  Dil-e-Zainab ki hai pukaar
+  Dil Zainab ke hai pukaar
 ---
 
 سامنے بہن کی آنکھوں کے

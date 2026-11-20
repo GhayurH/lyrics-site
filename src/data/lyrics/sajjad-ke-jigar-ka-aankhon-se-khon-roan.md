@@ -7,6 +7,44 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad ke jigar ka, aankhoṅ se khuṅ rawaaṅ
+  Roti zamiṅ hai saari, rota hai aasmaaṅ
+
+  1
+  Ye kaun sa jawaaṅ hai, jis ka hai sar jhuka
+  Lagta hai bekasoṅ ka, saalaar-e-qaafila
+  Tauq-e-garaaṅ gale meiṅ, pairoṅ meiṅ beriyaaṅ
+
+  2
+  Karb o Bala meiṅ jis ke baaba ka sar kata
+  Bekas tha dekhta tha, kuchh bhi na kar saka
+  Jis ka jawaan bhaai, khaata tha barchhiyaaṅ
+
+  3
+  Naazuk si ek bachchi ke haathoṅ meiṅ rasan
+  Haathoṅ se muṅh chhupa kar, roti thi khasta tan
+  Zakhmi haiṅ kaan us ke, zakhmi kalaaiyaaṅ
+
+  4
+  Patthar na maaro thehro, pehchaano tum zara
+  Ye Bibiyaaṅ Nabi ke ghar ki haiṅ bakhuda
+  Baazaar meiṅ le aae, Zehra ki betiyaaṅ
+
+  5
+  Baaba ke sar se Aabid kehta tha nauhagar
+  Kaise jiye gi Akbar ke sar ko dekh kar
+  Deti rahi hai maadar-e-Akbar duhaaiyaaṅ
+
+  6
+  Thak kar kabhi ruki jo Zainab shikasta tan
+  Nezoṅ se zaalimoṅ ne zakhmi kiya badan
+  Misl-e-Husain Zainab, ki tori pasliyaaṅ
+
+  7
+  Rizwan ne suni haiṅ maaoṅ ki siskiyaaṅ
+  Behnoṅ ki aah o zaari Buzar pe hai garaaṅ
+  Ab kaun hai kare jo mushkil kushaaiyaaṅ
 ---
 
 سجّادؑ کے جگر کا، آنکھوں سے خوں رواں

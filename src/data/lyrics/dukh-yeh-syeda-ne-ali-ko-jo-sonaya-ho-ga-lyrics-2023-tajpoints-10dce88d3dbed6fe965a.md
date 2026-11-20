@@ -1,29 +1,43 @@
 ---
-title: "Dukh Yeh Syeda Ne Ali Ko Jo Sonaya Ho Ga Lyrics 2023"
+title: "دکھ یہ سیدہ نے علی کو جو سنایا ہوگا"
+alternateTitle: "Dukh Yeh Syeda Ne Ali Ko Jo Sonaya Ho Ga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Dukh yeh Syeda ne Ali ko jo sonaya ho ga
+  Aap ke sabar ne Allah ko rulaya hoga
+  Batool dunya mein arsh par jo Kausar hai
+  Nabi ke sath jahan mein Quraan ka masdar hai
+  Hath ummat ne oss pe kaisay uthaya hoga
+  Zakhm bohat hain magar aik zakhm hai gehra
+  Nishan woh hai tamachay ka our mera chehra
+  Kaisay beton se main ne chehra chupaya hoga
+  Abhi se pyas ossay raat ko jagati hai
+  Beghair maa ke ossay neend kahan aati hai
+  Kaisay Shabbir ko Zainab ne sulaya hoga
+  Mere janazay mein ya Ali na aaye koi
+  Diye mujhe jo zakhm phir se na dukhaney koi
+  Jis Musalmaan ne mere ghar ko jalaya hoga
 ---
 
-1
-Dukh Yeh Syeda Ne Ali Ko Jo Sonaya Ho Ga
-Aap Ke Sabar Ne ALLAH Ko Rulaya Hoga.
-Batool Dunya Mein Arsh Par Jo Kausar Hai.
-Nabi Ke Sath Jahan Mein Quraan Ka Masdar Hai.
-Hath Ummat Ne Oss Pe Kaisay Uthaya Hoga.
-Zakhm Bohat Hain Magar Aik Zakhm Hai Gehra.
-Nishan Woh Hai Tamachay Ka Our Mera Chehra.
-Kaisay Beton Se Main Ne Chehra Chupaya Hoga.
-Abhi Se Pyas Ossay Raat Ko Jagati Hai.
-Beghair Maa Ke Ossay Neend Kahan Aati Hai.
-Kaisay Shabbir Ko Zainab Ne Sulaya Hoga.
-Mere Janazay Mein Ya Ali Na Aaye Koi.
-Diye Mujhe Jo Zakhm Phir Se Na Dukhaney Koi.
-Jis Musalmaan Ne Mere Ghar Ko Jalaya Hoga.
-Noha Khuwan Party Ch Faiyaz Party Sialkot.
-Matami Sangat
-Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot
+۱
+دکھ یہ سیدہ نے علی کو جو سنایا ہوگا
+آپ کے صبر نے اللہ کو رلایا ہوگا
+بتول دنیا میں عرش پر جو کوثر ہے
+نبی کے ساتھ جہاں میں قرآن کا مصدر ہے
+ہاتھ امت نے اس پہ کیسے اٹھایا ہوگا
+زخم بہت ہیں مگر ایک زخم ہے گہرا
+نشان وہ ہے تماچے کا اور میرا چہرہ
+کیسے بیٹوں سے میں نے چہرہ چھپایا ہوگا
+ابھی سے پیاس اسے رات کو جگاتی ہے
+بغیر ماں کے اسے نیند کہاں آتی ہے
+کیسے شبیر کو زینب نے سلایا ہوگا
+میرے جنازے میں یا علی نہ آئے کوئی
+دیے مجھے جو زخم پھر سے نہ دکھانے کوئی
+جس مسلمان نے میرے گھر کو جلایا ہوگا

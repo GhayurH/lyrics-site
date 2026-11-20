@@ -12,7 +12,7 @@ tags: []
 aliases: ["Hydere Karrar Madad"]
 published: true
 romanLyrics: |-
-  Ye kis ne kaha zinda rahenge to kahenge
+  Ye kis ne kaha zinda raheṅ ge to kaheṅ ge
   Ham naam-e-Ali le ke mareṅ ge to jiyeṅ ge
 
   Meri saansoṅ meiṅ Ali hai nigaahoṅ meiṅ Ali
@@ -28,12 +28,12 @@ romanLyrics: |-
   Aao phir mil ke sada dete haiṅ Shia Sunni
 
   2
-  Jang ke baad phir ek jang ki tayyari hai
+  Jang ke baad phir ek jang ki tayyaari hai
   Asl meiṅ Karb o bala aaj talak jaari hai
   Ek Sayyid ki shahaadat ne bataaya sab ko
   Ek ghulaam aaj bhi laakhoṅ ke liye bhaari hai
   Maut se kya darna ek din hai marna
-  Wird ye jaari rahe chaahe ho gardan pe churi
+  Wird ye jaari rahe chaahe ho gardan pe chhuri
 
   Salaam ya Ali madad
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   Laash ye kah ke uthaai thi jawaaṅ bete ki
 
   6
-  Waada Naana se kiya tha jo nibhaaya us ne
+  Waada naana se kiya tha jo nibhaaya us ne
   Apna sab waar diya din bachaaya us ne
   Qatl jab ho gaye maidaaṅ meiṅ saare naasir
   Hausla dene lagi Karb o bala ki naashir

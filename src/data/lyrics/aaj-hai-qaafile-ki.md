@@ -15,14 +15,14 @@ romanLyrics: |-
   Utho bhaiya ke watan jaati hai lachaar behan
 
   1
-  Shimr ne maare Sakina to tamaanche bhaiya
+  Shimr ne maara Sakina to tamaanche bhaiya
   Sehm ke khauf se wo rone na paayi bhaiya
-  Ghaiz se kaaṅp gayi aap ki lachaar behan
+  Ghaiz se kaanp gayi aap ki lachaar behan
 
   2
   Jis ghari ranj o bala se maiṅ su-e-Shaam gayi
-  Baaloṅ se muṅh ko chhupaayi thi na kuchh dekh saki
-  Is liye kar na saki bhai ka didar behan
+  Baaloṅ se munh ko chhupaayi thi na kuchh dekh saki
+  Is liye kar na saki bhai ka didaar behan
 
   3
   Haaye karta tha dandaan se wo beadabi
@@ -52,10 +52,10 @@ romanLyrics: |-
   8
   So chuke nind se utho mere bhaiya utho
   Apni Sughra ke liye koi nishaani de do
-  Saath milne ke liye karti hai iqrar behan
+  Saath milne ke liye karti hai iqraar behan
 
   9
-  Khun meiṅ duba hua beshir ka kurta le kar
+  Khun meiṅ duba hua be shir ka kurta le kar
   Aur Sakina ka wo tuta hua bunda le kar
   Nana ke rauze pe chalne ko hai tayyaar behan
 ---

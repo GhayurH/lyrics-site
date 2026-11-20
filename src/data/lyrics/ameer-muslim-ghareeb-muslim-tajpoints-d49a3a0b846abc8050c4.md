@@ -1,32 +1,54 @@
 ---
-title: "Ameer Muslim Ghareeb Muslim"
+title: "امیر مسلم غریب مسلم"
+alternateTitle: "Ameer Muslim Ghareeb Muslim"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ameer Muslim Ghareeb Muslim
+  Hai teri qismat ajeeb Muslim
+
+  1
+  Safeer hai tu Hussain ka our
+  Wila ka pehla khateeb Muslim
+  Giraya jata hai chat se lasha
+  Hai yeh bhi tera naseeb Muslim
+
+  2
+  Nabi ki beti ne aa sanbhala
+  Habib-e-Rab ka habib Muslim
+  Koi tu bolay Abbas se ja
+  Qaza ke ab hai qareeb Muslim
+
+  3
+  Tabeeb e Futrus ka hai yeh naib
+  Hakeem e ummat tabeeb Muslim
+  Yeh baat Hasnain ko rulaye
+  Kyun hai mara naqeeb Muslim
 ---
 
-Ameer Muslim Ghareeb Muslim Lyrics
-Hai Teri Qismat Ajeeb Muslim.
+امیر مسلم غریب مسلم
+ہے تیری قسمت عجیب مسلم
 
-1
-Safeer Hai Tu Hussain Ka Our.
-Wila Ka Pehla Khateeb Muslim.
-Giraya Jata Hai Chat Se Lasha.
-Hai Yeh Bhi Tera Naseeb Muslim.
+۱
+سفیر ہے تو حسین کا اور
+ولا کا پہلا خطیب مسلم
+گرایا جاتا ہے چھت سے لاشا
+ہے یہ بھی تیرا نصیب مسلم
 
-2
-Nabi Ki Beti Ne Aa Sanbhala.
-Habib-e-Rab Ka Habib Muslim.
-Koi Tu Bolay Abbas Se Ja.
-Qaza Ke Ab Hai Qareeb Muslim.
+۲
+نبی کی بیٹی نے آ سنبھالا
+حبیبِ رب کا حبیب مسلم
+کوئی تو بولے عباس سے جا
+قضا کے اب ہے قریب مسلم
 
-3
-Tabeeb e Futrus Ka Hai Yeh Naib.
-Hakeem e Ummat Tabeeb Muslim.
-Yeh Baat Hasnain Ko Rulaye.
-Kyun Hai Mara Naqeeb Muslim.
+۳
+طبیبِ فطرس کا ہے یہ نائب
+حکیمِ امت طبیب مسلم
+یہ بات حسنین کو رلائے
+کیوں ہے مارا نقیب مسلم

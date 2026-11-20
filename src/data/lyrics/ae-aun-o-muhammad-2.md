@@ -13,23 +13,23 @@ aliases:
 published: true
 romanLyrics: |-
 
-  Kehti thi yeh Zainab, yuṅ maa ka maan nibhana
+  Kehti thi yeh Zainab, yuṅ maaṅ ka maan nibhaana
   Ae Aun o Muhammad
 
   Shabbir ka tum sadqa ho, ab kheme meiṅ beta
   Tum laut kar na aana
 
   1
-  Hai maaṅ ko yaqin, tum maa ki baat rakhoge
-  Yeh yaad rahe, khemoṅ meiṅ hain pyaase bachche
+  Hai maaṅ ko yaqin, tum maaṅ ki baat rakhoge
+  Yeh yaad rahe, khemoṅ meiṅ hai pyaase bachche
   Darya pe agar jaana ho, seh roz ke pyaasoṅ
-  Tum pyaas na bujhana
+  Tum pyaas na bujhaana
 
   2
-  Har haal meiṅ tum par, laazim hai shukr
-  Khuda ka Ae shehzadoṅ, hai sabr tumhara virsa
+  Har haal meiṅ tum par, laazim hai shukr Khuda ka
+  Ae shehzadoṅ, hai sabr tumhara virsa
   Farzand ho tum Zainab ke, shikwa nahiṅ karna
-  Jab zakhm koi khana
+  Jab zakhm koi khaana
 
   3
   Kab hum pe sitam, karne ke liye aaye haiṅ
@@ -38,33 +38,33 @@ romanLyrics: |-
   Madh-e-Ali sunaana
 
   4
-  Jab saans tumhari, bachoṅ ho ukharne wali
-  Us waqt sarhaane, aayeṅgi madar meri
-  Dil ki yeh meri khwaahish hai, us dam meri maa se
+  Jab saans tumhari, bachchoṅ ho ukharne waali
+  Us waqt sarhaane, aayeṅ gi maadar meri
+  Dil ki yeh mere khwaahish hai, us dam meri maaṅ se
   Zakhmoṅ ko tum chhupaana
 
   5
-  Qaatil pe karam, nana ki tarah kar dena
+  Qaatil pe karam, naana ki tarah kar dena
   Yuṅ laaj mere, bhai ke naam ki rakhna
   Jo waasta de bhai ka, maidan meiṅ us par
-  Tum tegh na chalana
+  Tum tegh na chalaana
 
   6
-  Jab laashe utha kar, kheme meiṅ laye
-  Sarwar Zainab yeh boli, ashkoṅ ko apne chupa kar
-  Maiṅ bhi na tumhe rungi, aur mere liye bhi
+  Jab laashe utha kar, kheme meiṅ laaye Sarwar
+  Zainab yeh boli, ashkoṅ ko apne chhupa kar
+  Main bhi na tumheiṅ roungi, aur mere liye bhi
   Aansu na tum bahaana
 
   7
-  Tazim ki khatir, kyoṅ uthte nahiṅ ab beta
+  Taazim ki khaatir, kiuṅ uthte nahiṅ ab beta
   Dekho to sarhaane, aaye haiṅ mere bhaiya
-  Jago mere shehzadoṅ, kya bhul gaye ho
+  Jaago mere shehzadoṅ, kya bhul gaye ho
   Qadmoṅ pe sar jhukaana
 
   8
-  Shabash mere bachoṅ, huṅ maiṅ tum se raazi
-  Yeh keh ke takallum, khamosh hui Shehzadi
-  Nezoṅ pe safar kar ke, hamrah hamare
+  Shaabaash mere, bachchoṅ huṅ main tum se raazi
+  Yeh keh ke Takallum, khaamosh huiṅ shehzadi
+  Nezoṅ pe safar kar kar ke, hamrah hamare
   Tum ko hai Shaam jaana
 ---
 

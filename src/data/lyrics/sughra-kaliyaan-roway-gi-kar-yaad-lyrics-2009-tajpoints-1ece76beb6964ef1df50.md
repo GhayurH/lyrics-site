@@ -1,41 +1,71 @@
 ---
-title: "Sughra Kaliyaan Roway Gi Kar Yaad Lyrics 2009"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "صغریٰ کلیاں رووے گی کر یاد"
+alternateTitle: "Sughra Kaliyaan Roway Gi Kar Yaad"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sughra kaliyaan roway gi kar yaad bhirawaan nu
+  Ik waar te mila de veraan de naal nana manzoor kar duawaan nu
+  Zainab phophi ne kitay darwazay band gharaan de Kulsoom ne jandray laye
+  Mere pasay takiya nayi phophiyaan ne mur ke haye
+
+  2
+  Kand kar ke ohvi rowan te main v rowaan nana chumdi rayi ridawaan nu
+  Akbar jay khat na sunrya babay nu ja sunawin mere dukh da haal sunehra
+  Jay baba putraan kool masroof howay mera
+  Khaimay de kool ja ke darwazay te khalu ke aye khat sunawin manwaan nu
+
+  3
+  Katiya hoya si be shak lekin fehrist andar tehreer si naa Sughra da
+  Jis welay Akbar nu aandi si yaad Sughra
+  Sughra da naa parhn layi safraan che veer Akbar parhda si roz nawaan nu
+  Gardan te bosay de ke Asghar nu aakhein qasid din roz charhey lang jaway
+
+  4
+  Safraan taun watna nu jadon jee karey oh aaway
+  Jiwein gaya saan chad ke main veer ohwein aj v bethi aan khol banwaan nu
+  Asghar de cholay seetay Akbar bhira da sehra Sughra ne aap banaya
+  Rab jane veraan ne kehri ja te dera laya
+
+  5
+  Tera intezar kardi qasad aye ja ke aakhein har roz wekhaan rawaan nu
+  Akbar le aaya barchi Asghar khadaya teraan Sajjad riya wich qaidaan
+  Sughra de veraan de aynj naaz kitay lokaan
+  Aina Shamiyaan ne Akbar raj raj ke zakhmi kita Sughra de sare chawaan nu
 ---
 
-1
-Sughra Kaliyaan Roway Gi Kar Yaad Bhirawaan Nu.
-Ik Waar Te Mila De Veraan De Naal Nana Manzoor Kar Duawaan Nu.
-Zainab Phophi Ne Kitay Darwazay Band Gharaan De Kulsoom Ne Jandray Laye.
-Mere Pasay Takiya Nayi Phophiyaan Ne Mur Ke Haye.
+۱
+صغریٰ کلیاں رووے گی کر یاد بھراواں نوں
+اک وار تے ملا دے ویراں دے نال نانا منظور کر دعاواں نوں
+زینب پھوپھی نے کیتے دروازے بند گھراں دے کلثوم نے جندرے لائے
+میرے پاسے تکیا نئیں پھوپھیاں نے مڑ کے ہائے
 
-2
-Kand Kar Ke Ohvi Rowan Te Main V Rowaan Nana Chumdi Rayi Ridawaan Nu.
-Akbar Jay Khat Na Sunrya Babay Nu Ja Sunawin Mere Dukh Da Haal Sunehra.
-Jay Baba Putraan Kool Masroof Howay Mera.
-Khaimay De Kool Ja Ke Darwazay Te Khalu Ke Aye Khat Sunawin Manwaan Nu.
+۲
+کندھ کر کے اوہ وی روون تے میں وی روواں نانا چمدی رہی رداواں نوں
+اکبر جے خط نہ سن ریا بابے نوں جا سناویں میرے دکھ دا حال سنیہڑا
+جے بابا پتراں کول مصروف ہووے میرا
+خیمے دے کول جا کے دروازے تے کھلو کے اے خط سناویں ماواں نوں
 
-3
-Katiya Hoya Si Be Shak Lekin Fehrist Andar Tehreer Si Naa Sughra Da.
-Jis Welay Akbar Nu Aandi Si Yaad Sughra.
-Sughra Da Naa Parhn Layi Safraan Che Veer Akbar Parhda Si Roz Nawaan Nu.
-Gardan Te Bosay De Ke Asghar Nu Aakhein Qasid Din Roz Charhey Lang Jaway.
+۳
+کٹیا ہویا سی بے شک لیکن فہرست اندر تحریر سی ناں صغریٰ دا
+جس ویلے اکبر نوں آندی سی یاد صغریٰ
+صغریٰ دا ناں پڑھن لئی سفراں چے ویر اکبر پڑھدا سی روز ناواں نوں
+گردن تے بوسے دے کے اصغر نوں آکھیں قاصد دن روز چڑھے لنگ جاوے
 
-4
-Safraan Taun Watna Nu Jadon Jee Karey Oh Aaway.
-Jiwein Gaya Saan Chad Ke Main Veer Ohwein Aj V Bethi Aan Khol Banwaan Nu.
-Asghar De Cholay Seetay Akbar Bhira Da Sehra Sughra Ne Aap Banaya.
-Rab Jane Veraan Ne Kehri Ja Te Dera Laya.
+۴
+سفراں توں وطناں نوں جدوں جی کرے اوہ آوے
+جیویں گیا ساں چھڈ کے میں ویر اویویں اج وی بیٹھی آں کھول بانواں نوں
+اصغر دے چولے سیتے اکبر بھرا دا سہرا صغریٰ نے آپ بنایا
+رب جانے ویراں نے کیہڑی جا تے ڈیرا لایا
 
-5
-Tera Intezar Kardi Qasad Aye Ja Ke Aakhein Har Roz Wekhaan Rawaan Nu.
-Akbar Le Aaya Barchi Asghar Khadaya Teraan Sajjad Riya Wich Qaidaan.
-Sughra De Veraan De Aynj Naaz Kitay Lokaan.
-Aina Shamiyaan Ne Akbar Raj Raj Ke Zakhmi Kita Sughra De Sare Chawaan Nu.
+۵
+تیرا انتظار کردی قاصد اے جا کے آکھیں ہر روز ویکھاں راواں نوں
+اکبر لے آیا برچھی اصغر کھادیا تیراں سجاد ریا وچ قیداں
+صغریٰ دے ویراں دے اینج ناز کیتے لوکاں
+ایناں شامیاں نے اکبر رج رج کے زخمی کیتا صغریٰ دے سارے چاواں نوں

@@ -1,37 +1,60 @@
 ---
-title: "Door Door Tak Syed Mohammed Shah Lyrics 2021"
+title: "دور دور تک"
+alternateTitle: "Door Door Tak"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rangeen hai khoon se Karb-o-Bala door door tak
+  Qasim ko le gayi hai qaza door door tak
+  Ghazi kahan kahan se uthaye tujhe Hussain
+  Bikhra howa hai lasha tera door door tak
+  La la ke Shamiyon ne giraye Hussain par
+  Pathar na koi ran mein bacha door door tak
+
+  2
+  Akbar ki lash tak kabhi Asghar ki lash tak
+  Shabeer kohniyo pe chala door door tak
+  Chalta tha Shimar baloon se thamay sar-e-Hussain
+  Gardan se khon behta gaya door door tak
+  Ghurbat keh pehle mil gaya naizon ko sheer khawar
+  Maa ne bohat talash kiya door door tak
+
+  3
+  Baloon se pakray doortay ghoron ke sath sath
+  Masooma ko chalaya gaya door door tak
+  Kehta tha Shimar naizon pe itni karo boland
+  Sab ko dikhai de yeh rida door door tak
+  Zainab ne al-Hijab ki maqtal mein di sada
+  Akbar ghubar urney laga door door tak
 ---
 
-Door Door Tak Syed Mohammed Shah Lyrics Write Up
+۱
+رنگین ہے خون سے کرب و بلا دور دور تک
+قاسم کو لے گئی ہے قضا دور دور تک
+غازی کہاں کہاں سے اٹھائے تجھے حسین
+بکھرا ہوا ہے لاشہ تیرا دور دور تک
+لا لا کے شامیوں نے گرائے حسین پر
+پتھر نہ کوئی رن میں بچا دور دور تک
 
-1
-Rangeen Hai Khoon Se Karb-o-Bala Door Door Tak.
-Qasim Ko Le Gayi Hai Qaza Door Door Tak.
-Ghazi Kahan Kahan Se Uthaye Tujhe Hussain.
-Bikhra Howa Hai Lasha Tera Door Door Tak.
-La La Ke Shamiyon Ne Giraye Hussain Par.
-Pathar Na Koi Ran Mein Bacha Door Door Tak.
+۲
+اکبر کی لاش تک کبھی اصغر کی لاش تک
+شبیر کہنیوں پہ چلا دور دور تک
+چلتا تھا شمر بالوں سے تھامے سرِ حسین
+گردن سے خون بہتا گیا دور دور تک
+غربت کے پہلے مل گیا نیزوں کو شیر خوار
+ماں نے بہت تلاش کیا دور دور تک
 
-2
-Akbar Ki Lash Tak Kabhi Asghar Ki Lash Tak.
-Shabeer Kohniyo Pe Chala Door Door Tak.
-Chalta Tha Shimar Baloon Se Thamay Sar-e-Hussain.
-Gardan Se Khon Behta Gaya Door Door Tak.
-Ghurbat Keh Pehle Mil Gaya Naizon Ko Sheer Khawar.
-Maa Ne Bohat Talash Kiya Door Door Tak.
-
-3
-Baloon Se Pakray Doortay Ghoron Ke Sath Sath.
-Masooma Ko Chalaya Gaya Door Door Tak.
-Kehta Tha Shimar Naizon Pe Itni Karo Boland.
-Sab Ko Dikhai De Yeh Rida Door Door Tak.
-Zainab Ne Al-Hijab Ki Maqtal Mein Di Sada.
- Akbar Ghubar Urney Laga Door Door Tak.
+۳
+بالوں سے پکڑے دوڑتے گھوڑوں کے ساتھ ساتھ
+معصومہ کو چلایا گیا دور دور تک
+کہتا تھا شمر نیزوں پہ اتنی کرو بلند
+سب کو دکھائی دے یہ ردا دور دور تک
+زینب نے الحجاب کی مقتل میں دی صدا
+اکبر غبار اڑنے لگا دور دور تک

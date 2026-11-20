@@ -1,38 +1,66 @@
 ---
-title: "Ghubar E Karb O Bala Besarab Kaisa Tha Lyrics 2023"
+title: "غبارِ کرب و بلا بے سراب کیسا تھا"
+alternateTitle: "Ghubar-e Karb-o Bala Besarab Kaisa Tha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ghubar e Karb o Bala besarab kaisa tha
+  Kissi ne chakh ke na dekha keh aab kaisa tha
+
+  1
+  Shab-e-guman zara Hur ko dekh our bata
+  Bara-e-subh-e-yaqeen aaftab kaisa tha
+  Yeh pochta hai tabasum nagar ka shehzada
+  Sawal jo bhi tha mera jawab kaisa tha
+
+  2
+  Galuye surkh ne khil kar ba shakh e teer-o-kamaan
+  Bhula diya hai keh pehle ghulab kaisa tha
+  Khulasa mashk thi husan-e-khulasa ik chulo
+  Taveel jang ka lab-e-labab kaisa tha
+
+  3
+  Kitab-e-Sham bata seene our naizay mein
+  Sakon kaisa tha our izterab kaisa tha
+  Hisab tha ossay ik ik tanab e khaima ka
+  Magar ba sharhin wafa be hisab kaisa tha
+
+  4
+  Ridaon ko bhi kiya oss ne sathiyon mein shumar
+  Bahataron ke barabar yeh baab kaisa tha
+  Kalam-e-keh se Akbar ta baab-e-altalaqa
+  Safar mein bhai behan ka khitab kaisa tha
 ---
 
-Ghubar e Karb o Bala Besarab Kaisa Tha.
-Kissi Ne Chakh Ke Na Dekha Keh Aab Kaisa Tha.
+غبارِ کرب و بلا بے سراب کیسا تھا
+کسی نے چکھ کے نہ دیکھا کہ آب کیسا تھا
 
-1
-Shab-e-Guman Zara Hur Ko Dekh Our Bata.
-Bara-e-Subh-e-Yaqeen Aaftab Kaisa Tha.
-Yeh Pochta Hai Tabasum Nagar Ka Shehzada.
-Sawal Jo Bhi Tha Mera Jawab Kaisa Tha.
+۱
+شبِ گماں ذرا حر کو دیکھ اور بتا
+برائے صبحِ یقیں آفتاب کیسا تھا
+یہ پوچھتا ہے تبسم نگر کا شہزادہ
+سوال جو بھی تھا میرا جواب کیسا تھا
 
-2
-Galuye Surkh Ne Khil Kar Ba Shakh e Teer-o-Kamaan.
-Bhula Diya Hai Keh Pehle Ghulab Kaisa Tha.
-Khulasa Mashk Thi Husan-e-Khulasa Ik Chulo.
-Taveel Jang Ka Lab-e-Labab Kaisa Tha.
+۲
+گلوئے سرخ نے کھل کر بہ شاخِ تیر و کماں
+بھلا دیا ہے کہ پہلے گلاب کیسا تھا
+خلاصہ مشک تھی حسنِ خلاصہ اک چلو
+طویل جنگ کا لبِ لباب کیسا تھا
 
-3
-Kitab-e-Sham Bata Seene Our Naizay Mein.
-Sakon Kaisa Tha Our Izterab Kaisa Tha.
-Hisab Tha Ossay Ik Ik Tanab e Khaima Ka.
-Magar Ba Sharhin Wafa Be Hisab Kaisa Tha.
+۳
+کتابِ شام بتا سینے اور نیزے میں
+سکون کیسا تھا اور اضطراب کیسا تھا
+حساب تھا اسے اک اک طنابِ خیمہ کا
+مگر بہ شرحِ وفا بے حساب کیسا تھا
 
-4
-Ridaon Ko Bhi Kiya Oss Ne Sathiyon Mein Shumar.
-Bahataron Ke Barabar Yeh Baab Kaisa Tha.
-Kalam-e-Keh Se Akbar Ta Baab-e-Altalaqa.
-Safar Mein Bhai Behan Ka Khitab Kaisa Tha.
+۴
+رداؤں کو بھی کیا اس نے ساتھیوں میں شمار
+بہتروں کے برابر یہ باب کیسا تھا
+کلامِ کہ سے اکبر تا بابِ الطلاقہ
+سفر میں بھائی بہن کا خطاب کیسا تھا

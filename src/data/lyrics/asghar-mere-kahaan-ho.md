@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Uthti thi aah bharti thi phir baith jaati thi
-  Dil ka sukun nauha-kunaaṅ dhundti rahi
+  Dil ka sukun nauha kunaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   2

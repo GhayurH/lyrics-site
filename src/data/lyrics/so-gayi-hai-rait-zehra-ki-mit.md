@@ -8,58 +8,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  So gayee hay raiyyat, Zehra ki mayyat
-  Shab ko uthaey, Qismat Ali ki
+  So gayi hai raiyyat, Zehra ki mayyat
+  Shab ko uthaye, qismat Ali ki
 
   1
-  Mayyat uthaey Salman aayey
-  Dukhra sunaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
+  Mayyat uthaye, Salmaan aaye
+  Dukhra sunaye, qismat Ali ki
+  Zainab ko dene maadar ka wirsa
+  Kulsum ko bhi maadar ka pursa
+  Khuṅ se hai jo tar, Zehra ki chaadar
+  Un ko urhaye, qismat Ali ki
 
   2
-  Zainab ko denay madar ka pursa
-  Kulsoom ko bhi madar ka pursa
-  Khoon se hay jo tar Zehra ki chadar
-  Un ko urhaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
+  Zulmat ka mausam aane se pehle
+  Ghar se janaaza jaane se pehle
+  Hasnain aaye behnoṅ ko laaye
+  Aaṅsu bahaye, qismat Ali ki
 
   3
-  Zulmat ka mosam aanay se pehlay
-  Ghar se janaza janay se pehlay
-  Hasnain la kar beti bula kar
-  Ansoo bahaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
+  Ye to watan hai Zehra ki qismat
+  Paaya kafan hai Zehra ki qismat
+  Sarwar bula kar, Karbal suna kar
+  Sine lagaye, qismat Ali ki
 
   4
-  Ye to watan hay Zahra ki qismat
-  Paya kafan hay Zahra ki qismat
-  Himmat bandha kar Sarwar bula har
-  Seenay lagaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
+  Zainab tujhe hai baazaar jaana
+  Maaṅ ki tarah se darbaar jaana
+  Ho gi aziyyat, maaṅ ki wasiyyat
+  Kiunkar sunaye, qismat Ali ki
 
   5
-  Maa ki tarha se darbar jana
-  Tujhe Shaam jana bazar jana
-  Zainab ko pursa mahrooma maa ka
-  Kaise sunaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
+  Lipte huye haiṅ mayyat se bachche
+  Girya kunaaṅ haiṅ ye kab se bachche
+  Kaise hataye, mayyat uthaye
+  Baqia le jaaye, qismat Ali ki
 
   6
-  Liptay huay hain mayyat se bachchay
-  Madar pe girya kartay hain bachchay
-  Kiunkar hataey mayyat uthaey
-  Baqea ko jaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
+  Noha likhaye Mazhar-e-Ajaaib
+  Sunne ko aaye Ummul Masaaib
+  Rizwaaṅ bulaye, Mahdi tu aaye
+  Zulmat mitaye, qismat Ali ki
 
   7
-  Noha likhaey Mazhar ajaib
-  Sunnay ko aaey Ummul Masaib
-  Rizwan bulaey Mehdi tu aayey
-  Mayyat uthaey, Qismat Ali ki
-  So gayi hay raiyyat, Zehra ki mayyat
-
-  8
-  (Syed Rizwan Rizvi, Bangkok)
+  (Syed Rizwaan Rizvi)
 ---
 
 سو گئی ہے رعیت، زہراؑ کی میّت

@@ -1,37 +1,63 @@
 ---
-title: "Man Kunto Ka Ailaan Syed Mudassir Mehdi"
+title: "من کنت کا اعلان سید مدثر مہدی"
+alternateTitle: "Man Kunto Ka Ailaan Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Naqsh"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Man kunto ka ailaan Syed Mudassir Mehdi
+
+  1
+  Jis ko man kuntu ka ayelan bura lagta hai
+  Mustafa ko woh Musalman bura lagta hai
+  Mujh ko kafir se bhi lagta hai zyada woh najis
+  Jis ko Imran ka eman bura lagta hai
+  Khum mein jis din se kajawon ka saja hai mimber
+  Sheikh ko aount ka palaan bura lagta hai
+
+  2
+  Jin ke hathoon mein nahi Aal-e-Nabi ka daman
+  Unn ke hathoon mein yeh Quran bura lagta hai
+  Sab Sahaba se afzal hai Muhammad ne kaha
+  Sheikh ko iss liye Salman bura lagta hai
+  Dushman-e-Fatima Zahra pe jo lanat na karey
+  Janwar ko bhi woh insan bura lagta hai
+
+  3
+  Khum mein ayelan-e-wilayat ko suna hai jab se
+  Bhagney walon ko maidan bura lagta hai
+  Khud ko kehta hai Ali wala magar hai bhi nahi
+  Aye muqassar tera eman bura lagta hai
+  Naqsh milti hi nahi aayat-e-tatheer jisay
+  Hum ko woh hafiz-e-Quran bura lagta hai
 ---
 
-Man Kunto Ka Ailaan Syed Mudassir Mehdi.
+من کنت کا اعلان سید مدثر مہدی
 
-1
-Jis Ko Man Kuntu Ka Ayelan Bura Lagta Hai.
-Mustafa Ko Woh Musalman Bura Lagta Hai.
-Mujh Ko Kafir Se Bhi Lagta Hai Zyada Woh Najis.
-Jis Ko Imran Ka Eman Bura Lagta Hai.
-Khum Mein Jis Din Se Kajawon Ka Saja Hai Mimber.
-Sheikh Ko Aount Ka Palaan Bura Lagta Hai.
+۱
+جس کو من کنت کا اعلان برا لگتا ہے
+مصطفیٰ کو وہ مسلمان برا لگتا ہے
+مجھ کو کافر سے بھی لگتا ہے زیادہ وہ نجس
+جس کو عمران کا ایمان برا لگتا ہے
+خم میں جس دن سے کجاووں کا سجا ہے منبر
+شیخ کو اونٹ کا پالان برا لگتا ہے
 
-2
-Jin Ke Hathoon Mein Nahi Aal-e-Nabi Ka Daman.
-Unn Ke Hathoon Mein Yeh Quran Bura Lagta Hai.
-Sab Sahaba Se Afzal Hai Muhammad Ne Kaha.
-Sheikh Ko Iss Liye Salman Bura Lagta Hai.
-Dushman-e-Fatima Zahra Pe Jo Lanat Na Karey.
-Janwar Ko Bhi Woh Insan Bura Lagta Hai.
+۲
+جن کے ہاتھوں میں نہیں آلِ نبی کا دامن
+ان کے ہاتھوں میں یہ قرآن برا لگتا ہے
+سب صحابہ سے افضل ہے محمد نے کہا
+شیخ کو اس لیے سلمان برا لگتا ہے
+دشمنِ فاطمہ زہرا پہ جو لعنت نہ کرے
+جانور کو بھی وہ انسان برا لگتا ہے
 
-3
-Khum Mein Ayelan-e-Wilayat Ko Suna Hai Jab Se.
-Bhagney Walon Ko Maidan Bura Lagta Hai.
-Khud Ko Kehta Hai Ali Wala Magar Hai Bhi Nahi.
-Aye Muqassar Tera Eman Bura Lagta Hai.
- Naqsh Milti Hi Nahi Aayat-e-Tatheer Jisay.
-Hum Ko Woh Hafiz-e-Quran Bura Lagta Hai.
+۳
+خم میں اعلانِ ولایت کو سنا ہے جب سے
+بھاگنے والوں کو میدان برا لگتا ہے
+خود کو کہتا ہے علی والا مگر ہے بھی نہیں
+اے مقصر تیرا ایمان برا لگتا ہے
+نقش ملتی ہی نہیں آیتِ تطہیر جسے
+ہم کو وہ حافظِ قرآن برا لگتا ہے

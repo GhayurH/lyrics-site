@@ -11,32 +11,32 @@ published: false
 romanLyrics: |-
   1
   Abbas ne dekha khali Mir Hasan Mir
-  Ik nazar ghaiz mein Abbas ne dekha khali
-  Aa ke khud ho gaya mashkezay mein darya khali
-  Apni aagosh se Zainab ne utara hi nahi
-  Reh gaya Hazrat-e-Abbas ka jhola khali
+  Ik nazar ghaiz meiṅ Abbas ne dekha khali
+  Aa ke khud ho gaya mashkize meiṅ darya khali
+  Apni aagosh se Zainab ne utaara hi nahiṅ
+  Reh gaya Hazrat-e-Abbas ka jhula khali
   Allah Allah re saqa-e-Sakina ka jalal
-  Kar diya nehar talak maut ne rasta khali
-  Aag mojon mein lagi ho gayin nehrein pani
-  Main ne darya pe parha tha tera hamla khali
-  “hay” alag “wao” tha alag yeh tha hawa ka aalam
-  Jab keh Abbas ne khat khak pe khaincha khali
-  Gin lo Abbas ki batees baras ki sansein
-  Khidmat-e-sheh se nahi koi lamha khali
-  Oss ka shajrah bhi sand yafta ho jata hai
-  Yaad kar le jo bashar aap ka shajrah khali
-  Oss ko mabood ne bakhshi hi nahi khoye wafa
+  Kar diya nahr talak maut ne rasta khali
+  Aag mojoṅ meiṅ lagi ho gaiṅ nahreṅ pani
+  Maiṅ ne darya pe parha tha tera hamla khali
+  "Hai" alag "waao" tha alag yeh tha hawa ka aalam
+  Jab ke Abbas ne khat khaak pe khaincha khali
+  Gin lo Abbas ki battis baras ki saanseṅ
+  Khidmat-e-sheh se nahiṅ koi lamha khali
+  Us ka shajra bhi sanad yaafta ho jata hai
+  Yaad kar le jo bashar aap ka shajra khali
+  Us ko mabood ne bakhshi hi nahiṅ khu-e-wafa
   Hub-e-Abbas se jo dil nazar aaya khali
-  Maa musallay pe rahi waqt-e-zahoor-e-Abbas
-  Jab keh oss waqt bhi tha khana e Kaba khali
-  Tu alam chomney aata bhi tu kaisay aata
-  Mal-e-dunya se tera hath nahi tha khali
-  Tera lehraye jo parcham tu bahar aa jaye
-  Baam-e-Kaba hai abhi tak mere Maula khali
-  Neend Abbas ko aane ke liye kafi hai
-  Zanu-e-Hazrat-e-Shabbir ka takiya khali
-  Tashna kamo ko pila jam Takallum bhar kar
-  Madh-e-Abbas ka mashkeza na hoga khali
+  Maaṅ musalle pe rahi waqt-e-zahoor-e-Abbas
+  Jab ke us waqt bhi tha khaana-e-Kaaba khali
+  Tu alam chumne aata bhi to kaise aata
+  Maal-e-dunya se tera haath nahiṅ tha khali
+  Tera lehraye jo parcham to bahaar aa jaye
+  Baam-e-Kaaba hai abhi tak mere Maula khali
+  Neend Abbas ko aane ke liye kaafi hai
+  Zaanu-e-Hazrat-e-Shabbir ka takiya khali
+  Tashna kaamoṅ ko pila jaam Takallum bhar kar
+  Madh-e-Abbas ka mashkiza na hoga khali
 ---
 
 ۱

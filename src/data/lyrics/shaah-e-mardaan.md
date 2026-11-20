@@ -15,7 +15,7 @@ romanLyrics: |-
   Ya Ali Maula Haidar Maula
 
   Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar
-  La fata illa Ali la saif illa Zulfiqaar
+  Laa fataa illaa Ali laa saif illaa Zulfiqaar
 
   1
   Kis tarah chalti thi ran meiṅ tegh-e-sher-e-Kirdigaar
@@ -35,8 +35,8 @@ romanLyrics: |-
   Yaad kar lo dur kiuṅ jaate ho kal ki baat hai
   Jang ke maidaaṅ meiṅ kaam aaya wo kis ki zaat hai
   Mahw-e-hairat muttasil lashkar se kaainaat hai
-  Fath o nusrat aaj bhi naam-e-Ali ke saath hai
-  Guṅjta hai Haidari naaroṅ se dasht-e-kaarzaar
+  Fatah o nusrat aaj bhi naam-e-Ali ke saath hai
+  Gunjta hai Haidari naaroṅ se dasht-e-kaarzaar
 
   4
   Kaam aaya phir wohi jab sakht aaya imtihaaṅ
@@ -56,15 +56,15 @@ romanLyrics: |-
   Kehte the Aun o Muhammad maadar-e-ghamkhwaar se
   Is tarah jang meiṅ lareṅge lashkar-e-kuffaar se
   Sab hameiṅ tashbih deṅge Jaafar-e-Tayyaar se
-  Bach ke jaa paaega koi kya hamaare waar se
-  Kheiṅch deṅge tegh se ham Badr ke naqsh o nigaar
+  Bach ke jaa paae ga koi kya hamaare waar se
+  Kheinch deṅge tegh se ham Badr ke naqsh o nigaar
 
   7
-  Kya koi rokega ham ko maatam-e-Shabbir se
+  Kya koi roke ga ham ko maatam-e-Shabbir se
   Baandh de koi hameiṅ gar aahani zanjir se
   Muttasil ho jaae gardan bhi agar shamshir se
   Kiuṅ na ho Mehshar aqidat shaah-e-Khaibar-gir se
-  Ya Ali keh deṅge tab ruk jaaegi khanjar ki dhaar
+  Ya Ali keh deṅge tab ruk jaae gi khanjar ki dhaar
 ---
 یا علی مولا حیدر مولا
 

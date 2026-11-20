@@ -1,6 +1,6 @@
 ---
 title: "کونین کی شہزادیاں ہے"
-alternateTitle: "Shaam E Ghariban"
+alternateTitle: "Shaam-e-Gharibaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,65 +10,54 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Kaunain ki shehzaadiyaaṅ hai
+
   1
-  Kaunain ki shehzadiyan hai
-  besar o saaman
-  Ye shaam e ghariban hai
-  Aray shaam e ghariban
+  Be sar o saamaan
+  Ye shaam-e-gharibaaṅ hai
+  Are shaam-e-gharibaaṅ
 
   2
-  Kaunain ki shehzadiya hai besaro saman
-  Hai khoon mein doobe huwe seh roz ke pyase
-  Maidan mein har simt hai bikhre huwe laashe
-  Manzar ye qayamat ke sada dete hai roke
+  Hai khun mein dube hue seh roz ke pyaase
+  Maidaaṅ mein har simt hai bikhre hue laashe
+  Manzar ye qayaamat ke sada dete hai ro ke
+  Ye shaam-e-gharibaaṅ hai...
 
   3
-  Ye shaam e ghariban hai...
-  Kaunain ki shehzadiya hai...
   Afsos ke maara gaya ek raat ka dulha
-  Tar khoon mein sehra hua raundha gaya laasha
+  Tar khun mein sehra hua raundha gaya laasha
+  Kal shaadi hui jis ki wo shehzaadi hai bewa
+  Ye shaam-e-gharibaaṅ hai...
 
   4
-  Kal shaadi hui jiski wo shehzadi hai bewa
-  Ye shaam e ghariban hai...
-  Kaunain ki shehzadiya hai...
-  Wo maa ke jawan sher sa ek beta tha jiska
+  Wo maaṅ ke jawaaṅ sher sa beta tha jis ka
+  Dil thaame hue karti hai ro ro ke ye nauha
+  Kehti hai tarap kar kahaaṅ dhunduṅ tujhe beta
+  Ye shaam-e-gharibaaṅ hai...
 
   5
-  Dil thaame huwe karti hai ro ro ke ye nauha
-  Kehti hai tadap kar kahan dhoondun tujhe beta
-  Ye shaam e ghariban hai...
-  Kaunain ki shehzadiya hai...
+  Kal god mein jis maaṅ ke the ek chaand sa beta
+  Roti hai ajab karb se wo ghamzada dukhiya
+  Ujri hui godi mein hai ujra hua jhula
+  Ye shaam-e-gharibaaṅ hai...
 
   6
-  Kal godh mein jis maa ke tha ek chand sa beta
-  Roti hai ajab karb se wo ghamzada dukhiya
-  Ujdi hui godi mein hai ujda hua jhoola
-  Ye shaam e ghariban hai...
+  Shabbir sulaate the jise sine pe apne
+  Jis bachchi ko paala tha bahut pyaar se sheh ne
+  Ab dasht mein khaati hai wohi bachchi tamaanche
+  Ye shaam-e-gharibaaṅ hai...
 
   7
-  Kaunain ki shehzadiya hai...
-  Shabbir sulaate thay jise seene pe apne
-  Jis bachi ko paala tha bahot pyar se sheh ne
-  Ab dasht mein khaati hai wohi bachi tamache
+  Jo bint-e-Ali khwaahar-e-Abbaas-e-jari hai
+  Jo chaadar-e-tathir ke saaye mein pali hai
+  Be maqna o chaadar sar-e-maidaaṅ mein khari hai
+  Ye shaam-e-gharibaaṅ hai...
 
   8
-  Ye shaam e ghariban hai...
-  Kaunain ki shehzadiya hai...
-  Jo binte ali khwahar e abbas e jari hai
-  Jo chadar e tatheer ke saaye mein pali hai
-
-  9
-  Be maqna o chadar sar e maidan khadi hai
-  Ye shaam e ghariban hai...
-  Kaunain ki shehzadiya hai...
-  Mazloomo yateemo ka hai jo khaafela salaar
-
-  10
-  Wo tashna dahan jo hai kayi roz se beemar
-  Pehnaya gaya haye usay tauq e garabaar
-  Ye shaam e ghariban hai...
-  Kaunain ki shehzadiya hai...
+  Mazlumoṅ yatimoṅ ka hai jo qaafila salaar
+  Wo tashna dahan jo hai kai roz se bimaar
+  Pehnaaya gaya haae use tauq-e-garaaṅ baar
+  Ye shaam-e-gharibaaṅ hai...
 ---
 
 کونین کی شہزادیاں ہے

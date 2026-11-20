@@ -7,6 +7,49 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shaam ke baazaar meiṅ ye kaun aaya berida - Keh do ye Zainab nahiṅ
+  Aaṅkh se aaṅsu rawaaṅ lab pe hai shukr-e-Khuda - Keh do ye Zainab nahiṅ
+
+  1
+  Ya Khuda ye koi saiyidaani na ho
+  Is ki surat jaani pehchaani na ho
+  Majma-e-aghyaar meiṅ karti hai jo aah o bukaa - Keh do ye Zainab nahiṅ
+
+  2
+  Jis ne baaloṅ ko banaaya hai rida
+  Jis ko patthar maarte haiṅ ashqiyaa
+  Ro ke apne bhaai ka jo parh rahi hai marsiya - Keh do ye Zainab nahiṅ
+
+  3
+  Jis pe sadqe ki khajureṅ pheṅk kar
+  Jashn meiṅ masruf haiṅ sab ahl-e-shar
+  De rahi phir bhi ummat ko jo jine ki dua - Keh do ye Zainab nahiṅ
+
+  4
+  Jis pe maatam kar rahi bekasi
+  Rassiyaaṅ haiṅ jis ke haathoṅ meiṅ bandhi
+  De rahi hai ye jo saari Bibiyoṅ ko hausla - Keh do ye Zainab nahiṅ
+
+  5
+  Ro rahi hai jis ke haathoṅ meiṅ rasan
+  Jis ko sab kehte haiṅ baaghi ki behan
+  Ashk jis ka aab hai aur taaziyaane haiṅ ghiza - Keh do ye Zainab nahiṅ
+
+  6
+  Jis ke baaloṅ ki safedi dekh kar
+  Lag raha hai mar gaye is ke pisar
+  Jis ki aahoṅ se laraz jaate haiṅ ye arz o samaa - Keh do ye Zainab nahiṅ
+
+  7
+  Jis ka ik bimaar beta saath hai
+  Darre jab zaalim lagaate haiṅ ise
+  Barh ke seh leti hai jo is ke bhi hisse ki saza - Keh do ye Zainab nahiṅ
+
+  8
+  Aarzu hai dil meiṅ ye Zill-e-Raza
+  Saath meiṅ ho zaairoṅ ka qaafila
+  Aur is nauhe se gunje Shaam ki saari faza - Keh do ye Zainab nahiṅ
 ---
 
 شام کے بازار میں یہ کون آیا بے ردا - کہہ دو یہ زینبؑ نہیں

@@ -15,22 +15,22 @@ romanLyrics: |-
   Marhaba marhaba marhaba ae Husain
 
   1
-  Jis ne sar teri chaukat pe kham kar diya
+  Jis ne sar teri chaukhat pe kham kar diya
   Bandagi ka saliqa use aa gaya
   Al-amaaṅ zer-e-khanjar wo sajda tera
-  Ro ke Ahmad ne jannat se di ye sada
+  Ro ke Ahmad ne jannat se di ye sadaa
 
   2
   Jo tere naqsh-e-paa par hua gaamzan
   Us ko ho kya bhala khauf-e-daar o rasan
   Wo sikhaya hai marne ka tu ne chalan
-  De diya maut ko zist ka baankpan
+  De diya maut ko zist ka baank pan
 
   3
   Kiuṅ farishtoṅ ne Aadam ko sajda kiya
   Roz-e-Aashur aalam pe roshan hua
   Kund khanjar tale rakh ke sukha gala
-  Tu ne insaniyat ka bharam rakh liya
+  Tu ne insaaniyat ka bharam rakh liya
 
   4
   Zindagi ko supurd-e-khaak kar diya
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Phir raha hai nigaahoṅ meiṅ manzar abhi
-  Laash karyal jawaaṅ aalam jaan ki
+  Laash kariyal jawaaṅ aalam jaan ki
   Teri himmat pe qurbaan Ibn-e-Ali
   Qalb-e-Akbar se tu ne sinaaṅ khench li
 ---

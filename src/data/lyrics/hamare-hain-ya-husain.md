@@ -1,7 +1,7 @@
 ---
 title: "میں کربلا میں کھڑا ہوں لباسِ سوگ میں ہوں"
 recitationId: "hamare-hai-ya-hussain"
-alternateTitle: "Hamare Haiṅ Ya Husaiṅ"
+alternateTitle: "Hamare Haiṅ Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,7 +20,7 @@ romanLyrics: |-
   Nigaaheṅ rauza-e-Shabbir ke tawaaf meiṅ haiṅ
   Laboṅ pe haaye Husaina gharib haaye Husain
   Khayaal aata hai iksathweṅ san-e-hijri ka aur us Muharram ka
-  Yehi maqaam tha ek banda-e-Khuda jis ka Husain naam tha
+  Yehi maqaam tha ak banda-e-Khuda jis ka Husain naam tha
 
   2
   Raah-e-Khuda meiṅ hatheli pe sar uthaaye hue
@@ -66,7 +66,7 @@ romanLyrics: |-
 
   9
   Insaaniyat ka maktab ghar Panjatan ka rakha
-  Us ghar meiṅ Panjatan ke ek shehr ko basaaya
+  Us ghar meiṅ Panjatan ke ak shehr ko basaaya
   Phir apna khun de ke us shehr ko sanwaara
   Ye shehr Nainawa hai ye shehr Maariya hai
 
@@ -85,7 +85,7 @@ romanLyrics: |-
   12
   Lute jo dil ka chain wo insaan nahiṅ hai
   Roye na jis ke nain wo insaan nahiṅ hai
-  Haṅs de jo sun ke bain wo insaan nahiṅ hai
+  Hans de jo sun ke bain wo insaan nahiṅ hai
   Insaaniyat bachaaye wo insaan hai insaan ho insaan
 
   13
@@ -122,7 +122,7 @@ romanLyrics: |-
   Is taraf shauq-e-shahaadat liye dil waale the
   Us taraf jashn manaate the zamaane waale
   Is taraf bekas o beaas Madine waale
-  Ek taraf tashna dahaaṅ sab ke sab khushk zabaaṅ
+  Ak taraf tashna dahaaṅ sab ke sab khushk zabaaṅ
 
   19
   Un ka maqtal tha jahaaṅ ret saari thi tapaaṅ
@@ -143,7 +143,7 @@ romanLyrics: |-
   Husain dil hai tera
 
   22
-  Karbala kya thi lainoṅ ki shaqaawat kya thi
+  Karbala kya thi la'inoṅ ki shaqaawat kya thi
   Soch insaan ke saadaat ki ghurbat kya thi
   Eid guzri hai abhi yaani ke Eid-e-qurbaaṅ
   Aap ne pura kiya hoga wo rukn-e-imaaṅ
@@ -205,19 +205,19 @@ romanLyrics: |-
   32
   Shaah un ko wo su-e-Shaah-e-umam dekhte the
   Zibh hote the Husain ahl-e-haram dekhte the
-  Mana dikhlaana chhuri ka hai pa-e-qurbaani
+  Mana dikhlaana chhuri ka hai pay-e-qurbaani
   Yaaṅ tha nau laakh ke narghe meiṅ Ali ka jaani
 
   33
-  Ek jaaṅ laakh kharidaar the aazam billaah
-  Har taraf zaalim o khunkhaar the aazam billaah
+  Ek jaaṅ laakh kharidaar the ae azm billaah
+  Har taraf zaalim o khunkhaar the ae azm billaah
   Apne rutbe ka kisi ko na shanaasa dekha
   Dekha pyaase ne jise khun ka pyaasa dekha
 
   34
   Aakhri shart chhuri tez ho narmi se rawaaṅ
   Taake tarpe na aziyat se zara bhi haiwaaṅ
-  Aakhri sajda udhar karne lage Shaah-e-huda
+  Aakhri sajda udhar karne lage Shaah-e-Huda
   Kund karta hua khanjar ko idhar Shimr chala
 
   35

@@ -16,12 +16,12 @@ romanLyrics: |-
   Aayatoṅ ka qaafila tha Karbala se Shaam tak
 
   1
-  Dard meiṅ duba hua rona bilakna dekh kar
-  Yaad meiṅ Asghar ki Bano ka tarapna dekh kar
+  Dard mein duba hua rona bilakna dekh kar
+  Yaad mein Asghar ki Bano ka tarapna dekh kar
   Saara kunba ro raha tha Karbala se Shaam tak
 
   2
-  Aag sine meiṅ lagaati thi jo yaad-e-naujavaaṅ
+  Aag sine mein lagaati thi jo yaad-e-naujavaaṅ
   Girya-e-Laila se hilti thi zamin o aasmaaṅ
   Aur laboṅ par marsiya tha Karbala se Shaam tak
 
@@ -32,17 +32,17 @@ romanLyrics: |-
 
   4
   Saare khaime jal chuke the ab koi khaima na tha
-  Dhup ki shiddat thi raste meiṅ koi saaya na tha
+  Dhup ki shiddat thi raste mein koi saaya na tha
   Aur suraj ro raha tha Karbala se Shaam tak
 
   5
-  Sailiyaṅ khaati rahi yaad-e-pidar meiṅ har nafas
+  Siliyaṅ khaati rahi yaad-e-pidar mein har nafas
   Dukhtar-e-Shabbir par aaya na zaalim ko taras
   Bas tamaanche maarta tha Karbala se Shaam tak
 
   6
-  Rassiyoṅ meiṅ the sabhi jakre hue ahl-e-haram
-  Sabr ki raahoṅ meiṅ ye phir bhi rahe saabit qadam
+  Rassiyoṅ mein the sabhi jakre hue ahl-e-haram
+  Sabr ki raahoṅ mein ye phir bhi rahe saabit qadam
   Har ghari shukr-e-Khuda tha Karbala se Shaam tak
 
   7

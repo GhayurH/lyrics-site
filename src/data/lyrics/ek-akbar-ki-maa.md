@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shehzadi laila shehzadi zehra
-  Shehzadi zainab salaam
-  Kehta hai ye dashte sitam kehte hai sab ahle qalam
-  Jumle ki ye rawani nahi alfaaz aur maani nahi
-  Bas tin hi maayeiṅ hai ye jin ka koi saani nahi
-  Ek akbar ki maa ek zainab ki maa
-  Ek aun o mohamed ki maa
-  Maa ki fitrat se hat kar diye imtehaṅ
-  Inke isaar pe sadqe dono jahaṅ
-  Kar gayi haq pe qurban rifl o jawaaṅ
-  Ek akbar ki maa...
-  Haadsoṅ se bachaati hai bacchoṅ ko maa
-  Maa ka aanchal hai aulaad ka sayebaṅ
-  Haaṅ magar is rawish par chali hai kahaṅ
-  Ek akbar ki maa...
-  Ro ke aun o mohamed se maa ne kaha
-  Apne mamu pe hona hai tumko fida
-  Kar ke betoṅ ko qurban thi shadmaṅ
-  Ek akbar ki maa...
-  Chand laila ka tha hum shabihe nabi
-  Uske laashe pe khud maut rone lagi
-  Kaisi bemisl maayeiṅ hai rabb e jahaṅ
-  Ek akbar ki maa...
-  Apne baalon se khud fatema nauhagar
-  Jhaarne aa gayi qatl gaahe pisar
-  Inko rab ne chuna hai pare imtehaṅ
-  Ek akbar ki maa...
-  Umme farwa rubab aur bano ka gham
-  Karbala ki sabhi maayeiṅ hai mohtaram
-  Haaṅ magar inka saani milega kahaṅ
-  Ek akbar ki maa...
-  Khatm mazhar ne safdar kiya yuṅ kalaam
+  Shehzadi Laila shehzadi Zehra
+  Shehzadi Zainab salaam
+  Kehta hai ye dasht-e-sitam kehte haiṅ sab ahl-e-qalam
+  Jumle ki ye rawaani nahiṅ alfaaz aur maani nahiṅ
+  Bas tin hi maayeṅ haiṅ ye jin ka koi saani nahiṅ
+  Ak Akbar ki maaṅ ek Zainab ki maaṅ
+  Ek Aun o Mohammad ki maaṅ
+  Maaṅ ki fitrat se hat kar diye imtihaaṅ
+  In ke isaar pe sadqe donoṅ jahaaṅ
+  Kar gayi haq pe qurbaan tifl o jawaaṅ
+  Ak Akbar ki maaṅ...
+  Haadsoṅ se bachaati hai bachchoṅ ko maaṅ
+  Maaṅ ka aanchal hai aulaad ka saayebaaṅ
+  Haaṅ magar is rawish par chali hai kahaaṅ
+  Ak Akbar ki maaṅ...
+  Ro ke Aun o Mohammad se maaṅ ne kaha
+  Apne maamu pe hona hai tum ko fida
+  Kar ke betoṅ ko qurbaan thi shaadmaaṅ
+  Ak Akbar ki maaṅ...
+  Chaand Laila ka tha ham shabih-e-Nabi
+  Us ke laashe pe khud maut rone lagi
+  Kaisi bemisl maayeṅ hai Rabb-e-jahaaṅ
+  Ak Akbar ki maaṅ...
+  Apne bachchoṅ se khud Fatema nauhagar
+  Jhaarne aa gayi qatl gaah-e-pisar
+  In ko Rab ne chuna hai par imtihaaṅ
+  Ak Akbar ki maaṅ...
+  Umm-e-Farwa Rubaab aur Bano ka gham
+  Karbala ki sabhi maayeṅ hai mohtaram
+  Haaṅ magar in ka saani milega kahaaṅ
+  Ak Akbar ki maaṅ...
+  Khatm Mazhar ne Safdar kiya yuṅ kalaam
   Karbala ki sabhi bibiyoṅ ko salaam
-  Bibiyoṅ ki nigahoṅ meiṅ thi sayebaṅ
-  Ek akbar ki maa...
+  Bibiyoṅ ki nigaahoṅ meiṅ thi saayebaaṅ
+  Ak Akbar ki maaṅ...
 ---
 
 ۱

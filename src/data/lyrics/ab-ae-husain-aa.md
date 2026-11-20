@@ -21,12 +21,12 @@ romanLyrics: |-
   Sar kat gaya hai jaan bakaf aa Husain aa
   Haider ke laal Fatima Zehra ke nur-e-ain
   Nur-e-nazar Rasul ke Zehra ke dil ke chain
-  Jannat ke baadshah Shahenshah-e-Mashriqain
+  Jannat ke baadshaah shahenshaah-e-mashriqain
   Tere liye hai kaun o makaaṅ ke ye zeb o zain
   Nana se apne tu ne jo waada kiya Husain
-  Misaq waale ahd ko pura kiya Husain
+  Misaaq wale ahd ko pura kiya Husain
   Tu ne jo mere saamne sajda kiya Husain
-  Haq bandagi ka tu ne ada kar diya Husain
+  Haq-e-bandagi ka tu ne ada kar diya Husain
   Ab tere mere bich nahiṅ koi faasla
   Ab ae Husain aa ab ae Husain aa
 
@@ -34,39 +34,39 @@ romanLyrics: |-
   Tiroṅ par tir tere badan par baras gaye
   Paani ki bund bund ko bachche taras gaye
   Ghazi ne tere nehr pe katwa diye haiṅ haath
-  Zinda rahenge haath ye mashk o alam ke saath
+  Zinda raheṅge haath ye mashk o alam ke saath
   Islam sar barehna khara tha jo saamne
   Zainab ne apne sar ki rida bakhsh di use
   Zehra ne chakki pis ke paala tujhe Husain
   In dushmanoṅ ne maar hi daala tujhe Husain
   Tu ne jawaaṅ pisar Ali Akbar bhi de diya
-  Shashmaah bezabaaṅ Ali Asghar ko bhi de diya
+  Shash maah bezabaaṅ Ali Asghar ko bhi de diya
   Ghar ko mere bachane bhara ghar bhi de diya
   Islam ki baqaa ke liye sar bhi de diya
-  Ab saari kainaat tere naam hai Husain
+  Ab saari kaainaat tere naam hai Husain
   Islam tere dam se hi Islam hai Husain
-  Haaṅ maiṅ huṅ tera tu hai mera
+  Haaṅ main huṅ tera tu hai mera
   Ab ae Husain aa ab ae Husain aa
 
   3
   Zakhmoṅ se chur chur hai tera badan Husain
-  Jangal meiṅ lut gaya tera saara chaman Husain
+  Jangal mein lut gaya tera saara chaman Husain
   Laashoṅ se saj gayi hai teri anjuman Husain
   Ab Karbala ki khaak hai tera watan Husain
-  Khaak-e-shifa hai maiṅ ne teri khaak ko kiya
+  Khaak-e-shifa hai main ne teri khaak ko kiya
   Takmil tujh se Panjtan-e-Paak ko kiya
-  Tu mera aaina hai maiṅ huṅ aaina tera
+  Tu mera aaina hai main huṅ aaina tera
   Ab ae Husain aa ab ae Husain aa
 
   4
-  Husain marzi-e-Khaaliq hai tere haathoṅ meiṅ
-  Payam o haq o sadaqat hai tere haathoṅ meiṅ
+  Husain marzi-e-Khaaliq hai tere haathoṅ mein
+  Payaam o haq o sadaaqat hai tere haathoṅ mein
   Ba ho chuki ye jang har ek maareka hua
-  Raazi Husain tujhse tera kibriya hua
-  Rakh ae Husain apni ye shamshir niyam meiṅ
-  Aa baargah-e-jalwa-e-Rabb-e-anaam meiṅ
+  Raazi Husain tujh se tera kibriyaa hua
+  Rakh ae Husain apni ye shamshir niyaam mein
+  Aa baargah-e-jalwa-e-Rabb-e-anaam mein
   Zakhmoṅ se saara jism sajaya hua hai tu
-  Apne lahu meiṅ aaj nahaya hua hai tu
+  Apne lahu mein aaj nahaya hua hai tu
   Tanha khara rahega bhala kab talak bata
   Ab ae Husain aa ab ae Husain aa
 ---

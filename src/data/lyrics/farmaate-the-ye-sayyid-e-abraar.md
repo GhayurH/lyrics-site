@@ -26,8 +26,8 @@ romanLyrics: |-
   2
   Rukhsat jo hue Hazrat-e-Shabbir haram se
   Ghere haiṅ haram lipte hue Shaah-e-Umam se
-  Ek bachchi bhi lipti hui thi Shah ke qadam se
-  The ghash meiṅ udhar Abid-e-bimaar
+  Ak bachchi bhi lipti hui thi Shah ke qadam se
+  The ghash meiṅ udhar Aabid-e-bimaar
 
   3
   Zakhmoṅ se badan chur hai aur haal hai muztar
@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Le jaayega kumbe ko mere Shaam ka lashkar
   Sar nange haram jaayeṅge darbaar meiṅ kiuṅ kar
-  Ek ek se faryaad karegi meri khwaahar
+  Ak ek se faryaad karegi meri khwaahar
   Bimaar mera qaafila salaar
 
   5
@@ -55,9 +55,9 @@ romanLyrics: |-
 
   7
   Par dil se mere dur nahiṅ aap ka rauza
-  Rehta hai mere sine meiṅ ek dard ka darya
+  Rehta hai mere sine meiṅ ak dard ka darya
   Daala hai isi mauj meiṅ nauhe ka ariza
-  Mehshar bhi hai ek adna azadaar
+  Mehshar bhi hai ak adna azadaar
 ---
 
 فرماتے تھے یہ سید ابرار

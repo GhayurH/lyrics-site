@@ -1,29 +1,48 @@
 ---
-title: "Arman Riya Arman Riya"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ارمان ریا ارمان ریا"
+alternateTitle: "Arman Riya Arman Riya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Arman riya arman riya kyun baad Hussain jahan riya
+  Mazloom da sadqa saley Allah eman riya Quran riya
+
+  1
+  Farmaya Hur nu Zainab ne nayi bhulne veeraan de sadme
+  Afsoos ke bhukiyaan paiyasiyaan da do ghariyaan tu mehmaan riya
+
+  2
+  Payi rondi te kurlandi si main Zainab haan farmandi si
+  Zainab na pachani jandi si dil Sughra da hairan riya
+
+  3
+  Kadi bang Akbar di rukni nayi kadi phori Shah di mukni nayi
+  Kadi zulm kahani lukni nayi ayeh Zainab da ihsan riya
+
+  4
+  Sach baat Nisar ne bool diti piyase ne haqeeqat khool diti
+  Wich gardanaa de Quraan riya par dil wich na emaan riya
 ---
 
-Arman Riya Arman Riya Kyun Baad Hussain Jahan Riya.
-Mazloom Da Sadqa Saley Allah Eman Riya Quran Riya.
+ارمان ریا ارمان ریا کیوں بعد حسین جہاں ریا
+مظلوم دا صدقہ صلِّ اللہ ایمان ریا قرآن ریا
 
-1
-Farmaya Hur Nu Zainab Ne Nayi Bhulne Veeraan De Sadme.
-Afsoos Ke Bhukiyaan Paiyasiyaan Da Do Ghariyaan Tu Mehmaan Riya.
+۱
+فرمایا حر نوں زینب نے نئیں بھلنے ویراں دے صدمے
+افسوس کہ بھکھیاں پیاسیاں دا دو گھڑیاں توں مہمان ریا
 
-2
-Payi Rondi Te Kurlandi Si Main Zainab Haan Farmandi Si.
-Zainab Na Pachani Jandi Si Dil Sughra Da Hairan Riya.
+۲
+پئی روندی تے کرلاندی سی میں زینب ہاں فرماندی سی
+زینب نہ پچھانی جاندی سی دل صغریٰ دا حیران ریا
 
-3
-Kadi Bang Akbar Di Rukni Nayi Kadi Phori Shah Di Mukni Nayi.
-Kadi Zulm Kahani Lukni Nayi Ayeh Zainab Da Ihsan Riya.
+۳
+کدی بانگ اکبر دی رکنی نئیں کدی پھوڑی شاہ دی مکنی نئیں
+کدی ظلم کہانی لکنی نئیں ایہہ زینب دا احسان ریا
 
-4
-Sach Baat Nisar Ne Bool Diti Piyase Ne Haqeeqat Khool Diti.
-Wich Gardanaa De Quraan Riya Par Dil Wich Na Emaan Riya.
+۴
+سچ بات نثار نے بول دتی پیاسے نے حقیقت کھول دتی
+وچ گردناں دے قرآن ریا پر دل وچ نہ ایمان ریا

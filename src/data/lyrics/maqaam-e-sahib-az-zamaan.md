@@ -14,8 +14,8 @@ published: true
 romanLyrics: |-
   Suno ae ahl-e-aza dardnaak ye manzar
   Kisi ne puchha jo qaayim Imam se ro kar
-  Imam rote haiṅ kiuṅ is maqaam par aa kar
-  To sar ko pit ke bole ye Shaah-e-jinn o bashar
+  Imam rote haiṅ kiuṅ is maqaam par aakar
+  To sar ko pit ke bole ye Shaah-e-jin o bashar
   Na is maqaam pe kiuṅ Askari ka chain gire
   Ye wo zamiṅ hai jahaaṅ zin se Husain gire
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Hai ek maaṅ jo yahaaṅ saari raat roti hai
 
   2
-  Isi maqaam se Ghazi ko Sheh ne di thi sada
+  Isi maqaam pe Ghazi ko Sheh ne di thi sada
   Na dekha tum ne hamaari laraai ko bhaiya
   Ye keh rahe the ke bas Hurmala ka tir laga
   Gharib-e-Zehra yahaaṅ zin par sambhal na saka
@@ -48,22 +48,22 @@ romanLyrics: |-
   Badan se tir nikaale the apne haathoṅ se
 
   5
-  Yahiṅ pe Shimr ne socha ho kaise andaaza
+  Yahi pe Shimr ne socha ho kaise andaaza
   Ke mar gaya hai ya zinda hai dilbar-e-Zahra
-  Qayaam lut lo Zainab ke di phir us ne sada
+  Qiyaam lut lo Zainab ke di phir us ne sada
   Tarap ke uthe the Zainab ke naam par Maula
 
   6
   Ali ke laal ki aankhoṅ meiṅ tha wohi manzar
-  Gire the jis jagah barchhi ke waar se Akbar
+  Gire the jis jagah barchi ke waar se Akbar
   Jawaan laal ko rone ki aarzu le kar
-  Yahiṅ se ghutniyoṅ chalte huwe gaye Sarwar
+  Yahi se ghutniyoṅ chalte hue gaye Sarwar
 
   7
-  Chale the ghutniyoṅ Akbar ki laash tak Maula
+  Chale the ghutniyoṅ Akbar ki laash par Maula
   Yahaaṅ se aage Takallum bayaan kya ho bhala
   Gharib kaise bhala qatl gaah tak pahuncha
-  Yahiṅ se zulfeiṅ pakar kar lain le ke chala
+  Yahi se zulfeiṅ pakar kar la'in le ke chala
 ---
 سنو اے اہلِ عزا درد ناک یہ منظر
 کسی نے پوچھا جو قایم امام سے رو کر

@@ -15,7 +15,7 @@ romanLyrics: |-
   Baithi thi apne laal ke nazdik Sayyeda
   Ik baar aayi kaanoṅ meiṅ mazlum ki sada
   Abbas Abbas Abbas
-  Rukh su-e-Alqama kiya karne lagi ye bain
+  Rukh su-e-Alqama kiya, karne lagi ye bain
   Abbas utho tum ko sada deta hai Husain
 
   1
@@ -39,7 +39,7 @@ romanLyrics: |-
   4
   Tanha sitamgaroṅ ne ise gher liya hai
   Ji jaisa jis ka chaaha sitam us ne kiya hai
-  Tiroṅ se patharoṅ se ise zakhmi kiya hai
+  Tiroṅ se pattharoṅ se ise zakhmi kiya hai
   Ab jaanib-e-Husain sitamgaar barha hai
 
   5
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   6
   Khanjar sambhaale haath meiṅ hai Shimr-e-bad shiaar
-  Karti hai bain maut buka karti hai hayaat
+  Karti hai bain maut, bukaa karti hai hayaat
   Ik din meiṅ lut gayi mere bachche ki kaainaat
   Dekhe su-e-qiyaam kabhi jaanib-e-Furaat
 
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   8
   Farhaan o Mazhar Abidi kaisa wo khwaab tha
-  Aashur ka wo roz tha hum aur Karbala
+  Aashur ka wo roz tha ham aur Karbala
   Pahunche pa-e-ziyaarat-e-Abbas-e-bawafa
   Kaanoṅ meiṅ aayi ek sisakti hui sada
 ---

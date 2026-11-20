@@ -1,29 +1,49 @@
 ---
 title: "کون ہے یہ مستور جو اب تک اصغرؑ اصغرؑ کہتی ہے"
+alternateTitle: "Kon Hai Ye Mastoor Jo Ab Tak Asghar Asghar Kehti Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kon hai ye mastoor jo ab tak Asghar Asghar kehti hai
+  Saaye se ghabhrati hai or dhoop me baythi rehti hai
+
+  1
+  Pyas ke aalam me paani ko, dekh ke aahein bharti hai
+  Haath bhigo kar pani me kuch khaak pe likhti rehti hai
+
+  2
+  Dard bhari lori kehti hai, eik jaley jhooley ke paas
+  Khoon aaluda kurtey se phir baatein karti rehti hai
+
+  3
+  Maa ki nazro ke aaghey koi, beta baap ke hatho par
+  Dam na torey ay Allah ye duaein maangti rehti hai
+
+  4
+  Ab tak aas hai dukhyari ko, Asghar laut ke ayega
+  Nehr e Furaat ki raaho ko ye pal pal takti rehti hai
 ---
 
-Kon hai ye mastoor jo ab tak asghar asghar kehti hai
-Saaye se ghabhrati haior dhoop me baythi rehti hai
+کون ہے یہ مستور جو اب تک اصغر اصغر کہتی ہے
+سائے سے گھبراتی ہے اور دھوپ میں بیٹھی رہتی ہے
 
-1
-1.Pyas ke aalam me paani ko, dekh ke aahein bharti hai
-Haath bhigo kar pani mekuch khaak pe likhti rehti hai
+۱
+پیاس کے عالم میں پانی کو، دیکھ کے آہیں بھرتی ہے
+ہاتھ بھگو کر پانی میں کچھ خاک پہ لکھتی رہتی ہے
 
-2
-2.Dard bhari lori kehti hai, eik jaley jhooley ke paas
-Khoon aaluda kurtey sephir baatein karti rehti hai
+۲
+درد بھری لوری کہتی ہے، ایک جلے جھولے کے پاس
+خون آلودہ کرتے سے پھر باتیں کرتی رہتی ہے
 
-3
-3.Maa ki nazro ke aaghey koi, beta baap ke hatho par
-Dam na torey ay Allahye duaein maangti rehti hai
+۳
+ماں کی نظروں کے آگے کوئی، بیٹا باپ کے ہاتھوں پر
+دم نہ توڑے اے اللہ یہ دعائیں مانگتی رہتی ہے
 
-4
-4.Ab tak aas hai dukhyari ko, asghar laut ke ayega
-Nehr e furaat ki raaho koye pal pal takti rehti hai
+۴
+اب تک آس ہے دکھیاری کو، اصغر لوٹ کے آئے گا
+نہرِ فرات کی راہوں کو یہ پل پل تکتی رہتی ہے

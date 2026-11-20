@@ -16,9 +16,9 @@ romanLyrics: |-
   Baad-e-Ahmad jo tha din ka peshwa zakhmi hua
 
   1
-  Ibn-e-Muljim ki shakhawat ne sitam dhaaya hai ye
+  Ibn-e-Muljim ki saqaawat ne sitam dhaaya hai ye
   Ho gaya tar lo musalla Murtaza ke khun se
-  Dahr meiṅ khaaliq ka jo tha maujiza zakhmi hua
+  Dahr meiṅ Khaaliq ka jo tha mojiza zakhmi hua
 
   2
   Yaad-e-maadar aur bhi shiddat se tarpaane lagi
@@ -32,12 +32,12 @@ romanLyrics: |-
 
   4
   Haath phaila kar Ali kehte haiṅ ye ae Kirdigaar
-  Tu gawara rahiyo ke waqt-e-taaat-e-Parwardigaar
+  Tu ganwaara rahiyo ke waqt-e-taaat-e-Parwardigaar
   Tere sajde meiṅ ye tera baawafa zakhmi hua
 
   5
-  Aayatoṅ ke darmiyaaṅ kohraam tha kohraam tha
-  Khaima-e-Quran meiṅ chaaroṅ taraf hangaam tha
+  Aayatoṅ ke darmiyaaṅ kahraam tha kahraam tha
+  Khaima-e-Quraan meiṅ chaaroṅ taraf hangaam tha
   Waqt-e-sajda haaye fakhr-e-Ambiya zakhmi hua
 
   6
@@ -48,7 +48,7 @@ romanLyrics: |-
   7
   Tha yehi bachchoṅ ka nauha ya Nabi faryaad hai
   Aaiye bahr-e-madad ye saaat-e-imdaad hai
-  Dekhiye masjid meiṅ Shaah-e-do sara zakhmi hua
+  Dekhiye masjid meiṅ Shaah-e-do saraa zakhmi hua
 
   8
   Sayyeda ka aaj pehlu aur zakhmi ho gaya

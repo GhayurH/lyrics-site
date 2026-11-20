@@ -17,8 +17,8 @@ romanLyrics: |-
   Kul ambiya sarhaane haathoṅ ko mal rahe haiṅ
 
   1
-  Aisa koi sitaara sur khaasima hai saara
-  Wo aandhiyaaṅ haiṅ sinoṅ meiṅ dil behal rahe haiṅ
+  Aisa koi sitaara sar qaasima hai saara
+  Wo aandhiyaaṅ haiṅ sinoṅ meiṅ dil bahal rahe haiṅ
   Aur tir chal rahe haiṅ
 
   2
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Zakhmoṅ se jo rawaaṅ hai haaye lahu kahaaṅ hai
-  Ye nur-e-kibriya ke chashme ubal rahe haiṅ
+  Ye nur-e-kibriya ke chashm ubal rahe haiṅ
   Aur tir chal rahe haiṅ
 
   6
@@ -52,7 +52,7 @@ romanLyrics: |-
   Aur tir chal rahe haiṅ
 
   8
-  Ek ae Naved hai ye kul Karbala ka haasil
+  Ik ae Naved hai ye kul Karbala ka haasil
   Hal min ke lafz Shah ke munh se nikal rahe haiṅ
   Aur tir chal rahe haiṅ
 ---

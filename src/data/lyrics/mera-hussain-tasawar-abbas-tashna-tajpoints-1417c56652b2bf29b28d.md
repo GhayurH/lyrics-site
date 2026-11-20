@@ -1,37 +1,60 @@
 ---
-title: "Mera Hussain Tasawar Abbas Tashna"
+title: "میرا حسین تصور عباس تشنہ"
+alternateTitle: "Mera Hussain Tasawar Abbas Tashna"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mera Hussain naqabein hatanay wala hai
+  Khuda hai kaisa yeh sab ko dikhaney wala hai
+  Kaha yeh Ghazi ne Mosa se Karbala aao
+  Hussain Rab ko zameen pe bulanay wala hai
+  Khuda ne di hai khudai yeh keh ke Asar ke waqt
+  Hussain ab se khudai chalaney wala hai
+
+  2
+  Aye Hurmala teri shamat qareeb hai keh Hussain
+  Kissi Sagheer ko hansna sikhanay wala hai
+  Zara thehar teri aoulad ke liye Rahib
+  Hussain loh-o-qalam phir bananey wala hai
+  Yeh mojza hai azadari kam nahi hogi
+  Mitay ga khud jo azza ko mitanay wala hai
+
+  3
+  Yeh zaib deta hai oss ko ho kam se kam Yousuf
+  Hussain hathoon se jis ko bananey wala hai
+  Utha ke laein hain romal-e-Fatima, Zainab
+  Hussain, Hur ka muqadar jagane wala hai
+  Ossi ke hath mein kul kainat ho gayi Muhib
+  Alam jo Karb-o-Bala mein uthane wala hai
 ---
 
-Mera Hussain Tasawar Abbas Tashna Lyrics
+۱
+میرا حسین نقابیں ہٹانے والا ہے
+خدا ہے کیسا یہ سب کو دکھانے والا ہے
+کہا یہ غازی نے موسیٰ سے کربلا آؤ
+حسین رب کو زمین پہ بلانے والا ہے
+خدا نے دی ہے خدائی یہ کہہ کے عصر کے وقت
+حسین اب سے خدائی چلانے والا ہے
 
-1
-Mera Hussain Naqabein Hatanay Wala Hai.
-Khuda Hai Kaisa Yeh Sab Ko Dikhaney Wala Hai.
-Kaha Yeh Ghazi Ne Mosa Se Karbala Aao.
-Hussain Rab Ko Zameen Pe Bulanay Wala Hai.
-Khuda Ne Di Hai Khudai Yeh Keh Ke Asar Ke Waqt.
-Hussain Ab Se Khudai Chalaney Wala Hai.
+۲
+اے حرملہ تیری شامت قریب ہے کہ حسین
+کسی صغیر کو ہنسنا سکھانے والا ہے
+ذرا ٹھہر تیری اولاد کے لیے راہب
+حسین لوح و قلم پھر بنانے والا ہے
+یہ معجزہ ہے عزاداری کم نہیں ہوگی
+مٹے گا خود جو عزا کو مٹانے والا ہے
 
-2
-Aye Hurmala Teri Shamat Qareeb Hai Keh Hussain.
-Kissi Sagheer Ko Hansna Sikhanay Wala Hai.
-Zara Thehar Teri Aoulad Ke Liye Rahib.
-Hussain Loh-o-Qalam Phir Bananey Wala Hai.
-Yeh Mojza Hai Azadari Kam Nahi Hogi.
-Mitay Ga Khud Jo Azza Ko Mitanay Wala Hai.
-
-3
-Yeh Zaib Deta Hai Oss Ko Ho Kam Se Kam Yousuf.
-Hussain Hathoon Se Jis Ko Bananey Wala Hai.
-Utha Ke Laein Hain Romal-e-Fatima, Zainab.
-Hussain, Hur Ka Muqadar Jagane Wala Hai.
-Ossi Ke Hath Mein Kul Kainat Ho Gayi Muhib.
-Alam Jo Karb-o-Bala Mein Uthane Wala Hai.
+۳
+یہ زیب دیتا ہے اس کو ہو کم سے کم یوسف
+حسین ہاتھوں سے جس کو بنانے والا ہے
+اٹھا کے لائیں ہیں رومالِ فاطمہ، زینب
+حسین، حر کا مقدر جگانے والا ہے
+اسی کے ہاتھ میں کل کائنات ہو گئی محب
+علم جو کرب و بلا میں اٹھانے والا ہے

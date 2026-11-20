@@ -1,56 +1,102 @@
 ---
 title: "شامِ غریباں میں حرم کرتے تھے فریاد"
+alternateTitle: "Sham-e-Ghariban Mein Haram Karte The Faryaad"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haaye Alamdar
+  Haaye Hussain, Haye Hussain
+  Sham-e-gum aagayi bekasi chaa gai
+  Sham ki fouj khaimo talak aagaye
+  Aatishe zulmo khaime jalane lagi
+  Mere Khuda labe Furat sayebaan jal gaya
+  Jale khayam Saiyada ka phir maqan jal gaya
+  Sham-e-Gariba main haram karte the faryaad
+
+  1
+  Shame-e-Gariba mein haram karte the faryaad
+  Haaye haaye haaye haaye haaye Alamadar
+
+  2
+  Chaadare chin gai lut gaya malo zar
+  Khaima dar khaima hai bibiyo ka safar
+  Betiya Fatema ki huwi nauhagar
+  Tadap tadap ke ya Ali pukarti thi bibiya
+  Idhar udhar buss apne lal dhundti thi bibiya
+  Jalne laga haaye udhar bistare bimaar
+
+  3
+  Kya kare Zainab khasta dil kya kare
+  Na rahe waarisane haram na rahe
+  Raat aayi nahi aur sab sogaye
+  Dhuva dhuva fiza lahu lahu hai dashte Karbala
+  Kisi nasheb se hai mushtaqeel sadae Fatema
+  Naalae ya Fatema ya Haidere Karrar
+
+  4
+  Khaaq par aagayi bibiya nauhagar
+  God mein pyaase baccho ke rakhe hai sar
+  Kis ko aawaz de haaye jaaye kidhar
+  Na koi bhai hai na bhai ka pisar na bhaanja
+  Ali ki laadli ne bhai ka alam utha liya
+  Mire sadar mire haram Zainab e laachar
+
+  5
+  Haaye Rehan-o-Sarwar sare Karbala
+  Hoke bedasht ek lashaye baawafa
+  Dekhta rehgaya qafela chaldiya
+  Salam bekafan badan woh jinke sar hue judaa
+  Salam dukhtarane Fatema aseero berida
+  Ek rasan baara gale kuhchao baazar
 ---
 
-Haaye Alamdar..... (4)
-Haaye Hussain Haye Hussain,.....(3)
-Sham -E- Gum Aagayi Bekasi Chaa Gai
-Sham Ki Fouj Khaimo Talak Aagaye
-Aatishe Zulmo Khaime Jalane Lagi
-Mere Khuda Labe Furat Sayebaan Jal Gaya
-Jale Khayam Saiyada Ka Phir Maqan Jal Gaya
-Sham -E- Gariba Main Haram Karte The Faryaad
+ہائے علمدار
+ہائے حسین، ہائے حسین
+شامِ غم آ گئی بے کسی چھا گئی
+شام کی فوج خیموں تلک آ گئے
+آتشِ ظلم و خیمے جلانے لگی
+میرے خدا لبِ فرات سائبان جل گیا
+جلے خیام سیدہ کا پھر مکاں جل گیا
+شامِ غریباں میں حرم کرتے تھے فریاد
 
-1
-Shame -E- Gariba Mein Haram Karte The Faryaad..... (2)
-Haaye Haaye Haaye Haaye Haaye Alamadar ….. (2)
+۱
+شامِ غریباں میں حرم کرتے تھے فریاد
+ہائے ہائے ہائے ہائے ہائے علمدار
 
-2
-Chaadare Chin Gai Lut Gaya Malo Zar
-Khaima Dar Khaima Hai Bibiyo Ka Safar
-Betiya Fatema Ki Huwi Nauhagar
-Tadap Tadap Ke Ya Ali Pukarti Thi Bibiya..................
-Idhar Udhar Buss Apne Lal Dhundti Thi Bibiya
-Jalne Laga Haaye Udhar Bistare Bimaar
+۲
+چادریں چھن گئیں لٹ گیا مال و زر
+خیمہ در خیمہ ہے بیبیوں کا سفر
+بیٹیاں فاطمہ کی ہوئیں نوحہ گر
+تڑپ تڑپ کے یا علی پکارتی تھیں بیبیاں
+ادھر ادھر بس اپنے لال ڈھونڈتی تھیں بیبیاں
+جلنے لگا ہائے ادھر بسترِ بیمار
 
-3
-Kya Kare Zainab Khasta Dil Kya Kare
-Na Rahe Waarisane Haram Na Rahe
-Raat Aayi Nahi Aur Sab Sogaye
-Dhuva Dhuva Fiza Lahu Lahu Hai Dashte Karbala.....
-Kisi Nasheb Se Hai Mushtaqeel Sadae Fatema
-Naalae Ya Fatema Ya Haidere Karrar
+۳
+کیا کرے زینب خستہ دل کیا کرے
+نہ رہے وارثانِ حرم نہ رہے
+رات آئی نہیں اور سب سو گئے
+دھواں دھواں فضا لہو لہو ہے دشتِ کربلا
+کسی نشیب سے ہے مستقل صدائے فاطمہ
+نالۂ یا فاطمہ یا حیدرِ کرار
 
-4
-Khaaq Par Aagayi Bibiya Nauhagar
-God Mein Pyaase Baccho Ke Rakhe Hai Sar
-Kis Ko Aawaz De Haaye Jaaye Kidhar
-Na Koi Bhai Hai Na Bhai Ka Pisar Na Bhaanja
-Ali Ki Laadli Ne Bhai Ka Alam Utha Liya
-Mire Sadar Mire Haram Zainab E Laachar
+۴
+خاک پر آ گئیں بیبیاں نوحہ گر
+گود میں پیاسے بچوں کے رکھے ہیں سر
+کس کو آواز دے ہائے جائے کدھر
+نہ کوئی بھائی ہے نہ بھائی کا پسر نہ بھانجا
+علی کی لاڈلی نے بھائی کا علم اٹھا لیا
+مرے صدر مرے حرم زینبِ لاچار
 
-5
-Haaye Rehan -O- Sarwar Sare Karbala
-Hoke Bedasht Ek Lashaye Baawafa
-Dekhta Rehgaya Qafela Chaldiya
-Salam Bekafan Badan Woh Jinke Sar Hue Judaa
-Salam Dukhtarane Fatema Aseero Berida
-Ek Rasan Baara Gale Kuhchao Baazar
+۵
+ہائے ریحان و سرور سرِ کربلا
+ہو کے بہ دشت اک لاشۂ باوفا
+دیکھتا رہ گیا قافلہ چل دیا
+سلام بے کفن بدن وہ جن کے سر ہوئے جدا
+سلام دخترانِ فاطمہ اسیر و بے ردا
+ایک رسن بارہ گلے کوچہ و بازار

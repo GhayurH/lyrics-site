@@ -1,41 +1,72 @@
 ---
-title: "Tere Sadqay Mein Zahra Ho Raha Hai"
+title: "تیرے صدقے میں زہرا ہو رہا ہے"
+alternateTitle: "Tere Sadqay Mein Zahra Ho Raha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tere sadqay mein Zahra ho raha hai
+  Khuda ko jo bhi sajda ho raha hai
+  Teri chadar ke saye mein aye Bibi
+  Khuda walon ka jalsa ho raha hai
+
+  2
+  Musalmano phiray thay Fatima se
+  Tumhare sath acha ho raha hai
+  Tujhe Abbas ki maa keh raha hoon
+  Talab mujh se hawala ho raha hai
+
+  3
+  Ali walay jina mein ja rahe hain
+  Jo wadah tha woh pora ho raha hai
+  Kissi Mukhtar ko bhejein aye Bibi
+  Hamara shehar Kofa ho raha hai
+
+  4
+  Imam-e-Asar aa jaein Khudara
+  Ali walon mein jhagra ho raha hai
+  Aye mufti roak le Salman ko ja
+  Dar-e-Zahra pe sajda ho raha hai
+
+  5
+  Teri chaki ke chakar se aye Bibi
+  Jahan ka rizq pora ho raha hai
+  Ba-faiz-e-Fatima Zahra Takallum
+  Tere shairon ka charcha ho raha hai
 ---
 
-1
-Tere Sadqay Mein Zahra Ho Raha Hai.
-Khuda Ko Jo Bhi Sajda Ho Raha Hai.
-Teri Chadar Ke Saye Mein Aye Bibi.
-Khuda Walon Ka Jalsa Ho Raha Hai.
+۱
+تیرے صدقے میں زہرا ہو رہا ہے
+خدا کو جو بھی سجدہ ہو رہا ہے
+تیری چادر کے سائے میں اے بی‌بی
+خدا والوں کا جلسہ ہو رہا ہے
 
-2
-Musalmano Phiray Thay Fatima Se.
-Tumhare Sath Acha Ho Raha Hai.
-Tujhe Abbas Ki Maa Keh Raha Hoon.
-Talab Mujh Se Hawala Ho Raha Hai.
+۲
+مسلمانو پھرے تھے فاطمہ سے
+تمہارے ساتھ اچھا ہو رہا ہے
+تجھے عباس کی ماں کہہ رہا ہوں
+طلب مجھ سے حوالہ ہو رہا ہے
 
-3
-Ali Walay Jina Mein Ja Rahe Hain.
-Jo Wadah Tha Woh Pora Ho Raha Hai.
-Kissi Mukhtar Ko Bhejein Aye Bibi.
-Hamara Shehar Kofa Ho Raha Hai.
+۳
+علی والے جناں میں جا رہے ہیں
+جو وعدہ تھا وہ پورا ہو رہا ہے
+کسی مختار کو بھیجیں اے بی‌بی
+ہمارا شہر کوفہ ہو رہا ہے
 
-4
-Imam-e-Asar Aa Jaein Khudara.
-Ali Walon Mein Jhagra Ho Raha Hai.
-Aye Mufti Roak Le Salman Ko Ja.
-Dar-e-Zahra Pe Sajda Ho Raha Hai.
+۴
+امامِ عصر آ جائیں خدارا
+علی والوں میں جھگڑا ہو رہا ہے
+اے مفتی روک لے سلمان کو جا
+درِ زہرا پہ سجدہ ہو رہا ہے
 
-5
-Teri Chaki Ke Chakar Se Aye Bibi.
-Jahan Ka Rizq Pora Ho Raha Hai.
-Ba-Faiz-e-Fatima Zahra Takallum.
-Tere Shairon Ka Charcha Ho Raha Hai.
+۵
+تیری چکی کے چکر سے اے بی‌بی
+جہاں کا رزق پورا ہو رہا ہے
+بہ فیضِ فاطمہ زہرا تکلم
+تیرے شعروں کا چرچا ہو رہا ہے

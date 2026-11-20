@@ -1,7 +1,7 @@
 ---
 title: "فاتحِ بدر و اُحد، خندق و خیبر بولے"
 recitationId: "faatahe-badr-o-uhad-khandaq-o-khaiber-bolay"
-alternateTitle: "Faatahe Badr-O-Uhad Khandaq o Khaiber Bole"
+alternateTitle: "Faatih-e-Badr o Uhad, Khandaq o Khaibar Bole"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,48 +12,48 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Faatahe Badr o Uhad, Khandaq o khaibar bole
-  Fard hai eik zamana ise lashkar bole
+  Faatih-e-Badr o Uhad, Khandaq o Khaibar bole
+  Fard hai ek, zamaana ise lashkar bole
 
   2
-  Gaarh kar run meiṅ Alam, Faatah-e-khyber bole
-  Hai Ali naam mera maaṅ mujhe Haider bole
+  Gaarh kar ran meiṅ alam, Faatih-e-Khaibar bole
+  Hai Ali naam mera, maaṅ mujhe Haidar bole
 
   3
-  Ayi mushkil abhi asaan kiye dete hai
-  Tan pe acha nahi lagta ho jise sir bole
+  Aai mushkil abhi aasaan kiye dete haiṅ
+  Tan pe achchha nahiṅ lagta ho jise sar bole
 
   4
-  wo alag log the jo dekh ke dar laut gaye
-  haye marhab hai kahaṅ ab koi antar bole
+  Woh alag log the jo dekh ke dar laut gaye
+  Haaye Marhab hai kahaaṅ, ab koi Antar bole
 
   5
-  *aaj to arsh-e-mualla pe hai rindoṅ ka dimaagh
-  aaj pine ke liye ke liye saqi-e-kauthar bole
+  * Aaj to arsh-e-mualla pe hai rindoṅ ka dimaagh
+  Aaj pine ke liye saaqi-e-Kausar bole
 
   6
-  *Baakhuda is meiṅ nusairi ki nahiṅ koyi khataa
-  Madh-e-Hyder meiṅ payambar haiṅ sambhal kar bole
+  *Baakhuda is meiṅ Nusairi ki nahiṅ koi khataa
+  Madh-e-Haidar meiṅ paimbar haiṅ sambhal kar bole
 
   7
-  ye zacha khaana-e-farzand-e-abu talib hai
-  ye zamana jise allah ka hai ghar bole
+  Yeh zachcha khaana-e-farzand-e-Abu Taalib hai
+  Yeh zamaana jise Allah ka hai ghar bole
 
   8
-  khaana-e-kaaba azal hi se ali ka ghar hai
-  saamne aaye kisi aur ka ho ghar bole
+  Khaana-e-Kaaba azal hi se Ali ka ghar hai
+  Saamne aaye kisi aur ka ho ghar bole
 
   9
-  dekh kar aate huwe Faatah-e-khyber ke qadam
-  muskurati huwi diwaar barhi dar bole
+  Dekh kar aate hue Faatih-e-Khaibar ke qadam
+  Muskuraati hui diwaar barhi dar bole
 
   10
-  Hamil-e-wahi-e-illahi ne chusaayi hai zabaṅ
-  Ilm ka shehr ise Ilm ka hai dar bole
+  Haamil-e-wahi-e-ilaahi ne chusaai hai zabaaṅ
+  Ilm ka shehr ise, ilm ka hai dar bole
 
   11
-  ye ghulaamaan-e-ali ibn-e-abi talib haiṅ
-  has ke rizwan ko ishaare se payambar bole
+  Yeh ghulaamaan-e-Ali ibn-e-Abi Taalib haiṅ
+  Hans ke Rizwaan ko ishaare se paimbar bole
 ---
 
 ۱

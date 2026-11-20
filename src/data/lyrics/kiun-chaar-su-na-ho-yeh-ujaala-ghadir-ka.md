@@ -12,7 +12,7 @@ aliases: ["Kyun Chaar Soo Na Ho Yeh Ojala Ghadeer Ka"]
 published: true
 romanLyrics: |-
   Kiuṅ chaar su na ho yeh ujaala Ghadir ka
-  Din hai dinoṅ meiṅ sab se yeh aala Ghadir ka
+  Din hai dinoṅ mein sab se yeh aalaa Ghadir ka
 
   1
   Jashn-e-Ghadir kaise manaaeṅ ge Shaikh ji
@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Ham ne lagaaye jaam wilaa-e-Ali ke aaj
-  Aur kuchh gharoṅ meiṅ aaj hai pursa Ghadir ka
+  Aur kuchh gharoṅ mein aaj hai pursa Ghadir ka
 
   3
-  Laakhoṅ kitaabeṅ parh le magar meri nazar meiṅ
+  Laakhoṅ kitaabeṅ parh le magar meri nazar mein
   Beaql hai jo na ho diwaana Ghadir ka
 
   4
-  Tiroṅ ki tarah sinoṅ meiṅ aelaan ja laga
+  Tiroṅ ki tarah sinoṅ mein aelaan ja laga
   Kya khub tha na waise nishaana Ghadir ka
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Ae kaash Asad Aazmi Maula Ali kaheṅ
-  Sun rakha hai yeh maiṅ ne qasida Ghadir ka
+  Sun rakha hai yeh main ne qasida Ghadir ka
 ---
 
 کیوں چار سو نہ ہو یہ اجالا غدیر کا

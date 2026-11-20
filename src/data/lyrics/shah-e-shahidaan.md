@@ -17,16 +17,16 @@ romanLyrics: |-
   Teri shahaadat fakhr-e-rasulaaṅ
 
   1
-  Gardan par shamshir-e-sitamgar
+  Gardan pe shamshir-e-sitamgar
   Khun meiṅ duba asr ka manzar
   Harf-e-tashakkur khushk laboṅ par
-  Tegh tale bhi sajda-e-Yazdaaṅ
+  Tegh taali bhi sajda-e-Yazdaaṅ
 
   2
   Koi barchhi ka phal kha kar
   Koi gale par tir saja kar
   Koi soye haath kata kar
-  Dasht-e-bala meiṅ maut hai raqsaaṅ
+  Dasht-e-balaa meiṅ maut hai raqsaaṅ
 
   3
   Phul se rukhsaaroṅ pe tamaanche
@@ -35,7 +35,7 @@ romanLyrics: |-
   Us ko bulaaye Shaam ka zindaaṅ
 
   4
-  Suraj par andhiyaare chhaaye
+  Suraj pe andhiyaare chhaaye
   Khaima khaima larza shole
   Sahme sahme pyaase bachche
   Dekh rahe haiṅ shaam-e-gharibaaṅ
@@ -43,14 +43,14 @@ romanLyrics: |-
   5
   Phail gaya jab shaam ka saaya
   Maqsad ki takmil ka bera
-  Teri hi khaahar ne uthaaya
+  Teri hi kahaar ne uthaaya
   Aashura ta hashr ka maidaan
 
   6
   Khun ki chhintoṅ se tha zinda
-  Shahid maqtal ka har zarra
-  Apni khilqat par sharminda
-  Iksat hijri sar ba girebaaṅ
+  Shahid-e-maqtal ka har zarra
+  Apni khilqat pe sharminda
+  Ik saa'at hijri sar ba girebaaṅ
 ---
 شاہ شہیداں شاہ شہیداں
 روح شریعت صاحب قرآن

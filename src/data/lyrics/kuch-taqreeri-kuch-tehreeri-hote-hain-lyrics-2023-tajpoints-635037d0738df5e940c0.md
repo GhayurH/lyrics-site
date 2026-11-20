@@ -1,32 +1,53 @@
 ---
-title: "Kuch Taqreeri Kuch Tehreeri Hote Hain Lyrics 2023"
+title: "کچھ تقریری کچھ تحریری ہوتے ہیں"
+alternateTitle: "Kuch Taqreeri Kuch Tehreeri Hote Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Akbar"
-tags: ["noUrdu"]
+poet: "Hasnain Akbar"
 aliases: []
 published: false
+romanLyrics: |-
+  Kuch taqreeri kuch tehreeri hote hain Hasnain Akbar
+  Dushman-e-Haider sab takfeeri hotey hain
+
+  1
+  Meesum, Buzar, Qamber, Yasir, our Salman
+  Hum logon ke naam ghadeeri hotey hain
+  Man kuntu ki ghoor ghataein barsein tu
+  Sehraon ke rang hareeri hotey hain
+
+  2
+  Gard-e-Najaf ho aankhon mein aabad agar
+  Khuwabon ke jangal tabeeri hotey hain
+  Palano ka mimber sabit karta hai
+  Kam wafa mein sab tameeri hotey hain
+
+  3
+  Khon badan se beh kar tahir hota hai
+  Zakhm-e-azza daim tatheeri hotey hain
+  Baab-e-sukhan par Akbar ishq ki rehmat se
+  Shair aneesi our dabeeri hotey hain
 ---
 
-Kuch Taqreeri Kuch Tehreeri Hote Hain Hasnain Akbar.
-Dushman-e-Haider Sab Takfeeri Hotey Hain.
+کچھ تقریری کچھ تحریری ہوتے ہیں حسنین اکبر
+دشمنِ حیدر سب تکفیری ہوتے ہیں
 
-1
-Meesum, Buzar, Qamber, Yasir, Our Salman.
-Hum Logon Ke Naam Ghadeeri Hotey Hain.
-Man Kuntu Ki Ghoor Ghataein Barsein Tu.
-Sehraon Ke Rang Hareeri Hotey Hain.
+۱
+میثم، بوذر، قنبر، یاسر، اور سلمان
+ہم لوگوں کے نام غدیری ہوتے ہیں
+من کنتُ کی گھور گھٹائیں برسیں تو
+صحراؤں کے رنگ حریری ہوتے ہیں
 
-2
-Gard-e-Najaf Ho Aankhon Mein Aabad Agar.
-Khuwabon Ke Jangal Tabeeri Hotey Hain.
-Palano Ka Mimber Sabit Karta Hai.
-Kam Wafa Mein Sab Tameeri Hotey Hain.
+۲
+گردِ نجف ہو آنکھوں میں آباد اگر
+خوابوں کے جنگل تعبیری ہوتے ہیں
+پالانوں کا منبر ثابت کرتا ہے
+کام وفا میں سب تعمیری ہوتے ہیں
 
-3
-Khon Badan Se Beh Kar Tahir Hota Hai.
-Zakhm-e-Azza Daim Tatheeri Hotey Hain.
-Baab-e-Sukhan Par Akbar Ishq Ki Rehmat Se.
-Shair Aneesi Our Dabeeri Hotey Hain.
+۳
+خون بدن سے بہہ کر طاہر ہوتا ہے
+زخمِ عزا دائم تطہیری ہوتے ہیں
+بابِ سخن پر اکبر عشق کی رحمت سے
+شعر انیسی اور دبیری ہوتے ہیں

@@ -1,34 +1,55 @@
 ---
-title: "Alamdar Kaha Hai Haider Rizvi"
+title: "علمدار کہاں ہے"
+alternateTitle: "Alamdar Kahan Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jafar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aaya hai alam our alamdar kahan hai
+  Shabbir ki iss foaj ka salar kahan hai
+  Aye pak alam tu hi bata dard ke halaat
+  Abbas ke kis zulm se they katay gaye hath
+  Abbas ki tooti hoi talwar kahan hai
+  Chalni thi mashk jab tu woh kyun rotay they Abbas
+  Roney ka sabab asal tha kis cheez ka ahsas
+  Ban mein jo howa zakhmi woh rahwar kahan hai
+  Kata tha sar-e-pak tu Nofal ne basad joor
+  Itna tu alam tujh ko pata hoga behar-e-toor
+  Woh khon mein dobi hoi dastar kahan hai
+  Yeh pochtay tu hoon gay Muhammad ke nawasay
+  They jin ke kayi roz se sokhay hoye kasay
+  Saqa-e-masooma woh wafadar kahan hai
+  Panja hai tere sath kalai woh kahan hai
+  Yeh dekh tere samne matam ka samaa hai
+  Sab pochtay hain Shah ka madadgar kahan hai
+  Jafar yeh sabhi matamiyan e Shah-e-imkaan
+  Hain muntazir e wali e Khizra ba dil-o-jaan
+  Hum dard ke maron ka woh sardar kahan hai
 ---
 
-1
-Alamdar Kaha Hai Haider Rizvi Lyrics
-Aaya Hai Alam Our Alamdar Kahan Hai.
-Shabbir Ki Iss Foaj Ka Salar Kahan Hai.
-Aye Pak Alam Tu Hi Bata Dard Ke Halaat.
-Abbas Ke Kis Zulm Se They Katay Gaye Hath.
-Abbas Ki Tooti Hoi Talwar Kahan Hai.
-Chalni Thi Mashk Jab Tu Woh Kyun Rotay They Abbas.
-Roney Ka Sabab Asal Tha Kis Cheez Ka Ahsas.
-Ban Mein Jo Howa Zakhmi Woh Rahwar Kahan Hai.
-Kata Tha Sar-e-Pak Tu Nofal Ne Basad Joor.
-Itna Tu Alam Tujh Ko Pata Hoga Behar-e-Toor.
-Woh Khon Mein Dobi Hoi Dastar Kahan Hai.
-Yeh Pochtay Tu Hoon Gay Muhammad Ke Nawasay.
-They Jin Ke Kayi Roz Se Sokhay Hoye Kasay.
-Saqa-e-Masooma Woh Wafadar Kahan Hai.
-Panja Hai Tere Sath Kalai Woh Kahan Hai.
-Yeh Dekh Tere Samne Matam Ka Samaa Hai.
-Sab Pochtay Hain Shah Ka Madadgar Kahan Hai.
- Jafar Yeh Sabhi Matamiyan e Shah-e-Imkaan.
-Hain Muntazir e Wali e Khizra Ba Dil-o-Jaan.
-Hum Dard Ke Maron Ka Woh Sardar Kahan Hai.
+۱
+آیا ہے علم اور علمدار کہاں ہے
+شبیر کی اس فوج کا سالار کہاں ہے
+اے پاک علم تو ہی بتا درد کے حالات
+عباس کے کس ظلم سے تھے کاٹے گئے ہاتھ
+عباس کی ٹوٹی ہوئی تلوار کہاں ہے
+چھلنی تھی مشک جب تو وہ کیوں روتے تھے عباس
+رونے کا سبب اصل تھا کس چیز کا احساس
+بن میں جو ہوا زخمی وہ رہوار کہاں ہے
+کاٹا تھا سرِ پاک تو نوفل نے بصد جور
+اتنا تو علم تجھ کو پتا ہوگا بہرِ طور
+وہ خون میں ڈوبی ہوئی دستار کہاں ہے
+یہ پوچھتے تو ہوں گے محمد کے نواسے
+تھے جن کے کئی روز سے سوکھے ہوئے کاسے
+سقائے معصومہ وہ وفادار کہاں ہے
+پنجہ ہے تیرے ساتھ کلائی وہ کہاں ہے
+یہ دیکھ تیرے سامنے ماتم کا سماں ہے
+سب پوچھتے ہیں شاہ کا مددگار کہاں ہے
+جعفر یہ سبھی ماتمیانِ شاہِ امکاں
+ہیں منتظرِ ولیِ خضرا بہ دل و جاں
+ہم درد کے ماروں کا وہ سردار کہاں ہے

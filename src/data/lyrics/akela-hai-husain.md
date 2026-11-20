@@ -13,23 +13,23 @@ published: true
 reciter: "Mesum Zaidi & Sajjad Zaidi"
 romanLyrics: |-
   Jab girne laga jab Hazrat-e-Abbas ka parcham
-  Ro ro ke sada dene lage ye Shah-e-Alam
-  Laut aao mere bhai khudara palat aao
-  Kuchh ho gaya agar tum ko to mar jaeṅge phir hum
+  Ro ro ke sadaa dene lage ye Shaah-e-Aalam
+  Laut aao mere bhai khudaara palat aao
+  Kuchh ho gaya agar tum ko to mar jaaeṅ ge phir hum
   Wasta deta huṅ Sakina ka tumheṅ
-  Laut kar khaimoṅ meiṅ aa jao akela hai Husain
+  Laut kar khaimoṅ meiṅ aa jaao akela hai Husain
 
   1
-  Haath ko jor ke ab tum ko bulata hai Husain
+  Haath ko jor ke ab tum ko bulaata hai Husain
   Laut aao hameṅ malum hai tum ho zakhmi
   Ab Sakina bhi nahiṅ maangegi tum se paani
   Wasta deta huṅ Sakina ka tumheṅ
-  Tum bulao to tumheṅ lene ko aata hai Husain
+  Tum bulaao to tumheṅ lene ko aata hai Husain
   Haye Abbas haye Abbas haye Abbas haye Abbas
 
   2
   Ghair kar qatl na kar de ye tumheṅ fauj-e-Yazid
-  Jab talak zinda ho baaqi hai hamari ummid
+  Jab talak zinda ho baaqi hai hamaari ummid
   Wasta deta huṅ Sakina ka tumheṅ
   Ae mere bhai tumheṅ khone se darta hai Husain
 
@@ -37,13 +37,13 @@ romanLyrics: |-
   Aaj ji bhar ke tumheṅ dekha nahiṅ hai maiṅ ne
   Aaj baazu bhi tera chuma nahiṅ hai maiṅ ne
   Wasta deta huṅ Abbas Sakina ka tumheṅ
-  Aao sine se tumheṅ apne lagata hai Husain
+  Aao sine se tumheṅ apne lagaata hai Husain
 
   4
   Bhai kiuṅ dil ko mere tor diya hai tum ne
   Mujhko marne ke liye chhor diya hai tum ne
   Wasta deta huṅ Abbas Sakina ka tumheṅ
-  Ab judai ko teri seh nahiṅ sakta hai Husain
+  Ab judaai ko teri seh nahiṅ sakta hai Husain
 
   5
   Bhai hum donoṅ ka bachpan se ajab hai rishta
@@ -52,16 +52,16 @@ romanLyrics: |-
   Jaanta huṅ ke tere dil meiṅ dharakta hai Husain
 
   6
-  Tum gae jab se tabiat meri ghabrati hai
+  Tum gae jab se tabiyat meri ghabraati hai
   Thik se bhai mujhe saans nahiṅ aati hai
   Wasta deta huṅ Abbas Sakina ka tumheṅ
-  Bin tumhare bari mushkil se hi zinda hai Husain
+  Bin tumhaare bari mushkil se hi zinda hai Husain
 
   7
-  Aise Azlaan ko zawwar bana lo Maula
-  Jite ji mujhe rauze pe bula lo Maula
+  Aise Azlaan ko zawwar banaa lo Maula
+  Jite ji mujhe rauze pe bulaa lo Maula
   Wasta deta huṅ Abbas Sakina ka tumheṅ
-  Tum se maango to dua ko meri sunta hai Husain
+  Tum se maango to duaa ko meri sunta hai Husain
 ---
 جب گرنے لگا جب حضرتِ عباس کا پرچم
 رو رو کے صدا دینے لگے یہ شہِ عالم

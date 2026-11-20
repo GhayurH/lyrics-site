@@ -13,36 +13,36 @@ aliases: ["Ab Arahay Hain Hussain Mukhtar Hussain Fatehpuri"]
 published: true
 romanLyrics: |-
   1
-  Khuda ke le ke khazane ab aa rahe haiṅ Husain
-  Zamin ko arsh banane ab aa rahe haiṅ Husain
+  Khudaa ke le ke khazaane ab aa rahe haiṅ Husain
+  Zamin ko arsh banaane ab aa rahe haiṅ Husain
 
   2
-  Jo ek Fitrus-e-bepar Khuda ka mujrim tha
-  Use farishta banane ab aa rahe haiṅ Husain
+  Jo ek Fitrus-e-bepar Khudaa ka mujrim tha
+  Use farishta banaane ab aa rahe haiṅ Husain
 
   3
-  Kahaṅ ho Rahib aa jao bete le jao
-  Tumhara bakht sajane ab aa rahe haiṅ Husain
+  Kahaaṅ ho Raahib aa jaao bete le jaao
+  Tumhaara bakht sajaane ab aa rahe haiṅ Husain
 
   4
-  Nabi hoṅ bar sar-e-mimbar ke bar sar-e-Meraj
-  Jhukaye keh ke ye shane ab aa rahe haiṅ Husain
+  Nabi hoṅ bar sar-e-mimbar ke bar sar-e-Meraaj
+  Jhukaaye keh ke ye shaane ab aa rahe haiṅ Husain
 
   5
-  Irada jo hai Khuda ka tere liye Islam
+  Iraada jo hai Khudaa ka tere liye Islaam
   Use Husain hi jaane ab aa rahe haiṅ Husain
 
   6
-  Ye bole qabr-e-azadar meiṅ adab se malak
-  Utho tumhare sirhane ab aa rahe haiṅ Husain
+  Ye bole qabr-e-azaadaar meiṅ adab se malak
+  Utho tumhaare sirhaane ab aa rahe haiṅ Husain
 
   7
-  Woh dekho halat-e-sajda meiṅ dekho pusht-e-Nabi
-  Use musalla banane ab aa rahe haiṅ Husain
+  Woh dekho haalat-e-sajda meiṅ dekho pusht-e-Nabi
+  Use musallaa banaane ab aa rahe haiṅ Husain
 
   8
-  Husain haiṅ ke hai Meraj Majid o Mukhtar
-  Hameiṅ Khuda se milane ab aa rahe haiṅ Husain
+  Husain haiṅ ke hai Meraaj Maajid o Mukhtaar
+  Hameiṅ Khudaa se milaane ab aa rahe haiṅ Husain
 ---
 ۱
 خدا کے لے کے خزانے اب آ رہے ہیں حسین

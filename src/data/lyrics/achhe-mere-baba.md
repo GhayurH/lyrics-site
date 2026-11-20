@@ -26,14 +26,14 @@ romanLyrics: |-
   Paani ka to laane ka faqat hai ye bahaana
 
   3
-  Tum jaate ho marne ko hameṅ kis pe hai sauṅpa
+  Tum jaate ho marne ko hameṅ kis pe hai saunpa
   Ye ghaur ki hai jaa
   Sajjad to bimaar hai batlaao thikaana
 
   4
   Durr kaanoṅ se chhine ga to faryaad karuṅ gi
   Maiṅ Shimr-e-Lain ki
-  Beti ko sitamgar ke tamaachoṅ se bachaana
+  Beti ko sitamgar ke tamaanchoṅ se bachaana
 ---
 اچھے میرے بابا
 حضرت سے سکینہ نے کہا بھول نہ جانا

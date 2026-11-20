@@ -1,41 +1,72 @@
 ---
-title: "Ali Hai Naam Mera Main Ali Ka Pota Hoon"
+title: "علی ہے نام میرا میں علی کا پوتا ہوں"
+alternateTitle: "Ali Hai Naam Mera Main Ali Ka Pota Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali hai naam mera main Ali ka pota hoon
+  Mushkilein pal mein Ali walon ki hal karta hoon
+  Main darya khaimo mein la sakta hoon Khuda ki qasam
+  Hai naaz khud pe ke Abbas ka bhatija hoon
+
+  2
+  Hurmala girte hain hathon se tere teer yeh kyun
+  Hai ayaan iss se keh main hara nahi jeeta hoon
+  Shamiyon chaho agar tum tu abhi ik pal mein
+  Sab ko yaan zair-e-zameen kar ke dikha deta hoon
+
+  3
+  Yeh jo talwar meri maa ne thamai hai mujhe
+  Saron samait main rohoon ko kaat sakta hoon
+  Tu samajhta hai keh tu mujh ko teer mare ga
+  Hurmala main tu teri maut ban ke aaya hoon
+
+  4
+  Yazeed mit giya wallaha dekho jhole mein
+  Yazeediyat ko khilona bana ke khaila hoon
+  Kaliyon mein meri khon-e-Haidery hai rawaan
+  Main cheh mahino mein jazba-e-Ali rakhta hoon
+
+  5
+  Hain karti meri tilawat Hussain ki behnein
+  Dil-e-Hussain pe Quran ban ke utra hoon
+  Na mere jhole se Afraz koi khali giya
+  Main har sawali ki hajat rawai karta hoon
 ---
 
-1
-Ali Hai Naam Mera Main Ali Ka Pota Hoon.
-Mushkilein Pal Mein Ali Walon Ki Hal Karta Hoon.
-Main Darya Khaimo Mein La Sakta Hoon Khuda Ki Qasam.
-Hai Naaz Khud Pe Ke Abbas ka Bhatija Hoon.
+۱
+علی ہے نام میرا میں علی کا پوتا ہوں
+مشکلیں پل میں علی والوں کی حل کرتا ہوں
+میں دریا خیموں میں لا سکتا ہوں خدا کی قسم
+ہے ناز خود پہ کہ عباس کا بھتیجا ہوں
 
-2
-Hurmala Girte Hain Hathon Se Tere Teer Yeh Kyun.
-Hai Ayaan Iss Se Keh Main Hara Nahi Jeeta Hoon.
-Shamiyon Chaho Agar Tum Tu Abhi Ik Pal Mein.
-Sab Ko Yaan Zair-e-Zameen Kar Ke Dikha Deta Hoon.
+۲
+حرملہ گرتے ہیں ہاتھوں سے تیرے تیر یہ کیوں
+ہے عیاں اس سے کہ میں ہارا نہیں، جیتا ہوں
+شامیوں چاہو اگر تم تو ابھی اک پل میں
+سب کو یاں زیرِ زمین کر کے دکھا دیتا ہوں
 
-3
-Yeh Jo Talwar Meri Maa Ne Thamai Hai Mujhe.
-Saron Samait Main Rohoon Ko Kaat Sakta Hoon.
-Tu Samajhta Hai Keh Tu Mujh Ko Teer Mare Ga.
-Hurmala Main Tu Teri Maut Ban Ke Aaya Hoon.
+۳
+یہ جو تلوار میری ماں نے تھمائی ہے مجھے
+سروں سمیت میں روحوں کو کاٹ سکتا ہوں
+تو سمجھتا ہے کہ تو مجھ کو تیر مارے گا
+حرملہ میں تو تیری موت بن کے آیا ہوں
 
-4
-Yazeed Mit Giya Wallaha Dekho Jhole Mein.
-Yazeediyat Ko Khilona Bana Ke Khaila Hoon.
-Kaliyon Mein Meri Khon-e-Haidery Hai Rawaan.
-Main Cheh Mahino Mein Jazba-e-Ali Rakhta Hoon.
+۴
+یزید مٹ گیا واللہ دیکھو جھولے میں
+یزیدیت کو کھلونا بنا کے کھیلا ہوں
+کلیوں میں میری خونِ حیدری ہے رواں
+میں چھ مہینوں میں جذبۂ علی رکھتا ہوں
 
-5
-Hain Karti Meri Tilawat Hussain Ki Behnein.
-Dil-e-Hussain Pe Quran Ban Ke Utra Hoon.
-Na Mere Jhole Se Afraz Koi Khali Giya.
-Main Har Sawali Ki Hajat Rawai Karta Hoon.
+۵
+ہیں کرتی میری تلاوت حسین کی بہنیں
+دلِ حسین پہ قرآن بن کے اترا ہوں
+نہ میرے جھولے سے افراز کوئی خالی گیا
+میں ہر سوالی کی حاجت روائی کرتا ہوں

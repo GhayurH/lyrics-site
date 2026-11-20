@@ -17,7 +17,7 @@ romanLyrics: |-
   Kya gham ho phir
   Jine ka hai jab ye nuskha
   Ye roz o shab mera parhna
-  Tasbihaat-e-Hazrat-e-Zahra
+  Tasbihaat-e-Zahra
 
   1
   Allahu akbar ye zikr-e-Khuda
@@ -32,8 +32,8 @@ romanLyrics: |-
 
   2
   Kaise thaamuṅ
-  Diwaar o dar ko maiṅ Fizza
-  Sholoṅ meiṅ Ahmad ka tukra
+  Diwaar o dar ko main Fizza
+  Sholoṅ mein Ahmad ka tukra
   Zakhmi hai pehlu shikasta
   Allahu akbar ye dard-e-daruṅ
   Allahu akbar ye musibateṅ
@@ -45,15 +45,15 @@ romanLyrics: |-
   Roshan din par bhi agar parta
   Har simt hota andhera
   Lekin Bibi Zahra ke bas laboṅ pe tha
-  Alhamdu lillah bar qazaa-e-u
-  Alhamdu lillah har ranj o alam
-  Alhamdu lillah maiṅ bint-e-Nabi
+  Alhamdu lillaah bar qazaa-e-u
+  Alhamdu lillaah har ranj o alam
+  Alhamdu lillaah main bint-e-Nabi
   Thaame huṅ tanha Haidar ka alam
 
   4
   Sharminda hai
-  Baitullah ka hasiṅ naqsha
-  Yasrab meiṅ Ahmad ka rauza
+  Baitullaah ka hasiṅ naqsha
+  Yasrab mein Ahmad ka rauza
   Ro ro ke parhta hai nauha
   Subhaan Allah roshan hai raat din
   Subhaan Allah ye rauza-e-Rasul

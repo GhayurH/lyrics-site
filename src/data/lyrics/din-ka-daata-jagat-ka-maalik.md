@@ -14,22 +14,22 @@ romanLyrics: |-
   Maula Ali Ali Maula Ali Ali
 
   1
-  Tere charan ki dhul ke aage kya chaaṅdi kya sona hai
+  Tere charan ki dhul ke aage kya chaandi kya sona hai
   Dharti chaand sitaare sab kuchh tere husn ka sadqa hai
   Tera pasina hai tere maathe ka pasina Nabi Wali avtaar
 
   2
   Tere siwa wo kaun hai jis ke dar pe taara utra hai
   Dharti se aakaash talak bas tera sikka chalta hai
-  Mere Maula suraj tere hukm se nikla ik din meiṅ do baar
+  Mere Maula suraj tere hukm se nikla ik din mein do baar
 
   3
-  Purab pachham uttar dakshin sahme sahme rehte haiṅ
+  Purab pachham uttar dakhin sahme sahme rehte haiṅ
   Khauf se apne pankh samete dur farishte rehte haiṅ
-  Ae balihaari chalti hai anyae ke aage jab teri talwaar
+  Ae balhaari chalti hai anyae ke aage jab teri talwaar
 
   4
-  Nainoṅ meiṅ teri yaad ki jyoti zehnoṅ meiṅ teri murat hai
+  Nainoṅ mein teri yaad ki jyoti zehnoṅ mein teri murat hai
   Saaṅseṅ haiṅ tere naam ki maala man mein pyaar ki daulat hai
   Ae jag daata mere badan ke rom rom par hai tera upkaar
 

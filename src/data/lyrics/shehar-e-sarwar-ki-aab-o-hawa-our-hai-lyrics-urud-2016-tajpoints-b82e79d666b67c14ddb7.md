@@ -1,53 +1,96 @@
 ---
-title: "Shehar-e-Sarwar Ki Aab-o-Hawa Our Hai Lyrics Urud 2016"
+title: "شہرِ سرور کی آب و ہوا اور ہے"
+alternateTitle: "Shehar-e-Sarwar Ki Aab-o-Hawa Our Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shehar-e-Sarwar ki aab-o-hawa our hai
+  Janatein our hain Karbala our hai
+  Main hoon bemar jane de karb-o-bala
+  Aye tabeeb iss marz ki dawa our hai
+
+  2
+  Dosra koi Shabir kiase mile
+  Kya Khuda ke elawa Khuda our hai
+  Sath pholon ke sar bhi charhao yahan
+  Maqbre our hain tazia our hai
+
+  3
+  Aye mufasar bata kya tamasha hai ye
+  Ayatein our hain tarjuma our hai
+  Dosron se Ali ka taqabul hi kya
+  Hadse our hain moajza our hai
+
+  4
+  Hans ke dewar-e-Kaba yeh kehne lagi
+  Umm-e-Haider tera rasta our hai
+  Boli Mariyam taqabul na karna mera
+  Kibriya ki qasam Fatima our hai
+
+  5
+  Hurmala our Hur kaise ik sath hoon
+  Lanatein our hain martaba our hai
+  Aal-e-Ahmad kahan our sahaba kahan
+  Bantna our hai mangna our hai
+
+  6
+  Doglay muftiyo apni had mein raho
+  Ab bhi ghaibat mein ik Murtaza our hai
+  Yeh Rajab se kaha mah-e-Shaban ne
+  Manta hoon tera martaba our hai
+
+  7
+  Khuwan shahi kahan our tabaruk kahan
+  Lazatein our hain zaiqa our hai
+  Aray gharay ki midhat main karta nahi
+  Main hoon Nayab meri anna our hai
 ---
 
-1
-Shehar-e-Sarwar Ki Aab-o-Hawa Our Hai.
-Janatein Our Hain Karbala Our Hai.
-Main Hoon Bemar Jane De Karb-o-Bala.
-Aye Tabeeb Iss Marz Ki Dawa Our Hai.
+۱
+شہرِ سرور کی آب و ہوا اور ہے
+جنتیں اور ہیں کربلا اور ہے
+میں ہوں بیمار جانے دے کرب و بلا
+اے طبیب اس مرض کی دوا اور ہے
 
-2
-Dosra Koi Shabir Kiase Mile.
-Kya Khuda Ke Elawa Khuda Our Hai.
-Sath Pholon Ke Sar Bhi Charhao Yahan.
-Maqbre Our Hain Tazia Our Hai.
+۲
+دوسرا کوئی شبیر کیسے ملے
+کیا خدا کے علاوہ خدا اور ہے
+ساتھ پھولوں کے سر بھی چڑھاؤ یہاں
+مقبرے اور ہیں تعزیہ اور ہے
 
-3
-Aye Mufasar Bata Kya Tamasha Hai Ye.
-Ayatein Our Hain Tarjuma Our Hai.
-Dosron Se Ali Ka Taqabul Hi Kya.
-Hadse Our Hain Moajza Our Hai.
+۳
+اے مفسر بتا کیا تماشا ہے یہ
+آیتیں اور ہیں ترجمہ اور ہے
+دوسروں سے علی کا تقابل ہی کیا
+حادثے اور ہیں معجزہ اور ہے
 
-4
-Hans Ke Dewar-e-Kaba Yeh Kehne Lagi.
-Umm-e-Haider Tera Rasta Our Hai.
-Boli Mariyam Taqabul Na Karna Mera.
-Kibriya Ki Qasam Fatima Our Hai.
+۴
+ہنس کے دیوارِ کعبہ یہ کہنے لگی
+امِ حیدر تیرا رستہ اور ہے
+بولی مریم تقابل نہ کرنا میرا
+کبریا کی قسم فاطمہ اور ہے
 
-5
-Hurmala(L) Our Hur Kaise Ik Sath Hoon.
-Lanatein Our Hain Martaba Our Hai.
-Aal-e-Ahmad Kahan Our Sahaba Kahan.
-Bantna Our Hai Mangna Our Hai.
+۵
+حرملہ اور حر کیسے اک ساتھ ہوں
+لعنتیں اور ہیں مرتبہ اور ہے
+آلِ احمد کہاں اور صحابہ کہاں
+بانٹنا اور ہے مانگنا اور ہے
 
-6
-Doglay Muftiyo Apni Had Mein Raho.
-Ab Bhi Ghaibat Mein Ik Murtaza Our Hai.
-Yeh Rajab Se Kaha Mah-e-Shaban Ne.
-Manta Hoon Tera Martaba Our Hai.
+۶
+دوغلے مفتیو اپنی حد میں رہو
+اب بھی غیبت میں اک مرتضیٰ اور ہے
+یہ رجب سے کہا ماہِ شعبان نے
+مانتا ہوں تیرا مرتبہ اور ہے
 
-7
-Khuwan Shahi Kahan Our Tabaruk Kahan.
-Lazatein Our Hain Zaiqa Our Hai.
-Aray Gharay Ki Midhat Main Karta Nahi.
-Main Hoon Nayab Meri Anna Our Hai.
+۷
+خوانِ شاہی کہاں اور تبرک کہاں
+لذتیں اور ہیں ذائقہ اور ہے
+ارے گھڑے کی مدحت میں کرتا نہیں
+میں ہوں نایاب میری انا اور ہے

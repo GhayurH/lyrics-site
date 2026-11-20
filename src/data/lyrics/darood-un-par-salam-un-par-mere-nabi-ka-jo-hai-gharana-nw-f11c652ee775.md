@@ -8,47 +8,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Darud un par salam un par Mere nabi ka jo hai gharana
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Hai jin kay dam se jahan ki ronaq , Jahan ka mosam bhi hai suhana
+  Hai jin ke dam se jahaan ki ronaq, jahaan ka mausam bhi hai suhaana
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Maqam e Mehboob e Kibriya ki, Nahiṅ hai wussat mere bayan maiṅ
+  Maqaam-e-Mahbub-e-Kibriya ki, nahiṅ hai wusat mere bayaan meiṅ
 
-  Rehman Khud ka raha hai Sallu, Alla ka har waqt yeh tarana
+  Rahmaan khud ka raha hai sallu, Allaah ka har waqt yeh taraana
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Bana kay Taswir Murtaza ki, kaha yeh jibril se Khuda ne
+  Bana ke taswir Murtaza ki, kaha yeh Jibril se Khuda ne
 
-  Rahay na koi kami kahi par, Luta do sub hussn ka Khazana
+  Rahe na koi kami kahiṅ par, luta do sab husn ka khazaana
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Kaniz e Khaliq Janab e Zehra, Jin k dum se haya jahan maiṅ
+  Kaniz-e-Khaaliq Janaab-e-Zehra, jin ke dam se haya jahaan meiṅ
 
-  Zuban kholain to ayatain ho, rukay to Tathir ka fasana
+  Zabaan kholeṅ to aayateṅ ho, ruke to tathir ka fasaana
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Hasan jahan ka amir aisa, hayat jibril sa farishta
+  Hasan jahaan ka amir aisa, hayaat Jibril sa farishta
 
-  Bahisht Jageer mujtaba ki, Hai jis main Panjtan ka ana jan
+  Bahisht jaagir Mujtaba ki, hai jis meiṅ Panjtan ka aana jaan
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Husain sabr o shukar ki manzil, Husain waris e Anbiya hain
+  Husain sabr o shukr ki manzil, Husain waaris-e-anbiya haiṅ
 
-  Husain azmat do jahan hai, jissay na bhule ga yeh zaman
+  Husain azmat do jahaan hai, jise na bhulega yeh zamaan
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 
-  Aie mere parwardigar hum ko, dikha day karb o bala ki nagri
+  Ae mere parwardigaar ham ko, dikha de karb o bala ki nagri
 
-  Jaha pay imran aur anjum, ada krain soz panjagana
+  Jahaaṅ pe Imraan aur Anjum, ada kareṅ soz panjagaana
 
-  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salaam un par mere Nabi ka jo hai gharaana
 ---
 
 اُس پر درود، اُس پر، میرے نبی کی آل پر سلام۔

@@ -1,29 +1,47 @@
 ---
-title: "Darya Te Kat Gayiyan Ne Ghazi Diyan Banwaan Lyrics Punjabi 2025"
+title: "دریا تے کٹ گئیاں نیں غازی دیاں بانواں"
+alternateTitle: "Darya Te Kat Gayiyan Ne Ghazi Diyan Banwaan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Darya te kat gayiyan ne Ghazi diyan banwaan
+  Ghazi te kitiyaan ne nu lakh ne jafawan
+  Abbas de badan de tukray bikhar gaye ne Karbala wich sare
+  Chuk chuk ke tukray Sarwar haye bharda aye hawaan
+
+  2
+  Akhiyaan te teer marey seene te marey pathar sir te marey nezay
+  Ghazi nu ditiyaan ne bari lokaan sazawaan
+  Ghazi di lash te aye aakhay laeen hans ke wekh tere bajoon
+  Ag la ke khaimiyaan nu lut laiyaan ridawaan
+
+  3
+  Qasim taun zyada tere tukray hoye ne Ghazi ro ro Shabbir kehway
+  Tere tukray joor ke main kiwein lash banawaan
+  Ghazi nu janda tak ke Zeeshan nehar pasay wain paye Zainab
+  Tere naal tur rayiyaan ne bhaina diyaan sanwaan
 ---
 
-1
-Darya Te Kat Gayiyan Ne Ghazi Diyan Banwaan.
-Ghazi Te Kitiyaan Ne Nu Lakh Ne Jafawan.
-Abbas De Badan De Tukray Bikhar Gaye Ne Karbala Wich Sare.
-Chuk Chuk Ke Tukray Sarwar Haye Bharda Aye Hawaan.
+۱
+دریا تے کٹ گئیاں نیں غازی دیاں بانواں
+غازی تے کیتیاں نیں نو لکھ نیں جفاواں
+عباس دے بدن دے ٹکڑے بکھر گئے نیں کربلا وچ سارے
+چک چک کے ٹکڑے سرور ہائے بھردا اے ہاواں
 
-2
-Akhiyaan Te Teer Marey Seene Te Marey Pathar Sir Te Marey Nezay.
-Ghazi Nu Ditiyaan Ne Bari Lokaan Sazawaan.
-Ghazi Di Lash Te Aye Aakhay Laeen Hans Ke Wekh Tere Bajoon.
-Ag La Ke Khaimiyaan Nu Lut Laiyaan Ridawaan.
+۲
+اکھیاں تے تیر مارے سینے تے مارے پتھر سر تے مارے نیزے
+غازی نوں دتیاں نیں بڑی لوکاں سزاواں
+غازی دی لاش تے آئے آکھے لعین ہنس کے ویکھ تیرے باجھوں
+اگ لا کے خیمیاں نوں لٹ لئیاں رداواں
 
-3
-Qasim Taun Zyada Tere Tukray Hoye Ne Ghazi Ro Ro Shabbir Kehway.
-Tere Tukray Joor Ke Main Kiwein Lash Banawaan.
-Ghazi Nu Janda Tak Ke Zeeshan Nehar Pasay Wain Paye Zainab.
-Tere Naal Tur Rayiyaan Ne Bhaina Diyaan Sanwaan.
+۳
+قاسم توں زیادہ تیرے ٹکڑے ہوئے نیں غازی رو رو شبیر کہوے
+تیرے ٹکڑے جوڑ کے میں کیویں لاش بناواں
+غازی نوں جاندا تک کے ذیشان نہر پاسے وین پائے زینب
+تیرے نال ٹر رہیاں نیں بھیناں دیاں سانواں

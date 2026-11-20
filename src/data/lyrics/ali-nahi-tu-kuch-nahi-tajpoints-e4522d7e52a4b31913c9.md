@@ -1,45 +1,80 @@
 ---
-title: "Ali Nahi Tu Kuch Nahi"
+title: "علی نہیں تو کچھ نہیں"
+alternateTitle: "Ali Nahi Tu Kuch Nahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh keh gaya hai dosto har ik Nabi har ik wali
+
+  1
+  Meri nigah mein tu bas yeh khudkushi ka naam hai
+  Beghair-e-hub-e-murtaza hayat bhi haram hai
+  Ali ka ishq hai agar tu zindagi hai zindagi
+  Ghadeer-e-Khum ki sar zameen pe aayaton ka zoor hai
+  Mizaj mein zaban ki zabaan ka aaj our hai
+  Nabi ke sath sath hai sada yeh Jibraeel ki
+
+  2
+  Wilayat-e-ali mein harf harf khud wakeel hai
+  Shikast-e-ameer-e-sham ki yeh mustanad daleel hai
+  Hasan ke sulha namay ki yahin se ibtida hoi
+  Beghair-e-zikar-e-murtaza azan jab bhi hoti hai
+  Sada woh sun ke meri kaifiyat ajab hi hoti hai
+  Pukarti hai oss ghari yeh khud mein meri be khudi
+
+  3
+  Tamam shab yeh soch kar ajeeb oss ka haal hai
+  Idhar Ameer-e-Sham ka udhar Ali ka lal hai
+  Qareeb-e-subha Hur ko yeh sada zameer-e-Hur ne di
+  Batao hum ko dosto likha hai ishq mein kahin
+  Ali ko mantay hain our Ali ki mantay nahi
+  Faqat zabaan se mat kahin saboot dein amal se bhi
+
+  4
+  Samajh raha hai tu Ali se tu ne badlah le liya
+  Yazid tu bhi dekh apne baap ko bhi yeh dikha
+  Utha utha ke hath tujh se keh rahe hain matami
+  Kahan samajh mein aaye ga tabaq:Akbar-e-Faqeer ka
+  Zahoor ho ga Mir jab bhi aakhri ameer ka
+  Ura ura ke sar kahey gi phir yeh taig-e-Haidery
 ---
 
-Yeh Keh Gaya Hai Dosto Har Ik Nabi Har Ik Wali.
+یہ کہہ گیا ہے دوستو ہر اک نبی ہر اک ولی
 
-1
-Meri Nigah Mein Tu Bas Yeh Khudkushi Ka Naam Hai.
-Beghair-e-Hub-e-Murtaza Hayat Bhi Haram Hai.
-Ali Ka Ishq Hai Agar Tu Zindagi Hai Zindagi.
-Ghadeer-e-Khum Ki Sar Zameen Pe Aayaton Ka Zoor Hai.
-Mizaj Mein Zaban Ki Zabaan Ka Aaj Our Hai.
-Nabi Ke Sath Sath Hai Sada Yeh Jibraeel Ki.
+۱
+میری نگاہ میں تو بس یہ خودکشی کا نام ہے
+بغیرِ حبِ مرتضیٰ حیات بھی حرام ہے
+علی کا عشق ہے اگر تو زندگی ہے زندگی
+غدیرِ خم کی سرزمین پہ آیتوں کا زور ہے
+مزاج میں زباں کی زبان کا آج اور ہے
+نبی کے ساتھ ساتھ ہے صدا یہ جبرائیل کی
 
-2
-Wilayat-e-Ali Mein Harf Harf Khud Wakeel Hai.
-Shikast-e-Ameer-e-Sham Ki Yeh Mustanad Daleel Hai.
-Hasan Ke Sulha Namay Ki Yahin Se Ibtida Hoi.
-Beghair-e-Zikar-e-Murtaza Azan Jab Bhi Hoti Hai.
-Sada Woh Sun Ke Meri Kaifiyat Ajab Hi Hoti Hai.
-Pukarti Hai Oss Ghari Yeh Khud Mein Meri Be Khudi.
+۲
+ولایتِ علی میں حرف حرف خود وکیل ہے
+شکستِ امیرِ شام کی یہ مستند دلیل ہے
+حسن کے صلح نامے کی یہیں سے ابتدا ہوئی
+بغیرِ ذکرِ مرتضیٰ اذان جب بھی ہوتی ہے
+صدا وہ سن کے میری کیفیت عجب ہی ہوتی ہے
+پکارتی ہے اس گھڑی یہ خود میں میری بے خودی
 
-3
-Tamam Shab Yeh Soch Kar Ajeeb Oss Ka Haal Hai.
-Idhar Ameer-e-Sham Ka Udhar Ali Ka Lal Hai.
-Qareeb-e-Subha Hur Ko Yeh Sada Zameer-e-Hur Ne Di.
-Batao Hum Ko Dosto Likha Hai Ishq Mein Kahin.
-Ali Ko Mantay Hain Our Ali Ki Mantay Nahi.
-Faqat Zabaan Se Mat Kahin Saboot Dein Amal Se Bhi.
+۳
+تمام شب یہ سوچ کر عجیب اس کا حال ہے
+ادھر امیرِ شام کا ادھر علی کا لال ہے
+قریبِ صبح حر کو یہ صدا ضمیرِ حر نے دی
+بتاؤ ہم کو دوستو لکھا ہے عشق میں کہیں
+علی کو مانتے ہیں اور علی کی مانتے نہیں
+فقط زباں سے مت کہیں ثبوت دیں عمل سے بھی
 
-4
-Samajh Raha Hai Tu Ali Se Tu Ne Badlah Le Liya.
-Yazid Tu Bhi Dekh Apne Baap Ko Bhi Yeh Dikha.
-Utha Utha Ke Hath Tujh Se Keh Rahe Hain Matami.
-Kahan Samajh Mein Aaye Ga Tabaq:AKBAR-E-Faqeer Ka.
-Zahoor Ho Ga Mir Jab Bhi Aakhri Ameer Ka.
-Ura Ura Ke Sar Kahey Gi Phir Yeh Taig-e-Haidery.
+۴
+سمجھ رہا ہے تو علی سے تو نے بدلہ لے لیا
+یزید تو بھی دیکھ اپنے باپ کو بھی یہ دکھا
+اٹھا اٹھا کے ہاتھ تجھ سے کہہ رہے ہیں ماتمی
+کہاں سمجھ میں آئے گا طبقِ اکبرِ فقیر کا
+ظہور ہو گا میر جب بھی آخری امیر کا
+اڑا اڑا کے سر کہے گی پھر یہ تیغِ حیدری

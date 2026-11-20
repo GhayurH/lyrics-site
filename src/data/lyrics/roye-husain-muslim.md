@@ -12,11 +12,11 @@ tags: []
 aliases: ["Roye Hussain Muslim"]
 published: true
 romanLyrics: |-
-  Haye turbat meiṅ ro pari Zehra
+  Haaye turbat meiṅ ro pari Zehra
   Aise roye Husain Muslim ko
 
   1
-  Gir gaya haye sar se amaama
+  Gir gaya haaye sar se amaama
   Aise roye Husain Muslim ko
 
   2
@@ -24,11 +24,11 @@ romanLyrics: |-
   Jab khabar aayi qatl-e-Muslim ki
   Jis jagah the wahiṅ pe baith gaye
   Ashk aankhoṅ se ho gaye jaari
-  Qaafile meiṅ sada thi wawaila
+  Qaafile meiṅ sada thi waawaila
   Aise roye Husain Muslim ko
 
   3
-  Phir ye Zainab se ro ke farmaya
+  Phir ye Zainab se ro ke Faatima
   Maiṅ to barbaad ho gaya behna
   Mere bhai ko ahl-e-Kufa ne
   Kis qadar bekasi meiṅ maar diya
@@ -54,7 +54,7 @@ romanLyrics: |-
   6
   Shiddat-e-gham se qalb zakhmi tha
   Aur aankhoṅ se Alqama jaari
-  Haye mera safir maara gaya
+  Haaye mera safir maara gaya
   Bas yehi keh ke ki azaadaari
   Ek pal bhi nahiṅ ruka girya
   Aise roye Husain Muslim ko

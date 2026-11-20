@@ -27,13 +27,13 @@ romanLyrics: |-
   Ye bataao hai kahaaṅ ibn-e-Hasan
 
   3
-  Maiṅ kabhi kucha o baazaar meiṅ thi
-  Aur kabhi qaid-e-sitamgaar meiṅ thi
-  Sar barehna kabhi darbaar meiṅ thi
+  Main kabhi kucha o baazaar mein thi
+  Aur kabhi qaid-e-sitamgaar mein thi
+  Sar barehna kabhi darbaar mein thi
   Gir para phat ke na kiuṅ charkh-e-kohan
 
   4
-  Baazuoṅ meiṅ mere rassi thi bandhi
+  Baazuoṅ mein mere rassi thi bandhi
   Pusht koroṅ se badan hai zakhmi
   Har qadam par thi ik uftaad nayi
   Baazuoṅ par hai mere daagh-e-rasan
@@ -42,7 +42,7 @@ romanLyrics: |-
   Apna muṅh ashkoṅ se dhone waali
   Raat din aap ko rone waali
   Mar gayi sine pe sone waali
-  Us ka zindaaṅ meiṅ bana kar madfan
+  Us ka zindaaṅ mein bana kar madfan
 ---
 اربعیں کرنے کو آئی ہے بہن
 قید سے چھٹ کے پابندِ محن

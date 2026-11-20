@@ -1,32 +1,53 @@
 ---
-title: "Gharor-e-Aal-e-Ibba Ko Hussain Kehtay Hain"
+title: "غرورِ آلِ عبا کو حسین کہتے ہیں"
+alternateTitle: "Gharor-e-Aal-e-Ibba Ko Hussain Kehtay Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Gharor-e-Aal-e-Ibba ko Hussain kehtay hain
+  Ana-e-Rab-e-Aula ko Hussain kehtay hain
+
+  1
+  Hasan ki zaat jo aman-o-amaan ki khaliq hai
+  Shahdton ke Khuda ko Hussain kehtay hain
+  Buredah sar ne tilawat jo ki tu raaz khula
+  Daleel-e-zaat-e-Khuda ko Hussain kehtay hain
+
+  2
+  Yeh tool-e-sajdah-e-Khatam-e-Rasul se zahir hai
+  Makeen-e-Arsh-e-Aula ko Hussain kehtay hain
+  Ali tu uqdah-e-kusha hain tamam aalam ke
+  Nabi ke uqdah kusha ko Hussain kehtay hain
+
+  3
+  Pukara Hur yeh ke janat hai naqsh-e-paye-e-Hussain
+  Shafi-e-rooz-e-jaza ko Hussain kehtay hain
+  Muhib Hussain ka gham hai har aik gham ka elaj
+  Har aik gham ki dawa ko Hussain kehtay hain
 ---
 
-Gharor-e-Aal-e-Ibba Ko Hussain Kehtay Hain.
-Ana-e-Rab-e-Aula Ko Hussain Kehtay Hain.
+غرورِ آلِ عبا کو حسین کہتے ہیں
+انائے ربِ اعلیٰ کو حسین کہتے ہیں
 
-1
-Hasan Ki Zaat Jo Aman-o-Amaan Ki Khaliq Hai.
-Shahdton Ke Khuda Ko Hussain Kehtay Hain.
-Buredah Sar Ne Tilawat Jo Ki Tu Raaz Khula.
-Daleel-e-Zaat-e-Khuda Ko Hussain Kehtay Hain.
+۱
+حسن کی ذات جو امن و اماں کی خالق ہے
+شہادتوں کے خدا کو حسین کہتے ہیں
+بریدہ سر نے تلاوت جو کی تو راز کھلا
+دلیلِ ذاتِ خدا کو حسین کہتے ہیں
 
-2
-Yeh Tool-e-Sajdah-e-Khatam-e-Rasul Se Zahir Hai.
-Makeen-e-Arsh-e-Aula Ko Hussain Kehtay Hain.
-Ali Tu Uqdah-e-Kusha Hain Tamam Aalam Ke.
-Nabi Ke Uqdah Kusha Ko Hussain Kehtay Hain.
+۲
+یہ طولِ سجدۂ خاتمِ رسول سے ظاہر ہے
+مکینِ عرشِ اعلیٰ کو حسین کہتے ہیں
+علی تو عقدہ کشا ہیں تمام عالم کے
+نبی کے عقدہ کشا کو حسین کہتے ہیں
 
-3
-Pukara Hur Yeh Ke Janat Hai Naqsh-e-Paye-e-Hussain.
-Shafi-e-Rooz-e-Jaza Ko Hussain Kehtay Hain.
- Muhib Hussain Ka Gham Hai Har Aik Gham Ka Elaj.
-Har Aik Gham Ki Dawa Ko Hussain Kehtay Hain.
+۳
+پکارا حر یہ کہ جنت ہے نقشِ پائے حسین
+شفیعِ روزِ جزا کو حسین کہتے ہیں
+محب حسین کا غم ہے ہر ایک غم کا علاج
+ہر ایک غم کی دوا کو حسین کہتے ہیں

@@ -1,6 +1,6 @@
 ---
 title: "آ جا ویر رضا معصومہ تکدی راہ"
-alternateTitle: "Aa Ja Veer Raza Masooma Takdi Rah"
+alternateTitle: "Aa Ja Vir Raza Masuma Takdi Raah"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,34 +10,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa ja veer Raza Masooma takdi rah
-  Bhain teri de na muk jan sah aa ke shakal wakha
-  Tainu labdi haye Madine choon main safar kardi
-  Okhiyaan rahwaan te
+  Aa ja vir Raza Masuma takdi raah
+  Bhain teri de na muk jaan saah aa ke shakal wakha
+  Tainun labhdi haaye Madine chon main safar kardi
+  Okhiyaan raahwaan te
 
   2
-  Pair zakhmi mere hoye veran main jana ya Khuda
-  Ik wichri beemar Sughra te ik Masooma
-  Dowaan da naseeb ik aye
-  Ik da veer Ali Maula Raza ik shakal-e-Mustafa
+  Pair zakhmi mere hoye viraan main jaana ya Khuda
+  Ik vichhri bimaar Sughra te ik Masuma
+  Dowaan da nasib ik ae
+  Ik da vir Ali Maula Raza ik shakal-e-Mustafa
 
   3
-  Ro ro mangdi dua Masooma haye Raza de layi
-  Veer di zindagi howay
-  Par rahwaan che hi mil khabar gayi aida bachiya nayi bhira
-  Le ke dil wich na mardi hasrat haye dhi Kazim di
+  Ro ro mangdi dua Masuma haaye Raza de lai
+  Vir di zindagi hove
+  Par raahwaan che hi mil khabar gayi ehda bachiya nahin bhara
+  Le ke dil vich na mardi hasrat haaye dhi Kaazim di
 
   4
   Tera ki jana si
-  Raba ik waar jay toon bhain nal denda veer nu mila
-  Kadi babay nu yaad kardi kadi veraan nu
-  Zakhm jad v dukhday
+  Rabba ik vaar je tun bhain naal denda vir nun mila
+  Kadi baabe nun yaad kardi kadi viraan nun
+  Zakhm jad vi dukhde
 
   5
-  Tur dunya taun gayi Syeda dita safraan ainj thaka
-  Jithay rondi rayi aye bibi te matam kardi
-  Haye mazloma da
-  Wekhay ja ke jagah ik waar oh har matami Fida
+  Tur duniya ton gayi Sayyida ditta safraan enj thaka
+  Jithe rondi rahi ae Bibi te maatam kardi
+  Haaye mazluma da
+  Vekhe ja ke jagah ik vaar oh har maatami Fida
 ---
 
 ۱

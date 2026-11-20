@@ -1,30 +1,50 @@
 ---
-title: "Ro Ke Kehti Thi Sakina Abid E Beemar Se Lyrics 2018"
+title: "رو کے کہتی تھی سکینہ عابدِ بیمار سے"
+alternateTitle: "Ro Ke Kehti Thi Sakina Abid-e-Beemar Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ro ke kehti thi Sakina Abid-e-Beemar se
+  Kya meri maiyyat bhi guzre gi issi bazar se
+  Main ne baba ke galay pe rakha tha apna gala
+  De ke apni hi qasam baba ne rukhsat kar diya
+  Warna main bhi qatal ho jati ossi talwar se
+  Aakhri khuwaish samajh kar mujh ko sar baba ka dein
+  Inn se kahiye jitna jee chahe tamache maar lein
+  Jis qadar chahein baha lein khoon mere rukhsar se
+  Baat jab sare safeeron mein kaneezi ki hoi
+  Main tu bhaiya sharam se hi mar gayi thi oss ghari
+  Main kahan zinda palat kar aayi thi darbar se
+  Baad mere gar gohar wapis bhi mil jaein tumhein
+  Qabar-e-Sarkar-e-Do Alam par charha dena inhein
+  Roz-e-mehshar loon gi main ab Ahmad-e-Mukhtar se
+  Sochte rehte the Akbar Abid-e-Muztar yehi
+  Kis tarha aanso uthaon khak se zindan ki
+  Our laho kaise juda ho ga dar-o-dewar se
 ---
 
-1
-Ro Ke Kehti Thi Sakina Abid-e-Beemar Se.
-Kya Meri Maiyyat Bhi Guzre Gi Issi Bazar Se.
-Main Ne Baba Ke Galay Pe Rakha Tha Apna Gala.
-De Ke Apni Hi Qasam Baba Ne Rukhsat Kar Diya.
-Warna Main Bhi Qatal Ho Jati Ossi Talwar Se.
-Aakhri Khuwaish Samajh Kar Mujh Ko Sar Baba Ka Dein.
-Inn Se Kahiye Jitna Jee Chahe Tamache Maar Lein.
-Jis Qadar Chahein Baha Lein Khoon Mere Rukhsar Se.
-Baat Jab Sare Safeeron Mein Kaneezi Ki Hoi.
-Main Tu Bhaiya Sharam Se Hi Mar Gayi Thi Oss Ghari.
-Main Kahan Zinda Palat Kar Aayi Thi Darbar Se.
-Baad Mere Gar Gohar Wapis Bhi Mil Jaein Tumhein.
-Qabar-e-Sarkar-e-Do Alam Par Charha Dena Inhein.
-Roz-e-Mehshar Loon Gi Main Ab Ahmad-e-Mukhtar Se.
-Sochte Rehte The Akbar Abid-e-Muztar Yehi.
-Kis Tarha Aanso Uthaon Khak Se Zindan Ki.
-Our Laho Kaise Juda Ho Ga Dar-o-Dewar Se.
+۱
+رو کے کہتی تھی سکینہ عابدِ بیمار سے
+کیا میری میت بھی گزرے گی اسی بازار سے
+میں نے بابا کے گلے پہ رکھا تھا اپنا گلا
+دے کے اپنی ہی قسم بابا نے رخصت کر دیا
+ورنہ میں بھی قتل ہو جاتی اسی تلوار سے
+آخری خواہش سمجھ کر مجھ کو سر بابا کا دیں
+ان سے کہیے جتنا جی چاہے طمانچے مار لیں
+جس قدر چاہیں بہا لیں خون میرے رخسار سے
+بات جب سارے سفیروں میں کنیزی کی ہوئی
+میں تو بھیا شرم سے ہی مر گئی تھی اس گھڑی
+میں کہاں زندہ پلٹ کر آئی تھی دربار سے
+بعد میرے گر گوہر واپس بھی مل جائیں تمہیں
+قبرِ سرکارِ دو عالم پر چڑھا دینا انہیں
+روزِ محشر لوں گی میں اب احمدِ مختار سے
+سوچتے رہتے تھے اکبر عابدِ مضطر یہی
+کس طرح آنسو اٹھاؤں خاک سے زنداں کی
+اور لہو کیسے جدا ہو گا در و دیوار سے

@@ -13,19 +13,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Mashkiza-e-Sakina kehta hai Alqama se
-  Khaimoṅ meiṅ tishnagi hai Asghar bahut haiṅ pyase
+  Khaimoṅ meiṅ tishnagi hai Asghar bahut haiṅ pyaase
 
   1
   Sukhe hue laboṅ par likhi hai ye kahaani
-  Hai Aal-e-Mustafa par haftum se band pani
+  Hai Aal-e-Mustafa par haftum se band paani
   Ae kaash rok deta koi teri rawaani
-  Aawaaz-e-al-atash hai har samt har faza se
+  Aawaaz-e-al-atash hai har samt har fazaa se
 
   2
   Har kisht-e-aarzu ko beaab kar gayi hai
   Ahl-e-haram meiṅ sab ko betaab kar gayi hai
   Akbar ke khun se barchhi sairaab kar gayi hai
-  Ghar ke charagh bhi ab bujhne lage hawa se
+  Ghar ke charaagh bhi ab bujhne lage hawaa se
 
   3
   Hasrat se tak raha hai bedast apne baazu
@@ -34,14 +34,14 @@ romanLyrics: |-
   Waabasta sab umideṅ bachchi ki haiṅ chacha se
 
   4
-  Arsh-e-bariṅ hai larza insaaniyat hai gum sum
+  Arsh-e-bariṅ hai larzaa insaaniyat hai gum sum
   Roka gaya kuchh aise Shabbir ka takallum
   Hichki ke saath ubhra phir khuṅ bhara tabassum
   Ghuncha jhulas gaya hai paikaan-e-Hurmala se
 
   5
   Shahid hai gham ka manzar wo shiddat-e-atash hai
-  Tarpeṅge kaise Sarwar wo shiddat-e-atash hai
+  Tarpeṅ ge kaise Sarwar wo shiddat-e-atash hai
   Rukne laga hai khanjar wo shiddat-e-atash hai
   Sharminda tishnagi hai mazlum-e-Karbala se
 ---

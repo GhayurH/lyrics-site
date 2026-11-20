@@ -1,6 +1,6 @@
 ---
 title: "عباس علم تیرا جو لوگ اٹھائیں گے"
-alternateTitle: "Abbas Alam Tera Jo Loag Uthaein Gaye"
+alternateTitle: "Abbaas Alam Tera Jo Log Uthaaeṅ Ge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas alam tera jo loag uthaein gaye Hasan Sadiq
-  Shakal-e-Ali Ghazi mera qayam rahe iss ki wafa
-  Abbas alam tera jo loag uthaein gay
-  Zahra ki duaon ke saye mein woh aaein gay
+  Abbaas alam tera jo log uthaaeṅ ge Hasan Saadiq
+  Shakl-e-Ali Ghaazi mera qaaim rahe is ki wafaa
+  Abbaas alam tera jo log uthaaeṅ ge
+  Zahra ki duaaoṅ ke saaye mein woh aaeṅ ge
 
   2
-  Tehreer hai darya par Ghazi ki wafadari
-  Shabeer tere munkir kya oss ko mitaein gay
-  Hai tujh se yehi wadah Shabeer ki majlis mein
-  Abbas tere gham mein hum khon bahaein gay
+  Tahrir hai darya par Ghaazi ki wafaadaari
+  Shabbir tere munkir kya us ko mitaaeṅ ge
+  Hai tujh se yahi waada Shabbir ki majlis mein
+  Abbaas tere gham mein ham khun bahaaeṅ ge
 
   3
-  Bazu jo qalam ho kar darya pe girey tere
-  Hum hashar talak unn ka ab soag manaein gay
-  Zainab ki tamana hai khuwaish hai Sakina ki
-  Har ghar pe alam tera hum loag sajaein gay
+  Baazu jo qalam ho kar darya pe gire tere
+  Ham hashr talak un ka ab sog manaaeṅ ge
+  Zainab ki tamanna hai khwaahish hai Sakina ki
+  Har ghar pe alam tera ham log sajaaeṅ ge
 
   4
-  Khush hoga mera Ghazi Sarwar bhi dua dein gay
-  Pani pe Sakina ki hum nazar dilaein gay
-  Rehan bapa hogi majlis jo qayamat mein
-  Noha yeh: Hasan Sadiq: janat mein sunaein gay
+  Khush hogaa mera Ghaazi Sarwar bhi duaa deṅ ge
+  Paani pe Sakina ki ham nazr dilaaeṅ ge
+  Rehan bapaa hogi majlis jo qayaamat mein
+  Nauha yeh: Hasan Saadiq: jannat mein sunaaeṅ ge
 ---
 
 ۱

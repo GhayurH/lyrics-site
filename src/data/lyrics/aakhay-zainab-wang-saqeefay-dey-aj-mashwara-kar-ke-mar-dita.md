@@ -1,6 +1,6 @@
 ---
 title: "آکھے زینب وانگ سقیفے دے اج مشورہ کر کے مار دتا"
-alternateTitle: "Aakhay Zainab Wang Saqeefay Dey Aj Mashwara Kar Ke Mar Dita"
+alternateTitle: "Aakhay Zainab Waang Saqifay Dey Aj Mashwara Kar Ke Maar Ditta"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,22 +10,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aakhay Zainab wang Saqeefay dey aj mashwara kar ke mar dita
-  Meri maa de zalim qatilaan ne mera baba Kofay mar ditta
-  Aye zulm hoya jera mere te mere veer di dhiyaan tak janra
-  Pardais de wich jiwein piyo mera qatil wich sajday mar ditta
+  Aakhay Zainab waang Saqifay dey aj mashwara kar ke maar ditta
+  Meri maaṅ de zaalim qaatilaaṅ ne mera baba Kofay maar ditta
+  Eh zulm hoya jera mere te mere vir di dhiyaaṅ tak jaanra
+  Pardais de wich jiweiṅ piyo mera qaatil wich sajday maar ditta
 
   2
-  Babay de sir de naal meri jholi wich dukh v paye gaye ne
-  Mere sukh da wela Kofiyaan ne kar tukray tukray mar ditta
-  Ibn-e-Muljim de waar taun wadh aye gal te main v janrni aan
-  Mere babay nu Ghazi meri chadar de sadmay mar ditta
+  Babay de sir de naal meri jholi wich dukh vi paye gaye ne
+  Mere sukh da wela Kofiyaaṅ ne kar tukray tukray maar ditta
+  Ibn-e-Muljim de waar tauṅ wadh eh gal te main vi jaanrni aaṅ
+  Mere babay nuṅ Ghaazi meri chaadar de sadmay maar ditta
 
   3
-  Maa watan Madine mari gayi babay nu Kofay zarb lagi
-  Meri maa te piyo nu iss ummat kar wakhrey wakhrey mar ditta
-  Sainr aakhay Jaun musalay te main ujran di aawaz suni
-  Baba tere qatal di khabar walay Jibreel de hokay mar ditta
+  Maaṅ watan Madine maari gayi babay nuṅ Kofay zarb lagi
+  Meri maaṅ te piyo nuṅ is ummat kar wakhray wakhray maar ditta
+  Sainr aakhay Jaun musallay te main ujran di aawaaz suni
+  Baba tere qatl di khabar walay Jibril de hokay maar ditta
 ---
 
 ۱

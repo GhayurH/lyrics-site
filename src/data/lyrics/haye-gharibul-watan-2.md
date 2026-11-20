@@ -12,61 +12,61 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haye gharibul watan Ae asir-e-mehan
-  Alwida alwida alwida Ae Husain alwida
+  Haye gharibul watan, ae asir-e-mihan
+  Alwida alwida alwida, ae Husain alwida
 
   1
-  Naizoṅ pe sar kaat ke haye charhaya gaya
+  Nezoṅ pe sar kaat ke haye charhaaya gaya
   Ghoroṅ se paamaal tan tera karaaya gaya
   Lut ke sab maal o zar khaima jalaaya gaya
 
   2
-  Bibiyoṅ pe jis qadar karte the aada jafa
+  Bibiyoṅ pe jis qadar karte the aadaa jafa
   Utna hi sayyidaaniyaṅ karti haiṅ aah o buka
-  Dasht-e-jafa meiṅ yehi gunj rahi thi sada
+  Dasht-e-jafa mein yehi gunj rahi thi sada
 
   3
-  Baandhi jafa kaaroṅ ne shaanoṅ meiṅ kas kar rasan
+  Baandhi jafa kaaroṅ ne shaanoṅ mein kas kar rasan
   Kis tarah hamshir de bhaai ko apne kafan
   Chhin li sar se rida ho gayi bebas behan
 
   4
   Baali Sakina ke jab Shimr ne chhine gauhar
   Khun baha is qadar ho gaya sab kurta tar
-  Kehti thi aao chacha waqt-e-madad hai pidar
+  Kehti thi aao chachaa waqt-e-madad hai pidar
 
   5
   Hathkari aur beriyaṅ tauq-e-giraaṅ baar hai
-  Kitna asir-e-mehan Aabid-e-bimaar hai
+  Kitna asir-e-mihan Aabid-e-bimaar hai
   Lashkar-e-jaur o sitam jaane ko tayyaar hai
 
   6
-  God se bachche sabhi raahoṅ meiṅ girte rahe
+  God se bachche sabhi raahoṅ mein girte rahe
   Dab ke sidhaare jinaaṅ naaqoṅ ke paaoṅ tale
   Maaoṅ ne ye daagh bhi apne jigar par sahe
 
   7
-  Kar gayi zindaan meiṅ jab se Sakina qaza
+  Kar gayi zindaan mein jab se Sakina qaza
   Ranj o alam ho gaya Aal-e-Nabi ka siwa
   Laashe se lipti hui karti thi Bano buka
 
   8
-  Tum ko rehaai ka laal kis qadar armaan tha
-  Utho Sakina chalo hukm-e-rehaai mila
+  Tum ko rihaai ka laal kis qadar armaan tha
+  Utho Sakina chalo hukm-e-rihaai mila
   Jaate haiṅ zindaan se pehle su-e-Karbala
 
   9
   Marqad-e-Shabbir par jab ke nazar ja pari
-  Bint-e-Ali pusht se naaqe se ran meiṅ giri
+  Bint-e-Ali pusht se naaqe se ran mein giri
   Karti hui bain ye ghutniyoṅ ke bal chali
 
   10
-  Saath imanath ko maiṅ laa na saki pur mehan
+  Saath imaamat ko main laa na saki pur-mihan
   Bhaai bahut sharminda hai ye tumhaari behan
-  Baali Sakina ko bhi de na saki maiṅ kafan
+  Baali Sakina ko bhi de na saki main kafan
 
   11
-  Tum pe anis-e-Imaam Bint-e-Ali ka salaam
+  Tum pe Anis-e-Imaam Bint-e-Ali ka salaam
   Bhaai bhatije sipar jaan-e-shaah-e-tashna kaam
   Naasir-e-din-e-Khuda haamid-e-aali maqaam
 ---

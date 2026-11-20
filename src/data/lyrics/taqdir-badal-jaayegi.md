@@ -16,13 +16,13 @@ romanLyrics: |-
 
   1
   Shabbir ke maatam meiṅ lahu apna bahaa le
-  Is dard se ehsaas ki dunya ko saja le
+  Is dard se ehsaas ki dunya ko sajaa le
   Ye zakhm nahiṅ phul hai sine se lagaa le
   Is raah pe chal daulat-e-imaaṅ ko bachaa le
   Jine ka sahaara gham-e-Sarwar ko banaa le
 
   2
-  Girte hue Qasim ne chacha ko jo pukaara
+  Girte hue Qasim ne chachaa ko jo pukaara
   Shabbir ne dulha ko ajab haal meiṅ dekha
   Tha jism jo paamaal abaa meiṅ use rakha
   Masnad pe rakha Shah ne naushaah ka laasha
@@ -40,13 +40,13 @@ romanLyrics: |-
   Gham Aun o Muhammad ka har ek maaṅ ko hua hai
   Har simt faqat girya o maatam ki sada hai
   Lekin lab-e-Zainab pe faqat ek dua hai
-  Sab qatl ho par tu mere bhai ko bacha le
+  Sab qatl ho par tu mere bhai ko bachaa le
 
   5
-  Maidan meiṅ bedast alamdaar para hai
+  Maidan meiṅ bedast alamdaar paraa hai
   Ab Shah ko tanhaai ka ehsaas hua hai
   Khaime meiṅ alam aaya hai ek hashr bapa hai
-  Ammu jo nahiṅ aaye bhatiji ko gila hai
+  Ammu jo nahiṅ aaye bhatije ko gila hai
   Ae pyaas Sakina ko kaleje se lagaa le
 
   6

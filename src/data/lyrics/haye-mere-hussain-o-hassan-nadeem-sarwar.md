@@ -8,109 +8,62 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Haye Mere Hussain O Hassan Nadeem Sarwar"
-romanLyrics: 'Haye Mere Hussain o Hassan Nadeem Sarwar.
-
-  Qaid Se Chut Ke Aayi Watan.
-
+alternateTitle: "Haaye Mere Hasan O Husain"
+romanLyrics: |-
+  Haaye mere Husain o Hasan
 
   1
-
-  Jab Hussain-o-Hasan Ki Behan.
-
-  Qabar-e-Zahra Pe Jis Dam Gayi.
-
-  Layi Ro Ro Keh Lab Par Sukhan.
-
-  Amma Amma Amma.
-
+  Qaid se chhut ke aayi watan
+  Jab Husain o Hasan ki behan
+  Qabr-e-Zahra pe jis dam gayi
+  Laayi ro ro ke lab par sukhan
+  Ammaṅ ammaṅ ammaṅ
+  Bhaai mere Husain o Hasan
+  Chhalni tiroṅ se donoṅ ke tan
+  Ik ka tiroṅ ke zad par janaaza
+  Ik ka tiroṅ ke upar janaaza
 
   2
-
-  Bhai Mere Hussain-o-Hasan.
-
-  Chalni Teeron Se Dono Ke Tan.
-
-  Ik Ka Teeron Ke Zad Par Janaza.
-
-  Ik Ka Teeron Ke Opar Janaza.
-
+  Ik ko roti hui main gayi huṅ
+  Ik ko roti hui aa rahi huṅ
+  Yeh bhi sadma behan ne uthaaya
+  Woh bhi sadma behan ne uthaaya
 
   3
-
-  Ik Ko Roti Hoi Main Gayi Hoon.
-
-  Ik Ko Roti Hoi Aa Rahi Hoon.
-
-  Yeh Bhi Sadma Behan Ne Uthaya.
-
-  Woh Bhi Sadma Behan Ne Uthaya.
-
+  Ammaṅ donoṅ shabaab-e-jinaah haiṅ
+  Ammaṅ donoṅ hi naana ki jaaṅ haiṅ
+  Ek ne pehlu Nabi ka na paaya
+  Ik se shahr-e-Nabi ko chhuraaya
 
   4
-
-  Amma Dono Shabab-e-Jinna Hain.
-
-  Amma Dono Hi Nana Ki Jaan Hain.
-
-  Ik Ne Pehlu Nabi Ka Na Paya.
-
-  Ik Se Shehar-e-Nabi Ko Choraya.
-
+  Ammaṅ ik meri aaṅkhoṅ ka taara
+  Ek Kulsum ka tha dulaara
+  Ek ka haaye jigar paara paara
+  Ek ko ghurbat mein laakhoṅ ne maara
 
   5
-
-  Amma Ik Meri Aankhon Ka Tara.
-
-  Aik Kulsoom Ka Tha Dulara.
-
-  Ik Ka Haye Jigar Parah Parah.
-
-  Ik Ko Ghurbat Mein Lakhon Ne Mara.
-
+  Ik Baqi ki zinat bana hai
+  Ik ka madfan bani Karbala hai
+  Ik ne ammaṅ ka pehlu basaaya
+  Ik ne betoṅ ko sine lagaaya
 
   6
-
-  Ik Baqiya Ki Zeenat Bana Hai.
-
-  Ik Ka Madfan Bani Karbala Hai.
-
-  Ik Ne Amma Ka Pehlu Basaya.
-
-  Ik Ne Beton Ko Seene Lagaya.
-
+  Waqt ammaṅ watan mujh ko laaya
+  Bhaai koi na milne ko aaya
+  Ik mujh se Madine mein bichhra
+  Ik ne Karb o Bala ko basaaya
 
   7
-
-  Waqt Amma Watan Mujh Ko Laya.
-
-  Bhai Koi Na Milney Ko Aaya.
-
-  Aik Mujh Se Madine Mein Bichra.
-
-  Ik Ne Karb-o-Bala Ko Basaya.
-
+  Qabr-e-Zahra se aawaaz aayi
+  Beti Zainab tere donoṅ bhaai
+  Ro ke kehte haiṅ ae ammaṅ Zahra
+  Kiuṅ lahad par nahiṅ koi saaya
 
   8
-
-  Qabar-e-Zahra Se Aawaz Aayi.
-
-  Beti Zainab Tere Dono Bhai.
-
-  Ro Ke Kehte Hain Aye Amma Zahra.
-
-  Kyun Lehad Par Nahi Koi Saya.
-
-
-  9
-
-  Keh Do Dunya Se:REHAN-o-SARWAR:.
-
-  Waqt Badlah Hai Badlah Hai Manzar.
-
-  Jin Ke Lashon Pe Kal Zulm Dhaya.
-
-  Unn Ka Uthta Hai Ghar Ghar Janaza.'
+  Keh do duniya se Rehaan o Sarwar
+  Waqt badla hai badla hai manzar
+  Jin ke laashoṅ pe kal zulm dhaaya
+  Un ka banta hai ghar ghar janaaza
 ---
 
 ہاۓ میرے حسینؑ و حسنؑ

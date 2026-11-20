@@ -15,7 +15,7 @@ romanLyrics: |-
   Asghar ho tum kahaaṅ bhaiya ho tum kahaaṅ
   Suna hai bin tere ye jahaaṅ ye jahaaṅ Asghar
 
-  Maiṅ tapti ret meiṅ dhunduṅ tumheṅ kahaaṅ
+  Main tapti ret mein dhunduṅ tumheṅ kahaaṅ
   Suna hai bin tere ye jahaaṅ ye jahaaṅ Asghar
 
   1
@@ -25,11 +25,11 @@ romanLyrics: |-
 
   2
   Bin tere kaise piye paani ye hamshir teri
-  Mujh ko paani meiṅ nazar aati hai tasvir teri
-  Bhulaauṅ kaise maiṅ sukhi teri zabaaṅ Asghar
+  Mujh ko paani mein nazar aati hai tasvir teri
+  Bhulaauṅ kaise main sukhi teri zabaaṅ Asghar
 
   3
-  Loriyaaṅ di na tujhe god meiṅ khilaaya nahiṅ
+  Loriyaaṅ di na tujhe god mein khilaaya nahiṅ
   Jhula ji bhar ke teri bahan ne jhulaaya nahiṅ
   Hue na pure mere dil ke ye armaaṅ Asghar
 

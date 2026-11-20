@@ -12,33 +12,33 @@ aliases: ["Aao Tareekh Sunaon Main Shab-e-Hijrat Ki Mir Hasan Mir", "Aao Tarikh 
 recitationId: "aao-tareekh-sunaon-main-shab-e-hijrat-ki-mir-hasan-mir"
 published: true
 romanLyrics: |-
-  Aao tarikh sunauṅ maiṅ Shab-e-Hijrat ki
-  Kis tarha saaye meiṅ talwaaroṅ ke soye the Ali
+  Aao tarikh sunauṅ main Shab-e-Hijrat ki
+  Kis tarah saaye mein talwaaroṅ ke soye the Ali
 
   1
-  Tegh ki chhaaoṅ meiṅ sona koi aasaan nahiṅ
+  Tegh ki chhaaoṅ mein sona koi aasaan nahiṅ
   Kull-e-imaan haiṅ Ali aam Musalmaaṅ nahiṅ
   Dusra hota to bedaar nahiṅ hota kabhi
 
   2
   Chaand se ye Abu Talib ka qamar kehta tha
   Aaj ki raat ibaadat ka hai andaaz naya
-  Aaj Allah se sote huwe baateṅ hoṅ gi
+  Aaj Allah se sote hue baateṅ hoṅ gi
 
   3
   Bas yahi soch ke hamla nahiṅ kar paate the
-  Saare kuffaar ishaaroṅ meiṅ yahi kehte the
-  Haiṅ Nabi soye huwe jaaga hua hoga Ali
+  Saare kuffaar ishaaroṅ mein yahi kehte the
+  Haiṅ Nabi soye hue jaaga hua hoga Ali
 
   4
-  Haaṅ yehi Siddiq hai aur yehi Amin hai logoṅ
+  Haaṅ yahi Siddiq hai aur yahi Amin hai logoṅ
   Kitna Haider pe bharosa hai Nabi ko dekho
   Fatima jaisi amaanat bhi Ali ko de di
 
   5
   Hajj ada aa ke farishtoṅ ne kiya hai apna
   So gaya bistar-e-Ahmad pe Amir-e-Kaaba
-  Aaj Kaabe ki tarha orh ke kaali kamli
+  Aaj Kaabe ki tarah orh ke kaali kamli
 
   6
   Ban ke soeṅ ge Ali aaj Nabi hairat kya
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Mir Sajjad wo jab subh Madine ko chala
   Raasta rokta aa kar jo mere Maula ka
-  Saare Makke meiṅ na tha itna bahaadur koi
+  Saare Makke mein na tha itna bahaadur koi
 ---
 
 آؤ تاریخ سناؤں میں شبِ ہجرت کی

@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Shab-e-Aashur khaima-e-Kulsum se aati thi sada
   Haaye haaye haaye
-  Maiṅ bhi Zainab ki tarah bhaai ka deti sadqa
+  Main bhi Zainab ki tarah bhaai ka deti sadqa
   Kaash mera koi beta hota
 
   Shab-e-Aashur tha Kulsum ke lab par noha
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   1
   Saath pardes meiṅ bhaai ka baraabar deti
-  Sheh ke beshir pe qurbaan use kar deti
+  Sheh ke Be Shir pe qurbaan use kar deti
   Dil meiṅ hasrat hi rahi Aun o Muhammad jaisa
   Kaash mera koi beta hota
 

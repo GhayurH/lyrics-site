@@ -16,7 +16,7 @@ romanLyrics: |-
   Husain turbat-e-Asghar bana ke rote haiṅ
 
   1
-  Ye kis charaagh ko ae shaamiyoṅ bujha daala
+  Ye kis charaagh ko ae Shaamiyoṅ bujha daala
   Ke jis ki yaad meiṅ jhonke hawa ke rote haiṅ
 
   2
@@ -25,14 +25,14 @@ romanLyrics: |-
 
   3
   Hamaare ghar meiṅ bhi hoti hai majlis-e-Shabbir
-  Hamaare ghar meiṅ bhi Sajjad aa ke rote haiṅ
+  Hamaare ghar meiṅ bhi Sajjaad aa ke rote haiṅ
 
   4
   Na jaane ashkoṅ se kya likh diya hai Sughra ne
   Pisar ki laash pe Shaah khat suna ke rote haiṅ
 
   5
-  Rabab ko dar-e-khaima pe dekh kar Maula
+  Rabaab ko dar-e-khaima pe dekh kar Maula
   Zubaaṅ se kuchh na kaha sar jhuka ke rote haiṅ
 
   6

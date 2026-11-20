@@ -1,51 +1,89 @@
 ---
-title: "De Ke Awaz Baap Ko Akbar"
+title: "دے کے آواز باپ کو اکبر"
+alternateTitle: "De Ke Awaz Baap Ko Akbar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Hasan Mir"
 poet: "Mir Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  De ke awaz baap ko Akbar sochte hain ke ayein gaye kaise
+  Larkharate howay jo aa bhi gaye haye mera lasha uthaein gaye kaise
 
+  1
+  Hur ke baite ki lash par Hur se keh rahe the abhi yehi baba
+  Baap lashe jawaan uthata nahi iss ka lasha main khud uthaon ga
+  Ab wohi marhala hai baba par mera lasha uthaein gaye kaise
+
+  2
+  Aik mehshar bapa tha khaime mein maa se jis dam giya tha main milne
+  Aa ke baba ne oss ghari daman khud churaya tha meri behno se
+  Mera daman churana aasaan tha dil se barchi churaein gaye kaise
+
+  3
+  Fikar barchi ki kuch nahi mujh ko dil mein bas ye khiyal aata hai
+  Apne kariyal jawaan ke lashe par jeete jee baap mar hi jata hai
+  Iss zaiefi mein aik sath padar do janaze uthaein gaye kaise
+
+  4
+  Ab main samjha ke kis liye baba mere seene ko choma karte the
+  Yaad aati thi un ko jab Sughra meri aankhon mein dekha karte the
+  Dam hai ab mera meri aankhon mein mujh se nazrein milaein gaye kaise
+
+  5
+  Ayna ayna Ali-o-Akbar ki ran mein awaz jab wo dete hain
+  Haye ghurbat ghareeb-e-Zahra ki dekh kar Saham wale hanste hain
+  Rasta un ko mujh tak aane ka phir ye qatil bataein gaye kaise
+
+  6
+  Qatal-e-Shabir ki hai teyari ran mein chamka rahe hain sab khanjar
+  Haye barchi seene mein hai mere lekin itna majboor bhi nahi Akbar
+  Shaam ke loag mere hote howay haye Sheh pe khanjar chalein gaye kaise
+
+  7
+  Aankh mein ashk lab pe noha tha aye Takallum ajeeb lamha tha
+  Haye dil mein woh baar baar kehta tha aane wala hai qasid-e-Sughra
+  Bhai ki lash par mere baba khat behan ka sunaein gaye kaise
 ---
 
-De Ke Awaz Baap Ko Akbar Sochte Hain Ke Ayein Gaye Kaise
-Larkharate Howay Jo Aa Bhi Gaye Haye Mera Lasha Uthaein Gaye Kaise
+دے کے آواز باپ کو اکبر سوچتے ہیں کہ آئیں گے کیسے
+لڑکھڑاتے ہوئے جو آ بھی گئے ہائے میرا لاشہ اٹھائیں گے کیسے
 
-1
-Hur Ke Baite Ki Lash Par Hur Se Keh Rahe The Abhi Yehi Baba
-Baap Lashe Jawaan Uthata Nahi Iss Ka Lasha Main Khud Uthaon Ga
-Ab Wohi Marhala Hai Baba Par Mera Lasha Uthaein Gaye Kaise
+۱
+حر کے بیٹے کی لاش پر حر سے کہہ رہے تھے ابھی یہی بابا
+باپ لاشِ جواں اٹھاتا نہیں اس کا لاشہ میں خود اٹھاؤں گا
+اب وہی مرحلہ ہے بابا پر میرا لاشہ اٹھائیں گے کیسے
 
-2
-Aik Mehshar Bapa Tha Khaime Mein Maa Se Jis Dam Giya Tha Main Milne
-Aa Ke Baba Ne Oss Ghari Daman Khud Churaya Tha Meri Behno Se
-Mera Daman Churana Aasaan Tha Dil Se Barchi Churaein Gaye Kaise
+۲
+ایک محشر بپا تھا خیمے میں ماں سے جس دم گیا تھا میں ملنے
+آ کے بابا نے اس گھڑی دامن خود چھڑایا تھا میری بہنوں سے
+میرا دامن چھڑانا آسان تھا دل سے برچھی چھڑائیں گے کیسے
 
-3
-Fikar Barchi Ki Kuch Nahi Mujh Ko Dil Mein Bas Ye Khiyal Aata Hai
-Apne Kariyal Jawaan Ke Lashe Par Jeete Jee Baap Mar Hi Jata Hai
-Iss Zaiefi Mein Aik Sath Padar Do Janaze Uthaein Gaye Kaise
+۳
+فکر برچھی کی کچھ نہیں مجھ کو دل میں بس یہ خیال آتا ہے
+اپنے کڑیل جوان کے لاشے پر جیتے جی باپ مر ہی جاتا ہے
+اس ضعیفی میں ایک ساتھ پدر دو جنازے اٹھائیں گے کیسے
 
-4
-Ab Main Samjha Ke Kis Liye Baba Mere Seene Ko Choma Karte The
-Yaad Aati Thi Un Ko Jab Sughra Meri Aankhon Mein Dekha Karte The
-Dam Hai Ab Mera Meri Aankhon Mein Mujh Se Nazrein Milaein Gaye Kaise
+۴
+اب میں سمجھا کہ کس لیے بابا میرے سینے کو چوما کرتے تھے
+یاد آتی تھی ان کو جب صغریٰ میری آنکھوں میں دیکھا کرتے تھے
+دم ہے اب میرا میری آنکھوں میں مجھ سے نظریں ملائیں گے کیسے
 
-5
-Ayna Ayna Ali-o-Akbar Ki Ran Mein Awaz Jab Wo Dete Hain
-Haye Ghurbat Ghareeb-e-Zahra Ki Dekh Kar Saham Wale Hanste Hain
-Rasta Un Ko Mujh Tak Aane Ka Phir Ye Qatil Bataein Gaye Kaise
+۵
+اَیْنَ اَیْنَ علی و اکبر کی رن میں آواز جب وہ دیتے ہیں
+ہائے غربت غریبِ زہرا کی دیکھ کر شام والے ہنستے ہیں
+راستہ ان کو مجھ تک آنے کا پھر یہ قاتل بتائیں گے کیسے
 
-6
-Qatal-e-Shabir Ki Hai Teyari Ran Mein Chamka Rahe Hain Sab Khanjar
-Haye Barchi Seene Mein Hai Mere Lekin Itna Majboor Bhi Nahi Akbar
-Shaam Ke Loag Mere Hote Howay Haye Sheh Pe Khanjar Chalein Gaye Kaise
+۶
+قتلِ شبیر کی ہے تیاری رن میں چمکا رہے ہیں سب خنجر
+ہائے برچھی سینے میں ہے میرے لیکن اتنا مجبور بھی نہیں اکبر
+شام کے لوگ میرے ہوتے ہوئے ہائے شہ پہ خنجر چلائیں گے کیسے
 
-7
-Aankh Mein Ashk Lab Pe Noha Tha Aye Takallum Ajeeb Lamha Tha
-Haye Dil Mein Woh Baar Baar Kehta Tha Aane Wala Hai Qasid-e-Sughra
-Bhai Ki Lash Par Mere Baba Khat Behan Ka Sunaein Gaye Kaise
+۷
+آنکھ میں اشک لب پہ نوحہ تھا اے تکلم عجیب لمحہ تھا
+ہائے دل میں وہ بار بار کہتا تھا آنے والا ہے قاصدِ صغریٰ
+بھائی کی لاش پر میرے بابا خط بہن کا سنائیں گے کیسے

@@ -12,7 +12,7 @@ tags: []
 aliases: ["Kehti Thi Rokar Zainab"]
 published: true
 romanLyrics: |-
-  Kehti thi ro kar Zainab-e-Kubra
+  Kehti thi ro kar Zainab Kubra
   Ik dukhyaari meri Sakina
   Paani ko tarsi waawaila
   Ik dukhyaari meri Sakina
@@ -30,8 +30,8 @@ romanLyrics: |-
   Ik dukhyaari meri Sakina
 
   3
-  Khaime meiṅ kohraam hai barpa
-  Aag lagaane aaye haiṅ aada
+  Khaime mein kohraam hai barpa
+  Aag lagaane aaye haiṅ aadaa
   Puchhti hai Naana ka rauza
   Ik dukhyaari meri Sakina
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   Ik dukhyaari meri Sakina
 
   5
-  Is khaime se us khaime meiṅ
+  Is khaime se us khaime mein
   Jaati hai ghabraayi hui si
   Saath liye Asghar ka jhula
   Ik dukhyaari meri Sakina

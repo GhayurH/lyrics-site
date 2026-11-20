@@ -11,56 +11,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ke dulare Aun o Muhammad
+  Zainab ke dulaare Aun o Muhammad
   Aun o Muhammad mere Aun o Muhammad
 
   1
-  Boli Zainab ye mere maan barhana bachchoṅ
-  Surkh ru jang ke maidan se aana bachchoṅ
-  Maut ko zist ka unwaan banana bachchoṅ
+  Boli Zainab ye mere maan barhaana bachchoṅ
+  Surkh ru jang ke maidaan se aana bachchoṅ
+  Maut ko zist ka unwaan banaana bachchoṅ
   Pyase seh roz ke ho khuṅ meiṅ nahana bachchoṅ
 
   2
   Aaj ke din ke liye maiṅ ne tumheiṅ paala tha
   Ibn-e-Makhduma-e-Kaunain hai mushkil meiṅ ghira
   Aarzu Aun o Muhammad hai tumhari maaṅ ki
-  Dono ho jao mere bhai ke Akbar pe fida
+  Donoṅ ho jao mere bhai ke Akbar pe fida
 
   3
-  Zakhm maidan meiṅ tum khao to khush ho maadar
+  Zakhm maidaan meiṅ tum khao to khush ho maadar
   Shaan-e-ajdaad ki dikhlao to khush ho maadar
   Su-e-darya na utha kar kabhi nazreiṅ dekho
-  Pyase dunya se guzar jao to khush ho maadar
+  Pyase duniya se guzar jao to khush ho maadar
 
   4
-  Jang is tarha karo ahl-e-wafa yaad kare
-  Aise hamle ho jinheiṅ Shaami sada yaad kare
-  Nimche khol ke lamhoṅ meiṅ ulat do lashkar
+  Jang is tarah karo ahl-e-wafa yaad kare
+  Aise hamle jo jinheiṅ Shaami sada yaad kare
+  Nimchhe khol ke lamhoṅ meiṅ ulat do lashkar
   Daad Abbas de aur Sher-e-Khuda yaad kare
 
   5
   Dam karuṅ Naad-e-Ali sar ko jhuka lo bachchoṅ
-  Saare armaan larai ke nikaalo bachchoṅ
+  Saare armaan laraai ke nikaalo bachchoṅ
   Haye sehra na saja sar pe tumhare lekin
   Maut ko aaj dulhan apni bana lo bachchoṅ
 
   6
   Hukm Zainab ka baja laaye dulaare bachche
   Maut to haar gayi ran meiṅ na haare bachche
-  Dekh kar laashe pukari ye Ali ki beti
-  Surkh ru maiṅ hui dunya se sidhaare bachche
+  Dekh kar laashe pukaari ye Ali ki beti
+  Surkh ru maiṅ hui duniya se sidhaare bachche
 
   7
   Boli maaṅ laashoṅ se kiuṅ nind hai aayi utho
-  Maaṅ ko batlao lari kaisi larai utho
+  Maaṅ ko batlao lari kaisi laraai utho
   Ba adab tum ho bahut phir ye ghazab hai kaisa
-  Kab se baaliṅ pe khare haiṅ mere bhai utho
+  Kab se baaleṅ pe khare haiṅ mere bhai utho
 
   8
   Jaffri royi kahaṅ bachchoṅ ko Bint-e-Zehra
   Haaṅ magar laut ke jab ghar meiṅ wo aayi dukhiya
   Khaali hujre jo nazar aaye to phir zabt hua
-  Haath phailaye huwe ro ke ye Zainab ne kaha
+  Haath phailaye hue ro ke ye Zainab ne kaha
 ---
 زینب کے دلارے عون و محمد
 عون و محمد میرے عون و محمد

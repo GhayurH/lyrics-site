@@ -1,74 +1,89 @@
 ---
-title: "Main Bali Sakina Hoon Main Bali Sakina"
+title: "میں بالی سکینہ ہوں میں بالی سکینہ"
+alternateTitle: "Main Bali Sakina Hoon Main Bali Sakina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Main bali Sakina hoon main bali Sakina
+  Jo bhi aata hai alam par main duah deti hoon
+  Main to bighri hui takdeer bana deti hoon
+
+  1
+  Naam hai bali Sakina hai sakhi meray chacha
+  Wada manghnay aata hai agar koi shifa
+  Usko Abbas kay parcham ki hava deti hoon
+
+  2
+  Manghnay aata hai gar koi alam par betay
+  Apnay ammu kay wasilay say Khuda say keh kay
+  Usko sadqa Ali Asghar ka dela deti hoon
+
+  3
+  Janti hoon main aziyat ka siwa ho jana
+  Kitna mushkil hai youn apnon say juda ho jana
+  Bas yahi sochkay bichron ko mila deti hoon
+
+  4
+  Baat yeh dil ki bata deti hoon rakho yaad isay
+  Kush bohot hoti hoon main jab bhi kisi momin say
+  Usko ek beti main baiznay Khuda deti hoon
+
+  5
+  Mangta hai jo azakhana sajanay kay liye
+  Aisay momin ki duah sunti sab say pehlay
+  Ghaibi asbab say main gar bhi naya deti hoon
+
+  6
+  Log detay hain Khuda ko jo wasila mera
+  Kartay hain betiyon o behno kay nasibon ki duah
+  Kehkay ameen nasibon ko jaga deti hoon
+
+  7
+  Mere baba ka azadar hai yeh Zill-e-Raza
+  Zakiray Bibi Sakina hai yeh farman mera
+  Inko har baar main rozay main bula layti hoon
 ---
 
-Main Bali Sakina Hoon Main Bali Sakina
+میں بالی سکینہ ہوں میں بالی سکینہ
+جو بھی آتا ہے علم پر میں دعا دیتی ہوں
+میں تو بگڑی ہوئی تقدیر بنا دیتی ہوں
 
-Jo Bhi Aata Hai Alam Par Main
+۱
+نام ہے بالی سکینہ ہے سخی میرے چچا
+وعدہ مانگنے آتا ہے اگر کوئی شفا
+اس کو عباس کے پرچم کی ہوا دیتی ہوں
 
-Duah Deti Hoon
+۲
+مانگنے آتا ہے گر کوئی علم پر بیٹے
+اپنے عمو کے وسیلے سے خدا سے کہہ کے
+اس کو صدقہ علی اصغر کا دلا دیتی ہوں
 
-Main To Bighri Hui Takdeer Bana Deti Hoon
+۳
+جانتی ہوں میں اذیت کا سوا ہو جانا
+کتنا مشکل ہے یوں اپنوں سے جدا ہو جانا
+بس یہی سوچ کے بچھڑوں کو ملا دیتی ہوں
 
-Naam Hai Bali Sakina Hai Sakhi Meray Chacha
+۴
+بات یہ دل کی بتا دیتی ہوں رکھو یاد اسے
+خوش بہت ہوتی ہوں میں جب بھی کسی مومن سے
+اس کو ایک بیٹی میں باذنِ خدا دیتی ہوں
 
-Wada Manghnay Aata Hai Agar Koi Shifa
+۵
+مانگتا ہے جو عزاخانہ سجانے کے لیے
+ایسے مومن کی دعا سنتی سب سے پہلے
+غیبی اسباب سے میں گھر بھی نیا دیتی ہوں
 
-Usko Abbas Kay Parcham Ki
+۶
+لوگ دیتے ہیں خدا کو جو وسیلہ میرا
+کرتے ہیں بیٹیوں و بہنوں کے نصیبوں کی دعا
+کہہ کے آمین نصیبوں کو جگا دیتی ہوں
 
-Hava Deti Hoon
-
-Manghnay Aata Hai Gar Koi Alam Par Betay
-
-Apnay Ammu Kay Wasilay Say Khuda Say Keh Kay
-
-Usko Sadqa Ali Asghar Ka
-
-Dela Deti Hoon
-
-Janti Hoon Main Aziyat Ka Siwa Ho Jana
-
-Kitna Mushkil Hai Youn Apnon Say Juda Ho Jana
-
-Bas Yahi Sochkay Bichron Ko
-
-Mila Deti Hoon
-
-Baat Yeh Dil Ki Bata Deti Hoon Rakho Yaad Isay
-
-Kush Bohot Hoti Hoon Main Jab Bhi Kisi Momin Say
-
-Usko Ek Beti Main Baiznay
-
-Khuda Deti Hoon
-
-Mangta Hai Jo Azakhana Sajanay Kay Liye
-
-Aisay Momin Ki Duah Sunti Sab Say Pehlay
-
-Ghaibi Asbab Say Main Gar Bhi
-
-Naya Deti Hoon
-
-Log Detay Hain Khuda Ko Jo Wasila Mera
-
-Kartay Hain Betiyon O Behno Kay Nasibon Ki Duah
-
-Kehkay Ameen Nasibon Ko
-
-Jaga Deti Hoon
-
-Mere Baba Ka Azadar Hai Yeh Zill-e-Raza
-
-Zakiray Bibi Sakina Hai Yeh Farman Mera
-
-Inko Har Baar Main Rozay Main
-
-Bula Layti Hoon
+۷
+میرے بابا کا عزادار ہے یہ ظلِ رضا
+ذاکرِ بی‌بی سکینہ ہے یہ فرمان میرا
+ان کو ہر بار میں روضے میں بلا لیتی ہوں

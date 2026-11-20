@@ -16,19 +16,19 @@ romanLyrics: |-
   Akbar bhi nahiṅ baaqi, Asghar bhi nahiṅ baaqi
   Quraan tha jis ghar mein, woh ghar bhi nahiṅ baaqi
   Har tarah ke sadmoṅ se betaab Sakina hai
-  Aa kar use samjhao
+  Aa kar use samjhaao
 
   2
   Kaanoṅ ki loeṅ khainchi, kaanoṅ se gauhar tore
   Ya kahkashaaṅ tori, ya shams o qamar tore
   Tore haiṅ zamaane mein akhlaaq ke saanche bhi
-  Maare haiṅ tamaanche bhi, bachchi pe taras khao
+  Maare haiṅ tamaanche bhi, bachchi pe taras khaao
 
   3
-  Ye raat, ye taariki, ye dasht, ye sannata
+  Ye raat, ye taariki, ye dasht, ye sannaata
   Lamhoṅ ke taghayyur ne sadiyoṅ ka safar kaata
   Ye jalte hue khaime, ghabra ke na mar jaaye
-  Maasum kidhar jaaye, maasum ko samjhao
+  Maasum kidhar jaaye, maasum ko samjhaao
 
   4
   Kya aise bahaadur ko dekha kabhi duniya ne
@@ -37,10 +37,10 @@ romanLyrics: |-
   Ammuṅ ko pukaaregi, Ammuṅ ko bula lao
 
   5
-  Ek haul sa uthta hai is shaam-e-gharibaaṅ mein
-  Ek khauf sa dasta hai jangal mein, bayaabaaṅ mein
+  Ik hol sa uthta hai is shaam-e-gharibaaṅ mein
+  Ik khauf sa dasta hai jangal mein, bayaabaaṅ mein
   Zanjir bapaa bhaai, phuphi bhi rasan basta
-  Phir band har ek rasta, ab aur na tarpao
+  Phir band har ik rasta, ab aur na tarpaao
 ---
 
 عباس چلے آؤ

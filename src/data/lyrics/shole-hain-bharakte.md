@@ -19,7 +19,7 @@ romanLyrics: |-
   Abbas utho aag lagi jalte haiṅ khaime
 
   1
-  Phir ghaiz-e-Yadullah zamaane ko dikhaao
+  Phir ghaazi-e-Yadullah zamaane ko dikhaao
   Faryaad chahiti ki hai imdaad ko aao
   Gauhar na chhine aa ke bhatiji ko bachaao
   Daaman se Sakina ke haiṅ lipte hue shole
@@ -37,7 +37,7 @@ romanLyrics: |-
   Ab Aabid-e-bimaar bhi sholoṅ meiṅ ghira hai
 
   4
-  Jalti hui reti pe pare haiṅ tan-e-besar
+  Jalti hui reti pe pare haiṅ tan-e-be sar
   Ye Aun o Muhammad hai wo Qaasim hai wo Akbar
   Phir ek naye zulm pe tayyaar hai lashkar
   Paamaali-e-Shabbir ke hote haiṅ iraade
@@ -45,7 +45,7 @@ romanLyrics: |-
   5
   Ab Aal-e-Muhammad pe qayaamat ki ghari hai
   Kya waaris-e-tathir pe uftaad pari hai
-  Ye Dukhtar-e-Zehra hai jo balwe meiṅ khari hai
+  Ye dukhtar-e-Zehra hai jo balwe meiṅ khari hai
   Bimaar sambhalta nahiṅ kore haiṅ baraste
 ---
 شعلے ہیں بھڑکتے ہوئے ہر سمت دھواں ہے

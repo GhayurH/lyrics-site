@@ -31,19 +31,19 @@ romanLyrics: |-
   Rukhsat ki aa gayi hai ghari Aayat-e-Khuda
 
   3
-  Ae bhaai qaid-e-Shaam nibhaane chali huṅ maiṅ
-  Sang-e-sitam ka bojh uthaane chali huṅ maiṅ
+  Ae bhaai qaid-e-Shaam nibhaane chali huṅ main
+  Sang-e-sitam ka bojh uthaane chali huṅ main
   Tasvir-e-Mustafa mahbub-e-Kibriya
   Utho salaam-e-aakhri le lo gharib ka
 
   4
-  Karna dua ke pairoṅ meiṅ larzish kabhi na aaye
-  Quwwat meiṅ meri zarra baraabar kami na aaye
+  Karna dua ke pairoṅ mein larzish kabhi na aaye
+  Quwwat mein meri zarra baraabar kami na aaye
   Zahra ke dilruba ae ruh-e-Murtaza
-  Maiṅ jaa rahi huṅ uth ke dua do mujhe zara
+  Main jaa rahi huṅ uth ke dua do mujhe zara
 
   5
-  Maiṅ kya karuṅ ke baazu haiṅ bhaiya bandhe hue
+  Main kya karuṅ ke baazu haiṅ bhaiya bandhe hue
   Barhte hi jaa rahe haiṅ masaaib ke silsile
   Dushwaar hai dagar mushkil hai raah guzar
   Har ek qadam pe hoga masaaib ka saamna
@@ -52,7 +52,7 @@ romanLyrics: |-
   Rota hai tera haal pe charkh-e-kuhan Husain
   Allah kya ghari hai ke teri behan Husain
   Jaaṅ kho nahiṅ saki ro bhi nahiṅ saki
-  Ye daagh le ke dil pe maiṅ jaati huṅ ba Khuda
+  Ye daagh le ke dil pe main jaati huṅ ba Khuda
 
   7
   Karwat to lo nigaaheiṅ to kholo Shah-e-Zamaṅ
@@ -64,13 +64,13 @@ romanLyrics: |-
   Aamaad-e-safar hai behan alwida Husain
   Jaati hai ab pahan ke rasan alwida Husain
   Zahra ke nur-e-ain qalb-e-Ali ke chain
-  Waada hai tum se waada nibhaauṅgi maiṅ sada
+  Waada hai tum se waada nibhaauṅ gi main sada
 
   9
   Har gaam har maqaam pe ashk-e-aza ke saath
   Ae bhaai tujh se waada hai teri dua ke saath
   Abbas ki behan ae Shah-e-zulm-e-nan
-  Ghurbat ka teri sab ko sunaauṅgi marsiya
+  Ghurbat ka teri sab ko sunaauṅ gi marsiya
 
   10
   Kaise kahuṅ ke tut chuka hai ye dil mera

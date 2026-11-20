@@ -1,36 +1,60 @@
 ---
-title: "Khenchtey Hain"
+title: "کھینچتے ہیں"
+alternateTitle: "Khenchtey Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ba mansha-e-Rab-e-Jahan khainchtay hain
+  Ali sarhad-e-Kun Fikaan khainchtay hain
+  Woh dekho palatta hai magrib se soraj
+  Ali waqt ki doriyaan khainchtay hain
+  Hai jis hath mein Murtaza ki sawari
+  Ossi se Abuzar jahan khainchtay hain
+  Yeh Aal-e-Muhammad hain Aal-e-Muhammad
+  Jo sajdoon se haq ke nishaan khainchtay hain
+  Likho Nooh tum panch ism-e-Elahi
+  Farishtay abhi badbaan khainchtay hain
+  Pisar mang rahib yeh detey rahein gay
+  Sakhi hath apna kahan khainchtay hain
+  Qayamat mein dekha qayamat ka manzar
+  Muqassar ki Meesum zabaan khainchtay hain
+  Yeh sajdoon mein Shair-e-Khuda ke kashish hai
+  Makaan se soye La Makaan khainchtay hain
+  Yeh khaki bashar farsh-e-majlis bicha kar
+  Zameen ki taraf aasmaan khainchtay hain
+  Nuseri muqassar rahein apni had mein
+  Woh Maula ko kyun darmiyaan khainchtay hain
+  Takallum Khuda-e-Sukhan ke qalam se
+  Shabeeh-e-Imam-e-Zamaan khainchtay hain
 ---
 
-1
-Ba Mansha-e-Rab-e-Jahan Khainchtay Hain.
-Ali Sarhad-e-Kun Fikaan Khainchtay Hain.
-Woh Dekho Palatta Hai Magrib Se Soraj.
-Ali Waqt Ki Doriyaan Khainchtay Hain.
-Hai Jis Hath Mein Murtaza Ki Sawari.
-Ossi Se Abuzar Jahan Khainchtay Hain.
-Yeh Aal-e-Muhammad Hain Aal-e-Muhammad.
-Jo Sajdoon Se Haq Ke Nishaan Khainchtay Hain.
-Likho Nooh Tum Panch Ism-e-Elahi.
-Farishtay Abhi Badbaan Khainchtay Hain.
-Pisar Mang Rahib Yeh Detey Rahein Gay.
-Sakhi Hath Apna Kahan Khainchtay Hain.
-Qayamat Mein Dekha Qayamat Ka Manzar.
-Muqassar Ki Meesum Zabaan Khainchtay Hain.
-Yeh Sajdoon Mein Shair-e-Khuda Ke Kashish Hai.
-Makaan Se Soye La Makaan Khainchtay Hain.
-Yeh Khaki Bashar Farsh-e-Majlis Bicha Kar.
-Zameen Ki Taraf Aasmaan Khainchtay Hain.
-Nuseri Muqassar Rahein Apni Had Mein.
-Woh Maula Ko Kyun Darmiyaan Khainchtay Hain.
- Takallum Khuda-e-Sukhan Ke Qalam Se.
-Shabeeh-e-Imam-e-Zamaan Khainchtay Hain.
-Istefada-e-Radeef::Mir Babbar Ali Anees:
+۱
+بہ منشائے ربِ جہاں کھینچتے ہیں
+علی سرحدِ کن فکاں کھینچتے ہیں
+وہ دیکھو پلٹتا ہے مغرب سے سورج
+علی وقت کی ڈوریاں کھینچتے ہیں
+ہے جس ہاتھ میں مرتضیٰ کی سواری
+اسی سے ابوذر جہاں کھینچتے ہیں
+یہ آلِ محمد ہیں آلِ محمد
+جو سجدوں سے حق کے نشاں کھینچتے ہیں
+لکھو نوح تم پانچ اسمِ الٰہی
+فرشتے ابھی بادباں کھینچتے ہیں
+پسر مانگ راہب یہ دیتے رہیں گے
+سخی ہاتھ اپنا کہاں کھینچتے ہیں
+قیامت میں دیکھا قیامت کا منظر
+مقصر کی میثم زباں کھینچتے ہیں
+یہ سجدوں میں شیرِ خدا کے کشش ہے
+مکاں سے سوئے لامکاں کھینچتے ہیں
+یہ خاکی بشر فرشِ مجلس بچھا کر
+زمیں کی طرف آسماں کھینچتے ہیں
+نصیری مقصر رہیں اپنی حد میں
+وہ مولا کو کیوں درمیاں کھینچتے ہیں
+تکلم خدائے سخن کے قلم سے
+شبیہِ امامِ زماں کھینچتے ہیں

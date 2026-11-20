@@ -1,23 +1,37 @@
 ---
-title: "Khari Rahi Darbar Che Chup Kar Ke Sajjad Ashraf Taqvi Lyrics 2022"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کھڑی رہی دربار چے چپ کر کے"
+alternateTitle: "Khari Rahi Darbar Che Chup Kar Ke"
+language: "Saraiki"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khari rahi darbar che chup kar ke Sajjad Ashraf Taqvi
+  Khari rayi darbar che chup kar ke baon dair taein Zahra
+  Nayi keeti izzat Musalmana gaya dard Batool nu kha
+  Haq da maikon arman nayi main khari rayi piyo de mimber agay
+  Arman aye oh na jhutlanday oh maiday masoom gawah
+  Sarwar di dhi nu be adbaan darbar che ayho jayi jhirak ditti
+  Zahra de sar de walaan ne dita jhat wich rang badla
+  Mehroma Bibi ro ro ke darbar da dhi nu haal dasay
+  Taidi pak rida hun nayi bachdi oh main ainj mahool ditha
+  Main gayi maidan mubahlay wich babay de naal gawah banr ke
+  Jehray maiday naal gawah banr gaye oh dittay Musalmana jhutla
 ---
 
-1
-Khari Rahi Darbar Che Chup Kar Ke Sajjad Ashraf Taqvi.
-Khari Rayi Darbar Che Chup Kar Ke Baon Dair Taein Zahra.
-Nayi Keeti Izzat Musalmana Gaya Dard Batool Nu Kha.
-Haq Da Maikon Arman Nayi Main Khari Rayi Piyo De Mimber Agay.
-Arman Aye Oh Na Jhutlanday Oh Maiday Masoom Gawah.
-Sarwar Di Dhi Nu Be Adbaan Darbar Che Ayho Jayi Jhirak Ditti.
-Zahra De Sar De Walaan Ne Dita Jhat Wich Rang Badla.
-Mehroma Bibi Ro Ro Ke Darbar Da Dhi Nu Haal Dasay.
-Taidi Pak Rida Hun Nayi Bachdi Oh Main Ainj Mahool Ditha.
-Main Gayi Maidan Mubahlay Wich Babay De Naal Gawah Banr Ke.
-Jehray Maiday Naal Gawah Banr Gaye Oh Dittay Musalmana Jhutla.
+۱
+کھڑی رہی دربار چے چپ کر کے سجاد اشرف تقوی
+کھڑی رئی دربار چے چپ کر کے بہوں دیر تائیں زہرا
+نئیں کیتی عزت مسلماناں گیا درد بتول نوں کھا
+حق دا میکوں ارمان نئیں میں کھڑی رئی پیو دے منبر اگے
+ارمان اے اوہ نہ جھٹلاندے اوہ میڈے معصوم گواہ
+سرور دی دھی نوں بے ادباں دربار چے ایہو جئی جھڑک دتی
+زہرا دے سر دے والاں نے دتا جھٹ وچ رنگ بدلا
+محرومہ بیبی رو رو کے دربار دا دھی نوں حال دسے
+تیڈی پاک ردا ہن نئیں بچدی اوہ میں اینج ماحول ڈٹھا
+میں گئی میدان مباہلے وچ بابے دے نال گواہ بݨ کے
+جیہڑے میڈے نال گواہ بݨ گئے اوہ دتے مسلماناں جھٹلا

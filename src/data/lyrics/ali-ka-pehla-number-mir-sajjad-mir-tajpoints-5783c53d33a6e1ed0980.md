@@ -1,86 +1,162 @@
 ---
-title: "Ali Ka Pehla Number Mir Sajjad Mir"
+title: "علی کا پہلا نمبر میر سجاد میر"
+alternateTitle: "Ali Ka Pehla Number Mir Sajjad Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dabeer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali ka pehla number Mir Sajjad Mir
+  Ya Ali ya Eliya ya Murtaza mushkil kusha
+
+  1
+  Khushiyaan manao, sab ko bolao, mehfil sajao, narey lagao
+  Ali ka pehla number hai
+  Khuda ke baad nabi hai
+  Nabi ke baad wali hai
+
+  2
+  Wali yeh sab se behtar hai
+  Koi Kabay mein aaya ho tu oss ka pehla number ho
+  Koi Hasnain ka baba ho tu oss ka pehla number ho
+  Yeh azmat kis ko mili hai, yeh izzat kis ko mili hai
+
+  3
+  Ali Zahra ka shohar hai Ali ka pehla number hai
+  Sada par jo Muhammad ki chala aaye woh pehla hai
+  Jo pehle Zulashera se nazar aaye woh pehla hai
+  Taqabul kaisa kissi se sabhi hain bahir walay
+
+  4
+  Ali tu ghar ka mimber hai Ali ka pehla number hai
+  Ali imam-e-awwal hai, Ali maidaan mein awwal hai
+  Ali ki baat aala hai, Ali ki zaat aala hai
+  Ali ki shan afzal hai, Ali insan afzal hai
+
+  5
+  Ali har kam mein pehla, Ali islam mein pehla
+  Ali Aadam se pehle hai, Ali har dam se pehle hai
+  Ali awwal bhi aakhir bhi, Ali batin bhi zahir bhi
+  Ali maula Ali aaqa, Ali rehbar Ali Kausar
+
+  6
+  Ali ki badshahi hai, Ali ism-e-Elahi hai
+  Hadees aisi kissi ki shan mein hum ko nahi milti
+  Ali our meri nisbat hai wohi Haroon-o-Mosa ki
+  Kahan woh nafs-e-payamber kahan hum jaisay nokar
+
+  7
+  Ali aaqa ka baradar hai Ali ka pehla number hai
+  Parho Ahzab ka sorah ajab tha khof ka aalam
+  Suni lalkar jis dam Amar ki sab ho gaye be dam
+  Utha phir kul-e-emaan chala woh soye maidaan
+
+  8
+  Akela khud jo lashkar hai Ali ka pehla number hai
+  Pathar pe almm deen ka gara kis ne
+  Lalkar ke Marhab ko pachara kis ne
+  Ansar-e-payamber tu sabhi they mojood
+
+  9
+  Bolo bolo dar-e-Khaybar ko ukhara kis ne (Mirza Dabeer)
+  Ali hai shair-e-Yazdaan
+  Ali hai mard-e-maidaan
+  Ali hi fatah-e-Khaybar hai
+
+  10
+  Yeh darjah hum ne Haider ko nahi bakhsha jahan walo
+  Nabi ka Khum ke mimber se yehi ayelan hai sun lo
+  Ali hi Rab ka wali hai Ali hi mera wasi hai
+  Ali tum sab ka rehbar hai Ali ka pehla number hai
+
+  11
+  Ali se bugz rakhay ga nasab jis ka na ho acha
+  Ali se pyar karta hai woh jis ka pak ho shajrah
+  Ali ka zikar ibadat Ali ki fikar ibadat
+  Yehi qaul-e-payamber hai Ali ka pehla number hai
+
+  12
+  Kitabein tum bhi le aao hawalay hum bhi latay hain
+  Dikhana tum nabi Kabay mein kaisay but giratay hain
+  Zara dekho yeh azmat jahan thi mohar-e-nabowat
+  Wahan par paye Haider hai Ali ka pehla number hai
 ---
 
-Ali Ka Pehla Number Mir Sajjad Mir.
-Ya Ali Ya Eliya Ya Murtaza Mushkil Kusha.
+علی کا پہلا نمبر میر سجاد میر
+یا علی یا ایلیا یا مرتضیٰ مشکل کشا
 
-1
-Khushiyaan Manao, Sab Ko Bolao, Mehfil Sajao, Narey Lagao.
-Ali Ka Pehla Number Hai.
-Khuda Ke Baad Nabi Hai.
-Nabi Ke Baad Wali Hai.
+۱
+خوشیاں مناؤ، سب کو بلاؤ، محفل سجاؤ، نعرے لگاؤ
+علی کا پہلا نمبر ہے
+خدا کے بعد نبی ہے
+نبی کے بعد ولی ہے
 
-2
-Wali Yeh Sab Se Behtar Hai.
-Koi Kabay Mein Aaya Ho Tu Oss Ka Pehla Number Ho.
-Koi Hasnain Ka Baba Ho Tu Oss Ka Pehla Number Ho.
-Yeh Azmat Kis Ko Mili Hai, Yeh Izzat Kis Ko Mili Hai.
+۲
+ولی یہ سب سے بہتر ہے
+کوئی کعبے میں آیا ہو تو اس کا پہلا نمبر ہو
+کوئی حسنین کا بابا ہو تو اس کا پہلا نمبر ہو
+یہ عظمت کس کو ملی ہے، یہ عزت کس کو ملی ہے
 
-3
-Ali Zahra Ka Shohar Hai Ali Ka Pehla Number Hai.
-Sada Par Jo Muhammad Ki Chala Aaye Woh Pehla Hai.
-Jo Pehle Zulashera Se Nazar Aaye Woh Pehla Hai.
-Taqabul Kaisa Kissi Se Sabhi Hain Bahir Walay.
+۳
+علی زہرا کا شوہر ہے علی کا پہلا نمبر ہے
+صدا پر جو محمد کی چلا آئے وہ پہلا ہے
+جو پہلے ذوالعشیرہ سے نظر آئے وہ پہلا ہے
+تقابل کیسا کسی سے سبھی ہیں باہر والے
 
-4
-Ali Tu Ghar Ka Mimber Hai Ali Ka Pehla Number Hai.
-Ali Imam-e-Awwal Hai, Ali Maidaan Mein Awwal Hai.
-Ali Ki Baat Aala Hai, Ali Ki Zaat Aala Hai.
-Ali Ki Shan Afzal Hai, Ali Insan Afzal Hai.
+۴
+علی تو گھر کا ممبر ہے علی کا پہلا نمبر ہے
+علی امامِ اوّل ہے، علی میدان میں اوّل ہے
+علی کی بات اعلیٰ ہے، علی کی ذات اعلیٰ ہے
+علی کی شان افضل ہے، علی انسان افضل ہے
 
-5
-Ali Har Kam Mein Pehla, Ali Islam Mein Pehla.
-Ali Aadam Se Pehle Hai, Ali Har Dam Se Pehle Hai.
-Ali Awwal Bhi Aakhir Bhi, Ali Batin Bhi Zahir Bhi.
-Ali Maula Ali Aaqa, Ali Rehbar Ali Kausar.
+۵
+علی ہر کام میں پہلا، علی اسلام میں پہلا
+علی آدم سے پہلے ہے، علی ہر دم سے پہلے ہے
+علی اوّل بھی آخر بھی، علی باطن بھی ظاہر بھی
+علی مولا علی آقا، علی رہبر علی کوثر
 
-6
-Ali Ki Badshahi Hai, Ali Ism-e-Elahi Hai.
-Hadees Aisi Kissi Ki Shan Mein Hum Ko Nahi Milti.
-Ali Our Meri Nisbat Hai Wohi Haroon-o-Mosa Ki.
-Kahan Woh Nafs-e-Payamber Kahan Hum Jaisay Nokar.
+۶
+علی کی بادشاہی ہے، علی اسمِ الٰہی ہے
+حدیث ایسی کسی کی شان میں ہم کو نہیں ملتی
+علی اور میری نسبت ہے وہی ہارون و موسیٰ کی
+کہاں وہ نفسِ پیمبر کہاں ہم جیسے نوکر
 
-7
-Ali Aaqa Ka Baradar Hai Ali Ka Pehla Number Hai.
-Parho Ahzab Ka Sorah Ajab Tha Khof Ka Aalam.
-Suni Lalkar Jis Dam Amar Ki Sab Ho Gaye Be Dam.
-Utha Phir Kul-e-Emaan Chala Woh Soye Maidaan.
+۷
+علی آقا کا برادر ہے علی کا پہلا نمبر ہے
+پڑھو احزاب کا سورہ عجب تھا خوف کا عالم
+سنی للکار جس دم عمرو کی سب ہو گئے بے دم
+اٹھا پھر کلِ ایمان چلا وہ سوئے میدان
 
-8
-Akela Khud Jo Lashkar Hai Ali Ka Pehla Number Hai.
-Pathar Pe Almm Deen Ka Gara Kis Ne.
-Lalkar Ke Marhab Ko Pachara Kis Ne.
-Ansar-e-Payamber Tu Sabhi They Mojood.
+۸
+اکیلا خود جو لشکر ہے علی کا پہلا نمبر ہے
+پتھر پہ علم دین کا گاڑا کس نے
+للکار کے مرحب کو پچھاڑا کس نے
+انصارِ پیمبر تو سبھی تھے موجود
 
-9
-Bolo Bolo Dar-e-Khaybar Ko Ukhara Kis Ne. (Mirza Dabeer)
-Ali Hai Shair-e-Yazdaan.
-Ali Hai Mard-e-Maidaan.
-Ali Hi Fatah-e-Khaybar Hai.
+۹
+بولو بولو درِ خیبر کو اکھاڑا کس نے (مرزا دبیر)
+علی ہے شیرِ یزداں
+علی ہے مردِ میدان
+علی ہی فاتحِ خیبر ہے
 
-10
-Yeh Darjah Hum Ne Haider Ko Nahi Bakhsha Jahan Walo.
-Nabi Ka Khum Ke Mimber Se Yehi Ayelan Hai Sun Lo.
-Ali Hi Rab Ka Wali Hai Ali Hi Mera Wasi Hai.
-Ali Tum Sab Ka Rehbar Hai Ali Ka Pehla Number Hai.
+۱۰
+یہ درجہ ہم نے حیدر کو نہیں بخشا جہاں والو
+نبی کا خم کے ممبر سے یہی اعلان ہے سن لو
+علی ہی رب کا ولی ہے علی ہی میرا وصی ہے
+علی تم سب کا رہبر ہے علی کا پہلا نمبر ہے
 
-11
-Ali Se Bugz Rakhay Ga Nasab Jis Ka Na Ho Acha.
-Ali Se Pyar Karta Hai Woh Jis Ka Pak Ho Shajrah.
-Ali Ka Zikar Ibadat Ali Ki Fikar Ibadat.
-Yehi Qaul-e-Payamber Hai Ali Ka Pehla Number Hai.
+۱۱
+علی سے بغض رکھے گا نسب جس کا نہ ہو اچھا
+علی سے پیار کرتا ہے وہ جس کا پاک ہو شجرہ
+علی کا ذکر عبادت علی کی فکر عبادت
+یہی قولِ پیمبر ہے علی کا پہلا نمبر ہے
 
-12
-Kitabein Tum Bhi Le Aao Hawalay Hum Bhi Latay Hain.
-Dikhana Tum Nabi Kabay Mein Kaisay But Giratay Hain.
-Zara Dekho Yeh Azmat Jahan Thi Mohar-e-Nabowat.
-Wahan Par Paye Haider Hai Ali Ka Pehla Number Hai.
+۱۲
+کتابیں تم بھی لے آؤ حوالے ہم بھی لاتے ہیں
+دکھانا تم نبی کعبے میں کیسے بت گراتے ہیں
+ذرا دیکھو یہ عظمت جہاں تھی مہرِ نبوت
+وہاں پر پائے حیدر ہے علی کا پہلا نمبر ہے

@@ -9,54 +9,34 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sughra ko rulata hay yeh chand Muharram ka
-
-  Jab Samnay aata hay yeh chand Muharram ka
-
+romanLyrics: |-
+  Sughra ko rulaata hai yeh chaand Muharram ka
+  Jab saamne aata hai yeh chaand Muharram ka
 
   1
-
-  1) Ham surat-e-Zehra say bhai kay bicharnay ki
-
-  Khatoon-e-Qiyamat kay Ghar baar ujarnay ki
-
-  Rudad sunata hay yeh chand Muharram ka
-
+  Ham surat-e-Zehra se bhaai ke bichharne ki
+  Khaatun-e-Qiyaamat ke ghar baar ujarne ki
+  Rudaad sunaata hai yeh chaand Muharram ka
 
   2
-
-  2) Katata hay gala logo seh roz kay pyasay ka
-
-  Pamal huwa lasha Ahmed kay nawasay ka
-
-  Her ik ko batata hay yeh Chand Muharram ka
-
+  Kaata hai gala logo seh roz ki pyaase ka
+  Paamaal hua laasha Ahmad ki nawaase ka
+  Har ik ko bataata hai yeh chaand Muharram ka
 
   3
-
-  3) Tasweer dikhata hay Ahmed ki jawani ki
-
-  Her shaks ko dunya main Kerbal ki kahani ki
-
-  Tafsir batata hai yeh Chand Muharram ka
-
+  Tasvir dikhaata hai Ahmad ki jawaani ki
+  Har shakhs ko duniya mein Karbal ki kahaani ki
+  Tafsir bataata hai yeh chaand Muharram ka
 
   4
-
-  4) Kerbal ki ziyarat ko jo ankh tarap ti thi
-
-  Shabbir Terai gham main Jo Ankh barasti thi
-
-  Us ankh ko bhata hai yeh Chand Muharram ka
-
+  Karbal ki ziyaarat ko jo aankh tarapti thi
+  Shabbir tere gham mein jo aankh barasti thi
+  Us aankh ko bhaata hai yeh chaand Muharram ka
 
   5
-
-  5) Imran ko Shubber ko khatoon-e-Qiyamat ko
-
-  Haider ki qasam mazhar sarkar-e-risalat ko
-
-  Turbat main rulata hai Yeh Chand Muharram ka'
+  Imraan ko Shubbar ko Khaatun-e-Qiyaamat ko
+  Haidar ki qasam Mazhar Sarkaar-e-Risaalat ko
+  Turbat mein rulaata hai yeh chaand Muharram ka
 ---
 
 صغراؑ کو رلاتا ہے یہ چند محرّم کا

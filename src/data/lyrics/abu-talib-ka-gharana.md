@@ -10,41 +10,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abu Talib ka gharana
-  Quran parhaya hai, eman bataya hai
-  Imraan ke gharane ne Islam bachaya hai
-  Bara mehbob gharana Abu Talib ka gharana
-  Ghulam in ka hai zamana Abu Talib ka gharana
-  Kiya har kaam ossi ki riza mein razi reh kar
-  Khuda ke deen ki khatir hazaroon sadme seh kar
-  Kare har dam shukrana Abu Talib ka gharana
-  Risalat ho keh imamat, wilayat ho keh taharat
-  Sharafat ho keh sadaqat, sakhawat ho keh shujat
-  Har ik azmat ka thikana Abu Talib ka gharana
-  Kadi mimbar te khar ke kadi medan te lar ke
-  Kadi naizay te charh ke kadi khutbe parh parh ke
-  Sikhaway deen bacharaan Abu Talib da gharanra
-  Kadi barn paak Muhammad kadi barn Haider Safdar
-  Kadi Shabir te Mahdi di sorat dunya andar
-  Hai jenda aanra janra Abu Talib da gharanra
-  Diye rahib ko baitay kiya be Zar ko Abu Zar
-  Diye Fitras ko par jagaya Hur ka muqadar
-  Yeh hai sakhiyon ka gharana Abu Talib AS ka gharana
-  Pukara jab mushkil mein inhone ki lajpali
-  Sabhi mangton ki pal mein bhari jholi khali
-  Jhuka jiss dar pe zamana Abu Talib AS ka gharana
-  Aynda Salman gadagar te nokar Mesum Qanbar
-  Aynda Jibrail salami te sag Shehbaz Qalandar
-  Hai banriya sab da thikana Abu Talib AS da gharanra
-  Main puchiya teri jag te hai ke toqeer wadahi
-  Te mohsin konr hai tera sada Islam di ayi
-  Maida mohsin hai poranra Abu Talib AS da gharanra
-  Safina Nooh ka doley tu yeh imdad ko aein
-  Kabhi naar-e-Namrodi ko yeh gulzar banein
-  Shifat ka parwana Abu Talib AS ka gharana
-  Hai aala sare jag tu sakhi Imran da aye ghar
-  Salahwan sab nu denday ayho “Jawad” te “Sarwar”
-  Na ik pal nu v bholaraan Abu Talib AS da gharanra
+  Abu Talib ka gharaana
+  Quraan parhaaya hai, imaan bataaya hai
+  Imraan ke gharaane ne Islaam bachaaya hai
+  Bara mahbub gharaana Abu Talib ka gharaana
+  Ghulaam in ka hai zamaana Abu Talib ka gharaana
+  Kiya har kaam usi ki raza mein raazi reh kar
+  Khuda ke din ki khaatir hazaaroṅ sadme seh kar
+  Kare har dam shukraana Abu Talib ka gharaana
+  Risaalat ho ke imaamat, wilaayat ho ke tahaarat
+  Sharaafat ho ke sadaaqat, sakhaawat ho ke shujaat
+  Har ik azmat ka thikaana Abu Talib ka gharaana
+  Kadi mimbar te khar ke kadi maidaan te lar ke
+  Kadi naize te charh ke kadi khutbe parh parh ke
+  Sikhaave din bachaaraaṅ Abu Talib da gharaanra
+  Kadi ban paak Muhammad kadi ban Haider Safdar
+  Kadi Shabbir te Mahdi di surat duniya andar
+  Hai jenda aanra jaanra Abu Talib da gharaanra
+  Diye raahib ko bete kiya bezar ko Abu Zar
+  Diye Fitras ko par jagaaya Hur ka muqaddar
+  Yeh hai sakhiyoṅ ka gharaana Abu Talib ka gharaana
+  Pukaara jab mushkil mein inhoṅ ne ki laaj paali
+  Sabhi mangtoṅ ki pal mein bhari jholi khaali
+  Jhuka jis dar pe zamaana Abu Talib ka gharaana
+  Ainda Salmaan gadaagar te naukar Maisam Qanbar
+  Ainda Jibraail salaami te sag Shahbaaz Qalandar
+  Hai banriya sab da thikaana Abu Talib da gharaanra
+  Main puchhiya teri jag te hai ke tauqir wadhaai
+  Te mohsin kaun hai tera sadaa Islaam di aai
+  Maida mohsin hai puraanra Abu Talib da gharaanra
+  Safina Nuh ka dole to yeh imdaad ko aaeṅ
+  Kabhi naar-e-Namrudi ko yeh gulzaar baneṅ
+  Shafaat ka parwaana Abu Talib ka gharaana
+  Hai aala saare jag toṅ sakhi Imraan da ae ghar
+  Salaahwaaṅ sab nuṅ dende eho "Jawaad" te "Sarwar"
+  Na ik pal nuṅ vi bhulaaraaṅ Abu Talib da gharaanra
 ---
 
 ۱

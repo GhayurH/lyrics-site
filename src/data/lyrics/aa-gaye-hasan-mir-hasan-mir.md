@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khush hain Fatima-o-Murtaza aa gaye Hasan
-  Dosto hai roz Eid ka aa gaye Hasan
-  Fatima se do jahan ka raaj mang lo
-  Mangna hai jo bhi tum ko aaj mang lo
-  Josh mein hai rehmat-e-Khuda aa gaye Hasan
-  Waqt ho gaya faqeer-e-Sham ka tamam
+  Khush haiṅ Fatima o Murtaza aa gaye Hasan
+  Dosto hai roz-e-Eid ka aa gaye Hasan
+  Fatima se do jahaaṅ ka raaj maang lo
+  Maangna hai jo bhi tum ko aaj maang lo
+  Josh meiṅ hai rehmat-e-Khuda aa gaye Hasan
+  Waqt ho gaya faqeer-e-Shaam ka tamaam
 
   2
-  Aa gaya hai aaj mera dosra imam
+  Aa gaya hai aaj mera dusra imam
   Hoga ab qalam se faisla aa gaye Hasan
-  Hujra-e-Batool rashk-e-Toor ho gaya
-  Nazil aasmaan se sabz noor ho gaya
-  Parh chukin jo Zohar Fatima aa gaye Hasan
-  Pori hoon gi sailon ki sab guzarishein
+  Hujra-e-Batul rashk-e-Tur ho gaya
+  Naazil aasmaaṅ se sabz nur ho gaya
+  Parh chukiṅ jo Zohr Fatima aa gaye Hasan
+  Puri huṅ gi saailoṅ ki sab guzaarisheiṅ
 
   3
-  Ab karam sakhawaton ki hoon gi barishien
-  Rehmaton ka baab khul gaya aa gaye Hasan
-  Tana abtari ka jo Nabi ko detey they
-  Aaye hain woh sab Hasan ki deed ke liye
-  Keh rahe hain unn se Mustafa aa gaye Hasan
-  Taig ko qalam ki misal tolta howa
+  Ab karam sakhaawatoṅ ki huṅ gi baarisheiṅ
+  Rehmatoṅ ka baab khul gaya aa gaye Hasan
+  Taana abtari ka jo Nabi ko dete the
+  Aaye haiṅ woh sab Hasan ki did ke liye
+  Keh rahe haiṅ un se Mustafa aa gaye Hasan
+  Tegh ko qalam ki misaal tolta hua
 
   4
-  Qasim-e-Hasan wiga ke wastay barha
-  Shoor karzar mein utha aa gaye Hasan
-  Jane kis khiyal mein farishtay kho gaye
-  Fatima ke ghar mein do Rasool ho gaye
-  Ban ke khud shabeeh-e-Mustafa aa gaye Hasan
-  Shan-e-Mujtaba pe khud daleel ho gaya
+  Qaasim-e-Hasan wagha ke waaste barha
+  Shor kaarzaar meiṅ utha aa gaye Hasan
+  Jaane kis khayaal meiṅ farishte kho gaye
+  Fatima ke ghar meiṅ do Rasul ho gaye
+  Ban ke khud shabih-e-Mustafa aa gaye Hasan
+  Shaan-e-Mujtaba pe khud dalil ho gaya
 
   5
-  Sajda-e-Rasool jab taveel ho gaya
-  Sathiyon ne khud samajh liya aa gaye Hasan
-  Kainat mere sath jhomney lagi
-  Yeh zameen kuch our taiz ghomney lagi
-  Mir ne jo jhoom kar kaha aa gaye Hasan
-  Rozay daro din hai Eid ka aa gaye Hasan
+  Sajda-e-Rasul jab tawil ho gaya
+  Saathiyoṅ ne khud samajh liya aa gaye Hasan
+  Kaainaat mere saath jhumne lagi
+  Yeh zamiṅ kuchh aur tez ghumne lagi
+  Mir ne jo jhum kar kaha aa gaye Hasan
+  Roze daaro din hai Eid ka aa gaye Hasan
 ---
 
 ۱

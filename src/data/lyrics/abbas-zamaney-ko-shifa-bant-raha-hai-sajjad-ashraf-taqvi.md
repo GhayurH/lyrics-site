@@ -10,34 +10,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas zamaney ko shifa bant raha hai Sajjad Ashraf Taqvi
-  Dunya ko tabaruk mein wafa bant raha hai
-  Le jaye zamane se kaho jholiyaan bhar kar
-  Be hath wafaon ka khuda bant raha hai
+  Abbas zamane ko shifa baant raha hai Sajjad Ashraf Taqvi
+  Dunya ko tabarruk meiṅ wafa baant raha hai
+  Le jaaye zamane se kaho jholiyaaṅ bhar kar
+  Be haath wafaoṅ ka khuda baant raha hai
 
   2
-  Lagta hai sabeelon pe katay hathoon se Kausar
-  Pyason ko Sakina ka chacha bant raha hai
-  Ghazi ka alam aaj talak ban ke maseeha
-  Mayoos mareezo ko dawa bant raha hai
+  Lagta hai sabiloṅ pe kate haathoṅ se Kausar
+  Pyaasoṅ ko Sakina ka chacha baant raha hai
+  Ghazi ka alam aaj talak ban ke masiha
+  Mayus marizoṅ ko dawa baant raha hai
 
   3
-  Chodah so baras ho gaye Abbas ka parcham
-  Har moor pe janat ki hawa bant raha hai
-  Behlool ko Shabeer ke zakir se mila do
-  Janat woh sar-e-farsh-e-azza bant raha hai
+  Chaudah sau baras ho gaye Abbas ka parcham
+  Har mor pe jannat ki hawa baant raha hai
+  Behlul ko Shabbir ke zakir se mila do
+  Jannat woh sar-e-farsh-e-aza baant raha hai
 
   4
-  Khushnodi-e-Ghazi ke liye sheh ka azadar
-  Zainab ki kaneezon ko rida bant raha hai
-  Naslon mein meri matam-e-zanjeer ka jazba
-  Sadiyon se shahadat ka maza bant raha hai
+  Khushnudi-e-Ghazi ke liye sheh ka azadar
+  Zainab ki kanizoṅ ko rida baant raha hai
+  Nasloṅ meiṅ meri maatam-e-zanjir ka jazba
+  Sadiyoṅ se shahadat ka maza baant raha hai
 
   5
-  Talwar ka muhtaj nahi shair Ali ka
-  Maidan mein nazron se qaza bant raha hai
-  Akhtar hain fida oss pa yeh Quran ke soray
-  Woh shaks jo faqoon mein giza bant raha hai
+  Talwar ka muhtaj nahiṅ sher Ali ka
+  Maidan meiṅ nazroṅ se qaza baant raha hai
+  Akhtar haiṅ fida us pe yeh Quran ke sure
+  Woh shakhs jo faaqoṅ meiṅ ghiza baant raha hai
 ---
 
 ۱

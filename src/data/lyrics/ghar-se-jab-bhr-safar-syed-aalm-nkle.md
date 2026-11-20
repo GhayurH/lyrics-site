@@ -8,200 +8,107 @@ poet: "Mir Nawab Ali Mounis"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ghar se jab behre safar sayyede aalam nikle
-
-  Sar jhukaye huwe ba deedae purnum nikle
-
-  Khaish o farzand kamar baand ke baaham nikle
-
-  Roke farmaya ke is shehr se ab hum nikle
-
+romanLyrics: |-
+  Ghar se jab bahr-e-safar Sayyid-e-Aalam nikle
+  Sar jhukaaye hue ba dida-e-pur nam nikle
+  Khesh o farzand kamar baandh ke paiham nikle
+  Ro ke farmaaya ke is shahr se ab ham nikle
+  Raat se girya-e-Zehra ki sada aati hai
+  Dekheṅ qismat hameṅ kis dasht mein le jaati hai
 
   1
-
-  Raat se girya e zehra ki sada aati hai
-
-  Dekhe kismat hame kis dasht may le jaati hai
-
-  Rukh kiya sheh ne suye qabre shehenshah e anaam
-
-  Behre tasleem jhuke muttasile baabe salaam
-
+  Rukh kiya shah ne su-e-qabr-e-shahanshah-e-anaam
+  Bahr-e-taslim jhuke muttasil-e-baab-e-salaam
+  Izn parh kar jo gaye qabr ke nazdik imaam
+  Arz ki aaya hai aaj aakhiri rukhsat ko ghulaam
+  Ye makaan ham se ab ae shah-e-zamaan chhutta hai
+  Aaj Hazrat ke nawaase se watan chhutta hai
 
   2
-
-  Izn pad kar jo gaye qabr ke nazdeek imam
-
-  Arz ki aaya hai aaj aakhri ruqsat ko ghulam
-
-  Ye makaan hum se ab ay shaahe zaman chut''ta hai
-
-  Aaj hazrat ke nawase se watan chut''ta hai
-
+  Chain se sab hai gharoṅ mein mujhe milta nahiṅ chain
+  Sakht aafat mein hai ab aap ka ye nur-ul-ain
+  Tukre dil hota hai jab ro ke haram karte hai bain
+  Nanhe bachoṅ ko bhala le ke kidhar jaaye Husain
+  Shahr mein chain na jangal mein amaan milti hai
+  Dekhiye qabr musaafir ko kahaaṅ milti hai
 
   3
-
-  Chain se sab hai gharon may mujhe milta nahi chain
-
-  Saqt aafat may hai ab aap ka ye noorul ain
-
-  Tukde dil hota hai jab roke haram karte hai bain
-
-  Nanhe bachon ko bhala leke kidhar jaaye hussain
-
+  Ab mere sar ke liye tez hue haiṅ khanjar
+  Ahl-e-kiṅ shar pa kamar baandhe haiṅ ya khair-e-bashar
+  Aap ne di thi isi roz ki amma ko khabar
+  Waalida royi thi do roz talak pit ke sar
+  Is nawaase ko magar bhul na jaana Hazrat
+  Zibh ke waqt madad karne ko aana Hazrat
 
   4
-
-  Shehr may chain na jangal may amaan milti hai
-
-  Dekhiye qabr musafir ko kahan milti hai
-
-  Ab mere sar ke liye tez huwe hai khanjar
-
-  Ahle keen shar pa kamar baandhe hai ya qair e bashar
-
+  Ye wo din hai ke parinde bhi nahiṅ chhorte ghar
+  Mujh ko dar pesh haiṅ in rozoṅ mein aafat ka safar
+  Hai kahiṅ qatl ka saamaan kabhi lut jaane ka dar
+  Saath hai bachoṅ ka ae baadshaah-e-jinn o bashar
+  Tang jine se huṅ paas apne bula lo naana apni
+  Turbat mein nawaase ko chhupa lo naana
 
   5
-
-  Aap ne di thi isi roz ki amma ko qabar
-
-  Waaleda royi thi do roz talak peet ke sar
-
-  Is nawase ko magar bhool na jaana hazrat
-
-  Zibha ke waqt madad karne ko aana hazrat
-
+  Ye bayaan kar ke jo taawiz se lipte Sarwar
+  Yuṅ hili qabr ke tharraayi zari-e-anwar
+  Aayi turbat se ye aawaaz-e-habib-e-daawar
+  Teri ghurbat ke main sadqe mere mazlum pisar
+  Koi samjha na meri god ka paala tujh ko
+  Haaye aada ne Madine se nikaala tujh ko
 
   6
-
-  Ye wo din hai ke parinde bhi nahi chodte ghar
-
-  Mujhko dar pesh hai in rozon may aafat ka safar
-
-  Hai kahin qatl ka saaman kahin lut jaane ka darr
-
-  Saat hai bachon ka ay baadshah e jinn o bashar
-
+  Ae mere gesuoṅ waale mere saabir Shabbir
+  Mere bekas mere mazlum musaafir Shabbir
+  Na raha koi tera yaawar o naasir Shabbir
+  Haaye ae gor-e-gharibaaṅ ke mujaawir Shabbir
+  Tu jahaaṅ jaayega pyaare wahiṅ chalta huṅ main
+  Khaak uraata hua turbat se nikalta huṅ main
 
   7
-
-  Tang jeene se hoo paas apne bulalo nana
-
-  Apni turbat may nawase ko chupalo nana
-
-  Ye bayan karke jo taveez se lipte sarwar
-
-  Yun hili qabr ke tharrayi zareeh e anwar
-
+  Kai din se teri maadar ko nahiṅ qabr mein chain
+  Aayi thi shab ko mera paas ye karti hui bain
+  Ghar mera lutta hai faryaad Rasul-us-Saqalain
+  Subh ko apna watan chhor ke jaata hai Husain
+  Kehne aayi huṅ ke muṅh qabr se moruṅgi main
+  Apne bache ko akela to na chhoruṅgi main
 
   8
-
-  Aayi turbat se ye awaaz e habeeb e daawar
-
-  Teri gurbat ke mai sadqe mere mazloom pisar
-
-  Koyi samjha na meri godh ka paala tujhko
-
-  Haye aada ne madine se nikaala tujhko
-
+  Log hamraah hai mahmil mein main kiunkar rouṅ
+  Maaṅ ki turbat se phir ik baar lipat kar rouṅ
+  Maaṅ ki turbat pe gaye shaah ba chashm-e-khuṅ baar
+  Utri mahmil se basad aah o fughaaṅ Zainab Zaar
 
   9
-
-  Ay mere gaysuon waale mere saabir shabbir
-
-  Mere bekas mere mazloom musafir shabbir
-
-  Na raha koi tera yawar o nasir shabbir
-
-  Haye ay gor e ghariban ke mujaver shabbir
-
+  Sun ke ye shaah ne kiya aakhiri rukhsat ka salaam
+  Nikle rote hue jab rauza-e-anwar se imaam
+  Shah se us dam ye kiya ro ro ke Zainab ne kalaam
+  Qabr par maaṅ ki mujhe le chalo ya shaah-e-anaam
+  Log hamraah hai mahmil mein kiun kar rouṅ
+  Maaṅ ki turbat se phir ik baat lipat kar rouṅ
 
   10
-
-  Tu jahan jayega pyare wahin chalta hoo mai
-
-  Khaak udaata hua turbat se nikalta hoo mai
-
-  Kayi din se teri maadar ko nahi qabr may chain
-
-  Aayi thi shab ko mera paas ye karti hui bain
-
-
-  11
-
-  Ghar mera lut''ta hai faryad rasool us saqlain
-
-  Subha ko apna watan chod ke jaata hai hussain
-
-  Kehne aayi hoon ke moo qabr se modungi mai
-
-  Apne bache ko akela to na chodungi mai
-
-
-  12
-
-  Sunke ye sheh ne kiya aakhri ruksat ka salaam
-
-  Nikle rote huve jab rauza e anwar se imam
-
-  Sheh se us dam ye kiya ro ro ke zainab ne kalaam
-
-  Qabr par maa ki mujhe le chalo ya shaah e anaam
-
-
-  13
-
-  Log hamraah hai mehmil may mai kyun kar ro''un
-
-  Maa ki turbat se phir ek baat lipat kar ro''un
-
-  Maa ki turbat pe gaye shaah ba chashm e khoon baar
-
-  Utri mehmil se basad aah o fughan zainab e zaar
-
-
-  14
-
-  Daud kar qabr se lipte jo imam e abraar
-
-  Haat zehra ke lahad se nikal aaye ek baar
-
-  Aayi awaaz na ro dil ko qalaq hota hai
-
+  Maaṅ ki turbat pe gaye shaah ba chashm-e-khuṅ baar
+  Utri mahmil se basad aah o fughaaṅ Zainab-e-Zaar
+  Daur kar qabr se lipte jo imaam-e-abraar
+  Haath Zehra ke lahad se nikal aayi ik baar
+  Aayi aawaaz na ro dil ko qalaq hota hai
   Qabr hilti hai kaleja mera shaq hota hai
 
+  11
+  Haaṅ bulaao mera Abbas-e-Dilaawar hai kidhar
+  Wo fida hai mere bache pe main sadqe us par
+  Shikam-e-ghair se hai par wo mera hai pisar
+  Ye sada sun ke baraadar ko pukaare Sarwar
+  Abhi rahwaar ko aage na barhaao bhaai
+  Yaad farmaati hai amma idhar aao bhaai
 
-  15
-
-  Haan bulao mera abbas e dilawar hai kidhar
-
-  Wo fida hai mere bache pa mai sadqe us par
-
-  Shikam e ghair se hai par wo mera hai pisar
-
-  Ye sada sunke baradar ko pukare sarwar
-
-
-  16
-
-  Abhi rehwaar ko aage na badao bhai
-
-  Yaad farmati hai amma idhar aao bhai
-
-  Aake abbas ne sar rakh diya paeene mazaar
-
-  Aayi zehra ki nida mai teri gurbat ke nisar
-
-
-  17
-
-  Apne pyaron ke barabar may tujhe karti hoo pyar
-
-  Dhyan bhai ki hifazat ka rahe ay dildaar
-
-  Koi gurbat may usay maar na daale beta
-
-  Mera shabbir hai ab tere hawale beta'
+  12
+  Aa ke Abbas ne sar rakh diya paa-in-e-mazaar
+  Aayi Zehra ki sada main teri ghurbat ke nisaar
+  Apne pyaaroṅ ke baraabar main tujhe karti huṅ pyaar
+  Dhyaan bhaai ki hifaazat ka rahe ae dildaar
+  Koi ghurbat mein use maar na daale beta
+  Mera Shabbir hai ab tere hawaale beta
 ---
 
 گھر سے جب بہرِ سفر سیدِ عالم نکلے

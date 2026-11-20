@@ -1,29 +1,48 @@
 ---
-title: "Rooz Jeena Rooz Marna Safraan Wich Bemaar Ne Lyrics Punjabi 2013"
+title: "روز جینا روز مرنا سفراں وچ بیمار نے"
+alternateTitle: "Rooz Jeena Rooz Marna Safraan Wich Bemaar Ne"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rooz jeena rooz marna safraan wich bemaar ne
+  Shaam de bazaar tu pailaan kayi bazaar ne
+  Surkh hanjwaan naal na roway te Abid ki kare
+  Shimar de hath ne Sakina de dowein rukhsar ne
+
+  2
+  Wich qabar soway Sakina hun sakoon naal ays layi
+  Chun lay Abid qabar choon sare pathar khaar ne
+  Naiziyaan te chadraan ban ke phareray kaindiyaan
+  Kar teyari Shaam di Abid alam teyar ne
+
+  3
+  Utriya sii wich qabar de cha ke lasha pusht te
+  Bachpana Zainab da keeta aynj dafan lachar ne
+  Baal digde ray te Akbar qafila turda riya
+  Mawaan kiwein sambiyaan san qafila salaar ne
 ---
 
-1
-Rooz Jeena Rooz Marna Safraan Wich Bemaar Ne.
-Shaam De Bazaar Tu Pailaan Kayi Bazaar Ne.
-Surkh Hanjwaan Naal Na ROway Te Abid Ki Kare.
-Shimar De Hath Ne Sakina De Dowein Rukhsar Ne.
+۱
+روز جینا روز مرنا سفراں وچ بیمار نے
+شام دے بازار توں پہلاں کئی بازار نے
+سرخ ہنجواں نال نہ رووے تے عابد کی کرے
+شمر دے ہتھ نے سکینہ دے دوویں رخسار نے
 
-2
-Wich Qabar SOway Sakina Hun Sakoon Naal Ays Layi.
-Chun Lay Abid Qabar Choon Sare Pathar Khaar Ne.
-Naiziyaan Te Chadraan Ban Ke Phareray Kaindiyaan.
-Kar Teyari Shaam Di Abid Alam Teyar Ne.
+۲
+وچ قبر سووے سکینہ ہن سکون نال ایس لئی
+چن لے عابد قبر چوں سارے پتھر خار نے
+نیزیاں تے چادراں بنھ کے پھریرے کہندیاں
+کر تیاری شام دی عابد علم تیار نے
 
-3
-Utriya Sii Wich Qabar De Cha Ke Lasha Pusht Te.
-Bachpana Zainab Da Keeta Aynj Dafan Lachar Ne.
-Baal Digde Ray Te Akbar Qafila Turda Riya.
-Mawaan Kiwein Sambiyaan San Qafila Salaar Ne.
+۳
+اتریا سی وچ قبر دے چا کے لاشہ پشت تے
+بچپنا زینب دا کیتا اینج دفن لاچار نے
+بال ڈگدے رہے تے اکبر قافلہ ٹردا ریا
+ماواں کیویں سنبھیاں سن قافلہ سالار نے

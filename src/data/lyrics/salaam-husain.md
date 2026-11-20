@@ -12,17 +12,17 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Safar hayaat ka chaahe tamaam hota rahe
+  Safar-e-hayaat ka chaahe tamaam hota rahe
   Hazaar dard hoṅ zikr-e-imaam hota rahe
   Salaam hota rahe salaam hota rahe salaam hota rahe
 
   1
   Fatema ke chain ko Nabi ke nur-e-ain ko
-  Ba-Khuda Husain ko salaam
+  Ba Khuda Husain ko salaam
   To kaho
   Salaam alaika ya Aba Abdillah
 
-  Safar hayaat ka chaahe tamaam hota rahe
+  Safar-e-hayaat ka chaahe tamaam hota rahe
   Salaam hota rahe
   Maulaana Husain Husain Maulaana Husain mere
 
@@ -50,11 +50,11 @@ romanLyrics: |-
   Maula Husain Maula hamaara salaam lo
   Maula Husain Maula hamaari sada suno
 
-  Aap ka Maula jo azadaar hai
+  Aap ka Maula jo azaadaar hai
   Aap ke ghar ka wo wafaadaar hai
   Aap ki chaahat ka talabgaar hai
   Majlis o maatam se use pyaar hai
-  Maula ghulaamoṅ meiṅ mera naam bhi likh do
+  Maula ghulaamoṅ mein mera naam bhi likh do
   Kaam jo naukar ka hai wo kaam bhi likh do
   Hum raheṅ na raheṅ ye sada zinda rahe
   Salaam alaika ya Aba Abdillah
@@ -64,7 +64,7 @@ romanLyrics: |-
   Rehte jahaaṅ sohnre Nabi Mustafa
   Jis ne diya hum ko ye din-e-Khuda
   Aur nawaasa bana us ki baqa
-  Aao chalo Karbobala tum ko dikhaaheṅ
+  Aao chalo Karb o Bala tum ko dikhaaheṅ
   Aaj bhi aati haiṅ bahattar ki sadaaeṅ
   Hum raheṅ na raheṅ ye sada zinda rahe
   Salaam alaika ya Aba Abdillah

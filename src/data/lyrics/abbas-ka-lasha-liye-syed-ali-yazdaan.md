@@ -1,6 +1,6 @@
 ---
 title: "عباس کا لاشہ لیے سید علی یزداں"
-alternateTitle: "Abbas Ka Lasha Liye Syed Ali Yazdaan"
+alternateTitle: "Abbas Ka Laasha Liye Syed Ali Yazdaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ro rahe hain Shah-e-Dein Abbas ka lasha liye
-  Reh gayi bali Sakina hath mein koza liye
-  Bachoon ki pyasi nigahein door tak chalti rahein
-  Jab gaya tha bawafa darya pe mashkeza liye
-  Aye Hussain Ibn-e-Ali ki maa zara dekho idhar
-  Aaye hain Abbas bazuon ka nazrana liye
+  Ro rahe haiṅ Shaah-e-Diṅ Abbas ka laasha liye
+  Reh gayi baali Sakina haath meiṅ koza liye
+  Bachchoṅ ki pyaasi nigaaheṅ dur tak chalti raheiṅ
+  Jab gaya tha bawafa darya pe mashkiza liye
+  Ae Husain Ibn-e-Ali ki maaṅ zara dekho idhar
+  Aaye haiṅ Abbas baazuoṅ ka nazraana liye
 
   2
-  Sheh ki aankhein keh rahi thin lasha-e-Abbas par
-  Chal diya bhai wafa ka sara sarmaya liye
-  Tum tu darya par gaye they aye Sakina ke chacha
-  Kya howa kyun laute ho tum khon ka darya liye
-  Zainab-e-Dilgeer ab Abbas banna hai tumhein
-  Pehra dena hai tumhein toota howa neza liye
+  Sheh ki aaṅkheiṅ keh rahi thiṅ laasha-e-Abbas par
+  Chal diya bhaai wafa ka saara sarmaaya liye
+  Tum to darya par gaye the ae Sakina ke chacha
+  Kya hua kiuṅ laute ho tum khun ka darya liye
+  Zainab-e-Dilgir ab Abbas banna hai tumheiṅ
+  Pehra dena hai tumheiṅ tuta hua neza liye
 
   3
-  Dar badar phirti hain behnein aye Alamdar-e-Hussain
-  Laut aao Zainab-o-Kulsoom ka pardah liye
-  Mar gaye Abbas, Zainab ab tu tum kar lo yaqeen
-  Aa rahe hain dekh lo tooti kamar Maula liye
-  Dekhiye, kab shahzadi inn ko karti hain qabool
-  Hai Mussadiq muntazir ashkon ka nazrana liye
+  Dar badar phirti haiṅ behneiṅ ae Alamdaar-e-Husain
+  Laut aao Zainab o Kulsum ka parda liye
+  Mar gaye Abbas, Zainab ab to tum kar lo yaqin
+  Aa rahe haiṅ dekh lo tuti kamar Maula liye
+  Dekhiye, kab shaahzaadi in ko karti haiṅ qabul
+  Hai Mussadiq muntazir ashkoṅ ka nazraana liye
 ---
 
 ۱

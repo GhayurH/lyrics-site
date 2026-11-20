@@ -1,35 +1,60 @@
 ---
-title: "Rut Badal Gayi Aye Kofe Di Kita Zalimaa Zulm Akheer Aye Lyrics Punjabi 2023"
+title: "رت بدل گئی اے کوفے دی کیتا ظالما ظلم اخیر اے"
+alternateTitle: "Rut Badal Gayi Aye Kofe Di Kita Zalimaa Zulm Akheer Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rut badal gayi aye Kofe di kita zalimaa zulm akheer aye
+  Kar qatal Ali nu sajday wich luti Zahra di jageer aye
+  Masjid wich pak musallay te aj wark Quran de zakhmi ne
+  Jehri zarb chali aye Haider te gayi dil Hasnain da cheer aye
+
+  2
+  Kita qatal hai Ibn-e-Muljim ne damad Muhammad Arbi da
+  Aj khon Ali nal surkh hoi Fil-Qurba di tehreer aye
+  Hasnain da baba qatal hoya masjid choon khabar aayi aye
+  Sun khabar Batool de wehray wich rondi Aayat Tatheer aye
+
+  3
+  Ghar pak Rasool da ujar gaya gash kar gayiyaan Zahra jaiyaan ne
+  Jis welay janaza babay da turay le Shabar Shabeer aye
+  Abbas de jondiyaan jee kiwein aj bakht Batool de dhal gaye ne
+  Bhaini nu wekh ke ronda aye gal la Ghazi shamsheer aye
+
+  4
+  Dhiyaan de sir nu wekh ke aj haye Shah-e-Najaf paye kehnday ne
+  Lagda aye haye aj Kofay wich dithi Sham di kul tasveer aye
+  Sadaat nu mehshar taein Azhar aye masjid Kofa nayi bhulni
+  Jithay Khon-e-Ali nal zalimaan ne likhi Zainab di taqdeer aye
 ---
 
-1
-Rut Badal Gayi Aye Kofe Di Kita Zalimaa Zulm Akheer Aye.
-Kar Qatal Ali Nu Sajday Wich Luti Zahra Di Jageer Aye.
-Masjid Wich Pak Musallay Te Aj Wark Quran De Zakhmi Ne.
-Jehri Zarb Chali Aye Haider Te Gayi Dil Hasnain Da Cheer Aye.
+۱
+رت بدل گئی اے کوفے دی کیتا ظالما ظلم اخیر اے
+کر قتل علی نوں سجدے وچ لٹی زہرا دی جاگیر اے
+مسجد وچ پاک مصلے تے اج ورق قرآن دے زخمی نے
+جیہڑی ضرب چلی اے حیدر تے گئی دل حسنین دا چیر اے
 
-2
-Kita Qatal Hai Ibn-e-Muljim Ne Damad Muhammad Arbi Da.
-Aj Khon Ali Nal Surkh Hoi Fil-Qurba Di Tehreer Aye.
-Hasnain Da Baba Qatal Hoya Masjid Choon Khabar Aayi Aye.
-Sun Khabar Batool De Wehray Wich Rondi Aayat Tatheer Aye.
+۲
+کیتا قتل ہے ابنِ ملجم نے داماد محمد عربی دا
+اج خون علی نال سرخ ہوئی فی القربیٰ دی تحریر اے
+حسنین دا بابا قتل ہویا مسجد چوں خبر آئی اے
+سن خبر بتول دے ویہڑے وچ روندی آیتِ تطہیر اے
 
-3
-Ghar Pak Rasool Da Ujar Gaya Gash Kar Gayiyaan Zahra Jaiyaan Ne.
-Jis Welay Janaza Babay Da Turay Le Shabar Shabeer Aye.
-Abbas De Jondiyaan Jee Kiwein Aj Bakht Batool De Dhal Gaye Ne.
-Bhaini Nu Wekh Ke Ronda Aye Gal La Ghazi Shamsheer Aye.
+۳
+گھر پاک رسول دا اجڑ گیا غش کر گئیاں زہرا جائیاں نے
+جس ویلے جنازہ بابے دا ترے لے شبر شبیر اے
+عباس دے جوندیاں جی کیویں اج بخت بتول دے ڈھل گئے نے
+بھینی نوں ویکھ کے روندا اے گل لا غازی شمشیر اے
 
-4
-Dhiyaan De Sir Nu Wekh Ke Aj Haye Shah-e-Najaf Paye Kehnday Ne.
-Lagda Aye Haye Aj Kofay Wich Dithi Sham Di Kul Tasveer Aye.
-Sadaat Nu Mehshar Taein Azhar Aye Masjid Kofa Nayi Bhulni.
-Jithay Khon-e-Ali Nal Zalimaan Ne Likhi Zainab Di Taqdeer Aye.
+۴
+دھیاں دے سر نوں ویکھ کے اج ہائے شاہِ نجف پئے کہندے نے
+لگدا اے ہائے اج کوفے وچ ڈٹھی شام دی کل تصویر اے
+سادات نوں محشر تائیں اظہر اے مسجد کوفہ نئیں بھلنی
+جتھے خونِ علی نال ظالماں نے لکھی زینب دی تقدیر اے

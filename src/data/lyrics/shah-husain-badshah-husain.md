@@ -8,6 +8,96 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baadshaah Husain Husain, Baadshaah Husain
+
+  1
+  Ye din panaahi ka sharaf kis ko mila hai
+  Ye kis ka laqab hai jo sar-e-arsh likha hai
+
+  2
+  Ajmer ke Khwaaja ne ye sach khub kaha hai
+  Laaraib ke Shabbir hi kalme ki baqaa hai
+
+  3
+  Shaah ast Husain, Baadshaah ast Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+  Sar daar na daad, dast dar dast-e-Yazid
+  Haqqa ke binaa, la ilaah ast Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  4
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+  Maula bara kaam kiya, din-e-Khuda aam kiya
+  Kar na saka koi kabhi, tu ne wohi kaam kiya
+  Waada wafa, kar ke raha, sar na jhuka, haq pe jiya
+  Sab se bara mera Khuda, karta raha, ailaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  5
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Ishq tera ishq-e-Khuda, nok-e-sinaaṅ tak jo gaya
+  Ishq mein jo tu ne diya, koi bhi woh de na saka
+  Nur-e-Khuda, dast-e-Khuda, tere siwa, kaun hua
+  Kehna para, likhna para, hai ye tera, ehsaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  6
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Sarwar-e-zishaan Husain, azmat-e-insaan Husain
+  Bolta Quraan Husain, main tere qurbaan Husain
+  Mir-e-haram, Rab ki qasam, tera ye gham, hoga na kam
+  Farsh-e-aza, haq ki sada, hai ye tera, faizaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  7
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Azm-e-jawaan, tishna labaaṅ, bewatanaaṅ, bekafanaaṅ
+  Tere liye hai ye faghaaṅ, arsh o zamiṅ nauha kunaaṅ
+  Dard-e-dilaaṅ, tishna dahaaṅ, khushk zabaaṅ, nok-e-sinaaṅ
+  Tan se juda, sar tha magar, parhta raha, Quraan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  8
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Har jaa hai hukumat teri har dil mein basa hai
+  Har dil mein aza khaana tera aaj saja hai
+  Quraan-e-masaaib mein tera naam likha hai
+  Maatam ki sada hai ke ye tu bol raha hai
+  Ishq-e-Khuda, teri ata, naam tera, zinda raha
+  Karb o Bala, ki hai sada, tu hai bara insaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  9
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Tu zinda azaadaari teri zinda rahe gi
+  Woh qaum jo bedaar hai gham tera kare gi
+  Aawaaz azaaṅ jo tere rauze se uthe gi
+  Wallaah Khudaai teri aawaaz sune gi
+  Shaah-e-zaman, haadi-e-man, naaz-e-chaman, shiriṅ sukhan
+  Shaan-e-Nabi, shaan-e-Ali, yaani meri, jaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  10
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
+  Jannat-e-man Karb o Bala, raahat-e-man Karb o Bala
+  Surur o raihaan-e-aza, daulat-e-man Karb o Bala
+  Ham haiṅ, safiraan-e-aza, Shaah-e-huda, tum pe sada
+  Jaan kareṅ tum pe fida, hai ye mera, armaan Husain
+  Shaah Husain, Baadshaah Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
+
+  11
+  Karb o Bala, ishq-e-Khuda, ishq ka tu, sultaan Husain
 ---
 
 بادشاہ حسینؑ حسینؑ، بادشاہ حسینؑ

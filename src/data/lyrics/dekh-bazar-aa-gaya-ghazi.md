@@ -7,6 +7,65 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dekh baazaar aa gaya Ghazi
+
+  1
+  Mera parda na bach saka Ghazi
+  Tere aaqa ka terah zarboṅ se
+  Dasht mein kat gaya gala Ghazi
+
+  2
+  Baad tere Sakina roti rahi
+  Ghuṅt paani na mil saka Ghazi
+
+  3
+  Nezoṅ se jab ridaaeṅ chhinte the
+  Deti thi main tujhe sada Ghazi
+
+  4
+  Tu jo hota to mere shaanoṅ par
+  Koi rassi na baaṅdhta Ghazi
+
+  5
+  Ek neze pe sar hai bhaai ka
+  Dusre par miri rida Ghazi
+
+  6
+  Saamne bad qamaash logoṅ ke
+  Dekh Zainab ka hausla Ghazi
+
+  7
+  Pusht par taaziyaane lagte rahe
+  Thak ke Aabid agar ruka Ghazi
+
+  8
+  Laal rukhsaar haiṅ tamaanchoṅ se
+  Ab Sakina ko aa bacha Ghazi
+
+  9
+  Har gali har nagar phiraate haiṅ
+  Jaise waaris nahiṅ raha Ghazi
+
+  10
+  Baaghi keh kar hameṅ rulaate haiṅ
+  Zakhmi dil ho gaya mira Ghazi
+
+  11
+  Dekh kya haal hai asiroṅ ka
+  Aaṅkhoṅ ko khol ke zara Ghazi
+
+  12
+  Qaid, bepardagi ko durroṅ ko
+  Main ne har zulm ko saha Ghazi
+
+  13
+  Sab ke baazu bandhe haiṅ rassi mein
+  Aur Sakina ka hai gala Ghazi
+
+  14
+  Likh ke Rizwaan der tak roya
+  Aur Sakina ka hai gala Ghazi
 ---
 
 دیکھ بازار آ گیا غازیؑ

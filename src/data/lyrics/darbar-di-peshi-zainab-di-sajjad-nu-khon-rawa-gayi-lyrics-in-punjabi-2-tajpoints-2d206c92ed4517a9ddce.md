@@ -1,41 +1,72 @@
 ---
-title: "Darbar Di Peshi Zainab Di Sajjad Nu Khon Rawa Gayi Lyrics In Punjabi 2023"
+title: "دربار دی پیشی زینب دی سجاد نوں خون روا گئی"
+alternateTitle: "Darbar Di Peshi Zainab Di Sajjad Nu Khon Rawa Gayi"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qamar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Darbar di peshi Zainab di Sajjad nu khon rawa gayi
+  Sir nangay phophiyaan mawaan de aye ghairat jigar nu kha gayi
+  Nayi bhulna sari zindagi aye jadon Sham che pehli sham aayi
+  Har pasiyon pathraan di barish nalay sare lok tamashai
+
+  2
+  Abid nu gash te gash aanday tak dhi Haider ghabra gayi
+  Haye jiondiyaan lang gaya Rab jane kiwein Sham diyaan bazaraan choon
+  Sang parday daraan ho aaya kiwein Sham diyaan darbaraan choon
+  Kofay te Sham di har peshi aiday jigar te khanjar chala gayi
+
+  3
+  Baba tera chehlum qaid de wich majboor si putar na kar paya
+  Uth pursa le Ali Akbar da teri qabar uttay aj main aaya
+  Sajjad de dukhray sun sun ke Karbal che qayamat aa gayi
+  Darbar bazar taun wadh ke v kuj okhay waqt v aaye san
+
+  4
+  Jis bhain de zakhmi kuna ne Sajjad de dard wadhaye san
+  Oh kafan di thaan sariya kurta dunya taun jandiyaan pa gayi
+  Qabraan nu seene la la ke har bibi chehlum te roye
+  Safraan de haal sunandiyaan san jehray zulm si rahwaan wich hoye
+
+  5
+  Aye peshi pak shaheedan nu wich qabraan de tarpa gayi
+  Bemar de har athro da Qamar har zulm da badlah howay ga
+  Jinna Kofiyaan Shamiyaan zulm kita har zalim ik din roway ga
+  Aa Maula Mehdi jaldi aa bara ummat zulm kama gayi
 ---
 
-1
-Darbar Di Peshi Zainab Di Sajjad Nu Khon Rawa Gayi.
-Sir Nangay Phophiyaan Mawaan De Aye Ghairat Jigar Nu Kha Gayi.
-Nayi Bhulna Sari Zindagi Aye Jadon Sham Che Pehli Sham Aayi.
-Har Pasiyon Pathraan Di Barish Nalay Sare Lok Tamashai.
+۱
+دربار دی پیشی زینب دی سجاد نوں خون روا گئی
+سر ننگے پھپھیاں ماواں دے ایہہ غیرت جگر نوں کھا گئی
+نئیں بھلنا ساری زندگی ایہہ جدوں شام چے پہلی شام آئی
+ہر پاسیویں پتھراں دی بارش نالے سارے لوک تماشائی
 
-2
-Abid Nu Gash Te Gash Aanday Tak Dhi Haider Ghabra Gayi.
-Haye Jiondiyaan Lang Gaya Rab Jane Kiwein Sham Diyaan Bazaraan Choon.
-Sang Parday Daraan Ho Aaya Kiwein Sham Diyaan Darbaraan Choon.
-Kofay Te Sham Di Har Peshi Aiday Jigar Te Khanjar Chala Gayi.
+۲
+عابد نوں غش تے غش آندے تک دھی حیدر گھبرا گئی
+ہائے جیوندیاں لنگھ گیا رب جانے کیویں شام دیاں بازاراں چوں
+سنگ پردے داراں ہو آیا کیویں شام دیاں درباراں چوں
+کوفے تے شام دی ہر پیشی ایدے جگر تے خنجر چلا گئی
 
-3
-Baba Tera Chehlum Qaid De Wich Majboor Si Putar Na Kar Paya.
-Uth Pursa Le Ali Akbar Da Teri Qabar Uttay Aj Main Aaya.
-Sajjad De Dukhray Sun Sun Ke Karbal Che Qayamat Aa Gayi.
-Darbar Bazar Taun Wadh Ke V Kuj Okhay Waqt V Aaye San.
+۳
+بابا تیرا چہلم قید دے وچ مجبور سی پتر نہ کر پایا
+اٹھ پرسا لے علی اکبر دا تیری قبر اُتے اج میں آیا
+سجاد دے دکھڑے سن سن کے کربل چے قیامت آ گئی
+دربار بازار توں ودھ کے وی کجھ اوکھے وقت وی آئے سن
 
-4
-Jis Bhain De Zakhmi Kuna Ne Sajjad De Dard Wadhaye San.
-Oh Kafan Di Thaan Sariya Kurta Dunya Taun Jandiyaan Pa Gayi.
-Qabraan Nu Seene La La Ke Har Bibi Chehlum Te Roye.
-Safraan De Haal Sunandiyaan San Jehray Zulm Si Rahwaan Wich Hoye.
+۴
+جس بھین دے زخمی کناں نے سجاد دے درد ودھائے سن
+اوہ کفن دی تھاں سڑیا کرتا دنیا توں جاندیاں پا گئی
+قبراں نوں سینے لا لا کے ہر بی‌بی چہلم تے روئے
+سفراں دے حال سناندیاں سن جیہڑے ظلم سی راہواں وچ ہوئے
 
-5
-Aye Peshi Pak Shaheedan Nu Wich Qabraan De Tarpa Gayi.
-Bemar De Har Athro Da Qamar Har Zulm Da Badlah Howay Ga.
-Jinna Kofiyaan Shamiyaan Zulm Kita Har Zalim Ik Din Roway Ga.
-Aa Maula Mehdi Jaldi Aa Bara Ummat Zulm Kama Gayi.
+۵
+ایہہ پیشی پاک شہیداں نوں وچ قبراں دے تڑپا گئی
+بیمار دے ہر اتھرو دا قمر ہر ظلم دا بدلہ ہووے گا
+جنہاں کوفیاں شامیاں ظلم کیتا ہر ظالم اک دن رووے گا
+آ مولا مہدی جلدی آ بڑا امت ظلم کما گئی

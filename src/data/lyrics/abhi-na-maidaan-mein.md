@@ -24,13 +24,13 @@ romanLyrics: |-
   Ke baad ji kar bhi kya karega
   Raha na aankhoṅ ka nur baaqi
   To dida-e-tar bhi kya karega
-  Tumhaare dam se jo saaṅs baaba
+  Tumhaare dam se jo saans baaba
   Ka chal raha hai thahar na jaae
   Abhi na maidaaṅ...
   Tumhaari furqat garaaṅ hai dil pe
   Andhera aankhoṅ pe chhaa raha hai
   Tumhaari rukhsat ke waqt dil ko
-  Khayaal paiham ye kha raha hai
+  Khayaal paiham ye khaa raha hai
   Tumhaare marne se Bibiyoṅ ke
   Saroṅ se chaadar utar na jaae
   Abhi na maidaaṅ...
@@ -53,9 +53,9 @@ romanLyrics: |-
   Tumhaare sehre ki paak lariyaaṅ
   Tamaam Quraaṅ ki aayateṅ haiṅ
   Ye gham hai humko zamiṅ pe beta
-  Tumhara sehra bikhar na jaae
+  Tumhaara sehra bikhar na jaae
   Abhi na maidaaṅ...
-  Husain ghash kha ke gir pare haiṅ
+  Husain ghash khaa ke gir pare haiṅ
   Baaraat Akbar ki jaa rahi hai
   Samajh ke dulha shabih-e-Ahmad
   Pe phul ummat gira rahi hai

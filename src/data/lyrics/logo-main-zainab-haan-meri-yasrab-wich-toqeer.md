@@ -8,28 +8,28 @@ tags: ["Panjabi"]
 aliases: []
 published: false
 romanLyrics: |-
-  Logo Maiṅ Zainab Haaṅ Meri Yasrab Wich Toqir Hondi Si
-  Jadoṅ Ghazi Jiyonda Si Mera Mere Sir Di Chadar Tathir Hondi Si
+  Logo main Zainab haaṅ, meri Yasrab wich toqir hondi si
+  Jadoṅ Ghazi jiyonda si mera, mere sir di chadar-e-tathir hondi si
 
   1
-  Jadoṅ Wehre Che Turni Saaṅ Hasan Parhda Si Bismillah Te Hath Shabir Si Pharda
-  Mere Almaaṅ Wale Ghazi De Hathaaṅ Wich Odhi Shamshir Hondi Si
+  Jadoṅ wehre che turni saaṅ, Hasan parhda si Bismillah te hath Shabbir si pharda
+  Mere almaaṅ wale Ghazi de hathaaṅ wich ohdi shamshir hondi si
 
   2
-  Khudai Wehriyaaṅ Pase Hawa V Puch Ke Aandi Si Parinde Puch Ke Udhde San
-  Sadhe Ghar Di Chaar Dewari Wich Bas Hashmi Chan Di Tanvir Hondi Si
+  Khudai wehriyaaṅ paase hawa vi puchh ke aandi si, parinde puchh ke udhde san
+  Saadhe ghar di chaar diwaari wich bas Haashmi chan di tanvir hondi si
 
   3
-  Kadi Soraj Diyaaṅ Kirnaa Mere Piyo Di Ijazat Bin Qadam Wehre Che Nayi Rakhiya
-  Mere Parde Layi Kayi Kayi Wari Soraj Niklan Di Takhir Hondi Si
+  Kadi suraj diyaaṅ kirnaaṅ mere piyo di ijaazat bin qadam wehre che nayi rakhiya
+  Mere parde layi kayi kayi waari suraj niklan di taakhir hondi si
 
   4
-  Mere Lafzaaṅ Diyaaṅ Izataaṅ Jiweiṅ Quraan Diya Aayataaṅ Mere Babe Diyaaṅ Bataaṅ
-  Kadoṅ Majmiyaṅ Wich Maiṅ Boli Saaṅ Meri Pardiyaaṅ De Wich Taqrir Hondi Si
+  Mere lafzaaṅ diyaaṅ izzataaṅ jiweiṅ Quraan diyaaṅ aayataaṅ, mere baabe diyaaṅ baataaṅ
+  Kadoṅ majmaiyaaṅ wich main boli saaṅ, meri pardiyaaṅ de wich taqrir hondi si
 
   5
-  Kehya AKBAR Ae Bibi Ne Sadawaaṅ Te V Pehre San Hijabaaṅ Wich Azana San
-  Sade Pak Darud Di Tasbih Te Nane De Ghar Wich Takbir Hondi Si
+  Kehya Akbar ae Bibi ne, sadaawaaṅ te vi pehre san, hijaabaaṅ wich azaanaaṅ san
+  Saade paak darud di tasbih te naane de ghar wich takbir hondi si
 ---
 
 لوگو میں زینب ہاں، میری یثرب وچ توقیر ہوندی سی

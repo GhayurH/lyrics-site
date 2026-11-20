@@ -1,28 +1,44 @@
 ---
-title: "Ghazi Tere Bajon Lyrics In Punjabi 2010 Asghar Khan"
+title: "غازی تیرے باجوں"
+alternateTitle: "Ghazi Tere Bajon"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bhaina pardesna de Ghazi tere bajoon parday kaun bachaway
+  Sir mitiyaan hath rasiyaan veer di lash te aa ke Zainab wain aye paway
+  Koi chadar nayi milni veran kafan di khatir
+  Main wari tak Ghazi ronda aye khon muhari sun ke Shimar de daway
+  Tu mainu aj taein Zainab bhain nayi sadya
+  Tak wela ki aaya ik ik Shami mainu Zainab aakh bulaway
+  Wekh zara kinj kinj da sanu Shimar sataway
+  Maqtal taun khaimay taein pani rorda aaway balaan nu tarsaway
+  Baad tere balaan ne kita faisla Ghazi
+  Asaan pani nayi mangna bhawein pyas tu sadi jan nikal v jaway
+  Mashk teri lut de wich le ke naal e Shami
+  Naizay te chuk chuk ke Shimar Sakina nu hun doron mashk wakhway
+  Zainab te chup kar gayi Akbar aayi Ruqaiya
+  Ro puchdi das veran Zainab qaidan ban ke Sham de rah tur jaway
 ---
 
-1
-Ghazi Tere Bajon Write Up
-Bhaina Pardesna De Ghazi Tere Bajoon Parday Kaun Bachaway.
-Sir Mitiyaan Hath Rasiyaan Veer Di Lash Te Aa Ke Zainab Wain Aye Paway.
-Koi Chadar Nayi Milni Veran Kafan Di Khatir.
-Main Wari Tak Ghazi Ronda Aye Khon Muhari Sun Ke Shimar De Daway.
-Tu Mainu Aj Taein Zainab Bhain Nayi Sadya.
-Tak Wela Ki Aaya Ik Ik Shami Mainu Zainab Aakh Bulaway.
-Wekh Zara Kinj Kinj Da Sanu Shimar Sataway.
-Maqtal Taun Khaimay Taein Pani Rorda Aaway Balaan Nu Tarsaway.
-Baad Tere Balaan Ne Kita Faisla Ghazi.
-Asaan Pani Nayi Mangna Bhawein Pyas Tu Sadi Jan Nikal V Jaway.
-Mashk Teri Lut De Wich Le Ke Naal E Shami.
-Naizay Te Chuk Chuk Ke Shimar Sakina Nu Hun Doron Mashk Wakhway.
-Zainab Te Chup Kar Gayi Akbar Aayi Ruqaiya.
-Ro Puchdi Das Veran Zainab Qaidan Ban Ke Sham De Rah Tur Jaway.
+۱
+بھیناں پردیسناں دے غازی تیرے باجوں پردے کون بچاوے
+سر مٹیاں ہتھ رسیاں ویر دی لاش تے آ کے زینب وین ایہہ پاوے
+کوئی چادر نئیں ملنی ویراں کفن دی خاطر
+میں واری تک غازی روندا اے خون مہاری سن کے شمر دے دعوے
+توں مینوں اج تائیں زینب بھین نئیں سدیا
+تک ویلا کی آیا اک اک شامی مینوں زینب آکھ بلاوے
+ویکھ ذرا کنج کنج دا سانوں شمر ستاوے
+مقتل توں خیمے تائیں پانی روڑدا آوے بالاں نوں ترساوے
+بعد تیرے بالاں نے کیتا فیصلہ غازی
+اساں پانی نئیں منگنا بھاویں پیاس توں ساڈی جان نکل وی جاوے
+مشک تیری لٹ دے وچ لے کے نال اے شامی
+نیزے تے چک چک کے شمر سکینہ نوں ہن دوروں مشک وکھاوے
+زینب تے چپ کر گئی اکبر آئی رقیہ
+رو پچھدی دس ویراں زینب قیداں بن کے شام دے راہ تر جاوے

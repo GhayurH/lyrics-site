@@ -1,37 +1,60 @@
 ---
-title: "Ali Ka Qasida Saweray Saweray"
+title: "علی کا قصیدہ سویرے سویرے"
+alternateTitle: "Ali Ka Qasida Saweray Saweray"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sohail"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Musalay pe main ne Ali ka qaseeda jonhi gungunaya saweray saweray
+  Khuda ki qasam phir ibadat ka mujh ko bara lutf aaya saweray saweray
+  Jo Sheh ki mawaddat ne Hur ko jhanjhora tu oss ne bhi ghaflat ke bistar ko chora
+  Tu khud aaftab-e-shahadat ne oss ka muqadar jagaya saweray saweray
+  Ubhartay hi soraj ne hamd-e-Khuda ki ziyarat ki phir roza-e-Murtaza ki
+  Parindon ne apni zabaan mein qaseeda Ali ka sunaya saweray saweray
+
+  2
+  Hai Zahra ki marzi mashiyat Khuda ki howa tha na lab se abhi hukam jari
+  Libas-e-jinna le ke Rizwan-e-janat ne dar khatkhataya saweray saweray
+  Uthein jhoom kar rehmaton ki ghataein chalein mere ghar mein jinna ki hawaein
+  Charag-e-hadees-e-kisa apne ghar mein jo main ne jalaya saweray saweray
+  Main soya tha shab mein Ali ko bola kar ba hukam-e-Khuda kuch farishton ne aa kar
+  Mujhe khuwab mein roza-e-Murtaza ka nazara karaya saweray saweray
+
+  3
+  Namaz-e-mawaddat mein guzri meri shab jhuka fajar mein sar paye sajda-e-Rab
+  Lagai thi lagat andherey andherey monafa kamaya saweray saweray
+  Woh kasrat se warzish ka aadi tha mulla keh bachpan se paka fasadi tha mulla
+  Magar jab azaan mein suna nam-e-Haider bara tilmilaya saweray saweray
+  Wahan madh-e-Maula mein masroof shab bhar mawaddat ki mehfil se lauta jo main ghar
+  Sohail ik farishta shifat ki meri sand le ke aaya saweray saweray
 ---
 
-Ali Ka Qasida Saweray Saweray Lyrics
+۱
+مصلّے پہ میں نے علی کا قصیدہ جونہی گنگنایا سویرے سویرے
+خدا کی قسم پھر عبادت کا مجھ کو بڑا لطف آیا سویرے سویرے
+جو شہ کی مودّت نے حُر کو جھنجھوڑا، تو اس نے بھی غفلت کے بستر کو چھوڑا
+تو خود آفتابِ شہادت نے اس کا مقدر جگایا سویرے سویرے
+ابھرتے ہی سورج نے حمدِ خدا کی، زیارت کی پھر روضۂ مرتضیٰ کی
+پرندوں نے اپنی زباں میں قصیدہ علی کا سنایا سویرے سویرے
 
-1
-Musalay Pe Main Ne Ali Ka Qaseeda Jonhi Gungunaya Saweray Saweray.
-Khuda Ki Qasam Phir Ibadat Ka Mujh Ko Bara Lutf Aaya Saweray Saweray.
-Jo Sheh Ki Mawaddat Ne Hur Ko Jhanjhora Tu Oss Ne Bhi Ghaflat Ke Bistar Ko Chora.
-Tu Khud Aaftab-e-Shahadat Ne Oss Ka Muqadar Jagaya Saweray Saweray.
-Ubhartay Hi Soraj Ne Hamd-e-Khuda Ki Ziyarat Ki Phir Roza-e-Murtaza Ki.
-Parindon Ne Apni Zabaan Mein Qaseeda Ali Ka Sunaya Saweray Saweray.
+۲
+ہے زہرا کی مرضی مشیّت خدا کی، ہوا تھا نہ لب سے ابھی حکم جاری
+لباسِ جناں لے کے رضوانِ جنّت نے در کھٹکھٹایا سویرے سویرے
+اٹھیں جھوم کر رحمتوں کی گھٹائیں، چلیں میرے گھر میں جناں کی ہوائیں
+چراغِ حدیثِ کسا اپنے گھر میں جو میں نے جلایا سویرے سویرے
+میں سویا تھا شب میں علی کو بلا کر، بہ حکمِ خدا کچھ فرشتوں نے آ کر
+مجھے خواب میں روضۂ مرتضیٰ کا نظارہ کرایا سویرے سویرے
 
-2
-Hai Zahra Ki Marzi Mashiyat Khuda Ki Howa Tha Na Lab Se Abhi Hukam Jari.
-Libas-e-Jinna Le Ke Rizwan-e-Janat Ne Dar Khatkhataya Saweray Saweray.
-Uthein Jhoom Kar Rehmaton Ki Ghataein Chalein Mere Ghar Mein Jinna Ki Hawaein.
-Charag-e-Hadees-e-Kisa Apne Ghar Mein Jo Main Ne Jalaya Saweray Saweray.
-Main Soya Tha Shab Mein Ali Ko Bola Kar Ba Hukam-e-Khuda Kuch Farishton Ne Aa Kar.
-Mujhe Khuwab Mein Roza-e-Murtaza Ka Nazara Karaya Saweray Saweray.
-
-3
-Namaz-e-Mawaddat Mein Guzri Meri Shab Jhuka Fajar Mein Sar Paye Sajda-e-Rab.
-Lagai Thi Lagat Andherey Andherey Monafa Kamaya Saweray Saweray.
-Woh Kasrat Se Warzish Ka Aadi Tha Mulla Keh Bachpan Se Paka Fasadi Tha Mulla.
-Magar Jab Azaan Mein Suna Nam-e-Haider Bara Tilmilaya Saweray Saweray.
-Wahan Madh-e-Maula Mein Masroof Shab Bhar Mawaddat Ki Mehfil Se Lauta Jo Main Ghar.
- Sohail Ik Farishta Shifat Ki Meri Sand Le Ke Aaya Saweray Saweray
+۳
+نمازِ مودّت میں گزری میری شب، جھکا فجر میں سر پئے سجدۂ رب
+لگائی تھی لاگت اندھیرے اندھیرے، منافع کمایا سویرے سویرے
+وہ کثرت سے ورزش کا عادی تھا ملّا کہ بچپن سے پکّا فسادی تھا ملّا
+مگر جب اذاں میں سنا نامِ حیدر، بڑا تلملایا سویرے سویرے
+وہاں مدحِ مولا میں مصروف شب بھر، مودّت کی محفل سے لوٹا جو میں گھر
+سہیل اک فرشتہ صفت کی میری سند لے کے آیا سویرے سویرے

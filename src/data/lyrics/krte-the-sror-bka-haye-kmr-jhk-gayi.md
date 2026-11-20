@@ -8,62 +8,39 @@ poet: "Anees Pehersari"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Karte thay sarwar buka haye kamar jhuk gayi
-
-  Mar gaya bhai mera haye kamar jhuk gayi
-
-  Margaye hum jeete ji chut gaye humse aqi
-
-  Hogaye baazu juda haye kamar jhuk gayi
-
+romanLyrics: |-
+  Karte the Sarwar buka, haaye kamar jhuk gayi
+  Mar gaya bhaai mera, haaye kamar jhuk gayi
+  Mar gaye ham jite ji, chhut gaye ham se akhi
+  Ho gaya baazu juda, haaye kamar jhuk gayi
 
   1
-
-  Khuwate baazu tha wo qalb ki taaqat tha wo
-
-  Hogaye hum benawa haye kamar jhuk gayi
-
+  Quwwat-e-baazu tha wo, qalb ki taaqat tha wo
+  Ho gaye ham benawa, haaye kamar jhuk gayi
 
   2
-
-  Thaam lo baazu pisar le chalo suye faraat
-
-  Mar gaye tere chacha haye kamar jhuk gayi
-
+  Thaam lo baazu pisar, le chalo su-e-Faraat
+  Mar gaye tere chaacha, haaye kamar jhuk gayi
 
   3
-
-  Le chalo akbar wahan bhai hai mera jahan
-
-  Jald chalo mehleqa haye kamar jhuk gayi
-
+  Le chalo Akbar wahaaṅ, bhaai hai mera jahaaṅ
+  Jald chalo mah-e-laqa, haaye kamar jhuk gayi
 
   4
-
-  Dar pe khadi beqarar karti hai wo intezar
-
-  Us se kahunga mai kya haye kamar jhuk gayi
-
+  Dar pe khari beqaraar, karti hai wo intezaar
+  Us se kahuṅga main kya, haaye kamar jhuk gayi
 
   5
-
-  Le ke chacha ka alam noha ye padte huye
-
-  Jao suye qaimagah haye kamar jhuk gayi
-
+  Le ke chaacha ka alam, nauha ye parhte hue
+  Jaao su-e-khaimagaah, haaye kamar jhuk gayi
 
   6
-
-  Pyaas se sab hai nidhaal pani ka hoga sawaal
-
-  Kehna wo sab beh gaya haye kamar jhuk gayi
-
+  Pyaas se sab haiṅ nidhaal, paani ka hoga sawaal
+  Kehna wo sab beh gaya, haaye kamar jhuk gayi
 
   7
-
-  Aisa anees ab kahan paaega sibte nabi
-
-  Jaisa ke abbas tha haye kamar jhuk gayi'
+  Aisa Anees ab kahaaṅ paaega Sibt-e-Nabi
+  Jaisa ke Abbas tha, haaye kamar jhuk gayi
 ---
 
 کرتے تھے سرور بکا ہائے کمر جھک گئی

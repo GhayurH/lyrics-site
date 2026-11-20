@@ -28,7 +28,7 @@ romanLyrics: |-
   Shaam hi meiṅ reh gayi waapas na apne ghar gayi
 
   4
-  Phuphi amma aao dekho Shaam ke zindaan meiṅ
+  Phuphi ammaaṅ aao dekho Shaam ke zindaan meiṅ
   Baaba baaba kehte kehte haae Sakina mar gayi
 
   5

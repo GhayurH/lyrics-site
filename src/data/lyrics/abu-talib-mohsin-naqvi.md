@@ -9,86 +9,86 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Israr-e-moarif ka gulistaan Abu Talib
-  Eman ke har dard ka darmaan Abu Talib
+  Israar-e-maarif ka gulistaaṅ Abu Talib
+  Imaan ke har dard ka darmaaṅ Abu Talib
 
   1
-  Takht-e-dil-e-hasti ka Sulemaan Abu Talib
-  Har door mein sar chashma e emaan Abu Talib
-  Har gham se jo iss ko Abu Talib na bachata
-  Islam tera thokarein khata nazar aata
+  Takht-e-dil-e-hasti ka Sulaimaaṅ Abu Talib
+  Har daur mein sarchashma-e-imaaṅ Abu Talib
+  Har gham se jo is ko Abu Talib na bachaata
+  Islam tera thokareṅ khaata nazar aata
 
   2
-  Shadabi e gulzar-e-payamber Abu Talib
-  Ahsan-o-sakhawat ka samandar Abu Talib
-  Rutbay mein hai Kabay ke barabar Abu Talib
-  Taqdees mein Kabay se bhi barh kar Abu Talib
+  Shaadaabi-e-gulzaar-e-payambar Abu Talib
+  Ehsaan o sakhaawat ka samandar Abu Talib
+  Rutbe mein hai Kaabe ke baraabar Abu Talib
+  Taqdis mein Kaabe se bhi barh kar Abu Talib
 
   3
-  Jhukti hai jabeen jis pe tere fikar-o-nazar ki
-  Hai jaye wiladat Abu Talib ke pisar ki
-  Hairaan Abu Talib ki ana par hain malak tak
-  Imraan ke madarij ki rasai hai falak tak
+  Jhukti hai jabiṅ jis pe tere fikr o nazar ki
+  Hai jaa-e-wilaadat Abu Talib ke pisar ki
+  Hairaaṅ Abu Talib ki ana par haiṅ malak tak
+  Imraaṅ ke madaarij ki rasaai hai falak tak
 
   4
-  Hai roshni e qalb-o-nazar iss ki jhalak tak
-  Tofan-e-musayab mein bhi jhapki na palak tak
-  Khushbo hai rawaan jis ki har ik dil ki kali mein
-  Khaila hai wohi dein Abu Talib ki ghali mein
+  Hai roshni-e-qalb o nazar is ki jhalak tak
+  Tufaan-e-masaaib mein bhi jhapki na palak tak
+  Khushbu hai rawaaṅ jis ki har ik dil ki kali mein
+  Khela hai wohi diṅ Abu Talib ki gali mein
 
   5
-  Jo khoon Abu Talib ke azaim ki atta ho
-  Woh khon bhala kaisay rag-e-dein se juda ho
-  Jis toor se ahsaan Abu Talib ne kiya ho
-  Mumkin nahi Islam se yeh qarz ada ho
+  Jo khun Abu Talib ke azaaim ki ataa ho
+  Woh khuṅ bhala kaise rag-e-diṅ se juda ho
+  Jis taur se ehsaan Abu Talib ne kiya ho
+  Mumkin nahiṅ Islam se yeh qarz ada ho
 
   6
-  Oss par bhi yeh fatwa keh ossay deen se kad hai
-  Yeh munkir-e-Imraan ka faqat bugz-o-hasad hai
-  Kar yaad woh shaib e Abi Talib ka zamana
-  Jazbay ke shararon ko hawaon se larana
+  Is par bhi yeh fatwa ke use din se kid hai
+  Yeh munkir-e-Imraaṅ ka faqat bughz o hasad hai
+  Kar yaad woh Shib-e-Abi Talib ka zamaana
+  Jazbe ke sharaaroṅ ko hawaaoṅ se laraana
 
   7
-  Woh azam-o-jalal-e-rukh Imraan ka fasana
-  Har raat payamber ko musayab se bachana
-  Iss toor ka dunya mein koi baap dikha de
-  Jo maut ke bistar pe bhi beton ko sula de
+  Woh azm o jalaal-e-rukh-e-Imraaṅ ka fasaana
+  Har raat payambar ko masaaib se bachaana
+  Is taur ka duniya mein koi baap dikha de
+  Jo maut ke bistar pe bhi betoṅ ko sula de
 
   8
-  Tum loag musalmaan jo hoye, kuch nahi kehte
-  Tum dayi e emaan jo hoye, kuch nahi kehte
-  Taqdeer ke samaan jo hoye, kuch nahi kehte
-  Haan dushman-e-Imraan jo hoye, kuch nahi kehte
+  Tum log musalmaaṅ jo hue, kuchh nahiṅ kehte
+  Tum daai-e-imaaṅ jo hue, kuchh nahiṅ kehte
+  Taqdir ke saamaaṅ jo hue, kuchh nahiṅ kehte
+  Haaṅ dushman-e-Imraaṅ jo hue, kuchh nahiṅ kehte
 
   9
-  Chaho tu daleron ko bhi hujray mein bitha do
-  Buzdil ko magar fatah-e-konain bana do
-  Allah ke ghar ka jo nigehbaan ho woh kafir?
-  Jo haq ke liye itna pareshaan ho woh kafir?
+  Chaaho to daleroṅ ko bhi hujre mein bitha do
+  Buzdil ko magar faateh-e-kaunain bana do
+  Allah ke ghar ka jo nigahbaaṅ ho woh kaafir?
+  Jo haq ke liye itna pareshaaṅ ho woh kaafir?
 
   10
-  Jo arsh-e-mualla ka musalmaan ho woh kafir?
-  Emaan nahi jo mohsin-e-emaan ho woh kafir?
-  Iss baat pe kyun koi pareshaan nahi hota
-  Emaan ka padar munkir-e-emaan nahi hota
+  Jo arsh-e-mualla ka musalmaaṅ ho woh kaafir?
+  Imaaṅ nahiṅ jo mohsin-e-imaaṅ ho woh kaafir?
+  Is baat pe kiuṅ koi pareshaaṅ nahiṅ hota
+  Imaaṅ ka padar munkir-e-imaaṅ nahiṅ hota
 
   11
-  Jab feham ne badla kabhi tashkaik ka qalib
-  Jab lafz se cheeni gayi jageer matalib
-  Jab fikar ki dunya pe jahalat hoi ghalib
-  Islam pukara Abutalib, Abu Talib
+  Jab fahm ne badla kabhi tashkik ka qaalib
+  Jab lafz se chhini gayi jaagir-e-mataalib
+  Jab fikr ki duniya pe jahaalat hui ghaalib
+  Islam pukaara Abu Talib, Abu Talib
 
   12
-  Khud haq ke liye haq hi pareshaan nazar aaya
-  Batil ke muqabil mein bhi Imraan nazar aaya
-  Qandeel-e-charag-e-rukh-e-Ahmad Abu Talib
-  Eman se eman ki abjad Abu Talib
+  Khud haq ke liye haq hi pareshaaṅ nazar aaya
+  Baatil ke muqaabil mein bhi Imraaṅ nazar aaya
+  Qandil-e-charaagh-e-rukh-e-Ahmad Abu Talib
+  Imaaṅ se imaaṅ ki abjad Abu Talib
 
   13
-  Batil ke liye zarbat-e-Ayezad Abutalib
-  Har mumlikat e dein ki hai sarhad Abu Talib
-  Dastar-e-payamber ko jo Imraan na bachata
-  Har simt Saqeefa hi Saqeefa nazar aata
+  Baatil ke liye zarbat-e-Izad Abu Talib
+  Har mamlakat-e-diṅ ki hai sarhad Abu Talib
+  Dastaar-e-payambar ko jo Imraaṅ na bachaata
+  Har simt Saqifa hi Saqifa nazar aata
 ---
 
 اسرارِ معارف کا گلستاں ابو طالب

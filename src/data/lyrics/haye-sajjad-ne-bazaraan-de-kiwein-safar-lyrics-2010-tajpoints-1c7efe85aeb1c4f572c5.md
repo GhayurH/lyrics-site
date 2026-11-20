@@ -1,29 +1,48 @@
 ---
-title: "Haye Sajjad Ne Bazaraan De Kiwein Safar Lyrics 2010"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے سجّاد نے بازاراں دے کیویں سفر"
+alternateTitle: "Haye Sajjad Ne Bazaraan De Kiwein Safar"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Sajjad ne bazaraan de kiwein safar nibhaye honrey
+  Qaidi rasiyaan te neziyaan walay jadon naal turaye honrey
+  Aytho Shabeer da sir si pehla othon Zainab si jiday sir te si bas khak-e-shifa
+  Khon de athro aithay Abid ne pehli waar wasaye honrey
+
+  2
+  Sohnra Akbar jadon aanda takiya pair chukya na gaya maa ne bathera chukya
+  Aithay Abid layi odhay zakhma ne maa putar turaye honrey
+  Saang Abbas di aandi tak ke door payi aap Sakina de zakhm v aa gaye
+  Shimar de hath choon kiwein qaidi ne odhay waal churaye honrey
+
+  3
+  Sehriyaan walay da sir aaya te shamiyaan apne tareqay de shagan aa kitay
+  Kiwein Fizza ne haye putraan de sir waal ne chaye honrey
+  Aayi Asghar di sawari Saqlain naal rondi hoi maa dardaan di mari Saqlain
+  Loriyaan bhul ke aithay amari ne bas nohay sunaye honrey
 ---
 
-1
-Haye Sajjad Ne Bazaraan De Kiwein Safar Nibhaye Honrey.
-Qaidi Rasiyaan Te Neziyaan Walay Jadon Naal Turaye Honrey.
-Aytho Shabeer Da Sir Si Pehla Othon Zainab Si Jiday Sir Te Si Bas Khak-e-Shifa.
-Khon De Athro Aithay Abid Ne Pehli Waar Wasaye Honrey.
+۱
+ہائے سجّاد نے بازاراں دے کیویں سفر نبھائے ہونڑے
+قیدی رسیاں تے نیزیاں والے جدوں نال ٹرائے ہونڑے
+ایتھوں شبیر دا سر سی پہلا اوتھوں زینب سی جیدے سر تے سی بس خاکِ شفا
+خون دے اتھرو ایتھے عابد نے پہلی وار وسائے ہونڑے
 
-2
-Sohnra Akbar Jadon Aanda Takiya Pair Chukya Na Gaya Maa Ne Bathera Chukya.
-Aithay Abid Layi Odhay Zakhma Ne Maa Putar Turaye Honrey.
-Saang Abbas Di Aandi Tak Ke Door Payi Aap Sakina De Zakhm V Aa Gaye.
-Shimar De Hath Choon Kiwein Qaidi Ne Odhay Waal Churaye Honrey.
+۲
+سوہنڑا اکبر جدوں آندا تکیا پیر چکیا نہ گیا ماں نے بتھیرا چکیا
+ایتھے عابد لئی اوہدے زخماں نے ماں پتر ٹرائے ہونڑے
+سانگ عباس دی آندی تک کے دور پئی آپ سکینہ دے زخم وی آ گئے
+شمر دے ہتھ چوں کیویں قیدی نے اوہدے وال چرائے ہونڑے
 
-3
-Sehriyaan Walay Da Sir Aaya Te Shamiyaan Apne Tareqay De Shagan Aa Kitay.
-Kiwein Fizza Ne Haye Putraan De Sir Waal Ne Chaye Honrey.
-Aayi Asghar Di Sawari Saqlain Naal Rondi Hoi Maa Dardaan Di Mari Saqlain.
-Loriyaan Bhul Ke Aithay Amari Ne Bas Nohay Sunaye Honrey.
+۳
+سہریاں والے دا سر آیا تے شامیاں اپنے طریقے دے شگن آ کیتے
+کیویں فضہ نے ہائے پتراں دے سر وال نے چھائے ہونڑے
+آئی اصغر دی سواری ثقلین نال روندی ہوئی ماں درداں دی ماری ثقلین
+لوریاں بھل کے ایتھے عماری نے بس نوحے سنائے ہونڑے

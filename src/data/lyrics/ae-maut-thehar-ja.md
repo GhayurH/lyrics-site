@@ -21,57 +21,57 @@ romanLyrics: |-
   1
   Is laal ko maiṅ kaise karuṅ tere hawaale
   Ye chaand to deta hai zamaane ko ujaale
-  Is chaand ki poshaak sitaaroṅ se saja luṅ.
+  Is chaand ki poshaak sitaaroṅ se saja luṅ
 
   2
   Athaara baras phuloṅ ki tarha jise paala
   Jaata hai mujhe chhor ke wo gesuoṅ waala
-  Ab tu hi bata kaise maiṅ is dil ko sambhaaluṅ.
+  Ab tu hi bata kaise maiṅ is dil ko sambhaaluṅ
 
   3
   Dekhe the bahut khwaab magar khaak hue sab
   Is bete ke sehre ki dua karti thi Zainab
-  Dulha na sahi maiṅ ise dulha sa bana luṅ.
+  Dulha na sahi maiṅ ise dulha na bana luṅ
 
   4
   Har shaam jise lagti hai ab shaam-e-gharibaaṅ
   Jo kehti thi Akbar ki dulhan laauṅ gi amma
-  Us Fatima Sughra ko Madine se bula luṅ.
+  Us Fatima Sughra ko Madine se bula luṅ
 
   5
   Khaime se zara dur khare rote haiṅ Sarwar
-  Ek haath kaleje pe hai ek haath kamar par
-  Maiṅ khud ko sambhaaluṅ ke Shah-e-diṅ ko sambhaaluṅ.
+  Ak haath kaleje pe hai ak haath kamar par
+  Maiṅ khud ko sambhaaluṅ ke Shah-e-diṅ ko sambhaaluṅ
 
   6
   Ye kis ki nazar kha gayi is nur-e-nazar ko
   Viraan kiye jaate haiṅ Akbar mere ghar ko
-  Ji karta hai is chaand ko duniya se chhupa luṅ.
+  Ji karta hai is chaand ko duniya se chhupa luṅ
 
   7
   Zainab ke laboṅ par hai buka haaye muqaddar
   Kya sehra charhaauṅ maiṅ teri laash pe Akbar
-  Aur khud ko teri laash pe sadqe hi utaaruṅ.
+  Aur khud ko teri laash pe sadqe hi utaaruṅ
 
   8
   Mehndi na lagi haathoṅ meiṅ hai khun badan ka
   Poshaak-e-shahaani ko mila daagh kafan ka
-  Is laash pe athaarviṅ mannat ko barha luṅ.
+  Is laash pe athaarviṅ mannat ko barha luṅ
 
   9
   Taqdir kisi maaṅ ko ye manzar na dikhaaye
   Mayyat pe jawaaṅ laal ke wo ashq bahaaye
-  Ji bhar ke ise dekh luṅ aur ashq bahaauṅ.
+  Ji bhar ke ise dekh luṅ aur ashq baha luṅ
 
   10
   Fariyaad zara sun le Sakina ki zabaani
   Mar jaauṅ gi bichhra jo mera Yusuf-e-saani
-  Bhaiya mere naaraaz haiṅ maiṅ un ko mana luṅ.
+  Bhaiya mere naaraaz haiṅ maiṅ un ko mana luṅ
 
   11
   Maaṅ roti rahi Mazhar o Irfan tarap kar
   Aur aakhri hichki meiṅ safar kar gaye Akbar
-  Maaṅ kehti rahi maiṅ ise dulha to bana luṅ.
+  Maaṅ kehti rahi maiṅ ise dulha to bana luṅ
 ---
 
 ہچکیاں لیتے تھے علی اکبر

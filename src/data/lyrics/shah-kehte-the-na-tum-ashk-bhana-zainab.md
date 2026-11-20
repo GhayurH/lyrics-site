@@ -7,51 +7,33 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Shah kehtay thay na tum ashk bahana Zainab
-
-  Shikwa-e-ranj kabhi lab pe na lana Zainab
-
+romanLyrics: |-
+  Shaah kehte the na tum ashk bahaana Zainab
+  Shikwa-e-ranj kabhi lab pe na laana Zainab
 
   1
-
-  Yad rakhna mujhe tum shab ki namazon may behan
-
-  Kisi lamhe bhi mujhe bhool na jana Zainab
-
+  Yaad rakhna mujhe tum shab ki namaazoṅ meiṅ behan
+  Kisi lamhe bhi mujhe bhul na jaana Zainab
 
   2
-
-  Baad meray jo sitam dhayain sitam gar tum par
-
-  Sabr tum Fatima Zehra ka dikhana Zainab
-
+  Baad mere jo sitam dhaaeṅ sitamgar tum par
+  Sabr tum Fatima Zehra ka dikhaana Zainab
 
   3
-
-  Sham-e-ghurbat may laeen khaimay jalayain jis dam
-
-  Jaltay khaimay se bhatije ko bachana Zainab
-
+  Shaam-e-ghurbat meiṅ laain khaime jalaaeṅ jis dam
+  Jalte khaime se bhatiji ko bachaana Zainab
 
   4
-
-  Shab may gar yaad karay bali Sakina mujh ko
-
-  Meri bachchi ko kalaijay se lagana Zainab
-
+  Shab meiṅ gar yaad kare baali Sakina mujh ko
+  Meri bachchi ko kaleje se lagaana Zainab
 
   5
-
-  Fateha Asghar-e-beSheer ka dena pehlay
-
-  Shaam ki raahon may tum pani jo pana Zainab
-
+  Faateha Asghar-e-beshir ka dena pehle
+  Shaam ki raahoṅ meiṅ tum paani jo paana Zainab
 
   6
-
-  Rah-e-Koofa may kaha Fizza ne ro ro ke Suhail
-
-  Kaisa aaya hay yeh ghurbat ka zamana Zainab'
+  Raah-e-Kufa meiṅ kaha Fizza ne ro ro ke Suhail
+  Kaisa aaya hai yeh ghurbat ka zamaana Zainab
 ---
 
 شاہ کہتے تھے نہ تم اشک بہانہ زینبؑ

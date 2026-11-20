@@ -12,101 +12,101 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salam bar moharram
-  Salam bar karbala
-  Salam bar ashoora
-  Salam bar Husain
-  Asalamo alal Husain
-  Wa ali ibnil Husain
-  Wa aulaadil Husain
-  Wa as'haabil Husain
-  Allah allah min raasil Husain
-  Ae naiza sawaroṅ ki qayadat ke shehenshah
-  Zulfeiṅ teri wal-lail hai was shams hai chehra
-  Aankhoṅ sa ayaṅ nur-e-mohamed ka ujaala
-  Lab tere hai masruf e tilawat bine zehra
-  Sajde meiṅ jhuka sar to ibadat ka sharaf tha
-  Naize pa utha sar to ye sar durre najaf tha
-  Allah allah min raasil Husain
-  Thi pushte mohamed to isi sar ka musalla
-  Aur chadar e tathir hai is sar ka amaama
-  Mun kunto ka khutba ha isi sar ka khulasa
-  Is sar ke sabab karbobala ab hai moalla
-  Ya sar na jhuka khanjar o talwar ke aage
-  Sar zulm ka kham hai tere inkar ke aage
-  Allah allah min raasil Husain
-  Ruhe Husain
+  Salaam bar Muharram
+  Salaam bar Karbala
+  Salaam bar Aashura
+  Salaam bar Husain
+  As-salaam ala al-Husain
+  Wa ala ibn-il-Husain
+  Wa ala aulaad-il-Husain
+  Wa ashaab-il-Husain
+  Allah Allah min raas-il-Husain
+  Ae neza sawaaroṅ ki qayaadat ke shahanshaah
+  Zulfeiṅ teri wal-lail hai wash-shams hai chehra
+  Aankhoṅ sa ayaaṅ nur-e-mohamed ka ujaala
+  Lab tere haiṅ masruf-e-tilaawat bin Zehra
+  Sajde meiṅ jhuka sar to ibaadat ka sharaf tha
+  Neze pe utha sar to ye sar durr-e-Najaf tha
+  Allah Allah min raas-il-Husain
+  Thi pusht-e-Muhammad to isi sar ka musalla
+  Aur chaadar-e-tathir hai is sar ka amaama
+  Man kuntu ka khutba haaṅ isi sar ka khulasa
+  Is sar ke sabab Karb o Bala ab hai mualla
+  Ye sar na jhuka khanjar o talwaar ke aage
+  Sar zulm ka kham hai tere inkaar ke aage
+  Allah Allah min raas-il-Husain
+  Ruh-e-Husain
   Jabin-e-Husain
-  Abruh e Husain
-  Chashme Husain
+  Abru-e-Husain
+  Chashm-e-Husain
   Rukhsaar-e-Husain
-  Dehn e Husain
+  Dahan-e-Husain
   Lab-e-Husain
-  Dandan e Husain
+  Dandaan-e-Husain
   Rukhsaar-e-Husain
-  Rish e Husain
-  Gulu e Husain
-  Zulf e Husain
-  Khusboo e Husain
-  Zehn e Husain
-  Fikr e Husain
-  Guftaar e Husain
-  In aankhoṅ ko hai ahmade mukhtar ne chuma
-  Zehra o ali ne lab o rukhsaar ko chuma
-  Zulfoṅ ko Hasan ne hai bare pyar sa chuma
-  Behno ne gala iska kayi baar hai chuma
-  Sardari e abbas isi sar sa juri hai
-  Aur zainab o kulsum ko ye misle ali hai
-  Allah allah min raasil Husain
-  Maujud tha is sar meiṅ mohamed ka khazana
-  Maqsad tha isi sar ka to islam bachana
-  Zaalim ne bahot chaaha tha is sar ko jhukana
-  Ye sar na jhuka kat gaya zehra ka gharana
-  Is sar ka safar sun ke jahaṅ rota hai ab tak
-  Ghaibat meiṅ jo hai marsiya khwaṅ rota hai ab tak
-  Allah allah min raasil Husain
-  Ashur ko ye sar pas e gardan se kata tha
-  Zarbeiṅ thi lagi tera bahot khushk gala tha
-  Zainab ke liye waqt qayamat se kara tha
-  Zulfoṅ ko pakar kar jo ye sar shimr chala tha
-  Afsos sar-e-nok-e-sina jab ye sar aaya
-  Jalta hua ghar shaam e gharibaṅ ka tha saaya
-  Allah allah min raasil Husain
-  Es sar ke masayib ka ye pur dard hai qissa
+  Rish-e-Husain
+  Gulu-e-Husain
+  Zulf-e-Husain
+  Khushbu-e-Husain
+  Zehn-e-Husain
+  Fikr-e-Husain
+  Guftaar-e-Husain
+  In aankhoṅ ko hai Ahmad-e-Mukhtaar ne chuma
+  Zehra o Ali ne lab o rukhsaar ko chuma
+  Zulfoṅ ko Hasan ne hai bare pyaar se chuma
+  Behnoṅ ne gala is ka kai baar hai chuma
+  Sardaari-e-Abbas isi sar se juri hai
+  Aur Zainab o Kulsum ko ye misl-e-Ali hai
+  Allah Allah min raas-il-Husain
+  Maujud tha is sar meiṅ Muhammad ka khazaana
+  Maqsad tha isi sar ka to Islaam bachaana
+  Zaalim ne bahut chaaha tha is sar ko jhukaana
+  Ye sar na jhuka kat gaya Zehra ka gharaana
+  Is sar ka safar sun ke jahaaṅ rota hai ab tak
+  Ghaibat meiṅ jo hai marsiya khwaaṅ rota hai ab tak
+  Allah Allah min raas-il-Husain
+  Aashur ko ye sar pas-e-gardan se kata tha
+  Zarbeiṅ thi lagi tera bahut khushk gala tha
+  Zainab ke liye waqt qayaamat se kara tha
+  Zulfoṅ ko pakar kar jo ye sar Shimr chala tha
+  Afsos sar-e-nok-e-sinaaṅ jab ye sar aaya
+  Jalta hua ghar shaam-e-gharibaaṅ ka tha saaya
+  Allah Allah min raas-il-Husain
+  Is sar ke masaaib ka ye purdard hai qissa
   Khuni ne ise ghar meiṅ jo tandur meiṅ rakha
-  Raat aayi to phir zauja e khuni ne ye dekha
+  Raat aai to phir zauja-e-khuni ne ye dekha
   Tandur se ek nur ka darya hai ubalta
-  Ek bibi siyaah posh ne is sar ko uthaya
-  Ro ro ke kaha haye gharib e dile zehra
-  Allah allah min raasil Husain
-  Raahib ne ye sar dekha tha jab nok-e-sina par
-  Khuli sa kaha kaun hai ye kiska hai ye sar
-  Bola wo badad'waar ke ye hai bine hyder
-  Raahib ne wo sar le liya khuli ko diya zar
-  Sar godh meiṅ rakhe huwe rota raha raahib
-  Awaaz-e-fughaṅ zehra ki sunta raha raahib
-  Allah allah min raasil Husain
-  Ya sar kabhi sandook meiṅ tandur meiṅ rakha
-  Is sar ko darkhtoṅ pe layino ne sajaya
-  Naize pa ise shehr ki galiyoṅ meiṅ phiraya
-  Hamraah asiroṅ ke ye sar shaam jab aaya
-  Sajjad ko zainab ko rulaate the sitamgar
-  Sar bali sakina ko dikhaate the sitamgar
-  Allah allah min raasil Husain
-  Darbar e yazidi meiṅ bapa jashn e tarab tha
-  The ek taraf ahle haram muztar o girya
-  Aur saamne tha takht pe marjaana ka beta
-  Us takht tale sar tha Husain e bekhata ka
-  Badbakht layiṅ nashe meiṅ lalkaar raha tha
-  Dandan e shahe diṅ pa chari maar raha tha
-  Allah allah min raasil Husain
-  Jis waqt ya sar shaam ke zindan meiṅ aaya
-  Sar bhai ka zainab ne kaleje se lagaya
-  Sajjad ne behosh sakina ko jagaya
-  Sar baba ka pehlu meiṅ sakina ne jo paaya
-  Ae sarwar o rehaan qayamat ka samaa tha
-  Shabbir ka sar rota tha aur shor e fughaṅ tha
-  Allah allah min raasil Husain
+  Ik Bibi siyaah posh ne is sar ko uthaaya
+  Ro ro ke kaha haae gharib-e-dil-e-Zehra
+  Allah Allah min raas-il-Husain
+  Raahib ne ye sar dekha tha jab nok-e-sinaaṅ par
+  Khauli sa kaha kaun hai ye kis ka hai ye sar
+  Bola wo bad atwaar ke ye hai bin Haidar
+  Raahib ne wo sar le liya Khauli ko diya zar
+  Sar god meiṅ rakhe hue rota raha raahib
+  Aawaaz-e-fughaaṅ Zehra ki sunta raha raahib
+  Allah Allah min raas-il-Husain
+  Ye sar kabhi sanduq meiṅ tandur meiṅ rakha
+  Is sar ko darakhtoṅ pe lainoṅ ne sajaaya
+  Neze pe ise shahr ki galiyoṅ meiṅ phiraaya
+  Hamraah asiroṅ ke ye sar Shaam jab aaya
+  Sajjaad ko Zainab ko rulaate the sitamgar
+  Sar baali Sakina ko dikhaate the sitamgar
+  Allah Allah min raas-il-Husain
+  Darbaar-e-Yazidi meiṅ bapa jashn-e-tarab tha
+  The ek taraf ahl-e-haram muztar o girya
+  Aur saamne tha takht pe Marjaana ka beta
+  Us takht tale sar tha Husain-e-bekhata ka
+  Badbakht laiṅ nashe meiṅ lalkaar raha tha
+  Dandaan-e-shah-e-diṅ pe chhari maar raha tha
+  Allah Allah min raas-il-Husain
+  Jis waqt ye sar Shaam ke zindaan meiṅ aaya
+  Sar bhaai ka Zainab ne kaleje se lagaaya
+  Sajjaad ne behosh Sakina ko jagaaya
+  Sar baaba ka pahlu meiṅ Sakina ne jo paaya
+  Ae Sarwar o Rehan qayaamat ka samaaṅ tha
+  Shabbir ka sar rota tha aur shor-e-fughaaṅ tha
+  Allah Allah min raas-il-Husain
 ---
 
 ۱

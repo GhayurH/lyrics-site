@@ -10,52 +10,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  The bain sakina ke abbas nahi aaye
+  The bain Sakina ke Abbas nahiṅ aaye
 
   1
-  Darya pa gaye aise abbas nahi aaye
-  Aisa to na hota tha jab tak the madine may
-  Kya karbobala aaye abbas nahi aaye
+  Darya pe gaye aise Abbas nahiṅ aaye
+  Aisa to na hota tha jab tak the Madine mein
+  Kya Karb o Bala aaye Abbas nahiṅ aaye
 
   2
-  Dil wahi thi maiṅ ne hi Baba se rida ran ki
-  Faryaad karuṅ kis se Abbas nahi aaye
+  Dil wahi thi main ne hi Baba se rida ran ki
+  Faryaad karuṅ kis se Abbas nahiṅ aaye
 
   3
   Jis tarah se nikle the us tarah Madine ko
-  Kis tarah se lautenge Abbas nahi aaye
+  Kis tarah se lauteṅge Abbas nahiṅ aaye
 
   4
-  Ek mai hi na thi pyasi bache bhi to pyase the
-  Kiuṅ ruth gaye mujhse abbas nahi aaye
+  Ik main hi na thi pyaasi bachche bhi to pyaase the
+  Kiuṅ ruth gaye mujh se Abbas nahiṅ aaye
 
   5
-  Panchi hoke maanus ho har shaam palat'te hai
-  Kya baat khuda jaane abbas nahi aaye
+  Panchhi ho ke maanus ho har shaam palatte haiṅ
+  Kya baat Khuda jaane Abbas nahiṅ aaye
 
   6
   Asbaab luta saara khaime bhi lute saare
-  Durr chhine gaye mere Abbas nahi aaye
+  Dur chhine gaye mere Abbas nahiṅ aaye
 
   7
-  Kehde koi sughra se hum bhule nahi tujhko
-  Hum kabke ghar aajate abbas nahi aaye
+  Keh de koi Sughra se ham bhule nahiṅ tujh ko
+  Ham kab ke ghar aa jaate Abbas nahiṅ aaye
 
   8
-  Ab chadare zainab ka allah muhafiz hai
-  Parde ke jo zaamin the abbas nahi aaye
+  Ab chaadar-e-Zainab ka Allah muhaafiz hai
+  Parde ke jo zaamin the Abbas nahiṅ aaye
 
   9
-  Bemaar bhatije par nanhi si bhatiji par
-  Kya kya na sitam tute abbas nahi aaye
+  Bimaar bhatije par nanhi si bhatiji par
+  Kya kya na sitam tute Abbas nahiṅ aaye
 
   10
-  Darbar ki aarayish aur qaidi rasan basta
-  Chaubis pahar guzre abbas nahi aaye
+  Darbaar ki aaraaish aur qaidi rasan basta
+  Chaubis pahaar guzre Abbas nahiṅ aaye
 
   11
-  Kuch yaad nahi aata aisa bhi hua sibte
-  Jafar ke bulane se abbas nahi aaye
+  Kuchh yaad nahiṅ aata aisa bhi hua Sibt-e-
+  Jafar ke bulaane se Abbas nahiṅ aaye
 ---
 
 تھے بین سکینہ کے عباس نہیں آئے

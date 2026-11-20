@@ -1,31 +1,53 @@
 ---
-title: "Mehndiyan Laway Qasim Nu Naal Duawan Kardi Jaway Lyrics In Punjabi 2026 Ch Faiyaz Party Sialkot"
+title: "مہندیاں لاوے قاسم نوں نال دعواں کردی جاوے"
+alternateTitle: "Mehndiyan Laway Qasim Nu Naal Duawan Kardi Jaway"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mehndiyan laway Qasim nu naal duawan kardi jaway
+  Tere hath te wekh ke rang aidha kalma go taras te khaway
+
+  1
+  Maqtal wich ainj taqseem howein nu lakh de naal toon larna
+  Ik wari na qurban howein nu lakh wari toon marna
+  Ik putar mera wich maqtal de ja ja te nazri aaway
+  Aye hukam si tere babay da tainu Karbal le ke jawaan
+
+  2
+  Tainu la ke mehndi main Qasim haye sir wich mitiyaan pawaan
+  Teri lash main pawaan ainj jholi koi maa na jholi paway
+  Tere bajoon bachra maa ujari kinu apna dard sunana
+  Oh wela aawan taun pehlaan haye maa teri mar jana
+
+  3
+  Ik din di banri nu koi jadon bewah aakh bulaway
+  Honday lash uttay ne zakhm teri zakhma wich lash way aani
+  Main maa haan Qasim main teri haye lash te gal nal lani
+  Dukh jaway na koi zakhm tera tainu kiwein maa hath laway
 ---
 
-Mehndiyan Laway Qasim Nu Naal Duawan Kardi Jaway.
-Tere Hath Te Wekh Ke Rang Aidha Kalma Go Taras Te Khaway.
+مہندیاں لاوے قاسم نوں نال دعواں کردی جاوے
+تیرے ہتھ تے ویکھ کے رنگ ایہدا کلمہ گو ترس تے کھاوے
 
-1
-Maqtal Wich Ainj Taqseem Howein Nu Lakh De Naal Toon Larna.
-Ik Wari Na Qurban Howein Nu Lakh Wari Toon Marna.
-Ik Putar Mera Wich Maqtal De Ja Ja Te Nazri Aaway.
-Aye Hukam Si Tere Babay Da Tainu Karbal Le Ke Jawaan.
+۱
+مقتل وچ اینج تقسیم ہوویں نو لکھ دے نال توں لڑنا
+اک واری نہ قربان ہوویں نو لکھ واری توں مرنا
+اک پتر میرا وچ مقتل دے جا جا تے نظری آوے
+اے حکم سی تیرے بابے دا تینوں کربل لے کے جاواں
 
-2
-Tainu La Ke Mehndi Main Qasim Haye Sir Wich Mitiyaan Pawaan.
-Teri Lash Main Pawaan Ainj Jholi Koi Maa Na Jholi Paway.
-Tere Bajoon Bachra Maa Ujari Kinu Apna Dard Sunana.
-Oh Wela Aawan Taun Pehlaan Haye Maa Teri Mar Jana.
+۲
+تینوں لا کے مہندی میں قاسم ہائے سر وچ مٹیاں پاواں
+تیری لاش میں پاواں اینج جھولی کوئی ماں نہ جھولی پاوے
+تیرے باجوں بچڑا ماں اجاڑی کینوں اپنا درد سنانا
+اوہ ویلا آون توں پہلاں ہائے ماں تیری مر جانا
 
-3
-Ik Din Di Banri Nu Koi Jadon Bewah Aakh Bulaway.
-Honday Lash Uttay Ne Zakhm Teri Zakhma Wich Lash Way Aani.
-Main Maa Haan Qasim Main Teri Haye Lash Te Gal Nal Lani.
-Dukh Jaway Na Koi Zakhm Tera Tainu Kiwein Maa Hath Laway.
+۳
+اک دن دی بنڑی نوں کوئی جدوں بیوہ آکھ بلاوے
+ہوندے لاش اتے نے زخم تیری زخماں وچ لاش وے آنی
+میں ماں ہاں قاسم میں تیری ہائے لاش تے گل نال لانی
+دکھ جاوے نہ کوئی زخم تیرا تینوں کیویں ماں ہتھ لاوے

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kis ki majal zikar bhi Ghazi tera karey
-  Bas woh keh jis keh haq mein dua Syeda karey
-  Haq oss ki manqabat ka koi kya ada karey
-  Jis ke liye lisan-e-Khuda bhi dua karey
-  Dunya ki dhop chaon se barh kar hai gar mujhe
-  Saya alam ka hashar mein Ghazi atta karey
+  Kis ki majaal zikr bhi Ghazi tera kare
+  Bas woh ke jis ke haq mein dua Sayyeda kare
+  Haq us ki manqabat ka koi kya ada kare
+  Jis ke liye lisaan-e-Khuda bhi dua kare
+  Duniya ki dhop chhaaoṅ se barh kar hai gar mujhe
+  Saaya alam ka hashr mein Ghazi ata kare
 
   2
-  Baab-e-murad wa nahi aisa kahin koi
-  Ja kar kahan faqeer-e-mawaddat sada karey
-  Saqqa woh aal-e-Saqi-e-Kausar ka naaz ho
-  Jis ki wafa pe naaz sheh-e-Karbala karey
-  Sani woh hi hai Jafar-o-Haider ka jo dalair
-  Bazu qalam bhi ho tu nazar se waga karey
+  Baab-e-muraad waa nahiṅ aisa kahiṅ koi
+  Jaa kar kahaaṅ faqir-e-mawaddat sada kare
+  Saqqa woh aal-e-Saaqi-e-Kausar ka naaz ho
+  Jis ki wafa pe naaz shah-e-Karbala kare
+  Saani woh hi hai Jafar o Haidar ka jo diler
+  Baazu qalam bhi ho to nazar se wafa kare
 
   3
-  Abbas ka mazar hai woh Kaba-e-wafa
-  Aa kar jahan tawaf sada Alqama karey
-  Lainay ko aaein gay ossay Abbas-e-namdar
-  Hur ki tarha se ab bhi koi faisla karey
-  Bad-e-sana Kaleem aqeedat pe farz hai
-  Paish-e-Kareem shukar ka sajdah ada karey
+  Abbas ka mazaar hai woh Kaaba-e-wafa
+  Aa kar jahaaṅ tawaaf sada Alqama kare
+  Lene ko aaeṅ ge use Abbas-e-naamdaar
+  Hur ki tarah se ab bhi koi faisla kare
+  Baad-e-sana Kaleem aqidat pe farz hai
+  Pesh-e-Karim shukr ka sajda ada kare
 ---
 
 ۱

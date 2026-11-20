@@ -1,29 +1,48 @@
 ---
-title: "Shabbir Diyan Tin Dhiyan Ne Bare Okhay Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "شبیر دیاں تِن دھیاں نے بڑے اوکھے"
+alternateTitle: "Shabbir Diyan Tin Dhiyan Ne Bare Okhay"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shabbir diyan tin dhiyan ne bare okhay waqt nibhaye
+  Ik bewah ho gayi wich Karbal ik rul gayi shehar Madine ik ne zindan wasaye
+  Jinhay Karbala guzari oss dhi di zindagani do khaimiyaan che muk gayi
+  Jinhay rukhsat ho ke aana si oh lash te rowan aayi par raj ke wain na paye
+
+  2
+  Khali gharaan nu Sughra ujari nishaniyaan nal aabad kar liya aye
+  Pairaan de nishanaa nu Akbar khali jholay nu Asghar dar nu Sajjad bulaye
+  Shagna diyaan oh rasma bhajday hoye oh ghorey te uddiyan oh raitaan
+  Aidhey janji Shamiyaan kitay ne kuj neziyaan te aswar aye kuj wich bazar phiraye
+
+  3
+  Haye chaar sala Zahra jidda naam si Sakina maqtal che aa gayi aye
+  Hun piyo di lash te sochdi aye masoom hathaan nal apne kinj lash taun pathar hataye
+  Tatheer wehriyaan di masoom dhiyaan Akbar te dukh zamaniyan de
+  Tareekh gawah aye babay dey, nabiyaan diyaan v dhiyaan na aynj haye sath nibhaye
 ---
 
-1
-Shabbir Diyan Tin Dhiyan Ne Bare Okhay Waqt Nibhaye.
-Ik Bewah Ho Gayi Wich Karbal Ik Rul Gayi Shehar Madine Ik Ne Zindan Wasaye.
-Jinhay Karbala Guzari Oss Dhi Di Zindagani Do Khaimiyaan Che Muk Gayi.
-Jinhay Rukhsat Ho Ke Aana Si Oh Lash Te Rowan Aayi Par Raj Ke Wain Na Paye.
+۱
+شبیر دیاں تِن دھیاں نے بڑے اوکھے وقت نبھائے
+اک بیوہ ہو گئی وچ کربل اک رُل گئی شہر مدینے اک نے زنداں وسائے
+جِنھے کربلا گزاری اُس دھی دی زندگانی دو خیمیاں چے مُک گئی
+جِنھے رخصت ہو کے آنا سی اوہ لاش تے روون آئی پر رج کے وین نہ پائے
 
-2
-Khali Gharaan Nu Sughra Ujari Nishaniyaan Nal Aabad Kar Liya Aye.
-Pairaan De Nishanaa Nu Akbar Khali Jholay Nu Asghar Dar Nu Sajjad Bulaye.
-Shagna Diyaan Oh Rasma Bhajday Hoye Oh Ghorey Te Uddiyan Oh Raitaan.
-Aidhey Janji Shamiyaan Kitay Ne Kuj Neziyaan Te Aswar Aye Kuj Wich Bazar Phiraye.
+۲
+خالی گھراں نوں صغریٰ اُجاڑی نشانیاں نال آباد کر لیا اے
+پیراں دے نشاناں نوں اکبر خالی جھولے نوں اصغر در نوں سجاد بلائے
+شگناں دیاں اوہ رسماں بھجدے ہوئے اوہ گھوڑے تے اُڈیاں اوہ ریتاں
+ایدھے جانجی شامیاں کیتے نے کجھ نیزیاں تے اسوار آئے کجھ وچ بازار پھرائے
 
-3
-Haye Chaar Sala Zahra Jidda Naam Si Sakina Maqtal Che Aa Gayi Aye.
-Hun Piyo Di Lash Te Sochdi Aye Masoom Hathaan Nal Apne Kinj Lash Taun Pathar Hataye.
-Tatheer Wehriyaan Di Masoom Dhiyaan Akbar Te Dukh Zamaniyan De.
-Tareekh Gawah Aye Babay Dey, Nabiyaan Diyaan V Dhiyaan Na Aynj Haye Sath Nibhaye.
+۳
+ہائے چار سالہ زہرا جِدا ناں سی سکینہ مقتل چے آ گئی اے
+ہن پیو دی لاش تے سوچدی اے معصوم ہتھاں نال اپنے کنج لاش توں پتھر ہٹائے
+تطہیر ویہڑیاں دی معصوم دھیاں اکبر تے دکھ زمانیاں دے
+تاریخ گواہ اے بابے دے، نبیاں دیاں وی دھیاں نہ اینج ہائے ساتھ نبھائے

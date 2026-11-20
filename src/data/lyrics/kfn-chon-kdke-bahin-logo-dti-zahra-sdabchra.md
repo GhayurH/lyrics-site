@@ -7,6 +7,33 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kafan choṅ kad ke baahiṅ logo ditti Zaahra sadaa bachra
+  Aamaaṅ kuṅ gal chumaa medaa gharib-e-Karbala bachra
+
+  1
+  Medaa haq vi lutinde re mekuṅ jhanrkaaṅ vi dinde re
+  Hunr eṅ lut tuṅ bachaaveṅ tuṅ haaye Zainab di ridaa bachra
+
+  2
+  Taiṅ hik deṅ vich kai laashe ae bachra chaavaneṅ kandh te
+  Tedaa laasha haaye mittiyaaṅ tuṅ na chesi koi medaa bachra
+
+  3
+  Medaa dar vi jale bachra medaa paasa vi zakhmi thiye
+  Main neṅ chaahndi thive zakhmi Nabi di bosa gaah bachra
+
+  4
+  Jehre deṅ daa jalye bachra medaa dar anveṅ lagdaa paye
+  Mede dar vaaṅg jal vesi tedi khiyaam gaah bachra
+
+  5
+  Undi bakhshish di zaamin haaṅ jehra hai maatami tedaa
+  Dasaade tuṅ ae har kaheṅ kuṅ jeṅ ae nauha parha bachra
+
+  6
+  Woh qismat sain Zahra di adab ummat bhulaa chhoraaye
+  Taahuṅ Faisal vadaa ronde saff-e-maatam vichhaa bachra
 ---
 
 کفن چوں کڈکے باہیں لوگو ڈتی زاہراؑ صدابچڑا

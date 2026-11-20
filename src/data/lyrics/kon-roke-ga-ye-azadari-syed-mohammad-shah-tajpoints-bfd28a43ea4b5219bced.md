@@ -1,106 +1,203 @@
 ---
-title: "Kon Roke Ga Ye Azadari Syed Mohammad Shah"
+title: "کون روکے گا یہ عزاداری سید محمد شاہ"
+alternateTitle: "Kon Roke Ga Ye Azadari Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kon roke ga ye azadari Syed Mohammad Shah and Irfan Haider
+  Rab ka wadah hai yeh azadari
+  Kaun rokay ga yeh azadari
+  Chand Mah-e-Azza ka aaya nazar
+
+  2
+  Kalay parcham lagay hain har ghar par
+  Jantay hain tamam jin-o-bashar
+  Kam iss se nahi koi behtar
+  Nahi kartay hain hum, yeh dunya ka gham
+
+  3
+  Hain aanso rawaan, utha kar alam
+  Kam pehla hai yeh azadari
+  Jab sajatay hain hum azakhana
+  Oss mein rakhtay hain baliyaan jhola
+
+  4
+  Mehndi rakhtay hain our ik kangna
+  Kuch alam our sath mein sehra
+  Aye Ahl-e-Azza, yaqeen hai mera
+  Ghar aaeingi ab, mere Syeda
+
+  5
+  Izn-e-Zahra hai yeh azadari
+  Har ghali mein sabeel hai jo lagi
+  Yeh duaein hain mashk wali ki
+  Tere sadqay mein aye meri Bibi
+
+  6
+  Aaj pyasa nahi hai koi bhi
+  Alam ki qasam, karam hai karam
+  Yeh daman kabhi, na chorein gay hum
+  Shama se shama jalay silsila jari rahe
+
+  7
+  Hum rahein ya na rahein yeh azadari rahe
+  Farz apna hai yeh azadari
+  (Irfan Haider)
+  Aath aati hai jab Muharram ki
+
+  8
+  Maein bachoon ko karti hain girvi
+  Unn ko pehnati hain hari kafni
+  Bachay kartay hain sare saqayi
+  Na khof-o-khatar, na dunya ka dar
+
+  9
+  Nikaltey hain sab, kafan orh kar
+  Aisa jazba hai yeh azadari
+  Aaj wajib hai kal bhi wajib tha
+  Hai yeh matam bhi ik Namaz-e-Azza
+
+  10
+  Aag our khon se hain kartay ada
+  Munh pe kartay hain hath se pursa
+  Chaley khoon mein tar, aye Sheh ke pisar
+  Humein yaad hai tumhara safar
+
+  11
+  Tham kar yeh alam barhtey jaein qadam
+  Dil mein ho Sheh ka gham
+  Apna wirsa hai yeh azadari
+  Kijiye nojawan ka matam
+
+  12
+  Teer ka our kaman ka matam
+  Haye sokhi zaban ka matam
+  Shah ke khandan ka matam
+  Kahin nojawaan, kahin be zabaan
+
+  13
+  Diya Shah ne, ajab imtehaan
+  Lash uthana hai yeh azadari
+  Jalta sehra tha aik pyasa tha
+  Kund khanjar galay pe chalta tha
+
+  14
+  Khon sokhi ragoon se behta tha
+  Khak par ayeriyaan ragarta tha
+  Woh pyasa raha, na pani mila
+  Woh sokha howa, gala kat gaya
+
+  15
+  Oss pe rona hai yeh azadari
+  :Arsalan Azmi: Khuda ki qasam
+  Mujh pe hai Bibi Syeda ka karam
+  Chalta rehta hai jo yeh mera qalam
+
+  16
+  Nohay karta rahon ga younhi raqam
+  Mera farz hai, bara qarz hai
+  Karam ho younhi, yehi arz hai
+  Mera likhna hai yeh azadari
 ---
 
-1
-Kon Roke Ga Ye Azadari Syed Mohammad Shah and Irfan Haider.
-Rab Ka Wadah Hai Yeh Azadari.
-Kaun Rokay Ga Yeh Azadari.
-Chand Mah-e-Azza Ka Aaya Nazar.
+۱
+کون روکے گا یہ عزاداری سید محمد شاہ اینڈ عرفان حیدر
+رب کا وعدہ ہے یہ عزاداری
+کون روکے گا یہ عزاداری
+چاند ماہِ عزا کا آیا نظر
 
-2
-Kalay Parcham Lagay Hain Har Ghar Par.
-Jantay Hain Tamam Jin-o-Bashar.
-Kam Iss Se Nahi Koi Behtar.
-Nahi Kartay Hain Hum, Yeh Dunya Ka Gham.
+۲
+کالے پرچم لگے ہیں ہر گھر پر
+جانتے ہیں تمام جن و بشر
+کام اس سے نہیں کوئی بہتر
+نہیں کرتے ہیں ہم، یہ دنیا کا غم
 
-3
-Hain Aanso Rawaan, Utha Kar Alam.
-Kam Pehla Hai Yeh Azadari.
-Jab Sajatay Hain Hum Azakhana.
-Oss Mein Rakhtay Hain Baliyaan Jhola.
+۳
+ہیں آنسو رواں، اٹھا کر علم
+کام پہلا ہے یہ عزاداری
+جب سجاتے ہیں ہم عزاخانہ
+اس میں رکھتے ہیں بالیاں جھولا
 
-4
-Mehndi Rakhtay Hain Our Ik Kangna.
-Kuch Alam Our Sath Mein Sehra.
-Aye Ahl-e-Azza, Yaqeen Hai Mera.
-Ghar Aaeingi Ab, Mere Syeda.
+۴
+مہندی رکھتے ہیں اور اک کنگنا
+کچھ علم اور ساتھ میں سہرا
+اے اہلِ عزا، یقین ہے میرا
+گھر آئیں گی اب، میری سیدہ
 
-5
-Izn-e-Zahra Hai Yeh Azadari.
-Har Ghali Mein Sabeel Hai Jo Lagi.
-Yeh Duaein Hain Mashk Wali Ki.
-Tere Sadqay Mein Aye Meri Bibi.
+۵
+اذنِ زہرا ہے یہ عزاداری
+ہر گلی میں سبیل ہے جو لگی
+یہ دعائیں ہیں مشک والی کی
+تیرے صدقے میں اے میری بی‌بی
 
-6
-Aaj Pyasa Nahi Hai Koi Bhi.
-Alam Ki Qasam, Karam Hai Karam.
-Yeh Daman Kabhi, Na Chorein Gay Hum.
-Shama Se Shama Jalay Silsila Jari Rahe.
+۶
+آج پیاسا نہیں ہے کوئی بھی
+علم کی قسم، کرم ہے کرم
+یہ دامن کبھی، نہ چھوڑیں گے ہم
+شمع سے شمع جلے سلسلہ جاری رہے
 
-7
-Hum Rahein Ya Na Rahein Yeh Azadari Rahe.
-Farz Apna Hai Yeh Azadari.
-(Irfan Haider).
-Aath Aati Hai Jab Muharram Ki.
+۷
+ہم رہیں یا نہ رہیں یہ عزاداری رہے
+فرض اپنا ہے یہ عزاداری
+(عرفان حیدر)
+آٹھ آتی ہے جب محرم کی
 
-8
-Maein Bachoon Ko Karti Hain Girvi.
-Unn Ko Pehnati Hain Hari Kafni.
-Bachay Kartay Hain Sare Saqayi.
-Na Khof-o-Khatar, Na Dunya Ka Dar.
+۸
+مائیں بچوں کو کرتی ہیں گروی
+ان کو پہناتی ہیں ہری کفنی
+بچے کرتے ہیں سارے سقائی
+نہ خوف و خطر، نہ دنیا کا ڈر
 
-9
-Nikaltey Hain Sab, Kafan Orh Kar.
-Aisa Jazba Hai Yeh Azadari.
-Aaj Wajib Hai Kal Bhi Wajib Tha.
-Hai Yeh Matam Bhi Ik Namaz-e-Azza.
+۹
+نکلتے ہیں سب، کفن اوڑھ کر
+ایسا جذبہ ہے یہ عزاداری
+آج واجب ہے کل بھی واجب تھا
+ہے یہ ماتم بھی اک نمازِ عزا
 
-10
-Aag Our Khon Se Hain Kartay Ada.
-Munh Pe Kartay Hain Hath Se Pursa.
-Chaley Khoon Mein Tar, Aye Sheh Ke Pisar.
-Humein Yaad Hai Tumhara Safar.
+۱۰
+آگ اور خون سے ہیں کرتے ادا
+منہ پہ کرتے ہیں ہاتھ سے پرسا
+چلے خون میں تر، اے شہ کے پسر
+ہمیں یاد ہے تمہارا سفر
 
-11
-Tham Kar Yeh Alam Barhtey Jaein Qadam.
-Dil Mein Ho Sheh Ka Gham.
-Apna Wirsa Hai Yeh Azadari.
-Kijiye Nojawan Ka Matam.
+۱۱
+تھام کر یہ علم بڑھتے جائیں قدم
+دل میں ہو شہ کا غم
+اپنا ورثہ ہے یہ عزاداری
+کیجیے نوجوان کا ماتم
 
-12
-Teer Ka Our Kaman Ka Matam.
-Haye Sokhi Zaban Ka Matam.
-Shah Ke Khandan Ka Matam.
-Kahin Nojawaan, Kahin Be Zabaan.
+۱۲
+تیر کا اور کمان کا ماتم
+ہائے سوکھی زبان کا ماتم
+شاہ کے خاندان کا ماتم
+کہیں نوجواں، کہیں بے زباں
 
-13
-Diya Shah Ne, Ajab Imtehaan.
-Lash Uthana Hai Yeh Azadari.
-Jalta Sehra Tha Aik Pyasa Tha.
-Kund Khanjar Galay Pe Chalta Tha.
+۱۳
+دیا شاہ نے، عجب امتحان
+لاش اٹھانا ہے یہ عزاداری
+جلتا صحرا تھا ایک پیاسا تھا
+کند خنجر گلے پہ چلتا تھا
 
-14
-Khon Sokhi Ragoon Se Behta Tha.
-Khak Par Ayeriyaan Ragarta Tha.
-Woh Pyasa Raha, Na Pani Mila.
-Woh Sokha Howa, Gala Kat Gaya.
+۱۴
+خون سوکھی رگوں سے بہتا تھا
+خاک پر ایڑیاں رگڑتا تھا
+وہ پیاسا رہا، نہ پانی ملا
+وہ سوکھا ہوا، گلا کٹ گیا
 
-15
-Oss Pe Rona Hai Yeh Azadari.
-:ARSALAN AZMI: Khuda Ki Qasam.
-Mujh Pe Hai Bibi Syeda Ka Karam.
-Chalta Rehta Hai Jo Yeh Mera Qalam.
+۱۵
+اس پہ رونا ہے یہ عزاداری
+ارسلان عظمیٰ خدا کی قسم
+مجھ پہ ہے بی‌بی سیدہ کا کرم
+چلتا رہتا ہے جو یہ میرا قلم
 
-16
-Nohay Karta Rahon Ga Younhi Raqam.
-Mera Farz Hai, Bara Qarz Hai.
-Karam Ho Younhi, Yehi Arz Hai.
-Mera Likhna Hai Yeh Azadari.
+۱۶
+نوحے کرتا رہوں گا یوں ہی رقم
+میرا فرض ہے، بڑا قرض ہے
+کرم ہو یوں ہی، یہی عرض ہے
+میرا لکھنا ہے یہ عزاداری

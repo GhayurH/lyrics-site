@@ -1,44 +1,77 @@
 ---
-title: "Teri Ummat Ne Bara Zulm Kiya"
+title: "تیری امت نے بڑا ظلم کیا"
+alternateTitle: "Teri Ummat Ne Bara Zulm Kiya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Yasir"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kya bataon tumhein pyare Baba teri ummat ne bara zulm kiya
+
+  1
+  Bad tere aye Rasool-e-Do-Sara teri ummat ne bara zulm kiya
+  Jis pe Jibreel gadai ke liye aate the
+  Aap bhi jis pe thehar ke dua farmate the
+  Haan jala dala wohi darwaza
+  Teri ummat ney bara zulm kiya
+  Baba sab bhol gaye aap ka farman-e-Ghadeer
+  Aa gaye Haider-e-Karar ko woh karne aseer
+  Hum pe yeh waqt bhi aaya Baba
+  Teri ummat ney bara zulm kiya
+  Zalimo ko yeh pata tha hoon Nabi ki dukhtar
+  Phir bhi jalta howa darwaza giraya mujh par
+  Kar diya pehlu shikasta mera
+  Teri ummat ney bara zulm kiya
+  Bait-ul-Huzan mein ja kar main buqa karti thi
+  Tere gham mein meri faryad buri lagti thi
+  Ghar mein matam tera karne na diya
+  Teri ummat ney bara zulm kiya
+  Na-tawaan ho gaye Baba mere bazu mere pair
+  Baba main chal nahi sakti hoon sahare ke begair
+  Phir bhi darbar mein bulwaya giya
+  Teri ummat ney bara zulm kiya
+  Tere bachoon ko liya barsar-e-darbar gayi
+  Kalma goyon ko dikhati rahi tehreer teri
+  Haye afsoos mujhe haq na mila
+
+  2
+  Aaj bhi aati hai Yasir yeh Baqiya se sada
+  Almadad jadi ya molai abbi ya aaqa
+  Dekhiye pehlu shikasta hai mera
 ---
 
-Kya Bataon Tumhein Pyare Baba Teri Ummat Ne Bara Zulm Kiya.
+کیا بتاؤں تمہیں پیارے بابا تیری امت نے بڑا ظلم کیا
 
-1
-Bad Tere Aye Rasool-e-Do-Sara Teri Ummat Ne Bara Zulm Kiya.
-Jis Pe Jibreel Gadai Ke Liye Aate The.
-Aap Bhi Jis Pe Thehar Ke Dua Farmate The.
-Haan Jala Dala Wohi Darwaza.
-Teri Ummat Ney Bara Zulm Kiya.
-Baba Sab Bhol Gaye Aap Ka Farman-e-Ghadeer.
-Aa Gaye Haider-e-Karar Ko Woh Karne Aseer.
-Hum Pe Yeh Waqt Bhi Aaya Baba.
-Teri Ummat Ney Bara Zulm Kiya.
-Zalimo Ko Yeh Pata Tha Hoon Nabi Ki Dukhtar.
-Phir Bhi Jalta Howa Darwaza Giraya Mujh Par.
-Kar Diya Pehlu Shikasta Mera.
-Teri Ummat Ney Bara Zulm Kiya.
-Bait-ul-Huzan Mein Ja Kar Main Buqa Karti Thi.
-Tere Gham Mein Meri Faryad Buri Lagti Thi.
-Ghar Mein Matam Tera Karne Na Diya.
-Teri Ummat Ney Bara Zulm Kiya.
-Na-Tawaan Ho Gaye Baba Mere Bazu Mere Pair.
-Baba Main Chal Nahi Sakti Hoon Sahare Ke Begair.
-Phir Bhi Darbar Mein Bulwaya Giya.
-Teri Ummat Ney Bara Zulm Kiya.
-Tere Bachoon Ko Liya Barsar-e-Darbar Gayi.
-Kalma Goyon Ko Dikhati Rahi Tehreer Teri.
-Haye Afsoos Mujhe Haq Na Mila.
+۱
+بعد تیرے اے رسولِ دو سرا تیری امت نے بڑا ظلم کیا
+جس پہ جبرئیل گدائی کے لیے آتے تھے
+آپ بھی جس پہ ٹھہر کے دعا فرماتے تھے
+ہاں جلا ڈالا وہی دروازہ
+تیری امت نے بڑا ظلم کیا
+بابا سب بھول گئے آپ کا فرمانِ غدیر
+آ گئے حیدرِ کرار کو وہ کرنے اسیر
+ہم پہ یہ وقت بھی آیا بابا
+تیری امت نے بڑا ظلم کیا
+ظالموں کو یہ پتا تھا ہوں نبی کی دختر
+پھر بھی جلتا ہوا دروازہ گرایا مجھ پر
+کر دیا پہلو شکستہ میرا
+تیری امت نے بڑا ظلم کیا
+بیت الحزن میں جا کر میں بکا کرتی تھی
+تیرے غم میں میری فریاد بری لگتی تھی
+گھر میں ماتم تیرا کرنے نہ دیا
+تیری امت نے بڑا ظلم کیا
+ناتواں ہو گئے بابا میرے بازو میرے پیر
+بابا میں چل نہیں سکتی ہوں سہارے کے بغیر
+پھر بھی دربار میں بلوایا گیا
+تیری امت نے بڑا ظلم کیا
+تیرے بچوں کو لیا برسرِ دربار گئی
+کلمہ گویوں کو دکھاتی رہی تحریر تیری
+ہائے افسوس مجھے حق نہ ملا
 
-2
-Aaj Bhi Aati Hai Yasir Yeh Baqiya Se Sada.
-Almadad Jadi Ya Molai Abbi Ya Aaqa.
-Dekhiye Pehlu Shikasta Hai Mera.
+۲
+آج بھی آتی ہے یاسر یہ بقیع سے صدا
+المدد جدی یا مولائی ابی یا آقا
+دیکھیے پہلو شکستہ ہے میرا

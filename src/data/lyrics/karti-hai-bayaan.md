@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Dekho to qayaamat ka manzar
   Hai Shah ka gala zer-e-khanjar
-  Hai Shimr laiṅ sine pe charha
+  Hai Shimr la'iṅ sine pe charha
   Ae laal Ali Akbar ho kahaaṅ
 
   5

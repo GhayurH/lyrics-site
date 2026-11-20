@@ -18,7 +18,7 @@ romanLyrics: |-
   Kiuṅ waaris-e-tathir ki
 
   1
-  Chal gaya sajde meiṅ khanjar Fatema ke laal par
+  Chal gaya sajde mein khanjar Fatema ke laal par
   Jal gaya Zahra ka ghar
   Lut gayi bint-e-Ali tu ne hi baad az Nabi
   Is zulm ki tadbir ki
@@ -26,31 +26,31 @@ romanLyrics: |-
   2
   Bekhata in qaidiyoṅ ki gham bhari ye daastaaṅ
   Sun ke rota hai jahaaṅ
-  Shaam ke baazaar meiṅ Aabid-e-bimaar ne
+  Shaam ke baazaar mein Aabid-e-bimaar ne
   Thi khun se tahrir ki
 
   3
   Maadar-e-Asghar tumhaari zindagaani ka samar
   Mar gaya Islaam par
-  Ham na bhuleṅge kabhi nok naazuk se gale meiṅ
+  Ham na bhuleṅ ge kabhi nok naazuk se gale mein
   Hurmala ke tir ki
 
   4
   Karbala se Shaam tak aal-e-Payambar beamaaṅ
   Taaziyaane rassiyaaṅ
-  Balwe meiṅ laaya gaya haaye aal-e-Mustafa
+  Balwe mein laaya gaya haaye aal-e-Mustafa
   Ki is tarah tauqir ki
 
   5
   Kab talak sah paati aakhir jhirkiyaaṅ aur sailiyaaṅ
   Qaid ki tanhaaiyaaṅ
-  Is qadar dhaayi jafa qabr zindaaṅ meiṅ bani hai
+  Is qadar dhaayi jafa qabr zindaaṅ mein bani hai
   Dukhtar-e-Shabbir ki
 
   6
-  Saani-e-Zehra barahna sar gayi baazaar meiṅ
-  Aur bhare darbaar meiṅ
-  Mahfil-e-mai khwaar meiṅ malka-e-sharm o haya ki
+  Saani-e-Zehra barahna sar gayi baazaar mein
+  Aur bhare darbaar mein
+  Mahfil-e-mai khwaar mein malka-e-sharm o haya ki
   Tu ne kiuṅ tashhir ki
 
   7

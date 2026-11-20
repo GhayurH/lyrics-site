@@ -1,17 +1,24 @@
 ---
-title: "Kul Kafa Sahib-e-Laula Hain Rasool-e-Arbi"
+title: "قل کفیٰ صاحبِ لولا ہیں رسولِ عربی"
+alternateTitle: "Kul Kafa Sahib-e-Laula Hain Rasool-e-Arbi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Yousufi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kul kafa sahib e laula hain Rasool-e-Arbi
+  Bad-e-Haq sab se hi aoula hain Rasool-e-Arbi
+  Yousufi our ho kya shan-e-Muhammad mein biyaan
+  Mere maula ke bhi maula hain Rasool-e-Arbi
 ---
 
-1
-Kul Kafa Sahib e Laula Hain Rasool-e-Arbi.
-Bad-e-Haq Sab Se Hi Aoula Hain Rasool-e-Arbi.
- Yousufi Our Ho Kya Shan-e-Muhammad Mein Biyaan.
-Mere Maula Ke Bhi Maula Hain Rasool-e-Arbi.
+۱
+قل کفیٰ صاحبِ لولا ہیں رسولِ عربی
+بعدِ حق سب سے ہی اولیٰ ہیں رسولِ عربی
+یوسفی اور ہو کیا شانِ محمد میں بیاں
+میرے مولا کے بھی مولا ہیں رسولِ عربی

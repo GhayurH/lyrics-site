@@ -12,44 +12,44 @@ aliases: ["ali-un-ala-kulle-shayin-qadeer-mehdi-rizvi-hadi-rizvi"]
 recitationId: "ali-un-ala-kulle-shayin-qadeer-mehdi-rizvi-hadi-rizvi"
 published: true
 romanLyrics: |-
-  De rahi hai ye qudrat sada Aliun ala kull-e-shayin qadir
-  Yehi kehna hai Allah ka Aliun ala kull-e-shayin qadir
+  De rahi hai ye qudrat sada Aliun ala kulli shayin qadir
+  Yehi kehna hai Allah ka Aliun ala kulli shayin qadir
 
   1
   Raat ko din kare kun hai jo bhi kahe
-  Mitti gundhe faqat aur Aadam banaye
+  Mitti gondhe faqat aur Aadam banaye
   Us ki marzi hai har faisla
-  Aliun ala kull-e-shayin qadir
+  Aliun ala kulli shayin qadir
 
   2
   Tha wo suraj to kya tere dar ka gada
-  Ek ishara kiya aur palta diya
+  Ik ishaara kiya aur palta diya
   Phir wo suraj bhi kehne laga
-  Aliun ala kull-e-shayin qadir
+  Aliun ala kulli shayin qadir
 
   3
   Ali azim Ali aalam Ali jaanam Ali Ali
   Ali aala Ali baala Ali Aaqa Ali Ali
   Ali rehbar Ali bartar Ali behtar Ali Ali
-  Ali baatin Ali zaahir Ali athar Ali taahir Ali qayyam Ali qadir
+  Ali baatin Ali zaahir Ali athar Ali taahir Ali qiyaam Ali qaadir
 
   4
   Aayi terah Rajab khush halaali the sab
   Zard sa ho gaya chehra munkir ka tab
   Jab halaali ke lab se suna
-  Aliun ala kull-e-shayin qadir
+  Aliun ala kulli shayin qadir
 
   5
   Pahunche arsh-e-aala Sayyid-ul-Awsiya
-  Dil bahot khush hua jab nazar aa gaya
+  Dil bahut khush hua jab nazar aa gaya
   Sidrat-ul-Muntaha par likha
-  Aliun ala kull-e-shayin qadir
+  Aliun ala kulli shayin qadir
 
   6
-  Wo Nuseri jo tha un ko bola Khuda
+  Wo Nusairi jo tha un ko bola Khuda
   Mar kar khud use zinda bhi kar diya
   Wo utha yehi kehta hua
-  Aliun ala kull-e-shayin qadir
+  Aliun ala kulli shayin qadir
 ---
 دے رہی ہے یہ قدرت صدا علیٌ علیٰ کلِ شیءٍ قدیر
 یہی کہنا ہے اللہ کا علیٌ علیٰ کلِ شیءٍ قدیر

@@ -23,15 +23,15 @@ romanLyrics: |-
   Barh rahe haiṅ shauq se sab shaaiqin-e-Karbala
 
   2
-  Rauza-e-Haidar se hoti hai wafa ki ibteda
-  Maujiza jisko hai samjha ye hai Zahra ki dua
+  Rauza-e-Haidar se hoti hai wafa ki ibtida
+  Mojiza jisko hai samjha ye hai Zahra ki dua
   Hai karoroṅ ka julus aur saath hai farsh-e-aza
-  Ab Najaf tak bichh gayi hai sar-zamin-e-Karbala
+  Ab Najaf tak bichh gai hai sar-zamin-e-Karbala
 
   3
   Is ziyarat ke safar meiṅ saahib-e-kirdaar hai
   Parcham-e-Abbas haathoṅ meiṅ hai sab bedaar haiṅ
-  Ae Imam-e-Asr nusrat ke liye tayyar haiṅ
+  Ae Imam-e-Asr nusrat ke liye taiyaar haiṅ
   Muntaqim ke muntazir haiṅ mominin-e-Karbala
 
   4
@@ -48,27 +48,27 @@ romanLyrics: |-
 
   6
   Parda-e-ghaibat uthega mere Maula aayeṅ ge
-  Gar bulaya aap ne paidal bhi chal kar jaayeṅ ge
+  Gar bulaaya aap ne paidal bhi chal kar jaayeṅ ge
   Saath meiṅ maaṅ baap bachche aur bhai laayeṅ ge
   Kar qabul in zahmatoṅ ko ae makin-e-Karbala
 
   7
   Ek majlis hogi rauzoṅ par pahunch kar aur bain
-  Ek taraf Abbas hoṅ ge ek taraf Maula Husain
+  Ak taraf Abbas hoṅ ge ak taraf Maula Husain
   Kaisa girya hoga kya zaakir ki hogi zeb o zain
-  Ek jagah hoṅ ge bahattar saamain-e-Karbala
+  Ak jagah hoṅ ge bahattar saamiin-e-Karbala
 
   8
-  Chaudah farsakh tak hameṅ khaana khilata kaun hai
-  Zaair-e-Shabbir ko pani pilaata kaun hai
-  Saaf jute kar ke ye aansu bahata kaun hai
-  Allah Allah dekho shan-e-zairin-e-Karbala
+  Chaudah farsakh tak hameṅ khaana khilaata kaun hai
+  Zaair-e-Shabbir ko paani pilaata kaun hai
+  Saaf jute kar ke ye aansu bahaata kaun hai
+  Allah Allah dekho shaan-e-zaairin-e-Karbala
 
   9
   Ho sharaf haasil ziyarat ka Qamar maango dua
   Shadmaaṅ har ek qadam par bas yehi hai sochta
   Rauza-e-Abbas dekhuṅ ga to haalat hogi kya
-  Saamne jab aayegi mere zamin-e-Karbala
+  Saamne jab aaye gi mere zamin-e-Karbala
 ---
 
 آ رہے ہیں تیری جانب اے زمین کربلا

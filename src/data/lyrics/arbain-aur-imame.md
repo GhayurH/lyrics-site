@@ -12,15 +12,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zamin-e-ishq pe guṅji azaan-e-Arbain
+  Zamin-e-ishq pe gunji azaan-e-Arbain
   Jigar figaar hua Karbala ki huk uthi
-  Gham-e-Husain ne khaime laga diye dil meiṅ
-  Tumhari yaad meiṅ rone ke waaste Maula
+  Gham-e-Husain ne khaime laga diye dil mein
+  Tumhari yaad mein rone ke waaste Maula
 
   1
-  Libaas-e-sog meiṅ ashkoṅ ke qaafile phir se
-  Andheri raat meiṅ palkoṅ pe aake utre hai
-  Tumhare wasl ki hasrat meiṅ jaagti aaṅkheiṅ
+  Libaas-e-sog mein ashkoṅ ke qaafile phir se
+  Andheri raat mein palkoṅ pe aake utre hai
+  Tumhare wasl ki hasrat mein jaagti aankheiṅ
   Zarih-e-paak ko chhune ke khwaab dekhti hai
 
   2
@@ -33,25 +33,25 @@ romanLyrics: |-
   Meri jabiṅ pe un raastoṅ ki gard pare
   Ho jin pe Mehdi-e-dauraaṅ ne apne paaoṅ dhare
   Qadam qadam wo kahiṅ aas paas saath mere
-  Karoroṅ logoṅ meiṅ tanha akele chalte ho
+  Karoroṅ logoṅ mein tanha akele chalte ho
 
   4
-  Maiṅ baar baar nigaahoṅ se poṅchh kar aaṅsu
-  Har ek chehre meiṅ Mehdi ke nur ko dhuṅduṅ
+  Main baar baar nigaahoṅ se ponchh kar aansu
+  Har ek chehre mein Mehdi ke nur ko dhunduṅ
   Har ek se puchho koi chaalis baras ka jawaaṅ dekha hai
-  Kya tum ne bhir meiṅ mera Imam dekha hai
+  Kya tum ne bhir mein mera Imam dekha hai
 
   5
   Har ek lazzat-e-dunya se bekhabar ho ke
-  Dayaar-e-ghair meiṅ ho jaauṅ besar o saamaan
-  Taam maaṅge bina mere haath meiṅ deke
+  Dayaar-e-ghair mein ho jaauṅ be sar o saamaan
+  Ta'aam maaṅge bina mere haath mein deke
   Gale laga le koi mujhko bewatan keh ke
 
   6
   Tumhare rauze ki jaanib piyaada paa mehmaaṅ
-  Uraata khaak chale khasta jaan o tan pahuṅche
-  Taqaiulaat meiṅ phaila ke apne daaman ko
-  Amir-e-Karbobala dekh teri chaukhat pe
+  Uraata khaak chale khasta jaan o tan pahunche
+  Taqilaat mein phaila ke apne daaman ko
+  Amir-e-Karb o Bala dekh teri chaukhat pe
 
   7
   Nazar jamaaye hue ye faqir baitha hai
@@ -60,28 +60,28 @@ romanLyrics: |-
   Tere baghair zamaana udaas hai saara
 
   8
-  Maiṅ tashna lab huṅ tu meri Furaat hai Maula
-  Maiṅ chaahta huṅ isi raah-e-ishq meiṅ kho kar
-  Kabhi talaash karuṅ apni zaat meiṅ khud ko
-  Kare jo mujh se baghaawat wo Hur mile mujh meiṅ
+  Main tashna lab huṅ tu meri Furaat hai Maula
+  Main chaahta huṅ isi raah-e-ishq mein kho kar
+  Kabhi talaash karuṅ apni zaat mein khud ko
+  Kare jo mujh se baghaawat wo Hur mile mujh mein
 
   9
-  Tere huzur meiṅ bakhshish ki aarzu le kar
+  Tere huzur mein bakhshish ki aarzu le kar
   Asir-e-nafs tere dar pe kis tarah aaye
   Bandha ke haath chale ya ke sar kataaye
   Mujhe bhi zindagi ki aarzu hai mere Husain
 
   10
-  Maiṅ tujh pe aisa maruṅ ke hayaat mil jaaye
-  Qafas se nikle parinda hawa meiṅ ur jaaye
+  Main tujh pe aisa maruṅ ke hayaat mil jaaye
+  Qafas se nikle parinda hawa mein ur jaaye
   Magar raza o itaaat ka jaam khaali hai
-  Ba naam-e-ishq zaade raah paas kuchh bhi nahiṅ
+  Ba naam-e-ishq zaad-e-raah paas kuchh bhi nahiṅ
 
   11
-  Tu jaanta hai maiṅ kitna gharib huṅ lekin
-  Maiṅ jaanta huṅ tu kitna karim hai Maula
+  Tu jaanta hai main kitna gharib huṅ lekin
+  Main jaanta huṅ tu kitna karim hai Maula
   Ba juz tere meri jaaye panaah kuchh bhi nahiṅ
-  Tere siwa bhari dunya meiṅ kaun hai mera
+  Tere siwa bhari dunya mein kaun hai mera
 ---
 زمینِ عشق پہ گونجی اذانِ اربعین
 جگر فگار ہوا کربلا کی ہوک اٹھی

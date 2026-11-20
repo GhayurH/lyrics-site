@@ -10,17 +10,17 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baba meary
-  Ghar may tere
-  Baad tere Zulm o sitam
+  Baba
+  Ghar meiṅ tere
+  Baad tere zulm o sitam
   Ham pe hue
   Sehte rahe
 
   2
-  May khaak par yuṅ thi parri
-  Tha hath may daman Ali
-  Rassi may thi gardan Ali
-  Chorro unhaiṅ kehti rahi
+  Maiṅ khaak par yuṅ thi pari
+  Tha haath meiṅ daaman-e-Ali
+  Rassi meiṅ thi gardan-e-Ali
+  Chhoro unheṅ kehti rahi
   Baba mere
 
   3
@@ -33,11 +33,11 @@ romanLyrics: |-
 
   4
   Zulm o sitam ke tute
-  Aise paharr baba
-  Parrte agar dino pe
-  Ho jate wo siyah(ha)
-  Shab pe agar ye parrtay
-  Din may badal wo jata
+  Aise pahaar baba
+  Parte agar dinoṅ pe
+  Ho jaate wo siyaah-ha
+  Shab pe agar ye girte
+  Din meiṅ badal wo jaata
 
   5
   Karti rahi aah o buka
@@ -51,9 +51,9 @@ romanLyrics: |-
   Tere baad baba ummat
   Itni badal gayi thi
   Ho gayi adu Ali ki
-  Na to un ki pairawi ki
-  Gardan may bhi rassi thi
-  May zamin par parri thi
+  Na to un ki pairavi ki
+  Gardan meiṅ bhi rassi thi
+  Maiṅ zamin par pari thi
 
   7
   Karti rahi aah o buka
@@ -64,9 +64,9 @@ romanLyrics: |-
   Ae baba baba mere
 
   8
-  Mera hath baba jis ke
-  Tu ne hath may diya tha
-  De raha huṅ may amanat
+  Mera haath baba jis ke
+  Tu ne haath meiṅ diya tha
+  De raha huṅ maiṅ amaanat
   Jise aap ne kaha tha
   Use qaidi tha banaya
   Use roz o shab rulaya
@@ -80,9 +80,9 @@ romanLyrics: |-
   Ae baba baba mere
 
   10
-  Haqqe Ali ki khatir
+  Haqq-e-Ali ki khaatir
   Dastak diye haiṅ dar dar
-  Mangi gawahi jab to
+  Maangi gawaahi jab to
   Koi na aaya bahar
   Zehra ka ghar jalane
   Sab aa gaye haiṅ dar par
@@ -98,7 +98,7 @@ romanLyrics: |-
   12
   Thokar se dar ko mere
   Logoṅ ne tha giraya
-  Us jalte dar ke piche
+  Us jalte dar ke pichhe
   Thi teri beti Zahra
   Pehlu shikasta kar ke
   Mohsin ko mere maara
@@ -112,12 +112,12 @@ romanLyrics: |-
   Ae baba baba mere
 
   14
-  Jhutlaya mujh ko baba
-  Hasanal ko us ne bhaya
-  Mujh se gawah mangaya
-  Meri aik bhi na maana
-  Mujhe tazyani maara
-  Zara rehm bhi na khaya
+  Jhutlaaya mujh ko baba
+  Hasan al ko us ne bhaaya
+  Mujh se gawaah mangaaya
+  Meri ek bhi na maana
+  Mujhe taaziyaana maara
+  Zara rahm bhi na khaaya
 
   15
   Karti rahi aah o buka
@@ -128,10 +128,10 @@ romanLyrics: |-
   Ae baba baba mere
 
   16
-  Haq apna mangne may
-  Darbar may gayi jo
-  Tehqir kar ke meri
-  The dante mujhe wo
+  Haq apna maangne meiṅ
+  Darbaar meiṅ gayi jo
+  Tahqir kar ke meri
+  The daante mujhe wo
   Khutba jo un ko deti
   Karte the shor o ghul wo
 
@@ -146,9 +146,9 @@ romanLyrics: |-
   18
   Baatil ke rukh se parda
   Abbas yuṅ hataya
-  Kar ke bayaṅ wilayat
-  Zehra ne hai batay
-  Yehi asal e zindagi hai
+  Kar ke bayaaṅ wilaayat
+  Zehra ne hai bataaya
+  Yehi asal-e-zindagi hai
   Ise na kabhi bhulana
 
   19

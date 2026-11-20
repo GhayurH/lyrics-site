@@ -21,11 +21,11 @@ romanLyrics: |-
 
   2
   Taabut pe Shabbar ke jab tir-e-sitam aaye
-  Abbas pe tha kaisa ye waqt musibat ka
+  Abbaas pe tha kaisa ye waqt musibat ka
 
   3
   Kamsin hai ye shahzaada baitha hua sakte meiṅ
-  Qasim ko bhi pursa do Shabbar ki shahaadat ka
+  Qaasim ko bhi pursa do Shabbar ki shahaadat ka
 
   4
   Shabbar ki shahaadat hai Shabbir ke parwaanoṅ
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Shabbir ka sadqa ho ab hum ko ata Shabbar
-  Hum waasta dete haiṅ Qasim ki musibat ka
+  Hum waasta dete haiṅ Qaasim ki musibat ka
 
   8
   Kehti thi yehi Zainab Shabbar ke janaaze par

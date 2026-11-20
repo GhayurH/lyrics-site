@@ -1,7 +1,7 @@
 ---
 title: "اربعیں تیرا ہو گیا بھائی"
 recitationId: "arbaeen-tera-hogaya"
-alternateTitle: "Arbaiṅ Tera Hogaya"
+alternateTitle: "Arbaiṅ Tera Ho Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
   Wo tah-e-khaak so gaya bhai
 
   2
-  Haaye ek do pehar meiṅ maajaye
+  Haaye ek do pehar meiṅ maanjaaye
   Saaf ghar tera ho gaya bhai
 
   3

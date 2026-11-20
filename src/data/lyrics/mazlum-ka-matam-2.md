@@ -12,51 +12,51 @@ published: false
 romanLyrics: |-
   1
   Husain ya Husain
-  Ye to mazlum ka matam hai kam na hoga
-  Ye to masum ka matam hai kam na hoga
+  Ye to mazlum ka maatam hai kam na hoga
+  Ye to masum ka maatam hai kam na hoga
   Har dil meiṅ hoga har ghar meiṅ hoga
   Dasht meiṅ hoga gulzaar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
-  Ye to masum ka matam hai kam na hoga
-  Sayyeda zainab ki ye aza hai
-  Fatema zehra ki ye dua hai
-  Zainulliba ke dil ki sada hai
-  Gham ye dil e zawwar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
-  Ye to masum ka matam hai kam na hoga
+  Hoga mazlum ka maatam hai kam na hoga
+  Ye to masum ka maatam hai kam na hoga
+  Sayyeda Zainab ki ye aza hai
+  Fatema Zehra ki ye dua hai
+  Zain-ul-Aba ke dil ki sada hai
+  Gham ye dil-e-zawwaar meiṅ hoga
+  Hoga mazlum ka maatam hai kam na hoga
+  Ye to masum ka maatam hai kam na hoga
   Har dil meiṅ hoga har ghar meiṅ hoga
   Dasht meiṅ hoga gulzaar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
+  Hoga mazlum ka maatam hai kam na hoga
   Husain ya Husain Husain ya Husain Husain ya Husain
-  Laashe pe sheh ke zainab ka waada
-  Dekhegi dunya ab ye nazaara
-  Ae mere bhaiya matam tumhara
-  Shaam ke khuni darbar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
-  Ye to masum ka matam hai kam na hoga
+  Laasha pe sheh ke Zainab ka waada
+  Dekhe gi duniya ab ye nazaara
+  Ae mere bhaiya maatam tumhaara
+  Shaam ke khuni darbaar meiṅ hoga
+  Hoga mazlum ka maatam hai kam na hoga
+  Ye to masum ka maatam hai kam na hoga
   Har dil meiṅ hoga har ghar meiṅ hoga
   Dasht meiṅ hoga gulzaar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
+  Hoga mazlum ka maatam hai kam na hoga
   Husain ya Husain Husain ya Husain Husain ya Husain
-  Gham ye tumhara maula bhula na zamana
-  Har ghar saja hai ye tumhara azakhana
-  Sogh tumhara jaari rahega
-  Matam ye saare sansaar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
-  Ye to masum ka matam hai kam na hoga
+  Gham ye tumhaara maula bhula na zamaana
+  Har ghar saja hai ye tumhaara aza khaana
+  Sog tumhaara jaari rahe ga
+  Maatam ye saare sansaar meiṅ hoga
+  Hoga mazlum ka maatam hai kam na hoga
+  Ye to masum ka maatam hai kam na hoga
   Har dil meiṅ hoga har ghar meiṅ hoga
   Dasht meiṅ hoga gulzaar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
+  Hoga mazlum ka maatam hai kam na hoga
   Husain ya Husain Husain ya Husain Husain ya Husain
-  Zahur-e-mehdi jis roz hoga
-  Manzar wo kitna pur soz hoga
-  Mimbar pe hoga waaris hamara
-  Matam phir unki sarkar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
-  Ye to masum ka matam hai kam na hoga
+  Zuhur-e-Mehdi jis roz hoga
+  Manzar wo kitna pursoz hoga
+  Mimbar pe hoga waaris hamaara
+  Maatam phir un ki sarkaar meiṅ hoga
+  Hoga mazlum ka maatam hai kam na hoga
+  Ye to masum ka maatam hai kam na hoga
   Har dil meiṅ hoga har ghar meiṅ hoga
   Dasht meiṅ hoga gulzaar meiṅ hoga
-  Hoga mazlum ka matam hai kam na hoga
+  Hoga mazlum ka maatam hai kam na hoga
   Husain ya Husain Husain ya Husain Husain ya Husain
 ---
 

@@ -1,26 +1,42 @@
 ---
-title: "Ghar Aap Ka Aye Fatima Har Ghar Se Bara Hai"
+title: "گھر آپ کا اے فاطمہ ہر گھر سے بڑا ہے"
+alternateTitle: "Ghar Aap Ka Aye Fatima Har Ghar Se Bara Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ghar aap ka aye Fatima har ghar se bara hai
+  Parwan wafaon ka Khuda iss mein charha hai
+
+  1
+  Dill bhi mera Qamar-e-Bani Hashim ki zameen hai
+  Ghazi ki ataon ka alam iss mein gara hai
+  Falak-e-Bano Hashim pe sitaron ka hai jhurmat
+  Haider ka pisar chand bana iss mein khara hai
+
+  2
+  Qudrat ke ajaib ki angothi ko zara dekh
+  Abbas nageene ki tarha iss mein jara hai
+  Hai dushman-e-Haider pe tabara hi har ghari
+  Yeh kaam tu Kashif teri ghati mein para hai
 ---
 
-Ghar Aap Ka Aye Fatima Har Ghar Se Bara Hai.
-Parwan Wafaon Ka Khuda Iss Mein Charha Hai.
+گھر آپ کا اے فاطمہ ہر گھر سے بڑا ہے
+پروان وفاؤں کا خدا اس میں چڑھا ہے
 
-1
-Dill Bhi Mera Qamar-e-Bani Hashim Ki Zameen Hai.
-Ghazi Ki Ataon Ka Alam Iss Mein Gara Hai.
-Falak-e-Bano Hashim Pe Sitaron Ka Hai Jhurmat.
-Haider Ka Pisar Chand Bana Iss Mein Khara Hai.
+۱
+دل بھی میرا قمرِ بنی ہاشم کی زمین ہے
+غازی کی عطاؤں کا علم اس میں گڑا ہے
+فلکِ بنو ہاشم پہ ستاروں کا ہے جھرمٹ
+حیدر کا پسر چاند بنا اس میں کھڑا ہے
 
-2
-Qudrat ke Ajaib Ki Angothi Ko Zara Dekh.
-Abbas Nageene Ki Tarha Iss Mein Jara Hai.
-Hai Dushman-e-Haider Pe Tabara Hi Har Ghari.
-Yeh Kaam Tu Kashif Teri Ghati Mein Para Hai.
+۲
+قدرت کے عجائب کی انگوٹھی کو ذرا دیکھ
+عباس نگینے کی طرح اس میں جڑا ہے
+ہے دشمنِ حیدر پہ تبرّا ہی ہر گھڑی
+یہ کام تو کاشف تیری گھٹی میں پڑا ہے

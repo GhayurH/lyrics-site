@@ -1,7 +1,7 @@
 ---
 title: "میں چل بھی نہیں سکتا قیدی ہوں میں اماں"
 recitationId: "mai-chal-bhi-nahi"
-alternateTitle: "Maiṅ Chal Bhi Nahiṅ"
+alternateTitle: "Main Chal Bhi Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,23 +14,23 @@ published: true
 romanLyrics: |-
   Haaye Sajjad, haaye bimaar
 
-  Maiṅ chal bhi nahiṅ sakta qaidi huṅ maiṅ ammaṅ
+  Main chal bhi nahiṅ sakta qaidi huṅ main ammaṅ
 
   Baazaar-e-Shaam jab aaya Sajjad ka dil ghabraaya
   Ro ro ke phuphi se apni bimaar ne ye farmaaya
 
   Aankhoṅ se lahu meri ek pal bhi nahiṅ rukta
-  Maiṅ chal bhi nahiṅ sakta qaidi huṅ maiṅ ammaṅ
+  Main chal bhi nahiṅ sakta qaidi huṅ main ammaṅ
 
   1
   Ye khuṅ jo bahta hai is aankh ka maatam hai
-  Mujhe tauq aur beri ke gham se bhi sawa gham hai
-  Maaṅ bahneṅ phuphi aayi baazaar meiṅ beparda
+  Mujhe tauq aur beri ke gham se bhi savaa gham hai
+  Maaṅ bahneṅ phuphi aayi baazaar mein beparda
 
   2
   Bas mere kaleje pe us waqt qaza utri
   Naamus-e-Muhammad ki jis waqt rida utri
-  Baazaar meiṅ aaya hai zindaaṅ ye mera laasha
+  Baazaar mein aaya hai zindaaṅ ye mera laasha
 
   3
   Tathir ke parda daar ummat ne phiraaye haiṅ
@@ -45,7 +45,7 @@ romanLyrics: |-
   5
   Laachaar bahan meri sahme hue rahti thi
   Maasum Sakina ye har mor pe kahti thi
-  Kya dafn hue hoṅge Karbal meiṅ mere baba
+  Kya dafn hue hoṅge Karbal mein mere baba
 
   6
   Abbas ko mahshar tak ye dard rulaaye ga
@@ -54,13 +54,13 @@ romanLyrics: |-
 
   7
   Akbar ka hasiṅ chehra jo dekhte rahte haiṅ
-  Sab kufiyoṅ shaami bhi ro ro ke ye kahte haiṅ
+  Sab Kufiyoṅ Shaami bhi ro ro ke ye kahte haiṅ
   Is husn ke paikar ki ab tak hai maaṅ zinda
 
   8
-  Maaṅ bahneṅ khule sar hai raahoṅ meiṅ tamaashaai
+  Maaṅ bahneṅ khule sar hai raahoṅ mein tamaashaai
   Aulaad-e-Muhammad ko taqdir kahaaṅ laayi
-  Paaband-e-salaasil huṅ kaaṅtoṅ se bhara rasta
+  Paaband-e-salaasil huṅ kaantoṅ se bhara rasta
 
   9
   Tera hi qalam maula teri hi zabaaṅ maula

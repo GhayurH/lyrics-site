@@ -19,8 +19,8 @@ romanLyrics: |-
   Har jaanib hai khaas o aam
   Zainab aur bazaar-e-Shaam
   Bemaqna bechaadar haaye
-  Fatima Zehra ke gulbaar
-  Nauha tha Abid ke lab par
+  Faatima Zehra ke gul baar
+  Nauha tha Aabid ke lab par
   Haaye haaye Zainab haaye haaye Shaam
 
   1
@@ -29,7 +29,7 @@ romanLyrics: |-
   Aal-e-Rasul par ye kaisa maqam aaya
 
   2
-  Ghairat se sar jhukaaye saiyyidaaniyoṅ ko le kar
+  Ghairat se sar jhukaaye sayyidaaniyoṅ ko le kar
   Tauq-e-giraaṅ meiṅ jakra chautha Imam aaya
   Chaadar nahiṅ hai sar par bazaar-e-Shaam aaya
 
@@ -39,8 +39,8 @@ romanLyrics: |-
   Chaadar nahiṅ hai sar par bazaar-e-Shaam aaya
 
   4
-  Maaṅ bahneṅ sar khule haiṅ aur sar jhukaaye Abid
-  Ek imtehaan dene bazaar-e-Shaam aaya
+  Maaṅ bahneṅ sar khule haiṅ aur sar jhukaaye Aabid
+  Ik imtihaan dene bazaar-e-Shaam aaya
   Chaadar nahiṅ hai sar par bazaar-e-Shaam aaya
 
   5
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   7
   Qaisar ka nauha kehna aur Shadmaaṅ ka parhna
-  Bakhshish ke saaatoṅ meiṅ donoṅ ke kaam aaya
+  Bakhshish ke saa'atoṅ meiṅ donoṅ ke kaam aaya
   Chaadar nahiṅ hai sar par bazaar-e-Shaam aaya
 ---
 کوفے کی شہزادیاں شام کے بازار میں

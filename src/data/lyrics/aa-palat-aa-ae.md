@@ -13,12 +13,12 @@ aliases: ["Aa Palat Aa Ay"]
 published: true
 romanLyrics: |-
   Ghaib se aayi sada aa palat aa ae Husain
-  Tujhse raazi hai Khuda aa palat aa ae Husain
+  Tujh se raazi hai Khuda aa palat aa ae Husain
 
   1
   Asr-e-Ashur ka hangaam qayamat ka samaaṅ
-  Dhup meiṅ jalti hui ret se uthta hai dhuaaṅ
-  Bhuk aur pyaas ka maara hai har ek pir o jawaaṅ
+  Dhup meiṅ jalti hui rit se uthta hai dhuaaṅ
+  Bhuk aur pyaas ka maara hai har pir o jawaaṅ
   Shiddat-e-pyaas se hai tarakhti hui teri zabaaṅ
   Khushk hai tera gala aa palat aa ae Husain
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   Tu ne Islam ko Akbar ki jawani de di
   Thi jo nana ki nishani wo nishani de di
   Nafs imaan ko ashkoṅ ko rawani de di
-  Khatm jo ho na sakegi wo kahani de di
+  Khatm jo ho na sake gi wo kahani de di
   Naam uncha hai tera aa palat aa ae Husain
 
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
   Waqf ki apni zabaaṅ hamd o sana meiṅ tu ne
   Dar kiya apna fida raah-e-Khuda meiṅ tu ne
   Zulm kya kya na sahe Karbobala meiṅ tu ne
-  Kar diya waada wafa aa palat aa ae Husain
+  Kar diya waada-e-wafa aa palat aa ae Husain
 
   6
   Ho gaya qatl har ek naasir o yaawar tera
@@ -58,10 +58,10 @@ romanLyrics: |-
   Tu akela hai khara aa palat aa ae Husain
 
   7
-  Aa mere paas Muhammad ke nawase aaja
-  Ae mere tin shab o roz ke pyase aaja
-  Jaanib-e-arsh-e-bariṅ Karbobala se aaja
-  Ab to milne ke liye apne Khuda se aaja
+  Aa mere paas Muhammad ke nawaase aa ja
+  Ae mere tin shab o roz ke pyaase aa ja
+  Jaanib-e-arsh-e-bariṅ Karbobala se aa ja
+  Ab to milne ke liye apne Khuda se aa ja
   Mera sab kuch hai tera aa palat aa ae Husain
 
   8

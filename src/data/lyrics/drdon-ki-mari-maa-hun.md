@@ -7,6 +7,42 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aa jaao ae Sakina, tujhe luri main sunaaun
+  Dukhiyaari teri maaṅ huṅ
+
+  1
+  Tire baaba to nahiṅ haiṅ, sine pe main sulaaun
+
+  2
+  Tujhe khauf ye bahut hai, kahiṅ Shimr aa na jaae
+  Phir se na zulm dhaae
+  Aaghosh mein chhupa kar, tera khauf main mitaaun
+
+  3
+  Daroṅ se jism zakhmi, kaanoṅ se khuṅ hai jaari
+  Ro ro ke shab guzaari
+  Naad-e-Ali suna ke, marham tujhe lagaaun
+
+  4
+  Rabal se taa ba Kufa, Kufe se taa ba zindaaṅ
+  Ae tishna lab pareshaaṅ
+  Meri jaaṅ tujhe pilaane, paani kahaaṅ se laaun
+
+  5
+  Teri siskiyoṅ se beta, dil dubne laga hai
+  Dam tutne laga hai
+  Asghar ko kho chuki huṅ, kahiṅ tujh ko kho na jaaun
+
+  6
+  Kiuṅ bolti nahiṅ ho, lab kholti nahiṅ ho
+  Naaraaz to nahiṅ ho
+  Meri jaan aaṅkheṅ kholo, baaba ko main bulaaun
+
+  7
+  Rizwaan haal-e-zindaaṅ, likkhuṅ nahiṅ hai aasaaṅ
+  Kehti thi muztarib maaṅ
+  Beti bata de kaise, teri qabr main banaaun
 ---
 
 آ جائو اے سکینہؑ، تجھے لُوری میں سناؤں

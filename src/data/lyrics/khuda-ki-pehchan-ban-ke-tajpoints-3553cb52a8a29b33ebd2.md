@@ -1,29 +1,48 @@
 ---
-title: "Khuda Ki Pehchan Ban Ke"
+title: "خدا کی پہچان بن کے"
+alternateTitle: "Khuda Ki Pehchan Ban Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khuda ki pehchan ban ke jab se mujhe taruf howa Hasan ka
+  Samajh mein aane laga hai tab se mujhe bhi kuch kuch Khuda Hasan ka
+  Batool-e-Azahara ki gaud mein woh nazool jab kar chuka Hasan ka
+  Ali ke honton se kam le kar Khuda ne bosa liya Hasan ka
+
+  2
+  Ali ke pehle hi wastay par Khuda ne sun li jo baat meri
+  Tu main ne agli dua ki khatir bana liya wasta Hasan ka
+  Abhi charagon ka silsila tu Janab-e-Mehdi talak chaley ga
+  Abhi tu Zahra ke ghar mein roshan howa hai pehla diya Hasan ka
+
+  3
+  Laqab badalney se Sham walo kabhi muqadar nahi badaltay
+  Faqeer khud ko ameer likh le na ho ga hum martaba Hasan ka
+  Yeh mera Jibreel-e-Fikar Akbar Maqam-e-Sidrah se kya barhey ga
+  Damag chota shaoor adna main kya likhon martaba Hasan ka
 ---
 
-1
-Khuda Ki Pehchan Ban Ke Jab Se Mujhe Taruf Howa Hasan Ka.
-Samajh Mein Aane Laga Hai Tab Se Mujhe Bhi Kuch Kuch Khuda Hasan Ka.
-Batool-e-Azahara Ki Gaud Mein Woh Nazool Jab Kar Chuka Hasan Ka.
-Ali Ke Honton Se Kam Le Kar Khuda Ne Bosa Liya Hasan Ka.
+۱
+خدا کی پہچان بن کے جب سے مجھے تعارف ہوا حسن کا
+سمجھ میں آنے لگا ہے تب سے مجھے بھی کچھ کچھ خدا حسن کا
+بتولِ الزہرا کی گود میں وہ نزول جب کر چکا حسن کا
+علی کے ہونٹوں سے کام لے کر خدا نے بوسہ لیا حسن کا
 
-2
-Ali Ke Pehle Hi Wastay Par Khuda Ne Sun Li Jo Baat Meri.
-Tu Main Ne Agli Dua Ki Khatir Bana Liya Wasta Hasan Ka.
-Abhi Charagon Ka Silsila Tu Janab-e-Mehdi Talak Chaley Ga.
-Abhi Tu Zahra Ke Ghar Mein Roshan Howa Hai Pehla Diya Hasan Ka.
+۲
+علی کے پہلے ہی واسطے پر خدا نے سن لی جو بات میری
+تو میں نے اگلی دعا کی خاطر بنا لیا واسطہ حسن کا
+ابھی چراغوں کا سلسلہ تو جنابِ مہدی تلک چلے گا
+ابھی تو زہرا کے گھر میں روشن ہوا ہے پہلا دیا حسن کا
 
-3
-Laqab Badalney Se Sham Walo Kabhi Muqadar Nahi Badaltay.
-Faqeer Khud Ko Ameer Likh Le Na Ho Ga Hum Martaba Hasan Ka.
-Yeh Mera Jibreel-e-Fikar Akbar Maqam-e-Sidrah Se Kya Barhey Ga.
-Damag Chota Shaoor Adna Main Kya Likhon Martaba Hasan Ka.
+۳
+لقب بدلنے سے شام والو کبھی مقدر نہیں بدلتے
+فقیر خود کو امیر لکھ لے نہ ہو گا ہم مرتبہ حسن کا
+یہ میرا جبرئیلِ فکر اکبر مقامِ سدرہ سے کیا بڑھے گا
+دماغ چھوٹا شعور ادنیٰ میں کیا لکھوں مرتبہ حسن کا

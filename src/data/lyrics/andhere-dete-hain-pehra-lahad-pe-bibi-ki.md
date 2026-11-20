@@ -8,51 +8,33 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Andheray detay hain pehra lahad pe bibi ki
-
-  Ujala aa nahi sakta lehad pe bibi ki
-
+romanLyrics: |-
+  Andhere dete haiṅ pehra lahad pe Bibi ki
+  Ujaala aa nahiṅ sakta lahad pe Bibi ki
 
   1
-
-  Hussain sham dhalay kehtay hon gay Akbar se
-
-  Chalo chalain meray beta lehad pe bibi ki
-
+  Husain shaam dhale kehte hoṅ ge Akbar se
+  Chalo chaleṅ mere beta lahad pe Bibi ki
 
   2
-
-  Jhukaye rakhan khabar dar apni nazron ko
-
-  Ke roz aati hain Zehra lehad pe bibi ki
-
+  Jhukaaye rakhna khabardaar apni nazroṅ ko
+  Ke roz aati haiṅ Zehra lahad pe Bibi ki
 
   3
-
-  Kaheen ye Hazrat e Abbas to nahi hain dil
-
-  Ye kon karta hay girya lehad pe bibi ki
-
+  Kahiṅ ye Hazrat-e-Abbaas to nahiṅ haiṅ dil
+  Ye kaun karta hai girya lahad pe Bibi ki
 
   4
-
-  Har aik sham ko shama jalanay aati hain
-
-  Janab e Zainab kubra lehad pe bibi ki
-
+  Har aik shaam ko shama jalaane aati haiṅ
+  Janaab-e-Zainab Kubra lahad pe Bibi ki
 
   5
-
-  Hay koi maa jo ye saydaniyon se kehti hay
-
-  Rida baghair na aana lehad pe bibi ki
-
+  Hai koi maaṅ jo ye saydaaniyon se kehti hai
+  Rida baghair naa aana lahad pe Bibi ki
 
   6
-
-  Khuda kary ga Takallum wo din bhi aaye ga
-
-  Parhon ga jaa ke ye noha lehad pe bibi ki'
+  Khuda kare ga Takallum wo din bhi aaye ga
+  Parhuṅ ga jaa ke ye nauha lahad pe Bibi ki
 ---
 
 اندھیرے دیتے ہیں پہرہ لحد پہ بی‌بی کی

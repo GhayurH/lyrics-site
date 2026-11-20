@@ -1,7 +1,7 @@
 ---
 title: "اے چاند محرم کے"
 recitationId: "aye-chand-muharram-kai"
-alternateTitle: "Ae Chand Muharram Kai"
+alternateTitle: "Ae Chaand Muharram Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,58 +16,58 @@ romanLyrics: |-
   Ghar ghar meiṅ maatam hai bapa, Ya Husain
   Aaya nazar jab maah-e-aza, ro ro ke azadaaroṅ ne kaha
 
-  Ae chand muharram kai, tu badli meiṅ chala jaa
-  Tujhe daikh ke mar jaye na, bimar hai Sughra
+  Ae chaand Muharram ke, tu badli meiṅ chala jaa
+  Tujhe dekh ke mar jaae na, bimaar hai Sughra
 
   1
-  Ghar Zahra ka lutne ki, khabar tu ne sunai
-  Tujhe dekh ke roti hai, muharram meiṅ khudai
-  Chauda sau baras bite haiṅ, sab karte haiṅ shikwa.
+  Ghar Zehra ka lutne ki khabar tu ne sunaai
+  Tujhe dekh ke roti hai Muharram meiṅ khudaai
+  Chaudah sau baras bite haiṅ, sab karte haiṅ shikwa
 
   2
-  Milne ke liye bhai, ko bechain bari hai
-  Kab se Ali Akbar ki ye, raahoṅ meiṅ khari hai
-  Bichri hai yeh muddat se, isse tu na nazar aa.
+  Milne ke liye bhaai, ko bechain bari hai
+  Kab se Ali Akbar ki, yeh raahoṅ meiṅ khari hai
+  Bichhri hai yeh muddat se, ise tu na nazar aa
 
   3
-  Viran gharoṅ meiṅ na, isse nind hai aati
-  Akbar ki judai hai, isse khun rulati
-  Qadmoṅ ke nishaṅ dhanp ke, bethi hai sar-e-raah.
+  Viraan gharoṅ meiṅ na ise nind hai aati
+  Akbar ki judaai hai ise khun rulaati
+  Qadmoṅ ke nishaaṅ dhaaṅp ke baithi hai sar-e-raah
 
   4
-  Gin gin ke jo Sughra ne, yeh din haiṅ guzare
-  Zinda hai tu Akbar ke, wadoṅ ke sahare
-  Din raat tarapti hai, isse aur na tarpa.
+  Gin gin ke jo Sughra ne yeh din haiṅ guzaare
+  Zinda hai to Akbar ke waadoṅ ke sahaare
+  Din raat tarapti hai ise aur na tarpa
 
   5
-  Bhayya ki judai meiṅ, pareshan hai rehti
-  Har roz yeh nana ko, ro ro ke hai kehti
-  Akbar na mila nana, maiṅ mar jaaungi tanha.
+  Bhayya ki judaai meiṅ pareshaan hai rehti
+  Har roz yeh naana ko ro ro ke hai kehti
+  Akbar na mila naana main mar jaauṅ gi tanha
 
   6
-  Qasid ko diya khat meiṅ, yeh paigham likhaa ke
-  Ik bar tu miljaa mujhe, sine se laga ke
-  Pathraati huwi nazreiṅ, kab dekheingi chehra.
+  Qaasid ko diya khat meiṅ yeh paighaam likha ke
+  Ik baar tu mil jaa mujhe sine se laga le
+  Pathraati hui nazareṅ kab dekheṅ gi chehra
 
   7
-  Waadaa jo kiya behan ko, sine se laga ke
-  Maiṅ shadi karoṅ ga to, tere paas hi aa ke
-  Maiṅ saat muharram ko, lautunga na ghabra.
+  Waada jo kiya behan ko sine se laga ke
+  Main shaadi karuṅ ga to tere paas hi aa ke
+  Main saat Muharram ko lautuṅ ga na ghabra
 
   8
-  Rone nahi dete mujhe, ratoṅ ko musalmaaṅ
-  Bemari se behaal huṅ, kuch roz ki mehmaaṅ
-  Har simt se hai mujh ko, ab maut ne ghaira.
+  Rone nahiṅ dete mujhe raatoṅ ko musalmaaṅ
+  Bimaari se behaal huṅ kuchh roz ki mehmaaṅ
+  Har simt se hai mujh ko ab maut ne ghera
 
   9
-  Behnoṅ ka to bhaiyoṅ se, rishta hi ajab hai
-  Tum bhul gaye mujhko, yeh kaisa ghazab hai
-  Iss aas pe zinda huṅ, dekhuṅ tera sehra.
+  Behnoṅ ka to bhaaiyoṅ se rishta hi ajab hai
+  Tum bhul gaye mujh ko yeh kaisa ghazab hai
+  Is aas par zinda huṅ dekhuṅ tera sehra
 
   10
-  Sughra ke nasiboṅ meiṅ, rona hi likha hai
-  :sardar: masuma ko, mili kaisi saza hai
-  Khat aaya na akbar ka, roti rahi Sughra.
+  Sughra ke nasiboṅ meiṅ rona hi likha hai
+  Sardar maasuma ko mili kaisi saza hai
+  Khat aaya na Akbar ka roti rahi Sughra
 ---
 
 سوگ میں ڈوبی ساری فضا، یا حسین

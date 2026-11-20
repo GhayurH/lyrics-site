@@ -1,56 +1,102 @@
 ---
-title: "Deen Hain Deen Ki Baqa Hain Hussain Zakir Bilawal Ali Hussaini"
+title: "دین ہیں دین کی بقا ہیں حسین ذاکر بلاول علی حسینی"
+alternateTitle: "Deen Hain Deen Ki Baqa Hain Hussain Zakir Bilawal Ali Hussaini"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Abbas"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Deen hain deen ki baqa hain Hussain Zakir Bilawal Ali Hussaini
+  Fatah-e-shah-e-Karbala hain Hussain
+
+  1
+  Deen hain deen ki baqa hain Hussain
+  Bint-e-Ahmad ke dil ka chain hai yeh
+  Mursal-e-haq ka noor-e-ain hai yeh
+  Dilbar e jan-e-Murtaza hain Hussain
+
+  2
+  Zikar jis ka jahan mein har so hai
+  Sare aalam mein jis ki khushbo hai
+  Woh gul-e-bag-e-Fatima hain Hussain
+  Khuld kya hai Hussain ka sadqa
+
+  3
+  Jis ki deta gawahi hai Kaba
+  Apni bakhshish ka rasta hain Hussain
+  Ism jis ka hai ta abad zindah
+  Khatam woh hashar tak nahi hoga
+
+  4
+  Misal e Quran mojza hain Hussain
+  Jis ka gham dard ke liye hai dawa
+  Jis ke matam se pa rahe hain shifa
+  Dukh ke maron ka aasra hain Hussain
+
+  5
+  Rooz-e-Ashor woh tah-e-khanjar
+  Bola sajdah zameen-e-Karbal par
+  Har ibadat ki inteha hain Hussain
+  Khon jis ka yeh rang le aaya
+
+  6
+  Jis ne tauheed ko bacha dala
+  Haan woh hi rooh-e-Mustafa hain Hussain
+  Karta aayat ki woh tilawat hai
+  Nook-e-naiza pe kya khatabat hai
+
+  7
+  Kaisay samjhay keh koi kya hain Hussain
+  Kyun na Abbas ho jahan hairaan
+  Rasta unn ka ho gaya aasaan
+  Jis ke rehbar hain paishwa hain Hussain
 ---
 
-Deen Hain Deen Ki Baqa Hain Hussain Zakir Bilawal Ali Hussaini.
-Fatah-e-Shah-e-Karbala Hain Hussain.
+دین ہیں دین کی بقا ہیں حسین ذاکر بلاول علی حسینی
+فتحِ شاہِ کربلا ہیں حسین
 
-1
-Deen Hain Deen Ki Baqa Hain Hussain.
-Bint-e-Ahmad Ke Dil Ka Chain Hai Yeh.
-Mursal-e-Haq Ka Noor-e-Ain Hai Yeh.
-Dilbar e Jan-e-Murtaza Hain Hussain.
+۱
+دین ہیں دین کی بقا ہیں حسین
+بنتِ احمد کے دل کا چین ہے یہ
+مرسلِ حق کا نورِ عین ہے یہ
+دلبرِ جانِ مرتضیٰ ہیں حسین
 
-2
-Zikar Jis Ka Jahan Mein Har So Hai.
-Sare Aalam Mein Jis Ki Khushbo Hai.
-Woh Gul-e-Bag-e-Fatima Hain Hussain.
-Khuld Kya Hai Hussain Ka Sadqa.
+۲
+ذکر جس کا جہاں میں ہر سو ہے
+سارے عالم میں جس کی خوشبو ہے
+وہ گلِ باغِ فاطمہ ہیں حسین
+خلد کیا ہے حسین کا صدقہ
 
-3
-Jis Ki Deta Gawahi Hai Kaba.
-Apni Bakhshish Ka Rasta Hain Hussain.
-Ism Jis Ka Hai Ta Abad Zindah.
-Khatam Woh Hashar Tak Nahi Hoga.
+۳
+جس کی دیتا گواہی ہے کعبہ
+اپنی بخشش کا راستہ ہیں حسین
+اسم جس کا ہے تا ابد زندہ
+ختم وہ حشر تک نہیں ہوگا
 
-4
-Misal e Quran Mojza Hain Hussain.
-Jis Ka Gham Dard Ke Liye Hai Dawa.
-Jis Ke Matam Se Pa Rahe Hain Shifa.
-Dukh Ke Maron Ka Aasra Hain Hussain.
+۴
+مثالِ قرآن معجزہ ہیں حسین
+جس کا غم درد کے لیے ہے دوا
+جس کے ماتم سے پا رہے ہیں شفا
+دکھ کے ماروں کا آسرا ہیں حسین
 
-5
-Rooz-e-Ashor Woh Tah-e-Khanjar.
-Bola Sajdah Zameen-e-Karbal Par.
-Har Ibadat Ki Inteha Hain Hussain.
-Khon Jis Ka Yeh Rang Le Aaya.
+۵
+روزِ عاشور وہ تہِ خنجر
+بولا سجدہ زمینِ کربل پر
+ہر عبادت کی انتہا ہیں حسین
+خون جس کا یہ رنگ لے آیا
 
-6
-Jis Ne Tauheed Ko Bacha Dala.
-Haan Woh Hi Rooh-e-Mustafa Hain Hussain.
-Karta Aayat Ki Woh Tilawat Hai.
-Nook-e-Naiza Pe Kya Khatabat Hai.
+۶
+جس نے توحید کو بچا ڈالا
+ہاں وہ ہی روحِ مصطفیٰ ہیں حسین
+کرتا آیت کی وہ تلاوت ہے
+نوکِ نیزہ پہ کیا خطابت ہے
 
-7
-Kaisay Samjhay Keh Koi Kya Hain Hussain.
-Kyun Na Abbas Ho Jahan Hairaan.
-Rasta Unn Ka Ho Gaya Aasaan.
-Jis Ke Rehbar Hain Paishwa Hain Hussain.
+۷
+کیسے سمجھے کہ کوئی کیا ہیں حسین
+کیوں نہ عباس ہو جہاں حیراں
+راستہ ان کا ہو گیا آساں
+جس کے رہبر ہیں پیشوا ہیں حسین

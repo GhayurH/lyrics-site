@@ -10,39 +10,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aap kab aayenge Ahmed Raza Nasiri
-  Muntazir aap ke tanha mar jaein gay
-  Aap kab aaein gaye, aap kab aaein gay
-  Main ne dekhein hain dil gham se phattay hoye
-  Loag dewar-o-dar se lipattay hoye
-  Kya yeh din rotay rotay guzar jaein gay
-  Keh utha lamha lamha manajat ka
-  Bojh uthta nahi hijar ki raat ka
-  Rah taktay hoye hum tu mar jaein gay
-  Cheekhtay cheekhtay dam nikalne laga
-  Chand umeed ka phir se dhalney laga
-  Dard tanhai ka hum na seh paein gay
-  Hum gareebon ki kuch tu khabar lijiye
-  Ya Imam-e-Zamana madad kijiye
-  Hum bhala kab talak thokarein khaein gay
-  Khon koi bahata hai masoom ka
-  Katta hai gala koi mazloom ka
-  Zulm zaday humein kitna tarpaein gay
-  Bheriye shakal-e-insaan mein aazad hain
-  Shehar aabad ho ke bhi barbad hain
-  Aap kab gham se hum sab ko churwaein gay
-  Khuwab aankhon mein ab koi hota nahi
-  Chain ki neend ab koi sota nahi
-  Sar dar-o-baam se kitna takraein gay
-  Marsiya al-ajal ka sunatay hoye
-  Yeh sadi ro pari gham uthatay hoye
-  Aankh mein ashk-e-gham khushk ho jaein gay
-  Zarrah zarrah tarasta hai insaf ko
-  Adal hi gar zamane se napaid ho
-  Yeh zameen aasmaan tu bikhar jaein gay
-  Dil ko mere sakoon kaisay aaye Nadeem
-  Gaib mein mera Maula hai main hoon yateem
-  Ahl-e-dunya mujhe sirf tarpaein gay
+  Aap kab aaeṅ ge Ahmed Raza Nasiri
+  Muntazir aap ke tanha mar jaaeṅ ge
+  Aap kab aaeṅ ge, aap kab aaeṅ ge
+  Main ne dekheṅ haiṅ dil gham se phatte hue
+  Log diwaar o dar se lipatte hue
+  Kya yeh din rote rote guzar jaaeṅ ge
+  Keh utha lamha lamha munaajaat ka
+  Bojh uthta nahiṅ hijr ki raat ka
+  Raah takte hue hum to mar jaaeṅ ge
+  Chikhte chikhte dam nikalne laga
+  Chaand ummid ka phir se dhalne laga
+  Dard tanhaai ka hum na seh paaeṅ ge
+  Hum ghariboṅ ki kuchh to khabar lijiye
+  Ya Imaam-e-Zamaana madad kijiye
+  Hum bhala kab talak thokareṅ khaaeṅ ge
+  Khun koi bahaata hai maasum ka
+  Kaatta hai gala koi mazlum ka
+  Zulm zaade hameṅ kitna tarpaaeṅ ge
+  Bheriye shakl-e-insaan mein aazaad haiṅ
+  Shehr aabaad ho ke bhi barbaad haiṅ
+  Aap kab gham se hum sab ko chhurwaaeṅ ge
+  Khwaab aaṅkhoṅ mein ab koi hota nahiṅ
+  Chain ki nind ab koi sota nahiṅ
+  Sar dar o baam se kitna takraaeṅ ge
+  Marsiya al-ajal ka sunaate hue
+  Yeh sadi ro pari gham uthaate hue
+  Aaṅkh mein ashk-e-gham khushk ho jaaeṅ ge
+  Zarra zarra tarasta hai insaaf ko
+  Adl hi gar zamaane se naapaid ho
+  Yeh zamin aasmaan to bikhar jaaeṅ ge
+  Dil ko mere sukun kaise aae Nadeem
+  Ghaib mein mera Maula hai main huṅ yatim
+  Ahl-e-dunya mujhe sirf tarpaaeṅ ge
 ---
 
 ۱

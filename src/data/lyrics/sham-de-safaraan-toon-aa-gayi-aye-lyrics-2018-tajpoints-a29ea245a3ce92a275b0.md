@@ -1,29 +1,48 @@
 ---
-title: "Sham De Safaraan Toon Aa Gayi Aye Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "شام دے سفراں توں آ گئی اے"
+alternateTitle: "Sham De Safaraan Toon Aa Gayi Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sham de safaraan toon aa gayi aye Sakina te dadi wang zaeefi
+  Jhuk kamar gayi aye muk nazar gayi aye jadoon bheer bazari wekhi
+  Hajay peshi koi dekhi nayi haye sain ne dadi wangon
+  Chadar di thaan te reh gayi si sir te walaan di sirf safaidi
+
+  2
+  Jay piyo honda te aakhdi aye zindan di qeemat deway
+  Jiwein qabraan de layi jageer ik pehle Akbar de naam khareedi
+  Ik saal Sakina naal rayi ban gayi gardan da hissa
+  Wich qabar sawa ke Abid aye roway nayi khuldi gal chon rasi
+
+  3
+  Shabir di pak rizawaan san Zainab di pak rizawaan
+  Te kamsin Zainab di oh marzi jo Abid veer di marzi
+  Mang ajar sain Sakina toon Akbar toon qabar de kitay
+  Ik qabristan oh jithe hoan musafir ya fair zindan di miti
 ---
 
-1
-Sham De Safaraan Toon Aa Gayi Aye Sakina Te Dadi Wang Zaeefi.
-Jhuk Kamar Gayi Aye Muk Nazar Gayi Aye Jadoon Bheer Bazari Wekhi.
-Hajay Peshi Koi Dekhi Nayi Haye Sain Ne Dadi Wangon.
-Chadar Di Thaan Te Reh Gayi Si Sir Te Walaan Di Sirf Safaidi.
+۱
+شام دے سفراں توں آ گئی اے سکینہ تے دادی وانگ ضعیفی
+جھک کمر گئی اے مک نظر گئی اے جدوں بھیڑ بازاری ویکھی
+ہجے پیشی کوئی دیکھی نئیں ہائے سائیں نے دادی وانگوں
+چادر دی تھاں تے رہ گئی سی سر تے والاں دی صرف سفیدی
 
-2
-Jay Piyo Honda Te Aakhdi Aye Zindan Di Qeemat Deway.
-Jiwein Qabraan De Layi Jageer Ik Pehle Akbar De Naam Khareedi.
-Ik Saal Sakina Naal Rayi Ban Gayi Gardan Da Hissa.
-Wich Qabar Sawa Ke Abid Aye Roway Nayi Khuldi Gal Chon Rasi.
+۲
+جے پیو ہوندا تے آکھدی اے زنداں دی قیمت دیوے
+جیویں قبراں دے لئی جاگیر اک پہلے اکبر دے نام خریدی
+اک سال سکینہ نال رہی بن گئی گردن دا حصہ
+وچ قبر سوا کے عابد اے رووے نئیں کھلدی گل چوں رسی
 
-3
-Shabir Di Pak Rizawaan San Zainab Di Pak Rizawaan.
-Te Kamsin Zainab Di Oh Marzi Jo Abid Veer Di Marzi.
-Mang Ajar Sain Sakina Toon Akbar Toon Qabar De Kitay.
-Ik Qabristan Oh Jithe Hoan Musafir Ya Fair Zindan Di Miti.
+۳
+شبیر دی پاک رضاواں سن زینب دی پاک رضاواں
+تے کم سن زینب دی اوہ مرضی جو عابد ویر دی مرضی
+منگ اجر سائیں سکینہ توں اکبر توں قبر دے کِتّے
+اک قبرستان اوہ جتھے ہون مسافر یا فیر زنداں دی مٹی

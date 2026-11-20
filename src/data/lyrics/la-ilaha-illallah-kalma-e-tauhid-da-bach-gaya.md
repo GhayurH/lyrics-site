@@ -7,6 +7,38 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  La ilaha illallah, la ilaha illallah
+
+  1
+  Kalma-e-tauhid da bach gaya hai
+  Menda kujh naiṅ bachiya Karbala
+  Thi inj Qasim pamaal gaya
+  Rul ret ch Hasan da laal gaya
+  Maiṅ dhund riyaaṅ vich maqtal de
+  Mera sehriaṅ wala kinj gaya
+
+  2
+  Teri maaṅ pai puchhdi hai das mekuṅ
+  Mera gaaniaṅ wala kath gaya
+
+  3
+  Aa naana vekh Madine chuṅ
+  Hunr puttar jawaan de sine tuṅ
+  Maiṅ phal barchhi da chhakan laga
+  Kand kar gaye saare anbiya
+
+  4
+  Tera din te naana bach gaya hai
+  Menda kujh naiṅ bachiya Karbala
+  Ghin kull tarka maidaan aaya
+  Cha ke naatiq Quran aaya
+  Maasum Ali Asghar mangda piya
+  Par hik guth paanri na mila
+
+  5
+  Vagde piya hai dariya saara
+  Par hik guth paanri na mila
 ---
 
 لا الہ الاللہ، لا الہ الاللہ

@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baatil ka dam ghut'ta hai
-  Ye jab bhi kahiṅ uth'ta hai
-  Alam ghazi ka alam ghazi ka
-  Ejaaz-e-atash dikhlata hai
-  Mafhume ata samjhata hai
-  Ek mashk liye ye aata hai
-  Aur abre karam barsata hai
+  Baatil ka dam ghutta hai
+  Ye jab bhi kahiṅ uthta hai
+  Alam Ghazi ka alam Ghazi ka
+  Ejaaz-e-atash dikhlaata hai
+  Mafhum-e-ata samjhaata hai
+  Ik mashk liye ye aata hai
+  Aur abr-e-karam barsaata hai
   Jab lutf o karam karta hai
   Har jholi ko bharta hai
-  Alam ghazi ka...
+  Alam Ghazi ka...
   Roshan hai charaagh-e-haq jis se
-  Wo iske pharere ki hai hawa
-  Abbas se nisbat hai isko
-  Har sar pe isi ke taaj-e-wafa
+  Wo is ke pharere ki hai hawa
+  Abbaas se nisbat hai is ko
+  Hai sar pe isi ke taaj-e-wafa
   Taufiq-e-aza deta hai
-  Paighame wafa deta hai
-  Alam ghazi ka...
-  Hairaan hai yusuf bhi jis par
-  Paayi ha jawani bhi aisi
-  Waliyoṅ ki tarha ye chalta hai
-  Khaamat hai farishtoṅ ki jaisi
-  Jab majlis meiṅ aata hai
-  Kaunain pe cha jaata hai
-  Alam ghazi ka...
+  Paighaam-e-wafa deta hai
+  Alam Ghazi ka...
+  Hairaan haiṅ Yusuf bhi jis par
+  Paayi hai jawaani bhi aisi
+  Waliyoṅ ki tarah ye chalta hai
+  Qaamat hai farishtoṅ ki jaisi
+  Jab majlis mein aata hai
+  Kaunain pe chha jaata hai
+  Alam Ghazi ka...
   Ghazi ne wafa ke jalwoṅ se
-  Is tarha sajaya hai ye alam
-  Taqrib-e-halaf bardari meiṅ
-  Waliyoṅ ne uthaya hai ye alam
-  Paymana-e-salaari hai
-  Minaar-e-wafadari hai
-  Alam ghazi ka...
-  Jo haazir hona chaahte hai
-  Darbar-e-imamat meiṅ dil se
-  Nazdik bulata hai unko
-  Panje se ishare kar kar ke
+  Is tarah sajaaya hai ye alam
+  Taqrib-e-halaf bardaari mein
+  Waliyoṅ ne uthaaya hai ye alam
+  Paimaana-e-saalaari hai
+  Minaar-e-wafaadaari hai
+  Alam Ghazi ka...
+  Jo haazir hona chaahte haiṅ
+  Darbaar-e-imaamat mein dil se
+  Nazdik bulaata hai un ko
+  Panje se ishaare kar kar ke
   Manzil ki khabar deta hai
-  Khud zaade safar deta hai
-  Alam ghazi ka...
+  Khud zaad-e-safar deta hai
+  Alam Ghazi ka...
   Jab waqt kara aa jaata hai
-  Shabbir ke ghamkharoṅ ke liye
-  Sheroṅ ki tarha se uthta hai
-  Maula ke azadaroṅ ke liye
+  Shabbir ke ghamkhwaaroṅ ke liye
+  Sheroṅ ki tarah se uthta hai
+  Maula ke azaadaaroṅ ke liye
   Aandhi se ulajh parta hai
-  Tufano se larta hai
-  Alam ghazi ka...
-  Tarikh gawahi deti hai
-  Koi saani nahi is parcham ka
-  Zinda hai agar binayi teri
+  Tufaanoṅ se larta hai
+  Alam Ghazi ka...
+  Taarikh gawaahi deti hai
+  Koi saani nahiṅ is parcham ka
+  Zinda hai agar binaayi teri
   Ae munkir ghaur se dekh zara
-  Sab jhande hogaye thande
-  Uncha hai khuda ke bande
-  Alam ghazi ka...
-  Allah re iska jaah o hasham
-  Chauda sau baras ka hai ye alam
-  Na ispe zaifi aayi hai
-  Na iski kamar meiṅ aaya hai kham
-  Azmat ka nishaṅ hai gohar
-  Sadiyoṅ se jawaaṅ hai gohar
-  Alam ghazi ka...
+  Sab jhande ho gaye thande
+  Uncha hai Khuda ke bande
+  Alam Ghazi ka...
+  Allah re is ka jaah o hasham
+  Chaudah sau baras ka hai ye alam
+  Na is pe zaifi aayi hai
+  Na is ki kamar mein aaya hai kham
+  Azmat ka nishaaṅ hai Gohar
+  Sadiyoṅ se jawaaṅ hai Gohar
+  Alam Ghazi ka...
 ---
 
 ۱

@@ -13,12 +13,12 @@ aliases: ["Khaak Par Neendh"]
 published: true
 romanLyrics: |-
   Khaak par nind nahiṅ aati Baba
-  Maiṅ zamiṅ par huṅ bahut garm hawa hai
+  Main zamiṅ par huṅ bahut garm hawa hai
 
   1
   Aap ka sina to tiroṅ se bhara hai Baba
   Aap ke sine pe tiroṅ ki rida hai Baba
-  Chain ek pal bhi nahiṅ paati Baba
+  Chain ak pal bhi nahiṅ paati Baba
 
   2
   Kya kahuṅ pyaas se hai kitni naqaahat Baba
@@ -26,27 +26,27 @@ romanLyrics: |-
   Kis tarah qalb ko behlaati Baba
 
   3
-  Dekhuṅ maidaaṅ meiṅ bikhre hue besar laashe
+  Dekhuṅ maidaaṅ mein bikhre hue be sar laashe
   Aur us par ye andhera ye sitam ke narghe
-  Warna hargiz na maiṅ ghabraati Baba
+  Warna hargiz na main ghabraati Baba
 
   4
   Ye to achchha hi hua saath nahiṅ thi Sughra
-  Jo sitam maiṅ ne sahe sah nahiṅ paati dukhiya
+  Jo sitam main ne sahe sah nahiṅ paati dukhiya
   Wo to is dard se mar jaati Baba
 
   5
   Aap ke sine pe aaraam se so jaati thi
-  Aap ki baahoṅ meiṅ hi nind mujhe aati thi
-  Ab to har saaṅs hai tarpaati Baba
+  Aap ki baahoṅ mein hi nind mujhe aati thi
+  Ab to har saans hai tarpaati Baba
 
   6
   Zindagi meri to ashkoṅ se ibaarat thahri
   Garm reti pe kahaaṅ soye dukhoṅ ki maari
-  Nind aisi meiṅ kahaaṅ aati Baba
+  Nind aisi mein kahaaṅ aati Baba
 
   7
-  Baba ye garm hawaaeṅ haiṅ sitam ka sehra
+  Baba ye garm hawaaeṅ haiṅ sitam ka sahra
   Maut ka chaaroṅ taraf sakht laga hai pehra
   Kaash ye maut hi aa jaati Baba
 

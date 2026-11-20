@@ -1,45 +1,80 @@
 ---
-title: "Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi"
+title: "علی کا جواب کوئی نہیں وجیہ حسن زیدی"
+alternateTitle: "Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sharar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi
+
+  1
+  Qasam Khuda ki Ali ka jawab koi nahi
+  Turab sab hain magar Buturab koi nahi
+  Kissi ko kam na samjhna Ali ki mehfil mein
+  Khiyal rakhna yahan par nawab koi nahi
+  Kaha farishton ne le jao iss ko janat mein
+  Ali hai dil mein tu iss ka hisab koi nahi
+
+  2
+  Hazaron rozay rakho hajj karo namaz parho
+  Bina Ali ke miley ga sawab koi nahi
+  Yeh bhok pyas mein bhi khushboein lotata hai
+  Gul-e-Rubab ke jaisa ghulab koi nahi
+  Ali ke bugz ne chehray se cheen li ronaq
+  Main kaisay maan loon tujh par azab koi nahi
+
+  3
+  Shujatein yeh pukarein Hussain ke baba
+  Sar-e-wiga bhi tera hum rakab koi nahi
+  Ali kaman ke oss paar hain shab-e-Mairaj
+  Tu phir Ali ke liye tu hijab koi nahi
+  Yeh do jahan se Khuda ki namaz kehti hai
+  Hussainiyon mein amal ka kharab koi nahi
+
+  4
+  Ali ke naam se khush ho rahe hain sab momin
+  Bata rahe hain nasab ka kharab koi nahi
+  Kaha yeh soli pe ja ke Ali ke Meesum ne
+  Sharab ishq-e-Ali si sharab koi nahi
+  Na ho karam jo Ali ka tu phir Sharar Naqvi
+  Hazoor koi nahi our janab koi nahi
 ---
 
-Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi.
+علی کا جواب کوئی نہیں وجیہ حسن زیدی
 
-1
-Qasam Khuda Ki Ali Ka Jawab Koi Nahi.
-Turab Sab Hain Magar Buturab Koi Nahi.
-Kissi Ko Kam Na Samjhna Ali Ki Mehfil Mein.
-Khiyal Rakhna Yahan Par Nawab Koi Nahi.
-Kaha Farishton Ne Le Jao Iss Ko Janat Mein.
-Ali Hai Dil Mein Tu Iss Ka Hisab Koi Nahi.
+۱
+قسم خدا کی علی کا جواب کوئی نہیں
+تراب سب ہیں مگر بوتراب کوئی نہیں
+کسی کو کم نہ سمجھنا علی کی محفل میں
+خیال رکھنا یہاں پر نواب کوئی نہیں
+کہا فرشتوں نے لے جاؤ اس کو جنت میں
+علی ہے دل میں تو اس کا حساب کوئی نہیں
 
-2
-Hazaron Rozay Rakho Hajj Karo Namaz Parho.
-Bina Ali Ke Miley Ga Sawab Koi Nahi.
-Yeh Bhok Pyas Mein Bhi Khushboein Lotata Hai.
-Gul-e-Rubab Ke Jaisa Ghulab Koi Nahi.
-Ali Ke Bugz Ne Chehray Se Cheen Li Ronaq.
-Main Kaisay Maan Loon Tujh Par Azab Koi Nahi.
+۲
+ہزاروں روزے رکھو حج کرو نماز پڑھو
+بنا علی کے ملے گا ثواب کوئی نہیں
+یہ بھوک پیاس میں بھی خوشبوئیں لوٹاتا ہے
+گلِ رباب کے جیسا گلاب کوئی نہیں
+علی کے بغض نے چہرے سے چھین لی رونق
+میں کیسے مان لوں تجھ پر عذاب کوئی نہیں
 
-3
-Shujatein Yeh Pukarein Hussain Ke Baba.
-Sar-e-Wiga Bhi Tera Hum Rakab Koi Nahi.
-Ali Kaman Ke Oss Paar Hain Shab-e-Mairaj.
-Tu Phir Ali Ke Liye Tu Hijab Koi Nahi.
-Yeh Do Jahan Se Khuda Ki Namaz Kehti Hai.
-Hussainiyon Mein Amal Ka Kharab Koi Nahi.
+۳
+شجاعتیں یہ پکاریں حسین کے بابا
+سرِ وغا بھی تیرا ہم رکاب کوئی نہیں
+علی کمان کے اُس پار ہیں شبِ معراج
+تو پھر علی کے لیے تو حجاب کوئی نہیں
+یہ دو جہاں سے خدا کی نماز کہتی ہے
+حسینیوں میں عمل کا خراب کوئی نہیں
 
-4
-Ali Ke Naam Se Khush Ho Rahe Hain Sab Momin.
-Bata Rahe Hain Nasab Ka Kharab Koi Nahi.
-Kaha Yeh Soli Pe Ja Ke Ali Ke Meesum Ne.
-Sharab Ishq-e-Ali Si Sharab Koi Nahi.
-Na Ho Karam Jo Ali Ka Tu Phir Sharar Naqvi.
-Hazoor Koi Nahi Our Janab Koi Nahi.
+۴
+علی کے نام سے خوش ہو رہے ہیں سب مومن
+بتا رہے ہیں نسب کا خراب کوئی نہیں
+کہا یہ سولی پہ جا کے علی کے میثم نے
+شرابِ عشقِ علی سی شراب کوئی نہیں
+نہ ہو کرم جو علی کا تو پھر شرر نقوی
+حضور کوئی نہیں اور جناب کوئی نہیں

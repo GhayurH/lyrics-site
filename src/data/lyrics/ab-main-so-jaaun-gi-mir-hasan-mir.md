@@ -38,7 +38,7 @@ romanLyrics: |-
   Pyaase hontoṅ se, sunaaeṅ ge jo Baba lori, ab main so jaauṅ gi
 
   5
-  Sar jhukaaye hue beaas khare haiṅ ammaṅ
+  Sar jhukaaye hue be aas khare haiṅ ammaṅ
   Karbala waale mere paas khare haiṅ ammaṅ
   Yahaaṅ Akbar wahaaṅ Abbas khare ammaṅ
   Aa gae sab main jinheṅ yaad kiya karti thi, ab main so jaauṅ gi
@@ -52,7 +52,7 @@ romanLyrics: |-
   7
   Phir nigaahoṅ mein meri tiroṅ bhara hai laasha
   Haath phailaae hue haiṅ khare mere pyaare Baba
-  Guṅjti hai wo Elahiya ya bunayya ki sada
+  Gunjti hai wo Elahiya ya bunayya ki sada
   Aaj aawaaz wohi aati hai maqtal waali, ab main so jaauṅ gi
 
   8

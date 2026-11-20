@@ -1,29 +1,48 @@
 ---
-title: "Mastoor Koi Jag Te Ainj Be Rida Na Howay Hasan Sadiq Lyrics Punjabi 2003"
+title: "مستور کوئی جگ تے اینج بے ردا نہ ہووے"
+alternateTitle: "Mastoor Koi Jag Te Ainj Be Rida Na Howay"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Riaz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mastoor koi jag te ainj be rida na howay Hasan Sadiq
+  Jiwein hoi aye Zainab koi ba Khuda na howay
+  Veraan di maut da haye koi jan bhaina kolon
+  Satar qadam da shala kul fasila na howay
+
+  2
+  Be kaif zindagi aye bekar bandagi aye
+  Aal-e-Nabi da jis wich koi tazkira na howay
+  Aoulad-e-Fatima di rayi bach ke aan main nokar
+  Fair lal mera Ghazi kyun bawafa na howay
+
+  3
+  Asghar da chola chum ke Bibi Rubab aakhay
+  Koi lal apni maa taun Ya Rab juda na howay
+  Shabeer taig thalay das gaye Riaz sab nu
+  Sir janda aye te jaway sajdah qaza na howay
 ---
 
-1
-Mastoor Koi Jag Te Ainj Be Rida Na Howay Hasan Sadiq.
-Jiwein Hoi Aye Zainab Koi Ba Khuda Na Howay.
-Veraan Di Maut Da Haye Koi Jan Bhaina Kolon.
-Satar Qadam Da Shala Kul Fasila Na Howay.
+۱
+مستور کوئی جگ تے اینج بے ردا نہ ہووے حسن صادق
+جیویں ہوئی اے زینب کوئی باخدا نہ ہووے
+ویراں دی موت دا ہائے کوئی جان بھیناں کولوں
+ستر قدم دا شالا کل فاصلہ نہ ہووے
 
-2
-Be Kaif Zindagi Aye Bekar Bandagi Aye.
-Aal-e-Nabi Da Jis Wich Koi Tazkira Na Howay.
-Aoulad-e-Fatima Di Rayi Bach Ke Aan Main Nokar.
-Fair Lal Mera Ghazi Kyun Bawafa Na Howay.
+۲
+بے کیف زندگی اے بیکار بندگی اے
+آلِ نبی دا جس وچ کوئی تذکرہ نہ ہووے
+اولادِ فاطمہ دی رئی بچ کے آں میں نوکر
+فیر لال میرا غازی کیوں باوفا نہ ہووے
 
-3
-Asghar Da Chola Chum Ke Bibi Rubab Aakhay.
-Koi Lal Apni Maa Taun Ya Rab Juda Na Howay.
-Shabeer Taig Thalay Das Gaye Riaz Sab Nu.
-Sir Janda Aye Te Jaway Sajdah Qaza Na Howay.
+۳
+اصغر دا چولا چم کے بی بی رباب آکھے
+کوئی لال اپنی ماں توں یا رب جدا نہ ہووے
+شبیر تیغ تھلے دس گئے ریاض سب نوں
+سر جاندا اے تے جاوے سجدہ قضا نہ ہووے

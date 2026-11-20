@@ -1,56 +1,101 @@
 ---
-title: "Tera Naam Hi Aisa Hai"
+title: "تیرا نام ہی ایسا ہے"
+alternateTitle: "Tera Naam Hi Aisa Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Aqeel"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Tera naam hi aisa hai
+  Kyun girta na sanbhle ga tera naam hi aisa hai
+
+  1
+  Aye shah-e-Najaf mola tera naam hi aisa hai
+  Khushbo-e-wila aati hai har dil-e-momin se
+  Our aag si lagti hai har dil mein munafiq ke
+  Kyun aisa na ho mola tera naam hi aisa hai
+
+  2
+  Yeh jism yeh jaan mola teri hi imanat hai
+  Tere naam pe marne ka inaam shahadat hai
+  Kyun jaan se na ho piyara tera naam hi aisa hai
+  Tere khalq mein aane se jab khush hai khudai bhi
+
+  3
+  Phir fart-e-musarat se dewaar bhi Kabay ki
+  Kyun cheer na le seena tera nam hi aisa hai
+  Milta hai sabaq hum ko yeh qaul-e-paiembar se
+  Koi bhi zamana ho shajray ko munafiq ke
+
+  4
+  Chupne hi nahi deta tera nam hi aisa hai
+  Mamnoon tera mola har dor-e-nabowat hai
+  Mairaj mein khaliq ko teri hi zarorat hai
+  Kyun aisa na ho mola tera nam hi aisa hai
+
+  5
+  Agyar ke naamo par khali hi palata hai
+  Kis naam pe milta hai sail bhi samajhta hai
+  Raziq hai faqeeron ka tera nam hi aisa hai
+  Atti hai sada koi jab nara-e-Haider ki
+
+  6
+  Guzri hain kayi sadiyaan turbat mein magar ab bhi
+  Dil hilta hai Marhab ka tera nam hi aisa hai
+  Dunya ko main dikhla doon gar teri ijazat ho
+  Tere naam ko main de doon gar wasta soraj ko
+
+  7
+  Wo aaj bhi palte ga tera nam hi aisa hai
+  Har dam yeh Aqeel aaqa tera zikar hi karta hai
+  Tere naam pe marta hai tere naam pe jeeta hai
+  Kaise na jiye aaqa tere nam hi aisa hai
 ---
 
-Tera Naam Hi Aisa Hai.
-Kyun Girta Na Sanbhle Ga Tera Naam Hi Aisa Hai.
+تیرا نام ہی ایسا ہے
+کیوں گرتا نہ سنبھلے گا تیرا نام ہی ایسا ہے
 
-1
-Aye Shah-e-Najaf Mola Tera Naam Hi Aisa Hai.
-Khushbo-e-Wila Aati Hai Har Dil-e-Momin Se.
-Our Aag Si Lagti Hai Har Dil Mein Munafiq Ke.
-Kyun Aisa Na Ho Mola Tera Naam Hi Aisa Hai.
+۱
+اے شاہِ نجف مولا تیرا نام ہی ایسا ہے
+خوشبوئے ولا آتی ہے ہر دلِ مومن سے
+اور آگ سی لگتی ہے ہر دل میں منافق کے
+کیوں ایسا نہ ہو مولا تیرا نام ہی ایسا ہے
 
-2
-Yeh Jism Yeh Jaan Mola Teri Hi Imanat Hai.
-Tere Naam Pe Marne Ka Inaam Shahadat Hai.
-Kyun Jaan Se Na Ho Piyara Tera Naam Hi Aisa Hai.
-Tere Khalq Mein Aane Se Jab Khush Hai khudai Bhi.
+۲
+یہ جسم یہ جان مولا تیری ہی امانت ہے
+تیرے نام پہ مرنے کا انعام شہادت ہے
+کیوں جان سے نہ ہو پیارا تیرا نام ہی ایسا ہے
+تیرے خلق میں آنے سے جب خوش ہے خدائی بھی
 
-3
-Phir Fart-e-Musarat Se Dewaar Bhi Kabay Ki.
-Kyun Cheer Na Le Seena Tera Nam Hi Aisa Hai.
-Milta Hai Sabaq Hum Ko Yeh Qaul-e-Paiembar Se.
-Koi Bhi Zamana Ho Shajray Ko Munafiq Ke.
+۳
+پھر فرطِ مسرت سے دیوار بھی کعبے کی
+کیوں چیر نہ لے سینہ تیرا نام ہی ایسا ہے
+ملتا ہے سبق ہم کو یہ قولِ پیمبر سے
+کوئی بھی زمانہ ہو شجرے کو منافق کے
 
-4
-Chupne Hi Nahi Deta Tera Nam Hi Aisa Hai.
-Mamnoon Tera Mola Har Dor-e-Nabowat Hai.
-Mairaj Mein Khaliq Ko Teri Hi Zarorat Hai.
-Kyun Aisa Na HO Mola Tera Nam Hi Aisa Hai.
+۴
+چھپنے ہی نہیں دیتا تیرا نام ہی ایسا ہے
+ممنون تیرا مولا ہر دورِ نبوت ہے
+معراج میں خالق کو تیری ہی ضرورت ہے
+کیوں ایسا نہ ہو مولا تیرا نام ہی ایسا ہے
 
-5
-Agyar Ke Naamo Par Khali Hi Palata Hai.
-Kis Naam Pe Milta Hai Sail Bhi Samajhta Hai.
-Raziq Hai Faqeeron Ka Tera Nam Hi Aisa Hai.
-Atti Hai Sada Koi Jab Nara-e-Haider Ki.
+۵
+اغیار کے ناموں پر خالی ہی پالاتا ہے
+کس نام پہ ملتا ہے سائل بھی سمجھتا ہے
+رازق ہے فقیروں کا تیرا نام ہی ایسا ہے
+آتی ہے صدا کوئی جب نعرۂ حیدر کی
 
-6
-Guzri Hain Kayi Sadiyaan Turbat Mein Magar Ab Bhi.
-Dil Hilta Hai Marhab Ka Tera Nam Hi Aisa Hai.
-Dunya Ko Main Dikhla Doon Gar Teri Ijazat Ho.
-Tere Naam Ko Main De Doon Gar Wasta Soraj Ko.
+۶
+گزری ہیں کئی صدیاں تربت میں مگر اب بھی
+دل ہلتا ہے مرحب کا تیرا نام ہی ایسا ہے
+دنیا کو میں دکھلا دوں گر تیری اجازت ہو
+تیرے نام کو میں دے دوں گر واسطہ سورج کو
 
-7
-Wo Aaj Bhi Palte Ga Tera Nam Hi Aisa Hai.
-Har Dam Yeh Aqeel Aaqa Tera Zikar Hi Karta Hai.
-Tere Naam Pe Marta Hai Tere Naam Pe Jeeta Hai.
-Kaise Na Jiye Aaqa Tere Nam Hi Aisa Hai.
+۷
+وہ آج بھی پلٹے گا تیرا نام ہی ایسا ہے
+ہر دم یہ عقیل آقا تیرا ذکر ہی کرتا ہے
+تیرے نام پہ مرتا ہے تیرے نام پہ جیتا ہے
+کیسے نہ جیے آقا تیرے نام ہی ایسا ہے

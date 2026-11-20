@@ -15,7 +15,7 @@ romanLyrics: |-
   Sada-e-maatam gali gali se
   Nagar nagar se jo aa rahi hai
   Suno tumheṅ Shah ke pursadaaroṅ
-  Sada-e-hal min bula rahi hai
+  Sada-e-hal man bula rahi hai
   Ya Husain ya Husain
 
   1
@@ -32,20 +32,20 @@ romanLyrics: |-
 
   3
   Pyaasoṅ ki ye sabileṅ Abbas ke alam
-  Taabut taaziye aur aaye sada-e-gham
+  Taabut taaziye aur aae sada-e-gham
   Ye aah o zaari ye pursadaari
   Zamaane bhar ko hila rahi hai
 
   4
-  Atfaal-e-Karbala ki tishna labi ka gham
-  Ek maatami ki maaṅ ko hai yaad dam ba dam
+  Atfaal-e-Kibriya ki tishna labi ka gham
+  Ik maatami ki maaṅ ko hai yaad dam ba dam
   Balaaeṅ le ke wo dekheṅ apne
   Pisar ko saqqa bana rahi hai
 
   5
-  Aezaaz juz hamare haasil hai ye kise
+  Aezaaz juz hamaare haasil hai ye kise
   Farsh-e-aza ke sadqe chaudah sau saal se
-  Hamaare ghar dukhtar-e-Payambar
+  Hamaare ghar dukhtar-e-Paimbar
   Bataur mehmaan aa rahi hai
 
   6
@@ -55,7 +55,7 @@ romanLyrics: |-
   Tamaam aalam pe chhaa rahi hai
 
   7
-  Dar Shah-e-Karbala ka har waqt hai khula
+  Dar-e-Shah-e-Karbala ka har waqt hai khula
   Darbaar-e-Panjatan hai ye masnad-e-aza
   Ke aasiyoṅ ko mukhaalifoṅ ko
   Ye aaj bhi Hur bana rahi hai
@@ -63,12 +63,12 @@ romanLyrics: |-
   8
   Ashk-e-aza ke darya aankhoṅ meiṅ maujizan
   Sar chashma ashk-e-gham ka hai ek bekafan
-  Karash ke gham ki hai kaat aisi
+  Ka rashk-e-gham ki hai raat aisi
   Ke zaalimoṅ ko sata rahi hai
 
   9
-  Kaise Hameed o Safdar maatam ki ye sada
-  Aiwaan zaalimoṅ ke sah paaeṅge bhala
+  Kaise Haamid o Safdar maatam ke ye sada
+  Aiwaan zaalimoṅ ke sah paaeṅ ge bhala
   Jo mujrimoṅ ke the rukh pe parde
   Sada-e-maatam hata rahi hai
 ---

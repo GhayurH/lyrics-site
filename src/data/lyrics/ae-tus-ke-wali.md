@@ -12,63 +12,63 @@ published: true
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Tu khud bhi Ali hai tera darbar bhi aali
-  Taqdir ka daman hai tere roze ki jaali
+  Tu khud bhi Ali hai tera darbaar bhi aali
+  Taqdir ka daaman hai tere roze ki jaali
 
   1
-  Kanoṅ meiṅ musalsal teri awaz-e-karam hai
+  Kaanoṅ meiṅ musalsal teri aawaaz-e-karam hai
   Jab tu hai mere saath to kis baat ka gham hai
   Dunya ka nasha karta nahiṅ tera mawali
 
   2
-  Anwar-e-do-alam haiṅ tere nur ka sadqa
+  Anwaar-e-do-aalam haiṅ tere nur ka sadqa
   Kehte haiṅ tujhe Shams-e-Shumus is liye Maula
   Tu ne hai bhari nur se suraj ki ye thaali
 
   3
-  Firdaus nagar apne muhibboṅ ko dikhaya
-  Kaabe na gaye phir bhi unheṅ Haji banaya
+  Firdaus nagar apne muhibboṅ ko dikhaaya
+  Kaabe na gaye phir bhi unheṅ Haji banaaya
   Roze pe tere aae magar Hajj ki jaza li
 
   4
-  Naubat ka mere dil se asar ja nahiṅ sakta
+  Naubat ka mere dil se asar jaa nahiṅ sakta
   Mujh par to bura waqt kabhi aa nahiṅ sakta
   Saansoṅ ki ghari Sehn-e-Shifa se hai mila li
 
   5
-  Har gyarhwiṅ Ziqad ko hota hai ye Maula
-  Masuma se hum maangte haiṅ aap ka sadqa
-  Eidi hameṅ phir deti haiṅ Masuma nirali
+  Har gyaarahwiṅ Ziqad ko hota hai ye Maula
+  Masuma se ham maangte haiṅ aap ka sadqa
+  Eidi hameṅ phir deti haiṅ Masuma niraali
 
   6
   Milta hai mujhe jab koi munkir tera aa kar
   Kehta huṅ maiṅ us se parho salawat Raza par
-  Leta huṅ yuṅ badla tere munkir se misali
+  Leta huṅ yuṅ badla tere munkir se misaali
 
   7
-  Maiṅ chahta kya huṅ ye Khuda puchh raha hai
-  Khud Katib-e-Taqdir Riza puchh raha hai
+  Maiṅ chaahta kya huṅ ye Khuda puchh raha hai
+  Khud Kaatib-e-Taqdir Riza puchh raha hai
   Is waqt mere haathoṅ meiṅ hai roze ki jaali
 
   8
   Ae paanchweṅ Shabbir tu beshir ke sadqe
-  Aaghosh meiṅ maaoṅ ki azadar pisar de
-  Jo jholiyaṅ haiṅ aaj tak aulad se khali
+  Aaghosh meiṅ maaoṅ ki azaadaar pisar de
+  Jo jholiyaṅ haiṅ aaj tak aulad se khaali
 
   9
-  Arbab-e-Khurasaaṅ ki kafalat meiṅ rahegi
-  Aahu ki tarah teri zamanat meiṅ rahegi
-  Maiṅ ne jo tere rizq pe aulad hai pali
+  Arbaab-e-Khurasaaṅ ki kafaalat meiṅ rahegi
+  Aahu ki tarah teri zamaanat meiṅ rahegi
+  Maiṅ ne jo tere rizq pe aulad hai paali
 
   10
-  Dadi ka teri wasta jab dete haiṅ zawwar
-  Daman teri khairat se bhar lete haiṅ zawwar
-  Khali to chale aate haiṅ jaate nahiṅ khali
+  Daadi ka teri waasta jab dete haiṅ zawwar
+  Daaman teri khairaat se bhar lete haiṅ zawwar
+  Khaali to chale aate haiṅ jaate nahiṅ khaali
 
   11
-  Iman hai Malik ye tere Mir Hasan ka
+  Imaan hai Maalik ye tere Mir Hasan ka
   Tum keh do to wo bhi kare murda abhi zinda
-  Ye us ka aqida hai nahiṅ kham khayali
+  Ye us ka aqida hai nahiṅ khaam khayaali
 ---
 تو خود بھی علی ہے تیرا دربار بھی عالی
 تقدیر کا دامن ہے تیرے روضے کی جالی

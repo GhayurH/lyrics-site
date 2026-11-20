@@ -13,12 +13,12 @@ aliases: ["Ay Momino Payame"]
 published: true
 romanLyrics: |-
   Le ga na jaane kitni ye karwateṅ zamaana
-  Chaahe har ek shai ko dunya ki bhul jaana
+  Chaahe har ek shai ko duniya ki bhul jaana
 
   1
   Ujra jo ek din meiṅ us ghar ko yaad rakhna
   Ae mominoṅ payaam-e-Sarwar ko yaad rakhna
-  Karbobala ke khuni manzar ko yaad rakhna
+  Karb o Balaa ke khuni manzar ko yaad rakhna
 
   2
   Aaghosh meiṅ tumhaari maasum koi aaye
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Aa jaaye jab kisi par taqdir se yatimi
-  Furqat meiṅ baap ki jab mar jaaye koi bacchi
+  Furqat meiṅ baap ki jab mar jaaye koi bachchi
   Aulaad waaloṅ meri dukhtar ko yaad rakhna
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   6
   Behnoṅ ko betiyoṅ ko jab bhi rida urhaana
   Hum bekasoṅ ko hargiz dil se nahiṅ bhulaana
-  Meri behan ke sar ki chadar ko yaad rakhna
+  Meri behan ke sar ki chaadar ko yaad rakhna
 
   7
   Betoṅ ko jo na royi qurbaan kar ke mujh par
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   8
   Aayeṅ kisi taraf se maatam ki jab sadaaeṅ
-  Ahl-e-aza ko Mehshar dena agar duaaeṅ
+  Ahl-e-azaa ko Mehshar dena agar duaaeṅ
   Gulzaar-e-Haidari ko Sarwar ko yaad rakhna
 ---
 

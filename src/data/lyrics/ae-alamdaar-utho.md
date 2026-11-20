@@ -43,7 +43,7 @@ romanLyrics: |-
   6
   Berida jaauṅ gi maiṅ Shaam ke baazaaroṅ meiṅ
   Pesh hona hai mujhe zulm ke darbaaroṅ meiṅ
-  Tu mere saath na jaa meri himmat to barha
+  Tu mere saath na jaana meri himmat to barha
 
   7
   Dasht meiṅ laashe tarapne lage haaye Gohar

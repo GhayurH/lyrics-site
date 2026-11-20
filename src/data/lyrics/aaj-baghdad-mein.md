@@ -16,49 +16,49 @@ romanLyrics: |-
   Ho gaya hai riha Raza Maula
 
   Pul pe tere gharib baba ka
-  Hai janaza rakha Raza Maula
+  Hai janaaza rakha Raza Maula
 
   1
   Ek Bibi sarhane baithi hai
-  Kisne jaane use khabar ki hai
-  Haath pehlu pe apne rakhe huwe
+  Kis ne jaane use khabar ki hai
+  Haath pehlu pe apne rakhe hue
   Aayi hai Fatema Raza Maula
 
   2
   Raat se pul pe laasha rakha hai
-  Jo guzarta hai ispe haṅsta hai
+  Jo guzarta hai is pe hansta hai
   Bebasi par tumhare baba ki
   Ro rahi hai qaza Raza Maula
 
   3
   Haal achhe nahiṅ hai mayyat ke
-  Aaja aijaz se imamat ke
+  Aaja ejaaz se imaamat ke
   Shehr-e-Baghdad se Madine ka
-  Hai bahot faasla Raza Maula
+  Hai bahut faasla Raza Maula
 
   4
-  Ek munadi nida ye deta hai
-  Raafziyoṅ ka maula maara gaya
+  Ik munaadi nida ye deta hai
+  Raafiziyoṅ ka maula maara gaya
   Aaj aulaad par Muhammad ki
   Waqt kya aa gaya Raza Maula
 
   5
   Kabhi daadi ko yaad karta tha
   Kabhi beti ko yaad karta tha
-  Waqt-e-aakhir tha uske hoṅtoṅ par
+  Waqt-e-aakhir tha us ke hontoṅ par
   Fatema Fatema Raza Maula
 
   6
-  Qaidkhane se pul talak isko
-  Chand mazdur leke aaye haiṅ
-  Aeriyoṅ ke nishan ghurbat ka
+  Qaid khaane se pul talak is ko
+  Chand mazdur le ke aaye haiṅ
+  Eriyoṅ ke nishaan ghurbat ka
   De rahe haiṅ pata Raza Maula
 
   7
   Tauq gardan ka paaoṅ ki beri
   Ye Takallum sadaaeṅ dete haiṅ
-  Inna lillah parh ke baba ka
-  Ab janaza utha Raza Maula
+  Inna lillaah parh ke baba ka
+  Ab janaaza utha Raza Maula
 ---
 
 آج بغداد میں کوئی قیدی

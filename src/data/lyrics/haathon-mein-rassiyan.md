@@ -21,18 +21,18 @@ romanLyrics: |-
   Abbas ka sinaaṅ par sar theharta nahiṅ hai
 
   2
-  Allah se ahad ko tu ne bhi hai nibhaana
-  In Shaamiyoṅ ke haathoṅ se us ka din bachaana
+  Allah se ahad ko tu ne bhi hai nibhaaya
+  In Shaamiyoṅ ke haathoṅ se us ka din bachaaya
   Tera hai aur kisi ka ye hausla nahiṅ hai
 
   3
   Mumkin agar hai Bibi kuchh aur sar jhuka le
-  Chaadar to ye na deṅge baaloṅ se muṅh chhupa le
+  Chaadar to ye na deṅ ge baaloṅ se muṅh chhupa le
   Koi sadaaeṅ sun le ye wo jagah nahiṅ hai
 
   4
   Parwardigaar tujh par nazreṅ jamaaye hoga
-  Qadmoṅ meiṅ tere apna taaba bichhaaye hoga
+  Qadmoṅ meiṅ tere apna taaba bichhaaya hoga
   Tujh sa siwaaye tere koi dusra nahiṅ hai
 
   5
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   9
   Abid ye paak Bibi hi hai Khuda ka parda
-  Mumkin nahiṅ hai is ko chashme na jis ne dekha
+  Mumkin nahiṅ hai is ko chashm na jis ne dekha
   Ye kya hai Rab hi jaane mujh ko pata nahiṅ hai
 ---
 ہاتھوں میں رسیاں ہیں سر پر ردا نہیں ہے

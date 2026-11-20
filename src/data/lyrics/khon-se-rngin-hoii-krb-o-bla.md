@@ -8,74 +8,74 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khoo se rangin hui Karb o bala
+  Khuṅ se rangin hui karb o bala
   Karbala aaj bhi hai karb o bala
 
   1
-  Wada tifli ka nibhane ko chale
-  Ummat-e-jad ko bachane ko chale
-  Pyas khanjar ki bujhane ko chale
-  Ho ga kuch dair may sar tan se juda
+  Waada tifli ka nibhaane ko chale
+  Ummat-e-jad ko bachaane ko chale
+  Pyaas khanjar ki bujhaane ko chale
+  Ho ga kuch der mein sar tan se juda, Karbala aaj bhi hai
 
   2
-  Nur ankhoṅ ka jo tha ruth gaya
+  Nur aankhoṅ ka jo tha ruth gaya
   Sehra Qasim ka tere tut gaya
-  Tera Abbas tujh se chut gaya
-  Tir shishmah e Mujahid pe chala
+  Tera Abbas tujh se chhut gaya
+  Tir shashmaahe mujaahid pe chala, Karbala aaj bhi hai
 
   3
   Baad-e-Shabbir ye kehta tha laiṅ
-  Ghar walo karna hai aaram nahi
-  Jang may foji bhi taktay haiṅ kahiṅ
-  Luto sadaat ko aur chino rida
+  Ghar waalo karna hai aaraam nahiṅ
+  Jang mein fauji bhi rukte haiṅ kahiṅ
+  Luto Saadaat ko aur chhino rida, Karbala aaj bhi hai
 
   4
-  Phatta tha seena jo kehti thi behen
-  Ae ghareebul watan ae tashna dehan
-  Qaid may jaati huṅ bandhwa ke rasan
-  Aaoṅ gi karne ab chehlum may tera
+  Phatta tha sina jo kehti thi behen
+  Ae gharib-ul-watan ae tashna dhan
+  Qaid mein jaati huṅ bandhwa ke rasan
+  Aauṅ gi karne ab chehlum mein tera, Karbala aaj bhi hai
 
   5
-  Aik rassi may bandhe bara gale
-  Hae ye zulam aur nazaoṅ ke pale
+  Ek rassi mein bandhe baarah gale
+  Haaye ye zulm aur naazoṅ ke pale
   Kis se shikwa kare nasib jali
-  Koi pardes may apna na raha
+  Koi pardes mein apna na raha, Karbala aaj bhi hai
 
   6
-  Aag khaimo me lagi kunba luta
-  Kurta nadan Sakina ka jala
-  Jhula shashmahe ka baqi na raha
-  Aage taqdir may kia kia hai likha
+  Aag khaimoṅ mein lagi kunba luta
+  Kurta naadaan Sakina ka jala
+  Jhula shashmaahe ka baaqi na raha
+  Aage taqdir mein kya kya hai likha, Karbala aaj bhi hai
 
   7
-  Kaise behlaye Sakina ko behan
+  Kaise behlaaye Sakina ko behen
   Raat din roti hai asir-e-mehan
-  Lash us ne bhi to dekhi bekafan
-  Aur tere dafan ka samaṅ na hua
+  Laash us ne bhi to dekhi bekafan
+  Aur tere dafn ka samaaṅ na hua, Karbala aaj bhi hai
 
   8
-  Khaimo may aaj koi baat nahi
-  Akbar o Qasim o Abbas nahi
-  Mujh ko ab bhuk nahi pyas nahi
-  Tu hai begor o kafan may berida
+  Apnoṅ mein aaj koi baat nahiṅ
+  Akbar o Qasim o Abbas nahiṅ
+  Mujh ko ab bhuk nahiṅ pyaas nahiṅ
+  Tu hai begor o kafan mein berida, Karbala aaj bhi hai
 
   9
-  Dekhoṅ kin anhkon se manzar ye akhi
-  Sar tera tasht may hai aur shaqi
-  Marta hai lab o dandoṅ par charri
-  Kash aa jati mujhe pehle qaza
+  Dekhuṅ kin aankhoṅ se manzar ye akhi
+  Sar tera tasht mein hai aur shaqi
+  Maarta hai lab o dandaaṅ par chhari
+  Kaash aa jaati mujhe pehle qaza, Karbala aaj bhi hai
 
   10
-  Maun ki goad may bache na rahe
+  Maaun ki god mein bachche na rahe
   Pusht se untoṅ ki gir gir ke mare
-  Ham jo roe to adu khub hanse
-  Murda bachoṅ ko uthane na dia
+  Ham jo roye to adu khub hanse
+  Murda bachchoṅ ko uthaane na diya, Karbala aaj bhi hai
 
   11
   Rote haiṅ jinn o malak aur bashar
-  Ankhaiṅ har ik ki haiṅ ashkoṅ se tar
-  Sun ke har aik ka phatta hai jigar
-  Noha Noshad ne kuch aisa likha
+  Aankheṅ har ek ki ashkoṅ se haiṅ tar
+  Sun ke har ek ka phatta hai jigar
+  Noha Naushaad ne kuch aisa likha, Karbala aaj bhi hai
 ---
 
 خوں سے رنگین ہوئی کرب و بلا

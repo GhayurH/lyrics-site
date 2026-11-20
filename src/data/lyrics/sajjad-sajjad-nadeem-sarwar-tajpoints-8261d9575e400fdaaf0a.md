@@ -1,65 +1,118 @@
 ---
-title: "Sajjad Sajjad Nadeem Sarwar"
+title: "سجاد سجاد ندیم سرور"
+alternateTitle: "Sajjad Sajjad Nadeem Sarwar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Khursheed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zindaan se Madine aa kar bhi Sajjad lahu rotay hi rahe
+  Maa Asghar ki soraj ke talay bethi rahi kitne din guzrey
+  Mukhtar ne ik din di yeh khabar yeh keh do madar-e-Asghar se
+
+  2
+  Mara gaya qatil Asghar ka ab dhop se shehzadi uthiye
+  Sajjad ne aa kar maa se kaha aye amma ab baitho na yahan
+  Ab thanda pani pe lo maa ab saye mein aao amma
+  Tu khoon rona jo chor de main saye mein aa jaon gi
+
+  3
+  Tu rat ronra jay chad dewin main v dhup nu chad jawaan gi
+  Sajjad zara insaf te kar aye hukam na de israr na kar
+  Ayho soch ke hai phat wainda jigar maida ujar gaya hai wasda ghar
+  Nit rowaan gi hunr dhup wich main wich dhup te e mar jawaan gi
+
+  4
+  Main takiya aye be goor-o-kafan dhup wich baba mazloom tera
+  Nayi dhup choon uth sakdi bachra dhup banr gayi aye maqsoom mera
+  Hinr jad tak sah wich sah mere wich dhup te soag manawaan gi
+  Mara gaya qatil Asghar ka Asghar tu nahi milney wala
+
+  5
+  Woh zakhmi galla jalta jhola nasoor hai mere seene ka
+  Tu dil ko pakarna chor de main saye mein aa jaon gi
+  Jo lash Hussain te kita main oh wadah toor nibharan aye
+  Majboor na kar maikon putar maida maikon saya raas na aanra aye
+
+  6
+  Muk janrey odoon sah mere jadon chawein putar main jawaan gi
+  Haiwaan ko bhi zibha hotey hoye tu dekh nahi sakta beta
+  Qassab zabehoon par apne tujhe dekh ke daltay hain pardah
+  Gash kha kar girna chor de main saye mein aa jaon gi
+
+  7
+  Nayi dhup choon uthi jay kar main tera v ronra nayi mukya
+  Aj taein putar Sajjad tera akhiyaan da panri nayi sukhiya
+  Tere wagday athro jay thal gaye main wi chaan te beh jawaan gi
+  Mere wali tum shahid rehna mazboot abhi tak wadah hai
+
+  8
+  Saye ki taraf jo le ke chala Sajjad woh mera lasha hai
+  Zainab mera shana chor de main saye mein aa jaon gi
+  Kar dafan Rubab koon sainr aakhay oda palu maikon khol wakha
+  Sajjad ne khol ke jad takiya gaya Zainab de sang oh gash kha
+
+  9
+  Palu wich chola Asghar da nalay raakh jholay diyaan lawaan di
+  Khursheed Rehan Nadeem de aye nit hasrat dil wich rendi aye
+  Ohno pursa deiye ro ro ke rayi dhup wich jehri baindi aye
+  Likhiye nohay parhiye nohay hai sanj jadon tak sawaan di
 ---
 
-1
-Sajjad Sajjad Nadeem Sarwar Lyrics
-Zindaan Se Madine Aa Kar Bhi Sajjad Lahu Rotay Hi Rahe.
-Maa Asghar Ki Soraj Ke Talay Bethi Rahi Kitne Din Guzrey.
-Mukhtar Ne Ik Din Di Yeh Khabar Yeh Keh Do Madar-e-Asghar Se.
+۱
+زندان سے مدینے آ کر بھی سجاد لہو روتے ہی رہے
+ماں اصغر کی سورج کے تلے بیٹھی رہی کتنے دن گزرے
+مختار نے اک دن دی یہ خبر یہ کہہ دو مادرِ اصغر سے
 
-2
-Mara Gaya Qatil Asghar Ka Ab Dhop Se Shehzadi Uthiye.
-Sajjad Ne Aa Kar Maa Se Kaha Aye Amma Ab Baitho Na Yahan.
-Ab Thanda Pani Pe Lo Maa Ab Saye Mein Aao Amma.
-Tu Khoon Rona Jo Chor De Main Saye Mein Aa Jaon Gi.
+۲
+مارا گیا قاتل اصغر کا اب دھوپ سے شہزادی اٹھیے
+سجاد نے آ کر ماں سے کہا اے اماں اب بیٹھو نہ یہاں
+اب ٹھنڈا پانی پی لو ماں اب سائے میں آؤ اماں
+تو خون رونا جو چھوڑ دے میں سائے میں آ جاؤں گی
 
-3
-Tu Rat Ronra Jay Chad Dewin Main V Dhup Nu Chad Jawaan Gi.
-Sajjad Zara Insaf Te Kar Aye Hukam Na De Israr Na Kar.
-Ayho Soch Ke Hai Phat Wainda Jigar Maida Ujar Gaya Hai Wasda Ghar.
-Nit Rowaan Gi Hunr Dhup Wich Main Wich Dhup Te E Mar Jawaan Gi.
+۳
+تُوں رت روؤنا جے چھڈ دیویں میں وی دھپ نوں چھڈ جاواں گی
+سجاد ذرا انصاف تے کر اے حکم نہ دے اصرار نہ کر
+ایہو سوچ کے ہے پھٹ ویندا جگر میڈا اجڑ گیا ہے وسدا گھر
+نت روواں گی ہُن دھپ وچ میں وچ دھپ تے ای مر جاواں گی
 
-4
-Main Takiya Aye Be Goor-o-Kafan Dhup Wich Baba Mazloom Tera.
-Nayi Dhup Choon Uth Sakdi Bachra Dhup Banr Gayi Aye Maqsoom Mera.
-Hinr Jad Tak Sah Wich Sah Mere Wich Dhup Te Soag Manawaan Gi.
-Mara Gaya Qatil Asghar Ka Asghar Tu Nahi Milney Wala.
+۴
+میں تکیا اے بے گور و کفن دھپ وچ بابا مظلوم تیرا
+نئیں دھپ چوں اٹھ سکدی بچڑا دھپ بن گئی اے مقسوم میرا
+ہُن جد تک ساہ وچ ساہ میرے وچ دھپ تے سوگ مناواں گی
+مارا گیا قاتل اصغر کا اصغر تو نہیں ملنے والا
 
-5
-Woh Zakhmi Galla Jalta Jhola Nasoor Hai Mere Seene Ka.
-Tu Dil Ko Pakarna Chor De Main Saye Mein Aa Jaon Gi.
-Jo Lash Hussain Te Kita Main Oh Wadah Toor Nibharan Aye.
-Majboor Na Kar Maikon Putar Maida Maikon Saya Raas Na Aanra Aye.
+۵
+وہ زخمی گلا جلتا جھولا ناسور ہے میرے سینے کا
+تو دل کو پکڑنا چھوڑ دے میں سائے میں آ جاؤں گی
+جو لاش حسین تے کیتا میں اوہ وعدہ توڑ نبھارن اے
+مجبور نہ کر میکوں پتر میڈا میکوں سایہ راس نہ آنا اے
 
-6
-Muk Janrey Odoon Sah Mere Jadon Chawein Putar Main Jawaan Gi.
-Haiwaan Ko Bhi Zibha Hotey Hoye Tu Dekh Nahi Sakta Beta.
-Qassab Zabehoon Par Apne Tujhe Dekh Ke Daltay Hain Pardah.
-Gash Kha Kar Girna Chor De Main Saye Mein Aa Jaon Gi.
+۶
+مک جانے اودوں ساہ میرے جدوں چاویں پتر میں جاواں گی
+حیوان کو بھی ذبح ہوتے ہوئے تو دیکھ نہیں سکتا بیٹا
+قصاب ذبیحوں پر اپنے تجھے دیکھ کے ڈالتے ہیں پردہ
+غش کھا کر گرنا چھوڑ دے میں سائے میں آ جاؤں گی
 
-7
-Nayi Dhup Choon Uthi Jay Kar Main Tera V Ronra Nayi Mukya.
-Aj Taein Putar Sajjad Tera Akhiyaan Da Panri Nayi Sukhiya.
-Tere Wagday Athro Jay Thal Gaye Main Wi Chaan Te Beh Jawaan Gi.
-Mere Wali Tum Shahid Rehna Mazboot Abhi Tak Wadah Hai.
+۷
+نئیں دھپ چوں اٹھی جے کر میں تیرا وی روؤنا نئیں مکیا
+اج تائیں پتر سجاد تیرا اکھیاں دا پانی نئیں سکیا
+تیرے وگدے اتھرو جے تھل گئے میں وی چھاں تے بہہ جاواں گی
+میرے والی تم شاہد رہنا مضبوط ابھی تک وعدہ ہے
 
-8
-Saye Ki Taraf Jo Le Ke Chala Sajjad Woh Mera Lasha Hai.
-Zainab Mera Shana Chor De Main Saye Mein Aa Jaon Gi.
-Kar Dafan Rubab Koon Sainr Aakhay Oda Palu Maikon Khol Wakha.
-Sajjad Ne Khol Ke Jad Takiya Gaya Zainab De Sang Oh Gash Kha.
+۸
+سائے کی طرف جو لے کے چلا سجاد وہ میرا لاشہ ہے
+زینب میرا شانہ چھوڑ دے میں سائے میں آ جاؤں گی
+کر دفن رباب کوں سائیں آکھے اوہدا پلو میکوں کھول وکھا
+سجاد نے کھول کے جد تکیا گیا زینب دے سنگ اوہ غش کھا
 
-9
-Palu Wich Chola Asghar Da Nalay Raakh Jholay Diyaan Lawaan Di.
- Khursheed Rehan Nadeem De Aye Nit Hasrat Dil Wich Rendi Aye.
-Ohno Pursa Deiye Ro Ro Ke Rayi Dhup Wich Jehri Baindi Aye.
-Likhiye Nohay Parhiye Nohay Hai Sanj Jadon Tak Sawaan Di.
+۹
+پلو وچ چولا اصغر دا نالے راکھ جھولے دیاں لواں دی
+خورشید ریحان ندیم دے اے نت حسرت دل وچ رہندی اے
+اوہنوں پرسہ دیئے رو رو کے رہی دھپ وچ جیہڑی بیندی اے
+لکھیے نوحے پڑھیے نوحے ہے سانجھ جدوں تک ساواں دی

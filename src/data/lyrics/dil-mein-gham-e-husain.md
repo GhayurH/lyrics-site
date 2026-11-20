@@ -16,7 +16,7 @@ romanLyrics: |-
   Yuṅ saari kaainaat pe chhaaye hue haiṅ hum
 
   1
-  Raushan kiye jo Dasht-e-Bala meiṅ Husain ne
+  Raushan kiye jo dasht-e-balaa meiṅ Husain ne
   Wo sab charaagh dil meiṅ jalaaye hue haiṅ hum
 
   2

@@ -9,75 +9,51 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Ghazi Ka Parcham Mir Sajjad Mir"
-romanLyrics: 'Shabbir Ka Matam Hai Ruk Na Sakay Ga.
-
-  Abbas Ka Parcham Hai Jhuk Na Sakay Ga.
-
+romanLyrics: |-
+  Shabbir ka maatam hai ruk na sake ga
 
   1
-
-  Sada Oncha Ghazi Ka Parcham Rahe Ga.
-
-  Issi Ke Tu Saye Mein Aalam Rahe Ga.
-
-  Jahan Ibn-e-Zahra Ka Parcham Rahe Ga.
-
-  Wahan Ibn-e-Mariyam Ka Sar Khum Rahe Ga.
-
+  Abbas ka parcham hai jhuk na sake ga
+  Sada uncha Ghazi ka parcham rahe ga
+  Isi ke to saaye mein aalam rahe ga
+  Jahaaṅ Ibn-e-Zahra ka parcham rahe ga
+  Wahaaṅ Ibn-e-Maryam ka sar kham rahe ga
+  Sada uncha Ghazi ka...
 
   2
-
-  Hilal e Azza Ne Nikal Kar Sada Di.
-
-  Kamar Mein Hamesha Meri Khum Rahe Ga.
-
-  Yeh Kala Ghilaf Aaj Bhi Keh Raha Hai.
-
-  Haram Mein Hamesha Muharram Rahe Ga.
-
+  Hilaal-e-aza ne nikal kar sada di
+  Kamar mein hamesha miri kham rahe ga
+  Sada uncha Ghazi ka...
+  Yeh kaala ghilaaf aaj bhi keh raha hai
+  Haram mein hamesha Muharram rahe ga
 
   3
-
-  Jisay Apni Rahein Badalna Ho Badlay.
-
-  Jaloson Ka Rasta Tu Mohkam Rahe Ga.
-
-  Chaley Jao Robahon Se Bolay Ghazi.
-
-  Bas Ab Iss Tarai Pe Zaigham Rahe Ga.
-
+  Jise apni raaheṅ badalna ho badle
+  Julusoṅ ka rasta to mohkam rahe ga
+  Sada uncha Ghazi ka...
+  Chale jaao rubahoṅ se bole Ghazi
+  Bas ab is taraai pe Zaigham rahe ga
 
   4
-
-  Bara Moatbar Aab-e-Zam Zam Hai Mana.
-
-  Magar Ashk-e-Majlis Muqaddam Rahe Ga.
-
-  Yahan Kozay Bharti Hai Mashk-e-Sakina.
-
-  Sabeelon Pe Pani Kahan Kam Rahe Ga.
-
+  Bara motabar aab-e-Zam Zam hai maana
+  Magar ashk-e-majlis muqaddam rahe ga
+  Sada uncha Ghazi ka...
+  Yahaaṅ koze bharti mashk-e-Sakina
+  Sabiloṅ pe paani kahaaṅ kam rahe ga
 
   5
-
-  Sada Chashm-e-Momin Barasti Rahe Gi.
-
-  Hamesha Muharram Ka Mosam Rahe Ga.
-
-  Rahe Na Rahe Sari Dunya Mein Koi.
-
-  Magar Ibn-e-Zahra Tera Gham Rahe Ga.
-
+  Sada chashm-e-momin barasti rahe gi
+  Hamesha Muharram ka mausam rahe ga
+  Sada uncha Ghazi ka...
+  Rahe na rahe saari duniya mein koi
+  Magar Ibn-e-Zahra tira gham rahe ga
 
   6
-
-  Kaha Sheh Ne Akbar Ka Lasha Utha Kar.
-
-  Hamari Kamar Mein Sada Khum Rahe Ga.
-
-  Ali Dekh Kar Bolay Ghazi Ko Sajjad.
-
-  Tere Hath Mein Mera Parcham Rahe Ga.'
+  Kaha sheh ne Akbar ka laasha utha kar
+  Hamaari kamar mein sada kham rahe ga
+  Sada uncha Ghazi ka...
+  Ali dekh kar bole Ghazi ko Sajjad
+  Tere haath mein mera parcham rahe ga
 ---
 
 شبیر کا ماتم ہے رک نہ سکےگا

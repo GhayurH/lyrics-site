@@ -18,50 +18,50 @@ romanLyrics: |-
 
   1
   Raat din roti huṅ karti huṅ faqat yaad tujhe
-  Ek pal chain nahiṅ aati hai zindaaṅ meiṅ mujhe
-  Ae mere baba judaai na maiṅ seh paauṅgi
+  Ek pal chain nahiṅ aati hai zindaaṅ mein mujhe
+  Ae mere baba judaai na main seh paauṅ gi
   Aaja ae mere baba jaan
 
   2
-  Ab tere baad maiṅ samjhi huṅ yatimi kya hai
+  Ab tere baad main samjhi huṅ yatimi kya hai
   Dur jo ghar se hui samjhi asiri kya hai
   Dard o gham aur sitam sehti hai dukhiya teri
   Aaja ae mere baba jaan
 
   3
   Dekho rukhsaar pe haiṅ kitne tamaachoṅ ke nishaaṅ
-  Jism meiṅ dekho zara kitne haiṅ durroṅ ke nishaaṅ
-  Dard itne haiṅ ke lagta hai maiṅ mar jaauṅgi
+  Jism mein dekho zara kitne haiṅ durroṅ ke nishaaṅ
+  Dard itne haiṅ ke lagta hai main mar jaauṅ gi
   Aaja ae mere baba jaan
 
   4
-  Tere sine pe hi soti thi lipat kar maiṅ tujhe
+  Tere sine pe hi soti thi lipat kar main tujhe
   Ab bhala khaak pe nind aaye to aaye kaise
   Haye dekho to Sakina ki zara bechaini
   Aaja ae mere baba jaan
 
   5
   Haye kaanoṅ se lahu ab bhi tapakta hai mera
-  Aur gardan meiṅ bhi rassi ke nishaaṅ haiṅ gehra
-  Kitni zakhmi huṅ maiṅ aajao ye dikhlaauṅgi
+  Aur gardan mein bhi rassi ke nishaaṅ haiṅ gehra
+  Kitni zakhmi huṅ main aa jaao ye dikhlaauṅ gi
   Aaja ae mere baba jaan
 
   6
-  Aaj bhi kitni huṅ pyaasi maiṅ bataauṅ kaise
+  Aaj bhi kitni huṅ pyaasi main bataauṅ kaise
   Hont sukhe haiṅ zabaan khushk dikhaauṅ kaise
   Saans leti huṅ to tharraata hai ye jism mera
   Aaja ae mere baba jaan
 
   7
-  Haye baba tere zakhmoṅ ko nahiṅ bhuli maiṅ
-  Bekafan laasha tera ab bhi nahiṅ bhuli maiṅ
-  Yaad meiṅ tere tarapti huṅ jigar hai chhalni
+  Haye baba tere zakhmoṅ ko nahiṅ bhuli main
+  Bekafan laasha tera ab bhi nahiṅ bhuli main
+  Yaad mein tere tarapti huṅ jigar hai chhalni
   Aaja ae mere baba jaan
 
   8
-  Baap ke gham meiṅ wo Aazam haye dam tor gayi
-  Qaid khane meiṅ har ek dil ko rota chhor gayi
-  Phir Aqif aayegi zindaaṅ se na aawaaz koi
+  Baap ke gham mein wo Aazam haye dam tor gayi
+  Qaid khaane mein har ek dil ko rota chhor gayi
+  Phir Aaqif aaye gi zindaaṅ se na aawaaz koi
   Aaja ae mere baba jaan
 ---
 آجا اے میرے بابا جان

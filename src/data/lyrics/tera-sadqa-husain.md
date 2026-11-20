@@ -14,25 +14,25 @@ published: true
 romanLyrics: |-
   Ya Husaina Husaina Husaina
 
-  Gir gir zamin pa tiroṅ pa thehra jo jism-e-Shah
+  Gir gir zamin pe tiroṅ pe thehra jo jism-e-Shah
   Manzar ye dekh rote rahe saare ambiya
   Besaakhta ye naara-e-takbir ne kaha
-  Tera sadqa Husain tera sadqa Husain
+  Tera sadqa Husain, tera sadqa Husain
 
   1
   Roti rahi namaaz musalla bhi ro para
   Pyaasa Husain zin se jab khaak par gira
-  Sar ko kata ke kar diya buland la ilaah
+  Sar ko kata ke kar diya buland laa ilaah
   Arsh-e-bariṅ se Khaaliq-e-Akbar ne di sada
 
   2
   Apne karam se rasm-e-karam par karam kiya
   Tu ne wo mezbaan ka haq hai ada kiya
   Karbobala ye kehti hai Shabbir shukriya
-  Sehra ko tu ne arsh-e-moalla bana diya
+  Sehra ko tu ne arsh-e-mualla bana diya
 
   3
-  Aaina la ilaah ki bunyaad hai Husain
+  Aaina laa ilaah ki bunyaad hai Husain
   Khaaliq jo kar raha hai wo faryaad hai Husain
   Hurr ka zamir aaj bhi sarshaad hai Husain
   Insaan tere dam se hi aazaad hai Husain
@@ -40,32 +40,32 @@ romanLyrics: |-
   4
   Haq ko buland kar ke rukega ye kaarwaaṅ
   Urti rahegi parcham-e-baatil ki dhajjiyaaṅ
-  Qabi Batul aaj bhi karti hai ye fughaaṅ
+  Qaabi Batul aaj bhi karti hai ye fughaaṅ
   Haq ki baqa ke waaste bolegi har zabaaṅ
 
   5
   Bint-e-Ali zamin pe giri thaam kar jigar
-  Phaila ke dono haath buka-e-wo nauhagar
-  Qurbaan kar diye haiṅ pisar dono bhai par
+  Phaila ke donoṅ haath bukaa-e wo nauhagar
+  Qurbaan kar diye haiṅ pisar donoṅ bhai par
   Zainab ye keh rahi thi bayaabaaṅ meiṅ nange sar
 
   6
   Bikhra para tha azmat-e-tauhid ka Quraan
   Bimaar-e-Karbala pe ajab tha ye imtihaaṅ
   Pehlu meiṅ saath jis ke Sakina thi nim jaaṅ
-  Naize pe sar Husain ka dekha to di azaaṅ
+  Neze pe sar Husain ka dekha to di azaaṅ
 
   7
   Bint-e-Ali ne sabr ka har imtihaaṅ diya
   Aankhoṅ meiṅ ashk aaye to ashkoṅ ko pi liya
-  Kufa ki Shahzaadi ne paidal safar kiya
+  Kufa ki shahzaadi ne paidal safar kiya
   Raah-e-Khuda meiṅ jo diya ye soch kar diya
 
   8
-  Yawar har ek gham ka mudaawa hai Ya Husain
-  Momin ki zindagi ka asaasa hai Ya Husain
-  Quraan-e-Karbala ka khulaasa hai Ya Husain
-  Khaaliq jo parh raha hai wazifa hai Ya Husain
+  Yawar har ek gham ka mudaawa hai ya Husain
+  Momin ki zindagi ka asaasa hai ya Husain
+  Quraan-e-Karbala ka khulaasa hai ya Husain
+  Khaaliq jo parh raha hai wazifa hai ya Husain
 ---
 یا حسینا حسینا حسینا
 

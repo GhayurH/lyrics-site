@@ -1,30 +1,50 @@
 ---
-title: "Soch Se Mawara Abu Talib"
+title: "سوچ سے ماورا ابو طالب"
+alternateTitle: "Soch Se Mawara Abu Talib"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hai tera martaba Abu Talib
+  Teri chokhat se muttasil shaha
+  Khuld ka rasta Abu Talib
+  Rehmat-e-do jahan ke sar par
+  Dast-e-shafqat tera Abu Talib
+  Qasim-e-rizq-e-kibriya tere
+  Zair-e-dama pala Abu Talib
+  Tarbiyaat ka teri taruf hain
+  Mustafa Murtaza Abu Talib
+  Tere dushman ke wastay dozakh
+  Kam bohat hai saza Abu Talib
+  Ghair mumkin hai kar sakoon tera
+  Haq-e-midhat ada Abu Talib
+  Rizq-e-taseer dolat-e-irfaan
+  Mangta hai gada Abu Talib
+  Apne Sahil ko kijiye aaqa
+  Zaad-e-bakhshish atta Abu Talib
 ---
 
-1
-Hai Tera Martaba Abu Talib.
-Teri Chokhat Se Muttasil Shaha.
-Khuld Ka Rasta Abu Talib.
-Rehmat-e-Do Jahan Ke Sar Par.
-Dast-e-Shafqat Tera Abu Talib.
-Qasim-e-Rizq-e-Kibriya Tere.
-Zair-e-Dama Pala Abu Talib.
-Tarbiyaat Ka Teri Taruf Hain.
-Mustafa Murtaza Abu Talib.
-Tere Dushman Ke Wastay Dozakh.
-Kam Bohat Hai Saza Abu Talib.
-Ghair Mumkin Hai Kar Sakoon Tera.
-Haq-e-Midhat Ada Abu Talib.
-Rizq-e-Taseer Dolat-e-Irfaan.
-Mangta Hai Gada Abu Talib.
-Apne Sahil Ko Kijiye Aaqa.
-Zaad-e-Bakhshish Atta Abu Talib.
+۱
+ہے تیرا مرتبہ ابو طالب
+تیری چوکھٹ سے متصل شہا
+خلد کا راستہ ابو طالب
+رحمتِ دو جہاں کے سر پر
+دستِ شفقت تیرا ابو طالب
+قاسمِ رزقِ کبریا تیرے
+زیرِ داماں پلا ابو طالب
+تربیات کا تیری تعارف ہیں
+مصطفیٰ مرتضیٰ ابو طالب
+تیرے دشمن کے واسطے دوزخ
+کم بہت ہے سزا ابو طالب
+غیر ممکن ہے کر سکوں تیرا
+حقِ مدحت ادا ابو طالب
+رزقِ تاثیر دولتِ عرفاں
+مانگتا ہے گدا ابو طالب
+اپنے ساحل کو کیجیے آقا
+زادِ بخشش عطا ابو طالب

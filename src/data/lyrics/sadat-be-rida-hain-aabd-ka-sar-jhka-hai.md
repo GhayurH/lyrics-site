@@ -8,86 +8,52 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Saadaat berida hai abid ka sar jhuka hai
-
-  Sham aa raha hai
-
+romanLyrics: |-
+  Saadaat be rida haiṅ Aabid ka sar jhuka hai
+  Shaam aa raha hai
 
   1
-
-  Saara lahoo badan ka ankhon mein aagaya hai
-
+  Saara lahu badan ka aaṅkhoṅ meiṅ aa gaya hai
 
   2
-
-  Bhai ka sar jahan tha bibi wahan pe aayi
-
-  Boli ye sar jhuka ke karna duayein bhai
-
-  Zainab ki karbala ka aaghaz ho raha hai
-
+  Bhai ka sar jahaaṅ tha Bibi wahaaṅ pe aayi
+  Boli ye sar jhuka ke karna duaaeiṅ bhai
+  Zainab ki Karbala ka aaghaaz ho raha hai
 
   3
-
-  Ummat khadi hui hai jholi mein le ke pathar
-
+  Ummat khari hui hai jholi meiṅ le ke patthar
   Zanjeer keh rahi hai chalna sambhal sambhal kar
-
-  Ehle haram ka maqtal kuch door reh gaya hai
-
+  Ahl-e-haram ka maqtal kuch dur reh gaya hai
 
   4
-
-  Naize pe sar jawan ka dekha to maa ye boli
-
-  Akbar ye ilteja hai tujhse ghareeb maa ki
-
-  Chadar kahin se la de zainab ka sar khula hai
-
+  Naize pe sar jawaaṅ ka dekha to maaṅ ye boli
+  Akbar ye ilteja hai tujh se gharib maaṅ ki
+  Chaadar kahiṅ se la de Zainab ka sar khula hai
 
   5
-
-  Aelaan ho raha hai jaldi bulaya jaye
-
-  Zahra ki betiyon ko paidal chalaya jaye
-
-  Koofe ki manzilon se ye sakht marhala hai
-
+  Ailaan ho raha hai jaldi bulaaya jaaye
+  Zahra ki betiyoṅ ko paidal chalaaya jaaye
+  Kufe ki manziloṅ se ye sakht marhala hai
 
   6
-
-  Koi nahi sunega faryad bekason ki
-
-  Aale nabi pe hogi barsat patharon ki
-
-  Kis tarha ankhein khole abbas jaanta hai
-
+  Koi nahiṅ sunega faryaad be kasoṅ ki
+  Aal-e-Nabi pe hogi barsaat pattharoṅ ki
+  Kis tarah aaṅkheiṅ khole Abbas jaanta hai
 
   7
-
-  Zainab ne jab ye poocha ye kaunsi hai basti
-
-  Sajjad mere dil par lagti hai gham ki barchi
-
-  Haye dabi zuban se beemar ne kaha hai
-
+  Zainab ne jab ye puchha ye kaun si hai basti
+  Sajjad mere dil par lagti hai gham ki barchhi
+  Haaye dabi zabaan se bimaar ne kaha hai
 
   8
-
-  Ye fazl se ruqayya kehti hai ay bhatije
-
-  Zainab ki mai hoo zaamin baqir tere hawale
-
-  Dono ne kaam apna taqseem kar liya hai
-
+  Ye fazl se Ruqayya kehti hai ae bhatije
+  Zainab ki maiṅ huṅ zaamin Baqir tere hawaale
+  Donoṅ ne kaam apna taqsim kar liya hai
 
   9
-
-  Zainab ke gird behne parda bana rahi hai
-
-  Khud berida hai lekin usko chupa rahi hai
-
-  Akbar sitamgaron ne aelaan kar diya hai'
+  Zainab ke gird bahneiṅ parda bana rahi haiṅ
+  Khud be rida haiṅ lekin usko chhupa rahi haiṅ
+  Akbar sitamgaroṅ ne ailaan kar diya hai
 ---
 
 سادات بے ردا ہیں عابد کا سر جھکا ہے

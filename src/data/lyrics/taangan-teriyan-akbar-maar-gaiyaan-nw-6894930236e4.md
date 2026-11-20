@@ -1,42 +1,82 @@
 ---
-title: "Taangan Teriyan Akbar Maar Gaiyaan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "تانگھاں تیریاں اکبر مار گئیاں"
+alternateTitle: "Taangan Teriyan Akbar Maar Gaiyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Taangan teriyan Akbar maar gaiyaan watna te aa vi ja
+
+  1
+  Roz udeekan nal vekhan rawaan
+  Muk jaan na saawan meriyan
+
+  2
+  Menu mahmal ton jeevain tu, jaandi vaari laaya
+  Owain main leh gayi saan
+  Ik vaari te man le sunja tu
+  Ay rondiyan haawan meriyan
+
+  3
+  Main haan beemar magar tu, jaanda ay meray
+  Maraz da na tu ay
+  Deed teri vich likhiyan hoiyan ne
+  Chan veer shifawan meriyan
+
+  4
+  Je nayi aa sakda te koyi das majboori te
+  Log ki sochan ge
+  Keetay vaaday ditiyan laajan ne
+  Rakheyan na bhirawan meriyan
+
+  5
+  Alma waalay ne Sughra, nu turan ton pehlaan
+  Daseya si ro ro
+  Akbar tera mur aaway ga je
+  Bach gaiyaan baawan meriyan
+
+  6
+  Hoya jis din ton ay nazil, ay vichora tera
+  Main dukhiyari te
+  Din mere layi ban gaye ne ronay
+  Te raat sazawan meriyan
 ---
 
-Taangan Teriyan Akbar Maar Gaiyaan Watna Te Aa Vi Ja
+تانگھاں تیریاں اکبر مار گئیاں وطناں تے آ وی جا
 
-Roz Udeekan Nal Vekhan Rawaan
-Muk Jaan Na Saawan Meriyan
+۱
+روز اڈیکاں نال ویکھاں رواں
+مک جان نہ ساواں میریاں
 
-Menu Mahmal Ton Jeevain Tu, Jaandi Vaari Laaya
-Owain Main Leh Gayi Saan
-Ik Vaari Te Man Le Sunja Tu
-Ay Rondiyan Haawan Meriyan
+۲
+مینوں محمل توں جیویں توں، جاندی واری لایا
+اویں میں لہہ گئی ساں
+اک واری تے من لے سن جا توں
+اے روندیاں ہاواں میریاں
 
-Main Haan Beemar Magar Tu, Jaanda Ay Meray
-Maraz Da Na Tu Ay
-Deed Teri Vich Likhiyan Hoiyan Ne
-Chan Veer Shifawan Meriyan
+۳
+میں ہاں بیمار مگر توں، جاندا ایں میرے
+مرض دا ناں توں ایں
+دید تیری وچ لکھیاں ہوئیاں نے
+چن ویر شفاواں میریاں
 
-Je Nayi Aa Sakda Te Koyi Das Majboori Te
-Log Ki Sochan Ge
-Keetay Vaaday Ditiyan Laajan Ne
-Rakheyan Na Bhirawan Meriyan
+۴
+جے نئیں آ سکدا تے کوئی دس مجبوری تے
+لوگ کی سوچن گے
+کیتے وعدے دتیاں لاجاں نے
+رکھیاں نا بھراواں میریاں
 
-Alma Waalay Ne Sughra, Nu Turan Ton Pehlaan
-Daseya Si Ro Ro
-Akbar Tera Mur Aaway Ga Je
-Bach Gaiyaan Baawan Meriyan
+۵
+علَم والے نے صغریٰ، نوں ترن توں پہلاں
+دسیا سی رو رو
+اکبر تیرا مڑ آوے گا جے
+بچ گئیاں باواں میریاں
 
-Hoya Jis Din Ton Ay Nazil, Ay Vichora Tera
-Main Dukhiyari Te
-Din Mere Layi Ban Gaye Ne Ronay
-Te Raat Sazawan Meriyan
-
-Shared via Nohay Writeups for iOS
+۶
+ہویا جس دن توں اے نازل، اے وچھوڑا تیرا
+میں دکھیاری تے
+دن میرے لئی بن گئے نے رونے
+تے رات سزاواں میریاں

@@ -18,19 +18,19 @@ romanLyrics: |-
   Raasta kaisa ye dushwaar hai katta hi nahiṅ
   Qaafila bekas o mazlum ka rukta hi nahiṅ
   Paaoṅ Sajjad ka zakhmi hai to uthta hi nahiṅ
-  Khatm hoti nahiṅ Ae Shaam teri raah guzar
+  Khatm hoti nahiṅ ae Shaam teri raah guzar
 
   2
   Phir Sajjad ko saaye se utha dete haiṅ
   Aankh lag jaaye to zanjir hila dete haiṅ
   Kahiṅ ruk jaaye to durroṅ se saza dete haiṅ
-  Bimaar hua jaata hai sab khun meiṅ tar
+  Bimaar hua jaata hai sab khun mein tar
 
   3
   Bunta hi raha gham ke wo taane baane
   Aayi Sajjad ko maqtal ki hawa batlaane
   Ab sukuṅ paauṅ kahaaṅ jaa ke Khuda hi jaane
-  Kaise hogi meri Sughra ko Madine meiṅ khabar
+  Kaise hogi meri Sughra ko Madine mein khabar
 
   4
   Naatwaani ka ye aalam hai ke chalna hai muhaal
@@ -45,10 +45,10 @@ romanLyrics: |-
   Aur agar rok de hat jaaye zamiṅ ka mehwar
 
   6
-  Qaid khaane meiṅ Sakina ne bhi dam tor diya
-  Apna rishta Shaah-e-mazlum se bhi jor liya
+  Qaid khaane mein Sakina ne bhi dam tor diya
+  Apna rishta Shah-e-mazlum se bhi jor liya
   Ashk baatil ki hawaaoṅ ka bhi rukh mor diya
-  Haaye zindaaṅ meiṅ gayi jaaṅ se wo ghut ghut kar
+  Haaye zindaaṅ mein gayi jaaṅ se wo ghut ghut kar
 ---
 روکے زنجیر پکاری کہ یہ کیسا ہے سفر
 قید جب ہوکے چلا سید والا کا پسر

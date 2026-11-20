@@ -8,89 +8,53 @@ poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aa asghar aaja aa asghar aaja
-
-  Kuch to bolo aankhein kholo asghar behan bulati hai
-
-  Kooza lekar haaton may wo tujhko dhoodne jaati hai
-
-  Pani jab paaya pyason ne ay laal kalayja thaam liya
-
-  Teri hamsheer sakina ne yeh kehkar tera naam liya
-
-  Ay meri jaan ran se aao asghar behan bulati hai
-
+romanLyrics: |-
+  Aa Asghar aa ja aa Asghar aa ja
+  Kuchh to bolo aankheṅ kholo Asghar behan bulaati hai
+  Kuza le kar haathoṅ mein woh tujh ko dhundne jaati hai
+  Paani jab paaya pyaasoṅ ne ae laal kaleja thaam liya
+  Teri hamshir Sakina ne yeh keh kar tera naam liya
+  Ae meri jaan ran se aao Asghar behan bulaati hai
 
   1
-
-  Paani na mila ay laal tujhe aur teer se teri pyas bujhi
-
-  Masoom sakina haaton may mashkiza lekar kehti thi
-
-  Mere pyase pani peelo asghar behan bulati hai
-
+  Paani na mila ae laal tujhe aur tir se teri pyaas bujhi
+  Masum Sakina haathoṅ mein mashkiza le kar kehti thi
+  Mere pyaase paani pi lo Asghar behan bulaati hai
 
   2
-
-  Paani me tera chehra usko aata hai nazar wo roti hai
-
-  Phailaaye abaa ke daaman ko hamsheer fughaan ye karti hai
-
-  Mai pareshan hoo sada do asghar behan bulati hai
-
+  Paani mein tera chehra us ko aata hai nazar woh roti hai
+  Phailaaye aba ke daaman ko hamshir fughaaṅ yeh karti hai
+  Main pareshaaṅ huṅ sada do Asghar behan bulaati hai
 
   3
-
-  Pani aur mashk mere bache mansoob huye dono tujhse
-
-  Kehti hai behan wo tashnadahan sota hai khafa hokar mujhse
-
-  Kyun khafa ho kuch batado asghar behan bulati hai
-
+  Paani aur mashk mere bachche mansub hue donoṅ tujh se
+  Kehti hai behan woh tishna dahan sota hai khafa ho kar mujh se
+  Kiuṅ khafa ho kuchh bata do Asghar behan bulaati hai
 
   4
-
-  Pani bankar ye khoon-e-jigar aankhon se teri furqat may baha
-
-  Boori may teri marjaungi ro ro ke behan deti hai sada
-
-  Laut aao laut aao asghar behan bulati hai
-
+  Paani ban kar yeh khun-e-jigar aankhon se teri furqat mein baha
+  Duri mein teri mar jaauṅ gi ro ro ke behan deti hai sada
+  Laut aao laut aao Asghar behan bulaati hai
 
   5
-
-  Pani pe nazar jab jaati hai bas pyas teri yaad aati hai
-
-  Talwaar ki tarha yaad teri dil tukde mera kar jaati hai
-
-  Aa bhi jaao aa bhi jaao asghar behan bulati hai
-
+  Paani pe nazar jab jaati hai bas pyaas teri yaad aati hai
+  Talwaar ki tarah yaad teri dil tukre mera kar jaati hai
+  Aa bhi jaao aa bhi jaao Asghar behan bulaati hai
 
   6
-
-  Paai ki jagah turbat ko teri ashkon se bhigoya baba ne
-
-  Phoolon ki rida jab mil na saki nowha ye kiya us dukhya ne
-
-  Na sakina ko rulao asghar behan bulati hai
-
+  Paani ki jagah turbat ko teri ashkoṅ se bhigoya baba ne
+  Phulon ki rida jab mil na saki nauha yeh kiya us dukhiya ne
+  Na Sakina ko rulaao Asghar behan bulaati hai
 
   7
-
-  Pani pani ki ek sada dete thay sabhi par tum to nahi
-
-  Ab pani mila atfaal mere pilenge abhi par tum to nahi
-
-  Isliye to dekho tumko asghar behan bulati hai
-
+  Paani paani ki ek sada dete the sabhi par tum ko nahiṅ
+  Ab paani mila atfaal mere pi leṅ ge abhi par tum ko nahiṅ
+  Is liye to dekho tum ko Asghar behan bulaati hai
 
   8
-
-  Pani jo piyo ay ehle aza pyason ki musibath yaad karo
-
-  Irfan aur mazhar dunya ko aur asghar ko paighaam ye do
-
-  Qaid-khane may bhi tumko asghar behan bulati hai'
+  Paani jo piyo ae ahl-e-aza pyaasoṅ ki musibat yaad karo
+  Irfan aur Mazhar duniya ko aur Asghar ko paighaam yeh do
+  Qaid khaane mein bhi tujh ko Asghar behan bulaati hai
 ---
 
 آ اصغر آ جا آ اصغر آ جا

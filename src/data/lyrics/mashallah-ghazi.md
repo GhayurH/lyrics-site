@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salaam ya abul fazl salaam ya abul qirba
-  Salaam alamdar-e-lashkar-e-khuda
-  Abul fazl abul fazl abul fazl alamdar
-  Alamdar-e-Husain wafadar-e-Husain
-  Mashallah mashallah mashallah ghazi
-  Hyder ne duaoṅ meiṅ maanga hai tujhe ghazi
-  Zehra ne dil o jaaṅ se chaaha hai tujhe ghazi
-  Shabbar bhi aqi apna kehta hai tujhe ghazi
-  Shabbir ne godhi meiṅ paala hai tujhe ghazi
-  Is ghar ka wafadar hai ghazi alamdar
-  Mashallah ghazi alamdar-e-Husain...
-  Tu hyder e safdar ki quwwat hai mere maula
-  Tu zainab e muztar ki taaqat hai mere maula
-  Kulsum ke jazboṅ ki zinat hai mere maula
-  Tu aale mohamed ki himmat hai mere maula
-  Tu ghar meiṅ ali ke allah ka shakaar
-  Mashallah ghazi alamdar-e-Husain...
-  Aankhoṅ ko teri rab ne suroṅ se sajaya hai
-  Quran ki aayat palkoṅ pe lagaya hai
-  Paikar ko tere rab ne kya khub banaya hai
-  Sarwar ne tujhe misle quran uthaya hai
-  Posheeda hai tujh meiṅ quran ke asraar
-  Mashallah ghazi alamdar-e-Husain...
+  Salaam ya Aba al-Fazl salaam ya Aba al-Qirba
+  Salaam alamdaar-e-lashkar-e-Khuda
+  Aba al-Fazl Aba al-Fazl Aba al-Fazl alamdaar
+  Alamdaar-e-Husain wafadaar-e-Husain
+  Mashallah Ghazi Mashallah Ghazi
+  Haidar ne duaaoṅ meiṅ maanga hai tujhe Ghazi
+  Zehra ne dil o jaaṅ se chaaha hai tujhe Ghazi
+  Shabbar bhi akhi apna kehta hai tujhe Ghazi
+  Shabbir ne godi meiṅ paala hai tujhe Ghazi
+  Is ghar meiṅ ka wafadaar hai Ghazi alamdaar
+  Mashallah Ghazi alamdaar-e-Husain...
+  Tu Haidar-e-Safdar ki quwwat hai mere Maula
+  Tu Zainab-e-Muztar ki taaqat hai mere Maula
+  Kulsum ke jazboṅ ki zinat hai mere Maula
+  Tu Aal-e-Mohamed ki himmat hai mere Maula
+  Tu ghar meiṅ Ali ke Allah ka shahkaar
+  Mashallah Ghazi alamdaar-e-Husain...
+  Aankhoṅ ko teri Rab ne suroṅ se sajaaya hai
+  Quraan ki aayat palkoṅ pe lagaaya hai
+  Paikar ko tere Rab ne kya khub banaaya hai
+  Sarwar ne tujhe misl-e-Quraan uthaaya hai
+  Poshida hai tujh meiṅ Quraan ke asraar
+  Mashallah Ghazi alamdaar-e-Husain...
   Abbas alam tera ehsaas ka qibla
-  Abbas alam tera isaar ka kaaba hai
-  Abbas alam tera islam ka chehra hai
+  Abbas alam tera isaar ka Kaaba hai
+  Abbas alam tera Islaam ka chehra hai
   Abbas alam tera tauhid ka saaya hai
-  Parcham ka qaseeda ye parta hai karraar
-  Mashallah ghazi alamdar-e-Husain...
-  Haathoṅ meiṅ tumhare tha ek tuta hua naiza
-  Aur dushman e sarwar ko jab tumne faqad ghura
-  To dushman e diṅ samjha ghazi ne kiya hamla
-  Aur khauf ke maare wo sar apna patak'ta tha
-  Hyder ki tarha hai maula tera har waar
-  Mashallah ghazi alamdar-e-Husain...
-  Darya ke kinare jo zarghaam e ali pahuncha
+  Parcham ka qasida ye parhta hai Karraar
+  Mashallah Ghazi alamdaar-e-Husain...
+  Haathoṅ meiṅ tumhaare tha ak tuta hua naiza
+  Aur dushman-e-Sarwar ko jab tum ne faqat ghura
+  To dushman-e-diṅ samjha Ghazi ne kiya hamla
+  Aur khauf ke maare wo sar apna patakta tha
+  Haidar ki tarah hai Maula tera har waar
+  Mashallah Ghazi alamdaar-e-Husain...
+  Darya kinaare jo Zaigham-e-Ali pahuncha
   Haibat se usi ke phir khud khauf ko khauf aaya
-  Baghdar machi faujoṅ meiṅ zaalim ka jigar kaampa
-  Jaaṅ apni bachane ko har dushman e diṅ bhaaga
-  Dushman ke liye hai maula mera khahhaar
-  Mashallah ghazi alamdar-e-Husain...
-  Jab mashk e sakina par ek tir laga aakar
-  To kohe alam tuta islam ke ghazi par
-  Tehrir ho phir kaise wo dard bhara manzar
-  Nasir ne kaha arif ye nauha parho ro kar
-  Sar peetenge apna ghazi ke azadaar
-  Mashallah ghazi alamdar-e-Husain...
+  Bhagdar machi faujoṅ meiṅ zaalim ka jigar kaanpa
+  Jaaṅ apni bachaane ko har dushman-e-diṅ bhaaga
+  Dushman ke liye hai Maula mera Qahhaar
+  Mashallah Ghazi alamdaar-e-Husain...
+  Jab mashk-e-Sakina par ak tir laga aa kar
+  To koh-e-alam tuta Islaam ke Ghazi par
+  Tahrir ho phir kaise wo dard manzar
+  Nasir ne kaha Aarif ye nauha parho ro kar
+  Sar piteṅge apna Ghazi ke azaadaar
+  Mashallah Ghazi alamdaar-e-Husain...
 ---
 
 ۱

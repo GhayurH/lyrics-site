@@ -8,33 +8,33 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Ab bhi Sajjad ki aankhon se lahu jaari hai
-  Nange sar shaam kyun gayi Zainab yehi Sajjad ki beemari hai
+  Ab bhi Sajjad ki aankhoṅ se lahu jaari hai
+  Nange sar Shaam kiuṅ gayi Zainab yehi Sajjad ki bimaari hai
 
   1
-  Shami laeen saray pathar gira rahe the
-  Qaidi yateem bachay aansoo baha rahe the
-  Chaaro janib sharabiyon ka hajoom khoon roey khara muhari hai
+  Shaami lain saare patthar gira rahe the
+  Qaidi yatim bachche aansu baha rahe the
+  Chaaroṅ jaanib sharaabiyoṅ ka hujum khun roye khara muhari hai
 
   2
-  Gardan mein tauk bhari aur paon mein chaalay
-  Ghairat mein khoon roye zanjeer kya sambhalay
-  Tumko ummat ne Saniy-e-Zahra berida bheer se guzari hai
+  Gardan mein tauq bhaari aur paaoṅ mein chhaale
+  Ghairat mein khun roye zanjir kya sambhaale
+  Tum ko ummat ne Saani-e-Zahra berida bhir se guzaari hai
 
   3
-  Fizza ke peeche Zainab khutbay suna rahi thi
-  Syedaniyo pe ummat pathar gira rahi thi
-  Jurm kya tha Ali ki beti ka iske sar se rida utari hai
+  Fizza ke pichhe Zainab khutbe suna rahi thi
+  Sayyidaaniyoṅ pe ummat patthar gira rahi thi
+  Jurm kya tha Ali ki beti ka is ke sar se rida utaari hai
 
   4
-  Dekha jo rasiyon mein Fizza ko habshiyon ne
-  Darbar hila dalaa Zainab ki siskiyon ne
-  Uska koi bhi madadgar nai haye ujri ki ye lachari hai
+  Dekha jo rassiyoṅ mein Fizza ko Habshiyoṅ ne
+  Darbaar hila daala Zainab ki siskiyoṅ ne
+  Us ka koi bhi madadgaar naiṅ haaye ujri ki ye laachaari hai
 
   5
   Akhtar ka har ik noha Maula ki inayat hai
-  Seenay pe karay matam jo momin ki ibadat hai
-  Humko jannat mein le ke jaye gi meray Maula ki pursadari hai
+  Sine pe kare maatam jo momin ki ibaadat hai
+  Ham ko jannat mein le ke jaaye gi mere Maula ki pursa daari hai
 ---
 
 اب بھی سجاد کی آنکھوں سے لہو جاری ہے

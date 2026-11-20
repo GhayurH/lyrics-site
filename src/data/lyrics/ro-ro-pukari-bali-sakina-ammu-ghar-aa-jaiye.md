@@ -8,94 +8,57 @@ poet: "Anjum Zaidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ro ro pukari bali sakina
-
-  Ammu ghar aaja''iye
-
-  Baba jab se ran ko sidhare
-
-  Baithe hai dar par aas lagaye
-
-  Pani ab tak aap na laaye
-
-  Itna na ab tadpa''iye
-
+romanLyrics: |-
+  Ro ro pukaari baali Sakina
+  Ammu ghar aa jaiye
 
   1
-
-  Akbar bhai ran se aao
-
-  Gham ki maari se mil jaao
-
-  Behna ko apna haal sunao
-
-  Surat aake dikha''iye
-
+  Baba jab se ran ko sidhaare
+  Baithe haiṅ dar par aas lagaaye
+  Paani ab tak aap na laaye
+  Itna na ab tarpaaeṅ
 
   2
-
-  Raaq hue sab qaime jal kar
-
-  Maare tamache shimr ne aa kar
-
-  Jal gaya hai hai bhaiya ka bistar
-
-  Zulm se humko bacha''iye
-
+  Akbar bhai ran se aao
+  Gham ki maari se mil jaao
+  Behna ko apna haal sunaao
+  Surat aake dikhaaiye
 
   3
-
-  Soona jangal raat hai kaali
-
-  Kaun karega ab rakhwali
-
-  Godi amma ki hai khaali
-
-  Asghar ko le aa''iye
-
+  Raakh hue sab khaime jal kar
+  Maare tamaanche Shimr ne aa kar
+  Jal gaya haaye haaye bhaiya ka bistar
+  Zulm se ham ko bachaaiye
 
   4
-
-  Doob gaye sab chand aur taare
-
-  Akbar aur asghar gaye maare
-
-  Dukhiya maadar kis ko pukare
-
-  Zulm se sab ko bacha''iye
-
+  Suna jangal raat hai kaali
+  Kaun karega ab rakhwaali
+  Godi Amma ki hai khaali
+  Asghar ko le aaiye
 
   5
-
-  Ek bhai bemaar pada hai
-
-  Us par bhi ye zulm o jafa hai
-
-  Tauq-o-salasal may jakda hai
-
-  Qaid se usko chuda''iye
-
+  Dub gaye sab chaand aur taare
+  Akbar aur Asghar gaye maare
+  Dukhiya maadar kis ko pukaare
+  Zulm se sab ko bachaaiye
 
   6
-
-  Kooch ki hoti hai tayyari
-
-  Aayi mehmil aur na amari
-
-  Be-parda hai aal ye saari
-
-  Raste se sab ko hataiye
-
+  Ek bhai bimaar para hai
+  Us par bhi ye zulm o jafa hai
+  Tauq o salaasal mein jakra hai
+  Qaid se us ko chhuraaiye
 
   7
+  Kuch ki hoti hai taiyaari
+  Aai mahmil aur na amaari
+  Beparda hai aal ye saari
+  Raste se sab ko hataaiye
 
-  Sadqe mai aal aur quran ke
-
-  Saaye may is qaumi nishan ke
-
-  Door rahe gham saare jahan ke
-
-  Anjum ko bhi bacha''iye'
+  8
+  Sadqe mein aal aur Quraaṅ ke
+  Saaye mein is qaumi nishaaṅ ke
+  Dur hue gham saare jahaaṅ ke
+  Anjum ko bhi bachaaiye
 ---
 
 رو رو پکاری بالی سکینہ

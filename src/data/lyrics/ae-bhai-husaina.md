@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Jab se maiṅ tumheṅ chhor ke maqtal se gayi huṅ
   Kya guzri hai tum par
-  Kuch to kaho sadqe gayi maajayi ae Zainab
+  Kuch to kaho sadqe gayi maanjaayi ae Zainab
 
   5
   Sar nange thi aur haath bhi gardan se bandhe the

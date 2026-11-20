@@ -1,53 +1,96 @@
 ---
-title: "Madh E Raza Mir Yousuf Mir"
+title: "مدحِ رضا میر یوسف میر"
+alternateTitle: "Madh E Raza Mir Yousuf Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yousuf"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jo pocha farishton se kya kar rahe hain
+
+  1
+  Jawab aaya madh-e-Raza kar rahe hain
+  Imam-e-Raza ne bura kis ka chaha
+  Bhala kar rahe they bhala kar rahe hain
+  Mujhe rizq-e-izat, mujhe rizq-e-midhat
+  Kareema ke bhai atta kar rahe hain
+  Rahat-e-man Maula Raza
+
+  2
+  Chahat e man Maula Raza
+  Rehbar-e-man Maula Raza
+  Mehwar e man Maula Raza
+  Dil-e-man
+  Jan-e-man
+  Noor-e-man
+
+  3
+  Guftuguye man
+  Justujuye man
+  Aabroo e man
+  Arzu-e-man
+  Ya Ali Mosa Raza, ya Ali Mosa Raza
+  Ya Ali Mosa Raza, ya Ali Mosa Raza
+
+  4
+  Ibadat samajh kar farishtay falak par
+  Tere dar ki nobat suna kar rahe hain
+  Woh halke nahi hain hasab our nasab mein
+  Jo halqay mein matam bapa kar rahe hain
+  Yeh mehfil hai zikar-e-Raza kijiye bas
+  Aray Sheikh Sahib yeh kya kar rahe hain
+
+  5
+  Namazein parin gi galay unn ke ik din
+  Namaz-e-wila jo qaza kar rahe hain
+  Ajab kashmakash mein khara hai Nuseri
+  Ali Rab ko sajdah ada kar rahe hain
+  Sana-e-Imam-e-Raza likh ke Yousuf
+  Haqeeqat mein hamd-e-Khuda kar rahe hain
 ---
 
-Jo Pocha Farishton Se Kya Kar Rahe Hain.
+جو پوچھا فرشتوں سے کیا کر رہے ہیں
 
-1
-Jawab Aaya Madh-e-Raza Kar Rahe Hain.
-Imam-e-Raza Ne Bura Kis Ka Chaha.
-Bhala Kar Rahe They Bhala Kar Rahe Hain.
-Mujhe Rizq-e-Izat, Mujhe Rizq-e-Midhat.
-Kareema Ke Bhai Atta Kar Rahe Hain.
-Rahat-e-Man Maula Raza.
+۱
+جواب آیا مدحِ رضا کر رہے ہیں
+امامِ رضا نے برا کس کا چاہا
+بھلا کر رہے تھے بھلا کر رہے ہیں
+مجھے رزقِ عزت، مجھے رزقِ مدحت
+کریمہ کے بھائی عطا کر رہے ہیں
+راحتِ من مولا رضا
 
-2
-Chahat e Man Maula Raza.
-Rehbar-e-Man Maula Raza.
-Mehwar e Man Maula Raza.
-Dil-e-Man.
-Jan-e-Man.
-Noor-e-Man.
+۲
+چاہتِ من مولا رضا
+رہبرِ من مولا رضا
+محورِ من مولا رضا
+دلِ من
+جانِ من
+نورِ من
 
-3
-Guftuguye Man.
-Justujuye Man.
-Aabroo e Man.
-Arzu-e-Man.
-Ya Ali Mosa Raza, Ya Ali Mosa Raza.
-Ya Ali Mosa Raza, Ya Ali Mosa Raza.
+۳
+گفتگوئے من
+جستجوئے من
+آبروئے من
+آرزوئے من
+یا علی موسیٰ رضا، یا علی موسیٰ رضا
+یا علی موسیٰ رضا، یا علی موسیٰ رضا
 
-4
-Ibadat Samajh Kar Farishtay Falak Par.
-Tere Dar Ki Nobat Suna Kar Rahe Hain.
-Woh Halke Nahi Hain Hasab Our Nasab Mein.
-Jo Halqay Mein Matam Bapa Kar Rahe Hain.
-Yeh Mehfil Hai Zikar-e-Raza Kijiye Bas.
-Aray Sheikh Sahib Yeh Kya Kar Rahe Hain.
+۴
+عبادت سمجھ کر فرشتے فلک پر
+تیرے در کی نوبت سنا کر رہے ہیں
+وہ ہلکے نہیں ہیں حسب اور نسب میں
+جو حلقے میں ماتم بپا کر رہے ہیں
+یہ محفل ہے ذکرِ رضا کیجیے بس
+ارے شیخ صاحب یہ کیا کر رہے ہیں
 
-5
-Namazein Parin Gi Galay Unn Ke Ik Din.
-Namaz-e-Wila Jo Qaza Kar Rahe Hain.
-Ajab Kashmakash Mein Khara Hai Nuseri.
-Ali Rab Ko Sajdah Ada Kar Rahe Hain.
-Sana-e-Imam-e-Raza Likh Ke Yousuf.
-Haqeeqat Mein Hamd-e-Khuda Kar Rahe Hain.
+۵
+نمازیں پڑیں گی گلے ان کے اک دن
+نمازِ ولا جو قضا کر رہے ہیں
+عجب کشمکش میں کھڑا ہے نصیری
+علی رب کو سجدہ ادا کر رہے ہیں
+ثنائے امامِ رضا لکھ کے یوسف
+حقیقت میں حمدِ خدا کر رہے ہیں

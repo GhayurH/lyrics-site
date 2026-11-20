@@ -12,60 +12,60 @@ published: false
 romanLyrics: |-
   1
   Abbas hai Abbas hai Anjuman Makhdumiya
-  Bhagdar machi hai shamiyon mein kaun jaye samne?
+  Bhagdar machi hai Shamiyoṅ mein kaun jaaye saamne?
   Abbas hai, Abbas hai, Abbas hai maidan mein
-  Hum kaisay jaein samne yeh shoor hai maidan mein
+  Hum kaise jaaeṅ saamne yeh shor hai maidan mein
   Abbas hai Abbas hai Abbas hai maidan mein
 
   2
-  Dekh ke tewar Ali ke shair ka Furat par
-  Ik pe ik girney lagay zalim sabhi Furat par
-  Jang ka youn naqsha badal ke rakh diya maidan mein
+  Dekh ke tewar Ali ke sher ka Furat par
+  Ik pe ik girne lage zaalim sabhi Furat par
+  Jang ka yuṅ naqsha badal ke rakh diya maidan mein
 
   3
-  Kitna aala hai nasab mera suno aye shamiyo
-  Jad mere Imran main pisar Ali hoon shamiyo
-  Aasmaan ko bool doon tu barq girey maidan mein
+  Kitna aala hai nasab mera suno ae Shamiyo
+  Jad mere Imran, main pisar-e-Ali huṅ Shamiyo
+  Aasmaan ko bol duṅ to barq gire maidan mein
 
   4
-  Sadaat ki saqayi ka mujh ko sharf bakhsha gaya
-  Mashk di hai taig le kar jang se roka gaya
-  Deen ka de kar alam bhaija gaya maidan mein
+  Saadaat ki saqqaai ka mujh ko sharf bakhsha gaya
+  Mashk di hai tegh le kar jang se roka gaya
+  Din ka de kar alam bheja gaya maidan mein
 
   5
-  Baap ki sari shujat mujh mein simat aayi suno
-  Iltija pani ki tum se meri ruswayi suno
-  Qabza tumhara ya hamara dekh lo maidan mein
+  Baap ki saari shujaat mujh mein simat aayi suno
+  Iltija paani ki tum se meri ruswaai suno
+  Qabza tumhaara ya hamaara dekh lo maidan mein
 
   6
-  Mere chehray par nazar dalo zara aye shamiyo
-  Yaad aaye gi tumhein Siffeen phir se shamiyo
-  Kanp uthay ga shajar jewan ka phir maidan mein
+  Mere chehre par nazar daalo zara ae Shamiyo
+  Yaad aaye gi tumheṅ Siffin phir se Shamiyo
+  Kaaṅp uthe ga shajar-e-jivan ka phir maidan mein
 
   7
-  Hukam-e-Shabbiri se hai majboor Abbas-e-Jari
-  Pas hai darya magar hai door Abbas-e-Jari
-  Sun ke sada-e-al-Atash ranjoor hoon maidan mein
+  Hukm-e-Shabbiri se hai majbur Abbas-e-Jari
+  Paas hai darya magar hai dur Abbas-e-Jari
+  Sun ke sada-e-al-Atash ranjur huṅ maidan mein
 
   8
-  Haan shahadat ke woh mehzar mein mera bhi naam hai
-  Haan mere bazu katein gay yeh mujhe ilham hai
-  Yeh alam mehkay ga mere khon se maidan mein
+  Haaṅ shahaadat ke woh mahzar mein mera bhi naam hai
+  Haaṅ mere baazu kateṅ ge yeh mujhe ilhaam hai
+  Yeh alam mehke ga mere khun se maidan mein
 
   9
-  Bani e aal-e-jafa hasrat mere dil ki suno
-  Kaat kar sar rond do lash-e-Jari Abbas ko
-  Lasha-e-Shabbir ko mat rondna maidan mein
+  Baani-e-aal-e-jafa hasrat mere dil ki suno
+  Kaat kar sar raund do laash-e-Jari Abbas ko
+  Laasha-e-Shabbir ko mat raundna maidan mein
 
   10
-  Syeda ki aal se chadar nahi tum cheenana
-  Kan se gohar Sakina ke nahi tum cheenana
-  Khaima e sadaat ko na lootna maidan mein
+  Sayyeda ki aal se chaadar nahiṅ tum chhinna
+  Kaan se gauhar Sakina ke nahiṅ tum chhinna
+  Khaima-e-Saadaat ko na lutna maidan mein
 
   11
-  Keh raha hai tujh se Zaidi tham kar tera alam
-  Hai sharafat ki sada qayam rahe tera karam
-  Aaj bhi zindah hai teri woh sada maidan mein
+  Keh raha hai tujh se Zaidi thaam kar tera alam
+  Hai sharaafat ki sada qaaim rahe tera karam
+  Aaj bhi zinda hai teri woh sada maidan mein
 ---
 
 ۱

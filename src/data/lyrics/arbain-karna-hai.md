@@ -23,11 +23,11 @@ romanLyrics: |-
   2
   Maut ke biyaabaan meiṅ zindagi ka maatam hai
   Zulm ke andheroṅ meiṅ roshni ka maatam hai
-  Aaṅsuoṅ ke tufaaṅ meiṅ tashnagi ka maatam hai
-  Ek behan ke hisse meiṅ har kisi ka maatam hai
+  Aansuoṅ ke tufaaṅ meiṅ tashnagi ka maatam hai
+  Ik behan ke hisse meiṅ har kisi ka maatam hai
 
   3
-  Bhai kya sunaauṅ maiṅ hum pe kya sitam guzre
+  Bhai kya sunaauṅ main hum pe kya sitam guzre
   Baad-e-asr-e-Aashura bekafan the sab laashe
   Shaam-e-gham ke jaate hi maut ke barhe saaye
   Chhin gayi rida meri bhai jal gaye khaime
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Dur tak nigaahoṅ meiṅ Shaam ka andhera hai
   Karbala se Kufa tak haadisoṅ ne ghera hai
-  Jab se naunihaaloṅ ne muṅh ko apne phera hai
+  Jab se naunihaaloṅ ne munh ko apne phera hai
   Maamta ki godi meiṅ maut ka basera hai
 
   5
@@ -47,7 +47,7 @@ romanLyrics: |-
   6
   Bhai qaid khaane ki tiragi se ho aaye
   Aap ki amaanat ko zulmatoṅ meiṅ kho aaye
-  Khun goshwaaroṅ ka aaṅsuoṅ se dho aaye
+  Khun goshwaaroṅ ka aansuoṅ se dho aaye
   Yuṅ Sakina Bibi ko sab asir ro aaye
 
   7
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   8
   Khud asir-e-qismat thi dar badar gayi Zainab
-  Muṅh ko apne baaloṅ se dhaaṅp kar gayi Zainab
+  Munh ko apne baaloṅ se dhaanp kar gayi Zainab
   Majlis-e-sitamgar meiṅ nange sar gayi Zainab
   Le ke saath kunbe ko nauhagar gayi Zainab
 

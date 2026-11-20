@@ -18,38 +18,38 @@ romanLyrics: |-
 
   1
   Halq-e-saghir tir se jab zakhmi ho gayi
-  Sahra-e-Karbala meiṅ bahi khun ki nadi
-  Aur mayyat liye Husain bhi tarpe hai kis qadar
+  Sahra-e-Karbala mein bahi khun ki nadi
+  Aur mayyat liye Husain bhi tarpe hain kis qadar
 
   2
-  Ek naujawaaṅ tha jis ka jigar chhalni ho gaya
-  Kitna badan meiṅ khun tha Akbar ka beh gaya
-  Thi shakl-e-Mustafa ke lahu se zamin tar
+  Ik naujawaaṅ tha jis ka jigar chhalni ho gaya
+  Kitna badan mein khun tha Akbar ka beh gaya
+  Thi shakl-e-Mustafa ke lahu se zamin par
 
   3
   Mayyat jawaaṅ pisar ki liye jab chale Husain
   Phir naujawaaṅ ki laash liye gir pare Husain
-  Sine meiṅ phat na jaaye kahiṅ Shah ka jigar
+  Sine mein phat na jaaye kahiṅ Shah ka jigar
 
   4
   Farwa ke ek chaand ko aisa grahan laga
-  Maqtal meiṅ jis ke jism ka tukra hai ja ba ja
+  Maqtal mein jis ke jism ka tukra hai ja ba ja
   Dhalta hai khaak o khun se Shabbar tera pisar
 
   5
-  Reti pe khuṅ hai ab bhi Said o Zuhair ka
+  Reti pe khuṅ hai ab bhi Sa'id o Zuhair ka
   Hai ja ba ja Habib ka Hur ka Burair ka
   Har jism tha zamin pe naizoṅ pe sab ke sar
 
   6
   Is sarzamiṅ pe khun hai Muhammad ke Aun ke
-  Is sarzamiṅ pe khun ke qatre hai Jaun ke
-  Arz-e-bala meiṅ ahl-e-falak bole aan kar
+  Is sarzamiṅ pe khun ke khatre hain Jaun ke
+  Arz-e-balaa mein ahl-e-falak bole aan kar
 
   7
   Aashur ko Husain ka chalna muhaal tha
   Maqtal ka waqt-e-asr tha Zahra ka laal tha
-  Roya kiye Husain yehi soch soch kar
+  Roya kiye Husain yehi sonch sonch kar
 
   8
   Jab Sibt-e-Mustafa ke gale par chhuri chali
@@ -57,14 +57,14 @@ romanLyrics: |-
   Bahr-e-madad bulaati kise haaye nauhagar
 
   9
-  Har laash ran meiṅ ghoroṅ se paamaal ho gayi
-  Aashur ko ye arz-e-bala laal ho gayi
+  Har laash ran mein ghoroṅ se paamaal ho gayi
+  Aashur ko ye arz-e-balaa laal ho gayi
   Sajjad bhi pukaar uthe ghash se chaunk kar
 
   10
   Nauha raqam ho kis tarah ae arz-e-Karbala
-  Rehan ke bayaaṅ pe Mubarak ne ki buka
-  Hum Karbala pahunch ke pukaare ba-chashm-e-tar
+  Rehaan ke bayaaṅ pe Mubarak ne ki buka
+  Ham Karbala pahunch ke pukaareṅ ba-chashm-e-tar
   Labbaik ya Husain
   Labbaik ya Husain
 ---

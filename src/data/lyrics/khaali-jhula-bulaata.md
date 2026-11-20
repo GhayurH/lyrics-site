@@ -16,19 +16,19 @@ romanLyrics: |-
   Maaṅ ka dil ghabraata hai kab aaoge Asghar
 
   1
-  Har su dasht meiṅ shaam-e-gharibaaṅ
+  Har su dasht mein shaam-e-gharibaaṅ
   Ke saaye lehraane lage
   Maut ki baaheṅ phail gayiṅ
   Tanhaai ke baadal chhaane lage
-  Suraj ran meiṅ qatl hua
-  Darya khuṅ meiṅ dub gaya
+  Suraj ran mein qatl hua
+  Darya khuṅ mein dub gaya
   Sannaata tarpaata hai
   Kab aaoge Asghar
 
   2
   Kaash agar bas chalta mera
   Maut se tujh ko bacha laati
-  Khaime se khud ran meiṅ aa kar maiṅ
+  Khaime se khud ran mein aa kar main
   Tir gale par khaa leti
   Ruth gaye kiuṅ ae dilbar
   Jaata hai jab koi baahar
@@ -46,11 +46,11 @@ romanLyrics: |-
   Kab aaoge Asghar
 
   4
-  Tum hi bataao jaauṅ kahaaṅ maiṅ
+  Tum hi bataao jaauṅ kahaaṅ main
   Band hai sab raaheṅ meri
-  Jholi meiṅ ab kuchh bhi nahiṅ
+  Jholi mein ab kuchh bhi nahiṅ
   Viraan hui baaheṅ meri
-  Beta maiṅ tujh se bichhar gayi
+  Beta main tujh se bichhar gayi
   Dunya meri ujar gayi
   Gham mujhe khaaye jaata hai
   Kab aaoge Asghar
@@ -58,7 +58,7 @@ romanLyrics: |-
   5
   Aane waale aaye magar
   Is tarah dilaase de ke gaye
-  Aag lagaai khaimoṅ meiṅ
+  Aag lagaai khaimoṅ mein
   Ghar luta chaadar le ke gaye
   Haal kahuṅ kya ae jaani
   Pursa deti hai viraani
@@ -66,30 +66,30 @@ romanLyrics: |-
   Kab aaoge Asghar
 
   6
-  Karb o bala ke dasht meiṅ aa kar
+  Karb o bala ke dasht mein aa kar
   Phut gayi qismat meri
   Ran ki zamiṅ se uth ke zara sa
   Dekh to lo haalat meri
   Kaise kahuṅ kiuṅ jiti huṅ
-  Khun ke aaṅsu piti huṅ
-  Muṅh ko kaleja aata hai
+  Khun ke aansu piti huṅ
+  Munh ko kaleja aata hai
   Kab aaoge Asghar
 
   7
-  Qaid meiṅ bhi bhule se meri
-  Aaṅkhoṅ meiṅ agar nind aati hai
-  Khwaab meiṅ chehra dekh ke tera
-  Chauṅk ke maaṅ uth jaati hai
+  Qaid mein bhi bhule se meri
+  Aankhoṅ mein agar nind aati hai
+  Khwaab mein chehra dekh ke tera
+  Chaunk ke maaṅ uth jaati hai
   Kho gayi jhule ki dori
-  Kis ko sunaauṅ maiṅ lori
-  Haath yuṅhi lehraata hai
+  Kis ko sunaauṅ main lori
+  Haath yuṅ hi lehraata hai
   Kab aaoge Asghar
 
   8
   Maqta likhte likhte Nayyar
   Mujh ko achaanak aisa laga
   Jaise kisi ne rakh diya laa kar
-  Mere tasavvur meiṅ jhula
+  Mere tasavvur mein jhula
   Aamir ne noha jo parha
   Dil ko ye mehsus hua
   Loriyaaṅ koi sunaata hai

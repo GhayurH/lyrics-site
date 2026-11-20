@@ -102,7 +102,7 @@ romanLyrics: |-
   16
   Sine se apne laga kar
   Us dam bahut roye Haidar
-  Haaye Raza aur Zishaṅ
+  Haaye Raza aur Zishaaṅ
 
   17
   Jab bole Shabbir ro kar

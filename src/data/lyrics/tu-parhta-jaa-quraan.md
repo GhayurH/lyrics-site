@@ -28,24 +28,24 @@ romanLyrics: |-
   Kufe waaloṅ ka dhyaan
 
   2
-  Hai dil meiṅ mere bas ek chubhan
-  Maiṅ kaun huṅ koi jaan na le
+  Hai dil mein mere bas ek chubhan
+  Main kaun huṅ koi jaan na le
   Baaloṅ se chhupaaye huṅ chehra
   Kahiṅ koi mujhe pehchaan na le
   Lekin ye hai Zehra ka kunba
   Koi karta hai aelaan
 
   3
-  Kis haal meiṅ hai teri maaṅ jaai
+  Kis haal mein hai teri maaṅ jaai
   Zara dekh to le mujhe naize se
   Meri pusht hai durroṅ se chhalni
   Mere shaanoṅ par hai nil pare
-  Kal tak maiṅ jahaaṅ shehzaadi thi
+  Kal tak main jahaaṅ shehzaadi thi
   Wahiṅ aaj hai meri ye shaan
 
   4
   Hameṅ zaalim patthar maarte haiṅ
-  Sadqoṅ ki khajureṅ pheṅkte haiṅ
+  Sadqoṅ ki khajureṅ phenkte haiṅ
   Aazaad kiya tha hum ne jinheṅ
   Wohi aaj tamaasha dekhte haiṅ
   Jis simt nigaah uthaati huṅ
@@ -53,18 +53,18 @@ romanLyrics: |-
 
   5
   Hum apne shikasta kaandhoṅ par
-  Sau Karb o balaaeṅ le ke chale
+  Sau karb o balaaeṅ le ke chale
   Ye zulm bhi koi kam to nahiṅ
   Ek rassi hai aur baarah gale
   Meri khaatir Rab se maaṅg dua
   Mujhe jaana hai zindaaṅ
 
   6
-  Ghaazi ka alam mere saath meiṅ hai
-  Akbar ki azaaṅ mere saath meiṅ hai
-  Hai Shaam-e-Gharibaaṅ aankhoṅ meiṅ
-  Khaimoṅ ka dhuaaṅ mere saath meiṅ hai
-  Pardes meiṅ hum ko ummat ne
+  Ghaazi ka alam mere saath mein hai
+  Akbar ki azaaṅ mere saath mein hai
+  Hai Shaam-e-Gharibaaṅ aankhoṅ mein
+  Khaimoṅ ka dhuaaṅ mere saath mein hai
+  Pardes mein hum ko ummat ne
   Kya khub rakha mehmaaṅ
 
   7
@@ -77,17 +77,17 @@ romanLyrics: |-
 
   8
   Aawaaz ka parda reh jaaye
-  Boluṅ gi Ali ke lehje meiṅ
+  Boluṅ gi Ali ke lehje mein
   Sab dekh le baateṅ karti hai
-  Zainab bhi Wali ke lehje meiṅ
+  Zainab bhi Ali ke lehje mein
   Mil jaaye ga teri tilaawat se
   Mere khutboṅ ko unwaaṅ
 
   9
-  Sajjad ke dil se puchhe koi
+  Sajjad ke dil se puchho koi
   Hai kaisi qayaamat ki ye ghari
-  Haathoṅ meiṅ hai jis ke hathkariyaṅ
-  Pairoṅ meiṅ hai dohri beri pari
+  Haathoṅ mein hai jis ke hathkariyaaṅ
+  Pairoṅ mein hai dohri beri pari
   Bimaar ne langar pehna hai
   Insaaf kare insaaṅ
 
@@ -96,7 +96,7 @@ romanLyrics: |-
   Reh reh ke azaakhaanoṅ se sada
   Zainab ki tamanna hai maatam
   Aur aansu hai Zehra ki dua
-  Paighaam tera pahuṅchaayeṅ ge
+  Paighaam tera pahunchaayeṅ ge
   Ghar ghar tere nauha khwaaṅ
 ---
 میرے ماں جائے تیری زینب کی

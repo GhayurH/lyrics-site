@@ -4,9 +4,56 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Shabbir di maaṅ di azmat tuṅ, jaa nabiyaaṅ de sultaan tuṅ puchh
+  Jiveṅ vich darbaar rulaai ae, Fizza tuṅ yaaṅ Salmaan tuṅ puchh
+
+  1
+  Tin maaṅ naiṅ guzre baad-e-Nabi
+  Ate mar gai paak Rasool di dhi
+  Dhiyaaṅ da dard ki honda ae, kise ghairatmand insaan tuṅ puchh
+
+  2
+  Bejurm Rasool di aal ate
+  Jehre zulm hoe naiṅ bhul sakde
+  Yasrib Kufe te Karbal tuṅ, ya Shaam waale zindaan tuṅ puchh
+
+  3
+  Eh paak Nabi tere shehr de vich
+  Zehra di qabr hai bewaris
+  Kiuṅ qabr-e-Batool te saaya naiṅ, Baqiya de qabristaan tuṅ puchh
+
+  4
+  Jehnda baaba ilm da shehr hove
+  Jehnda ghar Quraan da markaz ae
+  O masle nuṅ naiṅ bhul sakdi, Quraan di sauṅ Quraan tuṅ puchh
+
+  5
+  Tahrir de tukre chun chun ke
+  Meri sin zaifa ho gai ae
+  Har qadam qadam te rondi si, darbaar choṅ baahar aan tuṅ puchh
+
+  6
+  Tin ghante vich darbaar khari
+  Ghar aa ke maariya Zehra nuṅ
+  Ohdi ghurbat te kiveṅ sabr kita, ae gal bas kal imaan tuṅ
+
+  7
+  Zainab ik gal da khayaal kareṅ
+  Shabbir nuṅ pyaas bari lagdi
+  Kiveṅ toriya Zainab ne pyaasa, Shabbir de maqtal jaan tuṅ puchh
+
+  8
+  Jo zulm Batool te hoe ne
+  Din te painde raat ho jaandi
+  Naiṅ baad-e-Rasool de chain aaya, ohde Bait-ul-Hazan ch jaan tuṅ puchh
+
+  9
+  Naiṅ Hasan Batool de dushman di
+  Mahshar ch shafaat ho sakdi
+  Zehra ae nabuwwat da hissa eh Sarwar de farmaan tuṅ puchh
 ---
 
 Shabbir Di Maa Di Azmat Tu Ja Nabian De | New Noha 2025 Shahzaib Hassan Party | Anjuman e Hussania

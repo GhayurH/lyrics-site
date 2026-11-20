@@ -1,24 +1,37 @@
 ---
-title: "Sun Lay Ghazi Mola Duawaan Lyrics In Punjabi 2010"
+title: "سن لے غازی مولا دعاواں"
+alternateTitle: "Sun Lay Ghazi Mola Duawaan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Munajat"
 poet: "Mumtaz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sun lay Ghazi Mola duawaan
+  Aasra aye Momina da har dam tere alam di chawaan
+  Tu pardah Bibi Zainab da nalay chan Zahra de ghar da
+  Raway qayam pardah Momina da tainu wasta chadar-e-Zainab da
+  Mangdiyan ne tere dar taun Maula dukhiyaan bhaina te mawaan
+  Tu bhar de khali jholiyaan nu tainu wasta pyasay Asghar da
+  Na wichrey koi bhain bhira tainu wasta wichri Sughra da
+  Takdi rayi jehri zindagi sari haye Akbar diyaan rahwaan
+  Mumtaz te Shahid lakhday ne tere nohay pak namazi
+  De apne alam da sadqa taun har matami nu Maula Ghazi
+  Likhday raiye tere nohay Maula jad tak baqi sahwaan
 ---
 
-1
-Sun Lay Ghazi Mola Duawaan Lyrics In Punjabi
-Aasra Aye Momina Da Har Dam Tere Alam Di Chawaan.
-Tu Pardah Bibi Zainab Da Nalay Chan Zahra De Ghar Da.
-Raway Qayam Pardah Momina Da Tainu Wasta Chadar-e-Zainab Da.
-Mangdiyan Ne Tere Dar Taun Maula Dukhiyaan Bhaina Te Mawaan.
-Tu Bhar De Khali Jholiyaan Nu Tainu Wasta Pyasay Asghar Da.
-Na Wichrey Koi Bhain Bhira Tainu Wasta Wichri Sughra Da.
-Takdi Rayi Jehri Zindagi Sari Haye Akbar Diyaan Rahwaan.
- Mumtaz Te Shahid Lakhday Ne Tere Nohay Pak Namazi.
-De Apne Alam Da Sadqa Taun Har Matami Nu Maula Ghazi.
-Likhday Raiye Tere Nohay Maula Jad Tak Baqi Sahwaan.
+۱
+سن لے غازی مولا دعاواں
+آسرا اے مومنا دا ہر دم تیرے علم دی چھاواں
+توں پردہ بی بی زینب دا نالے چن زہرا دے گھر دا
+روے قائم پردہ مومنا دا تینوں واسطہ چادرِ زینب دا
+منگدیاں نے تیرے در توں مولا دکھیّاں بھیناں تے ماواں
+توں بھر دے خالی جھولیاں نوں تینوں واسطہ پیاسے اصغر دا
+نہ وچھڑے کوئی بھین بھرا تینوں واسطہ وچھڑی صغرا دا
+تکدی رہی جیہڑی زندگی ساری ہائے اکبر دیاں راہواں
+ممتاز تے شاہد لکھدے نے تیرے نوحے پاک نمازی
+دے اپنے علم دا صدقہ توں ہر ماتمی نوں مولا غازی
+لکھدے رہیے تیرے نوحے مولا جد تک باقی ساہواں

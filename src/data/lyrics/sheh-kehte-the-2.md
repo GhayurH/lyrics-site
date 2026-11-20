@@ -37,18 +37,18 @@ romanLyrics: |-
 
   5
   Jo dil meiṅ the Zainab ke wo armaan barha luṅ
-  Is khuṅ bhare chehre pe maiṅ sehra to saja luṅ
+  Is khuṅ bhare chehre pe main sehra to saja luṅ
   Thehro abhi duniya se na jaao Ali Akbar
 
   6
-  Maiṅ ne to sada di thi wo uthta nahiṅ Gulfaam
-  Nazdik hai Ae laal mere asr ka hangaam
+  Main ne to sada di thi wo uthta nahiṅ Gulfaam
+  Nazdik hai ae laal mere asr ka hangaam
   Ghaazi ko azaaṅ de kar bulaao Ali Akbar
 
   7
   Tum hichkiyaaṅ lete ho nikalta hai mera dam
   Baazu bhi shikasta hue kaise karuṅ maatam
-  Maiṅ kya karuṅ ghurbat meiṅ bataao Ali Akbar
+  Main kya karuṅ ghurbat meiṅ bataao Ali Akbar
 
   8
   Sheh bole Takallum ye qayaamat ki ghari thi

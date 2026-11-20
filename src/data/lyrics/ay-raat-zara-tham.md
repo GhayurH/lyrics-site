@@ -1,6 +1,6 @@
 ---
 title: "زینب ہے پریشان اے رات ذرا تھم جا"
-alternateTitle: "Ay Raat Zara Tham"
+alternateTitle: "Ae Raat Zara Tham"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,84 +9,50 @@ poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab hai pareshan ay raat zara tham ja
-
+romanLyrics: |-
+  Zainab hai pareshaan, ae raat zara tham ja
 
   1
-
   Rok sehar ko aane se tu
-
-  Kehte hai tujhse mere aansu
-
-  Rakhle pardesi ka parda
-
-  Rehne de andhiyara na ja
-
+  Kehte haiṅ tujh se mere aaṅsu
+  Rakh le pardesi ka parda
+  Rehne de andhiyaara na ja
 
   2
-
-  Bhai bichad jayenge behan se
-
-  Chuth jayenge ma''on se bete
-
-  Lootne aaja-yega sawera
-
-  Be-watno ka kunba na ja
-
+  Bhaai bichhar jaaeṅge behan se
+  Chhat jaaeṅ ge maa'oṅ se bete
+  Lutne aa jaae ga sawera
+  Bewatanoṅ ka kunba na ja
 
   3
-
-  Zakhmi kano ki ek bachi
-
-  Shiddat-e-gham se so na sakegi
-
-  Daudegi wo jaanibe maqtal
-
+  Zakhmi kaanoṅ ki bachi
+  Shiddat-e-gham se so na sake gi
+  Daure gi woh jaanib-e-maqtal
   Thokar khaati dukhiya na ja
 
-
   4
-
-  Bewa hogi dulhan aise
-
-  Jiske haath mein taaza mehndi
-
-  Bain karegi aahein bharegi
-
-  Keh kar dulha dulha na ja
-
+  Bewah ho gi dulhan aisi
+  Jis ke haath meiṅ taaza mehndi
+  Bain kare gi aaheṅ bhareṅ
+  Gi keh kar dulhan dulha na ja
 
   5
-
-  Jang chidegi taygh chalegi
-
-  Surkh yahan aandhi uthegi
-
-  Rong degi ye fauje sitamgar
-
-  Mere bhai ka laasha na ja
-
+  Jang chhiregi, tegh chale gi
+  Surkh yahaaṅ aaṅdhi uthe gi
+  Raund degi ye fauj-e-sitamgar
+  Mere bhaai ka laasha na ja
 
   6
-
-  Acha itni dayr tu ruk ja
-
-  Jab ho safar zindan ko mera
-
-  Shaam talak tu saath mein rehna
-
+  Achha itni der tu ruk ja
+  Jab ho safar zindaan ko mera
+  Shaam talak tu saath meiṅ rehna
   Ban kar mera parda na ja
 
-
   7
-
-  Raat magar rehan na tehri
-
-  Kehti thi zainab bechari
-
-  Aayi raza wo subhe shahadat
-
-  Suraj kyon kar kehta na ja'
+  Raat magar Rehan na tehri
+  Kehti thi Zainab bechaari
+  Aai Raza woh subh-e-shahaadat
+  Suraj kiunkar kehta na ja
 ---
 
 زینب ہے پریشان اے رات ذرا تھم جا

@@ -8,33 +8,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh ka ye imtehan kaisa hai
+  Sheh ka ye imtehaan kaisa hai
   Hae Akbar ka dam ukharta hai
 
   1
-  Nojawani ka bagh ujarta hai
+  Naujawaani ka baagh ujarta hai
 
   2
-  Baap ke samne jawan beta
-  Khaak par airyaṅ ragarta hai
-  Pani pani pukarta hai pisar
-  Baap khud tin din se pyasa hai
-  Aao dekho khalil sabr e Husain
-  Sath naize ke dil nikalta hai
-  Sabr kaise kare Husain e gharib
-  Ham shabih e Nabi bicharta hai
-  Shimr nazuk gala Sakina ka
+  Baap ke saamne jawaan beta
+  Khaak par eriyaṅ ragarta hai
+  Paani paani pukaarta hai pisar
+  Baap khud tin din se pyaasa hai
+  Aao dekho Khalil sabr-e-Husain
+  Saath naize ke dil nikalta hai
+  Sabr kaise kare Husain-e-gharib
+  Ham shabih-e-Nabi bichharta hai
+  Shimr naazuk gala Sakina ka
   Kas ke rassi se kiuṅ jakarta hai
   Kaise uthe Husain dharti se
-  Dard daman pakar ke baitha hai
-  Kiase dekhe gi madar e Akbar
+  Dard daaman pakar ke baitha hai
+  Kaise dekhe gi maadar-e-Akbar
   Garm reti pe laal sota hai
-  Koi Zainab se puche lay ja kar
-  Jite je koi kaise marta hai
-  Jab bhi Rehan jo azan e sehar
-  Roza e shah e diṅ larazta hai
-  Dam nahi torte Ali Akbar
-  Sath maa ka chaman ujarta hai
+  Koi Zainab se puchhe ye jaa kar
+  Jite ji koi kaise marta hai
+  Jab bhi Rehan bo azaan-e-sehar
+  Rauza-e-shaah-e-diṅ larazta hai
+  Dam nahiṅ torte Ali Akbar
+  Saath maaṅ ka chaman ujarta hai
 ---
 
 شہہ کا یہ امتحان کیسا ہے

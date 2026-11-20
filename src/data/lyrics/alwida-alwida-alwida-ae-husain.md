@@ -11,37 +11,37 @@ aliases:
   - "Alwida Alwida Alwida Ay Husain"
 published: true
 romanLyrics: |-
-  alwida alwida alwida ae Husain
+  Alwida alwida alwida ae Husain
 
   1
-  ye sadaaye fughaṅ aur yeh majliseiṅ
-  matam o nauha o gham ki yeh zinateiṅ
-  chahta hai yeh dil yunhi qaim rahe
-  aah phatta hai dil kis tarah yeh kahe
+  Yeh sadaa-e-fughaaṅ aur yeh majliseiṅ
+  Maatam o nauha o gham ki yeh zinateiṅ
+  Chaahta hai yeh dil yuṅ hi qaaim rahe
+  Aah phatta hai dil kis tarah yeh kahe
 
   2
-  mere mehmaan hai aakhri yeh salam
-  tujh pe qurbaan hai aakhri yeh salam
-  shah-e-zishan hai aakhri yeh salam
-  dil hai viran hai aakhri yeh salam
+  Mere mehmaan hai aakhri yeh salaam
+  Tujh pe qurbaan hai aakhri yeh salaam
+  Shaah-e-zishaan hai aakhri yeh salaam
+  Dil hai viraan hai aakhri yeh salaam
 
   3
-  bakhsh de ho gayi ho jo koi khata
-  haq-e-khidmat na hum se ada ho saka
-  gham yahi hai na ji bhar ke matam kiya
-  teri khatir na kiuṅ apna sar de diya
+  Bakhsh de ho gayi ho jo koi khataa
+  Haq-e-khidmat na hum se adaa ho saka
+  Gham yahi hai na ji bhar ke maatam kiya
+  Teri khaatir na kiuṅ apna sar de diya
 
   4
-  gar jiye saal bhar phir kareṅge yeh gham
-  royenge phir tere gham meiṅ mil kar baham
-  aur agar mar gaye to yeh hoga alam
-  haaye afsos ji bhar ke roye na hum
+  Gar jiye saal bhar phir kareiṅ ge yeh gham
+  Royeiṅ ge phir tere gham meiṅ mil kar baaham
+  Aur agar mar gaye to yeh hoga alam
+  Haaye afsos ji bhar ke roye na hum
 
   5
-  alwida ae Husain ae Husain alwida
-  alwida ae shah-e-mashriqain alwida
-  bint-e-Ahmad ke ae nur-e-ain alwida
-  hai Mujahid ke lab par yeh bain alwida
+  Alwida ae Husain ae Husain alwida
+  Alwida ae shah-e-mashriqain alwida
+  Bint-e-Ahmad ke ae nur-e-ain alwida
+  Hai Mujahid ke lab par yeh bain alwida
 ---
 
 الوداع الوداع الوداع اے حسین

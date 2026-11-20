@@ -32,7 +32,7 @@ romanLyrics: |-
   Ek faryaad hai zanjiroṅ ki jhankaaroṅ meiṅ
 
   5
-  Dil ki tathir se shaayad hai zabaan uryaaṅ
+  Dil ki tat-hir se shaayad hai zabaan uryaaṅ
   Haaye wo parda nashiṅ Shaam ke baazaaroṅ meiṅ
 
   6

@@ -1,7 +1,7 @@
 ---
 title: "سائے میں سیدہ کے عزادار رہیں گے"
 recitationId: "saaye-may-sayyeda"
-alternateTitle: "Saaye Meiṅ Sayyeda"
+alternateTitle: "Saaye Mein Sayyeda"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,49 +12,49 @@ tags: []
 aliases: ["Saaye May Sayyeda"]
 published: true
 romanLyrics: |-
-  Saaye meiṅ Sayyeda ke azaadaar raheṅge
-  Jab hoga sawa naize pe khurshid o qayaamat
-  Saaye meiṅ Sayyeda ke azaadaar raheṅge
+  Saaye mein Sayyeda ke azaadaar raheṅ ge
+  Jab ho ga sawa naize pe khurshid o qayaamat
+  Saaye mein Sayyeda ke azaadaar raheṅ ge
 
   1
-  Barhta hi chala jaayega Shabbir ka maatam
-  Qaaim jo gham-e-Shah ke alamdaar raheṅge
+  Barhta hi chala jaaye ga Shabbir ka maatam
+  Qaaim jo gham-e-Shah ke alamdaar raheṅ ge
 
   2
-  Hum qabr meiṅ so jaayeṅge jab bekhabri se
-  Maatam ke nishaaṅ ruh meiṅ bedaar raheṅge
+  Hum qabr mein so jaayeṅ ge jab bekhabri se
+  Maatam ke nishaaṅ ruh mein bedaar raheṅ ge
 
   3
-  Ae munkir-e-maatam tu kahaaṅ jaa ke rahega
-  Jannat meiṅ to Sarwar ke azaadaar raheṅge
+  Ae munkir-e-maatam tu kahaaṅ jaa ke rahe ga
+  Jannat mein to Sarwar ke azaadaar raheṅ ge
 
   4
-  Har chiz ko duniya meiṅ fana hona hai ek din
-  Qaaim gham-e-Shabbir ke aasaar raheṅge
+  Har chiz ko duniya mein fana hona hai ak din
+  Qaaim gham-e-Shabbir ke aasaar raheṅ ge
 
   5
-  Jannat meiṅ agar majlis-e-Shabbir na hogi
-  Hum ahl-e-aza khuld se bezaar raheṅge
+  Jannat mein agar majlis-e-Shabbir na ho gi
+  Hum ahl-e-aza khuld se bezaar raheṅ ge
 
   6
-  Ek baar zara naam-e-Ali le ke to dekho
-  Mushkil meiṅ madadgaar wo har baar raheṅge
+  Ak baar zara naam-e-Ali le ke to dekho
+  Mushkil mein madadgaar wo har baar raheṅ ge
 
   7
   Bejaan khudaaoṅ se kaha bint-e-Asad ne
-  Kaabe meiṅ to ab Haidar-e-Karraar raheṅge
+  Kaabe mein to ab Haidar-e-Karraar raheṅ ge
 
   8
-  Zainab ka khule sar bhare darbaar meiṅ jaana
-  Sajjad isi dard se bimaar raheṅge
+  Zainab ka khule sar bhare darbaar mein jaana
+  Sajjad isi dard se bimaar raheṅ ge
 
   9
   Wo mashk ka chhidna wo Sakina ka bilakna
-  Abbas ke sine pe sada waar raheṅge
+  Abbas ke sine pe sadaa waar raheṅ ge
 
   10
   Rehaan mera naama-e-aamaal hai nauha
-  Parwaana-e-jannat mere ashaar raheṅge
+  Parwaana-e-jannat mere ashaar raheṅ ge
 ---
 سائے میں سیدہ کے عزادار رہیں گے
 جب ہو گا سوا نیزے پہ خورشید و قیامت

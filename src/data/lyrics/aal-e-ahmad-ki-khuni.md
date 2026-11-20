@@ -13,12 +13,12 @@ published: true
 romanLyrics: |-
   Aal-e-Ahmad ki khuni kahani
   Lo suno Karbala ki zabani
-  Kaisi afsurdaiye chandni hai
+  Kaisi afsurdai chaandni hai
   Chhaayi Muharram par murzami hai
 
   1
-  Ek Bibi hai maqtal meiṅ phirti
-  Aur ek ek laashe pa girti
+  Ak Bibi hai maqtal meiṅ phirti
+  Aur ek ek laashe pe girti
   Is tarah dil kisi ka na tute
   Apne pyaaroṅ se koi na chhute
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kaaf le kar koi yuṅ khara hai
   Ek bimar tanha para hai
   Yuṅ Sakina ke gauhar lute haiṅ
-  Dur darya pa shaane kate haiṅ
+  Dur darya pe shaane kate haiṅ
 
   4
   Silsila imtehaaṅ ka hai jaari
@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Dekho Akbar pe girya na hona
   Misl-e-maadar pareshaaṅ na hona
-  Bhai bhai na yuṅ tum pukaaro
+  Bhaai bhaai na yuṅ tum pukaaro
   Shaam ke simt ab tum sidharo
 ---
 آل احمد کی خونی کہانی

@@ -8,36 +8,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hae Sajjad ne gham kaisae uthahain hoṅ ge
-  Loag bazaroṅ maiṅ Zainab ko jo laye hoṅ ge
+  Haaye Sajjad ne gham kaise uthaaye hoṅ ge
+  Log baazaaroṅ meiṅ Zainab ko jo laaye hoṅ ge
 
   1
-  1) Yad Abbas ki Zainab ko satati ho gi
-  Log Khaiyyam ko jab lutne aaye hon gay
+  Yaad Abbas ki Zainab ko jo aati ho gi
+  Log Khiyaam ko jab lutne aaye hoṅ ge
 
   2
-  2) Na Alamdar na Qasim aur na Akber hi rahe
-  Kaise saidaniyoṅ kay perde banae hon gay
+  Na Alamdar na Qasim na Ali Akbar hi rahe
+  Kaise saiyidaaniyoṅ ne parde banaaye hoṅ ge
 
   3
-  3) Qabar maiṅ lasha-e-Shabbar bhi tarapta ho ga
-  Sehre Qasim ne jo mathe pay sajaye hon gay
+  Qabr meiṅ laasha-e-Shabbar bhi tarapta ho ga
+  Sehre Qasim ne jo maathe pe sajaaye hoṅ ge
 
   4
-  4) Bhir bhi aam thi aur sar pay ridayeṅ bhi na thi
-  Kaise namus ne phir chehre chupaiyain hon gay
+  Bhir bhi aam thi aur sar pe ridaaeṅ bhi na thiṅ
+  Kaise naamus ne phir chehre chhupaaye hoṅ ge
 
   5
-  Socho Akhtar zara Zainab ka hashr kya hoga
-  Sar shahidoṅ ke jo naizoṅ pe lagaaye honge
+  Socho Akhtar zara Zainab ka hashr kya ho ga
+  Sar shahidoṅ ke jo naizoṅ pe lagaaye hoṅ ge
 
   6
-  Chhor kar Kufa ko haaye shahr-e-Nabi meiṅ Haider
-  Paak Sajjad ke tabut pe aaye hoṅge
+  Chhor kar Kufa ko haaye shahr-e-Nabi meiṅ Haidar
+  Paak Sajjad ke taabut pe aaye hoṅ ge
 
   7
-  Jab Nabi zadiyaṅ darbar meiṅ sar nange gayi
-  Khun bimar ki aankhoṅ ne bahaaye hoṅge
+  Jab Nabi zaadiyaaṅ darbaar meiṅ sar nange gaeiṅ
+  Khun bimaar ki aankhoṅ ne bahaaye hoṅ ge
 ---
 
 ہائے سجادؑ نے غم کیسے اٹھائے ہوں گے

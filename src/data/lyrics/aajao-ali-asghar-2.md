@@ -1,6 +1,6 @@
 ---
 title: "آجاؤ علی اصغر آ جاؤ علی اصغر"
-alternateTitle: "Aajao Ali Asghar"
+alternateTitle: "Aa Jao Ali Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aajao Ali Asghar aa jao Ali Asghar
+  Aa jao Ali Asghar aa jao Ali Asghar
   Maaṅ jhula jhulaaye raatoṅ ko uth kar lori sunaaye
   Ae phul se sipahi tujhko salaam mera
-  Tu ne kiya hai uncha duniya meiṅ naam mera
+  Tu ne kiya hai uncha duniya mein naam mera
   Aa ja tujhe maaṅ sine se lagaaye
 
   2
@@ -40,7 +40,7 @@ romanLyrics: |-
   6
   Maadar ke saamne jab paani ka jaam aaye
   Besaakhta laboṅ par tera hi naam aaye
-  Paani meiṅ tera chehra nazar aaye
+  Paani mein tera chehra nazar aaye
 
   7
   Dil se nikal rahi hai ab ye duaaeṅ har pal

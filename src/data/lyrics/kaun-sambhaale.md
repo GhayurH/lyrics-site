@@ -12,7 +12,7 @@ tags: []
 aliases: ["Kaun Sambhale"]
 published: true
 romanLyrics: |-
-  Girte huwe naaqe se zamin par
+  Girte hue naaqe se zamin par
   Kaun sambhaale Zainab ko
   Saath nahiṅ hai koi baraadar
   Kaun sambhaale Zainab ko
@@ -27,8 +27,8 @@ romanLyrics: |-
 
   2
   Aun o Muhammad Qaasim aur
-  Abbas-e-Dilaawar koi nahiṅ
-  Kaun madad ko aayega aakhir
+  Abbas Dilaawar koi nahiṅ
+  Kaun madad ko aaye ga aakhir
   Monis o yaawar koi nahiṅ
   Aabid hai par wo bhi hai laaghar
   Kaun sambhaale Zainab ko
@@ -52,13 +52,13 @@ romanLyrics: |-
   5
   Jab ye chali thi apne watan se
   Saani-e-Haidar saath meiṅ the
-  Inki amaari sab se hasiṅ thi
+  In ki amaari sab se hasiṅ thi
   Saare baraadar saath meiṅ the
   Ab hai magar tanha ye yahaaṅ par
   Kaun sambhaale Zainab ko
 
   6
-  Dekh rahi haiṅ uski nigaaheiṅ
+  Dekh rahi haiṅ us ki nigaaheṅ
   Bhir meiṅ apna koi nahiṅ
   Shaam ke logoṅ ka majma hai
   Ahl-e-Madina koi nahiṅ
@@ -69,7 +69,7 @@ romanLyrics: |-
   Shaam ke zaalim maar rahe the
   Zainab ko jab patthar se
   Dekh ke nok-e-naiza par
-  Abbas-e-Dilaawar ke sar se
+  Abbas Dilaawar ke sar se
   Kehne lagi Fizza ro ro kar
   Kaun sambhaale Zainab ko
 
@@ -77,15 +77,15 @@ romanLyrics: |-
   Naamahram hai log sabhi
   Aur ghairoṅ ki aabaadi hai
   Shaam ke baazaaroṅ meiṅ khule sar
-  Kufe ki shehzaadi hai
-  Dukhiya par haṅste hai sitamgar
+  Kufe ki shaahzaadi hai
+  Dukhiya par hanste hai sitamgar
   Kaun sambhaale Zainab ko
 
   9
-  Dekh ke Zainab ko is gham meiṅ
-  Sab ko khayaal aaya hoga
+  Dekh ke Zainab ko jis gham meiṅ
+  Sab ko khayaal aaya ho ga
   Dil meiṅ Kumail o Aamir ye
-  Logoṅ ke sawaal aaya hoga
+  Logoṅ ke sawaal aaya ho ga
   Nok-e-sinaaṅ par sar hai bahattar
   Kaun sambhaale Zainab ko
 ---

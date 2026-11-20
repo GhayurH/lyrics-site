@@ -1,6 +1,6 @@
 ---
 title: "ہاے اصغر میرے اصغر"
-alternateTitle: "Ay Mere Bezaban"
+alternateTitle: "Ae Mere Bezaabaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye asghar mere asghar
-  Ae raaj dulare asghar
-  Maa tujhko pukare asghar
-  Meri aankh ke taare asghar
-  Aaja mere pyare asghar
-  Ae mere bezaban tum reh gaye kahaṅ
-  Asghar jiyegi kaise tere baghair maa
-  Chehra wo chand jaisa kaise bhulaye maa
-  Asghar jiyegi kaise tere baghair maa
-  Kya waqt aagaya hai bano ki bekasi par
-  Ghurbat pe teri matam kaise karegi ki maadar
-  Aada ne bandh di hai haathoṅ meiṅ rassiyaṅ
+  Haaye Asghar mere Asghar
+  Ae raaj dulaare Asghar
+  Maaṅ tujhko pukaare Asghar
+  Meri aankh ke taare Asghar
+  Aaja mere pyaare Asghar
+  Ae mere bezaabaan tum reh gaye kahaṅ
+  Asghar jiyegi kaise tere baghair maaṅ
+  Chehra woh chaand jaisa kaise bhulaaye maaṅ
+  Asghar jiyegi kaise tere baghair maaṅ
+  Kya waqt aa gaya hai Bano ki bekasi par
+  Ghurbat pe teri maatam kaise karegi ki maadar
+  Aada ne baandh di hai haathoṅ meiṅ rassiyaṅ
   Asghar jiyegi kaise...
-  Himmat pe maa tumhari qurban kiuṅ na jaaye
-  Sunti hoo tir khaakar tum ran meiṅ muskuraye
-  Maadar ki laaj rakh li shabaash meri jaan
+  Himmat pe maaṅ tumhaari qurban kiuṅ na jaaye
+  Sunti huṅ tir kha kar tum ran meiṅ muskuraaye
+  Maadar ki laaj rakh li shaahbaash meri jaan
   Asghar jiyegi kaise...
   Maadar ki hai wasiyat beta khayaal rakhna
-  Godhi meiṅ inki asghar jaane ki zid na karna
-  Pehle hi hai shikasta dadi ki phasliyaṅ
+  Godi meiṅ inki Asghar jaane ki zid na karna
+  Pehle hi hai shikasta daadi ki pasliyaṅ
   Asghar jiyegi kaise...
-  Kya zer-e-khaak ab bhi soye ho moo chupaye
-  Maa saari bibiyoṅ se sharminda ho na jaaye
-  Har ek shahid ka hai sar bar sare sina
+  Kya zer-e-khaak ab bhi soye ho munh chhupaaye
+  Maaṅ saari bibiyoṅ se sharminda ho na jaaye
+  Har ek shahid ka hai sar bar sar-e-sinaaṅ
   Asghar jiyegi kaise...
-  Dushwaar hogaya hai gham meiṅ tumhare jina
-  Ab khaali godh jaa kar maa kya kare madina
-  Mujhko wahin bulalo ae laal ho jahaṅ
+  Dushwaar ho gaya hai gham meiṅ tumhaare jina
+  Ab khaali god jaa kar maaṅ kya kare Madina
+  Mujhko wahi bula lo ae laal ho jahaṅ
   Asghar jiyegi kaise...
-  Saanseiṅ to chal rahi hai zinda kahaṅ rahi hai
-  Maa zindagi se apni azaadi chaahti hai
-  Mushkil kusha ho tum bhi khulwado beriyaṅ
+  Saanseṅ to chal rahi hai zinda kahaṅ rahi hai
+  Maaṅ zindagi se apni aazaadi chaahti hai
+  Mushkil kusha ho tum bhi khulwa do beriyaṅ
   Asghar jiyegi kaise...
-  Jangal meiṅ ek beta awaaz gunjti hai
-  Ye soch kar bhi maadar maqtal meiṅ ro rahi hai
+  Jangal meiṅ ek beta aawaaz gunjti hai
+  Ye sonch kar bhi maadar maqtal meiṅ ro rahi hai
   Lagta hai dard se tum lete ho siskiyaṅ
   Asghar jiyegi kaise...
-  Ye ujri godh beta kaise sukun paaye
-  Haalat pe teri maa ki haste hai shaam waale
-  Daaman meiṅ hai tumhare jhule ki lakriyaṅ
+  Ye ujri god beta kaise sukun paaye
+  Haalat pe teri maaṅ ki hanste hain Shaam waale
+  Daaman meiṅ hain tumhaare jhule ki lakriyaṅ
   Asghar jiyegi kaise...
-  Rote the sab takallum ek maa ne jab kaha tha
-  Paigham karbala meiṅ jaa kar hawa ye dena
-  Zindaṅ ke dar pe ab bhi baithi hai ek maa
+  Rote the sab Takallum ik maaṅ ne jab kaha tha
+  Paighaam Karbala meiṅ jaa kar hawa ye dena
+  Zindaaṅ ke pe ab bhi baithi hai ek maaṅ
   Asghar jiyegi kaise...
 ---
 

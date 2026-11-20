@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aankhon se khon roya Sajjad umar sari
-  Bazar ka woh manzar bhola nahi Muhari
-  Maro na taziyane zakhmi hai pusht-e-Abid
-  Hathon mein hathkari hai gardan mein tauq bhari
+  Aankhoṅ se khun roya Sajjad umar saari
+  Baazaar ka woh manzar bhula nahiṅ muhaari
+  Maaro na taaziyaane zakhmi hai pusht-e-Aabid
+  Haathoṅ mein hathkari hai gardan mein tauq bhaari
 
   2
-  Zainab pukari ro kar barsao youn na pathar
-  Abid ko khoon rulaye phophi ki aah-o-zari
-  Kehti thi yeh Sakina Sajjad se aye bhai
-  Dardoon ka yeh khazeena miraas hai hamari
+  Zainab pukaari ro kar barsaao yuṅ na pathar
+  Aabid ko khun rulaaye phuphi ki aah o zaari
+  Kehti thi yeh Sakina Sajjad se ae bhaai
+  Dardoṅ ka yeh khazina miraas hai hamaari
 
   3
-  Darbar-e-ashqiya mein mahool tha sharabi
-  Qaidi ne mushkilon se ik ik ghari guzari
-  Ghurbat pe apni Sheh ki aankhon se barh gaya khoon
-  Lash-e-Sakina iss ne turbat mein jab utari
+  Darbaar-e-ashqiya mein maahaul tha sharaabi
+  Qaidi ne mushkiloṅ se ik ik ghari guzaari
+  Ghurbat pe apni Sheh ki aankhoṅ se barh gaya khun
+  Laash-e-Sakina us ne turbat mein jab utaari
 
   4
-  Jab ho gayi shahadat Sajjad ki aye logo
-  Aankhon se khoon kafan mein haye tha phir bhi jari
-  Mula karam yeh kar de lafzoon mein soz bhar de
-  Afraz tere dar ka adna sa hai bhikari
+  Jab ho gayi shahaadat Sajjad ki ae logo
+  Aankhoṅ se khun kafan mein haaye tha phir bhi jaari
+  Maula karam yeh kar de lafzoṅ mein soz bhar de
+  Afraz tere dar ka adnaa sa hai bhikaari
 ---
 
 ۱

@@ -24,20 +24,20 @@ romanLyrics: |-
   Bhai bhi to keh do zara ek baar Alamdar
 
   3
-  Sone nahiṅ deta tha jinheṅ khauf tumhaara
+  Sone nahiṅ deta hai jinheṅ khauf tumhaara
   Ab chain se soyeṅge wo ashraar Alamdar
 
   4
-  Aankhoṅ se lahu poṅchh ke Shabbir pukaare
+  Aankhoṅ se lahu ponch ke Shabbir pukaare
   Bhai ka karo aakhri didaar Alamdar
 
   5
-  Parde ke tahaffuz ka kiya jinse tha waada
+  Parde ke tahaffuz ka kiya jin se tha waada
   Kya un se kahe Zainab-e-laachaar Alamdar
 
   6
   Abbas baraadar ki ye ghurbat bhi to dekho
-  Tanhaai hai aur Sayyid-e-Abraar Alamdar
+  Tanhaai hai aur Sayyid o Abraar Alamdar
 
   7
   Us fauj ke marne ka yaqiṅ aaye to kaise

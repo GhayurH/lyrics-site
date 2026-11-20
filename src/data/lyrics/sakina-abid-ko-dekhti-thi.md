@@ -9,57 +9,57 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Lain Ne Jab Bhi Tamacha Mara Sakina, Abid Ko Dekhti Thi
-  Kissi Ne Mara Jo Taziyana Sakina, Abid Ko Dekhti Thi
+  Lain ne jab bhi tamaacha maara Sakina, Abid ko dekhti thi
+  Kisi ne maara jo taaziyaana Sakina, Abid ko dekhti thi
 
   1
-  Gharib-e-Karb o Bala Ki Beti
-  Chali Hai Karb o Bala Se Pyasi
-  Lain Iss Tarha Raste Meiṅ
-  Barhai Pyasoṅ Ki Tashnagi Bhi
-  Dikha Ke Pani Ko Jab Bahaya
+  Gharib-e-Karb o Bala ki beti
+  Chali hai Karb o Bala se pyaasi
+  Lain is tarah raaste mein
+  Barhaai pyaasoṅ ki tashnagi bhi
+  Dikha ke paani ko jab bahaaya
 
   2
-  Woh Sham-e-Ghurbat Woh Jalte Khaime
-  Bola Rahi Thi Chacha Ko Ro Ke
-  Tarap Rahi Thi Jab Iss Ke Gohar
-  Laiṅ Kano Se Iss Ke Khainche
-  Jab Iss Ke Kano Se Khon Nikla
+  Woh shaam-e-ghurbat woh jalte khaime
+  Bula rahi thi chacha ko ro ke
+  Tarap rahi thi jab is ke gauhar
+  Laiṅ kaanoṅ se is ke khainche
+  Jab is ke kaanoṅ se khun nikla
 
   3
-  Yatimi Ki Pehli Raat Meiṅ Hi
-  Gale Meiṅ Iss Ke Bandhi Thi Rasi
-  Sadaeiṅ Deti Thi Bhai Bhai
-  Woh Apni Ghurbat Pe Ro Rahi Thi
-  Jab Aag Se Jal Raha Tha Kurta
+  Yatimi ki pehli raat mein hi
+  Gale mein is ke bandhi thi rassi
+  Sadaaeṅ deti thi bhaai bhaai
+  Woh apni ghurbat pe ro rahi thi
+  Jab aag se jal raha tha kurta
 
   4
-  Tha Kaisa Darbar Meiṅ Woh Manzar
-  Tha Tasht Mein Jab Husain Ka Sar
-  Chari Jo Zalim Ne Mari Hans Ke
-  Gharib-e-Zahra Ke Zakhmi Lab Par
-  Behan Ko Sajjad Dekhta Tha
+  Tha kaisa darbaar mein woh manzar
+  Tha tasht jab Husain ka sar
+  Chhari jo zaalim ne maari hans ke
+  Gharib-e-Zahra ke zakhmi lab par
+  Behan ko Sajjad dekhta tha
 
   5
-  Husain Ka Sar Bhi Ro Raha Tha
-  Tha Waqt Syedaniyoṅ Pe Kaisa
-  Shikasta Hathuṅ Se Munh Chupa Kar
-  Zamin Pe Tab Gir Gayiṅ Sakina
-  Kanizi Meiṅ Jab Laiṅ Ne Manga
+  Husain ka sar bhi ro raha tha
+  Tha waqt Sayyedaaniyoṅ pe kaisa
+  Shikasta haathoṅ se munh chhupa kar
+  Zamin pe gir gayiṅ Sakina
+  Kanizi mein jab laiṅ ne maanga
 
   6
-  Chacha Ka Sar Jab Isse Dikhaya
-  Pakar Ke Baluṅ Se Oss Ko Mara
-  Zamiṅ Pe Sar Gir Gaya Tu Oss Ne
-  Chacha Ka Sar Gaud Meiṅ Uthaya
-  Laiṅ Ne Durrah Osse Lagaya
+  Chacha ka sar jab ise dikhaaya
+  Pakar ke baaloṅ se us ko maara
+  Zamiṅ pe sar gir gaya to us ne
+  Chacha ka sar god mein uthaaya
+  Laiṅ ne durra use lagaaya
 
   7
-  Asir Ho Kar Jo Qaid Pohanchi
-  Ali-o- Zishan Ro Ke Boli
-  Bohat Andhera Hai Dekho Bhai
-  Yahaṅ Pe Maiṅ Kis Tarha Rahon Gi
-  Qadam Ko Zindan Meiṅ Rakha Tha
+  Asir ho kar jo qaid pahunchi
+  Ali o Zishan ro ke boli
+  Bahut andhera hai dekho bhaai
+  Yahaaṅ pe main kis tarah rahuṅ gi
+  Qadam ko zindaan mein rakha tha
 ---
 
 لعین نے جب بھی طمانچہ مارا سکینہ عابد کو دیکھتی تھی

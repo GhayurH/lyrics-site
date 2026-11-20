@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Baqir mere beta meri faryaad suno
 
-  Tarap kar Hazrat-e-Baqir se ye Zain-ul-Aba bole
+  Tarap kar Hazrat Baqir se ye Zain-ul-Aba bole
   Maiṅ aankheṅ band karta huṅ to maqtal yaad aata hai
   Ae mere laal batla de ke maiṅ souṅ bhala kaise
 
@@ -36,7 +36,7 @@ romanLyrics: |-
   4
   Sakina Karbala ke baad soyi hi nahiṅ Baqir
   Wo ik din mar gayi ghut kar kabhi royi nahiṅ Baqir
-  Wo rona chaahti thi jab laiṅ the maarte durre
+  Wo rona chaahti thi jab la'iṅ the maarte durre
 
   5
   Ali Asghar ka mar jaana sar-e-maqtal qayaamat thi
@@ -44,12 +44,12 @@ romanLyrics: |-
   Abhi tak yaad karta huṅ wohi manzar maiṅ ro ro ke
 
   6
-  Tan-e-Qasim ka khuṅ meiṅ dub jaana kaise bhuluṅga
+  Tan-e-Qasim ka khuṅ meiṅ dub jaana kaise bhuluṅ ga
   Aba meiṅ is liye tha wo ke paara paara laasha tha
   Bari mushkil se baba ran se us ki laash laaye the
 
   7
-  Pas-e-Aashur wo mahshar raha maiṅ kaise bhuluṅga
+  Pas-e-Aashur wo mahshar raha maiṅ kaise bhuluṅ ga
   Meri nanhi Sakina ka gala rassi meiṅ jakra tha
   Nikalti thi kahaaṅ aawaaz aakhir bolti kaise
 

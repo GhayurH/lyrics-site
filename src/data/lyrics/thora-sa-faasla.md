@@ -12,43 +12,43 @@ tags: []
 aliases: ["Thoda Sa Faasla"]
 published: true
 romanLyrics: |-
-  Thora sa faasla hai khanjar meiṅ aur gale meiṅ
-  Zainab ka dam ruka hai bas itne faasle meiṅ
+  Thora sa faasla hai khanjar mein aur gale mein
+  Zainab ka dam ruka hai bas itne faasle mein
 
   1
   Khanjar ko dekhti hai bhai ko dekhti hai
   Athaara bhaiyoṅ ki tanha behan khari hai
-  Abbas tum kahaaṅ ho is sakht marhale meiṅ
+  Abbas tum kahaaṅ ho is sakht marhale mein
 
   2
   Na ziṅ na zamiṅ par jis ka badan hai haaye
   Pehle hi zakhm jis ne unnis sau haiṅ khaaye
-  Zaalim lage haiṅ phir bhi gardan ko kaatne meiṅ
+  Zaalim lage haiṅ phir bhi gardan ko kaatne mein
 
   3
   Qaatil khara hai lekin Shah muskura rahe haiṅ
   Zainab se apne aansu Sarwar chhupa rahe haiṅ
-  Masruf hai behan ko ab bhi sambhaalne meiṅ
+  Masruf hai behan ko ab bhi sambhaalne mein
 
   4
   Mushkil kusha ki beti Naad-e-Ali hai parhti
   Bete haiṅ na bhatije koi nahiṅ hai baaqi
-  Aa kar madad kare jo khanjar ko rokne meiṅ
+  Aa kar madad kare jo khanjar ko rokne mein
 
   5
   Behnoṅ ke dil se puchho ehsaas ki ghari hai
   Sattar qadam se Zainab manzar jo dekhti hai
-  Dil na sambhal sakega manzar wo sochne meiṅ
+  Dil na sambhal sakega manzar wo sochne mein
 
   6
   Ik bewatan musaafir pyaasa hai tin din ka
   Tegh-e-sitam ke niche bhula nahiṅ wo sajda
-  Uthti hai surkh aandhi maqtal hai zalzale meiṅ
+  Uthti hai surkh aandhi maqtal hai zalzale mein
 
   7
   Sine pe rakhe zaanu qaatil ruka hua hai
   Salman aur Mesum khanjar na chal saka hai
-  Do haath aa rahe haiṅ khanjar ke raaste meiṅ
+  Do haath aa rahe haiṅ khanjar ke raaste mein
 ---
 تھوڑا سا فاصلہ ہے خنجر میں اور گلے میں
 زینب کا دم رکا ہے بس اتنے فاصلے میں

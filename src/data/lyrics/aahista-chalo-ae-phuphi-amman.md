@@ -14,60 +14,60 @@ published: true
 romanLyrics: |-
   Dimashq ka hai safar berida hai Aal-e-Nabi
   Na mehmil na kajawa hai na haudaj hai koi
-  Asir sab the magar ek hi rasan meiṅ bandhe
+  Asir sab the magar ek hi rasan mein bandhe
   Gala Sakina ka hai shaan-e-haram ke jakre hue
 
   Rasan jo khinchti hai karti hai Sakina nale
-  Thehro aahista chalo
+  Thehro, aahista chalo
   Aahista chalo ae phuphi ammaṅ
   Rassi se gala dukhta hai mera
 
   1
-  Hai ammaṅ gala is tarah jakra hai rasan meiṅ
-  Do gaam bhi chalne ki nahiṅ jaan badan meiṅ
-  Khulwado rasan kardo ye ehsaan
+  Hai ammaṅ gala is tarah jakra hai rasan mein
+  Do gaam bhi chalne ki nahiṅ jaan badan mein
+  Khulwa do rasan kar do ye ehsaan
   Rassi se gala dukhta hai mera
 
   2
   Kis shaan se nikli thi sawari mere ghar se
-  Ammu mujhe khud laye the mehmil meiṅ bitha ke
-  Ek ye hai safar haye phuphi jaan
+  Ammu mujhe khud laaye the mehmil mein bitha ke
+  Ik ye hai safar haaye phuphi jaan
   Rassi se gala dukhta hai mera
 
   3
-  Ye dekh ke rote haiṅ mere baba sinaṅ par
+  Ye dekh ke rote haiṅ mere baba sinaaṅ par
   Rone pe mujhe durre lagata hai sitamgar
-  Rote haiṅ isi ran meiṅ chacha jaan
+  Rote haiṅ isi ran mein chacha jaan
   Rassi se gala dukhta hai mera
 
   4
   Kya din hai mere naaz uthata nahiṅ koi
   Ammaṅ meri saansoṅ ka bharosa nahiṅ koi
-  Chehre se aziyat hai numayaṅ
+  Chehre se aziyat hai numayaaṅ
   Rassi se gala dukhta hai mera
 
   5
-  Maiṅ aap ke zakhmoṅ se bhi waaqif huṅ phuphi jaan
-  Kuch waade nibhane haiṅ mujhe bar sar-e-zindaṅ
-  Bas kehti huṅ maiṅ ba haal-e-pareshan
+  Main aap ke zakhmoṅ se bhi waaqif huṅ phuphi jaan
+  Kuch waade nibhane haiṅ mujhe bar sar-e-zindaaṅ
+  Bas kehti huṅ main ba haal-e-pareshan
   Rassi se gala dukhta hai mera
 
   6
-  Mar jaye gi mar jaye gi is raah meiṅ muztar
+  Mar jaaye gi, mar jaaye gi is raah mein muztar
   Dada ko sada deti huṅ har gaam tarap kar
-  Ya Shaah-e-Najaf Sayyad-e-Zishan
+  Ya Shaah-e-Najaf Sayyid Zi Shaan
   Rassi se gala dukhta hai mera
 
   7
-  Ae ammaṅ kaleje meiṅ ulajhne lagi saanseiṅ
-  Ab aur safar karne ki taqat nahiṅ mujh meiṅ
-  Ja paauṅ gi kya jaanib-e-zindan
+  Ae ammaṅ kaleje mein ulajhne lagi saanseṅ
+  Ab aur safar karne ki taqat nahiṅ mujh mein
+  Ja paauṅ gi kya jaanib-e-zindaan
   Rassi se gala dukhta hai mera
 
   8
-  Ae Mazhar o Irfan Sakina ki fughaṅ par
-  Zainab ne kaha maiṅ bhi tarap jaati huṅ dukhtar
-  Jab kehti hai tu mujhse meri jaan
+  Ae Mazhar o Irfan Sakina ki fughaaṅ par
+  Zainab ne kaha main bhi tarap jaati huṅ dukhtar
+  Jab kehti hai tu mujh se meri jaan
   Rassi se gala dukhta hai mera
 ---
 

@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Chauda sau baras bite ye zakhm hai taaza
   Farhan ho ya Mazhar sab karte haiṅ nauha
-  Taa hashr tere gham meiṅ royegi ye duniya
+  Taa hashr tere gham meiṅ roye gi ye duniya
 ---
 زہرا کا جگر پارہ حیدر کا دلارا
 ہاے حسن مولا

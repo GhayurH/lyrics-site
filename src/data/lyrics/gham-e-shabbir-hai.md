@@ -16,7 +16,7 @@ romanLyrics: |-
   Yehi Mahshar hayaat-e-jaawidaaṅ hai
 
   1
-  Sanaa-e-Shah mere bas ki kahaaṅ hai
+  Sanaa-e-Shaah mere bas ki kahaaṅ hai
   Maiṅ qatra huṅ wo bahr-e-bekaraaṅ hai
 
   2
@@ -32,15 +32,15 @@ romanLyrics: |-
   Ridaa-e-Bint-e-Zehra baaghbaan hai
 
   5
-  Dahan Shah ka Payambar ki zabaan hai
-  Nabuwwat ki imaamat tarjuma hai
+  Dahan Shaah ka Payambar ki zabaan hai
+  Nubuwwat ki imaamat tarjuma hai
 
   6
   Pisar ki laash par kehti thi Laila
   Utho beta ke ab waqt-e-azaaṅ hai
 
   7
-  Kiye ja midhat-e-Aal-e-Payambar
+  Kiye jaa midhat-e-Aal-e-Payambar
   Yehi Mahshar hayaat-e-jaawidaaṅ hai
 ---
 

@@ -16,11 +16,11 @@ romanLyrics: |-
   Shabbir ne batlaaya Islaam pe mar jaana
 
   1
-  Ek tir Ali Asghar ki gardan pe laga aa kar
+  Ik tir Ali Asghar ki gardan pe laga aa kar
   Maasum ka hans dena aur maut ka ghabraana
 
   2
-  Mayyat Ali Asghar ki haathoṅ pe utha bole
+  Mayyat Ali Asghar ki haathoṅ pe utha boli
   Allah tere aage Shabbir ka nazraana
 
   3
@@ -36,12 +36,12 @@ romanLyrics: |-
   Duldul ki raqaaboṅ se beti ka lipat jaana
 
   6
-  Kuchh is tarah laash aayi ek raat ke byahe ki
+  Kuchh is tarah laash aayi ik raat ke byahe ki
   Afsos ke maadar ne bete ko na pehchaana
 
   7
   Darbaar meiṅ Fizza ne logoṅ se kaha ro kar
-  Aati hai Nabi zaadi taazim ko jhuk jaana
+  Aati hai Nabi zaadi tazim ko jhuk jaana
 
   8
   Dunya to na bhulegi Abbas wafa teri

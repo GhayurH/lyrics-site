@@ -14,10 +14,10 @@ published: true
 romanLyrics: |-
   Shaam haaye Shaam
 
-  Maiṅ Zainab huṅ asir-e-Shaam naana
+  Main Zainab huṅ asir-e-Shaam naana
   Bacha ke laayi huṅ Islaam naana
 
-  Maiṅ apne baap ki zinat thi lekin
+  Main apne baap ki zinat thi lekin
   Hai ab Ummul Masaaib naam naana
 
   1
@@ -33,12 +33,12 @@ romanLyrics: |-
   Mita ke aayi huṅ ilzaam naana
 
   4
-  Diya jab Haidari lehje meiṅ khutba
+  Diya jab Haidari lehje mein khutba
   Larazta tha faqir-e-Shaam naana
 
   5
   Bachaayi laaj jis ne Ambiya ki
-  Maiṅ kar ke aayi huṅ wo kaam naana
+  Main kar ke aayi huṅ wo kaam naana
 
   6
   Na aankhoṅ se lahu Sajjad rota

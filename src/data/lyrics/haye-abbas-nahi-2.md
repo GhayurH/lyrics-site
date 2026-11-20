@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye abbas nahi aaye na aaya pani
+  Haye Abbas nahiṅ aaye na aaya paani
 
   1
-  Dhondti reh gayi kooze may sakina pani
-  Rote dekha jo sakina ko to bachoṅ ne kaha
-  Aisa lagta hai hamay ab na milenga pani
+  Dhundti reh gayi kozoṅ meiṅ Sakina paani
+  Rote dekha jo Sakina ko to bachchoṅ ne kaha
+  Aisa lagta hai hameiṅ ab na milega paani
 
   2
-  Roye behte huwe pani ke liye jab ghazi
-  Roya abbas ko mashkize se behta pani
+  Roye behte hue paani ke liye jab Ghazi
+  Roya Abbas ko mashkize se behta paani
 
   3
-  Aks dikhta tha sakina ka kabhi asghar ka
-  Kaise abbas ne behte huwe dekha pani
+  Aks dikhta tha Sakina ka kabhi Asghar ka
+  Kaise Abbas ne behte hue dekha paan
 
   4
-  Usko malum tha pyasi hai bhatiji meri
-  Paas hote huwe moo se na lagaya pani
+  Usko maalum tha pyaasi hai bhatiji meri
+  Paas hote hue muṅh se lagaya paani
 
   5
-  Laashe abbas pe rote rahe pyase shabbir
-  Aur mashkize pe karta raha girya pani
+  Laash-e-Abbas pe rote rahe pyaase Shabbir
+  Aur mashkize pe karta raha girya paani
 
   6
-  Gir gaya ghazi ka sar naize se jab zaalim ne
-  Saamne bali sakina ke bahaya pani
+  Gir gaya Ghazi ka sar neze se jab zaalim ne
+  Saamne baali Sakina ke giraaya paani
 
   7
-  Aisa ammu ki judaai ka hua sadma use
-  Phir kabhi bali sakina ne na maanga pani
+  Aisa ammuṅ ki judaai ka hua sadma use
+  Phir kabhi baali Sakina ne na maanga paani
 
   8
-  Haye abbas ki zainab ko bahot yaad aayi
-  Fazl ne jab bhi madine may pilaya pani
+  Haye Abbas ki Zainab ko bahut yaad aayi
+  Fazl ne jab bhi Madine meiṅ pilaaya paani
 
   9
-  Bhul na jaana alamdare wafa ki ghurbat
-  Jab bhi pyasoṅ ko sabiloṅ se pilana pani
+  Bhul na jaana alamdaar-e-wafa ki ghurbat
+  Jab bhi pyaasoṅ ko sabiloṅ se pilaana paani
 
   10
-  Hum ne khud dekha hai zishan o raza ye manzar
-  Ab bhi abbas ki turbat se hai lipta pani
+  Ham ne khud dekha hai Zishaan o Raza ye manzar
+  Ab bhi Abbas ki turbat se hai lipta paani
 ---
 
 ہائے عباس نہیں آئے نا آیا پانی

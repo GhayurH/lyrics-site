@@ -1,7 +1,7 @@
 ---
 title: "آج بھی سب سے نمایاں ہے علم عباس کا"
 recitationId: "aaj-bhi-sab-se-numaya-hai-alam-abbas-ka"
-alternateTitle: "Aaj Bhi Sab Se Numayaṅ Hai Alam Abbas Ka"
+alternateTitle: "Aaj Bhi Sab Se Numayaaṅ Hai Alam Abbas Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,36 +12,36 @@ tags: []
 aliases: ["Aaj Bhi Sab Se Numaya Hai Alam Abbas Ka"]
 published: true
 romanLyrics: |-
-  Aaj bhi sab se numayaṅ hai alam Abbas ka
-  Dekh lo dunya pe chhaya hai alam Abbas ka
+  Aaj bhi sab se numayaaṅ hai alam Abbas ka
+  Dekh lo duniya pe chhaaya hai alam Abbas ka
 
   1
-  Log miloṅ dur se pehchan leṅ ghar ko mere
-  Is liye ghar pe sajaya hai alam Abbas ka
+  Log miloṅ dur se pehchaan leṅ ghar ko mere
+  Is liye ghar pe sajaaya hai alam Abbas ka
 
   2
-  Yuṅ laga jaise utha li kaainat-e-Kibriya
-  Haath meiṅ jab bhi uthaya hai alam Abbas ka
+  Yuṅ laga jaise uthaa li kaainat-e-Kibriya
+  Haath mein jab bhi uthaaya hai alam Abbas ka
 
   3
-  Koi parcham bhi hamari aaṅkh ko bhata nahiṅ
-  Zehn meiṅ apne samaya hai alam Abbas ka
+  Koi parcham bhi hamari aankh ko bhaata nahiṅ
+  Zehn mein apne samaaya hai alam Abbas ka
 
   4
-  Khwab dekha hai yeh maiṅ ne Rab isse taabir de
-  Chaand par ja ke lagaya hai alam Abbas ka
+  Khwaab dekha hai yeh main ne Rab ise taabir de
+  Chaand par ja ke lagaaya hai alam Abbas ka
 
   5
-  Yeh jo Sehwan meiṅ laga hai Laal ke darbar par
+  Yeh jo Sehwan mein laga hai Laal ke darbaar par
   Tair kar paani pe aaya hai alam Abbas ka
 
   6
-  Kya anokha tamgha-e-jurat mila hai khuld meiṅ
-  Sab shahidoṅ ne uthaya hai alam Abbas ka
+  Kya anokha tamgha-e-jurat mila hai khuld mein
+  Sab shahidoṅ ne uthaaya hai alam Abbas ka
 
   7
   Fikr kya Yasir Raza, suraj sawa neze pe ho
-  Apne haq meiṅ bahr-e-saaya hai alam Abbas ka
+  Apne haq mein bahr-e-saaya hai alam Abbas ka
 ---
 
 آج بھی سب سے نمایاں ہے علم عباس کا

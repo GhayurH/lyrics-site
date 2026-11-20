@@ -1,6 +1,6 @@
 ---
 title: "اے باوفا"
-alternateTitle: "Aey Bawafa"
+alternateTitle: "Ae Bawafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,21 +10,21 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bazar-e-Sham mein Darbar-e-Aam mein
-  Zainab ki sadaein aati thin
+  Baazaar-e-Shaam mein Darbaar-e-Aam mein
+  Zainab ki sadaaeṅ aati thiṅ
   Aa Ghazi aa Ghazi aa Ghazi aa Ghazi aa Ghazi aa Ghazi
-  Zainab bula rahi hai aawaz tu suna do
-  Aye Bawafa kahan ho bhai zara sada do
-  Aa dekh teri behnein bazar mein khari hain
-  Majma hai Shamiyon ka chadar kahin se la do
-  Ahl-e-haram ne Ghazi kitna tujhey pukara
-  Be chain hai Sakina chehra ossay dikha do
-  Inn zalimo ne mujh ko soney nahi diya hai
-  Saye mein tum alam ke kuch dair ko sula do
-  Darbar ja rahe hain Sajjad sarbaan hai
-  Ghazi musibaton mein kuch hosla barha do
-  Shabeer ke ghamo ko aye door karne walay
-  Qaidi bachay kharey hain aazad tu kara do
+  Zainab bula rahi hai aawaaz to suna do
+  Ae bawafa kahaaṅ ho bhaai zara sada do
+  Aa dekh teri behneṅ baazaar mein khari haiṅ
+  Majma hai Shaamiyoṅ ka chaadar kahiṅ se la do
+  Ahl-e-haram ne Ghazi kitna tujhe pukaara
+  Bechain hai Sakina chehra use dikha do
+  In zaalimoṅ ne mujh ko sone nahiṅ diya hai
+  Saaye mein tum alam ke kuchh der ko sula do
+  Darbaar ja rahe haiṅ Sajjad saarbaan hai
+  Ghazi musibatoṅ mein kuchh hausla barha do
+  Shabbir ke ghamoṅ ko ae dur karne wale
+  Qaidi bachche khare haiṅ aazaad to kara do
 ---
 
 ۱

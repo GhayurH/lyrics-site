@@ -12,33 +12,33 @@ published: false
 romanLyrics: |-
   1
   Aaj bhai se bhai juda ho gaya
-  Kya sitam barsar-e-Karbala ho gaya
-  Sheh ne zanu pe Abbas ka sar rakha
-  Phair kar hath balon mein ro kar kaha
+  Kya sitam bar sar-e-Karbala ho gaya
+  Sheh ne zaanu pe Abbas ka sar rakha
+  Pher kar haath baaloṅ mein ro kar kaha
 
   2
-  Shair mujh se mera kyun khafa ho gaya
-  Aankh mein teer hai gir chuka hai alam
-  Bhai kis ne kiye tere bazu qalam
-  Mere salar yeh tujh ko kya ho gaya
+  Sher mujh se mera kiuṅ khafa ho gaya
+  Aaṅkh mein tir hai gir chuka hai alam
+  Bhai kis ne kiye tere baazu qalam
+  Mere salaar yeh tujh ko kya ho gaya
 
   3
-  Bole Shabir Ghazi hai khuwaish meri
+  Bole Shabbir Ghazi hai khwaahish meri
   Aakhri waqt mein bhai keh do Jari
-  Oss ne bhai kaha our fida ho gaya
-  Aa ke khaimay mein Mula ne giriya kiya
+  Us ne bhai kaha aur fida ho gaya
+  Aa ke khaime mein Maula ne girya kiya
 
   4
-  Our Sakina ko seene laga kar kaha
+  Aur Sakina ko sine laga kar kaha
   Mujh pe qurban tera chacha ho gaya
-  Bole Abbas main surkhuru ho gaya
+  Bole Abbas main surkhru ho gaya
   Aap par main ne khud ko tasadduq kiya
 
   5
-  Farz jo qarz tha woh adda ho gaya
+  Farz jo qarz tha woh ada ho gaya
   Dair tak Shah-e-Konain rote rahe
-  Our Yasir tarap kar yeh kehte rahe
-  Door mujh se mera bawafa ho gaya
+  Aur Yasir tarap kar yeh kehte rahe
+  Dur mujh se mera bawafa ho gaya
 ---
 
 ۱

@@ -17,11 +17,11 @@ romanLyrics: |-
 
   1
   Baad-e-qatl-e-Shah-e-abraar qayaamat hogi
-  Lutne khaimoṅ ko aa jaaeṅge khaimoṅ meiṅ shaqi
-  Dasht-e-khuṅ khaar meiṅ Saadaat ka pursa hoga
+  Lutne khaimoṅ ko aa jaaeṅge khaimoṅ mein shaqi
+  Dasht-e-khuṅ khaar mein Saadaat ka pursa hoga
 
   2
-  Ye sadaa dete the maqtal meiṅ Husain Ibn-e-Ali
+  Ye sadaa dete the maqtal mein Husain Ibn-e-Ali
   Aakhri baar mere sine pe so le Bibi
   Aaj ke baad padar hoṅge na sina hoga
 
@@ -32,13 +32,13 @@ romanLyrics: |-
 
   4
   Koi hamdard na hoga meri beti naashaad
-  Furqat-e-Shaah meiṅ ae jaan-e-jigar asr ke baad
-  Baap ke hijr meiṅ har aan tarapna hoga
+  Furqat-e-Shaah mein ae jaan-e-jigar asr ke baad
+  Baap ke hijr mein har aan tarapna hoga
 
   5
   Shola Saadaat ke khaimoṅ se uthe ga Bibi
   Mere beshir ka jhula bhi jalega Bibi
-  Kya bataauṅ maiṅ sitam Aal pe kya kya hoga
+  Kya bataauṅ main sitam Aal pe kya kya hoga
 
   6
   Ghaur se dekh lo ae tishna dahan khaak hai ye

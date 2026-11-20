@@ -1,49 +1,78 @@
 ---
-title: "Awaz Lehad Se Aayi"
+title: "آواز لحد سے آئی"
+alternateTitle: "Awaz Lehad Se Aayi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Syed Raza Abbas Shah"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Roney ki sadaaye aayi jab maasooma ghabraayi
+
+  Mujhey leykar apney saath chalo mera shaam mey jee ghabraaye aawaaz lahad se aaye
+
+  1
+  Ehsaan karo ek behna par, meri qabr pey Shimr na aaye aawaaz lahad se aaye
+  Mujhey leykar apney…..
+
+  2
+  Meri dhoop mey qabr banii bhayya my tars gayii hoon saaye ko
+  Kuch deyr sahii par rehneydo, apney haatho ke saaye aawaaz lahad se aaye
+  Mujhey leykar apney…..
+
+  3
+  Dil naazuk hotey hai maao ke meri maa ko aasra do bhayya
+  Kahi to rokar na dukhyaari, meri turbat let marjaaye aawaaz lahad se aaye
+  Mujhey leykar apney…..
+
+  4
+  Merey kaan nahii ruqsaar nahii mera sarr bhi ab tak zaqmii hai
+  Meri itni umr nahi bhayya, my ney jitney zulm uthaaye aawaaz lahad se aaye
+  Mujhey leykar apney…..
+
+  5
+  Karbal ki tarf nigaah karkey is aas pey dekhti rehtii hoon
+  Bujh pyaas gayii hai Asgar ki, koi aakar ye batlaaye aawaaz lahad se aaye
+  Mujhey leykar apney…..
+
+  6
+  Waqt e ruqsat Hasnain dua Sajjad ko kii maasooma ney
+  Jo qoon hai terii aankho se, ab to paani banjaaye aawaaz lahad se aaye
+  Mujhey leykar apney…..
 ---
 
-Roney ki sadaaye aayi jab maasooma ghabraayi (2)
+رونے کی صدائیں آئی جب معصومہ گھبرائی
 
-Mujhey leykar apney saath chalo mera shaam mey jee ghabraaye aawaaz lahad se aaye (2)
+مجھے لے کر اپنے ساتھ چلو میرا شام میں جی گھبرائے آواز لحد سے آئے
 
-Ehsaan karo ek Behna par (2) meri qabr pey shimr na aaye aawaaz lahad se aaye
+۱
+احسان کرو اک بہنا پر، میری قبر پہ شمر نہ آئے آواز لحد سے آئے
+مجھے لے کر اپنے…..
 
-Mujhey leykar apney….. (2)
+۲
+میری دھوپ میں قبر بنی بھیا میں ترس گئی ہوں سائے کو
+کچھ دیر سہی پر رہنے دو، اپنے ہاتھوں کے سائے آواز لحد سے آئے
+مجھے لے کر اپنے…..
 
-meri dhoop mey qabr banii Bhayya my tars gayii hoon saaye ko (2)
+۳
+دل نازک ہوتے ہیں ماؤں کے میری ماں کو آسرا دو بھیا
+کہیں تو رو کر نہ دکھیاری، میری تربت لیٹ مر جائے آواز لحد سے آئے
+مجھے لے کر اپنے…..
 
-Kuch deyr sahii par rehneydo (2) apney haatho ke saaye aawaaz lahad se aaye
+۴
+میرے کان نہیں رخسار نہیں میرا سر بھی اب تک زخمی ہے
+میری اتنی عمر نہیں بھیا، میں نے جتنے ظلم اٹھائے آواز لحد سے آئے
+مجھے لے کر اپنے…..
 
-Mujhey leykar apney….. (2)
+۵
+کربل کی طرف نگاہ کر کے اس آس پہ دیکھتی رہتی ہوں
+بجھ پیاس گئی ہے اصغر کی، کوئی آ کر یہ بتلائے آواز لحد سے آئے
+مجھے لے کر اپنے…..
 
-dil naazuk hotey hai maao ke meri MAA ko aasra do Bhayya (2)
-
-Kahi to rokar na dukhyaari (2) meri turbat let marjaaye aawaaz lahad se aaye
-
-Mujhey leykar apney….. (2)
-
-merey kaan nahii ruqsaar nahii mera sarr bhi ab tak zaqmii hai (2)
-
-Meri itni umr nahi Bhayya (2) my ney jitney zulm uthaaye aawaaz lahad se aaye
-
-Mujhey leykar apney….. (2)
-
-karbal ki tarf nigaah Karkey is aas pey dekhti rehtii hoon (2)
-
-Bujh pyaas gayii hai asgar ki (2) koi aakar ye batlaaye aawaaz lahad se aaye
-
-Mujhey leykar apney….. (2)
-
-waqt e ruqsat hasnain dua SAJJAD ko kii maasooma ney (2)
-
-Jo qoon hai terii aankho se (2) ab to paani banjaaye aawaaz lahad se aaye
-
-Mujhey leykar apney….. (2)
+۶
+وقتِ رخصت حسنین دعا سجاد کو کی معصومہ نے
+جو خون ہے تیری آنکھوں سے، اب تو پانی بن جائے آواز لحد سے آئے
+مجھے لے کر اپنے…..

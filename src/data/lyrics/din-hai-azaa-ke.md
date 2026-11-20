@@ -13,7 +13,7 @@ aliases: ["Din Hai Aza Ke"]
 published: true
 romanLyrics: |-
   Din hai azaa ke logoṅ farsh-e-azaa bichhaao
-  Gham apne bhul ke gham-e-Shah-e-diṅ manaao
+  Gham apne bhul ke gham-e-Shaah-e-diṅ manaao
 
   1
   Mazlum ka ye maatam ek dars-e-zindagi hai

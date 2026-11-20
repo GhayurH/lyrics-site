@@ -1,29 +1,48 @@
 ---
-title: "Haye Sajjad Diyaan Akhiyaan Rat Roiyaan Lyrics In Punjabi 2018"
+title: "ہائے سجاد دیاں اکھیاں رت روئیاں"
+alternateTitle: "Haye Sajjad Diyaan Akhiyaan Rat Roiyaan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sabir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Sajjad diyaan akhiyaan rat roiyaan
+  Phophiyaan mawaan ban qaidi jadon bazar gayiyaan
+  Loag beemar toon aye pochday ray ayho Ghazi di bhain Zainab aye
+  Safraan andar qatal kita aynj Sajjd kayiyaan
+
+  2
+  Sanj veraan de naal bhaina ne ewein har moor te nibhai aye
+  Othay baqi sir na re aithey chadraan na rayiyaan
+  Naaz babay sada uthaye san ki Sakina te waqat aaya aye
+  Jane Bibi kiwein har ja haye jhirkaan ne sayiyaan
+
+  3
+  Qaid zindan di te muk gayi aye khon akhiyaan choon aidi nayi rukna
+  Aine takiya wich safraan jiwein bhaina turiyaan
+  Aakhri sa beemar de lab te wain haye Sham da riya Sabir
+  Manzar akhiyaan wich reh gaye moor rawaan galiyaan
 ---
 
-1
-Haye Sajjad Diyaan Akhiyaan Rat Roiyaan.
-Phophiyaan Mawaan Ban Qaidi Jadon Bazar Gayiyaan.
-Loag Beemar Toon Aye Pochday Ray Ayho Ghazi Di Bhain Zainab Aye.
-Safraan Andar Qatal Kita Aynj Sajjd Kayiyaan.
+۱
+ہائے سجاد دیاں اکھیاں رت روئیاں
+پھوپھیاں ماواں بن قیدی جدوں بازار گئیاں
+لوگ بیمار توں اے پچھدے رہے ایہو غازی دی بھین زینب اے
+سفراں اندر قتل کیتا اینج سجاد کئیاں
 
-2
-Sanj Veraan De Naal Bhaina Ne Ewein Har Moor Te Nibhai Aye.
-Othay Baqi Sir Na Re Aithey Chadraan Na Rayiyaan.
-Naaz Babay Sada Uthaye San Ki Sakina Te Waqat Aaya Aye.
-Jane Bibi( Kiwein Har Ja Haye Jhirkaan Ne Sayiyaan.
+۲
+سانجھ ویراں دے نال بھیناں نے ایویں ہر موڑ تے نبھائی اے
+اوتھے باقی سر نہ رہے ایتھے چادراں نہ رہیاں
+ناز بابے سدا اٹھائے سن کی سکینہ تے وقت آیا اے
+جانے بی بی کیویں ہر جا ہائے جھڑکاں نے سہیاں
 
-3
-Qaid Zindan Di Te Muk Gayi Aye Khon Akhiyaan Choon Aidi Nayi Rukna.
-Aine Takiya Wich Safraan Jiwein Bhaina Turiyaan.
-Aakhri Sa Beemar De Lab Te Wain Haye Sham Da Riya Sabir.
-Manzar Akhiyaan Wich Reh Gaye Moor Rawaan Galiyaan.
+۳
+قید زنداں دی تے مک گئی اے خون اکھیاں چوں ایہدی نئیں رکنا
+ایہنے تکیا وچ سفراں جیویں بھیناں ٹریاں
+آخری سا بیمار دے لب تے وین ہائے شام دا ریا صابر
+منظر اکھیاں وچ رہ گئے موڑ راہواں گلیاں

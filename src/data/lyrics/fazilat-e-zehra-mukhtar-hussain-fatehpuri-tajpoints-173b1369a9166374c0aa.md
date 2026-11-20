@@ -1,30 +1,48 @@
 ---
-title: "Fazilat E Zehra Mukhtar Hussain Fatehpuri"
+title: "فضیلتِ زہرا"
+alternateTitle: "Fazilat-e-Zehra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Mukhtar"
-tags: ["noUrdu"]
+poet: "Mukhtar Hussain Fatehpuri"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Nabi kharey muskura rahe hain abba ko masnad bana rahe hain
+  Adab se Jibreel Fatima ko Nabi ki khidmat mein la rahe hain
+  Nabi ne barh kar galay lagaya adab se beti ke hath chomay
+  Keh kaisay ho ahteram-e-Kaba Nabi yeh sab ko bata rahe hain
+  Batool se bugz our muhabbat Nabi ka maiyar-e-dosti hai
+  Kissi ko ghar se utha rahe hain kissi ko dil mein bitha rahe hain
+  Jawab do gar siwaye Zahra Nabi ki kuch our betiyaan thin
+  Tu kyun faqat Fatima ke bachoon ke kaprey janat se aa rahe hain
+  Jawab do gar siwaye Zahra Nabi ki kuch our betiyaan thin
+  Faqat Hussain-o-Hasan ka hi kyun farishtay jhola jhula rahe hain
+  Jawab do gar siwaye Zahra Nabi ki kuch our betiyaan thin
+  Bas ik dar-e-Fatima pe Salman kyun yeh jharo laga rahe hain
+  Jawab do gar siwaye Zahra Nabi ki kuch our betiyaan thin
+  Tu kyun Nabi bas bara-e-Zahra sitara dar par bola rahe hain
+  Suno aye Mukhtar our Majid sada yeh aaye tu lutf aaye
+  Sana-e-Zahra sunein gay tum se Rasool tum ko bola rahe hain
 ---
 
-1
-Fazilat E Zehra Mukhtar Hussain Fatehpuri
-Nabi Kharey Muskura Rahe Hain Abba Ko Masnad Bana Rahe Hain.
-Adab Se Jibreel Fatima Ko Nabi Ki Khidmat Mein La Rahe Hain.
-Nabi Ne Barh Kar Galay Lagaya Adab Se Beti Ke Hath Chomay.
-Keh Kaisay Ho Ahteram-e-Kaba Nabi Yeh Sab Ko Bata Rahe Hain.
-Batool Se Bugz Our Muhabbat Nabi Ka Maiyar-e-Dosti Hai.
-Kissi Ko Ghar Se Utha Rahe Hain Kissi Ko Dil Mein Bitha Rahe Hain.
-Jawab Do Gar Siwaye Zahra Nabi Ki Kuch Our Betiyaan Thin.
-Tu Kyun Faqat Fatima Ke Bachoon Ke Kaprey Janat Se Aa Rahe Hain.
-Jawab Do Gar Siwaye Zahra Nabi Ki Kuch Our Betiyaan Thin.
-Faqat Hussain-o-Hasan Ka Hi Kyun Farishtay Jhola Jhula Rahe Hain.
-Jawab Do Gar Siwaye Zahra Nabi Ki Kuch Our Betiyaan Thin.
-Bas Ik Dar-e-Fatima Pe Salman Kyun Yeh Jharo Laga Rahe Hain.
-Jawab Do Gar Siwaye Zahra Nabi Ki Kuch Our Betiyaan Thin.
-Tu Kyun Nabi Bas Bara-e-Zahra Sitara Dar Par Bola Rahe Hain.
-Suno Aye Mukhtar Our Majid Sada Yeh Aaye Tu Lutf Aaye.
-Sana-e-Zahra Sunein Gay Tum Se Rasool Tum Ko Bola Rahe Hain.
+۱
+نبی کھڑے مسکرا رہے ہیں عبا کو مسند بنا رہے ہیں
+ادب سے جبرئیل فاطمہ کو نبی کی خدمت میں لا رہے ہیں
+نبی نے بڑھ کر گلے لگایا ادب سے بیٹی کے ہاتھ چومے
+کہ کیسے ہو احترامِ کعبہ نبی یہ سب کو بتا رہے ہیں
+بتول سے بغض اور محبت نبی کا معیارِ دوستی ہے
+کسی کو گھر سے اٹھا رہے ہیں کسی کو دل میں بٹھا رہے ہیں
+جواب دو گر سوائے زہرا نبی کی کچھ اور بیٹیاں تھیں
+تو کیوں فقط فاطمہ کے بچوں کے کپڑے جنت سے آ رہے ہیں
+جواب دو گر سوائے زہرا نبی کی کچھ اور بیٹیاں تھیں
+فقط حسین و حسن کا ہی کیوں فرشتے جھولا جھلا رہے ہیں
+جواب دو گر سوائے زہرا نبی کی کچھ اور بیٹیاں تھیں
+بس اک درِ فاطمہ پہ سلمان کیوں یہ جھاڑو لگا رہے ہیں
+جواب دو گر سوائے زہرا نبی کی کچھ اور بیٹیاں تھیں
+تو کیوں نبی بس برائے زہرا ستارہ در پر بلا رہے ہیں
+سنو اے مختار اور ماجد صدا یہ آئے تو لطف آئے
+ثنائے زہرا سنیں گے تم سے رسول تم کو بلا رہے ہیں

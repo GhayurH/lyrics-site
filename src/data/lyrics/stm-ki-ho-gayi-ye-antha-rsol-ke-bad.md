@@ -8,72 +8,41 @@ poet: "Zafar Abbas"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sitam ki ho gayi ye inteha Rasool ke baad
-
-  Chali hay maangne haq Fatema Rasool ke baad
-
+romanLyrics: |-
+  Sitam ki ho gayi ye inteha Rasul ke baad
+  Chali hai maangne haq Fatema Rasul ke baad
 
   1
-
-  Rasool zaadi kharri kyon rahi sare darbaar
-
-  Ye kaun takht pe baitha raha Rasool ke baad
-
+  Rasul zaadi khari kiuṅ rahi sar-e-darbaar
+  Ye kaun takht pe baitha raha Rasul ke baad
 
   2
-
-  Wo jaake shehr ke baahar pidar ko roti rahi
-
-  Kisi ne ghar may na rone diya Rasool ke baad
-
+  Wo jaa ke shahr ke baahar pidar ko roti rahi
+  Kisi ne ghar mein na rone diya Rasul ke baad
 
   3
-
-  Shaheed hogaya uski hi zarb se Mohsin
-
-  Dare batool giraaya gaya Rasool ke baad
-
+  Shahid ho gaya us ki hi zarb se Mohsin
+  Dar-e-Batul giraaya gaya Rasul ke baad
 
   4
-
-  Wo jurm kya tha ke jis par Ali ko galiyon may
-
-  Rasan se baandh ke khayncha gaya Rasool ke baad
-
+  Wo jurm kya tha ke jis par Ali ko galiyoṅ mein
+  Rasan se baandh ke khiṅcha gaya Rasul ke baad
 
   5
-
-  Shikasta hogaya kaise Batool ka pehlu
-
-  Batao zulm ye kisne kiya Rasool ke baad
-
+  Shikasta ho gaya kaise Batul ka pehlu
+  Bataao zulm ye kis ne kiya Rasul ke baad
 
   6
-
-  Koi bataaye hame kyon Batool ke ghar se
-
-  Hamesha rone ki aayi sada Rasool ke baad
-
+  Koi bataaye hameiṅ kiuṅ Batul ke ghar se
+  Hamesha rone ki aayi sada Rasul ke baad
 
   7
-
-  Wo jin ki karte rahay Rasool khud tazeem
-
-  Unhi ke rozon ko dhaya gaya Rasool ke baad
-
+  Jo chehre aaya-e-tathir ki bane tafsir
+  Unheiṅ adu ne kiya berida Rasul ke baad
 
   8
-
-  Jo chehre aayaye tatheer ki banay tafseer
-
-  Unhe phiraya gaya berida Rasool ke baad
-
-
-  9
-
-  Zafar nabi ke gharane pe dhaa ke zulm-o-sitam
-
-  Sajaayi jaane lagi Karbala Rasool ke baad'
+  Zafar Nabi ke gharaane pe dhaa ke zulm o sitam
+  Sajaayi jaane lagi Karbala Rasul ke baad
 ---
 
 ستم کی ہو گئی یہ انتہا رسولؐ کے بعد

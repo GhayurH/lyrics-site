@@ -7,6 +7,36 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Karb o bala ke dasht mein maaṅ ka
+  Saara gharaana lutta raha
+  Aise mein tab bhi shukr ka sajda
+  Saara gharaana karta raha
+
+  2
+  Huṅ tin din ka main bhuka pyaasa
+  Paani pila de Shimr zara sa
+  Phir bhi diya na ik bund paani
+  Ye Ibn-e-Zahra kehta raha
+
+  3
+  Shimr ka khanjar aa ke hata lo
+  Us ko mere Abbas bacha lo
+  Majbur Zainab dekh rahi thi
+  Halq-e-baraadar katta raha
+
+  4
+  Main ne
+  Sar se ridaaeṅ chhin gaeṅ bhaiya
+  Haath pas-e-gardan se bandhe haiṅ
+  Baaqi nahiṅ ab parda raha
+
+  5
+  Ae mere Shio jab paani pina
+  Pyaas ko meri tum yaad karna
+  Waqt-e-zabh ae ahl-e-aza
+  Maula hamaara kehta raha
 ---
 
 ۱

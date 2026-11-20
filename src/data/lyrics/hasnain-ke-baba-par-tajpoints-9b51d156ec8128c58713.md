@@ -1,50 +1,90 @@
 ---
-title: "Hasnain Ke Baba Par"
+title: "حسنین کے بابا پر"
+alternateTitle: "Hasnain Ke Baba Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hasnain ke baba par kya waqt yeh aaya hai
+  Jari hai lahu sar se tar khon musalla hai
+
+  1
+  Dekha hi nahi sabir dunya ne Ali jaisa
+  Phir iss ko rulata hai kyun zakhm yeh zarbat ka
+  Kiya yaad mein Haider ki pehlu-e- shikasta hai
+  Thi samne zojah ke gardan mein bandhi rasi
+
+  2
+  Ab samne beti ke zakhmi hai tera sar bhi
+  Woh shehar-e- Madina tha afsoos yeh Kofa hai
+  Tareekh ne ik yeh bhi manzar hai ajab dekha
+  Qatil ko bhi woh jis ne rehne na diya pyasa
+
+  3
+  Karbal mein ossi ka ghar seh roz ka pyasa hai
+  Beton se jo kehta tha tum sabar nahi khona
+  Woh baap jo kehta tha Shabeer nahi rona
+  Jab betiyaan aaein tu woh baap bhi roya hai
+
+  4
+  Beton ki taraf dekha our kehne lagay Haider
+  Yeh haal jo dekha tu mar jaye gi ro ro kar
+  Zainab ki nigahon se yeh zakhm chupana hai
+  Muljim ke pisar tu ne kaisa yeh sitam dhaya
+
+  5
+  Tu kaisa musalmaan hai itna bhi nahi socha
+  Chehra yeh khuda ka hai jo khon mein doba hai
+  Kofay ke yateemo ki karta tha kafalat jo
+  Ab chor ke jata hai woh apne hi bachoon ko
+
+  6
+  Iss baat ne Zahra ko turbat mein rulaya hai
+  Maula ki shahadat hum Zeeshan manaein gaye
+  Aye Jaun zamane ko yeh baat bataein gaye
+  Jo farz hamara tha woh woh hum ne nibhaya hai
 ---
 
-Hasnain Ke Baba Par Kya Waqt Yeh Aaya Hai.
-Jari Hai Lahu Sar Se Tar Khon Musalla Hai.
+حسنین کے بابا پر کیا وقت یہ آیا ہے
+جاری ہے لہو سر سے تر خون مصلیٰ ہے
 
-1
-Dekha Hi Nahi Sabir Dunya Ne Ali Jaisa.
-Phir Iss Ko Rulata Hai Kyun Zakhm Yeh Zarbat Ka.
-Kiya Yaad Mein Haider Ki Pehlu-e- Shikasta Hai.
-Thi Samne Zojah Ke Gardan Mein Bandhi Rasi.
+۱
+دیکھا ہی نہیں صابر دنیا نے علی جیسا
+پھر اس کو رلاتا ہے کیوں زخم یہ ضربت کا
+کیا یاد میں حیدر کی پہلوئے شکستہ ہے
+تھی سامنے زوجہ کے گردن میں بندھی رسی
 
-2
-Ab Samne Beti Ke Zakhmi Hai Tera Sar Bhi.
-Woh Shehar-e- Madina Tha Afsoos Yeh Kofa Hai.
-Tareekh Ne Ik Yeh Bhi Manzar Hai Ajab Dekha.
-Qatil Ko Bhi Woh Jis Ne Rehne Na Diya Pyasa.
+۲
+اب سامنے بیٹی کے زخمی ہے تیرا سر بھی
+وہ شہرِ مدینہ تھا، افسوس یہ کوفہ ہے
+تاریخ نے اک یہ بھی منظر ہے عجب دیکھا
+قاتل کو بھی وہ جس نے رہنے نہ دیا پیاسا
 
-3
-Karbal Mein Ossi Ka Ghar Seh Roz Ka Pyasa Hai.
-Beton Se Jo Kehta Tha Tum Sabar Nahi Khona.
-Woh Baap Jo Kehta Tha Shabeer Nahi Rona.
-Jab Betiyaan Aaein Tu Woh Baap Bhi Roya Hai.
+۳
+کربل میں اسی کا گھر سہ روز کا پیاسا ہے
+بیٹوں سے جو کہتا تھا تم صبر نہیں کھونا
+وہ باپ جو کہتا تھا شبیر نہیں رونا
+جب بیٹیاں آئیں تو وہ باپ بھی رویا ہے
 
-4
-Beton Ki Taraf Dekha Our Kehne Lagay Haider.
-Yeh Haal Jo Dekha Tu Mar Jaye Gi Ro Ro Kar.
-Zainab Ki Nigahon Se Yeh Zakhm Chupana Hai.
-Muljim Ke Pisar Tu Ne Kaisa Yeh Sitam Dhaya.
+۴
+بیٹوں کی طرف دیکھا اور کہنے لگے حیدر
+یہ حال جو دیکھا تو مر جائے گی رو رو کر
+زینب کی نگاہوں سے یہ زخم چھپانا ہے
+ملجم کے پسر تو نے کیسا یہ ستم ڈھایا
 
-5
-Tu Kaisa Musalmaan Hai Itna Bhi Nahi Socha.
-Chehra Yeh Khuda Ka Hai Jo Khon Mein Doba Hai.
-Kofay Ke Yateemo Ki Karta Tha Kafalat Jo.
-Ab Chor Ke Jata Hai Woh Apne Hi Bachoon Ko.
+۵
+تو کیسا مسلمان ہے اتنا بھی نہیں سوچا
+چہرہ یہ خدا کا ہے جو خون میں ڈوبا ہے
+کوفے کے یتیموں کی کرتا تھا کفالت جو
+اب چھوڑ کے جاتا ہے وہ اپنے ہی بچوں کو
 
-6
-Iss Baat Ne Zahra Ko Turbat Mein Rulaya Hai.
-Maula Ki Shahadat Hum Zeeshan Manaein Gaye.
-Aye Jaun Zamane Ko Yeh Baat Bataein Gaye.
-Jo Farz Hamara Tha Woh Woh Hum Ne Nibhaya Hai.
+۶
+اس بات نے زہرا کو تربت میں رلایا ہے
+مولا کی شہادت ہم ذیشان منائیں گے
+اے جون زمانے کو یہ بات بتائیں گے
+جو فرض ہمارا تھا وہ وہ ہم نے نبھایا ہے

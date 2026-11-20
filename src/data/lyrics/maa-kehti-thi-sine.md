@@ -1,7 +1,7 @@
 ---
 title: "ماں کہتی تھی سینے سے لگا لوں تُجھے آ جا"
 recitationId: "maa-kehti-thi-seene"
-alternateTitle: "Maa Kehti Thi Sine"
+alternateTitle: "Maaṅ Kehti Thi Sine"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maa kehti thi sine se laga luṅ tujhe aa ja
+  Maaṅ kehti thi sine se laga luṅ tujhe aa ja
   Ik baar to phir laut ke Asghar mere aa ja
 
   1

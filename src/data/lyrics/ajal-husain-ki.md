@@ -19,7 +19,7 @@ romanLyrics: |-
   Husainiyoṅ ye tumheṅ Karbala bataati hai
   Jo qaum apne shahidoṅ ko bhul jaati hai
   Qadam qadam pe ajal se fareb khaati hai
-  Phir aisi qaum ki qismat meiṅ besabati hai
+  Phir aisi qaum ki qismat meiṅ besabaati hai
   Husainiyoṅ karo jo pairawi to Hurr ki pairawi ki tarah
 
   2
@@ -44,11 +44,11 @@ romanLyrics: |-
   Husainiyoṅ Hasan Husain bhi zinda rahe inhi ki tarah
 
   5
-  Jo haqparast hai wo sab ghulam-e-Haider haiṅ
-  Nazar meiṅ Badr o Uhad ke tamam manzar haiṅ
-  Jo haqparast nahiṅ buzdilaan-e-Khaibar haiṅ
-  Jo haqparast hai un ke jale hue ghar haiṅ
-  Husainiyoṅ shaur-e-haq ki zarurat hai Qambari ki tarah
+  Jo haq parast hai wo sab ghulaam-e-Haider haiṅ
+  Nazar meiṅ Badr o Uhad ke tamaam manzar haiṅ
+  Jo haq parast nahiṅ buzdilaan-e-Khaibar haiṅ
+  Jo haq parast hai un ke jale hue ghar haiṅ
+  Husainiyoṅ shu'ur-e-haq ki zarurat hai Qambari ki tarah
 
   6
   Inhi ke dar pe ajal aa ke ho gayi majbur
@@ -74,13 +74,13 @@ romanLyrics: |-
   9
   Ye kaun jaata hai marne lahu lahu hai badan
   Faras ke dosh pe suraj ki jaa rahi hai kiran
-  Jalaal kehta hai ye shakhs to hai mautshikan
+  Jalaal kehta hai ye shakhs to hai maut shikan
   Tarap rahi hai dar-e-khaima pe ye kis ki behan
   Husainiyoṅ ye kaainaat larazti hai sarsari ki tarah
 
   10
   Ye kis ke halq pe ruk ruk ke tegh chalti hai
-  Hayat roti hai aur maut haath malti hai
+  Hayaat roti hai aur maut haath malti hai
   Zamin-e-garm se ek aag si nikalti hai
   Ye kis ki maaṅ hai jo girti hai aur sambhalti hai
   Husainiyoṅ ye kaainaat pe chalti hai kya chhuri ki tarah
@@ -88,7 +88,7 @@ romanLyrics: |-
   11
   Hayaat o maut ka ye falsafa diya kis ne
   Ajal ka jaam Khuda ke liye piya kis ne
-  Ye marhala tha kathan tai magar kiya kis ne
+  Ye marhala tha kathin tai magar kiya kis ne
   Rehaan Azmi mar ke bata diya kis ne
   Husainiyoṅ hayaat o maut hai besar Husain hi ki tarah
 ---

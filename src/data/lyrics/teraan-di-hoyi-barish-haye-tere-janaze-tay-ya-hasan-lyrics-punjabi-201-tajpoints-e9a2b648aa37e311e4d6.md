@@ -1,41 +1,72 @@
 ---
-title: "Teraan Di Hoyi Barish Haye Tere Janaze Tay Ya Hasan Lyrics Punjabi 2018"
+title: "تیراں دی ہوئی بارش ہائے تیرے جنازے تے یا حسن"
+alternateTitle: "Teraan Di Hoyi Barish Haye Tere Janaze Tay Ya Hasan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azai"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Teraan di hoyi barish haye tere janaze tay ya Hasan
+  Hoya surkh kafan tera zalim de ishare te ya Hasan
+  Kehra zalma liya badla haye kinj da zulm dhaya
+  Aye pehla janaza si gharon ja ke jo ghar aaya
+
+  2
+  Ghar Fatima Zahra de sadma hoya sadme te ya Hasan
+  Sab jandi aye dunya kina teer chalaye san
+  Seene che kudorat si jaina teer chalaye san
+  Wich jan gaye janat de oh kehray bharose te ya Hasan
+
+  3
+  Naal dushmana ral Jodah Uqba v ganwaya aye
+  Sardar si janat da jino zehar khalaya aye
+  Ki zulm aye dha bethi Muhmmad de nawasay te ya Hasan
+  Kulsoom te Zainab da bura haal hoya ro ro
+
+  4
+  Gash Farwa nu ray painday ik rooz de wich so so
+  Dill dub dub janda si har aah te hokay te ya Hasan
+  Qasim di yateemi da dukh phophiyaan rowanda aye
+  Jadoon takdiyaan Qasim nu bhai Hasan yaad aanda aye
+
+  5
+  Aye kisran raiyaan zinda aye gal koi te soche te ya Hasan
+  Zehar aisa Azai si phat jigar Hasan da giya
+  Oss zehar di garmi naal rang badal badan da giya
+  Wich tasht de kat kat ke tukra piya tukray te ya Hasan
 ---
 
-1
-Teraan Di Hoyi Barish Haye Tere Janaze Tay Ya Hasan.
-Hoya Surkh Kafan Tera Zalim De Ishare Te Ya Hasan.
-Kehra Zalma Liya Badla Haye Kinj Da Zulm Dhaya.
-Aye Pehla Janaza Si Gharon Ja Ke Jo Ghar Aaya.
+۱
+تیراں دی ہوئی بارش ہائے تیرے جنازے تے یا حسن
+ہویا سرخ کفن تیرا ظالم دے اشارے تے یا حسن
+کیہڑا ظالما لیا بدلہ ہائے کنج دا ظلم ڈھایا
+ایہہ پہلا جنازہ سی گھروں جا کے جو گھر آیا
 
-2
-Ghar Fatima Zahra De Sadma Hoya Sadme Te Ya Hasan.
-Sab Jandi Aye Dunya Kina Teer Chalaye San.
-Seene Che Kudorat Si Jaina Teer Chalaye San.
-Wich Jan Gaye Janat De Oh Kehray Bharose Te Ya Hasan.
+۲
+گھر فاطمہ زہرا دے صدمہ ہویا صدمے تے یا حسن
+سب جاندی اے دنیا کِنّاں تیر چلائے سن
+سینے چے کدورت سی جیہناں تیر چلائے سن
+وچ جان گئے جنت دے اوہ کیہڑے بھروسے تے یا حسن
 
-3
-Naal Dushmana Ral Jodah Uqba V Ganwaya Aye.
-Sardar Si Janat Da Jino Zehar Khalaya Aye.
-Ki Zulm Aye Dha Bethi Muhmmad De Nawasay Te Ya Hasan.
-Kulsoom Te Zainab Da Bura Haal Hoya Ro Ro.
+۳
+نال دشمناں رل جعدہ عقبہ وی گنوایا اے
+سردار سی جنت دا جِنوں زہر کھلایا اے
+کی ظلم اے ڈھا بیٹھی محمد دے نواسے تے یا حسن
+کلثوم تے زینب دا برا حال ہویا رو رو
 
-4
-Gash Farwa Nu Ray Painday IK Rooz De Wich So So.
-Dill Dub Dub Janda Si Har Aah Te Hokay Te Ya Hasan.
-Qasim Di Yateemi Da Dukh Phophiyaan Rowanda Aye.
-Jadoon Takdiyaan Qasim Nu Bhai Hasan Yaad Aanda Aye.
+۴
+غش فروہ نوں رہے پیندے اک روز دے وچ سو سو
+دل ڈب ڈب جاندا سی ہر آہ تے ہوکے تے یا حسن
+قاسم دی یتیمی دا دکھ پھپھیاں رواندا اے
+جدوں تکدیاں قاسم نوں بھائی حسن یاد آندا اے
 
-5
-Aye Kisran Raiyaan Zinda Aye Gal Koi Te Soche Te Ya Hasan.
-Zehar Aisa Azai Si Phat Jigar Hasan Da Giya.
-Oss Zehar Di Garmi Naal Rang Badal Badan Da Giya.
-Wich Tasht De Kat Kat Ke Tukra Piya Tukray Te Ya Hasan.
+۵
+ایہہ کسراں رہیاں زندہ ایہہ گل کوئی تے سوچے تے یا حسن
+زہر ایسا عزائی سی پھٹ جگر حسن دا گیا
+اوس زہر دی گرمی نال رنگ بدل بدن دا گیا
+وچ طشت دے کٹ کٹ کے ٹکڑا پیا ٹکڑے تے یا حسن

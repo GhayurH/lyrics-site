@@ -1,30 +1,50 @@
 ---
-title: "Tere Bina Dil Nayi Lagda Aye Veran Aa Lay Saraan 2026 Lyrics Punjabi Babu Khan Party Sialkot"
+title: "تیرے بنا دل نئیں لگدا اے، ویراں آ لے ساراں"
+alternateTitle: "Tere Bina Dil Nayi Lagda Aye Veran Aa Lay Saraan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tere bina dil nayi lagda aye veran aa lay saraan
+  Tainu wasta main ujari da hun te moor moharan
+  Mainu ujray gharaan wich veera teri yaad satandi
+  Mainu khuwab daronay aanday nahin neendar aandi
+  Lag naal kandaan de rowaan bari veran main beemar aan
+  Sir dhi da chum ke aakhay maa jandi wari
+  Kardi nahin gawarah Sughra ghairat veraan di
+  Taun Zahra di tasveer ayein sadi peshiyaan ne darbaraan
+  Kehya Umm ul-Banin ne ja ke Qabar-e-Zahra te
+  Rowan gayiyaan Zahra jaiyaan Ghazi di wafa te
+  Bibi teri dhiyaan di main mar ke v shukar guzaran
+  Akbar da seena chum ke Sughra aye aakhay
+  Na veer lahawin mainu mehmal taun aa ke
+  Jithay Zainab othay Sughra main safraan layi teyar aan
+  Zainab koi ban nahin sakda par hasrat meri
+  Akbar nu v mil jaway jay ijazat teri
+  Tere putar de ik athro taun main apni nasal v waraan
 ---
 
-1
-Tere Bina Dil Nayi Lagda Aye Veran Aa Lay Saraan.
-Tainu Wasta Main Ujari Da Hun Te Moor Moharan.
-Mainu Ujray Gharaan Wich Veera Teri Yaad Satandi.
-Mainu Khuwab Daronay Aanday Nahin Neendar Aandi.
-Lag Naal Kandaan De Rowaan Bari Veran Main Beemar Aan.
-Sir Dhi Da Chum Ke Aakhay Maa Jandi Wari.
-Kardi Nahin Gawarah Sughra Ghairat Veraan Di.
-Taun Zahra Di Tasveer Ayein Sadi Peshiyaan Ne Darbaraan.
-Kehya Umm Ul-Banin Ne Ja Ke Qabar-e-Zahra Te.
-Rowan Gayiyaan Zahra Jaiyaan Ghazi Di Wafa Te.
-Bibi Teri Dhiyaan Di Main Mar Ke V Shukar Guzaran.
-Akbar Da Seena Chum Ke Sughra Aye Aakhay.
-Na Veer Lahawin Mainu Mehmal Taun Aa Ke.
-Jithay Zainab Othay Sughra Main Safraan Layi Teyar Aan.
-Zainab Koi Ban Nahin Sakda Par Hasrat Meri.
- Akbar Nu V Mil Jaway Jay Ijazat Teri.
-Tere Putar De Ik Athro Taun Main Apni Nasal V Waraan.
+۱
+تیرے بنا دل نئیں لگدا اے، ویراں آ لے ساراں
+تینوں واسطہ میں اجاڑی دا، ہُن تے موڑ مہاراں
+مینوں اجڑے گھراں وچ ویرا تیری یاد ستاندی
+مینوں خواب ڈرونے آندے، نہیں نیندر آندی
+لگ نال کنداں دے روواں، بڑی ویراں میں بیمار آں
+سر دھی دا چم کے آکھے ماں جاندی واری
+کردی نہیں گوارا صغریٰ غیرت ویراں دی
+تَوں زہرا دی تصویر ایں، ساڈی پیشیاں نے درباراں
+کہیا ام البنین نے جا کے قبرِ زہرا تے
+رون گیاں زہرا جئیاں غازی دی وفا تے
+بی‌بی تیری دھیاں دی میں مر کے وی شکر گزاراں
+اکبر دا سینہ چم کے صغریٰ اے آکھے
+نا ویر لاہویں مینوں محمل توں آ کے
+جتھے زینب اوتھے صغریٰ، میں سفراں لئی تیار آں
+زینب کوئی بن نہیں سکدا، پر حسرت میری
+اکبر نوں وی مل جاوے جے اجازت تیری
+تیرے پتر دے اک اتھرو توں میں اپنی نسل وی واراں

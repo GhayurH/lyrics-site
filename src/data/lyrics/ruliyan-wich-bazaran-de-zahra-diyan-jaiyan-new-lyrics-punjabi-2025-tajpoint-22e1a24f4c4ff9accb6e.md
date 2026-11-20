@@ -1,30 +1,50 @@
 ---
-title: "Ruliyan Wich Bazaran De Zahra Diyan Jaiyan New Lyrics Punjabi 2025"
+title: "رُلِیاں وچ بازاراں دے زہرا دِیاں جائیاں"
+alternateTitle: "Ruliyan Wich Bazaran De Zahra Diyan Jaiyan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ruliyan wich bazaran de Zahra diyan jaiyan
+  Rab jane kiwein be pardah teri lash kolon lang aayiyaan
+  Nezay te wekh rida meri rat roway ga Sajjad tera
+  Odi akhiyaan manzar wekhiya aye Ghazi hoya jo haal mera
+  Veraan diyaan lashaan taun Ghazi kiwein toriya aan sipayiyaan
+  Assi qaidi v maqtool v aan assi itrat pak Rasool v aan
+  Na mar Sakina nu zalim assi dhiyaan pak Batool di aan
+  Kiwein veer bachandi main ohno banwaan wich rasiyaan paiyaan
+  La waris turday nayi wekhay jiwein naal Sajjad de tur paiyaan
+  Hath gardan naal ne veer bandhay haye chadraan zalimaan lut laiyaan
+  Haye Sham di bheer bazari wich aina kayi kayi meel turaiyaan
+  Yaad aayi peshi maa teri jadon Sham walay darbar gaye
+  Tere Hasan, Hussain si naal tere main sir veraan de naal laye
+  Jadon Sham de hakim ne Ghazi haye wich darbar bolaiyan
+  Najfi aina akhiyaan naal Khuda piya ais jahan nu wekhda aye
+  Neendar diyaan aye muhtaj nayi na likhiya aye kisay lekh da aye
+  Jadon ro ro akhiyaan band howan aina neziyaan naal jagaiyan
 ---
 
-1
-Ruliyan Wich Bazaran De Zahra Diyan Jaiyan.
-Rab Jane Kiwein Be Pardah Teri Lash Kolon Lang Aayiyaan.
-Nezay Te Wekh Rida Meri Rat Roway Ga Sajjad Tera.
-Odi Akhiyaan Manzar Wekhiya Aye Ghazi Hoya Jo Haal Mera.
-Veraan Diyaan Lashaan Taun Ghazi Kiwein Toriya Aan Sipayiyaan.
-Assi Qaidi V Maqtool V Aan Assi Itrat Pak Rasool V Aan.
-Na Mar Sakina Nu Zalim Assi Dhiyaan Pak Batool Di Aan.
-Kiwein Veer Bachandi Main Ohno Banwaan Wich Rasiyaan Paiyaan.
-La Waris Turday Nayi Wekhay Jiwein Naal Sajjad De Tur Paiyaan.
-Hath Gardan Naal Ne Veer Bandhay Haye Chadraan Zalimaan Lut Laiyaan.
-Haye Sham Di Bheer Bazari Wich Aina Kayi Kayi Meel Turaiyaan.
-Yaad Aayi Peshi Maa Teri Jadon Sham Walay Darbar Gaye.
-Tere Hasan, Hussain Si Naal Tere Main Sir Veraan De Naal Laye.
-Jadon Sham De Hakim Ne Ghazi Haye Wich Darbar Bolaiyan.
- Najfi Aina Akhiyaan Naal Khuda Piya Ais Jahan Nu Wekhda Aye.
-Neendar Diyaan Aye Muhtaj Nayi Na Likhiya Aye Kisay Lekh Da Aye.
-Jadon Ro Ro Akhiyaan Band Howan Aina Neziyaan Naal Jagaiyan.
+۱
+رُلِیاں وچ بازاراں دے زہرا دِیاں جائیاں
+رب جانے کیویں بے پردہ تیری لاش کولوں لنگھ آئیاں
+نیزے تے ویکھ ردا میری رات رووے گا سجاد تیرا
+اوہدی اکھیاں منظر ویکھیا اے غازی ہویا جو حال میرا
+ویراں دِیاں لاشاں توں غازی کیویں ٹوریا آں سپاہیاں
+اسیں قیدی وی مقتول وی آں اسیں عترتِ پاک رسول وی آں
+نہ مار سکینہ نوں ظالم اسیں دھیاں پاک بتول دِیاں
+کیویں ویر بچاندی میں اوہنوں بانہواں وچ رسیاں پئیاں
+لاوارث ٹردے نئیں ویکھے جیویں نال سجاد دے ٹر پئیاں
+ہتھ گردن نال نے ویر بندھے ہائے چادراں ظالماں لٹ لئیاں
+ہائے شام دی بھیڑ بازاری وچ ایناں کئی کئی میل ٹرائیاں
+یاد آئی پیشی ماں تیری جدوں شام والے دربار گئے
+تیرے حسن، حسین سی نال تیرے میں سر ویراں دے نال لئے
+جدوں شام دے حاکم نے غازی ہائے وچ دربار بلائیاں
+نجفی ایناں اکھیاں نال خدا پیا ایس جہان نوں ویکھدا اے
+نیندر دِیاں اے محتاج نئیں نہ لکھیا اے کسے لیکھ دا اے
+جدوں رو رو اکھیاں بند ہون ایناں نیزیاں نال جگائیاں

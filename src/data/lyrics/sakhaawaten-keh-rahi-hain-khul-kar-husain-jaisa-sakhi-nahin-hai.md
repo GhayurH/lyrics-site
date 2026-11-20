@@ -16,13 +16,13 @@ romanLyrics: |-
   Sakhi bahut haiṅ jahaaṅ meiṅ par Husain jaisa sakhi nahiṅ hai
 
   1
-  Jo kaar-e-Shabbir ban gaye haiṅ fazilatoṅ ke liye faailat
-  Wo mojizaat-e-mukhairaana sunaauṅga maiṅ bashakl-e-midhat
+  Jo kaar-e-Shabbir ban gaye haiṅ fazilatoṅ ke liye faailaat
+  Wo mojizaat-e-mukhayyaraana sunaauṅ ga maiṅ bashakl-e-midhat
   Zarur tum bhi kaho ge sun kar Husain jaisa sakhi nahiṅ hai
 
   2
   Har ek is baat se hai waaqif wo chaahe munkir ho ya momin
-  Sakhi mukhaiyar Nabi ke ghar meiṅ hai ek se barh ke ek lekin
+  Sakhi mukhayyar Nabi ke ghar meiṅ hai ek se barh ke ek lekin
   Falak ke niche falak ke upar Husain jaisa sakhi nahiṅ hai
 
   3

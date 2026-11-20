@@ -1,6 +1,6 @@
 ---
 title: "اب میرے پاس ہے سید محمد شاہ"
-alternateTitle: "Ab Mere Pas Hai Syed Mohammad Shah"
+alternateTitle: "Ab Mere Paas Hai Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,74 +10,74 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ab mere pas hai Syed Mohammad Shah
+  Ab mere paas hai Syed Mohammad Shah
 
   1
-  Aaiye aaiye ya Imam-e-Zamaan
-  Muntazir hai tera ab yeh sara jahan
-  Aa rahi hai Imam-e-Zamaan ki sada ab mere pas hai
-  Mere dada Ali ka har ik mojza ab mere pas hai
-  Mere sar pe Muhammad ki dastar hai
-  Mere pehlu mein Haider ki talwar hai
-  Nutaq e Hasnain se meri guftar hai
+  Aaiye aaiye ya Imam-e-Zamaaṅ
+  Muntazir hai tera ab yeh saara jahaaṅ
+  Aa rahi hai Imam-e-Zamaaṅ ki sada ab mere paas hai
+  Mere dada Ali ka har ik mojza ab mere paas hai
+  Mere sar pe Muhammad ki dastaar hai
+  Mere pehlu mein Haider ki talwaar hai
+  Nutq-e-Hasnain se meri guftaar hai
   Mera kirdar Zahra ka kirdar hai
-  Panjtan jis mein shamil hoye woh kisa
+  Panjtan jis mein shaamil hue woh kisa
 
   2
-  Zulfiqar-e-Ali hath mein tool kar
-  Ran mein utron ga ya Syeda bool kar
-  Zulm rakh doon ga mati mein main rool kar
-  Sar uraon ga aada ke jee khol kar
-  Meri dadi ki khushiyon ka har faisla
+  Zulfiqar-e-Ali haath mein tol kar
+  Ran mein utruṅ ga ya Syeda bol kar
+  Zulm rakh duṅ ga maati mein main rol kar
+  Sar uraauṅ ga aada ke ji khol kar
+  Meri dadi ki khushiyoṅ ka har faisla
 
   3
-  Lashkar-e-Shah-e-Dein phir banaon ga main
-  Teen so terah salar paon ga main
-  Hasrat-e-jang pori nibhaon ga main
-  Sath Abbas ko apne laon ga main
+  Lashkar-e-Shah-e-Diṅ phir banaauṅ ga main
+  Tin sau terah salaar paauṅ ga main
+  Hasrat-e-jang puri nibhaauṅ ga main
+  Saath Abbas ko apne laauṅ ga main
   Bint-e-Zahra ka sab se bara bawafa
 
   4
-  Chand do neem kar ke dikhaon ga main
-  Phir se taray ko dar par bulaon ga main
-  Kaisay palta tha soraj bataon ga main
-  Murtajiz ko hawa par chalaon ga main
-  Mere kunbay ne jo mojza bhi kiya
+  Chaand do nim kar ke dikhaauṅ ga main
+  Phir se taare ko dar par bulaauṅ ga main
+  Kaise palta tha suraj bataauṅ ga main
+  Murtajiz ko hawa par chalaauṅ ga main
+  Mere kunbe ne jo mojza bhi kiya
 
   5
-  Le ke Quraan haqeeqi main khud aaon ga
-  Sari tafseerein aa kar main jhutlaon ga
-  Jhotay hafiz hain yeh sab ko batlaon ga
-  Makki Madni ki tafreeq samjhaon ga
-  Dast-e-Haider ka Quran likha howa
+  Le ke Quraan haqiqi main khud aauṅ ga
+  Saari tafsireṅ aa kar main jhutlaauṅ ga
+  Jhute haafiz haiṅ yeh sab ko batlaauṅ ga
+  Makki Madani ki tafriq samjhaauṅ ga
+  Dast-e-Haider ka Quraan likha hua
 
   6
-  Ik manadi yehi hai meri gaib se
-  Masjidon mein bichao musallay mere
-  Jo na nam-e-Ali ka tashahud parhey
-  Oss ke sajday bhi sajday na kehlaein gay
-  Aisi sari namazon ka har faisla
+  Ik munaadi yahi hai meri ghaib se
+  Masjidoṅ mein bichhaao musalle mere
+  Jo na naam-e-Ali ka tashahud parhe
+  Us ke sajde bhi sajde na kahlaaeṅ ge
+  Aisi saari namaazoṅ ka har faisla
 
   7
-  Gham ke aanso hoon ya jashan ki ho khushi
-  Kaun de ga kahan kis tarha hazari
-  Jis ki qismat mein likhon ga main nokari
-  Bas lagaye ga woh narah-e-Haidery
-  Haan wila our azza ki jaza our saza
+  Gham ke aaṅsu huṅ ya jashn ki ho khushi
+  Kaun de ga kahaaṅ kis tarah haaziri
+  Jis ki qismat mein likhuṅ ga main naukari
+  Bas lagaae ga woh naara-e-Haidari
+  Haaṅ wila aur aza ki jaza aur saza
 
   8
-  Yeh Madina Najaf Sham our Karbala
-  Kazmain-o-Bald Mashhad-o-Samarra
-  Mere ajdad ke shehroon ka silsila
-  Main mohafiz hoon khud apni jageer ka
-  Iss Fidak ki hifazat ka har silsila
+  Yeh Madina Najaf Shaam aur Karbala
+  Kaazmain o Balad Mashhad o Samarra
+  Mere ajdaad ke shahroṅ ka silsila
+  Main muhaafiz huṅ khud apni jaagir ka
+  Is Fidak ki hifaazat ka har silsila
 
   9
-  Gaib se keh rahe hain woh Akbar yehi
-  Aye azadaro teyar rehna sabhi
-  Aa ke pehle banaon ga turbat wohi
-  So rahi hai jahan tanha Bint-e-Nabi
-  Unn ka roza bananey ki har ik dua
+  Ghaib se keh rahe haiṅ woh Akbar yahi
+  Ae azaadaaro taiyaar rehna sabhi
+  Aa ke pehle banaauṅ ga turbat wohi
+  So rahi hai jahaaṅ tanha Bint-e-Nabi
+  Un ka rauza banaane ki har ik dua
 ---
 
 اب میرے پاس ہے سید محمد شاہ

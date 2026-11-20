@@ -16,7 +16,7 @@ romanLyrics: |-
   To chali ashk baha kar ye kaha qabr-e-Nabi par
   Lut gayi Zainab
   Ae mere nana Payambar lut gayi Zainab
-  Na wo sher aisa baradar na jigar gosha-e-Shabbar
+  Na wo sher aisa baraadar na jigar gosha-e-Shabbar
   Na wo hamshakl-e-Payambar na wo chhe maah ka Asghar
   Lut gayi Zainab
 
@@ -24,45 +24,45 @@ romanLyrics: |-
   Chal gaya sine pe neza chheda Akbar ka kaleja
   Wo qayamat ka samaaṅ tha mera bhaiya tha akela
   Suniye ye kahani
-  Kabhi laashe ko uthaya kabhi bachchoṅ ko bulaya
-  Kabhi Haidar ko pukara the ajab haal meiṅ Sarwar
+  Kabhi laashe ko uthaaya kabhi bachchoṅ ko bulaaya
+  Kabhi Haidar ko pukaara the ajab haal meiṅ Sarwar
   Lut gayi Zainab
 
   2
   Kabhi barhna su-e-khaima kabhi khaime se palatna
-  Kabhi beshir ko takna kabhi sine se lagana
-  Keh na sakuṅ gi
+  Kabhi beshir ko takna kabhi sine se lagaana
+  Kah na sakuṅ gi
   Kabhi aawaaz di Asghar kabhi ro uthe tarap kar
   Kabhi muṅh rakh diya muṅh par hai mujhe yaad wo manzar
   Lut gayi Zainab
 
   3
   Asr ke baad ka qissa soch kar dil hai dahalta
-  Qatl jab ho gaya pyasa pisar-e-Fatima Zahra
+  Qatl jab ho gaya pyaasa pisar-e-Faatima Zahra
   Ghash meiṅ the Aabid
-  Mujhe aada ne sataya mere khaimoṅ ko jalaya
+  Mujhe aadaa ne sataaya mere khaimoṅ ko jalaaya
   Jhula beshir ka luta meri chhini gayi chadar
   Lut gayi Zainab
 
   4
-  Shaam o Kufa ka fasana dil se mushkil hai bhulana
-  Tha phira hum se zamana qaid tha saara gharana
+  Shaam o Kufa ka fasaana dil se mushkil hai bhulaana
+  Tha phira hum se zamaana qaid tha saara gharaana
   Baal the muṅh par
   Intezamaat bare the saare bazaar saje the
-  Sab tamashai khare the hum the ae nana khule sar
+  Sab tamaashaai khare the hum the ae nana khule sar
   Lut gayi Zainab
 
   5
   Na qanaateṅ na wo khaima na wo Abbas ka pehra
-  Ek samaaṅ shab ka darauna meri godi meiṅ Sakina
+  Ik samaaṅ shab ka darauna meri godi meiṅ Sakina
   Lipti hui thi
-  Jab hui Shaam-e-Gharibaṅ chandni phirti thi hairaṅ
-  Wo khamoshi wo bayabaṅ the haram khaak ke upar
+  Jab hui Shaam-e-Gharibaaṅ chaandni phirti thi hairaaṅ
+  Wo khamoshi wo bayaabaaṅ the haram khaak ke upar
   Lut gayi Zainab
 
   6
-  Sakht Mahir wo ghari thi kaisi Zainab pe pari thi
-  Dar pe khamosh khari thi pyaas Sarwar ko bari thi
+  Sakht Maahir wo ghari thi kaisi Zainab pe pari thi
+  Dar pe khaamosh khari thi pyaas Sarwar ko bari thi
   Hashr bapa tha
   Tha kahiṅ mehr-e-munawwar to kahiṅ tha mah-e-anwar
   The sabhi taare zamiṅ par par aasmaaṅ tha tah-e-khanjar

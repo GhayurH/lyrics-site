@@ -8,149 +8,83 @@ poet: "Khursheed Jaunpur"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Akbar tumhe maloom hai kya maang rahe ho
-
-  Tum baap se marne ki reza maang rahe ho
-
-  Is aalame ghurbat mein tumhe jaane doon kaise
-
-  Is dashte musibat mein tumhe jaane doon kaise
-
-  Is waqte kayamat mein tumhe jaane doon kaise
-
-  Ay laal jo tum izn wigaa maang rahe ho
-
+romanLyrics: |-
+  Akbar tumheṅ maalum hai kya maang rahe ho
+  Tum baap se marne ki raza maang rahe ho
+  Is ghurbat mein tumheṅ jaane dun kaise
+  Is dasht-e-musibat mein tumheṅ jaane dun kaise
+  Is qayaamat mein tumheṅ jaane dun kaise
+  Ae laal jo tum izn-e-wagha maang rahe ho
 
   1
-
-  Kya guzregi iss baap ke dil par nahin socha
-
-  Tumne ye meri jaan ali akbar nahin socha
-
-  Mar jaunga main tujhse bichhad kar nahi socha
-
-  Tum mujhse zaeefi ka asaa maang rahe ho
-
+  Kya guzregi is baap ke dil par nahiṅ socha
+  Tum ne ye meri jaan Ali Akbar nahiṅ socha
+  Mar jaaunga main tujh se bichhar kar nahiṅ socha
+  Tum mujh se zaifi ka asa maang rahe ho
 
   2
-
-  Dil rota hain nazron se agar door ho beta
-
-  Kis tarha judaai teri manzoor ho beta
-
-  Tum hi meri ankhein ho mera noor ho beta
-
-  Mujhse meri ankhon ki ziya maang rahe ho
-
+  Dil rota hai nazroṅ se agar dur ho beta
+  Kis tarah judaai teri manzur ho beta
+  Tum hi meri aankheṅ ho mera nur ho beta
+  Mujh se meri aankhoṅ ki ziya maang rahe ho
 
   3
-
-  Duniya se gaya jis ghadi mehboob khuda ka
-
-  Nana ki ziyarat ko tadapta tha nawasa
-
-  Aye laal tujhe is liye khaalik se tha manga
-
-  Maqbool huwi meri dua maang rahe ho
-
+  Duniya se gaya jis ghari mehbub Khuda ka
+  Naana ki ziyaarat ko tarapta tha nawaasa
+  Ae laal tujhe is liye khaaliq se tha maanga
+  Maqbul hui meri dua maang rahe ho
 
   4
-
-  Islam pe khud apna lahoo rann mein bahao
-
+  Islam pe khud apna lahu ran mein bahaao
   Sine pe sina shaan se maidaan mein khaao
-
-  Tasweer payambar ki tahe khaak milao
-
-  Kya is liye marne ki riza maang rahe ho
-
+  Taswir payambar ki tah-e-khaak milaao
+  Kya is liye marne ki raza maang rahe ho
 
   5
-
-  Ek roz tujhe aan k manga tha phuphi ne
-
-  Atthara baras naazon se paala tha phuphi ne
-
-  Beton se bhi zyada tumhe chaha tha phuphi ne
-
-  Ehsaan jo zainab ne kiya maang rahe ho
-
+  Ik roz tujhe aan ke maanga tha phuphi ne
+  Atthaarah baras naazoṅ se paala tha phuphi ne
+  Beto se bhi ziyaada tumheṅ chaaha tha phuphi ne
+  Ehsaan jo Zainab ne kiya maang rahe ho
 
   6
-
-  Rakhte nahi tum iski khabar aye mere pyare
-
-  Kis darja mohabbat hai teri dil mein humaare
-
-  Nana ki mere shakl hai paikar mein tumhare
-
-  Tum soorate mehboobe khuda maang rahe ho
-
+  Rakhte nahiṅ tum is ki khabar ae mere pyaare
+  Kis darja mohabbat hai teri dil mein hamaari
+  Naana ki mere shakl hai paikar mein tumhaare
+  Tum surat-e-mehbub-e-Khuda maang rahe ho
 
   7
-
-  Sar tera bhi jiss waqt chadhega sare naiza
-
-  Hoga sare maidaan juda sar bhi tumhara
-
-  Hum shakle payambar ka gala kaatenge aadaa
-
-  Goya mere nana ka gala maang rahe ho
-
+  Sar tera bhi jis waqt charhega sar-e-naiza
+  Hoga sar-e-maidaan juda sar bhi tumhaara
+  Hamshakl-e-payambar ka gala kaategi aada
+  Goya mere naana ka gala maang rahe ho
 
   8
-
-  Baba mujh maloom hai kya maang raha hoon
-
-  Ek baap se marne ki riza maang raha hoon
-
-  Baba mujhe Amma ne bhi kuch dars diya hai
-
-  Adabe wafa se mujh aagah kiya hai
-
-  Pehle mein maru aap se wada ye liya hai
-
-  Buss is liye marn ki riza maang raha hoon
-
-  Ek baap se marne ki riza maang raha hun...
-
-  Baba mujhe maaloom hai kya maang raha hun
-
-  Hai aap to baba bine khaatoon qayamat
-
-  Aur maa hai meri adna si ek pehkare ismat
-
-  Kya sine mein us ke nahin kuch jazbahe ismat
-
-  Mein madare muztar ka kaha maang raha hoon
-
-  Ek baap se marne ki riza maang raha hun...
-
-  Baba mujhe maaloom hai kya maang raha hun
-
-  Baba mujhe ehwaale dil zaar pata hai
-
-  Hai sakht bohat manzile dushwaar pata hai
-
-  Aur deen ka mushkil mein hai sardaar pata hai
-
-  Yun aap se marne ki riza mangu raha hoon
-
-  Ek baap se marne ki riza mangu raha hun...
-
-  Baba mujhe maloom hai kya maang raha hun
-
-  Mai Shaer e Hassaas jigar soz hu khursheed
-
-  Mehve gham e shabbir shab o roz hu khurshid
-
-  Aalaam e masaeb se zameen doz hu khurshid
-
-  Kashkol me kuch ashq e aza maang raha hu
-
-  Ek baap se marne ki riza mangu raha hun...
-
-  Baba mujhe maloom hai kya maang raha hun'
+  Baaba mujhe maalum hai kya maang rahe huṅ
+  Ik baap se marne ki raza maang rahe huṅ
+  Baaba mujhe ammaṅ ne bhi kuchh dars diya hai
+  Aadaab-e-wafa se mujh aagaah kiya hai
+  Pehle main maruṅ aap se waada ye liya hai
+  Bas is liye marne ki raza maang raha huṅ
+  Ik baap se marne ki raza maang raha huṅ...
+  Baaba mujhe maalum hai kya maang raha huṅ
+  Haiṅ aap to baaba bin-e-khatun-e-qayaamat
+  Aur maaṅ hai meri adna si ik paikar-e-ismat
+  Kya sine mein us ke nahiṅ kuchh jazba-e-ismat
+  Main maadar-e-muztar ka kaha maang raha huṅ
+  Ik baap se marne ki raza maang raha huṅ...
+  Baaba mujhe maalum hai kya maang raha huṅ
+  Baaba mujhe ahwaal-e-dil-e-zaar pata hai
+  Hai sakht bahut manzileṅ dushwaar pata hai
+  Aur din ka mushkil mein hai sardaar pata hai
+  Yuṅ aap se marne ki raza maango raha huṅ
+  Ik baap se marne ki raza maango raha huṅ...
+  Baaba mujhe maalum hai kya maang raha huṅ
+  Main shaaer-e-hassaas jigar soz huṅ Khurshid
+  Mahv-e-gham-e-Shabbir shab o roz huṅ Khurshid
+  Aalaam-e-masaaib se zamin doz huṅ Khurshid
+  Kashkol mein kuchh ashk-e-aza maang raha ho
+  Ik baap se marne ki raza maango raha huṅ...
+  Baaba mujhe maalum hai kya maang raha huṅ
 ---
 
 اکبرؑ تمہیں معلوم ہے کیا مانگ رہے ہو

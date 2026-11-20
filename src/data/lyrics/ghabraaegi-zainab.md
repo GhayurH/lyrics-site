@@ -11,33 +11,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghabraaegi Zainab ghabraaegi Zainab
-  Bhaiya tumheṅ ghar jaa ke kahaaṅ paaegi Zainab
+  Ghabraae gi Zainab ghabraae gi Zainab
+  Bhaiya tumheṅ ghar jaa ke kahaaṅ paae gi Zainab
 
   1
   Kaisa ye bhara ghar hua barbaad Ilaahi
   Kya aayi tabaahi
-  Ab is ko na aabaad kabhi paaegi Zainab
+  Ab is ko na aabaad kabhi paae gi Zainab
 
   2
-  Ghar jaa ke kise dekhegi Qasim haiṅ na Abbas
+  Ghar jaa ke kise dekhe gi Qasim haiṅ na Abbas
   Akbar se bhi hai aas
-  Apne Ali Asghar ko kahaaṅ paaegi Zainab
+  Apne Ali Asghar ko kahaaṅ paae gi Zainab
 
   3
   Puchheṅ ge jo sab log ke baazu pe hua kya
   Ye nil hai kaisa
-  Kis kis ko nishaaṅ rassi ke dikhlaaegi Zainab
+  Kis kis ko nishaaṅ rassi ke dikhlaae gi Zainab
 
   4
-  Phat jaaega bas dekhte hi ghar ko kaleja
-  Yaad aaoge bhaiya
-  Dil dhundega tum ko to kahaaṅ paaegi Zainab
+  Phat jaae ga bas dekhte hi ghar ko kaleja
+  Yaad aao ge bhaiya
+  Dil dhunde ga tum ko to kahaaṅ paae gi Zainab
 
   5
   Beparda hui qaid bhi khwaahar ne uthaai
   Par maut na aayi
-  Kya jaaniye kya kya abhi dukh paaegi Zainab
+  Kya jaaniye kya kya abhi dukh paae gi Zainab
 reciter: "Nasir Jehan"
 ---
 

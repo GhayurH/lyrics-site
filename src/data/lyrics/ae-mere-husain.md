@@ -13,7 +13,7 @@ aliases: ["Ay Mere Hussain"]
 published: true
 romanLyrics: |-
   Ae mere Husain as-salaam
-  Ae mere Imam as-salaam
+  Ae mere Imaam as-salaam
   Bekas o gharib as-salaam
   Shaah-e-tishnakaam as-salaam
 
@@ -24,10 +24,10 @@ romanLyrics: |-
   Kehta hai ghulaam as-salaam
 
   2
-  Ek sitam ye aur ho gaya
+  Ik sitam ye aur ho gaya
   Qalb-e-Akbar-e-haziṅ chhida
   Aks-e-Mustafa ne di sada
-  Ya Shaah-e-inaam as-salaam
+  Ya Shah-e-Imaam as-salaam
 
   3
   Kehti thi ye shaah ki behan
@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Ae Habib ae Hur-e-jari
   Aun o Akbar o mere akhi
-  Yuṅ hi saare dard meiṅ ghiri
+  Yuṅ hi sar dard meiṅ ghiri
   Mere nek naam as-salaam
 
   5

@@ -1,6 +1,6 @@
 ---
 title: "اے کوفیانِ بے وفا"
-alternateTitle: "Aey Kufiyan-e-Bewafa"
+alternateTitle: "Ae Kufiyaan-e-Bewafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,117 +10,117 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Kufiyane bewafa
+  Ae Kufiyaan-e-bewafa
 
   1
-  Ghul machatey be adab wo Koofiyan e bad zaban
-  Wehshaton ke daeyron me theen Ali ki betiyaan
-  Zalimon ke samney
-  Qatilon ke darmiyan
-  Choti dukhtar-e-Ali ki aa rahi thi ye sada
-  Hussain
+  Ghul machaate be adab wo Kufiyaan-e-bad zabaaṅ
+  Wahshatoṅ ke daairoṅ meiṅ thiṅ Ali ki betiyaaṅ
+  Zaalimoṅ ke saamne
+  Qaatiloṅ ke darmiyaaṅ
+  Chhoti dukhtar-e-Ali ki aa rahi thi ye sada
+  Husain
 
   2
-  Nouha ye tha Kulsoom ka
-  Aey Kufiyan-e-bewafa
-  Aye Kufiyan-e-bewafa
-  Aye zalimo ahl-e-jafa
+  Noha ye tha Kulsum ka
+  Ae Kufiyaan-e-bewafa
+  Ae Kufiyaan-e-bewafa
+  Ae zaalimo ahl-e-jafa
 
   3
-  Hai tumhey khabar tum ho aashna
-  Kiska ghar luta kiss ka khoon baha
-  Haaye tumney ye kiya kar dia
-  Kissko loot kar ghar jala dia
+  Hai tumheṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khun baha
+  Haaye tum ne ye kya kar diya
+  Kis ko lut kar ghar jala diya
 
   4
-  Hai zabano per kalma-e-Khuda
-  Phir bhi seenon main dil hai sang ka
-  Aye Kufiyan-e-bewafa
-  Aye zalimo ahl-e-jafa
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ meiṅ dil hai sang ka
+  Ae Kufiyaan-e-bewafa
+  Ae zaalimo ahl-e-jafa
 
   5
-  Hai tumhey khabar tum ho aashna
-  Kiska ghar luta kiss ka khoon baha
-  Haaye tumney ye kiya kar dia
-  Kissko loot kar ghar jala dia
+  Hai tumheṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khun baha
+  Haaye tum ne ye kya kar diya
+  Kis ko lut kar ghar jala diya
 
   6
-  Hai zabano per kalma-e-Khuda
-  Phir bhi seenon main dil hai sang ka
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ meiṅ dil hai sang ka
 
   7
-  Uss Hussain ko qatal kar dia
-  Jiss key pass hai marzi-e-Khuda
-  Deen jiss key ghar surkhru hua
-  Jiss Hussain ka nana Mustafa
-  Jiss Hussain ka baba Murtaza
-  Jiss Hussain ki maan hai Syeda
-  Ru baru agar ho ga samna
-  Kaisey jao gey paish-e-Kibriya
-  Aye Kufiyan-e-bewafa
-  Aye zalimo ahl-e-jafa
+  Us Husain ko qatl kar diya
+  Jis ke paas hai marzi-e-Khuda
+  Din jis ke ghar surkhru hua
+  Jis Husain ka naana Mustafa
+  Jis Husain ka baaba Murtaza
+  Jis Husain ki maaṅ hai Sayyida
+  Rubaru agar ho ga saamna
+  Kaise jaao ge pesh-e-Kibriya
+  Ae Kufiyaan-e-bewafa
+  Ae zaalimo ahl-e-jafa
 
   8
-  Hai tumhey khabar tum ho aashna
-  Kiska ghar luta kiss ka khoon baha
-  Haaye tumney ye kiya kar dia
-  Kissko loot kar ghar jala dia
-  Hai zabano per kalma-e-Khuda
-  Phir bhi seenon main dil hai sang ka
-  Zulm konsa ham pe na hua
-  Phir bhi ham rahey razi ba raza
-  Bhai ko merey dhoka de dia
-  Sath na dia akela kar dia
-  Pehly khat likhay aur bula lia
-  Phir ghareeb ka khoon baha dia
-  Mat zameen per tum bano Khuda
-  Waqt hai qareeb ho ga faisla
-  Aye Kufiyan-e-bewafa
-  Aye zalimo ahl-e-jafa
+  Hai tumheṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khun baha
+  Haaye tum ne ye kya kar diya
+  Kis ko lut kar ghar jala diya
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ meiṅ dil hai sang ka
+  Zulm kaun sa ham pe na hua
+  Phir bhi ham rahe raazi ba raza
+  Bhaai ko mere dhoka de diya
+  Saath na diya akela kar diya
+  Pehle khat likhe aur bula liya
+  Phir gharib ka khun baha diya
+  Mat zamin par tum bano Khuda
+  Waqt hai qarib ho ga faisla
+  Ae Kufiyaan-e-bewafa
+  Ae zaalimo ahl-e-jafa
 
   9
-  Hai tumhey khabar tum ho aashna
-  Kiska ghar luta kiss ka khoon baha
-  Haaye tumney ye kiya kar dia
-  Kissko loot kar ghar jala dia
-  Hai zabano per kalma-e-Khuda
-  Phir bhi seenon main dil hai sang ka
-  Aye Kufiyo zulm ho gaya
-  Aal-e-Mustafa sey muqabla
-  Itrat-e-Nabi ham hain ba Khuda
-  Zer-e-aasman sar khula hua
-  Baandh kar hamey qaid kar lia
-  Aur phir hamey baaghi keh dia
-  Jiss key nana se deen-e-haq mila
-  Us nawasey ko ye sila mila
-  Aye Kufiyan-e-bewafa
-  Aye zalimo ahl-e-jafa
+  Hai tumheṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khun baha
+  Haaye tum ne ye kya kar diya
+  Kis ko lut kar ghar jala diya
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ meiṅ dil hai sang ka
+  Ae Kufiyo zulm ho gaya
+  Aal-e-Mustafa se muqaabla
+  Itrat-e-Nabi ham haiṅ bakhuda
+  Zer-e-aasmaan sar khula hua
+  Baandh kar hameṅ qaid kar liya
+  Aur phir hameṅ baaghi keh diya
+  Jis ke naana se din-e-haq mila
+  Us nawaase ko ye sila mila
+  Ae Kufiyaan-e-bewafa
+  Ae zaalimo ahl-e-jafa
 
   10
-  Hai tumhey khabar tum ho aashna
-  Kiska ghar luta kiss ka khoon baha
-  Haaye tumney ye kiya kar dia
-  Kissko loot kar ghar jala dia
-  Hai zabano per kalma-e-Khuda
-  Phir bhi seenon main dil hai sang ka
+  Hai tumheṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khun baha
+  Haaye tum ne ye kya kar diya
+  Kis ko lut kar ghar jala diya
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ meiṅ dil hai sang ka
   Wa musibata
   Wa musibata
-  Wa musibata yoon chaman luta
-  Gheyr kar hamey laaye Karbala
-  Band ham pe phir pani kar dia
-  Qatal kar dia ghar ka ghar mera
-  Syedon ke sar kar diye juda
+  Wa musibata yuṅ chaman luta
+  Gher kar hameṅ laaye Karbala
+  Band ham pe phir paani kar diya
+  Qatl kar diya ghar ka ghar mera
+  Sayyidoṅ ke sar kar diye juda
   Zulm ki hui ham pe inteha
-  Tum pe waaey ho haaye kia kiya
-  Ajr-e-Mustafa yun ada kiya
-  Aye Kufiyan-e-bewafa
-  Aye zalimo ahl-e-jafa
-  Hai tumhey khabar tum ho aashna
-  Kiska ghar luta kiss ka khoon baha
-  Haaye tumney ye kiya kar dia
-  Kissko loot kar ghar jala dia
-  Hai zabano per kalma-e-Khuda
-  Phir bhi seenon main dil hai sang ka
+  Tum pe waae ho haaye kya kiya
+  Ajr-e-Mustafa yuṅ ada kiya
+  Ae Kufiyaan-e-bewafa
+  Ae zaalimo ahl-e-jafa
+  Hai tumheṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khun baha
+  Haaye tum ne ye kya kar diya
+  Kis ko lut kar ghar jala diya
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ meiṅ dil hai sang ka
 ---
 
 اے کوفیانِ بے وفا

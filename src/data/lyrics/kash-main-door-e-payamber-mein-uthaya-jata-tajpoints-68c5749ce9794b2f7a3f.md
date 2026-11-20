@@ -1,41 +1,71 @@
 ---
-title: "Kash Main Door-e-Payamber Mein Uthaya Jata"
+title: "کاش میں دورِ پیمبر میں اٹھایا جاتا"
+alternateTitle: "Kash Main Door-e-Payamber Mein Uthaya Jata"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Noor"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kash main door-e-payamber mein uthaya jata
+  Ba-khuda qadmo mein sarkar ke paya jata
+  Sath sarkar ke ghazwaat mein shamil hota
+  Un ki nusrat mein laho mera bahaya jata
+
+  2
+  Rait ke zaroon mein Allah badal deta mujhe
+  Phir mujhe rah-e-Muhammad mein bichaya jata
+  Khak ho jata main sarkar ke qadmo ke tale
+  Khak ko khak-e-Madina mein milaya jata
+
+  3
+  Mill ke sab loag mujhe mati se gara karte
+  Phir mujhe masjid-e-Nabvi mein lagaya jata
+  Kash aye kash main hota koi aisi lakri
+  Jis ko sarkar ke minbar mein lagaya jata
+
+  4
+  Un ke roze ke dar-o-baam sajane ke liye
+  Rozno mein meri aankhon ko lagaya jata
+  Laya jata sar-e-darbar aseeron ki tarha
+  Hukam par un ke main aazaad karaya jata
+
+  5
+  Ya utarta kissi naat ke misray ban kar
+  Robaro un ke main un ko hi sunaya jata
+  Hote oss door ka qisa koi Noor-o- Farhan
+  Aaj ke door mein bachon ko parhaya jata
 ---
 
-1
-Kash Main Door-e-Payamber Mein Uthaya Jata.
-Ba-Khuda Qadmo Mein Sarkar Ke Paya Jata.
-Sath Sarkar Ke Ghazwaat Mein Shamil Hota.
-Un Ki Nusrat Mein Laho Mera Bahaya Jata.
+۱
+کاش میں دورِ پیمبر میں اٹھایا جاتا
+بخدا قدموں میں سرکار کے پایا جاتا
+ساتھ سرکار کے غزوات میں شامل ہوتا
+ان کی نصرت میں لہو میرا بہایا جاتا
 
-2
-Rait Ke Zaroon Mein ALLAH Badal Deta Mujhe.
-Phir Mujhe Rah-e-Muhammad Mein Bichaya Jata.
-Khak Ho Jata Main Sarkar Ke Qadmo Ke Tale.
-Khak Ko Khak-e-Madina Mein Milaya Jata.
+۲
+ریت کے ذروں میں اللہ بدل دیتا مجھے
+پھر مجھے راہِ محمد میں بچھایا جاتا
+خاک ہو جاتا میں سرکار کے قدموں کے تلے
+خاک کو خاکِ مدینہ میں ملایا جاتا
 
-3
-Mill Ke Sab Loag Mujhe Mati Se Gara Karte.
-Phir Mujhe Masjid-e-Nabvi Mein Lagaya Jata.
-Kash Aye Kash Main Hota Koi Aisi Lakri.
-Jis Ko Sarkar Ke Minbar Mein Lagaya Jata.
+۳
+مل کے سب لوگ مجھے مٹی سے گارا کرتے
+پھر مجھے مسجدِ نبوی میں لگایا جاتا
+کاش اے کاش میں ہوتا کوئی ایسی لکڑی
+جس کو سرکار کے منبر میں لگایا جاتا
 
-4
-Un Ke Roze Ke Dar-o-Baam Sajane Ke Liye.
-Rozno Mein Meri Aankhon Ko Lagaya Jata.
-Laya Jata Sar-e-Darbar Aseeron Ki Tarha.
-Hukam Par Un Ke Main Aazaad Karaya Jata.
+۴
+ان کے روضے کے در و بام سجانے کے لیے
+روزنوں میں میری آنکھوں کو لگایا جاتا
+لایا جاتا سرِ دربار اسیروں کی طرح
+حکم پر ان کے میں آزاد کرایا جاتا
 
-5
-Ya Utarta Kissi Naat Ke Misray Ban Kar.
-Robaro Un Ke Main Un Ko Hi Sunaya Jata.
-Hote Oss Door Ka Qisa Koi Noor-o- Farhan.
-Aaj Ke Door Mein Bachon Ko Parhaya Jata.
+۵
+یا اترتا کسی نعت کے مصرعے بن کر
+روبرو ان کے میں ان کو ہی سنایا جاتا
+ہوتے اس دور کا قصہ کوئی نور و فرحان
+آج کے دور میں بچوں کو پڑھایا جاتا

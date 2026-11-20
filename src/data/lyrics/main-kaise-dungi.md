@@ -1,7 +1,7 @@
 ---
 title: "میں کیسے دوں گی یتیموں کو حوصلہ بابا"
 recitationId: "mai-kaise-doongi"
-alternateTitle: "Maiṅ Kaise Duṅgi"
+alternateTitle: "Main Kaise Duṅgi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: ["Mai Kaise Doongi"]
 published: true
 romanLyrics: |-
-  Maiṅ kaise duṅgi yatimoṅ ko hausla Baba
+  Main kaise duṅgi yatimoṅ ko hausla Baba
   Bujha rahi hai diye Shaam ki hawa Baba
 
   1
@@ -23,11 +23,11 @@ romanLyrics: |-
   2
   Jalte khaimoṅ ka dhuaaṅ dekh rahe ho Baba
   Ashk aaṅkhoṅ se rawaaṅ dekh rahe ho Baba
-  Guzar gaya mere kunbe pe saaneha Baba
+  Guzar gaya mere kunbe pe saaniha Baba
 
   3
   Tamaam din wo manaazir nazar ne dekhe haiṅ
-  Wo dekho ganj-e-shahidaaṅ meiṅ kitne laashe haiṅ
+  Wo dekho ganj-e-shahidaaṅ mein kitne laashe haiṅ
   Utha ke laashe mera bhaai thak gaya Baba
 
   4
@@ -36,34 +36,34 @@ romanLyrics: |-
   Baghair dhaar ka khanjar tha aur gala Baba
 
   5
-  Maiṅ haath malti rahi Shah pe chal gaya khanjar
+  Main haath malti rahi Shah pe chal gaya khanjar
   Hai mere bhaai ka laasha bhi jalti reti par
   Kafan bhi bhaai ko mere nahiṅ mila Baba
 
   6
   Azaaṅ jo di Ali Akbar ne parh ke Bismillah
-  Tarap tarap ke maiṅ roi huṅ subh-e-Ashura
-  Maiṅ jaanti thi bichharta hai mah laqa Baba
+  Tarap tarap ke main roi huṅ subh-e-Ashura
+  Main jaanti thi bichharta hai mah laqa Baba
 
   7
-  Janaaza Amma ka shab meiṅ uthaaya tha tum ne
-  Maiṅ roi thi to gale se lagaaya tha tum ne
-  Tumhaari beti hai maqtal meiṅ berida Baba
+  Janaaza Ammaṅ ka shab mein uthaaya tha tum ne
+  Main roi thi to gale se lagaaya tha tum ne
+  Tumhaari beti hai maqtal mein berida Baba
 
   8
-  Chhupa lo apni aba meiṅ ke thak gai huṅ maiṅ
-  Asir ho ke sue Shaam jaa rahi huṅ maiṅ
+  Chhupa lo apni aba mein ke thak gai huṅ main
+  Asir ho ke su-e Shaam jaa rahi huṅ main
   Safar tawil hai dushwaar raasta Baba
 
   9
   Bacha ke sholoṅ se Aabid ko laai huṅ Baba
-  Maiṅ ghamzada huṅ falak ki sataai huṅ Baba
+  Main ghamzada huṅ falak ki sataai huṅ Baba
   Kaleja dard se Zainab ka phat gaya Baba
 
   10
-  Suna hai Shaam-e-gharibaaṅ meiṅ jab Ali aae
+  Suna hai Shaam-e-gharibaaṅ mein jab Ali aae
   Ura ke khaak wo Farhan karte the haae
-  Rehaan Azmi har su thi ek sada Baba
+  Rehaan Azmi har su thi ik sada Baba
 ---
 میں کیسے دوں گی یتیموں کو حوصلہ بابا
 بجھا رہی ہے دیے شام کی ہوا بابا

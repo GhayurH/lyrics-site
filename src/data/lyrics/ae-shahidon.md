@@ -16,7 +16,7 @@ romanLyrics: |-
   Bekafan aur sar burida bemazaaroṅ ae shahidoṅ
 
   1
-  Gulistaan-e-din ki saari hai bahaareṅ bas tumhiṅ se
+  Gulistaan-e-din ki saari hai bahaareṅ bas tumheṅ se
   Aasmaan-e-haq ke roshan chaand taaroṅ ae shahidoṅ
 
   2
@@ -32,8 +32,8 @@ romanLyrics: |-
   Ae gulistaan-e-imamat ki bahaaroṅ ae shahidoṅ
 
   5
-  Raunaq-e-baagh-e-nabuwat khushbu-e-jism-e-imamat
-  Azm o isaar o wafa ke shaahkaaroṅ ae shahidoṅ
+  Raunaq-e-baagh-e-nabuwwat khushbu-e-jism-e-imamat
+  Azm o asir o wafa ke shaahkaaroṅ ae shahidoṅ
 
   6
   Wo ho Safdar ya ho Mazhar aaj tak tum pe hai naazaaṅ

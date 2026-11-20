@@ -1,6 +1,6 @@
 ---
 title: "اے بابا میرا گھر جلایا گیا"
-alternateTitle: "Aey Baba Mera Ghar Jalaya Gaya"
+alternateTitle: "Ae Baba Mera Ghar Jalaya Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   Yeh Zahra ne ro kar kiya marsiya
-  Aye baba mera ghar jalaya gaya
+  Ae baba mera ghar jalaya gaya
 
   1
   Jalaya gaya ghar mera baba jaan
-  Sitam main karon our kaisay biyaan
-  Mujhe sans lena bhi dushwar hai
-  Meri toor dali hain sab pasliyaan
-  Marne ki karti hoon ab main dua
+  Sitam main karuṅ aur kaise bayaaṅ
+  Mujhe saans lena bhi dushwaar hai
+  Meri tor daali haiṅ sab pasliyaaṅ
+  Marne ki karti huṅ ab main dua
 
   2
-  Gawahon ko jhutlaya oss ne mere
-  Aye baba sand ke bhi tukray kiye
-  Yeh dekha tu roti rahi main bohat
-  Mere betay tukron ko chuntay rahe
-  Main roti rahi tu woh hansta raha
+  Gawaahoṅ ko jhutlaya us ne mere
+  Ae baba sanad ke bhi tukre kiye
+  Yeh dekha to roti rahi main bahut
+  Mere bete tukroṅ ko chunte rahe
+  Main roti rahi to woh hansta raha
 
   3
-  Humein jab sataya gaya be sabab
-  Bataon main kaisay howa kya ghazab
-  Gala mere shohar ka bandha gaya
-  Kiya na kissi ne bhi unn ka adab
-  Main deti rahi bas tumhein hi sada
+  Hameiṅ jab sataya gaya be sabab
+  Bataauṅ main kaise hua kya ghazab
+  Gala mere shohar ka baandha gaya
+  Kiya na kisi ne bhi un ka adab
+  Main deti rahi bas tumheiṅ hi sada
 
   4
-  Mere roney par bhi hain pabandiyaan
-  Main Bait al-Huzan mein pari hoon yahan
-  Na dekhey Ali mera zakhmi badan
-  Lahu ke chupati hoon unn se nishaan
-  Yeh ajar-e-risalat mujhe mil gaya
+  Mere rone par bhi haiṅ paabandiyaaṅ
+  Main Bait al-Huzan mein pari huṅ yahaaṅ
+  Na dekhe Ali mera zakhmi badan
+  Lahu ke chhupaati huṅ un se nishaaṅ
+  Yeh ajr-e-risaalat mujhe mil gaya
 
   5
   Wasiyat yeh meri suno Murtaza
-  Na aaye janazay mein qatil mera
-  Adalat mein Khaliq ke main robaro
-  Na bakhshoon gi oss ko kabhi ba Khuda
+  Na aaye janaze mein qaatil mera
+  Adaalat mein Khaaliq ke main rubaru
+  Na bakhshuṅ gi us ko kabhi bakhuda
   Khuda ab karega mera faisla
 
   6
   Yeh Sarwar sada gham mein tere rahe
-  Yeh Asif sada tere nohay likhe
-  Bohat gham bara hai Khuda ki qasam
-  Koi kis tarha se ada haq karey
-  Humein apne rozay ki ziyarat kara
+  Yeh Asif sada tere nohe likhe
+  Bahut gham bara hai Khuda ki qasam
+  Koi kis tarah se ada haq kare
+  Hameiṅ apne roze ki ziyarat kara
 ---
 
 یہ زہرا نے رو کر کیا مرثیہ

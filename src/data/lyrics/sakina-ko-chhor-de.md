@@ -13,9 +13,9 @@ aliases: ["Sakina Ko Chod De"]
 published: true
 romanLyrics: |-
   Naize pe sar Husain ka ye keh ke ro para
-  Zaalim meri yatim Sakina ko chhor de
+  Zaalim meri yatim Sakina ko chhor do
   Kiuṅ maarta hai is ne bigaara hai kya tera
-  Zaalim meri yatim Sakina ko chhor de
+  Zaalim meri yatim Sakina ko chhor do
 
   1
   Pehle hi ghamzada ne sahe haiṅ bare sitam
@@ -23,19 +23,19 @@ romanLyrics: |-
   Bahr-e-Khuda ghamoṅ ki sataayi ko na sata
 
   2
-  Is ghamzada ko baap ka pursa na de laiṅ
-  Deta nahiṅ gar is ko dilaasa na de laiṅ
-  Lillaah is ke rukh pe tamaache to na laga
+  Is ghamzada ko baap ka pursa na de la'iṅ
+  Deta nahiṅ gar is ko dilaasa na de la'iṅ
+  Lillaah is ke rukh pe tamaanche to na laga
 
   3
-  Hai dushmani laiṅ teri gar Husain se
+  Hai dushmani la'iṅ teri gar Husain se
   Tu taaziyaane mere kate sar pe maar le
   Durre na maar is ko hai maasum bekhata
 
   4
   Behaal ho chuki hai ye shiddat se pyaas ki
   Durroṅ ka waar sehne ki quwwat nahiṅ bachi
-  Iza na de ab aur ise bahr-e-Kibriya
+  Izaa na de ab aur ise bahr-e-Kibriya
 
   5
   Dekha hai jab se baap ka katta hua gala
@@ -43,14 +43,14 @@ romanLyrics: |-
   Mar jaayegi seham ke ise aur na dara
 
   6
-  Naazuk hai kaan chhin na bunde yuṅ khench ke
+  Naazuk hai kaan chhin na bundeṅ yuṅ khench ke
   Beti hai ye karim ki de degi maaṅg le
   Tarpa ke is yatim ko kya haath aayega
 
   7
-  Iza na de behen ko baraadar ke saamne
+  Izaa na de behen ko baraadar ke saamne
   Kore na maar Aabid-e-laaghar ke saamne
-  Ghairat pe ek bhaai ki ye zakhm na laga
+  Ghairat pe ek bhaai ki ye zakhm na lage
 
   8
   Ho kya bayaan Nadim wo ghurbat wo bekasi

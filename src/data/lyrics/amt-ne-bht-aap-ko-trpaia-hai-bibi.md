@@ -7,105 +7,54 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ya Fatima Zehra...
-
+romanLyrics: |-
+  Ya Faatima Zehra...
 
   1
-
-  Seene me liye ranj o alam karbobala ka
-
+  Sine meiṅ liye ranj o alam Karb o Bala ka
+  Baaba se hai milne ko chali Umm-e-Abiha
+  Aaṅkhoṅ se lahu behta hai pehlu hai shikasta
+  Ummat ne bahut aapko tarpaya hai Bibi
+  Har haq ke liye aapko tarsaya hai Bibi
+  Ghaasib ne jo darbaar meiṅ bulwaya hai Bibi
+  Is dukh se larazne laga khud arsh Khuda ka
 
   2
-
-  Baba se hai milne ko chali Umme Abiha
-
-
-  3
-
-  1. Ummat ne bohut aapko tadpaYa hai bibi
-
-  Har haq k liye aapko tarsaYa hai bibi
-
-  Ghasib ne jo darbar me bulwaYa hai bibi
-
-  Is dukh se larazne laga khud arsh khuda ka
-
-
-  4
-
-  2. Shabbir ki duniya me wiladat se bhi pehle
-
-  Kehti thi ye Zehra ke bohut sehti hu sadme
-
-  Bachha ye mera kok me bechaen bohut hai
-
-  Bachha mera kehta hai ke amma mai hu pyasa
-
-
-  5
-
-  3. Maa khana khilati hai to phir khate hai bache
-
-  Jaati hai jahaan maa wahi aajaate hai bachhe
-
-  Bin maa ke kabhi chaen nhi paate hai bachhe
-
-  Kaam aata hai bachho pe bohut maa ka sahara
-
-
-  6
-
-  4. Seene me azal se hi mere karbobala hai
-
-  Jaate hue Zehra ne duniYa se kaha hai
-
-  Kya shaam me hona hai ye sab mujhko pata hai
-
-  Tapte hue sehra me hai Shabbir ka lasha..
-
-
-  7
-
-  5. Duniya se chali kehti hui binte payambar
-
-  Gham karbobala ka hai liye ye dil e muztar
-
-  Aata hai tasawur me mere shaam ka manzar
-
+  Shabbir ki duniya meiṅ wilaadat se bhi pehle
+  Kehti thi ye Zehra ke bahut sehti ho sadme
+  Bachcha ye mera kokh meiṅ bechain bahut hai
+  Bachcha mera kehta hai ke ammaṅ main ho pyaasa
+  Ya Faatima Zehra... Ya Faatima Zehra
+  Maaṅ khaana khilaati hai to phir khaate haiṅ bachche
+  Jaati hai jahaaṅ maaṅ wahiṅ aa jaate haiṅ bachche
+  Bin maaṅ ke kabhi chaiṅ nahiṅ paate haiṅ bachche
+  Kaam aata hai bachchoṅ ko bahut maaṅ ka sahaara
+  Ya Faatima Zehra... Ya Faatima Zehra
+  Sine meiṅ azal se hi mere Karb o Bala hai
+  Jaate hue Zehra ne duniya se kaha hai
+  Kya Shaam meiṅ hona hai sab mujhko pata hai
+  Tapte hue sehra meiṅ hai Shabbir ka laasha
+  Ya Faatima Zehra... Ya Faatima Zehra
+  Duniya se chali kehti hui Bint-e-Payambar
+  Gham Karb o Bala ka hai liye ye dil-e-muztar
+  Aata hai tasavvur meiṅ mere Shaam ka manzar
   Allah rakhe Zainab o Kulsum ka parda
-
-
-  8
-
-  6. Ye kaam raha sadiyo se bas ahle azaa ka
-
-  Pyaso ke liye behta raha ashqo ka dariya
-
+  Ya Faatima Zehra... Ya Faatima Zehra
+  Ye kaam raha sadiyoṅ se bas ahl-e-aza ka
+  Pyaasoṅ ke liye behta raha ashkoṅ ka dariya
   Shabbir ka pursa diya Zehra ko hamesha
-
-  Shabbir ko do madar e shabbir ka pursa
-
-
-  9
-
-  7. Maao se azaadaro ki Zehra ne kaha hai
-
+  Shabbir ko do Maadar-e-Shabbir ka pursa
+  Ya Faatima Zehra... Ya Faatima Zehra
+  Maaoṅ se azaadaaroṅ ki Zehra ne kaha hai
   Aashur ke maqsad ka bharam tumne rakha hai
-
-  Bachho ko azaadari par qurbaan kiYa hai
-
-  Mehshar me chukaungi mai karzaa ye tumhara
-
-
-  10
-
-  8. Ab dilse"Qamar"waris e zahra ko bulao
-
-  Paamaal ye marqad pe bohut ashq bahao
-
-  Ai muntakim e karbobala parda uthao
-
-  Mohsin ki lahad par gaYa pehlu e shikasta'
+  Bachchoṅ ko azaadaari par qurbaan kiya hai
+  Mahshar meiṅ chukaauṅgi main qarza ye tumhaara
+  Ya Faatima Zehra... Ya Faatima Zehra
+  Ab dil se Qamar Waaris-e-Zehra ko bulaao
+  Paamaal ye marqad par bahut ashk bahaao
+  Ae Muntaqim-e-Karb o Bala parda uthaao
+  Mohsin ki lahad par gaya pehlu bhi shikasta
+  Ya Faatima Zehra... Ya Faatima Zehra
 reciter: "Ali Safdar Rizvi"
 ---
 

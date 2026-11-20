@@ -1,35 +1,60 @@
 ---
-title: "Taig E Nutq E Akeed Ya Zainab Hasnain Akbar Lyrics 2024"
+title: "تیغِ نطقِ اکید یا زینب"
+alternateTitle: "Taig-e-Nutq-e-Akeed Ya Zainab"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
-poet: "Akbar"
-tags: ["noUrdu"]
+poet: "Hasnain Akbar"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taig e nutq e akeed ya Zainab Hasnain Akbar
+  Sorah-e-Al-Hadeed ya Zainab
+  Ya Ali ya Hussain ya Zahra
+  Inn mein Hablul-Variid ya Zainab
+
+  2
+  Dijay bazu buredah bhai ko
+  Hukam-e-qata-o-bureed ya Zainab
+  Hazari ke liye tarapta hai
+  Aoun ka ik mureed ya Zainab
+
+  3
+  “Peshwa e tamam rindanam”
+  Tera Zaid e shaheed ya Zainab
+  Sham mein ab kahin nahi milta
+  Naam ka bhi Yazid ya Zainab
+
+  4
+  Zakhm-e-matam hai mere seene par
+  Karbala ki raseed ya Zainab
+  Kash dunya pukarey Akbar ko
+  Aap ka zar khareed ya Zainab
 ---
 
-1
-Taig e Nutq e Akeed Ya Zainab Hasnain Akbar
-Sorah-e-Al-Hadeed Ya Zainab.
-Ya Ali Ya Hussain Ya Zahra.
-Inn Mein Hablul-Variid Ya Zainab.
+۱
+تیغِ نطقِ اکید یا زینب حسنین اکبر
+سورۂ الحدید یا زینب
+یا علی یا حسین یا زہرا
+ان میں حبل الورید یا زینب
 
-2
-Dijay Bazu Buredah Bhai Ko.
-Hukam-e-Qata-o-Bureed Ya Zainab.
-Hazari Ke Liye Tarapta Hai.
-Aoun Ka Ik Mureed Ya Zainab.
+۲
+دیجے بازو بریدہ بھائی کو
+حکمِ قطع و برید یا زینب
+حاضری کے لیے تڑپتا ہے
+عون کا اک مرید یا زینب
 
-3
-”Peshwa e Tamam Rindanam”
-Tera Zaid e Shaheed Ya Zainab.
-Sham Mein Ab Kahin Nahi Milta.
-Naam Ka Bhi Yazid Ya Zainab.
+۳
+”پیشوائے تمام رندانم“
+تیرا زیدِ شہید یا زینب
+شام میں اب کہیں نہیں ملتا
+نام کا بھی یزید یا زینب
 
-4
-Zakhm-e-Matam Hai Mere Seene Par.
-Karbala Ki Raseed Ya Zainab.
-Kash Dunya Pukarey Akbar Ko.
-Aap Ka Zar Khareed Ya Zainab.
+۴
+زخمِ ماتم ہے میرے سینے پر
+کربلا کی رسید یا زینب
+کاش دنیا پکارے اکبر کو
+آپ کا زر خرید یا زینب

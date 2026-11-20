@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Maaro na mere saamne hamshakl-e-Nabi ko
-  Tarpaao na Ae Shaamiyoṅ farzand-e-Ali ko
+  Tarpaao na ae Shaamiyoṅ farzand-e-Ali ko
   Abbas ke mar jaane se maiṅ tut gaya huṅ
 
   2
@@ -28,11 +28,11 @@ romanLyrics: |-
   3
   Zainab ke dulaare jo gire khaak ke upar
   Kaandhe pe nahiṅ god meiṅ laaya huṅ utha kar
-  Wo mujh pe fida ho gaye maiṅ un pe fida huṅ
+  Wo mujh pe fida ho gaya maiṅ un pe fida huṅ
 
   4
   Allah tu shaahid hai ajab zulm hua hai
-  Ek laasha uthaaya na gaya balke chuna hai
+  Ik laash uthaaya na gaya balke chuna hai
   Us laash ki gathri liye maqtal se chala huṅ
 
   5
@@ -48,12 +48,12 @@ romanLyrics: |-
   7
   Sine pe jo soti thi wo soyegi zamiṅ par
   Maarega tamaanche use ab Shimr-e-sitamgar
-  Wo mujh ko bhula de ye dua maaṅg raha huṅ
+  Wo mujh ko bhula de ye dua maang raha huṅ
 
   8
   Tar khun meiṅ Rehaan Husain Ibn-e-Ali the
   Kehne lage Abbas ke parcham ko utha ke
-  Zainab ye qayaanat maiṅ tujhe sauṅp raha huṅ
+  Zainab ye qayaanat maiṅ tujhe saunp raha huṅ
 ---
 سید ہوں مسافر ہوں غریب الغربا ہوں
 پیاسہ ہوں کئی روز سے بے جرم و خطا ہوں

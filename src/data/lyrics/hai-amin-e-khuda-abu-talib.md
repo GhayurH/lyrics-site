@@ -3,49 +3,88 @@ title: "ہے امینِ خدا ابو طالب"
 alternateTitle: "Hai Amin-e-Khuda Abu Talib"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hai Ameen-e-Khuda Abu Talib
+  Mohsin-e-Mustafa Abu Talib
+
+  1
+  Parwarish karne Mustafa ki suno
+  Khud Khuda ne chuna Abu Talib
+  Sirf Ahmad ki fikar mein har pal
+  Sans leta raha Abu Talib
+
+  2
+  Pyar beton se barh ke Ahmad se
+  Haan kiya be baha Abu Talib
+  Aik lamha bhi na raha ghafil
+  Mustafa se zara Abu Talib
+
+  3
+  Kalma go La Ilaha ke bani ka
+  Palney wala tha Abu Talib
+  Do madadgar they Muhammad ke
+  Ik Ali dosra Abu Talib
+
+  4
+  Jab talak jan thi, Nabi ke liye
+  Dhaal ban kar jiya Abu Talib
+  Paal kar deen ko deiye tu ne
+  Mustafa, Murtaza, Abu Talib
+
+  5
+  Ghar mein Allah ke howa paida
+  Sirf beta tera Abu Talib
+  Aayi ghar mein tere baho ban kar
+  Syeda Fatima, Abu Talib
+
+  6
+  Kuch howa haq ada risalat ka
+  Kar ke teri sana Abu Talib
+  Mohtasham ko miley do gaz teri
+  Pas turbat ke ja Abu Talib
 ---
 
-Hai Ameen-e-Khuda Abu Talib
-Mohsin-e-Mustafa Abu Talib
+ہے امینِ خدا ابو طالب
+محسنِ مصطفیٰ ابو طالب
 
-1
-Parwarish Karne Mustafa Ki Suno
-Khud Khuda Ne Chuna Abu Talib
-Sirf Ahmad Ki Fikar Mein Har Pal
-Sans Leta Raha Abu Talib
+۱
+پرورش کرنے مصطفیٰ کی سنو
+خود خدا نے چنا ابو طالب
+صرف احمد کی فکر میں ہر پل
+سانس لیتا رہا ابو طالب
 
-2
-Pyar Beton Se Barh Ke Ahmad Se
-Haan Kiya Be Baha Abu Talib
-Aik Lamha Bhi Na Raha Ghafil
-Mustafa Se Zara Abu Talib
+۲
+پیار بیٹوں سے بڑھ کے احمد سے
+ہاں کیا بے بہا ابو طالب
+ایک لمحہ بھی نہ رہا غافل
+مصطفیٰ سے ذرا ابو طالب
 
-3
-Kalma Go La Ilaha Ke Bani Ka
-Palney Wala Tha Abu Talib
-Do Madadgar They Muhammad Ke
-Ik Ali Dosra Abu Talib
+۳
+کلمہ گو لا الٰہ کے بانی کا
+پالنے والا تھا ابو طالب
+دو مددگار تھے محمد کے
+اک علی دوسرا ابو طالب
 
-4
-Jab Talak Jan Thi, Nabi Ke Liye
-Dhaal Ban Kar Jiya Abu Talib
-Paal Kar Deen Ko Deiye Tu Ne
-Mustafa, Murtaza, Abu Talib
+۴
+جب تلک جاں تھی، نبی کے لیے
+ڈھال بن کر جیا ابو طالب
+پال کر دین کو دیے تو نے
+مصطفیٰ، مرتضیٰ، ابو طالب
 
-5
-Ghar Mein ALLAH Ke Howa Paida
-Sirf Beta Tera Abu Talib
-Aayi Ghar Mein Tere Baho Ban Kar
-Syeda Fatima, Abu Talib
+۵
+گھر میں اللہ کے ہوا پیدا
+صرف بیٹا تیرا ابو طالب
+آئی گھر میں تیرے بہو بن کر
+سیدہ فاطمہ، ابو طالب
 
-6
-Kuch Howa Haq Ada Risalat Ka
-Kar Ke Teri Sana Abu Talib
- Mohtasham Ko Miley Do Gaz Teri
-Pas Turbat Ke Ja Abu Talib
+۶
+کچھ ہوا حق ادا رسالت کا
+کر کے تیری ثنا ابو طالب
+محتشم کو ملے دو گز تیری
+پاس تربت کے جا ابو طالب

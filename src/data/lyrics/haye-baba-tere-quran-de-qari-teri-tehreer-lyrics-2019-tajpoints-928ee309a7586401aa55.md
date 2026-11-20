@@ -1,29 +1,47 @@
 ---
-title: "Haye Baba Tere Quran De Qari Teri Tehreer Lyrics 2019"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے بابا تیرے قرآن دے قاری تیری تحریر"
+alternateTitle: "Haye Baba Tere Quran De Qari Teri Tehreer"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Baba tere Quran de qari teri tehreer nayi manday
+  Quran te man de pay ne ik oh ayat-e-tatheer nayi manday
+  Jiwein gharor de nal baithay ne kursiyaan te
+  Main jan gayi aan Yasrab de loki hun meri tauqeer nayi manday
+
+  2
+  Boha jala ke mera karday re manadi
+  Man ne aan filqurba nu par Zahra toon aidhi tafseer nayi manday
+  Lagda aye aaj Madina jiwein aye pehla Kofa
+  Dar kholday nayi mere layi Man Kunto di teri taqreer nayi manday
+
+  3
+  Main aakhdi rayi aan rasiyaan na gal che pao
+  Damad Nabi da man lo jay Haider nu wasi te veer nayi manday
+  Akbar Khuda de ghar wich Bag-e-Fidak di khatir
+  Zahra nu rawa ke lokaan dasiya oh nara-e-takbeer nayi manday
 ---
 
-1
-Haye Baba Tere Quran De Qari Teri Tehreer Nayi Manday.
-Quran Te Man De Pay Ne Ik Oh Ayat-e-Tatheer Nayi Manday.
-Jiwein Gharor De Nal Baithay Ne Kursiyaan Te.
-Main Jan Gayi Aan Yasrab De Loki Hun Meri Tauqeer Nayi Manday.
+۱
+ہائے بابا تیرے قرآن دے قاری تیری تحریر نئیں مندے
+قرآن تے من دے پئے نے اک اوہ آیتِ تطہیر نئیں مندے
+جیویں غرور دے نال بیٹھے نے کرسیاں تے
+میں جان گئی آں یثرب دے لوکی ہن میری توقیر نئیں مندے
 
-2
-Boha Jala Ke Mera Karday Re Manadi.
-Man Ne Aan Filqurba Nu Par Zahra Toon Aidhi Tafseer Nayi Manday.
-Lagda Aye Aaj Madina Jiwein Aye Pehla Kofa.
-Dar Kholday Nayi Mere Layi Man Kunto Di Teri Taqreer Nayi Manday.
+۲
+بوہا جلا کے میرا کردے رہے منادی
+مننے آں فی القربیٰ نوں پر زہرا توں ایدھی تفسیر نئیں مندے
+لگدا اے آج مدینہ جیویں اے پہلا کوفہ
+در کھولدے نئیں میرے لئی من کنتو دی تیری تقریر نئیں مندے
 
-3
-Main Aakhdi Rayi Aan Rasiyaan Na Gal Che Pao.
-Damad Nabi Da Man Lo Jay Haider Nu Wasi Te Veer Nayi Manday.
- Akbar Khuda De Ghar Wich Bag-e-Fidak Di Khatir.
-Zahra Nu Rawa Ke Lokaan Dasiya Oh Nara-e-Takbeer Nayi Manday.
+۳
+میں آکھدی رہی آں رسیاں نہ گل چے پاؤ
+داماد نبی دا من لو جے حیدر نوں وصی تے ویر نئیں مندے
+اکبر خدا دے گھر وچ باغِ فدک دی خاطر
+زہرا نوں روا کے لوکاں دسیا اوہ نعرۂ تکبیر نئیں مندے

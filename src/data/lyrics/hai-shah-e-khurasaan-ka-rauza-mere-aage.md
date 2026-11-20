@@ -42,7 +42,7 @@ romanLyrics: |-
 
   7
   Tauhid ka sajda ho ke taazim ka sajda
-  Dono ki kabhi rad nahiṅ karna mere aage
+  Donoṅ ki kabhi rad nahiṅ karna mere aage
 
   8
   Barh jaauṅ ga aage maiṅ bahut hadd-e-adab se

@@ -1,92 +1,174 @@
 ---
-title: "Main Zainab Hoon Mesum Abbas"
+title: "میں زینب ہوں میثم عباس"
+alternateTitle: "Main Zainab Hoon Mesum Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Meesum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Logo main Ali ki beti hoon
+  Konain ki main shehzadi hoon
+
+  1
+  Main Zainab hoon, main Zainab hoon
+  Be chadar hoon our qaidi hoon
+  Bazar mein ro kar kehti hoon
+  Main Zainab hoon, main Zainab hoon
+
+  2
+  Kis shan se nikli thi ghar se
+  Iss gham ne rulaya tha mujh ko
+  Bazu se pakar kar ghazi ne
+  Mehmal mein bithaya tha mujh ko
+
+  3
+  Woh manzar soch ke roti hoon
+  Hairan main khud par hoti hoon
+  Jab qafila oss ke ghar pohancha
+  Shereen ne mujhe pehchana nahi
+
+  4
+  Qadmo se lipat kar roney lagi
+  Jab main ne kaha kyun jana nahi
+  Pardais mein lut kar aayi hoon
+  Pehchan main aaqa zadi hoon
+
+  5
+  Jis waqt sar-e-Muslim dekha
+  Sajjad ke lab par tha noha
+  Pehle tu salami di main ne
+  Phir rotay hoye Muslim se kaha
+
+  6
+  Qismat ki rasan mein jakri hoon
+  Aankhon se salami deti hoon
+  Humrah kaneezon ke ik din
+  Zindan-e-Sitam mein Hind aayi
+
+  7
+  Zainab se kaha jab kaun hai tu
+  Zainab yeh sukhan lab par layi
+  Main ranj-o-alam ki mari hoon
+  Our shair-e-khuda ki beti hoon
+
+  8
+  Zindaan se raha ho kar qaidi
+  Jab Karb-o-Bala mein aaye they
+  Bhai ki lehad par jate hi
+  Youn bain kiye they Zainab ne
+
+  9
+  Kuch neel rasan ke layi hoon
+  Tera chehlum karne aayi hoon
+  Sajjad se kehti thi ro kar
+  Darbar mein kis tarha jaon
+
+  10
+  Main sharam-o-haya ki shehzadi
+  Aye kash zameen mein garr jaon
+  Mujrim ki tarha se chalti hoon
+  Khaliq se duhai deti hoon
+
+  11
+  Atharah baradar they jis ke
+  Woh bibi rida ko roti hai
+  Woh zakhm deiye hain ummat ne
+  Marham ko dawa ko roti hai
+
+  12
+  Har kalma go se kehti hoon
+  Kyun aaj rida ko tarasti hoon
+  Pohanchay jo Madine ahl-e-haram
+  Tha Meesum-o- Mazhar hashar bapa
+
+  13
+  Sughra se kaha shehzadi ne
+  Chehray pe merey kar ghoor zara
+  Zindaan se chut kar aayi hoon
+  Baloon mein safaidi layi hoon
 ---
 
-Logo Main Ali Ki Beti Hoon.
-Konain Ki Main Shehzadi Hoon.
+لوگو میں علی کی بیٹی ہوں
+کونین کی میں شہزادی ہوں
 
-1
-Main Zainab Hoon, Main Zainab Hoon.
-Be Chadar Hoon Our Qaidi Hoon.
-Bazar Mein Ro Kar Kehti Hoon.
-Main Zainab Hoon, Main Zainab Hoon.
+۱
+میں زینب ہوں، میں زینب ہوں
+بے چادر ہوں اور قیدی ہوں
+بازار میں رو کر کہتی ہوں
+میں زینب ہوں، میں زینب ہوں
 
-2
-Kis Shan Se Nikli Thi Ghar Se.
-Iss Gham Ne Rulaya Tha Mujh Ko.
-Bazu Se Pakar Kar Ghazi Ne.
-Mehmal Mein Bithaya Tha Mujh Ko.
+۲
+کس شان سے نکلی تھی گھر سے
+اس غم نے رلایا تھا مجھ کو
+بازو سے پکڑ کر غازی نے
+محمل میں بٹھایا تھا مجھ کو
 
-3
-Woh Manzar Soch Ke Roti Hoon.
-Hairan Main Khud Par Hoti Hoon.
-Jab Qafila Oss Ke Ghar Pohancha.
-Shereen Ne Mujhe Pehchana Nahi.
+۳
+وہ منظر سوچ کے روتی ہوں
+حیران میں خود پر ہوتی ہوں
+جب قافلہ اس کے گھر پہنچا
+شیریں نے مجھے پہچانا نہیں
 
-4
-Qadmo Se Lipat Kar Roney Lagi.
-Jab Main Ne Kaha Kyun Jana Nahi.
-Pardais Mein Lut Kar Aayi Hoon.
-Pehchan Main Aaqa Zadi Hoon.
+۴
+قدموں سے لپٹ کر رونے لگی
+جب میں نے کہا کیوں جانا نہیں
+پردیس میں لٹ کر آئی ہوں
+پہچان، میں آقا زادی ہوں
 
-5
-Jis Waqt Sar-e-Muslim Dekha.
-Sajjad Ke Lab Par Tha Noha.
-Pehle Tu Salami Di Main Ne.
-Phir Rotay Hoye Muslim Se Kaha.
+۵
+جس وقت سرِ مسلم دیکھا
+سجاد کے لب پر تھا نوحہ
+پہلے تو سلامی دی میں نے
+پھر روتے ہوئے مسلم سے کہا
 
-6
-Qismat Ki Rasan Mein Jakri Hoon.
-Aankhon Se Salami Deti Hoon.
-Humrah Kaneezon Ke Ik Din.
-Zindan-e-Sitam Mein Hind Aayi.
+۶
+قسمت کی رسن میں جکڑی ہوں
+آنکھوں سے سلامی دیتی ہوں
+ہمراہ کنیزوں کے اک دن
+زندانِ ستم میں ہند آئی
 
-7
-Zainab Se Kaha Jab Kaun Hai Tu.
-Zainab Yeh Sukhan Lab Par Layi.
-Main Ranj-o-Alam Ki Mari Hoon.
-Our Shair-e-Khuda Ki Beti Hoon.
+۷
+زینب سے کہا جب کون ہے تو
+زینب یہ سخن لب پر لائی
+میں رنج و الم کی ماری ہوں
+اور شیرِ خدا کی بیٹی ہوں
 
-8
-Zindaan Se Raha Ho Kar Qaidi.
-Jab Karb-o-Bala Mein Aaye They.
-Bhai Ki Lehad Par Jate Hi.
-Youn Bain Kiye They Zainab Ne.
+۸
+زندان سے رہا ہو کر قیدی
+جب کرب و بلا میں آئے تھے
+بھائی کی لحد پر جاتے ہی
+یوں بین کیے تھے زینب نے
 
-9
-Kuch Neel Rasan Ke Layi Hoon.
-Tera Chehlum Karne Aayi Hoon.
-Sajjad Se Kehti Thi Ro Kar.
-Darbar Mein Kis Tarha Jaon.
+۹
+کچھ نیل رسن کے لائی ہوں
+تیرا چہلم کرنے آئی ہوں
+سجاد سے کہتی تھی رو کر
+دربار میں کس طرح جاؤں
 
-10
-Main Sharam-o-Haya Ki Shehzadi.
-Aye Kash Zameen Mein Garr Jaon.
-Mujrim Ki Tarha Se Chalti Hoon.
-Khaliq Se Duhai Deti Hoon.
+۱۰
+میں شرم و حیا کی شہزادی
+اے کاش زمین میں گڑ جاؤں
+مجرم کی طرح سے چلتی ہوں
+خالق سے دہائی دیتی ہوں
 
-11
-Atharah Baradar They Jis Ke.
-Woh Bibi Rida Ko Roti Hai.
-Woh Zakhm Deiye Hain Ummat Ne.
-Marham Ko Dawa Ko Roti Hai.
+۱۱
+اٹھارہ برادر تھے جس کے
+وہ بی‌بی ردا کو روتی ہے
+وہ زخم دیے ہیں امت نے
+مرہم کو دوا کو روتی ہے
 
-12
-Har Kalma Go Se Kehti Hoon.
-Kyun Aaj Rida Ko Tarasti Hoon.
-Pohanchay Jo Madine Ahl-e-Haram.
-Tha Meesum-o- Mazhar Hashar Bapa.
+۱۲
+ہر کلمہ گو سے کہتی ہوں
+کیوں آج ردا کو ترستی ہوں
+پہنچے جو مدینے اہلِ حرم
+تھا میثم و مظہر حشر بپا
 
-13
-Sughra Se Kaha Shehzadi Ne.
-Chehray Pe Merey Kar Ghoor Zara.
-Zindaan Se Chut Kar Aayi Hoon.
-Baloon Mein Safaidi Layi Hoon.
+۱۳
+صغریٰ سے کہا شہزادی نے
+چہرے پہ میرے کر غور ذرا
+زندان سے چھٹ کر آئی ہوں
+بالوں میں سفیدی لائی ہوں

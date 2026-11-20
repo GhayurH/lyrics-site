@@ -13,58 +13,58 @@ romanLyrics: |-
   Mere Asghar kaafi hai
 
   1
-  Haathoṅ may ali asghar ko liye
+  Haathoṅ mein Ali Asghar ko liye
   Shabbir sadaa ye dete the
-  Kya mujhse ladegi fauje jafa
+  Kya mujhse laregi fauj-e-jafa
   Nau laakh is lashkar ke liye
 
   2
-  Khud iski sana quraṅ ki tarha
-  Quran shuja'at karta hai
-  Ye sher e khuda ka pota hai
+  Khud iski sana Quraaṅ ki tarah
+  Quraan shujaat karta hai
+  Ye sher-e-Khuda ka pota hai
   Talwaar bina larne ke liye
 
   3
-  Kamsin hai magar lachaar nahi
+  Kamsin hai magar lachaar nahiṅ
   Abbas ke jaise tewar hai
   Bas ek ishaare se apne
-  Tufan bapa kar ne ke liye
+  Tufaan bapa karne ke liye
 
   4
-  Ro de to baras jaaye badal
-  Bole to qayamat aa jaye
-  Ae marhabe dashte karbobala
+  Ro de to baras jaaye baadal
+  Bole to qayaamat aa jaaye
+  Ae Marhab-e-dasht-e-Karb o Bala
   Khyber ko tere dhaane ke liye
 
   5
-  Ummat pe jafa manzur nahi
-  Mai saabir hoo majbur nahi
-  Ye hukme mashiyat hai warna
+  Ummat pe jafa manzur nahiṅ
+  Main saabir huṅ majbur nahiṅ
+  Ye hukm-e-mashiyat hai warna
   Abbas tere badle ke liye
 
   6
-  Allaah re himmat bano ki
-  Khud fauje sitam se kehti thi
-  Shabbir pe tir na barsao
-  Har tir e sitam khaane ke liye
+  Allaah re himmat Bano ki
+  Khud fauj-e-sitam se kehti thi
+  Shabbir pe tir na barsaao
+  Har tir-e-sitam khaane ke liye
 
   7
-  Jab aayi sakina maqtal may
-  Ek laash se aati thi ye sada
-  Madaar ki godh may sojao
-  Pehlu me mere so ne ke liye
+  Jab aayi Sakina maqtal mein
+  Is laash se aati thi ye sadaa
+  Maadar ki god mein so jaao
+  Pehlu mein mere sone ke liye
 
   8
   Sughra ko khabar ye ho na saki
-  Dunya se gaya pyasa bhai
-  Usne to likha hai khat may yehi
+  Dunya se gaya pyaasa bhaai
+  Usne to likha hai khat mein yahi
   Ae baba mere jine ke liye
 
   9
-  Rehaan nahi fikre mehshar
-  Jab baab e hawaij hai asghar
-  Firdaus may ibne zahra ke
-  Qadmoṅ may jagah paane ke liye
+  Rehaan nahiṅ fikr-e-mehshar
+  Jab baab-e-hawaaij hai Asghar
+  Firdaus mein ibn-e-Zahra ke
+  Qadmoṅ mein jagah paane ke liye
 ---
 میرے اصغر کافی ہے
 

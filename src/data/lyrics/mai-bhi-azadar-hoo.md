@@ -1,6 +1,6 @@
 ---
 title: "اللّٰہ اللّٰہ"
-alternateTitle: "Mai Bhi Azadar Hoo"
+alternateTitle: "Main Bhi Azadaar Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Allah allah
-  Sajjad aur raahe shaam
-  Jab raahe shaam meiṅ thak kar ke
-  Pyasoṅ ka khaafila baith gaya
-  Sajjad bula kar baqar ko
+  Allah Allah
+  Sajjad raah-e-Shaam
+  Jab raah-e-Shaam mein thak kar ke
+  Pyaasoṅ ka qaafila baith gaya
+  Sajjad bula kar Baqar ko
   Dhime dhime ye kehta tha
-  Waada karo jab tak jiyenge
-  Matam kareṅge dono rahenge sogwaar
-  Baqar se yehi kehte rahe abid e bimar
-  Haa mai bhi azadaar hoo aur tum bhi azadaar
-  Mai aadam e saadat hoo kehta hai zamana
-  Mar jaauṅ agar raah meiṅ ye bhul na jaana
-  Ho tum hi mere baad mere waaris e dastaar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
-  Baqar zara dhundo meri hamshir kahaṅ hai
-  Baba ka jahaṅ sar hai yaqinan wo wahaṅ hai
-  Keh do use aage hai safar aur bhi dhushwaar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
-  Asghar ki tarha pyaas se behaal hua hu
-  Qasim ki tarha mai bhi to pamaal hua hu
-  Akbar ki tarha mere bhi sine pe huwe waar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
-  Hai naam ali mera mohamed hai tera naam
-  Kiuṅkar na mache arsh pe ye dekh ke kohraam
-  Hai tere rasan haathoṅ meiṅ aur mai hoo giraftaar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
-  Beta ye iraada hai khuda wande jali ka
-  Baazaroṅ se ab hoga guzar binte ali ka
-  Royega hameiṅ dekh ke naize pe alamdaar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
-  Kya kya na sitam dhaaye hai baazare sitam ne
-  Baaloṅ se chupa rakha tha chehroṅ ko haram ne
-  Ghairat ka janaza tha sar e majma e aghyaar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
-  Ae akhtar o irfan-e-aza ahle aza se
-  Kehdo ke na ghaafil rahe matam ki sada se
-  Hai yehi sada marhame zakhme dile bimar
-  Baqar se yehi kehte rahe...
-  Haa mai bhi azadaar hoo...
+  Waada karo jab tak jiyeṅge
+  Maatam kareṅge donoṅ raheṅge sogwaar
+  Baqar se yahi kehte rahe Aabid-e-Bimaar
+  Haaṅ main bhi azadaar huṅ aur tum bhi azadaar
+  Main Aadam-e-Saadaat huṅ kehta hai zamaana
+  Mar jaauṅ agar raah mein ye bhul na jaana
+  Ho tum hi mere baad mere waaris-e-dastaar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
+  Baqar zara dhundo meri hamshir kahaaṅ hai
+  Baba ka jahaaṅ sar hai yaqinan wo wahaaṅ hai
+  Keh do use aage hai safar aur bhi dushwaar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
+  Asghar ki tarah pyaas se behaal hua huṅ
+  Qaasim ki tarah main bhi to paamaal hua huṅ
+  Akbar ki tarah mere bhi sine pe hue waar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
+  Hai naam Ali mera Muhammad hai tera naam
+  Kiuṅ kar na mache arsh pe ye dekh ke kohraam
+  Hai tere rasan haathoṅ mein aur main huṅ giraftaar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
+  Beta ye iraada hai Khudaawand-e-Jali ka
+  Baazaaroṅ se ab hoga guzar Bint-e-Ali ka
+  Royega hamein dekh ke naize pe alamdaar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
+  Kya kya na sitam dhaaye haiṅ baazaar-e-sitam ne
+  Baaloṅ se chhupa rakha tha chehroṅ ko haram ne
+  Ghairat ka janaaza tha sar-e-majma-e-aghyaar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
+  Ae Akhtar o Irfaan-e-Aza ahl-e-aza se
+  Keh do ke na ghaafil rahe matam ki sada se
+  Hai yahi sada marham-e-zakhm-e-dil-e-bimaar
+  Baqar se yahi kehte rahe...
+  Haaṅ main bhi azadaar huṅ...
 ---
 
 ۱

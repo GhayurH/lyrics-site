@@ -8,65 +8,33 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haaye Sakina haaye zindaan
-
-  Gham Sakina ko mile itne musalmaanon se
-
+romanLyrics: |-
+  Gham Sakina ko mile itne musalmaanoṅ se
 
   1
-
-  Haye
-
-  Mar gayi par na kabhi
-
-  Haath hate kaanon se... haye
-
+  Mar gayi par na kabhi haath hate kaanoṅ se
+  Shaam jaate hue naaqe se giri yuṅ bachchi
+  Mashk Ghazi ki giri jaise kate shaanoṅ se
 
   2
-
-  1) shaam jaate hue naake se giri yun bacchi
-
-  Mashk Ghazi ki giri jaise kate shaanon se....haye
-
+  Chaunk uthti thi Madine meiṅ ye keh kar Baano
+  Koi aawaaz mujhe deta hai viraanoṅ se
 
   3
-
-  2) chaunk uthti thi madine me ye kehkar baano
-
-  Koi aawaz mujhe deta hai veeranon se.....haye
-
+  Kitni berahmi se zaalim ne utaare wo gauhar
+  Shah ne beti ko jo pehnaaye the armaanoṅ se
 
   4
-
-  3) kitni berahmi se zaalim ne utaare wo gauhar
-
-  Shah beti ko jo pehnaaye the armaanon se.... haye
-
+  Mujh ko kurte meiṅ hi dafnaana Sakina ne kaha
+  Mat kafan maaṅgna ae bhaai musalmaanoṅ se
 
   5
-
-  4) Mujhko kurte me hi dafnana Sakina ne kaha
-
-  Mat kafan mangna aye bhai musalmaanon se...haye
-
+  Koi ghaibat meiṅ unheiṅ dekh ke khuṅ rota hai
+  Rista rehta hai lahu aaj bhi jin kaanoṅ se
 
   6
-
-  5) Koi ghaibat me Unhe dekh ke khoon rota hai
-
-  Rissta rehta hai lahu aaj bhi jin kaanon se....haye
-
-
-  7
-
-  6) sab chale jaate hai Shabbir ko rokar Akbar
-
-  Ek Bacchi nhi jaati hai Azakhaanon se....haye
-
-
-  8
-
-  Haye'
+  Sab chale jaate haiṅ Shabbir ko ro kar Akbar
+  Ek bachchi nahiṅ jaati hai azaakhaanoṅ se
 ---
 
 غم سکینہؑ کو ملے اتنے مسلمانوں سے

@@ -1,35 +1,60 @@
 ---
-title: "Masooma Hasnain Abbas"
+title: "معصومہ حسنین عباس"
+alternateTitle: "Masooma Hasnain Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jahan mein bint-e-Nabi ki zia hai Masooma
+  Keh Fatima hi ka ik aaina hai Masooma
+  Yeh Toos walay Ali ki batool khwahar hai
+  Raza ki Marziya hai, Fatima hai Masooma
+
+  2
+  Yeh kharzaar pe gul zaar ki jo khulat hai
+  Yeh Qum ko aap ka sadqa mila hai Masooma
+  Hamari jhonpari mein kuch bhi qeemati nahi hai
+  Magar woh sang jo Qum se mila hai Masooma
+
+  3
+  Ali ka aks bana kar Khuda ne bhaija hai
+  Tumhara bhai, jo Rab ki Raza hai Masooma
+  Hai Toos aap ke bhai ke dam se khuld-e-barin
+  Yeh Qum bhi khuld ka ik rasta hai Masooma
+
+  4
+  Main be aman nahi hoon keh mere bazu se
+  Raza ke naam ka sikka bandha hai Masooma
+  Hamari kam sukhani aitraaf karti hai
+  Faraz e madah tumhari atta hai Masooma
 ---
 
-1
-Jahan Mein Bint-e-Nabi Ki Zia Hai Masooma.
-Keh Fatima Hi Ka Ik Aaina Hai Masooma.
-Yeh Toos Walay Ali Ki Batool Khwahar Hai.
-Raza Ki Marziya Hai, Fatima Hai Masooma.
+۱
+جہاں میں بنتِ نبی کی ضیا ہے معصومہ
+کہ فاطمہ ہی کا اک آئینہ ہے معصومہ
+یہ طوس والے علی کی بتول خواہر ہے
+رضا کی مرضیہ ہے، فاطمہ ہے معصومہ
 
-2
-Yeh Kharzaar Pe Gul Zaar Ki Jo Khulat Hai.
-Yeh Qum Ko Aap Ka Sadqa Mila Hai Masooma.
-Hamari Jhonpari Mein Kuch Bhi Qeemati Nahi Hai.
-Magar Woh Sang Jo Qum Se Mila Hai Masooma.
+۲
+یہ خارزار پہ گلزار کی جو خلعت ہے
+یہ قم کو آپ کا صدقہ ملا ہے معصومہ
+ہماری جھونپڑی میں کچھ بھی قیمتی نہیں ہے
+مگر وہ سنگ جو قم سے ملا ہے معصومہ
 
-3
-Ali Ka Aks Bana Kar Khuda Ne Bhaija Hai.
-Tumhara Bhai, Jo Rab Ki Raza Hai Masooma.
-Hai Toos Aap Ke Bhai Ke Dam Se Khuld-e-Barin.
-Yeh Qum Bhi Khuld Ka Ik Rasta Hai Masooma.
+۳
+علی کا عکس بنا کر خدا نے بھیجا ہے
+تمہارا بھائی، جو رب کی رضا ہے معصومہ
+ہے طوس آپ کے بھائی کے دم سے خلدِ بریں
+یہ قم بھی خلد کا اک راستہ ہے معصومہ
 
-4
-Main Be Aman Nahi Hoon Keh Mere Bazu Se.
-Raza Ke Naam Ka Sikka Bandha Hai Masooma.
-Hamari Kam Sukhani Aitraaf Karti Hai.
- Faraz E Madah Tumhari Atta Hai Masooma.
+۴
+میں بے امن نہیں ہوں کہ میرے بازو سے
+رضا کے نام کا سکہ بندھا ہے معصومہ
+ہماری کم سخنی اعتراف کرتی ہے
+فرازِ مدح تمہاری عطا ہے معصومہ

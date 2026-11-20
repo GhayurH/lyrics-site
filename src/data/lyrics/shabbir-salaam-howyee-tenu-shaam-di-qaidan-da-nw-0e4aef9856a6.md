@@ -1,42 +1,89 @@
 ---
-title: "Shabbir Salaam Howyee Tenu Shaam Di Qaidan Da"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "شبیر سلام ہووے تینوں شام دی قیداں دا"
+alternateTitle: "Shabbir Salaam Howyee Tenu Shaam Di Qaidan Da"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Adil"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Shabbir salaam howyee tenu Shaam di qaidan da
+  Mera Akbar qatal hoya, tera bach Sajjad gaya
+
+  1
+  Mar gaiyan main veeran, Karbal wich ay tak kai,
+  Choti jaie qabar utay, Ghazi da naa likheya
+
+  2
+  Dar kholde turbat da, seena Akbar da chumna,
+  Sutta piyu dai sang kive, mere jiggar da ay tukra
+
+  3
+  Tazeem laie Zainab di, aya qabar vichou bahar,
+  Hath jiggar tay Akbar da, akhay amri aa gal la
+
+  4
+  Yak lakhat Rubab royee, ghash kar gayi qabar utay,
+  Shabeer dai seenay tay, jadou Asghar nu takaiya
+
+  5
+  Sano bhain bhirawan nu Karbal wich lut pay gayi
+  Tera kat gaya sar veran meri lut layi pak rida
+
+  6
+  Main aun o Muhammad da, nahin poochna verran tou,
+  Tere sir tou vaar dittay, o ban gaye nai sadqa
+
+  7
+  Har qadam tay rondi si, ay soch kai haye Zainab,
+  Karbal vich bikhar gaya, meri Kubra da bandra
+
+  8
+  Shabbir da lahu bhareya, Zainab jo leyaei si,
+  Zahra nai qabar andar, o rakheya si kurta
+
+  9
+  Zakhmi chera takeya, Zainab da Sughra nai,
+  Dukh bhul gaya si Adil, Akbar di barchi daa
 ---
 
-Shabbir Salaam Howyee Tenu Shaam Di Qaidan Da
+شبیر سلام ہووے تینوں شام دی قیداں دا
+میرا اکبر قتل ہویا، تیرا بچ سجاد گیا
 
-Mera Akbar Qatal Hoya, Tera Bach Sajjad Gaya
+۱
+مر گئیاں میں ویراں، کربل وچ ایہہ تک کے،
+چھوٹی جئی قبر اُتے، غازی دا ناں لکھیا
 
-Mar Gaiyan Main Veeran, Karbal Wich Ay Tak Kai,
-Choti Jaie Qabar Utay, Ghazi Da Naa Likheya.
+۲
+در کھول دے تربت دا، سینہ اکبر دا چمنا،
+سُتّا پیو دے سنگ کیویں، میرے جگر دا ایہہ ٹکڑا
 
-Dar Kholde Turbat Da, Seena Akbar Da Chumna,
-Sutta Piyu Dai Sang Kive, Mere Jiggar Da Ay Tukra.
+۳
+تعظیم لئی زینب دی، آیا قبر وچوں باہر،
+ہتھ جگر تے اکبر دا، آکھے امڑی آ گل لا
 
-Tazeem Laie Zainab Di, Aya Qabar Vichou Bahar,
-Hath Jiggar Tay Akbar Da, Akhay Amri Aa Gal La.
+۴
+یک لخت رباب روئی، غش کر گئی قبر اُتے،
+شبیر دے سینے تے، جدوں اصغر نوں تکیا
 
-Yak Lakhat Rubab Royee, Ghash Kar Gayi Qabar Utay,
-Shabeer Dai Seenay Tay, Jadou Asghar Nu Takaiya.
+۵
+سانوں بھین بھراواں نوں کربل وچ لُٹ پے گئی
+تیرا کٹ گیا سر ویرن میری لُٹ لئی پاک ردا
 
-Sano Bhain Bhirawan Nu Karbal Wich Lut Pay Gayi
-Tera Kat Gaya Sar Veran Meri Lut Layi Pak Rida
+۶
+میں آں اوہ محمد دا، نہیں پوچھنا ویرن توں،
+تیرے سر توں وار دِتّے، اوہ بن گئے نیں صدقہ
 
-Main Aun O Muhammad Da, Nahin Poochna Verran Tou,
-Tere Sir Tou Vaar Dittay, O Ban Gaye Nai Sadqa.
+۷
+ہر قدم تے روندی سی، ایہہ سوچ کے ہائے زینب،
+کربل وچ بکھر گیا، میری کبریٰ دا بانڈرا
 
-Har Qadam Tay Rondi Si, Ay Soch Kai Haye Zainab,
-Karbal Vich Bikhar Gaya, Meri Kubra Da Bandra.
+۸
+شبیر دا لہو بھریا، زینب جو لے آئی سی،
+زہرا نے قبر اندر، اوہ رکھیا سی کرتا
 
-Shabbir Da Lahu Bhareya, Zainab Jo Leyaei Si,
-Zahra Nai Qabar Andar, O Rakheya Si Kurta.
-
-Zakhmi Chera Takeya, Zainab Da Sughra Nai,
-Dukh Bhul Gaya Si Adil, Akbar Di Barchi Daa.
+۹
+زخمی چہرا تکیا، زینب دا صغریٰ نے،
+دکھ بھل گیا سی عادل، اکبر دی برچھی دا

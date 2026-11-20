@@ -1,50 +1,89 @@
 ---
-title: "Haye Ali Maula Haider Rizvi"
+title: "ہائے علی مولا حیدر رضوی"
+alternateTitle: "Haye Ali Maula Haider Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ummat ne Murtaza ko hai mara Nabi ke baad
+  Zulm-o-sitam yeh Kofay mein dhaya Nabi ke baad
+
+  1
+  Haider ko Mustafa ki judai satati thi
+  Reh reh ke yaad Maula ko Maula ki aati thi
+  Logon ne youn Ali ko sataya Nabi ke baad
+  Ummat ne ayhteram youn chora Imam ka
+
+  2
+  Deta na tha jawab koi bhi salam ka
+  Haider se phir gaya youn Madina Nabi ke baad
+  Masjid mein taig sar pe Ali ke jonhi chali
+  Sidrah se Jibraeel ne ro kar sada yeh di
+
+  3
+  Masjid mein dein ka dhaya diya Kaba Nabi ke baad
+  Ghar ko Saqeefa walon ne aa kar jala diya
+  Mimber pe Murtaza ke addo ko bitha diya
+  Kya kya saha Ali ne hai sadma Nabi ke baad
+
+  4
+  Tauheen iss tarha se risalat ki, ki gayi
+  Gardan mein janasheen-e-Nabi ke rasan pari
+  Our khaya Fatima ne tamacha Nabi ke baad
+  Qatil ki taig mein tha chupa bugz Sham ka
+
+  5
+  Badlah Ali se Badar-o-Ohad ka liya gaya
+  Tha khoon mein tar Nabi ka amama Nabi ke baad
+  Zainab pukari maa se bichar kar na soti hoon
+  Jab se utha hai nana ka saya main roti hoon
+
+  6
+  Ab aap choray jate hain baba Nabi ke baad
+  Gham se Asad batata tha chehra Hussain ka
+  Karb-o-Bala ka Kofay mein aagaz ho gaya
+  Utha jonhi Ali ka janaza Nabi ke baad
 ---
 
-Ummat Ne Murtaza Ko Hai Mara Nabi Ke Baad.
-Zulm-o-Sitam Yeh Kofay Mein Dhaya Nabi Ke Baad.
+امت نے مرتضیٰ کو ہے مارا نبی کے بعد
+ظلم و ستم یہ کوفے میں ڈھایا نبی کے بعد
 
-1
-Haider Ko Mustafa Ki Judai Satati Thi.
-Reh Reh Ke Yaad Maula Ko Maula Ki Aati Thi.
-Logon Ne Youn Ali Ko Sataya Nabi Ke Baad.
-Ummat Ne Ayhteram Youn Chora Imam Ka.
+۱
+حیدر کو مصطفیٰ کی جدائی ستاتی تھی
+رہ رہ کے یاد مولا کو مولا کی آتی تھی
+لوگوں نے یوں علی کو ستایا نبی کے بعد
+امت نے احترام یوں چھوڑا امام کا
 
-2
-Deta Na Tha Jawab Koi Bhi Salam Ka.
-Haider Se Phir Gaya Youn Madina Nabi Ke Baad.
-Masjid Mein Taig Sar Pe Ali Ke Jonhi Chali.
-Sidrah Se Jibraeel Ne Ro Kar Sada Yeh Di.
+۲
+دیتا نہ تھا جواب کوئی بھی سلام کا
+حیدر سے پھر گیا یوں مدینہ نبی کے بعد
+مسجد میں تیغ سر پہ علی کے جونہی چلی
+سدرہ سے جبرائیل نے رو کر صدا یہ دی
 
-3
-Masjid Mein Dein Ka Dhaya Diya Kaba Nabi Ke Baad.
-Ghar Ko Saqeefa Walon Ne Aa Kar Jala Diya.
-Mimber Pe Murtaza Ke Addo Ko Bitha Diya.
-Kya Kya Saha Ali Ne Hai Sadma Nabi Ke Baad.
+۳
+مسجد میں دیں کا ڈھایا دیا کعبہ نبی کے بعد
+گھر کو سقیفہ والوں نے آ کر جلا دیا
+منبر پہ مرتضیٰ کے عدو کو بٹھا دیا
+کیا کیا سہا علی نے ہے صدمہ نبی کے بعد
 
-4
-Tauheen Iss Tarha Se Risalat Ki, Ki Gayi.
-Gardan Mein Janasheen-e-Nabi Ke Rasan Pari.
-Our Khaya Fatima Ne Tamacha Nabi Ke Baad.
-Qatil Ki Taig Mein Tha Chupa Bugz Sham Ka.
+۴
+توہین اس طرح سے رسالت کی، کی گئی
+گردن میں جانشینِ نبی کے رسن پڑی
+اور کھایا فاطمہ نے طمانچہ نبی کے بعد
+قاتل کی تیغ میں تھا چھپا بغض شام کا
 
-5
-Badlah Ali Se Badar-o-Ohad Ka Liya Gaya.
-Tha Khoon Mein Tar Nabi Ka Amama Nabi Ke Baad.
-Zainab Pukari Maa Se Bichar Kar Na Soti Hoon.
-Jab Se Utha Hai Nana Ka Saya Main Roti Hoon.
+۵
+بدلہ علی سے بدر و احد کا لیا گیا
+تھا خون میں تر نبی کا عمامہ نبی کے بعد
+زینب پکاری ماں سے بچھڑ کر نہ سوتی ہوں
+جب سے اٹھا ہے نانا کا سایہ میں روتی ہوں
 
-6
-Ab Aap Choray Jate Hain Baba Nabi Ke Baad.
-Gham Se Asad Batata Tha Chehra Hussain Ka.
-Karb-o-Bala Ka Kofay Mein Aagaz Ho Gaya.
-Utha Jonhi Ali Ka Janaza Nabi Ke Baad.
+۶
+اب آپ چھوڑے جاتے ہیں بابا نبی کے بعد
+غم سے اسد بتاتا تھا چہرہ حسین کا
+کرب و بلا کا کوفے میں آغاز ہو گیا
+اٹھا جونہی علی کا جنازہ نبی کے بعد

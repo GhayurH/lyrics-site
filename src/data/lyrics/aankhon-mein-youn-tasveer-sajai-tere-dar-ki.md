@@ -1,6 +1,6 @@
 ---
 title: "آنکھوں میں یوں تصویر سجائی تیرے در کی"
-alternateTitle: "Aankhon Mein Youn Tasveer Sajai Tere Dar Ki"
+alternateTitle: "Aankhon Mein Yuṅ Tasveer Sajai Tere Dar Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aankhon mein youn tasveer sajai tere dar ki
+  Aankhon mein yuṅ tasveer sajai tere dar ki
   Har samt hai ab jalwa numai tere dar ki
-  Main theher giya our ki ashkon se taharat
-  Baton mein kabhi baat jo ayi tere dar ki
+  Main thahar gaya aur ki ashkon se tahaarat
+  Baaton mein kabhi baat jo aai tere dar ki
 
   2
-  Kis tarha se ho ga bhala shahi ka talabgar
-  Jis ko bhi mayasar hai gadai tere dar ki
-  Mehsoos howa aa gaye iflak simat kar
-  Jab khak hatheli pe uthai tere dar ki
+  Kis tarah se ho ga bhala shaahi ka talabgaar
+  Jis ko bhi mayassar hai gadai tere dar ki
+  Mehsus hua aa gaye aflaak simat kar
+  Jab khaak hatheli pe uthai tere dar ki
 
   3
-  Hai manzil-e-Sidra se bhi aagay meri manzil
+  Hai manzil-e-Sidra se bhi aage meri manzil
   Karni hai mujh madah sarai tere dar ki
-  Ayat bhi misron mein simati nazar aaein
-  Tareef jo lafzon mein batai tere dar ki
+  Aayaat bhi misron mein simti nazar aaiṅ
+  Taarif jo lafzon mein batai tere dar ki
 
   4
-  Aaqa woh ghari umar mein sadiyon se bari thi
+  Aaqa woh ghari umr mein sadiyon se bari thi
   Jab madah tere dar pe sunai tere dar ki
-  Raqib ko bhi ilfaz ki khairat atta kar
-  Mula tujhe deta hoon dohai tere dar ki
+  Raqib ko bhi alfaaz ki khairaat ata kar
+  Maula tujhe deta huṅ duhai tere dar ki
 ---
 
 ۱

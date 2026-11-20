@@ -1,35 +1,60 @@
 ---
-title: "Kuch Aise Sataya Hai Muslim Ko Kofiyon Ne"
+title: "کچھ ایسے ستایا ہے مسلم کو کوفیوں نے"
+alternateTitle: "Kuch Aise Sataya Hai Muslim Ko Kofiyon Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kuch aise sataya hai Muslim ko Kofiyon ne
+  Hans hans ke rulaya hai Muslim ko Kofiyon ne
+  Khud se tu nahi aaye bachon ko le ke Kofa
+  Khat likh ke bulaya hai Muslim ko Kofiyon ne
+
+  2
+  Pehchanne se har ik inkar kar raha hai
+  Kya waqt dikhaya hai Muslim ko Kofiyon ne
+  Mara bhi hai loota bhi pardais mein kuch aisay
+  Mehman banaya hai Muslim ko Kofiyon ne
+
+  3
+  Kaisi hai yeh musibat bachey bichar gaye hain
+  Our qaidi banaya hai Muslim ko Kofiyon ne
+  Khanjar se sar ko kata phir Dar-ul-Amarah ki
+  Kyun chat se giraya hai Muslim ko Kofiyon ne
+
+  4
+  Be-hurmati ki had hai lashay mein rasan bandhey
+  Galiyon mein phiraya hai Muslim ko Kofiyon ne
+  Afraz dekh ghurbat Muslim ki dam-e-aakhir
+  Pani na pilaya hai Muslim ko Kofiyon ne
 ---
 
-1
-Kuch Aise Sataya Hai Muslim Ko Kofiyon Ne.
-Hans Hans Ke Rulaya Hai Muslim Ko Kofiyon Ne.
-Khud Se Tu Nahi Aaye Bachon Ko Le Ke Kofa.
-Khat Likh Ke Bulaya Hai Muslim Ko Kofiyon Ne.
+۱
+کچھ ایسے ستایا ہے مسلم کو کوفیوں نے
+ہنس ہنس کے رلایا ہے مسلم کو کوفیوں نے
+خود سے تو نہیں آئے بچوں کو لے کے کوفہ
+خط لکھ کے بلایا ہے مسلم کو کوفیوں نے
 
-2
-Pehchanne Se Har Ik Inkar Kar Raha Hai.
-Kya Waqt Dikhaya Hai Muslim Ko Kofiyon Ne.
-Mara Bhi Hai Loota Bhi Pardais Mein Kuch Aisay.
-Mehman Banaya Hai Muslim Ko Kofiyon Ne.
+۲
+پہچاننے سے ہر اک انکار کر رہا ہے
+کیا وقت دکھایا ہے مسلم کو کوفیوں نے
+مارا بھی ہے لوٹا بھی پردیس میں کچھ ایسے
+مہمان بنایا ہے مسلم کو کوفیوں نے
 
-3
-Kaisi Hai Yeh Musibat Bachey Bichar Gaye Hain.
-Our Qaidi Banaya Hai Muslim Ko Kofiyon Ne.
-Khanjar Se Sar Ko Kata Phir Dar-ul-Amarah Ki.
-Kyun Chat Se Giraya Hai Muslim Ko Kofiyon Ne.
+۳
+کیسی ہے یہ مصیبت بچے بچھڑ گئے ہیں
+اور قیدی بنایا ہے مسلم کو کوفیوں نے
+خنجر سے سر کو کاٹا پھر دارالامارہ کی
+کیوں چھت سے گرایا ہے مسلم کو کوفیوں نے
 
-4
-Be-Hurmati Ki Had Hai Lashay Mein Rasan Bandhey.
-Galiyon Mein Phiraya Hai Muslim Ko Kofiyon Ne.
- Afraz Dekh Ghurbat Muslim Ki Dam-e-Aakhir.
-Pani Na Pilaya Hai Muslim Ko Kofiyon Ne.
+۴
+بے حرمتی کی حد ہے لاشے میں رسن باندھے
+گلیوں میں پھرایا ہے مسلم کو کوفیوں نے
+افراز دیکھ غربت مسلم کی دمِ آخر
+پانی نہ پلایا ہے مسلم کو کوفیوں نے

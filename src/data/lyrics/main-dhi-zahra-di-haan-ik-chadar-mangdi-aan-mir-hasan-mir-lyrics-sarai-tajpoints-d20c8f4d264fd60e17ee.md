@@ -1,29 +1,48 @@
 ---
-title: "Main Dhi Zahra Di Haan Ik Chadar Mangdi Aan Mir Hasan Mir Lyrics Saraiki 2016"
+title: "میں دھی زہرا دی ہاں اک چادر منگدی آں"
+alternateTitle: "Main Dhi Zahra Di Haan Ik Chadar Mangdi Aan"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ahmad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main dhi Zahra di haan ik chadar mangdi aan Mir Hasan Mir
+  Kab bheer karo deo raah mainko bazar che langdi aan
+  Pandraan aazana suniyaan hin Darwaza-e-Saad te main bachra
+  Mainda putar Sajjad hun beh ke main baon tur nayi sangdi aan
+
+  2
+  Jaira sangdil zalima zulm kita har sadma main bardasht kita
+  Jaira boliyaan naal sharabiyaan de ohh bhul nahi sangdi aan
+  Karo zulm na zalimo khoof karo kita wain Sakina kayi wari
+  Na wakhri qaid deo mainko main chote san di aan
+
+  3
+  Tak nana taidi umat ne jaira Sham che istaqbal kita
+  Mehman nawaziyaan khoob hoiyaan baon opray rang di aan
+  Jithe Zainab chadraan mandi rayi menda Khaliq ohh bazar dikha
+  Kar aasaan poriyaan sab Mula Ahmad de man di aan
 ---
 
-1
-Main Dhi Zahra Di Haan Ik Chadar Mangdi Aan Mir Hasan Mir.
-Kab Bheer Karo Deo Raah Mainko Bazar Che Langdi Aan.
-Pandraan Aazana Suniyaan Hin Darwaza-e-Saad Te Main Bachra.
-Mainda Putar Sajjad Hun Beh Ke Main Baon Tur Nayi Sangdi Aan.
+۱
+میں دھی زہرا دی ہاں اک چادر منگدی آں میر حسن میر
+کب بھیڑ کرو دیو راہ میکوں بازار چے لنگھدی آں
+پندراں اذاناں سنیاں ہن دروازۂ سعد تے میں بچڑا
+میڈا پتر سجاد ہن بہہ کے میں بہوں ٹر نئیں سنگدی آں
 
-2
-Jaira Sangdil Zalima Zulm Kita Har Sadma Main Bardasht Kita.
-Jaira Boliyaan Naal Sharabiyaan De Ohh Bhul Nahi Sangdi Aan.
-Karo Zulm Na Zalimo Khoof Karo Kita Wain Sakina Kayi Wari.
-Na Wakhri Qaid Deo Mainko Main Chote San Di Aan.
+۲
+جیڑا سنگدل ظالما ظلم کیتا ہر صدمہ میں برداشت کیتا
+جیڑا بولیاں نال شرابیاں دے اوہ بھل نہیں سنگدی آں
+کرو ظلم نہ ظالمو خوف کرو کیتا وین سکینہ کئی واری
+نہ وکھری قید دیو میکوں میں چھوٹے سن دی آں
 
-3
-Tak Nana Taidi Umat Ne Jaira Sham Che Istaqbal Kita.
-Mehman Nawaziyaan Khoob Hoiyaan Baon Opray Rang Di Aan.
-Jithe Zainab Chadraan Mandi Rayi Menda Khaliq Ohh Bazar Dikha.
-Kar Aasaan Poriyaan Sab Mula Ahmad De Man Di Aan.
+۳
+تک نانا تیڈی امت نے جیڑا شام چے استقبال کیتا
+مہمان نوازیاں خوب ہوئیاں بہوں اوپرے رنگ دی آں
+جتھے زینب چادراں مندی رہی میڈا خالق اوہ بازار دکھا
+کر آساں پوریاں سب مولا احمد دے من دی آں

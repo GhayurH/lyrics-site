@@ -1,38 +1,66 @@
 ---
-title: "Asghar Ka Tabasum"
+title: "اصغر کا تبسم"
+alternateTitle: "Asghar Ka Tabasum"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Muskan ka maiyar hai Asghar ka tabasum
+  Zalim pe kara waar hai Asghar ka tabasum
+
+  1
+  Iss ke hi saharey se bacha deen-e-Muhammad
+  Mat kehna keh la char hai Asghar ka tabasum
+  Hal min ki sada sun ke utha nana mujahid
+  Khaliq ka madadgar hai Asghar ka tabasum
+
+  2
+  Be sheer ne jholay se nikal kar kaha maa se
+  Ghabrao na talwar hai Asghar ka tabasum
+  Bola nahi par baat yeh manwa ke gaya hai
+  Guftar ka sardar hai Asghar ka tabasum
+
+  3
+  Yeh jan ke thara gayi fasiq ki laeen foaj
+  Abbas ki yalgar hai Asghar ka tabasum
+  Qurban sabhi ho gaye iss dasht-e-bala mein
+  Ab deen ko darkar hai Asghar ka tabasum
+
+  4
+  Pani ke bina phool kabhi khil nahi sakta
+  Par dasht mein gulzar hai Asghar ka tabasum
+  Iss wastay Hasnain karey madah sarai
+  Tareef ka haqdar hai Asghar ka tabasum
 ---
 
-Muskan Ka Maiyar Hai Asghar Ka Tabasum.
-Zalim Pe Kara Waar Hai Asghar Ka Tabasum.
+مسکان کا معیار ہے اصغر کا تبسم
+ظالم پہ کڑا وار ہے اصغر کا تبسم
 
-1
-Iss Ke Hi Saharey Se Bacha Deen-e-Muhammad.
-Mat Kehna Keh La Char Hai Asghar Ka Tabasum.
-Hal Min Ki Sada Sun Ke Utha Nana Mujahid.
-Khaliq Ka Madadgar Hai Asghar Ka Tabasum.
+۱
+اس کے ہی سہارے سے بچا دینِ محمد
+مت کہنا کہ لاچار ہے اصغر کا تبسم
+ہل من کی صدا سن کے اٹھا ننھا مجاہد
+خالق کا مددگار ہے اصغر کا تبسم
 
-2
-Be Sheer Ne Jholay Se Nikal Kar Kaha Maa Se.
-Ghabrao Na Talwar Hai Asghar Ka Tabasum.
-Bola Nahi Par Baat Yeh Manwa Ke Gaya Hai.
-Guftar Ka Sardar Hai Asghar Ka Tabasum.
+۲
+بے شیر نے جھولے سے نکل کر کہا ماں سے
+گھبراؤ نہ تلوار ہے اصغر کا تبسم
+بولا نہیں پر بات یہ منوا کے گیا ہے
+گفتار کا سردار ہے اصغر کا تبسم
 
-3
-Yeh Jan Ke Thara Gayi Fasiq Ki Laeen Foaj.
-Abbas Ki Yalgar Hai Asghar Ka Tabasum.
-Qurban Sabhi Ho Gaye Iss Dasht-e-Bala Mein.
-Ab Deen Ko Darkar Hai Asghar Ka Tabasum.
+۳
+یہ جان کے تھرا گئی فاسق کی لعین فوج
+عباس کی یلغار ہے اصغر کا تبسم
+قربان سبھی ہو گئے اس دشتِ بلا میں
+اب دین کو درکار ہے اصغر کا تبسم
 
-4
-Pani Ke Bina Phool Kabhi Khil Nahi Sakta.
-Par Dasht Mein Gulzar Hai Asghar Ka Tabasum.
-Iss Wastay Hasnain Karey Madah Sarai.
-Tareef Ka Haqdar Hai Asghar Ka Tabasum.
+۴
+پانی کے بنا پھول کبھی کھل نہیں سکتا
+پر دشت میں گلزار ہے اصغر کا تبسم
+اس واسطے حسنین کرے مدح سرائی
+تعریف کا حقدار ہے اصغر کا تبسم

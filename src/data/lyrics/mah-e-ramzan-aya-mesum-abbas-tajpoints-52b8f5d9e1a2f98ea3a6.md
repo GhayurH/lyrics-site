@@ -1,93 +1,176 @@
 ---
-title: "Mah-e-Ramzan Aya Mesum Abbas"
+title: "ماہِ رمضان آیا میثم عباس"
+alternateTitle: "Mah-e-Ramzan Aya Mesum Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Meesum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh noor barasney ke din hain
+
+  1
+  Taqdeer badalney ke din hain
+  Yeh din hain yaad-e-Elahi ke
+  Eman parakhne ke din hain
+  Mah-e-Ramzan aaya, Mah-e-Ramzan aaya
+  Le kar Quran aaya Mah-e-Ramzan aaya
+  Mashallah, subhan Allah
+
+  2
+  Rehmat ka hai yeh maheena
+  Hurmat ka hai yeh maheena
+  Karni hai khoob ibadat
+  Izzat ka hai yeh maheena
+  Nafrat ko dil se mita do
+  Ulfat ka hai yeh maheena
+
+  3
+  Sehar-o-iftar karna
+  Ab sab se pyar karna
+  Hukam-e-Subhan aaya
+  Rozoon ki barkat aayi
+  Ghar ghar mein naimat layi
+  Rab se jo door they unn ko
+
+  4
+  Masjid ki rah dikhai
+  Khushiyon ka aik bahana
+  Bachoon ki roza kushai
+  Kis darjah rehmaton ko
+  Le kar sab naimaton ko
+  Yeh dastar khuwan aaya
+
+  5
+  Khud ko har raat jagana
+  Masjid mein waqt bitana
+  Chotay bhai behno ko
+  Subha Quran parhana
+  Aankhon ko our zabaan ko
+  Haq ke rastay pe chalana
+
+  6
+  Sach hai yeh koi nahi shak
+  Yani ke tees dino tak
+  Ghar mein mehman aaya
+  Allah ko yaad karna
+  Dil se faryad karna
+  Muflis our be kason ki
+
+  7
+  Khul kar imdad karna
+  Yeh hai paigham Khuda ka
+  Dukhiyon ko shad karna
+  Rohein pakeeza banaein
+  Lab par aayat sajaein
+  Dil mein Rehman aaya
+
+  8
+  Naat-e-Sarkar-e-do alam
+  Hogi har subha muqaddam
+  Lailatulqadar manaein
+  Shab bhar amal karein hum
+  Phir dekhein chand falak par
+  Khushiyaan hoon Eid ki humdum
+
+  9
+  Khush rang malboos banana
+  Youn Eid al-Fitr manana
+  Rab ka ahsan aaya
+  Ishq-o-aysar ki batein
+  Dilkash kirdar ki batein
+  Sun ke Meesum ki zabaan se
+
+  10
+  Zikar-e-Sarkar ki batein
+  Mazhar dunya ne sunein jab
+  Rab ke maiyar ki batein
+  Jo bhi be deen tha oska
+  Jo bhi ghamgeen tha oska
+  Rab par eman aaya
 ---
 
-Yeh Noor Barasney Ke Din Hain.
+یہ نور برسنے کے دن ہیں
 
-1
-Taqdeer Badalney Ke Din Hain.
-Yeh Din Hain Yaad-e-Elahi Ke.
-Eman Parakhne Ke Din Hain.
-Mah-e-Ramzan Aaya, Mah-e-Ramzan Aaya.
-Le Kar Quran Aaya Mah-e-Ramzan Aaya.
-MashALLAH, Subhan ALLAH.
+۱
+تقدیر بدلنے کے دن ہیں
+یہ دن ہیں یادِ الٰہی کے
+ایمان پرکھنے کے دن ہیں
+ماہِ رمضان آیا، ماہِ رمضان آیا
+لے کر قرآن آیا ماہِ رمضان آیا
+ماشاءاللہ، سبحان اللہ
 
-2
-Rehmat Ka Hai Yeh Maheena.
-Hurmat Ka Hai Yeh Maheena.
-Karni Hai Khoob Ibadat.
-Izzat Ka Hai Yeh Maheena.
-Nafrat Ko Dil Se Mita Do.
-Ulfat Ka Hai Yeh Maheena.
+۲
+رحمت کا ہے یہ مہینہ
+حرمت کا ہے یہ مہینہ
+کرنی ہے خوب عبادت
+عزت کا ہے یہ مہینہ
+نفرت کو دل سے مٹا دو
+الفت کا ہے یہ مہینہ
 
-3
-Sehar-o-Iftar Karna.
-Ab Sab Se Pyar Karna.
-Hukam-e-Subhan Aaya.
-Rozoon Ki Barkat Aayi.
-Ghar Ghar Mein Naimat Layi.
-Rab Se Jo Door They Unn Ko.
+۳
+سحر و افطار کرنا
+اب سب سے پیار کرنا
+حکمِ سبحان آیا
+روزوں کی برکت آئی
+گھر گھر میں نعمت لائی
+رب سے جو دور تھے ان کو
 
-4
-Masjid Ki Rah Dikhai.
-Khushiyon Ka Aik Bahana.
-Bachoon Ki Roza Kushai.
-Kis Darjah Rehmaton Ko.
-Le Kar Sab Naimaton Ko.
-Yeh Dastar Khuwan Aaya.
+۴
+مسجد کی راہ دکھائی
+خوشیوں کا ایک بہانہ
+بچوں کی روزہ کشائی
+کس درجہ رحمتوں کو
+لے کر سب نعمتوں کو
+یہ دسترخوان آیا
 
-5
-Khud Ko Har Raat Jagana.
-Masjid Mein Waqt Bitana.
-Chotay Bhai Behno Ko.
-Subha Quran Parhana.
-Aankhon Ko Our Zabaan Ko.
-Haq Ke Rastay Pe Chalana.
+۵
+خود کو ہر رات جگانا
+مسجد میں وقت بتانا
+چھوٹے بھائی بہنوں کو
+صبح قرآن پڑھانا
+آنکھوں کو اور زبان کو
+حق کے رستے پہ چلانا
 
-6
-Sach Hai Yeh Koi Nahi Shak.
-Yani Ke Tees Dino Tak.
-Ghar Mein Mehman Aaya.
-ALLAH Ko Yaad Karna.
-Dil Se Faryad Karna.
-Muflis Our Be Kason Ki.
+۶
+سچ ہے یہ کوئی نہیں شک
+یعنی کہ تیس دنوں تک
+گھر میں مہمان آیا
+اللہ کو یاد کرنا
+دل سے فریاد کرنا
+مفلس اور بے کسوں کی
 
-7
-Khul Kar Imdad Karna.
-Yeh Hai Paigham Khuda Ka.
-Dukhiyon Ko Shad Karna.
-Rohein Pakeeza Banaein.
-Lab Par Aayat Sajaein.
-Dil Mein Rehman Aaya.
+۷
+کھل کر امداد کرنا
+یہ ہے پیغام خدا کا
+دکھیوں کو شاد کرنا
+روحیں پاکیزہ بنائیں
+لب پر آیت سجائیں
+دل میں رحمان آیا
 
-8
-Naat-e-Sarkar-e-Do Alam.
-Hogi Har Subha Muqaddam.
-Lailatulqadar Manaein.
-Shab Bhar Amal Karein Hum.
-Phir Dekhein Chand Falak Par.
-Khushiyaan Hoon Eid Ki Humdum.
+۸
+نعتِ سرکارِ دو عالم
+ہوگی ہر صبح مقدم
+لیلۃ القدر منائیں
+شب بھر عمل کریں ہم
+پھر دیکھیں چاند فلک پر
+خوشیاں ہوں عید کی ہمدم
 
-9
-Khush Rang Malboos Banana.
-Youn Eid al-Fitr Manana.
-Rab Ka Ahsan Aaya.
-Ishq-o-Aysar Ki Batein.
-Dilkash Kirdar Ki Batein.
-Sun Ke Meesum Ki Zabaan Se.
+۹
+خوش رنگ ملبوس بنانا
+یوں عید الفطر منانا
+رب کا احسان آیا
+عشق و ایثار کی باتیں
+دلکش کردار کی باتیں
+سن کے میثم کی زبان سے
 
-10
-Zikar-e-Sarkar Ki Batein.
- Mazhar Dunya Ne Sunein Jab.
-Rab Ke Maiyar Ki Batein.
-Jo Bhi Be Deen Tha Oska.
-Jo Bhi Ghamgeen Tha Oska.
-Rab Par Eman Aaya.
+۱۰
+ذکرِ سرکار کی باتیں
+مظہر دنیا نے سنیں جب
+رب کے معیار کی باتیں
+جو بھی بے دین تھا اس کا
+جو بھی غمگین تھا اس کا
+رب پر ایمان آیا

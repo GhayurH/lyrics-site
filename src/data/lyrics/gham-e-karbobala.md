@@ -13,157 +13,157 @@ aliases: []
 published: true
 romanLyrics: |-
   Gham-e-Karbobala Allah o Akbar
-  Ye maatam ki sada Allah o Akbar
+  Ye maatam ki sada Allah Akbar
 
   1
   Yahaaṅ khud sar niguṅ arsh-e-ula hai
   Yehi to sajdagaah-e-anbiya hai
   Yahaaṅ ki khaak bhi khaak-e-shifa hai
-  Zamin-e-Karbala Allah o Akbar
+  Zamin-e-Karbala Allah Akbar
 
   2
   Bahaate haiṅ gham-e-Shah meiṅ lahu hum
   Sar-e-mahshar raheṅge surkh ru hum
-  Yuṅhi phailaayeṅge ab chaar suṅ hum
-  Ye maatam ki sada Allah o Akbar
+  Yunhi phailaayeṅge ab chaar suṅ hum
+  Ye maatam ki sada Allah Akbar
 
   3
   Wo saqqa-e-haram Ibn-e-Ali hai
   Alam ke jis ke har suṅ roshni hai
   Fazaaoṅ meiṅ musalsal keh rahi hai
-  Pharere ki hawa Allah o Akbar
+  Pharere ki hawa Allah Akbar
 
   4
   Ye wo gham hai ke jis meiṅ zindagi hai
   Isi gham se nazar meiṅ roshni hai
   Yehi gham mohtaram hai bandagi hai
-  Aza-e-Karbala Allah o Akbar
+  Aza-e-Karbala Allah Akbar
 
   5
   Kahiṅ milti nahiṅ aisi bulandi
   Jahaaṅ majlis bapa hoti hai Shah ki
   Wahaaṅ aati hai Zehra ki sawaari
-  Musalla ashk ka Allah o Akbar
+  Musalla-e-ashk ka Allah Akbar
 
   6
   Namaaz o roza o hajj sab aham hai
   Ye ahkaam-e-Khuda sab mohtaram hai
   Musalloṅ par jabineṅ sab ki kham hai
-  Magar farsh-e-aza Allah o Akbar
+  Magar farsh-e-aza Allah Akbar
 
   7
   Khuda ka ghar to Kaaba bilyaqin hai
   Jo yaaṅ kham ho wohi roshan jabiṅ hai
   Bari paakiza Makka ke zamiṅ hai
-  Magar khaak-e-shifa Allah o Akbar
+  Magar khaak-e-shifa Allah Akbar
 
   8
   Bas ik shab meiṅ hua tabdil manzar
   Sahar Aashur ki Hur ka muqaddar
   Chala baatil se aaya raah-e-haq par
-  Jab Akbar ne kaha Allah o Akbar
+  Jab Akbar ne kaha Allah Akbar
 
   9
   Wafa haq meiṅ shiaar-e-anbiya hai
   Magar kya martaba Abbas ka hai
   Faqat us ko zamaana keh raha hai
-  Wafaaoṅ ka Khuda Allah o Akbar
+  Wafaaoṅ ka Khuda Allah Akbar
 
   10
   Hue jab qatl Zainab ke dulaare
   Wo maaṅ ka sabr duniya kaise bhule
-  Juṅhi maqtal se Shah ne laaye laashe
-  Wo sajda shukr ka Allah o Akbar
+  Junhi maqtal se Shah ne laaye laashe
+  Wo sajda shukr ka Allah Akbar
 
   11
   Hai ran meiṅ muntashir Qasim ka laasha
   Uthaaye laash kaise jaan-e-Zehra
   Magar ab kya kare thaame kaleja
-  Bichhaate haiṅ aba Allah o Akbar
+  Bichhaate haiṅ aba Allah Akbar
 
   12
   Shah-e-diṅ par hai kaisa waqt aaya
   Ke khaak aur khun meiṅ ghaltaaṅ hai beta
   Tarapta hai jigar par khaa ke neza
-  Shabih-e-Mustafa Allah o Akbar
+  Shabih-e-Mustafa Allah Akbar
 
   13
   Wo jhule se tera maqtal meiṅ aana
   Gulu-e-khushk par wo tir khaana
-  Ali Asghar na bhulega zamaana
-  Tabassum pyaas ka Allah o Akbar
+  Ali Asghar na bhule ga zamaana
+  Tabassum pyaas ka Allah Akbar
 
   14
   Kate Abbas ke jis waqt shaane
   To guzri us pe kya Allah jaane
   Tarap mehsus kar li Fatima ne
-  Nigaah-e-maamta Allah o Akbar
+  Nigaah-e-maamta Allah Akbar
 
   15
   Badan se kat ke sar rakhte haiṅ qudrat
   Sar-e-neza se Quraaṅ ki tilaawat
   Hai zinda jaan-e-Zehra ki badaulat
-  Azaanoṅ ki sada Allah o Akbar
+  Azaanoṅ ki sada Allah Akbar
 
   16
   Raza khaaliq ki banda chaahta hai
   Isi meiṅ bartari hai jaanta hai
   Magar Shah se Khuda khud puchhta hai
-  Bata teri raza Allah o Akbar
+  Bata teri raza Allah Akbar
 
   17
   Kisi ko daulat-e-aulaad de di
   Kisi ko quwwat-e-parwaaz bakhshi
   Na thi qismat meiṅ wo nemat ata ki
-  Karam Shabbir ka Allah o Akbar
+  Karam Shabbir ka Allah Akbar
 
   18
   Chala jab qaafila Karbobala se
   Saje the raaste jaur o jafa se
   Na hota sabr mumkin anbiya se
-  Magar Zain-ul-Aba Allah o Akbar
+  Magar Zain-ul-Aba Allah Akbar
 
   19
   Jhulasti dhup aur Akbar ka laasha
   Ye manzar dekhti thi Umm-e-Laila
   Sinaaṅ ki nok par bete ka sar tha
-  Wo maaṅ ka hausla Allah o Akbar
+  Wo maaṅ ka hausla Allah Akbar
 
   20
   Jise suraj ki kirnoṅ ne na dekha
   Falak ne bhi na dekha jis ka saaya
   Raha aawaaz par bhi jis ka parda
-  Wohi hai berida Allah o Akbar
+  Wohi hai berida Allah Akbar
 
   21
   Gale meiṅ tauq hai Zain-ul-Aba ke
-  Hai chhaale paaoṅ meiṅ raahoṅ meiṅ kaaṅte
+  Hai chhaale paaoṅ raahoṅ meiṅ kaante
   Wo zanjireṅ wo langar taaziyaane
-  Safar wo dhup ka Allah o Akbar
+  Safar wo dhup ka Allah Akbar
 
   22
   Gham-e-Shabbir ki daulat mili hai
   Azaadaaroṅ bari nemat mili hai
   Kis aasaani se ye jannat mili hai
-  Dua-e-Fatima Allah o Akbar
+  Dua-e-Fatima Allah Akbar
 
   23
   Yatimi kamsini tashna dahaani
   Tamaanche taaziyaane kaan zakhmi
   Sakina Bibi ki thi zindagaani
-  Musalsal marsiya Allah o Akbar
+  Musalsal marsiya Allah Akbar
 
   24
   Jo ashkoṅ ka lahu ka silsila hai
   Azaadaari ka ye jo qaafila hai
   Saliqa ye jo majlis ka mila hai
-  Hai Zainab ki ata Allah o Akbar
+  Hai Zainab ki ata Allah Akbar
 
   25
   Aza ke ashk hai aankhoṅ ki zinat
   Kareṅge hum Rashid is ki hifaazat
   Hai gham pyaasoṅ ka is dil ki ibaadat
-  Muqaddar ki ata Allah o Akbar
+  Muqaddar ki ata Allah Akbar
 ---
 
 غمِ کربوبلا اللّٰہ و اکبر

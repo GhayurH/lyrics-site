@@ -16,8 +16,8 @@ romanLyrics: |-
   Kat gaya shaah ka sar aap kahaaṅ the baba
 
   1
-  Baap se shaam-e-gharibaaṅ ye kaha Zainab ne
-  Mil gaya khaak meiṅ ghar aap kahaaṅ the baba
+  Baap se shaam-e-gharibaaṅ ye kahaa Zainab ne
+  Mil gaya khaak mein ghar aap kahaaṅ the baba
 
   2
   Tir Asghar ke laga barchhi Ali Akbar ke
@@ -32,28 +32,28 @@ romanLyrics: |-
   Ujri aaghosh-e-pisar aap kahaaṅ the baba
 
   5
-  Shaah girte the tanaaboṅ meiṅ ulajh kar har su
+  Shaah girte the tanaaboṅ mein ulajh kar har su
   Sun ke aawaaz-e-pisar aap kahaaṅ the baba
 
   6
   Jab mere bhaai ke sine pe charha tha qaatil
-  Ammaaṅ aayi thi magar aap kahaaṅ the baba
+  Ammaaṅ aayi thi aap kahaaṅ the baba
 
   7
-  Jab chhini meri rida dhund rahi thi har su
+  Jab chhini meri ridaa dhund rahi thi har su
   Aap ko meri nazar aap kahaaṅ the baba
 
   8
-  Aag daaman se Sakina ke bujhaayi maiṅ ne
+  Aag daaman se Sakina ke bujhaayi main ne
   Jal gaye khaime idhar aap kahaaṅ the baba
 
   9
-  Pehra maiṅ ujri bahaaroṅ ka diye jaati huṅ
+  Pehra main ujri bahaaroṅ ka diye jaati huṅ
   Chhup gaye shams o qamar aap kahaaṅ the baba
 
   10
   Beti Haidar ki thi masruf-e-shikaayat Anwar
-  Mil gaya khaak meiṅ ghar aap kahaaṅ the baba
+  Mil gaya khaak mein ghar aap kahaaṅ the baba
 ---
 لُٹ گیا آپ کا گھر آپ کہاں تھے بابا
 کٹ گیا شاہ کا سر آپ کہاں تھے بابا

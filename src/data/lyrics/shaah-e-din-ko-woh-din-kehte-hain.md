@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Jon kehti hai jis ko ye duniya
-  Ham use mahjabiṅ kehte haiṅ
+  Ham use mah jabiṅ kehte haiṅ
 
   5
   Dastaras jis ki Hal Ataa tak ho
@@ -46,7 +46,7 @@ romanLyrics: |-
   Par Khuda se qarin kehte haiṅ
 
   9
-  Ham Khuda-e-Husain ko Kashif
+  Ham Khuda-ye-Husain ko Kashif
   Karbala ka makiṅ kehte haiṅ
 ---
 

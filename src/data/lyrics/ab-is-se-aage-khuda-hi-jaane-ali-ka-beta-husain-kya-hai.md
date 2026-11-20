@@ -14,52 +14,52 @@ romanLyrics: |-
   Ab is se aage Khuda hi jaane, Ali ka beta Husain kya hai
 
   1
-  Hussain tehreek-e-zindagi hai Hussain tauheed ki baqa hai
-  Shafaq ki surkhi yeh keh rahi hai Hussain khaliq ka moajza hai
-  Ubharte soraj ka har ujala ossi ki dehleez chomta hai
-  Yeh mere dill ki sada nahi hai zameer-e-insaan ka faisla hai
+  Husain tahrik-e-zindagi hai Husain tauhid ki baqa hai
+  Shafaq ki surkhi yeh keh rahi hai Husain khaaliq ka mojaza hai
+  Ubharte suraj ka har ujaala usi ki dehliz chumta hai
+  Yeh mere dil ki sada nahiṅ hai zamir-e-insaan ka faisla hai
 
   2
-  Yeh meri qismat mera muqadar zabaan pe aaya hai naam oss ka
-  Yeh harf sare jo likh chuka hoon qasam Khuda ki hai kaam oss ka
-  Yeh meri sansein kaneez oss ki yeh mera jazba ghulam oss ka
-  Ossi ki dehleez se hamesha jo main ne manga mujhe mila hai
+  Yeh meri qismat mera muqaddar zabaan pe aaya hai naam us ka
+  Yeh harf saare jo likh chuka huṅ qasam Khuda ki hai kaam us ka
+  Yeh meri saanseṅ kaniz us ki yeh mera jazba ghulaam us ka
+  Usi ki dehliz se hamesha jo main ne maanga mujhe mila hai
 
   3
-  Hussain parwardigar-e-rehmat Hussain bunyad-e-ilm-o-fun hai
-  Kahein risalat ka fakhar hai woh kahin woh miraas-e-Panjtan hai
-  Kahin imamat ka tajwar hai kahin bahatar ki anjuman hai
-  Kahin woh Hashim ka dabdaba hai kahin woh Abbas ki wafa hai
+  Husain parwardigaar-e-rahmat Husain buniyaad-e-ilm o fun hai
+  Kahiṅ risaalat ka fakhr hai woh kahiṅ woh miraas-e-Panjtan hai
+  Kahiṅ imaamat ka taajwar hai kahiṅ bahattar ki anjuman hai
+  Kahiṅ woh Haashim ka dabdaba hai kahiṅ woh Abbaas ki wafa hai
 
   4
-  Hussain ne haq ke daliyoon ko haqeeqaton ka nikhar bakhsha
-  Dua ki sansein ukhar rahi thin unhein sokoon-o-qarar bakhsha
-  Rabobiyaat ko hayat sonpi Rasool ko aytbar bakhsha
-  Yeh osska ahsan hai jo ab tak dill-e-shariyat dharak raha hai
+  Husain ne haq ki daaliyoṅ ko haqiqatoṅ ka nikhaar bakhsha
+  Dua ki saanseṅ ukhar rahi thiṅ unheṅ sukun o qaraar bakhsha
+  Rububiyaat ko hayaat saunpi Rasul ko itibaar bakhsha
+  Yeh us ka ehsaan hai jo ab tak dil-e-shariat dharak raha hai
 
   5
-  Hussain woh jiss ne zindagi ke usool insan ko sikhaye
-  Rasool jiska bane hain naqa libas arsh-e-bareen se aaye
-  Hussain aisa azeem aaqa keh jiska jhola malak jhulaye
-  Dorood oss par salam oss par azal se mabood bhaijta hai
+  Husain woh jis ne zindagi ke usul insaan ko sikhaaye
+  Rasul jis ka bane haiṅ naaqa libaas arsh-e-bariṅ se aaye
+  Husain aisa azim aaqa ke jis ka jhola malak jhulaaye
+  Durud us par salaam us par azal se mabud bhejta hai
 
   6
-  Hussain azam-o-amal ki basti Hussain aysar ka madina
-  Woh aal-e-Ahmad ke dill ki dharkan woh taj-e-Islam ka nagina
-  Hussain khaliq ka kul asasa Ali ke ausaaf ka khazeena
-  Hussain qamat mein Istafa hain Hussain qeemat mein Mustafa hai
+  Husain azm o amal ki basti Husain isaar ka Madina
+  Woh aal-e-Ahmad ke dil ki dharkan woh taaj-e-Islaam ka nagina
+  Husain khaaliq ka kul asaasa Ali ke ausaaf ka khazina
+  Husain qaamat mein Istafa haiṅ Husain qimat mein Mustafa hai
 
   7
-  Usi ke sadqe mein aankh badqi, shikasta kashti lagi kinare
-  Wo aisa malik hai khushk-o-tar ka, ke jis ka sadqa falak utare
-  Bas ek Hurr ne samajh liye the, kitab-e-natiq ke kuch ishare
-  Ragon mein jis ki sharif khoon hai, wo zikr-e-Shabbir kar raha hai
+  Usi ke sadqe mein aankh badqi, shikasta kashti lagi kinaare
+  Woh aisa maalik hai khushk o tar ka, ke jis ka sadqa falak utaare
+  Bas ek Hurr ne samajh liye the, kitaab-e-naatiq ke kuch ishaare
+  Ragoṅ mein jis ki sharif khun hai, woh zikr-e-Shabbir kar raha hai
 
   8
-  Muhib yeh dargah-e-Panjtan hai bas aansoon ki Furat mango
-  Jo aal-e-Ahmad ke gham mein guzre hamesha aisi hayat mango
-  Jo iss waseele se mangna hai kare jo matam woh hath mango
-  Namaz-e-ahl-e-wafa hai matam Muhib ka wajdan bolta hai
+  Muhib yeh dargaah-e-Panjtan hai bas aansuoṅ ki Furaat maango
+  Jo aal-e-Ahmad ke gham mein guzre hamesha aisi hayaat maango
+  Jo is wasile se maangna hai kare jo maatam woh haath maango
+  Namaaz-e-ahl-e-wafa hai maatam Muhib ka wajdaan bolta hai
 ---
 اب اس سے آگے خدا ہی جانے، علی کا بیٹا حسین کیا ہے
 

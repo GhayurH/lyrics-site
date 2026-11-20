@@ -1,42 +1,88 @@
 ---
-title: "Roz-e-Mehshar Khuda Kay Samnay"
+title: "روزِ محشر خدا کے سامنے"
+alternateTitle: "Roz-e-Mehshar Khuda Kay Samnay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Roz-e-mehshar Khuda kay samnay jab bay rida Bint-e-Zahra jaye gi
+
+  Hichkyan siskiyan woh lay lay kaar noha Shabbirr ka sunaye gi
+
+  1
+  Sun kay Zainab ki aho zari ko haye roti rahi hay maa Zahra
+  Kuch tabarkat Karbala walay sath layi hay apnay maa Zahra
+  Larz jaye ga hashar ka maidaan khoon bhara kurta jab dikhaye gi
+
+  2
+  Kaisa ta imtehan ye tera jis main ghaar mera luta sara gaya
+  Deen toh bachgaya tera Allah bhai mera Hussain maara gaya
+  Aj mehshar kay roz bhi Zainab pursa Shabbir ka karay gi
+
+  3
+  Teray pyaaray Nabi ki ummat nay meray bhai ko mujh say cheen liya
+  Wastay lakh main nay teray diye phir bhi saar say rida ko cheen liya
+  Koyi meri madad ko na aaya ro kay Zainab yeh kehtay jaye gi
+
+  4
+  Seena Akbar main jab meray Allah ik zalim sina ko tor gaya
+  Khainchi Shabbir nay sina aesay saray nabiyon nay rukh ko mour liya
+  Sabar ki inteha yeh karb-o-bala meray Allah na bhool paye gi
+
+  5
+  Nusrat-e-deen kay liye Allah meray bhai nay day diya Akbar
+  Jab bacha na koyi jawan uska haye chay maa ka day diya Asghar
+  Bay misal byn gaye yeh qurbani deen ko rang jo lagaye gi
+
+  6
+  Hay faqat tu hi laiq-e-sajda akhri sajda bhai aisa kiya
+  Naizay paar bhi Hussain nay Allah naam tera buland aisa kiya
+  Hashar tak bargah main teri Khuda sari kayanat sar jhukaye gi
+
+  7
+  Khud sada di rab-e-khaliq nay aj woh khuld main na jaye ga
+  Jo bhi qatil Hussain ka hoga aj meshar main bach na paye ga
+  Us ko Imran aj bakhshay Khuda jis ko Zainab hi bakhshwaye gi
 ---
 
-Roz-e-Mehshar Khuda Kay Samnay Jab Bay Rida Bint-e-Zahra Jaye Gi.
+روزِ محشر خدا کے سامنے جب بے ردا بنتِ زہرا جائے گی
 
-Hichkyan Siskiyan Woh Lay Lay Kaar Noha Shabbirr Ka Sunaye Gi
+ہچکیاں سسکیاں وہ لے لے کر نوحہ شبیر کا سنائے گی
 
-Sun Kay Zainab Ki Aho Zari Ko Haye Roti Rahi Hay Maa Zahra
-Kuch Tabarkat Karbala Walay Sath Layi Hay Apnay Maa Zahra
-Larz Jaye Ga Hashar Ka Maidaan Khoon Bhara Kurta Jab Dikhaye Gi.
+۱
+سن کے زینب کی آہ و زاری کو ہائے روتی رہی ہے ماں زہرا
+کچھ تبرکات کربلا والے ساتھ لائی ہے اپنے ماں زہرا
+لرز جائے گا حشر کا میدان خون بھرا کرتا جب دکھائے گی
 
-Kaisa Ta Imtehan Ye Tera Jis Main Ghaar Mera Luta Sara Gaya
-Deen Toh Bachgaya Tera Allah Bhai Mera Hussain Maara Gaya
-Aj Mehshar Kay Roz Bhi Zainab Pursa Shabbir Ka Karay Gi.
+۲
+کیسا تھا امتحان یہ تیرا جس میں گھر میرا لٹا سارا گیا
+دین تو بچ گیا تیرا اللہ بھائی میرا حسین مارا گیا
+آج محشر کے روز بھی زینب پرسہ شبیر کا کرے گی
 
-Teray Pyaaray Nabi Ki Ummat Nay Meray Bhai Ko Mujh Say Cheen Liya
-Wastay Lakh Main Nay Teray Diye Phir Bhi Saar Say Rida Ko Cheen Liya
-Koyi Meri Madad Ko Na Aaya Ro Kay Zainab Yeh Kehtay Jaye Gi.
+۳
+تیرے پیارے نبی کی امت نے میرے بھائی کو مجھ سے چھین لیا
+واسطے لاکھ میں نے تیرے دیے پھر بھی سر سے ردا کو چھین لیا
+کوئی میری مدد کو نہ آیا رو کے زینب یہ کہتے جائے گی
 
-Seena Akbar Main Jab Meray Allah Ik Zalim Sina Ko Tor Gaya
-Khainchi Shabbir Nay Sina Aesay Saray Nabiyon Nay Rukh Ko Mour Liya
-Sabar Ki Inteha Yeh Karb-o-bala Meray Allah Na Bhool Paye Gi.
+۴
+سینۂ اکبر میں جب میرے اللہ اک ظالم سناں کو توڑ گیا
+کھینچی شبیر نے سناں ایسے سارے نبیوں نے رخ کو موڑ لیا
+صبر کی انتہا یہ کرب و بلا میرے اللہ نہ بھول پائے گی
 
-Nusrat-e-deen Kay Liye Allah Meray Bhai Nay Day Diya Akbar
-Jab Bacha Na Koyi Jawan Uska Haye Chay Maa Ka Day Diya Asghar
-Bay Misal Byn Gaye Yeh Qurbani Deen Ko Rang Jo Lagaye Gi.
+۵
+نصرتِ دین کے لیے اللہ میرے بھائی نے دے دیا اکبر
+جب بچا نہ کوئی جواں اس کا ہائے چھ ماہ کا دے دیا اصغر
+بے مثال بین گائے یہ قربانی دین کو رنگ جو لگائے گی
 
-Hay Faqat Tu Hi Laiq-e-sajda Akhri Sajda Bhai Aisa Kiya
-Naizay Paar Bhi Hussain Nay Allah Naam Tera Buland Aisa Kiya
-Hashar Tak Bargah Main Teri Khuda Sari Kayanat Sar Jhukaye Gi.
+۶
+ہے فقط تو ہی لائقِ سجدہ آخری سجدہ بھائی ایسا کیا
+نیزے پر بھی حسین نے اللہ نام تیرا بلند ایسا کیا
+حشر تک بارگاہ میں تیری خدا ساری کائنات سر جھکائے گی
 
-Khud Sada Di Rab-e-khaliq Nay Aj Woh Khuld Main Na Jaye Ga
-Jo Bhi Qatil Hussain Ka Hoga Aj Meshar Main Bach Na Paye Ga
-Us Ko Imran Aj Bakhshay Khuda Jis Ko Zainab Hi Bakhshwaye Gi.
+۷
+خود صدا دی ربِ خالق نے آج وہ خلد میں نہ جائے گا
+جو بھی قاتل حسین کا ہوگا آج محشر میں بچ نہ پائے گا
+اس کو عمران آج بخشے خدا جس کو زینب ہی بخشوائے گی

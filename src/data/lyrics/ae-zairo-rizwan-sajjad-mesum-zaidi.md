@@ -10,49 +10,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye zairon tumhein Shabbir ne bulaya hai
+  Ae zairo tumheiṅ Shabbir ne bulaaya hai
 
   1
-  Pyam-e-Hazrat-e-Abbas yeh hi aaya hai
-  Banao qafila our janib-e-Hussain barho
-  Kahin pe noha parho our kahin salam parho
-  Chalo keh waqt yeh taqdeer ne dikhaya hai
+  Payaam-e-Hazrat-e-Abbaas yahi aaya hai
+  Banaao qaafila aur jaanib-e-Husain barho
+  Kahiṅ pe nauha parho aur kahiṅ salaam parho
+  Chalo ke waqt yeh taqdir ne dikhaaya hai
 
   2
-  Tumhara naam bhi hai zaireen mein shamil
-  Chalo keh tum ko bulati hai aaj khud manzil
-  Thi dil mein jis ki tamana woh waqt aaya hai
-  Bola raha hai tumhein zairon woh hi rasta
+  Tumhaara naam bhi hai zairin meiṅ shaamil
+  Chalo ke tum ko bulaati hai aaj khud manzil
+  Thi dil meiṅ jis ki tamanna woh waqt aaya hai
+  Bulaa raha hai tumheiṅ zairo wohi raasta
 
   3
-  Woh rasta jis pe keh ik silsila hai mashi ka
-  Woh mashi jis ne keh sab ka hasham barhaya hai
-  Chalein gay hum bhi jo paidal hi soye Karb-o-Bala
-  Alam ho sath tu phir ishq ka safar hoga
+  Woh raasta jis pe ke ik silsila hai mashi ka
+  Woh mashi jis ne ke sab ka hasham barhaaya hai
+  Chaleṅ ge ham bhi jo paidal hi su-e Karb o Bala
+  Alam ho saath to phir ishq ka safar hoga
 
   4
-  Yeh soch kar hi Jari ka alam uthaya hai
-  Croron hotey hain jab zaireen-e-Shah-e-Ummam
-  Tu yeh hi hota hai mehsos Karbala ki qasam
-  Keh jaisay sara jahan ik jagah samaya hai
+  Yeh soch kar hi Jari ka alam uthaaya hai
+  Karoroṅ hote haiṅ jab zairin-e-Shaah-e-Umam
+  To yahi hota hai mahsus Karbala ki qasam
+  Ke jaise saara jahaaṅ ik jagah samaaya hai
 
   5
-  Yeh Arbaeen hai oss ka jisay miley hain mahan
-  Woh jis ghareeb ka chehlum mana saki na bahan
-  Woh jis ko ahl-e-sitam ne bohat sataya hai
-  Ossi ke rozay pe jaein gay hum bhi rotay hoye
+  Yeh Arbain hai us ka jise mile haiṅ mahaan
+  Woh jis gharib ka chehlum manaa saki na bahan
+  Woh jis ko ahl-e-sitam ne bohat sataaya hai
+  Usi ke rauze pe jaaeṅ ge ham bhi rote hue
 
   6
-  Jo Alqama se na aaya tu bas taraptay hoye
-  Behan ne dasht mein jis ka alam barhaya hai
-  Maqam-e-Akbar-o-Asghar pe ashk barsana
-  Jari ko rotay hoye oss maqam par jana
+  Jo Alqama se na aaya to bas tarapte hue
+  Bahan ne dasht meiṅ jis ka alam barhaaya hai
+  Maqaam-e-Akbar o Asghar pe ashk barsaana
+  Jari ko rote hue us maqaam par jaana
 
   7
-  Jahan pe Ghazi ne apna lahu bahaya hai
-  Aye kash jald hi qismat woh din bhi dikhlaye
-  Keh jab zaban pe Izhar ke yehi aaye
-  Mujhe bhi Karb-o-Bala Shah ne bulaya hai
+  Jahaaṅ pe Ghaazi ne apna lahu bahaaya hai
+  Ae kaash jald hi qismat woh din bhi dikhlaae
+  Ke jab zabaaṅ pe Izhar ke yahi aae
+  Mujhe bhi Karb o Bala Shaah ne bulaaya hai
 ---
 
 اے زائرو تمہیں شبیر نے بلایا ہے

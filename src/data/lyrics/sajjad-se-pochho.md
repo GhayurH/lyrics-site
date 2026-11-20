@@ -1,49 +1,88 @@
 ---
 title: "سجّادؑ سے پوچھو"
+alternateTitle: "Sajjad Se Pucho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Be parda haram Shaam ke baazaro me jana
+  Sajjad se pucho
+
+  1
+  Aur naam e nabi zadi ka darbar me aana
+
+  2
+  Chalees (40) shabo roz ki jaagi hui Zainab gash khake giri jab
+  Us waqt simatgaar ka durro se jagana
+
+  3
+  Pehchana jo hi Hind ne Zainab ka rukh paak dil gam se hua cakh
+  Aur roke nabi zadi ka aehwal suna na
+
+  4
+  Maa behno ke sar ko jo khula dekh na paya Haider ka dulaara
+  Naize se zami par sare Abbas ka aana
+
+  5
+  Tareek ye zinda woh andhera woh Sakina jab maut ne ghera
+  Un akhri lamhat me baba ko bulaana
+
+  6
+  Masoom Sakina ne jo haatho ko uthaaya baba ko bulaya
+  Beti ki sada par sare Shabbir ka aana
+
+  7
+  Jab thak ke woh dauraane safar raha me baitha taqdeer ka mara
+  Har baar simatgaar ka zanjeer hilana
+
+  8
+  Rota tha jo hi soch ke woh aalame gurbat har lamha qayamat
+  Aankho se lahu kalb ka har ghaam bahana
+
+  9
+  Asgar ki lahad thi jo kadi dhup me "Mazhar" sadma tha ye dil par
+  Iss gham ke sabab saaye me Bano ka na aana
 ---
 
-Be parda haram shaam ke baazaro me jana..2
-Sajjad se pucho..
+بے پردہ حرم شام کے بازاروں میں جانا
+سجّاد سے پوچھو
 
-1
-Aur naam e nabi zadi ka darbar me aana..
+۱
+اور نامِ نبی زادی کا دربار میں آنا
 
-2
-1.Chalees (40) shabo roz ki jaagi hui zainab gash khake giri jab..2
-Us waqt simatgaar ka durro se jagana..
+۲
+چالیس شب و روز کی جاگی ہوئی زینب غش کھا کے گری جب
+اُس وقت ستمگر کا دُرّوں سے جگانا
 
-3
-2.Pehchana jo hi hind ne zainab ka rukh paak dil gam se hua cakh..2
-Aur roke nabi zadi ka aehwal suna na..
+۳
+پہچانا جوں ہی ہند نے زینب کا رُخِ پاک دل غم سے ہوا چاک
+اور رو کے نبی زادی کا احوال سنانا
 
-4
-3.Maa behno ke sar ko jo khula dekh na paya haider ka dulaara..2
-Naize se zami par sare abbas ka aana..
+۴
+ماں بہنوں کے سر کو جو کھلا دیکھ نہ پایا حیدر کا دُلارا
+نیزے سے زمیں پر سرِ عباس کا آنا
 
-5
-4.Tareek ye zinda woh andhera woh sakina jab maut ne ghera..2
-Un akhri lamhat me baba ko bulaana..
+۵
+تاریکیِ زنداں وہ اندھیرا وہ سکینہ جب موت نے گھیرا
+اُن آخری لمحات میں بابا کو بلانا
 
-6
-5.Masoom sakina ne jo haatho ko uthaaya baba ko bulaya..2
-Beti ki sada par sare shabbir ka aana..
+۶
+معصوم سکینہ نے جو ہاتھوں کو اٹھایا بابا کو بلایا
+بیٹی کی صدا پر سرِ شبیر کا آنا
 
-7
-6.Jab thak ke woh dauraane safar raha me baitha taqdeer ka mara..2
-Har baar simatgaar ka zanjeer hilana..
+۷
+جب تھک کے وہ دورانِ سفر راہ میں بیٹھا تقدیر کا مارا
+ہر بار ستمگر کا زنجیر ہلانا
 
-8
-7.Rota tha jo hi soch ke woh aalame gurbat har lamha qayamat..2
-Aankho se lahu kalb ka har ghaam bahana..
+۸
+روتا تھا جوں ہی سوچ کے وہ عالمِ غربت ہر لمحہ قیامت
+آنکھوں سے لہو قلب کا ہر گام بہانا
 
-9
-8.Asgar ki lahad thi jo kadi dhup me "MAZHAR" sadma tha ye dil par..2
-Iss gham ke sabab saaye me bano ka na aana..
+۹
+اصغر کی لحد تھی جو کڑی دھوپ میں "مظہر" صدمہ تھا یہ دل پر
+اِس غم کے سبب سائے میں بانو کا نہ آنا

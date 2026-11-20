@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kardo karam rakhlo bharam
-  Mai ban ke sawali aap ke dar par aaya huṅ
-  Bin aap ke mera nahi koi sahara ho karam khudara
-  Daaman phailaye baitha huṅ kab se
-  Nahi lautunga jab tak meri mushkil na ho aasan
-  Allah mohamed ali fatema Hasan Husain
-  Aap ke asghar ke jhule se lipta huṅ
-  beauladon ke haq meiṅ ye kehta huṅ
-  Jo bhi jhule se kurta le kar jaaye
-  Us bibi ki khaali jholi hai wo bhar jaaye
+  Kar do karam rakh lo bharam
+  Main ban ke sawaali aap ke dar par aaya huṅ
+  Bin aap ke mera nahiṅ koi sahaara ho karam khudaara
+  Daaman phailaae baitha huṅ kab se
+  Nahiṅ lautuṅga jab tak meri mushkil na ho aasaan
+  Allah Muhammad Ali Fatema Hasan Husain
+  Aap ke Asghar ke jhule se lipta huṅ
+  Be aulaadoṅ ke haq mein ye kehta huṅ
+  Jo bhi jhule se kurta le kar jaae
+  Us Bibi ki khaali godi hai wo bhar jaae
   Puri ye dua ho aulaad ataa ho
-  beauladon ko aap ke sadqe mil jaye santaan
-  Allah mohamed ali fatema...
-  Jald shifa mil jaaye sab bemaaroṅ ko
-  Maaoṅ se milwadeiṅ unke pyaroṅ ko
-  Jo maqruz hai karz ada ho ab unka
-  Rahe salamat maaoṅ behno ka parda
-  Ghame sheh ke siwae gham koi na aaye
-  Karta huṅ dua mehfuz rahe har maulai ki jaan
-  Allah mohamed ali fatema...
-  Yaad aati hai jab karbala dil rota hai mera
-  Mujhe dekhna hai har baras abbas ka rauza
-  Jaanta huṅ muflis huṅ ghar meiṅ ghurbat hai
+  Be aulaadoṅ ko aap ke sadqe mil jaae santaan
+  Allah Muhammad Ali Fatema...
+  Jald shifa mil jaae sab bimaaroṅ ko
+  Maaoṅ se milwa deṅ unke pyaaroṅ ko
+  Jo maqruz haiṅ qarz ada ho ab unka
+  Rahe salaamat maaoṅ behnoṅ ka parda
+  Gham-e-Sheh ke siwaae gham koi na aae
+  Karta huṅ dua mahfuz rahe har maulaai ki jaan
+  Allah Muhammad Ali Fatema...
+  Yaad aati hai jab Karbala dil rota hai mera
+  Mujhe dekhna hai har baras Abbas ka rauza
+  Jaanta huṅ muflis huṅ ghar mein ghurbat hai
   Karbobala jaane ki phir bhi hasrat hai
-  Dur mai ab maula se reh na paaunga
-  Unki yaad meiṅ ro ro kar mar jaaunga
-  Meri aas ko bhejeiṅ abbas ko bhejeiṅ
-  Saqqa-e-sakina ki ghurbat par hona hai qurban
-  Allah mohamed ali fatema...
-  Dekhta huṅ apne bachoṅ ka jab chehra
+  Dur main ab Maula se reh na paauṅga
+  Unki yaad mein ro ro kar mar jaauṅga
+  Meri aas ko bhejeṅ Abbas ko bhejeṅ
+  Saqqa-e-Sakina ki ghurbat par hona hai qurbaan
+  Allah Muhammad Ali Fatema...
+  Dekhta huṅ apne bachchoṅ ka jab chehra
   Hota hai ehsaas ghar na hone ka
-  Waasta deta huṅ mai jalte qaimon ka
-  Ho jaaye is saal mera bhi ghar apna
-  Jahaṅ alam sajaauṅ majlis karwauṅ
-  Meri hasrat hai ke aap bane ek din mere mehman
-  Allah mohamed ali fatema...
-  Maula Husain ko akbar ka pursa de kar
-  Hum ne shabe jumma ye dua maangi ro kar
-  Chod gaye hai hum ko jitne bhi pyare
-  Rehmateiṅ naazil kijiye unki qabroṅ pe
-  Mushkil na ho raste barzakh ke safar se
-  Mere marhumin ki mehshar tak har manzil ho aasan
-  Allah mohamed ali fatema...
-  Maula ne to pyaar sikhaya hai hum ko
-  Apna chaahne waala banaya hai hum ko
-  Yaad ye rakhna waqt koi bhi aa jaaye
-  Apna hussaini rishta tut nahi paaye
-  Parcham lehrao dunya ko batao
-  Ye wird hamesha saath karenge hind aur pakistan
-  Allah mohamed ali fatema...
-  Ghaibat meiṅ hai maula kitne saaloṅ se
-  Waakif hai phir bhi wo hamare haalon se
-  Zinda rahe ya hum mar jaaye ya zahra
-  Dekhna hai har haal meiṅ maula ka chehra
-  Wo khud aa jaayeiṅ ya hameiṅ bulayeiṅ
-  Wo saamne baith ke bole sunao phir se raza zishan
-  Allah mohamed ali fatema...
+  Waasta deta huṅ main jalte khaimoṅ ka
+  Ho jaae is saal mera bhi ghar apna
+  Jahaaṅ alam sajaauṅ majlis karwaauṅ
+  Meri hasrat hai ke aap baneṅ ik din mere mehmaan
+  Allah Muhammad Ali Fatema...
+  Maula Husain ko Akbar ka pursa de kar
+  Hum ne shab-e-juma ye dua maangi ro kar
+  Chhor gaye haiṅ hum ko jitne bhi pyaare
+  Rahmateṅ naazil kijiye unki qabroṅ pe
+  Mushkil na hoṅ raste barzaq ke safar se
+  Mere marhumin ki mahshar tak har manzil ho aasaan
+  Allah Muhammad Ali Fatema...
+  Maula ne to pyaar sikhaaya hai hum ko
+  Apna chaahne waala banaaya hai hum ko
+  Yaad ye rakhna waqt koi bhi aa jaae
+  Apna Husaini rishta tut nahiṅ paae
+  Parcham lehraao duniya ko bataao
+  Ye wird hamesha saath kareṅge Hind aur Pakistan
+  Allah Muhammad Ali Fatema...
+  Ghaibat mein haiṅ Maula kitne saaloṅ se
+  Waaqif haiṅ phir bhi wo hamaare haaloṅ se
+  Zinda raheṅ ya hum mar jaaeṅ ya Zahra
+  Dekhna hai har haal mein Maula ka chehra
+  Wo khud aa jaaeṅ ya hameṅ bulaaeṅ
+  Wo saamne baith ke boleṅ sunaao phir se Raza Zeeshaan
+  Allah Muhammad Ali Fatema...
 ---
 
 ۱

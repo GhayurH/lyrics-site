@@ -1,38 +1,66 @@
 ---
-title: "Aye Alamdar E Wafa Bazo Katanay Walay Hasan Sadiq Lyrics 1994"
+title: "اے علمدارِ وفا بازو کٹانے والے"
+alternateTitle: "Aye Alamdar-e-Wafa Bazo Katanay Walay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aye alamdar-e-wafa bazo katanay walay Hasan Sadiq
+  Jhuk gaye khud tere parcham ko jhukanay walay
+
+  1
+  Aaj jin hathoon ne mashkezay mein bhar li hai Furat
+  Kal yehi hath they Khaybar ko uthane walay
+  Tujh ko darya ki rawani ka salam aaya hai
+  Khon pani ke ewaz apna bahane walay
+
+  2
+  Panjtan apna karam tujh pe karein gay har dam
+  Parcham-e-Hazrat-e-Abbas uthane walay
+  Do Muharram se jo faqa tha woh ta marg raha
+  Hazari kartay hain ab teri zamane walay
+
+  3
+  Nook-e-Naiza pe tilawat se kiya hai sabit
+  Kaun Quran pe khanjar hain chalaney walay
+  Hum pe hanstay hain tere qatal mein shamil they jo loag
+  Tujh pe rotay hain teri yaad mananay walay
+
+  4
+  Sar qalam ho gaya Islam bachaney ke liye
+  Aisay hotey hain Muhammad ke gharanay walay
+  Main bhi Rehan younhi likhta rahon ga nohay
+  Jab talak zindah hain nohon ko sunanay walay
 ---
 
-Aye Alamdar-e-Wafa Bazo Katanay Walay Hasan Sadiq.
-Jhuk Gaye Khud Tere Parcham Ko Jhukanay Walay.
+اے علمدارِ وفا بازو کٹانے والے حسن صادق
+جھک گئے خود تیرے پرچم کو جھکانے والے
 
-1
-Aaj Jin Hathoon Ne Mashkezay Mein Bhar Li Hai Furat.
-Kal Yehi Hath They Khaybar Ko Uthane Walay.
-Tujh Ko Darya Ki Rawani Ka Salam Aaya Hai.
-Khon Pani Ke Ewaz Apna Bahane Walay.
+۱
+آج جن ہاتھوں نے مشکیزے میں بھر لی ہے فرات
+کل یہی ہاتھ تھے خیبر کو اٹھانے والے
+تجھ کو دریا کی روانی کا سلام آیا ہے
+خون پانی کے عوض اپنا بہانے والے
 
-2
-Panjtan Apna Karam Tujh Pe Karein Gay Har Dam.
-Parcham-e-Hazrat-e-Abbas Uthane Walay.
-Do Muharram Se Jo Faqa Tha Woh Ta Marg Raha.
-Hazari Kartay Hain Ab Teri Zamane Walay.
+۲
+پنجتن اپنا کرم تجھ پہ کریں گے ہر دم
+پرچمِ حضرتِ عباس اٹھانے والے
+دو محرم سے جو فاقہ تھا وہ تا مرگ رہا
+حاضری کرتے ہیں اب تیری زمانے والے
 
-3
-Nook-e-Naiza Pe Tilawat Se Kiya Hai Sabit.
-Kaun Quran Pe Khanjar Hain Chalaney Walay.
-Hum Pe Hanstay Hain Tere Qatal Mein Shamil They Jo Loag.
-Tujh Pe Rotay Hain Teri Yaad Mananay Walay.
+۳
+نوکِ نیزہ پہ تلاوت سے کیا ہے ثابت
+کون قرآن پہ خنجر ہیں چلانے والے
+ہم پہ ہنستے ہیں تیرے قتل میں شامل تھے جو لوگ
+تجھ پہ روتے ہیں تیری یاد منانے والے
 
-4
-Sar Qalam Ho Gaya Islam Bachaney Ke Liye.
-Aisay Hotey Hain Muhammad Ke Gharanay Walay.
-Main Bhi Rehan Younhi Likhta Rahon Ga Nohay.
-Jab Talak Zindah Hain Nohon Ko Sunanay Walay.
+۴
+سر قلم ہو گیا اسلام بچانے کے لیے
+ایسے ہوتے ہیں محمد کے گھرانے والے
+میں بھی ریحان یوں ہی لکھتا رہوں گا نوحے
+جب تلک زندہ ہیں نوحوں کو سنانے والے

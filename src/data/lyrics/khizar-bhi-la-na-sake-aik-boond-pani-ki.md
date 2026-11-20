@@ -1,12 +1,15 @@
 ---
-title: "Khizar Bhi La Na Sake Aik Boond Pani Ki"
+title: "خضر بھی لا نہ سکے ایک بوند پانی کی"
+alternateTitle: "Khizar Bhi La Na Sake Aik Boond Pani Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh ashqiya ka raha intezam char taraf
 ---
 
-Yeh Ashqiya Ka Raha Intezam Char Taraf
+یہ اشقیا کا رہا انتظام چار طرف

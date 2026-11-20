@@ -78,9 +78,9 @@ romanLyrics: |-
 
   9
   Samjha na wo hargiz na mere dhyaan meiṅ laai
-  Jhunjhla ke use tegh-e-sitam maiṅ ne lagaai
+  Jhunjla ke use tegh-e-sitam maiṅ ne lagaai
   Ik waar meiṅ saaid se giri kat ke kalaai
-  Chilla ke lagi dene Payambar ki duhaai
+  Chilla ke lagi dene Paimbar ki duhaai
   Haae haae mere aaqa meri imdaad ko pahuncho
   Ae Shaah-e-gharibaaṅ meri faryaad ko pahuncho
 
@@ -90,7 +90,7 @@ romanLyrics: |-
   Ro kar kaha bachchoṅ ne hameṅ qatl na karna
   Maarega jo ham ko tere kya haath lagega
   Bekas hai musaafir hai aur aawaara watan hai
-  Ye kya hai saza kam ke giraftaar-e-mehan hai
+  Ye kya hai saza kam ke giraftaar-e-mihan hai
 
   11
   Kar rahm sitamgaar gharibi pe hamaari

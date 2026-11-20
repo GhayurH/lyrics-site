@@ -12,7 +12,7 @@ aliases: ["Ay Maariya"]
 published: true
 romanLyrics: |-
   Ae Maariya ae Nainawa ae dasht-e-Karbala
-  Ye kya hua ae Karbala ye kya hua ae Karbala
+  Ye kya hua ae Karbala, ye kya hua ae Karbala
 
   1
   Akbar diya Asghar diya hamshakl-e-Payambar diya
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Aun o Muhammad se hasiṅ Akbar sa wo maah-e-jabiṅ
-  Wo haami e diṅ e mubiṅ raunaq e islam e diṅ
+  Wo haami-e-Islam-e-mubiṅ raunaq-e-Islam-e-diṅ
   Abbas sa karyal jawaaṅ Abbas sa yaawar diya
 
   3

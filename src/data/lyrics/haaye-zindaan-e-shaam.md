@@ -12,33 +12,33 @@ tags: []
 aliases: ["Haye Zindane Shaam"]
 published: true
 romanLyrics: |-
-  Meri to aas mere sine meiṅ mar jaati hai
+  Meri to aas mere sine mein mar jaati hai
   Dekheṅ is qaid se kab milti hai rukhsat Ammaaṅ
   Haaye Zindaan-e-Shaam
 
   1
   Bekasi kaisi hai ye kaisi hai ghurbat Ammaaṅ
-  Kya banegi isi zindaan meiṅ turbat Ammaaṅ
+  Kya banegi isi zindaan mein turbat Ammaaṅ
   Kehna Baba se Khuda haafiz o naasir Baba
   Lo ke ab hoti huṅ zindaan se rukhsat Ammaaṅ
 
   2
-  Ab to din meiṅ bhi ujaaloṅ se mulaaqaat nahiṅ
+  Ab to din mein bhi ujaaloṅ se mulaaqaat nahiṅ
   Jo tarap kar na guzaari ho koi raat nahiṅ
-  Kya karuṅ ji ke chacha mere mere paas nahiṅ
+  Kya karuṅ ji ke chaacha mere mere paas nahiṅ
   Do dua khatm ho ab jald musibat Ammaaṅ
 
   3
   Ab sar-e-shaam parindoṅ pe nazar jaati hai
   Aisi makhluq hai urte hue ghar jaati hai
-  Meri to aas mere sine meiṅ mar jaati hai
+  Meri to aas mere sine mein mar jaati hai
   Dekheṅ is qaid se kab milti hai rukhsat Ammaaṅ
 
   4
   Tum inhi kaproṅ ko Ae Ammaaṅ bana dena kafan
   Ho nahiṅ sakte ye tabdil ke zakhmi hai badan
-  Baba aa jaaye to keh dena unheṅ mera sukhan
-  Apne Baba ki na kar paayi maiṅ khidmat Ammaaṅ
+  Baba aa jaayeṅ to keh dena unheṅ mera sukhan
+  Apne Baba ki na kar paayi main khidmat Ammaaṅ
 
   5
   Mere Baba ka wo sina meri Ammaaṅ laa do
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ho sake to Ali Asghar ka wo jhula laa do
   Ammaaṅ bhaiya ka mere mujh ko shaluka laa do
   Wo jo taawiz tha mannat ka Khudaara laa do
-  Mujh ko phir marne meiṅ howegi na diqqat Ammaaṅ
+  Mujh ko phir marne mein howe gi na diqqat Ammaaṅ
 
   7
   Thehar jaao ke Khuda haafiz o naasir Ammaaṅ
@@ -60,9 +60,9 @@ romanLyrics: |-
 
   8
   Lab-e-Sarwar pe jo Rehan ka nauha aaya
-  Shaam ke zindaaṅ se aane lagi aawaaz-e-buka
+  Shaam ke zindaaṅ se aane lagi aawaaz-e-bukaa
   Jaise bachchi ka koi zakhm hua phir taaza
-  Boli kiuṅ ahl-e-aza karte haiṅ riqqat Ammaaṅ
+  Boli kiuṅ ahl-e-azaa karte haiṅ riqqat Ammaaṅ
 ---
 
 میری تو آس میرے سینے میں مر جاتی ہے

@@ -1,34 +1,57 @@
 ---
-title: "Ali Ke Aashiq E Anmool Ki Kahani Hai Lyrics 2009"
+title: "علی کے عاشقِ انمول کی کہانی ہے"
+alternateTitle: "Ali Ke Aashiq-e-Anmool Ki Kahani Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali ke aashiq e anmool ki kahani hai
+  Janoon ki faqar ki kashkool ki kahani hai
+  Jahan-e-aqal-o-khird aa salam kar mujh ko
+  Meri zuban pe Behlool ki kahani hai
+  Sirat-e-hub-e-Ali par jo chal para Behlool
+  Janon urh ke Majnon ban giya Behlool
+  Zameen pe rehte howya khul ki zameen bechi
+  Wiqar-e-ishq tha khak-e-shifa nahi bechi
+  Bacha li apne liye tu ne Karbala Behlool
+  Jahan-e-faqar mein raij hai woh nisab tera
+  Ali ke naam ki detay hain sab faqeer sada
+  Khula howa hai tera ab bhi madrasa Behlool
+  Nuseriyon ka tu Rab jane haal kya hota
+  Har aik sacha Musalmaan Nuseri ho jata
+  Ali ki zaat pe khul kar jo bolta Behlool
+  Haroof-e-baag-e-jina ke shajar se lagne lage
+  Woh lafz jurne lage our makan banne lage
+  Jahan kissi ne bhi qirtas par likha Behlool
+  Wajhi hath uthao ke sath doo iss ka
+  Dua yeh karta hai Akbar ke aye mere Mula
+  Bana de hum ko bhi kuch kuch zara zara Behlool
 ---
 
-1
-Ali Ke Aashiq e Anmool Ki Kahani Hai
-Janoon Ki Faqar Ki Kashkool Ki Kahani Hai.
-Jahan-e-Aqal-o-Khird Aa Salam Kar Mujh Ko.
-Meri Zuban Pe Behlool Ki Kahani Hai.
-Sirat-e-Hub-e-Ali Par Jo Chal Para Behlool.
-Janon Urh Ke Majnon Ban Giya Behlool.
-Zameen Pe Rehte Howya Khul Ki Zameen Bechi.
-Wiqar-e-Ishq Tha Khak-e-Shifa Nahi Bechi.
-Bacha Li Apne Liye Tu Ne Karbala Behlool.
-Jahan-e-Faqar Mein Raij Hai Woh Nisab Tera.
-Ali Ke Naam Ki Detay Hain Sab Faqeer sada.
-Khula Howa Hai Tera Ab Bhi Madrasa Behlool.
-Nuseriyon Ka Tu Rab Jane Haal Kya Hota.
-Har Aik Sacha Musalmaan Nuseri Ho Jata.
-Ali Ki Zaat Pe Khul Kar Jo Bolta Behlool.
-Haroof-e-Baag-e-Jina Ke Shajar Se Lagne Lage.
-Woh Lafz Jurne Lage Our Makan Banne Lage.
-Jahan Kissi Ne Bhi Qirtas Par Likha Behlool.
- Wajhi Hath Uthao Ke Sath Doo Iss Ka.
-Dua Yeh Karta Hai Akbar Ke Aye Mere Mula.
-Bana De Hum Ko Bhi Kuch Kuch Zara Zara Behlool.
+۱
+علی کے عاشقِ انمول کی کہانی ہے
+جنون کی فقر کی کشکول کی کہانی ہے
+جہانِ عقل و خرد آ سلام کر مجھ کو
+میری زباں پہ بہلول کی کہانی ہے
+صراطِ حبِ علی پر جو چل پڑا بہلول
+جنوں اڑ کے مجنوں بن گیا بہلول
+زمین پہ رہتے ہویا خلد کی زمین بیچی
+وقارِ عشق تھا خاکِ شفا نہیں بیچی
+بچا لی اپنے لیے تو نے کربلا بہلول
+جہانِ فقر میں رائج ہے وہ نصاب تیرا
+علی کے نام کی دیتے ہیں سب فقیر صدا
+کھلا ہوا ہے تیرا اب بھی مدرسہ بہلول
+نصیریوں کا تو رب جانے حال کیا ہوتا
+ہر ایک سچا مسلمان نصیری ہو جاتا
+علی کی ذات پہ کھل کر جو بولتا بہلول
+حروفِ باغِ جنا کے شجر سے لگنے لگے
+وہ لفظ جڑنے لگے اور مکان بننے لگے
+جہاں کسی نے بھی قرطاس پر لکھا بہلول
+وجہی ہاتھ اٹھاؤ کہ ساتھ دوں اس کا
+دعا یہ کرتا ہے اکبر کہ اے میرے مولا
+بنا دے ہم کو بھی کچھ کچھ ذرا ذرا بہلول

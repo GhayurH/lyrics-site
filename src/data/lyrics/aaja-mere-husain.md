@@ -18,12 +18,12 @@ romanLyrics: |-
   Tu is dil ki hai dharkan
   Tu nur hai in aankhoṅ ka
   Teri yaad meiṅ tarpuṅ din bhar
-  Jaaguṅ main saari rayn
+  Jaaguṅ main saari rain
 
   2
   Kya chakki pis ke beta
   Is din ke liye tha paala
-  Khanjar hai gale par pyase
+  Khanjar hai gale par pyaase
   Manzar ye dekhuṅ kaise
   Ahmed ka nawasa hai
   Ye beta hai mera Husain
@@ -34,7 +34,7 @@ romanLyrics: |-
   Tu tanha khara hai ban meiṅ
   Ujri hai kokh is ban meiṅ
   Chhaale hain mere is dil par
-  Aashkoṅ se tar hai nayn
+  Aashkoṅ se tar hai nain
 
   4
   Khun roti hai ye dukhiya
@@ -42,7 +42,7 @@ romanLyrics: |-
   Mahshar ka hai ye manzar
   Sajde meiṅ sar aur khanjar
   Lillaah rehm tu karna
-  Kaunain huwe bechain
+  Kaunain hue bechain
 
   5
   Beaab na zibah kar tu
@@ -53,7 +53,7 @@ romanLyrics: |-
   Qudrat ke hai ye bain
 
   6
-  Dil par hai udaasi chaayi
+  Dil par hai udaasi chhaayi
   Baaloṅ se maqtal jhaari
   Binaai gayi hai maaṅ ki
   Tuti hai kamar bhi meri
@@ -62,10 +62,10 @@ romanLyrics: |-
 
   7
   Khanjar ko chalta dekha
-  Pyase ko tarapta dekha
+  Pyaase ko tarapta dekha
   Baaqi hai na koi ghar meiṅ
   Meri duniya luti pal bhar meiṅ
-  Bimar bacha kunbe meiṅ
+  Bimaar bachcha kunbe meiṅ
   The maaṅ ke shor o shain
 
   8
@@ -79,7 +79,7 @@ romanLyrics: |-
   9
   Saabir hai jahaaṅ meiṅ iktaa
   Iqbal hai jiska banda
-  Qurbani ki ab khaatir
+  Qurbaani ki ab khaatir
   Zehra hai ran meiṅ haazir
   Aa god meiṅ meri aaja
   Maaṅ kab se hai bechain

@@ -12,49 +12,49 @@ tags: []
 aliases: ["Khaali Jhoola Hai"]
 published: true
 romanLyrics: |-
-  Jhule meiṅ khelne waale
+  Jhule mein khelne waale
 
   Ae mere ghuncha dahan khaali jhula hai tera
   Tha ye ek maaṅ ka sukhan khaali jhula hai tera
 
   1
-  Raas aaya nahiṅ pardes meiṅ jina tujh ko
-  Dhundti phirti hai godoṅ meiṅ Sakina tujh ko
+  Raas aaya nahiṅ pardes mein jina tujh ko
+  Dhundti phirti hai godoṅ mein Sakina tujh ko
   Kaise bhule gi behen khaali jhula hai tera
 
   2
   Tujh ko tanhaai bahut qabr ki tarpaaye gi
-  Nind jangal meiṅ mere laal kahaaṅ aaye gi
+  Nind jangal mein mere laal kahaaṅ aaye gi
   Hai yehi ranj o mihan khaali jhula hai tera
 
   3
-  Beh gaye khwaab sabhi khun ke favvaare meiṅ
-  Arsh se pehle mera chaand tha gehwaare meiṅ
+  Beh gaye khwaab sabhi khun ke favvaare mein
+  Arsh se pehle mera chaand tha gehwaare mein
   Lag gaye haaye gahan khaali jhula hai tera
 
   4
   Laut aaye ga to lori sunaauṅ gi tujhe
-  Apni aaghosh meiṅ maiṅ le ke sulaauṅ gi tujhe
+  Apni aaghosh mein main le ke sulaauṅ gi tujhe
   Hogi din bhar ki thakan khaali jhula hai tera
 
   5
   Maaṅ ki aaghosh se jaati nahiṅ khushbu teri
   Us ko tasvir nazar aati har su teri
-  Dil meiṅ hoti hai chubhan khaali jhula hai tera
+  Dil mein hoti hai chubhan khaali jhula hai tera
 
   6
-  Meri aaghosh meiṅ aa jaa ke savaaruṅ tujh ko
+  Meri aaghosh mein aa jaa, ke savaaruṅ tujh ko
   Tu hi batlaa de ke kya keh ke pukaaruṅ tujh ko
   Naazish-e-Shaah-e-zaman khaali jhula hai tera
 
   7
   Puchhe mamta se ke kya hota hai aulaad ka daagh
-  Kar diya maut ne gul dasht meiṅ jhule ka charaagh
+  Kar diya maut ne gul dasht mein jhule ka charaagh
   Ab kahaaṅ koi kiran khaali jhula hai tera
 
   8
   Garmi-e-qabr tujhe aab o hawa kya de gi
-  Ye kari dhup tujhe dasht meiṅ jhulsa de gi
+  Ye kari dhup tujhe dasht mein jhulsa de gi
   Phul jaisa hai badan khaali hai jhula tera
 
   9

@@ -9,63 +9,40 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haye Qasim Haye Qasim
-
-  Dasht may Ibn e Hassan per waqt kaisa a gaya
-
+romanLyrics: |-
+  Haye Qasim Haye Qasim
+  Dasht meiṅ Ibn-e-Hasan par waqt kaisa aa gaya
 
   1
-
-  Aik ghat’ri may faqt, Qasim ka laasha a gaya
-
+  Ek ghatri meiṅ faqat, Qasim ka laasha aa gaya
 
   2
-
-  Chaar kaandh’un per janazah ghar may aata hai magar
-
-  Aik he kaandh’ay pay ye kis ka janazah a gaya
-
+  Chaar kaandhoṅ par janaaza ghar meiṅ aata hai magar
+  Ek hi kaandhe pe ye kis ka janaaza aa gaya
 
   3
-
-  Jis terha chunta hai mali phool apnay bagh k
-
-  Tukray yun Qasim k chun’nay mera Maula a gaya
-
+  Jis tarah chunta hai maali phul apne baagh ke
+  Tukre yuṅ Qasim ke chunne mera Maula aa gaya
 
   4
-
-  Choom ker taveez Sarwar deir tak rotay rahay
-
-  Bhai k lafz’un may janay yad kia kia a gaya
-
+  Chum kar taaviz Sarwar der tak rote rahe
+  Bhaai ke lafzoṅ meiṅ jaane yaad kya kya aa gaya
 
   5
-
-  A gai baraat run say ro k Fizzah nay kaha
-
-  Han Bibi’o tazeem ko uth jao dulha aa gaya
-
+  Aa gai baaraat ran se ro ke Fizza ne kaha
+  Haaṅ Bibiyo taazim ko uth jaao dulha aa gaya
 
   6
-
-  Laash ko terteeb jub denay laga Zahra ka laal
-
-  Baar’ha Maula ki aankh’un may andhera a gaya
-
+  Laash ko tartib jab dene laga Zahra ka laal
+  Baaraha Maula ki aankhoṅ meiṅ andhera aa gaya
 
   7
-
-  Baap ka taveez tha betay k bazo per bandha
-
-  Iss liyay pehchan may Qasim ka laasha a gaya
-
+  Baap ka taaviz tha bete ke baazu par bandha
+  Is liye pehchaan meiṅ Qasim ka laasha aa gaya
 
   8
-
-  Maatmi k ghar may Akbar jub koi dulha bana
-
-  Yaad sub ko Karbala walay ka sehra a gaya'
+  Maatami ke ghar meiṅ Akbar jab koi dulha bana
+  Yaad sab ko Karbala wale ka sehra aa gaya
 ---
 
 ہائے قاسمؑ ہائے قاسمؑ

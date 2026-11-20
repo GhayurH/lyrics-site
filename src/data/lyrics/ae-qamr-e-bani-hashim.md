@@ -12,12 +12,12 @@ tags: []
 aliases: ["Ay Qamre Bani Hashim"]
 published: true
 romanLyrics: |-
-  Ae qamr-e-Bani Hashim gham kaise ho kam tera
+  Ae Qamr-e-Bani Hashim gham kaise ho kam tera
   Sadiyoṅ se rulaata hai Abbas alam tera
 
   1
-  Is daur-e-pur khatar meiṅ is daur-e-beamaan meiṅ
-  Bas ek aasra hai sarkaar-e-haram tera
+  Is daur-e-purkhatar meiṅ is daur-e-beamaan meiṅ
+  Bas ik aasra hai sarkaar-e-haram tera
 
   2
   Lagta hai ke lipti hai ammu se Sakina jaan
@@ -25,10 +25,10 @@ romanLyrics: |-
 
   3
   Phunkoṅ se nahiṅ hoga gul shama-e-aza Shah ka
-  Hai paasbaan qudrat jis gham ka wo tera
+  Hai paasbaan-e-qudrat jis gham ka wo tera
 
   4
-  Ye sina zani Shah ki maatam ye lahu aala
+  Ye sina zani Shah ki maatam ye lahu aalaa
   Ehsaan zamaane par karta hai raqam tera
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Taa hashr rahuṅ Maula mamnun-e-karam tera
 
   6
-  Shah kehte the ae bhai tuti hai kamar meri
+  Shah kehte the ae bhaai tuti hai kamar meri
   Bardaasht karuṅ kaise ghurbat meiṅ alam tera
 
   7

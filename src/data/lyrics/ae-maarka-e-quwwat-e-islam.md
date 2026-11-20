@@ -25,12 +25,12 @@ romanLyrics: |-
   2
   Baba ke sab andaaz haiṅ dada ke tariqe
   Nind aa gayi reti pe na takiya hai na bistar
-  Uljhe hua baaloṅ pa fida shaam-e-shab-e-gham
-  Dubi hui nafsoṅ pa sitaaroṅ ki nichhaawar
+  Uljhe hua baaloṅ pe fida shaam-e-shab-e-gham
+  Dubi hui nafsoṅ pe sitaaroṅ ki nichhaawar
 
   3
   Dhalki hui gardan pe Yadullah ke bose
-  Sukhe hue hontoṅ pe tasadduq lab-e-Kausar
+  Sukhe hue haathoṅ pe tasadduq lab-e-Kausar
   Chitwaṅ meiṅ chhipaaye hue Akbar ki jawaani
   Mutthi meiṅ dabaaye hue Sajjad ke jauhar
 

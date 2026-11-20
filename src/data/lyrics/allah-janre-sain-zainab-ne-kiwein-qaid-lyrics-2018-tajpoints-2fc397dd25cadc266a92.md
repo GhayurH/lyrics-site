@@ -1,32 +1,54 @@
 ---
-title: "Allah Janay Sain Zainab Ne Kiwein Qaid Nibhaayi"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اللہ جانے سائیں زینب نے کیویں قید نبھائی"
+alternateTitle: "Allah Janay Sain Zainab Ne Kiwein Qaid Nibhaayi"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Allah janre sain Zainab ne kiwein qaid nibhai
+  Kiwein safar kitay baaj bhirawaan haye dard satai
+
+  1
+  Abid nu pathran de wich kadi safraan che Sakina nu kadi bhaina nu
+  Qaidi hathaan de nal sanbhdi reh gayi Zahra di kamai
+  Apnre hi ghar de wich jis dam Abdullah ne puchiya keh tu bibi koan aye
+  Bas ronde hoyaan khak utha ke Zainab ne urai
+
+  2
+  Zalim de zabaan utay aaya jadoon naa Fatima Zahra da bhare majmay wich
+  Maa di azmat layi khutbe parhdi dhi Zahra di aayi
+  Amari de naal mil ke jiwein rondi aye koi dhi owein Zainab roi
+  Jadoon maa di rida waqt-e-rehai gal sain ne lai
+
+  3
+  Jad v soraj saweray charhda si aap jhuk jandi si wich haal-e-raku de Zainab
+  Aynj balaan utay rayi chawaan kardi haye Zahra di jayi
+  Aaj v Saqlain janab-e-Mehdi onna rawaan taun hataonde odde pairaan de nishaan
+  Jinaa rawaan utay Shamiyaa Zainab kal qaidi turai
 ---
 
-Allah Janre Sain Zainab Ne Kiwein Qaid Nibhai.
-Kiwein Safar Kitay Baaj Bhirawaan Haye Dard Satai.
+اللہ جانڑے سائیں زینب نے کیویں قید نبھائی
+کیویں سفر کیتے باج بھراواں ہائے درد ستائی
 
-1
-Abid Nu Pathran De Wich Kadi Safraan Che Sakina Nu Kadi Bhaina Nu.
-Qaidi Hathaan De Nal Sanbhdi Reh Gayi Zahra Di Kamai.
-Apnre Hi Ghar De Wich Jis Dam Abdullah Ne Puchiya Keh Tu Bibi Koan Aye.
-Bas Ronde Hoyaan Khak Utha Ke Zainab Ne Urai.
+۱
+عابد نوں پتھراں دے وچ کدی سفراں چے سکینہ نوں کدی بھیناں نوں
+قیدی ہتھاں دے نال سنبھدی رہ گئی زہرا دی کمائی
+اپنڑے ہی گھر دے وچ جس دم عبداللہ نے پچھیا کہ توں بی بی کون ایں
+بس روندے ہویاں خاک اٹھا کے زینب نے اڑائی
 
-2
-Zalim De Zabaan Utay Aaya Jadoon Naa Fatima Zahra Da Bhare Majmay Wich.
-Maa Di Azmat Layi Khutbe Parhdi Dhi Zahra Di Aayi.
-Amari De Naal Mil Ke Jiwein Rondi Aye Koi Dhi Owein Zainab Roi.
-Jadoon Maa Di Rida Waqt-e-Rehai Gal Sain Ne Lai.
+۲
+ظالم دے زبان اُتے آیا جدوں ناں فاطمہ زہرا دا بھرے مجمعے وچ
+ماں دی عظمت لئی خطبے پڑھدی دھی زہرا دی آئی
+عماری دے نال مل کے جیویں روندی اے کوئی دھی اویویں زینب روئی
+جدوں ماں دی ردا وقتِ رہائی گل سائیں نے لئی
 
-3
-Jad V Soraj Saweray Charhda Si Aap Jhuk Jandi Si Wich Haal-e-Raku De Zainab.
-Aynj Balaan Utay Rayi Chawaan Kardi Haye Zahra Di Jayi.
-Aaj V Saqlain Janab-e-Mehdi Onna Rawaan Taun Hataonde Odde Pairaan De Nishaan.
-Jinaa Rawaan Utay Shamiyaa Zainab Kal Qaidi Turai
+۳
+جد وی سورج سویرے چڑھدا سی آپ جھک جاندی سی وچ حالِ رکوع دے زینب
+اینج بالاں اُتے رئی چھاواں کردی ہائے زہرا دی جائی
+آج وی ثقلین جنابِ مہدی اونہاں راواں توں ہٹاؤندے اوہدے پیراں دے نشان
+جنہاں راواں اُتے شامیاں زینب کل قیدی ٹرائی

@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye haye ali akbar
-  Barchi nikaalne lage jab shaah e karbala
-  Awaaz maa ko de ke ye mazlum ne kaha
-  Hai aap ke Husain ki ghurbat ka imtehaṅ
-  Amma madad karo
-  Kaise nikaluṅ sina e akbar se mai sina
-  Amma madad karo
-  Hai aap ke Husain ki ghurbat ka imtehaṅ
-  Amma madad karo
-  Bardaasht kis tarha se ye kar payega Husain
-  Bete ke saath dasht meiṅ mar jayega Husain
-  Kariyal jawaaṅ ragadta hai maqtal meiṅ aeriyaṅ
-  Amma madad karo...
-  Afsos aa na paaya mai usko utaarne
+  Haaye haaye Ali Akbar
+  Barchhi nikaalne lage jab Shaah-e-Karbala
+  Aawaaz maaṅ ko de ke ye mazlum ne kaha
+  Hai aap ke Husain ki ghurbat ka imtihaaṅ
+  Ammaaṅ madad karo
+  Kaise nikaaluṅ sina-e-Akbar se main sanaaṅ
+  Ammaaṅ madad karo
+  Hai aap ke Husain ki ghurbat ka imtihaaṅ
+  Ammaaṅ madad karo
+  Bardaasht kis tarah se ye kar paayega Husain
+  Bete ke saath dasht mein mar jaayega Husain
+  Kariyal jawaaṅ ragarta hai maqtal mein eriyaaṅ
+  Ammaaṅ madad karo...
+  Afsos aa na paaya main us ko utaarne
   Ziṅ se gira diya ise naize ke waar ne
-  Tuti hai aap ki tarha akbar ki phasliyaṅ
-  Amma madad karo...
-  Akbar ke saath saath mera dil bhi chid gaya
-  Uthta nahi hai haath tumhare gharib ka
-  Pehle mere kaleje se tum khaynch lo sina
-  Amma madad karo...
-  Paala hai jis ne naazoṅ se hai intezar meiṅ
-  Chadar na bhul jaaye wo akbar ke pyar meiṅ
-  Zainab ko rok lo kahiṅ aa jaaye na yahaṅ
-  Amma madad karo...
+  Tuti hai aap ki tarah Akbar ki pasliyaaṅ
+  Ammaaṅ madad karo...
+  Akbar ke saath saath mera dil bhi chhid gaya
+  Uthta nahiṅ hai haath tumhaare gharib ka
+  Pehle mere kaleje se tum khinch lo sanaaṅ
+  Ammaaṅ madad karo...
+  Paala hai jis ne naazoṅ se hai intizaar mein
+  Chaadar na bhul jaaye wo Akbar ke pyaar mein
+  Zainab ko rok lo kahiṅ aa jaaye na yahaaṅ
+  Ammaaṅ madad karo...
   Aati hai sharm baap ko bete ke saamne
-  Aankhoṅ pe rakh do haath dikhayi na de ise
-  Rote zaif baap ko dekhe na naujawaṅ
-  Amma madad karo...
-  Amma ghari ye kaisi ajab imtehaṅ ki hai
-  Do bekasoṅ ke haath meiṅ mayyat jawaaṅ ki hai
+  Aaṅkhoṅ pe rakh do haath dikhaai na de ise
+  Rote zaif baap ko dekhe na naujawaaṅ
+  Ammaaṅ madad karo...
+  Ammaaṅ ghari ye kaisi ajab imtihaaṅ ki hai
+  Do bekasoṅ ke haath mein mayyat jawaaṅ ki hai
   Pehlu shikasta aap ka meri kamar kamaaṅ
-  Amma madad karo...
+  Ammaaṅ madad karo...
   Tuti hui kamar hai meri mera saath do
-  Mai chaahta hoo qaime meiṅ akbar ko le chalo
-  Zinda to dekh le ise ek baar is ki maa
-  Amma madad karo...
-  Pahuncha ke laash sheh ne takallum di ye sada
-  Zainab jo mujhse poochegi kya mai bataungi
-  Mujhse na hogi tum hi shahadat karo bayaṅ
-  Amma madad karo...
+  Main chaahta huṅ khaime mein Akbar ko le chalo
+  Zinda to dekh le ise ek baar is ki maaṅ
+  Ammaaṅ madad karo...
+  Pahunch ke laash shah ne Takallum di ye sada
+  Zainab jo mujh se puchhegi kya main bataauṅgi
+  Mujh se na hogi tum hi shahaadat karo bayaaṅ
+  Ammaaṅ madad karo...
 ---
 
 ۱

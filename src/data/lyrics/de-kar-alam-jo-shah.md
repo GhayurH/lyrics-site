@@ -20,7 +20,7 @@ romanLyrics: |-
   Diwaar meiṅ haram ki ik dar bana diya hai
 
   2
-  Saj kar imaambaara ham ye samajh rahe haiṅ
+  Saj kar imaam baara ham ye samajh rahe haiṅ
   Jannat ke raaste meiṅ ek ghar bana diya hai
 
   3

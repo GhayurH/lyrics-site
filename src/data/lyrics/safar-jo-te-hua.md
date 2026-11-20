@@ -16,7 +16,7 @@ romanLyrics: |-
   Pidar khamida kamar aaya laash-e-Akbar par
 
   1
-  Maiṅ tere laashe pe aaya huṅ is tarah Akbar
+  Main tere laash pe aaya huṅ is tarah Akbar
   Bare jatan se hataaya hai raah se lashkar
   Har ek qadam pe sataate the mujh ko ahl-e-shar
   Safar ye kya tha agar puchhte ho nur-e-nazar
@@ -25,8 +25,8 @@ romanLyrics: |-
   2
   Sinaaṅ thi sina-e-Akbar meiṅ haath sine par
   Jo dekha baap ne bete ka ye dukhi manzar
-  Tamaam hasrateṅ dil ki hui yuṅ khaak is tar
-  Siyaah zulfoṅ meiṅ chaali utar gayi aksar
+  Tamaam hasrateṅ dil ki hui yuṅ khaak astar
+  Siyaah zulfoṅ meiṅ jaali utar gayi aksar
   Ye kya bapa kiya ummat ne zulm ka mahshar
 
   3
@@ -44,8 +44,8 @@ romanLyrics: |-
   Bayaan ho koi khwaahish ae mere nur-e-nazar
 
   5
-  Barha ke haath ye Akbar ne ki sada Baaba
-  Sukun-e-dil ke liye ho agar ata Baaba
+  Barha ke haath ye Akbar ne ki sadaa Baaba
+  Sukun-e-dil ke liye ho agar ataa Baaba
   Nahiṅ hai koi talab is ke kuchh siwa Baaba
   Dikhaaiye to hai Sughra ka haal kya Baaba
   Bichhar ke ham se wo rehti hai kis tarah muztar
@@ -54,14 +54,14 @@ romanLyrics: |-
   Hilaaya haath jo Maula ne le ke naam-e-Khuda
   Hijaab hat gaya manzar tha saamne ghar ka
   Aur ek kone meiṅ baithi thi khaak par Sughra
-  Ye dekhna tha ke wa ghurbata ki aayi sada
+  Ye dekhna tha ke wa ghurbata ki aayi sadaa
   Behen ki dekh ke haalat tarap gaya Akbar
 
   7
   Bas aage John tha yuṅ haal baap bete ka
   Gale laga ke kaha baap ne suno beta
   Safar hayaat ka ab ho gaya tamaam apna
-  Tumhaare pichhe chale aayeṅge tere Baaba
+  Tumhaare pichhe chale aayeṅ ge tere Baaba
   Ke reh gaya hai faqat sajda ek tah-e-khanjar
 ---
 سفر جو طے ہوا زانو بہ زانو رو رو کر

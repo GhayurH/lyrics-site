@@ -35,14 +35,14 @@ romanLyrics: |-
 
   4
   Maula ab aap agle baras Hind aayeṅge
-  Jite haiṅ rone wale to phir tum ko paayeṅge
+  Jaate haiṅ rone wale to phir tum ko paayeṅge
   Maatam kareṅge aur alam bhi uthaayeṅge
   Waada karo ke aayeṅge aur sab ko laayeṅge
 
   5
-  Ae jaan-e-Mustafa o Ali shaah-e-mashraqain
+  Ae jaan-e-Mustafa o Ali shaah-e-mashriqain
   Lillaah sunte jaaiye maula hamaare bain
-  Ehsaas keh raha hai ke ae Fatema ke chain
+  Ehsaas keh rahe haiṅ ke ae Fatema ke chain
   Ji bhar ke hum na kar sake maatam tera Husain
 ---
 

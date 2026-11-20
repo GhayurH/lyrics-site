@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hyder ke fazail parti hai ye dunya
-  Hyder ke fazail parta hai khuda bhi
-  Ali maula ali ali sultan ali
-  Hum maula ali ke hai maan'ne waale
-  Haaṅ sher e khuda ka hai maan'ne waale
-  Ali ali sultan ali sher e khuda rab ka wali
-  Allah ki hujjat hai hyder hai waliyullah
-  Hyder hai safiullah hyder hai kaleemullah
-  Hyder hai lisanullah hyder hai ameenullah
+  Hyder ke fazail parhti hai ye duniya
+  Hyder ke fazail parhta hai Khuda bhi
+  Ali Maula Ali Ali Sultan Ali
+  Ham Maula Ali ke haiṅ maanne waale
+  Haaṅ Sher-e-Khuda ka hai maanne waale
+  Ali Ali Sultan Ali Sher-e-Khuda Rab ka wali
+  Allah ki hujjat hai Hyder hai Waliullah
+  Hyder hai Safiullah Hyder hai Kalimullah
+  Hyder hai Lisanullah Hyder hai Aminullah
   Hyder ki ita'at hi khaaliq ki ita'at hai
-  Ali ali sultan ali...
-  Likha hai ali maula jannat ke makano par
-  Likha hai ali maula rehmat ki ghataoṅ par
-  Likha hai ali maula suroṅ ki zabano par
-  Yani ke ali maula har shay ki zururat hai
-  Ali ali sultan ali...
-  Masjid ki minaroṅ se kiuṅkar na sada aaye
-  Bus ek wahi aaye dil meiṅ jo ali laaye
-  Jo dushman e hyder hai dozakh meiṅ chala jaaye
-  Ye rab ka iraada hai aur uski hi chaahat hai
-  Ali ali sultan ali...
-  Tu qaatil e marhab hai tu faatah e khyber hai
-  Tu khalq meiṅ ae maula allah ka lashkar hai
-  Kaunain meiṅ kaun aise lashkar ke barabar hai
+  Ali Ali Sultan Ali...
+  Likha hai Ali Maula jannat ke makaanoṅ par
+  Likha hai Ali Maula rahmat ki ghataaoṅ par
+  Likha hai Ali Maula suroṅ ki zabano par
+  Likha hai Ali Maula har shai ki zarurat hai
+  Ali Ali Sultan Ali...
+  Masjid ki minaroṅ se kiuṅ kar na sada aaye
+  Bas ek wahi aaye dil meiṅ jo Ali laaye
+  Jo dushman-e-Hyder hai dozakh meiṅ chala jaaye
+  Ye Rab ka iraada hai aur us ki hi chaahat hai
+  Ali Ali Sultan Ali...
+  Tu qaatil-e-Marhab hai tu faatih-e-Khaibar hai
+  Tu khalq meiṅ ae Maula Allah ka lashkar hai
+  Kaunain meiṅ kaun aise lashkar ke baraabar hai
   Allah ki nusrat bhi teri hi to nusrat hai
-  Ali ali sultan ali...
-  Tauhid ki khaatir hi sar tu ne kataya hai
-  Kaabe ko bachaya hai islam bachaya hai
-  Jo waada khuda se tha tu ne wo nibhaya hai
-  Yuṅ shukr tera karti allah ki khudrat hai
-  Ali ali sultan ali...
-  Ekkeeswi ramzaṅ ko aankheiṅ hai sabhi pur nam
-  Hasnain tarapte hai zainab bhi hui bedam
-  Dekha nahi jaata hai ye dard bhara aalam
-  Barpa ye hui kaisi kufe meiṅ qayamat hai
-  Ali ali sultan ali...
-  Khuṅ koni se tere jo behta tha mere maula
-  Kya zarb lagayi thi zaalim ne tujhe maula
-  Jo dard hai sine meiṅ dikhlaye kise maula
-  Sar pito ke ae nasir maula ki shahadat hai
-  Ali ali sultan ali...
+  Ali Ali Sultan Ali...
+  Tauhid ki khaatir hi sar tu ne kataaye haiṅ
+  Kaabe ko bachaaya hai Islam bachaaya hai
+  Jo waada Khuda se tha tu ne wo nibhaaya hai
+  Yuṅ shukr tera karti Allah ki qudrat hai
+  Ali Ali Sultan Ali...
+  Ikkisviṅ ramzaaṅ ko aankheiṅ haiṅ sabhi purnam
+  Hasnain tarapte haiṅ Zainab bhi hui bedam
+  Dekha nahiṅ jaata hai ye dard bhara aalam
+  Barpa ye hui kaisi Kufe meiṅ qayaamat hai
+  Ali Ali Sultan Ali...
+  Khuṅ koni se tere jo behta tha mere Maula
+  Kya zarb lagaayi thi zaalim ne tujhe Maula
+  Jo dard hai sine meiṅ dikhlaaye kise Maula
+  Sar pito ke ae Nasir Maula ki shahaadat hai
+  Ali Ali Sultan Ali...
 ---
 
 ۱

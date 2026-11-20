@@ -17,14 +17,14 @@ romanLyrics: |-
   1
   Hai waqt-e-asr ka aur Karbala meiṅ hai mahshar
   Zamin-e-garm pe ghash meiṅ hai Fatima ka pisar
-  Laiṅ hai sine pe gardan meiṅ zulm ka khanjar
+  La'iṅ hai sine pe gardan meiṅ zulm ka khanjar
   Ye ran meiṅ karti hai faryaad Bint-e-Paighambar
 
   2
   Falak nashiṅ zamiṅ par gira hai waawaila
   Hazaar zakhm hai sukha gala hai waawaila
   Usi ke halq pe khanjar chala hai waawaila
-  Hai bosa gaah-e-Nabi aur Shimr ka khanjar
+  Hai bosagaah-e-Nabi aur Shimr ka khanjar
 
   3
   Kamar khamida hai gham hai use baraadar ka
@@ -51,25 +51,25 @@ romanLyrics: |-
   Sadaaeṅ deta hai Abbas ko mera dilbar
 
   7
-  Na gham gusaar hai beta hai aur na bhaai hai
+  Na ghamgusaar hai beta hai aur na bhaai hai
   Tarap ke Zainab-e-muztar hi ran meiṅ aayi hai
   Madad ka waqt hai ya Mustafa duhaai hai
-  Hai khaak o khuṅ meiṅ ghaltaaṅ tumhaara nur-e-nazar
+  Hai khaak khuṅ meiṅ ghaltaaṅ tumhaara nur-e-nazar
 
   8
-  Hai zer-e-khanjaroṅ khuṅ khaar tashna kaam pisar
-  Hai zibh karne ko tayyaar zaalim-e-khud sar
+  Hai zer-e-khanjaroṅ khuṅkhaar tashna kaam pisar
+  Hai zibh karne ko tayyaar zaalim-e-khudsar
   Ulat do ran ki zamin ab to Faateh-e-Khaibar
   Shahid hota hai beta tumhaara ya Haidar
 
   9
-  Mere pisar pe lainoṅ ki fauj chhaayi hai
+  Mere pisar pe la'inoṅ ki fauj chhaayi hai
   Gharib bekas o tanha hai benawaai hai
   Kisi ne tegh kisi ne sinaaṅ lagaayi hai
   Sawaar Shimr hai bekas ke zakhmi sine par
 
   10
-  Hai kaainaat meiṅ Jawid is fughaaṅ ka asar
+  Hai kaainaat meiṅ Jaawed is fughaaṅ ka asar
   Falak larazte haiṅ kaun o makaaṅ meiṅ hai mahshar
   Zamin kaampti hai khun rote haiṅ patthar
   Jo bain karti hai Zehra pisar ki baali par

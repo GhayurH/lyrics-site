@@ -10,44 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Afsoos ban mein logon ne loota Qasim ki mehndi Akbar ka sehra
-  Ro ro ke bolein Laila se Farwa Qasim ki mehndi Akbar ka sehra
+  Afsos ban mein logoṅ ne luta Qasim ki mehndi Akbar ka sehra
+  Ro ro ke boleṅ Laila se Farwa Qasim ki mehndi Akbar ka sehra
 
   1
-  Maon ke dil mein armaan they jitnay
-  Tukray hoye hain beton ke utnay
-  Pamal hotey maon ne dekha
-  Qasim ka mehndi mein khoon mila hai
+  Maaoṅ ke dil mein armaan the jitne
+  Tukre hue haiṅ betoṅ ke utne
+  Paamaal hote maaoṅ ne dekha
+  Qasim ka mehndi mein khun mila hai
 
   2
   Akbar ka sehra bikhra para hai
-  Youn dekh kar tu mar jati Sughra
-  Baqiye se aa kar ik maa pukari
-  Ro ro ke karti thi aah-o-zaari
+  Yuṅ dekh kar tu mar jaati Sughra
+  Baqi se aa kar ik maaṅ pukaari
+  Ro ro ke karti thi aah o zaari
 
   3
-  Aye Shamiyon mat pamal karna
-  Laila-o-Farwa ko seene laga kar
-  Kehti thi Zainab aanso baha kar
-  Abbas hota tu youn na hota
+  Ae Shaamiyoṅ mat paamaal karna
+  Laila o Farwa ko sine laga kar
+  Kehti thi Zainab aansu baha kar
+  Abbaas hota to yuṅ na hota
 
   4
-  Wa gurbata ki de kar sadaein
-  Roti hain sare nabiyon ki maein
-  Jab khak ura kar kehti hain Zahra
+  Wa ghurbata ki de kar sadaaeṅ
+  Roti haiṅ saare nabiyoṅ ki maaeṅ
+  Jab khaak ura kar kehti haiṅ Zahra
   Rukhsat ka ghar se jab waqt aaya
 
   5
-  Maon ke gham ne Sheh ko rulaya
-  Na bhool paon ga bolay yeh Maula
-  Laila-o-Farwa ko they satatay
-  Hans hans ke beton ke sar dikhatay
+  Maaoṅ ke gham ne Sheh ko rulaaya
+  Na bhul paauṅ ga bole yeh Maula
+  Laila o Farwa ko the sataate
+  Hans hans ke betoṅ ke sar dikhaate
 
   6
-  Kehte they Shami lehra ke naiza
-  Shehbaz beton ko sehra lagana
-  Hathoon pe unn ke jo mehndi rachana
-  Kehta Asad hai mat bhool jana
+  Kehte the Shaami lehra ke neza
+  Shehbaz betoṅ ko sehra lagaana
+  Haathoṅ pe un ke jo mehndi rachaana
+  Kehta Asad hai mat bhul jaana
 ---
 
 افسوس بن میں لوگوں نے لوٹا قاسم کی مہندی اکبر کا سہرا

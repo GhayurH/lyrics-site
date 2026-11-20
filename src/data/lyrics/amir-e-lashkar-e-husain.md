@@ -15,23 +15,23 @@ romanLyrics: |-
   Hizabr-e-dasht-e-Nainawa Amir-e-lashkar-e-Husain
 
   1
-  Nihang-e-qulzum-e-wagha Amir-e-lashkar-e-Husain
-  Khadang-e-tarkash-e-qaza Amir-e-lashkar-e-Husain
+  Nihang-e-qulzum-e-waghaa Amir-e-lashkar-e-Husain
+  Khadang-e-tarkash-e-qazaa Amir-e-lashkar-e-Husain
   Barang-e-Shah-e-La Fata Amir-e-lashkar-e-Husain
-  Jari diler bawafa Amir-e-lashkar-e-Husain
-  Wafa ba-hadd-e-maujiza Amir-e-lashkar-e-Husain
+  Jari diler bawafaa Amir-e-lashkar-e-Husain
+  Wafaa ba-hadd-e-maujiza Amir-e-lashkar-e-Husain
 
   2
-  Ye Zulfiqar-e-Haidari ye sher-e-besha-e-Najaf
-  Ye tegh-e-tez-e-Hashmi nishaan-e-jurat-e-salaf
+  Ye Zulfiqaar-e-Haidari ye sher-e-besha-e-Najaf
+  Ye tegh-e-tez-e-Haashimi nishaan-e-jurat-e-salaf
   Har ek ka markaz-e-nazar kafil-e-tashnagaan-e-Taf
-  Kinaar-e-nehr-e-Alqama tamaam fauj ka hadaf
+  Kinaar-e-nahr-e-Alqama tamaam fauj ka hadaf
   Kisi se par na ruk saka Amir-e-lashkar-e-Husain
 
   3
   Bahaaduraan-e-safshikan meiṅ is jari ke tazkire
   Dilaawaraan-e-teghzan meiṅ is jari ke tazkire
-  Har ek wafa ki anjuman meiṅ is jari ke tazkire
+  Har ek wafaa ki anjuman meiṅ is jari ke tazkire
   Rasul-e-paak ke chaman meiṅ is jari ke tazkire
   Ghurur-e-Aal-e-Mustafa Amir-e-lashkar-e-Husain
 
@@ -40,11 +40,11 @@ romanLyrics: |-
   Kabhi qarib-e-raahila qarib-e-saarbaaṅ
   Kabhi barha ke aap ko wahaaṅ jahaaṅ ammaariyaaṅ
   Kabhi salaam ke liye huzur-e-Shah-e-ins o jaaṅ
-  Har ek su har ek ja Amir-e-lashkar-e-Husain
+  Har ek su har ek jaa Amir-e-lashkar-e-Husain
 
   5
   Husain ka akhi bhi hai Husain ka ghulaam bhi
-  Husain ki sipar bhi hai tabar bhi hai husaam bhi
+  Husain ki sipar bhi hai tabar bhi husaam bhi
   Husain ki zirah bhi hai kamaaṅ bhi hai sihaam bhi
   Husain hukm deṅ agar to Shimr se kalaam bhi
   Wagarna wo kuja kuja Amir-e-lashkar-e-Husain
@@ -65,7 +65,7 @@ romanLyrics: |-
 
   8
   Ba-tarz-e-khaas sher-e-Haq ba-shakl-e-shahna-e-Najaf
-  Ba-raub o adab-e-Hashmi ba-taur-e-ahd-e-ma-salaf
+  Ba-raub o adab-e-Haashimi ba-taur-e-ahd-e-maa-salaf
   Ba-shadd o madd ba-karr o farr alam ba-dosh sar ba-kaf
   Ulat ke aastin ko jidhar barhe ulat de wasf
   Pisar 'Khuda ke sher' ka Amir-e-lashkar-e-Husain
@@ -78,7 +78,7 @@ romanLyrics: |-
   Dikha de zor-e-La Fata Amir-e-lashkar-e-Husain
 
   10
-  Ishaara-e-Imam ho to fath meiṅ dhara hai kya
+  Ishaara-e-Imaam ho to fath meiṅ dharaa hai kya
   Shuaa-e-mehr ke liye ye Shaam ki ghata hai kya
   Furaat tak na jaane de kisi meiṅ hausla hai kya
   Ali ke sher ke liye ye jang-e-Karbala hai kya
@@ -86,17 +86,17 @@ romanLyrics: |-
 
   11
   Yazid-e-badnihaad se sukun-e-zaat chhin le
-  Muhaafizin-e-nehr se haq-e-hayaat chhin le
-  Jo marzi-e-Imam ho abhi Furaat chhin le
+  Muhaafizin-e-nahr se haq-e-hayaat chhin le
+  Jo marzi-e-Imaam ho abhi Furaat chhin le
   Furaat kya hai ye wo hai ke kaainaat chhin le
   Bara buland hausla Amir-e-lashkar-e-Husain
 
   12
   Magar yahaaṅ to hukm hai ke bas Ali ke sher bas
   Husain apni zindagi se ho chuka hai ser bas
-  Qarib-e-waqt-e-asr hai bas ab mere diler bas
+  Qarib-e-waqt-e-asr hai bas ab mire diler bas
   Hamaare kuch meiṅ kahiṅ mazid ho na der bas
-  Karega taaba ke wagha Amir-e-lashkar-e-Husain
+  Karega taa ba ke waghaa Amir-e-lashkar-e-Husain
 ---
 
 ہژبرِ دشتِ نینوا امیرِ لشکرِ حسینؑ

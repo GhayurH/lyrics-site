@@ -8,139 +8,64 @@ poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Azadaro dua mango, koi aise yateem na ho
-
-  Jaise Sakina yateem hui, Shaam ke Zindaan may
-
-  Jab Sakina ko Baba ka sar mila
-
-  Lipta ke sar ko seenay se, bachi ne yeh kaha
-
-  Kha gaye Shaam ke zindaan may andheray baba
-
+romanLyrics: |-
+  Azadaaro dua maaṅgo, koi aise yatim na ho
+  Jaise Sakina yatim hui
+  Shaam ke zindaan mein jab Sakina ko baba ka sar mila
+  Liptaa ke sar ko sine se, bachchi ne ye kaha
+  Khaa gaye Shaam ke zindaaṅ mein andhere baba
 
   1
-
-  Kisko kehte hay yetimi ye, suna tha maine
-
-  Aap ke baad ye ehsaas hua hay baba
-
+  Kis ko kehte hai yatimi ye suna tha main ne
+  Aap ke baad ye ehsaas hua hai baba
 
   2
-
-  1. Aap ke baad yetimi ki saza paayi hay,
-
-  Etni tanha hun ke saaya hay - na parchaayi hay,
-
-  Rat ro-roke guzarti hay, to din maatam may,
-
-  Qaid khane may yuhin saal kata hay baba
-
+  Haae, aap ke baad yatimi ki saza paai hai
+  Itni tanha huṅ ke saaya hai na parchhaai hai
+  Raat ro ro ke guzarti hai to din maatam mein
+  Qaid khaane mein yunhi saal kata hai baba
 
   3
-
-  2. Zindagi meri dukhoon say hay ibarath baba,
-
-  Kaisi qismat ne dikhaayi hay musibath baba,
-
-  Mai jo rotii hun to lagte hay tamache baba,
-
-  Aap ki yaad mei rona bhi saza hay baba
-
+  Haae, zindagi meri dukhoṅ se hai ibaarat baba
+  Kaisi qismat ne dikhaai hai musibat baba
+  Main jo roti huṅ to lagte hain tamaanche baba
+  Aap ki yaad mein rona bhi saza hai baba
 
   4
-
-  Ek majboor yateema par sitam dhaate hai
-
-  Meri taqdeer mein durro ki jafa hai baba
-
-  Kha gaye shaam ke...
-
-  Aap ki tarha se roothe hai ujaale baba
-
+  Haae, ashk aaṅkhoṅ se nikalte hain, lahu kaanoṅ se
+  Ab darindoṅ se nahiṅ khauf hai insaanoṅ se
+  Ek majbur yatima par sitam dhaate hain
+  Meri taqdir mein durroṅ ki jafa hai baba
 
   5
-
-  3. Haey, Ashk aankhoon say nikalte hay, Lahu kaano say,
-
-  Ab darindoon say nahin khauf, hay insaanoo say,
-
-  Ek majbur yetimaa par - sitam dhaate hay,
-
-  Meri taqdeer mai durroon ki jafaa hay baba
-
+  Haae, aap ki tarah se rote hai ujaale baba
+  Kaun zindaan se ab mujh ko nikaale baba
+  Tu ne maaṅga tha duaaoṅ mein Khuda se jis ko
+  Ab wohi beti hai zindaan-e-jafa hai baba
 
   6
-
-  4. Aap ki tarha say rooute hay ujaale baba,
-
-  Kaun zindaan say ab mujko nikale baba,
-
-  Tune mangaa tha duwa-O-mai khuda say jisko,
-
-  Ab wohi beti hay zindaane jaafa hay baba
-
+  Haae, kitne armaan the zindaaṅ se main ghar jaauṅ gi
+  Aisa lagta hai yahiṅ ro ro ke mar jaauṅ gi
+  Ye sitamgaar Sakina ko qabr kya deṅ ge
+  Kya kafan aap ke laashe ko mila hai baba
 
   7
-
-  5. Kitne armaa thay ke zindaan say may ghar jaaungi,
-
-  Aisa lagta hay yehi ro ro ke mar jaungi,
-
-  Ye sitamgaar Sakina ko kafaan kya denge,
-
-  Kya kafan aapke lashe ko mila hay baba
-
+  Haae, baba kehte hain ye zindaaṅ ke andhere mujh se
+  Maut hi aaegi ab mujh ko dilaase dene
+  Meri har saans hi rehti hai sitam ki zad par
+  Aise jine se to marna hi bhala hai baba
 
   8
-
-  6. Haey, Baba kehte hain ye zindaan ke andhere mujh se,
-
-  Maut hi aayegi ab mujh ko, dilaasay denay,
-
-  Meri har saaans hi rehti hay sitam ki zad par,
-
-  Aise jeene say to marna hi bhala hay baba
-
+  Haae, zakhm laakhoṅ hain kaleje mein dikhaauṅ kaise
+  Mujh pe jo bit rahi hai woh bataauṅ kaise
+  Pyaas lagti hai to pi leti huṅ aansu apne
+  Shimr ke durre Sakina ki ghiza hain baba
 
   9
-
-  Aise jeene se to marna hi bhala hai baba
-
-  Zakhm laakhon hai kaleje mein dikhaun kaise
-
-  Mujhpe jo beeth rahi hai wo bataun kaise
-
-
-  10
-
-  Pyaas lagti hai to peeleti hoo aansu apne
-
-  Shimr ke durre sakina ki ghiza hai baba
-
-  Lafz mazhar ne jo likhe hai lahoo rote hai
-
-
-  11
-
-  7. Zakm laakhon hay kalaije may, dikhaun kaise,
-
-  Mujh pe jo beet rahi hay woh bataun kaise,
-
-  Pyaas lagti hay to pilati hun aansoon apne,
-
-  Shimr ke durray Sakina ki ghiza hay baba
-
-
-  12
-
-  8. Lafz MAZHAR ne jo likhay hain, Lahooo roote hain,
-
-  SHADMAN aankh say yun ashk-e-aza behte hain,
-
-  Aisa lagtaa hay ke zindaan say, sada aati hay
-
-  Aisa nawha meri ghurbath pay likha hay Baba'
+  Lafz Mazhar ne jo likhe hain lahu rote hain
+  Shaadmaaṅ aaṅkh se yuṅ ashk-e-aza behte hain
+  Aisa lagta hai ke zindaaṅ se sada aati hai
+  Aisa nauha meri ghurbat pe likha hai baba
 ---
 
 عزادارو دعا مانگو، کوئی ایسے یتیم نہ ہو

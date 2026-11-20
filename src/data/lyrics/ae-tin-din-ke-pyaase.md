@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Ojhal har ek sahaara aankhoṅ se ho gaya hai
   Abbas bhi sidhaare Akbar bhi kho gaya hai
-  Had ye hai bezabaaṅ bhi turbat meiṅ so gaya hai
+  Hadd ye hai bezabaaṅ bhi turbat meiṅ so gaya hai
   Ghar tera lut gaya hai aabaad Karbala hai
 
   4
@@ -66,7 +66,7 @@ romanLyrics: |-
   Ek do pahar meiṅ tujh par kya kya sitam hue haiṅ
   Sharminda tere aage duniya ke gham hue haiṅ
   Ab tak tere masaaib tahrir kam hue haiṅ
-  Jo dil pe tere guzri wo kaun likh saka hai
+  Jo dil pe tere guzri woh kaun likh saka hai
 
   10
   Masruf-e-gham hai kab se ye kaainaat saari

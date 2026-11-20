@@ -16,18 +16,18 @@ romanLyrics: |-
 
   1
   Laasha maiṅ akele hi uthaauṅ ga tumhaara
-  Ghairoṅ se tera laasha maiṅ uthwa nahiṅ sakta
+  Ghairoṅ se tera laasha maiṅ uthwaa nahiṅ sakta
 
   2
   Laachaar hai Sajjad se kiuṅ ruth gayi tum
-  Bimaar gohar aap ke dilwa nahiṅ sakta
+  Bimaar gohar aap ke dilwaa nahiṅ sakta
 
   3
   Tum qabr meiṅ aaraam karo baali Sakina
   Ab saath maiṅ ghar le ke tumheiṅ jaa nahiṅ sakta
 
   4
-  Behna inhi kaproṅ meiṅ tumheiṅ dafn karuṅ ga
+  Behna inhiṅ kaproṅ meiṅ tumheiṅ dafn karuṅ ga
   Majbur huṅ nanha sa kafan laa nahiṅ sakta
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Taabut uthaane ko na Akbar hai na Abbas
-  Maiṅ ahl-e-watan ko yahaaṅ bulwa nahiṅ sakta
+  Maiṅ ahl-e-watan ko yahaaṅ bulwaa nahiṅ sakta
 
   7
   Maiṅ kaise khabar duṅ tere marne ki padar ko

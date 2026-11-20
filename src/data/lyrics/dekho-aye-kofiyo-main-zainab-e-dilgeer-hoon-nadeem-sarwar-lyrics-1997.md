@@ -8,90 +8,52 @@ poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Dekho Aye Kofiyo Main Zainab-e-Dilgeer Hoon Nadeem Sarwar Lyrics 1997"
-romanLyrics: 'Dekho Aye Kofiyo Main Zainab-e-Dilgeer Hoon Nadeem Sarwar.
-
-  Sar Nangay Mujhe Kyun Hai Phiraya Main Waris-e-Tatheer Hoon.
-
+alternateTitle: "Dekho Ae Kufiyoṅ Main Zainab-e-Dilgir Huṅ"
+romanLyrics: |-
+  Dekho ae Kufiyoṅ main Zainab-e-dilgir huṅ
 
   1
-
-  Sar nange mujhe kyun hai phiraya
-
-  Mai waaris e tatheer hoo
-
-  Aale ahmed ka tamasha dekhne aaye ho kyun
-
-  Apni ghairat ka janaza dekhne aaye ho kyun
-
-  Bebadan naizon pe laasha dekhne aaye ho kyun
-
-  Mai usi mazloom e karbal ki dukhi hamsheer hoo
-
+  Sar nange mujhe kiuṅ hai phiraya
+  Main waaris-e-tathir huṅ
+  Aal-e-Ahmad ka tamasha dekhne aaye ho kiuṅ
+  Apni ghairat ka janaza dekhne aaye ho kiuṅ
+  Be badan nezoṅ pe laasha dekhne aaye ho kiuṅ
+  Main usi mazluma-e-Karbal ki dukhi hamshir huṅ
 
   2
-
-  Jis Ka Sajdah Qalb-e-Yazdaan Mein Samaya Woh Hussain.
-
-  Gir Ke Ghorey Se Zameen Par Jo Na Aaya Woh Hussain.
-
-  Sar Pe Apne Jis Ko Teeron Ne Uthaya Woh Hussain.
-
-  Main Ossi Mazloom-e-Karbal Ki Dukhi Humsheer Hoon.
-
+  Jis ka sajda qalb-e-Yazdaaṅ mein samaya woh Husain
+  Gir ke ghore pe zamiṅ par jo na aaya woh Husain
+  Sar pe apne jis ko tiroṅ ne uthaya woh Husain
 
   3
-
-  Pochtay Ho Mujh Se Roney Ka Sabab Ahl-e-Jafa.
-
-  Hain Tumhari Aurtein Parday Mein Our Mein Be Rida.
-
-  Mere Bachay Mera Bhai Be Khata Mara Gaya.
-
+  Puchhte ho mujh se rone ka sabab ahl-e-jafa
+  Hai tumhari aurateṅ parde mein aur main be rida
+  Mere bachche mera bhai be khata maara gaya
 
   4
-
-  Be Kafan Jalti Zameen Par Aaj Bhi Sota Hai Jo.
-
-  Ashk Ki Khaiti Zameen Par Aaj Bhi Bota Hai Jo.
-
-  Be Ridai Par Meri Naizay Pe Bhi Rota Hai Jo.
-
+  Be kafan jalti zamiṅ par aaj bhi sota hai jo
+  Ashk ke kheti zamiṅ par aaj bhi rota hai jo
+  Be ridai par meri neze pe bhi rota hai jo
 
   5
-
-  Woh Pas-e-Gardan Se Jis Ko Terah Zarbain Mar Kar.
-
-  Kaat Ke Sar Lash-e-Be Sar Chor Di Thi Khak Par.
-
-  Phir Ossi Ki Lash Par Le Aaye Mujh Ko Nangay Sar.
-
+  Woh pas-e-gardan se jis ko terah zarbeṅ maar kar
+  Kaat ke sar laash-e-be sar chhor di thi khaak par
+  Phir usi ki laash par le aaye mujhko nange sar
 
   6
-
-  Jis Ka Ghazi So Gaya Darya Kinaray Tashna Lab.
-
-  Kat Gaye Bazu Jarri Ke Our Kya Ho Ga Ghazab.
-
-  Be Rida Main Ho Gayi Hoon Jis Ke Marne Ke Sabab.
-
+  Jis ka Ghazi so gaya darya kinare tashna lab
+  Kat gaye baazu jari ke aur kya hoga ghazab
+  Be rida main ho gayi huṅ jis ke marne ke sabab
 
   7
-
-  Borhay Kandhoon Par Utha Kar Laya Jo Akbar Ki Lash.
-
-  Dafan Kar Di Jis Ne Jalti Khak Mein Asghar Ki Lash.
-
-  Be Kafan Be Goor Hai Jis Shah-e-Behro Bar Ki Lash.
-
+  Borhe kaandhoṅ par utha kar laya jo Akbar ki laash
+  Dafn kar di jis ne jalti khaak mein Asghar ki laash
+  Be kafan be gor hai jis shah-e-bahr o bar ki laash
 
   8
-
-  Sham Ke Darbar Mein Rehan Thi Aah-o-Boka.
-
-  Be Kafan Bhai Ki Be Chadar Behan Ne Jab Kaha.
-
-  Aye Khuda-e-Lam Yazal Be Goor Hai Bhai Mera.'
+  Shaam ke darbar mein Rehan thi aah o buka
+  Be kafan bhai ki be chadar behan ne jab kaha
+  Ae Khuda-e-Lam Yazal be gor hai bhai mera
 ---
 
 دیکھو اے کوفیوں میں زینب دلگیر ہوں

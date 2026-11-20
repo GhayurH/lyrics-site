@@ -1,38 +1,66 @@
 ---
-title: "Haye Beemar Musafir Di Kariyaan Ne Wain Aye Paye Lyrics In Punjabi 2020"
+title: "ہائے بیمار مسافر دی کڑیاں نے وین آئے پئے"
+alternateTitle: "Haye Beemar Musafir Di Kariyaan Ne Wain Aye Paye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Baqir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye beemar musafir di kariyaan ne wain aye paye
+  Bin chadar phophiyaan naal koi ainu naa bazar phiraye
+
+  1
+  Aye Sham de loko wekh lo Sardar-e-Imamat aaya aye Zainab nu naal liya aye
+  Ainay sare rastay Zainab de mitiyaan nal waal chupaye
+  Zahra jayi nu majmay wich le le ke naam bulanday ray Sajjad nu khon rawanday ray
+  Riya kainda Syed zadiyaan de koi parday aan bachaye
+
+  2
+  Chum chum Abid de seene nu main sara safar guzriya aye jinnay deen tu Akbar wariya aye
+  Akbar de jigar de tukriyaan ne ainu apne zakhm bhulaye
+  Mushkil howay jay turn de wich Maula da bazu tham lawein jay digan lagay te sanbh lawein
+  Mainu Haider di zanjeeraan ne aye sare sabaq parhaye
+
+  3
+  Kadi digda aye kadi uthda aye ro ro ke hawaan bharda aye Ghazi de sir wal takda aye
+  Jadon Shimar bharay bazar de wich ainu kharij aakh bulaye
+  Khaliq di wasdi dunya te Sabir Sajjad siwa koi nayi aiday warga hoor bhira koi nayi
+  Wich kariyaan de jehra bhaini nu zindan de wich dafnaye
+
+  4
+  Sun ke aye noha kariyaan da kiya Abid ne majboor haan main lekin tera mashkor haan main
+  Babay de dard wandaye main taun mere dard wandaye
+  Baqir babay di lash uttay kehya Baqir qaidi so gaya aye band lao akhiyaan da ho gaya aye
+  Chali salaan de jagay nu hun fair na koi jagaye
 ---
 
-Haye Beemar Musafir Di Kariyaan Ne Wain Aye Paye.
-Bin Chadar Phophiyaan Naal Koi Ainu Naa Bazar Phiraye.
+ہائے بیمار مسافر دی کڑیاں نے وین آئے پئے
+بن چادر پھپھیاں نال کوئی اینوں نہ بازار پھرائے
 
-1
-Aye Sham De Loko Wekh Lo Sardar-e-Imamat Aaya Aye Zainab Nu Naal Liya Aye.
-Ainay Sare Rastay Zainab De Mitiyaan Nal Waal Chupaye.
-Zahra Jayi Nu Majmay Wich Le Le Ke Naam Bulanday Ray Sajjad Nu Khon Rawanday Ray.
-Riya Kainda Syed Zadiyaan De Koi Parday Aan Bachaye.
+۱
+اے شام دے لوکو ویکھ لو سردارِ امامت آیا اے زینب نوں نال لیا اے
+اینے سارے رستے زینب دے مٹیاں نال وال چھپائے
+زہرا جائی نوں مجمعے وچ لے لے کے نام بلاندے رہے سجاد نوں خون رواندے رہے
+ریہا کہندا سید زادیاں دے کوئی پردے آں بچائے
 
-2
-Chum Chum Abid De Seene Nu Main Sara Safar Guzriya Aye Jinnay Deen Tu Akbar Wariya Aye.
-Akbar De Jigar De Tukriyaan Ne Ainu Apne Zakhm Bhulaye.
-Mushkil Howay Jay Turn De Wich Maula Da Bazu Tham Lawein Jay Digan Lagay Te Sanbh Lawein.
-Mainu Haider Di Zanjeeraan Ne Aye Sare Sabaq Parhaye.
+۲
+چم چم عابد دے سینے نوں میں سارا سفر گزریا اے جِنّے دن توں اکبر واریا اے
+اکبر دے جگر دے ٹکڑیاں نے اینوں اپنے زخم بھلائے
+مشکل ہووے جے ترن دے وچ مولا دا بازو تھم لویں جے ڈگن لگے تے سنبھ لویں
+مینوں حیدر دی زنجیراں نے اے سارے سبق پڑھائے
 
-3
-Kadi Digda Aye Kadi Uthda Aye Ro Ro Ke Hawaan Bharda Aye Ghazi De Sir Wal Takda Aye.
-Jadon Shimar Bharay Bazar De Wich Ainu Kharij Aakh Bulaye.
-Khaliq Di Wasdi Dunya Te Sabir Sajjad Siwa Koi Nayi Aiday Warga Hoor Bhira Koi Nayi.
-Wich Kariyaan De Jehra Bhaini Nu Zindan De Wich Dafnaye.
+۳
+کدی ڈگدا اے کدی اٹھدا اے رو رو کے ہاواں بھردا اے غازی دے سر ول تکدا اے
+جدوں شمر بھرے بازار دے وچ اینوں خارج آکھ بلائے
+خالق دی وسدی دنیا تے صابر سجاد سوا کوئی نئیں ایہدے ورگا ہور بھرا کوئی نئیں
+وچ کڑیاں دے جیہڑا بھینی نوں زندان دے وچ دفنائے
 
-4
-Sun Ke Aye Noha Kariyaan Da Kiya Abid Ne Majboor Haan Main Lekin Tera Mashkor Haan Main.
-Babay De Dard Wandaye Main Taun Mere Dard Wandaye.
- Baqir Babay Di Lash Uttay Kehya Baqir Qaidi So Gaya Aye Band Lao Akhiyaan Da Ho Gaya Aye.
-Chali Salaan De Jagay Nu Hun Fair Na Koi Jagaye.
+۴
+سن کے اے نوحہ کڑیاں دا کیا عابد نے مجبور ہاں میں لیکن تیرا مشکور ہاں میں
+بابے دے درد ونڈائے میں توں میرے درد ونڈائے
+باقر بابے دی لاش اُتے کہیا باقر قیدی سو گیا اے بند لاؤ اکھیاں دا ہو گیا اے
+چالی سالاں دے جاگے نوں ہن فیر نہ کوئی جگائے

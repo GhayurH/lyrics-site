@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ek khwaab mein dekha kisi aalim ne ye manzar
+  Ik khwaab mein dekha kisi aalim ne ye manzar
   Kehta hai koi qarz mera zikr hai tum par
   Mazlumi-e-Abbas bayaṅ kiuṅ nahiṅ karte
   Tum log kabhi mere masaaib nahiṅ parhte
@@ -63,13 +63,13 @@ romanLyrics: |-
   Jhula jo jhulaate the madad ke liye aayeṅ
 
   8
-  Dushman mere aaqa ke yahaṅ saare laiṅ haiṅ
-  Kuch der ke mehmaan haiṅ ham khaak nashiṅ haiṅ
+  Dushman mere aaqa ke yahaṅ saare la'iṅ haiṅ
+  Kuchh der ke mehmaan haiṅ ham khaak nashiṅ haiṅ
   Jo haath gire kat ke tarapte wo wohi haiṅ
   Main kaise dua maanguṅ mere haath nahiṅ haiṅ
 
   9
-  Ek sar se baha khun ka darya hai zamiṅ tak
+  Ik sar se baha khun ka darya hai zamiṅ tak
   Bin haathoṅ ke Abbas ko aana hai zamiṅ tak
   Zehra ka Qamar kis tarah pahuncha hai zamiṅ tak
   Ae pusht-e-faras faasla kitna hai zamiṅ tak

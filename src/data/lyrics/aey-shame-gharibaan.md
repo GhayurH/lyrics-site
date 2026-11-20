@@ -1,6 +1,6 @@
 ---
 title: "اے شام غریباں"
-alternateTitle: "Aey Shame Gharibaan"
+alternateTitle: "Ae Shaam-e-Gharibaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,47 +9,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey shame gharibaan
-  Ro ro ke fughan karti thi yeh saniye Zehra
+  Ae Shaam-e-Gharibaaṅ
+  Ro ro ke fughaaṅ karti thi yeh saani-e-Zehra
 
   1
-  Is dashte me maara gaya,  bhai mera pyaasa
+  Is dasht mein maara gaya, bhaai mera pyaasa
 
   2
-  Kehti thi khari madare Asghar ye tarap kar, maara gaya Asghar
-  Veeran hay haey meray,  shehzaday ka jhula
+  Kehti thi khari maadar-e-Asghar yeh tarap kar, maara gaya Asghar
+  Viraan hai haaye mere, shehzaade ka jhula
 
   3
-  Laila nay kaha haey may arman barhati, usay dulha banati
-  Tha sher sa beta mera,  athara baras ka
+  Laila ne kaha haaye main armaan barhaati, use dulha banaati
+  Tha sher sa beta mera, athaarah baras ka
 
   4
-  Nauha ye Sakina ka tha dur chin gaye meray, lagtay hain tamache
-  Jaakar mere ammu ko,  bataa dain labe darya
+  Nauha yeh Sakina ka tha durr chhin gaye mere, lagte haiṅ tamaanche
+  Jaa kar mere ammu ko, bataa deiṅ lab-e-darya
 
   5
-  Bas baba ke sine hi pe soti hay sakina, batla day khudaara
-  Is ban may kahaa dhundhu,  kaha hay mere baba
+  Bas baba ke sine hi pe soti hai Sakina, batla de khudaara
+  Is ban mein kahaaṅ dhunduṅ, kahaaṅ haiṅ mere baba
 
   6
-  Khouf aata hay masuma ko shaq hota hay seena, darti hay Sakina
-  Kiyun barhta hay is dashte,  bayabaa may andhera
+  Khauf aata hai Maasuma ko shaq hota hai sina, darti hai Sakina
+  Kiuṅ barhta hai is dasht-e-bayabaaṅ mein andhera
 
   7
-  Jaakar mere nana ko khabar karde watan may, may lut gaye ban me
-  Maqtal may hay be goro kafan,  unka nawasa
+  Jaa kar mere nana ko khabar kar de watan mein, main lut gai ban mein
+  Maqtal mein hai be gor o kafan, un ka nawaasa
 
   8
-  Kal shaadi hui aur sitam aaj ye dekha, bewa hui Kubra
-  Ghar lut gaya maara gaya,  ek raat ka dulha
+  Kal shaadi hui aur sitam aaj yeh dekha, bewa hui Kubra
+  Ghar lut gaya maara gaya, ek raat ka dulha
 
   9
-  Aaya na palat kar mera Abbase dilaawar, chin jaayegi chaadar
-  Ab koi gariboon kaa,  nahi poochnay waala
+  Aaya na palat kar mera Abbaas-e-dilaawar, chhin jaaye gi chaadar
+  Ab koi ghariboṅ ka, nahiṅ puchhne waala
 
   10
-  Khud jis pay mujhe naaz tha kal sham thi aisi, aur ab ye gharibi
-  Athara mere bhaayi thay,  our ab hoon may tanha
+  Khud jis pe mujhe naaz tha kal shaam thi aisi, aur ab yeh gharibi
+  Athaarah mere bhaai the, aur ab huṅ main tanha
 ---
 
 اے شامِ غریباں

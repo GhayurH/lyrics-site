@@ -1,36 +1,62 @@
 ---
-title: "Matami Hoon Mera Karbala Hai Watan"
+title: "ماتمی ہوں میرا کربلا ہے وطن"
+alternateTitle: "Matami Hoon Mera Karbala Hai Watan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Matami hoon mera Karbala hai watan
+  De raha hai gawahi mera pak pan
+  Mere seene pe matam ki qandeel hai
+  Behar-e-imdad Malay-e-Jibreel hai
+  Ho nahi sakti meri lahad mein ghutan
+  Dar haqeeqat hoon main Fatima ki dua
+  Meri takhleeq ka hai sabab Karbala
+  Mera maqsad hai bas zikar-e-Shah-e-Zaman
+  Misal-e-Meesum sana khuwan-e-Haider hoon main
+  Hur ki tarha aqeedat ka lashkar hoon main
+  Meri ghairat ka zewar hain dar-o-rasan
+  Kis ki himat jo matam ko roke bhala
+  Main Hussaini hoon aaye kare samna
+  Jaan bakaf hoon khara sar pe bandhe kafan
+  Sheh ke gham ne yeh aousaaf bakhshe mujhe
+  Misal-e-gohar hain nayaab aanso mere
+  Qatra-e-khon hai mera lal-e-Yuman
+  Pochta hai jahan deen-o-mazhab mera
+  Iss se behtar taruf karaon main kya
+  Mujh ko kehte hain hubdar-e-Khaiber shikan
+  Main ne Bab-e-Hawaij pe sajda kiya
+  Mere Mula ne Yasir karam kar diya
+  Mujh ko khairat mein de diye sare fun
 ---
 
-1
-Matami Hoon Mera Karbala Hai Watan.
-De Raha Hai Gawahi Mera Pak Pan.
-Mere Seene Pe Matam Ki Qandeel Hai.
-Behar-e-Imdad Malay-e-Jibreel Hai.
-Ho Nahi Sakti Meri Lahad Mein Ghutan.
-Dar Haqeeqat Hoon Main Fatima Ki Dua.
-Meri Takhleeq Ka Hai Sabab Karbala.
-Mera Maqsad Hai Bas Zikar-e-Shah-e-Zaman.
-Misal-e-Meesum Sana Khuwan-e-Haider Hoon Main.
-Hur Ki Tarha Aqeedat Ka Lashkar Hoon Main.
-Meri Ghairat Ka Zewar Hain Dar-o-Rasan.
-Kis Ki Himat Jo Matam Ko Roke Bhala.
-Main Hussaini Hoon Aaye Kare Samna.
-Jaan Bakaf Hoon Khara Sar Pe Bandhe Kafan.
-Sheh Ke Gham Ne Yeh Aousaaf Bakhshe Mujhe.
-Misal-e-Gohar Hain Nayaab Aanso Mere.
-Qatra-e-Khon Hai Mera Lal-e-Yuman.
-Pochta Hai Jahan Deen-o-Mazhab Mera.
-Iss Se Behtar Taruf Karaon Main Kya.
-Mujh Ko Kehte Hain Hubdar-e-Khaiber Shikan.
-Main Ne Bab-e-Hawaij Pe Sajda Kiya.
-Mere Mula Ne Yasir Karam Kar Diya.
-Mujh Ko Khairat Mein De Diye Sare Fun.
+۱
+ماتمی ہوں میرا کربلا ہے وطن
+دے رہا ہے گواہی میرا پاک پن
+میرے سینے پہ ماتم کی قندیل ہے
+بہرِ امداد ملائے جبرئیل ہے
+ہو نہیں سکتی میری لحد میں گھٹن
+در حقیقت ہوں میں فاطمہ کی دعا
+میری تخلیق کا ہے سبب کربلا
+میرا مقصد ہے بس ذکرِ شاہِ زمن
+مثالِ میثم ثنا خوانِ حیدر ہوں میں
+حُر کی طرح عقیدت کا لشکر ہوں میں
+میری غیرت کا زیور ہیں دار و رسن
+کس کی ہمت جو ماتم کو روکے بھلا
+میں حسینی ہوں آئے کرے سامنا
+جاں بکف ہوں کھڑا سر پہ باندھے کفن
+شہ کے غم نے یہ اوصاف بخشے مجھے
+مثالِ گوہر ہیں نایاب آنسو میرے
+قطرۂ خوں ہے میرا لعلِ یمن
+پوچھتا ہے جہاں دین و مذہب میرا
+اس سے بہتر تعارف کراؤں میں کیا
+مجھ کو کہتے ہیں حب دارِ خیبر شکن
+میں نے بابِ حوائج پہ سجدہ کیا
+میرے مولا نے یاسر کرم کر دیا
+مجھ کو خیرات میں دے دیے سارے فن

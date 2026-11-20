@@ -22,44 +22,44 @@ romanLyrics: |-
   Tu na aaya bhaiya ae mere sher Abbas
 
   2
-  Aag khaimoṅ meiṅ lainoṅ ne laga di aakar
-  Durre barsaye Sakina pe yehi keh keh kar
+  Aag khaimoṅ mein lainoṅ ne laga di aakar
+  Durre barsaaye Sakina pe yehi keh keh kar
   Kahaṅ hai ab tera chacha ae ghamzada ae ghamzada
   Ab kahaṅ hai saqqa ae mere sher Abbas
 
   3
-  Shimr ne baali Sakina ko tamache maare
+  Shimr ne baali Sakina ko tamaanche maare
   Aur mere saamne maasum ke chhine bunde
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Kuchh na bas mera chala ae mere sher Abbas
 
   4
-  Mere Ghazi mere haathoṅ meiṅ bandhi jab rassi
-  Sar jhuka kar ke bahut der tak talak maiṅ royi
+  Mere Ghazi mere haathoṅ mein bandhi jab rassi
+  Sar jhuka kar ke bahut der tak talak main royi
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Rukh su-e-darya tha ae mere sher Abbas
 
   5
-  Ek rassi meiṅ gala sab ka bandha tha bhai
-  Haal us waqt Sakina ka juda tha bhai
+  Ek rassi mein gala sab ka bandha tha bhaai
+  Haal us waqt Sakina ka juda tha bhaai
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Us ka dam ghutta tha ae mere sher Abbas
 
   6
-  Jab tera khaali alam khun meiṅ duba aaya
-  Maiṅ usi waqt se ye jaan gayi ae bhaiya
+  Jab tera khaali alam khun mein duba aaya
+  Main usi waqt se ye jaan gayi ae bhaiya
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Ab to bas hogi jafa ae mere sher Abbas
 
   7
-  Mere ghayyur wafadaar mere shaidai
+  Mere ghayyur wafadaar mere shaidaai
   Ro rahi thi meri ghurbat pe meri tanhaai
   Ae bawafa ae bawafa ae bawafa ae bawafa
-  Haṅs rahe the aada ae mere sher Abbas
+  Hans rahe the aada ae mere sher Abbas
 
   8
   Us ghari mere kaleje se nikalta tha dhuaaṅ
-  Jab laiṅ kehte the atharah baradar hai kahaṅ
+  Jab laiṅ kehte the athaarah baraadar hai kahaṅ
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Dil bahut rota tha ae mere sher Abbas
 
@@ -70,7 +70,7 @@ romanLyrics: |-
   Jab khula sar mera ae mere sher Abbas
 
   10
-  Hum ko jab Shaam ke bazaar meiṅ maare patthar
+  Hum ko jab Shaam ke bazaar mein maare patthar
   Aur dahakte hue angaare jo daale hum par
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Tu bahut yaad aaya ae mere sher Abbas

@@ -22,13 +22,13 @@ romanLyrics: |-
 
   2
   Naizoṅ se jab utaara chaadar ko zaalimoṅ ne
-  Baaloṅ se muṅh chhupaaya Zahra ki betiyoṅ ne
+  Baaloṅ se muṅh chhupaaya Zehra ki betiyoṅ ne
   Jo baani-e-rida thi wo aaj berida hai
 
   3
   Athaara bhaaiyoṅ ke halqe meiṅ thi jo har pal
   Aur saaye meiṅ alam ke rahti thi jo musalsal
-  Chalti hai nange pa wo purkhaar raasta hai
+  Chalti hai nange paa wo purkhaar raasta hai
 
   4
   Ik waqt tha ke shaahi Kufe meiṅ kar rahi thi

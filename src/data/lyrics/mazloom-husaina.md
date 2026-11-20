@@ -1,7 +1,7 @@
 ---
 title: "ان شب شب ماتم حسینا"
 recitationId: "mazloom-hussaina"
-alternateTitle: "Mazloom Husaina"
+alternateTitle: "Mazlum Husaina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  In shab shab-e-matam-e-Husaina
+  In shab shab-e-maatam-e-Husaina
   Lachaar lachaar lachaar Husaina
 
   1
@@ -19,9 +19,9 @@ romanLyrics: |-
   Lachaar Husaina lachaar Husaina
 
   2
-  Jo kar na saki bhai ka didar wo behna
+  Jo kar na saki bhai ka didaar wo behna
   Mazlum Husaina mazlum Husaina
-  Baba tha jiska Haidar-e-Karrar wo behna
+  Baaba tha jiska Haidar-e-Karraar wo behna
   Mazlum Husaina mazlum Husaina
   Har gaam pe thi bhai ki ghamkhwar wo behna
   Mazlum Husaina mazlum Husaina

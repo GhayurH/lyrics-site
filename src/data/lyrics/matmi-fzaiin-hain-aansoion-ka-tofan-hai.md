@@ -8,63 +8,39 @@ poet: "Shahid Jafer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Matmi fazayein hain aansuon ka toofan hai
-
+romanLyrics: |-
+  Maatami fazaaeṅ haiṅ aansuoṅ ka tufaan hai
 
   1
-
-  Dastak-e-ajal sun kar zindagi hirasa hai
-
-  Har taraf udaasi hai har nigah veraan hai
-
-  Aur masjid-e-kufa farte gham se larza hai
-
-  Matami fazayein....
-
+  Dastak-e-ajal sun kar zindagi haraasaaṅ hai
+  Har taraf udaasi hai har nigaah viraaṅ hai
+  Aur masjid-e-Kufa fart-e-gham se larzaaṅ hai
+  Maatami fazaaeṅ haiṅ aansuoṅ ka tufaaṅ hai
 
   2
-
-  Aaj gir gaya hoga phir ghilaaf kaabe se
-
-  Beh raha hai khoon payham shah ke amamay se
-
-  Zakhme farq-e-haider ka ab khuda nigehban hai
-
+  Aaj gir gaya hoga phir ghilaaf-e-Kaaba se
+  Bah raha hai khun paiham shaah ke amaame se
+  Zakhm-e-farq-e-Haidar ka ab Khuda nigahbaaṅ hai
 
   3
-
-  Zakhm itna kaari hai chal na paogay maula
-
-  Ghar bhi jald jaana hai aagayi geleem aaqa
-
-  Dar pe muntazir zainab muztar-o-pareshan hai
-
+  Zakhm itna kaari hai chal na paaoge Maula
+  Ghar bhi jald jaana hai aa gai qalim aaqa
+  Dar pe muntazir Zainab muztar o pareshaaṅ hai
 
   4
-
-  Fikr-e-karbala may gum hai ali sar-e-bistar
-
-  Ghaliban nigahon may hai koi tah-e-khanjar
-
-  Dekh kar suye abbas chashm-e-shah giryaan hai
-
+  Fikr-e-Karbala mein gum hai Ali sar-e-bistar
+  Ghaaliban nigaahoṅ mein hai koi tah-e-khanjar
+  Dekh kar su-e-Sarwar chashm-e-shaah giryaaṅ hai
 
   5
-
-  Hai girya kuna kufay be-pidar hui zainab
-
-  Aaj ghar ke aangan may nangay sar hui zainab
-
-  Kal jo honay wala hai aaj say numayaa hai
-
+  Ae wafa shikan Kufe bepidar hui Zainab
+  Aaj ghar ke aangan mein nange sar hui Zainab
+  Kal jo hone wala hai aaj se numayaaṅ hai
 
   6
-
-  Itrat-e-payambar par saazisho ke ghayray hai
-
-  Bujh gaya chiraagh aakhir har taraf andheray hai
-
-  Chandgaam par shahid karbala ka maidan hai'
+  Itrat-e-Payambar par saazishoṅ ke ghere haiṅ
+  Bujh gaya charaagh aakhir har taraf andhere haiṅ
+  Chand gaam par Shahid Karbala ka maidaaṅ haiṅ
 ---
 
 ماتمی فضائیں ہیں آنسوئوں کا طوفان ہے

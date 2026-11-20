@@ -1,29 +1,48 @@
 ---
-title: "Faryad-e-Atash Lab Pe Kabhi Laye Sakina"
+title: "فریادِ عطش لب پہ کبھی لائے سکینہ"
+alternateTitle: "Faryad-e-Atash Lab Pe Kabhi Laye Sakina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saifi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Faryad-e-atash lab pe kabhi laye Sakina
+  Kozay ki taraf dekh ke reh jaye Sakina
+  Abbas chacha laein gaye mashkezay mein pani
+  Be-sheer ko keh keh ke yeh behlaye Sakina
+
+  2
+  Bhaiyya ho kahan bali Sakina ki khabar lo
+  Ya rah dikha do keh wahin aaye Sakina
+  Baba mere aa kar mujhe seene se laga lo
+  Zindaan mein begair aap ke ghabraye Sakina
+
+  3
+  Allah re yeh umar yeh ghurbat yeh yateemi
+  Munh dekh ke kehte hain sabhi haye Sakina
+  Jo jata hai woh laut ke aata nahi Saifi
+  Kaise dil-e-nadan ko samjhaye Sakina
 ---
 
-1
-Faryad-e-Atash Lab Pe Kabhi Laye Sakina.
-Kozay Ki Taraf Dekh Ke Reh Jaye Sakina.
-Abbas Chacha Laein Gaye Mashkezay Mein Pani.
-Be-Sheer Ko Keh Keh Ke Yeh Behlaye Sakina.
+۱
+فریادِ عطش لب پہ کبھی لائے سکینہ
+کوزے کی طرف دیکھ کے رہ جائے سکینہ
+عباس چچا لائیں گے مشکیزے میں پانی
+بے شیر کو کہہ کہہ کے یہ بہلائے سکینہ
 
-2
-Bhaiyya Ho Kahan Bali Sakina Ki Khabar Lo.
-Ya Rah Dikha Do Keh Wahin Aaye Sakina.
-Baba Mere Aa Kar Mujhe Seene Se Laga Lo.
-Zindaan Mein Begair Aap Ke Ghabraye Sakina.
+۲
+بھیا ہو کہاں بالی سکینہ کی خبر لو
+یا راہ دکھا دو کہ وہیں آئے سکینہ
+بابا میرے آ کر مجھے سینے سے لگا لو
+زندان میں بغیر آپ کے گھبرائے سکینہ
 
-3
-ALLAH Re Yeh Umar Yeh Ghurbat Yeh Yateemi.
-Munh Dekh Ke Kehte Hain Sabhi Haye Sakina.
-Jo Jata Hai Woh Laut Ke Aata Nahi Saifi.
-Kaise Dil-e-Nadan Ko Samjhaye Sakina.
+۳
+اللہ رے یہ عمر یہ غربت یہ یتیمی
+منہ دیکھ کے کہتے ہیں سبھی ہائے سکینہ
+جو جاتا ہے وہ لوٹ کے آتا نہیں سیفی
+کیسے دلِ ناداں کو سمجھائے سکینہ

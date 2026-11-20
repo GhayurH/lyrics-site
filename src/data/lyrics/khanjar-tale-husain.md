@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Wo hai Husain khun se jis ne wuzu kiya
-  Tiroṅ ki jaanamaaz pe al-ham ki di sada
+  Tiroṅ ki jaa namaaz pe alham di sadaa
   Sajde ko dekh maut bhi hairaan khari hai
 
   2
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ye fauj-e-Husaini hi Karbal meiṅ lari hai
 
   5
-  Din ki bina hai sajda Haidar ke pisar ka
+  Din ki binaa hai sajda Haidar ke pisar ka
   Hai de raha gawaahi ye waqt asr ka
   Bikhra hai laasha ban meiṅ aur dhup kari hai
 ---

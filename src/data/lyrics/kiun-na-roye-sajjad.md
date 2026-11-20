@@ -8,86 +8,50 @@ poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sajjad rehaai paakar bhi, pardes se ghar ko aa kar bhi
-
-  Jab ashk bahate rehte thay, zainab se dukh dekhe na gaye
-
-
-  1
-
-  Ek roz tadap ye poocha, Sajjad tu kab tak royega
-
+romanLyrics: |-
+  Sajjad rihaai paa kar bhi, pardes se ghar ko aa kar bhi
+  Jab ashk bahaate rehte the, Zainab se dukh dekhe na gaye
+  Ek roz tarap kar puchha ye, Sajjad tu kab tak roye ga
   Us waqt mere maula ne kaha
 
+  1
+  Ammaaṅ apne muqaddar par, Sughra ke sawaaloṅ par
+  Kiuṅ na roye Sajjad
 
   2
-
-  Amma apne muqaddar par, Sughra ke saharo par
-
-  Kyun na roye Sajjad
-
+  Ae meri phuphi insaaf tu kar naize pe jo dekhe baap ka sar
+  Ho saath safar mein wo jis ne chira tha Ali Akbar ka jigar
+  Durroṅ ki saza milti ho jahaaṅ bachchoṅ ko ashk bahaane par
 
   3
-
-  1. Aey meri phupi insaf tu kar, naize pe jo dekhe baap ka sar
-
-  Ho saath safar may wo jisne, cheera tha ali akbar ka jigar
-
-  Durron ki saza milti ho jahan bachon ko ashk bahane par
-
+  Tum chhup chhup kar khuṅ roti ho main rouṅ to kiuṅ kehti hai
+  Roya na karo ae laal mere bhaai ko ganwaa kar baithi huṅ
+  Maasum behan ko zindaaṅ mein jo chhor ke tanha aaya ghar
 
   4
-
-  2. Tum chup chup kar khoon roti ho, mai roun ko kyun kehti ho
-
-  Roya na karo ay laal mere bhai ko gawakar baithi hoo
-
-  Masoom behan ko zindan may, jo chor ke tanha aaya ghar
-
+  Naize se gira Abbas ka sar main dekh chuka huṅ wo manzar
+  Darbaar mein main kiuṅ mar na gaya jab naam tumhaara le le kar
+  Kehta tha laiṅ Zainab hai kahaaṅ le aao yahaaṅ par bechaadar
 
   5
-
-  3. Naize se gira abbas ka sar, mai dekh chuka hoo wo manzar
-
-  Darbar may mai kyun mar na gaya, jab naam tumhara le le kar
-
-  Kehta tha layeen zainab hai kahan, le aao yahan par be-chadar
-
+  Sab qatl hue main zinda huṅ bimaar sahi lar sakta tha
+  Sharminda huṅ main Asghar se wo tir-e-sitam se lar to gaya
+  Wo tir mere kiuṅ kar na laga jis tir se ghaayal tha Asghar
 
   6
-
-  4. Sab qatl hue mai zinda tha, bemaar sahi lar sakta tha
-
-  Sharminda hoo mai asghar se, wo teer e sitam se ladh to gaya
-
-  Woh teer mere kyunkar na laga, jis teer se ghayal tha asghar
-
+  Kiuṅ saamne Sughra ke jaauṅ behtar to yahi hai mar jaauṅ
+  Tum zinda ho Akbar na raha wo puchhe to kya batlaauṅ
+  Kya sabr karo kya zabt karuṅ hai zakhm bahut dil ke andar
 
   7
-
-  5. Kyun saamne sughra ke jaun, behtar to yehi hai mar jaun
-
-  Tum zinda ho akbar na raha, wo pooche to kya batlaun
-
-  Kya sabr karo kya zabt karoo, hai zakhm bahot dil ke andar
-
+  Sar tasht mein tha baaba ka rakha aur takht pe qaatil baitha tha
+  Dandaan-e-mubaarak par un ke khush ho ke chhari wo maarta tha
+  Afsos main kuchh bhi kar na saka ab tak hai usi se dard-e-jigar
 
   8
-
-  6. Sar tasht may tha baba ka rakha, aur takht pe qaatil baitha tha
-
-  Dandaane mubarak par unke, khush hoke chari wo maarta tha
-
-  Afsos mai kuch bhi kar na saka, ab tak hai usi se dard e jigar
-
-
-  9
-
-  7. Rehan o Raza rotay rehna, is dehr may hai jab tak jeena
-
-  Nauhon ki azaane de de kar, har shaks se ye kehte rehna
-
-  Be gor o kafan masoom behan, zindan may ho jiske haathon par'
+  Rehan o Raza rote rehna is dahr mein hai jab tak jina
+  Nauhoṅ ki azaaneṅ de de kar har shakhs se ye kehte rehna
+  Be gor o kafan maasum behan zindaan mein ho jis ke haathoṅ par
 ---
 
 سجاد رہائی پا کر بھی،پردیس سے گھر کو آ کر بھی

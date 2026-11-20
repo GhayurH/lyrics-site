@@ -1,35 +1,59 @@
 ---
-title: "Kya Ho Ga Adawat Ka Saboot Iss Se Bara Aur"
+title: "کیا ہو گا عداوت کا ثبوت اس سے بڑا اور"
+alternateTitle: "Kya Ho Ga Adawat Ka Saboot Iss Se Bara Aur"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kya ho ga adawat ka saboot iss se bara aur
+  Quraan mein likha our hai dunya ne parha aur
+  Yeh soch ke maidan mein Haider se ulajhna
+  Lehraye gi talwar tu barse gi qaza aur
+
+  2
+  Dekha nahi iss shan ka andaz-e-atta aur
+  Rahib ne kaha bas mere mula ne kaha aur
+  Janat ki hawaein bhi bohat khoob hain lekin
+  Janat ki hawa aur hai parcham ki hawa aur
+
+  3
+  Ijaz yeh dekha hai faqat Kab-o-Bala mein
+  Hoti hai hawa taiz tu jalta hai diya aur
+  Mufti se kabhi nuskha-e-Islam na lena
+  Hota hai marz our yeh deta hai dawa aur
+
+  4
+  Sajdon ko malak le gaye our ashkon ko Zahra
+  Sajdon ka sila our hai ashkon ka sila aur
+  Betha hon main mimber pe Bilal-e-gham-e-Sarwar
+  Hai kaun zamane mein bhala mujh se bara aur
 ---
 
-1
-Kya Ho Ga Adawat Ka Saboot Iss Se Bara Aur.
-Quraan Mein Likha Our Hai Dunya Ne Parha Aur.
-Yeh Soch Ke Maidan Mein Haider Se Ulajhna.
-Lehraye Gi Talwar Tu Barse Gi Qaza Aur.
+۱
+کیا ہو گا عداوت کا ثبوت اس سے بڑا اور
+قرآن میں لکھا اور ہے دنیا نے پڑھا اور
+یہ سوچ کے میدان میں حیدر سے الجھنا
+لہرائے گی تلوار تو برسے گی قضا اور
 
-2
-Dekha Nahi Iss Shan Ka Andaz-e-Atta Aur.
-Rahib Ne Kaha Bas Mere Mula Ne Kaha Aur.
-Janat Ki Hawaein Bhi Bohat Khoob Hain Lekin.
-Janat Ki Hawa Aur Hai Parcham Ki Hawa Aur.
+۲
+دیکھا نہیں اس شان کا اندازِ عطا اور
+راہب نے کہا بس میرے مولا نے کہا اور
+جنت کی ہوائیں بھی بہت خوب ہیں لیکن
+جنت کی ہوا اور ہے پرچم کی ہوا اور
 
-3
-Ijaz Yeh Dekha Hai Faqat Kab-o-Bala Mein.
-Hoti Hai Hawa Taiz Tu Jalta Hai Diya Aur.
-Mufti Se Kabhi Nuskha-e-Islam Na Lena.
-Hota Hai Marz Our Yeh Deta Hai Dawa Aur.
+۳
+اعجاز یہ دیکھا ہے فقط کرب و بلا میں
+ہوتی ہے ہوا تیز تو جلتا ہے دیا اور
+مفتی سے کبھی نسخۂ اسلام نہ لینا
+ہوتا ہے مرض اور یہ دیتا ہے دوا اور
 
-4
-Sajdon Ko Malak Le Gaye Our Ashkon Ko Zahra.
-Sajdon Ka Sila Our Hai Ashkon Ka Sila Aur.
-Betha Hon Main Mimber Pe Bilal-e-Gham-e-Sarwar.
-Hai Kaun Zamane Mein Bhala Mujh Se Bara Aur.
+۴
+سجدوں کو مَلَک لے گئے اور اشکوں کو زہرا
+سجدوں کا صلہ اور ہے اشکوں کا صلہ اور
+بیٹھا ہوں میں منبر پہ بلالِ غمِ سرور
+ہے کون زمانے میں بھلا مجھ سے بڑا اور

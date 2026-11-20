@@ -1,6 +1,6 @@
 ---
 title: "آ گئی کرب و بلا قافلہ روکو غازی میر حسن میر"
-alternateTitle: "Agayi Karbobala Qafla Roko Ghazi Mir Hasan Mir"
+alternateTitle: "Aa Gayi Karb o Bala Qafila Roko Ghazi Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,64 +10,64 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Rahwar e Hussaini jab thehra our aik qadam aagay na barha
-  Kuch khak utha ke hathoon mein Abbas se yeh maula ne kaha
-  Sar apna yahan katwaein gay iss khak pe hum so jaein gay
-  Aa gayi Karb-o-Bala qafila roko Ghazi
-  Bas safar khatam howa yehi maqtal hai mera qafila roko Ghazi
+  Rahwaar-e-Husaini jab thehra aur ek qadam aage na barha
+  Kuchh khaak utha ke haathoṅ meiṅ Abbas se yeh Maula ne kaha
+  Sar apna yahaaṅ katwaaeṅ ge is khaak pe ham so jaaeṅ ge
+  Aa gayi Karb o Bala, qafila roko Ghazi
+  Bas safar khatam hua, yahi maqtal hai mera, qafila roko Ghazi
 
   1
-  Sun ke Zahra ki boka jan chali jati hai
-  Iss zameen se tu mere khon ki boo aati hai
-  Maa ki aati hai sada dil bhi kehta hai mera
+  Sun ke Zahra ki bukaa jaan chali jaati hai
+  Is zamiṅ se to mere khun ki bu aati hai
+  Maaṅ ki aati hai sada, dil bhi kehta hai mera
   Qafila roko Ghazi
 
   2
-  Apni manzil se kahin aagay nahi jana hai
-  Hum ko Sajjad ne bhai yahin dafnana hai
-  Roti behno se humein yahin hona hai juda
+  Apni manzil se kahiṅ aage nahiṅ jaana hai
+  Ham ko Sajjad ne bhai yahiṅ dafnaana hai
+  Roti behnoṅ se hameiṅ yahiṅ hona hai juda
   Qafila roko Ghazi
 
   3
-  Songh kar khak ko aisi hoi riqqat tari
-  Inna Lillah howa sheh ke labon se jari
-  Sajda e shukar kiya mur ke bhai se kaha
+  Sungh kar khaak ko aisi hui riqqat taari
+  Inna lillah hua shah ke laboṅ se jaari
+  Sajda-e-shukr kiya, mur ke bhai se kaha
   Qafila roko Ghazi
 
   4
-  Yeh zameen paon pakarti hai mere ruk jao
-  Sar khulay aaye they Jibreel abhi ruk jao
-  Aye Sakina ke chacha aa gaya Amar-e-Khuda
+  Yeh zamiṅ paaoṅ pakarti hai mere, ruk jaao
+  Sar khule aae the Jibril abhi, ruk jaao
+  Ae Sakina ke chacha, aa gaya amr-e-Khuda
   Qafila roko Ghazi
 
   5
-  Maqtal-e-Ishq ki jo mangay woh qeemat de do
-  Yeh zameen naam pe hum shakal-e-nabi ke le lo
-  Kaun basta hai yahan poch lo ja ke zara
+  Maqtal-e-ishq ki jo maange woh qimat de do
+  Yeh zamiṅ naam pe ham-shakl-e-Nabi ke le lo
+  Kaun basta hai yahaaṅ, puchh lo ja ke zara
   Qafila roko Ghazi
 
   6
-  Dekho woh chand mujhe aisay hi khum hona hai
-  Iss tarai mein mera bazu qalam hona hai
-  Khoon mein dobay ga yahan ik bhateeji ka chacha
+  Dekho woh chaand, mujhe aise hi kham hona hai
+  Is taraai meiṅ mera baazu qalam hona hai
+  Khun meiṅ dube ga yahaaṅ ik bhatiji ka chacha
   Qafila roko Ghazi
 
   7
-  Naam tum karna raqam sare azadaron ke
-  Iss jagah aaein gay ab qafilay zawwaron ke
-  Mera matam ho ga aaein gay ahl-e-azza
+  Naam tum karna raqam saare azadaaroṅ ke
+  Is jagah aaeṅ ge ab qaafile zawwaaroṅ ke
+  Mera maatam ho ga, aaeṅ ge ahl-e-aza
   Qafila roko Ghazi
 
   8
-  Che mahino se safar mein hai musalsal Asghar
-  Kan mein keh de koi aa gaya ab aakhri ghar
-  Teer khaye ga yahan woh mera mah-e-laqa
+  Chhe mahinoṅ se safar meiṅ hai musalsal Asghar
+  Kaan meiṅ keh de koi, aa gaya ab aakhri ghar
+  Tir khaae ga yahaaṅ woh mera maah-e-laqa
   Qafila roko Ghazi
 
   9
-  Aik woh din tha Takallum keh Ali ki beti
-  Be rida gayarah Muharram ko yahan se jo chali
-  Ro ke deti thi sada dukhtar-e-shair-e-khuda
+  Ek woh din tha Takallum ke Ali ki beti
+  Be rida gyaarah Muharram ko yahaaṅ se jo chali
+  Ro ke deti thi sada dukhtar-e-sher-e-Khuda
   Qafila roko Ghazi
 ---
 

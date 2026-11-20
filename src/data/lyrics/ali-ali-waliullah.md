@@ -1,87 +1,164 @@
 ---
-title: "Ali Ali Waliullah"
+title: "علی علی ولی اللہ"
+alternateTitle: "Ali Ali Waliullah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Joan Rizvi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali Ali Waliullah
+  Ali Ali Asadullah
+  Ali Ali Wajhullah
+
+  1
+  Aaqa Ali imam Ali rahnuma Ali
+  Bekas ka har ghareeb ka mushkil kusha Ali
+  Ahsan maa ka jis ne sikhaya Ali Ali
+  Jis ko Ghadeer mein tha banaya Ali wali
+  Mumkin nahi jahan mein adal-e-Khuda na ho
+  Mushkil ho kainat mein mushkilkusha na ho
+
+  2
+  Biathe howay hain le ke tera naam ya Ali
+  Thehri hoi hai gardish-e-ayyam ya Ali
+  Har subha aisi ho meri har sham ya Ali
+  Teri sana ho mera faqat kam ya Ali
+  Maa ne meri hayat ka saman kar diya
+  Hub-e-Ali ke sath jo parwan kar diya
+
+  3
+  Loh-o-qalam pe aaj bhi qabza Ali ka hai
+  Quran keh raha hai qasida Ali ka hai
+  Kausar Ali ki milk hai Kaba Ali ka hai
+  Masjid mein hain Ali tu musalla Ali ka hai
+  Mazhar Ali se qowat-e-Parwardigar hai
+  De ke Khuda ne bheja isse Zulfiqar hai
+
+  4
+  Hum ne kahan nabi ne pukara hai ya Ali
+  Tofaan mein Nooh ghiray tu kinara hai ya Ali
+  Adam ki toba ka bhi sahara hai ya Ali
+  Marzi-e-rab pe jis ka ijarah hai ya Ali
+  Karne madad ko aaeingay dekho pukar ke
+  Aankhon se apni bugz ka pardah utar ke
+
+  5
+  De ke alam yeh sab ko nabi ne dikha diya
+  Arman pora sab ka nabi ne kara diya
+  Jab kuch na ho saka tu Ali ko bula diya
+  Keh ke rajul alam jo Ali ko thama diya
+  Khaibar ka dar jo kab se khara tha gharor mein
+  Do ungaliyon se aaya Ali ke hazoor mein
+
+  6
+  Mil jaye Zulfiqar tu hum bhi wiga karein
+  Phir bhagne mein hum ne kabhi ibtida karein
+  Bole nabi Ali se taqabul tu na karein
+  Maal-e-ghanimaton pe faqat iktifa karein
+  Islam ko Ali sa wafadar chahiye
+  Jaisa hai hath waisi hi talwar chahiye
+
+  7
+  Sagar utha midhat-e-Haider ki baat hai
+  Nafs-e-rasool fateh Kahibar ki baat hai
+  Yeh tu Batool-e-pak ke shohar ki baat hai
+  Hub-e-Ali ki may tu muqadar ki baat hai
+  Pee le jo aik bar woh Ali muqaam hai
+  Peena jisay halal na peena haram hai
+
+  8
+  Hai kaun jo Ali ke muqabil mein aaye ga
+  Soraj jo doob jaye tu wapis bulaye ga
+  Thokar jo aik maar ke murdah uthaye ga
+  Izn-e-Khuda se kya kya na kar ke dikhaye ga
+  Moajz numa hai mera tu hajat rawa bhi hai
+  Woh tu Nuseriyon ka suna hai Khuda bhi hai
+
+  9
+  Be-khoof zindagi ko beetaya tha iss liye
+  Hub-e-Ali ke sath jo aaya th iss liye
+  Deed-e-Ali ka shoq jo bhaya tha iss liye
+  Khak-e-shifa lahad mein bhi laya tha iss liye
+  Munkir nakeer Joan jo lene lagay hisab
+  Rizvi meri taraf se Ali ne diya jawab
 ---
 
-Ali Ali Waliullah
-Ali Ali Asadullah
-Ali Ali Wajhullah
+علی علی ولی اللہ
+علی علی اسد اللہ
+علی علی وجہ اللہ
 
-1
-Aaqa Ali Imam Ali Rahnuma Ali
-Bekas Ka Har Ghareeb Ka Mushkil Kusha Ali
-Ahsan Maa Ka Jis Ne Sikhaya Ali Ali
-Jis Ko Ghadeer Mein Tha Banaya Ali Wali
-Mumkin Nahi Jahan Mein Adal-e-Khuda Na Ho
-Mushkil Ho Kainat Mein Mushkilkusha Na Ho
+۱
+آقا علی امام علی رہنما علی
+بے کس کا ہر غریب کا مشکل کشا علی
+احسان ماں کا جس نے سکھایا علی علی
+جس کو غدیر میں تھا بنایا علی ولی
+ممکن نہیں جہاں میں عدلِ خدا نہ ہو
+مشکل ہو کائنات میں مشکل کشا نہ ہو
 
-2
-Biathe Howay Hain Le Ke Tera Naam Ya Ali
-Thehri Hoi Hai Gardish-e-Ayyam Ya Ali
-Har Subha Aisi Ho Meri Har Sham Ya Ali
-Teri Sana ho Mera Faqat Kam Ya Ali
-Maa Ne Meri Hayat Ka Saman Kar Diya
-Hub-e-Ali Ke Sath Jo Parwan Kar Diya
+۲
+بیٹھے ہوئے ہیں لے کے تیرا نام یا علی
+ٹھہری ہوئی ہے گردشِ ایام یا علی
+ہر صبح ایسی ہو میری ہر شام یا علی
+تیری ثنا ہو میرا فقط کام یا علی
+ماں نے میری حیات کا سامان کر دیا
+حبِ علی کے ساتھ جو پروان کر دیا
 
-3
-Loh-o-Qalam Pe Aaj Bhi Qabza Ali Ka Hai
-Quran Keh Raha Hai Qasida Ali ka Hai
-Kausar Ali Ki Milk Hai Kaba Ali Ka Hai
-Masjid Mein Hain Ali Tu Musalla Ali Ka Hai
-Mazhar Ali Se Qowat-e-Parwardigar Hai
-De Ke Khuda Ne Bheja Isse Zulfiqar Hai
+۳
+لوح و قلم پہ آج بھی قبضہ علی کا ہے
+قرآن کہہ رہا ہے قصیدہ علی کا ہے
+کوثر علی کی ملک ہے کعبہ علی کا ہے
+مسجد میں ہیں علی تو مصلیٰ علی کا ہے
+مظہر علی سے قوتِ پروردگار ہے
+دے کے خدا نے بھیجا اسے ذوالفقار ہے
 
-4
-Hum Ne Kahan Nabi Ne Pukara Hai Ya Ali
-Tofaan Mein Nooh Ghiray Tu Kinara Hai Ya Ali
-Adam Ki Toba Ka Bhi Sahara Hai Ya Ali
-Marzi-e-Rab Pe Jis Ka Ijarah Hai Ya Ali
-Karne Madad Ko Aaeingay Dekho Pukar Ke
-Aankhon Se Apni Bugz Ka Pardah Utar Ke
+۴
+ہم نے کہاں نبی نے پکارا ہے یا علی
+طوفان میں نوح گھرے تو کنارا ہے یا علی
+آدم کی توبہ کا بھی سہارا ہے یا علی
+مرضیِ رب پہ جس کا اجارہ ہے یا علی
+کرنے مدد کو آئیں گے دیکھو پکار کے
+آنکھوں سے اپنی بغض کا پردہ اتار کے
 
-5
-De Ke Alam Yeh Sab Ko Nabi Ne Dikha Diya
-Arman Pora Sab Ka Nabi Ne Kara Diya
-Jab Kuch Na Ho Saka Tu Ali Ko Bula Diya
-Keh Ke Rajul Alam Jo Ali Ko Thama Diya
-Khaibar Ka Dar Jo Kab Se Khara Tha Gharor Mein
-Do Ungaliyon Se Aaya Ali Ke Hazoor Mein
+۵
+دے کے علم یہ سب کو نبی نے دکھا دیا
+ارمان پورا سب کا نبی نے کرا دیا
+جب کچھ نہ ہو سکا تو علی کو بلا دیا
+کہہ کے رجل علم جو علی کو تھما دیا
+خیبر کا در جو کب سے کھڑا تھا غرور میں
+دو انگلیوں سے آیا علی کے حضور میں
 
-6
-Mil Jaye Zulfiqar Tu Hum Bhi Wiga Karein
-Phir Bhagne Mein Hum Ne Kabhi Ibtida Karein
-Bole Nabi Ali Se Taqabul Tu Na Karein
-Maal-e-Ghanimaton Pe Faqat Iktifa Karein
-Islam Ko Ali Sa Wafadar Chahiye
-Jaisa Hai Hath Waisi Hi Talwar Chahiye
+۶
+مل جائے ذوالفقار تو ہم بھی وغا کریں
+پھر بھاگنے میں ہم نے کبھی ابتدا کریں
+بولے نبی علی سے تقابل تو نہ کریں
+مالِ غنیمتوں پہ فقط اکتفا کریں
+اسلام کو علی سا وفادار چاہیے
+جیسا ہے ہاتھ ویسی ہی تلوار چاہیے
 
-7
-Sagar Utha Midhat-e-Haider Ki Baat Hai
-Nafs-e-Rasool Fateh Kahibar Ki Baat Hai
-Yeh Tu Batool-e-Pak Ke Shohar Ki Baat Hai
-Hub-e-Ali Ki May Tu Muqadar Ki Baat Hai
-Pee Le Jo Aik Bar Woh Ali Muqaam Hai
-Peena Jisay Halal Na Peena Haram Hai
+۷
+ساغر اٹھا مدحتِ حیدر کی بات ہے
+نفسِ رسول فاتحِ خیبر کی بات ہے
+یہ تو بتولِ پاک کے شوہر کی بات ہے
+حبِ علی کی مے تو مقدر کی بات ہے
+پی لے جو ایک بار وہ عالی مقام ہے
+پینا جسے حلال نہ پینا حرام ہے
 
-8
-Hai Kaun Jo Ali Ke Muqabil Mein Aaye Ga
-Soraj Jo Doob Jaye Tu Wapis Bulaye Ga
-Thokar Jo Aik Maar Ke Murdah Uthaye Ga
-Izn-e-Khuda Se Kya Kya Na Kar Ke Dikhaye Ga
-Moajz Numa Hai Mera Tu Hajat Rawa Bhi Hai
-Woh Tu Nuseriyon Ka Suna Hai Khuda Bhi Hai
+۸
+ہے کون جو علی کے مقابل میں آئے گا
+سورج جو ڈوب جائے تو واپس بلائے گا
+ٹھوکر جو ایک مار کے مردہ اٹھائے گا
+اذنِ خدا سے کیا کیا نہ کر کے دکھائے گا
+معجز نما ہے میرا تو حاجت روا بھی ہے
+وہ تو نصیریوں کا سنا ہے خدا بھی ہے
 
-9
-Be-Khoof Zindagi Ko Beetaya Tha Iss Liye
-Hub-e-Ali Ke Sath Jo Aaya Th Iss Liye
-Deed-e-Ali Ka Shoq Jo Bhaya Tha Iss Liye
-Khak-e-Shifa Lahad Mein Bhi Laya Tha Iss Liye
-Munkir Nakeer Joan Jo Lene Lagay Hisab
-Rizvi Meri Taraf Se Ali Ne Diya Jawab
+۹
+بے خوف زندگی کو بیتایا تھا اس لیے
+حبِ علی کے ساتھ جو آیا تھا اس لیے
+دیدِ علی کا شوق جو بھایا تھا اس لیے
+خاکِ شفا لحد میں بھی لایا تھا اس لیے
+منکر نکیر جون جو لینے لگے حساب
+رضوی میری طرف سے علی نے دیا جواب

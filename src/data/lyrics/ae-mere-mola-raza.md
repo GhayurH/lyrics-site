@@ -10,47 +10,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae mere mola Raza Sajjad o Mesum Zaidi
+  Ae mere mola Raza Sajjad o Maisam Zaidi
 
   1
-  Dar-e-Raza pe jo sajdah guzar hota hai
-  Khuda ke bandon mein oss ka shumar hota hai
-  Dar-e-Raza ki gadayi jisay bhi mil jaye
-  Faqeer hotey hoye tajdar hota hai
-  Aye marey maula Raza shah-e-Khurasan hai tu
-  Deen ka deen hai eman ka eman hai tu
+  Dar-e-Raza pe jo sajda guzaar hota hai
+  Khuda ke bandoṅ meiṅ us ka shumaar hota hai
+  Dar-e-Raza ki gadaai jise bhi mil jaaye
+  Faqir hote hue taajdaar hota hai
+  Ae mere mola Raza shaah-e-Khuraasaan hai tu
+  Din ka din hai imaan ka imaan hai tu
 
   2
-  Tu hi Quran hai Quran ki tafseer bhi hai
-  Aik hi waqt mein Haider bhi hai Shabbir bhi hai
-  Kabhi tasveer-e-Nabi our kabhi Imran hai tu
-  Tu hai Quran ko Quran sikhanay wala
-  Tu hai Allah ki pehchan karanay wala
-  Pisar-e-shair-e-Khuda chehra e Yazdan hai tu
+  Tu hi Quraan hai Quraan ki tafsir bhi hai
+  Aik hi waqt meiṅ Haider bhi hai Shabbir bhi hai
+  Kabhi tasvir-e-Nabi aur kabhi Imraan hai tu
+  Tu hai Quraan ko Quraan sikhaane waala
+  Tu hai Allah ki pehchaan karaane waala
+  Pisar-e-sher-e-Khuda chehra-e-Yazdaaṅ hai tu
 
   3
-  Be zabno ke dahan mein bhi zabaan parti hai
-  Hukam ho tera tu tasveer mein jaan parti hai
-  Bashri shakal mein Allah ki pehchan hai tu
-  Aye marey maula sanbhali hai wilayat tu ne
-  Payi hai Jafar-e-Sadiq ki sadaqat tu ne
-  Qalb-e-Kazim pe jo utra hai woh Quran hai tu
+  Be zabaanoṅ ke dahan meiṅ bhi zabaan parti hai
+  Hukm ho tera to tasvir meiṅ jaan parti hai
+  Bashari shakal meiṅ Allah ki pehchaan hai tu
+  Ae mere mola sanbhaali hai wilaayat tu ne
+  Paai hai Jafar-e-Saadiq ki sadaaqat tu ne
+  Qalb-e-Kaazim pe jo utra hai woh Quraan hai tu
 
   4
-  Teri sorat mein hai noor-e-azali ki sorat
-  Apne paikar mein hai tu nad-e-Ali ki sorat
-  Zamin-e-aaho hai tu kul ka nigehban hai tu
-  Jo Ali ki thi adaein woh ada teri hai
-  Rab-e-akbar ki razaon mein Raza teri hai
-  Yani Allah ki rehmat ka ik unwan hai tu
+  Teri surat meiṅ hai nur-e-azali ki surat
+  Apne paikar meiṅ hai tu naad-e-Ali ki surat
+  Zaamin-e-aahu hai tu kul ka nigehbaan hai tu
+  Jo Ali ki thiṅ adaaeṅ woh ada teri hai
+  Rab-e-Akbar ki razaaoṅ meiṅ Raza teri hai
+  Yaani Allah ki rehmat ka ik unwaan hai tu
 
   5
-  Tujh ko har sajda e Rab karta hai jhuk jhuk ke salam
-  Robaro tere yehi karta hai Kaba bhi kalam
-  Main tu bas jism hoon aye maula meri jan hai tu
-  Hain tere dar ke gada:Noor Ali: our Rizwaan
-  Teri kartay hain sana:Noor Ali: our Rizwaan
-  Tera ahsaan hai keh dono pe meharban hai tu
+  Tujh ko har sajda-e-Rab karta hai jhuk jhuk ke salaam
+  Rubaru tere yahi karta hai Kaaba bhi kalaam
+  Main to bas jism huṅ ae mola meri jaan hai tu
+  Haiṅ tere dar ke gada Nur Ali aur Rizwaan
+  Teri karte haiṅ sana Nur Ali aur Rizwaan
+  Tera ehsaan hai ke donoṅ pe meharbaan hai tu
 ---
 
 اے میرے مولا رضا سجاد و میثم زیدی

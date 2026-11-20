@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Karbala meiṅ is tarah ghar tera luta gaya
   Baap se beta chhuta ho gaya bhaai juda
-  Tu ne har ek gham saha ae sawaar-e-Mustafa
+  Tu ne har ik gham saha ae sawaar-e-Mustafa
   Marhaba ya Husain
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Thi teri sukhi rageṅ Shimr ke khanjar tale
-  Tu ne har ek gaam par shukr ke sajde kiye
+  Tu ne har ik gaam par shukr ke sajde kiye
   Teri wafaadaari pe thi ye Khuda ki sada
   Marhaba ya Husain
 

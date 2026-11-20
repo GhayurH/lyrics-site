@@ -23,13 +23,13 @@ romanLyrics: |-
 
   2
   Wo jis meiṅ Asghar-e-Maasum ka tabassum hai
-  Wo jis meiṅ ashkoṅ ka sailaab hai talaatum hai
+  Wo jis meiṅ aaṅkhoṅ ka sailaab hai talaatum hai
   Wo jis meiṅ aakhri Shabbir ki sada gum hai
   Wo daastaaṅ sunaana bahut zaruri hai
 
   3
   Ye wo Husain hai jo fakhr-e-Ibn-e-Aadam hai
-  Ke jis ke zer-e-qadam rifat-e-do aalam hai
+  Keh jis ke zer-e-qadam rifat-e-do aalam hai
   Usi Husain ke gham meiṅ ye shor-e-maatam hai
   Ye baat sab ko bataana bahut zaruri hai
 
@@ -47,14 +47,14 @@ romanLyrics: |-
 
   6
   Khaamosh Aal-e-Muhammad ka aaj dera hai
-  Bala ka Shaam-e-Gharibaaṅ meiṅ ek andhera hai
+  Bala ka Shaam-e-Gharibaaṅ meiṅ ik andhera hai
   Rasul zaadiyaaṅ aur khaak par basera hai
   Aza ka farsh bichhaana bahut zaruri hai
 
   7
-  Husain hi to sahaara hai aadmi ke liye
-  Husain hi ki zarurat hai zindagi ke liye
-  Uruj azm-e-Husaini ko badtari ke liye
+  Husain hi to sahaara haiṅ aadmi ke liye
+  Husain ki hi zarurat hai zindagi ke liye
+  Uruj azm-e-Husaini ko bartari ke liye
   Nishaan-e-raah banaana bahut zaruri hai
 ---
 

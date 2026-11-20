@@ -13,15 +13,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Ana qatil-ul-abra
-  Maiṅ kushta-e-ibrat huṅ
+  Main kushta-e-ibrat huṅ
 
   1
-  Kis ne paraye des meiṅ dekha aisa khuni manzar
-  Shimr-e-laiṅ ne berahmi se phera halq pe khanjar
+  Kis ne paraye des mein dekha aisa khuni manzar
+  Shimr laiṅ ne berahmi se phera halq pe khanjar
   Jis ko ek dukhiyari maaṅ ne chakki pis ke paala
 
   2
-  Haq ke Nabi ne jis ko bithaya dosh pe naqa ban ke
+  Haq ke Nabi ne jis ko bithaya dosh pe naaqa ban ke
   Eid ke din Rizwan-e-jinaṅ khud laaya jis ke kapre
   Us ko kafan dene ke bajaye pairahan bhi chhina
 
@@ -31,39 +31,39 @@ romanLyrics: |-
   Zakhm badan par mere lage haiṅ mu-e-tan se zyada
 
   4
-  Bint-e-Nabi ki qalb ki rahat lakht-e-dil-e-Haider huṅ
+  Bint-e-Nabi ki qalb ki raahat lakht-e-dil-e-Haider huṅ
   Ranj o alam se chur hua huṅ bekas huṅ muztar huṅ
-  Meri mazlumi pe zamana khun ke aansu roya
+  Meri mazlumi pe zamaana khun ke aansu roya
 
   5
   Dekhte rehte the hasrat se jis ko Baba Haider
-  Subh o masa jis halq ko chuma karte the Payambar
-  Shimr-e-laiṅ ne roz-e-dahum us halq pe khanjar phera
+  Subh masaa jis halq ko chuma karte the Payambar
+  Shimr laiṅ ne roz-e-dahum us halq pe khanjar phera
 
   6
-  Rok ke khutba jis ko uthaya god meiṅ mere jad ne
+  Rok ke khutba jis ko uthaya god mein mere jadd ne
   Jis ke liye apne sajde ko tul diya Ahmad ne
-  Kalma goyoṅ ne sajde meiṅ qatl use kar daala
+  Kalma goyoṅ ne sajde mein qatl use kar daala
 
   7
-  Ammaṅ tum jis dasht meiṅ shab bhar aah o buka karti thi
+  Ammaṅ tum jis dasht mein shab bhar aah o buka karti thi
   Jis ko apne baaloṅ se tum saaf kiya karti thi
-  Haye sitamgaroṅ ne wohi par mera khuṅ bahaya
+  Haye sitamgaroṅ ne wahi par mera khuṅ bahaya
 
   8
-  Maiṅ huṅ shahid-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
-  Karbobala hai shahid aisa kushta-e-tegh-e-jafa huṅ
-  Jis ke janaze ko maqtal meiṅ tiroṅ ne hai uthaya
+  Main huṅ shahid-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
+  Karbobala hai shaahid aisa kushta-e-tegh-e-jafa huṅ
+  Jis ke janaaze ko maqtal mein tiroṅ ne hai uthaya
 
   9
-  Shart-e-wafa bas itni hai mil jaaye jo thanda pani
+  Shart-e-wafa bas itni hai mil jaaye jo thanda paani
   Yaad kare mazlum ki aur bekas ki tashna dahani
-  Zainab ye paigham hamare Shioṅ se keh dena
+  Zainab ye paigham hamaare Shiaoṅ se keh dena
 
   10
   Ruh ko bhi mil jaaye sukuṅ aur qalb ko chain aa jaaye
   Karbobala se kaash Bilal aawaz-e-Husain aa jaaye
-  Dard meiṅ duba mere shayar khub ye nauha likha
+  Dard mein duba mere shayar khub ye nauha likha
 ---
 انا قتیل العبرة
 میں کشتۂ عبرت ہوں

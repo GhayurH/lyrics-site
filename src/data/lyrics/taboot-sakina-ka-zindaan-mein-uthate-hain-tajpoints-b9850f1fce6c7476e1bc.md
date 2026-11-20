@@ -1,35 +1,60 @@
 ---
-title: "Taboot Sakina Ka Zindaan Mein Uthate Hain"
+title: "تابوت سکینہ کا زنداں میں اٹھاتے ہیں"
+alternateTitle: "Taboot Sakina Ka Zindaan Mein Uthate Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taboot Sakina ka zindaan mein uthate hain
+  Sajjad-e-Hazeen ro kar haye khak urate hain
+  Mazloom ki beti ka zindan mein dam nikla
+  Sajjad lahu ro kar yeh sab ko batate hain
+
+  2
+  Turbat mein Nabi Sarwar Zahra-o-Ali Shabar
+  Shabir ki dukhtar ka sab soag manate hain
+  Abid pe kari mushkil zindan mein ayi hai
+  Balon se Sakin ke woh khak chorate hain
+
+  3
+  Masooma ke kano se ab tak hai lahu jari
+  Ro ro ke Phophi Maa ko bemar batate hain
+  Kurte ka kafan de ke humsheer ko dafnaya
+  Bano se gale mil ke Sajjad sunate hain
+
+  4
+  Dadi ka janaza bhi tareeki mein utha tha
+  Ab lasha andhere mein bali ka uthate hain
+  Afraz ne dekha hai har pal ye tasawar mein
+  Hum Qabar-e-Sakina par yeh noha sunate hain
 ---
 
-1
-Taboot Sakina Ka Zindaan Mein Uthate Hain.
-Sajjad-e-Hazeen Ro Kar Haye Khak Urate Hain.
-Mazloom Ki Beti Ka Zindan Mein Dam Nikla.
-Sajjad Lahu Ro Kar Yeh Sab Ko Batate Hain.
+۱
+تابوت سکینہ کا زنداں میں اٹھاتے ہیں
+سجادِ حزیں رو کر ہائے خاک اڑاتے ہیں
+مظلوم کی بیٹی کا زنداں میں دم نکلا
+سجاد لہو رو کر یہ سب کو بتاتے ہیں
 
-2
-Turbat Mein Nabi Sarwar zahra-o-Ali Shabar.
-Shabir Ki Dukhtar Ka Sab Soag Manate Hain.
-Abid Pe Kari Mushkil Zindan Mein Ayi Hai.
-Balon Se Sakin Ke Woh Khak Chorate Hain.
+۲
+تربت میں نبی سرور زہرا و علی شبّر
+شبیر کی دختر کا سب سوگ مناتے ہیں
+عابد پہ کڑی مشکل زنداں میں آئی ہے
+بالوں سے سکین کے وہ خاک چھڑاتے ہیں
 
-3
-Masooma Ke Kano Se Ab Tak Hai Lahu Jari.
-Ro Ro Ke Phophi Maa Ko Bemar Batate Hain.
-Kurte Ka Kafan De Ke Humsheer Ko Dafnaya.
-Bano Se Gale Mil Ke Sajjad Sunate Hain.
+۳
+معصومہ کے کانوں سے اب تک ہے لہو جاری
+رو رو کے پھوپھی ماں کو بیمار بتاتے ہیں
+کرتے کا کفن دے کے ہمشیر کو دفنایا
+بانو سے گلے مل کے سجاد سناتے ہیں
 
-4
-Dadi Ka Janaza Bhi Tareeki Mein Utha Tha.
-Ab Lasha Andhere Mein Bali Ka Uthate Hain.
- Afraz Ne Dekha Hai Har Pal Ye Tasawar Mein.
-Hum Qabar-e-Sakina Par Yeh Noha Sunate Hain.
+۴
+دادی کا جنازہ بھی تاریکی میں اٹھا تھا
+اب لاشہ اندھیرے میں بالی کا اٹھاتے ہیں
+افراز نے دیکھا ہے ہر پل یہ تصور میں
+ہم قبرِ سکینہ پر یہ نوحہ سناتے ہیں

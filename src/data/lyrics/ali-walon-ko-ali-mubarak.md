@@ -11,95 +11,75 @@ published: false
 alternateTitle: "Ali Waloṅ Ko Ali Mubarak"
 reciter: "Syed Raza Abbas Zaidi"
 romanLyrics: |-
-  1
-  Ali Walon Ko Ali Mubarak Syed Raza Abbas Zaidi
-  Aaye Aaye Maula Khushiyaan Laye Maula.
-  Haan Hamarey Maula.
-  Pholon Ka Mehakna Ali Maula.
+  Aaye aaye Maula khushiyaaṅ laaye Maula
+  Haaṅ hamaare Maula
+  Phuloṅ ka mahakna Ali Ali
+  Taaroṅ ka chamakna Ali Ali
+  Baadal ka garajna Ali Ali
+  Ali Ali Ali Ali Maula Ali Maula
+  Ali waalo Ali waalo Ali waalo Ali waalo
+  Ali waaloṅ ko Ali mubarak ho Nabi ko wasi mubarak ho
 
-  2
-  Taroon Ka Chamakna Ali Maula.
-  Badil Ka Garajna Ali Maula.
-  Ali Ali Ali Ali Maula Ali Maula.
-  Ali Walo Ali Walo Ali Walo Ali Walo.
+  Ali ke makaaṅ mein Ali ki taraf se Ali ka Ali mubarak ho
 
-  3
-  Ali Walon Ko Ali Mubarak Ho Nabi Ko Wasi Mubarak Ho.
-  Ali Ke Makaan Mein Ali Ki Taraf Se Ali Ka Ali Mubarak Ho.
-  Ali Badshah Ke Jiyalon Ke Din Hain.
-  Qasiday Sunao Dhamalon Ke Din Hain.
+  Ali baadshaah ke jiyaaloṅ ke din haiṅ
+  Qaside sunao dhamaaloṅ ke din haiṅ
+  Koi puchhe kahna Ali aa rahe haiṅ
+  Gharoṅ ko sajao ujaaloṅ ke din haiṅ
+  Hamaari khushi mein jise maut aaye use khudkashi mubarak ho
 
-  4
-  Koi Pochay Kehna Ali Aa Rahe Hain.
-  Gharon Ko Sajao Ujalon Ke Din Hain.
-  Hamari Khushi Mein Jisay Maut Aaye Ossay Khud Kashi Mubarak Ho.
-  Woh Terah 13 Rajab Our Woh Kabay Ka Manzar.
+  Waah tera Rajab aur woh Kaabe ka manzar
+  Milne Ali se jab aaye Payambar
+  Ali ko Muhammad ke haathoṅ mein de ke
+  Yeh Bint-e-Asad ne kaha muskura kar
+  Khuda ke Nabi tum ko wasi jaanshiṅ aur yeh daamaad bhi mubarak
 
-  5
-  Milney Ali Se Jab Aaye Payamber.
-  Ali Ko Muhammad Ke Hathoon Mein De Ke.
-  Yeh Bint-e-Asad Ne Kaha Muskura Kar.
-  Khuda Ke Nabi Tum Ko Wasi Jansheen Our Yeh Damad Bhi Mubarak Ho.
+  Koi ja ke Marhab se jab lar na paaya
+  Alam le ke Khaibar mein ik mard aaya
+  Main Haidar huṅ Haidar bas itna bata kar
+  Sar ik waar mein jab Ali ne uraaya
+  Jo Marhab ke dar se chhupe the woh bole bala tal gai mubarak ho
 
-  6
-  Koi Ja Ke Marhab Se Jab Lar Na Paya.
-  Alam Le Ke Khaybar Mein Ik Mard Aaya.
-  Main Haider Hoon Haider Bas Itna Bata Kar.
-  Sar Ik Waar Mein Jab Ali Ne Uraya.
+  Ali haiṅ Maula ham diwaane
+  Ali haiṅ shama ham parwaane
+  Ali ke jaisa koi nahiṅ hai
+  Koi maane ya na maane
 
-  7
-  Jo Marhab Ke Dar Se Chupay They Woh Bolay Bala Tal Gayi Mubarak Ho.
-  Ali Hain Maula Hum Dewane.
-  Ali Hain Shama Hum Parwaney.
-  Ali Ke Jaisa Koi Nahi Hai.
+  Khuda tera inkaar kaise karuṅ main
+  Ali ne kaha hai to khaamosh huṅ main
+  Tu har shai pe qaadir hai main maanta huṅ
+  Magar tu bata de use kya kahuṅ main
+  Jo thokar se murde jila kar sada de nai zindagi mubarak
 
-  8
-  Koi Manay Ya Na Manay.
-  Khuda Tera Inkar Kaisay Karon Main.
-  Ali Ne Kaha Hai Tu Khamosh Hoon Main.
-  Tu Har Shey Pe Qadir Hai Main Manta Hoon.
+  Ali Ali Ali Ali Ali Ali
+  Ik arsh se taara nikla Bahlul sa diwaana tha
+  Zehra ki marzi le kar ik chaukhat par jaana tha
+  Jab shahr-e-Madina pahuncha kuchh log the jin ko dekha
+  Woh jhum jhum ke ghum ghum ke un ke dil jalaata tha
+  Kaabe ke jaisa ik ghar jab dekha
+  Us ghar mein sab ka Maula rahta tha
+  Hua phir yuṅ koi khush tha kahiṅ koi roya
+  Dar-e-Murtaza par sitaare ne aa kar jab aawaaz di mubarak ho
 
-  9
-  Magar Tu Bata De Ossay Kya Kahon Main.
-  Jo Thokar Se Murday Jila Kar Sada De Nayi Zindagi Mubarak.
-  Ali Ali Ali Ali Ali Ali.
-  Ik Arsh Se Tara Nikla Behlool Sa Dewana Tha.
+  Dulhan bhi laajawaab hai dulha bhi laajawaab hai
+  Dulhan haiṅ Bibi Faatima dulha Abu Turaab hai
+  Khushi se Muhammad ko chehra khila tha
+  Ali aur Zehra ka rishta hua tha tha
+  Kahiṅ dil ke armaaṅ bahe aaṅsuoṅ mein
+  Kahiṅ rang chehroṅ ka badla hua tha
+  Yeh Imraan ne jab Muhammad se aa kar kaha Ya Nabi mubarak ho
 
-  10
-  Zahra Ki Marzi Le Kar Ik Chokhat Par Jana Tha.
-  Jab Shehar-e-Madina Pohancha Kuch Loag They Jin Ko Dekha.
-  Woh Jhoom Jhoom Ke Ghom Ghom Ke Unn Ke Dil Jalata Tha.
-  Kabay Ke Jaisa Ik Ghar Jab Dekha.
+  Ali sab ke Maula haiṅ sun kar Nabi se
+  Gale mil rahe the sab aa kar Ali se
+  Yeh hans kar Abuzar se Salmaan bole
+  Chalo paas ja kar kaheṅ Shaikh ji se
+  Yahaaṅ Kiuṅ khare haiṅ sharaafat se aa kar kaheṅ Ya Ali mubarak ho
 
-  11
-  Oss Ghar Mein Sab Ka Maula Rehta Tha.
-  Howa Phir Youn Koi Khush Tha Koi Kahin Roya.
-  Dar-e-Murtaza Par Sitarey Ne Aa Kar Jab Aawaz Di Mubarak Ho.
-  Dulhan Bhi La Jawab Hai Dulha Bhi La Jawab Hai.
-
-  12
-  Dulhan Hain Bibi Fatima Dulha Abu Turab Hai.
-  Khushi Se Muhammad Ka Chehra Khila Tha.
-  Ali Our Zahra Ka Rishta Howa Tha.
-  Kahin Dil Ke Armaan Bahey Aansoon Mein.
-
-  13
-  Kahin Rang Chehron Ka Badla Howa Tha.
-  Yeh Imran Ne Jab Muhammad Se Aa Kar Kaha Ya Nabi Mubarak Ho.
-  Ali Sab Ke Maula Hain Sun Kar Nabi Se.
-  Galay Mil Rahe They Sab Aa Kar Ali Se.
-
-  14
-  Yeh Hans Kar Abuzar Se Salman Bolay.
-  Chalo Pas Ja Kar Kahin Sheikh Jee Se.
-  Yahan Kiun Kharey Hain Sharafat Se Ja Kar Kahin Ya Ali Mubarak Ho.
-  Bari Aarzu Hai Keh Woh Din Bhi Dekhein.
-
-  15
-  Ali Ki Ho Mehfil Ali Ke Haram Mein.
-  Najaf Ki Zameen Par Qaseeda Yeh Sun Kar.
-  Humein Dad De Kar Ali Khud Yeh Bolein.
-   Raza Our Zeeshan Hamarey Haram Mein Tumhein Nokari Mubarak Ho.
+  Bari aarzu hai keh woh din bhi dekheṅ
+  Ali ki ho mahfil Ali ke haram mein
+  Najaf ki zamiṅ par qasida yeh sun kar
+  Hameiṅ daad de kar Ali khud yeh boleṅ
+  Raza aur Zeeshaan hamaare haram mein tumheiṅ naukari mubarak ho
 
 ---
 

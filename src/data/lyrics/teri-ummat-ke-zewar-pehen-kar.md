@@ -12,80 +12,80 @@ aliases:
   - "Teri Ummat Ke Zewar Pehen Kar Dekho Nana Chali Hoon Main Sham"
 published: true
 romanLyrics: |-
-  Teri Ummat Ke Zewar Pehen Kar
-  Dekho Nana Chali Huṅ Maiṅ Sham
+  Teri ummat ke zewar pehen kar
+  Dekho Nana chali huṅ maiṅ Shaam
 
   1
-  Maiṅ Deti Kafan Tujh Ko Bhaiya
-  Gar Sar Pe Rida Mere Hoti
-  Gar Hote Khule Haath Mere
-  Tere Zakhmoṅ Ko Haathoṅ Se Dhoti
-  Paband-e-Rasan Sar Barahna
-  Dekho Bhaiya Chali Huṅ Maiṅ Sham
+  Maiṅ deti kafan tujh ko bhaiya
+  Gar sar pe rida mere hoti
+  Gar hote khule haath mere
+  Tere zakhmoṅ ko haathoṅ se dhoti
+  Paaband-e-rasan sar barahna
+  Dekho bhaiya chali huṅ maiṅ Shaam
 
   2
-  Tere Bachchoṅ Ko Le Kar Gayi Maiṅ
-  Shab Bhar Saari Roti Rahi Huṅ
-  Kabhi Ghazi Ka Lehja Badal Kar
-  Maiṅ Pehre Bhi Deti Rahi Huṅ
-  In Bewa Bahu Betiyoṅ Se
-  Kiuṅ Karte Nahiṅ Ho Kalaam
+  Tere bachchoṅ ko le kar gai maiṅ
+  Shab bhar saari roti rahi huṅ
+  Kabhi Ghazi ka lehja badal kar
+  Maiṅ pehre bhi deti rahi huṅ
+  In bewa bahu betiyoṅ se
+  Kiuṅ karte nahiṅ ho kalaam
 
   3
-  Mere Abid Pe Taari Ghashi Thi
-  Aur Kulsum Sehmi Khari Thi
-  Kabhi Dekhuṅ Maiṅ Zakhmi Sakina
-  Jis Ke Daaman Meiṅ Aag Lagi Thi
-  Kabhi Rouṅ Maiṅ Apni Rida Ko
-  Kabhi Dekhuṅ Maiṅ Jalte Khiyam
+  Mere Aabid pe taari ghashi thi
+  Aur Kulsum sehmi khari thi
+  Kabhi dekhuṅ maiṅ zakhmi Sakina
+  Jis ke daaman meiṅ aag lagi thi
+  Kabhi rouṅ maiṅ apni rida ko
+  Kabhi dekhuṅ maiṅ jalte khiyaam
 
   4
-  Haye Nana Maiṅ Kaise Sunauṅ
-  Darbar-e-Shaqi Ka Woh Manzar
-  Sabhi Qari o Hafiz The Baithe
-  Aur Sar Pe Na Thi Mere Chadar
-  Haye Nana Teri Betiyoṅ Ko
-  Yuṅ Laye Haiṅ Sar Nange Aam
+  Haye Nana maiṅ kaise sunauṅ
+  Darbaar-e-shaqi ka woh manzar
+  Sabhi qaari o haafiz the baithe
+  Aur sar pe na thi mere chaadar
+  Haye Nana teri betiyoṅ ko
+  Yuṅ laye haiṅ sar nange aam
 
   5
-  Jis Zainab Ko Tum Ne Baradar
-  Kabhi Nazreiṅ Utha Kar Na Dekha
-  Haath Rassi Meiṅ Mere Bandhe Haiṅ
-  Aur Sar Par Nahiṅ Mere Chadar
-  Kaise Kufe Meiṅ Jaungi Ghazi
-  Jab Majma Meiṅ Aayega Naam
+  Jis Zainab ko tum ne baraadar
+  Kabhi nazreiṅ utha kar na dekha
+  Haath rassi meiṅ mere bandhe haiṅ
+  Aur sar par nahiṅ meri chaadar
+  Kaise Kufe meiṅ jaauṅ gi Ghazi
+  Jab majma meiṅ aaye ga naam
 
   6
-  Jaise Darbar Paas Aa Raha Hai
-  Mera Dil Dubta Ja Raha Hai
-  Maiṅ To Ghar Meiṅ Bhi Kam Bolti Thi
-  Bhai Tum Ko To Sab Kuch Pata Hai
-  Kis Tarah Se Karegi Bata Do
-  Ik Sharabi Se Zainab Kalaam
+  Jaise darbaar paas aa raha hai
+  Mera dil dubta ja raha hai
+  Maiṅ to ghar meiṅ bhi kam bolti thi
+  Bhai tum ko to sab kuch pata hai
+  Kis tarah se kare gi bata do
+  Ik sharaabi se Zainab kalaam
 
   7
-  Jab Roti Thi Baali Sakina
-  Aur Baba Ko Apne Bulati
-  Maiṅ Deti Thi Us Ko Tasalli
-  Aur Sine Pe Apne Sulati
-  Dhund Zindan Meiṅ Masum Bachchi
-  Le Le Ke Woh Baba Ka Naam
+  Jab roti thi baali Sakina
+  Aur Baba ko apne bulati
+  Maiṅ deti thi us ko tasalli
+  Aur sine pe apne sulati
+  Dhund zindaan meiṅ masum bachchi
+  Le le ke woh Baba ka naam
 
   8
-  Dil Yeh Kehta Hai Ro Ro Ke Bhaiya
-  Kash Abbas Maujud Hota
-  Kaat Deta Woh Us Ki Zabaṅ Ko
-  Koi Baghi Agar Mujh Ko Kehta
-  Dekhti Phir Maiṅ Kis Tarah Leta
-  Koi Zainab Ka Majma Meiṅ Naam
+  Dil yeh kehta hai ro ro ke bhaiya
+  Kaash Abbas maujud hota
+  Kaat deta woh us ki zabaaṅ ko
+  Koi baaghi agar mujh ko kehta
+  Dekhti phir maiṅ kis tarah leta
+  Koi Zainab ka majma meiṅ naam
 
   9
-  Keh Rahe Haiṅ Yeh Hans Hans Ke Shami
-  Aane Wale Haiṅ Darbar Baghi
-  Jis Ne Ajdad Mare Hamare
-  Aa Rahi Hai Yahaṅ Us Ki Beti
-  Kholta Pani Phenko Chhatoṅ Se
-  Pattharoṅ Ka Karo Intizam
+  Keh rahe haiṅ yeh hans hans ke Shaami
+  Aane waale haiṅ darbaar baaghi
+  Jis ne ajdaad maare hamaare
+  Aa rahi hai yahaṅ us ki beti
+  Kholta paani phenko chhatoṅ se
+  Pattharoṅ ka karo intizaam
 ---
 تیری امت کے زیور پہن کر
 دیکھو نانا چلی ہوں میں شام

@@ -35,19 +35,19 @@ romanLyrics: |-
 
   3
   Khaamosh Bu Turab the mansha-e-Kibriya
-  Darbaar meiṅ lain ke pahuṅchi jo Sayyeda
+  Darbaar mein la'in ke pahuṅchi jo Sayyeda
   Hasnain ke siwa koi hamdard hi na tha
   Sab jaaṅ nisaar ho gaye qaatil ke hamnawa
   Jo chhor kar gaye the janaaza Rasul ka
   Karte bhala Rasul ki beti se kya wafa
 
   4
-  Atthaarhveṅ baras meiṅ uthaaye hai ye mihan
-  Din raat Sayyeda ke kaleje meiṅ thi dukhan
-  Dekhi gulu-e-Haidar-e-Karraar meiṅ rasan
+  Athaarveṅ baras mein uthaaye hai ye mihan
+  Din raat Sayyeda ke kaleje mein thi dukhan
+  Dekhi gulu-e-Haidar-e-Karraar mein rasan
   Roye Husain Zainab o Kulsum aur Hasan
-  Jab the Ali hisaar meiṅ us din ko royi hai
-  Tanhaaiyoṅ meiṅ baith ke Mohsin ko royi hai
+  Jab the Ali hisaar mein us din ko royi hai
+  Tanhaaiyoṅ mein baith ke Mohsin ko royi hai
 
   5
   Karwat se daaiṅ jaanib kabhi so nahiṅ saki
@@ -60,7 +60,7 @@ romanLyrics: |-
   6
   Ghusl o kafan ka waqt jo aaya tha ba Khuda
   Maula ke ghar qayaamat-e-sughra hui bapa
-  Girya Ali ka sun ke ye Zainab ne ki buka
+  Girya-e-Ali ka sun ke ye Zainab ne ki buka
   Jaaṅ se guzar na jaaye kahiṅ sher-e-Kibriya
   Yaara raha na zabt ka rone lage Ali
   Pehlu ka zakhm dekh ke kehne lage Ali
@@ -75,7 +75,7 @@ romanLyrics: |-
 
   8
   Mismaar qabr-e-Fatima Zahra ko kar diya
-  Jaari hai phir bhi zulm ka ummat meiṅ silsila
+  Jaari hai phir bhi zulm ka ummat mein silsila
   Le lo jo naam qaatil-e-Zahra to hai saza
   Sadiyoṅ ke baad bhi hai wohi zulm aur jafa
   Socha kabhi nahiṅ tha ke ye din bhi aaye ga
@@ -87,7 +87,7 @@ romanLyrics: |-
   Jo zulm seh gayi hai wo beti Rasul ki
   Ta umr meri Bibi azaadaar hi rahi
   Ro kar hayaat kaati ghamoṅ ki asir ne
-  Likha hai marsiya meiṅ Anis o Dabir ne
+  Likha hai marsiya mein Anis o Dabir ne
 ---
 
 یا زہرا یا زہرا یا زہرا

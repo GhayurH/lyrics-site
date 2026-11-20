@@ -26,13 +26,13 @@ romanLyrics: |-
   2
   Takiya hai na bistar na koi aur bichhauna
   Kaisa hai ye sona
-  Bibi tumheṅ is khaak pe nind aa gayi kiun kar
+  Bibi tumheṅ is khaak pe nind aa gayi kiunkar
   Sadqe ho ye maadar
 
   3
   Asghar bhi nahiṅ paas ke dil jis se bahalta
   Kuchh bas nahiṅ chalta
-  Ab tuṅ to khafa ho ke na jaa Ae meri dilbar
+  Ab tuṅ to khafa ho ke na jaa ae meri dilbar
   Sadqe ho ye maadar
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Maiṅ kis se kahuṅ haaye meri maang bhi ujri
   Aur kokh bhi ujri
-  Mera sa kisi ka bhi na hoyega muqaddar
+  Mera sa kisi ka bhi na hoye ga muqaddar
   Sadqe ho ye maadar
 
   6

@@ -1,7 +1,7 @@
 ---
 title: "ہاتھ پہلو سے ہٹایا نہیں جاتا بابا"
 recitationId: "haath-pehlu-se-hataya"
-alternateTitle: "Haath Pehlu Se Hataya Nahiṅ Jaata Baba"
+alternateTitle: "Haath Pehlu Se Hataaya Nahiṅ Jaata Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,12 +18,12 @@ romanLyrics: |-
   1
   Meri taazim na ki haath uthaaya us ne
   Saamne betoṅ ke tuṅ keh ke bulaaya us ne
-  Bhuluṅ kaise maiṅ ummat ka rawayya baba
+  Bhuluṅ kaise main ummat ka rawayya baba
 
   2
   Ab woh darbaar kahaaṅ baba mere qaabil hai
   Mera qaatil bhi wohi hai jo tera qaatil hai
-  Tere qaatil ne mujhe maara tamacha baba
+  Tere qaatil ne mujhe maara tamaacha baba
 
   3
   Ye na socha ke Nabi aa ke jahaaṅ rukte the
@@ -36,12 +36,12 @@ romanLyrics: |-
   Chhup ke karte haiṅ Ali raat ko girya baba
 
   5
-  Dard itne haiṅ ke saare maiṅ sunaauṅ kaise
+  Dard itne haiṅ ke saare main sunaauṅ kaise
   Zakhm aise haiṅ ke Haidar ko dikhaauṅ kaise
   Saare zakhmoṅ ki gawaah hai meri Fizza baba
 
   6
-  Laash-e-Abbas (a.s.) pe Sadiq ye khule ga uqda
+  Laash-e-Abbas pe Sadiq ye khule ga uqda
   Ek hi Mohsin o Abbas ka qaatil ho ga
   Dushmani ho gi kahaaṅ is se zyaada baba
 ---

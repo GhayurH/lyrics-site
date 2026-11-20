@@ -8,87 +8,51 @@ poet: "Akhtar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Hai shame ghariban ki ye awaaz
-
-  Ay saniye zehra ay saniye zehra
-
+romanLyrics: |-
+  Hai shaam-e-gharibaaṅ ki ye aawaaz
+  Ae Saani-e-Zehra ae Saani-e-Zehra
 
   1
-
-  Soona hua ran cha gayi maqtal mein udasi
-
-  Sairaab hui khoon se jo khaak thi pyasi
-
-  Gulshan hua pamaal har ek phool hai baasi
-
-  Qaime ki nigehban hai mohamad ki nawasi
-
-  Din chup gaya raat aagayi sunsaan hai sehra
-
+  Suna hua ran chhaa gayi maqtal mein udaasi
+  Sairaab hui khuṅ se jo khaak thi pyaasi
+  Gulshan hua paamaal har ek phul hai baasi
+  Khaime ki nigahbaaṅ hai Muhammad ki nawaasi
+  Din chhup gaya raat aa gayi sunsaan hai sehra
 
   2
-
-  Allah ke mehboob to jannat ko sidhare
-
-  Jangal ki hawa sunti hai ab bain tumhare
-
-  Madhosh huwe neend mein akaash ke taare
-
-  Maare gaye abbas bhi darya ke kanare
-
-  Ab unki jagah girde alam do tumhi pehra
-
+  Allah ke mahbub to jannat ko sidhaare
+  Jangal ki hawa sunti hai ab bain tumhaare
+  Madhosh hue nind mein aakaash ke taare
+  Maare gaye Abbas bhi darya ke kinaare
+  Ab un ki jagah gird-e-alam do tum hi pehra
 
   3
-
-  Mazloom behan bhai ke laashe pe khadi hai
-
-  Lab bandh rawan aankhon se ashkon ki jhadi hai
-
-  Be-goro kafan laash biyaban mein padi hai
-
-  Ek hashr ka maidan hai qayamat ki ghadi hai
-
-  Jab bheeg gayi yaad to saraaab hua gehra
-
+  Mazlum bahan bhaai ke laashe pe khari hai
+  Lab band rawaaṅ ashkoṅ se ashkoṅ ki lari hai
+  Be gor o kafan laash bayaabaaṅ mein pari hai
+  Ik hashr ka maidaan hai qayaamat ki ghari hai
+  Jab bhig gayi yaad to saraab hua gehra
 
   4
-
-  Bhai se kaho aake sakina ko sulado
-
-  Qasim ko pukaro ali akbar ko sada do
-
-  Abbas zara aake rida sar par udha do
-
-  Beton se kaho aun ke mehmil mein bitha do
-
-  Kal suboh ko jaana hai tumhe chod ke sehra
-
+  Bhaai se kaho aa ke Sakina ko sula do
+  Qaasim ko pukaaro Ali Akbar ko sada do
+  Abbas zara aa ke rida sar pe urha do
+  Betoṅ se kaho Aun ke mahmil mein bitha do
+  Kal subah jaana hai tumheṅ chhor ke sehra
 
   5
-
-  Jangal se sakina ko to le aayi hoo jaa kar
-
-  Asghar ko bhi tum godh mein le aao utha kar
-
-  Behlao kahani koi baqar ko suna kar
-
-  Kyon laayi na tum khaak se akbar ko jaga kar
-
-  Jangal bhi hai purhol andhera bhi hai gehra
-
+  Jangal se Sakina ko to le aayi huṅ jaa kar
+  Asghar ko bhi tum god mein le aao utha kar
+  Behlaao kahaani koi Baaqir ko suna kar
+  Kiuṅ laayi na tum khaak se Akbar ko jaga kar
+  Jangal bhi hai purhaul andhera bhi hai gehra
 
   6
-
-  Bibi se basad arz yahi kehta hai akhtar
-
-  Ay noore dil e fatema lakhte dil e hyder
-
-  Ay kooshtae gham sayyade mazloom ki khaahar
-
-  Mai misle qadab hoon mujhe kar dijiye gowhar
-
-  Tareekhe abad mein mera parcham ho sunehra'
+  Bibi se baad arz yahi kehta hai Akhtar
+  Ae nur-e-dil-e-Fatema lakht-e-dil-e-Haidar
+  Ae kushta-e-gham Sayyad-e-mazlum ki khaahar
+  Main misl-e-qadab huṅ mujhe kar dijiye gauhar
+  Taarikh-e-abad mein mera parcham ho sunehra
 ---
 
 ہے شام غریباں کی یہ آواز

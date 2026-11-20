@@ -11,45 +11,45 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashur ki shab hai hashr bapa
+  Aashur ki shab hai hashr bapa
   Masum Sakina so jaao
   Ro ro ke na mujhko tarpaao
   Ae baali Sakina so jaao
 
   1
   Munh ashkoṅ se dhoti hai koi
-  Maidan meiṅ roti hai koi
+  Maidaan meiṅ roti hai koi
   Ye girya-e-Zehra ki hai sada
   Masum Sakina so jaao
 
   2
   Aaghosh meiṅ maadar ke leto
   Aur baap ke sine ko bhulo
-  Karte haiṅ ibadat Shah-e-Huda
+  Karte haiṅ ibaadat Shah-e-Huda
   Masum Sakina so jaao
 
   3
   Kal koi na hoga ae Bibi
-  Ansar hai baahar ab sab hi
+  Ansaar hai baahar ab sab hi
   Dete haiṅ talaaya aaj chacha
   Masum Sakina so jaao
 
   4
-  Sarwar ki shahadat kal hogi
+  Sarwar ki shahaadat kal hogi
   Sab ahl-e-haram hoṅge qaidi
-  Kal se na milega chain zara
+  Kal se na mile ga chain zara
   Masum Sakina so jaao
 
   5
-  Pani ka nahiṅ khatra Bibi
+  Paani ka nahiṅ khatra Bibi
   Kuze haiṅ pare sab hi khaali
-  Nanha sa hai Asghar bhi pyasa
+  Nanha sa hai Asghar bhi pyaasa
   Masum Sakina so jaao
 
   6
   Bewaoṅ ki madad ab kaun kare
   Abbas nahiṅ Akbar bhi nahiṅ
-  Bimaar bhi hai beaab o dawa
+  Bimaar bhi hai be aab o dawa
   Masum Sakina so jaao
 ---
 

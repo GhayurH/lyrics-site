@@ -10,43 +10,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Gir gayi hai Shamiyon mein phir se Aal-e-Mustafa
-  Waqt rone ka nahi yeh waqt hai labaik ka
+  Gir gayi hai Shamiyoṅ mein phir se Aal-e-Mustafa
+  Waqt rone ka nahiṅ yeh waqt hai labbaik ka
 
   1
-  Kuch nahi Zainab se barh kar ye batana hai humein
-  Fatima Zahra ko ik din munh dikhana hai humein
-  Rokna hai jo Baqiya se chala hai silsala
-  Rone wale Karbala par oss ke dil ki aas hain
+  Kuchh nahiṅ Zainab se barh kar yeh batana hai hameṅ
+  Fatima Zahra ko ik din munh dikhana hai hameṅ
+  Rokna hai jo Baqi se chala hai silsila
+  Rone wale Karbala par us ke dil ki aas haiṅ
 
   2
-  Matami oss ki nazar mein Bazoy-e-Abbas hain
-  Maan rakhna hai humein ab Khakhir-e-Shabir ka
-  Kal bhi oss ne dukh uthaye thi magar dharas osse
-  Ghaira-e-Abbas ban kar sath Sajjad hai
+  Matami us ki nazar mein baazu-e-Abbas haiṅ
+  Maan rakhna hai hameṅ ab khwahar-e-Shabbir ka
+  Kal bhi us ne dukh uthaye thi magar dhaaras use
+  Ghairat-e-Abbas ban kar saath Sajjad hai
 
   3
-  Aaj tanha reh gayi hai Bani-e-Farsh-e-Azza
-  Kehte hoon gay Shah se Abbas ye rote howay
-  Main katay hathoon se bhi lar loo ga Foaj-e-Sham se
-  Bas mujhe ik bar Maula izan kar dijiye atta
+  Aaj tanha reh gayi hai baani-e-farsh-e-aza
+  Kehte hoṅ ge Shah se Abbas yeh rote hue
+  Main kate haathoṅ se bhi lar luṅ ga fauj-e-Sham se
+  Bas mujhe ik baar Maula izn kar dijiye ata
 
   4
-  Chalne ki jo addi na thi
-  Paidal wohi meelon chali
-  Duray kabhi pathar kabhi
-  Khati rahi Bint-e-Imam
+  Chalne ki jo aadi na thi
+  Paidal wohi miloṅ chali
+  Durre kabhi patthar kabhi
+  Khaati rahi Bint-e-Imam
 
   5
-  Jane sitam kaisa howa
-  Chehrah laho se chup giya
+  Jaane sitam kaisa hua
+  Chehra lahu se chhup gaya
   Bint-e-Ali se baat ka
-  Laitay the Shami inteqam
+  Lete the Shami intiqam
 
   6
-  Akbar kare kaise biyan
-  Deta hai jab koi azaan
-  Lagti hai seene par sina
+  Akbar kare kaise bayaaṅ
+  Deta hai jab koi azaaṅ
+  Lagti hai sine par sinaaṅ
   Aata hai jab Akbar ka naam
 ---
 

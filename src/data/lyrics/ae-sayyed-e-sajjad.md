@@ -12,36 +12,36 @@ tags: []
 aliases: ["Ay Sayyede Sajjad"]
 published: true
 romanLyrics: |-
-  Hoti hai ayaaṅ dasht meiṅ ab shaam-e-gharibaṅ
+  Hoti hai ayaaṅ dasht mein ab shaam-e-gharibaaṅ
   Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad
 
   Ujre hue is ghar ke ho ab tum hi nigehbaan
   Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad
 
   1
-  Maqtal meiṅ shah-e-diṅ ka bhara ghar hua barbaad
-  Kis se kareiṅ faryaad
-  Afsos ke sab mil gaye wo khaak meiṅ armaan
+  Maqtal mein shah-e-diṅ ka bhara ghar hua barbaad
+  Kis se kareṅ faryaad
+  Afsos ke sab mil gaye wo khaak mein armaan
 
   2
-  The jis meiṅ Ali Asghar o Qasim se sahare
+  The jis mein Ali Asghar o Qasim se sahare
   Wo aankhoṅ ke taare
-  Maqtal meiṅ hai bikhra hua Zehra ka wo Quraan
+  Maqtal mein hai bikhra hua Zehra ka wo Quraan
 
   3
   Ab Zainab o Kulsum ke sar par nahiṅ chaadar
   Ae haye muqaddar
-  Bazaar meiṅ jaayeṅge ye le kar sar-e-uryaaṅ
+  Bazaar mein jaayeṅge ye le kar sar-e-uryaaṅ
 
   4
   Maqtal se guzar aaye magar zulm na thehra
   Hai zakhmoṅ ka pehra
-  Hai khaak saroṅ par hue hai chaak garebaṅ
+  Hai khaak saroṅ par hue hai chaak garebaaṅ
 
   5
   Ab zabt ka yaara bhi kahiṅ tut na jaaye
   Hai dard ke saaye
-  Darbaar meiṅ ab jaana hai Zainab hai pareshaan
+  Darbaar mein ab jaana hai Zainab hai pareshaan
 
   6
   Mazlum shah-e-din ki nishaani ko sambhaalo
@@ -51,7 +51,7 @@ romanLyrics: |-
   7
   Koi bhi Zafar naasir o ghamkhwaar nahiṅ hai
   Hubdaar nahiṅ hai
-  Khaa jaayegi masuma ko tariki-e-zindan
+  Khaa jaayegi masuma ko taariki-e-zindaan
 ---
 ہوتی ہے عیاں دشت میں اب شام غریباں
 اے سید سجاد اے سید سجاد

@@ -16,17 +16,17 @@ romanLyrics: |-
 
   Bekasi kaisi ayaaṅ thi ban meiṅ
   Laashe paamaal hue jab ran meiṅ
-  Aag Zehra ki lagi gulshan meiṅ
+  Aag Zehra ke lagi gulshan meiṅ
   Yaad-e-Abbas thi aur ahl-e-haram
   Ae Khuda dast-e-karam ae Khuda dast-e-karam
   Ae Khuda dast-e-karam
   Shaam-e-gharibaaṅ shaam-e-gharibaaṅ
 
   1
-  Qasim o Akbar o Abbas kuja raftand aah
+  Qasim o Akbar o Abbas kujaa raftand aah
   Haaye dar dasht-e-bala yaad-e-shahidaaṅ aayad
   Qasim o Akbar o Abbas nahiṅ
-  Kuchh bhi sine mein bajuz yaas nahiṅ
+  Kuchh bhi sine meiṅ ba juz yaas nahiṅ
   Ab to jine ki bhi kuchh aas nahiṅ
   Saaya afgan nahiṅ Ghazi ka alam
 
@@ -35,16 +35,16 @@ romanLyrics: |-
   Iṅ safina taraf-e-yurish-e-tufaaṅ aayad
   Koi imdaad ko aaye kiuṅ kar
   Kat gaye Akbar o Abbas ke sar
-  Gham ka tufaan hai aur yaad-e-padar
+  Gham ka tufaan aur yaad-e-padar
   Chaar jaanib se bare ranj o alam
 
   3
   Sili-e-Shimr bah rukhsaar-e-Sakina sad haif
   Chuṅ bah zulm o sitam aaṅ dushman-e-imaaṅ aayad
   Haaye wo phul se rukhsaar tere
-  Shimr ne jis pe tamaache maare
+  Shimr ne jis pe tamaanche maare
   Nil rukhsaar ke dekhe na gaye
-  Roya naize pe sar-e-Shaah-e-umam
+  Roye neze pe sar-e-Shaah-e-umam
 
   4
   Haif aaṅ aalam-e-ghurbat ke Sakina girya
@@ -52,11 +52,11 @@ romanLyrics: |-
   Dasht-e-ghurbat meiṅ Sakina ki fughaaṅ
   Baaba dasta hai andhera zindaaṅ
   Jald aao ke nikal jaaye na jaaṅ
-  Aap ki yaad meiṅ mar jaayeṅge ham
+  Aap ki yaad meiṅ mar jaayeṅ ge ham
 
   5
   Mi kashad naala ze hasrat sar-e-darbaar-e-Yazid
-  Bemuhaabaana khayaal-e-dar-e-zindaaṅ aayad
+  Bemuhibbaana khayaal-e-dar-e-zindaaṅ aayad
   Sar-e-darbaar fughaaṅ Zainab ki
   Qaid Kufe meiṅ hui bint-e-Ali
   Lahad-e-Shaah-e-Najaf hilne lagi
@@ -67,8 +67,8 @@ romanLyrics: |-
   Aah iṅ nauha-e-gham bar lab-e-Rehaaṅ aayad
   Hai bhi kya Sarwar o Rehaan ke paas
   In ki daulat hai yehi gham ki asaas
-  Aap ki nazr Janaab-e-Abbas
-  Ek aawaaz hai aur ek qalam
+  Aap ki nazar Janaab-e-Abbas
+  Ik aawaaz hai aur ek qalam
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

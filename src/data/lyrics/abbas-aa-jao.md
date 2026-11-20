@@ -10,40 +10,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maqtal mein pohanchay jab Shah-e-Wala
-  Lashein jawaan our khaimon ko dekha
-  Darya ko dekha phir yeh pukara
+  Maqtal meiṅ pahunche jab Shah-e-Waala
+  Laasheṅ, jawaaṅ aur khaimoṅ ko dekha
+  Darya ko dekha phir yeh pukaara
   Ab yeh salam-e-aakhir hai mera
   Abbas aa jao bhai akela hai
-  Tanha musafir ko lakhon ne ghaira hai
+  Tanha musafir ko laakhoṅ ne ghera hai
   Tum ne na dekhi ghurbat hamari
-  Zainab thi layi meri sawari
+  Zainab thi laayi meri sawaari
   Rukhsat ka meri manzar ajab tha
-  Seene se lag jao bhai akela hai
-  Jab se ho bichrey Abbas hum se
-  Ahl-e-haram hain liptay alam se
-  Kaisay jiye gi bali Sakina
+  Sine se lag jao bhai akela hai
+  Jab se ho bichhre Abbas hum se
+  Ahl-e-haram haiṅ lipte alam se
+  Kaise jiye gi baali Sakina
   Kya hoga batlao bhai akela hai
-  Lashkar kahan ka jab tum nahi ho
-  Aada tu khush hain ab tum nahi ho
-  Kitna akela kitna hoon tanha
-  Seene mein hai ghao bhai akela hai
-  Din bhar uthaye kitne janazay
-  Ab kaun hai jo de ga dilasay
-  Hotey agar tum detey dilasa
-  Aao chaley aao bhai akela hai
-  Mujh par barastay yeh sang dekho
+  Lashkar kahaaṅ ka jab tum nahiṅ ho
+  Aada to khush haiṅ ab tum nahiṅ ho
+  Kitna akela kitna huṅ tanha
+  Sine meiṅ hai ghaao bhai akela hai
+  Din bhar uthaaye kitne janaaze
+  Ab kaun hai jo de ga dilaase
+  Hote agar tum dete dilaasa
+  Aao chale aao bhai akela hai
+  Mujh par baraste yeh sang dekho
   Bekas ki tanha ki jang dekho
-  Dekho na totay Nana se wadah
+  Dekho na tute Nana se waada
   Himmat barha jao bhai akela hai
-  Jab Shimar khanjar ko phairta tha
-  Qatil ne Sheh se khud yeh suna tha
-  Pyasa galla oss dam yeh pukara
-  Sorat dikha jao bhai akela hai
-  Sar Sheh ka aaya nook-e-sina par
-  Aayi sada yeh:Rehan-o-Sarwar:
-  Be sar para hai bhai ka lasha
-  Ab tu chaley aao bhai akela hai
+  Jab Shimar khanjar ko pherta tha
+  Qaatil ne Shah se khud yeh suna tha
+  Pyaasa gala us dam yeh pukaara
+  Surat dikha jao bhai akela hai
+  Sar Shah ka aaya nok-e-sinaaṅ par
+  Aayi sada yeh: Rehan o Sarwar
+  Be sar para hai bhai ka laasha
+  Ab to chale aao bhai akela hai
 ---
 
 ۱

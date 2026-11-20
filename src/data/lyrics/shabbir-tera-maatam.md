@@ -15,31 +15,31 @@ romanLyrics: |-
   Maatam karo Shabbir ka haaye Zainab-e-dilgir ka
   Shabbir tera maatam momin ki nishaani hai
 
-  Bakhshish ki zamaanat hai jo aankh meiṅ paani hai
+  Bakhshish ki zamaanat hai jo aankh mein paani hai
   Shabbir tera maatam momin ki nishaani hai
 
   1
-  Ye daagh nahiṅ logoṅ hai moajiza maatam ka
+  Ye daagh nahiṅ logoṅ hai mojiza maatam ka
   Sine pe likhi mere Karbal ki kahaani hai
 
   2
-  Ghazi ka alam le ke baazaar meiṅ aaye haiṅ
-  Rudaad asiroṅ ki dunya ko sunaani hai
+  Ghazi ka alam le ke baazaar mein aaye haiṅ
+  Rudaad asiroṅ ki duniya ko sunaani hai
 
   3
-  Zainab ne shuru ki thi zindaaṅ meiṅ azaadaari
+  Zainab ne shuru ki thi zindaaṅ mein azaadaari
   Sadiyoṅ se chali ye rit puraani hai
 
   4
   Aati hai sada ab bhi Karbal ki fazaaoṅ se
-  Shabbir haqiqat meiṅ Islam ka baani hai
+  Shabbir haqiqat mein Islam ka baani hai
 
   5
   De pursa bahattar ka Zahra ke lute ghar ka
-  Har saal Muharram meiṅ ye yaad dilaani hai
+  Har saal Muharram mein ye yaad dilaani hai
 
   6
-  Mazlum ke maatam meiṅ marna hi saadat hai
+  Mazlum ke maatam mein marna hi saadat hai
   Waise bhi Jawad ik din ye jaan to jaani hai
 ---
 ماتم کرو شبیر کا ہائے زینب دلگیر کا

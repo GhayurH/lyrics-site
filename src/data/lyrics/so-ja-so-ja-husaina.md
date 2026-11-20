@@ -13,9 +13,9 @@ aliases: ["Soja Soja Hussaina"]
 published: true
 romanLyrics: |-
   Jab girne lage jalti zamiṅ par Shaah-e-waala
-  Ye kehte hue Zahra ne godi meiṅ sambhaala
+  Ye kehte hue Zahra ne godi mein sambhaala
   Kya is liye is maaṅ ne tujhe naazoṅ se paala
-  Maare koi naiza koi khanjar koi bhaala
+  Maare koi naiza koi ne khanjar koi bhaala
   Chehre pe tere kitni thakaawat hai meri jaaṅ
   Ye haal tera dekh nahiṅ paayegi ab maaṅ
 
@@ -34,26 +34,26 @@ romanLyrics: |-
   Aur kitne dega tu ab imtihaan
 
   2
-  Aaya hai meri aaghosh meiṅ tu abhi
-  Raat se huṅ yahaaṅ par maiṅ baithi hui
+  Aaya hai meri aaghosh mein tu abhi
+  Raat se huṅ yahaaṅ par main baithi hui
   Apne baaloṅ se jab saaf maqtal kiya
   Khushbu aayi mujhe jab tere khun ki
   Kitna royi ye maaṅ tu ne kaise yahaaṅ
-  Marta dekha tha godi meiṅ karyal jawaan
+  Marta dekha tha godi mein karyal jawaan
   Aur kitne dega tu ab imtihaan
 
   3
   Meri tarah se hai surkh chehra tera
-  Mera har zakhm wirse meiṅ tujh ko mila
+  Mera har qadam wirse mein tujh ko mila
   Haath mujh par uthaaya tere saamne
-  Saamne mere tujh ko tamaacha laga
+  Saamne mere tujh ko tamaanche laga
   Mat chhupa muṅh yahaaṅ jaanti hai ye maaṅ
   Tere chehre pe hai ungliyoṅ ke nishaan
   Aur kitne dega tu ab imtihaan
 
   4
   Tere maathe pe ek tir jab se laga
-  Haṅs raha hai tujhe dekh kar Hurmala
+  Hans raha hai tujhe dekh kar Hurmala
   Zakhm gehra hai aur khun rukta nahiṅ
   Yaad aata hai Asghar ka zakhmi gala
   Ro para aasmaaṅ haaye wo bezubaaṅ
@@ -70,19 +70,19 @@ romanLyrics: |-
   Aur kitne dega tu ab imtihaan
 
   6
-  Pehli baar ae meri jaaṅ aisa hua
-  Khushk hai meri godi meiṅ tera gala
+  Pehli baar ye meri jaaṅ aisa hua
+  Khushk hai meri godi mein tera gala
   Tap raha hai ye sehra hawa garm hai
   Jal rahi hai zamiṅ muṅh khula hai tera
   Kaise paani yahaaṅ laa ke de tujh ko maaṅ
-  Phat gaye hoṅt sukhi hai teri zabaaṅ
+  Phat gaye hont sukhi hai teri zabaaṅ
   Aur kitne dega tu ab imtihaan
 
   7
-  Zakhmi haathoṅ se tujh ko utha luṅgi maiṅ
-  Apni chaadar meiṅ tujh ko chhupa luṅgi maiṅ
+  Zakhmi haathoṅ se tujh ko utha luṅgi main
+  Apni chaadar mein tujh ko chhupa luṅgi main
   Ghore dauraaye jaayeṅge laashoṅ pe jab
-  Pasliyaaṅ tutne se bacha luṅgi maiṅ
+  Pasliyaaṅ tutne se bacha luṅgi main
   Kab ye chaahti hai maaṅ jab ho paamaaliyaaṅ
   Meri tarah se tuti teri pasliyaaṅ
   Aur kitne dega tu ab imtihaan
@@ -90,7 +90,7 @@ romanLyrics: |-
   8
   Jis ne aate hue chuma tera dahaaṅ
   Dekh sattar qadam dur hai wo behen
-  Haaye pardes meiṅ mar gaya tu agar
+  Haaye pardes mein mar gaya tu agar
   Kaise degi teri laash ko wo kafan
   Karti hai wo fughaaṅ ae mere bhaai jaaṅ
   Hone waala hai gardan pe khanjar rawaaṅ

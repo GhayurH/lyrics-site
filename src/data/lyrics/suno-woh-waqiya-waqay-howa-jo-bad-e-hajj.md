@@ -1,82 +1,195 @@
 ---
-title: "Suno Woh Waqiya Waqay Howa Jo Bad e Hajj"
+title: "سنو وہ واقعہ واقع ہوا جو بعدِ حج"
+alternateTitle: "Suno Woh Waqiya Waqay Howa Jo Bad e Hajj"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hasen kitna tha manzar bana jo bad-e-hajj
+  Nabi ka karwaan Yasrab chala jo bad-e-hajj
+  Our iss safar mein Ghadeer aa gaya jo bad-e-hajj
+  Tu hukam-e-Rab howa sarwar yahin pe ruk jao
+  Khuda pukara payamber yahin pe ruk jao
+  Yahin pe mimber-e-palaan ko sajana hai
+  Habib aakhri khutba yahin sunana hai
+  Utarna hai woh ahsan jo porana hai
+  Ali ko hathoon pe tum ne yahin uthana hai
+  Yahin pe aya-e-Akmalto laein gay Jibreel
+  Yehi jagah hai jahan deen paye ga takmeel
+
+  1
+  Suna jo hukam-e-Khuda ruk gaye wahin sarwar
+  Sahabiyon se mukhatib hoye youn peygamber
+  Utar kar yeh kajaway banao ik mimber
+  Chaley gaye hain jo aagay kaho unhein ja kar
+  Ghadeer aao keh hukam-e-Shah e zamana hai
+  Nabi ne aakhri paigham-e-Rab sunana hai
+
+  2
+  Jo laut aaye woh ashab Khum ke maidaan mein
+  Tu unn ke toot gaye khuwab Khum ke maidaan mein
+  Khula howa tha niya baab Khum ke maidaan mein
+  Kharey they Mustafa betab Khum ke maidaan mein
+  Khushi thi itni keh pholay nahi samatay they
+  Ali ko dulhay ki tarha nabi sajatay they
+
+  3
+  Bana ke dulha Ali ko utha ke hathoon par
+  Charhey kujawon ke mimber pe shan se sarwar
+  Dikha ke majma ko Haider ka chehra e anwar
+  Zara si bandh ke tamheed bolay peygamber
+  Tamam khalq-e-Khuda ka hoon main nabi Maula
+  Main jis ka Maula hoon oss ka hai yeh Ali Maula
+
+  4
+  Hoi yeh baat muakamil tu aa gaye Jibreel
+  Kaha salam aye Aaqa aye ibn e Ismail
+  Main le ke aaya hoon farman-e-Rab izz-o-jaleel
+  Woh keh raha hai keh ab deein ki ho gayi takmeel
+  Khudai aap se youn hum kalam hoti hai
+  Keh aaj khalq pe naimat tamam hoti hai
+
+  5
+  Phir oss hajoom se ik bad numa sa shaks utha
+  Wajood-e-rijs pe lanat thi oss ke sar ta pa
+  Riwayaton mein hai keh naam oss ka Haris tha
+  Ishara kar ke Ali ki taraf yeh kehne laga
+  Jo baat aap ne hum logon se kahi hai yeh
+  Yeh sari iss ki muhabbat hai ya wahi hai yeh
+
+  6
+  Nabi pukarey jo nutaq e nabi se kehta hoon
+  Sab aashna hain woh hukam-e-jali se kehta hoon
+  Wahi na aaye tu main kab kisi se kehta hoon?
+  Khuda gawah hai sab kuch wahi se kehta hoon
+  Mera dahan hi nahi hai yeh nutaq e Bari hai
+  Jo mere munh mein zabaan hai woh Kirdgari hai
+
+  7
+  Suni yeh baat tu kehne laga agar youn hai
+  Kaha hai tum ne jo aye Mustafa agar youn hai
+  Yeh kuch nahi hai wahi ke siwa agar youn hai
+  Tumhara nutaq hai nutaq e Khuda agar youn hai
+  Tu phir Khuda ki taraf se jawab aa jaye
+  Abhi abhi mere upar azab aa jaye
+
+  8
+  Bas itna kehna tha qehar-e-Khuda ko ghaiz aaya
+  Khuda ne bugz-e-Ali ka natija dikhlaya
+  Zyada kuch nahi ik sang oss pe barsaya
+  Bana ke bohs ossay Allah ne yeh farmaya
+  Sawal jaisa tha waisa jawab bhaij diya
+  Azab manga tu hum ne azab bhaij diya
+
+  9
+  Ossay jo bohs banay dekha tu dar ke marey ab
+  Barhey munafiqeen Haider ki simt sare ab
+  Badal ke reh gaye maidan ke nazarey ab
+  Akar rahe they jo ab tak woh sab pukarey ab
+  Tum hi nabi ke khalifa ho ya Ali bakhin
+  Keh aaj se tum hi Maula ho ya Ali bakhin
+
+  10
+  Magar yeh kya howa Ahmad keh bad-e-peygamber
+  Bhula diya gaya paigham-e-Khaliq e akbar
+  Kabhi Saqeefa kabhi Shora mein chunay mimber
+  Ali ko chor ke yeh kalma go phiray dar dar
+  Bana ke taj saron par saja liya bohs ko
+  Jissay bhi chaha khalifa bana liya oss ko
 ---
 
-Hasen Kitna Tha Manzar Bana Jo Bad-e-Hajj
-Nabi Ka Karwaan Yasrab Chala Jo Bad-e-Hajj
-Our Iss Safar Mein Ghadeer Aa Gaya Jo Bad-e-Hajj
-Tu Hukam-e-Rab Howa Sarwar Yahin Pe Ruk Jao
-Khuda Pukara Payamber Yahin Pe Ruk Jao
-Yahin Pe Mimber-e-Palaan Ko Sajana Hai
-Habib Aakhri Khutba Yahin Sunana Hai
-Utarna Hai Woh Ahsan Jo Porana Hai
-Ali Ko Hathoon Pe Tum Ne Yahin Uthana Hai
-Yahin Pe Aya-e-Akmalto Laein Gay Jibreel
-Yehi Jagah Hai Jahan Deen Paye Ga Takmeel
-Suna Jo Hukam-e-Khuda Ruk Gaye Wahin Sarwar
-Sahabiyon Se Mukhatib Hoye Youn Peygamber
-Utar Kar Yeh Kajaway Banao Ik Mimber
-Chaley Gaye Hain Jo Aagay Kaho Unhein Ja Kar
-Ghadeer Aao Keh Hukam-e-Shah e Zamana Hai
-Nabi Ne Aakhri Paigham-e-Rab Sunana Hai
-Jo Laut Aaye Woh Ashab Khum Ke Maidaan Mein
-Tu Unn Ke Toot Gaye Khuwab Khum Ke Maidaan Mein
-Khula Howa Tha Niya Baab Khum Ke Maidaan Mein
-Kharey They Mustafa Betab Khum Ke Maidaan Mein
-Khushi Thi Itni Keh Pholay Nahi Samatay They
-Ali Ko Dulhay Ki Tarha Nabi Sajatay They
-Bana Ke Dulha Ali Ko Utha Ke Hathoon Par
-Charhey Kujawon Ke Mimber Pe Shan Se Sarwar
-Dikha Ke Majma Ko Haider Ka Chehra e Anwar
-Zara Si Bandh Ke Tamheed Bolay Peygamber
-Tamam Khalq-e-Khuda Ka Hoon Main Nabi Maula
-Main Jis Ka Maula Hoon Oss Ka Hai Yeh Ali Maula
-Hoi Yeh Baat Muakamil Tu Aa Gaye Jibreel
-Kaha Salam Aye Aaqa Aye Ibn e Ismail
-Main Le Ke Aaya Hoon Farman-e-Rab Izz-o-Jaleel
-Woh Keh Raha Hai Keh Ab Deein Ki Ho Gayi Takmeel
-Khudai Aap Se Youn Hum Kalam Hoti Hai
-Keh Aaj Khalq Pe Naimat Tamam Hoti Hai
-Phir Oss Hajoom Se Ik Bad Numa Sa Shaks Utha
-Wajood-e-Rijs Pe Lanat Thi Oss Ke Sar Ta Pa
-Riwayaton Mein Hai Keh Naam Oss Ka Haris Tha
-Ishara Kar Ke Ali Ki Taraf Yeh Kehne Laga
-Jo Baat Aap Ne Hum Logon Se Kahi Hai Yeh
-Yeh Sari Iss Ki Muhabbat Hai Ya Wahi Hai Yeh
-Nabi Pukarey Jo Nutaq e Nabi Se Kehta Hoon
-Sab Aashna Hain Woh Hukam-e-Jali Se Kehta Hoon
-Wahi Na Aaye Tu Main Kab Kisi Se Kehta Hoon?
-Khuda Gawah Hai Sab Kuch Wahi Se Kehta Hoon
-Mera Dahan Hi Nahi Hai Yeh Nutaq e Bari Hai
-Jo Mere Munh Mein Zabaan Hai Woh Kirdgari Hai
-Suni Yeh Baat Tu Kehne Laga Agar Youn Hai
-Kaha Hai Tum Ne Jo Aye Mustafa Agar Youn Hai
-Yeh Kuch Nahi Hai Wahi Ke Siwa Agar Youn Hai
-Tumhara Nutaq Hai Nutaq e Khuda Agar Youn Hai
-Tu Phir Khuda Ki Taraf Se Jawab Aa Jaye
-Abhi Abhi Mere Upar Azab Aa Jaye
-Bas Itna Kehna Tha Qehar-e-Khuda Ko Ghaiz Aaya
-Khuda Ne Bugz-e-Ali Ka Natija Dikhlaya
-Zyada Kuch Nahi Ik Sang Oss Pe Barsaya
-Bana Ke Bohs Ossay ALLAH Ne Yeh Farmaya
-Sawal Jaisa Tha Waisa Jawab Bhaij Diya
-Azab Manga Tu Hum Ne Azab Bhaij Diya
-Ossay Jo Bohs Banay Dekha Tu Dar Ke Marey Ab
-Barhey Munafiqeen Haider Ki Simt Sare Ab
-Badal Ke Reh Gaye Maidan Ke Nazarey Ab
-Akar Rahe They Jo Ab Tak Woh Sab Pukarey Ab
-Tum Hi Nabi Ke Khalifa Ho Ya Ali Bakhin
-Keh Aaj Se Tum Hi Maula Ho Ya Ali Bakhin
-Magar Yeh Kya Howa AHMAD Keh Bad-e-Peygamber
-Bhula Diya Gaya Paigham-e-Khaliq e Akbar
-Kabhi Saqeefa Kabhi Shora Mein Chunay Mimber
-Ali Ko Chor Ke Yeh Kalma Go Phiray Dar Dar
-Bana Ke Taj Saron Par Saja Liya Bohs Ko
-Jissay Bhi Chaha Khalifa Bana Liya Oss Ko
+حسین کتنا تھا منظر بنا جو بعدِ حج
+نبی کا کارواں یثرب چلا جو بعدِ حج
+اور اس سفر میں غدیر آ گیا جو بعدِ حج
+تو حکمِ رب ہوا سرور یہیں پہ رک جاؤ
+خدا پکارا پیمبر یہیں پہ رک جاؤ
+یہیں پہ منبرِ پالان کو سجانا ہے
+حبیب آخری خطبہ یہیں سنانا ہے
+اتارنا ہے وہ احساں جو پرانا ہے
+علی کو ہاتھوں پہ تم نے یہیں اٹھانا ہے
+یہیں پہ آیۂ اکملتُ لائیں گے جبریل
+یہی جگہ ہے جہاں دین پائے گا تکمیل
+
+۱
+سنا جو حکمِ خدا رک گئے وہیں سرور
+صحابیوں سے مخاطب ہوئے یوں پیغمبر
+اتار کر یہ کجاوے بناؤ اک منبر
+چلے گئے ہیں جو آگے کہو انہیں جا کر
+غدیر آؤ کہ حکمِ شاہِ زمانہ ہے
+نبی نے آخری پیغامِ رب سنانا ہے
+
+۲
+جو لوٹ آئے وہ اصحاب خم کے میدان میں
+تو ان کے ٹوٹ گئے خواب خم کے میدان میں
+کھلا ہوا تھا نیا باب خم کے میدان میں
+کھڑے تھے مصطفیٰ بیتاب خم کے میدان میں
+خوشی تھی اتنی کہ پھولے نہیں سماتے تھے
+علی کو دلہے کی طرح نبی سجاتے تھے
+
+۳
+بنا کے دلہا علی کو اٹھا کے ہاتھوں پر
+چڑھے کجاووں کے منبر پہ شان سے سرور
+دکھا کے مجمع کو حیدر کا چہرۂ انور
+ذرا سی باندھ کے تمہید بولے پیغمبر
+تمام خلقِ خدا کا ہوں میں نبی مولا
+میں جس کا مولا ہوں اس کا ہے یہ علی مولا
+
+۴
+ہوئی یہ بات مکمل تو آ گئے جبریل
+کہا سلام اے آقا اے ابنِ اسماعیل
+میں لے کے آیا ہوں فرمانِ رب عز و جلیل
+وہ کہہ رہا ہے کہ اب دین کی ہو گئی تکمیل
+خدائی آپ سے یوں ہم کلام ہوتی ہے
+کہ آج خلق پہ نعمت تمام ہوتی ہے
+
+۵
+پھر اس ہجوم سے اک بدنما سا شخص اٹھا
+وجودِ رجس پہ لعنت تھی اس کے سر تا پا
+روایتوں میں ہے کہ نام اس کا حارث تھا
+اشارہ کر کے علی کی طرف یہ کہنے لگا
+جو بات آپ نے ہم لوگوں سے کہی ہے یہ
+یہ ساری اس کی محبت ہے یا وحی ہے یہ
+
+۶
+نبی پکارے جو نطقِ نبی سے کہتا ہوں
+سب آشنا ہیں وہ حکمِ جلی سے کہتا ہوں
+وحی نہ آئے تو میں کب کسی سے کہتا ہوں؟
+خدا گواہ ہے سب کچھ وحی سے کہتا ہوں
+میرا دہن ہی نہیں ہے یہ نطقِ باری ہے
+جو میرے منہ میں زباں ہے وہ کردگاری ہے
+
+۷
+سنی یہ بات تو کہنے لگا اگر یوں ہے
+کہا ہے تم نے جو اے مصطفیٰ اگر یوں ہے
+یہ کچھ نہیں ہے وحی کے سوا اگر یوں ہے
+تمہارا نطق ہے نطقِ خدا اگر یوں ہے
+تو پھر خدا کی طرف سے جواب آ جائے
+ابھی ابھی میرے اوپر عذاب آ جائے
+
+۸
+بس اتنا کہنا تھا قہرِ خدا کو غیظ آیا
+خدا نے بغضِ علی کا نتیجہ دکھلایا
+زیادہ کچھ نہیں اک سنگ اس پہ برسایا
+بنا کے بھس اسے اللہ نے یہ فرمایا
+سوال جیسا تھا ویسا جواب بھیج دیا
+عذاب مانگا تو ہم نے عذاب بھیج دیا
+
+۹
+اسے جو بھس بنے دیکھا تو ڈر کے مارے اب
+بڑھے منافقین حیدر کی سمت سارے اب
+بدل کے رہ گئے میدان کے نظارے اب
+اکڑ رہے تھے جو اب تک وہ سب پکارے اب
+تم ہی نبی کے خلیفہ ہو یا علی بخٍ
+کہ آج سے تم ہی مولا ہو یا علی بخٍ
+
+۱۰
+مگر یہ کیا ہوا احمد کہ بعدِ پیغمبر
+بھلا دیا گیا پیغامِ خالقِ اکبر
+کبھی سقیفہ کبھی شوریٰ میں چنے منبر
+علی کو چھوڑ کے یہ کلمہ گو پھرے در در
+بنا کے تاج سروں پر سجا لیا بھس کو
+جسے بھی چاہا خلیفہ بنا لیا اس کو

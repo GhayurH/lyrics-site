@@ -18,31 +18,31 @@ romanLyrics: |-
 
   1
   Jab waada-e-tifli ko wafa kar chuke Shabbir
-  Khanjar ke tale shukr Khuda kar chuke Shabbir
+  Khanjar ke tale shukr-e-Khuda kar chuke Shabbir
   Sar maarka Karbobala kar chuke Shabbir
   Ummat ke liye haq se dua kar chuke Shabbir
   Tiroṅ ne sameta Shah-e-bekas ka musalla
   Tharraai zamiṅ kaamp utha arsh-e-mualla
 
   2
-  Jo kaam tha bhai ka behan ne wo sambhaala
+  Jo kaam tha bhai ka behan ne woh sambhaala
   Jalte hue khaime se bhatije ko nikaala
   Dam tor gaya saamne har god ka paala
   Lab par na bhar aaya dil-e-betaab ka naala
   Ae naala kunaṅ Zainab-e-dilgir thi Zainab
-  Haaṅ naasiraa-e-maqsad-e-Shabbir thi Zainab
+  Haaṅ naasira-e-maqsad-e-Shabbir thi Zainab
 
   3
   Naagaah sawaar ik nazar saamne aaya
-  Tharraane lagi jaane dil Fatima Zehra
+  Tharraane lagi jaan-e-dil Fatima Zehra
   Boli ke khabardaar wohi rok le ghora
   Ro ro ke abhi soe haiṅ maasum taras khaa
   Keh de Ibn Saad se lillaah tu jaa kar
-  Kal din ke ujaale meiṅ hameṅ lut le aa kar
+  Kal din ke ajaale mein hameṅ lut le aa kar
 
   4
   Jab sar mere bhai ka kata aap kahaaṅ the
-  Jab khaatma Akbar ka hua aap kahaaṅ the
+  Jab khaatima Akbar ka hua aap kahaaṅ the
   Paamaal hua Ibn-e-Hasan aap kahaaṅ the
   Tukre hua Abbaas ka tan aap kahaaṅ the
   Bewa hui ik shab ki dulhan aap kahaaṅ the
@@ -51,17 +51,17 @@ romanLyrics: |-
 
   5
   Baateṅ jo suni beti ki ashaar pukaara
-  Zainab maiṅ tera baap huṅ pehchaan Khudaara
-  Kin aankhoṅ se dekhuṅ maiṅ jigar soz nazaara
+  Zainab main tera baap huṅ pehchaan Khudaara
+  Kin aankhoṅ se dekhuṅ main jigar soz nazaara
   Tu dukh sahe aur mujh ko ho aaraam ganwaara
-  Shab bhar maiṅ tere khaimoṅ ka darbaan rahuṅ ga
-  Ta subh isi dasht meiṅ mehmaan rahuṅ ga
+  Shab bhar main tere khaimoṅ ka darbaan rahuṅ ga
+  Ta subh isi dasht mein mehmaan rahuṅ ga
 
   6
   Chaadar jo chhini saaqi-e-Kausar ko pukaara
   Qasim ko sada di Ali Akbar ko pukaara
-  Har zulm meiṅ Abbaas dilaawar ko pukaara
-  Jhule meiṅ lagi aag to Asghar ko pukaara
+  Har zulm mein Abbaas dilaawar ko pukaara
+  Jhule mein lagi aag to Asghar ko pukaara
   Roti thi koi Bibi to dete the dilaase
   Chaukhat pe na maasum abhi soe haiṅ pyaase
 ---

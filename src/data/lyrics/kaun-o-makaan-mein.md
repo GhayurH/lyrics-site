@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Baad-e-Rasul-e-Akram kya waqt aa para tha
   Har lamha the masaaib dil tukre ho raha tha
-  Athaara saal ka sin aur haath meiṅ asa tha
+  Athaara saal ka sin aur haath meiṅ asaa tha
   In aafatoṅ meiṅ jina Zehra ka hausla tha
 
   3
@@ -42,10 +42,10 @@ romanLyrics: |-
   Dekha janaaza maaṅ ka roye Husain muztar
   Aayi sadaa-e-Zehra ye maaṅ nisaar tujh par
   Rona tera gawaara kaise karegi maadar
-  Sine se maiṅ laga luṅ aa jaa Husain dilbar
+  Sine se main laga luṅ aa jaa Husain dilbar
 
   6
-  Zehra ka to janaaza taarik shab meiṅ utha
+  Zehra ka to janaaza taarik shab meiṅ uthaa
   Yaad aate haiṅ Rashid ab baazaar-e-Shaam o Kufa
   Wo betiyaaṅ Ali ki bechaadari ka charcha
   Wo aalam-e-asiri wo unt bekajaawa

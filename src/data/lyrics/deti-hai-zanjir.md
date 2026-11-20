@@ -20,7 +20,7 @@ romanLyrics: |-
   Karne lagi hai aap gharibi maatam Musa Kazim ka
 
   2
-  Haaye baad-e-shahada ke bhi pusht na sidhi hoti thi
+  Haaye baad-e-shuhada ke bhi pusht na sidhi hoti thi
   Chaudah saal ruku meiṅ reh kar Maula ka ye haal hua
 
   3
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Anguroṅ meiṅ zehr khila kar maara hai pardesi ko
-  Fil qurba ka Aal-e-Nabi ko ummat ne ye ajr diya
+  Fil qurbaa ka Aal-e-Nabi ko ummat ne ye ajr diya
 
   5
   Jo tha saatwaaṅ rukn-e-imaamat dhaaya zaalim logoṅ ne

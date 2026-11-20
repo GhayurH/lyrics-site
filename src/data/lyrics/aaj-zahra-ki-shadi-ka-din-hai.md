@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaj Zahra ki shahdi ka din hai Sajjad Ashraf Taqvi
-  Aqad-e-shair-e-Khuda marhaba
-  Shan-e-mushkil kusha marhaba
-  Nikley saj dhaj ke jab ghar se Maula Ali
+  Aaj Zahra ki shaadi ka din hai Sajjad Ashraf Taqvi
+  Aqd-e-sher-e-Khuda marhaba
+  Shaan-e-mushkil kusha marhaba
+  Nikle saj dhaj ke jab ghar se Maula Ali
   Anbiya ne keh diya marhaba marhaba
-  Sar pe sehra Ali ke saja hai aaj Zahra ki shadi ka din hai
-  Khoob shajrey se shajrah mila hai aaj Zahra ki shadi ka din hai
-  Aayatein itar barsa rahi hain sari dunya ko mehka rahi hain
-  Khushboon ka ajab silsila hai aaj Zahra ki shadi ka din hai
-  Dulha dulhan ka kya ho taruf fakhar-e-Mariyam hai ik fakhar-e-Yousuf
-  Kya haseen intehab-e-Khuda hai aaj Zahra ki shadi ka din hai
-  Aisa tohfa diya Kibriya ne jitna aab-o-namak hai Khuda ne
-  Sab ka sab mehar mein likh diya hai aaj Zahra ki shadi ka din hai
-  Aaj dil hai bohat khush Nabi ka aqad-e-hai Fatima se Ali ka
-  Aasmaan phool barsa raha hai aaj Zahra ki shadi ka din hai
-  Rukh se sehra hatatay hain Haider gash na aa jaye Mosa sanbhal kar
-  Noor-e-tauheed jalwa numa hai aaj Zahra ki shadi ka din hai
-  Jab uthi fakhar-e-Mariyam ki doli bhar gayi arsh walon ki jholi
-  Iss qadar jam ke sadqa bata hai aaj Zahra ki shadi ka din hai
-  Ho gaye sare arman poray sadqay wari hain Quraan ke soray
-  Aisa qudrat ne jora chuna hai aaj Zahra ki shadi ka din hai
-  Loag kehte hain Sajjad-o- Akhtar khoob khaincha hai sehrey ka manzar
-  Jaisa likha hai waisa parha hai aaj Zahra ki shadi ka din hai
+  Sar pe sehra Ali ke saja hai aaj Zahra ki shaadi ka din hai
+  Khub shajre se shajra mila hai aaj Zahra ki shaadi ka din hai
+  Aayateṅ itr barsa rahi haiṅ saari duniya ko mehka rahi haiṅ
+  Khushbuoṅ ka ajab silsila hai aaj Zahra ki shaadi ka din hai
+  Dulha dulhan ka kya ho taaruf fakhr-e-Maryam hai ik fakhr-e-Yusuf
+  Kya hasin intikhaab-e-Khuda hai aaj Zahra ki shaadi ka din hai
+  Aisa tohfa diya Kibriya ne jitna aab o namak hai Khuda ne
+  Sab ka sab mehr meiṅ likh diya hai aaj Zahra ki shaadi ka din hai
+  Aaj dil hai bahut khush Nabi ka aqd hai Fatima se Ali ka
+  Aasmaaṅ phul barsa raha hai aaj Zahra ki shaadi ka din hai
+  Rukh se sehra hataate haiṅ Haider ghash na aa jaaye Musa sambhal kar
+  Nur-e-tauhid jalwa numa hai aaj Zahra ki shaadi ka din hai
+  Jab uthi fakhr-e-Maryam ki doli bhar gayi arsh waaloṅ ki jholi
+  Is qadar jam ke sadqa bata hai aaj Zahra ki shaadi ka din hai
+  Ho gaye saare armaan pure sadqe waari haiṅ Quraan ke sure
+  Aisa qudrat ne jora chuna hai aaj Zahra ki shaadi ka din hai
+  Log kehte haiṅ Sajjad o Akhtar khub khaincha hai sehre ka manzar
+  Jaisa likha hai waisa parha hai aaj Zahra ki shaadi ka din hai
 ---
 
 ۱

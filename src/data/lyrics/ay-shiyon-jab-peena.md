@@ -1,6 +1,6 @@
 ---
 title: "فرماتی ہے یہ دختر سلطان کربلا"
-alternateTitle: "Ay Shiyon Jab Peena"
+alternateTitle: "Ae Shiyoṅ Jab Pina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Farmati hai ye dukhtare sultane karbala
-  Nikli mai qaimagah se maqtal ka rukh kiya
-  Jis dam mai pahunchi laashe padar par basad buka
-  Aati thi saaf halq e bureeda se ye sada
-  Shi‘atima im sharabtum ma'a azbin fazkuruni
-  Au samaytum begharibin au shahidin fandabuni
-  Ae shiyoṅ jab pina pani bhul na jaana mujhe
-  Zikre ghurbat ya shahadat ho to ro lena mujhe
-  Ghaat par darya ke pehredar the sab ashqiyaṅ
-  Ki bohat koshish magar qatra na pani mil saka
-  Tin deen tak mera kunba pani ko tarpa kiya
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Pyase dunya se gaye zainab ke do lakhte jigar
-  Ho gaya pamaal pyasa bhai ka nure nazar
-  Tashnalab rukhsat hua kariyal jawaaṅ mera pisar
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Bhai ne darya pe qabza karke mashkeeza bhara
-  Pyasa tha pyasa hi qaimagah se ghazi chala
-  Haye re taqdir pani mashk se sab beh gaya
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Dostoṅ mai huṅ nawasa sayyade kaunain ka
-  Zulm dhaaye ashqiyaṅ ne mujhpar bejurm o khata
-  Baad ko ahle dagha ne kata khanjar se gala
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Ek anghuthi ke liye bazdal ne ki ungli qata
-  Le gaya maalik basar ka beta amamma mera
-  Qais bin ashas hamara jaama e tan legaya
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Qatl karke ae shiyoṅ phir dushmano ne kya kiya
-  Kaat kar sar sibte paighambar ka naize pe rakha
-  Laasha e besar ko phir ghoroṅ se tukre kar diya
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Paas agar hote shia mere na hota aisa haal
-  Us ghari shiddat se aaya tha mere dil meiṅ khayal
-  Pani ka asghar ki khaatir kar raha tha jab sawaal
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Ruh farsa haye wo manzar jo koi dekhta
-  Qalb phat jaata jo pani maangne par ki jafa
-  Cheda paikane jafa se nanhe asghar ka gala
-  Shi‘atima...
-  Ae shiyoṅ jab...
-  Jab kiya bali sakina ne ye zainab se bayaṅ
-  Shiddate gham se bandhi binte ali ki hichkiyaṅ
-  Qatlgaah se e anis aati thi aawaz e fughaṅ
-  Shi‘atima...
-  Ae shiyoṅ jab...
+  Farmati hai ye dukhtar-e-Sultaan-e-Karbala
+  Nikli main khaimagaah se maqtal ka rukh kiya
+  Jis dam main pahunchi laash-e-padar par basad buka
+  Aati thi saaf halq-e-burida se ye sada
+  Shiati ma amsharab tum ma azbin fazkuruni
+  Au same tum begharibin o shahidin fandubuni
+  Ae Shiyoṅ jab pina paani bhul na jaane mujhe
+  Zikr-e-ghurbat ya shahaadat ho to ro lena mujhe
+  Ghaat par darya ke pehredaar the sab ashqiyaaṅ
+  Ki bahut koshish magar khatra na paani mil saka
+  Tin din tak mera kunba paani ko tarpa kiya
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Pyaase duniya se gaye Zainab ke do lakht-e-jigar
+  Ho gaya paamaal pyaasa bhaai ka nur-e-nazar
+  Tashna lab rukhsat hua kariyal jawaaṅ mera pisar
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Bhaai ne darya pe qabza kar ke mashkiza bhara
+  Pyaasa tha pyaasa hi khaimagaah se ghaazi chala
+  Haaye re taqdir paani mashk se sab bah gaya
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Dostoṅ main huṅ nawaasa Sayyad-e-Kaunain ka
+  Zulm dhaaye ashqiyaaṅ ne mujh par bejurm o khata
+  Baad ko ahl-e-dagha ne kata khanjar se gala
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Ek ghutan ke liye buzdil ne ki ungli khata
+  Le gaya Maalik Basar ka beta amaama mera
+  Khais bin Ashas hamaara jaamia-e-tan le gaya
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Qatl kar ke ae Shiyoṅ phir dushmanoṅ ne kya kiya
+  Kaat kar sar sibt-e-paighambar ka neze pe rakha
+  Laasha-e-besar ko phir ghoroṅ se tukre kar diya
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Paas agar hote Shia mere na hota aisa haal
+  Us ghari shiddat se aaya tha mere dil meiṅ khayaal
+  Paani ka Asghar ki khaatir kar raha tha jab sawaal
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Ruh fars haaye wo manzar jo koi dekha
+  Qalb phat jaata jo paani maangne par ki jafa
+  Chheda paikaan-e-jafa se nanhe Asghar ka gala
+  Shiati ma...
+  Ae Shiyoṅ jab...
+  Jab kiya baali Sakina ne ye Zainab se bayaaṅ
+  Shiddat-e-gham se bandhi bint-e-Ali ki hichkiyaaṅ
+  Qatlgaah se ae Anis aati thi aawaaz-e-fughaaṅ
+  Shiati ma...
+  Ae Shiyoṅ jab...
 ---
 
 ۱

@@ -1,6 +1,6 @@
 ---
 title: "آئیں گے غیب سے میرے سرکار ایک دن"
-alternateTitle: "Aaein Gaye Ghaib Se Mere Sarkar Aik Din"
+alternateTitle: "Aaeṅ Ge Ghaib Se Mere Sarkaar Aik Din"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,26 +10,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaein gaye ghaib se mere Sarkar aik din
-  Phir se hanse gi Kabe ki dewar aik din
+  Aaeṅ ge ghaib se mere Sarkaar aik din
+  Phir se hanse gi Kaabe ki diwaar aik din
 
   1
-  Bait-e-Khuda Baqiya mein qabar-e-Rasool par
-  Matam karein gaye Sheh ke azadar aik din
-  Ashk-e-gham-e-Hussain se aankhoon ko tar rakho
-  Ho ga Imam-e-Asar ka dedar aik din
+  Bait-e-Khuda Baqi mein qabr-e-Rasul par
+  Maatam kareṅ ge Sheh ke azaadaar aik din
+  Ashk-e-gham-e-Husain se aankhoṅ ko tar rakho
+  Ho ga Imaam-e-Asr ka didaar aik din
 
   2
-  Baqi nahi bache ga koi munkir-e-azza
-  Phir se chale gi Haidery talwar aik din
-  Jis jis ne Sheh ke gham ko tamasha banaya hai
-  Sab mare jaein gaye woh adakar aik din
+  Baaqi nahiṅ bache ga koi munkir-e-aza
+  Phir se chale gi Haidari talwaar aik din
+  Jis jis ne Sheh ke gham ko tamaasha banaaya hai
+  Sab maare jaaeṅ ge woh adaakaar aik din
 
   3
-  Sika chale ga sirf azza-e-Hussain ka
-  Mitt jaein gaye yeh dirham-o-dinar aik din
-  Ik lafz bhi na becha Takallaum ne iss liye
-  Aaye ga mere fan ka kharedar aik din
+  Sikka chale ga sirf aza-e-Husain ka
+  Mit jaaeṅ ge yeh dirham o dinaar aik din
+  Ik lafz bhi na becha Takallum ne is liye
+  Aae ga mere fan ka kharidaar aik din
 ---
 
 آئیں گے غیب سے میرے سرکار ایک دن

@@ -1,38 +1,65 @@
 ---
-title: "Amad E Abbas Mehdi Rizvi Hadi Rizvi"
+title: "آمدِ عباس مہدی رضوی ہادی رضوی"
+alternateTitle: "Amad E Abbas Mehdi Rizvi Hadi Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala jaein gi Zainab jab iradah ho gaya
+  Aamad-e-Abbas ka Zahra se wadah ho gaya
+
+  1
+  Chaar Shabaan hai zahoor-e-ba wafa ka din hai aaj
+  Aye Nuseri aaj tera jhota dawa ho gaya
+  Mangi Saqa-e-Sakina se madad Mosa ne jab
+  Darmiyaan darya ke ik lamhey mein rasta ho gaya
+
+  2
+  Oss ko pani ki talab kiya ho ke jis ke naam ko
+  Suntay hi aankhon se meri jari chashma ho gaya
+  Bhagtay hain Sham walay yeh sada detey hoye
+  La fata ke la fata betay ka hamla ho gaya
+
+  3
+  Mujh ko yeh mehsos hota hai alam ke saye mein
+  Sar pe dast-e-ba wafa ka mere saya ho gaya
+  Khaima e Zainab pe hai parcham ka saya iss tarha
+  Jis tarha Tatheer ka Zainab pe saya hoga
+
+  4
+  Hai sakhi Abbas ka rahwar Ashal iss liye
+  Haan sawali iss ke aagay yeh zamana ho gaya
+  Deti hain bibi Ruqaiya dad khud Qambar tujhe
+  Youn tere har shair ka dunya mein charcha ho gaya
 ---
 
-Karbala Jaein Gi Zainab Jab Iradah Ho Gaya.
-Aamad-e-Abbas Ka Zahra Se Wadah Ho Gaya.
+کربلا جائیں گی زینب جب ارادہ ہو گیا
+آمدِ عباس کا زہرا سے وعدہ ہو گیا
 
-1
-Chaar Shabaan Hai Zahoor-e-Ba Wafa Ka Din Hai Aaj.
-Aye Nuseri Aaj Tera Jhota Dawa Ho Gaya.
-Mangi Saqa-e-Sakina Se Madad Mosa Ne Jab.
-Darmiyaan Darya Ke Ik Lamhey Mein Rasta Ho Gaya.
+۱
+چار شعبان ہے ظہورِ باوفا کا دن ہے آج
+اے نصیری آج تیرا جھوٹا دعویٰ ہو گیا
+مانگی سقائے سکینہ سے مدد موسیٰ نے جب
+درمیاں دریا کے اک لمحے میں رستہ ہو گیا
 
-2
-Oss Ko Pani Ki Talab Kiya Ho Ke Jis Ke Naam Ko.
-Suntay Hi Aankhon Se Meri Jari Chashma Ho Gaya.
-Bhagtay Hain Sham Walay Yeh Sada Detey Hoye.
-La Fata Ke La Fata Betay Ka Hamla Ho Gaya.
+۲
+اس کو پانی کی طلب کیا ہو کہ جس کے نام کو
+سنتے ہی آنکھوں سے میری جاری چشمہ ہو گیا
+بھاگتے ہیں شام والے یہ صدا دیتے ہوئے
+لا فتیٰ کے لا فتیٰ بیٹے کا حملہ ہو گیا
 
-3
-Mujh Ko Yeh Mehsos Hota Hai Alam Ke Saye Mein.
-Sar Pe Dast-e-Ba Wafa Ka Mere Saya Ho Gaya.
-Khaima e Zainab Pe Hai Parcham Ka Saya Iss Tarha.
-Jis Tarha Tatheer Ka Zainab Pe Saya Hoga.
+۳
+مجھ کو یہ محسوس ہوتا ہے علم کے سائے میں
+سر پہ دستِ باوفا کا میرے سایہ ہو گیا
+خیمۂ زینب پہ ہے پرچم کا سایہ اس طرح
+جس طرح تطہیر کا زینب پہ سایہ ہوگا
 
-4
-Hai Sakhi Abbas Ka Rahwar Ashal Iss Liye.
-Haan Sawali Iss Ke Aagay Yeh Zamana Ho Gaya.
-Deti Hain Bibi Ruqaiya Dad Khud Qambar Tujhe.
-Youn Tere Har Shair Ka Dunya Mein Charcha Ho Gaya.
+۴
+ہے سخی عباس کا رہوار اشہل اس لیے
+ہاں سوالی اس کے آگے یہ زمانہ ہو گیا
+دیتی ہیں بی‌بی رقیہ داد خود قمبر تجھے
+یوں تیرے ہر شعر کا دنیا میں چرچا ہو گیا

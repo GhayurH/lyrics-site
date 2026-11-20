@@ -1,6 +1,6 @@
 ---
 title: "اے علی اصغرؑ میرے تیری شجاعت کو سلام"
-alternateTitle: "Aey Ali Asghar Meray Teri Shujaat Ko Salam"
+alternateTitle: "Ae Ali Asghar Mere Teri Shujaat Ko Salam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,28 +10,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khoad kar nanhi lahad kehtay thay ye tashna kaam
-  Aey Ali Asghar meray teri shujaat ko salam
+  Khod kar nanhi lahad kehte the ye tashna kaam
+  Ae Ali Asghar mere teri shujaat ko salam
 
   1
-  Jo hua nabyon se na wo kam ho tum kar gaye
-  Hamsari Akbar ki kar ke tum bhi naize par gaye
-  Kartay hain sab ambiya teri shahadat ko salam
+  Jo hua nabiyoṅ se na wo kaam ho tum kar gaye
+  Hamsari Akbar ki kar ke tum bhi neze par gaye
+  Karte haiṅ sab ambiya teri shahadat ko salam
 
   2
-  Teri ik muskan ne Hurmal ko pagal kar diya
-  Jo thi mushkil deen ki us ko tu ne hay hal kar diya
-  Deen ki hay tanweer t uteri hay jurrat ko salam
+  Teri ik muskaan ne Hurmal ko paagal kar diya
+  Jo thi mushkil din ki us ko tu ne hai hal kar diya
+  Din ki hai tanwir to teri hai jurrat ko salam
 
   3
-  Nana se hizyan ki tohmat dhonay walay aey sagheer
-  Nanhay se nazuk galay se toarr dala tu ne teer
-  Arsh ke kartay makeen hain teri azmat ko salam
+  Naana se hizyaan ki tohmat dhone wale ae saghir
+  Nanhe se naazuk gale se tor daala tu ne tir
+  Arsh ke karte makiṅ haiṅ teri azmat ko salam
 
   4
-  Hashmi hay khoon tu tujh sa jari koi kahan
-  Hain gawah teri shujaat ke zameen ye aasman
-  Khuda fazeelat karti hay teri fazeelat ko salam
+  Haashmi hai khun to tujh sa jari koi kahaaṅ
+  Haiṅ gawaah teri shujaat ke zamiṅ ye aasmaaṅ
+  Khud fazilat karti hai teri fazilat ko salam
 ---
 
 کھود کر ننھی لحد کہتے تھے یہ تشنہ کام

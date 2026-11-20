@@ -8,33 +8,34 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Okha hogaya akbar laee sughra nu samjhona
+  Aukha ho gaya Akbar lai Sughra nun samjhaana
+  Tun mantaan mangdiyaan reh jaana Akbar ne mur nain auna
 
   1
-  Tu manta mandiya reh jaana...2, akbar ne mud nai ona
-  Okha hogaya akbar lai sughra nu samjhona...2
+  Mushkil ho gaya Akbar ka Sughra ko samjhaana
+  Tu mannateṅ maanti reh jaana Akbar ne mur nahiṅ aana
+  Kaise Sughra se kahe bhejeṅ na mehndi Karbal meiṅ
+  Barchhi se mehndi sajaaega tera bhaiya Akbar jaanaaṅ
+  Aise band hoeṅge ye taale kabhi khulne nahiṅ
+  Ye ghar ye aangan to hoṅge nahiṅ basne waala hona
+  Paas Baba ke bitha bhaiya ko dekh le raj ke
+  Ik baari jo ye guzar gaya manzar ye phir nahiṅ aana
+  Khaak par qadmoṅ ki dasviṅ ko tu bhi so jaaeṅ
+  Karbal meiṅ shaam-e-gharibaaṅ meiṅ ham sab ne khaak pe sona
+  Chalte mahmil Akbar maiyatoṅ ke jaise lagte haiṅ
+  Takti rahi roti aankhoṅ se ye saara khwaab daraauna
 
   2
-  1) kiwe sughra nu kawe he jina mendi karbal vich
-  Kiwe sughra nu kawe Barchhi nal mehendiya laawega
-  Tera akbar jagto sona
-
-  3
-  2) naal baabe de bitha veera nu dekhle ranjke
-  Naal baabe de bitha,ek waari je ye bichhad gaya..2, ey wela fir nai ona
-
-  4
-  3) enjh band howandge ay jand de fer khulne nai
-  Enjh band howandge ey ghar ey wede howandge...2, parwaasi koi nai hona
-
-  5
-  4) khaakte kadmaa di daswi nu tu wi sojaani
-  Khaak te kadma di, karbal vich shaame gareeba nu
-  Asa saare khaak te sona
-
-  6
-  5) turghe mehmil akbar, maiyyatane waang lag dene
-  Turghe mehmil akbar, takdi khuliyan akhiya nu...2, ey saara khaab darona
+  Kivein Sughra nun kahve bhejein na mehndi Karbal vich
+  Barchhi nal mehndiyaan laavega mera Akbar jag ton sohna
+  Ainj band hovan ge ae jandre pher khulne nahin
+  Ae ghar ae vehre hovan ge par vaasi koi nahin hona
+  Naal Baabe de bitha veeraan nun vekh le raj ke
+  Ak vaari je ae guzar gaya ae vela pher nain aana
+  Khaak te qadmaan di dasvin no tu vi so jaavein
+  Karbal vich shaam-e-gharibaan nun asaan saariyaan khaak te sona
+  Turde mahmil Akbar maiyataan de vaang lagde ne
+  Takdi rahi khulliyaan akkhiyaan nal ae saar khaab daraauna
 ---
 
 اوکھا ہو گیا اکبرؑ لئی صغراؑ نوں سمجھانا

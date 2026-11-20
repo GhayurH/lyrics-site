@@ -11,137 +11,137 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab chali din ki aur uske madadgaar ki baat
-  Aashiqe rab ki mohamed ke wafadaar ki baat
+  Jab chali din ki aur us ke madadgaar ki baat
+  Aashiq-e-Rab ki Muhammad ke wafadaar ki baat
   Sabr ki pyaas ki isaar ki kirdaar ki baat
-  Phir to hona hai mere syed o sardar ki baat
-  Dil meiṅ dharakta hai syed badshah mera
-  Lab pe bhi rehta hai syed badshah mera
-  Mera wazeefa hai syed badshah mera
-  Aaqa mera maula mera syed badshah Husain
-  Syed badshah Husain syed badshah Husain
-  Syed badshah Husain syed badshah Husain
-  Hum bhi azadaar hai haaṅ wafadaar hai
-  Tere ghamkhwar hai syed badshah Husain
-  Hum bhi azadaar hai haaṅ wafadaar hai
-  Tere ghamkhwar hai syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Dil meiṅ rahe maula mera yaad rahe karbobala
-  Jaari rahe zikr sada saath rahe farshe azaa
+  Phir to hona hai mere Syed o sardar ki baat
+  Dil meiṅ dharakta hai Syed baadshaah mera
+  Lab pe bhi rehta hai Syed baadshaah mera
+  Mera wazeefa hai Syed baadshaah mera
+  Aaqa mera maula mera Syed baadshaah Husain
+  Syed baadshaah Husain Syed baadshaah Husain
+  Syed baadshaah Husain Syed baadshaah Husain
+  Hum bhi azaadaar hai haaṅ wafadaar hai
+  Tere gham khwaar hai Syed baadshaah Husain
+  Hum bhi azaadaar hai haaṅ wafadaar hai
+  Tere gham khwaar hai Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Dil meiṅ rahe maula mera yaad rahe Karb o Bala
+  Jaari rahe zikr sada saath rahe farsh-e-azaa
   Mil ke ye har baar kaho kaho sau baar kaho
-  Sab azadaar kaho syed badshah Husain
-  Mashallah tu behtarin syed badshah
-  Subhanallah sar zamin teri karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Syed badshah Husain syed badshah Husain
-  Syed badshah Husain syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Salle ala mohamedin salle ala nabiena
-  Nana ka dil nana ki jaan maula Husain syedana
+  Sab azaadaar kaho Syed baadshaah Husain
+  Mashallah tu behtarin Syed baadshaah
+  Subhanallah sar zamin teri Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Syed baadshaah Husain Syed baadshaah Husain
+  Syed baadshaah Husain Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Salli ala Muhammadin salli ala nabiyyina
+  Naana ka dil naana ki jaan maula Husain Sayyidana
   Syed o sardar Husain mere sarkar Husain
-  Mere mukhtar Husain syed badshah Husain
-  Mashallah tu behtarin syed badshah
-  Subhanallah sar zamin teri karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Hum bhi azadaar hai haaṅ wafadaar hai
-  Tere ghamkhwar hai syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Murshid a man raazi rahe syed e man raazi rahe
-  Jaan rahe ya na rahe jaari azadari rahe
-  Lab pe ye paigham rahe ye sada aam rahe
-  Bas tera naam rahe syed badshah Husain
-  Mashallah tu behtarin syed badshah
-  Subhanallah sar zamin teri karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Syed badshah Husain syed badshah Husain
-  Syed badshah Husain syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Hum hai faqiran e Husain matami darban e Husain
-  Saare safiran e aza dil se hai qurban e Husain
-  Hum pe hai ehsaan tera tu hai sultan mera
-  Tu hai emaan mera syed badshah Husain
-  Mashallah tu behtarin syed badshah
-  Subhanallah sar zamin teri karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Hum bhi azadaar hai haaṅ wafadaar hai
-  Tere ghamkhwar hai syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
-  Jaan Husain jaan e jaanaṅ Husain
-  Dil o emaan Husain haaṅ mera syed badshah Husain
+  Mere mukhtar Husain Syed baadshaah Husain
+  Mashallah tu behtarin Syed baadshaah
+  Subhanallah sar zamin teri Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Hum bhi azaadaar hai haaṅ wafadaar hai
+  Tere gham khwaar hai Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Murshid-e-man raazi rahe Syed-e-man raazi rahe
+  Jaan rahe ya na rahe jaari azaadaari rahe
+  Lab pe ye paighaam rahe ye sada aam rahe
+  Bas tera naam rahe Syed baadshaah Husain
+  Mashallah tu behtarin Syed baadshaah
+  Subhanallah sar zamin teri Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Syed baadshaah Husain Syed baadshaah Husain
+  Syed baadshaah Husain Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Hum hai faqiraan-e-Husain maatami darbaan-e-Husain
+  Saare safiraan-e-azaa dil se hai qurbaan-e-Husain
+  Hum pe hai ehsaan tera tu hai sultaan mera
+  Tu hai imaan mera Syed baadshaah Husain
+  Mashallah tu behtarin Syed baadshaah
+  Subhanallah sar zamin teri Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Hum bhi azaadaar hai haaṅ wafadaar hai
+  Tere gham khwaar hai Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
+  Jaan-e-Husain jaan-e-jaanaaṅ Husain
+  Dil o imaan Husain haaṅ mera Syed baadshaah Husain
   Roz wo ashur ka tha shaah ka ghar jis meiṅ luta
-  Khuṅ bahattar ka baha aisa saja din e khuda
-  Marhaba shah ast Husain badshah ast Husain
-  Diṅ panah ast Husain syed badshah Husain
-  Mashallah tu behtarin syed badshah
-  Subhanallah sar zamin teri karbala
-  Jaan e jaan e jaan e jaanane karbala
-  Jaan e jaan e jaan e jaanane karbala
+  Khuṅ bahattar ka baha aisa saja din-e-Khuda
+  Marhaba shah ast Husain baadshaah ast Husain
+  Diṅ panah ast Husain Syed baadshaah Husain
+  Mashallah tu behtarin Syed baadshaah
+  Subhanallah sar zamin teri Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
+  Jaan-e-jaan-e-jaan-e-jaanaan-e-Karbala
   Husain Husain Husain Husain
-  Azadaroṅ azadaroṅ azadaroṅ
-  Hum log azadaar hai zehra ki dua se
-  Sikhi hai wafa hum ne dar e shaah e wafa se
-  Karte hai bohat pyaar shahe karbobala se
-  Hote hi nahi dur kabhi farshe aza se
-  Azadaroṅ ae azadaroṅ ae azadaroṅ
-  Ae shah ke azadaroṅ is gham ko manana hai
-  Ye farshe azadari ghar ghar meiṅ bichana hai
-  Shabbir ki ghurbat ka nauha bhi sunana hai
-  Kiuṅ karte hai ye matam dunya ko batana hai
+  Azaadaaroṅ azaadaaroṅ azaadaaroṅ
+  Hum log azaadaar hai Zehra ki dua se
+  Sikhi hai wafa hum ne dar-e-shaah-e-wafa se
+  Karte haiṅ bahut pyaar shah-e-Karb o Bala se
+  Hote hi nahiṅ dur kabhi farsh-e-azaa se
+  Azaadaaroṅ ae azaadaaroṅ ae azaadaaroṅ
+  Ae shah ke azaadaaroṅ is gham ko manaana hai
+  Ye farsh-e-azaadaari ghar ghar meiṅ bichana hai
+  Shabbir ki ghurbat ka nauha bhi sunaana hai
+  Kiuṅ karte haiṅ ye maatam duniya ko bataana hai
   Kya kya na sitam mere maula ne uthaya hai
-  Nana se kiya waada syed ne nibhaya hai
-  Ek din meiṅ bhare ghar ko sehra meiṅ lutaya hai
-  Gham naujawaṅ akbar ka
-  Wa waila Husain Husain wa waila Husain
-  Wa waila Husain
-  Gham naujawaṅ akbar ka
-  Gham qasim o asghar ka
-  Gham ghazi dilawar ka
-  Gham haye bahattar ka
-  Gham berida behno ka
-  Jalte huwe qaimon ka
-  Gham baali sakina ka
-  Gham pyase shahidoṅ ka
+  Naana se kiya waada Syed ne nibhaya hai
+  Ek din meiṅ bhare ghar ko sahra meiṅ lutaaya hai
+  Gham-e-naujavaaṅ Akbar ka
+  Waawaila Husain Husain waawaila Husain
+  Waawaila Husain
+  Gham-e-naujavaaṅ Akbar ka
+  Gham-e-Qaasim o Asghar ka
+  Gham-e-Ghaazi Dilaawar ka
+  Gham-haa-e-bahattar ka
+  Gham-e-berida behnoṅ ka
+  Jalte hue khaimoṅ ka
+  Gham-e-baali Sakina ka
+  Gham-e-pyaase shahidoṅ ka
   Wa ghurbata Husain wa hasrata Husain
-  Ae badshah Husain
+  Ae baadshaah Husain
   Husain Husain
   Husain Husain Husain Husain
   Husain Husain Husain Husain
-  Shahid e karbala Husain
-  Husain Husain imam Husain
-  Gharib e nainawa Husain
-  Husain Husain imam Husain
-  Qatil e bekhata Husain
-  Husain Husain imam Husain
-  Zabih e maariya Husain
-  Husain Husain imam Husain
+  Shahid-e-Karbala Husain
+  Husain Husain Husain Husain
+  Gharib-e-Nainawa Husain
+  Husain Husain Husain Husain
+  Qatil-e-bekhata Husain
+  Husain Husain Husain Husain
+  Zabih-e-Maariya Husain
+  Husain Husain Husain Husain
   Nabi ka dilruba Husain
-  Husain Husain imam Husain
-  Qaraar e syeda Husain
-  Jalaal e murtaza Husain
-  Husain Husain imam Husain
-  Shahid e karbala Husain
-  Husain Husain imam Husain
-  Shahid e karbala Husain
-  Husain Husain imam Husain
-  Gharib e nainawa Husain
-  Husain Husain imam Husain
+  Husain Husain Husain Husain
+  Qaraar-e-Sayyeda Husain
+  Jalaal-e-Murtaza Husain
+  Husain Husain Husain Husain
+  Shahid-e-Karbala Husain
+  Husain Husain Imaam Husain
+  Shahid-e-Karbala Husain
+  Husain Husain Imaam Husain
+  Gharib-e-Nainawa Husain
+  Husain Husain Imaam Husain
   Husain Husain Husain Husain
   Husain Husain Husain Husain
   Husain Husain Husain Husain

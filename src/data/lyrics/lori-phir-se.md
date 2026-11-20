@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aayi jab ran meiṅ asre ashoora
+  Aayi jab ran mein asr-e-Aashura
   Ek qayamat ka tha samaaṅ barpa
   Jab na sambhale Husain ghore par
   Gir ke tehre zamiṅ pe tiroṅ par
   Haye har zulm seh rahe the Husain
-  Aur maqtal meiṅ keh rahe the Husain
-  Apni aghosh meiṅ sulalo maa
-  Lori phir se wohi sunado maa
+  Aur maqtal mein keh rahe the Husain
+  Apni aaghosh mein sula lo maaṅ
+  Lori phir se wohi suna do maaṅ
   Ae mere laal Husain
   Bachpane se hai mera ek sapna
-  Waada pura mai kar sakuṅ apna
-  Aisi mujhko to ab dua do maa
+  Waada pura main kar sakuṅ apna
+  Aisi mujhko to ab dua do maaṅ
   Lori phir se wohi...
   Tir o talwaar ki chubhan se nidhaal
-  Hua sadmoṅ ki mai thakan se nidhaal
-  Mujhko godhi meiṅ ab sulalo maa
+  Hua sadmoṅ ki main thakan se nidhaal
+  Mujhko godi mein ab sula lo maaṅ
   Lori phir se wohi...
   Kitna sukha hai mera dekho dahan
-  Hogaya paash paash mera badan
-  Tir tan se mere nikalo maa
+  Ho gaya paash paash mera badan
+  Tir tan se mere nika lo maaṅ
   Lori phir se wohi...
   Dekha maadar ko to ye sheh ne kaha
-  Chalni tiroṅ ne kar diya kurta
-  Apni chadar mujhe udhado maa
+  Chhalni tiroṅ ne kar diya kurta
+  Apni chadar mujhe urha do maaṅ
   Lori phir se wohi...
-  Dushmani saari inki mujhse hai
+  Dushmani saari in ki mujh se hai
   Ye faqat mere khun ke pyase hai
-  Apni gardan ko tum hatalo maa
+  Apni gardan ko tum hata lo maaṅ
   Lori phir se wohi...
   Ashk aankheiṅ meri bahati hai
   Yaadeiṅ bachpan ki phir satati hai
-  Apne pehlu meiṅ tum litalo maa
+  Apne pehlu mein tum lita lo maaṅ
   Lori phir se wohi...
-  Dekho amma ye phasliyaṅ tuti
-  Kaise dekhogi haddiyaṅ tuti
-  Gir raha huṅ mujhe sambhalo maa
+  Dekho ammaaṅ ye pasliyaaṅ tuti
+  Kaise dekho gi haddiyaaṅ tuti
+  Gir raha huṅ mujhe sambhaalo maaṅ
   Lori phir se wohi...
-  Tere pehlu meiṅ jab bhi sota tha
-  Raatoṅ ko uth ke mai ye kehta tha
-  Mujhko pani zara pilado maa
+  Tere pehlu mein jab bhi sota tha
+  Raatoṅ ko uth ke main ye kehta tha
+  Mujhko paani zara pila do maaṅ
   Lori phir se wohi...
-  Hai dua shams aur aamir ki
-  Amma kar do ye aarzu puri
-  Apne rauze pe tum bulalo maa
+  Hai dua Shams aur Aamir ki
+  Ammaaṅ kar do ye aarzu puri
+  Apne rauze pe tum bula lo maaṅ
   Lori phir se wohi...
 ---
 

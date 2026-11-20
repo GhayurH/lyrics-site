@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye akbar haye akbar
+  Haye Akbar haye Akbar
   Baba mere baba
-  Haye akbar..
-  Deke awaaz baap ko akbar
-  Sochte hai ke aayenge kaise
-  Larkhadate huwe jo aa bhi gaye
-  Haye mera laasha uthayenge kaise
+  Haye Akbar
+  Deke awaaz baap ko Akbar
+  Sochte haiṅ ke aayeṅge kaise
+  Larkharaate hue jo aa bhi gaye
+  Haye mera laasha uthaayeṅge kaise
   Deke awaaz baap ko...
   Hur ke bete ki laash par
-  Hur se keh rahe the abhi yehi baba
-  Baap laashe jawan uthata nahi
-  Iska lasha mai khud utha'unga
+  Hur se keh rahe the abhi yahi baba
+  Baap laashe jawaan uthaata nahiṅ
+  Iska laasha main khud uthaaunga
   Ab wahi marhala hai baba par
-  Mere laasha uthayenge kaise
+  Mere laasha uthaayeṅge kaise
   Deke awaaz baap ko...
-  Ek mehshar bapa tha qaimein meiṅ
-  Maa se jis dam gaya tha mai milne
+  Ik mahshar bapa tha khaime mein
+  Maaṅ se jis dam gaya tha main milne
   Aake baba ne us ghari
-  Daaman khud churaya tha meri behno se
-  Mera daaman churana aasan tha
-  Dil se barchi chudayenge kaise
+  Daaman khud chhuraaya tha meri behnoṅ se
+  Mera daaman chhuraana aasaan tha
+  Dil se barchhi chhudayeṅge kaise
   Deke awaaz baap ko...
-  Fikr barchi ki kuch nahi mujko
-  Dil meiṅ bas ye khayal aata hai
+  Fikr barchhi ki kuchh nahiṅ mujhko
+  Dil mein bas ye khayaal aata hai
   Apne kariyal jawaaṅ ke laashe par
   Jite ji baap mar hi jaata hai
-  Is zaifi meiṅ ek saat padar
-  Do janaze uthayenge kaise
+  Is zaifi mein ik saat padar
+  Do janaaze uthaayeṅge kaise
   Deke awaaz baap ko...
-  Ab mai samjha ke kis liye baba
+  Ab main samjha ke kis liye baba
   Mere sine ko chuma karte the
-  Yaad aati thi unko jab sughra
-  Meri aankhoṅ meiṅ dekha karte the
-  Gham hai ab mera meri aankhoṅ meiṅ
-  Mujhse nazreiṅ milayenge kaise
+  Yaad aati thi unko jab Sughra
+  Meri aankhoṅ mein dekha karte the
+  Gham hai ab mera meri aankhoṅ mein
+  Mujhse nazreṅ milaayeṅge kaise
   Deke awaaz baap ko...
-  Ayna ayna ali-ul akbar ki
-  Ran meiṅ awaaz jab wo dete hai
-  Haye ghurbat gharib e zehra ki
-  Dekh kar shaam waale haste hai
+  Ayna ayna Ali-ul-Akbar ki
+  Ran mein awaaz jab wo dete haiṅ
+  Haye ghurbat-e-gharib-e-Zehra ki
+  Dekh kar Shaam waale haṅste haiṅ
   Raasta unko mujh tak aane ka
-  Phir ye qaatil batayenge kaise
+  Phir ye qaatil bataayeṅge kaise
   Deke awaaz baap ko...
-  Qatle shabbir ki hai tayyari ran meiṅ
-  Chamka rahe hai sab khanjar
-  Barchi sine meiṅ hai mere lekin
-  Itna majbur bhi nahi akbar
-  Shaam ke log mere hote huwe
-  Sheh pe khanjar chalayenge kaise
+  Qatl-e-Shabbir ki hai tayyaari ran mein
+  Chamka rahe haiṅ sab khanjar
+  Barchhi sine mein hai mere lekin
+  Itna majbur bhi nahiṅ Akbar
+  Shaam ke log mere hote hue
+  Sheh pe khanjar chalaayeṅge kaise
   Deke awaaz baap ko...
-  Aankh meiṅ askh lab pe nauha tha
-  Ae takallum ajib lamha tha
-  Dil meiṅ wo baar baar kehta tha
-  Aane wala hai qaaside sughra
+  Aankh mein ashk lab pe nauha tha
+  Ae Takallum ajib lamha tha
+  Dil mein wo baar baar kehta tha
+  Aane waala hai qaasid-e-Sughra
   Bhai ki laash par mere baba
-  Khat behan ka sunayenge kaise
+  Khat behan ka sunaayeṅge
   Deke awaaz baap ko...
 ---
 

@@ -1,93 +1,175 @@
 ---
-title: "Main Hoon Abbas E Ali Wajhi Hasan Zaidi"
+title: "میں ہوں عباسِ علی وجیہ حسن زیدی"
+alternateTitle: "Main Hoon Abbas-e-Ali Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Main hoon Abbas e Ali Wajhi Hasan Zaidi
+
+  1
+  Chehra-e-azam ka akas mujhe kehte hain
+  Kanz-e-Islam ka almas mujhe kehte hain
+  Dil-e-Shabeer ka ahsas mujhe kehte hain
+  Shair hoon iss liye Abbas mujhe kehte hain
+  Khaliq-e-haq se Muhammad ke wali ne mujh ko
+  Karbala ke liye manga tha Ali ne mujh ko
+
+  2
+  Karta hai chehron ki har waqt ziyarat Quraan
+  Jalwah-e-Toor musalsal nazar aaya hairaan
+  Husan-e-Yousuf bhi yahan rakhta nahi naam-o-nishaan
+  Falak-e-husan pe sab husan ke soraj hain jahan
+  Ba Khuda mulk-e-wafa ke liye ik hakim hoon
+  Main akela hi wahan mah-e-Bani Hashim hoon
+
+  3
+  Apni kasrat pe ho khush aaj zyada lekin
+  Kar liya hamlay ka tum sab ne iradah lekin
+  Shamiyon lakhon ho tum main hoon akela lekin
+  Tum ho serab main maqtal mein hoon pyasa lekin
+  Chehra-e-Haider-e-Karrar ka akas nahi
+  Tum ko nazron pe na roka tu main Abbas nahi
+
+  4
+  Dasht-e-pur haul mein biphra tha Hussaini jarrar
+  Yak ba yak gonji jo Haider ke asad ki lalkar
+  Aisa lagta tha qayamat ke hain sare aasaar
+  Nehar se keh ke yehi bhag rahe they ashrar
+  Thartharati hai zameen haq ke wali aate hain
+  Maut se kaun bachaye ga Ali aate hain
+
+  5
+  Shamiyon maut ke lamhat ko gardaan bhi lo
+  Jee nahi pao gay apne liye shamshan bhi lo
+  Shair-e-Haider hoon laeeno mujhe pehchan bhi lo
+  Tum tu lakhon hoon magar mera sukhan jan bhi lo
+  Bhagay ke rah na pao gay woh halat hogi
+  Aasteen main ne jo ulti tu qayamat hogi
+
+  6
+  Hain juda sab se meri taig-e-nazar ke hamlay
+  Malak al-maut hain humrah meri nazron ke
+  Al-amaan ka yeh sukhan lakh zabno pe rahe
+  Bach nahi paye ga ab koi yahan marne se
+  Arziyaan hoon gi na manzoor guzarish hogi
+  Aaj maidaan mein faqat maut ki barish hogi
+
+  7
+  Bal yeh khatay ho jo azmat pe hamari tum loag
+  Jalay jate ho jo azmat pe hamari tum loag
+  Harf uthatay ho jo azmat pe hamari tum loag
+  Tilmilatay ho jo azmat pe hamari tum loag
+  Sair ho kar bhi meri taig ke pyasay ho tum
+  Mujh ko maloom hai Hinda ke nawasay ho tum
+
+  8
+  Woh chali taig-e-nazar our girey jismo se sar
+  Khon hi khon nazar aata hai ta had-e-nazar
+  Mar gaye dekh ke Ghazi ka ghazab hi aksar
+  Dasht-e-khamosh ka wallah ajab tha manzar
+  Dekh kar waar ki raftar bara kanp gaye
+  Itna doray Malak al-maut bhi keh hanp gaye
+
+  9
+  Jaisay qabron ke qareen hoti hai ik khamoshi
+  Shair jab aaya tu afwaj ki halat thi yehi
+  Foaj ik dojay se maidan-e-wiga mein boli
+  Jan pyari hai tu yeh baat hi behtar hogi
+  Lab-e-darya bari haibat hai chalo bhag chalein
+  Yeh tu ajdad ki seerat hai chalo bhag chalein
+
+  10
+  Aye Wajih apni aqeedat ki jila kuch bhi nahi
+  Chor kar nam-e-alamdar-e-wafa kuch bhi nahi
+  Wasta inn ka nahi gar tu dua kuch bhi nahi
+  Aarzu:MIR HILAL: iss ke siwa kuch bhi nahi
+  Behar-e-irfan mein kuch aisay utar kar jaon
+  Samne roza-e-Abbas ho our mar jaon
 ---
 
-Main Hoon Abbas e Ali Wajhi Hasan Zaidi.
+میں ہوں عباسِ علی وجیہ حسن زیدی
 
-1
-Chehra-e-Azam Ka Akas Mujhe Kehte Hain.
-Kanz-e-Islam Ka Almas Mujhe Kehte Hain.
-Dil-e-Shabeer Ka Ahsas Mujhe Kehte Hain.
-Shair Hoon Iss Liye Abbas Mujhe Kehte Hain.
-Khaliq-e-Haq Se Muhammad Ke Wali Ne Mujh Ko.
-Karbala Ke Liye Manga Tha Ali Ne Mujh Ko.
+۱
+چہرۂ اعظم کا عکس مجھے کہتے ہیں
+کنزِ اسلام کا الماس مجھے کہتے ہیں
+دلِ شبیر کا احساس مجھے کہتے ہیں
+شیر ہوں اس لیے عباس مجھے کہتے ہیں
+خالقِ حق سے محمد کے ولی نے مجھ کو
+کربلا کے لیے مانگا تھا علی نے مجھ کو
 
-2
-Karta Hai Chehron Ki Har Waqt Ziyarat Quraan.
-Jalwah-e-Toor Musalsal Nazar Aaya Hairaan.
-Husan-e-Yousuf Bhi Yahan Rakhta Nahi Naam-o-Nishaan.
-Falak-e-Husan Pe Sab Husan Ke Soraj Hain Jahan.
-Ba Khuda Mulk-e-Wafa Ke Liye Ik Hakim Hoon.
-Main Akela Hi Wahan Mah-e-Bani Hashim Hoon.
+۲
+کرتا ہے چہروں کی ہر وقت زیارت قرآن
+جلوۂ طور مسلسل نظر آیا حیراں
+حسنِ یوسف بھی یہاں رکھتا نہیں نام و نشاں
+فلکِ حسن پہ سب حسن کے سورج ہیں جہاں
+بخدا ملکِ وفا کے لیے اک حاکم ہوں
+میں اکیلا ہی وہاں ماہِ بنی ہاشم ہوں
 
-3
-Apni Kasrat Pe Ho Khush Aaj Zyada Lekin.
-Kar Liya Hamlay Ka Tum Sab Ne Iradah Lekin.
-Shamiyon Lakhon Ho Tum Main Hoon Akela Lekin.
-Tum Ho Serab Main Maqtal Mein Hoon Pyasa Lekin.
-Chehra-e-Haider-e-Karrar Ka Akas Nahi.
-Tum Ko Nazron Pe Na Roka Tu Main Abbas Nahi.
+۳
+اپنی کثرت پہ ہو خوش آج زیادہ لیکن
+کر لیا حملے کا تم سب نے ارادہ لیکن
+شامیو لاکھوں ہو تم میں ہوں اکیلا لیکن
+تم ہو سیراب میں مقتل میں ہوں پیاسا لیکن
+چہرۂ حیدرِ کرار کا عکس نہیں
+تم کو نظروں پہ نہ روکا تو میں عباس نہیں
 
-4
-Dasht-e-Pur Haul Mein Biphra Tha Hussaini Jarrar.
-Yak Ba Yak Gonji Jo Haider Ke Asad Ki Lalkar.
-Aisa Lagta Tha Qayamat Ke Hain Sare Aasaar.
-Nehar Se Keh Ke Yehi Bhag Rahe They Ashrar.
-Thartharati Hai Zameen Haq Ke Wali Aate Hain.
-Maut Se Kaun Bachaye Ga Ali Aate Hain.
+۴
+دشتِ پرہول میں بپھرا تھا حسینی جرار
+یک بیک گونجی جو حیدر کے اسد کی للکار
+ایسا لگتا تھا قیامت کے ہیں سارے آثار
+نہر سے کہہ کے یہی بھاگ رہے تھے اشرار
+تھرتھراتی ہے زمیں حق کے ولی آتے ہیں
+موت سے کون بچائے گا علی آتے ہیں
 
-5
-Shamiyon Maut Ke Lamhat Ko Gardaan Bhi Lo.
-Jee Nahi Pao Gay Apne Liye Shamshan Bhi Lo.
-Shair-e-Haider Hoon Laeeno Mujhe Pehchan Bhi Lo.
-Tum Tu Lakhon Hoon Magar Mera Sukhan Jan Bhi Lo.
-Bhagay Ke Rah Na Pao Gay Woh Halat Hogi.
-Aasteen Main Ne Jo Ulti Tu Qayamat Hogi.
+۵
+شامیو موت کے لمحات کو گردان بھی لو
+جی نہیں پاؤ گے اپنے لیے شمشان بھی لو
+شیرِ حیدر ہوں لعینو مجھے پہچان بھی لو
+تم تو لاکھوں ہوں مگر میرا سخن جان بھی لو
+بھاگے کہ رہ نہ پاؤ گے وہ حالت ہوگی
+آستین میں نے جو الٹی تو قیامت ہوگی
 
-6
-Hain Juda Sab Se Meri Taig-e-Nazar Ke Hamlay.
-Malak Al-Maut Hain Humrah Meri Nazron Ke.
-Al-Amaan Ka Yeh Sukhan Lakh Zabno Pe Rahe.
-Bach Nahi Paye Ga Ab Koi Yahan Marne Se.
-Arziyaan Hoon Gi Na Manzoor Guzarish Hogi.
-Aaj Maidaan Mein Faqat Maut Ki Barish Hogi.
+۶
+ہیں جدا سب سے میری تیغِ نظر کے حملے
+ملک الموت ہیں ہمراہ میری نظروں کے
+الاماں کا یہ سخن لاکھ زبانوں پہ رہے
+بچ نہیں پائے گا اب کوئی یہاں مرنے سے
+عرضیاں ہوں گی نامنظور گزارش ہوگی
+آج میدان میں فقط موت کی بارش ہوگی
 
-7
-Bal Yeh Khatay Ho Jo Azmat Pe Hamari Tum Loag.
-Jalay Jate Ho Jo Azmat Pe Hamari Tum Loag.
-Harf Uthatay Ho Jo Azmat Pe Hamari Tum Loag.
-Tilmilatay Ho Jo Azmat Pe Hamari Tum Loag.
-Sair Ho Kar Bhi Meri Taig Ke Pyasay Ho Tum.
-Mujh Ko Maloom Hai Hinda Ke Nawasay Ho Tum.
+۷
+بل یہ کھاتے ہو جو عظمت پہ ہماری تم لوگ
+جلے جاتے ہو جو عظمت پہ ہماری تم لوگ
+حرف اٹھاتے ہو جو عظمت پہ ہماری تم لوگ
+تلملاتے ہو جو عظمت پہ ہماری تم لوگ
+سیر ہو کر بھی میری تیغ کے پیاسے ہو تم
+مجھ کو معلوم ہے ہندہ کے نواسے ہو تم
 
-8
-Woh Chali Taig-e-Nazar Our Girey Jismo Se Sar.
-Khon Hi Khon Nazar Aata Hai Ta Had-e-Nazar.
-Mar Gaye Dekh Ke Ghazi Ka Ghazab Hi Aksar.
-Dasht-e-Khamosh Ka Wallah Ajab Tha Manzar.
-Dekh Kar Waar Ki Raftar Bara Kanp Gaye.
-Itna Doray Malak Al-Maut Bhi Keh Hanp Gaye.
+۸
+وہ چلی تیغِ نظر اور گرے جسموں سے سر
+خون ہی خون نظر آتا ہے تا حدِ نظر
+مر گئے دیکھ کے غازی کا غضب ہی اکثر
+دشتِ خاموش کا واللہ عجب تھا منظر
+دیکھ کر وار کی رفتار بڑا کانپ گئے
+اتنا دوڑے ملک الموت بھی کہ ہانپ گئے
 
-9
-Jaisay Qabron Ke Qareen Hoti Hai Ik Khamoshi.
-Shair Jab Aaya Tu Afwaj Ki Halat Thi Yehi.
-Foaj Ik Dojay Se Maidan-e-Wiga Mein Boli.
-Jan Pyari Hai Tu Yeh Baat Hi Behtar Hogi.
-Lab-e-Darya Bari Haibat Hai Chalo Bhag Chalein.
-Yeh Tu Ajdad Ki Seerat Hai Chalo Bhag Chalein.
+۹
+جیسے قبروں کے قریں ہوتی ہے اک خاموشی
+شیر جب آیا تو افواج کی حالت تھی یہی
+فوج اک دوجے سے میدانِ وغا میں بولی
+جان پیاری ہے تو یہ بات ہی بہتر ہوگی
+لبِ دریا بڑی ہیبت ہے چلو بھاگ چلیں
+یہ تو اجداد کی سیرت ہے چلو بھاگ چلیں
 
-10
-Aye Wajih Apni Aqeedat Ki Jila Kuch Bhi Nahi.
-Chor Kar Nam-e-Alamdar-e-Wafa Kuch Bhi Nahi.
-Wasta Inn Ka Nahi Gar Tu Dua Kuch Bhi Nahi.
-Aarzu:MIR HILAL: Iss Ke Siwa Kuch Bhi Nahi.
-Behar-e-Irfan Mein Kuch Aisay Utar Kar Jaon.
-Samne Roza-e-Abbas Ho Our Mar Jaon.
+۱۰
+اے وجیہ اپنی عقیدت کی جِلا کچھ بھی نہیں
+چھوڑ کر نامِ علمدارِ وفا کچھ بھی نہیں
+واسطہ ان کا نہیں گر تو دعا کچھ بھی نہیں
+آرزو:میر ہلال: اس کے سوا کچھ بھی نہیں
+بحرِ عرفان میں کچھ ایسے اتر کر جاؤں
+سامنے روضۂ عباس ہو اور مر جاؤں

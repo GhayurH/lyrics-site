@@ -10,68 +10,68 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jis din sajjay ga hashar ka maidan dosto
-  Sab se kahin gay Buzar-o-Salman dosto
+  Jis din saje ga hashr ka maidaan dosto
+  Sab se kaheṅ ge Buzar o Salmaan dosto
 
   1
-  Sar ko jhukao hoga yeh ayelan dosto
-  Sajdah karein gay matami zeeshan dosto
-  Dein gi sada yeh Hazrat-e-Esa ki maa suno
-  Woh aa gayin keh jo hain padar ki bhi maa suno
+  Sar ko jhukao hoga yeh ailaan dosto
+  Sajda kareṅ ge maatami zishaan dosto
+  Deṅ gi sada yeh Hazrat-e-Isa ki maaṅ suno
+  Woh aa gaiṅ ke jo haiṅ padar ki bhi maaṅ suno
 
   2
-  Tauheed ke hijab mein aati hain Fatima
-  Apne Hasan Hussain ko lati hain Fatima
-  Joon joon qadam ko aagay barhati hain Fatima
-  Haibat se kitne koh girati hain Fatima
+  Tauhid ke hijaab mein aati haiṅ Fatima
+  Apne Hasan Husain ko laati haiṅ Fatima
+  Juṅ juṅ qadam ko aage barhaati haiṅ Fatima
+  Haibat se kitne koh giraati haiṅ Fatima
 
   3
-  Hasnain Mustafa-o-Ali sath sath hain
-  Zair-e-Kisa they jo woh sabhi sath sath hain
-  Iss shan se hai aa rahi Imran ki baho
-  Manzar mobahlay ka bana phir se ho baho
+  Hasnain Mustafa o Ali saath saath haiṅ
+  Zer-e-Kisa the jo woh sabhi saath saath haiṅ
+  Is shaan se hai aa rahi Imraan ki bahu
+  Manzar mubaahale ka bana phir se hu bahu
 
   4
-  Aane lagin sadaein duroodon ki chaar so
-  Tharanay laga khof se bibi ka har addo
-  Jhutlaney walon ko yahan jalwaney aayi hai
-  Zahra addo pe Qehar-e-Khuda dhaney aayi hai
+  Aane lagiṅ sadaaeṅ durudoṅ ki chaar su
+  Tharaane laga khauf se Bibi ka har adu
+  Jhutlaane waaloṅ ko yahaaṅ jalwaane aai hai
+  Zahra adu pe qahr-e-Khuda dhaane aai hai
 
   5
-  Sun le tu kan khol ke aye Dushman-e-Batool
-  Koi bhi kar-e-khair tera hoga na qabool
-  Mathay pe daag-e-sajdah hai lekin yeh hai fazool
-  Kyunke hoi hai ajar-e-risalat mein tujh se bhool
+  Sun le tu kaan khol ke ae dushman-e-Batul
+  Koi bhi kaar-e-khair tera hoga na qabul
+  Maathe pe daagh-e-sajda hai lekin yeh hai fazul
+  Kiuṅke hui hai ajr-e-risaalat mein tujh se bhul
 
   6
-  Dunya mein iqtidar se tum kya se kya banay
-  Mumkin nahi keh khuld mein ab teri ja banay
-  Naam apne mujrimo ke sunaein gi Marziya
-  Phir unn ke asal chehray dikhaein gi Marziya
+  Dunya mein iqtidaar se tum kya se kya bane
+  Mumkin nahiṅ ke khuld mein ab teri jaa bane
+  Naam apne mujrimoṅ ke sunaaeṅ gi Marziya
+  Phir un ke asl chehre dikhaaeṅ gi Marziya
 
   7
-  Oss jaltay dar ki raakh bhi laein gi Marziya
-  Mohsin howa shaheed bataein gi Marziya
-  Farmaye ga Khuda inhein abadi malal do
-  Yeh Dushman-e-Batool hain dozakh mein daal do
+  Us jalte dar ki raakh bhi laaeṅ gi Marziya
+  Mohsin hua shahid bataaeṅ gi Marziya
+  Farmaae ga Khuda inheṅ abadi malaal do
+  Yeh dushman-e-Batul haiṅ dozakh mein daal do
 
   8
-  Detey rahe jo bibi ko pursa jahan mein
-  Woh martaba miley ga na hoga goman mein
-  Khair-e-Kaseer paein gay woh oss jahan mein
-  Woh garmi-e-hashar se bhi hoon gay aman mein
+  Dete rahe jo Bibi ko pursa jahaaṅ mein
+  Woh martaba mile ga na hoga gumaan mein
+  Khair-e-kasir paaeṅ ge woh us jahaaṅ mein
+  Woh garmi-e-hashr se bhi huṅ ge aman mein
 
   9
-  Khalq-e-Dua-e-Syeda youn ajar paein gay
-  Matam ki saf bana ke woh jannat ko jaein gay
-  Iss qafilay ke aagay hai Abbas ka alam
-  Rasta bana rahe hain alamdar-e-zee hasham
+  Khalq-e-duaa-e-Sayyeda yuṅ ajr paaeṅ ge
+  Maatam ki saf bana ke woh jannat ko jaaeṅ ge
+  Is qaafile ke aage hai Abbaas ka alam
+  Rasta bana rahe haiṅ alamdaar-e-zi hasham
 
   10
-  Chehray pe Zuljalal ka khasa kiye raqam
-  Uthta hai youn jalal se Ghazi ka har qadam
-  Chuptay hain aik dojay ke pichey sabhi addo
-  Hasnain aaj Fatmi charcha hai chaar so
+  Chehre pe Zuljalaal ka khaasa kiye raqam
+  Uthta hai yuṅ jalaal se Ghazi ka har qadam
+  Chhupte haiṅ ek doje ke pichhe sabhi adu
+  Hasnain aaj Faatmi charcha hai chaar su
 ---
 
 جس دن سجے گا حشر کا میدان دوستو

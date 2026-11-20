@@ -11,11 +11,11 @@ tags: []
 aliases: ["sughra-s-a-ka-tha-yenauha-baba-aey-mere-baba"]
 published: true
 romanLyrics: |-
-  Baba mera baba – baba mere baba
-  Sughra ka tha ye nauha – baba ae mere baba
+  Baba mera baba, baba mere baba
+  Sughra ka tha ye nauha, baba ae mere baba
 
   1
-  Haaṅ mujhko Madine meiṅ ab chain na aayega
+  Haaṅ mujh ko Madine meiṅ ab chain na aayega
   Jab aap na hoṅge to ghabraayega dil mera
 
   2
@@ -28,15 +28,15 @@ romanLyrics: |-
 
   4
   Laao Ali Asghar ko maiṅ pyaar zara kar luṅ
-  Phir mujhse juda kar ke tum usko liye jaana
+  Phir mujh se juda kar ke tum us ko liye jaana
 
   5
-  Kamsin ho safar kaise kar paaoge tum bhaiyya
+  Kam sin ho safar kaise kar paaoge tum bhaiyya
   Haaye ye bhala kaisa unniswaaṅ din aaya
 
   6
-  Bhaiyya Ali Akbar se keh do ki watan aakar
-  Bas mujh pa taras khaa kar tum saath liye jaana
+  Bhaiyya Ali Akbar se keh do ke watan aa kar
+  Bas mujh pe taras khaa kar tum saath liye jaana
 
   7
   Rudaad-e-safar likh kar bas khatm karo nauha

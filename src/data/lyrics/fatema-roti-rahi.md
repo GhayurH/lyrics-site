@@ -8,108 +8,67 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'KALMA GO HANSTAY RAHE FATIMA ROTI RAHI.
-
-  JALTAY DARWAZAY TALAY SISKIYAAN LETI RAHI HAYE MAA ZAINAB KI.
-
+romanLyrics: |-
+  Zehra haaye Zehra
+  Haaye Sayyida haaye Sayyida
+  Kalma go hanste rahe Fatima roti rahi
+  Jalte darwaaz tale siskiyaaṅ leti rahi
+  Haaye maaṅ Zainab ki
+  Kalma go hanste rahe Fatima roti rahi
 
   1
-
-  ITNI BE BAS THI MADINE MEIN NABI KI DUKHTAR.
-
-  JALTA DARWAZA KISSI NE NA UTHAYA AA KAR.
-
-  HAYE KAISA THA SITAM RAKH KE QURAAN PE QADAM.
-
-  AA GAYE GHAR MEIN SHAQI.
-
+  Kitni bebas thi Madine mein Nabi ki dukhtar
+  Jalta darwaaza kisi ne na uthaaya aakar
+  Haaye kaisa tha sitam rakh ke Quraaṅ pe qadam
+  Aa gaye ghar mein shaqi
 
   2
-
-  TANAY SUNTAY THEY YEH BAZAR MEIN LOGON SE ALI.
-
-  ISS NE MARA THA HAMAREY HI BAZURGON KO KABHI.
-
-  HUM NE YOUN BADLAH LIYA QATAL ZAHRA KO KIYA.
-
-  KUCH NA KAR PAYA ALI.
-
+  Taane sunte the ye baazaar mein logoṅ se Ali
+  Us ne maara tha hamaare hi buzurgoṅ ko kabhi
+  Ham ne yuṅ badla liya qatl Zehra ko kiya
+  Kuchh na kar paaya Ali
 
   3
-
-  JAISAY QASSAB ZABIHEY KO LIYE JATE HAIN.
-
-  AISAY HAIDER KO LAEEN KHAINCH KE LE AATE HAIN.
-
-  AAGAY AAGAY HAIN ALI PICHEY PICHEY WOH CHALI.
-
-  JO HAI ZAKHMO SE BHARI.
-
+  Jaise qassaab zabiha ko liye jaate haiṅ
+  Aise Haider ko laiṅ khinch ke le aate haiṅ
+  Aage aage haiṅ Ali pichhe pichhe woh chali
+  Jo hai zakhmoṅ se bhari
 
   4
-
-  YAAD JAB AATA HAI DIL HOTA HAI PARAH PARAH.
-
-  KAISAY HASNAIN KI MADAR KO LAEEN NE MARA.
-
-  KHON AANKHON SE BAHA SIRF YA MEHDI KAHA.
-
-  OUR ZAMEEN PAR WOH GIRI.
-
+  Yaad jab aata hai dil hota hai paara paara
+  Kaise Hasnain ki maadar ko laiṅ ne maara
+  Khun aankhoṅ se baha sirf ya Mahdi kaha
+  Aur zamiṅ par woh giri
 
   5
-
-  SIRF PEHLU NAHI BAZU BHI SHIKASTA HO GA.
-
-  TUM NE KIS TARHA JANAZAY KO SANBHALA HO GA.
-
-  KAISAY TURBAT MEIN RAKHA TANHA MAIYYAT KO BHALA.
-
-  MERE MAZLOOM ALI.
-
+  Sirf pahlu nahiṅ baazu bhi shikasta hoga
+  Tum ne kis tarah janaaze ko sambhaala hoga
+  Kaise turbat mein rakha tanha mayyat ko bhala
+  Mere mazlum Ali
 
   6
-
-  BAAP KI QABAR PE DEWAREIN PAKAR KAR JANA.
-
-  OUR ROTAY HOYE OSS HAAL MEIN WAPIS AANA.
-
-  ISS AZIYAT KI MAGAR HAI SAKINA KO KHABAR.
-
-  FATIMA KAISAY CHALI.
-
+  Baap ki qabr pe diwaareṅ pakar kar jaana
+  Aur rote hue us haal mein waapas aana
+  Us aziyat ki magar hai Sakina ko khabar
+  Fatima kaise chali
 
   7
-
-  SATH DARBAR SE ROTAY HOYE AATE THEY HASAN.
-
-  MAA KE QADMO KE NISHANO KO MITATAY THEY HASAN.
-
-  OSS PE YEH ZULM HOWA HATH ZALIM KA UTHA.
-
-  KHAK PAR ZAHRA GIRI.
-
+  Saath darbaar se rote hue aate the Hasan
+  Maaṅ ke qadmoṅ ke nishaanoṅ ko mitaate the Hasan
+  Us pe ye zulm hua haath zaalim ka utha
+  Khaak pe Zehra giriṅ
 
   8
-
-  JIS GHARI HO GAYA RUKHSAR MEIN PAIWAST GOHAR.
-
-  RO KE KEHTA RAHA KHUD SE ABU TALIB KA PISAR.
-
-  AISAY TAKTA NA TUJHEY MAUT AA JATI MUJHE.
-
-  KASH AYE BINT-E-NABI.
-
+  Jis ghari ho gaya rukhsaar paiwast gauhar
+  Ro ke kehta raha khud se Abu Taalib ka pisar
+  Aise takta na tujhe maut aa jaati mujhe
+  Kaash ae Bint-e-Nabi
 
   9
-
-  DIN MEIN JAB CHAND Takallum KA WAHAN JATA HAI.
-
-  TOOTI QABRON PE KOI SAYA NAZAR AATA HAI.
-
-  MUJH KO LAGTA HAI YEHI AB BHI HAI BINT-E-NABI.
-
-  DHOP MEIN BETHI HOI.'
+  Din mein jab chaand Takallum ka wahaaṅ jaata hai
+  Tuti qabroṅ mein koi saaya nazar aata hai
+  Mujh ko lagta hai yahi ab bhi hai Bint-e-Nabi
+  Dhup mein baithi hui
 poet: "Takallum"
 reciter: "Meer Hasan Meer"
 ---

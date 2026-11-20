@@ -10,41 +10,42 @@ tags: []
 aliases: ["Abbas Na Ab Laut Ke"]
 published: false
 romanLyrics: |-
-  Na rona Sakina
-  Abbas na ab laut ke aayega Sakina
-  Ab kaun tere naaz uthayega Sakina
+  Sakina
+  Na ro na Sakina, na ro na Sakina
+  Abbas na ab laut ke aaye ga Sakina
+  Ab kaun tere naaz uthaaye ga Sakina
 
   1
   Bhai se wida ho ke yuṅ farmaate the Maula
-  Ab kaun mere ghar ko bachaayega Sakina
+  Ab kaun mere ghar ko bachaaye ga Sakina
 
   2
-  Kya hoga zara der meiṅ maalum hai hum ko
-  Tar khuṅ meiṅ alam nehr se aayega Sakina
+  Kya hoga zara der mein maalum hai hum ko
+  Tar khun mein alam nahr se aaye ga Sakina
 
   3
-  Ek shor hai kohram hai Bibi lab-e-darya
-  Lagta hai ke ab sher na aayega Sakina
+  Ik shor hai kohraam hai Bibi lab-e-darya
+  Lagta hai ke ab sher na aaye ga Sakina
 
   4
-  Talwaaroṅ meiṅ nezoṅ meiṅ ghira hai mera bhai
-  Wo mashk o alam kaise bachaayega Sakina
+  Talwaaroṅ mein nezoṅ mein ghira hai mera bhai
+  Wo mashk o alam kaise bachaaye ga Sakina
 
   5
-  Abbas na hoṅge tera baba bhi na hoga
-  Ab kaun teri pyaas bujhaayega Sakina
+  Abbas na honge tera baaba bhi na hoga
+  Ab kaun teri pyaas bujhaaye ga Sakina
 
   6
   Kis ke liye Bibi dar-e-khaima pe khari ho
-  Ab koi taraai se na aayega Sakina
+  Ab koi taraai se na aaye ga Sakina
 
   7
-  Abbas ka waada hai ke paani na piyega
-  Pehle tumheṅ Kausar meiṅ pilaayega Sakina
+  Abbas ka waada hai ke paani na piye ga
+  Pehle tumheṅ Kausar mein pilaaye ga Sakina
 
   8
   Ae Sarwar o Rehan ye kehte rahe Maula
-  Ye gham tujhe taa hashr rulaayega Sakina
+  Ye gham tujhe taa hashr rulaaye ga Sakina
 ---
 
 سکینہؑ

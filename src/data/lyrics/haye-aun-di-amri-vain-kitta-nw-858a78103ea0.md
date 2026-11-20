@@ -1,40 +1,59 @@
 ---
-title: "Haye Aun Di Amri Vain Kitta"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے عون دی امڑی وین کیتا"
+alternateTitle: "Haye Aun Di Amri Vain Kitta"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Aun di amri vain kitta, paye wasday pathar hazaaran, zara rok Sajjad muharaan
+  Sir zakhmi tak ke baalaan day
+  Mar jaan na parday daaran
+
+  1
+  Pathraan diyan hin barsaatan, saanu ghereyan ay bad zaatan
+  Saday aaan de jashan manaaye hin
+  Ay Shaam day bad kirdaaran, zara rok Sajjad muharaan
+
+  2
+  Hin zakhmi kul mastooran, par watan kolon mai door haan
+  Ay Shaam di jung mai jitni ay
+  Go rassiyan wich laacharan, zara rok Sajjad muharaan
+
+  3
+  Maqtal vich veer kuhaakay, ma di chadar lutwakay
+  Main veer di aap vakeel bana
+  Pardh khutbay vich baazaran, zara rok Sajjad muharaan
+
+  4
+  Kaway ro ro Zainab ujri, bachran nay Sakina labdi
+  Menu kidr ay nazar oh nai aundi
+  Kitthay maaj masoom nu maara, zara rok Sajjad muharaan
 ---
 
-Haye Aun Di Amri Vain Kitta, Paye Wasday Pathar Hazaaran, Zara Rok Sajjad Muharaan
+ہائے عون دی امڑی وین کیتا، پئے وسدے پتھر ہزاراں، ذرا روک سجاد مہاراں
+سر زخمی تک کے بالاں دے
+مر جان نہ پردے داراں
 
-Sir Zakhmi Tak Ke Baalaan Day
+۱
+پتھراں دیاں ہن برساتاں، سانوں گھیریا اے بد ذاتاں
+ساڈے آں دے جشن منائے ہن
+اے شام دے بد کرداراں، ذرا روک سجاد مہاراں
 
-Mar Jaan Na Parday Daaran
+۲
+ہن زخمی کل مستوراں، پر وطن کولوں میں دور ہاں
+اے شام دی جنگ میں جتنی اے
+گو رسیاں وچ لاچاراں، ذرا روک سجاد مہاراں
 
-Pathraan Diyan Hin Barsaatan, Saanu Ghereyan Ay Bad Zaatan
+۳
+مقتل وچ ویر کوہاکے، ماں دی چادر لٹوا کے
+میں ویر دی آپ وکیل بناں
+پڑھ خطبے وچ بازاراں، ذرا روک سجاد مہاراں
 
-Saday Aaan De Jashan Manaaye Hin
-
-Ay Shaam Day Bad Kirdaaran, Zara Rok Sajjad Muharaan
-
-Hin Zakhmi Kul Mastooran, Par Watan Kolon Mai Door Haan
-
-Ay Shaam Di Jung Mai Jitni Ay
-
-Go Rassiyan Wich Laacharan, Zara Rok Sajjad Muharaan
-
-Maqtal Vich Veer Kuhaakay, Ma Di Chadar Lutwakay
-
-Main Veer Di Aap Vakeel Bana
-
-Pardh Khutbay Vich Baazaran, Zara Rok Sajjad Muharaan
-
-Kaway Ro Ro Zainab Ujri, Bachran Nay Sakina Labdi
-
-Menu Kidr Ay Nazar Oh Nai Aundi
-
-Kitthay Maaj Masoom Nu Maara, Zara Rok Sajjad Muharaan
+۴
+کہوے رو رو زینب اجڑی، بچڑاں نیں سکینہ لبھدی
+مینوں کدھر اے نظر اوہ نئیں آؤندی
+کتھے ماج معصوم نوں مارا، ذرا روک سجاد مہاراں

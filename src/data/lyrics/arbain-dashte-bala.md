@@ -1,7 +1,7 @@
 ---
 title: "اربعین دشت بلا میں ہے منانا زینب"
 recitationId: "arbaeen-dashte-bala"
-alternateTitle: "Arbain Dashte Bala"
+alternateTitle: "Arbain Dasht-e-Bala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   4
   Jhula khaali Ali Asghar ka wo jab dekhegi
-  Sughra Asghar ko tere god meiṅ jab dhuṅdegi
+  Sughra Asghar ko tere god meiṅ jab dhundegi
   Meri jaanib se use dena dilaasa Zainab
 
   5

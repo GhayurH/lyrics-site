@@ -12,59 +12,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salam ho aap par ae adam ke waaris
-  Salam ho aap par ae nuh o ibrahim o musa o isa ke waaris
-  Salam ho aap par ae mohamed o ali o zahra ke waaris
-  Salam ae gharib-e-zahra salam
+  Salam ho aap par ae Aadam ke waaris
+  Salam ho aap par ae Nuh o Ibraahim o Musa o Isa ke waaris
+  Salam ho aap par ae Muhammad o Ali o Zahra ke waaris
+  Salam ae gharib-e-Zahra salam
   Mere Husain teri pyaas ko salam mera
-  Ke teri pyaas se sairaab hai ye din e khuda
-  Gawahi deta hai kaaba azaan aur sajda
-  Husain waaris e adam hai waaris e isa
-  Kya nabi aur wali khud mohamed sa nabi
-  Ter rauze pe tujhe karta hai salam
-  Salam salam salam ae gharib-e-zahra...
-  Husain qaid nahi hai Husain sab ka hai
-  Husain aalam e insaniyat ka wirsa hai
-  Ajab amir hai jannat ko chor kar apni
+  Ke teri pyaas se sairaab hai ye din-e-Khuda
+  Gawahi deta hai Kaaba azaan aur sajda
+  Husain waaris-e-Aadam hai waaris-e-Isa
+  Kya nabi aur wali khud Muhammad sa nabi
+  Tere rauze pe tujhe karta hai salam
+  Salam salam salam ae gharib-e-Zahra...
+  Husain qaid nahiṅ hai Husain sab ka hai
+  Husain aalam-e-insaaniyat ka waaris hai
+  Ajab amir hai jannat ko chhor kar apni
   Husain aaj bhi tute diloṅ meiṅ rehta hai
-  Kya nabi aur wali khud mohamed sa nabi
-  Ter rauze pe tujhe karta hai salam
-  Salam salam salam ae gharib-e-zahra...
+  Kya nabi aur wali khud Muhammad sa nabi
+  Tere rauze pe tujhe karta hai salam
+  Salam salam salam ae gharib-e-Zahra...
   Husain dard meiṅ jina sikha diya tu ne
-  Husain pyaas ko pani bana diya tu ne
+  Husain pyaas ko paani pila diya tu ne
   Gharib bhi jahaṅ jaa kar amir lagta hai
   Husain shehr hi aisa basa diya tu ne
-  Kya nabi aur wali khud mohamed sa nabi
-  Ter rauze pe tujhe karta hai salam
-  Salam salam salam ae gharib-e-zahra...
-  Ajib shaan se waada nibhaya nana ka
+  Kya nabi aur wali khud Muhammad sa nabi
+  Tere rauze pe tujhe karta hai salam
+  Salam salam salam ae gharib-e-Zahra...
+  Ajib shaan se waada nibhaaya naana ka
   Khuda ki raah meiṅ tu ne luta diya kunba
-  Jawan bete ke laashe pe shukr ka sajda
+  Jawaan bete ke laashe pe shukr ka sajda
   Koi rasul bhi hota hawaas kho deta
-  Kya nabi aur wali khud mohamed sa nabi
-  Ter rauze pe tujhe karta hai salam
-  Salam salam salam ae gharib-e-zahra...
+  Kya nabi aur wali khud Muhammad sa nabi
+  Tere rauze pe tujhe karta hai salam
+  Salam salam salam ae gharib-e-Zahra...
   Mere gharib Husain mere shahid Husain
-  Assalamu alaika ya qatil al abaraat
-  Ba waqt e asr gire shaah jalti reti par
+  Assalamu alaika ya qatil al-abaraat
+  Ba waqt-e-asr gire shaah jalti reti par
   Kahiṅ se lagta tha naiza kahiṅ se tir o tabar
-  Khuda kisi ko qayamat na ye dikhaye kabhi
+  Khuda kisi ko qayamat na ye dikhaaye kabhi
   Behan ke saamne bhai pe chal gaya khanjar
-  Assalamu alaika ya qatil al abaraat
-  Salam salam salam ae gharib-e-zahra..
+  Assalamu alaika ya qatil al-abaraat
+  Salam salam salam ae gharib-e-Zahra...
   Dhala jo asr ka suraj ajib shaam hui
-  Padar ke laasha e besar pe aayi ek bacchi
-  Hata ke laash se patthar kaha ye rote huwe
+  Padar ke laasha-e-besar pe aayi ik bachchi
+  Hata ke laash se patthar kaha ye rote hue
   Utho utho mere baba ujar gayi beti
-  Salam salam salam ae gharib-e-zahra...
-  Usi nasheb se naize pe aa rahe hai Husain
-  Sina ki nok pe quraṅ suna rahe hai Husain
-  Ye baat sach hai takallum khuda ki marzi se
-  Khuda ki saari khudayi chala rahe hai Husain
-  Kya nabi aur wali khud mohamed sa nabi
-  Ter rauze pe tujhe karta hai salam
-  Salam salam salam ae gharib-e-zahra...
-  Assalam alaika ya abaab dillah ya qatil al abaraat
+  Salam salam salam ae gharib-e-Zahra...
+  Isi nashib se naize pe aa rahe haiṅ Husain
+  Sinaaṅ ki nok pe Quraaṅ suna rahe haiṅ Husain
+  Ye baat sach hai Takallum Khuda ki marzi se
+  Khuda ki saari khudayi chala rahe haiṅ Husain
+  Kya nabi aur wali khud Muhammad sa nabi
+  Tere rauze pe tujhe karta hai salam
+  Salam salam salam ae gharib-e-Zahra...
+  Assalamu alaika ya Aba Abdillah ya qatil al-abaraat
 ---
 
 ۱

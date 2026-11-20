@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Dekh kar andaaz-e-jang-e-Hazrat-e-Abbas ke
-  Aa gaye maidaaṅ meiṅ Haidar Khaibari kehne lage
+  Aa gaye maidaaṅ meiṅ Haidar Khaibar kehne lage
 
   2
   Haath meiṅ Abbas ke chamki jo wo tegh-e-Haidari
@@ -27,7 +27,7 @@ romanLyrics: |-
   Unko tasvir-e-Ali unko Nabi kehne lage
 
   4
-  Ho nazar to aao dekho kya hai tasvir-e-Husain
+  Ho Hazrat to aao dekho kya hai tasvir-e-Husain
   Raushni apne ko kaise raushni kehne lage
 
   5

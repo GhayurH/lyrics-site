@@ -50,7 +50,7 @@ romanLyrics: |-
 
   6
   Raat andheri sunsaan ban
-  Dhunduṅ kahaaṅ tujhe Ae gulbadan
+  Dhunduṅ kahaaṅ tujhe ae gulbadan
   Ro ro pukaare maaṅ dil jali
   Nanha mera Asghar kahaaṅ gaya re
 
@@ -63,14 +63,14 @@ romanLyrics: |-
   8
   Rahm kisi ko us par na aaya
   Chhin ke bistar le gaye aadaa
-  Haaye mera bimaar bhatija
+  Haaye mera bhatija
   Ghash meiṅ zamiṅ par para hua hai
 
   9
   Yazidiyat ko jar se ukhaara
   Din-e-Nabi ko is ne bachaaya
   Taa qayaamat sultaan-e-shahidaaṅ
-  Zabh ho kar bhi fath hua hai
+  Zabh ho kar bhi fatah hua hai
 ---
 
 خون میں ڈوبا جلتی زمیں پر

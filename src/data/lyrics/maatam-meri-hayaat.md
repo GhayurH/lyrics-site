@@ -27,32 +27,32 @@ romanLyrics: |-
 
   3
   Phir khauf-e-maut rehta hai un ko bhala kahaaṅ
-  Jo zaaerin jaate haiṅ bahr-e-mashi wahaaṅ
-  Dete haiṅ rizq aaj bhi Maula sakha ke saath
+  Jo zaairin jaate haiṅ bahr-e-mashi wahaaṅ
+  Dete haiṅ rizq aaj bhi Maula Saqqa ke saath
 
   4
   Mashkiza jaise parcham-e-Ghaazi ke saath hai
   Kaaba Khuda ka jaise namaazi ke saath hai
-  Bas yuṅhi zaaerin haiṅ khaak-e-shifa ke saath
+  Bas yunhi zaairin haiṅ khaak-e-shifa ke saath
 
   5
   Hum ko sitam shiaar bhala kya mitaayeṅge
-  Bidat ke fatwe ashkoṅ meiṅ sab dub jaayeṅge
-  Jite haiṅ hum to maadar-e-Shah ki dua ke saath
+  Bidat ke fatwe ashkoṅ mein sab dub jaayeṅge
+  Jite haiṅ hum to maadar-e-Shaah ki dua ke saath
 
   6
   Paani tawaaf karta hai Ghaazi ki qabr ka
-  Kaaba ho goya qabr shujaaat ka sabr ka
+  Kaaba ho goya qabr shujaa'at ka sabr ka
   Ye Alqama ka rishta hai ab bhi wafa ke saath
 
   7
-  Zikr-e-gham-e-Husain ka aejaaz dekhiye
-  Kausar ko meri aaṅkh pe hai naaz dekhiye
+  Zikr-e-gham-e-Husain ka ijaaz dekhiye
+  Kausar ko meri aankh pe hai naaz dekhiye
   Chhalki hui Furaat hai ashk-e-aza ke saath
 
   8
   Har ek rang o nasl ke insaan dostoṅ
-  Sab ke diloṅ meiṅ ek hai armaan dostoṅ
+  Sab ke diloṅ mein ek hai armaan dostoṅ
   Ghaazi bula le sab ko sahar ki hawa ke saath
 
   9

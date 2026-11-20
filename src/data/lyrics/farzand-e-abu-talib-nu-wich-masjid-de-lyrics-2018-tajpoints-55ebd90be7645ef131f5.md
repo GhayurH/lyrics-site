@@ -1,26 +1,41 @@
 ---
-title: "Farzand E Abu Talib Nu Wich Masjid De Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "فرزندِ ابو طالب نوں وچ مسجد دے"
+alternateTitle: "Farzand-e Abu Talib Nu Wich Masjid De"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Farzand e Abu Talib nu wich masjid de mariya aye
+  Aye badla Zulasheera da wich Kofe aan utariya aye
+
+  1
+  Had muk gayi sanjh nibhawan di babay da qaul bachawan di
+  Imran de chan ne Zahra de babay toan sir v wariya aye
+  Jehri jeyondiyaan piyo nal na boli janday nal galaan kardi aye
+  Har gal nu sun da ja riya aye te baba ronda ja riya aye
+
+  2
+  Aynj ro banwaan te bosay de jinj hoan nishan ne rasiyaan de
+  Zainab diyaan banwaan wich baba jad aakhri sanwaan hariyaa aye
+  Ghazi galiyaan wich ronda si koi wain na sun lay Zainab de
+  Abbas hi janday kinj Akbar Abbas ne waqt guzariya aye
 ---
 
-Farzand e Abu Talib Nu Wich Masjid De Mariya Aye.
-Aye Badla Zulasheera Da Wich Kofe Aan Utariya Aye.
+فرزندِ ابو طالب نوں وچ مسجد دے ماریا اے
+اے بدلہ ذوالعشیرہ دا وچ کوفے آں اتریا اے
 
-1
-Had Muk Gayi Sanjh Nibhawan Di Babay Da Qaul Bachawan Di.
-Imran De Chan Ne Zahra De Babay Toan Sir V Wariya Aye.
-Jehri Jeyondiyaan Piyo Nal Na Boli Janday Nal Galaan Kardi Aye.
-Har Gal Nu Sun Da Ja Riya Aye Te Baba Ronda Ja Riya Aye.
+۱
+حد مک گئی سانجھ نبھاون دی بابے دا قول بچاون دی
+عمران دے چن نے زہرا دے بابے توں سر وی واریا اے
+جیہڑی جیوندیاں پیو نال نہ بولی جاندے نال گلاں کردی اے
+ہر گل نوں سن دا جا ریا اے تے بابا روندا جا ریا اے
 
-2
-Aynj Ro Banwaan Te Bosay De Jinj Hoan Nishan Ne Rasiyaan De.
-Zainab Diyaan Banwaan Wich Baba Jad Aakhri Sanwaan Hariyaa Aye.
-Ghazi Galiyaan Wich Ronda Si Koi Wain Na Sun Lay Zainab De.
-Abbas Hi Janday Kinj Akbar Abbas Ne Waqt Guzariya Aye.
+۲
+اینج رو بانواں تے بوسے دے جِنج ہون نشان نے رسیاں دے
+زینب دیاں بانواں وچ بابا جد آخری سانواں ہاریا اے
+غازی گلیاں وچ روندا سی کوئی وین نہ سن لے زینب دے
+عباس ہی جاندے کنج اکبر عباس نے وقت گزاریا اے

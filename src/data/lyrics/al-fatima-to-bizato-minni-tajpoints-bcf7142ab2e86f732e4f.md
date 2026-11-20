@@ -1,34 +1,57 @@
 ---
-title: "Al-Fatima-to-Bizato Minni"
+title: "الفاطمة بضعة منّي"
+alternateTitle: "Al-Fatima-to-Bizato Minni"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Al-Fatima-to-bizato minni
+  Hai rahat-e-jaan roh-e-risalat meri beti
+  Khaliq ne hai youn bhi meri tauqeer barhai
+  Baba mujhe khud Fatima Zahra ne kaha hai
+  Dar asal yeh mansab tu risalat se bara hai
+  Hai mere fazail mein fazeelat yeh anokhi
+  Darbar-e-khilafat mein sanad mangne wale
+  Gar chahne wale the tu kyun bhool gaye the
+  Bibi ki wirasat pe sanad itni thi kafi
+  Kalma ho azaan ho woh tashahud ke aqamat
+  Jis ja bhi biyaan ho gi Muhammad ki risalat
+  Yeh soch ke do meri risalat ki gawahi
+  Mushkil mein issi naam ki tasbeeh parha kar
+  Do rakatein phir hadia-e-Zahra bhi adda kar
+  Ab mang Khuda se tu khudai bhi mile gi
+  Aye momino hargiz na meri baat bhulana
+  Ik khums adda karna hai ik ashk bahana
+  Wajib hain yeh dono nahi dono ki moafi
+  Har dushman-e-Zhara pe sada karta ho lanat
+  Muhsin main imanat mein karon kaise khiyanat
+  Iss kar-e-adawat mein hai Khaliq ki riza bhi
 ---
 
-1
-Al-Fatima-to-Bizato Minni
-Hai Rahat-e-Jaan Roh-e-Risalat Meri Beti.
-Khaliq Ne Hai Youn Bhi Meri Tauqeer Barhai.
-Baba Mujhe Khud Fatima Zahra Ne Kaha Hai.
-Dar Asal Yeh Mansab Tu Risalat Se Bara Hai.
-Hai Mere Fazail Mein Fazeelat Yeh Anokhi.
-Darbar-e-Khilafat Mein Sanad Mangne Wale.
-Gar Chahne Wale The Tu Kyun Bhool Gaye The.
-Bibi Ki Wirasat Pe Sanad Itni Thi Kafi.
-Kalma Ho Azaan Ho Woh Tashahud Ke Aqamat.
-Jis Ja Bhi Biyaan Ho Gi Muhammad Ki Risalat.
-Yeh Soch Ke Do Meri Risalat Ki Gawahi.
-Mushkil Mein Issi Naam Ki Tasbeeh Parha Kar.
-Do Rakatein Phir Hadia-e-Zahra Bhi Adda Kar.
-Ab Mang Khuda Se Tu Khudai Bhi Mile Gi.
-Aye Momino Hargiz Na Meri Baat Bhulana.
-Ik Khums Adda Karna Hai Ik Ashk Bahana.
-Wajib Hain Yeh Dono Nahi Dono Ki Moafi.
-Har Dushman-e-Zhara Pe Sada Karta Ho Lanat.
- Muhsin Main Imanat Mein Karon Kaise Khiyanat.
-Iss Kar-e-Adawat Mein Hai Khaliq Ki Riza Bhi.
+۱
+الفاطمة بضعة منّي
+ہے راحتِ جاں روحِ رسالت میری بیٹی
+خالق نے ہے یوں بھی میری توقیر بڑھائی
+بابا مجھے خود فاطمہ زہرا نے کہا ہے
+دراصل یہ منصب تو رسالت سے بڑا ہے
+ہے میرے فضائل میں فضیلت یہ انوکھی
+دربارِ خلافت میں سند مانگنے والے
+گر چاہنے والے تھے تو کیوں بھول گئے تھے
+بی‌بی کی وراثت پہ سند اتنی تھی کافی
+کلمہ ہو اذاں ہو وہ تشہد کہ اقامت
+جس جا بھی بیاں ہو گی محمد کی رسالت
+یہ سوچ کے دو میری رسالت کی گواہی
+مشکل میں اسی نام کی تسبیح پڑھا کر
+دو رکعتیں پھر ہدیۂ زہرا بھی ادا کر
+اب مانگ خدا سے تو خدائی بھی ملے گی
+اے مومنو ہرگز نہ میری بات بھلانا
+اک خمس ادا کرنا ہے اک اشک بہانا
+واجب ہیں یہ دونوں نہیں دونوں کی معافی
+ہر دشمنِ زہرا پہ صدا کرتا ہوں لعنت
+محسن میں امانت میں کروں کیسے خیانت
+اس کارِ عداوت میں ہے خالق کی رضا بھی

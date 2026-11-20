@@ -10,26 +10,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abid-e-na tawaan hathkari beriyaan Sarwar Raza Karbalai
-  Sar khulay bheer mein aa gayin bibiyaan
+  Aabid-e-naatawaaṅ hathkari beriyaaṅ Sarwar Raza Karbalai
+  Sar khule bhir mein aa gayiṅ bibiyaaṅ
 
   1
-  Bheer hai kis qadar, kis qadar hai ghazab
-  Har taraf Sham mein roshni hai ajab
-  Mar main jaon Khuda kya karey na tawaan
-  Jab kissi ne haram pe urha di rida
+  Bhir hai kis qadar, kis qadar hai ghazab
+  Har taraf Shaam mein roshni hai ajab
+  Mar main jaauṅ Khuda kya kare naatawaaṅ
+  Jab kisi ne haram pe ura di rida
 
   2
-  Shamiyon ne saron se utari rida
-  Aye Khuda, aye Khuda kaisa hai imtehaan
-  Pathron mein haram sar chupaein kahan
-  Tang galiyaan bari jaan bachaein kahan
+  Shaamiyoṅ ne saroṅ se utaari rida
+  Ae Khuda, ae Khuda kaisa hai imtihaan
+  Pattharoṅ mein haram sar chhupaaeṅ kahaaṅ
+  Tang galiyaaṅ bari jaan bachaaeṅ kahaaṅ
 
   3
-  Al-amaan al-amaan de rahi hain fogaan
-  Majlis-e-Shah mein aankh jo bhi ho nam
-  Oss pe mehshar mein hoga Sarwar karam
-  Likhtay Asif raho tum meri dastaan
+  Al-amaaṅ al-amaaṅ de rahi haiṅ fughaaṅ
+  Majlis-e-Shaah mein aankh jo bhi ho nam
+  Us pe mahshar mein hoga Sarwar karam
+  Likhte Aasif raho tum meri daastaaṅ
 ---
 
 عابدِ ناتواں ہتھکڑی بیڑیاں سرور رضا کربلائی

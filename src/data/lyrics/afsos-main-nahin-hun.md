@@ -18,56 +18,56 @@ romanLyrics: |-
   Padar ke haath se banta hai dulha
   Bahut masrur hai khush hai Sakina
   Damakta hai khushi se sab ka chehra
-  Lekin maiṅ nahiṅ huṅ afsos maiṅ nahiṅ huṅ
+  Lekin main nahiṅ huṅ afsos main nahiṅ huṅ
 
   1
-  Phuphi ammaṅ balaaeṅ le rahi haiṅ
+  Phuphi ammaṅ bulaaeṅ le rahi haiṅ
   Bahut Fizza duaaeṅ de rahi haiṅ
   Thikana kya hai behnoṅ ki khushi ka
   Jo maange wo jo chaahe le rahi hai
   Manaata hai khushi kunba hamara
 
   2
-  Ali Asghar ko shahbala bana kar
-  Bithaya maaṅ ne Akbar ke barabar
-  Hatheli par rakhi mahendi zara si
-  Khare haiṅ paas Abbas Dilawar
-  Mujhe Qasim ne har khaime meiṅ dhunda
+  Ali Asghar ko shahbaala bana kar
+  Bithaaya maaṅ ne Akbar ke barabar
+  Hatheli par rakhi mehndi zara si
+  Khare haiṅ paas Abbaas Dilaawar
+  Mujhe Qasim ne har khaime mein dhunda
 
   3
   Dulhan ke paas baithi hai Sakina
   Bahut masrur hai Ghazi ka beta
-  Chacha Akbar ki shadi ki khushi meiṅ
+  Chacha Akbar ki shaadi ki khushi mein
   Naya malbus hai Baqir ne pehna
   Achanak mujh ko Abid ne pukaara
 
   4
   Mehek sehre ki ye batla rahi hai
-  Sawari Sayyeda ki aa rahi hai
+  Sawaari Sayyeda ki aa rahi hai
   Najaf se Murtaza aae hue haiṅ
   Hawa tazim karne jaa rahi hai
   Hai aanchal mil ke sab behnoṅ ne daala
 
   5
   Achanak khwaab tuta royi Sughra
-  Tha ghar meiṅ har taraf chaaya andhera
+  Tha ghar mein har taraf chhaaya andhera
   Tha laashoṅ se bhara ganj-e-shahidaṅ
-  Ali Akbar ke sine meiṅ tha naiza
+  Ali Akbar ke sine mein tha naiza
   Mere baba tumheiṅ dene ko pursa
 
   6
-  Abhi to khwaab tha kitna suhana
-  Tha jin haathoṅ meiṅ dekha maiṅ ne kangna
+  Abhi to khwaab tha kitna suhaana
+  Tha jin haathoṅ mein dekha main ne kangna
   Wo sine ka lahu roke hue the
-  Kahaṅ ki rasm-e-shadi kaisa sehra
-  Sabhi dete haiṅ baba ko sahara
+  Kahaṅ ki rasm-e-shaadi kaisa sehra
+  Sabhi dete haiṅ baba ko sahaara
 
   7
   Samar behte rahe Sughra ke aaṅsu
-  Bhare Akbar ke khaak o khuṅ meiṅ gesu
+  Bhare Akbar ke khaak o khuṅ mein gesu
   Ali Akbar su-e-jannat sidhaare
-  Fiza meiṅ reh gayi bas khun ki bu
-  Janaza maiṅ uthaati mil ke baba
+  Fiza mein reh gayi bas khun ki bu
+  Janaaza main uthaati mil ke baba
 ---
 خوابِ صغرا
 بہن نے خواب یہ کل شب ہے دیکھا

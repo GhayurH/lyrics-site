@@ -26,7 +26,7 @@ romanLyrics: |-
 
   2
   Zabaan-e-khushk meiṅ beti tere kaante pare hoṅge
-  Faqat do ghuṅt pi le tere ehsaan bare hoṅge
+  Faqat do ghunt pi le tere ehsaan bare hoṅge
   Sitam pardes meiṅ tujh par bahut qismat ne dhaaya hai
 
   3
@@ -60,7 +60,7 @@ romanLyrics: |-
   8
   Dua marne ki mere kijiye Shah-e-Madina se
   Ye paani kis tarah utrega halq-e-Sakina se
-  Phuphi amma isi paani ne ammu se chhuraaya hai
+  Phuphi ammaaṅ isi paani ne ammu se chhuraaya hai
   Ye paani kaun laaya hai
 
   9

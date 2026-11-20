@@ -1,6 +1,6 @@
 ---
 title: "کہا رو کے باقر نے عابد نے بابا"
-alternateTitle: "Sakina Ko Kyun"
+alternateTitle: "Sakina Ko Kiuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,91 +9,52 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sakina Ko Kyun Choor Kar Ja Rahe Hain.
-
-  Kaha Ro Ke Baqir Ne Abid Se Baba.
-
-  Sakina Ko Kyun Chor Kar Ja Rahe Hain.
-
-  Hai Baba Yahan Bala Ka Andherah.
-
+romanLyrics: |-
+  Kaha ro ke Baqir ne Abid ne baba
+  Sakina ko kiuṅ chhor kar ja rahe haiṅ
+  Hai baba yahaaṅ par bala ka andhera
 
   1
-
-  Haan Dekha Hai Main Ne Safar Mein Yeh Manzar.
-
-  Jahan Pani Hota Tha Iss Ko Muyassar.
-
-  Tu Khud Apne Hise Ka Pani Hamesha.
-
-  Girati Thi Yeh Aap Ki Beriyon Par.
-
-  Muyasar Hai Ab Hum Ko Pani Tu Piyasa.
-
+  Haaṅ dekha hai main ne safar mein yeh manzar
+  Jahaaṅ paani hota tha us ko muyassar
+  To khud apne hisse ka paani hamesha
+  Giraati thi yeh aap ki beriyoṅ par
+  Muyassar hai ab hum ko paani tu pyaasa
 
   2
-
-  Jhukaye Howay Apna Sir Ro Rahi Hain.
-
-  Rehai Ki Sun Kar Khabar Ro Rahi Hain.
-
-  Tarapti Hain Dadi Rubab Ayse Baba.
-
-  Keh Amma Bhi Thamay Jigar Ro Rahi Hain.
-
-  Batein Gay Kiya Gar Unho Ne Yeh Pocha.
-
+  Jhukaye hue apna sar ro rahi hai
+  Rihaai ki sun kar khabar ro rahi hai
+  Tarapti hai daadi Rubaab aise baba
+  Ke ammaṅ bhi thaame jigar ro rahi hai
+  Bataaeṅ ge kya gar unhoṅ ne yeh puchha
 
   3
-
-  Mujhe Yaad Hai Khud Yeh Kehte The Dada.
-
-  Madina Hai Iss Ke Sabab Se Madina.
-
-  Keh Meri Nazar Mein Wo Ghar Ghar Nahi Hai.
-
-  Nazar Jiss Mein Aye Na Mujh Ko Sakina.
-
-  Na Iss Ke Bina Phir Basay Ga Madina.
-
+  Mujhe yaad hai khud yeh kehte the dada
+  Madina hai is ke sabab se Madina
+  Ke meri nazar mein woh ghar ghar nahiṅ hai
+  Nazar jis mein aaye na mujh ko Sakina
+  Na us ke bina phir base ga Madina
 
   4
-
-  Madina Ho Ya Shaam-o-Karab-o-Bala Ho.
-
-  Keh Bazaar-o-Darbar Ka Marhala Ho.
-
-  Sada Har Sitam Hum Ne Jehla Hai Mil Kar.
-
-  Tu Phir Kyun Na Yeh Mere Dil Ki Sada Ho.
-
-  Mujhe Bhi Yehin Choor Jaein Aye Baba.
-
+  Madina ho ya Shaam o Karb o Bala ho
+  Ke baazaar o darbaar ka marhala ho
+  Sanaaṅ aur sitam hum ne jhele haiṅ mil kar
+  To phir kiuṅ na yeh mere dil ki sada ho
+  Mujhe bhi yahiṅ chhor jaaeṅ ae baba
 
   5
-
-  Mujhe Aaj Yaad Aa Raha Hai WO Lamha.
-
-  Giri Thi Jo Naqay Se Ik Din Sakina.
-
-  Lagay Aap Ki Pusht Par Tazyane.
-
-  Magar Aap Ne Qafila Rokay Rakha.
-
-  Rukha Lein Yunhi Qafila Aaj Baba.
-
+  Mujhe aaj yaad aa raha hai woh lamha
+  Giri thi jo naaqe se ik din Sakina
+  Lage aap ki pusht par taaziyaane
+  Magar aap ne qaafila roke rakha
+  Rukaa leṅ yuṅhi qaafila aaj baba
 
   6
-
-  Achanak Nigahein Parein Jo Lahad Par.
-
-  Sawalaat Phir Lab Pe Aye na "AKBAR".
-
-  Sakina Ki Turbat Ko Seene Lagaye.
-
-  Padar Se Ye Kehne Lagay Ro Ke Baqir.
-
-  Samaj Mein Meri Aab Hai Baba Ye Aya.'
+  Achaanak nigaaheṅ pareṅ jo lahad par
+  Sawaalaat phir lab pe aaye na Akbar
+  Sakina ki turbat ko sine lagaaye
+  Padar se yeh kehne lage ro ke Baqir
+  Samajh mein meri ab hai baba yeh aaya
 reciter: "Meer Hasan Meer"
 ---
 

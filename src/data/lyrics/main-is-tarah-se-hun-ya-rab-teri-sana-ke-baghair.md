@@ -20,7 +20,7 @@ romanLyrics: |-
   Khuda-e-Aal-e-Muhammad teri ata ke baghair
 
   2
-  Qasam Khuda ki adhuri kitab lagti thi
+  Qasam Khuda ki adhuri kitaab lagti thi
   Bayaaz-e-sher mujhe naat-e-Mustafa ke baghair
 
   3
@@ -32,19 +32,19 @@ romanLyrics: |-
   Dua asar ke baghair aur asar dua ke baghair
 
   5
-  Faqir-e-Shah-e-Najaf huṅ koi mazaq nahiṅ
+  Faqir-e-Shaah-e-Najaf huṅ koi mazaaq nahiṅ
   Hamesha milta hai mujh ko meri sada ke baghair
 
   6
   Sukun milta nahiṅ Mustafa ko aur kahiṅ
-  Ae Shahzadi-e-Aalam teri rida ke baghair
+  Ae Shaahzaadi-e-Aalam teri rida ke baghair
 
   7
   Dalil koi nahiṅ thi Khuda ke hone ki
   Ali o Fatima Hasnain o Mustafa ke baghair
 
   8
-  Saza ke baad jaza hai agar to ae waiz
+  Saza ke baad jaza hai agar to ae waaiz
   To kaise mil gayi Hur ko jaza saza ke baghair
 
   9
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   10
   Koi bhi ho Razi Allah ho nahiṅ sakta
-  Ae Bint-e-Rehmat-e-Aalam teri riza ke baghair
+  Ae Bint-e-Rahmat-e-Aalam teri riza ke baghair
 ---
 
 میں اس طرح سے ہوں یا رب تیری ثنا کے بغیر

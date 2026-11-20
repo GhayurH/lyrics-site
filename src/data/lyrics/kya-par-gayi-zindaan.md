@@ -16,7 +16,7 @@ romanLyrics: |-
   Sab se judaa ho gayi naashaad Sakina
 
   1
-  Karti thi bayaan laash pe ye Bano-e-bekas
+  Karti thi bayaan laash pe ye Baano-e-bekas
   Faryaad hai faryaad hai faryaad Sakina
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kuchh apni zabaaṅ se kaho rudaad Sakina
 
   5
-  Sine pe sulaane ke liye aaye haiṅ baba
+  Sine pe sulaane ke liye aaye haiṅ baaba
   Maaṅ kehti hai utho meri naashaad Sakina
 
   6

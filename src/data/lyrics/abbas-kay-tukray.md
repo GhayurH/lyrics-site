@@ -9,48 +9,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh Dekh Ke Rotay Rahe Abbas Ke Tukray
-  Qasim Se Zyada Hoye Abbas Ke Tukray
+  Sheh dekh ke rote rahe Abbas ke tukre
+  Qaasim se zyaada hue Abbas ke tukre
 
   1
-  Bhola Nahi Jo Maa Ne Sabaq Oss Ko Diya Tha
-  Maqtal Mein Jo Mazloom Ko Aate Hoye Dekha
-  Tazeem Ko Uthnay Lagay Abbas Ke Tukray
+  Bhula nahiṅ jo maaṅ ne sabaq us ko diya tha
+  Maqtal mein jo mazlum ko aate hue dekha
+  Taazim ko uthne lage Abbas ke tukre
 
   2
-  Bazu They Kahin Jism-e-Alamdar Kahin Tha
-  Sahil Pe Tha Bikhra Howa Saqa-e-Sakina
-  Tukray Howa Dil Dekh Ke Abbas Ke Tukray
+  Baazu the kahiṅ jism-e-alamdaar kahiṅ tha
+  Saahil pe tha bikhra hua saqaa-e-Sakina
+  Tukre hua dil dekh ke Abbas ke tukre
 
   3
-  Oss Shair Pe Nazaan Thi Bohat Shah Ki Dukhtar
-  Hans Hans Ke Sada Deta Tha Yeh Sham Ka Lashkar
-  Zainab Se Kaho Dekh Le Abbas Ke Tukray
+  Us sher pe naazaaṅ thi bahut Shaah ki dukhtar
+  Haṅs haṅs ke sada deta tha yeh Shaam ka lashkar
+  Zainab se kaho dekh le Abbas ke tukre
 
   4
-  Jo Hath Utha Paye Na Khud Pehlu Se Haider
-  Kaisi Hai Muhabbat Ke Ossi Hath Se Aa Kar
-  Zahra Ne Chunay Khak Se Abbas Ke Tukray
+  Jo haath utha paaye na khud pehlu se Haidar
+  Kaisi hai muhabbat ke usi haath se aa kar
+  Zahra ne chune khaak se Abbas ke tukre
 
   5
-  Ghazi Se Adawat Thi Musalmano Ko Kaisi
-  Maiyyat Ko Aziyat Tu Nahi Detey Hain Phir Bhi
-  Naizon Pe Uthaye Gaye Abbas Ke Tukray
+  Ghaazi se adaawat thi musalmaanoṅ ko kaisi
+  Maiyyat ko aziyat to nahiṅ dete haiṅ phir bhi
+  Nezoṅ pe uthaaye gaye Abbas ke tukre
 
   6
-  Abbas Ke Jaisi Tu Wafa Kaun Karey Ga
-  Maa Kehti Thi Iss Baat Ka Afsoos Rahe Ga
-  Maula Ke Na Kam Aa Sakay Abbas Ke Tukray
+  Abbas ke jaisi to wafa kaun kare ga
+  Maaṅ kehti thi is baat ka afsos rahe ga
+  Maula ke na kaam aa sake Abbas ke tukre
 
   7
-  Le Aaye Alam Khaimon Mein Darya Se Utha Ke
-  Himmat Thi Kahan Kitne Janazon Ko Uthatay
-  Shabeer Nahi La Sakay Abbas Ke Tukray
+  Le aaye alam khaimoṅ mein darya se utha ke
+  Himmat thi kahaaṅ kitne janaazoṅ ko uthaate
+  Shabbir nahiṅ la sake Abbas ke tukre
 
   8
-  Aye:MIR TAKALLUM: Kissi Beemar Ne Aa Kar
-  Sadaat Ke Armano Ko Chadar Mein Utha Kar
-  Turbat Ke Hawalay Kiye Abbas Ke Tukray
+  Ae Mir Takallum, kisi bimaar ne aa kar
+  Saadaat ke armaanoṅ ko chaadar mein utha kar
+  Turbat ke hawaale kiye Abbas ke tukre
 ---
 
 شہ دیکھ کے روتے رہے عباس کے ٹکڑے

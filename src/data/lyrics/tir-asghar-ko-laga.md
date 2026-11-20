@@ -16,8 +16,8 @@ romanLyrics: |-
   Ye musibat wo hai jo maaṅ ka kaleja kha gayi
 
   1
-  Is se barh ke aur koi zulm kya hoga mazid
-  Thi wohi to tir-e-seh shoba ki ek zarb-e-shadid
+  Is se barh ke koi zulm kya hoga mazid
+  Thi wohi to tir-e-seh shoba ki ek zarb-e-shahid
   Asghar-e-beshir ko jo khun meiṅ nehla gayi
 
   2
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Thi shikasta nok se nezoṅ ki arz-e-Karbala
-  Dhundhte the chhe mahine ki kamaayi ashqiya
+  Dhundte the chhe mahine ki kamaayi ashqiya
   Laash-e-Asghar ek neze meiṅ ulajh kar aa gayi
 
   6

@@ -1,32 +1,53 @@
 ---
-title: "Maqtal Main Dekhti Hoon Tum Bazar Dekhna"
+title: "مقتل میں دیکھتی ہوں تم بازار دیکھنا"
+alternateTitle: "Maqtal Main Dekhti Hoon Tum Bazar Dekhna"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akhtiar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Maqtal main dekhti hoon tum bazar dekhna
+  Qasar-e-Yazidiyat pe mere waar dekhna
+
+  1
+  Akbar ko dekhti thi tarapta tha khak par
+  Rota howa bazar mein beemar dekhna
+  Tum ko fikar hai Sham mein bolon gi kis tarha
+  Bolon gi jaisay Haider-e-Karrar dekhna
+
+  2
+  Le kar Sakina aayi jo bachoon ko sath mein
+  Bach jaon gi Hussain Alamdar dekhna
+  Har chock har bazar ke har aik moor par
+  Khutbon ki meri Sham mein yalgar dekhna
+
+  3
+  Mehngi paray gi Sham ke hakim ko dushmani
+  Kar doon gi takht Sham ka mismar dekhna
+  Jis jis ko bhi Hussain ke lutnay ka gham nahi
+  Oss ka hashar bhi hashar mein Akhtiar dekhna
 ---
 
-Maqtal Main Dekhti Hoon Tum Bazar Dekhna.
-Qasar-e-Yazidiyat Pe Mere Waar Dekhna.
+مقتل میں دیکھتی ہوں تم بازار دیکھنا
+قصرِ یزیدیت پہ میرے وار دیکھنا
 
-1
-Akbar Ko Dekhti Thi Tarapta Tha Khak Par.
-Rota Howa Bazar Mein Beemar Dekhna.
-Tum Ko Fikar Hai Sham Mein Bolon Gi Kis Tarha.
-Bolon Gi Jaisay Haider-e-Karrar Dekhna.
+۱
+اکبر کو دیکھتی تھی تڑپتا تھا خاک پر
+روتا ہوا بازار میں بیمار دیکھنا
+تم کو فکر ہے شام میں بولوں گی کس طرح
+بولوں گی جیسے حیدرِ کرار دیکھنا
 
-2
-Le Kar Sakina Aayi Jo Bachoon Ko Sath Mein.
-Bach Jaon Gi Hussain Alamdar Dekhna.
-Har Chock Har Bazar Ke Har Aik Moor Par.
-Khutbon Ki Meri Sham Mein Yalgar Dekhna.
+۲
+لے کر سکینہ آئی جو بچوں کو ساتھ میں
+بچ جاؤں گی حسین علمدار دیکھنا
+ہر چوک ہر بازار کے ہر ایک موڑ پر
+خطبوں کی میری شام میں یلغار دیکھنا
 
-3
-Mehngi Paray Gi Sham Ke Hakim Ko Dushmani.
-Kar Doon Gi Takht Sham Ka Mismar Dekhna.
-Jis Jis Ko Bhi Hussain Ke Lutnay Ka Gham Nahi.
-Oss Ka Hashar Bhi Hashar Mein Akhtiar Dekhna.
+۳
+مہنگی پڑے گی شام کے حاکم کو دشمنی
+کر دوں گی تختِ شام کا مسمار دیکھنا
+جس جس کو بھی حسین کے لٹنے کا غم نہیں
+اس کا حشر بھی حشر میں اختیار دیکھنا

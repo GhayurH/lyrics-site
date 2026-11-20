@@ -22,13 +22,13 @@ romanLyrics: |-
   Wo pusht ki jaanib se nikla
   Aur ek shaqi ka tir-e-sitam
   Tere maathe phir aa ke laga
-  Un zakhmoṅ par phir aa ke laiṅ
+  Un zakhmoṅ par phir aa ke la'iṅ
   Hans kar patthar barsaate haiṅ
 
   2
   Chheda hai bari bedardi se
   Asghar ki tarah tera bhi gala
-  Ek tir tere phir dil pe laga
+  Ak tir tere phir dil pe laga
   Jis se tujhe Akbar yaad aaya
   Tere dil ki rageṅ ab nezoṅ se
   Bedard Musalmaan kaatte haiṅ
@@ -37,17 +37,17 @@ romanLyrics: |-
   Teri daayeṅ taraf ki pasli par
   Jab neza laga tu baayeṅ gira
   Jab baayeṅ taraf ki pasli par
-  Ek neza laga tu daayeṅ gira
+  Ak neza laga tu daayeṅ gira
   Zahra ki tarah ae Maula teri
   Ab zaalim pasliyaaṅ torte haiṅ
 
   4
-  Bin-e-Kaahil ka ek zehr bhara
+  Bin Kaahil ka ak zehr bhara
   Phir tir tere maathe pe laga
-  Ek zaalim ne aage barh kar
-  Ek gurz tere sar par maara
-  Malun tujhe phir nezoṅ se
-  Bhaaloṅ se zamiṅ par laate haiṅ
+  Ak zaalim ne aage barh kar
+  Ak gurz tere sar par maara
+  Mal'un tujhe phir nezoṅ se
+  Baaloṅ se zamiṅ par laate haiṅ
 
   5
   Koi lutta hai phir teri aba
@@ -55,18 +55,18 @@ romanLyrics: |-
   Koi tera kamarband khenchta hai
   Koi khenchta hai kurta tera
   Aur garm zamiṅ ki khaak tere
-  Zakhmoṅ meiṅ sitamgar daalte haiṅ
+  Zakhmoṅ mein sitamgar daalte haiṅ
 
   6
-  Tere zakhmi gale ko Shimr-e-laiṅ
+  Tere zakhmi gale ko Shimr la'iṅ
   Phir kaatta hai lakri jaisa
-  Zainab se laiṅ wo kehta hai
+  Zainab se la'iṅ wo kehta hai
   Abbas ko ab bulwaao zara
-  Dekhe wo ke kaise hum Shah ke
+  Dekheṅ wo ke kaise hum Shah ke
   Marne par khushiyaaṅ manaate haiṅ
 
   7
-  Tiroṅ pe para tha sehra meiṅ
+  Tiroṅ pe para tha sehra mein
   Begor o kafan Shah ka laasha
   Nasir na koi tha Maula tera
   Jab laasha tera paamaal hua

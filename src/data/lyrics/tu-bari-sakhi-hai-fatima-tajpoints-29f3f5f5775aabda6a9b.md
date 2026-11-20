@@ -1,41 +1,71 @@
 ---
-title: "Tu Bari Sakhi Hai Fatima"
+title: "تو بڑی سخی ہے فاطمہ"
+alternateTitle: "Tu Bari Sakhi Hai Fatima"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tu bari sakhi hai Fatima
+  Mohsin-e-Ali hai Fatima
+  Ikhtiyar-e-kun ke bawojood
+  Chaki peesti hai Fatima
+
+  2
+  Mustafa ko mangna para
+  Tab kahin mili hai Fatima
+  Aaye hain Hasan bawaqt-e-zohar
+  Asar parh rahi hai Fatima
+
+  3
+  Waqt ke imam ke liye
+  Aag par chali hai Fatima
+  Jaye ga jinna mein kaise Sheikh
+  Dar pe hi khari hai Fatima
+
+  4
+  Kya taqabul umhat se
+  Maa Rasool ki hai Fatima
+  Sin ko choor martabay ko dekh
+  Nooh se bari hai Fatima
+
+  5
+  La-Illaha jhomne laga
+  Sajda kar rahi hai Fatima
+  Mir taig-e-Murtaza ke sath
+  Arsh par pali hai Fatima
 ---
 
-1
-Tu Bari Sakhi Hai Fatima
-Mohsin-e-Ali Hai Fatima.
-Ikhtiyar-e-Kun Ke Bawojood.
-Chaki Peesti Hai Fatima.
+۱
+تو بڑی سخی ہے فاطمہ
+محسنِ علی ہے فاطمہ
+اختیارِ کُن کے باوجود
+چکی پیستی ہے فاطمہ
 
-2
-Mustafa Ko Mangna Para.
-Tab Kahin Mili Hai Fatima.
-Aaye Hain Hasan Bawaqt-e-Zohar.
-Asar Parh Rahi Hai Fatima.
+۲
+مصطفیٰ کو مانگنا پڑا
+تب کہیں ملی ہے فاطمہ
+آئے ہیں حسن بوقتِ ظہر
+عصر پڑھ رہی ہے فاطمہ
 
-3
-Waqt Ke Imam Ke Liye.
-Aag Par Chali Hai Fatima.
-Jaye Ga Jinna Mein Kaise Sheikh.
-Dar Pe Hi Khari Hai Fatima.
+۳
+وقت کے امام کے لیے
+آگ پر چلی ہے فاطمہ
+جائے گا جناں میں کیسے شیخ
+در پہ ہی کھڑی ہے فاطمہ
 
-4
-Kya Taqabul Umhat Se.
-Maa Rasool Ki Hai Fatima.
-Sin Ko Choor Martabay Ko Dekh.
-Nooh Se Bari Hai Fatima.
+۴
+کیا تقابل امہات سے
+ماں رسول کی ہے فاطمہ
+سِن کو چھوڑ مرتبے کو دیکھ
+نوح سے بڑی ہے فاطمہ
 
-5
-La-Illaha Jhomne Laga.
-Sajda Kar Rahi Hai Fatima.
- Mir Taig-e-Murtaza Ke Sath.
-Arsh Par Pali Hai Fatima.
+۵
+لا الٰہ جھومنے لگا
+سجدہ کر رہی ہے فاطمہ
+میر تیغِ مرتضیٰ کے ساتھ
+عرش پر پلی ہے فاطمہ

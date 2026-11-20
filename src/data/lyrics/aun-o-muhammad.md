@@ -19,44 +19,44 @@ romanLyrics: |-
   Aayi hai ye maqtal se khabar Aun o Muhammad
 
   2
-  Didaar ki hasrat meiṅ musalsal meri aankheiṅ
-  Dhundegi tumheiṅ shaam o sahar Aun o Muhammad
+  Didaar ki hasrat meiṅ musalsal meri aankheṅ
+  Dhunde gi tumheṅ shaam o sahar Aun o Muhammad
 
   3
   Ye sochna maaṅ baithi hai nazdik tumhare
-  Aajaye meri yaad agar Aun o Muhammad
+  Aa jaaye meri yaad agar Aun o Muhammad
 
   4
-  Tum ye na samajhna maiṅ tumheiṅ bhul gayi huṅ
+  Tum ye na samajhna maiṅ tumheṅ bhul gayi huṅ
   Hai dil pe judaai ka asar Aun o Muhammad
 
   5
-  Ye soch ke kab khelte aajao mere paas
+  Ye soch ke kab khelte aa jaao mere paas
   Darwaze pe rehti hai nazar Aun o Muhammad
 
   6
-  Phir tum pe naye zulm ki yalghaar na ho jaye
-  Har waqt laga rehta hai darr Aun o Muhammad
+  Phir tum pe naye zulm ki yalgaar na ho jaaye
+  Har waqt laga rehta hai dar Aun o Muhammad
 
   7
-  Jis waqt Madine meiṅ qadam rakhuṅgi jaa kar
-  Viraan nazar aayega ghar Aun o Muhammad
+  Jis waqt Madine meiṅ qadam rakhuṅ gi jaa kar
+  Viraan nazar aaye ga ghar Aun o Muhammad
 
   8
-  Jis roz se khoya hai tumheiṅ Karb o Bala meiṅ
+  Jis roz khoya hai tumheṅ Karb o Bala meiṅ
   Daaman mera ashkoṅ se hai tar Aun o Muhammad
 
   9
-  Mehsus ye hota hai mujhe ae mere beta
-  Tum laut ke aa jaaoge ghar Aun o Muhammad
+  Mehsus ye hota hai mujhe ae mera beta
+  Tum laut ke aa jaao ge ghar Aun o Muhammad
 
   10
   Jis waqt chali jaati huṅ hujre meiṅ tumhare
   Taklif se uthta nahiṅ sar Aun o Muhammad
 
   11
-  Ishrat hai abhi tak yehi Zainab ki sadaaeiṅ
-  Aajao ke phatta hai jigar Aun o Muhammad
+  Ishrat hai abhi tak yehi Zainab ki sadaaeṅ
+  Aa jaao ke phatta hai jigar Aun o Muhammad
 ---
 زینب نے کہا نورِ نظر عون و محمد
 تم کر گئے دنیا سے سفر عون و محمد

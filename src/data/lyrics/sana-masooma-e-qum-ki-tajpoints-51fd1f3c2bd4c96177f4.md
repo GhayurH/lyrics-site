@@ -1,34 +1,56 @@
 ---
-title: "Sana Masooma-e-Qum Ki"
+title: "ثنا معصومۂ قم کی"
+alternateTitle: "Sana Masooma-e-Qum Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Likhe ga manqabat ab koi kya Masooma-e-Qum ki
+  Ke jab Allah karta hai sana Masooma-e-Qum ki
+  Hai sikka mere bazu par bandha Sultan-e-Mashhad ka
+  Youn mere sath rehti hai dua Masooma-e-Qum ki
+  Agar pochein Raza teri riza kya hai tu keh doon ga
+  Mujhe khuddami kar dijay atta Masooma-e-Qum ki
+  Teri taweez-e-turbat par rakha Quran kehta hai
+  Tilawat kar rahi hai innama Masooma-e-Qum ki
+  Kareemo mein Kareema our Masoomo mein Masoma
+  Khasosiyat hai yeh Zainab ki ya Masooma-e-Qum ki
+  Nazool-e-aaya-e-tatheer-e-sani ho gaya hota
+  Rida jo orhte Maula Raza Masooma-e-Qum ki
+  Sar-e-Zahra se aayi thi rida-e-sani-e-Zahra
+  Sar-e-Zainab se aayi hai rida Masooma-e-Qum ki
+  Ujalay mere peeche peeche khud chalte chale aaye
+  Jala aaya tha chokhat par diya Masooma-e-Qum ki
+  Dar-e-Zahra pe hain matam ki yeh pabandiyaan jab tak
+  Azza Zahra ki hai tab tak azza Masooma-e-Qum ki
+  Farishte meri janib se adda karte rahe sajday
+  Sana jab tak Hasan karta raha Masooma-e-Qum ki
 ---
 
-1
-Sana Masooma-e-Qum Ki Lyrics
-Likhe Ga Manqabat Ab Koi Kya Masooma-e-Qum Ki.
-Ke Jab ALLAH Karta Hai Sana Masooma-e-Qum Ki.
-Hai Sikka Mere Bazu Par Bandha Sultan-e-Mashhad Ka.
-Youn Mere Sath Rehti Hai Dua Masooma-e-Qum Ki.
-Agar Pochein Raza Teri Riza Kya Hai Tu Keh Doon Ga.
-Mujhe Khuddami Kar Dijay Atta Masooma-e-Qum Ki.
-Teri Taweez-e-Turbat Par Rakha Quran Kehta Hai.
-Tilawat Kar Rahi Hai Innama Masooma-e-Qum Ki.
-Kareemo Mein Kareema Our Masoomo Mein Masoma.
-Khasosiyat Hai Yeh Zainab Ki Ya Masooma-e-Qum Ki.
-Nazool-e-Aaya-e-Tatheer-e-Sani Ho Gaya Hota.
-Rida Jo Orhte Maula Raza Masooma-e-Qum Ki.
-Sar-e-Zahra Se Aayi Thi Rida-e-Sani-e-Zahra.
-Sar-e-Zainab Se Aayi Hai Rida Masooma-e-Qum Ki.
-Ujalay Mere Peeche Peeche Khud Chalte Chale Aaye.
-Jala Aaya Tha Chokhat Par Diya Masooma-e-Qum Ki.
-Dar-e-Zahra Pe Hain Matam Ki Yeh Pabandiyaan Jab Tak.
-Azza Zahra Ki Hai Tab Tak Azza Masooma-e-Qum Ki.
-Farishte Meri Janib Se Adda Karte Rahe Sajday.
-Sana Jab Tak Hasan Karta Raha Masooma-e-Qum Ki.
+۱
+لکھے گا منقبت اب کوئی کیا معصومۂ قم کی
+کہ جب اللہ کرتا ہے ثنا معصومۂ قم کی
+ہے سکّہ میرے بازو پر بندھا سلطانِ مشہد کا
+یوں میرے ساتھ رہتی ہے دعا معصومۂ قم کی
+اگر پوچھیں رضا تری رضا کیا ہے تو کہہ دوں گا
+مجھے خدامی کر دیجیے عطا معصومۂ قم کی
+تری تعویذِ تربت پر رکھا قرآن کہتا ہے
+تلاوت کر رہی ہے اِنَّمَا معصومۂ قم کی
+کریموں میں کریمہ اور معصوموں میں معصومہ
+خصوصیت ہے یہ زینب کی یا معصومۂ قم کی
+نزولِ آیۂ تطہیرِ ثانی ہو گیا ہوتا
+ردا جو اوڑھتے مولا رضا معصومۂ قم کی
+سرِ زہرا سے آئی تھی ردائے ثانیِ زہرا
+سرِ زینب سے آئی ہے ردا معصومۂ قم کی
+اجالے میرے پیچھے پیچھے خود چلتے چلے آئے
+جلا آیا تھا چوکھٹ پر دیا معصومۂ قم کی
+درِ زہرا پہ ہیں ماتم کی یہ پابندیاں جب تک
+عزا زہرا کی ہے تب تک عزا معصومۂ قم کی
+فرشتے میری جانب سے ادا کرتے رہے سجدے
+ثنا جب تک حسن کرتا رہا معصومۂ قم کی

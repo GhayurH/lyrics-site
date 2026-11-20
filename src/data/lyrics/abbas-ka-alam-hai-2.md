@@ -9,21 +9,21 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab hashar ki dhoop main pohchenge
-  Jab hashar ki dhoop main pohchenge
-  Ghazi ka alam jab dekhenge
-  Ghazi ka alam jab dekhenge
-  Farhan or Mazhar kehdenge
-  Farhan or Mazhar kehdenge
-  Ab roz e qayamat ka hum ko
-  Na dar hai na ghum hai
+  Jab hashr ki dhup mein pahuncheṅ ge
+  Jab hashr ki dhup mein pahuncheṅ ge
+  Ghazi ka alam jab dekheṅ ge
+  Ghazi ka alam jab dekheṅ ge
+  Farhan aur Mazhar keh deṅ ge
+  Farhan aur Mazhar keh deṅ ge
+  Ab roz-e-qayaamat ka hum ko
+  Na dar hai na gham hai
   Abbas ka alam hai
   Abbas ka alam hai
   Abbas ka alam hai
   Abbas ka alam hai
 
   1
-  Choda so baras se jhuk na saka
+  Chaudah sau baras se jhuk na saka
   Yeh Rab ka karam hai
   Abbas ka alam hai
   Abbas ka alam hai
@@ -31,11 +31,11 @@ romanLyrics: |-
   Abbas ka alam hai
 
   2
-  Ooncha rahay ooncha rahay
+  Uncha rahe uncha rahe
   Ghazi alam tera
-  Ooncha rahay ooncha rahay
+  Uncha rahe uncha rahe
   Ghazi alam tera
-  Mola Mola Mola
+  Maula Maula Maula
   Ghazi alam tera
 ---
 

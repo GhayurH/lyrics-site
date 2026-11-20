@@ -1,38 +1,66 @@
 ---
-title: "Samajhna Chaho Hussain Ko Gar Asad Abbas"
+title: "سمجھنا چاہو حسین کو گر اسد عباس"
+alternateTitle: "Samajhna Chaho Hussain Ko Gar Asad Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Salamat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Samajhna chaho Hussain ko gar Asad Abbas
+  Samjhna chaho Hussain ko gar Quran parh lo Quraan samajh lo
+
+  1
+  Quran khud hi bataye ga par tum oss ki pehle zabaan samajh lo
+  Tumhein shaoor e namaz apni ragoon mein har dam sada miley ga
+  Har aik sajday mein rab-e-Kaba tumhein tumhara Khuda miley ga
+  Tum oss ke betay ki sab se pehle woh Karbala ki azaan samajh lo
+
+  2
+  Hai hajar e aswad ka rang kala kahan se aaya woh sang samjho
+  Libas-e-matam siyah hi kyun hai ghilaf-e-Kaba ka rang samjho
+  Samajh hi jao gay raaz sare tum pehle matam fogaan samajh lo
+  Lehar lehar mein nadamaton ka woh bojh le kar kyun beh rahi hai
+
+  3
+  Azzal se ab tak woh gham hai kis ka Furat ro ro ke seh rahi hai
+  Furat uz khud samajh hi lo gay tum pehle ashk-e-rawaan samajh lo
+  Kyun har qadam pe lahu hai roya shabab mein kyun kamar jhuki hai
+  Jahan phophi ki rida luti thi tarapti rooh kyun wahin ruki hai
+
+  4
+  Gari jo Abid ki rooh mein ab tak be pardagi ki sina samajh lo
+  Woh Nainawa mein haram hai jis ka ossi ne tauheed ko bachaya
+  Madinat al shah e Karbala hai jisay Khuda ne hai khud basaya
+  Tum aye Salamat unn jaliyon ko haan la makaan ka makaan samajh lo
 ---
 
-Samajhna Chaho Hussain Ko Gar Asad Abbas.
-Samjhna Chaho Hussain Ko Gar Quran Parh Lo Quraan Samajh Lo.
+سمجھنا چاہو حسین کو گر اسد عباس
+سمجھنا چاہو حسین کو گر قرآن پڑھ لو قرآن سمجھ لو
 
-1
-Quran Khud Hi Bataye Ga Par Tum Oss Ki Pehle Zabaan Samajh Lo.
-Tumhein Shaoor e Namaz Apni Ragoon Mein Har Dam Sada Miley Ga.
-Har Aik Sajday Mein Rab-e-Kaba Tumhein Tumhara Khuda Miley Ga.
-Tum Oss Ke Betay Ki Sab Se Pehle Woh Karbala Ki Azaan Samajh Lo.
+۱
+قرآن خود ہی بتائے گا پر تم اس کی پہلے زباں سمجھ لو
+تمہیں شعورِ نماز اپنی رگوں میں ہر دم صدا ملے گا
+ہر ایک سجدے میں ربِ کعبہ تمہیں تمہارا خدا ملے گا
+تم اس کے بیٹے کی سب سے پہلے وہ کربلا کی اذاں سمجھ لو
 
-2
-Hai Hajar e Aswad Ka Rang Kala Kahan Se Aaya Woh Sang Samjho.
-Libas-e-Matam Siyah Hi Kyun Hai Ghilaf-e-Kaba Ka Rang Samjho.
-Samajh Hi Jao Gay Raaz Sare Tum Pehle Matam Fogaan Samajh Lo.
-Lehar Lehar Mein Nadamaton Ka Woh Bojh Le Kar Kyun Beh Rahi Hai.
+۲
+ہے حجرِ اسود کا رنگ کالا کہاں سے آیا وہ سنگ سمجھو
+لباسِ ماتم سیاہ ہی کیوں ہے غلافِ کعبہ کا رنگ سمجھو
+سمجھ ہی جاؤ گے راز سارے تم پہلے ماتم فغاں سمجھ لو
+لہر لہر میں ندامتوں کا وہ بوجھ لے کر کیوں بہہ رہی ہے
 
-3
-Azzal Se Ab Tak Woh Gham Hai Kis Ka Furat Ro Ro Ke Seh Rahi Hai.
-Furat Uz Khud Samajh Hi Lo Gay Tum Pehle Ashk-e-Rawaan Samajh Lo.
-Kyun Har Qadam Pe Lahu Hai Roya Shabab Mein Kyun Kamar Jhuki Hai.
-Jahan Phophi Ki Rida Luti Thi Tarapti Rooh Kyun Wahin Ruki Hai.
+۳
+ازل سے اب تک وہ غم ہے کس کا فرات رو رو کے سہہ رہی ہے
+فرات از خود سمجھ ہی لو گے تم پہلے اشکِ رواں سمجھ لو
+کیوں ہر قدم پہ لہو ہے رویا شباب میں کیوں کمر جھکی ہے
+جہاں پھوپھی کی ردا لٹی تھی تڑپتی روح کیوں وہیں رکی ہے
 
-4
-Gari Jo Abid Ki Rooh Mein Ab Tak Be Pardagi Ki Sina Samajh Lo.
-Woh Nainawa Mein Haram Hai Jis Ka Ossi Ne Tauheed Ko Bachaya.
-Madinat Al Shah e Karbala Hai Jisay Khuda Ne Hai Khud Basaya.
-Tum Aye Salamat Unn Jaliyon Ko Haan La Makaan Ka Makaan Samajh Lo.
+۴
+گڑی جو عابد کی روح میں اب تک بے پردگی کی سِنا سمجھ لو
+وہ نینوا میں حرم ہے جس کا اسی نے توحید کو بچایا
+مدینۃ الشاہِ کربلا ہے جسے خدا نے ہے خود بسایا
+تم اے سلامت ان جالیوں کو ہاں لا مکاں کا مکاں سمجھ لو

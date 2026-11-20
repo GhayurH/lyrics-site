@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Na maaro na maaro na maaro mujhe
+  Na maaro na maaro mujhe
   Maiṅ Sakina maiṅ Sakina
   Maiṅ yatima huṅ mujhe
   Patthar na maaro
@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Maiṅ Baba ki raaj dulaari
   Apne chacha ko jaan se pyaari
-  Maiṅ pardesi huṅ dukhyaari
+  Maiṅ pardesi huṅ dukhiyaari
   Dekh rahe ho aah o zaari
   Mar gaye waaris ab tanha huṅ
 
@@ -34,7 +34,7 @@ romanLyrics: |-
   3
   Baba se thi jang tumhaari
   Bachchoṅ se kya hai bezaari
-  Saaṅs ruk jaati hai hamaari
+  Saans ruk jaati hai hamaari
   Chalne meiṅ bhi hai dushwaari
   Chaar baras ki zaifa huṅ
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   5
   Chhin gaya mujh se baap ka sina
   Bhul chuki huṅ raat ko sona
-  Dard ka takiya gham ka bichhauna
+  Dard ka takiya gham ka bichhona
   Pyaas lage to aansu pina
   Ek diya jalta bujhta huṅ
 
@@ -60,7 +60,7 @@ romanLyrics: |-
   Na do paani maiṅ tishna huṅ
 
   7
-  Besar laashe ghor andhera
+  Be sar laashe ghur andhera
   Khun ki bu hai gham ka pehra
   Zakhm kaleje ka hai gehra
   Aansu hai rukhsaar pe thehra

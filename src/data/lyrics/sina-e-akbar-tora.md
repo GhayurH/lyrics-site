@@ -15,7 +15,7 @@ romanLyrics: |-
   Qalb-e-mehbub-e-Ilaahi dil-e-Haidar tora
 
   1
-  Kar liya nehr pe qabza tan-e-tanha us ne
+  Kar liya nehr pe qabza tan tanha us ne
   Jis ke baba ne akele dar-e-Khaibar tora
 
   2
@@ -23,7 +23,7 @@ romanLyrics: |-
   Aap ne Sibt-e-Nabi shishe se patthar tora
 
   3
-  Boli Laila hui Sarwar ki basaarat zaahir
+  Boli Laila hui Sarwar ki basaarat zaail
   Tum ne kis tarah se dam ae Ali Akbar tora
 
   4

@@ -1,86 +1,161 @@
 ---
-title: "Tabarrukat E Hussaini"
+title: "تبرکاتِ حسینی"
+alternateTitle: "Tabarrukat-e-Hussaini"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Zamane walo adab se inhein salam karo
+  Tabarrukat-e-Hussaini ka ayhteram karo
+
+  1
+  Yeh Zuljinah yeh taboot yeh shabeeh-e-alam
+  Amanatein hain yeh Zainab ki sab Khuda ki qasam
+  Inhein sanbhal ke rakho na hone do barhum
+  Wagarna Mehdi-e-Doraan ko kya bataein gay hum
+
+  2
+  Bohat hi jald woh pardah uthane wala hai
+  Amanatein hain yeh jis ki woh aane wala hai
+  Jo hum jaloos mein taboot le ke aate hain
+  Zamane walon ko shabirriyat sikhatay hain
+
+  3
+  Bani Asad ke qabiley ki had barhatay hain
+  Shaheed Imam ka taboot youn uthatay hain
+  Jisay marz hai aqeeday ka theek ho jaye
+  Jo Karbala mein nahi tha shareek ho jaye
+
+  4
+  Jo keh rahe hain tabaruk ghata diya jaye
+  Unhein hamara aqeeda suna diya jaye
+  Jo hai woh naam pe sheh ke luta diya jaye
+  Samajh na aaye tu yeh mashwara diya jaye
+
+  5
+  Jo be jawaz hain unn khuwaishon ko kam kar do
+  Niyaz ko nahi aasaishon ko kam kar do
+  Sand hai Naqa-e-Saleh ka moatbar hona
+  Agar naseeb ho Hujjat ka humsafar hona
+
+  6
+  Sharf ko kam nahi karta hai janwar hona
+  So Zuljinah se munkir yeh soch kar hona
+  Har ik lehaz se tazeem ke yeh qabil hai
+  Keh iss ka khon bhi khak-e-shifa mein shamil hai
+
+  7
+  Hussainiyat ki nazar mein Hussainiyaat alam
+  Nabi ke hath se aaya hai hathoon hath alam
+  Hai nasab chodah sadi se Lab-e-Furat alam
+  Our ab Imam jo laein gay apne sath alam
+
+  8
+  Muqassaron ka kaleja jalaya jaye ga
+  Jab iss ko Kabay ki chat par sajaya jaye ga
+  Har aik gham ka madawa Sagheer ka jhola
+  Hayat bantne wala Sagheer ka jhola
+
+  9
+  Kuch iss liye bhi hai aala Sagheer ka jhola
+  Keh hai Hussain ka jhola Sagheer ka jhola
+  Kiya na rad kabhi koi sawali jholay ne
+  Hazaron jholiyaan bhar di hain khali jholay ne
+
+  10
+  Jahan jahan bhi aza-e-Hussain chalti gayi
+  Wahan wahan ki saqafat mein khud bhi dhalti gayi
+  Kissi ne Karbala manzar kashi se zindah rakhi
+  Kissi ne daf pe azza ki kahin saji mehndi
+
+  11
+  Qabiley ishq ke manzil ki simt chalte rahe
+  Hussain aik raha qafilay badaltay rahe
+  Takallum itna hai aali maqam farsh-e-azza
+  Ja namaz aza-e-Imam farsh-e-azza
+
+  12
+  Ali ki beti ka hai inteqam farsh-e-azza
+  Kiya hai tu ne rasolon ka kam farsh-e-azza
+  Yazidiyat mein zamane simat gaye hotey
+  Na bichta tu tu musallay lipat gaye hotey
 ---
 
-Zamane Walo Adab Se Inhein Salam Karo.
-Tabarrukat-e-Hussaini Ka Ayhteram Karo.
+زمانے والو، ادب سے انہیں سلام کرو
+تبرکاتِ حسینی کا احترام کرو
 
-1
-Yeh Zuljinah Yeh Taboot Yeh Shabeeh-e-Alam.
-Amanatein Hain Yeh Zainab Ki Sab Khuda Ki Qasam.
-Inhein Sanbhal Ke Rakho Na Hone Do Barhum.
-Wagarna Mehdi-e-Doraan Ko Kya Bataein Gay Hum.
+۱
+یہ ذوالجناح، یہ تابوت، یہ شبیہِ علم
+امانتیں ہیں یہ زینب کی سب، خدا کی قسم
+انہیں سنبھال کے رکھو، نہ ہونے دو برہم
+وگرنہ مہدیِ دوراں کو کیا بتائیں گے ہم
 
-2
-Bohat Hi Jald Woh Pardah Uthane Wala Hai.
-Amanatein Hain Yeh Jis Ki Woh Aane Wala Hai.
-Jo Hum Jaloos Mein Taboot Le Ke Aate Hain.
-Zamane Walon Ko Shabirriyat Sikhatay Hain.
+۲
+بہت ہی جلد وہ پردہ اٹھانے والا ہے
+امانتیں ہیں یہ جس کی، وہ آنے والا ہے
+جو ہم جلوس میں تابوت لے کے آتے ہیں
+زمانے والوں کو شبیریت سکھاتے ہیں
 
-3
-Bani Asad Ke Qabiley Ki Had Barhatay Hain.
-Shaheed Imam Ka Taboot Youn Uthatay Hain.
-Jisay Marz Hai Aqeeday Ka Theek Ho Jaye.
-Jo Karbala Mein Nahi Tha Shareek Ho Jaye.
+۳
+بنی اسد کے قبیلے کی حد بڑھاتے ہیں
+شہید امام کا تابوت یوں اٹھاتے ہیں
+جسے مرض ہے عقیدے کا ٹھیک ہو جائے
+جو کربلا میں نہیں تھا شریک ہو جائے
 
-4
-Jo Keh Rahe Hain Tabaruk Ghata Diya Jaye.
-Unhein Hamara Aqeeda Suna Diya Jaye.
-Jo Hai Woh Naam Pe Sheh Ke Luta Diya Jaye.
-Samajh Na Aaye Tu Yeh Mashwara Diya Jaye.
+۴
+جو کہہ رہے ہیں تبرک گھٹا دیا جائے
+انہیں ہمارا عقیدہ سنا دیا جائے
+جو ہے وہ نام پہ شہ کے لٹا دیا جائے
+سمجھ نہ آئے تو یہ مشورہ دیا جائے
 
-5
-Jo Be Jawaz Hain Unn Khuwaishon Ko Kam Kar Do.
-Niyaz Ko Nahi Aasaishon Ko Kam Kar Do.
-Sand Hai Naqa-e-Saleh Ka Moatbar Hona.
-Agar Naseeb Ho Hujjat Ka Humsafar Hona.
+۵
+جو بے جواز ہیں ان خواہشوں کو کم کر دو
+نیاز کو نہیں، آسائشوں کو کم کر دو
+سند ہے ناقۂ صالح کا معتبر ہونا
+اگر نصیب ہو حجت کا ہم سفر ہونا
 
-6
-Sharf Ko Kam Nahi Karta Hai Janwar Hona.
-So Zuljinah Se Munkir Yeh Soch Kar Hona.
-Har Ik Lehaz Se Tazeem Ke Yeh Qabil Hai.
-Keh Iss Ka Khon Bhi Khak-e-Shifa Mein Shamil Hai.
+۶
+شرف کو کم نہیں کرتا ہے جانور ہونا
+سو ذوالجناح سے منکر یہ سوچ کر ہونا
+ہر اک لحاظ سے تعظیم کے یہ قابل ہے
+کہ اس کا خون بھی خاکِ شفا میں شامل ہے
 
-7
-Hussainiyat Ki Nazar Mein Hussainiyaat Alam.
-Nabi Ke Hath Se Aaya Hai Hathoon Hath Alam.
-Hai Nasab Chodah Sadi Se Lab-e-Furat Alam.
-Our Ab Imam Jo Laein Gay Apne Sath Alam.
+۷
+حسینیت کی نظر میں حسینیات علم
+نبی کے ہاتھ سے آیا ہے ہاتھوں ہاتھ علم
+ہے نصب چودہ صدی سے لبِ فرات علم
+اور اب امام جو لائیں گے اپنے ساتھ علم
 
-8
-Muqassaron Ka Kaleja Jalaya Jaye Ga.
-Jab Iss Ko Kabay Ki Chat Par Sajaya Jaye Ga.
-Har Aik Gham Ka Madawa Sagheer Ka Jhola.
-Hayat Bantne Wala Sagheer Ka Jhola.
+۸
+مقصروں کا کلیجہ جلایا جائے گا
+جب اس کو کعبے کی چھت پر سجایا جائے گا
+ہر ایک غم کا مداوا صغیر کا جھولا
+حیات بانٹنے والا صغیر کا جھولا
 
-9
-Kuch Iss Liye Bhi Hai Aala Sagheer Ka Jhola.
-Keh Hai Hussain Ka Jhola Sagheer Ka Jhola.
-Kiya Na Rad Kabhi Koi Sawali Jholay Ne.
-Hazaron Jholiyaan Bhar Di Hain Khali Jholay Ne.
+۹
+کچھ اس لیے بھی ہے اعلیٰ صغیر کا جھولا
+کہ ہے حسین کا جھولا صغیر کا جھولا
+کیا نہ رد کبھی کوئی سوالی جھولے نے
+ہزاروں جھولیاں بھر دی ہیں خالی جھولے نے
 
-10
-Jahan Jahan Bhi Aza-e-Hussain Chalti Gayi.
-Wahan Wahan Ki Saqafat Mein Khud Bhi Dhalti Gayi.
-Kissi Ne Karbala Manzar Kashi Se Zindah Rakhi.
-Kissi Ne Daf Pe Azza Ki Kahin Saji Mehndi.
+۱۰
+جہاں جہاں بھی عزائے حسین چلتی گئی
+وہاں وہاں کی ثقافت میں خود بھی ڈھلتی گئی
+کسی نے کربلا منظر کشی سے زندہ رکھی
+کسی نے دف پہ عزا کی کہیں سجی مہندی
 
-11
-Qabiley Ishq Ke Manzil Ki Simt Chalte Rahe.
-Hussain Aik Raha Qafilay Badaltay Rahe.
- Takallum Itna Hai Aali Maqam Farsh-e-Azza.
-Ja Namaz Aza-e-Imam Farsh-e-Azza.
+۱۱
+قبیلے عشق کے منزل کی سمت چلتے رہے
+حسین ایک رہا، قافلے بدلتے رہے
+تکلمؔ اتنا ہے عالی مقام فرشِ عزا
+جائے نمازِ عزائے امام فرشِ عزا
 
-12
-Ali Ki Beti Ka Hai Inteqam Farsh-e-Azza.
-Kiya Hai Tu Ne Rasolon Ka Kam Farsh-e-Azza.
-Yazidiyat Mein Zamane Simat Gaye Hotey.
-Na Bichta Tu Tu Musallay Lipat Gaye Hotey.
+۱۲
+علی کی بیٹی کا ہے انتقام فرشِ عزا
+کیا ہے تو نے رسولوں کا کام فرشِ عزا
+یزیدیت میں زمانے سمٹ گئے ہوتے
+نہ بچھتا تو تو مصلے لپٹ گئے ہوتے

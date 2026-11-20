@@ -1,47 +1,84 @@
 ---
-title: "Majnu Ne Shehar Chora Tu Sehra Bhi Chor De"
+title: "مجنوں نے شہر چھوڑا تو صحرا بھی چھوڑ دے"
+alternateTitle: "Majnu Ne Shehar Chora Tu Sehra Bhi Chor De"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Iqbal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Majnu ne shehar chora tu sehra bhi chor de
+  Nazare ki hawas ho tu Laila bhi chor de
+  Waiz kamal-e-tark se milti hai yaan murad
+  Dunya jo chor de hai tu uqba bhi chor de
+
+  2
+  Taqleed ki rowish se tu behtar hai khudkushi
+  Rasta bhi dhond Khizar ka soda bhi chor de
+  Manind-e-khama teri zubaan par hai harfe-ghair
+  Begana she pe nazish-e-be ja bhi chor de
+
+  3
+  Lutaf-e-kalam kya jo na ho dill mein dard-e-ishq
+  Bismil nahi hai tu tu tarapna bhi chor de
+  Shabnam ki tarha pholon pe ro our chaman se chal
+  Iss baag mein qiyam ka soda bhi chor de
+
+  4
+  Hai aashiqi mein rasam alag sab se baithna
+  Butkhana bhi harm bhi kalesa bhi chor de
+  Sodagri nahi ye ibadat Khuda ki hai
+  Aye be khabar jaza ki tamana bhi chor de
+
+  5
+  Acha hai dill ke sath rahe pasban-e-aqal
+  Lekin kabhi kabhi isse tanha bhi chor de
+  Jeena wo kya jo ho nafs-e-ghair par muddar
+  Shuhrat ki zindagi ka bharosa bhi chor de
+
+  6
+  Shokhi si hai sawal-e-makarar mein aye Kaleem
+  Shart-e-raza ye hai ke taqaza bhi choor de
+  Waiz saboot laye jo may ke jawaz mein
+  Iqbal ko ye zid hai keh peena bhi chor de
 ---
 
-1
-Majnu Ne Shehar Chora Tu Sehra Bhi Chor De.
-Nazare Ki Hawas Ho Tu Laila Bhi Chor De.
-Waiz Kamal-e-Tark Se Milti Hai Yaan Murad.
-Dunya Jo Chor De hai Tu Uqba Bhi Chor De.
+۱
+مجنوں نے شہر چھوڑا تو صحرا بھی چھوڑ دے
+نظارے کی ہوس ہو تو لیلیٰ بھی چھوڑ دے
+واعظ، کمالِ ترک سے ملتی ہے یاں مراد
+دنیا جو چھوڑ دی ہے تو عقبیٰ بھی چھوڑ دے
 
-2
-Taqleed Ki Rowish Se Tu Behtar Hai Khudkushi.
-Rasta Bhi Dhond Khizar Ka Soda Bhi Chor De.
-Manind-e-Khama Teri Zubaan Par Hai Harfe-Ghair.
-Begana She Pe Nazish-e-Be Ja Bhi Chor De.
+۲
+تقلید کی روش سے تو بہتر ہے خودکشی
+رستہ بھی ڈھونڈ، خضر کا سودا بھی چھوڑ دے
+مانندِ خامہ تری زباں پر ہے حرفِ غیر
+بیگانہ شے پہ نازشِ بے جا بھی چھوڑ دے
 
-3
-Lutaf-e-Kalam Kya Jo Na Ho Dill Mein Dard-e-Ishq.
-Bismil Nahi Hai Tu Tu Tarapna Bhi Chor De.
-Shabnam Ki Tarha Pholon Pe Ro Our Chaman Se Chal.
-Iss Baag Mein Qiyam Ka Soda Bhi Chor De.
+۳
+لطفِ کلام کیا جو نہ ہو دل میں دردِ عشق
+بسمل نہیں ہے تو، تو تڑپنا بھی چھوڑ دے
+شبنم کی طرح پھولوں پہ رو اور چمن سے چل
+اس باغ میں قیام کا سودا بھی چھوڑ دے
 
-4
-Hai Aashiqi Mein Rasam Alag Sab Se Baithna.
-Butkhana Bhi Harm Bhi Kalesa Bhi Chor De.
-Sodagri Nahi Ye Ibadat Khuda Ki Hai.
-Aye Be Khabar Jaza Ki Tamana Bhi Chor De.
+۴
+ہے عاشقی میں رسم الگ سب سے بیٹھنا
+بت خانہ بھی، حرم بھی، کلیسا بھی چھوڑ دے
+سوداگری نہیں، یہ عبادت خدا کی ہے
+اے بے خبر، جزا کی تمنا بھی چھوڑ دے
 
-5
-Acha Hai Dill Ke Sath Rahe Pasban-e-Aqal.
-Lekin Kabhi Kabhi Isse Tanha Bhi Chor De.
-Jeena Wo Kya Jo Ho Nafs-e-Ghair Par Muddar.
-Shuhrat Ki Zindagi Ka Bharosa Bhi Chor De.
+۵
+اچھا ہے دل کے ساتھ رہے پاسبانِ عقل
+لیکن کبھی کبھی اسے تنہا بھی چھوڑ دے
+جینا وہ کیا جو ہو نفسِ غیر پر مدار
+شہرت کی زندگی کا بھروسا بھی چھوڑ دے
 
-6
-Shokhi Si Hai Sawal-e-Makarar Mein Aye Kaleem.
-Shart-e-Raza Ye Hai Ke Taqaza Bhi Choor De.
-Waiz Saboot Laye Jo May Ke Jawaz Mein.
- Iqbal Ko Ye Zid Hai Keh Peena Bhi Chor De.
+۶
+شوخی سی ہے سوالِ مکرر میں اے کلیم
+شرطِ رضا یہ ہے کہ تقاضا بھی چھوڑ دے
+واعظ، ثبوت لائے جو مے کے جواز میں
+اقبال کو یہ ضد ہے کہ پینا بھی چھوڑ دے

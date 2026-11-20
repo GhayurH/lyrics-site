@@ -12,27 +12,27 @@ tags: []
 aliases: ["Ay Rozedaro Aaho Buka"]
 published: true
 romanLyrics: |-
-  Ae rozedaaro aah o buka ke ye roz haiṅ
+  Ae rozedaaroṅ aah o buka ke ye roz haiṅ
   Sadaat par nuzul-e-bala ke ye roz haiṅ
   Sartaaj-e-Ausiya ki aza ke ye roz haiṅ
   Tum se wida-e-Sher-e-Khuda ke ye roz haiṅ
 
   1
-  Zakhmi hua Imam tumhaara namaz meiṅ
-  Zaalim ne rozadaar ko maara namaz meiṅ
+  Zakhmi hua imaam tumhaara namaaz meiṅ
+  Zaalim ne rozedaar ko maara namaaz meiṅ
   Maah-e-mubaarak-e-Ramzaaṅ aur Khuda ka ghar
   Tarka wo nur ka wo Shab-e-Qadr ki sahar
 
   2
   Pesh-e-Khuda wo sajde meiṅ Sher-e-Khuda ka sar
-  Aur haye tegh zulm ki zarbat wo farq par
+  Aur haye tegh-e-zulm ki zarbat wo farq par
   Fawwaare khuṅ ke zakhm-e-jabiṅ se baha kiye
-  Sajde meiṅ aap Rabbi-ul-Aala kaha kiye
+  Sajde meiṅ aap Rabbi-ul-Aalaa kaha kiye
 
   3
   Sar pito mominoṅ sar-e-Haider hua do nim
-  Imaaṅ ke burj ka maah-e-anwar hua do nim
-  Socho to farq Shaah ka kiun kar hua do nim
+  Imaaṅ ke burj ka mah-e-anwar hua do nim
+  Socho to farq Shaah ka kiunkar hua do nim
   Likha hai maghz tak sar-e-athar hua do nim
 
   4
@@ -45,70 +45,70 @@ romanLyrics: |-
   Phenki saroṅ se Zainab o Kulsum ne rida
   Chilla ke bhaaiyoṅ ko pukaari ghazab hua
   Sunte ho Jibrail ne is waqt kya kaha
-  Wo bole pit kar qutl-al-Murtaza kaha
+  Wo bole pit kar qatl-al-Murtaza kaha
 
   6
   Daure ye kehke jaanib-e-masjid wo nek zaat
   Dubi hui lahu meiṅ mili kashti-e-najaat
-  Maathe pa khun baap ka mal kar kahi ye baat
-  Hae hae uthaya qibla o kaaba pa kisne haath
+  Maathe pe khun baap ka mal kar kahi ye baat
+  Haye haye uthaya qibla o kaaba pe kis ne haath
 
   7
-  Rulwaaya Nana jaan ko Daarus Salaam meiṅ
+  Rulwaaya Nana jaan ko Daar-us-Salaam meiṅ
   Bin baap ka kiya hameiṅ maah-e-siyaam meiṅ
   Naagah namaaziyoṅ ka giroh aaya nange sar
   Haider ne Mujtaba se kaha aankheṅ khol kar
 
   8
-  Parhwaao tum namaz jamaat ki ae pisar
+  Parhwaao tum namaaz jamaat ki ae pisar
   Hum baithe baithe parhte haiṅ apne maqaam par
   Lekin jabiṅ ke zakhm pe rumaal baandh do
-  Mera sar hai shigaafta ae laal baandh do
+  Mera sar shigaafta ae laal baandh do
 
   9
   Baandha Hasan ne zakhm-e-sar-e-Shaah-e-Zuljalaal
-  Bole Ali ke aur kaso dard hai kamaal
+  Bole Ali keh aur kaso dard hai kamaal
   Shabbar ne jab kasa to kiya phir wohi maqaal
   Phir chust baandh kar ye pukaara wo khush khisaal
 
   10
   Ab dard kaisa ae Asad-e-Zuljalaal hai
-  Haathoṅ se sar pakar ke kaha ke wohi haal hai
-  Parhwa ke phir namaz jamaat ki Mujtaba
-  Baba ke sar pa parhne lage aaya-e-shifa
+  Haathoṅ se sar pakar ke kaha wohi haal hai
+  Parhwa ke phir namaaz jamaat ki Mujtaba
+  Baba ke sar pe parhne lage aaya-e-shifa
 
   11
   Naagah aan kar kisi aurat ne di nida
-  Zehra ke pyaaro tum se ye Zainab ne hai kaha
+  Zehra ke pyaaroṅ tum se ye Zainab ne hai kaha
   Baba ko mere jald jo ghar meiṅ na laaoge
   To sar barehna mujhko bhi masjid meiṅ paaoge
 
   12
   Bole Ali hawaas abhi se baja nahiṅ
-  Zainab se kehdo Kufa hai ye Karbala nahiṅ
+  Zainab se keh do Kufa hai ye Karbala nahiṅ
   Maiṅ bedayaar o bekas o beaashna nahiṅ
   Shia haiṅ gird nargha-e-ahl-e-jafa nahiṅ
 
   13
   Parde se nange sar tu abhi kiuṅ nikalti hai
   Kya halq par Husain ke talwaar chalti hai
-  Ummul Banin ko paaya jo sadme meiṅ mubtala
+  Umm-ul-Banin ko paaya jo sadme meiṅ mubtala
   Baaheṅ gale meiṅ daal ke Abbas ne kaha
 
   14
   Ae ammaaṅ sadqa dene se rad hoti hai bala
-  Bhai Hasan Husain haiṅ Zehra ke dilruba
+  Bhaai Hasan Husain haiṅ Zehra ke dilruba
   Roshan karo jahaan meiṅ tum apne naam ko
   Sadqa utaaro Shaah-e-Najaf par ghulaam ko
 
   15
   Ye sunke us hiraas meiṅ sambhli wo beqaraar
-  Leke balaaeṅ boli chalo mere gul ezaar
-  Baba pa tum nisaar ho tum par ye maaṅ nisaar
+  Leke balaaeṅ boli chalo mere gulazaar
+  Baba pe tum nisaar ho tum par ye maaṅ nisaar
   Chillaayi barhke majma-e-maatam meiṅ ek baar
 
   16
-  Sayyidaaniyo randape ke gham se panaah do
+  Sayyidaaniyoṅ randaape ke gham se panaah do
   Sadqa utaarne ko maiṅ aayi huṅ raah do
   Bole Ali tu hosh meiṅ ae nauhagar nahiṅ
   Abbas ke waqaar ki tujhko khabar nahiṅ

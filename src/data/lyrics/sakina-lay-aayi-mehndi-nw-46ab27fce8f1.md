@@ -1,31 +1,62 @@
 ---
-title: "Sakina Lay Aayi Mehndi"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "سکینہ لے آئی مہندی"
+alternateTitle: "Sakina Lay Aayi Mehndi"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Baar chawan naal banakay, Sakina lay aayi mehndi
+
+  1
+  Karbal di sar zameen tay, kur laath paye gaye nay
+  Jadon bhen apni kolow, Kubra lawayi mehndi
+
+  2
+  Khaimay ch bibiyan nay, us velay keeta matam
+  Ki shagan main mana wah, aik raat di banri day
+  Ay wayn kar kay dhee nu, jadoun maa nay layi mehndi
+
+  3
+  Fizza da bazoo nabh kay, Zainab keya ay rokay
+  Kal da koyi vassa nay, hasrat raway na baqi
+  Kubra nu tu vee la laye, aj Fizza dayi mendhi
+
+  4
+  Hasrat hay saadi poori, aj ho wayndi payi ay
+  Qasim banega laara, khushiyan manna si bhena
+  Kubra nu laayi kehkay, chachay di jaayi mehndi
+
+  5
+  Farwah deway duawaan, us nu hay jhooli cha kay
+  Aaye Hassan day chan di, lokon shabbi bana kay
+  Qasim day ghum che jis nay, hathan tay chayi mehndi
 ---
 
-Baar Chawan Naal Banakay, Sakina Lay Aayi Mehndi.
+بار چاواں نال بنا کے، سکینہ لے آئی مہندی
 
-Karbal Di Sar Zameen Tay, Kur Laath Paye Gaye Nay
-Jadon Bhen Apni Kolow, Kubra Lawayi Mehndi.
+۱
+کربل دی سرزمین تے، کرلاٹ پئے گئے نیں
+جدوں بھین اپنی کولوں، کبریٰ لوائی مہندی
 
-Khaimay Ch Bibiyan Nay, Us Velay Keeta Matam
-Ki Shagan Main Mana Wah, Aik Raat Di Banri Day
-Ay Wayn Kar Kay Dhee Nu, Jadoun Maa Nay Layi Mehndi.
+۲
+خیمے چ بیبیاں نے، اُس ویلے کیتا ماتم
+کی شگن میں مناواں، اک رات دی بنڑی دے
+اے وین کر کے دھی نوں، جدوں ماں نے لائی مہندی
 
-Fizza Da Bazoo Nabh Kay, Zainab Keya Ay Rokay
-Kal Da Koyi Vassa Nay, Hasrat Raway Na Baqi
-Kubra Nu Tu Vee La Laye, Aj Fizza Dayi Mendhi.
+۳
+فضہ دا بازو نبھ کے، زینب کہیا اے رو کے
+کل دا کوئی وساہ نئیں، حسرت رہوے نہ باقی
+کبریٰ نوں تُو وی لا لے، اج فضہ دئی مہندی
 
-Hasrat Hay Saadi Poori, Aj Ho Wayndi Payi Ay
-Qasim Banega Laara, Khushiyan Manna Si Bhena
-Kubra Nu Laayi Kehkay, Chachay Di Jaayi Mehndi.
+۴
+حسرت ہے ساڈی پوری، اج ہو ویندی پئی اے
+قاسم بنے گا لاڑا، خوشیاں مننا سی بھینا
+کبریٰ نوں لائی کہہ کے، چاچے دی جائی مہندی
 
-Farwah Deway Duawaan, Us Nu Hay Jhooli Cha Kay
-Aaye Hassan Day Chan Di, Lokon Shabbi Bana Kay
-Qasim Day Ghum Che Jis Nay, Hathan Tay Chayi Mehndi.
+۵
+فروہ دیوے دعاواں، اُس نوں ہائے جھولی چا کے
+اے حسن دے چن دی، لوکو شبیہ بنا کے
+قاسم دے غم چے جس نے، ہتھاں تے چائی مہندی

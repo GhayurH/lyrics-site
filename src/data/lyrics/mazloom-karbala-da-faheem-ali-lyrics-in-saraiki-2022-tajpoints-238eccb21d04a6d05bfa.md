@@ -1,56 +1,100 @@
 ---
-title: "Mazloom Karbala Da Faheem Ali Lyrics In Saraiki 2022"
+title: "مظلوم کربلا دا"
+alternateTitle: "Mazloom Karbala Da"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mazloom Karbala da
+
+  1
+  Seene wich zakhm rida da
+  Teraan wich teer lagay poway hin
+  Zakhma wich zakhm dasenday hin
+  Zakhma choon guzar hawa da
+
+  2
+  Ghorey di zeen toon Shah jhanrda
+  Rab janrey kiwein bhainr ditha
+  Ditha khak te badan bhira da
+  Laga pehlu de wich bhala ha
+
+  3
+  Wal teraan aanr sambhala ha
+  Jhanra taj hay innama da
+  Baon was taan ujari laindi rayi
+  Quran de wastay dendi rayi
+
+  4
+  Nahin rukya khanjar jafa da
+  Ru khanjar wich hath paindi rayi
+  Dhi babay koon bachwendi rayi
+  Na dhalya badal qaza da
+
+  5
+  Maqtal wich okhay haal ditthay
+  Qatil de hath wich waal ditthay
+  Kamb jigar gaya hayi maa da
+  Na Shah koon kafan pawaya gaye
+
+  6
+  Chunj naizay te sar chaya gaye
+  Hayi wasi Arsh-e-Olla da
+  Ditha bhainr taan aakhiya veeranr koon
+  Mar bhainr wanji ayein jeewanr taun
+
+  7
+  Na hawein zulm de da da
+  Haider aye ghurbat hay Shah di
+  Poshaak v ummat lutendi rayi
+  Na aaya khof Khuda da
 ---
 
-Mazloom Karbala Da Faheem Ali Lyrics in Saraiki
-Mazloom Karbala Da.
+مظلوم کربلا دا
 
-1
-Seene Wich Zakhm Rida Da.
-Teraan Wich Teer Lagay Poway Hin.
-Zakhma Wich Zakhm Dasenday Hin.
-Zakhma Choon Guzar Hawa Da.
+۱
+سینے وچ زخم ردا دا
+تیراں وچ تیر لگے پووے ہن
+زخماں وچ زخم ݙسیندے ہن
+زخماں چوں گزر ہوا دا
 
-2
-Ghorey Di Zeen Toon Shah Jhanrda.
-Rab Janrey Kiwein Bhainr Ditha.
-Ditha Khak Te Badan Bhira Da.
-Laga Pehlu De Wich Bhala Ha.
+۲
+گھوڑے دی زین توں شاہ جھڑدا
+رب ڄاݨے کیویں بھینڑ ݙٹھا
+ݙٹھا خاک تے بدن بھرا دا
+لگا پہلو دے وچ بھالا ہا
 
-3
-Wal Teraan Aanr Sambhala Ha.
-Jhanra Taj Hay Innama Da.
-Baon Was Taan Ujari Laindi Rayi.
-Quran De Wastay Dendi Rayi.
+۳
+ول تیراں آݨ سنبھالا ہا
+جھڑݨا تاج ہے انعاماں دا
+بہوں وس تاں اجاڑی لیندی رہی
+قرآن دے واسطے ݙیندی رہی
 
-4
-Nahin Rukya Khanjar Jafa Da.
-Ru Khanjar Wich Hath Paindi Rayi.
-Dhi Babay Koon Bachwendi Rayi.
-Na Dhalya Badal Qaza Da.
+۴
+نہیں رکیا خنجر جفا دا
+رو خنجر وچ ہتھ پیندی رہی
+دھی بابے کوں بچویندی رہی
+نہ ڈھلیا بادل قضا دا
 
-5
-Maqtal Wich Okhay Haal Ditthay.
-Qatil De Hath Wich Waal Ditthay.
-Kamb Jigar Gaya Hayi Maa Da.
-Na Shah Koon Kafan Pawaya Gaye.
+۵
+مقتل وچ اوکھے حال ݙٹھے
+قاتل دے ہتھ وچ وال ݙٹھے
+کمب جگر گیا ہئی ماں دا
+نہ شاہ کوں کفن پوایا گئے
 
-6
-Chunj Naizay Te Sar Chaya Gaye.
-Hayi Wasi Arsh-e-Olla Da.
-Ditha Bhainr Taan Aakhiya Veeranr Koon.
-Mar Bhainr Wanji Ayein Jeewanr Taun.
+۶
+چنج نیزے تے سر چایا گئے
+ہئی واسی عرشِ اعلیٰ دا
+ݙٹھا بھینڑ تاں آکھیا ویراݨ کوں
+مر بھینڑ ونجی ایں جیوݨ توں
 
-7
-Na Hawein Zulm De Da Da.
- Haider Aye Ghurbat Hay Shah Di.
-Poshaak V Ummat Lutendi Rayi.
-Na Aaya Khof Khuda Da.
+۷
+نہ ہوویں ظلم دے دا دا
+حیدر اے غربت ہے شاہ دی
+پوشاک وی امت لٹیندی رہی
+نہ آیا خوف خدا دا

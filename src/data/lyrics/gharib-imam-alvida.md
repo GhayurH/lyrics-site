@@ -12,60 +12,60 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haaye Husain alwida haaye Husain alwida
-  Maula Husain alwida aaqa Husain alwida
+  Haaye Husain alwidaa haaye Husain alwidaa
+  Maula Husain alwidaa aaqa Husain alwidaa
 
-  Gharib Imam alwida shahid Imam alwida
+  Gharib Imaam alwidaa shahid Imaam alwidaa
 
   1
   Ye ranj o gham ki baarisheṅ ye khun meiṅ dubi aastiṅ
   Ye beshumaar zakhm aur tumhaara jism-e-naaznin
-  Hai kaun jo samajh sake tumhaare gham ki inteha
+  Hai kaun jo samajh sake tumhaare gham ki intehaa
 
   2
-  Na waqt-e-zibh zaalimoṅ ne aab bund bhar diya
-  Rula rula ke tujh ko dushmanoṅ ne qatl kar diya
+  Na waqt-e-zibh zaalimoṅ ne aab bund bhar diyaa
+  Rula rulaa ke tujh ko dushmanoṅ ne qatl kar diyaa
   Tarap rahe haiṅ Mustafa bilak rahi haiṅ Fatima
 
   3
-  Kahaaṅ aza ki wusateṅ kahaaṅ ye ashk-e-mukhtasar
-  Isi ka Shaah-e-bahr o bar qalaq rahega saal bhar
-  Tumhaare gham meiṅ rone ka hua na hum se haq ada
+  Kahaaṅ azaa ki wusateṅ kahaaṅ ye ashk-e-mukhtasar
+  Isi ka Shaah-e-bahr o bar qalaq rahe ga saal bhar
+  Tumhaare gham meiṅ rone ka hua na hum se haq adaa
 
   4
-  Hamaara ghut raha hai dam hameṅ rula rahe hai kiuṅ
-  Abhi to aap aaye the abhi ye ja rahe hai kiuṅ
-  Hameṅ bataate jaaiye hui hai hum se kya khata
+  Hamaara ghut raha hai dam hameṅ rulaa rahe hai kiuṅ
+  Abhi to aap aaye the abhi ye jaa rahe hai kiuṅ
+  Hameṅ bataate jaaiye hui hai hum se kya khataa
 
   5
   Na aap aise jaaiye na is tarah rulaaiye
-  Jo ja rahe haiṅ aap to ghulaamoṅ ko bataaiye
-  Ye saal bhar ka faasla ghatega kis tarah bhala
+  Jo jaa rahe haiṅ aap to ghulaamoṅ ko bataaiye
+  Ye saal bhar ka faasla ghate ga kis tarah bhalaa
 
   6
   Tarap rahi hai aurateṅ bilak rahi haiṅ bachchiyaaṅ
   Sawaal kar rahi hai hum se Hind ki udaasiyaaṅ
-  Thi jis ke dam se raunaqeṅ wo ab kahaaṅ chala gaya
+  Thi jis ke dam se raunaqeṅ wo ab kahaaṅ chalaa gayaa
 
   7
-  Kahaaṅ ye gham ki baarisheṅ kahaaṅ aza ki raunaqeṅ
-  Kahaaṅ nasib hoṅgi saal bhar wafa ki raunaqeṅ
-  Alam jo hum uthaayeṅge lagega ghar luta luta
+  Kahaaṅ ye gham ki baarisheṅ kahaaṅ azaa ki raunaqeṅ
+  Kahaaṅ nasib hoṅgi saal bhar wafaa ki raunaqeṅ
+  Alam jo hum uthaayeṅge lage ga ghar lutaa lutaa
 
   8
-  Khata jo ho gayi ho kuchh to us ko bakhsh dijiye
-  Gunaah gaar hai bahut hameṅ muaaf kijiye
+  Khataa jo ho gayi ho kuchh to us ko bakhsh dijiye
+  Gunaahgaar hai bahut hameṅ muaaf kijiye
   Qasam hai aap ko Janaab-e-Hur ki Shaah-e-Karbala
 
   9
   Jo hoga beqaraar dil to farsh-e-gham bichhaayeṅge
-  Mere Imam aap ko hum apne ghar bulaayeṅge
-  Zarur aaiyega aap ko aza ka waasta
+  Mere Imaam aap ko hum apne ghar bulaayeṅge
+  Zarur aaiye ga aap ko azaa ka waasta
 
   10
   Karim ho karam karo qasam hai tum ko Shaah-e-diṅ
   Bilal Kazmi tumhaara ho ke Aamir-e-haziṅ
-  Ye donoṅ beqaraar hai bula lo jald Karbala
+  Ye donoṅ beqaraar hai bulaa lo jald Karbala
 ---
 
 ہائے حسین الوداع ہائے حسین الوداع

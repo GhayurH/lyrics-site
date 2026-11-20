@@ -1,7 +1,7 @@
 ---
 title: "اب سکینہ میں دم کہاں اماں"
 recitationId: "ab-sakina-may-dam"
-alternateTitle: "Ab Sakina Meiṅ Dam"
+alternateTitle: "Ab Sakina Mein Dam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,71 +12,71 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ab Sakina meiṅ dam kahaaṅ Amma
-  Ab to khulwao resmaṅ Amma
+  Ab Sakina mein dam kahaaṅ Ammaaṅ
+  Ab to khulwao resmaaṅ Ammaaṅ
 
   1
   Kam ye zindaaṅ nahiṅ hai turbat se
   Maut behtar hai aisi dahshat se
   Dam ghuta ja raha hai wahshat se
   Shama bhi to nahiṅ hai qismat se
-  Kaisa taarik hai makaaṅ Amma
+  Kaisa taarik hai makaaṅ Ammaaṅ
 
   2
   Kaan zakhmi kiye liye lo lo
   Aur phir is pe zulm hai ke na ro
   Ye ghazab bhi ajib hai dekho
-  Maiṅ jo roti huṅ apne Baba ko
-  Shimr deta hai ghurkiyaṅ Amma
+  Main jo roti huṅ apne Baba ko
+  Shimr deta hai ghurkiyaaṅ Ammaaṅ
 
   3
-  Log dete haiṅ kya yuṅhi pursa
-  Dono rukhsar mere dekhiyega
+  Log dete haiṅ kya yunhi pursa
+  Donoṅ rukhsaar mere dekhiye ga
   Dega kitni yatim ko iza
-  Puchhiye Shimr se bara-e-Khuda
-  Kitne khauṅ maiṅ siliyaṅ Amma
+  Puchhiye Shimr se baraa-e-Khuda
+  Kitne khauṅ main siliyaaṅ Ammaaṅ
 
   4
-  Kis meiṅ halat hai maar khane ki
+  Kis mein haalat hai maar khane ki
   Koi surat karo bachane ki
-  Kya maiṅ qabil huṅ taziyane ki
+  Kya main qaabil huṅ taaziyaane ki
   Shimr ki phir khabar hai aane ki
-  Ruk rahi hai meri zabaṅ Amma
+  Ruk rahi hai meri zabaaṅ Ammaaṅ
 
   5
-  Kis qadar hai shaqi ke dil meiṅ kad
+  Kis qadar hai shaqi ke dil mein kad
   Maarta hai jo dam ba dam murtad
   Ho chuki ho chuki sitam ki had
   Mere marne ke baad hi shayad
-  Shimr kholega resmaṅ Amma
+  Shimr kholega resmaaṅ Ammaaṅ
 
   6
-  Wa Husaina ka haye woh nala
-  Haye sone mujhe nahi deta
-  Qaidkhane ke paas hi hai goya
+  Wa Husaina ka haye woh naala
+  Haye sone mujhe nahiṅ deta
+  Qaid khaane ke paas hi hai goya
   Subh tak naam le ke Baba ka
-  Aa ke roti hai Dadi Jaaṅ Amma
+  Aa ke roti hai Dadi Jaaṅ Ammaaṅ
 
   7
-  Chahne wale hi na hoṅ jis ke
-  Qaidkhane meiṅ kiuṅ na woh roe
+  Chahne wale hi na ho jis ke
+  Qaid khaane mein kiuṅ na woh roe
   Woh juda hum se hum juda un se
-  Karbala meiṅ haiṅ Karbala wale
-  Kya kareṅ reh ke hum yahaaṅ Amma
+  Karbala mein haiṅ Karbala wale
+  Kya kareṅ reh ke hum yahaaṅ Ammaaṅ
 
   8
   Baba le jaane aa gaye lijiye
-  Mujhko ab qiblaru lita dijiye
+  Mujhko ab qibla ru lita dijiye
   Itni taklif aur bhi kijiye
   Parhne Yasin un se keh dijiye
-  Ghash meiṅ uthe jo Bhai Jaaṅ Amma
+  Ghash mein uthe jo Bhai Jaaṅ Ammaaṅ
 
   9
   Li jo bachchi ne maut ki hichki
   Ya Ali keh ke ghash hui maaṅ bhi
   Aa ke sab jama ho gaye qaidi
-  Keh ke nadan ye mar gayi Hilmi
-  Ab to khulwao resmaṅ Amma
+  Keh ke naadaan mar gayi Hilmi
+  Ab to khulwao resmaaṅ Ammaaṅ
 ---
 اب سکینہ میں دم کہاں اماں
 اب تو کھلواؤ ریسماں اماں

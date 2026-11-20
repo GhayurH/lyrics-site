@@ -12,11 +12,11 @@ tags: []
 aliases: ["Ay Meri Laadli"]
 published: true
 romanLyrics: |-
-  Barhne lage jab Shaam-e-Gharibaaṅ ke andhere
+  Barhne lage jab shaam-e-gharibaaṅ ke andhere
   Zainab ne kisi shakhs ko aate hue dekha
 
   1
-  Tum kaun ho jab saani-e-Zehra ne ye pucha
+  Tum kaun ho jab saani-e-Zehra ne ye puchha
   Chehre se naqaab apne uthaa kar wo pukaara
   Ke aaya hai Najaf chhor ke beti tera baba
   Ae meri laadli Zainab
@@ -37,7 +37,7 @@ romanLyrics: |-
   Tu ro le alamdaar ko maiṅ deta huṅ pehra
 
   5
-  Bacchoṅ ko ghulaamoṅ ke baraabar hi samajh le
+  Bachchoṅ ko ghulaamoṅ ke baraabar hi samajh le
   Bete na samajh khaadim-e-Akbar hi samajh le
   Kar Aun o Muhammad pe bhi kuch der to girya
 

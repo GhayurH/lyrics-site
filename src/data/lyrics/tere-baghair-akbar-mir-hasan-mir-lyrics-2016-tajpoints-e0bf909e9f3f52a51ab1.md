@@ -1,36 +1,62 @@
 ---
-title: "Tere Baghair Akbar Mir Hasan Mir Lyrics 2016"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "تیرے بغیر اکبر"
+alternateTitle: "Tere Baghair Akbar"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghariyaan na langdiyaan ne tere baghair Akbar
+  Lagda aye veer mainu babal da sunja aye ghar
+  Jairay nishan veran pairaan de tu banaye
+  Deni aan othay bosay jad teri yad aye
+  Apne khaiyalaan wich main chumni aan veer da sar
+  Tainu toor ke te veran hoya aye hal mera
+  Likhni aan naam Akbar paishani naal tera
+  Khat ban gaye aye ne ghar de kandaan de sare pathar
+  Ik khuwab aisa takiya mainu veer sohna bhuliya
+  Rab jane babay munh te aye kis da khon maliya
+  Ronda paiya aye baba hasda paiya aye Asghar
+  Chan veer ho nahi sakda jo khuwab wekhiya aye
+  Mangni payi aan duwaan chache di khair howay
+  Naizay te wekhi aye main Zainab phophi di chadar
+  Na Sham shehar gayi aan na wekhe main bazaar aye
+  Mainu tera wichora Akbar giya aye maar aye
+  Rul gayi aan tere bajoon chali gharaan de andar
+  Japdi aye bhain teri har pasay naam tera
+  Kakhoaan tu puchdi payi aye kadoon walna aye veer mera
+  Bemar mar na jaway dukh tere veer jar jar
+  Akbar aye Karbala wich qasad ne wain kita
+  Kinu khat sunawaan bibi Akbar riya na zinda
+  Tehreer rakh chadi aye main lash de barabar
 ---
 
-1
-Ghariyaan Na Langdiyaan Ne Tere Baghair Akbar.
-Lagda Aye Veer Mainu Babal Da Sunja Aye Ghar.
-Jairay Nishan Veran Pairaan De Tu Banaye.
-Deni Aan Othay Bosay Jad Teri Yad Aye.
-Apne Khaiyalaan Wich Main Chumni Aan Veer Da Sar.
-Tainu Toor Ke Te Veran Hoya Aye Hal Mera.
-Likhni Aan Naam Akbar Paishani Naal Tera.
-Khat Ban Gaye Aye Ne Ghar De Kandaan De Sare Pathar.
-Ik Khuwab Aisa Takiya Mainu Veer Sohna Bhuliya.
-Rab Jane Babay Munh Te Aye Kis Da Khon Maliya.
-Ronda Paiya Aye Baba Hasda Paiya Aye Asghar.
-Chan Veer Ho Nahi Sakda Jo Khuwab Wekhiya Aye.
-Mangni Payi Aan Duwaan Chache Di Khair Howay.
-Naizay Te Wekhi Aye Main Zainab Phophi Di Chadar.
-Na Sham Shehar Gayi Aan Na Wekhe Main Bazaar Aye.
-Mainu Tera Wichora Akbar Giya Aye Maar Aye.
-Rul Gayi Aan Tere Bajoon Chali Gharaan De Andar.
-Japdi Aye Bhain Teri Har Pasay Naam Tera.
-Kakhoaan Tu Puchdi Payi Aye Kadoon Walna Aye Veer Mera.
-Bemar Mar Na Jaway Dukh Tere Veer Jar Jar.
- Akbar Aye Karbala Wich Qasad Ne Wain Kita.
-Kinu Khat Sunawaan Bibi Akbar Riya Na Zinda.
-Tehreer Rakh Chadi Aye Main Lash De Barabar.
+۱
+گھڑیاں نہ لنگدیاں نے تیرے بغیر اکبر
+لگدا اے ویر مینوں بابل دا سُنجا اے گھر
+جیڑے نشان، ویراں، پیراں دے تُو بنائے
+دینی آں اوتھے بوسے جد تیری یاد آئے
+اپنے خیالاں وچ میں چُمّنی آں ویر دا سر
+تینوں تور کے تے ویران ہویا اے حال میرا
+لکھنی آں نام اکبر پیشانی نال تیرا
+خط بن گئے اے نے گھر دے کندھاں دے سارے پتھر
+اک خواب ایسا تکیا مینوں ویر سوہنا بھلیا
+رب جانے بابے منہ تے اے کس دا خون ملیا
+روندا پیا اے بابا ہسدا پیا اے اصغر
+چن ویر ہو نہیں سکدا جو خواب ویکھیا اے
+منگنی پئی آں دعواں چاچے دی خیر ہووے
+نیزے تے ویکھی اے میں زینب پھوپھی دی چادر
+نہ شام شہر گئی آں نہ ویکھے میں بازار اے
+مینوں تیرا وچھوڑا اکبر گیا اے مار اے
+رُل گئی آں تیرے باجوں جھلّی گھراں دے اندر
+جپدی اے بھین تیری ہر پاسے نام تیرا
+ککھواں توں پچھدی پئی اے کدوں ولنا اے ویر میرا
+بیمار مر نہ جاوے دکھ تیرے ویر جر جر
+اکبر اے کربلا وچ قاصد نے وین کیتا
+کینوں خط سناواں بی بی اکبر ریا نہ زندہ
+تحریر رکھ چھڈی اے میں لاش دے برابر

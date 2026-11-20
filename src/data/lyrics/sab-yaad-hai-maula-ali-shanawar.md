@@ -9,199 +9,96 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Sab Yaad Hai Maula Ali Shanawar"
-romanLyrics: 'Sab Yaad Hai Maula Ali Shanawar Lyrics
-
-  Jari Hai Sadiyon Se Safar Karb-o-Bala Ka.
-
-  Karwaan Chalta Hi Raha Ahl-e-Azza Ka.
-
-  Jaisay Kabhi Maula Ne Hum Ko Na Bhulaya.
-
+romanLyrics: |-
+  Jaari hai sadiyoṅ se safar Karb o Bala ka
+  Karwaaṅ chalta hi raha ahl-e-aza ka
+  Jaise kabhi Maula ne hum ko na bhulaaya
+  Hum ne bhi wallah na Maula ko bhulaaya
 
   1
-
-  Hum Ne Bhi Wallah Na Maula Ko Bhulaya.
-
-  Sab Yaad Hai Maula, Sab Yaad Hai Maula.
-
-  Haan Yaad Hai Maula, Sab Yaad Hai Maula.
-
-  Woh Tera Sar Na Jhokana Apne Waday Ko Nibhana.
-
+  Sab yaad hai Maula, sab yaad hai Maula
+  Haaṅ yaad hai Maula, sab yaad hai Maula
+  Woh tera sar na jhukaana, apne waade ko nibhaana
+  Tum ko bhula na zamaana, Maula Maula
 
   2
-
-  Tum Ko Bhola Na Zamana, Maula Maula.
-
-  Ya Hussain Hussain Hussain, Ya Hussain Hussain Hussain.
-
-  Kaisay Hussain Aap Ki Hum Shan Bataein.
-
-  Kaisay Woh Alfaz Bhala Dhond Ke Laein.
-
+  Ya Husain Husain Husain
+  Kaise Husain aap ki hum shaan bataaeṅ
+  Kaise woh alfaaz bhala dhund ke laaeṅ
+  Kitna hai bechain yeh dil kaise bataaeṅ
 
   3
-
-  Kitna Hai Be Chain Yeh Dil Kaisay Bataein.
-
-  Kash Yeh Dil Khol Ke Hum Tum Ko Dikhaein.
-
-  Tum Ko Hum Ne Na Bhulaya Gham Yeh Bachpan Se Manaya.
-
-  Our Sab Ko Hai Sonaya, Maula Maula.
-
+  Kaash yeh dil khol ke hum tum ko dikhaaeṅ
+  Tum ko hum ne bhulaaya
+  Gham yeh bachpan se manaaya
+  Aur sab ko hai sunaaya, Maula Maula
 
   4
-
-  Haa yaad hai maula sab yaad hai maula
-
-  Na bhoole thay na bhoolenge
-
-  Ye gham tera hussain
-
+  Na bhule the na bhuleṅge
+  Yeh gham tera Husain
 
   5
-
-  Wallah rahega ye sada yaad ya hussain
-
-  Ya hussain hussain hussain
-
-  Karbobala aata hai ab saara zamana
-
-  Kaise bani kisne kiya is ko mualla
-
+  Wallah rahega yeh sada yaad ya Husain
+  Karb o Bala aata hai ab saara zamaana
+  Kaise bani kis ne kiya is ko mualla
 
   6
-
-  Karb-o-Bala Aata Hai Ab Sara Zamana.
-
-  Kaisay Bani Kis Ne Kiya Iss Ko Mualla.
-
-  Kis Ki Hai Jageer Yahan Kaun Hai Rehta.
-
-  Kaun Hai Iss Saltanat-e-Noor Ka Maula.
-
+  Kis ki hai jaagir yahaaṅ kaun hai rehta
+  Kaun hai is saltanat-e-nur ka Maula
+  Woh Husain Ibn-e-Ali hai woh nawaasa-e-Nabi hai
+  Karbala jis se saji hai, Maula Maula
 
   7
-
-  Woh Hussain Ibn-e-Ali Hai Woh Nawasa e Nabi Hai.
-
-  Karbala Jis Se Saji Hai, Maula Maula.
-
-  Maula Hussain Aap Se Kya Kya Nahi Seekha.
-
-  Kya Hai Behan Bhai Ka Maa Baap Ka Rishta.
-
+  Maula Husain aap se kya kya nahiṅ sikha
+  Kya hai behan bhaai ka maaṅ baap ka rishta
+  Kaisi hi aulaad yahaaṅ dost ho kaisa
 
   8
-
-  Kaisi Ho Aoulad Yahan Gausht Ho Kaisa.
-
-  Hum Ko Yeh Sab Karb-o-Bala Mein Nazar Aaya.
-
-  Kahin Ghazi Sa Baradar Kahin Beta Ali Akbar.
-
-  Kahin Zainab Si Woh Khwahir, Maula Maula.
-
+  Hum ko yeh sab Karb o Bala mein nazar aaya
+  Kahiṅ Ghazi sa baraadar kahiṅ beta Ali Akbar
+  Kahiṅ Zainab si woh khwaahar, Maula Maula
 
   9
-
-  Pehli Dafa Karb-o-Bala Jab Main Gaya Tha.
-
-  Charon Taraf Mere Tha Janat Ka Nazara.
-
-  Mera Tu Har Lamha Ibadat Mein Hi Guzra.
-
-  Jagna Din Raat Azadaron Mein Rehna.
-
+  Pehli dafa Karb o Bala jab main gaya tha
+  Chaaroṅ taraf mere tha jannat ka nazaara
+  Mera to har lamha ibaadat mein hi guzra
 
   10
-
-  Jaagna din raat azadaron mein rehna
-
-  Kabhi is rauze pe jaana kabhi us rauze pe jaana
-
-  Farsh maatam ka bichana maula maula
-
+  Jaagna din raat azaadaaroṅ mein rehna
+  Kabhi is rauze pe jaana, kabhi us rauze pe jaana
+  Farsh-e-maatam ka bichhaana, Maula Maula
 
   11
-
-  Kaalae kapde hai pehente farshe matam hai bichate
-
-  Aap ka gham hai manaate maula maula
-
+  Aaj bhi hum aise Muharram haiṅ manaate
+  Apne gharoṅ mein haiṅ azaakhaane sajaate
+  Saare azaadaar sabileṅ haiṅ lagaate
+  Naam pe Maula ke tabarruk haiṅ khilaate
 
   12
-
-  Kabhi Iss Rozay Pe Jana Kabhi Oss Rozay Pe Jana.
-
-  Farsh Matam Ka Bichana, Maula Maula.
-
-  Aaj Bhi Hum Aisay Muharram Hain Manatay.
-
-  Apne Gharon Mein Hain Azakhaney Sajatay.
-
+  Kaale kapre haiṅ pehente, farsh-e-maatam haiṅ bujhaate
+  Aap ka gham haiṅ manaate, Maula Maula
 
   13
-
-  Sare Azadar Sabeelein Hain Lagatay.
-
-  Naam Pe Maula Ke Tabaruk Hain Khilatay.
-
-  Kalay Kharey Hain Pehantay Farsh-e-Matam Hain Bichatay.
-
-  Aap Ka Gham Hain Manatay, Maula Maula.
-
+  Jab bhi alam dekha alamdaar-e-wafa ka
+  Yaad hameṅ aaya woh mashkiza woh darya
+  Laut ke jab aaya na saqa-e-Sakina
+  Lut gaye saadaat sitam kya nahiṅ dekha
 
   14
-
-  Jab Bhi Alam Dekha Alamdar-e-Wafa Ka.
-
-  Yaad Humein Aaya Woh Mashkeza Woh Darya.
-
-  Laut Ke Jab Aaya Na Saqa-e-Sakina.
-
-  Lut Gaye Sadaat Sitam Kya Nahi Dekha.
-
+  Kabhi bazaaroṅ mein jaana, kabhi darbaaroṅ mein jaana
+  Kabhi zindaan nibhaana, Maula Maula
 
   15
-
-  Kabhi bazaar mein jaana kabhi darbar mein jaana
-
-  Kabhi zindan nibhana maula maula
-
+  Kal to the aashur mein tanha mere Maula
 
   16
-
-  Wo tera sar na jhukana apne waade ko nibhana
-
-  Tum ko bhoola na zamana maula maula
-
-  Ya hussain hussain hussain
-
-  Kal to thay ashoor mein tanha mere maula
-
+  Aaj hai saath aap ke yeh saara zamaana
+  Aap ko har nasl ne har qaum ne maana
+  Hota hai har mulk mein labbaik Husaina
+  Ab to har dil ka hai naara ab to har ghar hai tumhaara
 
   17
-
-  Kabhi Bazar Mein Jana Kabhi Darbar Mein Jana.
-
-  Kabhi Zindan Nibhana, Maula Maula.
-
-  Kal Tu They Ashor Mein Tanha Mere Maula.
-
-  Aaj Hain Sath Aap Ke Yeh Sara Zamana.
-
-
-  18
-
-  Aap Ko Har Nasal Ne Har Qaum Ne Mana.
-
-  Hota Hai Har Mulk Mein Labaik Hussaina.
-
-  Ab Tu Har Dil Ka Hai Narah Ab Tu Har Ghar Hai Tumhara.
-
-  Sara Aalam Yeh Pokara, Maula Maula.'
+  Saara aalam yeh pukaara, Maula Maula
 ---
 
 جاری ہے صدیوں سے سفر کربوبلا کا

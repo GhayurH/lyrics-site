@@ -12,36 +12,36 @@ aliases: []
 published: true
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Akbar ka lahu Sheh ki aba tak pahunch gaya
-  Dastar se wo maaṅ ki rida tak pahunch gaya
+  Akbar ka lahu Sheh ki abaa tak pahunch gaya
+  Dastaar se wo maaṅ ki ridaa tak pahunch gaya
 
   1
-  Aise giri hai khaime meiṅ Akbar ki laash par
-  Zainab ka khun khaak-e-shifa tak pahunch gaya
+  Aise giri hai khaime mein Akbar ki laash par
+  Zainab ka khun khaak-e-shifaa tak pahunch gaya
 
   2
-  Laila ye ro ke kehti thi Akbar kahaṅ ho tum
-  Zalim ka haath meri rida tak pahunch gaya
+  Lailaa ye ro ke kehti thi Akbar kahaaṅ ho tum
+  Zaalim ka haath meri ridaa tak pahunch gaya
 
   3
-  Awaaz ran se aai ke Baba maiṅ gir para
-  Girta hua Husain sada tak pahunch gaya
+  Aawaaz ran se aai ke Baabaa main gir paraa
+  Girtaa huaa Husain sadaa tak pahunch gaya
 
   4
-  Sine meiṅ neza tor ke kehta tha ye laiṅ
-  Dekho Husain apni qaza tak pahunch gaya
+  Sine mein neza tor ke kehtaa thaa ye laiṅ
+  Dekho Husain apni qazaa tak pahunch gaya
 
   5
-  Maula zaif ho gaya kuchh der meiṅ magar
-  Akbar ka lasha Aal-e-Aba tak pahunch gaya
+  Maulaa zaif ho gaya kuchh der mein magar
+  Akbar ka laasha Aal-e-Abaa tak pahunch gaya
 
   6
-  Jis haath ne giraya tha hamshakl-e-Mustafa
-  Neza liye wo haath rida tak pahunch gaya
+  Jis haath ne giraayaa thaa hamshakl-e-Mustafaa
+  Neza liye wo haath ridaa tak pahunch gaya
 
   7
-  Barchhi gari hui thi to qasid bhi aa gaya
-  Sughra ka intezar qaza tak pahunch gaya
+  Barchhi gari hui thi to qaasid bhi aa gaya
+  Sughraa ka intezaar qazaa tak pahunch gaya
 ---
 اکبر کا لہو شہ کی عبا تک پہنچ گیا
 دستار سے وہ ماں کی ردا تک پہنچ گیا

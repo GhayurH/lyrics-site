@@ -1,30 +1,50 @@
 ---
-title: "Door E Mehdi Mein Bataon Tumhein Kya Lyrics 2016"
+title: "دورِ مہدی میں بتاؤں تمہیں کیا"
+alternateTitle: "Door-e-Mehdi Mein Bataon Tumhein Kya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hum jise keh dein gaye wo murda bhi zinda ho ga
+  Bar sar-e-khum jo Muhammad ne kaha tha ho ga
+  Aik din dahar mein bas Mula hi Mula ho ga
+  Sang our khasht ka ik dhair hai ab tak wo makaan
+  Aap ke qadmo se mas ho ga tu Kaba ho ga
+  Jab kabhi un ki imamat mein adda ho gi namaz
+  Naam ka sajda bhi mafhoom ka sajda ho ga
+  Syeda aap ke faqoon ka qaseeda ban kar
+  Sora-e-Dahar ki qeemat mein izafa ho ga
+  Ikhteyar itna atta ho ga keh qismat ki jaga
+  Mere hatho mein mere hath ka likha ho ga
+  Qad mein jo parcham-e-Ghazi ke barabar aaye
+  Koi gunbad koi minar no aisa ho ga
+  Inteqam-e-Ali Akbar ki qasam aye Akbar
+  Gunbad-e-sabz pe bhi surkh pharaira ho ga
+  Zikar-e-Mula ka ye ijaz haseen hai Akbar
+  Hum nahi hoon gaye magar naam hamara ho ga
 ---
 
-1
-Hum Jise Keh Dein Gaye Wo Murda Bhi Zinda Ho Ga.
-Bar Sar-e-Khum Jo Muhammad Ne Kaha Tha Ho Ga.
-Aik Din Dahar Mein Bas Mula Hi Mula Ho Ga.
-Sang Our Khasht Ka Ik Dhair Hai Ab Tak Wo Makaan.
-Aap Ke Qadmo Se Mas Ho Ga Tu Kaba Ho Ga.
-Jab Kabhi Un Ki Imamat Mein Adda Ho Gi Namaz.
-Naam Ka Sajda Bhi Mafhoom Ka Sajda Ho Ga.
-Syeda Aap Ke Faqoon Ka Qaseeda Ban Kar.
-Sora-e-Dahar Ki Qeemat Mein Izafa Ho Ga.
-Ikhteyar Itna Atta Ho Ga Keh Qismat Ki Jaga.
-Mere Hatho Mein Mere Hath Ka Likha Ho Ga.
-Qad Mein Jo Parcham-e-Ghazi Ke Barabar Aaye.
-Koi Gunbad Koi Minar No Aisa Ho Ga.
-Inteqam-e-Ali Akbar Ki Qasam Aye Akbar.
-Gunbad-e-Sabz Pe Bhi Surkh Pharaira Ho Ga.
-Zikar-e-Mula Ka Ye Ijaz Haseen Hai Akbar.
-Hum Nahi Hoon Gaye Magar Naam Hamara Ho Ga.
+۱
+ہم جسے کہہ دیں گے وہ مردہ بھی زندہ ہو گا
+بر سرِ خم جو محمد نے کہا تھا ہو گا
+ایک دن دہر میں بس مولا ہی مولا ہو گا
+سنگ اور خشت کا اک ڈھیر ہے اب تک وہ مکان
+آپ کے قدموں سے مس ہو گا تو کعبہ ہو گا
+جب کبھی ان کی امامت میں ادا ہو گی نماز
+نام کا سجدہ بھی مفہوم کا سجدہ ہو گا
+سیدہ آپ کے فاقوں کا قصیدہ بن کر
+سورۂ دہر کی قیمت میں اضافہ ہو گا
+اختیار اتنا عطا ہو گا کہ قسمت کی جگہ
+میرے ہاتھوں میں میرے ہاتھ کا لکھا ہو گا
+قد میں جو پرچمِ غازی کے برابر آئے
+کوئی گنبد کوئی مینارِ نو ایسا ہو گا
+انتقامِ علی اکبر کی قسم اے اکبر
+گنبدِ سبز پہ بھی سرخ پھریرا ہو گا
+ذکرِ مولا کا یہ اعجاز حسین ہے اکبر
+ہم نہیں ہوں گے مگر نام ہمارا ہو گا

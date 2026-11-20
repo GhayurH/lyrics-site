@@ -1,6 +1,6 @@
 ---
 title: "آبلے ہیں پاؤں میں سجاد چل سکتا نہیں"
-alternateTitle: "Aablay Hain Paon Mein Sajjad Chal Sakta Nahi"
+alternateTitle: "Aable Haiṅ Paaoṅ Mein Sajjad Chal Sakta Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aablay hain paon mein Sajjad chal sakta nahi
-  Taziyana marne walon ne yeh socha nahi
-  Tauq pehnao na iss ko beriyaan pehnao tum
-  Qaid hai Zainab tu Abid ab kahin jata nahi
-  Be-Kafan lashon ko khamoshi ne jane kya kaha
-  Karbala ke bad Abid Sham tak bola nahi
+  Aable haiṅ paaoṅ mein Sajjad chal sakta nahiṅ
+  Taaziyaana maarne waaloṅ ne yeh socha nahiṅ
+  Tauq pehnaao na is ko beriyaaṅ pehnaao tum
+  Qaid hai Zainab to Abid ab kahiṅ jaata nahiṅ
+  Be kafan laashoṅ ko khaamoshi ne jaane kya kaha
+  Karbala ke baad Abid Shaam tak bola nahiṅ
 
   2
-  Kan hain zakhmi tu rukh par hain tamachon ke nishaan
-  Iss ke sar par ab yaqeenan baap ka saya nahi
-  Zulm ki shidat hai shayad jam giya sara lahu
-  Lakh zakhmi ho Sakina par laho behta nahi
-  Raste par mehmaloon se maon ki aagosh se
-  Gir gaye bache laein ne qafila roka nahi
+  Kaan haiṅ zakhmi to rukh par haiṅ tamaanchoṅ ke nishaan
+  Is ke sar par ab yaqinan baap ka saaya nahiṅ
+  Zulm ki shiddat hai shaayad jam gaya saara lahu
+  Laakh zakhmi ho Sakina par lahu behta nahiṅ
+  Raaste par mahmaloṅ se maaoṅ ki aaghosh se
+  Gir gaye bachche laeen ne qaafila roka nahiṅ
 
   3
-  Loot kar laya hai jab se Shimar Zainab ki rida
-  Aik pal Abbas ka naize pe sar rukta nahi
-  Har kissi se keh raha hai main Nabi ki aal hoon
-  Haye ghurbat koi bhi Sajjad ki sunta nahi
-  Aankh mein utra nahi Akbar abhi bazar-e-Sham
-  Ashk behte hain meri aankhon se khoon behta nahi
+  Lut kar laaya hai jab se Shimar Zainab ki rida
+  Ek pal Abbas ka neze pe sar rukta nahiṅ
+  Har kisi se keh raha hai main Nabi ki aal huṅ
+  Haaye ghurbat koi bhi Sajjad ki sunta nahiṅ
+  Aankh mein utra nahiṅ Akbar abhi baazaar-e-Shaam
+  Ashk behte haiṅ miri aankhoṅ se khun behta nahiṅ
 ---
 
 ۱

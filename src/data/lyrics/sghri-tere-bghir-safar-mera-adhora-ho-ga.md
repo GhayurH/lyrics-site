@@ -9,23 +9,23 @@ aliases: []
 published: false
 romanLyrics: |-
   Sughra tere baghair safar mera adhura ho ga
-  Veeran ghar may kaise, ab tera guzara ho ga
+  Viraan ghar mein kaise, ab tera guzaara ho ga
 
   1
-  Bimar behan ho to chora nahi jata
-  Sab log ja rahe haiṅ, Kia mera sahara ho ga
+  Bimaar behan ho to chhora nahiṅ jaata
+  Sab log ja rahe haiṅ, kya mera sahaara ho ga
 
   2
-  Gar Karbala may tujh ko may na bula saka
-  Shadi ka khab wallah, Akbar ka na pura ho ga
+  Gar Karbala mein tujh ko main na bula saka
+  Shaadi ka khwaab wallaah, Akbar ka na pura ho ga
 
   3
-  Kayi bar bibi Sughra mehmal pe charhi ho gi
-  Kayi bar rote rote, Akbar ne utara ho ga
+  Kai baar Bibi Sughra mehmal pe charhi ho gi
+  Kai baar rote rote, Akbar ne utaara ho ga
 
   4
-  Nashad baara chowda Masum ne kaha
-  Jannat may rone walo, ghar aadha tumhara ho ga
+  Naashaad baarah chaudah maasum ne kaha
+  Jannat mein rone waalo, ghar aadha tumhaara ho ga
 ---
 
 صغریٰؑ تیرے بغیر سفر میرا ادھورا ہو گا

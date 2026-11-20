@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Ae shahido ae Haider ke pyaro tum ko Zahra dua de rahi haiṅ
-  Ae nadar ae bahaadur jiyaalo tum ko Zahra dua de rahi haiṅ
+  Ae naadir ae bahaadur jiyaalo tum ko Zahra dua de rahi haiṅ
 
   2
   Pi ke jaam-e-Wilaayat Ali se pahunche jaam-e-Shahaadat talak tum
@@ -37,7 +37,7 @@ romanLyrics: |-
   Ae Quran-e-Shahaadat ke paaro tum ko Zahra dua de rahi haiṅ
 
   7
-  Tum se qaayam rahe ga ye maatam tum se roshan rahe gi ye majlis
+  Tum se qaaim rahe ga ye maatam tum se roshan rahe gi ye majlis
   Aasmaan-e-Aza ke sitaaro tum ko Zahra dua de rahi haiṅ
 ---
 

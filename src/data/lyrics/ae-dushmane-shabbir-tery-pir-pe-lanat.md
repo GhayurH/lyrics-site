@@ -1,7 +1,7 @@
 ---
 title: "اے دشمنِ شبیر تیرے پیر پہ لعنت"
 recitationId: "aye-dushmane-shabbir-tery-peer-pe-lanat"
-alternateTitle: "Ae Dushmane Shabbir Tery Pir Pe Lanat"
+alternateTitle: "Ae Dushman-e-Shabbir Tere Pir Pe Laanat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,46 +11,45 @@ aliases:
   - "Aye Dushmane Shabbir Tery Peer Pe Lanat"
 published: true
 romanLyrics: |-
-
   1
-  Ae Dushmane Shabbir Tery Pir pa Lanat
-  tashrik pa tashkik pa takfir pa lanaat
-  Har ehad ke jhutoṅ ke bare pir pa laanat
+  Ae Dushman-e-Shabbir tere pir pe laanat
+  Tashrik pe, tashkik pe, takfir pe laanat
+  Har ahd ke jhutoṅ ke bure pir pe laanat
 
   2
-  Farzand-e-Ali ibn-e-Abi Bakr pa rahmat
-  Momin nahiṅ jo aap se rakhta ho adawat
-  Haider ki adu aap ki hamshir pa laanat
+  Farzand-e-Ali ibn-e-Abi Bakr pe rahmat
+  Momin nahiṅ jo aap se rakhta ho adaawat
+  Haider ki adu, aap ki hamshir pe laanat
 
   3
-  Haq isme nikalta ho agar Aal-e-Nabi ka,
+  Haq is mein nikalta ho agar Aal-e-Nabi ka
   Bebaaq na qarza ho agar Aal-e-Nabi ka
-  Us maal o zar o mansab o jaagir pa laanat
+  Us maal o zar o mansab o jaagir pe laanat
 
   4
-  Jo Haq ki hifazat ke liye kaam na aayeiṅ
-  Mazlumoṅ ko kamzoroṅ ko nahaq jo darayeiṅ
-  Shamshir o Sinan o Tabar o Tir pa laanat
+  Jo haq ki hifaazat ke liye kaam na aaeṅ
+  Mazlumoṅ ko kamzoroṅ ko naahaq jo daraaeṅ
+  Shamshir o sinaan o tabar o tir pe laanat
 
   5
   Iblis ho Firaun ho ya Aal-e-Umayyah
   Shabbir ka dushman hai jo dushman hai Khuda ka
-  Har daur ke Har Dushman-e-Shabbir pa laanat
+  Har daur ke har dushman-e-Shabbir pe laanat
 
   6
-  Hakim ke mazalim ko chupane ke liye tha
-  Jo Khutba-e-Sajjad dabane ke liye tha
-  Takbir ke us naraye Takbir pa laanat
+  Haakim ke mazaalim ko chhupaane ke liye tha
+  Jo khutba-e-Sajjad dabaane ke liye tha
+  Takbir ke us naara-e-takbir pe laanat
 
   7
-  Nahaq hua taraaj Mohammad ka gharana,
-  Woh summate-e-aasi ko bari der meiṅ aaya
-  Ehsaas-e-pashemani ki taakhir pa laanat
+  Naahaq hua taaraaj Mohammad ka gharaana
+  Woh summat-e-aasi ko bari der mein aaya
+  Ehsaas-e-pashemaani ki taakhir pe laanat
 
   8
-  Awlaad-e-Umayyah ho ke ho woh Banu Abbas
-  Ho Aal-e-Mohammad ka na jinko Adab o Paas
-  Us Fikr per, Us Khun per, Us Shir pa laanat
+  Aulaad-e-Umayyah ho ke ho woh Banu Abbas
+  Ho Aal-e-Mohammad ka na jin ko adab o paas
+  Us fikr pe, us khun pe, us sher pe laanat
 ---
 
 ۱

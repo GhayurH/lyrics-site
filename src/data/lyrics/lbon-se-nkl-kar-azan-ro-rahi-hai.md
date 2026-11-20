@@ -9,54 +9,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Laboṅ se nikal kar azaṅ ro rahi hai
-
-  Musalle pe akbar ki maa ro rahi hai
+  Laboṅ se nikal kar azaaṅ ro rahi hai
+  Musalle pe Akbar ki maaṅ ro rahi hai
 
   1
-  Dua hai yehi ghamzada maa ke lab par
-  Khudaya salamat rahe mera akbar
-  Wo le le ke bas hichkiyaṅ ro rahi hai
+  Dua hai yahi ghamzada maaṅ ke lab par
+  Khudaya salamat rahe mera Akbar
+  Wo le le ke bas hichkiyaaṅ ro rahi hai
 
   2
-  Kabhi khaak par baith kar reh guzar meiṅ
-  Judaai meiṅ akbar ki veraan ghar meiṅ
+  Kabhi khaak par baith kar rahguzar meiṅ
+  Judaai meiṅ Akbar ki viraan ghar meiṅ
   Behan ghamzada nim jaaṅ ro rahi hai
 
   3
-  Tarapti hai sughra chale aao bhaiya
-  Kahiṅ mar na jaye judaai meiṅ sughra
-  Wo bemaar aur natawaṅ ro rahi hai
+  Tarapti hai Sughra chale aao bhaiya
+  Kahiṅ mar na jaaye judaai meiṅ Sughra
+  Wo bimaar aur natawaaṅ ro rahi hai
 
   4
-  Abhi to gaya hi nahi ran meiṅ akbar
-  Abhi dil hai akbar ka sine ke andar
-  Magar phir bhi noke sina ro rahi hai
+  Abhi to gaya hi nahiṅ ran meiṅ Akbar
+  Abhi dil hai Akbar ka sine ke andar
+  Magar phir bhi nok-e-sinaaṅ ro rahi hai
 
   5
-  Wahaṅ par madine meiṅ roti hai sughra
-  Yahaṅ par sakina ke lab par hai nauha
-  Behen ek yahaṅ ek wahaṅ ro rahi hai
+  Wahaaṅ par Madine meiṅ roti hai Sughra
+  Yahaaṅ par Sakina ke lab par hai nauha
+  Behen ik yahaaṅ ik wahaaṅ ro rahi hai
 
   6
-  Dua kar rahi hai ye karbal meiṅ laila
-  Na maut aaye akbar ko mere khudaya
-  Jawani ye sun kar bayaṅ ro rahi hai
+  Dua kar rahi hai ye Karbal meiṅ Laila
+  Na maut aaye Akbar ko mere Khudaya
+  Jawani ye sun kar bayaaṅ ro rahi hai
 
   7
   Ae naazoṅ ke paale zara sa teher jaa
-  Ke zainab sajaale tere sar pe sehra
-  Ke aun o mohamed ki maa ro rahi hai
+  Ke Zainab saja le tere sar pe sehra
+  Ke Aun o Muhammad ki maaṅ ro rahi hai
 
   8
-  Nabi dekhte hai falak se ye manzar
-  Safoṅ meiṅ khare sab namazi hai muztar
-  Imamat liye hichkiyaṅ ro rahi hai
+  Nabi dekhte haiṅ falak se ye manzar
+  Safoṅ meiṅ khare sab namazi haiṅ muztar
+  Imamat liye hichkiyaaṅ ro rahi hai
 
   9
-  Madine meiṅ akbar jahaṅ se chale hai
-  Zamiṅ pe qadam ke nishaṅ wo pare hai
-  Behen dekh kar kuch nishaṅ ro rahi hai
+  Madine meiṅ Akbar jahaaṅ se chale haiṅ
+  Zamiṅ pe qadam ke nishaaṅ wo pare haiṅ
+  Behen dekh kar kuch nishaaṅ ro rahi hai
 ---
 
 لبوں سے نکل کر اذاں رو رہی ہے

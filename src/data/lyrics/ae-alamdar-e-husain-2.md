@@ -13,41 +13,41 @@ aliases: ["Ay Alamdare Hussain"]
 published: true
 romanLyrics: |-
   Ae Yadullah ke bedast pisar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   1
   Dhundti hai tujhe har ik nazar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   2
   Tu numaainda Ali ka hai sar-e-Karb o Bala
   Aur alam haq tera
   Tu Madine se hai itrat ki sipar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   3
   Jang karne ki ijazat na mili sarwar se
   Jaante the anjaam
   Ye mashiyat hi rahi pesh-e-nazar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   4
   Hukm par shaah ke mashkiza o neza le kar
   Rukh kiya darya ka
   Tu ne samjhaaya itaaat ka hunar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   5
   Laash khaime meiṅ na le jaaye khudaara hargiz
   Sab se huṅ sharminda
   Shah se kehta tha tera dida-e-tar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   6
   Ik maaṅ roz dua karti hai bete ki amaan
-  Shah-e-diṅ bach jaaye
+  Shaah-e-diṅ bach jaaye
   Tu usi maaṅ ka hai lakht-e-jigar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 
   7
   Tera sar baandh ke rumaal meiṅ jo rakha hai
@@ -58,7 +58,7 @@ romanLyrics: |-
   Waqt shaahid hai ke az Karb o Bala ka ye sira
   Kya masaaib guzre
   Tai hua kaise ye Zainab ka safar ae Abbas
-  Ae alamdar-e-Husain
+  Ae alamdaar-e-Husain
 ---
 
 اے یداللہ کے بے دست پسر اے عباس

@@ -1,38 +1,66 @@
 ---
-title: "Madh-e-Abbas Madh-e-Haider Hai"
+title: "مدحِ عباس مدحِ حیدر ہے"
+alternateTitle: "Madh-e-Abbas Madh-e-Haider Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Madh-e-Abbas madh-e-Haider hai
+  Jaisay lashkar ke pichey lashkar hai
+
+  1
+  Ik Nuseri ka ik wafa ka khuda
+  Do khudaon ka aik hi ghar hai
+  Aik saqi hai aik saqqa hai
+  Alqama ik ki ik ka Kausar hai
+
+  2
+  Ain dono ke naam mein shamil
+  Our alam dono ka muqadar hai
+  Ik Ali dosra hai Nad-e-Ali
+  Aik dil mein hai aik lab par
+
+  3
+  Dushman-e-deen-e-Mustafa ke liye
+  Aik talwar aik khanjar hai
+  Garna hai alam hadaf lekin
+  Ik ka pani hai ik ka pathar hai
+
+  4
+  Dono Zainab ke sath sath hain youn
+  Aik saya hai aik chadar hai
+  Matla Rehan nazar-e-Ghazi tha
+  Maqta Rehan nazar-e-Haider hai
 ---
 
-Madh-e-Abbas Madh-e-Haider Hai.
-Jaisay Lashkar Ke Pichey Lashkar Hai.
+مدحِ عباس مدحِ حیدر ہے
+جیسے لشکر کے پیچھے لشکر ہے
 
-1
-Ik Nuseri Ka Ik Wafa Ka Khuda.
-Do Khudaon Ka Aik Hi Ghar Hai.
-Aik Saqi Hai Aik Saqqa Hai.
-Alqama Ik Ki Ik Ka Kausar Hai.
+۱
+اک نصیری کا اک وفا کا خدا
+دو خداؤں کا ایک ہی گھر ہے
+ایک ساقی ہے ایک سقّا ہے
+علقمہ اک کی اک کا کوثر ہے
 
-2
-Ain Dono Ke Naam Mein Shamil.
-Our Alam Dono Ka Muqadar Hai.
-Ik Ali Dosra Hai Nad-e-Ali.
-Aik Dil Mein Hai Aik Lab Par.
+۲
+عین دونوں کے نام میں شامل
+اور علم دونوں کا مقدر ہے
+اک علی دوسرا ہے نادِ علی
+ایک دل میں ہے ایک لب پر
 
-3
-Dushman-e-Deen-e-Mustafa Ke Liye.
-Aik Talwar Aik Khanjar Hai.
-Garna Hai Alam Hadaf Lekin.
-Ik Ka Pani Hai Ik Ka Pathar Hai.
+۳
+دشمنِ دینِ مصطفیٰ کے لیے
+ایک تلوار ایک خنجر ہے
+گڑنا ہے علم ہدف لیکن
+اک کا پانی ہے اک کا پتھر ہے
 
-4
-Dono Zainab Ke Sath Sath Hain Youn.
-Aik Saya Hai Aik Chadar Hai.
-Matla Rehan Nazar-e-Ghazi Tha.
-Maqta Rehan Nazar-e-Haider Hai.
+۴
+دونوں زینب کے ساتھ ساتھ ہیں یوں
+ایک سایہ ہے ایک چادر ہے
+مطلع ریحان نذرِ غازی تھا
+مقطع ریحان نذرِ حیدر ہے

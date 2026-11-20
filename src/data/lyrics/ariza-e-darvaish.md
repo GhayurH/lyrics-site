@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Soz-e-dilam Kaaba-e-man Karbobalaai
   Na mikhuaham jahaaṅ Husain Husain
-  Sada bizan na mikhuaham ee jahaṅ sada bizan
+  Sada bizan na mikhuaham i jahaaṅ sada bizan
 
   1
   Dil ke arbaab mere kab mujhe izn mile
@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Khaadim-e-zaairin ke sadqe
   Soz-e-Shahbaaz-e-Qalandar de de
-  Yehi nauha hi ariza hai mera
+  Yahi nauha hi ariza hai mera
   Ab to darvaish ko didaar mile
 
   6

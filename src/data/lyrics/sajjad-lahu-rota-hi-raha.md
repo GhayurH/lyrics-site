@@ -7,6 +7,58 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haaye Sajjad haaye haaye Sajjad
+
+  1
+  Sajjad haaye Sajjad Sajjad haaye Sajjad
+  Sajjad haaye Sajjad Sajjad haaye Sajjad
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Ghar laut ke baad-e-Karb o Bala Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Naamus-e-Nabi thi bechaadar Zainab pe baraste the patthar
+  Tha us ki nazar mein woh manzar chaalis baras tak har lamha
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Kaisi thi musibat ki woh ghari begor o kafan mayyat thi pari
+  Rone ki ijaazat bhi na mili Aaqa ka bichha ke farsh-e-aza
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Baaba ka utha ke god mein sar munh rakh diya bachchi ne munh par
+  Khaamosh hui Shah ki dukhtar yaad aai Sakina ki jo qaza
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Daawat jo kabhi shaadi ki mili sine pe lagi gham ki barchhi
+  Ashkoṅ ki rawaani aur barhi yaad aa gaya Akbar ka sehra
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Kis tarah bhulaaye woh lamhe untoṅ se musalsal girte the
+  Maaoṅ ki godoṅ se bachche mor mor ke dekh ke har laasha
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Maatam kabhi noha parhti thi ujri hui godi thi us ki
+  Saaye se hamesha dur rahi Baano ko dhup mein jab dekha
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Zainab ki asiri yaad aai bahnoṅ ki gharibi yaad aai
+  Fizza ki dulaari yaad aai darbaar ka jab bhi zikr hua
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
+  Bas nohe Takallum parhta raha har saans mein jita marta tha
+  Shabbir ki majlis karta raha jab tak bhi jahaaṅ mein zinda raha
+  Sajjad lahu rota hi raha Sajjad lahu rota hi raha
+  Baazaar mein jaane kya dekha Sajjad lahu rota hi raha
+  Sajjad lahu rota hi raha
 ---
 
 ہاۓ سجادؑ ہاۓ ہاۓ سجاد

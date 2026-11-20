@@ -13,11 +13,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Koi puchhe jo wafa aur wafaadaar ki baat
-  Bas use yaad dila dena Alamdar ki baat
+  Bas use yaad dila dena Alamdaar ki baat
 
   1
   Waada-e-tifli na Shabbir ka pura hota
-  Khaiz guzri na bari ran meiṅ Alamdar ki baar
+  Ghaiz guzri na bari ran meiṅ Alamdaar ki baat
 
   2
   Hujjat-e-Haq se bhi jab baat na maani jaaye
@@ -36,7 +36,7 @@ romanLyrics: |-
   Yaad aa jaati hai jab Shaam ke baazaar ki baat
 
   6
-  Nange sar ahl-e-haram haath meiṅ uṅtoṅ ki mahaar
+  Nange sar ahl-e-haram haath meiṅ untoṅ ki mahaar
   Puchhta kaun bhala Aabid-e-bimaar ki baat
 
   7

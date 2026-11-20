@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Wo galiyaaṅ jahaaṅ tera bachpan hai guzra
   Jahaaṅ dekhte haiṅ sabhi tera rasta
-  Wahiṅ laut ke ab to jaane ke din the
+  Wahi laut ke ab to jaane ke din the
 
   2
   Hai baithi hui dar pe bimaar Sughra
@@ -33,7 +33,7 @@ romanLyrics: |-
   Nigaahoṅ meiṅ tujh ko basaane ke din the
 
   4
-  Shaah-e-diṅ ye laashe pe kehte haiṅ ro kar
+  Shah-e-diṅ ye laashe pe kehte haiṅ ro kar
   Sukuṅ kaise paaye bhala qalb-e-muztar
   Sahaara tera ab to paane ke din the
 
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   7
   Tha Izhaar aur Shadmaaṅ gham ka manzar
-  Lipat kar jo laashe se kehti thi maadar
+  Lipat kar jo laasha se kehti thi maadar
   Ye naushaah tujh ko banaane ke din the
 ---
 اکبر اکبر ہائے اکبر

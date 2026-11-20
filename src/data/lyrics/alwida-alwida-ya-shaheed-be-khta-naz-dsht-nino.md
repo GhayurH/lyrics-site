@@ -8,6 +8,94 @@ reciter: "Zeeshan Haider"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Alwida alwida Ali Akbar alwida
+  Alwida alwida Ali Qaasim alwida
+  Alwida alwida Ali Asghar alwida
+  Alwida alwida Aun Muhammad alwida
+  Alwida alwida ya Abbaas alwida
+  Alwida alwida alwida alwida
+
+  2
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
+
+  3
+  Kar qabul bahan ka salaam ya Husain
+  Qaid ho ke jaa rahi huṅ Shaam ya Husain
+  Dil mein teri yaad hai - ya Husain ya Husain
+  Dil mein teri yaad hai - aasra Sajjaad hai
+  Saath Ibn-e-Saad hai - main huṅ berida
+
+  4
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
+
+  5
+  Khatm ho gaye haiṅ saare aasre
+  Akbar o Abbaas mere na rahe
+  Qaatiloṅ ki bhir hai hamaari har taraf
+  Jaane ko taiyaar ab hai qaidiyoṅ ki saf
+  Ibn-e-shaah-e-Bu Turaab - ya Husain ya Husain
+  Ibn-e-shaah-e-Bu Turaab - ho gai huṅ behijaab
+  Laut aauṅ kaamyaab - de mujhe dua
+
+  6
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
+
+  7
+  Kya sunaauṅ dard-e-fakhr-e-Panjtan
+  Chaahe main ne laakh haiṅ kiye jatan
+  Main ridaa-e-innama bacha nahiṅ saki
+  Bhaai teri laash pe main aa nahiṅ saki
+  Aag thi khiyaam the - ya Husain ya Husain
+  Aag thi khiyaam the - jin mein do imaam the
+  Bachche tishna kaam the - aati kis tarah
+
+  8
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
+
+  9
+  Chhup na jaaye tera begunaah lahu
+  Jaa rahi huṅ is liye main ku ba ku
+  Jaa ke main bataauṅ gi tu bemisaal hai
+  Tu baqaa-e-din hai tu laazawaal hai
+  Shaah-e-benawa hai tu - ya Husain ya Husain
+  Shaah-e-benawa hai tu - ruh-e-laa ilaah hai tu
+  Fakhr-e-anbiyaa hai tu - raaz-e-kibriyaa
+
+  10
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
+
+  11
+  Main na rukne duṅ gi tera gham Husain
+  Main na jhukne duṅ gi ye alam Husain
+  Ahd jo kiya hai wo nibha ke aauṅ gi
+  Main Husainiyat ko yuṅ bacha ke aauṅ gi
+  Hashr tak rahe ga tu - ya Husain ya Husain
+  Hashr tak rahe ga tu - is tarah jiye ga tu
+  Aa ke khud kahe ga tu - bahan shukriya
+
+  12
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
+
+  13
+  Chhor kar chala jo dasht-e-Karbala
+  Malika-e-haya ka qaidi qaafila
+  Boli ro ke shaah se ye dukhtar-e-Imraan
+  Tishna lab gharib bhaai main tere qurbaan
+  Dil ghamoṅ se chur hai - ya Husain ya Husain
+  Dil ghamoṅ se chur hai - aur Shaam dur hai
+  Jaana bhi zarur hai - bhaai alwida
+
+  14
+  Alwida alwida ya shahid-e-bekhataa
+  Naaz-e-dasht-e-Nainawa shaah-e-Karbala
 ---
 
 ۱

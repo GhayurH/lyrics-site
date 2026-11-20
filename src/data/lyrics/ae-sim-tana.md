@@ -33,7 +33,7 @@ romanLyrics: |-
   Maidaaṅ meiṅ hue jaake jawaaṅ Aun o Muhammad
 
   4
-  Wo maut ke sehra meiṅ raha manzar-e-mehshar
+  Wo maut ke sahra meiṅ raha manzar-e-mahshar
   Angraaiyaaṅ lete the wahaaṅ Aun o Muhammad
 
   5
@@ -41,11 +41,11 @@ romanLyrics: |-
   Tum jaise kahaaṅ dida waraaṅ Aun o Muhammad
 
   6
-  Laashoṅ pe kiye hai Zainab-e-dilgir ne sajde
+  Laashoṅ pe kiye hai Zainab-e-dilgir ne sada
   Un sajdoṅ ke raushan hai nishaaṅ Aun o Muhammad
 
   7
-  Aashur ko dulhan thi bani Aashur ko bewa
+  Aashur ko dulha thi bani Aashur ko bewa
   Paamaal hua ran meiṅ jawaaṅ Aun o Muhammad
 
   8
@@ -74,7 +74,7 @@ romanLyrics: |-
 
   14
   Iqbal ke nauhe ye sada haq ki sada hai
-  Dhundeṅge tumheṅ haq talabaaṅ Aun o Muhammad
+  Dhundeṅ ge tumheṅ haq talabaaṅ Aun o Muhammad
 ---
 
 چاندی سا بدن پھول سا تن خاک ہوا ہے

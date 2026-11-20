@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khaafla shaah ka haye warid e kufa jo hua
-  Aan kar umme habeeba ne sakina se kaha
-  Ae yateema tu mere waaste ye maang dua
-  Teri tarha se kisi ko na yatimi de khuda
-  Sun ke bazaar meiṅ ye umme habeeba ki buka
-  Rukh suye naiza kiya aur sakina ne kaha baba
-  Baba dua mai karti aamin kaho
-  Meri tarha koi yatim na ho
+  Qaafila Shaah ka haae waarid-e-Kufa jo hua
+  Aan kar Umm-e-Habiba ne Sakina se kaha
+  Ae yatima tu mere waaste ye maang dua
+  Teri tarah se kisi ko na yatimi de khuda
+  Sun ke bazaar mein ye Umm-e-Habiba ki buka
+  Rukh su-e-naiza kiya aur Sakina ne kaha baba
+  Baba dua main karti aamin kaho
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar baba jaaṅ
-  Meri tarha koi yatim na ho
+  Meri tarah koi yatim na ho
   Baba yatim ho kar ehsaas ye hua hai
   Kya chiz hai yatimi har saans hi saza hai
   Ye meri dil ki hai aawaz suno
-  Meri tarha koi yatim na ho
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Aulaad waale mujhko kehne lage yateema
-  Pardes meiṅ sakina par waqt kaisa aaya
+  Aulaad waale mujh ko kehne lage yatima
+  Pardes mein Sakina par waqt kaisa aaya
   Ye kehke sar pe mere haath rakho
-  Meri tarha koi yatim na ho
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Ye aap jaante hai jo kaifiyat hai meri
-  Socha kabhi nahi tha bazaar meiṅ phirungi
-  To ab dua meiṅ mera saath to do
-  Meri tarha koi yatim na ho
+  Ye aap jaante haiṅ jo kaifiyat hai meri
+  Socha kabhi nahiṅ tha bazaar mein phiruṅ gi
+  To ab dua mein mera saath to do
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Kya haal kar diya hai dekho to ashkiyan ne
-  Khaane ko kya mila hai zaalim ki taziyane
-  Lage jo pyaas to bas ashkh piyo
-  Meri tarha koi yatim na ho
+  Kya haal kar diya hai dekho to ashqiyaa ne
+  Khaane ko kya mila hai zaalim ki taaziyaane
+  Lage jo pyaas to bas ashk piyo
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
   Jine se mera dil to bezaar ho chuka hai
-  Baazu bandhe hai sab ke mera gala bandha hai
+  Baazu bandhe haiṅ sab ke mera gala bandha hai
   Meri asiri ko dekho socho
-  Meri tarha koi yatim na ho
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Kiuṅ zinda hai sakina itne ghamoṅ ko seh kar
+  Kiuṅ zinda hai Sakina itne ghamoṅ ko seh kar
   Zaalim mujhe bulaye apni kaniz keh kar
-  Mai khud se kaise kahuṅ sabr karo
-  Meri tarha koi yatim na ho
+  Main khud se kaise kahuṅ sabr karo
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Beti ki baat sun kar sar shaah ka pukara
+  Beti ki baat sun kar sar Shaah ka pukara
   Sakina sun kar fughaṅ tumhari
   Rota hai dil hamara meri jaaṅ
-  Khuda se mai yehi kehta hoo suno
-  Teri tarha koi yatim na ho
+  Khuda se main yahi kehta huṅ suno
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Irfan aur mazhar rote hai is fughaṅ par
-  Shabbir ki wo dukhtar kehti hai hum se ro kar
-  Ye marsiya meri majlis meiṅ parho
-  Meri tarha koi yatim na ho
+  Irfan aur Mazhar rote haiṅ is fughaṅ par
+  Shabbir ki wo dukhtar kehti hai ham se ro kar
+  Ye marsiya meri majlis mein parho
+  Meri tarah koi yatim na ho
   Sakina kehti thi ro ro kar...
 ---
 

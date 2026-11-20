@@ -16,7 +16,7 @@ romanLyrics: |-
   Ye shab gham o alam ki hai sina zani ki hai
 
   1
-  Chhaaya hai Saamra ki fizaaoṅ meiṅ ranj o gham
+  Chhaaya hai Saamra ki fizaaoṅ mein ranj o gham
   Zehr-e-dagha se haae Naqi par kiya sitam
   Sosan pe haae saaat bari bebasi ki hai
 
@@ -26,19 +26,19 @@ romanLyrics: |-
   Ye daswaaṅ jaanashin nishaani Ali ki hai
 
   3
-  Qaidi bana ke qaid-e-sitam meiṅ rakha gaya
+  Qaidi bana ke qaid-e-sitam mein rakha gaya
   Har ek zulm o jaur Naqi par kiya gaya
-  Shaam o sehar yuṅ dard meiṅ us muttaqi ki hai
+  Shaam o sehar yuṅ dard mein us muttaqi ki hai
 
   4
   Dhaaya hai zulm tu ne laiṅ ye Imam par
-  Laanat ho do jahaaṅ ki sitamgar ke kaam par
-  Haalat ajib sam se Khuda ki wali ki hai
+  Laanat ho do jahaaṅ ki sitamgar ke kaam ki
+  Haalat ajib samm se Khuda ki wali ki hai
 
   5
   Ummat ne phir se Aal-e-Nabi ko kiya shahid
   Yaani ke haae Maula Naqi ko kiya shahid
-  Ghurbat meiṅ aaj laash ye Ibn-e-Taqi ki hai
+  Ghurbat mein aaj laash ye Ibn-e-Taqi ki hai
 
   6
   Larzi zamin aur falak ho gaya udaas
@@ -47,18 +47,18 @@ romanLyrics: |-
 
   7
   Roya hai taa hayaat jo Maula Husain par
-  Haidar ki aarzu Dil-e-Zehra ke chain par
+  Haidar ki aarzu dil-e-Zehra ke chain par
   Sar pito mominoṅ ke ye mayyat usi ki hai
 
   8
   Sar pe hamaare baap ka saaya nahiṅ raha
-  Ghurbat meiṅ ek bete ne ro kar yehi kaha
-  Dard o alam meiṅ gunji sada Askari ki hai
+  Ghurbat mein ek bete ne ro kar yehi kaha
+  Dard o alam mein gunji sada Askari ki hai
 
   9
   Abbas do Imam ka pursa Batul ko
   Taskin hogi Sahib-e-Aalam Rasul ko
-  Haalat malul khuld meiṅ Ruh-e-Nabi ki hai
+  Haalat malul khuld mein Ruh-e-Nabi ki hai
 ---
 رخصت جہاں سے آج علی نقی کی ہے
 یہ شب غم و الم کی ہے سینہ زنی کی ہے

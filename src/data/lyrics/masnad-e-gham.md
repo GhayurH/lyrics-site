@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Zikr-e-Maula ka faiz hai Mehshar
-  Teri shohrat jo paayi jaati hai
+  Teri shohrat jo paai jaati hai
 ---
 مسندِ غم بچھائی جاتی ہے
 بزمِ ماتم سجائی جاتی ہے

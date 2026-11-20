@@ -16,7 +16,7 @@ romanLyrics: |-
   Bas jaaye jo saansoṅ meiṅ woh khushbu-e-wafa de
 
   1
-  Baandhi hui ek mashk-e-Sakina hai alam meiṅ
+  Baandhe hue ak mashk-e-Sakina hai alam meiṅ
   Ghaazi tere parcham ki ye pehchaan kara de
 
   2
@@ -29,10 +29,10 @@ romanLyrics: |-
 
   4
   Ye soch ke jaati hai Sakina su-e-darya
-  Ammu mere daaman meiṅ lagi aag bujha de
+  Ammuṅ mere daaman meiṅ lagi aag bujha de
 
   5
-  Kehti rahi maadar se watan jaayeṅge kab tak
+  Kehti rahi maadar se watan jaayeṅ ge kab tak
   Aisi koi surat ho jo Sughra se mila de
 
   6

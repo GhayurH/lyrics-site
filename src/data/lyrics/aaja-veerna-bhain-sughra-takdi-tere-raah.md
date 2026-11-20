@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaja veerna bhain Sughra takdi tere raah
-  Veerna aa ja veerna ujari de mukday sah
-  Veer Karbal gaye wasawan layi
-  Jan Khaliq de nawin lawan layi
+  Aa ja veerna bhain Sughra takdi tere raah
+  Veerna aa ja veerna ujaari de mukde saah
+  Veer Karbal gaye wasaawan layi
+  Jaan Khaaliq de naweṅ laawaaṅ layi
 
   2
-  Chad ke Sughra ujari nu haye dukhda dil mera
-  Khuwab Sughra nu rat draya aye
-  Chadraan wekhiyaan ne naizay te
-  Rondi aye banwaan wekh ke le ke chache da naa
+  Chhad ke Sughra ujaari nuṅ haaye dukhda dil mera
+  Khwaab Sughra nuṅ raat daraaya ae
+  Chaadraaṅ wekhiyaaṅ ne naize te
+  Rondi ae baanhwaaṅ wekh ke le ke chaache da naaṅ
 
   3
-  Veer Asghar nu main khada na saki
-  Odha jhola v main jhula na saki
-  Loriyaan Asghar taun bhira meri tarfoon tu suna
-  Chad ke ghar nu gaya jadon da sakhi
+  Veer Asghar nuṅ main khadaa na saki
+  Ohda jhola vi main jhula na saki
+  Loriyaaṅ Asghar toṅ bhira meri tarfoṅ toṅ suna
+  Chhad ke ghar nuṅ gaya jadoṅ da sakhi
 
   4
-  Fair Sughra ne jandray kholay nayi
-  Reh gayi Bait al-Huzan wich jiwein reh gayi Fatima
-  Din aye Ashor da v lang jana
-  Jandi aan taun mur ke nayi aana
+  Fer Sughra ne jandre khole naiṅ
+  Reh gayi Bait al-Huzan wich jiweṅ reh gayi Fatima
+  Din ae Aashur da vi langh jaana
+  Jaandi aaṅ toṅ mur ke naiṅ aana
 
   5
-  Innalillah parhdi reh gayi sun ke teri azana
-  Wain Baqar beemar paye san
+  Inna lillaah parhdi reh gayi sun ke teri azaanaaṅ
+  Wain Baqar bimaar paye san
   Qaidi Yasrab jo mur ke aaye san
-  Puchdi rayi Abid veer nu ne daday kyun bhira
+  Puchhdi rahi Aabid veer nuṅ ne daadhe kiuṅ bhira
 ---
 
 ۱

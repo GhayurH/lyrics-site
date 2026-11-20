@@ -1,37 +1,64 @@
 ---
-title: "Salam Ya Zainab Shahid Baltistani"
+title: "سلام یا زینب شاہد بلتستانی"
+alternateTitle: "Salam Ya Zainab Shahid Baltistani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Salam ya Zainab Shahid Baltistani
+
+  1
+  Manqabat teri Rasolon ne parhi hai Zainab
+  Tu Imamo ke liye Nad-e-Ali hai Zainab
+  Meri nazron mein tu Mairaj wohi hai Zainab
+  Tere lehjay mein jahan baat hoi hai Zainab
+  Pehli Shaban ko aayi hai zamane mein magar
+  Teen Shaban ko dunya mein hansi hai Zainab
+
+  2
+  Umar mein Hazrat-e-Shabeer se choti hai magar
+  Aaj tak tey na howa kitni bari hai Zainab
+  Sahib al-Amr ki beti hai rasan kya shay hai
+  Sirf Shabeer ke waday se bandhi hai Zainab
+  Waqt saktay mein hawa chup hai zabanein khamosh
+  Ho ka aalam hai keh tu bool rahi hai Zainab
+
+  3
+  Kar ke darbar mein Shabeer ka matam aye Yazid
+  Tere ghar mein hi tujhey mar rahi hai Zainab
+  Naam jis waqt Muhammad ka moazin ne liya
+  Khud azano ne kaha jeet gayi hai Zainab
+  Aayi khushiyaan bhi wahan le ke Takallum kashkool
+  Gham-e-Shabeer jahan bant rahi hai Zainab
 ---
 
-Salam Ya Zainab Shahid Baltistani
+سلام یا زینب شاہد بلتستانی
 
-1
-Manqabat Teri Rasolon Ne Parhi Hai Zainab.
-Tu Imamo Ke Liye Nad-e-Ali Hai Zainab.
-Meri Nazron Mein Tu Mairaj Wohi Hai Zainab.
-Tere Lehjay Mein Jahan Baat Hoi Hai Zainab.
-Pehli Shaban Ko Aayi Hai Zamane Mein Magar.
-Teen Shaban Ko Dunya Mein Hansi Hai Zainab.
+۱
+منقبت تیری رسولوں نے پڑھی ہے زینب
+تو اماموں کے لیے نادِ علی ہے زینب
+میری نظروں میں تو معراج وہی ہے زینب
+تیرے لہجے میں جہاں بات ہوئی ہے زینب
+پہلی شعبان کو آئی ہے زمانے میں مگر
+تین شعبان کو دنیا میں ہنسی ہے زینب
 
-2
-Umar Mein Hazrat-e-Shabeer Se Choti Hai Magar.
-Aaj Tak Tey Na Howa Kitni Bari Hai Zainab.
-Sahib Al-Amr Ki Beti Hai Rasan Kya Shay Hai.
-Sirf Shabeer Ke Waday Se Bandhi Hai Zainab.
-Waqt Saktay Mein Hawa Chup Hai Zabanein Khamosh.
-Ho Ka Aalam Hai Keh Tu Bool Rahi Hai Zainab.
+۲
+عمر میں حضرتِ شبیر سے چھوٹی ہے مگر
+آج تک طے نہ ہوا کتنی بڑی ہے زینب
+صاحب الامر کی بیٹی ہے رسن کیا شے ہے
+صرف شبیر کے وعدے سے بندھی ہے زینب
+وقت سکتے میں ہوا چپ ہے زبانیں خاموش
+ہُو کا عالم ہے کہ تو بول رہی ہے زینب
 
-3
-Kar Ke Darbar Mein Shabeer Ka Matam Aye Yazid.
-Tere Ghar Mein Hi Tujhey Mar Rahi Hai Zainab.
-Naam Jis Waqt Muhammad Ka Moazin Ne Liya.
-Khud Azano Ne Kaha Jeet Gayi Hai Zainab.
-Aayi Khushiyaan Bhi Wahan Le Ke Takallum Kashkool.
-Gham-e-Shabeer Jahan Bant Rahi Hai Zainab.
+۳
+کر کے دربار میں شبیر کا ماتم اے یزید
+تیرے گھر میں ہی تجھے مار رہی ہے زینب
+نام جس وقت محمد کا مؤذن نے لیا
+خود اذانوں نے کہا جیت گئی ہے زینب
+آئی خوشیاں بھی وہاں لے کے تکلم کشکول
+غمِ شبیر جہاں بانٹ رہی ہے زینب

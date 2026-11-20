@@ -1,6 +1,6 @@
 ---
 title: "زندان کی تاریکیوں میں"
-alternateTitle: "Mai Panjo Pe Chalti"
+alternateTitle: "Main Panjoṅ Pe Chalti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zindan ki tarikiyoṅ meiṅ
-  Apne sine se lagaye huwe
-  Shabbir ka sar sakina kehti thi
-  Baba baba suno mera safar
-  Are sab ke thay shaane bandhe
-  Mera bandha tha ghala
-  Mai panjoṅ pe chalti rahi baba
-  Aap se kaise kahuṅ kaise kata wo safar
-  Aale payambar chali rote huwe nange sar
-  Aap chale naize par kaantoṅ pe bhai chala
-  Mai panjoṅ pe chalti...
-  Mere phupi raah meiṅ ashk bahati rahi
-  Zulm rulaate rahe dhup jalati rahi
-  Zakhm mere paoṅ ka dhup se jalta raha
-  Mai panjoṅ pe chalti...
-  Maazi ke kuch waqeye yaad jo aaye mujhe
-  Sine pe kaise muje aap sulaate rahe
-  Yaadoṅ meiṅ yuṅ khogayi bhul gayi har jafa
-  Mai panjoṅ pe chalti...
-  Sabr ka daaman mere haath se chuta nahi
-  Naize se kya aap ne baba ye dekha nahi
-  Khichti rahi reesma chalta raha khafila
-  Mai panjoṅ pe chalti...
-  Aankh barasne lagi qalb hua nauha ghar
-  Aaya nazar jab mujhe naize pe asghar ka sar
-  Roti rahi mai use wo mujhe rota raha
-  Mai panjoṅ pe chalti...
-  Tum ko kafan dediya rayt ke tufan ne
+  Zindaan ki taarikiyoṅ meiṅ
+  Apne sine se lagaaye hue
+  Shabbir ka sar Sakina kehti thi
+  Baaba baaba suno mera safar
+  Are sab ke thi shaane bandhe
+  Mera bandha tha gala
+  Main panjoṅ pe chalti rahi baaba
+  Aap se kaise kahuṅ kaise kata ye safar
+  Aal-e-Payambar chali rote hue nange sar
+  Aap chale neze par kaantoṅ pe bhaai chala
+  Main panjoṅ pe chalti...
+  Mere phuphi raah meiṅ ashk bahaati rahi
+  Zulm rulaate rahe dhup jalaati rahi
+  Zakhm mere paaṅv ka dhup se jalta raha
+  Main panjoṅ pe chalti...
+  Maazi ke kuchh waaqia yaad jo aaye mujhe
+  Sine pe kaise mujhe aap sulaate rahe
+  Yaadoṅ meiṅ yuṅ kho gayi bhul gayi har jafa
+  Main panjoṅ pe chalti...
+  Sabr ka daaman mere haath se chhuta nahiṅ
+  Neze se kya aap ne baaba ye dekha nahiṅ
+  Khinchti rahi rismaaṅ chalta raha qaafila
+  Main panjoṅ pe chalti...
+  Aaṅkh barasne lagi qalb hua nauha gar
+  Aaya nazar jab mujhe neze pe Asghar ka sar
+  Roti rahi main use wo mujhe rota raha
+  Main panjoṅ pe chalti...
+  Tum ko kafan de diya ret ke tufaan ne
   Baaloṅ se parda kiya meri phuphi jaan ne
-  Aur mere dard ka koi madawa na tha
-  Mai panjoṅ pe chalti...
-  Raah meiṅ ammu ko jab dekha to maiṅ ne kaha
-  Khol do meri rasan godh meiṅ lelo chacha
+  Aur mere dard ka koi madaawa na tha
+  Main panjoṅ pe chalti...
+  Raah meiṅ Ammu ko jab dekha to main ne kaha
+  Khol do meri rasan god meiṅ le lo chacha
   Dekh ke rote rahe meri asiri chacha
-  Mai panjoṅ pe chalti...
-  Chain mayassar mujhe aa na saka ek pal
-  Zakhmi gala hogaya aur mere paoṅ shal
+  Main panjoṅ pe chalti...
+  Chain mayassar mujhe aaya nahiṅ ek pal
+  Zakhmi gala ho gaya aur mere paaṅv shal
   Raat safar meiṅ kati din bhi safar meiṅ kata
-  Mai panjoṅ pe chalti...
-  Baba madine ke wo din bhi mujhe yaad hai
-  Sabz amaari meiṅ jab bait ke jaati thi mai
+  Main panjoṅ pe chalti...
+  Baaba Madine ke wo din bhi mujhe yaad haiṅ
+  Sabz imaarati meiṅ jab baith ke jaati thi main
   Aaj zara dekhiye kaise safar tay kiya
-  Mai panjoṅ pe chalti...
-  Ek rasan meiṅ bandhe chote baroṅ ke gale
-  Laashoṅ pe rote huwe karbobala se chale
-  Haal mera dekh ke rone lagi karbala
-  Mai panjoṅ pe chalti...
-  Mazhar o irfan tum nauha parho is tarha
-  Shaam ke zindan meiṅ bibi meri jis tarha
-  Dekh ke baba ka sar karti thi aaho buka
-  Mai panjoṅ pe chalti...
+  Main panjoṅ pe chalti...
+  Ek rasan meiṅ bandhe chhote baroṅ ke gale
+  Laashoṅ pe rote hue Karb o Bala se chale
+  Haal mera dekh ke rone lagi Karbala
+  Main panjoṅ pe chalti...
+  Mazhar o Irfaan tum nauha parho is tarah
+  Shaam ke zindaan meiṅ Bibi meri jis tarah
+  Dekh ke baaba ka sar karti thi aah o buka
+  Main panjoṅ pe chalti...
 ---
 
 ۱

@@ -8,83 +8,83 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  As Salamun alaik ya gharib Hussaina
+  As Salaamu alaika ya gharib Husaina
 
   1
-  Zindaṅ se chut ke Maa jaye aayi
-  Kab se ho sote Uth jao bhai
-  Chehlum manau Turbat banauṅ
-  Farshe Aza pe ansu bahaun
-  Qasr-e-yazidi khutboṅ se dha ke
-  Milne ko tum se Aayi hai behna
+  Zindaaṅ se chhut ke maaṅ jaae aayi
+  Kab se ho sote uth jaao bhai
+  Chehlum manaauṅ turbat banaauṅ
+  Farsh-e-aza pe aansu bhaun
+  Qasr-e-Yazidi khutboṅ se dhaa ke
+  Milne ko tum se aayi hai behna
 
   2
-  Tum se bichar ke dar dar phiri huṅ
+  Tum se bichhar ke dar dar phiri huṅ
   Ik ik qadam par roti rahi huṅ
-  Bazar dekha darbar dekha
+  Baazaar dekha darbaar dekha
   Marti rahi huṅ jiti rahi huṅ
-  Abid ne bhayya touq e giraaṅ ka
-  May ne rasan ka pehna hai gehna
+  Aabid ne bhaiya tauq-e-giraaṅ ka
+  Main ne rasan ka pehna hai gehna
 
   3
-  Paigham tera le kar gaye thi
-  Har ik musibat may seh rahi thi
-  Kantoṅ pe bhayya paidal chali thi
+  Paighaam tera le kar gayi thi
+  Har ik musibat mein seh rahi thi
+  Kaantoṅ pe bhaiya paidal chali thi
   Durre lage the so na saki thi
-  Aayi na bhayya sath hamare
-  Ziandaṅ se chut ke bali Sakina
+  Aayi na bhaiya saath hamaare
+  Zindaaṅ se chhut ke baali Sakina
 
   4
   Dekha to ho ga naize se tum ne
-  Jo dukh uthe rahoṅ may ham ne
-  Untoṅ pe baandha ham ko rulaya
-  Dar dar phiraya ahle sitam ne
-  Khaye haiṅ pathar ansu piye haiṅ
-  Pairahan gham ka ham ne tha pehna
+  Jo dukh uthaae raahoṅ mein ham ne
+  Untoṅ pe baandha ham ko rulaaya
+  Dar dar phiraaya ahl-e-sitam ne
+  Khaae haiṅ patthar aansu piye haiṅ
+  Pairaahan-e-gham ka ham ne tha pehna
 
   5
-  Tum bin watan may ja na sakun gi
-  Puche gi Sughra kia may kahuṅ gi
-  Akbar nahi hai Qasim nahi hai
-  Asghar nahi hai kaise jiyoṅ gi
-  Tum bhi nahi ho Ghazi nahi hai
+  Tum bin watan mein jaa na sakun gi
+  Puchhe gi Sughra kya main kahuṅ gi
+  Akbar nahiṅ hai Qasim nahiṅ hai
+  Asghar nahiṅ hai kaise jiyuṅ gi
+  Tum bhi nahiṅ ho Ghazi nahiṅ hai
   Mere liye to mushkil hai jina
 
   6
-  May binte Zehra tum ibn-e-Zehra
+  Main bint-e- Zehra tum ibn-e-Zehra
   Bhai behan ka yeh hai nasiba
-  Tum bekafan ho may berida thi
-  Kaisa ghamo ne ham to hai ghera
-  May ja rahi huṅ qabr-e-nabi par
-  Mujh ko bata do jo kuch hai kehna
+  Tum bekafan ho mein berida thi
+  Kaisa ghamoṅ ne ham ko hai ghera
+  Main jaa rahi huṅ qabr-e-Nabi par
+  Mujh ko bataa do jo kuchh hai kehna
 
   7
-  Tha yehi ran meiṅ Ghazi ka noha
-  bedast ho kar girta huṅ Maula
-  Yeh dard mujh ko marne na dega
-  Takti hai rasta bali Sakina
-  Aao madad ko ae Ibn-e-Zehra
+  Tha yahi ran mein Ghazi ka noha
+  Bedast ho kar girta huṅ Maula
+  Yeh dard mujh ko marne na de ga
+  Takti hai rasta baali Sakina
+  Aao madad ko ae ibn-e-Zehra
 
   8
-  Zainab ne us ko naazoṅ se pala
-  Us ne jo khaya sine pe neza
-  Jalti zamiṅ par gir ke pukara
-  Zakhm-e-jigar ko maa se chhupana
-  Aao madad ko ae Ibn-e-Zehra
+  Zainab ne us ko naazoṅ se paala
+  Us ne jo khaaya sine pe naiza
+  Jalti zamiṅ par gir ke pukaara
+  Zakhm-e-jigar ko maaṅ se chhupaana
+  Aao madad ko ae ibn-e-Zehra
 
   9
-  Haye haye woh Asghar chhe maah wala
-  Ghutnoṅ ke bal bhi jo chal na paya
-  Us ka badan jo neze pe dekha
-  Baba ke sar se boli Sakina
+  Haae haae woh Asghar chhe maah waala
+  Ghutnoṅ ke bal bhi jo chalne na paaya
+  Us ka badan jo naize pe dekha
+  Baaba ke sar se boli Sakina
 
   10
-  Rehan o Kashif dasht e bala may
-  Majlis bapa thi sari fiza may
-  Zakir thi Zainab bhai ki apne
-  Masruf sab the aah o buka may
-  Tarpe the lashy ho kar wida jab
-  Zainab chali thi sue Madina
+  Rehan o Kashif dasht-e-bala mein
+  Majlis bapa thi saari fizaa mein
+  Zaakir thi Zainab bhai ki apne
+  Masruf sab the aah o buka mein
+  Tarpe the laashe ho kar widaa jab
+  Zainab chali thi su-e-Madina
 ---
 
 السلامُ علیکَ یا غریب حُسیناؑ

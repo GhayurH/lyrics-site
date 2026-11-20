@@ -1,40 +1,67 @@
 ---
-title: "Haye Sayyeda Zainab, Jaane Karbala Zainab"
+title: "ہائے سیدہ زینب، جانِ کربلا زینب"
+alternateTitle: "Haye Sayyeda Zainab, Jaane Karbala Zainab"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Sayyeda Zainab, jaane Karbala Zainab
+
+  1
+  Misle bawafa Zainab, oo gare jafa Zainab
+  Jinn-o-ins rote hai, keh ke jaan khote hai
+  Wa musibata Zainab, haye Sayyeda Zainab
+
+  2
+  Bani-e-aza Zainab, pehli zakira Zainab
+  Zulm-o-jaur sehne ki, ibteda tu ma ne ki
+  Tu hai inteha Zainab, haye Sayyeda Zainab
+
+  3
+  Raat ke andhere may, dushmano ke ghayre may
+  Dhoondti hai kya Zainab, haye Sayyeda Zainab
+
+  4
+  Dard-o-gham uthane ko, bangaya zamane ko
+  Tera naksh-e-pa Zainab, haye Sayyeda Zainab
+
+  5
+  Kitne raah may bichre, kya kya haadse guzre
+  Zulm sab saha Zainab, haye Sayyeda Zainab
+
+  6
+  Ay anees-e-zi Zainab, dard ki makeen Zainab
+  Haye Sayyeda Zainab, haye Sayyeda Zainab
 ---
 
-Haye Sayyeda Zainab, Jaane Karbala Zainab
+ہائے سیدہ زینب، جانِ کربلا زینب
 
-misle bawafa zainab, oo gare jafa zainab
+۱
+مثلِ باوفا زینب، خوگرِ جفا زینب
+جن و انس روتے ہیں، کہہ کے جان کھوتے ہیں
+وا مصیبتا زینب، ہائے سیدہ زینب
 
-jinn-o-ins rote hai, keh ke jaan khote hai
+۲
+بانیِ عزا زینب، پہلی ذاکرہ زینب
+ظلم و جور سہنے کی، ابتدا تو ماں نے کی
+تو ہے انتہا زینب، ہائے سیدہ زینب
 
-wa musibata zainab, haye sayyeda zainab
+۳
+رات کے اندھیرے میں، دشمنوں کے گھیرے میں
+ڈھونڈتی ہے کیا زینب، ہائے سیدہ زینب
 
-bani-e-aza zainab, pehli zakira zainab
+۴
+درد و غم اٹھانے کو، بن گیا زمانے کو
+تیرا نقشِ پا زینب، ہائے سیدہ زینب
 
-zulm-o-jaur sehne ki, ibteda tu ma ne ki
+۵
+کتنے راہ میں بچھڑے، کیا کیا حادثے گزرے
+ظلم سب سہا زینب، ہائے سیدہ زینب
 
-tu hai inteha zainab, haye sayyeda zainab
-
-raat ke andhere may, dushmano ke ghayre may
-
-dhoondti hai kya zainab, haye sayyeda zainab
-
-dard-o-gham uthane ko, bangaya zamane ko
-
-tera naksh-e-pa zainab, haye sayyeda zainab
-
-kitne raah may bichre, kya kya haadse guzre
-
-zulm sab saha zainab, haye sayyeda zainab
-
-ay anees-e-zi zainab, dard ki makeen zainab
-
-haye sayyeda zainab, haye sayyeda zainab
+۶
+اے انیسِ زی زینب، درد کی مکین زینب
+ہائے سیدہ زینب، ہائے سیدہ زینب

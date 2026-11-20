@@ -9,80 +9,52 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Darbar Mein Ye Kehti Thi Mir Hasan Mir"
-romanLyrics: 'Darbar Mein Ye Kehti Thi Mir Hasan Mir.
-
-  Darbar Mein Ye Kehti Thi Zahra Ki Ladli Mat Mar Tu Labon Pa Mere Bahi Ke Chari.
-
-  Zalim Hai Hath Joor Ke Ye Iltija Meri Mat Mar Tu Labon Pa Mere Bahi Ke Chari.
-
-  Jis Din Se Hum Aseer Hain Maa Sath Sath Hai.
-
-  Chehre Pa Ab Hussain Ke Amma Ka Hath Hai.
-
-  Zahra Sar-e-Hussain Se Lipti Hain Iss Ghari.
-
+romanLyrics: |-
+  Darbaar meiṅ ye kehti thi Zahra ki laadli
+  Mat maar tu laboṅ pe mere bhaai ke chhari
 
   1
-
-  Jalti Zameen Pa Fatima Ke Dil Ke Chain Ko.
-
-  Ye Zibha Hote Dekh Chuki Hai Hussain Ko.
-
-  Mazloom Ki Hai Samne Beti Khari Hoi.
-
+  Zaalim hai haath jor ke ye iltija meri
 
   2
-
-  Ik Bar Bas Aseer Saron Par Nigah Kar.
-
-  Ghazi Tarapta Hai Tere Har Aik Waar Par.
-
-  Tarpa Raha Hai Kyun Osse Marne Ke Bad Bhi.
-
+  Jis din se hum asir haiṅ maaṅ saath saath hai
+  Chehre pe ab Husain ke ammaṅ ka haath hai
+  Zahra sar-e-Husain se lipti hai is ghari
 
   3
-
-  Zulm-o-Sitam Se Tera Agar Dill Nahi Bhara.
-
-  Le Khowahre Hussain Se Badla Hussain Ka.
-
-  De Le Kuch Our Mujh Ko Saza Taziyano Ki.
-
+  Jalti zameeṅ pe Fatima ke dil ke chain ko
+  Ye zibah hote dekh chuki hai Husain ko
+  Mazlum ki hai saamne beti khari hui
 
   4
-
-  Zulfein Pakar Ke Pusht Se Kata Giya Ye Sar.
-
-  Kholi Ke Ghar Tandoor Mein Rakha Giya Yeh Sar.
-
-  Haye Aisi Bhi Kya Nabi Ke Nawase Se Dushmani.
-
+  Ik baar bas asir saroṅ par nigaah kar
+  Ghazi tarapta hai tere bas ek waar par
+  Tarpa raha hai kiuṅ use marne ke baad bhi
 
   5
-
-  Pehle Hi Sar Hussain Ka Zakhmi Hai Dekh Le.
-
-  Hum Se Zyda Wo Sar-e-Shabir Ne Sahe.
-
-  Bazaar Mein Jo Barse The Pathar Abhi Abhi.
-
+  Zulm o sitam se tera agar dil nahiṅ bhara
+  Le khwaahar-e-Husain se badla Husain ka
+  De le kuchh aur saza taaziyaanoṅ ki
 
   6
-
-  Iss Sar Se Aik Baal Bhi Toota Kabhi Agar.
-
-  Maa Raat Bhar Tarapti Thi Pehlu Mein Baith Kar.
-
-  Zalim Chala Na Qalab Pe Amma Ke Phir Chori.
-
+  Zulfeiṅ pakar ke pusht se kaata gaya ye sar
+  Khuni ke ghar tanur meiṅ rakha gaya ye sar
+  Aisi bhi kya Nabi ke nawaase se dushmani
 
   7
+  Pehle hi sar Husain ka zakhmi hai dekh le
+  Hum se ziyaada wo sar-e-Shabbir ne sahe
+  Baazaar meiṅ jo barse the patthar abhi abhi
 
-  Bint-e-Ali Ka:MIR TAKALLUM: Tha Ye Biaan.
+  8
+  Is sar se ek baal bhi tuta kabhi agar
+  Maaṅ raat bhar tarapti thi pehlu meiṅ baith kar
+  Zaalim chala na qalb pe ammaṅ ke ab chhuri
 
-  Ab Our Le Na Meri Khamoshi Ka Imtehaan.
-
-  Yeh Lab Hile Tu Ho Gi Qiyamat Bapa Abhi.'
+  9
+  Bint-e-Ali ka Mir Takallum tha ye bayaaṅ
+  Ab aur le na meri khamoshi ka imtihaaṅ
+  Ye lab hile to hogi qiyaamat bapa abhi
 ---
 
 دربار میں یہ کہتی تھی زہرا کی لاڈلی

@@ -12,61 +12,61 @@ aliases: []
 published: true
 reciter: "Hadi Ali Khan Muslim"
 romanLyrics: |-
-  Abid ki nigahoṅ meiṅ har karb ka manzar hai
+  Aabid ki nigaahoṅ meiṅ har karb ka manzar hai
 
   1
-  Yalghaar hai ghoroṅ ki aur Qasim-e-bepar hai
+  Yalghaar hai ghoroṅ ki aur Qaasim bepar hai
   Tuti hui barchhi hai aur sina-e-Akbar hai
   Hulqum-e-Ali Asghar aur tir-e-sitamgar hai
-  Naize ki bulandi hai aur phul sa ek sar hai
+  Neze ki bulandi hai aur phul sa ik sar hai
 
   2
   Hai aalam-e-tanhai aur zulm ka lashkar hai
-  Nargha hai lainoṅ ka aur jaan-e-Payambar hai
+  Nargha hai lainoṅ ka aur jaan-e-Paimbar hai
   Teghoṅ se badan zakhmi aur tiroṅ ka bistar hai
   Shabbir ki gardan hai aur Shimr ka khanjar hai
 
   3
-  Uthti hui talwareṅ chalte hue neze haiṅ
+  Uthti hui talwaareṅ chalte hue neze haiṅ
   Sab zakhmi badan goya mashkoṅ ke dahaane haiṅ
   Har simt se hamle haiṅ Abbas akele haiṅ
-  Pyase ka sar zakhmi aur gurz-e-sitamgar hai
+  Pyaase ka sar zakhmi aur gurz-e-sitamgar hai
 
   4
-  Karbal ke biyabaṅ meiṅ aasaar haiṅ mahshar ke
-  Bikhre hue maidaṅ meiṅ laashe haiṅ bahattar ke
-  Zainab ki nigahoṅ meiṅ sab zakhm haiṅ Sarwar ke
+  Karbal ke biyaabaaṅ meiṅ aasaar haiṅ mahshar ke
+  Bikhre hue maidaaṅ meiṅ laashe haiṅ bahattar ke
+  Zainab ki nigaahoṅ meiṅ sab zakhm haiṅ Sarwar ke
   Jalti hui reti hai aur laasha-e-besar hai
 
   5
-  Khamosh biyabaṅ hai aur shaam-e-gharibaṅ hai
-  Har aankh meiṅ ashkoṅ ka thehra hua tufaṅ hai
-  Bewaoṅ ka yatimoṅ ka ab kaun nigehbaṅ hai
-  Jalte hue khaime haiṅ chhinti hui chadar hai
+  Khaamosh biyaabaaṅ hai aur shaam-e-gharibaaṅ hai
+  Har aankh meiṅ ashkoṅ ka thehra hua tufaaṅ hai
+  Bewaoṅ ka yatimoṅ ka ab kaun nigehbaaṅ hai
+  Jalte hue khaime haiṅ chhinti hui chaadar hai
 
   6
   Bazaar meiṅ sar nange Ahmad ka gharana hai
   Jakra hua rassi meiṅ har Bibi ka shaana hai
-  Is haal meiṅ Zainab ko darbar bhi jaana hai
-  Har simt tamashai Zainab ka khula sar hai
+  Is haal meiṅ Zainab ko darbaar bhi jaana hai
+  Har simt tamaashaai Zainab ka khula sar hai
 
   7
-  Hai pusht-e-Sakina par durroṅ ke nishaṅ saare
-  Kaanoṅ se lahu jaari rukhsar bhi haiṅ sujhe
+  Hai pusht-e-Sakina par durroṅ ke nishaaṅ saare
+  Kaanoṅ se lahu jaari rukhsaar bhi haiṅ sujhe
   Zakhmoṅ meiṅ jalan jaise bhar de koi angaare
   Har lamha tamaanche haiṅ har gaam pe mahshar hai
 
   8
-  Darbar meiṅ qaidi hai aulad-e-Payambar ki
-  Sar tasht meiṅ Sarwar ka kaisi ye adawat thi
+  Darbaar meiṅ qaidi hai aulaad-e-Paimbar ki
+  Sar tasht meiṅ Sarwar ka kaisi ye adaawat thi
   Hontoṅ pe Shah-e-diṅ ke zaalim ne chhari rakhi
   Zainab ki nazar har dam bhai ke laboṅ par hai
 
   9
-  Wo sajda-e-shukrana hangaam-e-qayamat meiṅ
+  Wo sajda-e-shukraana hangaam-e-qayamat meiṅ
   Chalta raha kaantoṅ par jo dhup ki shiddat meiṅ
-  Rote haiṅ sada Ahsan hum jis ki musibat meiṅ
-  Us ke liye nazrana ashkoṅ ka samandar hai
+  Rote haiṅ sadaa Ahsan hum jis ki musibat meiṅ
+  Us ke liye nazraana ashkoṅ ka samandar hai
 ---
 
 عابد کی نگاہوں میں ہر کرب کا منظر ہے

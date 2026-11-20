@@ -1,7 +1,7 @@
 ---
 title: "مُصیبت کی گھڑی اور شام کے بڑھتے ہوئے سائے"
 recitationId: "shaam-ke-badte-hue"
-alternateTitle: "Shaam Ke Barte Hue"
+alternateTitle: "Shaam Ke Barhte Hue"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,7 +15,7 @@ romanLyrics: |-
   Tarapti reh gayi maaṅ aur Ali Akbar nahiṅ aaye
 
   1
-  Guzar jaana hi likha hai jawaani meiṅ agar ya Rab
+  Guzar jaana hi likha hai jawaani mein agar ya Rab
   Guzarne se Ali Akbar ke pehle maaṅ guzar jaati
 
   2
@@ -23,12 +23,12 @@ romanLyrics: |-
   Nazar ke saamne jis ke jawaaṅ beta sinaaṅ khaaye
 
   3
-  Jawaaṅ ki laash piri meiṅ uthaana ek qayaamat hai
-  Ye din Allah dunya meiṅ kisi ko bhi na dikhlaaye
+  Jawaaṅ ki laash piri mein uthaana ik qayaamat hai
+  Ye din Allah dunya mein kisi ko bhi na dikhlaaye
 
   4
-  Sambhal kar khinchiyega qalb-e-Akbar se sinaaṅ Maula
-  Ulajh kar nok-e-neza meiṅ jigar baahar na aa jaaye
+  Sambhal kar khinchiye ga qalb-e-Akbar se sinaaṅ Maula
+  Ulajh kar nok-e-neza mein jigar baahar na aa jaaye
 
   5
   Zamiṅ tharra gayi Akbar ka laasha rakh ke reti par
@@ -36,10 +36,10 @@ romanLyrics: |-
 
   6
   Ze sar taa paaoṅ zakhmi ho gaya lakht-e-dil-e-Zehra
-  Lainoṅ ne tan-e-Sarwar pe itne tir barsaaye
+  La'inoṅ ne tan-e-Sarwar pe itne tir barsaaye
 
   7
-  Maiṅ zaakir huṅ Husain Ibn-e-Ali ka ye dua kijiye
+  Main zaakir huṅ Husain Ibn-e-Ali ka ye dua kijiye
   Sharaf ye nasl se meri qayaamat tak nahiṅ jaaye
 ---
 مُصیبت کی گھڑی اور شام کے بڑھتے ہوئے سائے

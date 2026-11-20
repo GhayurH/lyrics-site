@@ -16,7 +16,7 @@ romanLyrics: |-
   Assalaam alaika ae Ruqayya o Sakina
   Assalaam alaika ae Umm-e-Laila o Rabaab
   Assalaam alaika ae Fatima o Fizza o Lubaaba
-  Assalaam alaika ae Ahl-e-Bait-un-nubuwwa
+  Assalaam alaika ae Ahl-e-Bait-e-nubuwwa
   Assalaam alaika ae haram-e-Ansaar o aizza
   Alaika minni salaam
   Aal-e-Sayyid-un-nisa dukhtaraan-e-Murtaza
@@ -37,13 +37,13 @@ romanLyrics: |-
   3
   Haae mera bhaai qatl ho gaya Furaat par
   Kuchh maza nahiṅ raha hai meri is hayaat par
-  Reh gaya akela maiṅ ho gaye juda akhi
+  Reh gaya akela main ho gaye juda akhi
   Ho gaye juda akhi zindagi muhaal hai
   Al-firaaq alwidaa al-firaaq alwidaa
 
   4
   Mera bezubaaṅ jahaaṅ se tashna lab guzar gaya
-  Aab ke sawaal par saghir ka gala chhida
+  Aab ke sawaal par Saghir ka gala chhida
   Sula ke us ko qabr meiṅ aba ko apni jhaar ke
   Aba ko apni jhaar ke Rabaab ham bhi jaate haiṅ
   Al-firaaq alwidaa al-firaaq alwidaa

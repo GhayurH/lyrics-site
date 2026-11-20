@@ -30,7 +30,7 @@ romanLyrics: |-
   Surat to khudaara dikhlaae
   Achhe mere baba...
   Jis qaid meiṅ hum ko rakha gaya
-  Ahwaal bara wo tha us ka
+  Ahwaal baraa wo tha us ka
   Qaidi ke bhi rehne ke qaabil
   Wo qaid nahiṅ hai ae baba
   Achhe mere baba...
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kuch is ka pata chalta hi nahiṅ
   Achhe mere baba...
   Dar lagta hai is viraane meiṅ
-  Tauqir na kije aane meiṅ
+  Tauqir na kijiye aane meiṅ
   Kya zulm na hote hum par
   Is haam ke qaid khaane meiṅ
   Achhe mere baba...
@@ -57,7 +57,7 @@ romanLyrics: |-
   Kiuṅ sunte nahiṅ haiṅ aah o fughaaṅ
   Faryaad kare kis se bejaaṅ
   Pardes hai zaalim hai duniya
-  Imdaad karega kaun yahaaṅ
+  Imdaad kare ga kaun yahaaṅ
   Achhe mere baba...
   Har lamha bulaati thi dukhiya
   Har lamha ye parhti thi nauha

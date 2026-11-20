@@ -15,18 +15,18 @@ romanLyrics: |-
   Ae mere kariyal jawaaṅ ae mere kariyal jawaaṅ
   Ae pisar-e-naujawaaṅ ae pisar-e-naujawaaṅ
 
-  Pit ke sar dasht meiṅ nauha ye karti thi maaṅ
+  Pit ke sar-e-dasht mein nauha ye karti thi maaṅ
   Ae mere kariyal jawaaṅ ae mere kariyal jawaaṅ
 
   1
   Tu hi tha mera sukuṅ tujh se tha aabaad ghar
   Jaate hi tere mera ho gaya barbaad ghar
-  Dasht meiṅ ab dhundne tujh ko maiṅ jaauṅ kahaaṅ
+  Dasht mein ab dhundne tujh ko main jaauṅ kahaaṅ
 
   2
-  Tu tha kameini meri tu hi tha haasil mera
+  Tu tha kamaai meri tu hi tha haasil mera
   Barchhi lagi hai tujhe zakhmi hua dil mera
-  Khun mere dil se bhi hone laga hai rawaaṅ
+  Khun mera dil se bhi hone laga hai rawaaṅ
 
   3
   Zulm ye kaisa hua haae sar-e-Karbala
@@ -34,8 +34,8 @@ romanLyrics: |-
   Rota hai Akbar tujhe khaimoṅ se uthta dhuaaṅ
 
   4
-  Ashk bahaauṅ gi maiṅ khaak uraauṅ gi maiṅ
-  Roti rahuṅ gi sada sab ko rulaauṅ gi maiṅ
+  Ashk bahaauṅ gi main khaak uraauṅ gi main
+  Roti rahuṅ gi sada sab ko rulaauṅ gi main
   Hoga laboṅ par mere nauha tera hi rawaaṅ
 
   5
@@ -44,22 +44,22 @@ romanLyrics: |-
   Roe gi Akbar tujhe jaae gi maadar jahaaṅ
 
   6
-  Jab maiṅ sunuṅ gi azaaṅ yaad teri aae gi
+  Jab main sunuṅ gi azaaṅ yaad teri aae gi
   Khun har ek gaam pe yaad ye rulwaae gi
-  Dil mera phat jaae ga jab maiṅ sunuṅ gi azaaṅ
+  Dil mera phat jaae ga jab main sunuṅ gi azaaṅ
 
   7
-  Kis tarah ab laut ke jaauṅ gi maiṅ Karbala
-  Kya kahuṅ Sughra ko maiṅ itna to maaṅ ko bata
-  Gham tera Sughra se maiṅ kaise karuṅ gi bayaaṅ
+  Kis tarah ab laut ke jaauṅ gi main Karbala
+  Kya kahuṅ Sughra ko main itna to maaṅ ko bata
+  Gham tera Sughra se main kaise karuṅ gi bayaaṅ
 
   8
-  God ke paale mere paas bula le mujhe
+  God ke paale mere paas bulaa le mujhe
   Zulm o sitamgaar se aa ke bachaa le mujhe
-  Baandh rahe haiṅ laiṅ shaanoṅ meiṅ ab rismaaṅ
+  Baandh rahe haiṅ la'iṅ shaanoṅ mein ab rismaaṅ
 
   9
-  Nur Ali lab pe hai sab ke hi aah o buka
+  Nur Ali lab pe hai sab ke hi aah o bukaa
   Chhaai hai chaaroṅ taraf ranj o alam ki ghata
   Nasir Zaidi kare kis tarah ye gham bayaaṅ
 ---

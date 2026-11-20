@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Aasmaan par rehne wale mere ghar pe aa gaye Saleem Mastan
-  Aik majlis hi rakhi thi sab utar kar aa gaye
+  Ek majlis hi rakhi thi sab utar kar aa gaye
 
   1
-  Majlis e Shabbir ka yeh bhi humein sadqa mila
-  Anbiya baithe jahan par hum barabar aa gaye
-  Kitne chehre khil gaye our kitne shajray khul gaye
-  Hum tu mehfil mein faqt narah laga kar aa gaye
+  Majlis-e-Shabbir ka yeh bhi hameiṅ sadqa mila
+  Anbiya baithe jahaaṅ par hum baraabar aa gaye
+  Kitne chehre khil gaye aur kitne shajre khul gaye
+  Hum to mehfil mein faqat naara laga kar aa gaye
 
   2
-  Gaud mein Akbar ke le kar Sheh ne ro kar yeh kaha
-  Dekho Zainab phir se nana mere ghar par aa gaye
-  Jab Ali Akbar ki khushbo se mehak utha jahan
-  Log Sheh se pochte they kya payambar aa gaye
+  God mein Akbar ke le kar Sheh ne ro kar yeh kaha
+  Dekho Zainab phir se naana mere ghar par aa gaye
+  Jab Ali Akbar ki khushbu se mehak utha jahaaṅ
+  Log Sheh se puchhte the kya payambar aa gaye
 
   3
-  Sun ke Zainab ki khitabat san raseda kehte they
-  Hum ghalat hain ya yahan par sach mein Haider aa gaye
-  Sheh pe marne ka maza maloom tha tum ko Habib
-  Iss liye tum jan dene bar e degar aa gaye
+  Sun ke Zainab ki khitaabat sin rasida kehte the
+  Hum ghalat haiṅ ya yahaaṅ par sach mein Haider aa gaye
+  Sheh pe marne ka maza maalum tha tum ko Habib
+  Is liye tum jaan dene baar-e-digar aa gaye
 
   4
-  Zarf hai shart is liye Salman se baton ke beech
-  Chup hoye aksar Ali khud jab Abuzar aa gaye
-  Dekh kar jannat ko sare matami kehte the yeh
-  Yeh tu hum phir se zameen e Karbala par aa gaye
+  Zarf hai shart is liye Salman se baatoṅ ke bich
+  Chup hue aksar Ali khud jab Abuzar aa gaye
+  Dekh kar jannat ko saare maatami kehte the yeh
+  Yeh to hum phir se zamin-e-Karbala par aa gaye
 
   5
-  Josh mein aaye they sab ke sab Nabi ko marne
-  Sote Haider ko jo paya sab ko chakar aa gaye
-  Aagay ur Jibreel se shehpar ka sadqa hai yeh
-  Iss ke Fitrus sirf par hain tere shehpar aa gaye
+  Josh mein aaye the sab ke sab Nabi ko maarne
+  Sote Haider ko jo paaya sab ko chakkar aa gaye
+  Aage ur Jibril se shehpar ka sadqa hai yeh
+  Is ke Fitrus sirf par haiṅ tere shehpar aa gaye
 
   6
-  Tu waselay ka hai munkir phir Nabi se poch yeh
-  Kyun shifa ke wastay woh zair e chadar aa gaye
-  Dekh kar yeh manqabat Fazil se kehte they malak
-  Tum tu bakhshish ka hawala sath le kar aa gaye
+  Tu wasile ka hai munkir phir Nabi se puchh yeh
+  Kiuṅ shifa ke waaste woh zer-e-chaadar aa gaye
+  Dekh kar yeh manqabat Fazil se kehte the malak
+  Tum to bakhshish ka hawaala saath le kar aa gaye
 ---
 
 آسمان پر رہنے والے میرے گھر پہ آ گئے سلیم مستان

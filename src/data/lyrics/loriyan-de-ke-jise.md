@@ -24,10 +24,10 @@ romanLyrics: |-
 
   3
   Kaanoṅ se lahu behta hai rukhsaar haiṅ nile
-  Is haal meiṅ dushwaar hai ik saaṅs bhi lena
+  Is haal meiṅ dushwaar hai ik saans bhi lena
   Nind aati nahiṅ khaak ke bistar pe mujhe to
   Ammaaṅ mujhe kiuṅ milta nahiṅ baba ka sina
-  Shimr bhulegi bhala kaise tamaache tere
+  Shimr bhule gi bhala kaise tamaache tere
   Chain maasuma ne mar kar bhi na paaya hoga
 
   4

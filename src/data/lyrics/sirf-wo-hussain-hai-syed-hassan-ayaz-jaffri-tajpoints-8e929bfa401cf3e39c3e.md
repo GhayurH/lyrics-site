@@ -1,37 +1,64 @@
 ---
-title: "Sirf Wo Hussain Hai Syed Hassan Ayaz Jaffri"
+title: "صرف وہ حسین ہے"
+alternateTitle: "Sirf Wo Hussain Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sirf wo Hussain hai Syed Hassan Ayaz Jaffri
+
+  1
+  Baqa-e-deen-e-Mustafa sirf woh Hussain hai
+  Khuda ka hai yeh faisla sirf woh Hussain hai
+  Yazidiyat ko jis ne jalti khak mein mila diya
+  Jarri dalair sorma sirf woh Hussain hai
+  Tujhe yeh izzat-o-waqar kis jarri ne de diya
+  Pukar uthi Karbala sirf woh Hussain hai
+
+  2
+  Thi maut chaar so jahan wahan bhi badshah jo
+  Hayat bantta raha sirf woh Hussain hai
+  Hussain-o-Mini se yeh baat saaf saaf ho gayi
+  Nahi hai koi dosra sirf woh Hussain hai
+  Woh dasht jis mein har taraf kharey hoye they Hurmala
+  Wahan bhi jis ko Hur mila sirf woh Hussain hai
+
+  3
+  Khuda ne kainat ke sabhi bashar ko ghar diye
+  Khuda ko jis ne ghar diya sirf woh Hussain hai
+  Ajal ko jis ne maat di galay se taig kaat di
+  Kiya yeh jis ne mojza sirf woh Hussain hai
+  Khuda ko kis pe naaz hai sawal jab bhi yeh howa
+  Kahey ga Gohar e wila sirf woh Hussain hai
 ---
 
-Sirf Wo Hussain Hai Syed Hassan Ayaz Jaffri.
+صرف وہ حسین ہے سید حسن ایاز جعفری
 
-1
-Baqa-e-Deen-e-Mustafa Sirf Woh Hussain Hai.
-Khuda Ka Hai Yeh Faisla Sirf Woh Hussain Hai.
-Yazidiyat Ko Jis Ne Jalti Khak Mein Mila Diya.
-Jarri Dalair Sorma Sirf Woh Hussain Hai.
-Tujhe Yeh Izzat-o-Waqar Kis Jarri Ne De Diya.
-Pukar Uthi Karbala Sirf Woh Hussain Hai.
+۱
+بقائے دینِ مصطفیٰ صرف وہ حسین ہے
+خدا کا ہے یہ فیصلہ صرف وہ حسین ہے
+یزیدیت کو جس نے جلتی خاک میں ملا دیا
+جری دلیر سورما صرف وہ حسین ہے
+تجھے یہ عزت و وقار کس جری نے دے دیا
+پکار اٹھی کربلا صرف وہ حسین ہے
 
-2
-Thi Maut Chaar So Jahan Wahan Bhi Badshah Jo.
-Hayat Bantta Raha Sirf Woh Hussain Hai.
-Hussain-o-Mini Se Yeh Baat Saaf Saaf Ho Gayi.
-Nahi Hai Koi Dosra Sirf Woh Hussain Hai.
-Woh Dasht Jis Mein Har Taraf Kharey Hoye They Hurmala.
-Wahan Bhi Jis Ko Hur Mila Sirf Woh Hussain Hai.
+۲
+تھی موت چار سو جہاں وہاں بھی بادشاہ جو
+حیات بانٹتا رہا صرف وہ حسین ہے
+حسینٌ منّی سے یہ بات صاف صاف ہو گئی
+نہیں ہے کوئی دوسرا صرف وہ حسین ہے
+وہ دشت جس میں ہر طرف کھڑے ہوئے تھے حرملہ
+وہاں بھی جس کو حر ملا صرف وہ حسین ہے
 
-3
-Khuda Ne Kainat Ke Sabhi Bashar Ko Ghar Diye.
-Khuda Ko Jis Ne Ghar Diya Sirf Woh Hussain Hai.
-Ajal Ko Jis Ne Maat Di Galay Se Taig Kaat Di.
-Kiya Yeh Jis Ne Mojza Sirf Woh Hussain Hai.
-Khuda Ko Kis Pe Naaz Hai Sawal Jab Bhi Yeh Howa.
-Kahey Ga Gohar E Wila Sirf Woh Hussain Hai.
+۳
+خدا نے کائنات کے سبھی بشر کو گھر دیے
+خدا کو جس نے گھر دیا صرف وہ حسین ہے
+اجل کو جس نے مات دی گلے سے تیغ کاٹ دی
+کیا یہ جس نے معجزہ صرف وہ حسین ہے
+خدا کو کس پہ ناز ہے سوال جب بھی یہ ہوا
+کہے گا گوہرِ ولا صرف وہ حسین ہے

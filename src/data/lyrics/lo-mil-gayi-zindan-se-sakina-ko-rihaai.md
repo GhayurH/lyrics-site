@@ -9,68 +9,42 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Inna Lillah e Wa Inna Elahi Ra’ji’oon
-
-  Lo mil gai zindaan say Sakina ko rahai (2)
-
+romanLyrics: |-
+  Inna lillah o inna ilaih raajiun
+  Lo mil gai zindaaṅ se Sakina ko rihaai
 
   1
-
-  Sajjad nay ye kehtay hoay laash uthai
-
+  Sajjad ne ye kehte hue laash uthaai
 
   2
-
-  Baba chalay aao k mai ten’ha hun yahan per
-
-  Bus itna bata jao k dafna’un kahan pr
-
-  Kia qaid may he dafn keray behan ko bhai
-
+  Baba chale aao ke main tanha huṅ yahaaṅ par
+  Bas itna bata jaao ke dafnaauṅ kahaaṅ par
+  Kya qaid mein hi dafn kare behan ko bhaai
 
   3
-
-  Ghar janay ki hasrat tu baraber na hoi per
-
-  Dam tot gaya hu gai azad tu dukhtar
-
-  Maa beti ka mun chom k deti the duhai
-
+  Ghar jaane ki hasrat to baraabar na hui par
+  Dam tut gaya ho gai aazaad tu dukhtar
+  Maaṅ beti ka munh chum ke deti thi duhaai
 
   4
-
-  Ab shimr tamanchay na isay mar sakay ga
-
-  Araam say soay ge tahay khak ye dukhiya
-
-  Laashay say ye he kehti rahi Fatima jai
-
+  Ab Shimr tamaanche na ise maar sake ga
+  Aaraam se soye gi tah-e-khaak ye dukhiya
+  Laashe se ye hi kehti rahi Fatima jaai
 
   5
-
-  Bhai nay zameen khod k jb qabr sanwaari
-
-  Rotay hoay mayyat samet turbat jo utari
-
-  Zindaan ki dewaarun say awaz ye i
-
+  Bhaai ne zameen khod ke jab qabr sanwaari
+  Rote hue mayyat samet turbat jo utaari
+  Zindaan ki deewaaroṅ se aawaaz ye aai
 
   6
-
-  Band aankhain kiay qabr may araam keray ge
-
-  Maa shana hilatai rahay phir bhi na uthay ge
-
-  Yun maut nay lori hai Sakina ko sunai
-
+  Band aankheṅ kiye qabr mein aaraam kare gi
+  Maaṅ shaana hilaati rahe phir bhi na uthe gi
+  Yuṅ maut ne lori hai Sakina ko sunaai
 
   7
-
-  Abid pe takallum wo musebat ki ghari the
-
-  Jin haathun may kheli the wo masoom c bachi
-
-  Un haathun nay turbat bhi Sakina ki bnai'
+  Aabid pe Takallum wo museebat ki ghari thi
+  Jin haathoṅ mein kheli thi wo maasum si bachchi
+  Un haathoṅ ne turbat bhi Sakina ki banaai
 ---
 
 انّا للّٰہ و انّا الہيہ راجعون

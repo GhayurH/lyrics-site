@@ -50,12 +50,12 @@ romanLyrics: |-
   7
   Bimaar par ghashi hai bistar bhi jal chuka hai
   Abbas aao Zainab balwe meiṅ berida hai
-  Jalte hue qayaam se utha ye shor o shain
+  Jalte hue qiyaam se utha ye shor o shain
 
   8
   Mahshar talak Mohib ye maatam rahega jaari
   Armaan-e-Sayyida hai girya ye aah o zaari
-  Imaan farhse gham hai maatam hai nasb o laiin
+  Imaan farsh-e-gham hai maatam hai nasb o laain
 ---
 یا حسین یا حسین یا حسین یا حسین
 

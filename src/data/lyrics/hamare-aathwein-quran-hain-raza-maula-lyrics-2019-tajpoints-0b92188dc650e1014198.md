@@ -1,32 +1,53 @@
 ---
-title: "Hamare Aathwein Quran Hain Raza Maula Lyrics 2019"
+title: "ہمارے آٹھویں قرآن ہیں رضا مولا"
+alternateTitle: "Hamare Aathwein Quran Hain Raza Maula"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hamare aathwein Quran hain Raza Maula
+  Khuda ka deen pe ahsan hain Raza Maula
+
+  1
+  Zamane walon na Mashhad talak kaho mehdod
+  Qasam se Malik-e-Iran hain Raza Maula
+  Jo bheek detey hain sare zamane ko Maula
+  Tumhare dar ke woh darban hain Raza Maula
+
+  2
+  Hai jashan ghar pe mere Shehzadi-e-Qum ka
+  Khasosi aaj ke mehman hain Raza Maula
+  Na aagay bolo Nakerain se kaha main ne
+  Keh mere Syed-o-Sultan hain Raza Maula
+
+  3
+  Yeh baat mujh ko samajh aa gayi thi Mashhad mein
+  Riza-e-Rab-e-Meharban hain Raza Maula
+  Qasam tumhari hai Afraz ki sabhi pushtein
+  Tumhare naam pe qurban hain Raza Maula
 ---
 
-Hamare Aathwein Quran Hain Raza Maula.
-Khuda Ka Deen Pe Ahsan Hain Raza Maula.
+ہمارے آٹھویں قرآن ہیں رضا مولا
+خدا کا دین پہ احسان ہیں رضا مولا
 
-1
-Zamane Walon Na Mashhad Talak Kaho Mehdod.
-Qasam Se Malik-e-Iran Hain Raza Maula.
-Jo Bheek Detey Hain Sare Zamane Ko Maula.
-Tumhare Dar Ke Woh Darban Hain Raza Maula.
+۱
+زمانے والو نہ مشہد تلک کہو محدود
+قسم سے مالکِ ایران ہیں رضا مولا
+جو بھیک دیتے ہیں سارے زمانے کو مولا
+تمہارے در کے وہ دربان ہیں رضا مولا
 
-2
-Hai Jashan Ghar Pe Mere Shehzadi-e-Qum Ka.
-Khasosi Aaj Ke Mehman Hain Raza Maula.
-Na Aagay Bolo Nakerain Se Kaha Main Ne.
-Keh Mere Syed-o-Sultan Hain Raza Maula.
+۲
+ہے جشن گھر پہ میرے شہزادیِ قم کا
+خصوصی آج کے مہمان ہیں رضا مولا
+نہ آگے بولو نکیرین سے کہا میں نے
+کہ میرے سید و سلطان ہیں رضا مولا
 
-3
-Yeh Baat Mujh Ko Samajh Aa Gayi Thi Mashhad Mein.
-Riza-e-Rab-e-Meharban Hain Raza Maula.
-Qasam Tumhari Hai Afraz Ki Sabhi Pushtein.
-Tumhare Naam Pe Qurban Hain Raza Maula.
+۳
+یہ بات مجھ کو سمجھ آ گئی تھی مشہد میں
+رضائے ربِ مہربان ہیں رضا مولا
+قسم تمہاری ہے افراز کی سبھی پشتیں
+تمہارے نام پہ قربان ہیں رضا مولا

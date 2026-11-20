@@ -7,6 +7,39 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haaye chum ke sina, roti hai Sakina
+
+  1
+  Dhunde tumheṅ maqtal mein, kahaaṅ jaa ke hazina
+
+  2
+  Baaba mujhe mitti pe ab nind nahiṅ aati
+  Kis jaa pe ho maqtal mein, aawaaz to dena
+
+  3
+  Baaba tere qaatil se main kehti rahi ro ke
+  Mat chhin mere gohar, ye durr ye nagina
+
+  4
+  Sar apna kahaaṅ rakhuṅ mere baaba bata mujh ko
+  Talwaaroṅ se tiroṅ se, koi jaa bhi bachi naa
+
+  5
+  Jab aakhiri zarbat ka khanjar tha rawaaṅ tujh par
+  Baaba teri beti ka, dushwaar tha jina
+
+  6
+  Abbaas ke dariya par donoṅ baazu qalam ho gaye
+  Ab paani na maanguṅ gi, chaacha ko bulaana
+
+  7
+  In Shaam ki raahoṅ pe mar jaauṅ gi main pyaasi
+  Lekin tere qaatil se, paani nahiṅ pina
+
+  8
+  Rizwaan ne likha hai maqtal ka bayaaṅ ro kar
+  Ek baaba ke laashe pe, ik beti ka rona
 ---
 
 ہائے چوم کے سینہ، روتی ہے سکینہؑ

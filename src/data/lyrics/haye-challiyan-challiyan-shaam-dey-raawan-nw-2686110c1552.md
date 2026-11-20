@@ -1,24 +1,48 @@
 ---
-title: "Haye Challiyan, Challiyan Shaam Dey Raawan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے چلّیاں، چلّیاں شام دے راہواں"
+alternateTitle: "Haye Challiyan, Challiyan Shaam Dey Raawan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Haye challiyan, challiyan Shaam dey raawan nu, behna dard sathaiyaan
+
+  Veeran diyan lashaan tey, paa rasiyan rovan kalliyan, Zahra dhiyan jaiyaan
+
+  1
+  Har bibi ney alwadi keh kay, laash Abbas tey ay vain keeta, mukh saray maan gaye, Ghazi teray baajo chadran, aa Shimmr ney laiyaan
+
+  2
+  Ay nabi zaadiyan ney pardey lai, mu lukaya ay naal vaalan dey, qismat diyan palliyan ney, sir vaalan dey parday lai, sir mittiyan ney paiyaan
+
+  3
+  Aa gaiyan qaid hokay Shaam dey wich, naal leh kay beemar qaidi nu, putraan nu vaar gaiyaan, nanay dey deen ton ainah, chadraan vi lutaiyaan
+
+  4
+  Wich rawaan Sakina roh roh kay, neel rukhsaar tey vahaandi ay, har qadam qadam mur kay, Ghazi di saang nu tak kay, deyndi ay dhuhaiyaan
+
+  5
+  Akh da ay beemar ghash khake, keewein akhiyan chon khoon ruk jaavey, phuppiyan nu takeya ay, darbaaran dey wich khariyan, hai naal sipaiyaan
 ---
 
-Haye challiyan, challiyan shaam dey raawan nu, behna dard sathaiyaan
+ہائے چلّیاں، چلّیاں شام دے راہواں نوں، بہناں درد ستائیاں
 
-veeran diyan lashaan tey, paa rasiyan rovan kalliyan, zahra dhiyan jaiyaan
+ویراں دیاں لاشاں تے، پا رسیاں روون کلّیاں، زہرا دھیاں جائیاں
 
-har bibi ney alwadi keh kay, laash abbas tey ay vain keeta, mukh saray maan gaye, ghazi teray baajo chadran, aa shimmr ney laiyaan
+۱
+ہر بی بی نے الوداع کہہ کے، لاش عباس تے اے وین کیتا، مکھ سارے مان گئے، غازی تیرے باجھوں چادراں، آ شمر نے لئیاں
 
-ay nabi zaadiyan ney pardey lai, mu lukaya ay naal vaalan dey, qismat diyan palliyan ney, sir vaalan dey parday lai, sir mittiyan ney paiyaan
+۲
+اے نبی زادیاں نے پردے لئی، منہ لکایا اے نال والاں دے، قسمت دیاں پلّیاں نے، سر والاں دے پردے لئی، سر مٹیاں نے پائیاں
 
-aa gaiyan qaid hokay shaam dey wich, naal leh kay beemar qaidi nu, putraan nu vaar gaiyaan, nanay dey deen ton ainah, chadraan vi lutaiyaan
+۳
+آ گئیاں قید ہو کے شام دے وچ، نال لے کے بیمار قیدی نوں، پتراں نوں وار گئیاں، نانے دے دین توں اینہاں، چادراں وی لٹائیاں
 
-wich rawaan sakina roh roh kay, neel rukhsaar tey vahaandi ay, har qadam qadam mur kay, ghazi di saang nu tak kay, deyndi ay dhuhaiyaan
+۴
+وچ راہواں سکینہ رو رو کے، نیل رخسار تے وہاندی اے، ہر قدم قدم مڑ کے، غازی دی سانگ نوں تک کے، دیندی اے دہائیاں
 
-Akh da ay beemar ghash khake, keewein akhiyan chon khoon ruk jaavey, phuppiyan nu takeya ay, darbaaran dey wich khariyan, hai naal sipaiyaan
+۵
+آکھ دا اے بیمار غش کھا کے، کیویں اکھیاں چوں خون رک جاوے، پھپھیاں نوں تکیا اے، درباراں دے وچ کھڑیاں، ہے نال سپاہیاں

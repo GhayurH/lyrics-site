@@ -1,61 +1,112 @@
 ---
-title: "Ali Ya Ali Adrikni"
+title: "علی یا علی ادرکنی"
+alternateTitle: "Ali Ya Ali Adrikni"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali ya Ali adrikni
+
+  1
+  Ali malja Ali mawa hai Ali khair-ul-wara
+  Ali sultaan Ali ahsaan Ali dast-e-Mustafa
+  Ali aaqa Ali mula Ali ayat-ul-huda
+  Ali Kaba Ali qibla hai Ali shair-e-khuda
+  Kabay ko tu ne qibla banaya
+  Quran se pehle Quraan sunaya
+
+  2
+  Ali naimat Ali janat Ali madan al-sawab
+  Ali dana Ali bina indaho ilm-ul-kitab
+  Ali qazi Ali aqza indaho faslul khitab
+  Ali shahid Ali adil hakimo youm-ul-hisab
+  Khair-ul-Bariya khair-ul-khulaqa
+  Khair-ul-Waseen khair-ul-aouliya
+
+  3
+  Ali abid Ali sajid Ali noor-e-lam yazal
+  Ali alim Ali ilm-o-Ali amil-o-amal
+  Ali zaigham Ali arqam fateh-e-janag-e-Jamal
+  Sar-e-Maidaan sab farari mera mula hai atal
+  Teri muhabbat ain-e-ibadat
+  Teri adawat lanat hi lanat
+
+  4
+  Ali aala Ali aola hai Ali kaif-al-wara
+  Ali Adam Ali Younus hai Ali shams-uz-zaha
+  Ali Saleh Ali Yousuf hai Ali badar-ul-duja
+  Ali Musa Ali Esa Ali hamil-al-liwa
+  Nooh ka safina tu ne bachaya
+  Mulk-e-Sulemaan tu ne chalaya
+
+  5
+  Ali Quraan Ali Furqaan Ali hadi-ul-rasheed
+  Ali sarwar Ali afsar Ali ashja-al-waheed
+  Ali safdar Ali Haider Ali albas-ul-shadeed
+  Ali Yaseen Ali Taha Ali sorah-e-Hadeed
+  Chalti hai ran mein jab teri talwar
+  Ghar ka buhadur hota hai farrar
+
+  6
+  Ali masjid Ali mimber Ali alhab-ul-mateen
+  Ali noran Ali toran Ali alshams-al-yaqeen
+  Ya khitabo ya kitabo ya imam-al-mutaqeen
+  Ya adeebo ka khateebo ya wajih-al-aalameen
+  Majid suna do sab ko bata do
+  Mushkil jab aaye bas yeh sada do
 ---
 
-Ali Ya Ali Adrikni.
+علی یا علی ادرکنی
 
-1
-Ali Malja Ali Mawa Hai Ali Khair-ul-Wara.
-Ali Sultaan Ali Ahsaan Ali Dast-e-Mustafa.
-Ali Aaqa Ali Mula Ali Ayat-ul-Huda.
-Ali Kaba Ali Qibla Hai Ali Shair-e-Khuda.
-Kabay Ko Tu Ne Qibla Banaya.
-Quran Se Pehle Quraan Sunaya.
+۱
+علی ملجا علی ماویٰ ہے علی خیر الوریٰ
+علی سلطان علی احسان علی دستِ مصطفیٰ
+علی آقا علی مولا علی آیت الہدیٰ
+علی کعبہ علی قبلہ ہے علی شیرِ خدا
+کعبے کو تو نے قبلہ بنایا
+قرآن سے پہلے قرآن سنایا
 
-2
-Ali Naimat Ali Janat Ali Madan Al-Sawab.
-Ali Dana Ali Bina Indaho Ilm-ul-Kitab.
-Ali Qazi Ali Aqza Indaho Faslul Khitab.
-Ali Shahid Ali Adil Hakimo Youm-ul-Hisab.
-Khair-ul-Bariya Khair-ul-Khulaqa.
-Khair-ul-Waseen Khair-ul-Aouliya.
+۲
+علی نعمت علی جنت علی معدن الثواب
+علی دانا علی بینا عندہ علم الکتاب
+علی قاضی علی اقضیٰ عندہ فصل الخطاب
+علی شاہد علی عادل حاکمِ یوم الحساب
+خیر البریہ خیر الخلقاء
+خیر الوصیین خیر الاولیاء
 
-3
-Ali Abid Ali Sajid Ali Noor-e-Lam Yazal.
-Ali Alim Ali Ilm-o-Ali Amil-o-Amal.
-Ali Zaigham Ali Arqam Fateh-e-Janag-e-Jamal.
-Sar-e-Maidaan Sab Farari Mera Mula Hai Atal.
-Teri Muhabbat Ain-e-Ibadat.
-Teri Adawat Lanat Hi Lanat.
+۳
+علی عابد علی ساجد علی نورِ لم یزل
+علی عالم علی علم و علی عامل و عمل
+علی ضیغم علی ارقم فاتحِ جنگِ جمل
+سرِ میدان سب فراری میرا مولا ہے اٹل
+تیری محبت عینِ عبادت
+تیری عداوت لعنت ہی لعنت
 
-4
-Ali Aala Ali Aola Hai Ali Kaif-al-Wara.
-Ali Adam Ali Younus Hai Ali Shams-uz-Zaha.
-Ali Saleh Ali Yousuf Hai Ali Badar-ul-Duja.
-Ali Musa Ali Esa Ali Hamil-al-Liwa.
-Nooh Ka Safina Tu Ne Bachaya.
-Mulk-e-Sulemaan Tu Ne Chalaya.
+۴
+علی اعلیٰ علی اولیٰ ہے علی کیف الوریٰ
+علی آدم علی یونس ہے علی شمس الضحیٰ
+علی صالح علی یوسف ہے علی بدر الدجیٰ
+علی موسیٰ علی عیسیٰ علی حامل اللواء
+نوح کا سفینہ تو نے بچایا
+ملکِ سلیمان تو نے چلایا
 
-5
-Ali Quraan Ali Furqaan Ali Hadi-ul-Rasheed.
-Ali Sarwar Ali Afsar Ali Ashja-al-Waheed.
-Ali Safdar Ali Haider Ali Albas-ul-Shadeed.
-Ali Yaseen Ali Taha Ali Sorah-e-Hadeed.
-Chalti Hai Ran Mein Jab Teri Talwar.
-Ghar Ka Buhadur Hota Hai Farrar.
+۵
+علی قرآن علی فرقان علی ہادی الرشید
+علی سرور علی افسر علی اشجع الوحید
+علی صفدر علی حیدر علی البأس الشدید
+علی یٰسین علی طٰہٰ علی سورۂ حدید
+چلتی ہے رن میں جب تیری تلوار
+گھر کا بہادر ہوتا ہے فرار
 
-6
-Ali Masjid Ali Mimber Ali Alhab-ul-Mateen.
-Ali Noran Ali Toran Ali Alshams-al-Yaqeen.
-Ya Khitabo Ya Kitabo Ya Imam-al-Mutaqeen.
-Ya Adeebo Ka Khateebo Ya Wajih-al-Aalameen.
- Majid Suna Do Sab Ko Bata Do.
-Mushkil Jab Aaye Bas Yeh Sada Do.
+۶
+علی مسجد علی منبر علی الحب المتین
+علی نوراً علی طوراً علی الشمس الیقین
+یا خطابو یا کتابو یا امام المتقین
+یا ادیبو کا خطیبو یا وجیہ العالمین
+ماجد سنا دو سب کو بتا دو
+مشکل جب آئے بس یہ صدا دو

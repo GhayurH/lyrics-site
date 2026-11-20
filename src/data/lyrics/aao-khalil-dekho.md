@@ -12,16 +12,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aao Khalil dekho aaghaz hai fughaṅ ka
-  Kaandhe zaif ke par, laasha hai naujawaṅ ka
+  Aao Khalil dekho aaghaaz hai fighaaṅ ka
+  Kaandhe zaif ke par, laasha hai naujawaaṅ ka
 
   1
   Thaamo Khalil dil ko shayad na dekh paao
-  Hamshakl-e-Mustafa ke, sine meiṅ phal sinaṅ ka
+  Hamshakl-e-Mustafa ke, sine mein phal sinaaṅ ka
 
   2
-  Pardoṅ meiṅ jis ko paala atharah saal Zainab
-  Do lakht hai kaleja maqtal meiṅ us jawaaṅ ka
+  Pardoṅ mein jis ko paala athaarah saal Zainab
+  Do lakht hai kaleja maqtal mein us jawaaṅ ka
 
   3
   Yasin ke jigar se sheh khinchte haiṅ barchhi
@@ -29,15 +29,15 @@ romanLyrics: |-
 
   4
   Bechain ho gayi hai subh-e-Ashur Asghar
-  Andaaz hu bahu hai Akbar teri azaṅ ka
+  Andaaz hu bahu hai Akbar teri azaaṅ ka
 
   5
   Sughra se koi keh do Bibi diye bujha lo
-  Na aayega palat kar hamshakl Nana jaṅ ka
+  Na aayega palat kar hamshakl-e-Nana jaaṅ ka
 
   6
   Akbar ke paak khuṅ se rangiṅ hai khaak-e-Karbal
-  Rang laal ho gaya hai Jawad aasmaṅ ka
+  Rang laal ho gaya hai Jawad aasmaaṅ ka
 ---
 آؤ خلیل دیکھو آغاز ہے فغاں کا
 کاندھے ضعیف کے پر لاشہ ہے نوجواں کا

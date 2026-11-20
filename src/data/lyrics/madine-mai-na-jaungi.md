@@ -1,6 +1,6 @@
 ---
 title: "جب قید سے آزاد ہوئی آلِ پیعمبر"
-alternateTitle: "Madine Mai Na Jaungi"
+alternateTitle: "Madine Mein Na Jaauṅgi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab qaid se azad hui aal-e-payambar
-  Aur karbobala aa gaye sab waaris o yawar
-  Tab bibiyaṅ rone lagi qabroṅ se lipat kar
-  Abid se ye farmani lagi zainab-e-muztar
+  Jab qaid se aazaad hui aal-e-payambar
+  Aur karb o bala aa gaye sab waaris o yaawar
+  Tab bibiyaaṅ rone lagiṅ qabroṅ se lipat kar
+  Aabid si ye farmaane lagi Zainab-e-muztar
   Ae laal watan chalne pe majbur na karna
-  Maajaye ki turbat se mujhe dur na karna
-  Madine mai na jaungi
-  Husain ibne ali ki qabr pe aansu bahaungi
-  Madine mai na jaungi
-  Akela chor doo kaise mai zehra ki kameini ko
-  Abhi royi nahi dil khol ke mai apne bhai ko
-  Yahaṅ farshe aza shabbir ka mai to bichaungi
-  Madine mai na jaungi...
-  Koi poochega qasim ko koi poochega akbar ko
-  Koi abbas ko poochega koi aake sarwar ko
-  Hua barbaad saara ghar mai kis kis ko bataungi
-  Madine mai na jaungi...
-  Yahaṅ aayi to athara baradar saath laayi thi
-  Chali thi jab madine se bhara ghar saath laayi thi
-  Wahan jaa kar nazar sughra se mai kaise milaungi
-  Madine mai na jaungi...
-  Madine shauq se jaati ali akbar agar hote
-  Pisar hote na hote bhai mere humsafar hote
-  Jo milne bibiyaṅ aayeṅgi mai to mar hi jaungi
-  Madine mai na jaungi...
-  Kiya hai qatl aada ne mohamed ke nawase ko
-  Sukuṅ miljayega is amr se do din ke pyase ko
-  Husain ibne ali ke naam par pani pilaungi
-  Madine mai na jaungi...
-  Yahaṅ par aan kar ab ambiya aansu bahayenge
-  Hasan zehra mohamed hyder-e-karrar aayeṅge
-  Husain ibne ali ka marsiya sab ko sunaungi
-  Madine mai na jaungi...
-  Mere bhai ki turbat suna jangal aur veerana
-  Andhera ban ye tanhaai ye charoṅ samt sannata
-  Yahaṅ reh kar ghame shabbir ki basti basaungi
-  Madine mai na jaungi...
-  Bithaya kaise anwar naaqe pa sarwar ki khwahar ko
-  Sunati thi sukhan yehi magar sajjad-e-muztar ko
-  Charaghe qabr ashkon se mai ro ro kar jalaungi
-  Madine mai na jaungi...
+  Maaṅ jaaye ki turbat se mujhe dur na karna
+  Madine mein na jaauṅgi
+  Husain ibn-e-Ali ki qabr pe aansu bahaauṅgi
+  Madine mein na jaauṅgi
+  Akela chhor duṅ kaise main Zehra ki kamaai ko
+  Abhi roi nahiṅ dil khol ke main apne bhaai ko
+  Yahaaṅ farsh-e-aza Shabbir ka main to bichhaauṅgi
+  Madine mein na jaauṅgi...
+  Koi puchhega Qaasim ko koi puchhega Akbar ko
+  Koi Abbaas ko puchhega koi aa ke Sarwar ko
+  Hua barbaad saara ghar main kis kis ko bataauṅgi
+  Madine mein na jaauṅgi...
+  Yahaaṅ aai to athaarah baraadar saath laai thi
+  Chali thi jab Madine se bhara ghar saath laai thi
+  Wahan jaa kar nazar Sughra se main kaise milaauṅgi
+  Madine mein na jaauṅgi...
+  Madine shauq se jaati Ali Akbar agar hote
+  Pisar hote na hote bhaai mere humsafar hote
+  Jo milne bibiyaaṅ aaeṅgi main to mar hi jaauṅgi
+  Madine mein na jaauṅgi...
+  Kiya hai qatl aada ne Muhammad ke nawaase ko
+  Sukuṅ mil jaaega is amr se do din ke pyaase ko
+  Husain ibn-e-Ali ke naam par paani pilaauṅgi
+  Madine mein na jaauṅgi...
+  Yahaaṅ par aan kar ab ambiya aansu bahaaeṅge
+  Hasan Zehra Muhammad Haidar-e-Karraar aaeṅge
+  Husain ibn-e-Ali ka marsiya sab ko sunaauṅgi
+  Madine mein na jaauṅgi...
+  Mere bhaai ki turbat suna jangal aur veeraana
+  Andhera ban ye tanhaai ye chaaroṅ samt sannaata
+  Yahaaṅ reh kar gham-e-Shabbir ki basti basaauṅgi
+  Madine mein na jaauṅgi...
+  Bithaaya kaise Anwar naaqe pe Sarwar ki khwaahar ko
+  Sunaati thi sukhan yahi magar Sajjaad-e-muztar ko
+  Charaagh-e-qabr aankhoṅ se main ro ro kar jalaauṅgi
+  Madine mein na jaauṅgi...
 ---
 
 ۱

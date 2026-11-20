@@ -12,70 +12,70 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qadam Jis Waqt Maiṅ Ne Karbala Ki Khak Par Rakha
-  Tha Manzar Samne Do Bhaiyoṅ Ki Badshahat Ka
-  Maiṅ Jab Baab Ul Hawaij Ke Haram Ke Samne Pohancha
-  Utha Kar Hath Ro Ro Kar Kaha Maiṅ Ne Salam Aaqa
+  Qadam jis waqt main ne Karbala ki khaak par rakha
+  Tha manzar saamne do bhaiyoṅ ki baadshaahat ka
+  Main jab Baab ul Hawaaij ke haram ke saamne pahuncha
+  Utha kar haath ro ro kar kaha main ne salaam aaqa
 
   2
-  Bohat Tuta Howa Huṅ Pas Ab Mujh Ko Bola Lijiye
-  Lipat Jaoṅ Maiṅ Bachuṅ Ki Tarha Roze Ki Jali Se
-  Ziyarat Ki Tamana Meiṅ Haram Tak Aa Gaya Huṅ Maiṅ
-  Ijazat Dijiye Darbar Meiṅ Rakhoṅ Qadam Maula
+  Bahut tuta hua huṅ paas ab mujh ko bula lijiye
+  Lipat jaauṅ main bachchoṅ ki tarah roze ki jaali se
+  Ziyaarat ki tamanna mein haram tak aa gaya huṅ main
+  Ijaazat dijiye darbaar mein rakhuṅ qadam Maula
 
   3
-  Mere Dil Meiṅ Ziyarat Ki Tarap Jis Dam Barhi Had Se
-  Karim-e-Karbala Se Yeh Kaha Tha Maiṅ Ne Ro Ro Ke
-  Mere Sahib Mere Aaqa Kahiṅ Yeh Chote Hazrat Se
-  Mujhe Zair Bana Dijiye Dikha Dijiye Haram Maula
+  Mere dil mein ziyaarat ki tarap jis dam barhi had se
+  Karim-e-Karbala se yeh kaha tha main ne ro ro ke
+  Mere saahib mere aaqa kaheṅ yeh chhote hazrat se
+  Mujhe zaair bana dijiye dikha dijiye haram Maula
 
   4
-  Khabar Jab Se Hoi Mujh Ko Bolawa Aa Gaya Mera
-  Chala Ghar Se Yahan Pohancha Na Nind Aayi Na Chain Aaya
-  Ajab Hai Kaifiyat Dil Ki Yaqiṅ Aata Nahi Mujh Ko
-  Nazar Gunbad Ki Janib Hai Meri Aankheiṅ Haiṅ Nam Maula
+  Khabar jab se hui mujh ko bulaawa aa gaya mera
+  Chala ghar se yahaaṅ pahuncha na nind aai na chain aaya
+  Ajab hai kaifiyat dil ki yaqiṅ aata nahiṅ mujh ko
+  Nazar gumbad ki jaanib hai meri aankheṅ haiṅ nam Maula
 
   5
-  Koi Muslim Koi Hindu Koi Sikh Koi Esayi
-  Tere Darbar Meiṅ Koi Nahi Tafriq Mazhab Ki
-  Haram Ke Samne Aa Kar Adab Se Sar Jhukate Haiṅ
-  Haiṅ Sab Ki Aankh Meiṅ Aanso Hai Sab Ke Dil Meiṅ Gham Maula
+  Koi Muslim koi Hindu koi Sikh koi Isaai
+  Tere darbaar mein koi nahiṅ tafriq mazhab ki
+  Haram ke saamne aa kar adab se sar jhukaate haiṅ
+  Haiṅ sab ki aankh mein aansu hai sab ke dil mein gham Maula
 
   6
-  Yahaṅ Apne Liye Maula Kahaṅ Kuch Mangta Huṅ Maiṅ
-  Lipat Kar Aap Ki Turbat Se Rona Chahta Huṅ Maiṅ
-  Suna Hai Aap Ki Turbat Ali Asghar Ke Jaisi Hai
-  Na Jane Aap Par Kya Kya Hoye Zulm o Sitam Maula
+  Yahaaṅ apne liye Maula kahaaṅ kuchh maangta huṅ main
+  Lipat kar aap ki turbat se rona chaahta huṅ main
+  Suna hai aap ki turbat Ali Asghar ke jaisi hai
+  Na jaane aap par kya kya hue zulm o sitam Maula
 
   7
-  Dar-e-Umm Ul-Baneen Ke Pas Ja Kar Baith Jaon Ga
-  Suna Kar Aap Ka Noha Wahaṅ Aanso Bahaon Ga
-  Gire Jab Aap Ghore Se Nahi The Aap Ke Bazu
-  Raha Iss Baat Ka Bas Aap Ki Madar Ko Gham Maula
+  Dar-e-Umm ul Banin ke paas ja kar baith jaauṅ ga
+  Suna kar aap ka nauha wahaaṅ aansu bahaauṅ ga
+  Gire jab aap ghore se nahiṅ the aap ke baazu
+  Raha is baat ka bas aap ki maadar ko gham Maula
 
   8
-  Yahaṅ Se Jaon Ga Maula Bare Maula Ke Roze Par
-  Bari Ghurbat Meiṅ Mara Hai Jinheiṅ Nu Lakh Ne Mil Kar
-  Judai Aap Ki Seh Kar Kamar Khum Ho Gayi Haye
-  Jinheiṅ Akbar Ki Furqat Meiṅ Nazar Aata Tha Kam Maula
+  Yahaaṅ se jaauṅ ga Maula bare Maula ke roze par
+  Bahut ghurbat mein maara hai jinheṅ nau laakh ne mil kar
+  Judaai aap ki sah kar kamar kham ho gayi haaye
+  Jinheṅ Akbar ki furqat mein nazar aata tha kam Maula
 
   9
-  Kaleje Meiṅ Sina Khaye Tarapta Tha Jahaṅ Akbar
-  Wahaṅ Par Yaad Aaye Ga Mujhe Ghurbat Ka Woh Manzar
-  Ali Akbar Yeh Kehte They Na Barchi Khainchiye Baba
-  Padar Ki Gaud Meiṅ Nikla Jawaaṅ Bete Ka Dam Maula
+  Kaleje mein sinaaṅ khaaye tarapta tha jahaaṅ Akbar
+  Wahaaṅ par yaad aai ga mujhe ghurbat ka woh manzar
+  Ali Akbar yeh kehte the na barchhi khainchiye baaba
+  Padar ke god mein nikla jawaaṅ bete ka dam Maula
 
   10
-  Jahaṅ Khanjar Se Zalim Ne Gala Shabir Ka Kata
-  Wahaṅ Satar Qadam Ka Fasila Bhai Behan Meiṅ Tha
-  Behan Ne Oss Ghari Kitna Pukara Aap Ko Haye
-  Tarapti Reh Gayi Zainab Howa Jab Sar Qalam Maula
+  Jahaaṅ khanjar se zaalim ne gala Shabbir ka kaata
+  Wahaaṅ sattar qadam ka faasila bhai bahan mein tha
+  Bahan ne us ghari kitna pukaara aap ko haaye
+  Tarapti rah gayi Zainab hua jab sar qalam Maula
 
   11
-  Kaha Zishan Ne Haye Raza Woh Pal Rulaein Gay
-  Ae Mere Bawafa Maula Yeh Din Jab Bit Jaein Gay
-  Chala Jaon Ga Ghar Lekin Yahiṅ Dil Chor Jaon Ga
-  Mujhe Phir Se Bola Lena Sakina Ki Qasam Maula
+  Kaha Zishaan ne haaye Raza woh pal rulaaeṅ ge
+  Ae mere baawafa Maula yeh din jab bit jaaeṅ ge
+  Chala jaauṅ ga ghar lekin yahiṅ dil chhor jaauṅ ga
+  Mujhe phir se bula lena Sakina ki qasam Maula
 ---
 ۱
 قدم جسوقت میں نے کربلا کی خاک پر رکھا

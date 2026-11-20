@@ -8,6 +8,58 @@ reciter: "Not Available"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Noha paak
+  Tede turan de baad Nabi Baba eho ajr-e-risaalat hai milya
+  Thi dhi tedi mahroom aa gayi
+
+  2
+  Darbaar te gayi haq mangan kite naa haq milya likhya teda
+  Thi dhi tedi mahroom aa gayi
+
+  3
+  Tede turan de baad tede ummati en rang vich pursa dende rahe
+  Mede dar kun aan jalaaya gaye thi Mohsin laal shahid gaya
+  Thi dhi tedi mahroom aa gayi
+
+  4
+  Mekun zarbaan te jhirkaan miliyaan jadaan haq mangya darbaar de vich
+  Mede sar de vaal safed thi gaye hun jaldi kol bula Baba
+  Thi dhi tedi mahroom aa gayi
+
+  5
+  Jinhen mimbar te vi Baba saain tain keeti bahun taazim medi
+  On mimbar te vi ashaab tede be-adabi naal alaaya ha
+  Thi dhi tedi mahroom aa gayi
+
+  6
+  Eho hai dastur zamaane da dhi rondi hai apne baabe kun
+  Mekun rovan vi nahin dende hun bahun sabr keeta tedi dhi Zehra
+  Thi dhi tedi mahroom aa gayi
+
+  7
+  Mazlumi di hai had muk gayi mede ghar vich aa ashaab tede
+  Mede saamne gal vich rassiyaan paa Hasnain de pio kun qaid keeta
+  Thi dhi tedi mahroom aa gayi
+
+  8
+  Jehri pehli vaari sun aayi haan azaan jo main darbaar de vich
+  Paye rasm gayi hai duniyaan te naan Hasan de pio da nahin chaaya
+  Thi dhi tedi mahroom aa gayi
+
+  9
+  Darbaar de vich Baba saain jehra manzar dekh main aayi haan
+  Naa bachsin chaadar Zainab di en duniyaan te inj hai lagda
+  Thi dhi tedi mahroom aa gayi
+
+  10
+  Asghar Zehra di turbat tun paye aanden vain jo aj taain
+  Anjaan haan mahrooma duniyaan te naa haq milya naa baneya rauza
+  Thi dhi tedi mahroom aa gayi
+
+  11
+  Taalib-e-duaa: Zawwaar Asghar Ali Asghar
 ---
 
 ۱

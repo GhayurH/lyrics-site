@@ -12,30 +12,30 @@ tags: []
 aliases: ["Ay Warise Adam"]
 published: true
 romanLyrics: |-
-  Ae waaris-e-Aadam teri qurbaniyaṅ
-  Farzand-e-Fatema teri qurbaniyaṅ
+  Ae waaris-e-Aadam teri qurbaaniyaaṅ
+  Farzand-e-Fatema teri qurbaaniyaaṅ
 
   1
-  Ya Husain teri qurbani ki sunnat koi bhi kar na saka
+  Ya Husain teri qurbaani ki sunnat koi bhi na saka
   Tir par tir bhi kha kar tu dua deta raha
   Aisi anmol ibaadat koi bhi kar na saka
 
   2
   Khaak ko khaak-e-shifa tu ne kiya ek taraf
-  Ek taraf aayi ye aawaaz-e-shahanshah-e-Najaf
-  Tu ne maidan-e-jafa ko laaiq-e-sajda kiya
-  Ek maidan ko jannat koi bhi kar na saka
+  Ik taraf aayi ye aawaaz-e-shahanshaah-e-Najaf
+  Tu ne maidaan-e-jafa ko laaiq-e-sajda kiya
+  Ek maidaan ko jannat koi bhi kar na saka
 
   3
   Tujh se baiat ka taqaaza jo lainoṅ ne kiya
   Tu ne baatil ke taqaazoṅ ka jawaab aisa diya
-  Ban gaya qaari-e-Quraan bar sar-e-nok-e-sinaṅ
+  Ban gaya qaari-e-Quraan bar sar-e-nok-e-sinaaṅ
   Aur phir aisi tilaawat koi bhi kar na saka
 
   4
-  Subh se shaam talak laasheṅ uthaye the magar
-  Yuṅ lara jang ke maidan meiṅ Haider ka pisar
-  Dasht laashoṅ se sajaaya keh uthe jinn o bashar
+  Subh se shaam talak laasheṅ uthaaye the magar
+  Yuṅ lara jang ke maidaan meiṅ Haider ka pisar
+  Dasht laashoṅ se sajaaye keh uthe jinn o bashar
   Pyaasa reh kar bhi ye himmat koi bhi kar na saka
 
   5
@@ -53,18 +53,18 @@ romanLyrics: |-
   7
   Fakhr-e-Aadam bhi tu hi hai fakhr-e-Haider bhi tu hi
   Naazish-e-ahl-e-haram naazish-e-Daawar bhi tu hi
-  Tu hi sardaar-e-jinaṅ hai aur Kausar bhi tu hi
-  Khud ko aaina-e-aayat koi bhi kar na saka
+  Tu hi sardaar-e-jinaaṅ hai aur Kausar bhi tu hi
+  Khud ko aaine-e-aayat koi bhi kar na saka
 
   8
-  Pyaasa darya ke kinaare se alamdaar chala
+  Pyaasa dariya ke kinaare se alamdaar chala
   Kat gaye baazu magar nazroṅ meiṅ Asghar hi raha
   Mashk se paani gaya aur din se Ghaazi gaya
-  Ye wafaaeṅ ye itaaat koi bhi kar na saka
+  Ye wafaayeṅ ye itaaat koi bhi kar na saka
 
   9
   Ek mastur ne mushkil meiṅ bara kaam kiya
-  Teri mazlumi ka parchaar sar-e-aam kiya
+  Teri mazlumi ka parcham sar-e-aam kiya
   Khud to beghar hui ghar ghar tera paighaam diya
   Is tarah teri himaayat koi bhi kar na saka
 

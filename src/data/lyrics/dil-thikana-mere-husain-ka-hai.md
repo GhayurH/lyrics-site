@@ -12,64 +12,64 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Dil Thikana mere Husain ka hai
-  ye Khazana Mere Husain ka hai
+  Dil thikaana mere Husain ka hai
+  Ye khazaana mere Husain ka hai
 
   2
-  Tum Jise aasmaan samajhte ho
-  Shamiyana Mere Husain ka hai
+  Tum jise aasmaan samajhte ho
+  Shaamiyaana mere Husain ka hai
 
   3
-  Koi Puche ye daur kis ka hai
-  Tum batana Mere Husain ka hai
+  Koi puchhe ye daur kis ka hai
+  Tum bataana, mere Husain ka hai
 
   4
-  Jis ke Saaye Maiṅ Kaainaat bani
-  Aisa Nana Mere Husain ka hai
+  Jis ke saaye mein kaainaat bani
+  Aisa naana mere Husain ka hai
 
   5
-  Ye jo Kaba hai Tum na Samjho ge
-  Ghar Purana Mere Husain ka hai
+  Ye jo Kaaba hai, tum na samjho ge
+  Ghar puraana mere Husain ka hai
 
   6
-  Aana Farsh-e-Aza pe beparda
-  Dil Dukhana Mere Husain ka hai
+  Aana farsh-e-aza pe beparda
+  Dil dukhaana mere Husain ka hai
 
   7
-  Jis Jagah Hur Banaye Jate haiṅ
-  Karkhana Mere Husain ka hai
+  Jis jagah Hur banaaye jaate haiṅ
+  Kaarkhaana mere Husain ka hai
 
   8
-  Ho Agar Munkir-e-Namaz Koi
-  Bhul jana Mere Husain ka hai
+  Ho agar munkir-e-namaaz koi
+  Bhul jaana mere Husain ka hai
 
   9
-  Daine Wali Hai Zaat Allah Ki
-  Per Dilana Mere Husain Ka Hai
+  Dene waali hai zaat Allah ki
+  Par dilaana mere Husain ka hai
 
   10
-  Maare ek Sabar se Hazaar Uddu
-  Kia Nishana Mere Husain ka hai
+  Maare ek zarb se hazaar adu
+  Kya nishaana mere Husain ka hai
 
   11
-  Ug Raha Hai Jo Baad-e-Karbobala
-  Wo Dana Dana Mere Husain Ka Hai
+  Ug raha hai jo baad-e-karb o bala
+  Wo daana daana mere Husain ka hai
 
   12
-  Matami jab Koi Nazar Aaye
-  Maan Jana Mere Husain ka hai
+  Maatami jab koi nazar aaye
+  Maan jaana mere Husain ka hai
 
   13
-  Kaash Kehne Lagey Ye Log Mujhe
-  Tu Diwana Mere Husain Ka Hai
+  Kaash kehne lagiṅ ye log mujhe
+  Tu diwaana mere Husain ka hai
 
   14
-  Ye Jahaṅ Kia hai Dono Aalam maiṅ
-  Aana Jaana Mere Husain ka hai
+  Ye jahaaṅ kya hai donoṅ aalam mein
+  Aana jaana mere Husain ka hai
 
   15
-  Mujh maiṅ Rehan ye Shaur Jo Hai
-  Shairaana Mere Husain ka hai
+  Mujh mein Rehan ye shuur jo hai
+  Shaairaana mere Husain ka hai
 ---
 
 ۱

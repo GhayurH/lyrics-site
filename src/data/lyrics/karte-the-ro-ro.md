@@ -56,7 +56,7 @@ romanLyrics: |-
   Dhum hai khaime meiṅ waaṅ sher jawaaṅ mar gaya
   Karti hai Zainab fughaaṅ sher jawaaṅ mar gaya
   Sine meiṅ hai dil tapaaṅ sher jawaaṅ mar gaya
-  Kis se karuṅ meiṅ bayaaṅ sher jawaaṅ mar gaya
+  Kis se karuṅ main bayaaṅ sher jawaaṅ mar gaya
 
   8
   Haath se khoya dil naashaad ko
@@ -79,7 +79,7 @@ romanLyrics: |-
   11
   Aaṅkhoṅ ka taara mera sher jawaaṅ mar gaya
   Ghar ka ujaala mera sher jawaaṅ mar gaya
-  Aashiq o shaida mera sher jawaaṅ mar gaya
+  Aashiq o shaidaa mera sher jawaaṅ mar gaya
   Chaand ka tukra mera sher jawaaṅ mar gaya
 
   12

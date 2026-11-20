@@ -28,14 +28,14 @@ romanLyrics: |-
   Haaṅ chumte the Shah-e-Madina
   Bhara hai tiroṅ se haaye ghurbat
   Kahaṅ pe soyegi ab Sakina
-  Yehi wo sina hai jis pe charh kar
+  Yehi wo sina hai jis pe char kar
   Laiṅ ne kaata Husain ka sar
 
   3
   Hui thi wo jin ki naal bandi
   The aam ghoroṅ se aur wazni
   Jo ghore daure the is badan par
-  Kuchalna unki khususiyat thi
+  Kuchalna un ki khususiyat thi
   Na jaane kis tarah maaṅ ne dekha
   Sumoṅ ke niche gharib beta
 
@@ -43,7 +43,7 @@ romanLyrics: |-
   Laiṅ wo Bajdal tha naam jis ka
   Sirhaane jab is badan ke pahuncha
   Anguthi kis tarah lutta wo
-  Tha zakhmi haathoṅ pe waram itna
+  Tha zakhmi haathoṅ meiṅ waram itna
   Na utri zaalim se jab anguthi
   To kaat kar le gaya wo ungli
 
@@ -52,11 +52,11 @@ romanLyrics: |-
   Ye so gaya jab sitam utha kar
   Andhere ban meiṅ isi badan se
   Behan ne patthar hataaye aa kar
-  Na jaane Zainab ne kaise dekha
+  Na jaane Zainab ne kaisa dekha
   Gharib bhaai ka zakhmi laasha
 
   6
-  Saroṅ ko nezoṅ pe jab charhaaya
+  Saroṅ ko nezoṅ pe jab charaaya
   Sar ek chhota sa mil na paaya
   Laiṅ ne neza zamiṅ pe maara
   To laasha Asghar ka saath aaya
@@ -67,7 +67,7 @@ romanLyrics: |-
   Pidar ke sine pe sone waali
   Jab is badan ke qarib pahunchi
   Ye aa ke Shimr-e-Laiṅ ne dekha
-  Pidar se lipti hui hai beti
+  Pidar se lipti hui thi beti
   Pakar ke baaloṅ se jab chhuraaya
   Badan zamiṅ par tarap raha tha
 

@@ -8,75 +8,69 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aseer hoke chali hoon salam ae baba
+  Aseer hoke chali huṅ salaam ae baba
 
-  Yahan se jati hoon zindan-e-Shaam aey baba
+  Yahaaṅ se jaati huṅ zindaan-e-Shaam ae baba
 
   1
-  Suno Sakina se gham ka payam aey baba
-  Hamaray jal gaye saray khayam aey baba
-  Kahan kahan ho na jane qayam aey baba
-  Hay wajh-e-zeest tumhara hi naam aey baba
-  Aseer hoke chali heon salam aey baba
+  Suno Sakina se gham ka payaam ae baba
+  Hamaare jal gaye saare khayaam ae baba
+  Kahaaṅ kahaaṅ ho na jaane qiyaam ae baba
+  Hai wajh-e-zeest tumhaara hi naam ae baba
 
   2
-  Yahaan se Shaam ko janay ki ibtada dekho
-  Rasan se ghut-ta hay baba mera gala dekho
-  Phuphi ke sar se bhi to cheen li rida dekho
-  Yeh ibtida hay to kia ho gi intiha dekho
-  Aseer hoke chali heon salam aey baba
+  Yahaaṅ se Shaam ko jaane ki ibtida dekho
+  Rasan se ghutta hai baba mera gala dekho
+  Phuphi ke sar se bhi to chheen li rida dekho
+  Ye ibtida hai to kya ho gi intiha dekho
 
   3
-  Ye ibtheda hai musibath ki intheha bhi nahi
-  Guzar gaye hai qayamat magar gila bhi nahi
-  Phoopi ke sarpe kafan ke liye rida bhi nahi
-  Aur aaj hosh me beemare karbala bhi nahi
-  Aseer hoke chali heon salam aey baba
+  Ye ibtida hai musibat ki intiha bhi nahiṅ
+  Guzar gayi hai qiyaamat magar gila bhi nahiṅ
+  Phuphi ke sar pe kafan ke liye rida bhi nahiṅ
+  Aur aaj hosh mein bimaar-e-Karbala bhi nahiṅ
 
   4
-  Hamara karbobala me qayam ho na saka
-  Tumharay dafan ka bhi intezaam ho na saka
-  Parre ho khak pe kuch ehthemaam ho na saka
-  Ye zoaf hai ke ada bhi salam ho na saka
-  Aseer hoke chali heon salam aey baba
+  Hamaara Karb o Bala mein qiyaam ho na saka
+  Tumhaare dafn ka bhi intizaam ho na saka
+  Pare ho khaak pe kuchh ihtimaam ho na saka
+  Ye zuf hai ke ada bhi salaam ho na saka
 
   5
-  Hay sarpe khak bhi gham bhi hai aur buka bhi hai
-  Hay kamsani bhi musibat bhi aur jafa bhi hai
-  Phoopi ke saaath rasan me mera gila bhi hai
-  In aafatoon se guzarnay ka hausla bhi hai
-  Aseer hoke chali heon salam aey baba
+  Hai sar pe khaak bhi gham bhi hai aur buka bhi hai
+  Hai kamsini bhi musibat bhi aur jafa bhi hai
+  Phuphi ke saath rasan mein mera gila bhi hai
+  In aafatoṅ se guzarne ka hausla bhi hai
 
   6
-  Suna hai shaam ka darbaar jab bhara hoga
-  Yazeed ka sare darbaar saamna hoga
-  Mera to bhai bhi zanjeer me bhanda hoga
-  Phoopi jo phonche gi darbaar me to kya hoga
-  Aseer hoke chali heon salam aey baba
+  Suna hai Shaam ka darbaar jab bhara ho ga
+  Yazeed ka sar-e-darbaar saamna ho ga
+  Mera to bhaai bhi zanjir mein bandha ho ga
+  Phuphi jo pahuncheṅ gi darbaar mein to kya ho ga
 
   7
-  Na poocho sabr to main Fatema ki poti hoon
-  Main apne kunbe ki mazloomiyat ko roti hoon
-  Tumhein na pa ke bahot dilfigar hoti hoon
-  Yeh keh ke tan se bureeda si jaan khoti hoon
+  Na puchho sabr to main Fatima ki poti huṅ
+  Main apne kunbe ki mazlumiyat ko roti huṅ
+  Tumheṅ na pa ke bahut dilfigaar hoti huṅ
+  Ye keh ke tan se burida si jaaṅ khoti huṅ
 
   8
-  Na poocho haal-e-beemar-e-Karbala baba
-  Hamare hain yehi salar-e-qafila baba
+  Na puchho haalat-e-bimaar-e-Karbala baba
+  Hamaare haiṅ yahi saalaar-e-qaafila baba
   Chup hi se seh gaye har zulm har jafa baba
-  Hai aaj Shaam ki manzil kamar hala baba
+  Hai aaj Shaam ki manzil kamar hila baba
 
   9
-  Yeh mera aakhri ab to salam lo baba
+  Ye mera aakhri ab to salaam lo baba
   Jo ho sake to gala aa ke khol do baba
-  Zaroor aana bulaungi aap ko baba
-  Dua karo mujhe eeza na aur ho baba
+  Zarur aana bulaauṅ gi aap ko baba
+  Dua karo mujhe iza na aur ho baba
 
   10
-  Hai ab bhi pesh-e-nazar waqiyat-e-Karb o Bala
-  Wohi hai Shimr ka khanjar wohi hai Sheh ka gala
-  Wohi hai Shaam ka bazaar aur wohi Kufa
-  Urooj ab bhi Sakina ki aa rahi hai sada
+  Hai ab bhi pesh-e-nazar waaqiaat-e-Karb o Bala
+  Wohi hai Shimr ka khanjar wohi hai Shah ka gala
+  Wohi hai Shaam ka baazaar aur wohi Kufa
+  Uruj ab bhi Sakina ki aa rahi hai sada
 ---
 اسیر ہوکے چلی ہوں سلام اے بابا
 

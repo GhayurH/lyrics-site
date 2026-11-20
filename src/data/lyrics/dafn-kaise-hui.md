@@ -14,45 +14,45 @@ romanLyrics: |-
   1
   Shikasta baazu shikasta pehlu
   Baaloṅ meiṅ safedi hai
-  Haye zahra haye zahra haye zahra
-  Dafn kaise hui zahra ye ali jaante hai
-  Kaise turbat meiṅ utaara ye ali jaante hai
-  Dar ke girne se hua jiska shikasta pehlu
-  Phasliyaṅ zakhmi thi aur tut chuka tha baazu
-  Kaise utha wo janaza ye ali jaante hai
-  Dafn kaise hui zahra...
-  Samne us ke tha amma ne tamacha khaaya
-  Kitne din jaane Hasan kuch na kisi se bola
-  Wo na bhoolega tamacha ye ali jaante hai
-  Dafn kaise hui zahra...
-  Ghusl dete huwe zahra ko ali rote rahe
-  Ab talak haath pe zakhmoṅ ke nihsan baaqi the
-  Kis ne maara tha wo durra ye ali jaante hai
-  Dafn kaise hui zahra...
-  Phasliyaṅ tut chuki jab ye ali ne dekha
-  Karb se chikh ke maula ne kaha ya zahra
-  Ghusl kis tarha diya tha ye ali jaante hai
-  Dafn kaise hui zahra...
-  Saans lete huwe taklif se karrahti thi
+  Haaye Zahra haaye Zahra haaye Zahra
+  Dafn kaise hui Zahra ye Ali jaante haiṅ
+  Kaise turbat meiṅ utaare ye Ali jaante haiṅ
+  Dar ke girne se jis ka shikasta pehlu
+  Pasliyaaṅ zakhmi thi aur tut chuka tha baazu
+  Kaise utha wo janaaza ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Saamne us ke tha amma tamaancha khaaya
+  Kitne din jaane Hasan kuchh na kisi se bola
+  Wo na bhulega tamaancha ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Ghusl dete hue Zahra ko Ali rote rahe
+  Ab talak haath pe zakhmoṅ ke nishaaṅ baaqi the
+  Kis ne maara tha wo durra ya Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Pasliyaaṅ tut chuki jab ye Ali ne dekha
+  Karb se chikh ke Maula ne kaha ya Zahra
+  Ghusl kis tarah diya tha ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Saans lete hue taklif se karhaati thi
   Dard itna tha ke karwat bhi na le paati thi
-  Kab se soyi nahi zahra ye ali jaante hai
-  Dafn kaise hui zahra...
-  Khud to sab seh gayi seh na saki bete pe sitam
-  Maut se kam na tha mohsin ki judaai ka gham
-  Kaise ek maa ko sambhala ye ali jaante hai
-  Dafn kaise hui zahra...
+  Kab se soyi nahiṅ Zahra ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Khud to sab seh gayi seh saki bete pe sitam
+  Maut se kam na tha Mohsin ki judaai ka gham
+  Kaise ek maaṅ ko sambhaala ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
   Baap ka pursa jise dene na aaya koi
-  Roti rehti thi jo turbat se lipat kar bibi
-  Kitna yaad aate the baba ye ali jaante hai
-  Dafn kaise hui zahra...
-  Zakhm khaa kar bhi wilayat ki hifazat ki hai
-  Jaa ke dar dar pe yuṅ zahra ne gawahi di hai
-  Kitna ehsaan hai uska ye ali jaante hai
-  Dafn kaise hui zahra...
-  Kitni mazlum thi zakhmi thi nabi ki beti
-  Qabr bhi maula ne zishan chupa di uski
-  Hai kahaṅ marqad e zahra ye ali jaante hai
-  Dafn kaise hui zahra...
+  Roti rehti thi jo turbat se lipat kar Bibi
+  Kitna yaad aate the baba ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Zakhm khaa kar bhi wilaayat ki hifaazat ki hai
+  Jaa ke dar dar pe yuṅ Zahra ne gawaahi di hai
+  Kitna ehsaan hai us ka ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
+  Kitna mazlum thi zakhmi thi Nabi ki beti
+  Qabr bhi Maula ne Zishan chhupa di us ki
+  Hai kahaaṅ marqad-e-Zahra ye Ali jaante haiṅ
+  Dafn kaise hui Zahra...
 ---
 
 ۱

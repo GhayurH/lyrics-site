@@ -12,7 +12,7 @@ tags: []
 aliases: ["Mai Sakina Hoo"]
 published: true
 romanLyrics: |-
-  Maiṅ Sakina huṅ mera dard hai itna baba
+  Maiṅ Sakina huṅ mera dard hai itna bara
   Mujhko zaalim ne kanizi meiṅ hai maanga baba
 
   1
@@ -21,19 +21,19 @@ romanLyrics: |-
 
   2
   Jo teri laash pe dauraate the ghore ran meiṅ
-  Wo tamaachoṅ se mujhe dete haiṅ pursa baba
+  Wo tamaanchoṅ se mujhe dete haiṅ pursa baba
 
   3
   Kaash mar jaauṅ maiṅ Asghar ko hi rote rote
   Maiṅ kahaaṅ karti huṅ paani ka taqaaza baba
 
   4
-  Puri shiddat se mujhe maara tamaacha jis ne
-  Uske haathoṅ se mera chehra hai chhota baba
+  Puri shiddat se mujhe maara tamaancha jis ne
+  Us ke haathoṅ se mera chehra hai chhota baba
 
   5
-  Ungliyoṅ ke to kahiṅ par hai anguthi ke nishaaṅ
-  Kaise pehchaanoge tum beti ka chehra baba
+  Ungliyoṅ ke to kahiṅ par hai anguthe ke nishaaṅ
+  Kaise pehchaano ge tum beti ka chehra baba
 
   6
   Is qadar Shaam ke zindaan meiṅ taariki hai
@@ -41,15 +41,15 @@ romanLyrics: |-
 
   7
   Bhaiya Sajjad se nazreṅ na milaai maiṅ ne
-  Maiṅ ne baazaar meiṅ jab khaaya tamaacha baba
+  Maiṅ ne baazaar meiṅ jab khaaya tamaancha baba
 
   8
-  Shaam waaloṅ se na paani na kafan maanguṅgi
-  Maiṅ na ehsaan yahaaṅ luṅgi kisi ka baba
+  Shaam waaloṅ se na paani na kafan maanguṅ gi
+  Maiṅ na ehsaan yahaaṅ luṅ gi kisi ka baba
 
   9
   Rakh ke muṅh baap ke sar par wo pukaari Darwesh
-  Ab na jaagegi kabhi teri Sakina baba
+  Ab na jaage gi kabhi teri Sakina baba
 ---
 میں سکینہ ہوں میرا درد ہے اتنا بڑا
 مجھکو ظالم نے کنیزی میں ہے مانگا بابا

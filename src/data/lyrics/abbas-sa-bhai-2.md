@@ -23,7 +23,7 @@ romanLyrics: |-
   Sar ko zaanuṅ pe rakha aur ye ro ro ke kaha
 
   3
-  Bhai to aaj hamein keh do khudaara bhaiya
+  Bhai to aaj hameiṅ keh do khudaara bhaiya
   Naza mein bhai ko Abbas ne bhai bola
   Aakhri saans li aur daar-e-fana chhor diya
   Bhai ne bhai ki aaghosh mein dam tor diya
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Mazlum se maqtal mein chala hi nahiṅ jaata
-  Jab khaak pe girte hain utha bhi nahiṅ jaata
+  Jab khaak pe girte haiṅ uthaa bhi nahiṅ jaata
   Ghazi ki shahaadat ne kamar aisi jhukaayi
   Hazrat se juda ho gaya...
 
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   8
   Abbas ke bachchoṅ se main sharminda rahuṅ ga
-  Maqtal se utha laaya huṅ har ek ka laasha
+  Maqtal se uthaa laaya huṅ har ek ka laasha
   Afsos ke Abbas ki mayyat na uthaayi
   Hazrat se juda ho gaya...
 
@@ -77,7 +77,7 @@ romanLyrics: |-
   Hazrat se juda ho gaya...
 
   12
-  Ammu ki judaai pe bahut roye hain baba
+  Ammu ki judaai pe bahut roye haiṅ Baba
   Samjhaati hai ro ro ke ye bachchoṅ ko Sakina
   Ab dena nahiṅ koi bhi paani ki duhaai
   Hazrat se juda ho gaya...

@@ -12,7 +12,7 @@ tags: []
 aliases: ["Shabihe Imame Zaman"]
 published: true
 romanLyrics: |-
-  Shabih-e-Imam-e-zamaaṅ khinchte haiṅ
+  Shabih-e-Imam-e-Zamaaṅ khinchte haiṅ
   Tasavvur meiṅ tasvir-e-jaaṅ khinchte haiṅ
 
   1
@@ -20,16 +20,16 @@ romanLyrics: |-
   Zamiṅ par Shah-e-diṅ nishaaṅ khinchte haiṅ
 
   2
-  Zamindar sairaab hai Karbala ke
-  Aziyat Imam-e-zamaaṅ khinchte haiṅ
+  Zamindaar sairaab hai Karbala ke
+  Aziyat Imam-e-Zamaaṅ khinchte haiṅ
 
   3
-  Idhar khushk hai Fatima ki zarahat
+  Idhar khushk hai Fatima ki zaraahat
   Wo khetoṅ meiṅ aab-e-ravaaṅ khinchte haiṅ
 
   4
-  Abas hai adu dar pe-e-qatl-e-Asghar
-  Ye iza kahiṅ bezabaaṅ khinchte haiṅ
+  Abas hai adu dar pa-e-qatl-e-Asghar
+  Ye izaa kahiṅ bezabaaṅ khinchte haiṅ
 
   5
   Pukari Sakina duhaai hai baba
@@ -41,19 +41,19 @@ romanLyrics: |-
 
   7
   Pyaada gaye Shaam tak is ravish se
-  Shutur jis tarah saarabaaṅ khinchte haiṅ
+  Shutur jis tarah saarbaaṅ khinchte haiṅ
 
   8
   Ye aalam hai furqat meiṅ kehti thi Sughra
   Ke rag rag se jis tarah jaaṅ khinchte haiṅ
 
   9
-  Kaha roke Akbar ne ae dard tham jaa
+  Kahaa roke Akbar ne ae dard tham jaa
   Kaleje se baba sinaaṅ khinchte haiṅ
 
   10
   Anis is zamiṅ meiṅ bahut kam hai wusat
-  Kamiyat qalam ki ena khinchte haiṅ
+  Hamiyat qalam ki inaa khinchte haiṅ
 ---
 شبیہہِ امامِ زماں کھینچتے ہیں
 تصور میں تصویرِ جاں کھینچتے ہیں

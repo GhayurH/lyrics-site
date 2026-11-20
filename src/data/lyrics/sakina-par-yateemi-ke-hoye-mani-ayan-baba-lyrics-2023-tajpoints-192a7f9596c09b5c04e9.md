@@ -1,29 +1,48 @@
 ---
-title: "Sakina Par Yateemi Ke Hoye Mani Ayan Baba Lyrics 2023"
+title: "سکینہ پر یتیمی کے ہوئے معنی عیاں بابا"
+alternateTitle: "Sakina Par Yateemi Ke Hoye Mani Ayan Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sakina par yateemi ke hoye mani ayan baba
+  Bana chehray pe jab pehla tamachay ka nishaan baba
+  Mere chehray se mit jaein nishaan shayad tamachon ke
+  Nahi mitna sitamgar ki angothi ka nishaan baba
+
+  2
+  Faqat darbar mein dekha tha pehli bar main ne yeh
+  Kaneezi ke liye mangi gayin Syedaniyaan baba
+  Barastay pathron mein sab sar-e-bazar thin bikhrein
+  Tere bikhrey hoye baloon ki sorat bibiyaan baba
+
+  3
+  Teri taskeen-e-jaan beti hai our zindaan ki garmi hai
+  Badal kar reh gaya matlab Sakina ka yahan baba
+  Kaha Saqlain bibi ne qaza par bhi aziyat hai
+  Tumhi ab kholna gardan se meri rasiyaan baba
 ---
 
-1
-Sakina Par Yateemi Ke Hoye Mani Ayan Baba.
-Bana Chehray Pe Jab Pehla Tamachay Ka Nishaan Baba.
-Mere Chehray Se Mit Jaein Nishaan Shayad Tamachon Ke.
-Nahi Mitna Sitamgar Ki Angothi Ka Nishaan Baba.
+۱
+سکینہ پر یتیمی کے ہوئے معنی عیاں بابا
+بنا چہرے پہ جب پہلا تماچے کا نشاں بابا
+میرے چہرے سے مٹ جائیں نشاں شاید تماچوں کے
+نہیں مٹنا ستمگر کی انگوٹھی کا نشاں بابا
 
-2
-Faqat Darbar Mein Dekha Tha Pehli Bar Main Ne Yeh.
-Kaneezi Ke Liye Mangi Gayin Syedaniyaan Baba.
-Barastay Pathron Mein Sab Sar-e-Bazar Thin Bikhrein.
-Tere Bikhrey Hoye Baloon Ki Sorat Bibiyaan Baba.
+۲
+فقط دربار میں دیکھا تھا پہلی بار میں نے یہ
+کنیزی کے لیے مانگی گئیں سیدانیاں بابا
+برستے پتھروں میں سب سرِ بازار تھیں بکھریں
+تیرے بکھرے ہوئے بالوں کی صورت بیبیاں بابا
 
-3
-Teri Taskeen-e-Jaan Beti Hai Our Zindaan Ki Garmi Hai.
-Badal Kar Reh Gaya Matlab Sakina Ka Yahan Baba.
-Kaha Saqlain Bibi Ne Qaza Par Bhi Aziyat Hai.
-Tumhi Ab Kholna Gardan Se Meri Rasiyaan Baba.
+۳
+تیری تسکینِ جاں بیٹی ہے اور زنداں کی گرمی ہے
+بدل کر رہ گیا مطلب سکینہ کا یہاں بابا
+کہا ثقلین بی‌بی نے قضا پر بھی اذیت ہے
+تم ہی اب کھولنا گردن سے میری رسیاں بابا

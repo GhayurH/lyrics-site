@@ -1,6 +1,6 @@
 ---
 title: "لبیک لبیک لبیکا یا حسین"
-alternateTitle: "Mai Husain Ka Ghulam"
+alternateTitle: "Main Husain Ka Ghulam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,75 +13,75 @@ romanLyrics: |-
   1
   Labbaik labbaik labbaika ya Husain
   Maula Husain Husain ya maula
-  Karbobala mera rasta aur meri manzil syed badshah
-  Hai sar pe alam ka saaya mera kaam nahi darna warna
+  Karbobala mera raasta aur meri manzil Sayyid baadshaah
+  Hai sar pe alam ka saaya mera kaam nahiṅ darna warna
   Saat samandar paar rahuṅ ya apne des ke logoṅ meiṅ
-  Gali gali aur nagar nagar gaoṅ gaoṅ har shehar shehar
-  Har majlis meiṅ har mimbar par elaan karunga subho shaam
-  Ya zahra ya maula
-  Ana majnun al Husain
-  Chaahe zamana bole mujhko deewana
-  Saare jahaṅ meiṅ ya Husain leke tera naam
-  Mai to kahunga sare aam mai Husain ka ghulam
+  Gali gali aur nagar nagar gaoṅ gaoṅ har shahr shahr
+  Har majlis meiṅ har mimbar par ailaan karuṅ ga subh o shaam
+  Ya Zehra ya maula
+  Ana majnun al-Husain
+  Chaahe zamaana bole mujhko diwaana
+  Saare jahaṅ meiṅ ya Husain le ke tera naam
+  Main to kahuṅ ga sar-e-aam main Husain ka ghulam
   Maula Husain Husain...
-  Aisa azim tu ne karbala meiṅ kaam kiya
+  Aisa azim tu ne Karbala meiṅ kaam kiya
   Sab kuch khuda ne ya Husain tere naam kiya
-  Tu hi to hai wo badshaah ya Husain
-  Jisko dunya ke saare baadshahoṅ ne salaam kiya
-  Jiska baba ho ali aur maa ho fatema
-  Sab ko nasib kahaṅ hota hai aisa imam
-  Mai to kahunga sare aam...
-  Jaisa Husain tu hai badshaah masha allah
-  Tujhko mile hai sab ghulam bhi subhan allah
-  Mai aaj hurr ko alaihis salaam kiuṅ na kahuṅ
-  Jis ne ashur ki shab tere liye ya saarallah
-  Maal o daulat ko chora haathoṅ ko jora aur bola
+  Tu hi to hai woh baadshaah ya Husain
+  Jis ko dunya ke saare baadshahoṅ ne salaam kiya
+  Jis ka baba ho Ali aur maaṅ ho Fatema
+  Sab ko nasib kahaṅ hota hai aisa imaam
+  Main to kahuṅ ga sar-e-aam...
+  Jaisa Husain tu hai baadshaah maasha Allah
+  Tujhko mile hai sab ghulam bhi subhaan Allah
+  Main aaj Hurr ko alaihis salaam kiuṅ na kahuṅ
+  Jis ne Aashur ki shab tere liye ya Saarallah
+  Maal o daulat ko chhora haathoṅ ko jora aur bola
   Ya Husain aap pe mera salaam
-  Mai to kahunga sare aam...
-  Saara zamana hai gawah ya Husain maula
-  Tu ne bachaya la ilaaha ya Husain maula
-  Hussaino minni wa ana minal Husain yani tu
+  Main to kahuṅ ga sar-e-aam...
+  Saara zamaana hai gawaah ya Husain maula
+  Tu ne bachaaya hai gawaah ya Husain maula
+  Husain o minni wa ana min al-Husain yaani tu
   Ban gaya nabiyoṅ ka shaah ya Husain maula
   Dil waaloṅ ka hai naara Husain hamara
-  Tere ghulam hi to bante hai aali maqam
-  Mai to kahunga sare aam...
-  Ana majnun al Husain
-  Ana majnun al Husain
-  Ya sayyidi ya murshadi Husain yabnaz zahra
+  Tere ghulam hi to bante haiṅ aali maqaam
+  Main to kahuṅ ga sar-e-aam...
+  Ana majnun al-Husain
+  Ana majnun al-Husain
+  Ya sayyidi ya murshid Husain ya ibn az-Zahra
   Jo hai ghulam tera us pe ho salaam mera
-  Bhula nahi huṅ mai wo kufe ka darbar jahaṅ
-  Aakar jalal meiṅ muslim bine aqil bola
-  Ibne marjana sunle rokega kaise
-  Tu kya hai aaj chaahe aa jaaye faqir e shaam
-  Mai to kahunga sare aam...
-  Maula abbas tum se fatema zehra hai raazi
+  Bhula nahiṅ huṅ main woh Kufe ka darbaar jahaṅ
+  Aa kar jalaal meiṅ Muslim bin Aqil bola
+  Ibn Marjaana sun le roke ga kaise
+  Tu kya hai aaj chaahe aa jaaye faqir-e-Shaam
+  Main to kahuṅ ga sar-e-aam...
+  Maula Abbas tum se Fatema Zehra hai raazi
   Tum ne wafaoṅ ke maidan meiṅ jiti hai baazi
-  Tum bhi to ho ali ke bete jab zaalim ne pucha
-  Kiuṅ ban ke rehte ho Husain ke ghulam ghazi
-  Ghaiz meiṅ aa kar wallah sher ye bola
-  Ho ja khamosh de apni zabaṅ ko lagaam
-  Mai to kahunga sare aam...
-  Hota rahega ya Husain ye aelaan e aza
-  Chalta rahega na rukega karwan e aza
-  Pabandiyaṅ ho chahe jitni bhi in majlisoṅ par
-  Nauhe sunayenge zishan aur irfan e aza
-  Majlis bhi hogi maula matam bhi hoga
-  Ishqe Husain meiṅ taqayya hota hai haraam
-  Mai to kahunga sare aam...
-  Husain imame manasto
-  Manam ghulame Husain
-  Mera syed tu meri jaan bhi tu
-  Mera din bhi tu emaan bhi tu
+  Tum bhi to ho Ali ke bete jab zaalim ne puchha
+  Kiuṅ ban ke rehte ho Husain ke ghulam Ghazi
+  Ghaiz meiṅ aa kar wallah sher yeh bola
+  Ho ja khaamosh de apni zabaṅ ko lagaam
+  Main to kahuṅ ga sar-e-aam...
+  Hota rahe ga ya Husain yeh ailaan-e-aza
+  Chalta rahe ga na ruke ga kaarwaan-e-aza
+  Pabandiyaṅ ho chaahe jitni bhi in majlisoṅ par
+  Nauhe sunaayeṅ ge Zishaan aur Irfaan-e-aza
+  Majlis bhi ho gi maula maatam bhi ho ga
+  Ishq-e-Husain meiṅ taqayya hota hai haraam
+  Main to kahuṅ ga sar-e-aam...
+  Husain imaam-e-man ast o
+  Manam ghulam-e-Husain
+  Mera Sayyid tu meri jaan bhi tu
+  Mera din bhi tu imaan bhi tu
   Mere maula teri qasam karam meiṅ
   Sab se aali shaan bhi tu
-  Ye izzat bhi tera sadqa hai
-  Ye shohrat bhi tera sadqa hai
+  Yeh izzat bhi tera sadqa hai
+  Yeh shohrat bhi tera sadqa hai
   Jo kuch bhi mere paas hai maula
   Sab kuch tera sadqa hai
-  Karta huṅ mai ye waada ya abaabdillah
-  Tera zakir huṅ jab bhi saamne hogi awaam
-  Mai to kahunga sare aam
-  Mai Husain ka ghulam
+  Karta huṅ main yeh waada ya Aba Abdillah
+  Tera zaakir huṅ jab bhi saamne ho gi awaam
+  Main to kahuṅ ga sar-e-aam
+  Main Husain ka ghulam
 ---
 
 ۱

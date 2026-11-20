@@ -1,30 +1,50 @@
 ---
-title: "Haye Ain Shabab Che Qatal Hoya Logo Zahra Da Lal Aye Lyrics In Punjabi 2023"
+title: "ہائے عین شباب چے قتل ہویا لوگو زہرا دا لال اے"
+alternateTitle: "Haye Ain Shabab Che Qatal Hoya Logo Zahra Da Lal Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye ain shabab che qatal hoya logo Zahra da lal aye
+  Mehdi da baba tur chaliya aye jidi umar athayi saal aye
+  Wich Samarra ummat ne haye putar Nabi da mariya aye
+  Ghar pak Batool da lokaan ne ik fair ujariya aye
+  Chad Najaf Madine Karbal nu aayi pak Rasool di aal aye
+  Qasim de waang ummat Mehdi te zulm kamaya aye
+  Mere Askari Maula nu haye Shabbar wangoon tarpaya aye
+  Kalma gowaan ne dohaan nu kita qatal zehar de naal aye
+  Haye aal-e-Muhammad te rehya karda zulm zamana kyun
+  Haider taun le ke gyarween taein hoye qatal imam ne nana kyun
+  Kitay zulm ne kalma gowaan jo nayi mildi koi misal aye
+  Kehya Hasan Askari ne Narjis ayeh waqt v aana aye
+  Rakhein hosla Mehdi ne tainu kaliyaan chad ke tur jana aye
+  Tere lal di ghaibat de bajoon iss deen da bachna mohal aye
+  Ayeh zikar nayi rukna Sajjad ayeh pursa daim aye
+  Kehya Maula fikar nayi karni mera Mehdi sir te qayam aye
+  Mera Khaliq rakh si Hashar taein mere lal da aap khiyal aye
 ---
 
-1
-Haye Ain Shabab Che Qatal Hoya Logo Zahra Da Lal Aye.
-Mehdi Da Baba Tur Chaliya Aye Jidi Umar Athayi Saal Aye.
-Wich Samarra Ummat Ne Haye Putar Nabi Da Mariya Aye.
-Ghar Pak Batool Da Lokaan Ne Ik Fair Ujariya Aye.
-Chad Najaf Madine Karbal Nu Aayi Pak Rasool Di Aal Aye.
-Qasim De Waang Ummat Mehdi Te Zulm Kamaya Aye.
-Mere Askari Maula Nu Haye Shabbar Wangoon Tarpaya Aye.
-Kalma Gowaan Ne Dohaan Nu Kita Qatal Zehar De Naal Aye.
-Haye Aal-e-Muhammad Te Rehya Karda Zulm Zamana Kyun.
-Haider Taun Le Ke Gyarween Taein Hoye Qatal Imam Ne Nana Kyun.
-Kitay Zulm Ne Kalma Gowaan Jo Nayi Mildi Koi Misal Aye.
-Kehya Hasan Askari Ne Narjis Ayeh Waqt V Aana Aye.
-Rakhein Hosla Mehdi Ne Tainu Kaliyaan Chad Ke Tur Jana Aye.
-Tere Lal Di Ghaibat De Bajoon Iss Deen Da Bachna Mohal Aye.
-Ayeh Zikar Nayi Rukna Sajjad Ayeh Pursa Daim Aye.
-Kehya Maula Fikar Nayi Karni Mera Mehdi Sir Te Qayam Aye.
-Mera Khaliq Rakh Si Hashar Taein Mere Lal Da Aap Khiyal Aye.
+۱
+ہائے عین شباب چے قتل ہویا لوگو زہرا دا لال اے
+مہدی دا بابا ٹر چلیا اے جیدی عمر اٹھائی سال اے
+وچ سامرہ امت نے ہائے پتر نبی دا ماریا اے
+گھر پاک بتول دا لوکاں نے اک فیر اجاڑیا اے
+چھڈ نجف مدینے کربل نوں آئی پاک رسول دی آل اے
+قاسم دے وانگ امت مہدی تے ظلم کمایا اے
+میرے عسکری مولا نوں ہائے شبّر وانگوں تڑپایا اے
+کلمہ گوواں نے دوہاں نوں کیتا قتل زہر دے نال اے
+ہائے آلِ محمد تے رہیا کردا ظلم زمانہ کیوں
+حیدر توں لے کے گیارویں تائیں ہوئے قتل امام نے نانا کیوں
+کیتے ظلم نے کلمہ گوواں جو نئیں ملدی کوئی مثال اے
+کہیا حسن عسکری نے نرجس ایہہ وقت وی آنا اے
+رکھیں حوصلہ مہدی نے تینوں کلیاں چھڈ کے ٹر جانا اے
+تیرے لال دی غیبت دے باجوں اس دین دا بچنا محال اے
+ایہہ ذکر نئیں رکنا سجاد ایہہ پرسہ دائم اے
+کہیا مولا فکر نئیں کرنی میرا مہدی سر تے قائم اے
+میرا خالق رکھ سی حشر تائیں میرے لال دا آپ خیال اے

@@ -20,15 +20,15 @@ romanLyrics: |-
 
   2
   Sheh uthe parh kar namaaz-e-subh mahshar ho gaya
-  Hazrat-e-Zainab chali kapre pehnaane ke liye
+  Hazrat Zainab chali kapre pehnaane ke liye
 
   3
   Kehti thi maaṅ khat mere Akbar ko tha paighaam-e-marg
-  Ye jawaani aayi thi goya bhulaane ke liye
+  Ye jawaani aayi thi goya bulaane ke liye
 
   4
   Thi sada Zehra ki Zainab mar gaya tera Husain
-  Ghar meiṅ jaa beti saf-e-maatam bichhaane ke liye
+  Ghar meiṅ jaa baithi saf-e-maatam bichhaane ke liye
 ---
 
 گھر کو چھوڑا شاہ نے جنگل بسانے کے لئے

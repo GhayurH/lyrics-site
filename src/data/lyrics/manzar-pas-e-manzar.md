@@ -26,8 +26,8 @@ romanLyrics: |-
   Is khaak ki kya tujhko khabar kitni bhali hai
   Is dasht ke ausaaf meiṅ aqwaal-e-jali hai
   Firdaus ka tukra to sar-e-dasht yehi hai
-  Taa hadd-e-nazar aaj yahaaṅ haiṅ mere aghyaar
-  Kal hoṅge yahaaṅ chaaroṅ taraf zaair-e-Sarwar
+  Taa hadd-e-nazar aaj yahaaṅ hai mere aghyaar
+  Kal honge yahaaṅ chaaroṅ taraf zaair-e-Sarwar
 
   3
   Hum bint-e-Payambar ke chahite haiṅ khabardaar
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   4
   Pehra hai lab-e-nehr atash lab pe hamaare
-  Tum ne to taraayi pe bitha rakhe haiṅ pehre
+  Tum ne to taraayi pe bithaa rakhe haiṅ pehre
   Ye aaj ki tasvir hai ekaad ke bete
   Kal pyaasoṅ ke ism-e-giraami ke tasadduq
   Dunya meiṅ rawaaṅ hoga sabiloṅ ka samandar
@@ -52,14 +52,14 @@ romanLyrics: |-
 
   6
   Allah ne apne hi liye hum ko banaya
-  Ye jaan ke bhi tum ne hameiṅ dukh diye kya kya
+  Ye jaan ke bhi tum ne hameiṅ dukh diya kya kya
   Hum uski hi tauhid tale karte haiṅ sajda
   Sar tan se juda hoga magar dekhna zaalim
   Aayegi kate sar se sada Allahu Akbar
 
   7
   Ye ishq ki meraaj hai qurbaani-e-Shabbir
-  Faqr-e-yad-e-bezaam hai Islam ki taqdir
+  Fakhr-e-yad-e-bezaam hai Islam ki taqdir
   Maqsad se mere khub hai waaqif mera beshir
   Khaamoshiyaaṅ kiuṅ orh ke nikle haiṅ watan se
   Manzur hai hum logoṅ ko taskin-e-Payambar
@@ -73,8 +73,8 @@ romanLyrics: |-
 
   9
   Ae Dayam o Yazdaṅ yehi Sheh kehte the sun le
-  Ye dhup ye sehra ye baraste huwe shole
-  Ye gulshan-e-sehra sipaah-e-Shaam ke qabze
+  Ye dhup ye sahra ye baraste huwe shole
+  Ye gulshan-e-sahra sipaah-e-Shaam ke qabze
   Ye aaj ki tasvir hai ye aaj ka manzar
   Kal chamkega is dasht ka aabaad manzar
 ---

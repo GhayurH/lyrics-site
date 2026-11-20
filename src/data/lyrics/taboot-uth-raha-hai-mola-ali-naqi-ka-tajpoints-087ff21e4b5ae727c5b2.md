@@ -1,29 +1,48 @@
 ---
-title: "Taboot Uth Raha Hai Mola Ali Naqi Ka"
+title: "تابوت اٹھ رہا ہے مولا علی نقی کا"
+alternateTitle: "Taboot Uth Raha Hai Mola Ali Naqi Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taboot uth raha hai Mola Ali Naqi ka Mir Hasan Mir
+  Ghurbat mein mar dala haye baba Askari ka
+  Kuch iss liye bhi ummat dushman hoi Naqi ki
+  Beta yeh Fatima ka humnam hai Ali ka
+
+  2
+  Sansein ukhar rahi thin aankhon se khoon tha jari
+  Khul kar tarap na paya lasha bhi oss dukhi ka
+  Sokhay hoye konwein ka qaidi hi janta hai
+  Aalam tha Karbala mein kaisa woh tishnagi ka
+
+  3
+  Apne hi ghar mein aakhir turbat bana ke soya
+  Muddat se darbadar tha farzand yeh Nabi ka
+  Sadiyon ke baad bhi hai Akbar dilon mein nafrat
+  Younhi mazar ik din dhaya gaya Naqi ka
 ---
 
-1
-Taboot Uth Raha Hai Mola Ali Naqi Ka Mir Hasan Mir.
-Ghurbat Mein Mar Dala Haye Baba Askari Ka.
-Kuch Iss Liye Bhi Ummat Dushman Hoi Naqi Ki.
-Beta Yeh Fatima Ka Humnam Hai Ali Ka.
+۱
+تابوت اٹھ رہا ہے مولا علی نقی کا میر حسن میر
+غربت میں مار ڈالا ہائے بابا عسکری کا
+کچھ اس لیے بھی امت دشمن ہوئی نقی کی
+بیٹا یہ فاطمہ کا ہم نام ہے علی کا
 
-2
-Sansein Ukhar Rahi Thin Aankhon Se Khoon Tha Jari.
-Khul Kar Tarap Na Paya Lasha Bhi Oss Dukhi Ka.
-Sokhay Hoye Konwein Ka Qaidi Hi Janta Hai.
-Aalam Tha Karbala Mein Kaisa Woh Tishnagi Ka.
+۲
+سانسیں اکھڑ رہی تھیں آنکھوں سے خون تھا جاری
+کھل کر تڑپ نہ پایا لاشہ بھی اس دکھی کا
+سوکھے ہوئے کنویں کا قیدی ہی جانتا ہے
+عالم تھا کربلا میں کیسا وہ تشنگی کا
 
-3
-Apne Hi Ghar Mein Aakhir Turbat Bana Ke Soya.
-Muddat Se Darbadar Tha Farzand Yeh Nabi Ka.
-Sadiyon Ke Baad Bhi Hai Akbar Dilon Mein Nafrat.
-Younhi Mazar Ik Din Dhaya Gaya Naqi Ka.
+۳
+اپنے ہی گھر میں آخر تربت بنا کے سویا
+مدت سے دربدر تھا فرزند یہ نبی کا
+صدیوں کے بعد بھی ہے اکبر دلوں میں نفرت
+یوں ہی مزار اک دن ڈھایا گیا نقی کا

@@ -13,75 +13,75 @@ romanLyrics: |-
   1
   Asghar ko jaga de koi
   Akbar ko bata de koi
-  Bemaar behan ne khat meiṅ
-  Sab haal e zaar likha hai
-  Akbar ko duaeiṅ di hai
-  Asghar ko pyar likha hai
-  Bemaar behan ne khat meiṅ
-  Sab haal e zaar likha hai
-  Sughra ne na pucho khat meiṅ
-  Kya kya tehrir kiya hai
-  Pucha hai har ek bhai ko
-  Zikre hamshir kiya hai
-  Kiuṅ bhol gaye dukhiya ko
-  Sab rishtedaar likha hai
-  Bemaar behan ne khat mein...
+  Bimaar behan ne khat meiṅ
+  Sab haal-e-zaar likha hai
+  Akbar ko duaaeṅ di hai
+  Asghar ko pyaar likha hai
+  Bimaar behan ne khat meiṅ
+  Sab haal-e-zaar likha hai
+  Sughra ne na puchho khat meiṅ
+  Kya kya tahrir kiya hai
+  Puchha hai har ek bhai ko
+  Zikr-e-hamshir kiya hai
+  Kiuṅ bhul gaye dukhiya ko
+  Sab rishte daar likha hai
+  Bimaar behan ne khat meiṅ...
   Bhaiya ne khub behan ki
-  Ulfat ka karz chukaya
+  Ulfat ka qarz chukaya
   Pardes meiṅ jaa kar apna
   Waada bhi yaad na aaya
-  Lene ko na aaye akbar
+  Lene ko na aaye Akbar
   Shikwa har baar likha hai
-  Bemaar behan ne khat mein...
-  Jis din se aap gaye hai
-  Urti hai khaak watan meiṅ
+  Bimaar behan ne khat meiṅ...
+  Jis din se aap gaye haiṅ
+  Urti hai khaak-e-watan meiṅ
   Kab jaane bahaar aayegi
-  Umid ke is gulshan meiṅ
+  Ummid ke is gulshan meiṅ
   Baba hai akele ghar meiṅ
   Jina dushwaar likha hai
-  Bemaar behan ne khat mein...
-  Furqat meiṅ jhula kar asghar
-  Khaali tera gehwara
-  Yaadoṅ meiṅ teri sughra ka
+  Bimaar behan ne khat meiṅ...
+  Furqat meiṅ jhula kar Asghar
+  Khaali tera gahwaara
+  Yaadoṅ meiṅ teri Sughra ka
   Kat jaata hai din saara
-  Nanhe se musafir tujh par
-  Sadqe sau bar likha hai
-  Bemaar behan ne khat mein...
-  Itni si dabe lafzoṅ meiṅ
-  Sughra ne jasarat ki hai
-  Ammu se gila furqat ka
-  Baba se shikayat ki hai
-  Kiuṅ bhul gaye gurbat meiṅ
-  Sab zimmedar likha hai
-  Bemaar behan ne khat mein...
-  Jab aun o mohamed mujhko
-  Tanhaai mein yaad aate hai
-  Do chand se chehre
-  Meri nazroṅ meiṅ samaa jaate hai
-  Kab hoga na jaane unka
-  Mujhko dedaar likha hai
-  Bemaar behan ne khat mein...
+  Nanhe se musaafir tujh par
+  Sadqe sau baar likha hai
+  Bimaar behan ne khat meiṅ...
+  Itni si dab lafzoṅ meiṅ
+  Sughra ne jasaarat ki hai
+  Ammu se shikaayat ki hai
+  Baba se shikaayaat ki hai
+  Kiuṅ bhul gaye ghurbat meiṅ
+  Sab zimme daar likha hai
+  Bimaar behan ne khat meiṅ...
+  Jab Aun o Muhammad mujhko
+  Tanhaai meri yaad aate haiṅ
+  Do chaand se chehre
+  Meri nazroṅ meiṅ samaa jaate haiṅ
+  Kab hoga na jaane un ka
+  Mujhko didaar likha hai
+  Bimaar behan ne khat meiṅ...
   Kiuṅ dur watan se jaa kar
-  Saare ehbaab base hai
+  Saare ahbaab base hai
   Aankhoṅ meiṅ mere bhaiya ki
-  Shadi ke khwaab saje hai
-  Karti hoo khayaloṅ meiṅ mai
-  Sehra tayyar likha hai
-  Bemaar behan ne khat mein...
-  Parte hai shahe diṅ jab khat
+  Shaadi ke khwaab saje haiṅ
+  Karti huṅ khayaaloṅ meiṅ main
+  Sehra tayyaar likha hai
+  Bimaar behan ne khat meiṅ...
+  Parte haiṅ shah-e-diṅ jab khat
   Har laash tarap jaati hai
-  Qasim ko hijab aata hai
+  Qaasim ko hijaab aata hai
   Akbar ko haya aati hai
-  Kya koi nahi hai baba
-  Mera ghamkhwar likha hai
-  Bemaar behan ne khat mein...
-  Ek baap ne aamir o akhtar
+  Kya koi nahiṅ hai baba
+  Mera ghamkhwaar likha hai
+  Bimaar behan ne khat meiṅ...
+  Ik baap ne Aamir o Akhtar
   Mushkil se jigar ko thaama
   Akbar ki laash pe rakha
   Ye keh ke behan ka naama
   Khud uth ke masiha parh le
-  Haal e bemaar likha hai
-  Bemaar behan ne khat mein...
+  Haal-e-bimaar likha hai
+  Bimaar behan ne khat meiṅ...
 ---
 
 ۱

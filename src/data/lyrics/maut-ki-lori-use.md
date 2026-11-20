@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Yaad maaṅ ko jo sataati hai Ali Asghar ki
-  Aah ek bharti hai aur khaak ura deti hai
+  Aah ik bharti hai aur khaak ura deti hai
 
   4
   Dekh kar jalta hua jhula ye kehti thi Rabaab
@@ -36,7 +36,7 @@ romanLyrics: |-
   Maaṅ jo pehlu meiṅ Sakina ko sula deti hai
 
   6
-  Ek to nind hi aati nahiṅ maaṅ ko Asghar
+  Ik to nind hi aati nahiṅ maaṅ ko Asghar
   Is pe soye to teri yaad jaga deti hai
 
   7
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Raat hoti hai to zindaaṅ meiṅ maadar-e-Akbar
-  Loriyoṅ ki jagah ek noha suna deti hai
+  Loriyoṅ ki jagah ik noha suna deti hai
 ---
 موت کی لوری اسے رن میں قضا دیتی ہے
 اور ماں خیموں میں جینے کی دعا دیتی ہے

@@ -11,76 +11,76 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Alwida kul ke madadgaar alwida hyder e karrar
-  Baba ko dafn kar ke jo aaye hasnain
-  Dekha gali meiṅ rota hai koi ba-shor o shain
-  Aaye aur uske pass kaha bhai kya hua
+  Alwida kul ke madadgaar alwida Haidar-e-Karrar
+  Baba ko dafn kar ke jo aaye Husain
+  Dekha gali meiṅ rota hai koi ba shor o shain
+  Aaye aur us ke paas kaha bhai kya hua
   Wo ro ke sar patakta tha aur karta tha ye bain
-  Haye wo nahi aaya haye wo nahi aaya
-  Ek faqir deta tha sada haye wo nahi aaya
-  Tin din ka faqa hogaya haye wo nahi aaya
-  Jab andhera sar pe chaata tha
-  Wo hamare paas aata tha
+  Haaye wo nahiṅ aaya haaye wo nahiṅ aaya
+  Ek faqir deta tha sada haaye wo nahiṅ aaya
+  Tin din ka faaqa ho gaya haaye wo nahiṅ aaya
+  Jab andhera sar pe chhaata tha
+  Wo hamaare paas aata tha
   Khaana hum sabhi ghariboṅ ko
-  Apne haathoṅ se khilata tha
-  Tha ajib banda e khuda
-  Haye wo nahi aaya
+  Apne haathoṅ se khilaata tha
+  Tha ajib banda-e-Khuda
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
-  Wo hamara gham gusaar tha
-  Yaadgar e kirdigaar tha
+  Wo hamaara gham gusaar tha
+  Yaadgaar-e-Kirdigaar tha
   Bolta to phul jharte the
-  Khamoshi meiṅ rob daar tha
-  Tha zamiṅ pe mazhare khuda
-  Haye wo nahi aaya
+  Khaamoshi meiṅ raub daar tha
+  Tha zamiṅ pe mazhar-e-Khuda
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
-  Kis tarha se ab jiyenge hum
-  Ashk raat din piyenge hum
-  Uske hote fikr hi na thi
-  Khayenge o kya piyenge hum
+  Kis tarah se ab jiyeṅge hum
+  Ashk raat din piyeṅge hum
+  Us ke hote fikr hi na thi
+  Khaayeṅge aur kya piyeṅge hum
   Jaane wo kidhar chala gaya
-  Haye wo nahi aaya
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
-  Kis taraf kahaṅ pe jauṅ mai
-  Kis tarha use manauṅ mai
+  Kis taraf kahaaṅ pe jaauṅ main
+  Kis tarah use manaauṅ main
   Apne mohsin o masiha ko
-  Dhoondh kar kahaṅ se laauṅ mai
-  Naam tak mujhe nahi pata
-  Haye wo nahi aaya
+  Dhund kar kahaaṅ se laauṅ main
+  Naam tak mujhe nahiṅ pata
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
-  Har taraf udaasi chaayi thi
+  Har taraf udaasi chhaayi thi
   Jaane kaisa din ye laayi thi
-  Aaj subha aasman se
+  Aaj subah aasmaan se
   Ek sada ajib aayi thi
   Dil dharak raha hai ab mera
-  Haye wo nahi aaya
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
   Sun ke us faqir ke sukhan
   Ro pare Husain aur Hasan
   Kahte the ye sar ko pit kar
-  Uth gaye jahaṅ se bul-Hasan
-  Haye wo hi baba tha mera
-  Haye wo nahi aaya
+  Uth gaye jahaaṅ se Abul Hasan
+  Haaye wo hi baba tha mera
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
   Kufe ki zamin hil gayi
-  Sar pe uske taygh chal gayi
+  Sar pe us ke tegh chal gayi
   Maara aisa rozedaar ko
-  Zindagi ki shamma bujh gayi
-  Aasmaṅ zamiṅ pe gir padha
-  Haye wo nahi aaya
+  Zindagi ki shama bujh gayi
+  Aasmaaṅ zamiṅ pe gir para
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
-  Kab talak ye gham uthayega
-  Ro ke humko bhi rulayega
-  Jisko yaad kar raha hai tu
-  Ab kbhi bhi wo na aayega
-  Humne usko di bahot sada
-  Haye wo nahi aaya
+  Kab talak ye gham uthaayega
+  Ro ke hum ko bhi rulaayega
+  Jis ko yaad kar raha hai tu
+  Ab kabhi bhi wo na aayega
+  Hum ne us ko di bahut sada
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
   Bekasi aur aisi bekasi
-  Lag raha hai aamir aaj bhi
-  Chauda sadiyaṅ hogayi magar
-  Aini rizvi us faqir ki
-  Gunjti hai kufe meiṅ sada
-  Haye wo nahi aaya
+  Lag raha hai Aamir aaj bhi
+  Chaudah sadiyaaṅ ho gayiṅ magar
+  Aini Rizvi us faqir ki
+  Gunjti hai Kufe meiṅ sada
+  Haaye wo nahiṅ aaya
   Ek faqir deta tha...
 ---
 

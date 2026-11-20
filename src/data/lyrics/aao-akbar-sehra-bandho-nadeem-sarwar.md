@@ -48,7 +48,7 @@ romanLyrics: |-
   Aane ki sakat ho to aao
   Aur neg tum apna le jaao
   Bhaiya ke gale lag jaao
-  Ghonghat dulhan ka uthaao
+  Gonghat dulhan ka uthaao
 
   6
   Kehti hai Sakina khush ho kar

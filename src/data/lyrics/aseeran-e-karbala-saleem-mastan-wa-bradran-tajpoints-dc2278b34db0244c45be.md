@@ -1,61 +1,112 @@
 ---
-title: "Aseeran E Karbala Saleem Mastan Wa Bradran"
+title: "اسیرانِ کربلا سلیم مستان و برادران"
+alternateTitle: "Aseeran E Karbala Saleem Mastan Wa Bradran"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Marsiya"
 poet: "Ahsaan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aseeran e Karbala Saleem Mastan wa bradran
+
+  1
+  Jab Karbala mein qaid hoi aal-e-Mustafa
+  Abbas-e-namdar ko Zainab ne di sada
+  Afsoos chadron ka mohafiz nahi raha
+  Syedaniyon ke sar se utari gayi rida
+  Woh waqt tha keh ahl-e-haram kanpne lagay
+  Karb-o-bala ki khak se sar dhanpne lagay
+
+  2
+  Dhool iss qadar ke chehray ko chehra na dikh sakay
+  Woh dhop thi ke saye bhi thara ke reh gaye
+  Tapti zameen pe koi bhala kis tarha chaley
+  Phir bhi na past ho sakay Abid ke hoslay
+  Beri ke zakhm they jo jigar kattay rahe
+  Akbar se dard zeen e abba banttay rahe
+
+  3
+  Bazar-e-Kofa aa gaya ik shoor hai bapa
+  Ronaq lagi hoi hai sar-e-rah har jagah
+  Na mehramo ke darmiyaan Zainab hai be rida
+  Phir bhi labon pe sani-e-Zahra ke hai dua
+  Pyason ko Karbala ke woh youn bhi satatay hain
+  Ghar ki chaton se kholta pani giratay hain
+
+  4
+  Warid hoye jo Sham mein ahl-e-haram tamam
+  Chalna howa mohal aseeron ka aik gaam
+  Itnay mein saj gaya koi darbar-e-be lagam
+  Betha howa tha takht pe zalim zalil e Sham
+  Jane Khuda keh haal Sakina ka kya raha
+  Honton pe sheh ke jab woh chari marta raha
+
+  5
+  Zindaan mein qaid kar di gayi shah ki behan
+  Sath unn ke thi Sakina bhi mazloom-o-khasta tan
+  Ro ro ke kehti rehti thi amma watan watan
+  Ab our zulm seh nahi sakta mera badan
+  Baba ka sar miley ga tu kuch chain paon gi
+  Rukhsaron ke main neel unhi ko dikhaon gi
+
+  6
+  Ahsaan sar ko peeto keh woh aa gaya pehar
+  Zindaan mein ho ka shoor hawa ka nahi guzar
+  Zalim ne qaid khane mein bhaija padar ka sar
+  Daman howa Sakina ka ashkon se tar batar
+  Aisi bhi kya woh baba se faryad kar gayi
+  Galon pe gaal rakh ke Sakina guzar gayi
 ---
 
-Aseeran e Karbala Saleem Mastan Wa Bradran.
+اسیرانِ کربلا سلیم مستان و برادران
 
-1
-Jab Karbala Mein Qaid Hoi Aal-e-Mustafa.
-Abbas-e-Namdar Ko Zainab Ne Di Sada.
-Afsoos Chadron Ka Mohafiz Nahi Raha.
-Syedaniyon Ke Sar Se Utari Gayi Rida.
-Woh Waqt Tha Keh Ahl-e-Haram Kanpne Lagay.
-Karb-o-Bala Ki Khak Se Sar Dhanpne Lagay.
+۱
+جب کربلا میں قید ہوئی آلِ مصطفیٰ
+عباسِ نامدار کو زینب نے دی صدا
+افسوس چادروں کا محافظ نہیں رہا
+سیدانیوں کے سر سے اتاری گئی ردا
+وہ وقت تھا کہ اہلِ حرم کانپنے لگے
+کرب و بلا کی خاک سے سر ڈھانپنے لگے
 
-2
-Dhool Iss Qadar Ke Chehray Ko Chehra Na Dikh Sakay.
-Woh Dhop Thi Ke Saye Bhi Thara Ke Reh Gaye.
-Tapti Zameen Pe Koi Bhala Kis Tarha Chaley.
-Phir Bhi Na Past Ho Sakay Abid Ke Hoslay.
-Beri Ke Zakhm They Jo Jigar Kattay Rahe.
-Akbar Se Dard Zeen e Abba Banttay Rahe.
+۲
+دھول اس قدر کہ چہرے کو چہرہ نہ دکھ سکے
+وہ دھوپ تھی کہ سائے بھی تھرّا کے رہ گئے
+تپتی زمین پہ کوئی بھلا کس طرح چلے
+پھر بھی نہ پست ہو سکے عابد کے حوصلے
+بیڑی کے زخم تھے جو جگر کاٹتے رہے
+اکبر سے درد زینِ ابّا بانٹتے رہے
 
-3
-Bazar-e-Kofa Aa Gaya Ik Shoor Hai Bapa.
-Ronaq Lagi Hoi Hai Sar-e-Rah Har Jagah.
-Na Mehramo Ke Darmiyaan Zainab Hai Be Rida.
-Phir Bhi Labon Pe Sani-e-Zahra Ke Hai Dua.
-Pyason Ko Karbala Ke Woh Youn Bhi Satatay Hain.
-Ghar Ki Chaton Se Kholta Pani Giratay Hain.
+۳
+بازارِ کوفہ آ گیا اک شور ہے بپا
+رونق لگی ہوئی ہے سرِ راہ ہر جگہ
+نامحرموں کے درمیاں زینب ہے بے ردا
+پھر بھی لبوں پہ ثانیِ زہرا کے ہے دعا
+پیاسوں کو کربلا کے وہ یوں بھی ستاتے ہیں
+گھر کی چھتوں سے کھولتا پانی گراتے ہیں
 
-4
-Warid Hoye Jo Sham Mein Ahl-e-Haram Tamam.
-Chalna Howa Mohal Aseeron Ka Aik Gaam.
-Itnay Mein Saj Gaya Koi Darbar-e-Be Lagam.
-Betha Howa Tha Takht Pe Zalim Zalil e Sham.
-Jane Khuda Keh Haal Sakina Ka Kya Raha.
-Honton Pe Sheh Ke Jab Woh Chari Marta Raha.
+۴
+وارد ہوئے جو شام میں اہلِ حرم تمام
+چلنا ہوا محال اسیروں کا ایک گام
+اتنے میں سج گیا کوئی دربارِ بے لگام
+بیٹھا ہوا تھا تخت پہ ظالم ذلیلِ شام
+جانے خدا کہ حال سکینہ کا کیا رہا
+ہونٹوں پہ شہ کے جب وہ چھڑی مارتا رہا
 
-5
-Zindaan Mein Qaid Kar Di Gayi Shah Ki Behan.
-Sath Unn Ke Thi Sakina Bhi Mazloom-o-Khasta Tan.
-Ro Ro Ke Kehti Rehti Thi Amma Watan Watan.
-Ab Our Zulm Seh Nahi Sakta Mera Badan.
-Baba Ka Sar Miley Ga Tu Kuch Chain Paon Gi.
-Rukhsaron Ke Main Neel Unhi Ko Dikhaon Gi.
+۵
+زنداں میں قید کر دی گئی شاہ کی بہن
+ساتھ ان کے تھی سکینہ بھی مظلوم و خستہ تن
+رو رو کے کہتی رہتی تھی امّاں وطن وطن
+اب اور ظلم سہ نہیں سکتا میرا بدن
+بابا کا سر ملے گا تو کچھ چین پاؤں گی
+رخساروں کے میں نیل انھی کو دکھاؤں گی
 
-6
- Ahsaan Sar Ko Peeto Keh Woh Aa Gaya Pehar.
-Zindaan Mein Ho Ka Shoor Hawa Ka Nahi Guzar.
-Zalim Ne Qaid Khane Mein Bhaija Padar Ka Sar.
-Daman Howa Sakina Ka Ashkon Se Tar Batar.
-Aisi Bhi Kya Woh Baba Se Faryad Kar Gayi.
-Galon Pe Gaal Rakh Ke Sakina Guzar Gayi.
+۶
+احسان سر کو پیٹو کہ وہ آ گیا پہر
+زنداں میں ہو کا شور ہوا کا نہیں گزر
+ظالم نے قید خانے میں بھیجا پدر کا سر
+دامن ہوا سکینہ کا اشکوں سے تر بہ تر
+ایسی بھی کیا وہ بابا سے فریاد کر گئی
+گالوں پہ گال رکھ کے سکینہ گزر گئی

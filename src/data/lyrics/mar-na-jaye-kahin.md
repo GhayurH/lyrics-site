@@ -1,6 +1,6 @@
 ---
 title: "زانو پہ رکھ کے سر کو مظلوم کربلا"
-alternateTitle: "Mar Na Jaye Kahin"
+alternateTitle: "Mar Na Jaaye Kahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zaanu pe rakh ke sar ko mazlum e karbala
+  Zaanu pe rakh ke sar ko Mazlum-e-Karbala
   Kehte the tarap kar
-  Mar na jaaye kahiṅ wo maa akbar
-  Is tarha lo na hichkiyaṅ akbar
-  Khuṅ jo sine se hai rawaṅ akbar
-  Kar ke tanha chale kahaṅ akbar
-  Mar na jaaye kahin...
-  Laasha qaimon meiṅ le ke jaana hai
-  Zakhm maaoṅ se ye chupana hai
-  Aise ragdo na aeriyaṅ akbar
-  Mar na jaaye kahin...
-  Haal e ghurbat tumhe sunana tha
-  Maa ne sine tumhe lagana tha
-  Aa gayi darmiyaṅ sina akbar
-  Mar na jaaye kahin...
+  Mar na jaaye kahiṅ wo maa, Akbar
+  Is tarah lo na hichkiyaṅ, Akbar
+  Khuṅ jo sine se hai rawaṅ, Akbar
+  Kar ke tanha chale kahaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Laasha khaimoṅ meiṅ le ke jaana hai
+  Zakhm maaoṅ se ye chhupaana hai
+  Aise ragro na eriyaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Haal-e-ghurbat tumheṅ sunaana tha
+  Maa ne sine tumheṅ lagaana tha
+  Aa gayi darmiyaṅ sinaaṅ, Akbar
+  Mar na jaaye kahiṅ...
   Dil ki dharkan ko aasra de do
-  Hum ko awaaz e mustafa de do
-  Ab nahi doge kya azaaṅ akbar
-  Mar na jaaye kahin...
-  Sun ke teri sada e adrikni
-  Daure kehte huwe ye ibne ali
-  Aa raha hoo mai meri jaaṅ akbar
-  Mar na jaaye kahin...
-  Meri binayi kho gayi hai pisar
-  Mujhko aata nahi hai kuch bhi nazar
-  Do na awaaz ho kahaṅ akbar
-  Mar na jaaye kahin...
-  Haath sine pe dhar liya beta
-  Maiṅ ne mehsus kar liya beta
-  Zakhm gehra hai meri jaaṅ akbar
-  Mar na jaaye kahin...
-  Mere yusuf tum hi the ae pyare
+  Hum ko aawaaz-e-Mustafa de do
+  Ab nahiṅ do ge kya azaaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Sun ke teri sadaa-e-adrikni
+  Daure kehte hue ye Ibn-e-Ali
+  Aa raha huṅ main, meri jaaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Meri binaayi kho gayi hai, pisar
+  Mujh ko aata nahiṅ hai kuchh bhi nazar
+  Do na aawaaz, ho kahaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Haath sine pe dhar liya, beta
+  Main ne mahsus kar liya, beta
+  Zakhm gehra hai meri jaaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Mere Yusuf tum hi the, ae pyaare
   Meri aankhoṅ ke tum hi the taare
-  Kho gaya mera kul jahaṅ akbar
-  Mar na jaaye kahin...
-  Likh zoha dil mera bhi phat'ta hai
-  Saath barchi ke dil bhi khichti hai
-  Khaynchte hai wo jab sina akbar
-  Mar na jaaye kahin...
+  Kho gaya mera kul jahaaṅ, Akbar
+  Mar na jaaye kahiṅ...
+  Likh Zoha, dil mera bhi phatta hai
+  Saath barchhi ke dil bhi khichta hai
+  Khainchte haiṅ wo jab sinaaṅ, Akbar
+  Mar na jaaye kahiṅ...
 ---
 
 ۱

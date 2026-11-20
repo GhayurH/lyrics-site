@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Dariya"]
 published: true
 romanLyrics: |-
-  Pyaase khaimoṅ meiṅ musalsal hai fughaaṅ ae dariya
+  Pyaase khaimoṅ meiṅ musalsal hai faghaaṅ ae dariya
   Tu ne Ghaazi ko chhupaaya hai kahaaṅ ae dariya
 
   1
@@ -21,15 +21,15 @@ romanLyrics: |-
 
   2
   Mashk par tir jo aaya to ye mehsus hua
-  Jaise sine meiṅ utar aayi sinaaṅ ae dariya
+  Jaise sine meiṅ utar aaye sinaaṅ ae dariya
 
   3
   Haath katne pe bhi Abbas ke tewar haiṅ wohi
-  Shaah bach jaaye chali jaaye ye jaaṅ ae dariya
+  Shaah bach jaayeṅ chali jaaye ye jaaṅ ae dariya
 
   4
   Jaane kab se dar-e-khaima pe khare haiṅ bachche
-  Sukhe hontoṅ pe rakhi khushk zabaaṅ ae dariya
+  Sukhe hontoṅ pe rakhe khushk zabaaṅ ae dariya
 
   5
   Nok-e-naiza se utaari gayi Zainab ki rida

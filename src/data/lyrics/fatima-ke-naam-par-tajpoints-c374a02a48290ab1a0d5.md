@@ -1,38 +1,65 @@
 ---
-title: "Fatima Ke Naam Par"
+title: "فاطمہ کے نام پر"
+alternateTitle: "Fatima Ke Naam Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hur ne jo gardan jhukai Fatima ke naam par
+  Shah ne janat dilai Fatima ke naam par
+
+  1
+  Maut se bachta raha hoon le ke nam-e-Fatima
+  Aane doon ga gar woh aayi Fatima ke naam par
+  Mehar mein mangi shifat chahney walon ki jab
+  Arsh se tehreer aayi Fatima ke naam par
+
+  2
+  Oss pe lanat hai Khuda ki our Rasool Allah ki
+  Jo bhi aurat tilmilai Fatima ke naam par
+  Hum yahan mehway sana hain our wahan ustad ne
+  Arsh pe mehfil sajai Fatima ke naam par
+
+  3
+  Dard mein kaisay jeein hum aap tu hain gaib mein
+  Gaib se aawaz aayi Fatima ke naam par
+  Do jahan ki zilatein har dushman Zahra ki hain
+  Our hai sari barai Fatima ke naam par
+
+  4
+  Faqar oss ke pas phatka hai na phatkay ga kabhi
+  Jis ne bhi dolat lutai Fatima ke naam par
+  Our kiya mangoon mein Syed chahiye ab kiya mujhe
+  Kar raha hoon lab kushai Fatima ke naam par
 ---
 
-Hur Ne Jo Gardan Jhukai Fatima Ke Naam Par.
-Shah Ne Janat Dilai Fatima Ke Naam Par.
+حر نے جو گردن جھکائی فاطمہ کے نام پر
+شاہ نے جنت دلائی فاطمہ کے نام پر
 
-1
-Maut Se Bachta Raha Hoon Le Ke Nam-e-Fatima.
-Aane Doon Ga Gar Woh Aayi Fatima Ke Naam Par.
-Mehar Mein Mangi Shifat Chahney Walon Ki Jab.
-Arsh Se Tehreer Aayi Fatima Ke Naam Par.
+۱
+موت سے بچتا رہا ہوں لے کے نامِ فاطمہ
+آنے دوں گا گر وہ آئی فاطمہ کے نام پر
+مہر میں مانگی شفاعت چاہنے والوں کی جب
+عرش سے تحریر آئی فاطمہ کے نام پر
 
-2
-Oss Pe Lanat Hai Khuda Ki Our Rasool ALLAH Ki.
-Jo Bhi Aurat Tilmilai Fatima Ke Naam Par.
-Hum Yahan Mehway Sana Hain Our Wahan Ustad Ne.
-Arsh Pe Mehfil Sajai Fatima Ke Naam Par.
+۲
+اس پہ لعنت ہے خدا کی اور رسول اللہ کی
+جو بھی عورت تلملائی فاطمہ کے نام پر
+ہم یہاں محوِ ثنا ہیں اور وہاں استاد نے
+عرش پہ محفل سجائی فاطمہ کے نام پر
 
-3
-Dard Mein Kaisay Jeein Hum Aap Tu Hain Gaib Mein.
-Gaib Se Aawaz Aayi Fatima Ke Naam Par.
-Do Jahan Ki Zilatein Har Dushman Zahra Ki Hain.
-Our Hai Sari Barai Fatima Ke Naam Par.
+۳
+درد میں کیسے جیئیں ہم آپ تو ہیں غیب میں
+غیب سے آواز آئی فاطمہ کے نام پر
+دو جہاں کی ذلتیں ہر دشمنِ زہرا کی ہیں
+اور ہے ساری بڑائی فاطمہ کے نام پر
 
-4
-Faqar Oss Ke Pas Phatka Hai Na Phatkay Ga Kabhi.
-Jis Ne Bhi Dolat Lutai Fatima Ke Naam Par.
-Our Kiya Mangoon Mein Syed Chahiye Ab Kiya Mujhe.
-Kar Raha Hoon Lab Kushai Fatima Ke Naam Par.
+۴
+فقر اس کے پاس پھٹکا ہے نہ پھٹکے گا کبھی
+جس نے بھی دولت لٹائی فاطمہ کے نام پر
+اور کیا مانگوں میں سید، چاہیے اب کیا مجھے
+کر رہا ہوں لب کشائی فاطمہ کے نام پر

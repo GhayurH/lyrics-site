@@ -1,37 +1,64 @@
 ---
-title: "Main Kuch Soch Raha Hoon Mir Hasan"
+title: "میں کچھ سوچ رہا ہوں میر حسن"
+alternateTitle: "Main Kuch Soch Raha Hoon Mir Hasan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Debal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Main kuch soch raha hoon
+
+  1
+  Kabhi kabhi main yeh sochta hoon
+  Yeh sochta hoon kabhi kabhi main
+  Aye Saqi-e-Salman main kuch soch raha hoon
+  De badah-e-irfan main kuch soch raha hon
+  Hai zehan pe aisa asar-e-Nehj-e-Balaga
+  Kholay hoye Quran main kuch soch raha hon
+
+  2
+  Aye dil yeh Nuseri ki si ujlat nahi achi
+  Ruk ja zara nadan main kuch soch raha hon
+  Oss mein se howa bolta Quran baramad
+  Kaba hai keh juzdan main kuch soch raha hon
+  Janat ne nida di Dar-e-Zahra se palat aa
+  Kehne laga Rizwan main kuch soch raha hon
+
+  3
+  Soraj tu palatta hai ishare se Ali ke
+  Aye qudrat-e-Subhan main kuch soch raha hon
+  Debal tu nawazay gaye ab apne liye bhi
+  Ya Shah-e-Khurasan main kuch soch raha hon
+  Tha haal-e- Sarosh our hi kuch bazm-e-sana mein
+  Kehta tha woh har aan main kuch soch raha hon
 ---
 
-Main Kuch Soch Raha Hoon
+میں کچھ سوچ رہا ہوں
 
-1
-Kabhi Kabhi Main Yeh Sochta Hoon.
-Yeh Sochta Hoon Kabhi Kabhi Main.
-Aye Saqi-e-Salman Main Kuch Soch Raha Hoon.
-De Badah-e-Irfan Main Kuch Soch Raha Hon.
-Hai Zehan Pe Aisa Asar-e-Nehj-e-Balaga.
-Kholay Hoye Quran Main Kuch Soch Raha Hon.
+۱
+کبھی کبھی میں یہ سوچتا ہوں
+یہ سوچتا ہوں کبھی کبھی میں
+اے ساقیِ سلمان میں کچھ سوچ رہا ہوں
+دے بادۂ عرفان میں کچھ سوچ رہا ہوں
+ہے ذہن پہ ایسا اثرِ نہج البلاغہ
+کھولے ہوئے قرآن میں کچھ سوچ رہا ہوں
 
-2
-Aye Dil Yeh Nuseri Ki Si Ujlat Nahi Achi.
-Ruk Ja Zara Nadan Main Kuch Soch Raha Hon.
-Oss Mein Se Howa Bolta Quran Baramad.
-Kaba Hai Keh Juzdan Main Kuch Soch Raha Hon.
-Janat Ne Nida Di Dar-e-Zahra Se Palat Aa.
-Kehne Laga Rizwan Main Kuch Soch Raha Hon.
+۲
+اے دل یہ نصیری کی سی عجلت نہیں اچھی
+رک جا ذرا نادان میں کچھ سوچ رہا ہوں
+اُس میں سے ہوا بولتا قرآن برآمد
+کعبہ ہے کہ جزدان میں کچھ سوچ رہا ہوں
+جنت نے ندا دی درِ زہرا سے پلٹ آ
+کہنے لگا رضوان میں کچھ سوچ رہا ہوں
 
-3
-Soraj Tu Palatta Hai Ishare Se Ali Ke.
-Aye Qudrat-e-Subhan Main Kuch Soch Raha Hon.
- Debal Tu Nawazay Gaye Ab Apne Liye Bhi.
-Ya Shah-e-Khurasan Main Kuch Soch Raha Hon.
-Tha Haal-e- Sarosh Our Hi Kuch Bazm-e-Sana Mein.
-Kehta Tha Woh Har Aan Main Kuch Soch Raha Hon.
+۳
+سورج تو پلٹتا ہے اشارے سے علی کے
+اے قدرتِ سبحان میں کچھ سوچ رہا ہوں
+دعبل تو نوازے گئے اب اپنے لیے بھی
+یا شاہِ خراسان میں کچھ سوچ رہا ہوں
+تھا حالِ سروش اور ہی کچھ بزمِ ثنا میں
+کہتا تھا وہ ہر آن میں کچھ سوچ رہا ہوں

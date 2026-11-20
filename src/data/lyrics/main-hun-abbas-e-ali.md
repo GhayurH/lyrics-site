@@ -1,6 +1,6 @@
 ---
 title: "میں ہوں عباسِ علی"
-alternateTitle: "Maiṅ Huṅ Abbas-e-Ali"
+alternateTitle: "Main Huṅ Abbas-e-Ali"
 language: "Urdu"
 direction: "rtl"
 tags: []
@@ -12,45 +12,45 @@ published: true
 poet: "Bilal Kazmi"
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Maiṅ huṅ Abbas-e-Ali maiṅ huṅ Abbas-e-jari
-  Abu Talib ki wafaoṅ ka asasa maiṅ huṅ
-  Sher-e-Yazdaaṅ ki shujaat ka khulasa maiṅ huṅ
+  Main huṅ Abbas-e-Ali main huṅ Abbas-e-Jari
+  Abu Taalib ki wafaoṅ ka asasa main huṅ
+  Sher-e-Yazdaaṅ ki shujaat ka khulasa main huṅ
 
   1
-  Maiṅ akela huṅ jahaaṅ meiṅ koi saani na nazir
-  Meri thokar meiṅ zamana maiṅ amiroṅ ka amir
+  Main akela huṅ jahaaṅ mein koi saani na nazir
+  Meri thokar mein zamana main amiroṅ ka amir
   Yeh taaruf bhi ayaaṅ karta hai meri tauqir
-  Maiṅ huṅ ataye jahaaṅ aur mera Aaqa Shabbir
-  Himmat-e-tashna labi jurat-e-ehsaas huṅ maiṅ
-  Saari dunya mujhe pehchaan le Abbas huṅ maiṅ
+  Main huṅ ataa-e-jahaaṅ aur mera Aaqa Shabbir
+  Himmat-e-tashna labi jurat-e-ehsaas huṅ main
+  Saari duniya mujhe pehchaan le Abbas huṅ main
 
   2
-  Mehram-e-raaz-e-Rasul-e-do sara se puchho
+  Mahram-e-raaz-e-Rasul-e-do saraa se puchho
   Gar yeh uqda hai kisi uqda kusha se puchho
-  Khaas nuqta hai ise nuqta-e-ba se puchho
+  Khaas nuqta hai ise nuqta-e-baa se puchho
   Meri khilqat ka sabab Sher-e-Khuda se puchho
-  Qirat-e-ain-e-Rasul-e-Arabi ki khatir
-  Maiṅ to zinda huṅ Husain Ibn-e-Ali ki khatir
+  Qiraat-e-ain-e-Rasul-e-Arabi ki khatir
+  Main to zinda huṅ Husain Ibn-e-Ali ki khatir
 
   3
   Pyaas hontoṅ pe jo rakhuṅ to taajjub kya hai
   Mur ke darya ko na dekhuṅ to taajjub kya hai
-  Aag paani meiṅ laga duṅ to taajjub kya hai
-  Nehr chulloṅ meiṅ sametuṅ to taajjub kya hai
-  Guftagu jis pe sada hogi woh unwaan huṅ maiṅ
-  Kahiṅ nuqta kahiṅ aayat kahiṅ Quran huṅ maiṅ
+  Aag paani mein laga duṅ to taajjub kya hai
+  Nehr chulloṅ mein sametuṅ to taajjub kya hai
+  Guftagu jis pe sada hogi woh unwaan huṅ main
+  Kahiṅ nuqta kahiṅ aayat kahiṅ Quraan huṅ main
 
   4
   Jaane kya zom hai in maut ke bimaroṅ ko
-  Tashna lab rakha hai Kausar ke shehanshahoṅ ko
-  Khush haiṅ haathoṅ meiṅ sambhaale hue talwaroṅ ko
+  Tashna lab rakha hai Kausar ke shahanshaahoṅ ko
+  Khush haiṅ haathoṅ mein sambhaale hue talwaroṅ ko
   Abhi malum nahiṅ Shaam ke robahoṅ ko
-  Maiṅ paharoṅ ki tanaboṅ ko hila sakta huṅ
+  Main paharoṅ ki tanaaboṅ ko hila sakta huṅ
   Nehr tute hue neze se utha sakta huṅ
 
   5
-  Koi samjhe to zara misra-e-La Saif ki baat
-  Kuchh na kuchh mujh meiṅ bhi maujud haiṅ Haider ki sifaat
+  Koi samjhe to zara misra-e-Laa Saif ki baat
+  Kuchh na kuchh mujh mein bhi maujud haiṅ Haider ki sifaat
   Jaante haiṅ woh jinheiṅ yaad hai Siffin ki raat
   Ek hamla hi bahut hoga paye qaht-e-hayaat
   Shah rageṅ hoṅ gi juda sar ko badan tarse ga
@@ -59,25 +59,25 @@ romanLyrics: |-
   6
   Hai mere waar ki raftaar hawa ko malum
   Khadma tegh-e-Ali hai mere hamle makhdum
-  Sabhi jurat ki safoṅ meiṅ hai azal se meri dhum
+  Sabhi jurat ki safoṅ mein hai azal se meri dhum
   Jism jab hone lageṅ ge apni jaan se mahrum
   Har shujaat ke dhani Ibn-e-Wali aaye haiṅ
   Tum yeh kehte hue bhaago ge Ali aaye haiṅ
 
   7
   Mere Sarkar agar hukm mujhe farmaeṅ
-  Dusri saaṅs bhi ashraar na lene paeṅ
-  Ek hamle meiṅ nishanat-e-jahaaṅ mit jaeṅ
+  Dusri saans bhi ashraar na lene paeṅ
+  Ek hamle mein nishaanaat-e-jahaaṅ mit jaeṅ
   Zalzale yuṅ mere qadmoṅ ki dhamak se aaeṅ
   Kaanp uthe saari zamiṅ takht-e-Umayya tute
-  Maiṅ rakhuṅ ran meiṅ qadam aur dar-e-Kufa tute
+  Main rakhuṅ ran mein qadam aur dar-e-Kufa tute
 
   8
-  Apne dil meiṅ hai jawaaṅ fath-e-Khaibar ki umang
+  Apne dil mein hai jawaaṅ fath-e-Khaibar ki umang
   Sang ko mom kareṅ hum to kabhi mom ko sang
-  Zindagi lamhoṅ meiṅ bedinoṅ pe ho jaaye gi tang
-  Bhul jaao ge abhi Rustam o Sohrab ki jang
-  Hum jo talwaar ke qabze meiṅ kalaai deṅ ge
+  Zindagi lamhoṅ mein bedinoṅ pe ho jaae gi tang
+  Bhul jaao ge abhi Rustam o Sohraab ki jang
+  Hum jo talwaar ke qabze mein kalaai deṅ ge
   In ke ajdaad bhi qabroṅ se duhaai deṅ ge
 ---
 

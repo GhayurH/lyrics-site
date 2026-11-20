@@ -22,11 +22,11 @@ romanLyrics: |-
 
   3
   Ab Sakina na jaana maqtal meiṅ, dur se Shimr dekhta hoga
-  Ab Sakina na jaana maqtal meiṅ, phir tamaache na ye lagaaye kahiṅ
+  Ab Sakina na jaana maqtal meiṅ, phir tamaanche na ye lagaaye kahiṅ
 
   4
-  Ek hasrat thi paak Zainab ki, ke alamdaar us ko jite ji
-  Ek hasrat thi paak Zainab ki, behn keh kar kabhi bulaaye kahiṅ
+  Ak hasrat thi paak Zainab ki, ke alamdaar us ko jite ji
+  Ak hasrat thi paak Zainab ki, behn keh kar kabhi bulaaye kahiṅ
 
   5
   So gaye nehr ke kinaare par, phir na khaime meiṅ aa sake Ghaazi
@@ -37,8 +37,8 @@ romanLyrics: |-
   Mominoṅ meiṅ jo hai girohbandi, phir na Aabid ko khun rulaaye kahiṅ
 
   7
-  Bargah-e-Batul meiṅ Akhtar, kar raha hai dua ye ro ro kar
-  Bargah-e-Batul meiṅ Akhtar, Karbala ki zamiṅ dikhaaye kahiṅ
+  Baargaah-e-Batul meiṅ Akhtar, kar raha hai dua ye ro ro kar
+  Baargaah-e-Batul meiṅ Akhtar, Karbala ki zamiṅ dikhaaye kahiṅ
 ---
 
 ۱

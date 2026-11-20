@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Pardes gaye baba des meiṅ sughra tanha hai
-  Hoo bahoo fatema jaisa hi tha chehra us ka
-  Karbala is liye sughra ko nahi laaye Husain
-  Baap ko dekhegi wo dasht meiṅ kaise pyasa
-  Karbala is liye sughra ko nahi laaye Husain
-  Phir nabi zaadi ko ye din na dikhaye koi
-  Raah meiṅ us ko tamache na lagaye koi
-  Zakhmi haathoṅ se chupaye na wo zakhmi chehra
-  Karbala is liye sughra ko...
-  Aayegi qaimon meiṅ jab laash ali akbar ki
-  Hogi us waqt kaleje meiṅ sina tuti hui
-  Dekh na payegi bhai ka wo zakhmi seena
-  Karbala is liye sughra ko...
-  Sheh ne dekha tha use baithe huwe jhule ke paas
-  Apne haathoṅ se banaate huwe asghar ke libaas
+  Pardes gaye Baba des meiṅ Sughra tanha hai
+  Hubahu Fatema jaisa hi tha chehra us ka
+  Karbala is liye Sughra ko nahiṅ laaye Husain
+  Baap ko dekhegi wo dasht meiṅ kaise pyaasa
+  Karbala is liye Sughra ko nahiṅ laaye Husain
+  Phir Nabi zaadi ko ye din na dekhaaye koi
+  Raah meiṅ us ko tamaache na lagaaye koi
+  Zakhmi haathoṅ se chhupaaye na wo zakhmi chehra
+  Karbala is liye Sughra ko...
+  Aayegi khaimoṅ meiṅ jab laash Ali Akbar ki
+  Hogi us waqt kaleje meiṅ sinaaṅ tuti hui
+  Dekh na paayegi bhai ka wo zakhmi seena
+  Karbala is liye Sughra ko...
+  Sheh ne dekha tha use baithe hue jhule ke paas
+  Apne haathoṅ se banaate hue Asghar ke libaas
   Khun meiṅ duba hua dekhegi wo kaise kurta
-  Karbala is liye sughra ko...
-  Tauq sajjad ki gardan se churane ke liye
-  Piche piche na chali aaye bachane ke liye
-  Taziyana koi maare na samajh kar zahra
-  Karbala is liye sughra ko...
-  Dekh kar is ko tamashayi kahenge has kar
-  Ye to hai fatema zahra use maaro patthar
-  Meri beti se liya jayega qum ka badla
-  Karbala is liye sughra ko...
-  Sheh ne nana ki lehad chori thi ye kehte huwe
+  Karbala is liye Sughra ko...
+  Tauq Sajjad ki gardan se chhuraane ke liye
+  Pichhe pichhe na chali aaye bachaane ke liye
+  Taaziyaana koi maare na samajh kar Zahra
+  Karbala is liye Sughra ko...
+  Dekh kar is ko tamaashaai kaheṅge haṅs kar
+  Ye to hai Fatema Zahra use maaro phattar
+  Meri beti se liya jaayega Khum ka badla
+  Karbala is liye Sughra ko...
+  Sheh ne Nana ki lahad chhori thi ye kehte hue
   Koi to ho jo mere baad meri jaanib se
-  Aake rauze pe jalaye mere hisse ka diya
-  Karbala is liye sughra ko...
-  Sheh ne zishan kaha ek sabab hai ye bhi
-  Bhai ko jaise behan shaam meiṅ manwayegi
-  Ye mera naam madine meiṅ rakhegi zinda
-  Karbala is liye sughra ko...
+  Aake rauze pe jalaaye mere hisse ka diya
+  Karbala is liye Sughra ko...
+  Sheh ne Zeeshan kaha ek sabab hai ye bhi
+  Bhai ko jaise behan Shaam meiṅ manwaayegi
+  Ye mera naam Madine meiṅ rakhegi zinda
+  Karbala is liye Sughra ko...
 ---
 
 ۱

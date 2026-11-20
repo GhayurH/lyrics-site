@@ -9,99 +9,59 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Shabeeh-e-Payambar Akbar, nauha kare maa
-
-  Shah ka dilbar Akbar, nauha kare maa
-
+romanLyrics: |-
+  Shabih-e-Payambar Akbar, nauha kare maaṅ
 
   1
-
-  1) Armaan bohot tha may teri shaadi rachawoon
-
-  Ik roz dulhan chand si may bayaah kay laawoon, Bayaah Kai Laawoon
-
-  Par laash pe roti hay teri kookh jali maa
-
+  Shah ka dilbar Akbar, nauha kare maaṅ
+  Armaan bahut tha main teri shaadi rachaa'uṅ
+  Ik roz dulhan chaand si main byaah ke laa'uṅ
+  Par laash pe roti hai teri kuk jali maaṅ
 
   2
-
-  2) Zinda se tumhe dekh ke ab kaysay jienge
-
-  Socha tha teray bayaah ki poshak sienge, poshak sienge
-
-  Par tujh ko kafan bhi na mila haey meri jaan
-
+  Zinda the tumheṅ dekh ke ab kaise ji'eṅge
+  Socha tha tere byaah ki poshaak si'eṅge
+  Par tujh ko kafan bhi na mila haaye meri jaaṅ
 
   3
-
-  3) Roti hay phuphi jis nay tumhe laad say paala
-
-  Tum kya gaye rukhsat hua is ghar say ujala, is ghar say ujala
-
-  Ik baap zaefi may hua be sar-o-saman
-
+  Roti hai phuphi jis ne tujhe laad se paala
+  Tum kya gaye rukhsat hua is ghar se ujaala
+  Ik baap zaifi mein hua be sar o saamaaṅ
 
   4
-
-  4) Mar jae jawaan laal agar dour watan say
-
-  Mahroom ho ghurbat kay sabab gor-e-kafan say, gor-o-kafan saiy
-
-  Tarpata hay is waqt may kya tangi-e-Daman
-
+  Mar jaaye jawaaṅ laal agar dur watan se
+  Mahrum ho ghurbat ke sabab gor o kafan se
+  Tarpaata hai is waqt mein kya tangi-e-daamaaṅ
 
   5
-
-  5) Abbas ka sadma bhi bbhi kam na hua tha
-
-  Aysay may meri jaan tera waqt-e-ajal aaya, waqt-e-ajal aaya
-
-  Tum mare gaye kiyun mar na gayi lal teri maa
-
+  Abbas ka sadma bhi abhi kam na hua tha
+  Aise mein meri jaaṅ tera waqt-e-ajal aaya
+  Tum mar gaye kiuṅ mar na gayi laal teri maaṅ
 
   6
-
-  6) Beemaar behan takti hay beta tera rasta
-
-  Pardes may aayae to Rahaa yaad na waada, yaad na waada
-
-  Maqtal kiya aabaad Madina kiya wiraan
-
+  Bimaar bahan takti hai beta tera rasta
+  Pardes mein aaye to raha yaad na waada
+  Maqtal kiya aabaad Madina kiya viraaṅ
 
   7
-
-  7) Phirta hay meri ankh may Ab tak wohi manzar
-
-  Ay jaan-e-pader noor-e-nazar aer Ali Akbar, aey Ali Akbar
-
-  Hamshakl-e-Nabi kehte thay tum ko Shah-e-Zeeshaan
-
+  Phirta hai meri aaṅkh mein ab tak wohi manzar
+  Ae jaan-e-padar nur-e-nazar ae Ali Akbar
+  Hamshakl-e-Nabi kehte the tum ko Shah-e-Zishaaṅ
 
   8
-
-  8) Allah nigehban tumhara meary pyaare
-
-  Ham log rasan basta sue Shaam sidhare, Shaam sidhare
-
-  Sota hay teray sath yahin Asghar-e-naadan
-
+  Allah nigahbaan tumhaara mere pyaare
+  Ham log rasan basta su-e-Shaam sidhaare
+  Sota hai tere saath yahiṅ Asghar-e-naadaaṅ
 
   9
-
-  9) Pyaase thay bohot pyaas ye kis tarha bujhaai
-
-  Is chaand say seenay pe sina zulum ki khayi, zulum ki khayi
-
-  Tum sote ho maa jaati hay beta sue zindaan
-
+  Pyaase the bahut pyaas ye kis tarah bujhaai
+  Is chaand se sine pe sinaaṅ zulm ki khaai
+  Tum sote ho maaṅ jaati hai beta su-e-zindaaṅ
 
   10
-
-  10) Rehan yeh kya khob likha ghum ka gasana
-
-  Zehra nay tujhe bakhsha hay lafzoon ka khazana, lafzoon ka khazana
-
-  Lay ho gaya bakhshish kaa tere hashr mein samaan'
+  Rehan ye kya khub likha gham ka fasaana
+  Zehra ne tujhe bakhsha hai lafzoṅ ka khazaana
+  Le ho gaya bakhshish ka teri hashr mein samaaṅ
 ---
 
 شبیہہ پیمبر اکبر نوحہ کرے ماں

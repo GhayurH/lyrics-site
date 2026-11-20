@@ -12,48 +12,48 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Din ko Aabid-e-bimaar ne sone na diya
+  Din ko Aabid-e-bimaar ne sone na diyaa
 
   1
-  Tor kar halqe aaṅkhoṅ se jo aaṅsuṅ nikle
-  Aa gae Shah ke azaadaar ko aaṅsuṅ nikle
-  Faatima ne jo dua hai to aaṅsuṅ nikle
-  Ek Shabbir ke gham-e-khaas ne sone na diya
+  Tor kar halqe aankhoṅ se jo aansuṅ nikle
+  Aa gae Shah ke azaadaar ko aansuṅ nikle
+  Faatima ne jo duaa hai to aansuṅ nikle
+  Ek Shabbir ke gham-e-khaas ne sone na diyaa
 
   2
   Subh-e-taqdir bani shaam-e-gharibaaṅ Aabid
   Baad-e-Shabbir rahe diṅ ke nigahbaaṅ Aabid
-  Ek zanjir ki jhankaar ne sone na diya
+  Ek zanjir ki jhankaar ne sone na diyaa
 
   3
   Baad-e-Abbas Ali waqt ne karwat badli
   Aa gai shaam-e-gharibaaṅ liye gham ki badli
-  Aal ko lashkar-e-kuffaar ne sone na diya
+  Aal ko lashkar-e-kuffaar ne sone na diyaa
 
   4
-  Zakhm riste rahe bimaar ke chhaaloṅ meiṅ sada
-  Nind ke badle rahe aaṅkhoṅ meiṅ phir ashk-e-aza
-  Pair ke chubhte hue khaar ne sone na diya
+  Zakhm riste rahe bimaar ke chhaaloṅ meiṅ sadaa
+  Nind ke badle rahe aankhoṅ meiṅ phir ashk-e-azaa
+  Pair ke chubhte hue khaar ne sone na diyaa
 
   5
   Phir masaaib ke qahr tute sitamgaaroṅ ke
   Phir phate aur kaleje ye azaadaaroṅ ke
-  Qaum ko is gham-e-bedaar ne sone na diya
+  Qaum ko is gham-e-bedaar ne sone na diyaa
 
   6
   Baap ke gham meiṅ wo bimaar ka girya karna
   Qaid meiṅ qaum ke sardaar ka ghut kar marna
-  Roz o shab Shah ke azaadaar ne sone na diya
+  Roz o shab Shah ke azaadaar ne sone na diyaa
 
   7
   Qaid meiṅ baali Sakina ka machalna rona
   Yaad-e-Shabbir meiṅ bachchi ka tarapna rona
-  Qaid ke un dar o diwaar ne sone na diya
+  Qaid ke un dar o diwaar ne sone na diyaa
 
   8
-  Aaj behaal hua jaata hai dil dunya ka
-  Gham se Iqbaal phata jaata hai dil dunya ka
-  Zulm ko aap ke inkaar ne sone na diya
+  Aaj behaal huaa jaata hai dil dunyaa ka
+  Gham se Iqbaal phata jaata hai dil dunyaa ka
+  Zulm ko aap ke inkaar ne sone na diyaa
 ---
 دین کو عابد بیمار نے سونے نہ دیا
 

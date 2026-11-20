@@ -13,57 +13,57 @@ romanLyrics: |-
   Ye kaun hai falak saara larazta hai
   Ye kaun hai zamiṅ ka dil dharakta hai
   Alam bardaar aata hai
-  Ye lagta hai ke jaise hyder e karraar aata hai
-  Alam thaame hussaini fauj ka salaar aata hai
+  Ye lagta hai ke jaise Haidar-e-Karraar aata hai
+  Alam thaame Husaini fauj ka salaar aata hai
 
   1
   Falak saara larazta hai zamiṅ ka dil dharakta hai
   Faza meiṅ shor barpa hai adu ka dam nikalta hai
   Jari ye kaun aata hai alam kis ka ubharta hai
   Yazidi fauj meiṅ halchal diloṅ pe khauf chaaya hai
-  Ye lagta hai ke jaise hyder e karraar aata hai
+  Ye lagta hai ke jaise Haidar-e-Karraar aata hai
 
   2
-  Jo thi karraar ki haibat wohi abbas ki haibat
-  Khuda ke sher jaisi hai ali ke sher ki taaqat
+  Jo thi Karraar ki haibat wohi Abbas ki haibat
+  Khuda ke sher jaisi hai Ali ke sher ki taaqat
   Wohi chehra wohi sirat wohi jazba wohi jurrat
-  Abhi aaya nahi lekin adu pe cha gayi dehshat
-  Misaal e la-fataah shabbir ka salaar aata hai
+  Abhi aaya nahiṅ lekin adu pe chhaa gayi dehshat
+  Misaal-e-la fata Shabbir ka salaar aata hai
 
   3
-  Abhi ye shor barpa tha ke gunja hyderi naara
-  Misaal e la-fataah ghazi achanak saamne aaya
-  Mujhe abbas kehte hai jari lalkaar kar bola
-  Alamdar e hussaini hoo ghulame syed e waala
-  Sada deta hua ye ghazi e jarraar aata hai
+  Abhi ye shor barpa tha ke gunja Haidari naara
+  Misaal-e-la fata Ghazi achanak saamne aaya
+  Mujhe Abbas kehte haiṅ jari lalkaar kar bola
+  Alamdaar-e-Husaini huṅ ghulaam-e-Sayyed-e-waala
+  Sada deta hua ye Ghazi-e-Jarraar aata hai
 
   4
-  Yahaṅ tanha dil e hyder wahaṅ laakhoṅ jafa paikar
-  Yahaṅ bas haath meiṅ naiza wahaṅ taygh o sina khanjar
-  Yahaṅ sukha hai mashkeeza wahaṅ sairaab hai lashkar
-  Yahaṅ shauk e shahadat hai wahaṅ shaukin e maal o zar
+  Yahaṅ tanha dil-e-Haidar wahaṅ laakhoṅ jafa paikar
+  Yahaṅ bas haath meiṅ naiza wahaṅ taygh o sinaaṅ khanjar
+  Yahaṅ sukha hai mashkiza wahaṅ sairaab hai lashkar
+  Yahaṅ shauq-e-shahaadat hai wahaṅ shauqin-e-maal o zar
   Muqabil marhaboṅ ke saahib-e-kirdaar aata hai
 
   5
-  Adu se chin kar darya alam abbas ne gaara
+  Adu se chhin kar darya alam Abbas ne gaara
   Yazidi fauj meiṅ us dam achanak shor ye utha
-  Are bhaago tarayi se ali aaya ali aaya
-  Phir us ke baad darya par faqat ghazi nazar aaya
+  Are bhaago taraai se Ali aaya Ali aaya
+  Phir us ke baad darya par faqat Ghazi nazar aaya
   Jafa kaaroṅ meiṅ ban kar maut ki lalkaar aata hai
 
   6
-  Bhara jis waqt mashkeeza bara yaad aayi masooma
-  Liye pani suye qaima chala saqqa sakina ka
-  Bara jab ghird ghazi ke yazidi fauj ka halqa
-  Kaha abbas ne dil meiṅ sakina tum na ghabrana
-  Abhi lekar ye mashkeeza tera ghamkhwar aata hai
+  Bhara jis waqt mashkiza bara yaad aayi maasuma
+  Liye paani su-e-khaima chala saqqa Sakina ka
+  Bara jab gird Ghazi ke yazidi fauj ka halqa
+  Kaha Abbas ne dil meiṅ Sakina tum na ghabraana
+  Abhi lekar ye mashkiza tera ghamkhwaar aata hai
 
   7
-  Alam ghazi dilawar ka jab us ke khun meiṅ duba
-  Bureeda baazuoṅ waala na mashkeeza bacha paaya
+  Alam Ghazi dilawar ka jab us ke khun meiṅ duba
+  Burida baazuoṅ waala na mashkiza bacha paaya
   Tarapta khaak par dekha jo sheh ne bhai ka laasha
-  Wafa ko naaz hai tujh par pukaare sayyed e wala
-  Khudaya pass ab tere mera salaar aata hai
+  Wafa ko naaz hai tujh par pukaare Sayyed-e-waala
+  Khudaya paas ab tere mera salaar aata hai
 ---
 یہ کون ہے فلک سارا لرزتا ہے
 یہ کون ہے زمیں کا دل دھڑکتا ہے

@@ -11,8 +11,8 @@ aliases: ["Aaj Daswaan Naib Khair-ul-Bashar Paida Howa"]
 published: true
 romanLyrics: |-
   1
-  Aaj daswaaṅ Naib-e-Khair-ul-Bashar paida hua
-  Haiṅ laqab Hadi Naqi jis ke Ali hai jis ka naam
+  Aaj daswaaṅ Naaib-e-Khair-ul-Bashar paida hua
+  Haiṅ laqab Haadi Naqi jis ke Ali hai jis ka naam
   Rehbar-e-Din-e-Khuda hai ye Muhammad ka pisar
   Itrat-e-Athaar meiṅ chautha Ali aali maqaam
 ---

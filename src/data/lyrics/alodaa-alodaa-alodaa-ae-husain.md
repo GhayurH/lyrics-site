@@ -9,37 +9,72 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Alwida alwida alwida aey Husain
+  Marhaba marhaba marhaba ae Husain
 
   1
-  1) Ye sadaye fughan aur ye majlisain
-  Matamo nowha aur gham ki ye zeenatin
-  Chahta hay ye dil yuhin qayam rahain
-  Aah phat-ta hay dil kis tarha ye kahain
+  Jis ne sar teri chaukhat pe kham kar diya
+  Bandagi ka saliqa use aa gaya
+  Al-amaaṅ zer-e-khanjar woh sajda tera
+  Ro ke Ahmad ne jannat se di ye sada
 
   2
-  2) Mere mehmaan hay aakhri ye salaam
-  Tujhpe qurban hay aakhri ye salaam
-  Shahe zeeshan hay aakhri ye salaam
-  Dil hay veeran hay aakhri ye salaam
+  Jo tere naqsh-e-pa par hua gaamzan
+  Us ko ho kya bhala khauf-e-zaar o rasan
+  Woh sikhaaya hai marne ka tu ne chalan
+  De diya maut ko zist ka -
 
   3
-  3) Baksh dain ho gayi ho jo koi khata
-  Haqqe khidmat na humse ada ho saka
-  Gham yehi hay na jee bhar ke matam kiya
-  Teri khaatir na kiun apna sar de diya
+  Kiuṅ farishtoṅ ne Aadam ko sajda kiya
+  Roz-e-Aashur aalam se roshan hua
+  Kund khanjar tale rakh ke sukha gala
+  Tu ne insaaniyat ka bharam rakh liya
 
   4
-  4) Gar jiye saal bhar phir karenge ye gham
-  Royenge phir tere gham may milkar ba-ham
-  Aur agar mar gaye to ye hoga alam
-  Haey afsos jee bhar ke roye na hum
+  Zindagi ko supurd-e-qaza kar diya
+  Jo fana thi usi ko baqa kar diya
+  Is tarah haq se waada wafa kar diya
+  Har khushi ko raza-e-Khuda kar diya
 
   5
-  5) Alwida aey Husain aey Husain alwida
-  Alwida aey Shahe mashraqain alwida
-  Binte Ahmed kay aey noore ain alwida
-  Hay mujahid ke lab par ye bain alwida
+  Bik raha tha sar-e-aam jab aadmi
+  Haq o baatil ki pehchaan bhi mit gai
+  De ke qurbaani tu ne jawaaṅ laal ki
+  Bakhsh di din ko ek nai zindagi
+
+  6
+  Phir raha hai nigaahoṅ mein manzar abhi
+  Laashe karail jawaaṅ aalam-e-jaaṅ kaniṅ
+  Teri himmat pe qurbaan Ibn-e-Ali
+  Qalb-e-Akbar se tu ne sanaaṅ khinch li
+
+  7
+  Alwida alwida alwida ae Husain
+  Alwida alwida alwida ae Husain
+  Ye sadaaeṅ fughaaṅ aur ye majliseṅ
+  Maatam o nauha aur gham ki ye zinateṅ
+  Chaahta hai ye dil yuṅhi qaaim raheṅ
+  Aah phatta hai dil kis tarah ye kaheṅ
+  Alwida alwida alwida ae Husain
+  Bakhsh de ho gai ho jo koi khata
+  Haq-e-khidmat na ham se ada ho saka
+  Gham yahi hai na ji bhar ke maatam kiya
+  Teri khaatir na kiuṅ apna ghar de diya
+  Alwida alwida alwida ae Husain
+  Gar jiye saal bhar phir kareṅge ye gham
+  Roeṅge phir tere gham mein mil kar baaham
+  Aur agar mar gaye to ye hoga alam
+  Haaye afsos ji bhar ke roye na ham
+  Alwida alwida alwida ae Husain
+  Mere mehmaan hai aakhri ye salaam
+  Tujh pe qurbaan hai aakhri ye salaam
+  Shaah-e-zishaan hai aakhri ye salaam
+  Dil hai wiraan hai aakhri ye salaam
+  Alwida alwida alwida ae Husain
+  Alwida ae Husain ae Husain alwida
+  Alwida ae shah-e-mashriqain alwida
+  Bint-e-Ahmad ke ae nur-e-ain alwida
+  Hai Mujaahid ke lab par ye bain alwida
+  Alwida alwida alwida ae Husain
 ---
 
 مرحبا مرحبا مرحبا اے حسینؑ

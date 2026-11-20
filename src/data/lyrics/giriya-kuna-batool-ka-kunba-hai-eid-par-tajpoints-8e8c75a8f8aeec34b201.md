@@ -1,47 +1,84 @@
 ---
-title: "Giriya Kuna Batool Ka Kunba Hai Eid Par"
+title: "گریہ کناں بتول کا کنبہ ہے عید پر"
+alternateTitle: "Giriya Kuna Batool Ka Kunba Hai Eid Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Iram"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Giriya kuna Batool ka kunba hai Eid par
+  Ummat ne inn ke lal ko mara hai Eid par
+  Aankhon se ashk behtey hain Muslim ki yaad mein
+  Zehno mein sirf Darulamara hai Eid par
+
+  2
+  Khushiyaan manaye Eid ki kaise Ali ka lal
+  Paish-e-nigah bhai ka lasha hai Eid par
+  Aayi hain pursa leney ko Yasrab se Syeda
+  Matam safeer-e-Shah ka barpa hai Eid par
+
+  3
+  Muslim ki beti pochay hain kya hum yateem hain?
+  Ammu salook hum se yeh kaisa hai Eid par
+  Aansu tapak tapak ke yeh daman pe keh gaye
+  Muslim ne dono beton ko khoya hai Eid par
+
+  4
+  Haris ne chand sikkon ki khatir ba-ikhtiyar
+  Apne Nabi ka khon bahaya hai Eid par
+  Darkhuwast nonihalon ki rad kar ke taig se
+  Insaniyaat ko oss ne rulaya hai Eid par
+
+  5
+  Qurban Shah par jo kiya qabal-e-Karbala
+  Abbas ki behan ka woh sadqa hai Eid par
+  Muslim ki lash bandh ke ghoray se ik shaqi
+  Kofay ki har gali mein phirata hai Eid par
+
+  6
+  Faryad ya rasool-e-Khuda dekhiye tu kya
+  Ummat ka aap ke liye tohfa hai Eid par
+  Aal-e-rasool ki main azadar hoon Iram
+  Zikar-e-Hussain mera wazifa hai Eid par
 ---
 
-1
-Giriya Kuna Batool Ka Kunba Hai Eid Par.
-Ummat Ne Inn Ke Lal Ko Mara Hai Eid Par.
-Aankhon Se Ashk Behtey Hain Muslim Ki Yaad Mein.
-Zehno Mein Sirf Darulamara Hai Eid Par.
+۱
+گریہ کناں بتول کا کنبہ ہے عید پر
+امت نے ان کے لال کو مارا ہے عید پر
+آنکھوں سے اشک بہتے ہیں مسلم کی یاد میں
+ذہنوں میں صرف دارالامارہ ہے عید پر
 
-2
-Khushiyaan Manaye Eid Ki Kaise Ali Ka Lal.
-Paish-e-Nigah Bhai Ka Lasha Hai Eid Par.
-Aayi Hain Pursa Leney Ko Yasrab Se Syeda.
-Matam Safeer-e-Shah Ka Barpa Hai Eid Par.
+۲
+خوشیاں منائے عید کی کیسے علی کا لال
+پیشِ نگاہ بھائی کا لاشہ ہے عید پر
+آئی ہیں پرسہ لینے کو یثرب سے سیدہ
+ماتم سفیرِ شاہ کا برپا ہے عید پر
 
-3
-Muslim Ki Beti Pochay Hain Kya Hum Yateem Hain?
-Ammu Salook Hum Se Yeh Kaisa Hai Eid Par.
-Aansu Tapak Tapak Ke Yeh Daman Pe Keh Gaye.
-Muslim Ne Dono Beton Ko Khoya Hai Eid Par.
+۳
+مسلم کی بیٹی پوچھے ہیں کیا ہم یتیم ہیں؟
+عمو سلوک ہم سے یہ کیسا ہے عید پر
+آنسو ٹپک ٹپک کے یہ دامن پہ کہہ گئے
+مسلم نے دونوں بیٹوں کو کھویا ہے عید پر
 
-4
-Haris Ne Chand Sikkon Ki Khatir Ba-Ikhtiyar.
-Apne Nabi Ka Khon Bahaya Hai Eid Par.
-Darkhuwast Nonihalon Ki Rad Kar Ke Taig Se.
-Insaniyaat Ko Oss Ne Rulaya Hai Eid Par.
+۴
+حارث نے چند سکوں کی خاطر بااختیار
+اپنے نبی کا خون بہایا ہے عید پر
+درخواست نونہالوں کی رد کر کے تیغ سے
+انسانیت کو اس نے رلایا ہے عید پر
 
-5
-Qurban Shah Par Jo Kiya Qabal-e-Karbala.
-Abbas Ki Behan Ka Woh Sadqa Hai Eid Par.
-Muslim Ki Lash Bandh Ke Ghoray Se Ik Shaqi.
-Kofay Ki Har Gali Mein Phirata Hai Eid Par.
+۵
+قربان شاہ پر جو کیا قبلِ کربلا
+عباس کی بہن کا وہ صدقہ ہے عید پر
+مسلم کی لاش باندھ کے گھوڑے سے اک شقی
+کوفے کی ہر گلی میں پھراتا ہے عید پر
 
-6
-Faryad Ya Rasool-e-Khuda Dekhiye Tu Kya.
-Ummat Ka Aap Ke Liye Tohfa Hai Eid Par.
-Aal-e-Rasool Ki Main Azadar Hoon Iram.
-Zikar-e-Hussain Mera Wazifa Hai Eid Par.
+۶
+فریاد یا رسولِ خدا دیکھیے تو کیا
+امت کا آپ کے لیے تحفہ ہے عید پر
+آلِ رسول کی میں عزادار ہوں ارم
+ذکرِ حسین میرا وظیفہ ہے عید پر

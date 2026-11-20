@@ -1,6 +1,6 @@
 ---
 title: "عباس جا رہے ہیں ردائوں کی خیر ہو"
-alternateTitle: "Abbas Ja Rahe Hai"
+alternateTitle: "Abbas Ja Rahe Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,40 +10,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ja rahe hai ridaoṅ ki khair ho
+  Abbas ja rahe haiṅ ridaoṅ ki khair ho
 
   1
-  Behno ki khair betiyoṅ maa'on ki khair ho
-  Maangi hai wo jo bali sakina ne raat bhar
+  Behnoṅ ki khair betiyoṅ maaoṅ ki khair ho
+  Maangi haiṅ wo jo baali Sakina ne raat bhar
   Maango dua ke saari duaoṅ ki khair ho
 
   2
   Bachoṅ ke lab pe ek sada al atash ki hai
-  Pyase laboṅ pe aayi sadaoṅ ki khair ho
+  Pyaase laboṅ pe aayi sadaoṅ ki khair ho
 
   3
-  Maatha jari ka chum ke zainab ne di dua
+  Maatha jari ka chum ke Zainab ne di dua
   Ae mere sher teri wafaoṅ ki khair ho
 
   4
-  Zainab ka sayeban hai abbas-e-bawafa
-  Ya rab batul zadi ki chaaoṅ ki khair ho
+  Zainab ka saaibaan hai Abbas-e-bawafa
+  Ya Rab Batul zaadi ki chhaaoṅ ki khair ho
 
   5
-  Abbas may tamam adayeiṅ ali ki hai
-  Sher-e-khuda ki saari adaoṅ ki khair ho
+  Abbas mein tamaam adaayeṅ Ali ki haiṅ
+  Sher-e-Khuda ki saari adaoṅ ki khair ho
 
   6
-  Thandi hawa jab aayi hai kehti hai ye rabab
-  Nehre furaat teri hawaoṅ ki khair ho
+  Thandi hawa jab aayi hai kehti hai ye Rabab
+  Nehr-e-Furaat teri hawaoṅ ki khair ho
 
   7
-  Ek pal may tune kar diye raushan kayi chiragh
+  Ik pal mein tu ne kar diye raushan kayi chiragh
   Bujhte charagh teri ziyaoṅ ki khair ho
 
   8
-  Rab-e-jali se nur ali ki hai ye dua
-  Ahle aza ki saari azaoṅ ki khair ho
+  Rab-e-jali se Nur Ali ki hai ye dua
+  Ahl-e-aza ki saari azaoṅ ki khair ho
 ---
 
 عباس جا رہے ہیں ردائوں کی خیر ہو

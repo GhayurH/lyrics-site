@@ -1,41 +1,72 @@
 ---
-title: "Tu Rab Ka Mohafiz Hai Tu Rab Tera Nigehbaan Lyrics 2004"
+title: "تو رب کا محافظ ہے تو رب تیرا نگہباں ۲۰۰۴"
+alternateTitle: "Tu Rab Ka Mohafiz Hai Tu Rab Tera Nigehbaan 2004"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tu Rab ka mohafiz hai tu Rab tera nigehbaan ya Shah e Khurasan
+  Har lafz hai aayat tera har qaul hai Quran ya Shah e Khurasan
+  Haan zamin-o-samin tujhe kehta hai zamana
+  Sab shiyon ko mula nazar-e-bad se bachana
+
+  2
+  Dete hain sada aap ko hain aap nigehban ya Shah e Khurasan
+  Roze pe tere aati hai yeh sari khudai
+  Allah ne di hai teri ismat ki gawahi
+  Parhta hai qasida tera khud Sora-e-Rehman ya Shah e Khurasan
+
+  3
+  Tu gulshan-e-zahra ki haseen aik kali hai
+  Haider ki tarha naam tera bhi tu Ali hai
+  Jibreel ko hai fakhar tere dar ka hai daran ya Shah e Khurasan
+  Dunya mein nahi koi sakhi aap se barh kar
+
+  4
+  Dar se tere jate hain malak rotiyaan le kar
+  Letey hi tera naam hoin mushkilein aasan ya Shah e Khurasan
+  Hai lehjay mein ter Asadullah ka lehja
+  Allah ne Quran tere ghar mein hai bheja
+
+  5
+  Aye aathwein Haider teri izzat ke main qurban ya Shah e Khurasan
+  Kehta hai Wajhi aap se aye aathwein Imran
+  Beshak hai Sabeeh dill mein hamare yehi arman
+  Roze pe bula lijiye ho ga bara ahsan ya Shah e Khurasan
 ---
 
-1
-Tu Rab Ka Mohafiz Hai Tu Rab Tera Nigehbaan Ya Shah e Khurasan.
-Har Lafz Hai Aayat Tera Har Qaul Hai Quran Ya Shah e Khurasan.
-Haan Zamin-o-Samin Tujhe Kehta Hai Zamana.
-Sab Shiyon Ko Mula Nazar-e-Bad Se Bachana.
+۱
+تو رب کا محافظ ہے تو رب تیرا نگہباں یا شاہِ خراسان
+ہر لفظ ہے آیت تیرا ہر قول ہے قرآن یا شاہِ خراسان
+ہاں ضامن و ثامن تجھے کہتا ہے زمانہ
+سب شیعوں کو مولا نظرِ بد سے بچانا
 
-2
-Dete Hain Sada Aap Ko Hain Aap Nigehban Ya Shah e Khurasan.
-Roze Pe Tere Aati Hai Yeh Sari Khudai.
-ALLAH Ne Di Hai Teri Ismat Ki Gawahi.
-Parhta Hai Qasida Tera Khud Sora-e-Rehman Ya Shah e Khurasan.
+۲
+دیتے ہیں صدا آپ کو ہیں آپ نگہبان یا شاہِ خراسان
+روضے پہ تیرے آتی ہے یہ ساری خدائی
+اللہ نے دی ہے تیری عصمت کی گواہی
+پڑھتا ہے قصیدہ تیرا خود سورۂ رحمن یا شاہِ خراسان
 
-3
-Tu Gulshan-e-Zahra Ki Haseen Aik Kali Hai.
-Haider Ki Tarha Naam Tera Bhi Tu Ali Hai.
-Jibreel Ko Hai Fakhar Tere Dar Ka Hai Daran Ya Shah e Khurasan.
-Dunya Mein Nahi Koi Sakhi Aap Se Barh Kar.
+۳
+تو گلشنِ زہرا کی حسین ایک کلی ہے
+حیدر کی طرح نام تیرا بھی تو علی ہے
+جبریل کو ہے فخر تیرے در کا ہے دراں یا شاہِ خراسان
+دنیا میں نہیں کوئی سخی آپ سے بڑھ کر
 
-4
-Dar Se Tere Jate Hain Malak Rotiyaan Le Kar.
-Letey Hi Tera Naam Hoin Mushkilein Aasan Ya Shah e Khurasan.
-Hai Lehjay Mein Ter Asadullah Ka Lehja.
-ALLAH Ne Quran Tere Ghar Mein Hai Bheja.
+۴
+در سے تیرے جاتے ہیں مَلَک روٹیاں لے کر
+لیتے ہی تیرا نام ہوئیں مشکلیں آسان یا شاہِ خراسان
+ہے لہجے میں ترے اسداللہ کا لہجہ
+اللہ نے قرآن تیرے گھر میں ہے بھیجا
 
-5
-Aye Aathwein Haider Teri Izzat Ke Main Qurban Ya Shah e Khurasan.
-Kehta Hai Wajhi Aap Se Aye Aathwein Imran.
-Beshak Hai Sabeeh Dill Mein Hamare Yehi Arman.
-Roze Pe Bula Lijiye Ho Ga Bara Ahsan Ya Shah e Khurasan.
+۵
+اے آٹھویں حیدر تیری عزت کے میں قربان یا شاہِ خراسان
+کہتا ہے وجہی آپ سے اے آٹھویں عمران
+بے شک ہے صبیح دل میں ہمارے یہی ارمان
+روضے پہ بلا لیجیے ہو گا بڑا احسان یا شاہِ خراسان

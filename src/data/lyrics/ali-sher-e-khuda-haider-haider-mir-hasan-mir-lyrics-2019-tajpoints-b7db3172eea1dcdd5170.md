@@ -1,87 +1,152 @@
 ---
-title: "Ali Sher-e-Khuda Haider Haider Mir Hasan Mir Lyrics 2019"
+title: "علی شیرِ خدا حیدر حیدر"
+alternateTitle: "Ali Sher-e-Khuda Haider Haider"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+# Stanzas 2 and 4: MIR ANEES
+# Stanza 6: MIRZA DABEER
+# Istefada-e-Kalam:
+# Khuda-e-Sukhan Mir Babar Ali Anees.
+# Mirza Salaamat Ali Dabeer.
+romanLyrics: |-
+  Ali sher-e-khuda Haider Haider
+  Gharor-e-Kibriya Haider Haider
+
+  1
+  Wasi-e-Mustafa Haider Haider
+  Tera darbar dunya mein muqadar saaz hai maula
+  Jisay parwaz te de day wohi shahbaz hai maula
+  Pas-e-Pardah Muhammad se sar-e-meraj jo bola
+  Humein lehjay se lagta hai teri aawaz hai maula
+  Safeer-e-Kibriya Haider Haider
+  Muhammad ki dua Haider Haider
+
+  2
+  Dil sair hai gada-e-janab-e-ameer ka
+  Khali kabhi raha nahi kasa faqeer ka
+  Matlab yehi hai hath ki har ik lakeer ka
+  Daman na chutne paye janab-e-ameerka
+  Ameer-e-Do sara Haidr Haider
+  Muhammad ki dua Haider Haider
+
+  3
+  Tere aane pe khilti hai jidar-e-khana-e-kaba
+  Ba-Qadar-e-Zarf kehte hain tere arif hai jo maula
+  Namaz-e-Panjgana ka maza apni jagah lekin
+  Humein tasbeeh hi lagta hai Ali ke naam ka nara
+  Kaho mil kar zara Haider Haider
+  Wasi-e-Mustafa Haider Haider
+
+  4
+  Khusha zameen-e-moalla zahe fiza-e-najaf
+  Riyaz-e-Khuld bhi hai shayaq-e-hawa-e-najaf
+  Mareez ke liye akseer hain yeh do nuskhe
+  Gabar-e-Marqad-e-Shabir our hawa-e-najaf
+  Daleel-e-Karbala Haider Haider
+  Muhammad ki dua Haider Haider
+
+  5
+  Teri marzi se chalta hai nizam-e-do jahan maula
+  Tere kun ka natija hain zameen-o-aasmaan maula
+  Teri zoja ke sadqay mein sabhi ko rizq milta hai
+  Tere sadqay malangon ki lagi hain rotiyaan maula
+  Faqeeron ki sada Haider Haider
+  Wasi-e-Mustafa Haider Haider
+
+  6
+  Pathar pe alam deen ka gara kis ne
+  Lalkar ke Marhab ko pachara kis ne
+  Ashab-e-Payamber tu sabhi the mojood
+  Bolo bolo dar-e-khaiber ko okhara kis ne
+  Sheh-e-Khaiber kusha Haider Haider
+  Muhammad ki dua Haider Haider
+
+  7
+  Sab par hai ahsan Ali ke baba ka
+  Deen-e-Nabi hai daan Ali ke baba ka
+  Iss ka banane wala Takallum Shia tha
+  Nikle yahan se jo hai dushman shiyon ka
+  Hai yeh Pakistan Ali ke baba ka
+  Watan ka aasra Haider Haider
+  Muhammad ki dua Haider Haider
+
+  8
+  Waliyaan da sardar Qalandar
+  Karda aye berah paar Qalandar
+  Sab di khali jholiyaan bharda aye Haider da aye nokar
+  Qalandar ki sada Haider Haider
+  Muhammad ki dua Haider Haider
 ---
 
-Ali Sher-e-Khuda Haider Haider.
-Gharor-e-Kibriya Haider Haider.
+علی شیرِ خدا حیدر حیدر
+غرورِ کبریا حیدر حیدر
 
-1
-Wasi-e-Mustafa Haider Haider.
-Tera Darbar Dunya Mein Muqadar Saaz Hai Maula.
-Jisay Parwaz Te De Day Wohi Shahbaz Hai Maula.
-Pas-e-Pardah Muhammad Se Sar-e-Meraj Jo Bola.
-Humein Lehjay Se Lagta Hai Teri Aawaz Hai Maula.
-Safeer-e-Kibriya Haider Haider.
-Muhammad Ki Dua Haider Haider.
+۱
+وصیِ مصطفیٰ حیدر حیدر
+تیرا دربار دنیا میں مقدر ساز ہے مولا
+جسے پرواز تے دے دے وہی شہباز ہے مولا
+پسِ پردہ محمد سے سرِ معراج جو بولا
+ہمیں لہجے سے لگتا ہے تیری آواز ہے مولا
+سفیرِ کبریا حیدر حیدر
+محمد کی دعا حیدر حیدر
 
-2
-MIR ANEES
-Dil Sair Hai Gada-e-Janab-e-Ameer Ka.
-Khali Kabhi Raha Nahi Kasa Faqeer Ka.
-Matlab Yehi Hai Hath Ki Har Ik Lakeer Ka.
-Daman Na Chutne Paye Janab-e-AmeerKa.
-Ameer-e-Do Sara Haidr Haider.
-Muhammad Ki Dua Haider Haider.
+۲
+دل سیر ہے گدائے جنابِ امیر کا
+خالی کبھی رہا نہیں کاسہ فقیر کا
+مطلب یہی ہے ہاتھ کی ہر اک لکیر کا
+دامن نہ چھوٹنے پائے جنابِ امیر کا
+امیرِ دو سرا حیدر حیدر
+محمد کی دعا حیدر حیدر
 
-3
-Tere Aane Pe Khilti Hai Jidar-e-Khana-e-Kaba.
-Ba-Qadar-e-Zarf Kehte Hain Tere Arif Hai Jo Maula.
-Namaz-e-Panjgana Ka Maza Apni Jagah Lekin.
-Humein Tasbeeh Hi Lagta Hai Ali Ke Naam Ka Nara.
-Kaho Mil Kar Zara Haider Haider.
-Wasi-e-Mustafa Haider Haider.
+۳
+تیرے آنے پہ کھلتی ہے جدارِ خانۂ کعبہ
+بقدرِ ظرف کہتے ہیں تیرے عارف ہیں جو مولا
+نمازِ پنج گانہ کا مزہ اپنی جگہ لیکن
+ہمیں تسبیح ہی لگتا ہے علی کے نام کا نعرہ
+کہو مل کر ذرا حیدر حیدر
+وصیِ مصطفیٰ حیدر حیدر
 
-4
-MIR ANEES
-Khusha Zameen-e-Moalla Zahe Fiza-e-Najaf.
-Riyaz-e-Khuld Bhi Hai Shayaq-e-Hawa-e-Najaf.
-Mareez Ke Liye Akseer Hain Yeh Do Nuskhe.
-Gabar-e-Marqad-e-Shabir Our Hawa-e-Najaf.
-Daleel-e-Karbala Haider Haider.
-Muhammad Ki Dua Haider Haider.
+۴
+خوشا زمینِ معلیٰ زہے فضائے نجف
+ریاضِ خلد بھی ہے شائقِ ہوائے نجف
+مریض کے لیے اکسیر ہیں یہ دو نسخے
+غبارِ مرقدِ شبیر اور ہوائے نجف
+دلیلِ کربلا حیدر حیدر
+محمد کی دعا حیدر حیدر
 
-5
-Teri Marzi Se Chalta Hai Nizam-e-Do Jahan Maula.
-Tere Kun Ka Natija Hain Zameen-o-Aasmaan Maula.
-Teri Zoja Ke Sadqay Mein Sabhi Ko Rizq Milta Hai.
-Tere Sadqay Malangon Ki Lagi Hain Rotiyaan Maula.
-Faqeeron Ki Sada Haider Haider.
-Wasi-e-Mustafa Haider Haider.
+۵
+تیری مرضی سے چلتا ہے نظامِ دو جہاں مولا
+تیرے کُن کا نتیجہ ہیں زمین و آسماں مولا
+تیری زوجہ کے صدقے میں سبھی کو رزق ملتا ہے
+تیرے صدقے ملنگوں کی لگی ہیں روٹیاں مولا
+فقیروں کی صدا حیدر حیدر
+وصیِ مصطفیٰ حیدر حیدر
 
-6
-MIRZA DABEER
-Pathar Pe Alam Deen Ka Gara Kis Ne.
-Lalkar Ke Marhab Ko Pachara Kis Ne.
-Ashab-e-Payamber Tu Sabhi The Mojood.
-Bolo Bolo Dar-e-Khaiber Ko Okhara Kis Ne.
-Sheh-e-Khaiber Kusha Haider Haider.
-Muhammad Ki Dua Haider Haider.
+۶
+پتھر پہ علم دین کا گاڑا کس نے
+للکار کے مرحب کو پچھاڑا کس نے
+اصحابِ پیمبر تو سبھی تھے موجود
+بولو بولو درِ خیبر کو اکھاڑا کس نے
+شہِ خیبر کشا حیدر حیدر
+محمد کی دعا حیدر حیدر
 
-7
-Sab Par Hai Ahsan Ali Ke Baba Ka.
-Deen-e-Nabi Hai Daan Ali Ke Baba Ka.
-Iss Ka Banane Wala Takallum Shia Tha.
-Nikle Yahan Se Jo Hai Dushman Shiyon Ka.
-Hai Yeh Pakistan Ali Ke Baba Ka.
-Watan Ka Aasra Haider Haider.
-Muhammad Ki Dua Haider Haider.
+۷
+سب پر ہے احسان علی کے بابا کا
+دینِ نبی ہے دان علی کے بابا کا
+اس کا بنانے والا تکلم شیعہ تھا
+نکلے یہاں سے جو ہے دشمن شیعوں کا
+ہے یہ پاکستان علی کے بابا کا
+وطن کا آسرا حیدر حیدر
+محمد کی دعا حیدر حیدر
 
-8
-Waliyaan Da Sardar Qalandar.
-Karda Aye Berah Paar Qalandar.
-Sab Di Khali Jholiyaan Bharda Aye Haider Da Aye Nokar.
-Qalandar Ki Sada Haider Haider.
-Muhammad Ki Dua Haider Haider.
-
-9
-Istefada-e-Kalam:
-Khuda-e-Sukhan Mir Babar Ali Anees.
-Mirza Salaamat Ali Dabeer.
+۸
+ولیاں دا سردار قلندر
+کردا اے بیڑا پار قلندر
+سب دی خالی جھولیاں بھردا اے حیدر دا اے نوکر
+قلندر کی صدا حیدر حیدر
+محمد کی دعا حیدر حیدر

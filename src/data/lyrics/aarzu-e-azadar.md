@@ -12,52 +12,52 @@ tags: []
 aliases: ["Aarzoo E Azadar"]
 published: true
 romanLyrics: |-
-  Zindagi meiṅ ho karam mujh pe bhi mere sarkar
+  Zindagi mein ho karam mujh pe bhi mere sarkar
   Chhote Hazrat se kahe mujhko bana de zawwar
 
   1
-  Maula ek baar mujhe izn-e-ziyarat de do
+  Maula ik baar mujhe izn-e-ziyarat de do
   Tum ko Zehra ki qasam mujhko ijazat de do
-  Zindagi kam hai bohat thori si mohlat de do
+  Zindagi kam hai bahut thori si mohlat de do
   Mera saamaan-e-safar kab se rakha hai tayyar
 
   2
-  Baab-e-Saqqi-e-atash par jo nazar jayegi
-  Yaad masum Sakina ki bahot aayegi
+  Baab-e-Saqqi-e-atash par jo nazar jaayegi
+  Yaad masum Sakina ki bahut aayegi
   Laash par teri jahaṅ ro na sake ahl-e-haram
-  Ek zamana hai wahaṅ aaj tera matamdar
-  Jab shaam o sehar Fatima Zehra tujhe roye
+  Ik zamana hai wahaṅ aaj tera matamdar
+  Jab shaam o sahar Fatima Zehra tujhe roye
   Abbas tera haq hai zamana tujhe roye
 
   3
-  Jhula Asghar ka rakha hai jahaṅ ek hujre meiṅ
-  Aisa lagta hai wahaṅ maaṅ kisi ek kone meiṅ
+  Jhula Asghar ka rakha hai jahaṅ ik hujre mein
+  Aisa lagta hai wahaṅ maaṅ kisi ik kone mein
   Chum kar khuṅ bhara halqum sada deti hai
-  Aankheiṅ to kholo meri simt to dekho ek baar
-  Kuza le kar haathoṅ meiṅ wo tujhko dhundne jaati hai
+  Aankheiṅ to kholo meri simt dekho ik baar
+  Kuza le kar haathoṅ mein wo tujhko dhundne jaati hai
   Kuchh to bolo aankheiṅ kholo Asghar behan bulaati hai
 
   4
-  Jab maqam-e-Ali Akbar pe parhunga nauha
+  Jab maqam-e-Ali Akbar pe parhuṅgi nauha
   Aayegi Sughra ke rone ki Madine se sada
-  Aaj bhi laashe pe maaṅ sehra liye roti hai
-  Baap ki aaj bhi hai laash-e-jawaaṅ pe ye pukaar
-  Apne lahu meiṅ aap sanwarne ke din na the
+  Aaj bhi laasha pe maaṅ sehra liye roti hai
+  Baap ki aaj bhi hai laasha-e-jawaaṅ pe ye pukaar
+  Apne lahu mein aap sanwarne ke din na the
   Akbar jawaaṅ abhi tere marne ke din na the
 
   5
-  Khaimagah dekh ke yaad aayega manzar saara
+  Khaima gaah dekh ke yaad aayega manzar saara
   Aaye jab aakhri rukhsat ko gharib-e-Zehra
-  Shor-e-girya se qayamat thi fizaaoṅ meiṅ bapa
-  Behan kehti thi ye karte huwe bhai ko sawaar
-  Zainab ko har ek mor pe tarpayegi dunya
+  Shor-e-girya se qayamat thi fizaaoṅ mein bapa
+  Behan kehti thi ye karte hue bhai ko sawaar
+  Zainab ko har ek mor pe tarpaayegi duniya
   Yaad aaoge bhaiya haye yaad aaoge bhaiya
 
   6
   Ab maqam-e-kaf-e-Abbas pe jaana hoga
-  Kaise hoti hai kate haathoṅ se dekhunga ata
+  Kaise hoti hai kate haathoṅ se dekhuṅga ata
   Zaairoṅ ko yahaṅ milti hai wafa ki saughaat
-  Maango sadqe meiṅ Sakina ke saja hai darbar
+  Maango sadqe mein Sakina ke saja hai darbar
   Dua to maang Sakina ka waasta de ke
   Ye kaise hoga ke Abbas aur ata na kare
 
@@ -65,17 +65,17 @@ romanLyrics: |-
   Tila-e-Zainabiya par na rukega girya
   Behan ke saamne kaata gaya bhai ka gala
   Yahaṅ se Zainab ne chhuri bhai pe chalte dekhi
-  Kehke maqtal ko chali rote huwe wo ghamkhwar
-  Kya guzri hai tum par kuch to kaho sadqe gayi
+  Kehke maqtal ko chali rote hue wo gham khwar
+  Kya guzri hai tum par kuchh to kaho sadqe gayi
   Maaṅ jaayi hai Zainab ae bhai Husaina ae bhai Husaina
 
   8
   Hogi jab nazar-e-karam Ghazi ki Rehan o Raza
-  Karbala jaa ke maiṅ waapis jo watan aaunga
-  Log puchheṅge mera haal maiṅ batlaunga kya
-  Ashk haiṅ aankhoṅ meiṅ aur dil ko nahiṅ milta qaraar
+  Karbala jaa ke main waapis jo watan aauṅga
+  Log puchheṅ ge mera haal main batlaauṅga kya
+  Ashk haiṅ aankhoṅ mein aur dil ko nahiṅ milta qaraar
   Ye dil bina Husain ke paaye sukuṅ kahaṅ
-  Dil Karbala meiṅ reh gaya maiṅ aa gaya yahaṅ
+  Dil Karbala mein reh gaya main aa gaya yahaṅ
 ---
 
 زندگی میں ہو کرم مجھ پہ بھی میرے سرکار

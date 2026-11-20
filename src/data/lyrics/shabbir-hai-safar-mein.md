@@ -15,14 +15,14 @@ aliases: ["Shabbir Hai Safar May"]
 published: true
 romanLyrics: |-
   Shabbir hai safar meiṅ aur saath Zahra saani
-  Dohraayi hasbuna ki ummat ne phir kahaani
+  Dohraayi hasbunaa ki ummat ne phir kahaani
 
   1
   Kaabe ke maalikoṅ ke ehraam khol daale
-  Aayat-e-innama ki kuch bhi qadr na jaani
+  Aayaat-e-innamaa ki kuch bhi qadr na jaani
 
   2
-  Nau khez khun-e-Akbar hai din ki ragoṅ meiṅ
+  Nau khez khun-e-Akbar hai diin ki ragoṅ meiṅ
   Qaaem hai jis ka sadqa Islam ki jawaani
 
   3

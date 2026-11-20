@@ -1,6 +1,6 @@
 ---
 title: "عباس کہتے رہ گئے"
-alternateTitle: "Abbas Kehtey Reh Gaye"
+alternateTitle: "Abbas Kehte Reh Gaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,21 +11,21 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas kehtey reh gaye
-  Zeen se girtay hoye Abbas kehte reh gaye
-  Dekhna Sajjad ab Maula akelay reh gaye
-  Chid gaya mashkeza our Ghazi ke bazu kat gaye
-  Jhuk gayi Sheh ki kamar masoom pyasay reh gaye
-  Din ke aalam mein bhuja kuch youn Bani Hashim ka chand
-  Dhop thi bahir magar khaimay andherey reh gaye
-  Chadrein naizon pe lehrati rahi foaj-e-sitam
-  Bazu-e-Abbas maqtal mein taraptay reh gaye
-  Keh gaye Shabeer ko Abbas ke seene ke teer
-  Kis tarha mashk-e-Sakina ko bachatay reh gaye
-  Ho gayi Abbas be aoulad phir teri behan
-  Umar bhar Kulsoom ke lab par yeh nohay reh gaye
-  Kis tarha uthtey jawaan bhai ki maiyyat se Hussain
-  Dair tak Akbar alam ke pas baithay reh gaye
+  Abbas kehte reh gaye
+  Zin se girte hue Abbas kehte reh gaye
+  Dekhna Sajjad ab Maula akele reh gaye
+  Chhid gaya mashkiza aur Ghazi ke baazu kat gaye
+  Jhuk gayi Sheh ki kamar masum pyaase reh gaye
+  Din ke aalam mein bujha kuch yuṅ Bani Haashim ka chaand
+  Dhup thi baahar magar khaime andhere reh gaye
+  Chaadreṅ naizoṅ pe lehraati rahi fauj-e-sitam
+  Baazu-e-Abbas maqtal mein tarapte reh gaye
+  Keh gaye Shabbir ko Abbas ke sine ke tir
+  Kis tarah mashk-e-Sakina ko bachaate reh gaye
+  Ho gayi Abbas be aulaad phir teri behan
+  Umar bhar Kulsum ke lab par yeh nauhe reh gaye
+  Kis tarah uthte jawaan bhaai ki mayyat se Husain
+  Der tak Akbar alam ke paas baithe reh gaye
 ---
 
 ۱

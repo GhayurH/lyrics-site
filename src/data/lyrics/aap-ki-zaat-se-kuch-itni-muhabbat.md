@@ -10,19 +10,19 @@ aliases: []
 published: false
 romanLyrics: |-
   Aap ki zaat se kuch itni muhabbat ki hai naat
-  Naat likhe howay kagaz ki bhi izzat ki hai
+  Naat likhe hue kaaghaz ki bhi izzat ki hai
 
   1
-  Hum ke takheer-e-zamana ke sabab door rahe
-  Hum ne hathoon pe nahi zikar pe bait ki hai
-  Khaal-o-khad naam ke harfon mein talashe unn ke
-  Isam-e-Ahmad mein Muhammad ki ziyarat ki hai
+  Hum ke taakhir-e-zamaana ke sabab dur rahe
+  Hum ne haathoṅ pe nahiṅ zikr pe baiat ki hai
+  Khaal o khad naam ke harfoṅ meiṅ talaashe un ke
+  Ism-e-Ahmad meiṅ Muhammad ki ziyaarat ki hai
 
   2
-  Raat bhar jaag ke ashar likhe hain main ne
-  Yani kagaz pe tahajud ki ibadat ki hai
-  Naat goyi jo agar ki hai kissi ne Akbar
-  Hasb-e-tofeeq nahi hasb-e-inayat ki hai
+  Raat bhar jaag ke ashaar likhe haiṅ main ne
+  Yaani kaaghaz pe tahajjud ki ibaadat ki hai
+  Naat goi jo agar ki hai kisi ne Akbar
+  Hasb-e-taufiq nahiṅ hasb-e-inaayat ki hai
 ---
 
 آپ کی ذات سے کچھ اتنی محبت کی ہے نعت

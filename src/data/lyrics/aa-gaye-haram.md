@@ -15,27 +15,27 @@ romanLyrics: |-
 
   1
   Gham ke paasbaan dard ke amin
-  Aaye qaid se Abid-e-haziṅ
+  Ae qaid se Abid-e-haziṅ
   Farsh-e-khaak par hai falak nashiṅ
 
   2
-  Tauq beriyaṅ aur rismaṅ
-  Sar pe gir para jaise aasmaṅ
+  Tauq beriyaaṅ aur rismaaṅ
+  Sar pe gir para jaise aasmaaṅ
   Ghamzada falak roti hai zamiṅ
 
   3
   Dekhiye mera zakhmi hai gala
-  Nange paaoṅ maiṅ kaantoṅ par chala
+  Nange paaoṅ main kaantoṅ par chala
   Aisi bebasi hogi kya kahiṅ
 
   4
   Zindagi se ye maut hai bhali
-  Ae mere chacha Sheh ki zindagi
+  Ae mere chacha, Sheh ki zindagi
   Shaam meiṅ hai ab teri naazniṅ
 
   5
-  Dukhte haiṅ mere sab ye us suqan
-  Kis se maiṅ karuṅ haal-e-dil bayaaṅ
+  Dukhte haiṅ mere sab ye us sukhan
+  Kis se main karuṅ haal-e-dil bayaaṅ
   Keh rahe haiṅ ye Abid-e-haziṅ
 
   6
@@ -51,12 +51,12 @@ romanLyrics: |-
   8
   Dafn jo hui dekho parde meiṅ
   Nange sar kabhi thi jo balwe meiṅ
-  Us ki betiyaṅ dar badar phiri
+  Us ki betiyaaṅ dar badar phiri
 
   9
   Karbala meiṅ ab dekho ek baar
   Gham meiṅ dub kar ho gaya ye haal
-  Sayyeda ke saath fakhre mursali
+  Sayyeda ke saath faqr-e-mursaliṅ
 ---
 
 آ گئے حرم ہوگا اربعین

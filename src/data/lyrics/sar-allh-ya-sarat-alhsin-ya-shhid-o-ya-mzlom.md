@@ -8,46 +8,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  SarAllah Ya Saratul Husain
-  Ya Shahid o Ya Mazlum
+  Saar Allah ya Saaraatul Husain
+  Ya Shahid o ya Mazlum
 
   1
-  Dhup may tera lasha hai parra
+  Dhup mein tira laasha hai para
 
   2
-  Tu jidhar hai us taraf haq ki rah - Ya Husain, Ya Husain
-  Mil gayi Kaabaae ko sajda gah - Ya Husain, Ya Husain
-  Mil gayi Kaabaae ko sajda gah
-  Sar jo naize par utha hai tera
+  Tu jidhar hai us taraf haq ki raah - Ya Husain, Ya Husain
+  Mil gayi Kaabe ko sajda gaah - Ya Husain, Ya Husain
+  Mil gayi Kaabe ko sajda gaah
+  Sar jo neze par utha hai tira
 
   3
-  Murtajiz Zainab ke pas aa gaya - Ya Husain, Ya Husain
-  Aakhri lamhy-mey Shahe Huda - Ya Husain, Ya Husain
-  Aakhri lamhy-mey Shahe Huda
-  Khuṅ bhari ankhoṅ-se kya keh diya
+  Murtajiz Zainab ke paas aa gaya - Ya Husain, Ya Husain
+  Aakhri lamhe mein Shah-e-Huda - Ya Husain, Ya Husain
+  Aakhri lamhe mein Shah-e-Huda
+  Khuṅ bhari aankhoṅ se ye keh diya
 
   4
-  Aayaiṅ ge jis din Imam-e-Zamaan - Ya Husain, Ya Husain
-  Le ke Abbas-e-jari ka nishaṅ - Ya Husain, Ya Husain
-  Le ke Abbas-e-jari ka nishaṅ
-  Aur laboṅ par hu gi ye sada
+  Aaeṅ ge jis din Imaam-e-Zamaaṅ - Ya Husain, Ya Husain
+  Le ke Abbaas-e-jari ka nishaaṅ - Ya Husain, Ya Husain
+  Le ke Abbaas-e-jari ka nishaaṅ
+  Aur laboṅ par ho gi yahi sadaa
 
   5
-  Bekafan taira tan-e-pak hai - Ya Husain, Ya Husain
-  Khun hai sahraa ki khaak hai - Ya Husain, Ya Husain
-  Khun hai sahraa ki khaak hai
-  Dhup may tera lasha hai parra
+  Bekafan tera tan-e-paak hai - Ya Husain, Ya Husain
+  Khun hai sehraa ki khaak hai - Ya Husain, Ya Husain
+  Khun hai sehraa ki khaak hai
+  Dhup mein tira laasha hai para
 
   6
   Ahl-e-dil ye silsila na ruke - Ya Husain, Ya Husain
-  Ansoyoṅ ka tufaṅ na thame - Ya Husain, Ya Husain
-  Ansoyoṅ ka tufaṅ na thame
-  Ashk haiṅ zakhmo ki tere dawa
+  Aansuoṅ ka tufaaṅ na thame - Ya Husain, Ya Husain
+  Aansuoṅ ka tufaaṅ na thame
+  Ashk haiṅ zakhmoṅ ki tere dawaa
 
   7
   Loh o kursi ho gaye noha gar - Ya Husain, Ya Husain
-  Gir gaya lo aasmaṅ khaak par - Ya Husain, Ya Husain
-  Gir gaya lo aasmaṅ khaak par
+  Gir gaya lo aasmaaṅ khaak par - Ya Husain, Ya Husain
+  Gir gaya lo aasmaaṅ khaak par
   Zulm se jab sar zamiṅ par gira
 ---
 

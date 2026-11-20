@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   1
   Aankh bhar aati hai aksar piyas mein
-  Yaad jab aa jaein Asghar piyas mein
-  Gonjti hai ik saday-e-Al-Atash
-  Char soo mere braber piyas mein
+  Yaad jab aa jaaeṅ Asghar piyas mein
+  Gunjti hai ik sadaa-e-al-atash
+  Chaar su mere baraabar piyas mein
 
   2
-  Hurmala par lazman lanat kare
-  Karbala walon ka nokar piyas mein
-  Deein-e-Ahmad ki baqa maqsood thi
-  Lar raha tha khoon-e-Haider piyas mein
+  Harmala par laaziman laanat kare
+  Karbala waaloṅ ka naukar piyas mein
+  Din-e-Ahmad ki baqa maqsud thi
+  Lar raha tha khun-e-Haider piyas mein
 
   3
   Dasht ko sairaab phir bhi kar gaye
-  The agarche wo bahatar piyas mein
-  Oss se sharminda hai pani aaj tak
-  Kat giya jo zair-e-khanjar piyas mein
+  The agarche woh bahattar piyas mein
+  Us se sharminda hai paani aaj tak
+  Kat gaya jo zer-e-khanjar piyas mein
 
   4
   Apne Rab ki the riza par mutmain
-  Malikaan-e-hooz-e-Kausar piyas mein
-  Hai dua jaam-e-shifaat ho atta
-  Mujh ko Sahil rooz-e-mehshar piyas mein
+  Maalikaan-e-hauz-e-Kausar piyas mein
+  Hai dua jaam-e-shafaat ho ata
+  Mujh ko Sahil roz-e-mahshar piyas mein
 ---
 
 ۱

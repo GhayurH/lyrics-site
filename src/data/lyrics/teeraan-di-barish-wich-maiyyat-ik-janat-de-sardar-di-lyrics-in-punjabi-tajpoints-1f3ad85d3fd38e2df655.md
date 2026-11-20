@@ -1,29 +1,48 @@
 ---
-title: "Teeraan Di Barish Wich Maiyyat Ik Janat De Sardar Di Lyrics In Punjabi 2019"
+title: "تیراں دی بارش وچ میت اک جنت دے سردار دی"
+alternateTitle: "Teeraan Di Barish Wich Maiyyat Ik Janat De Sardar Di"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ijaz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Teeraan di barish wich maiyyat ik janat de sardar di
+  Kya ummat shanakht dassi aye Ahmad nal apne pyar di
+  Jay aayat mubahlay wali kaday rakh lainday ummat zehan andar
+  Shabar de dafan te naa rehndi kaday loor kisay takrar di
+
+  2
+  Qasim di yateemi nu roiyaan dhiyaan te nowaan Ali diyaan
+  Shabar Shabair di rasam kiti imamat di dastar di
+  Humsheer de sar di chum ke rida pal de mehman ne dah mari
+  Shabar nu chitay Zainab di aayi oh paishi darbar di
+
+  3
+  Abbas Jalali di aakh da rang badliya wekh Shabir aakhan
+  Aye roza nanay pak da aye aithay loor nayi talwar di
+  Ijaz bhala nuqsan si ki aina deen de daway daraan da
+  Nany kol dafan jay ho jandi maiyyat asli haqdar di
 ---
 
-1
-Teeraan Di Barish Wich Maiyyat Ik Janat De Sardar Di.
-Kya Ummat Shanakht Dassi Aye Ahmad Nal Apne Pyar Di.
-Jay Aayat Mubahlay Wali Kaday Rakh Lainday Ummat Zehan Andar.
-Shabar De Dafan Te Naa Rehndi Kaday Loor Kisay Takrar Di.
+۱
+تیراں دی بارش وچ میت اک جنت دے سردار دی
+کیا امت شناخت دسی اے احمد نال اپنے پیار دی
+جے آیت مباہلے والی کدے رکھ لیندے امت ذہن اندر
+شبر دے دفن تے نہ رہندی کدے لوڑ کسے تکرار دی
 
-2
-Qasim Di Yateemi Nu Roiyaan Dhiyaan Te Nowaan Ali Diyaan.
-Shabar Shabair Di Rasam Kiti Imamat Di Dastar Di.
-Humsheer De Sar Di Chum Ke Rida Pal De Mehman Ne Dah Mari.
-Shabar Nu Chitay Zainab Di Aayi Oh Paishi Darbar Di.
+۲
+قاسم دی یتیمی نوں روئیاں دھیاں تے نوہاں علی دیاں
+شبر شبیر دی رسم کیتی امامت دی دستار دی
+ہمشیر دے سر دی چم کے ردا پل دے مہمان نے دھا ماری
+شبر نوں چیتے زینب دی آئی اوہ پیشی دربار دی
 
-3
-Abbas Jalali Di Aakh Da Rang Badliya Wekh Shabir Aakhan.
-Aye Roza Nanay Pak Da Aye Aithay Loor Nayi Talwar Di.
- Ijaz Bhala Nuqsan Si Ki Aina Deen De Daway Daraan Da.
-Nany Kol Dafan Jay Ho Jandi Maiyyat Asli Haqdar Di.
+۳
+عباس جلالی دی اکھ دا رنگ بدلیا ویکھ شبیر آکھن
+اے روضہ نانے پاک دا اے ایتھے لوڑ نئیں تلوار دی
+اعجاز بھلا نقصان سی کی ایناں دین دے دعوے داراں دا
+نانے کول دفن جے ہو جاندی میت اصلی حقدار دی

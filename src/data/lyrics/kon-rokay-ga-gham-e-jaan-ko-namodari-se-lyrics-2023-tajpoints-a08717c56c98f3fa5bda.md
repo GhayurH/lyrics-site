@@ -1,38 +1,66 @@
 ---
-title: "Kon Rokay Ga Gham E Jaan Ko Namodari Se Lyrics 2023"
+title: "کون روکے گا غمِ جاں کو نموداری سے"
+alternateTitle: "Kon Rokay Ga Gham-e-Jaan Ko Namodari Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kon rokay ga gham e jaan ko namodari se
+  Taziya uthay ga bharpoor azadari se
+
+  1
+  Hain sharf yaab jo ik gham ki tarafdari se
+  Waqt se pehle juray hain kissi teyari se
+  Aap ke hath alam tak nahi pohanchay ab tak
+  Aap ka kam nahi koi wafadari se
+
+  2
+  Ahl-e-giriya na sahi ahl-e-saholat hi sahi
+  Roney walon mein jo shamil hain adakari se
+  Ik tabasum hi se nu lakh jigar kaat diye
+  Waar Asghar ne kiya kaisa samajhdari se
+
+  3
+  Nook-e-naiza pe yeh kehta raha sardar ka sar
+  Kaun mazool karey ga humein sardari se
+  Sirf keh saktay hain yeh Karb-o-Bala ke zair
+  Laut kar aaye hain Allah ki zawwari se
+
+  4
+  Shukar sad shukar muyassar hai tabeeb e giriya
+  Warna mar jata yeh dil hansne ki bemari se
+  Paar le aaya hai ashkon ka safena Akbar
+  Mere matam ne nikala mujhe dushwari se
 ---
 
-Kon Rokay Ga Gham e Jaan Ko Namodari Se.
-Taziya Uthay Ga Bharpoor Azadari Se.
+کون روکے گا غمِ جاں کو نموداری سے
+تعزیہ اٹھے گا بھرپور عزاداری سے
 
-1
-Hain Sharf Yaab Jo Ik Gham Ki Tarafdari Se.
-Waqt Se Pehle Juray Hain Kissi Teyari Se.
-Aap Ke Hath Alam Tak Nahi Pohanchay Ab Tak.
-Aap Ka Kam Nahi Koi Wafadari Se.
+۱
+ہیں شرف یاب جو اک غم کی طرف داری سے
+وقت سے پہلے جڑے ہیں کسی تیاری سے
+آپ کے ہاتھ علم تک نہیں پہنچے اب تک
+آپ کا کام نہیں کوئی وفاداری سے
 
-2
-Ahl-e-Giriya Na Sahi Ahl-e-Saholat Hi Sahi.
-Roney Walon Mein Jo Shamil Hain Adakari Se.
-Ik Tabasum Hi Se Nu Lakh Jigar Kaat Diye.
-Waar Asghar Ne Kiya Kaisa Samajhdari Se.
+۲
+اہلِ گریہ نہ سہی اہلِ سہولت ہی سہی
+رونے والوں میں جو شامل ہیں اداکاری سے
+اک تبسم ہی سے نو لاکھ جگر کاٹ دیے
+وار اصغر نے کیا کیسا سمجھ داری سے
 
-3
-Nook-e-Naiza Pe Yeh Kehta Raha Sardar Ka Sar.
-Kaun Mazool Karey Ga Humein Sardari Se.
-Sirf Keh Saktay Hain Yeh Karb-o-Bala Ke Zair.
-Laut Kar Aaye Hain ALLAH Ki Zawwari Se.
+۳
+نوکِ نیزہ پہ یہ کہتا رہا سردار کا سر
+کون معزول کرے گا ہمیں سرداری سے
+صرف کہہ سکتے ہیں یہ کرب و بلا کے زائر
+لوٹ کر آئے ہیں اللہ کی زواری سے
 
-4
-Shukar Sad Shukar Muyassar Hai Tabeeb e Giriya.
-Warna Mar Jata Yeh Dil Hansne Ki Bemari Se.
-Paar Le Aaya Hai Ashkon Ka Safena Akbar.
-Mere Matam Ne Nikala Mujhe Dushwari Se.
+۴
+شکر صد شکر میسر ہے طبیبِ گریہ
+ورنہ مر جاتا یہ دل ہنسنے کی بیماری سے
+پار لے آیا ہے اشکوں کا سفینہ اکبر
+میرے ماتم نے نکالا مجھے دشواری سے

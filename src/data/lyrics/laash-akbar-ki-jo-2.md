@@ -11,70 +11,70 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Laash akbar ki jo maqtal se utha laaye Husain
+  Laash Akbar ki jo maqtal se utha laaye Husain
 
   1
-  Naujawaṅ ko safe awwal se utha laaye Husain
-  Chand ko shaam ke baadal se utha laaye Husain
+  Naujawaaṅ ko saf-e-awwal se utha laaye Husain
+  Chaand ko shaam ke baadal se utha laaye Husain
   Jaaṅ balab sher ko jangal se utha laaye Husain
-  Di sada laashe pisar aan ke leja bano
-  Chid gaya barchi se akbar ka kaleja bano
+  Di sada laash-e-pisar aan ke lijiye Bano
+  Chhid gaya barchi se Akbar ka kaleja Bano
 
   2
-  Dekhle aakhri didar pisar marta hai
-  Saamne ankhoṅ ke ye nur e nazar marta hai
-  Ab koi dam may tera rashke kamar marta hai
-  Moo se bahar hai zabaṅ tashna jigar marta hai
-  Dam hai sine may ruka zaqmon se khuṅ jaari hai
-  Haye bano tera ghar lutne ki tayyari hai
+  Dekh le aakhri didaar pisar marta hai
+  Saamne aankhoṅ ke ye nur-e-nazar marta hai
+  Ab koi dam mein tera rashk-e-qamar marta hai
+  Muṅh se baahar hai zabaaṅ tashna jigar marta hai
+  Dam hai sine mein ruka zakhmoṅ se khuṅ jaari hai
+  Haaye Bano tera ghar lutne ki tayyaari hai
 
   3
-  Pahunchi qaime may jo hazrat ke ye pur dard sada
-  Muztarib hogayi namuse rasule do sara
-  Kaha chilla ke sakina ne ke hae hae bhaiya
-  Fizza dauri suye dar phaynk ke sar par se rida
-  Pitti zainab e muztar nikal aayi baahar
-  Bano ghabrake khule sar nikal aayi baahar
+  Pahunchi khaime mein jo Hazrat ke ye pur nur sada
+  Muztarib ho gayi naamus-e-rasul-e-do sara
+  Kaha chilla ke Sakina ne ke haaye haaye bhaiya
+  Fizza dauri su-e-dar phenk ke sar par se rida
+  Pitti Zainab-e-muztar nikal aayi baahar
+  Bano ghabra ke khule sar nikal aayi baahar
 
   4
-  Shaah ke kaandhe pe dekha ali akbar ko nidhaal
-  Haath phayla ke ye chillayi ke hai hai mere laal
-  Kya ghazab hogaya ae baadshahe nek khisaal
-  Raas aaya na mere bache ko atharwaṅ saal
-  Tukre tayghoṅ se badan hogaya saara hae hae
-  Kaun tha jisne mere sher ko mara hae hae
+  Shaah ke kaandhe pe dekha Ali Akbar ko nidhaal
+  Haath phaila ke ye chillayi ke haaye haaye mere laal
+  Kya ghazab ho gaya ae baadshaah nek khisaal
+  Raas aaya na mere bachche ko athaarahwaaṅ saal
+  Tukre teghoṅ se badan ho gaya saara haaye haaye
+  Kaun tha jis ne mere sher ko maara haaye haaye
 
   5
-  Roke bano se ye farmane lage sarwar e diṅ
-  Sar na pito abhi zindan hai mera maah jabiṅ
-  Saans aati hai pa har dam hai dame baaz pasiṅ
-  Kuch unka bhi hai aur hum bhi hai marne ke qariṅ
-  Sab chute ab na raha koi hamara bano
-  Is jawaaṅ bete ke gham ne hame maara bano
+  Ro ke Bano se ye farmaane lage sarwar-e-diṅ
+  Sar na pito abhi zinda hai mera maah-e-jabiṅ
+  Saans aati hai pe har dam hai dam-e-baaz pasiṅ
+  Kuch un ka bhi hai aur hum bhi haiṅ marne ke qariṅ
+  Sab chhute ab na raha koi hamaara Bano
+  Is jawaaṅ bete ke gham ne hameṅ maara Bano
 
   6
   Zakhmi hone ki khabar kis ne meri pahunchayi
-  Jhut hai maiṅ ne to hargiz nahiṅ barchhi khaayi
-  Marg se pehle ho maatam ye zabuṅ hai amma
-  Mere kaproṅ pe to Abbas ka hai khuṅ amma
+  Jhut hai main ne to hargiz nahiṅ barchhi khaayi
+  Marg se pehle ho maatam ye zabuṅ hai ammaaṅ
+  Mere kaproṅ pe to Abbas ka hai khuṅ ammaaṅ
 
   7
-  Boli Bano ke jo kehte ho Khuda yun hi kare
-  Ae mere laal ye maa teri bala le ke mare
-  Mujh ko maalum hua khalq se jaate ho tum
-  Haaye mere rone ke sabab zakhm chhupate ho tum
+  Boli Bano ke jo kehte ho Khuda yuṅ hi kare
+  Ae mere laal ye maaṅ teri bala le ke mare
+  Mujh ko maalum hua khalq se, jaate ho tum
+  Haaye mere rone ke sabab zakhm chhupaate ho tum
 
   8
   Sab tere dil ki mere dil ko khabar hai beta
-  Haath sine pe tera khun meiṅ tar hai beta
-  Sansanata hai badan jaan chali jaati hai
+  Haath sine pe tera khun mein tar hai beta
+  Sansanaata hai badan jaan chali jaati hai
   Haaye is lahu se to mere dudh ki bu aati hai
 
   9
   Ae mere sher tujhe lutf-e-jawaani na mila
-  Dudh pi pi ke pale aur tumhe paani na mila
+  Dudh pi pi ke pale aur tumheṅ paani na mila
   Mar gaye mujh ko dulhan bhi na dikhayi beta
-  Khaak meiṅ mil gayi Bano ki kamayi beta
+  Khaak mein mil gayi Bano ki kamaayi beta
 ---
 
 لاش اکبر کی جو مقتل سے اٹھا لاے حسین

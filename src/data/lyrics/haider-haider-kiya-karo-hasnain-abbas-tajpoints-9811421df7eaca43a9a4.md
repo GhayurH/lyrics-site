@@ -1,47 +1,84 @@
 ---
-title: "Haider Haider Kiya Karo Hasnain Abbas"
+title: "حیدر حیدر کیا کرو حسنین عباس"
+alternateTitle: "Haider Haider Kiya Karo Hasnain Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haider Haider kiya karo Hasnain Abbas
+  Zikar-e-Khuda hai zikar-e-Haider Haider Haider kiya karo
+  Hamd Khuda ki karni hai gar Haider Haider kiya karo
+  Jan ke jo Haq ke darwazay se anjane hotey hain
+
+  2
+  Bhataktay rehtey hain woh jin ke kayi thikaney hotey hain
+  Chahtey ho bhatko na dar dar Haider Haider kiya karo
+  Mat na paak zaban karo tum naam unn ka lab par la ke
+  Apni bala se jo bhi they woh dushman they jo Zahra ke
+
+  3
+  Kar kar ke unn sab pe bar bar Haider Haider kiya karo
+  Peesti hain Zahra chaki tu rizq kahan tak jata hai
+  Kaun kahan par Zahra ke sadqay mein betha khata hai
+  Samjhna hai chaki ka chakar Haider Haider kiya karo
+
+  4
+  Hashar mein kal phir hashar bura ho jaye ga batlata hoon
+  Ab bhi waqt hai munkir Haider chor de zid samjhata hoon
+  Rehna hai dozakh se jo bach kar Haider Haider kiya karo
+  Dekh ke hubdaron ko jinna mein bolay loag jahanum se
+
+  5
+  Sajday tu be kar gaye hain maan hi letey jo hum se
+  Kehte they Haider ke nokar Haider Haider kiya karo
+  Kabay ki dewar mein koi bhi na darar chupa paya
+  Madar-e-Haider ne jo likha tha koi bhi na mita paya
+
+  6
+  Likha hai yeh Kabay ke opar Haider Haider kiya karo
+  Sadqay mein Salman-o-Abuzar ke phir oncha ho ga qad
+  Mehshar mein gar sar ko utha kar aana hai Hasnain-o-Asad
+  Sar Zahra ke dar par rakh kar Haider Haider kiya karo
 ---
 
-1
-Haider Haider Kiya Karo Hasnain Abbas
-Zikar-e-Khuda Hai Zikar-e-Haider Haider Haider Kiya Karo.
-Hamd Khuda Ki Karni Hai Gar Haider Haider Kiya Karo.
-Jan Ke Jo Haq Ke Darwazay Se Anjane Hotey Hain.
+۱
+حیدر حیدر کیا کرو حسنین عباس
+ذکرِ خدا ہے ذکرِ حیدر حیدر حیدر کیا کرو
+حمد خدا کی کرنی ہے گر حیدر حیدر کیا کرو
+جان کے جو حق کے دروازے سے انجانے ہوتے ہیں
 
-2
-Bhataktay Rehtey Hain Woh Jin Ke Kayi Thikaney Hotey Hain.
-Chahtey Ho Bhatko Na Dar Dar Haider Haider Kiya Karo.
-Mat Na Paak Zaban Karo Tum Naam Unn Ka Lab Par La Ke.
-Apni Bala Se Jo Bhi They Woh Dushman They Jo Zahra Ke.
+۲
+بھٹکتے رہتے ہیں وہ جن کے کئی ٹھکانے ہوتے ہیں
+چاہتے ہو بھٹکو نہ در در حیدر حیدر کیا کرو
+مت ناپاک زباں کرو تم نام اُن کا لب پر لا کے
+اپنی بلا سے جو بھی تھے وہ دشمن تھے جو زہرا کے
 
-3
-Kar Kar Ke Unn Sab Pe Bar Bar Haider Haider Kiya Karo.
-Peesti Hain Zahra Chaki Tu Rizq Kahan Tak Jata Hai.
-Kaun Kahan Par Zahra Ke Sadqay Mein Betha Khata Hai.
-Samjhna Hai Chaki Ka Chakar Haider Haider Kiya Karo.
+۳
+کر کر کے اُن سب پہ بار بار حیدر حیدر کیا کرو
+پیستی ہیں زہرا چکی تو رزق کہاں تک جاتا ہے
+کون کہاں پر زہرا کے صدقے میں بیٹھا کھاتا ہے
+سمجھنا ہے چکی کا چکر حیدر حیدر کیا کرو
 
-4
-Hashar Mein Kal Phir Hashar Bura Ho Jaye Ga Batlata Hoon.
-Ab Bhi Waqt Hai Munkir Haider Chor De Zid Samjhata Hoon.
-Rehna Hai Dozakh Se Jo Bach Kar Haider Haider Kiya Karo.
-Dekh Ke Hubdaron Ko Jinna Mein Bolay Loag Jahanum Se.
+۴
+حشر میں کل پھر حشر برا ہو جائے گا بتلاتا ہوں
+اب بھی وقت ہے منکرِ حیدر چھوڑ دے ضد سمجھاتا ہوں
+رہنا ہے دوزخ سے جو بچ کر حیدر حیدر کیا کرو
+دیکھ کے حبداروں کو جناں میں بولے لوگ جہنم سے
 
-5
-Sajday Tu Be Kar Gaye Hain Maan Hi Letey Jo Hum Se.
-Kehte They Haider Ke Nokar Haider Haider Kiya Karo.
-Kabay Ki Dewar Mein Koi Bhi Na Darar Chupa Paya.
-Madar-e-Haider Ne Jo Likha Tha Koi Bhi Na Mita Paya.
+۵
+سجدے تو بیکار گئے ہیں مان ہی لیتے جو ہم سے
+کہتے تھے حیدر کے نوکر حیدر حیدر کیا کرو
+کعبے کی دیوار میں کوئی بھی نہ دراڑ چھپا پایا
+مادرِ حیدر نے جو لکھا تھا کوئی بھی نہ مٹا پایا
 
-6
-Likha Hai Yeh Kabay Ke Opar Haider Haider Kiya Karo.
-Sadqay Mein Salman-o-Abuzar Ke Phir Oncha Ho Ga Qad.
-Mehshar Mein Gar Sar Ko Utha Kar Aana Hai Hasnain-o- Asad.
-Sar Zahra Ke Dar Par Rakh Kar Haider Haider Kiya Karo.
+۶
+لکھا ہے یہ کعبے کے اوپر حیدر حیدر کیا کرو
+صدقے میں سلمان و ابوذر کے پھر اونچا ہو گا قد
+محشر میں گر سر کو اٹھا کر آنا ہے حسنین و اسد
+سر زہرا کے در پر رکھ کر حیدر حیدر کیا کرو

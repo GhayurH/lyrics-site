@@ -1,32 +1,53 @@
 ---
-title: "Hargiz Nahi Hai Matam O Sajda Alag Alag Lyrics 2008"
+title: "ہرگز نہیں ہے ماتم و سجدہ الگ الگ"
+alternateTitle: "Hargiz Nahi Hai Matam O Sajda Alag Alag"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hargiz nahi hai matam o sajda alag alag
+  Dono mein hai Hussain ka jalwa alag alag
+
+  1
+  Haider ke munkiron se hai momin kuch aise door
+  Murdoon se jaise rehta hai zinda alag alag
+  Matam ka bhi nishan hai sajdon ka bhi nishan
+  Dono karein gaye qabar ko kheera alag alag
+
+  2
+  Masjid mein abad, ran mein Asad, arsh par Khuda
+  Haider ka har jagah pe hai lehja alag alag
+  Hur ba nasab tha our tha bad nasal Hurmala
+  Dono ka naam aik tha shajrah alag alag
+
+  3
+  Sheh soye Kaba sajda na karte jo waqt-e-asar
+  Hota tamam firqoon ka qibla alag alag
+  Saqlain kis tarha rahein Abbas Sheh se door
+  Hota nahi hai jism se saya alag alag
 ---
 
-Hargiz Nahi Hai Matam o Sajda Alag Alag.
-Dono Mein Hai Hussain Ka Jalwa Alag Alag.
+ہرگز نہیں ہے ماتم و سجدہ الگ الگ
+دونوں میں ہے حسین کا جلوہ الگ الگ
 
-1
-Haider Ke Munkiron Se Hai Momin Kuch Aise Door.
-Murdoon Se Jaise Rehta Hai Zinda Alag Alag.
-Matam Ka Bhi Nishan Hai Sajdon Ka Bhi Nishan.
-Dono Karein Gaye Qabar Ko Kheera Alag Alag.
+۱
+حیدر کے منکروں سے ہے مومن کچھ ایسے دور
+مردوں سے جیسے رہتا ہے زندہ الگ الگ
+ماتم کا بھی نشاں ہے سجدوں کا بھی نشاں
+دونوں کریں گے قبر کو خیرہ الگ الگ
 
-2
-Masjid Mein Abad, Ran Mein Asad, Arsh Par Khuda.
-Haider Ka Har Jagah Pe Hai Lehja Alag Alag.
-Hur Ba Nasab Tha Our Tha Bad Nasal Hurmala.
-Dono Ka Naam Aik Tha Shajrah Alag Alag.
+۲
+مسجد میں آباد، رن میں اسد، عرش پر خدا
+حیدر کا ہر جگہ پہ ہے لہجہ الگ الگ
+حر با نسب تھا اور تھا بد نسل حرملہ
+دونوں کا نام ایک تھا شجرہ الگ الگ
 
-3
-Sheh Soye Kaba Sajda Na Karte Jo Waqt-e-Asar.
-Hota Tamam Firqoon Ka Qibla Alag Alag.
- Saqlain Kis Tarha Rahein Abbas Sheh Se Door.
-Hota Nahi Hai Jism Se Saya Alag Alag.
+۳
+شہ سوئے کعبہ سجدہ نہ کرتے جو وقتِ عصر
+ہوتا تمام فرقوں کا قبلہ الگ الگ
+ثقلین کس طرح رہیں عباس شہ سے دور
+ہوتا نہیں ہے جسم سے سایہ الگ الگ

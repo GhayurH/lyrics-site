@@ -1,26 +1,42 @@
 ---
-title: "Shah E Aman Da Janaza Jadoon Veraan Chaya Lyrics 2012 Latest"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "شاہِ امن دا جنازہ جدوں ویراں چایا"
+alternateTitle: "Shah e Aman Da Janaza Jadoon Veraan Chaya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asghar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shah e Aman da janaza jadoon veraan chaya
+  Nanay di ummat ne mazloom janazay te meen teraan da barsaya
+
+  1
+  Farwa di dunya lut gayi oss welay Qasim yateem hoya
+  Jodah ne jis welay Qasim de babay nu haye aan ke zehar pilaya
+  Roza Nabi da kambiya naal odhay kambiya arsh Khuda da
+  Zahra de jaye nu nanay de rozay taun jadon lokaan ne partaya
+
+  2
+  Haye veer de sirhaney sir nangay Zainab aye wain paye
+  Toon veran jandi wari Kubra nu mehndi layi na Qasim nu parnaya
+  Maula da noha likh ke Asghar ne keeti aye iltija aye
+  Kar moaf khatawaan nu Zainab di amari da ro ro ke wasta paya
 ---
 
-Shah e Aman Da Janaza Jadoon Veraan Chaya.
-Nanay Di Ummat Ne Mazloom Janazay Te Meen Teraan Da Barsaya.
+شاہِ امن دا جنازہ جدوں ویراں چایا
+نانے دی امت نے مظلوم جنازے تے مینہ تیراں دا برسایا
 
-1
-Farwa Di Dunya Lut Gayi Oss Welay Qasim Yateem Hoya.
-Jodah Ne Jis Welay Qasim De Babay Nu Haye Aan Ke Zehar Pilaya.
-Roza Nabi Da Kambiya Naal Odhay Kambiya Arsh Khuda Da.
-Zahra De Jaye Nu Nanay De Rozay Taun Jadon Lokaan Ne Partaya.
+۱
+فروہ دی دنیا لٹ گئی اوس ویلے قاسم یتیم ہویا
+جعدہ نے جس ویلے قاسم دے بابے نوں ہائے آن کے زہر پلایا
+روضہ نبی دا کمبیا نال اوہدے کمبیا عرشِ خدا دا
+زہرا دے جائے نوں نانے دے روضے توں جدوں لوکاں نے پرتایا
 
-2
-Haye Veer De Sirhaney Sir Nangay Zainab Aye Wain Paye.
-Toon Veran Jandi Wari Kubra Nu Mehndi Layi Na Qasim Nu Parnaya.
-Maula Da Noha Likh Ke Asghar Ne Keeti Aye Iltija Aye.
-Kar Moaf Khatawaan Nu Zainab Di Amari Da Ro Ro Ke Wasta Paya.
+۲
+ہائے ویر دے سرہانے سر ننگے زینب اے وین پائے
+توں ویرا جاندی واری کبریٰ نوں مہندی لائی نہ قاسم نوں پرنایا
+مولا دا نوحہ لکھ کے اصغر نے کیتی اے التجا اے
+کر معاف خطاواں نوں زینب دی عماری دا رو رو کے واسطہ پایا

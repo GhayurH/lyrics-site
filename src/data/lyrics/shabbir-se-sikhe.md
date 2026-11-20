@@ -36,14 +36,14 @@ romanLyrics: |-
   Tha mohsin-e-Islam ko tiroṅ se bachaana
 
   5
-  Asghar ki lehad khod ke Shabbir ye bole
+  Asghar ki lahad khod ke Shabbir ye bole
   Ae qabr mere bachche ki gardan na dikhaana
 
   6
   Ham nauha kunaaṅ aaye idhar farsh-e-aza par
   Purse ke liye Faatima Zehra chali aayi
   Kal majlis-e-Shabbir ko Zainab thi tarasti
-  Ab majlis-e-Shabbir meiṅ dunya chali aayi
+  Ab majlis-e-Shabbir meiṅ duniya chali aayi
   Zehra ki sada aati hai ye bazm-e-aza meiṅ
   Rehaan ye nauha sar-e-mahshar bhi sunaana
 ---

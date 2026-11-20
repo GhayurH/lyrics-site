@@ -1,44 +1,72 @@
 ---
-title: "Haq Zabanon Pe Rawaan"
+title: "حق زبانوں پہ رواں"
+alternateTitle: "Haq Zabanon Pe Rawaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Haq zabanon pe rawaan naizon pe sar hota hai
+
+  Islam pe mar jaana aasaa(n) toh nahi tha
+  Gharbaar luta jaana aasaa(n) toh nahi tha
+  Maa behnein rasan basta khulay sar liye hum raah
+  Bazaar mein aa jaana aasaa(n) toh nahi tha
+
+  1
+  Haq zabanon pe rawaan naizon pe sar hota hai
+  Maarka deen ka iss tarha se sar hota hai
+
+  2
+  Baap ki godh mein baysheer ugalta hai lahoo
+  Barchiyon mein kabhi betay ka jigar hota hai
+
+  3
+  Sar khulay koocha o bazaar mein phirtay hain haram
+  Tashna lab ner Mohammad ka pisar hota hai
+
+  4
+  Chamanay haq o sadaqat pe jab aati hai bahaar
+  Saamnay aankhon ke ujrha huwa ghar hota hai
+
+  5
+  Uska pamaal nahi hota hai laasha run mein
+  Jiska waaris koyi maujood agar hota hai
+
+  6
+  Rokay kehtay thay ye Sajjad phupi amma se
+  Bay kafan yoon bhi koyi khaak basar hota hai
 ---
 
-Haq Zabanon Pe Rawaan Naizon Pe Sar Hota Hai
+حق زبانوں پہ رواں نیزوں پہ سر ہوتا ہے
 
-Islam Pe Mar Jaana Aasaa(N) Toh Nahi Tha
+اسلام پہ مر جانا آساں تو نہیں تھا
+گھر بار لٹا جانا آساں تو نہیں تھا
+ماں بہنیں رسن بستہ کھلے سر لیے ہمراہ
+بازار میں آ جانا آساں تو نہیں تھا
 
-Gharbaar Luta Jaana Aasaa(N) Toh Nahi Tha
+۱
+حق زبانوں پہ رواں نیزوں پہ سر ہوتا ہے
+معرکہ دین کا اس طرح سے سر ہوتا ہے
 
-Maa Behnein Rasan Basta Khulay Sar Liye Hum Raah
+۲
+باپ کی گود میں بے شیر اگلتا ہے لہو
+برچھیوں میں کبھی بیٹے کا جگر ہوتا ہے
 
-Bazaar Mein Aa Jaana Aasaa(N) Toh Nahi Tha
+۳
+سر کھلے کوچہ و بازار میں پھرتے ہیں حرم
+تشنہ لب نیرِ محمد کا پسر ہوتا ہے
 
-Haq Zabanon Pe Rawaan Naizon Pe Sar Hota Hai
+۴
+چمنِ حق و صداقت پہ جب آتی ہے بہار
+سامنے آنکھوں کے اجڑا ہوا گھر ہوتا ہے
 
-Maarka Deen Ka Iss Tarha Se Sar Hota Hai
+۵
+اس کا پامال نہیں ہوتا ہے لاشہ رن میں
+جس کا وارث کوئی موجود اگر ہوتا ہے
 
-Baap Ki Godh Mein Baysheer Ugalta Hai Lahoo
-
-Barchiyon Mein Kabhi Betay Ka Jigar Hota Hai
-
-Sar Khulay Koocha O Bazaar Mein Phirtay Hain Haram
-
-Tashna Lab Ner Mohammad Ka Pisar Hota Hai
-
-Chamanay Haq O Sadaqat Pe Jab Aati Hai Bahaar
-
-Saamnay Aankhon Ke Ujrha Huwa Ghar Hota Hai
-
-Uska Pamaal Nahi Hota Hai Laasha Run Mein
-
-Jiska Waaris Koyi Maujood Agar Hota Hai
-
-Rokay Kehtay Thay Ye Sajjad Phupi Amma Se
-
-Bay Kafan Yoon Bhi Koyi Khaak Basar Hota Hai
+۶
+رو کے کہتے تھے یہ سجاد پھوپھی اماں سے
+بے کفن یوں بھی کوئی خاک بسر ہوتا ہے

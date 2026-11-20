@@ -1,6 +1,6 @@
 ---
 title: "آؤ ہم بزمِ نبی آج سجائیں لوگو"
-alternateTitle: "Aao Hum Bazm-e-Nabi Aaj Sajaein Logo"
+alternateTitle: "Aao Hum Bazm-e-Nabi Aaj Sajaaeṅ Logo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aao hum bazm-e-Nabi aaj sajaein logo
-  Har taraf noor ki shama ko jalaein logo
-  Laein hain dahar mein tashreef aaj pyare Nabi
-  Naat Sarkar ki hum sab ko sunaein logo
+  Aao hum bazm-e-Nabi aaj sajaaeṅ logo
+  Har taraf nur ki shama ko jalaaeṅ logo
+  Laae haiṅ dahr mein tashreef aaj pyaare Nabi
+  Naat Sarkar ki hum sab ko sunaaeṅ logo
 
   2
-  Paye ga dil hamara chain bara Yasrab mein
-  Inn ki chokhat pe sar apna jhukaein logo
-  Ja ke rozay pe dua mangein sabhi ro ro ke
-  Sadqay Panjtan ke muradein sabhi paein logo
+  Paae ga dil hamaara chain bara Yasrib mein
+  In ki chaukhat pe sar apna jhukaaeṅ logo
+  Ja ke roze pe dua maangeṅ sabhi ro ro ke
+  Sadqe Panjtan ke muraadeṅ sabhi paaeṅ logo
 
   3
-  Kash hum ko bhi sharaf itna kabhi de Malik
-  Ja ke rozay pe diya aik jalaein logo
-  Kash aisi ghari naseeb mein aaye Farman
-  Hum bhi Sarkar ko ik naat sunaein logo
+  Kaash hum ko bhi sharaf itnaa kabhi de Malik
+  Ja ke roze pe diya ek jalaaeṅ logo
+  Kaash aisi ghari naseeb mein aaye Farman
+  Hum bhi Sarkar ko ik naat sunaaeṅ logo
 ---
 
 ۱

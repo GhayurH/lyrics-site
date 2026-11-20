@@ -13,10 +13,10 @@ aliases: ["Aabrue La Ilaha"]
 published: true
 romanLyrics: |-
   Aabru-e-La Ilaha sajda-e-Shabbir hai
-  Tere dam se Ya Husaina naara-e-takbir hai
+  Tere dam se ya Husaina naara-e-takbir hai
 
-  Ya Husain Husain Ya Husain
-  Ya Husain Husain Ya Husain
+  Ya Husain Husain ya Husain
+  Ya Husain Husain ya Husain
 
   1
   Likh diya khun se Husaina parcham-e-Islam par
@@ -31,11 +31,11 @@ romanLyrics: |-
   Haathoṅ pe Shah-e-Zamaaṅ ke laasha-e-beshir hai
 
   4
-  Kis tarha dafnaye Zainab laash ko teri Husain
+  Kis tarah dafnaye Zainab laash ko teri Husain
   Haathoṅ meiṅ rassi bandhi hai sar khule hamshir hai
 
   5
-  Is tarha Irfan hota hai fariza-e-haq ada
+  Is tarah Irfan hota hai fariza-e-haq ada
   Khun meiṅ dubi hui peshani-e-Shabbir hai
 ---
 

@@ -1,30 +1,50 @@
 ---
-title: "Asghar Tere Jholay Nu Jhulawan Aa Ja Veerna Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اصغر تیرے جھولے نوں جھلاواں آ جا ویرنا"
+alternateTitle: "Asghar Tere Jholay Nu Jhulawan Aa Ja Veerna"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Asghar tere jholay nu jhulawan aa ja veerna
+  Mantaan de deviyan nu main ro ro jalawan aa ja veerna
+  Toon meriyaan banwaan choon babay de kool turya
+  Oh tera veer janra aj v nayi mainu bhuliya
+  Bethi hoi aan aj v main khol ke banwaan aa ja veerna
+  Karbal pohanch gaye te Asghar nayi aaya jana
+  Tainu Mosa waang babay nayi nehar wich bahana
+  Iss wastay safar wich main tainu bulawaan aa ja veerna
+  Khair-al-amal de sajday jis waqt main nibhandi
+  Mainu qasam veer Asghar tasbeeh-e-Fatima di
+  Tasbeeh samajh ke baad ich aye boldi jawaan aa ja veerna
+  Bibi de naal rowan mantaan de deway sare
+  Odhay naal karday matam chali gharaan de bohey
+  Sughra de naal dewan kandaan v sadawaan aa ja veerna
+  Akbar Hussain jayi rahwaan nu wekhdi rayi
+  Aa jaye veer Asghar tangaan che aakhdi si
+  Haye noha ban gayiyaan ne bibi diyaan hawaan aa ja veerna
 ---
 
-1
-Asghar Tere Jholay Nu Jhulawan Aa Ja Veerna.
-Mantaan De Deviyan Nu Main Ro Ro Jalawan Aa Ja Veerna.
-Toon Meriyaan Banwaan Choon Babay De Kool Turya.
-Oh Tera Veer Janra Aj V Nayi Mainu Bhuliya.
-Bethi Hoi Aan Aj V Main Khol Ke Banwaan Aa Ja Veerna.
-Karbal Pohanch Gaye Te Asghar Nayi Aaya Jana.
-Tainu Mosa Waang Babay Nayi Nehar Wich Bahana.
-Iss Wastay Safar Wich Main Tainu Bulawaan Aa Ja Veerna.
-Khair-Al-Amal De Sajday Jis Waqt Main Nibhandi.
-Mainu Qasam Veer Asghar Tasbeeh-e-Fatima Di.
-Tasbeeh Samajh Ke Baad Ich Aye Boldi Jawaan Aa Ja Veerna.
-Bibi De Naal Rowan Mantaan De Deway Sare.
-Odhay Naal Karday Matam Chali Gharaan De Bohey.
-Sughra De Naal Dewan Kandaan V Sadawaan Aa Ja Veerna.
- Akbar Hussain Jayi Rahwaan Nu Wekhdi Rayi.
-Aa Jaye Veer Asghar Tangaan Che Aakhdi Si.
-Haye Noha Ban Gayiyaan Ne Bibi Diyaan Hawaan Aa Ja Veerna.
+۱
+اصغر تیرے جھولے نوں جھلاواں آ جا ویرنا
+منتاں دے دیویاں نوں میں رو رو جلاواں آ جا ویرنا
+توں میریاں بانواں چوں بابے دے کول ٹریا
+اوہ تیرا ویر جانڑا اج وی نئیں مینوں بھلیا
+بیٹھی ہوئی آں اج وی میں کھول کے بانواں آ جا ویرنا
+کربل پہنچ گئے تے اصغر نئیں آیا جانا
+تینوں موسیٰ وانگ بابے نئیں نہر وچ بہانا
+اس واسطے سفر وچ میں تینوں بلاواں آ جا ویرنا
+خیر العمل دے سجدے جس وقت میں نبھاندی
+مینوں قسم ویر اصغر تسبیحِ فاطمہ دی
+تسبیح سمجھ کے بعد اچ ایہہ بولدی جاواں آ جا ویرنا
+بی بی دے نال روون منتاں دے دیوے سارے
+اودھے نال کردے ماتم چالی گھراں دے بوہے
+صغریٰ دے نال دیون کنداں وی صداواں آ جا ویرنا
+اکبر حسین جائی راہواں نوں ویکھدی رہی
+آ جائے ویر اصغر تنگاں چے آکھدی سی
+ہائے نوحہ بن گئیاں نے بی بی دیاں ہواواں آ جا ویرنا

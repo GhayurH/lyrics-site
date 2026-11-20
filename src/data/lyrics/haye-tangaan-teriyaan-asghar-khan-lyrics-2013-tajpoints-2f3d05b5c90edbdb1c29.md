@@ -1,34 +1,58 @@
 ---
-title: "Haye Tangaan Teriyaan Asghar Khan Lyrics 2013"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے تنگاں تیریاں اصغر خان"
+alternateTitle: "Haye Tangaan Teriyaan Asghar Khan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye tangaan teriyaan Asghar Khan
+  Haye tangaan teriyaan Akbar mar gayiyaan
+  Din langda nayi tere bajoon rahwaan nu tak tak haar gayiyaan
+  Band gharaan de subha sham boye kholaan main
+  Har ik boye nu gal lawaan te dukh pholaan main
+  Tere bajoon mainu kandaan puch puch ke kar beemar gayiyaan
+  Hashmi galiyaan wichon langday ne rahi jehray
+  Wekh ke ronday ne oh Syedaan de khali wehray
+  Ummat diyaan be parwaiyan nanay da watan ujaar gayiyaan
+  Ayho shikway main karan gi naal tere Akbar
+  Das jandiyon jay koi jurm tu mere Akbar
+  Mainu kehri galon phophiyaan mehmal tu veer utar gayiyaan
+  Kar lainda qafilay wich jay toon shamil mainu
+  Teraan talwaraan de saye taun bachandi tainu
+  Aina das ja barchiyaan tere seene choon kiwein paar gayiyaan
+  Door ja ke maa piyo jaiyaan nu pul janday nayi
+  Tere wangoon veer bhainra nu tarsaonday nayi
+  Aa tak le sariyaan khushiyaan Sughra toon moor mohar gayiyaan
+  Veer wichrey hoye azlaan de milaway Mehdi
+  Shala Sughra de sab ronrey mokaway Mehdi
+  Aj rondiyaan akhiyaan Maula Samar diyaan arz guzar gayiyaan
 ---
 
-1
-Haye Tangaan Teriyaan Asghar Khan
-Haye Tangaan Teriyaan Akbar Mar Gayiyaan.
-Din Langda Nayi Tere Bajoon Rahwaan Nu Tak Tak Haar Gayiyaan.
-Band Gharaan De Subha Sham Boye Kholaan Main.
-Har Ik Boye Nu Gal Lawaan Te Dukh Pholaan Main.
-Tere Bajoon Mainu Kandaan Puch Puch Ke Kar Beemar Gayiyaan.
-Hashmi Galiyaan Wichon Langday Ne Rahi Jehray.
-Wekh Ke Ronday Ne Oh Syedaan De Khali Wehray.
-Ummat Diyaan Be Parwaiyan Nanay Da Watan Ujaar Gayiyaan.
-Ayho Shikway Main Karan Gi Naal Tere Akbar.
-Das Jandiyon Jay Koi Jurm Tu Mere Akbar.
-Mainu Kehri Galon Phophiyaan Mehmal Tu Veer Utar Gayiyaan.
-Kar Lainda Qafilay Wich Jay Toon Shamil Mainu.
-Teraan Talwaraan De Saye Taun Bachandi Tainu.
-Aina Das Ja Barchiyaan Tere Seene Choon Kiwein Paar Gayiyaan.
-Door Ja Ke Maa Piyo Jaiyaan Nu Pul Janday Nayi.
-Tere Wangoon Veer Bhainra Nu Tarsaonday Nayi.
-Aa Tak Le Sariyaan Khushiyaan Sughra Toon Moor Mohar Gayiyaan.
-Veer Wichrey Hoye Azlaan De Milaway Mehdi.
-Shala Sughra De Sab Ronrey Mokaway Mehdi.
-Aj Rondiyaan Akhiyaan Maula Samar Diyaan Arz Guzar Gayiyaan.
+۱
+ہائے تنگاں تیریاں اصغر خان
+ہائے تنگاں تیریاں اکبر مار گئیاں
+دن لنگھدا نئیں تیرے باجھوں راہواں نوں تک تک ہار گئیاں
+بند گھراں دے صبح شام بوہے کھولاں میں
+ہر اک بوہے نوں گل لاواں تے دکھ پھولاں میں
+تیرے باجھوں مینوں کندھاں پچھ پچھ کے کر بیمار گئیاں
+ہاشمی گلیاں وچوں لنگھدے نے راہی جیہڑے
+ویکھ کے روندے نے اوہ سیداں دے خالی ویہڑے
+امت دیاں بے پرواہیاں نانے دا وطن اجاڑ گئیاں
+ایہو شکوے میں کراں گی نال تیرے اکبر
+دس جاندیوں جے کوئی جرم توں میرے اکبر
+مینوں کیہڑی گلوں پھپھیاں محمل توں ویر اتار گئیاں
+کر لیندا قافلے وچ جے توں شامل مینوں
+تیراں تلواراں دے سائے توں بچاندی تینوں
+اینا دس جا برچھیاں تیرے سینے چوں کِویں پار گئیاں
+دور جا کے ماں پیو جائیاں نوں بھل جاندے نئیں
+تیرے وانگوں ویر بھینڑاں نوں ترساؤندے نئیں
+آ تک لے ساریاں خوشیاں صغرا توں موڑ مہار گئیاں
+ویر وچھڑے ہوئے ازلاں دے ملاوے مہدی
+شالا صغرا دے سب رونڑے مکاوے مہدی
+اج روندیاں اکھیاں مولا ثمر دیاں عرض گزار گئیاں

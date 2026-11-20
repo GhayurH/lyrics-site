@@ -1,7 +1,7 @@
 ---
 title: "فرد اعمال میں بس اشک ہمارے ہونگے"
 recitationId: "farde-aamaal-bas"
-alternateTitle: "Fard-e-Aamaal Meiṅ Bas Ashk Hamaare Hoṅge"
+alternateTitle: "Fard-e-Aamaal Meiṅ Bas Ashk Hamaare Honge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,34 +12,34 @@ tags: []
 aliases: ["Farde Aamaal Bas"]
 published: true
 romanLyrics: |-
-  Fard-e-aamaal meiṅ bas ashk hamare hoṅge
-  Hashr ke din yehi bakhshish ke sahare hoṅge
-  Qabr meiṅ chain se soyeṅge azadaar-e-Husain
-  Aaṅkh kholeṅge to Kausar ke kinaare hoṅge
+  Fard-e-aamaal meiṅ bas ashk hamaare honge
+  Hashr ke din yehi bakhshish ke sahaare honge
+  Qabr meiṅ chain se soyenge azaadaar-e-Husain
+  Aankh kholeṅge to Kausar ke kinaare honge
 
   1
   Qaafila khuld ki jaanib jo barhega apna
-  Raahwaar Hazrat-e-Abbas hamare hoṅge
+  Raahwaar Hazrat-e-Abbas hamaare honge
   Ahl-e-maatam ko bhala rok sakega koi
-  Baab-e-jannat pe jo Zehra ke dulaare hoṅge
+  Baab-e-jannat pe jo Zehra ke dulaare honge
 
   2
   Kin tamannaaoṅ se athaarah baras Zainab ne
-  Kitne sadqe rukh-e-Akbar ke utaare hoṅge
+  Kitne sadqe rukh-e-Akbar ke utaare honge
   Is ko ek maaṅ hi samajh sakti hai baad-e-Akbar
-  Kaise din zist ke laal ne guzaare hoṅge
+  Kaise din zist ke laal ne guzaare honge
 
   3
-  Dil ka kya haal hua hoga Ali Akbar jab
-  Le ke marne ki raza ran ko sidhaare hoṅge
+  Dil ka kya hua honga Ali Akbar jab
+  Le ke marne ki raza ran ko sidhaare honge
   Maaṅ ko shaadi ke the armaan magar thi na khabar
-  Ye jawaaṅ hoṅge to Allah ko pyaare hoṅge
+  Ye jawaaṅ honge to Allah ko pyaare honge
 
   4
-  Ro lo aaj haathoṅ se sar pit ke Asghar ko Rabab
-  Kal ko rassi meiṅ bandhe haath tumhare hoṅge
-  Jaam ashkoṅ ke liye Karb o Bala tak pahuṅcho
-  Dekhte raah wahaaṅ pyaas ke maare hoṅge
+  Ro lo aaj haathoṅ se sar pit ke Asghar ko Rabaab
+  Kal ko rassi meiṅ bandhe haath tumhaare honge
+  Jab ashkoṅ ke liye Karb o Bala tak pahuncho
+  Dekhte raah wahaaṅ pyaas ke maare honge
 ---
 فرد اعمال میں بس اشک ہمارے ہونگے
 حشر کے دن یہی بخشش کے سہارے ہونگے

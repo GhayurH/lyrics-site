@@ -13,48 +13,48 @@ published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Abal Fazl Abal Fazl Abal Fazl
-  Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Abal Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 
   1
-  Khuda ke din ka paasbaṅ shujaatoṅ ka aasmaṅ
-  Jalal tera al-aman Abal Fazl
-  Husainiyat ka tarjuma ye ghamzadoṅ ka sayebaṅ
+  Khuda ke din ka paasbaaṅ shuja'atoṅ ka aasmaaṅ
+  Jalaal tera al-amaan Abal Fazl
+  Husainiyat ka tarjuma ye ghamzadoṅ ka saayebaaṅ
   Alam badosh rehnuma Abal Fazl
-  Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Abal Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 
   2
-  Ye Murtaza ka gulbadan wiqar-e-Haideri chaman
-  Shujaatoṅ ki anjuman Abal Fazl
-  Ali misal teghzan wohi sukhan wohi chalan
+  Ye Murtaza ka gulbadan waqaar-e-Haideri chaman
+  Shuja'atoṅ ki anjuman Abal Fazl
+  Ali misal tegh zan wohi sukhan wohi chalan
   Ali-e-dasht-e-Karbala Abal Fazl
-  Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Abal Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 
   3
-  Amir-e-sabr ka akhi qarar-e-jaan-e-Zainabi
+  Amir-e-sabr ka akhi qaraar-e-jaan-e-Zainabi
   Amm-e-Sakina hai yehi Abal Fazl
-  Tujh ko shahadat jo mili bhulegi dunya na kabhi
-  Tera alam uncha raha Abal Fazl
-  Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Tujh ko shahaadat jo mili bhule gi duniya na kabhi
+  Tera alam unchaa raha Abal Fazl
+  Abal Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 
   4
   Ae nur-e-dil mara qamar ae roshni mara sahar
   Ba waqt-e-gham mara sipar Abal Fazl
-  Tere haiṅ ye sab bahr o bar tu hi duaoṅ meiṅ asar
+  Tere haiṅ ye sab bahr o barr tu hi duaoṅ meiṅ asar
   Tere sabab hubb-e-khatar Abal Fazl
-  Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Abal Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 
   5
   Ghulam-e-Ibn-e-Murtaza Rehaan o Sarwar-e-Aza
   Hamara markaz-e-wafa Abal Fazl
-  Dua-e-Bint-e-Fatima jahaṅ alam ye jab utha
-  Falak pukara marhaba Abal Fazl
-  Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
-  Mah-e-Hashmi nasab Amir-e-Dilawaram
+  Dua-e-Bint-e-Fatima jahaaṅ alam ye jab utha
+  Falak pukaara marhaba Abal Fazl
+  Abal Fazl bawafa alamdaar-e-lashkaram
+  Maah-e-Haashmi nasab amir-e-dilaawaram
 ---
 ابا الفضل ابا الفضل ابا الفضل
 ابا الفضل باوفا علمدارِ لشکرم

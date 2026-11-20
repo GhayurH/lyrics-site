@@ -16,9 +16,9 @@ romanLyrics: |-
   Maaṅ tujh pe ho qurbaan Ali Asghar Ali Asghar
 
   1
-  Deti maiṅ kafan tujh ko rida sar pe jo hoti
+  Deti main kafan tujh ko rida sar pe jo hoti
   Mil jaata jo paani to tere zakhm ko dhoti
-  Huṅ besar o saamaan Ali Asghar Ali Asghar
+  Huṅ be sar o saamaan Ali Asghar Ali Asghar
 
   2
   Dekho to sar-e-shaam-e-gharibaaṅ meri ghurbat
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ujra hai gulistaan Ali Asghar Ali Asghar
 
   3
-  Nauhoṅ ki sadaaoṅ meiṅ badal bhi chuki lori
+  Nauhoṅ ki sadaaoṅ mein badal bhi chuki lori
   Jhula hi salaamat hai na ab jhule ki dori
   Godi bhi hai viraaṅ Ali Asghar Ali Asghar
 
@@ -38,27 +38,27 @@ romanLyrics: |-
   5
   Jis tir ne chhedi thi teri phul si gardan
   Maaṅ kaise bataaeṅ bhala us tir ki uljhan
-  Sine meiṅ hai paikaaṅ Ali Asghar Ali Asghar
+  Sine mein hai paikaaṅ Ali Asghar Ali Asghar
 
   6
-  Hasrat thi ke baandhuṅ maiṅ tere maathe pe sehra
-  Aur sehre meiṅ dekhuṅ tera hansta hua chehra
+  Hasrat thi ke baandhuṅ main tere maathe pe sehra
+  Aur sehre mein dekhuṅ tera hansta hua chehra
   Ujre mere armaaṅ Ali Asghar Ali Asghar
 
   7
-  Aa baandhuṅ tere nanhe se sar pe maiṅ amaama
+  Aa baandhuṅ tere nanhe se sar pe main amaama
   Aur chumuṅ tera phul sa munh chaand sa maatha
   Hanste hue Quraaṅ Ali Asghar Ali Asghar
 
   8
   Bas ret hai maqtal ki na takiya na bichhauna
-  Ab hashr talak tujh ko isi ban meiṅ hai sona
+  Ab hashr talak tujh ko isi ban mein hai sona
   Maaṅ jaati hai zindaaṅ Ali Asghar Ali Asghar
 
   9
   Tha shaam-e-gharibaaṅ ka dhuaaṅ Aamir o Nayyar
   Khaak ujre hue jhule ki bikhri thi jahaaṅ par
-  Kehti thi wahiṅ maaṅ Ali Asghar Ali Asghar
+  Kehti thi wahi maaṅ Ali Asghar Ali Asghar
 ---
 اے میرے دل و جان علی اصغر علی اصغر
 ماں تجھ پہ ہو قربان علی اصغر علی اصغر

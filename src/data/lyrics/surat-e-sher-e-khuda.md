@@ -38,7 +38,7 @@ romanLyrics: |-
   Lab-e-darya zara dekho ye alam kis ka hai
 
   5
-  Nehr par laasha-e-Abbas tarapta kiuṅ hai
+  Nehr par laasha-e-Abbaas tarapta kiuṅ hai
   Naam hontoṅ pe Sakina lab-e-dam kis ka hai
   Lab-e-darya zara dekho ye alam kis ka hai
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   Lab-e-darya zara dekho ye alam kis ka hai
 
   7
-  Nauha Ghaazi ka hai aawaaz Hasan Sadiq ki
+  Nauha Ghaazi ka hai aawaaz Hasan Saadiq ki
   Aur Rehaan ke haathoṅ meiṅ qalam kis ka hai
   Lab-e-darya zara dekho ye alam kis ka hai
 ---

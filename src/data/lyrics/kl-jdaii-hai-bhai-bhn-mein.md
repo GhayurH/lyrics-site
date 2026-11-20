@@ -8,41 +8,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Aaj Zainab hai ranj o mihan mein
+  Kal judaai hai bhaai bahan mein
+
   1
-  Aaj Zainab hay ranj o mehan may
-  Kal judaai hay bhai behan may
-  Bhai marne ko jaate hai ran may
-  Kal judaai hai bhai behan may
+  Bhaai marne ko jaate haiṅ ran mein
 
   2
-  Bhai bhai pukarun mai ban may
-  Bhai ka naam hai pajetan may
-  Ye to kalma rahega dahan may
-  Kal.......
+  Bhaai bhaai pukaaruṅ main ban mein
+  Bhaai ka naam hai Panjtan mein
+  Ye to kalma rahega dahan mein
+  Kal .....
 
   3
-  Aale ahmed pe kal hai qayamat
-  Hoga taraaj baghe risalat
-  Raat guzaregi ab bewatan may
-  Kal.........
+  Aal-e-Ahmad pe kal hai qayaamat
+  Ho ga taaraaj baagh-e-risaalat
+  Raat guzaaregi ab bewatan mein
+  Kal .....
 
   4
-  Shukr ka kalma bhai padega
-  Halqe nazuk pe qanjar phirega
-  Zakhm honge hazaron se tan may
-  Kal........
+  Shukr ka kalma bhaai parhega
+  Halq-e-naazuk pe khanjar phirega
+  Zakhm hoṅ ge hazaaroṅ se tan mein
+  Kal .....
 
   5
-  Barchi khayega seene pe akbar
-  Ye hai wallah shakle payambar
-  Roohe zahra bhi tadpegi ran may
-  Kal..........
+  Barchhi khaayega sine pe Akbar
+  Ye hai wallaah shakl-e-payambar
+  Ruh-e-Zahra bhi tarpegi ran mein
+  Kal .....
 
   6
-  Teer se halqe asghar chidega
-  Boond paani na usko milega
-  Sheh ke haaton pe tadpega ran may
-  Kal..
+  Tir se halq-e-Asghar chhidega
+  Bund paani na us ko milega
+  Sheh ke haathoṅ pe tarpega ran mein
+  Kal .....
 ---
 
 آج زینبؑ ہے رنج و محن میں

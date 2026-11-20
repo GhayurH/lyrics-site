@@ -19,16 +19,16 @@ romanLyrics: |-
   Aaye the din Muhammad ka bachaane ke liye
   Raasta haq se sadaaqat ka dikhaane ke liye
   Wo diya Shah ne jalaaya jo zamaane ke liye
-  Ban gaye masala anwaar Husain Ibn-e-Ali
+  Ban gaye masla anwaar Husain Ibn-e-Ali
 
   2
   Gulshan-e-din ko kiya apne lahu se sairaab
-  Aap ne kufr ke chehre se hataya hai naqaab
+  Aap ne kufr ke chehre se hataaya hai naqaab
   Marne jine ke zamaane ko sikhaaye aadaab
   Kar gaye din ko bedaar Husain Ibn-e-Ali
 
   3
-  Din par Naana ke ek harf bhi aane na diya
+  Din par naana ke ik harf bhi aane na diya
   Tha jo baatil ka andhera use chhaane na diya
   Aur shariat ke usuloṅ ko mitaane na diya
   Aap haiṅ subh ke aasaar Husain Ibn-e-Ali
@@ -40,15 +40,15 @@ romanLyrics: |-
   Sab tumhaare haiṅ azaadaar Husain Ibn-e-Ali
 
   5
-  Ek khaima bhi na jalne se bacha tere baad
+  Ik khaima bhi na jalne se bacha tere baad
   Tera paimaan-e-wafa pura hua tere baad
   Qaafila le ke asiroṅ ka chala tere baad
   Wo tera Aabid-e-bimaar Husain Ibn-e-Ali
 
   6
   Aakhri sajda Husain Ibn-e-Ali ka hai Uruj
-  Sar juda ho gaya dunya ka ho baala hai Uruj
-  Sar ko neze pe lainoṅ ne charhaaya hai Uruj
+  Sar juda ho gaya duniya ka ho baala hai Uruj
+  Sar ko neze pe la'inoṅ ne charhaaya hai Uruj
   Yuṅ hue haq ke tarafdaar Husain Ibn-e-Ali
 ---
 مرحبا سیدِ ابرار حُسین ابنِ علی

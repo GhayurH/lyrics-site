@@ -1,6 +1,6 @@
 ---
 title: "آؤ چلیں حسین سخی کربلا میں ہے"
-alternateTitle: "Aao Chalein Hussain Sakhi Karbala Mein Hai"
+alternateTitle: "Aao Chaleṅ Husain Sakhi Karbala Mein Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,44 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aao chalein Hussain Sakhi Karbala mein hai
-  Jo sab ko palta hai wohi Karbala mein hai
+  Aao chaleṅ Husain sakhi Karbala mein hai
+  Jo sab ko paalta hai wohi Karbala mein hai
 
   1
-  Kitna azeem tar hai ziyarat ka yeh safar
-  Abbas lene aate hain Hukam-e-Hussain par
-  Zair ki qadar dani bari Karbala mein hai
-  Rote hain bain karte hain aakar yahan malak
+  Kitna azim tar hai ziyaarat ka yeh safar
+  Abbas lene aate haiṅ hukm-e-Husain par
+  Zaair ki qadardaani bari Karbala mein hai
+  Rote haiṅ bain karte haiṅ aa kar yahaaṅ malak
 
   2
-  Sadaat ke khiyal se Nehar-e-Furat tak
+  Saadaat ke khayaal se nahr-e-Furaat tak
   Zahra qadam qadam pe luti Karbala mein hai
-  Saqa-e-Ahl-e-Bait hai Abbas oss ka naam
+  Saaqa-e-ahl-e-bait hai Abbas us ka naam
   Darya pe qabza kar ke bhi ab tak hai tishna kaam
 
   3
-  Yani mazar-e-tashna labi Karbala mein hai
-  Jis ja sitam ki barchi se zakhmi howa jigar
-  Akbar jahan pe zeen se aaye zameen par
-  Ghurbat ka woh muqam issi Karbala mein hai
+  Yaani mazaar-e-tishna labi Karbala mein hai
+  Jis jaa sitam ki barchhi se zakhmi hua jigar
+  Akbar jahaaṅ pe zin se aaye zamin par
+  Ghurbat ka woh maqaam isi Karbala mein hai
 
   4
-  Kano pe hai rakhe howay woh apne hath ko
-  Seena padar ka dhondne aati hai raat ko
-  Nanhi si aik bachi koi Karbala mein hai
-  Jati hai Sham mein kabhi aati hai Karbala
+  Kaanoṅ pe hai rakhe hue woh apne haath ko
+  Sina-e-pidar ka dhundne aati hai raat ko
+  Nanhi si ek bachchi koi Karbala mein hai
+  Jaati hai Shaam mein kabhi aati hai Karbala
 
   5
-  Umm-e-Rubab deti hai ro ro ke yeh sada
-  Zindaan mein ik nishani meri Karbala mein hai
-  Hathon mein oss ke bandhi gayi haye reesmaa
-  Athara jis ke bhai thay Abbas se jawaan
+  Umm-e-Rubab deti hai ro ro ke yeh sadaa
+  Zindaaṅ mein ik nishaani meri Karbala mein hai
+  Haathoṅ mein us ke baandhi gayi haaye rismaaṅ
+  Athaarah jis ke bhaai the Abbas se jawaaṅ
 
   6
-  Chadar ossi behan ki chini Karbala mein hai
-  Lamhaat youn mile hain Takallum ko chain ke
-  Sansein tu le raha hai haram mein Hussain ke
-  Tu hai yahan pe rooh teri Karbala mein hai
+  Chaadar usi bahan ki chhini Karbala mein hai
+  Lamhaat yuṅ mile haiṅ Takallum ko chain ke
+  Saanseṅ tu le raha hai haram mein Husain ke
+  Tu hai yahaaṅ pe ruh teri Karbala mein hai
 ---
 
 آؤ چلیں حسین سخی کربلا میں ہے

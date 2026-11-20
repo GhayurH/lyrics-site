@@ -13,41 +13,41 @@ published: true
 romanLyrics: |-
   Maaṅ na roegi tumheiṅ Aun o Mohammad kiuṅkar
 
-  Jab madine meiṅ nazar aaegi viraniy-e-ghar
+  Jab Madine meiṅ nazar aaegi virani-e-ghar
 
   1
-  Jab ke zindan meiṅ tum dono ka sar aya tha
-  Maaṅ na royi thi tumhe tumko gila to hoga
-  Muaaf karna jo agar ho sake ae lakhte jigar
+  Jab ke zindaan meiṅ tum donoṅ ka sar aaya tha
+  Maaṅ na roi thi tumheiṅ, tum ko gila to hoga
+  Muaaf karna jo agar ho sake ae lakht-e-jigar
 
   2
-  Mujhse puchenge jo Abdullah kahaṅ haiṅ bachche
-  Kya waja hai meri nazroṅ se nihaṅ haiṅ bachche
-  Kya jawab unko ye maa degi mere nure nazar
+  Mujh se puchheṅ ge jo Abdullah kahaaṅ haiṅ bachche
+  Kya wajah hai meri nazroṅ se nihaaṅ haiṅ bachche
+  Kya jawaab un ko ye maaṅ degi mere nur-e-nazar
 
   3
-  Hujre dekhungi tumhare to tarap jaungi
-  Kis tarah se dile betaab ko samjhaungi
-  Ab nahi lautke aaenge mere rashqe qamar
+  Hujre dekhuṅ gi tumhaare to tarap jaauṅ gi
+  Kis tarah se dil-e-betaab ko samjhaauṅ gi
+  Ab nahiṅ laut ke aaeṅ ge mere rashk-e-qamar
 
   4
-  Tum nahi paas to ab naaz uthauṅ kiske
-  Hujre hathoṅ se bhala ab mai sajauṅ kiske
-  Kaash mar jati tere sath hi dukhiya madar
+  Tum nahiṅ paas to ab naaz uthaauṅ kis ke
+  Hujre haathoṅ se bhala ab main sajaauṅ kis ke
+  Kaash mar jaati tere saath hi dukhiyaari madar
 
   5
-  Tum nahi ho to maza kuch bhi nahi jine meiṅ
-  Hai is gham se phataa jata hai dil sine meiṅ
-  Kaun ab mujhko pukarega bhala maa kehkar
+  Tum nahiṅ ho to maza kuchh bhi nahiṅ jine meiṅ
+  Hai is gham se phata jaata hai dil sine meiṅ
+  Kaun ab mujh ko pukaarega bhala maaṅ keh kar
 
   6
-  Ae mere laal tere baad ghazab hum pe hua
-  Haey is chashm-e-falak ne bhi ye manzar dekha
-  Sar barehna ye lain laigaye humko dar dar
+  Ae mere laal tere baad ghazab ham pe hua hai
+  Is chashm-e-falak ne bhi ye manzar dekha
+  Sar barahna ye liye liye ham ko dar dar
 
   7
-  Bain sunkar ye uthi Zain baqayya se sada
-  Gham na kha ae meri beti ke ye maa tumpe fida
+  Bain sun kar ye uthi Zainab baqiya se
+  Sada gham na kha ae meri beti ke ye maaṅ tum pe fida
   Haiṅ mere paas mere Aun o Mohammad dilbar
 ---
 

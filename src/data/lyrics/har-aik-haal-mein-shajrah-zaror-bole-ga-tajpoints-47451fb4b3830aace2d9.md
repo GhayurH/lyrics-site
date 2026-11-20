@@ -1,44 +1,78 @@
 ---
-title: "Har Aik Haal Mein Shajrah Zaror Bole Ga"
+title: "ہر ایک حال میں شجرہ ضرور بولے گا"
+alternateTitle: "Har Aik Haal Mein Shajrah Zaror Bole Ga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Waqar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Har aik haal mein shajrah zaror bole ga
+  Jo khush nasab hai tabrah zaror bole ga
+
+  1
+  Koi bhi bole na bole magar Khuda ki qasam
+  Ali ke bare mein Kaba zaror bole ga
+  Kahin bhi baat jo aaye gi Haq-e-Zahra ki
+  Ali ka chahne wala zaror bole ga
+
+  2
+  Nafaq chup nahi sakta kabhi chupane se
+  Ho lab khamosh tu chehra zaror bole ga
+  Tu apne aib chupa lakh Dushkan-e-Sarwar
+  Bure amal ka natija zaror bole ga
+
+  3
+  Gham-e-Hussain pe gar aanch aaye gi koi
+  Yeh aansoon ka qabila zaror bole ga
+  Yeh our baat ke sajde na bool paein gaye
+  Magar yeh ashk ka qatra zaror bole ga
+
+  4
+  Zuban katne wale tujhe khabar bhi hai
+  Ali ke ishq ka jazba zaror bole ga
+  Na khul sake gi jahan par ibadaton ki zubaan
+  Wahan yaqeen hai aqeeda zaror bole ga
+
+  5
+  Mujhe Hussain ke bemar ne shifa bakhshi
+  Yeh har sadi ka masiha zaror bole ga
+  Ba-Waqt-e-Pursish-e-Amal rooz-e-hashar Waqar
+  Mere liye mera mula zaror bole ga
 ---
 
-Har Aik Haal Mein Shajrah Zaror Bole Ga.
-Jo Khush Nasab Hai Tabrah Zaror Bole Ga.
+ہر ایک حال میں شجرہ ضرور بولے گا
+جو خوش نسب ہے تبرّا ضرور بولے گا
 
-1
-Koi Bhi Bole Na Bole Magar Khuda Ki Qasam.
-Ali Ke Bare Mein Kaba Zaror Bole Ga.
-Kahin Bhi Baat Jo Aaye Gi Haq-e-Zahra Ki.
-Ali Ka Chahne Wala Zaror Bole Ga.
+۱
+کوئی بھی بولے نہ بولے مگر خدا کی قسم
+علی کے بارے میں کعبہ ضرور بولے گا
+کہیں بھی بات جو آئے گی حقِ زہرا کی
+علی کا چاہنے والا ضرور بولے گا
 
-2
-Nafaq Chup Nahi Sakta Kabhi Chupane Se.
-Ho Lab Khamosh Tu Chehra Zaror Bole Ga.
-Tu Apne Aib Chupa Lakh Dushkan-e-Sarwar.
-Bure Amal Ka Natija Zaror Bole Ga.
+۲
+نفاق چھپ نہیں سکتا کبھی چھپانے سے
+ہوں لب خاموش تو چہرہ ضرور بولے گا
+تو اپنے عیب چھپا لاکھ دشمنِ سرور
+برے عمل کا نتیجہ ضرور بولے گا
 
-3
-Gham-e-Hussain Pe Gar Aanch Aaye Gi Koi.
-Yeh Aansoon Ka Qabila Zaror Bole Ga.
-Yeh Our Baat Ke Sajde Na Bool Paein Gaye.
-Magar Yeh Ashk Ka Qatra Zaror Bole Ga.
+۳
+غمِ حسین پہ گر آنچ آئے گی کوئی
+یہ آنسوؤں کا قبیلہ ضرور بولے گا
+یہ اور بات کہ سجدے نہ بول پائیں گے
+مگر یہ اشک کا قطرہ ضرور بولے گا
 
-4
-Zuban Katne Wale Tujhe Khabar Bhi Hai.
-Ali Ke Ishq Ka Jazba Zaror Bole Ga.
-Na Khul Sake Gi Jahan Par Ibadaton Ki Zubaan.
-Wahan Yaqeen Hai Aqeeda Zaror Bole Ga.
+۴
+زباں کاٹنے والے تجھے خبر بھی ہے
+علی کے عشق کا جذبہ ضرور بولے گا
+نہ کھل سکے گی جہاں پر عبادتوں کی زباں
+وہاں یقین ہے عقیدہ ضرور بولے گا
 
-5
-Mujhe Hussain Ke Bemar Ne Shifa Bakhshi.
-Yeh Har Sadi Ka Masiha Zaror Bole Ga.
-Ba-Waqt-e-Pursish-e-Amal Rooz-e-Hashar Waqar
-Mere Liye Mera Mula Zaror Bole Ga.
+۵
+مجھے حسین کے بیمار نے شفا بخشی
+یہ ہر صدی کا مسیحا ضرور بولے گا
+بہ وقتِ پرسشِ عمل روزِ حشر وقار
+میرے لیے میرا مولا ضرور بولے گا

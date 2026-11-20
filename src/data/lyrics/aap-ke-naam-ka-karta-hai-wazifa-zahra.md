@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   1
   Aap ke naam ka karta hai wazifa Zahra
-  Deen ko chahiye Shabir ka sadqa Zahra
-  Kya khabar arsh pe ya chadar-e-tatheer mein tha
+  Din ko chaahiye Shabbir ka sadqa Zahra
+  Kya khabar arsh pe ya chaadar-e-tathir meiṅ tha
   Jab kiya aap ne Allah ko sajda Zahra
 
   2
-  Loh-e-mehfooz ko mehfooz rakha hai jis ne
-  Woh Ali teri hifazat mein hai rehta Zahra
-  Fatir-e-arz-o-samawaat hai tasbeeh-e-Batool
-  Our Allah ki tasbeeh hai Zahra Zahra
+  Lauh-e-mehfuz ko mehfuz rakha hai jis ne
+  Woh Ali teri hifaazat meiṅ hai rehta Zahra
+  Faatir-e-arz o samaawaat hai tasbih-e-Batul
+  Aur Allah ki tasbih hai Zahra Zahra
 
   3
-  Ik jagah rook ke Jibreel ko Khaliq bola
-  Is se aagay ka ilaqa hai tumhara Zahra
-  Arsh ke taj se le kar hai zameen ki teh tak
-  Ik faqat aap ki olad ka shajra Zahra
+  Ik jagah ruk ke Jibril ko Khaaliq bola
+  Is se aage ka ilaqa hai tumhaara Zahra
+  Arsh ke taaj se le kar hai zamin ki teh tak
+  Ik faqat aap ki aulaad ka shajra Zahra
 
   4
-  Aap tu aap hain Fizza ki woh azmat samjhay
-  Zehan insani yahan tak nahi pohancha Zahra
-  Mushkilon mein jo madadgar hai sab ka Akbar
-  Oss Ali ne bhi hai mushkil mein kaha ya Zahra
+  Aap to aap haiṅ Fizza ki woh azmat samjhe
+  Zehn-e-insaani yahaaṅ tak nahiṅ pahuncha Zahra
+  Mushkiloṅ meiṅ jo madadgaar hai sab ka Akbar
+  Us Ali ne bhi hai mushkil meiṅ kaha ya Zahra
 ---
 
 ۱

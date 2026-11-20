@@ -1,38 +1,65 @@
 ---
-title: "Ghurbat Ki Inteha Hai"
+title: "غربت کی انتہا ہے"
+alternateTitle: "Ghurbat Ki Inteha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Aqeel"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ghurbat ki inteha hai na saya na rida hai Zahra teri lehad par
+  Chand pathron ne mil kar mehroma likh diya hai Zahra teri lehad par
+
+  1
+  Teeron bhari qaba thi our khoon bhari rida thi
+  Jo Sham se bacha tha Zainab ne rakh diya hai Zahra teri lehad par
+  Do pehar dhal rahe hain khiyam jal rahe hain
+  Tasveer Karbala ki koi bana raha hai Zahra teri lehad par
+
+  2
+  Zindan ki ghutan se har lash be kafan se
+  Abid ne jo sanbhala woh aanso gir para hai Zahra teri lehad par
+  Kya yeh daleel kam hai oss ki kamar mein khum hai
+  Kayi bar aasmaan ne sajdah ada kiya hai Zahra teri lehad par
+
+  3
+  Sun kar hawa bhi roi khud Karbala bhi roi
+  Khak-e-rah Najaf ne jo marsiya parha hai Zahra teri lehad par
+  Abbas ka hai pehra rozay pe shah-e-dein ke
+  Umm ul-Baneen ka pehra ab tak laga howa hai Zahra teri lehad par
+
+  4
+  Jis roz se hai chora Shabeer ne Madina
+  Oss din se our bhi kuch sanata cha gaya hai Zahra teri lehad par
+  Tere gham ki chand satrein kam aaein gi lehad mein
+  Bakhshish Aqeel ki hai yeh noha jo likha hai Zahra teri lehad par
 ---
 
-Ghurbat Ki Inteha Hai Na Saya Na Rida Hai Zahra Teri Lehad Par.
-Chand Pathron Ne Mil Kar Mehroma Likh Diya Hai Zahra Teri Lehad Par.
+غربت کی انتہا ہے، نہ سایہ نہ ردا ہے زہرا تیری لحد پر
+چند پتھروں نے مل کر محرومہ لکھ دیا ہے زہرا تیری لحد پر
 
-1
-Teeron Bhari Qaba Thi Our Khoon Bhari Rida Thi.
-Jo Sham Se Bacha Tha Zainab Ne Rakh Diya Hai Zahra Teri Lehad Par.
-Do Pehar Dhal Rahe Hain Khiyam Jal Rahe Hain.
-Tasveer Karbala Ki Koi Bana Raha Hai Zahra Teri Lehad Par.
+۱
+تیروں بھری قبا تھی اور خون بھری ردا تھی
+جو شام سے بچا تھا زینب نے رکھ دیا ہے زہرا تیری لحد پر
+دوپہر ڈھل رہے ہیں، خیام جل رہے ہیں
+تصویرِ کربلا کی کوئی بنا رہا ہے زہرا تیری لحد پر
 
-2
-Zindan Ki Ghutan Se Har Lash Be Kafan Se.
-Abid Ne Jo Sanbhala Woh Aanso Gir Para Hai Zahra Teri Lehad Par.
-Kya Yeh Daleel Kam Hai Oss Ki Kamar Mein Khum Hai.
-Kayi Bar Aasmaan Ne Sajdah Ada Kiya Hai Zahra Teri Lehad Par.
+۲
+زنداں کی گھٹن سے، ہر لاش بے کفن سے
+عابد نے جو سنبھالا وہ آنسو گر پڑا ہے زہرا تیری لحد پر
+کیا یہ دلیل کم ہے، اس کی کمر میں خم ہے
+کئی بار آسماں نے سجدہ ادا کیا ہے زہرا تیری لحد پر
 
-3
-Sun Kar Hawa Bhi Roi Khud Karbala Bhi Roi.
-Khak-e-Rah Najaf Ne Jo Marsiya Parha Hai Zahra Teri Lehad Par.
-Abbas Ka Hai Pehra Rozay Pe Shah-e-Dein Ke.
-Umm Ul-Baneen Ka Pehra Ab Tak Laga Howa Hai Zahra Teri Lehad Par.
+۳
+سن کر ہوا بھی روئی، خود کربلا بھی روئی
+خاکِ راہِ نجف نے جو مرثیہ پڑھا ہے زہرا تیری لحد پر
+عباس کا ہے پہرا روضے پہ شاہِ دیں کے
+ام البنین کا پہرا اب تک لگا ہوا ہے زہرا تیری لحد پر
 
-4
-Jis Roz Se Hai Chora Shabeer Ne Madina.
-Oss Din Se Our Bhi Kuch Sanata Cha Gaya Hai Zahra Teri Lehad Par.
-Tere Gham Ki Chand Satrein Kam Aaein Gi Lehad Mein.
-Bakhshish Aqeel Ki Hai Yeh Noha Jo Likha Hai Zahra Teri Lehad Par.
+۴
+جس روز سے ہے چھوڑا شبیر نے مدینہ
+اس دن سے اور بھی کچھ سناٹا چھا گیا ہے زہرا تیری لحد پر
+تیرے غم کی چند سطریں کم آئیں گی لحد میں
+بخشش عقیل کی ہے یہ نوحہ جو لکھا ہے زہرا تیری لحد پر

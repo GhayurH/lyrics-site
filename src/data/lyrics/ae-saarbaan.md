@@ -23,7 +23,7 @@ romanLyrics: |-
   Ye qaafila kaise chale
   Sar pe bala ki dhup hai
   Pairoṅ tale dharti jale
-  Hai Bibiyaaṅ sab nim jaaṅ
+  Hai bibiyaaṅ sab nim jaaṅ
   Aahista chal ae naatawaaṅ
 
   2
@@ -38,7 +38,7 @@ romanLyrics: |-
   Naaqoṅ ki jo raftaar hai
   Chalna mera dushwaar hai
   Bachche haiṅ naaqoṅ par bandhe
-  Durroṅ ki bhi bauchhaar hai
+  Durroṅ ke bhi bauchhaar hai
   Kehne lagi Asghar ki maaṅ
   Aahista chal ae naatawaaṅ
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Zainab ko ghash aane laga
   Jab Shimr ne aa kar kaha
   Jaldi barhao ab qadam
-  Te jald ho ye faasla
+  Tai jald ho ye faasla
   Koi na ab khole zabaaṅ
   Aahista chal ae naatawaaṅ
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Naagah ye aayi khabar
   Zainab hui hai nauhagar
   Thehro Sakina gir gayi
-  Rone lage naizoṅ pe sar
+  Rone lage nezoṅ pe sar
   Kehne lage Ahl-e-Jinaan
   Aahista chal ae naatawaaṅ
 

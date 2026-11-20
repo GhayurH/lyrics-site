@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaah e mashraqain fatema ke chain
-  Ya maula Husain alvida
+  Shaah-e-Mashriqain Faatima ke chain
+  Ya Maula Husain alvida
   Alvida ya Husain alvida ya Husain
-  Roke zainab ye karti thi bain alvida
+  Ro ke Zainab ye karti thi bain alvida
   Alvida ya Husain...
-  Aaj akbar ki mayyat pe mai ro chuki
-  Haath afsos abbas se dho chuki
-  Kisko kisko kahuṅ mai kise kho chuki
-  Bhai ab zulm ki inteha ho chuki
+  Aaj Akbar ki mayyat pe main ro chuki
+  Haath afsos Abbas ke kho chuki
+  Kis ko kis ko kahuṅ main kise kho chuki
+  Bhai ab zulm ki intihaa ho chuki
   Alvida ya Husain...
-  Bhai kya kehke bewoṅ ko samjhaungi
-  Sar khule kaise darbar may jaungi
-  Kaise baali sakina ko behlaungi
-  Mere maajaye tumko kahaṅ paungi
+  Bhai kya keh ke bewaoṅ ko samjhaauṅ gi
+  Sar khule kaise darbaar mein jaauṅ gi
+  Kaise baali Sakina ko behlaauṅ gi
+  Mere maan jaae tum ko kahaaṅ paauṅ gi
   Alvida ya Husain...
-  Bhai tum thokare ran may khaate rahe
-  Laash maidaṅ se qaime may laate rahe
-  Har tarha din e haq ko bachate rahe
+  Bhai tum thokareṅ ran mein khaate rahe
+  Laash maidaaṅ se khaime mein laate rahe
+  Har tarah din-e-Haq ko bachaate rahe
   Apni manzil ke nazdik aate rahe
   Alvida ya Husain...
-  Ab wo baysheer ki bezubani kahaṅ
-  Akbar e naujawaṅ ki jawani kahaṅ
-  Ab wo abbas ki paasbani kahaṅ
-  Al-atash ki sadaeiṅ hai pani kahaṅ
+  Ab wo be shir ki bezabaani kahaaṅ
+  Akbar-e-naujawaaṅ ki jawaani kahaaṅ
+  Ab wo Abbas ki paasbaani kahaaṅ
+  Al-atash ki sadaaeṅ hai paani kahaaṅ
   Alvida ya Husain...
-  Aao tumko gale se lagaye behan
-  Aao bhaiya ke qurban jaye behan
-  Kaun baaqi hai kisko bulaye behan
-  Aao ghore pe khud hi bithaye behan
+  Aao tum ko gale se lagaae behan
+  Aao bhaiya ke qurbaan jaae behan
+  Kaun baaqi hai kis ko bulaae behan
+  Aao ghore pe khud hi bithaae behan
   Alvida ya Husain...
-  Ran se halmin ki nagaah aayi sada
-  Chur zakhmo se hai ab badan shaah ka
-  Ae muazzam hui zulm ki imtehaṅ
-  Kat gaya shaah e bekas ka sukha gala
+  Ran se hal min ki naagaah aai sadaa
+  Chur zakhmoṅ se hai ab badan shaah ka
+  Ae Muazzam hui zulm ki imtihaaṅ
+  Kat gaya shaah-e-bekas ka sukha gala
   Alvida ya Husain...
 ---
 

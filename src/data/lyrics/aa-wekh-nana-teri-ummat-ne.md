@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa wekh Nana teri ummat ne Ghulam Ali Party
-  Aa wekh Nana teri ummat ne sada wasda ghar veeran kita
-  Aina zarb chala ke wich sajday Islam da aj nuqsan kita
-  Sajday wich jad gaye Maula Ali fair ainj di zulm di zarb chali
-  Wich qabar de Zahra tarap gayi bara zulm ummat be eman kita
-  Jadon wekhi halat babay di wich masjid Syed tarap gaye
-  Imamat kar toon Hasan bachra ainj Haider ne farman kita
-  Aj Hasan, Hussain, Maula Ghazi babay wal tak tak aakhday ne
-  Saday Nanay de kalma gowaan kiwein zulm aj elan kita
-  Dastar imamat di Haider jadon rakhi Hasan sakhi de sar
-  Kar sabar Hasan Sabir bachra tainu sabraan da sultan kita
-  Fizza, Kulsoom, Ruqaiya ne Zainab nu aakhiya gal la ke
-  Kiwein aj Quran de qariyaan ne wich sajday qatal Quran kita
-  Aj wekh yateemi dhiyaan di Ghazi nu Maula farmaya
-  Pand okhay honrey safraan de tainu pardiyaan da nigran kita
-  Mainu de ke nokari wehray di pehchan karai dunya te
-  Dita qalam mainu:Chan Miraan: ne Adeel nu noha khuwaan kita
+  Aa wekh Naana teri ummat ne Ghulam Ali Party
+  Aa wekh Naana teri ummat ne saada wasda ghar wiraan kita
+  Ainaan zarb chala ke wich sajde Islam da aj nuqsaan kita
+  Sajde wich jad gaye Maula Ali fair ainj di zulm di zarb chali
+  Wich qabar de Zahra tarap gayi bara zulm ummat be imaan kita
+  Jadon wekhi haalat babe di wich masjid Syed tarap gaye
+  Imaamat kar tun Hasan bachra ainj Haider ne farmaan kita
+  Aj Hasan, Husain, Maula Ghazi babe wal tak tak aakhde ne
+  Saade Naane de kalma gowaan kiwein zulm aj ailaan kita
+  Dastaar imaamat di Haider jadon rakhi Hasan sakhi de sar
+  Kar sabar Hasan Saabir bachra tainu sabraan da sultaan kita
+  Fizza, Kulsum, Ruqaiya ne Zainab nun aakhiya gal la ke
+  Kiwein aj Quran de qaariyaan ne wich sajde qatal Quran kita
+  Aj wekh yatimi dhiyaan di Ghazi nun Maula farmaaya
+  Pand okhe honre safraan de tainu pardiyaan da nigraan kita
+  Mainu de ke nokari wehre di pehchaan karaai dunya te
+  Dita qalam mainu:Chan Miraan: ne Adeel nun noha khuwaan kita
 ---
 
 ۱

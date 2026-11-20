@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Sar ko mazlum kataate na agar sajde meiṅ
-  Na namaazeṅ na roze na ye Quraaṅ hota
+  Na namaazeṅ na roze na ye Qur'aaṅ hota
 
   4
   Ghar ki dehliz bhi apni na mukammil dekhi

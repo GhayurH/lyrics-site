@@ -1,41 +1,72 @@
 ---
-title: "Mazloom Imam Zamane Ka"
+title: "مظلوم امام زمانے کا"
+alternateTitle: "Mazloom Imam Zamane Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kabhi Karb-o-Bala par roye tu kabhi roye aaj ke sadmo par
+  Kabhi kal ke musayab par roye kabhi roye aaj ke zakhmo par
+  Kabhi yaad kare woh maqtal mein be sar lashon ki pamali
+  Kabhi deke aaj jawano par maein kis tarha hain roti
+
+  2
+  Kabhi roye be sar lashon par kabhi roye aaj shaheedon par
+  Kabhi khak our khon mein galtaan woh mazloom imam pe bain kare
+  Kabhi jurm mein oss par rone ke ghamkhuwaron ko marta dekhe
+  Kabhi roye Hussain ke zakhmo par kabhi roye pursay daron par
+
+  3
+  Kabhi dekhe Sakina kis tarha kha kha ke tamachay bain kare
+  Kabhi dekhe aaj shaheedon ke bache kis tarha hain rote
+  Kabhi roye Hussain ke bachon par kabhi roye aaj yateemo par
+  Kabhi unn ko salam kare jin ke sar kat ke uthay the naizon par
+
+  4
+  Kabhi Ahl-e-Bait se ulfat mein woh aaj bhi kattay dekhe sar
+  Kabhi kattay saron ki zarbon par kabhi roye aaj zabeeho par
+  Kabhi roye woh unn lashon par jo ran mein na dafnaye gaye
+  Kabhi dekhe dadi ki tarha rozay apno ke dhaye gaye
+
+  5
+  Kabhi roye Baqi ki qabron par kabhi girtay hoye un rozon par
+  Chodah sadiyon ke zakhmo se chalni hai kaleja Mehdi ka
+  Asif zulm-e-hazyan ka woh mosam na aaj talak badla
+  Kabhi roye chodah sadiyon par kabhi aaj ke inn muzlomo par
 ---
 
-1
-Kabhi Karb-o-Bala Par Roye Tu Kabhi Roye Aaj Ke Sadmo Par.
-Kabhi Kal Ke Musayab Par Roye Kabhi Roye Aaj Ke Zakhmo Par.
-Kabhi Yaad Kare Woh Maqtal Mein Be Sar Lashon Ki Pamali.
-Kabhi Deke Aaj Jawano Par Maein Kis Tarha Hain Roti.
+۱
+کبھی کرب و بلا پر روئے تو کبھی روئے آج کے صدموں پر
+کبھی کل کے مصائب پر روئے کبھی روئے آج کے زخموں پر
+کبھی یاد کرے وہ مقتل میں بے سر لاشوں کی پامالی
+کبھی دیکھے آج جوانوں پر مائیں کس طرح ہیں روتی
 
-2
-Kabhi Roye Be Sar Lashon Par Kabhi Roye Aaj Shaheedon Par.
-Kabhi Khak Our Khon Mein Galtaan Woh Mazloom Imam Pe Bain Kare.
-KabhiJurm Mein Oss Par Rone Ke Ghamkhuwaron Ko Marta Dekhe.
-Kabhi Roye Hussain Ke Zakhmo Par Kabhi Roye Pursay Daron Par.
+۲
+کبھی روئے بے سر لاشوں پر کبھی روئے آج شہیدوں پر
+کبھی خاک اور خوں میں غلطاں وہ مظلوم امام پہ بین کرے
+کبھی جرم میں اس پر رونے کے غم خواروں کو مرتا دیکھے
+کبھی روئے حسین کے زخموں پر کبھی روئے پرسہ داروں پر
 
-3
-Kabhi Dekhe Sakina Kis Tarha Kha Kha Ke Tamachay Bain Kare.
-Kabhi Dekhe Aaj Shaheedon Ke Bache Kis Tarha Hain Rote.
-Kabhi Roye Hussain Ke Bachon Par Kabhi Roye Aaj Yateemo Par.
-Kabhi Unn Ko Salam Kare Jin Ke Sar Kat Ke Uthay The Naizon Par.
+۳
+کبھی دیکھے سکینہ کس طرح کھا کھا کے طمانچے بین کرے
+کبھی دیکھے آج شہیدوں کے بچے کس طرح ہیں روتے
+کبھی روئے حسین کے بچوں پر کبھی روئے آج یتیموں پر
+کبھی ان کو سلام کرے جن کے سر کٹ کے اٹھے تھے نیزوں پر
 
-4
-Kabhi Ahl-e-Bait Se Ulfat Mein Woh Aaj Bhi Kattay Dekhe Sar.
-Kabhi Kattay Saron Ki Zarbon Par Kabhi Roye Aaj Zabeeho Par.
-Kabhi Roye Woh Unn Lashon Par Jo Ran Mein Na Dafnaye Gaye.
-Kabhi Dekhe Dadi Ki Tarha Rozay Apno Ke Dhaye Gaye.
+۴
+کبھی اہلِ بیت سے الفت میں وہ آج بھی کٹتے دیکھے سر
+کبھی کٹتے سروں کی ضربوں پر کبھی روئے آج ذبیحوں پر
+کبھی روئے وہ ان لاشوں پر جو رن میں نہ دفنائے گئے
+کبھی دیکھے دادی کی طرح روضے اپنوں کے ڈھائے گئے
 
-5
-Kabhi Roye Baqi Ki Qabron Par Kabhi Girtay Hoye Un Rozon Par.
-Chodah Sadiyon Ke Zakhmo Se Chalni Hai Kaleja Mehdi Ka.
- Asif Zulm-e-Hazyan Ka Woh Mosam Na Aaj Talak Badla.
-Kabhi Roye Chodah Sadiyon Par Kabhi Aaj Ke Inn Muzlomo Par.
+۵
+کبھی روئے بقیع کی قبروں پر کبھی گرتے ہوئے ان روضوں پر
+چودہ صدیوں کے زخموں سے چھلنی ہے کلیجہ مہدی کا
+آصف ظلمِ ہذیان کا وہ موسم نہ آج تلک بدلا
+کبھی روئے چودہ صدیوں پر کبھی آج کے ان مظلوموں پر

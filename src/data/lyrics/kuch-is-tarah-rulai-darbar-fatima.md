@@ -9,12 +9,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Kuchh is tarah rulaai darbaar Fatima
-  Goya Fadak ki thi na haqdar Fatima
+  Goya Fadak ki thi na haqdaar Fatima
 
   Jab bhi qarib maaṅ ke Maula Husain aate
   Gardan ko chumti thi har baar Fatima
 
-  Ae Shamiyoṅ bujha do saare charagh lillah
+  Ae Shaamiyoṅ bujha do saare charaagh lillaah
   Zainab ke saath aai bazaar Fatima
 ---
 

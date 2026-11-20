@@ -15,7 +15,7 @@ romanLyrics: |-
   Maiṅ Muhammad huṅ Akbar hai mera naam
 
   1
-  Maiṅ raaz-e-La Ilaha huṅ
+  Maiṅ raaz-e-Laa Ilaaha huṅ
   Maiṅ ruh-e-Karbala huṅ
   Mujh ko hasin na kehna
   Maiṅ husn ka Khuda huṅ
@@ -24,28 +24,28 @@ romanLyrics: |-
   Aayat ki zabaaṅ huṅ
   Ghairat ka aasmaan huṅ
   Mujh ko bashar na samjho
-  Maiṅ sar ta ba azza huṅ
+  Maiṅ sar taa ba azaa huṅ
 
   3
   Maiṅ juratoṅ ki had huṅ
   Khud aap apni jad huṅ
-  Quran mera badan hai
+  Quraan mera badan hai
   Maiṅ aayatoṅ ka qad huṅ
 
   4
   Maiṅ masdar-e-adab huṅ
   Maiṅ zaamin-e-nasab huṅ
-  Karbal meiṅ din pala
+  Karbal meiṅ din paala
   Maiṅ Karbala ka Rab huṅ
 
   5
   Haq ke nisaab meiṅ huṅ
-  Aur Al-Kitab meiṅ huṅ
+  Aur Al-Kitaab meiṅ huṅ
   Woh bhi hijaab meiṅ hai
   Maiṅ bhi hijaab meiṅ huṅ
 
   6
-  Imran ka lahu huṅ
+  Imraan ka lahu huṅ
   Yusuf ki aarzu huṅ
   Maiṅ kiuṅ karuṅ wazife
   Maiṅ aap Allah Hu huṅ
@@ -53,8 +53,8 @@ romanLyrics: |-
   7
   Maiṅ kya huṅ yeh bata duṅ
   Yeh mojiza dikha duṅ
-  Khak-e-shifa se Aadam
-  Chahuṅ yahiṅ bana duṅ
+  Khaak-e-shifa se Aadam
+  Chaahuṅ yahiṅ bana duṅ
 
   8
   Mat sochna miluṅ ga
@@ -63,10 +63,10 @@ romanLyrics: |-
   Wahdat meiṅ ja miluṅ ga
 
   9
-  Haider mera hawala
+  Haider mera hawaala
   Har soch se hai baala
   Umm-e-Abiha ban ke
-  Zainab ne mujh ko pala
+  Zainab ne mujh ko paala
 ---
 
 میں محمد ہوں اکبر ہے میرا نام

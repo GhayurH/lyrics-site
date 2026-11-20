@@ -1,29 +1,48 @@
 ---
-title: "Sada Shabir Denda Si Rida Teri Rida Zainab Lyrics Punjabi 2025 Latest"
+title: "ساڈا شبیر دیندا سی ردا تیری ردا زینب"
+alternateTitle: "Sada Shabir Denda Si Rida Teri Rida Zainab"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sada Shabir denda si rida teri rida Zainab
+  Jidda si maan oh Ghazi salamat nayi riya Zainab
+  Kiwein pyasi Sakina nu sunawaan haal maqtal da
+  Lahu v naal pani de zameen te beh gaya Zainab
+
+  2
+  Kitay bazu kitay zanu kitay Abbas si ran wich
+  Mainu lasha taein khud le gaya Ghazi mera Zainab
+  Main Mohsin veer de wangoon odhi peshani chumda saan
+  Mainu Abbas ne jis dam bulaya si bhira Zainab
+
+  3
+  Qasam Ghazi ne apni de ke mainu rook chadiya si
+  Main tainu de nayi sakiya madad de layi sada Zainab
+  Khulay sir wekhdi jandi si Akbar sir nu Ghazi de
+  Gayi jad Sham de pasay nibha ke Karbala Zainab
 ---
 
-1
-Sada Shabir Denda Si Rida Teri Rida Zainab.
-Jidda Si Maan Oh Ghazi Salamat Nayi Riya Zainab.
-Kiwein Pyasi Sakina Nu Sunawaan Haal Maqtal Da.
-Lahu V Naal Pani De Zameen Te Beh Gaya Zainab.
+۱
+ساڈا شبیر دیندا سی ردا تیری ردا زینب
+جیدا سی مان اوہ غازی سلامت نئیں ریا زینب
+کیویں پیاسی سکینہ نوں سناواں حال مقتل دا
+لہو وی نال پانی دے زمین تے بہہ گیا زینب
 
-2
-Kitay Bazu Kitay Zanu Kitay Abbas Si Ran Wich.
-Mainu Lasha Taein Khud Le Gaya Ghazi Mera Zainab.
-Main Mohsin Veer De Wangoon Odhi Peshani Chumda Saan.
-Mainu Abbas Ne Jis Dam Bulaya Si Bhira Zainab.
+۲
+کِتے بازو کِتے زانو کِتے عباس سی رن وچ
+مینوں لاشہ تائیں خود لے گیا غازی میرا زینب
+میں محسن ویر دے وانگوں اوہدی پیشانی چمدا ساں
+مینوں عباس نے جس دم بلایا سی بھرا زینب
 
-3
-Qasam Ghazi Ne Apni De Ke Mainu Rook Chadiya Si.
-Main Tainu De Nayi Sakiya Madad De Layi Sada Zainab.
-Khulay Sir Wekhdi Jandi Si Akbar Sir Nu Ghazi De.
-Gayi Jad Sham De Pasay Nibha Ke Karbala Zainab.
+۳
+قسم غازی نے اپنی دے کے مینوں روک چھڈیا سی
+میں تینوں دے نئیں سکیا مدد دے لئی صدا زینب
+کھلے سر ویکھدی جاندی سی اکبر سر نوں غازی دے
+گئی جد شام دے پاسے نبھا کے کربلا زینب

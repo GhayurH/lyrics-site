@@ -1,70 +1,109 @@
 ---
-title: "Kon Ab Sar Pe Mere Hath Rakhai Ga Baba"
+title: "کون اب سر پہ میرے ہاتھ رکھے گا بابا"
+alternateTitle: "Kon Ab Sar Pe Mere Hath Rakhai Ga Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Band ankhein hoi Haider jo chalay dunya say
+  Tha qayamat ka sama gham tha sab he chehro pay
+  Betian bap kay qadmo say jo lipteen ro kay
+  Bain Zainab nay yeh baba kay janazay pay kiye
+
+  1
+  Kon ab sir pay mere hat rakhay ga baba
+  Yad bohat ayega ap ka chehra baba
+
+  2
+  Ma agar na ho to wo surat e ma hota hai
+  Baap beti kay liye sara jahan hota hai
+  Aj lagta hai mere lut gaye dunya baba
+
+  3
+  Samnay bethi hun ek bar to ankhein kholo
+  Kyun ho khamosh fakhat itna bata do mujh ko
+  Na saha jayega Zainab say yeh sadma baba
+
+  4
+  Mere ronay ke sada sun kay taraptay hein sab he
+  Kaise Kufay kay yatemo ko samhalay ga koi
+  Hogaye aj to Zainab bhe yatema baba
+
+  5
+  Hayee yeh dekh kay dil ghum say phata jata hai
+  Kyun amamay ke jaga sir pay kafan bandha hai
+  Tum ko is hal main pehlay to na dekha baba
+
+  6
+  Kitna manoos haai wo tum say tumhein sab hai khabar
+  Mere Abbas ko senay say laga lo uth kar
+  Dur betha hai tarapta hai akela baba
+
+  7
+  Shan e chumay to bataya kay bandhay ge rassi
+  Yeh bhe batlaya kay chadar bhe chenay ge mere
+  Kitna chalna hai mujhe yeh na bataya baba
+
+  8
+  Jab bhe yaad ayegay yeh zakham bohat roungi
+  Apnay maa baap ke ghurbat na kabhe bholungi
+  Sir yahan shak hai wahan pehlo shikasta baba
+
+  9
+  Kardia band kafan bhai Hasan nay rukh say
+  Bhaiya Shabir churatay hein janazay say mujhe
+  Kitna muskill hai mera tumsay bicharna baba
 ---
 
-Band ankhein hoi haider jo chalay dunya say
+بند آنکھیں ہوئیں حیدر جو چلے دنیا سے
+تھا قیامت کا سماں غم تھا سب ہی چہروں پہ
+بیٹیاں باپ کے قدموں سے جو لپٹیں رو کے
+بین زینب نے یہ بابا کے جنازے پہ کیے
 
-tha qayamat ka sama gham tha sab he chehro pay
+۱
+کون اب سر پہ میرے ہاتھ رکھے گا بابا
+یاد بہت آئے گا آپ کا چہرہ بابا
 
-Betian bap kay qadmo say jo lipteen ro kay
+۲
+ماں اگر نہ ہو تو وہ صورتِ ماں ہوتا ہے
+باپ بیٹی کے لیے سارا جہاں ہوتا ہے
+آج لگتا ہے میری لٹ گئی دنیا بابا
 
-Bain zainab nay yeh baba kay janazay pay kiye
+۳
+سامنے بیٹھی ہوں ایک بار تو آنکھیں کھولو
+کیوں ہو خاموش فقط اتنا بتا دو مجھ کو
+نہ سہا جائے گا زینب سے یہ صدمہ بابا
 
-Kon ab sir pay mere hat rakhay ga baba
+۴
+میرے رونے کی صدا سن کے تڑپتے ہیں سب ہی
+کیسے کوفے کے یتیموں کو سنبھالے گا کوئی
+ہو گئی آج تو زینب بھی یتیمہ بابا
 
-yad bohat ayega ap ka chehra baba
+۵
+ہائے یہ دیکھ کے دل غم سے پھٹا جاتا ہے
+کیوں عمامے کی جگہ سر پہ کفن بندھا ہے
+تم کو اس حال میں پہلے تو نہ دیکھا بابا
 
-Ma agar na ho to wo surat e ma hota hai
+۶
+کتنا مانوس ہے وہ تم سے تمہیں سب ہے خبر
+میرے عباس کو سینے سے لگا لو اٹھ کر
+دور بیٹھا ہے تڑپتا ہے اکیلا بابا
 
-baap beti kay liye sara jahan hota hai
+۷
+شانے چومے تو بتایا کہ باندھے گی رسی
+یہ بھی بتلایا کہ چادر بھی چھینے گی میری
+کتنا چلنا ہے مجھے یہ نہ بتایا بابا
 
-aj lagta hai mere lut gaye dunya baba
+۸
+جب بھی یاد آئیں گے یہ زخم بہت روؤں گی
+اپنے ماں باپ کی غربت نہ کبھی بھولوں گی
+سر یہاں شق ہے وہاں پہلو شکستہ بابا
 
-Samnay bethi hun ek bar to ankhein kholo
-
-kyun ho khamosh fakhat itna bata do mujh ko
-
-na saha jayega zainab say yeh sadma baba
-
-Mere ronay ke sada sun kay taraptay hein sab he
-
-kaise kufay kay yatemo ko samhalay ga koi
-
-hogaye aj to zainab bhe yatema baba
-
-Hayee yeh dekh kay dil ghum say phata jata hai
-
-kyun amamay ke jaga sir pay kafan bandha hai
-
-tum ko is hal main pehlay to na dekha baba
-
-Kitna manoos haai wo tum say tumhein sab hai khabar
-
-mere abbas ko senay say laga lo uth kar
-
-dur betha hai tarapta hai akela baba
-
-Shan e chumay to bataya kay bandhay ge rassi
-
-yeh bhe batlaya kay chadar bhe chenay ge mere
-
-kitna chalna hai mujhe yeh na bataya baba
-
-Jab bhe yaad ayegay yeh zakham bohat roungi
-
-apnay maa baap ke ghurbat na kabhe bholungi
-
-sir yahan shak hai wahan pehlo shikasta baba
-
-Kardia band kafan bhai hasan nay rukh say
-
-bhaiya shabir churatay hein janazay say mujhe
-
-kitna muskill hai mera tumsay bicharna baba
+۹
+کر دیا بند کفن بھائی حسن نے رخ سے
+بھیا شبیر چھڑاتے ہیں جنازے سے مجھے
+کتنا مشکل ہے میرا تم سے بچھڑنا بابا

@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye sham e ashur ka hai manzar
-  Hai karb maiṅ itrat e payambar
-  Jabin pa saahil pa alqama ke
+  Ye shaam-e-Aashur ka hai manzar
+  Hai karb meiṅ itrat-e-payambar
+  Jabin pe saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
-  Ye koi mehve buka hai shayad
-  Kisi ne ammu kaha hai shayad
-  Bada hai shayad koi sitamgar
-  Jabin pa saahil pa alqama ke
+  Ye koi mahv-e-buka hai shaayad
+  Kisi ne ammu kaha hai shaayad
+  Barha hai shaahid koi sitamgar
+  Jabin pe saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
-  Wo bholi bhali si ek bachi
+  Wo bholi bhaali si ik bachchi
   Najaf ki jaanib jo tak rahi thi
-  Kisi ne chine hai uske gohar
-  Jabin pa saahil pa alqama ke
+  Kisi ne chhine haiṅ us ke gohar
+  Jabin pe saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
-  Atash se bache machal rahe hai
-  Ye phul sholoṅ may jal rahe hai
-  Chaman may kumla gaye gule tar
-  Jabin pa saahil pa alqama ke
+  Atash se bachche machal rahe haiṅ
+  Ye phul sholoṅ meiṅ jal rahe haiṅ
+  Chaman meiṅ kumla gaye gul-e-tar
+  Jabin pe saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
-  Hujum e gham se jo nim jaan hai
-  Wohi jo bemaar o natawaṅ hai
-  Kisi ne kheyncha hai uska bistar
-  Jabin pa saahil pa alqama ke
+  Hujum-e-gham se jo nim jaan hai
+  Wohi jo bimaar-e-naatawaaṅ hai
+  Kisi ne khencha hai us ka bistar
+  Jabin pe saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
-  Rahi jo kufe ki shaahzadi
-  Kisi ne shayad use sada di
-  Chini hai kausar ab uski chadar
-  Jabin pa saahil pa alqama ke
+  Rahi jo Kufe ki shahzaadi
+  Kisi ne shaayad use sada di
+  Chhini hai Kausar ab us ki chaadar
+  Jabin pe saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 ---
 

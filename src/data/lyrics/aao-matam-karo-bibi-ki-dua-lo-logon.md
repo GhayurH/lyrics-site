@@ -4,7 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-alternateTitle: "Aao Matam Karo Bibi Ki Dua Lo Logoṅ"
+alternateTitle: "Aao Maatam Karo Bibi Ki Dua Lo Logoṅ"
 reciter: "Ali Safdar Rizvi; Anjuman Azadaran-e-Dar-e-Batool"
 tags: []
 aliases: []
@@ -14,7 +14,7 @@ romanLyrics: |-
 
   1
   Aao maatam karo, Bibi ki dua lo logoṅ,
-  Gham-e-Shabbir meiṅ do aasoṅ bahaa lo logoṅ,
+  Gham-e-Shabbir mein do aasoṅ bahaa lo logoṅ,
 
   2
   Jab bhi Abbas ki yaad aae Sakina ki tarah,
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   3
   Kufa o Shaam ke har mod pe Zainab ne kahaa,
-  Maiṅ nabi zaadi, meraa parda bachaa lo logoṅ,
+  Main nabi zaadi, mera parda bachaa lo logoṅ,
 
   4
   Bint-e-Tathir kujaa Shaam ka baazaar kujaa,
@@ -37,12 +37,12 @@ romanLyrics: |-
   Mere bhaai ka janaaza hai, uthaa lo logoṅ,
 
   7
-  Aaj tak gunj rahi hai, ye sadaa maqtal meiṅ,
+  Aaj tak gunj rahi hai, ye sadaa maqtal mein,
   Qaid se meri Sakina ko chhuraa lo logoṅ,
 
   8
   Fatima Zahra ko mehmaan bulaanaa hai agar
-  Apne ghar meiṅ bhi azaa khaana sajaa lo logoṅ
+  Apne ghar mein bhi azaa khaana sajaa lo logoṅ
 
   9
   Shab-e-Aashur pe Zainab ne kahaa ro ro kar

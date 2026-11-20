@@ -11,30 +11,30 @@ aliases: []
 published: true
 reciter: "Ali Zia Rizvi"
 romanLyrics: |-
-  Akbar karyal jawaaṅ, Akbar karyal jawaaṅ
-  Sine pe Akbar ne jab zulm ki khai sinaṅ
-  Har taraf chhai hui gham ki thi tarikiyaṅ
-  Kehti thi sar pit kar is tarah maqtal meiṅ maaṅ
+  Akbar kariyal jawaaṅ, Akbar kariyal jawaaṅ
+  Sine pe Akbar ne jab zulm ki khaai sinaaṅ
+  Har taraf chhaai hui gham ki thi taarikiyaaṅ
+  Kehti thi sar pit kar is tarah maqtal mein maaṅ
 
   1
-  Kaise hue beta tum aankhoṅ se meri nihaṅ
-  Kaise pur aashob meiṅ maaṅ tumheṅ dhundhe kahaṅ
-  Tum hi do aawaz ho Ali Akbar jahaṅ
+  Kaise hue beta tum aankhoṅ se meri nihaaṅ
+  Kaise pur aashob mein maaṅ tumheṅ dhunde kahaaṅ
+  Tum hi do aawaaz ho Ali Akbar jahaaṅ
 
   2
-  Algharaz pahunche wahaṅ thokareṅ khate Husain
-  Khun meiṅ duba hua aaya nazar nur-e-ain
+  Algharaz pahunche wahaaṅ thokareṅ khaate Husain
+  Khun mein duba hua aaya nazar nur-e-ain
   Keh ke zamin par gire haae mere dil ke chain
 
   3
-  Dekha ke sine se hai khun ka darya rawaṅ
+  Dekha ke sine se hai khun ka daryaa rawaaṅ
   Dard se nur-e-nazar khaak pe hai nim jaaṅ
-  Khainch li dil thaam ke sine se Shah ne sinaṅ
+  Khainch li dil thaam ke sine se Shah ne sinaaṅ
 
   4
-  Lasha-e-Akbar na jab Shah-e-Huda se utha
-  Rukh kiya su-e-Najaf aaiye Mushkil Kusha
-  Kaise pur aashob meiṅ dekhiye maiṅ lut gaya
+  Laasha-e-Akbar na jab Shaah-e-Huda se utha
+  Rukh kiya su-e-Najaf aaiye Mushkil Kushaa
+  Kaise pur aashob mai dekhiye main lut gaya
 
   5
   Sadqe ho tum par ye maaṅ aankheṅ to kholo zara

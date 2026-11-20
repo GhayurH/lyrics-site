@@ -7,6 +7,57 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baazaar-e-Shaam darbaar-e-Shaam
+  Haaye haaye Zainab haaye haaye Shaam
+
+  1
+  Baazaar saja hai aur Zainab bechaadar
+
+  2
+  Raahoṅ mein log sharaabi aur Bint-e-Ali faryaadi
+  Ek chaadar maang rahi hai ummat se Sayyidzaadi
+  Aur log tamaashaai aaye haiṅ ban kar
+
+  3
+  Har su naapaak nigaaheṅ aur Aal-e-Nabi ki aaheṅ
+  Sangbaari karne aaye sab log saja kar raaheṅ
+  Is gham se haram hai sinazan nauhagar
+
+  4
+  Yeh kaisi qayaamat aai taqdir kahaaṅ par laai
+  Har zakhm saha hai dil par har chot jigar par khaai
+  Yeh shauq ki galiyaaṅ kehti haiṅ ro ro kar
+
+  5
+  Abbaas ki khwaahar Zainab hai Bint-e-Haidar Zainab
+  Baaloṅ se chhupa kar chehra phirti hai dar dar Zainab
+  Hai kaisa qayaamat ka logoṅ yeh manzar
+
+  6
+  Jis ghar se pardadaari ki rasm hi thi jaari
+  Beparda dekhne unko yeh hai duniya saari
+  Zainab ke kaleje par chalte haiṅ khanjar
+
+  7
+  Yeh zulm bhi kaisa dhaaya baazaar-e-Shaam sajaaya
+  Haathoṅ se ishaara kar ke Bibi ka naam bataaya
+  Girta tha wahaaṅ bhi imaam mera ghash kha kar
+
+  8
+  Haaṅ bojh the dil pe bhaari the ashk lahu ke jaari
+  Soche Tathir ki waaris kaise ho pardadaari
+  Tai karna hai ab bin chaadar aur safar
+
+  9
+  Zainab ka dard uthaana do zakhm jigar par khaana
+  Bhaai ke halq pe khanjar aur Shaam se ho kar jaana
+  Haaye bhul na paaye gi Zainab yeh manzar
+
+  10
+  Safdar o Haashim dekho qirtaas o qalam rota hai
+  Yeh ajr-e-risaalat dekho ummat se jo paaya hai
+  Zehra ki beti roti hai nange sar
 ---
 
 بازارِ شام دربارِ شام

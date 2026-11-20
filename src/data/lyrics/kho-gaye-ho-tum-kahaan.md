@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Ae Ali Akbar mere ae Ali Akbar mere
-  Kis tarah sah paayegi gham tera khwaahar
+  Kis tarah sah paaye gi gham tera khwaahar
 
   2
   Zakhm sine par laga aur jigar tak chhid gaya
@@ -29,14 +29,14 @@ romanLyrics: |-
   Sej phuloṅ ki kahaaṅ khaak ka bistar
 
   4
-  Ek Sakina si behan shal hai koroṅ se badan
+  Ik Sakina si behan shal hai koroṅ se badan
   Uf gulu meiṅ baandhne Shimr laaya hai rasan
   Zulm ki hai inteha chhin gaye gauhar
 
   5
   Mohsin o yaawar nahiṅ shaah ka lashkar nahiṅ
   So gaye Abbas bhi god meiṅ Asghar nahiṅ
-  Saiṅkaroṅ ranj o mehan aur ek Sarwar
+  Sainkaroṅ ranj o mehan aur ik Sarwar
 
   6
   Tauq ka aazaar hai Abid-e-bimaar hai
@@ -44,9 +44,9 @@ romanLyrics: |-
   Baad tere ahl-e-shar le gaye chaadar
 
   7
-  Qaid se jab jaauṅgi maiṅ Madine jaauṅgi
-  Puchhegi Sughra tumheṅ kya use batlaauṅgi
-  Kis tarah sah paayegi gham tera khwaahar
+  Qaid se jab jaauṅ gi maiṅ Madine jaauṅ gi
+  Puchhe gi Sughra tumheṅ kya use batlaauṅ gi
+  Kis tarah sah paaye gi gham tera khwaahar
 
   8
   Ae shahid-e-Karbala ae shabih-e-Mustafa

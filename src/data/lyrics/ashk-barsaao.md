@@ -58,7 +58,7 @@ romanLyrics: |-
   Ye zamiṅ Shabbir ka hai ghamkada
 
   9
-  Aisa ho farsh-e-aza ka ehtemaam
+  Aisa ho farsh-e-aza ka ehtimaam
   Sadqa-e-Shabbir meiṅ langar ho aam
   Har aza khaana ho ek nemat kada
 

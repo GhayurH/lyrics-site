@@ -49,7 +49,7 @@ romanLyrics: |-
 
   9
   Khaime meiṅ kar rahi thi Sakina yehi dua
-  Aa jaaye khairiyat se mere am Khuda kare
+  Aa jaaye khairiyat se mere amm Khuda kare
 
   10
   Akbar palat ke aaye ye Sughra ki thi dua

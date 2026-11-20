@@ -14,27 +14,27 @@ published: true
 romanLyrics: |-
   Ye keh rahi thi Fatema
   Hai aakhri meri sada
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   Haafiz mere ghar ke ho tum
   Haafiz tumhara hai Khuda
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   1
   Dard uthaati hi rahi
   Har zarb pe khaamosh thi
   Tum se shikaayat hi na ki
-  Maiṅ ab nahiṅ ji paauṅgi
+  Main ab nahiṅ ji paauṅ gi
   Ik zakhm hai aisa laga
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   2
   Is zulm ki aadi na thi
-  Kya maiṅ Nabi zaadi na thi
+  Kya main Nabi zaadi na thi
   Qismat ki shehzaadi na thi
-  Maiṅ sabr bhi karti rahi
+  Main sabr bhi karti rahi
   Phir bhi sitam barhta raha
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   3
   Ummat se naata tor ke
@@ -42,7 +42,7 @@ romanLyrics: |-
   Khaaliq se rishta jor ke
   Bachchoṅ ko tanha chhor ke
   Karti hui aah o buka
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   4
   Ye Zainab o Kulsum hai
@@ -50,23 +50,23 @@ romanLyrics: |-
   Meri tarah mazlum hai
   Parda hai in ki zindagi
   Hone na paae berida
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   5
-  Leti huṅ jab maiṅ siskiyaaṅ
+  Leti huṅ jab main siskiyaaṅ
   Aati hai mujh ko hichkiyaaṅ
   Tuti hui haiṅ pasliyaaṅ
-  Mayyat ko meri qabr meiṅ
+  Mayyat ko meri qabr mein
   Aahista se rakhna zara
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 
   6
-  Maiṅ sochti huṅ ya Ali
-  Paas un ke jab maiṅ jaauṅgi
-  Guzregi kya Baba pe bhi
+  Main sochti huṅ ya Ali
+  Paas un ke jab main jaauṅ gi
+  Guzre gi kya Baba pe bhi
   Rukh par tamaanchoṅ ke nishaaṅ
-  Dekhega jab Baba mera
-  Maiṅ jaa rahi huṅ ya Ali
+  Dekhe ga jab Baba mera
+  Main jaa rahi huṅ ya Ali
 
   7
   Jo Ahmad-e-Mukhtaar ki
@@ -74,7 +74,7 @@ romanLyrics: |-
   Zulm o sitam sehti rahi
   Rone lage Sher-e-Khuda
   Sun kar ye Zehra ki sada
-  Maiṅ jaa rahi huṅ ya Ali
+  Main jaa rahi huṅ ya Ali
 ---
 یہ کہہ رہی تھی فاطمہ
 ہے آخری میری صدا

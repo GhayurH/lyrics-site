@@ -1,30 +1,50 @@
 ---
-title: "Doween Eidaan Wich Kofe De Barbad Ho Gayiyaan Lyrics In Punjabi 2018"
+title: "دوویں عیداں وچ کوفے دے برباد ہو گئیاں"
+alternateTitle: "Doween Eidaan Wich Kofe De Barbad Ho Gayiyaan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Doween eidaan wich Kofe de barbad ho gayiyaan
+  Zainab Kulsoom Ruqaiya aye wain paondiyaan
+  Eid-ul-fitar te Zainab chuk ke amama rondi
+  Ik Eid te Ruqaiya bachiyaan nu lab ke rondi
+  Aina de gham che eidaan wich soag rehndiyaan
+  Dunya te jeray loki eidaan taun pehle marday
+  Din Eid ja ke onno haye ro ke pursa denday
+  Nayi aaya dain koi pursa ro ro ke kehndiyaan
+  Aa jaway Veer Ghazi ro ro ke payi bulandi
+  Lab ke lia de bachre ais shehar de nayi aadi
+  Pardais de wich kise maa di rul jawan na joriyaan
+  Kofe di aurtaan nu Zainab ne aynj rowaya
+  Haye sir toon la ke chadar walaan che munh lukaya
+  Pehchan laina ais halat wich bazaraan choon aandiyaan
+  Zainab di yateemi da ahsas kar lo logo
+  Pa ke labas kalay khushiyaan che soag kar lo
+  Aaj Hasan aye Zahra jaiyaan dunya nu aye kendiyaan
 ---
 
-1
-Doween Eidaan Wich Kofe De Barbad Ho Gayiyaan.
-Zainab Kulsoom Ruqaiya Aye Wain Paondiyaan.
-Eid-ul-Fitar Te Zainab Chuk Ke Amama Rondi.
-Ik Eid Te Ruqaiya Bachiyaan Nu Lab Ke Rondi.
-Aina De Gham Che Eidaan Wich Soag Rehndiyaan.
-Dunya Te Jeray Loki Eidaan Taun Pehle Marday.
-Din Eid Ja Ke Onno Haye Ro Ke Pursa Denday.
-Nayi Aaya Dain Koi Pursa Ro Ro Ke Kehndiyaan.
-Aa Jaway Veer Ghazi Ro Ro Ke Payi Bulandi.
-Lab Ke Lia De Bachre Ais Shehar De Nayi Aadi.
-Pardais De Wich Kise Maa Di Rul Jawan Na Joriyaan.
-Kofe Di Aurtaan Nu Zainab Ne Aynj Rowaya.
-Haye Sir Toon La Ke Chadar Walaan Che Munh Lukaya.
-Pehchan Laina Ais Halat Wich Bazaraan Choon Aandiyaan.
-Zainab Di Yateemi Da Ahsas Kar Lo Logo.
-Pa Ke Labas Kalay Khushiyaan Che Soag Kar Lo.
-Aaj Hasan Aye Zahra Jaiyaan Dunya Nu Aye Kendiyaan.
+۱
+دوویں عیداں وچ کوفے دے برباد ہو گئیاں
+زینب کلثوم رقیہ ایہہ وین پاؤندیاں
+عیدالفطر تے زینب چک کے عمامہ روندی
+اک عید تے رقیہ بچیاں نوں لبھ کے روندی
+ایناں دے غم چ عیداں وچ سوگ رہندیاں
+دنیا تے جیڑے لوکی عیداں توں پہلے مردے
+دن عید جا کے اُنّوں ہائے رو کے پرسہ دیندے
+نئیں آیا دین کوئی پرسہ رو رو کے کہندیاں
+آ جاوے ویر غازی رو رو کے پئی بلاندی
+لبھ کے لیا دے بچڑے ایس شہر دے نئیں عادی
+پردیس دے وچ کسے ماں دی رُل جاون نہ جوڑیاں
+کوفے دی عورتاں نوں زینب نے اینج روایا
+ہائے سر توں لا کے چادر والاں چ منہ لکایا
+پہچان لینا ایس حالت وچ بازاراں چوں آندیاں
+زینب دی یتیمی دا احساس کر لو لوگو
+پا کے لباس کالے خوشیاں چ سوگ کر لو
+آج حسن ایہہ زہرا جائیاں دنیا نوں ایہہ کہندیاں

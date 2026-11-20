@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dete hai tere parcham ko hum salaami
-  Ya husasin ya Husain ya Husain
-  Ye matami julus ye parcham ye taaziye
-  Nisbat hai inko sibte rasule anaam se
+  Dete haiṅ tere parcham ko ham salaami
+  Ya Husain ya Husain ya Husain
+  Ye maatami julus ye parcham ye taaziye
+  Nisbat hai inko sibt-e-rasul-e-anaam se
   Daaman bacha ke in se kidhar aap chal diye
-  Aa kar zara Husain ki majlis meiṅ dekhiye
+  Aa kar zara Husain ki majlis mein dekhiye
   Lehra raha hai aaj bhi parcham Husain ka
-  Laakhoṅ yazid aaye aur aa kar chale gaye
-  Kuch roz apni shaan dikha kar chale gaye
-  Quran ka mazaakh ura kar chale gaye
-  Tarikh besabaat pe cha kar chale gaye
+  Laakhoṅ Yazid aaye aur aa kar chale gaye
+  Kuchh roz apni shaan dikha kar chale gaye
+  Quraan ka mazaaq ura kar chale gaye
+  Taarikh besabaat pe chha kar chale gaye
   Lehra raha hai aaj bhi...
-  Kab tak hasad ki aag meiṅ jalte rahenge aap
-  Kab tak ghame Husain ko biddat kahenge aap
-  Itrat se hat ke jitni namazeiṅ padhenge aap
-  Mehshar meiṅ unka bojh uthaate phirenge aap
+  Kab tak hasad ki aag mein jalte raheṅ ge aap
+  Kab tak gham-e-Husain ko bidat kaheṅ ge aap
+  Itrat se hat ke jitni namaazeṅ parheṅ ge aap
+  Mahshar mein un ka bojh uthaate phireṅ ge aap
   Lehra raha hai aaj bhi...
-  Kiuṅ kar jale qayaam Husain e gharib ke
-  Kis ne lagayi aag zara ye bhi sochiye
-  Nafrat agar hai aap ke dil meiṅ yazid se
-  Is majlis e Husain meiṅ aa kar dikhaiye
+  Kiuṅ kar jale qiyaam-e-Husain-e-gharib ke
+  Kis ne lagaayi aag zara ye bhi sochiye
+  Nafrat agar hai aap ke dil mein Yazid se
+  Is majlis-e-Husain mein aa kar dikhaaiye
   Lehra raha hai aaj bhi...
-  Ye matam e Husain tamasha nahi koi
-  Ye majliseiṅ hai waaize irfan o aagahi
-  Phaili hai jab bhi matam e sarwar ki roshni
-  Surat har ek yazid ki pehchan li gayi
+  Ye maatam-e-Husain tamaasha nahiṅ koi
+  Ye majliseṅ hai waaiz-e-irfaan o aagahi
+  Phaili hai jab bhi maatam-e-Sarwar ki roshni
+  Surat har ek Yazid ki pehchaan li gayi
   Lehra raha hai aaj bhi...
-  Qatl e Husain koi chipane ki baaat hai
-  Ye to khuli fiza meiṅ sunane ki baat hai
-  Bhatke huwoṅ ko raah dikhane ki baat hai
-  Pathar diloṅ ko khun rulaane ki baat hai
+  Qatl-e-Husain koi chhupaane ki baat hai
+  Ye to khuli faza mein sunaane ki baat hai
+  Bhatke huoṅ ko raah dikhaane ki baat hai
+  Patthar diloṅ ko khun rulaane ki baat hai
   Lehra raha hai aaj bhi...
-  Ek bezaban ke tir laga aap chup rahe
-  Sibte rasul qatl huwe aap chup rahe
-  Jangal meiṅ ghar nabi ka luta aap chup rahe
-  Islam ka alam jo gira aap chup rahe
+  Ik bezabaaṅ ke tir laga aap chup rahe
+  Sibt-e-rasul qatl hue aap chup rahe
+  Jangal mein ghar Nabi ka luta aap chup rahe
+  Islaam ka alam jo gira aap chup rahe
   Lehra raha hai aaj bhi...
-  Aale rasul e paak ki tash'heer haye haye
-  Mushkil kusha ke paaoṅ meiṅ zanjir haye haye
-  Khaak ho gayi rasul ki tasvir haye haye
-  Khud kalmago hai qatil e shabbir haye haye
+  Aal-e-rasul-e-paak ki tashhir haaye haaye
+  Mushkil kusha ke paaoṅ mein zanjir haaye haaye
+  Khaak ho gayi rasul ki tasvir haaye haaye
+  Khud kalma go hai qaatil-e-Shabbir haaye haaye
   Lehra raha hai aaj bhi...
-  Ye bhi ata hai fatema ke nur e ain ki
+  Ye bhi ata hai Fatema ke nur-e-ain ki
   Daulat hai apne paas abhi aah o bain ki
-  Aayegi jab bhi yaad shahe mashraqain ki
-  Goonjegi ae zahir sada ya Husain ki
+  Aaye gi jab bhi yaad shah-e-mashriqain ki
+  Gunje gi ae Zaheer sada ya Husain ki
   Lehra raha hai aaj bhi...
 ---
 

@@ -10,39 +10,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salam karbobala ya Husain ya maula
-  Salam haye shahidan e karbala e wafa
-  Har ek zarre se matam ki aa rahi hai sada
-  Ana zawwar-e-Husain ibne ali
-  Arbaab Husain ibn-e-ali
-  Chala hoo karbobala hai zabaṅ pe bismillah
-  Hai dil meiṅ kalma e haq lailaha illallah
-  Safar qubul kare ya Husain sarallah
-  Hum log azadar e Husain arewallah
-  Hum log wafadar e Husain arewallah
-  Hum log tarafdar e Husain arewallah
+  Salaam Karbobala ya Husain ya maula
+  Salaam haa-e-shahidaan-e-Karbala-e-wafa
+  Har ek zarre se maatam ki aa rahi hai sada
+  Ana zawwaar-e-Husain ibn-e-Ali
+  Arbaab-e-Husain ibn-e-Ali
+  Chala huṅ Karbobala hai zabaaṅ pe bismillah
+  Hai dil meiṅ kalma-e-haq la ilaaha illallah
+  Safar qubul kare ya Husain saar Allah
+  Hum log azaadaar-e-Husain arewallah
+  Hum log wafaadaar-e-Husain arewallah
+  Hum log tarafdaar-e-Husain arewallah
   Ae aaqa mere ae maula mere
-  Naukar hai sada zawwar tere
-  Ana zawwar-e-Husain ibne ali...
-  Salaam iska ke hum ko bula liya maula
-  Salaam iska ke zaaer bana liya maula
-  Salaam iska ke dil meiṅ basa liya maula
-  Hum ahle yaqiṅ ahle aza arewallah
-  Hum fatema zehra ki dua arewallah
-  Hum saare safiran e aza arewallah
+  Naukar hai sada zawwaar tere
+  Ana zawwaar-e-Husain ibn-e-Ali...
+  Salaam is ka ke hum ko bula liya maula
+  Salaam is ka ke zaaer bana liya maula
+  Salaam is ga ke dil meiṅ basa liya maula
+  Hum ahl-e-yaqiṅ ahl-e-aza arewallah
+  Hum Fatema Zehra ki dawa arewallah
+  Hum saare safiraan-e-aza arewallah
   Ae aaqa mere ae maula mere
-  Naukar hai sada zawwar tere
-  Ana zawwar-e-Husain ibne ali...
-  Khuda ka shukr dayaar e Husain dekh liya
-  In aasuon ne mazaar e Husain dekh liya
-  Nasib mera wiqaar e Husain dekh liya
-  Kya shaan teri karbobala arewallah
-  Hai khaak teri khaak e shifa arewallah
-  Jagir e alamdaar e wafa arewallah
+  Naukar hai sada zawwaar tere
+  Ana zawwaar-e-Husain ibn-e-Ali...
+  Khuda ka shukr diyaar-e-Husain dekh liya
+  In aansuoṅ ne mazaar-e-Husain dekh liya
+  Nasib mera waqaar-e-Husain dekh liya
+  Kya shaan teri Karbobala arewallah
+  Hai khaak teri khaak-e-shifa arewallah
+  Jaagir-e-alamdaar-e-wafa arewallah
   Ae aaqa mere ae maula mere
-  Naukar hai sada zawwar tere
-  Ana zawwar-e-Husain ibne ali...
-  Arbaab Husain ibn-e-ali
+  Naukar hai sada zawwaar tere
+  Ana zawwaar-e-Husain ibn-e-Ali...
+  Arbaab-e-Husain ibn-e-Ali
 ---
 
 ۱

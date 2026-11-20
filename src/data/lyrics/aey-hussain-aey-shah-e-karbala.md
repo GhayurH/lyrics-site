@@ -1,6 +1,6 @@
 ---
 title: "اے حسینؑ اے شاہ کربلا"
-alternateTitle: "Aey Hussain Aey Shah-e-Karbala"
+alternateTitle: "Ae Husain Ae Shah-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,53 +9,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Hussain aey Shah-e-Karbala
-  Waqt-e-rukhsat qareeb aa gaya
+  Ae Husain ae Shah-e-Karbala
+  Waqt-e-rukhsat qarib aa gaya
 
   1
-  May sawari sajaon teri
-  Hay behan teri zinda abhi
-  Meray bhaiya koyi ghum na kha
+  Main sawaari sajaa'uṅ teri
+  Hai bahan teri zinda abhi
+  Mere bhaiya koi gham na khaa
 
   2
-  Chakiyan pesanay walli maa
-  Dekh mojud hay wo yahan
-  Day rahi hay pata ik sada
+  Chakiyaaṅ pisne waali maaṅ
+  Dekh maujud hai woh yahaaṅ
+  De rahi hai pata ik sada
 
   3
-  Teri rukhsat pay qurban main
-  Waar don kalb aur jaan main
-  Do ghari pas tu baith ja
+  Teri rukhsat pe qurbaan main
+  Waar duṅ qalb aur jaan main
+  Do ghari paas tu baith jaa
 
   4
-  Kaisay ab usko behlaon main
-  Kya Sakina ko batlaon main
-  Aap kyun ho rahay hain juda
+  Kaise ab us ko behlaa'uṅ main
+  Kya Sakina ko batlaa'uṅ main
+  Aap kiuṅ ho rahe haiṅ juda
 
   5
-  Choor zakhmon say ho is qadar
-  Phat raha hay behan ka jigar
-  Sar say girnay lagi hay rida
+  Chur zakhmoṅ se ho is qadar
+  Phat raha hai bahan ka jigar
+  Sar se girne lagi hai rida
 
   6
-  Mujh ko maloom hay hoga kya
-  Bandha jaeya ga bazu mera
-  Jao Zainab ka hafiz Khuda
+  Mujh ko maalum hai hoga kya
+  Baandha jaae ga baazu mera
+  Jaa'o Zainab ka haafiz Khuda
 
   7
-  Na zameen par ho na zeen par
-  Nok-e-naiza par rakha hay sar
-  Aur behan sath hay bayrida
+  Na zamin par ho na zin par
+  Nok-e-naiza par rakha hai sar
+  Aur bahan saath hai be rida
 
   8
-  Tu nay kitnay sahay hain sitam
-  Aik dil aur hazaron hain gham
-  Dhop main tera laasha raha
+  Tu ne kitne sahe haiṅ sitam
+  Ek dil aur hazaaroṅ haiṅ gham
+  Dhup mein tera laasha raha
 
   9
-  Kalb-e-Rizwan-o-Rehan main
-  Jaisay Alhamd Quran main
-  Gunj aati hay yeh gham ki sada
+  Qalb-e-Rizwan o Rehan mein
+  Jaise Alhamd Quraan mein
+  Gunj aati hai yeh gham ki sada
 ---
 
 اے حسین اے شاہِ کربلا

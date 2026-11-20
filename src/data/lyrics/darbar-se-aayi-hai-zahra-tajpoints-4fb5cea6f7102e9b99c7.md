@@ -1,50 +1,89 @@
 ---
-title: "Darbar Se Aayi Hai Zahra"
+title: "دربار سے آئی ہے زہرا"
+alternateTitle: "Darbar Se Aayi Hai Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Beton ke saharey chalti hoi darbar se aayi hai Zahra
+  Lagta hai abhi mar jaye gi darbar se aayi hai Zahra
+
+  1
+  Woh jitni dair wahan thehri baba ka minber takti rahi
+  Par Yasrab ki shehzadi ko masnad na musalmano ne di
+  Seh kar dil par yeh gustakhi darbar se aayi hai Zahra
+  Darbar mein jana apni jagah yeh baat bhi aik aziyat thi
+
+  2
+  Le le kar naam Muhammad ka har ik mastoor Madine ki
+  Ik dojay se yeh kehti thi darbar se aayi hai Zahra
+  Dil rukta sans ukharti hai dewarein tham ke chalti hai
+  Chehray par Fatima Zahra ke Fizza se barh ke zaeefi hai
+
+  3
+  Le kar yeh safaidi baloon ki darbar se aayi hai Zahra
+  Ghar aate hoye khud Zahra ne Umm-e-Ayman se farmaya
+  Sar chom ke dono beton ka Salman ko ro ke samjhaya
+  Zainab ko na batlaye koi darbar se aayi hai Zahra
+
+  4
+  Do gaam pe baba ki turbat darbar mein beti ki ghurbat
+  Jhutlai gayi thi Sadiqa hansti thi dekh ke yeh ummat
+  Khud apna noha parhti hoi darbar se aayi hai Zahra
+  Shabar ko chom ke roti hai Shabeer ki gardan chomti hai
+
+  5
+  Ro kar Kulsoom-o-Zainab ki aankhon se hath lagati hai
+  Shayad dukh Sham ke takti hoi darbar se aayi hai Zahra
+  Tehreer faqat tukray na hoi tazheek hoi thi lafzoon ki
+  Masjid mein kya kuch guzari hai yeh baat issay pochay na koi
+
+  6
+  Ro kar kehte they sab se Ali darbar se aayi hai Zahra
+  Khaliq ki adalat ho gi bapa insaf ki khatir paish-e-jali
+  Beton ko apne sath liye Mehshar mein aisay jaye gi
+  Jis haal mein Akbar bint-e-Nabi darbar se aayi hai Zahra
 ---
 
-Beton Ke Saharey Chalti Hoi Darbar Se Aayi Hai Zahra.
-Lagta Hai Abhi Mar Jaye Gi Darbar Se Aayi Hai Zahra.
+بیٹوں کے سہارے چلتی ہوئی دربار سے آئی ہے زہرا
+لگتا ہے ابھی مر جائے گی دربار سے آئی ہے زہرا
 
-1
-Woh Jitni Dair Wahan Thehri Baba Ka Minber Takti Rahi.
-Par Yasrab Ki Shehzadi Ko Masnad Na Musalmano Ne Di.
-Seh Kar Dil Par Yeh Gustakhi Darbar Se Aayi Hai Zahra.
-Darbar Mein Jana Apni Jagah Yeh Baat Bhi Aik Aziyat Thi.
+۱
+وہ جتنی دیر وہاں ٹھہری بابا کا منبر تکتی رہی
+پر یثرب کی شہزادی کو مسند نہ مسلمانوں نے دی
+سہ کر دل پر یہ گستاخی دربار سے آئی ہے زہرا
+دربار میں جانا اپنی جگہ یہ بات بھی ایک اذیت تھی
 
-2
-Le Le Kar Naam Muhammad Ka Har Ik Mastoor Madine Ki.
-Ik Dojay Se Yeh Kehti Thi Darbar Se Aayi Hai Zahra.
-Dil Rukta Sans Ukharti Hai Dewarein Tham Ke Chalti Hai.
-Chehray Par Fatima Zahra Ke Fizza Se Barh Ke Zaeefi Hai.
+۲
+لے لے کر نام محمد کا ہر اک مستور مدینے کی
+اک دوجے سے یہ کہتی تھی دربار سے آئی ہے زہرا
+دل رکتا سانس اکھڑتی ہے دیواریں تھام کے چلتی ہے
+چہرے پر فاطمہ زہرا کے فضہ سے بڑھ کے ضعیفی ہے
 
-3
-Le Kar Yeh Safaidi Baloon Ki Darbar Se Aayi Hai Zahra.
-Ghar Aate Hoye Khud Zahra Ne Umm-e-Ayman Se Farmaya.
-Sar Chom Ke Dono Beton Ka Salman Ko Ro Ke Samjhaya.
-Zainab Ko Na Batlaye Koi Darbar Se Aayi Hai Zahra.
+۳
+لے کر یہ سفیدی بالوں کی دربار سے آئی ہے زہرا
+گھر آتے ہوئے خود زہرا نے امِ ایمن سے فرمایا
+سر چوم کے دونوں بیٹوں کا سلمان کو رو کے سمجھایا
+زینب کو نہ بتلائے کوئی دربار سے آئی ہے زہرا
 
-4
-Do Gaam Pe Baba Ki Turbat Darbar Mein Beti Ki Ghurbat.
-Jhutlai Gayi Thi Sadiqa Hansti Thi Dekh Ke Yeh Ummat.
-Khud Apna Noha Parhti Hoi Darbar Se Aayi Hai Zahra.
-Shabar Ko Chom Ke Roti Hai Shabeer Ki Gardan Chomti Hai.
+۴
+دو گام پہ بابا کی تربت دربار میں بیٹی کی غربت
+جھٹلائی گئی تھی صادقہ ہنستی تھی دیکھ کے یہ امت
+خود اپنا نوحہ پڑھتی ہوئی دربار سے آئی ہے زہرا
+شبر کو چوم کے روتی ہے شبیر کی گردن چومتی ہے
 
-5
-Ro Kar Kulsoom-o-Zainab Ki Aankhon Se Hath Lagati Hai.
-Shayad Dukh Sham Ke Takti Hoi Darbar Se Aayi Hai Zahra.
-Tehreer Faqat Tukray Na Hoi Tazheek Hoi Thi Lafzoon Ki.
-Masjid Mein Kya Kuch Guzari Hai Yeh Baat Issay Pochay Na Koi.
+۵
+رو کر کلثوم و زینب کی آنکھوں سے ہاتھ لگاتی ہے
+شاید دکھ شام کے تکتی ہوئی دربار سے آئی ہے زہرا
+تحریر فقط ٹکڑے نہ ہوئی تضحیک ہوئی تھی لفظوں کی
+مسجد میں کیا کچھ گزاری ہے یہ بات اسے پوچھے نہ کوئی
 
-6
-Ro Kar Kehte They Sab Se Ali Darbar Se Aayi Hai Zahra.
-Khaliq Ki Adalat Ho Gi Bapa Insaf Ki Khatir Paish-e-Jali.
-Beton Ko Apne Sath Liye Mehshar Mein Aisay Jaye Gi.
-Jis Haal Mein Akbar Bint-e-Nabi Darbar Se Aayi Hai Zahra.
+۶
+رو کر کہتے تھے سب سے علی دربار سے آئی ہے زہرا
+خالق کی عدالت ہو گی بپا انصاف کی خاطر پیشِ جلی
+بیٹوں کو اپنے ساتھ لیے محشر میں ایسے جائے گی
+جس حال میں اکبر بنتِ نبی دربار سے آئی ہے زہرا

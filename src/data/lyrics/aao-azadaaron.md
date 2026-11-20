@@ -13,9 +13,9 @@ published: true
 romanLyrics: |-
   Aao azadaaroṅ
   Ab tak hai zabaanoṅ pe Alamdar Alamdar
-  Ae qaafila-e-Shah ke saalaar Alamdar
+  Ae qaafila-e-Shaah ke saalaar Alamdar
   Abbas Alamdar
-  Ek sada kaanoṅ meiṅ abhi tak
+  Ik sada kaanoṅ meiṅ abhi tak
   Gunj rahi hai logoṅ suno
   Ye hai sada Khatun-e-Jinaaṅ ki
   Hum bhi kaheṅ aur tum bhi kaho
@@ -25,30 +25,30 @@ romanLyrics: |-
 
   1
   Ye wo alam hai jis ka pharera
-  Saani-e-Zehra ki chadar hai
+  Saani-e-Zehra ki chaadar hai
   Haaṅ ye alam jis ghar pe laga ho
   Saaya-e-Zehra meiṅ wo ghar hai
-  Kya hai alam kya iski ataa hai
+  Kya hai alam kya is ki ataa hai
   Aao zamaane bhar ko bataayeṅ
 
   2
   Aao zamaane bhar ko bataayeṅ
   Hum pe Abu Talib ka karam hai
-  Paas nahiṅ aayega koi gham
+  Paas nahiṅ aaye ga koi gham
   Saaya fagan jab tak ye alam hai
   Aao alam ke saaye meiṅ aao
-  Gham ka har ek ehsaas mitaayeṅ
+  Gham ka har ik ehsaas mitaayeṅ
 
   3
   Gham ka har ek ehsaas mita kar
   Pyaar kareṅ Sarkar-e-Wafa se
-  Pyaar ke badle pyaar milega
-  Tumko Nabi se aur Khuda se
+  Pyaar ke badle pyaar mile ga
+  Tum ko Nabi se aur Khuda se
   Saath chaleṅ hum kiuṅ dunya ke
   Dunya to apne saath chalaayeṅ
 
   4
-  Dunya hamaare saath chalegi
+  Dunya hamaare saath chale gi
   Aur qiyaadat Sher-e-Jari ki
   Saare aalam jhuk jaayeṅ ge phir to
   Baat rahegi ek alam ki
@@ -56,17 +56,17 @@ romanLyrics: |-
   Kiuṅ na ise taabir banaayeṅ
 
   5
-  Khwaab ko jab taabir milegi
+  Khwaab ko jab taabir mile gi
   Qaul ye pura hoga kisi ka
-  Koi kahega mera hai maula
-  Koi kahega mera hai maula
+  Koi kahe ga mera hai maula
+  Koi kahe ga mera hai maula
   Aayeṅ ge phir har ghar se yaqinan
   Nauhe ki aur maatam ki sadaayeṅ
 
   6
   Nauhe ki aur maatam ki sada se
   Gunj raha hoga ye zamaana
-  Saara jahaaṅ ye baat kahega
+  Saara jahaaṅ ye baat kahe ga
   Naad-e-Ali hai qaumi taraana
   Qaumi alam aur qaumi parcham
   Donoṅ meiṅ hai jo farq mitaayeṅ
@@ -92,7 +92,7 @@ romanLyrics: |-
   Jab ye alam maqtal meiṅ gira tha
   Ek taraf Shabbir aur Zainab
   Ek taraf sadaat ka nauha
-  Ae qaafila-e-Shah ke saalaar Alamdar
+  Ae qaafila-e-Shaah ke saalaar Alamdar
   Abbas Alamdar
 ---
 آؤ عزاداروں

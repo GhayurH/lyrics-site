@@ -1,38 +1,66 @@
 ---
-title: "Loag Iss Baat Par Sochte Reh Gaye"
+title: "لوگ اس بات پر سوچتے رہ گئے"
+alternateTitle: "Loag Iss Baat Par Sochte Reh Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Loag iss baat par sochte reh gaye
+  Kaba kis ka hai ghar sochtay reh gaye
+
+  1
+  Hai Khuda la makaan yeh hai kis ka makaan
+  Sare dewar-o-dar sochtay reh gaye
+  Hain Ali ya Nabi farsh-e-hijrat pe yeh
+  Loag taba sahar sochtay reh gaye
+
+  2
+  Pohanchay Haider idhar toota Khaybar ka dar
+  Sorma joray sar sochtay reh gaye
+  Lehja-e-Rab mein yeh kis ne ki guftgu
+  Khud bhi Khair-al-Bashar sochtay reh gaye
+
+  3
+  Meri mushkil tu Nad-e-Ali se tali
+  Tum dua our asar sochtay reh gaye
+  Main ne pehchana Haider ko marqad mein bhi
+  Unn ke munkir magar sochtay reh gaye
+
+  4
+  Aik lamhey mein Hur soye janat gaya
+  Bad nasab raat bhar sochtay reh gaye
+  Chand saat mein Rehan midhat likhi
+  Kitne ahl-e-hunar sochtay reh gaye
 ---
 
-Loag Iss Baat Par Sochte Reh Gaye.
-Kaba Kis Ka Hai Ghar Sochtay Reh Gaye.
+لوگ اس بات پر سوچتے رہ گئے
+کعبہ کس کا ہے گھر سوچتے رہ گئے
 
-1
-Hai Khuda La Makaan Yeh Hai Kis Ka Makaan.
-Sare Dewar-o-Dar Sochtay Reh Gaye.
-Hain Ali Ya Nabi Farsh-e-Hijrat Pe Yeh.
-Loag Taba Sahar Sochtay Reh Gaye.
+۱
+ہے خدا لامکاں یہ ہے کس کا مکاں
+سارے دیوار و در سوچتے رہ گئے
+ہیں علی یا نبی فرشِ ہجرت پہ یہ
+لوگ تا بہ سحر سوچتے رہ گئے
 
-2
-Pohanchay Haider Idhar Toota Khaybar Ka Dar.
-Sorma Joray Sar Sochtay Reh Gaye.
-Lehja-e-Rab Mein Yeh Kis Ne Ki Guftgu.
-Khud Bhi Khair-Al-Bashar Sochtay Reh Gaye.
+۲
+پہنچے حیدر ادھر ٹوٹا خیبر کا در
+سورما جوڑے سر سوچتے رہ گئے
+لہجۂ رب میں یہ کس نے کی گفتگو
+خود بھی خیر البشر سوچتے رہ گئے
 
-3
-Meri Mushkil Tu Nad-e-Ali Se Tali.
-Tum Dua Our Asar Sochtay Reh Gaye.
-Main Ne Pehchana Haider Ko Marqad Mein Bhi.
-Unn Ke Munkir Magar Sochtay Reh Gaye.
+۳
+میری مشکل تو نادِ علی سے ٹلی
+تم دعا اور اثر سوچتے رہ گئے
+میں نے پہچانا حیدر کو مرقد میں بھی
+ان کے منکر مگر سوچتے رہ گئے
 
-4
-Aik Lamhey Mein Hur Soye Janat Gaya.
-Bad Nasab Raat Bhar Sochtay Reh Gaye.
-Chand Saat Mein Rehan Midhat Likhi.
-Kitne Ahl-e-Hunar Sochtay Reh Gaye.
+۴
+ایک لمحے میں حر سوئے جنت گیا
+بد نسب رات بھر سوچتے رہ گئے
+چند ساعت میں ریحان مدحت لکھی
+کتنے اہلِ ہنر سوچتے رہ گئے

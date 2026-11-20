@@ -14,7 +14,7 @@ aliases: ["masooma-aakhay-veran-nu-aye-pyas-di-had-ki-hondi-aye-lyrics-new-noha-
 recitationId: "masooma-aakhay-veran-nu-aye-pyas-di-had-ki-hondi-aye-lyrics-new-noha-1"
 published: true
 romanLyrics: |-
-  Masuma aakhe viraaṅ nu ae pyaas di had ki hondi ae
+  Masuma aakhe viraaṅ nuṅ ae pyaas di had ki hondi ae
   Rang zard piya lab zakhmi ne puchhdi behosh payi hondi ae
 
   1
@@ -23,11 +23,11 @@ romanLyrics: |-
 
   2
   Duji ae had ae taalu de naal haaye jibh chamar jaandi ae
-  Maiṅ aakhni saaṅ kiuṅ bolda nahiṅ Akbar na waaz nikaldi ae
+  Main aakhni saaṅ kiuṅ bolda nahiṅ Akbar na waaz nikaldi ae
 
   3
   Tiji ae had ae jiveṅ khaak utte machhli tarfe bin paani
-  Maiṅ tarfadiyaaṅ Asghar takiya Karbal di khaak rayi uddi ae
+  Main tarfadiyaaṅ Asghar takiya Karbal di khaak rayi uddi ae
 
   4
   Chauthi had ae jadoṅ haddiyaaṅ toṅ haaye maas juda ho jaave

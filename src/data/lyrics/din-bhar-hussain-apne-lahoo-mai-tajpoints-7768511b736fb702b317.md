@@ -1,32 +1,54 @@
 ---
-title: "Din Bhar Hussain Apne Lahoo Mai"
+title: "دن بھر حسین اپنے لہو میں"
+alternateTitle: "Din Bhar Hussain Apne Lahoo Mai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Din bhar Hussain apne lahoo mai nahaye hain
+  Kya kya jawan beton ke lashay uthaye hain
+
+  1
+  Itna tu aab bhi na tha Nehar-e-Furat mein
+  Jitnay Ali ki beti ne aanso bahaye hain
+  Kulsoom noha parhti hain roti hain bibiyaan
+  Shabeer ba wafa ka alam le ke aaye hain
+
+  2
+  Khak-e-Shifa mein khon mila har shaheed ka
+  Qasim ne apne jism ke tukray malaye hain
+  Maqtal mein maa ne bhaija hai kis ahtamam se
+  Kurta pisar ka badla hai gesu banaye hain
+
+  3
+  Peshani-e-Hussain ka Asghar ka mashk ka
+  Zainab ko teen teer nahi bhool paye hain
+  Kata tha jis sakon se zalim ne Sheh ka sar
+  Akbar ossi sakon se khaimay jalaye hain
 ---
 
-Din Bhar Hussain Apne Lahoo Mai Nahaye Hain Syed Mudassir Mehdi
-Kya Kya Jawan Beton Ke Lashay Uthaye Hain.
+دن بھر حسین اپنے لہو میں نہائے ہیں
+کیا کیا جوان بیٹوں کے لاشے اٹھائے ہیں
 
-1
-Itna Tu Aab Bhi Na Tha Nehar-e-Furat Mein.
-Jitnay Ali Ki Beti Ne Aanso Bahaye Hain.
-Kulsoom Noha Parhti Hain Roti Hain Bibiyaan.
-Shabeer Ba Wafa Ka Alam Le Ke Aaye Hain.
+۱
+اتنا تو آب بھی نہ تھا نہرِ فرات میں
+جتنے علی کی بیٹی نے آنسو بہائے ہیں
+کلثوم نوحہ پڑھتی ہیں روتی ہیں بیبیاں
+شبیر باوفا کا علم لے کے آئے ہیں
 
-2
-Khak-e-Shifa Mein Khon Mila Har Shaheed Ka.
-Qasim Ne Apne Jism Ke Tukray Malaye Hain.
-Maqtal Mein Maa Ne Bhaija Hai Kis Ahtamam Se.
-Kurta Pisar Ka Badla Hai Gesu Banaye Hain.
+۲
+خاکِ شفا میں خون ملا ہر شہید کا
+قاسم نے اپنے جسم کے ٹکڑے ملائے ہیں
+مقتل میں ماں نے بھیجا ہے کس اہتمام سے
+کرتا پسر کا بدلا ہے گیسو بنائے ہیں
 
-3
-Peshani-e-Hussain Ka Asghar Ka Mashk Ka.
-Zainab Ko Teen Teer Nahi Bhool Paye Hain.
-Kata Tha Jis Sakon Se Zalim Ne Sheh Ka Sar.
- Akbar Ossi Sakon Se Khaimay Jalaye Hain.
+۳
+پیشانیِ حسین کا اصغر کا مشک کا
+زینب کو تین تیر نہیں بھول پائے ہیں
+کاٹا تھا جس سکون سے ظالم نے شہ کا سر
+اکبر اسی سکون سے خیمے جلائے ہیں

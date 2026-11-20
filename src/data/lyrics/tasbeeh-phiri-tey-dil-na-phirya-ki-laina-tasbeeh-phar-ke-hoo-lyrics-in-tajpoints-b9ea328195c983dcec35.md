@@ -1,16 +1,22 @@
 ---
-title: "Tasbeeh Phiri Tey Dil Na Phirya Ki Laina Tasbeeh Phar Ke Hoo Lyrics In Punjabi 2017"
+title: "تسبیح پھری تے دل نہ پھریا، کی لینا تسبیح پھڑ کے ہو"
+alternateTitle: "Tasbeeh Phiri Tey Dil Na Phirya Ki Laina Tasbeeh Phar Ke Hoo"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Bahoo"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ilm parhiya te adab na sikhiya ki laina ilm nu parh ke Hoo
+  Chilay katay te kuj na khatiya ki laina chiliyaan war ke Hoo
+  Jaag bina dudh jamday nahin Bahoo bhawein laal howan karh karh ke Hoo
 ---
 
-1
-Ilm Parhiya Te Adab Na Sikhiya Ki Laina Ilm Nu Parh Ke Hoo.
-Chilay Katay Te Kuj Na Khatiya Ki Laina Chiliyaan War Ke Hoo.
-Jaag Bina Dudh Jamday Nahin Bahoo Bhawein Laal Howan Karh Karh Ke Hoo.
+۱
+علم پڑھیا تے ادب نہ سکھیا کی لینا علم نوں پڑھ کے ہو
+چلے کٹے تے کجھ نہ کھٹیا کی لینا چلیاں وڑ کے ہو
+جاگ بنا دُدھ جمدے نہیں باہو بھاویں لال ہوون کڑھ کڑھ کے ہو

@@ -44,7 +44,7 @@ romanLyrics: |-
 
   5
   Qabr-e-Zahra se aa rahi hai sada
-  Is ne maara hai mere baba ko
+  Is ne maara hai mere baaba ko
   Phir Madine meiṅ ek qayaamat hai
   Phir raha hai mazaar-e-Paighambar
 
@@ -82,7 +82,7 @@ romanLyrics: |-
   Dil nahiṅ lagta aaj ghar meiṅ mera
   Ae Takallum ye maaṅ ka nauha tha
   Thaam kar koi mere baazu ko
-  Le chale Fatima ki turbat par
+  Le chale Faatima ki turbat par
 ---
 
 شدتِ صبر سے مر جائے نہ ماں اکبر کی

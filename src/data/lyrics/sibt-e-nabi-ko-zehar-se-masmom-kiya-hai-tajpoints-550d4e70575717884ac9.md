@@ -1,41 +1,72 @@
 ---
-title: "Sibt-e-Nabi Ko Zehar Se Masmom Kiya Hai"
+title: "سبطِ نبی کو زہر سے مسموم کیا ہے"
+alternateTitle: "Sibt-e-Nabi Ko Zehar Se Masmom Kiya Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sibt-e-Nabi ko zehar se masmom kiya hai
+  Maula ka jigar tukron mein kat kat ke gira hai
+  Jodah ne diya zehar zamane ke wali ko
+  Chor aayi tarapta howa farzand-e-Ali ko
+
+  2
+  Dekho tu risalat ka ajar kaisa mila hai
+  Laye hain kamano mein laeen teer saja ke
+  Marey gaye masmoom ki maiyyat pe jafa se
+  Oss zulm se Maula ka kafan surkh howa hai
+
+  3
+  Rotay hoye Shabbir se kehne lagay Ghazi
+  Gar izn atta ho tu badal doon ga yeh bazi
+  Inn sab ke liye tera yeh Abbas bara hai
+  Nana ke Madine mein Hasan par yeh musibat
+
+  4
+  Karb-o-Bala mein hogi bhala kaisi qayamat
+  Islam Madine mein khara soch raha hai
+  Iss haal mein aaya hai janaza yeh palat kar
+  Zainab ne kaha bhai ke lashay se lipat kar
+
+  5
+  Nana teri ummat ne sitam kaisa kiya hai
+  Dekha gaya Hasnain Madine mein yeh manzar
+  Qabar-e-Hasan pe kehte they Shabbir yeh ro kar
+  Amma ke hawalay tumhein aye bhai kiya hai
 ---
 
-1
-Sibt-e-Nabi Ko Zehar Se Masmom Kiya Hai.
-Maula Ka Jigar Tukron Mein Kat Kat Ke Gira Hai.
-Jodah Ne Diya Zehar Zamane Ke Wali Ko.
-Chor Aayi Tarapta Howa Farzand-e-Ali Ko.
+۱
+سبطِ نبی کو زہر سے مسموم کیا ہے
+مولا کا جگر ٹکڑوں میں کٹ کٹ کے گرا ہے
+جعدہ نے دیا زہر زمانے کے ولی کو
+چھوڑ آئی تڑپتا ہوا فرزندِ علی کو
 
-2
-Dekho Tu Risalat Ka Ajar Kaisa Mila Hai.
-Laye Hain Kamano Mein Laeen Teer Saja Ke.
-Marey Gaye Masmoom Ki Maiyyat Pe Jafa Se.
-Oss Zulm Se Maula Ka Kafan Surkh Howa Hai.
+۲
+دیکھو تو رسالت کا اجر کیسا ملا ہے
+لائے ہیں کمانوں میں لعین تیر سجا کے
+مارے گئے مسموم کی میت پہ جفا سے
+اس ظلم سے مولا کا کفن سرخ ہوا ہے
 
-3
-Rotay Hoye Shabbir Se Kehne Lagay Ghazi.
-Gar Izn Atta Ho Tu Badal Doon Ga Yeh Bazi.
-Inn Sab Ke Liye Tera Yeh Abbas Bara Hai.
-Nana Ke Madine Mein Hasan Par Yeh Musibat.
+۳
+روتے ہوئے شبیر سے کہنے لگے غازی
+گر اذن عطا ہو تو بدل دوں گا یہ بازی
+ان سب کے لیے تیرا یہ عباس بڑا ہے
+نانا کے مدینے میں حسن پر یہ مصیبت
 
-4
-Karb-o-Bala Mein Hogi Bhala Kaisi Qayamat.
-Islam Madine Mein Khara Soch Raha Hai.
-Iss Haal Mein Aaya Hai Janaza Yeh Palat Kar.
-Zainab Ne Kaha Bhai Ke Lashay Se Lipat Kar.
+۴
+کرب و بلا میں ہوگی بھلا کیسی قیامت
+اسلام مدینے میں کھڑا سوچ رہا ہے
+اس حال میں آیا ہے جنازہ یہ پلٹ کر
+زینب نے کہا بھائی کے لاشے سے لپٹ کر
 
-5
-Nana Teri Ummat Ne Sitam Kaisa Kiya Hai.
-Dekha Gaya Hasnain Madine Mein Yeh Manzar.
-Qabar-e-Hasan Pe Kehte They Shabbir Yeh Ro Kar.
-Amma Ke Hawalay Tumhein Aye Bhai Kiya Hai.
+۵
+نانا تیری امت نے ستم کیسا کیا ہے
+دیکھا گیا حسنین مدینے میں یہ منظر
+قبرِ حسن پہ کہتے تھے شبیر یہ رو کر
+اماں کے حوالے تمہیں اے بھائی کیا ہے

@@ -13,7 +13,7 @@ aliases: ["Farshe Aza Pe Aao"]
 published: true
 romanLyrics: |-
   Farsh-e-aza pe aao sar ko jhuka jhuka ke
-  Zehra ko pursa dena aaṅsu baha baha ke
+  Zehra ko pursa dena aansu baha baha ke
 
   1
   Imran ne bachaai is shaan se nabuwwat
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Sughra ke khat ke andar bas ye likha hua tha
-  Zinda huṅ baba khaali jhula jhula jhula ke
+  Zinda huṅ baba khaali jhula jhulaa jhulaa ke
 
   3
   Shabbir kehte jaate Abbas mere bhaiya
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Jalti hui zamiṅ par paani kahaaṅ se laate
-  Tar kar di qabr-e-Asghar aaṅsu baha baha ke
+  Tar kar di qabr-e-Asghar aansu baha baha ke
 
   5
   Rukhsat to kar diya tha karyal jawaaṅ ko lekin
@@ -41,14 +41,14 @@ romanLyrics: |-
 
   7
   Chhupte the khaimoṅ khaimoṅ bachche Shah-e-Huda ke
-  Aur haṅs rahe the zaalim khaime jala jala ke
+  Aur hans rahe the zaalim khaime jala jala ke
 
   8
   Ye kam nahiṅ aakhir mazlumi-e-Sakina
-  Zaalim jo pheṅkte the paani dikha dikha ke
+  Zaalim jo phenkte the paani dikha dikha ke
 
   9
-  Abid bhi ye Najaf jab rote haiṅ khuṅ ke aaṅsu
+  Abid bhi ye Najaf jab rote haiṅ khuṅ ke aansu
   Pursa do khun apna tum bhi baha baha ke
 ---
 فرش عزا پہ آؤ سر کو جھکا جھکا کے

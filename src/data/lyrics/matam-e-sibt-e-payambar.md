@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Matam-e-Sibt-e-Payambar ki nishaani ho kar
+  Maatam-e-Sibt-e-Payambar ki nishaani ho kar
   Khun-e-dil ki aankh se behne laga paani ho kar
 
   1
@@ -23,16 +23,16 @@ romanLyrics: |-
   Zulfiqaar-e-Asadullah ka paani ho kar
 
   3
-  Sabr-e-Shabbir ne ran meiṅ wo dikhaaye jauhar
-  Reh gaya qissa-e-Ayub kahaani ho kar
+  Sabr-e-Shabbir ne ran mein wo dikhaaye jauhar
+  Reh gaya qissa-e-Ayyub kahaani ho kar
 
   4
-  Log Akbar ka Madine meiṅ adab karne lage
+  Log Akbar ka Madine mein adab karne lage
   Yuṅ shabaab aaya Muhammad ki jawaani ho kar
 
   5
   Zindagi bakhsh di sar de ke Shah-e-Waala ne
-  Warna reh jaata ye Islam kahaani ho kar
+  Warna reh jaata ye Islaam kahaani ho kar
 ---
 ماتم سبطِ پیمبر کی نشانی ہو کر
 خون دل کی آنکھ سے بہنے لگا پانی ہو کر

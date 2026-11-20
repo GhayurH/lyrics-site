@@ -1,50 +1,89 @@
 ---
-title: "Tu Naray Lagay Haider Ke"
+title: "تو نعرے لگائے حیدر کے"
+alternateTitle: "Tu Naray Lagay Haider Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Tu naray lagay Haider ke
+
+  1
+  Raat tera Rajab ki jo aayi aik dewar jab muskurai
+
+  2
+  Khaliq hai tauheed ka malik kaise sabit hota
+  Roz-e-hashar kare ga kaise woh murday ko zinda
+  Murtaza ne jo thokar lagai
+  Jaan murday badan ne jo payi
+  Soraj ko palta ke foran sar sajday mein rakha
+  Hamd-e-Khuda karte the Maula jis dam tara utra
+  Par gayi shak mein jab kibriyai
+  Kar ke sajda Ali ne bachai
+  Khaibar ke maidan mein sab mal-e-muft uraya
+  Risht-e-dar Payamber ka jab koi kam na aaya
+  Yaad aaya Muhammad ko bhai
+  Run mein Nad-e-Ali aazmai
+  Mal-e-ghaneemat lootne mein the loag jo aagay aagay
+  Roz-e-Ayhad woh pak Nabi ko tanha choor ke bhagay
+  Aasmano se taig-e-Elahi
+  Jab Ali ya Ali kehti aayi
+  Aadam our Hawa ko milaya Nooh ko paar lagaya
+  Takht Sulemaan ko bakhsha our Musa ko Toor pe laya
+  Ki jo nabiyon ki mushkil kushai
+  Rahnumaon ki, ki rahnumai
+  Bhagne ka shak jin par tha palan unhi se le kar
+  Payghambar ne joor liya jab Man Kunto ka mimber
+  Kar ke aylan-e-mushkil kushai
+  Thami dast-e-Khuda ki kalai
+  Aaj Ali ke naray ko yeh bidat kehne walay
+  Dekhte bad-e-Khaibar jo Yasrab ke rehne walay
+  Muflasi youn Ali ni mitai
+  Aayi Khaibar ki jis dam kamai
+  Aqad-e-Ali-o-Zahra ka manzar bhi ajab tha Akbar
+  Zahra Zahra kehte the sab sun kar zikar-e-Kausar
+  Our Nabi ne jo mehfil sajai
+  Qul ho Allah ki aayat sunai
 ---
 
-Tu Naray Lagay Haider Ke.
+تو نعرے لگائے حیدر کے
 
-1
-Raat Tera Rajab Ki Jo Aayi Aik Dewar Jab Muskurai.
+۱
+رات تیرہ رجب کی جو آئی ایک دیوار جب مسکرائی
 
-2
-Khaliq Hai Tauheed Ka Malik Kaise Sabit Hota.
-Roz-e-Hashar Kare Ga Kaise Woh Murday Ko Zinda.
-Murtaza Ne Jo Thokar Lagai.
-Jaan Murday Badan Ne Jo Payi.
-Soraj Ko Palta Ke Foran Sar Sajday Mein Rakha.
-Hamd-e-Khuda Karte The Maula Jis Dam Tara Utra.
-Par Gayi Shak Mein Jab Kibriyai.
-Kar Ke Sajda Ali Ne Bachai.
-Khaibar Ke Maidan Mein Sab Mal-e-Muft Uraya.
-Risht-e-Dar Payamber Ka Jab Koi Kam Na Aaya.
-Yaad Aaya Muhammad Ko Bhai.
-Run Mein Nad-e-Ali Aazmai.
-Mal-e-Ghaneemat Lootne Mein The Loag Jo Aagay Aagay.
-Roz-e-Ayhad Woh Pak Nabi Ko Tanha Choor Ke Bhagay.
-Aasmano Se Taig-e-Elahi.
-Jab Ali Ya Ali Kehti Aayi.
-Aadam Our Hawa Ko Milaya Nooh Ko Paar Lagaya.
-Takht Sulemaan Ko Bakhsha Our Musa Ko Toor Pe Laya.
-Ki Jo Nabiyon Ki Mushkil Kushai.
-Rahnumaon Ki, Ki Rahnumai.
-Bhagne Ka Shak Jin Par Tha Palan Unhi Se Le Kar.
-Payghambar Ne Joor Liya Jab Man Kunto Ka Mimber.
-Kar Ke Aylan-e-Mushkil Kushai.
-Thami Dast-e-Khuda Ki Kalai.
-Aaj Ali Ke Naray Ko Yeh Bidat Kehne Walay.
-Dekhte Bad-e-Khaibar Jo Yasrab Ke Rehne Walay.
-Muflasi Youn Ali Ni Mitai.
-Aayi Khaibar Ki Jis Dam Kamai.
-Aqad-e-Ali-o-Zahra Ka Manzar Bhi Ajab Tha Akbar.
-Zahra Zahra Kehte The Sab Sun Kar Zikar-e-Kausar.
-Our Nabi Ne Jo Mehfil Sajai.
-Qul HO ALLAH Ki Aayat Sunai.
+۲
+خالق ہے توحید کا مالک کیسے ثابت ہوتا
+روزِ حشر کرے گا کیسے وہ مردے کو زندہ
+مرتضیٰ نے جو ٹھوکر لگائی
+جان مردہ بدن نے جو پائی
+سورج کو پلٹا کے فوراً سر سجدے میں رکھا
+حمدِ خدا کرتے تھے مولا جس دم تارا اترا
+پڑ گئی شک میں جب کبریائی
+کر کے سجدہ علی نے بچائی
+خیبر کے میدان میں سب مالِ مفت اڑایا
+رشتے دار پیمبر کا جب کوئی کام نہ آیا
+یاد آیا محمد کو بھائی
+رن میں نادِ علی آزمائی
+مالِ غنیمت لوٹنے میں تھے لوگ جو آگے آگے
+روزِ اُحد وہ پاک نبی کو تنہا چھوڑ کے بھاگے
+آسمانوں سے تیغِ الٰہی
+جب علی یا علی کہتی آئی
+آدم اور حوا کو ملایا نوح کو پار لگایا
+تخت سلیمان کو بخشا اور موسیٰ کو طور پہ لایا
+کی جو نبیوں کی مشکل کشائی
+رہنماؤں کی، کی رہنمائی
+بھاگنے کا شک جن پر تھا پالان انہی سے لے کر
+پیغمبر نے جوڑ لیا جب من کنتو کا منبر
+کر کے اعلانِ مشکل کشائی
+تھامی دستِ خدا کی کلائی
+آج علی کے نعرے کو یہ بدعت کہنے والے
+دیکھتے بعدِ خیبر جو یثرب کے رہنے والے
+مفلسی یوں علی نے مٹائی
+آئی خیبر کی جس دم کمائی
+عقدِ علی و زہرا کا منظر بھی عجب تھا اکبر
+زہرا زہرا کہتے تھے سب سن کر ذکرِ کوثر
+اور نبی نے جو محفل سجائی
+قل ہو اللہ کی آیت سنائی

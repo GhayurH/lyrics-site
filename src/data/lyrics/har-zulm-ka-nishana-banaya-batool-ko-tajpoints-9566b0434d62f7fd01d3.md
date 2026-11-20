@@ -1,50 +1,90 @@
 ---
-title: "Har Zulm Ka Nishana Banaya Batool Ko"
+title: "ہر ظلم کا نشانہ بنایا بتول کو"
+alternateTitle: "Har Zulm Ka Nishana Banaya Batool Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Har zulm ka nishana banaya Batool ko
+  Baba ki taziyat mein sataya Batool ko
+
+  1
+  Iss zulm se hilaya giya marqad-e-Rasool
+  Izhar-e-taziyat mein jalaya dar-e-Batool
+  Ghurbat ka taziyana lagaya Batool ko
+  Haider pe zulm dhaya giya dekhti rahi
+
+  2
+  Bandha giya Ali ka gala dekhti rahi
+  Jo ho saka woh zulm dikhaya Batool ko
+  Haq mangne gayi thi yeh kya le aayi hai
+  Honton pe apne aah-o-buka le ke aayi hai
+
+  3
+  Apne hi haq se ghair bataya Batool ko
+  Darbar se palat ke jo ghar aayi Fatima
+  Zainab yeh boli bibi hai kya naam aap ka
+  Sun kar sawal gham se ghash aaya Batool ko
+
+  4
+  Chup chup ke jaya karti thi qabar-e-Rasool par
+  Lekin jab ashqiya ki pari aap par nazar
+  Qabar-e-Rasool se bhi hataya Batool ko
+  Baba teri judai ka sadma bhi kam na tha
+
+  5
+  Phir bhi howa na mujh pe woh koi sitam na tha
+  Wajib amal samjh ke rolaya Batool ko
+  Qabar-e-Nabi pe ja ke yeh kehti thi Fatima
+  Baba tumhare gham mein na rone mujhe diya
+
+  6
+  Khmosh jhikiyon se karaya Batool ko
+  Zahra ne gham jo dekhe raqam ho Asad se kya
+  Parte jo din pe shab mein badal jata Fatemah
+  Gham ne qaza ki neend sulaya Batool ko
 ---
 
-Har Zulm Ka Nishana Banaya Batool Ko.
-Baba Ki Taziyat Mein Sataya Batool Ko.
+ہر ظلم کا نشانہ بنایا بتول کو
+بابا کی تعزیت میں ستایا بتول کو
 
-1
-Iss Zulm Se Hilaya Giya Marqad-e-Rasool.
-Izhar-e-Taziyat Mein Jalaya Dar-e-Batool.
-Ghurbat Ka Taziyana Lagaya Batool Ko.
-Haider Pe Zulm Dhaya Giya Dekhti Rahi.
+۱
+اس ظلم سے ہلایا گیا مرقدِ رسول
+اظہارِ تعزیت میں جلایا درِ بتول
+غربت کا تازیانہ لگایا بتول کو
+حیدر پہ ظلم ڈھایا گیا دیکھتی رہی
 
-2
-Bandha Giya Ali Ka Gala Dekhti Rahi.
-Jo Ho Saka Woh Zulm Dikhaya Batool Ko.
-Haq Mangne Gayi Thi Yeh Kya Le Aayi Hai.
-Honton Pe Apne Aah-o-Buka Le Ke Aayi Hai.
+۲
+باندھا گیا علی کا گلا دیکھتی رہی
+جو ہو سکا وہ ظلم دکھایا بتول کو
+حق مانگنے گئی تھی یہ کیا لے آئی ہے
+ہونٹوں پہ اپنے آہ و بکا لے کے آئی ہے
 
-3
-Apne Hi Haq Se Ghair Bataya Batool Ko.
-Darbar Se Palat Ke Jo Ghar Aayi Fatima.
-Zainab Yeh Boli Bibi Hai Kya Naam Aap Ka.
-Sun Kar Sawal Gham Se Ghash Aaya Batool Ko.
+۳
+اپنے ہی حق سے غیر بتایا بتول کو
+دربار سے پلٹ کے جو گھر آئی فاطمہ
+زینب یہ بولی بی‌بی ہے کیا نام آپ کا
+سن کر سوال غم سے غش آیا بتول کو
 
-4
-Chup Chup Ke Jaya Karti Thi Qabar-e-Rasool Par.
-Lekin Jab Ashqiya Ki Pari Aap Par Nazar.
-Qabar-e-Rasool Se Bhi Hataya Batool Ko.
-Baba Teri Judai Ka Sadma Bhi Kam Na Tha.
+۴
+چپ چپ کے جایا کرتی تھی قبرِ رسول پر
+لیکن جب اشقیا کی پڑی آپ پر نظر
+قبرِ رسول سے بھی ہٹایا بتول کو
+بابا تیری جدائی کا صدمہ بھی کم نہ تھا
 
-5
-Phir Bhi Howa Na Mujh Pe Woh Koi Sitam Na Tha.
-Wajib Amal Samjh Ke Rolaya Batool Ko.
-Qabar-e-Nabi Pe Ja Ke Yeh Kehti Thi Fatima.
-Baba Tumhare Gham Mein Na Rone Mujhe Diya.
+۵
+پھر بھی ہوا نہ مجھ پہ وہ کوئی ستم نہ تھا
+واجب عمل سمجھ کے رلایا بتول کو
+قبرِ نبی پہ جا کے یہ کہتی تھی فاطمہ
+بابا تمہارے غم میں نہ رونے مجھے دیا
 
-6
-Khmosh Jhikiyon Se Karaya Batool Ko.
-Zahra Ne Gham Jo Dekhe Raqam Ho Asad Se Kya.
-Parte Jo Din Pe Shab Mein Badal Jata Fatemah.
-Gham Ne Qaza Ki Neend Sulaya Batool Ko.
+۶
+خاموش جھڑکیوں سے کرایا بتول کو
+زہرا نے غم جو دیکھے رقم ہو اسد سے کیا
+پڑتے جو دن پہ شب میں بدل جاتا فاطمہ
+غم نے قضا کی نیند سلایا بتول کو

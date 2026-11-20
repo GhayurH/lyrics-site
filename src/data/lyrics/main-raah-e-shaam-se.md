@@ -12,36 +12,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maiṅ raah-e-Shaam se guzri huṅ berida baaba
-  Asir-e-zulm huṅ roti huṅ berida baaba
+  Maiṅ raah-e-Shaam se guzri huṅ beridaa baaba
+  Asir-e-zulm huṅ roti huṅ beridaa baaba
 
   1
-  Tha bekafan tera Islam maiṅ rida de kar
-  Bala ke dasht meiṅ aai huṅ berida baaba
+  Tha bekafan tera Islaam maiṅ ridaa de kar
+  Balaa ke dasht meiṅ aai huṅ beridaa baaba
 
   2
   Sitamgaaroṅ ne jagaaya hai taaziyaanoṅ se
-  Jo thak ke raah meiṅ soti huṅ berida baaba
+  Jo thak ke raah meiṅ soti huṅ beridaa baaba
 
   3
   Adu jo durre lagaate haiṅ mere Abid ko
-  Maiṅ dil ko thaam ke roti huṅ berida baaba
+  Maiṅ dil ko thaam ke roti huṅ beridaa baaba
 
   4
   Lahu bahaata hai aaṅkhoṅ se Abid-e-muztar
-  Maiṅ jab bhi kaaṅtoṅ pe chalti huṅ berida baaba
+  Maiṅ jab bhi kaaṅtoṅ pe chalti huṅ beridaa baaba
 
   5
   Safar ki khaak ne baaloṅ ka kar liya parda
-  Maiṅ is ke baad bhi baithi huṅ berida baaba
+  Maiṅ is ke baad bhi baithi huṅ beridaa baaba
 
   6
   Bichharne waaloṅ ke maatam meiṅ raat din guzre
-  Har ik naam pe tarpi huṅ berida baaba
+  Har ik naam pe tarpi huṅ beridaa baaba
 
   7
   Meri asiri pe Mazhar ne jo likha noha
-  Har ik lafz pe tarpi huṅ berida baaba
+  Har ik lafz pe tarpi huṅ beridaa baaba
 ---
 میں راہِ شام سے گزری ہوں بے ردا بابا
 اسیرِ ظلم ہوں روتی ہوں بے ردا بابا

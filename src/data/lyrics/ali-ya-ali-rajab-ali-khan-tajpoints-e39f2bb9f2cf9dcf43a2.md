@@ -1,83 +1,156 @@
 ---
-title: "Ali Ya Ali Rajab Ali Khan"
+title: "علی یا علی رجب علی خان"
+alternateTitle: "Ali Ya Ali Rajab Ali Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ali ya Ali Rajab Ali Khan
+  Yeh kaun aaya jo kehte hain sab mubarak ho
+  Jawab ishq mila mah-e-Rab mubarak ho
+  Nikal ke chand yeh kehta hai sab malangon se
+
+  2
+  Ali ke chahney walon Rajab mubarak ho
+  Jhoom raha hai har aik nazara
+  Kis ko Khuda ne Kabay mein utara
+  Ban gayi aaj dewar dar
+
+  3
+  Ali ya Ali Haider, Haider
+  Terah 13 Rajab ka woh manzar sohana
+  Bint-e-Asad ka woh Kabay mein aana
+  Malik se milney ki hasrat hai mujh ko
+
+  4
+  Yeh keh ke dewar ka muskurana
+  Phir woh buttoon se kehne laga jao
+  Apna thikana koi our banao
+  Bas yeh Kaba Ali ka hai ghar
+
+  5
+  Shair-e-Khuda hai tu dast-e-jali hai
+  Tere hi hathoon se dunya bani hai
+  Tu janta hai sifat-e-Elahi
+  Zahir bhi tu our tu hi khafi hai
+
+  6
+  Nooh ki kashti Mosa ka assa tu
+  Khaliq-e-Aadam har dil ki sada tu
+  Sare aalam pe teri nazar
+  Maidan-e-Khum mein Muhammad ne bola
+
+  7
+  Main jis ka maula Ali oss ke maula
+  Kuch muskuraye tu kuch tilmilaye
+  Teri wilayat ne shajron ko khola
+  Hukam-e-Khuda jab Haris ne na mana
+
+  8
+  Ho gaya Khum mein kankar ka nishana
+  Sab yeh kehne lagay dekh kar
+  Yeh faisla hai Khuda ka badal nahi sakta
+  Ali ka naam azaan se nikal nahi sakta
+
+  9
+  Jahan Ali ke ghulamo ki badshahi ho
+  Tumhare fatwaon ka bazar chal nahi sakta
+  Yasrab mein mojood kuch dil jalay they
+  Hasrat se jo aasmaan dekhtey they
+
+  10
+  Damad bantay bhi kaisay Nabi ke
+  Mairaj par faislay ho chukay they
+  Farsh ki janib jab arsh se aaya
+  Chom ke chokhat taray ne bataya
+
+  11
+  Fatima ka hai bas humsafar
+  Zeeshan hai tere dar ka sawali
+  Our yeh Rajab ishq mein hai mawali
+  Mehboob-e-aalam ka farman hai yeh
+
+  12
+  Tujh se muhabbat karein gay halali
+  Ishq-e-Ali hi eman ki had hai
+  Bugz Ali ka dozakh ki sand hai
+  Tere dushman hain sab darbadar
 ---
 
-1
-Ali Ya Ali Rajab Ali Khan
-Yeh Kaun Aaya Jo Kehte Hain Sab Mubarak Ho.
-Jawab Ishq Mila Mah-e-Rab Mubarak Ho.
-Nikal Ke Chand Yeh Kehta Hai Sab Malangon Se.
+۱
+علی یا علی رجب علی خان
+یہ کون آیا جو کہتے ہیں سب مبارک ہو
+جوابِ عشق ملا ماہِ رب مبارک ہو
+نکل کے چاند یہ کہتا ہے سب ملنگوں سے
 
-2
-Ali Ke Chahney Walon Rajab Mubarak Ho.
-Jhoom Raha Hai Har Aik Nazara.
-Kis Ko Khuda Ne Kabay Mein Utara.
-Ban Gayi Aaj Dewar Dar.
+۲
+علی کے چاہنے والوں رجب مبارک ہو
+جھوم رہا ہے ہر ایک نظارہ
+کس کو خدا نے کعبے میں اتارا
+بن گئی آج دیوار در
 
-3
-Ali Ya Ali Haider, Haider.
-Terah 13 Rajab Ka Woh Manzar Sohana.
-Bint-e-Asad Ka Woh Kabay Mein Aana.
-Malik Se Milney Ki Hasrat Hai Mujh Ko.
+۳
+علی یا علی حیدر، حیدر
+تیرہ ۱۳ رجب کا وہ منظر سوہنا
+بنتِ اسد کا وہ کعبے میں آنا
+مالک سے ملنے کی حسرت ہے مجھ کو
 
-4
-Yeh Keh Ke Dewar Ka Muskurana.
-Phir Woh Buttoon Se Kehne Laga Jao.
-Apna Thikana Koi Our Banao.
-Bas Yeh Kaba Ali Ka Hai Ghar.
+۴
+یہ کہہ کے دیوار کا مسکرانا
+پھر وہ بتوں سے کہنے لگا جاؤ
+اپنا ٹھکانا کوئی اور بناؤ
+بس یہ کعبہ علی کا ہے گھر
 
-5
-Shair-e-Khuda Hai Tu Dast-e-Jali Hai.
-Tere Hi Hathoon Se Dunya Bani Hai.
-Tu Janta Hai Sifat-e-Elahi.
-Zahir Bhi Tu Our Tu Hi Khafi Hai.
+۵
+شیرِ خدا ہے تو دستِ جلی ہے
+تیرے ہی ہاتھوں سے دنیا بنی ہے
+تو جانتا ہے صفاتِ الٰہی
+ظاہر بھی تو اور تو ہی خفی ہے
 
-6
-Nooh Ki Kashti Mosa Ka Assa Tu.
-Khaliq-e-Aadam Har Dil Ki Sada Tu.
-Sare Aalam Pe Teri Nazar.
-Maidan-e-Khum Mein Muhammad Ne Bola.
+۶
+نوح کی کشتی موسیٰ کا عصا تو
+خالقِ آدم ہر دل کی صدا تو
+سارے عالم پہ تیری نظر
+میدانِ خم میں محمد نے بولا
 
-7
-Main Jis Ka Maula Ali Oss Ke Maula.
-Kuch Muskuraye Tu Kuch Tilmilaye.
-Teri Wilayat Ne Shajron Ko Khola.
-Hukam-e-Khuda Jab Haris Ne Na Mana.
+۷
+میں جس کا مولا علی اس کے مولا
+کچھ مسکرائے تو کچھ تلمِلائے
+تیری ولایت نے شجروں کو کھولا
+حکمِ خدا جب حارث نے نہ مانا
 
-8
-Ho Gaya Khum Mein Kankar Ka Nishana.
-Sab Yeh Kehne Lagay Dekh Kar.
-Yeh Faisla Hai Khuda Ka Badal Nahi Sakta.
-Ali Ka Naam Azaan Se Nikal Nahi Sakta.
+۸
+ہو گیا خم میں کنکر کا نشانہ
+سب یہ کہنے لگے دیکھ کر
+یہ فیصلہ ہے خدا کا بدل نہیں سکتا
+علی کا نام اذان سے نکل نہیں سکتا
 
-9
-Jahan Ali Ke Ghulamo Ki Badshahi Ho.
-Tumhare Fatwaon Ka Bazar Chal Nahi Sakta.
-Yasrab Mein Mojood Kuch Dil Jalay They.
-Hasrat Se Jo Aasmaan Dekhtey They.
+۹
+جہاں علی کے غلاموں کی بادشاہی ہو
+تمہارے فتووں کا بازار چل نہیں سکتا
+یثرب میں موجود کچھ دل جلے تھے
+حسرت سے جو آسمان دیکھتے تھے
 
-10
-Damad Bantay Bhi Kaisay Nabi Ke.
-Mairaj Par Faislay Ho Chukay They.
-Farsh Ki Janib Jab Arsh Se Aaya.
-Chom Ke Chokhat Taray Ne Bataya.
+۱۰
+داماد بنتے بھی کیسے نبی کے
+معراج پر فیصلے ہو چکے تھے
+فرش کی جانب جب عرش سے آیا
+چوم کے چوکھٹ تارے نے بتایا
 
-11
-Fatima Ka Hai Bas Humsafar.
- Zeeshan Hai Tere Dar Ka Sawali.
-Our Yeh Rajab Ishq Mein Hai Mawali.
-Mehboob-e-Aalam Ka Farman Hai Yeh.
+۱۱
+فاطمہ کا ہے بس ہم سفر
+ذیشان ہے تیرے در کا سوالی
+اور یہ رجب عشق میں ہے موالی
+محبوبِ عالم کا فرمان ہے یہ
 
-12
-Tujh Se Muhabbat Karein Gay Halali.
-Ishq-e-Ali Hi Eman Ki Had Hai.
-Bugz Ali Ka Dozakh Ki Sand Hai.
-Tere Dushman Hain Sab Darbadar.
+۱۲
+تجھ سے محبت کریں گے حلالی
+عشقِ علی ہی ایمان کی حد ہے
+بغضِ علی کا دوزخ کی سند ہے
+تیرے دشمن ہیں سب دربدر

@@ -24,35 +24,35 @@ romanLyrics: |-
   Yeh bahaar is liye aayi hai Ali aate haiṅ
 
   2
-  Jab chala qabr ki jaanib to kuchh is tarah chala
-  Dil meiṅ Haider ki wila munh pe male khaak-e-shifa
+  Jab chalaa qabr ki jaanib to kuchh is tarah chalaa
+  Dil meiṅ Haider ki wilaa munh pe male khaak-e-shifaa
   Saath maatam ke nishaaṅ aur shahaadat naama
-  Jab hua qabr meiṅ daakhil to yeh manzar dekha
+  Jab hua qabr meiṅ daakhil to yeh manzar dekhaa
   Misl-e-gulshan yeh tar o taaza nazar aati hai
   Qabr to khul ka darwaaza nazar aati hai
 
   3
-  Di nida ghaib se haatif ne ke ho ab hoshiyaar
+  Di nidaa ghaib se haatif ne ke ho ab hoshiyaar
   Murtaza qabr meiṅ aate haiṅ basad izz o waqaar
   Meri turbat meiṅ ajab tarah ki aayi hai bahaar
   Kya hasin maut hai is maut pe sau zist nisaar
-  Mera Maula meri turbat meiṅ chala aaya hai
+  Mera Maula meri turbat meiṅ chalaa aaya hai
   Asl meiṅ ab mujhe marne ka maza aaya hai
 
   4
-  Jab Nakirain meri qabr meiṅ aaye dekha
-  Qabr-e-maddaah-e-Ali qabr pe hai likha hua
-  Qabr meiṅ mere sirhaane haiṅ Ali jalwa numa
-  Chum kar tab meri turbat ko farishtoṅ ne kaha
-  Hum nahiṅ kehte jawaabaat bata do hum ko
-  Madh-e-Haider meiṅ koi sher suna do hum ko
+  Jab Nakirain meri qabr meiṅ aaye dekhaa
+  Qabr-e-maddaah-e-Ali qabr pe hai likhaa hua
+  Qabr meiṅ mere sirhaane haiṅ Ali jalwa numaa
+  Chum kar tab meri turbat ko farishtoṅ ne kahaa
+  Hum nahiṅ kehte jawaabaat bataa do hum ko
+  Madh-e-Haider meiṅ koi sher sunaa do hum ko
 
   5
   Ishq-e-Haider meiṅ jo maut aaye itaat ban jaaye
   Ishq-e-Haider meiṅ jo maut aaye saadat ban jaaye
   Ishq-e-Haider meiṅ jo maut aaye ibaadat ban jaaye
   Ishq-e-Haider meiṅ jo maut aaye shahaadat ban jaaye
-  Ishq Haider ka qaza se nahiṅ darne deta
+  Ishq Haider ka qazaa se nahiṅ darne deta
   Ishq Haider ka bashar ko nahiṅ marne deta
 
   6

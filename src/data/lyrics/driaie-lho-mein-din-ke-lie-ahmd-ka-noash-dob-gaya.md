@@ -9,40 +9,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Darya e lahu may diṅ ke liye
-  Ahmed ka nawasa dub gaya
-  Din apna bachane ki khaatir
-  Islam ka taara dub gaya
+  Daryaa-e-lahu mein diṅ ke liye
+  Ahmad ka nawaasa dub gaya
+  Din apna bachaane ki khaatir
+  Islaam ka taara dub gaya
 
   2
-  Noshah ka lasha khaime may
-  Kis tarha se Sarwar le aaye
-  Maa jis ki balayaiṅ leti thi
-  Wo khun may chehra dub gaya
+  Noshaah ka laasha khaime mein
+  Kis tarah se Sarwar le aaye
+  Maaṅ jis ki balaayeṅ leti thi
+  Woh khun mein chehra dub gaya
 
   3
-  Hamshakl Nabi marne ko chala
-  Maa sar ko jhukaye roti rahi
-  Chehre ki udasi keh uthi
-  Qismat ka sitara dub gaya
+  Hamshakl-e-Nabi marne ko chala
+  Maaṅ sar ko jhukaaye roti rahi
+  Chehre ki udaasi keh uthi
+  Qismat ka sitaara dub gaya
 
   4
-  Abbas jo le ke mashkeeza
-  Khaime se chale darya ki taraf
-  Yuṅ moj e barrhiṅ muztar ho kar
-  Pani may kanara dub gaya
+  Abbaas jo le ke mashkiza
+  Khaime se chale daryaa ki taraf
+  Yuṅ mauj barhiṅ muztar ho kar
+  Paani mein kinaara dub gaya
 
   5
-  Jab tir lagaya zalim ne
-  Ihsas ki dunyi kaamp uthi
+  Jab tir lagaaya zaalim ne
+  Ehsaas ki duniya kaanp uthi
   Yuṅ nanhe gale se khun baha
   Beshir ka kurta dub gaya
 
   6
   Asghar ke gale par tir laga
-  Konain may chaya sannata
-  Beshir lahu may kiya duba
-  Quran ka para dub gaya
+  Konain mein chhaaya sannaata
+  Beshir lahu mein kya duba
+  Quraan ka paara dub gaya
 ---
 
 ۱

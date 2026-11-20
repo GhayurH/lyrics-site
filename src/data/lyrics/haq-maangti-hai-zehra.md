@@ -59,7 +59,7 @@ romanLyrics: |-
 
   8
   Fizza ke ab sahaare maiṅ uthti baithti huṅ
-  Kha kar tamaacha jab se maiṅ khaak par giri huṅ
+  Kha kar tamaancha jab se maiṅ khaak par giri huṅ
   Ye zulm mujh pe tuta maiṅ ho gayi zaifa
   Baba tere watan meiṅ
 

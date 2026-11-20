@@ -11,86 +11,86 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Husain ne apna dil allah ko ata kiya
-  Aur allah ne Husain ko laakhoṅ dil ata kiye
-  Ishq-e-khuda karbala
-  Dars e wafa karbala
-  Raahnuma karbala
-  Raah e baqa karbala
+  Husain ne apna dil Allah ko ata kiya
+  Aur Allah ne Husain ko laakhoṅ dil ata kiya
+  Ishq-e-Khuda Karbala
+  Dars-e-wafa Karbala
+  Raahnuma Karbala
+  Raah-e-baqa Karbala
   Gham ki dawa
   Haq ka pata
   Din ki sada
   Rab ki ata
-  Sino meiṅ hai karbala
-  Zehno meiṅ hai karbala
-  Dharkano meiṅ karbala
-  Saansoṅ meiṅ hai karbala
-  Jo kabhi na ja saka karbala
-  Ho ke jo bhi aa gaya karbala
+  Sinoṅ meiṅ hai Karbala
+  Zehnoṅ meiṅ hai Karbala
+  Dharkanoṅ meiṅ Karbala
+  Saansoṅ meiṅ hai Karbala
+  Jo kabhi na ja saka Karbala
+  Ho ke jo bhi aa gaya Karbala
   Sun sako to do diloṅ ki ek hi sada hai
-  Dil hai karbala meiṅ dil meiṅ karbala hai
-  Sote jaagte nigah meiṅ haramsara hai
-  Dil hai karbala mein...
-  Zindagi meiṅ aisa koi shakhs to dikha nahi
-  Jo ye keh de karbala meiṅ maanga aur mila nahi
-  Dhundhte ho tum kahaṅ hai yahin pe la makaaṅ
-  Karbala Husain ki Husain ka khuda hai
-  Dil hai karbala mein...
-  Is qadar buland ye zamiṅ besabab nahi
-  Tishnalab ki sarzameen pe koi tishnalab nahi
+  Dil hai Karbala meiṅ dil meiṅ Karbala hai
+  Sote jaagte nigah meiṅ haram sara hai
+  Dil hai Karbala meiṅ...
+  Zindagi meiṅ aisa koi shakhs to dikha nahiṅ
+  Jo ye keh de Karbala meiṅ maanga aur mila nahiṅ
+  Dhundte ho tum kahaṅ hai yahiṅ pe la makaaṅ
+  Karbala Husain ki Husain ka Khuda hai
+  Dil hai Karbala meiṅ...
+  Is qadar buland ye zamiṅ be bas sabab nahiṅ
+  Tishna lab ki sar zamin pe koi tishna lab nahiṅ
   Rizq ilm aagahi mil rahi hai zindagi
   Jis ke haath kat gaye yahaṅ wo baanta hai
-  Dil hai karbala mein...
+  Dil hai Karbala meiṅ...
   Zaayri ka jab sharaf mila Husain ki qasam
-  Pehli baar karbala meiṅ maiṅ ne jab rakhe qadam
-  Kaifiyat batauṅ kya haal e dil sunauṅ kya
+  Pehli baar Karbala meiṅ main ne jab rakhe qadam
+  Kaifiyat batauṅ kya haal-e-dil sunauṅ kya
   Aisa lag raha tha bas yehi watan mera hai
-  Dil hai karbala mein...
-  Har nabi ko karbala dikhayi hai khuda ne
-  Karbala ki manzilat batayi hai khuda ne
+  Dil hai Karbala meiṅ...
+  Har nabi ko Karbala dikhayi hai Khuda ne
+  Karbala ki manzilat batayi hai Khuda ne
   Zakhm ho ya ho qaza har maraz ki hai dawa
-  Sar zamin-e-karbala ki khaak bhi shifa hai
-  Dil hai karbala mein...
+  Sar zamin-e-Karbala ki khaak bhi shifa hai
+  Dil hai Karbala meiṅ...
   Qarz hai yehi lahu pe aur farz bhi yehi
-  Majlis e Husain ko hai waqf saari zindagi
-  Farsh e gham bichaye hum aur alam sajaye hum
-  Bachpane meiṅ walidayn se yehi suna hai
-  Dil hai karbala mein...
-  Ya zehra ya zehra ya zehra ya zehra
-  Abad wallah ya zehra maaninsa hussaina
-  Waada syeda se jo kiya tha wo nibhayenge
-  Aane waali nasl ko bhi karbala sunayenge
-  Ishq ke ye marhale te kareṅge ishq se
-  Majlis-e-Husain se yehi sabakh mila hai
-  Dil hai karbala mein...
-  Ghar meiṅ jo alam saja rahe hai hum
-  Majlis-e-aza kara rahe hai hum
-  Har baras ye gham mana rahe hai hum
-  Nauhe marsiye suna rahe hai hum
+  Majlis-e-Husain ko hai waqf saari zindagi
+  Farsh-e-gham bichaye hum aur alam sajaye hum
+  Bachpan meiṅ walidayn se yehi suna hai
+  Dil hai Karbala meiṅ...
+  Ya Zehra ya Zehra ya Zehra ya Zehra
+  Abad wallah ya Zehra maaninsa Husaina
+  Waada Sayyeda se jo kiya tha wo nibhaeṅge
+  Aane waali nasl ko bhi Karbala sunaeṅge
+  Ishq ke ye marhale tai kareṅge ishq se
+  Majlis-e-Husain se yehi sabaq mila hai
+  Dil hai Karbala meiṅ...
+  Ghar meiṅ jo alam saja rahe haiṅ hum
+  Majlis-e-aza kara rahe haiṅ hum
+  Har baras ye gham mana rahe haiṅ hum
+  Nauhe marsiya suna rahe haiṅ hum
   Daawa jab kiya hai to sabut bhi diya hai
-  Dil hai karbala mein...
-  Zainab e haziṅ ne qaid e shaam meiṅ yehi kaha
+  Dil hai Karbala meiṅ...
+  Zainab-e-haziṅ ne qaid-e-Shaam meiṅ yehi kaha
   Mere laal mera bhai aur mera bawafa
-  Sabke laashe hai wahaṅ mai asir hoo yahaṅ
+  Sab ke laashe haiṅ wahaṅ main asir huṅ yahaṅ
   Is liye to har ghari laboṅ pe ye buka hai
-  Dil hai karbala mein...
-  Mesum aur mazhar abidi dalil chahiye
-  Jab jahaṅ jise nijaat ki sabil chahiye
-  Usko mashwara ye do wird raat din karo
+  Dil hai Karbala meiṅ...
+  Mesum aur Mazhar Abidi dalil chahiye
+  Jab jahaṅ jis ne nijaat ki sabil chahiye
+  Us ko mashwara ye do wird raat din karo
   Bas yehi nijaat hai agar tu keh raha hai
-  Dil hai karbala mein...
-  Kehte rahe ahle aza
+  Dil hai Karbala meiṅ...
+  Kehte rahe ahl-e-aza
   Husain Husain Husain Husain
   Lab pe rahe zikr tera
   Husain Husain Husain Husain
-  Tujhse kare yuhin wafa
+  Tujhse kare yuṅhi wafa
   Husain Husain Husain Husain
   Tere azadaar sada
   Husain Husain Husain Husain
   Husain tere liye Husain tere liye
   Aqeeda bas ye kahe Husain tere liye
   Sada ye dil se uthe Husain tere liye
-  Ye haath khalk huwe Husain tere liye
+  Ye haath khalq hue Husain tere liye
   Ye dil dharakta rahe Husain tere liye
 ---
 

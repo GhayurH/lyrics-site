@@ -1,45 +1,80 @@
 ---
-title: "Khuda-e-Sabar-o-Wafa Rab-e-Mumkinaat Hussain"
+title: "خدائے صبر و وفا ربِ ممکنات حسین"
+alternateTitle: "Khuda-e-Sabar-o-Wafa Rab-e-Mumkinaat Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tere karm se hi qayam hai kainat Hussain
+
+  1
+  Main sab se pehle soye la-makaan ko niklu ga
+  Phir oss ke bad hi socho ga teri zaat Hussain
+  Har aik fikar mein fikar-e-Hussain lazim hai
+  Har aik baat mein wajib hai teri baat Hussain
+  Tu chahe jis ko baqa de tu chahe jis ko qaza
+  Hai tere hath mein hi maut our hayat Hussain
+
+  2
+  Main un ki shan mein dewan likhna chahta hoon
+  Atta karein jo mujhe rizq-e-lafziyaat Hussain
+  Hadees-e-pak ki ro se tu Mustafa hai tu phir
+  Mera yeh dil hai keh likhon main teri naat Hussain
+  Zameen-e-karb-o-bala dekhne ki khuwaish mein
+  Main chor deta hoon sab apni khuwaishat Hussain
+
+  3
+  Woh jis mein jaag ke likhon na main teri midhat
+  Mujhe naseeb na ho aisi koi raat Hussain
+  Yeh Karbala mein teri tishnagi ka mojza hai
+  Har aik aankh se behti hai ab Farat Hussain
+  Addo ne chaha bohat par osse jhuka na saka
+  Hai rehta parcham-e-ghazi pe tera hath Hussain
+
+  4
+  Yaqeen nahi hai tu rahib se poch lo ja kar
+  Jo mange aik tu deta hai oss ko saat Hussain
+  Tu chahe janbish-e-abro se phair de lashkar
+  Hain sare teri hi qudrat mein moajzaat Hussain
+  Zameen pe aan gire pal mein aasmaan Raqib
+  Haan darmiyaan se hata le gar apna hath Hussain
 ---
 
-Tere Karm Se Hi Qayam Hai Kainat Hussain.
+تیرے کرم سے ہی قائم ہے کائنات حسین
 
-1
-Main Sab Se Pehle Soye La-Makaan Ko Niklu Ga.
-Phir Oss Ke Bad Hi Socho Ga Teri Zaat Hussain.
-Har Aik Fikar Mein Fikar-e-Hussain Lazim Hai.
-Har Aik Baat Mein Wajib Hai Teri Baat Hussain.
-Tu Chahe Jis Ko Baqa De Tu Chahe Jis Ko Qaza.
-Hai Tere Hath Mein Hi Maut Our Hayat Hussain.
+۱
+میں سب سے پہلے سوئے لامکاں کو نکلوں گا
+پھر اس کے بعد ہی سوچوں گا تیری ذات حسین
+ہر ایک فکر میں فکرِ حسین لازم ہے
+ہر ایک بات میں واجب ہے تیری بات حسین
+تو چاہے جس کو بقا دے تو چاہے جس کو قضا
+ہے تیرے ہاتھ میں ہی موت اور حیات حسین
 
-2
-Main Un Ki Shan Mein Dewan Likhna Chahta Hoon.
-Atta Karein Jo Mujhe Rizq-e-Lafziyaat Hussain.
-Hadees-e-Pak Ki Ro Se Tu Mustafa Hai Tu Phir.
-Mera Yeh Dil Hai Keh Likhon Main Teri Naat Hussain.
-Zameen-e-Karb-o-Bala Dekhne Ki Khuwaish Mein.
-Main Chor Deta Hoon Sab Apni Khuwaishat Hussain.
+۲
+میں ان کی شان میں دیوان لکھنا چاہتا ہوں
+عطا کریں جو مجھے رزقِ لفظیات حسین
+حدیثِ پاک کی رو سے تو مصطفیٰ ہے تو پھر
+میرا یہ دل ہے کہ لکھوں میں تیری نعت حسین
+زمینِ کرب و بلا دیکھنے کی خواہش میں
+میں چھوڑ دیتا ہوں سب اپنی خواہشات حسین
 
-3
-Woh Jis Mein Jaag Ke Likhon Na Main Teri Midhat.
-Mujhe Naseeb Na Ho Aisi Koi Raat Hussain.
-Yeh Karbala Mein Teri Tishnagi Ka Mojza Hai.
-Har Aik Aankh Se Behti Hai Ab Farat Hussain.
-Addo Ne Chaha Bohat Par osse Jhuka Na Saka.
-Hai Rehta Parcham-e-Ghazi Pe Tera Hath Hussain.
+۳
+وہ جس میں جاگ کے لکھوں نہ میں تیری مدحت
+مجھے نصیب نہ ہو ایسی کوئی رات حسین
+یہ کربلا میں تیری تشنگی کا معجزہ ہے
+ہر ایک آنکھ سے بہتی ہے اب فرات حسین
+عدو نے چاہا بہت پر اسے جھکا نہ سکا
+ہے رہتا پرچمِ غازی پہ تیرا ہاتھ حسین
 
-4
-Yaqeen Nahi Hai Tu Rahib Se Poch Lo Ja Kar.
-Jo Mange Aik Tu Deta Hai Oss Ko Saat Hussain.
-Tu Chahe Janbish-e-Abro Se Phair De Lashkar.
-Hain Sare Teri Hi Qudrat Mein Moajzaat Hussain.
-Zameen Pe Aan Gire Pal Mein Aasmaan Raqib.
-Haan Darmiyaan Se Hata Le Gar Apna Hath Hussain.
+۴
+یقین نہیں ہے تو راہب سے پوچھ لو جا کر
+جو مانگے ایک تو دیتا ہے اس کو سات حسین
+تو چاہے جنبشِ ابرو سے پھیر دے لشکر
+ہیں سارے تیری ہی قدرت میں معجزات حسین
+زمین پہ آن گرے پل میں آسماں رقیب
+ہاں درمیاں سے ہٹا لے گر اپنا ہاتھ حسین

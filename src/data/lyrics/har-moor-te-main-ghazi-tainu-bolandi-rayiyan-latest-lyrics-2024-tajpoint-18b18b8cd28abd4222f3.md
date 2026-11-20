@@ -1,32 +1,53 @@
 ---
-title: "Har Moor Te Main Ghazi Tainu Bolandi Rayiyan Latest Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہر موڑ تے میں غازی تینوں بولاندی رہیاں"
+alternateTitle: "Har Moor Te Main Ghazi Tainu Bolandi Rayiyan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Har moor te main Ghazi tainu bolandi rayiyan
+  Main chehra e Ali nu Ghazi chupandi rayiyaan
+
+  1
+  Tere sir de naal Ghazi haye lath gayiyaan ridawaan
+  Main walaan naal apna pardah banandi rayiyaan
+  Tere baad Karbala wich Abid nu kand te chaya
+  Kubra da daaj kaliyaan kiwein bachandi rayiyaan
+
+  2
+  Ronda aye wekh mainu Akbar da sir sina te
+  Banwaan diyaan main rasiyaan Ghazi lokandi rayiyaan
+  Choon salaan di Sakina ho gayi zaeef Ghazi
+  Ohno de ke hosla main kiwein turandi rayiyaan
+
+  3
+  Aakhay Rubab jholi wich lakriyaan wakha ke
+  Ais jholi wich main Bibi Asghar sawandi rayiyaan
+  Najfi aye wain kardi tur gayi aye Sham Zainab
+  Tere baad farz tere Ghazi nibhandi rayiyaan
 ---
 
-Har Moor Te Main Ghazi Tainu Bolandi Rayiyan.
-Main Chehra e Ali Nu Ghazi Chupandi Rayiyaan.
+ہر موڑ تے میں غازی تینوں بولاندی رہیاں
+میں چہرۂ علی نوں غازی چھپاندی رہیاں
 
-1
-Tere Sir De Naal Ghazi Haye Lath Gayiyaan Ridawaan.
-Main Walaan Naal Apna Pardah Banandi Rayiyaan.
-Tere Baad Karbala Wich Abid Nu Kand Te Chaya.
-Kubra Da Daaj Kaliyaan Kiwein Bachandi Rayiyaan.
+۱
+تیرے سر دے نال غازی ہائے لتھ گئیاں رداواں
+میں والاں نال اپنا پردہ بناندی رہیاں
+تیرے بعد کربلا وچ عابد نوں کندھ تے چایا
+کبریٰ دا داج کلّیاں کیویں بچاندی رہیاں
 
-2
-Ronda Aye Wekh Mainu Akbar Da Sir Sina Te.
-Banwaan Diyaan Main Rasiyaan Ghazi Lokandi Rayiyaan.
-Choon Salaan Di Sakina Ho Gayi Zaeef Ghazi.
-Ohno De Ke Hosla Main Kiwein Turandi Rayiyaan.
+۲
+روندا اے ویکھ مینوں اکبر دا سر سناں تے
+بانہواں دیاں میں رسیاں غازی لوکاندی رہیاں
+چوں سالاں دی سکینہ ہو گئی ضعیف غازی
+اوہنوں دے کے حوصلہ میں کیویں ٹراندی رہیاں
 
-3
-Aakhay Rubab Jholi Wich Lakriyaan Wakha Ke.
-Ais Jholi Wich Main Bibi Asghar Sawandi Rayiyaan.
- Najfi Aye Wain Kardi Tur Gayi Aye Sham Zainab.
-Tere Baad Farz Tere Ghazi Nibhandi Rayiyaan.
+۳
+آکھے رباب جھولی وچ لکڑیاں وکھا کے
+ایس جھولی وچ میں بیبی اصغر سواندی رہیاں
+نجفی اے وین کردی ٹر گئی اے شام زینب
+تیرے بعد فرض تیرے غازی نبھاندی رہیاں

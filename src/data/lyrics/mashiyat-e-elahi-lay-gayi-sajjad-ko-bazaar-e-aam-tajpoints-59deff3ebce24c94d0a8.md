@@ -1,29 +1,48 @@
 ---
-title: "Mashiyat-e-Elahi Lay Gayi Sajjad Ko Bazaar-e-Aam"
+title: "مشیتِ الٰہی لے گئی سجاد کو بازارِ عام"
+alternateTitle: "Mashiyat-e-Elahi Lay Gayi Sajjad Ko Bazaar-e-Aam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mashiyat-e-Elahi lay gayi Sajjad ko bazaar-e-aam
+  Zainab ke liye banaye gaye kitne bazaar-e-Sham
+  Har rukh bazaar ka parta tha sang Abid ke parde daroon par
+  Aankhon se khon baha ke sab takta tha Pak Imam
+
+  2
+  Abid ke ashk batate the har guzara haal mosibat ka
+  Koi ashk bataye chadar ka koi jalte howay khiyam
+  Sajjad ki ghairat dekhe na jo moor Sham bazaaron ke
+  Zalim wo moor batate the Zainab ka le ke naam
+
+  3
+  Jab bhi nazrein milti thin baba ke sar se Abid ki
+  Kamar jhuka ke jhuki hoi karta tha beemar salam
+  Zeeshan mehsoos ye karta hai hathon mein aye hoon jaise
+  Sajjad ki aankhon ke aansoo likhne ke liye kalaam
 ---
 
-1
-Mashiyat-e-Elahi Lay Gayi Sajjad Ko Bazaar-e-Aam.
-Zainab Ke Liye Banaye Gaye Kitne Bazaar-e-Sham.
-Har Rukh Bazaar Ka Parta Tha Sang Abid Ke Parde Daroon Par.
-Aankhon Se Khon Baha Ke Sab Takta Tha Pak Imam.
+۱
+مشیتِ الٰہی لے گئی سجاد کو بازارِ عام
+زینب کے لیے بنائے گئے کتنے بازارِ شام
+ہر رخ بازار کا پڑتا تھا سنگ عابد کے پردۂ دروں پر
+آنکھوں سے خون بہا کے سب تکتا تھا پاک امام
 
-2
-Abid Ke Ashk Batate The Har Guzara Haal Mosibat Ka.
-Koi Ashk Bataye Chadar Ka Koi Jalte Howay Khiyam.
-Sajjad Ki Ghairat Dekhe Na Jo Moor Sham Bazaaron Ke.
-Zalim Wo Moor Batate The Zainab Ka Le Ke Naam.
+۲
+عابد کے اشک بتاتے تھے ہر گزارا حال مصیبت کا
+کوئی اشک بتائے چادر کا کوئی جلتے ہوئے خیام
+سجاد کی غیرت دیکھے نہ جو موڑ شام بازاروں کے
+ظالم وہ موڑ بتاتے تھے زینب کا لے کے نام
 
-3
-Jab Bhi Nazrein Milti Thin Baba Ke Sar Se Abid Ki.
-Kamar Jhuka Ke Jhuki Hoi Karta Tha Beemar Salam.
- Zeeshan Mehsoos Ye Karta Hai Hathon Mein Aye Hoon Jaise.
-Sajjad Ki Aankhon Ke Aansoo Likhne Ke Liye Kalaam.
+۳
+جب بھی نظریں ملتی تھیں بابا کے سر سے عابد کی
+کمر جھکا کے جھکی ہوئی کرتا تھا بیمار سلام
+ذیشان محسوس یہ کرتا ہے ہاتھوں میں آئے ہوں جیسے
+سجاد کی آنکھوں کے آنسو لکھنے کے لیے کلام

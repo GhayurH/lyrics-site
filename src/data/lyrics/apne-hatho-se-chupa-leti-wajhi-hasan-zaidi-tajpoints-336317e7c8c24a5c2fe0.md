@@ -1,56 +1,102 @@
 ---
-title: "Apne Hatho Se Chupa Leti Wajhi Hasan Zaidi"
+title: "اپنے ہاتھوں سے چھپا لیتی وجیہ حسن زیدی"
+alternateTitle: "Apne Hatho Se Chupa Leti Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hilal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Apne hatho se chupa leti Wajhi Hasan Zaidi
+  Apne hathoon se chupa leti thi apne rukhsar
+
+  1
+  Jab bhi doran-e-safar Shimar ka naam aata tha
+  Hai angothi ke nishaan se mera chehra neela
+  Ab na seh paon gi main our tamacha bhaiyya
+  Ro ke kehte hoye aa jati thi paish-e-beemar
+
+  2
+  Iss gham-o-ranj se lillah bana lo mujh ko
+  Apne halqay mein zara dair chupa lo mujh ko
+  Keh ke phophiyon se lipat jati thi Shah ki gham khawar
+  Thartharata tha badan bachi seham jati thi
+
+  3
+  Khof se aankhon ke aanso bhi chupa leti thi
+  Bas isharon se kiya karti thi gham ka izhar
+  Kabhi kano ko chupati thi baha kar aanso
+  Tham leti thi kabhi hathoon se zakhmi pehlu
+
+  4
+  Iss qadar dar tha nahi aata tha bachi ko qarrar
+  Khak par girti thi gham our bhi bhar jate they
+  Taziyane hi har ik simt nazar aate they
+  Khof se zard howa karta tha chehra har bar
+
+  5
+  Kehti thi beriyon walay aye mere khak nasheen
+  Qaidiyon ki tu lehad pe nahi aata woh laeen
+  Bas bata do mujhe itna yeh behan tum pe nisar
+  Siliyaan ghurkiyaan de de ke lagaye na kahin
+
+  6
+  Phir se chalte hoye naqay se giraye na kahin
+  Kehti thi ab mujhe naqay pe nahi karna sawar
+  Qaid khane ke andherey bhi gawara hain mujhe
+  Samna ho na magar phir kabhi oss zalim se
+
+  7
+  Na tawaan bhai se karti thi faqat yeh israr
+  Be basi dekh ke roti thi Hilal, Aal-e-Nabi
+  Aye Wajih dukhtar-e-Sarwar ki ajab ghurbat thi
+  Pasliyaan dukhti thin ho jata tha rona dushwar
 ---
 
-Apne Hatho Se Chupa Leti Wajhi Hasan Zaidi.
-Apne Hathoon Se Chupa Leti Thi Apne Rukhsar.
+اپنے ہاتھوں سے چھپا لیتی وجیہ حسن زیدی
+اپنے ہاتھوں سے چھپا لیتی تھی اپنے رخسار
 
-1
-Jab Bhi Doran-e-Safar Shimar Ka Naam Aata Tha.
-Hai Angothi Ke Nishaan Se Mera Chehra Neela.
-Ab Na Seh Paon Gi Main Our Tamacha Bhaiyya.
-Ro Ke Kehte Hoye Aa Jati Thi Paish-e-Beemar.
+۱
+جب بھی دورانِ سفر شمر کا نام آتا تھا
+ہے انگوٹھی کے نشان سے میرا چہرہ نیلا
+اب نہ سہ پاؤں گی میں اور تماچا بھیا
+رو کے کہتے ہوئے آ جاتی تھی پیشِ بیمار
 
-2
-Iss Gham-o-Ranj Se Lillah Bana Lo Mujh Ko.
-Apne Halqay Mein Zara Dair Chupa Lo Mujh Ko.
-Keh Ke Phophiyon Se Lipat Jati Thi Shah Ki Gham Khawar.
-Thartharata Tha Badan Bachi Seham Jati Thi.
+۲
+اس غم و رنج سے للہ بنا لو مجھ کو
+اپنے حلقے میں ذرا دیر چھپا لو مجھ کو
+کہہ کے پھوپھیوں سے لپٹ جاتی تھی شاہ کی غم خوار
+تھرتھراتا تھا بدن بچی سہم جاتی تھی
 
-3
-Khof Se Aankhon Ke Aanso Bhi Chupa Leti Thi.
-Bas Isharon Se Kiya Karti Thi Gham Ka Izhar.
-Kabhi Kano Ko Chupati Thi Baha Kar Aanso.
-Tham Leti Thi Kabhi Hathoon Se Zakhmi Pehlu.
+۳
+خوف سے آنکھوں کے آنسو بھی چھپا لیتی تھی
+بس اشاروں سے کیا کرتی تھی غم کا اظہار
+کبھی کانوں کو چھپاتی تھی بہا کر آنسو
+تھام لیتی تھی کبھی ہاتھوں سے زخمی پہلو
 
-4
-Iss Qadar Dar Tha Nahi Aata Tha Bachi Ko Qarrar.
-Khak Par Girti Thi Gham Our Bhi Bhar Jate They.
-Taziyane Hi Har Ik Simt Nazar Aate They.
-Khof Se Zard Howa Karta Tha Chehra Har Bar.
+۴
+اس قدر ڈر تھا نہیں آتا تھا بچی کو قرار
+خاک پر گرتی تھی غم اور بھی بڑھ جاتے تھے
+تازیانے ہی ہر اک سمت نظر آتے تھے
+خوف سے زرد ہوا کرتا تھا چہرہ ہر بار
 
-5
-Kehti Thi Beriyon Walay Aye Mere Khak Nasheen.
-Qaidiyon Ki Tu Lehad Pe Nahi Aata Woh Laeen.
-Bas Bata Do Mujhe Itna Yeh Behan Tum Pe Nisar.
-Siliyaan Ghurkiyaan De De Ke Lagaye Na Kahin.
+۵
+کہتی تھی بیڑیوں والے اے میرے خاک نشیں
+قیدیوں کی تو لحد پہ نہیں آتا وہ لعین
+بس بتا دو مجھے اتنا یہ بہن تم پہ نثار
+سیلیاں گھرکیاں دے دے کے لگائے نہ کہیں
 
-6
-Phir Se Chalte Hoye Naqay Se Giraye Na Kahin.
-Kehti Thi Ab Mujhe Naqay Pe Nahi Karna Sawar.
-Qaid Khane Ke Andherey Bhi Gawara Hain Mujhe.
-Samna Ho Na Magar Phir Kabhi Oss Zalim Se.
+۶
+پھر سے چلتے ہوئے ناقے سے گرائے نہ کہیں
+کہتی تھی اب مجھے ناقے پہ نہیں کرنا سوار
+قید خانے کے اندھیرے بھی گوارا ہیں مجھے
+سامنا ہو نہ مگر پھر کبھی اس ظالم سے
 
-7
-Na Tawaan Bhai Se Karti Thi Faqat Yeh Israr.
-Be Basi Dekh Ke Roti Thi Hilal, Aal-e-Nabi.
-Aye Wajih Dukhtar-e-Sarwar Ki Ajab Ghurbat Thi.
-Pasliyaan Dukhti Thin Ho Jata Tha Rona Dushwar.
+۷
+ناتواں بھائی سے کرتی تھی فقط یہ اصرار
+بے بسی دیکھ کے روتی تھی ہلال، آلِ نبی
+اے وجیہ دخترِ سرور کی عجب غربت تھی
+پسلیاں دکھتی تھیں ہو جاتا تھا رونا دشوار

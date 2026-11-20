@@ -1,7 +1,7 @@
 ---
 title: "اب اے ہواؤں کچھ خاک اُڑاؤ"
 recitationId: "ab-aey-hawaon-kuch-khak-urao"
-alternateTitle: "Ab Ae Hawaoṅ Kuch Khak Urao"
+alternateTitle: "Ab Ae Hawaaoṅ Kuch Khaak Uraao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,47 +11,47 @@ aliases:
   - "Ab Ae Hawaon Kuch Khak Urao"
 published: true
 romanLyrics: |-
-  Ab Ae Hawaoṅ Kuch Khak Urao
-  Laut Aayi Ran Se Sheh Ki Sawaari
+  Ab ae hawaaoṅ kuch khaak uraao
+  Laut aai ran se sheh ki sawaari
 
-  Zainab Sambhalna Hai Zin Khali
-  Zakhmi Badan Se Hai Khun Jari
+  Zainab sambhalna hai zin khaali
+  Zakhmi badan se hai khun jaari
 
   1
-  Zainab Ki Ran Meiṅ Aah o Fughaṅ Hai
-  Mazlum Bhai Batla Kahaṅ Hai
-  Kya Haal Hai Tera Ye Murtajiz Hai
-  Aankhoṅ Se Kiuṅ Ye Aansun Rawaṅ Hai
+  Zainab ki ran meiṅ aah o fughaaṅ hai
+  Mazlum bhaai batla kahaaṅ hai
+  Kya haal hai tera ye Murtajiz hai
+  Aankhoṅ se kiuṅ ye aansu rawaaṅ hai
 
-  Tiroṅ Se Chhalni Sara Badan Hai
-  Sare Badan Se Hai Khun Jari
+  Tiroṅ se chhalni saara badan hai
+  Saare badan se hai khun jaari
 
   2
-  Tere Badan Se Bhayya Ki Mujhko
-  Taza Lahu Ki Aati Hai Khushbu
-  Hai Surkh Kiuṅkar Ye Jism Tera
-  Kiuṅkar Hai Teri Aankoṅ Meiṅ Aansu
+  Tere badan se bhayya ki mujh ko
+  Taaza lahu ki aati hai khushbu
+  Hai surkh kiuṅ kar ye jism tera
+  Kiuṅ kar haiṅ teri aankhoṅ meiṅ aansu
 
-  Aankheiṅ Phati Haiṅ Raasheiṅ Kati Haiṅ
-  Kiuṅ Sar Pe Tere Hai Zakhm Tari
+  Aankheṅ phati haiṅ raasheṅ kati haiṅ
+  Kiuṅ sar pe tere hai zakhm taari
 
   3
-  Ae Zuljana-e-Sibt-e-Payambar
-  Batala Kahaṅ Hai Mera Biradar
-  Pyasi Sakina Karti Hai Noha
-  Baba Na Aaye Maqtal Se Kiuṅkar
+  Ae Zuljanah-e-Sibt-e-Payambar
+  Batla kahaaṅ hai mera baraadar
+  Pyaasi Sakina karti hai nauha
+  Baba na aaye maqtal se kiuṅ kar
 
-  Mara Gaya Kiya Mazlum Bhai
-  Karti Hai Zainab Ye Aah o Zari
+  Maara gaya kya mazlum bhaai
+  Karti hai Zainab ye aah o zaari
 
   4
-  Har Sham Sughra Roz-e-Nabi Par
-  Shamma Jalane Ko Jati Hogi
-  Aashur Guzra Baba Na Aaye
-  Ye Soch Kar Wo Ghabrati Hogi
+  Har shaam Sughra rauza-e-Nabi par
+  Shama jalaane ko jaati hogi
+  Aashur guzra Baba na aaye
+  Ye soch kar wo ghabraati hogi
 
-  Viran Ghar Ki Chaukhat Pe Ab Tak
-  Behthi Ho Shayad Wo Gham Ki Maari
+  Viraan ghar ki chaukhat pe ab tak
+  Baithi ho shaayad wo gham ki maari
 ---
 
 اب اے ہواؤں کچھ خاک اُڑاؤ

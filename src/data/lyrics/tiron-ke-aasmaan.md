@@ -12,65 +12,65 @@ tags: []
 aliases: ["Teeron Ke Aasman"]
 published: true
 romanLyrics: |-
-  Ae bhai maiṅ to dosh-e-Nabi ka makiṅ tha
-  Ae bhai maiṅ to Fatema ka mahjabin tha
+  Ae bhai main to dosh-e-Nabi ka makiṅ tha
+  Ae bhai main to Fatema ka mahjabin tha
   Ab aisa waqt aa gaya ae mere baawafa
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
   Abbas kahaaṅ ho chale aao
 
   Ghore se gir ke Shah ne Ghaazi ko di sada
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
-  Taklif meiṅ Husain hai ae mere baawafa
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Taklif mein Husain hai ae mere baawafa
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   1
   Zin-e-faras se gir ke zamiṅ tak na mil saki
-  Amma uthaaye haathoṅ ko faryaadi ban gayi
-  Kehti hai aa Husain meri god meiṅ zara
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Ammaaṅ uthaaye haathoṅ ko faryaadi ban gayi
+  Kehti hai aa Husain meri god mein zara
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   2
   Tiroṅ ke aasmaan pe zakhmi Husain hai
   Tashna dahan akhi hai kahaaṅ is ko chain hai
   Uljha hua badan hai mera waaye ghurbata
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   3
   Akbar ki laash uthaayi tum aaye nahiṅ akhi
   Ab khatm hone waali hai Sarwar ki zindagi
-  Zaanu pe sar ko rakh le alamdaar-e-Karbala
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Zaanuṅ pe sar ko rakh le alamdaar-e-Karbala
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   4
-  Amma uthaaye haath ye kehti hai nur-e-ain
-  Kehti hai aa ae laal meri god meiṅ Husain
+  Ammaaṅ uthaaye haath ye kehti hai nur-e-ain
+  Kehti hai aa ae laal meri god mein Husain
   Bete ko us ke maaṅ se mila de ae baawafa
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   5
   Ye lamha aakhri hai hamari hayaat ka
   Do bund paani tum hi pila do Furaat ka
   Sukha hi kat na jaaye gulu-e-Shah-e-Huda
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   6
   Abbas aao tiroṅ se mujh ko utaar lo
-  Kab se bula raha huṅ maiṅ imdaad to karo
+  Kab se bula raha huṅ main imdaad to karo
   Ae bhai apne bhai ka toro na aasra
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   7
   Shabbir ke gale pe chhuri chal gayi ke bas
   Aashur ke ajib qayaamat hui ke bas
-  Ek bhai apne bhai se kehta hi reh gaya
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Ik bhai apne bhai se kehta hi reh gaya
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 
   8
   Halq-e-Shah-e-Huda pe Mubarak chhuri chali
   Rehan kya sunaaye qayaamat guzar gayi
   Kehta hua chala gaya dilband-e-Fatema
-  Tiroṅ ke aasmaaṅ se bhaiya utaar le
+  Tiroṅ ka aasmaaṅ se bhaiya utaar le
 ---
 اے بھائی میں تو دوش نبی کا مکیں تھا
 اے بھائی میں تو فاطمہ کا مہ جبین تھا

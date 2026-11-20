@@ -35,7 +35,7 @@ romanLyrics: |-
   Kya tum ko zarurat Ali Asghar ki pari hai
 
   6
-  Dil waalo zara socho ke kya guzregi Shaah par
+  Dil waalo zara socho ke kya guzre gi Shaah par
   Naize ki ani sina-e-Akbar meiṅ gari hai
 
   7
@@ -47,7 +47,7 @@ romanLyrics: |-
   Kya saath gharibi meiṅ nazar chhor chuki hai
 
   9
-  Ye taaziyadaari hai mohabbat ki alaamat
+  Ye taaziya daari hai mohabbat ki alaamat
   Aansuṅ na Nisaar aaeṅ to ye sangdili hai
 reciter: "Rizwan Zaidi"
 ---

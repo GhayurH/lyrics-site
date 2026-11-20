@@ -1,37 +1,63 @@
 ---
-title: "Farwa Tumhara Lal Meesum Kashmiri"
+title: "فروہ تمہارا لال میثم کشمیری"
+alternateTitle: "Farwa Tumhara Lal Meesum Kashmiri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Izhar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Farwa tumhara lal Meesum Kashmiri
+
+  1
+  Tukron mein bant ke aaye ga Farwa tumhara lal
+  Itnay sitam uthaye ga Farwa tumhara lal
+  Iss ko galay laga lo keh aaye ga phir kahan
+  Jab ghar se ran ko jaye ga Farwa tumhara lal
+  Guzrey gi haye iss pe jo maidan-e-zulm mein
+  Tum ko kahan bataye ga Farwa tumhara lal
+
+  2
+  Har simt tashnagi hai sar-e-Karbala yahan
+  Pani kahan se paye ga Farwa tumhara lal
+  Tum iss ki apne hathoon se mehndi sajao gi
+  Our khon mein nahaye ga Farwa tumhara lal
+  Islam mangta hai tu Karbal ke dasht mein
+  Apna lahu bahaye ga Farwa tumhara lal
+
+  3
+  Shabeer rotay jaein gay maqtal mein jab unhein
+  Behar-e-madad bulaye ga Farwa tumhara lal
+  Bichrey ga aaj tum se tu mehshar mein ab kahin
+  Chehra tumhein dikhaye ga Farwa tumhara lal
+  Izhar ko yaqeen hai keh sadqay se Shah ke
+  Iss ka hasham barhaye ga Farwa tumhara lal
 ---
 
-Farwa Tumhara Lal Meesum Kashmiri.
+فروہ تمہارا لال میثم کشمیری
 
-1
-Tukron Mein Bant Ke Aaye Ga Farwa Tumhara Lal.
-Itnay Sitam Uthaye Ga Farwa Tumhara Lal.
-Iss Ko Galay Laga Lo Keh Aaye Ga Phir Kahan.
-Jab Ghar Se Ran Ko Jaye Ga Farwa Tumhara Lal.
-Guzrey Gi Haye Iss Pe Jo Maidan-e-Zulm Mein.
-Tum Ko Kahan Bataye Ga Farwa Tumhara Lal.
+۱
+ٹکڑوں میں بٹ کے آئے گا فروہ تمہارا لال
+اتنے ستم اٹھائے گا فروہ تمہارا لال
+اس کو گلے لگا لو کہ آئے گا پھر کہاں
+جب گھر سے رن کو جائے گا فروہ تمہارا لال
+گزرے گی ہائے اس پہ جو میدانِ ظلم میں
+تم کو کہاں بتائے گا فروہ تمہارا لال
 
-2
-Har Simt Tashnagi Hai Sar-e-Karbala Yahan.
-Pani Kahan Se Paye Ga Farwa Tumhara Lal.
-Tum Iss Ki Apne Hathoon Se Mehndi Sajao Gi.
-Our Khon Mein Nahaye Ga Farwa Tumhara Lal.
-Islam Mangta Hai Tu Karbal Ke Dasht Mein.
-Apna Lahu Bahaye Ga Farwa Tumhara Lal.
+۲
+ہر سمت تشنگی ہے سرِ کربلا یہاں
+پانی کہاں سے پائے گا فروہ تمہارا لال
+تم اس کی اپنے ہاتھوں سے مہندی سجاؤ گی
+اور خون میں نہائے گا فروہ تمہارا لال
+اسلام مانگتا ہے تو کربل کے دشت میں
+اپنا لہو بہائے گا فروہ تمہارا لال
 
-3
-Shabeer Rotay Jaein Gay Maqtal Mein Jab Unhein.
-Behar-e-Madad Bulaye Ga Farwa Tumhara Lal.
-Bichrey Ga Aaj Tum Se Tu Mehshar Mein Ab Kahin.
-Chehra Tumhein Dikhaye Ga Farwa Tumhara Lal.
- Izhar Ko Yaqeen Hai Keh Sadqay Se Shah Ke.
-Iss Ka Hasham Barhaye Ga Farwa Tumhara Lal.
+۳
+شبیر روتے جائیں گے مقتل میں جب انہیں
+بہرِ مدد بلائے گا فروہ تمہارا لال
+بچھڑے گا آج تم سے تو محشر میں اب کہیں
+چہرہ تمہیں دکھائے گا فروہ تمہارا لال
+اظہار کو یقین ہے کہ صدقے سے شاہ کے
+اس کا حشم بڑھائے گا فروہ تمہارا لال

@@ -1,34 +1,58 @@
 ---
-title: "Sajjad Na Mar Jaye Yasir Raza Yasir"
+title: "سجاد نہ مر جائے یاسر رضا یاسر"
+alternateTitle: "Sajjad Na Mar Jaye Yasir Raza Yasir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sajjad na mar jaye Yasir Raza Yasir
+  Fizza yeh dua mango bazar guzar jaye Sajjad na mar jaye
+  Zainab ne kaha ro kar ab dil mera ghabraye Sajjad na mar jaye
+  Mahool sharabi hai syedaniyaan be pardah
+  Ik bheer hai logon ki our hum hain rasan basta
+  Dushman ko bhi yeh manzar Allah na dikhlaye Sajjad na mar jaye
+  Durron ki aziyat se Abid ki kamar khum hai
+  Chalta hai saharey se ab iss mein kahan dam hai
+  Har gaam pe karta hai yeh aah-o-fogaan haye Sajjad na mar jaye
+  Ik naizay pe chadar hai ik pe hai sar-e-Asghar
+  Paiwast hai dono mein Abid ka dil-e-muztar
+  Khoon rista hai aankhon se jaye tu kahan jaye Sajjad na mar jaye
+  Zalim Ali Akbar ka sar iss ko dikhatay hain
+  Naizay ki anni iss ke pehlu mein chubhatay hain
+  Yeh waqt musibat ka dushman pe bhi na aaye Sajjad na mar jaye
+  Dekho tu shaqi sab ko ja ja ke batata hai
+  Bagi hai yeh bagi hai aawaz lagata hai
+  Ja kar yeh manadi se keh do ke na tarpaye Sajjad na mar jaye
+  Yasir kaha Zainab ne sadaat pe ghurbat hai
+  Amma mere Abid ko har gaam aziyat hai
+  Ja kar koi darya se Ghazi ko bola laye Sajjad na mar jaye
 ---
 
-1
-Sajjad Na Mar Jaye Yasir Raza Yasir.
-Fizza Yeh Dua Mango Bazar Guzar Jaye Sajjad Na Mar Jaye.
-Zainab Ne Kaha Ro Kar Ab Dil Mera Ghabraye Sajjad Na Mar Jaye.
-Mahool Sharabi Hai Syedaniyaan Be Pardah.
-Ik Bheer Hai Logon Ki Our Hum Hain Rasan Basta.
-Dushman Ko Bhi Yeh Manzar ALLAH Na Dikhlaye Sajjad Na Mar Jaye.
-Durron Ki Aziyat Se Abid Ki Kamar Khum Hai.
-Chalta Hai Saharey Se Ab Iss Mein Kahan Dam Hai.
-Har Gaam Pe Karta Hai Yeh Aah-o-Fogaan Haye Sajjad Na Mar Jaye.
-Ik Naizay Pe Chadar Hai Ik Pe Hai Sar-e-Asghar.
-Paiwast Hai Dono Mein Abid Ka Dil-e-Muztar.
-Khoon Rista Hai Aankhon Se Jaye Tu Kahan Jaye Sajjad Na Mar Jaye.
-Zalim Ali Akbar Ka Sar Iss Ko Dikhatay Hain.
-Naizay Ki Anni Iss Ke Pehlu Mein Chubhatay Hain.
-Yeh Waqt Musibat Ka Dushman Pe Bhi Na Aaye Sajjad Na Mar Jaye.
-Dekho Tu Shaqi Sab Ko Ja Ja Ke Batata Hai.
-Bagi Hai Yeh Bagi Hai Aawaz Lagata Hai.
-Ja Kar Yeh Manadi Se Keh Do Ke Na Tarpaye Sajjad Na Mar Jaye.
- Yasir Kaha Zainab Ne Sadaat Pe Ghurbat Hai.
-Amma Mere Abid Ko Har Gaam Aziyat Hai.
-Ja Kar Koi Darya Se Ghazi Ko Bola Laye Sajjad Na Mar Jaye.
+۱
+سجاد نہ مر جائے یاسر رضا یاسر
+فضہ یہ دعا مانگو بازار گزر جائے، سجاد نہ مر جائے
+زینب نے کہا رو کر اب دل میرا گھبرائے، سجاد نہ مر جائے
+ماحول شرابی ہے سیدانیاں بے پردہ
+اک بھیڑ ہے لوگوں کی اور ہم ہیں رسن بستہ
+دشمن کو بھی یہ منظر اللہ نہ دکھلائے، سجاد نہ مر جائے
+درّوں کی اذیت سے عابد کی کمر خم ہے
+چلتا ہے سہارے سے اب اس میں کہاں دم ہے
+ہر گام پہ کرتا ہے یہ آہ و فغاں ہائے، سجاد نہ مر جائے
+اک نیزے پہ چادر ہے اک پہ ہے سرِ اصغر
+پیوست ہے دونوں میں عابد کا دلِ مضطر
+خون رستا ہے آنکھوں سے جائے تو کہاں جائے، سجاد نہ مر جائے
+ظالم علی اکبر کا سر اس کو دکھاتے ہیں
+نیزے کی انّی اس کے پہلو میں چبھاتے ہیں
+یہ وقت مصیبت کا دشمن پہ بھی نہ آئے، سجاد نہ مر جائے
+دیکھو تو شقی سب کو جا جا کے بتاتا ہے
+باغی ہے یہ باغی ہے آواز لگاتا ہے
+جا کر یہ منادی سے کہہ دو کہ نہ تڑپائے، سجاد نہ مر جائے
+یاسر کہا زینب نے سادات پہ غربت ہے
+امّاں میرے عابد کو ہر گام اذیت ہے
+جا کر کوئی دریا سے غازی کو بلا لائے، سجاد نہ مر جائے

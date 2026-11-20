@@ -12,40 +12,40 @@ romanLyrics: |-
   Ali Akbar Ali Asghar
 
   1
-  Sadaye de rahi hai thokare khaati hai maa dar dar
-  Kahaṅ sote ho kyoṅ dete nahi awaaz uth uth kar
+  Sadaaeṅ de rahi hai thokreṅ khaati hai maaṅ dar dar
+  Kahaaṅ sote ho kiuṅ dete nahiṅ aawaaz uth uth kar
 
   2
-  Sadaoṅ par sadayeiṅ de raha hai baap hal min ki
-  Musibati ki ghari hai chain se sote ho tum dilbar
+  Sadaaoṅ par sadaaeṅ de raha hai baap hal min ki
+  Musibat ki ghari hai chain se sote ho tum dilbar
 
   3
-  Zaifi meiṅ pidar yuṅ thokareiṅ khata hai dar dar ki
-  Koi aisa nahi de de sahara jo zara barh kar
+  Zaifi meiṅ pidar yuṅ thokreṅ khaata hai dar dar ki
+  Koi aisa nahiṅ de de sahaara jo zara barh kar
 
   4
-  Faras se khaak par girne ko hai jaan o dile zehra
-  Hazaro zakhm hai aur ek jisme sibte payghambar
+  Faras se khaak par girne ko hai jaan o dil-e-Zehra
+  Hazaaroṅ zakhm haiṅ aur ek jism sibt-e-payghambar
 
   5
-  Kise awaaz doo kisko pukaruṅ is musibat meiṅ
-  Guluye shaahe din par chal raha hai shimr ka khanjar
+  Kise aawaaz duṅ kis ko is pukaaruṅ musibat meiṅ
+  Gulu-e-shaah-e-din par chal raha hai Shimr ka khanjar
 
   6
-  Madad ke waaste kisko pukaruṅ aah qaime meiṅ
-  Lagi hai aag aur ghash meiṅ pare hai abid-e-muztar
+  Madad ke waaste kis ko pukaaruṅ aah khaime meiṅ
+  Lagi hai aag aur ghash meiṅ pare haiṅ Aabid-e-muztar
 
   7
-  Gale meiṅ tauq beri paoṅ meiṅ haatoṅ meiṅ hatkariyaṅ
-  Chala jaata hai mir-e-kaarwaṅ pehne hue langar
+  Gale meiṅ tauq beri paaoṅ meiṅ haathoṅ meiṅ hathkariyaaṅ
+  Chala jaata hai mir-e-kaarwaaṅ pehne hue langar
 
   8
-  Kahaṅ par so rahe ho ghairate aale bani hashim
-  Sare bazaare kufa hoo mere sar par nahi chadar
+  Kahaaṅ par so rahe ho ghairat-e-aal-e-Bani Haashim
+  Sar-e-baazaar-e-Kufa huṅ mere sar par nahiṅ chaadar
 
   9
-  Phuphi amma chupaye chehra-e-ismat ko baloṅ se
-  Khule sar jaa rahi hai shaam ke darbar meiṅ dilbar
+  Phuphi ammaa chhupaaye chehra-e-ismat ko baaloṅ se
+  Khule sar jaa rahi hai Shaam ke darbaar meiṅ dilbar
 ---
 
 علی اکبرؑ علی اصغرؑ

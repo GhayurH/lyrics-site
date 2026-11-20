@@ -1,45 +1,80 @@
 ---
-title: "Shabaan Ki Amad Mir Sajjad Mir"
+title: "شعبان کی آمد میر سجاد میر"
+alternateTitle: "Shabaan Ki Amad Mir Sajjad Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shabaan ki amad Mir Sajjad Mir
+
+  1
+  Woh hans rahe hain jo aanso bahane walay hain
+  Batool zaday zamane mein aane walay hain
+  Shaban ki aamad hai ghar ghar ko sajaein gay
+  Ramzan se bhi pehle hum Eid manaein gay
+  Shaban ki pehli ko Nana se kaha Sheh ne
+  Hum bhai behan mil ke Islam bachaein gay
+
+  2
+  Abbas ko jholay mein kab Shah litaein gay
+  Godi mein Sakina ke ammo ko sunaein gay
+  Tareekh koi bhi ho pehli ho ya ho chodah
+  Mah-e-Bani Zahra tu kamil nazar aaein gay
+  Shabbir ke matam par samjhota nahi hoga
+  Tum ungli uthao gay hum hath uthaein gay
+
+  3
+  Mairaj ka pardah ho ya Kabay ka pardah ho
+  Tum jab bhi hatao gay Haider nazar aaein gay
+  Siffeen mein Ghazi ko pehchan na paein gay
+  Malik bhi unhein Malik kehte nazar aaein gay
+  Abbas imamo ke pichay tu kharey hoon gay
+  Lekin woh rasolon se aagay nazar aaein gay
+
+  4
+  Yeh tah-e-hai Muqassar jee darwaza e Janat par
+  Ya tum nazar aao gay ya hum nazar aaein gay
+  Salman-o-Abuzar ne yeh tey kiya aapas mein
+  Kam zarf Nuseri ko ab kuch na bataein gay
+  Sajjad agar ab keh hum Toor-e-Najaf pohanchay
+  Mosa ki tarha sajday kartay hoye jaein gay
 ---
 
-Shabaan Ki Amad Mir Sajjad Mir
+شعبان کی آمد میر سجاد میر
 
-1
-Woh Hans Rahe Hain Jo Aanso Bahane Walay Hain.
-Batool Zaday Zamane Mein Aane Walay Hain.
-Shaban Ki Aamad Hai Ghar Ghar Ko Sajaein Gay.
-Ramzan Se Bhi Pehle Hum Eid Manaein Gay.
-Shaban Ki Pehli Ko Nana Se Kaha Sheh Ne.
-Hum Bhai Behan Mil Ke Islam Bachaein Gay.
+۱
+وہ ہنس رہے ہیں جو آنسو بہانے والے ہیں
+بتول زادے زمانے میں آنے والے ہیں
+شعبان کی آمد ہے گھر گھر کو سجائیں گے
+رمضان سے بھی پہلے ہم عید منائیں گے
+شعبان کی پہلی کو نانا سے کہا شہ نے
+ہم بھائی بہن مل کے اسلام بچائیں گے
 
-2
-Abbas Ko Jholay Mein Kab Shah Litaein Gay.
-Godi Mein Sakina Ke Ammo Ko Sunaein Gay.
-Tareekh Koi Bhi Ho Pehli Ho Ya Ho Chodah.
-Mah-e-Bani Zahra Tu Kamil Nazar Aaein Gay.
-Shabbir Ke Matam Par Samjhota Nahi Hoga.
-Tum Ungli Uthao Gay Hum Hath Uthaein Gay.
+۲
+عباس کو جھولے میں کب شاہ لٹائیں گے
+گودی میں سکینہ کے عمّو کو سنائیں گے
+تاریخ کوئی بھی ہو پہلی ہو یا ہو چودہ
+ماہِ بنی زہرا تو کامل نظر آئیں گے
+شبیر کے ماتم پر سمجھوتا نہیں ہوگا
+تم انگلی اٹھاؤ گے ہم ہاتھ اٹھائیں گے
 
-3
-Mairaj Ka Pardah Ho Ya Kabay Ka Pardah Ho.
-Tum Jab Bhi Hatao Gay Haider Nazar Aaein Gay.
-Siffeen Mein Ghazi Ko Pehchan Na Paein Gay.
-Malik Bhi Unhein Malik Kehte Nazar Aaein Gay.
-Abbas Imamo Ke Pichay Tu Kharey Hoon Gay.
-Lekin Woh Rasolon Se Aagay Nazar Aaein Gay.
+۳
+معراج کا پردہ ہو یا کعبے کا پردہ ہو
+تم جب بھی ہٹاؤ گے حیدر نظر آئیں گے
+صفین میں غازی کو پہچان نہ پائیں گے
+مالک بھی انہیں مالک کہتے نظر آئیں گے
+عباس اماموں کے پیچھے تو کھڑے ہوں گے
+لیکن وہ رسولوں سے آگے نظر آئیں گے
 
-4
-Yeh Tah-e-Hai Muqassar Jee Darwaza e Janat Par.
-Ya Tum Nazar Aao Gay Ya Hum Nazar Aaein Gay.
-Salman-o-Abuzar Ne Yeh Tey Kiya Aapas Mein.
-Kam Zarf Nuseri Ko Ab Kuch Na Bataein Gay.
- Sajjad Agar Ab Keh Hum Toor-e-Najaf Pohanchay.
-Mosa Ki Tarha Sajday Kartay Hoye Jaein Gay.
+۴
+یہ طے ہے مقصر جی دروازۂ جنت پر
+یا تم نظر آؤ گے یا ہم نظر آئیں گے
+سلمان و ابوذر نے یہ طے کیا آپس میں
+کم ظرف نصیری کو اب کچھ نہ بتائیں گے
+سجاد اگر اب کے ہم طورِ نجف پہنچے
+موسیٰ کی طرح سجدے کرتے ہوئے جائیں گے

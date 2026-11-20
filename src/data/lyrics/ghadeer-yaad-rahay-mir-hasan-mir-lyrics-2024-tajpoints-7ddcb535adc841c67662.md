@@ -1,42 +1,71 @@
 ---
-title: "Ghadeer Yaad Rahay Mir Hasan Mir Lyrics 2024"
+title: "غدیر یاد رہے"
+alternateTitle: "Ghadeer Yaad Rahay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Anees"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aaj khair-e-kaseer ka din hai
+  Yeh janab-e-Ameer ka din hai
+  Aaj har ba zameer ka din hai
+  Yeh Anees-o-Dabeer ka din hai
+  Ameer bas hain janab-e-Ameer yaad rahe
+  Suno suno yeh sada-e-faqeer yaad rahe
+  Ghadeer yaad rahe, Ghadeer yaad rahe
+  Safar mein ruk ke Nabi ne yeh hajiyon se kaha
+  Hamarey baad Khuda ka wazeer yaad rahe
+  Yeh eid-e-Fitar ka eid al Adha ka kehna hai
+  Maza tu tab hai keh eid-e-Kabeer yaad rahe
+  Issi liye tu hai khair al-amal azano mein
+  Jahan ko maqsad-e-rab-e-Qadeer yaad rahe
+  Aaye hain rind bandh ke aehram saqiya
+  Baithay hoye hain le ke tera naam saqiya
+  Thehri hoi hai gardish-e-ayyam saqiya
+  Bas ho chuki namaz jo tha jaam saqiya
+  Hum sab shareef rind hain bait al sharaf se la
+  Milti nahi Haram mein tu ja kar Najaf se la
+  Jo pe thi khum mein sharab-e-Ghadeer yaad rahe
+  Mila jula ke yeh mafhoom al Ghadeer ka hai
+  Mere jawano ko Qanbar ka peer yaad rahe
+  Yeh haal dekh ke Haris ka kehte they Salman
+  Aye munkiran e Ali yeh shareer yaad rahe
+  Bithaon hafiz-e-Quran ko sar aankhon par
+  Ossay sahi jo Nabi ka wazeer yaad rahe
+  Kaha hai aa ke yeh Jibreel ne Takallum se
+  Zara mizaj-e-Anees-o-Dabeer yaad rahe
 ---
 
-1
-Ghadeer Yaad Rahay Mir Hasan Mir Lyrics
-Aaj Khair-e-Kaseer Ka Din Hai.
-Yeh Janab-e-Ameer Ka Din Hai.
-Aaj Har Ba Zameer Ka Din Hai.
-Yeh Anees-o- Dabeer Ka Din Hai.
-Ameer Bas Hain Janab-e-Ameer Yaad Rahe.
-Suno Suno Yeh Sada-e-Faqeer Yaad Rahe.
-Ghadeer Yaad Rahe, Ghadeer Yaad Rahe.
-Safar Mein Ruk Ke Nabi Ne Yeh Hajiyon Se Kaha.
-Hamarey Baad Khuda Ka Wazeer Yaad Rahe.
-Yeh Eid-e-Fitar Ka Eid Al Adha Ka Kehna Hai.
-Maza Tu Tab Hai Keh Eid-e-Kabeer Yaad Rahe.
-Issi Liye Tu Hai Khair Al-Amal Azano Mein.
-Jahan Ko Maqsad-e-Rab-e-Qadeer Yaad Rahe.
-Aaye Hain Rind Bandh Ke Aehram Saqiya.
-Baithay Hoye Hain Le Ke Tera Naam Saqiya.
-Thehri Hoi Hai Gardish-e-Ayyam Saqiya.
-Bas Ho Chuki Namaz Jo Tha Jaam Saqiya.
-Hum Sab Shareef Rind Hain Bait Al Sharaf Se La.
-Milti Nahi Haram Mein Tu Ja Kar Najaf Se La.
-Jo Pe Thi Khum Mein Sharab-e-Ghadeer Yaad Rahe.
-Mila Jula Ke Yeh Mafhoom Al Ghadeer Ka Hai.
-Mere Jawano Ko Qanbar Ka Peer Yaad Rahe.
-Yeh Haal Dekh Ke Haris Ka Kehte They Salman.
-Aye Munkiran e Ali Yeh Shareer Yaad Rahe.
-Bithaon Hafiz-e-Quran Ko Sar Aankhon Par.
-Ossay Sahi Jo Nabi Ka Wazeer Yaad Rahe.
-Kaha Hai Aa Ke Yeh Jibreel Ne Takallum Se.
-Zara Mizaj-e- Anees-o- Dabeer Yaad Rahe.
+۱
+آج خیرِ کثیر کا دن ہے
+یہ جنابِ امیر کا دن ہے
+آج ہر باضمیر کا دن ہے
+یہ انیس و دبیر کا دن ہے
+امیر بس ہیں جنابِ امیر یاد رہے
+سنو سنو یہ صدائے فقیر یاد رہے
+غدیر یاد رہے، غدیر یاد رہے
+سفر میں رک کے نبی نے یہ حاجیوں سے کہا
+ہمارے بعد خدا کا وزیر یاد رہے
+یہ عیدِ فطر کا عید الاضحیٰ کا کہنا ہے
+مزا تو تب ہے کہ عیدِ کبیر یاد رہے
+اسی لیے تو ہے خیر العمل اذانوں میں
+جہاں کو مقصدِ ربِ قدیر یاد رہے
+آئے ہیں رند باندھ کے احرام ساقیا
+بیٹھے ہوئے ہیں لے کے تیرا نام ساقیا
+ٹھہری ہوئی ہے گردشِ ایام ساقیا
+بس ہو چکی نماز جو تھا جام ساقیا
+ہم سب شریف رند ہیں بیت الشرف سے لا
+ملتی نہیں حرم میں تو جا کر نجف سے لا
+جو پی تھی خم میں شرابِ غدیر یاد رہے
+ملا جلا کے یہ مفہوم الغدیر کا ہے
+میرے جوانوں کو قنبر کا پیر یاد رہے
+یہ حال دیکھ کے حارث کا کہتے تھے سلمان
+اے منکرانِ علی یہ شریر یاد رہے
+بٹھاؤں حافظِ قرآن کو سر آنکھوں پر
+اسے سہی جو نبی کا وزیر یاد رہے
+کہا ہے آ کے یہ جبریل نے تکلم سے
+ذرا مزاجِ انیس و دبیر یاد رہے

@@ -4,9 +4,23 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ghazi ne janaaze pe chale tir jo dekhe
+  Ro para rote hue Shabbir jo dekhe
+
+  1
+  Muslim ne kaha jaae na waapas ye janaaza
+  Mar na jaae waaris-e-tathir jo dekhe
+
+  2
+  Shaah bole nahiṅ larna hai Abbas yahaṅ par
+  Ro ke Ghazi jaanib-e-shamshir jo dekhe
+
+  3
+  Zainab to na seh paai hai ye tir Hasan ke
+  Kya kare gi tiroṅ pe Shabbir jo dekhe
 ---
 
 Ghazi Ne Janazay Pe Chalay Teer Jo – New Noha Mola Hassan 2026 Shahzaib Hassan – Anjuman e Hussania

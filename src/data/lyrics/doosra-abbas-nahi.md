@@ -1,6 +1,6 @@
 ---
 title: "ہاے سکینہ ہاے پیاس"
-alternateTitle: "Doosra Abbas Nahi"
+alternateTitle: "Dusra Abbas Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye sakina haye pyaas
+  Haye Sakina haye pyaas
   Khun meiṅ duba hua
   Dekh kar khaali alam
-  Ek kohraam macha
-  Bache khamosh huwe jab sakina ne kaha
-  Pani maange na koi roke sakina boli
-  Paas baba ke mere dusra abbas nahi
-  Ilteja hai ye meri koi pyasa na kare
+  Ik kohraam macha
+  Bachche khaamosh hue jab Sakina ne kaha
+  Paani maangne na koi roke Sakina boli
+  Paas baba ke mere dusra Abbas nahiṅ
+  Ilteja hai yeh meri koi pyaasa na kare
   Shikwa-e-tashnalabi
   Paas baba ke mere...
-  Pani maange na koi...
-  Mere baba se inhe dur hatado bachoṅ
-  Khaali koozo ko kahi jaake chupado bachoṅ
-  Dekh kar khusk inhe wo na mehsus kare
+  Paani maangne na koi...
+  Mere baba se inheṅ dur hata do bachchoṅ
+  Khaali kuzoṅ ko kahiṅ jaa ke chhupa do bachchoṅ
+  Dekh kar khushk inheṅ woh na mehsus kare
   Apne bhai ki kami
   Paas baba ke mere...
-  Pani maange na koi...
-  Kaash pani ke liye unse na kehti aa kar
-  Kya khabar thi ke nahi aayenge ammu jaa kar
-  Sharm aaati hai mujhe dekh kar tuti kamar
+  Paani maangne na koi...
+  Kaash paani ke liye un se na kehti aa kar
+  Kya khabar thi ke nahiṅ aayeṅge ammu jaa kar
+  Sharm aati hai mujhe dekh kar tuti kamar
   Jaaṅ nikalti hai meri
   Paas baba ke mere...
-  Pani maange na koi...
+  Paani maangne na koi...
   Mujhko ehsaas na ho apne chacha ke gham ka
-  Isliye rote nahi saamne mere baba
-  Jaanti hoo mai magar ke mere baba par
+  Is liye rote nahiṅ saamne mere baba
+  Jaanti huṅ main magar ke mere baba par
   Kya qayamat guzri
   Paas baba ke mere...
-  Pani maange na koi...
-  Dekh hal-min ki sada dasht se aayi asghar
-  Itna ehsaan to kar behan pe bhai asghar
-  Uth ja baysheer mere baandhle sar se kafan
+  Paani maangne na koi...
+  Dekh hal min ki sada dasht se aayi Asghar
+  Itna ehsaan to kar behan pe bhai Asghar
+  Uth ja be shir mere baandh le sar se kafan
   Ab zarurat hai teri
   Paas baba ke mere...
-  Pani maange na koi...
-  Jis se dhaaras thi tujhe kat gaye baazu uske
-  Tir o talwar hai aur tanha hai baba tere
-  Aana mushkil hai watan koi umid nahi
-  Kehde sughra se koi
+  Paani maangne na koi...
+  Jis se dhaaras thi tujhe kat gaye baazu us ke
+  Tir o talwaar haiṅ aur tanha hai baba tere
+  Aana mushkil hai watan koi ummid nahiṅ
+  Keh de Sughra se koi
   Paas baba ke mere...
-  Pani maange na koi...
-  Karbala kaamp gayi kaisi takallum thi ghari
-  Dekhti thi wo kabhi baap ko darya ko kabhi
-  Sheh pe chalti thi churi bachi ye kehti hui
+  Paani maangne na koi...
+  Karbala kaanp gayi kaisi Takallum thi ghari
+  Dekhti thi woh kabhi baap ko dariya ko kabhi
+  Sheh pe chalti thi chhuri bachchi yeh kehti hui
   Khaak par baith gayi
   Paas baba ke mere...
-  Pani maange na koi...
+  Paani maangne na koi...
 ---
 
 ۱

@@ -1,45 +1,80 @@
 ---
-title: "Mahrooma Maa Mazlooma Maa Madar Man Zahra Dr Ali Abbas Rizvi Lyrics 2022"
+title: "محرومہ ماں، مظلومہ ماں، مادرِ من زہرا"
+alternateTitle: "Mahrooma Maa Mazlooma Maa Madar Man Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mahrooma maa mazlooma maa madar man Zahra
+
+  1
+  Hotey dekha jo apni aankhon se zulm Shabar kabhi nahi bholay
+  Kehte they Hasan yeh ro kar mehroma maa, mazloma maa, madar man Zahra
+  Tha kaisa dard ka manzar jab tum pe gira tha woh dar
+  Howa aap ka zakhmi pehlu phaili thi lahu ki khushbo
+  Jab yaad mujhe aata hai dil mera phata jata hai
+  Zad pe tha hath tumhara durrah Qunfuz ne mara
+
+  2
+  Baad nana ke loag badlay hain kya zamane ki yeh kharabi hai
+  Jis ne gustakhi sab se pehle ki mere nana ka woh sahabi hai
+  Woh dard nahi bholay ga jo manzar main ne dekha
+  Woh hath nahi kyun toota tumhein jis ne tamacha mara
+  Girtay hoye tum ko dekha jab tum ne kaha ya baba
+  Chehray pe zakhm nishaan tha pehlu se khon rawaan tha
+
+  3
+  Jab khak pa girtay dekha kuch kar na saka main tanha
+  Gash mein dekha tu pukara adrikni mere baba
+  Dewar se khon-e-taza behtay hoye main ne dekha
+  Nana ko sada di aao apni beti ko bachao
+  Mere nana kahan ho aa jao khak par hai tumhari lakht-e-jigar
+  Aap jis ko salam kartay they haye sholon se jal gaya woh dar
+
+  4
+  Nana yeh ummat teri jeene bhi nahi ab deti
+  Hai zulm-o-sitam ka tofaan our hai tanha meri maa
+  Thi gash mein pari meri madar Fizza ne uthaya aa kar
+  Thin pasliyaan tooti sari thi sans mein bhi dushwari
+  Ta umar Raza yeh dekha mamool Ali tha unn ka
+  Na bhool sakay yeh sadma kartay they Hasan bas noha
 ---
 
-Mahrooma Maa Mazlooma Maa Madar Man Zahra Dr Ali Abbas Rizvi.
+محرومہ ماں، مظلومہ ماں، مادرِ من زہرا
 
-1
-Hotey Dekha Jo Apni Aankhon Se Zulm Shabar Kabhi Nahi Bholay.
-Kehte They Hasan Yeh Ro Kar Mehroma Maa, Mazloma Maa, Madar Man Zahra.
-Tha Kaisa Dard Ka Manzar Jab Tum Pe Gira Tha Woh Dar.
-Howa Aap Ka Zakhmi Pehlu Phaili Thi Lahu Ki Khushbo.
-Jab Yaad Mujhe Aata Hai Dil Mera Phata Jata Hai.
-Zad Pe Tha Hath Tumhara Durrah Qunfuz Ne Mara.
+۱
+ہوتے دیکھا جو اپنی آنکھوں سے ظلم شبّر کبھی نہیں بھولے
+کہتے تھے حسن یہ رو کر محرومہ ماں، مظلومہ ماں، مادرِ من زہرا
+تھا کیسا درد کا منظر جب تم پہ گرا تھا وہ در
+ہوا آپ کا زخمی پہلو پھیلی تھی لہو کی خوشبو
+جب یاد مجھے آتا ہے دل میرا پھٹا جاتا ہے
+زد پہ تھا ہاتھ تمہارا دُرّہ قنفذ نے مارا
 
-2
-Baad Nana Ke Loag Badlay Hain Kya Zamane Ki Yeh Kharabi Hai.
-Jis Ne Gustakhi Sab Se Pehle Ki Mere Nana Ka Woh Sahabi Hai.
-Woh Dard Nahi Bholay Ga Jo Manzar Main Ne Dekha.
-Woh Hath Nahi Kyun Toota Tumhein Jis Ne Tamacha Mara.
-Girtay Hoye Tum Ko Dekha Jab Tum Ne Kaha Ya Baba.
-Chehray Pe Zakhm Nishaan Tha Pehlu Se Khon Rawaan Tha.
+۲
+بعد نانا کے لوگ بدلے ہیں کیا زمانے کی یہ خرابی ہے
+جس نے گستاخی سب سے پہلے کی میرے نانا کا وہ صحابی ہے
+وہ درد نہیں بھولے گا جو منظر میں نے دیکھا
+وہ ہاتھ نہیں کیوں ٹوٹا تمہیں جس نے طمانچہ مارا
+گرتے ہوئے تم کو دیکھا جب تم نے کہا یا بابا
+چہرے پہ زخم نشان تھا پہلو سے خون رواں تھا
 
-3
-Jab Khak Pa Girtay Dekha Kuch Kar Na Saka Main Tanha.
-Gash Mein Dekha Tu Pukara Adrikni Mere Baba.
-Dewar Se Khon-e-Taza Behtay Hoye Main Ne Dekha.
-Nana Ko Sada Di Aao Apni Beti Ko Bachao.
-Mere Nana Kahan Ho Aa Jao Khak Par Hai Tumhari Lakht-e-Jigar.
-Aap Jis Ko Salam Kartay They Haye Sholon Se Jal Gaya Woh Dar.
+۳
+جب خاک پہ گرتے دیکھا کچھ کر نہ سکا میں تنہا
+غش میں دیکھا تو پکارا ادرکنی میرے بابا
+دیوار سے خونِ تازہ بہتے ہوئے میں نے دیکھا
+نانا کو صدا دی آؤ اپنی بیٹی کو بچاؤ
+میرے نانا کہاں ہو آ جاؤ خاک پر ہے تمہاری لختِ جگر
+آپ جس کو سلام کرتے تھے ہائے شعلوں سے جل گیا وہ در
 
-4
-Nana Yeh Ummat Teri Jeene Bhi Nahi Ab Deti.
-Hai Zulm-o-Sitam Ka Tofaan Our Hai Tanha Meri Maa.
-Thi Gash Mein Pari Meri Madar Fizza Ne Uthaya Aa Kar.
-Thin Pasliyaan Tooti Sari Thi Sans Mein Bhi Dushwari.
-Ta Umar Raza Yeh Dekha Mamool Ali Tha Unn Ka.
-Na Bhool Sakay Yeh Sadma Kartay They Hasan Bas Noha.
+۴
+نانا یہ امت تیری جینے بھی نہیں اب دیتی
+ہے ظلم و ستم کا طوفان اور ہے تنہا میری ماں
+تھی غش میں پڑی میری مادر فضّہ نے اٹھایا آ کر
+تھیں پسلیاں ٹوٹی ساری تھی سانس میں بھی دشواری
+تا عمر رضا یہ دیکھا معمولِ علی تھا ان کا
+نہ بھول سکے یہ صدمہ کرتے تھے حسن بس نوحہ

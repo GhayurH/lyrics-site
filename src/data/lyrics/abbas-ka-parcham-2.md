@@ -13,47 +13,47 @@ romanLyrics: |-
   Abbas ka parcham hai alamdar ka parcham
 
   1
-  Uncha hai mere sayyed o sardar ka parcham
+  Uncha hai mere sayyed o sardaar ka parcham
   Parcham mere murshid ka jo ghar ghar pe laga hai
-  Ye saare azadaroṅ pe zehra ki ataa hai
-  Is parchame abbas ko zainab ki dua hai
-  Kaun isko jhukayega bhala kis meiṅ hai ye dum
+  Ye saare azaadaaroṅ pe Zehra ki ataa hai
+  Is parcham-e-Abbas ko Zainab ki dua hai
+  Kaun is ko jhukaayega bhala kis meiṅ hai ye dam
 
   2
-  Ghazi ka sakina se wafa ka hai ye aalam
+  Ghazi ka Sakina se wafa ka hai ye aalam
   Parcham se juda mashk hai na mashk se parcham
-  Jaise kisi baazu pe ho tawiz muqaddam
-  Ye bali sakina ki dua saath hai har dum
+  Jaise kisi baazu pe ho taawiz muqaddama
+  Ye baali Sakina ki dua saath hai har dam
 
   3
-  Matam na ruka tha na ruka hai na rukega
+  Maatam na ruka tha na ruka hai na rukega
   Parcham na jhuka tha na jhuka hai na jhukega
-  Har lehza julusoṅ ki qayadat ye karega
+  Har lahza julusoṅ ki qiyaadat ye karega
   Ho koi faza koi waba koi bhi mausam
 
   4
   Parcham ye marizoṅ ko shifa baant raha hai
-  Dunya ko mohabbat ki fiza baant raha hai
+  Duniya ko mohabbat ki fiza baant raha hai
   Aulaad makaṅ rizq o wafa baant raha hai
-  Kya fikr ho dunya ki hamay kya ho bhala gham
+  Kya fikr ho duniya ki hameiṅ kya ho bhala gham
 
   5
   Ye baat hai bachpan ki mujhe yaad abhi bhi
-  Har aat moharram ko jo baba se kahi thi
-  Ye parcham e abbas uthana hai mujhe bhi
-  Kuch saath mera di jiye hai umr meri kam
+  Har baat Muharram ko jo baba se kahi thi
+  Ye parcham-e-Abbas uthaana hai mujhe bhi
+  Kuchh saath mera dijiye hai umr meri kam
 
   6
-  Manzar ye julusoṅ meiṅ nazar aata hai hum ko
-  Taslim kiya sab ne isi jur o karam ko
-  Sar jhukta nahi uska uthaye jo alam ko
-  Ye naara lagate hai kabhi aap kabhi hum
+  Manzar ye julusoṅ meiṅ nazar aata hai ham ko
+  Taslim kiya sab ne isi jor o karam ko
+  Sar jhukta nahiṅ us ka uthaaye jo alam ko
+  Ye naara lagaate haiṅ kabhi aap kabhi ham
 
   7
-  Haaṅ mazhar o farhan nazar aayega ek din
-  Maula ka alam kaabe pe lehrayega ek din
-  Dil fatema zahra ka sukuṅ payega ek din
-  Khush honge bahot dekh ke ye waaris e adam
+  Haaṅ Mazhar o Farhaan nazar aayega ek din
+  Maula ka alam Kaabe pe lahraayega ek din
+  Dil Fatema Zahra ka sukuṅ paayega ek din
+  Khush honge bahut dekh ke ye waaris-e-Adam
 ---
 
 عباس کا پرچم ہے علمدار کا پرچم

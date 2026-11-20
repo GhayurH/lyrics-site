@@ -37,13 +37,13 @@ romanLyrics: |-
 
   4
   Azmat jo puchhte ho to Quraaṅ se puchh lo
-  Qurbaani us ki shaam-e-gharibaaṅ se puchh lo
+  Qurbaani us ki Shaam-e-Gharibaaṅ se puchh lo
   Jis ne bachaa ke din ko sab kuchh lutaa diya
   Is se milega mominoṅ jannat ka raasta
 
   5
   Aal-e-Nabi ke gham ke siwa koi gham na ho
-  Jawwaad ya Husain ki aawaaz kam na ho
+  Jawaad ya Husain ki aawaaz kam na ho
   Maatam Ali ke laal ka jaari rahe sada
   Is se milega mominoṅ jannat ka raasta
 ---

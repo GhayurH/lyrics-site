@@ -15,9 +15,9 @@ romanLyrics: |-
   Tere kanaare Furaat
 
   1
-  Barbaad hui maiṅ haaye waawaila
-  Luti gayi maiṅ haaye waawaila
-  Qaidi bani maiṅ haaye waawaila
+  Barbaad hui main haaye waawaila
+  Luti gayi main haaye waawaila
+  Qaidi bani main haaye waawaila
   Tere kanaare Furaat
 
   2
@@ -54,13 +54,13 @@ romanLyrics: |-
   Barchhi jigar par Akbar ne khaai
   Sukhe laboṅ tak tu kiuṅ na aai
   Zanjir kis ne tujh ko pehnaai
-  Mar gaya pyaasa Sughra ka bhai
+  Mar gaya pyaasa Sughra ka bhaai
 
   8
-  Mera to sab kuch lut gaya ban meiṅ
-  Ek ek sipaahi mar gaya ran meiṅ
-  Tir lage Sarwar ke badan meiṅ
-  Ab hai judaai bhai behen meiṅ
+  Mera to sab kuch lut gaya ban mein
+  Ek ek sipaahi mar gaya ran mein
+  Tir lage Sarwar ke badan mein
+  Ab hai judaai bhaai behen mein
 
   9
   Beghusl laashe tere kanaare
@@ -70,19 +70,19 @@ romanLyrics: |-
 
   10
   Khair hua jo bhi tha hona
-  Qismat meiṅ teri likha tha rona
-  Ta hashr ab tu yuṅhi tarapna
+  Qismat mein teri likha tha rona
+  Ta hashr ab tu yunhi tarapna
   Mar gayi pyaasi baali Sakina
 
   11
   Shaam se lut kar aai hai Zainab
-  Daagh jigar par laai hai Zainab
-  Sharminda tum se bhai hai Zainab
+  Daagh jigar par khaai hai Zainab
+  Sharminda tum se bhaai hai Zainab
   Kho ke Sakina aai hai Zainab
 
   12
   Tere kanaare Rehaan o Sarwar
-  Pahunche to dekha purdard manzar
+  Pahuncha to dekha purdard manzar
   Ek sada hai dosh-e-hawa par
   Sayyidaani koi kehti hai ro kar
 ---

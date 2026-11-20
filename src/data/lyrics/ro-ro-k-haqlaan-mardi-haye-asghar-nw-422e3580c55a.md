@@ -1,24 +1,44 @@
 ---
-title: "Ro Ro K Haqlaan Mardi Haye Asghar"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "رو رو کے حقلاں ماردی، ہائے اصغر"
+alternateTitle: "Ro Ro K Haqlaan Mardi Haye Asghar"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ro ro k, haqlaan mardi, haye Asghar teri maa
+
+  1
+  Mull barchi da tu paunda, haunda kadi jawan
+
+  2
+  Mere jundeyaan na dewe, halminn diyan sadawan, menu babay kol leh ja, dey maa na lorian
+
+  3
+  Maqtal ch fateh Khayber, yaan Ghazi bann wakhawan, main khoon Hashmi haan, nayi maa main na tawaan
+
+  4
+  Tera lasha laal labna, naoon lakh hai nazeyan ne, ay soch k mitawaan, teri kabar da nishaan
+
+  5
+  Khud muntazir hai piyasi, Kauser Raza auna dhi, peenday ney jere paani, Asghar da le k naa
 ---
 
-Ro ro k, haqlaan mardi, Haye asghar Teri maa
+رو رو کے، حقلاں ماردی، ہائے اصغر تیری ماں
 
-Mull barchi da tu paunda, haunda kadi jawan
+۱
+مُل برچھی دا تُو پاؤندا، ہوندا کدی جوان
 
-Mere jundeyaan na dewe, halminn diyan sadawan, menu babay kol leh ja, dey maa na lorian
+۲
+میرے جیوندیاں نہ دیوے، ہل مِن دیاں صداواں، مینوں بابے کول لے جا، دے ماں نہ لوریاں
 
-Maqtal ch fateh khayber, yaan ghazi bann wakhawan, main khoon hashmi haan, nayi maa main na tawaan
+۳
+مقتل چ فاتحِ خیبر، یاں غازی بن وکھاواں، میں خونِ ہاشمی ہاں، نئیں ماں میں ناتواں
 
-Tera lasha laal labna, naoon lakh hai nazeyan ne, ay soch k mitawaan, teri kabar da nishaan
+۴
+تیرا لاشہ لال لبھنا، نو لکھ ہائے نیزیاں نے، اے سوچ کے مٹاواں، تیری قبر دا نشان
 
-Khud muntazir hai piyasi, kauser raza auna dhi, peenday ney jere paani, asghar da le k naa
-
-Shared via Nohay Writeups for iOS
+۵
+خود منتظر ہے پیاسی، کوثر رضا اوہناں دی، پیندے نے جیہڑے پانی، اصغر دا لے کے ناں

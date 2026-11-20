@@ -1,6 +1,6 @@
 ---
 title: "ابرو کے اشارے میں ہر اک اذنِ سفر"
-alternateTitle: "Abro Ke Isharay Mein Har Ik Izn-e-Safar"
+alternateTitle: "Abro Ke Ishaare Mein Har Ik Izn-e-Safar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abro ke isharay mein har ik izn-e-safar hai
-  Alam pe yeh Sarkar-e-do alam ka asar hai
-  Aye sajid-e-awwal tere sajdoon ka asar hai
+  Abro ke ishaare mein har ik izn-e-safar hai
+  Aalam pe yeh sarkaar-e-do aalam ka asar hai
+  Ae saajid-e-awwal tere sajdoṅ ka asar hai
   Dunya ko Khuda ki tere hone se khabar hai
 
   2
-  Maloom kisay tha teri mairaaj se pehle
-  Aflak ke oss par bhi ik rahguzar hai
-  Ik chashm-e-Muhammad ke waseelay se Khuda ki
-  Mujh pe hi nahi sare zamane pe nazar hai
+  Maalum kise tha teri meraaj se pehle
+  Aflaak ke us paar bhi ik rahguzar hai
+  Ik chashm-e-Muhammad ke wasile se Khuda ki
+  Mujh pe hi nahiṅ saare zamaane pe nazar hai
 
   3
-  Darbar-e-Muhammad pe jabeen sayi kare tu
-  Insaan khabar paye keh Allah kidhar hai
-  Anwar-e-falak zeena bane jis ke safar mein
-  Aye khaki bashar soch keh woh kaisa bashar hai
+  Darbaar-e-Muhammad pe jabiṅ saai kare tu
+  Insaan khabar paaye keh Allah kidhar hai
+  Anwaar-e-falak zina bane jis ke safar mein
+  Ae khaaki bashar soch keh woh kaisa bashar hai
 
   4
   Woh Bint-e-Asad ka tha yeh hai Bint-e-Nabi ka
   Makka mein woh Taiba mein yeh aayat ka ghar hai
-  Salmaan ne jahan reesh se jaroob kashi ki
-  Akbar ke aqeeday mein woh Allah ka dar hai
+  Salmaan ne jahaaṅ rish se jaarub kashi ki
+  Akbar ke aqide mein woh Allah ka dar hai
 ---
 
 ۱

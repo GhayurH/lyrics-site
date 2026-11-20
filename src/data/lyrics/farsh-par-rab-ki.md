@@ -9,57 +9,35 @@ poet: "Hashim"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Farsh par rab ki ye ek ataa hai
-
+romanLyrics: |-
+  Arsh par Rab ki ye ik ataa hai
+  Bekhataa jis ko tu maarta hai
+  Kuch khabar hai tujhe Ibn-e-Muljim
+  Ye zamaane ka mushkil kushaa hai
 
   1
-
-  Bekhata jisko tu maarta hai
-
-  Kuch khabar hai tujhe ibne muljim
-
-  Ye zamane ka mushkil kusha hai
-
-  Isne sajdon pe sajde kiye hai
-
-  Isne rozon pe roze rakhe hai
-
-  Iska khana hai ek jau ki roti
-
-  Iske sone ko ek boriya hai
-
+  Is ne sajdoṅ pe sajde kiye haiṅ
+  Is ne rozoṅ pe roze rakhe haiṅ
+  Is ka khaana hai ik jau ki roti
+  Is ke sone ko ik boriya hai
 
   2
-
-  Peshwa uth gaya hai jahan ka
-
-  Soone soone hai mehrab o mimbar
-
-  Kis khamoshi se ghar bhi khuda ka
-
-  Aaj masroofe aah o buka hai
-
+  Peshwaa uth gaya hai jahaaṅ ka
+  Sone sone haiṅ mehraab o mimbar
+  Kis khamoshi se ghar bhi Khuda ka
+  Aaj masruf-e-aah o bukaa hai
 
   3
-
-  Dil pe daaghe yateemi sajaye
-
-  Gham ka paikar hai shabbir o shabbar
-
+  Dil pe daagh, yatimi sajaaye
+  Gham ka paikar haiṅ Shabbir o Shabbar
   Jis ko dekho wohi ro raha hai
-
-  Ghar imamat ka matam kada hai
-
+  Ghar imaamat ka maatam kada hai
 
   4
-
-  Kyun rulaata hai aale nabi ko
-
-  Kya bigaada hai tera ali ne
-
-  Is sitamgar se hashim ye poocho
-
-  Kya ye ajre rasool e khuda hai'
+  Kiuṅ rulaata hai Aal-e-Nabi ko
+  Kya bigaara hai tera Ali ne
+  Is sitamgar se Hashim ye puchho
+  Kya ye ajr-e-Rasul-e-Khuda hai
 ---
 
 عرش پر رب کی یہ اِک عطا ہے

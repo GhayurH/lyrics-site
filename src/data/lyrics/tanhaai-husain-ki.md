@@ -40,7 +40,7 @@ romanLyrics: |-
   Tanhaai Husain ki
 
   5
-  Bauchhaar hui hai tiroṅ ki zakhmoṅ se khun tapakta hai
+  Bochhaar hui hai tiroṅ ki zakhmoṅ se khun tapakta hai
   Ek pyaasa musaafir hasrat se maidan meiṅ har su takta hai
   Laashoṅ ko sadaaeṅ deti hai maajaai Husain ki
   Tanhaai Husain ki
@@ -58,13 +58,13 @@ romanLyrics: |-
   Tanhaai Husain ki
 
   8
-  Banti thi kafan khaak-e-sehra har zakhm tha taaza pyaase ka
+  Banti thi kafan khaak-e-sahra har zakhm tha taaza pyaase ka
   Kaandhe ko azizoṅ ke tarsa ghurbat meiṅ janaaza pyaase ka
   Pardes meiṅ mayyat tiroṅ ne uthwaai Husain ki
   Tanhaai Husain ki
 
   9
-  Besar ka badan deta tha sada ro ro ke Sakina ae beti
+  Be sar ka badan deta tha sadaa ro ro ke Sakina ae beti
   Sone ke bhi qaabil ab na bacha tere baap ka sina ae beti
   Ye dekh ke maqtal meiṅ bachchi chillaai Husain ki
   Tanhaai Husain ki

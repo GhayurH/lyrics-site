@@ -31,7 +31,7 @@ romanLyrics: |-
   Imtihaan-e-Murtaza tha gumbad-e-Khizra ke paas
 
   4
-  Mera kalma parhne waale kar gaye kaisi jafa
+  Mera kalma parhne waale kar gaye kaisi jafaa
   Jab gul-e-ismat ke upar haaye jalta darwaaza gira
   Ho gaya pehlu shikasta gumbad-e-Khizra ke paas
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Ro ke kehti thi ye Fizza gumbad-e-Khizra ke paas
 
   6
-  Ye sada-e-Mustafa hai Baaqir o Safdar suno
+  Ye sadaa-e-Mustafa hai Baaqir o Safdar suno
   Koi qabr-e-Fatima Zehra pe saaya to karo
   Dhup meiṅ hai qabr-e-Zehra gumbad-e-Khizra ke paas
 ---

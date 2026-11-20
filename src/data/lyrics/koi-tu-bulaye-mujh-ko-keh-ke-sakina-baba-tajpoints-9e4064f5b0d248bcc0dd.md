@@ -1,30 +1,50 @@
 ---
-title: "Koi Tu Bulaye Mujh Ko Keh Ke Sakina Baba"
+title: "کوئی تو بلائے مجھ کو کہہ کے سکینہ بابا"
+alternateTitle: "Koi Tu Bulaye Mujh Ko Keh Ke Sakina Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Koi tu bulaye mujh ko keh ke Sakina Baba
+  Tere baad na jane kya kya mujhe naam mila Baba
+  Iss dil mein bana li Baba ik qabar teri beti ne
+  Dafna deti hoon iss mein har dard chupa kar apne
+  Par tujh se juda rehne ka nahi dard chupa Baba
+  Seene pe sulate the tum mujhe Baba lori de kar
+  Yahan lori tamacho ki hai our khak pe ab hai bistar
+  Ik aakhri baar mujhe tu seene se laga Baba
+  Hain bagi maron inn ko bazaar mein jab ye baat hoi
+  Khoon se bhar gayi dewarein pathron ki youn barsat hoi
+  Koi rait garam koi pani haye phainkta tha Baba
+  Ro ro ke jise manga tha din raat namaz-e-shab mein
+  Woh beti reh gayi tanha na Baba rahi woh sab mein
+  Kano se khoon rawaan hai doon kis ko sada Baba
+  Baba Baba ro ro kar sab haal sunaya oss ne
+  Jis waqt padar ke sar ko seene se lagaya oss ne
+  Zeeshan ruki saansein our honton pe raha Baba
 ---
 
-1
-Koi Tu Bulaye Mujh Ko Keh Ke Sakina Baba.
-Tere Baad Na Jane Kya Kya Mujhe Naam Mila Baba.
-Iss Dil Mein Bana Li Baba Ik Qabar Teri Beti Ne.
-Dafna Deti Hoon Iss Mein Har Dard Chupa Kar Apne.
-Par Tujh Se Juda Rehne Ka Nahi Dard Chupa Baba.
-Seene Pe Sulate The Tum Mujhe Baba Lori De Kar.
-Yahan Lori Tamacho Ki Hai Our Khak pe Ab Hai Bistar.
-Ik Aakhri Baar Mujhe Tu Seene Se Laga Baba.
-Hain Bagi Maron Inn Ko Bazaar Mein Jab Ye baat Hoi.
-Khoon Se Bhar Gayi Dewarein Pathron Ki Youn Barsat Hoi.
-Koi Rait Garam Koi Pani Haye Phainkta Tha Baba.
-Ro Ro Ke Jise Manga Tha Din Raat Namaz-e-Shab Mein.
-Woh Beti Reh Gayi Tanha Na Baba Rahi Woh Sab Mein.
-Kano Se Khoon Rawaan Hai Doon Kis Ko Sada Baba.
-Baba Baba Ro Ro Kar Sab Haal Sunaya Oss Ne.
-Jis Waqt Padar Ke Sar Ko Seene Se Lagaya Oss Ne.
- Zeeshan Ruki Saansein Our Honton Pe Raha Baba.
+۱
+کوئی تو بلائے مجھ کو کہہ کے سکینہ بابا
+تیرے بعد نہ جانے کیا کیا مجھے نام ملا بابا
+اس دل میں بنا لی بابا اک قبر تیری بیٹی نے
+دفنا دیتی ہوں اس میں ہر درد چھپا کر اپنے
+پر تجھ سے جدا رہنے کا نہیں درد چھپا بابا
+سینے پہ سلاتے تھے تم مجھے بابا لوری دے کر
+یہاں لوری طمانچوں کی ہے اور خاک پہ اب ہے بستر
+اک آخری بار مجھے تو سینے سے لگا بابا
+ہیں باغی مارو ان کو بازار میں جب یہ بات ہوئی
+خون سے بھر گئی دیواریں پتھروں کی یوں برسات ہوئی
+کوئی ریت گرم کوئی پانی ہائے پھینکتا تھا بابا
+رو رو کے جسے مانگا تھا دن رات نمازِ شب میں
+وہ بیٹی رہ گئی تنہا نہ بابا رہی وہ سب میں
+کانوں سے خون رواں ہے دوں کس کو صدا بابا
+بابا بابا رو رو کر سب حال سنایا اس نے
+جس وقت پدر کے سر کو سینے سے لگایا اس نے
+ذیشان رکیں سانسیں اور ہونٹوں پہ رہا بابا

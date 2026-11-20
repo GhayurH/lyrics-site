@@ -16,7 +16,7 @@ romanLyrics: |-
   Zakhm par zakhm khaayi hai Zainab
 
   1
-  Sar ko bhai ke dafn karne ko
+  Sar ko bhaai ke dafn karne ko
   Qabr-e-Sarwar pe aayi hai Zainab
 
   2
@@ -40,7 +40,7 @@ romanLyrics: |-
   Qabr us ki banaayi hai Zainab
 
   7
-  Kya na dekho ge risma ke nishaaṅ
+  Kya na dekho ge rismaa ke nishaaṅ
   Jo ke baazu pe laayi hai Zainab
 
   8
@@ -48,7 +48,7 @@ romanLyrics: |-
   Jab kaha utho aayi hai Zainab
 
   9
-  Kaise rudaad-e-gham Bober likhe
+  Kaise rudaad-e-gham Baabar likhe
   Jo bhi aafat uthaayi hai Zainab
 ---
 اربعین کرنے آئی ہے زینب

@@ -20,14 +20,14 @@ romanLyrics: |-
   1
   Khuda ne azm-e-Ali ki surat
   Rakhi hai Quraan ke aaine meiṅ
-  Magar ye baatil musir hai is pe
+  Magar ye baatil musirr hai is pe
   Ke haq ujaagar na hone deṅ ge
 
   2
   Khuda kare zikr-e-Maula Haider
   Magar ye insaan kuch kahe hai
-  Kisi bhi surat baland azme
-  Amir taasar na hone deṅ ge
+  Kisi bhi surat baland azm
+  Amir taa sar deṅ ge
 
   3
   Falak pe zikr-e-Ali ki bazm-e
@@ -37,13 +37,13 @@ romanLyrics: |-
 
   4
   Hamaara bhi ek faisla hai
-  Yuṅhi uthaate raheṅ ge parcham
+  Yuṅ hi uthaate raheṅ ge parcham
   Sukuṅ kisi gaam ahl-e-baatil
   Ko ham muyassar na hone deṅ ge
 
   5
   Ye keh ke Zehra ne aansuoṅ ko
-  Ata ki rumaal meiṅ sukuṅ na
+  Ataa ki rumaal meiṅ sukuṅ na
   Tumhaare ashkoṅ ko ham kabhi bhi
   Sharaf se baahar na hone deṅ ge
 

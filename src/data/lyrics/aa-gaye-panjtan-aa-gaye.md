@@ -10,52 +10,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab bicha ghar mein farsh-e-azza aa gaye Panjtan aa gaye
-  Rashk-e-janat howa ghar mera aa gaye Panjtan aa gaye
-  Kaun sajdoon ki zeenat banata tujhe
-  Kaun janat ki janat banata tujhe
+  Jab bichha ghar mein farsh-e-aza, aa gaye Panjtan aa gaye
+  Rashk-e-jannat hua ghar mera, aa gaye Panjtan aa gaye
+  Kaun sajdoṅ ki zinat banata tujhe
+  Kaun jannat ki jannat banata tujhe
 
   2
-  Aye zameen kar ada shukriya aa gaye Panjtan aa gaye
-  Aik uljhan thi pehchano kaisay ossay
-  Kis ko dekhon keh Khaliq samajh aa sakay
-  Ho gaya hal mera masla aa gaye Panjtan aa gaye
+  Ae zamin kar ada shukriya, aa gaye Panjtan aa gaye
+  Ek uljhan thi pehchaanuṅ kaise use
+  Kis ko dekhuṅ keh Khaliq samajh aa sake
+  Ho gaya hal mera masla, aa gaye Panjtan aa gaye
 
   3
-  Maut par fatha jab pa gayi zindagi
-  Uth ke tazeem Salma ki maiyyat ne ki
-  Gul Madain mein hone laga aa gaye Panjtan aa gaye
-  Zoam nikley ga sachaiyon ka abhi
+  Maut par fatah jab pa gayi zindagi
+  Uth ke tazim Salma ki mayyat ne ki
+  Ghul Madain mein hone laga, aa gaye Panjtan aa gaye
+  Zaum nikle ga sachaiyoṅ ka abhi
 
   4
-  Haar manay gi qaum-e-Nasara abhi
-  Pal mein ho jaye ga faisla aa gaye Panjtan aa gaye
-  Pehle hi oss ko jaldi shahadat ki thi
-  Aakhri sans our taiz chalne lagi
+  Haar maane gi qaum-e-Nasara abhi
+  Pal mein ho jaye ga faisla, aa gaye Panjtan aa gaye
+  Pehle hi us ko jaldi shahadat ki thi
+  Aakhri saans aur tez chalne lagi
 
   5
-  Jab yeh maqtal mein Hur ne suna aa gaye Panjtan aa gaye
-  Misal-e-Nehj-e-Balaga jo nuktay sunay
-  Lehja-e-Murtaza mein jo khutbay sunay
-  Bint-e-Zahra ko deney dua aa gaye Panjtan aa gaye
+  Jab yeh maqtal mein Hur ne suna, aa gaye Panjtan aa gaye
+  Misaal-e-Nahj-ul-Balagha jo nukte sune
+  Lehja-e-Murtaza mein jo khutbe sune
+  Bint-e-Zahra ko dene dua, aa gaye Panjtan aa gaye
 
   6
-  Rooz-e-mehshar ke munsaf hain aal-e-abba
-  Faislay inn ko karne hain meri jagah
-  Hashar mein khud kahey ga Khuda aa gaye Panjtan aa gaye
-  Akbar-o-Qasim-o-Zainab-o-ba wafa
+  Roz-e-mehshar ke munsif hain aal-e-aba
+  Faisle in ko karne hain meri jagah
+  Hashr mein khud kahe ga Khuda, aa gaye Panjtan aa gaye
+  Akbar o Qasim o Zainab o bawafa
 
   7
-  Sath Sarwar ke pohancha jo yeh qafila
-  Barmala keh uthi Karbala aa gaye Panjtan aa gaye
-  Meri nisbat hai ayelan tatheer se
-  Boli aayat ke jaldi se le chal mujhe
+  Saath Sarwar ke pahuncha jo yeh qaafila
+  Barmala keh uthi Karbala, aa gaye Panjtan aa gaye
+  Meri nisbat hai ailaan-e-tathir se
+  Boli aayat keh jaldi se le chal mujhe
 
   8
-  Dekh Jibreel zair-e-kisa aa gaye Panjtan aa gaye
-  Unn ke dar se wafa ka sila mil gaya
-  Jab bhi likha Takallum qaseeda niya
-  Khud barhanay mera hosla aa gaye Panjtan aa gaye
+  Dekh Jibril zer-e-kisa, aa gaye Panjtan aa gaye
+  Un ke dar se wafa ka sila mil gaya
+  Jab bhi likha Takallum qasida naya
+  Khud barhane mera hausla, aa gaye Panjtan aa gaye
 ---
 
 ۱

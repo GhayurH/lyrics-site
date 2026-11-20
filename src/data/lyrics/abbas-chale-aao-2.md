@@ -10,52 +10,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas chale aao abbas chale aao
-  Suno saqqa e haram tumhe bachoṅ ki qasam
-  Tut jaye na bharam aao lehrake alam
-  Abbas chale aao abbas chale aao
+  Abbas chale aao Abbas chale aao
+  Suno saqqa-e-haram tumheṅ bachoṅ ki qasam
+  Tut jaaye na bharam aao lehra ke alam
+  Abbas chale aao Abbas chale aao
 
   1
-  Tum se to sakina ko bari aas hai ghazi
-  Tum aao to manzur hameiṅ pyaas hai ghazi
-  Tu to dil e shabbir ka ehsaas hai ghazi
-  Zara sunlo ye sada aake tum behre khuda
-  Mera dum ghutne laga ab to ghar laut ke aa
+  Tum se to Sakina ko bari aas hai Ghazi
+  Tum aao to manzur hameṅ pyaas hai Ghazi
+  Tu to dil-e-Shabbir ka ehsaas hai Ghazi
+  Zara sun lo ye sada aa ke tum bahr-e-Khuda
+  Mera dam ghutne laga ab to ghar laut ke aa
 
   2
-  Tum baazu e shabbir ho lashkar ke alamdar
-  Tum saani e hyder ho dil e jafar e tayyar
-  Tum sote ho haibat meiṅ para abid e bimar
-  Aag qaimon meiṅ lagi sar se chadar bhi chini
-  Hai bahot tashna labi ae jari ibne jari
+  Tum baazu-e-Shabbir ho lashkar ke alamdaar
+  Tum saani-e-Haidar ho dil-e-Jafar-e-Tayyaar
+  Tum sote ho haibat meiṅ para Aabid-e-bimaar
+  Aag khaimoṅ meiṅ lagi sar se chaadar bhi chhini
+  Hai bahut tashna labi ae jari ibn-e-jari
 
   3
-  Lo shimr ne maara wo sakina ko tamacha
-  Kaano se lahu behta hai jalne laga kurta
-  Masuma ko deta nahi koi bhi dilaasa
-  Kya gawara hai tumhe ae alamdare wafa
-  Haath zainab ke bandhe aur sakina ka gala
+  Lo Shimr ne maara wo Sakina ko tamaancha
+  Kaanoṅ se lahu behta hai jalne laga kurta
+  Maasum ko deta nahiṅ koi bhi dilaasa
+  Kya gawaara hai tumheṅ ae alamdaar-e-wafa
+  Haath Zainab ke bandhe aur Sakina ka gala
 
   4
-  Pardes meiṅ ujre na koi aise gharana
-  Jis tarha se ujra mera ghar ae mere bhaiya
-  Roti hui marqad se chali aayi hai zehra
-  Labe darya pe sada ashk aankhoṅ se rawaṅ
-  Dil se uthta hai dhuaṅ dhunde hum tum ko kahaṅ
+  Pardes meiṅ ujre na koi aise gharaana
+  Jis tarah se ujra mera ghar ae mere bhaiya
+  Roti hui marqad se chali aayi hai Zehra
+  Lab-e-darya pe sada ashk aankhoṅ se rawaṅ
+  Dil se uthta hai dhuaaṅ dhunde ham tum ko kahaaṅ
 
   5
   Parcham jo tera khuṅ meiṅ bhara aaya hai bhaiya
   Kis ne ye mere dil pe sitam dhaaya hai bhaiya
-  Pardes meiṅ taqdir ne rulwaya hai bhaiya
-  Kab se majbur hoo mai nehr se dur hoo mai
+  Pardes meiṅ taqdir ne rulwaaya hai bhaiya
+  Kab se majbur huṅ main nahr se dur huṅ main
   Izn milta jo mujhe lene khud aati tujhe
 
   6
-  Mesum sare majlis ye teri girya o zaari
-  Rehaan ke lafzoṅ pe bhi rikhat hui taari
-  Dete hai dua ahle aza maa ko tumhari
-  Ban ke ek ajre karam tumpe ghazi ka alam
-  Har ghari saaya kare dil yehi kehta rahe
+  Mesum sar-e-majlis ye teri girya o zaari
+  Rehaan ke lafzoṅ pe bhi riqqat hui taari
+  Dete haiṅ dua ahl-e-aza maaṅ ko tumhaari
+  Ban ke ik ajr-e-karam tum pe Ghazi ka alam
+  Har ghari saaya kare dil yahi kehta rahe
 ---
 
 عباس چلے آؤ عباس چلے آؤ

@@ -14,14 +14,14 @@ romanLyrics: |-
   Sharik-e-daawat-e-Islam hai Abu Talib
 
   1
-  Nabi ko haq ka ek inaam hai Abu Talib
+  Nabi ko haq ka ik inaam hai Abu Talib
   Harim meiṅ wahi meiṅ ilhaam hai Abu Talib
   Haram ke azm ka ehraam hai Abu Talib
-  Ye chunkay laeyṅ jo ghuncha wo phul ho jaaye
+  Ye chun ke laayeṅ jo ghuncha wo phul ho jaaye
   Phir un ki god meiṅ pal kar Rasul ho jaaye
 
   2
-  Rasul-e-Rab ka nigehbaan hai Abu Talib
+  Rasul-e-Rab ka nigahbaan hai Abu Talib
   Nabi hai din to imaan hai Abu Talib
   Nuzul-e-wahi ka unwaan hai Abu Talib
   Baghair lafzoṅ ka Quraan hai Abu Talib
@@ -29,7 +29,7 @@ romanLyrics: |-
   Inhi ne nuqta diya zer-e-baa-e-Bismillah
 
   3
-  Payambari ki bhalaaoṅ ka rad Abu Talib
+  Payambari ki bhalaaiyoṅ ka rad Abu Talib
   Madad Khuda ki hai shakl-e-madad Abu Talib
   Nabi ki dhaal dam-e-jadd o kad Abu Talib
   Nishaana khatm-e-Rusul aur zad Abu Talib
@@ -57,16 +57,16 @@ romanLyrics: |-
   Pisar Nabi ka hai qaaim maqaam salle alaa
   Kise nasib hai ye ehtiraam salle alaa
   Ke un ke khurd haiṅ saare Imam salle alaa
-  Khata muaaf ho ye bhi agar nahiṅ momin
+  Khata maaf ho ye bhi agar nahiṅ momin
   To phir jahaaṅ meiṅ koi bashar nahiṅ momin
 
   7
   Na jaanchiye ye riwaayat na sirat o kirdaar
-  Nabi ki aankh se un ko dekhiye ek baar
+  Nabi ki aankh se un ko dekhiye ik baar
   Ye baargaah-e-risaalat meiṅ aap ka tha waqaar
   Pachaade khaa ke unheṅ roye Ahmad-e-Mukhtaar
   Wo aam-e-huzn bana un ka jab wisaal hua
-  Ye gham Rasul ki ummat meiṅ ek saal hua
+  Ye gham Rasul ki ummat meiṅ ik saal hua
 
   8
   Ye marne waala gar imaan hi na laaya tha
@@ -80,14 +80,14 @@ romanLyrics: |-
   Ye baat agar ho ijaazat to puchh luṅ maiṅ yahiṅ
   Husain ibn-e-Ali kya nahiṅ the mohsin-e-diṅ
   Ham un ko royeṅ to phir kiuṅ ho chiṅ ba jabiṅ
-  Bane the un ka to naaqa Rasul-e-arsh nashiṅ
+  Bane the un ka to naaqa Rasul-e-arsh-e-nashiṅ
   Husain soye Shah-e-Mursal ke sine par
-  Ghazab hai Shimr ka zaanu unhiṅ ke sine par
+  Ghazab hai Shimr ka zaanuṅ unheṅ ke sine par
 
   10
   Bagosh-e-hosh kiuṅ jab haal-e-Karbala suniye
   Suna jo mere tasawwur ne jo wo zara suniye
-  Bayaan himmat o sabr-e-Shah-e-Huda suniye
+  Bayaan himmat-e-sabr o Shah-e-al-Huda suniye
   Wo aati hai Malakul Maut ki sada suniye
   Mila jo hukm ke sar se nikaal jaan-e-Husain
   Kaha ke sakht hai ya Rab ye imtihaan-e-Husain
@@ -111,14 +111,14 @@ romanLyrics: |-
   13
   Nida ye aayi ke sine se qabz kar le jaan
   Kaha ke tiroṅ se chhalni hai ae mere Rahmaan
-  Abhi to maar ke barchhi hata hai ek shaitaan
+  Abhi to maar ke barchhi hata hai ik shaitaan
   Aur ab to hai tah-e-zaanu-e-Shimr ye Quraan
   Ye karb hai ke rukh-e-paak gard hai ya Rab
   Tere Husain ke sine meiṅ dard hai ya Rab
 
   14
   Nida ye aayi ke mazlumiyat ka rutba shinaas
-  Kamar se kheṅch le saabir ki jaan bewaswa
+  Kamar se kheṅch le saabir ki jaan-e-bewaswaas
   Kaha malak ne tarap kar ba dard o hasrat o yaas
   Kamar to tut gayi jab se mar gaye Abbas
   Sada-e-ghaib ye aayi bahaal hai chehra
@@ -135,7 +135,7 @@ romanLyrics: |-
   16
   Nasim udhar se to Qudsi ki sada aayi
   Idhar tarapti hui bint-e-Murtaza aayi
-  Qarib-e-laash jo khaahar basad buka aayi
+  Qarib-e-laash jo khaahar basad buqa aayi
   Akhi ke halq-e-burida se ye sada aayi
   Koi buzurg na ab hai na khurd hai Zainab
   Nabi ki aal tumhaare sipurd hai Zainab

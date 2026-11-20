@@ -7,6 +7,44 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Fatima jaaiyaaṅ viraaṅ diyaaṅ laasha te ro vainr paandiyaaṅ
+  Virna je rasiyaaṅ na paandiyaaṅ teri turbat banaandiyaaṅ
+
+  1
+  Kujh log Shaam wale mere ghar nuṅ jalaande ne
+  Naane de kalma go pae sar nange turaande ne
+  Patthraaṅ diyaaṅ baarishaaṅ ch bhainaaṅ tera Aabid bachaandiyaaṅ
+
+  2
+  Tere aasre te Ghazi pardes mein vasaaya
+  Vaaja vi maariyaaṅ main ro ro ke main bulaaya
+  So gaya darya de kande jaake tainuṅ kiveṅ uthaandiyaaṅ
+
+  3
+  Jadoṅ puchhiyaaṅ si sitamgaaraaṅ kehri Ali di dhi ae
+  Ratt paak Mahaari di ankhiyaaṅ toṅ dhul pai ae
+  Maaṅ Fissa toda sa Fissa di kand de ole raiyaaṅ athru vagaandiyaaṅ
+
+  4
+  Tafsir Innama di vaaris Kisaa di haaṅ main
+  Baaghi na aakho loko dhi Mustafa di haaṅ main
+  Ujriyaaṅ har mor te ro ro ke raiyaaṅ khutbe sunaandiyaaṅ
+
+  5
+  Darbaar vaali peshi Zainab nuṅ maar gai ae
+  Naane din toṅ haae jehri bachre vaar gai ae
+  Be khata na mahramaaṅ de koloṅ raiyaaṅ jhirkaaṅ ne khaandiyaaṅ
+
+  6
+  Chan Pir da malang ae naukar tere bhara da
+  Asghar ne izzat paai sadqa teri rida da
+  Har vele Bibi diyaaṅ duaavaaṅ arshaaṅ toṅ aandiyaaṅ
+
+  7
+  Chan Pir de malang pae Akbar da nauha parh de
+  Kul anbiya vi maatam Asghar de naal kar de
+  Aina lai Bibi diyaaṅ duaavaaṅ arshaaṅ toṅ aandiyaaṅ
 ---
 
 فاطمہؑ جائیاں ویراں دیاں لاشہ تے رو وینڑ پاندیاں

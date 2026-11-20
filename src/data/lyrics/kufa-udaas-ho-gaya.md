@@ -18,7 +18,7 @@ romanLyrics: |-
   Surkhi rukh-e-falak pe hai Kaaba khaamosh hai
   Meraaj ki hayaat ka lehja khaamosh hai
   Unnisviṅ ki subh ka taara khaamosh hai
-  Mehraab ashk baar hai ajra khaamosh hai
+  Mehraab ashk baar hai ijra khaamosh hai
 
   2
   Tanzim-e-kaaenaat ki surat bigar gayi

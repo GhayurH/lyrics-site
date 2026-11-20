@@ -10,112 +10,111 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaheed se koi shamsheer ka maza pooche
-  Mareez se koi akseer ka maza pooche
-  Aseer se koi zanjeer ka maza pooche
-  Yateem se koi dilgeer ka maza pooche
+  Shahid se koi shamshir ka maza puchhe
+  Mariz se koi aksir ka maza puchhe
+  Asir se koi zanjir ka maza puchhe
+  Yatim se koi dilgir ka maza puchhe
 
   2
-  Har ek pa guzra zamane may ranj o gham hae hae
-  Saha na abid e bemaar sa alam hae hae
-  Shaheed hote huwe baap ko pisar dekhe
-  Ani pa naize ki hae hae sar e pidar dekhe
+  Har ek se guzra zamane mein ranj o gham hae hae
+  Saha na Aabid-e-Bimar sa alam hae hae
+  Shahid hote hue baap ko pisar dekhe
+  Ani pe naize ki hae hae sar-e-pidar dekhe
 
   3
-  Jawan bhai ka nikla hua jigar dekhe
-  Phupi ko aankhon se balwe may nange sar dekhe
-  Kisi nabi pa na is tarha ke alam guzre
-  Jo is mareez pa har tarha ke sitam guzre
+  Jawaan bhai ka nikla hua jigar dekhe
+  Phuphi ko aaṅkhoṅ se balwe mein nange sar dekhe
+  Kisi nabi pe na is tarah ke alam guzre
+  Jo is mariz pe har tarah ke sitam guzre
 
   4
-  Shadeed tap may wo kanton pa chalna abid ka
-  Pehen ke bediyan har ek qadam pa gir padna
-  Wo zulm o jaur e sitamgar haram ka shor e buka
-  Jo jism e laaghar e abid wo dhoop wo durra
+  Shahid tap mein wo kaaṅtoṅ pe chalna Aabid ka
+  Pahan ke beriyaaṅ har ek qadam pe gir parna
+  Wo zulm o jaur-e-sitamgar, haram ka shor o buka
+  Wo jism-e-laaghar-e-Aabid wo dhup wo durra
 
   5
-  Siwa e shukr e khuda kuch na kehte thay sajjad
-  Dua e ummat e aasi may rehte they sajjad
-  Phiraya kanton pe sajjad ko ba-rehna paa
-  Nabi ke kunbe ko balwe may le gaye aada
+  Siwa-e-shukr-e-Khuda kuchh na kahte the Sajjad
+  Dua-e-ummat-e-aasi mein rahte the Sajjad
+  Phiraya kaaṅtoṅ pe Sajjad ko bah rehna paa
+  Nabi ke kunbe ko balwe mein le gaye aada
 
   6
-  Jalaya qaima e namoose sayyade waala
-  Phira ke balwe may zindan may qaid kar daala
-  Tamasha dekhne sab ahle shaam aate thay
-  Haya se ehle haram gardane jhukate thay
+  Jalaya khaima-e-namus-e-Sayyad-e-Waala
+  Phira ke balwe mein zindaaṅ mein qaid kar daala
+  Tamasha dekhne sab ahl-e-Shaam aate the
+  Haya se ahl-e-haram gardaneṅ jhukate the
 
   7
-  Sitam ke baad hua qaid se jo chutkaara
-  Layeen se baap ka sar is yateem ne maanga
-  Sar e Husain khazane se hind ne bheja
-  Sawaar oonton pe kunba hua payambar ka
+  Sitam ke baad hua qaid se jo chhutkaara
+  Laiṅ se baap ka sar is yatim ne maaṅga
+  Sar-e-Husain khazane se Hind ne bheja
+  Sawaar uṅtoṅ pe kunba hua payambar ka
 
   8
-  Lehad may laash ghareebo ke haye dharne chale
-  Mahe batool ko paiwand e khaak karne chale
-  Jo pahunche karbobala abide aseere bala
-  Pidar ko de ke kafan khaak may rakha laasha
+  Lahad mein laash ghariboṅ ki hae dharne chale
+  Mah-e-Batul ko paiwand-e-khaak karne chale
+  Jo pahunche Karbobala Aabid-e-Asir-e-Bala
+  Pidar ko de ke kafan khaak mein rakha laasha
 
   9
-  Lipat ke qabr se chillaye yun ke ay baba
-  Watan ko jaata hoo lo aakhri mera mujraa
-  Watan se aaya tha kis shaan se yahan hae hae
-  Luta ke ghar ko mai jaata hoo neem jaan hae hae
+  Lipat ke qabr se chillaye yuṅ ke ae baba
+  Watan ko jaata huṅ lo aakhri mera mujra
+  Watan se aaya tha kis shaan se yahaaṅ hae hae
+  Luta ke ghar ko main jaata huṅ nim jaaṅ hae hae
 
   10
-  Likha hai yun ke watan aaye jab shahe wala
-  Pidar ki yaad may har waqt karte thay naala
-  Nazar jo aata tha pani tho rote thay maula
-  Hamesha aankhon may phirta tha dashte karbobala
+  Likha hai yuṅ ke watan aaye jab Shah-e-Waala
+  Pidar ki yaad mein har waqt karte the naala
+  Nazar jo aata tha paani to rote the maula
+  Hamesha aaṅkhoṅ mein phirta tha hae Karbobala
 
   11
-  Pidar ke baad bhi raahat mili na abid ko
-  Dubara qaid kiya is ghareeb zaahid ko
-  Watan se legaye phir kar ke baani e shar
-  Hui bhatije ki ham raah zainab e muztar
+  Pidar ke baad bhi raahat mili na Aabid ko
+  Dobara qaid kiya is gharib zaahid ko
+  Watan se le gaye phir kar ke baani-e-shar
+  Hui bhatije ki hamraah Zainab-e-Muztar
 
   12
-  Khareeb e shaam jo pahunche wo dono nauhagar
-  Lagaya baylcha zainab ki pusht ke upar
-  Safar may zainab e bekas se chut gaye sajjad
-  Dayare shaam may phir aa ke lut gaye sajjad
+  Qarib-e-Shaam jo pahunche wo donoṅ nauhagar
+  Lagaya belcha Zainab ki pusht ke upar
+  Safar mein Zainab-e-Bekas se chhut gaye Sajjad
+  Dayaar-e-Shaam mein phir aa ke lut gaye Sajjad
 
   13
-  Phupi ko saump ke jungle may sayyade waala
-  Madine may hua daakhil wo bekas o tanha
-  Waleed sham ke hakim ne zehr bhijwaya
-  Wo sam ke khaate hi abid ne ki jahan se qaza
+  Phuphi ko sauṅp ke jangal mein Sayyad-e-Waala
+  Madine mein hua daakhil wo bekas o tanha
+  Walid Shaam ke haakim ne zahr bhijwaya
+  Wo sam ke khaate hi Aabid ne ki jahaaṅ se qaza
 
   14
-  Falak pa hoor o malak arsh ko hilaane lage
-  Zameen pe jinn o bashar sar pe khaak udane lage
-  Mohibbo daaghe alam dil pa dhar gaye sajjad
-  Jo khaya zeher tho sad haif mar gaye sajjad
+  Falak pe hur o malak arsh ko hilaane lage
+  Zamiṅ pe jin o bashar sar pe khaak uraane lage
+  Muhibboṅ daagh-e-alam dil pe dhar gaye Sajjad
+  Jo khaaya zahr to sad haif mar gaye Sajjad
 
   15
-  Nabi ki aal ko beaas kar gaye sajjad
-  Yateem hogaye baqar guzar gaye sajjad
-  Sar apna peet'te markhad se mustafa nikle
-  Kaleja thaam ke kiunkar na fatema nikle
+  Nabi ki aal ko beaas kar gaye Sajjad
+  Yatim ho gaye Baaqir guzar gaye Sajjad
+  Sar apna pitte marqad se Mustafa nikle
+  Kaleja thaam ke kiunkar na Fatema nikle
 
   16
-  Chiraghe deene nabi aaj bujh gaya ya rab
-  Nishane panjatane paak mit gaya ya rab
-  Utha jahan se sartaj ab mera ya rab
-  Khitaab bewa e abid mujhe mila ya rab
+  Chiraagh-e-din-e-Nabi aaj bujh gaya ya Rab
+  Nishaan-e-Panjtan-e-Paak mit gaya ya Rab
+  Utha jahaan se sartaaj ab mera ya Rab
+  Khitaab bewa-e-Aabid mujhe mila ya Rab
 
   17
-  Karoon mai kya meri qismat bigad gayi ya rab
-  Chaman may fatema ke oos pad gayi ya rab
-  Khuda ke arsh ka taara guzar gaya logon
-  Ghazab hai shaah hamara guzar gaya logon
+  Karuṅ main kya meri qismat bigar gayi ya Rab
+  Chaman mein Fatema ke os par gayi ya Rab
+  Khuda ke arsh ka taara guzar gaya logoṅ
+  Ghazab hai shaah hamaara guzar gaya logoṅ
 
   18
-  Wo bekason ka sahara guzar gaya logon
-  Hasan Husain ka pyara guzar gaya logon
-  Madina lut gaya ya mustafa duhaai hai
-  Najaf ujad gaya ya murtaza duhaai hai
+  Hasan Husain ka pyaara guzar gaya logoṅ
+  Madina lut gaya ya Mustafa duhaai hai
+  Najaf ujar gaya ya Murtaza duhaai hai
 ---
 
 ۱

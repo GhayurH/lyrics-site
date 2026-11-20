@@ -1,64 +1,91 @@
 ---
-title: "Logo Ay Janaza Mur Aya Mazloom Imam Hassan Da"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "لوگو اے جنازہ مُڑ آیا مظلوم امام حسن دا"
+alternateTitle: "Logo Ay Janaza Mur Aya Mazloom Imam Hassan Da"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Logo ay janaza mur aya mazloom Imam Hassan da
+  Ainj teer chalaey loka nei loka nei
+  Rang badal geya, sayed day paak kafan da
+
+  1
+  Zahra dhiya jayaan de, kul vaal gaeye nei
+  Haye Kerbobala de manzar, yaad andhay peye nei
+  Dafnonay ditha naa haye lasha haye lasha
+  Jadhon lokaa nei, Panjtan tei chothay tan da
+
+  2
+  Jodha kithe nu mileya, aey zulm kamake
+  Haye vich Kufay dhay Haider dhi, turbat nu hilakay
+  Na keetha hayaa tu badbakht aey badbakht aey
+  Qul masl ditha, Zahra dhay paak chaman da
+
+  3
+  Tabooth jadon chayaa, haye sabz kaba da
+  Haye kee haal hoya hona, Hasnain dhi maa da
+  Hath paasay tei rakh kay ro ro kay ro ro kay
+  Sukh takhiya huna, ujri nei apnay chan da
+
+  4
+  Arshan nu hila chaddiya, Farwa diyan hawan
+  Haye Qasim te yateemi ne, jadun kitiyan chawan
+  Bewarisan wangu peya rowe peya rowe
+  Taboot utay, bachra Imam e Zaman da
+
+  5
+  Turbat chu sada aayi, nabiyan de nabi di
+  Haye tazeem meri ummat, kya khoob hai keeti
+  Kay tukre kaleja kar chaddiya kar chaddiya
+  Mera mohsin hai, duniya te aap aman da
+
+  6
+  Behnan diyan kookan ne, arshan nu hilaya
+  Haye taboot Hassan da jad, mur ghar nu si aaya
+  Haq kholeya Akhtar, rab janay rab janay
+  Jad ummat ne, syed de kafan dafan da
 ---
 
-Logo Ay Janaza Mur Aya Mazloom Imam Hassan Da
+لوگو اے جنازہ مُڑ آیا مظلوم امام حسن دا
+اینج تیر چلائے لوکاں نے لوکاں نے
+رنگ بدل گیا، سید دے پاک کفن دا
 
-Ainj Teer Chalaey Loka Nei Loka Nei
+۱
+زہرا دیاں جائیاں دے، کول ول گئے نے
+ہائے کرب و بلا دے منظر، یاد آندے پئے نے
+دفنونے دِتّا نا ہائے لاشہ ہائے لاشہ
+جدوں لوکاں نے، پنجتن تے چوتھے تن دا
 
-Rang Badal Geya, Sayed Day Paak Kafan Da
+۲
+جودھا کتھے نوں ملیا، اے ظلم کما کے
+ہائے وچ کوفے دے حیدر دی، تربت نوں ہلا کے
+نا کیتا حیا تُو بدبخت اے بدبخت اے
+کُل مسل دِتّا، زہرا دے پاک چمن دا
 
-Zahra Dhiya Jayaan De, Kul Vaal Gaeye Nei
+۳
+تابوت جدوں چایا، ہائے سبز قبا دا
+ہائے کی حال ہویا ہونا، حسنین دی ماں دا
+ہتھ پاسے تے رکھ کے رو رو کے رو رو کے
+سکھ تکیا ہونا، اُجڑی نے اپنے چن دا
 
-Haye Kerbobala De Manzar, Yaad Andhay Peye Nei
+۴
+عرشاں نوں ہلا چھڈیا، فروہ دیاں ہاواں
+ہائے قاسم تے یتیمی نے، جدوں کیتیاں چھاواں
+بے وارثاں وانگوں پیا رووے پیا رووے
+تابوت اُتے، بچڑا امامِ زماں دا
 
-Dafnonay Ditha Naa Haye Lasha Haye Lasha
+۵
+تربت چوں صدا آئی، نبیاں دے نبی دی
+ہائے تعظیم میری امت، کیا خوب ہے کیتی
+کہ ٹکڑے کلیجہ کر چھڈیا کر چھڈیا
+میرا محسن ہے، دنیا تے آپ امن دا
 
-Jadhon Lokaa Nei, Panjtan Tei Chothay Tan Da
-
-Jodha Kithe Nu Mileya, Aey Zulm Kamake
-
-Haye Vich Kufay Dhay Haider Dhi, Turbat Nu Hilakay
-
-Na Keetha Hayaa Tu Badbakht Aey Badbakht Aey
-
-Qul Masl Ditha, Zahra Dhay Paak Chaman Da
-
-Tabooth Jadon Chayaa, Haye Sabz Kaba Da
-
-Haye Kee Haal Hoya Hona, Hasnain Dhi Maa Da
-
-Hath Paasay Tei Rakh Kay Ro Ro Kay Ro Ro Kay
-
-Sukh Takhiya Huna, Ujri Nei Apnay Chan Da
-
-Arshan Nu Hila Chaddiya, Farwa Diyan Hawan
-
-Haye Qasim Te Yateemi Ne, Jadun Kitiyan Chawan
-
-Bewarisan Wangu Peya Rowe Peya Rowe
-
-Taboot Utay, Bachra Imam E Zaman Da
-
-Turbat Chu Sada Aayi, Nabiyan De Nabi Di
-
-Haye Tazeem Meri Ummat, Kya Khoob Hai Keeti
-
-Kay Tukre Kaleja Kar Chaddiya Kar Chaddiya
-
-Mera Mohsin Hai, Duniya Te Aap Aman Da
-
-Behnan Diyan Kookan Ne, Arshan Nu Hilaya
-
-Haye Taboot Hassan Da Jad, Mur Ghar Nu Si Aaya
-
-Haq Kholeya Akhtar, Rab Janay Rab Janay
-
-Jad Ummat Ne, Syed De Kafan Dafan Da
+۶
+بھیناں دیاں کوکاں نے، عرشاں نوں ہلایا
+ہائے تابوت حسن دا جد، مُڑ گھر نوں سی آیا
+حق کھولیا اختر، رب جانے رب جانے
+جد امت نے، سید دے کفن دفن دا

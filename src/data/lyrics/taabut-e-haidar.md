@@ -12,7 +12,7 @@ tags: []
 aliases: ["Taboot E Hyder"]
 published: true
 romanLyrics: |-
-  Ye kaisa hai shor-e-girya hai
+  Ye kaisa hai shor-e-giryaaṅ hai
   Kaisa maatam hai kaisa nauha
   Ye kis ka taabut uth raha hai
   Jo log aansu bahaa rahe haiṅ
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   1
   Udaas Kufe ki masjideṅ haiṅ
-  Har sar barahna har ek jamaaat
+  Har sar barahna har ek jamaat
   Hawaaeṅ sar ko patak rahi haiṅ
   Sitaare nauha sunaa rahe haiṅ
 
@@ -32,18 +32,18 @@ romanLyrics: |-
   Tamaam bewaaeṅ haiṅ pareshaaṅ
   Yatim bachche hai chaak daaman
   Khabar jo rakhte haiṅ bekasoṅ ki
-  Wo aaj Kufe se jaa rahe haiṅ
+  Woh aaj Kufe se jaa rahe haiṅ
 
   3
   Hai betiyoṅ ki ajab ye haalat
-  Padar se hoti hai aaj ruqsat
+  Padar se hoti hai aaj rukhsat
   Hasan hai khaamosh sar jhukaae
   Husain aansu bahaa rahe haiṅ
 
   4
   Musalla khun-e-Ali meiṅ tar hai
   Khamosh minbar udaas ghar hai
-  Hai rozadaaroṅ pe ik qayaamat
+  Hai roza daaroṅ pe ik qayaamat
   Lahu ke aansu bahaa rahe haiṅ
 
   5
@@ -54,14 +54,14 @@ romanLyrics: |-
 
   6
   Namaaziyoṅ meiṅ hai beqaraari
-  Utha saroṅ se Ali ka saaya
+  Uthaa saroṅ se Ali ka saaya
   Hai tis paaroṅ meiṅ shor-e-girya
   Sahifeṅ nauha sunaa rahe hai
 
   7
   Tamaam paighambaraan-e-barhaq
   Ali ke rone ko aae Kufa
-  Ali ka taabut utha raha hai
+  Ali ka taabut uthaa raha hai
   Tamaam kaandha lagaa rahe haiṅ
 
   8

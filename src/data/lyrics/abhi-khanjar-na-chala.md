@@ -18,14 +18,14 @@ romanLyrics: |-
   Abhi khanjar na chala, abhi khanjar na chala
   Zaalim abhi khanjar na chala...
   Lut mat bahr-e-Khuda Fatema Zehra ka chain
-  Aur kuch der thehar ja are zaalim ke Husain
+  Aur kuch der thehar ja are zaalim keh Husain
   Bakhshish-e-ummat-e-jad ki abhi karte haiṅ dua
   Abhi khanjar na chala...
   Tin din ho gaye pyaasa hai Nabi ka jaani
   Zibh karna hai to do ghunt pila de paani
   Kund khanjar hai mere bhai ka sukha hai gala
   Abhi khanjar na chala...
-  Bosagaah-e-nabawi hai ye gala ae zaalim
+  Bosa gaah-e-nabawi hai ye gala ae zaalim
   Shah rag-e-diṅ pe khanjar na chala ae zaalim
   Chumte the isi halqum ko Mahbub-e-Khuda
   Abhi khanjar na chala...

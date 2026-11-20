@@ -12,26 +12,26 @@ aliases: []
 published: true
 reciter: "Farhan Ali Waris"
 romanLyrics: |-
-  Husain Husain Ya Husain
+  Husain Husain ya Husain
   Koi nahiṅ dur tak koi nahiṅ
   Jaisa mera Husain
   Waisa koi bhi nahiṅ
 
   1
-  Aisa dunya meiṅ koi hai na hoga
+  Aisa duniya mein koi hai na hoga
   Husain wo baadshah hai jo mulkoṅ pe nahiṅ
   Diloṅ pe hukumat karta hai
   Husain hamara hai
-  Jaan se bhi pyara hai
+  Jaan se bhi pyaara hai
   Aankhoṅ ka taara hai
-  Sab ka sahara hai
+  Sab ka sahaara hai
   Aisa mera Husain
   Mera Maula Husain
   Husain Husain Husain
   Husaina Husaina
 
   2
-  Is ke liye hi saari dunya bani hai
+  Is ke liye hi saari duniya bani hai
   Jo is ko maane wohi Panjtani hai
   Har dil pe raaj us ka
   Sab kuchh hai aaj us ka
@@ -43,9 +43,9 @@ romanLyrics: |-
   3
   Haq pe hai kaun tu ne sab ko bata diya
   Naam-e-Yazid ko gaali bana diya
-  Wo murdabad raha
-  Tu zindabad raha
-  Wada nibha gaya
+  Wo murda baad raha
+  Tu zinda baad raha
+  Waada nibha gaya
   Sar ko kata gaya
   Ghar ko luta gaya
   Zehnoṅ pe chha gaya
@@ -55,46 +55,46 @@ romanLyrics: |-
   Ye sadi bhi hai gham-e-Husain ki
   Har sadi hai bas gham-e-Husain ki
   Maula se dil ka rishta
-  Kal bhi tha aaj bhi hai
+  Kal bhi tha, aaj bhi hai
   Is ka parcham to uncha
-  Kal bhi tha aaj bhi hai
-  Har ghar pe matam barpa
-  Kal bhi tha aaj bhi hai
-  Har lab pe us ka nauha
-  Kal bhi tha aaj bhi hai
-  Qabza har dil pe is ka Wallah
-  Kal bhi tha aaj bhi hai
-  Aisa dunya meiṅ koi hai na hoga
+  Kal bhi tha, aaj bhi hai
+  Har ghar pe maatam barpa
+  Kal bhi tha, aaj bhi hai
+  Har lab pe us ka noha
+  Kal bhi tha, aaj bhi hai
+  Qabza har dil pe is ka, wallah
+  Kal bhi tha, aaj bhi hai
+  Aisa duniya mein koi hai na hoga
   Wallah
 
   5
   Har koi maane jise apna Imam
-  Saari zabanoṅ pe hai ek hi naam
-  Hindu Muslim Isai
+  Saari zabaanoṅ pe hai ek hi naam
+  Hindu Muslim Isaai
   Is dar pe bhai bhai
-  Dharti ka raja hai
+  Dharti ka raaja hai
   Hum sab ka maula hai
   Har koi kehta hai
-  Har dil meiṅ rehta hai
+  Har dil mein rehta hai
 
   6
-  Dil jaan jaan-e-jaana
+  Dil jaan jaan-e-jaanaa
   Jaan-e-man Husain jaan
-  Dil jaan jaan-e-jaana
+  Dil jaan jaan-e-jaanaa
   Jaan-e-man Husain jaan
-  Husaino minni wa ana minal Husain
+  Husain wa minni wa ana min al-Husain
   Bole Nabi mera chain hai ye nur-e-ain
   Mera sawaar hai ye
-  Dil ka qarar hai ye
-  Fatima is ki maaṅ
-  Baba kull-e-iman
+  Dil ka qaraar hai ye
+  Faatima is ki maaṅ
+  Baaba kull-e-iman
   Aisa shajra kahaṅ
   Sun le saara jahaṅ
 
   7
-  Khidmat-e-aza ki karta maiṅ aaya
-  Wirsa yehi aulad meiṅ paya
-  Majlis girya o matam
+  Khidmat-e-aza ki karta main aaya
+  Wirsa yehi aulad mein paaya
+  Majlis girya o maatam
   Karte raheṅge har dam
   Mujh ko hai ye sukuṅ
   Hai paak mera khuṅ
@@ -102,13 +102,13 @@ romanLyrics: |-
   Bolega ye junuṅ
 
   8
-  Zinda rahega painda rahega
+  Zinda rahega paayanda rahega
   Maula Husain ka naam
-  Zinda rahega painda rahega
+  Zinda rahega paayanda rahega
   Maula Husain ka naam
   Karbobala ka sani koi nahiṅ Husain
   Aa ke yahaṅ pe ye kahe zairin
-  Ye paak sarzamin
+  Ye paak sar zamin
   Milta hai Rab yahiṅ
   Ye hai khaak-e-shifa
   Kehte haiṅ Anbiya
@@ -116,69 +116,69 @@ romanLyrics: |-
   Jannat bana diya
   Jannat hai rauza tera
   Jannat hai puri ye Karbobala
-  Ae Wallah Ae Wallah
+  Ae wallah, ae wallah
   Jannat hai Karbala
   Husain Husain
 
   9
-  Jaa ke dekho Arbain
+  Jaa ke dekho Arbaain
   Manzar ye dekha kahiṅ
-  Hota hai aisa yahiṅ
+  Hota hai aisa yahi
   Hai karoroṅ zairin
   Chhor aae apna ghar
   Karte haiṅ paidal safar
   Har taraf hai sar hi sar
   Hai thakan se bekhabar
-  Sardi meiṅ garmi meiṅ bhi
-  Hai safar meiṅ har ghari
-  Din meiṅ shab meiṅ har koi
+  Sardi mein garmi mein bhi
+  Hai safar mein har ghari
+  Din mein shab mein har koi
   Karta rehta hai mashi
   Sab ka ye daata hai
-  Har dil ko bhata hai
-  Dar pe bulata hai
-  Rab se milata hai
+  Har dil ko bhaata hai
+  Dar pe bulaata hai
+  Rab se milaata hai
 
   10
-  Sad alwida Husaina
-  Sad alwida Husaina
+  Sad alwida Husain
+  Sad alwida Husain
   Husain tera shukriya
-  Bulaya tu ne Karbala
+  Bulaaya tu ne Karbala
   Dua hai ye Farhan ki
-  Na ho ye ziyarat aakhri
-  Tum apne Mazhar ko sada
-  Bulana Maula Karbala
+  Na ho ye ziyarat aakhiri
+  Tum apne Mazhar ko sadaa
+  Bulaana Maula Karbala
 
   11
   Baadshah-e-Karbala
-  Alwida yabna Zahra
+  Alwida yabna z-Zahra
   Tishna-lab-e-Nainawa
-  Alwida yabna Zahra
+  Alwida yabna z-Zahra
   Tere purse ka Maula
   Haq ada na ho saka
   Zawwaroṅ ki khidmat ka
   Haq ada na ho saka
-  Phir dar pe bulwa lena
-  Alwida yabna Zahra
-  Zawwari karwa dena
-  Alwida yabna Zahra
+  Phir dar pe bulwaa lena
+  Alwida yabna z-Zahra
+  Zawwari karwaa dena
+  Alwida yabna z-Zahra
   Qabul karna pursa
-  Alwida yabna Zahra
-  Ye matam aur ye noha
-  Alwida yabna Zahra
+  Alwida yabna z-Zahra
+  Ye maatam aur ye noha
+  Alwida yabna z-Zahra
 
   12
   Dete haiṅ tum ko pursa
-  Alwida yabna Zahra
+  Alwida yabna z-Zahra
   Kehte haiṅ Ahl-e-Aza
-  Alwida yabna Zahra
-  Wawaila Sad Wawaila
-  Alwida Ya Husain
-  Wawaila Sad Wawaila
-  Alwida Ya Husain
-  Alwida Alwida yabna Zahra Alwida
-  Alwida Alwida yabna Zahra Alwida
-  Alwida Ya Husain
-  Alwida Ya Husain
+  Alwida yabna z-Zahra
+  Waawaila, sad waawaila
+  Alwida ya Husain
+  Waawaila, sad waawaila
+  Alwida ya Husain
+  Alwida, alwida yabna z-Zahra, alwida
+  Alwida, alwida yabna z-Zahra, alwida
+  Alwida ya Husain
+  Alwida ya Husain
 ---
 حسین حسین یا حسین
 کوئی نہیں دور تک کوئی نہیں

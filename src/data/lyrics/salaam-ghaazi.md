@@ -33,14 +33,14 @@ romanLyrics: |-
 
   3
   Alam ka jab se hua hai saaya
-  Zamin-e-Karbobala pe Maula
+  Zamin-e-Karb o Bala pe Maula
   Tera hai chalta nizaam Ghaazi
   Wafa ka tu hai imaam Ghaazi
 
   4
-  Tu bawafa hai tu la fata hai
+  Tu bawafa hai tu laa fataa hai
   Beaasroṅ ka tu aasra hai
-  Jahaaṅ meiṅ charcha hai aam Ghaazi
+  Jahaaṅ mein charcha hai aam Ghaazi
   Wafa ka tu hai imaam Ghaazi
 
   5
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   7
   Ghulaam sharminda hai ye Maula
-  Na laasha khaimoṅ meiṅ le ke jaana
+  Na laasha khaimoṅ mein le ke jaana
   Tha lab pe tere kalaam Ghaazi
   Wafa ka tu hai imaam Ghaazi
 

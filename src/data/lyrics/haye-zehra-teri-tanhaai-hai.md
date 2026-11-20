@@ -9,74 +9,45 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haye zehra teri tanhai hai tanhai ali ki
-
+romanLyrics: |-
+  Haye Zehra teri tanhaai hai tanhaai Ali ki
 
   1
-
-  Haye gham mein tere jaati rahi beenayi ali ki
-
-  Teri tanhai hai tanhai ali ki
-
-  Darbar mein zaalim ke gayi binte payambar
-
-  Kya waqt tha kuch kar na saka faatahe khyber
-
-  Haye haste rahe ghurbat pe tamashayi ali ki
-
+  Haye gham mein tere jaati rahi binaai Ali ki
+  Teri tanhaai hai tanhaai Ali ki
+  Darbaar mein zaalim ke gayi Bint-e-Payambar
+  Kya waqt tha kuchh kar na saka Faateh-e-Khyber
+  Haye hanste rahe ghurbat pe tamaashaai Ali ki
 
   2
-
-  Paighame wilayat liye ghar ghar gayi zehra
-
+  Paighaam-e-wilaayat liye ghar ghar gayi Zehra
   Shohar ke liye dhaal thi jab tak rahi zinda
-
-  Haye dunya ko batati rahi sachayi ali ki
-
+  Haye duniya ko bataati rahi sachchaai Ali ki
 
   3
-
-  Kehte thay ali zehra se kya haal hai bibi
-
-  Ab hum ko salam aake bhi karta nahi koi
-
-  Haye hai baade nabi kaisi pazeerayi ali ki
-
+  Kehte the Ali Zehra se kya haal hai Bibi
+  Ab hum ko salaam aa ke bhi karta nahiṅ koi
+  Haye hai baad-e-Nabi kaisi paziraai Ali ki
 
   4
-
-  Dar jalta hua fatema zehra pe giraya
-
-  Mohsin ki shahadat ka sabab bangayi dunya
-
-  Haye tasveer mukammal nahi ho payi ali ki
-
+  Dar jalta hua Fatema Zehra pe giraaya
+  Mohsin ki shahaadat ka sabab ban gayi duniya
+  Haye tasvir mukammal nahiṅ ho paayi Ali ki
 
   5
-
-  Baahar kabhi hujre mein kabhi qabr e nabi par
-
-  Har raat ki tareeki mein aulaad se chup kar
-
-  Haye nikli hai tujhe dhoondne beenayi ali ki
-
+  Baahar kabhi hujre mein kabhi qabr-e-Nabi par
+  Har raat ki taariki mein aulaad se chhup kar
+  Haye nikli hai tujhe dhunrne binaai Ali ki
 
   6
-
-  Zahra ki judaai ko lagaye huwe dil se
-
-  Pachees baras maula ne chup chaap guzare
-
-  Haye ek hujre mein kul dunya simat aayi ali ki
-
+  Zahra ki judaai ko lagaaye hue dil se
+  Pachchis baras Maula ne chup chaap guzaare
+  Haye ik hujre mein kul duniya simat aayi Ali ki
 
   7
-
-  Us waqt takallum wo zamane ka wali tha
-
-  Sajjad jo zainab ko liye shaam se guzra
-
-  Haye islam ko khamoshi bacha laayi ali ki'
+  Us waqt Takallum wo zamaane ka wali tha
+  Sajjaad jo Zainab ko liye Shaam se guzra
+  Haye Islaam ko khaamoshi bacha laayi Ali ki
 ---
 
 ہائے زہراؑ تیری تنہائی ہے تنہائی علیؑ کی

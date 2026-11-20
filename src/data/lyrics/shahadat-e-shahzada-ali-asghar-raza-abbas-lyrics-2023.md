@@ -8,113 +8,70 @@ poet: "Zeeshan Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Shahadat E Shahzada Ali Asghar Raza Abbas Lyrics 2023"
-romanLyrics: 'Shahadat e Shahzada Ali Asghar Syed Raza Abbas Zaidi.
-
+alternateTitle: "Shahadat-e-Shahzada Ali Asghar Raza Abbas Lyrics 2023"
+romanLyrics: |-
+  Shah jab laasha-e-besheer ko haathoṅ pe liye
+  Haye maidaan se khaimoṅ ke taraf jaane lage
 
   1
-
-  Shah Jab Lasha-e-Be Sheer Ko Hathoon Pe Liye.
-
-  Haye Maidan Se Khaimon Ki Taraf Jane Lagay.
-
-  Rah Mein Saat Qadam Aagay Barhey Pichey Hatay.
-
-  Apne Zanu Pe Phir Asghar Ka Janaza Rakh Ke.
-
-  Kaisay Shabeer Ne Dil Apna Sanbhala Hoga.
-
-  Teer Jab Gardan-e-Asghar Se Nikala Hoga.
-
+  Raah mein saath qadam aage barhe pichhe hate
+  Apne zaanuṅ pe phir Asghar ka janaaza rakh ke
+  Kaise Shabbir ne dil apna sanbhaala hoga
+  Tir jab kardan-e-Asghar se nikaala hoga
 
   2
-
-  Khainch Kar Teer Phir Ik Bar Sheh-e-Deen Chaley.
-
-  Lash Uthaye Hoye Jab Khaimay Keh Dar Par Pohanchay.
-
-  Pardah Khaimay Ka Hatatay Hoye Kuch Dair Rukay.
-
-  Yaad Jab Aaein Sakina Tu Yeh Keh Kar Paltay.
-
-  Gham Se Mar Jaye Gi Jab Samne Aaye Gi Behan.
-
-  Bhai Ka Zakhmi Gala Dekh Na Paye Gi Behan.
-
+  Khainch kar tir phir is baar shah-e-din chale
+  Laash uthaaye hue jab khaime ke dar par pahunche
+  Parda khaime ka hataate hue kuchh der ruke
+  Yaad jab aai Sakina to yeh keh kar palte
 
   3
-
-  Aa Gaye Lasha Liye Khaimon Ke Pichey Sheh-e-Dein.
-
-  Bolay Asghar Ki Taraf Dekh Ke Aye Mere Haseen.
-
-  Kash Keh Hum Bhi Tere Sath Hi Mar Jate Wahin.
-
-  Haye Itna Tu Tujhe Teer Ne Bhi Mara Nahi.
-
-  Ran Mein Mara Hai Tujhe Garam Hawa Ne Jitna.
-
-  Munh Khula Reh Gaya Pyasa Tha Na Jane Kitna.
-
+  Gham se mar jaaeṅge jab saamne aaye gi bahan
+  Bhai ka zakhmi gala dekh na paaye gi bahan
+  Aa gaye laasha liye khaimoṅ ke pichhe shah-e-diṅ
+  Bole Asghar ke taraf dekh ke ae mere hasiṅ
 
   4
-
-  Shiddat-e-Dhop Woh Sehra Ki Tapish Lo Ki Chubhan.
-
-  Qabar Talwar Se Jab Khod Chukay Shah-e-Zaman.
-
-  Rokay Kehne Lagay Phaila Ke Abba Ka Daman.
-
-  Kahan Yeh Jalti Zameen Our Kahan Nazuk Sa Badan.
-
-  Kabhi Choma Kabhi Seene Se Lagaya Lasha.
-
-  Baap Ne Qabar Mein Rakh Rakh Ke Uthaya Lasha.
-
+  Kaash ke ham bhi tere saath hi mar jaate wahi
+  Haye itna to mujhe tir ne bhi maara nahiṅ
+  Ran mein maara hai tujhe garam hawa ne jitna
+  Munh khula reh gaya pyaasa tha na jaane kitna
 
   5
-
-  Ya Ali Keh Ke Jo Phir Qabar Mein Lasha Rakha.
-
-  Maa Na Aa Jaye Kayi Bar Yeh Uth Kar Dekha.
-
-  Paon Ki Simt Se Tadfeen Ka Aagaz Kiya.
-
-  Tan Chupatay Hoye Jab Hath Galay Tak Pohancha.
-
-  Bosa Be Sheer Ki Gardan Ka Bari Dair Liya.
-
-  Khak Mein Chehra Chupatay Hoye Munh Phair Liya.
-
+  Shiddat-e-dhup woh sehra ke tapish lo ki chhubhan
+  Qabr talwaar se jab khod chuke shah-e-zaman
+  Ro ke kehne lage phaila ke aba ka daaman
+  Kahaaṅ yeh jalti zamiṅ aur kahaaṅ naazuk sa badan
 
   6
-
-  Sar Charhaye Gaye Jab Naizon Pe Ik Sar Na Mila.
-
-  Khak Mein Naiza Garhatay Hoye Zalim Nikla.
-
-  Dhondtay Dhondtay Woh Khaimon Ke Pichey Pohancha.
-
-  Mar Kar Naiza Jo Khaincha Tu Badan Sath Aaya.
-
-  Ran Mein Jab Umm-e-Rubab Aaein Yeh Manzar Dekha.
-
-  Apne Bachay Ka Badan Nook-e-Sina Par Dekha.
-
+  Kabhi chuma kabhi sine se lagaaye laasha
+  Baap ne qabr mein rakh rakh ke uthaaya laasha
+  Ya Ali keh ke jo phir qabr mein laasha rakha
+  Maaṅ ne na jaane kai baar yeh uth kar dekha
 
   7
+  Paaoṅ ke simt se tadfin ka aaghaaz kiya
+  Tan chhupaate hue jab haath gale tak pahuncha
+  Bosa besheer ke gardan ka bari der liya
+  Khaak mein chehra chhupaate hue munh pher liya
 
-  Haye Zeeshan-o- Raza Zulm Yahan Bhi Na Ruka.
+  8
+  Sar charhaaye gaye jab nezoṅ pe ik sar na mila
+  Khaak mein neza garhaate hue zaalim nikla
+  Dhundte dhundte woh khaimoṅ ke pichhe pahuncha
+  Maar kar neza jo khaincha to badan saath aaya
 
-  Jab Taraptay Hoye Be Sheer Ki Maa Ko Dekha.
+  9
+  Ran mein jab Umm-e-Rubaab aai yeh manzar dekha
+  Apne bachche ka badan nok-e-sinaaṅ par dekha
+  Haye Zeeshaan o Raza zulm yahaaṅ bhi na ruka
+  Jab tarapte hue besheer ki maaṅ ko dekha
 
-  Oss Ne Naizay Se Badan Khainch Ke Mati Pe Rakha.
-
-  Samne Maa Ke Gala Kaat Diya Asghar Ka.
-
-  Yeh Laeen Jane Ya Maa Jane Ya Jane Asghar.
-
-  Naiza Oss Sar Mein Piroya Tha Ya Phir Naizay Mein Sar.'
+  10
+  Us ne neze se badan khainch ke mitti pe rakha
+  Saamne maaṅ ke gala kaat diya Asghar ka
+  Yeh laiṅ jaane ya maaṅ jaane ya jaane Asghar
+  Neza us sar mein piroya tha ya phir neze mein sar
 ---
 
 شاہ جب لاشہء بے شیر کو ہاتھوں پہ لیےء

@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Diwana-e-Haider huṅ maiṅ ishq se sarshaar
   Abbas ka naukar huṅ Shah-e-Diṅ ka azaadaar
-  Phir kiuṅ na kahuṅ maiṅ keh muqaddar ka dhani huṅ
+  Phir kiuṅ na kahuṅ maiṅ ke muqaddar ka dhani huṅ
 
   3
   Muhtaaj nahiṅ huṅ maiṅ zamaane meiṅ kisi ka
@@ -47,13 +47,13 @@ romanLyrics: |-
 
   7
   Kehte haiṅ jise khuld woh ghar mere liye hai
-  Ta arsh-e-bariṅ izn-e-safar mere liye hai
+  Taa arsh-e-bariṅ izn-e-safar mere liye hai
   Maiṅ koi farishta huṅ malak huṅ na pari huṅ
 
   8
   Roshan meri taqdir hai bezaar hai ehsaas
   Hasnain ki ulfat ke ujaale haiṅ mere paas
-  Maiṅ Gohar-e-Naayaab huṅ farzand-e-Wali huṅ
+  Maiṅ Gohar-e-naayaab huṅ farzand-e-Wali huṅ
 ---
 
 دعویٰ ہے میرا نارِ جہنم سے بری ہوں

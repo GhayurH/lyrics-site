@@ -1,6 +1,6 @@
 ---
 title: "عباسؑ جو دریا سے پلٹ کر نہیں آیا"
-alternateTitle: "Abbas Jo Dariya Se Palat Kar Nahi Aayya"
+alternateTitle: "Abbas Jo Dariya Se Palat Kar Nahiṅ Aaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,45 +9,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas jo dariya se palat kar nahi aaya
-  Saadaat ko phir chain mayasser nahi aaya
+  Abbas jo dariya se palat kar nahiṅ aaya
+  Saadaat ko phir chain muyassar nahiṅ aaya
 
   1
-  Tukre huwe laasho pe bukaa karti thi Zehra
-  Abbas ke baazu hay yeh Shabir ka seena
-  Yak ja koi laasha bhi zameen par nahi aaya
+  Tukre hue laashoṅ pe bukaa karti thi Zehra
+  Abbas ke baazu hai yeh Shabbir ka seena
+  Yak jaa koi laasha bhi zameen par nahiṅ aaya
 
   2
-  Har Bibi ko ek aas thi Abbas ke dum se
-  Lipti huwi Zainab yehi kehti thi alam se
-  Maqtal se mera zaamine chaadar nahi aaya
+  Har Bibi ko ek aas thi Abbas ke dam se
+  Lipti hui Zainab yehi kehti thi alam se
+  Maqtal se mera zaamin-e-chaadar nahiṅ aaya
 
   3
-  Jab maare gaye haaye Sakina ko tamache
-  Roti rahi wo haatho se chereh ko chupake
-  Behlaneh koi mooniso yawar nahi aaya
+  Jab maare gaye haaye Sakina ko tamaanche
+  Roti rahi woh haathoṅ se chehre ko chhupa ke
+  Behlaane koi munis o yaawar nahiṅ aaya
 
   4
-  Jab shaameh alam aa gayi kohraam bapa tha
-  Jalte huwe khaimo ka dhuwaa dundh raha tha
-  Saqqa e haram sani e Haider nahi aaya
+  Jab shaam-e-alam aa gayi kohraam bapa tha
+  Jalte hue khaimoṅ ka dhuwaaṅ dhund raha tha
+  Saqqa-e-haram saani-e-Haider nahiṅ aaya
 
   5
-  Abbas ka sar neze pe rukh ta hi nahi tha
-  Jab Shaam ki raaho mei sadaa deti Sakina
-  Jab kehti thi Zainab ke biraadar nahi aaya
+  Abbas ka sar neze pe rukta hi nahiṅ tha
+  Jab Shaam ki raahoṅ mein sadaa deti Sakina
+  Jab kehti thi Zainab keh baraadar nahiṅ aaya
 
   6
-  Ghash khaa ke gireh qabre Sakina pe jo Sajjad
-  Karti thi laraz ti huwi zanjeer ye faryaad
-  Ghum konsa Maula tere dil par nahi aaya
+  Ghash khaa ke gire qabr-e-Sakina pe jo Sajjad
+  Karti thi larazti hui zanjeer yeh faryaad
+  Gham kaun sa Maula tere dil par nahiṅ aaya
 
   7
-  Ab tak hay Samar karbobala ka yahi nauha
+  Ab tak hai Samar karb o bala ka yahi nauha
   Saahil pe tarapta raha Abbas ka laasha
-  Phir Hashmi metaab ufaq par nahi aaya
+  Phir Haashmi mahtaab ufaq par nahiṅ aaya
 
-  Abbas jo dariya se palat kar nahi aaya
+  Abbas jo dariya se palat kar nahiṅ aaya
 ---
 
 عباسؑ جو دریا سے پلٹ کر نہیں آیا

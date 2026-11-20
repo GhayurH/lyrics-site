@@ -1,35 +1,60 @@
 ---
-title: "Shabar Ka Jigar Tukray Tukray Qasim Ka Badan Tukray Tukray"
+title: "شبر کا جگر ٹکڑے ٹکڑے قاسم کا بدن ٹکڑے ٹکڑے"
+alternateTitle: "Shabar Ka Jigar Tukray Tukray Qasim Ka Badan Tukray Tukray"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Bilal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shabar ka jigar tukray tukray Qasim ka badan tukray tukray
+  Afsos sitam garon ne kiya zahar ka chaman tukray tukray
+  Zahra ke goad ke palon par Allah yeh kaisi ghurbat hai
+  Ik lash tu hai muhtaj-e-kafan hai ik ka kafan tukray tukray
+
+  2
+  Shabar ka janaza teeron se Yasrab mein howa chalni chalni
+  Qasim ka badan ghoron se howa aye charkh-e-kohan tukray tukray
+  Roye gi kabhi chalaye gi ghash bali Sakina khaye gi
+  Dekhe gi bhala kin aankhon se bhai ko behan tukray tukray
+
+  3
+  Qasim ke janaze par Sarwar ta dair yeh keh kar rote rahe
+  Kis tarha uthaon lash teri hai tera badan tukray tukray
+  Lo pusht-e-faras se girta hai ik tera baras ka shehzada
+  Sadmay se larzti hai dharti hai gham se gagan tukray tukray
+
+  4
+  Khud apne jigar ke tukron ko pehchan na payi madar bhi
+  Ghoron ke sumo se aisa howa hai tashna dahan tukray tukray
+  Khamosh Bilal Shah-e-Zamaan aasan nahi pyasay ka biyaan
+  Hoti hai atash paiwasta galo hota hai sukhan tukray tukray
 ---
 
-1
-Shabar Ka Jigar Tukray Tukray Qasim Ka Badan Tukray Tukray.
-Afsos Sitam Garon Ne Kiya Zahar Ka Chaman Tukray Tukray.
-Zahra Ke Goad Ke Palon Par ALLAH Yeh Kaisi Ghurbat Hai.
-Ik Lash Tu Hai Muhtaj-e-Kafan Hai Ik Ka Kafan Tukray Tukray.
+۱
+شبر کا جگر ٹکڑے ٹکڑے قاسم کا بدن ٹکڑے ٹکڑے
+افسوس ستم گروں نے کیا زہر کا چمن ٹکڑے ٹکڑے
+زہرا کے گود کے پالوں پر اللہ یہ کیسی غربت ہے
+اک لاش تو ہے محتاجِ کفن ہے اک کا کفن ٹکڑے ٹکڑے
 
-2
-Shabar Ka Janaza Teeron Se Yasrab Mein Howa Chalni Chalni.
-Qasim Ka Badan Ghoron Se Howa Aye Charkh-e-Kohan Tukray Tukray.
-Roye Gi Kabhi Chalaye Gi Ghash Bali Sakina Khaye Gi.
-Dekhe Gi Bhala Kin Aankhon Se Bhai Ko Behan Tukray Tukray.
+۲
+شبر کا جنازہ تیروں سے یثرب میں ہوا چھلنی چھلنی
+قاسم کا بدن گھوڑوں سے ہوا اے چرخِ کہن ٹکڑے ٹکڑے
+روئے گی کبھی چلائے گی غش بالی سکینہ کھائے گی
+دیکھے گی بھلا کن آنکھوں سے بھائی کو بہن ٹکڑے ٹکڑے
 
-3
-Qasim Ke Janaze Par Sarwar Ta Dair Yeh Keh Kar Rote Rahe.
-Kis Tarha Uthaon Lash Teri Hai Tera Badan Tukray Tukray.
-Lo Pusht-e-Faras Se Girta Hai Ik Tera Baras Ka Shehzada.
-Sadmay Se Larzti Hai Dharti Hai Gham Se Gagan Tukray Tukray.
+۳
+قاسم کے جنازے پر سرور تا دیر یہ کہہ کر روتے رہے
+کس طرح اٹھاؤں لاش تیری ہے تیرا بدن ٹکڑے ٹکڑے
+لو پشتِ فرس سے گرتا ہے اک تیرہ برس کا شہزادہ
+صدمے سے لرزتی ہے دھرتی ہے غم سے گگن ٹکڑے ٹکڑے
 
-4
-Khud Apne Jigar Ke Tukron Ko Pehchan Na Payi Madar Bhi.
-Ghoron Ke Sumo Se Aisa Howa Hai Tashna Dahan Tukray Tukray.
-Khamosh Bilal Shah-e-Zamaan Aasan Nahi Pyasay Ka Biyaan.
-Hoti Hai Atash Paiwasta Galo Hota Hai Sukhan Tukray Tukray.
+۴
+خود اپنے جگر کے ٹکڑوں کو پہچان نہ پائی مادر بھی
+گھوڑوں کے سموں سے ایسا ہوا ہے تشنہ دہن ٹکڑے ٹکڑے
+خاموش بلال شاہِ زماں آسان نہیں پیاسے کا بیاں
+ہوتی ہے آتش پیوستہ گلو ہوتا ہے سخن ٹکڑے ٹکڑے

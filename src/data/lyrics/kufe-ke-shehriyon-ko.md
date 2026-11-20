@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Diwaar o dar ko Sughra kya de jawaab aakhir
-  Sannaata puchhta hai kab aayeṅge musaafir
+  Sannaata puchhta hai kab aayeṅ ge musaafir
   Sughra ka haal kya hai kaise koi bataaye
 
   6

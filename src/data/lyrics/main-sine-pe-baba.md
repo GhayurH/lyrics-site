@@ -41,8 +41,8 @@ romanLyrics: |-
 
   4
   Jal chuke khaime aur chaadareṅ chhin chuki
-  Berida meri phuphiyaaṅ hai baithi wahiṅ
-  Is jagah bhi na aa jaaye Shimr laiṅ
+  Berida meri phuphiyaaṅ hai baithi wahi
+  Is jagah bhi na aa jaaye Shimr la'iṅ
   Mera kurta jala chhin chuki baaliyaaṅ
   Tir hi tir hai
 

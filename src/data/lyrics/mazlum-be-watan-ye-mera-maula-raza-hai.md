@@ -13,43 +13,43 @@ aliases:
   - "Mazloom Be Watan Ye Mera Moula Raza Hai"
 published: true
 romanLyrics: |-
-  Mazlum bewatan Ye Mera Maula Raza Hai
-  Haye Jisko Zehar Logoṅ Musalmaaṅ ne Diya Hai
+  Mazlum be watan ye mira Maula Raza hai
+  Haaye jisko zehr logoṅ musalmaaṅ ne diya hai
 
   1
-  Mamun Abbasi Ki Inaayat Hai Yeh Logo
-  Haye Aal-e-Payamber Se Adaawat Hai Yeh Logo
-  Syedoṅ Se Zara Dekho, Yeh Ummat Ki Wafa Hai
+  Maamun Abbasi ki inaayat hai ye logoṅ
+  Haaye Aal-e-Payambar se adaawat hai ye logoṅ
+  Sayyidoṅ se zara dekho, ye ummat ki wafa hai
 
   2
-  Sab Aankheiṅ Karo Band Duhai Hai Duhai
-  Ik Bibi Azadaro Yahaṅ Sham Se Aayi
-  Lipti Hai Janaze Se, Nahi Sar Pe Rida Hai
+  Sab aankheṅ karo band duhaai hai duhaai
+  Ik Bibi azaadaaro yahaaṅ Shaam se aai
+  Lipti hai janaaze se, nahiṅ sar pe rida hai
 
   3
-  Aaye Haiṅ Janaze Pe Nabi, Shah-e-Ummam Bhi
-  Kulsum, Ruqaiya Bhi Haiṅ Masuma-e-Qum Bhi
-  Woh Bibi Hai Karbal Meiṅ, Jali Jis Ki Abaa Hai
+  Aaye haiṅ janaaze pe Nabi, Shaah-e-Umam bhi
+  Kulsum, Ruqaiya bhi haiṅ, Maasuma-e-Qum bhi
+  Woh Bibi hai Karbal meiṅ, jali jis ki abaa hai
 
   4
-  Yuṅ Luta Musalmano Ne Zahra Ke Chaman Ko
-  Haye Zehar Diya Jaise Mere Maula Hasan Ko
-  Dohrayi Gayi Haye, Wohi Is Pe Jafa Hai
+  Yuṅ luta musalmaanoṅ ne Zahra ke chaman ko
+  Haaye zehr diya jaise mire Maula Hasan ko
+  Dohraai gai haaye, wohi is pe jafa hai
 
   5
-  Masuma-e-Qum Deti Haiṅ Ro, Ro Ke Duhai
-  Ae Kash Mila De Koi Mujh Se Mera Bhai
-  Sughra Ki Tarha Haye Behan, Jis Se Juda Hai
+  Maasuma-e-Qum deti haiṅ ro, ro ke duhaai
+  Ae kaash mila de koi mujh se mira bhaai
+  Sughra ki tarah haaye, behan jis se juda hai
 
   6
-  Qurban Mere Maula Pe Ho Jan Hamari
-  Maqruz Mere Maula Ki Yeh Dunya Hai Sari
-  Yeh Martaba Ho Ke Bhi Gharib Ul-Gurba Hai
+  Qurbaan mire Maula pe ho jaan hamaari
+  Maqruz mire Maula ki ye duniya hai saari
+  Ye martaba ho ke bhi Gharib-ul-Ghuraba hai
 
   7
-  Rote Haiṅ Farishte Bhi Zamiṅ, Aur Zamaaṅ Bhi
-  Haye Loh o Qalam Arsh-e-Bariṅ Kaun o Makaaṅ Bhi
-  Khair-Un-Nisa Ke Laal, Ke Matam Ki Sada Hai
+  Rote haiṅ farishte bhi zamiṅ, aur zamaaṅ bhi
+  Haaye Lauh o Qalam, Arsh-e-Bariṅ, Kaun o Makaaṅ bhi
+  Khair-un-Nisa ke laal, ke maatam ki sada hai
 ---
 
 مظلوم بے وطن یہ مرا مولا رضا ہے

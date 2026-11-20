@@ -1,48 +1,97 @@
 ---
-title: "Teri Yaad Ch Akbar Mey Rondi Naa Marjava"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "تیری یاد چ اکبر میں روندی نہ مر جاواں"
+alternateTitle: "Teri Yaad Ch Akbar Mey Rondi Naa Marjava"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Teri yaad ch Akbar
+  Mey rondi naa marjava
+
+  1
+  Meray veeran ney kadon ounah ey
+  Mey mal key bethiyan rahvaa
+
+  2
+  Teray vichoray ney Akbar
+  Menu beemar kitta ey
+  Jis din da turgeya ey veeran
+  Na bethiyan vich chaavaa
+
+  3
+  Ronda si vekh ke menu
+  Tey kehnda janda ey
+  Teri shakal hain Maa Zahra wargi
+  Mey kivey naal lehjava
+
+  4
+  Jey margayi tenu sehray
+  Mey laan toun ey pehlay
+  Lehaavi janj meri qabar utey
+  Shamil mey veer hojava
+
+  5
+  Dithaa hain khaab mey Nana
+  Samajh naa aayi ey
+  Akbar dey seenay vich barchi
+  Chachay diyan katiyan bahvaa
+
+  6
+  Jidaa mey jhoola jhulandi
+  Onu mey yaad haan kardi
+  Hun turda phirda hovay ga
+  Leh apne naal bhiravaa
+
+  7
+  Hojavay jald zahoor ey
+  Imam e Akhir da
+  Har roz Hassan peyaa karda ey
+  Hath chuk ke eho duavan
 ---
 
-Teri Yaad Ch Akbar
-Mey Rondi Naa Marjava
+تیری یاد چ اکبر
+میں روندی نہ مر جاواں
 
-Meray Veeran Ney Kadon Ounah Ey
-Mey Mal Key Bethiyan Rahvaa
+۱
+میرے ویراں نے کدوں آؤنا اے
+میں مل کے بیٹھیاں رہواں
 
-Teray Vichoray Ney Akbar
-Menu Beemar Kitta Ey
-Jis Din Da Turgeya Ey Veeran
-Na Bethiyan Vich Chaavaa
+۲
+تیرے وچھوڑے نے اکبر
+مینوں بیمار کیتا اے
+جس دن دا ٹر گیا اے ویراں
+نہ بیٹھیاں وچ چھاواں
 
-Ronda Si Vekh Ke Menu
-Tey Kehnda Janda Ey
-Teri Shakal Hain Maa Zahra Wargi
-Mey Kivey Naal Lehjava
+۳
+روندا سی ویکھ کے مینوں
+تے کہندا جاندا اے
+تیری شکل ہے ماں زہرا ورگی
+میں کیویں نال لے جاواں
 
-Jey Margayi Tenu Sehray
-Mey Laan Toun Ey Pehlay
-Lehaavi Janj Meri Qabar Utey
-Shamil Mey Veer Hojava
+۴
+جے مر گئی تینوں سہرے
+میں لاؤن توں اے پہلاں
+لے آویں جنج میری قبر اُتے
+شامل میں ویر ہو جاواں
 
-Dithaa Hain Khaab Mey Nana
-Samajh Naa Aayi Ey
-Akbar Dey Seenay Vich Barchi
-Chachay Diyan Katiyan Bahvaa
+۵
+ڈٹھا ہے خواب میں نانا
+سمجھ نہ آئی اے
+اکبر دے سینے وچ برچھی
+چاچے دیاں کٹیاں باہواں
 
-Jidaa Mey Jhoola Jhulandi
-Onu Mey Yaad Haan Kardi
-Hun Turda Phirda Hovay Ga
-Leh Apne Naal Bhiravaa
+۶
+جِدا میں جھولا جھلاندی
+اونوں میں یاد ہاں کردی
+ہن ٹردا پھردا ہووے گا
+لے اپنے نال بھراواں
 
-Hojavay Jald Zahoor Ey
-Imam e Akhir Da
-Har Roz Hassan Peyaa Karda Ey
-Hath Chuk Ke Eho Duavan
-
-973 Views
+۷
+ہو جاوے جلد ظہور اے
+امامِ آخر دا
+ہر روز حسن پیا کردا اے
+ہتھ چک کے ایہو دعاواں

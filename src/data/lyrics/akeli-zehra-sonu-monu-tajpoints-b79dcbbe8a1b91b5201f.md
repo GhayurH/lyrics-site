@@ -1,32 +1,53 @@
 ---
-title: "Akeli Zehra Sonu Monu"
+title: "اکیلی زہرا سونو مونو"
+alternateTitle: "Akeli Zehra Sonu Monu"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Haye logon ka hajoom our akeli Zahra
+  Jaltay darwazay ke neechay thi Nabi ki Zahra
+
+  1
+  Apne Maula ke galay mein jo rasan ko dekha
+  Haye Ya Ali kehti hoi khak se uthi Zahra
+  Pochta hai yehi behta howa kano ka lahu
+  Ya Nabi aap ki kya beti nahi thi Zahra
+
+  2
+  Jaisay be saya rahi dasht mein lash-e-Shabeer
+  Iss tarha bad-e-Nabi dhop mein bethi Zahra
+  Baat sunney ke liye koi nahi hai teyar
+  Kis ko batlaye Ali teri ghareebi Zahra
+
+  3
+  Tum ne Maula se bhi yeh raaz chupaye rakha
+  Aa gayi thi tere baloon mein safaidi Zahra
+  Pardah-e-gaib se aati hai Takallum yeh sada
+  Qabar mein ab bhi hai zakhmi meri dadi Zahra
 ---
 
-Haye Logon Ka Hajoom Our Akeli Zahra.
-Jaltay Darwazay Ke Neechay Thi Nabi Ki Zahra.
+ہائے لوگوں کا ہجوم اور اکیلی زہرا
+جلتے دروازے کے نیچے تھی نبی کی زہرا
 
-1
-Apne Maula Ke Galay Mein Jo Rasan Ko Dekha.
-Haye Ya Ali Kehti Hoi Khak Se Uthi Zahra.
-Pochta Hai Yehi Behta Howa Kano Ka Lahu.
-Ya Nabi Aap Ki Kya Beti Nahi Thi Zahra.
+۱
+اپنے مولا کے گلے میں جو رسن کو دیکھا
+ہائے یا علی کہتی ہوئی خاک سے اٹھی زہرا
+پوچھتا ہے یہی بہتا ہوا کانوں کا لہو
+یا نبی آپ کی کیا بیٹی نہیں تھی زہرا
 
-2
-Jaisay Be Saya Rahi Dasht Mein Lash-e-Shabeer.
-Iss Tarha Bad-e-Nabi Dhop Mein Bethi Zahra.
-Baat Sunney Ke Liye Koi Nahi Hai Teyar.
-Kis Ko Batlaye Ali Teri Ghareebi Zahra.
+۲
+جیسے بے سایہ رہی دشت میں لاشِ شبیر
+اس طرح بعدِ نبی دھوپ میں بیٹھی زہرا
+بات سننے کے لیے کوئی نہیں ہے تیار
+کس کو بتلائے علی تیری غریبی زہرا
 
-3
-Tum Ne Maula Se Bhi Yeh Raaz Chupaye Rakha.
-Aa Gayi Thi Tere Baloon Mein Safaidi Zahra.
-Pardah-e-Gaib Se Aati Hai Takallum Yeh Sada.
-Qabar Mein Ab Bhi Hai Zakhmi Meri Dadi Zahra.
+۳
+تم نے مولا سے بھی یہ راز چھپائے رکھا
+آ گئی تھی تیرے بالوں میں سفیدی زہرا
+پردۂ غیب سے آتی ہے تکلم یہ صدا
+قبر میں اب بھی ہے زخمی میری دادی زہرا

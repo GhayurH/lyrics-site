@@ -11,39 +11,39 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Abid gharib bekas o nachaar mar gaya
-  Sadaat khaak uraaeṅ ke sardaar mar gaya
+  Aabid gharib bekas o nachaar mar gaya
+  Sadaat khaak uraayeṅ ke sardaar mar gaya
 
   1
   Saaya raha saroṅ pe na chauthe Imam ka
   Zehra ki jaaṅ Husain ka dildaar mar gaya
 
   2
-  Kaantoṅ pe khenchte the jise rah-e-Shaam meiṅ
+  Kaantoṅ pe khenchte the jise raah-e-Shaam meiṅ
   Wo saarban-e-Itrat-e-Athaar mar gaya
 
   3
   Rota raha jo baap ko chaalis saal tak
-  Wo aaj Shah-e-diṅ ka azadaar mar gaya
+  Wo aaj Shah-e-diṅ ka azaadaar mar gaya
 
   4
   Shama-e-mazar-e-Panjtan-e-Paak bujh gayi
-  Sayyadaniyoṅ ka haae parastaar mar gaya
+  Sayyadaaniyoṅ ka haae parastaar mar gaya
 
   5
   Beti Hasan ki ho gayi bewa hazaar haif
-  Haider ka pota aashiq-e-Ghaffar mar gaya
+  Haider ka pota aashiq-e-Ghaffaar mar gaya
 
   6
-  Bano ka chaand zer-e-zamiṅ haae chhup gaya
-  Faaqa kash o gharib dilafgaar mar gaya
+  Baano ka chaand zer-e-zamiṅ haae chhup gaya
+  Faaqa kash o gharib dil afgaar mar gaya
 
   7
-  Bin baap ka lain ne Baqir ko kar diya
+  Bin baap ka la'in ne Baaqir ko kar diya
   Chautha wasi-e-Ahmad-e-Mukhtaar mar gaya
 
   8
-  Kiuṅ kar Shuur khaak uraauṅ na aaj maiṅ
+  Kiuṅ kar Shu'ur khaak uraauṅ na aaj maiṅ
   Maiṅ jis ki nasl se huṅ wo sardaar mar gaya
 ---
 عابد غریب بیکس و ناچار مر گیا

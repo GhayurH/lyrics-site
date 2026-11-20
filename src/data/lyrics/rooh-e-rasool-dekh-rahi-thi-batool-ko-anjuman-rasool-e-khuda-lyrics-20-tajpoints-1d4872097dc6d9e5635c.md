@@ -1,41 +1,72 @@
 ---
-title: "Rooh E Rasool Dekh Rahi Thi Batool Ko Anjuman Rasool E Khuda Lyrics 2022"
+title: "روحِ رسول دیکھ رہی تھی بتول کو"
+alternateTitle: "Rooh-e-Rasool Dekh Rahi Thi Batool Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rooh e Rasool dekh rahi thi Batool ko Anjuman Rasool e Khuda
+  Darbar-e-sahabi mein gayi Fatima Zahra
+  Roh-e-Rasool dekh rahi thi Batool ko
+  Zahra ko laeen ne jo lagaya tha tamacha
+
+  2
+  Roh-e-Rasool dekh rahi thi Batool ko
+  Jhutlaye Hussain our Hasan jab sar-e-darbar
+  Tu dekh ke manzar yeh giri thi woh kayi bar
+  Beton ne dukhi maa ko tha phir khud hi sanbhala
+
+  3
+  Ashab ne dar Bint-e-Muhammad ka jalaya
+  Maloon ne woh dar meri bibi pe giraya
+  Phir khak se Fizza ne hi Zahra ko uthaya
+  Darbar mein boli ke yeh Hasnain hain sachay
+
+  4
+  Phir maa se lipat kar bara hi roye they bachay
+  Ummat ne Muhammad ke nawasoon ko rulaya
+  Tehreer Muhammad ki jo Zahra ne dikhai
+  Tukron mein woh tehreer thi zalim ne aurai
+
+  5
+  Phir jab bharay darbar mein har aik hansa tha
+  Ik baat bata de tu zamane ko yeh Qambar
+  Zahra jo khari thi tu yeh baithay they sitamgar
+  Tazeem ko Zahra teri koi bhi na utha
 ---
 
-1
-Rooh E Rasool Dekh Rahi thi Batool Ko Anjuman Rasool e Khuda.
-Darbar-e-Sahabi Mein Gayi Fatima Zahra.
-Roh-e-Rasool Dekh Rahi Thi Batool Ko.
-Zahra Ko Laeen Ne Jo Lagaya Tha Tamacha.
+۱
+روحِ رسول دیکھ رہی تھی بتول کو انجمن رسولِ خدا
+دربارِ صحابی میں گئی فاطمہ زہرا
+روحِ رسول دیکھ رہی تھی بتول کو
+زہرا کو لعین نے جو لگایا تھا طمانچہ
 
-2
-Roh-e-Rasool Dekh Rahi Thi Batool Ko.
-Jhutlaye Hussain Our Hasan Jab Sar-e-Darbar.
-Tu Dekh Ke Manzar Yeh Giri Thi Woh Kayi Bar.
-Beton Ne Dukhi Maa Ko Tha Phir Khud Hi Sanbhala.
+۲
+روحِ رسول دیکھ رہی تھی بتول کو
+جھٹلائے حسین اور حسن جب سرِ دربار
+تو دیکھ کے منظر یہ گری تھی وہ کئی بار
+بیٹوں نے دکھی ماں کو تھا پھر خود ہی سنبھالا
 
-3
-Ashab Ne Dar Bint-e-Muhammad Ka Jalaya.
-Maloon Ne Woh Dar Meri Bibi Pe Giraya.
-Phir Khak Se Fizza Ne Hi Zahra Ko Uthaya.
-Darbar Mein Boli Ke Yeh Hasnain Hain Sachay.
+۳
+اصحاب نے درِ بنتِ محمد کا جلایا
+ملعون نے وہ در میری بی‌بی پہ گرایا
+پھر خاک سے فضہ نے ہی زہرا کو اٹھایا
+دربار میں بولی کہ یہ حسنین ہیں سچے
 
-4
-Phir Maa Se Lipat Kar Bara Hi Roye They Bachay.
-Ummat Ne Muhammad Ke Nawasoon Ko Rulaya.
-Tehreer Muhammad Ki Jo Zahra Ne Dikhai.
-Tukron Mein Woh Tehreer Thi Zalim Ne Aurai.
+۴
+پھر ماں سے لپٹ کر بڑا ہی روئے تھے بچے
+امت نے محمد کے نواسوں کو رلایا
+تحریر محمد کی جو زہرا نے دکھائی
+ٹکڑوں میں وہ تحریر تھی ظالم نے اڑائی
 
-5
-Phir Jab Bharay Darbar Mein Har Aik Hansa Tha.
-Ik Baat Bata De Tu Zamane Ko Yeh Qambar.
-Zahra Jo Khari Thi Tu Yeh Baithay They Sitamgar.
-Tazeem Ko Zahra Teri Koi Bhi Na Utha.
+۵
+پھر جب بھرے دربار میں ہر ایک ہنسا تھا
+اک بات بتا دے تو زمانے کو یہ قنبر
+زہرا جو کھڑی تھی تو یہ بیٹھے تھے ستمگر
+تعظیم کو زہرا تیری کوئی بھی نہ اٹھا

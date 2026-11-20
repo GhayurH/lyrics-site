@@ -1,60 +1,111 @@
 ---
-title: "Fatima Zehra Teri Hammad Nagri"
+title: "فاطمہ زہرا تیری حماد نگری"
+alternateTitle: "Fatima Zehra Teri Hammad Nagri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baad tere baba gayi bar sar-e-darbar Fatima Zahra teri Fatima Zahra
+
+  1
+  Baba tere gham mein bani teri azadar Fatima Zahra teri Fatima Zahra
+  Jalta howa dar gira aisi qayamat hoi
+  Baba mere lal ki aisay shahadat hoi
+  Aag liye aa gaye ghar mein yeh sare shaqi
+  Dar ko utha de koi Fatima kehti rahi
+  Noha yehi parhtay rahe they dar-o-dewar
+
+  2
+  Dar pe sitam dhaya gaye ghar bhi mera jal gaya
+  Toot gayi pasliyaan pehlu shikasta howa
+  Dard mujhe youn mila kanpa hai hujra mera
+  Chadar-e-ismat jali roye Hasan Mujtaba
+  Rotay rahe dekh ke yeh Haider-e-Karrar
+  Baba main haq mangney Masjid-e-Nabvi gayi
+
+  3
+  Sath mere they Hasan aap ki tehreer thi
+  Mani na ummat teri koi gawahi meri
+  Hanstay rahe kalma go Fatima roti rahi
+  Kartay rahe tano ke Zahra pe yeh sab waar
+  Aisa sitam ho gaya baba yeh socha na tha
+  Aik shaqi ka mere rukh pe tamacha laga
+
+  4
+  Main thi akeli khari har koi betha raha
+  Jhoot nahi bolti mujh ko yeh kehna para
+  Mangney haq apna laeen se sar-e-darbar
+  Aisi qayamat hoi hum se na dekha gaya
+  Baba Ali ka gala rasi se bandha gaya
+  Betiyaan roti rahein kaisa ghazab ho gaya
+
+  5
+  Nana ke jate hi kyun itna rulaya gaya
+  Ho gayi beti teri iss gham mein giraftar
+  Aap ko maloom hai! Pyar hai kitna mujhe
+  Iss ko na dekhon jo main neend na aaye mujhe
+  Baba mere lal ki zid thi keh madar mujhe
+  Seene laga kar kahe! Aao mere ladlay
+
+  6
+  Band-e-kafan khul gaye roti rahi dukhyar
+  Baba na sun pao gay gham ki kahani meri
+  Likh nahi paye ga ab our yeh:Danish Ali:
+  Pehlu shikasta mera tooti lehad hai meri
+  Haan bari mazloom hai baba teri ladli
+  Ajar-e-risalat youn mila Ahmad-e-Mukhtar
 ---
 
-Baad Tere Baba Gayi Bar Sar-e-Darbar Fatima Zahra Teri Fatima Zahra.
+بعد تیرے بابا گئی بر سرِ دربار فاطمہ زہرا تیری فاطمہ زہرا
 
-1
-Baba Tere Gham Mein Bani Teri Azadar Fatima Zahra Teri Fatima Zahra.
-Jalta Howa Dar Gira Aisi Qayamat Hoi.
-Baba Mere Lal Ki Aisay Shahadat Hoi.
-Aag Liye Aa Gaye Ghar Mein Yeh Sare Shaqi.
-Dar Ko Utha De Koi Fatima Kehti Rahi.
-Noha Yehi Parhtay Rahe They Dar-o-Dewar.
+۱
+بابا تیرے غم میں بنی تیری عزادار فاطمہ زہرا تیری فاطمہ زہرا
+جلتا ہوا در گرا ایسی قیامت ہوئی
+بابا میرے لال کی ایسے شہادت ہوئی
+آگ لیے آ گئے گھر میں یہ سارے شقی
+در کو اٹھا دے کوئی فاطمہ کہتی رہی
+نوحہ یہی پڑھتے رہے تھے در و دیوار
 
-2
-Dar Pe Sitam Dhaya Gaye Ghar Bhi Mera Jal Gaya.
-Toot Gayi Pasliyaan Pehlu Shikasta Howa.
-Dard Mujhe Youn Mila Kanpa Hai Hujra Mera.
-Chadar-e-Ismat Jali Roye Hasan Mujtaba.
-Rotay Rahe Dekh Ke Yeh Haider-e-Karrar.
-Baba Main Haq Mangney Masjid-e-Nabvi Gayi.
+۲
+در پہ ستم ڈھایا گئے گھر بھی میرا جل گیا
+ٹوٹ گئی پسلیاں پہلو شکستہ ہوا
+درد مجھے یوں ملا کانپا ہے حجرہ میرا
+چادرِ عصمت جلی روئے حسن مجتبیٰ
+روتے رہے دیکھ کے یہ حیدرِ کرار
+بابا میں حق مانگنے مسجدِ نبوی گئی
 
-3
-Sath Mere They Hasan Aap Ki Tehreer Thi.
-Mani Na Ummat Teri Koi Gawahi Meri.
-Hanstay Rahe Kalma Go Fatima Roti Rahi.
-Kartay Rahe Tano Ke Zahra Pe Yeh Sab Waar.
-Aisa Sitam Ho Gaya Baba Yeh Socha Na Tha.
-Aik Shaqi Ka Mere Rukh Pe Tamacha Laga.
+۳
+ساتھ میرے تھے حسن آپ کی تحریر تھی
+مانی نہ امت تیری کوئی گواہی میری
+ہنستے رہے کلمہ گو فاطمہ روتی رہی
+کرتے رہے طعنوں کے زہرا پہ یہ سب وار
+ایسا ستم ہو گیا بابا یہ سوچا نہ تھا
+ایک شقی کا میرے رخ پہ طمانچہ لگا
 
-4
-Main Thi Akeli Khari Har Koi Betha Raha.
-Jhoot Nahi Bolti Mujh Ko Yeh Kehna Para.
-Mangney Haq Apna Laeen Se Sar-e-Darbar.
-Aisi Qayamat Hoi Hum Se Na Dekha Gaya.
-Baba Ali Ka Gala Rasi Se Bandha Gaya.
-Betiyaan Roti Rahein Kaisa Ghazab Ho Gaya.
+۴
+میں تھی اکیلی کھڑی ہر کوئی بیٹھا رہا
+جھوٹ نہیں بولتی مجھ کو یہ کہنا پڑا
+مانگنے حق اپنا لعین سے سرِ دربار
+ایسی قیامت ہوئی ہم سے نہ دیکھا گیا
+بابا علی کا گلا رسی سے باندھا گیا
+بیٹیاں روتی رہیں کیسا غضب ہو گیا
 
-5
-Nana Ke Jate Hi Kyun Itna Rulaya Gaya.
-Ho Gayi Beti Teri Iss Gham Mein Giraftar.
-Aap Ko Maloom Hai! Pyar Hai Kitna Mujhe.
-Iss Ko Na Dekhon Jo Main Neend Na Aaye Mujhe.
-Baba Mere Lal Ki Zid Thi Keh Madar Mujhe.
-Seene Laga Kar Kahe! Aao Mere Ladlay.
+۵
+نانا کے جاتے ہی کیوں اتنا رلایا گیا
+ہو گئی بیٹی تیری اس غم میں گرفتار
+آپ کو معلوم ہے! پیار ہے کتنا مجھے
+اس کو نہ دیکھوں جو میں نیند نہ آئے مجھے
+بابا میرے لال کی ضد تھی کہ مادر مجھے
+سینے لگا کر کہے! آؤ میرے لاڈلے
 
-6
-Band-e-Kafan Khul Gaye Roti Rahi Dukhyar.
-Baba Na Sun Pao Gay Gham Ki Kahani Meri.
-Likh Nahi Paye Ga Ab Our Yeh:DANISH ALI:.
-Pehlu Shikasta Mera Tooti Lehad Hai Meri.
-Haan Bari Mazloom Hai Baba Teri Ladli.
-Ajar-e-Risalat Youn Mila Ahmad-e-Mukhtar.
+۶
+بندِ کفن کھل گئے روتی رہی دکھیار
+بابا نہ سن پاؤ گے غم کی کہانی میری
+لکھ نہیں پائے گا اب اور یہ :دانش علی:
+پہلو شکستہ میرا ٹوٹی لحد ہے میری
+ہاں بڑی مظلوم ہے بابا تیری لاڈلی
+اجرِ رسالت یوں ملا احمدِ مختار

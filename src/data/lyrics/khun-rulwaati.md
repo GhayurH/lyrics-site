@@ -13,7 +13,7 @@ aliases: ["Khoon Rulwati"]
 published: true
 romanLyrics: |-
   Zainab-e-muztar hai aur manzar pe manzar Karbala
-  Khun rulwaati rahe gi zindagi bhar Karbala
+  Khun rulwaati rahegi zindagi bhar Karbala
 
   1
   Maut ki aaghosh meiṅ bete ne wo angraayi li
@@ -27,22 +27,22 @@ romanLyrics: |-
 
   3
   Nafs-e-dauraaṅ ruk gayi aur aasmaaṅ sakte meiṅ hai
-  Aur udhar khaime ke dar par ek maaṅ sajde meiṅ hai
+  Aur udhar khaime ke dar par ik maaṅ sajde meiṅ hai
   Bezabaaṅ ke saath hai paika ki zad par Karbala
 
   4
-  Haaye wo ek naatawaaṅ aur aahani tauq-e-giraaṅ
+  Haaye wo ik naatawaaṅ aur aahani tauq-e-giraaṅ
   Aur wo bimaar ke talwoṅ meiṅ kaante al-amaaṅ
   Ro rahi hai paa-e-Aabid se lipat kar Karbala
 
   5
-  Shah-e-diṅ tiroṅ pe thehra hai tera jism-e-figaar
+  Shaah-e-diṅ tiroṅ pe thehra hai tera jism-e-figaar
   Zer-e-khanjar thi magar yuṅ mahv-e-zikr-e-Kirdigaar
   Aa gayi hai tere sajde meiṅ simat kar Karbala
 
   6
   Har nafas hai ye dua apni azaadaari rahe
-  Majlis o maatam ka har ek silsila jaari rahe
+  Majlis o maatam ka har ik silsila jaari rahe
   Hashr tak Shahid ho yuṅ hi ashk-e-Sarwar Karbala
 ---
 زینبِ مضطر ہے اور منظر پہ منظر کربلا

@@ -14,62 +14,62 @@ published: true
 romanLyrics: |-
   Ae baba
   Baba, baba, baba mere baba
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 
   1
   Naazoṅ ki pali bachchi par
   Ye kaisi qayamat aayi
-  Ghurbat ke ghane jangal meiṅ
+  Ghurbat ke ghane jangal mein
   Hai ghere hue tanhaai
   Baba hi rahe na bhai
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 
   2
-  Ek tashna dahan shehzaadi
+  Ik tashna dhan shehzaadi
   Hai solah pehar ki pyaasi
   Haal apna sunaaye kis ko
   Ab koi nahiṅ hai baaqi
-  Maqtal meiṅ hui faryadi
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Maqtal mein hui fariyaadi
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 
   3
   Hai chaaroṅ taraf tanhaai
   Aur chaaroṅ taraf viraana
   Rota hai meri haalat par
   Ye jangal ye viraana
-  Maiṅ kaise rahuṅgi tanha
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Main kaise rahungi tanha
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 
   4
   Shabbir ki raaj dulaari
-  Kis haal meiṅ hai bechaari
-  Maqtal meiṅ khari ro ro kar
+  Kis haal mein hai bechaari
+  Maqtal mein khari ro ro kar
   Kehti hai ghamoṅ ki maari
-  Mar jayegi meri pyaari
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Mar jaaye gi meri pyaari
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 
   5
-  Dur chhin liye aada ne
+  Dur chhin liye aadaa ne
   Kaanoṅ se lahu behta hai
-  Jaana hai mujhe zindaaṅ meiṅ
-  Har ek laiṅ kehta hai
+  Jaana hai mujhe zindaaṅ mein
+  Har ek la'iṅ kehta hai
   Ye khauf mujhe rehta hai
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 
   6
   Wo raat jahaaṅ raunaq thi
   Viraan hai ab wo khaime
-  Haṅs haṅs ke sitamgaaroṅ ne
-  Maare hai tamache mere
+  Hans hans ke sitamgaaroṅ ne
+  Maare hai tamaanche mere
   Roka na kisi ne aa ke
-  Ae baba, maiṅ kaise jiyuṅ
-  Is duniya, meiṅ tere bina
+  Ae baba, main kaise jiyuṅ
+  Is duniya, mein tere bina
 ---
 اے بابا
 بابا، بابا، بابا میرے بابا

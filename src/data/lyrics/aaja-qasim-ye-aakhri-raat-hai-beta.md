@@ -8,44 +8,44 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja Qasim ye aakhri raat hai beta kal jaane kya hojaae
-  Armaan badhadu mai, tujhe dulha banadu mai, ab der na kar aaja
+  Aa ja Qasim ye aakhri raat hai beta kal jaane kya ho jaae
+  Armaan barha duṅ main, tujhe dulha bana duṅ main, ab der na kar aa ja
 
   1
-  Aa laal mere tujhko sine se laga lu mai
-  Ek raat ki mohlat hai, nazdik qayamat hai, ab dair na kar aaja
+  Aa laal mere tujh ko sine se laga luṅ main
+  Ek raat ki mohlat hai, nazdik qayaamat hai, ab der na kar aa ja
 
   2
-  Qasim teri shadi ka armaan tha bohot usko
-  Akbar se kaho jaae, sughra ko bula laae, ab dair na kar aaja
+  Qasim teri shaadi ka armaan tha bohot us ko
+  Akbar se kaho jaae, Sughra ko bula laae, ab der na kar aa ja
 
   3
-  Aey chaand mere tujhko mai dekhlu ji bharke
-  Taareek zamaana hai, tujhe dur bhi jana hai, ab dair na kar aaja
+  Ae chaand mere tujh ko main dekh luṅ ji bhar ke
+  Taarik zamaana hai, tujhe dur bhi jaana hai, ab der na kar aa ja
 
   4
-  Mai aysi charrhaungi shehzaade bari teri
-  Jorre jo sajaungi, jannat se mangaungi, ab dair na kar aaja
+  Main aisi charhaauṅ gi shehzaade bari teri
+  Jore jo sajaauṅ gi, jannat se mangaauṅ gi, ab der na kar aa ja
 
   5
-  Aawaz e azaan gunji to kamp gayi Farwa
-  Shab guzri seher aayi, maa kehke ye tharrayi, ab dair na jar aaja
+  Aawaaz-e-azaaṅ gunji to kaanp gayi Farwa
+  Shab guzri sahar aayi, maaṅ keh ke ye tharaayi, ab der na kar aa ja
 
   6
-  Ek pyaase ki shaadi hai aur pyaase hai baraati
-  Hasrat zada manzar, aur jaan labo par hai, ab dair na kar aaja
+  Ek pyaase ki shaadi hai aur pyaase hain baraati
+  Hasrat zada manzar, aur jaan laboṅ par hai, ab der na kar aa ja
 
   7
-  Jab shaame sitam aayi aur chhinne lagi chaadar
-  Kehte hue ghabra kar, hasrat se kaha maa ne, ab dair na kar aaja
+  Jab shaam-e-sitam aayi aur chhinne lagi chaadar
+  Kehte hue ghabra kar, hasrat se kaha maaṅ ne, ab der na kar aa ja
 
   8
-  Aylaane safar sunkar dil thaamke ye boli
-  Hai kuchh ki tayyari, maa tujhpe gayi waari, ab dair na kar aaja
+  Ailaan-e-safar sun kar dil thaam ke ye boli
+  Hai kuch ki tayyaari, maaṅ tujh pe gayi waari, ab der na kar aa ja
 
   9
-  Jab ran se chali maadar the bayn yehi gauhar
-  Bin dekhe jo jaungi, mai ji nahi paungi, ab dair na kar aaja
+  Jab ran se chali maadar the bayn yehi Gauhar
+  Bin dekhe jo jaauṅ gi, main ji nahiṅ paauṅ gi, ab der na kar aa ja
 ---
 
 آ جا قاسم یہ آخری رات ہے بیٹا کل جانے کیا ہو جائے

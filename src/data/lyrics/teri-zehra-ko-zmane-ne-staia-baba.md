@@ -9,38 +9,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Teri Zahra ko zamane ne sataya baba
-  Tere farman ko logoṅ ne bhulaya baba
+  Teri Zahra ko zamaane ne sataaya baba
+  Tere farmaan ko logoṅ ne bhulaaya baba
 
   1
   Baad tere na diya chain se rehne mujh ko
-  Jo sitam may ne sahe kaise sunayuṅ tujh ko
-  Na diya haq mujhe dar bhi giraya baba
+  Jo sitam main ne sahe kaise sunaauṅ tujh ko
+  Na diya haq bhi mujhe, dar bhi giraaya baba
 
   2
-  Tum ko darbar ki rudad sunayuṅ kaise
+  Tum ko darbaar ki rudaad sunaauṅ kaise
   Jaise chunta hai koi apne jigar ke tukre
-  Aise tehrir ke tukrruṅ ko uthaya baba
+  Aise tahrir ke tukroṅ ko uthaaya baba
 
   3
-  Jab tasawwur may nazar shaam-e-gharibaaṅ pe gaye
-  Jalte kahimuṅ se Sakina ki sada aane lagi
+  Jab tasawwur mein nazar shaam-e-gharibaaṅ pe gai
+  Jalte khaimoṅ se Sakina ki sadaa aane lagi
   Apna bachpan mujhe rota nazar aaya baba
 
   4
-  Kaisa sitam mujhe pe hai dhayaa aa dekho
-  May huṅ zakhmi aur Mohsin bhi na raha dekho
-  Mere Haider ko bhi qaidi hai banaya baba
+  Kaisa mujh par hai sitam dhaaya ye aa kar dekho
+  Main huṅ zakhmi mera Mohsin na bachaa hai dekho
+  Mere Haider ko bhi qaidi hai banaaya baba
 
   5
-  Kaise ye dunya bhulay hai wo manzar Mohsain
-  Dekh kar Zehra ko rote the Hasanain
-  Jab Haider ne janaza tha uthaya baba
+  Kaise ye duniya bhuli hai wo manzar Mohsin
+  Dekh kar Zahra ko rote the Hasanain
+  Jab Haider ne janaaza tha uthaaya baba
 
   6
-  Pocho baba haq Zahra ko diya na kis ne
-  Uthaya kis ne
-  Shair or Shabbir ko chadar may chupaya baba
+  Puchho baba haq Zahra ko diya na kis ne
+  Uthaaya kis ne
+  Shabbar o Shabbir ko chaadar mein chhupaaya baba
 ---
 
 تیری زہراؑ کو زمانے نے ستایا بابا

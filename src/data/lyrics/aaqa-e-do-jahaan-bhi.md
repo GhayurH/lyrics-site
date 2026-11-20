@@ -11,20 +11,20 @@ tags: []
 aliases: ["Aaqa E Do Jahan Bhi"]
 published: true
 romanLyrics: |-
-  Aaqa-e-do jahaaṅ hai Mushkilkusha bhi hai
-  Haider ba-qaul-e-qaum-e-Nusairi Khuda bhi hai
+  Aaqa-e-do jahaaṅ hai mushkil kusha bhi hai
+  Haider ba qaul-e-qaum-e-Nusairi Khuda bhi hai
 
   1
-  Kaabe meiṅ but shikan haiṅ to masjid meiṅ haiṅ Imam
+  Kaabe meiṅ but shikan haiṅ to masjid meiṅ haiṅ imam
   Jibrail keh rahe haiṅ Ali La Fata bhi hai
 
   2
-  Abbas ab na palte ga darya liye baghair
+  Abbas ab na palte ga daryaa liye baghair
   Barhta hua qadam kabhi pichhe hata bhi hai
 
   3
   Saqqa-e-Ahl-e-Bait hai Abbas naam hai
-  Talwaar khench le to ye Sher-e-Khuda bhi hai
+  Talwaar khench le to ye sher-e-Khuda bhi hai
 
   4
   Khaibar meiṅ kaise waar se shah par nahiṅ kate
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Tufan uth raha hai to uthe hazaar baar
-  Kashti ke saath saath mera nakhuda bhi hai
+  Kashti ke saath saath mera naakhuda bhi hai
 
   6
   Akbar na kiuṅ ho apne muqabil pe fath yaab
   Zor-e-Ali hai haath meiṅ maaṅ ki dua bhi hai
 
   7
-  Khandaq meiṅ kaun jayega dushman ke saamne
+  Khandaq meiṅ kaun jaaega dushman ke saamne
   Islam meiṅ Ali ke siwa dusra bhi hai
 
   8

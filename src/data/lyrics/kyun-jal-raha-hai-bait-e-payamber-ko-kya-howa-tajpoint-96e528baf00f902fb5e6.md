@@ -1,32 +1,54 @@
 ---
-title: "Kyun Jal Raha Hai Bait E Payamber Ko Kya Howa"
+title: "کیوں جل رہا ہے بیتِ پیمبر کو کیا ہوا"
+alternateTitle: "Kyun Jal Raha Hai Bait-e-Payamber Ko Kya Howa"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kyun jal raha hai Bait e Payamber ko kya howa
+  Koi tu aa ke pochta iss ghar ko kya howa
+
+  1
+  Yasrab ki rehne waliyo pocho Batool se
+  Hai kyun lahu lahu teri chadar ko kya howa
+  Yeh Innama ke chehray pe kaisay bana hai neel
+  Roti hai kyun Rasool ki dukhtar ko kya howa
+
+  2
+  Anzalna sar ko peet rahi hai Madine mein
+  Karta hai bain Sorah-e-Kausar ko kya howa
+  Haye tamacha haye sitam bolta howa
+  Sar ko jhukaye rota hai Shabbar ko kya howa
+
+  3
+  Kis tarha se howa hai yeh paiwast gaal mein
+  Bibi tumharey kan ke gohar ko kya howa
+  Saqlain dekh dekh ke chehray yeh jhuriyan
+  Zainab yeh pochti rahi madar ko kya howa
 ---
 
-Kyun Jal Raha Hai Bait e Payamber Ko Kya Howa.
-Koi Tu Aa Ke Pochta Iss Ghar Ko Kya Howa.
+کیوں جل رہا ہے بیتِ پیمبر کو کیا ہوا
+کوئی تو آ کے پوچھتا اس گھر کو کیا ہوا
 
-1
-Yasrab Ki Rehne Waliyo Pocho Batool Se.
-Hai Kyun Lahu Lahu Teri Chadar Ko Kya Howa.
-Yeh Innama Ke Chehray Pe Kaisay Bana Hai Neel.
-Roti Hai Kyun Rasool Ki Dukhtar Ko Kya Howa.
+۱
+یثرب کی رہنے والیو پوچھو بتول سے
+ہے کیوں لہو لہو تیری چادر کو کیا ہوا
+یہ اِنَّمَا کے چہرے پہ کیسے بنا ہے نیل
+روتی ہے کیوں رسول کی دختر کو کیا ہوا
 
-2
-Anzalna Sar Ko Peet Rahi Hai Madine Mein.
-Karta Hai Bain Sorah-e-Kausar Ko Kya Howa.
-Haye Tamacha Haye Sitam Bolta Howa.
-Sar Ko Jhukaye Rota Hai Shabbar Ko Kya Howa.
+۲
+اَنْزَلْنَا سر کو پیٹ رہی ہے مدینے میں
+کرتا ہے بین سورۂ کوثر کو کیا ہوا
+ہائے طمانچہ ہائے ستم بولتا ہوا
+سر کو جھکائے روتا ہے شبّر کو کیا ہوا
 
-3
-Kis Tarha Se Howa Hai Yeh Paiwast Gaal Mein.
-Bibi Tumharey Kan Ke Gohar Ko Kya Howa.
- Saqlain Dekh Dekh Ke Chehray Yeh Jhuriyan.
-Zainab Yeh Pochti Rahi Madar Ko Kya Howa.
+۳
+کس طرح سے ہوا ہے یہ پیوست گال میں
+بی‌بی تمہارے کان کے گوہر کو کیا ہوا
+ثقلین دیکھ دیکھ کے چہرے یہ جھریاں
+زینب یہ پوچھتی رہی مادر کو کیا ہوا

@@ -24,7 +24,7 @@ romanLyrics: |-
   Banaai Karb o Bala keh ke sirf haaye Husain
 
   3
-  Kisi bhi daur meiṅ hote wo Karbala aate
+  Kisi bhi daur mein hote wo Karbala aate
   Hue the khalq bahattar faqat baraaye Husain
 
   4
@@ -32,11 +32,11 @@ romanLyrics: |-
   Ke nind us ko sulaaye use jagaaye Husain
 
   5
-  Abhi abhi Fitrus ko maiṅ ne dekha tha
+  Abhi abhi Fitrus ko main ne dekha tha
   Likha hua tha paroṅ par hai ye ataa-e-Husain
 
   6
-  Maiṅ lafziyaat ka Aadam banaana chaahta huṅ
+  Main lafziyaat ka Aadam banaana chaahta huṅ
   Mujhe bhi chaahiye thori si khaak-e-paa-e-Husain
 
   7
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Khud ahl-e-ishq samajh leṅ ge naam kis ka hai
-  Maiṅ sirf sabr hi likh duṅ agar bajaa-e-Husain
+  Main sirf sabr hi likh duṅ agar bajaa-e-Husain
 ---
 خدا محافظِ قرآن ہے اور بچائے حسین
 خدا کے وعدے خدا کی طرح نبھائے حسین

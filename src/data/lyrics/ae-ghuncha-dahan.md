@@ -24,7 +24,7 @@ romanLyrics: |-
   Aur Ibn-e-Hasan bekas dulha
 
   2
-  Hai khauf mujhe naraaz na ho
+  Hai khauf mujhe naaraaz na ho
   Marzi hai tumhari kya bolo
   Maiṅ haath meiṅ ab kangna rakhuṅ
   Ya rakhuṅ rasan bekas dulha
@@ -48,16 +48,16 @@ romanLyrics: |-
   Kangne meiṅ rasan bekas dulha
 
   6
-  Jaao Shah-e-diṅ ke paas utho
+  Jaao Shah-e-Diṅ ke paas utho
   Aate haiṅ mujhe waswaas utho
   Sab rote haiṅ tum ko keh keh kar
   Begor o kafan bekas dulha
 
   7
   Sab kehte haiṅ ab mujhko bewa
-  Batlao mujhe ye baat hai kya
+  Batlaao mujhe ye baat hai kya
   Ye log mujh hi ko kehte the
-  Ek shab ki dulhan bekas dulha
+  Ik shab ki dulhan bekas dulha
 
   8
   Dunya meiṅ Ghayur aisa asla

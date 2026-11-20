@@ -23,8 +23,8 @@ romanLyrics: |-
   Dard ka maara Rab ko pukaara
 
   2
-  Barchhi lagi aur gurz laga zakhmi kaleja
-  Dil bhi phatta hai
+  Barchhi lagi aur gurz zakhmi kaleja
+  Dil phatta hai
   Dubta dil saahil pe pukaara
 
   3
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   8
   Zulm o sitam Zainab par dhaaya aag lagaai
-  Gham ka sharaara hai
+  Gham ka sahaara hai
   Aa gaya beti baap tumhaara
 
   9

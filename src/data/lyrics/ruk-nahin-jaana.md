@@ -12,18 +12,18 @@ tags: []
 aliases: ["Ruk Nahi Jaana"]
 published: true
 romanLyrics: |-
-  Bano ye pukaari Asghar maaṅ tujh pe hai waari Asghar
+  Baano ye pukaari Asghar maaṅ tujh pe hai waari Asghar
 
   Dekho maqtal meiṅ kahiṅ ruk nahiṅ jaana Asghar
   Shaam hote hi meri jaaṅ chale aana Asghar
 
   1
-  Raat bhar khud hi sawaara hai meri jaaṅ maiṅ ne
-  Sadqa jhule ka utaara hai meri jaaṅ maiṅ ne
-  Ran meiṅ Baba ko na tum apne rulaana Asghar
+  Raat bhar khud hi sawaara hai meri jaaṅ main ne
+  Sadqa jhule ka utaara hai meri jaaṅ main ne
+  Ran meiṅ Baaba ko na tum apne rulaana Asghar
 
   2
-  Maaṅ huṅ maiṅ khub samajhti huṅ ishaare tere
+  Maaṅ huṅ main khub samajhti huṅ ishaare tere
   Lab jo sukhe hue haiṅ pyaas ke maare tere
   Pyaas tiroṅ se na tum ran meiṅ bujhaana Asghar
 

@@ -1,32 +1,54 @@
 ---
-title: "Lut Ke Phir Lutney Chala Hai Qafila Sajjad Ka Lyrics 2009"
+title: "لٹ کے پھر لٹنے چلا ہے قافلہ سجاد کا"
+alternateTitle: "Lut Ke Phir Lutney Chala Hai Qafila Sajjad Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Lut ke phir lutney chala hai qafila Sajjad ka
+  Sham tak noha parhey gi Karbala Sajjad ka
+
+  1
+  Be kafan lashon pe la kar daal de khak-e-shifa
+  Chalte chalte kam yeh kar de howa Sajjad ka
+  Tashna lab bali Sakina mar gayi zindan mein
+  Qarz ab kaisay utaray Alqama Sajjad ka
+
+  2
+  Tauq ne nohay parhey mil kar galay Sajjad ke
+  Phoot kar roney lagay har aabla Sajjad ka
+  Ghar jala qaidi baney darbar mein peshi hoi
+  Imtehaan bad-e-Ali hai dosra Sajjad ka
+
+  3
+  Sochta hoon Karbala se Sham ke bazar tak
+  Bach gaya Islam lekin kiya bacha Sajjad ka
+  Zindagi bhar matam-e-zanjeer main karta rahon
+  Ho nahi sakta Takallum haq ada Sajjad ka
 ---
 
-Lut Ke Phir Lutney Chala Hai Qafila Sajjad Ka.
-Sham Tak Noha Parhey Gi Karbala Sajjad Ka.
+لٹ کے پھر لٹنے چلا ہے قافلہ سجاد کا
+شام تک نوحہ پڑھے گی کربلا سجاد کا
 
-1
-Be Kafan Lashon Pe La Kar Daal De Khak-e-Shifa.
-Chalte Chalte Kam Yeh Kar De Howa Sajjad Ka.
-Tashna Lab Bali Sakina Mar Gayi Zindan Mein.
-Qarz Ab Kaisay Utaray Alqama Sajjad Ka.
+۱
+بے کفن لاشوں پہ لا کر ڈال دے خاکِ شفا
+چلتے چلتے کام یہ کر دے ہوا سجاد کا
+تشنہ لب بالی سکینہ مر گئی زنداں میں
+قرض اب کیسے اتارے علقمہ سجاد کا
 
-2
-Tauq Ne Nohay Parhey Mil Kar Galay Sajjad Ke.
-Phoot Kar Roney Lagay Har Aabla Sajjad Ka.
-Ghar Jala Qaidi Baney Darbar Mein Peshi Hoi.
-Imtehaan Bad-e-Ali Hai Dosra Sajjad Ka.
+۲
+طوق نے نوحے پڑھے مل کر گلے سجاد کے
+پھوٹ کر رونے لگے ہر آبلہ سجاد کا
+گھر جلا قیدی بنے دربار میں پیشی ہوئی
+امتحان بعدِ علی ہے دوسرا سجاد کا
 
-3
-Sochta Hoon Karbala Se Sham Ke Bazar Tak.
-Bach Gaya Islam Lekin Kiya Bacha Sajjad Ka.
-Zindagi Bhar Matam-e-Zanjeer Main Karta Rahon.
-Ho Nahi Sakta Takallum Haq Ada Sajjad Ka.
+۳
+سوچتا ہوں کربلا سے شام کے بازار تک
+بچ گیا اسلام لیکن کیا بچا سجاد کا
+زندگی بھر ماتمِ زنجیر میں کرتا رہوں
+ہو نہیں سکتا تکلم حق ادا سجاد کا

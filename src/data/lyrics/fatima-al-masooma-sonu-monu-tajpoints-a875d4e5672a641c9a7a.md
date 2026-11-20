@@ -1,30 +1,48 @@
 ---
-title: "Fatima Al Masooma Sonu Monu"
+title: "فاطمہ المعصومہ سونو مونو"
+alternateTitle: "Fatima Al Masooma Sonu Monu"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Arsalan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Waseela aap ka jab se mila hai Masooma
+  Qabool tab se meri har dua hai Masooma
+  Yahin se ilm ki milti hai do jahan ko bheek
+  Tumhara roza bhi ik madrasa hai Masooma
+  Chaley ga mera hi sikka keh mere bazu par
+  Tumhare bhai ka sikka bandha hai Masooma
+  Wahan wahan pe tera tazkira hai Shehzadi
+  Jahan jahan pe saf-e-anbiya hai Masooma
+  Shifa tu sehan-e-shifa se bhi phir miley gi nahi
+  Tumhare dar se agar fasila hai Masooma
+  Kahan kissi ko mili hain fazeelatein aisi
+  Raza ne aap ko Zainab kaha hai Masooma
+  Tumhare zikar ko wajib samajh ke karta hoon
+  Tumhare bhai ki iss mein riza hai Masooma
+  Hai Arsalan issi baat par garor bohat
+  Tumhara bhai mujhe janta hai Masooma
 ---
 
-1
-Fatima Al Masooma Sonu Monu Lyrics
-Waseela Aap Ka Jab Se Mila Hai Masooma.
-Qabool Tab Se Meri Har Dua Hai Masooma.
-Yahin Se Ilm Ki Milti Hai Do Jahan Ko Bheek.
-Tumhara Roza Bhi Ik Madrasa Hai Masooma.
-Chaley Ga Mera Hi Sikka Keh Mere Bazu Par.
-Tumhare Bhai Ka Sikka Bandha Hai Masooma.
-Wahan Wahan Pe Tera Tazkira Hai Shehzadi.
-Jahan Jahan Pe Saf-e-Anbiya Hai Masooma.
-Shifa Tu Sehan-e-Shifa Se Bhi Phir Miley Gi Nahi.
-Tumhare Dar Se Agar Fasila Hai Masooma.
-Kahan Kissi Ko Mili Hain Fazeelatein Aisi.
-Raza Ne Aap Ko Zainab Kaha Hai Masooma.
-Tumhare Zikar Ko Wajib Samajh Ke Karta Hoon.
-Tumhare Bhai Ki Iss Mein Riza Hai Masooma.
-Hai Arsalan Issi Baat Par Garor Bohat.
-Tumhara Bhai Mujhe Janta Hai Masooma.
+۱
+وسیلہ آپ کا جب سے ملا ہے معصومہ
+قبول تب سے میری ہر دعا ہے معصومہ
+یہیں سے علم کی ملتی ہے دو جہاں کو بھیک
+تمہارا روضہ بھی اک مدرسہ ہے معصومہ
+چلے گا میرا ہی سکّہ کہ میرے بازو پر
+تمہارے بھائی کا سکّہ بندھا ہے معصومہ
+وہاں وہاں پہ تیرا تذکرہ ہے شہزادی
+جہاں جہاں پہ صفِ انبیا ہے معصومہ
+شفا تو صحنِ شفا سے بھی پھر ملے گی نہیں
+تمہارے در سے اگر فاصلہ ہے معصومہ
+کہاں کسی کو ملی ہیں فضیلتیں ایسی
+رضا نے آپ کو زینب کہا ہے معصومہ
+تمہارے ذکر کو واجب سمجھ کے کرتا ہوں
+تمہارے بھائی کی اس میں رضا ہے معصومہ
+ہے ارسلان اسی بات پر غرور بہت
+تمہارا بھائی مجھے جانتا ہے معصومہ

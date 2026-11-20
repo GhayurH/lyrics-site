@@ -1,38 +1,66 @@
 ---
-title: "Shiyon Ki Eid Aayi Hai Shia Manaein Gaye"
+title: "شیعوں کی عید آئی ہے شیعہ منائیں گے"
+alternateTitle: "Shiyon Ki Eid Aayi Hai Shia Manaein Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shiyon ki Eid aayi hai Shia manaein gaye
+  Jee bhar ke aaj Munkir-e-Haider jalaein gaye
+
+  1
+  Kuch log jan bojh kar munh phairne lagay
+  Woh kaun they Ghadeer mein sab ka batein gaye
+  Jibreel aaj ja ke jahanam ko bujha do
+  Hum Dushman-e-Haider ko jahan mein jalaein gaye
+
+  2
+  Maney mujhe maula jo Haider ko bhi manay
+  Aylan payamber yeh Khum mein sunaein gaye
+  Gonjay gi do jahan mein man kuntu ki sada
+  Irshad-e-Kibriya youn Muhammad batein gaye
+
+  3
+  Mairaj ki shab hath mila tha jo nabi se
+  Woh hath zamane ko payamber dikhaein gaye
+  Haider ke malango ki yeh baat bhali hai
+  Woh Munkir-e-Haider ko munh na lagaein gaye
+
+  4
+  Pehchan halali ki harami ki jo karni ho
+  Hum log faqat Nara-e-Haider lagaein gaye
+  Yeh Eid hai Dilawar khush ho ke manatay hain
+  Maula Imam Mehdi bhi muskuraein gaye
 ---
 
-Shiyon Ki Eid Aayi Hai Shia Manaein Gaye.
-Jee Bhar Ke Aaj Munkir-e-Haider Jalaein Gaye.
+شیعوں کی عید آئی ہے شیعہ منائیں گے
+جی بھر کے آج منکرِ حیدر جلائیں گے
 
-1
-Kuch Log Jan Bojh Kar Munh Phairne Lagay.
-Woh Kaun They Ghadeer Mein Sab Ka Batein Gaye.
-Jibreel Aaj Ja Ke Jahanam Ko Bujha Do.
-Hum Dushman-e-Haider Ko Jahan Mein Jalaein Gaye.
+۱
+کچھ لوگ جان بوجھ کر منہ پھیرنے لگے
+وہ کون تھے غدیر میں سب کا بتائیں گے
+جبرئیل آج جا کے جہنم کو بجھا دو
+ہم دشمنِ حیدر کو جہاں میں جلائیں گے
 
-2
-Maney Mujhe Maula Jo Haider Ko Bhi Manay.
-Aylan Payamber Yeh Khum Mein Sunaein Gaye.
-Gonjay Gi Do Jahan Mein Man Kuntu Ki Sada.
-Irshad-e-Kibriya Youn Muhammad Batein Gaye.
+۲
+مانے مجھے مولا جو حیدر کو بھی مانے
+اعلان پیمبر یہ خم میں سنائیں گے
+گونجے گی دو جہاں میں من کنتُ کی صدا
+ارشادِ کبریا یوں محمد بتائیں گے
 
-3
-Mairaj Ki Shab Hath Mila Tha Jo Nabi Se.
-Woh Hath Zamane Ko Payamber Dikhaein Gaye.
-Haider Ke Malango Ki Yeh Baat Bhali Hai.
-Woh Munkir-e-Haider Ko Munh Na Lagaein Gaye.
+۳
+معراج کی شب ہاتھ ملا تھا جو نبی سے
+وہ ہاتھ زمانے کو پیمبر دکھائیں گے
+حیدر کے ملنگوں کی یہ بات بھلی ہے
+وہ منکرِ حیدر کو منہ نہ لگائیں گے
 
-4
-Pehchan Halali Ki Harami Ki Jo Karni Ho.
-Hum Log Faqat Nara-e-Haider Lagaein Gaye.
-Yeh Eid Hai Dilawar Khush Ho Ke Manatay Hain.
-Maula Imam Mehdi Bhi Muskuraein Gaye.
+۴
+پہچان حلالی کی حرامی کی جو کرنی ہو
+ہم لوگ فقط نعرۂ حیدر لگائیں گے
+یہ عید ہے دلاور خوش ہو کے مناتے ہیں
+مولا امام مہدی بھی مسکرائیں گے

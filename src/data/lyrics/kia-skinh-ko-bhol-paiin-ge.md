@@ -10,41 +10,41 @@ published: false
 romanLyrics: |-
   1
   Jab chale ran ko shah-e-Karb o bala
-  Shor khaimo may tha qayamat ka
-  Sheh ne beti ko goad may jo liya
-  Us ne ro kar padar se ye pucha
-  Baba itna mujhe batayaiṅ ge
-  Kia Sakina ko bhul payaiṅ ge
+  Shor khaimoṅ mein tha qayaamat ka
+  Sheh ne beti ko god mein jo liya
+  Us ne ro kar padar se ye puchha
+  Baba itna mujhe bataaeṅ ge
+  Kya Sakina ko bhul paaeṅ ge
 
   2
   Is qadar aap ka hai khushk gala
-  Aah bharne ka hosla na raha
-  Kis tarha loriaṅ sunayaiṅ ge
-  Kia Sakina ko bhul payaiṅ ge
+  Aah bharne ka hausla na raha
+  Kis tarah loriaṅ sunaaeṅ ge
+  Kya Sakina ko bhul paaeṅ ge
 
   3
-  Apne jazbat kar liye qabu
-  Aap ne zabt kar liye ansu
-  Zakhm-e-dil kis tarha chupayaiṅ ge
-  Kia Sakina ko bhul payaiṅ ge
+  Apne jazbaat kar liye qaabu
+  Aap ne zabt kar liye aansu
+  Zakhm-e-dil kis tarah chhupaaeṅ ge
+  Kya Sakina ko bhul paaeṅ ge
 
   4
-  Koi baqi nahi raha baba
-  Aap khud ja ke laye har lasha
-  Apni khatir kise bulayaiṅ ge
-  Kia Sakina ko bhul payaiṅ ge
+  Koi baaqi nahiṅ raha baba
+  Aap khud ja ke laae har laasha
+  Apni khaatir kise bulaaeṅ ge
+  Kya Sakina ko bhul paaeṅ ge
 
   5
-  Aakhri bar dekh luṅ chehra
-  Mujh ko jane hai kiuṅ yaqiṅ baba
-  Aap ab loat kar na aayaiṅ ge
-  Kia Sakina ko bhul payaiṅ ge
+  Aakhri baar dekh luṅ chehra
+  Mujh ko jaane hai kiuṅ yaqiṅ baba
+  Aap ab laut kar na aaeṅ ge
+  Kya Sakina ko bhul paaeṅ ge
 
   6
-  Sheh ne beti ke sar pe hath rakha
+  Sheh ne beti ke sar pe haath rakha
   Aur darwesh ro ke itna kaha
-  Tum se pehle na khuld jayaiṅ ge
-  Kia Sakina ko bhul payaiṅ ge
+  Tum se pehle na khuld jaaeṅ ge
+  Kya Sakina ko bhul paaeṅ ge
 ---
 
 ۱

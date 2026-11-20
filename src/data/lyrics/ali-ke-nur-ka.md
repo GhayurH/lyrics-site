@@ -12,28 +12,28 @@ aliases: []
 recitationId: "ali-ke-noor-ka-mukhtar-hussain-fatehpuri-lyrics-2022"
 published: true
 romanLyrics: |-
-  Ali ke nur ka sadqa dikhayi deta hai
-  Khuda ke ghar meiṅ ujaala dikhayi deta hai
+  Ali ke nur ka sadqa dikhaai deta hai
+  Khuda ke ghar mein ujaala dikhaai deta hai
 
   1
   Mizaaj-e-Nahj-e-Balaagha hai aayatoṅ jaisa
-  Kalaam ye bhi Khuda ka dikhayi deta hai
+  Kalaam ye bhi Khuda ka dikhaai deta hai
 
   2
-  Ali Imam-e-Man ast o Manam Ghulaam-e-Ali
-  Har ik Nabi yehi kehta dikhayi deta hai
+  Ali Imam-e-Man ast o manam Ghulaam-e-Ali
+  Har ik Nabi yehi kehta dikhaai deta hai
 
   3
   Kamaal-e-Qudrat-e-Mabud hai mera Abbas
-  Ali ko bhi ye Ali sa dikhayi deta hai
+  Ali ko bhi ye Ali sa dikhaai deta hai
 
   4
   Mujhe zamin pe kuchh bhi nazar nahiṅ aata
-  Faqat Husain ka sajda dikhayi deta hai
+  Faqat Husain ka sajda dikhaai deta hai
 
   5
-  Najaf hai Mir Takallum ka Tur Ae Musa
-  Use yahiṅ pe wo jalwa dikhayi deta hai
+  Najaf hai Mir Takallum ka Tur ae Musa
+  Use yahiṅ pe wo jalwa dikhaai deta hai
 ---
 
 علی کے نور کا صدقہ دکھائی دیتا ہے

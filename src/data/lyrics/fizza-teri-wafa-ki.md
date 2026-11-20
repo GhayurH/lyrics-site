@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kaniz e zehra janab e fizza
-  Wafa ki malka janab e fizza
-  Fizza teri wafa ki hadh aakhri yehi hai
-  Zainab ke saath tu bhi bazaar may khari hai
+  Kaniz-e-Zehra Janab-e-Fizza
+  Wafa ki malka Janab-e-Fizza
+  Fizza teri wafa ki had aakhri yehi hai
+  Zainab ke saath tu bhi bazaar mein khari hai
   Fizza teri wafa ki...
-  Tu ne to sayyadoṅ ka aabaad ghar bhi dekha
-  Aur kis tarha hua wo barbaad ghar bhi dekha
-  Tu phir bhi naukri se piche nahi hati hai
+  Tu ne to sayyidoṅ ka aabaad ghar bhi dekha
+  Aur kis tarah hua to barbaad ghar bhi dekha
+  Tu phir bhi naukri se pichhe nahiṅ hati hai
   Fizza teri wafa ki...
-  Ungli pakar ke teri zainab ne chalna sikha
-  Ek waqt wo bhi aaya zainab ke saath fizza
-  Jakri hui rasan may kaantoṅ pe tu chali hai
+  Ungli pakar ke teri Zainab ne chalna sikha
+  Ik waqt wo bhi aaya Zainab ke saath Fizza
+  Jakri hui rasan mein kaantoṅ pe tu chali hai
   Fizza teri wafa ki...
-  Tu habsh ki hai malka sab jaante hai bibi
-  Qadmoṅ may thi tumhare daulat jahaṅ ki saari
-  Phir bhi kaniz e zehra tu faqr se bani hai
+  Tu Habsh ki hai malka sab jaante haiṅ Bibi
+  Qadmoṅ mein thi tumhaare daulat jahaaṅ ki saari
+  Phir bhi kaniz-e-Zehra tu fakhr se bani hai
   Fizza teri wafa ki...
-  Har ek qadam pe tu ne zainab ko hai bachaya
-  Bibi pe aane waala pathar hai tu ne khaaya
-  Teri jabin fizza zakhmoṅ se bhar gayi hai
+  Har ek qadam pe tu ne Zainab ko hai bachaaya
+  Bibi pe aane waala patthar hai tu ne khaaya
+  Teri jabin Fizza zakhmoṅ se bhar gayi hai
   Fizza teri wafa ki...
-  Sun kar wafat e abid khud bhi rahi na zinda
-  Bazaar-e-shaam may tha bibi tumhara laasha
-  Mayyat tumhari bibi baqar ne dafn ki hai
+  Sun kar wafaat-e-Abid khud bhi rahi na zinda
+  Bazaar-e-Shaam mein tha Bibi tumhaara laasha
+  Mayyat tumhaari Bibi Baaqir ne dafn ki hai
   Fizza teri wafa ki...
-  Ae arsalan aur mesum hoti hai pursadari
-  Jab kaarwaṅ baqayya aate hai baari baari
-  Fizza bhi zaairoṅ ke hum raah matami hai
+  Ae Arsalan aur Mesum hoti hai pursa daari
+  Jab kaarwaaṅ baqayya aate haiṅ baari baari
+  Fizza bhi zaairoṅ ke ham raah maatami haiṅ
   Fizza teri wafa ki...
 ---
 

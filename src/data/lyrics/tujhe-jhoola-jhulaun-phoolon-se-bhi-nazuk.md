@@ -7,6 +7,57 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tujhe jhula jhulaa'uṅ main tujhe jhula jhulaa'uṅ
+  Main khwaab mein Asghar tujhe lori bhi sunaa'uṅ
+
+  1
+  Phuloṅ se bhi naazuk ye tera simiṅ badan hai
+  Suraj ki tapish se main tujhe kaise bachaa'uṅ
+
+  2
+  Khud chal ke tu maidaan mein jaa bhi nahiṅ sakta
+  Kis tarah tera naam shahidoṅ mein likhaa'uṅ
+
+  3
+  Jo bhi gaya maqtal mein na phir laut ke aaya
+  Kuchh der thahar jaa main tujhe sine lagaa'uṅ
+
+  4
+  Qad se bhi bara tir tera chhota gala hai
+  Kya main karuṅ tadbir tujhe kaise bachaa'uṅ
+
+  5
+  Dobara tujhe koi kahiṅ qatl na kar de
+  Darti huṅ ke kaise main teri laash chhupaa'uṅ
+
+  6
+  Nanhi si lahad bhi teri kya khushk rahe gi
+  Paani to nahiṅ paas main aaṅsu hi giraa'uṅ
+
+  7
+  Dil zakhmi jigar zakhmi meri ruh bhi zakhmi
+  Khuṅ aaṅkhoṅ se barsa ke teri yaad manaa'uṅ
+
+  8
+  Rizwaan se Naasir se kaheṅ Maadar-e-Asghar
+  Is nauhe ko sunne main teri lahad mein aa'uṅ
+
+  9
+  Maaṅ tarpe gi jab yaad teri aaye gi beta
+  Ab kaun sahaara hai mera mar hi main jaa'uṅ
+
+  10
+  Ik pal bhi mujhe tere bina chain nahiṅ hai
+  Main apna ye dukh kaise in aaṅkhoṅ mein samaa'uṅ
+
+  11
+  Armaan raha dil mein ke maaṅ keh ke pukaare
+  Dil phatta hai mera main ise kaise manaa'uṅ
+
+  12
+  Paani ke liye baaba tujhe le ke chale haiṅ
+  Mil jaaye agar mujh ko teri pyaas bujhaa'uṅ
 ---
 
 تجھے جھولا جھلاؤں میں تجھے جھولا جھلاؤں

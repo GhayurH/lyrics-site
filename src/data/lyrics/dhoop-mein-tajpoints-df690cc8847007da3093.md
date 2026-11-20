@@ -1,32 +1,53 @@
 ---
-title: "Dhoop Mein"
+title: "دھوپ میں"
+alternateTitle: "Dhoop Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zafar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Eman ki ho jaye gi pehchan dhop mein
+  Sajney do zara minber-e-palaan dhop mein
+
+  1
+  Rutba bata rahe hain Ali ka Rasool-e-Haq
+  Kuch loag ho rahe hain pareshan dhop mein
+  Soraj ki garmi oss pe wilayat ki bijliyaan
+  Kitno ke raakh ho gaye arman dhop mein
+
+  2
+  Aye Sheikh bin wilaye Ali hajj kahan howa
+  Chakar laga ke bas hoye halkan dhop mein
+  Rutba Ali ka sare jahan ko dikhai de
+  Youn bhi howa Ghadeer ka ayelan dhop mein
+
+  3
+  Nad-e-Ali ka wird musalsal zabaan pe hai
+  Saya figan hai Sorah-e-Rehman dhop mein
+  Nad-e-Ali Zafar hai meri shab ka sahara
+  Our parcham-e-Abbas nigehban dhop mein
 ---
 
-Eman Ki Ho Jaye Gi Pehchan Dhop Mein.
-Sajney Do Zara Minber-e-Palaan Dhop Mein.
+ایمان کی ہو جائے گی پہچان دھوپ میں
+سجنے دو ذرا منبرِ پالان دھوپ میں
 
-1
-Rutba Bata Rahe Hain Ali Ka Rasool-e-Haq.
-Kuch Loag Ho Rahe Hain Pareshan Dhop Mein.
-Soraj Ki Garmi Oss Pe Wilayat Ki Bijliyaan.
-Kitno Ke Raakh Ho Gaye Arman Dhop Mein.
+۱
+رتبہ بتا رہے ہیں علی کا رسولِ حق
+کچھ لوگ ہو رہے ہیں پریشان دھوپ میں
+سورج کی گرمی اس پہ ولایت کی بجلیاں
+کتنوں کے راکھ ہو گئے ارمان دھوپ میں
 
-2
-Aye Sheikh Bin Wilaye Ali Hajj Kahan Howa.
-Chakar Laga Ke Bas Hoye Halkan Dhop Mein.
-Rutba Ali Ka Sare Jahan Ko Dikhai De.
-Youn Bhi Howa Ghadeer Ka Ayelan Dhop Mein.
+۲
+اے شیخ بن ولائے علی حج کہاں ہوا
+چکر لگا کے بس ہوئے ہلکان دھوپ میں
+رتبہ علی کا سارے جہاں کو دکھائی دے
+یوں بھی ہوا غدیر کا اعلان دھوپ میں
 
-3
-Nad-e-Ali Ka Wird Musalsal Zabaan Pe Hai.
-Saya Figan Hai Sorah-e-Rehman Dhop Mein.
-Nad-e-Ali Zafar Hai Meri Shab Ka Sahara.
-Our Parcham-e-Abbas Nigehban Dhop Mein.
+۳
+نادِ علی کا ورد مسلسل زبان پہ ہے
+سایہ فگن ہے سورۂ رحمن دھوپ میں
+نادِ علی ظفر ہے میری شب کا سہارا
+اور پرچمِ عباس نگہبان دھوپ میں

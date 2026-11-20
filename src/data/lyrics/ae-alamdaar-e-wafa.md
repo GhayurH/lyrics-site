@@ -26,8 +26,8 @@ romanLyrics: |-
 
   2
   Mera ghar lut liya Shaam ke qazzaaqoṅ ne
-  Chaadareṅ chhin ke aada ne jalaaye khaime
-  Maiṅ ne amma ki suni thi ye sada rote hue
+  Chaadareṅ chhin ke aada ne jalaaya khaime
+  Main ne ammaaṅ ki suni thi ye sada rote hue
   Chhor ke tu jo gaya ghaazi
   Barh gayi aur jafa ghaazi
   Mera barbaad hua ghar
@@ -41,7 +41,7 @@ romanLyrics: |-
   Mera barbaad hua ghar
 
   4
-  Besukun maiṅ huṅ alamdaar tere jaane se
+  Bekasoṅ main huṅ alamdaar tere jaane se
   Zindagi ban gayi aazaar tere jaane se
   Pyaase bachche haiṅ azaadaar tere jaane se
   Teri furqat hai saza ghaazi
@@ -57,15 +57,15 @@ romanLyrics: |-
   Mera barbaad hua ghar
 
   6
-  Ro pari aaya-e-tathir sar-e-Karbobala
-  Jab chhini chaadar-e-hamshir sar-e-Karbobala
-  Lut gayi Zehra ki jaagir sar-e-Karbobala
+  Ro pari aaya-e-tathir sar-e-Karb o Bala
+  Jab chhini chaadar-e-hamshir sar-e-Karb o Bala
+  Lut gayi Zehra ki jaagir sar-e-Karb o Bala
   Mere ashkoṅ ne kaha ghaazi
   Alqama chhor ke aa ghaazi
   Mera barbaad hua ghar
 
   7
-  Beqata baali Sakina pe ghashi hai taari
+  Beqatl baali Sakina pe ghashi hai taari
   Aankh meiṅ ashk hai aankhoṅ se lahu hai jaari
   Tujh se faryaad ye karti hai ghamoṅ ki maari
   Ae wafaadaar chacha ghaazi
@@ -85,7 +85,7 @@ romanLyrics: |-
   Le gaye lut ke qazzaaq ridaaeṅ sar se
   Dekh ham khaak-nashinoṅ ki musibat aa ke
   Ghar jala dil bhi jala ghaazi
-  Mera kunba na raha ghaazi
+  Mera kunba na raha raha ghaazi
   Mera barbaad hua ghar
 ---
 اے علمدار وفا غازی

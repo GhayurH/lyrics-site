@@ -32,7 +32,7 @@ romanLyrics: |-
   Ibn-e-Anas ne qatl kiya neza maar ke
 
   5
-  Barchhi ka phal hai sine meiṅ hichki hai maut ki
+  Barchhi ka phal hai sine meiṅ hichki meiṅ maut ki
   Sheh ko salaam karte haiṅ Akbar pukaar ke
 
   6
@@ -64,8 +64,8 @@ romanLyrics: |-
   Zaalim ridaaeṅ le gaye sar se utaar ke
 
   13
-  Bas aakhri ye dil ki tamanna hai Ae Qamar
-  Rauze pe jald pahunche Shah-e-Naamdaar ke
+  Bas aakhri ye dil ki tamanna hai ae Qamar
+  Rauze pe jald pahunche Sheh-e-Naamdaar ke
 ---
 اکبر ہوئے جواں جو بچپن گزار کے
 لیلیٰ یہ سمجھی آئے ہیں اب دن بہار کے

@@ -8,37 +8,25 @@ poet: "Ameer Hussain Mashadi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Teeron ki zad mei aagaya Zahra ka gulbadn
-
-  Sarmaye rasool hai shezada e amal
-
+romanLyrics: |-
+  Tiroṅ ki zidd mein aa gaya Zahra ka gulbadan
 
   1
-
-  Poshak jis ki khuld se laye hoo jibreal
-
-  Aab uske hai badn pe zukhmo ka peyrahan
-
+  Sarmaya-e-Rasul hai shahzada-e-amaan
+  Poshaak jis ki khuld se laaye the Jibrail
+  Ab us ke hai badan pe zakhmoṅ ka pairahan
 
   2
-
-  Barse hain teer itne laashe hasan pe yoo
-
-  Rangeen hai lahoo mei mazloom ka kafan
-
+  Barse hai tere itne laashe Hasan pe yuṅ
+  Rangin hai lahu mein maasum ka kafan
 
   3
-
-  Koi Mustafa se isko kaise juda kare
-
-  Mumkin nahi hai is se takmile panjetan
-
+  Koi Mustafa se is ko kaise juda kare
+  Mumkin nahiṅ hai is ke takmil-e-Panjtan
 
   4
-
-  Ik tu hi tu hasan ka naukar nahi ameer
-
-  Har marde bawafa ka sardar hai hasan'
+  Ek tu hi Hasan ka naukar nahiṅ Amir
+  Har marg ba wafa sardaar hai Hasan
 ---
 
 تیروں کی ضد میں آ گیا زہرا کا گلبدن

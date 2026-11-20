@@ -33,7 +33,7 @@ romanLyrics: |-
   Kis ko dam-e-mushkil meiṅ pukaare ga musalmaaṅ
 
   4
-  Tu ne bin-e-Muljim ye sitam kaisa hai dhaaya
+  Tu ne bin Muljim ye sitam kaisa hai dhaaya
   Sajde meiṅ namaazi ka lahu kiuṅ hai bahaaya
   Abbas ko bachpan meiṅ kiya chaak garebaaṅ
 

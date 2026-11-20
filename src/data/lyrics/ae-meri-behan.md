@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Wo zakhmi kaleja Akbar ka
   Hulqum chhida wo Asghar ka
-  Har lamha tujhe yaad aayega
+  Har lamha tujhe yaad aaye ga
   Hai sabr tujhe karna Zainab
 
   3
@@ -46,19 +46,19 @@ romanLyrics: |-
 
   6
   Bimaar pisar Sajjad mera
-  Zanjir meiṅ jakra jaaye ga
-  Aur tauq meiṅ hoga us ka gala
+  Zanjir mein jakra jaaye ga
+  Aur tauq mein hoga us ka gala
   Hai sabr tujhe karna Zainab
 
   7
   Mazlum meri pyaasi bachchi
   Zaalim ke tamaanche khaaye gi
-  Rassi meiṅ bandhe ga us ka gala
+  Rassi mein bandhe ga us ka gala
   Hai sabr tujhe karna Zainab
 
   8
-  Gir jaayeṅ ge uṅtoṅ se bachche
-  Aur guṅjeṅ ge un ke naale
+  Gir jaayeṅ ge untoṅ se bachche
+  Aur gunjeṅ ge un ke naale
   Koi na sune ga un ki sada
   Hai sabr tujhe karna Zainab
 

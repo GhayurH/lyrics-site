@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab sakina ko sar-e-hazrate shabbir mila
-  Moo pe moo rakh ke sakina ne kiya tha nauha
-  Baba ye zaalim dunya
+  Jab Sakina ko sar-e-Hazrat-e-Shabbir mila
+  Munh pe munh rakh ke Sakina ne kiya tha noha
+  Baba ye zaalim duniya
   Kabhi nehr pe pehra lagaati hai
-  Kabhi pyasoṅ ko tarpaati hai
+  Kabhi pyaasoṅ ko tarpaati hai
   Mehmaan ko khuṅ rulaati hai
-  Sadaat ko qaidi banaati hai
-  Sadaat ki ghurbat pe bhi khamosh hai dunya
-  Sach hai bari ehsaan faramosh hai dunya
-  Beti ko saath baap ke rehne nahi deti hai
-  Allah jaane ye dunya kaisi hai
-  Baba yahaṅ rone pe tamachoṅ ki saza hai
-  Ashkoṅ pe bhi faryad pe bhi pehra laga hai
-  Bin baap ki bachi ko tarapne nahi deti hai
-  Allah jaane ye dunya...
-  Baba mere kaano se rawaṅ khuṅ hai abhi tak
-  Taqdir meri mujhse khafa kiuṅ hai abhi tak
-  Ghar lut ke bhi chain se jine nahi deti hai
-  Allah jaane ye dunya...
-  Baba jo guzarti hai tumhe kaise batauṅ
-  Sab log alag qaid hai mai qaid alag hoo
-  Ek lamha bhi ghar waloṅ se milne nahi deti hai
-  Allah jaane ye dunya...
-  Baba ye andhera hi mujhe qatl karega
-  Lagta hai ye zindaṅ meri qabr banega
-  Zindaṅ se ghar kiuṅ mujhe jaane nahi deti hai
-  Allah jaane ye dunya...
-  Baba phupi amma ki judaai pe hoo muztar
-  Sajjad mere saath hai na saath hai baqer
-  Aankhoṅ se mere ashk bhi behne nahi deti hai
-  Allah jaane ye dunya...
-  Baba mere har dard ka irfan hai tum ko
-  E mazhar e yazdaṅ ke pisar mujhko bachalo
-  Jina to kuja chain se marne nahi deti hai
-  Allah jaane ye dunya...
+  Saadaat ko qaidi banaati hai
+  Saadaat ki ghurbat pe bhi khaamosh hai duniya
+  Sach hai bari ehsaan faramosh hai duniya
+  Beti ko saath baap ke rehne nahiṅ deti hai
+  Allah jaane ye duniya kaisi hai
+  Baba yahaṅ rone pe tamaanchoṅ ki saza hai
+  Ashkoṅ pe bhi faryaad pe bhi pehra laga hai
+  Bin baap ki bachchi ko tarapne nahiṅ deti hai
+  Allah jaane ye duniya...
+  Baba mere kaanoṅ se rawaṅ khuṅ hai abhi tak
+  Taqdir meri mujh se khafa kiuṅ hai abhi tak
+  Ghar lut ke bhi chain se jine nahiṅ deti hai
+  Allah jaane ye duniya...
+  Baba jo guzarti hai tumheṅ kaise bataauṅ
+  Sab log alag qaid hai main qaid alag huṅ
+  Ek lamha bhi ghar waloṅ se milne nahiṅ deti hai
+  Allah jaane ye duniya...
+  Baba ye andhera hi mujhe qatl kare ga
+  Lagta hai ye zindaṅ meri qabr bane ga
+  Zindaṅ se ghar kiuṅ mujhe jaane nahiṅ deti hai
+  Allah jaane ye duniya...
+  Baba phuphi amma ki judaai pe huṅ muztar
+  Sajjad mere saath hai na saath hai Baaqir
+  Aankhoṅ se mere ashk bhi behne nahiṅ deti hai
+  Allah jaane ye duniya...
+  Baba mere har dard ka irfaan hai tum ko
+  Ae Mazhar-e-Yazdaṅ ke pisar mujh ko bacha lo
+  Jina to kuja chain se marne nahiṅ deti hai
+  Allah jaane ye duniya...
 ---
 
 ۱

@@ -1,6 +1,6 @@
 ---
 title: "عباس نہ لوٹے سجاد اشرف تقوی"
-alternateTitle: "Abbas Na Lautey Sajjad Ashraf Taqvi"
+alternateTitle: "Abbas Na Laute Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas na lautey Sajjad Ashraf Taqvi
-  Sahil ki fiza baha gayi, Abbas na laute
+  Abbas na laute Sajjad Ashraf Taqvi
+  Saahil ki fiza baha gayi, Abbas na laute
   Bhai ko qaza aa gayi, Abbas na laute
-  Dekha na gaya nehar pe jarrar ka qabza
-  Pani ki nazar kha gayi, Abbas na laute
-  Keh kar tu gaye they keh abhi aata hoon bibi
+  Dekha na gaya nehr pe jarraar ka qabza
+  Paani ki nazar kha gayi, Abbas na laute
+  Keh kar to gaye the ke abhi aata huṅ Bibi
   Din dhal gaya raat aa gayi, Abbas na laute
   Takti rahi takti rahi hasrat se Sakina
-  Aankhon mein nami aa gayi, Abbas na laute
-  Jab dair hoi had se tu ammo ko bulanay
+  Aaṅkhoṅ mein nami aa gayi, Abbas na laute
+  Jab der hui had se to ammu ko bulaane
   Maqtal mein Sakina gayi, Abbas na laute
-  Lipati rahi lashay se sheh-e-dein ki dulari
-  Durron ki sada aa gayi, Abbas na laute
-  Sarwar ka barhapa Ali Akbar ki jawani
-  Khaimay se behan aa gayi, Abbas na laute
+  Lipti rahi laashe se shah-e-diṅ ki dulaari
+  Durroṅ ki sada aa gayi, Abbas na laute
+  Sarwar ka burhaapa Ali Akbar ki jawaani
+  Khaime se behan aa gayi, Abbas na laute
   Halq-e-Ali Asghar pe chala teer-e-qayamat
-  Zulmat ki ghata cha gayi, Abbas na laute
-  Ik aik se ro ro ke yehi kehti thin Zainab
-  Bazu mein rasan aa gayi, Abbas na laute
-  Ghutti rahi roti rahi zindaan mein Sakina
+  Zulmat ki ghata chha gayi, Abbas na laute
+  Ik ek se ro ro ke yahi kehti thiṅ Zainab
+  Baazu mein rasan aa gayi, Abbas na laute
+  Ghutti rahi roti rahi zindaaṅ mein Sakina
   Aakhir ko qaza aa gayi, Abbas na laute
-  Woh zulm hoye syed-e-Sajjad pe Asif
-  Zanjeer bhi thara gayi, Abbas na laute
+  Woh zulm hue Sayyid-e-Sajjad pe Asif
+  Zanjir bhi tharraa gayi, Abbas na laute
 ---
 
 ۱

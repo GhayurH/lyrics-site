@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Kitne haiṅ log Kufe kaise
-  Jin ke Maula ne dukh dard baante
+  Jin ke Maula ne dukh dard baate
   Chhin gaya aaj un ka masiha
 
   8
@@ -55,7 +55,7 @@ romanLyrics: |-
   Waqt kaisa ye Zainab pe aaya
 
   9
-  Ghar meiṅ farsh-e-aza bichh gaya hai
+  Ghar meiṅ farsh-e-azaa bichh gaya hai
   Aaj Kufe meiṅ maatam bapa hai
   Sog meiṅ duba ghar Sayyeda ka
 
@@ -72,7 +72,7 @@ romanLyrics: |-
   12
   Ghar se mayyat Ali ki jo uthi
   Ruk gayi nabz donoṅ jahaaṅ ki
-  Arsh waale bhi karte haiṅ girya
+  Arsh wale bhi karte haiṅ girya
 
   13
   Bain karte haiṅ Farhan o Mazhar

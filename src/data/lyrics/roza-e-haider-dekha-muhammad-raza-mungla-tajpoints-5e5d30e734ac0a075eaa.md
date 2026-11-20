@@ -1,44 +1,72 @@
 ---
-title: "Roza E Haider Dekha Muhammad Raza Mungla"
+title: "روضۂ حیدر دیکھا محمد رضا منگلا"
+alternateTitle: "Roza-e-Haider Dekha Muhammad Raza Mungla"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Zahra"
-tags: ["noUrdu"]
+poet: "Zahra Ali"
+reciter: "Muhammad Raza Mungla"
+volume: "Muhammad Raza Mungla 2023-24"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jab muqadar se soye Roza-e-Haider dekha
+
+  1
+  Farsh se arsh talak noor ka lashkar dekha
+  Dono aalam mein koi humsar-e-Haider na mila
+  Dobay soraj ne kayi bar ubhar kar dekha
+  Meesum-o-Buzar-o-Salmaan sa bhala kis ka naseeb
+
+  2
+  Jis ne Maula teri nalain ko cho kar dekha
+  Kaun hai bazm-e-risalat mein namazi asli
+  Ja ke Shabbir ne khud pusht-e-Nabi par dekha
+  Barh ke Rizwan ne khud chom liye hath oss ke
+
+  3
+  Dar pe janat ke jo Abbas ka nokar dekha
+  Hashar ke din bhi hoye mehway ibadat hum loag
+  Lab-e-Kausar jo roye Saqi-e-Kausar dekha
+  Jab kabhi Shair-e-Khuda ne kiya barh kar hamla
+
+  4
+  Taig dekhi kabhi Jibreel ne sheh par dekha
+  Koi bhi dar jo howa nam-e-Ali se mansoob
+  Sar jhukaye hoye dunya ko wahin par dekha
+  Aa ke sunney lagay Zahra-o-Raza ahl-e-falak
+
+  5
+  Madh-e-Maula humein kartay jo kahin par dekha
 ---
 
-Roza e Haider Dekha Muhammad Raza Mungla.
-Jab Muqadar Se Soye Roza-e-Haider Dekha.
+جب مقدر سے سوئے روضۂ حیدر دیکھا
 
-1
-Farsh Se Arsh Talak Noor Ka Lashkar Dekha.
-Dono Aalam Mein Koi Humsar-e-Haider Na Mila.
-Dobay Soraj Ne Kayi Bar Ubhar Kar Dekha.
-Meesum-o-Buzar-o-Salmaan Sa Bhala Kis Ka Naseeb.
+۱
+فرش سے عرش تلک نور کا لشکر دیکھا
+دونوں عالم میں کوئی ہم سرِ حیدر نہ ملا
+ڈوبے سورج نے کئی بار ابھر کر دیکھا
+میثم و بوذر و سلمان سا بھلا کس کا نصیب
 
-2
-Jis Ne Maula Teri Nalain Ko Cho Kar Dekha.
-Kaun Hai Bazm-e-Risalat Mein Namazi Asli.
-Ja Ke Shabbir Ne Khud Pusht-e-Nabi Par Dekha.
-Barh Ke Rizwan Ne Khud Chom Liye Hath Oss Ke.
+۲
+جس نے مولا تری نعلین کو چھو کر دیکھا
+کون ہے بزمِ رسالت میں نمازی اصلی
+جا کے شبیر نے خود پشتِ نبی پر دیکھا
+بڑھ کے رضوان نے خود چوم لیے ہاتھ اس کے
 
-3
-Dar Pe Janat Ke Jo Abbas Ka Nokar Dekha.
-Hashar Ke Din Bhi Hoye Mehway Ibadat Hum Loag.
-Lab-e-Kausar Jo Roye Saqi-e-Kausar Dekha.
-Jab Kabhi Shair-e-Khuda Ne Kiya Barh Kar Hamla.
+۳
+در پہ جنت کے جو عباس کا نوکر دیکھا
+حشر کے دن بھی ہوئے محوِ عبادت ہم لوگ
+لبِ کوثر جو روئے ساقیِ کوثر دیکھا
+جب کبھی شیرِ خدا نے کیا بڑھ کر حملہ
 
-4
-Taig Dekhi Kabhi Jibreel Ne Sheh Par Dekha.
-Koi Bhi Dar Jo Howa Nam-e-Ali Se Mansoob.
-Sar Jhukaye Hoye Dunya Ko Wahin Par Dekha.
-Aa Ke Sunney Lagay Zahra-o- Raza Ahl-e-Falak.
+۴
+تیغ دیکھی کبھی جبرئیل نے شہپر دیکھا
+کوئی بھی در جو ہوا نامِ علی سے منسوب
+سر جھکائے ہوئے دنیا کو وہیں پر دیکھا
+آ کے سننے لگے زہرا و رضا اہلِ فلک
 
-5
-Madh-e-Maula Humein Kartay Jo Kahin Par Dekha.
-Poetess::Zahra Ali:
-Manqabat Khowan::Muhammad Raza Mungla:
-Manqabat Volume::Muhammad Raza Mungla 2023-24:
+۵
+مدحِ مولا ہمیں کرتے جو کہیں پر دیکھا

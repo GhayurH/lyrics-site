@@ -1,21 +1,33 @@
 ---
-title: "Tum Kabhi Sar Pay Agar Sehra Sajana Akbar"
+title: "تم کبھی سر پہ اگر سہرا سجانا اکبر"
+alternateTitle: "Tum Kabhi Sar Pay Agar Sehra Sajana Akbar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Sehra"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mere bhai main tere mathay pe sehra dekhon
+  Yeh mere dil ka hai arman porana Akbar
+  Tum jo masroof ho shadi mein na lainay aao
+  Khud hi aa jaon gi tareekh batana Akbar
+  Main tere aane se pehle hi agar mar jaon
+  Apni baraat meri qabar pe lana Akbar
+  Tum ne mehmal se utara tha mujhe khud aa kar
+  Meri bhawaj ko na yeh baat batana Akbar
+  Tu ne bandha hai jahan maut ka sehra Maula
+  Bas woh nagri kabhi Shaukat ko dikhana Akbar
 ---
 
-Mere Bhai Main Tere Mathay Pe Sehra Dekhon
-Yeh Mere Dil Ka Hai Arman Porana Akbar
-Tum Jo Masroof Ho Shadi Mein Na Lainay Aao
-Khud Hi Aa Jaon Gi Tareekh Batana Akbar
-Main Tere Aane Se Pehle Hi Agar Mar Jaon
-Apni Baraat Meri Qabar Pe Lana Akbar
-Tum Ne Mehmal Se Utara Tha Mujhe Khud Aa Kar
-Meri Bhawaj Ko Na Yeh Baat Batana Akbar
-Tu Ne Bandha Hai Jahan Maut Ka Sehra Maula
-Bas Woh Nagri Kabhi SHAUKAT Ko Dikhana Akbar
+میرے بھائی میں تیرے ماتھے پہ سہرا دیکھوں
+یہ میرے دل کا ہے ارمان پرانا اکبر
+تم جو مصروف ہو شادی میں نہ لینے آؤ
+خود ہی آ جاؤں گی تاریخ بتانا اکبر
+میں تیرے آنے سے پہلے ہی اگر مر جاؤں
+اپنی بارات میری قبر پہ لانا اکبر
+تم نے محمل سے اتارا تھا مجھے خود آ کر
+میری بھاوج کو نہ یہ بات بتانا اکبر
+تو نے باندھا ہے جہاں موت کا سہرا مولا
+بس وہ نگری کبھی شوکت کو دکھانا اکبر

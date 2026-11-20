@@ -23,9 +23,9 @@ romanLyrics: |-
   Zinda hai tere naam se naam-e-Khuda Husain
 
   2
-  Hai kitne mominin jo haj par na jaa sake
+  Hai kitne mominin jo hajj par na jaa sake
   Baithe haiṅ apne dil meiṅ ye armaaṅ liye hue
-  Is saal tere rauze pe haj ho ada Husain
+  Is saal tere rauze pe hajj ho ada Husain
 
   3
   Kya Karbala hai sirf amiroṅ ke waaste
@@ -60,7 +60,7 @@ romanLyrics: |-
   9
   Sar tha tere gharib ka patthar ke waar pe
   Tere pisar ke pairoṅ ke chhaaloṅ meiṅ khaar the
-  Phir bhi zubaaṅ se kehte tha beta tera Husain
+  Phir bhi zubaaṅ se kehte the beta tera Husain
 
   10
   Sajjad wohi bante haiṅ bas zaair-e-Imaam

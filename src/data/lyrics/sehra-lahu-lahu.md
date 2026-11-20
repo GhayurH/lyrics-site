@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Bikhre pare haiṅ laashe sehra lahu lahu hai
-  Dasht-e-bala meiṅ Shah ka sajda lahu lahu hai
+  Dasht-e-balaa meiṅ Shah ka sajda lahu lahu hai
 
   1
   Lashkar Yazidiyoṅ ka khaime jala raha hai
-  Mehbub-e-Kibriya ka wo dil dukha raha hai
+  Mehbub-e-Kibriyaa ka wo dil dukha raha hai
   Insaaniyat ka dekho chehra lahu lahu hai
 
   2
@@ -36,16 +36,16 @@ romanLyrics: |-
 
   5
   Jab ran meiṅ aae Haidar har Bibi thi hazina
-  Kehti thi dada jaaṅ se ro ro ke ye Sakina
+  Kehti thi daada jaaṅ se ro ro ke ye Sakina
   Chipka hua badan se kurta lahu lahu hai
 
   6
   Ye chikhti fizaaeṅ deti hai ye sadaaeṅ
   Hai khaak o khuṅ ki sar par saadat ke ridaaeṅ
-  Aulaad Mustafa ka rutba lahu lahu hai
+  Aulaad-e-Mustafa ka rutba lahu lahu hai
 
   7
-  Dushwaar raaste haiṅ manzil kathan hai saari
+  Dushwaar raaste haiṅ manzil kathin hai saari
   Zakhmoṅ se naatawaaṅ ke taaza lahu hai jaari
   Karbal se Shaam tak ka rasta lahu lahu hai
 ---

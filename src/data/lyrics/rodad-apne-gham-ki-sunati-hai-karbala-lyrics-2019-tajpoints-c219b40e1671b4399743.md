@@ -1,43 +1,76 @@
 ---
-title: "Rodad Apne Gham Ki Sunati Hai Karbala Lyrics 2019"
+title: "روداد اپنے غم کی سناتی ہے کربلا"
+alternateTitle: "Rodad Apne Gham Ki Sunati Hai Karbala"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rodad apne gham ki sunati hai Karbala
+
+  1
+  Jalte howay khiyam se uthta howa dhuwaan
+  Sar nangay chand bibiyaan lashon ke darmiyaan
+  Zanjeer-o-tauq pehne howay aik nojawaan
+  Sadiyon se al-Ajal ki sada deta karwaan
+
+  2
+  Aye aakhri Hussain bulati hai Karbala
+  Khamoshi kaise bhole gi yeh Zulfiqar ki
+  Aati hai jab bhi yaad ghareeb-ul-deyar ki
+  Sehra mein ab bhi khak urati hai Karbala
+  Karwat badal rahi hai tere intezar mein
+  Sadiyon se jagti hai tere intezar mein
+  Asghar ko roz lori sunati hai Karbala
+  Kis tarha tukray Qasim-o-Abbas ke howay
+  Kaise Hussain Ibn-e-Ali zeen se giray
+  Ik aik zulm yaad dilati hai Karbala
+  Hai kab se be-qarar tarapti hai aa bhi ja
+  Zainab ki be-ridai ka parhti hai marsiya
+  Ro ro ke momino ko rulati hai Karbala
+  Takta hai teri rah ghareeb-al-watan Hussain
+  Chodah so saal ho gaye hai be-kafan Hussain
+  Matti se sheh ki lash chupati hai Karbala
+  Turbat mein khon rota hai maula har aik pal
+  Aawaz detey jate hain aye lal al-Ajal
+  Zain-al-Ebba ko yaad jo aati hai Karbala
+  Aashor wale din jo Takallum ujar gaye
+  Maon se aik din mein jo bache bichar gaye
+  Seene se apne unko lagati hai Karbala
 ---
 
-Rodad Apne Gham Ki Sunati Hai Karbala
+روداد اپنے غم کی سناتی ہے کربلا
 
-1
-Jalte Howay Khiyam Se Uthta Howa Dhuwaan.
-Sar Nangay Chand Bibiyaan Lashon Ke Darmiyaan.
-Zanjeer-o-Tauq Pehne Howay Aik Nojawaan.
-Sadiyon se Al-Ajal Ki Sada Deta Karwaan.
+۱
+جلتے ہوئے خیام سے اٹھتا ہوا دھواں
+سر ننگے چند بیبیاں لاشوں کے درمیاں
+زنجیر و طوق پہنے ہوئے ایک نوجوان
+صدیوں سے العجل کی صدا دیتا کارواں
 
-2
-Aye Aakhri Hussain Bulati Hai Karbala.
-Khamoshi Kaise Bhole Gi Yeh Zulfiqar Ki.
-Aati Hai Jab Bhi Yaad Ghareeb-ul-Deyar Ki.
-Sehra Mein Ab Bhi Khak Urati Hai Karbala.
-Karwat Badal Rahi Hai Tere Intezar Mein.
-Sadiyon Se Jagti Hai Tere Intezar Mein.
-Asghar Ko Roz Lori Sunati Hai Karbala.
-Kis Tarha Tukray Qasim-o-Abbas Ke Howay.
-Kaise Hussain Ibn-e-Ali Zeen Se Giray.
-Ik Aik Zulm Yaad Dilati Hai Karbala.
-Hai Kab Se Be-Qarar Tarapti Hai Aa Bhi Ja.
-Zainab Ki Be-Ridai Ka Parhti Hai Marsiya.
-Ro Ro Ke Momino Ko Rulati Hai Karbala.
-Takta Hai Teri Rah Ghareeb-al-Watan Hussain.
-Chodah So Saal Ho Gaye Hai Be-Kafan Hussain.
-Matti Se Sheh Ki Lash Chupati Hai Karbala.
-Turbat Mein Khon Rota Hai Maula Har Aik Pal.
-Aawaz Detey Jate Hain Aye Lal Al-Ajal.
-Zain-al-Ebba Ko Yaad Jo Aati Hai Karbala.
-Aashor Wale Din Jo Takallum Ujar Gaye.
-Maon Se Aik Din Mein Jo Bache Bichar Gaye.
-Seene Se Apne Unko Lagati Hai Karbala.
+۲
+اے آخری حسین بلاتی ہے کربلا
+خاموشی کیسے بھولے گی یہ ذوالفقار کی
+آتی ہے جب بھی یاد غریب الدیار کی
+صحرا میں اب بھی خاک اڑاتی ہے کربلا
+کروٹ بدل رہی ہے تیرے انتظار میں
+صدیوں سے جاگتی ہے تیرے انتظار میں
+اصغر کو روز لوری سناتی ہے کربلا
+کس طرح ٹکڑے قاسم و عباس کے ہوئے
+کیسے حسین ابنِ علی زین سے گرے
+اک ایک ظلم یاد دلاتی ہے کربلا
+ہے کب سے بے قرار تڑپتی ہے آ بھی جا
+زینب کی بے ردائی کا پڑھتی ہے مرثیہ
+رو رو کے مومنوں کو رلاتی ہے کربلا
+تکتا ہے تیری راہ غریب الوطن حسین
+چودہ سو سال ہو گئے ہے بے کفن حسین
+مٹی سے شہ کی لاش چھپاتی ہے کربلا
+تربت میں خون روتا ہے مولا ہر ایک پل
+آواز دیتے جاتے ہیں اے لعل العجل
+زین العبا کو یاد جو آتی ہے کربلا
+عاشور والے دن جو تکلم اجڑ گئے
+ماؤں سے ایک دن میں جو بچے بچھڑ گئے
+سینے سے اپنے ان کو لگاتی ہے کربلا

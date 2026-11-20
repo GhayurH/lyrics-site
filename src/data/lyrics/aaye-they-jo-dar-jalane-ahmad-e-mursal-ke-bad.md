@@ -1,6 +1,6 @@
 ---
 title: "آئے تھے جو در جلانے احمدِ مرسل کے بعد"
-alternateTitle: "Aaye They Jo Dar Jalane Ahmad-e-Mursal Ke Bad"
+alternateTitle: "Aaye The Jo Dar Jalaane Ahmad-e-Mursal Ke Baad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,22 +10,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaye they jo dar jalane Ahmad-e-Mursal ke bad
-  Martay they taziyane Ahmad-e-Mursal ke baad
-  Pehle yeh kehte rahe keh deen ke sab kuch hain hum
-  Phir lagay haq ko chupaney Ahmad-e-Mursal ke baad
+  Aaye the jo dar jalaane Ahmad-e-Mursal ke baad
+  Maarte the taaziyaane Ahmad-e-Mursal ke baad
+  Pehle yeh kehte rahe ke din ke sab kuchh haiṅ ham
+  Phir lage haq ko chhupaane Ahmad-e-Mursal ke baad
 
   2
-  Jo kiye ummat pe ahsaan janti hai kainat
-  Bhool gaye sab kyun na jane Ahmad-e-Mursal ke baad
-  Khata tha jis ghar ki qasmein khud Khuda-e-Zuljalal
-  Aa gaye oss ko giranay Ahmad-e-Mursal ke baad
+  Jo kiye ummat pe ahsaan jaanti hai kaainaat
+  Bhul gaye sab kiuṅ na jaane Ahmad-e-Mursal ke baad
+  Khaata tha jis ghar ki qasmeiṅ khud Khudaa-e-Zuljalaal
+  Aa gaye us ko giraane Ahmad-e-Mursal ke baad
 
   3
-  Hai rulaya iss qadar baad Ahmad kalma go
-  Karb mein guzrey zamane Ahmad-e-Mursal ke baad
-  Pyar Asif jo jatatay they Nabi ko ja baja
-  Kho gaye phir woh dewanay Ahmad-e-Mursal ke baad
+  Hai rulaaya is qadar baad-e-Ahmad kalma go
+  Karb meiṅ guzre zamaane Ahmad-e-Mursal ke baad
+  Pyaar Aasif jo jataate the Nabi ko jaa bajaa
+  Kho gaye phir woh diwaane Ahmad-e-Mursal ke baad
 ---
 
 ۱

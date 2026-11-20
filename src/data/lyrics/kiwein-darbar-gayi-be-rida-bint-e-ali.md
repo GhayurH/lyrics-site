@@ -8,62 +8,72 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Keewain bazaar gaye bay rida Bint-e-Ali
-
-  Tu aey nazaan di palli
-
+romanLyrics: |-
+  Kaise darbar gayi, be rida Bint-e-Ali
+  Jo thi naazoṅ se pali, bare naazoṅ se pali
 
   1
+  Pehne hathkariyaaṅ woh jab Shaam ke bazaar aayi
+  Bari majbur thi laachaar thi Zehra jaayi
+  Bole Sajjad phuphi, bhir bazaar bari
+  Tu hai naazoṅ se pali, bare naazoṅ se pali
 
-  1) Pa ke hathkarian jadan Shaam de bazar aayi
+  Kiweṅ darbar gayi be rida Bint-e-Ali
+  Jehri naazaaṅ di pali, bare naazaaṅ di pali
+  Paa ke hathkariyaaṅ jadaaṅ Shaam de bazaar aayi
+  Daadhi majbur te laachaar si Zehra jaayi
+  Aakhe Sajjad phuphi, bhir bazaar bari
+  Tuṅ ae naazaaṅ di pali, bare naazaaṅ di pali
 
-  Dadhi majboor te lachaar si Zehra jaye
-
-  Aakhay Sajjad phuphi, bheer bazaar bari
-
+  Jis ko farmaaya Nabi paak ne dil ka tukra
+  Haaye afsos ke us Bibi ka haq bhi na diya
+  Jab woh khaali lauti, qabr baabe ki hili
 
   2
+  Jeṅ koṅ farmaaya Nabi paak ne dil da tukra
+  Haaye afsos meri sainr nuṅ haq na milya
+  O jadoṅ khaali wali, qabr baabe di hili
+  Tuṅ ae naazaaṅ di pali, bare naazaaṅ di pali
 
-  2) Jain ko farmaya Nabi pak nay dil da tukra
-
-  Haaye afsoos maydi sayn kon haq na millayya
-
-  O Jadan khali wali qabar babay di halli
-
+  Chaadreṅ chhini haiṅ khaime bhi jalaaye naana
+  Zehra jaaiyoṅ ko haiṅ bazaar phiraaye naana
+  Shahr ba shahr phiri, lut gayi Aal-e-Nabi
 
   3
+  Chaadraaṅ lutyaaṅ te khaime vi jalaaye lokaaṅ
+  Fatima jaaiyaaṅ nuṅ bazaar phiraaye lokaaṅ
+  Shahr de shahr phiri, lut gayi Aal-e-Nabi
+  Tuṅ ae naazaaṅ di pali, bare naazaaṅ di pali
 
-  3) Chadrain lutyan te khaime vi jalaye lokan
+  Bhaiya Ghazi ka hata sar se hai jab se saaya
+  Behan Zainab ne na ik pal bhi sukuṅ ka paaya
+  Kabhi Kufe to kabhi, Shaam bazaar gayi
 
-  Fatima jayan noon bazaar vikhaye lokan
+  4
+  Vir Ghazi da jadaaṅ dhal gaya sir toṅ saaya
+  Sainr Zainab ne kadi sukh da na vela paaya
+  Kadi Kufe te kadi Shaam darbar gayi
+  Tuṅ ae naazaaṅ di pali, bare naazaaṅ di pali
 
-  Shahr de shahr phiri, lut gaye aal e Nabi
+  Bhaai Sajjad dukhi behan ko dafna dena
+  Ujri behna ko kafan Shaam ka na tum dena
+  Kar ke maatam main chali, qabr zindaaṅ mein bani
 
-  Haey nazaan di palli
+  5
+  Vir Sajjad dukhi bhain koṅ chhad na jaaweṅ
+  Bhaiṅ agri koṅ kafan Shaam da tuṅ na paaweṅ
+  Kar ke maatam main chali, qabr zindaaṅ ch bani
+  Tuṅ ae naazaaṅ di pali, bare naazaaṅ di pali
 
-  4) Veer Ghazi da jadan dhal gaya sir to saaya
+  Le ke haathoṅ pe Sakina ko ye Aabid soche
+  Kaun sunta hai meri kis ko main boluṅ jaa ke
+  Chaar saaloṅ ki pali, behan mar gayi hai meri
 
-  Sain Zainab ne kadi sukh da na vela paaya
-
-  Kadi Koofay te kadi Shaam darbar gayi
-
-  Haey nazaan di palli
-
-  5) Veer Sajjad dukhi bhain koon chadd na jawain
-
-  Bhain ujri koo kafan Shaam da tu na paween
-
-  Kar ke matam may chali, qabr zindan ch bani
-
-  Haey nazaan di palli
-
-  6) Cha ke hathan te Sakina nu aey Aabid sochay
-
-  Kon sunda aey maidi kis nu dasawan ja ke
-
-  Chaar salan di dukhi, bhain mardi aey maidi
-
-  Haey nazaan di palli'
+  6
+  Chaa ke hathaaṅ te Sakina nuṅ ae Aabid soche
+  Kaun sundda ae medi kis nuṅ dasaawaaṅ jaa ke
+  Chaar saalaaṅ di dukhi, bhain mardi ae meri
+  Tuṅ ae naazaaṅ di pali, bare naazaaṅ di pali
 ---
 
 کیسے دربار گئی، بے ردا بنتِ علیؑ

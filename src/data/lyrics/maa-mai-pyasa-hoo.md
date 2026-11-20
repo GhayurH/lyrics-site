@@ -1,6 +1,6 @@
 ---
 title: "گھوڑے سے جب زمین پہ گرنے لگے حسین"
-alternateTitle: "Maa Mai Pyasa Hoo"
+alternateTitle: "Maaṅ Main Pyaasa Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,52 +12,52 @@ published: false
 romanLyrics: |-
   1
   Ghore se jab zamin pe girne lage Husain
-  Dekha ke baal khole huwe ro rahi hai maa
-  Tehri nigaah tute huwe pehluoṅ pe jab
-  Bachpan ki yaad aa gayi bole shahe zamaaṅ
-  Maa mai pyasa hoo maa
-  Naazoṅ ka paala hoo maa
-  Maa mai pyasa hoo maa
-  Naizoṅ se chalni saara badan hai
+  Dekha ke baal khole hue ro rahi hai maaṅ
+  Thehri nigaah tute hue pehluoṅ pe jab
+  Bachpan ki yaad aa gai, bole Shah-e-Zamaaṅ
+  Maaṅ main pyaasa huṅ maaṅ
+  Naazoṅ ka paala huṅ maaṅ
+  Maaṅ main pyaasa huṅ maaṅ
+  Nezoṅ se chhalni saara badan hai
   Mera lahu hi mera kafan hai
-  Khun may duba hoo maa
-  Maa mai pyasa hoo...
-  Ab saamne hai maut ki raaheiṅ
-  Godi may lelo phailado baaheiṅ
-  Ghore se girta hoo maa
-  Maa mai pyasa hoo...
-  Darya pe hai mere ghazi ka laasha
-  Chalni hai barchi se akbar ka seena
-  Kitna akela hoo maa
-  Maa mai pyasa hoo...
-  Dekho zara ye naize ye bhaale
-  Waaqif nahi kya barchiyoṅ waale
-  Kis ka nawasa hoo maa
-  Maa mai pyasa hoo...
-  Yaad hai mujhko teri kahani
-  Ab marsiya meri kahani
-  Dard ka qissa hoo maa
-  Maa mai pyasa hoo...
-  Khun rulayegi teri adayeiṅ
-  Khanjar ke niche dunga duayeiṅ
-  Aap ka beta hoo maa
-  Maa mai pyasa hoo...
-  Sadmoṅ pe sadme khaaye hai maiṅ ne
-  Laashoṅ pe laashe uthaye hai maiṅ ne
-  Zakhmoṅ se tuta hoo maa
-  Maa mai pyasa hoo...
-  Khushk hai gardan kund hai khanjar
+  Khun mein duba huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Ab saamne hai maut ki raaheṅ
+  Godi mein le lo, phaila do baaheṅ
+  Ghore se girta huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Darya pe hai mere Ghazi ka laasha
+  Chhalni hai barchhi se Akbar ka sina
+  Kitna akela huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Dekho zara ye neze ye bhaale
+  Waaqif nahiṅ kya barchhiyoṅ waale
+  Kis ka nawaasa huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Yaad hai mujhko teri kahaani
+  Ab marsiya hai meri kahaani
+  Dard ka qissa huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Khun rulaayegi teri adaaeṅ
+  Khanjar ke niche dunga duaaeṅ
+  Aap ka beta huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Sadmoṅ pe sadme khaae haiṅ main ne
+  Laashoṅ pe laashe uthaae haiṅ main ne
+  Zakhmoṅ se tuta huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Khushk hai gardan, kund hai khanjar
   Dekhogi kaise qatl ka manzar
-  Sajde may jaata hoo maa
-  Maa mai pyasa hoo...
-  Tumhi kaho kaise sajda karuṅ mai
-  Pura wo bachpan ka waada karuṅ mai
-  Tiroṅ pe tehra hoo maa
-  Maa mai pyasa hoo...
-  Charcha mere gham ka yun hi badhega
-  Nayyar likhega aamir padhega
-  Mai aisa nauha hoo maa
-  Maa mai pyasa hoo...
+  Sajde mein jaata huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Tumheṅ kaho kaise sajda karuṅ main
+  Pura wo bachpan ka waada karuṅ main
+  Tiroṅ pe sota huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
+  Charcha mere gham ka yuṅhi barhega
+  Nayyar likhega, Aamir parhega
+  Main aisa nauha huṅ maaṅ
+  Maaṅ main pyaasa huṅ...
 ---
 
 ۱

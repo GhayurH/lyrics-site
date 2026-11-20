@@ -9,33 +9,33 @@ poet: "Najfi"
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas teriyaan behna tere baad ne rul gayiyaan
-  Na veer ray siraan te na chadraan ne rayiyaan
+  Abbas teriyaan bhainaan tere baad ne rul gaiyaan
+  Na veer rahe saraan te na chaadraan ne rahiyaan
 
   1
-  Aag khaimiyaan nu lag gayi Abid nu main bachaya
-  Kiwein kand te veer Ghazi beemar nu main chaya
-  Main Sham-e-Ghareebaan wich takleefaan bariyaan sayiyaan
+  Aag khaimiyaan nu lag gayi Aabid nu main bachaaya
+  Kiwein kandh te veer Ghazi bimaar nu main chaaya
+  Main Shaam-e-Gharibaan wich taklifaan bariyaan sahiyaan
 
   2
-  Jino aakhda si veran aye mere dil da chain aye
-  Akhiyaan da noor Ghazi jino aakhiya Hussain aye
-  Oss pyari Sakina nu maqtal choon labhni paiyaan
+  Jinu aakhda si veeran ae mere dil da chain ae
+  Akhiyaan da nur Ghazi jinu aakhiya Husain ae
+  Os pyaari Sakina nu maqtal chon labhni paiyaan
 
   3
-  Jholi nu chad ke Asghar maqtal de wich si aaya
-  Hathaan te imamat ne Quran wangoon chaya
+  Jholi nu chhad ke Asghar maqtal de wich si aaya
+  Hathaan te imaamat ne Quraan wangon chaaya
   Asghar ne teer kha ke do hichkiyaan ne laiyaan
 
   4
-  Rasiyaan te kariyaan pa ke tur paye ne Sham loko
-  Ummat ne risalat da dita aynj inam loko
-  Lashaan de kolon bhaina chup kar ke lang ne gayiyaan
+  Rassiyaan te kariyaan paa ke tur paye ne Shaam loko
+  Ummat ne risaalat da dita einj inaam loko
+  Laashaan de kolon bhainaan chup kar ke langh ne gaiyaan
 
   5
-  Najfi di iltija aye, aye Malka-e-Haya nu
-  Band hoan taein rowan akhiyaan teri rida nu
-  Na aan bazaraan wich haye bhaina tere jaiyaan
+  Najfi di iltijaa ae, ae Malika-e-Haya nu
+  Band hoan taain rowan akhiyaan teri rida nu
+  Na aan baazaraan wich haaye bhainaan tere jehiyaan
 ---
 
 عباس تیریاں بھیناں تیرے بعد نے رُل گئیاں

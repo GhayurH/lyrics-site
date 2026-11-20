@@ -1,5 +1,6 @@
 ---
-title: "So Rahe Hain Sab Mere Waali O Dilbar Rait Par"
+title: "سو رہے ہیں سب میرے والی و دلبر ریت پر"
+alternateTitle: "So Rahe Haiṅ Sab Mere Waali o Dilbar Rait Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +11,37 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Reh gaye dasht meiṅ tanha to watan yaad aaya
+  Paani paaya to har ek tashna dahan yaad aaya
+  Le ke har chiz Madine se chali thi Zainab
+  Bhaai ke laashe pe pahonchi to kafan yaad aaya
 
-  Reh Gaye Dasht Maiṅ Tanha To Watan Yaad Aya
-  Pani Paya To Har Ek Tashna Dahan Yaad Aya
-  Leky Har Chez Madiny Se Chali The Zainab
-  Bhai Ke Lash Pe Pohnchi To Kafan Yaad Aya
-
-  So Rahy Haiṅ Sab Mere Waali o Dilbar Rait Par
-  Bano Bethi He Rahain Ge Zindage Bhar Rait Par
+  So rahe haiṅ sab mere waali o dilbar rait par
+  Baano baithi hi rahe gi zindagi bhar rait par
 
   1
-  Hoti Chadar Saya Karti Haye Kitne Dhup Hai
-  Soraha Hai Aag Ke Maidan Maiṅ Akbar Rait Par
+  Hoti chaadar saaya karti haaye kitni dhup hai
+  So raha hai aag ke maidaan meiṅ Akbar rait par
 
   2
-  Piyas Maiṅ Bachoṅ Ke Kuch Hojati The Shiddat Siwa
-  Phaikte Thy Jab Adu Pani Dekha Kar Rait Par
+  Pyaas meiṅ bachchoṅ ki kuchh ho jaati thi shiddat siwa
+  Phenkte the jab adu paani dikha kar rait par
 
   3
-  Jhola Tera Jal Gaya To Kya Howa Ae Mery Laal
-  Loriyaṅ Dongi Tujhe Aja Leta Kar Rait Par
+  Jhula tera jal gaya to kya hua ae mere laal
+  Loriyaaṅ duṅ gi tujhe aa ja lita kar rait par
 
   4
-  Baap Ke Ceny Par Sir Rakh Kar Jise Atti Ho Nind
-  Kesy Soye Shah Ke Wo Nanni Dukhtar Rait Par
+  Baap ke sine pe sar rakh kar jise aati ho nind
+  Kaise soye Shaah ki woh nanhi dukhtar rait par
 
   5
-  Shaam Ke Raste Maiṅ Sar Shabbir Ka Us Dum Ruka
-  Gir Gaye Naqe Se Jab Bano Ke Dukhtar Rait Par
+  Shaam ke raste meiṅ sar Shabbir ka us dam ruka
+  Gir gai naaqe se jab Baano ki dukhtar rait par
 
   6
-  Honge Asan Mushkilaiṅ Aur Ziyarat-e-Shabbir Bhe
-  Jab Anis Hoga Lahad Maiṅ Tera Bister Rait Par
+  Hoṅ gi aasaan mushkileṅ aur ziyaarat-e-Shabbir bhi
+  Jab Anis hoga lahad meiṅ tera bistar rait par
 ---
 
 رہ گئے دشت میں تنہا تو وطن یاد آیا

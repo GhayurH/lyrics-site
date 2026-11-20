@@ -1,35 +1,60 @@
 ---
-title: "Aye Janaza Aye Hasan Da Syedaan De Peer Da New Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اے جنازہ اے حسن دا سیداں دے پیر دا"
+alternateTitle: "Aye Janaza Aye Hasan Da Syedaan De Peer Da"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Bahadur"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye janaza aye Hasan da Syedaan de peer da
+  Mar gaya Qasim da baba te bhira Shabbir da
+  Jandiyaan Qasim nu Shabar aye wasiyat kar gaya
+  Tukriyaan de naal sadqa dewin mere veer da
+
+  2
+  Haye Shabar da jigar zehar-e-halahal kha gaya
+  Ajar ummat ne aye dita aya-e-tatheer da
+  Wekh ke talwar nu Ghazi de athro dig paye
+  Be basi Abbas di te wain aidi humsheer da
+
+  3
+  Sabar kiwein kar gaya Shabbir odi lash te
+  Hanjwaan de naal dhota zakhm har ik teer da
+  Haye haram de wich duhai wah Muhammad paye gayi
+  Zikar aaya jad ridawaan da kitay zanjeer da
+
+  4
+  Dafan nanay naal na hoya Ali da ladla
+  Arsh te girya-o-matam si aidi taqdeer da
+  Aj Madine da Bahadur haye manzar ki likhe
+  Lasha-e-Shabar te girya Zainab-e-Dilgeer da
 ---
 
-1
-Aye Janaza Aye Hasan Da Syedaan De Peer Da.
-Mar Gaya Qasim Da Baba Te Bhira Shabbir Da.
-Jandiyaan Qasim Nu Shabar Aye Wasiyat Kar Gaya.
-Tukriyaan De Naal Sadqa Dewin Mere Veer Da.
+۱
+اے جنازہ اے حسن دا سیداں دے پیر دا
+مر گیا قاسم دا بابا تے بھرا شبیر دا
+جاندیاں قاسم نوں شبر اے وصیت کر گیا
+ٹکڑیاں دے نال صدقہ دیویں میرے ویر دا
 
-2
-Haye Shabar Da Jigar Zehar-e-Halahal Kha Gaya.
-Ajar Ummat Ne Aye Dita Aya-e-Tatheer Da.
-Wekh Ke Talwar Nu Ghazi De Athro Dig Paye.
-Be Basi Abbas Di Te Wain Aidi Humsheer Da.
+۲
+ہائے شبر دا جگر زہرِ ہلاہل کھا گیا
+اجر امت نے اے دتا آیۂ تطہیر دا
+ویکھ کے تلوار نوں غازی دے اتھرو ڈگ پئے
+بے بسی عباس دی تے وین ایہدی ہمشیر دا
 
-3
-Sabar Kiwein Kar Gaya Shabbir Odi Lash Te.
-Hanjwaan De Naal Dhota Zakhm Har Ik Teer Da.
-Haye Haram De Wich Duhai Wah Muhammad Paye Gayi.
-Zikar Aaya Jad Ridawaan Da Kitay Zanjeer Da.
+۳
+صبر کیویں کر گیا شبیر اوہدی لاش تے
+ہنجواں دے نال دھوتا زخم ہر اک تیر دا
+ہائے حرم دے وچ دہائی وا محمد پے گئی
+ذکر آیا جد رداواں دا کِتے زنجیر دا
 
-4
-Dafan Nanay Naal Na Hoya Ali Da Ladla.
-Arsh Te Giriya-o-Matam Si Aidi Taqdeer Da.
-Aj Madine Da Bahadur Haye Manzar Ki Likhe.
-Lasha-e-Shabar Te Giriya Zainab-e-Dilgeer Da.
+۴
+دفن نانے نال نہ ہویا علی دا لاڈلا
+عرش تے گریہ و ماتم سی ایہدی تقدیر دا
+اج مدینے دا بہادر ہائے منظر کی لکھے
+لاشۂ شبر تے گریہ زینبِ دلگیر دا

@@ -1,50 +1,90 @@
 ---
-title: "Main Sadqe Jawa Ya Ali Imran Abbas Lyrics In Punjabi 2023"
+title: "میں صدقے جاواں یا علی"
+alternateTitle: "Main Sadqe Jawa Ya Ali"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Main sadqe jawa ya Ali Imran Abbas
+  Tere gun gawaan ya Ali
+
+  1
+  Tere dar aawaan ya Ali
+  Muradaan pawaan ya Ali
+  Te narey lawaan ya Ali
+  Khudai zoor tu sadqay main teri toor tu sadqay
+
+  2
+  Te Haider Haider walay aye jang wich shoor tu sadqay
+  Teri ik zarb aye Maula hai kul saqlain tu pari
+  Khuda ne kool bulaya Nabi nu arsh wakhaya
+  Hijab-e-wahdat wichon jadon hath bahir aaya
+
+  3
+  Angothi wekh Ali di Nabi di zaat pukari
+  Siraan diyaan faslaan wadda zameen che rohaan gadh da
+  Main dushman chun chun maraan te bas oh banday chad da
+  Jina di nasal che disdi mainu teri hubdari
+
+  4
+  Ali de narey laway khajoor nu pani paway
+  Kisay pochiya aye ki aye ohno Meesum samjhaway
+  Ali tu jind waran di piya karna teyari
+  Ali ne karam kamaya jo mere jhof che aaya
+
+  5
+  Main but khana saan mainu Khuda da ghar sadwaya
+  Ali da sadqa mainu aye jukdi dunya sari
+  Khowandi payi aan Fizza pilandi payi aan Fizza
+  Ali di khatir chaki chalandi payi aan Fizza
+
+  6
+  Mere sartaj da sadqa do jag da rizq aye jari
+  Jay tere dar nu chad ke kisay de dar te jawaan
+  Main oss welay taun pehlaan mere malik mar jawaan
+  Naeem ne dunya Maula teri nalain tu wari
 ---
 
-Main Sadqe Jawa Ya Ali Imran Abbas.
-Tere Gun Gawaan Ya Ali.
+میں صدقے جاواں یا علی عمران عباس
+تیرے گُن گاواں یا علی
 
-1
-Tere Dar Aawaan Ya Ali.
-Muradaan Pawaan Ya Ali.
-Te Narey Lawaan Ya Ali.
-Khudai Zoor Tu Sadqay Main Teri Toor Tu Sadqay.
+۱
+تیرے در آواں یا علی
+مراداں پاواں یا علی
+تے نعرے لاواں یا علی
+خدائی زور توں صدقے میں تیری ٹور توں صدقے
 
-2
-Te Haider Haider Walay Aye Jang Wich Shoor Tu Sadqay.
-Teri Ik Zarb Aye Maula Hai Kul Saqlain Tu Pari.
-Khuda Ne Kool Bulaya Nabi Nu Arsh Wakhaya.
-Hijab-e-Wahdat Wichon Jadon Hath Bahir Aaya.
+۲
+تے حیدر حیدر والے آئے جنگ وچ شور توں صدقے
+تیری اک ضرب اے مولا ہے کُل ثقلین توں بھاری
+خدا نے کول بلایا نبی نوں عرش وکھایا
+حجابِ وحدت وچوں جدوں ہتھ باہر آیا
 
-3
-Angothi Wekh Ali Di Nabi Di Zaat Pukari.
-Siraan Diyaan Faslaan Wadda Zameen Che Rohaan Gadh Da.
-Main Dushman Chun Chun Maraan Te Bas Oh Banday Chad Da.
-Jina Di Nasal Che Disdi Mainu Teri Hubdari.
+۳
+انگوٹھی ویکھ علی دی نبی دی ذات پکاری
+سراں دیاں فصلاں وڈّدا زمین چے روحاں گڈھ دا
+میں دشمن چُن چُن ماراں تے بس اوہ بندے چھڈ دا
+جِنہاں دی نسل چے دِسدی مینوں تیری حبداری
 
-4
-Ali De Narey Laway Khajoor Nu Pani Paway.
-Kisay Pochiya Aye Ki Aye Ohno Meesum Samjhaway.
-Ali Tu Jind Waran Di Piya Karna Teyari.
-Ali Ne Karam Kamaya Jo Mere Jhof Che Aaya.
+۴
+علی دے نعرے لاوے کھجور نوں پانی پاوے
+کسے پچھیا اے کی اے اوہنوں میثم سمجھاوے
+علی توں جند وارَن دی پیا کرنا تیاری
+علی نے کرم کمایا جو میرے جھوف چے آیا
 
-5
-Main But Khana Saan Mainu Khuda Da Ghar Sadwaya.
-Ali Da Sadqa Mainu Aye Jukdi Dunya Sari.
-Khowandi Payi Aan Fizza Pilandi Payi Aan Fizza.
-Ali Di Khatir Chaki Chalandi Payi Aan Fizza.
+۵
+میں بت خانہ ساں مینوں خدا دا گھر سدوایا
+علی دا صدقہ مینوں اے جھکدی دنیا ساری
+کھواندی پئی آں فضہ پلاندی پئی آں فضہ
+علی دی خاطر چکی چلاندی پئی آں فضہ
 
-6
-Mere Sartaj Da Sadqa Do Jag Da Rizq Aye Jari.
-Jay Tere Dar Nu Chad Ke Kisay De Dar Te Jawaan.
-Main Oss Welay Taun Pehlaan Mere Malik Mar Jawaan.
- Naeem Ne Dunya Maula Teri Nalain Tu Wari.
+۶
+میرے سرتاج دا صدقہ دو جگ دا رزق اے جاری
+جے تیرے در نوں چھڈ کے کسے دے در تے جاواں
+میں اوس ویلے توں پہلاں میرے مالک مر جاواں
+نعیم نے دنیا مولا تیری نعلین توں واری

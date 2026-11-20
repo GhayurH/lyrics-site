@@ -1,6 +1,6 @@
 ---
 title: "آج میرا حسین آ گیا"
-alternateTitle: "Aaj Mera Hussain Aa Gaya"
+alternateTitle: "Aaj Mera Husain Aa Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,63 +10,63 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj mera Hussain agaya Syed Raza Abbas Zaidi
+  Aaj mera Husain aa gaya Syed Raza Abbas Zaidi
 
   1
-  Teen Shaban ka din shorow ho gaya
-  Aaftab-e-Shahadat talu ho gaya
-  Muskuraney lagay do jahan ke makeen
-  Kaun aagosh-e-zahra mein hai yeh haseen
-  Jab nigahein milein noor se noor ki
-  Khush hoin bool uthein Syeda
+  Tin Shabaan ka din shuru ho gaya
+  Aaftaab-e-shahaadat tulu ho gaya
+  Muskuraane lage do jahaṅ ke makiṅ
+  Kaun aaghosh-e-Zahra mein hai yeh Husain
+  Jab nigaaheṅ mileṅ nur se nur ki
+  Khush huiṅ bol uthiṅ Sayyeda
 
   2
-  Aaj mera Hussain aa gaya
-  Fatima ne kaha mere noor-e-nazar
-  Bin tumhare adhora adhora tha ghar
+  Aaj mera Husain aa gaya
+  Fatima ne kaha mere nur-e-nazar
+  Bin tumhaare adhura adhura tha ghar
   Kibriya ki qasam tum na aate agar
-  Tum se milne main aa jati khud arsh par
-  Rab se mangoon main ab our kya
+  Tum se milne main aa jaati khud arsh par
+  Rab se maanguṅ main ab aur kya
 
   3
-  Arsh walay bhi mojood hain saf ba saf
-  Muskura ke pukarey yeh Shah-e-Najaf
-  Aisa beta mila hai yeh mera sharf
-  Our phir dekh kar Fatima ki taraf
+  Arsh waale bhi maujud haiṅ saf ba saf
+  Muskura ke pukaare yeh Shah-e-Najaf
+  Aisa beta mila hai yeh mera sharaf
+  Aur phir dekh kar Fatima ki taraf
   Murtaza ne kaha shukriya
-  Fatima phir Hasan se yeh kehne lagin
+  Fatima phir Hasan se yeh kehne lagiṅ
 
   4
-  Aap ko bhi mubarak ho aye dilnasheen
-  Jis ka tha intezar aa gaya woh haseen
-  Aaj meri khushi ka thikana nahi
-  Dil mera de raha hai sada
-  Rukh muhammad ne dekha tu rukh khil gaya
+  Aap ko bhi mubaarak ho ae dil nashiṅ
+  Jis ka tha intezaar aa gaya woh Husain
+  Aaj meri khushi ka thikaana nahiṅ
+  Dil mera de raha hai sadaa
+  Rukh Muhammad ne dekha to rukh khil gaya
   Muskura kar kaha aaj sab mil gaya
 
   5
-  Aaj seene mein iss ke mera dil gaya
-  Aye mere deen ab waqt-e-mushkil gaya
+  Aaj sine mein is ke mera dil gaya
+  Ae mere din ab waqt-e-mushkil gaya
   Mil gaya tujh ko Mushkil Kusha
-  Do jahan ke maseeha ka rukh dekh ke
-  Apne Fitrus se Jibreel ja kar miley
-  Muskura kar yeh Jibreel kehne lagay
+  Do jahaṅ ke masihaa ka rukh dekh ke
+  Apne Fitrus se Jibril ja kar mile
+  Muskura kar yeh Jibril kehne lage
 
   6
-  Teri parwaz ke phir se din aa gaye
-  Tujh ko ho jaein gay par atta
-  Karbala ki zameen bool uthi jhoom ke
+  Teri parwaaz ke phir se din aa gaye
+  Tujh ko ho jaaeṅ ge par ataa
+  Karbala ki zamin bol uthi jhum ke
   Muntazir thi main Mushkil Kusha ke liye
-  Aaye kitne nabi aa ke jate rahe
-  Karb se mujh ko aazad na kar sakay
+  Aaye kitne nabi aa ke jaate rahe
+  Karb se mujh ko aazaad na kar sake
 
   7
-  Intezar ab mukamal howa
-  Eid-e-Akbar hai din teen Shaban ka
-  Farsh par hai nazool aaj Quran ka
-  Martaba barh gaya our insan ka
-  Dekho chehra munawar hai Zeeshan ka
-  Jashan kyun na manaye Raza
+  Intezaar ab mukammal hua
+  Eid-e-Akbar hai din tin Shabaan ka
+  Farsh par hai nuzul aaj Quraan ka
+  Martaba barh gaya aur insaan ka
+  Dekho chehra munawwar hai Zeeshan ka
+  Jashn kiuṅ na manaaye Raza
 ---
 
 آج میرا حسین آ گیا سید رضا عباس زیدی

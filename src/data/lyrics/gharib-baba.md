@@ -53,7 +53,7 @@ romanLyrics: |-
   Safar meiṅ rehte the donoṅ qaidi
 
   8
-  Nibhaya har ek waada jis ne
+  Nibhaaya har ek waada jis ne
   Uthaaya donoṅ ka laasha jis ne
   Behan thi us ki phuphi thi is ki
 

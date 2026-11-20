@@ -4,9 +4,28 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ghazi rakhiṅ khaas khayaal ehnaaṅ parde daaraaṅ da
+  Tuṅ eiṅ raaris mere baad ehnaaṅ sardaaraaṅ da
+
+  1
+  Dhiyaaṅ da peke vehre te honda maan ae bathere
+  Maan mukya tere baahjoṅ aj dhi Zehra da
+
+  2
+  Aulaad-e-Murtaza ne rul jaana tere baahjoṅ
+  Safar karna mere dhiyaaṅ ne bazaaraaṅ da
+
+  3
+  Shabbir tere baahjoṅ ghurbat de hoke dene
+  Hona hamla khanjar neze talwaaraaṅ da
+
+  4
+  Aabid de naal Zainab Kufe ch pher aana
+  Mar na jaave takk ke majma badkaaraaṅ da
 ---
 
 Ghazi as Rakhi Khas Khayal Ahna Pardey Daran Da | Shahzaib Hassan Party 2026

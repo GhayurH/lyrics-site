@@ -18,7 +18,7 @@ romanLyrics: |-
   Awwaluna Muhammad ausatuna Muhammad
   Aakhiruna Muhammad kulluna Muhammad
   Aa gaye dasht-e-Karbala meiṅ yeh saare Muhammad
-  Kaho salaam Ya Rasul Allah
+  Kaho salaam ya Rasul Allah
   Yeh dasht-e-Karbala hai yeh dasht-e-Maariya hai
   Yeh dasht-e-Nainawa hai
   Muhammad haae Muhammad Muhammad haae Muhammad
@@ -27,7 +27,7 @@ romanLyrics: |-
   1
   Tishna laboṅ ke lab pe sada wa Muhammada
   Ghere hue haiṅ fauj-e-jafa wa Muhammada
-  Sar pe khari hai Shah ke qaza wa Muhammada
+  Sar pe khari hai Sheh ke qaza wa Muhammada
   Dikhla raha hai waqt yeh kya wa Muhammada
 
   2
@@ -45,14 +45,14 @@ romanLyrics: |-
   4
   Sadmoṅ pe sadme khaate haiṅ Sarwar bachaaiye
   Tute hue haiṅ neza o khanjar bachaaiye
-  Umra hua hai Shah pe lashkar bachaaiye
+  Umda hua hai Shah pe lashkar bachaaiye
   Zainab nikal na aae khule sar bachaaiye
 
   5
   Barhta hi jaa raha hai masaaib ka silsila
   Ab to nahiṅ hai khaime meiṅ Abbas baawafa
   Dete haiṅ chikh chikh ke yeh ahl-e-shar sada
-  Ab lut lo qayaam Husain-e-gharib ka
+  Ab lut lo qiyaam Husain-e-gharib ka
 
   6
   Zainab pukaarti hai yehi ro ke baar baar
@@ -61,7 +61,7 @@ romanLyrics: |-
   Tanha behan hai aur bhare ghar ki sogwaar
 
   7
-  Halq-e-Shah-e-gharib pe khanjar bhi chal gaya
+  Halq-e-Sheh-e-gharib pe khanjar bhi chal gaya
   Baad-e-Rasul kaise zamaana badal gaya
   Khaima Nabi ki aal ka Karbal meiṅ jal gaya
   Bano ka chaand dasht-e-musibat meiṅ dhal gaya
@@ -69,7 +69,7 @@ romanLyrics: |-
   8
   Maqtal meiṅ Panjtan ki nishaani tamaam hai
   Qismat meiṅ ab asiroṅ ke bas gham ki shaam hai
-  Rou ae mominoṅ yeh buka ka maqaam hai
+  Ro'o ae mominoṅ yeh buka ka maqaam hai
   Beri rasan hai tauq hai laaghar Imam hai
 
   9

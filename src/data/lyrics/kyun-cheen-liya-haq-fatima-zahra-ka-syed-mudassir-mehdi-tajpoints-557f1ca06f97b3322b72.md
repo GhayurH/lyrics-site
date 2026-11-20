@@ -1,38 +1,63 @@
 ---
-title: "Kyun Cheen Liya Haq Fatima Zahra KA Syed Mudassir Mehdi"
+title: "کیوں چھین لیا حق فاطمہ زہرا کا سید مدثر مہدی"
+alternateTitle: "Kyun Cheen Liya Haq Fatima Zahra Ka Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zamin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Batlao musalmano kyun cheen liya haq Fatima Zahra ka
+
+  1
+  Jhutlaye gawah tum ne na pas rakha koi tehreer-e-Mustafa ka
+  Kyun aag lagai hai darwaza-e-hayya pe
+  Roti rahein hain Zahra rozay pe Mustafa ke
+  Hai zulm kiya baba ummat ne inteha ka
+
+  2
+  Kalma go na Zahra ki tazeem ko bholatay
+  Darbar mein Mursal ki beti ko na rolatay
+  Kuch tu lehaz kartay tafseer-e-innama ka
+  Karb-o-Bala ki logo bunyad hai Saqeefa
+
+  3
+  Ummat ne ghar ujara aoulad-e-Fatima ka
+  Bholay ga hashar tak na woh zulm ashqiya ka
+  Zahra ko tukray chuntay mehsos yeh howa tha
+  Jaisay bikhar gaya hai armaan Hasan Raza ka
+
+  4
+  Karb-o-Bala mein bikhra farzand Mujtaba ka
+  Bad az Nabi ke Zamin roti rahi hain Zahra
+  Fizza se hai riwayat Bait al-Huzan giraya
+  Dil mein hai soag ab bhi bibi teri qaza ka
 ---
 
-Kyun Cheen Liya Haq Fatima Zahra KA Syed Mudassir Mehdi
-Batlao Musalmano Kyun Cheen Liya Haq Fatima Zahra Ka.
+بتلاؤ مسلمانو کیوں چھین لیا حق فاطمہ زہرا کا
 
-1
-Jhutlaye Gawah Tum Ne Na Pas Rakha Koi Tehreer-e-Mustafa Ka.
-Kyun Aag Lagai Hai Darwaza-e-Hayya Pe.
-Roti Rahein Hain Zahra Rozay Pe Mustafa Ke.
-Hai Zulm Kiya Baba Ummat Ne Inteha Ka.
+۱
+جھٹلائے گواہ تم نے نہ پاس رکھا کوئی تحریرِ مصطفیٰ کا
+کیوں آگ لگائی ہے دروازۂ حیا پہ
+روتی رہیں ہیں زہرا روضے پہ مصطفیٰ کے
+ہے ظلم کیا بابا امت نے انتہا کا
 
-2
-Kalma Go Na Zahra Ki Tazeem Ko Bholatay.
-Darbar Mein Mursal Ki Beti Ko Na Rolatay.
-Kuch Tu Lehaz Kartay Tafseer-e-Innama Ka.
-Karb-o-Bala Ki Logo Bunyad Hai Saqeefa.
+۲
+کلمہ گو نہ زہرا کی تعظیم کو بھلاتے
+دربار میں مرسل کی بیٹی کو نہ رلاتے
+کچھ تو لحاظ کرتے تفسیرِ انما کا
+کرب و بلا کی لوگو بنیاد ہے سقیفہ
 
-3
-Ummat Ne Ghar Ujara Aoulad-e-Fatima Ka.
-Bholay Ga Hashar Tak Na Woh Zulm Ashqiya Ka.
-Zahra Ko Tukray Chuntay Mehsos Yeh Howa Tha.
-Jaisay Bikhar Gaya Hai Armaan Hasan Raza Ka.
+۳
+امت نے گھر اجاڑا اولادِ فاطمہ کا
+بھولے گا حشر تک نہ وہ ظلم اشقیا کا
+زہرا کو ٹکڑے چنتے محسوس یہ ہوا تھا
+جیسے بکھر گیا ہے ارمان حسن رضا کا
 
-4
-Karb-o-Bala Mein Bikhra Farzand Mujtaba Ka.
-Bad Az Nabi Ke Zamin Roti Rahi Hain Zahra.
-Fizza Se Hai Riwayat Bait Al-Huzan Giraya.
-Dil Mein Hai Soag Ab Bhi Bibi Teri Qaza Ka.
+۴
+کرب و بلا میں بکھرا فرزندِ مجتبیٰ کا
+بعد از نبی کے ضامن روتی رہی ہیں زہرا
+فضہ سے ہے روایت بیت الحزن گرایا
+دل میں ہے سوگ اب بھی بی‌بی تیری قضا کا

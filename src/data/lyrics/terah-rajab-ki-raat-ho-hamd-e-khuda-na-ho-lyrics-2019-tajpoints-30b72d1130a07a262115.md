@@ -1,35 +1,60 @@
 ---
-title: "Terah Rajab Ki Raat Ho Hamd E Khuda Na Ho Lyrics 2019"
+title: "تیرہ رجب کی رات ہو حمدِ خدا نہ ہو"
+alternateTitle: "Terah Rajab Ki Raat Ho Hamd-e-Khuda Na Ho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Terah Rajab ki raat ho hamd-e-Khuda na ho
+  Mumkin nahi keh aaj Ali ki sana na ho
+  Kar-e-Khuda mein kitni rokawat ho sochiye
+  Kar-e-Khuda ke pas jo dast-e-Khuda na ho
+
+  2
+  Raziq raheem kibriya khaliq wali kareem
+  Koi laqab nahi jo Ali pa jacha na ho
+  Mabood la-shareek hai ya abd la-shareek
+  Sajda agar na ho tu kabhi faisla na ho
+
+  3
+  Raddi ke bhao bhi main khareedo na woh kitab
+  Jis mein Ali ke ghar ka kahin tazkira na ho
+  Oss ghar mein aayaton ki tilawat haram hai
+  Jis ghar mein Syeda ki hadees-e-kissa na ho
+
+  4
+  Meesum ke rastay pe qadam rakh chuka hoon main
+  Madh-e-Ali tu ho gi zabaan ho ke ya na ho
+  Kirdar kuch bura bhi agar ho tu hai qabool
+  Akbar magar kissi ka aqeeda bura na ho
 ---
 
-1
-Terah Rajab Ki Raat Ho Hamd-e-Khuda Na Ho.
-Mumkin Nahi Keh Aaj Ali Ki Sana Na Ho.
-Kar-e-Khuda Mein Kitni Rokawat Ho Sochiye.
-Kar-e-Khuda Ke Pas Jo Dast-e-Khuda Na Ho.
+۱
+تیرہ رجب کی رات ہو حمدِ خدا نہ ہو
+ممکن نہیں کہ آج علی کی ثنا نہ ہو
+کارِ خدا میں کتنی رکاوٹ ہو سوچیے
+کارِ خدا کے پاس جو دستِ خدا نہ ہو
 
-2
-Raziq Raheem Kibriya Khaliq Wali Kareem.
-Koi Laqab Nahi Jo Ali Pa Jacha Na Ho.
-Mabood La-Shareek Hai Ya Abd La-Shareek.
-Sajda Agar Na Ho Tu Kabhi Faisla Na Ho.
+۲
+رازق رحیم کبریا خالق ولی کریم
+کوئی لقب نہیں جو علی پہ جچا نہ ہو
+معبود لا شریک ہے یا عبد لا شریک
+سجدہ اگر نہ ہو تو کبھی فیصلہ نہ ہو
 
-3
-Raddi Ke Bhao Bhi Main Khareedo Na Woh Kitab.
-Jis Mein Ali Ke Ghar Ka Kahin Tazkira Na Ho.
-Oss Ghar Mein Aayaton Ki Tilawat Haram Hai.
-Jis Ghar Mein Syeda Ki Hadees-e-Kissa Na Ho.
+۳
+ردی کے بھاؤ بھی میں خریدوں نہ وہ کتاب
+جس میں علی کے گھر کا کہیں تذکرہ نہ ہو
+اس گھر میں آیتوں کی تلاوت حرام ہے
+جس گھر میں سیدہ کی حدیثِ کسا نہ ہو
 
-4
-Meesum Ke Rastay Pe Qadam Rakh Chuka Hoon Main.
-Madh-e-Ali Tu Ho Gi Zabaan Ho Ke Ya Na Ho.
-Kirdar Kuch Bura Bhi Agar Ho Tu Hai Qabool.
- Akbar Magar Kissi Ka Aqeeda Bura Na Ho.
+۴
+میثم کے رستے پہ قدم رکھ چکا ہوں میں
+مدحِ علی تو ہو گی زباں ہو کہ یا نہ ہو
+کردار کچھ برا بھی اگر ہو تو ہے قبول
+اکبر مگر کسی کا عقیدہ برا نہ ہو

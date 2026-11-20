@@ -22,7 +22,7 @@ romanLyrics: |-
   Naamus-e-Mustafa ki hifaazat ki raat thi
 
   2
-  Jab zaalimoṅ ne aag lagaai khayaam meiṅ
+  Jab zaalimoṅ ne aag lagaai khiyaam meiṅ
   Quwwat nahiṅ thi uthne ki paai Imam meiṅ
   Dena tha imtihaaṅ bhi ak raah-e-Shaam meiṅ
   Ak daagh aur par gaya maah-e-tamaam meiṅ
@@ -41,8 +41,8 @@ romanLyrics: |-
   Sar Karbala ko aap ne kis sabr se kiya
   Mere liye hai Kufe se taa Shaam faasla
   Kuchh kam nahiṅ hai waise to mera bhi hausla
-  Naamus-e-Mustafa ka hai dar pesh marhala
-  Jaaeṅgi nange sar Phuphi darbaar-e-Shaam meiṅ
+  Naamus-e-Mustafa ka hai darpesh marhala
+  Jaaeṅ gi nange sar Phuphi darbaar-e-Shaam meiṅ
   Dekhuṅ ga maiṅ ye taab kahaaṅ hai ghulaam meiṅ
 
   5
@@ -64,8 +64,8 @@ romanLyrics: |-
   7
   Yuṅ Karbala se ujra hua qaafila chala
   Jaise kisi ka qaafila saalaar mar gaya
-  Uṅtoṅ se girte jaate the bachche bhi jaa baja
-  Aayi sar-e-Husain se besaakhta sada
+  Untoṅ se girte jaate the bachche bhi jaabaja
+  Aai sar-e-Husain se besaakhta sada
   Kis haal meiṅ ho bachchi pe meri nazar nahiṅ
   Zainab Sakina gir gayi tum ko khabar nahiṅ
 

@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shukria fatema zahra
-  Shukria hyder e karrar
-  Aap ne mujko banaya
-  Apne bete ka azadaar
-  Mam misli mai azadare Husain
-  Risalat e man nabavi
-  Wilayat e man alavi
-  Ismat e man fatami
-  Sakhawat e man hassani
-  Izzat e man hussaini
-  Ghairat e man abbasi
-  Ye jo sharaf mujko mila
-  Aur kise rab ne diya
+  Shukriya Fatema Zahra
+  Shukriya Haidar-e-Karraar
+  Aap ne mujhko banaaya
+  Apne bete ka azaadaar
+  Mam misli maiṅ azaadaar-e-Husain
+  Risaalat-e-man nabavi
+  Wilaayat-e-man alavi
+  Ismat-e-man faatami
+  Saqaawat-e-man Husaini
+  Izzat-e-man Husaini
+  Ghairat-e-man Abbaasi
+  Ye jo sharaf mujhko mila
+  Aur kise Rab ne diya
   Gundha gaya mera khamir
-  Usme mili khaak e shifa
-  Unse mujhe hai khalk kiya
-  Aab e baqa khaak e shifa
-  Zohad o sakha rab ki ata
-  Risalat e man...
-  Khalq mujhe rab ne kiya
-  Sirf moharram ke liye
-  Aankh hai rone ke liye
-  Haath hai matam ke liye
-  Daulat e man kya iske siva
-  Farsh e aza farsh e wila
-  Ashk e aza karbobala
-  Risalat e man...
-  Seena hai kaaba e aza
-  Kaabe ka maulud ali
-  Rab ne jo meesakh liya
-  Dil meiṅ tha maujud ali
+  Us meiṅ mili khaak-e-shifa
+  Un se mujhe khalq kiya
+  Aab-e-baqa khaak-e-shifa
+  Zuhd o sakha Rab ki ata
+  Risaalat-e-man...
+  Khalq mujhe Rab ne kiya
+  Sirf Muharram ke liye
+  Aaṅkh hai rone ke liye
+  Haath hai maatam ke liye
+  Daulat-e-man kya is ke siwa
+  Farsh-e-aza farsh-e-wila
+  Ashk-e-aza Karb o Bala
+  Risaalat-e-man...
+  Sina hai Kaaba-e-aza
+  Kaabe ka maulud Ali
+  Rab ne jo misaaq liya
+  Dil meiṅ tha maujud Ali
   Aur karam mujh par ye hua
   Dil jo diya us meiṅ rakha
-  Ishq e khuda sheh ki aza
-  Risalat e man...
-  Pehle wahaṅ wird kiya
+  Ishq-e-Khuda shah ki aza
+  Risaalat-e-man...
+  Pehle wahaaṅ wird kiya
   Sallu alaihe ya Husain
-  Ab ye wazeefa hai mera
+  Ab ye wazifa hai mera
   Sallu alaihe ya Husain
-  Kaam hai ye dunya meiṅ mera
+  Kaam hai ye duniya meiṅ mera
   Nauha likha nauha parha
   Nauha suna kehta raha
-  Risalat e man...
-  Ishq e ali mujko mila
-  Aur ghame karbobala
+  Risaalat-e-man...
+  Ishq-e-Ali mujhko mila
+  Aur gham-e-Karb o Bala
   Jab bhi uthe mere qadam
-  Pahuncha sare farsh e aza
+  Pahuncha sar-e-farsh-e-aza
   Qaidi koi yaadoṅ meiṅ raha
-  Tauq e jafa meiṅ tha gala
-  Kehta raha zainul leba
-  Risalat e man...
-  Asr ka hangaam e sitam
-  Bhul na paunga kabhi
-  Rayt ke tile pe khari
-  Ek bahan roti rahi
-  Dekhi nahi phir aisi jafa
-  Khushk gala kat'ta raha
+  Tauq-e-jafa meiṅ tha gala
+  Kehta raha Zain-ul-Aba
+  Risaalat-e-man...
+  Asr ka hangaam-e-sitam
+  Bhul na paaunga kabhi
+  Ret ke tile pe khari
+  Ik behan roti rahi
+  Dekhi nahiṅ phir aisi jafa
+  Khushk gala katta raha
   Khuṅ baha kehta hua
-  Risalat e man...
-  Baad e shah e karbobala
-  Ahle haram qaidi bane
+  Risaalat-e-man...
+  Baad-e-shah-e-Karb o Bala
+  Ahl-e-haram qaidi bane
   Shaam talak aise gaye
-  Ek rasan baara gale
-  Binte ali thi mehve buka
-  Lehje meiṅ tha sher e khuda
-  Mehve buka khutba diya
-  Risalat e man...
-  Hoti hai maula ki ata
-  Likhta hai mazhar ka qalam
-  Mujhpe bhi irfan e aza
-  Hai ye shah e diṅ ka karam
-  Nade ali jo mujko mila
-  Shukr e khuda khuṅ mera
-  Meri tarha kehne laga
-  Risalat e man...
+  Ik rasan baara gale
+  Bint-e-Ali thi mahv-e-buka
+  Lehje meiṅ tha sher-e-Khuda
+  Mahv-e-buka khutba diya
+  Risaalat-e-man...
+  Hoti hai Maula ki ata
+  Likhta hai Mazhar ka qalam
+  Mujh pe bhi irfaan-e-aza
+  Hai ye shah-e-diṅ ka karam
+  Naad-e-Ali jo mujhko mila
+  Shukr-e-Khuda khuṅ mera
+  Meri tarah kehne laga
+  Risaalat-e-man...
 ---
 
 ۱

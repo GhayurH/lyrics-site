@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Husain laasha-e-Akbar jo laaye khaimoṅ meiṅ
   Phuphi ne sina o sar pit kar kiya nauha
-  Kohram mach gaya
+  Kohraam mach gaya
 
   Khaimoṅ meiṅ shor matam-e-Akbar ka hota hai
 
@@ -23,7 +23,7 @@ romanLyrics: |-
   Afsos tere laashe par sehra sajaaya hai
 
   2
-  Aankheiṅ to kholo Ae mere karyal jawaaṅ pisar
+  Aankheiṅ to kholo ae mere kariyal jawaaṅ pisar
   Maiṅ jite ji mar jaauṅ gi Laila ka nauha hai
 
   3

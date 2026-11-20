@@ -28,7 +28,7 @@ romanLyrics: |-
   Jis ko nahiṅ qubul qiyaadat Husain ki
 
   4
-  Ruswa jagah jagah na musalmaaṅ ho kabhi
+  Ruswa jagah jagah na musalmaanoṅ ho kabhi
   Dil se nikaal de jo adaawat Husain ki
 
   5
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   10
   Talwaar dushmanoṅ pe hai Mehshar tera qalam
-  Tere qalam ki zarbat hai zarbat Husain ki
+  Tere qalam ki zarb hai zarbat Husain ki
 ---
 روحوں میں بس گئی ہے عقیدت حسین کی
 سینوں میں دل ہے دل میں تربت حسین کی

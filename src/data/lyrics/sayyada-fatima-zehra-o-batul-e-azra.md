@@ -36,14 +36,14 @@ romanLyrics: |-
   Naam Allah ne yuṅ Fatima rakha tera
 
   5
-  Nur hai ayat-e-Tathir ka mafhum hai woh
-  Sach hai masum hai woh
+  Nur hai aayat-e-Tathir ka mafhum hai woh
+  Sach hai maasum hai woh
   Tu ne jab keh diya Abbas hai beta tera
 
   6
   Teri Fizza ko abhi tak nahiṅ samjha koi
-  Ae meri shahzadi
-  Kaise duniya ko samajh aayega rutba tera
+  Ae meri shahzaadi
+  Kaise duniya ko samajh aaye ga rutba tera
 
   7
   Tab kahiṅ ja ke andheroṅ meiṅ ujaale utre

@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa mera veer Sakina ne tainu aakhri waar bulaya
-  Muk gayi aye qaid meri mainu Baba lain nu aaya
-  Tere naal bazaraan wich Abid main turdi rayi aan
-  Tere pairaan choon kandiyaan nu veran main kaddi rayi aan
-  Aye aakh ke Sakina Sajjad nu gal nal laya
-  Phophiyaan de naal peshi darbar di main wekhi
-  Oh bheer pehli wari bazar di main wekhi
-  Mainu zalima ne os bheer che veer turaya
-  Aina zalima toon mang ke mainu kafan na pawain
-  Aise cholay de wich vera mainu lahad wich toon lawein
-  Tareekh v gawah aye nayi kafan ghareeb ne paya
-  Sir piyo da pa ke jholi chup kar gayi Sakina
-  Zahra di shan wali haye mar gayi Sakina
-  Safraan di thak gayi aye aino maut ne aan sawaya
-  Cho salaan di Zahra di bemar lash chayi
-  Zindan de manzar te rondi rayi khudai
-  Qaidi bhira ne Najfi jadon qaidan nu dafnaya
+  Aa mera vir Sakina ne tainu aakhri waar bulaaya
+  Muk gayi e qaid meri mainu Baba lain nu aaya
+  Tere naal bazaaraaṅ wich Abid main turdi rahi aaṅ
+  Tere pairaaṅ choṅ kandiyaaṅ nu viraaṅ main kaddhi rahi aaṅ
+  E aakh ke Sakina Sajjad nu gal naal laaya
+  Phophiyaaṅ de naal peshi darbaar di main wekhi
+  Oh bhir pehli waari bazaar di main wekhi
+  Mainu zaalimaaṅ ne os bhir che vir turaaya
+  Ainaaṅ zaalimaaṅ toṅ mang ke mainu kafan na paaveṅ
+  Aise chole de wich vira mainu lahad wich toṅ laaveṅ
+  Taarikh vi gawaah e naiṅ kafan gharib ne paaya
+  Sir piyo da paa ke jholi chup kar gayi Sakina
+  Zahra di shaan waali haaye mar gayi Sakina
+  Safraaṅ di thak gayi e ainu maut ne aaṅ sawaaya
+  Cho saalaaṅ di Zahra di bimaar laash chaai
+  Zindaan de manzar te rondi rahi khudaai
+  Qaidi bharaa ne Najfi jadoṅ qaidan nu dafnaaya
 ---
 
 ۱

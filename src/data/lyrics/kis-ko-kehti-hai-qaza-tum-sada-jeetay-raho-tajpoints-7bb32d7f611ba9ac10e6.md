@@ -1,35 +1,60 @@
 ---
-title: "Kis Ko Kehti Hai Qaza Tum Sada Jeetay Raho"
+title: "کس کو کہتی ہے قضا تم سدا جیتے رہو"
+alternateTitle: "Kis Ko Kehti Hai Qaza Tum Sada Jeetay Raho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kis ko kehti hai qaza tum sada jeetay raho
+  Daar par yeh kaun tha tum sada jeetay raho
+  Hath mein zanjeer de kar maa ne betay se kaha
+  Hai yehi meri dua tum sada jeetay raho
+
+  2
+  Dekh kar Hur ki jabeen par apni beti ka romal
+  Yeh pukaray Mustafa tum sada jeetay raho
+  Karbala se le ke aate hain kafan jo zaireen
+  Unn se kehti hai qaza tum sada jeetay raho
+
+  3
+  Ishq-e-Haider jis ke dil mein ho basa oss mard ko
+  Kehte hain khud Murtaza tum sada jeetay raho
+  Bad-e-matam matami ko dekh ke kehta hai dil
+  Aye dua-e-bint-e-Zahra tum sada jeetay raho
+
+  4
+  Mehway matam dekh ke mujh ko yeh baba ne kaha
+  Aye pyaray mere beta tum sada jeetay raho
+  Main sana khuwan-e-Ali hoon aye Dilawar iss liye
+  Mujh ko Meesum ne kaha tum sada jeetay raho
 ---
 
-1
-Kis Ko Kehti Hai Qaza Tum Sada Jeetay Raho.
-Daar Par Yeh Kaun Tha Tum Sada Jeetay Raho.
-Hath Mein Zanjeer De Kar Maa Ne Betay Se Kaha.
-Hai Yehi Meri Dua Tum Sada Jeetay Raho.
+۱
+کس کو کہتی ہے قضا تم سدا جیتے رہو
+دار پر یہ کون تھا تم سدا جیتے رہو
+ہاتھ میں زنجیر دے کر ماں نے بیٹے سے کہا
+ہے یہی میری دعا تم سدا جیتے رہو
 
-2
-Dekh Kar Hur Ki Jabeen Par Apni Beti Ka Romal.
-Yeh Pukaray Mustafa Tum Sada Jeetay Raho.
-Karbala Se Le Ke Aate Hain Kafan Jo Zaireen.
-Unn Se Kehti Hai Qaza Tum Sada Jeetay Raho.
+۲
+دیکھ کر حر کی جبیں پر اپنی بیٹی کا رومال
+یہ پکارے مصطفیٰ تم سدا جیتے رہو
+کربلا سے لے کے آتے ہیں کفن جو زائرین
+ان سے کہتی ہے قضا تم سدا جیتے رہو
 
-3
-Ishq-e-Haider Jis Ke Dil Mein Ho Basa Oss Mard Ko.
-Kehte Hain Khud Murtaza Tum Sada Jeetay Raho.
-Bad-e-Matam Matami Ko Dekh Ke Kehta Hai Dil.
-Aye Dua-e-Bint-e-Zahra Tum Sada Jeetay Raho.
+۳
+عشقِ حیدر جس کے دل میں ہو بسا اُس مرد کو
+کہتے ہیں خود مرتضیٰ تم سدا جیتے رہو
+بعدِ ماتم ماتمی کو دیکھ کے کہتا ہے دل
+اے دعائے بنتِ زہرا تم سدا جیتے رہو
 
-4
-Mehway Matam Dekh Ke Mujh Ko Yeh Baba Ne Kaha.
-Aye Pyaray Mere Beta Tum Sada Jeetay Raho.
-Main Sana Khuwan-e-Ali Hoon Aye Dilawar Iss Liye.
-Mujh Ko Meesum Ne Kaha Tum Sada Jeetay Raho.
+۴
+محوِ ماتم دیکھ کے مجھ کو یہ بابا نے کہا
+اے پیارے میرے بیٹا تم سدا جیتے رہو
+میں ثنا خوانِ علی ہوں اے دلاور اس لیے
+مجھ کو میثم نے کہا تم سدا جیتے رہو

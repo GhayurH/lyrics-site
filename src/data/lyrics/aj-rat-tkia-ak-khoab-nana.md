@@ -10,37 +10,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aj Raat Thakeya Ik Khawab Nana
-  Ik Khawab Nana, Haey Khawab Nana
-  Akbar Bhera Nou Lagi Saang Nana
+  Aj raat takiya ik khaab nana
+  Ik khaab nana, haey khaab nana
+  Akbar bhira nuṅ lagi saangh nana
 
   2
-  Sarday Nay Khaymay Oudian Suwawan
-  Cho Gird Lagiyan Hin Khooni Bhawan
-  Arshan Day Ronday Sardar Nana
-  Sardar Nana, Sardar Nana
-  Akbar Bhera Nou Lagi Saang Nana
+  Sar gae ne khaime uriyaaṅ sawaawaaṅ
+  Chau gird lagiyaaṅ hin khuni bhaawaaṅ
+  Arshaaṅ de ronde sultaan nana
+  Sultaan nana, sultaan nana
+  Akbar bhira nuṅ lagi saangh nana
 
   3
-  Wich Kerbala Day udiyan Nay Khakan
-  Aj Dee Day Walay Hoeeyan Nay Raathan
-  Khaymay Jalaey Saray Aam Nana,
-  Saray Aam Nana Saray Aam Naha
-  Akbar Bhera Nou Lagi Saang Nana
+  Akbar ke dil mein neza gara hai
+  Shabbir hasrat se dekhta hai
+  Ammaaṅ ka ujra armaan nana
+  Armaan nana, armaan nana
+  Akbar bhira nuṅ lagi saangh nana
 
   4
-  Amma Fiza Nay Baoun Paey Vainey
-  Ghash Ker Kay Dig Paee Masuma Bheney
-  Ummath Nay Keetha Nuksan Nana
-  Nuksan Nana, Nuksan Nana
-  Akbar Bhera Nou Lagi Saang Nana
+  Ammaaṅ Fiza ne bahoṅ paae vainr e
+  Ghash kar ke dig pai Masuma bhainr e
+  Ummat ne kita nuqsaan nana
+  Nuqsaan nana, nuqsaan nana
+  Akbar bhira nuṅ lagi saangh nana
 
   5
-  Jiday Khulay Gaysoo Sughra Da Weer
-  Ey Wich Kerbala Day Hoee Akheer Ey
-  Es Gham Nay Keetha Bay Chayn Nana
-  Bay Chayn Nana, Bay Chayn Nana
-  Akbar Bhera Nou Lagi Saang Nana
+  Laashe pe roti haiṅ behneṅ maaeṅ
+  Girye se apne sab ko rulaaeṅ
+  Khuni hai saara maidaan nana
+  Maidaan nana, maidaan nana
+  Akbar bhira nuṅ lagi saangh nana
+
+  6
+  Wich Karbala de uriyaaṅ ne khaakaaṅ
+  Aj diṅ de vele hoiyaaṅ ne raataaṅ
+  Khaime jalaae sar-e-aam nana,
+  Sar-e-aam nana, sar-e-aam nana
+  Akbar bhira nuṅ lagi saangh nana
+
+  7
+  Sughra se waada tum ne kiya tha
+  Main jald lautuṅga ye kaha tha
+  Pura kiya na paimaan nana
+  Paimaan nana, paimaan nana
+  Akbar bhira nuṅ lagi saangh nana
+
+  8
+  Jeide khulle gesu Sughra da vir e
+  Wich Karbala de hui akhir e
+  Is gham ne kita halkaan nana
+  Halkaan nana, halkaan nana
+  Akbar bhira nuṅ lagi saangh nana
 ---
 
 ۱

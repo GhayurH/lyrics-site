@@ -33,7 +33,7 @@ romanLyrics: |-
   Ab tumhaari betiyoṅ ko qaidi banaaya jaa raha hai
 
   5
-  Akbar o Abbas o Qasim khun se beshir ke
+  Akbar o Abbaas o Qaasim khun se beshir ke
   Is tarah irfaan-e-din ka gulshan sajaaya jaa raha hai
 ---
 

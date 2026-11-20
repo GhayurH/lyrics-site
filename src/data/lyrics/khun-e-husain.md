@@ -21,7 +21,7 @@ romanLyrics: |-
   1
   Haq se kahuṅ gi Fatima faryaad laayi hai
   Ummat ne mere laal ko maara duhaayi hai
-  Nauha yahi maiṅ hashr meiṅ parhti hi jaauṅ gi
+  Nauha yahi main hashr mein parhti hi jaauṅ gi
 
   2
   Paani dikha dikha ke rulaaya Husain ko
@@ -29,34 +29,34 @@ romanLyrics: |-
   Ro ro ke apne laal pe sab ko rulaauṅ gi
 
   3
-  Karte raho Ae mominoṅ maatam Husain ka
+  Karte raho ae mominoṅ maatam Husain ka
   Tum sab ke kaam aaye ga ye gham Husain ka
   Waada hai Fatima ka tumheṅ bakhshwaauṅ gi
 
   4
   Bachchoṅ ke mere khun se tar hai meri rida
   Khanjar se haaye mera bhi zakhmi hua gala
-  Ashkoṅ ke badle aankh se maiṅ khuṅ bahaauṅ gi
+  Ashkoṅ ke badle aankh se main khuṅ bahaauṅ gi
 
   5
   Dasht-e-bala ki bekasi us dil ke chain ki
-  Ho gi bapa jo hashr meiṅ majlis Husain ki
+  Ho gi bapa jo hashr mein majlis Husain ki
   Jo bhi hue wo saare masaaib sunaauṅ gi
 
   6
-  Ab qabr meiṅ na chain se soye gi Fatima
-  Jangal meiṅ apne laal pe roye gi Fatima
+  Ab qabr mein na chain se soye gi Fatima
+  Jangal mein apne laal pe roye gi Fatima
   Ho gi jahaaṅ pe majlis-e-Shabbir jaauṅ gi
 
   7
   Pehlu shikasta Bibi ye kehti hai baar baar
-  Jo majlis-e-Husain meiṅ rota hai zaar zaar
-  Un ko liye baghair na jannat meiṅ jaauṅ gi
+  Jo majlis-e-Husain mein rota hai zaar zaar
+  Un ko liye baghair na jannat mein jaauṅ gi
 
   8
   Aamir bataauṅ kaise mere dil ke chain ko
   Meri nazar ke saamne maara Husain ko
-  Aalam ye nauha hashr meiṅ parhti maiṅ jaauṅ gi
+  Aalam ye nauha hashr mein parhti main jaauṅ gi
 ---
 ہائے مظلوم حسین
 میرا مظلوم حسین

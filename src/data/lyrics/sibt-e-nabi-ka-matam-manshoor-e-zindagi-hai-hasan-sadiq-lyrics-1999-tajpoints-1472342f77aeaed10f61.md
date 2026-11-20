@@ -1,29 +1,47 @@
 ---
-title: "Sibt E Nabi Ka Matam Manshoor E Zindagi Hai Hasan Sadiq Lyrics 1999"
+title: "سبطِ نبی کا ماتم منشورِ زندگی ہے"
+alternateTitle: "Sibt-e-Nabi Ka Matam Manshoor-e-Zindagi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ameer"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sibt e Nabi ka matam manshoor e zindagi hai Hasan Sadiq
+  Matam hi zindagi hai matam hi bandagi hai
+  Daag-e-yateemi de ke mujh ko kahan gaye ho
+  Maqtal mein aik bachi Baba ko dhondti hai
+
+  2
+  Abbas ne yeh keh kar izn-e-jehad manga
+  Mujh se na dekhi jaye bachoon ki tashnagi hai
+  Bakhshish ki zimma dari oss ki Batool par hai
+  Shabeer be watan ka jo shaks matami hai
+
+  3
+  Nam-e-Hussain tu na koi mita sakay ga
+  Ghar bar ko luta ke Zainab yeh keh rahi hai
+  Le ke Ameer Asghar hathoon pe Shah bolay
+  Ya Rab qabool karna fidiya yeh aakhri hai
 ---
 
-1
-Sibt e Nabi Ka Matam Manshoor e Zindagi Hai Hasan Sadiq.
-Matam Hi Zindagi Hai Matam Hi Bandagi Hai.
-Daag-e-Yateemi De Ke Mujh Ko Kahan Gaye Ho.
-Maqtal Mein Aik Bachi Baba Ko Dhondti Hai.
+۱
+سبطِ نبی کا ماتم منشورِ زندگی ہے حسن صادق
+ماتم ہی زندگی ہے ماتم ہی بندگی ہے
+داغِ یتیمی دے کے مجھ کو کہاں گئے ہو
+مقتل میں ایک بچی بابا کو ڈھونڈتی ہے
 
-2
-Abbas Ne Yeh Keh Kar Izn-e-Jehad Manga.
-Mujh Se Na Dekhi Jaye Bachoon Ki Tashnagi Hai.
-Bakhshish Ki Zimma Dari Oss Ki Batool Par Hai.
-Shabeer Be Watan Ka Jo Shaks Matami Hai.
+۲
+عباس نے یہ کہہ کر اذنِ جہاد مانگا
+مجھ سے نہ دیکھی جائے بچوں کی تشنگی ہے
+بخشش کی ذمہ داری اس کی بتول پر ہے
+شبیر بے وطن کا جو شخص ماتمی ہے
 
-3
-Nam-e-Hussain Tu Na Koi Mita Sakay Ga.
-Ghar Bar Ko Luta Ke Zainab Yeh Keh Rahi Hai.
-Le Ke Ameer Asghar Hathoon Pe Shah Bolay.
-Ya Rab Qabool Karna Fidiya Yeh Aakhri Hai.
+۳
+نامِ حسین تو نہ کوئی مٹا سکے گا
+گھر بار کو لٹا کے زینب یہ کہہ رہی ہے
+لے کے امیر اصغر ہاتھوں پہ شاہ بولے
+یا رب قبول کرنا فدیہ یہ آخری ہے

@@ -10,94 +10,93 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  As Salam o alaika aey Zainab o Umme Kulsum
-  As Salam o alaika aey Ruqqaya o Sakina
-  As Salam o alaika aey Umme Laila o Rabab
-  As Salam o alaika aey Fatima o Fizza o Lubaba
-  As Salam o alaika aey ahle baitun Nubuwa
-  As Salam o alaika aey ahle baitun Nubuwa
-  As Salam o alaika aey haram e ansar o aizza
-  Alaikun Minni salam
-  Aale Syedun Nisa
-  Dukhtran e Murtaza
-  Kehtay thay Sheh e Huda - Al firaq al wida
+  As-salaamu alaika ae Zainab o Umm-e-Kulsum
+  As-salaamu alaika ae Ruqayya o Sakina
+  As-salaamu alaika ae Umm-e-Laila o Rabab
+  As-salaamu alaika ae Fatima o Fizza o Lubaba
+  As-salaamu alaika ae ahl-e-baitun nubuwwa
+  As-salaamu alaika ae ahl-e-baitun nubuwwa
+  As-salaamu alaika ae haram-e-ansaar o aizza
+  Alaikunna minni salaam
+  Aal-e-Sayyidun Nisa, dukhtaraan-e-Murtaza
+  Kehte the Shah-e-Huda, al-firaaq al-widaa
 
   2
-  Aale Syedun Nisa - Al firaq al wida
-  Dukhtran e Murtaza - Al firaq alwida
-  Kehtay thay Sheh e Huda - Al firaq al wida
+  Aal-e-Sayyidun Nisa, al-firaaq al-widaa
+  Dukhtaraan-e-Murtaza, al-firaaq al-widaa
+  Kehte the Shah-e-Huda, al-firaaq al-widaa
 
   3
-  Ao Zainab e Hazeen dikhain tum ko haal e zaar
-  Zakhm e tan hazar hain jigar alam se hay figar
-  Jawan laal mar gaya kaleja barchi se chida
-  Kalega barchi se chida Husain dekhta raha
-  Al firaq al wida Al firaq al wida
+  Aao Zainab-e-Hazin dikhaaeṅ tum ko haal-e-zaar
+  Zakhm-e-tan hazaar haiṅ jigar alam se hai figaar
+  Jawaan laal mar gaya kaleja barchhi se chhida
+  Kaleja barchhi se chhida Husain dekhta raha
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   4
-  Haey mera bhai qatl ho gaya Furat par
-  Kuch maza nahi raha hay meri is hayat par
-  Reh gaya akaila may ho gaye juda akhi
-  Ho gaye juda akhi zindagi muhaal hay
-  Al firaq al wida Al firaq al wida
+  Haaye mera bhaai qatl ho gaya Furaat par
+  Kuchh maza nahiṅ raha hai meri is hayaat par
+  Reh gaya akela main ho gaye juda akhi
+  Ho gaye juda akhi zindagi muhaal hai
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   5
-  Mera bezuban jahanse tashna lab guzar gaya
-  Aab ke sawal par sagheer ka gala chida
-  Sula ke us ko qabr may iba ko apni jhaar ke
-  Iba ko apni jharr ke Rubaba ham bhi jatay hain
-  Al firaq al wida Al firaq al wida
+  Mera bezubaaṅ jahaaṅ se tashna lab guzar gaya
+  Aab ke sawaal par Saghir ka gala chhida
+  Sula ke us ko qabr meiṅ aba ko apni jhaar ke
+  Aba ko apni jhaar ke Rabab ham bhi jaate haiṅ
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   6
-  As salam aey Fatima Rabab Zainab e Hazeen
-  Salam Fizza Lila aur Sakina jaan e Shah e deen
-  Husain marnay ko chala shaheed kunba ho gaya
-  Shaheed kunba ho gay ajeeb waqt aa gaya
-  Al firaq al wida Al firaq al wida
+  As-salaam ae Fatima Rubab Zainab-e-Hazin
+  Salaam Fizza Laila aur Sakina jaan-e-Shah din
+  Husain marne ko chala shahid kunba ho gaya
+  Shahid kunba ho gaya ajib waqt aa gaya
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   7
-  Alaika minni as salam aey dukhtar e Ali Wali
-  Salam sakinan e khaima e Husain bin Ali
-  Ghareeb o bedayar ka salam dilfigar ka
-  Salam dilfigar ka qabool bibyon karo
-  Al firaq al wida Al firaq al wida
+  Alaika minni as-salaam ae dukhtar-e-Ali Wali
+  Salaam saakinaan-e-khaima-e-Husain bin Ali
+  Gharib o bedayaar ka salaam dil figaar ka
+  Salaam dil figaar ka qabul bibiyoṅ karo
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   8
-  Sada ye suntay hi hua haram may nala o buka
-  Koi to lipti paoon se kisi ne tham li iba
-  Kiye theen halqa bibyan buka se hashr tha bapa
-  Buka se hashr tha bapa laboon pe yehi Noha tha
-  Al firaq al wida Al firaq al wida
+  Sada ye sunte hi hua haram meiṅ naala o buka
+  Koi to lipti paaoṅ se kisi ne thaam li rida
+  Kiye thiṅ halqa bibiyaaṅ buka se hashr tha bapa
+  Buka se hashr tha bapa laboṅ pe ye hi nauha tha
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   9
-  Kharra tha sar jhukaye choor zakhmo se Nabi ka laal
-  Ayan tha chehron se haram se bekasi gham o malal
-  Kaha Husain ne behan karo na is tarha mehan
-  KAro na is tarha mehan tumhe to karna hay safar
-  Al firaq al wida Al firaq al wida
+  Khara tha sar jhukaaye chur zakhmoṅ se Nabi ka laal
+  Ayaaṅ tha chehroṅ se haram ke bekasi gham o malaal
+  Kaha Husain ne behan karo na is tarah mihan
+  Karo na is tarah mihan tumheiṅ to karna hai safar
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   10
-  Husain ban ke karna hay yahan se Shaam ka safar
-  Chalay ga sath sath naizay par bahan hamara sar
-  Bandhay gi bazo may rasan shakista ho ga apirahan
-  Shakista ho ga pairahan karin gay ye shaqi jafa
-  Al firaq al wida Al firaq al wida
+  Husain ban ke karna hai yahaaṅ se Shaam ka safar
+  Chale ga saath saath neze par behan hamaara sar
+  Bandhe gi baazu meiṅ rasan shikasta ho ga pairahan
+  Shikasta ho ga pairahan kareṅ ge ye shaqi jafa
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   11
-  Anees rukhsat e Husain kis tarha se ho bayan
-  Bandhi hui theen bibyon ki soz e gham sehichkiya
-  Haram bilak ke rotay thay jigar figar hotay thay
-  Jigar figar hotay thay buland hoti thi sada
-  Al firaq al wida Al firaq al wida
+  Anis rukhsat-e-Husain kis tarah se ho bayaan
+  Bandhi hui thiṅ bibiyoṅ ki soz-e-gham se hichkiyaaṅ
+  Haram bilak ke rote the jigar figaar hote the
+  Jigar figaar hote the buland hoti thi sada
+  Al-firaaq al-widaa al-firaaq al-widaa
 
   12
-  Ya Abbasa
-  Ya Mazlooma
-  Ya Akbara
-  Ya Qasima
-  Ya Asghara
-  Ya Mazlooma
-  Hussaina
+  Ya Abbaasa Husaina
+  Ya Mazluma Husaina
+  Ya Akbara Husaina
+  Ya Qaasima Husaina
+  Ya Asghara Husaina
+  Ya Mazluma Husaina
+  Husaina Husaina
 ---
 
 ۱

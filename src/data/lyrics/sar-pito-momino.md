@@ -10,36 +10,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sar pito momino ke ye zarbat ki raat hai
+  Sar pito mominoṅ ke ye zarbat ki raat hai
 
   1
-  Damaad e shaah e diṅ ki shahadat ki raat hai
-  Kehte hai dil se hyder e safdar basad alam
-  Ye aakhri khuda ki ibaadat ki raat hai
+  Daamaad-e-Shaah-e-Diṅ ki shahaadat ki raat hai
+  Kehte haiṅ dil se Haidar-e-Safdar basad alam
+  Ye aakhri Khuda ki ibaadat ki raat hai
 
   2
-  Sajde meiṅ haq ke khaasa e daawar hua shahid
-  Aafat bapa karo ye qayamat ki raat hai
+  Sajde meiṅ Haq ke khaasa-e-Daawar hua shahid
+  Aafat bapa karo ye qayaamat ki raat hai
 
   3
-  Daare fana se hyder e karraar uth gaye
-  Ahle haram pe aaj musibat ki raat hai
+  Daar-e-fana se Haidar-e-Karraar uth gaye
+  Ahl-e-haram pe aaj musibat ki raat hai
 
   4
-  Kehte the roke zainab o kulsum se ali
+  Kehte the ro ke Zainab o Kulsum se Ali
   Aao gale lago ke ye furqat ki raat hai
 
   5
-  Ro ro ke dil se kehte the sibtain mustafa
-  Kiuṅ kar kategi haye musibat ki raat hai
+  Ro ro ke dil se kehte the sibtain Mustafa
+  Kiuṅ kar kategi haae musibat ki raat hai
 
   6
-  Pursa do mustafa ke nawasoṅ ko baap ka
+  Pursa do Mustafa ke nawaasoṅ ko baap ka
   Sar pito rozadaar ye aafat ki raat hai
 
   7
-  Maula nabi ki aal se shaukat ke ishq ki
-  Dije gawahi aap shahadat ki raat hai
+  Maula Nabi ki aal se Shaukat ke ishq ki
+  Dijiye gawaahi aap shahaadat ki raat hai
 ---
 
 سر پیٹو مومنوں کہ یہ ضربت کی رات ہے

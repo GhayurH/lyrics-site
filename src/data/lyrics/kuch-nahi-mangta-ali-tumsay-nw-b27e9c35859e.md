@@ -8,31 +8,29 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kuch Nahi Mangta Ali Tumsay ye wasihat Na Tum Bhula Deyna
-  Kufa walo meray Gharanay Ko meri Tableegh Ka Sila Deyna
+  Kuch nahiṅ maangta Ali tum se ye wasiyat na tum bhula dena
+  Kufa walo mere gharaane ko meri tabligh ka sila dena
 
-  Itni Khudar hai meri beti Isnay Mujhsay Bhi Kuch Nahi Manga
-  Gar Wo Bazar Mai Rida Mangay Khums Mai Isay Rida Deyna
+  Itni khudaar hai meri beti us ne mujh se bhi kuch nahiṅ maanga
+  Gar wo baazaar mein rida maange khums mein ise rida dena
 
-  Ajj Tak Kiya Kesi Ki Beti Ko Mainay Darbar Mai Bulaya Hai
-  Ay Darbar Main Agar Zainab Apni Nazaray Wahin Jhuka Leyna
+  Aaj tak kya kisi ki beti ko main ne darbaar mein bulaaya hai
+  Aae darbaar mein agar Zainab apni nazreṅ wahiṅ jhuka lena
 
-  Baap Dada Ki Zarb Ka Badla Betiyon say Nahi Liya Jaata
-  Pardadaron Say Jhung Mat Karna Qaidiyon Ko Na Haq Bhula Deyna
+  Baap daada ki zarb ka badla betiyoṅ se nahiṅ liya jaata
+  Pardadaaroṅ se jang mat karna qaidiyoṅ ko na haq bhula dena
 
-  Kafla Aik Yahan Se Guzarat Gah Jis Mai Piyasay Yateem Bhi Hongay
-  Hosakay Tuh Bhujana Piyaas Inki Pardadaron Ko Rasta Deyna
+  Qaafila ik yahaaṅ se guzre ga jis mein pyaase yatim bhi hoṅge
+  Ho sake to bujhaana pyaas in ki pardadaaroṅ ko raasta dena
 
-  Tukray Tukray Karo Badan Mera Kardo Pamaal Mera Lasha Abhi
-  Haath Uthana Na Sakina s.a Par Is yateema Ko hosla deyna
+  Tukre tukre karo badan mera karda paamaal mera laasha abhi
+  Haath uthaana na Sakina par is yatima ko hausla dena
 
-  Meri Ankhon Kay Samnay Logo Fatima S.A Nay Tamachay Khai Hain
-  Mainay Zehra S.A Ko Rotay Dekha Hai, Ab Na Zainab S.A Ka Gham Dekha Deyna
+  Meri aaṅkhoṅ ke saamne logo Fatima ne tamaache khaae haiṅ
+  Main ne Zehra ko rote dekha hai, ab na Zainab ka gham dikha dena
 
-  Rokay Kehtey Thay Ye Ali Mohsin Meri Ankhon Say Khoon Barsay Gah
-  Ab Mai Sajjad Ban Kay Aongah Bheerd Rahon Say Tum Hata Deyna
-
-  URDU
+  Ro ke kehte the ye Ali Mohsin meri aaṅkhoṅ se khuṅ barse ga
+  Ab main Sajjad ban ke aauṅ ga bhir raahoṅ se tum hata dena
 ---
 
 کچھ نہیں مانگتا علی ؑ تم سے یہ وصیت نہ تم بھلا دینا

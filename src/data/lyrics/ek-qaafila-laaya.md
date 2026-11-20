@@ -12,60 +12,60 @@ tags: []
 aliases: ["Ek Khafela Laaya"]
 published: true
 romanLyrics: |-
-  Sula ke qabr meiṅ beshir ko Husain-e-Gharib
+  Sula ke qabr mein beshir ko Husain-e-Gharib
   Har ek shahid ke laashe pe aaye rote hue
   Lab-e-Husain se su-e-falak gayi ye sada
-  Ek qaafila laaya tha maiṅ
+  Ek qaafila laaya tha main
 
   1
-  Us qaafile meiṅ tha Ali Akbar sa ek beta jawaaṅ
+  Us qaafile mein tha Ali Akbar sa ek beta jawaaṅ
   Abbas jaisa bhai tha maasum Asghar bezubaaṅ
-  Kuch bibiyaaṅ thi saath meiṅ mehzar meiṅ jin ka naam tha
+  Kuch bibiyaaṅ thi saath mein mehzar mein jin ka naam tha
 
   2
-  Ye qaafila kaise luta ye soch ke maiṅ ro diya
-  Paala tha jin ko naaz se Karb o Bala meiṅ kho diya
-  Un sab ke laashe saamne the aur hontoṅ par buka
+  Ye qaafila kaise luta ye soch ke main ro diya
+  Paala tha jin ko naaz se Karb o Bala mein kho diya
+  Un sab ke laashe saamne the aur hontoṅ par buqa
 
   3
-  Karyal jawaan ki laash haathoṅ par uthaai hai abhi
-  Ek bezubaaṅ ki qabr bhi maiṅ ne banaai hai abhi
-  Saamaṅ mere qatl ka karte haiṅ ab ye ashkiyan
+  Kariyal jawaan ki laash haathoṅ par uthaai hai abhi
+  Ek bezubaaṅ ki qabr bhi main ne banaai hai abhi
+  Saamaṅ mere qatl ka karte haiṅ ab ye ashqiyaa
 
   4
   Pyaase mere atfaal haiṅ behta hai darya saamne
-  Ek bewatan ko dasht meiṅ luta hai Fauj-e-Shaam ne
+  Ek bewatan ko dasht mein luta hai Fauj-e-Shaam ne
   Roti hai mere chaahne waaloṅ ke laashoṅ par qaza
 
   5
   Qismat meri le kar mujhe Karb o Bala tak aa gayi
   Ab barhte barhte baat Zainab ki rida tak aa gayi
-  Ho jaauṅ ga maiṅ qatl to chhin jaayegi us ki rida
+  Ho jaauṅ ga main qatl to chhin jaaye gi us ki rida
 
   6
-  Kuch der meiṅ khanjar lain ka halq par chal jaayega
-  Aur baad mere khaima-e-Saadaat bhi jal jaayega
-  Kya yuṅ koi pardes meiṅ aa kar luta ae Karbala
+  Kuch der mein khanjar lain ka halq par chal jaaye ga
+  Aur baad mere khaima-e-Saadaat bhi jal jaaye ga
+  Kya yuṅ koi pardes mein aa kar luta ae Karbala
 
   7
-  Jab qatl maiṅ ho jaauṅ ga Shaam-e-Gharibaaṅ aayegi
-  Sayyidaaniyoṅ ke qalb pe taaza qayaamat dhaayegi
+  Jab qatl main ho jaauṅ ga Shaam-e-Gharibaaṅ aaye gi
+  Sayyidaaniyoṅ ke qalb pe taaza qayaamat dhaaye gi
   Us waqt uthegi mere laash-e-burida se sada
 
   8
   Laashe sabhi reh jaayeṅ ge jalti zamiṅ par bekafan
   Qaidi banegi Mustafa ki aal paaband-e-rasan
-  Raahoṅ meiṅ rota jaayega bimaar ye kar ke buka
+  Raahoṅ mein rota jaaye ga bimaar ye kar ke buqa
 
   9
-  Reh jaayegi baali Sakina ki fughaaṅ zindaan meiṅ
-  Qaidi raheṅ gi saal bhar sayyidaaniyaaṅ zindaan meiṅ
-  Sajjad mera qaid se jaayega ye kehta hua
+  Reh jaaye gi baali Sakina ki fughaaṅ zindaan mein
+  Qaidi raheṅ gi saal bhar sayyidaaniyaaṅ zindaan mein
+  Sajjad mera qaid se jaaye ga ye kehta hua
 
   10
   Irfan Haider ho gayi ashkoṅ se aankheṅ nam meri
   Aise masaaib Shaah ke likhta hai Mazhar Abidi
-  Bas ek misre meiṅ simat kar aa gayi hai Karbala
+  Bas ek misre mein simat kar aa gayi hai Karbala
 ---
 سُلا کے قبر میں بے شیر کو حسینِ غریب
 ہر اک شہید کے لاشے پہ آئے روتے ہوئے

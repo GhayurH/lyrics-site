@@ -1,24 +1,38 @@
 ---
-title: "Mera Akbar Mariya Logan Ne Har Reh Gayi Rasam Adhori Lyrics In Saraiki 2018"
+title: "میرا اکبر ماریا لوکاں نے ہار رہ گئی رسم ادھوری"
+alternateTitle: "Mera Akbar Mariya Logan Ne Har Reh Gayi Rasam Adhori"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Nashad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Karni hayi shadi Akbar di eha thi hasrat na pori
+  Na shagan kitay koi phophiyaan ne na mawaan mehndi layi
+  Na saij sajai Sughra ne jaikon kha gayi veer di doori
+  Do mawaan baithiyaan khaimay wich rakh dil wich taang putar di
+  Har roz putar da munh chumna aye har maa di hayi majbori
+  Humshakal hai mainday nanay da Yousuf taun zyada sonra
+  Mitiyaan wich ummat ne rool dita hai chawan putar zarori
+  Kad saang putar de jigar wichon hai jigar Batool da roya
+  Rakh sar Akbar da jholi wich keeti waang ghareebi
+  Aawaz aayi hai arshaan taun Shabeer Khuda razi hai
+  Nabiyaan waliyaan taun wadh gayi hai Nashad taidi manzori
 ---
 
-1
-Karni Hayi Shadi Akbar Di Eha Thi Hasrat Na Pori.
-Na Shagan Kitay Koi Phophiyaan Ne Na Mawaan Mehndi Layi.
-Na Saij Sajai Sughra Ne Jaikon Kha Gayi Veer Di Doori.
-Do Mawaan Baithiyaan Khaimay Wich Rakh Dil Wich Taang Putar Di.
-Har Roz Putar Da Munh Chumna Aye Har Maa Di Hayi Majbori.
-Humshakal Hai Mainday Nanay Da Yousuf Taun Zyada Sonra.
-Mitiyaan Wich Ummat Ne Rool Dita Hai Chawan Putar Zarori.
-Kad Saang Putar De Jigar Wichon Hai Jigar Batool Da Roya.
-Rakh Sar Akbar Da Jholi Wich Keeti Waang Ghareebi.
-Aawaz Aayi Hai Arshaan Taun Shabeer Khuda Razi Hai.
-Nabiyaan Waliyaan Taun Wadh Gayi Hai Nashad Taidi Manzori.
+۱
+کرنی ہئی شادی اکبر دی، ایہا تھی حسرت نہ پوری
+نہ شگن کیتے کوئی پھپھیاں نے، نہ ماواں مہندی لائی
+نہ سیج سجائی صغرا نے، جیکوں کھا گئی ویر دی دُوری
+دو ماواں بیٹھیاں خیمے وچ، رکھ دل وچ تانگھ پتر دی
+ہر روز پتر دا منہ چمنا اے، ہر ماں دی ہئی مجبوری
+ہم شکل ہے میندے نانے دا، یوسف توں زیادہ سوہݨڑا
+مٹیاں وچ امت نے رول دتا ہے، چاواں پتر ضروری
+کڈھ سانگ پتر دے جگر وچوں، ہے جگر بتول دا رویا
+رکھ سر اکبر دا جھولی وچ، کیتی وانگ غریبی
+آواز آئی ہے عرشاں توں، شبیر خدا راضی ہے
+نبیاں ولیاں توں ودھ گئی ہے ناشاد تیدی منظوری

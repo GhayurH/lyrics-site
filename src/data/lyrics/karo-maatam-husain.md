@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Din ne Maula Shabbir ko di sada
   Ammaaṅ Zehra ke markaz se rukhsat hua
-  Lab pe naam-e-Khuda dil meiṅ thi Karbala
+  Lab pe naam-e-Khuda dil mein thi Karbala
   Din bhi garmi ke the saath bachchoṅ ka tha
   Phir bhi marne chala woh musalmaanoṅ
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   Waqt kya aa gaya tha musalmaanoṅ
 
   4
-  Khatm Karbobala meiṅ laraai hui
+  Khatm Karbobala mein laraai hui
   Saari fauj-e-Khuda khaak par so gai
   Aai shaam-e-gharibaaṅ raha na koi
   Itrat-e-Mustafa su-e-zindaaṅ chali
@@ -53,12 +53,12 @@ romanLyrics: |-
   6
   Mere Sajjad boli yeh Bint-e-Ali
   Jaanti hai mujhe Shaam ki har gali
-  Kal talak shaahzaadi thi maiṅ Shaam ki
+  Kal talak shaahzaadi thi main Shaam ki
   Khaak uraao ke mujh ko na dekhe koi
   Yeh tha Zainab ka nauha musalmaanoṅ
 
   7
-  Bole Sajjad haathoṅ meiṅ zanjir hai
+  Bole Sajjad haathoṅ mein zanjir hai
   Beridaai phuphi ab to taqdir hai
   Sabr Aal-e-Muhammad ki jaagir hai
   Ham haiṅ Aal-e-Nabi bas yeh taqsir hai
@@ -67,7 +67,7 @@ romanLyrics: |-
   8
   Yeh jo Rehaan o Sarwar ki aawaaz hai
   Taa ba Karbobala is ki parwaaz hai
-  Chaudah sadiyoṅ se maatam ka aejaaz hai
+  Chaudah sadiyoṅ se maatam ka ijaaz hai
   In ke dar ka gada Laal Shahbaaz hai
   Hai karam Sayyeda ka musalmaanoṅ
 ---

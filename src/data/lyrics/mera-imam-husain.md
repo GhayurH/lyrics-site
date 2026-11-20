@@ -32,7 +32,7 @@ romanLyrics: |-
   Naaz-e-Ali Murtaza Husain Imam Husaina
   Jaan o dil-e-Fatema Husain Imam Husaina
   Shaan-e-Husain aur koi paa nahiṅ sakta
-  Waaris-e-Salle Alaa haaṅ mera Imam Husain
+  Waaris-e-Sallallaah haaṅ mera Imam Husain
   Bol Imam Husain Imam Husain Imam Husain Imam
   Bol Imam Husain Imam Husain Imam Husaina
 
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   2
   Karb o bala saltanat-e-ishq-e-Khuda hai
-  Sayyid o saadaat ki mehnat ka sila hai
+  Sayyidoṅ saadaat ki mehnat ka sila hai
   Jab se qadam Aal-e-Muhammad ne rakha hai
   Khaak bhi is shehr ki ab khaak-e-shifa hai
   Waali-e-Karb o bala Husain Imam Husaina
@@ -76,7 +76,7 @@ romanLyrics: |-
   Rab ki riza ke liye ghar baar lutaaya
   Pyaare fida kar diye kuchh bhi na bachaaya
   Ishq-e-Khuda kya hai ye dunya ko bataaya
-  Bol utha saara jahaaṅ Husain Imam Husaina
+  Bol uthaa saara jahaaṅ Husain Imam Husaina
   Aap sa koi kahaaṅ Husain Imam Husaina
   Itna bara kaam koi kar nahiṅ sakta
   Naam lo wo kaun tha haaṅ mera Imam Husain
@@ -87,13 +87,13 @@ romanLyrics: |-
   Har qaum ki hai sada apna hai apna Husain
 
   5
-  Aap sa rutba to koi paa nahiṅ sakta
+  Aap sa rutba koi paa nahiṅ sakta
   Ban ke Husain aur koi aa nahiṅ sakta
   Aisi misaal aur koi laa nahiṅ sakta
-  Itni balandi pe koi jaa nahiṅ sakta
+  Itni bulandi pe koi jaa nahiṅ sakta
   Ek hai bas ek tha Husain Imam Husaina
   Ek rahega sada Husain Imam Husaina
-  Koi bhi is baat ko jhutla nahiṅ sakta
+  Koi bhi is baat ko jhutlaa nahiṅ sakta
   Kaun hai jo chhaa gaya haaṅ mera Imam Husain
   Bol Imam Husain Imam Husain Imam Husain Imam
   Bol Imam Husain Imam Husain Imam Husaina
@@ -117,7 +117,7 @@ romanLyrics: |-
   Haaye sar-e-Karb o bala jis ko sukun mila nahiṅ
   Jis ka to kuchh raha nahiṅ jis ka to kuchh bacha nahiṅ
   Laakhoṅ se jo daba nahiṅ maut se jo dara nahiṅ
-  Jis ka wo sar kat to gaya kat ke bhi sar jhuka nahiṅ
+  Jis ka wo sar kaat to gaya kat ke bhi sar jhuka nahiṅ
   Haaṅ mera Imam Husain haaṅ mera Imam Husain
   Imam Husain ya Husain Imam Husain ya Husain
 
@@ -128,7 +128,7 @@ romanLyrics: |-
   Lahu badan
   Ae bekafan
   Ae bewatan
-  Ae jaan-e-man
+  Ae khasta tan
   Shaah-e-zaman
   Husain
 ---

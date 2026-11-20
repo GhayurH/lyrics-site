@@ -1,6 +1,6 @@
 ---
 title: "آہستہ سے برچھی کو وجیہ حسن زیدی"
-alternateTitle: "Ahista Se Barchi Ko Wajhi Hasan Zaidi"
+alternateTitle: "Aahista Se Barchhi Ko Wajih Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ahista Se Barchi Ko Wajhi Hasan Zaidi
-  Aahista se barchi ko nikalo mere Baba
-  Dam seene mein ghutta hai sanbhalo mere Baba
-  Aap aaye hain himmat nahi tazeem ko uthoon
+  Aahista se barchhi ko Wajih Hasan Zaidi
+  Aahista se barchhi ko nikalo mere Baba
+  Dam sine mein ghutta hai sanbhalo mere Baba
+  Aap aaye haiṅ himmat nahiṅ tazim ko uthuṅ
 
   2
-  Zakhmi hoon bohat kis tarha tasheem ko uthoon
-  Majboor hoon tasleem e wida lo mere Baba
-  Din khatam hoye bas rahi dil mein yehi hasrat
-  Hasil na hoi aap ki khidmat ki sadat
+  Zakhmi huṅ bohat kis tarah taslim ko uthuṅ
+  Majbur huṅ taslim-e-wida lo mere Baba
+  Din khatam hue bas rahi dil mein yehi hasrat
+  Haasil na hui aap ki khidmat ki saadat
 
   3
-  Sharminda hoon daman mein chupa lo mere Baba
-  Barchi ki aziyat se badan kanp raha hai
-  Aankhon mein andhera hai dahan kanp raha hai
-  Mumkin ho tu seene se laga lo mere Baba
+  Sharminda huṅ daaman mein chhupa lo mere Baba
+  Barchhi ki aziyat se badan kaanp raha hai
+  Aankhoṅ mein andhera hai dahan kaanp raha hai
+  Mumkin ho to sine se laga lo mere Baba
 
   4
-  Maloom hai khud aap ki halat bhi khasta
-  Lasha mera tum se nahi uth paye ga Maula
-  Gar ho sakay Ammo ko bola lo mere Baba
-  Tarpein gay haram khaimay mein jab jaye ga lasha
+  Malum hai khud aap ki haalat bhi khasta
+  Laasha mara tum se nahiṅ uth paaye ga Maula
+  Gar ho sake Ammu ko bula lo mere Baba
+  Tarpeṅ ge haram khaime mein jab jaaye ga laasha
 
   5
-  Bas dena tasali unhein khud aap na rona
-  Ab aap yahin ashk baha lo mere Baba
-  Main bool ke aaya tha watan aaon ga lenay
-  Main ja nahi paya tu woh naraz hai mujh se
+  Bas dena tasalli unheṅ khud aap na rona
+  Ab aap yahiṅ ashk baha lo mere Baba
+  Main bol ke aaya tha watan aauṅ ga lene
+  Main jaa nahiṅ paaya to woh naaraaz hai mujh se
 
   6
-  Sughra ko kissi tarha mana lo mere Baba
-  Rukhsat ki ghari aa gayi iss arz-e-bala se
-  Yasir kaha Akbar ne Shah-e-Karb-o-Bala se
-  Humshakal-e-payamber ko utha lo mere Baba
+  Sughra ko kisi tarah mana lo mere Baba
+  Rukhsat ki ghari aa gayi is arz-e-bala se
+  Yasir kaha Akbar ne Shah-e-Karb o Bala se
+  Hamshakl-e-payambar ko utha lo mere Baba
 ---
 
 ۱

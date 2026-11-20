@@ -1,39 +1,66 @@
 ---
 title: "ہائے قیداں وچ رو رو کے سکینہ مر گئی"
 alternateTitle: "Haye Qaidaaṅ Wich Ro Ro Ke Sakina Mar Gayi"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye qaidanch ro ro kay Sakina margaiay
+  Sir lehjao eday babay da chup kargaiay
+
+  1
+  Puch da reha ay ho Shaamion nu Shabbir da sir
+  Kyu rondi nayi keetay aj meri dukhtar gaiay
+
+  2
+  Meri sanj muhka gayi ay baba Baqar akhay
+  Meray hee say di Zainab safran vich margaiay
+
+  3
+  Be kafan behen di kabar uttay Abid akhay
+  Mil Shaamiyan ton vapis teri chaader gaiay
+
+  4
+  Sawa nu rehai melgayi ay par anu nayi
+  Kadu lash edi zindan vichon bahar gaiay
+
+  5
+  Ehlan hoya ay Shaam valain zindain na vich
+  Bara rondi si bachi jeri o margaiay
+
+  6
+  Saqlain tamchay kaandi rayi par hari nayi
+  Aye zulm tou nayi babay de pyar tou hargaiay
 ---
 
-Haye Qaidanch Ro Ro Kay Sakina Margaiay
-Sir lehjao eday babay da chup kargaiay
+ہائے قیداں چ رو رو کے سکینہ مر گئی اے
+سر لے جاؤ ایہدے بابے دا، چپ کر گئی اے
 
-1
-Puch da reha ay ho shaamion nu Shabbir da sir
-Kyu rondi nayi keetay aj meri dukhtar gaiay
+۱
+پچھدا رہا اے او شامیاں نوں شبیر دا سر
+کیوں روندی نئیں، کِتھے اج میری دختر گئی اے
 
-2
-Meri sanj muhka gayi ay baba Baqar akhay
-Meray hee say di Zainab safran vich margaiay
+۲
+میری سانجھ مکا گئی اے بابا، باقر آکھے
+میرے حصے دی زینب سفراں وچ مر گئی اے
 
-3
-Be kafan behen di kabar uttay Abid akhay
-Mil shaamiyan ton vapis teri chaader gaiay
+۳
+بے کفن بہن دی قبر اُتے عابد آکھے
+مل شامیاں توں واپس تیری چادر گئی اے
 
-4
-Sawa nu rehai melgayi ay par anu nayi
-Kadu lash edi zindan vichon bahar gaiay
+۴
+سواں نوں رہائی مل گئی اے پر اینوں نئیں
+کڈھو لاش ایہدی زنداں وچوں باہر گئی اے
 
-5
-Ehlan hoya ay shaam valain zindain na vich
-Bara rondi si bachi jeri o margaiay
+۵
+اعلان ہویا اے شام والیاں زنداناں وچ
+بڑا روندی سی بچی جیہڑی او مر گئی اے
 
-6
-Saqlain tamchay kaandi rayi par hari nayi
-Aye zulm tou nayi babay de pyar tou hargaiay
+۶
+ثقلین تماچے کھاندی رہی پر ہاری نئیں
+اے ظلم توں نئیں، بابے دے پیار توں ہار گئی اے

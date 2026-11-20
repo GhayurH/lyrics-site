@@ -1,47 +1,84 @@
 ---
-title: "Fizza Khiyal Rakhna Mirza Sajjad Mumtaz"
+title: "فضہ خیال رکھنا مرزا سجاد ممتاز"
+alternateTitle: "Fizza Khiyal Rakhna Mirza Sajjad Mumtaz"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Fizza khiyal rakhna Mirza Sajjad Mumtaz
+  Boli yeh ro ke Zahra, Fizza khiyal rakhna
+  Har haal mein tu ghar ka Fizza khiyal rakhna
+  Main janti hoon Fizza tum ne bara hi acha
+
+  2
+  Hai sath bhi nibhaya mera khiyal rakha
+  Ab baad mere ghar ka Fizza khiyal rakhna
+  Har dukh mein sath mera tum ne diya hai Fizza
+  Misal-e-behan aye Fizza humrah thi hamesha
+
+  3
+  Aagay bhi meri behna Fizza khiyal rakhna
+  Baba ne jab qaza ki ummat ne tab daga ki
+  Tu ne magar wafa ki main ne tujhe dua ki
+  Bachoon ka our apna Fizza khiyal rakhna
+
+  4
+  Nazoon se jis ko pala, ne dhop mein nikala
+  Woh Karbala mein hoga tanha Hussain mera
+  Oss dam mere pisar ka Fizza khiyal rakhna
+  Darbar ka tu manzar dekha hai tum ne chal kar
+
+  5
+  Zainab ke jab aye khwahar aaye ga waqt sar par
+  Maa bach ke sath dena Fizza khiyal rakhna
+  Mujh par bhi roye gi woh Haider ko roye gi woh
+  Shabar ko roye gi woh Sarwar ko roye gi woh
+
+  6
+  Ban kar sahara oss ka Fizza khiyal rakhna
+  Sajjad-o- Mohtasham yeh Fizza se boli Zahra
+  Hai ghar tere hawalay meri behan yeh mera
+  Meri tarha sabhi ka Fizza khiyal rakhna
 ---
 
-1
-Fizza Khiyal Rakhna Mirza Sajjad Mumtaz.
-Boli Yeh Ro Ke Zahra, Fizza Khiyal Rakhna.
-Har Haal Mein Tu Ghar Ka Fizza Khiyal Rakhna.
-Main Janti Hoon Fizza Tum Ne Bara Hi Acha.
+۱
+فضہ خیال رکھنا مرزا سجاد ممتاز
+بولی یہ رو کے زہرا، فضہ خیال رکھنا
+ہر حال میں تو گھر کا فضہ خیال رکھنا
+میں جانتی ہوں فضہ تم نے بڑا ہی اچھا
 
-2
-Hai Sath Bhi Nibhaya Mera Khiyal Rakha.
-Ab Baad Mere Ghar Ka Fizza Khiyal Rakhna.
-Har Dukh Mein Sath Mera Tum Ne Diya Hai Fizza.
-Misal-e-Behan Aye Fizza Humrah Thi Hamesha.
+۲
+ہے ساتھ بھی نبھایا میرا خیال رکھا
+اب بعد میرے گھر کا فضہ خیال رکھنا
+ہر دکھ میں ساتھ میرا تم نے دیا ہے فضہ
+مثالِ بہن اے فضہ ہمراہ تھی ہمیشہ
 
-3
-Aagay Bhi Meri Behna Fizza Khiyal Rakhna.
-Baba Ne Jab Qaza Ki Ummat Ne Tab Daga Ki.
-Tu Ne Magar Wafa Ki Main Ne Tujhe Dua Ki.
-Bachoon Ka Our Apna Fizza Khiyal Rakhna.
+۳
+آگے بھی میری بہنا فضہ خیال رکھنا
+بابا نے جب قضا کی امت نے تب دغا کی
+تو نے مگر وفا کی میں نے تجھے دعا کی
+بچوں کا اور اپنا فضہ خیال رکھنا
 
-4
-Nazoon Se Jis Ko Pala, Ne Dhop Mein Nikala.
-Woh Karbala Mein Hoga Tanha Hussain Mera.
-Oss Dam Mere Pisar Ka Fizza Khiyal Rakhna.
-Darbar Ka Tu Manzar Dekha Hai Tum Ne Chal Kar.
+۴
+نازوں سے جس کو پالا، نے دھوپ میں نکالا
+وہ کربلا میں ہوگا تنہا حسین میرا
+اس دم میرے پسر کا فضہ خیال رکھنا
+دربار کا تو منظر دیکھا ہے تم نے چل کر
 
-5
-Zainab Ke Jab Aye Khwahar Aaye Ga Waqt Sar Par.
-Maa Bach Ke Sath Dena Fizza Khiyal Rakhna.
-Mujh Par Bhi Roye Gi Woh Haider Ko Roye Gi Woh.
-Shabar Ko Roye Gi Woh Sarwar Ko Roye Gi Woh.
+۵
+زینب کے جب اے خواہر آئے گا وقت سر پر
+ماں بچ کے ساتھ دینا فضہ خیال رکھنا
+مجھ پر بھی روئے گی وہ حیدر کو روئے گی وہ
+شبر کو روئے گی وہ سرور کو روئے گی وہ
 
-6
-Ban Kar Sahara Oss Ka Fizza Khiyal Rakhna.
- Sajjad-o- Mohtasham Yeh Fizza Se Boli Zahra.
-Hai Ghar Tere Hawalay Meri Behan Yeh Mera.
-Meri Tarha Sabhi Ka Fizza Khiyal Rakhna.
+۶
+بن کر سہارا اس کا فضہ خیال رکھنا
+سجاد و محتشم یہ فضہ سے بولی زہرا
+ہے گھر تیرے حوالے میری بہن یہ میرا
+میری طرح سبھی کا فضہ خیال رکھنا

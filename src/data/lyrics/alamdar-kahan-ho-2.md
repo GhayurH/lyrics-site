@@ -10,55 +10,55 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Karti thi buka zainab-e-ghamkhwar
+  Karti thi bukaa Zainab-e-ghamkhwaar
   Alamdar kahaṅ ho
 
   1
-  Beparda haram hai sar e bazaar
+  Beparda haram hai sar-e-bazaar
 
   2
-  Jab se mujhe dar pesh hui teri judaai
-  Tarik nazar aane lagi saari khudayi
-  Zainab hai masayib meiṅ giraftaar
+  Jab se mujhe darpesh hui teri judaai
+  Taarik nazar aane lagi saari khudaai
+  Zainab hai masaaib meiṅ giraftaar
 
   3
-  Maara jo kabhi shimr e sitamgar ne tamacha
-  Masum sakina ne tera naam pukara
-  Bacchi ko madad hai teri darkaar
+  Maara jo kabhi Shimr-e-sitamgar ne tamaacha
+  Maasum Sakina ne tera naam pukaara
+  Bachchi ko madad hai teri darkaar
 
   4
   Yasrab meiṅ kabhi mera qadam ghar se na nikla
-  Bas thi meri dunya bani hashim ka mohalla
-  Ab mera safar hai sar e bazaar
+  Bas thi meri duniya Bani Haashim ka mohalla
+  Ab mera safar hai sar-e-bazaar
 
   5
-  Beparda sar e shaam haram hote hai tash'heer
-  Rota hai lahu noke sina par sar-e-shabbir
-  Ae aale mohamed ke madadgaar
+  Beparda sar-e-Shaam haram hote haiṅ tashhir
+  Rota hai lahu nok-e-sinaaṅ par sar-e-Shabbir
+  Ae laal Muhammad ke madadgaar
 
   6
-  Hote hai bare zulm o sitam ahle haram par
-  Durre kabhi khaate hai kabhi khaate hai pathar
-  Sadaat pe haste hai sitamgaar
+  Hote haiṅ bare zulm o sitam ahl-e-haram par
+  Durre kabhi khaate haiṅ kabhi khaate haiṅ patthar
+  Saadaat pe hanste haiṅ sitamgar
 
   7
-  Ye aa gayi taqdir kahaṅ aale aba ki
-  Ye fauj e jafakaar hameiṅ kehti hai baaghi
-  Is tanz ko sun kar hoo dilafgaar
+  Ye aa gai taqdir kahaṅ aal-e-aba ki
+  Ye fauj-e-jafaakaar hameiṅ kehti hai baaghi
+  Is tanz ko sun kar huṅ dilafgaar
 
   8
-  Hai haath rasan basta nahi sar pe ridayeiṅ
-  Sadaat bhala behre madad kis ko bulayeiṅ
-  Hai shaam ka rasta bara dushwaar
+  Hai haath rasan basta nahiṅ sar pe ridaaeiṅ
+  Saadaat bhala bahr-e-madad kis ko bulaaeiṅ
+  Hai Shaam ka rasta bara dushwaar
 
   9
-  Dekhi nahi jaati mere sajjad ki haalat
-  Chalne bhi nahi deti use uski naqaahat
-  Mar jaaye na gham se kahiṅ bemaar
+  Dekhi nahiṅ jaati mere Sajjad ki haalat
+  Chalne bhi nahiṅ deti use uski naqaahat
+  Mar jaae na gham se kahiṅ bimaar
 
   10
-  Sibtain mai bhala kaise likhuṅ shaam ka manzar
-  Jab shaam ke bazaar meiṅ saydaniya safdar
+  Sibtain maiṅ bhala kaise likhuṅ Shaam ka manzar
+  Jab Shaam ke bazaar meiṅ Saydaaniyaaṅ Safdar
   Kehti thi ye har baar
 ---
 

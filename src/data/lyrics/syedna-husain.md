@@ -12,56 +12,56 @@ published: false
 romanLyrics: |-
   1
   Tu hi zariya tu hi hila
-  Meri bakshish ka waseela
-  Har ghari mera wazeefa
-  Mere har gham ka madawa
+  Meri bakhshish ka wasila
+  Har ghari mera wazifa
+  Mere gham ka madaawa
   Syedna Husain Husain
   Murshadna Husain
   Tu din ka sutun hai tu din ka waqaar
   Mohsin hai tu hi din ka tu din ka qaraar
-  Kis se misaal doo teri kis meiṅ karuṅ shumaar
-  Riffat ko teri dekh ke kehti hai karbala
-  Syedna Husain Husain...
+  Kis se misaal duṅ teri kis meiṅ karuṅ shumaar
+  Rifat ko teri dekh ke kehti hai Karbala
+  Syedna Husain Husain
   Baatil har ek daur meiṅ paata raha zawaal
-  Auje hussainiyat meiṅ na dekha gaya zawaal
-  Tere udu ka hissa khata o saza zawaal
-  Har daur teri jit hai har daur karbala
-  Syedna Husain Husain...
-  Hojata sab halaak tabahi ke zad meiṅ tha
-  Din e rasul e pak tabahi ke zad meiṅ tha
-  Insan dard naak tabahi ke zad meiṅ tha
-  Jaaṅ de ke tune bakshi hai har ek ko jila
-  Syedna Husain Husain...
+  Auj-e-Husainiyat meiṅ na dekha gaya zawaal
+  Tere adu ka hissa khata o saza zawaal
+  Har daur teri jit hai har daur Karbala
+  Syedna Husain Husain
+  Ho jaata sab halaak tabaahi ke zid meiṅ tha
+  Din-e-Rasul-e-Paak tabaahi ke zid meiṅ tha
+  Insaan dardnaak tabaahi ke zid meiṅ tha
+  Jaaṅ de ke tu ne bakhshi hai har ek ko jila
+  Syedna Husain Husain
   Baatil butoṅ se haq ki taraf rukh ko mor kar
-  Hurr aaya jab hai shaam ke lashkar ko chor kar
+  Hurr aaya jab hai Shaam ke lashkar ko chhor kar
   Kehne laga Husain se ye haath jor kar
-  Rab ki qasam hai raahe jina saath aap ka
-  Syedna Husain Husain...
-  Marqad ki wehshatoṅ ka mujhe koi gham nahi
-  Apni musibatoṅ ka mujhe koi gham nahi
-  Aur gham ke marhaloṅ ka mujhe koi gham nahi
-  Deta har ek gham ko tera gham hai hausla
-  Syedna Husain Husain...
-  Ye justaju ye haq ki talabgari kam na ho
-  Maula tumhare ghar se wafadari kam na ho
-  Mushkil ho koi bhi ye azadari kam na ho
-  Karte hai bas khuda se azadar ye dua
-  Syedna Husain Husain...
-  Mauj e sitam uthi bhi to saahil na chu saki
-  Kaali ghatayeiṅ zulm ki har simt cha gayi
-  Lekin teri shuwaoṅ ki hadh tak na aa saki
-  Suraj teri hayaat ka rashan raha sada
-  Syedna Husain Husain...
-  Bete ka laasha dosh pe tha rab ka shukriya
-  Karke supurd khaak kiya rab ka shukriya
-  Har gaam pe tu karta raha rab ka shukriya
-  Tujhko salaam sabr o tahammul ne khud kiya
-  Syedna Husain Husain...
-  Itni kahaṅ thi fikre shanwar ki riffateiṅ
-  Aamir jo zam Husain ki karta ye azmateiṅ
-  Unki nawazisheiṅ hai ye unki inayateiṅ
-  Socha tha bas Husain ko aur misra hogaya
-  Syedna Husain Husain...
+  Rab ki qasam hai raah-e-jinaaṅ saath aap ka
+  Syedna Husain Husain
+  Marqad ki wehshatoṅ ka mujhe koi gham nahiṅ
+  Apni musibatoṅ ka mujhe koi gham nahiṅ
+  Aur gham ke marhaloṅ ka mujhe koi gham nahiṅ
+  Deta hai har ek gham ko tera gham hai hausla
+  Syedna Husain Husain
+  Ye justaju ye haq ki talabgaar kam na ho
+  Maula tumhaare ghar se wafadaar kam na ho
+  Mushkil ho koi bhi ye azaadaar kam na ho
+  Karte haiṅ bas Khuda se azaadaar ye dua
+  Syedna Husain Husain
+  Mauj-e-sitam uthi bhi to saahil na chhu saki
+  Kaali ghataaeṅ zulm ki har simt chhaa gaiṅ
+  Lekin teri shuaaoṅ ki had tak na aa saki
+  Suraj teri hayaat ka raushan raha sadaa
+  Syedna Husain Husain
+  Bete ka laasha dosh pe tha Rab ka shukriya
+  Kar ke supurd-e-khaak kiya Rab ka shukriya
+  Har gaam pe tu karta raha Rab ka shukriya
+  Tujh ko salaam sabr o tahammul ne khud kiya
+  Syedna Husain Husain
+  Itni kahaaṅ thi fikr-e-Shanaawar ki rifateṅ
+  Aamir jo zam Husain ki karta ye azmateṅ
+  Un ki nawaazisheṅ haiṅ ye un ki inaayateṅ
+  Socha tha bas Husain ko aur misra ho gaya
+  Syedna Husain Husain
 ---
 
 ۱

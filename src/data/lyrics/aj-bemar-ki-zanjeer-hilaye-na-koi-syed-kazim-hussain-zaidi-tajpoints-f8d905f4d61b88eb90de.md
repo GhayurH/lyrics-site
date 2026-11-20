@@ -1,47 +1,82 @@
 ---
-title: "Aj Bemar Ki Zanjeer Hilaye Na Koi Syed Kazim Hussain Zaidi"
+title: "آج بیمار کی زنجیر ہلائے نہ کوئی"
+alternateTitle: "Aj Bemar Ki Zanjeer Hilaye Na Koi Syed Kazim Hussain Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Kazim"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aaj beemar ki zanjeer hilaye na koi
+  Paye Sajjad mein chalay hain chalaye na koi
+  Aablay ristay hain paon se lahu behta hai
+
+  2
+  Qafila pal ko bhi ruk jaye sakoon rehta hai
+  Lamhey ko betha hai beemar uthaye na koi
+  Yeh dua kartay they Sajjad ke darbaron mein
+  Be rida behnein mere sath hain bazaron mein
+
+  3
+  Janane wala mere samne aaye na koi
+  Kehta tha Shimar ke beemar ko majboor rakho
+  Hai mera hukam ke pani ko bohat door rakho
+  Aik qatra bhi inhein aab pilaye na koi
+
+  4
+  Bolay Sajjad mera khon baha de sara
+  Shimar tu karday mere jism ko para para
+  Haan magar hath Sakina ko lagaye na koi
+  Hath joray hoye kehti thi Sakina sab se
+
+  5
+  Zakhmi Sajjad ko lamhey ke liye chain miley
+  Soya hai bhai mera shoor manaye na koi
+  Taiz chalne ka jo kehte hain sitam hota hai
+  Tauq hilta hai tu gardan se lahu behta hai
+
+  6
+  Beriyan zakhm banati hain chalaye na koi
+  Kazim-o- Mirza jo soya na tha ik pal ke liye
+  Oss ko sotay hoye dekha tu haram kehne lagay
+  Chand saat ko yeh soya hai jagaye na koi
 ---
 
-1
-Aj Bemar Ki Zanjeer Hilaye Na Koi Syed Kazim Hussain Zaidi.
-Aaj Beemar Ki Zanjeer Hilaye Na Koi.
-Paye Sajjad Mein Chalay Hain Chalaye Na Koi.
-Aablay Ristay Hain Paon Se Lahu Behta Hai.
+۱
+آج بیمار کی زنجیر ہلائے نہ کوئی
+پائے سجاد میں چھالے ہیں، چلائے نہ کوئی
+آبلے رستے ہیں، پاؤں سے لہو بہتا ہے
 
-2
-Qafila Pal Ko Bhi Ruk Jaye Sakoon Rehta Hai.
-Lamhey Ko Betha Hai Beemar Uthaye Na Koi.
-Yeh Dua Kartay They Sajjad Ke Darbaron Mein.
-Be Rida Behnein Mere Sath Hain Bazaron Mein.
+۲
+قافلہ پل کو بھی رک جائے، سکون رہتا ہے
+لمحے کو بیٹھا ہے بیمار، اٹھائے نہ کوئی
+یہ دعا کرتے تھے سجاد کہ درباروں میں
+بے ردا بہنیں میرے ساتھ ہیں بازاروں میں
 
-3
-Janane Wala Mere Samne Aaye Na Koi.
-Kehta Tha Shimar Ke Beemar Ko Majboor Rakho.
-Hai Mera Hukam Ke Pani Ko Bohat Door Rakho.
-Aik Qatra Bhi Inhein Aab Pilaye Na Koi.
+۳
+جاننے والا میرے سامنے آئے نہ کوئی
+کہتا تھا شمر کہ بیمار کو مجبور رکھو
+ہے میرا حکم کہ پانی کو بہت دور رکھو
+ایک قطرہ بھی انہیں آب پلائے نہ کوئی
 
-4
-Bolay Sajjad Mera Khon Baha De Sara.
-Shimar Tu Karday Mere Jism Ko Para Para.
-Haan Magar Hath Sakina Ko Lagaye Na Koi.
-Hath Joray Hoye Kehti Thi Sakina Sab Se.
+۴
+بولے سجاد، میرا خون بہا دے سارا
+شمر تو کر دے میرے جسم کو پارہ پارہ
+ہاں مگر ہاتھ سکینہ کو لگائے نہ کوئی
+ہاتھ جوڑے ہوئے کہتی تھی سکینہ سب سے
 
-5
-Zakhmi Sajjad Ko Lamhey Ke Liye Chain Miley.
-Soya Hai Bhai Mera Shoor Manaye Na Koi.
-Taiz Chalne Ka Jo Kehte Hain Sitam Hota Hai.
-Tauq Hilta Hai Tu Gardan Se Lahu Behta Hai.
+۵
+زخمی سجاد کو لمحے کے لیے چین ملے
+سویا ہے بھائی میرا، شور منائے نہ کوئی
+تیز چلنے کا جو کہتے ہیں، ستم ہوتا ہے
+طوق ہلتا ہے تو گردن سے لہو بہتا ہے
 
-6
-Beriyan Zakhm Banati Hain Chalaye Na Koi.
- Kazim-o- Mirza Jo Soya Na Tha Ik Pal Ke Liye.
-Oss Ko Sotay Hoye Dekha Tu Haram Kehne Lagay.
-Chand Saat Ko Yeh Soya Hai Jagaye Na Koi.
+۶
+بیڑیاں زخم بناتی ہیں، چلائے نہ کوئی
+کاظم و مرزا جو سویا نہ تھا اک پل کے لیے
+اس کو سوتے ہوئے دیکھا تو حرم کہنے لگے
+چند ساعت کو یہ سویا ہے، جگائے نہ کوئی

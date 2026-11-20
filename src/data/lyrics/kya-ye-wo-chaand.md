@@ -49,7 +49,7 @@ romanLyrics: |-
 
   5
   Nanhe gale pe tir laga jis hilaal meiṅ
-  Ek shirkhwaar nehr hua jis hilaal meiṅ
+  Ek shir khwaar nehr hua jis hilaal meiṅ
   Chehre pe Shah ne khun mala jis hilaal meiṅ
   Asghar ko roke dafn kiya jis hilaal meiṅ
   Keh jis meiṅ bezabaaṅ ki lahad aansuoṅ se tar
@@ -73,7 +73,7 @@ romanLyrics: |-
   Hota hai jab Ali ye bahattar ka gham bayaaṅ
   Hilti hai ye zamiṅ larazta hai aasmaaṅ
   Dete haiṅ ghaib se ye sada Saahib-az-Zamaaṅ
-  Rota huṅ jis meiṅ pit ke sar maiṅ har ek pehr
+  Rota huṅ jis meiṅ pit ke sar main har ek pehr
   Haaṅ ye wo chaand hai haaṅ ye wo chaand hai
 ---
 ہلال ماہ غم ہلال ماہ عزا

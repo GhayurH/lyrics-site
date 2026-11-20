@@ -1,26 +1,42 @@
 ---
-title: "Kithay Sughra Nu V Nana Sukh Da Saa Aaway Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کتھے صغریٰ نوں وی نانا سکھ دا ساہ آوے"
+alternateTitle: "Kithay Sughra Nu V Nana Sukh Da Saa Aaway"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kithay Sughra nu v Nana sukh da saa aaway
+  Jithay gaya aye mera veer v mainu le jaway
+
+  1
+  Naal hawaan de mera aisa rishta banaya Akbar ne
+  Main onay sah v nayi laindi oh jinna yaad aaway
+  Mere lafzaan nu meri akhiyaan de athro kehnday ne
+  Koi bhain aynj te bhira nu chithiyaan na paway
+
+  2
+  Kash phophiyaan di tarha odhi shadi che shamil hondi main
+  Aye aas pori nayi honri jay na babal chaway
+  Jithay mehmal taun lathi othay Sughra Samar aye kehndi rayi
+  Har koi lash te aaway Akbar na aaway
 ---
 
-Kithay Sughra Nu V Nana Sukh Da Saa Aaway.
-Jithay Gaya Aye Mera Veer V Mainu Le Jaway.
+کتھے صغریٰ نوں وی نانا سکھ دا ساہ آوے
+جتھے گیا اے میرا ویر وی مینوں لے جاوے
 
-1
-Naal Hawaan De Mera Aisa Rishta Banaya Akbar Ne.
-Main Onay Sah V Nayi Laindi Oh Jinna Yaad Aaway.
-Mere Lafzaan Nu Meri Akhiyaan De Athro Kehnday Ne.
-Koi Bhain Aynj Te Bhira Nu Chithiyaan Na Paway.
+۱
+نال ہواں دے میرا ایسا رشتہ بنایا اکبر نے
+میں اونّے ساہ وی نئیں لیندی اوہ جنا یاد آوے
+میرے لفظاں نوں میری اکھیاں دے اتھرو کہندے نے
+کوئی بھین اینج تے بھرا نوں چٹھیاں نہ پاوے
 
-2
-Kash Phophiyaan Di Tarha Odhi Shadi Che Shamil Hondi Main.
-Aye Aas Pori Nayi Honri Jay Na Babal Chaway.
-Jithay Mehmal Taun Lathi Othay Sughra Samar Aye Kehndi Rayi.
-Har Koi Lash Te Aaway Akbar Na Aaway.
+۲
+کاش پھپھیاں دی طرح اوہدی شادی چے شامل ہوندی میں
+ایہہ آس پوری نئیں ہونڑی جے نہ بابل چاہوے
+جتھے محمل توں لتھی اوتھے صغریٰ ثمر ایہہ کہندی رہی
+ہر کوئی لاش تے آوے اکبر نہ آوے

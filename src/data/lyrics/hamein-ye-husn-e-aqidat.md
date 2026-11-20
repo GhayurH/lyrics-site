@@ -16,12 +16,12 @@ romanLyrics: |-
   Agar Husain nahiṅ hai Husain ka gham hai
 
   1
-  Utha hi tha sar-e-baatil ke di sada haq ne
-  Abhi jahaaṅ meiṅ salaamat Husain ka dam hai
+  Utha hi tha sar-e-baatil ke di sadaa haq ne
+  Abhi jahaaṅ mein salaamat Husain ka dam hai
 
   2
   Unheiṅ uthaao jo parde pare haiṅ aaṅkhoṅ par
-  Ye keh rahe ho charaaghoṅ meiṅ roshni kam hai
+  Ye keh rahe ho charaaghoṅ mein roshni kam hai
 
   3
   Tamaam umr tarapne ke baad samjha huṅ
@@ -29,15 +29,15 @@ romanLyrics: |-
 
   4
   Jinheiṅ masaaib-e-Aal-e-Rasul yaad nahiṅ
-  Rasul ko bhi wo bhuleṅge jab ye aalam hai
+  Rasul ko bhi wo bhuleṅ ge jab ye aalam hai
 
   5
   Kisi ki laash ko Shabbir laaye haiṅ shaayad
-  Ke khaima gaah meiṅ aawaaz-e-al atash kam hai
+  Ke khaima gaah mein aawaaz-e-al-atash kam hai
 
   6
   Uraao khaak ke Shabbir ho gaye haiṅ shahid
-  Uruj jin o malak meiṅ shor-e-maatam hai
+  Uruj jinn o malak mein shor-e-maatam hai
 ---
 ہمیں یہ حسنِ عقیدت بہت ہے کیا کم ہے
 اگر حُسین نہیں ہے حُسین کا غم ہے

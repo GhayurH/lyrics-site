@@ -1,6 +1,6 @@
 ---
 title: "آئے ہیں دنیا میں ہم تو الفتِ حیدر سمیت"
-alternateTitle: "Aaye Hain Dunya Mein Hum Tu Ulfat-e-Haider Samait"
+alternateTitle: "Aaye Haiṅ Dunya Mein Hum To Ulfat-e-Haider Samait"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,28 +9,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaye hain dunya mein hum tu ulfat e Haider samait
-  Jaein gay dunya se hum lekin gham-e-Sarwar samait
-  Khair guzri, chor di Qanbar ne ontoon ki mohar
-  Aount de detey Ali sail ko sab Qanbar samait
+  Aaye haiṅ dunya mein hum to ulfat-e-Haider samait
+  Jaaeṅ ge dunya se hum lekin gham-e-Sarwar samait
+  Khair guzri, chhor di Qanbar ne ontoṅ ki mahaar
+  Ont de dete Ali saail ko sab Qanbar samait
   Koi bhi hota shab-e-hijrat jo Haider ki jagah
-  Maut ke dar se nikal jata kahin bistar samait
+  Maut ke dar se nikal jaata kahiṅ bistar samait
   Jab wilayat se Ali ki koi hoga munharif
-  Tab azab aaye ga oss par arsh se pathar samait
-  Kehte they Abbas, mil jaye agar izn-e-jehad
-  Alqama hi mein dabo doon Shimar ko lashkar samait
-  Yeh aqeeda hai, yaqeen hai, yeh mera eman hai
-  Fatima aati hain har majlis mein Peygamber samait
-  Youn mujhe le jaein gay Babu Alhawaij khuld mein
-  Jis tarha jata hai malik apne ghar nokar samait
-  Sheh ne jab khainchi jawaan betay ke seene se sina
-  Aa gayi khinch kar sina qalb-e-Ali Akbar samait
-  Sar ko gehwarey se takra kar yeh kehti thin Rubab
-  Kash main bhi qatal ho jati Ali Asghar samait
-  Kehti thin Zainab, na jati be rida darbar mein
-  Kash mera sar bhi le jata laeen chadar samait
-  Mera dawa hai ba faiz e Panjtan firdos mein
-  e-Aal-e-Nabi jaein gay sab, Mehshar samait
+  Tab azaab aaye ga us par arsh se patthar samait
+  Kehte the Abbas, mil jaaye agar izn-e-jihaad
+  Alqama hi mein dubo duṅ Shimar ko lashkar samait
+  Yeh aqida hai, yaqin hai, yeh mera imaan hai
+  Fatima aati haiṅ har majlis mein Paighambar samait
+  Yuṅ mujhe le jaaeṅ ge Babul Hawaij khuld mein
+  Jis tarah jaata hai maalik apne ghar naukar samait
+  Sheh ne jab khainchi jawaaṅ bete ke sine se sinaaṅ
+  Aa gai khinch kar sinaaṅ qalb-e-Ali Akbar samait
+  Sar ko gahwaare se takraa kar yeh kehti thiṅ Rubab
+  Kaash main bhi qatl ho jaati Ali Asghar samait
+  Kehti thiṅ Zainab, na jaati be rida darbaar mein
+  Kaash mera sar bhi le jaata la'in chaadar samait
+  Mera daawa hai ba faiz-e-Panjtan firdaus mein
+  ...-e-Aal-e-Nabi jaaeṅ ge sab, Mahshar samait
 ---
 
 ۱

@@ -36,7 +36,7 @@ romanLyrics: |-
   Waalid-e-Haider-e-Karraar ki baateṅ na karo
 
   6
-  Karbala hai yahaaṅ Hur ghaiz meiṅ aa jaayeṅ ge
+  Karbala hai yahaaṅ Hurr ghaiz meiṅ aa jaayeṅ ge
   Yahaaṅ baiat ke talabgaar ki baateṅ na karo
 
   7
@@ -48,7 +48,7 @@ romanLyrics: |-
   Is pe tum baith ke bekaar ki baateṅ na karo
 
   9
-  Mir Sajjad, Nusairi na muqassar keh de
+  Mir Sajjad, Nusairi na muqassir keh de
   Shab-e-Meraaj ke us paar ki baateṅ na karo
 ---
 

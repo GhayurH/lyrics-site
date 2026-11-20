@@ -1,45 +1,80 @@
 ---
-title: "Arman Milay Khak Main Sary Ali Akbar Haider Rizvi"
+title: "ارمان ملے خاک میں سارے علی اکبر حیدر رضوی"
+alternateTitle: "Arman Milay Khak Main Sary Ali Akbar Haider Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Arman milay khak main sary Ali Akbar Haider Rizvi
+
+  1
+  Arman bohat tha keh tujhe dulha banati
+  Iss chand se chehray pe tere sehra sajati
+  Inn hathoon pe main khoon ki jagah mehndi lagati
+  Our shan se dulhan main teri biyah ke lati
+  Arman miley khak mein sare Ali Akbar
+  Maa zindah rahe kis ke saharey Ali Akbar
+
+  2
+  Jin aankhon mein they khuwab teri shadi ke beta
+  Taqdeer ne bakhsha hai inhein ashkon ka tohfa
+  Khushiyaan nahi qismat mein hamarey Ali Akbar
+  Batlao tu ab dulha banaon gi main kis ko
+  Aye lal marey mehndi lagaon gi main kis ko
+  Kyun roth gaye maa ke dularay Ali Akbar
+
+  3
+  Aye noor-e-nazar, lakht-e-jigar, qalb ki rahat
+  Tum they tu yeh dunya bhi mujhe lagti thi janat
+  Be rang hain ab sare nazarey Ali Akbar
+  Halat jo marey dil ki hai iss aan na pocho
+  Kya haal hai madar ka meri jan na pocho
+  Phatta hai jigar dard ke marey Ali Akbar
+
+  4
+  Hai dil pe abhi zakhm Alamdar ka taza
+  Seh paein gay woh teri judai ka na sadma
+  Shabeer hain marqad ke kinaray Ali Akbar
+  Dekho tu woh Haider ka bhi dil kaat rahi hai
+  Aakash ka bhi khon-e-jigar chaat rahi hai
+  Jo barchi hai seene mein tumhare Ali Akbar
 ---
 
-Arman Milay Khak Main Sary Ali Akbar Haider Rizvi.
+ارمان ملے خاک میں سارے علی اکبر حیدر رضوی
 
-1
-Arman Bohat Tha Keh Tujhe Dulha Banati.
-Iss Chand Se Chehray Pe Tere Sehra Sajati.
-Inn Hathoon Pe Main Khoon Ki Jagah Mehndi Lagati.
-Our Shan Se Dulhan Main Teri Biyah Ke Lati.
-Arman Miley Khak Mein Sare Ali Akbar.
-Maa Zindah Rahe Kis Ke Saharey Ali Akbar.
+۱
+ارمان بہت تھا کہ تجھے دولہا بناتی
+اس چاند سے چہرے پہ تیرے سہرا سجاتی
+ان ہاتھوں پہ میں خون کی جگہ مہندی لگاتی
+اور شان سے دلہن میں تیری بیاہ کے لاتی
+ارمان ملے خاک میں سارے علی اکبر
+ماں زندہ رہے کس کے سہارے علی اکبر
 
-2
-Jin Aankhon Mein They Khuwab Teri Shadi Ke Beta.
-Taqdeer Ne Bakhsha Hai Inhein Ashkon Ka Tohfa.
-Khushiyaan Nahi Qismat Mein Hamarey Ali Akbar.
-Batlao Tu Ab Dulha Banaon Gi Main Kis Ko.
-Aye Lal Marey Mehndi Lagaon Gi Main Kis Ko.
-Kyun Roth Gaye Maa Ke Dularay Ali Akbar.
+۲
+جن آنکھوں میں تھے خواب تیری شادی کے بیٹا
+تقدیر نے بخشا ہے انہیں اشکوں کا تحفہ
+خوشیاں نہیں قسمت میں ہمارے علی اکبر
+بتلاؤ تو اب دولہا بناؤں گی میں کس کو
+اے لال میرے مہندی لگاؤں گی میں کس کو
+کیوں روٹھ گئے ماں کے دلارے علی اکبر
 
-3
-Aye Noor-e-Nazar, Lakht-e-Jigar, Qalb Ki Rahat.
-Tum They Tu Yeh Dunya Bhi Mujhe Lagti Thi Janat.
-Be Rang Hain Ab Sare Nazarey Ali Akbar.
-Halat Jo Marey Dil Ki Hai Iss Aan Na Pocho.
-Kya Haal Hai Madar Ka Meri Jan Na Pocho.
-Phatta Hai Jigar Dard Ke Marey Ali Akbar.
+۳
+اے نورِ نظر، لختِ جگر، قلب کی راحت
+تم تھے تو یہ دنیا بھی مجھے لگتی تھی جنت
+بے رنگ ہیں اب سارے نظارے علی اکبر
+حالت جو میرے دل کی ہے اس آن نہ پوچھو
+کیا حال ہے مادر کا میری جان نہ پوچھو
+پھٹتا ہے جگر درد کے مارے علی اکبر
 
-4
-Hai Dil Pe Abhi Zakhm Alamdar Ka Taza.
-Seh Paein Gay Woh Teri Judai Ka Na Sadma.
-Shabeer Hain Marqad Ke Kinaray Ali Akbar.
-Dekho Tu Woh Haider Ka Bhi Dil Kaat Rahi Hai.
- Aakash Ka Bhi Khon-e-Jigar Chaat Rahi Hai.
-Jo Barchi Hai Seene Mein Tumhare Ali Akbar.
+۴
+ہے دل پہ ابھی زخم علمدار کا تازہ
+سہ پائیں گے وہ تیری جدائی کا نہ صدمہ
+شبیر ہیں مرقد کے کنارے علی اکبر
+دیکھو تو وہ حیدر کا بھی دل کاٹ رہی ہے
+آکاش کا بھی خونِ جگر چاٹ رہی ہے
+جو برچھی ہے سینے میں تمہارے علی اکبر

@@ -1,48 +1,86 @@
 ---
-title: "Ali Un Wali Ullah Mir Sajjad Mir 2026"
+title: "علیٌ ولی اللہ میر سجاد میر 2026"
+alternateTitle: "Ali Un Wali Ullah Mir Sajjad Mir 2026"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Islam howa pora har kam howa pora
+  Jaisay hi Nabi ne farmaya Ali un wali Ullah
+  Hath Ali ka Khum mein utha ke Aaqa ne farmaya
+  Main jis jis ka maula hoon oss ka yeh Ali hai maula
+  Phir pyaray Nabi bolay har koi issay dekhey
+  Hai ab se yehi sab ka maula Ali un wali Ullah
+  Al youma akmalto la kum ki aayat jonhi utari
+  Kuch logon ki aayi nazar sorat bhi utari utari
+  Dil tham ke kehte they hum kyun aaye ghar se
+  Yeh jeene nahi de ga sadma Ali un wali Ullah
+  Qanbar se yeh pyaray Nabi ne hanstay hoye farmaya
+  Khuwaish thi jis ki dil ko woh hukam-e-Khuda hai aaya
+  Le lo sab ke palaan jaye na koi insaan
+  Behron ko bhi yeh sunna ho ga Ali un wali Ullah
+  Bacho! Ik munkir yeh bola qaul-e-Nabi kyun mano
+  Hain sari batein jhoti Haider ko wali kyun mano
+  Tha Haris oss ka naam jis ka howa yeh anjam
+  Pathar se ossay Rab ne mara Ali un wali Ullah
+  Apna maula koi nahi ho sakta siwaye Haider
+  Zahra ne mushkil se bachai hai yeh wilaye Haider
+  Bibi ko muhabbat hai Haider ki wilayat se
+  Hai unn ka pasandida jumla Ali un wali Ullah
+  Khaliq ka wali hai Ali Ali, Ahmad ka wasi hai Ali Ali
+  Damad-e-payamber Ali Ali, Zahra ka shohar Ali Ali
+  Hum sab ka maula Ali Ali, Hasnain ka baba Ali Ali
+  Ahmad ka baradar Ali Ali, hai saqi-e-Kausar Ali Ali
+  Esa ka maula Ali Ali, Mosa ka maula Ali Ali
+  Hum sab ka narah Ali Ali, Yousuf se pyara Ali Ali
+  Mosa ko bachaye Ali Ali, Younus ko khilaye Ali Ali
+  Taray ko bulaye Ali Ali, soraj paltaye Ali Ali
+  Bhatkon tu sahara Ali Ali, dobon tu kinara Ali Ali
+  Quraan ki tilawat Ali Ali, hai ain ibadat Ali Ali
+  Sajjad ki chahat Ali Ali, hai sab ki zarorat Ali Ali
+  Momin ki hai pehchan, kalmay ki yehi hai jan
+  Samjhota na tum iss par karna Ali un wali Ullah
 ---
 
-1
-Islam Howa Pora Har Kam Howa Pora.
-Jaisay Hi Nabi Ne Farmaya Ali Un Wali Ullah.
-Hath Ali Ka Khum Mein Utha Ke Aaqa Ne Farmaya.
-Main Jis Jis Ka Maula Hoon Oss Ka Yeh Ali Hai Maula.
-Phir Pyaray Nabi Bolay Har Koi Issay Dekhey.
-Hai Ab Se Yehi Sab Ka Maula Ali Un Wali Ullah.
-Al Youma Akmalto La Kum Ki Aayat Jonhi Utari.
-Kuch Logon Ki Aayi Nazar Sorat Bhi Utari Utari.
-Dil Tham Ke Kehte They Hum Kyun Aaye Ghar Se.
-Yeh Jeene Nahi De Ga Sadma Ali Un Wali Ullah.
-Qanbar Se Yeh Pyaray Nabi Ne Hanstay Hoye Farmaya.
-Khuwaish Thi Jis Ki Dil Ko Woh Hukam-e-Khuda Hai Aaya.
-Le Lo Sab Ke Palaan Jaye Na Koi Insaan.
-Behron Ko Bhi Yeh Sunna Ho Ga Ali Un Wali Ullah.
-Bacho! Ik Munkir Yeh Bola Qaul-e-Nabi Kyun Mano.
-Hain Sari Batein Jhoti Haider Ko Wali Kyun Mano.
-Tha Haris Oss Ka Naam Jis Ka Howa Yeh Anjam.
-Pathar Se Ossay Rab Ne Mara Ali Un Wali Ullah.
-Apna Maula Koi Nahi Ho Sakta Siwaye Haider.
-Zahra Ne Mushkil Se Bachai Hai Yeh Wilaye Haider.
-Bibi Ko Muhabbat Hai Haider Ki Wilayat Se.
-Hai Unn Ka Pasandida Jumla Ali Un Wali Ullah.
-Khaliq Ka Wali Hai Ali Ali, Ahmad Ka Wasi Hai Ali Ali.
-Damad-e-Payamber Ali Ali, Zahra Ka Shohar Ali Ali.
-Hum Sab Ka Maula Ali Ali, Hasnain Ka Baba Ali Ali.
-Ahmad Ka Baradar Ali Ali, Hai Saqi-e-Kausar Ali Ali.
-Esa Ka Maula Ali Ali, Mosa Ka Maula Ali Ali.
-Hum Sab Ka Narah Ali Ali, Yousuf Se Pyara Ali Ali.
-Mosa Ko Bachaye Ali Ali, Younus Ko Khilaye Ali Ali.
-Taray Ko Bulaye Ali Ali, Soraj Paltaye Ali Ali.
-Bhatkon Tu Sahara Ali Ali, Dobon Tu Kinara Ali Ali.
-Quraan Ki Tilawat Ali Ali, Hai Ain Ibadat Ali Ali.
- Sajjad Ki Chahat Ali Ali, Hai Sab Ki Zarorat Ali Ali.
-Momin Ki Hai Pehchan, Kalmay Ki Yehi Hai Jan.
-Samjhota Na Tum Iss Par Karna Ali Un Wali Ullah.
+۱
+اسلام ہوا پورا ہر کام ہوا پورا
+جیسے ہی نبی نے فرمایا علیٌ ولی اللہ
+ہاتھ علی کا خم میں اٹھا کے آقا نے فرمایا
+میں جس جس کا مولا ہوں اُس کا یہ علی ہے مولا
+پھر پیارے نبی بولے ہر کوئی اسے دیکھے
+ہے اب سے یہی سب کا مولا علیٌ ولی اللہ
+الیوم اکملت لکم کی آیت جونہی اتاری
+کچھ لوگوں کی آئی نظر صورت بھی اتری اتری
+دل تھام کے کہتے تھے ہم کیوں آئے گھر سے
+یہ جینے نہیں دے گا صدمہ علیٌ ولی اللہ
+قنبر سے یہ پیارے نبی نے ہنستے ہوئے فرمایا
+خواہش تھی جس کی دل کو وہ حکمِ خدا ہے آیا
+لے لو سب کے پالان جائے نہ کوئی انسان
+بہروں کو بھی یہ سننا ہوگا علیٌ ولی اللہ
+بچو! اک منکر یہ بولا قولِ نبی کیوں مانو
+ہیں ساری باتیں جھوٹی حیدر کو ولی کیوں مانو
+تھا حارث اُس کا نام جس کا ہوا یہ انجام
+پتھر سے اُسے رب نے مارا علیٌ ولی اللہ
+اپنا مولا کوئی نہیں ہو سکتا سوائے حیدر
+زہرا نے مشکل سے بچائی ہے یہ ولائے حیدر
+بی‌بی کو محبت ہے حیدر کی ولایت سے
+ہے اُن کا پسندیدہ جملہ علیٌ ولی اللہ
+خالق کا ولی ہے علی علی، احمد کا وصی ہے علی علی
+دامادِ پیمبر علی علی، زہرا کا شوہر علی علی
+ہم سب کا مولا علی علی، حسنین کا بابا علی علی
+احمد کا برادر علی علی، ہے ساقیِ کوثر علی علی
+عیسیٰ کا مولا علی علی، موسیٰ کا مولا علی علی
+ہم سب کا نعرہ علی علی، یوسف سے پیارا علی علی
+موسیٰ کو بچائے علی علی، یونس کو کھلائے علی علی
+تارے کو بلائے علی علی، سورج پلٹائے علی علی
+بھٹکوں تو سہارا علی علی، ڈوبوں تو کنارا علی علی
+قرآن کی تلاوت علی علی، ہے عین عبادت علی علی
+سجاد کی چاہت علی علی، ہے سب کی ضرورت علی علی
+مومن کی ہے پہچان، کلمے کی یہی ہے جان
+سمجھوتا نہ تم اس پر کرنا علیٌ ولی اللہ

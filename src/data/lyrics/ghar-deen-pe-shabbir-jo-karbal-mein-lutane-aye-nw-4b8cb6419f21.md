@@ -1,35 +1,74 @@
 ---
-title: "Ghar Deen Pe Shabbir Jo Karbal Mein Lutane Aye"
+title: "گھر دیں پہ شبیر جو کربل میں لٹانے آئے"
+alternateTitle: "Ghar Deen Pe Shabbir Jo Karbal Mein Lutane Aye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghar deen pe Shabbir jo Karbal mein lutane aye
+  Bint-e-Zahra teri ghurbat ke zamanay aye
+
+  2
+  Woh joh kehte te Muhammad se Quran hai kafi
+  Rung Karbal main Saqifa ka dekhanay aye
+
+  3
+  Boli Zainab kesay Muslim hain yeh dekho baba
+  Khoon-e-alaad-e-payambar ka bahanay aye
+
+  4
+  Pani peene ke liye aye na hargis Asghar
+  Mein bhi Karbal ka mujahid hoon bathanay aye
+
+  5
+  Shahibay kas ka utaya na kise ney lasha
+  Laash har ek ke Shah run mein utahnay aye
+
+  6
+  Hy Zainab ki rida cheen kay kehta tah Shimaar
+  Aab kaho Ghazi se parda woh bachanay aye
+
+  7
+  Kehti thi qaid mein Banno se Sakina har shab
+  Aaj bhi baba na seenay mai sulanay aye
+
+  8
+  Shor-e-nabhiyon mein utha aho fughan ka, Shahid
+  Shah-e-Deen lash-e-Akbar jo uthanay aye
 ---
 
-Ghar Deen Pe Shabbir Jo Karbal Mein Lutane Aye.
+۱
+گھر دیں پہ شبیر جو کربل میں لٹانے آئے
+بنتِ زہرا تیری غربت کے زمانے آئے
 
-Bint-e-Zahra Teri Ghurbat Ke  Zamanay Aye.
+۲
+وہ جو کہتے تھے محمد سے قرآن ہے کافی
+رنگ کربل میں سقیفہ کا دکھانے آئے
 
-Woh Joh Kehte Te Muhammad Se Quran Hai Kafi
-Rung Karbal Main Saqifa Ka  Dekhanay Aye.
+۳
+بولی زینب کیسے مسلم ہیں یہ دیکھو بابا
+خونِ اولادِ پیمبر کا بہانے آئے
 
-Boli Zainab Kesay Muslim Hain Yeh Dekho Baba
-Khoon-e-alaad-e-payambar Ka  Bahanay Aye.
+۴
+پانی پینے کے لیے آئے نہ ہرگز اصغر
+میں بھی کربل کا مجاہد ہوں بتانے آئے
 
-Pani Peene Ke Liye Aye Na Hargis Asghar
-Mein Bhi Karbal Ka Mujahid Hoon  Bathanay Aye.
+۵
+شاہِ بے کس کا اٹھایا نہ کسی نے لاشہ
+لاش ہر ایک کی شاہ رن میں اٹھانے آئے
 
-Shahibay Kas Ka Utaya Na Kise Ney Lasha
-Laash Har Ek Ke Shah Run Mein  Utahnay Aye.
+۶
+ہائے زینب کی ردا چھین کے کہتا تھا شمر
+اب کہو غازی سے پردہ وہ بچانے آئے
 
-Hy Zainab Ki Rida Cheen Kay Kehta Tah Shimaar
-Aab Kaho Ghazi Se Parda Woh  Bachanay Aye.
+۷
+کہتی تھی قید میں بانو سے سکینہ ہر شب
+آج بھی بابا نہ سینے میں سلانے آئے
 
-Kehti Thi Qaid Mein Banno Se Sakina Har Shab
-Aaj Bhi Baba Na Seenay Mai  Sulanay Aye.
-
-Shor-e-Nabhiyon Mein Utha Aho Fughan Ka Shahid
-Shah-e-Deen Lash-e-akbar Jo  Uthanay Aye.
+۸
+شورِ نبیوں میں اٹھا آہ و فغاں کا، شاہد
+شاہِ دیں لاشِ اکبر جو اٹھانے آئے

@@ -16,26 +16,26 @@ romanLyrics: |-
   Ae wallah wallah ae wallah
 
   1
-  Ek din meiṅ mera ghar ujar gaya
+  Ak din meiṅ mera ghar ujar gaya
   Ae wallah wallah ae wallah
 
   2
-  Ek musaafir hai tin din ka pyaasa
+  Ak musaafir hai tin din ka pyaasa
   Sabr ka Khuda hai din ka asaasa
   Fauj sab qatl hui haaye Husaina
   Karbala rone lagi haaye Husaina
   Chur hai thakan se god ka paala
 
   3
-  Jaa bajaa pare haiṅ aqraba ke laashe
+  Jaa bajaa pare haiṅ aqrabaa ke laashe
   Hai badan kisi ka haath hai kisi ke
   Bekafan laasheṅ sabhi haaye Husaina
   Ye zamin tapti hui haaye Husaina
   Phir bhi bachpane ka waada nibhaaya
 
   4
-  Kaise de diye ye imtehaan beta
-  Ek jawaan bhai ek jawaan beta
+  Kaise de diye ye imtihaan beta
+  Ak jawaan bhai ak jawaan beta
   Sab tujhe chhor gaye haaye Husaina
   Dil tera tor gaye haaye Husaina
   Hausla barhaane aa gaye Baba
@@ -55,7 +55,7 @@ romanLyrics: |-
   Teri musibat par roye gi dunya
 
   7
-  Ek naya sitam hai ye dil-e-haziṅ par
+  Ak naya sitam hai ye dil-e-haziṅ par
   Ab hai tera laasha zin na zamiṅ par
   Wo tera khushk dahan haaye Husaina
   Kund khanjar ki chubhan haaye Husaina

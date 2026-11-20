@@ -1,7 +1,7 @@
 ---
 title: "مقتل میں ڈھونڈتی ہے اصغر کو سکینہ"
 recitationId: "maqtal-mein-dhoondti"
-alternateTitle: "Maqtal Meiṅ Dhundti"
+alternateTitle: "Maqtal Mein Dhundti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,17 +12,17 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal meiṅ dhundti hai Asghar ko Sakina
+  Maqtal mein dhundti hai Asghar ko Sakina
   Jhulaa bhi milaa khaali Asghar thaa kahiṅ na
 
   1
-  Kaise piyuṅ maiṅ paani ke paani meiṅ bhi tum ho
-  Tumheṅ dhunduṅ kaise Asghar kahaaṅ ret meiṅ gum ho
+  Kaise piyuṅ main paani ke paani mein bhi tum ho
+  Tumheṅ dhunduṅ kaise Asghar kahaaṅ ret mein gum ho
   Tum se bichhar ke bhaiyaa nahiṅ behan ko jinaa
 
   2
   Chhoti si qabr dekhi Maasuma ne jis dam
-  Baanhoṅ meiṅ use le kar karne lagi maatam
+  Baanhoṅ mein use le kar karne lagi maatam
   Khaali qabr pari thi aur gum thaa nagina
 
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
   Hai misl-e-kashti-e-Nuh Panjatan kaa safina
 
   5
-  Jis tarah zaalimoṅ ne naize meiṅ piroyaa
+  Jis tarah zaalimoṅ ne naize mein piroyaa
   Ye dekh royi dharti ambar bhi thaa royaa
   Khurshid ko phir bhulaa manzar wo kabhi na
 ---

@@ -9,68 +9,68 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hae rukhshat hue dunya se jo Abid Mola
+  Hae rukhsat hue duniya se jo Abid Mola
   Ghusl dene ke liye baap ko beta aaya
-  Jism jab baap ka dekha to kaha wa waila
-  Baap ke samne Baqir ne kaha heee baba
-  Ghusl may aap ko kis tarha bhala duṅ baba
-  Jism zakhmo ke nishano se bhara hai sara
+  Jism jab baap ka dekha to kaha waa wailaa
+  Baap ke saamne Baqir ne kaha hae baba
+  Ghusl meiṅ aap ko kis tarah bhala duṅ baba
+  Jism zakhmoṅ ke nishaanoṅ se bhara hai saara
 
   2
-  Yaad aata hai mujhe shaam barabar baba
-  Hae bazar may maun ka khula sar baba
-  Nok par naize ki nanha Ali Asghar baba
-  Khuṅ rulate the tumhaiṅ Shaam ke manzar baba
-  Zulm ki andhiyaṅ chalti thiṅ laiṅ hanste the
-  Hae sab bibyaṅ roti thiṅ laiṅ hanste the
+  Yaad aata hai mujhe Shaam baraabar baba
+  Hae baazaar meiṅ maaun ka khula sar baba
+  Nok par neze ki nanha Ali Asghar baba
+  Khuṅ rulate the tumheṅ Shaam ke manzar baba
+  Zulm ki aandhiyaaṅ chalti thiṅ laiṅ hanste the
+  Hae sab bibiyaaṅ roti thiṅ laiṅ hanste the
 
   3
-  Jism par aap ke nazraiṅ may tikauṅ kaise
-  Ghusl ka haq jo mila hai wo nibhauṅ kaise
-  Apne hathoṅ ko teri pusht pe lauṅ kaise
-  Apni ankhoṅ se wo manzar may bhulauṅ kaise
-  Shaam ki raah may jab moar koi aata tha
+  Jism par aap ke nazreṅ main tikaauṅ kaise
+  Ghusl ka haq jo mila hai woh nibhaauṅ kaise
+  Apne haathoṅ ko teri pusht pe laauṅ kaise
+  Apni aankhoṅ se woh manzar main bhulaauṅ kaise
+  Shaam ki raah meiṅ jab mor koi aata tha
   Pusht par durre laiṅ aap ki barsata tha
 
   4
   Ghusl dete hue gardan ki jo baari aayi
-  Hae ye dekh ke nam aankh hui Baqar ki
-  Towq aur gardan-e-bimar ki yaad aane lagi
-  Ro ke Baqar ne kaha hae gharibi teri
-  Hae gardan ke nishanat ye batlate haiṅ
-  Are towq pehne hue tum ne jo safar kate haiṅ
+  Hae ye dekh ke nam aankh hui Baqir ki
+  Tauq aur gardan-e-bimaar ki yaad aane lagi
+  Ro ke Baqir ne kaha hae gharibi teri
+  Hae gardan ke nishaanaat ye batlaate haiṅ
+  Are tauq pehne hue tum ne jo safar kaate haiṅ
 
   5
-  Paaoṅ dhone ke liye hath barrhaya may ne
+  Paaoṅ dhone ke liye haath barhaaya main ne
   Yaad aaya hai mujhe Shaam ka manzar phir se
-  Hae tum kaise chale raah may un kantoṅ pe
+  Hae tum kaise chale raah meiṅ un kaantoṅ pe
   Dekh kar aap ko sab log yehi kehte the
-  Bairiaṅ pehn ke kantoṅ pe chala jata hai
-  Kitna sabir hai ke har zulm saha jata hai
+  Beriyaaṅ pehan ke kaantoṅ pe chala jaata hai
+  Kitna saabir hai ke har zulm saha jaata hai
 
   6
-  Qatl sab Karbala me mere ajdad hue
-  Sham ke baad na phir aap kabhi shaad hue
-  Sham may aisy haiṅ ujre ke na aabad hue
-  Hath rassi ke nishanoṅ se na aazad hue
+  Qatl sab Karbala meiṅ mere ajdaad hue
+  Shaam ke baad na phir aap kabhi shaad hue
+  Shaam meiṅ aise haiṅ ujre ke na aabad hue
+  Haath rassi ke nishaanoṅ se na aazad hue
   Waqt aisa na kisi ko bhi dikhaye Mola
-  Baap naize pe ho aur maa ho khule sar baba
+  Baap neze pe ho aur maa ho khule sar baba
 
   7
-  Aap ki ankhoṅ ne mauṅ ko khule sar dekha
-  Aap ki ankhoṅ ne phupyoṅ ko khule sar dekha
-  Aap ki ankhoṅ ne behno ko khule sar dekha
-  Aap ki ankhoṅ ne chachyoṅ ko khule sar dekha
-  Hae bazar may ye zulm o sitam hote rahe
-  Aap chalis baras hae lahu rote rahe
+  Aap ki aankhoṅ ne maaoṅ ko khule sar dekha
+  Aap ki aankhoṅ ne phuphiyoṅ ko khule sar dekha
+  Aap ki aankhoṅ ne behnoṅ ko khule sar dekha
+  Aap ki aankhoṅ ne chachiyoṅ ko khule sar dekha
+  Hae baazaar meiṅ ye zulm o sitam hote rahe
+  Aap chaalis baras hae lahu rote rahe
 
   8
-  Ghusl jab de chuke Sajjad ko Mola Baqar
-  Dafan phir baap ko kar aaye Baqaea Baqar
-  Hae Zishan magar koi ye dekhe ja kar
+  Ghusl jab de chuke Sajjad ko Mola Baqir
+  Dafn phir baap ko kar aaye Baqia Baqir
+  Hae Zishaan magar koi ye dekhe ja kar
   Hae mazlum ki ghurbat ka ajab hai manzar
   Khud bhi mazlum tha turbat bhi hai mazlum us ki
-  Turbat-e-Fatima Zehra ki tarha tuti hui
+  Turbat-e-Fatima Zehra ki tarah tuti hui
 ---
 
 ۱

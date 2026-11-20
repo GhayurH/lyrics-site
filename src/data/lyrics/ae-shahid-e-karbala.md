@@ -56,7 +56,7 @@ romanLyrics: |-
   Ae zabih-e-Nainawa tujh par salaam
 
   9
-  Khuld ki Kausar ko kuch khwaahish nahiṅ
+  Khuld ki Kausar ko kuchh khwaahish nahiṅ
   Karbala mujh ko dikha tujh par salaam
   Ae zabih-e-Nainawa tujh par salaam
 ---

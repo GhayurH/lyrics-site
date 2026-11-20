@@ -11,49 +11,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye sajjad muhari haye bemaar muhari
-  Machao shor na logon sakina jaag jayegi
-  Meri zanjir na khayncho sakina jaag jayegi
+  Haaye Sajjad muhari haaye bemaar muhari
+  Machaa'o shor na logo Sakina jaag jaayegi
+  Meri zanjir na khincho Sakina jaag jaayegi
 
   1
-  Kabhi bachi ko takta hai kabhi aansu bahata hai
-  Dare zindan pe baitha musafir sab se kehta hai
-  Zara aaram se guzro sakina jaag jayegi
+  Kabhi bachi ko takta hai kabhi aansu bahaata hai
+  Dar-e-zindaan pe baitha musaafir sab se kehta hai
+  Zara aaraam se guzro Sakina jaag jaayegi
 
   2
   Kisi bhi zulm ke jo aah ki khaatir wo lab khulte
-  Tarap kar abid-e-bemaar ye kehta tha hontoṅ se
-  Agar ye aah nikli to sakina jaag jayegi
+  Tarap kar Aabid-e-bemaar ye kehta tha hontoṅ se
+  Agar ye aah nikli to Sakina jaag jaayegi
 
   3
-  Agar aulaad waale ho tumhe ye sab pata hoga
-  Adhuri neendh se uthjaye jo bachi to kya hoga
-  Khudara shimr ko roko sakina jaag jayegi
+  Agar aulaad waale ho tumheṅ ye sab pata hoga
+  Adhuri nind se uth jaaye jo bachi to kya hoga
+  Khudaara Shimr ko roko Sakina jaag jaayegi
 
   4
-  Abhi zindan may hojayega kohram phir barpa
-  Wo aahat sunke samjhegi ke shayad aa gaye baba
-  Dare zindan na kholo sakina jaag jayegi
+  Abhi zindaan mein ho jaayega kohraam phir barpa
+  Wo aahat sun ke samjhegi ke shaayad aa gaye baaba
+  Dar-e-zindaan na kholo Sakina jaag jaayegi
 
   5
-  Ye waada hai mera pani nahi mangooga mai tumse
-  Wo jab uthjaye to ji bhar ke beshak maarna durre
-  Abhi bekas ko na maaro sakina jaag jayegi
+  Ye waada hai mera paani nahiṅ maanguṅga main tum se
+  Wo jab uth jaaye to ji bhar ke beshak maarna durre
+  Abhi bekas ko na maaro Sakina jaag jaayegi
 
   6
-  Abhi azaad ho tum qaid ke matlab ko kya jaano
-  Parindo chor do zindan meri ilteja maano
-  Chale jao na yu chehko sakina jaag jayegi
+  Abhi aazaad ho tum qaid ke matlab ko kya jaano
+  Parindo chhor do zindaan meri ilteja maano
+  Chale jaa'o na yuṅ chehko Sakina jaag jaayegi
 
   7
-  Sare zindaṅ sakina ko qaza ki nind kya aayi
-  Kisi se kuch nahi kehta hai is mazlum ka bhai
-  Ke ab ye darr nahi usko sakina jaag jayegi
+  Sar-e-zindaaṅ Sakina ko qaza ki nind kya aayi
+  Kisi se kuchh nahiṅ kehta hai is mazlum ka bhaai
+  Ke ab ye dar nahiṅ us ko Sakina jaag jaayegi
 
   8
-  Saf-e-matam se abid ka ye akbar bayn aata hai
-  Ise bas baap ke purse may hi ab chain aata hai
-  Sada matam ki na roko sakina jaag jayegi
+  Saf-e-maatam se Aabid ka ye Akbar bain aata hai
+  Ise bas baap ke purse mein hi ab chain aata hai
+  Sada maatam ki na roko Sakina jaag jaayegi
 ---
 ہائے سجاد مُحاری ہائے بیمار مُحاری
 مچائوشور نہ لوگو سکینہ جاگ جائے گی

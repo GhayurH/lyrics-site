@@ -4,9 +4,77 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali Ali haq Ali
+  Ke dar pe chalo
+
+  1
+  Khuda ko dhundne waalo Ali
+
+  2
+  Madina chumne waalo Ali
+  Ka aashiq
+  Ali hai nur-e-khaaliq Ali Nabi
+  Ali hai din o imaaṅ Ali ka daaman thaamo
+  Haidar Haidar mera dil Haidari
+  Meri jaan Haidari
+  Meri ruh Haidari
+  Imaan Haidari
+  Mera ishq Haidari
+  Mera fard Haidari
+  Pehchaan Haidari
+  Haidar Haidar
+  Hai haq dekhna jalwa su-e-Ali dekho
+  Hai anbiya se jo milna su-e-Ali dekho
+  Ali ustaad-e-Aadam Ali safina-e-Nuh
+  Ali hai zohd-e-Isa
+  Ali ka daaman thaamo
+  Haidar Haidar
+  Mera dil Haidari meri jaan Haidari
+  Meri ruh Haidari imaan Haidari
+  Mera ishq Haidari
+  Mera fard Haidari pehchaan Haidari
+  Haidar Haidar
+  Maula diwaana tera
+  Arsh-e-Khuda maqaam-e-janaab-e-Amir hai
+  Kisi bhi takhta-e-baa mein janaab-e-Amir hai
+  Mastur-e-la illa mein janaab-e-Amir hai
+  Aayaat-e-haq kalaam-e-janaab-e-Amir hai
+  Maula diwaana tera
+  Haidar Haidar
+  Mera dil Haidari
+  Meri jaan Haidari meri ruh Haidari
+  Imaan Haidari
+  Mera ishq Haidari
+  Mera fard Haidari pehchaan Haidari
+  Haidar Haidar
+  Kun ka har manzar
+  Ali ke saamne hai roshan hai
+  Ali hai naaib-e-Ahmad
+  Hai shahr-e-ilm qadr
+  Ali rahbar o mansab Ali darya o saail Ali aaqil o kaamil
+  Ali ka daaman thaamo
+  Haidar Haidar
+  Mera dil Haidari
+  Meri jaan Haidari
+  Meri ruh Haidari
+  Imaan Haidari
+  Mera ishq Haidari
+  Mera fard Haidari
+  Pehchaan Haidari
+  Haidar Haidar
+  Haae woh masjid-e-Kufa Ali ka woh sajda
+  Woh farq-e-Haidar-e-Safdar
+  Woh khun-e-sher-e-Khuda
+  Maatam hua zamiṅ par girya tha aasmaaṅ par
+  Roya Hasan yeh aalam nauha tha har zabaan par
+  Haidar Haidar
+  Mera makhmum Ali
+  Mera mahrum Ali
+  Hua qatl bekhata mera mazlum Ali
 ---
 
 علی علی حق علی

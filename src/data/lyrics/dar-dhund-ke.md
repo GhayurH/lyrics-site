@@ -51,12 +51,12 @@ romanLyrics: |-
   6
   Maiṅ Aal-e-Muhammad ke gharaane ka nagina
   Is waaste Baaba mujhe kehte the Sakina
-  Zaalim ke tamaachoṅ ne sukuṅ chhina hai mera
+  Zaalim ke tamaanchoṅ ne sukuṅ chhina hai mera
   Kab aaoge Baaba ye bataane chale aao
 
   7
   Wo zulm kiye Shimr ne chehre se ayaaṅ haiṅ
-  Rukhsaar pe zaalim ke tamaachoṅ ke nishaaṅ haiṅ
+  Rukhsaar pe zaalim ke tamaanchoṅ ke nishaaṅ haiṅ
   Baaba mere rone pe yahaaṅ pehre lage haiṅ
   In pehroṅ ko ae Baaba hataane chale aao
 ---

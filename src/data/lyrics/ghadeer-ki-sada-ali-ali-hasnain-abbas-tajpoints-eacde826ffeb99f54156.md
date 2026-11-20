@@ -1,56 +1,102 @@
 ---
-title: "Ghadeer Ki Sada Ali Ali Hasnain Abbas"
+title: "غدیر کی صدا علی علی حسنین عباس"
+alternateTitle: "Ghadeer Ki Sada Ali Ali Hasnain Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ghadeer ki sada Ali Ali Hasnain Abbas
+  Suno suno Ghadeer ki sada Ali Ali
+
+  1
+  Khuda ko paney ka hai rasta Ali Ali
+  Woh janta hai jo Ghadeeri our haq shanas hai
+  Wilayat-e-Ali wali hi deen ki asas hai
+  Khuda se our Nabi se hai wafa Ali Ali
+
+  2
+  Ghadeer yani Mustafa ke deen ki naveed hai
+  Ghadeer yani jo wilayati hai oss ki eid hai
+  Ghadeer yani haq ka faisla Ali Ali
+  Rakho na dekho apne dil mein dushmani Ghadeer se
+
+  3
+  Khuda se dushmani hai gar ho dushmani ameer se
+  Hai marzi-e-Khuda ka tarjuma Ali Ali
+  Tarazu-e-wila mein sab aqeeday they jo tul gaye
+  Kahin pe chehray khil gaye kahin pe shajrey khul gaye
+
+  4
+  Nabi ne jab Ghadeer mein kaha Ali Ali
+  Aray oh munkir-e-Ali kitab khol parh zara
+  Ali se bugz mein jo kar raha hai tu Khuda Khuda
+  Hai karta aayaton mein khud Khuda Ali Ali
+
+  5
+  Pukarna Ali ko mushkilon mein kab fazool hai
+  Amal karo na iss pe yeh bhi sunat-e-Rasool hai
+  Kaha hai khud Rasool ne bhi ya Ali Ali
+  Hum aisay waisay daman-e-najis ko kaisay tham lein
+
+  6
+  Sikhaya hi nahi jo hum ko maa ne kaisay naam lein
+  Keh hum ne loriyon mein bas suna Ali Ali
+  Bhalai hai issi mein bhai baat maan jaiye
+  Kissi bhi airey ghairey ko imam mat banaiye
+
+  7
+  Nabi ne keh diya tu keh diya Ali Ali
+  Ali wali ke hath mein jo Fatima ka hath hai
+  Asad kahan yeh noriyoon ke aqad-e-hi ki baat hai
+  Azal se hai gharoor-e-Fatima Ali Ali
 ---
 
-Ghadeer Ki Sada Ali Ali Hasnain Abbas.
-Suno Suno Ghadeer Ki Sada Ali Ali.
+غدیر کی صدا علی علی حسنین عباس
+سنو سنو غدیر کی صدا علی علی
 
-1
-Khuda Ko Paney Ka Hai Rasta Ali Ali.
-Woh Janta Hai Jo Ghadeeri Our Haq Shanas Hai.
-Wilayat-e-Ali Wali Hi Deen Ki Asas Hai.
-Khuda Se Our Nabi Se Hai Wafa Ali Ali.
+۱
+خدا کو پانے کا ہے راستہ علی علی
+وہ جانتا ہے جو غدیری اور حق شناس ہے
+ولایتِ علی والی ہی دین کی اساس ہے
+خدا سے اور نبی سے ہے وفا علی علی
 
-2
-Ghadeer Yani Mustafa Ke Deen Ki Naveed Hai.
-Ghadeer Yani Jo Wilayati Hai Oss Ki Eid Hai.
-Ghadeer Yani Haq Ka Faisla Ali Ali.
-Rakho Na Dekho Apne Dil Mein Dushmani Ghadeer Se.
+۲
+غدیر یعنی مصطفیٰ کے دین کی نوید ہے
+غدیر یعنی جو ولایتی ہے اُس کی عید ہے
+غدیر یعنی حق کا فیصلہ علی علی
+رکھو نہ دیکھو اپنے دل میں دشمنی غدیر سے
 
-3
-Khuda Se Dushmani Hai Gar Ho Dushmani Ameer Se.
-Hai Marzi-e-Khuda Ka Tarjuma Ali Ali.
-Tarazu-e-Wila Mein Sab Aqeeday They Jo Tul Gaye.
-Kahin Pe Chehray Khil Gaye Kahin Pe Shajrey Khul Gaye.
+۳
+خدا سے دشمنی ہے گر ہو دشمنی امیر سے
+ہے مرضیِ خدا کا ترجمہ علی علی
+ترازوئے ولا میں سب عقیدے تھے جو تل گئے
+کہیں پہ چہرے کھل گئے کہیں پہ شجرے کھل گئے
 
-4
-Nabi Ne Jab Ghadeer Mein Kaha Ali Ali.
-Aray Oh Munkir-e-Ali Kitab Khol Parh Zara.
-Ali Se Bugz Mein Jo Kar Raha Hai Tu Khuda Khuda.
-Hai Karta Aayaton Mein Khud Khuda Ali Ali.
+۴
+نبی نے جب غدیر میں کہا علی علی
+ارے او منکرِ علی کتاب کھول پڑھ ذرا
+علی سے بغض میں جو کر رہا ہے تو خدا خدا
+ہے کرتا آیتوں میں خود خدا علی علی
 
-5
-Pukarna Ali Ko Mushkilon Mein Kab Fazool Hai.
-Amal Karo Na Iss Pe Yeh Bhi Sunat-e-Rasool Hai.
-Kaha Hai Khud Rasool Ne Bhi Ya Ali Ali.
-Hum Aisay Waisay Daman-e-Najis Ko Kaisay Tham Lein.
+۵
+پکارنا علی کو مشکلوں میں کب فضول ہے
+عمل کرو نہ اِس پہ یہ بھی سنتِ رسول ہے
+کہا ہے خود رسول نے بھی یا علی علی
+ہم ایسے ویسے دامنِ نجس کو کیسے تھام لیں
 
-6
-Sikhaya Hi Nahi Jo Hum Ko Maa Ne Kaisay Naam Lein.
-Keh Hum Ne Loriyon Mein Bas Suna Ali Ali.
-Bhalai Hai Issi Mein Bhai Baat Maan Jaiye.
-Kissi Bhi Airey Ghairey Ko Imam Mat Banaiye.
+۶
+سکھایا ہی نہیں جو ہم کو ماں نے کیسے نام لیں
+کہ ہم نے لوریوں میں بس سنا علی علی
+بھلائی ہے اِسی میں بھائی بات مان جائیے
+کسی بھی ایرے غیرے کو امام مت بنائیے
 
-7
-Nabi Ne Keh Diya Tu Keh Diya Ali Ali.
-Ali Wali Ke Hath Mein Jo Fatima Ka Hath Hai.
- Asad Kahan Yeh Noriyoon Ke Aqad-e-Hi Ki Baat Hai.
-Azal Se Hai Gharoor-e-Fatima Ali Ali.
+۷
+نبی نے کہہ دیا تو کہہ دیا علی علی
+علی ولی کے ہاتھ میں جو فاطمہ کا ہاتھ ہے
+اسد کہاں یہ نوریوں کے عقد ہی کی بات ہے
+ازل سے ہے غرورِ فاطمہ علی علی

@@ -24,10 +24,10 @@ romanLyrics: |-
   Zulfoṅ meiṅ ghubaar wa Husaina
 
   2
-  Ae khusraw-e-ko shahir sad haif
-  Ek tan tera laakhoṅ tir sad haif
+  Ae Khusraw-e-ko shahir sad haif
+  Ik tan tera laakhoṅ tir sad haif
   Ghoroṅ ke sumoṅ wo jism-e-sad chaak
-  Maiṅ tere nisaar wa Husaina
+  Main tere nisaar wa Husaina
 
   3
   Majruh o al-amaan wo sina
@@ -37,12 +37,12 @@ romanLyrics: |-
 
   4
   Khwaahar teri anjuman meiṅ jaaye
-  Beti teri aur tamaache khaaye
+  Beti teri aur tamaanche khaaye
   Beta tera kheṅche ya Shah-e-paak
-  Uṅtoṅ ki mahaar wa Husaina
+  Untoṅ ki mahaar wa Husaina
 
   5
-  Kuchh sirf ghayur rahi nahiṅ hai
+  Kuchh sirf Ghayur rahi nahiṅ hai
   Maatam meiṅ tere har ek haziṅ hai
   Ya Shah hai tere gham meiṅ ghamnaak
   Aflaak o bahaar wa Husaina

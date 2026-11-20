@@ -1,43 +1,76 @@
 ---
-title: "Saal Bhar Ke Ghamzada Aanso Bahane Aaye Hain Lyrics 2020"
+title: "سال بھر کے غمزدہ آنسو بہانے آئے ہیں"
+alternateTitle: "Saal Bhar Ke Ghamzada Aanso Bahane Aaye Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Saal bhar ke ghamzada aanso bahane aaye hain
+
+  1
+  Qabar par Abbas ki ro kar yeh Jabir ne kaha
+  Sham se aaya hai ik pardesiyon ka qafila
+  Chahtey they mehmilon ka Karbala mein dakhla
+  Rasta main ne jo roka sarbaan kehne laga
+
+  2
+  Hum musafir gham musafir ka mananay aaye hain
+  Sun rakha hai aik shash mah-e-ki turbat hai yahan
+  Hai hamarey sath bhi ik shash mah-e-bachay ki maa
+  Hum Ali Asghar ko ik lori sunanay aaye hain
+  Qaid khane mein hamari aik bachi mar gayi
+  Jate jate naam baba ke wasiyat kar gayi
+  Oss ki chadar turbat-e-sheh par charhaney aaye hain
+  Tum ossay baraat samjho Qasim-e-Noshah ki
+  Hai siyah joray mein ik dulhan hamarey sath bhi
+  Hasraton ke naam ki mehndi rachaney aaye hain
+  Hukam hai Abbas ka paidal hi aaye har koi
+  Hai hamarey sath ik bibi jo chal sakti na thi
+  Oss ko chalna aa gaya hai yeh bataney aaye hain
+  Suntay hain karta nahi koi diya roshan yahan
+  Turbat-e-Shabeer par rehti hain bas tareekiyaan
+  Qaid khane ke diye oss par jalanay aaye hain
+  Dasht mein kunba hamara bhi younhi mara gaya
+  Unn musalmano ne jee bhar kar humein pursa diya
+  Hum ko milne har jagah par taziyaney aaye hain
+  Haye ghurbat ki sada har qabar se uthnay lagi
+  Jab sada Jabir ne Akbar ro ke yeh sehra mein di
+  Woh badan se sar shaheedon ke milaney aaye hain
 ---
 
-Saal Bhar Ke Ghamzada Aanso Bahane Aaye Hain.
+سال بھر کے غمزدہ آنسو بہانے آئے ہیں
 
-1
-Qabar Par Abbas Ki Ro Kar Yeh Jabir Ne Kaha.
-Sham Se Aaya Hai Ik Pardesiyon Ka Qafila.
-Chahtey They Mehmilon Ka Karbala Mein Dakhla.
-Rasta Main Ne Jo Roka Sarbaan Kehne Laga.
+۱
+قبر پر عباس کی رو کر یہ جابر نے کہا
+شام سے آیا ہے اک پردیسیوں کا قافلہ
+چاہتے تھے محملوں کا کربلا میں داخلہ
+راستہ میں نے جو روکا سارباں کہنے لگا
 
-2
-Hum Musafir Gham Musafir Ka Mananay Aaye Hain.
-Sun Rakha Hai Aik Shash Mah-e-Ki Turbat Hai Yahan.
-Hai Hamarey Sath Bhi Ik Shash Mah-e-Bachay Ki Maa.
-Hum Ali Asghar Ko Ik Lori Sunanay Aaye Hain.
-Qaid Khane Mein Hamari Aik Bachi Mar Gayi.
-Jate Jate Naam Baba Ke Wasiyat Kar Gayi.
-Oss Ki Chadar Turbat-e-Sheh Par Charhaney Aaye Hain.
-Tum Ossay Baraat Samjho Qasim-e-Noshah Ki.
-Hai Siyah Joray Mein Ik Dulhan Hamarey Sath Bhi.
-Hasraton Ke Naam Ki Mehndi Rachaney Aaye Hain.
-Hukam Hai Abbas Ka Paidal Hi Aaye Har Koi.
-Hai Hamarey Sath Ik Bibi Jo Chal Sakti Na Thi.
-Oss Ko Chalna Aa Gaya Hai Yeh Bataney Aaye Hain.
-Suntay Hain Karta Nahi Koi Diya Roshan Yahan.
-Turbat-e-Shabeer Par Rehti Hain Bas Tareekiyaan.
-Qaid Khane Ke Diye Oss Par Jalanay Aaye Hain.
-Dasht Mein Kunba Hamara Bhi Younhi Mara Gaya.
-Unn Musalmano Ne Jee Bhar Kar Humein Pursa Diya.
-Hum Ko Milne Har Jagah Par Taziyaney Aaye Hain.
-Haye Ghurbat Ki Sada Har Qabar Se Uthnay Lagi.
-Jab Sada Jabir Ne Akbar Ro Ke Yeh Sehra Mein Di.
-Woh Badan Se Sar Shaheedon Ke Milaney Aaye Hain.
+۲
+ہم مسافر غم مسافر کا منانے آئے ہیں
+سن رکھا ہے ایک شش ماہے کی تربت ہے یہاں
+ہے ہمارے ساتھ بھی اک شش ماہے بچے کی ماں
+ہم علی اصغر کو اک لوری سنانے آئے ہیں
+قید خانے میں ہماری ایک بچی مر گئی
+جاتے جاتے نام بابا کے وصیت کر گئی
+اس کی چادر تربتِ شہ پر چڑھانے آئے ہیں
+تم اسے بارات سمجھو قاسمِ نوشہ کی
+ہے سیاہ جوڑے میں اک دلہن ہمارے ساتھ بھی
+حسرتوں کے نام کی مہندی رچانے آئے ہیں
+حکم ہے عباس کا پیدل ہی آئے ہر کوئی
+ہے ہمارے ساتھ اک بی‌بی جو چل سکتی نہ تھی
+اس کو چلنا آ گیا ہے یہ بتانے آئے ہیں
+سنتے ہیں کرتا نہیں کوئی دیا روشن یہاں
+تربتِ شبیر پر رہتی ہیں بس تاریکیاں
+قید خانے کے دیے اس پر جلانے آئے ہیں
+دشت میں کنبہ ہمارا بھی یوں ہی مارا گیا
+ان مسلمانوں نے جی بھر کر ہمیں پرسہ دیا
+ہم کو ملنے ہر جگہ پر تازیانے آئے ہیں
+ہائے غربت کی صدا ہر قبر سے اٹھنے لگی
+جب صدا جابر نے اکبر رو کے یہ صحرا میں دی
+وہ بدن سے سر شہیدوں کے ملانے آئے ہیں

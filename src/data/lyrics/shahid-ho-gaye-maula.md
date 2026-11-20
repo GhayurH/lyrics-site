@@ -48,11 +48,11 @@ romanLyrics: |-
   Tarap ke Maula se Ummul Banin ne ye kaha
   Hawaale sab ko Hasan ke kiya mere aaqa
   Huzur ne mere Abbas ko nahiṅ puchha
-  Maiṅ apne laal ko sadqe karuṅ ke rad ho bala
+  Maiṅ apne laal ko sadqe karuṅ ke radd ho bala
 
   7
   Bitha ke pehlu meiṅ Abbas ko Ali ne kaha
-  Khuda se maanga tha tujh ko baraa-e-Karbobala
+  Khuda se maanga tha tujh ko baraa-e-Karb o Bala
   Khayaal rakhna Nabi zaadiyoṅ ke parde ka
   Hawaale karta huṅ Shabbir ke tujhe beta
 

@@ -12,43 +12,43 @@ aliases: []
 published: true
 romanLyrics: |-
   Ashur ka suraj keh dega
-  Khamosh kinara keh dega
+  Khaamosh kinaara keh dega
   Jo baat ke Asghar keh na sake
   Behta hua darya keh dega
 
   1
-  Kis tarha jawani khaak hui
+  Kis tarah jawaani khaak hui
   Laila ka kaleja keh dega
   Behte hue aansu keh deṅ ge
   Utra hua chehra keh dega
 
   2
-  Ahmed ki nawasi ka aalam
+  Ahmad ki nawaasi ka aalam
   Uthta hua parda keh dega
-  Kis tarha chhini sar se chaadar
+  Kis tarah chhini sar se chaadar
   Jalta hua khaima keh dega
 
   3
-  Kis tarha gaye Asghar ran meiṅ
+  Kis tarah gaye Asghar ran meiṅ
   Aabaad hui kiuṅ kar turbat
-  Bano ki udaasi keh degi
+  Baano ki udaasi keh degi
   Ujra hua jhula keh dega
 
   4
   Akbar ki ajal aayi pehle
   Ya barchi ka phal nikla pehle
-  Shabbir ki kismat keh degi
+  Shabbir ki qismat keh degi
   Akbar ka kaleja keh dega
 
   5
   Ummat ke liye Asghar aaye
-  Pani na mila pyase hi gaye
+  Paani na mila pyaase hi gaye
   Chup hogi agar nanhi si lehad
   Ujra hua jhula keh dega
 
   6
-  Nawak ki khatak dil ki himmat
-  Ummat pe nazar baba ka khayal
+  Naawak ki khatak dil ki himmat
+  Ummat pe nazar baaba ka khayaal
   Kya raaz-e-Khuda samjhe Asghar
   Hansta hua chehra keh dega
 
@@ -59,14 +59,14 @@ romanLyrics: |-
   Uljha hua rasta keh dega
 
   8
-  Mashkiza chhida pani to baha
+  Mashkiza chhida paani to baha
   Mayyat na hati turbat hi bani
   Darya ki taraai kis ki hai
   Abbas ka rauza keh dega
 
   9
   Shaadi se gharaz shaadi kab thi
-  Ye dars-e-ilm tha dunya ko
+  Ye dars-e-ilm tha duniya ko
   Kuch der ka dulha keh dega
   Ujra hua sehra keh dega
 ---

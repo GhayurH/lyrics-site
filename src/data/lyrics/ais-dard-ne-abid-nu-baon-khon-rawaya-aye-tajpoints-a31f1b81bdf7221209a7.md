@@ -1,38 +1,65 @@
 ---
-title: "Ais Dard Ne Abid Nu Baon Khon Rawaya Aye"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ایس درد نے عابد نوں بہوں خون روایا اے"
+alternateTitle: "Ais Dard Ne Abid Nu Baon Khon Rawaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ais dard ne Abid nu baon khon rawaya aye
+  Sir nangay Musalmana Zainab nu phiraya aye
+
+  1
+  Jehri turdi si ghar de wich Fizza de sahare te
+  No mile onno paidal ummat ne turaya aye
+  Kehndi ray Masoma ayho dard nayi bhul sakdi
+  Mere babay di zulfaan wich hath Shimar ne paya aye
+
+  2
+  Masooma ki ghurbat pe roti rahi ghurbat bhi
+  Turbat ka nishaan jis dam Abid ne mitaya hai
+  Be-chain tha Ghazi ka sar oss ghari naizay pe
+  Jab naam sharabi ne Zainab ka bulaya hai
+
+  3
+  Bhole ga ne madar ko yeh dard kabhi Asghar
+  Tere lashay ko ummat ne naizay pe uthaya hai
+  Wadh bheer gayi jiss dam Zainab diyaan rawaan te
+  Shabir ne naizay te Quran sunaya aye
+
+  4
+  Pehchano Musalmano mera nana Muhammad aye
+  Quraan di ayataan ne mera parda banraya aye
+  Muhsin te Wajhi dowein pursa diyo Bibi nu
+  Sadaat di ghurbat da jinna noha likhaya aye
 ---
 
-Ais Dard Ne Abid Nu Baon Khon Rawaya Aye.
-Sir Nangay Musalmana Zainab Nu Phiraya Aye.
+ایس درد نے عابد نوں بہوں خون روایا اے
+سر ننگے مسلمانا زینب نوں پھرایا اے
 
-1
-Jehri Turdi Si Ghar De Wich Fizza De Sahare Te.
-No Mile Onno Paidal Ummat Ne Turaya Aye.
-Kehndi Ray Masoma Ayho Dard Nayi Bhul Sakdi.
-Mere Babay Di Zulfaan Wich Hath Shimar Ne Paya Aye.
+۱
+جیہڑی ٹردی سی گھر دے وچ فضہ دے سہارے تے
+نو میل اوہنوں پیدل امت نے ٹرایا اے
+کہندی رہی معصومہ ایہو درد نئیں بھل سکدی
+میرے بابے دی زلفاں وچ ہتھ شمر نے پایا اے
 
-2
-Masooma Ki Ghurbat Pe Roti Rahi Ghurbat Bhi.
-Turbat Ka Nishaan Jis Dam Abid Ne Mitaya Hai.
-Be-Chain Tha GhaziS Ka Sar Oss Ghari Naizay Pe.
-Jab Naam Sharabi Ne Zainab Ka Bulaya Hai.
+۲
+معصومہ کی غربت پہ روتی رہی غربت بھی
+تربت کا نشاں جس دم عابد نے مٹایا ہے
+بے چین تھا غازی کا سر اُس گھڑی نیزے پہ
+جب نام شرابی نے زینب کا بلایا ہے
 
-3
-Bhole Ga Ne Madar Ko Yeh Dard Kabhi Asghar.
-Tere Lashay Ko Ummat Ne Naizay Pe Uthaya Hai.
-Wadh Bheer Gayi Jiss Dam Zainab Diyaan Rawaan Te.
-Shabir Ne Naizay Te Quran Sunaya Aye.
+۳
+بھولے گا نہ مادر کو یہ درد کبھی اصغر
+تیرے لاشے کو امت نے نیزے پہ اٹھایا ہے
+ودھ بھیڑ گئی جس دم زینب دیاں راہواں تے
+شبیر نے نیزے تے قرآن سنایا اے
 
-4
-Pehchano Musalmano Mera Nana Muhammad Aye.
-Quraan Di Ayataan Ne Mera Parda Banraya Aye.
- Muhsin Te Wajhi Dowein Pursa Diyo Bibi Nu.
-Sadaat Di Ghurbat Da Jinna Noha Likhaya Aye.
+۴
+پہچانو مسلمانو میرا نانا محمد اے
+قرآن دی آیتاں نے میرا پردہ بنایا اے
+محسن تے وجہی دوویں پرسہ دیو بی‌بی نوں
+سادات دی غربت دا جنہاں نوحہ لکھایا اے

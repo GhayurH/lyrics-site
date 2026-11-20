@@ -2,46 +2,81 @@
 title: "سامنے لیلیٰؑ دے کج دیر تاں بیہہ اکبرؑ"
 alternateTitle: "Samne Laila De Kuj Dair Taan Beh Akbar"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Adil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Samne Laila de kuj dair taan beh Akbar
+  Main taras gayiyaan kadi maa aakhay ik waar te keh Akbar
+
+  1
+  Abbas gawah aye mera nayi naam lawaan gi tera
+  Mainu Akbar ne maa aakhiya aye mera wadah hai Akbar
+
+  2
+  Abbas da aye ahsan aye aj Akbar mera mehman aye
+  Zainab taun Laila de taein kita fasila tey Akbar
+
+  3
+  Har saal banandi rayiyaan sochaan che sajandi rayiyaan
+  Tere saal atharaan de cholay oh wekh le pe Akbar
+
+  4
+  Sughra nu de ke wichora gal pa liya maut da jora
+  Oh khairi wapis nayi aaye jehray maqtal gaye Akbar
+
+  5
+  Mar jawi maa na jawein na piyo nu mar mukawein
+  Tere bajoon saday kool koi naiyon rehni shey Akbar
+
+  6
+  Jis maa parwan charhaya tainu sehra jay nayi laya
+  Shagna diyaan reejaan taun pehlaan ohdi jan ne le Akbar
+
+  7
+  Tainu raj na gaud khadaya tera nayi main lad ladaya
+  Har sah che wichoray main tere soo tere seh Akbar
+
+  8
+  Rab Adil janrda haal aye Akbar ik wakhra lal aye
+  Manwaan choon bachray nayi labrein haye tere jay Akbar
 ---
 
-Samne Laila De Kuj Dair Taan Beh Akbar.
-Main Taras Gayiyaan Kadi Maa Aakhay Ik Waar Te Keh Akbar.
+سامنے لیلیٰ دے کج دیر تاں بیہہ اکبر
+میں ترس گئیاں کدی ماں آکھے اک وار تے کہہ اکبر
 
-1
-Abbas Gawah Aye Mera Nayi Naam Lawaan Gi Tera.
-Mainu Akbar Ne Maa Aakhiya Aye Mera Wadah Hai Akbar.
+۱
+عباس گواہ اے میرا نئیں ناں لواں گی تیرا
+مینوں اکبر نے ماں آکھیا اے میرا وعدہ ہے اکبر
 
-2
-Abbas Da Aye Ahsan Aye Aj Akbar Mera Mehman Aye.
-Zainab Taun Laila De Taein Kita Fasila Tey Akbar.
+۲
+عباس دا اے احسان اے اج اکبر میرا مہمان اے
+زینب توں لیلیٰ دے تائیں کیتا فاصلہ طے اکبر
 
-3
-Har Saal Banandi Rayiyaan Sochaan Che Sajandi Rayiyaan.
-Tere Saal Atharaan De Cholay Oh Wekh Le Pe Akbar.
+۳
+ہر سال بناندی رئیاں سوچاں چے سجاندی رئیاں
+تیرے سال اٹھاراں دے چولے اوہ ویکھ لے پے اکبر
 
-4
-Sughra Nu De Ke Wichora Gal Pa Liya Maut Da Jora.
-Oh Khairi Wapis Nayi Aaye Jehray Maqtal Gaye Akbar.
+۴
+صغریٰ نوں دے کے وچھوڑا گل پا لیا موت دا جوڑا
+اوہ خیری واپس نئیں آئے جہڑے مقتل گئے اکبر
 
-5
-Mar Jawi Maa Na Jawein Na Piyo Nu Mar Mukawein.
-Tere Bajoon Saday Kool Koi Naiyon Rehni Shey Akbar.
+۵
+مر جاویں ماں نہ جاویں نہ پیو نوں مار مکاویں
+تیرے باجوں ساڈے کول کوئی نئیوں رہنی شے اکبر
 
-6
-Jis Maa Parwan Charhaya Tainu Sehra Jay Nayi Laya.
-Shagna Diyaan Reejaan Taun Pehlaan Ohdi Jan Ne Le Akbar.
+۶
+جس ماں پروان چڑھایا تینوں سہرا جے نئیں لایا
+شگناں دیاں ریجھاں توں پہلاں اوہدی جان نے لے اکبر
 
-7
-Tainu Raj Na Gaud Khadaya Tera Nayi Main Lad Ladaya.
-Har Sah Che Wichoray Main Tere Soo Tere Seh Akbar.
+۷
+تینوں رج نہ گود کھڈایا تیرا نئیں میں لاڈ لڑایا
+ہر ساہ چے وچھوڑے میں تیرے سو تیرے سہہ اکبر
 
-8
-Rab Adil Janrda Haal Aye Akbar Ik Wakhra Lal Aye.
-Manwaan Choon Bachray Nayi Labrein Haye Tere Jay Akbar.
+۸
+رب عادل جانڑدا حال اے اکبر اک وکھرا لال اے
+ماواں چوں بچڑے نئیں لبھرئیں ہائے تیرے جے اکبر

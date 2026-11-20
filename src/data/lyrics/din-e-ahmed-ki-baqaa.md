@@ -16,7 +16,7 @@ romanLyrics: |-
   Sajdagaah-e-ambiya hai Karbala
 
   1
-  Zulm ki aaṅdhi meiṅ haq ki justaju
+  Zulm ki aandhi meiṅ haq ki justaju
   Tashnagi karti hai zakhmoṅ se wuzu
   Sabr ke bande ki Rab se guftagu
   Hashr tak haq ki sadaa hai Karbala

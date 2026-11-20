@@ -12,74 +12,74 @@ aliases: []
 published: true
 reciter: "Rizwan Zaidi"
 romanLyrics: |-
-  Mehmaṅ tera pyasa raha sukha gala kata gaya
-  Ae dasht-e-Karbala Ae dasht-e-Karbala
-  Bete shahid ho gaye bhai juda hua
+  Mehmaṅ tera pyasa raha sukha gala kaata gaya
+  Ae dasht-e-Karbala, ae dasht-e-Karbala
+  Bete shahid ho gaye, bhai juda hua
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   1
-  Lasheṅ utha utha ke kamar chur ho gayi
+  Laasheṅ utha utha ke kamar chur ho gayi
   Jine ki aarzu to bahut dur ho gayi
   Akbar shahid ho gaye maiṅ sochta raha
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   2
-  Bazu kata ke nehr pe Abbas so gaye
+  Baazu kataa ke nehr pe Abbas so gaye
   Hasrat se Ahl-e-Bait ko maiṅ dekhta raha
   Ab mere baad meri Sakina ka hoga kya
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   3
-  Ansar-e-bawafa mere mujh par fida hue
+  Ansaar-e-bawafa mere mujh par fida hue
   Teghoṅ ke muṅh ko un ke gale chumte rahe
-  Ek shab ka mehman tha Hurr wo bhi mar gaya
+  Ak shab ka mehman tha Hurr, wo bhi mar gaya
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   4
   Qasim ki maut meri gharibi pe roi hai
-  Daulat Hasan ki maiṅ ne bayabaṅ meiṅ khoi hai
-  Qasim kahaṅ hai dasht meiṅ maiṅ dhundhta raha
+  Daulat Hasan ki maiṅ ne bayaabaaṅ meiṅ khoi hai
+  Qasim kahaṅ hai, dasht meiṅ maiṅ dhundta raha
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   5
-  Pyare the mujh ko jaan se Zainab ke larle
+  Pyare the mujh ko jaan se Zainab ke laadle
   Wo eriyaṅ ragar ke mera dil dukha gaye
-  Lashoṅ pe un ki haye maiṅ tanha khara raha
+  Laashoṅ pe un ki, haaye, maiṅ tanha khara raha
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   6
   Allah jaanta hai jo dil par guzar gayi
-  Asghar ke baad jine ki taqat nahiṅ rahi
+  Asghar ke baad jine ki taaqat nahiṅ rahi
   Wo phul mere haath pe murjha ke reh gaya
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   7
   Ek ek kar ke munis o yawar guzar gaye
   Jite the jin ko dekh ke wo laal mar gaye
-  Karta sawar jo mujhe baqi koi na tha
+  Karta sawaar jo mujhe, baaqi koi na tha
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   8
-  Jab zin se zamiṅ pe Ya Rab gira tha maiṅ
-  Amma mere sirhane thi ghash meiṅ para tha maiṅ
+  Jab zin se zamiṅ pe, ya Rab, gira tha maiṅ
+  Ammaaṅ mere sirhaane thi, ghash meiṅ para tha maiṅ
   Khanjar laiṅ gale pe mere pherne laga
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 
   9
-  Rehaan Shah-e-Diṅ ne kaha Rab-e-Zuljalal
-  Zahir hai tujh pe Aal-e-Muhammad ka sara haal
-  Jibril hai gawah sar-e-maqtal-e-jafa
+  Rehaan Shah-e-Diṅ ne kaha, Rab-e-Zuljalaal
+  Zaahir hai tujh pe Aal-e-Muhammad ka saara haal
+  Jibril hai gawaah sar-e-maqtal-e-jafa
   Hum se kisi ne ye bhi na puchha ke kya hua
-  Aisa gharib aisa musafir na aaega
+  Aisa gharib, aisa musafir na aaega
 ---
 مہماں تیرا پیاسا رہا سوکھا گلا کاٹا گیا
 اے دشتِ کربلا اے دشتِ کربلا

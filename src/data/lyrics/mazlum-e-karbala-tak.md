@@ -29,7 +29,7 @@ romanLyrics: |-
   Is paikar-e-raza tak mera salaam le jaa
 
   4
-  Haathoṅ pe Shah ke aaya paani na jis ne paaya
+  Haathoṅ pe shah ke aaya paani na jis ne paaya
   Paani ke badle jis par tir-e-jafa chalaaya
   Shash maahe mehleqa tak mera salaam le jaa
 
@@ -44,7 +44,7 @@ romanLyrics: |-
   Is Aal-e-Mustafa tak mera salaam le jaa
 
   7
-  Shabbir ka biraadar Abbaas ibn-e-Haider
+  Shabbir ka baraadar Abbaas ibn-e-Haider
   Jo tha amir-e-lashkar jis ka wafa tha zevar
   Us paikar-e-safa tak mera salaam le jaa
 ---

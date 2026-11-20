@@ -30,9 +30,9 @@ romanLyrics: |-
   Ruh-e-Karbala raaz-e-kun fakaaṅ
 
   4
-  De ke sar liya zulm se Furaat
+  De ke sar liya qalam se Furaat
   Tujh se reh gayi ambiya ki laaj
-  Ibn-e-Fatima faqr-e-mursala
+  Ibn-e-Fatima farq-e-mursala
 
   5
   Hurr ka tazkira hai waraq waraq
@@ -56,18 +56,18 @@ romanLyrics: |-
 
   9
   Maadar-e-Husain deti hai dua
-  Gunjti rahe bas yehi sada
+  Gunjti rahe bas yahi sadaa
   Farsh-e-khaak se taa ba aasmaaṅ
 
   10
   Zindagi tamaam zikr-e-Karbala
   Nusrat-e-Imaam girya o buka
-  Lab pe subh o shaam ho yehi fughaaṅ
+  Lab pe subh o shaam ho yahi fughaaṅ
 
   11
-  Do sada Farid maatam-e-Husain
+  Do sadaa Farid maatam-e-Husain
   Koi gham na ho juz gham-e-Husain
-  Hashr tak rahe bas yehi samaaṅ
+  Hashr tak rahe bas yahi samaaṅ
 ---
 
 اے حسین جان اے حسین جان

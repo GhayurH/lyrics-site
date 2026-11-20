@@ -17,33 +17,33 @@ romanLyrics: |-
 
   1
   Ye beti us ki hai jo ke hai do jahaṅ ka amir
-  Pali hai jo bare nazoṅ meiṅ Dukhtar-e-Shabbir
-  Pare haiṅ nil usi Shahzadi ke rukh par
+  Paali hai jo bare naazoṅ mein dukhtar-e-Shabbir
+  Pare haiṅ nil usi shahzaadi ke rukh par
 
   2
-  Musibatoṅ meiṅ giraftar Shahzadi hai
-  Watan se dur hai beaasra hai pyasi hai
+  Musibatoṅ mein giraftaar shahzaadi hai
+  Watan se dur hai beaasra hai pyaasi hai
   Laboṅ pe bain hai ghurbat ki khaak hai sar par
 
   3
   Kahiṅ pe lasheṅ kahiṅ khun hai Shah-e-Khuda
-  Akeli dasht-e-musibat meiṅ aa gayi ye kahaṅ
-  Andheri raat meiṅ mar jae na ye dar dar kar
+  Akeli dasht-e-musibat mein aa gayi ye kahaaṅ
+  Andheri raat mein mar jaaye na ye dar dar kar
 
   4
-  Bhala Sakina ko kaise qarar aaega
-  Hamesha bachchi ko ye gham haye rulaega
-  Chala hai samne Baba ke halq par khanjar
+  Bhala Sakina ko kaise qaraar aaye ga
+  Hamesha bachchi ko ye gham haaye rulaaye ga
+  Chala hai saamne Baba ke halq par khanjar
 
   5
   Sakina zulm o sitam aur seh nahiṅ sakti
-  Zyada der wo ab zinda reh nahiṅ sakti
-  Khudara kar do ye Abbas-e-Bawafa ko khabar
+  Zyaada der wo ab zinda reh nahiṅ sakti
+  Khudaara kar do ye Abbas-e-Bawafa ko khabar
 
   6
-  Kabhi tamaanche lagate haiṅ taziyana kabhi
-  Koi satata hai haye rula raha hai koi
-  Nahiṅ hai koi jo us ko dilasa de Gohar
+  Kabhi tamaanche lagaate haiṅ taaziyaana kabhi
+  Koi sataata hai haaye rula raha hai koi
+  Nahiṅ hai koi jo us ko dilaasa de Gohar
 ---
 عجیب وقت پڑا ہے یتیم بچی پر
 میدانِ کربوبلا رو رہی ہے خاک بسر

@@ -1,44 +1,77 @@
 ---
-title: "Aisa Tu Koi Shair Kahon Main Hayat Mein"
+title: "ایسا تو کوئی شعر کہوں میں حیات میں"
+alternateTitle: "Aisa Tu Koi Shair Kahon Main Hayat Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ansar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aisa tu koi shair kahon main hayat mein
+  Jo likh sakoon main apni baiyaaz-e-nijaat mein
+
+  1
+  Yeh kis ne keh diya ke main tanha lahad mein hoon
+  Khushbo gham-e-Hussain ki laya hoon sath mein
+  Aye lashkar-e-sipah-e-Yazeedi sanbhal ke aa
+  Zanjeer matami hai abhi mere hath mein
+
+  2
+  Thanda na karte shair ke guse ko gar Hussain
+  Pani na milta rakh hi milti Furat mein
+  Baag-e-Fidak ke jurm mein bakhshe na jaein gaye
+  Shamil the jitne loag bhi iss wardaat mein
+
+  3
+  Tabdeel kar sako gaye na tareekh-e-Karbala
+  Jitni bhi hair phair karo waqiyaat mein
+  Matam ke daag seene pe roshan hain iss tarha
+  Jaise falak pe chand chamakta ho raat mein
+
+  4
+  Jo mustahib samajhta hai zikar-e-gham-e-Hussain
+  Samajhe na woh namaz ko bhi wajbaat mein
+  Jo rokta hai majlis-o-matam koi bhi ho
+  Iblees ban ke betha hai rah-e-nijaat mein
+
+  5
+  Ik shab ke fasle se bacha le gaye Hussain
+  Dozakh ki aag bethi rahi Hur ki ghaat mein
+  Ansar ghulam-e-shah-e-shaheedaan azal se hon
+  Lagzish kahan se aaye gi paye sabaat mein
 ---
 
-Aisa Tu Koi Shair Kahon Main Hayat Mein.
-Jo Likh Sakoon Main Apni Baiyaaz-e-Nijaat Mein.
+ایسا تو کوئی شعر کہوں میں حیات میں
+جو لکھ سکوں میں اپنی بیاضِ نجات میں
 
-1
-Yeh Kis Ne Keh Diya Ke Main Tanha Lahad Mein Hoon.
-Khushbo Gham-e-Hussain Ki Laya Hoon Sath Mein.
-Aye Lashkar-e-Sipah-e-Yazeedi Sanbhal Ke Aa.
-Zanjeer Matami Hai Abhi Mere Hath Mein.
+۱
+یہ کس نے کہہ دیا کہ میں تنہا لحد میں ہوں
+خوشبو غمِ حسین کی لایا ہوں ساتھ میں
+اے لشکرِ سپاہِ یزیدی سنبھل کے آ
+زنجیر ماتمی ہے ابھی میرے ہاتھ میں
 
-2
-Thanda Na Karte Shair Ke Guse Ko Gar Hussain.
-Pani Na Milta Rakh Hi Milti Furat Mein.
-Baag-e-Fidak Ke Jurm Mein Bakhshe Na Jaein Gaye.
-Shamil The Jitne Loag Bhi Iss Wardaat Mein.
+۲
+ٹھنڈا نہ کرتے شیر کے غصے کو گر حسین
+پانی نہ ملتا راکھ ہی ملتی فرات میں
+باغِ فدک کے جرم میں بخشے نہ جائیں گے
+شامل تھے جتنے لوگ بھی اس واردات میں
 
-3
-Tabdeel Kar Sako Gaye Na Tareekh-e-Karbala.
-Jitni Bhi Hair Phair Karo Waqiyaat Mein.
-Matam Ke Daag Seene Pe Roshan Hain Iss Tarha.
-Jaise Falak Pe Chand Chamakta Ho Raat Mein.
+۳
+تبدیل کر سکو گے نہ تاریخِ کربلا
+جتنی بھی ہیر پھیر کرو واقعات میں
+ماتم کے داغ سینے پہ روشن ہیں اس طرح
+جیسے فلک پہ چاند چمکتا ہو رات میں
 
-4
-Jo Mustahib Samajhta Hai Zikar-e-Gham-e-Hussain.
-Samajhe Na Woh Namaz Ko Bhi Wajbaat Mein.
-Jo Rokta Hai Majlis-o-Matam Koi Bhi Ho.
-Iblees Ban Ke Betha Hai Rah-e-Nijaat Mein.
+۴
+جو مستحب سمجھتا ہے ذکرِ غمِ حسین
+سمجھے نہ وہ نماز کو بھی واجبات میں
+جو روکتا ہے مجلس و ماتم کوئی بھی ہو
+ابلیس بن کے بیٹھا ہے راہِ نجات میں
 
-5
-Ik Shab Ke Fasle Se Bacha Le Gaye Hussain.
-Dozakh Ki Aag Bethi Rahi Hur Ki Ghaat Mein.
- Ansar Ghulam-e-Shah-e-Shaheedaan Azal Se Hon.
-Lagzish Kahan Se Aaye Gi Paye Sabaat Mein.
+۵
+اک شب کے فاصلے سے بچا لے گئے حسین
+دوزخ کی آگ بیٹھی رہی حر کی گھات میں
+انصار غلامِ شاہِ شہیداں ازل سے ہوں
+لغزش کہاں سے آئے گی پائے ثبات میں

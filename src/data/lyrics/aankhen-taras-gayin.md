@@ -12,38 +12,38 @@ aliases: []
 published: true
 romanLyrics: |-
   Ali Akbar Ali Akbar
-  Sughra ne khat meiṅ likha dil muztarib hai mera
+  Sughra ne khat mein likha dil muztarib hai mera
   Reh reh ke chha raha hai aankhoṅ tale andhera
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
   Ali Akbar Ali Akbar, Ali Akbar Ali Akbar
 
   1
-  Laila ke lab pe har dam rehta tha ek naala
-  Hota to us ke dam se ghar meiṅ tha ek ujala
+  Laila ke lab pe har dam, rehta tha ek naala
+  Hota to us ke dam se, ghar mein tha ek ujaala
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   2
-  At jaeṅge wo gesu sab khaak meiṅ lahu meiṅ
-  Ye din bhi dekhna the sehre ki aarzu meiṅ
+  At jaaeṅ ge wo gesu, sab khaak mein lahu mein
+  Ye din bhi dekhna the sehre ki aarzu mein
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   3
-  Zainab se ho ke rukhsat jab ran ko wo chala tha
-  Har koi barh ke us ke maathe ko chumta tha
+  Zainab se ho ke rukhsat, jab ran ko wo chala tha
+  Har koi barh ke us ke, maathe ko chumta tha
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   4
-  Sunte haiṅ uska chehra sab khuṅ meiṅ bhar gaya tha
-  Kehte haiṅ uske sar meiṅ neza utar gaya tha
+  Sunte haiṅ us ka chehra, sab khuṅ mein bhar gaya tha
+  Kehte haiṅ us ke sar mein, neza utar gaya tha
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   5
-  Phir Eid aayi sab ne pehne naye libade
-  Aaye nahiṅ palat ke ummat ke shahzade
+  Phir Eid aayi sab ne, pehne naye libaade
+  Aaye nahiṅ palat ke, ummat ke shaahzaade
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   6
-  Khurshid sa wo chehra rangat meiṅ tha sunehra
+  Khurshid sa wo chehra rangat mein tha sunehra
   Palkoṅ ki chilmanoṅ par tha abru ka pehra
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 ---

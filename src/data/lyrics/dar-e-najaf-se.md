@@ -25,7 +25,7 @@ romanLyrics: |-
   Aur un meiṅ Hazrat-e-Abbas the qamar ki tarah
 
   4
-  Juda hue shab-e-Meraj kab Nabi o Ali
+  Juda hue shab-e-Meraaj kab Nabi o Ali
   Baham the arsh-e-bariṅ par dil o jigar ki tarah
 
   5
@@ -33,7 +33,7 @@ romanLyrics: |-
   Bike ga hashr ke baazaar meiṅ gohar ki tarah
 
   6
-  Jawaaṅ pisar ke kaleje se khiṅch li barchhi
+  Jawaaṅ pisar ke kaleje se khinch li barchhi
   Husain kis meiṅ hai himmat tere jigar ki tarah
 
   7

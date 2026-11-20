@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Karte hai matam haram abbas ka
-  Ho gaya marna sitam abbas ka
-  Haye alamdar haye alamdar
-  Kehte the kamar thaam ke ye sayyed e abraar
-  Haye alamdar haye alamdar
-  Ye haal hai laashe ka sambhala nahi jaata
-  Tir ankh se bhai ki nikaala nahi jaata
-  Imdad ko aajaiye ya hyder e kararar
-  Haye alamdar haye alamdar...
-  Zainab ne teri aas pe chora tha madina
-  Mai kaise bataauṅ use saqqa e sakina
-  Maara gaya zainab teri chadar ka nigehdaar
-  Haye alamdar haye alamdar...
-  Tum qatl huwe hum pe bhi chal jayegi shamshir
-  Aghyaar may reh jayegi tanha meri hamshir
-  Zainab ki rida bachne ke baaqi nahi aasaar
-  Haye alamdar haye alamdar...
-  Jis tarha se ghar laye the masjid se ali ko
-  Us tarha se le jayenge qaime mai jari ko
-  Akbar mere bhai ka janaza karo tayyaar
-  Haye alamdar haye alamdar...
-  Baazu bhi qalam hogaye e baazu e shabbir
-  Tukre hai badan aankh may paywast hua tir
-  Kis ne ye meri maa ki duaoṅ pe kiya waar
-  Haye alamdar haye alamdar...
-  Aati hai sada lut lo namus-e-nabi ko
-  Ab maarna aasaṅ hai Husain ibne ali ko
-  Marne pe tere jashn manate hai sitamgaar
-  Haye alamdar haye alamdar...
-  Akbar hamay mushkil se bahot laaye hai bhai
-  Maidan may girte huwe hum aaye hai bhai
-  Aankheiṅ to zara kholo mere monis o ghamkhwar
-  Haye alamdar haye alamdar...
-  Ek baat tumhe karb ki batlaata hoo bhaiya
-  Jab bhi koi masooma ke maarega tamacha
-  Ro ro ke pukaregi sakina tumhe har baar
-  Haye alamdar haye alamdar...
-  Tha mir takallum yehi shabbir ka nauha
-  Jaate huwe pura karo armaan hamara
-  Ae bhai hamay bhai pukaro zara ek baar
-  Haye alamdar haye alamdar...
+  Karte hain maatam haram Abbas ka
+  Ho gaya marna sitam Abbas ka
+  Haye Alamdar haye Alamdar
+  Kehte the kamar thaam ke ye Sayyed-e-Abraar
+  Haye Alamdar haye Alamdar
+  Ye haal hai laashe ka sambhaala nahiṅ jaata
+  Tir aankh se bhai ki nikaala nahiṅ jaata
+  Imdaad ko aa jaiye ya Haidar-e-Karraar
+  Haye Alamdar haye Alamdar
+  Zainab ne teri aas pe chhora tha Madina
+  Main kaise bataauṅ use Saqqa-e-Sakina
+  Maara gaya Zainab teri chaadar ka nigahdaar
+  Haye Alamdar haye Alamdar
+  Tum qatl hue ham pe bhi chal jaayegi shamshir
+  Aghyaar mein reh jaayegi tanha meri hamshir
+  Zainab ki rida bachne ke baaqi nahiṅ aasaar
+  Haye Alamdar haye Alamdar
+  Jis tarah se ghar laaye the masjid se Ali ko
+  Us tarah se le jaayeṅge khaime mein Jari ko
+  Akbar mere bhai ka janaaza karo tayyaar
+  Haye Alamdar haye Alamdar
+  Baazu bhi qalam ho gaye ae baazu-e-Shabbir
+  Tukre hai badan aankh mein paiwast hua tir
+  Kis ne ye meri maaṅ ki duaaoṅ pe kiya waar
+  Haye Alamdar haye Alamdar
+  Aati hai sada lut lo namus-e-Nabi ko
+  Ab maarna aasaaṅ hai Husain ibn-e-Ali ko
+  Marne pe tere jashn manaate hain sitamgaar
+  Haye Alamdar haye Alamdar
+  Akbar hameṅ mushkil se bahut laaye hain bhai
+  Maidan mein girte hue ham aaye hain bhai
+  Aankheṅ to zara kholo mere munis o ghamkhwaar
+  Haye Alamdar haye Alamdar
+  Ek baat tumheṅ karb ki batlaata huṅ bhaiya
+  Jab bhi kabhi Maasuma ke maarega tamaancha
+  Ro ro ke pukaaregi Sakina tumheṅ har baar
+  Haye Alamdar haye Alamdar
+  Tha Mir Takallum yahi Shabbir ka nauha
+  Jaate hue pura karo armaan hamaara
+  Ae bhai hameṅ bhai pukaaro zara ek baar
+  Haye Alamdar haye Alamdar
 ---
 
 ۱

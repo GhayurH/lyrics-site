@@ -1,53 +1,95 @@
 ---
-title: "Karyal Jawan Ki Lash Uthaney Chaley Hain Hum Lyrics 2019"
+title: "کڑیل جوان کی لاش اٹھانے چلے ہیں ہم"
+alternateTitle: "Karyal Jawan Ki Lash Uthaney Chaley Hain Hum"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Karyal jawan ki lash uthaney chaley hain hum Mir Hasan Mir
+  Seedhi ho aye kamar tujhe Abbas ki qasam
+  Ghoray se gir ke jab Ali Akbar ne di sada
+  Apni kamar ko thaam ke Shabir ne kaha
+
+  2
+  Yeh imtehaan zaeefi mein mujh ko nibhana hai
+  Akbar ko le ke khaima-e-Zainab mein jana hai
+  Rastey mein larkharaein na Shabir ke qadam
+  Ghurbat pe apni roya hai khud Ibn-e-Fatima
+
+  3
+  Gir gir ke tey kiya hai yeh maqtal ka fasla
+  Bas hum se door lash hai Akbar ki do qadam
+  Rasha hai is qadar ke laraztey hain mere hath
+  Lasha hai yeh Rasool ka Akbar ke sath sath
+
+  4
+  Do lashay aik sath uthaein gaye kaisay hum
+  Iss haal mein kahin mujhe Zahra na dekh lein
+  Meri kamar jhuki hoi baba na dekh lein
+  Aatey hi hon gaye meri madad ko sheh-e-ummam
+
+  5
+  Seene mein keh ke tori hai zalim ne yeh sinna
+  Ab dekhna Hussain ki nikle gi kaisay jaan
+  Zalim ko yeh batana hai Ibn-e-Ali hain hum
+  Iss haal mein khaiyaam mein jaon ga kis tarha
+
+  6
+  Zainab ka kainaat uthaon ga kis tarha
+  Zahra ka chand Karb-o-Bala mein howa hai kham
+  Amma ke sath mil ke sina main ne khainch li
+  Hathon mein ab hamare woh taqat nahi rahi
+
+  7
+  Abbas kya gaye mere bazu howay qalam
+  Bahein galay mein daal dien Akbar ne jis ghari
+  Ibn-e-Ali ne ro ke Takallum sada yeh di
+  Sansein bachi hain ab mere Akbar ke paas kam
 ---
 
-1
-Karyal Jawan Ki Lash Uthaney Chaley Hain Hum Mir Hasan Mir.
-Seedhi Ho Aye Kamar Tujhe Abbas Ki Qasam.
-Ghoray Se Gir Ke Jab Ali Akbar Ne Di Sada.
-Apni Kamar Ko Thaam Ke Shabir Ne Kaha.
+۱
+کڑیل جوان کی لاش اٹھانے چلے ہیں ہم میر حسن میر
+سیدھی ہو اے کمر تجھے عباس کی قسم
+گھوڑے سے گر کے جب علی اکبر نے دی صدا
+اپنی کمر کو تھام کے شبیر نے کہا
 
-2
-Yeh Imtehaan Zaeefi Mein Mujh Ko Nibhana Hai.
-Akbar Ko Le Ke Khaima-e-Zainab Mein Jana Hai.
-Rastey Mein Larkharaein Na Shabir Ke Qadam.
-Ghurbat Pe Apni Roya Hai Khud Ibn-e-Fatima.
+۲
+یہ امتحان ضعیفی میں مجھ کو نبھانا ہے
+اکبر کو لے کے خیمۂ زینب میں جانا ہے
+راستے میں لڑکھڑائیں نہ شبیر کے قدم
+غربت پہ اپنی رویا ہے خود ابنِ فاطمہ
 
-3
-Gir Gir Ke Tey Kiya Hai Yeh Maqtal Ka Fasla.
-Bas Hum Se Door Lash Hai Akbar Ki Do Qadam.
-Rasha Hai Is Qadar Ke Laraztey Hain Mere Hath.
-Lasha Hai Yeh Rasool Ka Akbar Ke Sath Sath.
+۳
+گر گر کے طے کیا ہے یہ مقتل کا فاصلہ
+بس ہم سے دور لاش ہے اکبر کی دو قدم
+رعشہ ہے اس قدر کہ لرزتے ہیں میرے ہاتھ
+لاشہ ہے یہ رسول کا اکبر کے ساتھ ساتھ
 
-4
-Do Lashay Aik Sath Uthaein Gaye Kaisay Hum.
-Iss Haal Mein Kahin Mujhe Zahra Na Dekh Lein.
-Meri Kamar Jhuki Hoi Baba Na Dekh Lein.
-Aatey Hi Hon Gaye Meri Madad Ko Sheh-e-Ummam.
+۴
+دو لاشے ایک ساتھ اٹھائیں گے کیسے ہم
+اس حال میں کہیں مجھے زہرا نہ دیکھ لیں
+میری کمر جھکی ہوئی بابا نہ دیکھ لیں
+آتے ہی ہوں گے میری مدد کو شہِ امم
 
-5
-Seene Mein Keh Ke Tori Hai Zalim Ne Yeh Sinna.
-Ab Dekhna Hussain Ki Nikle Gi Kaisay Jaan.
-Zalim Ko Yeh Batana Hai Ibn-e-Ali Hain Hum.
-Iss Haal Mein Khaiyaam Mein Jaon Ga Kis Tarha.
+۵
+سینے میں کہہ کے توڑی ہے ظالم نے یہ سناں
+اب دیکھنا حسین کی نکلے گی کیسے جان
+ظالم کو یہ بتانا ہے ابنِ علی ہیں ہم
+اس حال میں خیام میں جاؤں گا کس طرح
 
-6
-Zainab Ka Kainaat Uthaon Ga Kis Tarha.
-Zahra Ka Chand Karb-o-Bala Mein Howa Hai Kham.
-Amma Ke Sath Mil Ke Sina Main Ne Khainch Li.
-Hathon Mein Ab Hamare Woh Taqat Nahi Rahi.
+۶
+زینب کا کائنات اٹھاؤں گا کس طرح
+زہرا کا چاند کرب و بلا میں ہوا ہے خم
+اماں کے ساتھ مل کے سناں میں نے کھینچ لی
+ہاتھوں میں اب ہمارے وہ طاقت نہیں رہی
 
-7
-Abbas Kya Gaye Mere Bazu Howay Qalam.
-Bahein Galay Mein Daal Dien Akbar Ne Jis Ghari.
-Ibn-e-Ali Ne Ro Ke Takallum Sada Yeh Di.
-Sansein Bachi Hain Ab Mere Akbar Ke Paas Kam.
+۷
+عباس کیا گئے میرے بازو ہوئے قلم
+بانہیں گلے میں ڈال دیں اکبر نے جس گھڑی
+ابنِ علی نے رو کے تکلم صدا یہ دی
+سانسیں بچی ہیں اب میرے اکبر کے پاس کم

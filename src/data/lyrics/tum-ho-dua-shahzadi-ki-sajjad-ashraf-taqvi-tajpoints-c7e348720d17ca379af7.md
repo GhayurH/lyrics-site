@@ -1,37 +1,60 @@
 ---
-title: "Tum Ho Dua Shahzadi Ki Sajjad Ashraf Taqvi"
+title: "تم ہو دعا شہزادی کی سجاد اشرف تقوی"
+alternateTitle: "Tum Ho Dua Shahzadi Ki Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Dua"
 poet: "Akhtar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Matamdaro mat ghabrana tum ho dua shehzadi ki
+  Lakh mukhalif ho yeh zamana tum ho dua shehzadi ki
+  Dekho dil-e-Shabeer na totay sajdoon ka bhi sath na chotay
+  Iss jumlay ko bhool na jana tum ho dua shehzadi ki
+  Rizwaan ka kya pehra wehra janat ki malik hain Zahra
+  Mehshar ka tum khof na khana tum ho dua shehzadi ki
+
+  2
+  Farsh-e-gham-e-Shabeer se rishtay dekh ke yeh kehte hain farishtay
+  Jachta hai tum par itrana tum ho tum ho dua shehzadi ki
+  Wajib hai Masoom ka kehna Shah ka matam kartay rehna
+  Mat fatwon ke roab mein aana tum ho dua shehzadi ki
+  Kya bakhshish ka khatrah watra kafi hai aanso ka qatra
+  Palkon se iss ko na girana tum ho dua shehzadi ki
+
+  3
+  Daman-e-dunya tham na lena maslehaton se kam na lena
+  Apne aqeeday ko na chupana tum ho dua shehzadi ki
+  Roshan rakhna gham ka chehra phaila hai bidat ka andhera
+  Khon se apne shama jalana tum ho dua shehzadi ki
+  Ahl-e-azza ko dekh ke Akhtar kehte hain Sajjad, Payamber
+  Tum sab ka janat hai thikana tum ho dua shehzadi ki
 ---
 
-Tum Ho Dua Shahzadi Ki Sajjad Ashraf Taqvi.
+۱
+ماتم دارو مت گھبرانا تم ہو دعا شہزادی کی
+لاکھ مخالف ہو یہ زمانہ تم ہو دعا شہزادی کی
+دیکھو دلِ شبیر نہ ٹوٹے سجدوں کا بھی ساتھ نہ چھوٹے
+اس جملے کو بھول نہ جانا تم ہو دعا شہزادی کی
+رضوان کا کیا پہرا وہرا جنت کی مالک ہیں زہرا
+محشر کا تم خوف نہ کھانا تم ہو دعا شہزادی کی
 
-1
-Matamdaro Mat Ghabrana Tum Ho Dua Shehzadi Ki.
-Lakh Mukhalif Ho Yeh Zamana Tum Ho Dua Shehzadi Ki.
-Dekho Dil-e-Shabeer Na Totay Sajdoon Ka Bhi Sath Na Chotay.
-Iss Jumlay Ko Bhool Na Jana Tum Ho Dua Shehzadi Ki.
-Rizwaan Ka Kya Pehra Wehra Janat Ki Malik Hain Zahra.
-Mehshar Ka Tum Khof Na Khana Tum Ho Dua Shehzadi Ki.
+۲
+فرشِ غمِ شبیر سے رشتے دیکھ کے یہ کہتے ہیں فرشتے
+جچتا ہے تم پر اترانا تم ہو تم ہو دعا شہزادی کی
+واجب ہے معصوم کا کہنا شاہ کا ماتم کرتے رہنا
+مت فتووں کے رعب میں آنا تم ہو دعا شہزادی کی
+کیا بخشش کا خطرہ وطرہ کافی ہے آنسو کا قطرہ
+پلکوں سے اس کو نہ گرانا تم ہو دعا شہزادی کی
 
-2
-Farsh-e-Gham-e-Shabeer Se Rishtay Dekh Ke Yeh Kehte Hain Farishtay.
-Jachta Hai Tum Par Itrana Tum Ho Tum Ho Dua Shehzadi Ki.
-Wajib Hai Masoom Ka Kehna Shah Ka Matam Kartay Rehna.
-Mat Fatwon Ke Roab Mein Aana Tum Ho Dua Shehzadi Ki.
-Kya Bakhshish Ka Khatrah Watra Kafi Hai Aanso Ka Qatra.
-Palkon Se Iss Ko Na Girana Tum Ho Dua Shehzadi Ki.
-
-3
-Daman-e-Dunya Tham Na Lena Maslehaton Se Kam Na Lena.
-Apne Aqeeday Ko Na Chupana Tum Ho Dua Shehzadi Ki.
-Roshan Rakhna Gham Ka Chehra Phaila Hai Bidat Ka Andhera.
-Khon Se Apne Shama Jalana Tum Ho Dua Shehzadi Ki.
-Ahl-e-Azza Ko Dekh Ke Akhtar Kehte Hain Sajjad, Payamber.
-Tum Sab Ka Janat Hai Thikana Tum Ho Dua Shehzadi Ki.
+۳
+دامنِ دنیا تھام نہ لینا مصلحتوں سے کام نہ لینا
+اپنے عقیدے کو نہ چھپانا تم ہو دعا شہزادی کی
+روشن رکھنا غم کا چہرہ پھیلا ہے بدعت کا اندھیرا
+خون سے اپنے شمع جلانا تم ہو دعا شہزادی کی
+اہلِ عزا کو دیکھ کے اختر کہتے ہیں سجاد، پیمبر
+تم سب کا جنت ہے ٹھکانا تم ہو دعا شہزادی کی

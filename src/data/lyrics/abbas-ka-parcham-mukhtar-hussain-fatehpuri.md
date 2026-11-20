@@ -1,6 +1,6 @@
 ---
 title: "عباس کا پرچم مختار حسین فتح پوری"
-alternateTitle: "Abbas Ka Parcham Mukhtar Hussain Fatehpuri"
+alternateTitle: "Abbas Ka Parcham Mukhtar Husain Fatehpuri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas ka parcham Mukhtar Hussain Fatehpuri
-  Muhibbon ke liye mehway dua Abbas ka parcham
-  Tamacha ban ke dushman ko laga Abbas ka parcham
-  Musibat mein alam ke saye mein aaya tu jab jana
+  Abbas ka parcham Mukhtar Husain Fatehpuri
+  Muhibboṅ ke liye mahv-e-duaa Abbas ka parcham
+  Tamaacha ban ke dushman ko laga Abbas ka parcham
+  Musibat mein alam ke saaye mein aaya to jab jaana
   Har ik mushkil ka hai mushkil kusha Abbas ka parcham
-  Kisaye Zahra ke saye mein kul deen-e-Payamber hai
-  Kisaye Zahra ka saya bana Abbas ka parcham
-  Bhala Ghazi ke parcham ko assa ki ab zarorat kya
-  Katay hathoon pe hai jalwa numa Abbas ka parcham
-  Qalam ne loh par yeh baad Khaybar kar diya tehreer
-  Farrari ko nahi mil paye ga Abbas ka parcham
-  Do kharey arsh se utray they Zahra ki haweli mein
-  Kisa Zahra ki ik our dosra Abbas ka parcham
-  Kabhi Abbas-o-Sarwar ki muhabbat dekhna chahi
-  Azza khane mein la kar rakh diya Abbas ka parcham
-  Ossay maloom tha hai fatha oss ke saye mein Majid
-  Tabhi Mukhtar ke hathoon mein tha Abbas ka parcham
+  Kisaa-e-Zahra ke saaye mein kul din-e-Payaambar hai
+  Kisaa-e-Zahra ka saaya bana Abbas ka parcham
+  Bhala Ghazi ke parcham ko asa ki ab zarurat kya
+  Kate haathoṅ pe hai jalwa numa Abbas ka parcham
+  Qalam ne lauh par yeh baad-e-Khaybar kar diya tahrir
+  Faraari ko nahiṅ mil paaye ga Abbas ka parcham
+  Do khare arsh se utre the Zahra ki haveli mein
+  Kisaa Zahra ki ik aur dusra Abbas ka parcham
+  Kabhi Abbas o Sarwar ki muhabbat dekhna chaahi
+  Aza khaane mein la kar rakh diya Abbas ka parcham
+  Use maalum tha hai fatah us ke saaye mein Majid
+  Tabhi Mukhtar ke haathoṅ mein tha Abbas ka parcham
 ---
 
 ۱

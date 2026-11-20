@@ -9,45 +9,73 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  La ilaha il allah Muhammadur Rasooallah
-  Ki lazawal darsgah Husain hay
-  Na jis ki koi nazeer hay na jis ki koi misal hay
-  Woh be misal shahnshah Husain hay
+  La ilaha to parh liya ab leṅ maza Ta Sin ka
+  La ilaha ki teh ke niche khun hai Shabbir ka
+  La ilaha ke parhne walo La ilaha se puchh lo
+  La ilaha to bach gaya ghar lut gaya Shabbir ka
 
   2
-  Hussian roh-e-kainat hay
-  Husain fakhr-e-moajzat hay
-  Khuda ne jis ko marhaba
-  Hay nafs-e-mutmaen kaha
-  Woh Karbala ka Mustafa Husain hay
+  La ilaha illallah Muhammadur Rasulullah
+  Ki laazawaal darsgaah Husain hai
+  Na jis ki koi misaal hai
+  Na jis ki koi nazir hai
+  Woh bemisaal shahanshaah Husain hai
 
   3
-  Husain la ilah ki zindagi
-  Husain ambiya ki bandagi
-  La ilah se pooch lo
-  Ke sari kainat may
-  Siraf bina-e-la ilah Husain hay
+  Husain ruh-e-kaainaat hai
+  Husain fakhr-e-maujizaat hai
+  Khuda ne jis ko marhaba
+  Hai nafs-e-mutmain kaha
+  Woh Karbala ka Mustafa Husain hai
 
   4
-  Husain deen ka shabab hay
-  Husain dars ki kitab hay
-  Kafan ke band khol kar
-  Bulaya jis ne maa ne khud
-  Woh Fatima ka ladla Husain hay
+  Husain La ilaha ki zindagi
+  Husain ambiya ki bandagi
+  La ilaha se puchh lo
+  Ke saari kaainaat mein
+  Sirf binaa-e-La ilaha Husain hai
 
   5
-  Tarap chuki Shabeeh-e-Mustafa
-  Magar Husain hi datta hua
-  Pisar jawan ki lash pe
-  Hay mutmaen khara raha
-  Yeh woh khaleel-e-Karbala Husssain hay
+  Husain din ka shabaab hai
+  Husain dars-e-inqilaab hai
+  Kafan ke band khol kar
+  Bulaaya jis ko maaṅ ne khud
+  Woh Fatima ka laadla Husain hai
 
   6
-  Apnay khoon ka ghusal mila
-  Kafan hay jis ka khak-e-Karbala
-  Kafan behan na kar saki
-  Hay dhoop may para raha
-  Yeh woh ghareeb-e-Karbala Husain hay
+  Tarap chuki shabih-e-Mustafa
+  Magar Husain hi data hua
+  Pisar jawaaṅ ki laash pe
+  Hai mutmain khara raha
+  Yeh woh Khalil-e-Karbala Husain hai
+
+  7
+  Apne khun ka ghusl mila
+  Kafan hai jis ka khaak-e-Karbala
+  Dafn behan na kar saki
+  Hai dhup mein para raha
+  Yeh woh gharib-e-Karbala Husain hai
+
+  8
+  Pari haiṅ ran mein laasheṅ jaa bajaa
+  Jale khiyaam kuchh bhi na bacha
+  Haram ke sar se chhin leṅ
+  Yazidiyoṅ ne chaadareṅ
+  Yuṅ Karbala mein lut gaya Husain hai
+
+  9
+  Haram mein hashr ka samaaṅ hua
+  Phuphi se jab Sakina ne kaha
+  Mujhe na nind aati hai
+  Main souṅ kis ke sine par
+  Kahaaṅ chala gaya mera Husain hai
+
+  10
+  Ae Haashimi jawaano kya hua
+  Kahaaṅ chale gaye ho baawafa
+  Sada yeh Fatima ki thi
+  Ke ran mein koi bhi nahiṅ
+  Akela reh gaya mera Husain hai
 ---
 
 ۱

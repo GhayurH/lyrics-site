@@ -24,40 +24,40 @@ romanLyrics: |-
   Aa raha hai aa raha hai mera maula aa raha hai
 
   1
-  Parcham-e-Abbaas le kar aane waala aayega
-  Saare gham ab dur hoṅ ge waqt hamaara aayega
-  Raat zulmat ki chhate gi ek ujaala aayega
-  Ab to har dil ki sada har subh har ek shaam
+  Parcham-e-Abbaas le kar aane waala aaye ga
+  Saare gham ab dur hoṅ ge waqt hamaara aaye ga
+  Raat zulmat ki chhate gi ek ujaala aaye ga
+  Ab to har dil ki sadaa har subh har ek shaam
 
   2
-  Phir se chamke ga fiza meiṅ Zulfiqaar-e-Haidari
+  Phir se chamke ga fizaa meiṅ Zulfiqaar-e-Haidari
   Na raheṅ ge phir munaafiq aur na munkir koi
   Aashiqaan-e-Mustafa ka hoga hontoṅ par yehi
-  Ab to har dil ki sada har subh har ek shaam
+  Ab to har dil ki sadaa har subh har ek shaam
 
   3
   Waqt ki nabzeṅ raheṅ gi phir hamaare haath meiṅ
   Na aqidoṅ meiṅ tafarruqa hoga aur na zaat meiṅ
   Maatami kehte raheṅ ge bas yehi har baat meiṅ
-  Ab to har dil ki sada har subh har ek shaam
+  Ab to har dil ki sadaa har subh har ek shaam
 
   4
   Ek hi hoga aqida ek qibla aur namaaz
   Ab kahaaṅ sajdoṅ meiṅ hoga beyaqini ka jawaaz
   Ab azaaṅ ban kar jahaaṅ meiṅ gunj uthe ga haq aasaar
-  Ab to har dil ki sada har subh har ek shaam
+  Ab to har dil ki sadaa har subh har ek shaam
 
   5
-  Karbala waaloṅ ka maatam har gali hoga bapa
-  Sab ke lab par aayega ab Karbala ka tazkira
-  Maatami maahaul hoga maatami hogi fiza
-  Ab to har dil ki sada har subh har ek shaam
+  Karbala waaloṅ ka maatam har gali hoga bapaa
+  Sab ke lab par aaye ga ab Karbala ka tazkira
+  Maatami maahaul hoga maatami hogi fizaa
+  Ab to har dil ki sadaa har subh har ek shaam
 
   6
-  Gunj uthe gi fiza meiṅ ye sada Farhaan ki
+  Gunj uthe gi fizaa meiṅ ye sadaa Farhaan ki
   Hai Ali waaris hamaare sab pukaareṅ ge yehi
   Jo likha hai haq likha hai tu ne Mazhar Aabidi
-  Ab to har dil ki sada har subh har ek shaam
+  Ab to har dil ki sadaa har subh har ek shaam
 ---
 صدیوں کی مسافت طے کر کے امید کا سورج نکلا ہے
 امید کا سورج دنیا کے منظر کو بدلنے والا ہے

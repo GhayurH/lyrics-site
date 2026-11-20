@@ -1,32 +1,54 @@
 ---
-title: "Aqeeda"
+title: "عقیدہ"
+alternateTitle: "Aqeeda"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mera aqeeda Hasan hain chupa nahi sakta
+  Main unn ki koi fazeelat ghata nahi sakta
+
+  1
+  Hasan ke husan ko Yousuf ne dekhtey hi kaha
+  Main inn ke chehray se nazrein hata nahi sakta
+  Saqeefa walon se mat poch keh siwaye Imam
+  Pata Khuda ka koi bhi bata nahi sakta
+
+  2
+  Jalaya noor-e-Khuda ne woh aandhiyon mein charag
+  Hawa ka zoor bhi jis ko bhuja nahi sakta
+  Nabi se ishq ka dawa fazool hai oss ka
+  Hasan se ishq jo dil mein jaga nahi sakta
+
+  3
+  Hasan ke betay ki ghaibat ka jo nahi qayal
+  Khuda ko hashar mein woh munh dikha nahi sakta
+  Asad satata raha jo bhi Aal-e-Ahmad ko
+  Sakon mar ke bhi woh shaks pa nahi sakta
 ---
 
-Mera Aqeeda Hasan Hain Chupa Nahi Sakta.
-Main Unn Ki Koi Fazeelat Ghata Nahi Sakta.
+میرا عقیدہ حسن ہیں چھپا نہیں سکتا
+میں ان کی کوئی فضیلت گھٹا نہیں سکتا
 
-1
-Hasan Ke Husan Ko Yousuf Ne Dekhtey Hi Kaha.
-Main Inn Ke Chehray Se Nazrein Hata Nahi Sakta.
-Saqeefa Walon Se Mat Poch Keh Siwaye Imam.
-Pata Khuda Ka Koi Bhi Bata Nahi Sakta.
+۱
+حسن کے حُسن کو یوسف نے دیکھتے ہی کہا
+میں ان کے چہرے سے نظریں ہٹا نہیں سکتا
+سقیفہ والوں سے مت پوچھ کہ سوائے امام
+پتا خدا کا کوئی بھی بتا نہیں سکتا
 
-2
-Jalaya Noor-e-Khuda Ne Woh Aandhiyon Mein Charag.
-Hawa Ka Zoor Bhi Jis Ko Bhuja Nahi Sakta.
-Nabi Se Ishq Ka Dawa Fazool Hai Oss Ka.
-Hasan Se Ishq Jo Dil Mein Jaga Nahi Sakta.
+۲
+جلایا نورِ خدا نے وہ آندھیوں میں چراغ
+ہوا کا زور بھی جس کو بجھا نہیں سکتا
+نبی سے عشق کا دعویٰ فضول ہے اس کا
+حسن سے عشق جو دل میں جگا نہیں سکتا
 
-3
-Hasan Ke Betay Ki Ghaibat Ka Jo Nahi Qayal.
-Khuda Ko Hashar Mein Woh Munh Dikha Nahi Sakta.
- Asad Satata Raha Jo Bhi Aal-e-Ahmad Ko.
-Sakon Mar Ke Bhi Woh Shaks Pa Nahi Sakta.
+۳
+حسن کے بیٹے کی غیبت کا جو نہیں قائل
+خدا کو حشر میں وہ منہ دکھا نہیں سکتا
+اسد ستاتا رہا جو بھی آلِ احمد کو
+سکون مر کے بھی وہ شخص پا نہیں سکتا

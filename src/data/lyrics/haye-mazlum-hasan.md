@@ -34,7 +34,7 @@ romanLyrics: |-
   Ya Husaina Ya Husaina ki rahe de de sada
 
   4
-  Askari Imam ke farzand-e-Mehdi aayeṅge
+  Askari Imam ke farzand Mehdi aayeṅge
   Har jagah farsh-e-aza phir dekhna bichh jaayeṅge
   Khud bayaaṅ farmaayeṅge Maula bayaan-e-Karbala
 

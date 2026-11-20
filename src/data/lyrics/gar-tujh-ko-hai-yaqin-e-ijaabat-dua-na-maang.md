@@ -12,9 +12,9 @@ aliases: ["Gar Tujh Ko Hai Yaqeen-e-Ejabat Dua Na Maang"]
 published: true
 romanLyrics: |-
   1
-  Yaani baghair-e-yak dil bemudua na maang
+  Yaani baghair-e-yak dil bemuddaa na maaṅg
   Aata hai daagh-e-hasrat-e-dil ka shumaar yaad
-  Mujh se mere gunaah ka hisaab ae Khuda na maang
+  Mujh se mere gunaah ka hisaab ae Khuda na maaṅg
 ---
 
 ۱

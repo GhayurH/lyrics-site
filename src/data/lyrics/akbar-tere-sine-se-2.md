@@ -13,49 +13,49 @@ published: true
 reciter: "Mir Rehan Abbas"
 romanLyrics: |-
   Dar hai nikal aae na sine se kaleja
-  Akbar tere sine se sinaṅ kaise nikaluṅ
+  Akbar tere sine se sinaṅ kaise nikaaluṅ
   Ye soch ke dil tukre hua jaata hai mera
-  Akbar tere sine se sinaṅ kaise nikaluṅ
+  Akbar tere sine se sinaṅ kaise nikaaluṅ
 
   1
-  Aasan nahiṅ piri meiṅ sehna koi sadma
-  Ek baap ka marna hai jawaaṅ bete ka marna
-  Dam niklega tera to maiṅ mar jaunga beta
+  Aasaan nahiṅ piri mein sehna koi sadma
+  Ak baap ka marna hai jawaaṅ bete ka marna
+  Dam nikle ga tera to main mar jaauṅ ga beta
 
   2
   Sina tera zakhmi hai lahu behta hai saara
-  Ulfat ka taqaza hai ke kuchh bhi nahiṅ dikhta
+  Ulfat ka taqaaza hai ke kuchh bhi nahiṅ dikhta
   Sine ko tere baap ne bachpan se hai chuma
 
   3
-  Tar khun meiṅ bete ko bhala dekhegi kaise
+  Tar khun mein bete ko bhala dekhe gi kaise
   Jaari hai abhi khun tere zakhm-e-jigar se
-  Mar jaegi ye dekh ke madar teri Laila
+  Mar jae gi ye dekh ke maadar teri Laila
 
   4
-  Barchhi jo nikali to na reh paoge zinda
-  Mushkil meiṅ bahut aaj hai beta tera Baba
-  Malum hai mar jaoge kuchh der meiṅ beta
+  Barchhi jo nikaali to na reh pao ge zinda
+  Mushkil mein bahut aaj hai beta tera Baba
+  Maalum hai mar jao ge kuchh der mein beta
 
   5
-  Haathoṅ meiṅ nikal jaega dam Ae mere beta
-  Is dasht meiṅ reh jaunga ab bekas o tanha
+  Haathoṅ mein nikal jae ga dam ae mere beta
+  Is dasht mein reh jaauṅ ga ab bekas o tanha
   Ye soch ke rota hai bahut ye tera Baba
 
   6
   Qasim bhi nahiṅ ab mera Abbas kahaṅ hai
   Har simt sitamgar hai dushman ye jahaṅ hai
-  Tanha hi uthana hai mujhe ab tera lasha
+  Tanha hi uthaana hai mujhe ab tera laasha
 
   7
   Baithi hai yehi aas lagae hue dukhiya
-  Dulha maiṅ banaungi mera aaega bhaiya
-  Sehre ko sajati hui reh jaegi Sughra
+  Dulha main banaauṅ gi mera aae ga bhaiya
+  Sehre ko sajati hui reh jae gi Sughra
 
   8
-  Ae Danish o Rehaan koi kaise likhega
-  Ek baap ne dekha hai nikalte hue kaleja
-  Kehte hue Shabbir ne jab neza nikala
+  Ae Danish o Rehaan koi kaise likhe ga
+  Ak baap ne dekha hai nikalte hue kaleja
+  Kehte hue Shabbir ne jab neza nikaala
 ---
 ڈر ہے نکل آئے نہ سینے سے کلیجہ
 اکبر تیرے سینے سے سناں کیسے نکالوں

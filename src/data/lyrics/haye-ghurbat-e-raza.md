@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Rote haiṅ shaah-e-waala roti haiṅ Bint-e-Zahra
   Haye ghurbat-e-Raza par
-  Phir aaj Karbala meiṅ aur Shaam meiṅ hai giryan
+  Phir aaj Karbala mein aur Shaam mein hai girya
   Haye ghurbat-e-Raza par
 
   1
@@ -33,8 +33,8 @@ romanLyrics: |-
   Haye ghurbat-e-Raza par
 
   4
-  Pursa qubul kije Maula Ae Musa Kazim
-  Aaṅsu bahaate ham bhi dene ko aaye pursa
+  Pursa qubul kije Maula ae Musa Kaazim
+  Aansu bahaate ham bhi dene ko aaye pursa
   Haye ghurbat-e-Raza par
 
   5
@@ -44,17 +44,17 @@ romanLyrics: |-
 
   6
   Har shaam ro rahi hai bhaai ko ek khwaahar
-  Har shaam hi bapa hai Qum ki fiza meiṅ nauha
+  Har shaam hi bapa hai Qum ki fiza mein nauha
   Haye ghurbat-e-Raza par
 
   7
   Mayyat pe is pisar ki faryaad-e-Sayyida thi
-  Yasrab se aa ke dekho maiṅ ro rahi huṅ baba
+  Yasrab se aa ke dekho main ro rahi huṅ baba
   Haye ghurbat-e-Raza par
 
   8
   Maah-e-Safar jo aaya yaad aa gayi Sakina
-  Izhaar us ke gham meiṅ roya phir aur roya
+  Izhaar us ke gham mein roya phir aur roya
   Haye ghurbat-e-Raza par
 ---
 

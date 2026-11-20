@@ -9,108 +9,63 @@ reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Karbala karbala
-
+romanLyrics: |-
+  Karbala Karbala
 
   1
-
-  Tere abbas ke parcham ko salami denge
-
-  Jab talak chand sitaro mein chamak baaqi hai
-
-  Jab talak arshe salamat pe chamak baaqi hai
-
-  Jab talak phool ke daaman mein mehak baaqi hai
-
-  Tere shabbir ke matam ki dhamak baaqi hai
-
+  Tere Abbas ke parcham ko salaami deṅ ge
+  Jab talak chaand sitaaroṅ mein chamak baaqi hai
+  Jab talak arsh-e-salaamat pe chamak baaqi hai
+  Jab talak phul ke daaman mein mahak baaqi hai
+  Tere Shabbir ke maatam ki dhamak baaqi hai
 
   2
-
-  Jab talak seene mein dil dil mein hai dhadkan baaqi
-
-  Jab talak apni yazeedo se hai anban baaqi
-
-  Noore haq banke chamkte huwe panwan baaqi
-
-  Ta qayamat rahe shabbir ka gulshan baaqi
-
+  Jab talak sine mein dil, dil mein hai dharkan baaqi
+  Jab talak apni Yazidoṅ se hai anban baaqi
+  Nur-e-Haq ban ke chamakte hue pan wan baaqi
+  Taa qayaamat rahe Shabbir ka gulshan baaqi
 
   3
-
-  Kufr taadi ka ye sailaab rukega ek din
-
-  Baarwa laal imamat ko uthega ek din
-
-  Naam hinda ke ghar aane ka mitega ek din
-
-  Zaalim mazloom ki chaukat pe jhukega ek din
-
+  Kufr taari ka ye sailaab ruke ga ek din
+  Baarwaaṅ laal imaamat ka uthe ga ek din
+  Naam Hinda ke gharaane ka mite ga ek din
+  Zaalim mazlum ki chaukhat pe jhuke ga ek din
 
   4
-
-  Tere abbas ke parcham ki qasam khaate hai
-
-  Tashnalab shaahe do aalam ki qasam khaate hai
-
-  Ta qayamat jo hai is gham ki qasam khaate hai
-
-  Tere shabbir ke matam ki qasam khaate hai
-
+  Tere Abbas ke parcham ki qasam khaate haiṅ
+  Tashna lab shaah-e-do aalam ki qasam khaate haiṅ
+  Taa qayaamat jo hai is gham ki qasam khaate haiṅ
+  Tere Shabbir ke maatam ki qasam khaate haiṅ
 
   5
-
-  Karbala tere jiyalon ki qasam khaate hai
-
-  Seeno mein toot''te bhaalo ki qasam khaate hai
-
-  Binte zehra tere naalo ki qasam khaate hai
-
-  Khoone asghar ke ujaalo ki qasam khaate hai
-
+  Karbala tere jiyaaloṅ ki qasam khaate haiṅ
+  Sinoṅ mein tutte bhaaloṅ ki qasam khaate haiṅ
+  Bint-e-Zehra tere naaloṅ ki qasam khaate haiṅ
+  Khun-e-Asghar ke ujaaloṅ ki qasam khaate haiṅ
 
   6
-
-  Tere sehra mein luta fathima zehra ka chaman
-
-  Haye wo qasime nowshah ka pamaal badan
-
-  Haye wo shimr ka khanjar wo aqi ki gardan
-
-  Haye wo yaas ke mahol mein majboor behan
-
+  Tere sahra mein luta Faatima Zehra ka chaman
+  Haaye wo Qaasim-e-Naushaah ka paamaal badan
+  Haaye wo Shimr ka khanjar, wo aaqa ki gardan
+  Haaye wo yaas ke maahaul mein majbur bahan
 
   7
-
-  Teer se hogayi jab mashke sakina jhalni
-
-  Jhuk ke ghazi ne kaha shahe najaf adrikni
-
-  Seena e akbare mehru me wo naize ki ani
-
-  Khuld se aagaye zehra-e-rasoole madani
-
+  Tir se ho gai jab mashk-e-Sakina chhalni
+  Jhuk ke ghaazi ne kaha, shaah-e-Najaf adrikni
+  Sina-e-Akbar-e-Mahru mein wo naize ki ani
+  Khuld se aa gai Zehra-e-Rasul-e-Madani
 
   8
-
-  Hasrato yaas ke aalam mein hazeena bibi
-
-  Is tasavvur hi se phatne laga seena bibi
-
-  Baad e abbas bhi kya tha tera jeena bibi
-
-  Zakhmi kaano jale kurte mein sakina bibi
-
+  Hasrat o yaas ke aalam mein hazina Bibi
+  Is tasavvur hi se phatne laga sina Bibi
+  Baad-e-Abbas bhi kya tha tera jina Bibi
+  Zakhmi kaanon jale kurte mein Sakina Bibi
 
   9
-
-  Bhool sakta nahi irfan qayamat ka samaa
-
-  Baade abbas zainab pe gira tohe giran
-
-  Nagahan uthne laga shaah ke qaimo se dhuwa
-
-  Arshe aazam ko hilaati huwi zainab ki fughaan'
+  Bhul sakta nahiṅ Irfan qayaamat ka samaaṅ
+  Baad-e-Abbas Zainab pe gira koh-e-giraaṅ
+  Naagaah uthne laga shaah ke khaimoṅ se dhuaaṅ
+  Arsh-e-aazam ko hilaati hui Zainab ki fughaaṅ
 ---
 
 کربلا کربلا

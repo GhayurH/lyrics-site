@@ -9,44 +9,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab gardane shabbir pe phera gaya khanjar
-  Pardes mein loota gaya zahra ka bhara ghar
-
   1
-  Qasim hai na akbar hai na abbas e dilawar
-  Kunbe ki nigehban hai ab zainabe muztar
-  Aayi shaam e ghariban zainab hui tanha
-  Laasha tadap raha tha kisi ka labe furaat
+  Jab gardan-e-Shabbir pe phera gaya khanjar
+  Pardes mein luta gaya Zahra ka bhara ghar
+  Qasim hai na Akbar hai na Abbas-e-Dilawar
+  Kunbe ki nigehbaaṅ hai ab Zainab-e-Muztar
+  Aayi shaam-e-gharibaaṅ Zainab hui tanha
 
   2
-  Cheeni thi shimr ne sar e zainab se jab rida
-  Aayi shaam e ghariban....
-  Bache ko apne dhoondti hai maa andhere mein
-  Haathon pe hai liye huwe jhoola jala hua
+  Laasha tarap raha tha kisi ka lab-e-Furaat
+  Chhini thi Shimr ne sar-e-Zainab se jab rida
+  Aayi shaam-e-.....
 
   3
-  Aayi shaam e ghariban....
-  Dulhe ka laasha ghodon se pamaal hogaya
-  Ye kaisa waqt hazrate kubra pe aa gaya
-  Aayi shaam e ghariban....
+  Bachche ko apne dhundti hai maaṅ andhere mein
+  Haathoṅ pe haiṅ laaye hue jhula jala hua
+  Aayi shaam-e-.....
 
   4
-  Ammu bachaiye mujhe shimr e layeen se
-  Ek bachi dasht mein yehi deti rahi sada
-  Aayi shaam e ghariban....
-  Bikhraye apne baalon ko roti thi fatema
+  Dulhe ka laasha ghoroṅ se paamaal ho gaya
+  Ye kaisa waqt Hazrat-e-Kubra pe aa gaya
+  Aayi shaam-e-.....
 
   5
-  Jis dum tha halq e shaah pe khanjar layeen ka
-  Aayi shaam e ghariban....
-  Qaimon ki raakh bikhri padi thi zameen par
-  Baitha tha sar jhukaye aseeron ka khaafila
+  Ammuṅ bachaiye mujhe Shimr-e-layiṅ se
+  Ik bachchi dasht mein yahi deti rahi sada
+  Aayi shaam-e-.....
 
   6
-  Aayi shaam e ghariban....
-  Ahmed bayan karta hai karbal ke waqiyaat
-  Mohsin jigar ko thaam ke padta hai marsiya
-  Aayi shaam e ghariban....
+  Bikhraaye apne baaloṅ ko roti thi Fatema
+  Jis dam tha halq-e-shaah pe khanjar layin ka
+  Aayi shaam-e-.....
+
+  7
+  Khaimoṅ ki raakh bikhri pari thi zamin par
+  Baitha tha sar jhukaaye asiroṅ ka qaafila
+  Aayi shaam-e-.....
+
+  8
+  Ahmed bayaan karta hai Karbala ke waaqiyaat
+  Mohsin jigar ko thaam ke parhta hai marsiya
+  Aayi shaam-e-....
 ---
 
 ۱

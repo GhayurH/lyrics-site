@@ -9,109 +9,57 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Kiya Muhammad Ka Pyara Nahi Hun Ali Shanawar And Ali Jee"
-romanLyrics: 'Kiya Muhammad Ka Pyara Nahi Hun Ali Shanawar and Ali Jee.
-
-  Mera Nana Nabi Meri Maa Syeda.
-
-  Mera Baba Ali Mera Bhai Hasan.
-
-  Hum Hi Hain Panjtan Meri Kya Hai Khata.
-
+romanLyrics: |-
+  Mere nana nabi meri maaṅ Syeda
+  Mera baba Ali mera bhai Hasan
+  Ham hi haiṅ Panjtan
+  Meri kya hai khata meri kya hai khata
 
   1
-
-  Mujh Pe Kyun Band Kartay Ho Pani.
-
-  Kya Muhammad Ka Pyara Nahi Hoon.
-
-  Kya Main Zahra Ka Jaya Nahi Hoon.
-
-  Kya Nabi Ka Nawasa Nahi Hoon.
-
+  Mujh pe kiuṅ band karte ho paani
+  Kya Muhammad ka pyaara nahiṅ huṅ
+  Kya main Zahra ka jaaya nahiṅ huṅ
+  Kya nabi ka nawaasa nahiṅ huṅ
 
   2
-
-  Mere Nana Ne Kalma Sikhaya.
-
-  Our Quran Tum Ko Sunaya.
-
-  Kya Main Nana Ka Saya Nahi Hoon.
-
+  Mujh pe kiuṅ band...
+  Mere nana ne kalma sikhaaya
+  Aur Quran tum ko sunaaya
+  Kya main nana ka saaya nahiṅ huṅ
 
   3
-
-  Kya mai us ghar may khela nahi hoo
-
-  Kya nabi ka nawasa nahi hoo
-
-  Mujhpe kyun band...
-
-  Chakiyan pees kar maa ne paala
-
+  Woh Madina jahaaṅ mera ghar hai
+  Aur masjid meiṅ us ghar ka dar hai
 
   4
-
-  Woh Madina Jahan Mera Ghar Hai.
-
-  Our Masjid Mein Oss Ghar Ka Dar Hai.
-
-  Kya Main Oss Ghar Mein Khaila Nahi Hoon.
-
+  Kya main us ghar meiṅ khela nahiṅ huṅ
+  Chakiyaaṅ pis kar maaṅ ne paala
 
   5
-
-  Chakiyaan Peeas Kar Maa Ne Pala.
-
-  Mujh Ko Nana Ne Jhola Jholaya.
-
-  Apna Bachpan Main Bhola Nahi Hoon.
-
+  Mujh ko nana ne jhula jhulaaya
+  Apna bachpan main bhula nahiṅ huṅ
 
   6
-
-  Kamli Walay Ke Lab Chomta Tha.
-
-  Kitna Pyara Mera Bachpana Tha.
-
-  Kya Main Unn Ka Dulara Nahi Hoon.
-
+  Kamli waale ke lab chumta tha
+  Kitna pyaara mera bachpana tha
+  Kya main un ka dulaara nahiṅ huṅ
 
   7
-
-  Main Jo Pani Kabhi Mangta Tha.
-
-  Kyun Tarapti Thi Maa Ab Main Samjha.
-
-  Pas Asghar Ke Jata Nahi Hoon.
-
+  Main jo paani kabhi maangta tha
+  Kiun tarapti thi maaṅ ab main samjha
+  Paas Asghar ke jaata nahiṅ huṅ
 
   8
-
-  Jang karne mai aaya nahi hoo
-
-  Kya nabi ka nawasa nahi hoo
-
-  Mujhpe kyun band...
-
-  Ek sada thi ye rehaan-o-sarwar
-
+  Main jo chaahuṅ baras jaaeṅ baadal
+  Khuṅ meiṅ duba nazar aae maqtal
 
   9
-
-  Main Jo Chahon Baras Jaein Badal.
-
-  Khoon Mein Doba Nazar Aaye Maqtal.
-
-  Jang Karne Main Aaya Nahi Hoon.
-
+  Jang karne main aaya nahiṅ huṅ
+  Ik sada thi yeh Rehan o Sarwar
 
   10
-
-  Ik Sada Thi Yeh:REHAN-o-SARWAR:.
-
-  Keh Rahe They Hussain Ibn-e-Haider.
-
-  Kya Main Mehman Aaya Nahi Hoon.'
+  Keh rahe the Husain Ibn-e-Haider
+  Kya main mehmaan aaya nahiṅ huṅ
 ---
 
 میرے نانا نبی میری ماں سیدہ

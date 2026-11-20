@@ -8,34 +8,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haey Sajjad chalay Shaam Khuda khair karay
-
   1
-  Galay may tauq hay aur bariyan hain pairon may
-  Diya hain Shaam kay logo nay ye inaam, Khuda khair karay
-  1) Woh jis kay saar say rida bhi kabhi sarak jaye
-  To maray sharam kay suraj waheen palat jaye
-  Sharabiyon say hui hay woh hum kalam
+  Haaye Sajjad chale Shaam Khuda khair kare
+  Gale meiṅ tauq hai aur beriyaṅ haiṅ pairoṅ meiṅ
+  Diya hai Shaam ke logoṅ ne ye inaam
+  Khuda khair kare
 
   2
-  2) Tamam shehron kay deevar o dar sajaye hain
-  Khari hain auratain haaton main sang uthaye hain
-  Kiya hay jashan-e-fatah ka ye ahtamam
+  Woh jis ke sar se rida bhi kabhi sarak jaaye
+  To maare sharm ke suraj wahiṅ palat jaaye
+  Sharabiyoṅ se hui hai woh hamkalaam - Khuda khair kare
 
   3
-  3) Bana kay qaidi aulad-e-Ali ko laye hain
-  Ye shor barpa aaye hain baghi aaye hain
-  Macha hay Shaam kay logon main kohram
+  Tamaam shahroṅ ke divaar o dar sajaaye haiṅ
+  Khari haiṅ aurateṅ haathoṅ meiṅ sang uthaaye haiṅ
+  Kiya hai jashn-e-fatah ka ye ehtimaam - Khuda khair kare
 
   4
-  4) Bazaar-e-Shaam may Zainab to be rida hay kharri
-  Beema Syed-e-Abid pe kia kathin hay gharri
-  Kharra bazar may har soo hay majma aam
+  Bana ke qaidi aulaad-e-Ali ko laaye haiṅ
+  Ye shor barpa hai aaiṅ haiṅ baaghi aaye haiṅ
+  Macha hai Shaam ke logoṅ meiṅ kohraam - Khuda khair kare
 
   5
-  5) Janab-e-Ghazi ka sar sang pe tarrapta tha
-  Beemar qaidi ki aankhon se khoon barasta tha
-  Laeen leta hay Zainab ka jab bhi naam
+  Baazaar-e-Shaam meiṅ Zainab to be rida hai khari
+  Bimaar Sayyid-e-Aabid pe kya kathin hai ghari
+  Khara baazaar meiṅ har su hai majma aam - Khuda khair kare
+
+  6
+  Janaab-e-Ghaazi ka sar saang pe tarapta tha
+  Bimaar qaidi ki aankhoṅ se khuṅ barasta tha
+  Laeen leta tha Zainab ka jab bhi naam - Khuda khair kare
 ---
 
 ۱

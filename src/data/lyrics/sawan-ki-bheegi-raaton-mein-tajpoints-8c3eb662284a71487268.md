@@ -1,52 +1,95 @@
 ---
-title: "Sawan Ki Bheegi Raaton Mein"
+title: "ساون کی بھیگی راتوں میں"
+alternateTitle: "Sawan Ki Bheegi Raaton Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sawan ki bheegi raaton mein
+  Jab phool khilein barsaton mein
+  Jab chairein sakhiyan baton mein
+  Menu yadaan teriyaan ayundiyaan ne
+
+  2
+  Dil ko pakar ke reh jati hoon
+  Poch na kaise sharmati hoon
+  Sari batein sun jati hoon
+  Aadhi batein keh jati hoon
+
+  3
+  Khushbo nahi milti kaliyon mein
+  Koi rang nahi rang raliyon mein
+  Gaon ki soni ghaliyon mein
+  Menu yadaan teriyaan ayundiyaan ne
+
+  4
+  Apna dukhra keh nahi sakti
+  Our judai seh nahi sakti
+  Kache ghare par beh nahi sakti
+  Beth kinare reh nahi sakti
+
+  5
+  Main pehan ke paiyal paon mein
+  Tera rasta dekhon gaon mein
+  Peepal ki thandi chaon mein
+  Menu yadaan teriyaan ayundiyaan ne
+
+  6
+  Kab tak tum pardais raho gay
+  Ayo gay na khat likhon gay
+  Main ghut ghut ke jaan de doon gi
+  Phir tum kis ko jan kaho gay
+
+  7
+  Dhondo gay jangal bailay mein
+  Har basti mein har mailay mein
+  Gao gay yehi akeley mein
+  Menu yadaan teriyaan ayundiyaan ne
 ---
 
-1
-Sawan Ki Bheegi Raaton Mein.
-Jab Phool Khilein Barsaton Mein.
-Jab Chairein Sakhiyan Baton Mein.
-Menu Yadaan Teriyaan Ayundiyaan Ne.
+۱
+ساون کی بھیگی راتوں میں
+جب پھول کھلیں برساتوں میں
+جب چھیڑیں سکھیاں باتوں میں
+مینوں یاداں تیریاں آؤندیاں نیں
 
-2
-Dil Ko Pakar Ke Reh Jati Hoon.
-Poch Na Kaise Sharmati Hoon.
-Sari Batein Sun Jati Hoon.
-Aadhi Batein Keh Jati Hoon.
+۲
+دل کو پکڑ کے رہ جاتی ہوں
+پوچھ نہ کیسے شرماتی ہوں
+ساری باتیں سن جاتی ہوں
+آدھی باتیں کہہ جاتی ہوں
 
-3
-Khushbo Nahi Milti Kaliyon Mein.
-Koi Rang Nahi Rang Raliyon Mein.
-Gaon Ki Soni Ghaliyon Mein.
-Menu Yadaan Teriyaan Ayundiyaan Ne.
+۳
+خوشبو نہیں ملتی کلیوں میں
+کوئی رنگ نہیں رنگ رلیوں میں
+گاؤں کی سونی گلیوں میں
+مینوں یاداں تیریاں آؤندیاں نیں
 
-4
-Apna Dukhra Keh Nahi Sakti.
-Our Judai Seh Nahi Sakti.
-Kache Ghare Par Beh Nahi Sakti.
-Beth Kinare Reh Nahi Sakti.
+۴
+اپنا دکھڑا کہہ نہیں سکتی
+اور جدائی سہ نہیں سکتی
+کچے گھڑے پر بہہ نہیں سکتی
+بیٹھ کنارے رہ نہیں سکتی
 
-5
-Main Pehan Ke Paiyal Paon Mein.
-Tera Rasta Dekhon Gaon Mein.
-Peepal Ki Thandi Chaon Mein.
-Menu Yadaan Teriyaan Ayundiyaan Ne.
+۵
+میں پہن کے پائل پاؤں میں
+تیرا راستہ دیکھوں گاؤں میں
+پیپل کی ٹھنڈی چھاؤں میں
+مینوں یاداں تیریاں آؤندیاں نیں
 
-6
-Kab Tak Tum Pardais Raho Gay.
-Ayo Gay Na Khat Likhon Gay.
-Main Ghut Ghut Ke Jaan De Doon Gi.
-Phir Tum Kis Ko Jan Kaho Gay.
+۶
+کب تک تم پردیس رہو گے
+آؤ گے نہ خط لکھوں گے
+میں گھٹ گھٹ کے جان دے دوں گی
+پھر تم کس کو جان کہو گے
 
-7
-Dhondo Gay Jangal Bailay Mein.
-Har Basti Mein Har Mailay Mein.
-Gao Gay Yehi Akeley Mein.
-Menu Yadaan Teriyaan Ayundiyaan Ne.
+۷
+ڈھونڈو گے جنگل بیلے میں
+ہر بستی میں ہر میلے میں
+گاؤ گے یہی اکیلے میں
+مینوں یاداں تیریاں آؤندیاں نیں

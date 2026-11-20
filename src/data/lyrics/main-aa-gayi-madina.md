@@ -13,54 +13,54 @@ aliases: ["Mai Aagayi Madina"]
 published: true
 romanLyrics: |-
   Ro ro ke pukaari naana ki dulaari
-  Naana ae mere naana maiṅ aa gayi Madina
+  Naana ae mere naana main aa gayi Madina
 
   Sughra se kya kahuṅ gi mushkil hai mera jina
-  Naana ae mere naana maiṅ aa gayi Madina
+  Naana ae mere naana main aa gayi Madina
 
   1
-  Apni rida luta ke khutbe suna suna ke
-  Diwaar-e-zulm dhaa ke maiṅ aa gayi Madina
+  Apni ridaa lutaa ke khutbe sunaa sunaa ke
+  Diwaar-e-zulm dhaa ke main aa gayi Madina
 
   2
-  Balwe meiṅ thi khule sar bepardagi ke patthar
-  Khaa khaa ke ashqiya se maiṅ aa gayi Madina
+  Balwe mein thi khule sar bepardagi ke patthar
+  Khaa khaa ke ashqiyaa se main aa gayi Madina
 
   3
   Zindaan tha andhera chaaroṅ taraf tha pahra
-  Aankhoṅ se khuṅ bahaa ke maiṅ aa gayi Madina
+  Aankhoṅ se khuṅ bahaa ke main aa gayi Madina
 
   4
   Aai nahiṅ Sakina phatta hai mera sina
-  Us ko wahiṅ sula ke maiṅ aa gayi Madina
+  Us ko wahiṅ sulaa ke main aa gayi Madina
 
   5
-  Nok-e-sinaaṅ pe sar the hum log nauhagar the
-  Farsh-e-aza bichha ke maiṅ aai huṅ Madina
+  Nok-e-sinaaṅ pe sar the hum log nauha gar the
+  Farsh-e-azaa bichhaa ke main aai huṅ Madina
 
   6
   Sajjaad naatawaaṅ tha aankhoṅ se khuṅ rawaaṅ tha
-  Bimaar ko bacha ke maiṅ aai huṅ Madina
+  Bimaar ko bachaa ke main aai huṅ Madina
 
   7
   Baazu pe khasta tan ke ye daagh haiṅ rasan ke
-  Naana sitam utha ke maiṅ aai huṅ Madina
+  Naana sitam uthaa ke main aai huṅ Madina
 
   8
   Tukre chune badan ke Qaasim bin Hasan ke
-  Dulha use bana ke maiṅ aai huṅ Madina
+  Dulha use banaa ke main aai huṅ Madina
 
   9
   Mitti ko Karbala ki ye aap ki nawaasi
-  Khaak-e-shifa bana ke maiṅ aai huṅ Madina
+  Khaak-e-shifaa banaa ke main aai huṅ Madina
 
   10
   Athaara bhaaiyoṅ ki haae haae behen thi qaidi
-  Qaid-e-sitam nibha ke maiṅ aai huṅ Madina
+  Qaid-e-sitam nibhaa ke main aai huṅ Madina
 
   11
   Maisam ba roz-e-mahshar Rehaan bint-e-Haider
-  Zainab kahe gi aa ke maiṅ aai huṅ Madina
+  Zainab kahe gi aa ke main aai huṅ Madina
 ---
 
 رو رو کے پکاری نانا کی دلاری

@@ -29,11 +29,11 @@ romanLyrics: |-
 
   3
   Bas tir hai chalne ab Asghar ke gale par
-  Zaalim ki maiṅ khamra kamaaṅ dekh raha huṅ
+  Zaalim ki maiṅ qamra kamaaṅ dekh raha huṅ
 
   4
   Jis rukh ke liye karte the bose shaah-e-waala
-  Us rukh pe tamaachoṅ ke nishaaṅ dekh raha huṅ
+  Us rukh pe tamaanchoṅ ke nishaaṅ dekh raha huṅ
 
   5
   Maqtal meiṅ kahaaṅ saani-e-Zehra ki rida hai
@@ -44,11 +44,11 @@ romanLyrics: |-
   Ujra hua Zainab ka makaaṅ dekh raha huṅ
 
   7
-  Maa baap behan bhai phuphi aur aizza
+  Maaṅ baap behan bhai phuphi aur aizza
   Ik tir meiṅ kitnoṅ ki maiṅ jaaṅ dekh raha huṅ
 
   8
-  Gohar hai jahaaṅ dafn Saqifa ki shahida
+  Gohar hai jahaaṅ dafn Saqifa ki shahidaaṅ
   Us qabr ko benaam o nishaaṅ dekh raha huṅ
 ---
 امام پردہء غیبت سے دے رہے ہیں صدا

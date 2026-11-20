@@ -32,7 +32,7 @@ romanLyrics: |-
   Haye Haidar-e-Karraar
 
   4
-  Amma ke janaaze ko bhi uthte hue dekha
+  Ammaṅ ke janaaze ko bhi uthte hue dekha
   Ab Zainab o Kulsum hai baaba ki azaadaar
   Haye Haidar-e-Karraar
 
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Hasnain ne baaba ke janaaze ko uthaaya
-  Ek arsh ke kaandhe pe hai ek arsh namudaar
+  Ik arsh ke kaandhe pe hai ik arsh namudaar
   Haye Haidar-e-Karraar
 
   9

@@ -1,96 +1,183 @@
 ---
-title: "Tu Hai Bara Rehman Maula"
+title: "تو ہے بڑا رحمان مولا"
+alternateTitle: "Tu Hai Bara Rehman Maula"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tu hai bara Rehman Maula, tu bara Rehman
+
+  1
+  Ahsan hum pe hai tera aye Rab-e-Zuljalal
+  Ummat mein oss ki paida kiya jo hai be misal
+  Dukhtar Batool jis ki Hasan our Hussain lal
+  Lahmoka lahmi jiska Ali jaisa ba kamal
+  Quran-o-Ahl-e-Bait ko tu ne kiya yak jaan
+
+  2
+  Aadam se taba Mehdi-e-aakhir teri atta
+  Tere karam ke bar talay sare anbiya
+  Mosa ke haq mein Neel mein rasta bana diya
+  Masloob ho ke Esa ke lab par thi yeh sada
+  Har dil mein tu maken hai kehne ko la makaan
+
+  3
+  Naat-e-Nabi hai zikar-e-Khuda zikar-e-Panjtan
+  Soraj Khuda ki zaat hai mera Nabi kiran
+  Jis ke liye falak ko banaya gaya dulhan
+  Mairaj ki woh raat Muhammad ka woh sukhan
+  Quran mein likha hai Khuda ne woh hi biyaan
+
+  4
+  Hathoon pe jiske sang bhi karne lagay kalam
+  Bheja darood chand ne soraj kare salam
+  Wal-Najam jis ki subha hai wal-Lail jis ki sham
+  Mere Nabi ke dar ke farishte bhi hain ghulam
+  Quran ke liye hain yeh in ke liye Quraan
+
+  5
+  Mairaj par gaye jo Rasool-e-falak janab
+  Mabood-o-abd mein na raha jab koi hijab
+  Allah ne Nabi se kiya oss ghari khitab
+  Darkar kiya hai tum ko mujhe chahiye jawab
+  Bolay Rasool bakhsh de ummat ko de amaan
+
+  6
+  Rab ne kaha ada karo haq-e-pyamberi
+  Jis waqt aaye rah mein manzil Ghadeer ki
+  Takmeel-e-deen karna hai oss waqt aye Nabi
+  Maidan-e-Khum mein iss tarha Maula hoye Ali
+  Akmaltu lakum deen ka ho jaye ga samaan
+
+  7
+  Zahra ke ghar sitara jo utra tu yeh khula
+  Mehboob Panjtan ko bohat rakhta hai Khuda
+  Maktab Hasan Hussain ka yeh ghar bana raha
+  Masnad Nabi ki iss mein musalla Ali ka tha
+  Chokhat pe jis ki rehta hai Jibreel sa darbaan
+
+  8
+  Iss ghar ka fard fard Khuda se tha humkalam
+  Sajday mein sar Hussain ka lab par Khuda ka naam
+  Khanjar talay Khuda se yeh kehte rahe imam
+  Sar teri nazar karta hoon ghar de chuka tamam
+  Aata hoon teri simt main deta howa azaan
+
+  9
+  Akbar nisar kar diya Asghar bhi de diya
+  Abbas our Qasim-o-Hur ko bhi ro chuka
+  Zainab ke dono bachoon ko sehra mein kho chuka
+  Ab dast-e-zulm chadar-e-Zainab tak aa gaya
+  Le dekh le Hussain ke chehray ka itmenaa
+
+  10
+  Khaimon se aag aag se uthata howa dhowaan
+  Nana sa aik jhola hai sholon ke darmiyaan
+  Daman jala Sakina ka kaisay bhujaye maa
+  Bandhi gayi hain hathoon mein Zainab ke reesma
+  Ujra howa hai qafila Sajjad sarbaan
+
+  11
+  Aayi sada Hussain ki aye Qadir-o-Qadeer
+  Beti Ali ki meri behan ho gayi aseer
+  Be dast mera bhai hai tu sab ka dastgeer
+  Kofay ki shehzadiyaan kaisay hoin faqeer
+  Phir bhi main nook-e-naiza pe deta hoon yeh biyaan
+
+  12
+  Hamd-e-Khuda hai naat-e-Nabi zikar-e-Panjtan
+  Iss ke siwa tu kuch bhi nahi hai mera sukhan
+  Yaad-e-Hussain hai mera sarmaya-e-nehan
+  Hai Karbala ki khak se aasoda jo badan
+  Kaisay fishar-e-qabar ho phir Sarwar-o-Rehaan
 ---
 
-Tu hai bara Rehman Maula, tu bara Rehman
+تو ہے بڑا رحمان مولا، تو بڑا رحمان
 
-1
-Ahsan Hum Pe Hai Tera Aye Rab-e-Zuljalal.
-Ummat Mein Oss Ki Paida Kiya Jo Hai Be Misal.
-Dukhtar Batool Jis Ki Hasan Our Hussain Lal.
-Lahmoka Lahmi Jiska Ali Jaisa Ba Kamal.
-Quran-o-Ahl-e-Bait Ko Tu Ne Kiya Yak Jaan.
+۱
+احسان ہم پہ ہے تیرا اے ربِ ذوالجلال
+امت میں اس کی پیدا کیا جو ہے بے مثال
+دختر بتول جس کی حسن اور حسین لال
+لَحْمُکَ لَحْمِی جس کا علی جیسا باکمال
+قرآن و اہلِ بیت کو تو نے کیا یک جان
 
-2
-Aadam Se Taba Mehdi-e-Aakhir Teri Atta.
-Tere Karam Ke Bar Talay Sare Anbiya.
-Mosa Ke Haq Mein Neel Mein Rasta Bana Diya.
-Masloob Ho Ke Esa Ke Lab Par Thi Yeh Sada.
-Har Dil Mein Tu Maken Hai Kehne Ko La Makaan.
+۲
+آدم سے تا بہ مہدیِ آخر تیری عطا
+تیرے کرم کے بار تلے سارے انبیا
+موسیٰ کے حق میں نیل میں رستہ بنا دیا
+مصلوب ہو کے عیسیٰ کے لب پر تھی یہ صدا
+ہر دل میں تو مکین ہے کہنے کو لا مکاں
 
-3
-Naat-e-Nabi Hai Zikar-e-Khuda Zikar-e-Panjtan.
-Soraj Khuda Ki Zaat Hai Mera Nabi Kiran.
-Jis Ke Liye Falak Ko Banaya Gaya Dulhan.
-Mairaj Ki Woh Raat Muhammad Ka Woh Sukhan.
-Quran Mein Likha Hai Khuda Ne Woh Hi Biyaan.
+۳
+نعتِ نبی ہے ذکرِ خدا ذکرِ پنجتن
+سورج خدا کی ذات ہے میرا نبی کرن
+جس کے لیے فلک کو بنایا گیا دلہن
+معراج کی وہ رات محمد کا وہ سخن
+قرآن میں لکھا ہے خدا نے وہی بیاں
 
-4
-Hathoon Pe Jiske Sang Bhi Karne Lagay Kalam.
-Bheja Darood Chand Ne Soraj Kare Salam.
-Wal-Najam Jis Ki Subha Hai Wal-Lail Jis Ki Sham.
-Mere Nabi Ke Dar Ke Farishte Bhi Hain Ghulam.
-Quran Ke Liye Hain Yeh In Ke Liye Quraan.
+۴
+ہاتھوں پہ جس کے سنگ بھی کرنے لگے کلام
+بھیجا درود چاند نے سورج کرے سلام
+والنجم جس کی صبح ہے واللیل جس کی شام
+میرے نبی کے در کے فرشتے بھی ہیں غلام
+قرآن کے لیے ہیں یہ ان کے لیے قرآن
 
-5
-Mairaj Par Gaye Jo Rasool-e-Falak Janab.
-Mabood-o-Abd Mein Na Raha Jab Koi Hijab.
-ALLAH Ne Nabi Se Kiya Oss Ghari Khitab.
-Darkar Kiya Hai Tum Ko Mujhe Chahiye Jawab.
-Bolay Rasool Bakhsh De Ummat Ko De Amaan.
+۵
+معراج پر گئے جو رسولِ فلک جناب
+معبود و عبد میں نہ رہا جب کوئی حجاب
+اللہ نے نبی سے کیا اس گھڑی خطاب
+درکار کیا ہے تم کو مجھے چاہیے جواب
+بولے رسول بخش دے امت کو دے اماں
 
-6
-Rab Ne Kaha Ada Karo Haq-e-Pyamberi.
-Jis Waqt Aaye Rah Mein Manzil Ghadeer Ki.
-Takmeel-e-Deen Karna Hai Oss Waqt Aye Nabi.
-Maidan-e-Khum Mein Iss Tarha Maula Hoye Ali.
-Akmaltu Lakum Deen Ka Ho Jaye Ga Samaan.
+۶
+رب نے کہا ادا کرو حقِ پیمبری
+جس وقت آئے رہ میں منزل غدیر کی
+تکمیلِ دین کرنا ہے اس وقت اے نبی
+میدانِ خم میں اس طرح مولا ہوئے علی
+أَكْمَلْتُ لَكُمْ دین کا ہو جائے گا ساماں
 
-7
-Zahra Ke Ghar Sitara Jo Utra Tu Yeh Khula.
-Mehboob Panjtan Ko Bohat Rakhta Hai Khuda.
-Maktab Hasan Hussain Ka Yeh Ghar Bana Raha.
-Masnad Nabi Ki Iss Mein Musalla Ali Ka Tha.
-Chokhat Pe Jis Ki Rehta Hai Jibreel Sa Darbaan.
+۷
+زہرا کے گھر ستارہ جو اترا تو یہ کھلا
+محبوب پنجتن کو بہت رکھتا ہے خدا
+مکتب حسن حسین کا یہ گھر بنا رہا
+مسند نبی کی اس میں مصلیٰ علی کا تھا
+چوکھٹ پہ جس کی رہتا ہے جبرئیل سا درباں
 
-8
-Iss Ghar Ka Fard Fard Khuda Se Tha Humkalam.
-Sajday Mein Sar Hussain Ka Lab Par Khuda Ka Naam.
-Khanjar Talay Khuda Se Yeh Kehte Rahe Imam.
-Sar Teri Nazar Karta Hoon Ghar De Chuka Tamam.
-Aata Hoon Teri Simt Main Deta Howa Azaan.
+۸
+اس گھر کا فرد فرد خدا سے تھا ہم کلام
+سجدے میں سر حسین کا لب پر خدا کا نام
+خنجر تلے خدا سے یہ کہتے رہے امام
+سر تیری نذر کرتا ہوں گھر دے چکا تمام
+آتا ہوں تیری سمت میں دیتا ہوا اذان
 
-9
-Akbar Nisar Kar Diya Asghar Bhi De Diya.
-Abbas Our Qasim-o-Hur Ko Bhi Ro Chuka.
-Zainab Ke Dono Bachoon Ko Sehra Mein Kho Chuka.
-Ab Dast-e-Zulm Chadar-e-Zainab Tak Aa Gaya.
-Le Dekh Le Hussain Ke Chehray Ka Itmenaa.
+۹
+اکبر نثار کر دیا اصغر بھی دے دیا
+عباس اور قاسم و حر کو بھی رو چکا
+زینب کے دونوں بچوں کو صحرا میں کھو چکا
+اب دستِ ظلم چادرِ زینب تک آ گیا
+لے دیکھ لے حسین کے چہرے کا اطمینان
 
-10
-Khaimon Se Aag Aag Se Uthata Howa Dhowaan.
-Nana Sa Aik Jhola Hai Sholon Ke Darmiyaan.
-Daman Jala Sakina Ka Kaisay Bhujaye Maa.
-Bandhi Gayi Hain Hathoon Mein Zainab Ke Reesma.
-Ujra Howa Hai Qafila Sajjad Sarbaan.
+۱۰
+خیموں سے آگ آگ سے اٹھتا ہوا دھواں
+ننھا سا ایک جھولا ہے شعلوں کے درمیاں
+دامن جلا سکینہ کا کیسے بجھائے ماں
+باندھی گئی ہیں ہاتھوں میں زینب کے ریسماں
+اجڑا ہوا ہے قافلہ سجاد سارباں
 
-11
-Aayi Sada Hussain Ki Aye Qadir-o-Qadeer.
-Beti Ali Ki Meri Behan Ho Gayi Aseer.
-Be Dast Mera Bhai Hai Tu Sab Ka Dastgeer.
-Kofay Ki Shehzadiyaan Kaisay Hoin Faqeer.
-Phir Bhi Main Nook-e-Naiza Pe Deta Hoon Yeh Biyaan.
+۱۱
+آئی صدا حسین کی اے قادر و قدیر
+بیٹی علی کی میری بہن ہو گئی اسیر
+بے دست میرا بھائی ہے تو سب کا دستگیر
+کوفے کی شہزادیاں کیسے ہوئیں فقیر
+پھر بھی میں نوکِ نیزہ پہ دیتا ہوں یہ بیاں
 
-12
-Hamd-e-Khuda Hai Naat-e-Nabi Zikar-e-Panjtan.
-Iss Ke Siwa Tu Kuch Bhi Nahi Hai Mera Sukhan.
-Yaad-e-Hussain Hai Mera Sarmaya-e-Nehan.
-Hai Karbala Ki Khak Se Aasoda Jo Badan.
-Kaisay Fishar-e-Qabar Ho PhirSarwar-o-Rehaan.
+۱۲
+حمدِ خدا ہے نعتِ نبی ذکرِ پنجتن
+اس کے سوا تو کچھ بھی نہیں ہے میرا سخن
+یادِ حسین ہے میرا سرمایۂ نہاں
+ہے کربلا کی خاک سے آسودہ جو بدن
+کیسے فشارِ قبر ہو پھر سرور و ریحان

@@ -7,6 +7,85 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jis dam Husain zin se aaye zamin par
+  Aaṅkhoṅ mein khaak aur badan tha lahu mein tar
+  Jab sar uthaa ke dekha to dhundla gai nazar
+  Dekha koi zaifa chali aati hai idhar
+  Amaaṅ ki khushbu aai to uthne lage Husain
+  Taazim jab na ho saki kehne lage Husain
+
+  2
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+  Mil ke nau laakh ne itna mujhe maara amaaṅ
+
+  3
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  4
+  Is se pehle ke meri beti ye dekhe aakar
+  Shimr se keh do utar jaaye mere sine se
+  Dekho soti hai yahaaṅ meri Sakina amaaṅ
+
+  5
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  6
+  Haaye pardes mein ye waqt hai kaisa ham par
+  Dekho tum paani pilaati thi jise uth uth kar
+  Aaj aaghosh mein mar jaaye ga pyaasa amaaṅ
+
+  7
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  8
+  Main ne dekha hai use chehre ke bal girte hue
+  Kat chuke haath mira bhaai uthe ga kaise
+  De ke aawaaz use tum na bulaana amaaṅ
+
+  9
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  10
+  Kurz talwaar o tabar neza o bhaala maara
+  Jis ko kuchh bhi na mila us ne tamancha maara
+  Mujh par barsaa diya jo haath mein aaya amaaṅ
+
+  11
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  12
+  Us ne dekha hai abhi sirf mira zakhmi badan
+  Larkharaate hue girti hai sambhalti hai behen
+  Kaise dekhe gi behen bhaai ka marna amaaṅ
+
+  13
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  14
+  Haaye Shabbir ne ye maaṅ se kaha ro ro kar
+  Chalne waala hai meri sukhi ragoṅ pe khanjar
+  Meri gardan pe abhi haath na rakhna amaaṅ
+
+  15
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  16
+  Kitne armaan mire dil mein hi dam tor gaye
+  Dekho tanha Ali Akbar bhi hamein chhor gaye
+  Chhid gaya barchhi se Akbar ka kaleja amaaṅ
+
+  17
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
+
+  18
+  Aakhri waar hua kat gaya Shabbir ka sar
+  Maaṅ tarapti rahi Zishaan o Raza ro ro kar
+  Gunjta reh gaya maqtal mein ye nauha amaaṅ
+
+  19
+  Zakhm itne hain ke uthaa nahiṅ jaata amaaṅ
 ---
 
 ۱

@@ -15,7 +15,7 @@ romanLyrics: |-
   Ae paalne wale ae paalne wale
   Ik baap kaleje se sina kaise nikaale
 
-  Hum naad-e-Ali parhte haiṅ aa jaayega aaraam
+  Hum naad-e-Ali parhte haiṅ aa jaaye ga aaraam
   Yuṅ eriyaaṅ ragro na mere gesuoṅ wale
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Yaaṅ garm lahu behta tha Akbar ke jigar se
-  Parte the kaleje pe wahaaṅ Laila ke chhaale
+  Parhte the kaleje pe wahaaṅ Laila ke chhaale
 
   3
   Shaayad de jawaab apni behen ka Ali Akbar

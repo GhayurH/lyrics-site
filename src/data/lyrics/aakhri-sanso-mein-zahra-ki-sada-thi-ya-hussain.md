@@ -1,6 +1,6 @@
 ---
 title: "آخری سانسوں میں زہرا کی صدا تھی یا حسین"
-alternateTitle: "Aakhri Sanso Mein Zahra Ki Sada Thi Ya Hussain"
+alternateTitle: "Aakhri Saansoṅ Mein Zahra Ki Sada Thi Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri sanso mein Zahra ki sada thi ya Hussain
-  Baad mere Fizza ko tum maa bolana ya Hussain
+  Aakhri saansoṅ mein Zahra ki sada thi ya Husain
+  Baad mere Fizza ko tum maaṅ bulana ya Husain
 
   1
-  Aa ke ruktay they jahan khud bhi Rasool-e-Do jahan
-  Main bhula sakti nahi woh dar jalana ya Hussain
-  Jis tarha Haider ko mana na imam-e-waqt hai
-  Oss tarha tum ko na manay ga zamana ya Hussain
+  Aa ke rukte the jahaaṅ khud bhi Rasul-e-do jahaaṅ
+  Main bhula sakti nahiṅ woh dar jalana ya Husain
+  Jis tarah Haider ko maana na imam-e-waqt hai
+  Us tarah tum ko na maane ga zamana ya Husain
 
   2
-  Qatal-e-mohsin jis tarha se kar diya ashab ne
-  Khon Asghar ka hai zalim ne bahana ya Hussain
-  Daal kar gardan mein rasi qaid Haider ko kiya
-  Qaidi ban kar Sham hai Abid ko aana ya Hussain
+  Qatl-e-Mohsin jis tarah se kar diya ashaab ne
+  Khun Asghar ka hai zalim ne bahana ya Husain
+  Daal kar gardan mein rassi qaid Haider ko kiya
+  Qaidi ban kar Shaam hai Abid ko aana ya Husain
 
   3
-  Main gayi darbar mein ashab ke haq mangney
-  Be rida Zainab ko hai darbar jana ya Hussain
-  Main ne totay hath se kurta siya Abbas ka
-  Baat yeh tum mere Ghazi ko batana ya Hussain
+  Main gayi darbar mein ashaab ke haq maangne
+  Be rida Zainab ko hai darbar jana ya Husain
+  Main ne tute haath se kurta siya Abbas ka
+  Baat yeh tum mere Ghaazi ko batana ya Husain
 
   4
-  Ho atta tum ko Sakina jaisay hi aye mere lal
-  Choti Zahra keh ke tum oss ko bolana ya Hussain
-  Jis tarha rukhsar zakhmi kan zakhmi hain mere
-  Zulm aisay hi sahey gi haye Sakina ya Hussain
+  Ho ata tum ko Sakina jaise hi ae mere laal
+  Chhoti Zahra keh ke tum us ko bulana ya Husain
+  Jis tarah rukhsaar zakhmi kaan zakhmi haiṅ mere
+  Zulm aise hi sahe gi haaye Sakina ya Husain
 
   5
-  Dekh kar mar jaye na Akbar ka lasha dasht mein
-  Lasha-e-Akbar ko Zainab se chupana ya Hussain
-  Bach na paein gay adoye Fatima, Zeeshan tab
-  Hoga mere maula Mehdi ka jab aana ya Hussain
+  Dekh kar mar jaaye na Akbar ka lasha dasht mein
+  Lasha-e-Akbar ko Zainab se chhupana ya Husain
+  Bach na paaeṅ ge adu-e-Fatima, Zeeshan tab
+  Hoga mere maula Mehdi ka jab aana ya Husain
 ---
 
 آخری سانسوں میں زہرا کی صدا تھی یا حسین

@@ -10,50 +10,50 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abu Talib ki yeh nishani hai – Saqlain Akbar
-  Oss ki har baat aasmani hai
+  Abu Talib ki yeh nishaani hai - Saqlain Akbar
+  Us ki har baat aasmaani hai
 
   1
-  Dar-e-Imran poray aalam mein
-  Pehli dewar-e-meharbani hai
-  Rab-e-arbab bas Muhammad ke
-  Palney walay ki kahani hai
+  Dar-e-Imran pure aalam meiṅ
+  Pehli diwaar-e-meharbaani hai
+  Rab-e-arbaab bas Muhammad ke
+  Paalne waale ki kahaani hai
 
   2
-  Abu Talib jo parh rahe hain nikah
-  Yeh tu Quraan ki paish khuwani hai
-  Abutalib, Abu Turab, Rasool
-  Al Hafeezo ka itna mani hai
+  Abu Talib jo parh rahe haiṅ nikaah
+  Yeh to Quraan ki pesh khwaani hai
+  Abu Talib, Abu Turab, Rasul
+  Al Hafizu ka itna maani hai
 
   3
-  Abu Talib ko de diya Kaba
-  Yeh hi tafseer-e-la makani hai
-  Aal-e-Imran ka kalam jadeed
-  Baqi har guftgu porani hai
+  Abu Talib ko de diya Kaaba
+  Yeh hi tafsir-e-laamakaani hai
+  Aal-e-Imran ka kalaam-e-jadid
+  Baaqi har guftagu puraani hai
 
   4
-  Shaib e Imran misra e ola
-  Karbala oss ki fard-e-sani hai
-  Yarzoqo man yashao ki aayat
-  Abu Talib ki tarjumani hai
+  Shib-e-Imran misra-e-ula
+  Karbala us ki fard-e-saani hai
+  Yarzuqu man yashaa ki aayat
+  Abu Talib ki tarjumaani hai
 
   5
-  Shan-e-Imran ke manafi hoon
-  Jo bhi ashar bad zabani hai
-  Kaisa kafir hai jis ke betay ki?
-  Shab-e-Mairaj mezbani hai
+  Shaan-e-Imran ke manaafi huṅ
+  Jo bhi ashaar bad zabaani hai
+  Kaisa kaafir hai jis ke bete ki?
+  Shab-e-Meraaj mezbaani hai
 
   6
-  Main ne Qayam ko unn ke dada ki
-  Aik din manqabat sonani hai
-  Aal-e-Imran Qayam-o-daim
-  Baqi dunya tamam fani hai
+  Main ne Qaaim ko un ke daada ki
+  Aik din manqabat sunaani hai
+  Aal-e-Imran Qaaim o daaim
+  Baaqi duniya tamaam faani hai
 
   7
-  Aks-e-Imran Akbar-o-Asghar
-  Wohi bachpan wohi jawani hai
-  Hai faqeer-e-dar-e-Abu Talib
-  Kyunke Saqlain khandani hai
+  Aks-e-Imran Akbar o Asghar
+  Wohi bachpan wohi jawaani hai
+  Hai faqir-e-dar-e-Abu Talib
+  Kiunke Saqlain khaandaani hai
 ---
 
 ابو طالب کی یہ نشانی ہے – ثقلین اکبر

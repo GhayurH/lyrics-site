@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Sehra utha ke laayi hai mayyat pe teri maaṅ
-  Dulha tumheṅ banaane ke ye din hai meri jaaṅ
+  Dulha tumhi banaane ke ye din hai meri jaaṅ
   Akbar jawaaṅ abhi tere marne ke din na the
 
   3
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Behnoṅ ne tujh ko mehndi lagaani thi haath par
-  Kubra bhi hai sirhaane Sakina bhi hai magar
+  Kubra bhi hai sirhaane bhi hai magar
   Afsos meri Sughra na mil paayi bhaai se
 
   6

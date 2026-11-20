@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Gham meiṅ dube haiṅ Shaah-e-Madina
-  Phat raha hai Bober sab ka sina
+  Phat raha hai Bober ka sina
   Har jagah aaj maatam hai barpa
 ---
 تھا مدینے میں اک شور گریہ

@@ -1,6 +1,6 @@
 ---
 title: "رقم ہے واقعہ تاریخ میں لوگوں ایسے"
-alternateTitle: "Mehman Hoo Karbala"
+alternateTitle: "Mehmaan Huṅ Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Raqm hai waqeya tarikh meiṅ logoṅ aise
-  De chuke ghusl o kafan fatema zehra ko ali
-  Ro ke phir aap ne hasnain se zainab se kaha
-  Aakhri waqt hai dedaar karo maa ka sabhi
-  Sunke baba ki sada aaye Hasan aur zainab
-  Aur na mayyat ke kareeb aaye Husain ibne ali
-  Karbala ka hoo mai mehman sada do amma
-  Roke shabbir ye bole ke mai aaunga tabhi
-  Amma amma mehman hoo mai karbobala ka
-  Ek baar sada de ke kaleje se lagalo
-  Dil ko mai sambhalunga mujhe tum to sambhalo
-  Jo aag hai sine meiṅ zara usko bujhalo
-  Hai aakhri dedaar sada deke bulalo
-  Ye hi hoga jine ke liye mera sahara
-  Amma amma mehman hoo...
-  Pehle hi muqaddar meiṅ bahot ranj o alam the
-  Ab tum bhi mujhe chor ke jaati ho jahaṅ se
-  Qabu na raha qalb pe gham tute hai aise
-  Sab jaanta hoo aap ne sadme jo uthaye
-  Kaise bhuluṅ mai aap ke sadmoṅ ko khudara
-  Amma amma mehman hoo...
-  Ek din meiṅ bahattar ke uthaunga mai laashe
-  Shikwa na magar lab pe mere hoga khuda se
-  Khojayenge is dasht meiṅ sab godh ke paale
-  Asghar hoke ya qasim hoke ya zainab ke dulaare
-  Dunya meri is tarha ujadenge ye aada
-  Amma amma mehman hoo...
-  Chin jayegi har chiz meri dashte bala meiṅ
-  Khun hoga jawaaṅ laal ka zainab ki rida meiṅ
-  Ho jaunga beaas jo mai dashte bala meiṅ
-  Hal min ki sada goonjegi us waqt fiza meiṅ
-  Us dam koi na aake mujhe dega sahara
-  Amma amma mehman hoo...
-  Khojayenge sab karbobala meiṅ mere atfaal
-  Abbas sa bhai hoke akbar sa jawaaṅ laal
-  Hojayega us waqt behan ka bhi bura haal
-  Ho jaunga jis waqt sare dasht meiṅ pamaal
-  Hoga zaamin zainab ke liye naam khuda ka
-  Amma amma mehman hoo...
-  Bazaar meiṅ zainab ko phirayenge sitamgar
-  Har mor pe aulaad e ali khayegi pathar
-  Kaanto pe chalega wo mera abid e muztar
-  Gir jayegi naaqe se sakina meri duhktar
-  Tum hi to phir bachi ko wahaṅ dogi dilaasa
-  Amma amma mehman hoo...
-  Mazhar mai likhuṅ lafz wo khirtaas pe kaise
-  Jab bande kafan khulne lage binte nabi ke
-  Safdar ye kaha bibi ne haye mere bache
+  Raqm hai waqeya taarikh meiṅ logoṅ aise
+  De chuke ghusl o kafan Fatema Zehra ko Ali
+  Ro ke phir aap ne Hasnain se Zainab se kaha
+  Aakhri waqt hai didaar karo maaṅ ka sabhi
+  Sun ke baba ki sada aaye Hasan aur Zainab
+  Aur na mayyat ke qarib aaye Husain Ibn-e-Ali
+  Karbala ka huṅ main mehmaan sada do ammaṅ
+  Ro ke Shabbir ye bole ke main aauṅ ga tabhi
+  Ammaṅ ammaṅ mehmaan huṅ main Karb o Bala ka
+  Ik baar sada de ke kaleje se laga luṅ
+  Dil ko main sambhaaluṅ ga mujhe tum to sambhaalo
+  Jo aag hai sine meiṅ zara us ko bujha lo
+  Hai aakhri didaar sada de ke bula lo
+  Yahi hoga jine ke liye mera sahaara
+  Ammaṅ ammaṅ mehmaan huṅ...
+  Pehle hi muqaddar meiṅ bahut ranj o alam the
+  Ab tum bhi mujhe chhor ke jaati ho jahaaṅ se
+  Qaabu na raha qalb pe gham tute haiṅ aise
+  Sab jaanta huṅ aap ne sadma jo uthaaye
+  Kaise bhuluṅ main aap ke sadmoṅ ko khudaara
+  Ammaṅ ammaṅ mehmaan huṅ...
+  Ik din meiṅ bahattar ke uthaauṅ ga main laashe
+  Shikwa na magar lab pe mere hoga Khuda se
+  Kho jaayeṅ ge is dasht meiṅ sab god ke paale
+  Asghar ho ke ya Qasim ho ke ya Zainab ke dulaare
+  Duniya meri is tarah ujaareṅ ge ye ada
+  Ammaṅ ammaṅ mehmaan huṅ...
+  Chhin jaaye gi har chiz meri dasht-e-bala meiṅ
+  Khun hoga jawaaṅ laal ka Zainab ki rida meiṅ
+  Ho jaauṅ ga beaas jo main dasht-e-bala meiṅ
+  Hal min ki sada gunje gi us waqt fiza meiṅ
+  Us dam koi na aa ke mujhe de ga sahaara
+  Ammaṅ ammaṅ mehmaan huṅ...
+  Kho jaayeṅ ge sab Karb o Bala meiṅ mere atfaal
+  Abbas sa bhaai ho ke Akbar sa jawaaṅ laal
+  Ho jaayeṅ ge us waqt behan ka bhi bura haal
+  Ho jaauṅ ga jis waqt sar-e-dasht meiṅ paamaal
+  Hoga zaamin Zainab ke liye naam Khuda ka
+  Ammaṅ ammaṅ mehmaan huṅ...
+  Baazaar meiṅ Zainab ko phiraayeṅ ge sitamgar
+  Har mor pe aulaad-e-Ali khaaye gi patthar
+  Kaantoṅ pe chale ga wo mera Abid-e-Muztar
+  Gir jaaye gi naaqe se Sakina meri dukhtar
+  Tum hi to phir bachchi ko wahaaṅ do gi dilaasa
+  Ammaṅ ammaṅ mehmaan huṅ...
+  Mazhar main likhuṅ lafz wo qirtaas pe kaise
+  Jab band-e-kafan khulne lage Bint-e-Nabi ke
+  Safdar ye kaha Bibi ne haaye mere bachche
   Lag ja mere sine se mere naazoṅ ke paale
-  Kaise hoga karbal meiṅ mera laal akela
-  Amma amma mehman hoo...
+  Kaise hoga Karbal meiṅ mera laal akela
+  Ammaṅ ammaṅ mehmaan huṅ...
 ---
 
 ۱

@@ -1,28 +1,55 @@
 ---
-title: "Khairan Mangdi Sughra Akbar Veer Diyan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "خیراں منگدی صغریٰ اکبر ویر دیاں"
+alternateTitle: "Khairan Mangdi Sughra Akbar Veer Diyan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khairan mangdi Sughra Akbar veer diyan
+  Qabr e Nabi te ro ro nanay di tasveer diyan
+
+  1
+  Lagda ay veer Akbar, tere qadam nishanan te
+  Muk janiya ne saawan veeran hamsheer diyan
+
+  2
+  Ek shehr Madinay vich, dooji Shaam bazaran vich
+  Enj dheeyan rulgaiyan ne loko Shabbir diyan
+
+  3
+  Vich khwaab de me takeya, puphiyan ne beridawan
+  Junglan ch rul gaiyan ney Waris Tatheer diyan
+
+  4
+  Teri zindagi da deewa ballda nai mere kolun, gallan sunn laiya ne ehney barchi tey teer diyan
+
+  5
+  Har door vich muhafiz, Ghazi Abbas tera
+  Asghar nu eh duawan murshad chan peer diyan
 ---
 
-Khairan Mangdi Sughra Akbar Veer Diyan…
+خیراں منگدی صغریٰ اکبر ویر دیاں
+قبرِ نبی تے رو رو نانے دی تصویر دیاں
 
-Sani) Qabr e Nabi Te Ro Ro Nanay Di Tasveer Diyan…
+۱
+لگدا اے ویر اکبر، تیرے قدم نشاناں تے
+مک جانیاں نے ساہواں ویراں ہمشیر دیاں
 
-Antra) Lagda Ay Veer Akbar, Tere Qadam Nishanan Te
-Muk Janiya Ne Saawan Veeran Hamsheer Diyan…
+۲
+اک شہر مدینے وچ، دوجی شام بازاراں وچ
+اینج دھیاں رل گئیاں نے لوکو شبیر دیاں
 
-Antra) Ek Shehr Madinay Vich, Dooji Shaam Bazaran Vich
-Enj Dheeyan Rulgaiyan Ne Loko Shabbir Diyan…
+۳
+وچ خواب دے میں تکیا، پھپھیاں نے بے رداواں
+جنگلاں چ رل گئیاں نے وارثِ تطہیر دیاں
 
-Antra) Vich Khwaab De Me Takeya, Puphiyan Ne Beridawan
-Junglan Ch Rul Gaiyan ney Waris Tatheer Diyan…
+۴
+تیری زندگی دا دیوا بلدّا نئیں میرے کولوں، گلاں سن لئیاں نے ایہنے برچھی تے تیر دیاں
 
-Antra) Teri zindagi da deewa ballda nai mere kolun,gallan sunn laiya ne ehney barchi tey teer diyan…
-
-Antra) Har Door Vich Muhafiz, Ghazi Abbas Tera =
-Asghar Nu Eh Duawan Murshad Chan Peer Diyan…
+۵
+ہر دور وچ محافظ، غازی عباس تیرا
+اصغر نوں ایہ دعاواں مرشد چن پیر دیاں

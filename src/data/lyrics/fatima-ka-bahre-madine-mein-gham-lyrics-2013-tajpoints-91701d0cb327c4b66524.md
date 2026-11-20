@@ -1,32 +1,54 @@
 ---
-title: "Fatima Ka Bahre Madine Mein Gham Lyrics 2013"
+title: "فاطمہ کا بھرے مدینے میں غم"
+alternateTitle: "Fatima Ka Bahre Madine Mein Gham"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Fatima ka bahre Madine mein gham batane koi nahi aya
+  Ghar jalne tu kalma go aye haye dar bhujane koi nahi aya
+
+  1
+  Kya wo Islam ka hi markaz tha kya Madina tha wo Muhammad ka
+  Lag rahe the jahan pe Zahra ke tazyane koi nahi aya
+  Rasiyaan thin Ali ki gardan mein our bazar se guzarte the
+  Sab tamashai ban ke takte rahe our chorane koi nahi aya
+
+  2
+  Ghar jala qatal ho gay Mohsin pasliyaan Syeda ki toot gayin
+  Phir bhi kehte ho tum keh Zahra per zulm dhane koi nahi aya
+  Khud hi chunne lagi Nabi zadi bikhari tehreer apne Baba ki
+  Mustafa ki sanad ke tukroon ko haye jab uthane koi nahi aya
+
+  3
+  Har sitam Fatima peh dhaya gaya jalta darwaza bhi giraya gaya
+  Apne Mehdi ko di sada oss ne haye jab bachane koi nahi aya
+  Aath Shawal ko hoi Akbar phr shahadat Nabi ki beti ki
+  Gir raha tha mazaar Bibi ka par bachane koi nahi aya
 ---
 
-Fatima Ka Bahre Madine Mein Gham Batane Koi Nahi Aya Write Up
-Ghar Jalne Tu Kalma Go Aye Haye Dar Bhujane Koi Nahi Aya.
+فاطمہ کا بھرے مدینے میں غم بٹانے کوئی نہیں آیا
+گھر جلنے تو کلمہ گو آئے ہائے در بجھانے کوئی نہیں آیا
 
-1
-Kya Wo Islam Ka Hi Markaz Tha Kya Madina Tha Wo Muhammad Ka.
-Lag Rahe The Jahan Pe Zahra Ke Tazyane Koi Nahi Aya.
-Rasiyaan Thin Ali Ki Gardan Mein Our Bazar Se Guzarte The.
-Sab Tamashai Ban Ke Takte Rahe Our Chorane Koi Nahi Aya.
+۱
+کیا وہ اسلام کا ہی مرکز تھا کیا مدینہ تھا وہ محمد کا
+لگ رہے تھے جہاں پہ زہرا کے تازیانے کوئی نہیں آیا
+رسیاں تھیں علی کی گردن میں اور بازار سے گزرتے تھے
+سب تماشائی بن کے تکتے رہے اور چھڑانے کوئی نہیں آیا
 
-2
-Ghar Jala Qatal Ho Gay Mohsin Pasliyaan Syeda Ki Toot Gayin.
-Phir Bhi Kehte Ho Tum Keh Zahra Per Zulm Dhane Koi Nahi Aya.
-Khud Hi Chunne Lagi Nabi Zadi Bikhari Tehreer Apne Baba Ki.
-Mustafa Ki Sanad Ke Tukroon Ko Haye Jab Uthane Koi Nahi Aya.
+۲
+گھر جلا قتل ہو گئے محسن پسلیاں سیدہ کی ٹوٹ گئیں
+پھر بھی کہتے ہو تم کہ زہرا پر ظلم ڈھانے کوئی نہیں آیا
+خود ہی چننے لگی نبی زادی بکھری تحریر اپنے بابا کی
+مصطفیٰ کی سند کے ٹکڑوں کو ہائے جب اٹھانے کوئی نہیں آیا
 
-3
-Har Sitam Fatima Peh Dhaya Gaya Jalta Darwaza Bhi Giraya Gaya.
-Apne Mehdi Ko Di Sada Oss Ne Haye Jab Bachane Koi Nahi Aya.
-Aath Shawal Ko Hoi Akbar Phr Shahadat Nabi Ki Beti Ki.
-Gir Raha Tha Mazaar Bibi Ka Par Bachane Koi Nahi Aya.
+۳
+ہر ستم فاطمہ پہ ڈھایا گیا جلتا دروازہ بھی گرایا گیا
+اپنے مہدی کو دی صدا اس نے ہائے جب بچانے کوئی نہیں آیا
+آٹھ شوال کو ہوئی اکبر پھر شہادت نبی کی بیٹی کی
+گر رہا تھا مزار بی‌بی کا پر بچانے کوئی نہیں آیا

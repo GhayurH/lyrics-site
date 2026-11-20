@@ -3,40 +3,71 @@ title: "ہے نوکروں کی جو قطار سیدہ"
 alternateTitle: "Hai Naukaroṅ Ki Jo Qataar Syeda"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hai nokaron ki jo qatar Syeda
+  Ho unn mein mera bhi shumar Syeda
+
+  1
+  Fidak rakhon main naam apne bachay ka
+  Karon main aap par nisar Syeda
+
+  2
+  Farishton ka hajoom kaisa hai yahan
+  Yeh dar pe taroon ka haisar Syeda
+
+  3
+  Tere jo lal par bahaya hai lahu
+  Hai chehray par ajab nikhar Syeda
+
+  4
+  Hai tere dar se rizq ka jo silsila
+  Ghulam ko nahi wachar Syeda
+
+  5
+  Qasam Khuda ki tere hath mein hai sab
+  Yeh do jahan ka ikhteyar Syeda
+
+  6
+  Yeh zulm par laeen jo nazaan hain bohat
+  Mita dein unn ka sab waqar Syeda
+
+  7
+  Diya jalana hai lehad pe aye Bi Bibi
+  Bala lein mujh ko ab ki bar Syeda
 ---
 
-Hai Nokaron Ki Jo Qatar Syeda
-Ho Unn Mein Mera Bhi Shumar Syeda
+ہے نوکروں کی جو قطار سیدہ
+ہو ان میں میرا بھی شمار سیدہ
 
-1
-Fidak Rakhon Main Naam Apne Bachay Ka
-Karon Main Aap Par Nisar Syeda
+۱
+فدک رکھوں میں نام اپنے بچے کا
+کروں میں آپ پر نثار سیدہ
 
-2
-Farishton Ka Hajoom Kaisa Hai Yahan
-Yeh Dar Pe Taroon Ka Haisar Syeda
+۲
+فرشتوں کا ہجوم کیسا ہے یہاں
+یہ در پہ تاروں کا حصار سیدہ
 
-3
-Tere Jo Lal Par Bahaya Hai Lahu
-Hai Chehray Par Ajab Nikhar Syeda
+۳
+تیرے جو لال پر بہایا ہے لہو
+ہے چہرے پر عجب نکھار سیدہ
 
-4
-Hai Tere Dar Se Rizq Ka Jo Silsila
-Ghulam Ko Nahi Wachar Syeda
+۴
+ہے تیرے در سے رزق کا جو سلسلہ
+غلام کو نہیں وچار سیدہ
 
-5
-Qasam Khuda Ki Tere Hath Mein Hai Sab
-Yeh Do Jahan Ka Ikhteyar Syeda
+۵
+قسم خدا کی تیرے ہاتھ میں ہے سب
+یہ دو جہاں کا اختیار سیدہ
 
-6
-Yeh Zulm Par Laeen Jo Nazaan Hain Bohat
-Mita Dein Unn Ka Sab Waqar Syeda
+۶
+یہ ظلم پر لعین جو نازاں ہیں بہت
+مٹا دیں ان کا سب وقار سیدہ
 
-7
-Diya Jalana Hai Lehad Pe Aye Bi Bibi
-Bala Lein Mujh Ko Ab Ki Bar Syeda
+۷
+دیا جلانا ہے لحد پہ اے بی بی‌بی
+بلا لیں مجھ کو اب کی بار سیدہ

@@ -11,23 +11,23 @@ tags: []
 aliases: ["awaaz-allamaa-ki"]
 published: true
 romanLyrics: |-
-  Awaz al-amaan ki khaimoṅ se aa rahi hai
+  Awaaz al-amaaṅ ki khaimoṅ se aa rahi hai
   Ghar Fatima ka mil kar ummat jala rahi hai
 
   1
   Bin baazuoṅ ke koi darya pe laash tarpi
-  Zainab ke sar chadar haye chhini jaa rahi hai
+  Zainab ke sar se chaadar haaye chhini gai
 
   2
-  Soye kahaṅ ho Asghar meri god kar ke viraṅ
+  Soye kahaaṅ ho Asghar meri god kar ke viraaṅ
   Maaṅ khainch ke jhule ki dori hila rahi hai
 
   3
-  Burqae meiṅ jis ko paala Zainab ne saal athara
-  Us ke lahu ki mehendi sar ko laga rahi hai
+  Burqe meiṅ jis ko paala Zainab ne saal athaara
+  Us ke lahu ki mehndi sar ko laga rahi hai
 
   4
-  Khamosh Umm-e-Farwa baithi hai khole gathri
+  Khaamosh Umm-e-Farwa baithi hai khole gathri
   Tasvir-e-Mustafa ko kaise bana rahi hai
 
   5
@@ -39,16 +39,16 @@ romanLyrics: |-
   Bimar-e-Karbala ko tanha utha rahi hai
 
   7
-  Haye Shaam-e-Gharibaṅ meiṅ mushkil kusha ki beti
-  Ban kar Abbas ya rab pehre pe aa rahi hai
+  Haaye Shaam-e-Gharibaaṅ meiṅ mushkil kusha ki beti
+  Ban kar Abbas ya Rab pehre pe aa rahi hai
 
   8
-  Jakre huwe rasan meiṅ hai haath phir bhi Zainab
-  Shabbir ke laashe se pathar hata rahi hai
+  Jakre hue rasan meiṅ hai haath phir bhi Zainab
+  Shabbir ke laashe se patthar hata rahi hai
 
   9
   Chaudah sau baras guzre Sardar hai haqiqat
-  Aal-e-Nabi pe ummat haye zulm dha rahi hai
+  Aal-e-Nabi pe ummat haaye zulm dhaa rahi hai
 ---
 آواز الاماں کی خیموں سے آ رہی ہے
 گھر فاطمہ کا مل کر امت جلا رہی ہے

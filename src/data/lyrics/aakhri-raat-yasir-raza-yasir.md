@@ -11,54 +11,54 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gash hai tari lab-e-mazloom pe jari hai biyaan
-  Mere ya Rab mere Khaliq aye mere Malik-e-jaan
-  Tera mazhar hoon main yani mera sani hai kahan
-  Meri hasti se hai zahir teri wahdat ka nishaan
-  Bawojod iss ke uthata raha main ranj-o-alam
-  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+  Ghash hai taari lab-e-mazlum pe jaari hai biyaaṅ
+  Mere ya Rab mere Khaaliq ae mere Maalik-e-jaaṅ
+  Tera mazhar huṅ main yaani mera saani hai kahaaṅ
+  Meri hasti se hai zaahir teri wahdat ka nishaaṅ
+  Baawujud is ke uthaata raha main ranj o alam
+  Seh ke jaata huṅ sitam Rab-e-Kaba ki qasam
 
   2
-  Tere mehboob ko pala hai mere baba ne
-  Oss ko seene se lagaya hai mere baba ne
-  Narga-e-kufar ko dhaya hai mere baba ne
-  Yani Islam bachaya hai mere baba ne
-  Phir bhi kafir kaha logon ne unhein haye sitam
-  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+  Tere mahbub ko paala hai mere baaba ne
+  Us ko sine se lagaaya hai mere baaba ne
+  Nargha-e-kufr ko dhaaya hai mere baaba ne
+  Yaani Islaam bachaaya hai mere baaba ne
+  Phir bhi kaafir kaha logoṅ ne unheṅ haaye sitam
+  Seh ke jaata huṅ sitam Rab-e-Kaba ki qasam
 
   3
-  Aye Khuda tera Nabi yani Muhammad aaqa
-  Farsh ta arsh parha jata hai jis ka kalma
-  Jis ne iss deen ki tableeg mein kya kuch na kiya
-  Phir bhi logon ne ossay ajar-e-risalat na diya
-  Oss ki maiyyat pe kiya sirf Ali ne matam
-  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+  Ae Khuda tera Nabi yaani Muhammad aaqa
+  Farsh ta arsh parha jaata hai jis ka kalma
+  Jis ne is din ki tabligh mein kya kuchh na kiya
+  Phir bhi logoṅ ne use ajr-e-risaalat na diya
+  Us ki mayyat pe kiya sirf Ali ne maatam
+  Seh ke jaata huṅ sitam Rab-e-Kaba ki qasam
 
   4
-  Bad-e-sarkar-e-nabi zulm-o-sitam dhaya gaya
-  Fatima Zahra ko darbar mein bulawa gaya
-  Our Tehreer-e-Muhammad ko bhi jhutlaya gaya
-  Jalta dar Fatima Sadiqa pe girwaya gaya
-  Ab tu bas dil mein mere pehlu shikasta ka hai gham
-  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+  Baad-e-sarkaar-e-Nabi zulm o sitam dhaaya gaya
+  Faatima Zahra ko darbaar mein bulaawa gaya
+  Aur tahrir-e-Muhammad ko bhi jhutlaaya gaya
+  Jalta dar Faatima Saadiqa pe girwaaya gaya
+  Ab to bas dil mein mere pehlu shikasta ka hai gham
+  Seh ke jaata huṅ sitam Rab-e-Kaba ki qasam
 
   5
-  Meri nazron mein hai ab mere Hasan ka lasha
-  Mujh ko aata hai nazar Karb-o-Bala ka sehra
-  Bazu Abbas ke Shabeer ka sar wawela
-  Be rida Zainab-o-Kulsoom safar Abid ka
-  Sochta hoon tu mere seene mein ruk jata hai dam
-  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+  Meri nazroṅ mein hai ab mere Hasan ka laasha
+  Mujh ko aata hai nazar Karb o Bala ka sehra
+  Baazu Abbas ke, Shabbir ka sar, waawaila
+  Be rida Zainab o Kulsum, safar Aabid ka
+  Sochta huṅ to mere sine mein ruk jaata hai dam
+  Seh ke jaata huṅ sitam Rab-e-Kaba ki qasam
 
   6
-  Khuda gawah hai Yasir keh bas Khuda ke siwa
-  Koi samajh nahi paya Ali ki tanhai
-  Hai dua tujh se Khudawand aye zaat-e-bari
-  Ta qayamat rahe yeh nasal-e-imamat jari
-  Aaye mushkil na kabhi mere muhibbon pe koi
-  Jald uz jald ho Allah Zahoor-e-Mehdi
-  Ta keh woh dushman-e-ajdad ke sar kar de qalam
-  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+  Khuda gawaah hai Yasir keh bas Khuda ke siwa
+  Koi samajh nahiṅ paaya Ali ki tanhaai
+  Hai dua tujh se Khudaawand ae zaat-e-baari
+  Ta qayaamat rahe yeh nasl-e-imaamat jaari
+  Aaye mushkil na kabhi mere muhibboṅ pe koi
+  Jald az jald ho Allah zuhur-e-Mehdi
+  Ta keh woh dushman-e-ajdaad ke sar kar de qalam
+  Seh ke jaata huṅ sitam Rab-e-Kaba ki qasam
 ---
 
 ۱

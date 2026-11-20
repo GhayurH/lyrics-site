@@ -16,19 +16,19 @@ romanLyrics: |-
 
   1
   Qatl ka mere lamha qarib aa gaya
-  Ek andhera sa chaaroṅ taraf chha gaya
+  Ak andhera sa chaaroṅ taraf chha gaya
   Waqt se pehle suraj bhi gehan aa gaya
-  Maiṅ huṅ tanha mera har sahaara gaya
+  Main huṅ tanha mera har sahaara gaya
 
   2
-  Chalte chalte faqat tum se hai ek sawaal
+  Chalte chalte faqat tum se hai ak sawaal
   Meri pyaari Sakina ka rakhna khayaal
   Bin mere zinda rehna hai is ko muhaal
   Meri bachchi ko hone na dena malaal
 
   3
   Jab giruṅ apne ghore se su-e-zamiṅ
-  Aur jhuka duṅ maiṅ sajde meiṅ apni jabiṅ
+  Aur jhuka duṅ main sajde mein apni jabiṅ
   Mujh ko zabh karega jo Shimr-e-laiṅ
   Tum na aa jaana khaime se baahar kahiṅ
 
@@ -45,20 +45,20 @@ romanLyrics: |-
   Har qadam par madadgaar hoga Khuda
 
   6
-  Yuṅ na gardish meiṅ aaya sitaara kabhi
+  Yuṅ na gardish mein aaya sitaara kabhi
   Yuṅ hue the na hum besahaara kabhi
-  Saath ek pal na chhuta hamaara kabhi
+  Saath ak pal na chhuta hamaara kabhi
   Ab na aayega bhaai tumhaara kabhi
 
   7
   Ae behan aisi bhi aayegi rehguzar
-  Jab mile tum ko raste meiṅ Shiriṅ ka ghar
+  Jab mile tum ko raste mein Shiriṅ ka ghar
   Aur pehchaan le tum ko Shiriṅ agar
   Kehna waada hua pura ae khushsiyar
 
   8
   So gaye khaak par tashna lab Shah-e-Diṅ
-  Jal gaye khaime aur chaadareiṅ chhin gayiṅ
+  Jal gaye khaime aur chaadareṅ chhin gayiṅ
   Ho gayi khaali Shabbir se ye zamiṅ
   Ek sada-e-alam aaj tak hai yahiṅ
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   Bhej Mehshar Gharib-ul-Watan par salaam
   Tashna lab khasta tan bekafan par salaam
   Shah ke ansaar par Panjatan par salaam
-  Ek bhaai pe aur ek behan par salaam
+  Ak bhaai pe aur ak behan par salaam
 reciter: "Nadeem Sarwar"
 ---
 

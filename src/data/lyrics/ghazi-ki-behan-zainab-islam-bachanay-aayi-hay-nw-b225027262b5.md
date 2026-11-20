@@ -1,32 +1,64 @@
 ---
-title: "Ghazi Ki Behan Zainab Islam Bachanay Aayi Hay"
+title: "غازی کی بہن زینب اسلام بچانے آئی ہے"
+alternateTitle: "Ghazi Ki Behan Zainab Islam Bachanay Aayi Hay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ghazi ki behan Zainab Islam bachanay aayi hay
+  Sohye howay gairat ummat ki khutbon say jaganay aayi hay
+
+  1
+  Allah ka ghar Shabbir ka ghar ya deen-e-Khuda ya apni rida
+  Kuch hay jo bachanay aaye hay kuch hay jo lutanay aayi hay
+
+  2
+  Shabbir nay jaltay sehra main shah rag kay kahoo say jo likhi
+  Us soorah-e-Kausar ki Zainab tafseer batanay aayi hay
+
+  3
+  Paband-e-rasan saar bay chadar ya Fateh Khaiber ki dukhtar
+  Lagta hay kay Kasar-e-Ummaya ki bunyad hilanay aayi hay
+
+  4
+  Allah say razi banday nay jo taigh talay saar rakh kay kiya
+  Us sajda-e-akhir ki Zainab touqeer barhanay aayi hay
+
+  5
+  Akbar ko chupa kar pala tha jis tarhay Abba kay daman main
+  Darbar main youn apnay pechay beemar chupanay aayi hay
+
+  6
+  Har rastay main har manzil par balon say liya parda Abid
+  Wo Alay Nabi ki hurmat ka ehsas dilanay aayi hay
 ---
 
-Ghazi Ki Behan Zainab Islam Bachanay Aayi Hay.
+غازی کی بہن زینب اسلام بچانے آئی ہے
+سوئے ہوئے غیرتِ امت کی خطبوں سے جگانے آئی ہے
 
-Sohye Howay Gairat Ummat Ki Khutbon Say Jaganay Aayi Hay.
+۱
+اللہ کا گھر شبیر کا گھر یا دینِ خدا یا اپنی ردا
+کچھ ہے جو بچانے آئے ہے کچھ ہے جو لٹانے آئی ہے
 
-Allah Ka Ghar Shabbir Ka Ghar Ya Deen-e-Khuda Ya Apni Rida
-Kuch Hay Jo Bachanay Aaye Hay Kuch Hay Jo Lutanay Aayi Hay.
+۲
+شبیر نے جلتے صحرا میں شہ رگ کے لہو سے جو لکھی
+اس سورۂ کوثر کی زینب تفسیر بتانے آئی ہے
 
-Shabbir Nay Jaltay Sehra Main Shah Rag Kay Kahoo Say Jo Likhi
-Us Soorah-e-kausar Ki Zainab Tafseer Batanay Aayi Hay.
+۳
+پابندِ رسن سر بے چادر یا فاتحِ خیبر کی دختر
+لگتا ہے کہ قصرِ امیہ کی بنیاد ہلانے آئی ہے
 
-Paband-e-rasan Saar Bay Chadar Ya Fateh Khaiber Ki Dukhtar
-Lagta Hay Kay Kasar-e-Ummaya Ki Bunyad Hilanay Aayi Hay.
+۴
+اللہ سے راضی بندے نے جو تیغ تلے سر رکھ کے کیا
+اس سجدۂ آخر کی زینب توقیر بڑھانے آئی ہے
 
-Allah Say Razi Banday Nay Jo Taigh Talay Saar Rakh Kay Kiya
-Us Sajda-e-akhir Ki Zainab Touqeer Barhanay Aayi Hay.
+۵
+اکبر کو چھپا کر پالا تھا جس طرح ابا کے دامن میں
+دربار میں یوں اپنے پیچھے بیمار چھپانے آئی ہے
 
-Akbar Ko Chupa Kar Pala Tha Jis Tarhay Abba Kay Daman Main
-Darbar Main Youn Apnay Pechay Beemar Chupanay Aayi Hay.
-
-Har Rastay Main Har Manzil Par Balon Say Liya Parda Abid
-Wo Alay Nabi Ki Hurmat Ka Ehsas Dilanay Aayi Hay.
+۶
+ہر راستے میں ہر منزل پر بالوں سے لیا پردہ عابد
+وہ آلِ نبی کی حرمت کا احساس دلانے آئی ہے

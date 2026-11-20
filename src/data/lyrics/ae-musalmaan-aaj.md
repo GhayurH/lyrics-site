@@ -15,7 +15,7 @@ romanLyrics: |-
   Tera Husain mera Husain
   Rab ka Husain sab ka Husain
   Ae musalmaaṅ aaj bhi ye puchhti hai Karbala
-  Kis jurm meiṅ Mustafa ke ghar ko hai luta gaya
+  Kis jurm mein Mustafa ke ghar ko hai lutaa gaya
 
   1
   Mohsin-e-insaaniyat ke qatl ke fauran hi baad
@@ -24,14 +24,14 @@ romanLyrics: |-
   Kya yehi ajr-e-risaalat tu ne Sarwar ko diya
 
   2
-  Kya dikhaayega Muhammad ko wo chehra hashr meiṅ
+  Kya dikhaayega Muhammad ko wo chehra hashr mein
   Mustafa ki betiyoṅ ko jis ne hai ruswa kiya
   Naaz karta hai Khuda bhi tere sajde pe Husain
-  Tiroṅ ke saaye meiṅ tu ne jo kiya sajda ada
+  Tiroṅ ke saaye mein tu ne jo kiya sajda ada
 
   3
   Gar tujhe bhi chaahiye khushnudi-e-Zahra to sun
-  Saani-e-Zahra ke gham meiṅ tu bhi to aansuṅ baha
+  Saani-e-Zahra ke gham mein tu bhi to aansuṅ baha
   Kar nahiṅ sakta hameṅ mahrum shaah-e-gham se tu
   Farsh pe maatam bapa hai arsh pe aah o buka
 

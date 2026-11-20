@@ -1,38 +1,66 @@
 ---
-title: "Sajjad Toon Pehlaan Parday Da Haye Pak Hasan Gham Khar Aye Lyrics In Punjabi 2018"
+title: "سجاد توں پہلاں پردے دا ہائے پاک حسن غم خوار اے"
+alternateTitle: "Sajjad Toon Pehlaan Parday Da Haye Pak Hasan Gham Khar Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad toon pehlaan parday da haye Pak Hasan gham khar aye
+  Aiday jigar te zehar toon wadh ke Zainab Kulsom
+
+  1
+  De parday di haye soch ne kita war aye
+  Zainab nu veer Hasan apna teraan wich nazar nayi aanda
+  Teraan nu kad kad ke Zainab taboot wichon
+  Takdi aye bas wasday khon di dhaar aye
+
+  2
+  Aye ilm-e-ghaib da malik aye arshaan che hakomat ayedi
+  Aiday bajoon ki ki hona sab janda aye
+  Taein rowa dil tham ke zaro zaar aye
+  Haye rokiya Malak-al-Maut nu aye Shabir nu seene la ke
+
+  3
+  Shabir nu pursa deway Karbal de sare
+  Shaheedaan da aye ban ke pursadar aye
+  Aaya aye jigar Hasan da haye khon de wich kat kat ke
+  Aynj zehar Hasan de tan wich androon tukray
+
+  4
+  Kar kar ke aiday jigar toon hoya paar aye
+  Tareekh de wich Karbal da Zeeshan zulm na honda
+  Jay veer Hasan de lashay te Shabir na rokda
+  Loko haye Ghazi di talwar aye
 ---
 
-Sajjad Toon Pehlaan Parday Da Haye Pak Hasan Gham Khar Aye.
-Aiday Jigar Te Zehar Toon Wadh Ke Zainab Kulsom
+سجاد توں پہلاں پردے دا ہائے پاک حسن غم خوار اے
+ایہدے جگر تے زہر توں ودھ کے زینب کلثوم
 
-1
-De Parday Di Haye Soch Ne Kita War Aye.
-Zainab Nu Veer Hasan Apna Teraan Wich Nazar Nayi Aanda.
-Teraan Nu Kad Kad Ke Zainab Taboot Wichon
-Takdi Aye Bas Wasday Khon Di Dhaar Aye.
+۱
+دے پردے دی ہائے سوچ نے کیتا وار اے
+زینب نوں ویر حسن اپنا تیراں وچ نظر نئیں آندا
+تیراں نوں کڈھ کڈھ کے زینب تابوت وچوں
+تکدی اے بس وسدے خون دی دھار اے
 
-2
-Aye Ilm-e-Ghaib Da Malik Aye Arshaan Che Hakomat Ayedi.
-Aiday Bajoon Ki Ki Hona Sab Janda Aye
-Taein Rowa Dil Tham Ke Zaro Zaar Aye.
-Haye Rokiya Malak-al-Maut Nu Aye Shabir Nu Seene La Ke.
+۲
+اے علمِ غیب دا مالک اے عرشاں چے حکومت ایہدی
+ایہدے باجوں کی کی ہونا سب جاندا اے
+تائیں روواں دل تھام کے زار و زار اے
+ہائے روکیا ملک الموت نوں اے شبیر نوں سینے لا کے
 
-3
-Shabir Nu Pursa Deway Karbal De Sare
-Shaheedaan Da Aye Ban Ke Pursadar Aye.
-Aaya Aye Jigar Hasan Da Haye Khon De Wich Kat Kat Ke.
-Aynj Zehar Hasan De Tan Wich Androon Tukray
+۳
+شبیر نوں پرسا دیوے کربل دے سارے
+شہیداں دا اے بن کے پرسہ دار اے
+آیا اے جگر حسن دا ہائے خون دے وچ کٹ کٹ کے
+اینج زہر حسن دے تن وچ اندروں ٹکڑے
 
-4
-Kar Kar Ke Aiday Jigar Toon Hoya Paar Aye.
-Tareekh De Wich Karbal Da Zeeshan Zulm Na Honda.
-Jay Veer Hasan De Lashay Te Shabir Na Rokda
-Loko Haye Ghazi Di Talwar Aye
+۴
+کر کر کے ایہدے جگر توں ہویا پار اے
+تاریخ دے وچ کربل دا ذیشان ظلم نہ ہوندا
+جے ویر حسن دے لاشے تے شبیر نہ روکدا
+لوکو ہائے غازی دی تلوار اے

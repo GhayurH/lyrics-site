@@ -7,6 +7,41 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shab mein Aashur ki Sughra ne ye socha hoga
+  Aaj sehra Ali Akbar ne sajaaya hoga
+
+  1
+  Mehndi haathoṅ mein Sakina ne lagaai hogi
+  Neg mein bhaai se kya kya nahiṅ paaya hoga
+
+  2
+  Apni aankhoṅ mein mere bhaai ne surme ki jagah
+  Hai yaqiṅ khaak-e-Najaf ko hi lagaaya hoga
+
+  3
+  Phul dhone ke liye sehre ke Baba ne mere
+  Aab-e-Kausar ko farishtoṅ se mangaaya hoga
+
+  4
+  Zeb tan kar ke Muhammad ki aba bhaai mera
+  Baandh kar sehra Muhammad nazar aata hoga
+
+  5
+  Paaoṅ mein dulha ke naalain pinhaane ke liye
+  Hazrat Jaun ko Baba ne bulaaya hoga
+
+  6
+  Sab se chhota Ali Asghar hai to ammaṅ ne use
+  Aake gahvaare mein shahbaala banaaya hoga
+
+  7
+  Ghar se baraat kuchh is shaan se nikli hogi
+  Chacha Abbas ne ghore pe bithaaya hoga
+
+  8
+  Jora shaadi ka to Rehan khayaaloṅ ki hai baat
+  Maan ne chaadar ka kafan bhi na urhaaya hoga
 ---
 
 شب میں عاشور کی صغراؑ نے یہ سوچا ہوگا

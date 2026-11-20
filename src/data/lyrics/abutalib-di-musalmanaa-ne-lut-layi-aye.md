@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abutalib di musalmanaa ne lut layi aye kul kamai
-  Aidha jurm Rasool nu palna si aidhay lal Ali de sir te taiyon lokaan zarb chalai
-  Imran ne Zul-e-Ashira te dita sath Rasool da taiyon
-  Kul khalqat shehar Madine di rayi haal Ali da takdi rasiyaan churwan na aayi
+  Abutalib di musalmanaan ne lut layi aye kul kamaai
+  Ehda jurm Rasul nu paalna si ehde laal Ali de sir te taahiyon lokaan zarb chalaai
+  Imran ne Zul-Ashira te ditta saath Rasul da taahiyon
+  Kul khalqat shehar Madine di rahi haal Ali da takdi rassiyaan chhurwaan na aayi
 
   2
-  Ag Shaib-e-Abu Talib di si lokaan de dil te tari
-  Makay da wair kamawan layi ag Pak Batool de bohe lokaan ne aan lagai
-  Kabay wich was na chaliya te masjid Kofay wich lokaan pehli Sarkar Muhammad de
-  Haq hon di pak gawahi sajday wich maar mukai
+  Agg Shib-e-Abu Talib di si lokaan de dil te taari
+  Makke da wair kamaawan layi agg Paak Batul de buhe lokaan ne aan lagaai
+  Kaabe wich wass na chaliya te masjid Kofe wich lokaan pehli Sarkar Muhammad de
+  Haq hon di paak gawaahi sajde wich maar mukaai
 
   3
-  Oh dard Rasool da wandda si odhi aal da dukh na wandhiya
-  Koi pursa dain te ki aandha gal lag lag Kofay andar lokaan ne Eid manai
-  Akbar aye chothay kalmago Imran nu aakhan kafir
-  Jidhay putraan dhiyaan Karbal wich te Sham de moraan utay diti Rab di pak gawai
+  Oh dard Rasul da wandda si ohdi aal da dukh na wandiya
+  Koi pursa den te ki aanda gal lag lag Kofe andar lokaan ne Eid manaai
+  Akbar aye chauthe kalmago Imran nu aakhan kaafir
+  Jidhe putraan dhiyaan Karbal wich te Shaam de moraan utte ditti Rab di paak gawaahi
 ---
 
 ۱

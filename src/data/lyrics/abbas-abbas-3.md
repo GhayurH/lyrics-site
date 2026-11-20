@@ -22,23 +22,23 @@ romanLyrics: |-
   2
   Halq sabhi ka sukh chuka
   Goya qarin ab waqt-e-qaza hai
-  Sab ne faqat ye roke kaha hai
+  Sab ne faqat ye ro ke kaha hai
   Le kar aao paani chacha
 
   3
   Abbas Abbas...
   Darbaari aur aal-e-payambar
   Bewatani aur aal-e-payambar
-  Tashnalabi aur aal-e-payambar
+  Tashna labi aur aal-e-payambar
 
   4
   Le kar aao paani chacha
   Abbas Abbas...
   Haaye re Asghar tashna dahaani
-  Ghair hui hai haalat uski
+  Ghair hui hai haalat us ki
 
   5
-  Kuch lamha bas jaan hai baaqi
+  Kuchh lamha bas jaan hai baaqi
   Le kar aao paani chacha
   Abbas Abbas...
   Le ke alam daada ka jaao
@@ -58,7 +58,7 @@ romanLyrics: |-
   8
   Abbas Abbas...
   Pyaas se kya haalat hai dekho
-  Kuch bhi nazar aata nahiṅ hum ko
+  Kuchh bhi nazar aata nahiṅ hum ko
   Bahr-e-Khuda ehsaan ye kar do
 
   9
@@ -68,7 +68,7 @@ romanLyrics: |-
   Shaah ne nam aankhoṅ se dekha
 
   10
-  Bachchoṅ ne rokar ye farmaaya
+  Bachchoṅ ne ro kar ye farmaaya
   Le kar aao paani chacha
   Abbas Abbas...
   Nehr se paani bhar ke wo palta
@@ -89,7 +89,7 @@ romanLyrics: |-
   Abbas Abbas...
   Kaise kahuṅ bachchoṅ se hamaare
   Mar gaye bhaai nehr kinaare
-  Ab na bulaana kehke ye pyaare
+  Ab na bulaana keh ke ye pyaare
 
   14
   Le kar aao paani chacha
@@ -104,7 +104,7 @@ romanLyrics: |-
   Dayam o Yazdaṅ pyaasoṅ ka nauha
 
   16
-  Sun ke ye Sheh ne roke pukaara
+  Sun ke ye Sheh ne ro ke pukaara
   Kis se kahoge ab ye khudaara
   Le kar aao paani chacha
   Abbas Abbas...

@@ -1,41 +1,66 @@
 ---
-title: "Dastar Ali Di Rondi Aye Lyrics New Noha 21 Ramzan 2026 Shahadat Hazrat Ali"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "دستار علی دی روندی اے"
+alternateTitle: "Dastar Ali Di Rondi Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab teri chadar taun sadqay jawan dastar Ali di rondi aye
+  Darya te katiyaan wekhiyaan main tere pehrey daar diyaan bahwaan dastar Ali di rondi aye
+  Zahra di shafqat ban ke veraan te saya karna aye
+  Toon aaj taun Ali de wangoon har hukam sunaya karna aye
+
+  2
+  Dunya taun chaliya waan kar ke main tere hawalay aye chawaan dastar Ali di rondi aye
+  Har baap da dil aye ronda takleef jay howay dhiyaan nu
+  Dushman v na koi shala zindagi wich roway dhiyaan nu
+  Nanay di ummat chahndi aye toon wekhin Sham diyaan rahwaan dastar Ali di rondi aye
+
+  3
+  Masjid v rondi rayi aye te pak musalla roya aye
+  Aynj zehar aalodah khanjar da waar mere te hoya aye
+  Khoiyan ne Ibn-e-Muljim ne tere babay shair diyaan sahwaan dastar Ali di rondi aye
+  Ramzan de aman maheeney di har raat fazeelat wali aye
+
+  4
+  Jis raat Quran si aaya oh raat shahadat wali aye
+  Nabiyaan ne ro ro ke suniyaan natiq Quran diyaan hawaan dastar Ali di rondi aye
+  Aye peer Ali di hasrat ban gayi aye noha mere layi
+  Kiwein Samar qaza da wela aaya si Maula tere layi
+
+  5
+  Putraan de chehray wekhi jaan dhiyaan nu main seene lawaan dastar Ali di rondi aye
 ---
 
-1
-Zainab Teri Chadar Taun Sadqay Jawan Dastar Ali Di Rondi Aye Lyrics New Noha 21 Ramzan
-Darya Te Katiyaan Wekhiyaan Main Tere Pehrey Daar Diyaan Bahwaan Dastar Ali Di Rondi Aye.
-Zahra Di Shafqat Ban Ke Veraan Te Saya Karna Aye.
-Toon Aaj Taun Ali De Wangoon Har Hukam Sunaya Karna Aye.
+۱
+زینب تیری چادر توں صدقے جاواں دستار علی دی روندی اے
+دریا تے کٹیاں ویکھیاں میں تیرے پہرے دار دیاں بانہواں دستار علی دی روندی اے
+زہرا دی شفقت بن کے ویراں تے سایہ کرنا اے
+توں اج توں علی دے وانگوں ہر حکم سنایا کرنا اے
 
-2
-Dunya Taun Chaliya Waan Kar Ke Main Tere Hawalay Aye Chawaan Dastar Ali Di Rondi Aye.
-Har Baap Da Dil Aye Ronda Takleef Jay Howay Dhiyaan Nu.
-Dushman V Na Koi Shala Zindagi Wich Roway Dhiyaan Nu.
-Nanay Di Ummat Chahndi Aye Toon Wekhin Sham Diyaan Rahwaan Dastar Ali Di Rondi Aye.
+۲
+دنیا توں چلیا واں کر کے میں تیرے حوالے ایہہ چاواں دستار علی دی روندی اے
+ہر باپ دا دل اے روندا تکلیف جے ہووے دھیاں نوں
+دشمن وی نہ کوئی شالا زندگی وچ رووے دھیاں نوں
+نانے دی امت چاہندی اے توں ویکھیں شام دیاں راہواں دستار علی دی روندی اے
 
-3
-Masjid V Rondi Rayi Aye Te Pak Musalla Roya Aye.
-Aynj Zehar Aalodah Khanjar Da Waar Mere Te Hoya Aye.
-Khoiyan Ne Ibn-e-Muljim Ne Tere Babay Shair Diyaan Sahwaan Dastar Ali Di Rondi Aye.
-Ramzan De Aman Maheeney Di Har Raat Fazeelat Wali Aye.
+۳
+مسجد وی روندی رہی اے تے پاک مصلّٰی رویا اے
+اینج زہر آلودہ خنجر دا وار میرے تے ہویا اے
+کھوہیاں نے ابنِ ملجم نے تیرے بابے شیر دیاں ساہواں دستار علی دی روندی اے
+رمضان دے امن مہینے دی ہر رات فضیلت والی اے
 
-4
-Jis Raat Quran Si Aaya Oh Raat Shahadat Wali Aye.
-Nabiyaan Ne Ro Ro Ke Suniyaan Natiq Quran Diyaan Hawaan Dastar Ali Di Rondi Aye.
-Aye Peer Ali Di Hasrat Ban Gayi Aye Noha Mere Layi.
-Kiwein Samar Qaza Da Wela Aaya Si Maula Tere Layi.
+۴
+جس رات قرآن سی آیا اوہ رات شہادت والی اے
+نبیاں نے رو رو کے سنیاں ناطق قرآن دیاں ہاواں دستار علی دی روندی اے
+اے پیر علی دی حسرت بن گئی اے نوحہ میرے لئی
+کیویں ثمر قضا دا ویلا آیا سی مولا تیرے لئی
 
-5
-Putraan De Chehray Wekhi Jaan Dhiyaan Nu Main Seene Lawaan Dastar Ali Di Rondi Aye.
-Matami Sangat
-Anjuman Ghulaman-e-Aoun-o-Mohammad
-Bangali Bagh Lahore
+۵
+پتراں دے چہرے ویکھی جاں دھیاں نوں میں سینے لاواں دستار علی دی روندی اے

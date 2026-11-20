@@ -9,89 +9,47 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ya Rasool Allah afsos k qatl ker dia gaya
-
-  Aap k Nawasay or Aap k Ahl e Bait or Jannisarun ko
-
-  Sataya gaya or maar dia gaya or qaid ker liya gaya
-
+romanLyrics: |-
+  Ya Rasul Allah afsos ke qatl kar diya gaya
+  Aap ke nawaase ko aur aap ke Ahl-e-Bait aur jaaṅ nisaaroṅ ko
+  Sataaya gaya aur maar diya gaya aur qaid kar liya gaya
 
   1
-
-  Aap k baad Aap ki zuriyyat ko or Aap k perdah dar itrat
-
-  Or zil’qurba wa zuriyyat ko bohat dukh di’yay gai
-
-  Bus Rasool Allah koi intehai khilaf hoa
-
-  Or Hum Hazrat ka qalb e nazuk girya kuna hoa]]
-
+  Aap ke baad aap ki zurriyat ko aur aap ke parda daar itrat
+  Aur Zil Qurba o zurriyat ko bahut dukh diye gaye
+  Bas Rasul Allah koi intihaai khilaaf hua
+  Aur ham Hazrat ka qalb-e-naazuk girya kunaaṅ hua
 
   2
-
-  NOHA
-
+  Nauha
 
   3
-
-  Koi ghaibat may baitha khoon k aanso bahata hai
-
-  Usay Zainab ka jb bazar jana yad aata hai
-
-  Koi ghaibat may baitha
-
+  Koi ghaibat mein baitha khun ke aansu bahaata hai
+  Use Zainab ka jab baazaar jaana yaad aata hai
 
   4
-
-  Usay zainab ka jab bazaar jaana yaad aata hai
-
-  Koi ghamkhar ghaibat mein meinassar hi nahi usko
-
-  So tanhaai mein har nauha wo khud ko hi sunata hai
-
+  Unhi galiyoṅ mein chal chal kar jahaaṅ chalti rahi Zainab
+  Nishaaṅ Zainab ke qadmoṅ ke wo haathoṅ se mitaata hai
 
   5
-
-  Unhi galliun may chal chal ker jahan chalti rahi Zainab
-
-  Nishan Zainab k qadmun k wo haathun say mita’ta hai
-
+  Baqiyye mein sadaa-e-Wa Husainaaṅ gunj uthti hai
+  Wo jab bhi qabr-e-Zahra aa ke sine se lagaata hai
 
   6
-
-  Baqiyay may sada’i wa Hussaina gonj uth’ti hai
-
-  Wo jb bhi qabr e Zahra aa k seenay say lagata hai
-
+  Nahiṅ thamte haiṅ us ki aankh se aansu kisi surat
+  Use beshir ka jab muskuraana yaad aata hai
 
   7
-
-  Nahi tham’tay hain us ki aankh say aanso kisi sorat
-
-  Usay be’sheer ka jb muskarana yad aata hai
-
-  Koi ghaibat may baitha khoon
-
+  Pidar ki god ki khaatir Sakina jab bhi roti hai
+  Wo lori baap ke lahje mein beti ko sunaata hai
 
   8
-
-  Pidr ki goud ki khatir Sakina jb bhi roti hai
-
-  Wo lori baap k lehjay may beti ko sunata hai
-
+  Khayaal aata hai jab bhi parda-e-Zainab ka Mahdi ko
+  Kabhi talwaar par wo haath rakhta hai hataata hai
 
   9
-
-  Khayal aata hai jb bhi perdah e Zainab ka Mehdi ko
-
-  Kbhi talwar per wo hath rakhta hai hata’ta hai
-
-
-  10
-
-  Wo Hujjat hai usi ka kaam hai is dird ko sehna
-
-  Kisi khaki k dil may Joan ye gham kb samata hai'
+  Wo Hujjat hai usi ka kaam hai is dard ko sahna
+  Kisi khaaki ke dil mein Jaun ye gham kab samaata hai
 ---
 
 يا رسول اللّٰہؐ افسوس کہ قتل کر ديا گيا

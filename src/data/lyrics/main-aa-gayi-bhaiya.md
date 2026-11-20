@@ -26,11 +26,11 @@ romanLyrics: |-
   1
   Maiṅ kaise bataauṅ jo hui zulm o jafa hai
   Tum uth ke zara dekho jo kuchh haal hua hai
-  Bikhre haiṅ mere gesu zakhmi hai mere baazu
+  Bikhre haiṅ mere gesoṅ zakhmi hai mere baazu
   Chaadar luti bhaiya
 
   2
-  Jab pusht se bimaar ki khincha gaya bistar
+  Jab pusht se bimaar ki khaincha gaya bistar
   Us waqt use aag se maiṅ laai bacha kar
   Ghash meiṅ tha mera dilbar khaimoṅ se use laa kar
   Maiṅ gir pari bhaiya
@@ -43,8 +43,8 @@ romanLyrics: |-
 
   4
   Is rassi meiṅ hi baarah gale baandh ke bhaiya
-  Haiwaaṅ ki tarah khinch ke le jaate the aada
-  Wo khinchte hans hans kar hum uthte the gir gir kar
+  Haiwaaṅ ki tarah khainch ke le jaate the aada
+  Wo khainchte hans hans kar hum uthte the gir gir kar
   Sharmaati thi bhaiya
 
   5

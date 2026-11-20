@@ -12,23 +12,23 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shabbir ke haathoṅ se jo ghar meiṅ bana dulha
+  Shabbir ke haathoṅ se jo ghar mein bana dulha
   Wo ghoroṅ ki taapoṅ se paamaal hua dulha
 
   1
   Ye maadar-e-Qaasim ne sar pit ke farmaaya
-  Jaata hai su-e-maqtal beaab o ghiza dulha
+  Jaata hai su-e-maqtal be aab o ghiza dulha
 
   2
-  Kangna tha na badhdhi thi poshaak puraani thi
-  Is shaan se maidaaṅ meiṅ marne ko gaya dulha
+  Kangna tha na baandhi thi poshaak puraani thi
+  Is shaan se maidaaṅ mein marne ko gaya dulha
 
   3
   Chauthi thi na chale the sukh gham ke hawaale the
   Is tarz ka duniya ne dekha na suna dulha
 
   4
-  Maqtal meiṅ pahunchte hi tiroṅ se hui daawat
+  Maqtal mein pahunchte hi tiroṅ se hui daawat
   Shaadi ka har ik tohfa ghar le ke chala dulha
 
   5
@@ -37,14 +37,14 @@ romanLyrics: |-
 
   6
   Is shaan ki shaadi to dekhi na suni ab tak
-  Paaya nahiṅ ik khatra beaab raha dulha
+  Paaya nahiṅ ik khatra be aab raha dulha
 
   7
   Sar jis ka tha naize par aur jism tha reti par
   Kubra tere qismat ko kya khub mila dulha
 
   8
-  Lo khun ke darya meiṅ jaata hai nahaane ko
+  Lo khun ke darya mein jaata hai nahaane ko
   Kubra ke muqaddar ka armaan bana dulha
 
   9
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   10
   Daamaad ko sine se lipta liya Sarwar ne
-  Jalti hui reti par jab ran meiṅ gira dulha
+  Jalti hui reti par jab ran mein gira dulha
 
   11
   Kubra ko masaaib ki zanjir mili Ishrat

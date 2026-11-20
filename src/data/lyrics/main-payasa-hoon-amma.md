@@ -8,144 +8,56 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Main Payasa Hoon Amma"
-romanLyrics: 'Ya Qatile Jafaa, Ya Hussein-e-Shaheed
-
-  Ya Hussein, Mawla Hussein
-
-  Main Pyaasa Hun Amma, Main Pyaasa Hun Amma
-
+alternateTitle: "Main Pyaasa Huṅ Ammaaṅ"
+romanLyrics: |-
+  Main pyaasa huṅ ammaaṅ
+  Hai khushk galaa mera aur saamne hai dariyaa
+  Main pyaasa huṅ ammaaṅ
 
   1
-
-  Hai Khushk Galaa Mera
-
-  Aur Saamne Hai Dariyaa, haaye
-
+  Tum ne to sadaa apne pehlu pe sulaaya hai
+  Jab pyaas lagi mujhko qad paani pilaaya hai
+  Sah roz se ab main ne paani hi nahiṅ dekha
 
   2
-
-  Tumne Toh Sadaa Apne, Pehlu Mai Sulaaya Hai
-
-  Jab Pyaas Lagi Mujhko, Khud Paani Pilaya Hai
-
-  Seh Roz Se Ab Maine, Paani Hii Nahi Dekha, haaye
-
+  Khanjar meri gardan par ap Shimr chalaayega
+  Ammaaṅ yeh samaaṅ tum se dekha nahiṅ jaayega
+  Jalti hui reti karna hai mujhe sajda
 
   3
-
-  Hai Khushk Gala Mera Our Samne Hai Darya.
-
-  Tum Ne Tu Sada Apne Pehlu Mein Solaya Hai.
-
-  Jab Pyas Lagi Mujh Ko Khud Pani Pilaya Hai.
-
-  Seh Rooz Se Ab Main Ne Pani Hi Nahi Dekha.
-
+  Zakhmoṅ mein mere ammaaṅ hai ret bayaabaaṅ ki
+  Jalta hai hua sehraa hai saaya bhi nahiṅ koi
+  Main Maalik-e-Kausar huṅ hai phir yeh sitam kaisa
 
   4
-
-  Khanjar Meri Gardan Par, Ab Shimr Chalaayenga
-
-  Amma Yeh Samaa Tumhse, Dekha Nahi Jaayenga
-
-  Jalti Huwi Reti Par, Karna Hai Mujhe Sajdaa, haaye
-
+  Ab ham nahiṅ aayeṅge Zainab ko bata dena
+  Maasum Sakina ko tum paani pila dena
+  Hargiz na pukaarega ab aapka yeh beta
 
   5
-
-  Jalta Howa Sehra Hai Saya Bhi Nahi Koi.
-
-  Main Malik-e-Kausar Hoon Hai Phir Yeh Sitam Kaisa.
-
-  Ab Hum Nahi Aaeingay Zainab Ko Bata Dena.
-
-  Masoom Sakina Ko Tum Pani Pila Dena.
-
+  Har haal mein dariyaa par Abbas ko jaana tha
+  Yeh mashk-e-Sakina to bas ek bahaana tha
+  Dil uska bhi jalta tha Ghazi bhi samajhta tha
 
   6
-
-  Zakhmon Me Mere Amma, Hai Reyt Bayaabaan Ki
-
-  Jalta Huwa Sehra Hai, Saaya Bhi Nahin Koi
-
-  Mai Maalike-Qawsar Hun, Hai Phir Yeh Sitam Kaisa, haaye
-
+  Hamshakl-e-Payambar ne jis dam se azaaṅ di hai
+  Us dam se lainoṅ ne mohlat hi nahiṅ di hai
+  Ab aapki godi mein hai yaad mujhe aaya
 
   7
-
-  Ab Ham Nahin Aayenge, Zainab Ko Bataadena
-
-  Maasum Sakina Ko, Tum Paani Pilaadena
-
-  Hargiz Na Pukaarega, Ab Aap Ka Yeh Beta, haaye
-
+  Bachpan se yeh aadat thi jab pyaas mujhe lagti
+  Bin maange hue Ghazi le aata tha qad paani
+  Le aaye zara paani Ghazi ko sadaa dena
 
   8
-
-  Har Haal Mai Dariyaa Par, Abbas Ko Jaana Tha
-
-  Yeh Mashke Sakina Toh, Bas Eik Bahaana Tha
-
-  Dil Uska Bhi Jalta Tha, Ghazi Bhi Samajhta Tha, haaye
-
+  Kausar pe mera lashkar jis waqt gaya hoga
+  Har chhota baraa ja kar Baba se mila hoga
+  Har ek ne yeh ja kar un se bhi kaha hoga
 
   9
-
-  Hamshakle Payambar Ne, Jis Dam Se Azaan Dii Hai
-
-  Uss Dam Se Laeenon Ne, Muhlat Hii Nahin Dii Hai
-
-  Ab Aap Ki Godi Mai, Hai Yaad Mujhe Aaya, haaye
-
-
-  10
-
-  Bin Mangay Howay Ghazi Le Aata Tha Khud Pani.
-
-  Le Aaye Zara Pani Ghazi Ko Sada Dena.
-
-  Kausar Pe Mera Lashkar Jis Waqt Gaya Ho Ga.
-
-  Har Chota Bara Ja Kar Baba Se Mila Ho Ga.
-
-
-  11
-
-  Har Aik Ne Yeh Ja Kar Un Se Bhi Kaha Ho Ga.
-
-  Aye:MIR TAKALLUM: Woh Manzar Tha Bhala Kaisa.
-
-  Royi Jo Nabi Zadi Ik Shor-e-Qayamat Tha.
-
-  Jab Chalne Laga Khanjar Kehte Hi Rahe Maula.
-
-
-  12
-
-  Bachpan Se Yeh Aadat Thi, Jab Pyaas Mujhe Lagti
-
-  Bin Maange Huwi Ghazi, Ley Aata Thaa Khud Paani
-
-  Leyaae Zara Paani, Ghazi Ko Sadaa Dena, haaye
-
-
-  13
-
-  Qausar Pe Mera Lashkar, Jis Waqt Gaya Hoga
-
-  Har Chhota Baraa Jaakar, Baba Se Milaa Hoga
-
-  Har Eik Ne Yeh Jaakar, Unse Bhi Kahaa Hoga, haaye
-
-
-  14
-
-  Ay "Meer Taqallum" Ho, Manzar Thaa Bhalaa Kaisa
-
-  Royi Jo Nabi-Zaadi, Ik Shor Qayaamat Tha
-
-  Jab Chalne Lagaa Khanjar, Kehte Hii Rahe Mawlaa, haaye'
+  Ae Mir Takallum woh manzar tha bhala kaisa
+  Roi jo Nabi zaadi ik shor-e-qayaamat tha
+  Jab chalne laga khanjar kehte hi rahe Maula
 ---
 
 میں پیاسا ہوں اماں

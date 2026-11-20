@@ -38,7 +38,7 @@ romanLyrics: |-
   Aaghosh-e-Faatima kaa palaa tishna lab Husain
 
   6
-  Shimr-e-laiṅ kaleje pe rakhe hue chhuri
+  Shimr laiṅ kaleje pe rakhe hue chhuri
   Kunbe se ho rahaa hai judaa tishna lab Husain
 
   7

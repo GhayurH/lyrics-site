@@ -60,7 +60,7 @@ romanLyrics: |-
 
   8
   Deti rahi Fatema Zehra sada
-  Kat gaya lekin tera pyasa gala
+  Kat gaya lekin tera pyaasa gala
   Sar tera naize se bhi deta raha
   Haq o sadaaqat ki sada ya Husain
 
@@ -95,7 +95,7 @@ romanLyrics: |-
   Aati hai majlis meiṅ jo Zehra Husain
 
   14
-  Fatima Zehra ne ye ehsaaṅ kiya
+  Fatema Zehra ne ye ehsaaṅ kiya
   Hum ko tere gham ke liye chun liya
   Tere azaadaar ko rutba mila
   Ban gaye Zehra ki tamanna Husain

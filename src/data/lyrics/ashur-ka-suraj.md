@@ -15,13 +15,13 @@ romanLyrics: |-
   Ashur ka suraj jalta hai
   Har khaak ka zarra jalta hai
   Jalti hai zamin-e-Karb o Bala
-  Ya Arsh-e-Moalla jalta hai
+  Ya Arsh-e-Mualla jalta hai
 
   1
   Ansar ke khaime jalte haiṅ
   Shabbir ka khaima jalta hai
   Islam ki dunya jalti hai
-  Kabe ka musalla jalta hai
+  Kaabe ka musalla jalta hai
 
   2
   Naize ko jagah di hai dil meiṅ
@@ -30,9 +30,9 @@ romanLyrics: |-
   Laila ka kaleja jalta hai
 
   3
-  Quraan ke parhne waloṅ ne
+  Quraan ke parhne waaloṅ ne
   Quraaṅ ko jala kar khaak kiya
-  Yasin ka sura jalta hai
+  Yasin ka surah jalta hai
   Quraan ka paara jalta hai
 
   4
@@ -42,20 +42,20 @@ romanLyrics: |-
   Beshir ka jhula jalta hai
 
   5
-  Itrat pe Nabi ke jor o sitam
-  Kya khub musalmanoṅ ne kiya
+  Itrat pe Nabi ke jaur o sitam
+  Kya khub musalmaanoṅ ne kiya
   Zainab ki rida kya jalti hai
   Islam ka parda jalta hai
 
   6
   Rakhi jo Fadak meiṅ chingaari
   Ye shole usi ke nikalte haiṅ
-  Kya aag baghawat ki phaili
+  Kya aag baghaawat ki phaili
   Ran Karb o Bala ka jalta hai
 
   7
-  Beshir ki tashna dahani ne
-  Ek aag laga di pani meiṅ
+  Beshir ki tashna dahaani ne
+  Ak aag laga di paani meiṅ
   Asghar ke tabassum par ab tak
   Darya ka kinaara jalta hai
 
@@ -66,21 +66,21 @@ romanLyrics: |-
   Saqqa ka kaleja jalta hai
 
   9
-  Thi kufr ko iman se takkar
+  Thi kufr ko imaan se takkar
   Ghar baar Nabi ka jal ke raha
-  Jalti hai jidaar-e-Kaaba-e-diṅ
-  Iman ka qibla jalta hai
+  Jalti hai jidhaare Kaaba-e-diṅ
+  Imaan ka qibla jalta hai
 
   10
   Zanjir zani ye sina zani
-  Tum hum ko na samjho diwane
+  Tum hum ko na samjho diwaane
   Shabbir tumhaare maatam se
   Dil aur kisi ka jalta hai
 
   11
   Sad haif ke misl-e-rang-e-hina
-  Kubra ka suhaag ab jal hi gaya
-  Is dasht-e-bala meiṅ ae Mirza
+  Kubraa ka suhaag ab jal hi gaya
+  Is dasht-e-balaa meiṅ ae Mirza
   Kya kya maiṅ kahuṅ kya jalta hai
 ---
 

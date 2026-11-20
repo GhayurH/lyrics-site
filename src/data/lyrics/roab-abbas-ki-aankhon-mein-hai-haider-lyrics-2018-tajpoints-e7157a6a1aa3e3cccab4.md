@@ -1,41 +1,72 @@
 ---
-title: "Roab Abbas Ki Aankhon Mein Hai Haider Lyrics 2018"
+title: "رعب عباس کی آنکھوں میں ہے حیدر جیسا"
+alternateTitle: "Roab Abbas Ki Aankhon Mein Hai Haider Jaisa"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Roab Abbas ki aankhon mein hai Haider jaisa
+  Aankh bhar kar jissay dekha howa pathar jaisa
+  Keh keh yeh hath Alamdar ne khud rook liya
+  Hurmala tere kafi hai Asghar jaisa
+
+  2
+  Teri saqai ka ejaz hai Abbas-e-Ali
+  Pani milta hai sabeelon pe bhi Kausar jaisa
+  Koan maidaan mein hai Siffeen ke ghazi ya Ali
+  Kashmakash mein hai khara Malik-e-Ashtar jaisa
+
+  3
+  Koi kamzarf ossay bhi na Khuda keh de kahin
+  Ho baho chehra-e-Abbas hai Haider jaisa
+  Ungliyon par hi utha leta woh kandhe ki jaga
+  Mashk ka wazan jo hota dar-e-Khaibar jaisa
+
+  4
+  Anbiya bool uthay dekh ke Abbas ka noor
+  Sirf Haider hi bana sakta hai Haider jaisa
+  Lashkar-e-shar pe nazar daal ke ghazi ne kaha
+  Haal ho ga tera Firoon ke lashkar jaisa
+
+  5
+  Looh-e-Mehfooz ke bhi bas mein nahi Hur ki qasam
+  Likhte hain Hazrat-e-Abbas muqadar jaisa
+  Hai Habib Ibn-e-Muzahir ko likhe khat ka karam
+  Likhta hai midhat-e-Shabir jo Akbar jaisa
 ---
 
-1
-Roab Abbas Ki Aankhon Mein Hai Haider Jaisa.
-Aankh Bhar Kar Jissay Dekha Howa Pathar Jaisa.
-Keh Keh Yeh Hath Alamdar Ne Khud Rook Liya.
-Hurmala Tere Kafi Hai Asghar Jaisa.
+۱
+رعب عباس کی آنکھوں میں ہے حیدر جیسا
+آنکھ بھر کر جسے دیکھا ہوا پتھر جیسا
+کہہ کہہ یہ ہاتھ علمدار نے خود روک لیا
+حرملہ تیرے کافی ہے اصغر جیسا
 
-2
-Teri Saqai Ka Ejaz Hai Abbas-e-Ali.
-Pani Milta Hai Sabeelon Pe Bhi Kausar Jaisa.
-Koan Maidaan Mein Hai Siffeen Ke Ghazi Ya Ali.
-Kashmakash Mein Hai Khara Malik-e-Ashtar Jaisa.
+۲
+تیری سقائی کا اعجاز ہے عباسِ علی
+پانی ملتا ہے سبیلوں پہ بھی کوثر جیسا
+کون میدان میں ہے صفین کے غازی یا علی
+کشمکش میں ہے کھڑا مالکِ اشتر جیسا
 
-3
-Koi Kamzarf Ossay Bhi Na Khuda Keh De Kahin.
-Ho Baho Chehra-e-Abbas Hai Haider Jaisa.
-Ungliyon Par Hi Utha Leta Woh Kandhe Ki Jaga.
-Mashk Ka Wazan Jo Hota Dar-e-Khaibar Jaisa.
+۳
+کوئی کم ظرف اسے بھی نہ خدا کہہ دے کہیں
+ہوبہو چہرۂ عباس ہے حیدر جیسا
+انگلیوں پر ہی اٹھا لیتا وہ کندھے کی جگہ
+مشک کا وزن جو ہوتا درِ خیبر جیسا
 
-4
-Anbiya Bool Uthay Dekh Ke Abbas Ka Noor.
-Sirf Haider Hi Bana Sakta Hai Haider Jaisa.
-Lashkar-e-Shar Pe Nazar Daal Ke Ghazi Ne Kaha.
-Haal Ho Ga Tera Firoon Ke Lashkar Jaisa.
+۴
+انبیا بول اٹھے دیکھ کے عباس کا نور
+صرف حیدر ہی بنا سکتا ہے حیدر جیسا
+لشکرِ شر پہ نظر ڈال کے غازی نے کہا
+حال ہوگا تیرا فرعون کے لشکر جیسا
 
-5
-Looh-e-Mehfooz Ke Bhi Bas Mein Nahi Hur Ki Qasam.
-Likhte Hain Hazrat-e-Abbas Muqadar Jaisa.
-Hai Habib Ibn-e-Muzahir Ko Likhe Khat Ka Karam.
-Likhta Hai Midhat-e-Shabir Jo Akbar Jaisa.
+۵
+لوحِ محفوظ کے بھی بس میں نہیں حر کی قسم
+لکھتے ہیں حضرتِ عباس مقدر جیسا
+ہے حبیب ابنِ مظاہر کو لکھے خط کا کرم
+لکھتا ہے مدحتِ شبیر جو اکبر جیسا

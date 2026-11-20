@@ -13,11 +13,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Chain Sughra ko Madine meiṅ nahiṅ aata tha
-  Baap ki yaad meiṅ dil uska phata jaata tha
-  Roti thi tarapti thi buka karti thi Sughra
+  Baap ki yaad meiṅ dil us ka phata jaata tha
+  Roti thi tarapti thi bukaa karti thi Sughra
   Tha Fatima Sughra ke laboṅ par yehi nauha
   Kehti thi ye ro kar Sughra
-  Aajao watan ae baba
+  Aa jaao watan ae baba
 
   1
   Hai shahr-e-Madina suna
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Koi to taras ab khaaye
-  Aakar ke mujhe le jaaye
+  Aa kar ke mujhe le jaaye
   Kab tak maiṅ rahuṅ gi tanha
 
   4
@@ -40,19 +40,19 @@ romanLyrics: |-
   Asghar bhi nahiṅ hai mera
 
   5
-  Jhula maiṅ jhulati usko
-  Sine se lagati usko
+  Jhula maiṅ jhulati us ko
+  Sine se lagati us ko
   Gar hota wo nanha bhaiya
 
   6
   Ye khwaab hai jab se dekha
   Mushkil meiṅ hai mera kunba
-  Hai tab se bahot hi sadma
+  Hai tab se bahut hi sadma
 
   7
   Ab rok qalam ae Waiz
   Sine meiṅ nahiṅ dam Waiz
-  Mushkil hai bahot ab likhna
+  Mushkil hai bahut ab likhna
 ---
 چین صغرا کو مدینے میں نہیں آتا تھا
 باپ کی یاد میں دل اس کا پھٹا جاتا تھا

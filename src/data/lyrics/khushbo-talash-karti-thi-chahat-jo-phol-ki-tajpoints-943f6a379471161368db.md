@@ -1,32 +1,54 @@
 ---
-title: "Khushbo Talash Karti Thi Chahat Jo Phol Ki"
+title: "خوشبو تلاش کرتی تھی چاہت جو پھول کی"
+alternateTitle: "Khushbo Talash Karti Thi Chahat Jo Phol Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khushbo talash karti thi chahat jo phol ki
+  Do Sadiqon ki aik hai saat nazool ki
+
+  1
+  Utra hai aaftab-e-sadaqat zameen par
+  Humrah roshni hai Khuda ke Rasool ki
+  Ilm-o-kamal-o-taqwa sadaqat ke wirsa daar
+  Nazrein jami hain inn pe har ik dil-e-malool ki
+
+  2
+  Woh shaks badshahon ki tauqeer rakhta hai
+  Jis ne bhi inn ke dar ki ghulami qabool ki
+  Masoom aathwein hain imam shasham hain yeh
+  Tareekh likh gaye hain faro-o-usool ki
+
+  3
+  Inn ki sadaqaton pe sadaqat ko naaz hai
+  Yeh bhi hain ik nishani jahan mein Rasool ki
+  Rehan haq kalami qalam ko atta hoi
+  Daad-e-sukhanwari bhi inhi se wasool ki
 ---
 
-Khushbo Talash Karti Thi Chahat Jo Phol Ki.
-Do Sadiqon Ki Aik Hai Saat Nazool Ki.
+خوشبو تلاش کرتی تھی چاہت جو پھول کی
+دو صادقوں کی ایک ہے ساعت نزول کی
 
-1
-Utra Hai Aaftab-e-Sadaqat Zameen Par.
-Humrah Roshni Hai Khuda Ke Rasool Ki.
-Ilm-o-Kamal-o-Taqwa Sadaqat Ke Wirsa Daar.
-Nazrein Jami Hain Inn Pe Har Ik Dil-e-Malool Ki.
+۱
+اترا ہے آفتابِ صداقت زمین پر
+ہمراہ روشنی ہے خدا کے رسول کی
+علم و کمال و تقویٰ صداقت کے ورثہ دار
+نظریں جمی ہیں ان پہ ہر اک دلِ ملول کی
 
-2
-Woh Shaks Badshahon Ki Tauqeer Rakhta Hai.
-Jis Ne Bhi Inn Ke Dar Ki Ghulami Qabool Ki.
-Masoom Aathwein Hain Imam Shasham Hain Yeh.
-Tareekh Likh Gaye Hain Faro-o-Usool Ki.
+۲
+وہ شخص بادشاہوں کی توقیر رکھتا ہے
+جس نے بھی ان کے در کی غلامی قبول کی
+معصوم آٹھویں ہیں امام ششم ہیں یہ
+تاریخ لکھ گئے ہیں فروع و اصول کی
 
-3
-Inn Ki Sadaqaton Pe Sadaqat Ko Naaz Hai.
-Yeh Bhi Hain Ik Nishani Jahan Mein Rasool Ki.
- Rehan Haq Kalami Qalam Ko Atta Hoi.
-Daad-e-Sukhanwari Bhi Inhi Se Wasool Ki.
+۳
+ان کی صداقتوں پہ صداقت کو ناز ہے
+یہ بھی ہیں اک نشانی جہاں میں رسول کی
+ریحان حق کلامی قلم کو عطا ہوئی
+دادِ سخن وری بھی انہی سے وصول کی

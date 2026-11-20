@@ -21,7 +21,7 @@ romanLyrics: |-
 
   1
   Ye baat jaa ke kisi maaṅ ke dil se puchhe koi
-  Tum apne laal ko maqtal meiṅ dekh paaogi
+  Tum apne laal ko maqtal meiṅ dekh paao gi
   Kaleja thaam ke wo maaṅ kahegi sirf yehi
   Isi imtihaan se guzri thi bas wohi
   Maaṅ ho to Maadar-e-Husain si
@@ -41,7 +41,7 @@ romanLyrics: |-
   Maaṅ ho to Maadar-e-Husain si
 
   4
-  Lain aaya jo tegh-e-sitam sambhaale hue
+  La'in aaya jo tegh-e-sitam sambhaale hue
   Sar-e-Husain ko zaanu pe rakh liya maaṅ ne
   Khud apne laal ke zakhmoṅ se tir bhi khenche
   Lab-e-Rasul pe faryaad thi yehi
@@ -50,20 +50,20 @@ romanLyrics: |-
   5
   Gire the pyaar ke aansu pisar ke zakhmoṅ par
   Husain zabh hue Fatema ke haathoṅ par
-  Ye bain aaye the us dam Ali ke hoṅtoṅ par
+  Ye bain aaye the us dam Ali ke hontoṅ par
   Zamin-e-Karbobala keh ke ro pari
   Maaṅ ho to Maadar-e-Husain si
 
   6
   Ye thi Mazhar o Irfaan tarbiyat maaṅ ki
   Jo Karbala ke bayaabaaṅ meiṅ rang laai thi
-  Khiraaj pesh kiya Sayyeda ko Rab ne bhi
+  Kharaaj pesh kiya Sayyeda ko Rab ne bhi
   Fiza meiṅ gunjegi aawaaz ab yehi
   Maaṅ ho to Maadar-e-Husain si
 
   7
   Kiya Husain ne reti pe shukr ka sajda
-  Subhaana rabbe aala la lab-e-Husain pe tha
+  Subhaana rabbiyal aala lab-e-Husain pe tha
   Ajib dard ka manzar tha haaye waawaila
   Sawaar pusht pe qaatil tha saamne Zahra
   Nazar ke saamne bete pe chal gaya khanjar

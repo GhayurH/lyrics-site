@@ -1,6 +1,6 @@
 ---
 title: "دیکھو وہ ترای میں ہے اک مردِ وفادار"
-alternateTitle: "Mai Alamdar"
+alternateTitle: "Main Alamdaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dekho wo taraai meiṅ hai ek mard-e-wafadaar
-  Rakhe hai alam dosh pe pyasoṅ ka tarafdaar
-  Hai gunji isi sher ki ghazi ki ye lalkaar
-  Gar ijazat de Husain arsh hila sakta hoo
-  Is alam se nayi tarikh bana sakta hoo
-  Haa mai alamdar haa mai alamdar
-  Mai hoo abbas e ali mai wafaoṅ ka wali
-  Baat jab meri chali gunj utha ali ali
-  Haa meri wafa ali ada ali sada ali
-  Haa meri aba ali qaba ali nava ali
-  Mai agar chahuṅ to ek hashr utha sakta hoo
-  Jalwa e hyder e karar dikha sakta hoo
-  Haa mai alamdar
-  Abbas ya abbas ya abbas ya alamdar
-  Alam alam alamdar
-  Mai alamdar e Husain mai hoo saalar e Husain
-  Maiṅ wafadare Husain mai hoo ghamkhwar e Husain
-  Haa mera shaah e umam jaan o dilam Husain Husain
-  Haa mera jaah o hasham mera bharam Husain Husain
-  Shaan e shabbir hai kya aaj bata sakta hoo
-  Tum ko aadab-e-hussaini mai sikha sakta hoo
-  Haa mai alamdar
-  Gar ijazat de Husain arsh hila sakta hoo
-  Is alam se nayi tarikh bana sakta hoo
-  Haa mai alamdar haa mai alamdar
-  Ye mukaddar hai mera ye alam mujhko mila
-  Mai alamdare wafa hyder e karbobla
+  Dekho woh taraai mein hai ik mard-e-wafadaar
+  Rakhe hai alam dosh pe pyaasoṅ ka tarafdaar
+  Hai gunji isi sher ki Ghazi ki ye lalkaar
+  Gar ijazat de Husain arsh hila sakta huṅ
+  Is alam se nayi taarikh bana sakta huṅ
+  Haaṅ main alamdaar haaṅ main alamdaar
+  Main huṅ Abbas Ali main wafaaoṅ ka wali
+  Baat jab meri chali gunj utha Ali Ali
+  Haaṅ meri wafa Ali ada Ali sadaa Ali
+  Haaṅ meri aba Ali qaba Ali nava Ali
+  Main agar chaahuṅ to ik hashr utha sakta huṅ
+  Jalwa-e-Haidar-e-Qarraar dikha sakta huṅ
+  Haaṅ main alamdaar
+  Abbas ya Abbas ya Abbas ya alamdaar
+  Alam alam alamdaar
+  Main alamdaar-e-Husain main huṅ saalaar-e-Husain
+  Main wafadaar-e-Husain main huṅ ghamkhwaar-e-Husain
+  Haaṅ mera shaah-e-umam jaan o dilam Husain Husain
+  Haaṅ mera jaah o hasham mera bharam Husain Husain
+  Shaan-e-Shabbir hai kya aaj bata sakta huṅ
+  Tum ko aadab-e-Husaini main sikha sakta huṅ
+  Haaṅ main alamdaar
+  Gar ijazat de Husain arsh hila sakta huṅ
+  Is alam se nayi taarikh bana sakta huṅ
+  Haaṅ main alamdaar haaṅ main alamdaar
+  Ye muqaddar hai mera ye alam mujhko mila
+  Main alamdaar-e-wafa Haidar-e-Karb o Bala
   Ye alam khula rahe utha rahe saja rahe
-  Ye alam jama rahe datta rahe sada rahe
-  Isi darya pe alam apna saja sakta hoo
-  Aur kate haatoṅ se parcham ye utha sakta hoo
-  Haa mai alamdar
-  Abbas ya abbas ya abbas ya alamdar
-  Alam alam alamdar
-  Mai to aaya hi nahi jang larne ke liye
-  Mashk bharni hai mujhe pyase bachoṅ ke liye
-  Hai ye waada hai sakina se nibhana hai mujhe
-  Pani lena hai kisi se bhi na larna hai mujhe
-  Muj ko larna jo para kya hoo bata sakta hoo
-  Ghaat se laakhoṅ ke lashkar ko bagha sakta hoo
-  Haa mai alamdar
-  Gar ijazat de Husain arsh hila sakta hoo
-  Is alam se nayi tarikh bana sakta hoo
-  Haa mai alamdar haa mai alamdar
-  Aaya darya pe jari kaamp uthi fauj e shaqi
-  Ye hai abbas e jari ya hai waqayi ali
-  Bhaag uthi fauj e jafa ghazi jidhar jidhar mura
-  Jis ka moo jidhar utha bhaaga gira nahi ruka
-  Bola abbas e jari taygh utha sakta hoo
-  Karbala meiṅ tumhe siffin dikha sakta hoo
-  Haa mai alamdar
-  Abbas ya abbas ya abbas ya alamdar
-  Alam alam alamdar
-  Bhar ke mashkeeza chala jab alamdar e wafa
-  Aa gayi fauj e jafa gir gaya maula mera
-  Haa wo mashkeeza chhida baazu kata pani baha
-  Ghazi reti pe gira shor e qayamat tha bapa
-  Aayi ghazi ki sada jaaṅ luta sakta hoo
-  Kaise pani ke bina qaimon meiṅ jaa sakta hoo
-  Haa mai alamdar
-  Gar ijazat de Husain arsh hila sakta hoo
-  Is alam se nayi tarikh bana sakta hoo
-  Haa mai alamdar haa mai alamdar
+  Ye alam jama rahe data rahe sadaa rahe
+  Isi darya pe alam apna saja sakta huṅ
+  Aur kate haathoṅ se parcham ye utha sakta huṅ
+  Haaṅ main alamdaar
+  Abbas ya Abbas ya Abbas ya alamdaar
+  Alam alam alamdaar
+  Main to aaya hi nahiṅ jang larne ke liye
+  Mashk bharni hai mujhe pyaase bachchoṅ ke liye
+  Hai ye waada hai Sakina se nibhana hai mujhe
+  Paani lena hai kisi se bhi na larna hai mujhe
+  Mujhko larna jo para kya huṅ bata sakta huṅ
+  Ghaat se laakhoṅ ke lashkar ko bhaga sakta huṅ
+  Haaṅ main alamdaar
+  Gar ijazat de Husain arsh hila sakta huṅ
+  Is alam se nayi taarikh bana sakta huṅ
+  Haaṅ main alamdaar haaṅ main alamdaar
+  Aaya darya pe jari kaanp uthi fauj-e-shaqi
+  Ye hai Abbas-e-jari ya hai waqayi Ali
+  Bhaag uthi fauj-e-jafa Ghazi jidhar jidhar mura
+  Jis ka munh jidhar utha bhaaga gira nahiṅ ruka
+  Bola Abbas-e-jari tegh utha sakta huṅ
+  Karbala mein tumheṅ Siffin dikha sakta huṅ
+  Haaṅ main alamdaar
+  Abbas ya Abbas ya Abbas ya alamdaar
+  Alam alam alamdaar
+  Bhar ke mashkiza chala jab alamdaar-e-wafa
+  Aa gayi fauj-e-jafa gir gaya maula mera
+  Haaṅ woh mashkiza chhida baazu kata paani baha
+  Ghazi reti gira shor-e-qayamat tha bapa
+  Aayi Ghazi ki sadaa jaaṅ luta sakta huṅ
+  Kaise paani ke bina khaimoṅ mein jaa sakta huṅ
+  Haaṅ main alamdaar
+  Gar ijazat de Husain arsh hila sakta huṅ
+  Is alam se nayi taarikh bana sakta huṅ
+  Haaṅ main alamdaar haaṅ main alamdaar
 ---
 
 ۱

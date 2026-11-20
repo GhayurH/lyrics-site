@@ -19,9 +19,9 @@ romanLyrics: |-
   Lashkar meiṅ bari dhum hai
 
   1
-  Jab chala mashk o alam lekar wo saqqa-e-haram
+  Jab chala mashk o alam le kar wo saqqa-e-haram
   Tha Ali jaisa hi alamdaar ka jaah o hasham
-  Keh utha darya hai iske paas Haidar ka alam
+  Keh utha darya hai is ke paas Haidar ka alam
   Chhor de saahil ko pehredaar
   Lashkar meiṅ bari dhum hai
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Lashkar meiṅ bari dhum hai
 
   4
-  Har qadam rahwaar ke humraah chalti hai qaza
+  Har dam rahwaar ke humraah chalti hai qaza
   Hai dhamak aisi larazta hai ye dasht-e-Nainawa
   Ab teri talwaar se paani piyegi Alqama
   Ae khudaai fauj ke saalaar
@@ -72,7 +72,7 @@ romanLyrics: |-
   Barse wo tir mashk chhidi aur alam gira
   Paani na pahuncha pyaasoṅ ko ae waaye Alqama
   Baazu kata ke sher bhi darya pe so gaya
-  Ae Mazhar o Farhan qayaamat hui bapa
+  Ae Mazhar o Farhaa qayaamat hi bapa
   Haathoṅ se kamar thaam ke aaye Shaah-e-Huda
   Bhaai ko zakhmi dekh ke nauha yehi kiya
 ---

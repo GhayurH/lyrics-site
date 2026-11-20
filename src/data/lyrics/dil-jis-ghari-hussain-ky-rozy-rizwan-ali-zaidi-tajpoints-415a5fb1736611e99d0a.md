@@ -1,34 +1,55 @@
 ---
-title: "Dil Jis Ghari Hussain Ky Rozy Rizwan Ali Zaidi"
+title: "دل جس گھڑی حسین کے روضے رضوان علی زیدی"
+alternateTitle: "Dil Jis Ghari Hussain Ky Rozy Rizwan Ali Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Dil jis ghari Hussain ke rozay tak aa gaya
+  Aisa laga keh Sidrah se aagay tak aa gaya
+  Par jal gaye they par woh ura Fitrus-e-be par
+  Par lainay jab Hussain ke jholay tak aa gaya
+  Makkay mein jhuktay reh gaye haji makan ko
+  Our Kaba apni rooh ke sajday tak aa gaya
+  Tofan-e-Shar mein doob ke nikla tu khair se
+  Hur, Nooh e Karbala ke safeney tak aa gaya
+  Khutba Ali ka roh-e-saloni ko dhondta
+  Oskut ko sun ke bibi ke lehjay tak aa gaya
+  Bina tha kitna suntay hi nabina ne kaha
+  Aye shamiyon Ali ke main khutbay tak aa gaya
+  Kam sin sipahi shah ka khanjar ki chok se
+  Baiyat ghaseetta howa Kofay tak aa gaya
+  Munh phair lein gay soch lo oss oss se Mustafa
+  Jo Karbala ko choray Madine tak aa gaya
+  Bhujhtay hoye charag ki lau mein jo noor tha
+  Roshan howa tu Jaun ke chehray tak aa gaya
+  Jonhi jabeen Hussain ke dar par rakhi Asad
+  Zair wahin pe arsh ke zeenay tak aa gaya
 ---
 
-1
-Dil Jis Ghari Hussain Ky Rozy Rizwan Ali Zaidi.
-Dil Jis Ghari Hussain Ke Rozay Tak Aa Gaya.
-Aisa Laga Keh Sidrah Se Aagay Tak Aa Gaya.
-Par Jal Gaye They Par Woh Ura Fitrus-e-Be Par.
-Par Lainay Jab Hussain Ke Jholay Tak Aa Gaya.
-Makkay Mein Jhuktay Reh Gaye Haji Makan Ko.
-Our Kaba Apni Rooh Ke Sajday Tak Aa Gaya.
-Tofan-e-Shar Mein Doob Ke Nikla Tu Khair Se.
-Hur, Nooh e Karbala Ke Safeney Tak Aa Gaya.
-Khutba Ali Ka Roh-e-Saloni Ko Dhondta.
-Oskut Ko Sun Ke Bibi Ke Lehjay Tak Aa Gaya.
-Bina Tha Kitna Suntay Hi Nabina Ne Kaha.
-Aye Shamiyon Ali Ke Main Khutbay Tak Aa Gaya.
-Kam Sin Sipahi Shah Ka Khanjar Ki Chok Se.
-Baiyat Ghaseetta Howa Kofay Tak Aa Gaya.
-Munh Phair Lein Gay Soch Lo Oss Oss Se Mustafa.
-Jo Karbala Ko Choray Madine Tak Aa Gaya.
-Bhujhtay Hoye Charag Ki Lau Mein Jo Noor Tha.
-Roshan Howa Tu Jaun Ke Chehray Tak Aa Gaya.
-Jonhi Jabeen Hussain Ke Dar Par Rakhi Asad.
-Zair Wahin Pe Arsh Ke Zeenay Tak Aa Gaya.
+۱
+دل جس گھڑی حسین کے روضے تک آ گیا
+ایسا لگا کہ سدرہ سے آگے تک آ گیا
+پر جل گئے تھے پر وہ اُڑا فطرسِ بے پر
+پر لینے جب حسین کے جھولے تک آ گیا
+مکے میں جھکتے رہ گئے حاجی مکاں کو
+اور کعبہ اپنی روح کے سجدے تک آ گیا
+طوفانِ شر میں ڈوب کے نکلا تو خیر سے
+حر، نوحِ کربلا کے سفینے تک آ گیا
+خطبہ علی کا روحِ سلونی کو ڈھونڈتا
+اُس سکوت کو سن کے بی‌بی کے لہجے تک آ گیا
+بینا تھا کتنا سنتے ہی نابینا نے کہا
+اے شامیو علی کے میں خطبے تک آ گیا
+کم سن سپاہی شاہ کا خنجر کی چوک سے
+بیعت گھسیٹتا ہوا کوفے تک آ گیا
+منہ پھیر لیں گے سوچ لو اُس اُس سے مصطفیٰ
+جو کربلا کو چھوڑے مدینے تک آ گیا
+بجھتے ہوئے چراغ کی لو میں جو نور تھا
+روشن ہوا تو جون کے چہرے تک آ گیا
+جونہی جبین حسین کے در پر رکھی اسد
+زائر وہیں پہ عرش کے زینے تک آ گیا

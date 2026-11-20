@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab sar e Husain kat ke khaak pe gira
+  Jab sar-e-Husain kat ke khaak pe gira
   Aa rahi thi shaah ke badan se ye sada
-  Maa haye maa haye maa
-  Maa tumhari godh meiṅ ab Husain kaise soyega
-  Amma mera sar nahi raha
-  Jis ki tum nazar utaarti rahi ho maa
-  Aankheiṅ wo kahaṅ wo mera chehra ab kahaṅ
-  Zulfeiṅ tum sawaarti thi kitne pyar se
-  Maatha kaise choomogi Husain ka yahaṅ
-  Hasrateiṅ nikalogi aaj kaise khud batao na
-  Amma mera sar...
-  Shimr kaat'ta tha amma jab mera dahan
+  Maaṅ haaye maaṅ haaye maaṅ
+  Maaṅ tumhaari god meiṅ ab Husain kaise soye ga
+  Ammaaṅ mera sar nahiṅ raha
+  Jis ki tum nazar utaarti rahi ho maaṅ
+  Aankheiṅ wo kahaaṅ wo mera chehra ab kahaaṅ
+  Zulfeiṅ tum sanwaarti thi kitne pyaar se
+  Maatha kaise chumo gi maaṅ Husain ka yahaaṅ
+  Hasrateiṅ nikaalo gi aaj kaise khud bataao na
+  Ammaaṅ mera sar...
+  Shimr kaatta tha ammaaṅ jab mera dahan
   Kuch qadam se dekhti rahi meri behen
   Baaloṅ se utha ke sar wo saath le gaya
   Khaak par tarapta reh gaya mera badan
-  Mere khushk halq par khanjar itni dayr tak chala
-  Amma mera sar...
-  Amma koi kurta le gaya Husain ka
+  Mere khushk halq par khanjar itni der tak chala
+  Ammaaṅ mera sar...
+  Ammaaṅ koi kurta le gaya Husain ka
   Koi khuṅ bhara amaama le gaya mera
   Ungli meri kaat di anguthi ke liye
-  Dekho ab mere badan pe kuch nahi bacha
-  Lut'te rahe mujhe shamiyoṅ ko jab pata chala
-  Amma mera sar...
-  Zakhmi hoke jab zamin par gira Husain
-  Pyasa mar gaya tumhara laadla Husain
-  Dafn kar chuka huṅ apne sheerkhwar ko
+  Dekho ab mere badan pe kuch nahiṅ bacha
+  Lutte rahe mujhe Shaamiyoṅ ko jab pata chala
+  Ammaaṅ mera sar...
+  Zakhmi ho ke jab zamin par gira Husain
+  Pyaasa mar gaya tumhaara laadla Husain
+  Dafn kar chuka huṅ apne shir khwaar ko
   Dekho ek din meiṅ kitna thak chuka Husain
-  Haath bhai ke kate seena chid gaya jawan ka
-  Amma mera sar...
-  Chaar saal jisko maiṅ ne pyar se rakha
-  Kha chuki hai aaj wo tamacha shimr ka
-  Kurta jal chuka hai chin gayi hai baaliyaṅ
-  Baba tum kahaṅ ho de rahi hai wo sada
-  Ab sakina dasht meiṅ kaise dhoondegi badan mera
-  Amma mera sar...
-  Zainab aayegi jab amma meri laash par
-  Wo yahin giregi bhai bhai bol kar
-  Pattharoṅ ko laash se wo jab hatayegi
+  Haath bhaai ke kate sina chhid gaya jawaan ka
+  Ammaaṅ mera sar...
+  Chaar saal jis ko main ne pyaar se rakha
+  Kha chuki hai aaj wo tamaancha Shimr ka
+  Kurta jal chuka hai chhin gayi hai baaliyaaṅ
+  Baba tum kahaaṅ ho de rahi hai wo sada
+  Ab Sakina dasht meiṅ kaise dhunde gi badan mera
+  Ammaaṅ mera sar...
+  Zainab aaye gi jab ammaaṅ meri laash par
+  Wo yahi gire gi bhaai bhaai bol kar
+  Pattharoṅ ko laash se wo jab hataaye gi
   Chaahta tha dekh luṅ behen ko ek nazar
-  Haye hasrata magar mai behen ko kaise dekhunga
-  Amma mera sar...
-  Zishan abidi ye gunji dasht meiṅ sada
-  Beta tere paas aagayi hai fatema
-  Maa to maa hai godh meiṅ utha legi tujhe
-  Sar nahi to kya hua badan to hai tera
-  Soja meri godh meiṅ dekh maa se ab na bolna
-  Amma mera sar...
+  Haaye hasrata magar main behen ko kaise dekhuṅ ga
+  Ammaaṅ mera sar...
+  Zishaan Aabidi ye gunji dasht meiṅ sada
+  Beta tere paas aa gayi hai Fatema
+  Maaṅ to maaṅ hai god meiṅ utha le gi tujhe
+  Sar nahiṅ to kya hua badan to hai tera
+  So ja meri god meiṅ dekh maaṅ se ab na bolna
+  Ammaaṅ mera sar...
 ---
 
 ۱

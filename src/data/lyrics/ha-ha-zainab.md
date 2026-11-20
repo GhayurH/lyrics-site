@@ -8,6 +8,43 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bismillah-ir-Rahman-ir-Rahim
+  Haaye Zainab
+  Haaye haaye Zainab haaye haaye Shaam
+  Haaye haaye Zainab haaye haaye Shaam
+  Haaye Zainab ko zamaane ne khule sar dekha
+  Jis ko Ghazi ne bhi nazreṅ na utha kar dekha
+
+  1
+  Kam na thi Shimr ke khanjar se nazar logoṅ ki
+  Shah ne neze se bahan ko tah-e-khanjar dekha
+
+  2
+  Haath aaṅkhoṅ pe Sakina ke rakhe bhai ne
+  Paani pita hua jab Shaam ka lashkar dekha
+
+  3
+  Tir ka zakhm kahaaṅ yaad raha Asghar ko
+  Maaṅ ko jab Shaam meiṅ khaate hue patthar dekha
+
+  4
+  Haath khaali na the baazaar meiṅ aane waale
+  Kaheeṅ sadqe ki khajureṅ kaheeṅ patthar dekha
+
+  5
+  Tasht meiṅ baap ka sar aur laboṅ par thi chhari
+  Ek maasum si bachchi ne ye manzar dekha
+
+  6
+  Jis ne maanga na kafan baap ki mayyat ke liye
+  Us ko Zainab ke liye maangte chaadar dekha
+
+  7
+  Phir takallum na Alamdar ne kholi aaṅkheṅ
+  Bint-e-Zehra ki jo chaadar ko sina par dekha
+
+  Haaye Zainab ko zamaane ne khule sar dekha
 ---
 
 ۱

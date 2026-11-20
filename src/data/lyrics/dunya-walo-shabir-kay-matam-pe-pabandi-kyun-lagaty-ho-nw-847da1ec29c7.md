@@ -1,39 +1,83 @@
 ---
-title: "Dunya Walo Shabir Kay Matam Pe Pabandi Kyun Lagaty Ho"
+title: "دنیا والو شبیر کے ماتم پہ پابندی کیوں لگاتے ہو"
+alternateTitle: "Dunya Walo Shabir Kay Matam Pe Pabandi Kyun Lagaty Ho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dunya walo Shabir kay matam pe pabandi kyun lagaty ho
+
+  1
+  Zahra k pak gharany ko, maqtal me jinho ne mar diya
+  Tum un k hi kuch lagty ho, such bat ko yad karaty ho
+
+  2
+  Zainab ne bary dukh jhely hen darbaron me bazaron me
+  Sang barsaty thy sub Shami in be chadar mastooron pe
+  Mola k julooson me phir tum ye rasem wohi dohraty ho
+
+  3
+  Jo log Ali k dushman thy, diya Hassan ko sum un logon ny
+  Shabir pe khanjar chala kr phir, olad e Ali ko qaid kiya
+  Tum pairokar unhi k ho, khud apna roop dikhaty ho
+
+  4
+  Abbas chaly jab pani ko, Zainab sar peet k rony lagi
+  Mere sar pe jo maa ki chadar he, jb Shaami aakr looten gy
+  Hum zinda rahen k mar jayen, hume tum jo chor k jaty ho
+
+  5
+  Abbas ko pahly qatl kiya, phir aag lagai khaimo ko
+  Ghazi k alam jala kr tum ye sabit krna chahty ho
+  Maqtal me sitam jo reh gye thy wo ab tum aakr dhaaty ho
+
+  6
+  Zindan me Sakina aur Zainab ye dekh k phir roti hoti hongi
+  Shabbir k matamdaron pe andhery zulm kamany lagy
+  Abi nasal Yazeed ki baqi he, tum khud hi ye batlaty ho
+
+  7
+  Akhtar har matmi ko janat mahshar me dilayengi Zahra
+  Shabir k dard me gum ho kr jo seena kobi karty ho
+  Wallah tum apny hathon se firdos me ghar banwaty ho
 ---
 
-Dunya Walo Shabir Kay Matam Pe Pabandi Kyun Lagaty Ho
+دنیا والو شبیر کے ماتم پہ پابندی کیوں لگاتے ہو
 
-Zahra K Pak Gharany Ko, Maqtal Me Jinho Ne Mar Diya,
-Tum Un K Hi Kuch Lagty Ho, Such Bat Ko Yad Karaty Ho.
+۱
+زہرا کے پاک گھرانے کو، مقتل میں جنھوں نے مار دیا
+تم ان کے ہی کچھ لگتے ہو، سچ بات کو یاد کراتے ہو
 
-Zainab Ne Bary Dukh Jhely Hen Darbaron Me Bazaron Me,
-Sang Barsaty Thy Sub Shami In Be Chadar Mastooron Pe,
-Mola K Julooson Me Phir Tum Ye Rasem Wohi Dohraty Ho
+۲
+زینب نے بڑے دکھ جھیلے ہیں درباروں میں بازاروں میں
+سنگ برساتے تھے سب شامی ان بے چادر مستوروں پہ
+مولا کے جلوسوں میں پھر تم یہ رسم وہی دہراتے ہو
 
-Jo Log Ali K Dushman Thy, Diya Hassan Ko Sum Un Logon Ny,
-Shabir Pe Khanjar Chala Kr Phir, Olad E Ali Ko Qaid Kiya,
-Tum Pairokar Unhi K Ho, Khud Apna Roop Dikhaty Ho
+۳
+جو لوگ علی کے دشمن تھے، دیا حسن کو سم ان لوگوں نے
+شبیر پہ خنجر چلا کر پھر، اولادِ علی کو قید کیا
+تم پیروکار انھی کے ہو، خود اپنا روپ دکھاتے ہو
 
-Abbas Chaly Jab Pani Ko, Zainab Sar Peet K Rony Lagi,
-Mere Sar Pe Jo Maa Ki Chadar He, Jb Shaami Aakr Looten Gy,
-Hum Zinda Rahen K Mar Jayen, Hume Tum Jo Chor K Jaty Ho
+۴
+عباس چلے جب پانی کو، زینب سر پیٹ کے رونے لگی
+میرے سر پہ جو ماں کی چادر ہے، جب شامی آ کر لوٹیں گے
+ہم زندہ رہیں کہ مر جائیں، ہمیں تم جو چھوڑ کے جاتے ہو
 
-Abbas Ko Pahly Qatl Kiya,phir Aag Lagai Khaimo Ko,
-Ghazi K Alam Jala Kr Tum Ye Sabit Krna Chahty Ho,
-Maqtal Me Sitam Jo Reh Gye Thy Wo Ab Tum Aakr Dhaaty Ho
+۵
+عباس کو پہلے قتل کیا، پھر آگ لگائی خیموں کو
+غازی کے علم جلا کر تم یہ ثابت کرنا چاہتے ہو
+مقتل میں ستم جو رہ گئے تھے وہ اب تم آ کر ڈھاتے ہو
 
-Zindan Me Sakina Aur Zainab Ye Dekh K Phir Roti Hoti Hongi,
-Shabbir K Matamdaron Pe Andhery Zulm Kamany Lagy,
-Abi Nasal Yazeed Ki Baqi He, Tum Khud Hi Ye Batlaty Ho
+۶
+زندان میں سکینہ اور زینب یہ دیکھ کے پھر روتی ہوتی ہوں گی
+شبیر کے ماتم داروں پہ اندھیرے ظلم کمانے لگے
+ابھی نسل یزید کی باقی ہے، تم خود ہی یہ بتلاتے ہو
 
-Akhtar Har Matmi Ko Janat Mahshar Me Dilayengi Zahra,
-Shabir K Dard Me Gum Ho Kr Jo Seena Kobi Karty Ho,
-Wallah Tum Apny Hathon Se Firdos Me Ghar Banwaty Ho
+۷
+اختر ہر ماتمی کو جنت محشر میں دلائیں گی زہرا
+شبیر کے درد میں گم ہو کر جو سینہ کوبی کرتے ہو
+واللہ تم اپنے ہاتھوں سے فردوس میں گھر بنواتے ہو

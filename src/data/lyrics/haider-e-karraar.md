@@ -12,33 +12,33 @@ aliases: ["Hyder E Karrar"]
 published: true
 romanLyrics: |-
   Ya Ali Maula Ali Ali Ali Ali
-  Ali Ali Maula Ali ya Ali ya Ali
+  Ali Ali Maula Ali ya Ali
 
   1
   Jaan-e-chaman tu shiriṅ sukhan tu
   Rab ka dahan tu shaah-e-zaman tu
-  Ali Ali Maula Ali ya Ali ya Ali
+  Ali Ali Maula Ali ya Ali
 
   2
   Us ki duniya ghulaam hoti hai
   Jo Ali ka ghulaam hota hai
-  Rang Hyder ka jis pe charh jaaye
+  Rang Haider ka jis pe charh jaaye
   Us ka mar kar bhi naam hota hai
   Ali Ali Maula Ali Ali Maulaana Ali
-  Maula Maula Maula Ali un Waliullah
+  Maula Maula Maula Aliyyun Waliullah
 
   3
   Sarkaar alamdaar do aalam ka madadgaar
-  Ali Hyder-e-Karraar
-  Piroṅ meiṅ mera pir zabardast hai sarkaar
-  Ali Hyder-e-Karraar
+  Ali Haider-e-Karraar
+  Piroṅ meiṅ pir zabardast hai sarkaar
+  Ali Haider-e-Karraar
 
   4
   Shaahoṅ se bhi aala hai tere dar ke gadaagar
   Karte haiṅ ghulaami teri duniya ke Sikandar
   Aala hai amiroṅ se faqiroṅ ke muqaddar
   Jannat ke haiṅ taajir teri dehliz ke naukar
-  Naara-e-Hyderi Maula
+  Naara-e-Haideri Maula
   Naara-e-Khaibari Maula
   Naara-e-Safdari Maula
   Naara-e-Qambari Maula
@@ -46,10 +46,10 @@ romanLyrics: |-
 
   5
   Sarkaar alamdaar do aalam ka madadgaar
-  Ali Hyder-e-Karraar
-  Piroṅ meiṅ mera pir zabardast hai sarkaar
-  Ali Hyder-e-Karraar
-  Maula Maula Maula Ali un Waliullah
+  Ali Haider-e-Karraar
+  Piroṅ meiṅ pir zabardast hai sarkaar
+  Ali Haider-e-Karraar
+  Maula Maula Maula Aliyyun Waliullah
 
   6
   Allah ka anmol jo shahkaar bana hai
@@ -61,14 +61,14 @@ romanLyrics: |-
   Shaah-e-mardaan hai Maula
   Sher-e-Yazdaan hai Maula
   Kehte haiṅ Nabi apna jise waaris-e-dastaar
-  Ali Hyder-e-Karraar
+  Ali Haider-e-Karraar
 
   7
   Sarkaar alamdaar do aalam ka madadgaar
-  Ali Hyder-e-Karraar
-  Piroṅ meiṅ mera pir zabardast hai sarkaar
-  Ali Hyder-e-Karraar
-  Maula Maula Maula Ali un Waliullah
+  Ali Haider-e-Karraar
+  Piroṅ meiṅ pir zabardast hai sarkaar
+  Ali Haider-e-Karraar
+  Maula Maula Maula Aliyyun Waliullah
 
   8
   Saadaat ki pur azm qiyaadat meiṅ Ali hai
@@ -80,14 +80,14 @@ romanLyrics: |-
   Aal-e-Athar meiṅ bhi Maula
   Haaṅ bahattar meiṅ bhi Maula
   Hai paak gharaana tera Islam ka memaar
-  Ali Hyder-e-Karraar
+  Ali Haider-e-Karraar
 
   9
   Sarkaar alamdaar do aalam ka madadgaar
-  Ali Hyder-e-Karraar
-  Piroṅ meiṅ mera pir zabardast hai sarkaar
-  Ali Hyder-e-Karraar
-  Maula Maula Maula Ali un Waliullah
+  Ali Haider-e-Karraar
+  Piroṅ meiṅ pir zabardast hai sarkaar
+  Ali Haider-e-Karraar
+  Maula Maula Maula Aliyyun Waliullah
 
   10
   Sarkaar ye sab aap ki zauja ki dua hai
@@ -97,19 +97,19 @@ romanLyrics: |-
   Ham azaadaar haiṅ Maula
   Ham wafaadaar haiṅ Maula
   Tere ghamkhwaar haiṅ Maula
-  Aap sardaar haiṅ Maula
+  Aap sarkaar haiṅ Maula
   Sarkaar bana lijiye apna hameṅ zawwaar
-  Ali Hyder-e-Karraar
+  Ali Haider-e-Karraar
 
   11
   Sarkaar alamdaar do aalam ka madadgaar
-  Ali Hyder-e-Karraar
+  Ali Haider-e-Karraar
 
   12
   Shaah-e-mardaaṅ sher-e-Yazdaaṅ
   Quwwat-e-Parwardigaar
   La fata illa Ali la saif illa Zulfiqaar
-  Beali-in beali-in beali-in beali
+  Be Ali-in be Ali-in be Ali-in be Ali
 
   13
   Meri har fikr meiṅ har soch meiṅ rehta hai Ali
@@ -136,12 +136,12 @@ romanLyrics: |-
   Gauhar-e-mimbar Ali Ali Ali
   Sher-e-dilaawar Ali Ali Ali
   Mera qaul o muqaddar Ali Ali Ali
-  Sahifa-e-falak Hyder Hyder
-  Wazifa-e-malak Hyder Hyder
-  Hai arsh-e-ula talak Hyder Hyder
-  Shehanshaah-e-Najaf Hyder Hyder
-  Nuqta-e-baa-sharaf Hyder Hyder
-  Sada hai har taraf Hyder Hyder
+  Sahifa-e-falak Haider Haider
+  Wazifa-e-malak Haider Haider
+  Hai arsh-e-ula talak Haider Haider
+  Shehanshaah-e-Najaf Haider Haider
+  Nuqta-e-baa sharaf Haider Haider
+  Sada hai har taraf Haider Haider
 
   17
   Maula Maula Ali Ali Ali

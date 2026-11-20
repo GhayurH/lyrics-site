@@ -8,47 +8,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kaisy jhulaoṅ Asghar
-  Khali ye tera jhula kaisy jhulaoṅ Asghar
+  Kaise jhulaauṅ Asghar
+  Khaali ye tera jhula kaise jhulaauṅ Asghar
 
   1
-  Lori hawaoṅ ko maiṅ
-  Kiuṅ kar sunaoṅ Asghar
+  Lori hawaaoṅ ko main
+  Kiuṅkar sunaauṅ Asghar
 
   2
-  Tu dhup maiṅ para hai, jalti zamiṅ k upar
-  Saye maiṅ tu bata dy
-  Maiṅ kaisy jaoṅ Asghar
+  Tu dhup mein para hai, jalti zamiṅ ke upar
+  Saaye mein tu bata de
+  Main kaise jaauṅ Asghar
 
   3
-  Rutha hai apni maa sy, maa nangy sar hai beta
-  Kaisy tujhy manany
-  Maidaṅ maiṅ jaoṅ Asghar
+  Rutha hai apni maaṅ se, maaṅ nange sar be beta
+  Kaise tujhe manaane
+  Maidaaṅ mein jaauṅ Asghar
 
   4
-  Abbas haiṅ na Akbar, Qasim rahy na Sarwar
-  Abid pary haiṅ ghash maiṅ
-  Kaisy jagaoṅ Asghar
+  Abbas haiṅ na Akbar, Qaasim rahe na Sarwar
+  Aabid pare haiṅ ghash mein
+  Kaise jagaauṅ Asghar
+  Khaali ye tera jhula kaise jhulaauṅ Asghar
+  Mamta ki chhaaoṅ hogi, kuchh to mile gi raahat
+  Main apne dil mein teri
+  Turbat banaauṅ Asghar
+  Khaali ye tera jhula kaise jhulaauṅ Asghar
+  Khul jaaye haath mere, mil jaaye mujhko chaadar
+  Turbat pe tere aakar
+  Aanchal urhaauṅ Asghar
 
   5
-  Mamta ki chaoṅ hogi, kuch tou mily gi rahat
-  Maiṅ apny dil maiṅ teri
-  Turbat banaoṅ Asghar
+  Aaja ke din dhala hai, raat aa gai hai ban mein
+  Furqat mein dekh teri
+  Main mar na jaauṅ Asghar
 
   6
-  Khul jaye hath mery, mil jaye mujhko chadar
-  Turbat py teri akar
-  Aanchal urhaoṅ Asghar
-
-  7
-  Aja k din dhala hai, raat agai hai ban maiṅ
-  Furqat maiṅ dekh teri
-  Maiṅ mar na jaoṅ Asghar
-
-  8
-  Bano k laal itni, Rehan ko dua dy
-  Umm-e-Rubab ko ye
-  Noha sunaoṅ Asghar
+  Baano ke laal itni, Rehan ko dua de
+  Umm-e-Rubaab ko ye
+  Nauha sunaauṅ Asghar
 ---
 
 ,  کیسے جھلاؤں اصغرؑ

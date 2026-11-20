@@ -24,7 +24,7 @@ romanLyrics: |-
   Lab-e-Rasul pe jo thi hansi Ghadir ke din
 
   3
-  Khuda ne sehra meiṅ Kausar ke jaam chhalkaaye
+  Khuda ne sahra meiṅ Kausar ke jaam chhalkaaye
   Kisi ke lab pe na thi tashnagi Ghadir ke din
   Ali ke sar pe wilaayat ka taaj aisa saja
   Samajh meiṅ aai Abu Taalibi Ghadir ke din

@@ -25,8 +25,8 @@ romanLyrics: |-
 
   2
   Hajj ka sawaab le ke utha tera har qadam
-  Rakha qadam zamin pe to umrah hua raqam
-  Aawaaz aa rahi hai yeh Nabiyoṅ ki dam ba dam
+  Rakha qadam zamin pe to umra hua raqam
+  Aawaaz aa rahi hai yeh nabiyoṅ ki dam ba dam
   Tu zaair-e-Husain tere zaairin hum
   Didaar kar ke rauza-e-Sarwar ka farsh par
   Tu ne Khuda ko dekh liya jaa ke arsh par
@@ -35,7 +35,7 @@ romanLyrics: |-
   Khola hai Rab ne baab-e-fazilat tere liye
   Qudsi bhi kar rahe hai ibaadat tere liye
   Kausar hai tere waaste jannat tere liye
-  Arafe ke roz hai yeh Sadat tere liye
+  Arafe ke roz hai yeh saadat tere liye
   Mumtaaz kar diya tere masjud ne tujhe
   Haaji se pehle dekha hai maabud ne tujhe
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   Tera malaaika se bhi barh kar nasib hai
   Kya martaba tujhe sar-e-mahshar nasib hai
   Jab naasiraan-e-Shaah ko Khaaliq bulaaye ga
-  Mahshar meiṅ tu bhi saath bahattar ke jaaye ga
+  Mahshar mein tu bhi saath bahattar ke jaaye ga
 
   5
   Hajj ke baghair hajj ka fariza ada kiya
@@ -59,30 +59,30 @@ romanLyrics: |-
   Kis tarah se bayaan ho manzar woh ishq ke
   Paidal jo Karbala ko nikalte haiṅ qaafile
   Koi Najaf se aur koi Basra ki raah se
-  Haathoṅ meiṅ Ya Husain ke parcham liye hue
+  Haathoṅ mein Ya Husain ke parcham liye hue
   Zaair jo Karbala ki taraf daure jaate haiṅ
   Abbas chal ke khud unheṅ lene ko aate haiṅ
 
   7
-  Hoti hai ik qataar-e-mokib wahaaṅ saji
-  Khidmat meiṅ zaairin ki rehta hai har koi
-  Paani liye koi to koi ban ke maalshi
-  Un khaadmoṅ ke ishq pe kehta hai dil yehi
+  Hoti hai ik qataar-e-maukib wahaaṅ saji
+  Khidmat mein zaairin ki rehta hai har koi
+  Paani liye koi to koi ban ke maalishi
+  Un khaadimoṅ ke ishq pe kehta hai dil yehi
   Karte haiṅ saaf aa ke pasina jabiṅ se
   Milne Husain aate haiṅ jab khadmain se
 
   8
   Dulhan ki tarah raah sajaate haiṅ aashiqin
   Khaime muhabbatoṅ ke lagaate haiṅ aashiqin
-  Jo saal bhar meiṅ rizq kamaate haiṅ aashiqin
+  Jo saal bhar mein rizq kamaate haiṅ aashiqin
   Daulat woh zaairoṅ pe lutaate haiṅ aashiqin
   Kehte haiṅ phir bhi qalb hamaare na bhar sake
   Hum zaair-e-Husain ki khidmat na kar sake
 
   9
-  Jo raaste meiṅ Karb o Bala ke guzar gaye
+  Jo raaste mein Karb o Bala ke guzar gaye
   Kaise kahuṅ ke Mir Takallum woh mar gaye
-  Pardes meiṅ the laut ke woh apne ghar gaye
+  Pardes mein the laut ke woh apne ghar gaye
   Aaye ajal bataauṅ woh zaair kidhar gaye
   Daar-e-fana se mulk-e-baqa le gaye Husain
   Khud aa ke un ko Karb o Bala le gaye Husain

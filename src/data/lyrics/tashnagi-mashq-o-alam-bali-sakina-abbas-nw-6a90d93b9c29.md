@@ -1,42 +1,89 @@
 ---
-title: "Tashnagi Mashq-O-Alam Bali Sakina Abbas"
+title: "تشنگی، مشک و علم، بالی سکینہ، عباس"
+alternateTitle: "Tashnagi Mashq-o-Alam Bali Sakina Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tashnagi mashq-o-alam bali Sakina Abbas
+
+  Hai tere naam say mansoub yeh charcha Abbas
+
+  1
+  Sabro eesar-e-wafa josh-e-Allamdar-e-Hussain
+  Sher-e-jarrar hama wakt hai ghumkhwar-e-Hussain
+  Tashnalab hotay hue surat-e-dariya Abbas
+
+  2
+  Hukme Shabbir ki zanjeer thi pairoun mai pari
+  Bhai ko aakha kaha aap nay ay ibn-e-Ali
+  Bawafa koi nahi aap kay jaisa Abbas
+
+  3
+  Kut gaye haath chidee mashk-e-Sakina afsous
+  Taar hua khoon say alam, nehr pay aakha afsous
+  Kyoun na ho noha kuna Saaniye Zehra Abbas
+
+  4
+  Raha tak ti hai Sakina dar-e-khaima pai khari
+  Tashnalab hi rahi kaisee hai yeh uftaad pari
+  Khud ko behlati hai day day kay dilasa Abbas
+
+  5
+  Gir gayi sar say rida, Zainab-e-muztar ki utho
+  Lash uth thi nahi Shabbir say Akbar ki utho
+  Aaow daydo zara Sarwar ko sahara Abbas
+
+  6
+  Aag khaimon main lagi ahlay haram khaid huwe
+  Bayka javah su-e-zindaan laeen lay kay chale
+  Saniye Zehra nay hasrat say pukara Abbas
+
+  7
+  Hogaya tukre badan ibn-e-Hassan ka dekho
+  Marhala aagaya bazoo mai rasan ka dekho
+  Khaid honay ko hai Shabbir ka kunba Abbas
 ---
 
-Tashnagi Mashq-O-Alam Bali Sakina Abbas
+تشنگی مشک و علم بالی سکینہ عباس
 
-Hai Tere Naam Say Mansoub Yeh Charcha Abbas
+ہے تیرے نام سے منسوب یہ چرچا عباس
 
-Sabro Eesar-E-wafa Josh-E-Allamdar-E-Hussain
-Sher-E-jarrar Hama Wakt Hai Ghumkhwar-E-Hussain
-Tashnalab Hotay Hue Surat-E-dariya Abbas
+۱
+صبر و ایثارِ وفا جوشِ علمدارِ حسین
+شیرِ جرار ہمہ وقت ہے غمخوارِ حسین
+تشنہ لب ہوتے ہوئے صورتِ دریا عباس
 
-Hukme Shabbir Ki Zanjeer Thi Pairoun Mai Pari
-Bhai Ko Aakha Kaha Aap Nay Ay Ibn-E-Ali
-Bawafa Koi Nahi Aap Kay Jaisa Abbas
+۲
+حکمِ شبیر کی زنجیر تھی پیروں میں پڑی
+بھائی کو آقا کہا آپ نے اے ابنِ علی
+باوفا کوئی نہیں آپ کے جیسا عباس
 
-Kut Gaye Haath Chidee Mashk-E-Sakina Afsous
-Taar Hua Khoon Say Alam, Nehr Pay Aakha Afsous
-Kyoun Na Ho Noha Kuna Saaniye Zehra Abbas
+۳
+کٹ گئے ہاتھ چھدی مشکِ سکینہ افسوس
+تر ہوا خون سے علم، نہر پہ آقا افسوس
+کیوں نہ ہو نوحہ کناں ثانیِ زہرا عباس
 
-Raha Tak Ti Hai Sakina Dar-E-Khaima Pai Khari
-Tashnalab Hi Rahi Kaisee Hai Yeh Uftaad Pari
-Khud Ko Behlati Hai Day Day Kay Dilasa Abbas
+۴
+راہ تکتی ہے سکینہ درِ خیمہ پہ کھڑی
+تشنہ لب ہی رہی کیسی ہے یہ افتاد پڑی
+خود کو بہلاتی ہے دے دے کے دلاسا عباس
 
-Gir Gayi Sar Say Rida, Zainab-E-Muztar Ki Utho
-Lash Uth Thi Nahi Shabbir Say Akbar Ki Utho
-Aaow Daydo Zara Sarwar Ko Sahara Abbas
+۵
+گر گئی سر سے ردا، زینبِ مضطر کی اٹھو
+لاش اٹھتی نہیں شبیر سے اکبر کی اٹھو
+آؤ دے دو ذرا سرور کو سہارا عباس
 
-Aag Khaimon Main Lagi Ahlay Haram Khaid Huwe
-Bayka Javah Su-E-Zindaan Laeen Lay Kay Chale
-Saniye Zehra Nay Hasrat Say Pukara Abbas
+۶
+آگ خیموں میں لگی اہلِ حرم قید ہوئے
+بے کجاوہ سوئے زنداں لعیں لے کے چلے
+ثانیِ زہرا نے حسرت سے پکارا عباس
 
-Hogaya Tukre Badan Ibn-E-Hassan Ka Dekho
-Marhala Aagaya Bazoo Mai Rasan Ka Dekho
-Khaid Honay Ko Hai Shabbir Ka Kunba Abbas
+۷
+ہو گیا ٹکڑے بدن ابنِ حسن کا دیکھو
+مرحلہ آ گیا بازو میں رسن کا دیکھو
+قید ہونے کو ہے شبیر کا کنبہ عباس

@@ -1,32 +1,54 @@
 ---
-title: "Masjid Hai Qatal Gah Janab-e-Ameer Ki"
+title: "مسجد ہے قتل گاہ جنابِ امیر کی"
+alternateTitle: "Masjid Hai Qatal Gah Janab-e-Ameer Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Masjid hai qatal gah Janab-e-Ameer ki
+  Peshani khoon mein tar hai Nabi ke wazeer ki
+
+  1
+  Badla liya gaya hai Ali se namaz mein
+  Thi dushmani Rasool se rooz-e-Ghadeer ki
+  Zainab ne jane kaisay ayelan yeh suna
+  Maiyyat uthai jaye Janab-e-Ameer ki
+
+  2
+  Muslim se bolay Maula Nabi ka safeer hoon
+  Iss shehar mein yeh hoti hai halat safeer ki
+  Tareekh se sawal hai gar Kofi Shia they
+  Inn Kofiyon ne aal-e-Nabi kyun aseer ki
+
+  3
+  Shabeer dekhtey hain yateemo ki ik qatar
+  Zakhmi Ali ko iss ghari hajat hai sheer ki
+  Akbar yeh faiz midhat-e-aal-e-Batool hai
+  Jholi bhari hoi hai Najaf ke faqeer ki
 ---
 
-Masjid Hai Qatal Gah Janab-e-Ameer Ki
-Peshani Khoon Mein Tar Hai Nabi Ke Wazeer Ki
+مسجد ہے قتل گاہ جنابِ امیر کی
+پیشانی خون میں تر ہے نبی کے وزیر کی
 
-1
-Badla Liya Gaya Hai Ali Se Namaz Mein
-Thi Dushmani Rasool Se Rooz-e-Ghadeer Ki
-Zainab Ne Jane Kaisay Ayelan Yeh Suna
-Maiyyat Uthai Jaye Janab-e-Ameer Ki
+۱
+بدلہ لیا گیا ہے علی سے نماز میں
+تھی دشمنی رسول سے روزِ غدیر کی
+زینب نے جانے کیسے اعلان یہ سنا
+میت اٹھائی جائے جنابِ امیر کی
 
-2
-Muslim Se Bolay Maula Nabi Ka Safeer Hoon
-Iss Shehar Mein Yeh Hoti Hai Halat Safeer Ki
-Tareekh Se Sawal Hai Gar Kofi Shia They
-Inn Kofiyon Ne Aal-e-Nabi Kyun Aseer Ki
+۲
+مسلم سے بولے مولا نبی کا سفیر ہوں
+اس شہر میں یہ ہوتی ہے حالت سفیر کی
+تاریخ سے سوال ہے گر کوفی شیعہ تھے
+ان کوفیوں نے آلِ نبی کیوں اسیر کی
 
-3
-Shabeer Dekhtey Hain Yateemo Ki Ik Qatar
-Zakhmi Ali Ko Iss Ghari Hajat Hai Sheer Ki
-Akbar Yeh Faiz Midhat-e-Aal-e-Batool Hai
-Jholi Bhari Hoi Hai Najaf Ke Faqeer Ki
+۳
+شبیر دیکھتے ہیں یتیموں کی اک قطار
+زخمی علی کو اس گھڑی حاجت ہے شیر کی
+اکبر یہ فیضِ مدحتِ آلِ بتول ہے
+جھولی بھری ہوئی ہے نجف کے فقیر کی

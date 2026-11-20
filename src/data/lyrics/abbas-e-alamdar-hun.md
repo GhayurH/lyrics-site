@@ -13,13 +13,13 @@ romanLyrics: |-
   1
   Haaye ghurbat-e-Abbas
   Rukhsaar mere khun se ghaltaaṅ bhi pare haiṅ
-  Tapti hui reti se muṅh Ghazi ke aate haiṅ
+  Tapti hui reti se munh Ghazi ke aate haiṅ
   Taqdir se lachaar huṅ bedast huṅ aaqa
   Abbas-e-Alamdar huṅ bedast huṅ aaqa
   Main bekas o lachaar huṅ bedast huṅ aaqa
   Abbas-e-Alamdar huṅ
   Main kis tarah aaqa teri tazim ko uthuṅ
-  Zakhmi haiṅ mere honth bhi lab kis tarah kholuṅ
+  Zakhmi haiṅ mere hont bhi lab kis tarah kholuṅ
   Main kaisa madadgaar huṅ bedast huṅ aaqa
   Abbas-e-Alamdar huṅ
   Jin pe tha bara naaz wohi saath nahiṅ hai

@@ -14,10 +14,10 @@ romanLyrics: |-
 
   1
   Kuchh is tarah laash aayi ik raat ke byahe ki
-  Afsos ke maadar ne bete ko na pehchana
+  Afsos ke maadar ne bete ko na pehchaana
 
   2
-  Socho to Musalmano ye baat koi kam hai
+  Socho to Musalmaanoṅ ye baat koi kam hai
   Ahmad ki nawaasi ka darbaar meiṅ aa jaana
 
   3
@@ -30,18 +30,18 @@ romanLyrics: |-
 
   5
   Ik tir Ali Asghar ki gardan meiṅ laga aa kar
-  Masum ka haṅs dena aur maut ka ghabraana
+  Maasum ka hans dena aur maut ka ghabraana
 
   6
   Barchhi Ali Akbar ke sine se nikal aayi
-  Dekha na gaya Sheh se yuṅ dil ka nikal jaana
+  Dekha na gaya Shaah se yuṅ dil ka nikal aana
 
   7
-  Darbaar meiṅ logoṅ se Fizza ne kaha ro kar
-  Aati hai Nabi zaadi taazim ko jhuk jaana
+  Darbaar meiṅ Fizza ne logoṅ se kaha ro kar
+  Aati hai Nabi zaadi tazim ko jhuk jaana
 
   8
-  Ta-hashr rulaayega Maula ki tayyari par
+  Taa hashr rulaayega Maula ki tayyaari par
   Duldul ki rikaaboṅ se beti ka lipat jaana
 
   9
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   11
   Bhulega zamaane ko manzar na kabhi Nasir
-  Masum ki maiyyat ko Shabbir ka dafnaana
+  Maasum ki maiyyat ko Shabbir ka dafnaana
 
   12
   Nasir ka ye daawa hai banta hai Husain aise

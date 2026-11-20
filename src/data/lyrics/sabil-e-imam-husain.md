@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Nahr-e-rawaaṅ hai faiz-e-Shah-e-mashraqain ki
+  Nahr rawaaṅ hai faiz-e-Shah-e-mashriqain ki
   Pyaasoṅ piyo sabil hai nazr-e-Husain ki
   Naam-e-Maula pe hai paani jo pilaane wale
   Haaṅ yehi log haiṅ firdaus meiṅ jaane wale
@@ -39,11 +39,11 @@ romanLyrics: |-
 
   6
   Hai yaqin khuld meiṅ wo jaayeṅge sab se pehle
-  Rassiyaaṅ thaame julusoṅ ko chalaane wale
+  Rassiyaaṅ thaame julus ko chalaane wale
 
   7
-  Ek guzaarish hai ke Abbas ke laashe pe na jaaye
-  Chaadar-e-Zahra ko naize pe uthaane wale
+  Ik guzaarish hai ke Abbas ke laashe pe na jaaye
+  Chaadar-e-Zahra ko neze pe uthaane wale
 
   8
   Dar-e-zindaaṅ pe baithi hai Sakina uth ja

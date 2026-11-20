@@ -1,7 +1,7 @@
 ---
 title: "عاشور کا سورج دیکھے گا"
 recitationId: "ashoor-ka-suraj-dekhega"
-alternateTitle: "Ashur Ka Suraj Dekhega"
+alternateTitle: "Aashur Ka Suraj Dekhe Ga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,71 +12,71 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashur ka suraj dekhega
+  Aashur ka suraj dekhe ga
 
   1
-  Abbas-e-Dilawar maqtal meiṅ
-  Beizn-e-wigha jab aayega
-  Tufaan uthega sehra meiṅ
-  Aur darya se takrayega
+  Abbas Dilaawar maqtal meiṅ
+  Beizn-e-wagha jab aaye ga
+  Tufaan uthe ga sehra meiṅ
+  Aur darya se takraaye ga
   Maqtal ki fazaoṅ ko phir se
-  Ik baar Ali yaad aayega
+  Ik baar Ali yaad aaye ga
 
   2
-  Ashur ka suraj dekhega
+  Aashur ka suraj dekhe ga
   Shaane pe sajaye mashkiza
-  Aayega jari haathoṅ meiṅ liye
-  Bas ek alam aur ik naiza
-  Jab ghaat ka pehra tutega
-  Dil zaalim ka ghabrayega
+  Aaye ga jari haathoṅ meiṅ liye
+  Bas ek alam aur ik neza
+  Jab ghaat ka pehra tute ga
+  Dil zaalim ka ghabraaye ga
 
   3
   Saahil ki hawa ki thandak meiṅ
-  Ghore ka badan jab haanpega
+  Ghore ka badan jab haanpe ga
   Bechain sumoṅ ki taapoṅ se
-  Jab darya thar thar kaanpega
+  Jab darya thar thar kaanpe ga
   Jab abr ki surat darya pe
-  Ik tashna dahan chhaa jayega
+  Ik tashna dahan chhaa jaaye ga
 
   4
   Jab maujeṅ behte darya ki
-  Uth uth ke rakaabeṅ chumeṅ gi
-  Jab garm hawaeṅ pyasoṅ ke
+  Uth uth ke rikaabeṅ chumeṅ gi
+  Jab garm hawaeṅ pyaasoṅ ke
   Khaimoṅ ki tamaaweṅ chumeṅ gi
   Jab aab-e-rawaaṅ ke sine pe
-  Ghazi ka alam lehrayega
+  Ghazi ka alam lehraaye ga
 
   5
-  Pani meiṅ girega mashkiza
+  Paani meiṅ gire ga mashkiza
   Jab kaatne wale haathoṅ se
   Kat kar bhi apne maqsad se
   Na hatne wale haathoṅ se
-  Jab fart-e-nidaamat se darya
-  Mashkize meiṅ aa jaaeṅ ge
+  Jab fart-e-nadaamat se darya
+  Mashkize meiṅ aa jaayeṅ ge
 
   6
   Gham dil meiṅ sambhaale bachchoṅ ke
   Haathoṅ ke larazte kuzoṅ ka
-  Jab pani le kar paltega
+  Jab paani le kar palte ga
   Khaimoṅ ki taraf sardaar-e-wafa
   Betegh jari ke sine pe
-  Har samt se hamla aayega
+  Har samt se hamla aaye ga
 
   7
-  Jab gurz lagega chehre pe
+  Jab gurz lage ga chehre pe
   Jab shaane gireṅ ge kat kat kar
-  Jab khaak uregi maqtal meiṅ
-  Jab laash bahegi matti par
-  Jab mashk chhidegi tiroṅ se
-  Dil saqqa ka phat jaayega
+  Jab khaak ure gi maqtal meiṅ
+  Jab laash bahe gi mitti par
+  Jab mashk chhide gi tiroṅ se
+  Dil saqqa ka phat jaaye ga
 
   8
-  Jab Ghazi kahega Maula se
+  Jab Ghazi kahe ga Maula se
   Ik baar hamiyat hai aaqa
   Khaimoṅ meiṅ mujhe na le jaana
   Bas itni wasiyat hai aaqa
   Gar laash gayi khaimoṅ ki taraf
-  Sar Zainab ka khul jaayega
+  Sar Zainab ka khul jaaye ga
 
   9
   Jab Maula tanha lauteṅ ge
@@ -84,23 +84,23 @@ romanLyrics: |-
   Ik khun meiṅ duba surkh alam
   Tiroṅ se chhidi ik mashk liye
   Jab kuze gireṅ ge haathoṅ se
-  Kulsum ko ghash aa jaayega
+  Kulsum ko ghash aa jaaye ga
 
   10
-  Maasum Sakina puchhegi
+  Maasum Sakina puchhe gi
   Hai mashk o alam pe kis ka lahu
   Kiuṅ laut ke waapas aaye nahiṅ
-  Kiuṅ laaye nahiṅ pani ammu
+  Kiuṅ laaye nahiṅ paani ammu
   Ye sun ke ammaaṅ Fizza ki
-  Aankhoṅ meiṅ lahu aa jaayega
+  Aankhoṅ meiṅ lahu aa jaaye ga
 
   11
-  Dil apna dharakta hai Mazhar
+  Dil apna dharaktaa hai Mazhar
   Naqvi jo ishq-e-Karbal meiṅ
   Ye bhi hai karam un haathoṅ ka
   Jo haath kate the maqtal meiṅ
   Jab ahl-e-aza ke ashkoṅ meiṅ
-  Har lafz mera dhal jayega
+  Har lafz mera dhal jaaye ga
 ---
 
 عاشور کا سورج دیکھے گا

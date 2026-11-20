@@ -8,76 +8,50 @@ poet: "Takklum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Di Thi Amma Ne Jo Poshak Wo La Do Zainab"
-romanLyrics: 'Di Thi Amma Ne Jo Poshak Wo La Do Zainab.
-
-  Apne Hathon Se Kafan Mujh Ko Pehna Do Zainab.
-
+alternateTitle: "Di Thi Ammaaṅ Ne Jo Poshaak Wo La Do Zainab"
+romanLyrics: |-
+  Di thi Ammaaṅ ne jo poshaak wo la do Zainab
 
   1
-
-  Aaj Maqtal Mein Faqat Baat Tumhari Ho Gi.
-
-  Abhi Amma Se Mulaqat Humhari Ho Gi.
-
-  Koi Paigham Aghar Hai Tu Suna Do Zainab.
-
-  Hath Paband-e-Rasan Behna Tumhare Hoon Ge.
-
+  Apne haathoṅ se kafan mujh ko pehna do Zainab
+  Aaj maqtal mein faqat baat tumhaari ho gi
+  Abhi Ammaaṅ se mulaaqaat hamaari ho gi
+  Koi paighaam agar hai to suna do Zainab
 
   2
-
-  Mujh Ko Reh Reh Keh Khiyal Aata Hai Lashe Se Mere.
-
-  Teer Kiss Tarha Nikalo Gi Bata Do Zainab.
-
-  Mere Lashe Ki Rahe Gi Tumhein Pehchan Behan.
-
-  Chak Kar Do Mere Kurte Ka Gireban Behan.
-
+  Haath paaband-e-rasan behna tumhaare hoṅ ge
+  Mujh ko reh reh ke khayaal aata hai laashe se mere
+  Tir kis tarah nikaalogi bata do Zainab
 
   3
-
-  Koi Loote Na Isse Aysa Bana Do Zainab.
-
-  Samne Apne Sakina Se Utarwa Lo Gohar.
-
-  Abhi Kuch Dair Mein Lut Jaye Gi Mazloom Ka Ghar.
-
-  Yeh Amanat Kissi Goshe Mein Chupa Do Zainab.
-
+  Mere laashe ki rahe gi tumhein pehchaan behan
+  Chaak kar do mere kurte ka girebaan behna
+  Koi lute na ise aisa bana do Zainab
 
   4
-
-  Bahir Aane Ko Na Khaime Se Main Kehta Tum Ko.
-
-  Hote Abbas Tu Takleef Na Deta Tum Ko.
-
-  Ban Ke Abbas Mujhe Zeen Pe Bitha Do Zainab.
-
-  Qaid Khane Ko Sanbhalo Yeh Amanat Bibi.
-
+  Saamne apne Sakina se utarwa lo gohar
+  Abhi kuch der mein lut jaae ga mazlum ka ghar
+  Ye amaanat kisi goshe mein chhupa do Zainab
 
   5
-
-  Goad Mein Lo Isse Mazloom Ho Rukhsat Bibi.
-
-  Mera Daman Meri Bachi Se Chura Do Zainab.
-
-  Jab Se Akbar Gaye Benai Bhi Aankhoon Ki Gayi.
-
-  La Ke De Do Ali Asghar Ki Nishani Koi.
-
+  Baahar aane ko na khaime se main kehta tum ko
+  Hote Abbaas to taklif na deta tum ko
+  Ban ke Abbaas mujhe ziṅ pe bitha do Zainab
 
   6
+  Qaid khaane ki sanbhaalo ye amaanat Bibi
+  God mein lo ise mazlum ho rukhsat Bibi
+  Mera daaman meri bachchi se chhura do Zainab
 
-  Kurta Be Sheer Ka Ankhoon Se Laga Do Zainab.
+  7
+  Jab se Akbar gae binaai bhi aankhoṅ ki gai
+  La ke de do Ali Asghar ki nishaani koi
+  Kurta beshir ka aankhoṅ se laga do Zainab
 
-  Ghar Se Shabir Janaze Ki Tarha Se Nikle.
-
-  Sab Hi Rote The Takklum Dar-e-Khaima Pe Khare.
-
-  Sheh Ne Jis Dam Kaha Marne Ki Riza Do Zainab.'
+  8
+  Ghar se Shabbir janaaze ki tarah se nikle
+  Sabhi rote the Takallum dar-e-khaima pe khare
+  Sheh ne jis dam kaha marne ki raza do Zainab
 reciter: "Meer Hasan Meer"
 ---
 

@@ -1,36 +1,62 @@
 ---
-title: "Shagan Manawan Syed Raza Abbas Zaidi Lyrics Punjabi 2025"
+title: "شگن مناواں"
+alternateTitle: "Shagan Manawan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shagan manawan Syed Raza Abbas Zaidi
+  Haye Qasim de main sehrey hanjwaan de naal sajawaan
+  Shagna di mehndi wich maa hanjwaan nu ghool ke aakhay
+  Tere shaghan manawan Qasim kiwein sehrawan de pyasay
+  Riya khaimiyaan wich na pani kiwein mehndi ghool liyawan
+  Inna ataina wali Kausar da boha man ke
+  Kis khaimiyo Qasim toraan baraat te janji tere
+  Lailatul Qadar da wehra kehra khaimay putar banawaan
+  Si phul barsan da wela jadon lara ban wich aaya
+  Aidhey tukriyaan te ummat ne aidhey shaghan da jashan manaya
+  Te sir te kitiyaan lokaan teraan pathraan di chawaan
+  Meri teraan saal di mehnat wich Karbal rang le aayi
+  Tainu deen duawaan banra Khatoon-e-Janat aayi
+  Kehway zakhmi pehlu dadi tainu banra aap banawaan
+  Mehndi nu rang charhaway Akbar da zakhmi seena
+  Khushiyaan da rang wadhaway Asghar da teer te hansna
+  Baraat nu rasta dasan Ghazi diyaan katiyaan bawaan
+  Tainu jang di deen ijazat taveez e Hasan le aayi
+  Main veer Hussain te Zainab di saan bewah bharjayi
+  Mera adab hameesh nibhaya aina dowaan bhain bhirawaan
+  Akbar aye wain si maa da tere piyo di qabar te ja ke
+  Dewaan gi tera pursa teri jang da haal suna ke
+  Ik wari qaid nibha ke main watan te wapis jawaan
 ---
 
-1
-Shagan Manawan Syed Raza Abbas Zaidi.
-Haye Qasim De Main Sehrey Hanjwaan De Naal Sajawaan.
-Shagna Di Mehndi Wich Maa Hanjwaan Nu Ghool Ke Aakhay.
-Tere Shaghan Manawan Qasim Kiwein Sehrawan De Pyasay.
-Riya Khaimiyaan Wich Na Pani Kiwein Mehndi Ghool Liyawan.
-Inna Ataina Wali Kausar Da Boha Man Ke.
-Kis Khaimiyo Qasim Toraan Baraat Te Janji Tere.
-Lailatul Qadar Da Wehra Kehra Khaimay Putar Banawaan.
-Si Phul Barsan Da Wela Jadon Lara Ban Wich Aaya.
-Aidhey Tukriyaan Te Ummat Ne Aidhey Shaghan Da Jashan Manaya.
-Te Sir Te Kitiyaan Lokaan Teraan Pathraan Di Chawaan.
-Meri Teraan Saal Di Mehnat Wich Karbal Rang Le Aayi.
-Tainu Deen Duawaan Banra Khatoon-e-Janat Aayi.
-Kehway Zakhmi Pehlu Dadi Tainu Banra Aap Banawaan.
-Mehndi Nu Rang Charhaway Akbar Da Zakhmi Seena.
-Khushiyaan Da Rang Wadhaway Asghar Da Teer Te Hansna.
-Baraat Nu Rasta Dasan Ghazi Diyaan Katiyaan Bawaan.
-Tainu Jang Di Deen Ijazat Taveez e Hasan Le Aayi.
-Main Veer Hussain Te Zainab Di Saan Bewah Bharjayi.
-Mera Adab Hameesh Nibhaya Aina Dowaan Bhain Bhirawaan.
- Akbar Aye Wain Si Maa Da Tere Piyo Di Qabar Te Ja Ke.
-Dewaan Gi Tera Pursa Teri Jang Da Haal Suna Ke.
-Ik Wari Qaid Nibha Ke Main Watan Te Wapis Jawaan.
+۱
+شگن مناواں سید رضا عباس زیدی
+ہائے قاسم دے میں سہرے ہنجواں دے نال سجاواں
+شگناں دی مہندی وچ ماں ہنجواں نوں گھول کے آکھے
+تیرے شگن مناواں قاسم کیویں سہراواں دے پیاسے
+ریہا خیمیاں وچ نہ پانی کیویں مہندی گھول لیاواں
+اِنّا اَعطَینا والی کوثر دا بوہا من کے
+کس خیمیو قاسم توراں بارات تے جانجی تیرے
+لیلۃ القدر دا ویہڑا کیہڑا خیمے پتر بناواں
+سی پھل برسن دا ویلا جدوں لاڑا بن وچ آیا
+ایہدے ٹکڑیاں تے امت نے ایہدے شگناں دا جشن منایا
+تے سر تے کیتیاں لوکاں تیراں پتھراں دی چھاواں
+میری تیراں سال دی محنت وچ کربل رنگ لے آئی
+تینوں دین دعاواں بنڑا خاتونِ جنت آئی
+کہوے زخمی پہلو دادی تینوں بنڑا آپ بناواں
+مہندی نوں رنگ چڑھاوے اکبر دا زخمی سینہ
+خوشیاں دا رنگ ودھاوے اصغر دا تیر تے ہسنا
+بارات نوں رستہ دسن غازی دیاں کٹیاں باواں
+تینوں جنگ دی دین اجازت تعویذِ حسن لے آئی
+میں ویر حسین تے زینب دی ساں بیوہ بھرجائی
+میرا ادب ہمیشہ نبھایا ایناں دواں بھین بھراواں
+اکبر ایہہ وین سی ماں دا تیرے پیو دی قبر تے جا کے
+دیواں گی تیرا پرسا تیری جنگ دا حال سنا کے
+اک واری قید نبھا کے میں وطن تے واپس جاواں

@@ -1,6 +1,6 @@
 ---
 title: "آ جا وے لال اصغر تینوں دیواں لوریاں"
-alternateTitle: "Aa Ja Way Lal Asghar Tenu Dewan Loriyan"
+alternateTitle: "Aa Ja Ve Laal Asghar Tenu Devaaṅ Loriyaaṅ"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa ja way lal Asghar tenu dewan loriyan
-  Kyun rus gaya ayein bachra aa ja toon mur ke khaimay rah wekhdi aye maa
-  Rahwaan tak ke rondi rayiyaan aa ja Asghar shama paiyaan
-  Tere beghair tera Asghar ayeh khali jhola das kiwein main hilan
+  Aa ja ve laal Asghar tenu devaaṅ loriyaaṅ
+  Kiuṅ rus gaya eṅ bachra aa ja tuṅ mur ke khaime raah wekhdi ae maaṅ
+  Raahwaaṅ tak ke rondi rahiyaaṅ aa ja Asghar shaamaaṅ paiyaaṅ
+  Tere baghair tera Asghar eh khaali jhola das kiweṅ main hilaaṅ
 
   2
-  Reh gaye dil de wich arman ayein hosi mera lal jawan ayein
-  Hurmal da teer chaliya pyasay galay te haye ro wain payi karan
-  Ro ro aakhay pak Shabeer aye mangiya pani miliya teer aye
-  Zakhmi gala ayeh tera teri maa nu lal mera kiwein ja ke main wakhan
+  Reh gaye dil de wich armaan eṅ hosi mera laal jawaan eṅ
+  Harmal da tir chaliya pyaase gale te haaye ro wain pai karaaṅ
+  Ro ro aakhe paak Shabir ae mangiya paani miliya tir ae
+  Zakhmi gala eh tera teri maaṅ nuṅ laal mera kiweṅ ja ke main wakhaaṅ
 
   3
-  Pani mangday baal pyasay aa ja khaimay veer Abbas aye
-  Tin din da pyasa Asghar aakhay Rubab, ghazi aidi pyas kinj bhujaan
-  Chum ke chola Sughra aakhay mur na aaya Asghar ja ke
-  Karbal de pasay tak ke payi Sughra wain paway aa mur ke veerna
+  Paani mangde baal pyaase aa ja khaime vir Abbas ae
+  Tin din da pyaasa Asghar aakhe Rubab, ghaazi aidi pyaas kinj bujhaaṅ
+  Chum ke chola Sughra aakhe mur na aaya Asghar ja ke
+  Karbal de paase tak ke pai Sughra wain paawe aa mur ke virna
 
   4
-  Bhar ke aakhay amari pawaan kiwein khali jhola jholawan
-  Tere baaj dil nayi lagda mera lal das ja aa ke kiwein kali main rawaan
-  Pyas bhojayi teer de naal aye ki dasaan masoom da haal aye
-  Ujari Rubab jiwein Asghar kiwein sunaway Sajjad ki lakhaan
+  Bhar ke aakhe amaari paawaaṅ kiweṅ khaali jhola jholaawaaṅ
+  Tere baaj dil naiṅ lagda mera laal das ja aa ke kiweṅ kali main rawaaṅ
+  Pyaas bujhaai tir de naal ae ki dasaaṅ maasum da haal ae
+  Ujri Rubab jiweṅ Asghar kiweṅ sunaawe Sajjad ki lakhaaṅ
 ---
 
 ۱

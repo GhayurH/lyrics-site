@@ -1,6 +1,6 @@
 ---
 title: "شاہ است حسین بادشاہ است حسین"
-alternateTitle: "Sha Ast Husain"
+alternateTitle: "Shaah Ast Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,42 +10,42 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sha ast Husain baadshah ast Husain
+  Shaah ast Husain baadshaah ast Husain
 
   1
-  Diṅ ast Husain diṅ panah ast Husain
-  Sar daad na daad dast dar daste yazid
-  Haqqa ke binaye la ilaah ast Husain
+  Diṅ ast Husain diṅ panaah ast Husain
+  Sar daad na daad dast dar dast-e-Yazid
+  Haqqa ke banaa laa ilaah ast Husain
 
   2
-  Soyi hui dunya ko jagane waala
-  Jaage hue fitne ko sulaane waala
-  Aalam ko siraate haq pe laane waala
-  Raah hast Husain khizrega ast Husain
+  Soi hui duniya ko jagaane waala
+  Jaage hue fitnoṅ sulaane waala
+  Aalam ko sirat-e-haq pe laane waala
+  Raah ast Husain Khizr-e-gaah ast Husain
 
   3
-  Khanjar hai kamar may na sina haath may hai
-  Har gaam tahummal ki ye na haath may hai
-  Bhuka pyasa hai aur jina haath may hai
-  Dar manzile sabr sar bara ast Husain
+  Khanjar hai qamar mein na sinaaṅ haath mein hai
+  Har gaam tahammul ki ye na haath mein hai
+  Bhuka pyaasa hai aur jinaaṅ haath mein hai
+  Dar manzil-e-sabr sarbaraah ast Husain
 
   4
-  Tuti hui bhai ke alam se hai kamar
-  Farzande jawaaṅ ke gham may hai dukhpe basar
-  Chehre pe mala hua hai khune asghar
-  Ae ahle nigaah daad kwah ast Husain
+  Tuti hui bhaai ke alam se hai kamar
+  Farzand-e-jawaaṅ ke gham mein hai zauf-e-basar
+  Chehre pe mala hua hai khun-e-Asghar
+  Ae ahl-e-nigaah daadkhwaah ast Husain
 
   5
-  Ran may tehre to bibiyaṅ ho betaab
-  Ghar may jaye to maange asghar ko rabab
-  Maa kokh jali ko haye kya denge jawab
-  Muztar ba khayaale khaimagah ast Husain
+  Ran mein thahreṅ to bibiyaaṅ hoṅ betaab
+  Ghar mein jaaeṅ to maangeṅ Asghar ko Rubaab
+  Maaṅ kokh jali ko haae kya deṅ ke jawaab
+  Muntazir ba khayaal-e-khaima gaah ast Husain
 
   6
-  Ahmed ke nawase ne bachayi tauhid
-  Khud hogaya kalme ki himayat may shahid
-  Sar daad na daad dast dar daste yazid
-  Haqqa ke binaye la ilaah ast Husain
+  Ahmad ke nawaase ne bachaai tauhid
+  Khud ho gaya kalme ki himaayat mein shahid
+  Sar daad na daad dast dar dast-e-Yazid
+  Haqqa ke banaa laa ilaah ast Husain
 ---
 
 شاہ است حسین بادشاہ است حسین

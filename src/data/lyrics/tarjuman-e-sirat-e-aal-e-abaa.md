@@ -28,17 +28,17 @@ romanLyrics: |-
   3
   Dida-e-ahl-e-sitam par ek parda aa gaya
   Tirgi meiṅ baal bikhraaye andhera chhaa gaya
-  Mundhli suraj ne aankheṅ berida Zainab hui
+  Mundh li suraj ne aankheṅ berida Zainab hui
 
   4
-  Khutba Kufe meiṅ diya bandhwaadi ashkoṅ ki jhari
-  Aur yuṅ hi Shaam ke darbaar meiṅ majlis parhi
+  Khutba Kufe meiṅ diya bandhwaa di ashkoṅ ki jhari
+  Aur yuṅ hi Shaam ke darbaar meiṅ majlis pari
   Haq to ye hai baani-e-rasm-e-aza Zainab hui
 
   5
-  Beriyaṅ Zainab ne pehni aasmaaṅ tharra gaya
+  Beriyaaṅ Zainab ne pehni aasmaaṅ tharra gaya
   Waqt ke maathe pe ghairat ka pasina chhaa gaya
-  Faateh-e-har-manzil-e-sabr o raza Zainab hui
+  Faateh-e-har manzil-e-sabr o raza Zainab hui
 
   6
   Bhet di kis khush dili se apne donoṅ laal ki

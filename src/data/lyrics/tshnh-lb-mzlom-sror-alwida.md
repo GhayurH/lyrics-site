@@ -8,58 +8,45 @@ poet: "Baquer Amanathkhani"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Tashna lab mazloom Sarwar alwida
-
+romanLyrics: |-
+  Tashna lab mazlum Sarwar alwida
   Fatima Zehra ke dilbar alwida
 
-
   1
-
-  Shan e majlis tha tumhara zikr e gham
-
-  Ronaq e mehrab o mimbar alwida
-
+  Shaan-e-majlis tha tumhaara zikr-e-gham
+  Raunaq-e-mehraab o mimbar alwida
 
   2
-
-  Hay jawani bhi wabal e zindagi
-
-  Ab tumharay gham may Akbar alwida
-
+  Hai jawaani bhi wabaal-e-zindagi
+  Ab tumhaare gham mein Akbar alwida
 
   3
-
-  Lijiye Aon o Muhammad ab salam
-
-  Sabra Zainab ke dilbar alwida
-
+  Lijiye Aun o Muhammad ab salaam
+  Saabira Zainab ke dilbar alwida
 
   4
-
-  Dil se ab naqsh e wafa mit-ta nahi
-
-  Jao Abbas e dilawar alwida
-
+  Dil se ab naqsh-e-wafa mitta nahiṅ
+  Jaao Abbas-e-dilaawar alwida
 
   5
-
-  Majliso may ham ko rota chorr kar
-
-  Muskuratay jao Asghar alwida
-
+  Majlisoṅ mein ham ko rota chhor kar
+  Muskuraate jaao Asghar alwida
 
   6
-
-  Ab na Zainab jao gi tum sar khulay
-
-  Nazr hay ashkon ki chadar alwida
-
+  Jaan-e-maadar ae Hasan ke laadle
+  Jism hai paamaal-e-lashkar alwida
 
   7
+  Ae pyaasi Sakina jaan-e-shaah-e-diṅ
+  Laae hain ashkoṅ ke saaghar alwida
 
-  Rotay hain baqar muhibaan e Hussain
+  8
+  Ab na Zainab jaao gi tum sar khule
+  Nazr hai girye ki chaadar alwida
 
-  Kehtay hain sibt e payambar alwida'
+  9
+  Rote hain Baqar muhibbaan-e-Husain
+  Kehte hain sibt-e-payambar alwida
 ---
 
 تشنہ لب مظلوم سرورؑ الوداع

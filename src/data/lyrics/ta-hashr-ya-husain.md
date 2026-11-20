@@ -12,18 +12,18 @@ tags: []
 aliases: ["Ta Hashr Ya Hussain"]
 published: true
 romanLyrics: |-
-  Ta hashr ya Husain tera naam zindaabaad
+  Ta hashr ya Husain tera naam zinda baad
 
   1
-  Ae shahsawaar-e-jaan-e-aalam zindaabaad
-  Ae naakhuda-e-kashti-e-Islam zindaabaad
-  Paaindaa baad saahib-e-samsaam zindaabaad
-  Tu zindaabaad aur tera paighaam zindaabaad
+  Ae shahsawaar-e-jaan-e-aalam zinda baad
+  Ae naakhuda-e-kashti-e-Islam zinda baad
+  Paainda baad saahib-e-samsaam zinda baad
+  Tu zinda baad aur tera paighaam zinda baad
 
   2
   Imaan ki laaj baad shariat tujhi se hai
   Quraaṅ ki saari azmat o hurmat tujhi se hai
-  Masjid ki shaan Kaabe ki satwat tujhi se hai
+  Masjid ki shaan Kaabe ki salwat tujhi se hai
   Saare jahaaṅ meiṅ tanz-e-risaalat tujhi se hai
 
   3
@@ -52,13 +52,13 @@ romanLyrics: |-
 
   7
   Haathoṅ meiṅ nimche liye Zainab ke laadle
-  Dono nihaal nikle haiṅ sar karne marhale
+  Donoṅ nihaal nikle haiṅ sar karne marhale
   Aadaa-e-diṅ ki lene khabar ghaat par chale
   Zehra ki laadli ki haiṅ ye god ke paale
 
   8
   Ran meiṅ dahakti ret pe wo asr ki namaaz
-  Meraaj-e-bandagi ka bataaya ye tu ne aaj
+  Miraaj-e-bandagi ka bataaya ye tu ne aaj
   Kuch kar saki na kufr o zalaalat ki saaz aaj
   Sar de ke din-e-haq ko kiya tu ne sarfaraaz
 

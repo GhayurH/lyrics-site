@@ -1,28 +1,47 @@
 ---
-title: "Akhiyan Mal Mal Zainab Wekhdi Nadeem Sarwar Lyrics Punjabi 1997"
+title: "اکھیاں مل مل زینب ویکھدی"
+alternateTitle: "Akhiyan Mal Mal Zainab Wekhdi"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Akhiyan mal mal Zainab wekhdi Nadeem Sarwar
+
+  1
+  Akhiyaan mal mal Zainab wekhdi nayi veer pachaniya janda aye
+  Libas ghareebi da pehan kar sardar ghareeb kohanda aye
+  Jinda Ghazi kamar v toor gaya ohda Qasim jigar maror gaya
+  Jino Akbar putar chor gaya ohno rasta nazar na aanda aye
+  Rooh Akbar di oh jaway gi ohno maut yaqeenan aaway gi
+  Shabeer di ya Rab khair howay piya barchi nu hath panda aye
+
+  2
+  Ditha barchi khanda Akbar nu bin bazu Abbas Dilawar nu
+  Hun rait te rakh ke Asghar nu piya qabar v aap bananda aye
+  Bin kafno veer Shabeer dissay bin chadar de humsheer dissay
+  Ali Abid zanjeer wich dissay ohno aap yateem bananda aye
+  Jis basti piyo da raaj othay dhi chadar di muhtaj othay
+  Zainab diyaan nabzan rukdiyaan ne dil seene wich ghabranda aye
 ---
 
-Akhiyan Mal Mal Zainab Wekhdi Nadeem Sarwar.
+اکھیاں مل مل زینب ویکھدی ندیم سرور
 
-1
-Akhiyaan Mal Mal Zainab Wekhdi Nayi Veer Pachaniya Janda Aye.
-Libas Ghareebi Da Pehan Kar Sardar Ghareeb Kohanda Aye.
-Jinda Ghazi Kamar V Toor Gaya Ohda Qasim Jigar Maror Gaya.
-Jino Akbar Putar Chor Gaya Ohno Rasta Nazar Na Aanda Aye.
-Rooh Akbar Di Oh Jaway Gi Ohno Maut Yaqeenan Aaway Gi.
-Shabeer Di Ya Rab Khair Howay Piya Barchi Nu Hath Panda Aye.
+۱
+اکھیاں مل مل زینب ویکھدی نئیں ویر پچھانیا جاندا اے
+لباس غریبی دا پہن کر سردار غریب کہاندا اے
+جیندا غازی کمر وی توڑ گیا اوہدا قاسم جگر مروڑ گیا
+جینوں اکبر پتر چھوڑ گیا اوہنوں رستہ نظر نہ آندا اے
+روح اکبر دی اوہ جاوے گی اوہنوں موت یقیناً آوے گی
+شبیر دی یا رب خیر ہووے پیا برچھی نوں ہتھ پاندا اے
 
-2
-Ditha Barchi Khanda Akbar Nu Bin Bazu Abbas Dilawar Nu.
-Hun Rait Te Rakh Ke Asghar Nu Piya Qabar V Aap Bananda Aye.
-Bin Kafno Veer Shabeer Dissay Bin Chadar De Humsheer Dissay.
-Ali Abid Zanjeer Wich Dissay Ohno Aap Yateem Bananda Aye.
-Jis Basti Piyo Da Raaj Othay Dhi Chadar Di Muhtaj Othay.
-Zainab Diyaan Nabzan Rukdiyaan Ne Dil Seene Wich Ghabranda Aye.
+۲
+ڈٹھا برچھی کھاندا اکبر نوں بن بازو عباس دلاور نوں
+ہن ریت تے رکھ کے اصغر نوں پیا قبر وی آپ بناندا اے
+بن کفنوں ویر شبیر دِسّے بن چادر دے ہمشیر دِسّے
+علی عابد زنجیر وچ دِسّے اوہنوں آپ یتیم بناندا اے
+جس بستی پیو دا راج اوتھے دھی چادر دی محتاج اوتھے
+زینب دیاں نبضاں رکدیاں نے دل سینے وچ گھبراندا اے

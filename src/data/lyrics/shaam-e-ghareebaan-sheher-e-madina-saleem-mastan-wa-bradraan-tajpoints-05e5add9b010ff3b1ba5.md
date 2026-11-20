@@ -1,69 +1,123 @@
 ---
-title: "Shaam-e-Ghareebaan Sheher-e-Madina Saleem Mastan Wa Bradraan"
+title: "شامِ غریباں شہرِ مدینہ سلیم مستان و برادران"
+alternateTitle: "Shaam-e-Ghareebaan Sheher-e-Madina Saleem Mastan Wa Bradraan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Marsiya"
 poet: "Ahsaan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sham-e-Ghareebaan shehar-e-Madina mein chayi hai
+  Ghurbat Rasool-e-Pak ke ghar roney aayi hai
+  Zahra ke gham mein noha kuna kul khudai hai
+  Subat Aliya kehta hai haye duhai hai
+  Dunya se aaj jan-e-Payamber guzar gayi
+  Haye Hasan, Hussain ki madar guzar gayi
+
+  2
+  Taboot Syeda ka jo le kar chaley Ali
+  Matam se gaunj uthi Madine ki har ghali
+  Tareeki shab ki our Baqiya mein barh gayi
+  Veerani ghar ki our bhi veeran ho gayi
+  Kuhram barpa ho gaya behno ke bain se
+  Lag kar galay jo roein Hasan our Hussain se
+
+  3
+  Jab dafan kar ke Zahra ko ghar aa gaye Ali
+  Baba ko rota dekh ke Zainab tarap gayi
+  Hathoon ko joor ke kaha mushkil kusha Ali
+  Baba Baqiya le chalein ab betiyon ko bhi
+  Baba humein bhi turbat-e-Zahra pa jana hai
+  Mohsin ka hum ne amma ko noha sunana hai
+
+  4
+  Tareek shab mein qabar pa pohanchi hain betiyaan
+  Ik dosrey ko hosla deti hain betiyaan
+  Aapas mein dono guftgu karti hain betiyaan
+  Yeh qabar bait-e-huzn hai kehti hain betiyaan
+  Ashkon se apne kar-e-khudai karein gay hum
+  Turbat pa Syeda ke tarai karein gay hum
+
+  5
+  Turbat pa Fatima ki yeh Zainab ke bain hain
+  Gham mein Hasan nidhal hain muztar Hussain hain
+  Be chain hain woh aaj ke jo dil ke chain hain
+  Kis haal mein magar yeh shah e mashreqain hain
+  Haider youn dil ka haal Nabi ko sunatay hain
+  Bachoon se munh chupatay hain our rotay jate hain
+
+  6
+  Farsh-e-azza Hussain ne ghar mein bicha diya
+  Jibreel bhi zameen pa pursay ko aa gaya
+  Ro kar Ali pukarey mera ghar bikhar gaya
+  Lab par hai unn ke Mohsin-o-Zahra ka marsiya
+  Haye Ali ka koi bhi yawar raha nahi
+  Mohsin nahi, Rasool nahi, Syeda nahi
+
+  7
+  Ahsaan woh ghari tu qayamat ki thi ghari
+  Shabbir ne yeh rotay hoye iltija jo ki
+  Koi nahi raha meri amma nahi rahi
+  Jo fikar mein hamesha rahi meri pyas ki
+  Royon ga main tu kaun mujhe chup karaye ga
+  Ab kaun mujh ko raat mein pani pilaye ga
 ---
 
-Shaam-e-Ghareebaan Sheher-e-Madina Saleem Mastan Wa Bradraan.
+۱
+شامِ غریباں شہرِ مدینہ میں چھائی ہے
+غربت رسولِ پاک کے گھر رونے آئی ہے
+زہرا کے غم میں نوحہ کناں کل خدائی ہے
+سبطِ عالیہ کہتا ہے ہائے دہائی ہے
+دنیا سے آج جانِ پیمبر گزر گئی
+ہائے حسن، حسین کی مادر گزر گئی
 
-1
-Sham-e-Ghareebaan Shehar-e-Madina Mein Chayi Hai.
-Ghurbat Rasool-e-Pak Ke Ghar Roney Aayi Hai.
-Zahra Ke Gham Mein Noha Kuna Kul Khudai Hai.
-Subat Aliya Kehta Hai Haye Duhai Hai.
-Dunya Se Aaj Jan-e-Payamber Guzar Gayi.
-Haye Hasan, Hussain Ki Madar Guzar Gayi.
+۲
+تابوت سیدہ کا جو لے کر چلے علی
+ماتم سے گونج اٹھی مدینے کی ہر گلی
+تاریکی شب کی اور بقیع میں بڑھ گئی
+ویرانی گھر کی اور بھی ویران ہو گئی
+کہرام برپا ہو گیا بہنوں کے بین سے
+لگ کر گلے جو روئیں حسن اور حسین سے
 
-2
-Taboot Syeda Ka Jo Le Kar Chaley Ali.
-Matam Se Gaunj Uthi Madine Ki Har Ghali.
-Tareeki Shab Ki Our Baqiya Mein Barh Gayi.
-Veerani Ghar Ki Our Bhi Veeran Ho Gayi.
-Kuhram Barpa Ho Gaya Behno Ke Bain Se.
-Lag Kar Galay Jo Roein Hasan Our Hussain Se.
+۳
+جب دفن کر کے زہرا کو گھر آ گئے علی
+بابا کو روتا دیکھ کے زینب تڑپ گئی
+ہاتھوں کو جوڑ کے کہا مشکل کشا علی
+بابا بقیع لے چلیں اب بیٹیوں کو بھی
+بابا ہمیں بھی تربتِ زہرا پہ جانا ہے
+محسن کا ہم نے اماں کو نوحہ سنانا ہے
 
-3
-Jab Dafan Kar Ke Zahra Ko Ghar Aa Gaye Ali.
-Baba Ko Rota Dekh Ke Zainab Tarap Gayi.
-Hathoon Ko Joor Ke Kaha Mushkil Kusha Ali.
-Baba Baqiya Le Chalein Ab Betiyon Ko Bhi.
-Baba Humein Bhi Turbat-e-Zahra Pa Jana Hai.
-Mohsin Ka Hum Ne Amma Ko Noha Sunana Hai.
+۴
+تاریک شب میں قبر پہ پہنچی ہیں بیٹیاں
+اک دوسرے کو حوصلہ دیتی ہیں بیٹیاں
+آپس میں دونوں گفتگو کرتی ہیں بیٹیاں
+یہ قبر بیتِ حزن ہے کہتی ہیں بیٹیاں
+اشکوں سے اپنے کارِ خدائی کریں گے ہم
+تربت پہ سیدہ کے ترائی کریں گے ہم
 
-4
-Tareek Shab Mein Qabar Pa Pohanchi Hain Betiyaan.
-Ik Dosrey Ko Hosla Deti Hain Betiyaan.
-Aapas Mein Dono Guftgu Karti Hain Betiyaan.
-Yeh Qabar Bait-e-Huzn Hai Kehti Hain Betiyaan.
-Ashkon Se Apne Kar-e-Khudai Karein Gay Hum.
-Turbat Pa Syeda Ke Tarai Karein Gay Hum.
+۵
+تربت پہ فاطمہ کی یہ زینب کے بین ہیں
+غم میں حسن نڈھال ہیں مضطر حسین ہیں
+بے چین ہیں وہ آج کہ جو دل کے چین ہیں
+کس حال میں مگر یہ شاہِ مشرقین ہیں
+حیدر یوں دل کا حال نبی کو سناتے ہیں
+بچوں سے منہ چھپاتے ہیں اور روتے جاتے ہیں
 
-5
-Turbat Pa Fatima Ki Yeh Zainab Ke Bain Hain.
-Gham Mein Hasan Nidhal Hain Muztar Hussain Hain.
-Be Chain Hain Woh Aaj Ke Jo Dil Ke Chain Hain.
-Kis Haal Mein Magar Yeh Shah e Mashreqain Hain.
-Haider Youn Dil Ka Haal Nabi Ko Sunatay Hain.
-Bachoon Se Munh Chupatay Hain Our Rotay Jate Hain.
+۶
+فرشِ عزا حسین نے گھر میں بچھا دیا
+جبریل بھی زمین پہ پرسے کو آ گیا
+رو کر علی پکارے میرا گھر بکھر گیا
+لب پر ہے ان کے محسن و زہرا کا مرثیہ
+ہائے علی کا کوئی بھی یاور رہا نہیں
+محسن نہیں، رسول نہیں، سیدہ نہیں
 
-6
-Farsh-e-Azza Hussain Ne Ghar Mein Bicha Diya.
-Jibreel Bhi Zameen Pa Pursay Ko Aa Gaya.
-Ro Kar Ali Pukarey Mera Ghar Bikhar Gaya.
-Lab Par Hai Unn Ke Mohsin-o-Zahra Ka Marsiya.
-Haye Ali Ka Koi Bhi Yawar Raha Nahi.
-Mohsin Nahi, Rasool Nahi, Syeda Nahi.
-
-7
- Ahsaan Woh Ghari Tu Qayamat Ki Thi Ghari.
-Shabbir Ne Yeh Rotay Hoye Iltija Jo Ki.
-Koi Nahi Raha Meri Amma Nahi Rahi.
-Jo Fikar Mein Hamesha Rahi Meri Pyas Ki.
-Royon Ga Main Tu Kaun Mujhe Chup Karaye Ga.
-Ab Kaun Mujh Ko Raat Mein Pani Pilaye Ga.
+۷
+احسان وہ گھڑی تو قیامت کی تھی گھڑی
+شبیر نے یہ روتے ہوئے التجا جو کی
+کوئی نہیں رہا میری اماں نہیں رہی
+جو فکر میں ہمیشہ رہی میری پیاس کی
+روؤں گا میں تو کون مجھے چپ کرائے گا
+اب کون مجھ کو رات میں پانی پلائے گا

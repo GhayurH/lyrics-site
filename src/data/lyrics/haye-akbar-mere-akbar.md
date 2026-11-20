@@ -8,134 +8,74 @@ poet: "Zulfiqar Ahmed"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haye akbar mere akbar
-
-  Sher e dilawar akbar
-
+romanLyrics: |-
+  Haaye Akbar mere Akbar
 
   1
-
-  Sheh ke dilawar akbar
-
-  Behna ke dilbar akbar
-
-  Shabihe payambar akbar
-
-  Abbas ke marne se tooti hai kamar meri
-
-  Be-noor hui tere marne se nazar meri
-
-  Ghayre hue hai mujhko do laakh ka ye lashkar
-
-  Dhoondoo mai kahan tujhko do mujhko sada akbar
-
+  Sheh ke dilaawar Akbar
+  Behna ke dilbar Akbar
+  Shabih-e-payambar Akbar
+  Abbaas ke marne se tuti hai kamar meri
+  Benur hui tere marne se nazar meri
+  Ghere hue hai mujh ko do laakh ka ye lashkar
+  Dhundhuṅ main kahaaṅ tujh ko do mujh ko sadaa Akbar
   Bebasi ka aalam hai
-
-  Aankhein meri purnam hai
-
-  Dil may jo tera gham hai
-
+  Aaṅkheṅ meri purnam haiṅ
+  Dil mein jo tera gham hai
 
   2
-
-  Lagti hai mujhko beta har ek qadam pe thokar
-
-  Kya tu gaya ke mera bardaad hogaya ghar
-
-  Shadi ka tere arman dil mein liye hai maadar
-
-  Usko bataun kaise ye haal tera dilbar
-
-  Kya mai kahunga jaa kar
-
-  Pooche jo teri maadar
-
-  Kahan hai mera akbar
-
+  Lagti hai mujh ko beta har ek qadam pe thokar
+  Kya tu gaya ke mera barbaad ho gaya ghar
+  Shaadi ka tere armaaṅ dil mein liye hai maadar
+  Us ko bataauṅ kaise ye haal tera dilbar
+  Kya main kahuṅ ga jaa kar
+  Puchhe jo teri maadar
+  Kahaaṅ hai mera Akbar
 
   3
-
-  Ay kaash teri koi aulaad agar hoti
-
+  Ae kaash agar teri koi aulaad agar hoti
   Tu khud hi samajh leta is baap pe kya guzri
-
-  Marte hue jawan ko dekhe agar zaeefi
-
-  Dunya mein is se badkar hogi na bad naseebi
-
-  Kis se karoonga faryaad
-
-  Hogaya jo ghar barbaad
-
-  Jee ne sakun tere baad
-
+  Marte hue jawaaṅ ko dekhe agar zaifi
+  Duniya mein is se barh kar ho gi na badnasibi
+  Kis se karuṅ ga faryaad
+  Ho gaya jo ghar barbaad
+  Ji na sakuṅ tere baad
 
   4
-
-  Seerat mein aaena ho surat mein aaena ho
-
-  Tu bolti hui ek tasveer e mustufa ho
-
-  Azm e bahaduri mein tum misle murtaza ho
-
-  Jaan deke ye bataya tum ibne la-fata ho
-
-  Lutgayi meri dunya
-
-  Gham ka hai ek sannata
-
-  Mushkilo ka hai pehra
-
+  Sirat mein aaina ho surat mein aaina ho
+  Tu bolti hui ek tasvir-e-Mustafa ho
+  Adl-e-bahaaduri mein tum misl-e-Murtaza ho
+  Jaan de ke ye bataaya tum ibn-e-laa fattaah ho
+  Lut gai meri duniya
+  Gham ka hai ek sannaata
+  Mushkiloṅ ka hai pehra
 
   5
-
-  Mushkil ka marhala hai baba ye natawan hai
-
-  Karbal ki khaak par ab marne ko naujawan hai
-
-  Manzar ko dekh kar ye khoon roya aasman hai
-
-  Manzar lahoo lahoo hai dil soz ek samaa hai
-
-  Gham ka saaya chaya hai
-
-  Tanha tera baba hai
-
+  Mushkil ka marhala hai baaba ye naatawaaṅ hai
+  Karbala ki khaak par ab marne ko naujawaaṅ hai
+  Manzar ko dekh kar ye khuṅ roya aasmaaṅ hai
+  Manzar lahu lahu hai dil soz ek samaaṅ hai
+  Gham ka chhaaya saaya hai
+  Tanha tera baaba hai
   Maut ka andhera hai
 
-
   6
-
-  Laasha mai tera lekar qaime mein kaise jaun
-
-  Pooche agar sakina kya usko mai bataun
-
-  Paala tha jis phupi ne kya haal mai sunaun
-
-  Haalat hai ghair meri himmat kahan se laaun
-
+  Laasha main tera le kar khaime mein kaise jaauṅ
+  Puchhe agar Sakina kya us ko main bataauṅ
+  Paala tha jis phuphi ne kya haal main sunaauṅ
+  Haalaat haiṅ ghair meri himmat kahaaṅ se laauṅ
   Ab na rahi koi aas
-
-  Na raha bhai abbas
-
-  Tu bhi nahi mere paas
-
+  Na raha bhaai Abbaas
+  Tu bhi nahiṅ mere paas
 
   7
-
-  Karbobala ke ban mein sarwar ki natawani
-
-  Kaise raqam ho ahmed bekas ki ye kahani
-
-  Dekha hai zaeefi ne marti hui jawani
-
-  Roodad e ghame sarwar mohsin teri zubani
-
+  Karb o Bala ke ban mein Sarwar ki naatawaani
+  Kaise raqam ho Ahmed bekas ki ye naatawaani
+  Dekha hai zaifi ne marti hui jawaani
+  Rudaad-e-gham-e-Sarwar Mohsin teri zabaani
   Ab na rahi koi aas
-
-  Na raha bhai abbas
-
-  Tu bhi na raha ab paas'
+  Na raha bhaai Abbaas
+  Tu bhi na raha ab paas
 ---
 
 ؑہائے اکبرؑ میرے اکبر

@@ -1,35 +1,59 @@
 ---
-title: "Kis Tarha Koi Likhey Teri Shahadat Zahra"
+title: "کس طرح کوئی لکھے تیری شہادت زہرا"
+alternateTitle: "Kis Tarha Koi Likhey Teri Shahadat Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Yousufi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kis tarha koi likhey teri shahadat Zahra
+  Jab keh hoti hai qalam ko bhi aziyat Zahra
+  Kar diya kis tarha ummat ne faramosh tujhe
+  Ho baho apne hi Baba ki shabahat Zahra
+
+  2
+  Aik ik dar pe gayi haye Ali ki khatir
+  Karti thin iss tarha Haider ki wakalat Zahra
+  Kis tarha keh diya darbar mein ik gasib ne
+  Yahan sabit karo tum apni sadaqat Zahra
+
+  3
+  Ki hai oss dar ki na tauqeer Musalmano ne
+  Mangta tha jahan Jibreel ijazat Zahra
+  Be basi itni keh talwar bhi roi unn ki
+  Kar nahi paye Ali teri hifazat Zahra
+
+  4
+  Ya Ali tere hawalay hai ab Hussain mera
+  Aakhri waqt mein karti hai wasiyat Zahra
+  Yousufi aaye ga jab barhwan Aaqa mera
+  Ho gi tab aap ke rozay ki maramat Zahra
 ---
 
-1
-Kis Tarha Koi Likhey Teri Shahadat Zahra.
-Jab Keh Hoti Hai Qalam Ko Bhi Aziyat Zahra.
-Kar Diya Kis Tarha Ummat Ne Faramosh Tujhe.
-Ho Baho Apne Hi Baba Ki Shabahat Zahra.
+۱
+کس طرح کوئی لکھے تیری شہادت زہرا
+جب کہ ہوتی ہے قلم کو بھی اذیت زہرا
+کر دیا کس طرح امت نے فراموش تجھے
+ہوبہو اپنے ہی بابا کی شباہت زہرا
 
-2
-Aik Ik Dar Pe Gayi Haye Ali Ki Khatir.
-Karti Thin Iss Tarha Haider Ki Wakalat Zahra.
-Kis Tarha Keh Diya Darbar Mein Ik Gasib Ne.
-Yahan Sabit Karo Tum Apni Sadaqat Zahra.
+۲
+ایک اک در پہ گئی ہائے علی کی خاطر
+کرتی تھیں اس طرح حیدر کی وکالت زہرا
+کس طرح کہہ دیا دربار میں اک غاصب نے
+یہاں ثابت کرو تم اپنی صداقت زہرا
 
-3
-Ki Hai Oss Dar Ki Na Tauqeer Musalmano Ne.
-Mangta Tha Jahan Jibreel Ijazat Zahra.
-Be Basi Itni Keh Talwar Bhi Roi Unn Ki.
-Kar Nahi Paye Ali Teri Hifazat Zahra.
+۳
+کی ہے اس در کی نہ توقیر مسلمانوں نے
+مانگتا تھا جہاں جبریل اجازت زہرا
+بے بسی اتنی کہ تلوار بھی روئی ان کی
+کر نہیں پائے علی تیری حفاظت زہرا
 
-4
-Ya Ali Tere Hawalay Hai Ab Hussain Mera.
-Aakhri Waqt Mein Karti Hai Wasiyat Zahra.
- Yousufi Aaye Ga Jab Barhwan Aaqa Mera.
-Ho Gi Tab Aap Ke Rozay Ki Maramat Zahra.
+۴
+یا علی تیرے حوالے ہے اب حسین میرا
+آخری وقت میں کرتی ہے وصیت زہرا
+یوسفی آئے گا جب بارہواں آقا میرا
+ہو گی تب آپ کے روضے کی مرمت زہرا

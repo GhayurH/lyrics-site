@@ -13,11 +13,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Shehr-e-aza-e-Lucknow
-  Hai sog meiṅ duba hua
+  Hai sog mein duba hua
   Jis roz se Sheh ka hua
 
   1
-  Aelaan Muharram ka kiya jis din nikal kar chaand ne
+  Elaan Muharram ka kiya jis din nikal kar chaand ne
   Apna rukh-e-roshan dikhaaya jab badal kar chaand ne
   Us din se hai badla hua Shehr-e-aza-e-Lucknow
 
@@ -32,9 +32,9 @@ romanLyrics: |-
   Pehle se tu achchha hua Shehr-e-aza-e-Lucknow
 
   4
-  Dekha gaya jo Shaam meiṅ us ghamzada manzar ke baad
-  Jo Shaam meiṅ barpa hui us majlis-e-Sarwar ke baad
-  Mohkam aza khaana hua Shehr-e-aza-e-Lucknow
+  Dekha gaya jo Shaam mein us ghamzada manzar ke baad
+  Jo Shaam mein barpa hui us majlis-e-Sarwar ke baad
+  Muhkam aza khaana hua Shehr-e-aza-e-Lucknow
 
   5
   Maatam yahaaṅ Shabbir ka jab se kiya hum log ne
@@ -52,8 +52,8 @@ romanLyrics: |-
   Mehwar yuṅ is gham ka hua Shehr-e-aza-e-Lucknow
 
   8
-  Shehr-e-aza jab se bana us roz se dunya meiṅ tu
-  Hum ne nahiṅ sab ne kaha us roz se dunya meiṅ tu
+  Shehr-e-aza jab se bana us roz se dunya mein tu
+  Hum ne nahiṅ sab ne kaha us roz se dunya mein tu
   Har aaṅkh ka taara hua Shehr-e-aza-e-Lucknow
 
   9
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   10
   Manzar yahaaṅ ka koi bhi hargiz bhul sakta nahiṅ
-  Taarif ke alfaaz wo dil meiṅ chhupa sakta nahiṅ
+  Taarif ke alfaaz wo dil mein chhupa sakta nahiṅ
   Jis ka bhi hai dekha hua Shehr-e-aza-e-Lucknow
 
   11
@@ -87,19 +87,19 @@ romanLyrics: |-
   Charcha wahaaṅ tera hua Shehr-e-aza-e-Lucknow
 
   15
-  Har ek sadi meiṅ Shaam se farsh-e-aza bichhta raha
+  Har ek sadi mein Shaam se farsh-e-aza bichhta raha
   Phir maatam-e-Sarwar yahaaṅ hota raha barhta raha
   Hai ye mera parkha hua Shehr-e-aza-e-Lucknow
 
   16
-  Dunya meiṅ ek Bhaarat hai jo bhaaya Shah-e-mazlum ko
+  Dunya mein ek Bhaarat hai jo bhaaya Shah-e-mazlum ko
   Auroṅ se tu achchha nazar aaya Shah-e-mazlum ko
   Patthar se tab hira hua Shehr-e-aza-e-Lucknow
 
   17
   Ik baar jo Shabbir ne apna kaha Yawar to bas
   Shabbir ke ansaar ne apna liya Yawar to bas
-  Is mulk meiṅ aala hua Shehr-e-aza-e-Lucknow
+  Is mulk mein aala hua Shehr-e-aza-e-Lucknow
 ---
 
 شہرِ عزائے لکھنؤ

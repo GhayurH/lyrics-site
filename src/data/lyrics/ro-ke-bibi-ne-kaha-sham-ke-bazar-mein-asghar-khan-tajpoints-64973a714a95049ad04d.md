@@ -1,41 +1,72 @@
 ---
-title: "Ro Ke Bibi Ne Kaha Sham Ke Bazar Mein Asghar Khan"
+title: "رو کے بی‌بی نے کہا شام کے بازار میں اصغر خان"
+alternateTitle: "Ro Ke Bibi Ne Kaha Sham Ke Bazar Mein Asghar Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ro ke Bibi ne kaha Sham ke bazar mein Asghar Khan
+  Zulm ki hai inteha Sham ke bazar mein
+  Hosla deti thi Zainab qafila salar ko
+  Aa gaya woh shehar kehna par gaya beemar ko
+
+  2
+  Maa main zindah mar gaya Sham ke bazar mein
+  Mera nana hai Muhammad our Zahra meri maa
+  Sham ke hakim suno ho rahi hai jo azaan
+  Yeh hamari hai fatha Sham ke bazar mein
+
+  3
+  Dekhey na jis ne Muhammad aaj aa ke dekh le
+  Kehte they Sajjad mera haye Akbar nezay pe
+  Hai shabih e Mustafa Sham ke bazar mein
+  Behan ka lasha uthaye Shamiyon ke darmiyaan
+
+  4
+  Tum yahan pardesiyon ko dafan kartay ho kahan
+  Poch kar roya bara Sham ke bazar mein
+  Nezay par Quran parhta jis ka sar bhai mera
+  Main Bani Hashim ki izzat main hoon Bint-e-Mustafa
+
+  5
+  Aaj hoon main be rida Sham ke bazar mein
+  Barsay pathar iss tarha zakhmi har qaidi ka sar
+  Dekh kar Sajjad roye mere Maula nezay par
+  Jo zulm haye howa Sham ke bazar mein
 ---
 
-1
-Ro Ke Bibi Ne Kaha Sham Ke Bazar Mein Asghar Khan.
-Zulm Ki Hai Inteha Sham Ke Bazar Mein.
-Hosla Deti Thi Zainab Qafila Salar Ko.
-Aa Gaya Woh Shehar Kehna Par Gaya Beemar Ko.
+۱
+رو کے بی‌بی نے کہا شام کے بازار میں اصغر خان
+ظلم کی ہے انتہا شام کے بازار میں
+حوصلہ دیتی تھی زینب قافلہ سالار کو
+آ گیا وہ شہر کہنا پڑ گیا بیمار کو
 
-2
-Maa Main Zindah Mar Gaya Sham Ke Bazar Mein.
-Mera Nana Hai Muhammad Our Zahra Meri Maa.
-Sham Ke Hakim Suno Ho Rahi Hai Jo Azaan.
-Yeh Hamari Hai Fatha Sham Ke Bazar Mein.
+۲
+ماں میں زندہ مر گیا شام کے بازار میں
+میرا نانا ہے محمد اور زہرا میری ماں
+شام کے حاکم سنو ہو رہی ہے جو اذان
+یہ ہماری ہے فتح شام کے بازار میں
 
-3
-Dekhey Na Jis Ne Muhammad Aaj Aa Ke Dekh Le.
-Kehte They Sajjad Mera Haye Akbar Nezay Pe.
-Hai Shabih e Mustafa Sham Ke Bazar Mein.
-Behan Ka Lasha Uthaye Shamiyon Ke Darmiyaan.
+۳
+دیکھے نہ جس نے محمد آج آ کے دیکھ لے
+کہتے تھے سجاد میرا ہائے اکبر نیزے پہ
+ہے شبیہِ مصطفیٰ شام کے بازار میں
+بہن کا لاشہ اٹھائے شامیوں کے درمیاں
 
-4
-Tum Yahan Pardesiyon Ko Dafan Kartay Ho Kahan.
-Poch Kar Roya Bara Sham Ke Bazar Mein.
-Nezay Par Quran Parhta Jis Ka Sar Bhai Mera.
-Main Bani Hashim Ki Izzat Main Hoon Bint-e-Mustafa.
+۴
+تم یہاں پردیسیوں کو دفن کرتے ہو کہاں
+پوچھ کر رویا بڑا شام کے بازار میں
+نیزے پر قرآن پڑھتا جس کا سر بھائی میرا
+میں بنی ہاشم کی عزت میں ہوں بنتِ مصطفیٰ
 
-5
-Aaj Hoon Main Be Rida Sham Ke Bazar Mein.
-Barsay Pathar Iss Tarha Zakhmi Har Qaidi Ka Sar.
-Dekh Kar Sajjad Roye Mere Maula Nezay Par.
-Jo Zulm Haye Howa Sham Ke Bazar Mein.
+۵
+آج ہوں میں بے ردا شام کے بازار میں
+برسے پتھر اس طرح زخمی ہر قیدی کا سر
+دیکھ کر سجاد روئے میرے مولا نیزے پر
+جو ظلم ہائے ہوا شام کے بازار میں

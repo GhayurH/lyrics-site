@@ -1,68 +1,124 @@
 ---
-title: "Akhri Waar Syed Raza Abbas Zaidi"
+title: "آخری وار سید رضا عباس زیدی"
+alternateTitle: "Akhri Waar Syed Raza Abbas Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ran mein Shabbir ko zibha kartay hoye Shimar ne khud suna aakhri waar tak
+
+  1
+  Pyasay Shabbir ke zakhmi ke honton pe tha naam Abbas ka aakhri waar tak
+  Zair-e-Khanjar tha bhai ka sokha gala
+  Kuch qadam door thin Zainab-e-Aliya
+  Bhai kehta raha laut jao bahan
+
+  2
+  Khushk gardan pe jis waqt khanjar chala
+  Dekh kar pehla waar aisay Zainab girein Shimar hansta raha aakhri waar tak
+  Youn tu satar 70 qadam pe thi Zainab khari
+  Kuch qadam aagay bali Sakina bhi thi
+
+  3
+  Apne baba ke seene pe soti thi jo
+  Larkharatay hoye khak par gir gayi
+  Baap ko dekh kar beti roti rahi Shimar seene pe tha aakhri waar tak
+  Khainchta tha kabhi reesh Shabbir ki
+
+  4
+  Marta tha woh hans kar tamacha kabhi
+  Paon rakhta tha zakhmo pe Shabbir ke
+  Our kabhi jism par marta tha churi
+  Khon hi khon tha zakhm hi zakhm they itna mara gaya aakhri waar tak
+
+  5
+  Shimar se Shah ka jab gala na kata
+  Pas Sannan Ibn-e-Ins aa gaya
+  Mar kar neza Shabbir ke halq mein
+  Aisay khaincha hoi zulm ki inteha
+
+  6
+  Aa gayin sath mein sari sokhi ragein neza uljah raha aakhri waar tak
+  Bugz kitna tha Ibn-e-Ali se ossay
+  Shimar jaldi mein tha pehle hi waar se
+  Ran mein woh dono hathoon se masroof tha
+
+  7
+  Aik pyasay ka sar katne ke liye
+  Osske ik hath mein taig our dosra hath baloon mein tha aakhri waar tak
+  Aik maa gaud mein rakh ke betay ka sar
+  Kab se bethi hai yeh Shimar ko kya khabar
+
+  8
+  Sath Shabbir ke Fatima ka lahu
+  Beh ke khanjar se girta raha khak par
+  Kat gayin ungliyaan phir bhi sar na bacha hath maa ne rakha aakhri waar tak
+  Aye Raza our Zeeshan dekho zara
+
+  9
+  Karbala mein hai mojood woh qatal ga
+  Baith kar aaj rotay hain zair jahan
+  Kal wahan Shah ka koi apna na tha
+  Sab tamashai they dekhtey hi rahe Sheh ka katta gala aakhri waar tak
 ---
 
-Akhri Waar Syed Raza Abbas Zaidi Lyrics
-Ran Mein Shabbir Ko Zibha Kartay Hoye Shimar Ne Khud Suna Aakhri Waar Tak.
+رن میں شبیر کو ذبح کرتے ہوئے شمر نے خود سنا آخری وار تک
 
-1
-Pyasay Shabbir Ke Zakhmi Ke Honton Pe Tha Naam Abbas Ka Aakhri Waar Tak.
-Zair-e-Khanjar Tha Bhai Ka Sokha Gala.
-Kuch Qadam Door Thin Zainab-e-Aliya.
-Bhai Kehta Raha Laut Jao Bahan.
+۱
+پیاسے شبیر کے زخمی کے ہونٹوں پہ تھا نام عباس کا آخری وار تک
+زیرِ خنجر تھا بھائی کا سوکھا گلا
+کچھ قدم دور تھیں زینبِ عالیہ
+بھائی کہتا رہا لوٹ جاؤ بہن
 
-2
-Khushk Gardan Pe Jis Waqt Khanjar Chala.
-Dekh Kar Pehla Waar Aisay Zainab Girein Shimar Hansta Raha Aakhri Waar Tak.
-Youn Tu Satar 70 Qadam Pe Thi Zainab Khari.
-Kuch Qadam Aagay Bali Sakina Bhi Thi.
+۲
+خشک گردن پہ جس وقت خنجر چلا
+دیکھ کر پہلا وار ایسے زینب گریں شمر ہنستا رہا آخری وار تک
+یوں تو ستّر قدم پہ تھی زینب کھڑی
+کچھ قدم آگے بالی سکینہ بھی تھی
 
-3
-Apne Baba Ke Seene Pe Soti Thi Jo.
-Larkharatay Hoye Khak Par Gir Gayi.
-Baap Ko Dekh Kar Beti Roti Rahi Shimar Seene Pe Tha Aakhri Waar Tak.
-Khainchta Tha Kabhi Reesh Shabbir Ki.
+۳
+اپنے بابا کے سینے پہ سوتی تھی جو
+لڑکھڑاتے ہوئے خاک پر گر گئی
+باپ کو دیکھ کر بیٹی روتی رہی شمر سینے پہ تھا آخری وار تک
+کھینچتا تھا کبھی ریشِ شبیر کی
 
-4
-Marta Tha Woh Hans Kar Tamacha Kabhi.
-Paon Rakhta Tha Zakhmo Pe Shabbir Ke.
-Our Kabhi Jism Par Marta Tha Churi.
-Khon Hi Khon Tha Zakhm Hi Zakhm They Itna Mara Gaya Aakhri Waar Tak.
+۴
+مارتا تھا وہ ہنس کر طمانچہ کبھی
+پاؤں رکھتا تھا زخموں پہ شبیر کے
+اور کبھی جسم پر مارتا تھا چھری
+خون ہی خون تھا زخم ہی زخم تھے اتنا مارا گیا آخری وار تک
 
-5
-Shimar Se Shah Ka Jab Gala Na Kata.
-Pas Sannan Ibn-e-Ins Aa Gaya.
-Mar Kar Neza Shabbir Ke Halq Mein.
-Aisay Khaincha Hoi Zulm Ki Inteha.
+۵
+شمر سے شاہ کا جب گلا نہ کٹا
+پاس سنان ابنِ انس آ گیا
+مار کر نیزہ شبیر کے حلق میں
+ایسے کھینچا ہوئی ظلم کی انتہا
 
-6
-Aa Gayin Sath Mein Sari Sokhi Ragein Neza Uljah Raha Aakhri Waar Tak.
-Bugz Kitna Tha Ibn-e-Ali Se Ossay.
-Shimar Jaldi Mein Tha Pehle Hi Waar Se.
-Ran Mein Woh Dono Hathoon Se Masroof Tha.
+۶
+آ گئیں ساتھ میں ساری سوکھی رگیں نیزہ الجھا رہا آخری وار تک
+بغض کتنا تھا ابنِ علی سے اسے
+شمر جلدی میں تھا پہلے ہی وار سے
+رن میں وہ دونوں ہاتھوں سے مصروف تھا
 
-7
-Aik Pyasay Ka Sar Katne Ke Liye.
-Osske Ik Hath Mein Taig Our Dosra Hath Baloon Mein Tha Aakhri Waar Tak.
-Aik Maa Gaud Mein Rakh Ke Betay Ka Sar.
-Kab Se Bethi Hai Yeh Shimar Ko Kya Khabar.
+۷
+ایک پیاسے کا سر کاٹنے کے لیے
+اس کے اک ہاتھ میں تیغ اور دوسرا ہاتھ بالوں میں تھا آخری وار تک
+ایک ماں گود میں رکھ کے بیٹے کا سر
+کب سے بیٹھی ہے یہ شمر کو کیا خبر
 
-8
-Sath Shabbir Ke Fatima Ka Lahu.
-Beh Ke Khanjar Se Girta Raha Khak Par.
-Kat Gayin Ungliyaan Phir Bhi Sar Na Bacha Hath Maa Ne Rakha Aakhri Waar Tak.
-Aye Raza Our Zeeshan Dekho Zara.
+۸
+ساتھ شبیر کے فاطمہ کا لہو
+بہہ کے خنجر سے گرتا رہا خاک پر
+کٹ گئیں انگلیاں پھر بھی سر نہ بچا ہاتھ ماں نے رکھا آخری وار تک
+اے رضا اور ذیشان دیکھو ذرا
 
-9
-Karbala Mein Hai Mojood Woh Qatal Ga.
-Baith Kar Aaj Rotay Hain Zair Jahan.
-Kal Wahan Shah Ka Koi Apna Na Tha.
-Sab Tamashai They Dekhtey Hi Rahe Sheh Ka Katta Gala Aakhri Waar Tak.
+۹
+کربلا میں ہے موجود وہ قتل گاہ
+بیٹھ کر آج روتے ہیں زائر جہاں
+کل وہاں شاہ کا کوئی اپنا نہ تھا
+سب تماشائی تھے دیکھتے ہی رہے شہ کا کٹتا گلا آخری وار تک

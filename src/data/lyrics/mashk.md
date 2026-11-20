@@ -10,43 +10,43 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Al atash al atash al atash
+  Al-atash al-atash al-atash
   Aaqa adrikni adrikni
-  Koshish to bahot ki maiṅ ne
-  Bhari thi ye mashk bhi maiṅ ne
-  Aaqa Husain sharminda hoo
-  Maula Husain sharminda hoo
-  Aankhoṅ se nazar nahi aata
-  Na baazu hai tan par maula
-  Karna tha jo na kar paaya
-  Aaqa Husain sharminda hoo
+  Koshish to bahut ki main ne
+  Bhaari thi ye mashk bhi main ne
+  Aaqa Husain sharminda huṅ
+  Maula Husain sharminda huṅ
+  Aankhoṅ se nazar nahiṅ aata
+  Na baazu hai tan par Maula
+  Karna tha jo na paaya
+  Aaqa Husain sharminda huṅ
   Afsos mashk khaali hai
   Le jao alam ye mera
-  Le jao ye mashk e sakina
+  Le jao ye mashk-e-Sakina
   Pura na hua mera waada
   Laasha mera na le jaana
-  Daatoṅ se bhi mashk ko thaama
-  Sine se us ko chupaya
+  Daantoṅ se bhi mashk ko thaama
+  Sine se us ko chhupaaya
   Gaya tha ke wapas aauṅ
-  Par kuch bhi na mai kar paaya
+  Par kuch bhi na main kar paaya
   Afsos mashk khaali hai
-  Koshish to bahot ki maiṅ ne
-  Bhari thi ye mashk bhi maiṅ ne
-  Aaqa Husain sharminda hoo
-  Maula Husain sharminda hoo
-  Aankhoṅ se nazar nahi aata
-  Na baazu hai tan par maula
-  Karna tha jo na kar paaya
-  Aaqa Husain sharminda hoo
+  Koshish to bahut ki main ne
+  Bhaari thi ye mashk bhi main ne
+  Aaqa Husain sharminda huṅ
+  Maula Husain sharminda huṅ
+  Aankhoṅ se nazar nahiṅ aata
+  Na baazu hai tan par Maula
+  Karna tha jo na paaya
+  Aaqa Husain sharminda huṅ
   Afsos mashk khaali hai
   Le jao alam ye mera
-  Le jao ye mashk e sakina
+  Le jao ye mashk-e-Sakina
   Pura na hua mera waada
   Laasha mera na le jaana
-  Daatoṅ se bhi mashk ko thaama
-  Sine se us ko chupaya
+  Daantoṅ se bhi mashk ko thaama
+  Sine se us ko chhupaaya
   Gaya tha ke wapas aauṅ
-  Par kuch bhi na mai kar paaya
+  Par kuch bhi na main kar paaya
   Afsos mashk khaali hai
   Aaqa adrikni
 ---

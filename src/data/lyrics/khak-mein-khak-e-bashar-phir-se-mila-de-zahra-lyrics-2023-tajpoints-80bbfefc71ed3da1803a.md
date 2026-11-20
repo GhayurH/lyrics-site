@@ -1,50 +1,89 @@
 ---
-title: "Khak Mein Khak E Bashar Phir Se Mila De Zahra Lyrics 2023"
+title: "خاک میں خاکِ بشر پھر سے ملا دے زہرا"
+alternateTitle: "Khak Mein Khak-e-Bashar Phir Se Mila De Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Khak mein khak e bashar phir se mila de Zahra
+  Apni chakki ko agar ulta chala de Zahra
+
+  1
+  Koi Mosa koi Salman bana de Zahra
+  Raz-e-tauheed jisay jitna bata de Zahra
+  Chahe tu Hur ko woh romal se nori kar de
+  Chahe tu khak se hawa ko bana de Zahra
+
+  2
+  Khak se hawa banana bhi koi mojza hai
+  Yeh hunar chahe tu Fizza ko sikha de Zahra
+  Sar-e-mehshar ho ajab lutf Ali samne hoon
+  Our Allah ko Ali keh ke sada de Zahra
+
+  3
+  Kali kamli se bhi jab zoaf-e-badan baqi hai
+  Apne baba ko zara apni rida de Zahra
+  Keh diya Zahra ne ja chain se so ja ke Bilal
+  Ab agar niklay tu soraj ko bhuja de Zahra
+
+  4
+  Murtajiz ke liye aayat na utrein kyun kar
+  Apni chadar mein ossay roz giza de Zahra
+  Abu Talib ki baho our Ali ki zojah
+  Haq hai Kabay pe agar tala laga de Zahra
+
+  5
+  Roz kehte hain Ali rizq ki taqseem ke waqt
+  Rizq dena hai kisay kitna bata de Zahra
+  Dekh kar bibi ko tasbeeh mein kehti thi namaz
+  Panjgana mujhe jeene ki dua de Zahra
+
+  6
+  Arsh ban jaye Khuda aa ke wahan bas jaye
+  Tu jahan apne qabiley ko basa de Zahra
+  Farsh-e-matam pe dua mangi hai main ne Akbar
+  Aansoon ki mujhe aanso hi jaza de Zahra
 ---
 
-Khak Mein Khak e Bashar Phir Se Mila De Zahra.
-Apni Chakki Ko Agar Ulta Chala De Zahra.
+خاک میں خاکِ بشر پھر سے ملا دے زہرا
+اپنی چکی کو اگر الٹا چلا دے زہرا
 
-1
-Koi Mosa Koi Salman Bana De Zahra.
-Raz-e-Tauheed Jisay Jitna Bata De Zahra.
-Chahe Tu Hur Ko Woh Romal Se Nori Kar De.
-Chahe Tu Khak Se Hawa Ko Bana De Zahra.
+۱
+کوئی موسیٰ کوئی سلمان بنا دے زہرا
+رازِ توحید جسے جتنا بتا دے زہرا
+چاہے تو حر کو وہ رومال سے نوری کر دے
+چاہے تو خاک سے ہوا کو بنا دے زہرا
 
-2
-Khak Se Hawa Banana Bhi Koi Mojza Hai.
-Yeh Hunar Chahe Tu Fizza Ko Sikha De Zahra.
-Sar-e-Mehshar Ho Ajab Lutf Ali Samne Hoon.
-Our ALLAH Ko Ali(JJH) Keh Ke Sada De Zahra.
+۲
+خاک سے ہوا بنانا بھی کوئی معجزہ ہے
+یہ ہنر چاہے تو فضہ کو سکھا دے زہرا
+سرِ محشر ہو عجب لطف علی سامنے ہوں
+اور اللہ کو علی (جل جلالہ) کہہ کے صدا دے زہرا
 
-3
-Kali Kamli Se Bhi Jab Zoaf-e-Badan Baqi Hai.
-Apne Baba Ko Zara Apni Rida De Zahra.
-Keh Diya Zahra Ne Ja Chain Se So Ja Ke Bilal.
-Ab Agar Niklay Tu Soraj Ko Bhuja De Zahra.
+۳
+کالی کملی سے بھی جب ضعفِ بدن باقی ہے
+اپنے بابا کو ذرا اپنی ردا دے زہرا
+کہہ دیا زہرا نے جا چین سے سو جا کہ بلال
+اب اگر نکلے تو سورج کو بجھا دے زہرا
 
-4
-Murtajiz Ke Liye Aayat Na Utrein Kyun Kar.
-Apni Chadar Mein Ossay Roz Giza De Zahra.
-Abu Talib Ki Baho Our Ali Ki Zojah.
-Haq Hai Kabay Pe Agar Tala Laga De Zahra.
+۴
+مرتجز کے لیے آیات نہ اتریں کیوں کر
+اپنی چادر میں اسے روز غذا دے زہرا
+ابو طالب کی بہو اور علی کی زوجہ
+حق ہے کعبے پہ اگر تالا لگا دے زہرا
 
-5
-Roz Kehte Hain Ali Rizq Ki Taqseem Ke Waqt.
-Rizq Dena Hai Kisay Kitna Bata De Zahra.
-Dekh Kar Bibi Ko Tasbeeh Mein Kehti Thi Namaz.
-Panjgana Mujhe Jeene Ki Dua De Zahra.
+۵
+روز کہتے ہیں علی رزق کی تقسیم کے وقت
+رزق دینا ہے کسے کتنا بتا دے زہرا
+دیکھ کر بی‌بی کو تسبیح میں کہتی تھی نماز
+پنجگانہ مجھے جینے کی دعا دے زہرا
 
-6
-Arsh Ban Jaye Khuda Aa Ke Wahan Bas Jaye.
-Tu Jahan Apne Qabiley Ko Basa De Zahra.
-Farsh-e-Matam Pe Dua Mangi Hai Main Ne Akbar.
-Aansoon Ki Mujhe Aanso Hi Jaza De Zahra
+۶
+عرش بن جائے خدا آ کے وہاں بس جائے
+تو جہاں اپنے قبیلے کو بسا دے زہرا
+فرشِ ماتم پہ دعا مانگی ہے میں نے اکبر
+آنسوؤں کی مجھے آنسو ہی جزا دے زہرا

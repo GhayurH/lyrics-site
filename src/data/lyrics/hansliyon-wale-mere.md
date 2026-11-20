@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Gham ye maiṅ kaise sahuṅ bin tere zinda rahuṅ
-  Tu hi bata de mujhe Bibiyoṅ se kya kahuṅ
+  Tu hi bata de mujhe bibiyoṅ se kya kahuṅ
   Puchhti hai mujh se sab chaand kahaaṅ haiṅ tere
 
   5

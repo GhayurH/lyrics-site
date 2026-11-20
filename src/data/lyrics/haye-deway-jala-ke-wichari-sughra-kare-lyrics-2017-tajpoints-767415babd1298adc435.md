@@ -1,32 +1,53 @@
 ---
-title: "Haye Deway Jala Ke Wichari Sughra Kare Lyrics 2017"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے دیوے جلا کے وچاری صغریٰ کرے"
+alternateTitle: "Haye Deway Jala Ke Wichari Sughra Kare"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Haye deway jala ke wichari Sughra kare duawaan
+  Nana rawaan takdi main ujari kite mar na jawaan
+
+  1
+  Haal likh chadiya aye main ik kagaz te
+  Lafz dardaan da mere kiwein izhar kare
+  Tehreer kiwein howan lafzaan wich mere hoke hawaan
+  Main ayho sochdi rayi kinj chad jawan gaye
+
+  2
+  Menu mehmal tu kiwein aa ke lawan gaye
+  Leh naal Sakina nu tur gayiyaan menu chad ke manwaan
+  Veer de shagnaa di dil wich taang mere
+  Sehre ban di aan main band bohe de utay
+
+  3
+  Pairaan de nishanaa te main Nana kadi mehndi lawaan
+  Bara hasda wasda wera sunsaan hoya
+  Hun Saqlain aithe koi baqi na riya
+  Sughra sang reh gaye ne hun ghar wich bas hoke hawaan
 ---
 
-Haye Deway Jala Ke Wichari Sughra Kare Duawaan.
-Nana Rawaan Takdi Main Ujari Kite Mar Na Jawaan.
+ہائے دیوے جلا کے وچاری صغریٰ کرے دعاواں
+نانا راواں تکدی میں اجاڑی کتے مر نہ جاواں
 
-1
-Haal Likh Chadiya Aye Main Ik Kagaz Te.
-Lafz Dardaan Da Mere Kiwein Izhar Kare.
-Tehreer Kiwein Howan Lafzaan Wich Mere Hoke Hawaan.
-Main Ayho Sochdi Rayi Kinj Chad Jawan Gaye.
+۱
+حال لکھ چھڈیا اے میں اک کاغذ تے
+لفظ درداں دا میرے کیویں اظہار کرے
+تحریر کیویں ہوواں لفظاں وچ میرے ہوکے ہاواں
+میں ایہو سوچدی رہی کنج چھڈ جاون گے
 
-2
-Menu Mehmal Tu Kiwein Aa Ke Lawan Gaye.
-Leh Naal Sakina Nu Tur Gayiyaan Menu Chad Ke Manwaan.
-Veer De Shagnaa Di Dil Wich Taang Mere.
-Sehre Ban Di Aan Main Band Bohe De Utay.
+۲
+مینوں محمل توں کیویں آ کے لاواں گے
+لے نال سکینہ نوں تر گئیاں مینوں چھڈ کے ماواں
+ویر دے شگناں دی دل وچ تانگ میرے
+سہرے بن دی آں میں بند بوہے دے اتے
 
-3
-Pairaan De Nishanaa Te Main Nana Kadi Mehndi Lawaan.
-Bara Hasda Wasda Wera Sunsaan Hoya.
-Hun Saqlain Aithe Koi Baqi Na Riya.
-Sughra Sang Reh Gaye Ne Hun Ghar Wich Bas Hoke Hawaan.
+۳
+پیراں دے نشاناں تے میں نانا کدی مہندی لاواں
+بڑا ہسدا وسدا ویہڑا سنسان ہویا
+ہن ثقلین ایتھے کوئی باقی نہ ریا
+صغریٰ سنگ رہ گئے نے ہن گھر وچ بس ہوکے ہاواں

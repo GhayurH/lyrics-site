@@ -1,7 +1,7 @@
 ---
 title: "ہر صنم کعبے میں حیران نظر آتا ہے"
 recitationId: "har-sanam-kabay-main-hairaan-nazar-aata-hai"
-alternateTitle: "Har Sanam Kabe Maiṅ Hairaan Nazar Aata Hai"
+alternateTitle: "Har Sanam Kaabe Meiṅ Hairaan Nazar Aata Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,40 +12,40 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Har sanam kabe maiṅ hairaan nazar aata hai
-  kiya ise maut ka samaan nazar aata hai
+  Har sanam kaabe meiṅ hairaan nazar aata hai
+  Kya ise maut ka samaan nazar aata hai
 
   2
-  maaṅ akeli thiṅ Ali roye nahiṅ kaabe meiṅ
-  ghaar meiṅ kis liye tufaan nazar aata hai
+  Maaṅ akeli thiṅ, Ali roye nahiṅ kaabe meiṅ
+  Ghaar meiṅ kis liye tufaan nazar aata hai
 
   3
-  Fatima bint-e-Asad se kaha Ka‘bemeiṅ chaleṅ
-  beAli ghar mera sunsaaṅ nazar aata hai
+  Fatima bint-e-Asad se kaha kaabe meiṅ chaleṅ
+  Be Ali ghar mera sunsaaṅ nazar aata hai
 
   4
-  aaj haathoṅ pe uthaye haiṅ ali ko ahmad
-  yani quran pa quraṅ nazar aata hai
+  Aaj haathoṅ pe uthaaye haiṅ Ali ko Ahmad
+  yaani Quran pe Quraaṅ nazar aata hai
 
   5
-  Mezbaṅ arsh pe ik roz yahi to hoga
-  Aaj Ka‘bay meiṅ jo mehman nazar aata hai
+  Mezbaaṅ arsh pe ik roz yahi to hoga
+  aaj kaabe meiṅ jo mehmaan nazar aata hai
 
   6
-  naara-e-haideri mastoṅ ki zabaaṅ se sunkar
+  Naara-e-Haideri mastoṅ ki zabaaṅ se sun kar
   maulvi sakht pareshaan nazar aata hai
 
   7
   Fakhr-e-Adam se jo jalta hai to us par laanat
-  Kab yeh insaan hai shaitan nazar aata hai
+  Kab yeh insaan hai shaitaan nazar aata hai
 
   8
-  jisne makkar siyasat ko diya din ka naam
-  khaandan-e-abu sufyan nazar aata hai
+  Jis ne makkaar siyaasat ko diya din ka naam
+  khaandaan-e-Abu Sufyaan nazar aata hai
 
   9
   Pa ke har bait ke badle meiṅ Asar bait-e-jinaṅ
-  Milk meiṅ mulk-e-Suleman nazar aata hai
+  milk meiṅ mulk-e-Sulemaan nazar aata hai
 ---
 
 ۱

@@ -25,16 +25,16 @@ romanLyrics: |-
 
   3
   Bhai ka ye aalam mujhe dekha nahiṅ jaata
-  Hai nargha-e-aada meiṅ Muhammad ka nawaasa
+  Hai nargha-e-a'daa meiṅ Muhammad ka nawaasa
   Tum hote to faujoṅ ko bahut dur bhagaate
 
   4
-  Abbas-e-Ali nehr par jaa kar nahiṅ palte
+  Abbaas-e-Ali nehr par jaa kar nahiṅ palte
   Paani ko taraste haiṅ jo khaimoṅ meiṅ ye bachche
   Darya pe wo zaalim ne kiye zulm ke pehre
 
   5
-  Ab ho gayi Zainab ko sada zindagi bhaari
+  Ab ho gayi Zainab ko sadaa zindagi bhaari
   Maaṅ huṅ mera patthar ka kaleja nahiṅ waari
   Tum donoṅ gaye chhor ke maadar ko akele
 ---

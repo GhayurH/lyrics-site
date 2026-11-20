@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Maalum hai beti ke sataayegi ye duniya
-  Jab maiṅ na rahuṅ ga to rulaayegi ye duniya
+  Jab main na rahuṅ ga to rulaayegi ye duniya
   Afsos tere ghar ko jalaayegi ye duniya
   Paauṅ ga na ek lamha sukuṅ qabr ke andar
 
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Zinda na bichhar kar zara reh paao gi beti
-  Pehlu-e-Shikasta liye tum aao gi beti
+  Pehlu-e-shikasta liye tum aao gi beti
   Tum mujh se bahut jald hi mil jaao gi beti
   Shabbir pe ham qabr meiṅ royeṅ ge baraabar
 
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   7
   Kehte haiṅ Qamar din ko Allah bachaaye
-  Bas bakhshish-e-Ummat ki dua hont pe aaye
+  Bas bakhshish-e-ummat ki dua hont pe aaye
   Farzand mera amn o amaaṅ dahr meiṅ laaye
   Ek roz zarur aayega ghaibat se nikal kar
 ---

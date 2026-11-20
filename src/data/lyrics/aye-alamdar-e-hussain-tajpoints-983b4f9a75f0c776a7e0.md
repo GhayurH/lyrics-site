@@ -1,43 +1,77 @@
 ---
-title: "Aye Alamdar E Hussain"
+title: "اے علمدارِ حسین"
+alternateTitle: "Aye Alamdar-e-Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Asar-e-Ashor kiye Zainab-o-Kulsoom ne bain
+  Jeetay jee mar gayi teri shahadat ki khabar
+
+  1
+  Be rida ho gaye hum kat gaya Shabeer ka sar
+  Naam le kar tera kartay hain haram shewan-o-shain
+  Ashqiya jab kabhi khaimon ki taraf dekhtey hain
+  Hum bulatay hain tumhein soye Najaf dekhtey hain
+
+  2
+  Ghazi aa jao kahan ho humein milta nahi chain
+  Mere Abbas tere baad qayamat guzari
+  Jis ghari gardan-e-Shabeer pe chalti thi chori
+  Tum ko oss waqt bhi detey they sada bhai Hussain
+
+  3
+  Chaar janib hain sitamgar uthaye nashtar
+  Kis tarha aaye behan bhai tere lashay par
+  Fasila kafi hai khaimon se nehar ke ma bain
+  Jab teri bali Sakina ne yeh manzar dekha
+
+  4
+  Tujh ko girtay hoye hathoon ka sahara na mila
+  Gar gayi khak pe sar peet ke karti rahi bain
+  Tujh pe behnein teri qurban hoon shair-e-Haider
+  Haye Abbas tujhe lag gayi dunya ki nazar
+
+  5
+  Aye wafadar aye ghayoor ameer-e-konain
+  Chodah sadiyaan hoin lekin tera gham taza hai
+  Yasir-e- ahl-e-azza hum ne yehi dekha hai
+  Aaj bhi hota hai noha sar-e-bain al-harmain
 ---
 
-Asar-e-Ashor Kiye Zainab-o-Kulsoom Ne Bain.
-Jeetay Jee Mar Gayi Teri Shahadat Ki Khabar.
+عصرِ عاشور کیے زینب و کلثوم نے بین
+جیتے جی مر گئی تیری شہادت کی خبر
 
-1
-Be Rida Ho Gaye Hum Kat Gaya Shabeer Ka Sar.
-Naam Le Kar Tera Kartay Hain Haram Shewan-o-Shain.
-Ashqiya Jab Kabhi Khaimon Ki Taraf Dekhtey Hain.
-Hum Bulatay Hain Tumhein Soye Najaf Dekhtey Hain.
+۱
+بے ردا ہو گئے ہم، کٹ گیا شبیر کا سر
+نام لے کر تیرا کرتے ہیں حرم شیون و شین
+اشقیا جب کبھی خیموں کی طرف دیکھتے ہیں
+ہم بلاتے ہیں تمہیں، سوئے نجف دیکھتے ہیں
 
-2
-Ghazi Aa Jao Kahan Ho Humein Milta Nahi Chain.
-Mere Abbas Tere Baad Qayamat Guzari.
-Jis Ghari Gardan-e-Shabeer Pe Chalti Thi Chori.
-Tum Ko Oss Waqt Bhi Detey They Sada Bhai Hussain.
+۲
+غازی آ جاؤ، کہاں ہو، ہمیں ملتا نہیں چین
+میرے عباس تیرے بعد قیامت گزاری
+جس گھڑی گردنِ شبیر پہ چلتی تھی چھری
+تم کو اس وقت بھی دیتے تھے صدا بھائی حسین
 
-3
-Chaar Janib Hain Sitamgar Uthaye Nashtar.
-Kis Tarha Aaye Behan Bhai Tere Lashay Par.
-Fasila Kafi Hai Khaimon Se Nehar Ke Ma Bain.
-Jab Teri Bali Sakina Ne Yeh Manzar Dekha.
+۳
+چار جانب ہیں ستمگر اٹھائے نشتر
+کس طرح آئے بہن بھائی تیرے لاشے پر
+فاصلہ کافی ہے خیموں سے نہر کے مابین
+جب تیری بالی سکینہ نے یہ منظر دیکھا
 
-4
-Tujh Ko Girtay Hoye Hathoon Ka Sahara Na Mila.
-Gar Gayi Khak Pe Sar Peet Ke Karti Rahi Bain.
-Tujh Pe Behnein Teri Qurban Hoon Shair-e-Haider.
-Haye Abbas Tujhe Lag Gayi Dunya Ki Nazar.
+۴
+تجھ کو گرتے ہوئے ہاتھوں کا سہارا نہ ملا
+گر گئی خاک پہ، سر پیٹ کے کرتی رہی بین
+تجھ پہ بہنیں تیری قربان ہوں، شیرِ حیدر
+ہائے عباس تجھے لگ گئی دنیا کی نظر
 
-5
-Aye Wafadar Aye Ghayoor Ameer-e-Konain.
-Chodah Sadiyaan Hoin Lekin Tera Gham Taza Hai.
-:YASIR-E-: Ahl-e-Azza Hum Ne Yehi Dekha Hai.
-Aaj Bhi Hota Hai Noha Sar-e-Bain Al-Harmain.
+۵
+اے وفادار، اے غیور امیرِ کونین
+چودہ صدیاں ہوئیں لیکن تیرا غم تازہ ہے
+یاسرِ اہلِ عزا ہم نے یہی دیکھا ہے
+آج بھی ہوتا ہے نوحہ سرِ بین الحرمین

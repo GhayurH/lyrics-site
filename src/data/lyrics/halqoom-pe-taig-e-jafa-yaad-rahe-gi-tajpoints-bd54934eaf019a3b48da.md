@@ -1,32 +1,54 @@
 ---
-title: "Halqoom Pe Taig-e-Jafa Yaad Rahe Gi"
+title: "حلقوم پہ تیغِ جفا یاد رہے گی"
+alternateTitle: "Halqoom Pe Taig-e-Jafa Yaad Rahe Gi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Halqoom pe taig-e-jafa yaad rahe gi
+  Mazloom tabasum ki ada yaad rahe gi
+
+  1
+  Tan se hoi gardan jo juda yaad rahe gi
+  Insaf ko na haq yeh saza yaad rahe gi
+  Aati thi marey shehar mein pehle bhi magar ab
+  Jis rang mein aayi hai qaza yaad rahe gi
+
+  2
+  Jo taig-e-jafa mera gala kaat rahi hai
+  Oss taig ko bhi haq ki sada yaad rahe gi
+  Har door mein har zulm yehi kehta rahe ga
+  Main hoon tu tumhein Karb-o-Bala yaad rahe gi
+
+  3
+  Sar mera tah-e-taig bhi jhukney nahi paya
+  Qatil ko marey meri haya yaad rahe gi
+  Darasal tasalsul hai Asad Karb-o-Bala ka
+  Yeh taza shahadat bhi sada yaad rahe gi
 ---
 
-Halqoom Pe Taig-e-Jafa Yaad Rahe Gi.
-Mazloom Tabasum Ki Ada Yaad Rahe Gi.
+حلقوم پہ تیغِ جفا یاد رہے گی
+مظلوم تبسم کی ادا یاد رہے گی
 
-1
-Tan Se Hoi Gardan Jo Juda Yaad Rahe Gi.
-Insaf Ko Na Haq Yeh Saza Yaad Rahe Gi.
-Aati Thi Marey Shehar Mein Pehle Bhi Magar Ab.
-Jis Rang Mein Aayi Hai Qaza Yaad Rahe Gi.
+۱
+تن سے ہوئی گردن جو جدا یاد رہے گی
+انصاف کو ناحق یہ سزا یاد رہے گی
+آتی تھی میرے شہر میں پہلے بھی مگر اب
+جس رنگ میں آئی ہے قضا یاد رہے گی
 
-2
-Jo Taig-e-Jafa Mera Gala Kaat Rahi Hai.
-Oss Taig Ko Bhi Haq Ki Sada Yaad Rahe Gi.
-Har Door Mein Har Zulm Yehi Kehta Rahe Ga.
-Main Hoon Tu Tumhein Karb-o-Bala Yaad Rahe Gi.
+۲
+جو تیغِ جفا میرا گلا کاٹ رہی ہے
+اس تیغ کو بھی حق کی صدا یاد رہے گی
+ہر دور میں ہر ظلم یہی کہتا رہے گا
+میں ہوں تو تمہیں کرب و بلا یاد رہے گی
 
-3
-Sar Mera Tah-e-Taig Bhi Jhukney Nahi Paya.
-Qatil Ko Marey Meri Haya Yaad Rahe Gi.
-Darasal Tasalsul Hai Asad Karb-o-Bala Ka.
-Yeh Taza Shahadat Bhi Sada Yaad Rahe Gi.
+۳
+سر میرا تہِ تیغ بھی جھکنے نہیں پایا
+قاتل کو میرے میری حیا یاد رہے گی
+دراصل تسلسل ہے اسد کرب و بلا کا
+یہ تازہ شہادت بھی سدا یاد رہے گی

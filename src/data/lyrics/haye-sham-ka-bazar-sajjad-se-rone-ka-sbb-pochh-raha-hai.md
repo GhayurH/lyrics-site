@@ -9,99 +9,36 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haey Shaam ka bazaar
-
+romanLyrics: |-
+  Haaye Shaam ka baazaar
+  Sajjad se rone ka sabab pochh raha hai
 
   1
-
-  Sajjad se ronay ka sabab pooch raha hay
-
-
-  2
-
-  Jo Shaam me guzri hay woh sab pooch raha hay
-
-
-  3
-
-  1) Woh lakho tamashai be parda phuphee behne
-
-  Aise na lahu roye beemar ki phir aakhen
-
-  Is gham ki aziyyat ne use maar diya hay
-
-
-  4
-
-  2) Kis tarah qarar aaye beemaar ko aey logo
-
-  Sar naizon pe pairon ke aate hain nazar jisko
-
-  Yeh musafir ki yeh kaisi sazaa hai
-
-
-  5
-
-  3) Aakhon se hay khun jaari aur khar hay beemari
-
-  Zanjeer hay pairon me aur tawk bhi hay bhaari
-
-  Jalti hai zamin saari aur garm hawaa hay
-
-
-  6
-
-  4) Jaagir nahi maangi zanjeer nahi badli
-
-  Saaye me nahi baitha poshaak nahi badli
-
-  Maa behno ki khaatir woh rida maang raha hay
-
-
-  7
-
-  5) Zindaan ke masaaeb bhi har waqt rulaate hain
-
-  Ashkon ko magar apne Zainab se chhupaate hain
-
-  Mar jaye na Zainab ye kahi shoch raha hai
-
-
-  8
-
-  6) Zindaan se reha hoke bhi zindaan me hain Sajjad
-
-  Ek nanhi si turbat karti hay faryaad
-
-  Mar kar bhi rahun qaid may kya meri khataa hay
-
-
-  9
-
-  7) Yeh zakhm bhi Sajjad ko jeenay nahi deta
-
-  Zakhmon se Sakina ke jo chipkaa raha kurtaa
-
-  Woh khun bharaa kurta hi kafan us ka banaa hai
-
-
-  10
-
-  8) Baazaar me darbaar me zindaan may roye
-
-  Chaalis baraz mawt ke armaan may roye
-
-  Rehan mera maula taraptaa hi rahaa hay
-
-
-  11
-
-  Sajjad say rone ka sabab puch rahaa hay
-
-
-  12
-
-  Jo shaam may guzri thi woh sab puch raha hay'
+  Jo Shaam meiṅ guzri hai woh sab pochh raha hai
+  Woh laakh tamaashaai beparda phuphi behneṅ
+  Kaise na lahu roeṅ bimaar ki phir aaṅkheṅ
+  Is gham ki aziyyat ne use maar diya hai
+  Kis tarah qaraar aaye bimaar ko ae logoṅ
+  Sar nezoṅ pe pyaaroṅ ke aate haiṅ nazar jis ko
+  Bejurm musaafir ki yeh kaisi saza hai
+  Aaṅkhoṅ se hai khuṅ jaari ghamkhwaar hai bimaar bhi
+  Zanjir hai pairoṅ meiṅ aur tauq bhi hai bhaari
+  Jalti hai zamiṅ saari aur garm hawa hai
+  Taakhir nahiṅ maaṅgi zanjir nahiṅ badli
+  Saaye meiṅ nahiṅ baitha poshaak nahiṅ badli
+  Maaṅ behnoṅ ki khaatir woh rida maaṅg raha hai
+  Zindaaṅ ke masaaib bhi har waqt rulaate haiṅ
+  Ashkoṅ ko magar apne Zainab se chhupaate haiṅ
+  Mar jaaye na Zainab yeh kahiṅ soch raha hai
+  Zindaaṅ se riha ho ke bhi zindaaṅ meiṅ haiṅ Sajjad
+  Ik nanhi si turbat jo wahaaṅ karti hai faryaad
+  Mar ke bhi rahuṅ qaid yeh kya meri khata hai
+  Yeh zakhm bhi Sajjad ko jine nahiṅ deta
+  Zakhmoṅ se Sakina ke jo chipka raha kurta
+  Woh khuṅ bhara kurta hi kafan us ka bana hai
+  Baazaar meiṅ darbaar meiṅ zindaaṅ meiṅ roye
+  Chaalis baras maut ke armaan meiṅ roye
+  Rehaan mera maula tarapta hi raha hai
 ---
 
 ہاۓ شام کا بازار

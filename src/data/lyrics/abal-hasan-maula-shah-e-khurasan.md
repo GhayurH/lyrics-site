@@ -14,57 +14,57 @@ published: true
 romanLyrics: |-
   Zaamin-e-Aahu Raza, Shaafi-e-Roz-e-Jaza, aashiq-e-Karb o Bala, jaan o dil-e-Fatima
   Abal Hasan Maula, Abal Hasan Maula, Abal Hasan Maula Shah-e-Khurasan
-  Aap Sakhi Ibn-e-Sakhi, aap Rauf o Rahman
+  Aap sakhi ibn-e-sakhi, aap Rauf o Rahman
 
   1
-  Hai tere darbar ki ye shaan nirali
+  Hai tere darbaar ki ye shaan nirali
   Jaata nahiṅ hai kabhi yahaṅ se koi khaali
-  Dast-e-Khuda ban ke sada karte haiṅ sab pe ehsan
+  Dast-e-Khuda ban ke sada karte haiṅ sab pe ehsaan
 
   2
-  Parhta huṅ jis waqt maiṅ Anamta Alaihim
-  Dil se sada aati hai ae Izzat-e-Qaim
-  Teri wila de ke kiya hum pe Khuda ne ehsan
+  Parhta huṅ jis waqt maiṅ Anamta alaihim
+  Dil se sada aati hai ae izzat-e-Qaim
+  Teri wila de ke kiya hum pe Khuda ne ehsaan
 
   3
-  Maula bahot din hue dekhe hue Jannat
+  Maula bahot din hue dekhe hue jannat
   Phir se ata kijiye mujhe izn-e-ziyarat
   Dur haram aankheṅ haiṅ nam meri nikalti hai jaan
 
   4
-  Din meiṅ nazar aa gaye Mufti ko sitare
+  Din meiṅ nazar aa gaye mufti ko sitare
   Bhul gaya yaad the jitne bhi sipare
-  Ghaur se jab us ne parha Surah-e-Aal-e-Imran
+  Ghaur se jab us ne parha surah-e-Aal-e-Imran
 
   5
   Arz hai ye aap se ae Maula Raza jaan
-  Aap ke dada ka ho kuchh hum ko bhi irfan
+  Aap ke dada ka ho kuchh hum ko bhi irfaan
   Koi waraq koi sabaq garche parha deṅ Salman
 
   6
-  Roz hi hum tera namak khate haiṅ Maula
+  Roz hi hum tera namak khaate haiṅ Maula
   Khaas muzif apne magar tum ne bulaya
-  Hai ye ata shukr-e-Khuda hum hue tere mehman
+  Hai ye ata shukr-e-Khuda hum hue tere mehmaan
 
   7
-  Kalma-e-Haq qila-e-Tauhid-e-Jali hai
+  Kalma-e-haq qila-e-Tauhid-e-jali hai
   Us meiṅ magar dakhile ki shart Ali hai
-  Hai bakhuda likha hua dil pe mere ye farman
+  Hai bakhuda likha hua dil pe mere ye farmaan
 
   8
   Qum ki ziyarat ko jo logo kabhi jana
   Madh-e-Raza ja ke Karima ko sunana
-  Bibi tumheṅ deṅgi dua sun ke baradar ki shaan
+  Bibi tumheṅ deṅgi dua sun ke baraadar ki shaan
 
   9
   Hum ko sada aap ne Maula hai sambhala
   Ranj se mushkil se balaoṅ se nikala
-  Le ke khabar baar-e-digar kijiye mushkil aasan
+  Le ke khabar baar-e-digar kijiye mushkil aasaan
 
   10
   Jaari raheṅ Aal-e-Muhammad ki ataeṅ
   Mir Hasan Mir karo tum ye duaeṅ
-  Meri tarah sab pe hoṅ ye bhai behen mehrban
+  Meri tarah sab pe hoṅ ye bhai behen mehrbaan
 ---
 ضامنِ آہو رضا، شافعِ روزِ جزا، عاشقِ کرب و بلا، جان و دلِ فاطمہ
 ابا الحسن مولا، ابا الحسن مولا، ابا الحسن مولا شاہِ خراسان

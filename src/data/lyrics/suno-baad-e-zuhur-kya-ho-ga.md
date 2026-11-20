@@ -35,12 +35,12 @@ romanLyrics: |-
   Fadak ka Mehdi ne aa kar hisaab lena hai
 
   3
-  Abhi bhi ishq tarapta hai qatl gaahoṅ meiṅ
-  Abhi hayaat hai qaidi ajal ki baanhoṅ meiṅ
-  Abhi andhera hai insaan ki nigaahoṅ meiṅ
-  Abhi to qaafila-e-zindagi hai raahoṅ meiṅ
-  Ali ka sher abhi sabr ki kachhaar meiṅ hai
-  Zamaana apne Muhammad ke intezaar meiṅ hai
+  Abhi bhi ishq tarapta hai qatl gaahoṅ mein
+  Abhi hayaat hai qaidi ajal ki baanhoṅ mein
+  Abhi andhera hai insaan ki nigaahoṅ mein
+  Abhi to qaafila-e-zindagi hai raahoṅ mein
+  Ali ka sher abhi sabr ki kachhaar mein hai
+  Zamaana apne Muhammad ke intezaar mein hai
 
   4
   Yeh keh rahi hai gham o ranj ki faraawaani
@@ -54,7 +54,7 @@ romanLyrics: |-
   Munaadi ho gi keh adl-e-Khuda mubaarak ho
   Jadar-e-khaana-e-haq Murtaza mubaarak ho
   Madine waalo naya Mustafa mubaarak ho
-  Mira zahur Ae Khair-ul-Nisa mubaarak ho
+  Mira zuhur ae Khair-ul-Nisa mubaarak ho
   Tha dil pe Karb o Bala ka jo baar khatm hua
   Ae meri daadi tira intezaar khatm hua
 
@@ -76,11 +76,11 @@ romanLyrics: |-
 
   8
   Ali tegh hai phir beniyaam bhaag chalo
-  Jagah haram meiṅ nahiṅ su-e-Shaam bhaag chalo
-  Ajal ko yaad hai ham sab ke naam bhaag chalo
+  Jagah haram mein nahiṅ su-e-Shaam bhaag chalo
+  Ajal ko yaad haiṅ ham sab ke naam bhaag chalo
   Keh bhaagna hi to hai apna kaam bhaag chalo
-  Amaaṅ nahiṅ hai kahiṅ kaarzaar-e-hasti meiṅ
-  Kachhaar chhor ke sher aa gaya hai basti meiṅ
+  Amaaṅ nahiṅ hai kahiṅ kaarzaar-e-hasti mein
+  Kachhaar chhor ke sher aa gaya hai basti mein
 
   9
   Sunaai de ga yeh ailaan tegh-e-Haider ka
@@ -91,10 +91,10 @@ romanLyrics: |-
   Zamin pe maut ko rukne ki bas ijaazat hai
 
   10
-  Bhari hai aag mire dil meiṅ beqaraar huṅ maiṅ
-  Na jaane kitne shahidoṅ ki sogwaar huṅ maiṅ
-  Na jaane kitne yatimoṅ ki qarz daar huṅ maiṅ
-  Kahe ga kaun keh Haider ki Zulfiqar huṅ maiṅ
+  Bhari hai aag mire dil mein beqaraar huṅ main
+  Na jaane kitne shahidoṅ ki sogwaar huṅ main
+  Na jaane kitne yatimoṅ ki qarz daar huṅ main
+  Kahe ga kaun keh Haider ki Zulfiqar huṅ main
   Ali ke laal tire naam ki duhaai hai
   Na aaj rok mujhe aakhri laraai hai
 ---

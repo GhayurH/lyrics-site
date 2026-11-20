@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sadaat ne matam ka phir farsh bichaya hai
-  Gham mola Taqi tera kainat pe chaaya hai
+  Sadaat ne maatam ka phir farsh bichhaaya hai
+  Gham Maula Taqi tera kaainaat pe chhaaya hai
 
   1
-  Bachpan may yatimi ka sadma tha saha tu ne
-  Tujhe zehr jawani may zaalim ne pilaya hai
+  Bachpan mein yatimi ka sadma tha saha tu ne
+  Tujhe zehr jawaani mein zaalim ne pilaaya hai
 
   2
-  Ae Motasim billah laanat ho sada tujh pe
-  Ismat ka diya tu ne dhoke se bujhaya hai
+  Ae Mutasim billah laanat ho sada tujh pe
+  Ismat ka diya tu ne dhoke se bujhaaya hai
 
   3
-  Pardes may the tanh afsus Taqi Mola
-  Jab waqt sahadat ka mazlum ke aaya hai
+  Pardes mein the tanha afsos Taqi Maula
+  Jab waqt shahaadat ka mazlum ka aaya hai
 
   4
-  Zindaan may ro ro ke kehte the Taqi Mola
-  Aabid ki asira ne hae mujh ko rulaya hai
+  Zindaan mein ro ro ke kehte the Taqi Maula
+  Aabid ki asiri ne haaye mujh ko rulaaya hai
 
   5
-  Yasrab se Naqi rote Baghdad may aaye haiṅ
-  Mola ka janaza yuṅ Mola ne parrhaya hai
+  Yasrab se Naqi rote Baghdaad mein aaye haiṅ
+  Maula ka janaaza yuṅ Maula ne parhaaya hai
 
   6
-  Hai Mola Jawwad apni bakhshish ke liye kaafi
-  Jo ashk tere gham may ankhuṅ ne bahaya hai
+  Hai Maula Jawwaad apni bakhshish ke liye kaafi
+  Jo ashk tere gham mein aaṅkhoṅ ne bahaaya hai
 ---
 
 سادات نے ماتم کا پِھر فرش بچھایا ہے

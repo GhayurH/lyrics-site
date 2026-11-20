@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye kaunsi mastoora hai kya maang rahi hai
+  Ye kaun si mastura hai kya maang rahi hai
   Islam ki khidmat ka sila maang rahi hai
-  Har saahibe ghairat se rida maang rahi hai
-  Pardes meiṅ marne ki dua maang rahi hai
+  Har saahib-e-ghairat se rida maang rahi hai
+  Pardes mein marne ki dua maang rahi hai
   Afsurda hai aflaak siyah posh zamiṅ hai
-  Jibril zara dekhiye zainab to nahi hai
+  Jibril zara dekh ye Zainab to nahiṅ hai
   Allah ye kaisa manzar hai
-  Beparda shamiyoṅ meiṅ aulade payambar hai
+  Beparda shaamiyoṅ mein aulaad-e-paimbar hai
   Allah ye kaisa manzar hai
-  Nida de raha hai ye haskar manadi
-  Ae logon gharon se nikal aao jaldi
-  Sazae do inko ye baaghi hai baaghi
-  Bajte hai shadiyane har haat mein pathar hai
-  Allah ye kaisa…
-  Kahaṅ khauf khaata hai zaalim kisi se
-  Bulata hai ek ek ko wo naam leke
-  Har ek bibi chupti hai zainab ke piche
-  Khud ko chupaye zainab fizza ki pusht par hai
-  Allah ye kaisa…
-  Batata hai shimr aa ke khud shamiyoṅ ko
-  Ke kaata hai maiṅ ne isi se saroṅ ko
-  Dikhata hai lehrake phir bibiyoṅ ko
-  Haatoṅ meiṅ us shaqi ke ek khuṅ bhara khanjar hai
-  Allah ye kaisa…
+  Nida de raha hai ye hans kar munaadi
+  Ae logo gharoṅ se nikal aao jaldi
+  Sazaaeṅ do in ko ye baaghi haiṅ baaghi
+  Bajte haiṅ shaadiyaane har haath mein patthar hai
+  Allah ye kaisa...
+  Kahaaṅ khauf khaata hai zaalim kisi se
+  Bulaata hai ek ek ko wo naam leke
+  Har ek Bibi chhupti hai Zainab ke pichhe
+  Khud ko chhupaaye Zainab Fizza ki pusht par hai
+  Allah ye kaisa...
+  Bataata hai Shimr aa ke khud shaamiyoṅ ko
+  Ke kaata hai main ne isi se saroṅ ko
+  Dikhaata hai lehra ke phir bibiyoṅ ko
+  Haathoṅ mein us shaqi ke ek khuṅ bhara khanjar hai
+  Allah ye kaisa...
   Hua hai asar itna binaaiyo par
-  Ajab kashmakash meiṅ hai asghar ki madar
+  Ajab kashmakash mein hai Asghar ki maadar
   Har ek naiza bardaar ke paas jaa kar
-  Ro ro ke puchti hai kya ye mera asghar hai
-  Allah ye kaisa…
-  Aseeron pe kaisi musibat bani hai
-  Har ek bibi bazaar meiṅ dhundti hai
-  Sakina kahiṅ bhir meiṅ kho gayi hai
-  Mehshar se pehle barpa bazaar meiṅ mehshar hai
-  Allah ye kaisa…
-  Qayamat meiṅ kaisi qayamat hai barpa
-  Takallum hai godhi meiṅ asghar ka laasha
-  Adalat mein khaaliq ki aati hai zehra
-  Nazre jhuki hai sab ki nabiyoṅ ke laboṅ par hai
-  Allah ye kaisa…
+  Ro ro ke puchhti hai kya ye mera Asghar hai
+  Allah ye kaisa...
+  Asiroṅ pe kaisi musibat bani hai
+  Har ek Bibi bazaar mein dhundti hai
+  Sakina kahiṅ bhir mein kho gayi hai
+  Mehshar se pehle barpa bazaar mein mehshar hai
+  Allah ye kaisa...
+  Qayamat mein kaisi qayamat hai barpa
+  Takallum hai godi mein Asghar ka laasha
+  Adaalat mein khaaliq ki aati hai Zehra
+  Nazreṅ jhuki haiṅ sab ki nabiyoṅ ke laboṅ par hai
+  Allah ye kaisa...
 ---
 
 ۱

@@ -12,49 +12,49 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashur ki shab beti se kehte the ye Sarwar
+  Aashur ki shab beti se kehte the ye Sarwar
   Ab tera bichhona khaak hai Sakina
   Kal nahiṅ milega baap ka ye sina
 
   1
-  Maiṅ ne mana garm ret par na so sakogi
+  Main ne maana garm ret par na so sako gi
   Karwateṅ badal badal ke raat bhar jagogi
   Yaad aaeṅge hum aur kabhi Madina
 
   2
-  Beshikasta ho ke bhi guzarni haiṅ raateṅ
+  Be shikasta ho ke bhi guzaarni hai raateṅ
   Yaad aaeṅgi hamare baad saari baateṅ
   Yuṅ tarap tarap ke ab tujhe hai jina
 
   3
-  Zindagi guzarni hai ab yatim ho kar
+  Zindagi guzaarni hai ab yatim ho kar
   Jaise hum jiye haiṅ apne baap maaṅ ko kho kar
   Mere baad jina sikh lo Sakina
 
   4
-  Haaṅ ye shab to jaag ke guzar lo magar kal
-  Nanhi nanhi aankheṅ nind se jo hoṅgi bojhal
-  Kya karogi us dam soch lo hazina
+  Haaṅ ye shab to jaag ke guzaar lo magar kal
+  Nanhi nanhi aankheṅ nind se jo hongi bojhal
+  Kya karo gi us dam soch lo hazina
 
   5
-  Kal ka din rulaega tumheiṅ bhi aur hameiṅ bhi
-  Waqt aazmaega tumheiṅ bhi aur hameiṅ bhi
-  Sabr ka ye daman chhorna kabhi na
+  Kal ka din rulaega tumheṅ bhi aur hameṅ bhi
+  Waqt aazmaega tumheṅ bhi aur hameṅ bhi
+  Sabr ka ye daaman chhorna kabhi na
 
   6
-  Haaṅ ye shab wohi hai jis ke waste Khuda se
-  Maiṅ ne tumko maanga tha duaoṅ ke sahare
-  Ab ye imtehaṅ hai maiṅ kahuṅ Sakina
+  Haaṅ ye shab wohi hai jis ke waaste Khuda se
+  Main ne tum ko maanga tha duaaoṅ ke sahare
+  Ab ye imtehaaṅ hai main kahuṅ Sakina
 
   7
-  Jis ka raaj hai wafa ki saari kainat par
-  Pani ke liye use na bhejna Furat par
+  Jis ka raaj hai wafa ki saari kaainaat par
+  Paani ke liye use na bhejna Furat par
   Warna laut kar woh aaega kabhi na
 
   8
   Khaak hai nasib tera khaak pairahan hai
   Ab teri rida bhi khaak khaak hi kafan hai
-  Khaak hi meiṅ hoga dafn ye nagina
+  Khaak hi meiṅ ho ga dafn ye nagina
 
   9
   Mazhar Abidi woh kaisi Asr ki ghari thi

@@ -1,6 +1,6 @@
 ---
 title: "اے بے برادر زینبؑ"
-alternateTitle: "Aey Be Biradar Zainab"
+alternateTitle: "Ae Be Biraadar Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,34 +9,34 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey be biradar Zainab
+  Ae be biraadar Zainab
 
   1
-  Bhi yaar-o-yaawar Zainab
+  Be yaar o yaawar Zainab
 
   2
-  Aseer-o-muztar Zainab
+  Asir o muztar Zainab
 
   3
-  Fatima dukhtar-e-nabi
+  Faatima dukhtar-e-nabi
 
   4
-  Ayaabe dasht-e-karbala
+  Aayaa ba dasht-e-Karbalaa
 
   5
-  Akbar-e-naujawan che shud
+  Akbar-e-naujawaan che shud
 
   6
-  Aabide bimaaram che shud
+  Aabid-e-bimaaram che shud
 
   7
-  Qasim-e-daama dam che shud
+  Qaasim-e-daamaadam che shud
 
   8
-  Asghar-e-sheer khwaram che shud
+  Asghar-e-shir khwaaram che shud
 
   9
-  Abbas alamdaaram che shud
+  Abbaas alamdaaram che shud
 ---
 
 اے بے برادر زینب

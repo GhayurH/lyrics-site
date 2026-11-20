@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Saj dhaj ke khaima gaah se nikla Ali ka chaand
-  Lene lagi balaaeṅ Akbar ki Bibiyaaṅ
+  Lene lagi balaaeṅ Akbar ki bibiyaaṅ
   Shabbir ki nigaah meiṅ hai ab dhuaaṅ dhuaaṅ
 
   2
   Bete ko dekh lete the naana ki yaad par
-  Akbar chale jo ran ko to tarpe Shaah-e-zamaaṅ
+  Akbar chale jo ran ko to tarpe Shah-e-zamaaṅ
   Shabbir ki nigaah meiṅ hai ab dhuaaṅ dhuaaṅ
 
   3
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Sehra na dekh paaye jawaaṅ saal tum gaye
-  Armaan khaak meiṅ mila roti hai Bibiyaaṅ
+  Armaan khaak meiṅ mila roti hai bibiyaaṅ
   Shabbir ki nigaah meiṅ hai ab dhuaaṅ dhuaaṅ
 
   7

@@ -15,7 +15,7 @@ romanLyrics: |-
   Ae Shimr-e-laiṅ tu kya kaat raha hai
   Ae qaatil-e-Shabbir tu kya kaat raha hai
 
-  Dar asl payambar ka gala kaat raha hai
+  Dar asl paimbar ka gala kaat raha hai
   Ae qaatil-e-Shabbir tu kya kaat raha hai
 
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Kaanoṅ meiṅ Sakina ke hai ret ke zarre
-  Har zarra hi kaante ki tarha kaat raha hai
+  Har zarra hi kaante ki tarah kaat raha hai
 
   4
   Naize ki ani chaadar-e-Zainab meiṅ ari hai

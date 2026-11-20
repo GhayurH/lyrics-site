@@ -13,58 +13,58 @@ aliases: []
 published: true
 romanLyrics: |-
   Alamdar-e-Husain
-  Karbala waloṅ ka pyara hai Alamdar-e-Husain
-  Besaharoṅ ka sahara hai Alamdar-e-Husain
+  Karbala waaloṅ ka pyaara hai Alamdar-e-Husain
+  Besahaaroṅ ka sahaara hai Alamdar-e-Husain
 
   1
   Ye khayal aata hai Ghazi tere parcham ke tale
   Arsh se tegh-e-Yadullah ki tarah Haq ne
-  Tera parcham bhi utara hai Alamdar-e-Husain
+  Tera parcham bhi utaara hai Alamdar-e-Husain
 
   2
-  Keh raha hai yehi sardab meiṅ pani ruk kar
+  Keh raha hai yehi sardaab mein paani ruk kar
   Roz-e-Ashur se ab Roz-e-Jaza tak mukh par
-  Tera bas tera ijara hai Alamdar-e-Husain
+  Tera bas tera ijaara hai Alamdar-e-Husain
 
   3
-  Kul ke Maula ne duaoṅ meiṅ Khuda se maṅga
+  Kul ke Maula ne duaaoṅ mein Khuda se maanga
   Fatima Zehra ne bhi tum ko kaha hai beta
-  Ye sharaf bhi to tumhara hai Alamdar-e-Husain
+  Ye sharaf bhi to tumhaara hai Alamdar-e-Husain
 
   4
-  Ye pukara tha sar-e-Karb o Bala din-e-Nabi
-  Meri taqdir ka malik hai Husain Ibn-e-Ali
-  Meri qismat ka sitara hai Alamdar-e-Husain
+  Ye pukaara tha sar-e-Karb o Bala din-e-Nabi
+  Meri taqdir ka maalik hai Husain Ibn-e-Ali
+  Meri qismat ka sitaara hai Alamdar-e-Husain
 
   5
-  Sari dunya pe ayaṅ hoga tera jah o hasham
+  Saari dunya pe ayaaṅ hoga tera jaah o hasham
   Ek din aaega har ghar pe sajega ye alam
-  Sab pukareṅ ge hamara hai Alamdar-e-Husain
+  Sab pukaareṅ ge hamaara hai Alamdar-e-Husain
 
   6
-  Jis se khul jata hai insan ka jauhar wo bhi
-  Jis se banta hai zamane ka muqaddar wo bhi
-  Tere abru ka ishara hai Alamdar-e-Husain
+  Jis se khul jaata hai insaan ka jauhar wo bhi
+  Jis se banta hai zamaane ka muqaddar wo bhi
+  Tere aabru ka ishaara hai Alamdar-e-Husain
 
   7
-  Sab se anmol bhala kiuṅ na wohi kehlae
-  Tere parcham ke tale tere alam ke sae
-  Hum ne jo waqt guzara hai Alamdar-e-Husain
+  Sab se anmol bhala kiuṅ na wohi kehlaae
+  Tere parcham ke tale tere alam ke saae
+  Hum ne jo waqt guzaara hai Alamdar-e-Husain
 
   8
-  Kis tarah bhuleṅ ge us aalam-e-tanhayi ko
-  Jis meiṅ Zehra ke dulare ko tere bhayi ko
-  Gher ke lakhoṅ ne mara hai Alamdar-e-Husain
+  Kis tarah bhuleṅ ge us aalam-e-tanhaai ko
+  Jis mein Zehra ke dulaare ko tere bhaai ko
+  Gher ke laakhoṅ ne maara hai Alamdar-e-Husain
 
   9
-  Har qadam bali Sakina ka tamache khana
-  Rah-e-purkhar meiṅ bachchi ka tarapna rona
-  Kis tarah tum ko gawara hai Alamdar-e-Husain
+  Har qadam baali Sakina ka tamaanche khaana
+  Raah-e-purkhaar mein bachchi ka tarapna rona
+  Kis tarah tum ko gawaara hai Alamdar-e-Husain
 
   10
   Dar pe Abbas ke Izhaar koi bhi aaya
-  Shadmaṅ ho ke wo kehta hua yehi lauta
-  Besaharoṅ ka sahara hai Alamdar-e-Husain
+  Shaadmaaṅ ho ke wo kehta hua yehi lauta
+  Besahaaroṅ ka sahaara hai Alamdar-e-Husain
 ---
 
 علمدارِ حسین

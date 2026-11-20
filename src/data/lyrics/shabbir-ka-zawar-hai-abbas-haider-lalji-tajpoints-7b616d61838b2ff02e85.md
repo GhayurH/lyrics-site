@@ -1,37 +1,64 @@
 ---
-title: "Shabbir Ka Zawar Hai Abbas Haider Lalji"
+title: "شبیر کا زوار ہے عباس حیدر لالجی"
+alternateTitle: "Shabbir Ka Zawar Hai Abbas Haider Lalji"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shabbir ka zawar hai Abbas Haider Lalji
+
+  1
+  Farsh par jo Hazrat-e-Shabeer ka zawwar hai
+  Arsh par Allah ke dedar ka haqdar hai
+  Mustafa ne sajdah jo apna kiya hai na taveel
+  Sajday mein Shabeer se yeh ishq ka izhar hai
+  Dekhtey rehtey hain oss ko rashk se sab anbiya
+  Hazrat-e-Shabeer ka jo taziya bardar hai
+
+  2
+  Mas howa Shabeer ke jholay se tu par lag gaye
+  Our hi Fitrus ki ab parwaz ki raftar hai
+  Karbala ja na dar-e-Shabeer par phaila na hath
+  Woh kabhi khali na aaya jo gaya ik bar hai
+  Sar utha kar bolay Muslim Kofay ke darbar mein
+  Bas mera Ibn-e-Ali sardar tha sardar hai
+
+  3
+  Sheh ke gham mein mar le seene pe woh do chaar hath
+  Matami Sheh ka gham-e-dunya se gar do chaar hai
+  Ibn-e-Zahra jitnay chahe de de rahib ko pisar
+  Jo muqadar mein na ho deney pe woh mukhtar hai
+  Bolay Sheh zanu pe apne rakh ke Hur ka sar Asad
+  Ab sakoon ki neend so ja, kab se tu bedar hai
 ---
 
-Shabbir Ka Zawar Hai Abbas Haider Lalji.
+شبیر کا زوار ہے عباس حیدر لالجی
 
-1
-Farsh Par Jo Hazrat-e-Shabeer Ka Zawwar Hai.
-Arsh Par ALLAH Ke Dedar Ka Haqdar Hai.
-Mustafa Ne Sajdah Jo Apna Kiya Hai Na Taveel.
-Sajday Mein Shabeer Se Yeh Ishq Ka Izhar Hai.
-Dekhtey Rehtey Hain Oss Ko Rashk Se Sab Anbiya.
-Hazrat-e-Shabeer Ka Jo Taziya Bardar Hai.
+۱
+فرش پر جو حضرتِ شبیر کا زوار ہے
+عرش پر اللہ کے دیدار کا حق دار ہے
+مصطفیٰ نے سجدہ جو اپنا کیا ہے نا طویل
+سجدے میں شبیر سے یہ عشق کا اظہار ہے
+دیکھتے رہتے ہیں اس کو رشک سے سب انبیا
+حضرتِ شبیر کا جو تعزیہ بردار ہے
 
-2
-Mas Howa Shabeer Ke Jholay Se Tu Par Lag Gaye.
-Our Hi Fitrus Ki Ab Parwaz Ki Raftar Hai.
-Karbala Ja Na Dar-e-Shabeer Par Phaila Na Hath.
-Woh Kabhi Khali Na Aaya Jo Gaya Ik Bar Hai.
-Sar Utha Kar Bolay Muslim Kofay Ke Darbar Mein.
-Bas Mera Ibn-e-Ali Sardar Tha Sardar Hai.
+۲
+مس ہوا شبیر کے جھولے سے تو پر لگ گئے
+اور ہی فطرس کی اب پرواز کی رفتار ہے
+کربلا جانا درِ شبیر پر پھیلانا ہاتھ
+وہ کبھی خالی نہ آیا جو گیا اک بار ہے
+سر اٹھا کر بولے مسلم کوفے کے دربار میں
+بس میرا ابنِ علی سردار تھا سردار ہے
 
-3
-Sheh Ke Gham Mein Mar Le Seene Pe Woh Do Chaar Hath.
-Matami Sheh Ka Gham-e-Dunya Se Gar Do Chaar Hai.
-Ibn-e-Zahra Jitnay Chahe De De Rahib Ko Pisar.
-Jo Muqadar Mein Na Ho Deney Pe Woh Mukhtar Hai.
-Bolay Sheh Zanu Pe Apne Rakh Ke Hur Ka Sar Asad.
-Ab Sakoon Ki Neend So Ja, Kab Se Tu Bedar Hai.
+۳
+شہ کے غم میں مار لے سینے پہ وہ دو چار ہاتھ
+ماتمی شہ کا غمِ دنیا سے گر دو چار ہے
+ابنِ زہرا جتنے چاہے دے دے راہب کو پسر
+جو مقدر میں نہ ہو دینے پہ وہ مختار ہے
+بولے شہ زانو پہ اپنے رکھ کے حر کا سر اسد
+اب سکون کی نیند سو جا، کب سے تو بیدار ہے

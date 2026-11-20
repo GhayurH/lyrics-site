@@ -7,6 +7,25 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Farmaate the Abbas-e-Alamdaar na rona
+  Ae meri Sakina meri ghamkhwaar na rona
+
+  1
+  Are Bibi ke liye laata hoṅ darya se main paani
+  Saqaai ko jaata hai alamdaar na rona
+  Are tum dyorhi pe baitho abhi ham aaye Sakina
+  Samjha ke ye jaata hoṅ khabardaar na rona
+  Are bachchoṅ ko liye kheloṅ yahiṅ ae meri pyaari
+  Behlaaye unheṅ rakhna dil aazaar na rona
+  Aur Bibi zara dekho to darya pe haiṅ pehre
+  Chal jaaye jo mujh pe kabhi talwaar na rona
+  Are tum dekhti rehna mere is sabz alam ko
+  Chhup jaaye ye nazroṅ se to dil daar na rona
+  Are bas itna samajh lena ke maare gaye Ammu
+  Chup rehna khudaara meri ghamkhwaar na rona
+  Are mayyat par meri tum naa chali aana Sakina
+  Ho jaaye ga marna mera dushwaar na rona
 ---
 
 فرماتے تھے عباسِؑ علمدار نہ رونا

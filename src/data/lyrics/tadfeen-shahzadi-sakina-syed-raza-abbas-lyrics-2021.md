@@ -9,142 +9,87 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Tadfeen Shahzadi Sakina Syed Raza Abbas Lyrics 2021"
-romanLyrics: 'Tadfeen Shahzadi Sakina Syed Raza Abbas Zaidi
-
+romanLyrics: |-
+  Bayaan karta huṅ zindaaṅ mein kya qayaamat thi
+  Ghareeb baba se jis dam ghareeb beti mili
 
   1
-
-  Biyan Karta Hoon Zindaan Mein Kya Qayamat Thi.
-
-  Ghareeb Baba Se Jis Dam Ghareeb Beti Mili.
-
-  Woh Apne Baba Ke Sar Se Lipat Ke Roney Lagi.
-
-  Tarap Ke Li Jo Sakina Ne Aakhri Hichki.
-
-  Kaleja Phatta Hai Kaisay Sunaon Woh Manzar.
-
-  Rakhay They Beti Ne Rukhsar Baap Ke Munh Par.
-
+  Woh apne baba ke sar se lipat ke rone lagi
+  Tarap ke li jo Sakina ne aakhri hichki
+  Kaleja phatta hai kaise sunaauṅ woh manzar
+  Rakhe the beti ne rukhsaar baap ke munh par
 
   2
-
-  Andheri Qaid Mein Phir Kya Howa Suno Aagay.
-
-  Behan Ko Dekha Jo Baba Ke Sar Se Liptay Hoye.
-
-  Tarap Ke Bali Sakina Ke Pas Aa Pohanchay.
-
-  Jo Nabz Dekhi Tu Sajjad Ne Kaha Ro Ke.
-
-  Utha Rahi Thi Jo Gham Ab Woh Thak Gayi Gham Se.
-
-  Phophi Hamari Sakina Bichar Gayi Hum Se.
-
+  Andheri qaid mein phir kya hua suno aage
+  Behan ko dekha jo baba ke sar se lipte hue
+  Tarap ke baali Sakina ke paas aa pahunche
+  Jo nabz dekhi to Sajjad ne kaha ro ke
 
   3
-
-  Larz Raha Tha Woh Zindan Aah-o-Giriya Se.
-
-  Yeh Bolay Abid-e-Muztar Ghareeb-e-Zahra Se.
-
-  Churaon Kaisay Main Sar Aap Ka Sakina Se.
-
-  Mili Hai Kitne Dino Baad Apne Baba Se.
-
-  Bohat Ghareeb Hoon Yeh Gham Utha Na Paon Ga.
-
-  Behan Ki Gaud Se Main Sar Chura Na Paon Ga.
-
+  Utha rahi thi jo gham ab woh thak gayi gham se
+  Phuphi hamaari Sakina bichhar gayi hum se
+  Larz raha tha woh zindaan aah o girya se
+  Yeh bole Aabid-e-Muztar ghareeb-e-Zahra se
 
   4
-
-  Sar-e-Hussain Choraya Jo Ya Ali Keh Kar.
-
-  Kaha Sakina Se Tum Par Salam Aye Khwahar.
-
-  Na Jane Kitne Hain Ahsan Aap Ke Mujh Par.
-
-  Yeh Bhai Kaisay Utaray Ga Qabar Ke Andar.
-
-  Yeh Dekho Jakra Hai Zanjeer Mein Hamara Badan.
-
-  Tumhara Lasha Na Bhai Se Uth Sakay Ga Behan.
-
+  Chhuraauṅ kaise main sar aap ka Sakina se
+  Mili hai kitne dinoṅ baad apne baba se
+  Bahut ghareeb huṅ yeh gham utha na paauṅga
+  Behan ki god se main sar chhura na paauṅga
 
   5
-
-  Sitamgaron Ne Jo Karb-o-Bala Mein Bandhi Thi.
-
-  Galay Mein Ho Gayi Paiwast Haye Woh Rasi.
-
-  Chini Thi Baliyaan Hain Kan Aaj Bhi Zakhmi.
-
-  Sitam Ki Had Yeh Hoi Aap Mar Gayin Pyasi.
-
-  Ayyaan Hain Chehray Pe Ab Tak Nishaan Tamachon Ke.
-
-  Chupaon Kaisay Bhala Main Yeh Neel Galon Ke.
-
+  Sar-e-Husain chhuraaya jo Ya Ali keh kar
+  Kaha Sakina se tum par salaam ae khwaahar
+  Na jaane kitne haiṅ ehsaan aap ke mujh par
+  Yeh bhai kaise utaare ga qabr ke andar
 
   6
-
-  Woh Rah-e-Sham Woh Ghurbat Bhulaon Main Kaisay.
-
-  Ik Aisa Moor Tha Ghazi Ka Sar Tha Naizay Pe.
-
-  Jab Unkey Samne La Kar Pakar Ke Baloon Se.
-
-  Tamachay Marey They Zalim Ne Tum Ko Hans Hans Ke.
-
-  Laeen Kehta Tha Abbas Ab Na Aaye Ga.
-
-  Nahi Hai Koi Jo Durron Se Ab Bachaye Ga.
-
+  Yeh dekho jakra hai zanjeer mein hamaara badan
+  Tumhaara laasha na bhai se uth sake ga behan
+  Sitamgaroṅ ne jo karb o bala mein baandhi thi
+  Gale mein ho gayi paiwast haaye woh rassi
 
   7
-
-  Pukarein Lash-e-Sakina Pe Zainab-e-Muztar.
-
-  Yeh Karbala Mein Qayamat Guzar Gayi Tum Par.
-
-  Phophi Ke Sath Khari Dekhti Rahi Manzar.
-
-  Chalaya Bhai Ke Sokhay Galay Pe Jab Khanjar.
-
-  Kaha Yeh Bhai Ne Do Mera Sath Aye Zainab.
-
-  Rakho Sakina Ki Aankhon Pe Hath Aye Zainab.
-
+  Chhini thi baaliyaaṅ haiṅ kaan aaj bhi zakhmi
+  Sitam ki had yeh hui aap mar gayiṅ pyaasi
+  Ayaaṅ haiṅ chehre pe ab tak nishaaṅ tamaanchoṅ ke
+  Chhupaauṅ kaise bhala main yeh neel gaaloṅ ke
 
   8
-
-  Phophi Bhatijay Se Kehti Thin Mat Karo Faryad.
-
-  Tumhara Sath Main Deti Hoon Syed-e-Sajjad.
-
-  Pari Hai Hum Pe Qayamat Se Bhi Bari Uftad.
-
-  Tumhari Tarha Mere Hath Bhi Nahi Aazad.
-
-  Hai Ab Yeh Sham Ka Zindan Hi Watan Iss Ka.
-
-  Yehi Jala Howa Kurta Hai Ab Kafan Iss Ka.
-
+  Woh raah-e-Shaam woh ghurbat bhulaauṅ main kaise
+  Ik aisa mor tha ghaazi ka sar tha naize pe
+  Jab un ke saamne la kar pakar ke baaloṅ se
+  Tamaanche maare the zaalim ne tum ko hans hans ke
 
   9
+  Laeen kehta tha Abbas ab na aayega
+  Nahiṅ hai koi jo durroṅ se ab bachaayega
+  Pukaareṅ laash-e-Sakina pe Zainab-e-Muztar
+  Yeh Karbala mein qayaamat guzar gayi tum par
 
-  Kaha Yeh Sani-e-Zahra Ne Bibiyon Aao.
+  10
+  Phuphi ke saath khari dekhti rahi manzar
+  Chala tha bhai ke sukhe gale pe jab khanjar
+  Kaha yeh bhai ne do mera saath ae Zainab
+  Rakho Sakina ki aankhoṅ pe haath ae Zainab
 
-  Janaza Bali Sakina Ka Sath Uthwao.
+  11
+  Phuphi bhatije se kehti thiṅ mat karo faryaad
+  Tumhaara saath main deti huṅ Syed-e-Sajjad
+  Pari hai hum pe qayaamat se bhi bari uftaad
+  Tumhaari tarah mere haath bhi nahiṅ aazaad
 
-  Jo Apne Baba Ko Roti Thi Oss Ko Dafnao.
+  12
+  Hai ab yeh Shaam ka zindaan hi watan is ka
+  Yehi jala hua kurta hai ab kafan is ka
+  Kaha yeh Saani-e-Zahra ne Bibiyoṅ aao
+  Janaaza baali Sakina ka saath uthwaao
 
-  Nahi Hai Pani Tu Turbat Pe Ashk Barsao.
-
-  Woh Raat Aayi Thi Zeeshan Our Raza Kaisi.
-
-  Lehad Mein So Gayi Beti Ghareeb-e-Zahra Ki.'
+  13
+  Jo apne baba ko roti thi us ko dafnaao
+  Nahiṅ hai paani to turbat pe ashk barsaao
+  Woh raat aayi thi Zeeshan aur Raza kaisi
+  Lahad mein so gayi beti ghareeb-e-Zahra ki
 ---
 
 بیان کرتا ہوں زنداں میں کیا قیامت تھی

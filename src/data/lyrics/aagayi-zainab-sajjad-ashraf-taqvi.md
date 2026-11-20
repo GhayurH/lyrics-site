@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aagayi Zainab Sajjad Ashraf Taqvi
-  Ali Abid ko shano par uthane aa gayi Zainab
-  Khudai jaltay khaimon se bachaney aa gayi Zainab
-  Charag-e-turbat-e-Shabeer ko roshan kiye dil mein
-  Charag-e-qasar-e-har baiyat bhujaney aa gayi Zainab
-  Jahan par teer khanjar marne aaye they pyasay ko
-  Wahin Shabeer ka chehlum mananay aa gayi Zainab
-  Hila kar shaney beti ki yeh madar bain karti thi
-  Utho tazeem ko tere sirhaney aa gayi Zainab
-  Barho mehmaan ke istaqbal ki khatir barho Shereen
-  Tumhare ghar pe ik wadah nibhanay aa gayi Zainab
-  Laeen ke hathoon mein hain baal Masoma Sakina ke
-  Nahi Abbas zindah tu churanay aa gayi Zainab
-  Jahan par shoor tha har so musalsal bagi bagi ka
-  Wahan bhai ki mazlomi sunanay aa gayi Zainab
-  Azza khana kisay kehte hain matam kis ko kehte hain
-  Yeh Akbar Sham walon ko sikhanay aa gayi Zainab
+  Aa gayi Zainab Sajjad Ashraf Taqvi
+  Ali Aabid ko shaanoṅ par uthaane aa gayi Zainab
+  Khudaai jalte khaimoṅ se bachaane aa gayi Zainab
+  Charaagh-e-turbat-e-Shabbir ko roshan kiye dil mein
+  Charaagh-e-qasr-e-har baiat bujhaane aa gayi Zainab
+  Jahaaṅ par tir khanjar maarne aaye the pyaase ko
+  Wahiṅ Shabbir ka chehlum manaane aa gayi Zainab
+  Hila kar shaane beti ki yeh maadar bain karti thi
+  Utho tazim ko tere sirhaane aa gayi Zainab
+  Barho mehmaan ke istiqbaal ki khaatir barho Shiriṅ
+  Tumhaare ghar pe ik waada nibhaane aa gayi Zainab
+  Lain ke haathoṅ mein haiṅ baal Maasuma Sakina ke
+  Nahiṅ Abbaas zinda to chhuraane aa gayi Zainab
+  Jahaaṅ par shor tha har su musalsal baaghi baaghi ka
+  Wahaaṅ bhaai ki mazlumi sunaane aa gayi Zainab
+  Aza khaana kise kehte haiṅ maatam kis ko kehte haiṅ
+  Yeh Akbar Shaam waaloṅ ko sikhaane aa gayi Zainab
 ---
 
 ۱

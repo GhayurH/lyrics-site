@@ -13,7 +13,7 @@ aliases: ["Ay Jaun Bhai Ho Tum", "اے جون بھای ہو تم میرے"]
 published: true
 romanLyrics: |-
   Ae Jaun bhai ho tum mere
-  Abbas ki qasam tumheṅ lag jaao na gale
+  Abbas ki qasam tumheiṅ lag jaao na gale
 
   1
   Baba bhi aaye haiṅ mere nana bhi aaye haiṅ
@@ -27,12 +27,12 @@ romanLyrics: |-
 
   3
   Ahl-e-haram ko tum se hai dhaaras mere diler
-  Pehra do phir qayaam ka utho ae mere sher
+  Pehra do phir qiyaam ka utho ae mere sher
   Kiuṅ jaa rahe ho tum mujhe ghurbat meiṅ chhor ke
 
   4
   Karna dua Husain pe aisa na waqt aaye
-  Koi sada de humko aur hum se chala na jaye
+  Koi sada de hum ko aur hum se chala na jaaye
   Laasha tumhaara dasht se hum khud uthaaeṅge
 
   5
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Tu ne gala kataaya hai pehle Husain se
-  Dilwaaeṅgi jaza wo Shah-e-mashraqain se
+  Dilwaaeṅgi jaza wo Shah-e-Mashriqain se
   Chaadar utha ke deti hai ammaṅ dua tujhe
 
   8

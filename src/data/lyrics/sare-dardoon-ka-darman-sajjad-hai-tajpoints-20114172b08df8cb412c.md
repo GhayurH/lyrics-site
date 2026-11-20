@@ -1,53 +1,96 @@
 ---
-title: "Sare Dardoon Ka Darman Sajjad Hai"
+title: "سارے دردوں کا درماں سجاد ہے"
+alternateTitle: "Sare Dardoon Ka Darman Sajjad Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sare dardoon ka darman Sajjad hai
+  Hum pe Khaliq ka ahsan Sajjad hai
+  Abidon ki hai zeenat issi naam se
+  Our sajdoon ki pehchan Sajjad hai
+
+  2
+  Nooh-e-Aal-e-Muhammad ho Maula tumhi
+  Bad-e-Shabeer aala-o-ola tumhi
+  Teri tauseef kaisay karon main biyaan
+  Sabar ka ho jo chotha hawala tumhi
+
+  3
+  Mujh ko sabar-o-riza ke Khuda ki qasam
+  Sabar ka aik Quran Sajjad hai
+  Noor ke ghar mein ik our noor aa gaya
+  Iss ke aane se sab ko sawar aa gaya
+
+  4
+  Rukh pe Abid ke tha aisa jah-o-hasham
+  Phir laga noor dar Koh-e-Toor aa gaya
+  Hai yeh fakhar-e-bani Fatima our phir
+  Azam ka aik sultan Sajjad hai
+
+  5
+  Waris-e-alam-e-Shabeer-o-Shabar hai yeh
+  Our Abbas jaisa Ghazanfar hai yeh
+  Baad inn ke jahan mein qasam ba Khuda
+  Sab se behtar hai yeh sab se bartar hai yeh
+
+  6
+  Azmaton ka sharf our nori sadaf
+  Izzaton ka nigehban Sajjad hai
+  Lafz lafzoon ke andar main bunta gaya
+  Rehmaton ke khazeeno ko chunta gaya
+
+  7
+  Aalam al-Ghaib Hasnain Maula mera
+  Baat dil mein thi mere woh sunta gaya
+  Mangney se bhi pehle kiya hai atta
+  Meharbaan misal-e-Rehman Sajjad hai
 ---
 
-1
-Sare Dardoon Ka Darman Sajjad Hai.
-Hum Pe Khaliq Ka Ahsan Sajjad Hai.
-Abidon Ki Hai Zeenat Issi Naam Se.
-Our Sajdoon Ki Pehchan Sajjad Hai.
+۱
+سارے دردوں کا درماں سجاد ہے
+ہم پہ خالق کا احسان سجاد ہے
+عابدوں کی ہے زینت اسی نام سے
+اور سجدوں کی پہچان سجاد ہے
 
-2
-Nooh-e-Aal-e-Muhammad Ho Maula Tumhi.
-Bad-e-Shabeer Aala-o-Ola Tumhi.
-Teri Tauseef Kaisay Karon Main Biyaan.
-Sabar Ka Ho Jo Chotha Hawala Tumhi.
+۲
+نوحِ آلِ محمد ہو مولا تمھی
+بعدِ شبیر اعلیٰ و اولیٰ تمھی
+تیری توصیف کیسے کروں میں بیاں
+صبر کا ہو جو چوتھا حوالہ تمھی
 
-3
-Mujh Ko Sabar-o-Riza Ke Khuda Ki Qasam.
-Sabar Ka Aik Quran Sajjad Hai.
-Noor Ke Ghar Mein Ik Our Noor Aa Gaya.
-Iss Ke Aane Se Sab Ko Sawar Aa Gaya.
+۳
+مجھ کو صبر و رضا کے خدا کی قسم
+صبر کا ایک قرآن سجاد ہے
+نور کے گھر میں اک اور نور آ گیا
+اس کے آنے سے سب کو سوار آ گیا
 
-4
-Rukh Pe Abid Ke Tha Aisa Jah-o-Hasham.
-Phir Laga Noor Dar Koh-e-Toor Aa Gaya.
-Hai Yeh Fakhar-e-Bani Fatima Our Phir.
-Azam Ka Aik Sultan Sajjad Hai.
+۴
+رخ پہ عابد کے تھا ایسا جاہ و حشم
+پھر لگا نور در کوہِ طور آ گیا
+ہے یہ فخرِ بنی فاطمہ اور پھر
+عزم کا ایک سلطان سجاد ہے
 
-5
-Waris-e-Alam-e-Shabeer-o-Shabar Hai Yeh.
-Our Abbas Jaisa Ghazanfar Hai Yeh.
-Baad Inn Ke Jahan Mein Qasam Ba Khuda.
-Sab Se Behtar Hai Yeh Sab Se Bartar Hai Yeh.
+۵
+وارثِ عَلَمِ شبیر و شبر ہے یہ
+اور عباس جیسا غضنفر ہے یہ
+بعد ان کے جہاں میں قسم بخدا
+سب سے بہتر ہے یہ سب سے برتر ہے یہ
 
-6
-Azmaton Ka Sharf Our Nori Sadaf.
-Izzaton Ka Nigehban Sajjad Hai.
-Lafz Lafzoon Ke Andar Main Bunta Gaya.
-Rehmaton Ke Khazeeno Ko Chunta Gaya.
+۶
+عظمتوں کا شرف اور نوری صدف
+عزتوں کا نگہبان سجاد ہے
+لفظ لفظوں کے اندر میں بنتا گیا
+رحمتوں کے خزینوں کو چنتا گیا
 
-7
-Aalam Al-Ghaib Hasnain Maula Mera.
-Baat Dil Mein Thi Mere Woh Sunta Gaya.
-Mangney Se Bhi Pehle Kiya Hai Atta.
-Meharbaan Misal-e-Rehman Sajjad Hai.
+۷
+عالم الغیب حسنین مولا میرا
+بات دل میں تھی میرے وہ سنتا گیا
+مانگنے سے بھی پہلے کیا ہے عطا
+مہرباں مثالِ رحمان سجاد ہے

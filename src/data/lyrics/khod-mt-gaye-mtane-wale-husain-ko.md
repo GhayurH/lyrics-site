@@ -7,6 +7,29 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khud mit gaye mitaane wale Husain ko
+  Sab jhuk gaye jhukaane wale Husain ko
+
+  1
+  Woh log ab kahaaṅ haiṅ zinda ya mar chuke
+  Hukm-e-la'in hukm-e-la'in sunaane wale Husain ko
+
+  2
+  Ab tak taras rahe lahad mein sukun ko
+  Bin jurm bin jurm ke sataane wale Husain ko
+
+  3
+  Aaye the jo bujhaane Zehra ke nur ko
+  Kal bujh gaye kal bujh gaye bujhaane wale Husain ko
+
+  4
+  Kat ke bhi sar buland tha sar Shah-e-Din ka
+  Haaye gir gaye haaye gir gaye giraane wale Husain ko
+
+  5
+  Aisa kiya hai sajda Akhtar Husain ne
+  Bhuleṅ ge na bhuleṅ ge na zamaane wale Husain ko
 ---
 
 خود مٹ گئے مٹانے والے حسین ؑ کو

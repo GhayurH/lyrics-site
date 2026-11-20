@@ -1,35 +1,60 @@
 ---
-title: "Masjid Bhi Ro Rahi Hai Kaba Bhi Ro Raha Hai"
+title: "مسجد بھی رو رہی ہے کعبہ بھی رو رہا ہے"
+alternateTitle: "Masjid Bhi Ro Rahi Hai Kaba Bhi Ro Raha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Masjid bhi ro rahi hai Kaba bhi ro raha hai
+  Kofa mein qatal Mula Mushkil Kusa howa hai
+  Roze mein bain kar ke rote hain Nabi Sarwar
+  Tubat mein karti matam khud Fatima Zahra hai
+
+  2
+  Rote hain peet kar sar Shabir our Shabar
+  Shafqat hath sar se Hasnain ke utha hai
+  Masjid mein Murtaza par taig-e-sitam chali hai
+  Tar khon mein musalla itna laho baha hai
+
+  3
+  Mula pe Ibn-e-Muljim ne taig jab chalai
+  Fuztu berabe Kaba Haider ne di sada hai
+  Abbas ko bula ke Mula yeh ro ke bole
+  Zainab ki bad mere Abbas tu rida hai
+
+  4
+  Na jao choor kar youn aye Baba Ali hum ko
+  Zainab ko diya ro kar Fizza ne hosla hai
+  Afraz jab janaza Hasnain ne uthaya
+  Ghar mein Ali Wali ke kohram mach gaya hai
 ---
 
-1
-Masjid Bhi Ro Rahi Hai Kaba Bhi Ro Raha Hai.
-Kofa Mein Qatal Mula Mushkil Kusa Howa Hai.
-Roze Mein Bain Kar Ke Rote Hain Nabi Sarwar.
-Tubat Mein Karti Matam Khud Fatima Zahra Hai.
+۱
+مسجد بھی رو رہی ہے کعبہ بھی رو رہا ہے
+کوفہ میں قتل مولا مشکل کشا ہوا ہے
+روضے میں بین کر کے روتے ہیں نبی سرور
+تربت میں کرتی ماتم خود فاطمہ زہرا ہے
 
-2
-Rote Hain Peet Kar Sar Shabir Our Shabar.
-Shafqat Hath Sar Se Hasnain Ke Utha Hai.
-Masjid Mein Murtaza Par Taig-e-Sitam Chali Hai.
-Tar Khon Mein Musalla Itna Laho Baha Hai.
+۲
+روتے ہیں پیٹ کر سر شبیر اور شبر
+شفقت ہاتھ سر سے حسنین کے اٹھا ہے
+مسجد میں مرتضیٰ پر تیغِ ستم چلی ہے
+تر خون میں مصلیٰ اتنا لہو بہا ہے
 
-3
-Mula Pe Ibn-e-Muljim Ne Taig Jab Chalai.
-Fuztu Berabe Kaba Haider Ne Di Sada Hai.
-Abbas Ko Bula Ke Mula Yeh Ro Ke Bole.
-Zainab Ki Bad Mere Abbas Tu Rida Hai.
+۳
+مولا پہ ابنِ ملجم نے تیغ جب چلائی
+فزت بربِ کعبہ حیدر نے دی صدا ہے
+عباس کو بلا کے مولا یہ رو کے بولے
+زینب کی، بعد میرے، عباس تو ردا ہے
 
-4
-Na Jao Choor Kar Youn Aye Baba Ali Hum Ko.
-Zainab Ko Diya Ro Kar Fizza Ne Hosla Hai.
- Afraz Jab Janaza Hasnain Ne Uthaya.
-Ghar Mein Ali Wali Ke Kohram Mach Gaya Hai.
+۴
+نہ جاؤ چھوڑ کر یوں اے بابا علی ہم کو
+زینب کو دیا رو کر فضہ نے حوصلہ ہے
+افراز جب جنازہ حسنین نے اٹھایا
+گھر میں علی ولی کے کہرام مچ گیا ہے

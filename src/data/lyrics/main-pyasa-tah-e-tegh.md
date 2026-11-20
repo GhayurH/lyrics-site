@@ -15,9 +15,9 @@ romanLyrics: |-
   Sarwar ka gala khushk tha aur kund tha khanjar
   Reh reh ke phiraata tha laiṅ sukhe gale par
   Tiroṅ pe muallaq raha Shabbir ka laasha
-  Maaṅ kehti rahi god meiṅ aaja mere beta
+  Maaṅ kehti rahi god mein aa ja mere beta
 
-  Maiṅ pyasa tah-e-tegh tarapta raha ammaṅ
+  Main pyaasa tah-e-tegh tarapta raha ammaṅ
   Aur saamne behta hua darya raha ammaṅ
 
   1
@@ -29,12 +29,12 @@ romanLyrics: |-
   2
   Gehwaara jhulaate the kabhi jis ka farishte
   Is tarah use qatl kiya Shimr laiṅ ne
-  Pyasa dam-e-aakhir maiṅ tarapta raha ammaṅ
+  Pyaasa dam-e-aakhir mein tarapta raha ammaṅ
   Aur saamne behta hua darya raha ammaṅ
 
   3
   Wo hota jo zinda to mujhe kuch nahiṅ hota
-  Aajaata madad ko mera Abbas kahaaṅ tha
+  Aa jaata madad ko mera Abbas kahaaṅ tha
   Laasha mere bhaiya ka larazta raha ammaṅ
   Aur saamne behta hua darya raha ammaṅ
 
@@ -47,11 +47,11 @@ romanLyrics: |-
   5
   The zakhm bahut hi tan-e-mazlum pe ammaṅ
   Khanjar tha rawaaṅ Shimr ka halqum pe ammaṅ
-  Pehlu meiṅ jo neza tha wo chubhta raha ammaṅ
+  Pehlu mein jo neza tha wo chubhta raha ammaṅ
   Aur saamne behta hua darya raha ammaṅ
 
   6
-  Tanha tha maiṅ har simt se ghere the sitamgar
+  Tanha tha main har simt se ghere the sitamgar
   Abbas na zinda the na zinda Ali Akbar
   Sadma mujhe in sab ka rulaata raha ammaṅ
   Aur saamne behta hua darya raha ammaṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   7
   Aisa tah-e-khanjar tha gulu-e-Shah-e-waala
   Haaṅ zer-e-tan-e-Shah wo tapta hua sehra
-  Har saaṅs pe taklif uthaata raha ammaṅ
+  Har saans pe taklif uthaata raha ammaṅ
   Aur saamne behta hua darya raha ammaṅ
 
   8

@@ -1,38 +1,66 @@
 ---
-title: "Haye Akbar Ka Dam Saleem Mastan"
+title: "ہائے اکبر کا دم سلیم مستان"
+alternateTitle: "Haye Akbar Ka Dam Saleem Mastan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Akbar ka dam ukharta hai
+  Samne baap ke woh marta hai
+
+  1
+  Woh jo neza laga hai betay ko
+  Baap ke dil mein bhi utarta hai
+  Baap ke samne jawan pisar
+  Khak par ayeriyaan ragarta hai
+
+  2
+  Khak mein kho gaya hai kuch shayad
+  Ghutniyon par Hussain chalta hai
+  Chor kar baap ko na ja Akbar
+  Tu tu mera jawan beta hai
+
+  3
+  Tera baba bara bahadur hai
+  Keh ke zalim ne neza mara hai
+  Bolay Shabbir khat parho Akbar
+  Dekho Sughra ne haal pocha hai
+
+  4
+  Chain kaisay miley Sakina ko
+  Haal bhai ka oss ne dekha hai
+  Sheh pe aik our hashar hai Haider
+  Lasha khaimay mein le ke jana hai
 ---
 
-Haye Akbar Ka Dam Ukharta Hai.
-Samne Baap Ke Woh Marta Hai.
+ہائے اکبر کا دم اکھڑتا ہے
+سامنے باپ کے وہ مرتا ہے
 
-1
-Woh Jo Neza Laga Hai Betay Ko.
-Baap Ke Dil Mein Bhi Utarta Hai.
-Baap Ke Samne Jawan Pisar.
-Khak Par Ayeriyaan Ragarta Hai.
+۱
+وہ جو نیزہ لگا ہے بیٹے کو
+باپ کے دل میں بھی اترتا ہے
+باپ کے سامنے جوان پسر
+خاک پر ایڑیاں رگڑتا ہے
 
-2
-Khak Mein Kho Gaya Hai Kuch Shayad.
-Ghutniyon Par Hussain Chalta Hai.
-Chor Kar Baap Ko Na Ja Akbar.
-Tu Tu Mera Jawan Beta Hai.
+۲
+خاک میں کھو گیا ہے کچھ شاید
+گھٹنیوں پر حسین چلتا ہے
+چھوڑ کر باپ کو نہ جا اکبر
+تو تو میرا جوان بیٹا ہے
 
-3
-Tera Baba Bara Bahadur Hai.
-Keh Ke Zalim Ne Neza Mara Hai.
-Bolay Shabbir Khat Parho Akbar.
-Dekho Sughra Ne Haal Pocha Hai.
+۳
+تیرا بابا بڑا بہادر ہے
+کہہ کے ظالم نے نیزہ مارا ہے
+بولے شبیر خط پڑھو اکبر
+دیکھو صغریٰ نے حال پوچھا ہے
 
-4
-Chain Kaisay Miley Sakina Ko.
-Haal Bhai Ka Oss Ne Dekha Hai.
-Sheh Pe Aik Our Hashar Hai Haider.
-Lasha Khaimay Mein Le Ke Jana Hai.
+۴
+چین کیسے ملے سکینہ کو
+حال بھائی کا اُس نے دیکھا ہے
+شہ پہ ایک اور حشر ہے حیدر
+لاشہ خیمے میں لے کے جانا ہے

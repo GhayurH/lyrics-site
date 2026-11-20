@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Karbala ka faateh-e-aazam
-  Ba khuda hai waaris-e-Aadam
+  Bakhuda hai waaris-e-Aadam
   Jaa bajaa phaile tere parcham
   Taa abad hoga tera maatam
 

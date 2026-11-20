@@ -1,41 +1,72 @@
 ---
-title: "Tere Lal Da Janaza Aya Aye Mur Ke Nana Babu Khan Lyrics Punjabi 2020"
+title: "تیرے لعل دا جنازہ آیا اے مڑ کے نانا"
+alternateTitle: "Tere Lal Da Janaza Aya Aye Mur Ke Nana"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tere lal da janaza aya aye mur ke nana – Babu Khan
+  Maiyyat te teer marey be dard musalmana
+  Matam Hasan da kita nalay wain v tu paye
+  De raj ke pursa Zainab, Shabeer ro sunaye
+
+  2
+  Tainu ron na deway ga meri lash te zamana
+  Phophiyaan de ghar che Qasim paigham le ke aaya
+  Mere babay nu kisay ne haye zehar aye pilaya
+  Kuj dair nu dunya taun mere babay ne tur jana
+
+  3
+  Main te safaid veran tainu kafan si pawaya
+  Nanay de kalma gowaan aye zulm ki kamaya
+  Tere waang kisay veran nayi lal kafan pana
+  Lashay choon teer kadday dowein bhira te bhain aye
+
+  4
+  Taboot seene landay haye Zainab-o-Hussain aye
+  Ghamgeen ho gaya aye Ahmad da aye gharana
+  Halat main apne dil di kiwein sunawaan Qasim
+  Babay nayi fair milna aa ja bulawaan Qasim
+
+  5
+  Tainu aakhri main wari aj seene naal lana
+  Sajjad kalma gohaan haye teer jinna marey
+  Aye khon v Nabi da aye janday ne sare
+  Parhday ne namazaan v denday ne oh azana
 ---
 
-1
-Tere Lal Da Janaza Aya Aye Mur Ke Nana – Babu Khan.
-Maiyyat Te Teer Marey Be Dard Musalmana.
-Matam Hasan Da Kita Nalay Wain V Tu Paye.
-De Raj Ke Pursa Zainab, Shabeer Ro Sunaye.
+۱
+تیرے لعل دا جنازہ آیا اے مڑ کے نانا – بابو خان
+میت تے تیر مارے بے درد مسلمانا
+ماتم حسن دا کیتا نالے وین وی تُو پائے
+دے رج کے پرسہ زینب، شبیر رو سنائے
 
-2
-Tainu Ron Na Deway Ga Meri Lash Te Zamana.
-Phophiyaan De Ghar Che Qasim Paigham Le Ke Aaya.
-Mere Babay Nu Kisay Ne Haye Zehar Aye Pilaya.
-Kuj Dair Nu Dunya Taun Mere Babay Ne Tur Jana.
+۲
+تینوں رون نہ دیوے گا میری لاش تے زمانہ
+پھوپھیاں دے گھر چے قاسم پیغام لے کے آیا
+میرے بابے نوں کسے نے ہائے زہر اے پلایا
+کجھ دیر نوں دنیا توں میرے بابے نے ٹر جانا
 
-3
-Main Te Safaid Veran Tainu Kafan Si Pawaya.
-Nanay De Kalma Gowaan Aye Zulm Ki Kamaya.
-Tere Waang Kisay Veran Nayi Lal Kafan Pana.
-Lashay Choon Teer Kadday Dowein Bhira Te Bhain Aye.
+۳
+میں تے سفید ویراں تینوں کفن سی پوایا
+نانے دے کلمہ گوواں اے ظلم کی کمایا
+تیرے وانگ کسے ویراں نئیں لعل کفن پانا
+لاشے چوں تیر کڈھے دوویں بھرا تے بھین اے
 
-4
-Taboot Seene Landay Haye Zainab-o-Hussain Aye.
-Ghamgeen Ho Gaya Aye Ahmad Da Aye Gharana.
-Halat Main Apne Dil Di Kiwein Sunawaan Qasim.
-Babay Nayi Fair Milna Aa Ja Bulawaan Qasim.
+۴
+تابوت سینے لاندے ہائے زینب و حسین اے
+غمگین ہو گیا اے احمد دا اے گھرانا
+حالت میں اپنے دل دی کیویں سناواں قاسم
+بابے نئیں فیر ملنا آ جا بلاواں قاسم
 
-5
-Tainu Aakhri Main Wari Aj Seene Naal Lana.
- Sajjad Kalma Gohaan Haye Teer Jinna Marey.
-Aye Khon V Nabi Da Aye Janday Ne Sare.
-Parhday Ne Namazaan V Denday Ne Oh Azana.
+۵
+تینوں آخری میں واری اج سینے نال لانا
+سجاد کلمہ گوواں ہائے تیر جنہاں مارے
+اے خون وی نبی دا اے جاندے نے سارے
+پڑھدے نے نمازاں وی دیندے نے اوہ اذاں

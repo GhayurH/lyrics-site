@@ -14,43 +14,43 @@ published: true
 romanLyrics: |-
   Zindaaṅ se aa rahi hai yehi aaj bhi sada
   Sadiyaaṅ guzar gayi mujhe paani nahiṅ mila
-  Maiṅ bahot pyaasi huṅ
+  Main bahot pyaasi huṅ
 
   1
   Wo saatviṅ ki shab thi ke baba Husain ne
   Paani diya tha mujh ko Shah-e-Mashriqain ne
   Sairaab ho ke phir kabhi paani nahiṅ piya
-  Maiṅ bahot pyaasi huṅ
+  Main bahot pyaasi huṅ
 
   2
-  Paani piyuṅ maiṅ kaise chacha jaan mar gaye
+  Paani piyuṅ main kaise chacha jaan mar gaye
   Ek roz meiṅ Sakina ke armaaṅ bikhar gaye
   Karna na mujh se koi bhi paani ka tazkira
-  Maiṅ bahot pyaasi huṅ
+  Main bahot pyaasi huṅ
 
   3
   Wo pyaas thi ke meri chatakti thi haddiyaaṅ
-  Mera ye haal dekh ke roti thi Bibiyaaṅ
+  Mera ye haal dekh ke roti thi bibiyaaṅ
   Sajjad khun rote the sun kar ye marsiya
-  Maiṅ bahot pyaasi huṅ
+  Main bahot pyaasi huṅ
 
   4
   Ek roz qaid khaane meiṅ Sajjad ne kaha
   Kiuṅ teri khaal hone lagi jism se juda
-  Maiṅ ne kaha tarap ke mere bhaai ba khuda
-  Maiṅ bahot pyaasi huṅ
+  Main ne kaha tarap ke mere bhaai ba khuda
+  Main bahot pyaasi huṅ
 
   5
-  Mahsus ab bhi hota hai roti hai Bibiyaaṅ
+  Mahsus ab bhi hota hai roti hai bibiyaaṅ
   Sunte hai log ab bhi Sakina ki siskiyaaṅ
   Haaṅ ab bhi qaid khaane se aati hai ye sada
-  Maiṅ bahot pyaasi huṅ
+  Main bahot pyaasi huṅ
 
   6
   Pyaasi shahid ho gayi zindaaṅ meiṅ wo haziṅ
   Dukhiya ko marte waqt bhi paani mila nahiṅ
   Is waaste ye nauha Sharar Naqvi hai likha
-  Maiṅ bahot pyaasi huṅ
+  Main bahot pyaasi huṅ
 ---
 زنداں سے آ رہی ہے یہی آج بھی صدا
 صدیاں گزر گئی مجھے پانی نہیں ملا

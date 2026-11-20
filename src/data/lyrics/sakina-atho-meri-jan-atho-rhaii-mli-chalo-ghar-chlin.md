@@ -10,84 +10,72 @@ aliases:
   - "Sakina Utho Meri Jaan Utho"
 published: false
 romanLyrics: |-
-  Sakina utho, Meri jaan utho,
-  Rehayi mili, Chalo ghar chalain
+  Sakina utho, meri jaaṅ utho, rihaai mili, chalo ghar chaleṅ
 
   1
-  Ye karti thi maa, lahad par buka,
-  Meri ladli, Chalo ghar chalain
+  Ye karti thi maaṅ lahad par buka, meri laadli, chalo ghar chaleṅ
+  Yahaaṅ se chalo, chaleṅ Karbala, wahiṅ par tumheṅ mileṅ ge chacha
+  Sitam jo hue bataana unheṅ, dikhaana unheṅ ye kurta jala
+  Chacha jaan ko dikhaana zara, rida khuṅ bhari
 
   2
-  1. Yahan sey chalo, Chalain karbala,
-  Wahi par tumhey milen gey chacha,
-  Sitam jo huwey batana unhain,
-  Dikhana unhain yeh kurta jala,
-  Chacha jaan ko, dikhana zara,
-  Ridah khoon bhari, Chalo ghar chalain
+  Pidar se milo to dil joi ho, bataana unheṅ bahut roi ho
+  Qasam lo agar tumhaare bina, Sakina kabhi kahiṅ soi ho
+  Lahad jab mile tujhe baap ki to kehna yahi
 
   3
-  2. Pidar sey milo, to dil joyi ho,
-  Batana unhain, bohot royi ho,
-  Qasam lo agar, tumharey bina,
-  Sakina kabhi kaheen soyi ho,
-  Lahad jab milay, tujhe baap ki
-  To kehna yahi, Chalo ghar chalain
+  Lahad jab mile tujhe bhaai ki to kehna use meri laadli
+  Rihaai mili hameṅ qaid se, hameṅ ab nahiṅ aziyat koi
+  Mere bezubaaṅ utho ghar chaleṅ, shabih-e-Nabi
 
   4
-  3. Lahad jab mile tuje bhaiyi ki
-  Tu kehna usay meri ladli,
-  Rehayi mili hamay qaid sey,
-  Hamey ab nahi aziyaat koi,
-  Meray bezubaan utho ghar chalain,
-  Shabih e Nabi, Chalo ghar chalain
+  Mazaar-e-Nabi laraz jaae ga, behen jab teri kare gi buka
+  Kahaaṅ haiṅ chacha, kahaaṅ haiṅ pidar, kahaaṅ haiṅ bata baraadar mera
+  Sunaane use ye rudaad-e-gham, yahi bebasi
 
   5
-  4. Mazar e Nabi laraz jaye ga,
-  Behan jab teri karay gi buka
-  Kahan hain chacha kahan hain padar,
-  Kahan hay bata baradar mera
-  Sunanay isay ye rodad e gham,
-  Yehi bebasi chalo ghar chalain
+  Bataana unheṅ sabhi sakhtiyaaṅ, mili kis qadar tujhe jhirkiyaaṅ
+  Hamaari rida luti kis tarah, chhini kis tarah teri baaliyaaṅ
+  Bataana unheṅ bujhi kis tarah teri tishnagi
 
   6
-  5. Batana unhai sabhi sakhtiyan,
-  Mileen kis qadar tujey ghurkiya
-  Hamari ridha luti kis tarha,
-  Chini kis tarha teri baaliya,
-  Bata na unhai bujhi kis tarha
-  Teri tashnaghi, Chalo ghar chalain
+  Lab-e-Alqama tu karna fughaaṅ, teri mauj hai abhi tak rawaaṅ
+  Meri pyaas par hue jo fida, chacha ke mere haiṅ baazu kahaaṅ
+  Kahaaṅ mashk hai, kahaaṅ hai alam, kahaaṅ hai jari
 
   7
-  6. Labe alqama tu karna fughaan,
-  Teri mauj hay abhi tak rawaan,
-  Meri pyaas par huwe jo fida,
-  Chacha ke merey hain baazu kahan,
-  Kahan mashk hay kahan hay alam,
-  Kahan hay jarii, Chalo ghar chalain
+  Sar-e-qaid-e-gham teri ho ghari, laboṅ par kha faqat thi yahi
+  Sitamgar ka dar mere dil meiṅ hai, yahaaṅ neend kya mujhe aae gi
+  Buka karti yahi raat din, yahaaṅ se phuphi
 
   8
-  7. Sar e qaid gham teri har gharii,
-  Labo par bhuka faqat thi yahi,
-  Sitamgar ka dar, Mere dil mei hay,
-  Yahan neendh kya mujey aayeghi
-  Buka karti thi yahi raat din,
-  Yahan sey puphi, Chalo ghar chalain
+  Na ab gham koi na uftaad hai, wo zanjir se ab aazaad hai
+  Phuphi bhi teri tere saath hai, tere saath hi wo Sajjad hai
+  Meri ghamzada shab-e-gham kati, sahar ho chuki
 
   9
-  8. Behen ke liye teri ladli,
-  Rahi ghamzada bani mattami
-  Yahan nawha khwaan, Agar tum raheen,
-  Wahan meheve gham hain Sughra teri,
-  Behen se aghar tuje pyaar hay,
-  Fughaan sun meri, Chalo ghar chalain
+  Behen ke liye teri laadli, rahi ghamzada rahi maatami
+  Yahaaṅ nauha khwaaṅ agar tum rahiṅ, wahaaṅ mahv-e-gham hai Sughra teri
+  Behen se agar tujhe pyaar hai, fughaaṅ sun meri
 
   10
-  9. Gaya marqade Sakina pe gar,
-  Karega wahan ye Mazhar bayaan,
-  Ata umra kar ise daayini,
-  Hain yeh Fatima teri nawha khwaan
-  Wahan jaake phir, Kahegha nahi,
-  Mera dil kabhi, Chalo ghar chalain
+  Laboṅ par tere yahi baat thi, watan jaaeṅ ge kabhi ham phuphi
+  Tujhe Shimr ka nahiṅ khauf ab, sataaeṅ ge na tujhe ab shaqi
+  Nikal qaid se shuru ham kareṅ nai zindagi
+
+  11
+  Ghariboṅ ka ye luta qaafila, widaa ho ke phir watan jaae ga
+  Tujhe paae gi jo Sughra teri to bimaar ko mile gi dawa
+  Gale mil ke phir bahut roe gi wo behna teri
+
+  12
+  Gaya marqad-e-Sakina pe gar, kare ka wahaaṅ ye Mazhar bayaaṅ
+  Ata umr kar ise daaimi, ye Irfan hai tera nauha khwaaṅ
+  Wahaaṅ jaa ke phir kahe ga nahiṅ mera dil kabhi
+
+  13
+  Sakina utho, meri jaaṅ utho, rihaai mili, chalo ghar chaleṅ
+  Sakina utho, meri jaaṅ utho, rihaai mili, chalo ghar chaleṅ
 ---
 
 سکینہؑ اٹھو میری جاں اٹھو رہائی ملی چلو گھر چلیں

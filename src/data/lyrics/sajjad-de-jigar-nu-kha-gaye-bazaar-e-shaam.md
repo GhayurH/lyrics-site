@@ -7,6 +7,41 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad de jigar kuṅ kha gaye bazaar-e-Shaam ae
+  Sar nange dhi Ali di bazaar balwa aam ae
+
+  1
+  Zainab da Shaam vanjraaṅ mekuṅ kandaaṅ neṅ bhulnraaṅ
+  Bhul vesaaṅ Karbala kuṅ mekuṅ neṅ bulnreṅ Shaam ae
+
+  2
+  Har vele akkhiyaaṅ de haaye saamneṅ hai raahnda
+  Kiveṅ rat roke akkheṅ di akkhiyaaṅ icha mede Shaam ae
+
+  3
+  Jeṅ saang naal lutia burqa Ali di dhi da
+  Faasiq ailaan kita ghane pehla o inaam ae
+
+  4
+  Sajjad tuṅ kaheṅ puchhia rat kiuṅ ho ronde Maula
+  Mekuṅ rat rova gai ae haaye Shaam Shaam Shaam ae
+
+  5
+  Ghurbat da vaqt ae jia Aabid te aa gia ae
+  Phuphiyaaṅ de naal qaidi kuriyaaṅ de vich Imam ae
+
+  6
+  Zainab kuṅ dekh turda haaye berida bazaar acha
+  Hasde rahen Shaami har mor te tamaam ae
+
+  7
+  Vich sar de laga patthar jeṅ vele dhi Ali kuṅ
+  Ditta chhor muhaaraaṅ kuṅ bazaaro ch Imam ae
+
+  8
+  Faisal mede akkheṅ kuṅ mahshar taeṅ na bhulsi
+  Faasiq de naal Zainab kita jiveṅ kalaam ae
 ---
 
 سجاد ؑ دے جگر کوں کھا گئے بازارِشام اے

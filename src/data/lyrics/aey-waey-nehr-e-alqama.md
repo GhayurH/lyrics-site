@@ -1,6 +1,6 @@
 ---
 title: "اے وائے نہرِ علقمہ"
-alternateTitle: "Aey Waey Nehr-e-Alqama"
+alternateTitle: "Ae Waaye Nehr-e-Alqama"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,74 +9,74 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pyaasa raha jaan-e-Nabi Aey waey nehr-e-Alqama
-  Uth thi rahin maujain teri Aey waey nehr-e-Alqama
+  Pyaasa raha jaan-e-Nabi Ae waaye nehr-e-Alqama
+  Uthti rahiṅ maujeṅ teri Ae waaye nehr-e-Alqama
 
   1
-  Wo khushk lab sookha gala
+  Woh khushk lab sukha gala
   Sher-e-Khuda ki aal ka
-  Wo tere hauton par tari
-  Aey waey nehr-e-Alqama
+  Woh tere hontoṅ par tari
+  Ae waaye nehr-e-Alqama
 
   2
-  Toofan uthana tha tujhay
-  Ya sookh jana tha tujhay
-  Kuch tu nay kidhmat hi na ki
-  Aey waey nehr-e-Alqama
+  Tufaan uthaana tha tujhe
+  Ya sukh jaana tha tujhe
+  Kuchh tu ne khidmat hi na ki
+  Ae waaye nehr-e-Alqama
 
   3
-  Ek mashq pani kay liye
-  Abbas kay shanay katay
-  Naddi lahoo ki behgayi
-  Aey waey nehr-e-Alqama
+  Ek mashk paani ke liye
+  Abbaas ke shaane kate
+  Nadi lahu ki beh gayi
+  Ae waaye nehr-e-Alqama
 
   4
-  Dubay lahoo main yaq kalam
-  Kya kya ghazalan-e-haram
-  Dekhiye kashti doobti
-  Aey waey nehr-e-Alqama
+  Dube lahu mein yak qalam
+  Kya kya ghazaalaan-e-haram
+  Dekhiye kashti dubti
+  Ae waaye nehr-e-Alqama
 
   5
-  Ek chadar-e-abay rawan
-  Auray huye tu nohakhwan
-  Zainab ki yeh bechadari
-  Aey waey nehr-e-Alqama
+  Ek chaadar-e-aab-e-rawaaṅ
+  Orhe hue tu nauha khwaaṅ
+  Zainab ki yeh bechaadari
+  Ae waaye nehr-e-Alqama
 
   6
-  Qabzay main teray aab ho
-  Aur pyaas say betaab ho
-  Sheh kay chaman ki har kali
-  Aey waey nehr-e-Alqama
+  Qabze mein tere aab ho
+  Aur pyaas se betaab ho
+  Sheh ke chaman ki har kali
+  Ae waaye nehr-e-Alqama
 
   7
-  Ashq-e-Sakina behgaye
-  Mou dekh tay sab rehgaye
-  Tu aur teri dariyadili
-  Aey waey nehr-e-Alqama
+  Ashk-e-Sakina beh gaye
+  Muṅh dekhte sab reh gaye
+  Tu aur teri darya dili
+  Ae waaye nehr-e-Alqama
 
   8
-  Yeh kaun sa dastoor tha
-  Mehmaan kitni door tha
-  Kya paoun main zanjeer thi
-  Aey waey nehr-e-Alqama
+  Yeh kaun sa dastur tha
+  Mehmaan kitni dur tha
+  Kya paaoṅ mein zanjir thi
+  Ae waaye nehr-e-Alqama
 
   9
-  Khaima rahey Shabeer ka
-  Youn dhoop main jalta hua
-  Sahil pe ho fauj-e-shaki
-  Aey waey nehr-e-Alqama
+  Khaima rahe Shabbir ka
+  Yuṅ dhup mein jalta hua
+  Saahil pe ho fauj-e-shaqi
+  Ae waaye nehr-e-Alqama
 
   10
-  Hasrat ki ek tafseer thi
-  Khud tere dil par teer thi
+  Hasrat ki ek tafsir thi
+  Khud tere dil par tir thi
   Jo mauj uthi aisi uthi
-  Aey waey nehr-e-Alqama
+  Ae waaye nehr-e-Alqama
 
   11
-  Aata hai usko yaad jab
-  Vo karvanay tashnalab
+  Aata hai us ko yaad jab
+  Woh kaarwaan-e-tashna lab
   Hai Najm ka nauha yahi
-  Aey waey nehr-e-Alqama
+  Ae waaye nehr-e-Alqama
 ---
 
 پیاسا رہا جانِ نبی اے وائے نہرِ علقمہ

@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad zindaaṅ ke andheroṅ se mujh ko tu bacha le
-  Bhai mujhe aaghosh-e-imamat meiṅ chhupa le
+  Sajjaad zindaaṅ ke andheroṅ se mujh ko tu bacha le
+  Bhai mujhe aaghosh-e-imaamat meiṅ chhupa le
   Dukhte haiṅ mere kaan sula do mujhe bhaiya sula do mujhe bhaiya
-  Tum maaṅ ki tarha lori suna do mujhe bhaiya
+  Tum maaṅ ki tarah lori suna do mujhe bhaiya
 
   1
   Lagta hai andhere se dar teri Sakina ko
@@ -22,22 +22,22 @@ romanLyrics: |-
 
   2
   Dekha hai in aankhoṅ ne baba ka gala katte
-  Bhulungi bhala kaise bata do mujhe bhaiya
+  Bhuluṅ gi bhala kaise bata do mujhe bhaiya
 
   3
-  Maiṅ saat Muharram se pyasi huṅ mere bhaiya
-  Do bund ho gar pani pila do mujhe bhaiya
+  Maiṅ saat Muharram se pyaasi huṅ mere bhaiya
+  Do bund ho gar paani pila do mujhe bhaiya
 
   4
-  Bhaiya mere kaanoṅ se ab tak hai lahu jari
+  Bhaiya mere kaanoṅ se ab tak hai lahu jaari
   Tum aa ke zara marham laga do mujhe bhaiya
 
   5
-  Karta hai sitam zalim sone bhi nahi deta
-  Aaghosh-e-imamat meiṅ chhupa do mujhe bhaiya
+  Karta hai sitam zaalim sone bhi nahiṅ deta
+  Aaghosh-e-imaamat meiṅ chhupa do mujhe bhaiya
 
   6
-  Sajjad se Sakina ro ke ye Fazal boli
+  Sajjaad se Sakina ro ke ye Fazal boli
   Chehra mere Asghar ka dikha do mujhe bhaiya
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ہے آج بھی زمانے میں چرچا حسین کا"
 recitationId: "hai-aaj-bhi-zamane-mein-charcha-hussain-ka"
-alternateTitle: "Hai Aaj Bhi Zamane Meiṅ Charcha Husain Ka"
+alternateTitle: "Hai Aaj Bhi Zamaane Meiṅ Charcha Husain Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Hai aaj bhi zamane meiṅ charcha Husain ka
+  Hai aaj bhi zamaane meiṅ charcha Husain ka
   Chalta hai mulk mulk meiṅ sikka Husain ka
   Bhaarat meiṅ gar woh aata to Bhagwaan kehte hum
   Har Hindu naam puja meiṅ japta Husain ka
@@ -33,7 +33,7 @@ romanLyrics: |-
   Is meiṅ nahiṅ kalaam ke hum but parast haiṅ
   Aankhoṅ se apni chumeṅ ge rauza Husain ka
   Je Singh panaah maange gi mujh se Narag ki aag
-  Hindu to huṅ magar huṅ maiṅ shaida Husain ka
+  Hindu to huṅ magar huṅ main shaida Husain ka
 ---
 
 ۱

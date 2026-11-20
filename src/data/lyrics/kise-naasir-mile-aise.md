@@ -1,7 +1,7 @@
 ---
 title: "کیسے ناصر ملے ایسے شاہِ دلگیر سے پہلے"
 recitationId: "kise-nasir-mile-aise"
-alternateTitle: "Kise Naasir Mile Aise"
+alternateTitle: "Kaise Naasir Mile Aise"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kise naasir mile aise Shaah-e-dilgir se pehle
+  Kaise naasir mile aise Shaah-e-dilgir se pehle
   Wafa ki laaj rakh li mar gaye Shabbir se pehle
 
   1
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Gham-e-Sarwar diya Haq ne Tajammul shukr laazim hai
-  Bari daulat ataa ki khuld ki jaagir se pehle
+  Bari daulat ataa ki khuld jaagir se pehle
 ---
 کیسے ناصر ملے ایسے شاہِ دلگیر سے پہلے
 وفا کی لاج رکھ لی مر گئے شبیر سے پہلے

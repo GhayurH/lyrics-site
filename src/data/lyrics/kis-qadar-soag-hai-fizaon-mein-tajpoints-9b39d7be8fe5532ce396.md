@@ -1,38 +1,66 @@
 ---
-title: "Kis Qadar Soag Hai Fizaon Mein"
+title: "کس قدر سوگ ہے فضاؤں میں"
+alternateTitle: "Kis Qadar Soag Hai Fizaon Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Sahil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kis qadar soag hai fizaon mein
+  Aaj majlis thi mere gaon mein
+
+  1
+  Ali Asghar ka naam sunte hi
+  Shoor-e-giriya utha tha maon mein
+  Jab kissi ne kaha Sakina piyas
+  Aik halchal machi ghataon mein
+
+  2
+  Woh kina-r- Furat mara giya
+  Jis ki shohrat thi soormaon mein
+  Ashk rukte nahi jo sochta hoon
+  Bint-e-Haidar thi be ridaon mein?
+
+  3
+  Zulm ke jis qadar andehre the
+  Kho gaye sabar ki ziyaon mein
+  Ik yehi gham hai ba-zameer jisse
+  Mangte hain sada duaon mein
+
+  4
+  Mere lab par rahe Hussain Hussain
+  Meri bakhshish hai inn sadaon mein
+  Zikar-e-Aal-e-Abba likhon Sahil
+  Umar kat jaye inn attaon mein
 ---
 
-Kis Qadar Soag Hai Fizaon Mein.
-Aaj Majlis Thi Mere Gaon Mein.
+کس قدر سوگ ہے فضاؤں میں
+آج مجلس تھی میرے گاؤں میں
 
-1
-Ali Asghar Ka Naam Sunte Hi.
-Shoor-e-Giriya Utha Tha Maon Mein.
-Jab Kissi Ne Kaha Sakina Piyas.
-Aik Halchal Machi Ghataon Mein.
+۱
+علی اصغر کا نام سنتے ہی
+شورِ گریہ اٹھا تھا ماؤں میں
+جب کسی نے کہا سکینہ پیاس
+ایک ہلچل مچی گھٹاؤں میں
 
-2
-Woh Kina-r- Furat Mara Giya.
-Jis Ki Shohrat Thi Soormaon Mein.
-Ashk Rukte Nahi Jo Sochta Hoon.
-Bint-e-Haidar Thi Be Ridaon Mein?
+۲
+وہ کنارِ فرات مارا گیا
+جس کی شہرت تھی سورماؤں میں
+اشک رکتے نہیں جو سوچتا ہوں
+بنتِ حیدر تھی بے رداؤں میں؟
 
-3
-Zulm Ke Jis Qadar Andehre The.
-Kho Gaye Sabar Ki Ziyaon Mein.
-Ik Yehi Gham Hai Ba-Zameer Jisse.
-Mangte Hain Sada Duaon Mein.
+۳
+ظلم کے جس قدر اندھیرے تھے
+کھو گئے صبر کی ضیاؤں میں
+اک یہی غم ہے باضمیر جسے
+مانگتے ہیں سدا دعاؤں میں
 
-4
-Mere Lab Par Rahe Hussain Hussain.
-Meri Bakhshish Hai Inn Sadaon Mein.
-Zikar-e-Aal-e-Abba Likhon Sahil
-Umar Kat Jaye Inn Attaon Mein.
+۴
+میرے لب پر رہے حسین حسین
+میری بخشش ہے ان صداؤں میں
+ذکرِ آلِ عبا لکھوں ساحل
+عمر کٹ جائے ان عطاؤں میں

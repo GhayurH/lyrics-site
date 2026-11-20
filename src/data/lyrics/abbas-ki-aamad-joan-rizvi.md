@@ -11,26 +11,26 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Teri aamad ki khushi aisay manai Abbas
+  Teri aamad ki khushi aise manai Abbas
   Manqabat teri Sakina ko sunai Abbas
-  Aap ke dar pe jabeen jis ne jhukai Abbas
-  Mil gayi arsh talak oss ko rasai Abbas
-  Aap ne mangton ki oqaat barhai Abbas
+  Aap ke dar pe jabiṅ jis ne jhukai Abbas
+  Mil gai arsh talak us ko rasai Abbas
+  Aap ne mangtoṅ ki auqaat barhai Abbas
   Le ke Allah se har cheez dilai Abbas
-  Wal qamar parhtay hoye Shams-e-Imamat ne hai ki
+  Wal qamar parhte hue Shams-e-Imaamat ne hai ki
   Tere aane pe teri madah sarai Abbas
-  Yeh tu bilkul hai Ali, dekhtey hi kehne lagay
-  Teri tasveer jo nabiyon ko dikhai Abbas
-  Ik taraf roza-e-Sheh aik taraf roza tera
-  Darmiyaan dono ke hai sari khudai Abbas
-  Aisi haibat thi keh pani ko paseena aaya
-  Jab nazar aap ne pani se milayi Abbas
-  Sham ke sorma iss dar se nahi sotay they
-  Aa na jaye kahin Shabeer ka bhai Abbas
-  Fatima Zahra na bakhshein gi Qayamat mein ossay
-  Aap ki shan hai jis ne bhi ghatayi Abbas
-  Hath malne ki bhi mohlat na mili oss ko Asad
-  Lar gaye iss tarha batil se larai Abbas
+  Yeh to bilkul hai Ali, dekhte hi kehne lage
+  Teri tasvir jo nabiyoṅ ko dikhai Abbas
+  Ik taraf roza-e-Sheh ek taraf roza tera
+  Darmiyaaṅ donoṅ ke hai saari khudai Abbas
+  Aisi haibat thi ke paani ko pasina aaya
+  Jab nazar aap ne paani se milai Abbas
+  Shaam ke surma is dar se nahiṅ sote the
+  Aa na jaaye kahiṅ Shabbir ka bhai Abbas
+  Fatima Zahra na bakhsheṅ gi qayaamat mein use
+  Aap ki shaan hai jis ne bhi ghatai Abbas
+  Haath malne ki bhi mohlat na mili us ko Asad
+  Lar gaye is tarah baatil se larai Abbas
 ---
 
 ۱

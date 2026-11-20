@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ki beti safar tera aaj se hai shuru
-  Sada janaze se aati hai Sham jayegi tu
+  Sada janaaze se aati hai Shaam jaaegi tu
 
   1
-  Kaisa aulad-e-Muhammad pe ye Ramzan aaya
-  Masjid-e-Kufa se ho zakhmi hai Quran aaya
+  Kaisa aulad-e-Muhammad pe ye Ramzaan aaya
+  Masjid-e-Kufa se ho zakhmi hai Quraan aaya
   Haiṅ rote betiyaṅ aur bete dekh behta lahu
 
   2
-  Baad mere ye Musalman satayenge tujhe
-  Sar barehna sar-e-bazar phirayenge tujhe
-  Tera Sajjad bazaroṅ meiṅ bahayega lahu
+  Baad mere ye Musalmaan sataaeṅ ge tujhe
+  Sar barehna sar-e-baazaar phiraaeṅ ge tujhe
+  Tira Sajjaad baazaaroṅ meiṅ bahaaega lahu
 
   3
   Milega zehar Hasan ko lutegi teri rida
   Meri Zainab mera Husain karega jaise ada
-  Namaz aakhri hogi woh khun se karke wuzu
+  Namaaz aakhri hogi woh khun se karke wuzu
 
   4
-  Teri zindagi meiṅ to dukh koi na paye Zainab
+  Teri zindagi meiṅ to dukh koi na paae Zainab
   Teri zindagi ka jo maqsad hai rida-e-Zainab
-  Ye yaad rakhna baad mere mere Ghazi tu
+  Ye yaad rakhna baad mere mere Ghaazi tu
 
   5
-  Meri aulad se yuṅ badla Badr ka lenge
-  Chadareiṅ lutenge pani ka na qatra deṅge
-  Tujhe le jayenge sar nange Sham mere adu
+  Meri aulad se yuṅ badla Badr ka leṅ ge
+  Chaadareṅ luteṅ ge paani ka na qatra deṅ ge
+  Tujhe le jaaeṅ ge sar nange Shaam mere adu
 
   6
-  Dekho faryad yatimoṅ ki yuṅ sunta hai Khuda
-  Ibn-e-Muljim ta hashr gunjegi lanat ki sada
-  Ban gaya kaise hai ibrat dekho Haider ka adu
+  Dekho faryaad yatimoṅ ki yuṅ sunta hai Khuda
+  Ibn-e-Muljim taa hashr gunjegi laanat ki sada
+  Ban gaya kaise hai ibrat dekho Haidar ka adu
 
   7
-  Bahayeṅ aansu falak aur ro rahi hai zamiṅ
-  Na jao Baba hamara yahaṅ pe koi nahi
-  Bewafaon ka shehar hai yahaṅ dushman har su
+  Bahaaeṅ aansu falak aur ro rahi hai zamiṅ
+  Na jaao Baaba hamaara yahaaṅ pe koi nahiṅ
+  Bewafaaoṅ ka shehar hai yahaaṅ dushman har su
 
   8
-  Ho Madina ya wo Kufa ho ya Karbal ki zamiṅ
-  Hogi Sajjad Abu Talib ke khun se rangiṅ
-  Bacha hai din-e-Khuda inke karke sajda ruku
+  Ho Madina ya woh Kufa ho ya Karbal ki zamiṅ
+  Hogi Sajjaad Abu Taalib ke khun se rangiṅ
+  Bacha hai din-e-Khuda in ke karke sajda ruku
 ---
 
 علیؑ کی بیٹی سفر تیرا آج سے ہے شروع

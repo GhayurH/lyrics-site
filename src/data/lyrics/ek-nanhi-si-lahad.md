@@ -35,7 +35,7 @@ romanLyrics: |-
   Mujh ko maalum hai har qabr meiṅ aate haiṅ Husain
 
   6
-  Laash-e-Abbas pe kehti thiṅ ye Zehra ro ke
+  Laash-e-Abbas pah kehti thiṅ ye Zehra ro ke
   Utho Abbas tumheṅ kab bulaate haiṅ Husain
 
   7

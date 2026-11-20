@@ -12,57 +12,57 @@ published: false
 romanLyrics: |-
   1
   Tanha Husain hai
-  Hai karbala ka ajib manzar
-  Husain tanha khare huwe hai
-  Na ba sipaahi na ab hai lashkar
-  Husain tanha khare huwe hai
-  Ye ghar nabi ka basa basaya
-  Luta hai maqtal meiṅ ae khudaya
-  Sada musalsal wo de raha hai
+  Hai Karbala ka ajib manzar
+  Husain tanha khare hue haiṅ
+  Na ab sipaahi na ab hai lashkar
+  Husain tanha khare hue haiṅ
+  Ye ghar Nabi ka basa basaya
+  Luta hai maqtal meiṅ ae Khudaaya
+  Sadaa musalsal woh de raha hai
   Palat ke ran se koi na aaya
-  Habib hai ab na koi yawar
+  Habib hai ab na koi yaawar
   Husain tanha khare...
   Badan pe naiza kisi ne maara
-  Kisi ne barchi ka phal utaara
-  Madad ko aao koi khudara
+  Kisi ne barchhi ka phal utaara
+  Madad ko aao koi khudaara
   Lahu meiṅ tar hai libaas saara
-  Chale bhi aao kahaṅ ho akbar
-  Husain tanha khare…
-  Kahaṅ ho abbas aaj ran meiṅ
+  Chale bhi aao kahaṅ ho Akbar
+  Husain tanha khare...
+  Kahaṅ ho Abbas aaj ran meiṅ
   Gharib bhai ki jang dekho
-  Tum ek saabir ki ek musafir
+  Tum ek saabir ki ek musaafir
   Ki pyaas meiṅ ye umang dekho
-  Ye waqt-e-nusrat ae baradar
+  Ye waqt-e-nusrat ae baraadar
   Husain tanha khare...
-  Hai khaak aalud jis meiṅ sarwar
-  Lahu se chehra ataa hua hai
+  Hai khaak aalud jis meiṅ Sarwar
+  Lahu se chehra ata hua hai
   Nabi ki dastaar gir pari hai
-  Abaa ka damaan phata hua hai
-  Hai bain fizza ke ye laboṅ par
+  Aba ka damaan phata hua hai
+  Hai bain Fizza ke ye laboṅ par
   Husain tanha khare...
-  Husain tanha hai shaam e gham hai
-  Fughaṅ hai chashme falak bhi nam hai
-  Ye ek pyase pe kya sitam hai
+  Husain tanha hai shaam-e-gham hai
+  Fughaṅ hai chashm-e-falak bhi nam hai
+  Ye ek pyaase pe kya sitam hai
   Badan hai zakhmi kamar bhi kham hai
-  Nahi hai abbas sa dilawar
+  Nahiṅ hai Abbas sa dilaawar
   Husain tanha khare...
-  Muarriqoṅ ko bula ke pucho
-  Viqar e insaniiyat kahaṅ hai
+  Muarriqoṅ ko bula ke puchho
+  Waqaar-e-insaaniyat kahaṅ hai
   Shikasta pehlu pe haath rakh kar
-  Jo ro rahi hai wo kaun maa hai
+  Jo ro rahi hai woh kaun maaṅ hai
   Jo bain karti hai haye ro kar
   Husain tanha khare...
-  Ba roz e ashur is jari ne
-  Khuda ke diṅ ko nikhaar baksha
-  Wajud-e-haq ko hayaat bakshi
-  Rasul ko aetbaar baksha
+  Ba roz-e-Aashur is jari ne
+  Khuda ke diṅ ko nikhaar bakhsha
+  Wajud-e-haq ko hayaat bakhshi
+  Rasul ko aitbaar bakhsha
   Khuda ke diṅ ke kafil ban kar
   Husain tanha khare...
-  Mohib aza ko farogh dena
-  Hussainiyat ka shiyaar rakhna
-  Ae yazdaṅ bibi ki aarzu hai
-  Ye farshe gham barqaraar rakhna
-  Har ek zulm o sitam ki zad par
+  Mohib azaa ko farogh dena
+  Husainiyat ka shiyaar rakhna
+  Ae Yazdaaṅ Bibi ki aarzu hai
+  Ye farsh-e-gham barqaraar rakhna
+  Har ek zulm o sitam ki zid par
   Husain tanha khare...
 ---
 

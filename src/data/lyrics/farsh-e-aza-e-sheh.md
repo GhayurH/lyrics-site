@@ -16,19 +16,19 @@ romanLyrics: |-
   Yaani Khuda jahaaṅ hai wahaaṅ ya Husain hai
 
   1
-  Shabbiriyat milegi Khuda ki asaas meiṅ
-  Ghamkhwaar jaante haiṅ ye kaale libaas meiṅ
+  Shabbiriyat milegi Khuda ki asaas mein
+  Ghamkhwaar jaante haiṅ ye kaale libaas mein
   Kaabe ke bhi laboṅ ka bayaaṅ ya Husain hai
 
   2
-  Qurbat meiṅ jab nijaat ka aaya tha marhala
+  Qurbat mein jab nijaat ka aaya tha marhala
   Bole malaaika hai amal koi to bata
-  Maiṅ ne ye keh diya tha ke haaṅ ya Husain hai
+  Main ne ye keh diya tha ke haaṅ ya Husain hai
 
   3
   Har saans keh rahi hai ke tujh par salaam hai
   Tu jannati hai tujh pe jahannam haraam hai
-  Teri to zindagi meiṅ rawaaṅ ya Husain hai
+  Teri to zindagi mein rawaaṅ ya Husain hai
 
   4
   Karbobala ke baad hai ye bhi to maujiza
@@ -36,14 +36,14 @@ romanLyrics: |-
   Har us jagah pe wird-e-zabaaṅ ya Husain hai
 
   5
-  Aashur aaj bhi hai wahiṅ par ruki hui
+  Aashur aaj bhi hai wahi par ruka hui
   Gardan jahaaṅ Husain ki sukhi hui kati
-  Zehra wahiṅ pe nauha-kunaaṅ ya Husain hai
+  Zehra wahi pe nauha-kunaaṅ ya Husain hai
 
   6
   Mushkil kusha ke aur payambar ke bain haiṅ
   Haae Husain Khaaliq-e-Akbar ke bain haiṅ
-  Donoṅ jahaaṅ meiṅ aah o fughaaṅ ya Husain hai
+  Donoṅ jahaaṅ mein aah o fughaaṅ ya Husain hai
 
   7
   Yasir ye keh rahe haiṅ sar-e-arsh ambiya

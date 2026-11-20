@@ -10,38 +10,48 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Teda seena nayi labda
-  Baba meh rulgay ah
-  Injh lathe hoy dur mede
-  Tenkoo rona bhulgay ah
+  Hin aukhe safar yatimi de
+  Baba main bahuṅ zakhmi aaṅ
+  Tenda sina mekuṅ naiṅ milda
+  Baddhi mittiaaṅ te samdhi aaṅ
 
   2
-  Baba menkoo shaam ke loka neh tede baad kaneezi wich mangiya
-  Meh gairat syeda dee oh wele margay ah
+  Mekuṅ ghinn vanj Baba naal apne
+  Is zindagi tuṅ thak pai aaṅ
+  Mende waaṅg yatim na koi hove
+  E roz dua mangdi aaṅ
 
   3
-  Jado gal teh der zarba chaliya meh kol koloh ke dehnndi ray
-  Nahi miliya sar teda tarle kardi raya
+  Tenda sina naiṅ labhda, Baba main rul gai aaṅ
+  Inj latthe hoe dur mende, tekuṅ rona bhul gai aaṅ
 
   4
-  Jado wakhri qaid da huqam hoya menkoo kaliya tang zindaan deh wich
-  Injh rondi meh turee ah oh qaiden meh rulgay ah
+  Baba mekuṅ Shaam de lokaaṅ ne, tende baad kanizi vich mangia
+  Main ghairat Sayyedaaṅ di, uṅ vele mar gai aaṅ
 
   5
-  Dutha pehla pursa maqtal wich menkoo shimmer laieen yateemi da
-  Injh zalim hath chaya oh meh khaakh teh jhan paya ah
+  Jadaaṅ gal tere zarbaaṅ chaliaaṅ, main kol khlo ke dendi rai
+  Nahiṅ milia sar tenda, tarle kardi rai aaṅ
 
   6
-  Jada dhakila hoya sham deh wich hoyi bheer bazaari loka dee
-  Phoopiya deh turan kithe oh meh raah mangdi raya
+  Jadaaṅ vakhri qaid da hukam hoa, mekuṅ kalia tang zindaan de vich
+  Inj rondi main tariaaṅ, ho qaiden main rul gai aaṅ
 
   7
-  Tende khoon ich tarkhat zalim deh menkoo ajar risalat dehnde ray
-  Injh khums menkoo miliya oh rangeen hoya zulfa
+  Ditta pehla pursa maqtal vich, mekuṅ Shimr laiṅ yatimi da
+  Inj zaalim hath chaaia, ho main khaak te jhan pai aaṅ
 
   8
-  Shal koy dhee na injh guzre be sarba babe dee lash utho
-  Jeew meh rasiya paah keh oh tedi lash tho guzri ah
+  Jadaaṅ daakhla hoa Shaam de vich, hoi bhir baazaari lokaaṅ di
+  Phuphiaaṅ de turan kite, ho main raah mangdi rai aaṅ
+
+  9
+  Tende khun ich tar khat zaalim ne, mekuṅ ajar risaalat dhende rae
+  Inj khums mekuṅ milia, ho rangin hoiaaṅ zulfaaṅ
+
+  10
+  Shaala koi dhi na inj guzre, be sar Babe di laash utoṅ
+  Jio main rassiaaṅ paa ke, ho tendi laash tuṅ guzri aaṅ
 ---
 
 ۱

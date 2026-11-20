@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Sar patakhti hai behan khaime meiṅ rote haiṅ haram
-  Halq-e-Shaah-e-din par khanjar ki rawaani dekh kar
+  Halq-e-Shaah-e-Din par khanjar ki rawaani dekh kar
 
   6
   Haaye kya batlaaeṅ kya guzri dil-e-Shabbir par

@@ -1,30 +1,50 @@
 ---
-title: "Haye Sughra Da Shehanshah Veeran Ali Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے صغریٰ دا شہنشاہ ویراں علی"
+alternateTitle: "Haye Sughra Da Shehanshah Veeran Ali"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Sughra da Shehanshah Veeran Ali Akbar v ro paya
+  Phophiyaan de naal bhaina jadoon Sughra nu seene la ke kita si alwida
+  Akbar ne rondiyaan ayho Sughra nu aakhiya
+  Wada aye bhain meri tere kool aon da
+  Har haal che main aawan ga wada aye bhain mera jay jonda reh gaya
+  Chawaan di ja nayi othe shagna di aas nayi
+  Mohlat nayi othe honi sano sehray lan di
+  Oss shehar ja ray aan asi jis shehar nu zamana kehnda aye Karbala
+  Safraan da koi dukh tainu na wekhna paway
+  Tere toon Sham da har sada gham paraan raway
+  Na Kofa Sham wekhein kadi Sughra tere layi aye Akbar di aye dua
+  Sughra ne aakhiya menu de ja ijazataan
+  Jad yaad aaway teri tainu main pukar laan
+  Toon janda aein jay main kawaan awaz tay kare gi melaan da fasla
+  Quran-e-Syeda diyaan aytaan wichar gayiyaan
+  Qabraan v ais ghar di kitay naal na raiyaan
+  Do noor ho gaye ne juda Akbar juda nayi hoye do bhain te bhira
 ---
 
-1
-Haye Sughra Da Shehanshah Veeran Ali Akbar V Ro Paya.
-Phophiyaan De Naal Bhaina Jadoon Sughra Nu Seene La Ke Kita Si Alwida.
-Akbar Ne Rondiyaan Ayho Sughra Nu Aakhiya.
-Wada Aye Bhain Meri Tere Kool Aon Da.
-Har Haal Che Main Aawan Ga Wada Aye Bhain Mera Jay Jonda Reh Gaya.
-Chawaan Di Ja Nayi Othe Shagna Di Aas Nayi.
-Mohlat Nayi Othe Honi Sano Sehray Lan Di.
-Oss Shehar Ja Ray Aan Asi Jis Shehar Nu Zamana Kehnda Aye Karbala.
-Safraan Da Koi Dukh Tainu Na Wekhna Paway.
-Tere Toon Sham Da Har Sada Gham Paraan Raway.
-Na Kofa Sham Wekhein Kadi Sughra Tere Layi Aye Akbar Di Aye Dua.
-Sughra Ne Aakhiya Menu De Ja Ijazataan.
-Jad Yaad Aaway Teri Tainu Main Pukar Laan.
-Toon Janda Aein Jay Main Kawaan Awaz Tay Kare Gi Melaan Da Fasla.
-Quran-e-Syeda Diyaan Aytaan Wichar Gayiyaan.
-Qabraan V Ais Ghar Di Kitay Naal Na Raiyaan.
-Do Noor Ho Gaye Ne Juda Akbar Juda Nayi Hoye Do Bhain Te Bhira.
+۱
+ہائے صغریٰ دا شہنشاہ ویراں علی اکبر وی رو پیا
+پھوپھیاں دے نال بھینا جدوں صغریٰ نوں سینے لا کے کیتا سی الوداع
+اکبر نے روندیاں ایہو صغریٰ نوں آکھیا
+وعدہ اے بھین میری تیرے کول آؤن دا
+ہر حال چ میں آواں گا وعدہ اے بھین میرا جے جیوندا رہ گیا
+چاواں دی جا نئیں اتھے شگناں دی آس نئیں
+مہلت نئیں اتھے ہونی سانوں سہرے لان دی
+اوس شہر جا رئے آں اسیں جس شہر نوں زمانہ کہندا اے کربلا
+سفراں دا کوئی دکھ تینوں نہ ویکھنا پوے
+تیرے توں شام دا ہر سدا غم پراں روے
+نہ کوفہ شام ویکھیں کدی صغریٰ تیرے لئی اے اکبر دی اے دعا
+صغریٰ نے آکھیا مینوں دے جا اجازتاں
+جد یاد آوے تیری تینوں میں پکار لاں
+توں جاندا ایں جے میں کواں آواز تے کرے گی میلاں دا فاصلہ
+قرآنِ سیدہ دیاں آیتاں وچھڑ گئیاں
+قبراں وی ایس گھر دی کتے نال نہ رہیاں
+دو نور ہو گئے نے جدا اکبر جدا نئیں ہوئے دو بھین تے بھرا

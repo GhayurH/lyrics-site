@@ -8,53 +8,47 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Haye Oh Mera Ghareeb Baba"
-romanLyrics: 'Haye Oh Mera Ghareeb Baba Lyrics
-
-  Aye Sham De Loko Mein Syed Haan.
-
+romanLyrics: |-
+  Haaye woh mera ghareb baaba
+  Ae Shaam de logoṅ main Sayyad haaṅ
+  Na kafan mila na dafan hua
+  Mera baaba pyaasa maar diya
+  Haaye woh mera ghareb baaba
 
   1
-
-  Na Kafan Mila Na Dafan Howa Mera Baba Pyasa Mar Diya.
-
-  Bazar-e-Sham Ka Majma Tha Sajjad Ghareeb Ka Noha Tha.
-
-  Kyun Bagi Bagi Kehte Ho Kiya Jurm Tha Mere Baba Ka.
-
-  Sajday Mein Namazi Qatal Kiya Mera Baba Pyasa Mar Diya.
-
+  Baazaar-e-Shaam ka majma tha
+  Sajjaad ghareb ka nauha tha
+  Kiuṅ baaghi baaghi kehte ho
+  Kya jurm tha mere baaba ka
+  Sajde mein namaazi qatl kiya
 
   2
-
-  Mera Baba Shan-e-Rasool ALLAH Mera Baba Jan-e-Madina Tha.
-
-  Chodah Barah Our Panch Mein Bhi Be Shak Anmool Nagina Tha.
-
-  Sadaat Ke Dil Ko Chak Kiya Mera Baba Pyasa Mar Diya.
-
-  Mera Baba Pak Namazi Tha ALLAH Bhi Jis Se Razi Tha.
-
+  Mera baaba shaan-e-Rasul Allah
+  Mera baaba jaan-e-Madina tha
+  Chaudah baarah aur paanch mein bhi
+  Beshak anmol nagina tha
+  Saadaat ke dil ko chaak kiya
 
   3
-
-  Mera Baba Aisa Qari Tha Quran Bhi Jis Ka Hami Tha.
-
-  Sajday Mein Oss Par Zulm Kiya Mera Baba Pyasa Mar Diya.
-
-  Pehle Tu Pyar Se Khat Likh Ke Dhokay Se Bulaya Baba Ko.
-
-  Phir Karb-o-Bala Ke Sehra Mein Kitna Hai Sataya Baba Ko.
-
+  Mera baaba paak namaazi tha
+  Allah bhi jis se raazi tha
+  Mera baaba aisa qaari tha
+  Quraan bhi jis ka haami tha
+  Sajde mein us par zulm kiya
 
   4
+  Pehle to pyaar se khat likh ke
+  Dhoke se bulaaya baaba ko
+  Phir Karb o Bala ke sehra mein
+  Kitna hai sataaya baaba ko
+  Mehmaan bana kar lut liya
 
-  Mehman Bana Kar Laut Liya Mera Baba Pyasa Mar Diya.
-
-  Batlao Kiya Mera Baba Ik Kafan Ka Bhi Haqdar Na Tha.
-
-  Batlao Kiya Mera Baba Nana Ka Wirsa Daar Na Tha.
-
-  Lakhon Ne Oss Ko Ghair Liya Mera Baba Pyasa Mar Diya.'
+  5
+  Batlaao kya mere baaba
+  Ik kafan ka bhi haq daar na tha
+  Batlaao kya mera baaba
+  Naana ka wirsa daar na tha
+  Laakhoṅ ne us ko gher liya
 ---
 
 ہاے وہ میرا غریب بابا

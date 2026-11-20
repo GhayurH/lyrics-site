@@ -1,38 +1,66 @@
 ---
-title: "Teri Merzi"
+title: "تیری مرضی"
+alternateTitle: "Teri Merzi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  De betiyaan Rahib ko ya betay teri marzi
+  Sab tera hai aye marziyon walay teri marzi
+
+  1
+  Yeh loh-o-qalam tere liye khalq hoye hain
+  Jo jee mein tere aata hai likh de teri marzi
+  Tu meri mashiyat hai mera dast-e-atta hai
+  Chalti hai meri marzi ke aagay teri marzi
+
+  2
+  Fitrus jo takabur ki saza kaat raha hai
+  Hai mera gunahgar pa jaisay teri marzi
+  Sar sajday se hargiz nahi nana ka uthay ga
+  Jab tak ke na shamil ho nawasay teri marzi
+
+  3
+  Haqdar hai Shabeer tu Zainab si behan ka
+  Jo chehra tera dekh ke parh le teri marzi
+  Humshakal-e-Muhammad tere kehne pe banaya
+  Youn ishq se rakhi gayi pehle teri marzi
+
+  4
+  Yeh keh ke atta ki hai Sakina ossay Rab ne
+  Marzi hai meri tere hawalay teri marzi
+  Rab kehta raha raziyatan marziya Muhsin
+  Our sajday mein Shabeer pukarey teri marzi
 ---
 
-De Betiyaan Rahib Ko Ya Betay Teri Marzi.
-Sab Tera Hai Aye Marziyon Walay Teri Marzi.
+دے بیٹیاں راہب کو یا بیٹے تیری مرضی
+سب تیرا ہے اے مرضیوں والے تیری مرضی
 
-1
-Yeh Loh-o-Qalam Tere Liye Khalq Hoye Hain.
-Jo Jee Mein Tere Aata Hai Likh De Teri Marzi.
-Tu Meri Mashiyat Hai Mera Dast-e-Atta Hai.
-Chalti Hai Meri Marzi Ke Aagay Teri Marzi.
+۱
+یہ لوح و قلم تیرے لیے خلق ہوئے ہیں
+جو جی میں تیرے آتا ہے لکھ دے تیری مرضی
+تو میری مشیت ہے میرا دستِ عطا ہے
+چلتی ہے میری مرضی کے آگے تیری مرضی
 
-2
-Fitrus Jo Takabur Ki Saza Kaat Raha Hai.
-Hai Mera Gunahgar Pa Jaisay Teri Marzi.
-Sar Sajday Se Hargiz Nahi Nana Ka Uthay Ga.
-Jab Tak Ke Na Shamil Ho Nawasay Teri Marzi.
+۲
+فطرس جو تکبر کی سزا کاٹ رہا ہے
+ہے میرا گناہگار پر جیسے تیری مرضی
+سر سجدے سے ہرگز نہیں نانا کا اٹھے گا
+جب تک کہ نہ شامل ہو نواسے تیری مرضی
 
-3
-Haqdar Hai Shabeer Tu Zainab Si Behan Ka.
-Jo Chehra Tera Dekh Ke Parh Le Teri Marzi.
-Humshakal-e-Muhammad Tere Kehne Pe Banaya.
-Youn Ishq Se Rakhi Gayi Pehle Teri Marzi.
+۳
+حق دار ہے شبیر تو زینب سی بہن کا
+جو چہرہ تیرا دیکھ کے پڑھ لے تیری مرضی
+ہم شکلِ محمد تیرے کہنے پہ بنایا
+یوں عشق سے رکھی گئی پہلے تیری مرضی
 
-4
-Yeh Keh Ke Atta Ki Hai Sakina Ossay Rab Ne.
-Marzi Hai Meri Tere Hawalay Teri Marzi.
-Rab Kehta Raha Raziyatan Marziya Muhsin.
-Our Sajday Mein Shabeer Pukarey Teri Marzi.
+۴
+یہ کہہ کے عطا کی ہے سکینہ اسے رب نے
+مرضی ہے میری تیرے حوالے تیری مرضی
+رب کہتا رہا راضیۃً مرضیۃً محسن
+اور سجدے میں شبیر پکارے تیری مرضی

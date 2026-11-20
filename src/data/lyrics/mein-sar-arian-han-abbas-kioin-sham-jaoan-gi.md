@@ -9,30 +9,30 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Maiṅ Sar Uryaṅ haaṅ Abbas Kewaiṅ Shaam jawaṅ gin
-  Rida de baaj walaṅ dan
+  Maiṅ sar uryaaṅ haaṅ Abbas kiveṅ Shaam jaavaaṅ gi
+  Rida de baaj vaalaaṅ da
 
   1
-  Kewaiṅ Parda Banawaṅ Gin.
+  Kiveṅ parda banaavaaṅ gi
 
   2
-  Tere Lashe te roi nahiṅ, Te tur pain Shaam te pase
-  Hoya Wada meiṅ ruwaṅ lai, teri turbat te awan gin.
+  Tere laashe te roi nahiṅ, te tur pain Shaam te paise
+  Hoya vaada maiṅ ravaaṅ laai, teri turbat te aavaan gi
 
   3
-  Zara na fikr kar veeran, Je safraan which meinu milyan
-  Maiṅ Apne Hise da pani, wi balan nuṅ pilanwan gin.
+  Zara na fikr kar veeraan, je saafraan vich mainu meliyaan
+  Maiṅ apne hisse da paani, vi baalaan nuṅ pilaanvaan gi
 
   4
-  Mere babe kun hasrat rai, mera lehja o nahiṅ sunyan
-  Maiṅ which darbar das veeran, kiwain khutba sunawan gin.
+  Mere babe kon hasrat rai, mera lehja o nahiṅ suniyaan
+  Maiṅ vich darbaar das veeraan, kiveṅ khutba sunaavaan gi
 
   5
-  Wafa de shehanshan kun din, ali di jaan aadi rai
-  Tu sham awan de abid kun, maiṅ Ghazi ban wakhan wa gin.
+  Vafa de shahanshaan kon din, Ali di jaan aadi rai
+  Tu Shaam aavaan de Abid kon, maiṅ Ghazi ban vaakhaan va gi
 
   6
-  Kewaiṅ Parda Banawaṅ Gin.
+  Kiveṅ parda banaavaaṅ gi
 ---
 
 میں سَر عریاں ہاں عباسؑ کیویں شام جاواں گی

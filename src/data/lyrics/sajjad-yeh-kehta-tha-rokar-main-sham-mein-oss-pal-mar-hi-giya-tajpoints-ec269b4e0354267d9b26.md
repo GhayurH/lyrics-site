@@ -1,29 +1,48 @@
 ---
-title: "Sajjad Yeh Kehta Tha Rokar Main Sham Mein Oss Pal Mar Hi Giya"
+title: "سجاد یہ کہتا تھا رو کر میں شام میں اُس پل مر ہی گیا"
+alternateTitle: "Sajjad Yeh Kehta Tha Rokar Main Sham Mein Oss Pal Mar Hi Giya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sajjad yeh kehta tha rokar main Sham mein oss pal mar hi giya
+  Jab dekhein phophiyaan nange sar main Sham mein oss pal mar hi giya
+  Bazaar ke har ik moor pe jab apna maqtal dekha sajte
+  Aankhon mein aya khoon bhar kar main Sham mein oss pal mar hi giya
+
+  2
+  Allah hi janta hai kaise thi lahad bani Masooma ki
+  Kurte mein jo dafnai khowakhir main Sham mein oss pal mar hi giya
+  Pate hi rehai mujh ko mila zalim se loota howa samaan
+  Jab dekhe Sakina ke gohar main Sham mein oss pal mar hi giya
+
+  3
+  Aye the bahatar mehmil par ab teen hain loottay Yasrab ko
+  Jab dekha main ne yeh manzar main Sham mein oss pal mar hi giya
+  Afraz main khowab mein ja pohancha Bazaar-e-Shaam mein kal shab tha
+  Jab aya yeh noha lab par main Sham mein oss pal mar hi giya
 ---
 
-1
-Sajjad Yeh Kehta Tha Rokar Main Sham Mein Oss Pal Mar Hi Giya.
-Jab Dekhein Phophiyaan Nange Sar Main Sham Mein Oss Pal Mar Hi Giya.
-Bazaar Ke Har Ik Moor Pe Jab Apna Maqtal Dekha Sajte.
-Aankhon Mein Aya Khoon Bhar kar Main Sham Mein Oss Pal Mar Hi Giya.
+۱
+سجاد یہ کہتا تھا رو کر، میں شام میں اُس پل مر ہی گیا
+جب دیکھیں پھوپھیاں ننگے سر، میں شام میں اُس پل مر ہی گیا
+بازار کے ہر اک موڑ پہ جب اپنا مقتل دیکھا سجتے
+آنکھوں میں آیا خون بھر کر، میں شام میں اُس پل مر ہی گیا
 
-2
-ALLAH Hi Janta Hai Kaise Thi Lahad Bani Masooma Ki.
-Kurte Mein Jo Dafnai Khowakhir Main Sham Mein Oss Pal Mar Hi Giya.
-Pate Hi Rehai Mujh Ko Mila Zalim Se Loota Howa Samaan.
-Jab Dekhe Sakina Ke Gohar Main Sham Mein Oss Pal Mar Hi Giya.
+۲
+اللہ ہی جانتا ہے کیسے تھی لحد بنی معصومہ کی
+کرتے میں جو دفنائی خواہر، میں شام میں اُس پل مر ہی گیا
+پاتے ہی رہائی مجھ کو ملا ظالم سے لوٹا ہوا سامان
+جب دیکھے سکینہ کے گوہر، میں شام میں اُس پل مر ہی گیا
 
-3
-Aye The Bahatar Mehmil Par Ab Teen Hain Loottay Yasrab Ko.
-Jab Dekha Main Ne Yeh Manzar Main Sham Mein Oss Pal Mar Hi Giya.
- Afraz Main Khowab Mein Ja Pohancha Bazaar-e-Shaam Mein Kal Shab Tha.
-Jab Aya Yeh Noha Lab Par Main Sham Mein Oss Pal Mar Hi Giya.
+۳
+آئے تھے بہتّر محمل پر اب تین ہیں لوٹتے یثرب کو
+جب دیکھا میں نے یہ منظر، میں شام میں اُس پل مر ہی گیا
+افراز میں خواب میں جا پہنچا بازارِ شام میں کل شب تھا
+جب آیا یہ نوحہ لب پر، میں شام میں اُس پل مر ہی گیا

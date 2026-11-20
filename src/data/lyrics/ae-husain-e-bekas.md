@@ -23,17 +23,17 @@ romanLyrics: |-
   2
   Khaatima hua tujh par har nayi musibat ka
   Tu ne phir nahiṅ dekha daur koi raahat ka
-  Kya jawab ho sakta koi teri himmat ka
+  Kya jawaab ho sakta koi teri himmat ka
   Kiuṅ na ho qalaq hum ko phir teri shahaadat ka
 
   3
   Khun naunihaaloṅ ka laasha-e-jawaaṅ dekha
   Naawak-e-sitam dekha halq-e-bezabaaṅ dekha
   Karbala ka nazaara Shaam ka samaaṅ dekha
-  Sah ke har musibat ko su-e-aasmaaṅ dekha
+  Seh ke har musibat ko su-e-aasmaaṅ dekha
 
   4
-  Manzileiṅ hui aakhir Shaam ka dayaar aaya
+  Manzileṅ hui aakhir Shaam ka diyaar aaya
   Ahl-e-Bait ke ghar meiṅ ahd-e-intishaar aaya
   Khud Imam baaliṅ par ho ke ashk baar aaya
   Haaye sar pe Zainab ke belche ka waar aaya
@@ -41,7 +41,7 @@ romanLyrics: |-
   5
   Hashr shahzaadi ne kitne gham uthaaye hai
   Zulm ki fazaaoṅ meiṅ taaziyaane khaaye hai
-  Di hai apni chaadar bhi haath bhi bandhaaye hai
+  Di hai apni bhi haath bhi bandhaaye hai
   Sabr o zabt ke jauhar qaum ko dikhaaye haiṅ
 ---
 

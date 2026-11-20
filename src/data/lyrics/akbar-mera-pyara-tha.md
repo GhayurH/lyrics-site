@@ -11,49 +11,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jivan ka asasa tha piri ka sahara tha
+  Jivan ka asaasa tha piri ka sahaara tha
   Kya jaane wo kya kya tha
-  Akbar mera pyara tha raaj dulara tha
+  Akbar mera pyaara tha raaj dulaara tha
 
   1
-  Akbar ki jawani par sau jaan se fida madar
-  Ae kaash use dekhuṅ ek baar nazar bhar kar
-  Wo ankhoṅ ka taara tha raaj dulara tha
+  Akbar ki jawaani par sau jaan se fida madar
+  Ae kaash use dekhuṅ ik baar nazar bhar kar
+  Wo aaṅkhoṅ ka taara tha raaj dulaara tha
 
   2
-  Ye din the jawani ke akbar teri shadi ke
-  Kis tarha lute armaan teri maa dukhiyari ke
-  Aisa to na socha tha raaj dulara tha
+  Ye din the jawaani ke Akbar teri shaadi ke
+  Jis tarah lute armaan teri maaṅ dukhiyaari ke
+  Aisa to na socha tha raaj dulaara tha
 
   3
-  Kya khub wo surat thi nana ki shabahat thi
-  Wabasta bahot tumse apno ki mohabbat thi
-  Wo sab ka dulara tha raaj dulara tha
+  Kya khub wo surat thi naana ki sohbat thi
+  Waabasta bahut tum se apnoṅ ki mohabbat thi
+  Wo sab ka dulaara tha raaj dulaara tha
 
   4
-  Ek daaghe alam dekar kis samt chale akbar
-  Sar kham kiye rokar beta teri rahoṅ par
-  Bab ka ye naala tha raaj dulara tha
+  Ik daagh ilm dekar kis samt chale Akbar
+  Sar kham kiye ro kar baitha teri raahoṅ par
+  Baap ka ye naala tha raaj dulaara tha
 
   5
-  Sine meiṅ jo bhala hai is dil meiṅ bhi uthra hai
-  Kaise ye sahum sadma ye maa ka kaleja hai
-  Wo nazoṅ ka paala tha raaj dulara tha
+  Sine meiṅ jo bhaala hai is dil meiṅ bhi utra hai
+  Kaise ye sahw sadma ye maaṅ ka kaleja hai
+  Wo naazoṅ ka paala tha raaj dulaara tha
 
   6
-  Maidan se jo aate tum aur maa ko bulate tum
-  Pani mai tumhe deti aur pyaas bujhate tum
-  Kya maa ko pukara tha raaj dulara tha
+  Maidaan se jo aate tum aur maaṅ ko bulaate tum
+  Paani main tumheiṅ deti aur pyaas bhujaati tum
+  Kya maaṅ ko pukaara tha raaj dulaara tha
 
   7
-  Jab yaad teri aaye dil tumko kahaṅ paye
-  Itna to bata jao madar ye kahaṅ jaye
-  Yuṅ mujhko rulana tha raaj dulara tha
+  Jab yaad teri aaye dil tum ko kahaaṅ paaye
+  Itna to bata jaao madaar ye kahaaṅ jaaye
+  Yuṅ mujh ko rulaana tha raaj dulaara tha
 
   8
-  Jab ali shanawar ye zikre gham sunata hai
-  Zakira ka ye noha har maa ko rulaata hai
-  Gham ye kitna gehra tha raaj dulara tha
+  Jab Ali Shanawar ye zikr-e-gham sunaata hai
+  Zaakira ka ye noha har maaṅ ko rulaata hai
+  Gham ye kitna gehra tha raaj dulaara tha
 ---
 
 جیون کا اثاثہ تھا پیری کا سہارا تھا

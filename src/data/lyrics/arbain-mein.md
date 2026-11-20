@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maula bula lo Karbobala Arbain meiṅ
+  Maula bula lo Karb o Bala Arbain meiṅ
   Karte haiṅ sogwaar dua Arbain meiṅ
 
   1
@@ -36,8 +36,8 @@ romanLyrics: |-
   Jaayeṅ Najaf se Karb o Bala Arbain meiṅ
 
   5
-  Maaṅ baap se kiya hai ye waada dikhaaunga
-  Maiṅ aap ko Husain ki duniya dikhaaunga
+  Maaṅ baap se kiya hai ye waada dikhaauṅga
+  Maiṅ aap ko Husain ki duniya dikhaauṅga
   Karna hai mujhko waada wafa Arbain meiṅ
 
   6

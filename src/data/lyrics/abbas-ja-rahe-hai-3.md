@@ -13,9 +13,9 @@ romanLyrics: |-
   Saqqa-e-haram sunte hai pyaasoṅ ki sadaayeṅ
 
   1
-  Abbas ko tarpati hai khaimoṅ ki fizaayeṅ
-  Is tarha se mashkiza bhara nahr pe ghazi
-  Chhu paaye na Abbas ko darya ki hawaayeṅ
+  Abbas ko tarapti hai khaimoṅ ki fizaayeṅ
+  Is tarah se mashkiza bharaa nahr pe ghaazi
+  Chhu paaye na Abbas ko daryaa ki hawaayeṅ
   Abbas jaa rahe haiṅ
   Hosh o hawaas le kar
   Bachchoṅ ki aas le kar
@@ -23,9 +23,9 @@ romanLyrics: |-
   2
   Aankhoṅ meiṅ pyaas le kar
   Abbas jaa rahe haiṅ...
-  Ab gham ki inteha hai
-  Khaimoṅ meiṅ ghul macha hai
-  Ek majlis-e-aza hai
+  Ab gham ki intehaa hai
+  Khaimoṅ meiṅ ghul machaa hai
+  Ek majlis-e-azaa hai
   Abbas jaa rahe haiṅ...
 
   3
@@ -33,11 +33,11 @@ romanLyrics: |-
   Thi jaise ek sawaali
   Saqqe ne hai uthaa li
   Abbas jaa rahe haiṅ...
-  Haathoṅ ko de ke ghazi
+  Haathoṅ ko de ke ghaazi
   Jiti hai ran meiṅ baazi
 
   4
-  Pyaasa hai ab namazi
+  Pyaasaa hai ab namaazi
   Abbas jaa rahe haiṅ...
   Abr o falak hai zakhmi
   Farq-e-falak hai zakhmi
@@ -45,9 +45,9 @@ romanLyrics: |-
   Abbas jaa rahe haiṅ...
 
   5
-  Gurz-e-sitam laga hai
-  Tir-e-sitam chala hai
-  Qalb-e-falak hila hai
+  Gurz-e-sitam lagaa hai
+  Tir-e-sitam chalaa hai
+  Qalb-e-falak hilaa hai
   Abbas jaa rahe haiṅ...
   Mashk o alam mile haiṅ
   Ahl-e-haram mile haiṅ
@@ -55,9 +55,9 @@ romanLyrics: |-
   6
   Loh o qalam mile haiṅ
   Abbas jaa rahe haiṅ...
-  Saabir hai bawafa hai
+  Saabir hai baawafaa hai
   Farzand-e-Fatema hai
-  Iqbal gham nawa hai
+  Iqbal gham nawaa hai
   Abbas jaa rahe haiṅ...
 ---
 

@@ -1,35 +1,60 @@
 ---
-title: "Kya Biyaan Ho Mujh Se Azmat Syed-e-Sajjad Ki"
+title: "کیا بیاں ہو مجھ سے عظمتِ سیدِ سجاد کی"
+alternateTitle: "Kya Biyaan Ho Mujh Se Azmat Syed-e-Sajjad Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kya biyaan ho mujh se azmat Syed-e-Sajjad ki
+  Anbiya kartay hain midhat Syed-e-Sajjad ki
+  Baap ka chehra nazar aata tha jab hi roz-o-shab
+  Chomtay Sarwar they sorat Syed-e-Sajjad ki
+
+  2
+  Sun howa darbar youn beemar ne khutba diya
+  Aaj tak tari hai haibat Syed-e-Sajjad ki
+  Apne sajdoon se munawar kar gaya Islam ko
+  Kartay hain sajday bhi izzat Syed-e-Sajjad ki
+
+  3
+  Aaj ki soyi hoi dunya se kya ho pochtay
+  Poch lo Fizza se jurat Syed-e-Sajjad ki
+  Sabar karna tha wagarna Sham ho jati tabah
+  Kya bataon kya thi taqat Syed-e-Sajjad ki
+
+  4
+  Ashiqan-e-Karbala ke dil ki hai yeh aarzu
+  Dekh lein aankhon se turbat Syed-e-Sajjad ki
+  Waqt-e-aakhir hai dua Afraz ki aye Ya Ali
+  Mere honton pe ho midhat Syed-e-Sajjad ki
 ---
 
-1
-Kya Biyaan Ho Mujh Se Azmat Syed-e-Sajjad Ki.
-Anbiya Kartay Hain Midhat Syed-e-Sajjad Ki.
-Baap Ka Chehra Nazar Aata Tha Jab Hi Roz-o-Shab.
-Chomtay Sarwar They Sorat Syed-e-Sajjad Ki.
+۱
+کیا بیاں ہو مجھ سے عظمتِ سیدِ سجاد کی
+انبیا کرتے ہیں مدحت سیدِ سجاد کی
+باپ کا چہرہ نظر آتا تھا جب ہی روز و شب
+چومتے سرور تھے صورت سیدِ سجاد کی
 
-2
-Sun Howa Darbar Youn Beemar Ne Khutba Diya.
-Aaj Tak Tari Hai Haibat Syed-e-Sajjad Ki.
-Apne Sajdoon Se Munawar Kar Gaya Islam Ko.
-Kartay Hain Sajday Bhi Izzat Syed-e-Sajjad Ki.
+۲
+سُن ہوا دربار یوں بیمار نے خطبہ دیا
+آج تک طاری ہے ہیبت سیدِ سجاد کی
+اپنے سجدوں سے منور کر گیا اسلام کو
+کرتے ہیں سجدے بھی عزت سیدِ سجاد کی
 
-3
-Aaj Ki Soyi Hoi Dunya Se Kya Ho Pochtay.
-Poch Lo Fizza Se Jurat Syed-e-Sajjad Ki.
-Sabar Karna Tha Wagarna Sham Ho Jati Tabah.
-Kya Bataon Kya Thi Taqat Syed-e-Sajjad Ki.
+۳
+آج کی سوئی ہوئی دنیا سے کیا ہو پوچھتے
+پوچھ لو فضہ سے جرأت سیدِ سجاد کی
+صبر کرنا تھا وگرنہ شام ہو جاتی تباہ
+کیا بتاؤں کیا تھی طاقت سیدِ سجاد کی
 
-4
-Ashiqan-e-Karbala Ke Dil Ki Hai Yeh Aarzu.
-Dekh Lein Aankhon Se Turbat Syed-e-Sajjad Ki.
-Waqt-e-Aakhir Hai Dua Afraz Ki Aye Ya Ali.
-Mere Honton Pe Ho Midhat Syed-e-Sajjad Ki.
+۴
+عاشقانِ کربلا کے دل کی ہے یہ آرزو
+دیکھ لیں آنکھوں سے تربت سیدِ سجاد کی
+وقتِ آخر ہے دعا افراز کی اے یا علی
+میرے ہونٹوں پہ ہو مدحت سیدِ سجاد کی

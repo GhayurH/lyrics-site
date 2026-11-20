@@ -1,6 +1,6 @@
 ---
 title: "بہ یاد سبط نبی جو بہاے جاتے ہیں"
-alternateTitle: "Matame Husaiṅ"
+alternateTitle: "Matam-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ba yaad e sibte nabi jo bahaye jaate hai
-  Un aansuoṅ se muqaddar banaye jaate hai
-  Yaqiṅ na ho to wahin karbal meiṅ chal kar dekh
-  Kaise tamaam se jangal basaye jaate hai
-  Udu-e-aal ko zid hai ke zikre aal na ho
-  Kahiṅ ye naam bhi dil se bhulaye jaate hai
-  Ruk na paaya kabhi ruk na payega ye gham tera
+  Ba yaad-e-sibt-e-Nabi jo bahaaye jaate haiṅ
+  Un aaṅsuoṅ se muqaddar banaaye jaate haiṅ
+  Yaqiṅ na ho to wahi Karbal mein chal kar dekh
+  Kaise tamaam se jangal basaaye jaate haiṅ
+  Adu-e-aal ko zid hai ke zikr-e-aal na ho
+  Kahiṅ ye naam bhi dil se bhulaaye jaate haiṅ
+  Ruk na paaya kabhi ruk na paaye ga ye gham tera
   Arsh se farsh tak farsh se arsh tak hai sada
   Matam tera hai maujiza matam tera
-  Hai marze la dawa ki dawa matame Husain
-  Mushkil meiṅ behterin dua matame Husain
-  Marta hai jism ruh meiṅ hoti hai zindagi
-  Ruh ki hai behterin ghiza matame Husain
-  Hai marze la dawa ki...
-  Tarikh dekh asr e shahidaṅ se aaj tak
-  Karte rahe hai arz o samaa matame Husain
-  Hai marze la dawa ki...
-  Ye ehd hai wafa hai ta'alluk hai baqt hai
-  Mesaak se hi hum ne chuna matame Husain
-  Hai marze la dawa ki...
-  Is matame Husain ki waaris butul hai
-  Wirse meiṅ jis ne hum ko diya matame Husain
-  Hai marze la dawa ki...
-  Maa loriyoṅ meiṅ nauhe sunaati rahi hameiṅ
-  Hum ne to apni maa se liya matame Husain
-  Hai marze la dawa ki...
-  Pooca khuda ne laaye ho zaad e nijaat kya
-  Maiṅ ne basad yaqiṅ kaha matame Husain
-  Hai marze la dawa ki...
-  Ae aashiqane aale mohamed na chorna
-  Ishq-e-ali namaze khuda matame Husain
-  Hai marze la dawa ki...
-  Jisko ye gham mila hai wohi khush nasib hai
-  Farshe aza meiṅ darse wila matame Husain
-  Hai marze la dawa ki...
-  Ashur ki sehar se ghariboṅ ki shaam tak
-  Karti hai soghwaar fiza matame Husain
-  Hai marze la dawa ki...
-  Jiski qabuliyat meiṅ na shak hai na dayr hai
-  Mere har ek amal se bhala matame Husain
-  Hai marze la dawa ki...
-  Dashte bala ki rayt pe bhai tha bekafan
-  Karti rahi behan ki rida matame Husain
-  Hai marze la dawa ki...
-  Sidhra se jibrail ne mujhko ye di khabar
-  Shaukat raza khuda ki raza matame Husain
-  Hai marze la dawa ki...
+  Hai marz-e-la dawa ki dawa matam-e-Husain
+  Mushkil mein behtarin dua matam-e-Husain
+  Marta hai jism ruh mein hoti hai zindagi
+  Ruh ki hai behtarin ghiza matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Taarikh dekh asr-e-shahidaaṅ se aaj tak
+  Karte rahe haiṅ arz o samaaṅ matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Ye ahd hai wafa hai taalluq hai bakht hai
+  Misaaq se hi hum ne chuna matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Is matam-e-Husain ki waaris Batul hai
+  Wirsa mein jis ne hum ko diya matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Maaṅ loriyoṅ mein nauhe sunaati rahi hameṅ
+  Hum ne to apni maaṅ se liya matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Puchha Khuda ne laaye ho zaad-e-nijaat kya
+  Main ne basad yaqiṅ kaha matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Ae aashiqaan-e-aal-e-Muhammad na chhorna
+  Ishq-e-Ali namaaz-e-Khuda matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Jis ko ye gham mila hai wahi khush nasib hai
+  Farsh-e-aza mein dars-e-wila matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Aashur ki sahar se ghariboṅ ki shaam tak
+  Karti hai sogwaar fiza matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Jis ki qabuliyat mein na shak hai na der hai
+  Mere har ek amal se bhala matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Dasht-e-bala ki ret pe bhaai tha bekafan
+  Karti rahi bahan ki rida matam-e-Husain
+  Hai marz-e-la dawa ki...
+  Sidra se Jibrail ne mujhko ye di khabar
+  Shaukat Raza Khuda ki raza matam-e-Husain
+  Hai marz-e-la dawa ki...
 ---
 
 ۱

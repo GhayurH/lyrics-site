@@ -26,7 +26,7 @@ romanLyrics: |-
   Din-e-Yaawar ke liye
 
   3
-  Sar bahattar laaye hai
+  Sar bahattar laaya hai
   Nazr-e-Daawar ke liye
 
   4

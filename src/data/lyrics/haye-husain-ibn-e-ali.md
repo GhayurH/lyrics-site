@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Husaina Husaina mazlum Karbobala
 
-  Sada rahegi tumhaari ye azaadaari
+  Sada rahe gi tumhaari ye azaadaari
   Haye Husaina ibn-e-Ali
   Diloṅ meiṅ gham ho laboṅ par ho sada jaari
   Haye Husaina ibn-e-Ali
@@ -22,7 +22,7 @@ romanLyrics: |-
   1
   Hum rahe ya na raheṅ gham ye aabaad rahe
   Har qadam Karbobala dam ba dam yaad rahe
-  Jab talak saaṅs chale jab talak jaan rahe
+  Jab talak saans chale jab talak jaan rahe
   Silsila jaari rahe sheh ka maatam na ruke
   Diloṅ meiṅ yaad rahe hamesha tumhaari
   Haye Husaina ibn-e-Ali
@@ -32,7 +32,7 @@ romanLyrics: |-
   Jo sar-e-Karbobala bekhata maara gaya
   Apna sab din ke liye jis ne qurbaan kiya
   Pyaasa duniya se gaya bekafan bhi jo raha
-  Zamaana karta rahega ye aah o zaari
+  Zamaana karta rahe ga ye aah o zaari
   Haye Husaina ibn-e-Ali
 
   3

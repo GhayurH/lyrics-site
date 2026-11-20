@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Sakina Mai"]
 published: true
 romanLyrics: |-
-  Zindan meiṅ Sajjad buka karte the ro kar
+  Zindaan meiṅ Sajjaad buka karte the ro kar
 
   Ae Sakina maiṅ teri laash uthaauṅ kaise
   In lainoṅ se kafan tujhko dilaauṅ kaise
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   2
   Is gharibi meiṅ tujhe haye qaza aayi hai
-  Jakra zanjiroṅ meiṅ is waqt tera bhai hai
+  Jakre zanjiroṅ meiṅ is waqt tera bhai hai
   Aakhri baar kaleje se lagaauṅ kaise
 
   3
@@ -42,14 +42,14 @@ romanLyrics: |-
   Ae behan maiṅ tere zakhmoṅ ko bhulaauṅ kaise
 
   5
-  Tu jo roti thi to dil mera tarap jaata tha
+  Tu jo roti to dil mera tarap jaata tha
   Rehm tujh par na koi ahl-e-sitam khaata tha
   In ghamoṅ ko maiṅ kaleje se mitaauṅ kaise
 
   6
   Bhai ke haathoṅ pe tha laasha behan ka Mazhar
   Bain karte the haram dekh ke gham ka manzar
-  Nauha Sajjad ka Safdar maiṅ sunaauṅ kaise
+  Nauha Sajjaad ka Safdar maiṅ sunaauṅ kaise
 ---
 زندان میں سجاد بکا کرتے تھے رو کر
 

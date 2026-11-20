@@ -1,76 +1,139 @@
 ---
-title: "Labbaik Ya Imam Nadeem Sarwar"
+title: "لبیک یا امام ندیم سرور"
+alternateTitle: "Labbaik Ya Imam Nadeem Sarwar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Labbaik, labbaik, labaik ya Imam
+  Aaiye ya barhwein Imam
+  Kijiye zahoor ya Imam
+  Barh rahi hain zulm-o-jabar ki moheeb aandhiyaan
+  Gir rahi hain momino ke qalb-o-jaan pe bijliyaan
+  Uth rahi hain deen-e-Mustafa ki simt ungliyaan
+
+  2
+  Hujat-e-Khuda hain aap dein ko dijiye amma
+  Har qadam pe ab tu aik Karbala hai ya Imam
+  Har baras arezay mauj ke sapurd kar chukay
+  Zakhm-e-intezar se jigar hamarey bhar chukay
+  Kitne loag jee rahe hain kitne loag mar chukay
+  Zabt ke tamam raston se hum guzar chukay
+
+  3
+  Lab pe aap ke zahoor ki dua hai ya Imam
+  Chodah so baras se zulm seh rahe hain ya Imam
+  Raz-e-Karbala har ik se keh rahe hain ya Imam
+  Sheh ke gham mein ashk ab bhi beh rahe hain ya Imam
+  Zulm ke moqablay pe dat gaye hain ya Imam
+  Aap ka jo dil ko aik hosla hai ya Imam
+
+  4
+  Jad hain aap ke Ali, Ali hain shair-e-kibriya
+  Seerat-e-Batool kya hai, aap ka hai madrasa
+  Dars-e-sabar aap ne Hussain hi se hai liya
+  Khatama karein gay aap aa ke zulm-o-jabar ka
+  Sath aap ke dua-e-Syeda hai ya Imam
+  Gaib par yaqeen nahi jisay woh munkir-e-Khuda
+
+  5
+  Jis ko gaib par yaqeen hai woh parhey ga LaIlaha
+  LaIlaha parh ke ho gaya Rasool aashna
+  Jo Rasool aashna hai woh mohib hai aap ka
+  Yeh Nabi ka our Khuda ka faisla hai ya Imam
+  Aik do nahi kayi jawaan shaheed ho gaye
+  Karbala-e-asar mein sitam mazeed ho gaye
+
+  6
+  Zulm ke tamam silsilay shadeed ho gaye
+  Pairway Yazid aaj khud Yazid ho gaye
+  Aap ka Hussainiyon ko aasra hai ya Imam
+  Maon ne pisar behan ne bhai nazar kar deiye
+  Bachay bhi shaheed hoye sohag bhi ujar gaye
+  Baap ne gham-e-Hussain mein lahu jigar kiye
+
+  7
+  Jari aaj bhi hain majlis-e-azza ke silsilay
+  Aaiye keh Panjtan ka wasta hai ya Imam
+  Lash jab Hussain ne uthai thi jawan ki
+  Qabar jab banai thi sagheer be zaban ki
+  Aankh nam hoi thi jab zameen-o-aasman ki
+  Yaad hai wohi ghari Hussaini imtehan ki
+
+  8
+  Apna gham ossi sabab bhula diya ya Imam
+  Aslam alaik ya Imam-e-asar-wal-zamaan
+  Al-aman, al-aman aye Imam-e-ins-o-jaan
+  Alajal, al-ajal aye shareekat al-Quran
+  Aap ke zahoor ka hai muntazir sabhi jahan
+  :Sarwar-o-Rehan: ki bhi yeh sada hai ya Imam
 ---
 
-Labbaik Ya Imam Nadeem Sarwar Lyrics
+۱
+لبیک، لبیک، لبیک یا امام
+آئیے یا بارہویں امام
+کیجیے ظہور یا امام
+بڑھ رہی ہیں ظلم و جبر کی مہیب آندھیاں
+گر رہی ہیں مومنو کے قلب و جاں پہ بجلیاں
+اٹھ رہی ہیں دینِ مصطفیٰ کی سمت انگلیاں
 
-1
-Labbaik, Labbaik, Labaik Ya Imam.
-Aaiye Ya Barhwein Imam.
-Kijiye Zahoor Ya Imam.
-Barh Rahi Hain Zulm-o-Jabar Ki Moheeb Aandhiyaan.
-Gir Rahi Hain Momino Ke Qalb-o-Jaan Pe Bijliyaan.
-Uth Rahi Hain Deen-e-Mustafa Ki Simt Ungliyaan.
+۲
+حجتِ خدا ہیں آپ دین کو دیجیے اماں
+ہر قدم پہ اب تو ایک کربلا ہے یا امام
+ہر برس عریضے موج کے سپرد کر چکے
+زخمِ انتظار سے جگر ہمارے بھر چکے
+کتنے لوگ جی رہے ہیں کتنے لوگ مر چکے
+ضبط کے تمام راستوں سے ہم گزر چکے
 
-2
-Hujat-e-Khuda Hain Aap Dein Ko Dijiye Amma.
-Har Qadam Pe Ab Tu Aik Karbala Hai Ya Imam.
-Har Baras Arezay Mauj Ke Sapurd Kar Chukay.
-Zakhm-e-Intezar Se Jigar Hamarey Bhar Chukay.
-Kitne Loag Jee Rahe Hain Kitne Loag Mar Chukay.
-Zabt Ke Tamam Raston Se Hum Guzar Chukay.
+۳
+لب پہ آپ کے ظہور کی دعا ہے یا امام
+چودہ سو برس سے ظلم سہ رہے ہیں یا امام
+رازِ کربلا ہر اک سے کہہ رہے ہیں یا امام
+شہ کے غم میں اشک اب بھی بہہ رہے ہیں یا امام
+ظلم کے مقابلے پہ ڈٹ گئے ہیں یا امام
+آپ کا جو دل کو ایک حوصلہ ہے یا امام
 
-3
-Lab Pe Aap Ke Zahoor Ki Dua Hai Ya Imam.
-Chodah So Baras Se Zulm Seh Rahe Hain Ya Imam.
-Raz-e-Karbala Har Ik Se Keh Rahe Hain Ya Imam.
-Sheh Ke Gham Mein Ashk Ab Bhi Beh Rahe Hain Ya Imam.
-Zulm Ke Moqablay Pe Dat Gaye Hain Ya Imam.
-Aap Ka Jo Dil Ko Aik Hosla Hai Ya Imam.
+۴
+جد ہیں آپ کے علی، علی ہیں شیرِ کبریا
+سیرتِ بتول کیا ہے، آپ کا ہے مدرسہ
+درسِ صبر آپ نے حسین ہی سے ہے لیا
+خاتمہ کریں گے آپ آ کے ظلم و جبر کا
+ساتھ آپ کے دعائے سیدہ ہے یا امام
+غیب پر یقین نہیں جسے وہ منکرِ خدا
 
-4
-Jad Hain Aap Ke Ali, Ali Hain Shair-e-Kibriya.
-Seerat-e-Batool Kya Hai, Aap Ka Hai Madrasa.
-Dars-e-Sabar Aap Ne Hussain Hi Se Hai Liya.
-Khatama Karein Gay Aap Aa Ke Zulm-o-Jabar Ka.
-Sath Aap Ke Dua-e-Syeda Hai Ya Imam.
-Gaib Par Yaqeen Nahi Jisay Woh Munkir-e-Khuda.
+۵
+جس کو غیب پر یقین ہے وہ پڑھے گا لا الٰہ
+لا الٰہ پڑھ کے ہو گیا رسول آشنا
+جو رسول آشنا ہے وہ محب ہے آپ کا
+یہ نبی کا اور خدا کا فیصلہ ہے یا امام
+ایک دو نہیں کئی جوان شہید ہو گئے
+کربلائے عصر میں ستم مزید ہو گئے
 
-5
-Jis Ko Gaib Par Yaqeen Hai Woh Parhey Ga LaIlaha.
-LaIlaha Parh Ke Ho Gaya Rasool Aashna.
-Jo Rasool Aashna Hai Woh Mohib Hai Aap Ka.
-Yeh Nabi Ka Our Khuda Ka Faisla Hai Ya Imam.
-Aik Do Nahi Kayi Jawaan Shaheed Ho Gaye.
-Karbala-e-Asar Mein Sitam Mazeed Ho Gaye.
+۶
+ظلم کے تمام سلسلے شدید ہو گئے
+پیروِ یزید آج خود یزید ہو گئے
+آپ کا حسینیوں کو آسرا ہے یا امام
+ماؤں نے پسر بہن نے بھائی نذر کر دیے
+بچے بھی شہید ہوئے سہاگ بھی اجڑ گئے
+باپ نے غمِ حسین میں لہو جگر کیے
 
-6
-Zulm Ke Tamam Silsilay Shadeed Ho Gaye.
-Pairway Yazid Aaj Khud Yazid Ho Gaye.
-Aap Ka Hussainiyon Ko Aasra Hai Ya Imam.
-Maon Ne Pisar Behan Ne Bhai Nazar Kar Deiye.
-Bachay Bhi Shaheed Hoye Sohag Bhi Ujar Gaye.
-Baap Ne Gham-e-Hussain Mein Lahu Jigar Kiye.
+۷
+جاری آج بھی ہیں مجلسِ عزا کے سلسلے
+آئیے کہ پنجتن کا واسطہ ہے یا امام
+لاش جب حسین نے اٹھائی تھی جواں کی
+قبر جب بنائی تھی صغیر بے زباں کی
+آنکھ نم ہوئی تھی جب زمین و آسماں کی
+یاد ہے وہی گھڑی حسینی امتحان کی
 
-7
-Jari Aaj Bhi Hain Majlis-e-Azza Ke Silsilay.
-Aaiye Keh Panjtan Ka Wasta Hai Ya Imam.
-Lash Jab Hussain Ne Uthai Thi Jawan Ki.
-Qabar Jab Banai Thi Sagheer Be Zaban Ki.
-Aankh Nam Hoi Thi Jab Zameen-o-Aasman Ki.
-Yaad Hai Wohi Ghari Hussaini Imtehan Ki.
-
-8
-Apna Gham Ossi Sabab Bhula Diya Ya Imam.
-Aslam Alaik Ya Imam-e-Asar-Wal-Zamaan.
-Al-Aman, Al-Aman Aye Imam-e-Ins-o-Jaan.
-Alajal, Al-Ajal Aye Shareekat Al-Quran.
-Aap Ke Zahoor Ka Hai Muntazir Sabhi Jahan.
-:SARWAR-o-REHAN: Ki Bhi Yeh Sada Hai Ya Imam.
+۸
+اپنا غم اسی سبب بھلا دیا یا امام
+السلام علیک یا امامِ عصر و الزماں
+الاماں، الاماں اے امامِ انس و جاں
+العجل، العجل اے شریکۃ القرآن
+آپ کے ظہور کا ہے منتظر سبھی جہاں
+سرور و ریحان کی بھی یہ صدا ہے یا امام

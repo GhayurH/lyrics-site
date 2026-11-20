@@ -1,40 +1,97 @@
 ---
-title: "Kehte The Rokar Ali Fatemah Ladak"
+title: "کہتے تھے رو کر علی فاطمہ لڈک"
+alternateTitle: "Kehte The Rokar Ali Fatemah Ladak"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kehte they ro kar Ali khoon sar se behta dekh kar
+  Meri Zainab mar na jaye haal mera dekh kar
+
+  1
+  Zakhm baba ka sahein gi kis tarha ab betiyaan
+  Cheer dalein gi jigar Haider ka unn ki siskiyaan
+  Seh na paein maa ko jo khatay tamacha dekh kar
+
+  2
+  Khoon ki surkhi maut ban kar youn Ali par cha gayi
+  Zainab-o-Kulsoom ko maa Fatima yaad aa gayi
+  Zakhm-e-Zahra sa Ali ka zakhm gehra dekh kar
+
+  3
+  Ho ga kya kal ko woh sab dikhla diya ik zarb ne
+  Marna hai betiyon ko kaisay kaisay karb ne
+  Betiyon ko ro paray hasrat se Maula dekh kar
+
+  4
+  Jab Ali Kofay ke bazaron mein chalte they kabhi
+  Aankhon mein phirtay they aane walay kal manzar sabhi
+  Haye Zainab kehte they har aik rasta dekh kar
+
+  5
+  Ho gi kal meri wilayat ke liye Zainab aseer
+  Hurmala ban kar yeh Kofi marein gay tano ke teer
+  Marey ga pathar meri beti ko Kofa dekh kar
+
+  6
+  Ro rahi ho tum abhi tu dekh kar Zainab mujhe
+  Baad Ali ke our bhi aanso bahane hain tujhe
+  Rona hai tukray Hasan ka bhi kaleja dekh kar
+
+  7
+  Panjtan ke gham mein meri betiyon ne jeena hai
+  Taziyane zalimo se kha ke aanso peena hai
+  Dasht mein Shabeer ka tukron mein lasha dekh kar
+
+  8
+  Jab Asad-o- Fatemah taboot Haider ka utha
+  Ro ro ke Fizza sada deti thi haye Fatima
+  Baap ka bachoon ke sar se saya uthta dekh kar
 ---
 
-1
-Kehte The Rokar Ali Fatemah Ladak Lyrics
-Kehte They Ro Kar Ali Khoon Sar Se Behta Dekh Kar.
-Meri Zainab Mar Na Jaye Haal Mera Dekh Kar.
-Zakhm Baba Ka Sahein Gi Kis Tarha Ab Betiyaan.
-Cheer Dalein Gi Jigar Haider Ka Unn Ki Siskiyaan.
-Seh Na Paein Maa Ko Jo Khatay Tamacha Dekh Kar.
-Khoon Ki Surkhi Maut Ban Kar Youn Ali Par Cha Gayi.
-Zainab-o-Kulsoom Ko Maa Fatima Yaad Aa Gayi.
-Zakhm-e-Zahra Sa Ali Ka Zakhm Gehra Dekh Kar.
-Ho Ga Kya Kal Ko Woh Sab Dikhla Diya Ik Zarb Ne.
-Marna Hai Betiyon Ko Kaisay Kaisay Karb Ne.
-Betiyon Ko Ro Paray Hasrat Se Maula Dekh Kar.
-Jab Ali Kofay Ke Bazaron Mein Chalte They Kabhi.
-Aankhon Mein Phirtay They Aane Walay Kal Manzar Sabhi.
-Haye Zainab Kehte They Har Aik Rasta Dekh Kar.
-Ho Gi Kal Meri Wilayat Ke Liye Zainab Aseer.
-Hurmala Ban Kar Yeh Kofi Marein Gay Tano Ke Teer.
-Marey Ga Pathar Meri Beti Ko Kofa Dekh Kar.
-Ro Rahi Ho Tum Abhi Tu Dekh Kar Zainab Mujhe.
-Baad Ali Ke Our Bhi Aanso Bahane Hain Tujhe.
-Rona Hai Tukray Hasan Ka Bhi Kaleja Dekh Kar.
-Panjtan Ke Gham Mein Meri Betiyon Ne Jeena Hai.
-Taziyane Zalimo Se Kha Ke Aanso Peena Hai.
-Dasht Mein Shabeer Ka Tukron Mein Lasha Dekh Kar.
-Jab Asad-o- Fatemah Taboot Haider Ka Utha.
-Ro Ro Ke Fizza Sada Deti Thi Haye Fatima.
-Baap Ka Bachoon Ke Sar Se Saya Uthta Dekh Kar.
+کہتے تھے رو کر علی خون سر سے بہتا دیکھ کر
+میری زینب مر نہ جائے حال میرا دیکھ کر
+
+۱
+زخم بابا کا سہیں گی کس طرح اب بیٹیاں
+چیر ڈالیں گی جگر حیدر کا ان کی سسکیاں
+سہ نہ پائیں ماں کو جو کھاتے طمانچہ دیکھ کر
+
+۲
+خون کی سرخی موت بن کر یوں علی پر چھا گئی
+زینب و کلثوم کو ماں فاطمہ یاد آ گئی
+زخمِ زہرا سا علی کا زخم گہرا دیکھ کر
+
+۳
+ہو گا کیا کل کو وہ سب دکھلا دیا اک ضرب نے
+مارنا ہے بیٹیوں کو کیسے کیسے کرب نے
+بیٹیوں کو رو پڑے حسرت سے مولا دیکھ کر
+
+۴
+جب علی کوفے کے بازاروں میں چلتے تھے کبھی
+آنکھوں میں پھرتے تھے آنے والے کل منظر سبھی
+ہائے زینب کہتے تھے ہر ایک رستہ دیکھ کر
+
+۵
+ہو گی کل میری ولایت کے لیے زینب اسیر
+حرملہ بن کر یہ کوفی ماریں گے تانوں کے تیر
+مارے گا پتھر میری بیٹی کو کوفہ دیکھ کر
+
+۶
+رو رہی ہو تم ابھی تو دیکھ کر زینب مجھے
+بعد علی کے اور بھی آنسو بہانے ہیں تجھے
+رونا ہے ٹکڑے حسن کا بھی کلیجہ دیکھ کر
+
+۷
+پنجتن کے غم میں میری بیٹیوں نے جینا ہے
+تازیانے ظالموں سے کھا کے آنسو پینا ہے
+دشت میں شبیر کا ٹکڑوں میں لاشہ دیکھ کر
+
+۸
+جب اسد و فاطمہ تابوت حیدر کا اٹھا
+رو رو کے فضہ صدا دیتی تھی ہائے فاطمہ
+باپ کا بچوں کے سر سے سایہ اٹھتا دیکھ کر

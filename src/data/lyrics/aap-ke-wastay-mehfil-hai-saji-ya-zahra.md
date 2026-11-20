@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aap ke wastay mehfil hai saji ya Zahra
-  Iss liye bazm mein ronaq hai bari ya Zahra
-  Kyun na pur noor ho mehfil yeh tere aane ki
-  Iss mein shamil hain sabhi aal-e-Nabi ya Zahra
+  Aap ke waaste mehfil hai saji ya Zahra
+  Is liye bazm mein ronaq hai bari ya Zahra
+  Kiuṅ na purnur ho mehfil yeh tere aane ki
+  Is mein shaamil hain sabhi aal-e-Nabi ya Zahra
 
   2
-  Kyun na mangein jo dil chahe rasool-e-haq se
-  Hai Muhammad ko mili rab se khushi ya Zahra
-  Howa sar sabz gulsitan-e-risalat hai aaj
-  Bag-e-Ahmad mein khili aap kali ya Zahra
+  Kiuṅ na maangeṅ jo dil chaahe rasul-e-haq se
+  Hai Muhammad ko mili Rab se khushi ya Zahra
+  Hua sarsabz gulsitaan-e-risaalat hai aaj
+  Baagh-e-Ahmad mein khili aap kali ya Zahra
 
   3
-  Noor se aap ke roshan hai payamber ka ghar
-  Zaib-e-Aagosh-e-Khadija hai bani ya Zahra
-  Do jahan ke liye rehmat hai rasool-e-bar haq
-  Our oss ke liye rehmat hai bani ya Zahra
+  Nur se aap ke roshan hai payambar ka ghar
+  Zeb-e-aaghosh-e-Khadija hai bani ya Zahra
+  Do jahaaṅ ke liye rehmat hai rasul-e-barhaq
+  Aur us ke liye rehmat hai bani ya Zahra
 
   4
-  Na Muhammad na Ali khalq Khuda karta agar
-  Khalq karta na tumhein bint-e-Nabi ya Zahra
-  Faida ishq-e-Nabi unn ko nahi de ga kabhi
-  Jin se razi nahi hai bint-e-Nabi ya Zahra
+  Na Muhammad na Ali khalq Khuda kartaa agar
+  Khalq kartaa na tumheṅ bint-e-Nabi ya Zahra
+  Faida ishq-e-Nabi un ko nahiṅ de ga kabhi
+  Jin se raazi nahiṅ hai bint-e-Nabi ya Zahra
 
   5
-  Koi sail tere darwazay se khali na gaya
-  Kaisay likhon main yeh kitni hain sakhi ya Zahra
-  Aap ke hi tu tasadduq se mujhe milta hai
-  Rizq mein aaye gi phir kaisay kami ya Zahra
+  Koi saail tere darwaaze se khaali na gayaa
+  Kaise likhuṅ main yeh kitni hain sakhi ya Zahra
+  Aap ke hi to tasadduq se mujhe milta hai
+  Rizq mein aaye gi phir kaise kami ya Zahra
 
   6
-  Ho woh Salman-o-Abuzar ya ho Qamber, Fizza
-  Nokari aap ke dar ki jo hai ki ya Zahra
-  Mohtasham apne muqadar pe hai nazaan tab se
+  Ho woh Salmaan o Abuzar ya ho Qanbar, Fizza
+  Naukari aap ke dar ki jo hai ki ya Zahra
+  Mohtasham apne muqaddar pe hai naazaaṅ tab se
   Manqabat aap ki jab se hai likhi ya Zahra
 ---
 

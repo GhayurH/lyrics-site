@@ -1,35 +1,59 @@
 ---
-title: "Haye Na Ro Maa Jhole Di Phar Ke Dori Lyrics Punjabi 2025 Latest"
+title: "ہائے نہ رو ماں جھولے دی پھڑ کے ڈوری"
+alternateTitle: "Haye Na Ro Maa Jhole Di Phar Ke Dori"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Soz"
 poet: "Akhtar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye na ro maa jhole di phar ke dori
+  Meri qabar nu jhola samajh lawein mainu nezay denday lori
+  Mainu jholi wich bitha le ik wari seene la le
+  Tainu millan main aayiyaan chan Baba adhi rati sab taun chori
+
+  2
+  Mazloom Hussain de dil te ki beeti Rab hi janrey
+  Jadon Sainr Sakina zalim ne haye jhirkaan de ke tori
+  Panri di aas v muk gayi Shabbir taun kursi chut gayi
+  Jadon nezay de naal zalim ne haye mashk panri di rori
+
+  3
+  Be warsaan wangoon roway lashaan wich ja ke khaloway
+  Kayi waar Sakina maqtal choon Fizza ne aanr ke mori
+  Jadon alam Abbas da aaya Masooma gal nal laya
+  Asghar de khushk labaan te haye khali mashk nichori
+
+  4
+  Shabbir Furat de pasay Ghazi nu marey wajaan
+  Maithon Akbar chaya nahin janda mainu mar gayi kamzori
+  Akhtar di akh choon athro aye soch ke digday rainday
+  Kiwein Pak Hussain de bachray de seene wich barchi tori
 ---
 
-1
-Haye Na Ro Maa Jhole Di Phar Ke Dori.
-Meri Qabar Nu Jhola Samajh Lawein Mainu Nezay Denday Lori.
-Mainu Jholi Wich Bitha Le Ik Wari Seene La Le.
-Tainu Millan Main Aayiyaan Chan Baba Adhi Rati Sab Taun Chori.
+۱
+ہائے نہ رو ماں جھولے دی پھڑ کے ڈوری
+میری قبر نوں جھولا سمجھ لویں مینوں نیزے دیندے لوری
+مینوں جھولی وچ بٹھا لے اک واری سینے لا لے
+تینوں ملن میں آئیاں چن بابا ادھی راتی سب توں چوری
 
-2
-Mazloom Hussain De Dil Te Ki Beeti Rab Hi Janrey.
-Jadon Sainr Sakina Zalim Ne Haye Jhirkaan De Ke Tori.
-Panri Di Aas V Muk Gayi Shabbir Taun Kursi Chut Gayi.
-Jadon Nezay De Naal Zalim Ne Haye Mashk Panri Di Rori.
+۲
+مظلوم حسین دے دل تے کی بیتی رب ہی جاݨے
+جدوں سَیݨ سکینہ ظالم نے ہائے جھڑکاں دے کے توری
+پاݨی دی آس وی مک گئی شبیر توں کرسی چھٹ گئی
+جدوں نیزے دے نال ظالم نے ہائے مشک پاݨی دی روڑی
 
-3
-Be Warsaan Wangoon Roway Lashaan Wich Ja Ke Khaloway.
-Kayi Waar Sakina Maqtal Choon Fizza Ne Aanr Ke Mori.
-Jadon Alam Abbas Da Aaya Masooma Gal Nal Laya.
-Asghar De Khushk Labaan Te Haye Khali Mashk Nichori.
+۳
+بے وارثاں وانگوں رووے لاشاں وچ جا کے کھلووے
+کئی وار سکینہ مقتل چوں فضہ نے آݨ کے موڑی
+جدوں علم عباس دا آیا معصومہ گل نال لایا
+اصغر دے خشک لباں تے ہائے خالی مشک نچوڑی
 
-4
-Shabbir Furat De Pasay Ghazi Nu Marey Wajaan.
-Maithon Akbar Chaya Nahin Janda Mainu Mar Gayi Kamzori.
- Akhtar Di Akh Choon Athro Aye Soch Ke Digday Rainday.
-Kiwein Pak Hussain De Bachray De Seene Wich Barchi Tori.
+۴
+شبیر فرات دے پاسے غازی نوں مارے واجاں
+میتھوں اکبر چایا نہیں جاندا مینوں مار گئی کمزوری
+اختر دی اکھ چوں اتھرو آئے سوچ کے ڈگدے رہندے
+کیویں پاک حسین دے بچڑے دے سینے وچ برچھی توڑی

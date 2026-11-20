@@ -1,7 +1,7 @@
 ---
 title: "الوداع خیرالوریٰ میں جا رہا ہوں کربلا"
 recitationId: "alwida-mai-ja-raha"
-alternateTitle: "Alwida Maiṅ Ja Raha"
+alternateTitle: "Alwida Main Jaa Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,33 +12,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Alwida khairul wara maiṅ jaa raha huṅ Karbala
-  Tujh se ab hone juda maiṅ jaa raha huṅ Karbala
+  Alwida khairul wara main jaa raha huṅ Karbala
+  Tujh se ab hone juda main jaa raha huṅ Karbala
 
   1
   Martaba mera zamaane ko dikhaaya aap ne
   Meri khaatir ya Nabi sajda barhaaya aap ne
-  Sehne ab jaur o jafa maiṅ jaa raha huṅ Karbala
+  Sehne ab jaur o jafa main jaa raha huṅ Karbala
 
   2
   Turbat-e-Zehra pe aa ke Shaah-e-Karbala ne kaha
   Chhor kar ab qabr teri din pe hone fida
-  Maaṅ meri khairunnisa maiṅ jaa raha huṅ Karbala
+  Maaṅ meri khairunnisa main jaa raha huṅ Karbala
 
   3
   Waqt-e-rukhsat aap se hai bas yehi kehna mujhe
   Saaya ban kar Fatima Sughra pe rehna hai tujhe
-  Mere bhaiya Mujtaba maiṅ jaa raha huṅ Karbala
+  Mere bhaiya Mujtaba main jaa raha huṅ Karbala
 
   4
   Khun se apne charaagh-e-din jalaana hai mujhe
   Farsh ko arsh-e-mualla se milaana hai mujhe
-  Farz ye karne ada maiṅ jaa raha huṅ Karbala
+  Farz ye karne ada main jaa raha huṅ Karbala
 
   5
-  Waaṅ Zamir insaanoṅ ki yehi banegi darsgaah
-  Ye bataaye gi jahaṅ ko ret par sajda mera
-  Keh raha huṅ barmala maiṅ jaa raha huṅ Karbala
+  Waaṅ Zamir insaanoṅ ki yehi bane gi darsgaah
+  Ye bataaye gi jahaaṅ ko ret par sajda mera
+  Keh raha huṅ barmala main jaa raha huṅ Karbala
 ---
 الوداع خیرالوریٰ میں جا رہا ہوں کربلا
 تجھ سے اب ہونے جدا میں جا رہا ہوں کربلا

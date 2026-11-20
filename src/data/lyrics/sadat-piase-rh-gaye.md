@@ -8,73 +8,34 @@ poet: "Salman Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Pani Pilao
-
+romanLyrics: |-
+  Saadaat piyaase reh gaye
+  Paani piyo to yaad karo piyaas imaam ki
+  Piyaaso sabeel hai ye shahidoṅ ke naam ki
+  Khanjar tale Husain ko paani nahiṅ mila
+  Piyaaso karo qabool ye tohfa Husain ka
+  Chaahat hai ye Husain ki
+  Piyaaso sabeel hai ye...
 
   1
-
-  (Sadat Piyasey Reh Gaye)
-
-  Pani Piyo To Yaad Karo Payas Imam Ki
-
-  (Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki)
-
-  Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki
-
+  Jannat mein kar chuka hai Khuda jis ka ehtimaam
+  Kausar rakha hai aayat-e-Kausar mein jis ka naam
+  Jaagir ye sabeel hai baarah imaam ki
 
   2
-
-  Khanjer Taley Hussain ko Pani Nahi Mila
-
-  Payaso Karo Qabool Ye Tohfa Hussain Ka
-
-  Chahat Hai Ye Hussain Elaihe Salam Ki
-
-  Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki
-
+  Aati hai is sabeel pe ujri wo Bibiyaaṅ
+  Yaani Ali o Faatima Zahra ki betiyaaṅ
+  Ye baargaah bhi hai shah-e-tishna kaam ki
 
   3
-
-  Jannat Main Kar Chuka Hai Khuda Jiss Ka Ehtemam
-
-  Kousar Rakha Hai Aayat-e-Kousar Main Jiss Ka Naam
-
-  Jageer Ye Sabeel Hai Bara Imam Ki
-
-  Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki
-
+  Paani ka intizaar Sakina se puchhiye
+  Asghar ki maaṅ Rabaab-e-Hazina se puchhiye
+  Rasm-e-sabeel jis ne zamaane mein aam ki
 
   4
-
-  Aati Hain Iss Sabeel Pe Ujri Wo Bibiyaan
-
-  Yani Ali O Fatima Zahra Ki Betiyaan
-
-  Ye Bargaah Bhi Hai Shah-e-Tishna Kaam Ki
-
-  Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki
-
-
-  5
-
-  Pani Ka Intezaar Sakina Sey Poochhiye
-
-  Asghar Ki Maan Rabab-e-Hazeena Se Poochhiye
-
-  Rasm-e-Sabeel Jiss Ney Zamaney Main Aam Ki
-
-  Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki
-
-
-  6
-
-  Jab Karbala Shanawar O Salman Jain Gey
-
-  Payason Ke Naam Per Wahan Pani Pilain Gey
-
-  Zahra Ki Noukari Hai Ye Khidmat Imam Ki
-
-  Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki'
+  Jab Karbala Shanawar o Salman jaaeṅge
+  Piyaasoṅ ke naam par wahaaṅ paani pilaaeṅge
+  Zahra ki naukari hai ye khidmat imaam ki
 ---
 
 سادات پیاسے رہ گےء

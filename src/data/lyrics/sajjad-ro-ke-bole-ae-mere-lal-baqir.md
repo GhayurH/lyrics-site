@@ -9,61 +9,61 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajjad ro ke bole
-  Ae mere laal Baqar
+  Ae mere laal Baqir
 
   1
   Kar sabr mere beta
-  Khud to sambhal Baqar
+  Khud ko sambhal Baqir
 
   2
   Mat pit seena o sar
-  Mat kar tu aise Noha
-  Tar khun may huṅ laikin
+  Mat kar tu aise noha
+  Tar khun mein huṅ lekin
   Zinda abhi huṅ beta
-  Khak-e-safar ko sar par
-  Aise na daal Baqar
+  Khaak-e-safar ko sar par
+  Aise na daal Baqir
   Toq-e-garaṅ se teri
   Gardan bandhi hui hai
   Ye wazn hai ke jis se
   Kham pusht ho gayi hai
-  Zalim se rehm ka tu
-  Mat kar sawal Baqar
-  Din ki baqa ki khatir
-  Tu ne tamachay khaey
-  Tu wo Imam jis ne
-  Tifli may gham uthae
+  Zaalim se rehm ka tu
+  Mat kar sawaal Baqir
+  Din ki baqa ki khaatir
+  Tu ne sitam uthaae
+  Tu woh imam jis ne
+  Tifli mein gham uthaae
   Dunya na la sake gi
-  Teri misal Baqar
+  Teri misaal Baqir
   Har gaam imtihaaṅ haiṅ
   Aur Shaam ka safar hai
-  Beparda bibiyaṅ haiṅ
+  Beparda bibiyaaṅ haiṅ
   Aur Shaam ka safar hai
   Tujh ko rula raha hai
-  Bas ye khayal Baqar
-  Saidaniyoṅ ko zalim
+  Bas ye khayal Baqir
+  Saidaaniyoṅ ko zaalim
   Durre laga raha hai
   Un ka khayal mujh ko
   Har dam rula raha hai
   Gar ho sake to un ki
-  Mushkil ko taal Baqar
+  Mushkil ko taal Baqir
   Zad par hai ranj o gham ke
   Meri bahan Sakina
-  Rukhsar par tamache
-  Sehti hai wo hazeena
-  Ja kar meri bahan ko
-  Gham se nikal Baqar
-  Karb o bala ke ban may
+  Rukhsaar par tamaanche
+  Sehti hai woh hazina
+  Jaa kar meri bahan ko
+  Gham se nikaal Baqir
+  Karb o bala ke ban mein
   Gham tu ne jo sahe haiṅ
   Sadme jo tere dil par
-  Bazar may lage haiṅ
+  Baazaar mein lage haiṅ
   Ho ga na in ghamoṅ ka
-  Ab indimal Baqar
+  Ab indimaal Baqir
   Ae Nur zakhm apne
-  Ashkoṅ se dho ke Abid
+  Ashkoṅ se dho ke Aabid
   Ae Nur keh rahe the
-  Baqar se ro ke Abid
-  Seh le safar ke sare
-  Ranj o malal Baqar
+  Baqir se ro ke Aabid
+  Seh le safar ke saare
+  Ranj o malaal Baqir
 ---
 
 سجّادؑ رو كے بولے

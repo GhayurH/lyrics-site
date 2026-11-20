@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jo qaid hoke chala karwan e aale nabi
-  Nazar sakina ki sajjad e natawaṅ pe pari
-  Ke taziyane bhi jis ko laga rahe the shaqi
-  Tarapti is tarha shimr e layiṅ se kehne lagi
+  Jo qaid ho ke chala kaarwaan-e-Aal-e-Nabi
+  Nazar Sakina ki Sajjad-e-naatawaaṅ pe pari
+  Ke taaziyaane bhi jis ko laga rahe the shaqi
+  Tarapti is tarah Shimr-e-la'iṅ se kehne lagi
   Khol de beriyaṅ bhai bemaar hai
-  Soch behre khuda ye hai aale aba
-  Yuṅ na durre laga bhai bemaar hai
-  Khol de beriyan...
-  Pehle hi isko gham kya diye tu ne kam
+  Soch bahr-e-Khuda ye hai Aal-e-Aba
+  Yuṅ na durre laga bemaar bhai bemaar hai
+  Khol de beriyaṅ...
+  Pehle hi is ko gham kya diye tu ne kam
   Ab na kar ye sitam bhai bemaar hai
-  Khol de beriyan...
-  Kya milega tujhe isko yuṅ maar ke
+  Khol de beriyaṅ...
+  Kya milega tujhe is ko yuṅ maar ke
   Ye aziyat na de bhai bemaar hai
-  Khol de beriyan...
+  Khol de beriyaṅ...
   Dekh ae bad gumaaṅ kar na ye sakhtiyaṅ
-  De de isko amaaṅ bhai bemaar hai
-  Khol de beriyan...
-  Jism hai khuṅ se tar ab to kuch rehm kar
-  Ye hai raahe safar bhai bemaar hai
-  Khol de beriyan...
-  Khun rota raha shabbar e benawa
-  Sun ke uski sada bhai bemaar hai
-  Khol de beriyan...
+  De de is ko amaaṅ bhai bemaar hai
+  Khol de beriyaṅ...
+  Jism hai khuṅ se tar ab to kuch rahm kar
+  Ye hai raah-e-safar bhai bemaar hai
+  Khol de beriyaṅ...
+  Khun rota raha Shabbar-e-benawa
+  Sun ke us ki sada bhai bin bemaar hai
+  Khol de beriyaṅ...
 ---
 
 ۱

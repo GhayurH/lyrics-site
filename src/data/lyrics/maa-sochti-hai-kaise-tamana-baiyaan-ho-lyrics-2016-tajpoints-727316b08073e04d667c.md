@@ -1,32 +1,54 @@
 ---
-title: "Maa Sochti Hai Kaise Tamana Baiyaan Ho Lyrics 2016"
+title: "ماں سوچتی ہے کیسے تمنا بیاں ہو"
+alternateTitle: "Maa Sochti Hai Kaise Tamana Baiyaan Ho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Maa sochti hai kaise tamana baiyaan ho Asghar Khan
+  Ik shab mein kis tarha mera Asghar jawan ho
+
+  1
+  Kehti thi maa keh aise tabasum se lena kaam
+  Dunya yeh keh na paye keh tum be-zuban ho
+  Poche koi Hussain se jab teer aata hai
+  Kya hota hai jab beta koi darmiyan ho
+
+  2
+  Nabzoon pe hath rakhe pidar dekhta raha
+  Shayad keh baad-e-teer bhi Asghar mein jaan ho
+  Asghar ke bad halq pe aise tha maa ka hath
+  Jaise gale pe teer ka koi nishan ho
+
+  3
+  Pani ki chand bondein hain Asghar ki zindagi
+  Gar lashkar-e-sitam mein koi meharban ho
+  Mumkin nahi keh sahib-e-aoulad chup rahe
+  Akbar jahan shahadat-e-Asghar baiyaan ho
 ---
 
-Maa Sochti Hai Kaise Tamana Baiyaan Ho Asghar Khan.
-Ik Shab Mein Kis Tarha Mera Asghar Jawan Ho.
+ماں سوچتی ہے کیسے تمنا بیاں ہو اصغر خان
+اک شب میں کس طرح میرا اصغر جوان ہو
 
-1
-Kehti Thi Maa Keh Aise Tabasum Se Lena Kaam.
-Dunya Yeh Keh Na Paye Keh Tum Be-Zuban Ho.
-Poche Koi Hussain Se Jab Teer Aata Hai.
-Kya Hota Hai Jab Beta Koi Darmiyan Ho.
+۱
+کہتی تھی ماں کہ ایسے تبسم سے لینا کام
+دنیا یہ کہہ نہ پائے کہ تم بے زباں ہو
+پوچھے کوئی حسین سے جب تیر آتا ہے
+کیا ہوتا ہے جب بیٹا کوئی درمیاں ہو
 
-2
-Nabzoon Pe Hath Rakhe Pidar Dekhta Raha.
-Shayad Keh Baad-e-Teer Bhi Asghar Mein Jaan Ho.
-Asghar Ke Bad Halq Pe Aise Tha Maa Ka Hath.
-Jaise Gale Pe Teer Ka Koi Nishan Ho.
+۲
+نبضوں پہ ہاتھ رکھے پدر دیکھتا رہا
+شاید کہ بعدِ تیر بھی اصغر میں جان ہو
+اصغر کے بعد حلق پہ ایسے تھا ماں کا ہاتھ
+جیسے گلے پہ تیر کا کوئی نشاں ہو
 
-3
-Pani Ki Chand Bondein Hain Asghar Ki Zindagi.
-Gar Lashkar-e-Sitam Mein Koi Meharban Ho.
-Mumkin Nahi Keh Sahib-e-Aoulad Chup Rahe.
- Akbar Jahan Shahadat-e-Asghar Baiyaan Ho.
+۳
+پانی کی چند بوندیں ہیں اصغر کی زندگی
+گر لشکرِ ستم میں کوئی مہرباں ہو
+ممکن نہیں کہ صاحبِ اولاد چپ رہے
+اکبر جہاں شہادتِ اصغر بیاں ہو

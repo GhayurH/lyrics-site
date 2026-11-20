@@ -18,7 +18,7 @@ romanLyrics: |-
   Kya tum mere Husain ho
 
   1
-  Haae haae mere gharib ka kya haal kar diya
+  Haaye haaye mere gharib ka kya haal kar diya
   Ghoroṅ se laasha dasht meiṅ paamaal kar diya
   Pehchaano kis tarah se badan se hai sar juda
   Kya tum mere Husain ho

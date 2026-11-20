@@ -8,92 +8,55 @@ poet: "Mehshar Lakhnavi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ashoor ka manzar hai aur zainab
-
-  Kuffar ka lashkar hai, aur zainab
-
-  Ashoor ka manzar hai aur zainab
-
+romanLyrics: |-
+  Ashur ka manzar hai aur Zainab
+  Kuffar ka lashkar hai, aur Zainab
+  Ashur ka manzar hai aur Zainab
 
   1
-
-  Asbab lut chuka hai qaime bhi jal chuke hai
-
-  Aur zulm o sitam ki soorat aahon mein dhal chuke hai
-
-  Ek laashaye besar hai aur zainab
-
+  Asbaab lut chuke haiṅ, khaime bhi jal chuke haiṅ
+  Aur zulm o sitam ki surat aahoṅ mein dhal chuke haiṅ
+  Ik laash-e-be sar hai aur Zainab
 
   2
-
-  Bhai ki laash ran mein uriyan padi hui hai
-
-  Aur hamsheer sar barehna be aasra khadi hai
-
-  Ab sogh ki chadar hai aur zainab
-
+  Bhai ki laash ran mein uriyaaṅ pari hui hai
+  Aur hamshir sar barahna be aasra khari hai
+  Ab sog ki chaadar hai aur Zainab
 
   3
-
-  Nana ki qabr chooti haye watan bhi choota
-
-  Tha wo ghar jo fatema ka kal tak basa hua tha
-
-  Ujda hua wo ghar hai aur zainab
-
+  Naana ki qabr chhuti, haaye watan bhi chhuta
+  Tha woh ghar jo Fatema ka kal tak basa hua tha
+  Ujra hua woh ghar hai aur Zainab
 
   4
-
-  Qasim ki laash dekhi akbar ki laash dekhi
-
-  Aur abbas e ba-wafa ki asghar ki laash dekhi
-
-  Ab laashaye biradar hai aur zainab
-
+  Qaasim ki laash dekhi, Akbar ki laash dekhi
+  Aur Abbaas-e-baawafa ki, Asghar ki laash dekhi
+  Ab laash-e-baraadar hai aur Zainab
 
   5
-
-  Sholay bhadak rahe hai gulzar e panjetan mein
-
-  Ahle haram ke baazu baandhe hai ek rasan mein
-
-  Islam ka lashkar hai aur zainab
-
+  Shole bharak rahe haiṅ gulzaar-e-Panjtan mein
+  Ahl-e-haram ke baazu bandhe haiṅ ik rasan mein
+  Islam ka lashkar hai aur Zainab
 
   6
-
-  Phayle huye hai har soo veeraniyo ke saaye
-
-  Zainab ki ek jaan hai kis kis ka gham uthaye
-
-  Bemaar hai langar hai aur zainab
-
+  Phaile hue haiṅ har su veeraaniyoṅ ke saaye
+  Zainab ki ek jaaṅ hai, kis kis ka gham uthaaye
+  Bimaar hai, langar hai aur Zainab
 
   7
-
-  Koofe ki shahzadi sar par rida nahi hai
-
-  Ye haal hai ke koi pehchanta nahi hai
-
-  Darbar e sitamgar hai aur zainab
-
+  Kufe ki shahzaadi sar par rida nahiṅ hai
+  Ye haal hai ke koi pehchaanta nahiṅ hai
+  Darbaar-e-sitamgar hai aur Zainab
 
   8
-
-  Na mehramo ki nazrein padti hai jab haram par
-
-  Sharm o haya se zainab bechain har qadam par
-
-  Har gaam ek nashtar hai aur zainab
-
+  Naamahramoṅ ki nazreṅ parti haiṅ jab haram par
+  Sharm o haya se Zainab bechain har qadam par
+  Har gaam ek nashtar hai aur Zainab
 
   9
-
-  Mehshar quloose dil se kar zikr panjetan ka
-
-  Likh apne aansu''on se noha shahe zaman ka
-
-  Phir tera muqaddar hai aur zainab'
+  Mehshar khulus-e-dil se kar zikr Panjtan ka
+  Likh apne aansuoṅ se noha shah-e-zaman ka
+  Phir tera muqaddar hai aur Zainab
 ---
 
 عاشور کا منظر ہے اور زینب

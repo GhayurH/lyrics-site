@@ -13,10 +13,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Kahaaṅ Batul ki ghurbat ko hum samajh paaye
-  Hamaari saaṅs ruki aur na hum ghash khaaye
+  Hamaari saans ruki aur na hum ghash khaaye
 
   1
-  Abhi bhi khaak-e-baqayya sadaaeṅ deti hai
+  Abhi bhi khaak-e-baqiyya sadaaeṅ deti hai
   Khuda kare ke ye pehlu se khuṅ ruk jaaye
 
   2
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Zaif ho gayi darbaar jab gayi Bibi
-  Siyaah sar meiṅ safedi utar gayi haaye
+  Siyaah sar mein safedi utar gayi haaye
 
   4
   Utha ke haath sitamgar ne qahqaha maara

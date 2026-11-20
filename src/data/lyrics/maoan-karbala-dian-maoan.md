@@ -10,44 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mawaaṅ Karbala diyaaṅ mawaaṅ
-  Putraaṅ Diyaaṅ Lashaaṅ De Tukre Rayiyaaṅ Labdiyaaṅ Wich Sehrawaṅ
+  Maawaaṅ Karbala diyaaṅ maawaaṅ
+  Putraaṅ diyaaṅ laashaaṅ, de tukre, riyaaṅ labdiyaaṅ wich sehraawaaṅ
 
   1
-  Sabar De Malik Choon Sain Laila Aakhe Izn Je Dewiṅ Te
-  Maiṅ Sabar Di Sanjh Che Akbar De Sine Chuṅ Sangh Hatawaaṅ
+  Sabr de maalik nuṅ, Sain Laila aakhe, izn je dewiṅ te
+  Maiṅ sabr di saanjh ich, Akbar de, sine chuṅ saang hatawaaṅ
 
   2
-  Aakhe Maa Qasim Di Maa Te Ahsan Kareiṅ Dair Taeiṅ Larda Rawiṅ
-  Tere Tukre Mutabiq Wadhniyaaṅ Ne Mere Veer Husain Di Sanwaaṅ
+  Aakhe maa Qasim di, maa te ehsaan kareiṅ, der taiṅ larda roweiṅ
+  Tere tukre mutaabiq, wadhniyaaṅ neṅ, mere veer Husain di saawaaṅ
 
   3
-  Jadoṅ Qaidi Ho Ke Langiyaaṅ Maqtal Chuṅ Wain Zainab Kita
-  Lashaaṅ Wal Mawaaṅ Na Wekhan Kite Ruk Na Jawan Sanwaaṅ
+  Jadoṅ qaidi ho ke, langiyaaṅ maqtal chauṅ, wain Zainab kita
+  Laashaaṅ wal maawaaṅ, na wekhan, kite ruk na jaawan saawaaṅ
 
   4
-  Ro Ke Har Maa Ayho Kaindi Rayi Shamiyaaṅ Nu Bhaweiṅ Durre Maro
-  Bas De Do Ijazat Wich Sehra Maiṅ Putar Di Qabar Banawaaṅ
+  Ro ke har maa iho, kaindi rai shamiyaaṅ nuṅ, bhaaveiṅ durre maaro
+  Bas de do ijaazat, wich sehraa, maiṅ putar di qabr banaawaaṅ
 
   5
-  Saiṅ Zainab Ne Kehya Khol Abid Akhiyaaṅ Je Te Sanwaaṅ Rukiyaaṅ
-  Mainu Sham-e-Gharibaaṅ De Wele Dewe Ga Kaun Salawaaṅ
+  Saaiṅ Zainab ne kahiya khol Abid akkhiyaaṅ je te saawaaṅ rukiyaaṅ
+  Mainuṅ Shaam-e-Gharibaaṅ de wele dewe ga kaun salaawaaṅ
 
   6
-  Wain Kulsum Da Si Lal Man Ke Ghazi Tainu Maiṅ Pa Liya Si
-  Mere Sir Di Chadar Haye V Lath Gayi Jadoṅ Lathiyaaṅ Teriyaaṅ Banwaaṅ
+  Wain Kulsum da si laal man ke Ghazi tainuṅ maiṅ paaliya si
+  Mere sir di chaadar haaye vi lath gai jadoṅ lathiyaaṅ teriyaaṅ baanhwaaṅ
 
   7
-  Sangh Te Asghar Nu Wekh Ke Aakhe Rubab Je Na Qaidi Howaaṅ
-  Sir Sangh Te Tera Lawan Layi Maiṅ Dair Kadi Na Lawaaṅ
+  Sang te Asghar nuṅ wekh ke aakhe Rubab je na qaidi howaaṅ
+  Sir sang te tera laawan lai maiṅ der kadi na laawaaṅ
 
   8
-  Shimar De Khanjar De Waar Zahra Rokay Naal Ae Saiṅ Kehwe
-  Maiṅ Chakiyaaṅ Pias Ke Pa Liya Si Kiweiṅ Hath Gardan Tauṅ Chawaaṅ
+  Shimar de khanjar de waar Zahra ro ke naal ae saaiṅ kahewe
+  Maiṅ chakiyaaṅ pias ke paaliya si kiweiṅ hath gardan tauṅ chaawaaṅ
 
   9
-  Chodah Sadiyaaṅ Hoiyaaṅ Fatima Di Nohaaṅ Al-Ajal Parh Diyaan
-  Saqlain Aje V Takdiyaaṅ Ne Oh Mehdi Putar Di Rahwaaṅ
+  Chaudah sadiyaaṅ hoiyaaṅ, Fatima di nohaaṅ, al-ajal parhdiyaaṅ neṅ
+  Saqlain aje vi, takdiyaaṅ neṅ, oh Mehdi putar di raawaaṅ
 ---
 
 ماواں کربلا دیاں ماواں

@@ -8,50 +8,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad ban kay qaidi, jad Shaam shehar aaya
+  Sajjad ban ke qaidi, jad Shaam shehar aaya
+  Koi zulm takiya aisa, ainuṅ khun jis rowaya
 
   1
-  Koyi zulm takiya aysa, ainu khoon jis rowaya
+  Mare bhain ainj na koi, majbur hove bhai
+  Rab jaane kiweṅ Aabid, us di qabar banai
+  Do qaidiyaaṅ ne mil ke maiyat Sakina chaaya
 
   2
-  1) Mare bhain koyi ainj na, majboor hovay bhayi
-  Rab janay kivay Aabid, ous di qabar banaye
-  Do qaidiyaan nay mil kay, mayaat Sakina chaya
+  Uth Shaam chaliye Aabid, saade vir mar gaye saare
+  Neze de naal burqe, saade Shaamiyaaṅ utaare
+  Eh keh ke ghash toṅ Zainab, Sajjad nuṅ jagaya
 
   3
-  2) Uth Shaam chaliye Abid, meray veer mar gaye saaray
-  Nayzay day naal burqay, saday shaamiyaan utaray
-  Ay keh kay ghaash toh Zainab, Sajjad nu jagaya
+  Lut Karbala di waapas, Sajjad nuṅ mili ae
+  Zainab bhara di ungli, bahoṅ der labhdi rahi ae
+  Khaali anguthi de durr, bach bhain ne alaaya
 
   4
-  3) Lut Karbala di wapis, Sajjad nu milli ay
-  Zainab bhira di ungli, baoon dair labdi raye ay
-  Khali angothi tay durr, bach bhain nay alaya
+  Aakh de kaniz qaidan, darbaar vich kamina
+  Kulsum de gale lag, rondi rahi Sakina
+  Riya maut mangda Aabid, ainj aukha vela aaya
 
   5
-  4) Akh day kaneez qaidan, darbar vich kamina
-  Kulsoom day galay laag, rondi rayhi Sakina
-  Raiya mout mangda Abid, ainj aookha veela aaya
+  Milya wafa da jag toṅ, wakhra tenu inaam ae
+  Ae parda daar Fizza, teri god vich Imaam ae
+  Tenuṅ bhain sadya Zera, dhi Mustafa banaya
 
   6
-  5) Milya wafa da jaag toon, wakhra tenu inaam ay
-  Aey parday dar Fizza, teri goud vich Imam ay
-  Tenu bhain sadya Zahra, dhi Mustafa banaya
+  Zaalim nuṅ aakhe Aabid, menuṅ de ve sar bhara da
+  Hun cha karaaṅ main maatam, mazlum Karbala da
+  Hove puri dil di hasrat, main sog naiṅ manaya
 
   7
-  6) Zalim nu aakhay Abid, menu devay sirr bhira da
-  Hun cha karaan main matam, Mazloom-e-Karbala da
-  Hovay puri dil di hasraat, main soug naye manaya
+  Tanvir jad ujar ke, Zainab watan te aai
+  Tak haal bhain da naiṅ, pehchaan sakya bhai
+  Mautaaṅ de gham te qaidaaṅ, Zainab nuṅ ainj mukaya
 
   8
-  7) Tanveer jud ujaar kay Zainab wataan tay aayi
-  Tak haal bhain da naye pehchaan sakiya bhayi
-  Moutan day ghum tay qaidaan, Zainab nu ainj mukaya
-
-  9
-  8) Pathar marainday Shaami aaya Shaam jad beemar aey
-  Teri ghareebi aakhay dhi Haider-e-Karrar aey
-  Gir janday jaday vi Abid, Rab janay kinj uthay
+  Pathar marende Shaami, aaya Shaam jad bimaar ae
+  Teri gharibi aakhe, dhi Haidar-e-Karraar ae
+  Gir jaande jad vi Aabid, Rab jaane kinj uthaae
 ---
 
 سجادؑ بنڑ کے قیدی جد شام شہر آیا

@@ -9,40 +9,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Badal raha hai nizame do aalam
-  Qadam qadam inquilaab payham
-  Magar hamari zaban pe har dam
-  Ali ali hai ali wali hai
+  Badal raha hai nizaam-e-do aalam
+  Qadam qadam inqilaab-e-payham
+  Magar hamaari zabaan pe har dam
+  Ali Ali hai Ali wali hai
 
   1
-  Ye naame naami isme aazam
-  Isi se milta hai azme mohqam
-  Sanad mili jisko la fata ki
-  Wo marde maidan yehi ali hai
+  Ye naam-e-naami hai ism-e-aazam
+  Isi se milta hai azm-e-muhkam
+  Sanad mili jis ko la fataah ki
+  Wo mard-e-maidaan yehi Ali hai
 
   2
-  Zabane adam pe ya ali hai
-  Zabane khaatam pe ya ali hai
+  Zabaan-e-Adam pe ya Ali hai
+  Zabaan-e-Khaatam pe ya Ali hai
   Wo ibteda thi ye inteha hai
-  Ajal ali hai abad ali hai
+  Ajal Ali hai abad Ali hai
 
   3
-  Bayane qum wo nabi ka qutba
-  Dikha rahe hai wasi ka chehra
-  Idhar baland ho rahe hai maula
+  Bayaan-e-Khum wo Nabi ka khutba
+  Dikha rahe haiṅ wasi ka chehra
+  Idhar buland ho rahe haiṅ Maula
   Udhar se aayat utar rahi hai
 
   4
   Ghubaar dil ka hai rukh pe chaaya
-  Alam ali ne hai ran meiṅ paaya
+  Alam Ali ne hai ran meiṅ paaya
   Kisi ka chehra damak raha hai
   Kisi ki rangat uri uri hai
 
   5
-  Zamana dekhe to zulm ki had
-  Hue hai aale nabi muqayyad
-  Ba-rehna sar hai ali ki beti
-  Rida bhi aada ne chin li hai
+  Zamaana dekhe to zulm ki had
+  Hue haiṅ aal-e-Nabi muqayyad
+  Barahna sar hai Ali ki beti
+  Rida bhi aada ne chhin li hai
 ---
 
 بدل رہا ہے نظامِ دوعالم

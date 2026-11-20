@@ -8,185 +8,183 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Wawaila Sad Wawaila
+  Waawaila sad waawaila
 
-  Sham E Ghareeban Khak Py Kunba
+  Shaam-e-gharibaaṅ khaak pe kunba
 
-  Zakhmi Pairon Sy Chal Chal Ky Zainab Deti Hai Pehra
+  Zakhmi pairoṅ se chal chal ke Zainab deti hai pehra
 
-  Dekha Ky Sawar Ata Hai Koi Zainab Yun Tarhap Kar Chillai
+  Dekha ke sawaar aata hai koi, Zainab yuṅ tarap kar chillai
 
-  Ab Lootny Ko Kya Hai Baaqi
+  Ab lutne ko kya hai baaqi
 
-  Awaz Sawar Ki Yeh Aai
+  Aawaaz sawaar ki yeh aai
 
-  Pehchan Tera Baba Hun Ali
+  Pehchaan tera baba huṅ Ali
 
-  Baba Sy Lipat Kar Di Hai Sada
+  Baba se lipat kar di ke sada
 
-  Ghar Ujarh Gya Mera Kuch Na Raha
+  Ghar ujar gaya mera kuchh na raha
 
-  Haye Tukrhy Tukrhy Dill Mera
+  Haaye tukre tukre dil mera
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Wawaila Sad Wawaila
+  Waawaila sad waawaila
 
-  Kehti Yeh Khizan Aai Baba
+  Kehti yeh khizaaṅ aai baba
 
-  Main Kuch Na Bacha Pai Baba
+  Main kuchh na bacha pai baba
 
-  Na Chadar Na Ghazi Baba
+  Na chaadar na Ghazi baba
 
-  Na Mera Raha Bhai Baba
-
-  Allah Allah Allah Allah
-
-  Ghar Ujrha Hai Dill Rota Hai
-
-  Hai Khoon Mein Tarr Lashkar Sara
-
-  Yeh Maqtal Hai Main Zainab Hun
-
-  Haye Tukrhy Tukrhy Dill Mera
-
-  Yeh Maqtal Hai Main Zainab Hun
-
-  Wawaila Sad Wawaila
-
-  Main Behan Athara Weeran Di
-
-  Pardais Ich Baba Ujarh Gai
-
-  Dardan Di Mari Dhi Teri
-
-  Hai Matam Dar Bahattar Di
+  Na mera raha bhai baba
 
   Allah Allah Allah Allah
 
-  Main Koon Dy Pursa Maqtoolan Da
+  Ghar ujra hai dil rota hai
 
-  Ujrhi Koon Gal Nal Laa Baba
+  Hai khun mein tar lashkar saara
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Haye Tukrhy Tukrhy Dill Mera
+  Haaye tukre tukre dil mera
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Wawaila Sad Wawaila
+  Waawaila sad waawaila
 
-  Ashoor Ka Din Aisa Guzra
+  Main behan athaarah veeraan di
 
-  Abad Chaman Barbaad Hua
+  Pardes ich baba ujar gai
 
-  Pyasa Tanha Bhai Mera
+  Dardaan di maari dhi teri
 
-  Pyaron Ky Lashy Lata Raha
-
-  Allah Allah Allah Allah
-
-  Kai Bar Gira Gir Gir Ky Utha
-
-  Mazloom Ghareeb E Karbobala
-
-  Yeh Maqtal Hai Main Zainab Hun
-
-  Haye Tukrhy Tukrhy Dill Mera
-
-  Yeh Maqtal Hai Main Zainab Hun
-
-  Wawaila Sad Wawaila
-
-  Jadon Ghazi Jhanrya Ghorhy To
-
-  Maindy Muk Gaye Maan Bhirawan Ty
-
-  Teri Sharman Wali Zainab Nu
-
-  Nai Bhulny Dard Ridawan Dy
+  Hai maatam daar bahattar di
 
   Allah Allah Allah Allah
 
-  Baba Baba Main Koon Turan Sikha
+  Main koon de pursa maqtulaan da
 
-  Main Wanjna Ay Sham Nu Rassian Paa
+  Ujri koon gal naal laa baba
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Haye Tukrhy Tukrhy Dill Mera
+  Haaye tukre tukre dil mera
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Wawaila Sad Wawaila
+  Waawaila sad waawaila
 
-  Pardais Allah Rahsi Ty
+  Aashur ka din aisa guzra
 
-  Nai Keeta Taras Zara Baba
+  Aabaad chaman barbaad hua
 
-  Na Maro Wasty Daindi Rahi
+  Pyaasa tanha bhai tera
 
-  Quran Koon Sir Ty Chaa Baba
-
-  Allah Allah Allah Allah
-
-  Nai Bas Chalya Koi Ujrhi Da
-
-  Mera Veer Laeenan Maar Dita
-
-  Yeh Maqtal Hai Main Zainab Hun
-
-  Haye Tukrhy Tukrhy Dill Mera
-
-  Yeh Maqtal Hai Main Zainab Hun
-
-  Wawaila Sad Wawaila
-
-  Ab Khak Py Hai Kunba Sara
-
-  Yeh Sham E Ghareeban Hai Baba
-
-  Khaimy Bhi Jaly Asbab Luta
-
-  Koi Na Raha Abid Ky Siwa
+  Pyaaroṅ ke laashe laata raha
 
   Allah Allah Allah Allah
 
-  Wahan Jashan Bapa Yahan Aah O Buka
+  Kai baar gira gir gir ke utha
 
-  Yeh Sham Hai Sham E Ashoora
+  Mazlum gharib-e-Karb o Bala
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Haye Tukrhy Tukrhy Dill Mera
+  Haaye tukre tukre dil mera
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Wawaila Sad Wawaila
+  Waawaila sad waawaila
 
-  Na Ro Zainab Yeh Boly Ali
+  Jadon Ghazi jhanrya ghore to
 
-  Aa Seeny Sy Lag Ja Beti
+  Mainde muk gaye maan bhiraawaan te
 
-  Kar Hosla Meri Shehzadi
+  Teri sharmaan waali Zainab noon
 
-  Abhi Sham Ki Manzil Hai Baqi
+  Nahin bhulne dard ridaawaan de
 
   Allah Allah Allah Allah
 
-  Boli Dukhiya Tum Karna Dua
+  Baba baba main koon turan sikha
 
-  Karna Hai Safar Bazaron Ka
+  Main wanjna ae Shaam noon rassiaan paa
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Haye Tukrhy Tukrhy Dill Mera
+  Haaye tukre tukre dil mera
 
-  Yeh Maqtal Hai Main Zainab Hun
+  Yeh maqtal hai main Zainab huṅ
 
-  Wawaila Sad Wawaila
+  Waawaila sad waawaila
 
-  Lyrics in Urdu text
+  Pardes Allah raahsi te
+
+  Nahin kita taras zara baba
+
+  Na maaro waaste daindi rahi
+
+  Quraan koon sir te chaa baba
+
+  Allah Allah Allah Allah
+
+  Nahin bas chalya koi ujri da
+
+  Mera veer laeenaan maar ditta
+
+  Yeh maqtal hai main Zainab huṅ
+
+  Haaye tukre tukre dil mera
+
+  Yeh maqtal hai main Zainab huṅ
+
+  Waawaila sad waawaila
+
+  Ab khaak pe hai kunba saara
+
+  Yeh Shaam-e-gharibaaṅ hai baba
+
+  Khaime bhi jale asbaab luta
+
+  Koi na raha Aabid ke siwa
+
+  Allah Allah Allah Allah
+
+  Wahaaṅ jashn bapa yahaaṅ aah o buka
+
+  Yeh shaam hai shaam-e-Aashura
+
+  Yeh maqtal hai main Zainab huṅ
+
+  Haaye tukre tukre dil mera
+
+  Yeh maqtal hai main Zainab huṅ
+
+  Waawaila sad waawaila
+
+  Na ro Zainab yeh bole Ali
+
+  Aa sine se lag ja beti
+
+  Kar hausla meri shehzaadi
+
+  Abhi Shaam ki manzil hai baaqi
+
+  Allah Allah Allah Allah
+
+  Boli dukhiya tum karna dua
+
+  Karna hai safar baazaaroṅ ka
+
+  Yeh maqtal hai main Zainab huṅ
+
+  Haaye tukre tukre dil mera
+
+  Yeh maqtal hai main Zainab huṅ
+
+  Waawaila sad waawaila
 ---
 
 واویلا سد واویلا

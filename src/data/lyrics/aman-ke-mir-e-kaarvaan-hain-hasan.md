@@ -19,11 +19,11 @@ romanLyrics: |-
   In ke lab se hai lab kusha Quraan
   Yaani Quraan ki zabaaṅ haiṅ Hasan
   Qad o qaamat meiṅ hu bahu Nana
-  Isteqaamat meiṅ misaal-e-Maaṅ haiṅ Hasan
+  Istiqaamat meiṅ misaal-e-maaṅ haiṅ Hasan
 
   2
   Jis meiṅ Quraan-e-aman rehta hai
-  Dono aalam meiṅ wo makaaṅ haiṅ Hasan
+  Donoṅ aalam meiṅ wo makaaṅ haiṅ Hasan
   Wo Imam-e-Husain ke bhi Imam
   Aasmaaṅ soch to kahaaṅ haiṅ Hasan
 
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   4
   Ran meiṅ Qasim ko dekh kar yuṅ laga
-  Subh-e-Aashur naujawaṅ haiṅ Hasan
+  Subh-e-Aashur naujawaaṅ haiṅ Hasan
   Parh ke farmaan-e-Mustafa ye khula
   Sibt-e-Akbar Nabi ki jaaṅ haiṅ Hasan
 

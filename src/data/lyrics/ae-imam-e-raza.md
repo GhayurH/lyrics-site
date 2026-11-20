@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Chhaa rahi hai udaasiyaaṅ har suṅ
-  Aur tapakte haiṅ aaṅkh se aansuṅ
+  Aur tapakte haiṅ aankh se aansuṅ
   Saari duniya meiṅ ik talaatum hai
   Din ke naakhuda salaam o alaik
 
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   6
   Maut par aap ki Imam-e-mubiṅ
-  Kah rahe haiṅ gharib aur miskin
+  Keh rahe haiṅ gharib aur miskin
   Ho gaye aaj besahaara hum
   Kul ke haajat rawa salaam o alaik
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   8
   Kaisa ranj o malaal ka din hai
   Nur ke intiqaal ka din hai
-  Aaj dil ki har ek dharkan se
+  Aaj dil ki har ik dharkan se
   Aa rahi hai sada salaam o alaik
 
   9

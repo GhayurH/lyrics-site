@@ -1,41 +1,72 @@
 ---
-title: "Dekhiye Yeh Naznee Sab Se Juda Hai Ke Nahi"
+title: "دیکھیے یہ نازنیں سب سے جدا ہے کہ نہیں"
+alternateTitle: "Dekhiye Yeh Naznee Sab Se Juda Hai Ke Nahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Azhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Dekhiye yeh naznee sab se juda hai ke nahi
+  Abbas masjood-e-haya ain-e-wafa hai keh nahi
+  Wahdat-e-masjood-e-ismat ne kabhi mangi thi jo
+  Oss dua-e-pak ki bolo jaza hai keh nahi
+
+  2
+  Kun pe qabiz ho ke bhi khamosh hai yeh bawafa
+  Azam-o-istaqlal ka yeh muqtada hai keh nahi
+  Parhta aaya hai zameen tak yeh bhi Allah ka kalam
+  Yeh mujasam mazhar-e-innama hai keh nahi
+
+  3
+  Jo pochna hai poch lo Shair-e-Jali ke lal se
+  Iss ke lehjay mein Saloni ki sada hai keh nahi
+  Meri hasrat thi keh iss ko palta main arsh pe
+  Fakhar-e-Esa yeh haseen mojaz numa hai keh nahi
+
+  4
+  Mar walay aankh se hi dushman-e-Shabeer ko
+  Iss ke hathoon mein chuphi unn ki qaza hai keh nahi
+  Mere ghar mein kar rahi hain ismatein iss ka tawaf
+  Hashar tak mamnon iss ki har rida hai keh nahi
+
+  5
+  Parcham-e-Abbas ke saye mein aa ke mangna
+  Phir batana iss ka alam mushkil kusha hai keh nahi
+  Lafz yeh khairat mein Azhar ko miltay hain sabhi
+  Hai kaun kehta iss pe Ghazi ki atta hai keh nahi
 ---
 
-1
-Dekhiye Yeh Naznee Sab Se Juda Hai Ke Nahi.
-Abbas Masjood-e-Haya Ain-e-Wafa Hai Keh Nahi.
-Wahdat-e-Masjood-e-Ismat Ne Kabhi Mangi Thi Jo.
-Oss Dua-e-Pak Ki Bolo Jaza Hai Keh Nahi.
+۱
+دیکھیے یہ نازنیں سب سے جدا ہے کہ نہیں
+عباس مسجودِ حیا عینِ وفا ہے کہ نہیں
+وحدتِ مسجودِ عصمت نے کبھی مانگی تھی جو
+اُس دعائے پاک کی بولو جزا ہے کہ نہیں
 
-2
-Kun Pe Qabiz Ho Ke Bhi Khamosh Hai Yeh Bawafa.
-Azam-o-Istaqlal Ka Yeh Muqtada Hai Keh Nahi.
-Parhta Aaya Hai Zameen Tak Yeh Bhi ALLAH Ka Kalam.
-Yeh Mujasam Mazhar-e-Innama Hai Keh Nahi.
+۲
+کُن پہ قابض ہو کے بھی خاموش ہے یہ باوفا
+عزم و استقلال کا یہ مقتدا ہے کہ نہیں
+پڑھتا آیا ہے زمین تک یہ بھی اللہ کا کلام
+یہ مجسم مظہرِ اِنَّما ہے کہ نہیں
 
-3
-Jo Pochna Hai Poch Lo Shair-e-Jali Ke Lal Se.
-Iss Ke Lehjay Mein Saloni Ki Sada Hai Keh Nahi.
-Meri Hasrat Thi Keh Iss Ko Palta Main Arsh Pe.
-Fakhar-e-Esa Yeh Haseen Mojaz Numa Hai Keh Nahi.
+۳
+جو پوچھنا ہے پوچھ لو شیرِ جلی کے لال سے
+اِس کے لہجے میں سلونی کی صدا ہے کہ نہیں
+میری حسرت تھی کہ اِس کو پالتا میں عرش پہ
+فخرِ عیسیٰ یہ حسین معجز نما ہے کہ نہیں
 
-4
-Mar Walay Aankh Se Hi Dushman-e-Shabeer Ko.
-Iss Ke Hathoon Mein Chuphi Unn Ki Qaza Hai Keh Nahi.
-Mere Ghar Mein Kar Rahi Hain Ismatein Iss Ka Tawaf.
-Hashar Tak Mamnon Iss Ki Har Rida Hai Keh Nahi.
+۴
+مار والے آنکھ سے ہی دشمنِ شبیر کو
+اِس کے ہاتھوں میں چھپی اُن کی قضا ہے کہ نہیں
+میرے گھر میں کر رہی ہیں عصمتیں اِس کا طواف
+حشر تک ممنون اِس کی ہر ردا ہے کہ نہیں
 
-5
-Parcham-e-Abbas Ke Saye Mein Aa Ke Mangna.
-Phir Batana Iss Ka Alam Mushkil Kusha Hai Keh Nahi.
-Lafz Yeh Khairat Mein Azhar Ko Miltay Hain Sabhi.
-Hai Kaun Kehta Iss Pe Ghazi Ki Atta Hai Keh Nahi.
+۵
+پرچمِ عباس کے سائے میں آ کے مانگنا
+پھر بتانا اِس کا علم مشکل کشا ہے کہ نہیں
+لفظ یہ خیرات میں اظہر کو ملتے ہیں سبھی
+ہے کون کہتا اِس پہ غازی کی عطا ہے کہ نہیں

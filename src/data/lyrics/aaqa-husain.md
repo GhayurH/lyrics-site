@@ -16,25 +16,25 @@ romanLyrics: |-
   Aa raha huṅ maiṅ bhi Karbala
   Aarzu-e-Ambiya ziyarat-e-Husain hai
   Nusrat-e-Imam hai ye nusrat-e-Husain hai
-  Azm zairin ka ye taqat-e-Husain hai
-  Dil se aa rahi hai ye sada ek hi lagan hai Karbala
+  Azm zaairin ka ye taqat-e-Husain hai
+  Dil se aa rahi ye sada ak hi lagan hai Karbala
   Har qadam pe barh raha hai dil ka hausla
   Aaqa Husain Maula Husain
 
   1
   Rok hi nahiṅ saka hai koi khaar phul ko
-  Zairoṅ ka ilm kya ho daaishi jahul ko
-  Kaat deiṅge zairin kufr ke babul ko
-  Sabr ka liye hai asleha haath meiṅ hai parcham-e-wafa
+  Zaairoṅ ka ilm kya ho Daaishi jahul ko
+  Kaat deṅ ge zaairin kufr ke babul ko
+  Sabr ka liye hai asliha haath meiṅ hai parcham-e-wafa
   Dekhte haiṅ rokta hai kaun raasta
   Aaqa Husain Maula Husain
 
   2
-  Rehnuma ka rehnuma hai zair-e-Husain hai
-  Fatima ki ye dua hai zair-e-Husain hai
-  Iska martaba bara hai zair-e-Husain hai
-  Khidmatoṅ meiṅ mehw-e-dam ba dam
-  Zairoṅ ke kaam aaye hum
+  Rehnuma ka rehnuma hai zaair-e-Husain hai
+  Fatima ki ye dua hai zaair-e-Husain hai
+  Iska martaba bara hai zaair-e-Husain hai
+  Qadmatoṅ meiṅ mehw-e-dam ba dam
+  Zaairoṅ ke kaam aaye hum
   Maadar-e-Husain se milega hausla
   Aaqa Husain Maula Husain
 
@@ -47,8 +47,8 @@ romanLyrics: |-
   Aaqa Husain Maula Husain
 
   4
-  Haideri jo walwala hai ishq-e-arz-e-Tus hai
-  Azm hai shahadatoṅ ka maut to urus hai
+  Haideri jo waawaila hai ishq-e-arz-e-Tus hai
+  Azm hai shahadatoṅ ka maut to arus hai
   Karwaaṅ jo chal raha hai matami julus hai
   Matam-e-Husain ka asar buzdiloṅ ke phat gaye jigar
   Dar ke har Yazid apne ghar meiṅ chhup gaya
@@ -57,7 +57,7 @@ romanLyrics: |-
   5
   Haq hai ye Husain ka Najaf se Karbala chalo
   Pura khaandan leke misl-e-Shah tum barho
-  Chumte hai raaste har ek zakhm zakhm ko
+  Chumte hai raasta har ak zakhm zakhm ko
   Abid-e-haziṅ hai raah par Zainab-e-haziṅ hai humsafar
   Paaoṅ meiṅ pare haiṅ aable to kya hua
   Aaqa Husain Maula Husain
@@ -65,7 +65,7 @@ romanLyrics: |-
   6
   Roz o shab tarap raha huṅ zindagi ki kya khabar
   Maanta huṅ Maula huṅ gunahgaar kis qadar
-  Ek baar pahunchuṅ bas maiṅ rauza-e-Husain par
+  Ak baar pahunchuṅ bas maiṅ rauza-e-Husain par
   Bhai aur bhatije ki talaash chhe mahine ke pisar ki laash
   Pursa dene aap ko har ek shahid ka
   Aaqa Husain Maula Husain

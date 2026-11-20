@@ -1,59 +1,108 @@
 ---
-title: "Aye Chand Karbala Ke Tu Ne Tu Dekhey Hoon Gay"
+title: "اے چاند کربلا کے تو نے تو دیکھے ہوں گے"
+alternateTitle: "Aye Chand Karbala Ke Tu Ne Tu Dekhey Hoon Gay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "o-Soz KhuwaN::Ustad Sibt-e-Jafar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye chand Karbala ke tu ne tu dekhey hoon gay
+  Utray they iss zameen par arsh-e-barin ke taray
+  Aye chand jalwa gar hai Hashim ka chand yaan par
+  Khairat roshni ki le lijiyo yahan se
+
+  2
+  Aye chand iss zameen par rakhiyo hamesha thandak
+  Sotay jo hain yahan par Zahra ke hain yeh pyaray
+  Tasneem-o-Salsabeel-o-Kausar ke hain yeh malik
+  Marey gaye jo pyasay iss nehar ke kinaray
+
+  3
+  Hur our Habib jaisay janbaz our ahba
+  Marey gaye yahin par Ansar Shah-e-Dein ke
+  Marey gaye yahin par be dardi-o-sitam se
+  Muslim ke dono pyaray Zainab ke dono betay
+
+  4
+  Pamal ho rahi thi Qasim ki lash ran mein
+  Abbas our Sarwar chuntay they unn ke tukray
+  Bazu katay yahin par Abbas-e-Bawafa ke
+  Izn-e-Waga na paya pani bhi la na paye
+
+  5
+  Iss sar zameen pe guzra Sarwar pe yeh bhi sadma
+  Seene pe khayi barchi humshakal-e-Mustafa ne
+  Pani pilaney laye ik meh laqa ko Sarwar
+  Kiya zibha Hurmala ne teer-e-sitam laga ke
+
+  6
+  Gardan chidi pisar ki bazu chida padar ka
+  Dono tarap tarap kar pyasay jahan se guzrey
+  Iss ban mein aik bachi Baba ko dhondti thi
+  Bikhrey hoye paray they jab sar bureda lashay
+
+  7
+  Phir yeh bhi tu ne dekha woh gham raseeda bachi
+  Seene pe so rahi thi be sar padar se liptay
+  Bazu bandhay yahin par pehle pehal haram ke
+  Iss sar zameen se nikley Sajjad sar jhukaye
+
+  8
+  Shehzada-e-jinna hi malik hai Karbala ka
+  Kis ki majal aaye jab tak na woh bulaye
+  Pohancha hai Karbala mein na cheez:Sibt-e-Jafar:
+  Aye kash phir muqadar hum ko yeh din dikhaye
 ---
 
-1
-Aye Chand Karbala Ke Tu Ne Tu Dekhey Hoon Gay.
-Utray They Iss Zameen Par Arsh-e-Barin Ke Taray.
-Aye Chand Jalwa Gar Hai Hashim Ka Chand Yaan Par.
-Khairat Roshni Ki Le Lijiyo Yahan Se.
+۱
+اے چاند کربلا کے تو نے تو دیکھے ہوں گے
+اترے تھے اس زمین پر عرشِ بریں کے تارے
+اے چاند جلوہ گر ہے ہاشم کا چاند یاں پر
+خیرات روشنی کی لے لیجیو یہاں سے
 
-2
-Aye Chand Iss Zameen Par Rakhiyo Hamesha Thandak.
-Sotay Jo Hain Yahan Par Zahra Ke Hain Yeh Pyaray.
-Tasneem-o-Salsabeel-o-Kausar Ke Hain Yeh Malik.
-Marey Gaye Jo Pyasay Iss Nehar Ke Kinaray.
+۲
+اے چاند اس زمین پر رکھیو ہمیشہ ٹھنڈک
+سوتے جو ہیں یہاں پر زہرا کے ہیں یہ پیارے
+تسنیم و سلسبیل و کوثر کے ہیں یہ مالک
+مارے گئے جو پیاسے اس نہر کے کنارے
 
-3
-Hur Our Habib Jaisay Janbaz Our Ahba.
-Marey Gaye Yahin Par Ansar Shah-e-Dein Ke.
-Marey Gaye Yahin Par Be Dardi-o-Sitam Se.
-Muslim Ke Dono Pyaray Zainab Ke Dono Betay.
+۳
+حر اور حبیب جیسے جاں باز اور احبا
+مارے گئے یہیں پر انصار شاہِ دیں کے
+مارے گئے یہیں پر بے دردی و ستم سے
+مسلم کے دونوں پیارے زینب کے دونوں بیٹے
 
-4
-Pamal Ho Rahi Thi Qasim Ki Lash Ran Mein.
-Abbas Our Sarwar Chuntay They Unn Ke Tukray.
-Bazu Katay Yahin Par Abbas-e-Bawafa Ke.
-Izn-e-Waga Na Paya Pani Bhi La Na Paye.
+۴
+پامال ہو رہی تھی قاسم کی لاش رن میں
+عباس اور سرور چنتے تھے ان کے ٹکڑے
+بازو کٹے یہیں پر عباسِ باوفا کے
+اذنِ وغا نہ پایا پانی بھی لا نہ پائے
 
-5
-Iss Sar Zameen Pe Guzra Sarwar Pe Yeh Bhi Sadma.
-Seene Pe Khayi Barchi Humshakal-e-Mustafa Ne.
-Pani Pilaney Laye Ik Meh Laqa Ko Sarwar.
-Kiya Zibha Hurmala Ne Teer-e-Sitam Laga Ke.
+۵
+اس سرزمین پہ گزرا سرور پہ یہ بھی صدمہ
+سینے پہ کھائی برچھی ہم شکلِ مصطفیٰ نے
+پانی پلانے لائے اک مہ لقا کو سرور
+کیا ذبح حرملہ نے تیرِ ستم لگا کے
 
-6
-Gardan Chidi Pisar Ki Bazu Chida Padar Ka.
-Dono Tarap Tarap Kar Pyasay Jahan Se Guzrey.
-Iss Ban Mein Aik Bachi Baba Ko Dhondti Thi.
-Bikhrey Hoye Paray They Jab Sar Bureda Lashay.
+۶
+گردن چھدی پسر کی بازو چھدا پدر کا
+دونوں تڑپ تڑپ کر پیاسے جہاں سے گزرے
+اس بن میں ایک بچی بابا کو ڈھونڈتی تھی
+بکھرے ہوئے پڑے تھے جب سر بریدہ لاشے
 
-7
-Phir Yeh Bhi Tu Ne Dekha Woh Gham Raseeda Bachi.
-Seene Pe So Rahi Thi Be Sar Padar Se Liptay.
-Bazu Bandhay Yahin Par Pehle Pehal Haram Ke.
-Iss Sar Zameen Se Nikley Sajjad Sar Jhukaye.
+۷
+پھر یہ بھی تو نے دیکھا وہ غم رسیدہ بچی
+سینے پہ سو رہی تھی بے سر پدر سے لپٹے
+بازو بندھے یہیں پر پہلے پہل حرم کے
+اس سرزمین سے نکلے سجاد سر جھکائے
 
-8
-Shehzada-e-Jinna Hi Malik Hai Karbala Ka.
-Kis Ki Majal Aaye Jab Tak Na Woh Bulaye.
-Pohancha Hai Karbala Mein Na Cheez:SIBT-E-JAFAR:.
-Aye Kash Phir Muqadar Hum Ko Yeh Din Dikhaye.
+۸
+شہزادۂ جناں ہی مالک ہے کربلا کا
+کس کی مجال آئے جب تک نہ وہ بلائے
+پہنچا ہے کربلا میں ناچیز سبطِ جعفر
+اے کاش پھر مقدر ہم کو یہ دن دکھائے

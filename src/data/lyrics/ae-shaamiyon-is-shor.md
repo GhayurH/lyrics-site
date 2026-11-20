@@ -21,10 +21,10 @@ romanLyrics: |-
 
   2
   Shaayad kisi baazaar meiṅ bichhri hai Sakina
-  Durre bhi layiṅ maare to barhti nahiṅ Zainab
+  Durre bhi la'iṅ maare to barhti nahiṅ Zainab
 
   3
-  Amma ki rida chumne lag jaati hai ro kar
+  Amma ki rida chumne laga jaati hai ro kar
   Ghar aa ke bhi baazaar ko bhuli nahiṅ Zainab
 
   4

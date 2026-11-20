@@ -1,36 +1,62 @@
 ---
-title: "Haye Abbas Tere Bazo Uthaon Kaisay"
+title: "ہائے عباس تیرے بازو اٹھاؤں کیسے"
+alternateTitle: "Haye Abbas Tere Bazo Uthaon Kaisay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Abbas tere bazo uthaon kaisay
+  Main yeh mashkeza Sakina ko dikhaon kaisay
+  Bas alam tera hi sehra se utha laya hai
+  Tere tukray bhi na Shabeer utha paya hai
+  Ja ke khiyam mein yeh baat bataon kaisay
+  Aye mere zoor kamar tu hi bata bhai ko
+  Kya tasali ka main paigham doon maa jayi ko
+  Main hoon tanha tere lashay ko uthaon kaisay
+  Aakhri bar bola mujh ko tu bhai keh kar
+  Our khari hai teri humsheer dar-e-khaima par
+  Tere sadmay ko main Abbas bhulaon kaisay
+  Main teri aas pe behno ko bhi laya Ghazi
+  Pardah daroon ka faqat tu hi tha saya Ghazi
+  Baad tere main ridaon ko bachaon kaisay
+  Le ke aagosh mein ab pyar na kar paein gay
+  Na chacha tere kabhi laut ke ab aaein gay
+  Yeh khabar ja ke Sakina ko sunaon kaisay
+  Toor de meri Sakina tu yeh pyalay sare
+  Na raha Ghazi tu mar jaein gay bachay sare
+  Ab yeh toota howa parcham main le jaon kaisay
+  Kaisay Shabeer ne bazu woh uthaye Qambar
+  Our Zainab ki woh aagosh mein dalay ro kar
+  Dard seene ka yeh qirtas pe laon kaisay
 ---
 
-1
-Haye Abbas Tere Bazo Uthaon Kaisay.
-Main Yeh Mashkeza Sakina Ko Dikhaon Kaisay.
-Bas Alam Tera Hi Sehra Se Utha Laya Hai.
-Tere Tukray Bhi Na Shabeer Utha Paya Hai.
-Ja Ke Khiyam Mein Yeh Baat Bataon Kaisay.
-Aye Mere Zoor Kamar Tu Hi Bata Bhai Ko.
-Kya Tasali Ka Main Paigham Doon Maa Jayi Ko.
-Main Hoon Tanha Tere Lashay Ko Uthaon Kaisay.
-Aakhri Bar Bola Mujh Ko Tu Bhai Keh Kar.
-Our Khari Hai Teri Humsheer Dar-e-Khaima Par.
-Tere Sadmay Ko Main Abbas Bhulaon Kaisay.
-Main Teri Aas Pe Behno Ko Bhi Laya Ghazi.
-Pardah Daroon Ka Faqat Tu Hi Tha Saya Ghazi.
-Baad Tere Main Ridaon Ko Bachaon Kaisay.
-Le Ke Aagosh Mein Ab Pyar Na Kar Paein Gay.
-Na Chacha Tere Kabhi Laut Ke Ab Aaein Gay.
-Yeh Khabar Ja Ke Sakina Ko Sunaon Kaisay.
-Toor De Meri Sakina Tu Yeh Pyalay Sare.
-Na Raha Ghazi Tu Mar Jaein Gay Bachay Sare.
-Ab Yeh Toota Howa Parcham Main Le Jaon Kaisay.
-Kaisay Shabeer Ne Bazu Woh Uthaye Qambar.
-Our Zainab Ki Woh Aagosh Mein Dalay Ro Kar.
-Dard Seene Ka Yeh Qirtas Pe Laon Kaisay.
+۱
+ہائے عباس تیرے بازو اٹھاؤں کیسے
+میں یہ مشکیزہ سکینہ کو دکھاؤں کیسے
+بس علم تیرا ہی صحرا سے اٹھا لایا ہے
+تیرے ٹکڑے بھی نہ شبیر اٹھا پایا ہے
+جا کے خیام میں یہ بات بتاؤں کیسے
+اے میرے زورِ کمر تو ہی بتا بھائی کو
+کیا تسلی کا میں پیغام دوں ماں جائی کو
+میں ہوں تنہا تیرے لاشے کو اٹھاؤں کیسے
+آخری بار بولا مجھ کو تو بھائی کہہ کر
+اور کھڑی ہے تیری ہمشیر درِ خیمہ پر
+تیرے صدمے کو میں عباس بھلاؤں کیسے
+میں تیری آس پہ بہنوں کو بھی لایا غازی
+پردہ داروں کا فقط تو ہی تھا سایہ غازی
+بعد تیرے میں رداؤں کو بچاؤں کیسے
+لے کے آغوش میں اب پیار نہ کر پائیں گے
+نہ چچا تیرے کبھی لوٹ کے اب آئیں گے
+یہ خبر جا کے سکینہ کو سناؤں کیسے
+توڑ دے میری سکینہ تو یہ پیالے سارے
+نہ رہا غازی تو مر جائیں گے بچے سارے
+اب یہ ٹوٹا ہوا پرچم میں لے جاؤں کیسے
+کیسے شبیر نے بازو وہ اٹھائے قمبر
+اور زینب کی وہ آغوش میں ڈالے رو کر
+درد سینے کا یہ قرطاس پہ لاؤں کیسے

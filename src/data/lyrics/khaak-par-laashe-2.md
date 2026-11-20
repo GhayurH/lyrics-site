@@ -10,58 +10,58 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khaak par laasha e shabbir hai aao nana
-  Kya yehi ajre risalat hai batao nana
+  Khaak par laasha-e-Shabbir hai aao Nana
+  Kya yahi ajr-e-risaalat hai batao Nana
 
   1
-  Bhai beghusl o kafan dashte bala may hai para
-  Paas mayyat ke urhane ko nahi koi rida
-  Ab koi raah nawasi ko dikhao nana
+  Bhai beghusl o kafan dasht-e-bala mein hai para
+  Paas mayyat ke urhaane ko nahiṅ koi rida
+  Ab koi raah nawaasi ko dikhao Nana
 
   2
-  Zulm bemaar pe dhaane ke liye aaye hai
-  Ashqiya tauq pinhane ke liye aaye hai
-  Ghash ke aalam may hai sajjad bachao nana
+  Zulm bimaar pe dhaane ke liye aaye haiṅ
+  Ashqiya tauq pehnaane ke liye aaye haiṅ
+  Ghash ke aalam mein hai Sajjad bachao Nana
 
   3
-  Koi hamdard nahi koi sahara bhi nahi
-  Dashte zulmat may koi puchne waala bhi nahi
-  Ab ghariboṅ pe taras aap hi khao nana
+  Koi hamdard nahiṅ koi sahaara bhi nahiṅ
+  Dasht-e-zulmat mein koi puchhne waala bhi nahiṅ
+  Ab ghariboṅ pe taras aap hi khao Nana
 
   4
-  Thak ke soye hai bari dayr may pyase bache
-  Dashte tarik may ab kaun hai jo pehra de
-  Mere ghazi mere abbas ko lao nana
+  Thak ke soye haiṅ bari der mein pyaase bachche
+  Dasht-e-taarik mein ab kaun hai jo pehra de
+  Mere Ghazi mere Abbas ko lao Nana
 
   5
-  Aap ke laal pa tuti hai qayamat dekho
-  Qatl ke baad bhi ummat ki adawat dekho
-  Laash pamaali ki zad par hai bachao nana
+  Aap ke laal pe tuti hai qayaamat dekho
+  Qatl ke baad bhi ummat ki adaawat dekho
+  Laash paamaali ki zad par hai bachao Nana
 
   6
-  Baap ko ro nahi sakti hai sakina apne
-  Sehmi sehmi si hai masum tamache kha ke
-  Shimr ke zulm se bachi ko churao nana
+  Baap ko ro nahiṅ sakti hai Sakina apne
+  Sehmi sehmi si hai maasum tamaanche kha ke
+  Shimr ke zulm se bachchi ko chhurao Nana
 
   7
-  Sar pe kunbe ki hifazat ka hai zimma pehle
-  Saamna shaam e gharibaṅ ka karungi kaise
-  Hausla do meri himmat ko badao nana
+  Sar pe kunbe ki hifaazat ka hai zimma pehle
+  Saamna shaam-e-gharibaaṅ ka karuṅ gi kaise
+  Hausla do meri himmat ko barhao Nana
 
   8
-  Hashr rone ki sada se hai andhere ban may
-  Sina e shaah se lipti hai sakina ran may
-  Baap ki laash se beti ko churao nana
+  Hashr rone ki sada se hai andhere ban mein
+  Sina-e-shaah se lipti hai Sakina ran mein
+  Baap ki laash se beti ko chhurao Nana
 
   9
-  Baandhne aaye hai zaalim mere baazu me rasan
-  Kab se awaaz lagaati hai musibat may behan
-  Bhai soya lab e darya hai jagao nana
+  Baandhne aaye haiṅ zaalim mere baazu mein rasan
+  Kab se aawaaz lagaati hai musibat mein behan
+  Bhai soya lab-e-darya hai jagao Nana
 
   10
-  Bain sadiq ye behan ke the larazti thi zamiṅ
-  Rone waala mere bhai pe yahaṅ koi nahi
-  Aao ab farshe aza aa ke bichao nana
+  Bain Sadiq ye behan ke the larazti thi zamiṅ
+  Rone waala mere bhai pe yahaaṅ koi nahiṅ
+  Aao ab farsh-e-aza aa ke bichhao Nana
 ---
 
 خاک پر لاشہء شبیر ہے آؤ نانا

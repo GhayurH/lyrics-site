@@ -23,12 +23,12 @@ romanLyrics: |-
 
   2
   Laashe utha utha ke ab thak chuke haiṅ baba
-  Athaara saal waala tu hai jawaan beta
-  Maiṅ jaanti huṅ Akbar mushkil hai zaifi meiṅ
-  Tera laasha uthana
+  Athaarah saal waala tu hai jawaan beta
+  Main jaanti huṅ Akbar mushkil hai zaifi meiṅ
+  Tera laasha uthaana
 
   3
-  Mar jaaye jiska beta wo kaise gham uthaye
+  Mar jaaye jiska beta wo kaise gham uthaaye
   Tujh se lipat ke ran meiṅ Shabbir mar na jaaye
   Is maaṅ ke liye Akbar aasaan nahiṅ khaimoṅ meiṅ
   Do laashoṅ ko laana
@@ -36,18 +36,18 @@ romanLyrics: |-
   4
   Rakhe Khuda salaamat Akbar teri jawaani
   Bas tu hi Mustafa ki hai aakhri nishaani
-  Takte haiṅ tera chehra jab bhi tere baba ko
-  Yaad aate haiṅ nana
+  Takte haiṅ tera chehra jab bhi tera baba ko
+  Yaad aate haiṅ naana
 
   5
   Barchhi ka dard seh ke thehro ge kaise zin par
-  Jab dil pe haath rakh kar girne lago zamin par
-  Maiṅ tum ko sambhaaluṅ gi godi meiṅ utha luṅ gi
+  Jab dil pe haath rakh ke girne lago zamin par
+  Main tum ko sambhaaluṅ gi godi meiṅ utha luṅ gi
   Tum mujh ko bulaana
 
   6
   Ae laal sabr karna na dard se tarapna
-  Baba ke saamne tum mat aeriyaaṅ ragarna
+  Baba ke saamne tum mat eriyaaṅ ragarna
   Tum bete ho Laila ke wo dilbar-e-Zahra hai
   Ye bhul na jaana
 
@@ -55,18 +55,18 @@ romanLyrics: |-
   Jaate huwe phuphi se ek baar aur milna
   Armaan dil meiṅ koi reh jaaye na adhura
   Zainab ki tamanna hai beta tere maathe par
-  Sehra hai sajaana
+  Zahra hai sajaana
 
   8
   Jab Sughra yaad aayi ro ro ke maaṅ pukaari
-  Hai muntazir watan meiṅ kab se behen tumhari
+  Hai muntazir watan meiṅ kab se behen tumhaari
   Ye bhul nahiṅ jaana Sughra se abhi tum ne
-  Waada hai nibhana
+  Waada hai nibhaana
 
   9
   Zishan Aabidi wo maaṅ gir gayi zamin par
-  Khaime se jab jawaan ko ruqsat kiya ye keh kar
-  Jab barchhi koi maare is chaand se sine se
+  Khaime se jab ko rukhsat kiya ye keh kar
+  Jab chhuri koi maare is chaand se sine se
   Na dhaal hataana
 ---
 

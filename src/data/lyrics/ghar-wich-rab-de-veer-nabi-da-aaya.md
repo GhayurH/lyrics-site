@@ -14,22 +14,22 @@ recitationId: "ghar-wich-rab-de-veer-nabi-da-aya-lyrics-13-rajab"
 published: true
 romanLyrics: |-
   Ghar wich Rab de vir Nabi da aaya
-  Haq nu chhupaeiṅ naa ainu chhad jaeiṅ naa Rab ne shaan Ali da aap wadhaaya
+  Haq nuṅ chhupaaeiṅ naaṅ ainuṅ chhad jaaeiṅ naaṅ Rab ne shaan Ali da aap wadhaaya
 
   1
-  Puchh maaṅ Ali di kiweiṅ Kaabe wich aayi ae
+  Puchh maaṅ Ali di kiweṅ Kaabe wich aayi ae
   Khol ke diwaar Rab aap bulaayi ae
-  Kaabe de nishaanaaṅ nu Ali diyaaṅ shaanaaṅ nu jinna tauṅ chhupa le Rab ne aap wikhaaya
+  Kaabe de nishaanaaṅ nuṅ Ali diyaaṅ shaanaaṅ nuṅ jinna toṅ chhupa le Rab ne aap wikhaaya
 
   2
   Kaabe diyaaṅ kandhaaṅ kita Ali da tawaaf ae
   Tere vi gunaah mulla othe hone muaaf ae
-  Rab da ae waada ae odha ae iraada ae Kaaba aj tauṅ naam Ali de laaya
+  Rab da ae waada ae ohda ae iraada ae Kaaba aj toṅ naam Ali de laaya
 
   3
-  Saamne Ali de koi bhul ke vi aawe naa
-  Ghar oh jahannam che apna banaawe naa
-  Koi le ke aaya nayi kise ne banaaya nayi Rab ne baad Rasul imaam banaaya
+  Saamne Ali de koi bhul ke vi aawe naaṅ
+  Ghar oh jahannam che apna banaawe naaṅ
+  Koi le ke aaya naiṅ kise ne banaaya naiṅ Rab ne baad Rasul imaam banaaya
 ---
 
 گھر وچ رب دے ویر نبی دا آیا

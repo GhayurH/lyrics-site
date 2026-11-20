@@ -3,54 +3,97 @@ title: "سر کھلے ہائے زینب کہاں آ گئی"
 alternateTitle: "Sar Khule Haye Zainab Kahan Aa Gayi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ik yehi baat Sajjad ko kha gayi
+  Sar khulay haye Zainab kahan aa gayi
+
+  1
+  Tauq ke bojh se sar nahi tha jhuka
+  Wajah-e-Sharmindagi ik yehi dard tha
+  Majma-e-Ashqiya mein phophi aa gayi
+
+  2
+  Tap raha tha badan our zanjeer bhi
+  Be rida maa phophi our humsheer bhi
+  Sochtay they na kyunkar qaza aa gayi
+
+  3
+  Bibiyon ke galay reesma se bandhay
+  Gard aalod baloon se chehray chupay
+  Sham tak iss tarha Bint-e-Zahra gayi
+
+  4
+  Warison ke janazon pe roye nahi
+  Asar-e-Ashor ke baad soye nahi
+  Neend rukhsat hoi aankh pathra gayi
+
+  5
+  Ik tu zindan oss par andhera bohat
+  Our faryad karne pe pehra bohat
+  Maut bhi iss andherey se ghabra gayi
+
+  6
+  So gayi qaid khane mein woh ghamzada
+  Jis ka Sham-e-Ghareebaan mein daman jala
+  Qaid khane ki jis ko zameen kha gayi
+
+  7
+  Kaisay dafnaein jakrey hain zanjeer mein
+  Dard likhe hain kya sirf taqdeer mein
+  Dafan karne Sakina ko maa aa gayi
+
+  8
+  Dard Rehan Sajjad ke main likhon
+  Khama-e-Jaan se mere tapakta hai khoon
+  Roh-e-Qirtas iss gham se thara gayi
 ---
 
-Ik Yehi Baat Sajjad Ko Kha Gayi
-Sar Khulay Haye Zainab Kahan Aa Gayi
+اک یہی بات سجاد کو کھا گئی
+سر کھلے ہائے زینب کہاں آ گئی
 
-1
-Tauq Ke Bojh Se Sar Nahi Tha Jhuka
-Wajah-e-Sharmindagi Ik Yehi Dard Tha
-Majma-e-Ashqiya Mein Phophi Aa Gayi
+۱
+طوق کے بوجھ سے سر نہیں تھا جھکا
+وجہِ شرمندگی اک یہی درد تھا
+مجمعِ اشقیا میں پھوپھی آ گئی
 
-2
-Tap Raha Tha Badan Our Zanjeer Bhi
-Be Rida Maa Phophi Our Humsheer Bhi
-Sochtay They Na Kyunkar Qaza Aa Gayi
+۲
+تپ رہا تھا بدن اور زنجیر بھی
+بے ردا ماں پھوپھی اور ہمشیر بھی
+سوچتے تھے نہ کیونکر قضا آ گئی
 
-3
-Bibiyon Ke Galay Reesma Se Bandhay
-Gard Aalod Baloon Se Chehray Chupay
-Sham Tak Iss Tarha Bint-e-Zahra Gayi
+۳
+بیبیوں کے گلے ریسمان سے بندھے
+گرد آلود بالوں سے چہرے چھپے
+شام تک اس طرح بنتِ زہرا گئی
 
-4
-Warison Ke Janazon Pe Roye Nahi
-Asar-e-Ashor Ke Baad Soye Nahi
-Neend Rukhsat Hoi Aankh Pathra Gayi
+۴
+وارثوں کے جنازوں پہ روئے نہیں
+عصرِ عاشور کے بعد سوئے نہیں
+نیند رخصت ہوئی آنکھ پتھرا گئی
 
-5
-Ik Tu Zindan Oss Par Andhera Bohat
-Our Faryad Karne Pe Pehra Bohat
-Maut Bhi Iss Andherey Se Ghabra Gayi
+۵
+اک تو زنداں اس پر اندھیرا بہت
+اور فریاد کرنے پہ پہرا بہت
+موت بھی اس اندھیرے سے گھبرا گئی
 
-6
-So Gayi Qaid Khane Mein Woh Ghamzada
-Jis Ka Sham-e-Ghareebaan Mein Daman Jala
-Qaid Khane Ki Jis Ko Zameen Kha Gayi
+۶
+سو گئی قید خانے میں وہ غمزدہ
+جس کا شامِ غریباں میں دامن جلا
+قید خانے کی جس کو زمین کھا گئی
 
-7
-Kaisay Dafnaein Jakrey Hain Zanjeer Mein
-Dard Likhe Hain Kya Sirf Taqdeer Mein
-Dafan Karne Sakina Ko Maa Aa Gayi
+۷
+کیسے دفنائیں جکڑے ہیں زنجیر میں
+درد لکھے ہیں کیا صرف تقدیر میں
+دفن کرنے سکینہ کو ماں آ گئی
 
-8
-Dard Rehan Sajjad Ke Main Likhon
-Khama-e-Jaan Se Mere Tapakta Hai Khoon
-Roh-e-Qirtas Iss Gham Se Thara Gayi
+۸
+درد ریحان سجاد کے میں لکھوں
+خامۂ جاں سے مرے ٹپکتا ہے خون
+روحِ قرطاس اس غم سے تھرا گئی

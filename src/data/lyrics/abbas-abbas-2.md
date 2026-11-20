@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Laash par pahunche to ye kari faryad
+  Laash par pahunche to ye kari faryaad
   Abbas Abbas Abbas
 
   1
@@ -28,27 +28,27 @@ romanLyrics: |-
 
   3
   Bhaiya main aa gaya...
-  Kaise bhatiji bhaiya seh paayegi ye sadma
+  Kaise bhatiji bhaiya seh paaye gi ye sadma
   Dar par khari hai dekho khaali liye wo kuza
-  Is aas meiṅ ke ammu laayenge paani bhar kar
+  Is aas meiṅ ke ammu laayeṅ ge paani bhar kar
 
   4
   Bhaiya main aa gaya...
-  Puchhe Sakina mujh se ahwaal jab tumhara
+  Puchhe Sakina mujh se ahwaal jab tumhaara
   Itna bata do bhaiya kya keh ke duṅ dilaasa
-  Qaime meiṅ jaauṅ ga jab mashk o alam ko le kar
+  Khaime meiṅ jaauṅ ga jab mashk o alam ko le kar
 
   5
   Bhaiya main aa gaya...
   Quwwat na baazuoṅ meiṅ na zor hai kamar meiṅ
   Hai waqt kaafi baaqi bhaiya mere safar meiṅ
-  Manzil bahot hai mushkil paauṅ ga us ko kiuṅ kar
+  Manzil bahut hai mushkil paauṅ ga us ko kiuṅ kar
 
   6
   Bhaiya main aa gaya...
   Mere Anis dekho kis darja hai pareshaṅ
-  Uth kar madad ko pahuncho kuchh mushkileiṅ ho aasaṅ
-  Aisa na ho aza se munh pher le ye muztar
+  Uth kar madad ko pahuncho kuchh mushkileṅ ho aasaaṅ
+  Aisa na ho azaa se munh pher le ye muztar
 
   7
   Bhaiya main aa gaya...

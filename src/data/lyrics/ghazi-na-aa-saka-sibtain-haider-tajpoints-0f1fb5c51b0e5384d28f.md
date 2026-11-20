@@ -1,41 +1,72 @@
 ---
-title: "Ghazi Na Aa Saka Sibtain Haider"
+title: "غازی نہ آ سکا سبطین حیدر"
+alternateTitle: "Ghazi Na Aa Saka Sibtain Haider"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sahaab"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Darya se phir palat kar Ghazi na aa saka haye
+  Boli Sakina ro kar, Ghazi na aa saka haye
+  Aye pyasay bacho ab na pani ki aas rakhna
+  Tashna labi barhey gi kozay na pas rakhna
+
+  2
+  Bazu rahe na tan par Ghazi na aa saka haye
+  Khaimay ke dar se meri darya pe thi nigahein
+  Salar qafila ki main tak rahi thi rahein
+  Bigra magar muqadar Ghazi na aa saka haye
+
+  3
+  Chalni alam se liptay rotay hain mere baba
+  Khaimay mein Amma Zainab karti hain jab yeh giriya
+  Chin jaye ab na chadar, Ghazi na aa saka haye
+  Jholay ko tham kar yeh faryad kar rahi thi
+
+  4
+  Afsoos hai teri bhi ab pyas na bhujhay gi
+  Sun lo aye pyasay Asghar, Ghazi na aa saka haye
+  Sunti hoon teer jis dam mashkezay par laga tha
+  Pani jahan gira tha Ghazi wahin gira tha
+
+  5
+  Maqtal tha khon se tar, Ghazi na aa saka haye
+  Roya Sahaab likh ke woh Karbala ka manzar
+  Bazu buredah lasha tarpa tha Alqama par
+  Kehti thi jab woh muztar, Ghazi na aa saka haye
 ---
 
-1
-Darya Se Phir Palat Kar Ghazi Na Aa Saka Haye.
-Boli Sakina Ro Kar, Ghazi Na Aa Saka Haye.
-Aye Pyasay Bacho Ab Na Pani Ki Aas Rakhna.
-Tashna Labi Barhey Gi Kozay Na Pas Rakhna.
+۱
+دریا سے پھر پلٹ کر غازی نہ آ سکا ہائے
+بولی سکینہ رو کر، غازی نہ آ سکا ہائے
+اے پیاسے بچو اب نہ پانی کی آس رکھنا
+تشنہ لبی بڑھے گی کوزے نہ پاس رکھنا
 
-2
-Bazu Rahe Na Tan Par Ghazi Na Aa Saka Haye.
-Khaimay Ke Dar Se Meri Darya Pe Thi Nigahein.
-Salar Qafila Ki Main Tak Rahi Thi Rahein.
-Bigra Magar Muqadar Ghazi Na Aa Saka Haye.
+۲
+بازو رہے نہ تن پر غازی نہ آ سکا ہائے
+خیمے کے در سے میری دریا پہ تھیں نگاہیں
+سالارِ قافلہ کی میں تک رہی تھی راہیں
+بگڑا مگر مقدر غازی نہ آ سکا ہائے
 
-3
-Chalni Alam Se Liptay Rotay Hain Mere Baba.
-Khaimay Mein Amma Zainab Karti Hain Jab Yeh Giriya.
-Chin Jaye Ab Na Chadar, Ghazi Na Aa Saka Haye.
-Jholay Ko Tham Kar Yeh Faryad Kar Rahi Thi.
+۳
+چھلنی علم سے لپٹے روتے ہیں میرے بابا
+خیمے میں اماں زینب کرتی ہیں جب یہ گریہ
+چھن جائے اب نہ چادر، غازی نہ آ سکا ہائے
+جھولے کو تھام کر یہ فریاد کر رہی تھی
 
-4
-Afsoos Hai Teri Bhi Ab Pyas Na Bhujhay Gi.
-Sun Lo Aye Pyasay Asghar, Ghazi Na Aa Saka Haye.
-Sunti Hoon Teer Jis Dam Mashkezay Par Laga Tha.
-Pani Jahan Gira Tha Ghazi Wahin Gira Tha.
+۴
+افسوس ہے تیری بھی اب پیاس نہ بجھے گی
+سن لو اے پیاسے اصغر، غازی نہ آ سکا ہائے
+سنتی ہوں تیر جس دم مشکیزے پر لگا تھا
+پانی جہاں گرا تھا غازی وہیں گرا تھا
 
-5
-Maqtal Tha Khon Se Tar, Ghazi Na Aa Saka Haye.
-Roya Sahaab Likh Ke Woh Karbala Ka Manzar.
-Bazu Buredah Lasha Tarpa Tha Alqama Par.
-Kehti Thi Jab Woh Muztar, Ghazi Na Aa Saka Haye.
+۵
+مقتل تھا خون سے تر، غازی نہ آ سکا ہائے
+رویا سحاب لکھ کے وہ کربلا کا منظر
+بازو بریدہ لاشہ تڑپا تھا علقمہ پر
+کہتی تھی جب وہ مضطر، غازی نہ آ سکا ہائے

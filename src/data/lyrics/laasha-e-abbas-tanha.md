@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Chhid gayi mashk-e-Sakina zulm se
-  Pyaase bachche khaali kuza reh gaya
+  Pyaase bachche khaali kuze reh gaya
 
   3
   Kham hui is gham se Sarwar ki kamar
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   9
   Lut gaye duniya meiṅ kitne takht o taaj
-  Bas aza khaana hi Sheh ka reh gaya
+  Bas azaa khaana hi Sheh ka reh gaya
 
   10
   Parcham-e-Islaam aur Abbas ka

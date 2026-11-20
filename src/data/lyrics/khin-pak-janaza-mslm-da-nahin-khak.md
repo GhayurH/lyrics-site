@@ -5,9 +5,32 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Haji Muhammad Iqbal (Waa Hijab)"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kahiṅ paak janaaza Muslim da naiṅ khaak toṅ chaaya Eid de dinh
+  Raha rulda maiyat musaafir da kahiṅ neiṅ dafnaaya Eid de dinh
+
+  1
+  Baabe di laash toṅ nikhar gai Muslim di jori Kufe vich
+  Pardes ich paak Ruqaiya da rul gae sarmaaya Eid de dinh
+
+  2
+  Koi paak Husain kuṅ vanj aakhe Kufe vich bhainr na ghin aave
+  Kai vaari safir de laashe toṅ ae vainr hai aaya Eid de dinh
+
+  3
+  Khat likh sadaavanr vaale taaṅ masruf han Eid manaavanr vich
+  Mahruma senr aa Muslim da so jholi paaya Eid de dinh
+
+  4
+  Tore ummatiyaaṅ koloṅ kafan mangya Shabbir di pehli qurbaani
+  Mehmaan kuṅ Kufe de lokaaṅ neṅ kafan puaaya Eid de dinh
+
+  5
+  Gauhar bahuṅ lok guzarde rahe kahiṅ aan janaaza chaaya neṅ
+  Tore Muslim saamne har kahiṅ de bewatan sadaaya Eid de dinh
 
 ---
 

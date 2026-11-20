@@ -1,30 +1,50 @@
 ---
-title: "Haye O Mainda Ghareeb Baba Sharafat Ali Lyrics 2012"
+title: "ہائے او میندا غریب بابا شرافت علی"
+alternateTitle: "Haye O Mainda Ghareeb Baba Sharafat Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Khursheed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye o mainda ghareeb baba Sharafat Ali
+  Hoya kafan v na aye taikun naseeb baba
+  Tainday gal te gal main rakhdi mainda baba was na chaliya
+  Mainday samne taun baba ki ki zulm na jhaliya
+  Howay piyo de qatal welay na dhi ghareeb baba
+  Har koi jhinrkaan denda disda na koi dardi
+  Qasim na Ghazi, Akbar onda nazar na Hur v
+  Shozab te Jaun tur gaye na hain Habib baba
+  Fil qurba nu bhula ke kalma Nabi da parh ke
+  Parhday ray namazaan tainu baba qatal kar ke
+  Quran de aye qari naal aye khateeb baba
+  Maikon mar ke tamachay paye lash taun uthainday
+  Na karan denday matam na ron mainu denday
+  Wekhi aye rasam jag te aye main ajeeb baba
+  Jis seene te samndi saan oh seena main bhul jaan gi
+  Khursheed sain aakhay shikwa na main karan gi
+  Nezay te khon na ro Haq da naqeeb baba
 ---
 
-1
-Haye O Mainda Ghareeb Baba Sharafat Ali.
-Hoya Kafan V Na Aye Taikun Naseeb Baba.
-Tainday Gal Te Gal Main Rakhdi Mainda Baba Was Na Chaliya.
-Mainday Samne Taun Baba Ki Ki Zulm Na Jhaliya.
-Howay Piyo De Qatal Welay Na Dhi Ghareeb Baba.
-Har Koi Jhinrkaan Denda Disda Na Koi Dardi.
-Qasim Na Ghazi, Akbar Onda Nazar Na Hur V.
-Shozab Te Jaun Tur Gaye Na Hain Habib Baba.
-Fil Qurba Nu Bhula Ke Kalma Nabi Da Parh Ke.
-Parhday Ray Namazaan Tainu Baba Qatal Kar Ke.
-Quran De Aye Qari Naal Aye Khateeb Baba.
-Maikon Mar Ke Tamachay Paye Lash Taun Uthainday.
-Na Karan Denday Matam Na Ron Mainu Denday.
-Wekhi Aye Rasam Jag Te Aye Main Ajeeb Baba.
-Jis Seene Te Samndi Saan Oh Seena Main Bhul Jaan Gi.
- Khursheed Sain Aakhay Shikwa Na Main Karan Gi.
-Nezay Te Khon Na Ro Haq Da Naqeeb Baba.
+۱
+ہائے او میندا غریب بابا شرافت علی
+ہویا کفن وی نہ اے تیکوں نصیب بابا
+تیندے گَل تے گَل میں رکھدی میندا بابا وس نہ چلیا
+میندے سامنے توں بابا کی کی ظلم نہ جھلیا
+ہووے پیو دے قتل ویلے نہ دھی غریب بابا
+ہر کوئی جھڑکاں دیندا دسدا نہ کوئی دردی
+قاسم نہ غازی، اکبر آؤندا نظر نہ حُر وی
+شوذب تے جون ٹر گئے نہ ہن حبیب بابا
+فی القربیٰ نوں بھلا کے کلمہ نبی دا پڑھ کے
+پڑھدے رہے نمازاں تینوں بابا قتل کر کے
+قرآن دے اے قاری نال اے خطیب بابا
+میکوں مار کے تماچے پئے لاش توں اٹھائیندے
+نہ کرن دیندے ماتم نہ رون مینوں دیندے
+ویکھی اے رسم جگ تے اے میں عجیب بابا
+جس سینے تے سمندی ساں اوہ سینہ میں بھل جاں گی
+خورشید سائیں آکھے شکوہ نہ میں کراں گی
+نیزے تے خون نہ رو حق دا نقیب بابا

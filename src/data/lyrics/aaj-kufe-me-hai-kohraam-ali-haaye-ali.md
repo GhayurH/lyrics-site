@@ -1,6 +1,6 @@
 ---
 title: "آج کوفے میں ہے کہرام علیؑ ہائے علیؑ"
-alternateTitle: "Aaj Kufe Me Hai Kohraam Ali Haaye Ali"
+alternateTitle: "Aaj Kufe Mein Hai Kohraam Ali Haaye Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,54 +9,54 @@ reciter: "Ali Safdar Rizvi"
 aliases: []
 published: false
 romanLyrics: |-
-  Ali haaye ali
-  Aaj kufe me hai kohraam ali haaye ali
-  Hai falak larza bar andaam ali haaye ali
+  Ali haaye Ali
+  Aaj Kufe mein hai kohraam Ali haaye Ali
+  Hai falak larza bar andaam Ali haaye Ali
 
   1
-  Kaun zakhmi huwa sajde me zameen kaamp uthi
-  Kiska ye khun bahaa subha andhere me dhali
-  Kyun ajal laayi hai paygaam ali haaye ali
+  Kaun zakhmi hua sajde mein zameen kaanp uthi
+  Kis ka ye khun bahaa subha andhere mein dhali
+  Kiuṅ ajal laayi hai paighaam Ali haaye Ali
 
   2
-  Farqe insaaf pe ye zarb lagaayi kisne
-  Mazhare adl ki tasweer mitaayi kisne
-  Sar pe ab zulm ki hai shaam ali haaye ali
+  Farq-e-insaaf pe ye zarb lagaayi kis ne
+  Mazhar-e-adl ki tasvir mitaayi kis ne
+  Sar pe ab zulm ki hai shaam Ali haaye Ali
 
   3
-  Khul huwa haaye yateemon ka sahaara na raha
-  Kaun zainab ko bataaye tera baba na raha
-  Kaise paayegi wo aaraam ali haaye ali
+  Qatl hua haaye yatimoṅ ka sahaara na raha
+  Kaun Zainab ko bataaye tera baba na raha
+  Kaise paayegi wo aaraam Ali haaye Ali
 
   4
-  Aaj phir gulshane zehra me khiza aayi hai
-  Ranj o aalaam ki har samt ghataa chaayi hai
-  Tham gayi gardishe ayyaam ali haaye ali
+  Aaj phir gulshan-e-Zehra mein khizaaṅ aayi hai
+  Ranj o aalaam ki har samt ghataa chhaayi hai
+  Tham gayi gardish-e-ayyaam Ali haaye Ali
 
   5
-  Shabe hijrat jo raha nafse payambar ban kar
-  Faatahe badr o ohad faatahe khaybar ban kar
-  Uth gaya mohsine islaam ali haaye ali
+  Shab-e-hijrat jo raha nafs-e-payambar ban kar
+  Faatih-e-Badr o Uhud faatih-e-Khaybar ban kar
+  Uth gaya mohsin-e-Islaam Ali haaye Ali
 
   6
-  Ghash me hain zainab o kulsum khuda khayr kare
-  Dile abbas hai maghmoom khuda khayr kare
-  Kaamp uthe hain dar o waam ali haaye ali
+  Ghash mein haiṅ Zainab o Kulsum Khuda khayr kare
+  Dil-e-Abbaas hai maghmum Khuda khayr kare
+  Kaanp uthe haiṅ dar o baam Ali haaye Ali
 
   7
-  Kar rahe hain dar o diwaar ali ka maatam
-  Aasmaan jinn o malak nauhakunaa hain payham
-  Kaise dil ko mile aaraam ali haaye ali
+  Kar rahe haiṅ dar o divaar Ali ka maatam
+  Aasmaaṅ jinn o malak nauha kunaaṅ haiṅ payham
+  Kaise dil ko mile aaraam Ali haaye Ali
 
   8
-  Aale ehmad ke masaaib ki nahi koyi had
-  Saamra ho ke najaf ho ke madina mashhad
-  Kufa o karbobala shaam ali haaye ali
+  Aal-e-Ahmad ke masaaib ki nahiṅ koi had
+  Saamra ho ke Najaf ho ke Madina Mashhad
+  Kufa o Karb o Bala Shaam Ali haaye Ali
 
   9
-  Hai zafar waqte dua maang le ab ro ro kar
-  Jab likha jaaye ghulaamaane ali ka daftar
-  Us me shaamil ho mera naam
+  Hai Zafar waqt-e-dua maang le ab ro ro kar
+  Jab likha jaaye ghulaamaan-e-Ali ka daftar
+  Us mein shaamil ho mera naam
 ---
 
 علی ہائے علی

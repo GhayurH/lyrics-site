@@ -1,28 +1,42 @@
 ---
-title: "Subhe Qayamat Saleem Mastan Wa Bradran"
+title: "صبحِ قیامت سلیم مستان و برادران"
+alternateTitle: "Subhe Qayamat Saleem Mastan Wa Bradran"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Uneeswein ki subha qayam ki subha hai
+  Bint e Ali pe haye musibat ki subha hai
+  Noh gari ki subha aziyat ki subha hai
+  Matam karo Ali pe zarbat ki subha hai
+  Rote hain sab malaika rota hai har bashar
+  Masjid mein war ho gaya ik roze daar par
+
+  2
+  Ikeeswein ko shor utha wa musibata
+  Rukhsat howa jahan se damad e Mustafa
+  Rote hain sar ko peet ke Abbas e ba wafa
+  Kofay mein ho gaya hai yeh aaghaz e Karbala
+  Shiyon pe aaj haye yeh gham hi shadeed hai
+  Zainab yateem ho gayi nazdeek Eid hai
 ---
 
-Subhe Qayamat Saleem Mastan Wa Bradran.
+۱
+انیسویں کی صبح قیام کی صبح ہے
+بنتِ علی پہ ہائے مصیبت کی صبح ہے
+نوحہ گری کی صبح اذیت کی صبح ہے
+ماتم کرو علی پہ ضربت کی صبح ہے
+روتے ہیں سب ملائکہ روتا ہے ہر بشر
+مسجد میں وار ہو گیا اک روزے دار پر
 
-1
-Uneeswein Ki Subha Qayam Ki Subha Hai.
-Bint e Ali Pe Haye Musibat Ki Subha Hai.
-Noh Gari Ki Subha Aziyat Ki Subha Hai.
-Matam Karo Ali Pe Zarbat Ki Subha Hai.
-Rote Hain Sab Malaika Rota Hai Har Bashar.
-Masjid Mein War Ho Gaya Ik Roze Daar Par.
-
-2
-Ikeeswein Ko Shor Utha Wa Musibata.
-Rukhsat Howa Jahan Se Damad e Mustafa.
-Rote Hain Sar Ko Peet Ke Abbas e Ba Wafa.
-Kofay Mein Ho Gaya Hai Yeh Aaghaz e Karbala.
-Shiyon Pe Aaj Haye Yeh Gham Hi Shadeed Hai.
-Zainab Yateem Ho Gayi Nazdeek Eid Hai.
+۲
+اکیسویں کو شور اٹھا وا مصیبتا
+رخصت ہوا جہاں سے دامادِ مصطفیٰ
+روتے ہیں سر کو پیٹ کے عباسِ باوفا
+کوفے میں ہو گیا ہے یہ آغازِ کربلا
+شیعوں پہ آج ہائے یہ غم ہی شدید ہے
+زینب یتیم ہو گئی نزدیک عید ہے

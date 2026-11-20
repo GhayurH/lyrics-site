@@ -13,69 +13,69 @@ aliases: []
 published: true
 romanLyrics: |-
   Abbas mir-e-lashkaram
-  Shakl-e-Ali Sher-e-Khuda
+  Shakl-e-Ali sher-e-Khuda
   Shabbir sa jaah o hasham
   Abbas mir-e-lashkaram
 
   1
   Aaya Ali ka laadla
   Kehte the dushman barmala
-  Sab de do is ko rasta
-  Warna karega sar qalam
+  Sab de do is ko raasta
+  Warna kare ga sar qalam
 
   2
-  Ek naujawaṅ ek shahsawar
-  Haathoṅ meiṅ neza tez dhaar
-  Dushman giraaye beshumar
+  Ik naujawaaṅ ik shahsawar
+  Haathoṅ mein neza tez dhaar
+  Dushman giraaye beshumaar
   Barhta gaya yuṅ dam ba dam
 
   3
   Darya pe jaana hai use
-  Pani pilana hai use
-  Waada nibhana hai use
-  Khai Sakina ki qasam
+  Paani pilaana hai use
+  Waada nibhaana hai use
+  Khaai Sakina ki qasam
 
   4
-  Raah-e-wafa meiṅ khuṅ diya
-  Ek bund na pani piya
+  Raah-e-wafa mein khuṅ diya
+  Ik bund na paani piya
   Darya pe jab gaara alam
   Sab keh uthe Arab o Ajam
 
   5
-  Maidaaṅ meiṅ jab Ghazi gaya
+  Maidaaṅ mein jab Ghazi gaya
   Haider ki tarah dat gaya
   Parcham ko jhukne na diya
-  Aur ho gaye bazu qalam
+  Aur ho gaye baazu qalam
 
   6
   Mashk-e-Sakina chhid gayi
-  Pyasi Sakina reh gayi
+  Pyaasi Sakina reh gayi
   Na aas Ammu ki rahi
-  Jab aa gaya khali alam
+  Jab aa gaya khaali alam
 
   7
   Ghore se jab Ghazi gira
-  Shabbir ka ek baawafa
+  Shabbir ka ik baawafa
   Dunya se rukhsat ho gaya
   Ujra hai Zainab ka bharam
 
   8
   Abbas ne Sheh se kaha
   Aaqa meri hai iltija
-  Laasha na jaaye khaimoṅ meiṅ
+  Laasha na jaaye khaimoṅ mein
   Kar dijiye itna karam
 
   9
   Bachchoṅ ka tuta aasra
   Aaya alam jo khuṅ bhara
-  Ghash meiṅ Sakina gir pari
+  Ghash mein Sakina gir pari
   Ye ho gaya kaisa alam
 
   10
   Irfan ki hai iltija
   Mesum ki puri ho dua
-  Nohagar tera maiṅ rahuṅ
-  Jab tak rahe sine meiṅ dam
+  Noha gar tera main rahuṅ
+  Jab tak rahe sine mein dam
 ---
 
 عباس میرِ لشکرم

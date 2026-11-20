@@ -1,35 +1,61 @@
 ---
 title: "امُ البنینؑ کا ہے بولتا قرآن غازیؑ"
+alternateTitle: "Ummul Baneen Ka Hay Bolta Quran Ghazi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ummul Baneen ka hay,
+  Bolta Quran Ghazi
+
+  1
+  Jahanh bulandh e alam hay
+  Wahanh, wahanh Ghazi
+
+  2
+  Alam Abbas ka hay,
+  Aasra jahaanonh ka
+  Hay sajda dheh dheh alam pay
+  Yeh aasmanh Ghazi
+
+  3
+  Ba waqt e shaam e ghareebanh,
+  Yeh aa rahee thee sada
+  Khayaam jall chookay haynh
+  Ho tum kahanh Ghazi?
+
+  4
+  Kuch iss taranh say chullay,
+  Ghazi soo e nehr e Furaat
+  Teri wafa pay hay naazanh,
+  Zainab kee maanh Ghazi
 ---
 
-UMMUL BANEEN KA HAY,
-BOLTA QURAN GHAZI
+ام البنین کا ہے،
+بولتا قرآن غازی
 
-1
-JAHANH BULANDH E ALAM HAY (2)
-WAHANH, WAHANH GHAZI.....
+۱
+جہاں بلندِ علم ہے
+وہاں، وہاں غازی
 
-2
-1) ALAM ABBAS KA HAY,
-AASRA JAHAANONH KA
-HAY SAJDA DHEH DHEH ALAM PAY
-YEH AASMANH GHAZI.....
+۲
+علم عباس کا ہے،
+آسرا جہانوں کا
+ہے سجدہ دے دے علم پہ
+یہ آسماں غازی
 
-3
-2) BA WAQT E SHAAM E GHAREEBANH,
-YEH AA RAHEE THEE SADA
-KHAYAAM JALL CHOOKAY HAYNH
-HO TUM KAHANH GHAZI?
+۳
+بوقتِ شامِ غریباں،
+یہ آ رہی تھی صدا
+خیام جل چکے ہیں
+ہو تم کہاں غازی؟
 
-4
-3) KUCH ISS TARANH SAY CHULLAY,
-GHAZI SOO E NEHR E FURAAT
-TERI WAFA PAY HAY NAAZANH,
-ZAINAB KEE MAANH GHAZI.....
+۴
+کچھ اس طرح سے چلے،
+غازی سوئے نہرِ فرات
+تیری وفا پہ ہے نازاں،
+زینب کی ماں غازی

@@ -1,50 +1,90 @@
 ---
-title: "Ali Ki Dosri Tasveer Ko Abbas Kehte Hain Lyrics 2008"
+title: "علی کی دوسری تصویر کو عباس کہتے ہیں"
+alternateTitle: "Ali Ki Dosri Tasveer Ko Abbas Kehte Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ali ki dosri tasveer ko Abbas kehte hain
+  Dua-e-madar-e-Shabir ko Abbas kehte hain
+
+  1
+  Wafadaron ki dunya mein wafadari yeh kehti hai
+  Ossi dast-e-bureeda ki qalamkari yeh kehti hai
+  Wafa ke katib-e-taqdeer ko Abbas kehte hain
+  Faqat teer-e-tabasum se ulat kar rakh diya lashkar
+
+  2
+  Qaza ne hath jorey samne bache ke yeh keh kar
+  Jihad-e-Asghar-e-be-sheer ko Abbas kehte hain
+  Woh waris deen-e-Ahmad ke shujat inka wirsa hai
+  Agar Quran hain Shabir yeh Nehj-e-Balaga hai
+
+  3
+  Ali ke hath ki tehreer ko Abbas kehte hain
+  Jahan ki zulmatein Zainab ki janib aaein gi kaise
+  Nigahein ghair mehram ki wahan tak jaein gi kaise
+  Hisar-e-chadar-e-tatheer ko Abbas kehte hain
+
+  4
+  Itaat, sabar, aysaar-o-muhabbat, ishq salari
+  Karam, mashk-o-alam, tashna labi, darya, wafadari
+  Inhi aayat ki tafseer ko Abbas kehte hain
+  Abu Talib ke betay ne namazoon mein jise manga
+
+  5
+  Janab-e-Fatima Zahra ne jiss ko keh diya beta
+  Hum aise sahib-e-tauqeer ko Abbas kehte hain
+  Bina talwar ke takht-e-Yazeedi kar diya takhta
+  Parhe tareekh ke auraq tu yeh khul giya uqda
+
+  6
+  Kahein Sajjad ki taqreer ko Abbas kehte hain
+  Karam jis ka Takallum hai mere likhne likhane mein
+  Woh jiss ke noor ki hai roshni sare zamane mein
+  Ossi ke noor ki tanveer ko Abbas kehte hain
 ---
 
-Ali Ki Dosri Tasveer Ko Abbas Kehte Hain.
-Dua-e-Madar-e-Shabir Ko Abbas Kehte Hain.
+علی کی دوسری تصویر کو عباس کہتے ہیں
+دعائے مادرِ شبیر کو عباس کہتے ہیں
 
-1
-Wafadaron Ki Dunya Mein Wafadari Yeh Kehti Hai.
-Ossi Dast-e-Bureeda Ki Qalamkari Yeh Kehti Hai.
-Wafa Ke Katib-e-Taqdeer Ko Abbas Kehte Hain.
-Faqat Teer-e-Tabasum Se Ulat Kar Rakh Diya Lashkar.
+۱
+وفاداروں کی دنیا میں وفاداری یہ کہتی ہے
+اُسی دستِ بریدہ کی قلم کاری یہ کہتی ہے
+وفا کے کاتبِ تقدیر کو عباس کہتے ہیں
+فقط تیرِ تبسم سے الٹ کر رکھ دیا لشکر
 
-2
-Qaza Ne Hath Jorey Samne Bache Ke Yeh Keh Kar.
-Jihad-e-Asghar-e-Be-Sheer Ko Abbas Kehte Hain.
-Woh Waris Deen-e-Ahmad Ke Shujat Inka Wirsa Hai.
-Agar Quran Hain Shabir Yeh Nehj-e-Balaga Hai.
+۲
+قضا نے ہاتھ جوڑے سامنے بچے کے یہ کہہ کر
+جہادِ اصغرِ بے شیر کو عباس کہتے ہیں
+وہ وارث دینِ احمد کے شجاعت ان کا ورثہ ہے
+اگر قرآن ہیں شبیر یہ نہج البلاغہ ہے
 
-3
-Ali Ke Hath Ki Tehreer Ko Abbas Kehte Hain.
-Jahan Ki Zulmatein Zainab Ki Janib Aaein Gi Kaise.
-Nigahein Ghair Mehram Ki Wahan Tak Jaein Gi Kaise.
-Hisar-e-Chadar-e-Tatheer Ko Abbas Kehte Hain.
+۳
+علی کے ہاتھ کی تحریر کو عباس کہتے ہیں
+جہاں کی ظلمتیں زینب کی جانب آئیں گی کیسے
+نگاہیں غیر محرم کی وہاں تک جائیں گی کیسے
+حصارِ چادرِ تطہیر کو عباس کہتے ہیں
 
-4
-Itaat,Sabar,Aysaar-o-Muhabbat, Ishq Salari.
-Karam,Mashk-o-Alam, Tashna Labi, Darya, Wafadari.
-Inhi Aayat Ki Tafseer Ko Abbas Kehte Hain.
-Abu Talib Ke Betay Ne Namazoon Mein Jise Manga.
+۴
+اطاعت، صبر، ایثار و محبت، عشق سالاری
+کرم، مشک و علم، تشنہ لبی، دریا، وفاداری
+انہی آیات کی تفسیر کو عباس کہتے ہیں
+ابو طالب کے بیٹے نے نمازوں میں جسے مانگا
 
-5
-Janab-e-Fatima Zahra Ne Jiss Ko Keh Diya Beta.
-Hum Aise Sahib-e-Tauqeer Ko Abbas Kehte Hain.
-Bina Talwar Ke Takht-e-Yazeedi Kar Diya Takhta.
-Parhe Tareekh Ke Auraq Tu Yeh Khul Giya Uqda.
+۵
+جنابِ فاطمہ زہرا نے جس کو کہہ دیا بیٹا
+ہم ایسے صاحبِ توقیر کو عباس کہتے ہیں
+بنا تلوار کے تختِ یزیدی کر دیا تختہ
+پڑھے تاریخ کے اوراق تو یہ کھل گیا عقدہ
 
-6
-Kahein Sajjad Ki Taqreer Ko Abbas Kehte Hain.
-Karam Jis Ka Takallum Hai Mere Likhne Likhane Mein.
-Woh Jiss Ke Noor Ki Hai Roshni Sare Zamane Mein.
-Ossi Ke Noor Ki Tanveer Ko Abbas Kehte Hain.
+۶
+کہیں سجاد کی تقریر کو عباس کہتے ہیں
+کرم جس کا تکلم ہے میرے لکھنے لکھانے میں
+وہ جس کے نور کی ہے روشنی سارے زمانے میں
+اُسی کے نور کی تنویر کو عباس کہتے ہیں

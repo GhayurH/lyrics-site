@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Naujawaaṅ baap ki piri ka sahaara Akbar
-  Qatl naize se kiya haye Aashur ke din
+  Qatl neze se kiya haye Aashur ke din
 
   4
   Quwwat-e-baazu-e-Shabbir haram ki dhaaras
@@ -40,14 +40,14 @@ romanLyrics: |-
 
   7
   Kaat kar gulshan-e-Zehra ko jafaakaaroṅ ne
-  Luta kar kar ke jafa haye Aashur ke din
+  Bhuka kar kar ke jafa haye Aashur ke din
 
   8
   Sar barehna kiya sayyidaaniyoṅ ko aada ne
   Chhin kar sar se rida haye Aashur ke din
 
   9
-  Jis ke dur chhin ke zaalim ne tamaache maare
+  Jis ke durr chhin ke zaalim ne tamaache maare
   Us ka daaman bhi jala haye Aashur ke din
 
   10

@@ -30,9 +30,9 @@ romanLyrics: |-
   Fauj-e-Khuda ka haaye alamdar gir para
 
   3
-  Tharra uthega gham se biyaabaan-e-Karbala
+  Tharra utha gham se biyaabaan-e-Karbala
   Royegi khun shaam-e-gharibaan-e-Karbala
-  Rassi meiṅ baandhe jaayeṅge mehmaan-e-Karbala
+  Rassi meiṅ baandheṅ jaayeṅge mehmaan-e-Karbala
   Fauj-e-Khuda ka haaye alamdar gir para
 
   4

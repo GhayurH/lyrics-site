@@ -8,24 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Gham-e-Shabbir Meiṅ Ankho Se Jo Ansu Bahate Haiṅ
-  Zahe Qismat Wo Hi Jannat Me Ghar Apna Banate Haiṅ
+  Gham-e-Shabbir meiṅ aaṅkhoṅ se jo aansu bahaate haiṅ
+  Zahe qismat wo hi jannat meiṅ ghar apna banaate haiṅ
 
   1
-  Lahed Me Jab Farishto Ne Mujhe Dekha To Yuṅ Bole
-  Teri Imdad Ko Mushkil Kusha Tashrif Late Haiṅ
+  Lahad meiṅ jab farishtoṅ ne mujhe dekha to yuṅ bole
+  Teri imdaad ko Mushkil Kusha tashrif laate haiṅ
 
   2
-  Kamar Tuti Huyi Hai Shaha Ki Abbas Ke Gham Me
-  Ye Himmat Hai Jawan Farzand Ki Mayyat Uthate Haiṅ
+  Kamar tuti hui hai Shaah ki Abbas ke gham meiṅ
+  Ye himmat hai jawaan farzand ki mayyat uthaate haiṅ
 
   3
-  Kaha Rokar Ye Zainab Ne Madad Ko Aeye Baba
-  Sitamgar Abid-e-Bimar Ko Beri Pehnate Haiṅ
+  Kaha rokar ye Zainab ne madad ko aaiye Baba
+  Sitamgar Abid-e-Bimaar ko beri pehnaate haiṅ
 
   4
-  Zara Dekhe to Koi Hosla iss Ghar Ke Bachcho Ka
-  Ali Asghar Gale Par Tir Kha Ke Muskurate Haiṅ.
+  Zara dekhe to koi hausla is ghar ke bachchoṅ ka
+  Ali Asghar gale par tir kha ke muskuraate haiṅ
 ---
 
 غم شبیرؑ میں آنکھوں سے جو آنسو بہاتے ہیں

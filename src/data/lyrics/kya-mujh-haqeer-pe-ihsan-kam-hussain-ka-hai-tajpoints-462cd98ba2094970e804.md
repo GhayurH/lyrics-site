@@ -1,24 +1,38 @@
 ---
-title: "Kya Mujh Haqeer Pe Ihsan Kam Hussain Ka Hai"
+title: "کیا مجھ حقیر پہ احسان کم حسین کا ہے"
+alternateTitle: "Kya Mujh Haqeer Pe Ihsan Kam Hussain Ka Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jo meri aankhon ke aagay harm Hussain ka hai
+  Lahad mein ja ke karaon ga mehfil-e-Shabir
+  Mere kafan pe qasida raqam Hussain ka hai
+  Tu matami ko kabhi goar se tu dekh zara
+  Ke oss ke seene pe naqsh-e-qadam Hussain ka hai
+  Banaya Hur ko alaihis salaam ik pal mein
+  Zamana dekh lein aisa karam Hussain ka hai
+  Kahon na kis tarha ashar mein rawani mein
+  Mere shaor ki had pe alam Hussain ka hai
+  Kalam kehna mere bas mein tha kahan Raqib
+  Zamane bhar mein ye mera bharam Hussain ka hai
 ---
 
-1
-Jo Meri Aankhon Ke Aagay Harm Hussain Ka Hai.
-Lahad Mein Ja Ke Karaon Ga Mehfil-e-Shabir.
-Mere Kafan Pe Qasida Raqam Hussain Ka Hai.
-Tu Matami Ko Kabhi Goar se Tu Dekh Zara.
-Ke Oss Ke Seene Pe Naqsh-e-Qadam Hussain Ka Hai.
-Banaya Hur Ko Alaihis Salaam Ik Pal Mein.
-Zamana Dekh Lein Aisa Karam Hussain Ka Hai.
-Kahon Na Kis Tarha Ashar Mein Rawani Mein.
-Mere Shaor Ki Had Pe Alam Hussain Ka Hai.
-Kalam Kehna Mere Bas Mein Tha Kahan Raqib.
-Zamane Bhar Mein Ye Mera Bharam Hussain Ka Hai.
+۱
+جو میری آنکھوں کے آگے حرم حسین کا ہے
+لحد میں جا کے کراؤں گا محفلِ شبیر
+میرے کفن پہ قصیدہ رقم حسین کا ہے
+تو ماتمی کو کبھی غور سے تو دیکھ ذرا
+کہ اُس کے سینے پہ نقشِ قدم حسین کا ہے
+بنایا حُر کو علیہ السلام اک پل میں
+زمانہ دیکھ لیں ایسا کرم حسین کا ہے
+کہوں نہ کس طرح اشعار میں روانی میں
+میرے شعور کی حد پہ عَلَم حسین کا ہے
+کلام کہنا میرے بس میں تھا کہاں رقیب
+زمانے بھر میں یہ میرا بھرم حسین کا ہے

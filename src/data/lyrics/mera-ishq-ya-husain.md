@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Mujh par karam Khuda ka zamaane se hai juda
-  Mera bharam hai rauza-e-Abbas-e-baawafa
+  Mera bharam hai rauza-e-Abbas baawafa
   Maiṅ qibla-e-wafa huṅ mera ishq ya Husain
 
   3

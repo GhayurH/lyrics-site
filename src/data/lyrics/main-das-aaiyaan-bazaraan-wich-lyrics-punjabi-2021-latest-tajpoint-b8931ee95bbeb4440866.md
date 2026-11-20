@@ -1,29 +1,47 @@
 ---
-title: "Main Das Aaiyaan Bazaraan Wich Lyrics Punjabi 2021 Latest"
+title: "میں دس آئیاں بازاراں وچ"
+alternateTitle: "Main Das Aaiyaan Bazaraan Wich"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main das aayiyaan bazaraan wich assi bagi nayi meri maa da naam Batool aye
+  Jinay khanjar de heth namaz parhi manwa aayi aan oh deen da pak usool aye
+  Mainu dukh renrein darbar de wich main aakhdi rayi
+  Mainu sar uryan pe wekhday oh tusi janrday nayi mera nana pak Rasool aye
+
+  2
+  Main fateh saan par dil mera piya ronda si
+  Main veer apne da katiya sar jadon Shamiyaan taun kita chadraan naal wasool aye
+  Saday sabar da naa hai sabit Rab da sabar howay
+  Jehra nabiyaan sabar wakhaya nayi oh chadraan de asaan kita sabar qabool aye
+
+  3
+  Main aakhdi rayi sar veer da tak ke nezay te
+  Loko Quran da ainj te nayi mere nanay de hoya dil te pak nazool aye
+  Haye Sham wichon kiwein Jaun oh zindah aa gayi aye
+  Asghar taun le Shabbir taein jis bibi da hoya ghar da ghar maqtool aye
 ---
 
-1
-Main Das Aayiyaan Bazaraan Wich Assi Bagi Nayi Meri Maa Da Naam Batool Aye.
-Jinay Khanjar De Heth Namaz Parhi Manwa Aayi Aan Oh Deen Da Pak Usool Aye.
-Mainu Dukh Renrein Darbar De Wich Main Aakhdi Rayi.
-Mainu Sar Uryan Pe Wekhday Oh Tusi Janrday Nayi Mera Nana Pak Rasool Aye.
+۱
+میں دس آئیاں بازاراں وچ اسی باغی نئیں میری ماں دا نام بتول اے
+جنے خنجر دے ہیٹھ نماز پڑھی منوا آئی آں اوہ دین دا پاک اصول اے
+مینوں دکھ رین ریں دربار دے وچ میں آکھدی رہی
+مینوں سر عریاں پئے ویکھدے او تسی جاندے نئیں میرا نانا پاک رسول اے
 
-2
-Main Fateh Saan Par Dil Mera Piya Ronda Si.
-Main Veer Apne Da Katiya Sar Jadon Shamiyaan Taun Kita Chadraan Naal Wasool Aye.
-Saday Sabar Da Naa Hai Sabit Rab Da Sabar Howay.
-Jehra Nabiyaan Sabar Wakhaya Nayi Oh Chadraan De Asaan Kita Sabar Qabool Aye.
+۲
+میں فتح ساں پر دل میرا پیا روندا سی
+میں ویر اپنے دا کٹیا سر جدوں شامیاں توں کیتا چادراں نال وصول اے
+ساڈے صبر دا ناں ہے ثابت رب دا صبر ہووے
+جیہڑا نبیاں صبر وکھایا نئیں اوہ چادراں دے اساں کیتا صبر قبول اے
 
-3
-Main Aakhdi Rayi Sar Veer Da Tak Ke Nezay Te.
-Loko Quran Da Ainj Te Nayi Mere Nanay De Hoya Dil Te Pak Nazool Aye.
-Haye Sham Wichon Kiwein Jaun Oh Zindah Aa Gayi Aye.
-Asghar Taun Le Shabbir Taein Jis Bibi Da Hoya Ghar Da Ghar Maqtool Aye.
+۳
+میں آکھدی رہی سر ویر دا تک کے نیزے تے
+لوکو قرآن دا انج تے نئیں میرے نانے دے ہویا دل تے پاک نزول اے
+ہائے شام وچوں کیویں جون اوہ زندہ آ گئی اے
+اصغر توں لے شبیر تائیں جس بی بی دا ہویا گھر دا گھر مقتول اے

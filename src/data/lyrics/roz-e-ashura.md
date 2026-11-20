@@ -12,9 +12,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
+  Kullu yaumin Aashura kullu arzin Karbala ya Husain ya Husain
 
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
+  Allah Allah roz-e-Aashura karo maatam karo gham aur parho nauha
   Arsh waloṅ ne kiya farsh waloṅ ne kiya chaand taaroṅ ne kiya
   Ya Husain Husain Husain ya Husain
   Ya Husain Husain Husain ya Husain
@@ -22,36 +22,36 @@ romanLyrics: |-
   1
   Jab basi Karbobala wo hai aashur ka din
   Jis ka gham kam na hua wo hai yaad aashur ka din
-  Yaad meiṅ jis ki sadaa bichhta hai farsh-e-aza
+  Yaad mein jis ki sadaa bichhta hai farsh-e-aza
   Hota maatam hai bapa paara paara hai dil-e-Zehra
 
   Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
+  Allah Allah roz-e-Aashura karo maatam karo gham aur parho nauha
+  Kullu yaumin Aashura kullu arzin Karbala ya Husain ya Husain
   Ya Husain Husain Husain ya Husain
   Ya Husain Husain Husain ya Husain
 
   2
   Mominoṅ socho zara das Muharram jo hua
-  Ghar Nabi paak ka tha jo tha laakhoṅ meiṅ ghira
+  Ghar Nabi paak ka tha jo tha laakhoṅ mein ghira
   Jin pe har zulm hua jin ko paani na diya
   Pyaasa hi maar diya Aal-e-Ahmad ka ujar jaana
 
   Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
+  Allah Allah roz-e-Aashura karo maatam karo gham aur parho nauha
   Arsh waloṅ ne kiya farsh waloṅ ne kiya chaand taaroṅ ne kiya
   Ya Husain Husain Husain ya Husain
   Ya Husain Husain Husain ya Husain
 
   3
-  Haaṅ suno Ashura Bibi Zainab se zara
+  Haaṅ suno Aashura Bibi Zainab se zara
   Saamne jis ke luta ghar sar-e-Karbobala
   Jis ka kuchh bhi na bacha jis ka dil tukre hua
   Jis ka ghar qaidi bana kaise Zainab ne ye sab dekha
 
   Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
+  Allah Allah roz-e-Aashura karo maatam karo gham aur parho nauha
+  Kullu yaumin Aashura kullu arzin Karbala ya Husain ya Husain
   Ya Husain Husain Husain ya Husain
   Ya Husain Husain Husain ya Husain
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Koi baaqi na raha jis ka paamaal hua laasha
 
   Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
+  Allah Allah roz-e-Aashura karo maatam karo gham aur parho nauha
   Arsh waloṅ ne kiya farsh waloṅ ne kiya chaand taaroṅ ne kiya
   Ya Husain Husain Husain ya Husain
   Ya Husain Husain Husain ya Husain
@@ -71,11 +71,11 @@ romanLyrics: |-
   Ba khuda yaad rahe kya hai tehzib-e-aza
   Ho azaadaari bapa aur namaazeṅ bhi adaa
   Lab pe ya Allah rahe ya Rasul Allah rahe
-  Ya Ali Maula rahe aise hota rahe Ashura
+  Ya Ali Maula rahe aise hota rahe Aashura
 
   Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
+  Allah Allah roz-e-Aashura karo maatam karo gham aur parho nauha
+  Kullu yaumin Aashura kullu arzin Karbala ya Husain ya Husain
   Ya Husain Husain Husain ya Husain
   Ya Husain Husain Husain ya Husain
 ---

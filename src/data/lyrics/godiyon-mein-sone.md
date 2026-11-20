@@ -12,27 +12,27 @@ tags: []
 aliases: ["Godhiyon May Sone"]
 published: true
 romanLyrics: |-
-  Godiyoṅ meiṅ sone waali
-  So gayi zindaaṅ meiṅ
+  Godiyoṅ mein sone waali
+  So gayi zindaaṅ mein
 
   Bole Aabid kya bataauṅ
-  Dard ke tufaan meiṅ
+  Dard ke tufaan mein
 
   1
-  Kis qadar armaan tha
-  Ho kar riha jaauṅgi ghar
+  Kis qadar aaraam tha
+  Ho kar riha jaauṅ gi ghar
   Kis qadar khush hogi Sughra
   Mujh ko zinda dekh kar
-  Kya khabar thi jaayeṅgi ghar
-  Baaliyaaṅ saamaan meiṅ
+  Kya khabar thi jaayeṅ gi ghar
+  Baaliyaaṅ saamaan mein
 
   2
   Baap ka sar tab mila
-  Jab tan se kuch rishta na tha
-  God meiṅ sar le ke boli
-  Haaye Baba maiṅ fida
+  Jab tan se kuchh rishta na tha
+  God mein sar le ke boli
+  Haaye Baba main fida
   Kaise rakhuṅ sar tumhaare
-  Is jale daamaan meiṅ
+  Is jale daamaan mein
 
   3
   Karbala se barh ke Baba
@@ -40,7 +40,7 @@ romanLyrics: |-
   Raat din mujh ko rulaana
   Zaalimoṅ ka kaam hai
   Kab taalluq tut jaaye
-  Jism meiṅ aur jaan meiṅ
+  Jism mein aur jaan mein
 
   4
   Qaid-e-tanhaai hai Baba
@@ -48,7 +48,7 @@ romanLyrics: |-
   Maiṅ jahaaṅ qaidi huṅ Baba
   Din charhe bhi raat hai
   Rah rahi huṅ baad-e-ammu
-  Waadi-e-sunsaan meiṅ
+  Waadi-e-sunsaan mein
 
   5
   Chand lamhoṅ ki huṅ mehmaan
@@ -56,7 +56,7 @@ romanLyrics: |-
   Phir na jaane aap ko
   Kis waqt kab fursat mile
   Dard hai Baba kai din
-  Se hamaare kaan meiṅ
+  Se hamaare kaan mein
 
   6
   Ek bhai saath hai
@@ -64,15 +64,15 @@ romanLyrics: |-
   Nind jaise dur mujh se
   Wo bhi mujh se dur hai
   Ab watan jaana nahiṅ
-  Shaayad mere imkaan meiṅ
+  Shaayad mere imkaan mein
 
   7
   Kis kaleje se parhuṅ
-  Noha bhala maiṅ Shadmaaṅ
+  Noha bhala main Shadmaaṅ
   Aa gayi hai ek ek
   Misre pe meri lab pe jaaṅ
   Soz kis ne bhar diya hai
-  Khaama-e-Rehaan meiṅ
+  Khaama-e-Rehaan mein
 ---
 
 گودیوں میں سونے والی

@@ -7,6 +7,29 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dhi jholi pai hai, Akbar da baba, ekoṅ tuṅ athindaaeṅ ya main athaavaaṅ
+  Waaqif haiṅ tuṅ taaṅ mede zulm koloṅ, dhi tuṅ trindaaeṅ ya main travaaṅ
+
+  1
+  Kiuṅ aukhe vele dhi kuṅ sadaayaa i, maalum hai tekuṅ beraham haaṅ main
+  Meda naam kya hai, kiveṅ marindaaṅ, ekoṅ tuṅ dasindaaeṅ ya main dasaavaaṅ
+
+  2
+  Main tekuṅ maarnar kite haaṅ aaya, e kiuṅ rukaavat medi aa banri hai
+  Shabbir, apnri dhi laadli kuṅ aj tuṅ hatindaaeṅ ya main hataavaaṅ
+
+  3
+  Tuṅ pyaar karke samjhisaiṅ dhi kuṅ, medi taaṅ fitrat hai jhanrkaaṅ diunnar
+  Jiveṅ tedi marzi, ekoṅ khemiyaaṅ da raah tuṅ dekhandaaeṅ ya main dikhaavaaṅ
+
+  4
+  Hath kiveṅ chamindaaeṅ, Maasuma dhi, kiuṅ ende sar te pya bose dindaaeṅ
+  Aahda Shimr hai, e pyaar vaali gal tuṅ mukindaaeṅ ya main mukaavaaṅ
+
+  5
+  Aahda Zafar, ro Akbar da baba, kya tedi vi koi aulaad koi naiṅ
+  Val val jo zaalim aahda hai mekuṅ, ekoṅ tuṅ pachindaaeṅ ya pachaavaaṅ
 ---
 
 دھی‪ ‬جھولی‪ ‬پئی‪ ‬ہئی‪ ‬اکبرداباباایکوں‪ ‬توں‪ ‬اٹھیندائیں‪ ‬یا‪ ‬میں‪ ‬اٹھاواں

@@ -1,50 +1,90 @@
 ---
-title: "Haye Ali Murtaza"
+title: "ہائے علی مرتضیٰ"
+alternateTitle: "Haye Ali Murtaza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Aun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab-o-Kulsoom ka noha yeh tha haye Ali Murtaza haye Ali Murtaza
+  Aap pe yeh ho gayi kaisi jafa haye Ali Murtaza haye Ali Murtaza
+
+  1
+  Mah-e-Mubarak mein yeh joor-o-jafa
+  Sajda-e-Mabood mein khoon beh gaya
+  Gaunj rahi hai yeh fiza mein sada
+  Fatah-e-Siffeen-o-Nahrawan ko
+
+  2
+  Mara gaya deen ke sultan ko
+  Khon mein tar haye musalla howa
+  Khoon mein dobaya gaya Quran ko
+  Mara gaya markaz-e-eman ko
+
+  3
+  Rotay hain marqad mein Rasool-e-Khuda
+  Haye taraptay hain lehad mein Nabi
+  Qatal howa rozay mein Haq ka wali
+  Ashk fishaan gham mein hai Khalq-e-Khuda
+
+  4
+  Rotay hain Hasnain hai matam bapa
+  Shoor hai har simt keh yeh kiya howa
+  Zakhmi howa sajday mein Shair-e-Khuda
+  Laye gaye Bait-e-Sharf mein Ali
+
+  5
+  Pehle qayamat se qayamat hoi
+  Betiyon ne baap pe giriya kiya
+  Munhidam arkan-e-hidayat howa
+  Qad qotila ki hai fiza mein sada
+
+  6
+  Arsh pe Jibreel ne noha parha
+  Rota hai masjid mein musalla lahu
+  Wah Aliya ki hai sada chaar so
+  Aun howa Kofay mein mehshar bapa
 ---
 
-Zainab-o-Kulsoom Ka Noha Yeh Tha Haye Ali Murtaza Haye Ali Murtaza.
-Aap Pe Yeh Ho Gayi Kaisi Jafa Haye Ali Murtaza Haye Ali Murtaza.
+زینب و کلثوم کا نوحہ یہ تھا ہائے علی مرتضیٰ ہائے علی مرتضیٰ
+آپ پہ یہ ہو گئی کیسی جفا ہائے علی مرتضیٰ ہائے علی مرتضیٰ
 
-1
-Mah-e-Mubarak Mein Yeh Joor-o-Jafa.
-Sajda-e-Mabood Mein Khoon Beh Gaya.
-Gaunj Rahi Hai Yeh Fiza Mein Sada.
-Fatah-e-Siffeen-o-Nahrawan Ko.
+۱
+ماہِ مبارک میں یہ جور و جفا
+سجدۂ معبود میں خون بہ گیا
+گونج رہی ہے یہ فضا میں صدا
+فاتحِ صفین و نہروان کو
 
-2
-Mara Gaya Deen Ke Sultan Ko.
-Khon Mein Tar Haye Musalla Howa.
-Khoon Mein Dobaya Gaya Quran Ko.
-Mara Gaya Markaz-e-Eman Ko.
+۲
+مارا گیا دین کے سلطان کو
+خون میں تر ہائے مصلّٰی ہوا
+خون میں ڈبویا گیا قرآن کو
+مارا گیا مرکزِ ایماں کو
 
-3
-Rotay Hain Marqad Mein Rasool-e-Khuda.
-Haye Taraptay Hain Lehad Mein Nabi.
-Qatal Howa Rozay Mein Haq Ka Wali.
-Ashk Fishaan Gham Mein Hai Khalq-e-Khuda.
+۳
+روتے ہیں مرقد میں رسولِ خدا
+ہائے تڑپتے ہیں لحد میں نبی
+قتل ہوا روضے میں حق کا ولی
+اشک فشاں غم میں ہے خلقِ خدا
 
-4
-Rotay Hain Hasnain Hai Matam Bapa.
-Shoor Hai Har Simt Keh Yeh Kiya Howa.
-Zakhmi Howa Sajday Mein Shair-e-Khuda.
-Laye Gaye Bait-e-Sharf Mein Ali.
+۴
+روتے ہیں حسنین ہے ماتم بپا
+شور ہے ہر سمت کہ یہ کیا ہوا
+زخمی ہوا سجدے میں شیرِ خدا
+لائے گئے بیتِ شرف میں علی
 
-5
-Pehle Qayamat Se Qayamat Hoi.
-Betiyon Ne Baap Pe Giriya Kiya.
-Munhidam Arkan-e-Hidayat Howa.
-Qad Qotila Ki Hai Fiza Mein Sada.
+۵
+پہلے قیامت سے قیامت ہوئی
+بیٹیوں نے باپ پہ گریہ کیا
+منہدم ارکانِ ہدایت ہوا
+قد قُتِلَ کی ہے فضا میں صدا
 
-6
-Arsh Pe Jibreel Ne Noha Parha.
-Rota Hai Masjid Mein Musalla Lahu.
-Wah Aliya Ki Hai Sada Chaar So.
- Aun Howa Kofay Mein Mehshar Bapa.
+۶
+عرش پہ جبریل نے نوحہ پڑھا
+روتا ہے مسجد میں مصلّٰی لہو
+وا علیا کی ہے صدا چار سو
+عون ہوا کوفے میں محشر بپا

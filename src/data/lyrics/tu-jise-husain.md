@@ -66,7 +66,7 @@ romanLyrics: |-
   7
   Jab tere qarib aa gaya
   Jaun nur meiṅ nahaa gaya
-  Yusufoṅ ke dil pe chhaa gaya
+  Yusuf ke dil pe chhaa gaya
   Shahr-e-Misr tilmila gaya
   Husn ko zakaat mil gayi
 

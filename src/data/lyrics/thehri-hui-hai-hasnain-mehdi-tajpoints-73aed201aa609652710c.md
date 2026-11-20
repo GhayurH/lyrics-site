@@ -1,41 +1,72 @@
 ---
-title: "Thehri Hui Hai Hasnain Mehdi"
+title: "ٹھہری ہوئی ہے حسنین مہدی"
+alternateTitle: "Thehri Hui Hai Hasnain Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jahan aal-e-abba thehri hoi hai
+  Wahin zaat-e-Khuda thehri hoi hai
+  Galay Shabbir se Hur mil raha hai
+  Kahin pichey khata thehri hoi hai
+
+  2
+  Kiya hai jab se majlis ka iradah
+  Merey ghar Fatima thehri hoi hai
+  Tabasum par Ali Asghar ke ab tak
+  Nigah-e-kibriya thehri hoi hai
+
+  3
+  Yeh dil hai matami ka our iss mein
+  Riza-e-Fatima thehri hoi hai
+  Farishtay hi nahi banney ko zair
+  Qatar-e-anbiya thehri hoi hai
+
+  4
+  Aye Rahib our betay mang Sheh se
+  Teri khatir atta thehri hoi hai
+  Kisaye Fatima Zahra hai, jis mein
+  Shifa e Mustafa thehri hoi hai
+
+  5
+  Rakhay jo bugz Shah-e-La Fata se
+  Woh nasal-e-la pata thehri hoi hai
+  Asad khak-e-shifa ka faiz hai jo
+  Zamane mein shifa thehri hoi hai
 ---
 
-1
-Jahan Aal-e-Abba Thehri Hoi Hai.
-Wahin Zaat-e-Khuda Thehri Hoi Hai.
-Galay Shabbir Se Hur Mil Raha Hai.
-Kahin Pichey Khata Thehri Hoi Hai.
+۱
+جہاں آلِ عبا ٹھہری ہوئی ہے
+وہیں ذاتِ خدا ٹھہری ہوئی ہے
+گلے شبیر سے حُر مل رہا ہے
+کہیں پیچھے خطا ٹھہری ہوئی ہے
 
-2
-Kiya Hai Jab Se Majlis Ka Iradah.
-Merey Ghar Fatima Thehri Hoi Hai.
-Tabasum Par Ali Asghar Ke Ab Tak.
-Nigah-e-Kibriya Thehri Hoi Hai.
+۲
+کیا ہے جب سے مجلس کا ارادہ
+میرے گھر فاطمہ ٹھہری ہوئی ہے
+تبسم پر علی اصغر کے اب تک
+نگاہِ کبریا ٹھہری ہوئی ہے
 
-3
-Yeh Dil Hai Matami Ka Our Iss Mein.
-Riza-e-Fatima Thehri Hoi Hai.
-Farishtay Hi Nahi Banney Ko Zair.
-Qatar-e-Anbiya Thehri Hoi Hai.
+۳
+یہ دل ہے ماتمی کا اور اس میں
+رضائے فاطمہ ٹھہری ہوئی ہے
+فرشتے ہی نہیں بننے کو زائر
+قطارِ انبیا ٹھہری ہوئی ہے
 
-4
-Aye Rahib Our Betay Mang Sheh Se.
-Teri Khatir Atta Thehri Hoi Hai.
-Kisaye Fatima Zahra Hai, Jis Mein.
-Shifa e Mustafa Thehri Hoi Hai.
+۴
+اے راہب اور بیٹے مانگ شہ سے
+تیری خاطر عطا ٹھہری ہوئی ہے
+کسائے فاطمہ زہرا ہے، جس میں
+شفائے مصطفیٰ ٹھہری ہوئی ہے
 
-5
-Rakhay Jo Bugz Shah-e-La Fata Se.
-Woh Nasal-e-La Pata Thehri Hoi Hai.
- Asad Khak-e-Shifa Ka Faiz Hai Jo.
-Zamane Mein Shifa Thehri Hoi Hai.
+۵
+رکھے جو بغض شاہِ لا فتیٰ سے
+وہ نسلِ لاپتا ٹھہری ہوئی ہے
+اسد خاکِ شفا کا فیض ہے جو
+زمانے میں شفا ٹھہری ہوئی ہے

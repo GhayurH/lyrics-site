@@ -8,6 +8,25 @@ reciter: "Ali Safdar Rizvi"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Duniya jo dekhi din se khaali Husain ne
+  Buniyaad la ilaha ki daali Husain ne
+
+  1
+  Jannat ki aarzu mein kahaaṅ ja rahe haiṅ log
+  Jannat to Karbala mein mangaa li Husain ne
+
+  2
+  Bas ek sawaal baiat-e-faasiq ko rad kiya
+  Warna kisi ki baat na taali Husain ne
+
+  3
+  Maqtal se kya uthaaya shabih-e-Rasul ne
+  Lagta hai kaainaat uthaa li Husain ne
+
+  4
+  Allah ke Nabi ko mayassar na ho sake
+  Ansaar aise paaye misaali Husain ne
 ---
 
 دنیا جو دیکھی دین سے خالی حسینؑ نے

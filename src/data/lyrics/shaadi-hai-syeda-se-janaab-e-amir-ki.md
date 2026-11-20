@@ -23,13 +23,13 @@ romanLyrics: |-
 
   2
   Haiṅ bemisaal saare baraati baraat meiṅ
-  Dulha Ali sa kaun hai is kaaenaat meiṅ
+  Dulha Ali sa kaun hai is kaainaat meiṅ
   Beti ka haath deṅ ge Nabi us ke haath meiṅ
   Aadam ki jis ke haathoṅ ne mitti khamir ki
 
   3
   Naushaah par nisaar hai Yusuf sa khubru
-  Sehra Ali ka parhte haiṅ Daud-e-khush gulu
+  Sehra Ali ka parhte haiṅ Daud khush gulu
   Sadqa Ali ke naam ka batta hai chaar su
   Jholi Khuda ne bhar di hai ik ik faqir ki
 
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   5
   Jannat nashiṅ shaana ba shaana Ali ke haiṅ
-  Paikar hasiṅ shaana ba shaana Ali ke haiṅ
+  Paikar-e-hasiṅ shaana ba shaana Ali ke haiṅ
   Ruh al-Amin shaana ba shaana Ali ke haiṅ
   Hairat meiṅ hai nigaah har ik raahgir ki
 
@@ -52,9 +52,9 @@ romanLyrics: |-
   Baraat kya hasiṅ hai roshan zamir ki
 
   7
-  Aayi hai fikr nur ki waadi meiṅ ghum ke
-  Maula-e-kaaenaat ke sehre ko chum ke
-  Kehta hai dil ye Akhtar o Sajjad jhum ke
+  Aayi hai fikr-e-nur ki waadi meiṅ ghum ke
+  Maula-e-kaainaat ke sehre ko chum ke
+  Kehta hai dil ye Akhtar o Sajjaad jhum ke
   Duniya nazir laaye mere dastgir ki
 ---
 

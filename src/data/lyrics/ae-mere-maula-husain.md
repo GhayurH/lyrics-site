@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Khuṅ kiye qalb-e-Ali monis-e-Islam-e-Nabi
   Fatima Zehra ka pisar ibn-e-Rasul-e-Arabi
-  Haye purhaul biyaabaaṅ hai koi monis o yaawar bhi nahiṅ
+  Haye purhaul bibiyaaṅ hai koi monis o yaawar bhi nahiṅ hai
   Dasht meiṅ tanha hai Husain ibn-e-Ali
 
   2
@@ -43,11 +43,11 @@ romanLyrics: |-
   Khinch li rote hue apni zabaaṅ Baanu-e-muztar ke pisar ne bhi
   Sar-e-khaima dahan se tere
   Waali-e-kaun o makaaṅ Shah-e-Zaman saaqi-e-Kausar ke pisar
-  Roz-e-dahum haye teri tashnalabi
+  Roz-e-doem haye teri tashnalabi
 
   5
   Garm maqtal ki hawa phul kumlaaya hua
-  Haye wo shishmaha
+  Haye wo shishmaaha
   Asr-e-Ashur sar-e-Karb o Bala ahl-e-aza tir-e-sitamgar se faqat
   Gardan-e-Asghar hi nahiṅ
   Chhid gaya dasht meiṅ mamta ka gala saath meiṅ hulqum-e-tamanna-e-padar
@@ -56,8 +56,8 @@ romanLyrics: |-
   6
   Khun rota tha jahaaṅ dukhtar-e-Shah-e-Zaman
   Haye Abbas ki jaaṅ
-  Shaam hote hi Sakina ki rida chhini gauhar chhine lainoṅ ne
-  Tamaachoṅ se aziyat de kar
+  Shaam hote hi Sakina ki rida chhini gauhar chhine la'inoṅ ne
+  Tamaanchoṅ se aziyat de kar
   Haye afsos sitamgaaroṅ ne itna bhi na socha ki ye
   Beyaar o madadgaar hai beti shah ki
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   Dard ka lehja Bilal gham ka aaina Bilal
   Ye tera nauha Bilal
   Khub Aamir ne parha dard meiṅ duba hua ye nauha-e-gham
-  Uthne lagi aah o buka ki aawaaz
+  Uthne lagi aah o bukaa ki aawaaz
   Ab tamanna hai ke likha hai jo ye nauha-e-gham jald ho maqbul
   Sar-e-baargaah-e-Aal-e-Nabi
 ---

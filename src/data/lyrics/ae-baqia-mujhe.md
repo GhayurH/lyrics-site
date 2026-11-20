@@ -13,7 +13,7 @@ aliases: ["Ay Baqia Mujhe"]
 published: true
 romanLyrics: |-
   Ae Baqia mujhe tera gham hai
-  Is liye to ye aankh purnam hai
+  Is liye to ye aankh pur nam hai
 
   1
   Jab se tera ye inhidaam hua
@@ -21,17 +21,17 @@ romanLyrics: |-
   Ab to ik iztiraab-e-paiham hai
 
   2
-  Qabr-e-Zehra jo dhaai aada ne
+  Qabr-e-Zehra jo dhaai aadaa ne
   Kya bigaara tha in ka dukhiya ne
   Hum to jitna bhi royeṅ wo kam hai
 
   3
-  Hai jo besaaya turbat-e-Sajjad
+  Hai jo besaaya turbat-e-Sajjaad
   Kiuṅ na hum ghamzada kareṅ faryaad
   Is se barh kar bhi koi kya gham hai
 
   4
-  Qabr Baqir ki aur Jafar ki
+  Qabr Baaqir ki aur Jafar ki
   Hai shikasta jo qabr Shabbar ki
   Har taraf sog ka sa aalam hai
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Is ki tauqir to muqaddam hai
 
   6
-  Jab bhi tashrif laayeṅge Mehdi
+  Jab bhi tashrif laayeṅ ge Mehdi
   Hoga taamir phir Baqia bhi
   Mujh ko ik ye hi aas har dam hai
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Jis ne Zehra ka dil dukhaaya hai
   Aur unheṅ umr bhar rulaaya hai
-  Us pe lanat hi ab to har dam hai
+  Us pe laanat hi ab to har dam hai
 
   9
   Chain Izhaar yuṅ nahiṅ aata

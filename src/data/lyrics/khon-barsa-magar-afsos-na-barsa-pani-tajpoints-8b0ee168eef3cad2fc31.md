@@ -1,59 +1,108 @@
 ---
-title: "Khon Barsa Magar Afsos Na Barsa Pani"
+title: "خون برسا مگر افسوس نہ برسا پانی"
+alternateTitle: "Khon Barsa Magar Afsos Na Barsa Pani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najam"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khon barsa magar afsos na barsa pani
+  Mangta reh gaya Ahmad ka nawasa pani
+  Sabar ki had ko dikhana tha sar-e-karb-o-bala
+  Warna Shabir ki thokar se hai nikla pani
+
+  2
+  Furat ho ke pasheman iss tarha se gaya
+  Keh sadiyaan beet gayin our na palta pani
+  Ran mein jo Asghar e be sheer ko pyasa dekha
+  Sharam se ho gaya pani ka kaleja pani
+
+  3
+  Padar ke hathoon pe Asghar ne muskura ke kaha
+  Gar ijazat ho tu ho jaye yeh sehra pani
+  Maula Abbas jo darya ko ishara kartay
+  Badlay lashkar ke siyah karoon se larta pani
+
+  4
+  Khod kar nanhi lehad bolay yeh betay se Hussain
+  Ab pilaein gay meri jaan tumhein nana pani
+  Waqt-e-Aakhir mere Maula ne yeh paigham diya
+  Yaad kar lena mujhe jab piyo thanda pani
+
+  5
+  Barsar e lasha-e-shabir yeh Zainab ne kaha
+  Waqt-e-Zibha bhi mere bhai na paya pani
+  Hasrat-o-Yaas se taktay rahe pyasay bachay
+  Jab sitamgaron ke mashkezay se chalka pani
+
+  6
+  Ashk Sajjad ki aankhon se rawaan hotey rahe
+  Samne jab kabhi nazron ke hai guzra pani
+  Sar ko takra ta hai ab bhi woh lehad se unn ki
+  Aaj bhi dekhein tu Ghazi ka hai sheda pani
+
+  7
+  Karbala ka hai yeh paigham jahan walon ko
+  Jeet pyason ki hoi our hai hara pani
+  Sab tarastey rahe pani ko sar-e-karb-o-bala
+  Our pyason ke labon ke liye tarsa pani
+
+  8
+  Karbala walon se iss tarha jori tashna labi
+  Har azadar ke nohay ka hai unwaan pani
+  Tashna lab kat gaya Shabbir ka lashkar aye Najam
+  Haye Qaiser raha kis tarha se zindah pani
 ---
 
-1
-Khon Barsa Magar Afsos Na Barsa Pani.
-Mangta Reh Gaya Ahmad Ka Nawasa Pani.
-Sabar Ki Had Ko Dikhana Tha Sar-e-Karb-o-Bala.
-Warna Shabir Ki Thokar Se Hai Nikla Pani.
+۱
+خون برسا مگر افسوس نہ برسا پانی
+مانگتا رہ گیا احمد کا نواسا پانی
+صبر کی حد کو دکھانا تھا سرِ کرب و بلا
+ورنہ شبیر کی ٹھوکر سے ہے نکلا پانی
 
-2
-Furat Ho Ke Pasheman Iss Tarha Se Gaya.
-Keh Sadiyaan Beet Gayin Our Na Palta Pani.
-Ran Mein Jo Asghar e Be Sheer Ko Pyasa Dekha.
-Sharam Se Ho Gaya Pani Ka Kaleja Pani.
+۲
+فرات ہو کے پشیماں اس طرح سے گیا
+کہ صدیاں بیت گئیں اور نہ پلٹا پانی
+رن میں جو اصغرِ بے شیر کو پیاسا دیکھا
+شرم سے ہو گیا پانی کا کلیجا پانی
 
-3
-Padar Ke Hathoon Pe Asghar Ne Muskura Ke Kaha.
-Gar Ijazat Ho Tu Ho Jaye Yeh Sehra Pani.
-Maula Abbas Jo Darya Ko Ishara Kartay.
-Badlay Lashkar Ke Siyah Karoon Se Larta Pani.
+۳
+پدر کے ہاتھوں پہ اصغر نے مسکرا کے کہا
+گر اجازت ہو تو ہو جائے یہ صحرا پانی
+مولا عباس جو دریا کو اشارہ کرتے
+بدلے لشکر کے سیاہ کاروں سے لڑتا پانی
 
-4
-Khod Kar Nanhi Lehad Bolay Yeh Betay Se Hussain.
-Ab Pilaein Gay Meri Jaan Tumhein Nana Pani.
-Waqt-e-Aakhir Mere Maula Ne Yeh Paigham Diya.
-Yaad Kar Lena Mujhe Jab Piyo Thanda Pani.
+۴
+کھود کر ننھی لحد بولے یہ بیٹے سے حسین
+اب پلائیں گے میری جان تمہیں نانا پانی
+وقتِ آخر میرے مولا نے یہ پیغام دیا
+یاد کر لینا مجھے جب پیو ٹھنڈا پانی
 
-5
-Barsar e Lasha-e-Shabir Yeh Zainab Ne Kaha.
-Waqt-e-Zibha Bhi Mere Bhai Na Paya Pani.
-Hasrat-o-Yaas Se Taktay Rahe Pyasay Bachay.
-Jab Sitamgaron Ke Mashkezay Se Chalka Pani.
+۵
+بر سرِ لاشۂ شبیر یہ زینب نے کہا
+وقتِ ذبح بھی میرے بھائی نہ پایا پانی
+حسرت و یاس سے تکتے رہے پیاسے بچے
+جب ستمگروں کے مشکیزے سے چھلکا پانی
 
-6
-Ashk Sajjad Ki Aankhon Se Rawaan Hotey Rahe.
-Samne Jab Kabhi Nazron Ke Hai Guzra Pani.
-Sar Ko Takra Ta Hai Ab Bhi Woh Lehad Se Unn Ki.
-Aaj Bhi Dekhein Tu Ghazi Ka Hai Sheda Pani.
+۶
+اشک سجاد کی آنکھوں سے رواں ہوتے رہے
+سامنے جب کبھی نظروں کے ہے گزرا پانی
+سر کو ٹکراتا ہے اب بھی وہ لحد سے ان کی
+آج بھی دیکھیں تو غازی کا ہے شیدا پانی
 
-7
-Karbala Ka Hai Yeh Paigham Jahan Walon Ko.
-Jeet Pyason Ki Hoi Our Hai Hara Pani.
-Sab Tarastey Rahe Pani Ko Sar-e-Karb-o-Bala.
-Our Pyason Ke Labon Ke Liye Tarsa Pani.
+۷
+کربلا کا ہے یہ پیغام جہاں والوں کو
+جیت پیاسوں کی ہوئی اور ہے ہارا پانی
+سب ترستے رہے پانی کو سرِ کرب و بلا
+اور پیاسوں کے لبوں کے لیے ترسا پانی
 
-8
-Karbala Walon Se Iss Tarha Jori Tashna Labi.
-Har Azadar Ke Nohay Ka Hai Unwaan Pani.
-Tashna Lab Kat Gaya Shabbir Ka Lashkar Aye Najam.
-Haye Qaiser Raha Kis Tarha Se Zindah Pani.
+۸
+کربلا والوں سے اس طرح جوڑی تشنہ لبی
+ہر عزادار کے نوحے کا ہے عنوان پانی
+تشنہ لب کٹ گیا شبیر کا لشکر اے نجم
+ہائے قیصر رہا کس طرح سے زندہ پانی

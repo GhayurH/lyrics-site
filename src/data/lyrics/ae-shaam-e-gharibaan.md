@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ay Shame Ghariban"]
 published: true
 romanLyrics: |-
-  Ae shaam-e-gharibaaṅ mujhe kuch haal suna de
+  Ae shaam-e-gharibaaṅ mujhe kuchh haal suna de
   Kufe meiṅ asiroṅ pe jo guzri hai bata de
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Rudaad suna Sibt-e-Payambar pe jo guzri
   Asghar pe jo guzri Ali Akbar pe jo guzri
-  Qasim pe aur Abbas-e-dilaawar pe jo guzri
+  Qaasim pe aur Abbas-e-dilaawar pe jo guzri
   Aur wo bhi bata Bibi ki chaadar pe jo guzri
 
   3
@@ -35,15 +35,15 @@ romanLyrics: |-
 
   4
   Kya haal hua baad meiṅ Shabbir ke ghar ka
-  Kuch haal bata mujh ko asiroṅ ke safar ka
+  Kuchh haal bata mujh ko asiroṅ ke safar ka
   Kaisa tha ujaala Bani Haashim ke qamar ka
   Kya haal tha us waqt shahaadat ke asar ka
 
   5
-  Abid pe Uruj aisi musibat ki ghari thi
+  Aabid pe Uruj aisi musibat ki ghari thi
   Bimaar the aur paaoṅ meiṅ zanjir pari thi
-  Har chand ke mushkil thi magar baat bari thi
-  Kis tarah se te ki gayi manzil jo kari thi
+  Har chand keh mushkil thi magar baat bari thi
+  Kis tarah se tay ki gayi manzil jo kari thi
 ---
 اے شامِ غریباں مجھے کچھ حال سُنا دے
 کوفے میں اسیروں پہ جو گُزری ہے بتا دے

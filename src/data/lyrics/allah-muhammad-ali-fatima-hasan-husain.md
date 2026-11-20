@@ -10,79 +10,76 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Durood Shareef
-  Kardo Karam Rakh Lo Bharam
-  Main Ban Ke Sawali Aap Ke Dar Par Aaya Hoon
-  Bin Aap Ke Mera Nahi Koi Sahara Ho Karam Khudara
-  Daman Phailaye Betha Hoon Kab Se
-  Nahi Lauton Ga Jab Tak Meri Mushkil Na Ho Aasan
+  Durud sharif
+  Kar do karam rakh lo bharam
+  Main ban ke sawaali aap ke dar par aaya huṅ
+  Bin aap ke mera nahiṅ koi sahaara ho karam khudaara
+  Daaman phailaaye baitha huṅ kab se
+  Nahiṅ lautuṅ ga jab tak meri mushkil na ho aasaan
   Allah Muhammad Ali Fatima Hasan Husain
 
   1
-  Aap Ke Asghar Ke Jholay Se Lipta Hoon
-  Be Oladon Ke Haq Mein Yeh Kehta Hoon
-  Jo Bhi Jholay Se Kurta Le Kar Jaye
-  Oss Bibi Ki Khali Jholi Bhar Jaye
-  Pori Yeh Dua Ho
-  Aoulad Atta Ho
-  Be Oladon Ko Aap Ke Sadqay Mil Jaye Santan
-
-  Yaad Aati Hai Jab Karbala Dil Rota Hai Mera
-  Mujhe Dekhna Hai Har Baras Abbas Ka Roza
+  Aap ke Asghar ke jhole se lipta huṅ
+  Be aulaadoṅ ke haq meiṅ yeh kehta huṅ
+  Jo bhi jhole se kurta le kar jaaye
+  Us Bibi ki khaali godi hai woh bhar jaaye
+  Puri yeh dua ho
+  Aulaad ata ho
+  Be aulaadoṅ ko aap ke sadqe mil jaaye santaan
 
   2
-  Janta Hoon Muflis Hoon Ghar Mein Ghurbat Hai
-  Karb o Bala Jane Ki Phir Bhi Hasrat Hai
-  Door Main Ab Maula Se Reh Na Paon Ga
-  Unn Ki Yaad Mein Ro Ro Kar Mar Jaon Ga
-  Meri Aas Ko Bhaijein
-  Abbas Ko Bhejein
-  Saqa-e-Sakina Ki Ghurbat Par Hona Hai Qurban
+  Jaanta huṅ muflis huṅ ghar meiṅ ghurbat hai
+  Karb o bala jaane ki phir bhi hasrat hai
+  Dur main ab Maula se reh na paauṅ ga
+  Un ki yaad meiṅ ro ro kar mar jaauṅ ga
+  Meri aas ko bhejeṅ
+  Abbas ko bhejeṅ
+  Saqa-e-Sakina ki ghurbat par hona hai qurbaan
 
   3
-  Dekhta Hoon Apne Bachoon Ka Jab Chehra
-  Hota Hai Ahsas Ghar Na Hone Ka
-  Wasta Deta Hoon Main Jaltay Khaimon Ka
-  Ho Jaye Iss Saal Mera Bhi Ghar Apna
-  Jahan Alam Sajaon
-  Majlis Karwaon
-  Meri Hasrat Hai Ke Aap Banein Ik Din Mere Mehman
+  Dekhta huṅ apne bachchoṅ ka jab chehra
+  Hota hai ehsaas ghar na hone ka
+  Waasta deta huṅ main jalte khaimoṅ ka
+  Ho jaaye is saal mera bhi ghar apna
+  Jahaaṅ alam sajaauṅ
+  Majlis karwaauṅ
+  Meri hasrat hai ke aap baneṅ ik din mere mehmaan
 
   4
-  Jald Shifa Mil Jaye Sab Beemaron Ko
-  Maon Se Milwa Dein Unn Ke Pyaron Ko
-  Jo Maqroz Hain Qarz Ada Ho Ab Unn Ka
-  Rahe Salamat Maon Behno Ka Pardah
-  Gham Sheh Ke Siwaye
-  Gham Koi Na Aaye
-  Karta Hoon Dua Mehfooz Rahe Har Molai Ki Jan
+  Jald shifa mil jaaye sab bimaaroṅ ko
+  Maaoṅ se milwa deṅ un ke pyaaroṅ ko
+  Jo maqruz haiṅ qarz ada ho ab un ka
+  Rahe salaamat maaoṅ behnoṅ ka parda
+  Gham-e-Sheh ke siwaaye
+  Gham koi na aaye
+  Karta huṅ dua mehfuz rahe har Maulai ki jaan
 
   5
-  Maula Husain Ko Akbar Ka Pursa De Kar
-  Hum Ne Shab-e-Juma Yeh Dua Mangi Ro Kar
-  Chor Gaye Hain Hum Ko Jitnay Bhi Pyaray
-  Rehmatein Nazil Kijiye Unn Ki Qabron Pe
-  Mushkil Na Hoon Rastay
-  Barzakh Ke Safar Se
-  Mere Marhomeen Ki Mehshar Tak Har Manzil Ho Aasan
+  Maula Husain ko Akbar ka pursa de kar
+  Hum ne Shab-e-Juma yeh dua maangi ro kar
+  Chhor gaye haiṅ hum ko jitne bhi pyaare
+  Rehmateṅ naazil kijiye un ki qabroṅ pe
+  Mushkil na hoṅ raste
+  Barzaq ke safar se
+  Mere marhumin ki mahshar tak har manzil ho aasaan
 
   6
-  Maula Ne Tu Pyar Sikhaya Hai Hum Ko
-  Apna Chahney Wala Banaya Hai Hum Ko
-  Yaad Yeh Rakhna Waqt Koi Bhi Aa Jaye
-  Apna Hussaini Rishta Toot Nahi Paye
-  Parcham Lehrao
-  Dunya Ko Batao
-  Yeh Wird Hamesha Sath Karein Gay Hind Our Pakistan
+  Maula ne to pyaar sikhaaya hai hum ko
+  Apna chaahne waala banaaya hai hum ko
+  Yaad yeh rakhna waqt koi bhi aa jaaye
+  Apna Husaini rishta tut nahiṅ paaye
+  Parcham lehraao
+  Duniya ko bataao
+  Yeh wird hamesha saath kareṅge Hind aur Pakistan
 
   7
-  Ghaibat Mein Hain Maula Kitne Saloon Se
-  Waqif Hain Phir Bhi Woh Hamarey Haloon Se
-  Zindah Rahein Ya Hum Mar Jaein Ya Zahra
-  Dekhna Hai Har Haal Mein Maula Ka Chehra
-  Woh Khud Aa Jaein
-  Ya Humein Bulaein
-  Woh Samne Baith Ke Bolein Sunao Phir Se Raza, Zeeshan
+  Ghaibat meiṅ haiṅ Maula kitne saaloṅ se
+  Waaqif haiṅ phir bhi woh hamaare haaloṅ se
+  Zinda raheṅ ya hum mar jaaeṅ Ya Zahra
+  Dekhna hai har haal meiṅ Maula ka chehra
+  Woh khud aa jaaeṅ
+  Ya hameṅ bulaaeṅ
+  Woh saamne baith ke boleṅ sunaao phir se Raza, Zeeshan
 
 ---
 درود شریف

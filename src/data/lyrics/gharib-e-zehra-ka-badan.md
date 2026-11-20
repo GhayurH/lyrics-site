@@ -10,80 +10,80 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jo Garam Reti Pe Bekafan Hai
-  Gharib-e-Zahra Ka Yeh Badan Hai
+  Jo garam reti pe bekafan hai
+  Gharib-e-Zahra ka yeh badan hai
 
   1
-  Kiya Hai Pamal Iss Ko Ran Meiṅ
-  Haiṅ Zakhm Hi Zakhm Iss Badan Meiṅ
-  Nahi Hai Koi Uthane Wala
-  Bohat Akela Hai Iss Watan Meiṅ
-  Idhar Ki Sab Pasliyaaṅ Udhar Haiṅ
-  Udhar Ki Sab Pasliyaaṅ Idhar Haiṅ
+  Kiya hai paamaal is ko ran meiṅ
+  Haiṅ zakhm hi zakhm is badan meiṅ
+  Nahiṅ hai koi uthaane waala
+  Bohat akela hai is watan meiṅ
+  Idhar ki sab pasliyaaṅ udhar haiṅ
+  Udhar ki sab pasliyaaṅ idhar haiṅ
 
   2
-  Padar Ke Sine Pe Sone Wali
-  Jab Iss Badan Ke Qarib Pohanchi
-  Yeh Aa Ke Shimar Laiṅ Ne Dekha
-  Padar Se Lipati Hoi Thi Beti
-  Pakar Ke Baluṅ Se Jab Choraya
-  Badan Zamiṅ Par Tarap Raha Tha
+  Padar ke sine pe sone waali
+  Jab is badan ke qarib pohanchi
+  Yeh aa ke Shimar-e-laiṅ ne dekha
+  Padar se lipti hui thi beti
+  Pakar ke baaloṅ se jab chhuraya
+  Badan zamiṅ par tarap raha tha
 
   3
-  Yeh Woh Badan Hai Keh Jis Ka Seena
-  Haaṅ Chomte The Sheh-e-Madina
-  Bhara Hai Tiroṅ Se Haye Ghurbat
-  Kahaṅ Pe Soye Gi Ab Sakina
-  Yehi Woh Seena Hai Jis Pe Charh Kar
-  Laiṅ Ne Kata Husain Ka Sar
+  Yeh woh badan hai keh jis ka sina
+  Haaṅ chumte the Shah-e-Madina
+  Bhara hai tiroṅ se haaye ghurbat
+  Kahaaṅ pe soi gi ab Sakina
+  Yehi woh sina hai jis pe charh kar
+  Laiṅ ne kaata Husain ka sar
 
   4
-  Akela Lakhoṅ Se Zakhm Kha Kar
-  Yeh So Gaya Jab Sitam Utha Kar
-  Andhere Ban Meiṅ Issi Badan Se
-  Behan Ne Pathar Hataye Aa Kar
-  Na Jane Zainab Ne Kaisa Dekha
-  Gharib Bhai Ka Zakhmi Lasha
+  Akela laakhoṅ se zakhm kha kar
+  Yeh so gaya jab sitam utha kar
+  Andhere ban meiṅ isi badan se
+  Behan ne patthar hataaye aa kar
+  Na jaane Zainab ne kaisa dekha
+  Gharib bhai ka zakhmi laasha
 
   5
-  Laiṅ Woh Bajdal Tha Naam Jis Ka
-  Sirhane Jab Iss Badan Ke Pohancha
-  Angothi Kis Tarha Lotta Woh
-  Tha Zakhmi Hathuṅ Pe Waram Itna
-  Na Utari Zalim Se Jab Angothi
-  Tu Kaat Kar Le Gaya Woh Ungli
+  Laiṅ woh Bajdal tha naam jis ka
+  Sirhaane jab is badan ke pohancha
+  Anguthi kis tarah lut'ta woh
+  Tha zakhmi haathoṅ meiṅ waram itna
+  Na utri zaalim se jab anguthi
+  To kaat kar le gaya woh ungli
 
   6
-  Saroṅ Ko Naizoṅ Pe Jab Charhaya
-  Sar Aik Chota Sa Mil Na Paya
-  Laiṅ Ne Naiza Zamiṅ Pe Mara
-  Tu Lasha Asghar Ka Sath Aaya
-  Padar Ke Zakhmi Badan Pe Rakh Kar
-  Chalaya Nanhe Gale Pe Khanjar
+  Saroṅ ko naizoṅ pe jab charhaya
+  Sar aik chhota sa mil na paaya
+  Laiṅ ne naiza zamiṅ pe maara
+  To laasha Asghar ka saath aaya
+  Padar ke zakhmi badan pe rakh kar
+  Chalaaya nanhe gale pe khanjar
 
   7
-  Kahiṅ Pe Talwar Ke Nishaaṅ Haiṅ
-  Kahiṅ Pe Naize Haiṅ Barchiyaaṅ Haiṅ
-  Lahu Bhi Zakhmo Se Ris Raha Hai
-  Gharib Ki Zakhmi Ayeriyaaṅ Haiṅ
-  Badan Hai Yeh Chak Chak Haye
-  Bhari Hai Zakhmo Meiṅ Khak Haye
+  Kahiṅ pe talwaar ke nishaaṅ haiṅ
+  Kahiṅ pe naize haiṅ barchhiyaaṅ haiṅ
+  Lahu bhi zakhmoṅ se ris raha hai
+  Gharib ki zakhmi eriyaaṅ haiṅ
+  Badan hai yeh chaak chaak haaye
+  Bhari hai zakhmoṅ meiṅ khaak haaye
 
   8
-  Hoi Thi Woh Jin Ki Naal Bandi
-  The Aam Ghoroṅ Se Our Wazni
-  Jo Ghore Dore The Iss Badan Par
-  Kuchalna Unn Ki Khasosiyat Thi
-  Na Jane Kis Tarha Maa Ne Dekha
-  Summo Ke Niche Gharib Beta
+  Hui thi woh jin ki ki naal bandi
+  The aam ghoroṅ se aur wazni
+  Jo ghore daure the is badan pe
+  Kuchalna un ki khususiyat thi
+  Na jaane kis tarah maaṅ ne dekha
+  Summoṅ ke niche gharib beta
 
   9
-  Husain Ki Jab Lehad Pe Jana
-  Raza-o- Zishan Yaad Rakhna
-  Bichi Hai Turbat Meiṅ Ik Chatai
-  Yeh Dil Ki Aankhoṅ Se Dekh Lena
-  Wahiṅ Yeh Zakhmi Badan Rakha Hai
-  Saghir Sine Pe So Raha Hai
+  Husain ki jab lahad pe jaana
+  Raza o Zishan yaad rakhna
+  Bichhi hai turbat meiṅ ik chataai
+  Yeh dil ki aankhoṅ se dekh lena
+  Wahiṅ yeh zakhmi badan rakha hai
+  Saghir sine pe so raha hai
 ---
 جو گرم ریتی پہ بے کفن ھے
 غریبِ زہراؑ کا یہ بدن ھے

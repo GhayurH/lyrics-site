@@ -28,22 +28,22 @@ romanLyrics: |-
   Neze pe haq sunaane ka manzar nazar meiṅ hai
   Chup kaise hoga chaahne waala Husain ka
 
-  Kaam aaeiṅ gi kisi ki na jab rishte daariyaaṅ
+  Kaam aaeṅ gi kisi ki na jab rishte daariyaaṅ
   Mahshar meiṅ kaam aayega rishta Husain ka
 
   Khaak-e-shifa ke sadqe Masiha bana diya
-  Ehsaan kaise bhuleiṅ ge Isa Husain ka
+  Ehsaan kaise bhuleṅ ge Isa Husain ka
 
   Fakhr-e-Husain kab hai yeh hai fakhr-e-Jibril
   Jibril ne jhulaaya hai jhula Husain ka
 
-  Beshak zarih un ki hai behad nashib meiṅ
+  Be shak zarih un ki hai be had nashib meiṅ
   Lekin hai rauza phir bhi musalla Husain ka
 
   Ham ko Khuda ke chehre ka didaar ho gaya
   Karb o Bala meiṅ dekha jo rauza Husain ka
 
-  Fatwa garoṅ se keh do manaaeiṅ ab apni khair
+  Fatwa garoṅ se keh do manaaeṅ ab apni khair
   Parde se aane waala hai beta Husain ka
 
   Abbas ki nigaahoṅ meiṅ qibla wohi to hai

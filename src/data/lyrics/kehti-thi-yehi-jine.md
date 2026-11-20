@@ -36,7 +36,7 @@ romanLyrics: |-
   Keh de koi Akbar se ke bimaar hai Sughra
 
   5
-  Har waqt lagi rehti haiṅ darwaaze pe nazreiṅ
+  Har waqt lagi rehti haiṅ darwaaze pe nazreṅ
   Is karb-e-musalsal meiṅ giraftaar hai Sughra
   Keh de koi Akbar se ke bimaar hai Sughra
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Keh de koi Akbar se ke bimaar hai Sughra
 
   7
-  Shabbir ka sar kat gaya Abbas ke baazu
+  Shabbir ka sar kat gaya Abbaas ke baazu
   Ab Zainab o Kulsum haiṅ darbaar hai Sughra
   Keh de koi Akbar se ke bimaar hai Sughra
 

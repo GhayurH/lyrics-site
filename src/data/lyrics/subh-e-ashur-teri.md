@@ -41,7 +41,7 @@ romanLyrics: |-
 
   5
   Hawa ke dosh par watan tak
-  Azaaṅ pahuṅch gayi behen tak
+  Azaaṅ pahunch gayi behen tak
   Behen tarapne lagi le ke hichkiyaaṅ
   Hichkiyaaṅ teri azaaṅ
 

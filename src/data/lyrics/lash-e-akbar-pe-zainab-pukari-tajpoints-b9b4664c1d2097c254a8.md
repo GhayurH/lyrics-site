@@ -1,50 +1,89 @@
 ---
-title: "Lash-e-Akbar Pe Zainab Pukari"
+title: "لاشِ اکبر پہ زینب پکاری"
+alternateTitle: "Lash-e-Akbar Pe Zainab Pukari"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Faheem"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Lash-e-Akbar pe Zainab pukari
+  Aankhein kholo yeh maa tum pe wari
+
+  1
+  Teri shadi ka arman dil mein raha
+  Tera sehra na dekha mere mehlaka
+  Kis ne seene pe barchi yeh mari
+  Tu gaya sare godi ke palay gaye
+
+  2
+  Kar ke maon ko gham ke hawalay gaye
+  Sath teri yeh maa na sadhari
+  Tere baba laeeno mein tanha hoye
+  Chaar janib sitamgar hain narga kiye
+
+  3
+  Ab zarorat hai unn ko tumhari
+  Aa ke pardais mein kyun khafa ho gaye
+  Iss mosibat mein hum se juda ho gaye
+  Umar guzray gi kaise humari
+
+  4
+  Khak urati hai bali Sakina teri
+  Apne bhaiya ki furqat mein hai matami
+  De rahi hai sada gham ki mari
+  Ik behan ko Madine mein hai intezar
+
+  5
+  Woh bhi tujh se bichar ke hoi sogawar
+  Rah takti hai Sughra tumhari
+  Tere jane se binai Sheh ki gayi
+  Be-sahara hai maqtal mein Inb-e-Ali
+
+  6
+  Iss liye ghamzada youn pukari
+  Aye Faheem our Mazhar yeh noha parho
+  Bibi Zainab ke zakhmo ka marham bano
+  Jis ke lab par thi yeh aah-o-zari
 ---
 
-Lash-e-Akbar Pe Zainab Pukari.
-Aankhein Kholo Yeh Maa Tum Pe Wari.
+لاشِ اکبر پہ زینب پکاری
+آنکھیں کھولو یہ ماں تم پہ واری
 
-1
-Teri Shadi Ka Arman Dil Mein Raha.
-Tera Sehra Na Dekha Mere Mehlaka.
-Kis Ne Seene Pe Barchi Yeh Mari.
-Tu Gaya Sare Godi Ke Palay Gaye.
+۱
+تیری شادی کا ارمان دل میں رہا
+تیرا سہرا نہ دیکھا مرے مہ لقا
+کس نے سینے پہ برچھی یہ ماری
+تو گیا سارے گودی کے پالے گئے
 
-2
-Kar Ke Maon Ko Gham Ke Hawalay Gaye.
-Sath Teri Yeh Maa Na Sadhari.
-Tere Baba Laeeno Mein Tanha Hoye.
-Chaar Janib Sitamgar Hain Narga Kiye.
+۲
+کر کے ماؤں کو غم کے حوالے گئے
+ساتھ تیری یہ ماں نہ سدھاری
+تیرے بابا لعینوں میں تنہا ہوئے
+چار جانب ستمگر ہیں نرغہ کیے
 
-3
-Ab Zarorat Hai Unn Ko Tumhari.
-Aa Ke Pardais Mein Kyun Khafa Ho Gaye.
-Iss Mosibat Mein Hum Se Juda Ho Gaye.
-Umar Guzray Gi Kaise Humari.
+۳
+اب ضرورت ہے ان کو تمہاری
+آ کے پردیس میں کیوں خفا ہو گئے
+اس مصیبت میں ہم سے جدا ہو گئے
+عمر گزرے گی کیسے ہماری
 
-4
-Khak Urati Hai Bali Sakina Teri.
-Apne Bhaiya Ki Furqat Mein Hai Matami.
-De Rahi Hai Sada Gham Ki Mari.
-Ik Behan Ko Madine Mein Hai Intezar.
+۴
+خاک اڑاتی ہے بالی سکینہ تیری
+اپنے بھیا کی فرقت میں ہے ماتمی
+دے رہی ہے صدا غم کی ماری
+اک بہن کو مدینے میں ہے انتظار
 
-5
-Woh Bhi Tujh Se Bichar Ke Hoi Sogawar.
-Rah Takti Hai Sughra Tumhari.
-Tere Jane Se Binai Sheh Ki Gayi.
-Be-Sahara Hai Maqtal Mein Inb-e-Ali.
+۵
+وہ بھی تجھ سے بچھڑ کے ہوئی سوگوار
+راہ تکتی ہے صغریٰ تمہاری
+تیرے جانے سے بینائی شہ کی گئی
+بے سہارا ہے مقتل میں ابنِ علی
 
-6
-Iss Liye Ghamzada Youn Pukari.
-Aye Faheem Our Mazhar Yeh Noha Parho.
-Bibi Zainab Ke Zakhmo Ka Marham Bano.
-Jis Ke Lab Par Thi Yeh Aah-o-Zari.
+۶
+اس لیے غمزدہ یوں پکاری
+اے فہیم اور مظہر یہ نوحہ پڑھو
+بی‌بی زینب کے زخموں کا مرہم بنو
+جس کے لب پر تھی یہ آہ و زاری

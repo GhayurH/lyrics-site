@@ -1,44 +1,76 @@
 ---
-title: "Khul Gaye Band E Kafan Syed Mudassir Mehdi"
+title: "کھل گئے بندِ کفن سید مدثر مہدی"
+alternateTitle: "Khul Gaye Band-e-Kafan Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khul gaye band-e-kafan main tere qurban Hussain
+
+  1
+  Maa bulati hai tujhe aa ja meri jan Hussain
+  Mujh se dekhey nahi jate tere aanso beta
+  Main tere sath hoon hona na pareshan Hussain
+  Main Madine mein hoon dafnaya bhi jaye ga mujhe
+
+  2
+  Dasht mein be kafan-o-be sar-o-saman Hussain
+  Ya Ali Kofa ke logon ko batana ja kar
+  Ban ke ik roz yahan aaye ga mehman Hussain
+  Tum Sakina ko akela na samjhna beta
+
+  3
+  Maa teri sath chali jaye gi zindan Hussain
+  Pasliyaan toot gayin ho gaye Mohsin bhi shaheed
+  Nasal-e-Sadaat ka pehla hai yeh nuqsan Hussain
+  Main ne ik hath se manga hai Khuda se Abbas
+
+  4
+  Ho ke be dast nibha jaye ga peman Hussain
+  Itni shiddat se lagaya gaya durrah mujh ko
+  Mere zakhmi hain Sakina ki tarha kan Hussain
+  Aag bhi laein gay darbar bhi le jaein gay
+
+  5
+  Meri Zainab ko sataein gay Musalman Hussain
+  Dil mein hai shoq-e-ziyaraat bhi Haider lekin
+  Dil mein hai shoq-e-ziyaraat Mudassir lekin
+  Marqad-e-Fatima Zahra ka hai arman Hussain
 ---
 
-Khul Gaye Band e Kafan Syed Mudassir Mehdi
-Khul Gaye Band-e-Kafan Main Tere Qurban Hussain.
+کھل گئے بندِ کفن میں تیرے قربان حسین
 
-1
-Maa Bulati Hai Tujhe Aa Ja Meri Jan Hussain.
-Mujh Se Dekhey Nahi Jate Tere Aanso Beta.
-Main Tere Sath Hoon Hona Na Pareshan Hussain.
-Main Madine Mein Hoon Dafnaya Bhi Jaye Ga Mujhe.
+۱
+ماں بلاتی ہے تجھے آ جا میری جان حسین
+مجھ سے دیکھے نہیں جاتے تیرے آنسو بیٹا
+میں تیرے ساتھ ہوں ہونا نہ پریشان حسین
+میں مدینے میں ہوں دفنایا بھی جائے گا مجھے
 
-2
-Dasht Mein Be Kafan-o-Be Sar-o-Saman Hussain.
-Ya Ali Kofa Ke Logon Ko Batana Ja Kar.
-Ban Ke Ik Roz Yahan Aaye Ga Mehman Hussain.
-Tum Sakina Ko Akela Na Samjhna Beta.
+۲
+دشت میں بے کفن و بے سر و سامان حسین
+یا علی کوفہ کے لوگوں کو بتانا جا کر
+بن کے اک روز یہاں آئے گا مہمان حسین
+تم سکینہ کو اکیلا نہ سمجھنا بیٹا
 
-3
-Maa Teri Sath Chali Jaye Gi Zindan Hussain.
-Pasliyaan Toot Gayin Ho Gaye Mohsin Bhi Shaheed.
-Nasal-e-Sadaat Ka Pehla Hai Yeh Nuqsan Hussain.
-Main Ne Ik Hath Se Manga Hai Khuda Se Abbas.
+۳
+ماں تیری ساتھ چلی جائے گی زنداں حسین
+پسلیاں ٹوٹ گئیں ہو گئے محسن بھی شہید
+نسلِ سادات کا پہلا ہے یہ نقصان حسین
+میں نے اک ہاتھ سے مانگا ہے خدا سے عباس
 
-4
-Ho Ke Be Dast Nibha Jaye Ga Peman Hussain.
-Itni Shiddat Se Lagaya Gaya Durrah Mujh Ko.
-Mere Zakhmi Hain Sakina Ki Tarha Kan Hussain.
-Aag Bhi Laein Gay Darbar Bhi Le Jaein Gay.
+۴
+ہو کے بے دست نبھا جائے گا پیمان حسین
+اتنی شدت سے لگایا گیا درّہ مجھ کو
+میرے زخمی ہیں سکینہ کی طرح کان حسین
+آگ بھی لائیں گے دربار بھی لے جائیں گے
 
-5
-Meri Zainab Ko Sataein Gay Musalman Hussain.
-Dil Mein Hai Shoq-e-Ziyaraat Bhi Haider Lekin.
-Dil Mein Hai Shoq-e-Ziyaraat Mudassir Lekin.
-Marqad-e-Fatima Zahra Ka Hai Arman Hussain.
+۵
+میری زینب کو ستائیں گے مسلمان حسین
+دل میں ہے شوقِ زیارات بھی حیدر لیکن
+دل میں ہے شوقِ زیارات مدثر لیکن
+مرقدِ فاطمہ زہرا کا ہے ارمان حسین

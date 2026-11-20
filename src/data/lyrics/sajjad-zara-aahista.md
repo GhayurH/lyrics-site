@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aijaz e imamat se sajjad chale aaye
-  Aur ganje shahidaṅ may begor o kafan laashe
-  Shabbir ke maqtal may sajjad jyun hi pahunche
-  Awaaz ye aati thi shabbir ke laashe se
-  Aao ae beta do hamay pursa in shahidoṅ ka
-  Dafn karne mujhe tu aaya hai dhyan rakhna magar mere laal
-  Mai hoo zakhmi badan pehnana kafan sajjad zara aahista
-  E khuda-wand e gham tujhpe khud bhi masayab ka saaya hai
-  Tera ehsan hai bekafan ko kafan dene aaya hai
-  Mere tashna dahan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Tu akela hai aur dafn karne ko laashe bahattar hai
-  Khaak par sab ke tan hai magar sar sabhi ke sina par hai
-  Hai sabhi khasta tan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Dafn karna pisar ham-shabi e payambar ka tum laasha
-  Dhyan rakhna magar zakhmi seena hai us jaan e maadar ka
-  Ho na koi dukhan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Sab ke laashe tujhe mil hi jayenge maqtal may ae qaidi
-  Dhoond na dasht may ek gathri may hai laash qasim ki
-  Haye wo ibne Hasan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Laashe abbas ko baad may uske marqad may le jaana
-  Dono baazu juda hai unhe dhund kar pehle le aana
-  Wo hai saqqae man pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Lene jaao jo tum nehr se laashe aun o mohamad ke
-  Maa to royi nahi inke laashoṅ pe tum rona shehzade
-  Dono hai gulbadan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Saari fauj e khuda bekafan so rahi hai isi ban may
-  Shauzab o jaun o hurr hai habib aur ghazi ke bete hai
-  Sab hai tashna dahan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
-  Shaam e ghurbat bhi hai yaad bazaar o zindan hai tujhko
-  Mazhar e ranj o gham mere gham ka to irfan hai tujhko
-  Mai hoo zakhmi badan pehnana kafan sajjad zara aahista
-  Mai hoo zakhmi badan...
+  Aijaaz-e-imaamat se Sajjad chale aaye
+  Aur ganj-e-shahidaaṅ mein begor o kafan laashe
+  Shabbir ke maqtal mein Sajjad junhi pahunche
+  Aawaaz ye aati thi Shabbir ke laashe se
+  Aao ae beta do hameiṅ pursa in shahidoṅ ka
+  Dafn karne mujhe tu aaya hai dhyaan rakhna magar mere laal
+  Main huṅ zakhmi badan pehnana kafan Sajjad zara aahista
+  Ae Khudaawand-e-gham tujh pe bhi masaaib ka saaya hai
+  Tera ehsaan hai bekafan ko kafan dene aaya hai
+  Mere tashna dahan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Tu akela hai aur dafn karne ko laashe bahattar haiṅ
+  Khaak par sab ke tan haiṅ magar sar sabhi ke sinaaṅ par hai
+  Haiṅ sabhi khasta tan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Dafn karna pisar hamshabih-e-payambar ka tum laasha
+  Dhyaan rakhna magar zakhmi sina hai uska us jaan-e-maadar ka
+  Ho na koi dukhan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Sab ke laashe tujhe mil hi jaaeṅge maqtal mein ae qaidi
+  Dhundna dasht mein ek gathri mein hai laash Qasim ki
+  Haaye wo ibn-e-Hasan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Laashe Abbas ko baad mein uske marqad mein le jaana
+  Donoṅ baazu juda haiṅ unheiṅ dhund kar pehle le aana
+  Wo hai saqqaa-e-man pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Lene jaao jo tum nehr se laashe Aun o Muhammad ke
+  Maaṅ to roi nahiṅ inke laashoṅ pe tum rona shehzaade
+  Donoṅ haiṅ gulbadan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Saari fauj-e-Khuda bekafan so rahi hai isi ban mein
+  Shauzab o Jaun Hur haiṅ Habib aur Ghazi ke bete haiṅ
+  Sab haiṅ tashna dahan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
+  Shaam-e-ghurbat bhi hai yaad baazaar o zindaan hai tujhko
+  Mazhar o ranj o gham mere gham ka to irfaan hai tujhko
+  Main huṅ zakhmi badan pehnana kafan Sajjad zara aahista
+  Main huṅ zakhmi badan...
 ---
 
 ۱

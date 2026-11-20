@@ -15,7 +15,7 @@ romanLyrics: |-
   Jis ne sada se pehle hamesha ata kiya
   Beti usi ki ban ke sawaali khari rahi
 
-  Jo samjhe Musalmaan musibat yehi hai
+  Jo samjhe musalmaan musibat yehi hai
   Ke darbaari baithe haiṅ Zahra khari hai
 
   1

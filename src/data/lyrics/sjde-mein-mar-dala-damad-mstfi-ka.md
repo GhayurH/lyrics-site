@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajde may maar dala damad Mustafa ka
-  Ummat ne kar diya hai,  hae waar yuṅ qaza ka
+  Sajde mein maar daala daamaad-e-Mustafa ka
+  Ummat ne kar diya hai, haaye waar yuṅ qaza ka
 
   1
-  Pardes may yatimi Zainab pe cha gayi hai
-  Hae qatl ho gaya hai,  sartaj Fatima ka
+  Pardes mein yatimi Zainab pe chhaa gayi hai
+  Haaye qatl ho gaya hai, sartaaj-e-Fatima ka
 
   2
-  Haider ki betiyoṅ pe hae tut gayi qayamat
-  Dhaya hai kalma go ne,  aisa sitam jafa ka
+  Haider ki betiyoṅ pe haaye tut gayi qayaamat
+  Dhaaya hai kalma go ne, aisa sitam-e-jafa ka
 
   3
-  Tabut jab uthaya Hasnain ne baba ka
-  Ghar may Ali ke barpa,  hua hashr hai bala ka
+  Taabut jab uthaaya Hasnain ne baaba ka
+  Ghar mein Ali ke barpa, hua hashr hai bala ka
 
   4
-  Arsh o farash pe us dam kohram mach gaye hain
-  Jibril ne ailaṅ ja,  kiya qatle Murtaza ka
+  Arsh o farsh pe yakdam kohraam mach gaya hai
+  Jibril ne ailaaṅ jab, kiya qatl-e-Murtaza ka
 
   5
-  Hae kalma go ne us pe talwar hai chala di
-  Lehraya jis ne parcham,  har simt la ilah ka
+  Haaye kalma go ne us pe talwaar hai chala di
+  Lehraaya jis ne parcham, har simt la ilaah ka
 
   6
-  Us ko fiza zamana kaise mita sake ga
-  Ke matmi asar hai,  Zainab ki ik dua ka
+  Us ko fiza-e-zamaana kaise mita sake ga
+  Ke maatami asar hai, Zainab ki ik dua ka
 ---
 
 سجدے میں مار ڈالا داماد مصطفیٰؐ کا

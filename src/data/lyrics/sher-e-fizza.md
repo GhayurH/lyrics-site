@@ -1,6 +1,6 @@
 ---
 title: "یا ایھل اسد چلے آؤ"
-alternateTitle: "Sher E Fizza"
+alternateTitle: "Sher-e-Fizza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,74 +12,74 @@ published: false
 romanLyrics: |-
   1
   Ya ayyuhal asad chale aao
-  Sher e fizza sher e fizza
-  Jis ghari shaam e gharibaṅ aayi
-  Fizza maidan meiṅ khari chillayi
-  Abu haris ho kahaṅ aajao
-  Besaharon ki madad farmao
-  Ran meiṅ hai laashe Husain ibne ali
-  Karne aajaye na pamaal shaqi
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
-  Ek sada tumko safeena ne jo di
-  Tumne aakar wahaṅ imdad hai ki
-  Wo sahabi e rasul e do sara
-  Aur mai to hoo kaniz e zahra
-  Mera rutba hai juda
-  De rahi hoo mai sada
-  Aayi shabbir pe ghurbat ki ghari
-  Baaqi bhai hai na beta koi
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
-  Maujiza rab ne jo fizza ko diya
-  Ehd jo tin duaoṅ ka kiya
+  Sher-e-Fizza, sher-e-Fizza
+  Jis ghari shaam-e-gharibaaṅ aai
+  Fizza maidaan meiṅ khari chillai
+  Abu Haaris ho kahaaṅ aa jaao
+  Besahaaroṅ ki madad farmaao
+  Ran meiṅ hai laashe Husain ibn-e-Ali
+  Karne aa jaae na paamaal shaqi
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
+  Ik sada tum ko Safina ne jo di
+  Tum ne aa kar wahaaṅ imdaad hai ki
+  Wo sahaabi-e-rasul-e-do saraa
+  Aur main to huṅ kaniz-e-Zahra
+  Mere rutba hai juda
+  De rahi huṅ main sada
+  Aai Shabbir pe ghurbat ki ghari
+  Baaqi bhaai hai na beta koi
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
+  Maujiza Rab ne Fizza ko diya
+  Ahd jo tin duaaoṅ ka kiya
   Waasta deke usi waade ka
-  Maangi rab se yehi fizza ne dua
-  Abhi rehta abu haris hai jahaṅ
-  Meri awaaz ye pahuncha de wahaṅ
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
-  Waasta tumko rasul-e-haq ka
-  Waasta tumko ali ka hai diya
-  Wo ali sher e khuda
-  Jin se waada tha kiya
+  Maangi Rab se yahi Fizza ne dua
+  Abhi rehta Abu Haaris hai jahaaṅ
+  Meri aawaaz ye pahuncha de wahaaṅ
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
+  Waasta tum ko rasul-e-haq ka
+  Waasta tum ko Ali ka hai diya
+  Wo Ali sher-e-Khuda
+  Jis ne waada tha kiya
   Usi waade ki qasam
-  Jald aao zaigham
-  De rahi hoo jo tumhe mai ye sada
-  Hukm mujhko hai ye zainab ne diya
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
-  Laga akbar ke hai naiza hae hae
-  Tir asghar ne hai khaaya hae hae
-  Tukre qasim ka saraapa hae hae
-  Maara abbas ko pyasa hae hae
-  Hogaye qatl shehenshah-e-umam
-  Hai pareshan bahot ahle haram
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
-  Kya sitam kam tha ke sab qatl huwe
+  Jald aao Zaigham
+  De rahi huṅ jo tumheiṅ main ye sada
+  Hukm mujhko hai ye Zainab ne diya
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
+  Laga Akbar ke hai neza, haae haae
+  Tir Asghar ne hai khaaya, haae haae
+  Tukre Qaasim ka saraapa, haae haae
+  Maara Abbaas ko pyaasa, haae haae
+  Ho gae qatl shahanshaah-e-umam
+  Hai pareshaan bahut ahl-e-haram
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
+  Kya sitam kam tha ke sab qatl hue
   Par sitamgaar sitam karte rahe
-  Kaate khanjar se hai pyasoṅ ke gale
-  Ab ye pamaal kareṅge laashe
-  Hadh sitam ki ye rukegi na kabhi
-  Hoga parda bhi to pamaal abhi
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
-  Waqeya mesum o salman ye raavi ne likha
-  Aagaya sher wo aur laash pe pehra bhi diya
-  Pehra deta raha aankhoṅ se raha khun rawaṅ
-  Jab talak dafn ko aaye nahi sajjad wahaṅ
-  Karbala jate hai zaaer jo muqam e fizza
-  Ab bhi mehsus wahaṅ hoti hai fizza ki sada
-  Apne waade ko nibhao aao
-  Pehra shabbir ke laashe ka karo
-  Chale aao sher e fizza...
+  Kaate khanjar se hai pyaasoṅ ke gale
+  Ab ye paamaal kareiṅ ge laashe
+  Had sitam ki ye ruke gi na kabhi
+  Ho ga parda abhi to paamaal abhi
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
+  Waaqia Maisam o Salmaan ye raavi ne likha
+  Aa gaya sher wo aur laash pe pehra bhi diya
+  Pehra deta raha aankhoṅ se raha khun rawaaṅ
+  Jab talak dafn ko aae nahiṅ Sajjad wahaaṅ
+  Karbala jaate haiṅ zaair jo maqaam-e-Fizza
+  Ab bhi mahsus wahaaṅ hoti haiṅ Fizza ki sada
+  Apne waade ko nibhaao aao
+  Pehra Shabbir ke laashe pe karo
+  Chale aao sher-e-Fizza...
 ---
 
 ۱

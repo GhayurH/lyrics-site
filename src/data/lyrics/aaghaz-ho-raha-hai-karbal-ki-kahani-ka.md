@@ -1,7 +1,7 @@
 ---
 title: "آغاز ہو رہا ہے کربل کی کہانی کا"
 recitationId: "aaghaz-ho-raha-hai"
-alternateTitle: "Aaghaz Ho Raha Hai Karbal Ki Kahani Ka"
+alternateTitle: "Aaghaz Ho Raha Hai Karbal Ki Kahaani Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,33 +12,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aaghaz ho raha hai Karbal ki kahani ka
-  Logoṅ ye janaza hai Islam ke baani ka
+  Aaghaz ho raha hai Karbal ki kahaani ka
+  Logoṅ ye janaaza hai Islam ke baani ka
 
   1
-  Bibi ne kaha baba Karbal meiṅ chale aana
-  Manzar maiṅ dikhaauṅ gi Akbar ki jawani ka
-  Logoṅ ye janaza hai Islam ke baani ka
+  Bibi ne kaha baba Karbal mein chale aana
+  Manzar main dikhaauṅ gi Akbar ki jawaani ka
+  Logoṅ ye janaaza hai Islam ke baani ka
 
   2
-  Kat jayeṅ ge baazu bhi Abbas bawafa ke
-  Tiroṅ se hoga chhalni mashkiza wo pani ka
-  Logoṅ ye janaza hai Islam ke baani ka
+  Kat jaayeṅ ge baazu bhi Abbas bawafa ke
+  Tiroṅ se hoga chhalni mashkiza wo paani ka
+  Logoṅ ye janaaza hai Islam ke baani ka
 
   3
-  Bikhrega Karbala meiṅ Qasim ke sar ka sehra
+  Bikhrega Karbala mein Qasim ke sar ka sehra
   Khushiyaṅ samet le ga aalam wo viraani ka
-  Logoṅ ye janaza hai Islam ke baani ka
+  Logoṅ ye janaaza hai Islam ke baani ka
 
   4
   Rote the farishte bhi tha arz o samaṅ larza
   Taabut uth raha hai Imran ke jaani ka
-  Logoṅ ye janaza hai Islam ke baani ka
+  Logoṅ ye janaaza hai Islam ke baani ka
 
   5
-  Ta hashr mere Maula Mushtaq rahuṅ tera
-  Mil jaye sharaf mujh ko bas teri ghulami ka
-  Logoṅ ye janaza hai Islam ke baani ka
+  Taa hashr mere Maula Mushtaq rahuṅ tera
+  Mil jaaye sharaf mujh ko bas teri ghulaami ka
+  Logoṅ ye janaaza hai Islam ke baani ka
 ---
 
 آغاز ہو رہا ہے کربل کی کہانی کا

@@ -1,41 +1,72 @@
 ---
-title: "Mera Qalam Nahi Hai Yeh Dast E Sawaal Lyrics 2021"
+title: "میرا قلم نہیں ہے یہ دستِ سوال"
+alternateTitle: "Mera Qalam Nahi Hai Yeh Dast-e-Sawaal"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mera qalam nahi hai yeh dast e sawaal hai
+  Har lafz ik sakhi ki atta ka kamal hai
+  Kagaz pe ja baja nazar aane laga hai noor
+  Zair-e-raqam jo aap ka husan-o-jamal hai
+
+  2
+  Sansein charhi hoi hain tasawar ke bar se
+  Main baat kya karon mera lehja nidhal hai
+  Soraj se chand taroon se tashbeeh kis liye
+  Main itna janta hoon keh woh be misal hai
+
+  3
+  Hum loag shehar-e-ilm ke khairat mand loag
+  Kasay mein jo bhi lafz hai rizq-e-halal hai
+  Ik boriya nasheen hai masjid ki khak par
+  Yani jo Zuljalal ka jah-o-jalal hai
+
+  4
+  Sarkar muskuratay hain tukron ko dekh kar
+  Hai fikar chand ko mera jarna mohal hai
+  Ab but kahin nahi hain magar but parast hain
+  Maula ajeeb aaj bhi Kabay ka haal hai
+
+  5
+  Tafseer Panjtan ki Khuda hi karey tu ho
+  Main mukhtasir likhon ga Muhammad ki aal hai
+  Dil par nazool hotey hain ashar naat ke
+  Akbar yeh roh-e-qudas mera hum khiyal hai
 ---
 
-1
-Mera Qalam Nahi Hai Yeh Dast E Sawaal Hai Naat Sajjad Ashraf Taqvi.
-Har Lafz Ik Sakhi Ki Atta Ka Kamal Hai.
-Kagaz Pe Ja Baja Nazar Aane Laga Hai Noor.
-Zair-e-Raqam Jo Aap Ka Husan-o-Jamal Hai.
+۱
+میرا قلم نہیں ہے یہ دستِ سوال ہے
+ہر لفظ اک سخی کی عطا کا کمال ہے
+کاغذ پہ جا بجا نظر آنے لگا ہے نور
+زیرِ رقم جو آپ کا حسن و جمال ہے
 
-2
-Sansein Charhi Hoi Hain Tasawar Ke Bar Se.
-Main Baat Kya Karon Mera Lehja Nidhal Hai.
-Soraj Se Chand Taroon Se Tashbeeh Kis Liye.
-Main Itna Janta Hoon Keh Woh Be Misal Hai.
+۲
+سانسیں چڑھی ہوئی ہیں تصور کے بار سے
+میں بات کیا کروں میرا لہجہ نڈھال ہے
+سورج سے چاند تاروں سے تشبیہ کس لیے
+میں اتنا جانتا ہوں کہ وہ بے مثال ہے
 
-3
-Hum Loag Shehar-e-Ilm Ke Khairat Mand Loag.
-Kasay Mein Jo Bhi Lafz Hai Rizq-e-Halal Hai.
-Ik Boriya Nasheen Hai Masjid Ki Khak Par.
-Yani Jo Zuljalal Ka Jah-o-Jalal Hai.
+۳
+ہم لوگ شہرِ علم کے خیرات مند لوگ
+کاسے میں جو بھی لفظ ہے رزقِ حلال ہے
+اک بوریا نشیں ہے مسجد کی خاک پر
+یعنی جو ذوالجلال کا جاہ و جلال ہے
 
-4
-Sarkar Muskuratay Hain Tukron Ko Dekh Kar.
-Hai Fikar Chand Ko Mera Jarna Mohal Hai.
-Ab But Kahin Nahi Hain Magar But Parast Hain.
-Maula Ajeeb Aaj Bhi Kabay Ka Haal Hai.
+۴
+سرکار مسکراتے ہیں ٹکڑوں کو دیکھ کر
+ہے فکر چاند کو میرا جڑنا محال ہے
+اب بت کہیں نہیں ہیں مگر بت پرست ہیں
+مولا عجیب آج بھی کعبے کا حال ہے
 
-5
-Tafseer Panjtan Ki Khuda Hi Karey Tu Ho.
-Main Mukhtasir Likhon Ga Muhammad Ki Aal Hai.
-Dil Par Nazool Hotey Hain Ashar Naat Ke.
- Akbar Yeh Roh-e-Qudas Mera Hum Khiyal Hai.
+۵
+تفسیر پنجتن کی خدا ہی کرے تو ہو
+میں مختصر لکھوں گا محمد کی آل ہے
+دل پر نزول ہوتے ہیں اشعار نعت کے
+اکبر یہ روحِ قدس میرا ہم خیال ہے

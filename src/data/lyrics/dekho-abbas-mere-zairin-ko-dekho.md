@@ -7,6 +7,59 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Abbaas Abbaas Abbaas Abbaas
+
+  1
+  Dekho Abbaas mere zaairin ko dekho
+  Un ke bahte hue ashkoṅ ko dekho
+  Aur suno un ki an ginat fariyaadoṅ ko suno
+  Haaṅ main huṅ Husain Nabi ka nawaasa
+  Kar sakta huṅ main bhi haajaat un ki puri
+  Dekho ye aate haiṅ bahut dur se meri chaahat mein
+  Maal o zar luta ke faqat meri yaad mein
+  Aate haiṅ ye tumhaare paas mujh se pahle
+  Lete haiṅ ijaazat tum se meri ziyaarat ke waaste
+
+  2
+  Aap ke dar pe ham aa gae baawafa
+  Aap ne ye sharaf ham ko bhi de diya
+  Hamsafar the mere anbiya auliya
+  Har ghari lab pe bas zikr tha aap ka
+  Ab jahaaṅ jis jagah jab bhi main jaauṅga
+  Ab main Saffaar-e-Abbaas kahlaauṅ ga
+
+  3
+  Lashkar-e-shah ke tum hi alamdaar ho
+  Jitne haiṅ baawafa sab ke sardaar ho
+  Apne baaba ki tarah se Karraar huṅ
+  Bibiyoṅ ki rida ke nigahdaar ho
+  Jo bhi Shabbir ke ab azaadaar haiṅ
+  Haaṅ wo saare tere hi wafaadaar haiṅ
+
+  4
+  Tere baazu qalam ho ke uthe alam
+  Tere gham se kamar Shah-e-Din ki hai kham
+  Haath sine pe haiṅ aur aaṅkheṅ haiṅ nam
+  Barhta jaae ga ab kam na hoga ya gham
+  Khuṅ mein tar mashk khaimoṅ mein jab aae gi
+  Amu kah kar Sakina tarap jaae gi
+
+  5
+  Jaanti hai sadaaeṅ meri dida-e-tar
+  Hadd-e-imkaan par bhi hai teri nazar
+  Hai makaaṅ al-makaaṅ tere zer-e-asar
+  Tum ho Baab-ul-Hawaaij mujhe hai khabar
+  Tere dar pe huṅ fariyaad phir aae gi
+  Hai yaqin mujh ko aulaad mil jaae gi
+
+  6
+  Kah rahi hai sada aaj tak Karbala
+  Main ne dekh hi nahiṅ teri jaisi wafa
+  Tere dar par wafa ne bhi kalma parha
+  Ye Zuhur aur Tazmin ki hai sada
+  Rasm-e-Maisam ko ham bhi dohraaeṅge
+  Tere ishq mein yuṅ hadd se guzar jaaeṅ ge
 ---
 
 عباسؑ عباسؑ عباسؑ عباسؑ

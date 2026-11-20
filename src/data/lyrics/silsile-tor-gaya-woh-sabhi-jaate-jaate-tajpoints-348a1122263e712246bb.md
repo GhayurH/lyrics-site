@@ -1,26 +1,42 @@
 ---
-title: "Silsile Tor Gaya Woh Sabhi Jaate Jaate"
+title: "سلسلے توڑ گیا وہ سبھی جاتے جاتے"
+alternateTitle: "Silsile Tor Gaya Woh Sabhi Jaate Jaate"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Faraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Silsile tor gaya woh sabhi jaate jaate
+  Warna itne tu marasim the keh aate jate
+
+  1
+  Shikwa-e-zulmat-e-shab se tu kahin behtar tha
+  Apne hise ki koi shama jalate jate
+  Kitna aasaan tha tere hijar mein marna janaa
+  Phir bhi ik umar lagi jan se jate jate
+
+  2
+  Jashan-e-maqtal hi na barpa howa warna hum bhi
+  Pabjolaan hi sahi nachte gate jate
+  Oss ki woh jane osse paas-e-wafa tha keh na tha
+  Tum Faraz apni taraf se tu nibhate jate
 ---
 
-Silsile Tor Gaya Woh Sabhi Jaate Jaate.
-Warna Itne Tu Marasim The Keh Aate Jate.
+سلسلے توڑ گیا وہ سبھی جاتے جاتے
+ورنہ اتنے تو مراسم تھے کہ آتے جاتے
 
-1
-Shikwa-e-Zulmat-e-Shab Se Tu Kahin Behtar Tha.
-Apne Hise Ki Koi Shama Jalate Jate.
-Kitna Aasaan Tha Tere Hijar Mein Marna Janaa.
-Phir Bhi Ik Umar Lagi Jan Se Jate Jate.
+۱
+شکوۂ ظلمتِ شب سے تو کہیں بہتر تھا
+اپنے حصے کی کوئی شمع جلاتے جاتے
+کتنا آسان تھا تیرے ہجر میں مرنا جاناں
+پھر بھی اک عمر لگی جاں سے جاتے جاتے
 
-2
-Jashan-e-Maqtal Hi Na Barpa Howa Warna Hum Bhi.
-Pabjolaan Hi Sahi Nachte Gate Jate.
-Oss KI Woh Jane Osse Paas-e-Wafa Tha Keh Na Tha.
-Tum Faraz Apni Taraf Se Tu Nibhate Jate.
+۲
+جشنِ مقتل ہی نہ برپا ہوا ورنہ ہم بھی
+پا بہ جولاں ہی سہی ناچتے گاتے جاتے
+اس کی وہ جانے اسے پاسِ وفا تھا کہ نہ تھا
+تم فراز اپنی طرف سے تو نبھاتے جاتے

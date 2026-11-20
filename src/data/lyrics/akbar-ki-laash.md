@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Akbar ko maar daala ye jab ran meiṅ shor utha
-  Laashe pe aake rone lage shaahe karbala
-  Dil meiṅ sina thi aur badan tha kata hua
-  Bete ka haal dekha to sambhla nahi gaya
-  Akbar ki laash par gire kehte huwe Husain
-  Kya haal mere chaand se bete ka hogaya
-  Tum ne bhari jawani meiṅ khaayi hai barchiyaṅ
-  Akbar ko maut aa gayi kaise sunegi maa
-  Rakhti thi jisko ghar meiṅ bhi laila naqaab meiṅ
-  Kiski nazar lagi mera ye laal mar gaya
+  Akbar ko maar daala ye jab ran meiṅ shor tha
+  Laashe pe aa ke rone lage Shah-e-Karbala
+  Dil meiṅ sinaaṅ thi aur badan tha kata hua
+  Bete ka haal dekha to sambhla nahiṅ gaya
+  Akbar ki laash par gire kehte hue Husain
+  Kya haal mere chaand se bete ka ho gaya
+  Tum ne bhari jawaani meiṅ khaai hai barchhiyaaṅ
+  Akbar ko maut aa gayi kaise sune gi maaṅ
+  Rakhti thi jis ko ghar meiṅ bhi Laila naqaab meiṅ
+  Kis ki nazar lagi mera ye laal mar gaya
   Akbar ki laash par...
-  Milte nahi the tum mujhe ae mere naujawaṅ
-  Mai is liye bhi aaya huṅ ghutno ke bal yahaṅ
+  Milte nahiṅ the tum mujhe ae mere naujawaaṅ
+  Main is liye bhi aaya huṅ ghutnoṅ ke bal yahaaṅ
   Rakh rakh ke haath laashoṅ pe dhunda tera badan
-  Beta tumhara gham meri binayi le gaya
+  Beta tumhaara gham meri binaai le gaya
   Akbar ki laash par...
-  Allah kitne zakhm hai akbar ke jism par
-  Talwareiṅ sab ne maari hai ye bol bol kar
-  Akbar ko maar do khud hi mar jayega Husain
-  Bhoolunga kis tarha ye layino ka bolna
+  Allah kitne zakhm hai Akbar ke jism par
+  Talwaareiṅ sab ne maari hai ye bol bol kar
+  Akbar ko maar do khud hi mar jaaye ga Husain
+  Bhuluṅ kis tarah ye lainoṅ ka bolna
   Akbar ki laash par...
-  Bole Husain dekh ke tuti hui sina
-  Zaalim ne mere sabr ka lena tha imtehan
-  Ye keh ke barchi tori hai ibne numair ne
-  Niklegi jab ye barchi kaleja bhi aayega
+  Bole Husain dekh ke tuti hui sinaaṅ
+  Zaalim ne mere sabr ka lena tha imtihaan
+  Ye keh ke barchhi tori hai Ibn-e-Numair ne
+  Nikle gi jab ye barchhi kaleja bhi aaye ga
   Akbar ki laash par...
-  Shayad kisi ne gurz bhi maara hai khaynch kar
-  Sehra mai kaise baandhunga zakhmi hai tera sar
-  Attharweiṅ baras meiṅ hi jaata hai chor kar
+  Shaayad kisi ne gurz bhi maara hai khinch kar
+  Sehra main kaise baandhuṅ ga zakhmi hai tera sar
+  Athaarveiṅ baras meiṅ hi jaata hai chhor kar
   Dulha tujhe banaauṅ ye armaan reh gaya
   Akbar ki laash par...
-  Shaana hila hila ke ye bole shahe zaman
-  Mayyat na apne bhai ki dekhe koi behen
-  Sughra watan meiṅ reh gayi acha hua magar
-  Laasha tera sakina se kaise chupaunga
+  Shaana hila hila ke ye bole Shah-e-Zaman
+  Maiyyat na apne bhaai ki dekhe koi behen
+  Sughra watan meiṅ reh gayi achchha hua magar
+  Laasha tera Sakina se kaise chhupaauṅ ga
   Akbar ki laash par...
-  Akbar ki zakhmi laash se lipte huwe wahin
-  Zainab na saath deti to mar jaate shaahe diṅ
-  Haye kisi bhi baap pe aaye na ab kabhi
-  Maula pe jaisa waqt tha zishan aur raza
+  Akbar ki zakhmi laash se lipte hue wahi
+  Zainab na saath deti to mar jaate Shah-e-Diṅ
+  Haaye kisi bhi baap pe aaye na ab kabhi
+  Maula pe jaisa waqt tha Zeeshan aur Raza
   Akbar ki laash par...
 ---
 

@@ -14,20 +14,20 @@ published: true
 romanLyrics: |-
   Jab aakhri rukhsat ko chale Sayyid-e-waala
   Hamshir ko dukhtar ko bhi Allah ko sauṅpa
-  Phir rote huwe asp-e-wafaadaar se bole
-  Aa tu bhi wida bekas o mazlum se ho le
-  Ae asp-e-wafaadaar ae asp-e-wafaadaar
+  Phir rote hue asp-e-wafaadaar se bole
+  Aa tu bhi widaa bekas o mazlum se ho le
+  Ae asp-e-wafaadaar, ae asp-e-wafaadaar
 
   1
   Maana ke bahut zakhm hai tere bhi badan par
   Asghar ki tarah pyaasa hai meri tarah muztar
   Ye aakhri khidmat hai ada kar paaye Haidar
-  Gardan pe meri Shimr ki chalne ko hai talwaar
+  Gardan pe mere Shimr ki chalne ko hai talwaar
 
   2
   Tu to mere naana ki sawaari meiṅ raha hai
   Ab tujh se bichharne ka mujhe ranj bara hai
-  Par kya karuṅ mehzar meiṅ mera naam likha hai
+  Par kya karuṅ mahzar meiṅ mera naam likha hai
   Raakib tera marne ko chala hai mere rahwaar
 
   3
@@ -44,14 +44,14 @@ romanLyrics: |-
 
   5
   Ye sun ke tarapne laga kehne laga ro kar
-  Behtar hai ke jaaṅ de duṅ maiṅ kuffaar se lar kar
+  Behtar hai ke jaaṅ de duṅ main kuffaar se lar kar
   Ae kaash ke chal jaaye mere halq pe khanjar
-  Maiṅ aap pe jaaṅ dene ko tayyaar huṅ sau baar
-  Ae Sayyid-e-abraar ae Sayyid-e-abraar
+  Main aap pe jaaṅ dene ko tayyaar huṅ sau baar
+  Ae Sayyid-e-abraar, ae Sayyid-e-abraar
 
   6
   De hukm to is fauj-e-sitamgar ko kuchal duṅ
-  Naqsha maiṅ zara der meiṅ maqtal ka badal duṅ
+  Naqsha main zara der meiṅ maqtal ka badal duṅ
   Har ek sitamgaar ko paighaam-e-ajal duṅ
   Ae Ibn-e-Ali hukm hai bas aap ka darkaar
 

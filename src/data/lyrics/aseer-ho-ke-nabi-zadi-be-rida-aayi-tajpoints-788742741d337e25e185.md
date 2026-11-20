@@ -1,29 +1,48 @@
 ---
-title: "Aseer Ho Ke Nabi Zadi Be Rida Aayi"
+title: "اسیر ہو کے نبی زادی بے ردا آئی"
+alternateTitle: "Aseer Ho Ke Nabi Zadi Be Rida Aayi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aseer ho ke Nabi zadi be rida aayi
+  Deyar e ghair mein ummat ko, na haya aayi
+  Sina ki nook pe khoon roya, tha Khalilullah
+  Nazar laeen ke hathoon mein, jab rida aayi
+
+  2
+  Youn sar barehna bibiyon ko, dekhney ke liye
+  Bazar-e-Sham laeeno ki, har nigah aayi
+  Jo apne baba se karti rahi, thi sharam-o-haya
+  Woh sath kaisay laeeno ke, ba Khuda aayi
+
+  3
+  Woh jis ko baba ke seene pe, tha sakoon milta
+  Qafas ki rait pe oss bachi, ko qaza aayi
+  Baqa-e-deen-e-Khuda Haider, Ali ke lehjay mein
+  Sunanay khutbay sar-e-uryaan, Aliya aayi
 ---
 
-1
-Aseer Ho Ke Nabi Zadi Be Rida Aayi.
-Deyar e Ghair Mein Ummat Ko, Na Haya Aayi.
-Sina Ki Nook Pe Khoon Roya, Tha Khalilullah.
-Nazar Laeen Ke Hathoon Mein, Jab Rida Aayi.
+۱
+اسیر ہو کے نبی زادی بے ردا آئی
+دیارِ غیر میں امت کو، نہ حیا آئی
+سناں کی نوک پہ خون رویا، تھا خلیل اللہ
+نظر لعین کے ہاتھوں میں، جب ردا آئی
 
-2
-Youn Sar Barehna Bibiyon Ko, Dekhney Ke Liye.
-Bazar-e-Sham Laeeno Ki, Har Nigah Aayi.
-Jo Apne Baba Se Karti Rahi, Thi Sharam-o-Haya.
-Woh Sath Kaisay Laeeno Ke, Ba Khuda Aayi.
+۲
+یوں سر برہنہ بیبیوں کو، دیکھنے کے لیے
+بازارِ شام لعینوں کی، ہر نگاہ آئی
+جو اپنے بابا سے کرتی رہی، تھی شرم و حیا
+وہ ساتھ کیسے لعینوں کے، بخدا آئی
 
-3
-Woh Jis Ko Baba Ke Seene Pe, Tha Sakoon Milta.
-Qafas Ki Rait Pe Oss Bachi, Ko Qaza Aayi.
-Baqa-e-Deen-e-Khuda Haider, Ali Ke Lehjay Mein.
-Sunanay Khutbay Sar-e-Uryaan, Aliya Aayi.
+۳
+وہ جس کو بابا کے سینے پہ، تھا سکون ملتا
+قفس کی ریت پہ اس بچی، کو قضا آئی
+بقائے دینِ خدا حیدر، علی کے لہجے میں
+سنانے خطبے سرِ عریاں، عالیہ آئی

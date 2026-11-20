@@ -1,7 +1,7 @@
 ---
 title: "آج مجلس میں سب ہیں کھلے سر"
 recitationId: "hai-shahadat-hasan"
-alternateTitle: "Hai Shahaadat Hasaṅ"
+alternateTitle: "Hai Shahaadat Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,25 +12,25 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aaj majlis meiṅ sab haiṅ khule sar
+  Aaj majlis mein sab haiṅ khule sar
   Hai shahaadat Hasan Askari ki
 
   Khud Imam-e-Zamaana haiṅ muztar
   Hai shahaadat Hasan Askari ki
 
   1
-  Khaak uraati hai turbat meiṅ Zehra
+  Khaak uraati hai turbat mein Zehra
   Jaanashin-e-Naqi mera pota
   Zehr se tujh ko maara sitamgar
 
   2
   Zehr ki seh ke maula aziyyat
   Karte haiṅ aaj duniya se rukhsat
-  Kamsini hi meiṅ haaye muqaddar
+  Kamsini hi mein haaye muqaddar
 
   3
   Mera waali gaya aaj maara
-  Maiṅ hui aaj se besahaara
+  Main hui aaj se besahaara
   Kehti jaati hai Narjis tarap kar
 
   4

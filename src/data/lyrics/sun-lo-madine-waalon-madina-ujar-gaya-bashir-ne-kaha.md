@@ -1,7 +1,7 @@
 ---
 title: "سن لو مدینے والو مدینہ اجڑ گیا، بشیر نے کہا"
 recitationId: "sun-lo-madeene-walon-madeena-ujad-gaya-basheer-ne-kaha"
-alternateTitle: "Sun Lo Madine Waaloṅ Madina Ujar Gaya, Bashir Ne Kaha"
+alternateTitle: "Sun Lo Madine Waalo Madina Ujar Gaya, Bashir Ne Kaha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,29 +12,29 @@ published: true
 romanLyrics: |-
   Hokar riha Madine se aaya jo qaafila
   Sajjad ne Bashir se ro ro ke ye kaha
-  Jaakar Madine waaloṅ ko kar do ye ittela
+  Jaakar Madine waaloṅ ko kar do ye ittila
   Ab to Madina rehne ke qaabil nahiṅ raha
   Hokar asir aaya hai kunba Batul ka
   Logo hua shahid nawaasa Rasul ka
 
   Bashir ne kaha
-  Ghar Fatima ka Karbobala meiṅ bikhar gaya
-  Sun lo Madine waaloṅ Madina ujar gaya
+  Ghar Fatima ka Karb o Bala meiṅ bikhar gaya
+  Sun lo Madine waalo Madina ujar gaya
 
   1
   Mehmaaṅ bula ke haaye sataaya Husain ko
   Paani na ek bund pilaaya Husain ko
-  Sukhe gale pa khanjar-e-bedaad chal gaya
+  Sukhe gale pe khanjar-e-bedaad chal gaya
 
   2
   Logoṅ tumhaare Maula ko pyaasa kiya shahid
   Tanha Ali ka laal tha aur zulm the shadid
-  Zahara ki god meiṅ sar-e-Shabbir kat gaya
+  Zahra ki god meiṅ sar-e-Shabbir kat gaya
 
   3
   Tasvir-e-Mustafa tha jo pyaara Husain ka
-  Atthaarah saal ka tha dulaara Husain ka
-  Sine pa barchhi kha ke jawaani meiṅ mar gaya
+  Athaarah saal ka tha dulaara Husain ka
+  Sine pe barchhi kha ke jawaani meiṅ mar gaya
 
   4
   Abbas-e-baawafa ke bhi shaane qalam hue
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Tha shirkhwaar Asghar-e-naadaaṅ Husain ka
   Maasum bezubaaṅ tha woh bachcha Husain ka
-  Nanhe gale pa tir-e-sitamgaar chal gaya
+  Nanhe gale pe tir-e-sitamgaar chal gaya
 
   7
   Zakhmoṅ se chur chur hai bimaar ka badan
@@ -59,7 +59,7 @@ romanLyrics: |-
   8
   Rokar kaha Bashir ne logoṅ duhaai hai
   Kho kar bahan Husain ko maqtal meiṅ aayi hai
-  Khanjar gale pa Shaah ke maqtal meiṅ chal gaya
+  Khanjar gale pe Shaah ke maqtal meiṅ chal gaya
 
   9
   Sunkar kalaam Naaz ka ghamkhwaar ro diye

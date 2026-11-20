@@ -31,8 +31,8 @@ romanLyrics: |-
   Husain ki wo riyaazat haiṅ Sayyid-e-Sajjaad
 
   5
-  Bacheṅ ge hashr meiṅ kis tarha qaatilaan-e-Husain
-  Gawaah roz-e-qayaamat haiṅ Sayyid-e-Sajjaad
+  Bacheṅ ge hashr meiṅ kis tarah qaatilaan-e-Husain
+  Gawaah roz-e-qiyaamat haiṅ Sayyid-e-Sajjaad
 
   6
   Jo apne bhaai ke qaatil ki mezbaani kare

@@ -1,42 +1,73 @@
 ---
-title: "Kerbala Say Yehi Awaaz-e-Hussain Aati Hai"
+title: "کربلا سے یہی آوازِ حسین آتی ہے"
+alternateTitle: "Kerbala Say Yehi Awaaz-e-Hussain Aati Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kerbala say yehi awaaz-e-Hussain aati hai
+  Ujar kay meri behen wo Shaam jaati hai
+
+  1
+  Hai chaar saal ki beti meri Sakina jo
+  Bandhi hai ounth pay vo mujhai bulati hai
+
+  2
+  Jo sogwaar hai dulhan wo Fatima Kubra
+  Sajjad rotay jo daikhay bina chupati hai
+
+  3
+  Jigar zibah hua jis ka wohi to hai Laila
+  Akailee rait pay baithee qabar banati hai
+
+  4
+  Na roee aaj talak jo shaheed beton ko
+  Giray Sajjad mera ussay uthati hai
+
+  5
+  Sajjad khair say jaey ye qafila tera
+  Bina rida meri Zainab fikar satati hai
+
+  6
+  Abhi to Shaam mei Abid nay khoon rona hai
+  Safar mei qatilon say ussay bachati hai
+
+  7
+  Shimar nay haath hain jakray wo mergaee Adil
+  Sar-e-Abbas ko Zainab rasan dikhati hai
 ---
 
-Kerbala Say Yehi Awaaz-e-Hussain Aati Hai
+کربلا سے یہی آوازِ حسین آتی ہے
+اجڑ کے میری بہن وہ شام جاتی ہے
 
-Ujar Kay Meri Behen Wo Shaam Jaati Hai
+۱
+ہے چار سال کی بیٹی میری سکینہ جو
+بندھی ہے اونٹ پہ وہ مجھے بلاتی ہے
 
-Hai Chaar Saal Ki Beti Meri Sakina Jo
+۲
+جو سوگوار ہے دلہن وہ فاطمہ کبریٰ
+سجاد روتے جو دیکھے بنا چپاتی ہے
 
-Bandhi Hai Ounth Pay Vo Mujhai Bulati Hai
+۳
+جگر ذبح ہوا جس کا وہی تو ہے لیلیٰ
+اکیلی ریت پہ بیٹھی قبر بناتی ہے
 
-Jo Sogwaar Hai Dulhan Wo Fatima Kubra
+۴
+نہ روئی آج تلک جو شہید بیٹوں کو
+گرے سجاد میرا اسے اٹھاتی ہے
 
-Sajjad Rotay Jo Daikhay Bina Chupati Hai
+۵
+سجاد خیر سے جائے یہ قافلہ تیرا
+بنا ردا میری زینب فکر ستاتی ہے
 
-Jigar Zibah Hua Jis Ka Wohi To Hai Laila
+۶
+ابھی تو شام میں عابد نے خون رونا ہے
+سفر میں قاتلوں سے اسے بچاتی ہے
 
-Akailee Rait Pay Baithee Qabar Banati Hai
-
-Na Roee Aaj Talak Jo Shaheed Beton Ko
-
-Giray Sajjad Mera Ussay Uthati Hai
-
-Sajjad Khair Say Jaey Ye Qafila Tera
-
-Bina Rida Meri Zainab Fikar Satati Hai
-
-Abhi To Shaam Mei Abid Nay Khoon Rona Hai
-
-Safar Mei Qatilon Say Ussay Bachati Hai
-
-Shimar Nay Haath Hain Jakray Wo Mergaee Adil
-
-Sar-e-Abbas Ko Zainab Rasan Dikhati Hai
+۷
+شمر نے ہاتھ ہیں جکڑے وہ مر گئی عادل
+سرِ عباس کو زینب رسن دکھاتی ہے

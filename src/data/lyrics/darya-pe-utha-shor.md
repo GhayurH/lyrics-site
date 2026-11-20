@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab mashk e sakina pe laga tir sitam ka
-  Bikhre huwe laashoṅ ne kaha haye hussaina
-  Bedast alamdar ko bedeeno ne maara
-  Ghore se gira khaak pe saqqa e sakina
-  Darya pe utha shor alamdar alamdar
-  Saqqa e haram syed o salaar alamdar
+  Jab mashk-e-Sakina pe lagaa tir sitam ka
+  Bikhre hue laashoṅ ne kahaa haaye Husaina
+  Be dast alamdaar ko be dinoṅ ne maara
+  Ghore se giraa khaak pe saqqa-e-Sakina
+  Daryaa pe uthaa shor alamdaar alamdaar
+  Saqqa-e-haram Sayyid o salaar alamdaar
   Jaane se tere sheh ki kamar tut gayi hai
-  Abbas tera rasta behan dekh rahi hai
-  Shabbir huwe jine se bezaar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Pahunchi ye khabar qaima e shabbir meiṅ jis dam
-  Shabbir kamar thaam ke karne lage matam
-  Ye bain kiye ae mere gham khaar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Haathoṅ meiṅ liye kuze tarapte rahe pyase
-  Aur pyasoṅ ke halqe meiṅ sakina ke the naale
-  Pyasoṅ pe fida hogaya gham khaar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Sadaat ko jab lutne aayenge sitamgar
-  Phir kaun bachayega teri behna ki chadar
-  Aaja meri chadar ke nigehdaar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Bain sakina ne kiya haye alamdare Husain
-  Nahar se ajao chacha haye alamdare Husain
-  Karti hoo mai ye ilteja haye alamdare Husain
-  Mujhe na tarpao chacha haye alamdare Husain
-  Baazu e saqqae haram haye alamdare Husain
-  Jab huwe darya pe qalam haye alamdare Husain
-  Rone lage shaah e umam haye alamdare Husain
-  Is se bara nahi sitam haye alamdare Husain
-  Abbas ke nazdik jo pahunche shah e waala
-  Sar bhai ka ye kehte huwe godh meiṅ rakha
-  Tum to meri fauj ke salaar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  E dhaaras e shabbir zara aankheiṅ to kholo
-  Hasrat hai ke ek baar mujhe bhai to bolo
-  Kya yaad hai bachpan ka tumhe pyar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Qasim bhi gaye aun o mohamed bhi sidhare
-  Akbar bhi chale jayenge ab baad tumhare
-  Koi na raha saaya e diwar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Deti thi yehi zainab e dilgir duhaai
-  Mai tere sahare pe watan chor ke aayi
-  Kiuṅ chor ke jaate ho wafadar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
-  Ghazi ki shahadat pe qayamat ka tha manzar
-  Kar sakta nahi koi bayaṅ mesum o mazhar
-  Alfaaz ka lashkar hai qalamkaar alamdar
-  Abbas abbas abbas alamdar
-  Darya pe utha shor...
+  Abbas teraa raastaa behan dekh rahi hai
+  Shabbir hue jine se bezaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Pahunchi ye khabar khaima-e-Shabbir mein jis dam
+  Shabbir kamar thaam ke karne lage maatam
+  Ye bain kiye ae mere gham khaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Haathoṅ mein liye kuze tarapte rahe pyaase
+  Aur pyaasoṅ ke halqe mein Sakina ke the naale
+  Pyaasoṅ pe fidaa ho gayaa gham khaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Saadaat ko jab lutne aayeṅge sitamgar
+  Phir kaun bachaayeṅge teri behnaa ki chaadar
+  Aajaa meri chaadar ke nigahdaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Bain Sakina ne kiya haaye alamdaar-e-Husain
+  Nahar se aajaao chachaa haaye alamdaar-e-Husain
+  Karti huṅ main ye iltijaa haaye alamdaar-e-Husain
+  Mujhe na tarpaao chachaa haaye alamdaar-e-Husain
+  Baazu-e-saqqa-e-haram haaye alamdaar-e-Husain
+  Jab hue daryaa pe qalam haaye alamdaar-e-Husain
+  Rone lagaa shaah-e-umam haaye alamdaar-e-Husain
+  Is se baraa nahiṅ sitam haaye alamdaar-e-Husain
+  Abbas ke nazdik jo pahunche sheh-e-waalaa
+  Sar bhaai ka ye kehte hue god mein rakhaa
+  Tum to meri fauj ke salaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Ae dhaaras-e-Shabbir zara aankheṅ to kholo
+  Hasrat hai ke ek baar mujhe bhaai to bolo
+  Kya yaad hai bachpan ka tumheṅ pyaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Qaasim bhi gaye Aun o Muhammad bhi sidhaare
+  Akbar bhi chale jaayeṅge ab baad tumhare
+  Koi na rahaa saaya-e-diwaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Deti thi yahi Zainab-e-dilgir duhaai
+  Main tere sahare pe watan chhor ke aayi
+  Kiuṅ chhor ke jaate ho wafadaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
+  Ghaazi ki shahaadat pe qayaamat ka tha manzar
+  Kar saktaa nahiṅ koi bayaṅ Maisam o Mazhar
+  Alfaaz ka lashkar hai qalamkaar alamdaar
+  Abbas Abbas Abbas alamdaar
+  Daryaa pe uthaa shor...
 ---
 
 ۱

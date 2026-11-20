@@ -44,14 +44,14 @@ romanLyrics: |-
   Ho gaye pardes meiṅ donoṅ juda maatam karo
 
   6
-  Sina-e-Akbar pe jab neza laga maiṅ paas thi
-  Jab mera Abbas ghore se gira maiṅ paas thi
+  Sina-e-Akbar pe jab neza laga main paas thi
+  Jab mera Abbas ghore se gira main paas thi
   Bat gaya tukroṅ meiṅ dil us dam mera maatam karo
 
   7
   Mere dil ka dard tum ko dekh kar hota hai kam
   Ae azaadaaroṅ manaao mere shahzaadoṅ ka gham
-  Duṅgi maiṅ mahshar ke din is ka sila maatam karo
+  Duṅ gi main mahshar ke din is ka sila maatam karo
 
   8
   Jab talak saaṅseṅ haiṅ Waaiz ye aza jaari rahe

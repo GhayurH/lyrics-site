@@ -9,126 +9,74 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Al madad, Maula Raza
-
+romanLyrics: |-
+  Al madad, Maula Raza
+  Naana Nabi daada Ali
 
   1
-
-  Nana Nabhi dada Ali dadi teri khairun nisaa
-
+  Daadi teri Khairun Nisa
+  Tu hai masiha-e-jahaaṅ
+  Shaah-e-Khurasaaṅ hai laqab
+  Yuṅ har farishta rauze par
+  Aata hai tere ba adab
+  Haaṅ rad nahiṅ hoti tere
+  Rauze pe koi bhi dua
 
   2
-
-  1) Tu hai masiha-e- jahaan, shaahe khurasaan hai laqab
-
-  Yu har farishta roz par, aataa hai tere ba adab
-
-  Haan rad nahi hoti tere, roze pe koi bhi dua
-
-
-  3
-
-  Beenayi bhi deta hai tu
-
+  Binaai bhi deta hai tu
   Goyaai bhi deta hai tu
-
-  Maange agar tujhse koi
-
+  Maange agar tujh se koi
   Daanaai bhi deta hai tu
-
-  Tu bhi to baab e ilm hai
-
+  Tu bhi baab-e-ilm hai
   Tu bhi to hai mushkil kusha
 
+  3
+  Hai zaamin-e-aahu bhi tu
+  Gul bhi hai tu khushbu bhi tu
+  Hai puchhta har aankh se
+  Girte hue aansuṅ bhi tu
+  Teri ataayeṅ dekh kar
+  Dushman ko bhi kehna para
 
   4
-
-  Hai zaamine aahu bhi tu
-
-  Gul bhi hai tu khushboo bhi tu
-
-  Hai pochta har aankh se
-
-  Girte huwe aansu bhi tu
-
-  Teri ataayein dekh kar
-
-  Dushman ko bhi kehna padha
-
+  Teri karaamaat nazar
+  Shab ho ke ho waqt-e-sahar
+  Rehta hai har zaayir tera
+  Rauze ki jaali chum kar
+  Mashhad muqaddas ho gaya
+  Tu ne jo aa kar di azaaṅ
 
   5
-
-  Teri karamaate nazar
-
-  Shab ho ke ho waqte sahar
-
-  Lehta hai har zaayir tera
-
-  Rauze ki jaali choom kar
-
-  Mashad muqaddas ho gaya
-
-  Tune jo aa kar di azan
-
+  Tere hi dastar khwaan par
+  Hota hai jannat ka gumaaṅ
+  Jinn o malak lete haiṅ sab
+  Tere hi dar se rotiyaaṅ
+  Maula tera maqruz hai
+  Har ek gada o baadshaah
 
   6
-
-  Tere hi dastar khaan par
-
-  Hota hai jannat ka gumaan
-
-  Jinn o malak lete hai sab
-
-  Tere hi dar se rotiyan
-
-  Maula tera makrooz hai
-
-  Har ek gada o baadshah
-
+  Rauze se tere dur hai
+  Ham to bahut majbur haiṅ
+  Aankhoṅ se aansuṅ hai rawaaṅ
+  Dil bhi ghamoṅ se chur hai
+  Tujh se kaheṅge haal-e-dil
+  Izn-e-ziyaarat kar ata
 
   7
-
-  Rauze se tere door hai
-
-  Hum to bahot majboor hai
-
-  Aankhon se aansu hai rawan
-
-  Dil bhi ghamon se choor hai
-
-  Tujhse kahenge haal e dil
-
-  Izne ziyarat kar ataa
-
+  Ahl-e-aza ke haal par
+  Dukhta to hoga dil tera
+  Ishq-e-gham-e-Shabbir mein
+  Maare gaye jo bekhata
+  Hai munis o yaawar tu hi
+  Ibn-e-shahid-e-Karbala
 
   8
-
-  Ahle aza ke haal par
-
-  Dukhta to hoga dil tera
-
-  Ishq e ghame shabbir mein
-
-  Maare gaye jo bekhata
-
-  Hai monis o yawar tu hi
-
-  Ibne shaheede karbala
-
-
-  9
-
-  Rehaan mujhko hai yaqeen
-
-  Maula raza ki zaat se
-
-  Ye naukri shabbir ki
-
-  Jayegi ab na haath se
-
-  Nauhe likhunga mai sada
-
-  Dete rahenge wo sila'
+  Rehaan mujhko hai yaqiṅ
+  Maula Raza ki zaat se
+  Ye naukri Shabbir ki
+  Jaaegi ab na haath se
+  Nauhe likhuṅga main sada
+  Dete raheṅge wo sila
 ---
 
 المدد مولا رضا

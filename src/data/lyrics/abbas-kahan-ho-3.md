@@ -1,6 +1,6 @@
 ---
 title: "عباس کہاں ہو"
-alternateTitle: "Abbas Kahan Ho"
+alternateTitle: "Abbas Kahaaṅ Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,62 +9,62 @@ poet: "Yasir"
 aliases: []
 published: false
 romanLyrics: |-
-  Bazar mein bint-e-Ali deti thi sada bhai
-  Sar par bhi nahi chadar lakhon hain tamashai
+  Baazaar mein bint-e-Ali deti thi sadaa bhaai
+  Sar par bhi nahiṅ chaadar, laakhoṅ haiṅ tamaashaai
 
   1
-  Iss aalam-e-ghurbat mein koi bhi nahi mera
-  Hai khak-e-safar sar par our hath rasan basta
-  Pardais mein Zainab ko taqdeer kahan layi
-  Paiwast hai naizay mein sar shahe shaheedaan ka
+  Is aalam-e-ghurbat mein koi bhi nahiṅ meraa
+  Hai khaak-e-safar sar par aur haath rasan bastaa
+  Pardes mein Zainab ko taqdeer kahaaṅ laai
+  Paiwast hai neze mein sar shaah-e-shaheedaaṅ kaa
 
   2
-  Yeh dekh ke aye ghazi phatta hai mera seena
-  Mar jaye gi iss gham mein Shabir ki maa jayi
-  Darya ke kinare tum aada se gaye larne
-  Sab dekh rahi thi main darwaz-e-khaima se
+  Yeh dekh ke ae ghaazi phattaa hai meraa seenaa
+  Mar jaae gi is gham mein Shabbir ki maaṅ jaai
+  Daryaa ke kinaare tum aadaa se gae larne
+  Sab dekh rahi thi main darwaaza-e-khaimaa se
 
   3
-  Ab jang hamari bhi dekhi tu zara bhai
-  Dunya ka sahara hai baba jo hamara hai
-  Mushkil mein magar main ne tum ko hi pukara hai
-  Ab dhondti hai tum ko bhaiyya meri benayi
+  Ab jang hamaari bhi dekh tu zaraa bhaai
+  Duniyaa kaa sahaaraa hai baabaa jo hamaaraa hai
+  Mushkil mein magar main ne tum ko hi pukaaraa hai
+  Ab dhundti hai tum ko bhaiyaa meri binaai
 
   4
-  Be monis-o-yawar hain batlao kidhar jaein
-  Iss tarha tu jeene se behtar hain keh mar jaein
-  Faryad karein kis se hoti nahi sunwai
-  Aye shair-e-jarri meri imdad ko aa jao
+  Be munis o yaawar haiṅ, batlaao kidhar jaaeṅ
+  Is tarah to jine se behtar haiṅ ke mar jaaeṅ
+  Faryaad kareṅ kis se, hoti nahiṅ sunwaai
+  Ae sher-e-jarri meri imdaad ko aa jaao
 
   5
-  Manga hai kaneezi mein zalim ne Sakina ko
-  Hai waqt qayamat ka masoom hai ghabrai
-  Durron ki aziyyat se Sajjad howa be-dam
-  Main kis ko sadaein doon koi bhi nahi mehram
+  Maangaa hai kanizi mein zaalim ne Sakina ko
+  Hai waqt qayaamat kaa, maasum hai ghabraai
+  Durroṅ ki aziyat se Sajjad huaa be dam
+  Main kis ko sadaaeṅ duṅ, koi bhi nahiṅ mahram
 
   6
-  Ik samt hain balwai ik samt tamashai
-  Bachi ne sar-e-naiza nanha sa jo sar dekha
-  Dam ruk gaya sadmay se kuhram howa barpa
-  Mushkil se Sakina ki hai jan mein jan aayi
+  Ik samt haiṅ balwaai, ik samt tamaashaai
+  Bachchi ne sar-e-neza nanhaa saa jo sar dekhaa
+  Dam ruk gayaa sadme se, kohraam huaa barpaa
+  Mushkil se Sakina ki hai jaan mein jaan aai
 
   7
-  Yeh kaise musalmaan hain hanste hain humein tak kar
-  Ik waqt musibat hai aulad-e-payambar par
-  Aa jao mere bhai aa jao mere bhai
-  Bazar-e-sitam mujh ko maqtal nazar aata hai
+  Yeh kaise musalmaan haiṅ, hanste haiṅ hameṅ tak kar
+  Ik waqt musibat hai aulaad-e-payambar par
+  Aa jaao mere bhaai, aa jaao mere bhaai
+  Baazaar-e-sitam mujh ko maqtal nazar aataa hai
 
   8
-  Sajjad ka khoon rona dekha nahi jata hai
-  Hai khash nahi hoti aankhon ki binai
-  Ahmad ki nawasi ka Yasir yehi noha tha
-  Na bhai bache mere na koi bacha beta
+  Sajjad kaa khun ronaa dekhaa nahiṅ jaataa hai
+  Haae kaash nahiṅ hoti aankhoṅ ki binaai
+  Ahmad ki nawaasi kaa Yasir yahi nauhaa thaa
+  Na bhaai bache mere na koi bachaa betaa
 
   9
-  Ab jee ke karon gi kya gar maut nahi aayi
-  Shabir ki khawakhir ka Yasir yehi noha tha
-  Ghar bar luta mera barbad howa kunba
-  Kha jaye gi ab mujh ko bhaiyya meri tanhai
+  Ab ji ke karuṅ gi kyaa gar maut nahiṅ aai
+  Shabbir ki khwaahar kaa Yasir yahi nauhaa thaa
+  Ghar baar lutaa meraa, barbaad huaa kunbaa
+  Khaa jaae gi ab mujh ko bhaiyaa meri tanhaai
 ---
 
 بازار میں بنتِ علی دیتی تھی صدا بھائی

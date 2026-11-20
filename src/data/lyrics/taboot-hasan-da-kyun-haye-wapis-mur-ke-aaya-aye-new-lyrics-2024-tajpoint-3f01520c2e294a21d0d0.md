@@ -1,29 +1,48 @@
 ---
-title: "Taboot Hasan Da Kyun Haye Wapis Mur Ke Aaya Aye New Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "تابوت حسن دا کیوں ہائے واپس مڑ کے آیا اے"
+alternateTitle: "Taboot Hasan Da Kyun Haye Wapis Mur Ke Aaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Shaukat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Taboot Hasan da kyun haye wapis mur ke aaya aye
+  Aj waris taj imamat nu Jodah ne zehar pilaya aye
+  Kad ke teer maiyyat choon Zainab, Farwa ro farmaya
+  Musalmana had zulm di keeti haye teraan nal zakhmaya aye
+
+  2
+  Qabar Nabi nal dafan na hoya jantaan da sardar aye
+  Ibn-e-Ali, Zahra da jaya haye Baqiya ja dafnaya aye
+  Hasan de jigar da tukra Qasim Karbal wich taqseem aye
+  Ki dasaan Shabbir ne kiwein haye tukray tukray chaya aye
+
+  3
+  Laqab hai aala sabz qaba da dosh-e-Nabi da sawar aye
+  Fair v lokaan teer chala ke haye kafan da rang badlaya aye
+  Aayat-e-Tatheer da paikar wich mubahlay aaya
+  Shaukat, Hasan Quran da waris aye Pak Nabi farmaya aye
 ---
 
-1
-Taboot Hasan Da Kyun Haye Wapis Mur Ke Aaya Aye.
-Aj Waris Taj Imamat Nu Jodah Ne Zehar Pilaya Aye.
-Kad Ke Teer Maiyyat Choon Zainab, Farwa Ro Farmaya.
-Musalmana Had Zulm Di Keeti Haye Teraan Nal Zakhmaya Aye.
+۱
+تابوت حسن دا کیوں ہائے واپس مڑ کے آیا اے
+اج وارثِ تاجِ امامت نوں جعدہ نے زہر پلایا اے
+کڈھ کے تیر میت چوں زینب، فروہ رو فرمایا
+مسلمانا حد ظلم دی کیتی ہائے تیراں نال زخمایا اے
 
-2
-Qabar Nabi Nal Dafan Na Hoya Jantaan Da Sardar Aye.
-Ibn-e-Ali, Zahra Da Jaya Haye Baqiya Ja Dafnaya Aye.
-Hasan De Jigar Da Tukra Qasim Karbal Wich Taqseem Aye.
-Ki Dasaan Shabbir Ne Kiwein Haye Tukray Tukray Chaya Aye.
+۲
+قبرِ نبی نال دفن نہ ہویا جنتاں دا سردار اے
+ابنِ علی، زہرا دا جایا ہائے بقیع جا دفنایا اے
+حسن دے جگر دا ٹکڑا قاسم کربل وچ تقسیم اے
+کی دساں شبیر نے کیویں ہائے ٹکڑے ٹکڑے چایا اے
 
-3
-Laqab Hai Aala Sabz Qaba Da Dosh-e-Nabi Da Sawar Aye.
-Fair V Lokaan Teer Chala Ke Haye Kafan Da Rang Badlaya Aye.
-Aayat-e-Tatheer Da Paikar Wich Mubahlay Aaya.
- Shaukat, Hasan Quran Da Waris Aye Pak Nabi Farmaya Aye.
+۳
+لقب ہے اعلیٰ سبز قبا دا دوشِ نبی دا سوار اے
+فیر وی لوکاں تیر چلا کے ہائے کفن دا رنگ بدلایا اے
+آیتِ تطہیر دا پیکر وچ مباہلے آیا
+شوکت، حسن قرآن دا وارث اے پاک نبی فرمایا اے

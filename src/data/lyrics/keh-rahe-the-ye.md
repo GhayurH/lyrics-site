@@ -12,29 +12,29 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Keh rahe the ye Sarwar khat likha hai Sughra ne
-  Ae jamaal-e-Paigambar khat likha hai Sughra ne
-  Tum ko ae Ali Akbar khat likha hai Sughra ne
+  Keh rahe the ye Sarwar khat likhaa hai Sughra ne
+  Ae jamaal-e-Paighambar khat likhaa hai Sughra ne
+  Tum ko ae Ali Akbar khat likhaa hai Sughra ne
 
   1
   Kehna ye Sakina se kab palat ke aaogi
   Apni mohini surat kab hameiṅ dikhaaogi
-  Tum ko ae Ali Akbar khat likha hai Sughra ne
+  Tum ko ae Ali Akbar khat likhaa hai Sughra ne
 
   2
   Tum hamaari jaanib se pyaar karna Asghar ko
   Jab palat ke ghar aana saath laana Asghar ko
-  Tum ko ae Ali Akbar khat likha hai Sughra ne
+  Tum ko ae Ali Akbar khat likhaa hai Sughra ne
 
   3
   Mustaqil Madine ki das rahi hai tanhaai
   Jald aao ae bhaai jald aao ae bhaai
-  Tum ko ae Ali Akbar khat likha hai Sughra ne
+  Tum ko ae Ali Akbar khat likhaa hai Sughra ne
 
   4
-  Ab to chal raha ho ga ghutniyoṅ mera Asghar
+  Ab to chal raha ho ga ghantiyoṅ mera Asghar
   Khairiyat Sakina ki khat meiṅ bhej do likh kar
-  Tum ko ae Ali Akbar khat likha hai Sughra ne
+  Tum ko ae Ali Akbar khat likhaa hai Sughra ne
 
   5
   Khatm jab hui tahrir keh rahe the ye Sarwar

@@ -10,65 +10,65 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Rasan may haath bandhe hai behan hai beparda
-  Sina se sar na giraye to kya kare abbas
+  Rasan mein haath bandhe haiṅ behan hai beparda
+  Sinaaṅ se sar na giraaye to kya kare Abbas
 
   1
-  Haye abbas haye haye abbas haye haye abbas
-  Padar ki laash se usko churaya jaata hai
-  Sitam hai naaqe pe tanha bithaya jaata hai
-  Rasan may bali sakina ka bandh raha hai gala
+  Haaye Abbas haaye haaye Abbas haaye haaye Abbas
+  Padar ki laash se usko chhuraaya jaata hai
+  Sitam hai naaqe pe tanha bithaaya jaata hai
+  Rasan mein baali Sakina ka band raha hai gala
 
   2
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 
   3
-  Wo kis tarha se tasalli de aake maadar ko
-  Kiya hai dasht may do baar zibha asghar ko
-  Lehad se aagaya naize pe jism asghar ka
+  Wo kis tarah se tasalli de aake maadar ko
+  Kiya hai dasht mein do baar zibh Asghar ko
+  Lahad se aa gaya neze pe jism Asghar ka
 
   4
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 
   5
-  Chupa ke baaloṅ se moo sharmsaar hoti hai
-  Wo pusht e naaqa pe ab khud sawaar hoti hai
-  Ye kaisa waqt hai zahra ki betiyoṅ pe para
+  Chhupa ke baaloṅ se muṅh sharmsaar hoti hai
+  Wo pusht-e-naaqa pe ab khud sawaar hoti hai
+  Ye kaisa waqt hai Zahra ki betiyoṅ pe para
 
   6
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 
   7
-  Dhyaan laasha e shabbir se hatana tha
-  Dobara sayyede sajjad ko bachana tha
-  Giri hai naaqe se maqtal may saani e zahra
+  Dhyaan laasha-e-Shabbir se hataana tha
+  Dobaara Sayyid Sajjad ko bachaana tha
+  Giri hai naaqe se maqtal mein saani-e-Zahra
 
   8
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 
   9
-  Kahiṅ pe qasim o akbar kahiṅ pe aun ka sar
-  Kahiṅ hai laal ruqayya ke aur kahiṅ asghar
-  Wo bache naizoṅ pe hai godh may jinhe paala
+  Kahiṅ pe Qasim o Akbar kahiṅ pe Aun ka sar
+  Kahiṅ hai laal Ruqayya ke aur kahiṅ Asghar
+  Wo bachche nezoṅ pe hai god mein jinheṅ paala
 
   10
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 
   11
-  Hai nil chehre pe itne tamache maare hai
-  Layiṅ ne khaych ke kaano se durr utaare hai
-  Ke dono kaano se masum ke lahu behta
+  Hai nil chehre pe itne tamaanche maare haiṅ
+  Laiṅ ne khainch ke kaanoṅ se durr utaare haiṅ
+  Ke donoṅ kaanoṅ se maasum ke lahu behta
 
   12
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 
   13
-  Sar uska kaise sina par koi utha ke chale
-  Jo sheh ke saamne nazreiṅ sada jhuka ke chale
-  Takhaza mir takallum hai uski ghairat ka
+  Sar uska kaise sinaaṅ par koi utha ke chale
+  Jo sheh ke saamne nazreṅ sada jhuka ke chale
+  Taqaaza Mir Takallum hai uski ghairat ka
 
   14
-  Haye abbas haye haye abbas...
+  Haaye Abbas haaye haaye Abbas...
 ---
 
 رسن میں ہاتھ بندھے ہیں بہن ہے بے پردہ

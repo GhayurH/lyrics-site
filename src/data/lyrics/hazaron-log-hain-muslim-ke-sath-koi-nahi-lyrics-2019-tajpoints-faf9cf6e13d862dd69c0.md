@@ -1,35 +1,60 @@
 ---
-title: "Hazaron Log Hain Muslim Ke Sath Koi Nahi Lyrics 2019"
+title: "ہزاروں لوگ ہیں مسلم کے ساتھ کوئی نہیں"
+alternateTitle: "Hazaron Log Hain Muslim Ke Sath Koi Nahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hazaron log hain Muslim ke sath koi nahi
+  Ajeeb shehar hai Muslim sifaat koi nahi
+  Pukara dekh ke Zainab ko yeh sar-e-Muslim
+  Salam kar nahi sakta keh hath koi nahi
+
+  2
+  Abhi tu kitne namazi khare they masjid mein
+  Abhi abhi yahan Muslim ke sath koi nahi
+  Salam bhaij rahe hain Hussain ko Muslim
+  Sitam ke samne jhukne ki baat koi nahi
+
+  3
+  Pyam kaise yeh bhejey na aaiye Maula
+  Yahan pe aap ki baiat ki baat koi nahi
+  Kahan safeer ne Taua main ik musafir hoon
+  Mere naseeb mein ab sukh ki raat koi nahi
+
+  4
+  Ghareeb aisa hai Muslim ke shehar-e-Kofa mein
+  Ameer hotey howay oss ke sath koi nahi
+  Yateem bachey hain Haris ki taig hai Akbar
+  Bachane wali madadgar zaat koi nahi
 ---
 
-1
-Hazaron Log Hain Muslim Ke Sath Koi Nahi.
-Ajeeb Shehar Hai Muslim Sifaat Koi Nahi.
-Pukara Dekh Ke Zainab Ko Yeh Sar-e-Muslim.
-Salam Kar Nahi Sakta Keh Hath Koi Nahi.
+۱
+ہزاروں لوگ ہیں مسلم کے ساتھ کوئی نہیں
+عجیب شہر ہے مسلم صفات کوئی نہیں
+پکارا دیکھ کے زینب کو یہ سرِ مسلم
+سلام کر نہیں سکتا کہ ہاتھ کوئی نہیں
 
-2
-Abhi Tu Kitne Namazi Khare They Masjid Mein.
-Abhi Abhi Yahan Muslim Ke Sath Koi Nahi.
-Salam Bhaij Rahe Hain Hussain Ko Muslim.
-Sitam Ke Samne Jhukne Ki Baat Koi Nahi.
+۲
+ابھی تو کتنے نمازی کھڑے تھے مسجد میں
+ابھی ابھی یہاں مسلم کے ساتھ کوئی نہیں
+سلام بھیج رہے ہیں حسین کو مسلم
+ستم کے سامنے جھکنے کی بات کوئی نہیں
 
-3
-Pyam Kaise Yeh Bhejey Na Aaiye Maula.
-Yahan Pe Aap Ki Baiat Ki Baat Koi Nahi.
-Kahan Safeer Ne Taua Main Ik Musafir Hoon.
-Mere Naseeb Mein Ab Sukh Ki Raat Koi Nahi.
+۳
+پیام کیسے یہ بھیجے نہ آئیے مولا
+یہاں پہ آپ کی بیعت کی بات کوئی نہیں
+کہا سفیر نے طوعہ، میں اک مسافر ہوں
+میرے نصیب میں اب سکھ کی رات کوئی نہیں
 
-4
-Ghareeb Aisa Hai Muslim Ke Shehar-e-Kofa Mein.
-Ameer Hotey Howay Oss Ke Sath Koi Nahi.
-Yateem Bachey Hain Haris Ki Taig Hai Akbar.
-Bachane Wali Madadgar Zaat Koi Nahi.
+۴
+غریب ایسا ہے مسلم کہ شہرِ کوفہ میں
+امیر ہوتے ہوئے اس کے ساتھ کوئی نہیں
+یتیم بچے ہیں حارث کی تیغ ہے اکبر
+بچانے والی مددگار ذات کوئی نہیں

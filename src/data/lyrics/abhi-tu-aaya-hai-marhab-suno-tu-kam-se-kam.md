@@ -1,6 +1,6 @@
 ---
 title: "ابھی تو آیا ہے مرحب سنو تو کم سے کم"
-alternateTitle: "Abhi Tu Aaya Hai Marhab Suno Tu Kam Se Kam"
+alternateTitle: "Abhi To Aaya Hai Marhab Suno To Kam Se Kam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abhi tu aaya hai Marhab suno tu kam se kam
-  Kyun bhag aate ho yaro ruku tu kam se kam
-  Idhar Rasool hain kehte keh jao jang karo
-  Udhar yeh kehta hai Khaiber laro tu kam se kam
+  Abhi to aaya hai Marhab suno to kam se kam
+  Kiuṅ bhaag aate ho yaaro ruko to kam se kam
+  Idhar Rasul haiṅ kehte kah jaao jang karo
+  Udhar yeh kehta hai Khaibar laro to kam se kam
 
   2
-  Chupe kahan ho Muhammad pukarte hi rahe
-  Yeh jang chahe laro na milo tu kam se kam
-  Na maarte ho na marte ho aik kam karo
-  Sharm se hi mere pyaro maro tu kam se kam
+  Chhupe kahaaṅ ho Muhammad pukaarte hi rahe
+  Yeh jang chaahe laro na milo to kam se kam
+  Na maarte ho na marte ho ek kaam karo
+  Sharm se hi mere pyaaro maro to kam se kam
 
   3
-  Ali ko bheja Nabi ne tu bole yeh ashab
-  Mile ga maal-e-ghaneemat chalo tu kam se kam
-  Jiya hai koan mara koan bugaz-e-Haider mein
-  Jo keh nahi kabhi sakte likho tu kam se kam
+  Ali ko bheja Nabi ne to bole yeh ashaab
+  Mile ga maal-e-ghanimat chalo to kam se kam
+  Jiya hai kaun mara kaun bughz-e-Haider mein
+  Jo keh nahiṅ kabhi sakte likho to kam se kam
 
   4
   Lahad mein aa gaye Haider farishto arz suno
-  Ali ki deed ho kuhl kar hato tu kam se kam
-  Imam aaein gaye imdad ko teri Kashif
-  Yazeed-e-waqt ke aagaye utho tu kam se kam
+  Ali ki did ho khul kar hato to kam se kam
+  Imaam aaeṅ ge imdaad ko teri Kashif
+  Yazid-e-waqt ke aage utho to kam se kam
 ---
 
 ۱

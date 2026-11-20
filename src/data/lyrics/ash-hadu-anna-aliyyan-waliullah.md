@@ -10,64 +10,66 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ash’hadu Anna Ali un Wali Ullah
-  Ali,  Ya Ali Ya Ali (3)
-  Haye Ali Haye Ali
+  Ashhadu anna Aliyun Waliullah
+  Ali, ya Ali ya Ali
+  Haaye Ali haaye Ali
 
   2
-  Zahra say pocho kia hai Ali un Wali Ullah
-  Iss k liyay Batool ka do bar ghar jala
-  Baghdad Sham o Kufa Khurasan o Karbala
-  Ummat nay Fatima ko kahan dukh nahi dia
-  Sub kuch lutaya deen ki hifazat k wastay
-  Or ab Zahra ujjar gai hai wallayat k wastay
+  Zahra se puchho kya hai Aliyun Waliullah
+  Is ke liye Batul ka do baar ghar jala
+  Baghdaad Shaam o Kufa Khuraasaan o Karbala
+  Ummat ne Fatima ko kahaaṅ dukh nahiṅ diya
+  Sab kuchh lutaaya diṅ ki hifaazat ke waaste
+  Aur ab Zahra ujar gai hai walaayat ke waaste
 
   3
-  Darbar may bachanay,  gai Fatima Zahra, Ali un Wali Ullah
-  Sunta na tha Madinay may Zahra ki koi baat
-  Lay ker Hasan Husain ko her subah apnay sath
-  Ghar ghar pe yad ja k,  dilate thee Syeddah, Ali un Wali Ullah
+  Darbaar mein bachaane, gaiṅ Fatima Zahra, Aliyun Waliullah
 
   4
-  Gham may Abu Turab k ghut ghut k mer gai
-  Dar perdah Fatima ki waseeat ye he tu thee
-  I na wo janazay per,  jis nay nahi perha, Ali un Wali Ullah
+  Sunta na tha Madine mein Zahra ki koi baat
+  Le kar Hasan Husain ko har subah apne saath
+  Ghar ghar pe yaad ja ke, dilaati thi Sayyida, Aliyun Waliullah
 
   5
-  Toti hoi theen pasallian dam tha ruka hoa
-  Tha Syeddah pe jalta hoa der gira hoa
-  Phir bhi lab e Batool pe,  jari the ye sada, Ali un Wali Ullah
+  Gham mein Abu Turaab ke ghut ghut ke mar gai
+  Dar parda Fatima ki wasiyyat yahi to thi
+  Aaye na wo janaaze par, jis ne nahiṅ parha, Aliyun Waliullah
 
   6
-  Zainab pukari aye meray mazloom bay’watan
-  Waada tumhari laash pe kerti hai ye behan
-  Ik din zaror Sham ki,  galli’un may gonjay ga, Ali un Wali Ullah
+  Tuti hui thiṅ pasliyaaṅ dam tha ruka hua
+  Tha Sayyida pe jalta hua dar gira hua
+  Phir bhi lab-e-Batul pe, jaari thi ye sada, Aliyun Waliullah
 
   7
-  I Najaf say Shaam e Gharibaan may jb Ali
-  Zainab ye keh ker apnay pidr say lipt gai
-  Khanjar talay bhi bhai k,  zakhami lab’un pe tha, Ali un Wali Ullah
+  Zainab pukaari ae mere mazlum bewatan
+  Waada tumhaari laash pe karti hai ye bahan
+  Ek din zarur Shaam ki, galiyoṅ mein gunje ga, Aliyun Waliullah
 
   8
-  Boli Sakina aya jo zindaan may Shah ka sir
-  Kaisay bataon Sham ka kaisay kia safr
-  Gir gir k khoon kaan’un say,  deta raha sada, Ali un Wali Ullah
+  Aaye Najaf se Shaam-e-Gharibaaṅ mein jab Ali
+  Zainab ye kah ke apne pidar se lipat gai
+  Khanjar tale bhi bhaai ke, zakhmi laboṅ pe tha, Aliyun Waliullah
 
   9
-  Zindaan may aik qabr bananay k wastay
-  Ham’sheer ka janazah uthanay k wastay
-  Naad e Ali ki shakal may,  Sajjad nay perha, Ali un Wali Ullah
+  Boli Sakina aaya jo zindaan mein Shaah ka sar
+  Kaise bataauṅ Shaam ka kaise kiya safar
+  Gir gir ke khun kaanoṅ se, deta raha sada, Aliyun Waliullah
 
   10
-  Na’meharm’un ki bheer the darbar e Sham may
-  Zainab nay day k khutba zaban e Imam may
-  Bay’waqt ki azan may,  dabnay nahi dia, Ali un Wali Ullah
+  Zindaan mein ek qabr banaane ke waaste
+  Hamshir ka janaaza uthaane ke waaste
+  Naad-e-Ali ki shakl mein, Sajjaad ne parha, Aliyun Waliullah
 
   11
-  Maa ki lehad pe bain Takallum they beti k
-  Pehlo pe zakham kha k bachaya tha aap nay
-  Mai nay rida luta k,  bachaya hai ba’khuda, Ali un Wali Ullah
-  Haye Ali Haye Ali
+  Naamahramoṅ ki bhir thi darbaar-e-Shaam mein
+  Zainab ne de ke khutba zabaan-e-Imaam mein
+  Bewaqt ki azaan mein, dabne nahiṅ diya, Aliyun Waliullah
+
+  12
+  Maaṅ ki lahad pe bain Takallum the beti ke
+  Pehlu pe zakhm kha ke bachaaya tha aap ne
+  Main ne rida luta ke, bachaaya hai ba khud bachaaya, Aliyun Waliullah
+  Haaye Ali haaye Ali
 ---
 
 ۱

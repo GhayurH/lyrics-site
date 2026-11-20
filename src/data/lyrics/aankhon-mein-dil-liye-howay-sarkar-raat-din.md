@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aankhon mein dil liye howay sarkar raat din
-  Ya Mehdi Muntazir hain azadar raat din
+  Aankhoṅ mein dil liye hue sarkaar raat din
+  Yaa Mehdi Muntazir haiṅ azaadaar raat din
 
   1
-  Un ka hi khuwab dekhte hain sote jagte
-  Aankhein hamari rehti hain bedar raat din
-  Zanjeerein hath mein liye hum sare matami
-  Hain nusrat-e-imam ko teyar raat din
+  Un ka hi khwaab dekhte haiṅ sote jaagte
+  Aankheṅ hamaari rehti haiṅ bedaar raat din
+  Zanjireṅ haath mein liye hum saare maatami
+  Haiṅ nusrat-e-imaam ko taiyaar raat din
 
   2
-  Jis din bhi koi majlis-o-mehfil na ho saki
-  Apni hayat ke hain woh bekar raat din
-  Woh bhi libas-e-gham mein hai kafir kaho ossay
-  Shiyon ki tarha Kabay ki dewar raat din
+  Jis din bhi koi majlis o mehfil na ho saki
+  Apni hayaat ke haiṅ woh bekaar raat din
+  Woh bhi libaas-e-gham mein hai kaafir kaho use
+  Shiyoṅ ki tarah Kaabe ki diwaar raat din
 
   3
-  Panja bata raha hai alam par jahan ko
-  Pehrey pe aaj bhi hai alamdar raat din
-  Bugz-e-Ali mein roza tahajud kare hai jo
-  Woh ho raha hai our gunahgar raat din
+  Panja bata raha hai alam par jahaaṅ ko
+  Pehre pe aaj bhi hai alamdaar raat din
+  Bughz-e-Ali mein roza tahajjud kare hai jo
+  Woh ho raha hai aur gunaahgaar raat din
 
   4
-  Oss mein mila ke ashk-e-aza sab malaika
-  Kausar ko kar rahe haim mazedar raat din
-  Saqlain barhta jata hai jitna bhi intezar
-  Utna hi barh raha hai mera pyar raat din
+  Us mein mila ke ashk-e-azaa sab malaaika
+  Kausar ko kar rahe haiṅ mazedaar raat din
+  Saqlain barhta jaata hai jitna bhi intezaar
+  Utna hi barh raha hai mera pyaar raat din
 ---
 
 آنکھوں میں دل لیے ہوئے سرکار رات دن

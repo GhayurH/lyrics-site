@@ -9,86 +9,86 @@ poet: "Asghar"
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj Zainab ki shadi ka din hai Ameer Hasan Aamir
-  Bandhtay hain Ali sar pe sehra, aaj Zainab ki shadi ka din hai
+  Aaj Zainab ki shaadi ka din hai Ameer Hasan Aamir
+  Baandhte haiṅ Ali sar pe sehra, aaj Zainab ki shaadi ka din hai
 
   1
-  De rahi hai dua roh-e-Zahra, aaj Zainab ki shadi ka din hai
-  Laye Shabbar libas-e-arosi
-  Aaye phir janat se koi darzi
-  Seene Zainab ki shadi ka jora
+  De rahi hai dua ruh-e-Zahra, aaj Zainab ki shaadi ka din hai
+  Laaye Shabbar libaas-e-arusi
+  Aaye phir jannat se koi darzi
+  Sine Zainab ki shaadi ka jora
 
   2
-  Haan wohi hai jo Haider ki zeenat
-  Haan wohi hai jo Zahra ki sorat
-  Aqad hai aaj ke din ossi ka
-  Umm-e-Salma ne aanchal sanwara
+  Haaṅ wohi hai jo Haider ki zinat
+  Haaṅ wohi hai jo Zahra ki surat
+  Aqd hai aaj ke din usi ka
+  Umm-e-Salma ne aanchal sanwaara
 
   3
-  Barh ke Fizza ne sadqa utara
+  Barh ke Fizza ne sadqa utaara
   Dekh kar bint-e-Haider ka jalwa
-  Kyun na Kulsoom mehndi lagaein
-  Kyun na lein barh ke Farwa balaein
+  Kiuṅ na Kulsum mehndi lagaaeṅ
+  Kiuṅ na leṅ barh ke Farwa balaaeṅ
 
   4
-  Chand se bhi haseen hai yeh chehra
-  Mang mein taat e haq ki afshan
-  Our honton pe hai noor-e-Quraan
+  Chaand se bhi hasin hai yeh chehra
+  Maang meiṅ taat-e-Haq ki afshaaṅ
+  Aur hontoṅ pe hai nur-e-Quraan
   Munh pe Zahra ki ismat ka maqna
 
   5
-  Azmati ghar mein shadi rachi hai
-  Bint-e-Haider dulhan bn rahi hai
-  Ho mubarak elahi yeh rishta
-  Hoor-o-ghilman aaye hoye hain
+  Azmati ghar meiṅ shaadi rachi hai
+  Bint-e-Haider dulhan ban rahi hai
+  Ho mubaarak ilaahi yeh rishta
+  Hur o ghilmaaṅ aaye hue haiṅ
 
   6
-  Ghar ko janat banaye hoye hain
-  Shoor har so salay ala ka
-  Dil mein Zainab ki ik be qari hai
-  Sab hain ghar mein magar ik kami hai
+  Ghar ko jannat banaaye hue haiṅ
+  Shor har su salle ala ka
+  Dil meiṅ Zainab ki ik beqaraari hai
+  Sab haiṅ ghar meiṅ magar ik kami hai
 
   7
-  Hai nahi sar pe amma ka saya
-  Aane wali hai baraat dar par
-  Aaj hotin jo Zahra e athar
-  Hotin Haider ki khushiyaan dobala
+  Hai nahiṅ sar pe ammaaṅ ka saaya
+  Aane waali hai baaraat dar par
+  Aaj hotiṅ jo Zahra-e-Athar
+  Hotiṅ Haider ki khushiyaaṅ dobaala
 
   8
-  Dekhiye pyar Umm ul-Baneen ka
-  Barha le ke Zainab ka bosa
-  Shukar ka kartay jati hain sajdah
+  Dekhiye pyaar Umm ul-Banin ka
+  Baaraha le ke Zainab ka bosa
+  Shukr ka karti jaati haiṅ sajda
   Bint-e-Haider bani aaj dulhan
 
   9
-  Shadmaan hain bohat Umm Ayeman
-  Parh rahi hain khushi se qaseeda
-  Khair muqaddam ko baratiyon ke
-  Aaj Salman hain sab se aagay
+  Shaadmaaṅ haiṅ bahut Umm Aiman
+  Parh rahi haiṅ khushi se qasida
+  Khair maqdam ko baaraatiyoṅ ke
+  Aaj Salmaan haiṅ sab se aage
 
   10
-  Itar Abuzar ne sab ko lagaya
-  Ibn-e-Abbas-o-Jabir, Huzaifa
+  Itr Abuzar ne sab ko lagaaya
+  Ibn-e-Abbaas o Jaabir, Huzaifa
   Rang hai sab ke rukh par khushi ka
-  Keh rahe hain mubarak ho Maula
+  Keh rahe haiṅ mubaarak ho Maula
 
   11
-  Mehmano se miltay hain Sarwar
-  Khana sab ko khilatay hain Shabbar
-  Pani Abbas ne khud pilaya
-  Sehra dono hi ik shan ka hai
+  Mehmaanoṅ se milte haiṅ Sarwar
+  Khaana sab ko khilaate haiṅ Shabbar
+  Paani Abbaas ne khud pilaaya
+  Sehra donoṅ hi ik shaan ka hai
 
   12
-  Khon dono mein Imran ka hai
+  Khuṅ donoṅ meiṅ Imraan ka hai
   Jaisi dulhan hai waisa hi dulha
   Rukhsati ki ghari aa chuki hai
-  Beti susral ko ja rahi hai
+  Beti susraal ko ja rahi hai
 
   13
-  Chashm-e-Haider mein chamka sitara
-  Manqabat ke yeh ashar Asghar
-  Hoon gay khush sun ke Aamir se Haider
-  Dein gay dono ko beti ka sadqa
+  Chashm-e-Haider meiṅ chamka sitaara
+  Manqabat ke yeh ashaar Asghar
+  Huṅ ge khush sun ke Aamir se Haider
+  Deṅ ge donoṅ ko beti ka sadqa
 ---
 
 آج زینب کی شادی کا دن ہے امیر حسن عامر

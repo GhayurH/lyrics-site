@@ -14,19 +14,19 @@ aliases: ["haye-raza-veran-aye-rahwaan-takdi-rendi-masooma-lyrics-new-noha-24-ra
 published: true
 romanLyrics: |-
   Haye Raza veraaṅ ae raahwaaṅ takdi rehndi Maasuma
-  Yaad tainu kardi kardi naale ro ro haawaaṅ bhardi payi si kaindi Maasuma
+  Yaad tainuṅ kardi kardi naale ro ro haawaaṅ bhardi payi si kaindi Maasuma
 
   1
   Jad Madine toṅ turi saaṅ te main Mashhad aa gayi aaṅ
-  Hun main rowaaṅ baaj tere koi nayi ae naal mere dukh sunaandi Maasuma
+  Hun main rowaaṅ baaj tere koi naiṅ ae naal mere dukh sunaandi Maasuma
 
   2
   Haye dukh safraaṅ de jhal ke patthraaṅ te kandiyaaṅ te chal ke
-  Fer vi nayi miliya mainu vir labbhaaṅ kithe tainu haare paundi Maasuma
+  Fer vi naiṅ miliya mainuṅ vir labbhaaṅ kithe tainuṅ haare paundi Maasuma
 
   3
-  Bhain janglaaṅ wich hai rul gayi vir nu ae zehar mil gayi
-  Jaane kiweṅ Qum che aa gayi aukhe safraaṅ nu nibha gayi uthdi baindi Maasuma
+  Bhain janglaaṅ wich hai rul gayi vir nuṅ ae zehar mil gayi
+  Jaane kiweṅ Qum che aa gayi aukhe safraaṅ nuṅ nibha gayi uthdi baindi Maasuma
 
   4
   Je Raza honda bhain kole te na kardi akhiyoṅ ohle

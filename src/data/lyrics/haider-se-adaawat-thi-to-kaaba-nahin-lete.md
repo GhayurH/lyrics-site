@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Naawaqif-e-Abbas-e-dilaawar se ye puchho
-  Buzdil to taraai ka ilaqa nahiṅ lete
+  Buzdil to taraai ka ilaaqa nahiṅ lete
   Saadaat ki ghurbat ka bharam fiqra-e-Zainab
   Sab jin pe tasadduq ho wo sadqa nahiṅ lete
 

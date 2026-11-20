@@ -1,21 +1,31 @@
 ---
-title: "Ali Ka Musalla Salim Merchant Imran Abidi"
+title: "علی کا مصلّٰی"
+alternateTitle: "Ali Ka Musalla Salim Merchant Imran Abidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tar ho gaya hai khon mein Ali ka musalla
+  Aye momino parho ab ro ro ke yeh noha
+  Muljim yeh sitam kaisa namazi pe hai dhaya
+  Zarb aisi lagai hai keh sar ho gaya neela
+  Kofay ke yateemo ka sahara tha woh Maula
+  Ab kaun andherey mein unhein de ga niwala
+  Jo Nam-e-Ali le kar jeeta hai zamana
+  Ab koi nahi hai unhein jeene ka bahana
 ---
 
-1
-Ali Ka Musalla Salim Merchant Imran Abidi.
-Tar Ho Gaya Hai Khon Mein Ali Ka Musalla.
-Aye Momino Parho Ab Ro Ro Ke Yeh Noha.
-Muljim Yeh Sitam Kaisa Namazi Pe Hai Dhaya.
-Zarb Aisi Lagai Hai Keh Sar Ho Gaya Neela.
-Kofay Ke Yateemo Ka Sahara Tha Woh Maula.
-Ab Kaun Andherey Mein Unhein De Ga Niwala.
-Jo Nam-e-Ali Le Kar Jeeta Hai Zamana.
-Ab Koi Nahi Hai Unhein Jeene Ka Bahana.
+۱
+تر ہو گیا ہے خون میں علی کا مصلّٰی
+اے مومنو پڑھو اب رو رو کے یہ نوحہ
+ملجم یہ ستم کیسا نمازی پہ ہے ڈھایا
+ضرب ایسی لگائی ہے کہ سر ہو گیا نیلا
+کوفے کے یتیموں کا سہارا تھا وہ مولا
+اب کون اندھیرے میں انہیں دے گا نوالہ
+جو نامِ علی لے کر جیتا ہے زمانہ
+اب کوئی نہیں ہے انہیں جینے کا بہانہ

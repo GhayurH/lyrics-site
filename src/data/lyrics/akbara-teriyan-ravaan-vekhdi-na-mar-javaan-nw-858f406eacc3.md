@@ -1,28 +1,39 @@
 ---
-title: "Akbar(A) Teriyan Ravaan Vekhdi Na Mar Javaan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اکبرؑ تیریاں راواں ویکھدی نہ مر جاواں"
+alternateTitle: "Akbar Teriyan Ravaan Vekhdi Na Mar Javaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Akbar teriyan ravaan vekhdi na mar javaan
+  Khair e watna tey veer ajavi
+  Haye mangdi behn duavan
+
+  1
+  Jinna ayo Akbar haye rouna naiy veer mukna Sughra beemar da
+  Ro ro mukh janiyan veerna teray bajoun
+  Haye behn teri diyan savaan
+
+  2
+  Mur mur kay Akbar haye takna ay veer kyu sadkay may vaari ah
+  Vich safran day anday koi mushkil
+  Das naal teray may savaan
 ---
 
-Akbar(A) Teriyan Ravaan Vekhdi Na Mar Javaan
+اکبرؑ تیریاں راواں ویکھدی نہ مر جاواں
+خیر اے وطنا تے ویر آ جاویں
+ہائے منگدی بہنؑ دعاواں
 
-Khair E Watna Tey Veer Ajavi
+۱
+جنّا آیو اکبرؑ ہائے رونا نئیں ویر مکنا صغریٰؑ بیمار دا
+رو رو مک جانیاں ویرنا تیرے باجھوں
+ہائے بہنؑ تیری دیاں ساہواں
 
-Haye Mangdi Behn(sa) Duavan
-
-Jinna Ayo Akbar(A) Haye Rouna Naiy Veer Mukna Sughra(sa) Beemar Da
-
-Ro Ro Mukh Janiyan Veerna Teray Bajoun
-
-Haye Behn(sa) Teri Diyan Savaan
-
-Mur Mur Kay Akbar(A) Haye Takna Ay Veer Kyu Sadkay May Vaari Ah
-
-Vich Safran Day Anday Koi Mushkil
-
-Das Naal Teray May Savaan
+۲
+مڑ مڑ کے اکبرؑ ہائے تکنا ایں ویر کیوں صدقے میں واری آں
+وچ سفراں دے آندے کوئی مشکل
+دس نال تیرے میں سواں

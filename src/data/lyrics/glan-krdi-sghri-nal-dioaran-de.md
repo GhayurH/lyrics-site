@@ -7,6 +7,34 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Gallaaṅ kardi Sughra naal divaaraaṅ de Akbar vir diaaṅ
+  Hore kiuṅ nai aaia kiuṅ na khabraaṅ laiaaṅ bhain dilgir diaaṅ
+
+  1
+  Roz naane de vi darbaar te arzaaṅ kardi
+  Vir milvaa de mainuṅ naana main jaavaaṅ mardi
+  Ae judaiaaṅ mainuṅ jiondiaaṅ maar gaiaaṅ teri tasvir diaaṅ
+
+  2
+  Jaa ke pardes koi khat vi na paaia mainuṅ
+  Kehri majburi bani lain na aaia mainuṅ
+  Main aaṅ bimaar bari mainuṅ taangaaṅ har dam vichhre vir diaaṅ
+
+  3
+  Ohda ae dard vichhora main kadoṅ tak sehna
+  Naioṅ kalliaaṅ main ohde baajoṅ ik pal rehna
+  Ohnuṅ aakho ke lave khabraaṅ ujri hoi aa ke hamshir diaaṅ
+
+  4
+  Ohde sine ch zulm di main hai barchhi vekhi
+  Khaak uraandi vich maqtal de hai amri vekhi
+  Khairi vatnaaṅ te aave mainuṅ fikraaṅ neṅ sada haae chan vir diaaṅ
+
+  5
+  Jiveṅ vichhre na kadi vichhran inj bhain bharaa
+  Na kadi bhain koi vekhe bahra da rasta
+  Bolo saare aamin te duaavaaṅ puriaaṅ hon Tauqir diaaṅ
 ---
 
 گلاں کردی صغرا نال دیواراں دے اکبر ویر دیاں

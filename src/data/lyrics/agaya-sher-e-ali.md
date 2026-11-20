@@ -1,6 +1,6 @@
 ---
 title: "آ گیا شیرِ علی"
-alternateTitle: "Agaya Sher e Ali"
+alternateTitle: "Aa Gaya Sher-e-Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ameer-e-lashkar-e-Hussain
-  Bara boland hosla
-  Misal-e-shah-e-Lafatah
-  Gharor-e-aal-e-Mustafa
-  Wafa ba had e mojza
-  Hizabar e dasht e Nainawa
-  Sham ki foaj yeh kehte hoye darya se hati
-  Par sametay hoye Jibreel ne aawaz yeh di
-  Roab se shair-e-dilawar ke falak bhi kham hai
-  Chotay Hazrat ki sawari ka ajab aalam hai
-  Chand barhta hai sarakti hain ghataein sari
-  Ran mein Abbas hi Abbas dikhai dein gay
-  Aaj Siffeen ke murday bhi duhai dein gay
-  Foaj ke haal mein yaad aaye ga sab ko mazi
-  Kis shair ki aamad hai keh ran kanp raha hai
-  Ran aik taraf charkh-e-kahan kanp raha hai
-  Rustam ka badan zair-e-kafan kanp raha hai
-  Har qasar-e-salateen e zaman kanp raha hai
-  Shamsheer bakaf dekh ke Haider ke pisar ko
-  Jibreel laraztay hain sametay hoye par ko
-  Sham walon ke liye waqt-e-zawwal aaya hai
-  Aaj Zahra ki mashiyat ko jalal aaya hai
-  Al-amaan kehte hain jinnat-o-malak, hoor-o-pari
-  Dam ba khud sorah-e-Israfil howa hai iss dam
-  Kya qayamat hai laraztay hain paharon ke qadam
-  Zalzala hai ya zameen leti hai sansein jaldi
-  Rahat ke mahalon ko bala poch rahi hai
-  Hasti ke makano ko fana poch rahi hai
-  Taqdeer se umar apni qaza poch rahi hai
-  Dozakh ka pata foaj-e-jafa poch rahi hai
-  Al hashar jo murday na pukarein tu ghazab hai
-  Al-maut zaban-e-malak al-maut pe ab hai
-  Taig-e-Abbas bhi bijli ki chamak jaisi hai
-  Lashkar-e-Sham ki yeh kali ghata kehti hai
-  Aaj maidan mein barsat saron ki hogi
-  Ran se har bhagney wala yeh sada deta hai
-  Shair ke hath mein talwar nahi naiza hai
-  Yeh issi naizay mein hum sab ko piro de ga abhi
+  Amir-e-lashkar-e-Husain
+  Bara buland hausla
+  Misaal-e-shaah-e-La Fata
+  Ghurur-e-aal-e-Mustafa
+  Wafa ba hadd-e-maujza
+  Hizabr-e-dasht-e-Nainawa
+  Shaam ki fauj yeh kehte hue darya se hati
+  Par samete hue Jibril ne aawaaz yeh di
+  Raub se sher-e-dilaawar ke falak bhi kham hai
+  Chhote Hazrat ki sawaari ka ajab aalam hai
+  Chaand barhta hai sarakti haiṅ ghataaeṅ saari
+  Ran mein Abbas hi Abbas dikhaai deṅ ge
+  Aaj Siffin ke murde bhi duhaai deṅ ge
+  Fauj ke haal mein yaad aaye ga sab ko maazi
+  Kis sher ki aamad hai ke ran kaaṅp raha hai
+  Ran ek taraf charkh-e-kuhan kaaṅp raha hai
+  Rustam ka badan zer-e-kafan kaaṅp raha hai
+  Har qasr-e-salaatin-e-zaman kaaṅp raha hai
+  Shamshir bakaf dekh ke Haider ke pisar ko
+  Jibril larazte haiṅ samete hue par ko
+  Shaam waaloṅ ke liye waqt-e-zawaal aaya hai
+  Aaj Zahra ki mashiyat ko jalaal aaya hai
+  Al-amaaṅ kehte haiṅ jinnaat o malak, hur o pari
+  Dam bakhud sur-e-Israafil hua hai is dam
+  Kya qayaamat hai larazte haiṅ pahaaroṅ ke qadam
+  Zalzala hai ya zamiṅ leti hai saaṅseṅ jaldi
+  Raahat ke mahaloṅ ko balaa puchh rahi hai
+  Hasti ke makaanoṅ ko fanaa puchh rahi hai
+  Taqdir se umr apni qazaa puchh rahi hai
+  Dozakh ka pata fauj-e-jafaa puchh rahi hai
+  Al-hashr jo murde na pukaareṅ to ghazab hai
+  Al-maut zabaan-e-malak al-maut pe ab hai
+  Tegh-e-Abbas bhi bijli ki chamak jaisi hai
+  Lashkar-e-Shaam ki yeh kaali ghata kehti hai
+  Aaj maidaan mein barsaat saroṅ ki hogi
+  Ran se har bhaagne waala yeh sada deta hai
+  Sher ke haath mein talwaar nahiṅ neza hai
+  Yeh isi neze mein ham sab ko piro de ga abhi
   Allah rahe aamad aamad-e-Abbas saf shikan
-  Larzaan they koh hiltay they dil kanpta tha tan
-  Jangal ke shair ban gaye they khof se haran
-  Ik shoor tha keh aaj paray ga ghazab ka ran
-  Yeh shair kam nahi asad-e-qala geer se
-  Goya moqabila hai janab-e-Ameer se
+  Larzaaṅ the koh hilte the dil kaaṅpta tha tan
+  Jangal ke sher ban gaye the khauf se hiran
+  Ik shor tha ke aaj pare ga ghazab ka ran
+  Yeh sher kam nahiṅ asad-e-qila gir se
+  Goya muqaabila hai janaab-e-Amir se
   Har taraf maut ka maidaan mein laga hai pehra
-  Zair-e-lab parhtay they jis tarha Ali ya Zahra
-  Waisay maidan mein duhratay hoye nad-e-Ali
-  Ho gayi aap ke aane mein Takallum takheer
-  Likh chukay aamad-e-Abbas Anees our Dabeer
-  Unn ke misroon ki sada gaunj rahi hai ab bhi
+  Zer-e-lab parhte the jis tarah Ali ya Zahra
+  Waise maidaan mein dohraate hue naad-e-Ali
+  Ho gayi aap ke aane mein Takallum taakhir
+  Likh chuke aamad-e-Abbas Anis aur Dabir
+  Un ke misraoṅ ki sada gunj rahi hai ab bhi
 ---
 
 ۱

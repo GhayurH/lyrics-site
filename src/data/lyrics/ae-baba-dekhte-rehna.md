@@ -19,19 +19,19 @@ romanLyrics: |-
   1
   Khuda ke waaste rakhna nazar mujh par mere baba
   Na jaane kiuṅ sataata hai ye mujhko darr mere baba
-  Kahiṅ aisa na ho ke raah meiṅ mar jauṅ maiṅ gir kar
+  Kahiṅ aisa na ho ke raah meiṅ mar jaauṅ na gir kar
   Ae baba dekhte rehna
 
   2
   Mere nazdik se Shimr-e-sitamgar jab guzarta hai
-  Yatimi par Khuda jaane meri kiuṅ tanz karta hai
+  Yatimi par Khuda jaane mere kiuṅ tanz karta hai
   Kahiṅ aisa na ho rakh de gulu-e-khushk par khanjar
   Ae baba dekhte rehna
 
   3
   Rehm khaaya na meri kamsini par baani-e-shar ne
   Shutar ki pusht se baandha hai ae baba sitamgar ne
-  Maiṅ sar se paauṅ tak orhe hue huṅ zakhmoṅ ki chadar
+  Maiṅ sar se paauṅ tak orhe hue huṅ zakhmoṅ ki chaadar
   Ae baba dekhte rehna
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Maiṅ saabir baap ki beti huṅ duniya ko bataauṅgi
-  Mujhe jis haal meiṅ le jaayeṅge aada maiṅ jaauṅgi
+  Mujhe jis haal meiṅ le jaayeṅ ge aadaa maiṅ jaauṅgi
   Na aayega kisi bhi mor par shikwa mere lab par
   Ae baba dekhte rehna
 
@@ -67,7 +67,7 @@ romanLyrics: |-
   9
   Karuṅ maiṅ daastaan-e-ranj o gham Aasif bayaaṅ kaise
   Sunaaye ahl-e-imaaṅ ko Sakina ki fughaaṅ kaise
-  Sada ye aaj bhi ae Shadmaaṅ aati hai reh reh kar
+  Sadaa ye aaj bhi ae Shadmaaṅ aati hai reh reh kar
   Ae baba dekhte rehna
 ---
 

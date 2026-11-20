@@ -7,6 +7,59 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad ke hote hue baaba gaya maara
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  1
+  Sahme hue bachchoṅ ko liye saath mein apne
+  Maaṅ bahnoṅ ko jaate hue baazaar mein dekha
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  2
+  Uṅtoṅ ko pilaaya kabhi sahra mein bahaaya
+  Lekin na Sakina ko diya ek bhi qatra
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  3
+  Talwaaroṅ se nezoṅ se badan kar diya zakhmi
+  Gar gham se kisi Bibi ne barpa kiya girya
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  4
+  Sayyedaaniyoṅ ke haath to rassi se bandhe the
+  Muṅh par laga patthar jo kisi ne koi maara
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  5
+  Barpa hua mahshar na raha zabt ka yaara
+  Jab Shimr ne darbaar mein Zainab ko pukaara
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  6
+  Ghash kha ke koi Bibi jo raste mein giri hai
+  Zaalim ne use durroṅ ki baarish se uthaaya
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  7
+  Zanjir bandhe haathoṅ se turbat mein utaara
+  Zindaaṅ ke andheroṅ mein Sakina ka woh laasha
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  8
+  Sukha gala baaba ka nigaahoṅ mein samaaya
+  Paani kabhi Sajjad ke jab saamne aaya
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  9
+  Baaba ke kate sar se yeh kahta tha Mahaari
+  Baaba tumheṅ dafna na saka beta tumhaara
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
+
+  10
+  Rizwaan nabi zaadiyoṅ ko saath mein le kar
+  Maula ne bare karb se woh waqt guzaara
+  Sajjad ki aaṅkhoṅ se lahu is liye barsa
 ---
 
 سجادؑ کے ہوتے ہوئے بابا گیا مارا

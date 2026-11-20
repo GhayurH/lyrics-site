@@ -21,7 +21,7 @@ romanLyrics: |-
   Khiz ze jaa o mazan shola be daamaan-e-ishq
   Miravi o mishavad chaak-e-girebaan-e-ishq
   Saut-e-haram gosh kun mashk-e-Ammu borde ast
-  Khiz be paa ya akhaa waqt-e-alamdaari ast
+  Khiz be paa yaa akhaa waqt-e-alamdaari ast
   Kaar-e-yatimaan-e-man waa atash o zaari ast
 
   3
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
-  Ae mere bhaiya suno, aaj to bhaai kaho
+  Ae mere bhaaiya suno, aaj to bhaai kaho
   Khwaab se ab tum utho, aao chalo ghar chalo
   Chal ke bahan se milo, pyaar Sakina ko do
   God mein Asghar ko lo, apna alam le chalo

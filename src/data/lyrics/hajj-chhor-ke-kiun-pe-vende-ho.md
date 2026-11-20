@@ -9,39 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hajj chor ky kion py waindy ho dhowain bhainr bhira mai kabaa haan
-  Maindy kolon wadh bhala kehri hai koi aman di jaa mei kaba haan.
+  Hajj chhor ke kiuṅ pa'e wehnde ho doheṅ bhainr bharaa main Kaaba haaṅ
+  Mainde koloṅ wadh bhalaa kehri he koi aman di jaa main Kaaba haaṅ
 
   1
-  2. Mainko khabr hai apni hik dhee tou watan luka oy tur piya hay
-  Maidi chaa ty beh ky bai dhee kon rajj jhooli paa main kaba haan
+  Mekuṅ khabar he apniṅ hik dhi tu watan luka ke tur piya heṅ
+  Medi chhaaṅ te beh ke bahi dhi kuṅ rajj jholi paa main Kaaba haaṅ
 
   2
-  3. Kion shaam e ghareeban dy paasy Imran as di potri tur pai hai
-  Maikon smj ky ghr abu talib aa da raway Aown di maan main kabaa haan.
+  Kiuṅ shaam-e-gharibaaṅ de paase Imraan di potri tur pai hai
+  Mekuṅ samajh ke ghar Abu Taalib da rahowe Aun di maaṅ main Kaaba haaṅ
 
   3
-  4. Bhala ky taien safar karesan o jehra mahmal dy wich thak pondiyan hin
-  Shabeer as samj cha bhainri di maikon khaima gah main kaba haan
+  Bhalaa keṅ taaheṅ safar karesan o jehra mahmal wich thak paundiyaaṅ han
+  Shabbir samajh chaa bhainreṅ di mekuṅ khaima gaah main Kaaba haaṅ
 
   4
-  5. maindy hondy janglan dy pasay kion putar sageer kon chai waindy
-  Kiwain raas hai tendy Asghar as koon koi surkh hawa main kabaa haan.
+  Mainde honde janglaaṅ de paase kiuṅ putar saghir ko chaai wendeṅ
+  Kiweṅ raas hai tende Asghar kuṅ koi surkh hawa main Kaaba haaṅ
 
   5
-  6.Jiwain to tur pay aiwain turnr waly wal jeendy wapis nai waldy
-  Ay putr Batool sa gal apnra kuj dair chuma main kabaa haan
+  Jiweṅ tu tur pa'e eweṅ turnar waale wal jeende waapas neṅ walde
+  Ae putar Batul da gal apraaṅ kuj der chumaa main Kaaba haaṅ
 
   6
-  7. Main chahnda haan Bait ul Huzn smj taindi amri taan reh powy haa
-  Thak posi haa inha safran wich mehrooma maan main kaba haan
+  Main chaahnda haaṅ Bait-ul-Huzn samajh tendi amri taaṅ reh powe haa
+  Thak posi haa inhaaṅ safraaṅ wich mehruma maaṅ main Kaaba haaṅ
 
   7
-  8.Gohar awaz aae kaaby di Shala Akbar putr di khair howi..
-  Maindi hasrat hai mainkon bachry di azaan sunra mai kaabaa haan
-
-  8
-  (Kalaam Husain Gohar)
+  Gohar aawaaz aai Kaabe di shaalaa Akbar putar di khair howi
+  Maindi hasrat hai mainkuṅ bachre di azaan sunra main Kaaba haaṅ
 ---
 
 حج چھوڑ کے کیوں پئے وہندے ہو ڈوھیں بھینڑؐ بھراؐ میں کعبہ ہاں

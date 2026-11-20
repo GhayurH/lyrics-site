@@ -7,6 +7,31 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Akbar di laash logo jhuk jhuk wada golinde
+  Mazlum Karbala da
+  Har hik qadam te Maula kai waar uthda baahnde
+
+  2
+  Mekuṅ dasaao logo kitth jhanr giya meda Akbar
+  Main gol gol thak piyaaṅ mekuṅ neiṅ dasda Akbar
+  Akbar de qaatilaaṅ tuṅ ro ro khara puchhinde
+
+  3
+  Zainab da vir logo sar kuṅ jhukaai baithe
+  Akbar de sar kuṅ apnriṅ jholi ich paai baithe
+  Akbar de aakhri saah wal wal baitha ganrinde
+
+  4
+  Main laash chaa neiṅ sangda mekuṅ laash aa chuaao
+  Bachre da laasha kiveṅ piu chainda hai dasaao
+  Qaasim Abbaas aao Shabbir piya saddinde
+
+  5
+  Main gharib aaṅ Karbala da Faisal Husain aakhe
+  Meda wasda ghar lutti gae eiṅ sar zamiṅ te aake
+  Akbar di laash kuṅ chaa ro vain karinde
 ---
 
 ۱

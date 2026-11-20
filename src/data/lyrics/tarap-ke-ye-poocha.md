@@ -1,7 +1,7 @@
 ---
 title: "تڑپ کے یہ پوچھا سکینہ نے ماں سے"
 recitationId: "tadap-ke-ye-poocha"
-alternateTitle: "Tarap Ke Ye Poocha"
+alternateTitle: "Tarap Ke Ye Puchha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -27,13 +27,13 @@ romanLyrics: |-
 
   3
   Khamoshi se in ke sitam hum uthaaye
-  Magar koi shikwa na hoṅtoṅ pe laaye
+  Magar koi shikwa na hontoṅ pe laaye
   Pare taaziyaane jo bole zabaaṅ se
 
   4
   Sukuṅ dil ko aakhir ho kaise mayassar
   Mara tir khaa ke mera bhai Asghar
-  Wo kilkaariyaaṅ ab sunuṅ maiṅ kahaaṅ se
+  Wo kilkaariyaaṅ ab sunuṅ main kahaaṅ se
 
   5
   Madine ki yaadeiṅ sataati haiṅ mujh ko
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Ke jo baagh-e-Yasrab meiṅ phule phale haiṅ
   Wohi phul jalti zamiṅ par pare haiṅ
-  Bacha le unheiṅ koi zaalim khizaaṅ se
+  Bacha le unheiṅ koi zaalim qaza se
 
   9
   Ye bimaar bhai pe jaur-e-jafa hai
@@ -68,7 +68,7 @@ romanLyrics: |-
   11
   Tasavvur meiṅ bhi badkhayaali na aaye
   Ghulaam-e-Ali zindagi yuṅ bitaaye
-  Baa imaan ban kar uthe is jahaaṅ se
+  Beimaan ban kar uthe is jahaaṅ se
 
   12
   Gham-e-Shah salaamat rahe chashm-e-nam se

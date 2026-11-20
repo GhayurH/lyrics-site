@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Fizza ne di sada mere puchho na martabe
   Tai karti huṅ maiṅ lamhoṅ meiṅ sadiyoṅ ke faasle
-  Mashhur do jahaaṅ meiṅ haiṅ mere waqay
+  Mashhur do jahaaṅ meiṅ haiṅ mere waaqiaat
   Hote haiṅ arsh waaloṅ meiṅ bhi mere tazkire
   Bas ye sifat hi kaafi hai Kaunain ke liye
   Maiṅ rotiyaaṅ pakaati huṅ Hasnain ke liye
@@ -48,7 +48,7 @@ romanLyrics: |-
   Fizza ne daad de ke kaha meri baat sun
   Kaisi hasiṅ mili hai mujhe kaainaat sun
   Woh tere moajize the mere moajizaat sun
-  Pahuṅche haiṅ kis maqaam pe Fizza ke haath sun
+  Pahunche haiṅ kis maqaam pe Fizza ke haath sun
   Maiṅ ne Hasan Husain ko in se uthaaya hai
   Zainab ko mere haathoṅ ne chalna sikhaaya hai
 
@@ -61,12 +61,12 @@ romanLyrics: |-
   Maiṅ chalti phirti ishq-e-Ali ki kitaab huṅ
 
   7
-  Fizza ye boli dekh hai ismat ka maiṅ ne nur.
+  Fizza ye boli dekh hai ismat ka maiṅ ne nur
   Khair-ul-Nisa ke faiz se haasil hai ye ghurur
   Maryam se barh ke bakhsha gaya hai mujhe shuur
   Mujh se rakha hai Fatima Zahra ne rijs se dur
   Khilqat se waaqif-e-khidmat-e-Bint-e-Rasul huṅ
-  Sadqa hai ye Batul ka maiṅ bhi Batul huṅ.
+  Sadqa hai ye Batul ka maiṅ bhi Batul huṅ
 
   8
   Qanbar ye bola maanne waala huṅ wasl ka
@@ -82,13 +82,13 @@ romanLyrics: |-
   Jis ke sabab shariatoṅ ka arz o tul hai
   Ehsaan kisi ka Fatima ko kab qubul hai
   Bint-e-Nabi se maiṅ ne masaawaat sikhi hai
-  Khud Fatima ne chakki mere saath pisi hai.
+  Khud Fatima ne chakki mere saath pisi hai
 
   10
   Akbar qalam ko rok le mushkil hai faisla
   Is dar ki naukari ka sharaf hai bahut bara
   Kitni fazilatoṅ ka hai manzar ye martaba
-  Ye khaadim-e-Ali haiṅ to wo Zahra ki khaadima
+  Ye khaadim-e-Ali haiṅ to woh Zahra ki khaadima
   Donoṅ ki baat apni jagah laajawaab hai
   In ki koi misaal na un ka jawaab hai
 ---

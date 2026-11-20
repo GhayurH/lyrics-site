@@ -1,59 +1,108 @@
 ---
 title: "فرمان رسالت کو بھلاتے ہو مسلماں"
+alternateTitle: "Farman e Risalat Ko Bholatey Ho Mosalmaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Farman e Risalat ko bholatey ho Mosalmaan
+  Kyun Fatima Zahra ko satatay ho musalmaan
+
+  1
+  Masoma hai makhdoma Hasnain ki madar hai
+  Tafseer hai Kausar ki yeh Bint-e-Payamber hai
+  Kyun pehlu pe darwaza giratay ho musalmaan
+
+  2
+  Tum jantay ho logo iss bibi ki azmat ko
+  Lautaya hai kyun khali Khatoon-e-Qayamat ko
+  Kyun aag oss ke ghar ko lagatay ho musalmaan
+
+  3
+  Baba ke Madine mein haye raat jo aati hai
+  Roney ke liye bahir woh shehar se jati hai
+  Kyun roney pe pabandi lagatay ho musalmaan
+
+  4
+  Darbar mein makhdoma haq mangney aayi hai
+  Masoom gawahon ko humrah woh layi hai
+  Dil kis liye Zahra ka dukhatay ho musalmaan
+
+  5
+  Jis shaks ne Ahmad ko hazyan sunaya tha
+  Jis shaks ne koray se Zahra ko rulaya tha
+  Kyun naaz oss shaqi ke uthatay ho musalmaan
+
+  6
+  Tum ne tu Saqeefa mein ajlaas bithaye they
+  Ahmad ke janazay pe tum loag na aaye they
+  Haq kaisay khilafat par jatatay ho musalmaan
+
+  7
+  Kya Ahmad-e-Mursal se yeh pyar kiya tum ne
+  Zahra hi ke rozay ko mismar kiya tum ne
+  Tum kaisi muhabbat yeh dikhatay ho musalmaan
+
+  8
+  Haider ke galay mein bhi dala hai rasan tum ne
+  Shabbir ko mara hai mara hai Hasan tum ne
+  Ab Abid-e-Muztar ko rolatay ho musalmaan
+
+  9
+  Zahra ka yeh wadah hai Tauqeer woh paye ga
+  Mere ghar ke ujarney ka jo soag manaye ga
+  Phir kis liye tum fatway lagatay ho musalmaan
 ---
 
-Farman e Risalat Ko Bholatey Ho Mosalmaan
-Kyun Fatima Zahra Ko Satatay Ho Musalmaan
+فرمانِ رسالت کو بھلاتے ہو مسلماں
+کیوں فاطمہ زہرا کو ستاتے ہو مسلماں
 
-1
-Masoma Hai Makhdoma Hasnain Ki Madar Hai
-Tafseer Hai Kausar Ki Yeh Bint-e-Payamber Hai
-Kyun Pehlu Pe Darwaza Giratay Ho Musalmaan
+۱
+معصومہ ہے مخدومہ حسنین کی مادر ہے
+تفسیر ہے کوثر کی یہ بنتِ پیمبر ہے
+کیوں پہلو پہ دروازہ گراتے ہو مسلماں
 
-2
-Tum Jantay Ho Logo Iss Bibi Ki Azmat Ko
-Lautaya Hai Kyun Khali Khatoon-e-Qayamat Ko
-Kyun Aag Oss Ke Ghar Ko Lagatay Ho Musalmaan
+۲
+تم جانتے ہو لوگو اس بی‌بی کی عظمت کو
+لوٹایا ہے کیوں خالی خاتونِ قیامت کو
+کیوں آگ اس کے گھر کو لگاتے ہو مسلماں
 
-3
-Baba Ke Madine Mein Haye Raat Jo Aati Hai
-Roney Ke Liye Bahir Woh Shehar Se Jati Hai
-Kyun Roney Pe Pabandi Lagatay Ho Musalmaan
+۳
+بابا کے مدینے میں ہائے رات جو آتی ہے
+رونے کے لیے باہر وہ شہر سے جاتی ہے
+کیوں رونے پہ پابندی لگاتے ہو مسلماں
 
-4
-Darbar Mein Makhdoma Haq Mangney Aayi Hai
-Masoom Gawahon Ko Humrah Woh Layi Hai
-Dil Kis Liye Zahra Ka Dukhatay Ho Musalmaan
+۴
+دربار میں مخدومہ حق مانگنے آئی ہے
+معصوم گواہوں کو ہمراہ وہ لائی ہے
+دل کس لیے زہرا کا دکھاتے ہو مسلماں
 
-5
-Jis Shaks Ne Ahmad Ko Hazyan Sunaya Tha
-Jis Shaks Ne Koray Se Zahra Ko Rulaya Tha
-Kyun Naaz Oss Shaqi Ke Uthatay Ho Musalmaan
+۵
+جس شخص نے احمد کو ہذیان سنایا تھا
+جس شخص نے کوڑے سے زہرا کو رلایا تھا
+کیوں ناز اس شقی کے اٹھاتے ہو مسلماں
 
-6
-Tum Ne Tu Saqeefa Mein Ajlaas Bithaye They
-Ahmad Ke Janazay Pe Tum Loag Na Aaye They
-Haq Kaisay Khilafat Par Jatatay Ho Musalmaan
+۶
+تم نے تو سقیفہ میں اجلاس بٹھائے تھے
+احمد کے جنازے پہ تم لوگ نہ آئے تھے
+حق کیسے خلافت پر جتاتے ہو مسلماں
 
-7
-Kya Ahmad-e-Mursal Se Yeh Pyar Kiya Tum Ne
-Zahra Hi Ke Rozay Ko Mismar Kiya Tum Ne
-Tum Kaisi Muhabbat Yeh Dikhatay Ho Musalmaan
+۷
+کیا احمدِ مرسل سے یہ پیار کیا تم نے
+زہرا ہی کے روضے کو مسمار کیا تم نے
+تم کیسی محبت یہ دکھاتے ہو مسلماں
 
-8
-Haider Ke Galay Mein Bhi Dala Hai Rasan Tum Ne
-Shabbir Ko Mara Hai Mara Hai Hasan Tum Ne
-Ab Abid-e-Muztar Ko Rolatay Ho Musalmaan
+۸
+حیدر کے گلے میں بھی ڈالا ہے رسن تم نے
+شبیر کو مارا ہے مارا ہے حسن تم نے
+اب عابدِ مضطر کو رلاتے ہو مسلماں
 
-9
-Zahra Ka Yeh Wadah Hai Tauqeer Woh Paye Ga
-Mere Ghar Ke Ujarney Ka Jo Soag Manaye Ga
-Phir Kis Liye Tum Fatway Lagatay Ho Musalmaan
+۹
+زہرا کا یہ وعدہ ہے توقیر وہ پائے گا
+میرے گھر کے اجڑنے کا جو سوگ منائے گا
+پھر کس لیے تم فتوے لگاتے ہو مسلماں

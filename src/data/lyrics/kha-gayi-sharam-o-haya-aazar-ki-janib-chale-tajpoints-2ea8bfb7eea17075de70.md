@@ -1,38 +1,65 @@
 ---
-title: "Kha Gayi Sharam O Haya Aazar Ki Janib Chale"
+title: "کھا گئی شرم و حیا آزار کی جانب چلے"
+alternateTitle: "Kha Gayi Sharam O Haya Aazar Ki Janib Chale"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Ahmad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kha gayi sharam o haya aazar ki janib chale
+  Haye Abid Sham ke bazar ki janib chaley
+
+  1
+  Ro rahi hain dekh kar khud be sar-o-samaniyan
+  Kis qadar koh-e-sitam beemar ki janib chaley
+  Lagar-o-be kas pe yeh kaisi qayamat aa gayi
+  Haye be pardah haram darbar ki janib chaley
+
+  2
+  Waye ghurbat haye namoos e Muhammad Mustafa
+  Sar barehna majma e agyar ki janib chaley
+  Dekhtey hain janib e Zainab kabhi ghurbat kabhi
+  Our taraptay hain keh hum kis daar ki janib chaley
+
+  3
+  Khon ashkon ki jagah aankhon se barsatay hoye
+  Shah-e-behar-o-bar rah-e-pur khar ki janib chaley
+  Har tamachay par Sakina bhai ko takti rahi
+  Our sawal-e-be biyaan takrar ki janib chaley
+
+  4
+  Wa musibat zulm ke anbar paihum toot kar
+  Khasta tan tashna jigar la char ki janib chaley
+  Khon hota hai jigar Ahmad mera yeh soch kar
+  Bandh kar kin ko laeen may khawar ki janib chale?
 ---
 
-Kha Gayi Sharam o Haya Aazar Ki Janib Chale.
-Haye Abid Sham Ke Bazar Ki Janib Chaley.
+کھا گئی شرم و حیا آزار کی جانب چلے
+ہائے عابد شام کے بازار کی جانب چلے
 
-1
-Ro Rahi Hain Dekh Kar Khud Be Sar-o-Samaniyan.
-Kis Qadar Koh-e-Sitam Beemar Ki Janib Chaley.
-Lagar-o-Be Kas Pe Yeh Kaisi Qayamat Aa Gayi.
-Haye Be Pardah Haram Darbar Ki Janib Chaley.
+۱
+رو رہی ہیں دیکھ کر خود بے سر و سامانیاں
+کس قدر کوہِ ستم بیمار کی جانب چلے
+لاغر و بے کس پہ یہ کیسی قیامت آ گئی
+ہائے بے پردہ حرم دربار کی جانب چلے
 
-2
-Waye Ghurbat Haye Namoos e Muhammad Mustafa.
-Sar Barehna Majma e Agyar Ki Janib Chaley.
-Dekhtey Hain Janib e Zainab Kabhi Ghurbat Kabhi.
-Our Taraptay Hain Keh Hum Kis Daar Ki Janib Chaley.
+۲
+وائے غربت ہائے ناموسِ محمد مصطفیٰ
+سر برہنہ مجمعِ اغیار کی جانب چلے
+دیکھتے ہیں جانبِ زینب کبھی غربت کبھی
+اور تڑپتے ہیں کہ ہم کس دار کی جانب چلے
 
-3
-Khon Ashkon Ki Jagah Aankhon Se Barsatay Hoye.
-Shah-e-Behar-o-Bar Rah-e-Pur Khar Ki Janib Chaley.
-Har Tamachay Par Sakina Bhai Ko Takti Rahi.
-Our Sawal-e-Be Biyaan Takrar Ki Janib Chaley.
+۳
+خون اشکوں کی جگہ آنکھوں سے برساتے ہوئے
+شاہِ بحر و بر راہِ پُر خار کی جانب چلے
+ہر طمانچے پر سکینہ بھائی کو تکتی رہی
+اور سوالِ بے بیاں تکرار کی جانب چلے
 
-4
-Wa Musibat Zulm Ke Anbar Paihum Toot Kar.
-Khasta Tan Tashna Jigar La Char Ki Janib Chaley.
-Khon Hota Hai Jigar Ahmad Mera Yeh Soch Kar.
-Bandh Kar Kin Ko Laeen May Khawar Ki Janib Chale?
+۴
+وا مصیبت ظلم کے انبار پیہم ٹوٹ کر
+خستہ تن تشنہ جگر لاچار کی جانب چلے
+خون ہوتا ہے جگر احمد مرا یہ سوچ کر
+باندھ کر کن کو لعینِ مے خوار کی جانب چلے؟

@@ -20,17 +20,17 @@ romanLyrics: |-
   2
   Itne sitam hue haiṅ Muhammad ki Aal par
   Hoti rahi hai ibtida har inteha ke baad
-  Jaisi parhi Husain ne tiroṅ ki chhaoṅ meiṅ
+  Jaisi parhi Husain ne tiroṅ ki chhaaoṅ meiṅ
   Aisi namaaz phir na hui Karbala ke baad
 
   3
   Qaatil ko bhi ata kiya sharbat Huzur ne
   Itna karam hai logo itni jafa ke baad
-  Abbas tere naam ko maiṅ apne ishq se
+  Abbaas tere naam ko maiṅ apne ishq se
   Pehle wafa ke likhuṅ ya likhuṅ wafa ke baad
 
   4
-  Shabbir keh ke bhai bulaate rahe jise
+  Shabbir keh ke bhaai bulaate rahe jise
   Hur aur kya sawaal kare is ata ke baad
   Darbaar-e-Shaam meiṅ kaha Zainab ne sun Yazid
   Darte nahiṅ kisi se bhi ham to Khuda ke baad

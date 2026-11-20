@@ -1,47 +1,83 @@
 ---
-title: "Faqat Haider Rajab Ali Khan"
+title: "فقط حیدر رجب علی خان"
+alternateTitle: "Faqat Haider Rajab Ali Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mera dam dam bolay Ali Ali
+  Har dam dam bolay Ali Ali
+  Faqat Haider Ameer ul Mominee aap
+  Sirat-e-Murtaza Haq al-Yaqeen aap
+
+  2
+  Jahan mein hai Ali ki badshahi
+  Ali ka naam hai ism-e-Elahi
+  Har ik lamha har ik lehza suno bas
+  Aqeeda de raha hai yeh gawahi
+
+  3
+  Ali Maula ki midhat ho rahi hai
+  Musalsal bas ibadat ho rahi hai
+  Najaf aao yeh Mosa sab se bolay
+  Wahan Rab ki ziyarat ho rahi hai
+
+  4
+  Najaf pohanchay jo Haider ke mawali
+  Nazar aayi unhein sorat Khuda ki
+  Ali ke ishq mein hai mast dunya
+  Qalandar ne bhi Sehwan mein sada di
+
+  5
+  Ali haq hai pukara Mustafa ne
+  Yeh hai mera wali bola Khuda ne
+  Ghadeer aayi fiza bhi jhoom uthi
+  Sadaein dein yeh sare anbiya ne
+
+  6
+  Rajab ki terah hai khushiyaan manao
+  Aimaad aao zamane ko batao
+  Ali Kabay ka bhi qibla hai logo
+  Ali ke zikar ki mehfil sajao
 ---
 
-1
-Mera Dam Dam Bolay Ali Ali.
-Har Dam Dam Bolay Ali Ali.
-Faqat Haider Ameer Ul Mominee Aap.
-Sirat-e-Murtaza Haq Al-Yaqeen Aap.
+۱
+میرا دم دم بولے علی علی
+ہر دم دم بولے علی علی
+فقط حیدر امیر المؤمنین آپ
+سیرتِ مرتضیٰ حق الیقین آپ
 
-2
-Jahan Mein Hai Ali Ki Badshahi.
-Ali Ka Naam Hai Ism-e-Elahi.
-Har Ik Lamha Har Ik Lehza Suno Bas.
-Aqeeda De Raha Hai Yeh Gawahi.
+۲
+جہاں میں ہے علی کی بادشاہی
+علی کا نام ہے اسمِ الٰہی
+ہر اک لمحہ ہر اک لحظہ سنو بس
+عقیدہ دے رہا ہے یہ گواہی
 
-3
-Ali Maula Ki Midhat Ho Rahi Hai.
-Musalsal Bas Ibadat Ho Rahi Hai.
-Najaf Aao Yeh Mosa Sab Se Bolay.
-Wahan Rab Ki Ziyarat Ho Rahi Hai.
+۳
+علی مولا کی مدحت ہو رہی ہے
+مسلسل بس عبادت ہو رہی ہے
+نجف آؤ یہ موسیٰ سب سے بولے
+وہاں رب کی زیارت ہو رہی ہے
 
-4
-Najaf Pohanchay Jo Haider Ke Mawali.
-Nazar Aayi Unhein Sorat Khuda Ki.
-Ali Ke Ishq Mein Hai Mast Dunya.
-Qalandar Ne Bhi Sehwan Mein Sada Di.
+۴
+نجف پہنچے جو حیدر کے موالی
+نظر آئی انہیں صورت خدا کی
+علی کے عشق میں ہے مست دنیا
+قلندر نے بھی سیہون میں صدا دی
 
-5
-Ali Haq Hai Pukara Mustafa Ne.
-Yeh Hai Mera Wali Bola Khuda Ne.
-Ghadeer Aayi Fiza Bhi Jhoom Uthi.
-Sadaein Dein Yeh Sare Anbiya Ne.
+۵
+علی حق ہے پکارا مصطفیٰ نے
+یہ ہے میرا ولی بولا خدا نے
+غدیر آئی فضا بھی جھوم اٹھی
+صدائیں دیں یہ سارے انبیا نے
 
-6
-Rajab Ki Terah Hai Khushiyaan Manao.
- Aimaad Aao Zamane Ko Batao.
-Ali Kabay Ka Bhi Qibla Hai Logo.
-Ali Ke Zikar Ki Mehfil Sajao.
+۶
+رجب کی تیرہ ہے خوشیاں مناؤ
+عماد آؤ زمانے کو بتاؤ
+علی کعبے کا بھی قبلہ ہے لوگو
+علی کے ذکر کی محفل سجاؤ

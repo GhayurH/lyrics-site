@@ -17,29 +17,29 @@ romanLyrics: |-
   Aakhir Husain maaṅ huṅ
 
   1
-  Naazoṅ ke paale beta aa jholi maiṅ phailaauṅ
+  Naazoṅ ke paale beta aa jholi main phailaauṅ
   Aakhir Husain maaṅ huṅ
   Nana ne qabr chhori aaye Ali Najaf se
-  Maiṅ aa gayi Baqia se ae laal paas tere
-  Bachche ka apne gham meiṅ kiuṅ dil se na lagaauṅ
+  Main aa gayi Baqia se ae laal paas tere
+  Bachche ka apne gham mein kiuṅ dil se na lagaauṅ
   Aakhir Husain maaṅ huṅ
 
   2
-  Jhule meiṅ chain tum ko milta nahiṅ tha beta
-  Maiṅ ne kabhi Ali ne godi meiṅ hi sulaya
-  Aajao phir se tum ko aaghosh meiṅ sulaauṅ
+  Jhule mein chain tum ko milta nahiṅ tha beta
+  Main ne kabhi Ali ne godi mein hi sulaaya
+  Aa jaao phir se tum ko aaghosh mein sulaauṅ
   Aakhir Husain maaṅ huṅ
 
   3
-  Jibril sa farishta jhula jhulane aaya
-  Le le ke jaam-e-Kausar paani pilane aaya
-  Bachpan ke laad tere maiṅ kaise bhul jaauṅ
+  Jibril sa farishta jhula jhulaane aaya
+  Le le ke jaam-e-Kausar paani pilaane aaya
+  Bachpan ke laad tere main kaise bhul jaauṅ
   Aakhir Husain maaṅ huṅ
 
   4
-  Kehti rahi maiṅ zaalim naazoṅ ka hai ye paala
-  Khanjar chala na ispe Ahmad ka hai dulara
-  Sar aa gaya sinaaṅ pe maiṅ kaise chain paauṅ
+  Kehti rahi main zaalim naazoṅ ka hai ye paala
+  Khanjar chala na is pe Ahmad ka hai dulaara
+  Sar aa gaya sinaaṅ pe main kaise chain paauṅ
   Aakhir Husain maaṅ huṅ
 
   5
@@ -51,23 +51,23 @@ romanLyrics: |-
   6
   Hai bekafan janaza jalti hui zamin par
   Roti rahe gi maaṅ bhi ta-hashr ab yahiṅ par
-  Tanha tujhe yahaaṅ par maiṅ kaise chhor jaauṅ
+  Tanha tujhe yahaaṅ par main kaise chhor jaauṅ
   Aakhir Husain maaṅ huṅ
 
   7
   Akbar ke dil se barchhi beta jo tu ne khenchi
-  Sine ka us ke khun maiṅ haathoṅ se rokti thi
+  Sine ka us ke khun main haathoṅ se rokti thi
   Wo mar gaya tarap ke kis tarah bhul jaauṅ
   Aakhir Husain maaṅ huṅ
 
   8
   Mayyat ho jis ke ghar pe dete haiṅ log pursa
   Kitni gharib hai ye ujri hui teri maaṅ
-  Lene maiṅ tera pursa har ghar meiṅ roti jaauṅ
+  Lene main tera pursa har ghar mein roti jaauṅ
   Aakhir Husain maaṅ huṅ
 
   9
-  Royi lahad pe Zehra maqtal meiṅ royi Zehra
+  Royi lahad pe Zehra maqtal mein royi Zehra
   Rota hai jo bhi tujh pe karti huṅ saath girya
   Rote hue Hasan se nauha tera likhaauṅ
   Aakhir Husain maaṅ huṅ
@@ -75,17 +75,17 @@ romanLyrics: |-
   10
   Hukm-e-Yazidi aaya tiroṅ pe tir aaya
   Laashoṅ ke baad laasha Zahra ke ghar ka aaya
-  Tanha tujhe yahaaṅ par maiṅ kaise chhor jaauṅ
+  Tanha tujhe yahaaṅ par main kaise chhor jaauṅ
 
   11
-  Ujre na ghar kisi ka karti huṅ maiṅ duaaeṅ
-  Maqtal meiṅ aa ke tujh ko deti huṅ maiṅ sadaaeṅ
+  Ujre na ghar kisi ka karti huṅ main duaaeṅ
+  Maqtal mein aa ke tujh ko deti huṅ main sadaaeṅ
   Kiuṅ bolta nahiṅ hai aa ke tujhe manaauṅ
 
   12
   Khanjar chala na us pe hai naazoṅ ka ye paala
   Gardan na kaat us ki Ahmad ka hai dulaara
-  Dunya se jaa ke beta kahiṅ phir maiṅ mar na jaauṅ
+  Dunya se jaa ke beta kahiṅ phir main mar na jaauṅ
 
   13
   Dhunduṅ kahaaṅ pe jaa ke beta kidhar hai mera
@@ -93,13 +93,13 @@ romanLyrics: |-
   Tukre utha utha ke laasha tera banaauṅ
 
   14
-  Darbaar-e-Shaam meiṅ kiuṅ Zainab ka sar khula hai
+  Darbaar-e-Shaam mein kiuṅ Zainab ka sar khula hai
   Haaye haaye meri Sakina ka kurta bhi jala hai
-  Is haal-e-bebasi meiṅ beta maiṅ mar na jaauṅ
+  Is haal-e-bebasi mein beta main mar na jaauṅ
 
   15
-  Roye qabr meiṅ beta maqtal meiṅ roye Zahra
-  Darbaar-e-sharaabi meiṅ roti rahi hai Zahra
+  Roye qabr mein beta maqtal mein roye Zahra
+  Darbaar-e-sharaabi mein roti rahi hai Zahra
   Rote hue Hasan se nauha tera likhaauṅ
 ---
 ماں آ گئی حسین

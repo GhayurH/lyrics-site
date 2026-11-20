@@ -1,35 +1,59 @@
 ---
-title: "Sar Dar-e-All-e-Muhammad Par Jhukana Lyrics 2013"
+title: "سر درِ آلِ محمد پر جھکانا"
+alternateTitle: "Sar Dar-e-All-e-Muhammad Par Jhukana"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sar dar-e-All-e-Muhammad par jhukana chahiye
+  Apni naslon ko wafadari sikhana chahiye
+  Aye Khuda janat kissi muhtaj ko kar de atta
+  Mujh ko janat ki jagah ashor khana chahiye
+
+  2
+  Koi namoos-e-risalat par agar hamla karey
+  Aisay murdah shaks ko zindah jalana chahiye
+  Aadmi ko sahib-e-eman hone ke liye
+  Dhoom se jashan-e-Abu Talib manana chahiye
+
+  3
+  Baap ki jageer par betay ka haq hai iss liye
+  Ik alam Kabay ki chat par bhi lagana chahiye
+  Jin ke dil mein jal raha hai bughz-e-Haider ka diya
+  Unn ko qabron mein nahi shamshan jana chahiye
+
+  4
+  Jo arezay jism par likhta hoon main zanjeer se
+  Hun yehi Maula meri naslon mein aana chahiye
+  Yeh sabaq Akbar diya hai hum ko Meesum ne sada
+  Kuch bhi ho jaye aqeeday ko banana chahiye
 ---
 
-1
-Sar Dar-e-All-e-Muhammad Par Jhukana Chahiye.
-Apni Naslon Ko Wafadari Sikhana Chahiye.
-Aye Khuda Janat Kissi Muhtaj Ko Kar De Atta.
-Mujh Ko Janat Ki Jagah Ashor Khana Chahiye.
+۱
+سر درِ آلِ محمد پر جھکانا چاہیے
+اپنی نسلوں کو وفاداری سکھانا چاہیے
+اے خدا جنت کسی محتاج کو کر دے عطا
+مجھ کو جنت کی جگہ عاشور خانہ چاہیے
 
-2
-Koi Namoos-e-Risalat Par Agar Hamla Karey.
-Aisay Murdah Shaks Ko Zindah Jalana Chahiye.
-Aadmi Ko Sahib-e-Eman Hone Ke Liye.
-Dhoom Se Jashan-e-Abu Talib Manana Chahiye.
+۲
+کوئی ناموسِ رسالت پر اگر حملہ کرے
+ایسے مردہ شخص کو زندہ جلانا چاہیے
+آدمی کو صاحبِ ایمان ہونے کے لیے
+دھوم سے جشنِ ابو طالب منانا چاہیے
 
-3
-Baap Ki Jageer Par Betay Ka Haq Hai Iss Liye.
-Ik Alam Kabay Ki Chat Par Bhi Lagana Chahiye.
-Jin Ke Dil Mein Jal Raha Hai Bughz-e-Haider Ka Diya.
-Unn Ko Qabron Mein Nahi Shamshan Jana Chahiye.
+۳
+باپ کی جاگیر پر بیٹے کا حق ہے اس لیے
+اک علم کعبے کی چھت پر بھی لگانا چاہیے
+جن کے دل میں جل رہا ہے بغضِ حیدر کا دیا
+ان کو قبروں میں نہیں شمشان جانا چاہیے
 
-4
-Jo Arezay Jism Par Likhta Hoon Main Zanjeer Se.
-Hun Yehi Maula Meri Naslon Mein Aana Chahiye.
-Yeh Sabaq Akbar Diya Hai Hum Ko Meesum Ne Sada.
-Kuch Bhi Ho Jaye Aqeeday Ko Banana Chahiye.
+۴
+جو عریضے جسم پر لکھتا ہوں میں زنجیر سے
+ہُن یہی مولا میری نسلوں میں آنا چاہیے
+یہ سبق اکبر دیا ہے ہم کو میثم نے سدا
+کچھ بھی ہو جائے عقیدے کو بنانا چاہیے

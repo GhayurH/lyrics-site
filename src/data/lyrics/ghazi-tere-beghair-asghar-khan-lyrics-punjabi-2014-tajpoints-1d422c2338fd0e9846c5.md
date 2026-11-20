@@ -1,29 +1,44 @@
 ---
-title: "Ghazi Tere Beghair Asghar Khan Lyrics Punjabi 2014"
+title: "غازی تیرے بغیر"
+alternateTitle: "Ghazi Tere Beghair"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sabir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ghazi tere beghair aj bhaina teriyaan kaliyaan ne rondiyaan
+  Munh kar darya de pasay haye ro wain paondiyan
+  Teriyaan bhaina te kinj di aye ghareebi aayi baad tere Ghazi
+  Kiwein veer di lash te tak le haye jhirkaan ne khandiyaan
+  Le gayiyaan sir taun ridawaan veer lokaan marey maan muk gaye sare
+  Hun ujriyaan sir wich apne haye mitiyaan ne paondiyan
+
+  2
+  Ayho afsoos hai Ghazi chad ke lashaan nu tur paiyaan safraan nu
+  Saday hath jay qaid na honday haye qabraan banaondiyan
+  Jadon Shabeer de gal te teraan zarbaan chaliyaan wich khaimay khaliyan
+  Assi door khalu ke tainu haye rayiyaan bolaondiyan
+  Ais dunya te na koi Hajj Quraan honda na Musalmaan honda
+  Sabir jay deen-e-Khuda nu haye aye na bachaondiyan
 ---
 
-Ghazi Tere Beghair Asghar Khan Lyrics Punjabi
+۱
+غازی تیرے بغیر اج بھیناں تیریاں کلیاں نے روندیاں
+منہ کر دریا دے پاسے ہائے رو وین پاؤندیاں
+تیریاں بھیناں تے کنج دی اے غریبی آئی بعد تیرے غازی
+کیویں ویر دی لاش تے تک لے ہائے جھڑکاں نے کھاندیاں
+لے گئیاں سر توں رداواں ویر لوکاں مارے، مان مک گئے سارے
+ہن اجڑیاں سر وچ اپنے ہائے مٹیاں نے پاؤندیاں
 
-1
-Ghazi Tere Beghair Aj Bhaina Teriyaan Kaliyaan Ne Rondiyaan.
-Munh Kar Darya De Pasay Haye Ro Wain Paondiyan.
-Teriyaan Bhaina Te Kinj Di Aye Ghareebi Aayi Baad Tere Ghazi.
-Kiwein Veer Di Lash Te Tak Le Haye Jhirkaan Ne Khandiyaan.
-Le Gayiyaan Sir Taun Ridawaan Veer Lokaan Marey Maan Muk Gaye Sare.
-Hun Ujriyaan Sir Wich Apne Haye Mitiyaan Ne Paondiyan.
-
-2
-Ayho Afsoos Hai Ghazi Chad Ke Lashaan Nu Tur Paiyaan Safraan Nu.
-Saday Hath Jay Qaid Na Honday Haye Qabraan Banaondiyan.
-Jadon Shabeer De Gal Te Teraan Zarbaan Chaliyaan Wich Khaimay Khaliyan.
-Assi Door Khalu Ke Tainu Haye Rayiyaan Bolaondiyan.
-Ais Dunya Te Na Koi Hajj Quraan Honda Na Musalmaan Honda.
- Sabir Jay Deen-e-Khuda Nu Haye Aye Na Bachaondiyan.
+۲
+ایہو افسوس ہے غازی چھڈ کے لاشاں نوں تر پئیاں سفراں نوں
+ساڈے ہتھ جے قید نہ ہوندے ہائے قبراں بناؤندیاں
+جدوں شبیر دے گل تے تیراں ضرباں چلیاں وچ خیمے خالیاں
+اسی دور کھلو کے تینوں ہائے رہیاں بلاؤندیاں
+ایس دنیا تے نہ کوئی حج قرآن ہوندا نہ مسلمان ہوندا
+صابر جے دینِ خدا نوں ہائے ایہہ نہ بچاؤندیاں

@@ -9,108 +9,73 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sakina ki sada hai
-
-  Aray o sham walon aray o koofe walon
-
+romanLyrics: |-
+  Sakina ki sada hai are o Shaam walo, are o Kufe walo
+  Kafan baba ko de do are o Shaam walo, are o Kufe walo
 
   1
-
-  Mere pyare jo ammu aaj hote
-
-  Kabhi na is qadr majboor hote
-
-  Gadayi karke laate magar tumse na kehte
-
+  Mere pyaare jo ammu aaj hote
+  Kabhi na is qadr majbur hote
+  Gadaai kar ke laate, magar tum se na kehte
+  Ya Husain, ya Husain
+  Gadaai kar ke laate, magar tum se na kehte
+  Are o Shaam walo, kafan baba ko de do
 
   2
-
-  Kafan Baba ko day do, Aray O Sham Walo, Aray O Kufay Walo
-
-  1. Mayray Pyaray jo Ammo aaj hotay
-
-  Kabhi na is qadar majboor hotay
-
-  Gaddaye ker kay latay, magar tum say na kehtay
-
+  Chacha ka sar ye neze se hata do
+  Sar-e-Shabbir pe parda urha do
+  Ye gham kitna bara hai, meri maaṅ berida hai
+  Ya Husain, ya Husain
+  Ye gham kitna bara hai, meri maaṅ berida hai
 
   3
-
-  Kafan Baba ko de do
-
-  2. Chacha ka Ser yeh nayzay say hatta do
-
-  Sar-e-Shabbir pay perda urrha do
-
-  Yeh gham kitna barra hai
-
-  Mayri Maa Bay-Rida Hai
-
+  Main khatun-e-janaaṅ ka aaina huṅ
+  Rasan basta asir-e-bekhata huṅ
+  Meri jaanib na dekho, mera kurta phata hai
+  Ya Husain, ya Husain
+  Meri jaanib na dekho, mera kurta phata hai
 
   4
-
-  3. Mein Khatoon-e-Jinnah ka aaina Hoon
-
-  Rasn basta, aseer-o-bay-khata Hoon
-
-  Mayri jaanib na daykho
-
-  Mayra kurta phatta hai
-
+  Woh sina mere baba ka kahaaṅ hai
+  Suna hai bar sar-e-reg-e-tapaaṅ hai
+  Nahiṅ haaye woh sina, kahaaṅ soye Sakina
+  Ya Husain, ya Husain
+  Nahiṅ haaye woh sina, kahaaṅ soye Sakina
 
   5
-
-  4. Woh seena Mayray Baba ka kahan Hai
-
-  Suna hai bar-ser-e-raigh-e-tappan hai
-
-  Nahi Haaye Woh Seena
-
-  Kahan soye Sakina
-
+  Tamaanche Shimr ne haiṅ mujh ko maare
+  Mere kaanoṅ se chhine goshwaare
+  Lahu kaanoṅ se ab tak, mere to beh raha hai
+  Ya Husain, ya Husain
+  Lahu kaanoṅ se ab tak, mere to beh raha hai
 
   6
-
-  5. Mayray ghar ki kaneezein ba-rida hain
-
-  Qayamat ho gaye Hum Bay-Rida Hain
-
-  Sitam kitna barra hai
-
-  Phophi ka Ser khula hai
-
+  Mere ghar ki kanizein ba rida haiṅ
+  Qayaamat ho gai ham berida haiṅ
+  Sitam kitna bara hai, phuphi ka sar khula hai
+  Ya Husain, ya Husain
+  Sitam kitna bara hai, phuphi ka sar khula hai
 
   7
-
-  6. Yateemoon ko sattana kab rawa hai
-
-  Dukhay dil ko dukhana kab rawa hai
-
-  Sitam jo chahay kar Lo
-
-  Maghar ek kaam kar do
-
+  Yatimoṅ ko sataana kab rawa hai
+  Dukhe dil ko dukhaana kab rawa hai
+  Sitam jo chaahe kar lo, magar ek kaam kar do
+  Ya Husain, ya Husain
+  Sitam jo chaahe kar lo, magar ek kaam kar do
 
   8
-
-  7. Rehaaye ki tamanna mer chuki hai
-
-  Yeh Zindaan Mayri Manzil akhari hai
-
-  Maghar Baba say kehna
-
-  Ab aana Sham aana
-
+  Rihaai ki tamanna mar chuki hai
+  Ye zindaaṅ meri manzil aakhiri hai
+  Magar baba se kehna, ab aana Shaam aana
+  Ya Husain, ya Husain
+  Magar baba se kehna, ab aana Shaam aana
 
   9
-
-  8. Karo Rehan-o-Sarwer aah-o-zaari
-
-  Sakina nay woh shab kaisay guzari
-
-  Tha Ser goudi Mein Sheh ka
-
-  Laboon per tha yeh noha'
+  Karo Rehaan o Sarwar aah o zaari
+  Sakina ne woh shab kaise guzaari
+  Tha sar godi mein shah ka, laboṅ par tha ye nauha
+  Ya Husain, ya Husain
+  Tha sar godi mein shah ka, laboṅ par tha ye nauha
 ---
 
 سكینہؑ کی صدا ہے ارے او شام والو، ارے او کوفے والو

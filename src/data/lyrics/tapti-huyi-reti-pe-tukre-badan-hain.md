@@ -8,38 +8,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye Qasim haey haye Qasim
-  Tapti hui rayti pay haey tukrre badan hay
+  Tapti hui reti pe haaye tukre badan hai
+  Pehchaano musalmaano ye farzand Hasan hai
 
   1
-  Pehchan musalmaano,  ye awlaad Hasan hay
+  Armaan tha shaadi ka tujhe dulha banaane ka
+  Afsos hai ab maa ke, haathoṅ mein kafan haiṅ
 
   2
-  Arman tha shadi ka tuje dulha banaane ka
-  Afsos he ke ab maa ke,  hatho me kafan hay
+  Bhaiya teri mehndi mein ab kis ko lagaauṅ gi
+  Faryaad o buka karti, ek ujri behen hai
 
   3
-  Bhaya teri mehendi mei ab kisko lagaawungi
-  Faryado bukaa karti,  Ik ujri behen hay
+  Daura diye ghore maasum ke laashe pe
+  Bikhra hua Karbal mein, Qaasim tera tan hai
 
   4
-  Doraye ghaye goray masum kai lashe pe
-  Bikhraa huwa karbal mein,  Kasim tera tan hay
+  Beta hai kahaaṅ tu ab aawaaz mujhe dena
+  Tukroṅ mein jama karta, haaye shaah-e-zaman hai
 
   5
-  Beta hay kaha tu ab awaaz muje dena
-  Tukrro ko jamaa karta,  Haay shahe zaman hay
-
-  6
-  Kurbani Hasan teri kaam agayi is deen ke
-  Aale nabi ke sadke,  Ye din jo roshan hay
-
-  7
-  Beta hay kaha tu ab awaaz muje dena
-  Tukrro ko jamaa karta,  Haay shahe zaman hay
-
-  8
-  Pehchan musalmaano,  ye awlaad hasan hay
+  Qurbaani Hasan teri kaam aai hai is diṅ ke
+  Aal-e-Nabi ke sadqe, ye din jo roshan hai
 ---
 
 تپتی ہوئی ریتی پہ ہائے ٹکڑے بدن ہے

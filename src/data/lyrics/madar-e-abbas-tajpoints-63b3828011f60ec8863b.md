@@ -1,100 +1,191 @@
 ---
-title: "Madar E Abbas"
+title: "مادرِ عباس"
+alternateTitle: "Madar-e-Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Umm Ul-Banin madar-e-Abbas-e-bawafa
+  Umm Ul-Banin arzu-e-bint-e-Mustafa
+  Umm Ul-Banin khuwaish-e-Sultan-e-Auliya
+  Umm Ul-Banin inn ka laqab naam Fatima
+
+  2
+  Ho kar Batool aayi hain ghar mein Batool ke
+  Palein gi gaud mein yeh nawasay Rasool ke
+  Umm Ul-Banin azmat-e-Haq ka shabab hain
+  Ismat ke gulistaan mein wafa ka ghulab hain
+
+  3
+  Chashm-e-janab-e-Zahra ka yeh intehab hain
+  Haider Abu Turab yeh Umm Al-Turab hain
+  Bait-e-sharf mein noor-e-ayyaan ban ke aayi hain
+  Zahra ki betiyon ki yeh maa ban ke aayi hain
+
+  4
+  Zahra ki betiyon ka dilasa bani hain yeh
+  Anwar-e-kibriyai ka hissa bani hain yeh
+  Aysar our khalos ka darya bani hain yeh
+  Saqa-e-Ahl-e-Bait ki saqqa bani hain yeh
+
+  5
+  Konain ki wafaon ka hi tarjumaan kaha
+  Inn ko Nabi ki beti ne beton ki maa kaha
+  Yeh azmaton mein azmat-e-Haq ka nishan hain
+  Yani Khuda ke razoon ki yeh razdan hain
+
+  6
+  Yeh masjid-e-wila mein wafa ki azan hain
+  Allah ki zaban ki yeh hum zaban hain
+  Thama hai anbiya ne jisay mushkilaat mein
+  Allah ka woh hath bhi hai inn ke hath mein
+
+  7
+  Jo kuch mila naseeb se barh kar mila inhein
+  Darbaan malaika jahan woh dar mila inhein
+  Socho zara yeh kaisa muqadar mila inhein
+  Zahra ke baad Zahra ka hi ghar mila inhein
+
+  8
+  Haan woh Ali jo aouj-e-had-e-mumkinaat hai
+  Oss La Shareek ki yeh shareek-e-hayat hai
+  Iss ki misal kiya ho keh yeh be misal hai
+  Yeh hum khiyal-e-Rab ke liye hum khiyal hai
+
+  9
+  Dono jahan mein sirf yeh iss ka kamal hai
+  Beta issi ka Fatima Zahra ka lal hai
+  Bint-e-Nabi ke bachoon ka sadqa nikal kar
+  Iss ne diya Hussain ko Abbas paal kar
+
+  10
+  Khaili hai bint-e-shair-e-Khuda iss ki gaud mein
+  Aa kar sakon dein ko mila iss ki gaud mein
+  Yeh bhi hai ik Khuda ki atta iss ki gaud mein
+  Utari hai Syeda ki dua iss ki gaud mein
+
+  11
+  Akas-e-Zuljalal ke akas ke liye
+  Yeh gaud muntahib hoi Abbas ke liye
+  Bunyad-e-ishq-o-sabar-o-raza dalti rahi
+  Gham sani-e-Batool ka yeh talti rahi
+
+  12
+  Kirdar Karbala ke liye dhalti rahi
+  Jholi mein apni Rab-e-wafa palti rahi
+  Batil muqadron ke liye phair kar diya
+  Jis ko pilaya sheer ossay shair kar diya
+
+  13
+  Quran-e-Ahl-e-Bait ka yeh bhi hain ik waraq
+  Inn ki tajaliyaat munawar shafaq shafaq
+  Aisay ada kiya hai dar-e-Syeda ka Haq
+  Abbas ko parhaya wafaon ka har sabaq
+
+  14
+  Karb-o-Bala ka Jafar-e-Tayyar kar diya
+  Bachpan mein hi jarri ko alamdar kar diya
+  Konain ki nijat hain Abbas ki hain maa
+  Wallah pak zaat hain Abbas ki hain maa
+
+  15
+  Ik Haq ki kainat hain Abbas ki hain maa
+  Halal-e-mushkilaat hain Abbas ki hain maa
+  Hain munfarid zamano se apni wafaon mein
+  Abbas ki bahisht hai iss maa ke paon mein
 ---
 
-1
-Umm Ul-Banin Madar-e-Abbas-e-Bawafa.
-Umm Ul-Banin Arzu-e-Bint-e-Mustafa.
-Umm Ul-Banin Khuwaish-e-Sultan-e-Auliya.
-Umm Ul-Banin Inn Ka Laqab Naam Fatima.
+۱
+ام البنین مادرِ عباسِ باوفا
+ام البنین آرزوئے بنتِ مصطفیٰ
+ام البنین خواہشِ سلطانِ اولیا
+ام البنین ان کا لقب نام فاطمہ
 
-2
-Ho Kar Batool Aayi Hain Ghar Mein Batool Ke.
-Palein Gi Gaud Mein Yeh Nawasay Rasool Ke.
-Umm Ul-Banin Azmat-e-Haq Ka Shabab Hain.
-Ismat Ke Gulistaan Mein Wafa Ka Ghulab Hain.
+۲
+ہو کر بتول آئی ہیں گھر میں بتول کے
+پالیں گی گود میں یہ نواسے رسول کے
+ام البنین عظمتِ حق کا شباب ہیں
+عصمت کے گلستان میں وفا کا گلاب ہیں
 
-3
-Chashm-e-Janab-e-Zahra Ka Yeh Intehab Hain.
-Haider Abu Turab Yeh Umm Al-Turab Hain.
-Bait-e-Sharf Mein Noor-e-Ayyaan Ban Ke Aayi Hain.
-Zahra Ki Betiyon Ki Yeh Maa Ban Ke Aayi Hain.
+۳
+چشمِ جنابِ زہرا کا یہ انتخاب ہیں
+حیدر ابو تراب یہ ام التراب ہیں
+بیتِ شرف میں نورِ عیاں بن کے آئی ہیں
+زہرا کی بیٹیوں کی یہ ماں بن کے آئی ہیں
 
-4
-Zahra Ki Betiyon Ka Dilasa Bani Hain Yeh.
-Anwar-e-Kibriyai Ka Hissa Bani Hain Yeh.
-Aysar Our Khalos Ka Darya Bani Hain Yeh.
-Saqa-e-Ahl-e-Bait Ki Saqqa Bani Hain Yeh.
+۴
+زہرا کی بیٹیوں کا دلاسا بنی ہیں یہ
+انوارِ کبریائی کا حصہ بنی ہیں یہ
+ایثار اور خلوص کا دریا بنی ہیں یہ
+سقائے اہلِ بیت کی سقّا بنی ہیں یہ
 
-5
-Konain Ki Wafaon Ka Hi Tarjumaan Kaha.
-Inn Ko Nabi Ki Beti Ne Beton Ki Maa Kaha.
-Yeh Azmaton Mein Azmat-e-Haq Ka Nishan Hain.
-Yani Khuda Ke Razoon Ki Yeh Razdan Hain.
+۵
+کونین کی وفاؤں کا ہی ترجمان کہا
+ان کو نبی کی بیٹی نے بیٹوں کی ماں کہا
+یہ عظمتوں میں عظمتِ حق کا نشان ہیں
+یعنی خدا کے رازوں کی یہ رازداں ہیں
 
-6
-Yeh Masjid-e-Wila Mein Wafa Ki Azan Hain.
-ALLAH Ki Zaban Ki Yeh Hum Zaban Hain.
-Thama Hai Anbiya Ne Jisay Mushkilaat Mein.
-ALLAH Ka Woh Hath Bhi Hai Inn Ke Hath Mein.
+۶
+یہ مسجدِ ولا میں وفا کی اذاں ہیں
+اللہ کی زباں کی یہ ہم زباں ہیں
+تھاما ہے انبیا نے جسے مشکلات میں
+اللہ کا وہ ہاتھ بھی ہے ان کے ہاتھ میں
 
-7
-Jo Kuch Mila Naseeb Se Barh Kar Mila Inhein.
-Darbaan Malaika Jahan Woh Dar Mila Inhein.
-Socho Zara Yeh Kaisa Muqadar Mila Inhein.
-Zahra Ke Baad Zahra Ka Hi Ghar Mila Inhein.
+۷
+جو کچھ ملا نصیب سے بڑھ کر ملا انھیں
+درباں ملائکہ جہاں وہ در ملا انھیں
+سوچو ذرا یہ کیسا مقدر ملا انھیں
+زہرا کے بعد زہرا کا ہی گھر ملا انھیں
 
-8
-Haan Woh Ali Jo Aouj-e-Had-e-Mumkinaat Hai.
-Oss La Shareek Ki Yeh Shareek-e-Hayat Hai.
-Iss Ki Misal Kiya Ho Keh Yeh Be Misal Hai.
-Yeh Hum Khiyal-e-Rab Ke Liye Hum Khiyal Hai.
+۸
+ہاں وہ علی جو اوجِ حدِ ممکنات ہے
+اس لا شریک کی یہ شریکِ حیات ہے
+اس کی مثال کیا ہو کہ یہ بے مثال ہے
+یہ ہم خیالِ رب کے لیے ہم خیال ہے
 
-9
-Dono Jahan Mein Sirf Yeh Iss Ka Kamal Hai.
-Beta Issi Ka Fatima Zahra Ka Lal Hai.
-Bint-e-Nabi Ke Bachoon Ka Sadqa Nikal Kar.
-Iss Ne Diya Hussain Ko Abbas Paal Kar.
+۹
+دونوں جہاں میں صرف یہ اس کا کمال ہے
+بیٹا اسی کا فاطمہ زہرا کا لال ہے
+بنتِ نبی کے بچوں کا صدقہ نکال کر
+اس نے دیا حسین کو عباس پال کر
 
-10
-Khaili Hai Bint-e-Shair-e-Khuda Iss Ki Gaud Mein.
-Aa Kar Sakon Dein Ko Mila Iss Ki Gaud Mein.
-Yeh Bhi Hai Ik Khuda Ki Atta Iss Ki Gaud Mein.
-Utari Hai Syeda Ki Dua Iss Ki Gaud Mein.
+۱۰
+کھیلی ہے بنتِ شیرِ خدا اس کی گود میں
+آ کر سکون دین کو ملا اس کی گود میں
+یہ بھی ہے اک خدا کی عطا اس کی گود میں
+اتری ہے سیدہ کی دعا اس کی گود میں
 
-11
-Akas-e-Zuljalal Ke Akas Ke Liye.
-Yeh Gaud Muntahib Hoi Abbas Ke Liye.
-Bunyad-e-Ishq-o-Sabar-o-Raza Dalti Rahi.
-Gham Sani-e-Batool Ka Yeh Talti Rahi.
+۱۱
+عکاسِ ذوالجلال کے عکس کے لیے
+یہ گود منتخب ہوئی عباس کے لیے
+بنیادِ عشق و صبر و رضا ڈالتی رہی
+غم ثانیِ بتول کا یہ ٹالتی رہی
 
-12
-Kirdar Karbala Ke Liye Dhalti Rahi.
-Jholi Mein Apni Rab-e-Wafa Palti Rahi.
-Batil Muqadron Ke Liye Phair Kar Diya.
-Jis Ko Pilaya Sheer Ossay Shair Kar Diya.
+۱۲
+کردار کربلا کے لیے ڈھالتی رہی
+جھولی میں اپنی ربِ وفا پالتی رہی
+باطل مقدروں کے لیے پھیر کر دیا
+جس کو پلایا شیر اسے شیر کر دیا
 
-13
-Quran-e-Ahl-e-Bait Ka Yeh Bhi Hain Ik Waraq.
-Inn Ki Tajaliyaat Munawar Shafaq Shafaq.
-Aisay Ada Kiya Hai Dar-e-Syeda Ka Haq.
-Abbas Ko Parhaya Wafaon Ka Har Sabaq.
+۱۳
+قرآنِ اہلِ بیت کا یہ بھی ہیں اک ورق
+ان کی تجلیات منور شفق شفق
+ایسے ادا کیا ہے درِ سیدہ کا حق
+عباس کو پڑھایا وفاؤں کا ہر سبق
 
-14
-Karb-o-Bala Ka Jafar-e-Tayyar Kar Diya.
-Bachpan Mein Hi Jarri Ko Alamdar Kar Diya.
-Konain Ki Nijat Hain Abbas Ki Hain Maa.
-Wallah Pak Zaat Hain Abbas Ki Hain Maa.
+۱۴
+کرب و بلا کا جعفرِ طیار کر دیا
+بچپن میں ہی جری کو علمدار کر دیا
+کونین کی نجات ہیں عباس کی ہیں ماں
+واللہ پاک ذات ہیں عباس کی ہیں ماں
 
-15
-Ik Haq Ki Kainat Hain Abbas Ki Hain Maa.
-Halal-e-Mushkilaat Hain Abbas Ki Hain Maa.
-Hain Munfarid Zamano Se Apni Wafaon Mein.
-Abbas Ki Bahisht Hai Iss Maa Ke Paon Mein.
+۱۵
+اک حق کی کائنات ہیں عباس کی ہیں ماں
+حلّالِ مشکلات ہیں عباس کی ہیں ماں
+ہیں منفرد زمانوں سے اپنی وفاؤں میں
+عباس کی بہشت ہے اس ماں کے پاؤں میں

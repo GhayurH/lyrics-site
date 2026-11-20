@@ -20,22 +20,22 @@ romanLyrics: |-
 
   1
   Puchha jo kisi ne Zainab se bhaai hai kahaaṅ to Zainab ne
-  Ek mutthi khaak uthaayi hai aur khaak hawa meiṅ uraayi hai
+  Ak mutthi khaak uthaayi hai aur khaak hawa meiṅ uraayi hai
   Teri beghar Zainab aayi hai
 
   2
-  Quraaṅ tha jo Shabbir ka tan maqtal meiṅ sumoṅ se raunda gaya
+  Quraaṅ tha jo Shabbir ka tan maqtal meiṅ sumoṅ se raundha gaya
   Juzdaan tha jo tan ka kurta wo khuṅ meiṅ duba laayi hai
   Teri beghar Zainab aayi hai
 
   3
-  Bejaan hujre chup darwaaze saabit parde bejumbish lab
-  Ya ghar meiṅ hai ek sannaata ya Zainab ki tanhaai hai
+  Bejaan hujre chup darwaaze saabit parde bejunbish lab
+  Ya ghar meiṅ hai ak sannaata ya Zainab ki tanhaai hai
   Teri beghar Zainab aayi hai
 
   4
   Maqtal meiṅ lagi thi qimat-e-diṅ boli dete the dushman-e-diṅ
-  Ae naana maiṅ ne qimat-e-din apni chaadar se chukaayi hai
+  Ae naana main ne qimat-e-din apni chaadar se chhupaayi hai
   Teri beghar Zainab aayi hai
 
   5

@@ -1,34 +1,58 @@
 ---
-title: "Haye Ghazi Jundiyan Mar Gaiyan Shahid Baltistani Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہائے غازی جوندیاں مر گئیاں"
+alternateTitle: "Haye Ghazi Jundiyan Mar Gaiyan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Ghazi jundiyan mar gaiyan Shahid Baltistani
+  Bin bazu zeen taun leh gaya aye Zainab Kulsoom da maan aye
+  Hun lut lo chadar Zainab di hoya fojaan wich ayelan aye
+  Haye Ghazi jondiyaan mar gayiyaan aj bhainraan teriyaan
+  Saday burqay khak te aaye ne nahin sirf aye banwaan teriyaan
+  Aa wekh Alambardar aye aj Zainab pehrey daar aye
+  Mere muk gaye manr bhirawaan de jadon rukiyaan sahwaan teriyaan
+  Teri jurtan nu zakhma gayi tainu chup Shabbir di kha gayi
+  Akhiyaan da khon aye dasda aye hun baqi hasrataan teriyaan
+  Gathri wich lash chupa ke choti jayi qabar banra ke
+  Bara roya kar ke yaad Abid be misal wafawaan teriyaan
+  Sada maqtal veer teyar aye agay Sham wala bazar aye
+  Parday wich Sham di aurtaan ne rasiyaan wich izataan teriyaan
+  Nezay te tukray chaye tere qatilaan ne lehraye
+  Wich maqtal jashan mananday re chuk chuk ke banwaan teriyaan
+  Nayi ujari bhainr bholanra tera okha zeen taun lehnra
+  Hanjwaan nal aap utariyan san Zainab ne nazraan teriyaan
+  Jehri piyo di matamdar aye odhay zakhmi hun rukhsar aye
+  Kana choon Shimar ne dur laye rayi takdi rahwaan teriyaan
+  Muhsin Sadaat da manr aye jehra pardiyaan da nigran aye
+  Karbal wich chalday hukam jiday karey pori arzaan teriyaan
 ---
 
-1
-Haye Ghazi Jundiyan Mar Gaiyan Shahid Baltistani.
-Bin Bazu Zeen Taun Leh Gaya Aye Zainab Kulsoom Da Maan Aye.
-Hun Lut Lo Chadar Zainab Di Hoya Fojaan Wich Ayelan Aye.
-Haye Ghazi Jondiyaan Mar Gayiyaan Aj Bhainraan Teriyaan.
-Saday Burqay Khak Te Aaye Ne Nahin Sirf Aye Banwaan Teriyaan.
-Aa Wekh Alambardar Aye Aj Zainab Pehrey Daar Aye.
-Mere Muk Gaye Manr Bhirawaan De Jadon Rukiyaan Sahwaan Teriyaan.
-Teri Jurtan Nu Zakhma Gayi Tainu Chup Shabbir Di Kha Gayi.
-Akhiyaan Da Khon Aye Dasda Aye Hun Baqi Hasrataan Teriyaan.
-Gathri Wich Lash Chupa Ke Choti Jayi Qabar Banra Ke.
-Bara Roya Kar Ke Yaad Abid Be Misal Wafawaan Teriyaan.
-Sada Maqtal Veer Teyar Aye Agay Sham Wala Bazar Aye.
-Parday Wich Sham Di Aurtaan Ne Rasiyaan Wich Izataan Teriyaan.
-Nezay Te Tukray Chaye Tere Qatilaan Ne Lehraye.
-Wich Maqtal Jashan Mananday Re Chuk Chuk Ke Banwaan Teriyaan.
-Nayi Ujari Bhainr Bholanra Tera Okha Zeen Taun Lehnra.
-Hanjwaan Nal Aap Utariyan San Zainab Ne Nazraan Teriyaan.
-Jehri Piyo Di Matamdar Aye Odhay Zakhmi Hun Rukhsar Aye.
-Kana Choon Shimar Ne Dur Laye Rayi Takdi Rahwaan Teriyaan.
- Muhsin Sadaat Da Manr Aye Jehra Pardiyaan Da Nigran Aye.
-Karbal Wich Chalday Hukam Jiday Karey Pori Arzaan Teriyaan.
+۱
+ہائے غازی جوندیاں مر گئیاں شاہد بلتستانی
+بن بازو زین توں لہہ گیا اے، زینب کلثوم دا مان اے
+ہن لٹ لو چادر زینب دی، ہویا فوجاں وچ اعلان اے
+ہائے غازی جوندیاں مر گئیاں اج بھینڑاں تیریاں
+ساڈے برقعے خاک تے آئے نے، نہیں صرف اے بانواں تیریاں
+آ ویکھ علمبردار اے، اج زینب پہرے دار اے
+میرے مک گئے مان بھراواں دے جدوں رکیاں ساہواں تیریاں
+تیری جرأتاں نوں زخما گئی، تینوں چپ شبیر دی کھا گئی
+اکھیاں دا خون اے دسدا اے، ہن باقی حسرتاں تیریاں
+گٹھڑی وچ لاش چھپا کے، چھوٹی جئی قبر بنا کے
+بڑا رویا کر کے یاد عابد، بے مثال وفاواں تیریاں
+ساڈا مقتل ویر تیار اے، اگے شام والا بازار اے
+پردے وچ شام دی عورتاں نے، رسیاں وچ عزتاں تیریاں
+نیزے تے ٹکڑے چائے، تیرے قاتلاں نے لہرائے
+وچ مقتل جشن مناندے رے، چک چک کے بانواں تیریاں
+نئیں اجڑی بھینڑ بھلانا، تیرا اوکھا زین توں لہنا
+ہنجواں نال آپ اتاریاں سن زینب نے نظراں تیریاں
+جیہڑی پیو دی ماتم دار اے، اوہدے زخمی ہن رخسار اے
+کناں چوں شمر نے دُر لَئے، رئی تکدی راہواں تیریاں
+محسن سادات دا مان اے، جیہڑا پردیاں دا نگران اے
+کربل وچ چلدے حکم جیدے، کرے پوری عرضاں تیریاں

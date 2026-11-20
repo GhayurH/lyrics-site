@@ -11,76 +11,76 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jawan bete ko aaghosh meiṅ uthaye huwe
-  Husain khaak pe baithe hai sar jhukaye huwe
+  Jawaan bete ko aaghosh mein uthaaye hue
+  Husain khaak pe baithe haiṅ sar jhukaaye hue
   Aulaad agar hoti teri
-  Mera dard samajhta tu akbar
-  Ek laashe jawaaṅ pe ek baba
+  Mera dard samajhta tu Akbar
+  Ik laash jawaaṅ pe ik baba
   Deta tha sada ye ro ro kar
   Aulaad agar hoti teri
-  Mera dard samajhta tu akbar
-  Na khud ko sambhala jaata hai
+  Mera dard samajhta tu Akbar
+  Na khud ko sambhaala jaata hai
   Na tujhko sambhaala jaata hai
-  Tujhe kya malum jawaaṅ beta
-  Kis tarha se paala jaata hai
-  Girta hoo kabhe mai uthta hoo
-  Jaaunga tujhe kaise le kar
+  Tujhe kya maalum jawaaṅ beta
+  Kis tarah se paala jaata hai
+  Girta huṅ kabhi main uthta huṅ
+  Jaauṅ ga tujhe kaise le kar
   Aulaad agar hoti teri...
-  Laila se ye keh kar aaya hoo
+  Laila se ye keh kar aaya huṅ
   Akbar ne bulaaya hai mujhko
-  Tum maa ho dua maango us ne
-  Sine pe na barchi khaayi ho
-  Jene ke duayeiṅ karti hai
-  Qaime meiṅ teri maa ro ro kar
+  Tum maaṅ ho dua maango us ne
+  Sine pe na barchhi khaayi ho
+  Jine ki duaaeṅ karti hai
+  Khaime mein teri maaṅ ro ro kar
   Aulaad agar hoti teri...
-  Athara baras tujhko apne
-  Sine se lagaya hai maiṅ ne
-  Tere saath apne armaano ko
-  Parwaan charhaya hai maiṅ ne
+  Athaara baras tujhko apne
+  Sine se lagaaya hai main ne
+  Tere saath apne armaanoṅ ko
+  Parwaan charhaaya hai main ne
   Armaan tha meri mayyat ko
-  Kaandhe pe uthaye tu akbar
+  Kaandhe pe uthaaye tu Akbar
   Aulaad agar hoti teri...
-  Akbar meri zainab ke dil meiṅ
-  Armaan tha teri shadi ka
+  Akbar meri Zainab ke dil mein
+  Armaan tha teri shaadi ka
   Ae kaash wo tere maathe pe
-  Ek baar saja leti sehra
-  Bandhna tha jahaṅ par haye sehra
+  Ik baar saja leti sehra
+  Bandhna tha jahaaṅ par haaye sehra
   Hai khun laga us maathe par
   Aulaad agar hoti teri...
   Is baat pe rona aata hai
-  Mere saath agar aati sughra
-  Awaaz teri sun kar ran meiṅ
-  Tujhe dhondne aa jaati sughra
+  Mere saath agar aati Sughra
+  Aawaaz teri sun kar ran mein
+  Tujhe dhundne aa jaati Sughra
   Teri laash pe aa kar mar jaati
   Sughra bhaiya bhaiya keh kar
   Aulaad agar hoti teri...
-  Jitna mai gharib hoo ae akbar
+  Jitna main gharib huṅ ae Akbar
   Koi baap gharib na ho itna
-  Pani khud maanga tha tu ne
-  Pyasa tha na jaane kitna
-  Tere kehne par bhi mai tujhko
-  Pani na pila paaya dilbar
+  Paani khud maanga tha tu ne
+  Pyaasa tha na jaane kitna
+  Tere kehne par bhi main tujhko
+  Paani na pila paaya dilbar
   Aulaad agar hoti teri...
-  Ye aakhri khwahish hai meri
-  Sajjad se keh doonga jaa kar
-  Jab baara moharram wo sab ke
-  Laashoṅ ko dafanaye aa kar
-  Mere pehlu meiṅ tum ko dafna de
-  Kabhi dur na ho mera akbar
+  Ye aakhri khwaahish hai meri
+  Sajjad se keh duṅ ga jaa kar
+  Jab baara Muharram wo sab ke
+  Laashoṅ ko dafnaaye aa kar
+  Mere pehlu mein tum ko dafna de
+  Kabhi dur na ho mera Akbar
   Aulaad agar hoti teri...
-  Aasaan nahi hai ye lamha
-  Us waqt bataya tha maiṅ ne
-  Tere saamne hurr ke bete ka
-  Jab laasha uthaya tha maiṅ ne
+  Aasaan nahiṅ hai ye lamha
+  Us waqt bataaya tha main ne
+  Tere saamne Hurr ke bete ka
+  Jab laasha uthaaya tha main ne
   Aulaad ka gham kya hota hai
-  Puche ye koi mujhse aa kar
+  Puchhe ye koi mujhse aa kar
   Aulaad agar hoti teri...
   Kaandhe pe jawaaṅ laasha le kar
-  Jab qaimon tak pahunche maula
-  Zishan o raza ye kehte huwe
-  Chuma ali akbar ka chehra
-  Teri laash utha kar kis tarha
-  Jaauṅ mai qaimon ke andar
+  Jab khaimoṅ tak pahunche Maula
+  Zishaan o Raza ye kehte hue
+  Chuma Ali Akbar ka chehra
+  Teri laash utha kar kis tarah
+  Jaauṅ main khaimoṅ ke andar
   Aulaad agar hoti teri...
 ---
 

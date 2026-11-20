@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khidmat guzaraan e karbobala
-  Kehte hai tum se ye shaah e huda
-  Haq e mohabbat ada kar diya
-  Tum mujhse raazi mai tum se raazi
-  Dete hai tum ko dua murtaza
-  Raazi hongi tum se fatema
+  Khidmat guzaaraan-e-Karbobala
+  Kehte haiṅ tum se ye shaah-e-huda
+  Haq-e-mohabbat ada kar diya
+  Tum mujh se raazi main tum se raazi
+  Dete haiṅ tum ko dua Murtaza
+  Raazi hoṅgi tum se Fatema
   Ahsant khadim al Husain
-  Tum hamari shaan ho
+  Tum hamaari shaan ho
   Tum bhi mezbaan ho
-  Raazi hongi tum se fatema
-  Ahsant khadim al Husain...
-  Zairoṅ ki khidmat par mamur ho tum
-  Is azim nemat se mashur ho tum
+  Raazi hoṅgi tum se Fatema
+  Ahsant khadim al Husain
+  Zairoṅ ki khidmat par maamur ho tum
+  Is azim nemat se mashhur ho tum
   Karbala ki ye fiza keh rahi hai marhaba
   Ghazi de rahe hai hausla
-  Ahsant khadim al Husain...
-  Jo najaf se jaate hai paidal haram ko
-  Tum sahara dete ho har ahle gham ko
-  Jaa baja sabil hai ishq ki dalil hai
-  Ehtemaam aab aur ghiza
-  Ahsant khadim al Husain...
-  Har qadam moakib jo tum ne banaye
-  Jo safar se thak jaaye aaram paaye
-  Ho koi mariz e gham ya zaif e mohtaram
-  Sab ko baant'te ho tum dawa
-  Ahsant khadim al Husain...
-  Nabeena zaair ki binayi tum ho
-  Maazur zaair ki besaakhi tum ho
-  Is qadar hujum meiṅ de rahe ho rahateiṅ
-  Kiuṅ na zaairoṅ ki ho sada
-  Ahsant khadim al Husain...
-  Halabikom
-  Sada dete hai shabbir
-  Bana dunga mai taqdir
-  Chale aao ae zawwar
+  Ahsant khadim al Husain
+  Jo Najaf se jaate hai paidal haram ko
+  Tum sahaara dete ho har ahl-e-gham ko
+  Jaa bajaa sabil hai ishq ki dalil hai
+  Ehtemaam-e-aab aur ghiza
+  Ahsant khadim al Husain
+  Har qadam maukib jo tum ne banaaye
+  Jo safar se thak jaaye aaraam paaye
+  Ho koi mariz-e-gham ya zaif-e-mohtaram
+  Sab ko baaṅtte ho tum dawa
+  Ahsant khadim al Husain
+  Naabina zair ki binaai tum ho
+  Maazur zair ki besaakhi tum ho
+  Is qadar hujum mein de rahe ho raahateṅ
+  Kiuṅ na zairoṅ ki ho sada
+  Ahsant khadim al Husain
+  Haala bikum
+  Sada dete haiṅ Shabbir
+  Banaa duṅga main taqdir
+  Chale aao ae zawwaaroṅ
   Mere gham ke talabgaar
-  Masayib se na ghabrao
-  Dar e ghazi pe aa jao
+  Masaayib se na ghabraao
+  Dar-e-Ghazi pe aa jaao
   Qadam qadam kare ata
   Barhaate jaaye hausla
-  Dikha rahe hai raasta
-  Tumhare ishq pe fida
-  Ata kare tumhe sila
-  Zaairoṅ ki naalain bhi jorte ho
-  Kab tum is farize se moo morte ho
+  Dikha rahe haiṅ raasta
+  Tumhaare ishq pe fida
+  Ata kare tumheṅ sila
+  Zairoṅ ki naalain bhi jorte ho
+  Kab tum is farize se muṅh morte ho
   Khub naukri hai ye qalb ki khushi hai ye
   Hai nijaat ka ye raasta
-  Ahsant khadim al Husain...
-  Ki hai shaah rahoṅ pe khidmat guzari
-  Mausamoṅ ki shiddat meiṅ bhi pursadari
+  Ahsant khadim al Husain
+  Ki hai shaah raahoṅ pe khidmat guzaari
+  Mausamoṅ ki shiddat mein bhi pursa daari
   Din ho raat ho ya shaam apne kaam se hai kaam
   Boli haar maan kar hawa
-  Ahsant khadim al Husain...
-  Bachoṅ meiṅ bhi aayi aadat tumhari
+  Ahsant khadim al Husain
+  Bachchoṅ mein bhi aayi aadat tumhaari
   Nasloṅ ko ye baat tum ne sikha di
-  Matam o buka karo tum bhi marsiya parho
-  Tumse bhi kaheṅgi sayyeda
-  Ahsant khadim al Husain...
-  Khadimin e karbal ki jo naukri hai
-  Mazhar ki mesum ki khwahish yehi hai
-  Khadimoṅ meiṅ naam ho aisa intezam ho
-  Hum se bole shaah e karbala
-  Ahsant khadim al Husain...
+  Maatam o buka karo tum bhi marsiya parho
+  Tum se bhi kaheṅgi Sayyeda
+  Ahsant khadim al Husain
+  Khadimin-e-Karbal ki jo naukri hai
+  Mazhar ki Maisam ki khwaahish yahi hai
+  Khadimoṅ mein naam ho aisa intezaam ho
+  Ham se bole shaah-e-Karbala
+  Ahsant khadim al Husain
 ---
 
 ۱

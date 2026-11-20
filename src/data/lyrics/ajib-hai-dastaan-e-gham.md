@@ -24,27 +24,27 @@ romanLyrics: |-
   Khumm meiṅ is ko ata kiya
 
   2
-  Ek hi nur ke do tukre haiṅ
-  Ek Muhammad ek Ali
+  Ik hi nur ke do tukre haiṅ
+  Ik Muhammad ik Ali
   Donoṅ hi mahbub-e-Ilahi
   Donoṅ ko Meraj hui
-  Ek ko Haq ne kar diya zaahir
-  Ek parde meiṅ chhupa diya
+  Ik ko Haq ne kar diya zaahir
+  Ik parde meiṅ chhupa diya
 
   3
-  Zindabad hai jazba-e-maatam
+  Zinda baad hai jazba-e-maatam
   Mehnat ab rang lai hai
-  Chaudah sau sala nafrat
-  Ab khul kar samne aai hai
+  Chaudah sau saala nafrat
+  Ab khul kar saamne aai hai
   Aaj Yazidiyat ne parda
   Rukh se apne hata diya
 
   4
-  Thehr nahiṅ sakte the baghair
+  Thahar nahiṅ sakte the baghair
   Izn farishte jis dar par
-  Naqsh-e-nishan-e-pa-e-Muhammad
-  Sakit the jis ki chaukhat par
-  Wae Musalmano ho tum par
+  Naqsh-e-nishaan-e-paa-e-Muhammad
+  Saakit the jis ki chaukhat par
+  Waaye Musalmano ho tum par
   Tum ne wo dar jala diya
 
   5
@@ -58,13 +58,13 @@ romanLyrics: |-
   6
   Sar ko tan se juda kiya
   Sar charha diya phir neze par
-  Lashoṅ par ghore daurae
+  Laashoṅ par ghore daurae
   Bujhi na dil ki aag magar
   Kalma goyoṅ ne khud apne
   Nabi ke ghar ko jala diya
 
   7
-  Aise meiṅ ek bachchi nikli
+  Aise meiṅ ik bachchi nikli
   Khaimoṅ se ghabrai hui
   Khun tapakta tha kaanoṅ se
   Rukh pe yatimi chhai hui
@@ -72,7 +72,7 @@ romanLyrics: |-
   Aur Shimr tamaanche maarta tha
 
   8
-  Daman meiṅ thi aag lagi aur
+  Daaman meiṅ thi aag lagi aur
   Su-e-Najaf tha rukh us ka
   Roti thi chillati thi
   De rahi thi Baba ko sada
@@ -82,7 +82,7 @@ romanLyrics: |-
   9
   Bain Sakina ke sun sun kar
   Tharraati thi laash-e-Husain
-  Saahil par ek laasha
+  Saahil par ik laasha
   Uth uth parta tha ho kar bechain
   Aati thi reh reh ke sada jab
   Aa jao aa jao Chacha

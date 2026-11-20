@@ -14,10 +14,10 @@ published: true
 romanLyrics: |-
   Jab laasha-e-farzand-e-Nabi ho gaya paamaal
   Us waqt ajab haal meiṅ thi Faatima ki aal
-  Taarikh ne kuch is tarha likha hai wo ahwaal
+  Taarikh ne kuch is tarah likha hai wo ahwaal
   Sab Bibiyoṅ meiṅ ek tha Bibi ka bura haal
   Bechaini se aati thi dar-e-khaime pe har baar
-  Bachchoṅ ko samete hue kehti thi dilafgaar
+  Bachchoṅ ko samete hue kehti thi dil afgaar
 
   Ae jari diler baawafa
   Baazu-e-shahid-e-Karbala
@@ -40,7 +40,7 @@ romanLyrics: |-
   Khaatima hua sipaah ka
 
   3
-  Kis tarha bataauṅ ran ka haal
+  Kis tarah bataauṅ ran ka haal
   Laash ko kareṅge paamaal
   Bhaai ka karo to kuch khayaal
   Shaah-e-laafatah ke laal
@@ -52,7 +52,7 @@ romanLyrics: |-
   Le ke aaye us ko bhaai jaaṅ
 
   5
-  Khaimoṅ ko jalaa na deṅ laiṅ
+  Khaimoṅ ko jalaa na deṅ la-iṅ
   Lut le na maal o zar kahiṅ
   Kya karega Aabid-e-haziṅ
   Us ko tab se hosh hi nahiṅ

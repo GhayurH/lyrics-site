@@ -32,7 +32,7 @@ romanLyrics: |-
 
   3
   Jab dekheṅ chaand Muharram ka
-  Sab jaaeṅ qayaam-e-Husaini par
+  Sab jaaeṅ qiyaam-e-Husaini par
   Abbas ke khaime par rukh kar
   Jab izn-e-ziyaarat paaeṅge
 
@@ -75,7 +75,7 @@ romanLyrics: |-
   10
   Aashur ka din jab hoga ayaaṅ
   Maula se kaheṅge ro ro kar
-  Daaman meiṅ chhupa lije Maula
+  Daaman meiṅ chhupa lijiye Maula
   Hum laut ke ghar na jaaeṅge
 
   11

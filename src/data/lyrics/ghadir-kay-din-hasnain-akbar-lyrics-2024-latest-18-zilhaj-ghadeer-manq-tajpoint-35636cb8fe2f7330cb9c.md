@@ -1,38 +1,66 @@
 ---
-title: "Ghadir Kay Din Hasnain Akbar Lyrics 2024 Latest 18 Zilhaj Ghadeer Manqabat"
+title: "غدیر کے دن"
+alternateTitle: "Ghadir Kay Din"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Machal machal aye mare dill Ghadir kay din
+  Mehak mehak ba tarang e kanwal Ghadir kay din
+
+  1
+  Rah e wila kay safar per nikal Ghadir kay din
+  Cherag ban kay hawaoon pay chal Ghadir kay din
+  Sharab e ishq e Ali pee behak behak merey dill
+  Mujhey sanbhal na tu khud sanbhal Ghadir kay din
+
+  2
+  Hamare ghar kay ojalay gawahi detay hain
+  Ke chal rahey hain yahan aaj kal Ghadir kay din
+  Nabi ney hath Ali ka buland kartey hoaye
+  Diya hai khatam e nabowat ko hal Ghadir kay din
+
+  3
+  Otar kay aya e Baligh ney kar diya ayelan
+  Mila Rasool ko mehnat ka phal Ghadir kay din
+  Jo fath e Makka pay kalme kay khol mein gum thay
+  Wo bot zameen pay giray monh kay bal Ghadir kay din
+
+  4
+  Ali kay dushmano say khud diye bhi kehtey hain
+  Ali kay taj say itna na jal Ghadir kay din
+  Jalaya jaye ga Akbar wo nar e dozakh mein
+  Parein gaye jiss kay bhi mathe pay bal Ghadir kay din
 ---
 
-Machal Machal Aye Mare Dill Ghadir Kay Din.
-Mehak Mehak Ba Tarang e Kanwal Ghadir Kay Din.
+مچل مچل اے میرے دل غدیر کے دن
+مہک مہک بہ ترنگِ کنول غدیر کے دن
 
-1
-Rah e Wila Kay Safar Per Nikal Ghadir Kay Din.
-Cherag Ban Kay Hawaoon Pay Chal Ghadir Kay Din.
-Sharab e Ishq e Ali Pee Behak Behak Merey Dill.
-Mujhey Sanbhal Na Tu Khud Sanbhal Ghadir Kay Din.
+۱
+راہِ ولا کے سفر پر نکل غدیر کے دن
+چراغ بن کے ہواؤں پہ چل غدیر کے دن
+شرابِ عشقِ علی پی بہک بہک میرے دل
+مجھے سنبھال نہ تو خود سنبھل غدیر کے دن
 
-2
-Hamare Ghar Kay Ojalay Gawahi Detay Hain.
-Ke Chal Rahey Hain Yahan Aaj Kal Ghadir Kay Din.
-Nabi Ney Hath Ali Ka Buland Kartey Hoaye.
-Diya Hai Khatam e Nabowat Ko Hal Ghadir Kay Din.
+۲
+ہمارے گھر کے اجالے گواہی دیتے ہیں
+کہ چل رہے ہیں یہاں آج کل غدیر کے دن
+نبی نے ہاتھ علی کا بلند کرتے ہوئے
+دیا ہے ختمِ نبوت کو حل غدیر کے دن
 
-3
-Otar Kay Aya e Baligh Ney Kar Diya Ayelan.
-Mila Rasool Ko Mehnat Ka Phal Ghadir Kay Din.
-Jo Fath e Makka Pay Kalme Kay Khol Mein Gum Thay.
-Wo Bot Zameen Pay Giray Monh Kay Bal Ghadir Kay Din.
+۳
+اتر کے آیۂ بلّغ نے کر دیا اعلان
+ملا رسول کو محنت کا پھل غدیر کے دن
+جو فتحِ مکہ پہ کلمے کے خول میں گم تھے
+وہ بت زمین پہ گرے منہ کے بل غدیر کے دن
 
-4
-Ali Kay Dushmano Say Khud Diye Bhi Kehtey Hain.
-Ali Kay Taj Say Itna Na Jal Ghadir Kay Din.
-Jalaya Jaye Ga Akbar Wo Nar e Dozakh Mein.
-Parein Gaye Jiss Kay Bhi Mathe Pay Bal Ghadir Kay Din.
+۴
+علی کے دشمنوں سے خود دیے بھی کہتے ہیں
+علی کے تاج سے اتنا نہ جل غدیر کے دن
+جلایا جائے گا اکبر وہ نارِ دوزخ میں
+پڑیں گے جس کے بھی ماتھے پہ بل غدیر کے دن

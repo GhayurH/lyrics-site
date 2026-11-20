@@ -1,53 +1,96 @@
 ---
-title: "Ali-e-Murtaza Se Pyar Karo Mir Hasan Mir"
+title: "علیِ مرتضیٰ سے پیار کرو میر حسن میر"
+alternateTitle: "Ali-e-Murtaza Se Pyar Karo Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallaum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hai farman-e-Payamber kaho Haider Haider
+  Misal-e-Salman-o-Abuzar kaho Haider Haider
+  Daar ho ya tah-e-khanjar kaho Haider Haider
+  Adda yeh sunat-e-Sarkar karo Ali-e-Murtaza se pyar karo
+
+  2
+  Qaza se hargiz na khoof khana tum woh hai kaneez-e-Fatima
+  Janab-e-Meesum ne khud sikhaya hai Ali Ali ka tazkira
+  Har aik kocha har diyar karo Ali-e-Murtaza se pyar karo
+  Yeh iltija hai Ali ke shiyon se tum aabro-e-deen ho
+
+  3
+  Tumhare jaisa nahi hai koi bhi tum iss qadar haseen ho
+  Amal se bhi yeh aashkar karo Ali-e-Murtaza se pyar karo
+  Kalam oss se karo muhabbat se hai jis ke khon mein Ali
+  Karo baraat Ali ke dushman se na choro munkir-e-Nabi
+
+  4
+  Na iss amal mein ikhtisar karo Ali-e-Murtaza se pyar karo
+  Tumhare bacho ne iss jahan mein ab barhana hai yeh silsila
+  Pila ke ghuti unhein parhao tum Ali Ali ka qaida
+  Abhi se fikar ustawar karo Ali-e-Murtaza se pyar karo
+
+  5
+  Ali ke dushman tumhara mehshar mein nasha Khuda utare ga
+  Tumhare sajday namazein roze sab tumhare munh pe mare ga
+  Na youn jabeen ko dagdar karo Ali e Murtaza se pyar karo
+  Tum ahl-e-Kofa ho Sham wale ho tumhare pass koan hai
+
+  6
+  Na koi Qanbar na koi Abuzar hai na koi Hur na Jon hai
+  Hussain rah ikhtiyar karo Ali e Murtaza se pyar karo
+  Taveel tar hai yeh door ghaibat ka bhatak na jaye aadmi
+  Bata gaye hain Imam sare hi hain dono kam lazmi
+
+  7
+  Imam-e-haq ka intezar karo Ali e Murtaza se pyar karo
+  Zameer kehta hai yeh Takallaum ka karo tum oss ka shukriya
+  Ossi ne tum ko bataya dunya mein hain kya Ali-e-Murtaza
+  Tum apni maa pe iftikhar karo Ali e Murtaza se pyar karo
 ---
 
-1
-Hai Farman-e-Payamber Kaho Haider Haider.
-Misal-e-Salman-o-Abuzar Kaho Haider Haider.
-Daar Ho Ya Tah-e-Khanjar Kaho Haider Haider.
-Adda Yeh Sunat-e-Sarkar Karo Ali-e-Murtaza Se Pyar Karo.
+۱
+ہے فرمانِ پیمبر کہو حیدر حیدر
+مثالِ سلمان و ابوذر کہو حیدر حیدر
+دار ہو یا تہِ خنجر کہو حیدر حیدر
+ادا یہ سنتِ سرکار کرو علیِ مرتضیٰ سے پیار کرو
 
-2
-Qaza Se Hargiz Na Khoof Khana Tum Woh Hai Kaneez-e-Fatima.
-Janab-e-Meesum Ne Khud Sikhaya Hai Ali Ali Ka Tazkira.
-Har Aik Kocha Har Diyar Karo Ali-e-Murtaza Se Pyar Karo.
-Yeh Iltija Hai Ali Ke Shiyon Se Tum Aabro-e-Deen Ho.
+۲
+قضا سے ہرگز نہ خوف کھانا تم وہ ہے کنیزِ فاطمہ
+جنابِ میثم نے خود سکھایا ہے علی علی کا تذکرہ
+ہر ایک کوچہ ہر دیار کرو علیِ مرتضیٰ سے پیار کرو
+یہ التجا ہے علی کے شیعوں سے تم آبروئے دیں ہو
 
-3
-Tumhare Jaisa nahi Hai Koi Bhi Tum Iss Qadar Haseen Ho.
-Amal Se Bhi Yeh Aashkar Karo Ali-e-Murtaza Se Pyar Karo.
-Kalam Oss Se Karo Muhabbat Se Hai Jis Ke Khon Mein Ali.
-Karo Baraat Ali Ke Dushman Se Na Choro Munkir-e-Nabi.
+۳
+تمہارے جیسا نہیں ہے کوئی بھی تم اس قدر حسین ہو
+عمل سے بھی یہ آشکار کرو علیِ مرتضیٰ سے پیار کرو
+کلام اس سے کرو محبت سے ہے جس کے خون میں علی
+کرو براءت علی کے دشمن سے نہ چھوڑو منکرِ نبی
 
-4
-Na Iss Amal Mein Ikhtisar Karo Ali-e-Murtaza Se Pyar Karo.
-Tumhare Bacho Ne Iss Jahan Mein Ab Barhana Hai Yeh Silsila.
-Pila Ke Ghuti Unhein Parhao Tum Ali Ali Ka Qaida.
-Abhi Se Fikar Ustawar Karo Ali-e-Murtaza Se Pyar Karo.
+۴
+نہ اس عمل میں اختصار کرو علیِ مرتضیٰ سے پیار کرو
+تمہارے بچوں نے اس جہاں میں اب بڑھانا ہے یہ سلسلہ
+پلا کے گھٹی انہیں پڑھاؤ تم علی علی کا قاعدہ
+ابھی سے فکر استوار کرو علیِ مرتضیٰ سے پیار کرو
 
-5
-Ali Ke Dushman Tumhara Mehshar Mein Nasha Khuda Utare Ga.
-Tumhare Sajday Namazein Roze Sab Tumhare Munh Pe Mare Ga.
-Na Youn Jabeen Ko Dagdar Karo Ali e Murtaza Se Pyar Karo.
-Tum Ahl-e-Kofa Ho Sham Wale Ho Tumhare Pass Koan Hai.
+۵
+علی کے دشمن تمہارا محشر میں نشہ خدا اتارے گا
+تمہارے سجدے نمازیں روزے سب تمہارے منہ پہ مارے گا
+نہ یوں جبیں کو داغ دار کرو علیِ مرتضیٰ سے پیار کرو
+تم اہلِ کوفہ ہو شام والے ہو تمہارے پاس کون ہے
 
-6
-Na Koi Qanbar Na Koi Abuzar Hai Na Koi Hur Na Jon Hai.
-Hussain Rah Ikhtiyar Karo Ali e Murtaza Se Pyar Karo..
-Taveel Tar Hai Yeh Door Ghaibat Ka Bhatak Na Jaye Aadmi.
-Bata Gaye Hain Imam Sare Hi Hain Dono Kam Lazmi.
+۶
+نہ کوئی قنبر نہ کوئی ابوذر ہے نہ کوئی حر نہ جون ہے
+حسین راہ اختیار کرو علیِ مرتضیٰ سے پیار کرو
+طویل تر ہے یہ دور غیبت کا بھٹک نہ جائے آدمی
+بتا گئے ہیں امام سارے ہی ہیں دونوں کام لازمی
 
-7
-Imam-e-Haq Ka Intezar Karo Ali e Murtaza Se Pyar Karo.
-Zameer Kehta Hai Yeh Takallaum Ka Karo Tum Oss Ka Shukriya.
-Ossi Ne Tum Ko Bataya Dunya Mein Hain Kya Ali-e-Murtaza.
-Tum Apni Maa Pe Iftikhar Karo Ali e Murtaza Se Pyar Karo.
+۷
+امامِ حق کا انتظار کرو علیِ مرتضیٰ سے پیار کرو
+ضمیر کہتا ہے یہ تکلم کا کرو تم اس کا شکریہ
+اسی نے تم کو بتایا دنیا میں ہیں کیا علیِ مرتضیٰ
+تم اپنی ماں پہ افتخار کرو علیِ مرتضیٰ سے پیار کرو

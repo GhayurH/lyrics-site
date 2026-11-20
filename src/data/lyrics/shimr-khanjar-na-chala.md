@@ -12,59 +12,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shimr ne gardane mazlum pe khanjar jo rakha
-  Kuch qadam dur se deti rahi zainab ye sada
-  Aakhri baar behan chumle bhai ka gala
+  Shimr ne gardan-e-mazlum pe khanjar jo rakha
+  Kuch qadam dur se deti rahi Zainab ye sada
+  Aakhri baar behan chum le bhai ka gala
   Shimr khanjar na chala
-  Jod kar haat ye kehti rahi binte zehra
+  Jor kar haath ye kehti rahi Zehra
   Shimr khanjar na chala
   Aakhri baar behan...
   Shimr khanjar na...
   Tir ji bhar ke ise maar chuka hai lashkar
   Barchiyaṅ pehlu meiṅ tuti hai sitam aur na kar
-  Khud hi aajayegi kuch dayr meiṅ bhai ko khaza
+  Khud hi aa jaayegi kuch der meiṅ bhai ko qaza
   Shimr khanjar na chala
   Aakhri baar behan...
   Shimr khanjar na...
-  Aakhri mujhse mulaqaat use karni hai
+  Aakhri mujh se mulaqaat use karni hai
   Aisa lagta hai koi baat use karni hai
   Itni hasrat se mujhe dekh raha hai bhaiya
   Shimr khanjar na chala
   Aakhri baar behan...
   Shimr khanjar na...
-  Minnate karti hoo zaalim teri aisa to na kar
+  Minnat karti huṅ zaalim teri aisa to na kar
   Asr ke waqt mere ghar meiṅ andhera to na kar
-  Shaam se pehle bujhaata hai charaghe zehra
+  Shaam se pehle bujhaata hai charaagh-e-Zehra
   Shimr khanjar na chala
   Aakhri baar behan...
   Shimr khanjar na...
-  Ye dil o jaan e rasul e arabi hai zaalim
+  Ye dil o jaan-e-Rasul-e-Arabi hai zaalim
   Saath mazlum ke ye beadabi hai zaalim
-  Misle quran hai ye zaanu tu sine se hata
+  Misl-e-Quraan hai ye zaanu tu sine se hata
   Shimr khanjar na chala
   Aakhri baar behan...
   Shimr khanjar na...
-  Sunke hal min ki sada aayi hai ran meiṅ bachi
-  Chal na jaye kahiṅ dono pe layiṅ teri churi
-  Dekh bhai ke gale par hai sakina ka gala
+  Sun ke hal min ki sada aayi hai ran meiṅ bachi
+  Chal na jaye kahiṅ donoṅ pe laiṅ teri chhuri
+  Dekh bhai ke gale par hai Sakina ka gala
   Shimr khanjar na chala
   Aakhri baar behan...
   Shimr khanjar na...
-  Kaat kar shaam hi le jaane hai sar tujhko agar
-  Phayr le aun o mohamed ke galoṅ par khanjar
+  Kaat kar Shaam hi le jaane hain sar tujh ko agar
+  Pher le Aun o Muhammad ke galoṅ par khanjar
   Mere bhaiya ke na kar jism se tu sar ko juda
   Aakhri baar behan...
   Shimr khanjar na...
-  Dekh sakta nahi tu jo nazar aata hai mujhe
-  Waasta deti hoo tathir ki aayat ka tujhe
-  Haat amma ne hai shabbir ki gardan pe rakha
+  Dekh sakta nahiṅ tu jo nazar aata hai mujhe
+  Waasta deti huṅ Tathir ki aayat ka tujhe
+  Haath ammaṅ ne hai Shabbir ki gardan pe rakha
   Aakhri baar behan...
   Shimr khanjar na...
-  Kaat kar sajde meiṅ akbar shahe waala ka gala
-  Shimr hasta hua shabbir ke sine se utha
-  Gunjti reh gayi maqtal meiṅ ye zainab ki sada
+  Kaat kar sajde meiṅ Akbar Shah-e-Waala ka gala
+  Shimr hansta hua Shabbir ke sine se utha
+  Gunjti reh gayi maqtal meiṅ ye Zainab ki sada
   Aakhri baar behan...
-  Shimr khanjar...
+  Shimr khanjar na...
 ---
 
 ۱

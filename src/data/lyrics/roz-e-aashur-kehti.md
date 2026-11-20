@@ -32,9 +32,9 @@ romanLyrics: |-
   Haaye Asghar mere haaye Asghar
 
   4
-  Tere tishnalabi ke maiṅ waari
-  Ashk ab bhi haiṅ aaṅkhoṅ se jaari
-  Sukhe hoṅtoṅ pe qurbaaṅ ho maadar
+  Tere tishna labi ke maiṅ waari
+  Ashk ab bhi haiṅ aankhoṅ se jaari
+  Sukhe hontoṅ pe qurbaaṅ ho maadar
   Haaye Asghar mere haaye Asghar
 
   5
@@ -63,8 +63,8 @@ romanLyrics: |-
 
   9
   Tum ko dhunduṅ kahaaṅ tum ko paauṅ
-  Rote rote yuṅhi mar na jaauṅ
-  Saaṅs ghutti hai sine ke andar
+  Rote rote yun hi mar na jaauṅ
+  Saans ghutti hai sine ke andar
   Haaye Asghar mere haaye Asghar
 
   10

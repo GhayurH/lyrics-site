@@ -11,77 +11,77 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dhal gayi ashur ki raat
-  Phaili safedi subho ki
-  Roke bola ibne zehra
-  Waqt aaya hai azaṅ ka
-  Ae shabihe mustafa
-  Subhe ashur hai
-  Dede akbar azaṅ
-  Ae shabihe mustafa
+  Dhal gayi Aashur ki raat
+  Phaili safedi subh ki
+  Ro ke bola Ibn-e-Zehra
+  Waqt aaya hai azaaṅ ka
+  Ae shabih-e-Mustafa
+  Subh-e-Aashur hai
+  De de Akbar azaaṅ
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
-  Mere nawjawaṅ
-  De aisi azaṅ
-  Jo pahunche jina
-  Rahe taa jahaṅ
-  Jaane baba
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Mere naujawaaṅ
+  De aisi azaaṅ
+  Jo pahunche jinaaṅ
+  Rahe taa jahaaṅ
+  Jaan-e-baaba
+  Subh-e-Aashur hai...
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
-  Shabihe nabi
-  Yahaṅ hai tu hi
-  Sare karbala
+  Shabih-e-Nabi
+  Yahaaṅ hai tu hi
+  Sar-e-Karbala
   Phuphi ka teri
   Hai ye nauha
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Subh-e-Aashur hai...
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
-  Dil e ghamzada
-  Kare ye buka
+  Dil-e-ghamzada
+  Kare ye bukaa
   Meri jang ki
-  Ho yuṅ ibteda
-  Mere beta
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Ho yuṅ ibtidaa
+  Mere betaa
+  Subh-e-Aashur hai...
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
   Ye gham ka samaaṅ
-  Jo dekha yahaṅ
-  Behan nauhagar
-  Musalle pe maa
-  Boli fizza
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Jo dekha yahaaṅ
+  Behan nauha gar
+  Musalle pe maaṅ
+  Boli Fizza
+  Subh-e-Aashur hai...
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
-  Azaṅ ho to yuṅ
+  Azaaṅ ho to yuṅ
   Mujhe ho sukuṅ
-  Hare ek lafz meiṅ
+  Hare ak lafz meiṅ
   Nazar aaye khuṅ
-  Mere jadd ka
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Mere jad ka
+  Subh-e-Aashur hai...
+  Ae Shabbir Mustafa
   Ae mere kariyal jawaaṅ
-  Azaṅ meiṅ asar
+  Azaaṅ meiṅ asar
   Ho itna pisar
   Rakhe jab hawa
   Use dosh par
-  Sun le sughra
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Sun le Sughra
+  Subh-e-Aashur hai...
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
-  Abhi hai yahaṅ
-  Mere naujawan
-  Sunenge azaṅ
-  Mere nana jaaṅ
-  Tere dada
-  Subhe ashur hai...
-  Ae shabihe mustafa
+  Abhi hai yahaaṅ
+  Mere jawaaṅ
+  Suneṅ ge azaaṅ
+  Mere naanaa jaaṅ
+  Tere daadaa
+  Subh-e-Aashur hai...
+  Ae shabih-e-Mustafa
   Ae mere kariyal jawaaṅ
-  Azaṅ bete ki
-  Jo mazhar suni
+  Azaaṅ bete ki
+  Jo Mazhar suni
   Kaha shaah ne
-  Yehi us ghari
-  Shukre maula
-  Subhe ashur hai...
+  Yahi us ghari
+  Shukr-e-Maula
+  Subh-e-Aashur hai...
 ---
 
 ۱

@@ -13,27 +13,27 @@ aliases: ["Maarfate Karbobala"]
 published: true
 romanLyrics: |-
   Wo jise maarifat-e-Karbobala ho jaaye
-  Us ko Salman ki binaayi ata ho jaaye
+  Is ko Salmaan ki binaayi ataa ho jaaye
 
   1
   Majlisoṅ meiṅ chale aao gham-e-Shabbir karo
-  Ye to wo gham hai ke har gham ki dawa ho jaaye
+  Ye to wo gham hai ke har gham ki dawaa ho jaaye
 
   2
   Dil meiṅ bu-e-gham-e-Shabbir basaaye rakhna
-  Dil ke kuzoṅ se ye khushbu na juda ho jaaye
+  Dil ke kuzoṅ se ye khushbu na judaa ho jaaye
 
   3
-  Zikr-e-Abbas alamdaar kiya kar har dam
-  Taa ke tu waaqif-e-aadaab-e-wafa ho jaaye
+  Zikr-e-Abbaas alamdaar kiya kar har dam
+  Taa ke tu waaqif-e-aadaab-e-wafaa ho jaaye
 
   4
-  Sab Masiha hai Muhammad ke gharaane wale
-  Naam bimaar jo le le to shifa ho jaaye
+  Sab masihaa hai Muhammad ke gharaane wale
+  Naam bimaar jo le le to shifaa ho jaaye
 
   5
   Aag khaimoṅ meiṅ lainoṅ ne laga di dekho
-  Kisi maaṅ se koi bachcha na juda ho jaaye
+  Kisi maaṅ se koi bachcha na judaa ho jaaye
 
   6
   Halq-e-Asghar ko to paani ki zarurat thi magar
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Midhat-e-Aal-e-Muhammad maiṅ na chhoruṅ ga Uruj
-  Mujh se hota hai agar koi khafa ho jaaye
+  Mujh se hota hai agar koi khafaa ho jaaye
 ---
 وہ جسے معرفتِ کربوبلا ہو جائے
 اس کو سلمان کی بینائی عطا ہو جائے

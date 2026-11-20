@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mashk kaandhe pe liye ya ali kehke uthe
-  Dekha jibril ne jab darr gaye kehne lage
-  Dekho abbas chale dekho abbas chale
-  Alqama khair mana wo alamdar e wafa
-  Khaa ke zehra ki qasam saath zainab ki dua
+  Mashk kaandhe pe liye ya Ali kehke uthe
+  Dekha Jibril ne jab dar gaye kehne lage
+  Dekho Abbas chale dekho Abbas chale
+  Alqama khair mana wo alamdar-e-wafa
+  Khaa ke Zehra ki qasam saath Zainab ki dua
   Teri jaanib hai chala kaun rokega use
-  Dekho abbas chale...
+  Dekho Abbas chale...
   Zulfeiṅ wal lail hasham aankheiṅ wan najm baham
-  Tayghe hyder ki tarha doro ab unke the kham
-  Seena tha misle asa baazu parcham se khule
-  Dekho abbas chale...
-  Jab alam unka khul;a hogayi saaf fiza
+  Tegh-e-Haidar ki tarah dauro ab unke the kham
+  Sina tha misl-e-asa baazu parcham se khule
+  Dekho Abbas chale...
+  Jab alam unka khula ho gayi saaf fiza
   Boli panje ki chamak marhaba salle alaa
-  Alqama kehni lagi maut koi na bahe
-  Dekho abbas chale...
-  Daf'atan kaami zamiṅ aagaya sab ko yaqiṅ
-  Lashkare shaam ki ab khairiat koi nahi
-  Al-amaaṅ ki thi sada ghaiz aankhoṅ may liye
-  Dekho abbas chale...
-  Pyase bachoṅ ne kaha tishnagi hogi fana
-  Chal ke qaimon ki taraf aayega ab darya
-  Khaali kuzon ne kaha lelo haathoṅ may mujhe
-  Dekho abbas chale...
-  Thi sakina ki sada mil ke karte hai dua
-  Ya ali kije madad hai jo ghusse may chacha
-  Jaa ke darya pe unhe jang na yaad rahe
-  Dekho abbas chale...
-  Nagahaan shor hua sher ghore se gira
-  Aas bachoṅ ki gayi jab alam jhukne laga
-  Jhuk gayi sheh ki kamar ro ke farmane lage
-  Dekho abbas chale...
-  Ghash sakina ko hua khaak pe kooza gira
-  Khud ba khud girne lagi sar se zainab ki rida
-  Boli darbaar may ab mai pukarungi kise
-  Dekho abbas chale...
-  Waqt rehaan tha kya ho ke bebaazu gira
-  Saahil e zulm pe jab wo alamdar e wafa
-  Haye us waqt raza keh ke shabbir gire
-  Dekho abbas chale...
+  Alqama kehne lagi maut koi na bahe
+  Dekho Abbas chale...
+  Dafatan kaanpi zamiṅ aa gaya sab ko yaqiṅ
+  Lashkar-e-Shaam ki ab khairiyat koi nahiṅ
+  Al-amaaṅ ki thi sada ghaiz aankhoṅ mein liye
+  Dekho Abbas chale...
+  Pyaase bachchoṅ ne kaha tishnagi hogi fana
+  Chal ke khaimoṅ ki taraf aayega ab darya
+  Khaali kuzon ne kaha le lo haathoṅ mein mujhe
+  Dekho Abbas chale...
+  Thi Sakina ki sada mil ke karte haiṅ dua
+  Ya Ali kijiye madad hai jo ghusse mein chacha
+  Jaa ke darya pe unheiṅ jang na yaad rahe
+  Dekho Abbas chale...
+  Naagaah shor hua sher ghore se gira
+  Aas bachchoṅ ki gayi jab alam jhukne laga
+  Jhuk gayi shah ki kamar ro ke farmane lage
+  Dekho Abbas chale...
+  Ghash Sakina ko hua khaak pe kuza gira
+  Khud ba khud girne lagi sar se Zainab ki rida
+  Boli darbaar mein ab main pukaaruṅgi kise
+  Dekho Abbas chale...
+  Waqt Rehaan tha kya ho ke bebaazu gira
+  Saahil-e-zulm pe jab wo alamdar-e-wafa
+  Haaye us waqt Raza keh ke Shabbir gire
+  Dekho Abbas chale...
 ---
 
 ۱

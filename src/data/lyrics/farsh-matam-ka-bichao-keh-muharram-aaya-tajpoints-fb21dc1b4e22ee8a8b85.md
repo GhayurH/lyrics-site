@@ -1,35 +1,60 @@
 ---
-title: "Farsh Matam Ka Bichao Keh Muharram Aaya"
+title: "فرشِ ماتم کا بچھاؤ کہ محرم آیا"
+alternateTitle: "Farsh Matam Ka Bichao Keh Muharram Aaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Farman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Farsh matam ka bichao keh Muharram aaya
+  Gham Sheh-e-Deen ka manao keh Muharram aaya
+  Ali Akbar ki judai ne hai mara iss ko
+  Ab na Sughra ko rulao keh Muharram aaya
+
+  2
+  Ba-khuda ajar-e-risalat hai Hussaini matam
+  Farz tum apna nibhao keh Muharram aaya
+  Yaad kar kar ke har ik tashna dahan ko logo
+  Pani piyason ko pilao keh Muharram aaya
+
+  3
+  Bikhrey they dasht mein Quran ke parey kaisay
+  Yad mein aansu bhao keh Muharram aaya
+  Kis tarha ghar hai yeh Sadaat ka veeran howa
+  Apne bacho ko batao keh Muharram aaya
+
+  4
+  Lashay pamaal howay khaimay sabhi rakh howay
+  Pursa Zahra ko do aao keh Muharram aaya
+  Waqt-e-zibha bhi kissi ne nahi paya pani
+  Noha Farman sunao keh Muharram aaya
 ---
 
-1
-Farsh Matam Ka Bichao Keh Muharram Aaya.
-Gham Sheh-e-Deen Ka Manao Keh Muharram Aaya.
-Ali Akbar Ki Judai Ne Hai Mara Iss Ko.
-Ab Na Sughra Ko Rulao Keh Muharram Aaya.
+۱
+فرشِ ماتم کا بچھاؤ کہ محرم آیا
+غمِ شہِ دیں کا مناؤ کہ محرم آیا
+علی اکبر کی جدائی نے ہے مارا اس کو
+اب نہ صغریٰ کو رلاؤ کہ محرم آیا
 
-2
-Ba-Khuda Ajar-e-Risalat Hai Hussaini Matam.
-Farz Tum Apna Nibhao Keh Muharram Aaya.
-Yaad Kar Kar Ke Har Ik Tashna Dahan Ko Logo.
-Pani Piyason Ko Pilao Keh Muharram Aaya.
+۲
+باخدا اجرِ رسالت ہے حسینی ماتم
+فرض تم اپنا نبھاؤ کہ محرم آیا
+یاد کر کر کے ہر اک تشنہ دہن کو لوگو
+پانی پیاسوں کو پلاؤ کہ محرم آیا
 
-3
-Bikhrey They Dasht Mein Quran Ke Parey Kaisay.
-Yad Mein Aansu Bhao Keh Muharram Aaya.
-Kis Tarha Ghar Hai Yeh Sadaat Ka Veeran Howa.
-Apne Bacho Ko Batao Keh Muharram Aaya.
+۳
+بکھرے تھے دشت میں قرآن کے پارے کیسے
+یاد میں آنسو بہاؤ کہ محرم آیا
+کس طرح گھر ہے یہ سادات کا ویراں ہوا
+اپنے بچوں کو بتاؤ کہ محرم آیا
 
-4
-Lashay Pamaal Howay Khaimay Sabhi Rakh Howay.
-Pursa Zahra Ko Do Aao Keh Muharram Aaya.
-Waqt-e-Zibha Bhi Kissi Ne Nahi Paya Pani.
-Noha Farman Sunao Keh Muharram Aaya.
+۴
+لاشے پامال ہوئے خیمے سبھی راکھ ہوئے
+پرسہ زہرا کو دو آؤ کہ محرم آیا
+وقتِ ذبح بھی کسی نے نہیں پایا پانی
+نوحہ فرمان سناؤ کہ محرم آیا

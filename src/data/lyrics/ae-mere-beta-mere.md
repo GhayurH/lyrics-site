@@ -12,43 +12,43 @@ tags: []
 aliases: ["Ay Mere Beta Mere"]
 published: true
 romanLyrics: |-
-  Ae mere beta mere pyare Ali Asghar
-  Nur-e-nazar maaṅ ke dulare Ali Asghar
+  Ae mere beta mere pyaare Ali Asghar
+  Nur-e-nazar maaṅ ke dulaare Ali Asghar
 
   1
-  Gham teri furqat ka mujhe kha gaya beta
+  Gham teri furqat ka mujhe khaa gaya beta
   Tere bina maaṅ ka teri ji nahiṅ lagta
-  Aao ye maaṅ tum ko pukare Ali Asghar
+  Aao ye maaṅ tum ko pukaare Ali Asghar
 
   2
-  Roti hui Bano-e-muztar ye pukari
-  Chain hua khatm gayi raunaqeiṅ saari
+  Roti hui Baano-e-muztar ye pukaari
+  Chain hua khatm gayi raunaqeṅ saari
   Jab se tum is ghar se sidhaare Ali Asghar
 
   3
-  Tu hi bata kis ke maiṅ ab naaz uthauṅ
-  Jhula jhulauṅ kise lori sunauṅ
-  Ab maiṅ jiyuṅ kis ke sahare Ali Asghar
+  Tu hi bata kis ke maiṅ ab naaz uthaauṅ
+  Jhulaa jhutlaauṅ kise lori sunaauṅ
+  Ab maiṅ jiyuṅ kis ke sahaare Ali Asghar
 
   4
-  Dil meiṅ tha armaan ke tu dulha banega
-  Laal mere sar pe tere sehra sajega
-  Reh jaye armaan wo saare Ali Asghar
+  Dil meiṅ tha armaan ke tu dulhaa bane ga
+  Laal mere sar pe tere sehraa saje ga
+  Reh jaaye armaan wo saare Ali Asghar
 
   5
-  Roti rahi na suni faryad kisi ne
-  Teri behan pyari Sakina ko shaqi ne
-  Haye tamaanche bhi haiṅ maare Ali Asghar
+  Roti rahi na suni faryaad kisi ne
+  Teri behan pyaari Sakina ko shaqi ne
+  Haaye tamaanche bhi haiṅ maare Ali Asghar
 
   6
   Aa ke zara dekh ae Ghazi ke bhatije
-  Le gaye chadar bhi sitamgar mere sar se
-  Jal gaye khaime bhi hamare Ali Asghar
+  Le gaye chaadar bhi sitamgar mere sar se
+  Jal gaye khaime bhi hamaare Ali Asghar
 
   7
-  Fakhr hai mujh ko maiṅ huṅ Shabbir ka zakir
-  Ab koi duniya ka mujhe dar nahiṅ Yasir
-  Aap haiṅ jab mere sahare Ali Asghar
+  Fakhr hai mujh ko maiṅ huṅ Shabbir ka zaakir
+  Ab koi duniya ka mujhe dar nahiṅ Yaasir
+  Aap haiṅ jab mere sahaare Ali Asghar
 ---
 اے میرے بیٹا میرے پیارے علی اصغر
 نور نظر ماں کے دلارے علی اصغر

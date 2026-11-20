@@ -15,7 +15,7 @@ romanLyrics: |-
   Ye ro ke kehti thi Umm-e-Rabab maqtal meiṅ
   Kahaṅ pe sote ho maaṅ ke baghair jangal meiṅ
 
-  Ae mere chaand meri aaṅkh ke taare Asghar
+  Ae mere chaand meri aankh ke taare Asghar
   Karbala aayi thi maiṅ tere bharose Asghar
 
   1
@@ -24,23 +24,23 @@ romanLyrics: |-
   Maaṅ bhala teri nazar kaise utaare Asghar
 
   2
-  Haath Shabbir ki gardan pe rakhe the jaise
+  Haath Shabbir ki gardan pe rakkhe the jaise
   Tir bhi chalte hue
   Fatema aa ke khari thi tere aage Asghar
 
   3
   Tum bhi Abbas ho Kausar pe nahiṅ jaana abhi
   Laaj rakh lena meri
-  Hai abhi Ahl-e-haram dasht meiṅ pyase Asghar
+  Hai abhi ahl-e-haram dasht meiṅ pyaase Asghar
 
   4
-  Tir ek baar to ek baar chalaye khanjar
+  Tir ek baar to is baar chalaaye khanjar
   Mere mazlum pisar
   Zibh do baar hua koi na aise Asghar
 
   5
-  Tum ne haṅs haṅs ke rulaya tha jinheiṅ mere pisar
-  Haye pathar le kar
+  Tum ne hans hans ke rulaaye tha jinheiṅ mere pisar
+  Haye patthar le kar
   Ab Sakina se wohi lete hai badle Asghar
 
   6
@@ -51,12 +51,12 @@ romanLyrics: |-
   7
   Tir khaate hue khud dekha hai maiṅ ne tum ko
   Ab to ye zulm na ho
-  Koi pathar na lage sar pe tumhare Asghar
+  Koi patthar na lage sar pe tumhare Asghar
 
   8
   Pusht-e-khaima pe banate the lahad teri padar
   Jhuk gayi meri kamar
-  Chand lamhoṅ ko teri laash utha ke Asghar
+  Chand lamhoṅ ko teri laash uthaa ke Asghar
 
   9
   Laash uthaani hai mujhe baali Sakina ki abhi

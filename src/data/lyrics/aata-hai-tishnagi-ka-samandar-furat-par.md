@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   Aata hai tishnagi ka samandar Furat par
-  Tazeem mojein karti hain uth kar Furat par
+  Tazim mojeṅ karti haiṅ uth kar Furat par
 
   1
-  Youn dosh par uthaye hai mashkeeza ba-wafa
-  Jaise khare hoon fatahe Kahibar Furat par
-  Pani ko dekhta nahi Allah re wafa
-  Pyasa khara hai shair-e-dilawar Furat par
+  Yuṅ dosh par uthaaye hai mashkiza bawafa
+  Jaise khare hoṅ faateh-e-Khaibar Furat par
+  Paani ko dekhta nahiṅ, Allah re wafa
+  Pyaasa khara hai sher-e-dilaawar Furat par
 
   2
-  Ab kis mein dam hai cheene jo mahar-e-Batool ko
-  Rehta hai ibn-e-saqi-e-Kausar Furat par
-  Pehle hata tha shair woh hukam-e-Imam tha
+  Ab kis meṅ dam hai chhine jo mahaar-e-Batul ko
+  Rehta hai ibn-e-saaqi-e-Kausar Furat par
+  Pehle hata tha sher, woh hukm-e-Imaam tha
   Ab aa ke dekhe koi sitamgar Furat par
 
   3
-  Sahil pe aa ke lehrein bhi dam toorne lagin
-  Tari hai aisa roab Ghazanfar Furat par
-  Yeh keh ke hath chomein hain ghazi ke ishq ne
-  Gara hai tu ne parcham-e-Haider Furat par
+  Saahil pe aa ke lehreṅ bhi dam torne lagiṅ
+  Taari hai aisa raub-e-Ghazanfar Furat par
+  Yeh keh ke haath chumeṅ haiṅ ghaazi ke ishq ne
+  Gaara hai tu ne parcham-e-Haider Furat par
 
   4
-  Ghazi ko de dua tujhe ruswa nahi kiya
-  Ab mustaqil hai pyas tera ghar Furat par
-  Aab-e-hayat lene Takallum dalear se
-  Aate hain Khizar jaise payamber Furat par
+  Ghaazi ko de dua, tujhe ruswa nahiṅ kiya
+  Ab mustaqil hai pyaas, tera ghar Furat par
+  Aab-e-hayaat lene Takallum daler se
+  Aate haiṅ Khizar jaise payambar Furat par
 ---
 
 آتا ہے تشنگی کا سمندر فرات پر

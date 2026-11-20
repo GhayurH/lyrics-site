@@ -12,43 +12,43 @@ published: false
 romanLyrics: |-
   1
   Ujar gaye sadaat
-  Ho na saka phir shaad bhara ghar zehra ka
-  Aisa hua barbaad bhara ghar zehra ka
-  Chehel pehel jab ghar aangan meiṅ hoti hai
+  Ho na saka phir shaad bhara ghar Zehra ka
+  Aisa hua barbaad bhara ghar Zehra ka
+  Chehel pehel jab aangan meiṅ hoti hai
   Tanhaai saaye se lipat kar roti hai
-  Aa jaata hai yaad bhara ghar zehra ka
+  Aa jaata hai yaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Khun meiṅ duba mashkeeza hai parcham hai
-  Jangal hai pyase bacche hai matam hai
-  Gham ki hai rudad bhara ghar zehra ka
+  Khun meiṅ duba mashkiza hai parcham hai
+  Jangal hai pyaase bachche haiṅ maatam hai
+  Gham ki hai rudaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Qatl huwe sab koi nahi hamdardoṅ meiṅ
+  Qatl hue sab koi nahiṅ hamdardoṅ meiṅ
   Ghash se utho ek tum hi bache ho mardoṅ meiṅ
-  Ujar gaya sajjad bhara ghar zehra ka
+  Ujar gaya Sajjaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Qaimon meiṅ kuch bhi na bacha ashur ke din
-  Aaj aisa taaraaj hua ashur ke din
-  Phir na hua aabaad bhara ghar zehra ka
+  Khaimoṅ meiṅ kuch bhi na bacha Aashur ke din
+  Aaj aisa taaraaj hua Aashur ke din
+  Phir na hua aabaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Dubi hai ashkoṅ meiṅ duayeiṅ ek maa ki
-  Aati hai maqtal meiṅ sadayeiṅ ek maa ki
-  Maut na kar barbaad bhara ghar zehra ka
+  Dubi hai ashkoṅ meiṅ duaaeṅ ek maaṅ ki
+  Aati hai maqtal meiṅ sadaaeṅ ik maaṅ ki
+  Maut na kar barbaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Pyasoṅ ki har chiz jala di qaimon meiṅ
-  Bedardon ne lut macha di qaimon meiṅ
-  Karta raha faryad bhara ghar zehra ka
+  Pyaasoṅ ki har chiz chalaa di khaimoṅ meiṅ
+  Bedardoṅ ne lut macha di khaimoṅ meiṅ
+  Karta raha faryaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Ab na watan meiṅ qasim akbar lautenge
-  Ek faqad bas abid-e-muztar lautenge
-  Sughra mat kar yaad bhara ghar zehra ka
+  Ab na watan meiṅ Qaasim Akbar lauteṅ ge
+  Ik faqat bas Aabid-e-Muztar lauteṅ ge
+  Sughra mat kar yaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Tauq gale meiṅ hai pairoṅ meiṅ zanjireiṅ
-  Ghum rahi hai aankhoṅ meiṅ sab tasvireiṅ
-  Bhule nahi sajjad bhara ghar zehra ka
+  Tauq gale meiṅ hai pairoṅ meiṅ zanjireṅ
+  Ghum rahi hai aankhoṅ meiṅ sab tasvireṅ
+  Bhule nahiṅ Sajjaad bhara ghar Zehra ka
   Aisa hua barbaad...
-  Hai aankhoṅ meiṅ khun ke manzar aaj talak
-  Gham ki qaid se aamir o akhtar aaj talak
-  Ho na saka azaad bhara ghar zehra ka
+  Hai aankhoṅ meiṅ khun manzar aaj talak
+  Gham ki qaid se Aamir o Akhtar aaj talak
+  Ho na saka aazaad bhara ghar Zehra ka
   Aisa hua barbaad...
 ---
 

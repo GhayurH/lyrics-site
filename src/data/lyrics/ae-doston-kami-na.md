@@ -21,7 +21,7 @@ romanLyrics: |-
   Chehre pe khaak baal pareshaaṅ kiye hue
   Godi meiṅ ek nanha sa laasha liye hue
   Goya ye keh rahi hai Batul-e-falak maqaam
-  Ae bewatan ke taaziyadaroṅ mera salaam
+  Ae bewatan ke taaziya daaroṅ mera salaam
 
   2
   Matlab ye hai ke aaj majaalis hui tamaam
@@ -44,18 +44,18 @@ romanLyrics: |-
   5
   Farsh-e-aza lapet ke rakho alam barhaao
   Das din ka mehmaan chala taaziya uthaao
-  Ashkoṅ ki nazr de ke Imam-e-anaam ko
+  Ashkoṅ ki nazar de ke Imam-e-anaam ko
   Rukhsat karo Husain alaihis salaam ko
 
   6
   Ro kar kaho ke ae Shah-e-abraar alwida
   Ae kaarwaan-e-dard ke saalaar alwida
   Ae ummat-e-Rasul ke ghamkhwaar alwida
-  Karyal jawaaṅ pisar ke azaadaar alwida
+  Karil jawaaṅ pisar ke azaadaar alwida
 
   7
   Kya jaane agle saal jiye ya mareṅ ge hum
-  Par qabr meiṅ bhi taaziyadaari kareṅ ge hum
+  Par qabr meiṅ bhi taaziya daari kareṅ ge hum
   Ae bedayaar o besar o saamaan alwida
   Ae ummat-e-Rasul ke mehmaan alwida
 

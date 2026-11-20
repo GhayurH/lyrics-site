@@ -16,14 +16,14 @@ romanLyrics: |-
   Ghul hua ke ghash aaya khalaf-e-Haider ko
   Aur phir Shimr barha kheṅche hue khanjar ko
   Sab se kehta tha ke kaatuṅ ga sar-e-Sarwar ko
-  Muṅh na maiṅ daulat-e-dunya se kabhi pheruṅ ga
+  Muṅh na main daulat-e-dunya se kabhi pheruṅ ga
   Aaj Zahra ke kaleje pe chhuri pheruṅ ga
 
-  Aayi sada-e-Fatima tars itna to khaa le zaalim
-  Maiṅ maa huṅ pyaase Husain ki
+  Aayi sada-e-Fatima taras itna to khaa le zaalim
+  Main maa huṅ pyaase Husain ki
 
-  Na khanjar chala Ae zaalim is ko paani pila de zaalim
-  Maiṅ maa huṅ pyaase Husain ki
+  Na khanjar chala ae zaalim is ko paani pila de zaalim
+  Main maa huṅ pyaase Husain ki
 
   1
   Chumte the Payambar jise wo gala
@@ -34,30 +34,30 @@ romanLyrics: |-
   2
   Is ko mehmaan bula kar sataate ho kiuṅ
   Mere bachche pe khanjar chalaate ho kiuṅ
-  Tars itna to khaa Ae zaalim
+  Taras itna to khaa ae zaalim
   Mera dil na dukha ya zaalim
 
   3
   Kaise paala hai is ko tujhe kya khabar
-  Mere haathoṅ ke chhaale hue nauhagar
+  Mere haathoṅ ke chhaale hue nauha gar
   Kaise dekhuṅ bata de sitamgar
   Apne bachche ki gardan pe khanjar
 
   4
-  Chakkiyaaṅ pis kar maiṅ ne paal jise
+  Chakkiyaaṅ pis kar main ne paal jise
   Kya bana hai ye khanjar isi ke liye
   Qatl karna hi hai gar che tujh ko
   Dasht se dur jaane de mujh ko
 
   5
-  Apne pehlu meiṅ is ko sulaati rahi
+  Apne pehlu mein is ko sulaati rahi
   Is ki raahoṅ se kaaṅte hataati rahi
   Aaj is ke gale pe khanjar
   Kaise dekhuṅ bata de sitamgar
 
   6
-  Loriyaaṅ is ko deti thi maiṅ raat bhar
-  Kitni raateṅ guzaari hai yuṅ jaag kar
+  Loriyaaṅ is ko deti thi main raat bhar
+  Kitni raateṅ guzarti hai yuṅ jaag kar
   Kab se soya nahiṅ dilbar
   Bojh bas hai yehi mere dil par
 
@@ -71,7 +71,7 @@ romanLyrics: |-
   Maa ki faryaad Farhan kya ho bayaaṅ
   Chashm-e-Mazhar se hai khuṅ ka gajra rawaaṅ
   Chal gaya ibn-e-Haider pe khanjar
-  Nauha karti rahi ban meiṅ maadar
+  Nauha karti rahi ban mein maadar
 ---
 جب تڑپنے کی بھی طاقت نہ رہی سرور کو
 غل ہوا کہ غش آیا خلفِ حیدر کو

@@ -8,40 +8,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Dasht may goonj rahi thi Ali Akbar ki azaan
-  Haey jhulta di laeno ne Muhammad ki zubaan
+  Dasht mein gunj rahi thi Ali Akbar ki azaaṅ
+  Haaye jhutla di la'inoṅ ne Muhammad ki zubaaṅ
 
   1
-  Waqt e rukhsat Ali Akbar se ye Zainab ne kaha
-  Tum pe qurban zamana aey meri raahat e jaan
+  Waqt-e-rukhsat Ali Akbar se ye Zainab ne kaha
+  Tum pe qurbaan zamaana, ae meri raahat-e-jaaṅ
 
   2
-  Aisi azaan parrhi Karbo bala ronay lagi
-  Cha gayi sham e gharibaan may ye pyason ki fughan
+  Aa ke le jaana mujhe ro ke ye Sughra ne kaha
+  Sar pe jab sehra sajaana, ae mere bhaai jaaṅ
 
   3
-  Ashk Shabbir ki ankhon se to rukhtay hi nahi
-  Haey takhti thi ke jaise koi parrhta ho quraan
+  Aisi azaan parhi Karb o Bala rone lagi
+  Chha gayi shaam-e-gharibaaṅ mein ye pyaasoṅ ki fughaaṅ
 
   4
-  Allah Allah meray jazbat bikhar jaatay hain
-  Ro ke Zainab ye pukari koi day mujh ko amaan
+  Ashk Shabbir ki aaṅkhoṅ se to rukte hi nahiṅ
+  Bhaai takti thi ke jaise koi parhta ho Quraaṅ
 
   5
-  Joarr kar hathon ko Akbar se Sakina ne kaha
-  Bhayya meray ho fida tum pe meri nanhi si jaan
+  Allah Allah mere jazbaat bikhar jaate haiṅ
+  Ro ke Zainab ye pukaari, koi de mujh ko amaaṅ
 
   6
-  Ik talatum tha bapa foaj e sitamgaron may
-  Meri awaz may hota tha Muhammad ka gumaan
+  Jor kar haathoṅ ko Akbar se Sakina ne kaha
+  Bhayya mere ho fida tum pe meri nanhi si jaaṅ
 
   7
-  Sun ke azaan Madinay may wo tarrpi ho gi
-  Jis ki nazron may hain Akbar teray qadmo ke nishaan
+  Ik talaatum tha bapa fauj-e-sitamgaaroṅ mein
+  Meri aawaaz mein hota tha Muhammad ka gumaaṅ
 
   8
-  Aaj jo Allaho Akbar ki sada goojti hay
-  Us ko Yawar khoon e Akbar ne kiya phir se jawan
+  Sun ke azaan Madine mein wo tarpi ho gi
+  Jis ki nazroṅ mein haiṅ Akbar tere qadmoṅ ke nishaaṅ
+
+  9
+  Aaj jo Allahu Akbar ki sada gunjti hai
+  Is ko Yaawar khun-e-Akbar ne kiya phir se jawaaṅ
 ---
 
 دشت میں گونج رہی تھی علی اکبرؑ کی اذاں

@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Arbaeen hai rah-e-ishq par aao paidal chalo momino
+  Arbain hai raah-e-ishq par aao paidal chalo momino
   Sheh ki ulfat mein kham kar ke sar aao paidal chalo momino
-  Pao gay iss safar ki jaza
-  Yani pohancho gay tum Karbala
+  Paao ge is safar ki jaza
+  Yaani pahuncho ge tum Karbala
   Apni manzil pe rakh kar nazar
 
   2
-  Tham kar ba wafa ka alam
-  Dil mein rakh kar shaheedon ka gham
+  Thaam kar bawafa ka alam
+  Dil mein rakh kar shahidoṅ ka gham
   Aal se tum ko ulfat hai gar
 
   3
-  Pair mein jo parin aablay
-  Phool ulfat ke hoon gay khilay
-  Hoon gay taskheer sab behar-o-bar
+  Pair mein jo pareṅ aable
+  Phul ulfat ke hoṅ ge khile
+  Hoṅ ge taskhir sab bahr o bar
 
   4
   Aisa mashi ka ho silsila
   Har zameen aaj ho Karbala
-  Shehar mein gaon mein har nagar
+  Shehar mein gaaoṅ mein har nagar
 
   5
-  Bint-e-Shabeer paidal chali
-  Yaad mein oss ki ab tu sabhi
-  Le ke humrah dukhtar pisar
+  Bint-e-Shabbir paidal chali
+  Yaad mein us ki ab to sabhi
+  Le ke hamraah dukhtar, pisar
 
   6
-  Woh jo darpaish Zainab ko tha
-  Jis mein rotay they Zain Al-Abba
-  Bhool jana na tum woh safar
+  Woh jo darpesh Zainab ko tha
+  Jis mein rote the Zain al-Aba
+  Bhul jaana na tum woh safar
 
   7
-  Keh do Izhar bas tum yehi
+  Keh do Izhaar bas tum yahi
   Sheh ka chehlum hai mil kar sabhi
-  Sath mein le ke sab ghar ka ghar
+  Saath mein le ke sab ghar ka ghar
 ---
 
 ۱

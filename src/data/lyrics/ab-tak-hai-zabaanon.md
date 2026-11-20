@@ -12,50 +12,50 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae jaan o dil-e-Haider-e-Karrar Alamdar
-  Zinda hai jahaaṅ meiṅ tere aasar Alamdar
-  Mashk o alam ab bhi haiṅ khunbar Alamdar
-  Ab tak hai zabaanoṅ pe Alamdar Alamdar
+  Ae jaan o dil-e-Haider-e-Karraar Alamdaar
+  Zinda hai jahaaṅ meiṅ tere aasaar Alamdaar
+  Mashk o alam ab bhi haiṅ khuṅ baar Alamdaar
+  Ab tak hai zabaanoṅ pe Alamdaar Alamdaar
 
   1
   Lehreṅ abhi leta hai fiza meiṅ tera parcham
   Parcham se numayaṅ hai wafa ka teri aalam
-  Bhulegi na dunya tera isar Alamdar
+  Bhulegi na dunya tera isaar Alamdaar
 
   2
   Darya-e-mohabbat meiṅ rawaṅ hai teri kashti
   Bachche teri taqlid meiṅ bante haiṅ bahishti
-  Zahir hai Sakina se jo tha pyar Alamdar
+  Zahir hai Sakina se jo tha pyaar Alamdaar
 
   3
   Darya pe raha yaad mohabbat ka qarina
-  Woh pyaas meiṅ do roz ki pani ka na pina
-  Yaad aati hai ye manzil-e-dushwar Alamdar
+  Woh pyaas meiṅ do roz ki paani ka na pina
+  Yaad aati hai ye manzil-e-dushwaar Alamdaar
 
   4
   Kya sina sipar mashk-e-Sakina ka raha tu
   Ik tir na aane diya jab tak rahe baazu
-  Is shaan se chamki teri talwar Alamdar
+  Is shaan se chamki teri talwaar Alamdaar
 
   5
-  Tujh se hi Sakina ko tha pani ka sahara
+  Tujh se hi Sakina ko tha paani ka sahara
   Kya jaane ye kis dard se tha us ne pukara
-  Ae lashkar-e-Shabbir ke Jarrar Alamdar
+  Ae lashkar-e-Shabbir ke Jarraar Alamdaar
 
   6
   Kis shaan se Baba ka alam tu ne uthaya
   Himmat ne tujhe zinda-e-javed banaya
-  Raas aaya hai kya mansab-e-Karrar Alamdar
+  Raas aaya hai kya mansab-e-Karraar Alamdaar
 
   7
-  Tewar pe fida tashnadahani pe tasadduq
-  Millat ke jawaaṅ teri jawani pe tasadduq
-  Sab teri mohabbat meiṅ haiṅ sarshar Alamdar
+  Tewar pe fida tashna dahaani pe tasadduq
+  Millat ke jawaaṅ teri jawaani pe tasadduq
+  Sab teri mohabbat meiṅ haiṅ sarshaar Alamdaar
 
   8
-  Sadiyoṅ se hai kandhe pe alam tera uthae
-  Haaṅ ek nigah-e-lutf Yadullah ke jaaye
-  Himmat hai diloṅ meiṅ teri darkar Alamdar
+  Sadiyoṅ se hai kandhe pe alam tera uthaae
+  Haaṅ ik nigaah-e-lutf Yadullah ke jaae
+  Himmat hai diloṅ meiṅ teri darkaar Alamdaar
 ---
 اے جان و دلِ حیدرِ کرار علمدار
 زندہ ہے جہاں میں تیرے آثار علمدار

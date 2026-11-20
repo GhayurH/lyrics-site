@@ -12,44 +12,44 @@ aliases: []
 published: true
 reciter: "Mir Sajjad Mir"
 romanLyrics: |-
-  Haye Haye jawaaṅ Akbar jawaaṅ Akbar jawaaṅ Akbar jawaaṅ
-  Khaimoṅ meiṅ ek kohram hai roti haiṅ saari Bibiyaṅ
-  Haye Haye jawaaṅ Akbar jawaaṅ Akbar jawaaṅ Akbar jawaaṅ
+  Haye haye jawaaṅ Akbar jawaaṅ Akbar jawaaṅ Akbar jawaaṅ
+  Khaimoṅ mein ek kohraam hai roti hai saari bibiyaaṅ
+  Haye haye jawaaṅ Akbar jawaaṅ Akbar jawaaṅ Akbar jawaaṅ
 
   1
   Awaaz di mazlum ne Nana madad ko aaiye
   Kariyal jawaaṅ ki laash hai Baba madad ko aaiye
-  Sine meiṅ mere laal ke tori hai qaatil ne sinaṅ
+  Sine mein mere laal ke tori hai qaatil ne sinaaṅ
 
   2
   Ghurbat pe ab Shabbir ki hansti hai fauj-e-ashqiya
-  Maiṅ khaa raha huṅ thokareṅ milta nahiṅ laasha tera
-  Akbar mujhe awaaz do tum gir gaye ran meiṅ kahaṅ
+  Main khaa raha huṅ thokareṅ milta nahiṅ laasha tera
+  Akbar mujhe awaaz do tum gir gaye ran mein kahaaṅ
 
   3
   Akbar utho baateṅ karo aise nahiṅ khamosh hoṅ
   Kya dard hai hum se kaho mat haath sine par rakho
-  Hum ko batao kya hua ragro na beta eriyaṅ
+  Hum ko batao kya hua ragro na beta eriyaaṅ
 
   4
   Baba ki jaan himmat karo tum to hamaare sher ho
   Ye dard kam ho jaega Ya Fatima kehte raho
-  Nad-e-Ali parh kar abhi hum khinch lete haiṅ sinaṅ
+  Naad-e-Ali parh kar abhi hum khinch lete haiṅ sinaaṅ
 
   5
-  Kariyal jawaaṅ lasha koi jab bhi kisi ghar se utha
-  Lashe se apne laal ke jab maaṅ na ho pai juda
+  Kariyal jawaaṅ laasha koi jab bhi kisi ghar se utha
+  Laashe se apne laal ke jab maaṅ na ho paai juda
   Dil ne tarap kar di sada Haye Ali Akbar ki maaṅ
 
   6
   Bachpan se tum ne aaj tak Baba se kuchh maanga nahiṅ
-  Ab paani tum ko chahiye aur maiṅ pila sakta nahiṅ
-  Tum se zyaada khushk hai beta hamaari khud zabaṅ
+  Ab paani tum ko chahiye aur main pila sakta nahiṅ
+  Tum se zyaada khushk hai beta hamaari khud zabaaṅ
 
   7
   Sajjad ye rote hue aai sada-e-Fatima
-  Khaime meiṅ laasha le chalo jaldi se apne laal ka
-  Aisa na ho beta kahiṅ Zainab bhi aa jae yahaṅ
+  Khaime mein laasha le chalo jaldi se apne laal ka
+  Aisa na ho beta kahiṅ Zainab bhi aa jae yahaaṅ
 ---
 
 ہائے ہائے جواں اکبر جواں اکبر جواں اکبر جواں

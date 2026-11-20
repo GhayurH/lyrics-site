@@ -11,88 +11,88 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Yaadgaar e karbala hai ye alam abbas ka
-  Aaj bhi lehra raha hai ye alam abbas ka
-  E sher e nayastane hyder
+  Yaadgaar-e-Karbala hai ye alam Abbas ka
+  Aaj bhi lehra raha hai ye alam Abbas ka
+  Ae sher-e-Nayastaan-e-Haidar
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
-  Aap dikhlate ho dunya ko wafa ka raasta
-  Aap bulwaate ho ghazi zaairoṅ ko karbala
-  Aap milwaate ho shaahe karbala se bakhuda
-  Hum sab ka waseela ya abbas
-  Hua sab ka wazeefa ya abbas
+  Aap dikhlaate ho dunya ko wafa ka raasta
+  Aap bulwaate ho ghazi zaairoṅ ko Karbala
+  Aap milwaate ho shaah-e-Karbala se bakhuda
+  Hum sab ka waseela ya Abbas
+  Hua sab ka wazeefa ya Abbas
   Sab ne dil se maana hai
   Is alam ko uncha rakhna hai
-  Ali ke nure ain
-  Ummul baneen ke chain
-  Ae jaane Husain
+  Ali ke nur-e-ain
+  Ummul Banin ke chain
+  Ae jaan-e-Husain
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
-  Maula abbas ya abbas ya abbas ya abbas
-  Ye khuda hai waseela sab ka pyara hai alam
-  Ghamzada logoṅ ka dunya meiṅ sahara hai alam
+  Maula Abbas ya Abbas ya Abbas ya Abbas
+  Ye Khuda hai waseela sab ka pyara hai alam
+  Ghamzada logoṅ ka dunya mein sahara hai alam
   Bakhuda hai naaz humko ye hamara hai alam
-  Jo alam pe aaya ya abbas
-  Jo maanga wo paaya ya abbas
+  Jo alam pe aaya ya Abbas
+  Jo maanga wo paaya ya Abbas
   Alam pe jaate rehna hai
   Is alam ko uncha rakhna hai
-  E sher e nayastane hyder
+  Ae sher-e-Nayastaan-e-Haidar
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
-  Maula abbas ya abbas ya abbas ya abbas
-  Aaj charcha hai jahaṅ meiṅ jaa baja abbas ka
-  Aaj har bazme wafa meiṅ tazkira abbas ka
-  Bakhuda har khaum meiṅ har bawafa abbas ka
-  Har dil meiṅ hai rehta dil meiṅ dharakta
-  Dil meiṅ hamare rehna hai
+  Maula Abbas ya Abbas ya Abbas ya Abbas
+  Aaj charcha hai jahaṅ mein jaa baja Abbas ka
+  Aaj har bazm-e-wafa mein tazkira Abbas ka
+  Bakhuda har qaum mein har bawafa Abbas ka
+  Har dil mein rehta, dil mein dharakta
+  Dil mein hamare rehna hai
   Is alam ko uncha rakhna hai
-  Bechain hai kiuṅ betaab hai kiuṅ
-  Kiuṅ dil par apne boj liye
-  Chup chaap ghamo ko sehta hai
-  Tu pursadaar hai ghazi ka
-  Chal aaj alam par chalte hai
+  Bechain hai kiuṅ, betaab hai kiuṅ
+  Kiuṅ dil par apne bojh liye
+  Chup chaap ghamoṅ ko sehta hai
+  Tu pursa daar hai ghazi ka
+  Chal aaj alam par chalte haiṅ
   Abbas waseela hai rab ka
   Abbas se keh jo kehna hai
   Ye alam hai maula ghazi ka
-  Yahaṅ rab ki rizayeiṅ milti hai
-  Yahaṅ chauda shifayeiṅ milti hai
-  Yahaṅ baara atayeiṅ milti hai
-  Yahaṅ paanch panaheiṅ milti hai
+  Yahaṅ rab ki rizaayeṅ milti haiṅ
+  Yahaṅ chaudah shifaayeṅ milti haiṅ
+  Yahaṅ baarah aayateṅ milti hai
+  Yahaṅ paanch panaaheṅ milti hai
   Bas saath alam ke rehna hai
   Jab alam hai saath to samjho alam waala bhi hai
-  Jab alam waala hai to samjho shah e waala bhi hai
-  Saath hai bibi sakina aur mashkeeza bhi hai
-  Ye alam jahaṅ hai ya abbas
-  Mera chain wahaṅ hai ya abbas
+  Jab alam waala hai to samjho shah waala bhi hai
+  Saath hai Bibi Sakina aur mashkiza bhi hai
+  Ye alam jahaṅ hai ya Abbas
+  Mera chain wahaṅ hai ya Abbas
   Saath isi ke chalna hai
   Is alam ko uncha rakhna hai
-  Ali ke nure ain
-  Ummul baneen ke chain
-  Ae jaane Husain
+  Ali ke nur-e-ain
+  Ummul Banin ke chain
+  Ae jaan-e-Husain
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
-  Maula abbas ya abbas ya abbas ya abbas
+  Maula Abbas ya Abbas ya Abbas ya Abbas
   Laut kar darya se jab aaya na ghazi bawafa
-  Zainab o kulsum ne di wa hijaba ki sada
-  Dekh kar khaali alam abbas ka matam hua
-  Zainab ne pukara ya abbas
-  Waada hai hamara ya abbas
+  Zainab o Kulsum ne di wa hijaaba ki sada
+  Dekh kar khaali alam Abbas ka maatam hua
+  Zainab ne pukara ya Abbas
+  Waada hai hamara ya Abbas
   Alam ye ghar ghar sajna hai
   Is alam ko uncha rakhna hai
-  E sher e nayastane hyder
+  Ae sher-e-Nayastaan-e-Haidar
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
-  Maula abbas ya abbas ya abbas ya abbas
-  Mere saath hai mere saath hai
+  Maula Abbas ya Abbas ya Abbas ya Abbas
+  Mere saath hai, mere saath hai
   Ye alam hamesha saath hai
-  Mera chain hai sukun hai
+  Mera chain hai, sukun hai
   Meri raahat ye alam
-  Mera sayebaṅ mera paasbaṅ
+  Mera saayebaaṅ, mera paasbaaṅ
   Meri chaahat ye alam
-  Mai chaluṅ kahiṅ mere saath hai
-  Mai rahuṅ kahiṅ mere saath hai
-  Mai chaluṅ kahiṅ mai rahuṅ kahiṅ
-  Har raste par har mor par
+  Main chaluṅ kahiṅ mere saath hai
+  Main rahuṅ kahiṅ mere saath hai
+  Main chaluṅ kahiṅ, main rahuṅ kahiṅ
+  Har raste par, har mor par
   Ye alam hamesha saath hai
 ---
 

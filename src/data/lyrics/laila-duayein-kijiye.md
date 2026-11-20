@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Marne ke liye jab chale maidan may akbar
-  Piche chale girte huwe uth'te huwe sarwar
+  Marne ke liye jab chale maidaan mein Akbar
+  Pichhe chale girte hue uthte hue Sarwar
   Jab dur hua shaah ki aankhoṅ se wo dilbar
-  Laut aaye kaha maadar-e-akbar se ye ro kar
-  Laila duayeiṅ kijiye jita rahe akbar
-  Bete ke haq may maa ki dua radh nahi hoti
-  Ruqsat ki ghari yaad hai tum bhi to wahiṅ thi
-  Akbar ke kaleje se nazar hat'ti nahi thi
-  Laila hamare laal ka naazuk sa hai seena
-  Sina pe na beta mera khaye koi barchi
-  Laila duayeiṅ kijiye...
-  Is baat pe shabbir ka dil phat'ta hai gham se
-  Aise to kabhi dur na akbar huwe hum se
-  Akbar ko jita dekh ke hum jite rahe hai
-  Akbar ko marta dekh ke mar jayenge hum bhi
-  Laila duayeiṅ kijiye...
-  Mai bhul nahi paunga ehsaan tumhara
-  Is aalam e ghurbat may do tum saath hamara
-  Akbar mera jawan aur hum par hai zaifi
-  Hum se to jawaaṅ laal ki mayyat na uthegi
-  Laila duayeiṅ kijiye...
-  Ab jald dua ke liye haatoṅ ko uthalo
-  E maadar e akbar meri zainab ko bachalo
-  Athara saal usne hi akbar ko hai paala
-  Kariyal jawan ki laash wo na dekh sakegi
-  Laila duayeiṅ kijiye...
-  Sehre ke sajane ka jo armaan hai laila
-  Armaan hi reh jayega akbar jo na aaya
-  Akbar ko apne haath se hum dulha banaye
-  Atharvi mannat bhi to hum ko hai barhani
-  Laila duayeiṅ kijiye...
-  Awaaz yehi aati hai sughra ki watan se
-  Ek baar mila de khuda bhai ko behan se
-  Akbar se mil na paayi to mar jayegi sughra
-  Malum hai tum ko meri bemaar hai beti
-  Laila duayeiṅ kijiye...
-  Ye kehte huwe laila ne haathoṅ ko uthaya
-  Jis tarha se yaqub ko yusuf se milaya
-  Akbar ko ek baar tu sarwar se mila de
-  Shabbir ki ye baat mai ab sun na sakungi
-  Laila duayeiṅ kijiye...
-  Laut aaya jo maidan se shabbir ka dilbar
-  Pyasa hoo bahot baap se kehne lage akbar
-  Pani ki baat aayi to rone lage maula
-  Qaime ki simt dekh kar awaaz yehi di
-  Laila duayeiṅ kijiye...
-  Zishan o raza wo jawaaṅ phir ran ko sidhara
-  Sine pe sine khaayi to baba ko pukara
-  Pahunche jawaaṅ ke paas jab rote huwe sarwar
-  Barchi yehi kehte huwe sine se nikaali
-  Laila duayeiṅ kijiye...
+  Laut aaye kaha maadar-e-Akbar se ye ro kar
+  Laila duaaeṅ kijiye jita rahe Akbar
+  Bete ke haq mein maaṅ ki dua rad nahiṅ hoti
+  Rukhsat ki ghari yaad hai tum bhi to wahiṅ thi
+  Akbar ke kaleje se nazar hatti nahiṅ thi
+  Laila hamaare laal ka naazuk sa hai sina
+  Sine pe na beta mera khaaye koi barchhi
+  Laila duaaeṅ kijiye...
+  Is baat pe Shabbir ka dil phatta hai gham se
+  Aise to kabhi dur na Akbar hue ham se
+  Akbar ko jita dekh kar ham jite rahe haiṅ
+  Akbar ko marta dekh kar mar jaaeṅge ham bhi
+  Laila duaaeṅ kijiye...
+  Main bhul nahiṅ paauṅga ehsaan tumhaara
+  Is aalam-e-ghurbat mein do tum saath hamaara
+  Akbar mera jawaan aur ham par hai zaifi
+  Ham se to jawaaṅ laal ki mayyat na uthegi
+  Laila duaaeṅ kijiye...
+  Ab jald dua ke liye haathoṅ ko utha lo
+  Ae maadar-e-Akbar meri Zainab ko bacha lo
+  Athaara saal usne hi Akbar ko hai paala
+  Kaariyal jawaan ki laash wo na dekh sakegi
+  Laila duaaeṅ kijiye...
+  Sehre ke sajaane ka jo armaan hai Laila
+  Armaan hi reh jaaega Akbar jo na aaya
+  Akbar ko apne haath se ham dulha banaaeṅ
+  Athaarviyoṅ mannat bhi to ham ko hai barhaani
+  Laila duaaeṅ kijiye...
+  Aawaaz yahi aati hai Sughra ki watan se
+  Ek baar mila de Khuda bhaai ko behan se
+  Akbar se mil na paai to mar jaaegi Sughra
+  Maalum hai tum ko meri bimaar hai beti
+  Laila duaaeṅ kijiye...
+  Ye kehte hue Laila ne haathoṅ ko uthaaya
+  Jis tarah se Yaqub ko Yusuf se milaaya
+  Akbar ko ek baar tu Sarwar se mila de
+  Mar jaauṅgi ye baat main ab sun na sakuṅgi
+  Laila duaaeṅ kijiye...
+  Laut aaya jo maidaan se Shabbir ka dilbar
+  Pyaasa huṅ bahut baap se kehne lage Akbar
+  Paani ki baat aai to rone lage Maula
+  Khaime ki simt dekh kar aawaaz yahi di
+  Laila duaaeṅ kijiye...
+  Zishaan o Raza wo jawaaṅ phir ran ko sidhaara
+  Sine pe sanaaṅ khaai to baaba ko pukaara
+  Pahunche jawaaṅ ke paas jab rote hue Sarwar
+  Barchhi yahi kehte hue sine se nikaali
+  Laila duaaeṅ kijiye...
 ---
 
 ۱

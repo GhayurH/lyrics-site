@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Lasha-e-Muslim pe hae ro ke Zehra ne kaha
-  Ya Ali mara gaya hay mera beta be khata
+  Laasha-e-Muslim pe haaye ro ke Zehra ne kaha
 
   1
-  Zalimo ne ghair ke mara hai is ko is tarha
-  Chand mere ghar ka hae badliyoṅ may ghir gaya
+  Ya Ali maara gaya hai mera beta be khata
+  Zaalimoṅ ne gher ke maara hai is ko is tarah
+  Chaand mere ghar ka haaye badliyoṅ mein ghir gaya
 
   2
-  Shehr e Koofa Syeda ko ras na aaya kabhi
-  Aaj phir rone ki khatir hai yahaṅ aana para
+  Shahr-e-Kufa Sayyeda ko raas na aaya kabhi
+  Aaj phir rone ki khaatir hai yahaaṅ aana para
 
   3
-  Hae tanha jaan ke mara hazaroṅ ne ise
-  Sar ta pa is ka badan hai sara zakhmo se bhara
+  Haaye tanha jaan ke maara hazaaroṅ ne ise
+  Sar ta paa is ka badan hai saara zakhmoṅ se bhara
 
   4
-  Pehle to darul amara se giraya hae hae
-  Aur phir pamal sab ne lasha-e-Muslim kiya
+  Pehle to daar-ul-amaara se giraaya haaye haaye
+  Aur phir paamaal sab ne laasha-e-Muslim kiya
 
   5
-  Lash par royoṅ may is ki ya karoṅ in ko talash
-  Ho gaye ghurbat may is ke dono bache bhi juda
+  Laash par rouṅ main is ki ya karuṅ un ko talaash
+  Ho gaye ghurbat mein is ke donoṅ bachche bhi juda
 
   6
-  Ae safir-e-Karbala bas ye hai aezaz-e-Raza
-  Aap jo maqbul kijye ye likha Noha mera
+  Ae safir-e-Karbala bas ye hai aezaaz-e-Raza
+  Aap jo maqbul kije ye likha noha mera
 ---
 
 لاشہءِ مسلمؑ پہ ہائے رو كے زہراؑ نے کہا

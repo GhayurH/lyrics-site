@@ -1,62 +1,114 @@
 ---
-title: "Ali Ali Bol"
+title: "علی علی بول"
+alternateTitle: "Ali Ali Bol"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh zabaan kaat do jism-o-jaan kaat do
+  Midhat-e-Murtaza ki saza do mujhe
+
+  1
+  Zikar-e-Shah-e-Najaf se rukon ga nahi
+  Chahe so bar soli charha do mujhe
+  Tukray tukray karo mera sara badan
+  Aag roshan karo our jala do mujhe
+
+  2
+  Jab mere jism ki raakh ban jaye na
+  Jahilo phir hawa mein ura do mujhe
+  Aik do din nahi subh-e-mehshar talak
+  Jis taraf jis jagah yeh hawa jaye gi
+
+  3
+  Yeh halali mawali ka wadah raha
+  Ya Ali Ya Ali ki sada aaye gi
+  Meesum ki tarha tu ne gar hona hai anmool
+  Ali Ali Ali Ali bool
+
+  4
+  Khud bigra howa tera har kam banaye gi
+  Taqdeer tere pichey pichey chali aaye gi
+  Dar dar na laga phairay bas toor ke kashkool
+  Baghdad ki galiyon mein yeh kaisi tijarat hai
+
+  5
+  Pocha jo Zubeda ne kya khuld ki qeemat hai
+  Rukh soye Najaf kar ke kehne laga Behlool
+  Yeh raaz koi samjhta nahi Nabi ke siwa
+  Mujhe kissi se muhabbat nahi Ali ke siwa
+
+  6
+  Fishar-e-qabar se dozakh se our mushkil se
+  Koi bacha nahi sakta Ali Ali ke siwa
+  Milney ke liye tujh se aaye hain tere Maula
+  Tu ashiq-e-Haider hai kya khof hai turbat ka
+
+  7
+  Bolay yeh malak mujh se aankhein tu zara khol
+  Maula ki mawaddat se molai banata hai
+  Aoulad ko har momin bachpan se sikhata hai
+  Jab Rab ne zabaan di hai ab our na kuch bool
+
+  8
+  Yehi wazeefa hai mera yehi tarana hai
+  Ali Ali se taluq bara porana hai
+  Zamane maan le yeh mashwara Takallum ka
+  Munafiqon se aqeeda agar bachana hai
 ---
 
-Yeh Zabaan Kaat Do Jism-o-Jaan Kaat Do.
-Midhat-e-Murtaza Ki Saza Do Mujhe.
+یہ زبان کاٹ دو جسم و جاں کاٹ دو
+مدحتِ مرتضیٰ کی سزا دو مجھے
 
-1
-Zikar-e-Shah-e-Najaf Se Rukon Ga Nahi.
-Chahe So Bar Soli Charha Do Mujhe.
-Tukray Tukray Karo Mera Sara Badan.
-Aag Roshan Karo Our Jala Do Mujhe.
+۱
+ذکرِ شاہِ نجف سے رکوں گا نہیں
+چاہے سو بار سولی چڑھا دو مجھے
+ٹکڑے ٹکڑے کرو میرا سارا بدن
+آگ روشن کرو اور جلا دو مجھے
 
-2
-Jab Mere Jism Ki Raakh Ban Jaye Na.
-Jahilo Phir Hawa Mein Ura Do Mujhe.
-Aik Do Din Nahi Subh-e-Mehshar Talak.
-Jis Taraf Jis Jagah Yeh Hawa Jaye Gi.
+۲
+جب میرے جسم کی راکھ بن جائے نا
+جاہلو پھر ہوا میں اڑا دو مجھے
+ایک دو دن نہیں صبحِ محشر تلک
+جس طرف جس جگہ یہ ہوا جائے گی
 
-3
-Yeh Halali Mawali Ka Wadah Raha.
-Ya Ali Ya Ali Ki Sada Aaye Gi.
-Meesum Ki Tarha Tu Ne Gar Hona Hai Anmool.
-Ali Ali Ali Ali Bool.
+۳
+یہ حلالی موالی کا وعدہ رہا
+یا علی یا علی کی صدا آئے گی
+میثم کی طرح تو نے گر ہونا ہے انمول
+علی علی علی علی بول
 
-4
-Khud Bigra Howa Tera Har Kam Banaye Gi.
-Taqdeer Tere Pichey Pichey Chali Aaye Gi.
-Dar Dar Na Laga Phairay Bas Toor Ke Kashkool.
-Baghdad Ki Galiyon Mein Yeh Kaisi Tijarat Hai.
+۴
+خود بگڑا ہوا تیرا ہر کام بنائے گی
+تقدیر تیرے پیچھے پیچھے چلی آئے گی
+در در نہ لگا پھیرے بس توڑ کے کشکول
+بغداد کی گلیوں میں یہ کیسی تجارت ہے
 
-5
-Pocha Jo Zubeda Ne Kya Khuld Ki Qeemat Hai.
-Rukh Soye Najaf Kar Ke Kehne Laga Behlool.
-Yeh Raaz Koi Samjhta Nahi Nabi Ke Siwa.
-Mujhe Kissi Se Muhabbat Nahi Ali Ke Siwa.
+۵
+پوچھا جو زبیدہ نے کیا خلد کی قیمت ہے
+رخ سوئے نجف کر کے کہنے لگا بہلول
+یہ راز کوئی سمجھتا نہیں نبی کے سوا
+مجھے کسی سے محبت نہیں علی کے سوا
 
-6
-Fishar-e-Qabar Se Dozakh Se Our Mushkil Se.
-Koi Bacha Nahi Sakta Ali Ali Ke Siwa.
-Milney Ke Liye Tujh Se Aaye Hain Tere Maula.
-Tu Ashiq-e-Haider Hai Kya Khof Hai Turbat Ka.
+۶
+فشارِ قبر سے دوزخ سے اور مشکل سے
+کوئی بچا نہیں سکتا علی علی کے سوا
+ملنے کے لیے تجھ سے آئے ہیں تیرے مولا
+تو عاشقِ حیدر ہے کیا خوف ہے تربت کا
 
-7
-Bolay Yeh Malak Mujh Se Aankhein Tu Zara Khol.
-Maula Ki Mawaddat Se Molai Banata Hai.
-Aoulad Ko Har Momin Bachpan Se Sikhata Hai.
-Jab Rab Ne Zabaan Di Hai Ab Our Na Kuch Bool.
+۷
+بولے یہ مَلَک مجھ سے آنکھیں تو ذرا کھول
+مولا کی مودّت سے مولائی بناتا ہے
+اولاد کو ہر مومن بچپن سے سکھاتا ہے
+جب رب نے زبان دی ہے اب اور نہ کچھ بول
 
-8
-Yehi Wazeefa Hai Mera Yehi Tarana Hai.
-Ali Ali Se Taluq Bara Porana Hai.
-Zamane Maan Le Yeh Mashwara Takallum Ka.
-Munafiqon Se Aqeeda Agar Bachana Hai.
+۸
+یہی وظیفہ ہے میرا یہی ترانہ ہے
+علی علی سے تعلق بڑا پرانا ہے
+زمانے مان لے یہ مشورہ تکلم کا
+منافقوں سے عقیدہ اگر بچانا ہے

@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaam ki aurtoṅ ek waada karo
-  Roz qabre sakina pe aaogi tum
-  Jab talak laut kar mai na aauṅ
-  Aake shamma jalaogi tum
+  Roz qabr-e-Sakina pe aaogi tum
+  Jab talak laut kar main na aauṅ
+  Aa ke shama jalaaogi tum
 
   1
-  Surate Shahe Diṅ Bekafan Bhi,
-  Mere Jaisi Asir-e-Mehen Bhi
-  Khaali Kurte Mai Madhfun-e-Ghurbat,
-  Misl-e-Asghar Rahi Bekafan Bhi
-  Kya Kafan Ki Tarah Roz Chadar,
-  Iss Lahad Par Chadhaaogi Tum
+  Surat-e-Shaah-e-Diṅ bekafan bhi
+  Mere jaisi asir-e-mihan bhi
+  Khaali kurte mein madfun-e-ghurbat
+  Misl-e-Asghar rahi bekafan bhi
+  Kya kafan ki tarah roz chaadar
+  Is lahad par chadhaaogi tum
 
   2
-  Ek yasrab ki thi shaahzadi
-  Uska saqqa tha abbas-e-ghazi
-  Mashq le kar gaya suye darya
-  Aur khabze mai karli taraayi
-  Loriyoṅ meiṅ ye sachi kahani
-  Roz isko suna'ogi tum
+  Ek Yasrab ki thi shaahzaadi
+  Us ka saqqa tha Abbas-e-Ghaazi
+  Mashq le kar gaya su-e-darya
+  Aur qabze mein kar li taraai
+  Loriyoṅ mein ye sachchi kahaani
+  Roz is ko sunaaogi tum
 
   3
-  Humne zindaṅ se paayi rehaai
-  Ab behen paas hogi na bhai
+  Ham ne zindaaṅ se paai rihaai
+  Ab bahan paas hogi na bhaai
   Baat itni si bas yaad rakhna
-  Meri bachi hai gham ki satayi
-  Tum ne bazaar mein to sataya
-  Ab na isko sataogi tum
+  Meri bachchi hai gham ki sataai
+  Tum ne baazaar mein to sataaya
+  Ab na is ko sataaogi tum
 
   4
-  Jab kabhi qaid khane meiṅ aana
+  Jab kabhi qaid khaane mein aana
   Berida bibiyoṅ ko na laana
-  Tumko asghar bhi dega duayeiṅ
-  Iski tanhaiyaṅ yuṅ mitana
-  Chote chote se bachoṅ ko laa kar
-  Paas iske sula'ogi tum
+  Tum ko Asghar bhi dega duaaeṅ
+  Is ki tanhaaiyaaṅ yuṅ mitaana
+  Chhote chhote se bachchoṅ ko le kar
+  Paas is ke sulaaogi tum
 
   5
-  Qabre bekas pe aansu bahane
-  Haal qaide sitam ka sunane
-  Khafila karbala ko chala hai
-  Iske baba ka chehlum manane
-  Itna kehdo hamari taraf se
-  Iska chehlum mana'ogi tum
+  Qabr-e-bekas pe aansu bahaane
+  Haal qaid-e-sitam ka sunaane
+  Qaafila Karbala ko chala hai
+  Is ke baaba ka chehlum manaane
+  Itna kah do hamaari taraf se
+  Is ka chehlum manaaogi tum
 
   6
-  Maiṅ sikhaati huṅ gham ka saliqa
-  Kaise behlaogi dil dukhi ka
+  Main sikhaati huṅ gham ka saliqa
+  Kaise bahlaaogi dil dukhi ka
   Jab bhi rone ki aawaaz aaye
   Naam lena tum Ibn-e-Ali ka
-  Baba aate haiṅ aate haiṅ Bibi
-  Bas yehi kehti jaaogi tum
+  Baaba aate haiṅ aate haiṅ Bibi
+  Bas yahi kahti jaaogi tum
 
   7
-  Shamiyoṅ ki bahu betiyoṅ se
-  Keh rahi thi wo akbar ye roke
-  Ye amanat hai pardesiyo ki
-  Kar rahi hoo tumhare hawale
-  Mujhse ek baar bas itna kehdo
-  Apna waada nibha'ogi tum
+  Shaamiyoṅ ki bahu betiyoṅ se
+  Kah rahi thi wo Akbar ye ro ke
+  Ye amaanat hai pardesiyoṅ ki
+  Kar rahi huṅ tumhaare hawaale
+  Mujh se ek baar bas itna kah do
+  Apna waada nibhaaogi tum
 reciter: "Meer Hasan Meer"
 ---
 

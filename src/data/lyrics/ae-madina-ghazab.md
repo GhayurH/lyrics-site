@@ -15,18 +15,18 @@ romanLyrics: |-
   Qaafila jab watan laut aaya
   Aa ke baab-e-Madina pe thahra
   Gird ujre hue qaafile ke
-  Pursadaaroṅ ne halqa banaaya
+  Pursa daaroṅ ne halqa banaaya
   Shor-e-maatam utha shor-e-girya utha
   Ae Madina ghazab ho gaya
   Bibi Kulsum ka tha ye noha
   Ae Madina ghazab ho gaya
 
-  Shehr nana ke la taqbalina
+  Shehr-e-nana ke la taqbalina
 
   1
   Shehr nana ke hum aaye ujre hue
   Khair maqdam ke qaabil kahaaṅ hum rahe
-  Shehr nana ke la taqbalina
+  Shehr nana ke la taqbalin
   Ae Madina ghazab ho gaya
 
   2
@@ -36,8 +36,8 @@ romanLyrics: |-
   Ae Madina ghazab ho gaya
 
   3
-  Chumte the jise aap nana sada
-  Tera zarboṅ se kaata gaya wo gala
+  Chumte the jise aap nana sadaa
+  Teraaṅ zarboṅ se kaata gaya wo gala
   Shimr ke dil meiṅ tha kitna kina
   Ae Madina ghazab ho gaya
 
@@ -48,13 +48,13 @@ romanLyrics: |-
   Ae Madina ghazab ho gaya
 
   5
-  Asr-e-Aashur naizoṅ pe sar aa gaye
-  Aayi shsam ae gharibaṅ to qaime jale
-  Sar pe chadar kisi ki bachi na
+  Asr-e-Aashur nezoṅ pe sar aa gaya
+  Ae shaam-e-gharibaaṅ to khaime jale
+  Sar pe chaadar kisi ki bachi na
   Ae Madina ghazab ho gaya
 
   6
-  Berida humko dar dar phiraaya gaya
+  Beridaa hum ko dar dar phiraaya gaya
   Zulm hai kucha kucha sajaaya gaya
   Baarisheṅ pattharoṅ ki ruki na
   Ae Madina ghazab ho gaya
@@ -66,7 +66,7 @@ romanLyrics: |-
   Ae Madina ghazab ho gaya
 
   8
-  Ho gaya hashr Rehaan o Sarwar bapa
+  Ho gaya hashr Rehaan o Sarwar bapaa
   Ro ke shahzaadiyoṅ ne ye jis dam kaha
   Saath aayi na baali Sakina
   Ae Madina ghazab ho gaya

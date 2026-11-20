@@ -1,28 +1,46 @@
 ---
-title: "Asghar Teri Madar Ko Teri Yaad Sataye"
+title: "اصغر تیری مادر کو تیری یاد ستائے"
+alternateTitle: "Asghar Teri Madar Ko Teri Yaad Sataye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khali hai tera jhola kisse lori sunaye
+  Haye Ali Asghar ko sadad deti hai madar
+  Jab abar kahin barse nazar aab jo aaye
+  Turbat bhi nahi milti ke oss par hi gira le
+  Maan dhondti hai ashkoon ko palkon pe uthaye
+  Hai rasam jahaan qabron pe pani ka girana
+  Peene ko nahi kiya teri turbat pe giraye
+  Ahsas yeh zindah rahe Asghar hai mere pass
+  Yeh sooch ke kurte ko hai seene se lagaye
+  Ik dhoop hai ik turbat-e-Asghar ka tasawor
+  Yeh jaan jalati hai tu wo dil ko jalaye
+  Ik sath na aye ho kahin Asghar-o-madar
+  Majlis mein jo giriye ki sada uthti hai haye
+  Asghar ke tabasum ne ghazab kar diya Akbar
+  Sadiyon se qaza roti hai chehrey ko chupaye
 ---
 
-1
-Khali Hai Tera Jhola Kisse Lori Sunaye.
-Haye Ali Asghar Ko Sadad Deti Hai Madar.
-Jab Abar Kahin Barse Nazar Aab Jo Aaye.
-Turbat Bhi Nahi Milti Ke Oss Par Hi Gira Le.
-Maan Dhondti Hai Ashkoon Ko Palkon Pe Uthaye.
-Hai Rasam Jahaan Qabron Pe Pani Ka Girana.
-Peene Ko Nahi Kiya Teri Turbat Pe Giraye.
-Ahsas Yeh Zindah Rahe Asghar Hai Mere Pass.
-Yeh Sooch Ke Kurte Ko Hai Seene Se Lagaye.
-Ik Dhoop Hai Ik Turbat-e-Asghar Ka Tasawor.
-Yeh Jaan Jalati Hai Tu Wo Dil Ko Jalaye.
-Ik Sath Na Aye Ho Kahin Asghar-o-Madar.
-Majlis Mein Jo Giriye Ki Sada Uthti Hai Haye.
-Asghar Ke Tabasum Ne Ghazab Kar Diya Akbar.
-Sadiyon Se Qaza Roti Hai Chehrey Ko Chupaye.
+۱
+خالی ہے تیرا جھولا کسے لوری سنائے
+ہائے علی اصغر کو صدا دیتی ہے مادر
+جب ابر کہیں برسے نظر آب جو آئے
+تربت بھی نہیں ملتی کہ اس پر ہی گرا لے
+ماں ڈھونڈتی ہے اشکوں کو پلکوں پہ اٹھائے
+ہے رسم جہاں قبروں پہ پانی کا گرانا
+پینے کو نہیں کیا تیری تربت پہ گرائے
+احساس یہ زندہ رہے اصغر ہے میرے پاس
+یہ سوچ کے کرتے کو ہے سینے سے لگائے
+اک دھوپ ہے اک تربتِ اصغر کا تصور
+یہ جان جلاتی ہے تو وہ دل کو جلائے
+اک ساتھ نہ آئے ہو کہیں اصغر و مادر
+مجلس میں جو گریے کی صدا اٹھتی ہے ہائے
+اصغر کے تبسم نے غضب کر دیا اکبر
+صدیوں سے قضا روتی ہے چہرے کو چھپائے

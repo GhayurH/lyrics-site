@@ -16,22 +16,22 @@ romanLyrics: |-
   Maatam hai ye ibaadat duniya ko bata deṅ ge
 
   Isyaaṅ nahiṅ ye maatam karte rahe haiṅ saare
-  Is farz meiṅ shaamil hai Allah ke nabi pyaare
+  Is farz mein shaamil hai Allah ke nabi pyaare
 
   1
   Rota Furaat bhi hai bachchoṅ ki tashnagi par
   Paani se pitte haiṅ Abbas ko kinaare
 
   2
-  Maiṅ dekhuṅ kis tarah se karte nahiṅ ho maatam
-  Karyal jawaaṅ ka laasha ho saamne tumhaare
+  Main dekhuṅ kis tarah se karte nahiṅ ho maatam
+  Karail jawaaṅ ka laasha ho saamne tumhaare
 
   3
   Begor o bekafan ho kunbe tere ki laasheṅ
   Khaime jala ke tere koi chaadareṅ utaare
 
   4
-  Paaband rassiyoṅ meiṅ Zahra ki betiyaaṅ thi
+  Paaband rassiyoṅ mein Zahra ki betiyaaṅ thi
   Hum kiuṅ na sar ko pite Aabid ko kore maare
 
   5

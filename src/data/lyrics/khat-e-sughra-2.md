@@ -13,61 +13,61 @@ published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
   Karbala meiṅ jo khat-e-Fatema Sughra aaya
-  Parh ke ye baat bahut Shah ko rona aaya
-  Hashr meiṅ hogi mulaaqaat hamaari baba
-  Ab na ji paayegi bimaar tumhaari baba
+  Par ke ye baat bahut Shah ko rona aaya
+  Hashr meiṅ ho gi mulaaqaat hamaari baba
+  Ab na ji paaye gi bimaar tumhaari baba
 
   1
   Sughra ne likha baba mushkil hai mera jina
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   2
   Jab dubta hai suraj dil dubne lagta hai
   Viraan hai sab hujre ghar qabr ke jaisa hai
   Hai mere muqaddar meiṅ tanhaai meiṅ mar jaana
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   3
   Hai paas ajal mere tum dur ho Sughra se
-  Hasrat ye liye baba jaati huṅ maiṅ dunya se
+  Hasrat ye liye baba jaati huṅ main duniya se
   Kaandha to janaaze ko mumkin na hua dena
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   4
   Aata hai palat kar jab pardes se ghar koi
   Maalum hai Sughra ko hoti hai thakan phir bhi
   Ae baba meri khaatir zahmat ye utha lena
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   5
-  Aa kar meri turbat par sab shama jalaayeṅge
-  Aur bhai sirhaane par Yasin sunaayeṅge
-  Ho jaayega is tarah aabaad wo viraana
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Aa kar meri turbat par sab shama jalaayeṅ ge
+  Aur bhai sirhaane par Yasin sunaayeṅ ge
+  Ho jaaye ga is tarah aabaad wo viraana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   6
   Ae kaash Madine meiṅ wo paas mere rehta
-  Sughra ke janaaze par ek bhai to ro leta
+  Sughra ke janaaze par ik bhai to ro leta
   Baba mere Asghar ko turbat meri dikhlaana
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   7
   Bhai ki mohabbat par na harf koi aaye
   Maalum na ho un ko ye raaz hi reh jaaye
   Marne ka sabab meri bhaabhi ko na batlaana
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   8
-  Rukh hoga lahad meiṅ bhi ae baba su-e-qibla
-  Maiṅ qabr meiṅ jaa kar bhi dekhuṅgi tera rasta
+  Rukh ho ga lahad meiṅ bhi ae baba su-e-qibla
+  Main qabr meiṅ jaa kar bhi dekhuṅ gi tera rasta
   Achchha mere waade ko tum yuṅ hi nibha lena
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 
   9
   Karti thi Takallum wo ye bain qayaamat ka
   Dastur nahiṅ hota murde se mohabbat ka
-  Amma ko magar baba paighaam ye pahuṅchaana
-  Jab laut ke aaoge meri qabr pe aa jaana
+  Ammaaṅ ko magar baba paighaam ye pahuṅchaana
+  Jab laut ke aao ge meri qabr pe aa jaana
 ---
 
 کربلا میں جو خط فاطمہ صغریٰ آیا

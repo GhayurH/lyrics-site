@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Utri hai tegh arsh se Quraan ki tarah
   Thehra faras hawa pe Sulaimaan ki tarah
-  Khaadim thi wo Ali ki jo Salmaan ki tarah
+  Qaadim thi wo Ali ki jiyo Salmaan ki tarah
   Is par sawaar-e-dosh-e-Muhammad sawaar hai
 
   2
@@ -42,13 +42,13 @@ romanLyrics: |-
   Talwaar kaatti thi agar zulm ki kamar
   Ghore ki tarap torti thi sarkashoṅ ke sar
   Beizn Zulfiqaar ki uthti na thi nazar
-  Rahwaar bhi Ali ka itaaat shiaar hai
+  Rahwaar bhi Ali ka itaat shiaar hai
 
   6
   Duldul bhi apni shaan meiṅ Rafraf se kam nahiṅ
   Talwaar meiṅ to kham hai jalaalat meiṅ kham nahiṅ
   Raftaar us ki chhu le hawa meiṅ bhi dam nahiṅ
-  Is par har ek fath ka daar o madaar hai
+  Is par har ek fatah ka daar o madaar hai
 
   7
   Donoṅ haiṅ kaarkhaana-e-qudrat ke shaahkaar
@@ -60,10 +60,10 @@ romanLyrics: |-
   Mastur hai Imaam-e-Zaman chup hai kaainaat
   Gardan meiṅ hai Ali ki rasan chup hai kaainaat
   Lutta hai Faatima ka chaman chup hai kaainaat
-  Roti hai tegh nauha kunaṅ rahwaar hai
+  Roti hai tegh nauha kunaaṅ rahwaar hai
 
   9
-  Karbobala meiṅ pyaas na donoṅ ki bujh saki
+  Karb o Bala meiṅ pyaas na donoṅ ki bujh saki
   Aashur ko na puchhiye ghore ki tashnagi
   Kya ser hoti tegh saroṅ ki rahi kami
   Donoṅ ki ruh aaj talak beqaraar hai

@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Humse puchte ho karte ho matam kiuṅ
-  Cheh mahine ka asghar bhi maara gaya
-  Saal athara akbar bhi maara gaya
-  Haye hurre dilawar bhi maara gaya
-  Aur ghazi biradar bhi maara gaya
-  Kitne haathoṅ se laashe uthaye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
-  Aap ne aab khatra bhi paaya nahi
-  Sar ko sajde se hargiz hataya nahi
-  Shikwa allah ka lab pe laaya nahi
-  Piche qadmoṅ ko apne hataya nahi
-  Shaan hyder ki kaise dikhaye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
-  Waada nana ka pura wafa hogaya
-  Ghar ka ghar raahe haq meiṅ fida hogaya
-  Sar bhi mazlum tan se juda hogaya
-  Dhum matam ki haye ye kya hogaya
-  Teri mayyat pe ghore chalaye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
-  Aap ke saare qaime jalaye gaye
-  Haye saydaniya sab sataye gaye
-  Dar badar raastoṅ pe phiraye gaye
-  Sab ke sab haye zindan basaye gaye
-  Khandan apna pura lutaye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
-  Dehr meiṅ aaj tak bhi hai matam Husain
-  Mit nahi sakta ye aap ka gham Husain
-  Rote rote hi mar jayenge hum Husain
-  Hum uthate hai ab tak bhi parcham Husain
-  Aap islam ko hai bachaye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
-  Dard angayz sheh ki shahadat hui
-  Zere khanjar tumhe kya aziyat hui
-  Qatl hokar rahe kya musibat hui
-  Jaan allah ki khaatir amaanat hui
-  Sar ko naize pe tere charaye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
-  Khaak tabrez tu apne sar par urha
-  Karbala meiṅ mohamed ka ghar hai tabaah
-  Lut gaya haye irfan aale aba
-  Reh gaya naam karbal meiṅ allah ka
-  Khatra e aab pine na paye Husain
-  Hum ko matam hi karna sikhaye Husain
-  Matame Husain zindabad
-  Parchame Husain zindabad
+  Hum se puchhte ho karte ho maatam kiuṅ
+  Chhe mahine ka Asghar bhi maara gaya
+  Saal athaarah Akbar bhi maara gaya
+  Haaye Hurr-e-Dilawar bhi maara gaya
+  Aur Ghazi biraadar bhi maara gaya
+  Kitne haathoṅ se laashe uthaaye Husain
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
+  Aap ne aab khatra bhi paaya nahiṅ
+  Sar ko sajde se hargiz hataaya nahiṅ
+  Shikwa Allah ka lab pe laaya nahiṅ
+  Pichhe qadmoṅ ko apne hataaya nahiṅ
+  Shaan Haidar ki kaise dikhaaya nahiṅ
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
+  Waada naana ka pura wafa ho gaya
+  Ghar ka ghar raah-e-haq meiṅ fida ho gaya
+  Sar bhi mazlum tan se juda ho gaya
+  Dhum maatam ki haaye ye kya ho gaya
+  Teri mayyat pe ghore chalaaye Husain
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
+  Aap ke saare khaime jalaaye gaye
+  Haaye Saiyidaaniyaaṅ sab sataaye gaye
+  Dar badar raastoṅ pe phiraaye gaye
+  Sab ke sab haaye zindaan basaaye gaye
+  Khaandaan apna pura lutaaye Husain
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
+  Dehr meiṅ aaj tak bhi hai maatam Husain
+  Mit nahiṅ sakta ye aap ka gham Husain
+  Rote rote hi mar jaaenge hum Husain
+  Hum uthaate hai ab tak bhi parcham Husain
+  Aap Islaam ko hai bachaaye Husain
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
+  Dard angez shah ki shahaadat hui
+  Zer-e-khanjar tumheiṅ kya aziyat hui
+  Qatl ho kar rahe kya musibat hui
+  Jaan Allah ki khaatir amaanat hui
+  Sar ko naize pe tere charhaaye Husain
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
+  Khaak Tabrez tu apne sar pe urha
+  Karbala meiṅ Muhammad ka ghar hai tabaah
+  Lut gaya haaye irfaan Aal-e-Aba
+  Reh gaya naam Karbal meiṅ Allah ka
+  Khatra-e-aab pine na paaye Husain
+  Hum ko maatam hi karna sikhaaye Husain
+  Maatam-e-Husain zindabad
+  Parcham-e-Husain zindabad
 ---
 
 ۱

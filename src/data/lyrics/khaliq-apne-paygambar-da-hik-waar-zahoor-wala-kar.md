@@ -9,33 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khaliq apne paygamber da hik war zahoor wala kar, maiku Akbar puttar ata kar
-  Mehrooma maa da putar han may, mendi aey manzoor dua kar, maiku Akbar putar atta kar.
+  Khaliq apne paighambar da ik waar zahoor wala kar, mekuṅ Akbar putar ata kar
+  Mahrooma maaṅ da putar haaṅ main, meṅdi eh manzoor dua kar, mekuṅ Akbar putar ata kar
 
   1
-  1) Menda nana tur gaiya duniyah ton, odhai roop da jald zahoor hovay,
-  Maiku day farzand rasool jeraa, menda bachra ain darood hovay,
-  Sada haq koi devay na devay, tu apna khums ada kar
+  Meṅda nana tur gaya duniya toṅ, ode roop da jald zahoor howe
+  Mekuṅ de farzand-e-Rasool jiya, meṅda bachra ain darood howe
+  Saada haq koi dewe na dewe, tuṅ apna khums ada kar
 
   2
-  2) Ay khaliq vaikh Husain ha may, wada har haal nibaa sakdah,
-  Maslain day sona bachray da, may tahtul hanak wala sakda,
-  Puyu putar di laash kiven chainda, karbal to app nigah kar
+  Ae Maalik dekh Husain haaṅ main, wada har haal nibha sakda
+  Maslaaṅde sohnre bachre da main taht-ul-hanak wala sakda
+  Pau putar di laash kiweṅ cheṅda, Karbal toṅ aap nigaah kar
 
   3
-  3) Mendi bhain di hasrat hai khaliq, oku bhurkaiyan day wich chupa lar ndi,
-  Mei zimmawari chahna han, odhi lash koo aap sambalanr di
-  Odi Ahmad naal jahan ootay mendi surkhooro karbobala kar
+  Meṅdi bahan di hasrat hai Khaliq, o kuṅ burqeya de wich paalan di
+  Main zimme waari chaanaaṅ haaṅ, o di laash kuṅ aap sambhaalan di
+  O di aamad naal jahaan ote meṅdi surkh roo Karb o Bala kar
 
   4
-  4) Rat rovan walay shaam dai wich, menda Aabid putar beemar sahi,
-  Akbar bas saal athara da, menday wehray dah mehmaan sahi
-  Ohday karbal day mosam tai-en, Sajaad koo aan bhira kar
+  Rat rowan waaste Shaam de wich, meṅda Aabid putar beemaar sahi
+  Akbar bas saal athaara da, meṅde were da mehmaan sahi
+  Tore Karbal de mausam taaiṅ, Sajjad kuṅ daan bhara kar
 
   5
-  5) Hovay mojza pak shabab honda, qainath wich pak quran wangoo
-  Oda jigar namaz jaya hoya, oda kad hovay azan wangoo
-  Oda toar day baray ai khaliq, mendi bhain day naal sila kar
+  Howe mojza paak shabaab o da, kaainaat wich paak Quraan waangoṅ
+  Oda jigar namaaz jiya howe, oda qad howe azaan waangoṅ
+  Odi tor de baare ae Khaliq, meri bhainr de naal salaah kar
+
+  6
+  O waapas aawe na aawe jiunda khooni maidaan koloṅ
+  Lekin eh aas hai paighambar, shaala bach paawe hazyaan koloṅ
+  Ede dard wich ron de kite, meṅde ghar dhi tuṅ Zehra kar
+
+  7
+  Gauhar Shah aakhe nasab de wich Imraan haaṅ, aal khara mangda
+  Jiwe lor ae Akbar bachre di, eweṅ dhi wi naal khara mangda
+  Howe ain Batool hijaab de wich, okuṅ zaahir wich Sughra kar
 ---
 
 خالق اپنے پیغمبر دا اِک وار ظہور ولاکر میکوں اکبر پتر عطا کر

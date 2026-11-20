@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaiṅ Arbaiṅ Arbain-ul-Husain
+  Arbaiṅ Arbaiṅ Arbainul Husain
   Labbaik ya Ibn-e-Zehra labbaik ya Husain
 
   1

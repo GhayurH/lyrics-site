@@ -20,7 +20,7 @@ romanLyrics: |-
   Sar neze par aur ret pe majruh badan hai
 
   2
-  Jis ke liye aati rahi jannat se qabaaeiṅ
+  Jis ke liye aati rahi jannat se qabaaeṅ
   Laasha usi mazlum ka mohtaaj-e-kafan hai
 
   3
@@ -36,8 +36,8 @@ romanLyrics: |-
   Bas jaur o jafa zulm o sitam ranj o mihan hai
 
   6
-  Bikhra hua maqtal meiṅ hai ek raat ka dulha
-  Bewa jo bani hai wohi ek shab ki dulhan hai
+  Bikhra hua maqtal meiṅ hai ik raat ka dulha
+  Bewa jo bani hai wohi ik shab ki dulhan hai
 
   7
   Pyaasa tha dam-e-qatl jo chhe maah ke sin meiṅ
@@ -52,7 +52,7 @@ romanLyrics: |-
   Kurta wohi maasum Sakina ka kafan hai
 
   10
-  Aati hai dar o baam se rone ki sadaaeiṅ
+  Aati hai dar o baam se rone ki sadaaeṅ
   Jaaved bara dard bhara tera sukhan hai
 ---
 ہمشیر کو چادر ہے نہ بھائی کو کفن ہے

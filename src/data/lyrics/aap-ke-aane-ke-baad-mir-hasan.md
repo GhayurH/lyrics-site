@@ -11,26 +11,26 @@ published: false
 romanLyrics: |-
   1
   Aap ke aane ke baad Mir Hasan
-  Moajza ik ye bhi ho ga aap ke aane ke baad
-  Dhoop ban jaye gi saya aap ke aane ke bad
+  Moajza ik yeh bhi ho ga aap ke aane ke baad
+  Dhop ban jaye gi saaya aap ke aane ke baad
   Aap ke aane se pehle maut hai yeh zindagi
-  Zindagi khud ho gi zinda aap ke aane ke bad
-  Husan par Yousuf ke jab wo aaj tak hairan hai
-  Mar hi jaye gi Zolaikha aap ke aane ke bad
-  Khud hi ho jaon ga hazir aap ke darbar mein
-  Main na loon ga istekhara aap ke aane ke bad
-  Koan roke ga bhala tameer karne se humein
-  Fatima zahra ka roza aap ke aane ke bad
-  Kitni batein maadh-e-Haider ki abhi seene mein hain
-  Main jinhein zahir karo ga aap ke aane ke bad
-  Hum tu kya hain aap ke dushman se khud le gi zameen
-  Aap ke jane ka badla aap ke aane ke bad
-  Wo namazi wo Nusehri our wo hai matami
-  Khatam ho ga bas yeh jhagra aap ke aane ke bad
-  Keh rahe hain jo tamasha matam-e-Shabir ko
-  Khud banein ge wo tamasha aap ke aane ke bad
-  Aap ka darbari shayar sab Takkallum ko kahein
-  Kash mill jaye yeh rutba aap ke aane ke bad
+  Zindagi khud ho gi zinda aap ke aane ke baad
+  Husn par Yusuf ke jab woh aaj tak hairaan hai
+  Mar hi jaye gi Zulaikha aap ke aane ke baad
+  Khud hi ho jaauṅ ga haazir aap ke darbaar mein
+  Main na luṅ ga istikhaara aap ke aane ke baad
+  Kaun roke ga bhala tamir karne se hameṅ
+  Fatima Zahra ka roza aap ke aane ke baad
+  Kitni baateṅ madh-e-Haider ki abhi sine mein haiṅ
+  Main jinheṅ zaahir karuṅ ga aap ke aane ke baad
+  Hum to kya haiṅ aap ke dushman se khud le gi zamin
+  Aap ke jaane ka badla aap ke aane ke baad
+  Woh namaazi woh Nusairi aur woh hai maatami
+  Khatam ho ga bas yeh jhagra aap ke aane ke baad
+  Keh rahe haiṅ jo tamaasha maatam-e-Shabbir ko
+  Khud baneṅ ge woh tamaasha aap ke aane ke baad
+  Aap ka darbaari shaayar sab Takallum ko kaheṅ
+  Kaash mil jaye yeh rutba aap ke aane ke baad
 ---
 
 ۱

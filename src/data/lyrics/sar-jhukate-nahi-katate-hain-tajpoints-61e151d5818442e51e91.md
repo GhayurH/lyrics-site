@@ -1,26 +1,42 @@
 ---
-title: "Sar Jhukate Nahi Katate Hain"
+title: "سر جھکاتے نہیں کٹاتے ہیں"
+alternateTitle: "Sar Jhukate Nahi Katate Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Qabil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sar jhukate nahi katate hain
+  Haq ka rasta humein dikhate hain
+
+  1
+  Yeh hai ahsan Aal-e-Ahmad ka
+  Keh laho se diye jalate hain
+  Aise marne ki ki humein talqeen
+  Aise jeena huemin sikhate hain
+
+  2
+  Lash-e-Akbar akele maqtal mein
+  Kitni himat se Sheh uthate hain
+  Karbla wale phir humein Qabil
+  Apni dehleez par bulate hain
 ---
 
-Sar Jhukate Nahi Katate Hain.
-Haq Ka Rasta Humein Dikhate Hain.
+سر جھکاتے نہیں کٹاتے ہیں
+حق کا راستہ ہمیں دکھاتے ہیں
 
-1
-Yeh Hai Ahsan Aal-e-Ahmad Ka.
-Keh Laho Se Diye Jalate Hain.
-Aise Marne Ki Ki Humein Talqeen.
-Aise Jeena Huemin Sikhate Hain.
+۱
+یہ ہے احسان آلِ احمد کا
+کہ لہو سے دیے جلاتے ہیں
+ایسے مرنے کی کی ہمیں تلقین
+ایسے جینا ہمیں سکھاتے ہیں
 
-2
-Lash-e-Akbar Akele Maqtal Mein.
-Kitni Himat Se Sheh Uthate Hain.
-Karbla Wale Phir Humein Qabil.
-Apni Dehleez Par Bulate Hain.
+۲
+لاشِ اکبر اکیلے مقتل میں
+کتنی ہمت سے شہ اٹھاتے ہیں
+کربلا والے پھر ہمیں قابل
+اپنی دہلیز پر بلاتے ہیں

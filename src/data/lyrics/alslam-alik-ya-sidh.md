@@ -8,6 +8,95 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Assalaamu alaik ya Sayyida
+  Haaye pardes mein lut gai hai bahan
+
+  1
+  Haaye bhaai mera rah gaya bekafan
+
+  2
+  Balwa-e-aam hai sar pe chaadar nahiṅ
+  Bhaai ke khuṅ se surkh hai ye zamiṅ
+  Haaye baandhi gai baazuoṅ mein rasan
+
+  3
+  Haaye bhaai mera rah gaya bekafan
+
+  4
+  Har musibat ko tanha uthaati huṅ main
+  Mujh ko rukhsat karo Shaam jaati huṅ main
+  Taaziyaanoṅ se zakhmi hai mera badan
+
+  5
+  Haaye bhaai mera rah gaya bekafan
+
+  6
+  Hashr tak ham ko roye gi Karb o Bala
+  Haaye ahl-e-haram ho gaye berida
+  Ho gaya ran mein barbaad mera chaman
+
+  7
+  Haaye bhaai mera rah gaya bekafan
+
+  8
+  Haaye ujri bahan ki hai hasrat yahi
+  Bhaai ki laash par haaye ro na saki
+  Bekafan bhaai hai aur main bewatan
+
+  9
+  Haaye bhaai mera rah gaya bekafan
+
+  10
+  Mere Aun o Muhammad maare gaye
+  Aur Sakina ke gauhar utaare gaye
+  Mere Ghazi ka tukre hua hai badan
+
+  11
+  Haaye bhaai mera rah gaya bekafan
+
+  12
+  Haaye Akbar ka sina bhi chhalni hua
+  Farsh se arsh tak ek kohraam tha
+  Laash Akbar ki laaye jo Shaah-e-zaman
+
+  13
+  Haaye bhaai mera rah gaya bekafan
+
+  14
+  Mere Ghazi ke baazu hue jo qalam
+  Khun mein dar badar tha jari ka alam
+  Beamaaṅ ho gai Bint-e-Khaibar-shikan
+
+  15
+  Haaye bhaai mera rah gaya bekafan
+
+  16
+  Haaye Asghar ka jhula jalaaya gaya
+  Paani tiroṅ se us ko pilaaya gaya
+  Khaak par so gaya haaye tishna dahan
+
+  17
+  Haaye bhaai mera rah gaya bekafan
+
+  18
+  Silsila Shah ke maatam ka jaari rahe
+  Aakhiri saans tak pursa daari rahe
+  Ho zabaaṅ par Muhibb ya Husain o Hasan
+
+  19
+  Haaye bhaai mera rah gaya bekafan
+
+  20
+  Haaye rangli jawaani Akbar di
+  Haaye tishna dahaani Asghar di
+  Jeri ban vich hoi ae fana Sayyida
+  Tu te bachri Mushkil Kusha di ae
+  Naane da din bacha Sayyida
+  Mainda sar katiya tainda ghar lutiya
+  Dovein lut gaye bhainr bhara Sayyida
+  Ro laash Husain di aandi ae
+  Maindi dhi kon sine la Sayyida
 ---
 
 السلامُ علیک یا سیدہؑ

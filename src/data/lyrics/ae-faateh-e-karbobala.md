@@ -15,17 +15,17 @@ romanLyrics: |-
   Ae Faateh-e-Karbobala
 
   1
-  Ae virsadaar-e-ambiya
+  Ae virsa daar-e-ambiya
   Ae maalik-e-mulk-e-Khuda
-  Ae shaafe-e-roz-e-jaza
+  Ae shaafe-e-mulk-e-jaza
   Mamnun hai Kaaba tera
-  Jannat teri kausar tera
+  Jannat teri Kausar tera
 
   2
   Tu shaan hai Quraan ki
   Tu jaan hai imaan ki
   Tu ne Khuda ke din par
-  Qurban apni jaan ki
+  Qurbaan apni jaan ki
   Mamnun hai Yazdaaṅ tera
 
   3
@@ -57,7 +57,7 @@ romanLyrics: |-
   Girya kunaaṅ the Murtaza
 
   7
-  Arz o samaa meiṅ gunjti
+  Gharaz o samaaṅ meiṅ gunjti
   Aawaaz-e-hal min hai abhi
   Aa jaaye nusrat ko teri
   Hur ki tarah gar ho koi
@@ -66,13 +66,13 @@ romanLyrics: |-
   8
   Bhai wo tera ba wafa
   Wo naayab-e-Sher-e-Khuda
-  Saahil pa qabza kar ke bhi
-  Teri qasam pyasa raha
+  Saahil pe qabza kar ke bhi
+  Teri qasam pyaasa raha
   Darya tarap kar reh gaya
 
   9
   Maatam hai ye Abbas ka
-  Pyaasoṅ ki anmit pyaas ka
+  Pyaasoṅ ki an mit pyaas ka
   Ahl-e-haram ki bekasi
   Aur dard ke ehsaas ka
   Qurbaaṅ hui jis par wafa
@@ -103,18 +103,18 @@ romanLyrics: |-
   Jalti hui tapti zamiṅ
   Dil meiṅ gham o ranj o alam
   Aur shukr-e-Khaaliq meiṅ jabiṅ
-  Sajde meiṅ hai Zainul Aba
+  Sajde meiṅ hai Zain-ul-Abaa
 
   14
   Bekas asiroṅ ka safar
-  Naizoṅ pa mazlumoṅ ke sar
+  Naizoṅ pe mazlumoṅ ke sar
   Shahzaadiyoṅ ke sar khule
   Mahw-e-tamaasha ahl-e-sharr
   Wo taaziyane aur jafa
 
   15
   Ahl-e-sitam sab thak gaye
-  Ashkoṅ pa kab pehre lage
+  Ashkoṅ pe kab pehre lage
   Har daur meiṅ ye gham tera
   Ahl-e-wafa karte rahe
   Maatam tera kab ruk saka
@@ -131,7 +131,7 @@ romanLyrics: |-
   Kis ghar meiṅ ye maatam nahiṅ
   Aaqa tere gham ki qasam
   Ye gham nahiṅ to hum nahiṅ
-  Hai zindagi teri aza
+  Hai zindagi teri azaa
 
   18
   Bimaar ka zakhmi badan
@@ -150,7 +150,7 @@ romanLyrics: |-
   20
   Armaan maadar ke mite
   Paamaal Qasim ho gaye
-  Naoshah ka laasha tha ye
+  Naushah ka laasha tha ye
   Tukre dil-e-Shabbar ke the
   Kya haal Kubra ka hua
   Ae Faateh-e-Karbobala

@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Khuṅ barsa na barasna tha na baadal barse
-  Ek ek qatre ko paani ke shaah-e-diṅ tarse
+  Ek ek qatre ko paani ke shah-e-diṅ tarse
   Khuṅ barsa khuṅ barsa
 
   2
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Mere naana ke Madine tujhe Zainab ka salaam
-  Thokareṅ khaa ke palat aai huṅ maiṅ dar dar se
+  Thokareṅ khaa ke palat aai huṅ main dar dar se
 
   7
   Haq o baatil ka ho takraao to dil larte haiṅ

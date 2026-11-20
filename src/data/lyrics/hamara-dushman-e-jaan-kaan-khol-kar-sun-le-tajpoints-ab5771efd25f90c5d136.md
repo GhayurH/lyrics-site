@@ -1,15 +1,21 @@
 ---
-title: "Hamara Dushman-e-Jaan Kaan Khol Kar Sun Le"
+title: "ہمارا دشمنِ جاں کان کھول کر سن لے"
+alternateTitle: "Hamara Dushman-e-Jaan Kaan Khol Kar Sun Le"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hamarey qatal ka dil mein agar iradah ho
+  Hain hum Hussaini hamara woh khon karta hai
+  Yeh pehli shart keh nasli haram zadah ho
 ---
 
-1
-Hamarey Qatal Ka Dil Mein Agar Iradah Ho.
-Hain Hum Hussaini Hamara Woh Khon Karta Hai.
-Yeh Pehli Shart Keh Nasli Haram Zadah Ho.
+۱
+ہمارے قتل کا دل میں اگر ارادہ ہو
+ہیں ہم حسینی ہمارا وہ خون کرتا ہے
+یہ پہلی شرط کہ نسلی حرام زادہ ہو

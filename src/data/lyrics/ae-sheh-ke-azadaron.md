@@ -25,12 +25,12 @@ romanLyrics: |-
   Mazlum ke tum haami har zulm ke qaatil ho
   Insaan ki azmat ke har baat meiṅ shaamil ho
   Zulmat ke samandar meiṅ tum nur ka saahil ho
-  Matam ke talabgaaroṅ kis baat meiṅ tum kam ho
+  Maatam ke talab gaaroṅ kis baat meiṅ tum kam ho
 
   2
   Nisbat hai payambar se nisbat tumheiṅ Haidar se
-  Is nisbat-e-maula se tum dur rahe shar se
-  Tum aankh milaate ho har waqt sitamgar se
+  Is nisbat-e-Maula se tum dur rahe shar se
+  Tum aankh milaate ho har waqt sitam gar se
   Jo dars mila tum ko Salman se Buzar se
   Tum rup wohi dhaaro kis baat meiṅ tum kam ho
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Kis gham meiṅ bahaate ho aankhoṅ se lahu apna
   Kya ghar meiṅ tumhaare bhi paighaam mera pahuncha
   Jis din ke laashe ke kaam aaya mera parda
-  Laaj uski rakho dekho kis baat meiṅ tum kam ho
+  Laaj uski rakhuṅ dekho kis baat meiṅ tum kam ho
 
   5
   Kya dars liya tum ne Akbar ki jawaani se
@@ -56,9 +56,9 @@ romanLyrics: |-
   Ae ilm ke meyaaroṅ kis baat meiṅ tum kam ho
 
   6
-  Masjid ke musalmaanoṅ maidaaṅ ke bano ghaazi
-  Tum Hur ki tarah maango ek raat meiṅ aazaadi
-  Darbaar meiṅ zaalim ke Kiuṅ bante ho faryaadi
+  Masjid ke musalmaanoṅ maidaaṅ ke banuṅ ghaazi
+  Tum Hur ki tarah maango ak raat meiṅ aazaadi
+  Darbaar meiṅ zaalim ke kiuṅ bante ho faryaadi
   Sajjad ne jis tarah diwaar-e-sitam dhaa di
   Diwaar-e-sitam dhaa do kis baat meiṅ tum kam ho
 
@@ -66,11 +66,11 @@ romanLyrics: |-
   Tum Nahj-e-Balaagha ki tafsir meiṅ dhal jaao
   Haidar ki ghulaami ka andaaz to apnaao
   Mazlum ko mat chhero zaalim se na ghabraao
-  Haq baat jo kehna hai suli pe bhi dohraao
-  Allah ke naqqaaroṅ kis baat meiṅ tum kam ho
+  Haq baat jo kehna hai suli pe bhi doharaao
+  Allah ke naqaaroṅ kis baat meiṅ tum kam ho
 
   8
-  Shabbir ke matam meiṅ imaaṅ ki haraarat hai
+  Shabbir ke maatam meiṅ imaaṅ ki haraarat hai
   Ye ain-e-ibaadat hai ye ain-e-shariat hai
   Shabbir ke paikar meiṅ Islam ki nusrat hai
   Khanjar ke tale dekho qaaim jo ibaadat hai
@@ -78,44 +78,44 @@ romanLyrics: |-
 
   9
   Socho to zara manzar tum shaam-e-gharibaṅ ka
-  Ghar jalta tha jab ran meiṅ us waaris-e-Quraaṅ ka
-  Paamaal tha jab laasha ek besar o saamaaṅ ka
+  Ghar jalta tha jab ban meiṅ us waaris-e-Quraaṅ ka
+  Paamaal tha jab laasha ak be sar o saamaaṅ ka
   Kirdaar magar kya tha us waaris-e-Quraaṅ ka
   Samjho to samajhdaaroṅ kis baat meiṅ tum kam ho
 
   10
   Pyaasa tha lab-e-darya wo lakht-e-dil-e-Zahra
   Aankhoṅ se barasta tha ghurbat meiṅ lahu jiska
-  Wo waqt bhi tha kaisa chhe maah ka ek bachcha
-  Haathoṅ pe tarapta tha paani ka na qatra
-  Us waqt ke jaanbaaroṅ kis baat meiṅ tum kam ho
+  Wo waqt bhi tha kaisa chhe maah ka ak bachcha
+  Haathoṅ pe tarapta tha paani ka na tha qatra
+  Us waqt ke jaaṅbaaroṅ kis baat meiṅ tum kam ho
 
   11
   Hal min ki sada ab bhi hum se hai yehi kehti
   Shabbir ki nusrat ki dil meiṅ jo tamanna thi
-  Kya ab bhi hai wo baaqi jo chaah thi maula ki
+  Kya ab bhi hai wo baaqi jo chaah thi Maula ki
   Aawaaz wohi dil ki ehsaas meiṅ hai ab bhi
-  Dehke hue angaaroṅ kis baat meiṅ tum kam ho
+  Dhake hue angaaroṅ kis baat meiṅ tum kam ho
 
   12
   Tum raah-e-sadaaqat se imaaṅ ki haraarat se
   Kirdaar-e-imaamat se afkaar-e-risaalat se
-  Tum shauq-e-shahaadat se maula ki inaayat se
+  Tum shauq-e-shahaadat se Maula ki inaayat se
   Islam ki khidmat se meyaar-e-mohabbat se
   Taarikh nayi likh do kis baat meiṅ tum kam ho
 
   13
   Imaaṅ hai azaadaari hai din ki bedaari
   Jarraari o karraari hai azm-e-wafaadaari
-  Himmat na agar haari zinda rahi khuddaari
-  Mil jaayegi sardaari Haidar ki tarafdaari
+  Himmat na agar haari zindaaṅ rahi khuddaari
+  Mil jaayegi sardaari Haidar ki taraf daari
   Kar ke to zara dekho kis baat meiṅ tum kam ho
 
   14
-  Rehaan pe Sarwar pe maula ki inaayat hai
-  Nauhe ki azaanoṅ meiṅ matam ki iqaamat hai
+  Rehaan pe Sarwar pe Maula ki inaayat hai
+  Nauhe ki azaanoṅ meiṅ maatam ki iqaamat hai
   Sach puchho to donoṅ ki har saans ibaadat hai
-  Ae ahl-e-aza tum ko matam ki jo daawat hai
+  Ae ahl-e-aza tum ko maatam ki jo daawat hai
   Muṅh mor ke mat jaao kis baat meiṅ tum kam ho
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---

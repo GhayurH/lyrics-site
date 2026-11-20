@@ -1,44 +1,67 @@
 ---
-title: "Akbar Bhen Beemar Tere Takdi Khaali Raah"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اکبر بھین بیمار تیرے تکدی خالی راہ"
+alternateTitle: "Akbar Bhen Beemar Tere Takdi Khaali Raah"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Akbar bhen beemar tere takdi khaali raah
+  Rab janay kadon milnay vichray bhen bhira
+
+  1
+  Khwab laashan di tarha vain ay paunday nay
+  Meri akhiyan day andar qabr banaunday nay
+  Ik waari khwaaban nu tabeer da kafan puwa
+
+  2
+  Door saahwan di meri veer tut javay gi
+  Vich hanjuwan day meri aas dub javay gi
+  Main akhiyan da chaner dehna ay veer baha
+
+  3
+  Tere bajon ay wairey enj veeran howay
+  Socha tay udeekan da qabrastan howay
+  Tere vaday Sughra layi ban gaye nay veer qaza
+
+  4
+  Kuch dina to mere athru ruk gaye nay
+  Phul shagna walay sehray tay sukh gaye nay
+  Main suneyaye barchi nay tera luteya veer bhira
+
+  5
+  Manta sukh sukh kay deevay koi balay na
+  Dukh veeran day Samar bhen koi palay na
+  Rab Saiyan duniya tay behna day dard muka
 ---
 
-Akbar Bhen Beemar Tere Takdi Khaali Raah
+اکبر بھین بیمار تیرے تکدی خالی راہ
+رب جانے کدوں ملنے وچھڑے بھین بھرا
 
-Rab Janay Kadon Milnay Vichray Bhen Bhira
+۱
+خواب لاشاں دی طرح وین اے پاؤندے نیں
+میری اکھیاں دے اندر قبر بناؤندے نیں
+اک واری خواباں نوں تعبیر دا کفن پوا
 
-Khwab Laashan Di Tarha Vain Ay Paunday Nay
+۲
+ڈور ساہواں دی میری ویر ٹٹ جاوے گی
+وچ ہنجواں دے میری آس ڈب جاوے گی
+میں اکھیاں دا چنیر دینا اے ویر بہا
 
-Meri Akhiyan Day Andar Qabr Banaunday Nay
+۳
+تیرے باجھوں اے ویہڑے انج ویران ہووے
+سوچاں تے اڈیکاں دا قبرستان ہووے
+تیرے وعدے صغریٰ لئی بن گئے نیں ویر قضا
 
-Ik Waari Khwaaban Nu Tabeer Da Kafan Puwa
+۴
+کجھ دناں توں میرے اتھرو رک گئے نیں
+پھل شگناں والے سہرے تے سُک گئے نیں
+میں سنیا اے برچھی نے تیرا لٹیا ویر بھرا
 
-Door Saahwan Di Meri Veer Tut Javay Gi
-
-Vich Hanjuwan Day Meri Aas Dub Javay Gi
-
-Main Akhiyan Da Chaner Dehna Ay Veer Baha
-
-Tere Bajon Ay Wairey Enj Veeran Howay
-
-Socha Tay Udeekan Da Qabrastan Howay
-
-Tere Vaday Sughra Layi Ban Gaye Nay Veer Qaza
-
-Kuch Dina To Mere Athru Ruk Gaye Nay
-
-Phul Shagna Walay Sehray Tay Sukh Gaye Nay
-
-Main Suneyaye Barchi Nay Tera Luteya Veer Bhira
-
-Manta Sukh Sukh Kay Deevay Koi Balay Na
-
-Dukh Veeran Day Samar Bhen Koi Palay Na
-
-Rab Saiyan Duniya Tay Behna Day Dard Muka
+۵
+منتاں سکھ سکھ کے دیوے کوئی بالے نہ
+دکھ ویراں دے ثمر بھین کوئی پالے نہ
+رب سائیاں دنیا تے بھیناں دے درد مکا

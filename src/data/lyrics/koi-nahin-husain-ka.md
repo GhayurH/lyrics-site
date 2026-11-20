@@ -13,84 +13,84 @@ aliases: []
 published: true
 romanLyrics: |-
   Hangaam-e-asr ka manzar hai
-  Na Ghazi na koi lashkar hai
+  Na Ghaazi na koi lashkar hai
 
   1
-  Wa ghurbata ae wa ghurbata
+  Wa ghurbataa ae wa ghurbataa
   Koi nahiṅ Husain ka begaane des meiṅ
-  Hal min ki hai sada
+  Hal min ki hai sadaa
   Koi nahiṅ Husain ka
 
   2
   Hai asr ka samaaṅ rota hai aasmaaṅ
   Hai aakhri azaaṅ gham se hai nim jaaṅ
-  Husain ya Husain
+  Husain yaa Husain
   Husain baadshaah
 
   3
   Akela reh gaya
-  Wo ghar luta chuka
-  Bacha ke diṅ tera
-  Khuda ae Khuda ae Khuda ae Khuda
+  Wo ghar lutaa chuka
+  Bachaa ke diṅ tera
+  Khudaa ae Khudaa ae Khudaa ae Khudaa
 
   4
   Kunba ujar gaya begaane des meiṅ
   Koi nahiṅ Husain ka begaane des meiṅ
-  Hal min ki hai sada
+  Hal min ki hai sadaa
   Koi nahiṅ Husain ka
 
   5
-  Laashe utha chuka ghar bhi luta chuka
-  Har ek laash par aansu baha chuka
-  Husain ya Husain
+  Laashe uthaa chuka ghar bhi lutaa chuka
+  Har ek laash par aaṅsu bahaa chuka
+  Husain yaa Husain
   Husain baadshaah
 
   6
   Akela reh gaya
-  Wo ghar luta chuka
-  Bacha ke diṅ tera
-  Khuda ae Khuda ae Khuda ae Khuda
+  Wo ghar lutaa chuka
+  Bachaa ke diṅ tera
+  Khudaa ae Khudaa ae Khudaa ae Khudaa
 
   7
   Rota hai Zuljanaah begaane des meiṅ
   Koi nahiṅ Husain ka begaane des meiṅ
-  Hal min ki hai sada
+  Hal min ki hai sadaa
   Koi nahiṅ Husain ka
 
   8
   Laakhoṅ meiṅ ghir gaya mazlum-e-Karbala
-  De kis ko ab sada Ghazi to so gaya
-  Husain ya Husain
+  De kis ko ab sadaa Ghaazi to so gaya
+  Husain yaa Husain
   Husain baadshaah
 
   9
   Akela reh gaya
-  Wo ghar luta chuka
-  Bacha ke diṅ tera
-  Khuda ae Khuda ae Khuda ae Khuda
+  Wo ghar lutaa chuka
+  Bachaa ke diṅ tera
+  Khudaa ae Khudaa ae Khudaa ae Khudaa
 
   10
   Lashkar bichhar gaya begaane des meiṅ
   Koi nahiṅ Husain ka begaane des meiṅ
-  Hal min ki hai sada
+  Hal min ki hai sadaa
   Koi nahiṅ Husain ka
 
   11
-  Zainab ki thi sada ae wa musibata
-  Nana tera Husain ghore se gir gaya
-  Husain ya Husain
+  Zainab ki thi sadaa ae wa musibataa
+  Naana tera Husain ghore se gir gaya
+  Husain yaa Husain
   Husain baadshaah
 
   12
   Akela reh gaya
-  Wo ghar luta chuka
-  Bacha ke diṅ tera
-  Khuda ae Khuda ae Khuda ae Khuda
+  Wo ghar lutaa chuka
+  Bachaa ke diṅ tera
+  Khudaa ae Khudaa ae Khudaa ae Khudaa
 
   13
-  Zainab ki sada thi begaane des meiṅ
+  Zainab ki thi sadaa begaane des meiṅ
   Koi nahiṅ Husain ka begaane des meiṅ
-  Hal min ki hai sada
+  Hal min ki hai sadaa
   Koi nahiṅ Husain ka
 ---
 

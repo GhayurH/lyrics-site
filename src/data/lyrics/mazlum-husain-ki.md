@@ -12,58 +12,58 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mazlum Husain ki hamsheera
-  Islam bachane aayi hai
+  Mazlum Husain ki hamshira
+  Islam bachaane aayi hai
   Shabbir ka saari duniya ko
-  Paigham sunaane aayi hai
+  Paighaam sunaane aayi hai
 
   1
   Aashur ke din jis Bibi ka
-  Aabad chaman barbad hua
+  Aabaad chaman barbaad hua
   Sab bhai bhatije maare gaye
-  Samaan jala ghar baar luta
-  Kuch bhi na bacha lekin Zainab
-  Ye din bachane aayi hai
+  Saamaan jala ghar baar luta
+  Kuch bhi na bache lekin Zainab
+  Ye din bachaane aayi hai
 
   2
   Har khutba is ka majlis hai
-  Har aansuṅ is ka matam hai
+  Har aansuṅ is ka maatam hai
   Aashur basa hai aankhoṅ meiṅ
   Aur dil meiṅ bahattar ka gham hai
   Ye ahl-e-aza se farsh-e-aza
   Ghar ghar bichhwane aayi hai
 
   3
-  Hum par pathar barsaate ho
+  Hum par patthar barsaate ho
   Haṅste ho jashn manaate ho
   Sayyed ka khun bahaate ho
   Aur baaghi baaghi kehte ho
   Shabbir to paak namazi hai
-  Ye tum ko batane aayi hai
+  Ye tum ko bataane aayi hai
 
   4
-  Kaunain ki malka ki beti
+  Kaunain ki malika ki beti
   Wo sharm o haya ki shehzadi
   Shaam-e-gharibaaṅ meiṅ jiski
   Chaadar chhini thi wo Bibi
-  Dunya ki maaoṅ behnoṅ ko
+  Duniya ki maaoṅ behnoṅ ko
   Parda sikhlaane aayi hai
 
   5
-  Jisne bhai ki gardan par
-  Chalte huwe khanjar dekha tha
+  Jis ne bhai ki gardan par
+  Chalte hue khanjar dekha tha
   Na chhupne duṅgi khun tera
   Shabbir se jis ka waada tha
   Wo Zainab Shaam meiṅ bhai ka
-  Matam karwaane aayi hai
+  Maatam karwaane aayi hai
 
   6
-  Sarwar jab baad reha ho kar
-  Jab aayi Karbobala muztar
+  Sarwar jab baad riha ho kar
+  Jab aayi Karb o Bala muztar
   Haye! pit ke sar maatam kar kar
   Chillayi bhai ki turbat par
   Uth bhai Husain tera chehlum
-  Teri behan manane aayi hai
+  Teri behan manaane aayi hai
 ---
 
 مظلوم حسین کی ہمشیرہ

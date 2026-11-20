@@ -1,37 +1,64 @@
 ---
-title: "Khudai Hai Sari Sajjad O Mesum Zaidi"
+title: "خدائی ہے ساری سجاد و میثم زیدی"
+alternateTitle: "Khudai Hai Sari Sajjad O Mesum Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Noor"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khudai hai sari Sajjad o Mesum Zaidi
+
+  1
+  Khudai hai sari Khuda ke hawalay
+  Khuda khud hai Karb-o-Bala ke hawalay
+  Qasam Haq ki gayarah Muharram se ab tak
+  Hai Karb-o-Bala ik rida ke hawalay
+  Hussain our Abbas ka naam le kar
+  Diye kar diye hain hawa ke hawalay
+
+  2
+  Samajh lena Tatheer ka hai woh munkir
+  Jo mangay Hadees-e-Kisa ke hawalay
+  Wohi sajday pohanchay hain mere Khuda tak
+  Jo sajday hain Farsh-e-Azza ke hawalay
+  Khuda ki raza mangta hoon Ali se
+  Hai oss ki raza Murtaza ke hawalay
+
+  3
+  Na aayi kabhi oss ke rastay mein mushkil
+  Howa jo bhi Mushkil Kusha ke hawalay
+  Jahan mein jahan par bhi hotey hain sajday
+  Hain Sajjad ke Naqsh-e-Pa ke hawalay
+  Mere ghar mein barpa hai aye Noor majlis
+  Mera ghar hai ab Syeda ke hawalay
 ---
 
-Khudai Hai Sari Sajjad o Mesum Zaidi.
+خدائی ہے ساری سجاد و میثم زیدی
 
-1
-Khudai Hai Sari Khuda Ke Hawalay.
-Khuda Khud Hai Karb-o-Bala Ke Hawalay.
-Qasam Haq Ki Gayarah Muharram Se Ab Tak.
-Hai Karb-o-Bala Ik Rida Ke Hawalay.
-Hussain Our Abbas Ka Naam Le Kar.
-Diye Kar Diye Hain Hawa Ke Hawalay.
+۱
+خدائی ہے ساری خدا کے حوالے
+خدا خود ہے کرب و بلا کے حوالے
+قسم حق کی گیارہ محرم سے اب تک
+ہے کرب و بلا اک ردا کے حوالے
+حسین اور عباس کا نام لے کر
+دیے کر دیے ہیں ہوا کے حوالے
 
-2
-Samajh Lena Tatheer Ka Hai Woh Munkir.
-Jo Mangay Hadees-e-Kisa Ke Hawalay.
-Wohi Sajday Pohanchay Hain Mere Khuda Tak.
-Jo Sajday Hain Farsh-e-Azza Ke Hawalay.
-Khuda Ki Raza Mangta Hoon Ali Se.
-Hai Oss Ki Raza Murtaza Ke Hawalay.
+۲
+سمجھ لینا تطہیر کا ہے وہ منکر
+جو مانگے حدیثِ کسا کے حوالے
+وہی سجدے پہنچے ہیں میرے خدا تک
+جو سجدے ہیں فرشِ عزا کے حوالے
+خدا کی رضا مانگتا ہوں علی سے
+ہے اس کی رضا مرتضیٰ کے حوالے
 
-3
-Na Aayi Kabhi Oss Ke Rastay Mein Mushkil.
-Howa Jo Bhi Mushkil Kusha Ke Hawalay.
-Jahan Mein Jahan Par Bhi Hotey Hain Sajday.
-Hain Sajjad Ke Naqsh-e-Pa Ke Hawalay.
-Mere Ghar Mein Barpa Hai Aye Noor Majlis.
-Mera Ghar Hai Ab Syeda Ke Hawalay.
+۳
+نہ آئی کبھی اس کے رستے میں مشکل
+ہوا جو بھی مشکل کشا کے حوالے
+جہاں میں جہاں پر بھی ہوتے ہیں سجدے
+ہیں سجاد کے نقشِ پا کے حوالے
+میرے گھر میں برپا ہے اے نور مجلس
+میرا گھر ہے اب سیدہ کے حوالے

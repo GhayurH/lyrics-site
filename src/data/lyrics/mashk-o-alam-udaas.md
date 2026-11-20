@@ -13,19 +13,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Mashk o alam udaas hai saqqa udaas hai
-  Bint-e-shah-e-umam ko kai din ki pyas hai
+  Bint-e-shah-e-umam ko kai din ki pyaas hai
 
   1
   Kehta hai kaun mashk alam se hai mubtashir
   Lipti hui chacha se bhatiji ki aas hai
 
   2
-  Pani mila to kehti thiṅ ammaṅ bulaaiye
-  Mujh se kahiṅ siwa Ali Asghar ki pyas hai
+  Paani mila to kehti thiṅ ammaaṅ bulaaiye
+  Mujh se kahiṅ siwaa Ali Asghar ki pyaas hai
 
   3
   Ye kaun hai Furaat ke saahil pe tashna lab
-  Darya tarap utha hai samandar udaas hai
+  Daryaa tarap utha hai samandar udaas hai
 
   4
   Ae tir-e-Hurmala kahiṅ raste meiṅ thahar ja
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Kal tak yahaṅ sukun tha khaime the log the
-  Ab aag hai dhuaṅ hai lahu hai hiraas hai
+  Ab aag hai dhuaaṅ hai lahu hai hiraas hai
 ---
 
 مشک و علم اداس ہے سقہ اداس ہے

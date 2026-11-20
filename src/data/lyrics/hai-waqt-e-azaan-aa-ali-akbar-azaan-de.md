@@ -9,65 +9,41 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Hay waqt-e-azaan aa Ali Akbar azaan day
-
-  Bolay pisar say Sibt-e-Payamber azaan day
-
+romanLyrics: |-
+  Hai waqt-e-azaaṅ aa Ali Akbar azaan de
 
   1
-
-  1) Yeh aakhari azaan hai sajda bhi akhari
-
-  Arshai barin pai tum sai hai Haider azaan dai.
-
+  Bole pisar se sibt-e-Payambar azaan de
+  Yeh aakhri azaan hai sajda bhi aakhri
+  Arsh-e-bariṅ pe sunte hain Haidar azaan de
 
   2
-
-  2) Thandaq milai Rasool kai rozai pai merai laal
-
-  Ik aag si hai seenai kai andar azaan dai.
-
+  Thandak mile Rasul se roze pe mere laal
+  Ik aag si hai sine ke andar azaan de
 
   3
-
-  3) Nam-e-Khuda Rasool ka baaqi rahai ga dheen
-
-  Is dheen ki baka kai muqaddar azaan dai.
-
+  Naam-e-Khuda Rasul ka baaqi rahe ga diṅ
+  Is din ki baqa ke muqaddar azaan de
 
   4
-
-  4) Kehti hai yeh Medinai sai aati howi hawa
-
-  Sughra bhi muntazir hai biradar azaan dai.
-
+  Kehti hai yeh Madine se yeh aati hui hawa
+  Sughra bhi muntazir hai baraadar azaan de
 
   5
-
-  5) Fauj-e-adu ko haq ki sadaqat dikha hi dai
-
-  Nad-e-Ali kai zor paar uth kaar azaan dai.
-
+  Fauj-e-adu ko haq ki sadaaqat dekhai de
+  Naad-e-Ali ke zor par uth kar azaan de
 
   6
-
-  6) Jis ka gala nabi kai labon ki ho janamaz
-
-  Phir woh gala na kyun tah-e-khanjer azaan dai.
-
+  Jis ka gala Nabi ke laboṅ ki ho jaae namaaz
+  Phir woh gala na kiuṅ tah-e-khanjar azaan de
 
   7
-
-  7) Chaltai hain teer itnai namazi hain khoon main taar
-
-  Ai merai laal sabar kai paiker azaan dai.
-
+  Chalte hain tir kitne namaazi hain khuṅ mein tar
+  Ae mere laal sabr ke paikar azaan de
 
   8
-
-  8) Rehan yeh namazain aqeedat ka waqat
-
-  Nohon ko tu azaan bana ker azaan dai.'
+  Rehaan yeh namaaz-e-aqidat ka waqt hai
+  Nauhoṅ ko tuṅ azaan ban kar azaan de
 ---
 
 ہے وقتِ اذاں آ علی اکبر اذان دے

@@ -19,8 +19,8 @@ romanLyrics: |-
   Ab gala mera hai aur qaatil ka khanjar alwida
 
   2
-  Raat bhar ka ae behan dunya meiṅ maiṅ mehmaan huṅ
-  Subh hote qatl hoṅga maiṅ muqarrar alwida
+  Raat bhar ka ae behan dunya meiṅ main mehmaan huṅ
+  Subh hote qatl hoṅga main muqarrar alwida
 
   3
   Sabr karna ae behan hargiz na karna baddua
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Aan kar sun le wasiyyat kar le ab rukhsat hameiṅ
-  Hai kahaaṅ ghash meiṅ para Sajjad-e-muztar alwida
+  Hai kahaaṅ Sajjad ghash meiṅ para Sajjad-e-muztar alwida
 ---
 روکے فرماتے تھے ہر بی‌بی سے سرور الوداع
 اے میری بالی سکینہ میری دختر الوداع

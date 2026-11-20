@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Tu ne qurbaaṅ dil o jaaṅ kiye Sarwar par
   Bibi Zehra ke pisar lakht-e-dil-e-Haidar par
-  Tu hi bhaai tan-e-tanha tha har ek lashkar par
+  Tu hi bhaai tan-e-tanha tha har ik lashkar par
   Lashkar-e-Shaam tha Abbas teri thokar par
   Tu bhi hai misl-e-Ali haq ka wali sher-e-Khuda
 
@@ -26,12 +26,12 @@ romanLyrics: |-
   Karbala teri Madina o Najaf tera hai
   Jo bhi dushman hai Shaah-e-diṅ ka hadaf tera hai
   Khelna tegh se khanjar se shafaq tera hai
-  Haidari waar hai Abbas har ek waar tera
+  Haidari waar hai Abbas har ik waar tera
 
   3
-  Sabr ke taaj ka ek saaya meiṅ akkaas hai tu
+  Sabr ke taaj ka ik saaya mein akkaas hai tu
   Kitne jazboṅ ka hasin paikar o ehsaas hai tu
-  Khaima-e-Shaah meiṅ pyaasoṅ ke liye aas hai tu
+  Khaima-e-Shaah mein pyaasoṅ ke liye aas hai tu
   Naaz tujh par hai shujaaat ko ke Abbas hai tu
   Saahib-e-haq o yaqiṅ maalik-e-taslim o raza
 
@@ -43,18 +43,18 @@ romanLyrics: |-
   Quwwat-e-baazu-e-Shabbir rukh-e-haq ki riza
 
   5
-  Raah-e-Islam meiṅ haathoṅ ko kataaya tu ne
+  Raah-e-Islam mein haathoṅ ko kataaya tu ne
   Zulm jhela kabhi sar na jhukaaya tu ne
   Lafz-e-baiat ko zamaane se mitaaya tu ne
   Parcham-e-din-e-ilaahi ko bachaaya tu ne
   Tujh pe qurbaan dil o jaaṅ wafaaoṅ ke Khuda
 
   6
-  Aabru pyaas ki rakh li hai tere hontoṅ ne
+  Aabru pyaas ki rakh li hai hontoṅ ne
   Haath Islam ko bakhshe haiṅ tere shaanoṅ ne
   Alam o mashk sambhaala hai tere daantoṅ ne
   Haq ko zakhmoṅ se bachaaya hai tere zakhmoṅ ne
-  Gunjti nauhe meiṅ hai Akhtar o Mohsin ki sada
+  Gunjti nauhe mein hai Akhtar o Mohsin ki sada
 ---
 
 اے علمدار علمدار علمدار عباس

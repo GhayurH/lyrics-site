@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Qaasim-e-khasta jigar aah Hasan ke mehru
   Tere sehre ki na dekhi kisi aalam meiṅ numu
-  Chaand se chehre pe dube hue khuṅ meiṅ gesu
+  Chaand se chehre pe dube hue khuṅ meiṅ gesoṅ
   Jism-e-maasum kuja ghoroṅ ki yalghaar kuja
 
   4
@@ -45,19 +45,19 @@ romanLyrics: |-
 
   6
   Khoi khoi si thi yuṅ baali Sakina ki nazar
-  Jaise ek bhatka musaafir ho sar-e-raah guzar
+  Jaise ek bhatakta musaafir ho sar-e-raah guzar
   Berida aah hua Zainab-e-mazlum ka sar
   Ghamzada Baano kuja shiddat-e-afkaar kuja
 
   7
   Purze purze hue Quraan-e-wafa ke paare
   Zulm karte hue badzaat na yaksar haare
-  Chhine kaanoṅ se gohar aur tamaache maare
+  Chhine kaanoṅ se gohar aur tamaanche maare
   Panja-e-zulm kuja phul se rukhsaar kuja
 
   8
   Fatima Zehra ka aaya jo mazaar-e-aqdas
-  Boli Zainab ye bhatije se hui maiṅ bekas
+  Boli Zainab ye bhatiji se hui maiṅ bekas
   Chhor do mujh ko akela ke kahuṅgi jazbaat
   Maaṅ ki aaghosh kuja dukhtar-e-laachaar kuja
 

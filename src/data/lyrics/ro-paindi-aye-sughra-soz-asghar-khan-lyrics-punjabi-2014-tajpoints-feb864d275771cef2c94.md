@@ -1,28 +1,46 @@
 ---
-title: "Ro Paindi Aye Sughra Soz Asghar Khan Lyrics Punjabi 2014"
+title: "رو پیندی اے صغرا"
+alternateTitle: "Ro Paindi Aye Sughra"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Soz"
 poet: "Asghar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ro paindi aye Sughra Soz Asghar Khan
+  Ro paindi aye Sughra jadon khab daronra aaway
+  Sughra de veraan waang koi pardais na wasaway
+  Main wekhiya phophiyaan rondiyaan ne nayi disday veran mere
+  Phul sehriyaan de paye rulday ne raitaan wich chaar choferay
+  Farwa, Kubra de hathaan te payi khon di mehndi laway
+  Kayi waar hawa de doosh uttay main likh bhaijay ne suneray
+  Mere dard wadha gaye ne Akbar tere bajoon khali wehray
+  Jind v udeekaan wich kidhray na Sughra di muk jaway
+  Main wekhiya Asghar di gardan wich teer tarazo hoya
+  Tin nokaan teer diyaan jhal ke nayi chotiyaan wala roya
+  Par wekh ke putar de sabraan nu mera babal neer bahaway
+  Asghar arman jinna de ray oh veer na mur ke aaye
+  Aa gaye par maut walay loko Sughra de sir te saye
+  Sajjad siwa koi veer nayi jehra Sughra nu dafnaway
 ---
 
-1
-Ro Paindi Aye Sughra Soz Asghar Khan.
-Ro Paindi Aye Sughra Jadon Khab Daronra Aaway.
-Sughra De Veraan Waang Koi Pardais Na Wasaway.
-Main Wekhiya Phophiyaan Rondiyaan Ne Nayi Disday Veran Mere.
-Phul Sehriyaan De Paye Rulday Ne Raitaan Wich Chaar Choferay.
-Farwa, Kubra De Hathaan Te Payi Khon Di Mehndi Laway.
-Kayi Waar Hawa De Doosh Uttay Main Likh Bhaijay Ne Suneray.
-Mere Dard Wadha Gaye Ne Akbar Tere Bajoon Khali Wehray.
-Jind V Udeekaan Wich Kidhray Na Sughra Di Muk Jaway.
-Main Wekhiya Asghar Di Gardan Wich Teer Tarazo Hoya.
-Tin Nokaan Teer Diyaan Jhal Ke Nayi Chotiyaan Wala Roya.
-Par Wekh Ke Putar De Sabraan Nu Mera Babal Neer Bahaway.
- Asghar Arman Jinna De Ray Oh Veer Na Mur Ke Aaye.
-Aa Gaye Par Maut Walay Loko Sughra De Sir Te Saye.
-Sajjad Siwa Koi Veer Nayi Jehra Sughra Nu Dafnaway.
+۱
+رو پیندی اے صغرا سوز اصغر خان
+رو پیندی اے صغرا جدوں خواب ڈراؤنا آوے
+صغرا دے ویراں وانگ کوئی پردیس نہ وساوے
+میں ویکھیا پھپھیاں روندیاں نے نئیں دس دے ویراں میرے
+پھل سہریاں دے پئے رلدے نے ریتاں وچ چار چوفیرے
+فروہ، کبریٰ دے ہتھاں تے پئی خون دی مہندی لاوے
+کئی وار ہوا دے دوش اُتے میں لکھ بھیجے نے سنیہرے
+میرے درد ودھا گئے نے اکبر تیرے باجھوں خالی ویہڑے
+جند وی اڈیکاں وچ کدھرے نہ صغرا دی مک جاوے
+میں ویکھیا اصغر دی گردن وچ تیر ترازو ہویا
+تن نوکاں تیر دیاں جھل کے نئیں چوٹیاں والا رویا
+پر ویکھ کے پتر دے صبراں نوں میرا بابل نیر بہاوے
+اصغر ارمان جنہاں دے رہے اوہ ویر نہ مڑ کے آئے
+آ گئے پر موت والے لوکو صغرا دے سر تے سائے
+سجاد سوا کوئی ویر نئیں جیہڑا صغرا نوں دفناوے

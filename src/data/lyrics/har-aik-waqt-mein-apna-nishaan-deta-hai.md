@@ -21,7 +21,7 @@ romanLyrics: |-
   Wagarna kis ke liye kaun jaan deta hai
 
   2
-  Zara jo dhup ki shiddat hadoṅ se barh jaaye
+  Zara jo dhup ki shiddat haddoṅ se barh jaaye
   Woh uth ke abr ki chaadar ko taan deta hai
   Baraai us ki fazaaoṅ se aashkaara hai
   Yehi to roz muazzin azaan deta hai

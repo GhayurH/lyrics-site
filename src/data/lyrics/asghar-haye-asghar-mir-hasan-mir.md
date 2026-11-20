@@ -9,68 +9,43 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Asghar Haye Asghar Mir Hasan Mir"
-romanLyrics: 'Asghar Haye Asghar Mir Hasan Mir Lyrics
-
-  Haye Be Sheer Mere Reh Gaya Ja Ke Kahan.
-
-  Dasht-e-Ghurbat Mein Kahan Dhondne Jaye Yeh Maa.
-
-  Aa Gayi Sham-e-Sitam Ho Gaye Gehray Saye.
-
+romanLyrics: |-
+  Asghar haye Asghar
+  Haye be shir mere reh gaya ja ke kahaaṅ
+  Dasht-e-ghurbat mein kahaaṅ dhundne jaaye yeh maaṅ
+  Aa gayi shaam-e-sitam ho gaye gehre saaye
+  Chha gaya dasht-e-biyaabaaṅ mein andhera haye
+  Jo guzarti hai mere dil pe karuṅ kaise bayaaṅ
 
   1
-
-  Cha Gaya Dasht-e-Biyabaan Mein Andhera Haye.
-
-  Jo Guzarti Hai Mere Dil Pe Karon Kaisay Biyaan.
-
-  Bin Tere Lal Mujhe Chain Nahi Aata Hai.
-
-  Yaad Aati Hai Teri Dil Mera Ghabrata Hai.
-
+  Bin tere laal mujhe chain nahiṅ aata hai
+  Yaad aati hai teri dil mera ghabraata hai
+  God mein aa ja meri mere bete meri jaaṅ
 
   2
-
-  Gaud Mein Aa Ja Meri Mere Betay Meri Jaan.
-
-  Tu Mujhe Rota Howa Chor Gaya Hai Jab Se.
-
-  Dhondti Phirti Hoon Main Dasht-e-Musibat Mein Tujhe.
-
-  Koi Batlata Nahi Hai Mera Chand Kahan.
-
+  Tu mujhe rota hua chhor gaya hai jab se
+  Dhundti phirti huṅ dasht-e-musibat mein tujhe
+  Koi batlaata nahiṅ hai mera chaand kahaaṅ
 
   3
-
-  Khoon Barasta Hai Kahin Lashay Paray Hain Ran Mein.
-
-  Khak Par Bethi Hain Shehzadiyaan Ujray Ban Mein.
-
-  Koi Mazlomo Ki Ab Sunta Nahi Aah-o-Fogaan.
-
-  Jo Hain Tatheer Ke Waris Woh Hoye Khak Basar.
-
+  Khun barsaata kahiṅ laasha pare haiṅ ran mein
+  Khaak par baithi hai shehzaadiyaaṅ ujre ban mein
+  Koi mazlum ki ab sunta nahiṅ aah o faghaaṅ
 
   4
-
-  Jal Gaye Khaimay Ridaein Bhi Nahi Hain Sar Par.
-
-  Dekh Tu Aa Ke Zara Hai Qayamat Ka Samaa.
-
-  Iss Qadar Zulm Sahey Itnay Yahan Gham Khaye.
-
-  Mang Bhi Ujari Meri Gaud Bhi Ujari Haye.
-
+  Jo hai tathir ke waaris woh huye khaak basar
+  Jal gaye khaime ridaaeṅ bhi nahiṅ hai sar par
+  Dekh tu aa ke zara hai qayaamat ka samaaṅ
 
   5
+  Is qadar zulm sahe itne yahaaṅ gham paaye
+  Maang bhi ujri meri god bhi ujri haye
+  Haal par mere hui bekasi nauha kunaaṅ
 
-  Haal Par Mere Hoi Bekasi Noha Kuna.
-
-  Jab Nahi Aaya Pisar Dasht-e-Bala Se Gohar.
-
-  Khak Par Gir Pari Maa Rotay Hoye Yeh Keh Kar.
-
-  Ab Kisay Loriyaan Dey, De Ke Sulaye Gi Yeh Maa.'
+  6
+  Jab nahiṅ aaya pisar dasht-e-balaa se Gohar
+  Khaak par gir pari maaṅ rote huye yeh keh kar
+  Ab kise loriyaaṅ de de ke sulaaye gi yeh maaṅ
 ---
 
 اصغر ہاے اصغر

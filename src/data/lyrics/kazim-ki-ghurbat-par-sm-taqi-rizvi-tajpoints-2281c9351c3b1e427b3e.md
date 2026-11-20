@@ -1,28 +1,44 @@
 ---
-title: "Kazim Ki Ghurbat Par SM Taqi Rizvi"
+title: "کاظم کی غربت پر"
+alternateTitle: "Kazim Ki Ghurbat Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaza karti rahi aah-o-boka Kazim ki ghurbat par
+  Lahu rotay rahe Maula Raza, Kazim ki ghurbat par
+  Janaza baap ka mazdoor le kar aaye they pul par
+  Pisar yeh soch ke rota raha Kazim ki ghurbat par
+  Janazay ko uthane ke liye apna nahi koi
+  Nahi hai koi jo ro le zara Kazim ki ghurbat par
+  Kissi se bhi nahi kholi gayi zanjeer maiyyat se
+  Kissi se na taras khaya gaya Kazim ki ghurbat par
+  Koi Bibi Baqiya chor kar roney chali aayi
+  Woh zakhmi thi magar pursa diya Kazim ki ghurbat par
+  Woh roye ghurbat-e-Abid pe apni qaid mein barson
+  So roney aaye hain Zeen ul-Abba Kazim ki ghurbat par
+  Azadaron ka dil rota hai teri mushkilein sun kar
+  Likhe ga kis tarha Haider bhala Kazim ki ghurbat par
 ---
 
-1
-Kazim Ki Ghurbat Par SM Taqi Rizvi.
-Qaza Karti Rahi Aah-o-Boka Kazim Ki Ghurbat Par.
-Lahu Rotay Rahe Maula Raza, Kazim Ki Ghurbat Par.
-Janaza Baap Ka Mazdoor Le Kar Aaye They Pul Par.
-Pisar Yeh Soch Ke Rota Raha Kazim Ki Ghurbat Par.
-Janazay Ko Uthane Ke Liye Apna Nahi Koi.
-Nahi Hai Koi Jo Ro Le Zara Kazim Ki Ghurbat Par.
-Kissi Se Bhi Nahi Kholi Gayi Zanjeer Maiyyat Se.
-Kissi Se Na Taras Khaya Gaya Kazim Ki Ghurbat Par.
-Koi Bibi Baqiya Chor Kar Roney Chali Aayi.
-Woh Zakhmi Thi Magar Pursa Diya Kazim Ki Ghurbat Par.
-Woh Roye Ghurbat-e-Abid Pe Apni Qaid Mein Barson.
-So Roney Aaye Hain Zeen Ul-Abba Kazim Ki Ghurbat Par.
-Azadaron Ka Dil Rota Hai Teri Mushkilein Sun Kar.
-Likhe Ga Kis Tarha Haider Bhala Kazim Ki Ghurbat Par.
+۱
+قضا کرتی رہی آہ و بکا کاظم کی غربت پر
+لہو روتے رہے مولا رضا، کاظم کی غربت پر
+جنازہ باپ کا مزدور لے کر آئے تھے پل پر
+پسر یہ سوچ کے روتا رہا کاظم کی غربت پر
+جنازے کو اٹھانے کے لیے اپنا نہیں کوئی
+نہیں ہے کوئی جو رو لے ذرا کاظم کی غربت پر
+کسی سے بھی نہیں کھولی گئی زنجیر میت سے
+کسی سے نہ ترس کھایا گیا کاظم کی غربت پر
+کوئی بی‌بی بقیع چھوڑ کر رونے چلی آئی
+وہ زخمی تھی مگر پرسا دیا کاظم کی غربت پر
+وہ روئے غربتِ عابد پہ اپنی قید میں برسوں
+سو رونے آئے ہیں زین العبا کاظم کی غربت پر
+عزاداروں کا دل روتا ہے تیری مشکلیں سن کر
+لکھے گا کس طرح حیدر بھلا کاظم کی غربت پر

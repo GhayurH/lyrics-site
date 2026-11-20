@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Husain
   Ae mere sar burida badan darida
-  Sada tera naam barguzida
+  Sada tira naam barguzida
   Maiṅ Karbala ke lahu dasht meiṅ tujhe
 
   1
@@ -30,27 +30,27 @@ romanLyrics: |-
   Charaagh se tabnaak chehre bujha chuke haiṅ
 
   3
-  Musafiran-e-rah-e-wafa lut luta chuke haiṅ
+  Musaafiraan-e-rah-e-wafa lut luta chuke haiṅ
   Aur ab faqat tu zamin ke is shafaq kade meiṅ
-  Sitara-e-subh ki tarah
+  Sitaara-e-subh ki tarah
   Roshni ka parcham liye khara hai
 
   4
   Ye ek manzar nahiṅ hai
-  Ek daastaṅ ka hissa nahiṅ hai
-  Ek waaqia nahiṅ hai
+  Ak daastaaṅ ka hissa nahiṅ hai
+  Ak waaqia nahiṅ hai
   Yahiṅ se taarikh
 
   5
   Apne taaza safar ka aaghaaz kar rahi hai
-  Yahiṅ se insaniyat
+  Yahiṅ se insaaniyat
   Nayi rifatoṅ ko parwaaz kar rahi hai
   Maiṅ aaj is Karbala meiṅ
 
   6
-  beaabru niguṅ sar
+  Beaabru niguṅ sar
   Shikast khurda khajil khara huṅ
-  Jahaṅ se mera azim haadi
+  Jahaaṅ se mera azim haadi
   Husain kal surkhru gaya hai
 
   7
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   8
   Wo jaaṅ luta kar
-  Manara-e-arsh chhu gaya hai
+  Manaara-e-arsh chhu gaya hai
   Salaam us par
   Salaam us par
 ---

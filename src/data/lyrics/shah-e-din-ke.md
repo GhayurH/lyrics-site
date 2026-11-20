@@ -16,11 +16,11 @@ romanLyrics: |-
 
   1
   Ali ki wo beti wo Zehra ki jaayi
-  Khudara-e-azmat wo khuddaar Zainab
+  Khudaara-e-azmat wo khuddaar Zainab
 
   2
   Kiye din-e-Ahmad pe kya kya ehsaan
-  Hai sharre Nabi ki nigahdaar Zainab
+  Hai shaare Nabi ki nigahdaar Zainab
 
   3
   Hai aafat rasida bari dukh zada hai
@@ -31,12 +31,12 @@ romanLyrics: |-
   Muhammad ke din ki alamdaar Zainab
 
   5
-  Kahaaṅ se kafan apne bhaai ko laaye
+  Kahaaṅ se kafan apne bhaai ka laaye
   Wo majbur Zainab wo laachaar Zainab
 
   6
   Kaniz aap ke dar par aayi sada di
-  Madad kijo meri madadgaar Zainab
+  Madad kijiyo meri madadgaar Zainab
 ---
 شاہِ دین کے بچوں کی غمخوار زینب
 دل افگار زینب وفادار زینب

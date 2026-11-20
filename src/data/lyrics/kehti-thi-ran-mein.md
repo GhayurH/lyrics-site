@@ -1,7 +1,7 @@
 ---
 title: "کہتی تھی رن میں آکے سکینہ جواب دو"
 recitationId: "kehti-thi-ran-may"
-alternateTitle: "Kehti Thi Ran Meiṅ"
+alternateTitle: "Kehti Thi Ran Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ tags: []
 aliases: ["Kehti Thi Ran May"]
 published: true
 romanLyrics: |-
-  Kehti thi ran meiṅ aa ke Sakina jawaab do
+  Kehti thi ran mein aa ke Sakina jawaab do
   Jaan-e-Nabi o Fatema Zehra jawaab do
 
   1
   Kiuṅ so rahe ho khaak pe tanha jawaab do
-  Aayi huṅ tum ko dhundne is jaa jawaab do
+  Aayi huṅ tum ko dhundhne is jaa jawaab do
   Marti huṅ gham se mere Masiha jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   2
   Zakhmi hue haiṅ kaan mere chhin gaye gauhar
-  Kis se kahuṅ ke zakhmoṅ meiṅ hai dard beshtar
-  Faryaad tum se karne maiṅ aayi huṅ ae pidar
-  Hai qaabil-e-mulaahiza ye haal sar basar
+  Kis se kahuṅ ke zakhmoṅ mein hai dard bishtar
+  Faryaad tum se karne main aayi huṅ ae pidar
+  Hai qaabil-e-mulaahiza ye haal sar ba sar
   Dekho ye khuṅ bhara hua kurta jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   3
-  Qaidi bana ke Shaam ko le jaate haiṅ hameiṅ
+  Qaidi bana ke Shaam ko le jaate haiṅ hamein
   Pursa nahiṅ hai koi ke kuchh in se ham kaheiṅ
   Faryaad ghamzadoṅ ki na Hazrat bhi gar sune
-  Kab tak in aafatoṅ meiṅ raheiṅ aah kya kare
+  Kab tak in aafatoṅ mein raheiṅ aah kya kare
   Kya keh rahi huṅ Sayyid-e-waala jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
@@ -46,8 +46,8 @@ romanLyrics: |-
 
   5
   Begor kiuṅ pare haiṅ tumhaare rafiq sab
-  Laasha ye jalti reti pe maiṅ dekhti huṅ jab
-  Hota hai mere dil pe dubaala gham o taab
+  Laasha ye jalti reti pe main dekhti huṅ jab
+  Hota hai mere dil pe dubaala gham o ta'ab
   Dafnaata in ko koi nahiṅ is ka kya sabab
   Kiuṅ bekafan har ek ka hai laasha jawaab do
   Baaba jawaab do mere Baaba jawaab do
@@ -63,30 +63,30 @@ romanLyrics: |-
   7
   Puchhe jo mujh se haal tumhaara bayaaṅ karuṅ
   Pyaase shahid ho gaye Baaba bayaaṅ karuṅ
-  Akbar ka maiṅ ne dekha hai laasha bayaaṅ karuṅ
+  Akbar ka main ne dekha hai laasha bayaaṅ karuṅ
   Asghar ka sar bhi neze pe dekha bayaaṅ karuṅ
-  Kya keh ke us ko duṅ maiṅ dilaasa jawaab do
+  Kya keh ke us ko duṅ main dilaasa jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   8
-  Rote the aap maiṅ jo kabhi karti thi fughaaṅ
-  Samjha ke le ke god meiṅ karte the yuṅ bayaaṅ
+  Rote the aap main jo kabhi karti thi fughaaṅ
+  Samjha ke le ke god mein karte the yuṅ bayaaṅ
   Qurbaan tere aankhoṅ ke aansuṅ na kar rawaaṅ
   Ab mera rona aur ye gham khaana Baaba jaaṅ
   Kiuṅ aap ko hua hai gawaara jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   9
-  Roti thi maiṅ to rehte na the aap ne manaaye
+  Roti thi main to rehte na the aap ne manaaye
   Malbus apne haath se aksar mujhe pehnaaye
   Sote na the baghair mujhe sine par sulaaye
-  Ab be Sakina ae Shaah-e-abraar haaye haaye
+  Ab ae Sakina ae Shaah-e-abraar haaye haaye
   Kaisa qaraar aap ko aaya jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   10
-  Paaoṅ meiṅ chhaale aur sehraa-e-khaar daar
-  Betaaqati piyaada rawi jism meiṅ bukhaar
+  Paaoṅ mein chhaale aur sehraa-e-khaar daar
+  Betaaqati piyaada rawi jism mein bukhaar
   Gir ke zamiṅ pe zaaf se uthta hai baar baar
   Us naatawaaṅ ke haath se khinchwaate haiṅ mahaar
   Bete ko tha isi liye paala jawaab do
@@ -95,21 +95,21 @@ romanLyrics: |-
   11
   Mushkil Kusha ke pote ka baazu ho aur rasan
   Zehra ki betiyoṅ pe ho ye ranj ye mihan
-  Sar par na chaadareiṅ ho na burqa na pairahan
+  Sar par na chaadareṅ ho na burqa na pairahan
   Baazaar-e-Shaam aur tamaashaai mard o zan
   Kab tak ye haal-e-zaar rahe ga jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   12
-  Beaap ke watan ko na le jaaye ab Khuda
+  Be aap ke watan ko na le jaaye ab Khuda
   Kya khub ho jo aaye isi jaa meri qaza
-  Bilfarz gar Madine meiṅ jaana mera hua
-  Kya maiṅ kahuṅ jo puchhe gi ahwaal aap ka
+  Bilfarz gar Madine mein jaana mera hua
+  Kya main kahuṅ jo puchhe gi ahwaal aap ka
   Mujh se kahe gi Fatema Sughra jawaab do
   Baaba jawaab do mere Baaba jawaab do
 
   13
-  Qaabil tera ghulaam hai ya Shaah-e-Karbala
+  Qaabil tera ghulaam hai yaa Shaah-e-Karbala
   Khaatir se meri aap sune us ki iltija
   Bar aayeiṅ jald jald tamaam us ke mud duaa
   Maiṅ puchhti huṅ us ke muraadaat sab Shaah

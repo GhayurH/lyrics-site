@@ -8,55 +8,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  chala mai wada nibhane salaam maa ke mazaar
-  salaam nana ke roze, salaam maa ke mazaar
+  Chala main wada nibhaane, salaam maaṅ ke mazaar
+  Salaam Nana ke roze, salaam maaṅ ke mazaar
 
-  mai tera deen bachaunga, ay mere nana
-  mai apna khoon bahaunga ay mere nana
-  Husain jaata hai marne, salaam maa ke mazaar
-  salaam nana ke roze….
+  Main tera din bachaauṅ ga, ae mere Nana
+  Main apna khun bahaauṅ ga, ae mere Nana
+  Husain jaata hai marne, salaam maaṅ ke mazaar
+  Salaam Nana ke roze
 
-  meri shareeke safar banke, saath chal amma
-  safar pe jaata hu kapde mere badal amma
-  libaas-e-khuld saja de, badan pe phir ek baar
-  salaam nana ke roze….
+  Meri sharik-e-safar ban ke, saath chal ammaaṅ
+  Safar pe jaata huṅ kapre mere badal ammaaṅ
+  Libaas-e-khuld saja de, badan pe phir ek baar
+  Salaam Nana ke roze
 
-  dua karo koi sar berida, na ho amma
-  namaaz-e-shaukhe shahadat khaza na ho amma
-  na aaye mere chaman pe, sitam ki gardo ghuba
-  salaam nana ke roze….
+  Dua karo koi sar burida, na ho ammaaṅ
+  Namaaz-e-shauq-e-shahaadat qaza na ho ammaaṅ
+  Na aaye mere chaman pe, sitam ki gard o ghubaar
+  Salaam Nana ke roze
 
-  diye jalane ko nana, tumhare roze par
-  zaroor aayegi sughra har ek shaam o sehar
-  khuda kare rahe roshan, sada tumhara mazaar
-  salaam nana ke roze….
+  Diye jalaane ko Nana, tumhaare roze par
+  Zarur aayegi Sughra har ek shaam o sahar
+  Khuda kare rahe roshan, sada tumhaara mazaar
+  Salaam Nana ke roze
 
-  tumhare jaisa hai nana, ye mera laal akbar
-  dua karo na lage isko aasman ki nazar
-  lutay na door watan se, hamare dil ka qaraar
-  salaam nana ke roze….
+  Tumhaare jaisa hai Nana, ye mera laal Akbar
+  Dua karo na lage isko aasmaaṅ ki nazar
+  Lute na dur watan se, hamaare dil ka qaraar
+  Salaam Nana ke roze
 
-  tamam phool se bache hai, aur garm hawa
-  hamare khoon ki pyasi hai fauje zulmo jafa
-  safar me koi shajar bhi, nahi hai saaya ada
-  salaam nana ke roze….
+  Tamaam phul se bachche haiṅ, aur garm hawa
+  Hamaare khun ki pyaasi hai fauj-e-zulm o jafa
+  Safar mein koi shajar bhi, nahiṅ hai saaya ada
+  Salaam Nana ke roze
 
-  haan ek phool to aisa hai, jo khila bhi nahi
-  na paaye pani to kar sakta wo gila bhi nahi
-  wo jiske dehn se aati, hai doodh ki mehkaat
-  salaam nana ke roze….
+  Haaṅ ek phul to aisa hai, jo khila bhi nahiṅ
+  Na paaye paani to kar sakta wo gila bhi nahiṅ
+  Wo jis ke dahan se aati, hai dudh ki mahkaar
+  Salaam Nana ke roze
 
-  meri sakina kahan aur, rasan ke bandh kahan
-  zameen-e-garm pe chalna usay pasand kahan
-  qadam wo phool se nazuk, wo raaste purkhaar
-  salaam nana ke roze….
+  Meri Sakina kahaaṅ aur, rasan ke band kahaaṅ
+  Zamin-e-garm pe chalna use pasand kahaaṅ
+  Qadam wo phul se naazuk, wo raste purkhaar
+  Salaam Nana ke roze
 
-  yehi hai sarwaro rehaan, zindagi ka sharaf
-  kabhi ziarat-e-karbobala hai kabhi hai najaf
-  inhi fizaon may aati, hai shah-e-deen ki pukaar
-  salaam nana ke roze….
-
-  ————————————————————-
+  Yahi hai Sarwar o Rehan, zindagi ka sharaf
+  Kabhi ziyaarat-e-Karb o Bala kabhi hai Najaf
+  Inhiṅ fizaaon mein aati, hai shaah-e-diṅ ki pukaar
+  Salaam Nana ke roze
 ---
 
 چلا میں وعدہ نبھانے سلام ماں کے مزار

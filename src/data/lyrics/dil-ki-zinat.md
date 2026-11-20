@@ -27,13 +27,13 @@ romanLyrics: |-
   Apne apne sinf o sin ke
   Kaise numaainde nikle
   Karb o Bala ke tapte ban meiṅ
-  Chhaaṅt ke jin ko laaye Husain
+  Chhaant ke jin ko laaye Husain
 
   3
   Shaam o Kufa manzil manzil
   Sar tha naize par hamraah
   Zainab ka kya saath diya tha
-  Zainab ke maanjaye Husain
+  Zainab ke maanjaaye Husain
 
   4
   Dil ke azaadaaroṅ se puchho

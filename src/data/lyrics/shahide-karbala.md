@@ -11,70 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaheede karbala Husain
-  Khateele nainawa Husain
+  Shaheed-e-Karbala Husain
+  Khateel-e-Nainawa Husain
   Husain Husain Husain Husain
-  Hai waqte ruqsate Husain
-
-  2
+  Hai waqt-e-rukhsat-e-Husain
   Sakina kar rahi hai bain
-  Na jaaye tanha chod kar
+  Na jaaeṅ tanha chhor kar
   Mitega sab ke dil ka chain
-  Zabihe maariya Husain
-
-  3
-  Husain Husain…
+  Zabeeh-e-Maariya Husain
+  Husain Husain
   Wo zulm kaun sa raha
-  Jo aap par nahi hua
-  Siwaye sabr o shukr ke
-
-  4
-  Zuban se kuch nahi kaha
-  Ghamon ki intehan Husain
-  Husain Husain…
-  Ay sher ghaziyon utho
-
-  5
-  Hamara haal dekh lo
-  Haazar nauso aur pachaas
-  Hai zaqm behta hai lahoo
-  Bina e la-ilaah Husain
-
-  6
-  Husain Husain…
-  Ay mere bhai saf shikan
-  Ay baazu e shahe zaman
+  Jo aap par nahiṅ hua
+  Siwaae sabr o shukr ke
+  Zubaaṅ se kuchh nahiṅ kaha
+  Ghamoṅ ki inteha Husain
+  Husain Husain
+  Ae sher-e-ghaaziyoṅ utho
+  Hamaara haal dekh lo
+  Hazaar nau sau pachaas
+  Hai zakhm behta hai lahu
+  Binaa-e-la ilaah Husain
+  Husain Husain
+  Ae mere bhaai saf shikan
+  Ae baazu-e-shaah-e-zaman
   Kamar khameeda kar gaya
-
-  7
   Teri judaai ka mehan
-  Sukoone mustufa Husain
-  Husain Husain…
-  Kahan ho akbar e jari
-
-  8
-  Ye kiun hai beta berukhi
+  Sukoon-e-Mustafa Husain
+  Husain Husain
+  Kahaaṅ ho Akbar-e-jari
+  Ye kiuṅ hai beta berukhi
   Akela reh gaya pidar
-  Qabar lo aake baap ki
-  Kharaar e sayyeda Husain
-
-  9
-  Husain Husain…
-  Udoo ke teer shola baar
-  Badan ko kar gaye figaar
-  Magar sambhala dosh par
-
-  10
-  Tane imam e zeewaqaar
-  Nishana e jafa Husain
-  Husain Husain…
-  Ye maqtal e Husain ka
-
-  11
-  Bayan hashr tha bapa
-  Zameen larazti thi anees
+  Khabar to aake baap ki
+  Qaraar-e-Sayyeda Husain
+  Husain Husain
+  Adu ke tir shola baar
+  Badan ko kar gae figaar
+  Magar sambhaal dosh par
+  Tan-e-imaam-e-zi waqaar
+  Nishaana-e-jafa Husain
+  Husain Husain
+  Ye maqtal-e-Husain ka
+  Bayaaṅ hashr tha bapa
+  Zameeṅ larazti thi Anees
   Falak se aati thi sada
-  Qateel e maariya Husain
+  Qateel-e-Maariya Husain
+  Husain Husain
 ---
 
 ۱

@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qadam jis waqt maiṅ ne karbala ki khaak par rakha
-  Tha manzar saamne do bhaiyoṅ ki badshaahat ka
-  Mai jab baabul hawaij ke haram ke saamne pahuncha
-  Utha kar haath ro ro kar kaha maiṅ ne salaam aaqa
+  Qadam jis waqt main ne Karbala ki khaak par rakha
+  Tha manzar saamne do bhaiyoṅ ki baadshaahat ka
+  Main jab Baab-ul-Hawaaij ke haram ke saamne pahuncha
+  Utha kar haath ro ro kar kaha main ne salaam aaqa
   Bohat tuta hua huṅ paas ab mujh ko bula lijiye
-  Lipat jaauṅ mai bachoṅ ki tarha rauze ki jaali se
-  Ziyarat ki tamanna meiṅ haram tak aagaya huṅ mai
-  Ijazat dijiye darbar meiṅ rakhuṅ qadam maula
-  Mere dil meiṅ ziyarat ki tarap jis dam badi hadh se
-  Karim-e-karbala se ye kaha tha maiṅ ne ro ro ke
-  Mere saahib mere aaqa kahe ye chote hazrat se
+  Lipat jaauṅ main bachchoṅ ki tarah rauze ki jaali se
+  Ziyarat ki tamanna meiṅ haram tak aa gaya huṅ main
+  Ijaazat dijiye darbaar meiṅ rakhuṅ qadam maula
+  Mere dil meiṅ ziyarat ki tarap jis dam barhi had se
+  Karim-e-Karbala se ye kaha tha main ne ro ro ke
+  Mere saahib mere aaqa kaheṅ ye chhote Hazrat se
   Mujhe zaair bana dijiye dikha dijiye haram maula
-  Ziyarat ki tamanna mein...
-  Khabar jab se hui mujhko bulawa aagaya mera
+  Ziyarat ki tamanna meiṅ...
+  Khabar jab se hui mujh ko bulaawa aa gaya mera
   Chala ghar se yahaṅ pahuncha na nind aayi na chain aaya
-  Ajab hai kaifiyat dil ki yaqiṅ aata nahi mujhko
-  Nazar gumbad ki jaanib hai meri aankheiṅ hai nam maula
-  Ziyarat ki tamanna mein...
-  Koi muslim koi hindu koi sikh koi eesaai
-  Tere darbaar meiṅ koi nahi tafriq mazhab ki
-  Haram ke saamne aakar adab se sar jhukate hai
-  Hai sab ki aankh meiṅ aansu hai sab ke dil meiṅ gham maula
-  Ziyarat ki tamanna mein...
-  Yahaṅ apne liye maula kahaṅ kuch maangta huṅ mai
-  Lipat kar aap ki turbat se rona chaahta huṅ mai
-  Suna hai aap ki turbat ali asghar ke jaisi hai
-  Na jaane aap par kya kya huwe zulm o sitam maula
-  Ziyarat ki tamanna mein...
-  Dar-e-ummul baneen ke paas jaa kar baith jaaunga
+  Ajab hai kaifiyat dil ki yaqiṅ aata nahiṅ mujh ko
+  Nazar gumbad ki jaanib hai meri aankheṅ haiṅ nam maula
+  Ziyarat ki tamanna meiṅ...
+  Koi Muslim koi Hindu koi Sikh koi Isaai
+  Tere darbaar meiṅ koi nahiṅ tafriq mazhab ki
+  Haram ke saamne aa kar adab se sar jhukaate haiṅ
+  Haiṅ sab ki aankh meiṅ aansu hai sab ke dil meiṅ gham maula
+  Ziyarat ki tamanna meiṅ...
+  Yahaṅ apne liye maula kahaṅ kuchh maangta huṅ main
+  Lipat kar aap ki turbat se rona chaahta huṅ main
+  Suna hai aap ki turbat Ali Asghar ke jaisi hai
+  Na jaane aap par kya kya hue zulm o sitam maula
+  Ziyarat ki tamanna meiṅ...
+  Dar-e-Umm-ul-Banin ke paas jaa kar baith jaaunga
   Suna kar aap ka nauha wahaṅ aansu bahaunga
-  Gire jab aap ghore se nahi the aap ke baazu
+  Gire jab aap ghore se nahiṅ the aap ke baazu
   Raha is baat ka bas aap ki maadar ko gham maula
-  Ziyarat ki tamanna mein...
+  Ziyarat ki tamanna meiṅ...
   Yahaṅ se jaaunga maula bare maula ke rauze par
-  Badi ghurbat meiṅ maara hai jinhe nau laakh ne mil kar
-  Judaai aap ki seh kar kamar kham ho gayi haye
-  Jinhe akbar ki furqat meiṅ nazar aata tha kam maula
-  Ziyarat ki tamanna mein...
-  Kaleje meiṅ sina khaye tarapta tha jahaṅ akbar
+  Bohat ghurbat meiṅ maara hai jinheṅ nau laakh ne mil kar
+  Judaai aap ki seh kar kamar kham ho gayi haaye
+  Jinheṅ Akbar ki furqat meiṅ nazar aata tha kam maula
+  Ziyarat ki tamanna meiṅ...
+  Kaleje meiṅ sinaaṅ khaaye tarapta tha jahaṅ Akbar
   Wahaṅ par yaad aayega mujhe ghurbat ka wo manzar
-  Ali akbar ye kehte thay na barchi khaynchiye baba
-  Pidar ke godh meiṅ nikla jawaaṅ bete ka dam maula
-  Ziyarat ki tamanna mein...
-  Jahaṅ khanjar se zaalim ne gala shabbir ka kaata
+  Ali Akbar ye kehte the na barchhi khinchiye baba
+  Pidar ke god meiṅ nikla jawaaṅ bete ka dam maula
+  Ziyarat ki tamanna meiṅ...
+  Jahaṅ khanjar se zaalim ne gala Shabbir ka kaata
   Wahaṅ sattar qadam ka faasla bhai behen meiṅ tha
-  Behen ne us ghari kitna pukaara aap ko haye
-  Tarapti reh gayi zainab hua jab sar qalam maula
-  Ziyarat ki tamanna mein...
-  Kaha zishan ne haye raza wo pal rulayenge
-  Ae mere bawafa maula ye din jab bit jayenge
-  Chala jaaunga ghar lekin yahiṅ dil chor jaaunga
-  Mujhe phir se bula lena sakina ki qasam maula
-  Ziyarat ki tamanna mein...
+  Behen ne us ghari kitna pukaara aap ko haaye
+  Tarapti reh gayi Zainab hua jab sar qalam maula
+  Ziyarat ki tamanna meiṅ...
+  Kaha Zeeshan ne haaye Raza wo pal rulaayenge
+  Ae mere baawafa maula ye din jab bit jaayenge
+  Chala jaaunga ghar lekin yahiṅ dil chhor jaaunga
+  Mujhe phir se bula lena Sakina ki qasam maula
+  Ziyarat ki tamanna meiṅ...
 ---
 
 ۱

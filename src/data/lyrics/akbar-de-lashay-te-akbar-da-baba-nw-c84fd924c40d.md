@@ -1,27 +1,54 @@
 ---
-title: "Akbar De Lashay Te Akbar Da Baba"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اکبر دے لاشے تے اکبر دا بابا"
+alternateTitle: "Akbar De Lashay Te Akbar Da Baba"
+language: "Saraiki"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Akbar de lashay te Akbar da baba chup kar ke Akbar ku dainda khara hay
+
+  1
+  Idhon jhuk gaya Shah jo bachray ko chawan
+  Onhon dar te a gye hay Akbar di maan hay
+
+  2
+  Hay pa jholi bachray ko hairan baitha ay te lashan te adh vich parayshan baitha
+  Dasa o kon tenda kahra haal daywain Madinay chon Sughra da khat a gaya hay
+
+  3
+  Si zano bazano bahon okha aya te bachray de lashay te Syed alaya
+  Oh zalim di lagda ay jo olad koi nahi jay ay zulam tenday te bachra kita hay
+
+  4
+  Jay khaima lay vainda tan mar puphyan waysan jay maqtal churainda te bachray da puch san
+  Ay Hasnain ohnday te mushkil bari hay jainda pyo Zamnay da Mushkil Kusha hay
+
+  5
+  Bahon okha Syed te ay imtahan ahye jadan chaya mondhan te bachra jawan haye
+  Ay mon chum ke bachray da ro ro ke akhay mendi imdad ko agye aj mendi maan haye
 ---
 
-Akbar De Lashay Te Akbar Da Baba Chup Kar Ke Akbar Ku Dainda Khara Hay
+اکبر دے لاشے تے اکبر دا بابا چپ کر کے اکبر کوں دیندا کھڑا ہے
 
-Idhon Jhuk Gaya Shah Jo Bachray Ko Chawan
-Onhon Dar Te A Gye Hay Akbar Di Maan Hay
+۱
+اِدھوں جھک گیا شاہ جو بچڑے کوں چاواں
+اونھوں در تے آ گئے ہے اکبر دی ماں ہائے
 
-Hay Pa Jholi Bachray Ko Hairan Baitha Ay Te Lashan Te Adh Vich Parayshan Baitha
-Dasa O Kon Tenda Kahra Haal Daywain Madinay Chon Sughra Da Khat A Gaya Hay
+۲
+ہائے پا جھولی بچڑے کوں حیران بیٹھا اے تے لاشاں تے ادھ وچ پریشان بیٹھا
+دساں او کون تیندا کہڑا حال ڈیویں مدینے چوں صغریٰ دا خط آ گیا ہے
 
-Si Zano Bazano Bahon Okha Aya Te Bachray De Lashay Te Syed Alaya
-Oh Zalim Di Lagda Ay Jo Olad Koi Nahi Jay Ay Zulam Tenday Te Bachra Kita Hay
+۳
+سی زانو بہ زانو بہوں اوکھا آیا تے بچڑے دے لاشے تے سید آ لیا
+اوہ ظالم دی لگدا اے جو اولاد کوئی نہیں جے اے ظلم تیندے تے بچڑا کیتا ہے
 
-Jay Khaima Lay Vainda Tan Mar Puphyan Waysan Jay Maqtal Churainda Te Bachray Da Puch San
-Ay Hasnain Ohnday Te Mushkil Bari Hay Jainda Pyo Zamnay Da Mushkil Kusha Hay
+۴
+جے خیمہ لے ویندا تاں مر پھپھیاں ویسن جے مقتل چھڑیںدا تے بچڑے دا پچھ سن
+اے حسنین اوندے تے مشکل بڑی ہے جیندا پیو زمانے دا مشکل کشا ہے
 
-Bahon Okha Syed Te Ay Imtahan Ahye Jadan Chaya Mondhan Te Bachra Jawan Haye
-Ay Mon Chum Ke Bachray Da Ro Ro Ke Akhay Mendi Imdad Ko Agye Aj Mendi Maan Haye
+۵
+بہوں اوکھا سید تے اے امتحان آہے جڈاں چایا مونڈھاں تے بچڑا جوان ہائے
+اے منہ چم کے بچڑے دا رو رو کے آکھے میندی امداد کوں آ گئے اج میندی ماں ہائے

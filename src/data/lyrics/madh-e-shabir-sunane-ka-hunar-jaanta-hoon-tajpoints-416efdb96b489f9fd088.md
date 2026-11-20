@@ -1,35 +1,60 @@
 ---
-title: "Madh-e-Shabir Sunane Ka Hunar Jaanta Hoon"
+title: "مدحِ شبیر سنانے کا ہنر جانتا ہوں"
+alternateTitle: "Madh-e-Shabir Sunane Ka Hunar Jaanta Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Madh-e-Shabir sunane ka hunar jaanta hoon
+  Apni auqaat barhane ka hunar jaanta hoon
+  Farsh mehfil ka basad naaz bicha kar ghar mein
+  Arsh walon ko bulane ka hunar jaanta hoon
+
+  2
+  Parcham-e-Hazrat-e-Abbas utha rakha hai
+  Oaj-e-aflak pe jane ka hunar jaanta hoon
+  Majlis-e-Shah-e-Shaheedan mein baha kar aanso
+  Dolat-e-khuld kamane ka hunar jaanta hoon
+
+  3
+  Ba-khuda peet pe zanjeer ka matam kar ke
+  Looh-e-taqdeer banane ka hunar jaanta hoon
+  Aye Nuseri tere Allah ko Mula keh ke
+  Apna eman bachane ka hunar jaanta hoon
+
+  4
+  Perway Mesum Tammar hoon darna kaisa
+  Maut se aankh milane ka hunar jaanta hoon
+  :Debal-o-Mir-o-Farazdaq: ki tarha se Yasir
+  Filbadi likhne likhane ka hunar jaanta hoon
 ---
 
-1
-Madh-e-Shabir Sunane Ka Hunar Jaanta Hoon.
-Apni Auqaat Barhane Ka Hunar Jaanta Hoon.
-Farsh Mehfil Ka Basad Naaz Bicha Kar Ghar Mein.
-Arsh Walon Ko Bulane Ka Hunar Jaanta Hoon.
+۱
+مدحِ شبیر سنانے کا ہنر جانتا ہوں
+اپنی اوقات بڑھانے کا ہنر جانتا ہوں
+فرش محفل کا بصد ناز بچھا کر گھر میں
+عرش والوں کو بلانے کا ہنر جانتا ہوں
 
-2
-Parcham-e-Hazrat-e-Abbas Utha Rakha Hai.
-Oaj-e-Aflak Pe Jane Ka Hunar Jaanta Hoon.
-Majlis-e-Shah-e-Shaheedan Mein Baha Kar Aanso.
-Dolat-e-Khuld Kamane Ka Hunar Jaanta Hoon.
+۲
+پرچمِ حضرتِ عباس اٹھا رکھا ہے
+اوجِ افلاک پہ جانے کا ہنر جانتا ہوں
+مجلسِ شاہِ شہیداں میں بہا کر آنسو
+دولتِ خلد کمانے کا ہنر جانتا ہوں
 
-3
-Ba-Khuda Peet Pe Zanjeer Ka Matam Kar Ke.
-Looh-e-Taqdeer Banane Ka Hunar Jaanta Hoon.
-Aye Nuseri Tere ALLAH Ko Mula Keh Ke.
-Apna Eman Bachane Ka Hunar Jaanta Hoon.
+۳
+بخدا پیٹھ پہ زنجیر کا ماتم کر کے
+لوحِ تقدیر بنانے کا ہنر جانتا ہوں
+اے نصیری تیرے اللہ کو مولا کہہ کے
+اپنا ایمان بچانے کا ہنر جانتا ہوں
 
-4
-Perway Mesum Tammar Hoon Darna Kaisa.
-Maut Se Aankh Milane Ka Hunar Jaanta Hoon.
-:DEBAL-o-MIR-o-FARAZDAQ: Ki Tarha Se Yasir.
-Filbadi Likhne Likhane Ka Hunar Jaanta Hoon.
+۴
+پیروِ میثم تمار ہوں ڈرنا کیسا
+موت سے آنکھ ملانے کا ہنر جانتا ہوں
+دعبل و میر و فرزدق کی طرح سے یاسر
+فی البدیہہ لکھنے لکھانے کا ہنر جانتا ہوں

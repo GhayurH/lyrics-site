@@ -9,30 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mera ghar jalaya lutiyan ridawan ro akhay Zainab kis pasay jawan
+  Mera ghar jalaaya lutiyaaṅ ridaawaaṅ
+  Ro aakhe Zainab kis paase jaawaaṅ
 
   1
-  Abid bachawan ya agh bujawaan ro akhay zainab kis pasay jawan
+  Aabid bachaawaaṅ ya ag bujhaawaaṅ
 
   2
-  1) Yusuf ton sohnay meray veer maaray may Shaam chaliyan be kafan saray
-  Qabaran banawaan yaan rasiyan pawaan,  ro akhay Zainab kis pasay jawan
+  Yusuf to sohne mere vir maare
+  Main Shaam chaliyaaṅ be kafan saare
+  Qabraaṅ banaawaaṅ ya rassiyaaṅ paawaaṅ
 
   3
-  2) May deen bachawan vich Shaam aayi sab logh vekhan meri be ridayi
-  Khutbay sunawaan yaan mu lukawaan,  ro akhay Zainab kis pasay jawan
+  Main diṅ bachaaunr lai Shaam aai
+  Sab lok vekhanr meri be ridaai
+  Khutbe sunaawaaṅ ya munh lukaawaaṅ
 
   4
-  3) Khaimaych Qasim di laash aayi chum chum ke tukray kaway Zehra jaayi
-  Hun sehray lawaan yaan saf vichawaan,  ro akhay Zainab kis pasay jawan
+  Khaime che Qasim di laash aai
+  Chum chum ke tukre kahewe Zehra jaai
+  Hunr sehre laawaaṅ ya saf bichhaawaaṅ
 
   5
-  4) Jis veer de lay chadya medina jiwain qatal hoya bulna kadi na
-  Ohnu kafan pawan yaan Shaam jawaan,  ro akhay Zainab kis pasay jawan
+  Jis vir de lai chhaddia Madina
+  Jiweṅ qatal hoya bhulna kadi na
+  Onu kafan paawaaṅ ya Shaam jaawaaṅ
 
   6
-  5) Veeran de qatil khaimaych aagay ay Hasan Zainab Abid nu akhay
-  Hun jal may jawaan yaan baahar awaan,  ro akhay Zainab kis pasay jawan
+  Viraaṅ de qaatil khaime che aa gae
+  Ae Hasan Zainab Aabid nuṅ aakhe
+  Hunr jal main jaawaaṅ ya baahar aawaaṅ
 ---
 
 میرا گھر جلایا لٹیاں رداواں

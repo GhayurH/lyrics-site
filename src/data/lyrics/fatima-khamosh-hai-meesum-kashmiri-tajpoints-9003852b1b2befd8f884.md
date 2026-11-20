@@ -1,49 +1,89 @@
 ---
-title: "Fatima Khamosh Hai Meesum Kashmiri"
+title: "فاطمہ خاموش ہے میثم کشمیری"
+alternateTitle: "Fatima Khamosh Hai Meesum Kashmiri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Fatima khamosh hai Meesum Kashmiri
+  Sab ke chehray pe udasi thi Ali ka ghar tha
+
+  1
+  Fatima Zahra ki maiyyat pe ajab manzar tha
+  Ghar Ali ka ro raha hai Fatima khamosh hai
+  Har taraf matam bapa hai Fatima khamosh hai
+  Dekho aye Ahl-e-Madina ab woh Zahra chal basi
+
+  2
+  Jis ke roney se pareshani tumhein hoti rahi
+  Chain tum ko mil gaya hai Fatima khamosh hai
+  Maa ki maiyyat se lipat kar kyun nahi roye Hussain
+  Loriyaan ab kaun de ga kis tarha soye Hussain
+
+  3
+  Oss ko yeh sadma bara hai Fatima khamosh hai
+  Dekha jab amma ke chehray par tamachay ka nishaan
+  Ho gaye Maula Hasan ki aankh se aanso rawaan
+  Haal beta pochta hai Fatima khamosh hai
+
+  4
+  Janti hain Fatima kyun zulm dhaney aaye they
+  Woh Ali ki dushmani mein ghar jalanay aaye they
+  Jab se darwaza gira hai Fatima khamosh hai
+  Dard mein bhi muskurai woh Ali ko dekh kar
+
+  5
+  Pasliyaan totein shikasta ho gaya pehlu magar
+  Sabar ki yeh inteha hai Fatima khamosh hai
+  Main tumhari ladli hoon maa mujhe aawaz do
+  Maa ke qadmo se lipat kar rokay kehti hai utho
+
+  6
+  Jab se Zainab ne suna hai Fatima khamosh hai
+  :Meesum-o-Zeeshan: ghar se jab janaza uth gaya
+  Khud dar-o-dewar ne ro ro ke yeh noha kiya
+  Ghar yeh verana howa hai Fatima khamosh hai
 ---
 
-Fatima Khamosh Hai Meesum Kashmiri.
-Sab Ke Chehray Pe Udasi Thi Ali Ka Ghar Tha.
+فاطمہ خاموش ہے میثم کشمیری
+سب کے چہرے پہ اداسی تھی علی کا گھر تھا
 
-1
-Fatima Zahra Ki Maiyyat Pe Ajab Manzar Tha.
-Ghar Ali Ka Ro Raha Hai Fatima Khamosh Hai.
-Har Taraf Matam Bapa Hai Fatima Khamosh Hai.
-Dekho Aye Ahl-e-Madina Ab Woh Zahra Chal Basi.
+۱
+فاطمہ زہرا کی میت پہ عجب منظر تھا
+گھر علی کا رو رہا ہے فاطمہ خاموش ہے
+ہر طرف ماتم بپا ہے فاطمہ خاموش ہے
+دیکھو اے اہلِ مدینہ اب وہ زہرا چل بسی
 
-2
-Jis Ke Roney Se Pareshani Tumhein Hoti Rahi.
-Chain Tum Ko Mil Gaya Hai Fatima Khamosh Hai.
-Maa Ki Maiyyat Se Lipat Kar Kyun Nahi Roye Hussain.
-Loriyaan Ab Kaun De Ga Kis Tarha Soye Hussain.
+۲
+جس کے رونے سے پریشانی تمہیں ہوتی رہی
+چین تم کو مل گیا ہے فاطمہ خاموش ہے
+ماں کی میت سے لپٹ کر کیوں نہیں روئے حسین
+لوریاں اب کون دے گا کس طرح سوئے حسین
 
-3
-Oss Ko Yeh Sadma Bara Hai Fatima Khamosh Hai.
-Dekha Jab Amma Ke Chehray Par Tamachay Ka Nishaan.
-Ho Gaye Maula Hasan Ki Aankh Se Aanso Rawaan.
-Haal Beta Pochta Hai Fatima Khamosh Hai.
+۳
+اس کو یہ صدمہ بڑا ہے فاطمہ خاموش ہے
+دیکھا جب اماں کے چہرے پر تماچے کا نشان
+ہو گئے مولا حسن کی آنکھ سے آنسو رواں
+حال بیٹا پوچھتا ہے فاطمہ خاموش ہے
 
-4
-Janti Hain Fatima Kyun Zulm Dhaney Aaye They.
-Woh Ali Ki Dushmani Mein Ghar Jalanay Aaye They.
-Jab Se Darwaza Gira Hai Fatima Khamosh Hai.
-Dard Mein Bhi Muskurai Woh Ali Ko Dekh Kar.
+۴
+جانتی ہیں فاطمہ کیوں ظلم ڈھانے آئے تھے
+وہ علی کی دشمنی میں گھر جلانے آئے تھے
+جب سے دروازہ گرا ہے فاطمہ خاموش ہے
+درد میں بھی مسکرائی وہ علی کو دیکھ کر
 
-5
-Pasliyaan Totein Shikasta Ho Gaya Pehlu Magar.
-Sabar Ki Yeh Inteha Hai Fatima Khamosh Hai.
-Main Tumhari Ladli Hoon Maa Mujhe Aawaz Do.
-Maa Ke Qadmo Se Lipat Kar Rokay Kehti Hai Utho.
+۵
+پسلیاں ٹوٹیں شکستہ ہو گیا پہلو مگر
+صبر کی یہ انتہا ہے فاطمہ خاموش ہے
+میں تمہاری لاڈلی ہوں ماں مجھے آواز دو
+ماں کے قدموں سے لپٹ کر رو کے کہتی ہے اٹھو
 
-6
-Jab Se Zainab Ne Suna Hai Fatima Khamosh Hai.
-:MEESUM-o-ZEESHAN: Ghar Se Jab Janaza Uth Gaya.
-Khud Dar-o-Dewar Ne Ro Ro Ke Yeh Noha Kiya.
-Ghar Yeh Verana Howa Hai Fatima Khamosh Hai.
+۶
+جب سے زینب نے سنا ہے فاطمہ خاموش ہے
+:میثم و ذیشان: گھر سے جب جنازہ اٹھ گیا
+خود در و دیوار نے رو رو کے یہ نوحہ کیا
+گھر یہ ویرانہ ہوا ہے فاطمہ خاموش ہے

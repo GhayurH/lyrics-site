@@ -12,7 +12,7 @@ recitationId: "allah-bohat-bara-hai-nadeem-sarwar"
 published: true
 romanLyrics: |-
   Sab ne yehi kaha hai Allah bohat bara hai
-  Quran meiṅ likha hai Allah bohat bara hai
+  Quraan meiṅ likha hai Allah bohat bara hai
   Har had se maawara hai Allah bohat bara hai
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   Ye kun ka maujiza hai Allah bohat bara hai
 
   2
-  Mitti ke paikaroṅ meiṅ tehrik daalta hai
+  Mitti ke paikaroṅ meiṅ tahrik daalta hai
   Su-e-falak zamiṅ se taare uchhaalta hai
   Paataal se jawaahir wohi nikaalta hai
   Parwardigaar wo hai duniya ko paalta hai
@@ -33,7 +33,7 @@ romanLyrics: |-
   Kaunain meiṅ ayaaṅ hai ya Rab jo nur tera
   Hai taab kis nazar meiṅ dekhe zuhur tera
   Tasbih khwaah hum kya hai koh-e-Tur tera
-  Jis ko bhi mil gaya hai Maula shaur tera
+  Jis ko bhi mil gaya hai Maula shuur tera
   Wo Mustafa hua hai Allah bohat bara hai
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
   Qausain ki thi manzil hairaan ambiya the
   Jibril ruk gaye the ek marhale pe aake
   Raste banaaye tu ne parde hata hata ke
-  Meraaj par Muhammad pahunche teri riza se
+  Meraaj par Muhammad pahunche teri raza se
   Ek shor gunjta hai Allah bohat bara hai
 
   6
@@ -81,7 +81,7 @@ romanLyrics: |-
   10
   Sine pe barchhi khaa ke Akbar ne ye sada di
   Ye aakhri hai manzil khushnudi-e-Khuda ki
-  Khaak-e-shifa bana di Karbobala ki mitti
+  Khaak-e-shifa bana di Karb o Bala ki mitti
   Bole Rehaan o Sarwar taarikh-e-Karbala bhi
   Maula ne sach kaha hai Allah bohat bara hai
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"

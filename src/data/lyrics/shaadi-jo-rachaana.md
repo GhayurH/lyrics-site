@@ -32,16 +32,16 @@ romanLyrics: |-
   4
   Jo dekhe use chaand sa tukra nazar aaye
   Asghar bhi mera nanha sa dulha nazar aaye
-  Beshir ko is tarah sajaana mere bhaiya
+  Be Shir ko is tarah sajaana mere bhaiya
 
   5
   Shabbir ki jaani ho mujhe ye bhi khabar hai
   Tum Yusuf-e-saani ho mujhe ye bhi khabar hai
-  Malbus maiṅ luṅgi shaahaana mere bhaiya
+  Malbus main luṅ gi shaahaana mere bhaiya
 
   6
-  Baraat nazar aayegi Firdaus ka naqsha
-  Ho jaayega raunaq meiṅ bhi kuchh aur izaafa
+  Baraat nazar aaye gi Firdaus ka naqsha
+  Ho jaaye ga raunaq meiṅ bhi kuchh aur izaafa
   Daadi ko bhi jannat se bulaana mere bhaiya
 
   7
@@ -55,7 +55,7 @@ romanLyrics: |-
   Taa umr na Sughra ko rulaana mere bhaiya
 
   9
-  Bimaar huṅ kamzor huṅ chhaayi hai naqaahat
+  Bimaar huṅ kamzor huṅ chhaayi hai kaainaat
   Mar jaauṅ jo pehle to hai ye meri wasiyyat
   Bhaabhi ko meri qabr pe laana mere bhaiya
 

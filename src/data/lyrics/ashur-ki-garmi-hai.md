@@ -1,7 +1,7 @@
 ---
 title: "ایمان کے اجالے ہیں عاشور کی گرمی ہے"
 recitationId: "ashoor-ki-garmi-hai"
-alternateTitle: "Ashur Ki Garmi Hai"
+alternateTitle: "Aashur Ki Garmi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,20 +12,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Iman ke ujaale haiṅ Ashur ki garmi hai
+  Iman ke ujaale haiṅ Aashur ki garmi hai
   Shabbir ki qismat hai aur god ke paale haiṅ
-  Iman ke ujaale haiṅ Ashur ki garmi hai
+  Iman ke ujaale haiṅ Aashur ki garmi hai
 
   1
   Yahaṅ dil tah o baala hai wahaṅ jaan ke laale haiṅ
   Shabbir zaifi meiṅ Akbar ko sambhaale haiṅ
 
   2
-  Jis tarah koi chaahe ghar lutte pyasoṅ ka
+  Jis tarah koi chaahe ghar lutte pyaasoṅ ka
   Jalti hui reti par sab chaahne waale haiṅ
 
   3
-  Abid ko koi dekhe darbaar meiṅ Kufe ke
+  Aabid ko koi dekhe darbaar meiṅ Kufe ke
   Beri ko uthaaye haiṅ zanjir sambhaale haiṅ
 
   4

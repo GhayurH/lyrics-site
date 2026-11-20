@@ -1,6 +1,6 @@
 ---
 title: "آمدِ مہدی قیصر عباس"
-alternateTitle: "Aamad E Mehdi Qaiser Abbas"
+alternateTitle: "Aamad-e-Mehdi Qaiser Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dil Aamad-e-Mehdi ka asar dekh raha hai
+  Dil aamad-e-Mehdi ka asar dekh raha hai
   Hoti shab-e-zulmat ki sahar dekh raha hai
-  Chalti hoi shamsheer se kat kat ke bikharta
+  Chalti hui shamshir se kat kat ke bikharta
   Har dushman-e-Zahra ka jigar dekh raha hai
-  Lo aa gaya Zahra ka pisar behar-e-imamat
+  Lo aa gaya Zahra ka pisar bahr-e-imamat
   Saf mein khara Mariyam ka pisar dekh raha hai
 
   2
-  Ik hath mein talwar hai ik hath mein parcham
+  Ik haath mein talwaar hai ik haath mein parcham
   Aata Bani Hashim ka qamar dekh raha hai
-  Idrees bhi Ilyas bhi Esa bhi Khizar bhi
-  Rahoon mein bichatay hain nazar dekh raha hai
-  Tari hai sahar Qaiser-o-Rizwan pe aisa
-  Dil taab nahi rakhta magar dekh raha hai
+  Idris bhi Ilyaas bhi Isa bhi Khizar bhi
+  Raahoṅ mein bichhaate haiṅ nazar dekh raha hai
+  Taari hai sahar Qaiser o Rizwan pe aisa
+  Dil taab nahiṅ rakhta magar dekh raha hai
 ---
 
 ۱

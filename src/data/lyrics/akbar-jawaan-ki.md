@@ -16,7 +16,7 @@ romanLyrics: |-
   Duba hai khuṅ meiṅ maara gaya mera nur-e-ain
 
   1
-  Utho Ae beta deti sadaaeṅ haiṅ tujh ko maaṅ
+  Utho ae beta deti sadaaeṅ haiṅ tujh ko maaṅ
   Shaana hila ke bete ka kehti hai ro ro maaṅ
   Ae laal kuchh to bolo mile dil ko mere chain
 
@@ -26,33 +26,33 @@ romanLyrics: |-
   Sun kar ye bain khaime meiṅ hota hai shor o shain
 
   3
-  Muṅh chum ke wo bete ka sine pe gir pari
-  Sine ka zakhm dekha to dil dhundhne lagi
-  Boli kaleja hai kahaṅ Ae Shah-e-Mashriqain
+  Munh chum ke wo bete ka sine pe gir pari
+  Sine ka zakhm dekha to dil dhundne lagi
+  Boli kaleja hai kahaṅ ae Shah-e-Mashriqain
 
   4
   Lakht-e-jigar ko mere jawaani ye khaa gayi
   Shaadi ke din the beta tujhe maut aa gayi
-  Sughra ko kya bataauṅgi bolo Ya Nur-e-Ain
+  Sughra ko kya bataauṅ gi bolo ya nur-e-ain
 
   5
   Harkat nahiṅ hai jism meiṅ karta nahiṅ kalaam
   Paani pilaao aankhoṅ ko kholega tashna kaam
-  Akbar ko sota dekh ke rote haiṅ Kiuṅ Husain
+  Akbar ko sota dekh ke rote haiṅ kiuṅ Husain
 
   6
-  Tukre jigar ye hota hai Ae mere naunihaal
+  Tukre jigar ye hota hai ae mere naunihaal
   Tanha na chhoro kar lo zaifi ka kuchh khayaal
   Hasrat se chume bete ke maadar ne ro ke nain
 
   7
   Khuṅ meiṅ haiṅ dube gesu to chehra hai khuṅ bhara
-  Sehra kahaṅ maiṅ baandhuṅ bata do koi zara
+  Sehra kahaṅ main baandhuṅ bata do koi zara
   Dulha banaauṅ kaise tujhe bol dil ke chain
 
   8
   Saaib ye piri aur wo Akbar jawaaṅ ki laash
-  Bete ki maiyyat pe hai dil-e-Shah paash paash
+  Bete ki mayyat pe hai dil-e-Shah paash paash
   Aankhoṅ ka nur kho gaya kehte haiṅ ye Husain
 ---
 اکبر جواں کی لاش پہ مادر کے ہیں یہ بین

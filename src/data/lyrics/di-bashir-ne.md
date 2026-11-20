@@ -36,7 +36,7 @@ romanLyrics: |-
   Lut gaye haram mar gaye Husain
 
   4
-  Bewoṅ ko kiya uṅtoṅ par sawaar
+  Bewoṅ ko kiya untoṅ par sawaar
   Di mariz ke haath meiṅ mihaar
   Manziloṅ gharib kaaṅtoṅ pe chala
   Lut gaye haram mar gaye Husain

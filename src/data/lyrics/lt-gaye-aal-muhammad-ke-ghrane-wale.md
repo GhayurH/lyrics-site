@@ -9,43 +9,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Lut gaye aal-e-Muhammad ke gharane wale
-  Tarse pani ko jo Kausar ke lutane wale
+  Lut gaye aal-e-Muhammad ke gharaane wale
+  Tarse paani ko jo Kausar ke lutaane wale
 
   1
-  Ho gayi sham unhaiṅ Shaam ke bazaruṅ may
-  Aik bimar ko lakoṅ haiṅ satane wale
+  Ho gayi shaam unheiṅ Shaam ke baazaaroṅ meiṅ
+  Aik bimaar ko laakhoṅ haiṅ sataane wale
 
   2
-  Zahra kehti bakshwa duṅ gi unhaiṅ mehshar may
-  Jo mere laal pe ansu haiṅ bahane wale
+  Zahra kehti bakhshwa duṅ gi unheiṅ mahshar meiṅ
+  Jo mere laal pe aansu haiṅ bahaane wale
 
   3
-  Pani tak tu ne maanga mere mazlum Husain
-  Tegh o khanjar se pyas apni bujhane wale
+  Paani tak tu ne na paaya mere mazlum Husain
+  Tegh o khanjar se pyaas apni bujhaane wale
 
   4
   Boli Zainab jo giri khaak pe taswir-e-Rasul
-  Chal base yaad bhi nana ki dilane wale
+  Chal base yaad bhi naana ki dilaane wale
 
   5
-  Ro ke kehti thi Sakina mere chacha ho kahaṅ
-  Loat kar aaye nahi pani pilane wale
+  Ro ke kehti thi Sakina mere chaacha ho kahaaṅ
+  Laut kar aaye nahiṅ paani pilaane wale
 
   6
-  Boli Fizza na inhaiṅ maro zara sharm karo
-  Ye to nabiyoṅ ki bhi haiṅ shaan barrhane wale
+  Boli Fizza na inheiṅ maaro zara sharm karo
+  Ye to nabiyoṅ ki bhi haiṅ shaan barhaane wale
 
   7
-  Tir besheer ko kehte hue roya Kausar
-  Kiuṅ hue zibha zubaṅ khusk phirane wale
+  Tir be shir ko kehte hue roya Kausar
+  Kiuṅ hue zibah zubaaṅ khushk phiraane wale
+
   8
-  Azm-e-Shabbir Ko Dekha To Pukar Uthe Khalil
-  Marhaba Laasha-e-Akbar Ko Uthane Waale
+  Azm-e-Shabbir ko dekha to pukaar uthe Khalil
+  Marhaba laasha-e-Akbar ko uthaane wale
 
   9
-  Hurr Ki Taqdir Ko Ek Pal Meiṅ Badal Dete Haiṅ
-  Aise Hote Haiṅ Muhammad Ke Gharane Waale
+  Hurr ki taqdir ko ek pal meiṅ badal dete haiṅ
+  Aise hote haiṅ Muhammad ke gharaane wale
 ---
 
 لُٹ گئے آلِ محمدؐ کے گھرانے والے

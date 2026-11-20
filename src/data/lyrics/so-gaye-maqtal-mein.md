@@ -20,7 +20,7 @@ romanLyrics: |-
   Jal chuke khaime kahiṅ par aur kahiṅ kohraam hai
 
   2
-  Hai tamaache ek yatima par Khudaaya is qadar
+  Hai tamaanche ek yatima par Khudaaya is qadar
   Ummat-e-Islam ka kya khub ye inaam hai
 
   3
@@ -32,12 +32,12 @@ romanLyrics: |-
   Ab yahaaṅ se ghar hamaara dekho bas do gaam hai
 
   5
-  Hai namaaz o roza o hajj sirf majlis Shaah ki
+  Hai namaaz o roz o hajj sirf majlis Shaah ki
   Kis jahaaṅ ke waaste ham par laga ilzaam hai
 
   6
   Roz o shab masruf rehte hai pare maatam sada
-  Gham meiṅ rona Shaah-e-diṅ ke bas hamaara kaam hai
+  Gham meiṅ rona Shaah-e-diṅ ke ke bas hamaara kaam hai
 
   7
   Jab se dekhi naujawaaṅ ke dil meiṅ barchhi ki ani
@@ -45,11 +45,11 @@ romanLyrics: |-
 
   8
   Gham meiṅ jina gham meiṅ marna hai muqaddar ya Husain
-  Ye hamaari zindagi Sarwar tumhaare naam hai
+  Ya hamaari zindagi Sarwar tumhaare naam hai
 
   9
-  Aap ke nauhoṅ se Maula Saaber o Iqbal hai
-  Nauha khwaani nauha goyi donoṅ ka ek kaam hai
+  Aap ke nauhoṅ se Maula Saabir o Iqbal hai
+  Nauha khwaani nauha goyi donoṅ ka ik kaam hai
 ---
 سو گئے مقتل میں سرور حشر کا ہنگام ہے
 اہلبیت مصطفیٰ پر بیکسی کی شام ہے

@@ -8,148 +8,85 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab aagayee bhai
-
-  Lo zindane sham se chut kar
-
-  Zainab aagayi bhai....
-
+romanLyrics: |-
+  Zainab aa gayi bhai
 
   1
-
-  Ab na yahan se ghar jayegi laut ke ye majayi
-
+  Lo zindaan-e-Shaam se chhut kar
 
   2
-
-  Baad tere aisa loota ghar
-
-  Sar pe na chori ek ke chadar
-
-  Khaynch liya bemaar ka bistar
-
-  Deti rahi mai duhaai
-
+  Ab na yahaṅ se ghar jaaye gi
+  Laut ke ye maaṅ jaayi
 
   3
-
-  Tareeki raste anjane
-
-  Dushman har soo naize taane
-
-  Karbobala ke ban may na jaane
-
-  Kaisi sham thi aayi
-
+  Baad tere aise luta ghar
+  Sar pe na chhori ek ke chaadar
+  Khainch liya bimaar ka bistar
+  Deti rahi main duhaai
+  Zainab aa gayi bhai ...
+  Taariki raste anjaane
+  Dushman har su neze taane
+  Karb o bala ke ban mein na jaane
+  Kaisi shaam thi aayi
 
   4
-
-  Hasrat to thi jaane khwahar
-
-  Dete ijazat gar ye sitamgar
-
-  Mayyat par kuch dayr teher kar
-
-  Ro leti maajayi
-
+  Hasrat to thi jaan-e-khwahar
+  Dete ijaazat gar ye sitamgar
+  Mayyat par kuchh der thahar kar
+  Ro leti maaṅ jaayi
 
   5
-
-  Sar kholay be-makhna o chadar
-
-  Aada legaye hum ko dar dar
-
-  Kya boloo ek ek qadam par
-
+  Sar khole be makhna o chaadar
+  Aada le gaye ham ko dar dar
+  Kya boluṅ ek ek qadam par
   Kis kis ki yaad aayi
 
-
   6
-
-  Koday jab bemaar pe barse
-
-  Rote thay hum sab haste thay
-
-  Hukm tera tha hum bebas thay
-
-  Jhel gaye ruswaayi
-
-
-  7
-
-  Chalte chalte sham jo pahunchay
-
-  Kuch mat poocho bhaiya hum se
-
-  Maut thi behtar is jeene se
-
+  Kore jab bimaar pe barse
+  Rote the ham sab hanste the
+  Hukm tera tha ham bebas the
+  Jhel gaye ruswaai
+  Zainab aa gayi bhai ...
+  Chalte chalte Shaam jo pahunche
+  Kuchh mat puchho bhaiya ham se
+  Maut thi behtar is jine se
   Maut magar na aayi
 
+  7
+  Roshan the har gaam pe raste
+  Kucha o baazaar saje the
+  Rah gayi ik tamaasha ban ke
+  Qadam qadam maaṅ jaayi
 
   8
-
-  Roshan thay har gaam pe raste
-
-  Koocha o bazaar saje thay
-
-  Rehgayi ek tamasha banke
-
-  Qadam qadam maajayi
-
+  Haaye mera bimaar bhatija
+  Pal pal khun ke aansu roya
+  Kya karti majbur thi bhaiya
+  Kuchh na bahan kar paayi
 
   9
-
-  Haye mera bemaar bhatija
-
-  Pal pal khoon ke aansoo roya
-
-  Kya karti majboor thi bhaiya
-
-  Kuch na behan kar payi
-
+  Gham se phata jaata hai kaleja
+  Jaago baraadar utho bhaiya
+  Le lo us laachaar ka pursa
+  Shaam jise chhor aayi
 
   10
-
-  Gham se phta jaat ahai kaleja
-
-  Jago baradar utho bhaiya
-
-  Lelo us lachaar ka pursa
-
-  Shaam jise chor aayi
-
+  Teri yaad mein us dukhiya ke
+  Aansu ek na pal thamte the
+  Kis ko pata tha is surat se
+  Us ko mile gi rihaai
 
   11
-
-  Teri yaad may us dukhiya ke
-
-  Aansoo ek na pal thamte thay
-
-  Kisko pata tha is surat se
-
-  Usko milegi rihaai
-
+  Teri yaad jab aati thi wo
+  Roti thi chillaati thi wo
+  Roz tamaache khaati thi wo
+  Bhai teri shaidaai
 
   12
-
-  Teri yaad jab aati thi wo
-
-  Roti thi chillati thi wo
-
-  Roz tamachay khati thi wo
-
-  Haye teri shedayi
-
-
-  13
-
-  Dard ka paykar gham ki zaban hoo
-
-  Ek tasveere aagh o fughan hoo
-
-  Pusht pe mai durro ke nishan hoo
-
-  Aaj dikhane aayi'
+  Dard ka paikar gham ki zabaaṅ huṅ
+  Ik tasvir-e-aah o fughaaṅ huṅ
+  Pusht pe main durroṅ ke nishaaṅ huṅ
+  Aaj dikhaane aayi
 ---
 
 زینب آ گئی بھائی

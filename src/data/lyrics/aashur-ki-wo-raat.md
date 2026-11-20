@@ -12,46 +12,46 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aashur ki wo raat wo sannate ka aalam
-  Fitrat ki khamoshi meiṅ farishtoṅ ka wo matam
+  Aashur ki wo raat wo sannaate ka aalam
+  Fitrat ki khamoshi meiṅ farishtoṅ ka wo maatam
   Soya hua ran meiṅ Asadullah ka zaigham
   Aur khun meiṅ duba hua Islam ka parcham
-  Abbas tujhe ahl-e-wafa yaad kareṅge
+  Abbaas tujhe ahl-e-wafa yaad kareṅge
 
   1
-  Dekhi na gayi bachchoṅ ki jab tashna dahani
-  Aankhoṅ meiṅ khatakne lagi maujoṅ ki rawani
-  Pani ke liye apna lahu kar diya pani
-  Bachpan pe Sakina ke fida kar di jawani
-  Abbas tujhe ahl-e-wafa yaad kareṅge
+  Dekhi na gayi bachchoṅ ki jab tashna dahaani
+  Aankhoṅ meiṅ khatakne lagi maujoṅ ki rawaani
+  Paani ke liye apna lahu kar diya paani
+  Bachpan pe Sakina ke fida kar di jawaani
+  Abbaas tujhe ahl-e-wafa yaad kareṅge
 
   2
   Qabze meiṅ thi talwaar ke qabze meiṅ khudaai
   Do haath chali thi ke taraai nazar aayi
   Bhai ki wigha dur se dekha kiye bhai
-  Yuṅ shaan-e-wafa tu ne wafadar dikhaai
-  Abbas tujhe ahl-e-wafa yaad kareṅge
+  Yuṅ shaan-e-wafa tu ne wafaadaar dikhaai
+  Abbaas tujhe ahl-e-wafa yaad kareṅge
 
   3
-  Ae Fatima Zehra ke qamar nayyar-e-taabaṅ
-  Bazu-e-Husain Ibn-e-Ali naasir-e-imaṅ
+  Ae Faatima Zehra ke qamar nayyar-e-taabaṅ
+  Baazu-e-Husain Ibn-e-Ali naasir-e-imaaṅ
   Khaaliq ki qasam kar diya Islam pe ehsaaṅ
-  Ae mashk-e-Sakina ke muhafiz tere qurbaaṅ
-  Abbas tujhe ahl-e-wafa yaad kareṅge
+  Ae mashk-e-Sakina ke muhaafiz tere qurbaaṅ
+  Abbaas tujhe ahl-e-wafa yaad kareṅge
 
   4
   Dunya se gaya shaan wafaaoṅ ki dikha kar
-  Pani na piya pyasa raha nehr pe ja kar
-  Ghore se gira khaak pe baazu ko kata kar
+  Paani na piya pyaasa raha nehr pe ja kar
+  Ghore se gira khaak pe baazu ko kataa kar
   Soya bhi to soyi hui millat ko jaga kar
-  Abbas tujhe ahl-e-wafa yaad kareṅge
+  Abbaas tujhe ahl-e-wafa yaad kareṅge
 
   5
-  Kazim koi karta hai to karne do bahana
-  Gunjega fazaaoṅ meiṅ wafaaoṅ ka tarana
-  Har rang meiṅ dhal jayega ye gham ka fasana
-  Fitrat to na badlegi badal jaaye zamana
-  Abbas tujhe ahl-e-wafa yaad kareṅge
+  Kaazim koi karta hai to karne do bahaana
+  Gunjega fazaaoṅ meiṅ wafaaoṅ ka taraana
+  Har rang meiṅ dhal jaayega ye gham ka fasaana
+  Fitrat to na badlegi badal jaaye zamaana
+  Abbaas tujhe ahl-e-wafa yaad kareṅge
 ---
 
 عاشور کی وہ رات وہ سناٹے کا عالم

@@ -1,56 +1,101 @@
 ---
-title: "Dard-e-Yateemi"
+title: "دردِ یتیمی"
+alternateTitle: "Dard-e-Yateemi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saleem"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aye Baba Sakina ko teri sata ke
+  Laeen hans rahe hain yateema bola ke
+
+  1
+  Jalay they jo khaimay tu bahir thi aayi
+  Shaqi ne jo mara main kuch kar na payi
+  Tamachay laga kar gohar mere nochay
+  Gaya phir shaqi mera daman jala ke
+
+  2
+  Sitam yeh bhi mujh par laeeno ne dhaya
+  Bana koi mehmal shutar par bithaya
+  Shutar ko bhaga kar mujhe phir giraya
+  Shaqi khush hoye sare mujh ko rula ke
+
+  3
+  Galay mein rasan mere bandhi gayi thi
+  Main rastay mein panjon ke bal chal rahi thi
+  Issi tarha Baba main zakhmi hoi thi
+  Phiratay rahe mujh ko qaidi bana ke
+
+  4
+  Qayamat thi darbar ne mujh pe dhayi
+  Kaneezi mein mangi gayi teri jayi
+  Main sehmi hoi bhai ko dekhti thi
+  Woh aanso bahatay they nazrein chura ke
+
+  5
+  Chacha baap bhai ke jane ka gham hai
+  Badan sara zakhmi kamar meri khum hai
+  Siyahi bhi baloon mein ab mere kam hai
+  Zaeefa yeh marne ko hai gham utha ke
+
+  6
+  Ali our Zahra ki poti hoon Baba
+  Zameen par main zindaan ke soti hoon Baba
+  Tumhein yaad kar ke main roti hoon Baba
+  Sakina ko le jao zindaan se aa ke
+
+  7
+  Saleem our Syed yateema pe kitne
+  Mazalim na jane laeeno ne dhaye
+  Lehad mein utara hai Abid ne iss ko
+  Kafan khoon bharay pairhan ko bana ke
 ---
 
-Aye Baba Sakina Ko Teri Sata Ke.
-Laeen Hans Rahe Hain Yateema Bola Ke.
+اے بابا سکینہ کو تیری ستا کے
+لعین ہنس رہے ہیں یتیمہ بلا کے
 
-1
-Jalay They Jo Khaimay Tu Bahir Thi Aayi.
-Shaqi Ne Jo Mara Main Kuch Kar Na Payi.
-Tamachay Laga Kar Gohar Mere Nochay.
-Gaya Phir Shaqi Mera Daman Jala Ke.
+۱
+جلے تھے جو خیمے تو باہر تھی آئی
+شقی نے جو مارا میں کچھ کر نہ پائی
+طمانچے لگا کر گوہر میرے نوچے
+گیا پھر شقی میرا دامن جلا کے
 
-2
-Sitam Yeh Bhi Mujh Par Laeeno Ne Dhaya.
-Bana Koi Mehmal Shutar Par Bithaya.
-Shutar Ko Bhaga Kar Mujhe Phir Giraya.
-Shaqi Khush Hoye Sare Mujh Ko Rula Ke.
+۲
+ستم یہ بھی مجھ پر لعینوں نے ڈھایا
+بنا کوئی محمل شتر پر بٹھایا
+شتر کو بھگا کر مجھے پھر گرایا
+شقی خوش ہوئے سارے مجھ کو رلا کے
 
-3
-Galay Mein Rasan Mere Bandhi Gayi Thi.
-Main Rastay Mein Panjon Ke Bal Chal Rahi Thi.
-Issi Tarha Baba Main Zakhmi Hoi Thi.
-Phiratay Rahe Mujh Ko Qaidi Bana Ke.
+۳
+گلے میں رسن میرے باندھی گئی تھی
+میں رستے میں پنجوں کے بل چل رہی تھی
+اسی طرح بابا میں زخمی ہوئی تھی
+پھراتے رہے مجھ کو قیدی بنا کے
 
-4
-Qayamat Thi Darbar Ne Mujh Pe Dhayi.
-Kaneezi Mein Mangi Gayi Teri Jayi.
-Main Sehmi Hoi Bhai Ko Dekhti Thi.
-Woh Aanso Bahatay They Nazrein Chura Ke.
+۴
+قیامت تھی دربار نے مجھ پہ ڈھائی
+کنیزی میں مانگی گئی تیری جائی
+میں سہمی ہوئی بھائی کو دیکھتی تھی
+وہ آنسو بہاتے تھے نظریں چرا کے
 
-5
-Chacha Baap Bhai Ke Jane Ka Gham Hai.
-Badan Sara Zakhmi Kamar Meri Khum Hai.
-Siyahi Bhi Baloon Mein Ab Mere Kam Hai.
-Zaeefa Yeh Marne Ko Hai Gham Utha Ke.
+۵
+چچا باپ بھائی کے جانے کا غم ہے
+بدن سارا زخمی کمر میری خم ہے
+سیاہی بھی بالوں میں اب میرے کم ہے
+ضعیفہ یہ مرنے کو ہے غم اٹھا کے
 
-6
-Ali Our Zahra Ki Poti Hoon Baba.
-Zameen Par Main Zindaan Ke Soti Hoon Baba.
-Tumhein Yaad Kar Ke Main Roti Hoon Baba.
-Sakina Ko Le Jao Zindaan Se Aa Ke.
+۶
+علی اور زہرا کی پوتی ہوں بابا
+زمین پر میں زنداں کے سوتی ہوں بابا
+تمہیں یاد کر کے میں روتی ہوں بابا
+سکینہ کو لے جاؤ زنداں سے آ کے
 
-7
- Saleem Our Syed Yateema Pe Kitne.
-Mazalim Na Jane Laeeno Ne Dhaye.
-Lehad Mein Utara Hai Abid Ne Iss Ko.
-Kafan Khoon Bharay Pairhan Ko Bana Ke.
+۷
+سلیم اور سید یتیمہ پہ کتنے
+مظالم نہ جانے لعینوں نے ڈھائے
+لحد میں اتارا ہے عابد نے اس کو
+کفن خون بھرے پیرہن کو بنا کے

@@ -42,7 +42,7 @@ romanLyrics: |-
   Dena hai imtihaan mukammal Husain ko
 
   5
-  Khanjar laain sukhe gale par chalaayega
+  Khanjar la'in sukhe gale par chalaayega
   Tan par mere libaas talak bach na paayega
   Meri behan se haal ye dekha na jaayega
   Aata hai ye khayaal har ek pal Husain ko
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   8
   Zakhmi Husain soch rahe haiṅ sipaah meiṅ
-  Sar se rida ko pheṅk ke bhai ki chaah meiṅ
+  Sar se rida ko pheṅk ke bhaai ki chaah meiṅ
   Ghabra ke aa na jaaye behan qatlgaah meiṅ
   Mushkil ka ab bata de koi hal Husain ko
 

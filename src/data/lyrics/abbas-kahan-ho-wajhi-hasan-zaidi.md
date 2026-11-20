@@ -20,7 +20,7 @@ romanLyrics: |-
   Abbas kahaaṅ ho, aa jaao jahaaṅ ho
 
   2
-  Sine pe sinaaṅ kha chuke Akbar gaye maare
+  Sine pe sinaaṅ khaa chuke Akbar gaye maare
   Khaali hua jhula Ali Asghar gaye maare
   Tanha huiṅ Sayyidaaniyaaṅ Sarwar gaye maare
   Zainab hai pareshaaṅ chale aao jahaaṅ ho
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   6
   Bachcha koi rota hai idhar taapoṅ meiṅ aa ke
-  Bachchi koi roti hai idhar kha ke tamaancheṅ
+  Bachchi koi roti hai idhar khaa ke tamaancheṅ
   Laauṅ to bhala laauṅ zabaaṅ aisi kahaaṅ se
   Alfaaz nahiṅ haal jo bachchoṅ ka bayaaṅ ho
 ---

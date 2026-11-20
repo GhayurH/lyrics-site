@@ -12,8 +12,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Wali ibn-e-wali sakhi ibn-e-sakhi
-  Jari ibn-e-jari sher-e-jali naad-e-Ali
+  Wali ibn-e-wali saqi ibn-e-saqi
+  Jari ibn-e-sher-e-jali naad-e-Ali
 
   1
   Darham barham hai lashkar saara
@@ -27,8 +27,8 @@ romanLyrics: |-
   Bhaag lo ab ran se aaj to sar tan se
   Ruh ka jivan se
   Yani rishta tan man dhan se
-  Baaqi na rahega khuṅ sab ka bahega
-  Koi na bachega gar kar de hamla Abbas
+  Baaqi na rahe ga khuṅ sab ka bahe ga
+  Koi na bache ga gar kar de hamla Abbas
   Haidar-e-Karbala Abbas
   Haidar-e-Karbala Abbas
   Haidar-e-Karbala Abbas
@@ -42,14 +42,14 @@ romanLyrics: |-
   Sitamgaroṅ ko khaak chata ke
   Badal diye hai rang faza ke
   Wo dekho darya chhin liya hai
-  Adu ka pehra tut chuka hai
-  Faza meiṅ naara gunj raha hai
+  Adu ke pehra tut chuka hai
+  Faza mein naara gunj raha hai
   Alam jari ne gaar diya hai
-  Alqama kar degi faisla
+  Alqama kar de gi faisla
   Ae fauj-e-ashqiya
   Darya tha kal bhi mera aaj bhi mera
   Maujoṅ ne kaha hai saahil par likha hai
-  Waada jo kiya hai kar dega pura Abbas
+  Waada jo kiya hai kar de ga pura Abbas
   Paani par Abbas ka qabza
   Kal bhi tha aur aaj bhi hai
   Sun le jahaaṅ darya ye hamaara
@@ -68,12 +68,12 @@ romanLyrics: |-
   Ya sher-e-babbar Abbas
   Shabaab-e-Murtaza Abbas
   Dua-e-Faatima Abbas
-  Alam daar-e-Husain Abbas
+  Alamdaar-e-Husain Abbas
   Hasan ke dil ke chain Abbas
-  Abal Fazl-e-Ali Abbas
+  Abal Fazl Ali Abbas
   Wali ibn-e-wali Abbas
   Dil-e-Ummul Banin Abbas
-  Hasinoṅ mein hasiṅ Abbas
+  Hasinoṅ se hasiṅ Abbas
   Bahaadur aur nidar
   Ae sher-e-nar Shah ki sipar Abbas
   Wafa ki ibtida aur intiha
@@ -104,8 +104,8 @@ romanLyrics: |-
   Maimana ulta hai
   Maisara bikhra hai
   Har jagah dekha hai
-  Shiraaza saari faujoṅ ka
-  Qasim hai na Akbar
+  Shiraazi saari faujoṅ ka
+  Qasim hai na dilaawar
   Na Hur sa dilaawar
   Kehte hai ye Sarwar
   Kaafi hai tanha Abbas
@@ -122,15 +122,15 @@ romanLyrics: |-
   Kehte haiṅ mujhe saqqa-e-haram
   Maula ki qasam toruṅ ga bharam
   Bhaageṅ ge abhi ye ahl-e-sitam
-  Wo hashr bapa maiṅ kar duṅ ga
+  Wo hashr bapa main kar duṅ ga
   Laashoṅ se ye maqtal bhar duṅ ga
-  Gar mashk pe waar karoge tum
-  Maiṅ jina mushkil kar duṅ ga
+  Gar mashk pe waar karo ge tum
+  Main jina mushkil kar duṅ ga
   Jo kaha Ghazi ne kar diya Haidar ki hai sada tu ne to
   Naqsha khaincha hai Khaibar ka
   Har su hai tabaahi
   Ae mere sipaahi
-  Maiṅ duṅ ga gawaahi
+  Main duṅ ga gawaahi
   Ae mere beta Abbas
   Haidar-e-Karbala Abbas
   Haidar-e-Karbala Abbas
@@ -142,23 +142,23 @@ romanLyrics: |-
   Ya sher-e-babbar Abbas
   Darya pe alam ko gaar diya
   Pyaasoṅ ke liye mashkiza bhara
-  Khaime ki taraf Ghazi jo chala
+  Khaime ke taraf Ghazi jo chala
   Ghazi ko adu ne gher liya
   Wo tir chale wo mashk chhidi
-  Baazu jo kate sambhla na jari
+  Baazu jo kate sambhaal na jari
   Thi gurz se zakhmi peshaani
-  Maqtal meiṅ tarapta tha Ghazi
-  Ek aankh meiṅ us ki tir laga
-  Khaimoṅ meiṅ idhar faryaad ye thi
+  Maqtal mein tarapta tha Ghazi
+  Ek aankh mein us ki tir laga
+  Khaimoṅ mein idhar faryaad ye thi
   Waawaila waawaila waawaila al Abbas
   Waawaila waawaila waawaila al Abbas
-  Waawaila al Abbas waawaila al Abbas
+  Waawaila waawaila waawaila al Abbas
   Waawaila al Abbas
-  Khaimoṅ meiṅ alam aaya hai alam bardaar nahiṅ aaya
+  Khaimoṅ mein alam aaya hai alam bardaar nahiṅ aaya
   Ae Mazhar aur Farhan Sakina ne ye farmaaya
   Waawaila waawaila waawaila al Abbas
   Waawaila waawaila waawaila al Abbas
-  Waawaila al Abbas waawaila al Abbas
+  Waawaila waawaila waawaila al Abbas
 ---
 
 ولی ابن ولی سقی ابن سقی

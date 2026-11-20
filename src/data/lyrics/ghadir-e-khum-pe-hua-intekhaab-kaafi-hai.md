@@ -12,7 +12,7 @@ aliases: ["ghadeer-e-khum-pe-howa-intehab-kafi-hai-ammar-yasir-magsi"]
 published: true
 romanLyrics: |-
   1
-  Hameiṅ hadis-e-risaalat maab kaafi hai
+  Hameṅ hadis-e-risaalat maab kaafi hai
   Ghadir-e-Khum pe hua intekhaab kaafi hai
 
   2
@@ -20,7 +20,7 @@ romanLyrics: |-
   Khatib-e-nok-e-sinaa ka khitaab kaafi hai
 
   3
-  Usi zabaan se jaari hua tha lau la Ali
+  Usi zabaan se jaari hua tha lau laa Ali
   Jo keh rahi thi Khuda ki kitaab kaafi hai
 
   4

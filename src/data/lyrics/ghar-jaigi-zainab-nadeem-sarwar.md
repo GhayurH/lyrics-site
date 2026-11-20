@@ -9,79 +9,50 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Ghar Jaigi Zainab Nadeem Sarwar"
-romanLyrics: 'Ghar Jaigi Zainab Nadeem Sarwar Lyrics
-
-  Gham Khaye Gi Zainab Mar Jaye Gi Zainab.
-
-  Zindaan Se Reha Ho Ke Jo Ghar Jaye Gi Zainab.
-
-  Bin Bhai Ke Jaye Gi Tu Mar Jaye Gi Zainab.
-
+romanLyrics: |-
+  Gham khaaye gi Zainab mar jaaye gi Zainab
+  Zindaaṅ se reha ho ke jo ghar jaaye gi Zainab
+  Bin bhaai ke jaaye gi to mar jaaye gi Zainab
 
   1
-
-  Ghar Lut Gaya Pardais Mein Veeran Hai Dunya.
-
-  Zindaan Se Reha Ho Ke Bhi Zindan Hai Dunya.
-
-  Iss Qaid Se Ghar Ja Ke Bhi Kiya Paye Gi Zainab.
-
-  Soona Hai Makaan Jis Mein Woh Shedayi Na Hoon Gay.
-
+  Ghar lut gaya pardes mein veeraan hai dunya
+  Zindaaṅ se reha ho ke bhi zindaan hai dunya
+  Is qaid se ghar jaa ke bhi kya paaye gi Zainab
 
   2
-
-  Ghar Ho Ga Magar Ghar Mein Mere Bhai Na Hoon Gay.
-
-  Ta Hashar Yehi Bhai Ka Gham Khaye Gi Zainab.
-
-  Bachpan Hai Jahan Aoun-o-Muhammad Ne Guzara.
-
-  Ab Unn Dar-o-Dewar Ki Tanhai Ne Mara.
-
+  Suna hai makaaṅ jis mein woh shaidaai na hoṅ ge
+  Ghar ho ga magar ghar mein mere bhaai na hoṅ ge
+  Taa hashr yahi bhaai ka gham khaaye gi Zainab
 
   3
-
-  Ab Unn Ke Na Saye Mein Kabhi Jaye Gi Zainab.
-
-  Be Aas Mujhe Kar Gaye Bachay Mere Kamsin.
-
-  Bin Beton Ke Kehlayi Tu Kehlayi Main Lekin.
-
-  Bin Bhai Ke Dunya Mein Na Kehlaye Gi Zainab.
-
+  Bachpan hai jahaaṅ Aun o Muhammad ne guzaara
+  Ab un dar o deewaar ki tanhaai ne maara
+  Ab un ke na saaye mein kabhi jaaye gi Zainab
 
   4
-
-  Iss Baat Pe Hairat Hai Bohat Ahl-e-Watan Mein.
-
-  Abbas Se Bhai Ki Bahan Our Rasan Mein.
-
-  Rodad Yeh Kis Tarha Se Batlaye Gi Zainab.
-
-  Aaya Na Koi Laut Ke Bhai Tera Sughra.
-
+  Be aas mujhe kar gaye bachche mere kamsin
+  Bin betoṅ ke kehlaai to kehlaai main lekin
+  Bin bhaai ke dunya mein na kehlaaye gi Zainab
 
   5
-
-  Soona Hi Rahe Ga Bani Hashim Ka Muhalla.
-
-  Kya De Ke Dilasay Ossay Behlaye Gi Zainab.
-
-  Haye Roti Hoi Jab Jaon Gi Nana Ki Lehad Par.
-
-  Our Majra Pochay Gi Wahan Roh-e-Payamber.
-
+  Is baat pe hairat hai bahut ahl-e-watan mein
+  Abbaas se bhaai ki bahan aur rasan mein
+  Rudaad ye kis tarah se batlaaye gi Zainab
 
   6
+  Aaya na koi laut ke bhaai tera Sughra
+  Suna hi rahe ga Bani Haashim ka muhalla
+  Kya de ke dilaase use bahlaaye gi Zainab
 
-  Kurta Woh Phata Bhai Ka Dikhlaye Gi Zainab.
+  7
+  Haaye roti hui jab jaauṅ gi naana ki lahad par
+  Aur maajra puchhe gi wahaan ruh-e-payambar
+  Kurta woh phata bhaai ka dikhlaaye gi Zainab
 
-  Aaya Na Hilal Aisa Kara Waqt Kissi Par.
-
-  Kis Kis Ke Liye Roye Gi Yeh Bekas-o-Muztar.
-
-  Kis Kis Ka Wahan Fateha Dilwaye Gi Zainab.'
+  8
+  Aaya na Hilaal aisa kara waqt kisi par
+  Kis kis ke liye roye gi ye bekas o muztar
+  Kis kis ka wahaaṅ faatiha dilwaaye gi Zainab
 ---
 
 غم کھائے گی زینب مر جائے گی زینب

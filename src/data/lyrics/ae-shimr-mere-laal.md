@@ -12,11 +12,11 @@ tags: []
 aliases: ["Ay Shimr Mere Laal"]
 published: true
 romanLyrics: |-
-  Bole Shabbir ke Sarwar ko sambhaalo amma
-  Aakhri baar kaleje se laga lo amma
+  Bole Shabbir ke Sarwar ko sambhaalo ammaaṅ
+  Aakhri baar kaleje se laga lo ammaaṅ
 
   Sun ke bete ki sada aa gayi khaatun-e-jinaaṅ
-  Dasht meiṅ kehne lagi maaṅ hai mera laal kahaṅ
+  Dasht meiṅ kehne lagi maaṅ hai mera laal kahaaṅ
 
   Bikhraaye baal kehti hai jangal meiṅ Fatema
   Ae Shimr mere laal ko aise na zabh kar
@@ -24,7 +24,7 @@ romanLyrics: |-
   1
   Paala hai chakki pis ke maiṅ ne Husain ko
   Do bund paani de de zara nur-e-ain ko
-  Hai tin din se khushk gala wa musibata
+  Hai tin din se khushk gala waa musibata
 
   2
   Maiṅ maaṅ huṅ mere saamne mat qatl kar ise
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   3
   Maalum tha ke hogi shahaadat Husain ki
-  Maalum tha ke jaan na bachegi pisar teri
+  Maalum tha na jaan bachegi pisar teri
   Aisa koi bhi qatl nahiṅ aaj tak hua
 
   4
@@ -44,12 +44,12 @@ romanLyrics: |-
   5
   Mayyat utha chuka hai bahattar ki laadla
   Akbar ke khuṅ meiṅ dub gayi Shaah ki aba
-  Us ki jabiṅ se khun hai beshir ka laga
+  Uski jabiṅ se khun hai beshir ka gala
 
   6
   Maiṅ is ko dekh dekh ke roti rahi sada
   Jab jab bhi chumti thi maiṅ halqum Shaah ka
-  Amma na roiye yehi kehta tha baaraha
+  Ammaaṅ na roiye yehi kehta tha baarhaa
 
   7
   Shabbir qatl ho gaye maiṅ dekhti rahi

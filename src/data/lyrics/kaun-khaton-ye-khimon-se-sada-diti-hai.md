@@ -8,27 +8,27 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kaun Khatun ye khaimoṅ se sada deti hai
-  Kamp uthti hai zamiṅ arsh hila deti hai
+  Kaun khaatun ye khaimoṅ se sadaa deti hai
+  Kaanp uthti hai zamiṅ arsh hilaa deti hai
 
   1
-  Kabhi taqdir ataa karti hai Ghazi ko Alam
-  Kabhi Zainab ko Alamdar bana deti hai
+  Kabhi taqdir ataa karti hai Ghaazi ko alam
+  Kabhi Zainab ko alamdaar banaa deti hai
 
   2
-  Aik bimar ko kandhe se laga kar Zainab
-  Kabhi Akbar ko Ghazi ko sada deti hai
+  Aik bimaar ko kaandhe se lagaa kar Zainab
+  Kabhi Akbar kabhi Ghaazi ko sadaa deti hai
 
   3
-  Ae Khuda teri Khudayi ka bharam reh jaye
-  Leh tere naam pe Zainab ye rida deti hai
+  Ae Khudaa teri khudaayi ka bharam reh jaaye
+  Le tere naam pe Zainab ye ridaa deti hai
 
   4
   Kitne pyaare haiṅ tere Aun o Muhammad Zainab
-  Inko to maut bhi jine ki dua deti hai
+  Inko to maut bhi jine ki duaa deti hai
 
   5
-  Karbala ki yehi tarif suni hai Kausar
+  Karbala ki yahi taarif suni hai Kausar
   Khaak hai aur marizoṅ ko shifaa deti hai
 ---
 

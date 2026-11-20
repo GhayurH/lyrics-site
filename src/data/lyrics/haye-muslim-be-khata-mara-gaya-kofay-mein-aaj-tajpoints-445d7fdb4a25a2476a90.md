@@ -1,35 +1,60 @@
 ---
-title: "Haye Muslim Be-Khata Mara Gaya Kofay Mein Aaj"
+title: "ہائے مسلم بے خطا مارا گیا کوفے میں آج"
+alternateTitle: "Haye Muslim Be-Khata Mara Gaya Kofay Mein Aaj"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qasim"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Haye Muslim be-khata mara gaya Kofay mein aaj
+  Gham ki hai ik bar phir chayi ghata Kofay mein aaj
+  Dil phata jata hai Sheh ka gham mein hain Abbas bhi
+  Ho rahi hai zulm ki woh inteha Kofay mein aaj
+
+  2
+  Bagi bagi ki sadaein de rahe hain kalmago
+  Hai bapa hone ko jaisey Karbala Kofay mein aaj
+  Karbala mein tu lutey gi kal Ruqaiya ki rida
+  Murtaza ki beti ka hai ghar luta Kofay mein aaj
+
+  3
+  Sheh ne dur Muslim ki beti ko Sakina ke diye
+  Tha ishara mar gaya baba tera Kofay mein aaj
+  Girne ko hai lasha-e-Muslim jo dar-e-zulm se
+  Aaeingi phailane daman Syeda Kofay mein aaj
+
+  4
+  Khon pani mein gira Muslim ka tu bolay Hussain
+  Tashna lab mara gaya bhai mera Kofay mein aaj
+  Kal issay karna hai Qasim bint-e-Zahra ko salam
+  So salami ke liye hai aa gaya Kofay mein aaj
 ---
 
-1
-Haye Muslim Be-Khata Mara Gaya Kofay Mein Aaj.
-Gham Ki Hai Ik Bar Phir Chayi Ghata Kofay Mein Aaj.
-Dil Phata Jata Hai Sheh Ka Gham Mein Hain Abbas Bhi.
-Ho Rahi Hai Zulm Ki Woh Inteha Kofay Mein Aaj.
+۱
+ہائے مسلم بے خطا مارا گیا کوفے میں آج
+غم کی ہے اک بار پھر چھائی گھٹا کوفے میں آج
+دل پھٹا جاتا ہے شہ کا غم میں ہیں عباس بھی
+ہو رہی ہے ظلم کی وہ انتہا کوفے میں آج
 
-2
-Bagi Bagi Ki Sadaein De Rahe Hain Kalmago.
-Hai Bapa Hone Ko Jaisey Karbala Kofay Mein Aaj.
-Karbala Mein Tu Lutey Gi Kal Ruqaiya Ki Rida.
-Murtaza Ki Beti Ka Hai Ghar Luta Kofay Mein Aaj.
+۲
+باغی باغی کی صدائیں دے رہے ہیں کلمہ گو
+ہے بپا ہونے کو جیسے کربلا کوفے میں آج
+کربلا میں تو لٹے گی کل رقیہ کی ردا
+مرتضیٰ کی بیٹی کا ہے گھر لٹا کوفے میں آج
 
-3
-Sheh Ne Dur Muslim Ki Beti Ko Sakina Ke Diye.
-Tha Ishara Mar Gaya Baba Tera Kofay Mein Aaj.
-Girne Ko Hai Lasha-e-Muslim Jo Dar-e-Zulm Se.
-Aaeingi Phailane Daman Syeda Kofay Mein Aaj.
+۳
+شہ نے دُر مسلم کی بیٹی کو سکینہ کے دیے
+تھا اشارہ مر گیا بابا تیرا کوفے میں آج
+گرنے کو ہے لاشۂ مسلم جو درِ ظلم سے
+آئیں گی پھیلانے دامن سیدہ کوفے میں آج
 
-4
-Khon Pani Mein Gira Muslim Ka Tu Bolay Hussain.
-Tashna Lab Mara Gaya Bhai Mera Kofay Mein Aaj.
-Kal Issay Karna Hai Qasim Bint-e-Zahra Ko Salam.
-So Salami Ke Liye Hai Aa Gaya Kofay Mein Aaj.
+۴
+خون پانی میں گرا مسلم کا تو بولے حسین
+تشنہ لب مارا گیا بھائی میرا کوفے میں آج
+کل اسے کرنا ہے قاسم بنتِ زہرا کو سلام
+سو سلامی کے لیے ہے آ گیا کوفے میں آج

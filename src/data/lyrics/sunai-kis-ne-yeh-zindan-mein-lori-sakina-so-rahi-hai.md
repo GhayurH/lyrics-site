@@ -9,113 +9,66 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Sunai Kis Ne Yeh Zindan Mein Lori Sakina So Rahi Hai"
-romanLyrics: 'Sunayi kis ne ye zindan mein lori
-
+romanLyrics: |-
+  Sunaai kis ne yeh zindaaṅ mein lori
   Sakina so rahi hai
 
-
   1
-
-  Khudara zor se bole na koi
-
+  Khudaara zor se bole na koi
 
   2
-
-  Kaha bano ne utho shaahzadi
-
-  Hui kya baat jo maadar se roothi
-
-  Utho baba ka sar aaya hai bibi
-
-  Magar zindan ki har deewar boli
-
+  Kaha Bano ne, utho shaahzaadi
+  Hui kya baat jo maadar se ruthi
+  Utho baba ka sar aaya hai Bibi
+  Magar zindaaṅ ki har divaar boli
 
   3
-
-  Tumhare goshware mil gaye hai
-
-  Dar e zindan saare khul gaye hai
-
-  Rehaai mil gayi jaati hoon ghar ko
-
-  Magar sajjad ki awaaz aayi
-
+  Tumhaare goshvaare mil gaye haiṅ
+  Dar-e-zindan saare khul gaye haiṅ
+  Rihaai mil gayi, jaati huṅ ghar ko
+  Magar Sajjad ki aavaaz aayi
 
   4
-
-  Na ab maarega koi bhi tamache
-
-  Na honge phir se ye ruqsaar neele
-
-  Gala baandha na jayega rasan mein
-
-  Jo aaya shimr to us se kahoongi
-
+  Na ab maarega koi bhi tamaanche
+  Na honge phir se yeh rukhsaar nile
+  Gala baandha na jaayega rasan mein
+  Jo aaya Shimr to us se kahungi
 
   5
-
-  Rida choti si ek sar par udhadun
-
-  Chalo abbas se tumko miladun
-
-  Tumhari mashk hai aur unka seena
-
-  Jo dekhe aasman kehta hai wo bhi
-
+  Rida chhoti si ek sar par urha do
+  Chalo Abbas se tum ko mila duṅ
+  Tumhaari mashk hai aur un ka sina
+  Jo dekhe aasmaaṅ, kehta hai woh bhi
 
   6
-
-  Rasan ka zakhm ashkon se dhula dun
-
-  Tere baalon se ye mitti chuda dun
-
-  Tere talwon ke chaalon ki dawa dun
-
-  Ajal boli ke ye kaise chalegi
-
+  Rasan ka zakhm ashkoṅ se dhula duṅ
+  Tere baaloṅ se yeh mitti chhura duṅ
+  Tere talvoṅ ke chhaaloṅ ki dava duṅ
+  Ajal boli ke yeh kaise chalegi
 
   7
-
-  Huwe jab shaam ke saaye bhi gehre
-
-  Parinde cheh-chahate jaa rahe thay
-
-  Kaha bano ne ay udte parindo
-
-  Sadayein rok lo kuch dayr apni
-
+  Huye jab shaam ke saaye bhi gehre
+  Parinde chahchahaate jaa rahe the
+  Kaha Bano ne, ae urte parindoṅ
+  Sadaayeṅ rok lo kuchh der apni
 
   8
-
-  Andhera roya sannate se mil kar
-
+  Andhera roya sannaate se mil kar
   Falak girne laga dharti ke upar
-
-  Hilaane par bhi jab bacchi na jaagi
-
-  To boli ye fazaon ki khamoshi
-
+  Hilaane par bhi jab bachchi na jaagi
+  To boli yeh fazaaoṅ ki khamoshi
 
   9
-
-  Banane qabr jab sajjad uthe
-
-  To wo nade ali dohra rahe thay
-
-  Bandhe haathon se chaaha qabr khode
-
-  Achanak paaon ki zanjeer chalki
-
+  Banaane qabr jab Sajjad uthe
+  To woh Naad-e-Ali dohra rahe the
+  Bandhe haathoṅ se chaaha qabr kho de
+  Achaanak paaoṅ ki zanjir chhalki
 
   10
-
-  Adab ki jaa hai ye rehaan dekho
-
-  Buland awaaz se hargiz na bolo
-
-  Yahan to fateha bhi dheere padna
-
-  Yahan awaaz hojaye na oonchi'
+  Ajab ki jaa hai yeh Rehan dekho
+  Buland aavaaz se hargiz na bolo
+  Yahaaṅ to faatiha bhi dhire parhna
+  Yahaaṅ aavaaz ho jaaye na unchi
 ---
 
 سنای کس نے یہ زنداں میں لوری

@@ -27,8 +27,8 @@ romanLyrics: |-
 
   3
   Aaj bhi naazaaṅ wafaaeṅ haiṅ tere Abbas par
-  Nehr par Ghaazi ke donoṅ kat gaye baazu magar
-  Taa abad Islaam ke parcham ko uṅcha kar diya
+  Nehr par ghaazi ke donoṅ kat gaye baazu magar
+  Taa abad Islaam ke parcham ko uncha kar diya
 
   4
   Maar kar Ibn-e-Ali ko chhini Zainab ki rida
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Naaz se nok-e-sinaaṅ pe ubhra tha Jawad jo
-  Kaise bhulega zamaana Fatema ke chaand ko
+  Kaise bhule ga zamaana Fatema ke chaand ko
   Sar kata ke us ne apna yuṅ ujaala kar diya
 ---
 

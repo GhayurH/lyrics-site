@@ -1,29 +1,48 @@
 ---
-title: "Sughra Roz Bhirawan De Wain Pandi Raindi Aye Lyrics In Punjabi 2023"
+title: "صغریٰ روز بھراواں دے وین پاندی رہندی اے"
+alternateTitle: "Sughra Roz Bhirawan De Wain Pandi Raindi Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sabir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sughra roz bhirawan de wain pandi raindi aye
+  Akbar bhira diyaan rahwaan takdi rendi aye
+  Pardais tur gaya Akbar ainu roog aisa la gaya
+  Barbad wehriyaan wich pawaan bhardi rendi aye
+
+  2
+  Khabaan beemar nu Nana teraan diyaan darandiyan
+  Veraan di zindagi layi duawaan kardi rendi aye
+  Akbar nu wekh laan Nana ik waar seene la lawaan
+  Nanay tu oss din tak sahwaan mangdi rendi aye
+
+  3
+  Asghar be sheer da jhola khali jadon aye wekhdi
+  Ro ro ke veraan nu aye sadawaan dendi rendi aye
+  Kul kainat nu aye Sughra dendi aye sadqa veer da
+  Sabir sabar oh Bibi atawaan kardi rendi aye
 ---
 
-1
-Sughra Roz Bhirawan De Wain Pandi Raindi Aye.
-Akbar Bhira Diyaan Rahwaan Takdi Rendi Aye.
-Pardais Tur Gaya Akbar Ainu Roog Aisa La Gaya.
-Barbad Wehriyaan Wich Pawaan Bhardi Rendi Aye.
+۱
+صغریٰ روز بھراواں دے وین پاندی رہندی اے
+اکبر بھرا دیاں راہواں تکدی رہندی اے
+پردیس ٹر گیا اکبر اینوں روگ ایسا لا گیا
+برباد ویہڑیاں وچ پاواں بھردی رہندی اے
 
-2
-Khabaan Beemar Nu Nana Teraan Diyaan Darandiyan.
-Veraan Di Zindagi Layi Duawaan Kardi Rendi Aye.
-Akbar Nu Wekh Laan Nana Ik Waar Seene La Lawaan.
-Nanay Tu Oss Din Tak Sahwaan Mangdi Rendi Aye.
+۲
+خواباں بیمار نوں نانا تیراں دیاں ڈراندیاں
+ویراں دی زندگی لئی دعاواں کردی رہندی اے
+اکبر نوں ویکھ لاں نانا اک وار سینے لا لواں
+نانے توں اوس دن تک ساہواں منگدی رہندی اے
 
-3
-Asghar Be Sheer Da Jhola Khali Jadon Aye Wekhdi.
-Ro Ro Ke Veraan Nu Aye Sadawaan Dendi Rendi Aye.
-Kul Kainat Nu Aye Sughra Dendi Aye Sadqa Veer Da.
- Sabir Sabar Oh Bibi Atawaan Kardi Rendi Aye.
+۳
+اصغر بے شیر دا جھولا خالی جدوں اے ویکھدی
+رو رو کے ویراں نوں اے صداواں دیندی رہندی اے
+کل کائنات نوں اے صغریٰ دیندی اے صدقہ ویر دا
+صابر صبر اوہ بیبی عطاواں کردی رہندی اے

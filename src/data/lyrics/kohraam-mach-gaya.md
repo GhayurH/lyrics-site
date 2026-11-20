@@ -13,55 +13,55 @@ published: false
 romanLyrics: |-
   1
   Alwida alwida
-  Qaime meiṅ aake shah ne jab alwida kaha
+  Khaime meiṅ aa ke shah ne jab alwida kaha
   Kohraam mach gaya
-  Tha jis ka intezar wo sa'ath qarib hai
-  Din dhal raha hai shame musibat qarib hai
-  Kuch dayr ki hai baat qayamat qarib hai
-  Zainab gharib bhai ki ruksat qarib hai
-  Ye keh ke maanga maa ka jo kurta sila hua
+  Tha jis ka intezaar woh saa'at qarib hai
+  Din dhal raha hai shaam-e-musibat qarib hai
+  Kuch der ki hai baat qayaamat qarib hai
+  Zainab gharib bhai ki rukhsat qarib hai
+  Ye keh ke maanga maaṅ ka jo kurta sila hua
   Kohraam mach gaya...
-  Kuch dur hatke qaime meiṅ bole shahe zaman
-  Zehmat na ho to baazu barhao behan
-  Mai bose loo wahaṅ ke bandhegi jahaṅ rasan
-  Baazu barha ke roti thi hamshir khastatan
-  Bhai behan ke baazu ko jab chumne laga
+  Kuch dur hat ke khaime meiṅ bole shah-e-zaman
+  Zehmat na ho to baazu barhao zara behan
+  Main bose luṅ wahaaṅ ke bandhe gi jahaaṅ rasan
+  Baazu barha ke roti thi hamshir khasta tan
+  Bhai behan ke baazuoṅ ko jab chumne laga
   Kohraam mach gaya...
-  Ye sunke binte fatema zehra tarap gayi
-  Boli gala barhao bas ab jald ya aqi
-  Amma ki baat aaj mujhe yaad aagayi
-  Mai bose loo wahaṅ ke chalegi jahaṅ churi
-  Zainab ne badke chuma baradar ka jab gala
+  Ye sun ke Bint-e-Fatema Zehra tarap gayi
+  Boli gala barhao bas ab jald ya akhi
+  Ammaaṅ ki baat aaj mujhe yaad aa gayi
+  Main bose luṅ wahaaṅ ke chale gi jahaaṅ chhuri
+  Zainab ne barh ke chuma baraadar ka jab gala
   Kohraam mach gaya...
-  Beti se phir ye kehne laga fatema ka laal
-  Rehna phupi ke paas rakhengi tera khayal
-  Ghurbat hai tum phupi se na karna koi sawaal
-  Warna tere padar ko bahot hoyega malaal
+  Beti se phir ye kehne laga Fatema ka laal
+  Rehna phuphi ke paas rakheiṅ gi tera khayaal
+  Ghurbat hai tum phuphi se na karna koi sawaal
+  Warna tere padar ko bahut hoye ga malaal
   Phir sar pe haath rakh ke jo dene lage dua
   Kohraam mach gaya...
-  Beti ko jab supurde behan kar chuke imam
-  Ro kar behan se kehne lage aasmaṅ maqam
-  Jaana watan jo qaid se chutkar ae tishnaqam
-  Kehna lehad pe maa ki mera aakhri salam
-  Aaya jo lab pe fatema zehra ka tazkira
+  Beti ko jab supurd-e-behan kar chuke imaam
+  Ro kar behan se kehne lage aasmaaṅ maqaam
+  Jaana watan jo qaid se chhut kar ae tishna kaam
+  Kehna lahad pe maaṅ ki mera aakhri salaam
+  Aaya jo lab pe Fatema Zehra ka tazkira
   Kohraam mach gaya...
-  Abid se phir ye kehne lage shaahe karbala
+  Aabid se phir ye kehne lage shaah-e-Karbala
   Bewaoṅ ka aur yatimoṅ ka ab tum ho aasra
-  Jo imtehan mera tha sab maiṅ ne de diya
-  Aage tera jihad hai bemaare karbala
-  Bemaar beta baap se jis dam juda hua
+  Jo imtihaan mera tha sab main ne de diya
+  Aage tera jihaad hai bimaar-e-Karbala
+  Bimaar beta baap se jis dam juda hua
   Kohraam mach gaya...
-  Qaime se baahar aaye jo sultane karbala
-  Sar ko jhukaye rota tha khud aspe bawafa
-  Ab kis tarha sawaar ho zehra ka laadla
-  Tanhai ke siwa koi yawar nahi bacha
-  Jab suye nehr dekh ke ghazi ko di sada
+  Khaime se baahar aaye jo sultaan-e-Karbala
+  Sar ko jhukaaye rota tha khud asp-e-bawafa
+  Ab kis tarah sawaar ho Zehra ka laadla
+  Tanhai ke siwa koi yaawar nahiṅ bacha
+  Jab su-e-nahr dekh ke Ghazi ko di sada
   Kohraam mach gaya...
-  Bhai ko tanha dekh ke zainab tarap gayi
-  Roti hui Husain ke nazdik aagayi
-  Aur phir raqaab thaam ke boli ae shaahe diṅ
-  Lo mai sawaar karti hoo abbas gar nahi
-  Wayiz hua sawaar jo zehra ka laadla
+  Bhai ko tanha dekh ke Zainab tarap gayi
+  Roti hui Husain ke nazdik aa gayi
+  Aur phir rikaab thaam ke boli ae shaah-e-diṅ
+  Lo main sawaar karti huṅ Abbas gar nahiṅ
+  Waiz hua sawaar jo Zehra ka laadla
   Kohraam mach gaya...
 ---
 

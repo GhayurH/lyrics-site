@@ -1,36 +1,62 @@
 ---
-title: "Ronda Reya Nabi Da Darbar Raza Hassan Sadiq Lyrics Punjabi 2025"
+title: "روندا ریا نبی دا دربار"
+alternateTitle: "Ronda Reya Nabi Da Darbar"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Irfan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ronda reya Nabi da darbar Raza Hassan Sadiq
+  Ronda rehya Nabi da darbar Fatima te
+  Roye magar na ummati haqdar Fatima te
+  Darbar seh na sakiya bibi koon wekh rush wich
+  Wekhi jadon Nabi di dastar Fatima te
+
+  Main ladli Pak Muhammad di mera naa loko Zahra aye
+  Tusaan janday ho jiwein ja ja te mera adab Nabi kita aye
+  Dukh na honda jaye moor denday na deney haq mera aye
+  Arman hai ummati majmay wich mainu kenday ray chotha aye
+  Kayi waar kaindi reh gayi loko main chothi nayi aan
+  Sun ke Nabi v roye har waar Fatima te
+  Takrar kyun hai tera bolay Fidak de daku
+  Kad layi laeen wadh ke talwar Fatima te
+
+  Tehreer likhi hoi Sarwar di aye moor ke ummat kehya aye
+  Nayi Mursal chor wirasat janday tu mangdi haq kehra aye
+  Bara roi Pak Nabi di dhi jadon kisay na sath dita aye
+  Cha tukray piyo di sand walay mayoos chali Zahra aye
+  Sarwar di ladli dhi thak payi khalo khalo ke
+  Koi na taras aaya la char Fatima te
+  Irfan khali wal ke jadon aayi ghar Moazma
+  Bara roye wekh halat Karrar Fatima te
 ---
 
-1
-Ronda Reya Nabi Da Darbar Raza Hassan Sadiq.
-Ronda Rehya Nabi Da Darbar Fatima Te.
-Roye Magar Na Ummati Haqdar Fatima Te.
-Darbar Seh Na Sakiya Bibi Koon Wekh Rush Wich.
-Wekhi Jadon Nabi Di Dastar Fatima Te.
-Dohra.
-Main Ladli Pak Muhammad Di Mera Naa Loko Zahra Aye.
-Tusaan Janday Ho Jiwein Ja Ja Te Mera Adab Nabi Kita Aye.
-Dukh Na Honda Jaye Moor Denday Na Deney Haq Mera Aye.
-Arman Hai Ummati Majmay Wich Mainu Kenday Ray Chotha Aye.
-Kayi Waar Kaindi Reh Gayi Loko Main Chothi Nayi Aan.
-Sun Ke Nabi V Roye Har Waar Fatima Te.
-Takrar Kyun Hai Tera Bolay Fidak De Daku.
-Kad Layi Laeen Wadh Ke Talwar Fatima Te.
-Dohra.
-Tehreer Likhi Hoi Sarwar Di Aye Moor Ke Ummat Kehya Aye.
-Nayi Mursal Chor Wirasat Janday Tu Mangdi Haq Kehra Aye.
-Bara Roi Pak Nabi Di Dhi Jadon Kisay Na Sath Dita Aye.
-Cha Tukray Piyo Di Sand Walay Mayoos Chali Zahra Aye.
-Sarwar Di Ladli Dhi Thak Payi Khalo Khalo Ke.
-Koi Na Taras Aaya La Char Fatima Te.
- Irfan Khali Wal Ke Jadon Aayi Ghar Moazma.
-Bara Roye Wekh Halat Karrar Fatima Te.
+۱
+روندا ریا نبی دا دربار رضا حسن صادق
+روندا رہیا نبی دا دربار فاطمہ تے
+روئے مگر نہ امتی حقدار فاطمہ تے
+دربار سہہ نہ سکیا بیبی کوں ویکھ رش وچ
+ویکھی جدوں نبی دی دستار فاطمہ تے
+
+میں لاڈلی پاک محمد دی میرا ناں لوکو زہرا اے
+تساں جاندے ہو جیویں جا جا تے میرا ادب نبی کیتا اے
+دکھ نہ ہوندا جائے موڑ دیندے نہ دینے حق میرا اے
+ارمان ہے امتی مجمعے وچ مینوں کہندے رئے چوتھا اے
+کئی وار کہندی رہ گئی لوکو میں چوتھی نئیں آں
+سن کے نبی وی روئے ہر وار فاطمہ تے
+تکرار کیوں ہے تیرا بولے فدک دے ڈاکو
+کڈھ لئی لعین ودھ کے تلوار فاطمہ تے
+
+تحریر لکھی ہوئی سرور دی اے موڑ کے امت کہیا اے
+نئیں مرسل چھوڑ وراثت جاندے توں منگدی حق کیہڑا اے
+بڑا روئی پاک نبی دی دھی جدوں کسے نہ ساتھ دتا اے
+چا ٹکڑے پیو دی سند والے مایوس چلی زہرا اے
+سرور دی لاڈلی دھی تھک پئی کھلو کھلو کے
+کوئی نہ ترس آیا لاچار فاطمہ تے
+عرفان خالی ول کے جدوں آئی گھر معظمہ
+بڑا روئے ویکھ حالت کرار فاطمہ تے

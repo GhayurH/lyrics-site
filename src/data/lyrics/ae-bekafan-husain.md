@@ -19,27 +19,27 @@ romanLyrics: |-
   Ummat ne haaye tujh ko kafan bhi na diya
 
   2
-  Aayi na kabhi laal tujhe dhup meiṅ le kar
-  Ab tapti zamin par hai tera laashaye besar
+  Aayi na kabhi laal tujhe dhup mein le kar
+  Ab tapti zamin par hai tera laasha besar
   Uryaaṅ badan Husain gharib-ul-watan Husain
 
   3
   Soti thi sada lakht-e-jigar tujh ko sula kar
-  Chakki bhi jo pisi hai to godi meiṅ lita kar
+  Chakki bhi jo pisi hai to godi mein lita kar
 
   4
   Ummat ne khub ajr-e-risalat ada kiya
-  Pamaal teri laash ko baad-e-qaza kiya
+  Paamaal teri ko laash baad-e-qaza kiya
   Ae gulbadan Husain gharib-ul-watan Husain
 
   5
-  Uff qabr meiṅ bhi chain mila mujh ko na dilbar
+  Uff qabr mein bhi chain mila mujh ko na dilbar
   Ta hashr yuṅhi roti rahegi teri maadar
   Waqt-e-muhan Husain gharib-ul-watan Husain
 
   6
-  Masrur kaam aayega girya ye qabr meiṅ
-  Ae kaash lab pe ho mere nauha ye hashr meiṅ
+  Masrur kaam aayega girya ye qabr mein
+  Ae kaash lab pe ho mere nauha ye hashr mein
   Tashna dahan Husain gharib-ul-watan Husain
 ---
 اے بےکفن حسین غریب الوطن حسین

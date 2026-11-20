@@ -42,8 +42,8 @@ romanLyrics: |-
   Ik pal aaraam musalle par
 
   5
-  Diwaar-e-Kaaba baith gai
-  Alhamd lahu meiṅ dub gai
+  Diwaar-e-Kaaba baith gayi
+  Alhamd lahu meiṅ dub gayi
   Ummat se mila hai Maula ko
   Kaisa inaam musalle par
 

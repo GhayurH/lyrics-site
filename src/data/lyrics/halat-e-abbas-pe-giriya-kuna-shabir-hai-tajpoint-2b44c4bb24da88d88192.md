@@ -1,43 +1,77 @@
 ---
-title: "Halat E Abbas Pe Giriya Kuna Shabir Hai"
+title: "حالتِ عباس پہ گریہ کناں شبیر ہے"
+alternateTitle: "Halat E Abbas Pe Giriya Kuna Shabir Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Halat e Abbas pe giriya kuna Shabir hai
+  Sar ka khoon ik aankh mein hai dosri mein teer hai
+
+  1
+  Fatima Zahra ke Mohsin ka badal Abbas tha
+  Haye badal Abbas tha
+  Qatal-e-Ghazi qatal-e-Mohsin ki asal tafseer hai
+
+  2
+  Jab chaley khiyam se Ghazi tu Zainab ne kaha
+  Haye Zainab ne kaha
+  Aaj se khatray mein meri chadar-e-tatheer hai
+
+  3
+  Khak pe Abbas ko dekha tu kehte hain Hussain
+  Haye kehte hain Hussain
+  Main Hussain ibn-e-Ali our kya meri taqdeer hai
+
+  4
+  Baad Ghazi, Zainab-o-Abid, Sakina ke liye
+  Haye Sakina ke liye
+  Taziyane hain tamachay hain tu ya zanjeer hai
+
+  5
+  Zulm jitnay Sakina ne sahey sab baad mein
+  Haye sahey sab baad mein
+  Chehra e Abbas pe pehle howa tehreer hai
+
+  6
+  Iss qadar zakhmi howa maqtal mein Ainullah ka lal
+  Haye Ainullah ka lal
+  Ja baja maqtal mein Haider ki pari tasveer hai
 ---
 
-Halat e Abbas Pe Giriya Kuna Shabir Hai.
-Sar Ka Khoon Ik Aankh Mein Hai Dosri Mein Teer Hai.
+حالتِ عباس پہ گریہ کناں شبیر ہے
+سر کا خون اک آنکھ میں ہے دوسری میں تیر ہے
 
-1
-1- Fatima Zahra Ke Mohsin Ka Badal Abbas Tha.
-Haye Badal Abbas Tha.
-Qatal-e-Ghazi Qatal-e-Mohsin Ki Asal Tafseer Hai.
+۱
+فاطمہ زہرا کے محسن کا بدل عباس تھا
+ہائے بدل عباس تھا
+قتلِ غازی قتلِ محسن کی اصل تفسیر ہے
 
-2
-2- Jab Chaley Khiyam Se Ghazi Tu Zainab Ne Kaha.
-Haye Zainab Ne Kaha.
-Aaj Se Khatray Mein Meri Chadar-e-Tatheer Hai.
+۲
+جب چلے خیام سے غازی تو زینب نے کہا
+ہائے زینب نے کہا
+آج سے خطرے میں میری چادرِ تطہیر ہے
 
-3
-3- Khak Pe Abbas Ko Dekha Tu Kehte Hain Hussain.
-Haye Kehte Hain Hussain.
-Main Hussain Ibn-e-Ali Our Kya Meri Taqdeer Hai.
+۳
+خاک پہ عباس کو دیکھا تو کہتے ہیں حسین
+ہائے کہتے ہیں حسین
+میں حسین ابنِ علی اور کیا میری تقدیر ہے
 
-4
-4- Baad Ghazi, Zainab-o-Abid, Sakina Ke Liye.
-Haye Sakina Ke Liye.
-Taziyane Hain Tamachay Hain Tu Ya Zanjeer Hai.
+۴
+بعدِ غازی، زینب و عابد، سکینہ کے لیے
+ہائے سکینہ کے لیے
+تازیانے ہیں تماچے ہیں تو یا زنجیر ہے
 
-5
-5- Zulm Jitnay Sakina Ne Sahey Sab Baad Mein.
-Haye Sahey Sab Baad Mein.
-Chehra e Abbas Pe Pehle Howa Tehreer Hai.
+۵
+ظلم جتنے سکینہ نے سہے سب بعد میں
+ہائے سہے سب بعد میں
+چہرۂ عباس پہ پہلے ہوا تحریر ہے
 
-6
-6- Iss Qadar Zakhmi Howa Maqtal Mein Ainullah Ka Lal.
-Haye Ainullah Ka Lal.
-Ja Baja Maqtal Mein Haider Ki Pari Tasveer Hai.
+۶
+اس قدر زخمی ہوا مقتل میں عین اللہ کا لال
+ہائے عین اللہ کا لال
+جا بجا مقتل میں حیدر کی پڑی تصویر ہے

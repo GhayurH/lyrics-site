@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Teri aankheiṅ saqi abbas teri zulfeiṅ saqi abbas
-  Tera chehra saqi abbas hai misle hyder e karraar
-  Sher e khuda ka sher hai abbas
-  Abbas abbas abbas abbas abbas
-  Hyder ne duaoṅ may bas tujhko hi maanga hai
-  Zahra ki tamanna tu zainab ka sahara hai
-  Kulsum ka bhai hai shabbir ka chehra hai
-  Taqdir hai kya teri kya shaan teri maula
-  Sher e khuda ka sher...
-  Shabbar ki haqiqat tu shabbir ka lashkar tu
-  Maidaṅ may e ghazi hai hyder e safdar tu
-  Ek waar may kartha hai maluno besar tu
-  Ye tera qasida bhi rab jhum ke hai parta
-  Sher e khuda ka sher...
-  Jibril larazte hai aur arsh larazta hai
-  Haibat hai tumhari wo khamosh jo darya hai
-  Abbas tumhe suraj hairani se takta hai
-  Talwaar chalayi hai siffin may jis lamha
-  Sher e khuda ka sher...
-  Jo sar ko jhukate hai abbas ki chaukhat par
-  Meraj wo paate hai abbas ki chaukhat par
-  Sar jo na jhukate hai abbas ki chaukhat par
-  Us shakhs se khush hargiz allah nahi hoga
-  Sher e khuda ka sher...
-  Tu saaqi e kausar ka farzand hai e ghazi
-  Is waaste sarwar ne di mashk tujhe ghazi
-  Ab bali sakina ki bas pyaas bujhe ghazi
-  Ye kehke shah e diṅ ne maidaṅ may tujhe bheja
-  Sher e khuda ka sher...
-  Abbas pa maidaṅ may kya zulm hua haye
-  Shaane bhi kate unke mashkeeza chida haye
-  Ghazi ka ye armaaṅ bhi pyasa hi raha haye
-  Afsos kay qaimon may pani na pahunch paaya
-  Sher e khuda ka sher...
-  Baatenge sada kuze pani se bhare maula
-  Zawwar ka waada hai ye tujhse mere maula
-  Arif ko bulale tu rauze pa tere maula
-  Nasir ne bhi ro ro kar tujhse hai yehi maanga
-  Sher e khuda ka sher...
+  Teri aankheṅ saaqi Abbas teri zulfeṅ saaqi saaqi Abbas
+  Tera chehra saaqi Abbas hai misl-e-Haidar-e-Karraar
+  Sher-e-Khuda ka sher hai Abbas
+  Abbas Abbas Abbas Abbas Abbas
+  Haidar ne duaoṅ mein bas tujhko hi maanga hai
+  Zahra ki tamanna tu Zainab ka sahaara hai
+  Kulsum ka bhai hai Shabbir ka chehra hai
+  Taqdir hai kya teri kya teri Maula
+  Sher-e-Khuda ka sher...
+  Shabbar ki haqiqat tu Shabbir ka lashkar tu
+  Maidaaṅ mein ae Ghazi hai Haidar-e-Safdar tu
+  Ik waar mein karta hai malunoṅ ko besar tu
+  Ye tera qasida bhi Rab jhum ke hai parhta
+  Sher-e-Khuda ka sher...
+  Jibril larazte haiṅ aur arsh larazta hai
+  Haibat hai tumhaari wo khaamosh jo darya hai
+  Abbas tumheṅ suraj hairaani se takta hai
+  Talwaar chalaai hai Siffin mein jis lamha
+  Sher-e-Khuda ka sher...
+  Jo sar ko jhukaate haiṅ Abbas ki chaukhat par
+  Meraaj wo paate haiṅ Abbas ki chaukhat par
+  Sar jo na jhukaate haiṅ Abbas ki chaukhat par
+  Us shakhs se khush hargiz Allah nahiṅ hoga
+  Sher-e-Khuda ka sher...
+  Tu saaqi-e-Kausar ka farzand hai ae Ghazi
+  Is waaste Sarwar ne di mashk tujhe Ghazi
+  Ab baali Sakina ki bas pyaas bujha Ghazi
+  Ye kehke Shah-e-Diṅ ne maidaaṅ mein tujhe bheja
+  Sher-e-Khuda ka sher...
+  Abbas pe maidaaṅ mein kya zulm hua haaye
+  Shaane bhi kate un ke mashkiza chhida haaye
+  Ghazi ka ye armaaṅ bhi pyaasa hi raha haaye
+  Afsos ke khaimoṅ mein paani na pahunch paaya
+  Sher-e-Khuda ka sher...
+  Baateṅ ge sada kuze paani se bhare Maula
+  Zawwaar ka waada hai ye tujh se mere Maula
+  Aarif ko bula le tu rauze pe tere Maula
+  Nasir ne bhi ro ro kar tujh se hai yahi maanga
+  Sher-e-Khuda ka sher...
 ---
 
 ۱

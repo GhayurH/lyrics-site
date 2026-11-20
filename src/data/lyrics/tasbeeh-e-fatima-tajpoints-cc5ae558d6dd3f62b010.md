@@ -1,32 +1,54 @@
 ---
-title: "Tasbeeh-e-Fatima"
+title: "تسبیحِ فاطمہ"
+alternateTitle: "Tasbeeh-e-Fatima"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kis darja be-misal hai tasbeeh e Fatima
+  Amal ka kamal hai tasbeeh e Fatima
+
+  1
+  Hum sab ka zikar choriye nabiyon ke wastay
+  Har ranj-o-alam mein dhaal hai tasbeeh e Fatima
+  Tara falak ko choor ke soye zameen chala
+  Kya sahib-e-jalal hai tasbeeh e Fatima
+
+  2
+  Jaise Khuda ke chehre ko hargiz fana nahi
+  Iss tarha la-zawal hai tasbeeh e Fatima
+  Sarkari yeh zaban hai arsh-e-Allah ki
+  Khaliq ki bol chal hai tasbeeh e Fatima
+
+  3
+  Jin ki ragoon mein khon halali ho doorta
+  Bas unn pe hi halal hai tasbeeh e Fatima
+  Saqlain our Wajhi-o-Raza ko ho fikar kya
+  In ki shareek-e-haal hai tasbeeh e Fatima
 ---
 
-Kis Darja Be-Misal Hai Tasbeeh e Fatima.
-Amal Ka Kamal Hai Tasbeeh e Fatima.
+کس درجہ بے مثال ہے تسبیحِ فاطمہ
+عمل کا کمال ہے تسبیحِ فاطمہ
 
-1
-Hum Sab Ka Zikar Choriye Nabiyon Ke Wastay.
-Har Ranj-o-Alam Mein Dhaal Hai Tasbeeh e Fatima.
-Tara Falak Ko Choor Ke Soye Zameen Chala.
-Kya Sahib-e-Jalal Hai Tasbeeh e Fatima.
+۱
+ہم سب کا ذکر چھوڑیے نبیوں کے واسطے
+ہر رنج و الم میں ڈھال ہے تسبیحِ فاطمہ
+تارا فلک کو چھوڑ کے سوئے زمین چلا
+کیا صاحبِ جلال ہے تسبیحِ فاطمہ
 
-2
-Jaise Khuda Ke Chehre Ko Hargiz Fana Nahi.
-Iss Tarha La-Zawal Hai Tasbeeh e Fatima.
-Sarkari Yeh Zaban Hai Arsh-e-Allah Ki.
-Khaliq Ki Bol Chal Hai Tasbeeh e Fatima.
+۲
+جیسے خدا کے چہرے کو ہرگز فنا نہیں
+اس طرح لازوال ہے تسبیحِ فاطمہ
+سرکاری یہ زبان ہے عرشِ اللہ کی
+خالق کی بول چال ہے تسبیحِ فاطمہ
 
-3
-Jin Ki Ragoon Mein Khon Halali Ho Doorta.
-Bas Unn Pe Hi Halal Hai Tasbeeh e Fatima.
- Saqlain Our Wajhi-o- Raza Ko Ho Fikar Kya.
-In Ki Shareek-e-Haal Hai Tasbeeh e Fatima.
+۳
+جن کی رگوں میں خون حلالی ہو دوڑتا
+بس اُن پہ ہی حلال ہے تسبیحِ فاطمہ
+ثقلین اور وجہی و رضا کو ہو فکر کیا
+ان کی شریکِ حال ہے تسبیحِ فاطمہ

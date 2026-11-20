@@ -7,6 +7,42 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Islaam ko bachaaya mere Husain ne
+  Naana se jo kiya tha waada bachaa'uṅ ga diṅ
+  Sajde mein sar kataaya mere Husain ne
+  Waada wahi nibhaaya mere Husain ne
+
+  2
+  Jo raasta tha haq ka kaainaat ye gawaah hai
+  Maaṅ baap behen bhaai ki hai jahaaṅ mein pehchaaṅ
+  Woh raasta dikhaaya mere Husain ne
+  Rutba jo hai bataaya mere Husain ne
+
+  3
+  Raah-e-Khuda mein dekho sab kuchh luta diya hai
+  Ek ghunt Karbala ne paani jaise diya na
+  Kuchh bhi nahiṅ bachaaya mere Husain ne
+  Apna lahu pilaaya mere Husain ne
+
+  4
+  Reti garam ko jhula mazlum ne bana kar
+  Akbar jawaaṅ ka laasha na koi uthaane aaya
+  Asghar ko hai sulaaya mere Husain ne
+  Tanha hi tha uthaaya mere Husain ne
+
+  5
+  Apne lahu se dekho mazlum-e-Karbala ne
+  Mahshar talak ye jaari sajda rahe ga sar ko
+  Hai charaagh-e-din jalaaya mere Husain ne
+  Sajde se na uthaaya mere Husain ne
+
+  6
+  Hur ki tarah tumhaari bakhshish bhi ho gi Faisal
+  Nok-e-sanaaṅ pe dekho baaghi samajhne waalo
+  Tumhein dar pe hai bulaaya mere Husain ne
+  Quraan hai sunaaya mere Husain ne
 ---
 
 ۱

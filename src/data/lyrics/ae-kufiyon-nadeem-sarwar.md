@@ -60,7 +60,7 @@ romanLyrics: |-
   Aal-e-Mustafa se muqaabla
 
   9
-  Itrat-e-Nabi hum haiṅ ba Khuda
+  Itrat-e-Nabi hum haiṅ baa Khuda
   Zer-e-aasmaaṅ sar khula hua
   Baandh kar hameiṅ qaid kar liya
   Aur phir hameiṅ baaghi keh diya
@@ -68,7 +68,7 @@ romanLyrics: |-
   10
   Jis ke naana se din-e-haq mila
   Us nawaase ko yeh sila mila
-  Wa musibata yuṅ chaman luta
+  Waa musibata yuṅ chaman luta
 
   11
   Gher kar hameiṅ laaye Karbala

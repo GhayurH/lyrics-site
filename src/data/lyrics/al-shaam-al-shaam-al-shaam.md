@@ -8,6 +8,99 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Na ro Maula, na ro Maula
+
+  1
+  Ayyuhal mazlum, ayyuhal mazlum
+
+  2
+  Minhaal ne ek din aake kaha
+  Ae Maula mere ae Zain-ul-Abaa
+  Gham zyaada kahaaṅ guzre tum par
+  Dil thaam liya khuṅ rone lage
+  Khuṅ rote hue bas itna kaha
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Minhaal tarap kar kehne laga
+  Rone ka sabab Maula hai kya
+  Miraas-e-shahaadat aap ki hai
+  Maula ne kaha laaraib magar
+  Uf tu ne nahiṅ insaaf kiya
+  Beshak miraas-e-shahaadat hai
+  Ye Aal-e-Nabi ki fitrat hai
+  Sar beparda maaṅ behnoṅ ka
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Minhaal main kaise zinda huṅ
+  Pal pal jita huṅ marta huṅ
+  In aaṅkhoṅ ne jo kuchh dekha
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Aaghaaz hai Shaam-e-Gharibaaṅ se
+  Khun tapka chashm-e-giryaaṅ se
+  Behnoṅ ka khula sar saamne tha
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Kaise bhuluṅ is manzar ko
+  Neze pe phuphi ki chaadar ko
+  Saahil se jo Ghaazi ne dekha
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Naamus-e-Payambar bechaadar
+  Aur sar pe baraste hoṅ patthar
+  Tar khun mein tha sab ka chehra
+  Ek ye bhi meri miraas thi kya
+  Shaam ke baazaar mein is khushiyaaṅ manaate hue hujum mein ye Sahl Ibn Saad hai
+  Us ne nezoṅ par saroṅ ko dekha ye kaun aaftaab aur maahtaab haiṅ
+  Sahl tiktiki baaṅdh ke dekh raha tha har sar ko dekhta tha
+  Lekin jab Husain ke sar ko dekha ab nigaaheṅ wahiṅ pe ruk gaiṅ
+  Faatima ke bete ke sar se nazreṅ nahiṅ uthti thi
+  Ik martaba tarpa aur tarap kar kehne laga
+  Ya Rasul Allah.
+  Kaash meri aaṅkheṅ andhi ho jaati main ye manzar apni aaṅkhoṅ se na dekhta
+  Kya dekhta hai, koi nur waala chehra hai
+  Lekin haathoṅ mein hathkariyaaṅ
+  Pairoṅ mein beriyaaṅ
+  Kamar mein langar
+  Gardan mein tauq
+  Aur wo gardan ko jhukaaye hue chal raha hai
+  Qarib aake kehne laga
+  Assalaamu alaik ayyuhal asir
+  Ae qaidi mera salaam
+  Gharib ne majme mein pehli martaba kisi ko salaam karte dekha
+  Nazreṅ uthaa'iṅ kaha naana ke sahaabi tujh par bhi mera salaam ho
+  Pas naana ka naam aaya Sahl tarap kar reh gaya
+  Kaha, aap kaun haiṅ
+  Kaha, nahiṅ pehchaana
+  Main Ali huṅ Husain ka beta Faatima ka pota
+  Are, main akela nahiṅ aaya huṅ mere saath Faatima ki betiyaaṅ bhi aai haiṅ
+  Bibi ka suna tarap ke daura shehzaadi ke uṅt ke qarib pahuṅch
+  Sahl ne apni aaṅkhoṅ ko band kiya gardan ko jhukaaye hue salaam kiya
+  Kaha Bibi main tere naana ka sahaabi huṅ agar ghulaam kuchh kar sakta hai to mujhe hukm deṅ
+  Aawaaz aai ae Sahl agar mehrbaani kar sakta hai to zara in neze waaloṅ se keh de
+  Ke saroṅ ko le kar aage chale jaaeṅ
+  Ye zamaana, in saroṅ ko dekhe
+  Faatima ki betiyoṅ ke khule saroṅ ki taraf zamaane ki nigaaheṅ na jaaeṅ
+  Na gham-e-tauq o zanjir ka tha
+  Gham phupiyoṅ ka hamshir ka tha
+  Baazaar ke gham ne maar diya
+  Ek ye bhi miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Allah mere ye hadd-e-sitam
+  Pehroṅ the khare darbaar mein ham
+  Aur takht pe qaatil baitha tha
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Ik Shaam ka ik zindaan ka gham
+  Maasum si nanhi jaan ka gham
+  Jo ho na saki mar kar bhi rihaa
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
+  Rehaan o Sarwar Shaam chalo
+  Aur Shaam ki wo galiyaaṅ dekho
+  Bimaar jahaaṅ kehta hi raha
+  Ek ye bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam Ash-Shaam Ash-Shaam
 ---
 
 نہ رو مولا، نہ رو مولا

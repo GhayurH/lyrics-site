@@ -11,11 +11,11 @@ tags: []
 aliases: ["Aye Shaheedo Tum Kahan Ho"]
 published: true
 romanLyrics: |-
-  Fasl-e-gul hai ab jahaaṅ meiṅ ae shahido tum kahaaṅ ho
-  Taazgi hai gulistaaṅ meiṅ ae shahido tum kahaaṅ ho
+  Fasl-e-gul hai ab jahaaṅ mein ae shahido tum kahaaṅ ho
+  Taazgi hai gulistaaṅ mein ae shahido tum kahaaṅ ho
 
   1
-  Sabz o khurram dasht-e-dunya hai tumhaare gham meiṅ giryaaṅ
+  Sabz o khurram dasht-e-dunya hai tumhaare gham mein giryaaṅ
   Bulbul-e-Shah-e-gulistaaṅ ro ro kehte haiṅ ye har aan
   Mere phulo mere ghuncho ae shahido tum kahaaṅ ho
 
@@ -30,13 +30,13 @@ romanLyrics: |-
   Shah-e-din par rone waalo ae shahido tum kahaaṅ ho
 
   4
-  Tum julusoṅ meiṅ aza ke chalne waale aage aage
+  Tum julusoṅ mein aza ke chalne waale aage aage
   Sogwaaroṅ ko bana kar seh gaye khud bomb dhamaake
   Raah-e-haq ke jaaṅ nisaaro ae shahido tum kahaaṅ ho
 
   5
   Tum muazzin tum musalli qalb-e-momin ki tasalli
-  Tum dua-e-Sayyida ki har zamaane meiṅ tajalli
+  Tum dua-e-Sayyida ki har zamaane mein tajalli
   Ismatoṅ ke paasdaaro ae shahido tum kahaaṅ ho
 
   6

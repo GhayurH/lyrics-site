@@ -12,8 +12,8 @@ tags: []
 aliases: ["Matam Karo Hussain"]
 published: true
 romanLyrics: |-
-  Maatam karo Husain alaihis salaam ka
-  Ek din meiṅ ghar ujar gaya logoṅ Imaam ka
+  Maatam karo Husain ka
+  Ek din mein ghar ujar gaya logoṅ Imaam ka
 
   1
   Sukha hua tha Sayyid-e-mazlum ka gala
@@ -23,23 +23,23 @@ romanLyrics: |-
   Kya haal kar diya gaya aali maqaam ka
 
   2
-  Ek din meiṅ dil pe zakhm bahattar ke khaaye haiṅ
-  Khuṅ meiṅ nahaaye haiṅ
+  Ek din mein dil pe zakhm bahattar ke khaaye haiṅ
+  Khuṅ mein nahaaye haiṅ
   Hur Jaun aur Habib ke laashe uthaaye haiṅ
   Aansu bahaaye hai
   Khaimoṅ talak janaaza jo laaya ghulaam ka
 
   3
-  Sine se apne bete ke naiza juda kiya
+  Sine se apne bete ke neza juda kiya
   Haaye wa musibata
-  Zehra ka laal dasht meiṅ benur ho gaya
+  Zehra ka laal dasht mein benur ho gaya
   Haaye wa musibata
   Us bewatan ka haaye Shah-e-tishnakaam ka
 
   4
   Zainab ke dil pe kaisi qayaamat guzar gayi
   Duniya ujar gayi
-  Maqtal meiṅ Shah ki laash ki behurmati hui
+  Maqtal mein Shah ki laash ki behurmati hui
   Wo dekhti rahi
   Paamaal laasha ho gaya Shaah-e-anaam ka
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   Chhini gayi rida
   Chalta tha garm ret pe kaantoṅ pe qaafila
   Bazaar aa gaya
-  Naize pe dekhta raha manzar jo shaam ka
+  Neze pe dekhta raha manzar jo shaam ka
 
   6
   Pyaasoṅ ko yaad karke sabileṅ lagaao tum
@@ -58,7 +58,7 @@ romanLyrics: |-
   Farsh-e-aza bichhaao shahidoṅ ke naam ka
 
   7
-  Ek pal na bhul paayeṅge ghurbat Husain ki
+  Ek pal na bhul paayeṅ ge ghurbat Husain ki
   Jab tak hai zindagi
   Yuṅ hi kareṅge Mesum o Azlaan Azmi
   Maula ki naukri

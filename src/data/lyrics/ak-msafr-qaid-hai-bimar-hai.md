@@ -8,66 +8,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ik musafir qaid hay audio file
+  Ik musafir qaid hai bimaar hai
 
   1
-  Ik musafir qaid hay
+  Karwaan-e-sabr ka salaar hai
 
   2
-  Abide beemar
+  Dard sar pe paaoṅ mein haiṅ beriyaaṅ
+  Aur gale mein tauq ka ik haar hai
 
   3
-  Ik musafir qaid hay beemar hay
+  Khun aaṅkhoṅ se rawaaṅ phir ho gaya
+  Saamne jo Shaam ka bazaar hai
 
   4
-  Ik musafir qaid hay beemar hay
-  Karwane sabr kaa salaar hay
-  Ik musafir qaid hay beemar hay
+  Haaye qismat wa gharibi ya Husain
+  Karbala mein lut gaya ghar baar hai
 
   5
-  Dard sar pe pawo me hayn beriyan
-  Aur gale mein tawq ka ik haar he
-  Ik musafir qaid hay beemar hay
+  Ghash pe ghash Maula ko khaime mein pare
+  Har qadam chalne se woh laachaar hai
 
   6
-  Khoon ankhon se rawaa phir hogaya
-  Samne jo Shaam ka bazaar hay
-  Ik musafir qaid hay beemar hay
+  Is se ziyaada aur kya ho ga sitam
+  Maaṅ behen sab beridaa darbaar hai
 
   7
-  Haye qismat wa gharibi ya Husain
-  Karbala mein lut gaya ghar bar hay
-  Ik musafir qaid hay beemar hay
+  Haaye aayateṅ Quraani beridaa
+  Rehm malik majma-e-aghyaar hai
 
   8
-  Gash pe gash maula ko khayme me pare
-  Har qadam chalne se wo lachaar hay
-  Ik musafir qaid hay beemar hay
+  Khun aaṅkhoṅ se rawaaṅ phir ho gaya
+  Saamne jo Shaam ka bazaar hai
 
   9
-  Is se zyadaa aur kya honga sitam
-  Maa behen sab beridaa darbar hay
-  Ik musafir qaid hay beemar hay
+  De do chaadar har qadam kehta raha
+  Sayyed-e-Sajjaad jo salaar hai
 
   10
-  Haye aayaate quraani be ridaa
-  Rehm malik majmae aghyaar hay
-  Ik musafir qaid hay beemar hay
-
-  11
-  Khoon ankho se rawaa phir hogaya
-  Samne jo Shaam ka bazaar hay
-  Ik musafir qaid hay beemar hay
-
-  12
-  Deydo chadar har qadam kehta raha
-  Syede Sajjad jo salaar hay
-  Ik musafir qaid hay beemar hay
-
-  13
-  Ik musafir qaid hay beemar hay
-  Karwane sabr kaa salaar hay
-  Ik musafir qaid hay beemar hay
+  Karwaane sabr ka salaar hai
 ---
 
 اک مسافر قید ہے بیمار ہے

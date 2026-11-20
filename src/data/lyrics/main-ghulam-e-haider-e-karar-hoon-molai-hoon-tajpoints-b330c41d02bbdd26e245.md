@@ -1,29 +1,48 @@
 ---
-title: "Main Ghulam-e-Haider-e-Karar Hoon Molai Hoon"
+title: "میں غلامِ حیدرِ کرار ہوں مولائی ہوں"
+alternateTitle: "Main Ghulam-e-Haider-e-Karar Hoon Molai Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main ghulam-e-Haider-e-Karar hoon molai hoon
+  Hum khiyal-e-Meesum-e-Tamar hoon molai hoon
+  Meri peshani pe hai khak-e-Najaf jalwah numa
+  Main yaqeenan sahib-e-dastar hoon molai hoon
+
+  2
+  Kar ke tukre Marhab-o-Antar ke boli Zulfiqar
+  Haider-e-Karar ki talwar hoon molai hoon
+  Ahl-e-matam our matam ki hifazat ke liye
+  Main sarapa aahni dewar hoon molai hoon
+
+  3
+  Shamil-e-harf-e-dua-e-Syeda hoon iss liye
+  Shah-e-Wala ka main matamdar hoon molai hoon
+  Main hoon Yasir madah khuwan-e-Hazrat-e-Shah-e-Umam
+  Ba-hunar hoon sahib-e-kirdar hoon molai hoon
 ---
 
-1
-Main Ghulam-e-Haider-e-Karar Hoon Molai Hoon.
-Hum Khiyal-e-Meesum-e-Tamar Hoon Molai Hoon.
-Meri Peshani Pe Hai Khak-e-Najaf Jalwah Numa.
-Main Yaqeenan Sahib-e-Dastar Hoon Molai Hoon.
+۱
+میں غلامِ حیدرِ کرار ہوں مولائی ہوں
+ہم خیالِ میثمِ تمار ہوں مولائی ہوں
+میری پیشانی پہ ہے خاکِ نجف جلوہ نما
+میں یقیناً صاحبِ دستار ہوں مولائی ہوں
 
-2
-Kar Ke Tukre Marhab-o-Antar Ke Boli Zulfiqar.
-Haider-e-Karar Ki Talwar Hoon Molai Hoon.
-Ahl-e-Matam Our Matam Ki Hifazat Ke Liye.
-Main Sarapa Aahni Dewar Hoon Molai Hoon.
+۲
+کر کے ٹکڑے مرحب و عنتر کے بولی ذوالفقار
+حیدرِ کرار کی تلوار ہوں مولائی ہوں
+اہلِ ماتم اور ماتم کی حفاظت کے لیے
+میں سراپا آہنی دیوار ہوں مولائی ہوں
 
-3
-Shamil-e-Harf-e-Dua-e-Syeda Hoon Iss Liye.
-Shah-e-Wala Ka Main Matamdar Hoon Molai Hoon.
-Main Hoon Yasir Madah Khuwan-e-Hazrat-e-Shah-e-Umam.
-Ba-Hunar Hoon Sahib-e-Kirdar Hoon Molai Hoon.
+۳
+شاملِ حرفِ دعائے سیدہ ہوں اس لیے
+شاہِ والا کا میں ماتم دار ہوں مولائی ہوں
+میں ہوں یاسر مدح خواںِ حضرتِ شاہِ امم
+با ہنر ہوں صاحبِ کردار ہوں مولائی ہوں

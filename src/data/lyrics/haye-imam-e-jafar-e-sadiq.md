@@ -15,19 +15,19 @@ romanLyrics: |-
   Haye Imam-e-Jafar-e-Sadiq
 
   1
-  Musa Kazim chaak garebaaṅ
-  Aaṅkhoṅ meiṅ aaṅsu baal pareshaaṅ
+  Musa Kaazim chaak garebaaṅ
+  Aaṅkhoṅ mein aaṅsoṅ baal pareshaaṅ
   Aaye haiṅ pursa dene waale
   Haye Imam-e-Jafar-e-Sadiq
 
   2
-  Umr guzaari Shah ko rote
+  Umr guzaari Shaah ko rote
   Ashkoṅ se daaman ko bhigote
   Sadmoṅ ke hamraah sidhaare
   Haye Imam-e-Jafar-e-Sadiq
 
   3
-  Qaid meiṅ pi kar jaam-e-shahaadat
+  Qaid mein pi kar jaam-e-shahaadat
   Ho gaye is duniya se rukhsat
   Chhor ke ilm-e-diṅ ke ujaale
   Haye Imam-e-Jafar-e-Sadiq
@@ -45,7 +45,7 @@ romanLyrics: |-
   Haye Imam-e-Jafar-e-Sadiq
 
   6
-  Khatm Hilal ab kaise hoga
+  Khatm Hilaal ab kaise hoga
   Shahr-e-Madina ka sannaata
   Chup haiṅ galiyaaṅ chup hai kuche
   Haye Imam-e-Jafar-e-Sadiq

@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae musafir bekafan tu khaak par wa hasrata
+  Ae musafir bekafan tu khaak par waa hasrataa
   Maiṅ musafir Shaam ki huṅ dushmanoṅ meiṅ berida
   Alwida alwida alwida
 
@@ -42,9 +42,9 @@ romanLyrics: |-
   Dekh to chehra behan ka kis qadar murjha gaya
 
   6
-  Laasha-e-besar tarap kar ye sada dene laga
+  Laasha-e-be sar tarap kar ye sadaa dene laga
   Ae behan waada nibha ke maiṅ to maqtal se chala
-  Thi sada Rehaan o Sarwar haaye khaahar alwida
+  Thi sadaa Rehaan o Sarwar haaye khaahar alwida
 ---
 
 اے مسافر بے کفن تو خاک پر وا حسرتا

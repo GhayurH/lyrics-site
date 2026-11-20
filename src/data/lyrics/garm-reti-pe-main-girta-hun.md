@@ -11,59 +11,59 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Asr ka waqt hai shabbir ki aati hai sada
-  Chur zakhmo se badan hogaya amma mera
-  Apni aagosh meiṅ ab mujko chupalo amma
-  Are dhup hai apni abaa aan ke daalo amma
-  Garm reti pa mai girta hu sambhalo amma
+  Asr ka waqt hai Shabbir ki aati hai sada
+  Chur zakhmoṅ se badan ho gaya ammaaṅ mera
+  Apni aaghosh meiṅ ab mujh ko chhupa lo ammaaṅ
+  Are dhup hai apni abaa aan ke daalo ammaaṅ
+  Garm reti pe main girta huṅ sambhaalo ammaaṅ
 
   1
-  Thak gaya laashe utha kar mai bhare lashkar ki
-  Laash qasim ki mai laaya hoo kabhi akbar ki
-  Khud banayi hai lehad maiṅ ne ali asghar
-  Do tasalli mujhe sine se lagalo amma
+  Thak gaya laash utha kar main bhare lashkar ki
+  Laash Qasim ki main laaya huṅ kabhi Akbar ki
+  Khud banaai hai lahad main ne Ali Asghar ki
+  Do tasalli mujhe sine se laga lo ammaaṅ
 
   2
   Tir talwaar se khanjar se badan zakhmi hai
-  Khaak jalti hai to zakhmo meiṅ chubhan hoti hai
-  Mere zakhmo se mere dil ka lahu jaari hai
-  Apni chadar ko mere zakhmo pe daalo amma
+  Khaak jalti hai to zakhmoṅ meiṅ chubhan hoti hai
+  Mere zakhmoṅ se mere dil ka lahu jaari hai
+  Apni chaadar ko mere zakhmoṅ pe daalo ammaaṅ
 
   3
-  Mera abbas khafa hogaya amma mujhse
-  Wo nahi aaya utha laaya tha baazu uske
-  Aap ek kaam kare nehr kanare jaake
-  Mere ruthe huwe bhai ko manalo amma
+  Mera Abbas khafa ho gaya ammaaṅ mujh se
+  Woh nahiṅ aaya utha laaya tha baazu us ke
+  Aap ik kaam kareṅ nahr kinaare jaa ke
+  Mere ruthe hue bhai ko mana lo ammaaṅ
 
   4
-  Chakkiya pisi hai godhi meiṅ bithakar mujko
-  Jaagti rehti thi zaanu pe sulakar mujko
-  Loriya deti thi jhule meiṅ jhulakar mujko
-  Ek dafa godh meiṅ phir apni sulalo amma
+  Chakkiyaaṅ pisi haiṅ godi meiṅ baitha kar mujh ko
+  Jaagti rehti thiṅ zaanoṅ pe sula kar mujh ko
+  Loriyaaṅ deti thiṅ jhule meiṅ jhula kar mujh ko
+  Ik dafa god meiṅ phir apni sula lo ammaaṅ
 
   5
-  Aur kuch dayr ka mehman huṅ tum paas raho
-  Rayt zakhmo meiṅ hai aanchal se use saaf karo
-  Aati hai rone ki awaaz-e-sakina dekho
-  Jao tum jaa ke sakina ko sambhalo amma
+  Aur kuchh der ka mehmaan huṅ tum paas raho
+  Ret zakhmoṅ meiṅ hai aanchal se use saaf karo
+  Aati hai rone ki aawaaz-e-Sakina dekho
+  Jaao tum jaa ke Sakina ko sambhaalo ammaaṅ
 
   6
-  Dekho wo aag lagi shaam-e-gharibaṅ aayi
-  Dekho ghabra ke nikal aayi meri maajayi
-  Dekho behosh sakina ka para hai bhai
-  Jao sajjad ko sholoṅ se nikalo amma
+  Dekho woh aag lagi shaam-e-gharibaaṅ aayi
+  Dekho ghabra ke nikal aayi meri maaṅ jaayi
+  Dekho behosh Sakina ka para hai bhai
+  Jaao Sajjad ko sholoṅ se nikaalo ammaaṅ
 
   7
-  Hai guzarish meri tumse to ab itni maadar
-  Amma baba ki kasam dhaamp lo moo par chadar
-  Dekha jayega na ab tumse ye khuni manzar
-  Qatl hota hoo nigahoṅ ko hatalo amma
+  Hai guzaarish meri tum se to ab itni maadar
+  Ammaaṅ baba ki qasam dhaaṅp lo muṅh par chaadar
+  Dekha jaayega na ab tum se ye khuni manzar
+  Qatl hota huṅ nigaahoṅ ko hata lo ammaaṅ
 
   8
-  Hogi jab hashr ke maidan meiṅ majlis barpa
-  Farshe gham sheh ka bichayegi janabe zehra
-  Aayegi hazrate shabbir ki rehaan sada
-  Aaj ji khol ke tum ashk bahalo amma
+  Hogi jab hashr ke maidaan meiṅ majlis barpa
+  Farsh-e-gham Shah ka bichhaaeṅ gi Janaab-e-Zehra
+  Aayegi Hazrat-e-Shabbir ki Rehan sada
+  Aaj ji khol ke tum ashk baha lo ammaaṅ
 ---
 عصر کا وقت ہے شبیر کی آتی ہے صدا
 چور زخموں سے بدن ہوگیا اماں میرا

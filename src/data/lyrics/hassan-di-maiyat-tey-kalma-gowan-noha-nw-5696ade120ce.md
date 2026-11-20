@@ -1,36 +1,72 @@
 ---
-title: "Hassan Di Maiyat Tey Kalma Gowan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "حسن دی میت تے کلمہ گوواں"
+alternateTitle: "Hassan Di Maiyat Tey Kalma Gowan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hassan di miyyat tay kalma gowan nay jadon teer chalaye
+
+  1
+  Hassan di maiyyat tay
+  Kalma gowan nay, jadon teer chalaye
+
+  2
+  Zhara diyan jaiyan day
+  Burqay bhi lath gaye, vain Baqiyeh cho aye
+
+  3
+  Yasrab day vasiyan nay
+  Khoof e Khuda na keeta
+  Kuch bhi haya na keeta
+  Klamay day varisan nu
+  Kalma parhan tu, ki ajer valaye
+
+  4
+  Dil tukray tukray ho kay
+  Senay cho baher aya
+  Zainab da amri jaya
+  Bister day tarapda si
+  Jodah day zulm nay, kitay mooth day saye
+
+  5
+  Rab janaye keeway Ghazi
+  Sadma ey sahy gaya ha
+  Roonda hi reh gaya hai
+  Miyyat sabaz qbah di
+  Jadoon Roza e Nabi toon, kewan mor lay aye
 ---
 
-Hassan Di Miyyat Tay Kalma Gowan Nay Jadon Teer Chalaye
+حسن دی میت تے کلمہ گوواں نے جدوں تیر چلائے
 
-Hassan Di Maiyyat Tay
-Kalma Gowan Nay ,Jadon Teer Chalaye
+۱
+حسن دی میت تے
+کلمہ گوواں نے، جدوں تیر چلائے
 
-Zhara Diyan Jaiyan Day
-Burqay Bhi Lath Gaye ,Vain Baqiyeh Cho Aye
+۲
+زہرا دیاں جائیاں دے
+برقعے بھی لتھ گئے، وین بقیع چوں آئے
 
-Yasrab Day Vasiyan Nay
-Khoof e Khuda Na Keeta
-Kuch Bhi Haya Na Keeta
-Klamay Day Varisan nu
-Kalma Parhan Tu ,Ki Ajer Valaye
+۳
+یثرب دے واسیاں نے
+خوفِ خدا نہ کیتا
+کچھ بھی حیا نہ کیتا
+کلمے دے وارثاں نوں
+کلمہ پڑھن توں، کی اجر ولائے
 
-Dil Tukray Tukray Ho Kay
-Senay Cho Baher Aya
-Zainab Da Amri Jaya
-Bister Day Tarapda Si
-Jodah Day Zulm Nay ,Kitay Mooth Day Saye
+۴
+دل ٹکڑے ٹکڑے ہو کے
+سینے چوں باہر آیا
+زینب دا امڑی جایا
+بستر دے تڑپدا سی
+جعدہ دے ظلم نے، کیتے موت دے سائے
 
-Rab Janaye Keeway Ghazi
-Sadma Ey Sahy Gaya Ha
-Roonda Hi Reh Gaya Hai
-Miyyat Sabaz Qbah Di
-Jadoon Roza e Nabi Toon, Kewan Mor Lay Aye
+۵
+رب جانے کیویں غازی
+صدمہ اے سہی گیا ہا
+روندا ہی رہ گیا ہے
+میت سبز قبا دی
+جدوں روضۂ نبی توں، کیویں موڑ لے آئے

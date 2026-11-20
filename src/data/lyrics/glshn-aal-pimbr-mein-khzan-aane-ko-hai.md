@@ -8,44 +8,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Gulshan-e-Aal-e-Payambar Meiṅ Khizaaṅ Aane Ko Hai
-  Haider o Safdar Ka Saya Sar Se Uth Jaane Ko Hai
+  Gulshan-e-Aal-e-Payambar meiṅ khizaaṅ aane ko hai
+  Haider o Safdar ka saaya sar se uth jaane ko hai
 
   1
-  Aaj Zainab Ko Nazar Aane Laga Bazar-e-Sham
-  Fatima Kya Phir Kisi Darbar Meiṅ Jaane Ko Hai
+  Aaj Zainab ko nazar aane laga bazaar-e-Shaam
+  Fatima kya phir kisi darbaar meiṅ jaane ko hai
 
   2
-  Zainab o Kulsum Rakhna Hausle Apne Buland
-  Aaj Phir Koi Qayamat Ki Khabar Aane Ko Hai
+  Zainab o Kulsum rakhna hausle apne buland
+  Aaj phir koi qayaamat ki khabar aane ko hai
 
   3
-  Jab Gire Ghore Se Ghazi To Sakina Ne Kaha
-  Durr Mere Aur Chadar-e-Tathir Chhin Jaane Ko Hai
+  Jab gire ghore se Ghaazi to Sakina ne kaha
+  Durr mere aur chaadar-e-Tathir chhin jaane ko hai
 
   4
-  Nanhe Nanhe Baazuoṅ Meiṅ Daal Kar Chhoti Si Mashk
-  Sher-e-Haq Abbas Ki Kuch Shan Dikhane Ko Hai
+  Nanhe nanhe baazuon meiṅ daal kar chhoti si mashk
+  Sher-e-Haq Abbas ki kuch shaan dikhaane ko hai
 
   5
-  Aaj Ki Shab Rauza-e-Khatam-e-Rusul Hil Jaaye Ga
-  Ibn-e-Muljim Aaj Kuch Aisa Ghazab Dhaane Ko Hai
+  Aaj ki shab rauza-e-Khatam-e-Rusul hil jaaye ga
+  Ibn-e-Muljim aaj kuch aisa ghazab dhaane ko hai
 
   6
-  Zainab o Kulsum Ko Sine Se Kar Lo Ab Juda
-  Baap Ke Chehre Ki Rangat Ab Badal Jaane Ko Hai
+  Zainab o Kulsum ko sine se kar lo ab juda
+  Baap ke chehre ki rangat ab badal jaane ko hai
 
   7
-  Chha Gayi Hai Kiuṅ Udaasi Shabbar o Shabbir Par
-  Saaf Zahir Hai Yatimi Sar Pe Chha Jaane Ko Hai
+  Chha gayi hai kiuṅ udaasi Shabbar o Shabbir par
+  Saaf zaahir hai yatimi sar pe chha jaane ko hai
 
   8
-  Karbala Waloṅ Ki Shayad Tashnagi Ka Hai Khayal
-  Saqi-e-Kausar Zara Pehle Chale Jaane Ko Hai
+  Karbala waaloṅ ki shaayad tashnagi ka hai khayaal
+  Saaqi-e-Kausar zara pehle chale jaane ko hai
 
   9
-  Ta Qayamat Khuṅ Roye Gi Zamin-e-Karbala
-  Zulm Ki Kaali Ghata Sar Pe Chha Jaane Ko Hai
+  Taa qayaamat khuṅ roye gi zamin-e-Karbala
+  Zulm ki kaali ghataa sar pe chha jaane ko hai
 ---
 
 گلشن آ ل پیمبر میں خزاں آنے کو ہے

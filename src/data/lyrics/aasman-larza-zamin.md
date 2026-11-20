@@ -21,10 +21,10 @@ romanLyrics: |-
 
   2
   Waqt-e-rukhsat jo Husain aaye dar-e-khaima par
-  Shah Zainab se bahot der lipat kar roe
+  Shah Zainab se bahut der lipat kar roe
 
   3
-  Zibh hote huwe sab dekh rahi thi behneṅ
+  Zibh hote hue sab dekh rahi thi behneṅ
   Ye samaaṅ dekh ke Maula tah-e-khanjar roe
 
   4
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Naza meiṅ yaad jo bimar-e-Madina aayi
-  Hichkiyaṅ barh gayiṅ is tarha se Akbar roe
+  Hichkiyaṅ barh gayiṅ is tarah se Akbar roe
 
   7
   Sun ke ae Mir Takallum tera majlis meiṅ salam

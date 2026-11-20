@@ -8,78 +8,48 @@ poet: "Anjum Zaidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ro ro maqtal may kehti thi zainab
-
-  Bhaiya bali Sakina kahan hai
-
-  Jaake dhoondu kahan usko ban may
-
-  Shab hai tareeq sannata ran may
-
-  Phook uth thi hai zere badan may
-
+romanLyrics: |-
+  Ro ro maqtal mein kehti thiṅ Zainab
+  Bhaiya baali Sakina kahaaṅ hai
 
   1
-
-  Uthke darya se abbas aao
-
-  Saath akbar ko tum leke jao
-
-  Dhoond kar tum sakina ko lao
-
+  Jaa ke dhunduṅ kahaaṅ us ko ban mein
+  Shab hai taarik sannaata ran mein
+  Huk uthti hai mere badan mein
 
   2
-
-  Shayad asghar ko wo dhoondti ho
-
-  Kooza pani ka lekar gayi ho
-
-  Paas bhai ke na so gayi ho
-
+  Uth ke darya se Abbas aao
+  Saath Akbar ko tum le ke jaao
+  Dhund ke tum Sakina ko laao
 
   3
-
-  Ho chuki ran may shame ghariban
-
-  Fauje aada may ab hai charaghan
-
-  Pooch ke ye ho rahe hai ye pamaan
-
+  Shaayad Asghar ko woh dhundti ho
+  Kuza paani ka le kar gayi ho
+  Paas bhai ke na so gayi ho
 
   4
-
-  Bhaiya dekho to kismat hamari
-
-  Jaayegi kis tarha ye sawari
-
-  Hogi mehmil na ab wo amaari
-
+  Ho chuki ran mein shaam-e-gharibaaṅ
+  Fauj-e-aadaa mein ab hai charaaghaaṅ
+  Kuch ke ho rahe hain ye saamaaṅ
 
   5
+  Bhaiya dekho to qismat hamaari
+  Jaayegi kis tarah ye sawaari
+  Ho gi mahmil na ab woh amaari
 
-  To laashe besar se awaaz aayi
-
-  Gham na khao ay amma ki jaayi
-
-  Aao zainab bulaata hai bhai
-
-  Meri bali sakina yahan hai
-
-  Rote rote jo neendh aagayi hai
-
-  Gham ke toofan may wo kho gayi hai
-
-  Mere seene pa wo sogayi hai
-
-  Meri bali sakina....
-
-  Sheh kahan ab sakina kahan hai
-
-  Karwaan karbala ka rawan hai
-
-  Taskira unka anjum jahan hai
-
-  Sheh ki pyari sakina wahan hai'
+  6
+  To laash-e-besar se aawaaz aayi
+  Gham na khaao ae ammaaṅ ki jaayi
+  Aao Zainab bulaata hai bhai
+  Meri baali Sakina yahaaṅ hai
+  Rote rote jo nind aa gayi hai
+  Gham ke tufaaṅ mein woh kho gayi hai
+  Mere sine pe woh so gayi hai
+  Meri baali Sakina yahaaṅ hai
+  Sheh kaho ab Sakina kahaaṅ hai
+  Kaarwaaṅ Karbala ka rawaaṅ hai
+  Tazkira un ka Anjum jahaaṅ hai
+  Sheh ki pyaari Sakina wahaaṅ hai
 ---
 
 رو رو مقتل میں کہتی تھیں زینبؑ
