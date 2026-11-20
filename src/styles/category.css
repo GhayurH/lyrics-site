@@ -1,5 +1,7 @@
 /* File role: Explicit collection separation and accessible jumps on Kalam Type pages. */
 .category-page { max-width: var(--content-reading); margin-inline: auto; }
+.category-page-range { color: var(--secondary-text); }
+.category-search { display: inline-flex; align-items: center; min-height: var(--ui-target); font-weight: 650; }
 .category-jump { display: flex; flex-wrap: wrap; gap: .65rem; margin: 0 0 1.5rem; }
 .category-jump a { display: inline-flex; align-items: center; min-height: var(--ui-target); padding: .4rem .8rem; border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background); text-decoration: none; font-weight: 650; }
 .category-jump a:hover { background: var(--tag-background); }

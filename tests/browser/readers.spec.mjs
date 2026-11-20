@@ -1,5 +1,6 @@
 import { withoutJavaScript } from "./no-js.mjs";
 import { test, expect } from "@playwright/test";
+import { lyricSourceUrl } from "./catalog.mjs";
 
 test("all reader types expose text before JavaScript initializes @smoke", async ({ browser }) => {
   await withoutJavaScript(browser, async (page) => {
@@ -22,7 +23,7 @@ test("edition preferences, Focus mode, and image enlargement work together @smok
   await expect(image).toBeHidden();
   await page.getByLabel("Image", { exact: true }).check();
   await expect(image).toBeVisible();
-  await image.locator("a").click();
+  await image.locator(":scope > a:has(img)").click();
   await expect(page.locator("dialog.scan-viewer")).toBeVisible();
   await page.getByRole("button", { name: "Close" }).click();
   await page.getByRole("button", { name: "Focus Mode" }).click();
@@ -31,9 +32,9 @@ test("edition preferences, Focus mode, and image enlargement work together @smok
   await expect(page.locator("html")).not.toHaveAttribute("data-reading-focus", "true");
 });
 
-test("mobile single-edition Focus starts with stanza one via link and button", async ({ page }) => {
+test("mobile single-edition Focus starts with stanza one via link and button", async ({ page, request }) => {
   await page.setViewportSize({ width: 390, height: 844 });
-  const lyricUrl = "/lyrics/na-bhool-kar-bhi/";
+  const lyricUrl = await lyricSourceUrl(request, "na-bhool-kar-bhi");
 
   const expectFirstStanza = async (edition) => {
     const root = page.locator("[data-reading-root]");
@@ -113,9 +114,9 @@ test("parallel Urdu/Roman use unequal natural-width columns and a shared page sc
   await expect(page.getByRole("separator", { name: "Resize Roman and Urdu columns" })).toHaveAttribute("aria-valuenow", "49");
 });
 
-test("dragging lyric divider refits one-line verses and supports keyboard and responsive stacking", async ({ page }) => {
+test("dragging lyric divider refits one-line verses and supports keyboard and responsive stacking", async ({ page, request }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
-  await page.goto("/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra/");
+  await page.goto(await lyricSourceUrl(request, "aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra"));
   const root = page.locator(".lyric-reading-grid");
   const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
   await expect(divider).toBeVisible();
@@ -142,9 +143,9 @@ test("dragging lyric divider refits one-line verses and supports keyboard and re
   await expect(root).toHaveCSS("flex-direction", "column");
 });
 
-test("widening the Roman column grows the stanza font while every verse stays justified", async ({ page }) => {
+test("widening the Roman column grows the stanza font while every verse stays justified", async ({ page, request }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
-  await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
+  await page.goto(await lyricSourceUrl(request, "ab-aey-hawaon-kuch-khak-urao"));
   const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
   const stanza = page.locator(".lyric-reading-roman .lyric-stanza").first();
   await expect(divider).toBeVisible();
@@ -179,9 +180,9 @@ test("widening the Roman column grows the stanza font while every verse stays ju
     .toBeLessThan(wideSize - 2);
 });
 
-test("standalone lyrics stay text-only in responsive bilingual and mobile readers", async ({ page }) => {
+test("standalone lyrics stay text-only in responsive bilingual and mobile readers", async ({ page, request }) => {
   await page.setViewportSize({ width: 1440, height: 900 });
-  await page.goto("/lyrics/ab-aey-hawaon-kuch-khak-urao/");
+  await page.goto(await lyricSourceUrl(request, "ab-aey-hawaon-kuch-khak-urao"));
   const grid = page.locator(".lyric-reading-grid");
   const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
   await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(0);
@@ -302,8 +303,8 @@ test("image viewer centres narrow scans and pans horizontally and vertically whe
   await viewer.getByRole("button", { name: "Close" }).click();
 });
 
-test("Escape dismisses Focus Options before exiting the reader", async ({ page }) => {
-  await page.goto("/lyrics/na-bhool-kar-bhi/");
+test("Escape dismisses Focus Options before exiting the reader", async ({ page, request }) => {
+  await page.goto(await lyricSourceUrl(request, "na-bhool-kar-bhi"));
   await page.locator("[data-reading-focus-enter]").click();
   const html = page.locator("html");
   const controls = page.locator("[data-reading-controls]");

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>KalamArchive · Editorial workspace</title>
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#review">Skip to review</a>
+  <header class="topbar">
+    <div><p class="eyebrow">KalamArchive / Local editorial workspace</p><h1>Review the work. Keep the reading.</h1></div>
+    <div class="header-actions"><button id="refresh" type="button">Refresh corpus</button><a class="button secondary" href="/api/export" download>Export decisions</a><a class="button secondary" href="/api/queue-export" download>Export queue</a><button id="rules-open" type="button" class="secondary">Editorial rules</button></div>
+  </header>
+  <div id="message" class="message" role="status" aria-live="polite" hidden></div>
+  <section class="overview" aria-label="Corpus overview">
+    <div id="counts" class="counts"></div>
+    <p id="repository" class="muted">Loading the current checkout…</p>
+    <p class="contract">This inventory covers standalone lyric files. Human decisions are saved independently. Source files, publication flags, Codex tasks and existing review trackers are not changed. Check the Basta index and source material separately when reviewing duplicates.</p>
+    <details><summary>Metadata coverage and unreadable files</summary><div id="coverage"></div><ul id="read-errors"></ul></details>
+  </section>
+  <div class="workspace">
+    <aside class="inventory" aria-label="Review inventory">
+      <form id="filters">
+        <label for="query">Find a title, verse, poet or ID</label><input id="query" type="search" autocomplete="off" placeholder="Urdu or Roman text…">
+        <label for="queue">Review queue</label><select id="queue">
+          <option value="all">All candidates</option><option value="unreviewed">An unreviewed pass</option><option value="needs_work">Needs work</option><option value="stale">Decisions need rechecking</option><option value="identity">Identity issues</option><option value="validation">Structural findings</option><option value="metadata">Metadata gaps</option><option value="missing-roman">Missing Roman</option><option value="accepted">An accepted pass</option><option value="deferred">Deferred</option>
+        </select>
+        <div class="filter-pair"><div><label for="language">Original language</label><select id="language"><option value="">All languages</option></select></div><div><label for="publication">Source publication</label><select id="publication"><option value="all">All</option><option value="published">Published</option><option value="unpublished">Unpublished</option></select></div></div>
+      </form>
+      <p id="results-label" class="muted" aria-live="polite"></p>
+      <ol id="results" class="results"></ol>
+      <div class="pagination"><button id="previous" type="button">← Previous</button><button id="next" type="button">Next →</button></div>
+    </aside>
+    <main id="review" tabindex="-1">
+      <section id="empty-review" class="empty-state"><span class="empty-mark" aria-hidden="true">ا</span><h2>Choose a kalam to begin</h2><p>Inspect both editions, compare a candidate and record a decision for one editorial pass at a time.</p></section>
+      <div id="selected-review" hidden>
+        <section class="review-heading"><p id="source-state" class="eyebrow"></p><h2 id="source-title" dir="auto"></h2><p id="source-alternate" dir="auto"></p><p id="source-path" class="path"></p><p id="source-identity" class="muted"></p><p id="source-moves" class="muted"></p></section>
+        <section class="decision-card" aria-labelledby="decision-title">
+          <div class="decision-heading"><h3 id="decision-title">Human review decision</h3><p id="decision-state" class="badge"></p></div>
+          <div id="pass-list" class="pass-list" aria-label="Pass status"></div>
+          <label for="task">Review pass</label><select id="task"></select>
+          <p id="decision-context" class="muted"></p>
+          <label for="notes">What did you verify, or what still needs work?</label><textarea id="notes" rows="3" maxlength="8000" placeholder="Record a concrete reading, comparison, correction or remaining question…"></textarea>
+          <label id="comparison-evidence-label" class="checkbox" hidden><input id="comparison-evidence" type="checkbox" checked>Record the open comparison candidate as evidence for this decision</label>
+          <div class="decision-actions"><button data-decision="accepted" type="button">Accept this pass</button><button data-decision="needs_work" type="button" class="secondary">Needs work</button><button data-decision="deferred" type="button" class="secondary">Defer</button><button data-decision="unreviewed" type="button" class="quiet">Reopen pass</button></div>
+          <p class="small muted">Acceptance applies to the inspected content and current editorial rules. A changed source or comparison becomes stale. Publication acceptance records a decision; it does not publish the file.</p>
+        </section>
+        <details class="findings" open><summary id="findings-summary">Source findings</summary><ul id="findings-list"></ul><p class="small muted">Mechanical findings guide inspection. Matching line counts and a clean check do not establish an accurate reading.</p></details>
+        <section class="compare-controls" aria-labelledby="compare-title"><h3 id="compare-title">Compare another candidate</h3><div class="compare-search"><input id="compare-query" type="search" aria-label="Find a comparison candidate" placeholder="Search another title, verse or ID…"><button id="compare-search" type="button" class="secondary">Find candidates</button><button id="compare-clear" type="button" class="quiet" hidden>Close comparison</button></div><ul id="compare-results" class="compare-results"></ul><p class="small muted">Comparison does not merge or rewrite either file. Record any proposed consolidation explicitly in your note.</p></section>
+        <div id="work-readers" class="work-readers">
+          <section class="source-panel" aria-labelledby="current-reading-title"><h3 id="current-reading-title">Current source</h3><div id="source-editions" class="editions"></div></section>
+          <section id="comparison-panel" class="source-panel" hidden><p class="eyebrow">Comparison candidate</p><h3 id="comparison-title" dir="auto"></h3><p id="comparison-path" class="path"></p><div id="comparison-editions" class="editions"></div></section>
+        </div>
+        <details class="metadata"><summary>Source metadata</summary><dl id="metadata"></dl></details>
+        <details><summary>Exact Markdown source</summary><pre id="raw-source" class="raw-source" dir="auto"></pre></details>
+        <details><summary>Review history</summary><ol id="history" class="history"></ol></details>
+      </div>
+    </main>
+  </div>
+  <dialog id="rules-dialog" aria-labelledby="rules-title"><div class="dialog-header"><h2 id="rules-title">Editorial standards</h2><button id="rules-close" type="button">Close</button></div><pre id="rules-content" class="rules-content"></pre></dialog>
+</body>
+</html>

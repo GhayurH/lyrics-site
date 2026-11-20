@@ -17,10 +17,10 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
 
 <BaseLayout
   title="Kalam Archive"
-  description="Search Urdu and Roman Urdu kalam, browse by Kalam Type, or explore the complete Basta book archive."
+  description="Search kalam in its original language or Roman transliteration, browse poets, languages and Kalam Types, or explore the complete Basta book archive."
 >
   <section class="home-intro" aria-labelledby="home-title">
-    <p class="eyebrow">A searchable collection of Urdu kalam</p>
+    <p class="eyebrow">A searchable collection of kalam</p>
     <h1 id="home-title">Kalam Archive</h1>
     <p class="home-lead">
       Find nohas, salams, manqabats and other kalam, or explore the complete Basta book.
@@ -32,12 +32,18 @@ const bastaEntryCount = [...bastaByType.values()].reduce((total, entries) => tot
         id="home-search-query"
         type="search"
         name="q"
-        placeholder="Search titles, Urdu or Roman Urdu…"
+        placeholder="Search titles, original text or Roman…"
         enterkeyhint="search"
       />
       <button class="button" type="submit">Search</button>
     </form>
-    <p class="home-intro-help">Search in Urdu or Roman Urdu, or browse by Kalam Type below.</p>
+    <p class="home-intro-help">Search a title or remembered verse in its original script or Roman transliteration.</p>
+    <nav class="home-discovery-links" aria-label="Browse by metadata">
+      <a href="/poets/">By poet</a>
+      <a href="/languages/">By language</a>
+      <a href="/occasions/">By occasion</a>
+      <a href="#kalam-types-heading">By Kalam Type</a>
+    </nav>
   </section>
 
   <section id="home-continue" class="home-continue" aria-labelledby="home-continue-title" hidden>

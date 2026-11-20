@@ -1,0 +1,17 @@
+---
+import CategoryPage from "../../../../components/CategoryPage.astro";
+import { loadCategories, type CategoryData } from "../../../../lib/category-data";
+import { PAGE_SIZE } from "../../../../lib/pagination";
+export async function getStaticPaths() {
+  return (await loadCategories()).flatMap((category) => {
+    const totalPages = Math.ceil((category.lyrics.length + category.bastaEntries.length) / PAGE_SIZE);
+    return Array.from({ length: Math.max(0, totalPages - 1) }, (_, index) => ({
+      params: { category: category.slug, page: String(index + 2) },
+      props: { category, currentPage: index + 2 },
+    }));
+  });
+}
+interface Props { category: CategoryData; currentPage: number }
+const { category, currentPage } = Astro.props;
+---
+<CategoryPage category={category} currentPage={currentPage} />

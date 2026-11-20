@@ -8,7 +8,7 @@ const { data } = lyric;
 const categories = getLyricKalamTypes(data);
 const reciters = getLyricReciters(data);
 const displayHaal = data.romanHaal?.trim() || data.haal;
-const searchTerms = [
+const recordedTerms = [
   data.alternateTitle,
   data.poet,
   ...reciters,
@@ -18,15 +18,20 @@ const searchTerms = [
   ...categories,
   ...data.tags,
   ...data.aliases,
+  data.language,
+].filter(Boolean).join(" ");
+const searchTerms = [
+  recordedTerms,
   // Pagefind indexes metadata too. Keep spelling variants searchable without
   // putting titles, aliases, and a second copy of the poem into excerpts.
-  searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" ")),
+  searchIndexAliases([recordedTerms, data.title, data.romanLyrics, lyric.body].filter(Boolean).join(" ")),
 ].filter(Boolean).join(" ");
 ---
 <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
       <span data-pagefind-filter="collection">Lyrics</span>
       <span data-pagefind-meta="collection">Standalone kalam</span>
+      <span data-pagefind-meta="lang">{data.lang}</span>
       {data.alternateTitle && data.alternateTitle.trim().toLocaleLowerCase() !== data.title.trim().toLocaleLowerCase() &&
         <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
       {categories.map((category) => <span data-pagefind-filter="kalamType">{category}</span>)}

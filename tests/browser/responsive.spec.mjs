@@ -1,10 +1,11 @@
 // Responsive navigation, toolbar, and reader geometry across real viewport sizes.
 import { test, expect } from "@playwright/test";
+import { lyricSourceUrl } from "./catalog.mjs";
 
-test("reader routes share article width and breadcrumb styling", async ({ page }) => {
+test("reader routes share article width and breadcrumb styling", async ({ page, request }) => {
   await page.setViewportSize({ width: 1530, height: 900 });
   const routes = [
-    "/lyrics/ab-aey-hawaon-kuch-khak-urao/",
+    await lyricSourceUrl(request, "ab-aey-hawaon-kuch-khak-urao"),
     "/basta/138/",
     "/basta/kalam/basta-marsiye-117/",
     "/basta/read/",

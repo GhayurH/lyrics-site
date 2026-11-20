@@ -1,7 +1,13 @@
 import { test, expect } from "@playwright/test";
 import { readFile } from "node:fs/promises";
+import { recitationContentRevision } from "../../src/lib/recitation-live.js";
+import { lyricSourceUrl } from "./catalog.mjs";
 
 test("offline programme export contains complete text, reciter assignments and notes", async ({ page }) => {
+  const exportRequests = [];
+  page.on("request", request => {
+    if (/\/_astro\/recitation-export\.[^/]+\.js$/.test(new URL(request.url()).pathname)) exportRequests.push(request.url());
+  });
   await page.goto("/recite/");
   await page.locator("#recite-title").fill("Offline printable programme");
   await page.locator("#recite-optional-details summary").click();
@@ -14,18 +20,22 @@ test("offline programme export contains complete text, reciter assignments and n
   await page.locator(".recite-inline-note input").nth(1).fill("Read after opening salaam");
   await page.locator(".recite-inline-note input").nth(1).blur();
   await page.locator("#recite-open-reader").click();
+  const sourceEditionLabel = await page.locator(".recite-work .lyric-reading-urdu").first().getAttribute("aria-label");
   await page.locator(".recite-reader-exports summary").click();
+  expect(exportRequests).toHaveLength(0);
   const pending = page.waitForEvent("download");
   await page.locator("#recite-download-offline").click();
   const download = await pending;
+  expect(exportRequests).toHaveLength(1);
   expect(download.suggestedFilename()).toMatch(/\.html$/);
   const html = await readFile(await download.path(), "utf8");
   expect(html).toContain("Offline printable programme");
   expect(html).toContain("Organizers&#39; programme notes");
   expect(html).toContain("Assigned reciter");
   expect(html).toContain("Read after opening salaam");
-  expect(html).toContain('aria-label="Original poem text"');
-  expect(html).toContain("Roman Urdu");
+  expect(sourceEditionLabel).toMatch(/ poem text$/);
+  expect(html).toContain(`aria-label="${sourceEditionLabel}"`);
+  expect(html).toContain("Roman transliteration");
   expect(html).not.toContain("<script");
   expect(html).not.toMatch(/<img\b/i);
   expect(html).toContain('font-src data:;');
@@ -62,17 +72,26 @@ test("live navigation is opt-in and follows published entry UIDs", async ({ page
   }));
   const set = { version: 1, title: "Live programme", occasion: "", description: "",
     items, live: { active: true, currentUid: nextUid } };
+  const contentRevision = await recitationContentRevision(set);
+  let liveRequests = 0;
   await page.route("**/api/recitation-sets/" + id, (route) =>
-    route.fulfill({ contentType: "application/json", body: JSON.stringify({ id, set }) }));
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({ id, set, contentRevision }) }));
+  await page.route("**/api/recitation-sets/" + id + "/live", (route) => {
+    liveRequests++;
+    return route.fulfill({ contentType: "application/json", headers: { ETag: '"live-position"' },
+      body: JSON.stringify({ live: set.live, contentRevision }) });
+  });
   await page.goto("/recite/read/?set=" + id);
   await expect(page.locator("#recite-position")).toHaveText("1 / 2");
   await expect(page.locator("#recite-live-label")).toBeVisible();
+  expect(liveRequests).toBe(0);
   await page.locator("#recite-follow-live").evaluate((input) => {
     input.checked = true;
     input.dispatchEvent(new Event("change", { bubbles: true }));
   });
   await expect(page.locator("#recite-position")).toHaveText("2 / 2");
   await expect(page.locator("#recite-live-status")).toContainText("Following organizer");
+  expect(liveRequests).toBe(1);
   await page.locator("#recite-previous").click();
   await expect(page.locator("#recite-follow-live")).not.toBeChecked();
   await expect(page.locator("#recite-position")).toHaveText("1 / 2");
@@ -117,10 +136,11 @@ test("empty set disables unavailable actions and explains publishing requirement
   await expect(publish).toBeDisabled();
 });
 
-test("renamed lyric deep-link uses its permanent recitation ID @smoke", async ({ page }) => {
-  const fileId = "ayyo-hannas-dil-e-haider-e-karrar-hon-main";
-  const stableId = fileId + "-mir-hasan-mir";
-  await page.goto("/lyrics/" + fileId + "/");
+test("renamed lyric deep-link uses its permanent recitation ID @smoke", async ({ page, request }) => {
+  const stableId = "ayyo-hannas-dil-e-haider-e-karrar-hon-main-mir-hasan-mir";
+  const url = await lyricSourceUrl(request, stableId);
+  expect(url).not.toBe("/lyrics/" + stableId + "/");
+  await page.goto(url);
   const add = page.locator(".lyric-add-recitation");
   await expect(add).toHaveAttribute(
     "href", "/recite/?add=" + encodeURIComponent("lyric:" + stableId));
@@ -375,7 +395,7 @@ test("Roman-only recitation shows missing text without a standalone scan", async
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-mode","roman");
   await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(0);
   await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toHaveCount(0);
-  await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
+  await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman transliteration is not available");
 });
 
 test("sharing choices are disclosed as the programme becomes publishable", async ({ page }) => {

@@ -7,7 +7,7 @@ import "../../../styles/basta-text.css";
 import "../../../styles/recitation-common.css";
 import "../../../styles/recitation-reader.css";
 ---
-<BaseLayout title="Recitation reader | Kalam Archive" description="Read a complete ordered programme in Urdu or Roman Urdu, sequentially or continuously.">
+<BaseLayout title="Recitation reader | Kalam Archive" description="Read a complete ordered programme in its original language or Roman transliteration, sequentially or continuously.">
   <article class="recite-reader" id="recite-reader" data-reader-shell data-pagefind-ignore>
     <header class="recite-reader-heading">
       <p class="eyebrow">Recitation programme</p>
@@ -20,7 +20,7 @@ import "../../../styles/recitation-reader.css";
     </header>
     <p id="recite-reader-error" role="alert" hidden>Unable to load this programme.</p>
     <p data-requires-js>This reader requires JavaScript. Browse <a href="/">individual kalams</a> instead.</p>
-    <ReadingControls ariaLabel="Recitation reading options" modeGroupLabel="Show editions" showModes hasImage recitationNavigation />
+    <ReadingControls ariaLabel="Recitation reading options" modeGroupLabel="Show editions" originalLabel="Original" showModes hasImage recitationNavigation />
     <details class="recite-reader-exports">
       <summary>Offline reading &amp; printing</summary>
       <div class="recite-reader-tools" aria-label="Offline and printing tools">

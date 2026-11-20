@@ -10,6 +10,7 @@ import type { RecitationItem } from "../lib/recitation-set";
 import { node } from "./dom";
 import type { StanzaPattern } from "../lib/stanza-pattern";
 import type { BastaStanzaStyle } from "../lib/basta-text";
+import { originalLanguageLabel } from "../lib/language-labels";
 
 function addBastaText(host: HTMLElement, text: string, prefaceOnly = false,
   pattern?: StanzaPattern, style: BastaStanzaStyle = "auto") {
@@ -155,10 +156,10 @@ export function renderWork(work: HTMLElement, item: RecitationItem, index: numbe
   editions.dataset.lineSpacing = readingRoot?.dataset.lineSpacing ?? "default";
   const urdu = node("section", "lyric-reading-panel lyric-reading-urdu");
   urdu.lang = poem.lang; urdu.dir = poem.direction;
-  urdu.setAttribute("aria-label", "Original poem text");
+  urdu.setAttribute("aria-label", originalLanguageLabel(poem.lang) + " poem text");
   const roman = node("section", "lyric-reading-panel lyric-reading-roman");
   roman.lang = "en"; roman.dir = "ltr";
-  roman.setAttribute("aria-label", "Roman Urdu text");
+  roman.setAttribute("aria-label", "Roman transliteration");
   if (item.stanzaSequence) {
     stanzaSection(urdu, poem, item, "urdu", sources, hasScan);
     stanzaSection(roman, poem, item, "roman", sources, hasScan);
@@ -166,8 +167,8 @@ export function renderWork(work: HTMLElement, item: RecitationItem, index: numbe
     originalBastaEdition(urdu, poem.basta!, "urdu", hasScan);
     originalBastaEdition(roman, poem.basta!, "roman", hasScan);
   } else {
-    if (poem.urdu) addLyricText(urdu, poem.urdu, false, poem.stanzaPattern);
-    else urdu.append(node("p", "recite-empty-edition", "Urdu is not available for this kalam."));
+    if (poem.urdu) addLyricText(urdu, poem.urdu, poem.direction === "ltr", poem.stanzaPattern);
+    else urdu.append(node("p", "recite-empty-edition", originalLanguageLabel(poem.lang) + " text is not available for this kalam."));
     if (poem.roman) addLyricText(roman, poem.roman, true, poem.stanzaPattern);
     else roman.append(node("p", "recite-empty-edition", romanUnavailable("kalam", hasScan)));
   }

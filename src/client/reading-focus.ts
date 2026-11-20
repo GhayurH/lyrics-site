@@ -174,7 +174,7 @@ export function initReadingFocus(root: HTMLElement, controls: HTMLElement): void
   });
 
   document.addEventListener("keydown", (event) => {
-    if (active && event.key === "Escape" && !document.querySelector("dialog.scan-viewer[open]")) {
+    if (active && event.key === "Escape" && !document.querySelector("dialog[open]")) {
       event.preventDefault();
       if (html.dataset.readingTocOpen === "true") contentsOpen(false);
       else if (controls.dataset.readingOptionsOpen === "true") {

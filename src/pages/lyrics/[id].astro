@@ -13,6 +13,7 @@ import { loadPublishedLyrics, groupLyricsByKalamType } from "../../lib/lyrics-da
 import "../../styles/lyrics.css";
 import "../../styles/corrections.css";
 import { getLyricKalamType, slugifyKalamType, searchUrl } from "../../lib/lyrics";
+import { lyricStanzaLinks } from "../../lib/stanza-links";
 
 export async function getStaticPaths() {
   const byCategory = groupLyricsByKalamType(await loadPublishedLyrics());
@@ -50,6 +51,7 @@ const {
   categoryCount,
 } = Astro.props as Props;
 const { data } = lyric;
+const stanzaLinks = lyricStanzaLinks(lyric.body ?? "", data.romanLyrics ?? "", data.stanzaPattern);
 const category = getLyricKalamType(data);
 // A Latin-script Panjabi/Urdu original has no Arabic-script edition.
 // English is an original language, never a "Roman" transliteration.
@@ -87,12 +89,14 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       modeGroupLabel="Lyric view"
       showModes={Boolean(data.romanLyrics) || isRomanOnly}
       hasUrdu={!isRomanOnly}
+      originalLabel={data.language}
     />
 
     <div
       class="lyric-reading-grid"
       data-reading-root
       data-reader-kind="lyrics"
+      data-original-label={data.language}
       data-has-roman={String(Boolean(data.romanLyrics) || isRomanOnly)}
       data-reading-mode={data.romanLyrics ? "parallel" : isRomanOnly ? "roman" : "urdu"}
       data-reading-columns={data.romanLyrics ? "urdu roman" : isRomanOnly ? "roman" : "urdu"}
@@ -109,7 +113,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         <h2 class="lyric-version-heading">
           <span class="lyric-focus-title kalam-reading-title" lang={data.lang} dir={data.direction}>{data.title}</span>
         </h2>
-        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly || isEnglishOnly ? "roman-lyrics-text" : "lyrics-text"} stanzaPattern={data.stanzaPattern} indexForSearch searchTitle={data.title} />
+        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly || isEnglishOnly ? "roman-lyrics-text" : "lyrics-text"} stanzaPattern={data.stanzaPattern} indexForSearch searchTitle={data.title} stanzaLinks={stanzaLinks.original} edition={isRomanOnly ? "roman" : "original"} />
       </section>
 
       {
@@ -126,7 +130,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
                 {data.alternateTitle ?? data.title}
               </span>
             </h2>
-            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" stanzaPattern={data.stanzaPattern} indexForSearch searchTitle={data.alternateTitle ?? data.title} />
+            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" stanzaPattern={data.stanzaPattern} indexForSearch searchTitle={data.alternateTitle ?? data.title} stanzaLinks={stanzaLinks.roman} edition="roman" />
           </section>
         )
       }

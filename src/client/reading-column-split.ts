@@ -13,6 +13,7 @@ export function initReadingColumnSplit(root: HTMLElement, initial: number, save:
   if (root.dataset.columnSplitReady === "true") return;
   root.dataset.columnSplitReady = "true";
   let percent = normalizeRomanWidth(initial);
+  const originalLabel = document.querySelector<HTMLElement>("[data-reading-controls]")?.dataset.originalLabel || "Urdu";
   const pairs = new Map<HTMLElement, Pair>();
   let queued = false;
 
@@ -50,7 +51,7 @@ export function initReadingColumnSplit(root: HTMLElement, initial: number, save:
     root.style.setProperty("--reading-urdu-share", (100 - percent) + "fr");
     for (const { handle } of pairs.values()) {
       handle.setAttribute("aria-valuenow", String(percent));
-      handle.setAttribute("aria-valuetext", `Roman ${percent}%, Urdu ${100 - percent}%`);
+      handle.setAttribute("aria-valuetext", `Roman ${percent}%, ${originalLabel} ${100 - percent}%`);
     }
     if (persist) save(percent);
     window.dispatchEvent(new Event("kalam:columns-changed"));
@@ -71,12 +72,12 @@ export function initReadingColumnSplit(root: HTMLElement, initial: number, save:
       handle.className = "reading-column-divider";
       handle.tabIndex = 0;
       handle.setAttribute("role", "separator");
-      handle.setAttribute("aria-label", "Resize Roman and Urdu columns");
+      handle.setAttribute("aria-label", `Resize Roman and ${originalLabel} columns`);
       handle.setAttribute("aria-orientation", "vertical");
       handle.setAttribute("aria-valuemin", String(MIN_ROMAN_WIDTH));
       handle.setAttribute("aria-valuemax", String(MAX_ROMAN_WIDTH));
       handle.setAttribute("aria-valuenow", String(percent));
-      handle.setAttribute("aria-valuetext", `Roman ${percent}%, Urdu ${100 - percent}%`);
+      handle.setAttribute("aria-valuetext", `Roman ${percent}%, ${originalLabel} ${100 - percent}%`);
       handle.title = "Drag to resize; arrows adjust, Shift+arrows resize faster, double-click resets.";
       roman.id ||= "reading-roman-" + pairs.size;
       urdu.id ||= "reading-urdu-" + pairs.size;

@@ -4,6 +4,7 @@ import type { RecitationDraft, RecitationItem, StanzaRef } from "../lib/recitati
 import { type CatalogItem, getCatalog, catalogById, loadBasta } from "./recitation-catalog";
 import { elm, button, div, option, move } from "./recitation-builder-ui";
 import { node } from "./dom";
+import { matchesSearchText } from "../lib/search-normalization";
 import { editorUrl, publicUrl, readDrafts, readerUrl } from "./recitation-storage";
 
 /** Derive share, expiry, live and disabled controls from a single draft snapshot. */
@@ -193,12 +194,12 @@ export function renderCatalogueResults(
   items: Iterable<CatalogItem>, criteria: { query: string; source: string; limit: number },
   onAdd: (item: CatalogItem) => void,
 ): void {
-  const query = criteria.query.trim().toLocaleLowerCase();
+  const query = criteria.query.trim();
   const source = criteria.source;
   const matches = Array.from(items).filter((item) => {
     if (source !== "all" && item.kind !== source) return false;
-    return !query || (item.title + " " + (item.alternateTitle || "") + " " + item.type)
-      .toLocaleLowerCase().includes(query);
+    return matchesSearchText(item.title + " " + (item.alternateTitle || "") + " " +
+      (item.type === "Marsiye" ? "Marsiya" : item.type), query);
   });
   const list = elm<HTMLUListElement>("recite-results");
   list.replaceChildren(...matches.slice(0, criteria.limit).map((item) => {

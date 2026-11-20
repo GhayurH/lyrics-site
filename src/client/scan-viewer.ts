@@ -19,6 +19,11 @@ export function initScanViewer(): void {
         <button type="button" data-scan-close>Close</button>
       </div>
     </div>
+    <div class="scan-viewer-message" role="status" aria-live="polite">
+      <span data-scan-message>Loading scan…</span>
+      <button type="button" data-scan-retry hidden>Retry scan</button>
+      <a data-scan-original target="_blank" rel="noopener">Open original scan</a>
+    </div>
     <div class="scan-viewer-canvas" tabindex="0" role="region"
       aria-label="Zoomable scan: drag to pan or use arrow keys">
       <div class="scan-viewer-stage"><img alt="" draggable="false" /></div>
@@ -28,10 +33,26 @@ export function initScanViewer(): void {
   const image = dialog.querySelector<HTMLImageElement>("img")!;
   const canvas = dialog.querySelector<HTMLElement>(".scan-viewer-canvas")!;
   const status = dialog.querySelector<HTMLElement>(".scan-viewer-zoom-value")!;
+  const message = dialog.querySelector<HTMLElement>("[data-scan-message]")!;
+  const retry = dialog.querySelector<HTMLButtonElement>("[data-scan-retry]")!;
+  const original = dialog.querySelector<HTMLAnchorElement>("[data-scan-original]")!;
   const zoomButtons = Array.from(dialog.querySelectorAll<HTMLButtonElement>("[data-scan-zoom]"));
   type Zoom = "fit" | "actual" | "double" | "custom";
   let zoom: Zoom = "fit";
   let scale = 1;
+  let sourceURL = "";
+  let opener: HTMLAnchorElement | null = null;
+  const setLoading = () => {
+    message.textContent = "Loading scan…";
+    retry.hidden = true;
+    canvas.hidden = true;
+    dialog.setAttribute("aria-busy", "true");
+  };
+  const load = () => {
+    setLoading();
+    image.removeAttribute("src");
+    image.src = sourceURL;
+  };
 
   const fitScale = (): number => {
     if (!image.naturalWidth || !image.naturalHeight) return 1;
@@ -76,7 +97,22 @@ export function initScanViewer(): void {
     () => apply(button.dataset.scanZoom as Zoom)));
   dialog.querySelectorAll<HTMLButtonElement>("[data-scan-step]").forEach((button) =>
     button.addEventListener("click", () => apply("custom", scale * (button.dataset.scanStep === "1" ? 1.25 : .8))));
-  image.addEventListener("load", () => apply("fit"));
+  image.addEventListener("load", () => {
+    if (!dialog.open) return;
+    dialog.setAttribute("aria-busy", "false");
+    canvas.hidden = false;
+    message.textContent = "Scan loaded.";
+    retry.hidden = true;
+    apply("fit");
+  });
+  image.addEventListener("error", () => {
+    if (!dialog.open) return;
+    dialog.setAttribute("aria-busy", "false");
+    canvas.hidden = true;
+    message.textContent = "The scan could not be loaded. Check your connection, retry, or open the original file.";
+    retry.hidden = false;
+  });
+  retry.addEventListener("click", load);
   new ResizeObserver(() => { if (dialog.open && zoom === "fit") apply("fit"); }).observe(canvas);
 
   // Pointer capture supports mouse, pen, and touch panning without navigating the page.
@@ -129,6 +165,7 @@ export function initScanViewer(): void {
     image.style.removeProperty("width");
     drag = undefined;
     delete canvas.dataset.dragging;
+    opener?.focus();
   });
 
   document.addEventListener("click", (event) => {
@@ -142,10 +179,45 @@ export function initScanViewer(): void {
     event.preventDefault();
     event.stopPropagation();
     image.alt = source.alt;
+    opener = anchor;
+    sourceURL = anchor.href;
+    original.href = sourceURL;
     dialog.showModal();
     canvas.scrollTo(0, 0);
     // Loading resolves asynchronously, including for cached and cross-origin scans.
-    image.src = anchor.href;
-    if (image.complete && image.naturalWidth) apply("fit");
+    load();
   }, true);
+
+  // Inline failures remain recoverable without opening a broken full-screen view.
+  const recoveries = new WeakMap<HTMLImageElement, HTMLElement>();
+  const inlineError = (image: HTMLImageElement) => {
+    if (dialog.contains(image) || !image.closest("[data-reading-root]")) return;
+    const link = image.closest<HTMLAnchorElement>("a[href]");
+    if (!link || recoveries.has(image)) return;
+    const notice = document.createElement("div");
+    notice.className = "scan-inline-error";
+    notice.setAttribute("role", "status");
+    const text = document.createElement("span"); text.textContent = "Scan unavailable. ";
+    const again = document.createElement("button"); again.type = "button"; again.textContent = "Retry scan";
+    const file = document.createElement("a"); file.href = link.href; file.target = "_blank"; file.rel = "noopener"; file.textContent = "Open original file";
+    again.addEventListener("click", () => {
+      text.textContent = "Retrying scan… ";
+      const src = image.src; image.removeAttribute("src"); image.src = src;
+    });
+    notice.append(text, again, file); link.after(notice); recoveries.set(image, notice);
+  };
+  document.addEventListener("error", (event) => {
+    if (event.target instanceof HTMLImageElement) {
+      const existing = recoveries.get(event.target);
+      if (existing) existing.querySelector("span")!.textContent = "Scan unavailable. ";
+      else inlineError(event.target);
+    }
+  }, true);
+  document.addEventListener("load", (event) => {
+    if (!(event.target instanceof HTMLImageElement)) return;
+    recoveries.get(event.target)?.remove(); recoveries.delete(event.target);
+  }, true);
+  document.querySelectorAll<HTMLImageElement>("[data-reading-root] img").forEach((image) => {
+    if (image.complete && image.currentSrc && !image.naturalWidth) inlineError(image);
+  });
 }

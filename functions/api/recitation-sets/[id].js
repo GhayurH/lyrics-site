@@ -1,5 +1,6 @@
 import { binding, digest, error, json, readRequest, validId, validateDocument } from "../../_lib/recitation.js";
 import { expirationDate, isExpired, previewMode, retentionInfo } from "../../_lib/recitation-retention.js";
+import { recitationContentRevision } from "../../../src/lib/recitation-live.js";
 
 export async function onRequestGet({ params, env }) {
   if (!validId(params.id)) return error("Set not found", 404);
@@ -13,7 +14,8 @@ export async function onRequestGet({ params, env }) {
     const preview = previewMode(env);
     if (isExpired(entry, new Date().toISOString(), preview))
       return error("This programme has expired", 410);
-    return json({ id: params.id, set: JSON.parse(entry.document),
+    const set = JSON.parse(entry.document);
+    return json({ id: params.id, set, contentRevision: await recitationContentRevision(set),
       revision: await digest(entry.document), updatedAt: entry.updated_at,
       ...retentionInfo(entry, preview) });
   } catch (e) {

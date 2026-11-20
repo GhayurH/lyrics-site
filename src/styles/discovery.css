@@ -1,0 +1,21 @@
+/* File role: Metadata directory and its progressive search; poem cards stay shared. */
+.discovery-page { max-width: var(--content-feature); margin: auto; }
+.discovery-header { margin-bottom: 1.5rem; }
+.discovery-header h1 { font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.5; margin: .4rem 0; overflow-wrap: anywhere; }
+.discovery-nav { display: flex; gap: .5rem 1.2rem; flex-wrap: wrap; }
+.discovery-nav a { min-height: var(--ui-target); display: inline-flex; align-items: center; }
+.discovery-nav [aria-current="page"] { font-weight: 800; }
+.discovery-context { color: var(--secondary-text); max-width: 65ch; }
+.discovery-filter { max-width: 35rem; margin: 1.2rem 0; }
+.discovery-filter[hidden] { display: none; }
+.discovery-filter label { display: block; margin-bottom: .4rem; font-weight: 700; }
+.discovery-filter input { width: 100%; box-sizing: border-box; min-height: var(--ui-target); font: inherit; padding: .7rem; border: var(--ui-border); border-radius: var(--ui-radius); color: var(--primary-text); background: var(--surface-background); }
+.discovery-terms { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); list-style: none; gap: .65rem; padding: 0; }
+.discovery-term { display: flex; flex-direction: column; justify-content: center; height: 100%; box-sizing: border-box; min-height: 5.5rem; padding: 1rem; border: var(--ui-border); border-radius: var(--ui-panel-radius); background: var(--surface-background); color: var(--primary-text); overflow-wrap: anywhere; }
+.discovery-term span { font-weight: 700; line-height: 1.7; }
+.discovery-term span:dir(rtl), .discovery-header h1:dir(rtl), .discovery-filter input:dir(rtl) { font-family: var(--font-urdu); }
+.discovery-term small { color: var(--secondary-text); margin-top: .3rem; }
+.discovery-term:hover { background: var(--tag-background); }
+.discovery-term:focus-visible, .discovery-filter input:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+#discovery-more { min-height: var(--ui-target); }
+#discovery-more[hidden] { display: none; }

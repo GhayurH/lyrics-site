@@ -68,6 +68,22 @@ A private resume ledger, durable before/after per-file Markdown snapshots, actio
 `npm run kalam:status` and `-- --json` also show progress percentages, by-language and by-task completion, snapshots and an estimated remaining duration only after enough per-task samples exist; this is a rough computation, not a deadline. The worker checks that the active branch remains Round 2, but **does not freeze HEAD or stop on new commits**. It refreshes the eligible added-file list on each new commit while reading the latest local text just before each file. Concurrent changes to unrelated poems are ignored; if dedup edits, renames, or deletes the exact poem Codex is processing, the Codex proposal is saved as before/after snapshots, the live file is never overwritten, and that path is recorded as `concurrent_edit` for later requeue. It never stages, commits or pushes. To keep user services alive without an active login, configure systemd lingering separately via loginctl enable-linger for the user, if desired. The Codex CLI must be installed/authenticated on the machine running the service and its executable/Node PATH available in the installed unit.
 
 
+## Local editorial workspace
+
+Run the private review application from this checkout:
+
+```bash
+npm run editorial
+# Optional dedicated local state directory or port:
+npm run editorial -- --port 4319 --state-dir /absolute/path/to/editorial-state
+```
+
+Open the exact loopback URL printed in the terminal. The workspace has paginated standalone inventory, publication/language filters, metadata and identity queues, original/Roman inspection, candidate comparison, and explicit per-pass decisions. Comparison against Basta and other source material remains a separate manual check. Successful source checks and Codex output do not mark a human pass accepted. Publication acceptance is a separate decision.
+
+Decisions are attached to a candidate, permanent work identity where available, the inputs relevant to that pass, and the current editorial-rules fingerprint. Unambiguous renames preserve the candidate; changed inputs make the affected decisions stale. Duplicate IDs remain separate candidates and must be adjudicated manually. Exact-byte and ledger-revision checks reject stale review submissions, so refresh and compare rather than overwriting a concurrent change.
+
+The private ledger lives under the user state directory by default; a custom `--state-dir` must also be outside the checkout. Back it up using the workspace export and retain the local state directory. The workspace reads source files but does not edit, rename or merge them. Make reviewed text changes in your editor, refresh the inventory, and explicitly review any affected decisions. It does not modify `audit/round2-dedup-wip.csv` or `audit/lyric-md-rounds.csv`; their release responsibilities above still apply. Do not expose this loopback service through a public proxy or add its assets to Astro `public/`.
+
 ## Mechanical cleanup and synchronization
 
 For files changed against `main` (including local edits), `npm run whitespace:fix` removes CRLF, trailing ASCII spaces and **all** terminal newlines, including the final newline. It preserves internal blank lines, YAML literal indentation and Unicode poetry. Use `npm run whitespace:check` for the corresponding read-only report. Use `--all` with `scripts/tidy-whitespace.mjs` only when deliberately touching all tracked text sources.
@@ -115,12 +131,15 @@ npm run check           # Astro + TypeScript diagnostics
 npm run build           # Unit tests and source checks, Astro, sitemap, Pagefind, offline data
 npm run test:smoke      # Essential Chromium journeys
 npm run test:browser    # All non-performance Chromium journeys, including smoke
+npm run test:editorial  # Private review UI with temporary source/ledger fixtures
 npm run perf:assets     # Optional compiled asset report
+npm run perf:check      # Deterministic build budgets (also enforced by build)
+npm run search:verify   # Actual generated-index relevance fixtures (also in CI)
 npm run perf:browser    # Optional performance browser journeys
 git diff --check
 ```
 
-Install Chromium when needed with `npx playwright install chromium`. A build already calls `npm test` and `source:check` via `prebuild`; don't repeat the same validation in CI unless debugging.
+Install Chromium when needed with `npx playwright install chromium`. A local `npm run build` calls `npm test` and `source:check` via `prebuild`. CI runs those gates explicitly once before building with lifecycle hooks disabled. A source failure allows the remaining technical diagnostics to run, then fails the required validation job; it never becomes a release approval.
 
 For **ongoing manual Round 2 batches**, use `[skip ci]` on work-in-progress commits rather than repeatedly running full CI. This is strictly a workflow optimization, **not release acceptance**. At the final publication head run the full [release gate](QUALITY_ASSURANCE.md#editorial-release-checklist) and ensure an unskipped CI run. Ordinary PR CI runs one build and smoke; scheduled/manual/`[full-ci]` selects full functional Chromium; `[check-ci]` requests Astro diagnostics even when the changed-file filter would not.
 

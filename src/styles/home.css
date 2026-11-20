@@ -132,3 +132,8 @@
   .home-search button { width: 100%; }
   .home-basta-preview { width: 4.25rem; flex-basis: 4.25rem; }
 }
+/* Short, crawlable entry points complement the remembered-verse search. */
+.home-discovery-links { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
+.home-discovery-links a { display: inline-flex; align-items: center; min-height: var(--ui-target); padding: .4rem .75rem; border: var(--ui-border); border-radius: var(--ui-radius); color: var(--primary-text); text-decoration: none; }
+.home-discovery-links a:hover { background: var(--tag-background); }
+.home-discovery-links a:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }

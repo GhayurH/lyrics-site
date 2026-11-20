@@ -445,6 +445,20 @@ test("Basta numbered stanza gaps are identical across Roman, Urdu, and stitched 
       for (const metric of ["marginTop", "marginBottom", "height", "gapBefore", "gapAfter"])
         expect(Math.abs(roman[metric] - urdu[metric]), url + " stanza " + (index + 1) + " " + metric).toBeLessThan(2);
     }
+    if (url.includes("/kalam/")) {
+      const sixth = page.locator(".basta-page-urdu .basta-stanza-bookmark").nth(5);
+      const canonical = await sixth.getAttribute("id");
+      await expect(sixth).toHaveAttribute("id", /^stanza-/);
+      // A legacy bookmark still addresses this same counter without inserting
+      // an empty sibling into the measured stanza gap.
+      expect(await page.locator("#basta-stanza-6").evaluate(node =>
+        node.closest(".poetry-stanza-number")?.id)).toBe(canonical);
+      await page.evaluate(() => { location.hash = "basta-stanza-6"; });
+      await expect.poll(() => sixth.evaluate(node => {
+        const rect = node.getBoundingClientRect();
+        return rect.top >= 0 && rect.bottom <= innerHeight;
+      })).toBe(true);
+    }
   }
 });
 

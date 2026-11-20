@@ -4,6 +4,7 @@ import FavoriteButton from "./FavoriteButton.astro";
 import ReaderSubnav from "./ReaderSubnav.astro";
 import { getLyricKalamTypes, getLyricReciters, searchUrl, slugifyKalamType } from "../lib/lyrics";
 import { recitationLyricId } from "../lib/lyrics-data";
+import { discoveryHref } from "../lib/discovery";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
 const { data } = lyric;
@@ -49,7 +50,7 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
         <div>
           <dt>Language</dt>
           <dd>
-            <a href={searchUrl({ collection: "Lyrics", language: data.language })}>
+            <a href={discoveryHref("languages", data.language.trim())}>
               {data.language}
             </a>
           </dd>
@@ -85,7 +86,7 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
             <div>
               <dt>Poet</dt>
               <dd>
-                <a href={searchUrl({ collection: "Lyrics", poet: data.poet })}>
+                <a href={discoveryHref("poets", data.poet.trim())}>
                   {data.poet}
                 </a>
               </dd>
@@ -114,7 +115,7 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
             <div>
               <dt>Occasion</dt>
               <dd>
-                <a href={searchUrl({ collection: "Lyrics", occasion: data.occasion })}>
+                <a href={discoveryHref("occasions", data.occasion.trim())}>
                   {data.occasion}
                 </a>
               </dd>

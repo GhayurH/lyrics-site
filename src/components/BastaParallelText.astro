@@ -14,6 +14,7 @@ interface Props {
   stanzaPattern?: StanzaPattern;
   stanzaPatterns?: Record<string, StanzaPattern>;
   indexForSearch?: boolean;
+  shareStanzas?: Array<{ id: string; number: number }>;
 }
 
 const {
@@ -25,6 +26,7 @@ const {
   stanzaPattern,
   stanzaPatterns,
   indexForSearch = false,
+  shareStanzas,
 } = Astro.props as Props;
 const isPage = variant === "page";
 ---
@@ -37,7 +39,7 @@ const isPage = variant === "page";
     dir="ltr"
     aria-label={`Roman Urdu text of Basta page ${page}`}
   >
-    <BastaText text={romanText} className={isPage ? "basta-roman-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} stanzaPattern={stanzaPattern} stanzaPatterns={stanzaPatterns} indexForSearch={indexForSearch} />
+    <BastaText text={romanText} className={isPage ? "basta-roman-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} stanzaPattern={stanzaPattern} stanzaPatterns={stanzaPatterns} indexForSearch={indexForSearch} shareStanzas={shareStanzas} edition="roman" />
   </section>
   <section
     class={isPage ? "basta-page-text basta-page-urdu" : "basta-reader-column basta-reader-urdu"}
@@ -46,6 +48,6 @@ const isPage = variant === "page";
     dir="rtl"
     aria-label={`Urdu text of Basta page ${page}`}
   >
-    <BastaText text={urduText} className={isPage ? "basta-urdu-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} stanzaPattern={stanzaPattern} stanzaPatterns={stanzaPatterns} indexForSearch={indexForSearch} />
+    <BastaText text={urduText} className={isPage ? "basta-urdu-text" : "basta-reader-text"} stanzaStyle={stanzaStyle} stanzaPattern={stanzaPattern} stanzaPatterns={stanzaPatterns} indexForSearch={indexForSearch} shareStanzas={shareStanzas} edition="original" />
   </section>
 </div>

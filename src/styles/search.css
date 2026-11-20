@@ -1,5 +1,6 @@
-/* File role: Search-only Pagefind layout, filter controls, active-filter chips, and responsive behavior. */
+/* File role: Site-owned search form, results, filters and pagination. */
 .search-page { max-width: var(--content-feature); margin: auto; }
+html:not([data-js-available="true"]) .search-page :is(#search-form, .search-filter-disclosure, .search-results-shell) { display: none; }
 .search-header { max-width: var(--content-intro); margin-bottom: 1.2rem; }
 .search-header h1 { margin: 0 0 0.75rem; font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; }
 .search-share-note { color: var(--secondary-text); font-size: 0.9rem; }
@@ -49,40 +50,11 @@
 
 @media (max-width: 700px) { .search-header { margin-bottom: .8rem; } }
 
-/* Pagefind's component UI inherits the same palettes, including AMOLED,
-   rather than introducing contrasting default search fields. */
-/* All five colour themes must override Pagefind's default light palette.
-   Its component classes use their own high-specificity reset, so site-owned
-   result metadata uses search-result-* classes rather than pf-* classes. */
-.search-page {
-  --pf-font: var(--font-roman);
-  --pf-text: var(--primary-text);
-  --pf-text-secondary: var(--secondary-text);
-  --pf-text-muted: var(--secondary-text);
-  --pf-background: var(--surface-background);
-  --pf-border: var(--border-colour);
-  --pf-border-focus: var(--accent-color);
-  --pf-skeleton: var(--tag-background);
-  --pf-skeleton-shine: var(--surface-background);
-  --pf-hover: var(--tag-background);
-  --pf-mark: var(--accent-color);
-  --pf-outline-focus: var(--accent-color);
-}
-
 .search-collection-note { margin: 0 0 .9rem; color: var(--secondary-text); font-size: .88rem; }
 .search-no-results-help { margin-top: 1.2rem; border: var(--ui-border); border-radius: var(--ui-radius); padding: .9rem 1rem; background: var(--surface-background); }
 .search-no-results-help[hidden] { display: none; }
 .search-no-results-help button { color: var(--primary-text); text-decoration: underline; font-weight: 700; cursor: pointer; }
 
-/* Match the reader's hierarchy without crowding the result list. Pagefind
-   consumes these as its documented custom typography and spacing tokens. */
-.search-page {
-  --pf-result-title-font-size: 1.16rem;
-  --pf-result-excerpt-font-size: 1rem;
-  --pf-results-gap: .75rem;
-}
-/* These are custom result fields. Avoid Pagefind's pf-* reset selector
-   (which gives them CanvasText/black instead of the theme foreground). */
 .search-page .search-result-collection { margin: 0 0 .25rem; color: var(--secondary-text); font-size: .77rem; font-weight: 750; }
 .search-page .search-result-roman-title { margin: .25rem 0; color: var(--secondary-text); font-size: .95rem; }
 
@@ -125,4 +97,34 @@
 .search-facet-hint { margin: .35rem 0 0; font-size: .76rem; color: var(--secondary-text); }
 @media (max-width: 700px) {
   .search-facet-panel { position: static; box-shadow: none; min-width: 0; margin-top: .25rem; }
+}
+
+.search-browse-links { display: flex; flex-wrap: wrap; gap: .5rem 1.2rem; }
+.search-browse-links a { min-height: var(--ui-target); display: inline-flex; align-items: center; }
+#search-query {
+  width: 100%; min-height: var(--ui-target); box-sizing: border-box;
+  border: var(--ui-border); border-radius: var(--ui-radius); padding: .8rem 1rem;
+  color: var(--primary-text); background: var(--surface-background); font: inherit;
+}
+.search-submit { min-height: var(--ui-target); padding: .65rem 1rem; font: inherit; cursor: pointer; }
+#search-results { display: grid; gap: .85rem; padding: 0; list-style: none; }
+.pf-result-card { border: var(--ui-border); border-radius: var(--ui-panel-radius); padding: 1.1rem 1.2rem; background: var(--surface-background); }
+.pf-result-title { margin: 0; font-size: 1.2rem; line-height: 1.7; overflow-wrap: anywhere; }
+.pf-result-title a { color: var(--primary-text); text-decoration-thickness: .08em; text-underline-offset: .18em; }
+.pf-result-excerpt { margin: .7rem 0 0; font-size: 1rem; line-height: 1.9; overflow-wrap: anywhere; }
+.pf-result-excerpt mark { color: inherit; background: var(--tag-background); font-weight: 750; text-decoration: underline; }
+.pf-result-title:dir(rtl), .pf-result-excerpt:dir(rtl), .search-facet-choice span:dir(rtl), .search-facet > summary:dir(rtl), #search-query:dir(rtl) { font-family: var(--font-urdu); }
+.search-result-section { margin: .6rem 0 0; color: var(--secondary-text); font-size: .78rem; }
+.search-facet-choice:has(input:disabled) { cursor: default; opacity: .55; }
+.search-pagination { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; margin-top: 1.5rem; }
+.search-pagination[hidden] { display: none; }
+.search-page-link { display: inline-flex; min-height: var(--ui-target); min-width: var(--ui-target); justify-content: center; align-items: center; padding: .3rem .7rem; border: var(--ui-border); border-radius: var(--ui-radius); }
+.search-page-link[aria-current="page"] { background: var(--tag-background); font-weight: 800; text-decoration: none; }
+#search-summary { scroll-margin-top: 6rem; }
+#search-query:focus-visible, .search-submit:focus-visible, .search-page-link:focus-visible, .pf-result-link:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+@media (max-width: 700px) {
+  .search-input-row { display: grid; grid-template-columns: 1fr auto; }
+  .search-input-wrap { grid-column: 1 / -1; }
+  .search-clear-button { align-self: center; }
+  .pf-result-card { padding: .8rem; }
 }

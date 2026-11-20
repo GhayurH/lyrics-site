@@ -52,7 +52,7 @@ test("saving, revisiting, and clearing a lyric remains functional @smoke", async
 
 test("Search exposes primary and secondary filters accessibly @smoke", async ({ page }) => {
   await page.goto("/search/");
-  await expect(page.locator("pagefind-input")).toBeAttached();
+  await expect(page.locator("#search-query")).toBeAttached();
   await expect(page.locator(".search-primary-filters [data-search-facet]")).toHaveCount(4);
   const advanced = page.locator(".search-more-filters");
   await expect(advanced).not.toHaveAttribute("open", "");
@@ -64,6 +64,8 @@ test("Search, Saved, and Basta provide usable no-JavaScript fallbacks", async ({
   await withoutJavaScript(browser, async (page) => {
     await page.goto("/search/");
     await expect(page.getByText("Search requires JavaScript", { exact: false })).toBeVisible();
+    await expect(page.locator("#search-form")).toBeHidden();
+    await expect(page.getByRole("link", { name: "browse poets", exact: true })).toBeVisible();
     await page.goto("/saved/");
     await expect(page.getByText("Saved and recent lyrics require JavaScript", { exact: false })).toBeVisible();
     await page.goto("/basta/");
@@ -78,7 +80,7 @@ test("homepage search passes the entered term to archive search", async ({ page 
   await page.locator("#home-search-query").fill("Ali");
   await page.locator(".home-search button").click();
   await expect(page).toHaveURL(/\/search\/\?q=Ali$/);
-  await expect(page.locator("pagefind-input")).toBeAttached();
+  await expect(page.locator("#search-query")).toBeAttached();
 });
 
 test("Basta bookmarks can be saved, revisited and removed from the Saved page", async ({ page }) => {
@@ -239,7 +241,9 @@ test("About guide keeps its bilingual introduction and all feature routes reacha
     await expect(page.locator(`#${id}`)).toBeVisible();
     await expect(page.locator(`.about-contents a[href="#${id}"]`)).toHaveCount(1);
   }
-  await expect(page.locator(".about-feature")).toHaveCount(22);
+  for (const route of ["/poets/", "/languages/", "/occasions/"]) {
+    await expect(page.locator(`#discover a[href="${route}"]`)).toBeVisible();
+  }
   await expect(page.locator("#support")).toContainText("Free and ad-free. Always.");
   await expect(page.locator("#support .about-support-action"))
     .toHaveAttribute("href", /^mailto:lyricsadmin@gmail\.com/);

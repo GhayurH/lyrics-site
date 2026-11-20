@@ -12,6 +12,7 @@ import { initBastaSelections } from "./basta-selections";
 import { isMobileViewport } from "./viewport";
 import { initReadingColumnSplit } from "./reading-column-split";
 import { DEFAULT_ROMAN_WIDTH, normalizeRomanWidth } from "../lib/reading-split";
+import { initReadingPassages } from "./reading-passages";
 
 import { defaultEditionsForReader, isEdition, readingModeFromEditions, selectedEditions, type Edition } from "./reading-editions";
 const VALID_SPACINGS = new Set(["compact", "default", "relaxed"]);
@@ -90,7 +91,7 @@ export function initReadingControls(): void {
 
   const applyPrefs = () => {
     if (summary) summary.textContent = "View: " + selected.map((edition) =>
-      edition === "urdu" ? "Urdu" : edition === "roman" ? "Roman" : "Image").join(" + ");
+      edition === "urdu" ? (controls.dataset.originalLabel || "Urdu") : edition === "roman" ? "Roman" : "Image").join(" + ");
     // CSS and scroll synchronization still need the derived single/parallel mode alongside the selected editions.
     const mode = readingModeFromEditions(selected);
     const columns = selected.join(" ");
@@ -109,6 +110,14 @@ export function initReadingControls(): void {
     window.dispatchEvent(new Event("kalam:columns-changed"));
   };
   const storePrefs = () => writeRecord(STORAGE_KEYS.readingPrefs, prefs);
+  // A passage link can reveal its edition without replacing the reader's saved preference.
+  window.addEventListener("kalam:reveal-edition", (event) => {
+    const edition = (event as CustomEvent<{ edition: Edition }>).detail?.edition;
+    if (available.includes(edition) && !selected.includes(edition)) {
+      selected = [...selected, edition];
+      applyPrefs();
+    }
+  });
 
   for (const input of checks) {
     input.addEventListener("change", () => {
@@ -156,6 +165,7 @@ export function initReadingControls(): void {
   initFloatingScans();
   initBastaBookmarks(root, controls);
   initBastaSelections(root);
+  initReadingPassages(root, controls);
 }
 
 export function recordRecentLyric(id: string, limit = 20): void {
