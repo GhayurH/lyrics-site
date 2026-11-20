@@ -28,7 +28,8 @@ const canonicalURL = Astro.site
 
 const path = Astro.url.pathname;
 const browseActive =
-  path === "/" || path.startsWith("/lyrics/") || path.startsWith("/categories/");
+  path === "/" || path.startsWith("/lyrics/") || path.startsWith("/categories/") ||
+  ["/poets/", "/languages/", "/occasions/"].some((prefix) => path.startsWith(prefix));
 const bastaActive = path.startsWith("/basta/");
 const searchActive = path.startsWith("/search/");
 const savedActive = path.startsWith("/saved/");
@@ -196,11 +197,14 @@ const aboutActive = path.startsWith("/about/");
       <div class="site-footer-inner">
         <div class="site-footer-about">
           <a class="site-footer-title" href="/">Kalam Archive</a>
-          <p>Urdu kalam, Roman Urdu transcriptions and the Basta book archive.</p>
+          <p>Kalam in its original language, Roman transcriptions and the Basta book archive.</p>
         </div>
         <nav class="site-footer-nav" aria-label="Footer navigation">
           <a href="/">Browse</a>
           <a href="/basta/">Basta</a>
+          <a href="/poets/">Poets</a>
+          <a href="/languages/">Languages</a>
+          <a href="/occasions/">Occasions</a>
           <a href="/search/">Search</a>
           <a href="/recite/">Recite</a>
           <a href="/saved/">Saved &amp; recent</a>

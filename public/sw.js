@@ -139,8 +139,12 @@ self.addEventListener("fetch",(event) => {
       }
     })());
   } else if (url.pathname.startsWith("/pagefind/")) {
+    // Pagefind versions its public metadata request with ?ts=. Downloads store
+    // that same metadata at its manifest pathname; never ignore arbitrary API queries.
+    const key = url.pathname === "/pagefind/pagefind-entry.json" &&
+      [...url.searchParams.keys()].every((name) => name === "ts") ? url.pathname : request;
     event.respondWith(fetch(request).catch(async () =>
-      (await caches.open(NAMES.search)).match(request) || Response.error()));
+      await (await caches.open(NAMES.search)).match(key) || Response.error()));
   } else if (SCAN.test(url.pathname)) {
     // Do not intercept live scans: direct browser requests must remain routable
     // and image viewers must retain their ordinary network/redirect behavior.

@@ -1,5 +1,6 @@
 // Appearance remains browser-local and works across every archive route.
 import { test, expect } from "@playwright/test";
+import { lyricSourceUrl } from "./catalog.mjs";
 
 
 test("Auto follows device changes, and restoring each submenu leaves the other intact", async ({ page }) => {
@@ -169,8 +170,8 @@ test("advanced Custom overrides persist and can return to Auto", async ({ page }
     JSON.parse(localStorage.getItem("kalam:custom-theme")))).not.toHaveProperty("primaryText");
 });
 
-test("Urdu and Roman font choices persist after reload", async ({ page }) => {
-  await page.goto("/lyrics/na-bhool-kar-bhi/");
+test("Urdu and Roman font choices persist after reload", async ({ page, request }) => {
+  await page.goto(await lyricSourceUrl(request, "na-bhool-kar-bhi"));
   await page.locator("#theme-toggle").click();
   const dialog = page.locator("#theme-dialog");
   await dialog.locator("#theme-fonts-tab").click();

@@ -1,0 +1,32 @@
+---
+// Crawlable navigation shared by category and discovery collections.
+import { pageHref, paginationLinks } from "../lib/pagination";
+interface Props { basePath: string; currentPage: number; totalPages: number; label?: string }
+const { basePath, currentPage, totalPages, label = "Collection pages" } = Astro.props;
+const links = paginationLinks(currentPage, totalPages);
+---
+{totalPages > 1 && (
+  <nav class="collection-pagination" aria-label={label}>
+    {currentPage > 1 ? <a class="pagination-direction" rel="prev" href={pageHref(basePath, currentPage - 1)}>← Previous</a>
+      : <span class="pagination-direction" aria-disabled="true">← Previous</span>}
+    <ol>
+      {links.map((page) => page === null ? <li aria-hidden="true"><span>…</span></li>
+        : <li>{page === currentPage
+          ? <span aria-current="page" aria-label={`Page ${page}, current page`}>{page}</span>
+          : <a href={pageHref(basePath, page)} aria-label={`Page ${page}`}>{page}</a>}</li>)}
+    </ol>
+    {currentPage < totalPages ? <a class="pagination-direction" rel="next" href={pageHref(basePath, currentPage + 1)}>Next →</a>
+      : <span class="pagination-direction" aria-disabled="true">Next →</span>}
+  </nav>
+)}
+<style>
+  .collection-pagination { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .5rem; margin-block: 1.25rem; }
+  .collection-pagination ol { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; list-style: none; gap: .35rem; padding: 0; margin: 0; }
+  .collection-pagination a, .collection-pagination span { display: inline-flex; align-items: center; justify-content: center; min-width: var(--ui-target); min-height: var(--ui-target); padding: .35rem .6rem; }
+  .collection-pagination a, .collection-pagination [aria-current="page"] { border: var(--ui-border); border-radius: var(--ui-radius); text-decoration: none; }
+  .collection-pagination a:hover { background: var(--tag-background); }
+  .collection-pagination a:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
+  .collection-pagination [aria-current="page"] { background: var(--button-background); color: var(--button-text); font-weight: 700; }
+  .collection-pagination [aria-disabled="true"] { color: var(--secondary-text); }
+  @media (max-width: 480px) { .collection-pagination ol { order: 2; flex-basis: 100%; } }
+</style>

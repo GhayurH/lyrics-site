@@ -7,24 +7,27 @@ import { readDrafts } from "./recitation-storage";
 import { initReadingControls } from "./reader-state";
 import { initVerseFitting } from "./verse-fitting";
 import { initScanViewer } from "./scan-viewer";
-import { programmeHtml, downloadProgramme } from "./recitation-export";
+import { createRecitationLivePoller } from "./recitation-live";
+import { recitationContentRevision } from "../lib/recitation-live.js";
 
 const viewKey = "kalam:recitation-view";
 const dom = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
 /** Load public set or private local draft without exposing organizer edit permissions. */
-async function readSet(): Promise<{ set: RecitationSet; local: boolean; draftId?: string }> {
+async function readSet(): Promise<{ set: RecitationSet; local: boolean; draftId?: string; contentRevision?: string }> {
   const params = new URLSearchParams(location.search);
   const remote = params.get("set");
   const local = params.get("draft");
   if (remote) {
     if (!/^[a-f0-9]{24}$/.test(remote)) throw Error("Invalid shared link");
-    const response = await fetch("/api/recitation-sets/" + remote);
+    const response = await fetch("/api/recitation-sets/" + remote, { cache: "no-store" });
     if (!response.ok) throw Error(response.status === 503
       ? "This deployment has no D1 binding configured"
       : response.status === 410 ? "This published programme has expired."
       : "Shared programme unavailable");
     const data = await response.json();
-    return { set: validateRecitationSet(data.set), local: false };
+    const set = validateRecitationSet(data.set);
+    return { set, local: false, contentRevision: typeof data.contentRevision === "string" &&
+      /^[a-f0-9]{64}$/.test(data.contentRevision) ? data.contentRevision : await recitationContentRevision(set) };
   }
   if (local) {
     const found = readDrafts().find((draft) => draft.id === local);
@@ -44,9 +47,11 @@ export async function initRecitationReader(): Promise<void> {
   let set: RecitationSet;
   let local = false;
   let draftId: string | undefined;
+  let contentRevision: string | undefined;
   try {
     const response = await readSet();
     set = response.set; local = response.local; draftId = response.draftId;
+    contentRevision = response.contentRevision;
   } catch (e) {
     dom<HTMLElement>("recite-reader-title").textContent = "Programme unavailable";
     err.hidden = false; err.textContent = (e as Error).message;
@@ -123,6 +128,15 @@ export async function initRecitationReader(): Promise<void> {
   const offlineButton = dom<HTMLButtonElement>("recite-download-offline");
   const printButton = dom<HTMLButtonElement>("recite-print");
   let exporting = false;
+  let exporter: Promise<typeof import("./recitation-export")> | undefined;
+  // Embedded export fonts are large. Fetch this chunk only after an explicit
+  // print/download request, and allow a retry after a connection failure.
+  function loadExporter() {
+    return exporter ??= import("./recitation-export").catch(error => {
+      exporter = undefined;
+      throw error;
+    });
+  }
   /** Export a consistent programme and restore controls even after errors. */
   async function snapshot(): Promise<string> {
     if (exporting) throw Error("An export is already in progress");
@@ -130,8 +144,8 @@ export async function initRecitationReader(): Promise<void> {
     offlineButton.disabled = printButton.disabled = true;
     exportMessage.textContent = "Preparing all programme kalams…";
     try {
-      await loadAll();
-      return programmeHtml(set, works);
+      const [, module] = await Promise.all([loadAll(), loadExporter()]);
+      return module.programmeHtml(set, works);
     } finally {
       exporting = false;
       offlineButton.disabled = printButton.disabled = false;
@@ -140,7 +154,7 @@ export async function initRecitationReader(): Promise<void> {
   offlineButton.addEventListener("click", async () => {
     try {
       const html = await snapshot();
-      downloadProgramme(html, set.title);
+      (await loadExporter()).downloadProgramme(html, set.title);
       exportMessage.textContent = "Offline HTML saved. Open it without internet; scans are not included.";
     } catch (e) { exportMessage.textContent = (e as Error).message; }
   });
@@ -180,39 +194,52 @@ export async function initRecitationReader(): Promise<void> {
   const follow = dom<HTMLInputElement>("recite-follow-live");
   const liveStatus = dom<HTMLElement>("recite-live-status");
   followLabel.hidden = !remoteId;
-  let following = false;
-  let livePolling = false;
-  /** Poll only with consent and a visible page; repeated kalams use entry UIDs. */
-  async function pollLive(): Promise<void> {
-    if (!following || !remoteId || livePolling || document.hidden || !page.isConnected) return;
-    livePolling = true;
-    try {
-      const response = await fetch("/api/recitation-sets/" + remoteId, { cache: "no-store" });
-      if (!response.ok) throw Error("Unable to retrieve organizer's live position");
-      const data = await response.json();
-      const current = validateRecitationSet(data.set).live;
-      if (!following) return;
+  const livePoller = remoteId && contentRevision ? createRecitationLivePoller({
+    id: remoteId, contentRevision,
+    canPoll: () => !document.hidden && navigator.onLine && page.isConnected,
+    onState: async (current) => {
       if (!current?.active) {
         liveStatus.textContent = "Organizer is not broadcasting a position.";
       } else {
         const nextIndex = set.items.findIndex((item) => item.uid === current.currentUid);
         if (nextIndex < 0) {
+          follow.checked = false;
+          void livePoller?.setEnabled(false);
           liveStatus.textContent = "Programme changed. Reload this reader to follow it.";
         } else {
           liveStatus.textContent = "Following organizer · kalam " + (nextIndex + 1);
           if (nextIndex !== position) await go(nextIndex);
         }
       }
-    } catch (e) { liveStatus.textContent = (e as Error).message; }
-    finally { livePolling = false; }
-  }
+    },
+    onError: message => { liveStatus.textContent = message; },
+    onUnavailable: status => {
+      follow.checked = false;
+      liveStatus.textContent = status === 410 ? "This published programme has expired."
+        : "This published programme is no longer available.";
+    },
+    onContentChanged: () => {
+      follow.checked = false;
+      liveStatus.textContent = "Programme changed. Reload this reader to follow it.";
+    },
+  }) : null;
   follow.addEventListener("change", () => {
-    following = follow.checked;
-    liveStatus.textContent = following ? "Checking organizer's position…" : "Live following off.";
-    if (following) void pollLive();
+    liveStatus.textContent = follow.checked ? (navigator.onLine
+      ? "Checking organizer's position…" : "You are offline. Live following will resume when connected.")
+      : "Live following off.";
+    void livePoller?.setEnabled(follow.checked);
   });
-  // Only consenting participants poll; hidden pages do not generate traffic.
-  window.setInterval(() => { if (following) void pollLive(); }, 10000);
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) livePoller?.pause();
+    else void livePoller?.resume();
+  });
+  window.addEventListener("offline", () => {
+    livePoller?.pause();
+    if (follow.checked) liveStatus.textContent = "You are offline. Live following will resume when connected.";
+  });
+  window.addEventListener("online", () => { void livePoller?.resume(); });
+  window.addEventListener("pagehide", () => { livePoller?.pause(); });
+  window.addEventListener("pageshow", () => { void livePoller?.resume(); });
   /** Clamp the active entry and synchronize controls without mutating saved state. */
   function setPosition(index: number) {
     position = Math.min(works.length - 1, Math.max(0, index));
@@ -236,8 +263,9 @@ export async function initRecitationReader(): Promise<void> {
     window.dispatchEvent(new Event("basta:content-loaded"));
   }
   const leaveLive = () => {
-    if (following) {
-      following = false; follow.checked = false;
+    if (follow.checked) {
+      follow.checked = false;
+      void livePoller?.setEnabled(false);
       liveStatus.textContent = "Manual navigation: live following paused.";
     }
   };

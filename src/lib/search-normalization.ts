@@ -9,13 +9,14 @@ const groups = [
   ["akbar", "akber"], ["abbas", "abbaas"], ["qasim", "kasim"],
   ["muharram", "moharram"], ["marsiya", "marsia"], ["noha", "nauha"],
   ["salam", "salaam"], ["ya", "yaa"],
+  ["panjabi", "punjabi"], ["saraiki", "seraiki"],
 ] as const;
 const variants = new Map<string, string[]>();
 for (const group of groups)
   for (const form of group)
     variants.set(form, group.filter(other => other !== form));
 
-const tokens = /[\p{L}\p{M}\u200c\u200d]+/gu;
+const tokens = /[\p{L}\p{M}\p{N}\u200c\u200d]+/gu;
 const arabic = /[\u0600-\u06ff]/u;
 export function normalizeSearchToken(word: string): string {
   const lower = word.normalize("NFKC").toLowerCase();
@@ -28,7 +29,35 @@ export function normalizeSearchToken(word: string): string {
 
 // The Pagefind request is canonicalized, but the UI and ?q= keep the typed text.
 export function normalizeSearchQuery(query: string): string {
-  return query.replace(tokens, word => normalizeSearchToken(word));
+  return query.replace(tokens, word => canonicalSearchToken(word));
+}
+
+const canonicalVariants = new Map<string, string>();
+for (const group of groups)
+  for (const form of group)
+    canonicalVariants.set(normalizeSearchToken(form), normalizeSearchToken(group[0]));
+
+/** Reviewed spelling alternatives have the same search key, never display text. */
+export function canonicalSearchToken(word: string): string {
+  const normalized = normalizeSearchToken(word);
+  return canonicalVariants.get(normalized) ?? normalized;
+}
+
+/** Shared matching for small local vocabularies: all words, in any order. */
+export function searchTokens(value: string): string[] {
+  return (value.match(tokens) ?? []).map(canonicalSearchToken);
+}
+
+export function matchesSearchText(value: string, query: string): boolean {
+  const wanted = searchTokens(query);
+  if (!wanted.length) return !query.trim();
+  // Keep spelling prefixes useful too: "huss" should still find "Husain".
+  const words = (value.match(tokens) ?? []).flatMap(word => {
+    const normalized = normalizeSearchToken(word);
+    const canonical = canonicalSearchToken(word);
+    return [normalized, canonical, ...(variants.get(canonical) ?? []).map(normalizeSearchToken)];
+  });
+  return wanted.every(token => words.some(word => word.startsWith(token)));
 }
 
 // Searchable metadata aliases are not part of result excerpts.

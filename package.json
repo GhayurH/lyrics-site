@@ -8,11 +8,12 @@
   "scripts": {
     "dev": "astro dev",
     "prebuild": "npm test && npm run source:check",
-    "build": "astro build && node scripts/verify-sitemap.mjs && pagefind && node scripts/generate-offline-search-manifest.mjs",
+    "build": "astro build && node scripts/verify-sitemap.mjs && pagefind && node scripts/generate-offline-search-manifest.mjs && npm run perf:check",
     "preview": "astro preview",
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
     "test:smoke": "playwright test --grep @smoke",
     "test:browser": "playwright test --grep-invert @perf",
+    "test:editorial": "playwright test --config tests/editorial/playwright.config.mjs",
     "check": "astro check",
     "source:check": "node scripts/source-workflow.mjs --check",
     "source:sync": "node scripts/source-workflow.mjs --sync",
@@ -20,10 +21,12 @@
     "whitespace:check": "node scripts/tidy-whitespace.mjs --check --changed",
     "content:review": "node --experimental-strip-types scripts/review-content.mjs",
     "perf:assets": "node scripts/report-build-assets.mjs",
+    "perf:check": "node scripts/report-build-assets.mjs --check",
     "perf:browser": "playwright test --grep @perf",
     "roman:review": "node scripts/normalize-roman.mjs --report",
     "sitemap:verify": "node scripts/verify-sitemap.mjs",
     "sitemap:verify:live": "node scripts/verify-sitemap.mjs --live",
+    "search:verify": "node --experimental-strip-types scripts/verify-search.mjs",
     "kalam:plan": "python3 scripts/kalam_codex.py plan",
     "kalam:prompt": "python3 scripts/kalam_codex.py prompt",
     "kalam:run": "python3 scripts/kalam_codex.py run",
@@ -34,7 +37,8 @@
     "kalam:service:uninstall": "python3 scripts/kalam_codex.py service uninstall",
     "kalam:validate": "python3 scripts/kalam_codex.py validate",
     "lyrics:metadata:check": "node scripts/normalize-lyric-metadata.mjs --check",
-    "lyrics:metadata:fix": "node scripts/normalize-lyric-metadata.mjs --write"
+    "lyrics:metadata:fix": "node scripts/normalize-lyric-metadata.mjs --write",
+    "editorial": "node --experimental-strip-types scripts/editorial-workspace.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.5",
@@ -57,7 +61,8 @@
     "@playwright/test": "1.65.1",
     "pagefind": "^1.6.0",
     "typescript": "^6.0.3",
-    "wrangler": "^4.164.0"
+    "wrangler": "^4.164.0",
+    "yaml": "^2.9.1"
   },
   "allowScripts": {
     "esbuild@0.28.2": true,

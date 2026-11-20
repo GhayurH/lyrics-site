@@ -1,8 +1,15 @@
 // Actual cold navigation measurements, reported rather than unstable CI time budgets.
 import { test, expect } from "@playwright/test";
-const routes = ["/", "/lyrics/aa-asghar-bin-tere/", "/basta/138/", "/search/"];
+const routes = ["/", "/categories/noha/", "/lyrics/aa-asghar-bin-tere/", "/basta/138/",
+  "/basta/read/#page-138", "/search/", "/recite/", "/recite/read/?draft=performance-programme"];
 for (const route of routes) {
   test("report browser loading metrics for " + route + " @perf", async ({ page }, testInfo) => {
+    if (route.startsWith("/recite/read/")) await page.addInitScript(() => {
+      localStorage.setItem("kalam:recitation-drafts-v1", JSON.stringify([{
+        id: "performance-programme", set: { version: 1, title: "Performance programme", occasion: "", description: "",
+          items: [{ uid: "391002ab-16f4-4535-bf2a-8ca02cefc956", kind: "lyric", id: "aa-asghar-bin-tere" }] },
+      }]));
+    });
     await page.addInitScript(() => {
       window.__kalamMetrics = { lcp: 0, cls: 0 };
       try {
@@ -32,7 +39,7 @@ for (const route of routes) {
         record.uncompressedBytes += entry.decodedBodySize || 0;
       }
       return {
-        route:location.pathname,
+        route:location.pathname + location.search + location.hash,
         documentLoadMs:Math.round(timing?.loadEventEnd || 0),
         firstContentfulPaintMs:Math.round(performance.getEntriesByName("first-contentful-paint")[0]?.startTime || 0),
         lcpMs:Math.round(window.__kalamMetrics.lcp),

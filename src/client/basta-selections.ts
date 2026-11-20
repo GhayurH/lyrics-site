@@ -84,8 +84,14 @@ export function initBastaSelections(root: HTMLElement): void {
           block.dataset.selectionMounted = "true";
           block.classList.add("basta-selectable-kalam");
           const kalam = index + 1;
-          if (anchorEdition)
-            block.id = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
+          if (anchorEdition) {
+            const legacyId = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
+            if (!block.id) block.id = legacyId;
+            else if (block.id !== legacyId && !document.getElementById(legacyId)) {
+              const alias = document.createElement("span"); alias.id = legacyId;
+              alias.setAttribute("aria-hidden", "true"); block.prepend(alias);
+            }
+          }
           const button = document.createElement("button");
           button.type = "button";
           button.className = "basta-selection-action";
@@ -104,8 +110,18 @@ export function initBastaSelections(root: HTMLElement): void {
             stanza.textContent = marker.textContent;
             stanza.dataset.bastaSaveSelection = page + ":stanza:" + current;
             stanza.dataset.bastaEdition = edition.name;
-            if (anchorEdition)
-              stanza.id = (continuous ? "page-" + page + "-" : "") + "basta-stanza-" + current;
+            // Preserve canonical share anchors while retaining existing ordinal bookmark URLs.
+            if (marker.id) stanza.id = marker.id;
+            for (const attribute of marker.attributes)
+              if (attribute.name.startsWith("data-stanza-")) stanza.setAttribute(attribute.name, attribute.value);
+            if (anchorEdition) {
+              const legacyId = (continuous ? "page-" + page + "-" : "") + "basta-stanza-" + current;
+              if (!stanza.id) stanza.id = legacyId;
+              else if (stanza.id !== legacyId && !document.getElementById(legacyId)) {
+                const alias = document.createElement("span"); alias.id = legacyId;
+                alias.setAttribute("aria-hidden", "true"); marker.before(alias);
+              }
+            }
             stanza.setAttribute("aria-label", "Bookmark stanza " + marker.textContent?.trim() +
               " on Basta page " + page + " (" + edition.name + ")");
             marker.replaceWith(stanza);

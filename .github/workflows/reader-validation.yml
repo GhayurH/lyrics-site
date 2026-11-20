@@ -39,8 +39,9 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
-      # Prebuild owns unit tests and unified source checks exactly once. Browser
-      # smoke covers every PR/main push; reserve the wider matrix for weekly
+      # Run each gate once. Keep source failures blocking while still collecting
+      # technical diagnostics for work stacked on an unfinished editorial branch.
+      # Browser smoke covers every PR/main push; reserve the wider matrix for weekly
       # checks, manual runs, or an explicit [full-ci] commit marker.
       - id: test_mode
         shell: bash
@@ -73,10 +74,19 @@ jobs:
       - name: Validate Astro and TypeScript semantics
         if: steps.test_mode.outputs.check == 'true'
         run: npm run check
-      - name: Production build (unit tests, source checks, Astro and Pagefind)
-        run: npm run build
-      - name: Report JavaScript, CSS, and font asset sizes
+      - name: Unit tests
+        run: npm test
+      - name: Read-only source validation
+        id: source_checks
+        continue-on-error: true
+        run: npm run source:check
+      - name: Build Astro, Pagefind and offline assets
+        # The prebuild gates ran explicitly above. Do not run them a second time.
+        run: npm run build --ignore-scripts
+      - name: Report initial scripts, HTML, catalogs and deployment costs
         run: npm run perf:assets
+      - name: Verify real built-index search relevance
+        run: npm run search:verify
       - name: Generate editorial review report (Basta and standalone)
         # The build already runs the complete regression gate. Create the
         # detailed advisory report only for requested/weekly editorial review,
@@ -105,6 +115,13 @@ jobs:
           else
             npm run test:smoke
           fi
+      - name: Private editorial workspace journeys
+        run: npm run test:editorial
+      - name: Require source checks to pass
+        if: always() && steps.source_checks.outcome == 'failure'
+        run: |
+          echo '::error::Source validation failed. See the read-only source validation step; this branch is not release-ready.'
+          exit 1
       - name: Save failing browser screenshots and traces
         if: failure()
         uses: actions/upload-artifact@v7

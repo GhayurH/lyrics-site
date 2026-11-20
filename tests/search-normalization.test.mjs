@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { searchIndexAliases, normalizeSearchToken, searchExcerptLines, normalizeSearchQuery } from "../src/lib/search-normalization.ts";
+import { searchIndexAliases, normalizeSearchToken, searchExcerptLines, normalizeSearchQuery,
+  matchesSearchText, searchTokens } from "../src/lib/search-normalization.ts";
 test("search aliases cover common Roman variants in both directions", () => {
   for (const [name,variant] of [["husain","hussain"],["hasan","hassan"],["bole","bolay"],["wale","walay"],["karbala","kerbala"],["marsiya","marsia"],["asghar","asgar"]]) {
     assert.ok(searchIndexAliases(name).split(" ").includes(variant),name);
@@ -62,4 +63,23 @@ test("all common Husain spellings work in both directions", () => {
     assert.ok(terms.has("husain"));
     assert.ok(terms.has("hussein"));
   }
+});
+
+test("picker, facet and hub matching share normalization, variants and token order", () => {
+  for (const [text, query] of [
+    ["علی سوہنا شیر رب دا", "عَلِي سوہنا"],
+    ["سکینہ بیمار", "بيمار سكينه"],
+    ["Shaahe Mardaaṅ", "mardaan SHAA"],
+    ["Husain ibn Ali", "HUSSAIN ali"],
+    ["Husain ibn Ali", "huss"],
+    ["Hussain ibn Ali", "husa"],
+    ["Panjabi", "Punjabi"],
+    ["13 Safar", "13"],
+    ["بی‌بی", "بیبی"],
+  ]) assert.equal(matchesSearchText(text, query), true, `${text} / ${query}`);
+  assert.equal(matchesSearchText("میرے", "میری"), false);
+  assert.equal(matchesSearchText("Ali", "Fatima"), false);
+  assert.equal(matchesSearchText("Ali", "!"), false);
+  assert.equal(matchesSearchText("Ali", "  "), true);
+  assert.deepEqual(searchTokens("Hussein عَلِي Kiuṅ 13"), ["husain", "علی", "kiun", "13"]);
 });

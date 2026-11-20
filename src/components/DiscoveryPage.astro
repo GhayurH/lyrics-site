@@ -1,0 +1,54 @@
+---
+// File role: Shared, paginated directory and kalam list for metadata browse routes.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LyricList from "./LyricList.astro";
+import Pagination from "./Pagination.astro";
+import { paginateItems } from "../lib/pagination";
+import { DISCOVERY_DIMENSIONS, DISCOVERY_LABELS } from "../lib/discovery";
+import type { DiscoveryPageProps } from "../lib/discovery-data";
+import "../styles/discovery.css";
+type Props = DiscoveryPageProps;
+const { dimension, groups, group, currentPage } = Astro.props;
+const labels = DISCOVERY_LABELS[dimension];
+const directory = group ? null : paginateItems(groups, currentPage);
+const poems = group ? paginateItems(group.entries, currentPage) : null;
+const page = poems ?? directory!;
+const title = group ? group.label : labels.title;
+const basePath = group ? group.href : `/${dimension}/`;
+const description = group
+  ? `Browse ${group.entries.length} kalams with ${labels.singular}: ${group.label}.`
+  : `Browse standalone kalam by recorded ${labels.singular}.`;
+const filteredSearch = group ? "/search/?" + new URLSearchParams({ [labels.field]: group.label }).toString() : "/search/";
+---
+<BaseLayout title={`${title}${currentPage > 1 ? ` — Page ${currentPage}` : ""} | Kalam Archive`} description={description}>
+  <section class="discovery-page" data-discovery-dimension={!group ? dimension : undefined}>
+    <header class="discovery-header">
+      <a class="back-link" href={group ? `/${dimension}/` : "/"}>← {group ? `All ${labels.title.toLowerCase()}` : "Browse archive"}</a>
+      <p class="eyebrow">{group ? labels.singular : "Explore the archive"}</p>
+      <h1 dir="auto">{title}</h1>
+      <p>{group ? `${page.totalItems.toLocaleString()} ${page.totalItems === 1 ? "kalam" : "kalams"}`
+        : `${page.totalItems.toLocaleString()} recorded ${labels.singular}${page.totalItems === 1 ? "" : "s"}`} · Showing {page.startItem}–{page.endItem}</p>
+      <nav class="discovery-nav" aria-label="Browse by">
+        {DISCOVERY_DIMENSIONS.map(value => <a href={`/${value}/`} aria-current={!group && value === dimension ? "page" : undefined}>{DISCOVERY_LABELS[value].title}</a>)}
+        <a href={filteredSearch}>{group ? "Search within this collection" : "Search all kalam"}</a>
+      </nav>
+    </header>
+    {group ? <LyricList lyrics={poems!.slice} showKalamType /> : <>
+      <p class="discovery-context">Explore the names and details recorded with standalone kalam. The <a href="/basta/index/">Basta book index</a> is available separately.</p>
+      <div class="discovery-filter" hidden>
+        <label for="discovery-query">Find {dimension === "occasions" ? "an" : "a"} {labels.singular}</label>
+        <input id="discovery-query" type="search" autocomplete="off" maxlength="200" dir="auto" placeholder={`Search all ${labels.title.toLowerCase()}…`} />
+      </div>
+      <p id="discovery-status" role="status" aria-live="polite"></p>
+      <ul class="discovery-terms" id="discovery-terms">
+        {directory!.slice.map(item => <li><a href={item.href} class="discovery-term"><span dir="auto">{item.label}</span><small>{item.entries.length.toLocaleString()} {item.entries.length === 1 ? "kalam" : "kalams"}</small></a></li>)}
+      </ul>
+      <button id="discovery-more" class="text-button" type="button" hidden>Show more matches</button>
+    </>}
+    <div id="discovery-pagination"><Pagination basePath={basePath} currentPage={page.currentPage} totalPages={page.totalPages} label={`${title} pages`} /></div>
+  </section>
+  <script>
+    import { initDiscovery } from "../client/discovery";
+    initDiscovery();
+  </script>
+</BaseLayout>

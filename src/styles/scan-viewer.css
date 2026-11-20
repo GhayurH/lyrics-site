@@ -38,6 +38,20 @@
   display: block; flex: none; max-width: none; max-height: none;
   width: auto; height: auto; object-fit: contain; user-select: none; -webkit-user-drag: none;
 }
+.scan-viewer-canvas[hidden], .scan-viewer-message button[hidden] { display: none; }
+.scan-viewer-message, .scan-inline-error {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; padding: .6rem .8rem;
+  color: var(--secondary-text); font: .85rem/1.5 system-ui, sans-serif;
+}
+.scan-viewer-message button, .scan-inline-error button, .scan-viewer-message a, .scan-inline-error a {
+  min-height: var(--ui-target); display: inline-flex; align-items: center; padding: .35rem .6rem;
+  border: var(--ui-border); border-radius: var(--ui-radius); background: var(--surface-background);
+  color: var(--primary-text); font: inherit; cursor: pointer;
+}
+.scan-viewer-message :is(button,a):focus-visible, .scan-inline-error :is(button,a):focus-visible {
+  outline: var(--focus-ring); outline-offset: 2px;
+}
+.basta-kalam-scans > a[hidden] + .scan-inline-error { display: none; }
 /* The stage's minimum width centres narrow scans without creating a horizontal scrollbar;
    at higher zoom the stage expands, allowing both-axis scrolling and pointer panning. */
 .scan-viewer-trigger { display: block; cursor: zoom-in; }

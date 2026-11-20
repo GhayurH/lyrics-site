@@ -5,7 +5,11 @@ export default defineConfig({
   // Keep each spec sequential and parallelize across spec files; this
   // avoids repeatedly loading large font assets across simultaneous readers.
   projects: [
-    { name: "chromium", use: { ...devices["Desktop Chrome"] } },
+    { name: "chromium", use: { ...devices["Desktop Chrome"],
+      ...(process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE ? { launchOptions: {
+        executablePath: process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE,
+      } } : {}),
+    } },
   ],
   use: {
     baseURL: "http://127.0.0.1:4321",

@@ -75,6 +75,10 @@ Do not confuse local Pagefind search, Google's sitemap state and Bing's crawler 
 
 The Pages binding is `RECITATION_DB`. Production uses D1 `kalam-recitation-sets` and `RECITATION_RETENTION_MODE=production`; preview uses `kalam-recitation-sets-preview` and `preview`. Never use production data as test fixtures. `RECITATION_RATE_LIMIT_SECRET`, if configured, is a real secret.
 
+The public live-state endpoint is `GET /api/recitation-sets/{id}/live`. It returns only the live pointer and programme content revision, supports ETag/304 and retains `Cache-Control: no-store`. It uses the existing D1 binding and retention rules, with no schema migration. Live-only movements do not redownload the programme; content changes do. It still reads D1 to inspect current content and expiry, so lower response bytes must not be described as eliminating database work. Verify pause/visibility aborts, reconnect/backoff, expiry and content changes on Pages preview.
+
+`scripts/editorial/` is a separate loopback-only application for local review, not a hosted admin interface or Pages Function. Its private ledger and static UI are excluded from the public build and require no Cloudflare binding.
+
 For a **new, empty** D1 database only:
 
 ```bash

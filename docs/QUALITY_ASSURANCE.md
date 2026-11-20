@@ -9,16 +9,23 @@ There are **two distinct gates**: technical integrity and human editorial accept
 | `npm run check` | Astro and TypeScript diagnostics |
 | `npm run source:check` | Read-only Bibi/Roman normalization, Basta index, IDs and editorial regression |
 | `npm run content:review -- --summary` | Advisory source findings; not an edit or sign-off |
-| `npm run build` | Node tests + `source:check` via `prebuild`; Astro HTML + sitemap inventory audit + Pagefind + offline manifest |
+| `npm run build` | Node tests + `source:check` via `prebuild`; Astro HTML + sitemap inventory audit + Pagefind + offline manifest + deterministic build budgets |
 | `npm run sitemap:verify` | Local generated HTML vs sitemap inventory (after build) |
 | `npm run test:smoke` | Critical `@smoke` Chromium journeys |
 | `npm run test:browser` | All functional Chromium journeys, including smoke; excludes `@perf` |
+| `npm run test:editorial` | Private workspace browser journeys using a temporary fixture repository and ledger |
 | `npm run perf:assets` / `npm run perf:browser` | Optional asset and browser performance |
+| `npm run perf:check` | Enforce HTML/tag, initial JavaScript, catalog, Pagefind and deployment-file budgets |
+| `npm run search:verify` | Query the actual generated Pagefind/WASM index with permanent-identity relevance fixtures |
 | `git diff --check` | Patch whitespace errors |
 
 CI builds once, then runs **smoke OR full**, never both; full includes smoke. Normal PRs get smoke. Weekly/manual and explicitly marked `[full-ci]` checks get the full browser suite; `[check-ci]` opts into Astro diagnostics. Scheduled/manual jobs also publish the detailed editorial review artifact. `[skip ci]` is for unfinished editorial commits, not the final release. Screenshots and traces belong to failing CI artifacts, not the repository.
 
 The review baseline permits known **historical** findings but rejects new regressions and structural mapping failures. Successful tests demonstrate code and source consistency; they do **not** establish that every imported poem, alternative title, poet, transcription or apparent duplicate has been adjudicated.
+
+Build budgets live in `scripts/lib/build-budgets.mjs`. Initial JavaScript counts the static import graph and inline script bytes; deferred export/font chunks are reported separately. Compression figures are local gzip estimates, not production traffic or field Web Vitals. The default deployment budget is 20,000 files; change it through an explicit reviewed budget file only after confirming the actual hosting plan. `npm run perf:check -- --budgets /path/to/budgets.json` supports that documented override. Do not raise a budget merely to silence an unexpected regression.
+
+For local machines with an already installed Chromium, set `PLAYWRIGHT_CHROMIUM_EXECUTABLE` to its executable path. CI uses the version-pinned Playwright image. A restricted environment that cannot launch browser processes is not evidence that browser tests passed: run the same committed suite in CI or a supported development environment.
 
 ## Editorial release checklist
 
@@ -55,6 +62,9 @@ Across representative pages also test Light, Dark, Sepia, AMOLED and Custom them
 - **Reader layout:** consistent toolbar; parallel three editions at sufficient width, stacked when narrow; draggable text divider; font size tracks column width without wrapping the source verse; justified Urdu, proper scroll container and no clipping.
 - **Recitation:** draft edit/reorder/duplicate, 40-entry cap, stanza selections, preserved IDs, safe export and backup; published link read-only, capability edit, concurrency conflict, retention, deletion, opt-in live following.
 - **Search/offline:** visible source verses rather than duplicated excerpts, language-agnostic Pagefind retrieval, aliases and filters, keyboard navigation, offline downloads and restoration, private API/edit token exclusion from caches.
+- **Discovery:** bounded category/hub pages and directory pagination without JavaScript; next/previous and canonical links; literal published metadata; contextual facet counts, back/forward state and rejection of stale search responses; actual built-index relevance queries.
+- **Passage reading:** original/Roman stanza copying, reloadable anchors, existing Basta bookmark aliases, correct source-language controls, clipboard fallback, matching-verse navigation, scan failure/retry, wide desktop and pinch magnification without source wrapping.
+- **Editorial workspace:** source and ledger changes during an open review, rename identity, duplicate-ID isolation, pass-specific invalidation, explicit publication decisions, comparison dependencies, private exports, malformed requests and cross-origin rejection. Use temporary fixture repositories and state directories, never the real review ledger.
 
 ## Deployment and investigation
 

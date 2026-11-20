@@ -7,6 +7,7 @@ import "../styles/reading-index-layout.css";
 import "../styles/reading-scan-layout.css";
 import "../styles/reading-utilities.css";
 import "../styles/scan-viewer.css";
+import "../styles/reading-passages.css";
 interface Props {
   ariaLabel?: string;
   className?: string;
@@ -21,6 +22,7 @@ interface Props {
   indexEndPage?: number;
   recitationNavigation?: boolean;
   bookmarkPage?: boolean;
+  originalLabel?: string;
 }
 const {
   ariaLabel = "Reading controls",
@@ -36,12 +38,13 @@ const {
   indexEndPage = 0,
   recitationNavigation = false,
   bookmarkPage = false,
+  originalLabel = "Urdu",
 } = Astro.props as Props;
 ---
 
-<div class:list={["reading-controls", className, recitationNavigation && "reading-controls-recitation"]} data-reading-controls data-pagefind-ignore role="group" aria-label={ariaLabel}>
+<div class:list={["reading-controls", className, recitationNavigation && "reading-controls-recitation"]} data-reading-controls data-original-label={originalLabel} data-pagefind-ignore role="group" aria-label={ariaLabel}>
   <button type="button" class="reading-focus-enter" data-reading-focus-enter>Focus Mode</button>
-  <button type="button" class="reading-regular-toggle" data-reading-regular-toggle aria-expanded="false" aria-label="Show reading options"><span data-reading-regular-label>View: Urdu + Roman</span> <span aria-hidden="true" data-reading-regular-indicator>▾</span></button>
+  <button type="button" class="reading-regular-toggle" data-reading-regular-toggle aria-expanded="false" aria-label="Show reading options"><span data-reading-regular-label>View: {originalLabel} + Roman</span> <span aria-hidden="true" data-reading-regular-indicator>▾</span></button>
   <div class="reading-focus-actions">
     <button type="button" data-reading-focus-options aria-expanded="false" aria-label="Show reading options">Options</button>
     <button type="button" data-reading-focus-exit aria-label="Exit reading mode">× Exit</button>
@@ -83,7 +86,7 @@ const {
       {!imageOnly && hasUrdu && (
         <label class="reading-column-choice">
           <input type="checkbox" value="urdu" data-reading-column checked />
-          <span>Urdu</span>
+          <span>{originalLabel}</span>
         </label>
       )}
       {showModes && !imageOnly && (
@@ -117,5 +120,6 @@ const {
     </form>
   )}
   {bookmarkPage && <button type="button" class="reading-bookmark-page" data-basta-bookmark aria-pressed="false" title="Save this Basta page">Save page</button>}
+  <button type="button" class="reading-share-passage" data-reading-share hidden>Share a stanza</button>
   <button type="button" class="reading-scroll-top" data-reading-scroll-top hidden aria-label="Scroll to top">↑ Top</button>
 </div>

@@ -1,0 +1,6 @@
+---
+import DiscoveryPage from "../../components/DiscoveryPage.astro";
+import { discoveryStaticPaths } from "../../lib/discovery-data";
+export const getStaticPaths = () => discoveryStaticPaths("occasions");
+---
+<DiscoveryPage {...Astro.props} />

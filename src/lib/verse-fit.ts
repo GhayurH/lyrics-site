@@ -4,6 +4,11 @@
 export const MAX_VERSE_GROWTH = 2.5;
 export const MIN_VERSE_COVERAGE = 0.95;
 
+/** Browser zoom can leave a wide CSS viewport on large monitors. */
+export function readingIsMagnified(innerWidth: number, outerWidth: number, visualScale = 1): boolean {
+  return visualScale >= 1.75 || (innerWidth > 0 && outerWidth / innerWidth >= 1.75);
+}
+
 /** Grow toward 97% natural coverage only when a stanza's longest line
  * covers under 95% of the available text track. Shrink if it overflows and
  * cap growth for unusually short stanzas. Alignment is always justified.

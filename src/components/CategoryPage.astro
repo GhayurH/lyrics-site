@@ -1,0 +1,47 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LyricList from "./LyricList.astro";
+import Pagination from "./Pagination.astro";
+import type { CategoryData } from "../lib/category-data";
+import { PAGE_SIZE, pageHref, paginationRange } from "../lib/pagination";
+import "../styles/category.css";
+interface Props { category: CategoryData; currentPage?: number }
+const { category, currentPage = 1 } = Astro.props;
+const { kalamType, slug, lyrics, bastaEntries } = category;
+// A single page budget covers both groups, including their boundary page.
+const count = lyrics.length + bastaEntries.length;
+const paging = paginationRange(count, currentPage);
+const start = (currentPage - 1) * PAGE_SIZE;
+const end = start + PAGE_SIZE;
+const pageLyrics = lyrics.slice(start, end);
+const pageBasta = bastaEntries.slice(Math.max(0, start - lyrics.length), Math.max(0, end - lyrics.length));
+const basePath = `/categories/${slug}/`;
+const firstBastaPage = Math.floor(lyrics.length / PAGE_SIZE) + 1;
+const pageTitle = `${kalamType}${currentPage > 1 ? ` · Page ${currentPage}` : ""} | Kalam Archive`;
+---
+<BaseLayout title={pageTitle} description={`Browse ${kalamType} in the Kalam Archive, including Basta.${currentPage > 1 ? ` Page ${currentPage} of ${paging.totalPages}.` : ""}`}>
+  <section class="category-page">
+    <header class="page-header-simple">
+      <a class="back-link" href="/">← All Kalam Types</a>
+      <p class="eyebrow">Kalam Type</p>
+      <h1>{kalamType}</h1>
+      <p>{count} {count === 1 ? "entry" : "entries"} · {lyrics.length} standalone {lyrics.length === 1 ? "kalam" : "kalams"} · {bastaEntries.length} Basta {bastaEntries.length === 1 ? "selection" : "selections"}</p>
+      <p class="category-page-range">Showing {paging.startItem}–{paging.endItem} · Page {currentPage} of {paging.totalPages}</p>
+      <a class="category-search" href={`/search/?kalamType=${encodeURIComponent(kalamType)}`}>Search within {kalamType} →</a>
+    </header>
+    <Pagination basePath={basePath} currentPage={currentPage} totalPages={paging.totalPages} label={`${kalamType} pages, top`} />
+    {lyrics.length > 0 && bastaEntries.length > 0 && (
+      <nav class="category-jump" aria-label="Browse collections">
+        <a id={pageLyrics.length ? undefined : "standalone-kalam"} href={`${pageHref(basePath, 1)}#standalone-kalam`}>Standalone kalam</a>
+        <a id={pageBasta.length ? undefined : "basta-kalam"} href={`${pageHref(basePath, firstBastaPage)}#basta-kalam`}>Basta selections</a>
+      </nav>
+    )}
+    {pageLyrics.length > 0 && <section class="category-collection" aria-labelledby="standalone-kalam">
+      <h2 id="standalone-kalam">Standalone kalam</h2><LyricList lyrics={pageLyrics} />
+    </section>}
+    {pageBasta.length > 0 && <section class="category-collection" aria-labelledby="basta-kalam">
+      <h2 id="basta-kalam">Selections from Basta</h2><LyricList lyrics={[]} bastaEntries={pageBasta} />
+    </section>}
+    <Pagination basePath={basePath} currentPage={currentPage} totalPages={paging.totalPages} label={`${kalamType} pages, bottom`} />
+  </section>
+</BaseLayout>

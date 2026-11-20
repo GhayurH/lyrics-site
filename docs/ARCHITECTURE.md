@@ -48,6 +48,7 @@ The build creates derived browse/search/recitation catalogs and HTML; these are 
 - Basta: `/basta/`, `/basta/[page]/`, the printed index, `/basta/read/` continuous reading and verified `/basta/kalam/[id]/`. A speculative index fragment has page access but no fabricated verified individual-kalam page.
 - Recitation: `/recite/` draft/editor, `/recite/read/` reader, `/r/{id}` public read-only published set.
 - Catalog endpoints under `/data/` come from the published sources. `src/lib/catalog.ts` owns adapters and canonical source/recitation identity.
+- Category and poet/language/occasion browse routes use shared static pagination. The first category URL remains `/categories/{type}/`; subsequent pages have ordinary crawlable links. Discovery groups use literal published metadata, never inferred attribution or unpublished records.
 
 Static HTML shows the poem even without JavaScript. Reader controls must not become prerequisites to viewing source text.
 
@@ -68,6 +69,10 @@ Wide layouts place available editions in parallel, with the scan beside text whe
 
 Individual Basta kalam scans use Previous/Next with one source image at a time and stable `#scan-page-N` deep links; do not restore the old multi-page vertical scan stack. Focus exit preserves the current page/position. Keep a single navigation and reader controls contract across routes.
 
+`stanza-links.ts` derives standalone share anchors from original opening verses, with occurrence suffixes for repeated openings. Roman targets share the original key only when displayed block structure, verse counts and numbering align. Existing verified Basta stanza IDs are used directly; legacy ordinal bookmark anchors remain aliases. Standalone share anchors are content-derived, not new entries in the permanent Basta identity lock: substantive opening-text corrections require considering existing shared links. `reading-passages.ts` owns stanza copying, edition-aware deep links and search-highlight navigation, without changing source text or injecting controls into verses.
+
+The original-language label comes from source metadata. Internal `urdu` edition keys remain compatible with stored preferences, while mixed programmes label that column Original. At high zoom, long lines retain a readable floor and pan individually. Verse fitting reuses measurements until width, font, edition or magnification changes and ignores distant continuous-reader pages. Scan failures provide retry and direct-file access in both inline and enlarged views.
+
 ## Design ownership
 
 `styles/global.css` imports semantic tokens, themes, base layout, shared site shell, catalog cards and reading foundations. `ReadingControls.astro` imports the common reader toolbar, column, index, focus, scan and utility styles. Basta CSS is split by actual consumer (shell, navigation, index, text, continuous reader), and Recitation CSS by common/editor/reader.
@@ -84,11 +89,21 @@ The build renders pages, verifies generated sitemap coverage against every produ
 
 `src/lib/search-normalization.ts` handles Arabic/Urdu keyboard variants, harakat, ZWNJ, aliases and reviewed Roman spelling variants **for search only**. Original verses, user-typed query and URL are not rewritten. Index the visible standalone/verified Basta poem text once; printed Basta page indexing deliberately covers only unclaimed fragments to avoid duplicate local search results.
 
+The search UI owns accessible controls and consumes only Pagefind's public `options`, `filters` and `search` APIs. `search-state.ts` owns URL parsing, selected facets and result-page state; browser back/forward restores the complete state. Counts exclude the facet being displayed while respecting the query and all other selected facets. Results and facet updates have generation guards so a slower old request cannot replace a newer search. Result excerpts allow only text and highlighting markup; result destinations stay within public archive routes. Query normalization and token matching are shared with the programme picker and directory filtering.
+
 `public/sw.js` and the generated offline search manifest cache only requested public pages/scans/search data. Never cache unpublished/private editor capabilities or API responses. Offline Recitation HTML embeds eligible text/font data but omits live state and bulky source scans.
 
 ## Cloudflare boundary
 
 Cloudflare Pages serves the static result. R2 supplies large scans/PDFs through stable `/images/` and `/files/` paths. `functions/` validates published Recitation Set access against D1. `schema/` provides initial D1 setup; `workers/` provides scheduled expiry cleanup. Browser-local drafts, bookmarks and preferences never become server records unless a Recitation Set is explicitly published.
+
+Live readers poll `/api/recitation-sets/{id}/live` for a small pointer and content revision, retaining an ETag in memory. A changed pointer does not redownload the full programme; a changed content revision triggers the full read. Hidden or paused readers abort outstanding work, and late responses cannot move the reader. Conditional responses remain `no-store`; this reduces response bytes, not D1 reads. Export code and embedded fonts are loaded only when Print or Download is requested.
+
+## Private editorial workspace
+
+`scripts/editorial/` is a local application outside Astro's routes and public output. It reuses source-review and stanza helpers to inspect standalone original/Roman editions, metadata gaps and candidate comparisons. Comparison against Basta and other source material remains a separate manual check. A separate private ledger records explicit human decisions, distinct from machine task completion and publication acceptance. Candidate identity prevents duplicate permanent IDs from inheriting each other's approval. Task-specific fingerprints and the editorial-rules version determine whether a decision still applies; historical decisions remain available after invalidation.
+
+The server binds only to loopback, checks Host/Origin and mutation tokens, and never serves arbitrary repository paths. Ledger writes are atomic and revision-checked. The workspace reads standalone sources, the identity lock, editorial rules and its own decision ledger; it does not ingest worker ledgers or historical/WIP CSV registers. It does not rewrite poetry, approve a worker result automatically, publish content or modify those registers. See [Contributing](CONTRIBUTING.md#local-editorial-workspace) for operation.
 
 All binding, upload, sitemap and deployment procedures live in [Operations](OPERATIONS.md). Recitation permissions and retention contracts live in [Recitation Sets](RECITATION_SETS.md).
 

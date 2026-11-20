@@ -1,164 +1,86 @@
 ---
-// File role: Search route: loads Pagefind only here, exposes shareable URL filters, and renders removable active-filter chips.
+// File role: Native search form, facets and result shell; the public Pagefind API supplies results.
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { SEARCH_FACETS } from "../lib/search-state";
 import "../styles/search.css";
-const resultTemplate = String.raw`
-          <li class="pf-result">
-            <div class="pf-result-card">
-              <div class="pf-result-content">
-                {{#if meta.collection}}
-                <p class="search-result-collection">{{ meta.collection }}</p>
-                {{/if}}
-                <p class="pf-result-title" dir="auto">
-                  <a class="pf-result-link" href="{{ meta.url | default(url) | safeUrl }}">{{ meta.title }}</a>
-                </p>
-                {{#if meta.roman_title}}
-                <p class="search-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
-                {{/if}}
-                {{#if excerpt}}
-                <p class="pf-result-excerpt" dir="auto">{{+ excerpt +}}</p>
-                {{/if}}
-              </div>
-            </div>
-          </li>
-`;
+const searchVersion = Date.now().toString(36);
 ---
 
-<BaseLayout
-  title="Search | Kalam Archive"
-  description="Search and filter the complete Kalam Archive and Basta."
->
-  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
-  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
-
-  <section class="search-page">
+<BaseLayout title="Search | Kalam Archive" description="Search the Kalam Archive and Basta by title, remembered verse, poet, language or occasion.">
+  <section class="search-page" data-search-version={searchVersion}>
     <header class="search-header">
       <p class="eyebrow">Find kalam</p>
       <h1>Search the archive</h1>
-      <p>Find Urdu and Roman Urdu kalam in both collections. Use filters to narrow your results.</p>
+      <p>Search a title or a remembered verse in its original script or Roman transcription.</p>
+      <nav class="search-browse-links" aria-label="Browse the archive">
+        <a href="/poets/">Poets</a><a href="/languages/">Languages</a><a href="/occasions/">Occasions</a>
+      </nav>
     </header>
 
-    <pagefind-config faceted preload lang="en" excerpt-length="25"></pagefind-config>
-
-    <p data-requires-js role="status">Search requires JavaScript. You can still <a href="/">browse Kalam Types</a> and read the archive.</p>
-    <p id="search-load-error" role="alert" hidden>Search is temporarily unavailable. Reload the page to try again, or <a href="/">browse the archive</a>.</p>
-
-    <div class="search-input-row">
-      <div class="search-input-wrap">
-        <pagefind-input placeholder="Search the archive…"></pagefind-input>
-      </div>
-      <button id="clear-search-state" class="text-button search-clear-button" type="button">
-        Clear all
-      </button>
+    <p data-requires-js role="status">Search requires JavaScript. You can still <a href="/">browse Kalam Types</a>, <a href="/poets/">browse poets</a> and read the archive.</p>
+    <div id="search-load-error" role="alert" hidden>
+      <p>Search is temporarily unavailable. Try again, or <a href="/">browse the archive</a>.</p>
+      <button id="search-retry" class="text-button" type="button">Retry search</button>
     </div>
+
+    <form id="search-form" class="search-input-row" action="/search/" method="get" role="search">
+      <div class="search-input-wrap">
+        <label class="visually-hidden" for="search-query">Search the archive</label>
+        <input id="search-query" name="q" type="search" placeholder="Search the archive…" maxlength="500" autocomplete="off" dir="auto" />
+      </div>
+      <button type="submit" class="search-submit">Search</button>
+      <button id="clear-search-state" class="text-button search-clear-button" type="button">Clear all</button>
+    </form>
 
     <details id="search-filter-disclosure" class="search-filter-disclosure" open>
       <summary>Filters</summary>
       <div class="search-primary-filters" aria-label="Search filters">
-      <div class="search-filter-control search-filter-scope">
-        <span class="search-filter-label">Search in</span>
-        <details class="search-facet" data-search-facet="collection">
-          <summary>Both archives</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find archives…" aria-label="Find Archive filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Archive choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+        {SEARCH_FACETS.filter(facet => facet.primary).map(facet => (
+          <div class="search-filter-control">
+            <span class="search-filter-label">{facet.label}</span>
+            <details class="search-facet" data-search-facet={facet.key}>
+              <summary>{facet.empty}</summary>
+              <div class="search-facet-panel">
+                <input type="search" data-facet-query placeholder={`Find ${facet.label.toLowerCase()}…`} aria-label={`Find ${facet.label} filter options`} autocomplete="off" />
+                <div class="search-facet-options" data-facet-options role="group" aria-label={`${facet.label} choices`}></div>
+                <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+              </div>
+            </details>
           </div>
-        </details>
+        ))}
       </div>
-      <div class="search-filter-control">
-        <span class="search-filter-label">Kalam Type</span>
-        <details class="search-facet" data-search-facet="kalamType">
-          <summary>All types</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find kalam types…" aria-label="Find Kalam Type filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Kalam Type choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-      </div>
-      <div class="search-filter-control">
-        <span class="search-filter-label">Haal</span>
-        <details class="search-facet" data-search-facet="haal">
-          <summary>Any Haal</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find Haal values…" aria-label="Find Haal filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Haal choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-      </div>
-      <div class="search-filter-control">
-        <span class="search-filter-label">Tags</span>
-        <details class="search-facet" data-search-facet="tag">
-          <summary>Any tag</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find tags…" aria-label="Find Tag filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Tag choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-      </div>
-    </div>
-
-    <details class="search-more-filters">
-      <summary>More filters</summary>
-      <div class="search-secondary-filters">
-        <details class="search-facet" data-search-facet="language">
-          <summary>Language</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find languages…" aria-label="Find Language filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Language choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-        <details class="search-facet" data-search-facet="occasion">
-          <summary>Occasion</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find occasions…" aria-label="Find Occasion filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Occasion choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-        <details class="search-facet" data-search-facet="poet">
-          <summary>Poet</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find poets…" aria-label="Find Poet filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Poet choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-        <details class="search-facet" data-search-facet="reciter">
-          <summary>Reciter</summary>
-          <div class="search-facet-panel">
-            <input type="search" data-facet-query placeholder="Find reciters…" aria-label="Find Reciter filter options" autocomplete="off" />
-            <div class="search-facet-options" data-facet-options role="group" aria-label="Reciter choices"></div>
-            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
-          </div>
-        </details>
-      </div>
-    </details>
-
+      <details class="search-more-filters">
+        <summary>More filters</summary>
+        <div class="search-secondary-filters">
+          {SEARCH_FACETS.filter(facet => !facet.primary).map(facet => (
+            <details class="search-facet" data-search-facet={facet.key}>
+              <summary>{facet.label}</summary>
+              <div class="search-facet-panel">
+                <input type="search" data-facet-query placeholder={`Find ${facet.label.toLowerCase()}…`} aria-label={`Find ${facet.label} filter options`} autocomplete="off" />
+                <div class="search-facet-options" data-facet-options role="group" aria-label={`${facet.label} choices`}></div>
+                <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+              </div>
+            </details>
+          ))}
+        </div>
+      </details>
     </details>
 
     <div id="active-search-filters" class="active-search-filters" hidden>
       <span class="search-filter-label">Active filters</span>
       <div id="active-search-filter-list" class="active-search-filter-list"></div>
     </div>
-
     <div class="search-results-shell">
-      <p class="search-collection-note">Verified Basta kalams appear as individual kalams. Only unindexed material appears under printed pages.</p>
-      <pagefind-summary></pagefind-summary>
-      <pagefind-results>
-        <script type="text/pagefind-template" is:inline set:html={resultTemplate}></script>
-      </pagefind-results>
+      <p class="search-collection-note">Basta kalams appear individually. Unindexed material links to its printed page.</p>
+      <p id="search-summary" role="status" aria-live="polite" tabindex="-1">Loading search…</p>
+      <ol id="search-results" aria-label="Search results" aria-busy="true"></ol>
+      <nav id="search-pagination" class="search-pagination" aria-label="Search result pages" hidden></nav>
       <p id="search-no-results-help" class="search-no-results-help" hidden>
-        No matches. Try a shorter phrase, the other script (Urdu or Roman Urdu), or
+        Try a shorter phrase or another spelling, or
         <button id="search-clear-no-results" class="text-button" type="button">clear all filters and search again</button>.
       </p>
     </div>
   </section>
-
   <script>
     import { initSearchPage } from "../client/search";
     const disclosure = document.querySelector<HTMLDetailsElement>("#search-filter-disclosure");

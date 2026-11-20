@@ -121,9 +121,9 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
         </figcaption>}
       </figure>
       {hasRoman
-        ? <BastaParallelText urduText={kalam.urdu} romanText={kalam.roman || ""} variant="page" page={page} stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} indexForSearch />
+        ? <BastaParallelText urduText={kalam.urdu} romanText={kalam.roman || ""} variant="page" page={page} stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} indexForSearch shareStanzas={kalam.stanzas} />
         : <section class="basta-page-text basta-page-urdu" lang="ur" dir="rtl">
-            <BastaText text={kalam.urdu} className="basta-urdu-text" stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} indexForSearch />
+            <BastaText text={kalam.urdu} className="basta-urdu-text" stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} indexForSearch shareStanzas={kalam.stanzas} />
           </section>}
     </div>
   </article>

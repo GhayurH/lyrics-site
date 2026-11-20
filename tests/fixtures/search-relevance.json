@@ -1,0 +1,22 @@
+[
+  { "name": "Urdu title", "query": "آ اصغر بن تیرے", "kind": "lyric", "id": "aa-asghar-bin-tere", "sourceText": "آ اصغر بن تیرے میں چین کہاں سے پاوں", "maxRank": 1 },
+  { "name": "Roman spelling alternative", "query": "Aa Asgar Bin Tere", "kind": "lyric", "id": "aa-asghar-bin-tere", "sourceText": "Aa Asghar Bin Tere", "maxRank": 1 },
+  { "name": "Remembered Urdu verse", "query": "ماں دکھیاری کے جینے", "kind": "lyric", "id": "aa-asghar-bin-tere", "sourceText": "ماں دکھیاری کے جینے کا، تو ہی لال سہارا ہے", "maxRank": 5 },
+  { "name": "Roman title prefix", "query": "hashim ke ghara", "kind": "lyric", "id": "hashim-ke-gharane-ke-qamar", "sourceText": "Hashim Ke Gharane Ke Qamar", "maxRank": 1 },
+  { "name": "Remembered Roman verse", "query": "tum chaaho viraane gulzaar", "kind": "lyric", "id": "hashim-ke-gharane-ke-qamar", "sourceText": "Tum chaaho to viraane ko gulzaar bana do", "maxRank": 3 },
+  { "name": "Urdu passage away from title", "query": "عباس کٹے ہاتھوں سے تقدیر", "kind": "lyric", "id": "hashim-ke-gharane-ke-qamar", "sourceText": "عباس کٹے ہاتھوں سے تقدیر بنا دو", "maxRank": 3 },
+  { "name": "Shahmukhi title with Arabic keyboard and vowels", "query": "عَلِي سوہنا", "kind": "lyric", "id": "ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022", "sourceText": "علی سوہنا شیر رب دا", "maxRank": 3 },
+  { "name": "Nasal Roman spelling in a remembered verse", "query": "khaibar mein bulaya kyun tha", "kind": "lyric", "id": "ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022", "sourceText": "Khaibar mein bulaya Kiuṅ tha", "maxRank": 5 },
+  { "name": "Arabic kaf and ha keyboard variants", "query": "سكينه بیمار نوں بلاوے", "kind": "lyric", "id": "zindaan-day-vich-ro-ro-sakina-beemaar-nu-bulaway", "sourceText": "زندان دے وچ رو رو سکینہ بیمار نوں بلاوے", "maxRank": 3 },
+  { "name": "Panjabi Roman title", "query": "Zindaan De Vich Sakina", "kind": "lyric", "id": "zindaan-day-vich-ro-ro-sakina-beemaar-nu-bulaway", "sourceText": "Zindaan De Vich Ro Ro Sakina Bimaar Nu Bulaawe", "filters": { "language": ["Panjabi"] }, "maxRank": 1 },
+  { "name": "First independent reciter", "query": "Shaah-e-Mardaaṅ", "kind": "lyric", "id": "shaahe-mardan", "sourceText": "Shaah-e-Mardaaṅ", "filters": { "reciter": ["Sachey Bhai"] }, "maxRank": 1 },
+  { "name": "Second independent reciter", "query": "Shaah-e-Mardaaṅ", "kind": "lyric", "id": "shaahe-mardan", "sourceText": "Shaah-e-Mardaaṅ", "filters": { "reciter": ["Shadman Raza"] }, "maxRank": 1 },
+  { "name": "Multi-valued category alternatives", "query": "Fatima Ke Chain Ne", "kind": "lyric", "id": "fatima-ke-chain-ne", "sourceText": "Fatima Ke Chain Ne", "filters": { "kalamType": ["Noha", "Salam"] }, "maxRank": 1 },
+  { "name": "Balti Roman title", "query": "Abbas Alamdar Balti", "kind": "lyric", "id": "abbas-alamdar-balti", "sourceText": "Abbas Alamdar Balti Noha", "filters": { "language": ["Balti"] }, "maxRank": 1 },
+  { "name": "Balti source passage", "query": "یانگ زمفنا افسوس", "kind": "lyric", "id": "abbas-alamdar-balti", "sourceText": "یانگ زمفنا افسوس تھنگینگ نوگ", "filters": { "language": ["Balti"] }, "maxRank": 1 },
+  { "name": "English title with reviewed Husain spelling", "query": "heart of husain", "kind": "lyric", "id": "heart-of-hussain", "sourceText": "Heart Of Hussain", "filters": { "language": ["English"] }, "maxRank": 1 },
+  { "name": "Individual Basta kalam in Roman", "query": "Jo zer-e-kisa parwaan charhe Zainab", "kind": "basta", "id": "basta-hamd-naat-o-manaqib-034", "sourceText": "Jo zer-e-kisa parwaan charhe Zainab aisi hasti hai", "maxRank": 1 },
+  { "name": "Individual Basta kalam in source script", "query": "جو زیر کساء پروان چڑھے", "kind": "basta", "id": "basta-hamd-naat-o-manaqib-034", "sourceText": "جو زیرِ کساء پروان چڑھے زینب ایسی ہستی ہے", "maxRank": 1 },
+  { "name": "Filter-only language lookup", "query": "", "kind": "lyric", "id": "abbas-alamdar-balti", "sourceText": "Abbas Alamdar Balti Noha", "filters": { "language": ["Balti"] }, "maxRank": 1 },
+  { "name": "Unknown phrase returns no results", "query": "qzxvplmrt yqkzptn", "expectEmpty": true }
+]

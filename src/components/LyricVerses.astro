@@ -2,6 +2,7 @@
 /* File role: Render source stanzas and six-verse 4+2 groups consistently in Urdu and Roman. */
 import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../lib/lyric-stanzas";
 import type { StanzaPattern } from "../lib/stanza-pattern";
+import type { StanzaLink } from "../lib/stanza-links";
 
 interface Props {
   text: string;
@@ -10,9 +11,11 @@ interface Props {
   /** Index the displayed verses directly rather than duplicating the poem in hidden HTML. */
   indexForSearch?: boolean;
   searchTitle?: string;
+  stanzaLinks?: StanzaLink[];
+  edition?: "original" | "roman";
 }
 
-const { text, className, stanzaPattern, indexForSearch = false, searchTitle } = Astro.props as Props;
+const { text, className, stanzaPattern, indexForSearch = false, searchTitle, stanzaLinks = [], edition = "original" } = Astro.props as Props;
 const stanzas = layoutLyricStanzas(text, stanzaPattern);
 const openingVerse = stanzas.flat().find((line) => !line.number);
 const normalized = (value: string) => value.trim().normalize("NFKC").toLocaleLowerCase();
@@ -21,8 +24,10 @@ const openingRepeatsTitle = Boolean(openingVerse && searchTitle &&
 ---
 
 <div class:list={[className, "lyric-reading-text"]} data-pagefind-body={indexForSearch ? true : undefined}>
-  {stanzas.map((stanza) => (
-    <div class={lyricStanzaClassNames(stanza, stanzaPattern)}>
+  {stanzas.map((stanza, index) => (
+    <div class={lyricStanzaClassNames(stanza, stanzaPattern)}
+      id={stanzaLinks[index]?.id} data-stanza-key={stanzaLinks[index]?.key}
+      data-stanza-label={stanzaLinks[index]?.label} data-stanza-edition={edition}>
       {stanza.map((line) => (
         <>
           <span class={lyricLineClassName(line)}

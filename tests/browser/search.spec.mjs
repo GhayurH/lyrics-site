@@ -1,4 +1,5 @@
 import { test, expect } from "@playwright/test";
+import { lyricSourceUrl } from "./catalog.mjs";
 
 test("search shows verified Basta kalams once without redundant page links", async ({ page }) => {
   await page.goto("/search/?q=" + encodeURIComponent("Jo zer-e-kisa parwaan charhe Zainab"));
@@ -37,7 +38,7 @@ test("search filters select multiple alternatives within each facet", async ({ p
   await facet.locator("summary").click();
   await expect(facet.locator('input[data-facet-choice="kalamType"]:checked')).toHaveCount(2);
   await expect(page.locator('[data-filter-key="kalamType"]')).toHaveCount(2);
-  await expect(page.locator("pagefind-results .pf-result-link").first())
+  await expect(page.locator("#search-results .pf-result-link").first())
     .toBeVisible({ timeout: 20000 });
   await page.locator('[data-filter-key="kalamType"][data-filter-value="Salam"]').click();
   await expect(page.locator('[data-filter-key="kalamType"]')).toHaveCount(1);
@@ -63,21 +64,23 @@ test("two selections in one facet persist across reloads and individual chip rem
   await expect(page.locator('[data-filter-key="haal"]')).toHaveCount(1);
 });
 
-test("multi-valued lyric categories appear in both browse lists and just one detail page", async ({ page }) => {
-  for (const category of ["noha", "salam"]) {
-    await page.goto(`/categories/${category}/`);
-    await expect(page.locator('a.lyric-card-link[href="/lyrics/fatima-ke-chain-ne/"]')).toHaveCount(1);
+test("multi-valued lyric categories each retrieve the same detail page once", async ({ page, request }) => {
+  const url = await lyricSourceUrl(request, "fatima-ke-chain-ne");
+  for (const category of ["Noha", "Salam"]) {
+    await page.goto("/search/?" + new URLSearchParams({ q: "Fatima Ke Chain Ne", kalamType: category }));
+    await expect(page.locator(`a.pf-result-link[href^="${url}?"]`)).toHaveCount(1, { timeout: 20000 });
   }
-  await page.goto("/lyrics/fatima-ke-chain-ne/");
+  await page.goto(url);
   await expect(page.locator('.reader-subnav a[href="/categories/noha/"]')).toHaveCount(1);
   await expect(page.locator('.reader-subnav a[href="/categories/salam/"]')).toHaveCount(1);
 });
 
-test("independent reciters each retrieve the same kalam without a combined facet", async ({ page }) => {
+test("independent reciters each retrieve the same kalam without a combined facet", async ({ page, request }) => {
+  const url = await lyricSourceUrl(request, "shaahe-mardan");
   for (const reciter of ["Sachey Bhai", "Shadman Raza"]) {
     await page.goto("/search/?q=" + encodeURIComponent("Shaah-e-Mardaaṅ") +
       "&reciter=" + encodeURIComponent(reciter));
-    await expect(page.locator('a.pf-result-link[href="/lyrics/shaahe-mardan/"]'))
+    await expect(page.locator(`a.pf-result-link[href^="${url}?"]`))
       .toBeVisible({ timeout: 20000 });
   }
   await page.goto("/search/");
@@ -93,7 +96,7 @@ test("independent reciters each retrieve the same kalam without a combined facet
   }
   expect(facets.reciter["Sachey Bhai; Shadman Raza"]).toBeUndefined();
 
-  await page.goto("/lyrics/shaahe-mardan/");
+  await page.goto(url);
   for (const reciter of ["Sachey Bhai", "Shadman Raza"]) {
     await expect(page.locator('.lyric-details a[href*="reciter="]')
       .filter({ hasText: reciter })).toHaveCount(1);
@@ -101,13 +104,16 @@ test("independent reciters each retrieve the same kalam without a combined facet
 });
 
 
-test("Shahmukhi titles are found with Arabic keyboard spelling @smoke", async ({ page }) => {
-  for (const [query, url] of [
-    ["علي سوہنا", "/lyrics/ali-sohna-sher-rab-da/"],
-    ["سكينه بیمار", "/lyrics/zindaan-day-vich-ro-ro-sakina-beemaar-nu-bulaway/"],
+test("Shahmukhi titles are found with Arabic keyboard spelling @smoke", async ({ page, request }) => {
+  for (const [query, id] of [
+    ["علي سوہنا", "ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022"],
+    ["سكينه بیمار", "zindaan-day-vich-ro-ro-sakina-beemaar-nu-bulaway"],
   ]) {
+    const url = await lyricSourceUrl(request, id);
     await page.goto("/search/?q=" + encodeURIComponent(query));
-    await expect(page.locator('a.pf-result-link[href="' + url + '"]')).toBeVisible({ timeout: 20000 });
+    const result = page.locator(`a.pf-result-link[href^="${url}?"]`);
+    await expect(result).toBeVisible({ timeout: 20000 });
+    expect(new URL(await result.getAttribute("href"), page.url()).searchParams.get("highlight")).toBe(query);
     expect(new URL(page.url()).searchParams.get("q")).toBe(query);
   }
 });
