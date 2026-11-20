@@ -1,5 +1,5 @@
 ---
-title: "لاش اکبر کی جو مقتل سے اٹھا لائے حسین"
+title: "لاشے پہ نوجواں کے چادر اڑھاؤ زینب"
 alternateTitle: "Laashe Pe Naujawan"
 language: "Urdu"
 lang: "ur"
