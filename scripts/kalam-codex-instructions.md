@@ -9,3 +9,53 @@ The authoritative policy remains docs/EDITORIAL.md. The single-file worker injec
 - Update the task rule bundle whenever docs/EDITORIAL.md changes, and keep both consistent. The shared rules precede task-specific rules to encourage caching. Arabic-script recovery intentionally excludes irrelevant Roman orthographic details.
 
 A complete processed file is still an unapproved local edit until separately verified.
+
+## Parallel local worker (after dedup finishes)
+
+The supervisor can run 2–16 independent Codex processes on disjoint, contiguous
+alphabetical slices of the current added-kalam inventory. Every process has its
+own resume ledger, isolated workspace, log and file-specific snapshots.
+**Use 4 workers initially.** Four simultaneous Codex sessions consume the
+same account quotas; increasing concurrency may not improve effective throughput
+if they start hitting rate limits. The shard count must remain fixed until
+this round is finished; changing it requires deliberate state migration.
+
+The primary `state.json` and any interrupted review remain with worker 0.
+When parallel mode is started for the first time, already-processed results for
+the other workers are copied from the primary ledger, so previous progress
+is not repeated. If the interrupted file is outside worker 0's range,
+bootstrap refuses to proceed rather than discard it. Finish that one file
+with the legacy worker first, then repeat the transition.
+
+First stop the currently running systemd unit, update the checked-out branch
+from the remote, and install a parallel unit:
+
+```bash
+systemctl --user stop kalam-codex-round2.service
+git pull --ff-only
+KALAM_CODEX_WORKERS=4 python3 scripts/kalam_codex.py service install
+systemctl --user start kalam-codex-round2.service
+```
+
+This does **not** run Git tests, commit files, stage changes, or push.
+`git pull --ff-only` requires your local branch to be compatible with
+the remote; resolve any divergence manually without discarding existing
+uncommitted lyric edits.
+
+Track combined progress and inspect service logs:
+
+```bash
+python3 scripts/kalam_codex_parallel.py status
+journalctl --user -u kalam-codex-round2.service -f
+```
+
+To pause safely, use `systemctl --user stop kalam-codex-round2.service`.
+Restart with `systemctl --user start kalam-codex-round2.service`.
+Do not launch the legacy `supervise` worker alongside parallel mode.
+Never change `KALAM_CODEX_WORKERS` by editing the service environment alone;
+shard configuration is persisted and enforced on restart.
+
+If all workers encounter a shared Codex quota, they will pause according
+to their existing retry logic, and overall throughput will drop. The combined
+`status` command counts processed files across shards and distinguishes
+`edited_local` from `needs_human`; a processed file is not editorially approved.
