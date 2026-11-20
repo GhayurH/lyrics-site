@@ -198,38 +198,9 @@ def prompt_for(item: Candidate) -> str:
 
 
 def execute(item: Candidate, args: argparse.Namespace) -> int:
-    if not args.confirm_run:
-        raise ReviewError("No model call without explicit --confirm-run")
-    branch = git("branch", "--show-current").strip()
-    if branch != args.expected_branch:
-        raise ReviewError(f"Expected {args.expected_branch}, currently {branch}")
-    if git("status", "--porcelain", "--untracked-files=all").strip():
-        raise ReviewError("Working tree must be completely clean")
-    codex = shutil.which("codex")
-    if not codex:
-        raise ReviewError("Codex CLI missing: install @openai/codex and log in")
-    cmd = [codex, "exec", "--sandbox", "workspace-write", "--ephemeral",
-           "-C", str(ROOT)]
-    if args.model:
-        cmd.extend(["--model", args.model])
-    cmd.append("-")
-    print("Selected:", item.path, "task:", item.task, flush=True)
-    completed = subprocess.run(cmd, cwd=ROOT, input=prompt_for(item), text=True)
-    changed = set(git("diff", "--name-only").splitlines())
-    changed.update(git("ls-files", "--others", "--exclude-standard").splitlines())
-    extras = sorted(changed - {item.path})
-    if extras:
-        print("Unapproved paths modified; inspect manually:", *extras,
-              sep="\n  ", file=sys.stderr)
-        return 3
-    if subprocess.run(["git", "-C", str(ROOT), "diff", "--check"]).returncode:
-        print("Whitespace check failed; inspect manually", file=sys.stderr)
-        return 3
-    if completed.returncode:
-        return completed.returncode
-    print("Finished. No commit, push, tracker or automatic approval was made.")
-    print("Manually verify the diff and original evidence before accepting it.")
-    return 0
+    """Review one file, preserving all earlier uncommitted local edits."""
+    from kalam_codex_worker import single_run
+    return single_run(item, args, prompt_for)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -249,8 +220,34 @@ def main(argv: list[str] | None = None) -> int:
             command.add_argument("--confirm-run", action="store_true")
             command.add_argument("--expected-branch", default=ROUND2)
             command.add_argument("--model")
+    worker_parser = sub.add_parser("supervise", help="Run resumable, quota-aware single-file queue")
+    worker_parser.add_argument("--confirm-run", action="store_true")
+    worker_parser.add_argument("--base")
+    worker_parser.add_argument("--model")
+    sub.add_parser("status", help="Read-only local processing and quota status")
+    retry_parser = sub.add_parser("requeue", help="Retry a previously processed lyric")
+    retry_parser.add_argument("--path", required=True)
+    service_parser = sub.add_parser("service", help="Manage a local systemd user unit")
+    service_parser.add_argument("action", choices=("install", "uninstall"))
+    service_parser.add_argument("--start", action="store_true",
+                                help="Enable/start on installation; default installs only")
     args = parser.parse_args((sys.argv[1:] if argv is None else argv) or ["plan"])
     try:
+        if args.command == "status":
+            from kalam_codex_worker import show_status
+            show_status()
+            return 0
+        if args.command == "requeue":
+            from kalam_codex_worker import requeue
+            requeue(args.path)
+            return 0
+        if args.command == "service":
+            from kalam_codex_worker import service_action
+            service_action(args.action, start=args.start)
+            return 0
+        if args.command == "supervise":
+            from kalam_codex_worker import supervise
+            return supervise(args)
         if args.command == "plan":
             rows = inventory(base_ref(args.base))
             counts = Counter(item.task for item in rows)
@@ -276,6 +273,12 @@ def main(argv: list[str] | None = None) -> int:
             return 0
         return execute(item, args)
     except (ReviewError, OSError, subprocess.CalledProcessError) as exc:
+        print("kalam-codex:", exc, file=sys.stderr)
+        return 2
+    except Exception as exc:
+        from kalam_codex_worker import WorkerError
+        if not isinstance(exc, WorkerError):
+            raise
         print("kalam-codex:", exc, file=sys.stderr)
         return 2
 

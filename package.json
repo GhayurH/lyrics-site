@@ -26,7 +26,12 @@
     "sitemap:verify:live": "node scripts/verify-sitemap.mjs --live",
     "kalam:plan": "python3 scripts/kalam_codex.py plan",
     "kalam:prompt": "python3 scripts/kalam_codex.py prompt",
-    "kalam:run": "python3 scripts/kalam_codex.py run"
+    "kalam:run": "python3 scripts/kalam_codex.py run",
+    "kalam:supervise": "python3 scripts/kalam_codex.py supervise --confirm-run",
+    "kalam:status": "python3 scripts/kalam_codex.py status",
+    "kalam:requeue": "python3 scripts/kalam_codex.py requeue",
+    "kalam:service:install": "python3 scripts/kalam_codex.py service install",
+    "kalam:service:uninstall": "python3 scripts/kalam_codex.py service uninstall"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.5",

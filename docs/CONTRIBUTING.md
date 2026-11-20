@@ -23,11 +23,11 @@ The main sources are `src/data/lyrics/*.md` (standalone works), `src/data/basta/
 Do **not** use bulk scripted stanza alignment or OCR-generated transcription as a substitute for line-by-line editorial review. Correctness is not established by identical line counts.
 
 
-## Codex-assisted original-language and Roman review
+## Codex-assisted source and Roman review
 
-After Round 2 deduplication is finished, the new bounded CLI can inspect ONLY standalone lyrics added on this branch relative to the merge base with main. It is currently prepared but not running. The imported worker under kalam-archive-imports/backups/kalam-review-2026-11-16 is archival and must not be restarted.
+This Round 2 tool covers only the standalone lyric files **added** since the merge base with main, and reviews them one file per Codex call. The queue is derived from the current branch (not from the historical tracker); the original-language and Roman rules are in [Editorial standards](EDITORIAL.md) and scripts/kalam-codex-instructions.md. Use it **after deduplication is finished**, so the target corpus has stabilized. The archived kalam-archive-imports supervisor is not to be restarted.
 
-The default command and all plan/prompt commands are read-only; they never create a tracker or call Codex:
+Inventory and prompt previews are read-only:
 
     npm run kalam:plan
     npm run kalam:plan -- --task source --json
@@ -35,13 +35,31 @@ The default command and all plan/prompt commands are read-only; they never creat
     npm run kalam:plan -- --task audit
     npm run kalam:prompt -- --path src/data/lyrics/FILE.md
 
-Only when manual processing is authorized after dedup, opt in to ONE poem:
+For a continuous local run, install a systemd **user** unit. Installation does not start it. Start only once the dedup branch is settled:
 
-    npm run kalam:run -- --path src/data/lyrics/FILE.md --confirm-run
+    npm run kalam:service:install
+    systemctl --user enable --now kalam-codex-round2.service
 
-The run command checks the active Round 2 branch, a clean worktree, newly added-file scope, and local Codex installation/authentication. It uses non-interactive Codex exec with workspace-write and ephemeral sessions, without deprecated full-auto flags. It never creates a tracking CSV, schedules batches, commits or pushes. Unexpected file changes and whitespace errors are reported, not silently discarded.
+Alternatively, install and start together after dedup:
 
-The three tasks are source-language reconstruction from Roman-only material, Roman creation for originals without a transcription, and an audit of existing transliterations. Uncertain or genuine Latin-script originals are excluded from speculative reconstruction. Follow the canonical Editorial standards and the narrow prompt at scripts/kalam-codex-instructions.md. A human must verify every result; a matching verse count alone is insufficient. The scanner is covered by the Node test suite and can also be tested directly with python3 -m unittest discover -s tests -p test_kalam_codex.py.
+    npm run kalam:service:install -- --start
+
+Follow progress and watch Codex logs locally:
+
+    npm run kalam:status
+    systemctl --user status kalam-codex-round2.service
+    journalctl --user -u kalam-codex-round2.service -f
+    systemctl --user stop kalam-codex-round2.service
+    systemctl --user disable kalam-codex-round2.service
+
+To run a single selected file manually, use npm run kalam:run -- --path src/data/lyrics/FILE.md --confirm-run. To revisit a previously attempted file, first run npm run kalam:requeue -- --path src/data/lyrics/FILE.md (stop the service first). Uninstall the local unit with npm run kalam:service:uninstall. When the unit has moved to another checkout location, reinstall it.
+
+The service uses Codex exec in workspace-write/ephemeral mode, with **one file per invocation**. The CLI detects unexpected changes to any other file, including files already locally modified, and stops for investigation. It does not discard edits. The working tree may contain thousands of prior Codex modifications: it does **not** require a clean tree between files. It never commits, stages, pushes or deploys source edits; manual editorial approval and Git management remain separate.
+
+A private resume ledger and Codex transcripts live in ~/.local/state/kalam-codex-round2 (or KALAM_CODEX_STATE_DIR) rather than any source tracker. Statuses mean edited_locally, needs_human/no_change, skipped or blocked; none means human-approved. The service pauses automatically on Codex quota responses, honoring a reported local reset time plus grace or falling back to 30 minutes, and resumes from the same file. Transient transport failures use increasing backoff; unexpected file edits or unrecoverable failures **stop** the worker. Stopping/restarting the unit preserves quota deadlines and progress. It exits normally when the finite list of added kalams is exhausted, retaining any items requiring human evidence.
+
+The worker checks the active Round 2 branch and freezes the current HEAD during a run. If the branch HEAD changes (for example, because dedup is still committing), it stops, so restart it after the branch stabilizes. To keep user services alive without an active login, configure systemd lingering separately via loginctl enable-linger for the user, if desired. The Codex CLI must be installed/authenticated on the machine running the service and its executable/Node PATH available in the installed unit.
+
 
 ## Mechanical cleanup and synchronization
 

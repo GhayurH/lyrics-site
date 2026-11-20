@@ -1,6 +1,6 @@
 # Codex instructions for added Round 2 kalams
 
-This is one bounded editorial review, not an autonomous import, translation, deduplication, background service or tracking operation.
+This is one bounded single-file editorial review. A local resumable service may invoke it sequentially, but it is not an import, English translation, deduplication, automatic approval or tracking operation.
 
 - Read AGENTS.md and docs/EDITORIAL.md first. The latter is the canonical reference, overriding the historic imported-worker prompt.
 - Source-language verse text belongs in the Markdown body, Roman transliteration in a YAML romanLyrics literal block. Non-English kalams must NEVER contain English translations. English originals remain English.

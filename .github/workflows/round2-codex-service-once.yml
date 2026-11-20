@@ -1,0 +1,37 @@
+name: Round 2 Codex service one-time validation
+on:
+  push:
+    branches: [round2-kalams-2026-11-14]
+    paths: [scripts/kalam_codex_worker.py]
+permissions:
+  contents: write
+jobs:
+  smoke:
+    if: github.repository == 'GhayurH/lyrics-site'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: round2-kalams-2026-11-14
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Compile supervisor and CLI
+        run: python3 -m py_compile scripts/kalam_codex.py scripts/kalam_codex_worker.py
+      - name: Run pure scanner and worker tests
+        run: python3 -m unittest discover -s tests -p 'test_kalam_codex*.py' -v
+      - name: CLI help and read-only inventory
+        run: |
+          python3 scripts/kalam_codex.py supervise --help
+          python3 scripts/kalam_codex.py service --help
+          python3 scripts/kalam_codex.py plan --limit 0
+          python3 scripts/kalam_codex.py status
+      - name: Retire one-time validation workflow
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm -f .github/workflows/round2-codex-service-once.yml
+          git diff --check
+          git commit -m 'chore: complete local Codex service smoke checks [skip ci]'
+          git push origin HEAD:refs/heads/round2-kalams-2026-11-14
