@@ -60,3 +60,7 @@ Allahu akbar
 Ae bhai har shaqi ki.., naa paak hai nazar
 Naiza sawaar bhai, aise quraan padh..
 Aise quraan padh
+
+10
+Tauqeer Rooz-e-Mehshar Gar Chahiye Nijat
+Dil Mein Basa Le Apne Shabeer Ki Qabar

@@ -1,93 +1,98 @@
 ---
 title: "اے پالنے والے میرے بابا کو بچا لے"
+alternateTitle: "Ae Paalne Waale Mere Baba Ko Bacha Le"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
-aliases: []
+poet: "Qaiser Kaleem"
+tags: []
+aliases: ["Baba Ko Bacha Le Mere Baba Ko Bacha Le"]
 published: false
-# source_id: ziyaraat:3ca5744a3c05dbb1bc54
-# source_url: https://www.ziyaraat.net/api/noha/1160
-# raw_sha256: 841a55e257f288efae02d586c472c4486e1263b4a858ff7e4ee2b7a763508e13
+romanLyrics: |-
+  Baba ko bachale mere baba ko bachale
+  Ashur ki shab kehti thi ro ro ke sakina
+  Tu maalik o mukhtar hai sunle mere naale
+  Ae paalne wale mere baba ko bachale
+
+  1
+  Baba ke bina nind nahi aayegi pal bhar
+  Ho jaungi muztar
+  Ae khaaliqe akbar mujhe dunya se uthaale
+
+  2
+  Kal suboh ko tootegi musibat pe musibat
+  Aayegi qayamat
+  Haathoṅ may adu ke hai chamakte hue bhaale
+
+  3
+  Ek sar ke liye aaye hai laakhoṅ sitam [ejaad]
+  Ho jayegi bedaad
+  Sehme hue hai aaj ki shab naazoṅ ke paale
+
+  4
+  Har qaimay may jaati hai tarap kar phupi amma
+  Hai sakht pareshaṅ
+  Kal khaak may mil jaayenge aaghosh ke paale
+
+  5
+  Qaimo may udaasi hai dharakta hai mera dil
+  Hai zindagi mushkil
+  Kal hoṅge juda mujhse mere chaahne wale
+
+  6
+  Mar jayenge kal mere chacha aur bhaiya
+  Koi na bachega
+  Is gham ke talatum may mujhe kaun sambhale
+
+  7
+  Sad haif ye kehti thi kalim dukhtare shabbir
+  Bhai mera baysheer
+  Ho jayega kal tir-e-sitamgar ke hawale
+# source_id: nohayonline:a22a678d5306911e5fb7
+# source_url: https://www.nohayonline.com/details_content.php?id=782
+# raw_sha256: a75904f0741385f31427439bc4e12f427fd00a75f4de74781417707cdfb3916a
+# source_id: ziyaraat:b85aeaaa6162a93f8891
+# source_url: https://www.ziyaraat.net/api/noha/2388
+# raw_sha256: 15d2b29dac1f494dcfc1ee1235b4ca07083a4348f5b6e437ec93c3c212f3823a
 ---
 
 بابا کو بچا لے میرے بابا کو بچا لے
-
-1
 عاشور کی شب کہتی تھی رورو کہ سکینہ
-
-2
 تُو ں مالک و مختار ہے سُن لے میرے نالے
-
-3
 اے پالنے والے میرے بابا کو بچا لے
+
+۱
 بابا کے بِنا نیند نہیں آئے گی پل بھر
 ہو جائوں گی مضطر
 اے خالقِ اکبر مجھے دُنیا سے اُٹھا لے
 
-4
+۲
 کل صبح و کو ٹوٹے گی مصیبت پہ مصیبت
 آئے گی قیامت
 ہاتھوں میں عدُو کے ہیں چمکتے ہوئے بھالے
 
-5
+۳
 اک سر کے لیے آئے ہیں لاکھوں ستم ﴿ایجاد﴾
 ہو جائے گی بے داد
 سہمے ہوئے ہیں آج کی شب نازوں کے پالے
 
-6
+۴
 ہر خیمے میںجاتی ہے تڑپ کر پھُوپھی اماں
 ہے سخت پریشاں
 کل خاک میں مل جائیں گے آغوش کے پالے
 
-7
+۵
 خیموں میں اُداسی ہے دھڑکتا ہے میرا دل
 ہے زندگی مشکل
 کل ہوں گے جُدا مجھ سے میرے چاہنے والے
 
-8
+۶
 مر جائیں کل میرے چچا اور بھیّا
 کوئی نہ بچے گا
 اس غم کے طلاطم میں مجھے کون سنبھالے
 
-9
+۷
 صد ہیف یہ کہتی تھی کلیم دُخترِ شبیر
 بھائی میرا بے شیر
 ہو جائے گا کل تیرِ ستمگار کے حوالے
-
-10
-Baba ko bachale mere baba ko bachale
-Ashoor ki shab kehti thi ro ro ke sakina
-Baba ko bachale....
-Tu maalik o mukhtar hai sunle mere naale
-Baba ko bachale....
-Ay paalne wale mere baba ko bachale
-Baba ke bina neend nahi aayegi pal bhar
-Ho jaungi muztar
-Ay khaaliqe akbar mujhe dunya se uthaale
-Baba ko bachale....
-Kal suboh ko tootegi musibat pe musibat
-Aayegi qayamat
-Haathon may adoo ke hai chamakte hue bhaale
-Baba ko bachale....
-Ek sar ke liye aaye hai laakhon sitam [ejaad]
-Ho jayegi bedaad
-Sehme hue hai aaj ki shab naazon ke paale
-Baba ko bachale....
-Har qaimay may jaati hai tadap kar phupi amma
-Hai sakht pareshan
-Kal khaak may mil jaayenge aaghosh ke paale
-Baba ko bachale....
-Qaimo may udaasi hai dhadakta hai mera dil
-Hai zindagi mushkil
-Kal honge juda mujhse mere chaahne wale
-Baba ko bachale....
-Mar jayenge kal mere chacha aur bhaiya
-Koi na bachega
-Is gham ke talatum may mujhe kaun sambhale
-Baba ko bachale....
-Sad haif ye kehti thi kaleem dukhtare shabbir
-Bhai mera baysheer
-Ho jayega kal teer e sitamgar ke hawale
-Baba ko bachale....
