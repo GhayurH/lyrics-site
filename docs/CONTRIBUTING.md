@@ -44,6 +44,7 @@ Local `kalam:validate` and the worker's automatic post-edit check warn about for
 For a continuous local run, install a systemd **user** unit. Installation does not start it. Start only once the dedup branch is settled:
 
     npm run kalam:service:install
+    systemd-analyze --user verify ~/.config/systemd/user/kalam-codex-round2.service
     systemctl --user enable --now kalam-codex-round2.service
 
 Alternatively, install and start together after dedup:

@@ -708,6 +708,18 @@ def systemd_quote(value: str) -> str:
     return '"' + value.replace("\\", "\\\\").replace('"', '\\"').replace("%", "%%") + '"'
 
 
+def systemd_working_directory(root: Path) -> str:
+    """WorkingDirectory is a path setting, not shell/ExecStart syntax.
+
+    Quotes here are interpreted literally by systemd, making even a quoted
+    absolute path invalid. Escape '%' specifiers without surrounding quotes.
+    """
+    path = str(root.resolve())
+    if "\n" in path or "\r" in path:
+        raise WorkerError("Invalid newline in service working directory")
+    return path.replace("%", "%%")
+
+
 def service_text(root: Path) -> str:
     unit_command = (systemd_quote(str(Path(sys.executable).resolve())) + " " +
                     systemd_quote(str(root / "scripts/kalam_codex.py")) +
@@ -729,7 +741,7 @@ def service_text(root: Path) -> str:
         "After=network.target\n\n"
         "[Service]\n"
         "Type=simple\n"
-        "WorkingDirectory=" + systemd_quote(str(root)) + "\n"
+        "WorkingDirectory=" + systemd_working_directory(root) + "\n"
         + extra +
         "ExecStart=" + unit_command + "\n"
         "KillMode=control-group\n"

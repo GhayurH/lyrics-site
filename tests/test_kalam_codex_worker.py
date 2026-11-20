@@ -4,6 +4,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
+import shutil
 from pathlib import Path
 import subprocess
 import sys
@@ -53,6 +54,8 @@ class WorkerTests(unittest.TestCase):
     def test_systemd_user_service_is_explicit_and_local(self):
         unit = worker.service_text(Path("/home/owner/Projects/lyrics-site"))
         self.assertIn("ExecStart=", unit)
+        self.assertIn("WorkingDirectory=/home/owner/Projects/lyrics-site\n", unit)
+        self.assertNotIn('WorkingDirectory="', unit)
         self.assertIn("supervise --confirm-run", unit)
         self.assertIn("Restart=on-failure", unit)
         self.assertIn("RestartPreventExitStatus=78", unit)
@@ -60,6 +63,24 @@ class WorkerTests(unittest.TestCase):
         self.assertNotIn("git push", unit)
         self.assertNotIn("git commit", unit)
         self.assertIn("Environment=", unit)
+
+    def test_systemd_verify_generated_unit(self):
+        """Actual systemd parser guards against bad WorkingDirectory settings."""
+        if not shutil.which("systemd-analyze"):
+            self.skipTest("systemd-analyze not available")
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder) / "lyrics site"
+            root.mkdir()
+            unit = Path(folder) / "kalam-test.service"
+            unit.write_text(worker.service_text(root), encoding="utf-8")
+            result = subprocess.run(
+                ["systemd-analyze", "verify", str(unit)],
+                text=True, capture_output=True)
+            self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_systemd_working_directory_doubles_percent_without_quotes(self):
+        value = worker.systemd_working_directory(Path("/home/owner/100% projects/site"))
+        self.assertEqual(value, "/home/owner/100%% projects/site")
 
     def test_state_atomic_resume_file(self):
         with tempfile.TemporaryDirectory() as folder:
