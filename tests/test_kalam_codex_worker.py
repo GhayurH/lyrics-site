@@ -158,8 +158,10 @@ class WorkerTests(unittest.TestCase):
             log = Path(folder) / "codex.jsonl"
             log.write_text("", encoding="utf-8")
             def changed_original(root, candidate, prompt, model):
-                selected.write_text(selected.read_text(encoding="utf-8").replace(
-                    "اے حسین تم آؤ", "اے حسن تم آؤ"), encoding="utf-8")
+                selected_in_workspace = root / candidate.path
+                selected_in_workspace.write_text(
+                    selected_in_workspace.read_text(encoding="utf-8").replace(
+                        "اے حسین تم آؤ", "اے حسن تم آؤ"), encoding="utf-8")
                 return 0, log, Path(folder) / "summary"
             with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
                 with patch.object(worker, "invoke_codex", side_effect=changed_original):
