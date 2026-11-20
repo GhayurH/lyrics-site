@@ -359,7 +359,7 @@ class WorkerTests(unittest.TestCase):
                 '---\n1\nAe Husain tum aao', encoding="utf-8")
             state = {"version": 1, "results": {}}
             item = SimpleNamespace(path="poem.md", task="source",
-                                   lang="ur", language="Urdu")
+                                   lang="ur", language="Urdu", note="Roman-only source")
             log = Path(folder) / "log.jsonl"
             log.write_text("", encoding="utf-8")
             def reconstruct(workspace, candidate, prompt, model):
