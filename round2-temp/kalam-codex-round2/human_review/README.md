@@ -15,6 +15,7 @@
 ## Tracker columns
 
 - `lyric_path`: original path from the worker state, which may now be stale.
+- `current_lyric_path`: current canonical filename after renames/deduplication; blank until reconciled when the original path is gone.
 - `worker`: original root worker or shard.
 - `snapshot_id`, `before_snapshot`, `after_snapshot`: immutable evidence.
 - `codex_applied`: whether the worker said its proposal was applied, **not** editorial approval.
