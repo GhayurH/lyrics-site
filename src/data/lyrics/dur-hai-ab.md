@@ -1,7 +1,7 @@
 ---
 title: "دور ہے اب دستگاہ جبر و استبداد سے"
 recitationId: "door-hai-ab"
-alternateTitle: "Dur Hai Ab"
+alternateTitle: "Dur Hai Ab Dastgaah-e-Jabr o Istibdaad Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -1,37 +1,36 @@
 ---
 title: "دنیا سے جا رہی ہے بابا کی عزادار"
-alternateTitle: "Duniya Se Jaa Rahi Hai Baba Ki Azadar"
+alternateTitle: "Duniya Se Jaa Rahi Hai Baba Ki Azaadaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Not Available"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Duniya se jaa rahi hai Baba ki azadar
-  Taa hashr rulaye ga ye darbar
+  Duniya se jaa rahi hai Baba ki azaadaar
+  Taa hashr rulaaye ga yeh darbaar
 
   1
-  Baba tere mimber se jhutlaye gawah meray
-  Thukra di musalman ne hans kar teri dastaar
+  Baba tere mimber se jhutlaaye gawaah mere
+  Thukra di musalmaan ne hans kar teri dastaar
 
   2
-  Cheena hai fidak Baba ye dukh nahi Zahra ko
-  Par bhool na paaon gi zaalim ki main guftaar
+  Chhina hai Fidak Baba yeh dukh nahiṅ Zahra ko
+  Par bhul na paauṅ gi zaalim ki maiṅ guftaar
 
   3
-  Jis dar pe Nabi aa kar tazeem ko rukte the
-  Ummat ne jala dalay wohi dar-o-deewar
+  Jis dar pe Nabi aa kar tazim ko rukte the
+  Ummat ne jalaa daale wohi dar o diwaar
 
   4
-  Kyun laadli meri ko ronay na diya tumne
-  Kya bolo ge ae logo jab puchein ge Sarkar
+  Kiuṅ laadli meri ko rone na diya tum ne
+  Kya bolo ge Ae logo jab puchheṅ ge Sarkar
 
   5
-  Shahid gham-e-Zahra hi momin ki ibadat hai
-  Jannat mein bhi hum hon ge matam ke talabgaar
+  Shahid Gham-e-Zahra hi momin ki ibaadat hai
+  Jannat meiṅ bhi hum hoṅ ge maatam ke talabgaar
 ---
 
 دنیا سے جا رہی ہے بابا کی عزادار

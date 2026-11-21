@@ -43,6 +43,7 @@ Every non-English standalone kalam requires an original-language `title` and a R
 | Punjabi in Shahmukhi | `Panjabi` | `pa-Arab` | `rtl` |
 | Saraiki in Arabic script | `Saraiki` | `skr-Arab` | `rtl` |
 | Balti in Arabic script | `Balti` | `bft-Arab` | `rtl` |
+| Balochi in Arabic script | `Balochi` | `bal-Arab` | `rtl` |
 | Arabic | `Arabic` | `ar` | `rtl` |
 | Persian | `Persian` | `fa` | `rtl` |
 | English | `English` | `en` | `ltr` |

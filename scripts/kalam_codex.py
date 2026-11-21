@@ -15,8 +15,8 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 LYRICS = "src/data/lyrics/"
 ROUND2 = "round2-kalams-2026-11-14"
-LANG_CODES = {"ur", "pa-Arab", "skr-Arab", "bft-Arab", "ar", "fa"}
-LANG_NAMES = {"urdu", "panjabi", "punjabi", "saraiki", "balti", "arabic", "persian", "roman urdu"}
+LANG_CODES = {"ur", "pa-Arab", "skr-Arab", "bft-Arab", "bal-Arab", "ar", "fa"}
+LANG_NAMES = {"urdu", "panjabi", "punjabi", "saraiki", "balti", "balochi", "arabic", "persian", "roman urdu"}
 ARABIC = re.compile(r"[\u0621-\u063a\u0641-\u064a\u066e-\u06d3\u06fa-\u06ff\u0750-\u077f]")
 LATIN = re.compile(r"[A-Za-zṅṄ]{2,}")
 NUMBER = re.compile(r"[0-9۰-۹٠-٩]+")
