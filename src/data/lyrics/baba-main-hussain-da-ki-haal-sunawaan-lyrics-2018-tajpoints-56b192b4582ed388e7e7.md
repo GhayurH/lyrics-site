@@ -1,6 +1,6 @@
 ---
 title: "بابا میں حسین دا کی حال سناواں"
-alternateTitle: "Baba Main Husain Da Ki Haal Sunaavaaṅ"
+alternateTitle: "Baba Main Hussain Da Ki Haal Sunawaan"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,20 +10,20 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baba main Husain da ki haal sunaavaaṅ
+  Baba main Hussain da ki haal sunawaan
   Sun baba daswin nu veer lashaan chukda kinj bharda si hawaan
-  Khaak te beh ke wain panda si veer mera aye kainda janda si
-  Mainu bhuldiyaan naiṅ Zainab teer khawan vele Asghar di adawaan
+  Khak te beh ke wain panda si veer mera aye kainda janda si
+  Menu bhuldiyaan nayi Zainab teer khawan welay Asghar di adawaan
 
   2
-  Bara okha oh baba wela si zeen toṅ lathiya si jadon Ghazi
-  Bhaina de kol aa ke roya Shabbir bara chum chum ke ridawaan
-  Kholiya khaimay aa ke gathri nu kiya Shabbir ro ke Farwa nu
+  Bara okha oh baba wela si zeen taun lathiya si jadon Ghazi
+  Bhaina de kool aa ke roya Shabir bara chum chum ke ridawaan
+  Kholiya khaimay aa ke gathri nu kiya Shabir ro ke Farwa nu
   Koi reh gaya jay Farwa rait andar tukra main labh ke liyawaan
 
   3
   Dar-e-khaima te aa ke veer mera boliya seena wekh Akbar da
-  Das Zainab Laila toṅ kiwein main Akbar de seene nu chupawaan
+  Das Zainab Laila taun kiwein main Akbar de seene nu chupawaan
   Jadon zakhmi hoi odhi gardan nehar de pasay wekh ke veran
   Ghazi da na le ke aakhri wain kita wich ukhriyaan sawaan
 

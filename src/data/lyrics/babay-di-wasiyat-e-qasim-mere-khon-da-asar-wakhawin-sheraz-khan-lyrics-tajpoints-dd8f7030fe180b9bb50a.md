@@ -1,6 +1,6 @@
 ---
-title: "میرے بعد میرے شبیر لئی توں حسن بھرا بن جاویں"
-alternateTitle: "Mere Baad Mere Shabbir Lai Tuṅ Hasan Bhira Ban Jaaviṅ"
+title: "بابے دی وصیت، اے قاسم میرے خون دا اثر وکھاویں"
+alternateTitle: "Babay Di Wasiyat E Qasim Mere Khon Da Asar Wakhawin"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,14 +10,14 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mere baad mere Shabbir lai tuṅ Hasan bhira ban jawein
-  Kujh mere farz ne tere te jehray tuṅ ne sirf nibharein
-  Meri maa di qabr utte Qasim ik dewa roz jalawin
+  Mere baad mere Shabbir layi toon Hasan bhira ban jawein
+  Kuj mere farz ne tere te jehray toon ne sirf nibharein
+  Meri maa di qabar uttay Qasim ik dewa roz jalawin
 
   2
-  Mere qatal te Ghazi nu Qasim tuṅ aap dilasay dewin
-  Jehra maan aye meriyaan bainraan da tuṅ odha manr wadawin
-  Mere Ghazi veer da phophiyaan de parday di hifazat lai
+  Mere qatal te Ghazi nu Qasim toon aap dilasay dewin
+  Jehra maan aye meriyaan bainraan da toon odha manr wadawin
+  Mere Ghazi veer da phophiyaan de parday di hifazat layi
   Sajjad te Akbar veraan da har welay sath nibhawin
 
   3

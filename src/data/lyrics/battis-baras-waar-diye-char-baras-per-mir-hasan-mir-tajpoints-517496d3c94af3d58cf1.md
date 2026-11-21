@@ -1,6 +1,6 @@
 ---
-title: "بتیس برس وار دیے چار برس پر میر حسن میر"
-alternateTitle: "Battis Baras Waar Diye Char Baras Per Mir Hasan Mir"
+title: "بتیس برس وار دیے چار برس پر"
+alternateTitle: "Battis Baras Waar Diye Chaar Baras Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,21 +9,21 @@ poet: "Akbar"
 aliases: []
 published: false
 romanLyrics: |-
-  Sar chom ke Abbas ka kehte rahe Sarwar
-  Batees baras waar diye chaar baras par
+  Sar chum ke Abbas ka kehte rahe Sarwar
+  Battis baras waar diye chaar baras par
 
   1
-  Ik mashk-e-Sakina ke liye bazu kata kar
+  Ik mashk-e-Sakina ke liye baazu kata kar
 
   2
-  Lasha liye godi mein sada deti hain Zahra
+  Lasha liye godi mein sada deti hain Zehra
   Iss shair ka khoon beh gaya pani se zyada
   Abbas ka ahsan hai yeh aal-e-Nabi par
-  Bazu ko qalam dekh ke kehne lagay Maula
+  Baazu ko qalam dekh ke kehne lagay Maula
   Yeh hath mere hath mein baba ne diya tha
   Phir soye Najaf dekh ke goya hoye Sarwar
   Shabbir pe sadqay howa Shabbir ka banda
-  Ya Fatima Zahra mera maqbool ho hadiya
+  Ya Fatima Zehra mera maqbool ho hadiya
   Kehti hain Baqiya mein yeh Abbas ki madar
   Sadaat ki ab kaun bhujaye ga bhala pyas
   Ik gurz laga zeen se girey khak pe Abbas
@@ -43,9 +43,9 @@ romanLyrics: |-
   Zainab ko ghareebi ki khabar kaisay sunatay
   Marey gaye Abbas yeh kis dil se batatay
   Sheh kehte rahe chom ke humsheer ki chadar
-  Lashay ki tarha hathoon pe parcham ko utha kar
+  Laashe ki tarah hathoon pe parcham ko utha kar
   Shabbir sada detey they rotay hoye Akbar
-  Jaan waar doon tujh par aye mere shair-e-dilawar
+  Jaan waar doon tujh par aye mere sher-e-dilawar
 ---
 
 سر چوم کے عباس کا کہتے رہے سرور

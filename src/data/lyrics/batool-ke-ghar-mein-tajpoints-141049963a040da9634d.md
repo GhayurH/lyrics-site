@@ -1,6 +1,6 @@
 ---
 title: "بتول کے گھر میں"
-alternateTitle: "Batool Ke Ghar Mein"
+alternateTitle: "Batul Ke Ghar Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,43 +10,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zameen Hai Arsh Muqadar Batool Ke Ghar Mein
-  Hai Khak Noor Ki Humsar Batool Ke Ghar Mein
+  Zamin Hai Arsh Muqadar Batul Ke Ghar Mein
+  Hai Khaak Noor Ki Humsar Batul Ke Ghar Mein
 
   1
-  Abu Turab Ke Pairon Se Mas Hoye Hoon Gaye
-  Khuda-e-Pak Ne Gohar Bana Diye Hoon Gaye
-  Mila Na Aik Bhi Kankar Batool Ke Ghar Mein
+  Abu Turab Ke Pairon Se Mas Hue Hoṅ Gaye
+  Khuda-e-Pak Ne Gauhar Bana Diye Hoṅ Gaye
+  Mila Na Ik Bhi Kankar Batul Ke Ghar Mein
 
   2
-  Farishtay Jin Ka Bohat Ayhteram Kartay Hain
-  Jo Aayaton Ki Zabaan Mein Kalam Kartay Hain
-  Hain Aisi Shan Ke Nokar Batool Ke Ghar Mein
+  Farishte Jin Ka Bahut Ehteraam Karte Hain
+  Jo Aayaton Ki Zabaan Mein Kalam Karte Hain
+  Hain Aisi Shan Ke Nokar Batul Ke Ghar Mein
 
   3
   Salam Aap Ke Sajday Ko Sar Jhukanay Ko
   Bataya Madar-e-Abbas Ne Zamane Ko
-  Keh Aisay Aana Hai Jhuk Kar Batool Ke Ghar Mein
+  Keh Aisay Aana Hai Jhuk Kar Batul Ke Ghar Mein
 
   4
   Kissi Sahabi Na Zojah Ke Ghar Hai Sarwar Ko
   Sakoon Jo Milta Hai ALLAH Ke Ghar Payamber Ko
-  Wohi Sakoon Hai Muyassar Batool Ke Ghar Mein
+  Wohi Sakoon Hai Muyassar Batul Ke Ghar Mein
 
   5
   Nabi Ki Aal Se Unn Ka Mawazna Kaisa
   Agar Hai Dekhna Rutba-e-Mariyam-o-Esa
-  Tu Dekh Fizza-o-Qambar Batool Ke Ghar Mein
+  Tu Dekh Fizza-o-Qambar Batul Ke Ghar Mein
 
   6
   Koi Shifa Tu Koi Rizq Paney Aata Hai
   Koi Hussain Ka Jhola Jhulaney Aata Hai
-  Farishtay Aate Hain Din Bhar Batool Ke Ghar Mein
+  Farishte Aate Hain Din Bhar Batul Ke Ghar Mein
 
   7
-  Khudaya Bas Yehi Hasrat Hai Jaun-o-Muhsin Ki
-  Keh Muntazir Hain Yeh Aankhein Faqat Ossi Din Ki
-  Khushi Jab Aaye Palat Kar Batool Ke Ghar Mein
+  Khudaaya Bas Yehi Hasrat Hai Jaun-o-Muhsin Ki
+  Keh Muntazir Hain Yeh Aankhein Faqat Usi Din Ki
+  Khushi Jab Aaye Palat Kar Batul Ke Ghar Mein
 ---
 
 زمیں ہے عرش مقدر بتول کے گھر میں

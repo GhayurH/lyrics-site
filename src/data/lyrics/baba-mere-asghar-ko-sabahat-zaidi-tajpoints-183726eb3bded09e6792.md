@@ -10,13 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Baba mere Asghar ko paani to pila lao
-  Darya ki fiza baba Asghar ko dikha laao
+  Baba mere Asghar ko Sabahat Zaidi
+  Baba mere Asghar ko pani tu pila lao
+  Darya ki fiza baba Asghar ko dikha lao
 
   1
-  Abbas chacha mera aaya nahiṅ palat ke
-  Pyaasa hi mera Asghar leta hai yuṅ simat ke
-  Darya se mere baba Ghazi ko bula laao
+  Abbas chacha mera aaya nahi palat ke
+  Pyasa hi mera Asghar leta hai youn simat ke
+  Darya se mere baba Ghazi ko bola lao
 
   2
   Maqtal mein hi rukay hain Qasim bhi bhai Akbar
@@ -34,26 +35,27 @@ romanLyrics: |-
   Le jate hain Asghar ko jaldi se utha lao
 
   5
-  Zakhmi galuye Asghar dekha to Shah bolay
+  Zakhmi galuye Asghar dekha tu Shah bolay
   Hai muntazir Sakina le jaon bhala kaisay
   Bano ne kaha Maula woh zakhm chupa lao
 
   6
-  Aate hoye jo Shah ko dekha to muskurai
+  Aate hoye jo Shah ko dekha tu muskurai
   Boli Sakina dekho aata hai mera bhai
   Amma se kaha jaldi jholay ko saja lao
 
   7
   Laye jo Shah lasha Asghar ka khaima ga mein
   Kehne lagi Sakina aanso bharay nigah mein
-  Yeh to nahiṅ kaha tha Asghar ko sula lao
+  Yeh tu nahi kaha tha Asghar ko sula lao
 
   8
-  Osaaf yeh ro ro ke boli masum bachhi
-  Maqtal ki jagah baba bilkul nahiṅ hai achhi
-  Pyaron ko mere baba maqtal se bula laao
+  Osaaf yeh ro ro ke boli masoom bachi
+  Maqtal ki jagah baba bilkul nahi hai achi
+  Pyaron ko mere baba maqtal se bola lao
 ---
 
+بابا میرے اصغر کو صباحت زیدی
 بابا میرے اصغر کو پانی تو پلا لاؤ
 دریا کی فضا بابا اصغر کو دکھا لاؤ
 

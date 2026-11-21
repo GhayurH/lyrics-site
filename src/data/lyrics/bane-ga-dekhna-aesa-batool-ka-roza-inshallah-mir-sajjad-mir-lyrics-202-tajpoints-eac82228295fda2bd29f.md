@@ -1,6 +1,6 @@
 ---
 title: "بنے گا دیکھنا ایسا بتول کا روضہ ان شاء اللہ"
-alternateTitle: "Bane Ga Dekhna Aesa Batool Ka Roza Inshallah"
+alternateTitle: "Bane Ga Dekhna Aisa Batul Ka Rauza Insha Allah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,16 +10,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bane ga dekhna aesa Batool ka roza Inshallah Mir Sajjad Mir
-  Woh waqt aaye ga ik din zaror aaye ga
-  Rasool zadi ka roza zamana dekhey ga
+  Bane ga dekhna aisa Batul ka rauza Insha Allah
+  Woh waqt aaye ga ik din zarur aaye ga
+  Rasul zadi ka rauza zamana dekhe ga
   Inshallah, Inshallah, Inshallah
 
   1
-  Banay ga dekhna aisa Batool ka roza
-  Yeh keh raha hai yaqeen se Rasool ka roza
-  Zamana dekhey ga asal-e-usool ka roza
-  Na hoga aisa kissi bhi Rasool ka roza
+  Banay ga dekhna aisa Batul ka rauza
+  Yeh keh raha hai yaqeen se Rasul ka rauza
+  Zamana dekhe ga asal-e-usool ka rauza
+  Na hoga aisa kissi bhi Rasul ka rauza
 
   2
   Hai kam khas tu mazdoor khas aaein gay
@@ -43,7 +43,7 @@ romanLyrics: |-
   Yeh shart ho gi keh sajdah karo tu jao gay
   Keh gasibon pe tabarah karo tu jao gay
   Modiriyat ke sabhi kam dekhein gay Shabbar
-  Khula rahe ga hamesha Hussain ka daftar
+  Khula rahe ga hamesha Husain ka daftar
 
   6
   Karein gay nazar ko taqseem Qasim-e-Muztar
@@ -58,7 +58,7 @@ romanLyrics: |-
   Zyada aaye gi khilqat namaz-e-magrib par
 
   8
-  Har ik Rasool kahey ga yeh sehan-e-rehmat mein
+  Har ik Rasul kahey ga yeh sehan-e-rehmat mein
   Namaz parhni hai Abbas ki imamat mein
   Barey haram ki barai tu raat mein ho gi
   Khuda ki asal khudai tu raat mein ho gi
@@ -71,7 +71,7 @@ romanLyrics: |-
 
   10
   Banay gi soney se asli zareeh ki jali
-  Lagai jaye gi Fizza ke hath se chandi
+  Lagai jaye gi Fizza ke hath se chaandi
   Haseen qalam se Hasan khud karein gay khatati
   Likhein gay qabar pe aayat sari Quraan ki
 
@@ -100,13 +100,13 @@ romanLyrics: |-
   Duaein qabar se Umm ul-Banin ki le ga
 
   15
-  Haram Batool ka Sajjad aisay chamkay ga
-  Ho din ya shab Bani Hashim ka chand niklay ga
+  Haram Batul ka Sajjad aisay chamkay ga
+  Ho din ya shab Bani Hashim ka chaand niklay ga
   Haram se mashk Sakina ki laein gay Abbas
-  Hussain walon ko pani pilaein gay Abbas
+  Husain walon ko pani pilaein gay Abbas
 ---
 
-بنے گا دیکھنا ایسا بتول کا روضہ ان شاء اللہ میر سجاد میر
+بنے گا دیکھنا ایسا بتول کا روضہ ان شاء اللہ
 وہ وقت آئے گا اک دن ضرور آئے گا
 رسول زادی کا روضہ زمانہ دیکھے گا
 ان شاء اللہ، ان شاء اللہ، ان شاء اللہ

@@ -1,6 +1,6 @@
 ---
-title: "بنی اسد میثم عباس"
-alternateTitle: "Bani Asad Mesum Abbas"
+title: "بنی اسد"
+alternateTitle: "Bani Asad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,26 +11,26 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye roney walo suno kaisi pur dard yeh riwayat hai
-  Do Muharram ko sar-e-Karb-o-Bala karwan-e-sheh-e-mazloom ruka
-  Ik qabeela Bani Asad nami unn se Maula ne youn khitab kiya
-  Main ne yeh Karbala kharedi hai kal yahan par lutay ga ghar mera
-  Be kafan lashay sab paray hoon gay qabar koi nahi banaye ga
-  Aye Bani Asad walo
+  Ae rone walo suno kaisi pur dard yeh riwayat hai
+  Do Muharram ko sar-e-Karb o Bala karwan-e-sheh-e-mazloom ruka
+  Ik qabeela Bani Asad nami un se Maula ne yuṅ khitab kiya
+  Main ne yeh Karbala kharidi hai kal yahan par lutay ga ghar mera
+  Be kafan laashe sab paray hoon gay qabr koi nahi banaye ga
+  Ae Bani Asad walo
   Jab koi na aaye tum zaror aana
-  Inn musafiron ki qabar tum banana
+  Inn musafiron ki qabr tum banana
   Baad mardoon ke kaha aurton se Maula ne
   Itefaqan jo tumhara guzar ho maqtal se
-  Jab mere aqarba ke lashay tumhein aaein nazar
-  Oss ghari meri wasiyat ko yaad kartay hoye
-  Be kafan hoon lashay tum rida urhana
-  Inn musafiron ki qabar tum banana
-  Phir sheh-e-Karb-o-Bala ne kaha yeh bachoon se
+  Jab mere aqarba ke laashe tumhein aaein nazar
+  Oss ghari meri wasiyat ko yaad kartay hue
+  Be kafan hoon laashe tum rida urhana
+  Inn musafiron ki qabr tum banana
+  Phir sheh-e-Karb o Bala ne kaha yeh bachoon se
   Iltija yeh hai keh Ashor jab guzar jaye
   Khailtey waqt bahane se tum idhar aana
-  Apne hathoon mein biyabaan ki khak uthaye hoye
+  Apne hathoon mein biyabaan ki khak uthaye hue
   Sari maiyyaton ko khak mein chupana
-  Inn musafiron ki qabar tum banana
+  Inn musafiron ki qabr tum banana
   Al-qissa keh Ashor ka soraj nikal aaya
   Aray be yaro madadgar tha Zahra ka gharana
   Ansar hoon bhai ho pisar ho keh bhatija
@@ -40,11 +40,11 @@ romanLyrics: |-
   Phir gayarah Muharram ko haram ban gaye qaidi
   Thin betiyaan Zahra ki rida sar pa nahi thi
   Sajjad ko pehnai gayi hathkari beri
-  Panjon pe safar karti thi Shabeer ki pyari
+  Panjon pe safar karti thi Shabbir ki pyari
   Maqtal ka bhi ahwal suno momino ro kar
   Ab terah Muharram ka biyaan karta hoon manzar
   Bas yeh sun kar Asadi peer-o-jawaan ghar se chaley
-  Bailchey apne sanbhalay hoye maqtal pohanchay
+  Bailchey apne sanbhalay hue maqtal pahunche
   They pareshan keh ab rah dikhaye ga kaun
   Kaun sa lasha hai kis ka yeh bataye ga kaun
   Yak bayak dasht-e-biyabaan mein utha gird-o-ghubar
@@ -54,45 +54,45 @@ romanLyrics: |-
   Ro keh phir kehne lagay dard ka sataya hoon
   Apne pyaron ko yahan dafan karne aaya hoon
   Wadah jo kiya tha wadah woh nibhao
-  Main batata jaon qabar tum banao
+  Main batata jaon qabr tum banao
   Phir mere Maula ne ro kar Bani Asad se kaha
   Qabar tum khodney ki zehmatein nahi karna
   Jaisay main aaya hoon kal aaye they mere nana
   Qabrein mazlomo ki sab khodi ja chukin wallah
-  Dekho maiyyaton ko sath mere aao
+  Dekho maiyyaton ko saath mere aao
   Tham ke qalb-o-jigar janib-e-nashaib chaley
   Baap ki lash-e-buredah pe boka karne lagay
   Lash-e-pamal ke aaza tu sabhi bikhrey they
-  Maula Sajjad ne logon se kaha rotay hoye
+  Maula Sajjad ne logon se kaha rotay hue
   Main sameto aaza tum chatai lao
   Sar kahan bazu kahan our kahan hai seena
-  Bain kartay hoye phir lash ko tarteeb diya
-  Jis ghari seena-e-Shabeer pe sar apna rakha
+  Bain kartay hue phir lash ko tarteeb diya
+  Jis ghari seena-e-Shabbir pe sar apna rakha
   Aayi be sakhta Sajjad ke honton pe boka
   Baba baba wa musibata wa bata
   Baap ke seene pe be sheer ka bhi lasha hai
-  Phir mera Maula yeh unn logon ko samjhata hai
+  Phir mera Maula yeh un logon ko samjhata hai
   Do qadam pichey hato waqt qareen aata hai
   Kyun keh masoomo ko masoom hi dafnata hai
   Meri bekasi pe ashk tum bahao
-  Main batata jaon qabar tum bachao
+  Main batata jaon qabr tum bachao
   Al-garz Maula mera ganjay shaheedan pohancha
   Qasim-o-Aoun-o-Muhammad ko wahin dafan kiya
   Kar ke phir Jaun-o-Habib Ibn-e-Mazahir pe boka
-  Dafan Akbar ko kiya kartay hoye wawela
+  Dafan Akbar ko kiya kartay hue wawela
   Aik ik lasha mera Maula utha kar laya
   Qabar jis ki thi jahan oss ko wahin dafnaya
   Ab lab-e-nehar gaye lasha chacha ka paya
   Lash ke tukray jama kar ke yehi farmaya
   Aap ke baad chacha aisi tabahi aayi
-  Qatal baba hoye Akbar ne sina bhi khayi
+  Qatal baba hue Akbar ne sina bhi khayi
   Chadrein chin gayin jab Sham-e-Ghareebaan aayi
   Our phir Sham ke balway mein thi Zahra jayi
   Khatam hai Mazhar-o- Meesum ka yahin par noha
   Keh chukay lash-e-Alamdar se jab haal apna
   Asadi logon ke humrah uthaya lasha
   Haye Abbas-e-Alamdar ko phir dafnaya
-  Aaj bhi roza-e-Shabeer pe woh aate hain
+  Aaj bhi roza-e-Shabbir pe woh aate hain
   Asadi loag ossi rasam ko duhratay hain
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "بعد بابا کے ستم اتنے سہے زہرا نے"
-alternateTitle: "Baad Baba Ke Sitam Itne Sahe Zehra Ne"
+alternateTitle: "Baad Baba Ke Sitam Itne Sahe Zahra Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Baad Baba ke sitam itne sahe Zehra ne
-  Dekhe Haider ko rasan pehne hue Zehra ne
+  Baad Baba ke sitam itne sahe Zahra ne
+  Dekhe Haider ko rasan pehne howay Zahra ne
 
   1
-  Tere ihsan bhulaye hain musalmaano ne
-  Qabr-e-Mursal pe yehi bain kiye Zehra ne
-  Tukre tahrir-e-Nabi ke sar-e-darbaar hue
-  Saath Salman ke wo tukre chune Zehra ne
+  Tere ihsan bhulaye hain musalmano ne
+  Qabar-e-Mursal pe yehi bain kiye Zahra ne
+  Tukre tehreer-e-Nabi ke sar-e-darbar howay
+  Sath Salman ke wo tukre chune Zahra ne
 
   2
-  Janti gham dukhi Zehra ke faqat Fizza hai
-  Haan kissi our se na shikway kiye Zehra ne
+  Janti gham dukhi Zahra ke faqat Fizza hai
+  Haan kissi our se na shikway kiye Zahra ne
   Dar jo pehlu pe gira tu hoi zakhmi Bibi
-  Khoya Mohsin ko ussi dar ko tale Zehra ne
+  Khoya Mohsin ko ussi dar ko tale Zahra ne
 
   3
   Maa ki maiyat pe jab ayi tu khule band-e-kafan
-  Hath Zainab ke khule sar pe rakhe Zehra ne
-  Oss ko kehta hai zamana ye dua-e-Zehra
-  Kurte hatho se siye jiske liye Zehra ne
+  Hath Zainab ke khule sar pe rakhe Zahra ne
+  Oss ko kehta hai zamana ye dua-e-Zahra
+  Kurte hatho se siye jiske liye Zahra ne
 
   4
   Meri olad hawale hai tumhare Fizza
-  Waqt-e-aakhir the yehi lafz kahe Zehra ne
+  Waqt-e-aakhir the yehi lafz kahe Zahra ne
   Dhoop ka saya hai turbat pe meri kyun Baba
-  Bain Afraz yehi ro ke kiye Zehra ne
+  Bain Afraz yehi ro ke kiye Zahra ne
 ---
 
 بعد بابا کے ستم اتنے سہے زہرا نے

@@ -1,6 +1,6 @@
 ---
-title: "بے بدن سر رو رہے ہیں – جون رضوی"
-alternateTitle: "Be Badan Sir Ro Rahay Hain – Joan Rizvi"
+title: "بے بدن سر رو رہے ہیں"
+alternateTitle: "Be Badan Sar Ro Rahe Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,17 +9,17 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bebadan sar roo rahe hein be rida sar dekh kar
-  Hus raha hai Shaam ka lashker ye manzer dekh kar
-  Bebadan sar roo rahe hein be rida sar dekh kar
+  Be badan sar ro rahe haiṅ berida sar dekh kar
+  Hus raha hai Shaam ka lashkar ye manzar dekh kar
+  Be badan sar ro rahe haiṅ berida sar dekh kar
 
   1
   Dekhta kaise wo ghurbat sahib e tatheer ki
-  Ae jab naize pe chadar Zainab e dilgir ki
-  Gir gaya naize se sar Ghazi ka chadar dekh kar
+  Ae jab neze pe chadar Zainab e dilgir ki
+  Gir gaya neze se sar Ghazi ka chadar dekh kar
 
   2
-  Parh na jae be rida Zainab pe Abid ki nazar
+  Parh na jae berida Zainab pe Abid ki nazar
   Is qadar tha ghum zada dil me ye manzar soch kar
   Sham tak chalta raha Abid zamee(n) par dekh kar
 
@@ -35,9 +35,9 @@ romanLyrics: |-
   Zulm sab wo seh rahi hai baap ka sar dekh kar
 
   5
-  Kat chuki hein sheh ragen par rabta katta nahe
-  Hein jahan Abbas hein Shabbir ki nazren wahen
-  Ro raha naize pe Asgher ko Akber dekh kar
+  Kat chuki haiṅ sheh ragen par rabta katta nahe
+  Hein jahan Abbas haiṅ Shabbir ki nazren wahen
+  Ro raha neze pe Asgher ko Akber dekh kar
 
   6
   Jane zinda is ghari Sajjad kaise reh gae
@@ -47,14 +47,14 @@ romanLyrics: |-
   7
   Taiz naqe kay sabab jo rah me bache giray
   Paun oontoon kay pare or dafan wo hote gae
-  Kanp uthe naize pe is manzar ko Asgher dekh kar
+  Kanp uthe neze pe is manzar ko Asgher dekh kar
 
   8
   Joan or Zeeshan haye ghurbat e binte Ali
   Karbala k bad Zainab sham tak roe na the
-  Roo pari Shereen ka wo ata hua ghar dekh kar
+  Roo pari Shirin ka wo ata hua ghar dekh kar
 
-  Bebadan sar ro rahe hein be rida sar dekh kar
+  Be badan sar ro rahe haiṅ berida sar dekh kar
   Haye sadaat haye Shaaam
 ---
 

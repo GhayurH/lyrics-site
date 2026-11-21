@@ -1,6 +1,6 @@
 ---
-title: "برچھی زوار سید حسنین عباس الحسنی"
-alternateTitle: "Barchi Zawwar Syed Hasnain Abbas Al Hasani"
+title: "برچھی"
+alternateTitle: "Barchhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain kariyal jawaan ko roko hai ran mein qatil uthaye barchi
-  Yeh har Nabi ki sada thi Karbal mein kash Akbar na khaye barchi
-  Bananey wala agar yeh sun le keh oss se kaisa sitam howa tha
-  Woh ja ke ouron se bhi kahey ga keh ab na koi banaye barchi
+  Husain karyal javaan ko roko hai ran mein qatil uthaye barchhi
+  Yeh har Nabi ki sada thi Karbal mein kaash Akbar na khaye barchhi
+  Bananey wala agar yeh sun le keh us se kaisa sitam hua tha
+  Woh ja ke auroṅ se bhi kahe ga keh ab na koi banaye barchhi
   Hadaf pe Akbar ko rakh ke jab se laeen ne mara hai Mustafa ko
-  Tu baad oss ke har aik din hi Batool ka dil dukhaye barchi
+  Tu baad us ke har aik din hi Batul ka dil dukhaye barchhi
 
   2
-  Hussain ke iss hasen ke gham mein roye barah Imam lekin
-  Imam-e-Qayam ko chodah sadiyon se khoon ke aanso rulaye barchi
+  Husain ke iss hasen ke gham mein roye barah Imam lekin
+  Imam-e-Qayam ko chodah sadiyon se khoon ke aanso rulaye barchhi
   Jawaan ke qatil ko shimare-badkar waar karna sikha raha tha
-  Utaray seene mein phir dabaye daba ke phir se hilaye barchi
-  Hussain barchi nikaltay waqt rotay rotay yeh sochtay hain
-  Kahin kaleja hi sath apne nikal bahir na laye barchi
+  Utaray seene mein phir dabaye daba ke phir se hilaye barchhi
+  Husain barchhi nikaltay waqt rotay rotay yeh sochtay hain
+  Kahin kaleja hi sath apne nikal bahir na laye barchhi
 
   3
-  Muqam-e-Akbar se khaima ga mein Hussain paltay tu ro ke bolay
-  Jahan mein aaya tha mera beta bara-e-Karbal bara-e-barchi
+  Muqam-e-Akbar se khaima ga mein Husain paltay tu ro ke bolay
+  Jahan mein aaya tha mera beta bara-e-Karbal bara-e-barchhi
   Woh bain karti hai yaad-e-Akbar mein logo apna kaleja thamay
-  Tu haq yehi hai keh oss ki maa ko na phir se koi dikhaye barchi
-  Hussain rah-e-khuda mein Akbar ko de ke Hasnain chup kharey hain
-  Wahin pe jin-o-malak ki gonji sada-e-giriya keh haye barchi
+  Tu haq yehi hai keh us ki maa ko na phir se koi dikhaye barchhi
+  Husain rah-e-khuda mein Akbar ko de ke Hasnain chup kharey hain
+  Wahin pe jin-o-malak ki guṅji sada-e-giriya keh haye barchhi
 ---
 
 ۱

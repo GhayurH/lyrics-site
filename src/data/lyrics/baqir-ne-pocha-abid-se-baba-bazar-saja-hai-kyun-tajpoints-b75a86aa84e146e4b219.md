@@ -1,6 +1,6 @@
 ---
 title: "باقر نے پوچھا عابد سے بابا بازار سجا ہے کیوں"
-alternateTitle: "Baqir Ne Pocha Abid Se Baba Bazar Saja Hai Kyun"
+alternateTitle: "Baqir Ne Puchha Aabid Se Baba Baazaar Saja Hai Kiun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baqir ne pocha Abid se baba bazar saja hai kyun?
-  Hathon mein liye pathar baba har so har shaks khara hai kyun?
-  Baba Shabir namazi ke ho aap pisar hai sab ko khabar
-  Phir aap ko Sham ke logon ne baghi ka lal kaha hai kyun?
+  Baqir ne puchha Aabid se baba baazaar saja hai Kiun?
+  Hathon mein liye patthar baba har so har shakhs khara hai Kiun?
+  Baba Shabbir namazi ke ho aap pisar hai sab ko khabar
+  Phir aap ko Shaam ke logon ne baghi ka lal kaha hai Kiun?
 
   2
-  Baba ho aap rasan basta our jari hai koron ka sitam
-  Our garam kabhi pani hum par in logon ne phainka hai kyun?
-  Meri our aap ki gardan hai baba iss ik rasan mein bandhi
-  Baba meri gardan dukhti hai haan aisa zulm howa hai kyun?
+  Baba ho aap rasan basta aur jari hai koron ka sitam
+  Our garam kabhi pani hum par in logon ne phainka hai Kiun?
+  Meri aur aap ki gardan hai baba iss ik rasan mein bandhi
+  Baba meri gardan dukhti hai haan aisa zulm howa hai Kiun?
 
   3
   Be-parda dekh ke ahl-e-haram har bar batein mujhko keh
-  Baba Abbas Dilawar ka sar naizay se girta hai kyun?
+  Baba Abbas Dilawar ka sar naizay se girta hai Kiun?
   Athara azanein hum ne suni ik ja pe khare ho kar baba
-  Iss Bab-E-Saat par baba yeh apna qafila ruka hai kyun?
+  Iss Bab-E-Saat par baba yeh apna qafila ruka hai Kiun?
 
   4
   Be-parda meri maein hain bas chand ridaein mangtey hain
-  Iss Sham ke logon mein koi nahi deta humko rida hai kyun?
-  Afraz yeh ro kar Abid ne kaha deen bachana hai hum ne
-  Mat pocho Baqir baba se keh itna zulm saha hai kyun?
+  Iss Shaam ke logon mein koi nahiṅ deta humko rida hai Kiun?
+  Afraz yeh ro kar Aabid ne kaha deen bachana hai hum ne
+  Mat pocho Baqir baba se keh itna zulm saha hai Kiun?
 ---
 
 ۱

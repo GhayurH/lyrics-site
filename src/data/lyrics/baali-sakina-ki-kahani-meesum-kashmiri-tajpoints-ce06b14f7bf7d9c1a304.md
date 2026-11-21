@@ -12,17 +12,17 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Suno Bali Sakina ki kahaani
+  Suno Bali Sakina ki kahani
 
   1
-  Sheh-e-dein ki yateema ki kahaani
-  Husain ibn-e-Ali ki ladli thi
-  Sukun-e-qalb-e-Sarwar thi woh bachi
-  Namaz-e-shab mein jis ko maangte the
+  Sheh-e-dein ki yateema ki kahani
+  Hussain ibn-e-Ali ki ladli thi
+  Sakoon-e-qalb-e-Sarwar thi woh bachi
+  Namaz-e-shab mein jis ko mangtay they
 
   2
-  Jise Shabbir be had chahtey the
-  Juda hotey na the beti se Maula
+  Jisay Shabeer be had chahtey they
+  Juda hotey na they beti se Maula
   Tha masooma ka bistar sheh ka seena
   Bin-e-Zahra pe thi rab ki inayat
 
@@ -33,10 +33,10 @@ romanLyrics: |-
   Azadaro! howa ik din phir aisa
 
   4
-  Para Shabbir ko Yasrab se jana
+  Para Shabeer ko Yasrab se jana
   Pata thi shah-e-deein ko yeh haqeeqat
   Sar-e-Karb-o-Bala hogi shahadat
-  Bina beti ke jee saktay na the woh
+  Bina beti ke jee saktay na they woh
 
   5
   Safar mein sath oss ko le gaye woh
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Sada-e-al-atash thi Karbala mein
-  Yeh kehte the ossay bachay Haram ke
+  Yeh kehte they ossay bachay Haram ke
   Humein pani dila dijay chacha se
   Magar tha jaan bulb shashmaha Asghar
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   9
   Chacha our bhaiyon ke bikhrey lashay
   Ossi ik din mein oss ke Baba jaan ne
-  Bahatar lashay maqtal mein uthaaye
+  Bahatar lashay maqtal mein uthaye
   They ban mein reh gaye tanha jo Maula
 
   10
@@ -75,14 +75,14 @@ romanLyrics: |-
   Shaqi ne sheh pe phir khanjar chalaya
 
   11
-  Sar-e-Shabbir naizay par charhaya
-  Alam Sham-e-Ghareebaan ke siwa the
+  Sar-e-Shabeer naizay par charhaya
+  Alam Sham-e-Ghareebaan ke siwa they
   Jalay Sadaat ke khaimay sitam se
   Luti sab bibiyon ke sar se chadar
 
   12
   Chiney kano se masooma ke gohar
-  Bohat khaaye Sakina ne tamachay
+  Bohat khaye Sakina ne tamachay
   Sahey oss ne musalsal taziyane
   Sada deti thi ammo jaan kahan ho
 
@@ -106,14 +106,14 @@ romanLyrics: |-
 
   16
   Sakina jan Elayya ya bonayya
-  Chaley jab Sham ki janib the qaidi
+  Chaley jab Sham ki janib they qaidi
   Rasan basta, aseera thi woh bachi
   Tamachay marta tha jab sitamgar
 
   17
   Woh gir jati thi munh ke bal zameen par
   Laeen ka hath kuch aisa tha bhari
-  Tamachon se tha khun bachi ka jari
+  Tamachon se tha khoon bachi ka jari
   Tarap kar barha yaad-e-padar mein
 
   18
@@ -135,7 +135,7 @@ romanLyrics: |-
   Sar-e-Baba ko seene se lagaye
 
   21
-  Sakina chal basi zindaan mein haaye
+  Sakina chal basi zindaan mein haye
 ---
 
 سنو بالی سکینہ کی کہانی

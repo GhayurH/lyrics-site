@@ -1,7 +1,7 @@
 ---
 title: "سوچتے تھے یہ مقتل میں اکبر"
 recitationId: "baba-ko-kaise-bulaun"
-alternateTitle: "Sochte The Ye Maqtal Mein Akbar"
+alternateTitle: "Baba Ko Kaise Bulaauṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -60,10 +60,10 @@ romanLyrics: |-
 ---
 
 سوچتے تھے یہ مقتل میں اکبر
-رن میں بابا کو کیسے بلاؤں
+رن میں بابا کو کیسے بلائوں
 
 پھل ہے برچھی کا سینے کے اندر
-رن میں بابا کو کیسے بلاؤں
+رن میں بابا کو کیسے بلائوں
 
 ۱
 میرے سینے میں ٹوٹی ہے برچھی

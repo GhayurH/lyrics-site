@@ -1,6 +1,6 @@
 ---
 title: "بس مولا بلا لیں"
-alternateTitle: "Bas Maula Bula Lain"
+alternateTitle: "Bas Maula Bula Leṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ published: false
 romanLyrics: |-
   1
   Karbala
-  Roz azadaron ke hum qafilay dekhtey hain Karbala jate hoye, hum ko bhi sarkar bola lijiye
-  Sab ki sada Karbala, sab ki dua Karbala, pocho azadaron se tu sab yeh kahin gay
+  Roz azadaron ke hum qaafile dekhte hain Karbala jate hue, hum ko bhi sarkar bula lijiye
+  Sab ki sada Karbala, sab ki dua Karbala, puchho azadaron se tu sab yeh kahin gay
 
   2
-  Bas Maula bola lein, sun le sadaein, hum ko dikhaein Karb-o-Bala
-  Kash humein Hazrat-e-Abbas bola lein Karb-o-Bala ka humein dedar kara dein
-  Hussain, ya Hussain
+  Bas Maula bula lein, sun le sadaaeṅ, hum ko dikhaein Karb-o-Bala
+  Kaash hameṅ Hazrat-e-Abbas bula lein Karb-o-Bala ka hameṅ didaar kara dein
+  Husain, ya Husain
   Karb-o-Bala jane azadar hai
 
   3
@@ -34,14 +34,14 @@ romanLyrics: |-
 
   5
   Loag wohi jate hain Karb-o-Bala
-  Ghazi bola lo humein roza dikha do humein
+  Ghazi bula lo hameṅ roza dikha do hameṅ
   Hum tu bas ab tum se hi faryad karein gay
   Ab bhi croron hain mohib aap ke
 
   6
   Karb-o-Bala jo ke nahi aa sakay
   Dil mein ziyaraat ki hasrat liye
-  Kehte hain Maula humein bulwaiye
+  Kehte hain Maula hameṅ bulwaiye
   Ya Shah-e-Karb-o-Bala, unn ki bhi sun lo sada
 
   7
@@ -72,19 +72,19 @@ romanLyrics: |-
   Yaad rakhein gay yeh tumhare ghulam
   Aap se wadah raha, aaein gay jab Karbala
   Aa ke salam aap ko so bar karein gay
-  Aana hai hum ko ya Hussain aana hai hum ko
+  Aana hai hum ko ya Husain aana hai hum ko
 
   12
   Haan ganjay shaheedan pe haan nehar-e-Alqama pe
-  Aana hai hum ko ya Hussain aana hai hum ko
+  Aana hai hum ko ya Husain aana hai hum ko
   Haan aana hai hum ko maqam-e-Kaf-e-Abbas
   Haan khaima e Sadaat
 
   13
-  Aana hai hum ko ya Hussain aana hai hum ko
+  Aana hai hum ko ya Husain aana hai hum ko
   Haan maqam-e-ali Asghar, haan maqam-e-ali Akbar
   Woh Roza-e-Shabbir, woh Roza-e-Abbas
-  Hum sab ki hai yeh aas, bas Maula bola lein
+  Hum sab ki hai yeh aas, bas Maula bula lein
 ---
 
 ۱

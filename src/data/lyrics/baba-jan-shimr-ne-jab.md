@@ -11,26 +11,26 @@ published: false
 romanLyrics: |-
   Baba
   Main akeli andhera woh dasht-e-bala
-  Jal gae khaime kurta mera jal gaya
+  Jal gay kheme kurta mera jal gaya
   Phir meri samt ko ek zalim barha
   Main larazne lagee dil dharakne laga
-  Usne kaanoṅ se nochee mere baaliya
-  Kaan kay khun se kurta mera tar hua
+  Usne kaano say nochee mere baaliya
+  Kaan kay khoon se kurta mera tar huwa
   Usne mun pe tamacha lagaya mere
-  Main sambhal na saki gir gai khak pe
+  Main sambhal na saki gir gayee khak pe
   Phir main chillay ro kay chacha Abbas
   Shimr mujhe maar raha hai
   Meri madad ko koi na aya
   Baba main roti reh gaye
 
   Baba jan kia main kahun kia na khun ranj-o-alam
-  Shaam-e-ghum haal-e-safar sham kay zindan kay sitam
+  Sham-e-ghum haal-e-safar sham kay zindan kay sitam
   Apne ghum tum bhi sunao
   Apne ghum main bhi sunao
 
   1
   Baba jan Shimr ne jab maare tamache mun per
-  Baaliya kheche meri kurta hua khun main tar
+  Baaliya kheche meri kurta huwa khoon main tar
   Baba jan dekho zara neelay hain rukhsaar mere
   Kia yateemo pe sitam karta hai yun koi bashar
   Shimr ko dekh kay main khouf se tharrati hun
@@ -50,7 +50,7 @@ romanLyrics: |-
   Baba jan dekhna kia sun bhi na pao gay bayan
   Mere rukhsar pe zalim ki anghooti kay nishan
   Baba jan tum bhi mujhe ab nahi pehchano gay
-  Khaak baalo main lahoo kaanoṅ se ab tak hain rawaan
+  Khaak baalo main lahoo kaano say ab tak hain rawaan
   Sabar har ghum pay magar kese kia mujh se suno
   Teraa soo meel safar kesa kia mujh se suno
 

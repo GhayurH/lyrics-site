@@ -1,6 +1,6 @@
 ---
-title: "بتول کے آنسو فاطمہ لاڈک"
-alternateTitle: "Batool Ke Aansoo Fatemah Ladak"
+title: "بتول کے آنسو"
+alternateTitle: "Batul Ke Aaṅsu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kafan mein dekhey hain oss ne Batool ke aanso
-  Ali ko bholein gay kaisay Batool ke aanso
-  Madine walon ke majmay mein ro rahi thi Batool
-  Woh hans ke dekh rahe they Batool ke aanso
-  Ali Wali ke galay mein rasan jo dekhi thi
-  Lehad mein kis tarha ruktay Batool ke aanso
+  Kafan mein dekhe hain us ne Batul ke aaṅsu
+  Ali ko bhuleṅ gay kaise Batul ke aaṅsu
+  Madine walon ke majme mein ro rahi thi Batul
+  Wo hans ke dekh rahe the Batul ke aaṅsu
+  Ali Wali ke gale mein rasan jo dekhi thi
+  Lahad mein kis tarah rukte Batul ke aaṅsu
 
   2
-  Tumhein Sakina ke aanso bhi dekhney hoon gay
-  Hussain dekh lo pehle Batool ke aanso
+  Tumhein Sakina ke aaṅsu bhi dekhney hoon gay
+  Hussain dekh lo pehle Batul ke aaṅsu
   Hai rota aaj bhi parday mein barhwan Haider
-  Ossay kabhi nahi bholay Batool ke aanso
-  Tamacha kha ke giri jis ghari zameen pe Batool
-  Hasan ne ponchey they barh ke Batool ke aanso
+  Ossay kabhi nahi bholay Batul ke aaṅsu
+  Tamacha kha ke giri jis ghari zameen pe Batul
+  Hasan ne ponchey the barh ke Batul ke aaṅsu
 
   3
-  Woh hath maltay they jeetay jee apni ghurbat pe
-  Ali pe itnay giraan they Batool ke aanso
+  Wo hath maltay the jeetay jee apni ghurbat pe
+  Ali pe itnay giraan the Batul ke aaṅsu
   Ali Wali ki wilayat na chupney dein gay kabhi
-  Karein gay roshni aisay Batool ke aanso
+  Karein gay roshni aisay Batul ke aaṅsu
   Duaein deta hai romal-e-Fatima bhi Muhib
-  Hain tu ne aisay sametay Batool ke aanso
+  Hain tu ne aisay sametay Batul ke aaṅsu
 ---
 
 ۱

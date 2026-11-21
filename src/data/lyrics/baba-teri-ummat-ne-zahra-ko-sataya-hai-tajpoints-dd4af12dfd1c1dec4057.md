@@ -1,6 +1,6 @@
 ---
 title: "بابا تیری امت نے زہرا کو ستایا ہے"
-alternateTitle: "Baba Teri Ummat Ne Zehra Ko Sataaya Hai"
+alternateTitle: "Baba Teri Ummat Ne Zahra Ko Sataya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baba teri ummat ne Zehra ko sataaya hai
+  Baba teri ummat ne Zahra ko sataya hai
   Har gaam rulaya hai dil mein dukhaya hai
-  Jis dar pe mere baba tum aate the us dar ko
+  Jis dar pe mere baba tum aate the oss dar ko
   Ummat ke ameeron ne tora hai jalaya hai
 
   2
-  Ye kaise musalmaan hain kalma tera parhte hain
-  Lekin teri beti ka haq chhin ke khaya hai
+  Yeh kaise musalmaan hain kalma tera parhte hain
+  Lekin teri beti ka haq cheen ke khaya hai
   Main bint-e-payamber hoon woh janta hai phir bhi
   Zalim ne mujhe baba darbar bulaya hai
 
   3
   Pocho gaye nahi mera kyun pehlu shikasta hai
-  Ummat ne teri mujh pe darwaaza giraya hai
+  Ummat ne teri mujh pe darwaza giraya hai
   Yasir kaha bibi ne ummat ne teri baba
-  Tauhin meri ki hai dil mera dukhaya hai
+  Toheen meri ki hai dil mera dukhaya hai
 ---
 
 ۱

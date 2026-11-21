@@ -1,6 +1,6 @@
 ---
 title: "بابا تیرے باجھ سکینہ نوں کیہڑا لوریاں نال سلاوے گا"
-alternateTitle: "Baba Tere Baaj Sakina Nu Kehra Loriyaaṅ Naal Sulaave Ga"
+alternateTitle: "Baba Tere Baaj Sakina Nu Kera Loriyaan Naal Sulaway Ga"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -8,13 +8,13 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Baba tere baaj Sakina nu kehra loriyaaṅ naal sulaave ga
-  Kai din toṅ pyaasi baithi aan mainu paani kaun pilaway ga
+  Baba tere baaj Sakina nu kera loriyaan naal sulaway ga
+  Kai din ton pyaasi baithi aan mainu paani kon pilaway ga
 
   1
-  Jadon baba jag toṅ tur jaave naa apna yaad na rehnda ae
-  Koi dhi baaghi di aakhe te koi choti qaidan kehnda ae
-  Mere asli naam Sakina toṅ hun mainu kaun bulavay ga
+  Jadon baba jag ton tur javay naa apna yaad na rehnda ey
+  Koi dhi baaghi di aakhay tay koi choti qaidan kehnda ey
+  Mere asli naam Sakina ton hun mainu kon bulavay ga
 
   2
   Ey Shaam da safar hai sir nangay tai mein Zehra di itrat haan
@@ -22,18 +22,18 @@ romanLyrics: |-
   Zainab day vangoon mainu vi chader da dard satavay ga
 
   3
-  Mei darni aan kay ae zalim mere veer nu qatal na ker dayvan
+  Mei darni aan kay ey zalim mere veer nu qatal na ker dayvan
   Ey deen day baaghi ik vaari mainu fayr yateem na ker dayvan
-  Mei jaag kay pehray dayvan gi Sajjad jadon so jaave ga
+  Mei jaag kay pehray dayvan gi Sajjad jadon so javay ga
 
   4
-  Hun samhaj gaee kyun kehndiyan san phupian na mashak puva aenu
-  Dariya tai tor na chachay nu na aeda alam phara aenu
-  Na bhaij Sakina Ghazi nu tera pyu kala reh jaave ga
+  Hun samhaj gaee kyun kehndiyan san phupian na mashak puva eynu
+  Dariya tai tor na chachay nu na eyda alam phara eynu
+  Na bhaij Sakina Ghazi nu tera pyu kala reh javay ga
 
   5
-  Chavan naal jeriaan paeeaan san jinu chum kay tu paea janaa aen
-  Ey tofa teri shafqat da jera akhian day nal lana aen
+  Chavan naal jeriaan paeeaan san jinu chum kay tu peya janaa eyn
+  Ey tofa teri shafqat da jera akhian day nal lana eyn
   Tera qatil tere baad mere kan cheer kay vaalian laavay ga
 ---
 

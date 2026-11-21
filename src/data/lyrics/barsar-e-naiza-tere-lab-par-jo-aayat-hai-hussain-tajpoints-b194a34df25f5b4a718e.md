@@ -1,6 +1,6 @@
 ---
 title: "بر سرِ نیزہ تیرے لب پر جو آیت ہے حسین"
-alternateTitle: "Barsar-e-Naiza Tere Lab Par Jo Aayat Hai Hussain"
+alternateTitle: "Bar Sar-e-Neza Tere Lab Par Jo Aayat Hai Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ poet: "Shahi"
 aliases: []
 published: false
 romanLyrics: |-
-  Barsar-e-naiza tere lab par jo aayat hai Hussain
-  Do jahan ki aaj hairat mein samaat hai Hussain
+  Bar sar-e-neza tere lab par jo aayat hai Husain
+  Do jahan ki aaj hairat mein samaat hai Husain
 
   1
-  Hai sharaf tera tu hai ibn-e-Ali Mustafa
-  Zikar youn tera bhi aik ain ibadat hai Hussain
+  Hai sharaf tera to hai ibn-e-Ali Mustafa
+  Zikr yuṅ tera bhi aik ain ibadat hai Husain
   Aik shashmahe ne kata hans ke baiat ka gala
-  Tere khon ka maujza hai ya shujat hai Hussain
+  Tere khun ka mojiza hai ya shujaat hai Husain
 
   2
   Alqama ko dedi qadmo mein jagah Abbas ne
-  Aik pyase ka yeh andaz-e-sakhawat hai Hussain
+  Aik pyase ka yeh andaz-e-sakhawat hai Husain
   Sham wale kis tarha rukte bhala maidan mein
-  Bhagne ki jab unhein pehle se adat hai Hussain
+  Bhagne ki jab unhein pehle se adat hai Husain
 
   3
   Bhaij do ab parda-e-ghaibat se waris deen ka
-  Har taraf phaili hoi phir se jahalat hai Hussain
-  Saat betay pa ke rahib ne qaseeda youn parha
-  Sab se aala dahar mein teri inayat hai Hussain
+  Har taraf phaili hoi phir se jahalat hai Husain
+  Saat betay pa ke rahib ne qaseeda yuṅ parha
+  Sab se aala dahar mein teri inayat hai Husain
 
   4
-  Minbaron se baichta hai jo tumhare zikar ko
-  Ba-khuda oss shaks pe Allah ki lanat hai Hussain
+  Minbaron se baichta hai jo tumhare zikr ko
+  Ba-khuda us shakhs pe Allah ki lanat hai Husain
   Dekh le yeh zindagi mein tere Mehdi ka zahoor
-  Dil mein Shahi ke basi bas itni chahat hai Hussain
+  Dil mein Shahi ke basi bas itni chahat hai Husain
 ---
 
 بر سرِ نیزہ تیرے لب پر جو آیت ہے حسین

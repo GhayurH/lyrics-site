@@ -1,6 +1,6 @@
 ---
 title: "بازار دسدے رہے شام نیڑے آؤندی رہی"
-alternateTitle: "Bazar Disday Ray Sham Neray Aoundi Rayi"
+alternateTitle: "Baazaar Disde Rahe Shaam Nere Aaundi Rahi"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,38 +10,38 @@ reciter: "Asghar Khan"
 aliases: []
 published: false
 romanLyrics: |-
-  Bazar disday ray Sham neray aoundi rayi
-  Qadam qadam te ridawaan di aas jandi rayi
+  Baazaar disde rahe Shaam nerahe aaundi rahei
+  Qadam qadam te ridaavaaṅ di aas jandi rahei
 
   1
   Sajjad tainu bachawan che chadraan lagiyaan
-  Meri Sakina de kana di waliyaan lagiyaan
-  Beemar lal nu aye aakh ke jagandi rayi
+  Meri Sakina de kana di waaliyaaṅ lagiyaan
+  Beemar lal nu aye aakh ke jagandi rahei
 
   2
-  Na kidray Sham-e-Ghareebaan de marey mar jawan
+  Na kidrahe Shaam-e-Ghareebaan de marey mar jawan
   Aye soch rondi si Zainab na baal dar jawan
-  Siffeen Ghazi di safraan de wich sunaondi rayi
+  Siffeen Ghazi di safraan de wich sunaondi rahei
 
   3
   Aseer banwaan ne walaan ne chehra kajiya aye
   Ajeeb haal che waqif bhira da miliya aye
-  Oh apne aap nu Mukhtar taun chupaondi rayi
+  Oh apne aap nu Mukhtar taun chupaondi rahei
 
   4
   Farz Hussain te Abbas de nibhaye ne
   Dittay ne pehrey onay khutbay v sunaye ne
-  Bhira nu rondi te Abid nu v bachaondi rayi
+  Bhira nu rondi te Abid nu v bachaondi rahei
 
   5
-  Oh Sham rahwaan de jis shehar wich v janday san
+  Oh Shaam rahwaan de jis shehar wich v janday san
   Aye kalma gowaan di basti aye jan lainday san
-  Jadon v pathraan di barish siraan te aaondi rayi
+  Jadon v pathraan di barish siraan te aaondi rahei
 
   6
-  Madine waliyaan Zahra da maan na rakhiya
-  Aye Sham walay kiwein maan rakhday Zainab da
-  Aye oho peshi si Akbar jo dhi nibhandi rayi
+  Madine waaliyaaṅ Zehra da maan na rakhiya
+  Aye Shaam walay kiven maan rakhday Zainab da
+  Aye oho peshi si Akbar jo dhi nibhandi rahei
 ---
 
 بازار دسدے رہے شام نیڑے آؤندی رہی

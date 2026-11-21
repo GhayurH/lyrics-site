@@ -1,6 +1,6 @@
 ---
 title: "بابا یہ مسلمان مجھے رونے نہیں دیتے"
-alternateTitle: "Baba Ye Musalmaan Mujhe Rone Nahiṅ Dete"
+alternateTitle: "Baba Yeh Musalmaan Mujhe Rone Nahi Detey"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Baba ye musalmaan mujhe rone nahiṅ dete
-  Maatam tera zindaan mein hone nahiṅ dete
+  Baba yeh musalmaan mujhe rone nahi detey
+  Matam tera zindan mein hone nahi detey
 
   1
-  Bistar tera seena tha jise chhin liya hai
-  Ab god mein maadar ki bhi hone nahiṅ dete
-  Ehsaas-e-yateemi mujhe zindaan mein hua hai
-  Main khaak pe soti huṅ to sone nahiṅ dete
+  Bistar tera seena tha jisay cheen liya hai
+  Ab gaud mein madar ki bhi hone nahi detey
+  Ahsas-e-yateemi mujhe zindaan mein howa hai
+  Main khak pe soti hon tu sone nahi detey
 
   2
-  Thak jate hain Sajjad to Baba tere qatil
-  Beemar mere bhai ko sone nahiṅ dete
+  Thak jate hain Sajjad tu Baba tere qatil
+  Beemar mere bhai ko sone nahi detey
   Mar jaon gi zindaan ke andheron mein sisakti
-  Ik kirn ujalay ki ye hone nahiṅ dete
+  Ik kirn ujalay ki yeh hone nahi detey
 
   3
   Gash aate hain Sajjad ko paon mein hain chalay
-  Beemar ko chaon mein ye hone nahiṅ dete
+  Beemar ko chaon mein yeh hone nahi detey
   Haye aag ki manind hain Sajjad ke zewar
-  Zanjeer juda tan se ye hone nahiṅ dete
+  Zanjeer juda tan se yeh hone nahi detey
 
   4
   Be-parda Nabi zadi hain bazu khuley hain
-  Kiun band ye baazaaroṅ ko hone nahiṅ dete
+  Kyun band yeh bazaron ko hone nahi detey
   Sardar chaley le ke jo Sajjad janaza
-  Shamil ye janaaze mein bhi hone nahiṅ dete
+  Shamil yeh janazay mein bhi hone nahi detey
 ---
 
 بابا یہ مسلمان مجھے رونے نہیں دیتے

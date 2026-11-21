@@ -1,6 +1,6 @@
 ---
 title: "بازار اچ رو رو کے لوکو بیمار صدا دیوے"
-alternateTitle: "Bazar Ich Ro Ro Ke Loko Bemar Sada Deway"
+alternateTitle: "Baazaar Ich Ro Ro Ke Loko Bimaar Sada Deve"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,23 +9,23 @@ poet: "Asghar Khan"
 aliases: []
 published: false
 romanLyrics: |-
-  Bazar ich ro ro ke loko bemar sada deway Asghar Khan
-  Meri bhain Sakina mar gayi aye dafnan layi mainu koi qabar di ja deway
+  Baazaar ich ro ro ke loko bimaar sada deve
+  Meri bhain Sakina mar gayi ae dafnan layi mainu koi qabr di ja deve
 
   1
   Zindan diyaan sekhaan ainu jondiyaan mar gayiyaan
-  Ainu kafan pawawan layi koi haye qaidan phophiyaan di koi pak rida deway
-  Babay choon sikdi rayi wich Sham bazaraan de
-  Hun rondi nayi chup kar gayi aye koi babay de sir da dedar kara deway
+  Ainu kafan pawawan layi koi hae qaidan phophiyaan di koi pak rida deve
+  Babe choon sikdi rayi wich Shaam bazaraan de
+  Hun rondi naiṅ chup kar gayi ae koi babay de sir da dedar kara deve
 
   2
   Phophiyaan de hissay de jehri pathar khandi rayi
-  Aj so gayi aye kyun uthdi nayi koi aakho babay nu ainu aan jaga deway
-  Tere karam diyaan chawaan mere sir te rehn sada
-  Oss sharmaan wali sain kolon ro ro Asghar mangda aye ainu khas atta deway
+  Aj so gayi ae kyun uthdi naiṅ koi aakho babay nu ainu aan jaga deve
+  Tere karam diyaan chhaavaaṅ mere sir te rehn sada
+  Oss sharmaan wali sain kolon ro ro Asghar mangda ae ainu khas atta deve
 ---
 
-بازار اچ رو رو کے لوکو بیمار صدا دیوے اصغر خان
+بازار اچ رو رو کے لوکو بیمار صدا دیوے
 میری بھین سکینہ مر گئی اے دفنان لئی مینوں کوئی قبر دی جا دیوے
 
 ۱

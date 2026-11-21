@@ -1,6 +1,6 @@
 ---
 title: "بعدِ عاشور اصغر کی ماں خالی جھولا جھلاتی رہی"
-alternateTitle: "Baad-e-Aashur Asghar Ki Maaṅ Khaali Jhula Jhulaati Rahi"
+alternateTitle: "Baad-e-Ashor Asghar Ki Maa Khali Jhola Jhulati Rahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,26 +8,26 @@ kalamType: "Other"
 aliases: []
 published: false
 romanLyrics: |-
-  Baad-e-Aashur Asghar ki maaṅ khaali jhula jhulaati rahi
-  Aur tasavvur mein be-sheer ko ro ke lori sunati rahi
+  Baad-e-Ashor Asghar ki maa khali jhola jhulati rahi
+  Our tasawur mein be-sheer ko ro ke lori sunati rahi
 
   1
-  Raat kaafi hui laadle maaṅ bulati hai Asghar tujhe
-  Thi khabar ab nahi aaye ga kyun ke maaṅ thi bulati rahi
+  Raat kafi hoi ladlay maa bulati hai Asghar tujhe
+  Thi khabar ab nahi aaye ga kyun ke maa thi bulati rahi
   Iss andheray biyaban mein dar na jao kahin Meh Laka
-  Dar se khaime ki maaṅ noha gar yeh sadaaeṅ lagati rahi
+  Dar se khaimay ki maa noha gar yeh sadaein lagati rahi
 
   2
   Apne khaime mein roti rahi qatal-e-Asghar pe Ashgar ki maa
-  Aur foaj-e-sitamgar wahan khoob khushiyaan manati rahi
-  Jane kis ki nazar lag gayi meri aagosh khaali hui
-  Dekh kar kokh ujari hui Bano aanso bahati rahi
+  Our foaj-e-sitamgar wahan khoob khushiyaan manati rahi
+  Jane kis ki nazar lag gayi meri aagosh khali hoi
+  Dekh kar kokh ujari hoi Bano aanso bahati rahi
 
   3
   Kya kare qaid hai ghamzada apne masoom be-sheer ki
-  Lash naizay pe atki hui dekh kar thar tharati rahi
+  Lash naizay pe atki hoi dekh kar thar tharati rahi
   Kaisi mamta hai, Yasir Raza, saye mein na gayi ghamzada
-  Banoye khasta dil dhup mein umar apni bitati rahi
+  Banoye khasta dil dhop mein umar apni bitati rahi
 ---
 
 بعدِ عاشور اصغر کی ماں خالی جھولا جھلاتی رہی

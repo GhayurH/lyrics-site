@@ -1,6 +1,6 @@
 ---
 title: "بس وہ حسین ہے"
-alternateTitle: "Bas Woh Hussain Hai"
+alternateTitle: "Bas Wo Husain Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,15 +14,15 @@ romanLyrics: |-
   Elan jis ki jeet ka karti hai yeh azaan
 
   1
-  Aisa kkhuda parast nahi kaayenaat mein
-  Toheed ki jo baat kere baat baat mein
-  Noke sinaan bana day jo guldasta-e-azaan
-  Khaimay mein baantta hai jo nuskhay nijaat ke
+  Aisa Khuda parast nahiṅ kaainaat mein
+  Tauhid ki jo baat kare baat baat mein
+  Nok-e sinaaṅ bana day jo guldasta-e-azaan
+  Khaime mein baantta hai jo nuskhay nijaat ke
 
   2
   Heeron ko jis ne parkhaa andheray mein raat ke
   Jis ke bujhe chairag se roshan hai do jahan
-  Aisa nahi hai koi zamane mein den panah
+  Aisa nahiṅ hai koi zamane mein den panah
   Qaim usi ki laa se hai duniya mein lailah
 
   3
@@ -33,21 +33,21 @@ romanLyrics: |-
 
   4
   Hal min pukarnay lagey jab shah-e-mashreqain
-  Aawaz di saghir ne labaik ya Hussain
+  Aawaz di saghir ne labaik ya Husain
   Jis ki zuban samjhta hai jhulay mein be-zubaan
   Jis ne jabeen-e-waqt pay daali hain silwatein
 
   5
-  Toofan jis ki pyaas pay laita hai karvatein
+  Tufaan jis ki pyaas pay laita hai karvatein
   Jis ke diye se chalti hain katra ke aandhiyan
-  Jo bakhash day khataien woh ghafar hai yahi
+  Jo bakhash day khataaeṅ woh ghafar hai yahi
   Jo aib ko chhupa day woh sitaar hai yahi
 
   6
   Hur se gunahgaar ko deta hai jo ammaan
-  Ehley zamana door na jao yahin raho
+  Ahl-e- zamana door na jao yahin raho
   Mukhtar aur Mir Takallum ko dekh lo
-  Gurbat mein baantta hai jo duniya ko shahiyan
+  Gurbat mein baantta hai jo duniya ko shaahiyaaṅ
 ---
 
 اسلام کی رگوں میں ہے جس کا لہو رواں

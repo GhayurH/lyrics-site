@@ -1,14 +1,15 @@
 ---
 title: "اے حر کسے ملی یہ شہادت کی زیب و زین"
 recitationId: "bas-ya-hussain"
-alternateTitle: "Bas Ya Husain"
+alternateTitle: "Ae Hurr Kise Mili Ye Shahadat Ki Zeb o Zain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
-aliases: []
+aliases: ["Bas Ya Husain"]
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 published: true
 romanLyrics: |-
   Ya Husain, ya Husain, ya Husain, ya Husain
@@ -16,7 +17,7 @@ romanLyrics: |-
   Husain
   Husain ya Husain, Husain ya Husain
   Husain ya Husain, ya Husain
-  Ae Hur kise mili ye shahaadat ki zeb o zain
+  Ae Hur kise mili ye shahadat ki zeb o zain
   Baali pe tere aayiṅ haiṅ khud maadar-e-Husain
   Is martabe ke baad to sab tujh ko mil gaya
   Ae Hur Husain mil gaye Rab tujh ko mil gaya
@@ -123,7 +124,6 @@ romanLyrics: |-
   Le ke naam-e-Husain rota hai
   Us ko Zehra salaam karti haiṅ
   Husain ya Husain, Husain ya Husain, Husain ya Husain
-reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 
 یاحسینؑ’یاحسینؑ’یاحسینؑ’یاحسینؑ

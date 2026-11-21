@@ -1,6 +1,6 @@
 ---
 title: "بے کفن جنازیاں صف بن لئی"
-alternateTitle: "Sajjad Parhawan Aaya Babay Diyan Panj Takbiraan"
+alternateTitle: "Be Kafan Janaazeyaaṅ Saf Ban Lai"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,13 +10,13 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Be kafan janazeyaan saf ban layi, lakh rokeya naizeyaan teeraan
-  Sajjad parhawan aaya ae, Babay diyaan panj takbiraan
+  Be kafan janaazeyaaṅ saf ban layi, lakh rokeya nezeyaaṅ tiraaṅ
+  Sajjad parhawan aaya ae, Babe diyaan panj takbiraan
 
   1
   Pehli takbir janazay di, kujh hamd hoi kujh wain ae
-  Sajjad kiya Mabood tere iss abd da naam Hussain ae
-  Tu wahdahu te ho gaya aeṅ, aidhi luttiyaan kul jageeraan
+  Sajjad kiya Mabood tere iss abd da naam Husain ae
+  Tu wahdahu te ho gaya aeṅ, aidhi luttiyaan kul jagiraaṅ
 
   2
   Duji takbir ch Abid ne kiya, lai Nanay da naam ae
