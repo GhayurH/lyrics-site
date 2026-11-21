@@ -1,5 +1,6 @@
 ---
 title: "تجھے جھولا جھلاؤں"
+alternateTitle: "Tujhe Jhula Jhulaun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,56 +9,56 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Tujhe jhula jhulaa'uṅ main tujhe jhula jhulaa'uṅ
-  Main khwaab mein Asghar tujhe lori bhi sunaa'uṅ
+  Tujhe jhula jhulaun main tujhe jhula jhulaun
+  Main khwab mein Asghar tujhe lori bhi sunaun
 
   1
-  Phuloṅ se bhi naazuk ye tera simiṅ badan hai
-  Suraj ki tapish se main tujhe kaise bachaa'uṅ
+  Phulon se bhi naazuk ye tira simin badan hai
+  Suraj ki tapish se main tujhe kaise bachaun
 
   2
-  Khud chal ke tu maidaan mein jaa bhi nahiṅ sakta
-  Kis tarah tera naam shahidoṅ mein likhaa'uṅ
+  Khud chal ke tu maidan mein ja bhi nahi sakta
+  Kis tarah tira naam shahidon mein likhaun
 
   3
   Jo bhi gaya maqtal mein na phir laut ke aaya
-  Kuchh der thahar jaa main tujhe sine lagaa'uṅ
+  Kuchh der thahar ja main tujhe seene lagaun
 
   4
-  Qad se bhi bara tir tera chhota gala hai
-  Kya main karuṅ tadbir tujhe kaise bachaa'uṅ
+  Qad se bhi bara teer tira chhota gala hai
+  Kya main karun tadbeer tujhe kaise bachaun
 
   5
-  Dobara tujhe koi kahiṅ qatl na kar de
-  Darti huṅ ke kaise main teri laash chhupaa'uṅ
+  Dobara tujhe koi kahin qatl na kar de
+  Darti hun ke kaise main tiri laash chhupaun
 
   6
-  Nanhi si lahad bhi teri kya khushk rahe gi
-  Paani to nahiṅ paas main aaṅsu hi giraa'uṅ
+  Nanhi si lahad bhi tiri kya khushk rahegi
+  Paani to nahin paas main aansu hi giraun
 
   7
   Dil zakhmi jigar zakhmi meri ruh bhi zakhmi
-  Khuṅ aaṅkhoṅ se barsa ke teri yaad manaa'uṅ
+  Khun aankhon se barsa ke tiri yaad manaun
 
   8
-  Rizwaan se Naasir se kaheṅ Maadar-e-Asghar
-  Is nauhe ko sunne main teri lahad mein aa'uṅ
+  Rizwan se Nasir se kahen Madar-e-Asghar
+  Is nohe ko sunne main tiri lahad mein aaun
 
   9
-  Maaṅ tarpe gi jab yaad teri aaye gi beta
-  Ab kaun sahaara hai mera mar hi main jaa'uṅ
+  Maan tarpegi jab yaad teri aayegi beta
+  Ab kaun sahara hai mira mar hi main jaun
 
   10
-  Ik pal bhi mujhe tere bina chain nahiṅ hai
-  Main apna ye dukh kaise in aaṅkhoṅ mein samaa'uṅ
+  Ik pal bhi mujhe tere bina chain nahin hai
+  Main apna ye dukh kaise in aankhon mein samaun
 
   11
-  Armaan raha dil mein ke maaṅ keh ke pukaare
-  Dil phatta hai mera main ise kaise manaa'uṅ
+  Arman raha dil mein ke maan keh ke pukare
+  Dil phatta hai mera main ise kaise manaun
 
   12
-  Paani ke liye baaba tujhe le ke chale haiṅ
-  Mil jaaye agar mujh ko teri pyaas bujhaa'uṅ
+  Paani ke liye Baba tujhe le ke chale hain
+  Mil jaye agar mujh ko tiri pyaas bujhaun
 ---
 
 تجھے جھولا جھلاؤں میں تجھے جھولا جھلاؤں
@@ -80,7 +81,7 @@ romanLyrics: |-
 کیا میں کروں تدبیر تجھے کیسے بچاؤں
 
 ۵
-دو بارہ تجھے کوئی کہیں قتل نہ کر دے
+دوبارہ تجھے کوئی کہیں قتل نہ کر دے
 ڈرتی ہوں کہ کیسے میں تِری لاش چھپاؤں
 
 ۶
@@ -96,17 +97,17 @@ romanLyrics: |-
 اِس نوحے کو سُننے مَیں تِری لحد مِیں آؤں
 
 ۹
-۔۔۔۔۔ماں تڑپے گی جب یاد تیری آئے گی بیٹا
-۔۔۔۔۔اب کون سہارا ہے مِرا مر ہی میں جاؤں
+ماں تڑپے گی جب یاد تیری آئے گی بیٹا
+اب کون سہارا ہے مِرا مر ہی میں جاؤں
 
 ۱۰
-۔۔۔۔۔اِک پل بھی مجھے تیرے بِنا چین نہیں ہے
-۔۔۔۔۔میں اپنا یہ دکھ کیسے ان آنکھوں میں سماؤں
+اِک پل بھی مجھے تیرے بِنا چین نہیں ہے
+میں اپنا یہ دکھ کیسے ان آنکھوں میں سماؤں
 
 ۱۱
-۔۔۔۔۔ارمان رہا دل میں کہ ماں کہہ کے پکارے
-۔۔۔۔۔دل پھٹتا ہے میرا میں اِسے کیسے مناؤں
+ارمان رہا دل میں کہ ماں کہہ کے پکارے
+دل پھٹتا ہے میرا میں اِسے کیسے مناؤں
 
 ۱۲
-۔۔۔۔۔پانی کے لئے بابا تجھے لے کے چلے ہیں
-۔۔۔۔۔مِل جائے اگر مجھ کو تِری پیاس بجھاؤں
+پانی کے لئے بابا تجھے لے کے چلے ہیں
+مِل جائے اگر مجھ کو تِری پیاس بجھاؤں
