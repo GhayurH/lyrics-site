@@ -1,37 +1,97 @@
 ---
-title: "Aakhay Rubab Kiwain Jhoolay Nu Mei Jhulavaan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "آکھے رباب کیویں جھولے نوں میں جھلاواں"
+alternateTitle: "Aakhe Rubab Kiven Jhule Nu Main Jhulawan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aakhe Rubab kiven jhule nu main jhulawan
+  Labda nai mera Asghar kiven seene naal lawan
+
+  1
+  Kurta kafan samajh ke Asghar main tenu paana
+  Main jaanani aan Asghar mur ke tu hun nai auna
+  Aakhe Rubab Asghar ese lai main vain pawan
+
+  2
+  Khaime chon jaandi wari Asghar nu godi chaa ke
+  Ro aakhdi Sakina Asghar nu seene la ke
+  Lag jaan veer Asghar mainu teriyan balawan
+
+  3
+  Hondi je Sughra Karbal jaan apni waar dendi
+  Maqtal de paase Sughra Asghar na jaan dendi
+  Paiyan Rubab ro ke Karb o Bala ch hawan
+
+  4
+  Karbal ch ghup hanera mera lal dar na jave
+  Aa seene lag ja Asghar kithe maan vi mar na jave
+  Dhal gayi ae shaam Asghar tenu loriyan sunawan
+
+  5
+  Asghar de gal nu chum ke Shabbir ro peya ae
+  Hurmal da teer kha ke mera lal so gaya ae
+  Hun na koi jagave kis ja qabr banawan
+
+  6
+  Labh jave qabr-e-Asghar deve nai sazawan
+  Asghar de sir nu kadh ke nok-e-sinan charhawan
+  Sutta lal Shah-e-Deen da neza maar ke jagawan
+
+  7
+  Karwat main kiven badlan pehlu ch mera lal ae
+  Lagda ae jiven Asghar zindan ch mere naal ae
+  Zindan chon mainu aawan maan maan diyan sadawan
+
+  8
+  Imran zinda rehna Asghar da gham sada ae
+  Hashmat nu deve Maula es nohe di jaza ae
+  Hove Husain razi ro ro karan duawan
 ---
 
-Aakhay Rubab Kiwain Jhoolay Nu Mei Jhulavaan
-Labda Nai Mera Asghar Kiwain Seenay Naal Laavaan
-Kurta Kafan Samajh Kay Asghar Mei Tainu Paana
-Mein Jaananiaan Asghar Mur Kay Tu Hun Naee Aaouna
-Aakhay Rubab Asghar Eysay Laee Mei Vayn Paavaan
-Khaimay Chon Jaandi Waari Asghar Nu Goudi Chaa Kay
-Ro Aakhdi Sakina Asghar Nu Seenay Laa Kay
-Lag Jaan Veer Asghar Mainu Teriyaan Balavaan
-Hondi Jay Sughra Kerbal Jaan Apni Vaar Dayndi
-Maqtal Day Paasay Sughra Asghar Na Jaan Dayndi
-Paeeyaan Rubab Ro Kay Kerbobala’ch Havaan
-Kerbal’ch Ghup Hanera Mera Laal Dar Na Jaavay
-Aa Seenay Lag Ja Asghar Kithay Maa Vi Mar Na Jaavay
-Dhal Gaee Ey Shaam Asghar Tainu Loriyaan Sunavaan
-Asghar Day Gal Nu Chum Kay Shabeer Ro Peya Ey
-Hurmal Da Teer Khaa Kay Mera Laal Sogaya Ey
-Hun Na Koi Jagaavay Kis Jaa Qabar Banavaan
-Lab Jaavay Qabr-e-Asghar Dayvay Naee Sazavaan
-Asghar Day Sir Nu Kad Kay Nok-e-Sina Charhavaan
-Suta Laal Shah-e-Deen Da Naiza Maar Kay Jagavaan
-Karwat Mei Kiwain Badlaan Pehlu’ch Mera Laal Ey
-Lagda Ey Jiwain Asghar Zindaan’ch Mere Naal Ey
-Zindaan Chon Mainu Aawan Maan Maan Diyaan Sadavaan
-Imran Zinda Rehna Asghar Da Gham Sada Ey
-Hashmat Nu Daiway Moula Eys Nohay Di Jazaa Ey
-Hovay Hussain Raazi Ro Ro Karan Duavaan
+آکھے رباب کیویں جھولے نوں میں جھلاواں
+لبھدا نئیں میرا اصغر کیویں سینے نال لاواں
+
+۱
+کرتا کفن سمجھ کے اصغر میں تینوں پانا
+میں جاننیاں اصغر مڑ کے تُو ہُن نئیں آؤنا
+آکھے رباب اصغر ایس لئی میں وین پاواں
+
+۲
+خیمے چوں جاندی واری اصغر نوں گودی چا کے
+رو آکھدی سکینہ اصغر نوں سینے لا کے
+لگ جان ویر اصغر مینوں تیریاں بلاواں
+
+۳
+ہوندی جے صغریٰ کربل جان اپنی وار دیندی
+مقتل دے پاسے صغریٰ اصغر نہ جان دیندی
+پئیاں رباب رو کے کرب و بلا چ ہاواں
+
+۴
+کربل چ گھپ ہنیرا میرا لال ڈر نہ جاوے
+آ سینے لگ جا اصغر کتھے ماں وی مر نہ جاوے
+ڈھل گئی اے شام اصغر تینوں لوریاں سناواں
+
+۵
+اصغر دے گل نوں چم کے شبیر رو پیا اے
+حرمل دا تیر کھا کے میرا لال سو گیا اے
+ہُن نہ کوئی جگاوے کس جا قبر بناواں
+
+۶
+لبھ جاوے قبرِ اصغر دیوے نئیں سزاواں
+اصغر دے سر نوں کڈھ کے نوکِ سناں چڑھاواں
+سُتّا لال شاہِ دیں دا نیزہ مار کے جگاواں
+
+۷
+کروٹ میں کیویں بدلاں پہلو چ میرا لال اے
+لگدا اے جیویں اصغر زنداں چ میرے نال اے
+زنداں چوں مینوں آون ماں ماں دیاں صداواں
+
+۸
+عمران زندہ رہنا اصغر دا غم سدا اے
+حشمت نوں دیوے مولا ایس نوحے دی جزا اے
+ہووے حسین راضی رو رو کراں دعاواں
