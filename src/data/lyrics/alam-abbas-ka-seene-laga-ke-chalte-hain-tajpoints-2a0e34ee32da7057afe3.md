@@ -1,6 +1,6 @@
 ---
 title: "علمِ عباس کا سینے لگا کے چلتے ہیں"
-alternateTitle: "Alam Abbas Ka Seene Laga Ke Chalte Hain"
+alternateTitle: "Alam-e-Abbas Ka Sine Laga Ke Chalte Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Alam Abbas Ka Seene Laga Ke Chalte Hain
-  Yazidiyat Ke Kalejay Jala Ke Chalte Hain
-  Alam Abbas Ki Tazeem Tu Zarori Hai
-  Alam Ki Rahoon Mein Palkein Bicha Ke Chalte Hain
+  Alam-e-Abbas ka sine laga ke chalte haiṅ
+  Yazidiyat ke kaleje jala ke chalte haiṅ
+  Alam-e-Abbas ki taazim to zaruri hai
+  Alam ki raahoṅ mein palkeṅ bichha ke chalte haiṅ
 
   2
-  Jo Sar Jhukatay Hain Ghazi Teri Ghulami Mein
-  Woh Loag Apne Saron Ko Utha Ke Chalte Hain
-  Tofan Kaisay Na Badlein Gay Rastay Apne
-  Abbas Tum Ko Jo Zamin Bana Ke Chalte Hain
+  Jo sar jhukaate haiṅ Ghazi teri ghulaami mein
+  Wo log apne saroṅ ko utha ke chalte haiṅ
+  Tufaan kaise na badleṅ ge raaste apne
+  Abbas tum ko jo zaamin bana ke chalte haiṅ
 
   3
-  Qaza Se Dartay Nahi Hain Hussain Walay Tu
-  Qaza Ki Aankhon Se Aankhein Mila Ke Chalte Hain
-  Abbas Teri Wafa Se Jinhoon Ne Seekhi Wafa
-  Jahan Ko Tera Alam Woh Dikha Ke Chalte Hain
+  Qaza se darte nahiṅ haiṅ Husain waale to
+  Qaza ki aankhoṅ se aankheṅ mila ke chalte haiṅ
+  Abbas teri wafa se jinhoṅ ne sikhi wafa
+  Jahaan ko tera alam wo dikha ke chalte haiṅ
 
   4
-  Abbas Tere Alam Se Jinhein Adawat Hai
-  Khabees Shajron Se Parday Hata Ke Chalte Hain
-  Hamarey Naqvi Saron Pe Hai Saya Ghazi Ka
-  Garor Khak Mein Unn Ke Mila Ke Chalte Hain
+  Abbas tere alam se jinheṅ adaawat hai
+  Khabis shajroṅ se parde hata ke chalte haiṅ
+  Hamaare Naqvi saroṅ pe hai saaya Ghazi ka
+  Ghurur khaak mein un ke mila ke chalte haiṅ
 ---
 
 ۱

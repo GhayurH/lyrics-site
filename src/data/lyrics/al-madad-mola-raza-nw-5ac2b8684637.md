@@ -1,6 +1,6 @@
 ---
 title: "المدد مولا رضا"
-alternateTitle: "Al Madad Mola Raza"
+alternateTitle: "Al Madad Maula Raza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,33 +8,33 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Al Madad Mola Raza Al Madad Mola Raza
-  Nana Nabi Baba Ali  Dadi Teri Kahrul Nisa
+  Al madad Maula Raza al madad Maula Raza
+  Naana Nabi Baba Ali, Daadi teri Khairun Nisa
 
   1
-  Maskal Tera Mola Raza, Arshay Aula Say Kam Nahi
-  Kehta Rahoonga Umr Bar, Muj Ko Koi Bhi Gham Nahi
-  Kam Nahi Janat Kay Kahno  Say Mola Langar Tera
+  Maskan tera Maula Raza, arsh-e-aala se kam nahiṅ
+  Kehta rahuṅ ga umr bhar, mujh ko koi bhi gham nahiṅ
+  Kam nahiṅ jannat ke khaanoṅ se Maula langar tera
 
   2
-  Zahir Yahan Jo Aye Ga, Wo Karbal Bhi Jaye Ga
-  Mola Hussain Ibn-e-ail, Kay Sath Janat Jaye Ga
-  Bhoolay Nata Zindage  Teray Haram Ka Rasta
+  Zaair yahaaṅ jo aae ga, wo Karbal bhi jaae ga
+  Maula Husain ibn-e-Ali, ke saath jannat jaae ga
+  Bhule na taa zindagi tere haram ka raasta
 
   3
-  Sab Muhkilon Ko Door Kar Alayaba Kay Wastay
-  Sab Ki Mouradain Purie Hon, Muskil Kusha Kay Wastay
-  Aya Hai Nagrie Mai Teri  Bay Kason Ka Kafila
+  Sab mushkiloṅ ko dur kar Aal-e-Aba ke waaste
+  Sab ki muraadeṅ puri hoṅ, Mushkil Kusha ke waaste
+  Aaya hai nagri mein teri bekasoṅ ka qaafila
 
   4
-  Kul Kay Hassan Aj-e-mai Hussaini, Juratey Sajjad Tou
-  Babul Hawij Musa Qazim, Ki Wola Aulad Tou
-  Hal Karo Mushkil Ko Meri  Hai Behan Ka Wasta
+  Kul ke Hasan Ajmi Husaini, jurrat-e-Sajjad tu
+  Baabul Hawaij Musa Kazim, ki waala aulaad tu
+  Hal karo mushkil ko meri hai behen ka waasta
 
   5
-  Kartay Rahen Gai Umr Bar, Matam Mola Shahbeer Ka
-  Aur Shaam Ja Kar Pursa Den, Hum Zainab-e-dilgeer Ka
-  Aur Nahi Kuch Mangta  Iskay Siva Manta Tera
+  Karte raheṅ ge umr bhar, maatam Maula Shabbir ka
+  Aur Shaam jaa kar pursa deṅ, ham Zainab-e-dilgir ka
+  Aur nahiṅ kuchh maangta is ke siwa maṅgta tera
 ---
 
 المدد مولا رضا المدد مولا رضا
