@@ -1,6 +1,6 @@
 ---
 title: "عباس دے لاشے تے زینب کیہہ گئی اے"
-alternateTitle: "Abbas De Lashe Te Zainab Ke Gayi Ae"
+alternateTitle: "Abbas De Lashe Te Zainab Keh Gayi Ae"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,50 +9,50 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas day lashay, tay aye Zainab khe gai ay
-  Tu zeen toun nai lathiya meri chader lay gai ay
+  Abbas de lashe te ae Zainab keh gayi ae
+  Tu zeen ton nai lathiya meri chadar lai gayi ae
 
   1
-  Maqtal ch sada goonji ey
-  Ho qatal Hussain gaya ey
-  Hurn Sham tay derda laee
-  Kali Zainab ry gai ey
+  Maqtal ch sada goonji ae
+  Ho qatal Husain gaya ae
+  Hun Shaam te dardan lai
+  Kalli Zainab reh gayi ae
 
   2
-  Jado vich khaiyam day aaay
-  Abbas day do-vay bazu
-  Shabbir nu gal la kay
-  Khakaaan tay reh gai ay
+  Jadon vich khayyam de aaye
+  Abbas de doven bazu
+  Shabbir nu gal la ke
+  Khakan te reh gayi ae
 
   3
-  Kiwan maqtal ton chup ker ky
-  Lath gai ey ujri Zainab
+  Kiven maqtal ton chup kar ke
+  Lath gayi ae ujri Zainab
   Nai veer nu gal laya
-  Safran vich pay gai ey?
+  Safran vich pai gayi ae
 
   4
-  Baay kafan bahater lashay
-  Her lash da ajab masayub
-  Berdasht na Zainab kitay
-  Har ik toun lay gaii ay
+  Be kafan bahattar lashe
+  Har laash da ajab masaib
+  Bardasht na Zainab keete
+  Har ik ton lai gayi ae
 
   5
-  Teri maut di khabr ne ghazi
-  Menu joondaea maar mukaya
-  Na puch Zainab keevay
-  Es dukhnu sehgayay
+  Teri maut di khabar ne Ghazi
+  Mainu jeondiyan maar mukaya
+  Na puchh Zainab kiven
+  Es dukh nu seh gayi ae
 
   6
-  Maqtal val vaik dee paiyay
-  Roro kay Rubab enj ujri
-  Koi mayngi shay usdi
-  Kerbal vich reh gaii yay
+  Maqtal val vekhdi payi ae
+  Ro ro ke Rubab inj ujri
+  Koi mehngi shai us di
+  Karbal vich reh gayi ae
 
   7
-  Aayee Hasan jado maqtal vich
-  Bay parda dee Zahra dee
-  Bin bazu lash bhira dee
-  Haay tarapdee rehgaii ay
+  Aayi Hasan jadon maqtal vich
+  Be parda dhi Zehra di
+  Bin bazu laash bhira di
+  Haye tarapdi reh gayi ae
 ---
 
 عباس دے لاشے، تے اے زینب کہہ گئی اے
