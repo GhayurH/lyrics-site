@@ -1,5 +1,6 @@
 ---
 title: "اے آفتاب چھپ جا زینبؑ جو بے ردا ہے"
+alternateTitle: "Ae Aaftaab Chhup Ja Zainab Jo Be Rida Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -7,6 +8,29 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ae aaftaab chhup jaa Zainab jo be rida hai
+  Zahra ki laadli ka balwe meiṅ sar khula hai
+
+  1
+  Logo haya karo tum naamus-e-Mustafa ka
+  Baazaar-e-Shaam ka hai Zainab ka sar khula hai
+
+  2
+  Bach jaaye tera parda Zainab kisi tarah se
+  Neze pe tera bhaai Quraaṅ suna raha hai
+
+  3
+  Ham haiṅ durud wale sun lo ae Shaam walo
+  Pota Ali wali ka sab ko bata raha hai
+
+  4
+  Behnoṅ ka sar khula hai shaayad isi wajah se
+  Abbas-e-bawafa ka sar neze se gira hai
+
+  5
+  Ae kalma goyo socho kuchh to haya karo tum
+  Jo zain hai Ali ki us ki chhini rida hai
 ---
 
 اے آفتاب چُھپ جا زینبؑ جو بے ردا ہے

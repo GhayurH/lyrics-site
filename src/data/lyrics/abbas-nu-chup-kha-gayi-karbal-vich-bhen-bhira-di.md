@@ -10,18 +10,18 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas nu chup kha gayi Karbal vich bhen bhira di
-  Nayi te Akbar saamne phupiyan di, chitti par lenda Sughra di
+  Nai te Akbar saamne phupiyan di, chitti par lenda Sughra di
 
   1
   Khaimay ton baar udeek de, si Abbas nu baal pyase
-  Bazoo katwa ke Ghazi ne, laj rakh layi paak wafa di
+  Bazu katwa ke Ghazi ne, laj rakh lai paak wafa di
 
   2
-  Umme Laila ro chum di rayi, Ali Akbar di pagri nu
+  Umm-e-Laila ro chum di rayi, Ali Akbar di pagri nu
   Ro pit ke poori rasm keeti, Kulsoom Ruqaiyya viyah di
 
   3
-  Betha Akbar jad aukaab utay, geya pajda naal Hussain ay,
+  Betha Akbar jad aukaab utae, geya pajda naal Husain ae,
   Zainab de siroun digi mitiyan te, chadar vi maa Zahra di
 
   4
@@ -29,7 +29,7 @@ romanLyrics: |-
   Zainab diyan sadran nigal gayi, eh dharti Karbobala di
 
   5
-  Babay jad chaya bachray nu, jera tarseya ghut paani layi,
+  Babay jad chaya bachray nu, jera tarseya ghut paani lai,
   Eh manzar vekh ke rondi si, do aalam di shahzadi
 
   6
@@ -37,10 +37,9 @@ romanLyrics: |-
   Sughra diyan aasaan di keeti, enj musalmana barbadi
 
   7
-  Akhtar keevain samjhe kalma goh, jina ghereya qabr e Nabi nu,
-  Ohna bad bakhtaan ton afzal ay, naalain vi paak Fizza di
+  Akhtar keevain samjhe kalma go, jina ghereya qabr-e-Nabi nu,
+  Ohna bad bakhtaan ton afzal ae, naalain vi paak Fizza di
 
-  Abbas nu chup kha gayi Karbal vich bhen bhira di
 ---
 
 عباس نوں چپ کھا گئی کربل وچ بھین بھرا دی
@@ -73,5 +72,3 @@ romanLyrics: |-
 ۷
 اختر کیویں سمجھے کلمہ گو، جناں گھیریا قبرِ نبی نوں،
 اوہناں بدبختاں توں افضل اے، نعلین وی پاک فضہ دی
-
-عباس نوں چپ کھا گئی کربل وچ بھین بھرا دی
