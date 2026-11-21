@@ -1,13 +1,33 @@
 ---
 title: "آ جا وے لال اصغرؑ"
-language: "Urdu"
-lang: "ur"
+alternateTitle: "Aa Ja Ve Lal Asghar"
+language: "Saraiki"
+lang: "skr-Arab"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aa ja ve Lal Asghar, jhula tera jhulawan
+  Kiun rus gaya ain maan ton, aa ja main wari jawan
+
+  1
+  Asghar muharan moren, sangat na maan di chhoren
+  Jholi chon lal de ke, sukhi sondiyan nain mawan
+
+  2
+  Ae mera naaznin ae, daadhi garm zamin ae
+  Aa ja main jholi paa ke, waalan di chhaan banawan
+
+  3
+  Amri na raj ke chaaya, bhainri na raj khidaaya
+  Aa menda lal aa ja, lori tekun sunawan
+
+  4
+  Paani di aas muk gaye, ujri de vainr sukh gaye
+  Aa ja main tekun parh ke, Sughra da khat sunawan
 ---
 
 آ جا وے لال اصغرؑ، جُھولا تیرا جُھلاواں
@@ -28,6 +48,3 @@ published: false
 ۴
 پانی دی آس مک گئے، اُجڑی دے وینڑ سُکھ گئے
 آجا میں تیکوں پڑھ کے، صغراؑ دا خط سُناواں
-
-۵
--
