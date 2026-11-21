@@ -533,6 +533,35 @@ def refresh_round2_queue(root: Path, base: str, state: dict) -> list[str]:
 
 
 
+def queue_ownership_overrides(paths: list[str], workers: int) -> dict[str, int]:
+    """Read a validated, opt-in reassignment of pending files to worker zero."""
+    import hashlib
+    manifest = state_home()
+    # Shard workers have their own state home. The parent is the primary ledger.
+    if os.environ.get("KALAM_CODEX_SHARD_INDEX", "0") != "0":
+        manifest = manifest.parent.parent
+    file = manifest / "queue-ownership.json"
+    if not file.exists():
+        return {}
+    data = json.loads(file.read_text(encoding="utf-8"))
+    if data.get("version") != 1 or data.get("worker_count") != workers:
+        raise WorkerError("Incompatible queue ownership manifest: " + str(file))
+    inventory = hashlib.sha256(
+        "\\n".join(paths).encode("utf-8")).hexdigest()
+    if data.get("inventory_sha256") != inventory:
+        raise WorkerError(
+            "Round 2 inventory changed since redistribution; refusing unsafe "
+            "reassignment. Stop workers and regenerate ownership explicitly."
+        )
+    moves = data.get("moved_to_zero")
+    if not isinstance(moves, list) or len(set(moves)) != len(moves):
+        raise WorkerError("Invalid queue ownership entries in " + str(file))
+    valid = set(paths)
+    if any(not isinstance(path, str) or path not in valid for path in moves):
+        raise WorkerError("Queue redistribution refers to missing kalams")
+    return {path: 0 for path in moves}
+
+
 def refresh_owned_queue(root: Path, base: str, state: dict) -> list[str]:
     """Select this worker's stable alphabetical slice of the Round 2 queue."""
     paths = refresh_round2_queue(root, base, state)
@@ -551,8 +580,9 @@ def refresh_owned_queue(root: Path, base: str, state: dict) -> list[str]:
     if (state.get("parallel_worker_index") != index or
             state.get("parallel_worker_count") != count):
         raise WorkerError("Shard environment does not match persisted state")
+    overrides = queue_ownership_overrides(paths, count)
     owned = [rel for i, rel in enumerate(paths)
-             if i * count // len(paths) == index]
+             if overrides.get(rel, i * count // len(paths)) == index]
     from kalam_codex import inspect_text
     task_counts, language_counts = Counter(), Counter()
     for rel in owned:
