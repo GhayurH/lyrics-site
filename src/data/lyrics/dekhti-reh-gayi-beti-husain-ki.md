@@ -1,6 +1,6 @@
 ---
 title: "دیکھتی رہ گئی بیٹی حسینؑ کی"
-alternateTitle: "Dekhti Reh Gayi Beti Hussain Ki"
+alternateTitle: "Dekhti Reh Gayi Beti Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,79 +9,105 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Dekhti reh gayi beti Hussain ki
+  Dekhti reh gayi beti Husain ki
+  Kitni majbur thi beti Husain ki
 
   1
-  Kitni majboor thi beti Hussain ki
-  Joarr kar hath apnay baba ko
-  Asr e Ashoor shah e wala ko
-  Rokti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
-  Koi imdad ko nahi aaya
-  Uth gaya sar se baap ka saaya
-  Dhoondti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
-  Bola zalim ke Shamiyon jaoo
-  Ab kaneezi may lo Sakina ko
-  Kampti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
-  Kon seenay pe ab sulaye ga
-  Kon mujh ko galay lagaey ga
-  Soochti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
-  Ik qayamat guzar gayi dil par
-  Jab chala Sheh ke halq pe khanjar
+  Jor kar haath apne Baba ko
+  Asr-e-Aashur Shaah-e-Waala ko
+  Rokti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
 
   2
-  Haey kitni majboor thi beti Hussain ki
-  May yateemi hoon na mujhe maaro
-  Goshwaray meray nahi cheeno
-  Mangti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
-  Dekha bazaar e Shaam ka manzar
-  Sar chupanay ke wastay chadar
-  Mangti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
-  Bas andheray may mar gayi Zakir
-  Qaid zindaan may roshni yaas se
-  Dhoondti reh gayi beti Hussain ki
-  Haey kitni majboor thi beti Hussain ki
+  Koi imdaad ko nahiṅ aaya
+  Uth gaya sar se baap ka saaya
+  Dhundti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
+
+  3
+  Bola zaalim ke Shaamiyo jaao
+  Ab kanizi meiṅ lo Sakina ko
+  Kaanpti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
+
+  4
+  Kaun sine pe ab sulaaye ga
+  Kaun mujh ko gale lagaaye ga
+  Sochti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
+
+  5
+  Ik qayaamat guzar gayi dil par
+  Jab chala Sheh ke halq pe khanjar
+  Dekhti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
+
+  6
+  Maiṅ yatimi huṅ na mujhe maaro
+  Goshwaare mere nahiṅ chhino
+  Maangti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
+
+  7
+  Dekha baazaar-e-Shaam ka manzar
+  Sar chhupaane ke waaste chaadar
+  Maangti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
+
+  8
+  Bas andhere meiṅ mar gayi Zakir
+  Qaid zindaan meiṅ roshni yaas se
+  Dhundti reh gayi beti Husain ki
+  Haaye kitni majbur thi beti Husain ki
 ---
 
 دیکھتی رہ گئی بیٹی حسین کی
+کتنی مجبور تھی بیٹی حسین کی
 
 ۱
-کتنی مجبور تھی بیٹی حسین کی
 جوڑ کر ہاتھ اپنے بابا کو
 عصرِ عاشور شاہِ والا کو
 روکتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۲
 کوئی امداد کو نہیں آیا
 اٹھ گیا سر سے باپ کا سایہ
 ڈھونڈتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۳
 بولا ظالم کہ شامیو جاؤ
 اب کنیزی میں لو سکینہ کو
 کانپتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۴
 کون سینے پہ اب سلائے گا
 کون مجھ کو گلے لگائے گا
 سوچتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۵
 اک قیامت گزر گئی دل پر
 جب چلا شہ کے حلق پہ خنجر
-
-۲
+دیکھتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۶
 میں یتیمی ہوں نہ مجھے مارو
 گوشوارے میرے نہیں چھینو
 مانگتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۷
 دیکھا بازارِ شام کا منظر
 سر چھپانے کے واسطے چادر
 مانگتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی
+
+۸
 بس اندھیرے میں مر گئی ذاکر
-قیدِ زنداں میں روشنی یاس سے
+قید زندان میں روشنی یاس سے
 ڈھونڈتی رہ گئی بیٹی حسین کی
 ہائے کتنی مجبور تھی بیٹی حسین کی

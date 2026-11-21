@@ -83,7 +83,7 @@ Urdu **بی‌بی** alone uses the approved U+200C non-joiner; plural/inflected
 
 ## 6. Editorial review order
 
-1. Check duplicates before editing an imported candidate; compare the established standalone corpus and Basta mappings.
+1. Check archive scope and prior exclusions before editing an imported candidate. This is a devotional-kalam archive: exclude unrelated secular songs, non-devotional verse and patriotic songs; do not exclude religious poetry merely because of its genre label. During Round 2, consult `audit/round2-dedup-wip.csv` for `excluded` decisions and match the actual work across old filenames, renames and source records. A stale snapshot or another import does not reverse an exclusion. Then check duplicates against the established standalone corpus and Basta mappings.
 2. Verify original text where an original exists; for Roman-only imports, reconstruct the script from Roman without external-source verification. Confirm completeness and stanza breaks; resolve the opening, “Saani/Antra”, refrain, poet/takhallus and 2-/6-verse grouping.
 3. Align Roman stanza-by-stanza, then review contextual transliteration, punctuation, title, `lang`, tags and metadata.
 4. Confirm permanent IDs, old links and source-page mappings; leave any unresolved reading explicitly unapproved.

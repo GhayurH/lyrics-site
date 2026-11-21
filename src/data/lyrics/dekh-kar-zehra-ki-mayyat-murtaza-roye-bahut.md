@@ -1,67 +1,109 @@
 ---
 title: "دیکھ کر زہرہؑ کی میت مرتضیٰؑ روئے بہت"
+alternateTitle: "Dekh Kar Zehra Ki Mayyat Murtaza Roye Bahut"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Wahid Imam Wahid"
 reciter: "Syed Ali Naqvi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dekh kar Zahra ki mayyat Murtaza roye bohat
+  Is qayaamat par sabhi uqda kusha roye bohat
+
+  1
+  Dekh kar pehlu shikasta Bibi ko roye Ali
+  Zakhm kaari seh gayi kaise Nabi ki laadli
+  De ke Zahra ko sada Sher-e-Khuda roye bohat
+
+  2
+  Maatam-e-Khaatun-e-Jannat hai bapa aflaak par
+  Shabbar o Shabbir baithe ro rahe haiṅ khaak par
+  Maaṅ ke gham meiṅ Jaan-e-Mehbub-e-Khuda roye bohat
+
+  3
+  Khul gaya band-e-kafan lipta liya Shabbir ko
+  Jab sada Shabbir ne di Maadar-e-Dilgir ko
+  Mayyat-e-maadar par Shaah-e-Karbala roye bohat
+
+  4
+  Allah jaane kis tarah Sarwar hue maaṅ se juda
+  Pit kar sar arsh pe rone lage sab anbiya
+  Aasmaan larza malaaik jaa bajaa roye bohat
+
+  5
+  Shaahzaadi jaa rahi haiṅ sab ko rota chhor kar
+  Zainab o Kulsum ko ghar meiṅ akela chhor kar
+  Dekh kar ujra hua ghar Mustafa roye bohat
+
+  6
+  Phat gaya ranj o alam se Sher-e-Daawar ka jigar
+  Ghamzada bachchoṅ pe jis dam Shaah ne daali nazar
+  Dekh kar bachchoṅ ki haalat Murtaza roye bohat
+
+  7
+  Phir kabhi muskaaye na dil se kabhi Sher-e-Jali
+  Apni tanhaai meiṅ Bibi ko bohat roye Ali
+  Gham meiṅ Bint-e-Mustafa ke Murtaza roye bohat
+
+  8
+  Le gayiṅ saari bahaareṅ saath apne Sayyida
+  Ab hai tanhaai ka pehra aur haiṅ Sher-e-Khuda
+  Apni tanhaai meiṅ Sher-e-Kibriya roye bohat
+
+  9
+  Gham se phatta hai jigar ab rok le Wahid qalam
+  Ghair mumkin hai masaaib Sayyida ke hoṅ raqam
+  Sun ke yeh noha Ali Ahl-e-Aza roye bohat
 ---
 
 دیکھ کر زہرہؑ کی میت مرتضیٰؑ روئے بہت
+اس قیامت پر سبھی عقدہ کشا روئے بہت
 
-1
-Dekh Kar Zahra Ki Maiyat Murtaza Roye Bohat.
-Iss Qayamat Par Sabhi Uqda Kusha Roye Bohat.
+۱
+دیکھ کر پہلو شکستہ بی‌بی کو روئے علی
+زخم کاری سہہ گئی کیسے نبی کی لاڈلی
+دے کے زہرا کو صدا شیرِ خدا روئے بہت
 
-2
-Dekh Kar Pehlu Shakista Bibi Ko Rye Ali.
-Zakhm Kari Seh Gayi Kaise Nabi Ki Ladli.
-De Ke Zahra Ko Sada Shair-e-Khuda Roye Bohat.
+۲
+ماتمِ خاتونِ جنت ہے بپا افلاک پر
+شبر و شبیر بیٹھے رو رہے ہیں خاک پر
+ماں کے غم میں جانِ محبوبِ خدا روئے بہت
 
-3
-Matam-e-Khatoon-e-Janat Hai Bapa Iflaq Par.
-Shabar-o-Shabir Bethe Ro Rahe Hain Khak Par.
-Maa Ke Gham Mein Jan-e-Mehboob-e-Khuda Roye Bohat.
+۳
+کھل گیا بندِ کفن لپٹا لیا شبیر کو
+جب صدا شبیر نے دی مادرِ دلگیر کو
+میتِ مادر پر شاہِ کربلا روئے بہت
 
-4
-Khul Giya Band-e-Kafan Lipta Liya Shabir Ko.
-Jab Sada Shabir Ne Di Madar-e-Dilgeer Ko.
-Maiyat-e-Madar Par Shah-eKarbala Roye Bohat.
+۴
+اللہ جانے کس طرح سرور ہوئے ماں سے جدا
+پیٹ کر سر عرش پہ رونے لگے سب انبیا
+آسمان لرزا ملائک جا بجا روئے بہت
 
-5
-ALLAH Jane Kis Tarha Sarwar Hoye Maa Se Juda.
-Peet Kar Sar Arsh Pe Rone Lagay Sab Anbiya.
-Aasmaan Larza Malaik Ja Baja Roye Bohat.
+۵
+شاہزادی جا رہی ہیں سب کو روتا چھوڑ کر
+زینب و کلثوم کو گھر میں اکیلا چھوڑ کر
+دیکھ کر اجڑا ہوا گھر مصطفیٰ روئے بہت
 
-6
-Shah Zadi Ja Rahi Hain Sab Ko Rota Choor Kar.
-Zainab-o-Kulsoom Ko Ghar Mein Akela Choor Kar.
-Dekh Kar Ujra Howa Ghar Mustafa Roye Bohat.
+۶
+پھٹ گیا رنج و الم سے شیرِ داور کا جگر
+غمزدہ بچوں پہ جس دم شاہ نے ڈالی نظر
+دیکھ کر بچوں کی حالت مرتضیٰ روئے بہت
 
-7
-Phat Giya Ranj-o-Alam Se Shair-e-Dawar Ka Jigar.
-Ghamzada Bachoon Pe Jis Dam Shah Ne Dali Nazar.
-Dekh Kar Bachoon Ki Halat Murtaza Roye Bohat.
+۷
+پھر کبھی مسکائے نہ دل سے کبھی شیرِ جلی
+اپنی تنہائی میں بی‌بی کو بہت روئے علی
+غم میں بنتِ مصطفیٰ کے مرتضیٰ روئے بہت
 
-8
-Phir Kabhi Muskaye Na Dill Se Kabhi Shair-e-Jali.
-Apni Tanhai Mein Bibi Ko Bohat Roye Ali.
-Gham Mein Bint-e-Mustafa Ke Murtaza Roye Bohat.
+۸
+لے گئیں ساری بہاریں ساتھ اپنے سیدہ
+اب ہے تنہائی کا پہرا اور ہیں شیرِ خدا
+اپنی تنہائی میں شیرِ کبریا روئے بہت
 
-9
-Le Gayin Sari Baharein Sath Apne Syeda.
-Ab Hai Tanhai Ka Pehra Our Hain Shair-e-Khuda.
-Apni Tanhai Mein Shair-e-Kibriya Roye Bohat.
-
-10
-Gham Se Pahtta Hai Jigar Ab Rook Le Wahid Qalam.
-Ghair Mumkin Hai Musayab Syeda Ke Hoon Raqam.
-Sun Ke Yeh Noha Ali Ahl-e-Aza Roye Bohat.
-
-11
-Noha Volume::Syed Ali Naqvi 2017-18:
-Ayyam-e-Fatima Noha 2017-18
+۹
+غم سے پھٹتا ہے جگر اب روک لے واحد قلم
+غیر ممکن ہے مصائب سیدہ کے ہوں رقم
+سن کے یہ نوحہ علی اہلِ عزا روئے بہت
