@@ -1,6 +1,6 @@
 ---
 title: "آ جا علی اصغر تجھے سینے سے لگا لوں"
-alternateTitle: "Aaja Ali Asghar Tujhe Seenay Seh Laga Loon"
+alternateTitle: "Aa Ja Ali Asghar Tujhe Seene Se Laga Lun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,28 +9,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja Ali Asghar tujhe seenay seh laga loon
-  Kyun rooth gaye loriyaan de de keh mana loon
+  Aa ja Ali Asghar tujhe seene se laga lun
+  Kiun rooth gaye loriyan de de ke mana lun
 
   1
-  Pyasa raha dariya keh, kinaray mera Asghar,
-  Jee chahta iss paani ko, mein aag laga doon
+  Pyasa raha dariya ke kinare mera Asghar
+  Ji chahta is paani ko main aag laga dun
 
   2
-  Tu bol nahi sakta, yeh kehti hai Sakina,
-  Asghar tujhe mein maang na, paani toh sikha doon
+  Tu bol nahi sakta, ye kehti hai Sakina
+  Asghar tujhe main maangna paani to sikha dun
 
   3
-  Ay chand meray marne ko, jaatay ho Khuda hafiz,
-  Thehro zara bhikri huwi, zulfoun ko saja doon
+  Ae chaand mere marne ko jaate ho, Khuda hafiz
+  Thehro zara bikhri hui zulfon ko saja dun
 
   4
-  Shabbir ne socha tha, pamali seh bach jayengay,
-  Choti si qabar khod ke, Asghar ko chupa loon,
+  Shabbir ne socha tha, pamali se bach jayenge
+  Chhoti si qabr khod ke Asghar ko chhupa lun
 
   5
-  Betaab hai jhoolay mein, hai shokh e shahadat,
-  Ruk jao mein Kubra ko, Madinay seh bula loon
+  Betaab hai jhule mein, hai shauq-e-shahadat
+  Ruk jao main Kubra ko Madine se bula lun
 ---
 
 آ جا علی اصغر تجھے سینے سے لگا لوں
