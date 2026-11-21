@@ -12,32 +12,32 @@ published: false
 romanLyrics: |-
   1
   Bekas Husain si hai Sakina Husain ki
-  Yun zulm seh rahi hai Sakina Husain ki
-  Khati rahi tamache wo Baba ki laash par
+  Yuṅ zulm seh rahi hai Sakina Husain ki
+  Khaati rahi tamaanche wo Baba ki laash par
   Durre bhi kha chuki hai Sakina Husain ki
 
   2
-  Apni kamar jhukaye hue tapti khaak par
-  Zahra hain ya khari hai Sakina Husain ki
+  Apni kamar jhukaaye hue tapti khaak par
+  Zahra haiṅ ya khari hai Sakina Husain ki
   Rakh kar gale ko apne gale par Husain ke
   Khanjar ko rokti hai Sakina Husain ki
 
   3
-  Boli Shimar se mare na Zainab ke samne
-  Zainab ki ladli hai Sakina Husain ki
-  Girti rahi jo ban mein to naaqe ke saath hi
-  Zalim ne bandh di hai Sakina Husain ki
+  Boli Shimar se maare na Zainab ke saamne
+  Zainab ki laadli hai Sakina Husain ki
+  Girti rahi jo ban meiṅ to naaqe ke saath hi
+  Zaalim ne baandh di hai Sakina Husain ki
 
   4
-  Ghatti nahin hai zewar-e-Sajjad ki tapish
-  Pani bhi dalti hai Sakina Husain ki
-  Nabzon pe hath rakh ke sada Aliya ne di
+  Ghatti nahiṅ hai zewar-e-Sajjad ki tapish
+  Paani bhi daalti hai Sakina Husain ki
+  Nabzoṅ pe haath rakh ke sada Aaliya ne di
   Sajjad, mar gayi hai Sakina Husain ki
 
   5
   Pehlu ko zakhmi dekh ke dadi bhi tarpi jab
   Shah ne supurd ki hai Sakina Husain ki
-  Mohsin teri likhayi mein tera nahin kamal
+  Mohsin teri likhaayi meiṅ tera nahiṅ kamaal
   Khairat de rahi hai Sakina Husain ki
 ---
 

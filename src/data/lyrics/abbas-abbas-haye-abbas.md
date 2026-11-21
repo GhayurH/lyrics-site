@@ -10,62 +10,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ki behan ka ab kaun aasra hai
-  Bazu kata ke Ghazi darya pe so raha hai
+  Baazu kata ke Ghazi darya pe so raha hai
 
   1
-  Behno ki aas tha jo neze pe us ka sar hai
+  Behnoṅ ki aas tha jo neze pe us ka sar hai
   Ghazi ke baad pehla Zainab ka ye safar hai
-  Sar pe rida nahi hai bazar aa gaya hai
+  Sar pe rida nahiṅ hai bazaar aa gaya hai
 
   2
-  Dharas thi jis ke dam se ab mar gaya wo bhai
-  Kaise sahegi Zainab Abbas ki judai
+  Dhaaras thi jis ke dam se ab mar gaya wo bhai
+  Kaise sahegi Zainab Abbas ki judaayi
   Bichhre na koi bhai Zainab ki ye dua hai
 
   3
-  Abbas tha salamat Zainab thi shahzadi
-  Abbas ab nahi to Zainab bani hai qaidi
+  Abbas tha salaamat Zainab thi shahzaadi
+  Abbas ab nahiṅ to Zainab bani hai qaidi
   Bhai behan pe dekho ghurbat ki inteha hai
 
   4
-  Bedast jab zameen pe ghore se wo gira tha
-  Hasrat se haye apne shanon ko dekhta tha
-  Zakhmi hai us ka chehra aur khoon beh raha hai
+  Bedast jab zamiṅ pe ghore se wo gira tha
+  Hasrat se haye apne shaanoṅ ko dekhta tha
+  Zakhmi hai us ka chehra aur khun beh raha hai
 
   5
-  Manzar ye neze wale ro ro ke dekhte hain
-  Sadat ke saron par patthar baras rahe hain
-  Aur koi garam pani pyason pe phenkta hai
+  Manzar ye neze waale ro ro ke dekhte haiṅ
+  Saadaat ke saroṅ par patthar baras rahe haiṅ
+  Aur koi garm paani pyaasoṅ pe phenkta hai
 
   6
-  Hanste hain Shaam wale roti hain Bint-e-Zehra
-  Zainab chhupa rahi hain balon se apna chehra
-  Phuphiyon ke gham mein haye Abid ka sar jhuka hai
+  Hanste haiṅ Shaam waale roti haiṅ Bint-e-Zehra
+  Zainab chhupa rahi haiṅ baaloṅ se apna chehra
+  Phuphiyoṅ ke gham meiṅ haye Abid ka sar jhuka hai
 
   7
-  Haan Shimr ke tamanche khati hai jab Sakina
+  Haaṅ Shimr ke tamaanche khaati hai jab Sakina
   Ro ro ke dekhti hai Zainab ko wo hazina
-  Ye dekh kar zameen pe Ghazi ka sar gira hai
+  Ye dekh kar zamiṅ pe Ghazi ka sar gira hai
 
   8
-  Kehte hain dekho dekho baghi ki ye behan hai
-  Wo jis ke bazuon mein bandhi gayi rasan hai
-  Mushkil kusha ki beti mushkil mein mubtala hai
+  Kehte haiṅ dekho dekho baaghi ki ye behan hai
+  Wo jis ke baazuoṅ meiṅ baandhi gayi rasan hai
+  Mushkil kusha ki beti mushkil meiṅ mubtala hai
 
   9
   Neze pe aa gayi hai Zainab ki ab rida bhi
-  Kaise khulengi aankhen neze pe bawafa ki
-  Bhai behan pe kitna mushkil ye rasta hai
+  Kaise khuleṅgi aaṅkheṅ neze pe bawafa ki
+  Bhai behan pe kitna mushkil ye raasta hai
 
   10
-  Zalim ne naam le kar awaaz jab lagayi
-  Darbar mein behan ko bhai ki yaad aayi
-  Abbas-e-bawafa ka sar tasht mein rakha hai
+  Zaalim ne naam le kar aawaaz jab lagaayi
+  Darbaar meiṅ behan ko bhai ki yaad aayi
+  Abbas-e-bawafa ka sar tasht meiṅ rakha hai
 
   11
-  Zeeshan aur Sabib jitna chali hai Zainab
+  Zishaan aur Sabib jitna chali hai Zainab
   Ghazi ko yaad kar ke roti rahi hai Zainab
-  Har mor pe tarap kar Zainab ne ye kaha hai
+  Har mor pe tarap ke Zainab ne ye kaha hai
 ---
 
 عباسؑ کی بہن کا اب کون آسرا ہے
@@ -124,4 +124,4 @@ romanLyrics: |-
 ۱۱
 ذیشان اور صبیب جتنا چلی ہے زینبؑ
 غازیؑ کو یاد کر کے روتی رہی ہے زینبؑ
-ہر موڑ پہ تڑپ کر زینبؑ نے یہ کہا ہے
+ہر موڑ پہ تڑپ کے زینبؑ نے یہ کہا ہے

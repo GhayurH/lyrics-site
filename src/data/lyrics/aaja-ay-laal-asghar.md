@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   Asghar aa ja Asghar aa ja
-  Veeran aa ja veeran aa ja
-  Aa ja ae Lal Asghar jhula jhulaun aa ja
+  Viraaṅ aa ja viraaṅ aa ja
+  Aa ja ae laal Asghar jhulaa jhulaauṅ aa ja
 
   1
-  Paaya na teen din se paani ka tu ne qatra
+  Paaya na tin din se paani ka tu ne qatra
   Gul ki tarah se beta naazuk hai jism tera
-  Shole ugal rahi hai ran ki zameen aa ja
+  Shole ugal rahi hai ran ki zamiṅ aa ja
 
   2
-  Socha nahi tha aise lut jayegi kamai
-  Is kamsini mein teri ho jayegi judai
+  Socha nahiṅ tha aise lut jaayegi kamaai
+  Is kamsini meiṅ teri ho jaayegi judaai
   Tere baghair beta kis kaam hai duniya
 
   3
-  Zulfen teri sanwarun chehra tera sajaun
-  Teri balayen le lun sadqa tera utarun
-  Maangun duayen Rab se jeene ki tere beta
+  Zulfeṅ teri sanwaaruṅ chehra tera sajaauṅ
+  Teri balaayeṅ le luṅ sadqa tera utaaruṅ
+  Maanguṅ duaaeṅ Rab se jine ki tere beta
 
   4
-  Tufan utha raha hai har simt zalzale hain
-  Aandhi bhi chal rahi hai khaime bhi jal rahe hain
-  Aa ja ke jald beta ab jal na jaye jhula
+  Tufaaṅ utha raha hai har simt zalzale haiṅ
+  Aandhi bhi chal rahi hai khaime bhi jal rahe haiṅ
+  Aa ja ke jald beta ab jal na jaaye jhulaa
 
   5
-  Tere baghair kaise ab chain se rahungi
-  Asghar main tujh ko kho kar pal bhar na ji sakungi
-  Madar ko bhi bula le tu jis jagah hai beta
+  Tere baghair kaise ab chain se rahuṅ gi
+  Asghar maiṅ tujh ko kho kar pal bhar na ji sakuṅ gi
+  Maadar ko bhi bula le tu jis jagah hai beta
 
   6
   Zahid woh tera noha Mohsin suna raha hai
-  Har maan ke dil ka arman is mein raqam hua hai
-  Tufan-e-gham hai is mein hai hasraton ka darya
+  Har maaṅ ke dil ka armaaṅ is meiṅ raqam hua hai
+  Tufaan-e-gham hai is meiṅ hai hasratoṅ ka darya
 ---
 
 اصغر آجا اصغر آجا

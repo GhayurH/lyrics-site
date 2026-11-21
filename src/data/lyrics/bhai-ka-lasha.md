@@ -1,6 +1,6 @@
 ---
 title: "بھائی کا لاشہ"
-alternateTitle: "Bhai Ka Lasha"
+alternateTitle: "Bhai Ka Laasha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,51 +11,51 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab zanu-e-Husain pe Abbas mar gaye
+  Jab zaanu-e-Husain pe Abbas mar gaye
   Sadme ghazab ke Sibt-e-Nabi par guzar gaye
 
   1
-  Khanjar-e-alam ke dil se jigar tak utar gaye
-  Chillate thay ke sher hamare kidhar gaye
+  Khanjar alam ke dil se jigar tak utar gaye
+  Chillaate the ke sher hamaare kidhar gaye
   Wa hasrata ke bekas o beyaar ho gaye
-  Sar kaise peeten hath to bekar ho gaye
+  Sar kaise piteṅ haath to bekaar ho gaye
 
   2
-  Shabbir pe aaya hai qayamat ka ye lamha
-  Hai samne bhai ke para bhai ka lasha
+  Shabbir pe aaya hai qayaamat ka ye lamha
+  Hai saamne bhai ke para bhai ka laasha
   Shabbir ki is gham se kamar tut gayi hai
-  Socho to zara kaisi qayamat ki ghari hai
+  Socho to zara kaisi qayaamat ki ghari hai
 
   3
-  Maqtal mein Shah-e-din se sambhala nahin jata
-  Abbas ki ik aankh mein khoon ek mein hai teer
-  Haan khoon mein dubi hui Haider ki hai tasveer
+  Maqtal meiṅ Shah-e-diṅ se sambhaala nahiṅ jaata
+  Abbas ki ik aaṅkh meiṅ khun ek meiṅ hai tir
+  Haaṅ khun meiṅ dubi hui Haider ki hai tasvir
   Ye dekh ke Shabbir ka phatta hai kaleja
 
   4
-  Bazu bhi nahin jism pe Abbas-e-jari ke
-  Bikhre hue tukre hain sabhi Ibn-e-Ali ke
-  Manzar hai qayamat ka bayan ho nahin sakta
-  Ab Aun o Muhammad nahin Akbar bhi nahin hai
+  Baazu bhi nahiṅ jism pe Abbas-e-jari ke
+  Bikhre hue tukre haiṅ sabhi Ibn-e-Ali ke
+  Manzar hai qayaamat ka bayaaṅ ho nahiṅ sakta
+  Ab Aun o Muhammad nahiṅ Akbar bhi nahiṅ hai
 
   5
-  Abbas sa duniya mein baradar bhi nahin hai
-  Pardes mein ab kaun hai Sarwar ka sahara
-  Khaime se ye sab dekhti hain Zainab-e-dilgir
-  Ghazi ke janaze pe gire Shabbir
+  Abbas sa duniya meiṅ baraadar bhi nahiṅ hai
+  Pardes meiṅ ab kaun hai Sarwar ka sahaara
+  Khaime se ye sab dekhti haiṅ Zainab-e-dilgir
+  Ghazi ke janaaze pe gire Hazrat-e-Shabbir
 
   6
   Rone ko Madine se chali aayi hai Zahra
-  Azlan bayan kaise ho Haider wo qayamat
-  Dekhi nahin jati thi Shah-e-din ki halat
-  Abbas ka sar jis ghari zanu pe rakha tha
+  Azlan bayaaṅ kaise ho Haider wo qayaamat
+  Dekhi nahiṅ jaati thi Shah-e-diṅ ki haalat
+  Abbas ka sar jis ghari zaanu pe rakha tha
 ---
 
 جب زانوئے حسین پہ عباس مر گئے
 صدمے غضب کے سبطِ نبی پر گزر گئے
 
 ۱
-خنجرِ الم کے دل سے جگر تک اتر گئے
+خنجر الم کے دل سے جگر تک اتر گئے
 چلاتے تھے کہ شیر ہمارے کدھر گئے
 وا حسرتا کہ بے کس و بے یار ہو گئے
 سر کیسے پیٹیں ہاتھ تو بیکار ہو گئے

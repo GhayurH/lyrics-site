@@ -1,6 +1,6 @@
 ---
 title: "آ جا وے لال اصغرؑ"
-alternateTitle: "Aa Ja Ve Lal Asghar"
+alternateTitle: "Aa Ja Ve Laal Asghar"
 language: "Saraiki"
 lang: "skr-Arab"
 direction: "rtl"
@@ -10,24 +10,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa ja ve Lal Asghar, jhula tera jhulawan
-  Kiun rus gaya ain maan ton, aa ja main wari jawan
+  Aa ja ve laal Asghar, jhula tera jhulaawaaṅ
+  Kiuṅ rus gaya aiṅ maaṅ toṅ, aa ja maiṅ waari jaawaaṅ
 
   1
-  Asghar muharan moren, sangat na maan di chhoren
-  Jholi chon lal de ke, sukhi sondiyan nain mawan
+  Asghar muhaaraaṅ moreṅ, sangat na maaṅ di chhoreṅ
+  Jholi choṅ laal de ke, sukhi sondiyaaṅ naiṅ maawaaṅ
 
   2
   Ae mera naaznin ae, daadhi garm zamin ae
-  Aa ja main jholi paa ke, waalan di chhaan banawan
+  Aa ja maiṅ jholi paa ke, waalaaṅ di chhaaṅ banaawaaṅ
 
   3
   Amri na raj ke chaaya, bhainri na raj khidaaya
-  Aa menda lal aa ja, lori tekun sunawan
+  Aa menda laal aa ja, lori tekuṅ sunaawaaṅ
 
   4
   Paani di aas muk gaye, ujri de vainr sukh gaye
-  Aa ja main tekun parh ke, Sughra da khat sunawan
+  Aa ja maiṅ tekuṅ parh ke, Sughra da khat sunaawaaṅ
 ---
 
 آ جا وے لال اصغرؑ، جُھولا تیرا جُھلاواں

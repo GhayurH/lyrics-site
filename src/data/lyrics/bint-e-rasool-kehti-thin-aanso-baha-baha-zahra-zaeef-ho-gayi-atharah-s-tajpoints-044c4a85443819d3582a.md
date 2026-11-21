@@ -1,6 +1,6 @@
 ---
 title: "بنتِ رسول کہتی تھیں آنسو بہا بہا زہرا ضعیف ہو گئی اٹھارہ سال میں"
-alternateTitle: "Bint-e-Rasool Kehti Thin Aanso Baha Baha Zahra Zaeef Ho Gayi Atharah Saal Mein"
+alternateTitle: "Bint-e-Rasul Kehti Thiṅ Aaṅsu Baha Baha Zahra Zaif Ho Gayi Athaara Saal Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,42 +9,42 @@ poet: "Wajhi"
 aliases: []
 published: false
 romanLyrics: |-
-  Bint-e-Rasool kehti thin aanso baha baha Zahra zaeef ho gayi atharah saal mein
+  Bint-e-Rasul kehti thiṅ aaṅsu baha baha Zahra zaif ho gayi athaara saal meiṅ
 
   1
-  Umat ne kaisa zulm kiya wa musibata Zahra zaeef ho gayi atharah saal mein
-  Aye Baba kya bataon jo dhaye gaye sitam
-  Ghurbat pe meri roye na kyun kainat-e-gham
-  Haq mera kalma goyon ne cheena basad jafa
+  Ummat ne kaisa zulm kiya waa musibata Zahra zaif ho gayi athaara saal meiṅ
+  Ae Baba kya bataauṅ jo dhaaye gaye sitam
+  Ghurbat pe meri roye na kiuṅ kaainaat-e-gham
+  Haq mera kalma goyoṅ ne chhina basad jafa
 
   2
-  Bholon main kaise tooti thin jab pasliyaan meri
-  Dar mujh pe tha main khak pe zakhmoon se choor thi
-  Our dar pe paon rakh ke musalmaan guzar giya
+  Bhuluṅ maiṅ kaise tuti thiṅ jab pasliyaaṅ meri
+  Dar mujh pe tha maiṅ khaak pe zakhmoṅ se chur thi
+  Aur dar pe paauṅ rakh ke musalmaan guzar gaya
 
   3
-  Ab baith kar main parhti hoon Baba salaat bhi
-  Pehlu ka dard uthne nahi deta hath bhi
-  Dill doba ja raha hai gham-o-ranj se mera
+  Ab baith kar maiṅ parhti huṅ Baba salaat bhi
+  Pehlu ka dard uthne nahiṅ deta haath bhi
+  Dil duba ja raha hai gham o ranj se mera
 
   4
-  Duray lagaye had se musalmaan guzar giya
-  Zakhmi main ho gayi mera Muhsin bhi mar giya
-  Ummat ne aise ajr-e-risalat adda kiya
+  Durre lagaaye had se musalmaan guzar gaya
+  Zakhmi maiṅ ho gayi mera Muhsin bhi mar gaya
+  Ummat ne aise ajr-e-risaalat ada kiya
 
   5
-  Uthti hai hook seene se aata hai munh ko dam
-  Ab be-assa main chal nahi pati hoon ik qadam
-  Zoaf-e-Badan yeh kehta hai nazdeek hai qaza
+  Uthti hai huk sine se aata hai munh ko dam
+  Ab beasaa maiṅ chal nahiṅ paati huṅ ik qadam
+  Zuaf-e-badan yeh kehta hai nazdik hai qaza
 
   6
-  Lamha ba lamha yeh bhi jasarat karein gaye yeh
-  Ik rooz munhidam meri turbat karein gaye yeh
+  Lamha ba lamha yeh bhi jasaarat kareṅ ge yeh
+  Ik roz munhadim meri turbat kareṅ ge yeh
   Baba na ab ruke ga sitam ka yeh silsila
 
   7
-  Dill par uthate aaye hain sadmaat aye Wajhi
-  Kyun kar lahu na roein yeh sadaat aye Wajhi
+  Dil par uthaate aaye haiṅ sadmaat ae Wajhi
+  Kiuṅ kar lahu na royeṅ yeh saadaat ae Wajhi
   Jab aye Hilal khud hi yeh misra hai marsiya
 ---
 

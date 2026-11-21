@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Chal dar-e-Shabbir par rutba siwa ho jayega
-  Khana-e-Kaaba tera bhi Hajj ada ho jayega
-  Faisle mein der ki to fasla ho jayega
-  Hurr nahin bach payega tu Hurmala ho jayega
-  Anbiya se keh rahe hain Mustafa ghabrao mat
-  Aa gaye Shabbir ab sab ka bhala ho jayega
+  Chal dar-e-Shabbir par rutba siwa ho jaayega
+  Khaana-e-Kaaba tera bhi Hajj ada ho jaayega
+  Faisle meiṅ der ki to faasila ho jaayega
+  Hurr nahiṅ bach paayega tu Hurmala ho jaayega
+  Anbiya se keh rahe haiṅ Mustafa ghabraao mat
+  Aa gaye Shabbir ab sab ka bhala ho jaayega
   Kya zaruri hai ke tujh ko mass kare Zahra ka laal
-  Kaam jhule se hi jab Fitrus tera ho jayega
-  Khol kar basta adab se baith kar zanu zara
-  Sibt-e-Jafar se abhi bhi rabta ho jayega
-  Sheikh ko la kar bitha do mehfil-e-Shabbir mein
-  Dekhna wo jalte jalte koyla ho jayega
-  Be zaban apne tabassum se karega wo khitab
-  Bolna dushwar tera Hurmala ho jayega
-  Karbala ko dekh kar Sajjad kehte hain Husain
-  Naam hi is khaak ka khaak-e-shifa ho jayega
+  Kaam jhule se hi jab Fitrus tera ho jaayega
+  Khol kar basta adab se baith kar zaanu zara
+  Sibt-e-Jafar se abhi bhi raabta ho jaayega
+  Sheikh ko la kar bitha do mehfil-e-Shabbir meiṅ
+  Dekhna wo jalte jalte koyla ho jaayega
+  Bezabaaṅ apne tabassum se karega wo khitaab
+  Bolna dushwaar tera Hurmala ho jaayega
+  Karbala ko dekh kar Sajjad kehte haiṅ Husain
+  Naam hi is khaak ka khaak-e-shifa ho jaayega
 ---
 
 ۱

@@ -6,26 +6,26 @@ lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
-reciter: "Ravi Road Lahore Party"
+reciter: "Ravi Road"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Chuk laash Sakina di ronda ae bazaaran vich Sajjad muhari
-  Koi qabr di ja dewo pardesi musafir haan kal raat di mar gayi ae meri bhain wichari
-  Riya Baba qatl honda dhi waste paondi rahi gal gal de utte rakh ke Babe nu bachaondi rahi
-  Enj aa ke Musalmanan enu piyo de ditte purse kannan chon lahu is de mar ke vi reha jari
-  Mera kujh na reha Nana tera din bana gayi aan afsos hai Zainab nu kiven jiyondi main aa gayi aan
-  Mainu samajh naiyon aondi kiven haal sunawan main kinj Sham-e-Ghareeban di ik raat guzari
+  Chuk laash Sakina di ronda ae bazaaraaṅ vich Sajjad muhari
+  Koi qabr di ja dewo pardesi musaafir haaṅ kal raat di mar gayi ae meri bhain wichaari
+  Riya Baba qatl honda dhi waaste paaundi rahi gal gal de utte rakh ke Babe nuṅ bachaaundi rahi
+  Enj aa ke Musalmaanaaṅ enuṅ piyo de ditte purse kannaaṅ choṅ lahu is de mar ke vi reha jaari
+  Mera kujh na reha Nana tera din bana gayi aaṅ afsos hai Zainab nuṅ kiveṅ jiyondi maiṅ aa gayi aaṅ
+  Mainuṅ samajh naiyoṅ aaundi kiveṅ haal sunaawaaṅ maiṅ kinj Shaam-e-Gharibaaṅ di ik raat guzaari
 
   2
-  Jo Babe de seene nu din raat tarsdi rahi zindan di godi vich masuma tarapdi rahi
-  Adh raat di Rab jaane khamosh kiun ho gayi ae enj lagda ae rondi te ghash ho gaya tari
-  Bimar ne Rab jaane kiven bhain nu dafnaya gal sarya hoya chola masuma te si paya
-  Phuphiyan ne jinun kalliyan pardes che chhad jana Asghar nu udeeke gi dardan di ae mari
-  Zainab di zareeh te jad loki chadaran charhande ne Akhtar nu odon chete us waqt de aonde ne
-  Oh vi te Musalman san de de ke jinnan jhirkan haye Sani-e-Zahra di chadar si utari
+  Jo Babe de sine nuṅ din raat tarsdi rahi zindaan di godi vich maasuma tarapdi rahi
+  Adh raat di Rab jaane khaamosh kiuṅ ho gayi ae enj lagda ae rondi te ghash ho gaya taari
+  Bimaar ne Rab jaane kiveṅ bhain nuṅ dafnaaya gal sarya hoya chola maasuma te si paaya
+  Phuphiyaaṅ ne jinuṅ kalliyaaṅ pardes che chhad jaana Asghar nuṅ udike gi dardaaṅ di ae maari
+  Zainab di zarih te jad loki chaadraaṅ charhaande ne Akhtar nuṅ odoṅ chete us waqt de aaunde ne
+  Oh vi te Musalmaan san de de ke jinhaaṅ jhirkaaṅ haye Saani-e-Zahra di chaadar si utaari
 ---
 
 ۱

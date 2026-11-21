@@ -1,6 +1,6 @@
 ---
 title: "بھولے گی کیسے دنیا شبر تیرا جنازہ"
-alternateTitle: "Bhulegi Kaise Duniya Shabbar Tera Janaza"
+alternateTitle: "Bhulegi Kaise Duniya Shabbar Tera Janaaza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bhulegi kaise duniya Shabbar tera janaza
-  Teeron ka khums le ke wapas hua janaza
-  Turbat se Mustafa ke ye bain aa rahe hain
-  Aane do paas mere ye bekhata janaza
+  Bhulegi kaise duniya Shabbar tera janaaza
+  Tiroṅ ka khums le ke waapas hua janaaza
+  Turbat se Mustafa ke ye bain aa rahe haiṅ
+  Aane do paas mere ye bekhata janaaza
 
   2
-  Teeron ka hai ye noha taboot par Hasan ke
-  Yasrib mein ban gayi hai kiun Karbala janaza
-  Shabbir keh rahe hain dafnane do Hasan ko
-  Aayega na yahan pe hargiz mera janaza
+  Tiroṅ ka hai ye noha taabut par Hasan ke
+  Yasrib meiṅ ban gayi hai kiuṅ Karbala janaaza
+  Shabbir keh rahe haiṅ dafnaane do Hasan ko
+  Aayega na yahaaṅ pe hargiz mera janaaza
 
   3
-  Behno ko kya bataun kiun teer chal gaye hain
-  Shabbir se ye bola Abbas ka janaza
-  Darbaar se hui thin wapas Batool jaise
-  Waise hi Mujtaba ka wapas chala janaza
+  Behnoṅ ko kya bataauṅ kiuṅ tir chal gaye haiṅ
+  Shabbir se ye bola Abbas ka janaaza
+  Darbaar se hui thiṅ waapas Batul jaise
+  Waise hi Mujtaba ka waapas chala janaaza
 
   4
-  Dekho Hasan hue hain behno ke hath zakhmi
-  Teeron se karte karte tera juda janaza
-  Qayam karen karam to is ko Laeeq parh de
-  Bahlool ne jo tera noha kaha janaza
+  Dekho Hasan hue haiṅ behnoṅ ke haath zakhmi
+  Tiroṅ se karte karte tera juda janaaza
+  Qaaim kareṅ karam to is ko Laiq parh de
+  Bahlul ne jo tera noha kaha janaaza
 ---
 
 ۱

@@ -1,6 +1,6 @@
 ---
 title: "بہن غریب ہے بھیا"
-alternateTitle: "Behan Ghareeb Hai Bhaiya"
+alternateTitle: "Behan Gharib Hai Bhaiya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Behan ghareeb hai bhaiya kafan bhi na la saki
+  Behan gharib hai bhaiya kafan bhi na laa saki
   Ae bhai ahl-e-sitam se tujhe bacha na saki
-  Dafan tamam shaheedon ke ho gaye lashe
-  Main apne bhai ki turbat magar bana na saki
-  Jalaya aag ne daman ko is tarah bhaiya
-  Tumhari beti Sakina ise bujha na saki
+  Dafan tamaam shahidoṅ ke ho gaye laashe
+  Maiṅ apne bhai ki turbat magar banaa na saki
+  Jalaaya aag ne daaman ko is tarah bhaiya
+  Tumhaari beti Sakina use bujha na saki
 
   2
-  Kaha Rubab ne ro kar ye pyase Asghar se
-  Mujhe ye gham hai ke pani tujhe pila na saki
-  Ae bhai Sham-e-Ghareeban ke ghup andhere mein
-  Tumhari bali Sakina ko neend aa na saki
-  Yazidiyat ne to chaha Husainiyat na rahe
-  Gham-e-Husain ko duniya Muhib mita na saki
+  Kaha Rubab ne ro kar ye pyaase Asghar se
+  Mujhe ye gham hai ke paani tujhe pilaa na saki
+  Ae bhai Shaam-e-Gharibaaṅ ke ghup andhere meiṅ
+  Tumhaari baali Sakina ko nind aa na saki
+  Yazidiyat ne to chaaha Husainiyat na rahe
+  Gham-e-Husain ko duniya Muhib mitaa na saki
 ---
 
 ۱

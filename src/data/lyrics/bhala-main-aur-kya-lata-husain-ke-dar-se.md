@@ -1,6 +1,6 @@
 ---
 title: "بھلا میں اور کیا لاتا حسین کے در سے"
-alternateTitle: "Bhala Main Aur Kya Lata Husain Ke Dar Se"
+alternateTitle: "Bhala Maiṅ Aur Kya Laata Husain Ke Dar Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,39 +10,39 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Husain mang laya Husain ke dar se
+  Husain maang laaya Husain ke dar se
 
   1
-  Jahan se rizq hain pate ye sare jin o bashar
-  Shajar samar hon zameen o zaman ke shams o qamar
-  Nizam chalta hai sara Husain ke dar se
-  Andheri qabr mein har samt roshni ke liye
-  Qaza ke baad bhi main apni zindagi ke liye
-  Kafan khareed ke laya Husain ke dar se
+  Jahaaṅ se rizq haiṅ paate ye saare jin o bashar
+  Shajar samar hoṅ zamin o zamaaṅ ke shams o qamar
+  Nizaam chalta hai saara Husain ke dar se
+  Andheri qabr meiṅ har samt roshni ke liye
+  Qaza ke baad bhi maiṅ apni zindagi ke liye
+  Kafan kharid ke laaya Husain ke dar se
 
   2
-  Haan puchhne pe mera dil yehi batata hai
-  Faqat wo shakhs hi Karb o Bala ko jata hai
-  Hai aata jis ko bulawa Husain ke dar se
-  Ye baat Ayah-e-Tatheer ka khulasa hai
-  Wo shakhs ain najasat ka hi sarapa hai
+  Haaṅ puchhne pe mera dil yehi bataata hai
+  Faqat wo shakhs hi Karb o Bala ko jaata hai
+  Hai aata jis ko bulaawa Husain ke dar se
+  Ye baat Aaya-e-Tathir ka khulaasa hai
+  Wo shakhs ain najaasat ka hi saraapa hai
   Jo dur jitna bhi hoga Husain ke dar se
 
   3
-  Qasam Khuda ki kabhi dar badar nahin hota
-  Phir us ki maut ka bhi kuch khatar nahin hota
+  Qasam Khuda ki kabhi dar badar nahiṅ hota
+  Phir us ki maut ka bhi kuchh khatar nahiṅ hota
   Jo jor leta hai rishta Husain ke dar se
-  Jabeen apni jhuka kar salam karta hai
-  Wo rukh Husain ka kar ke namaz parhta hai
+  Jabiṅ apni jhuka kar salaam karta hai
+  Wo rukh Husain ka kar ke namaaz parhta hai
   Jo dekha ghaur se Kaaba Husain ke dar se
 
   4
   Hai ek zaat-e-Khuda aur hai ik Husain ki zaat
-  Wo ek baat ke kuch farq ki nahin koi baat
-  Khuda se mang liya ya Husain ke dar se
-  Mujhe yaqeen hai Raqib main ji nahin paunga
-  Ke jis baras bhi main Karb o Bala na jaunga
-  Main dur reh nahin sakta Husain ke dar se
+  Wo ek baat ke kuchh farq ki nahiṅ koi baat
+  Khuda se maang liya ya Husain ke dar se
+  Mujhe yaqin hai Raqib maiṅ ji nahiṅ paauṅ ga
+  Ke jis baras bhi maiṅ Karb o Bala na jaauṅ ga
+  Maiṅ dur reh nahiṅ sakta Husain ke dar se
 ---
 
 حسین مانگ لایا حسین کے در سے

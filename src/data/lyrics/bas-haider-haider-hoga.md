@@ -1,6 +1,6 @@
 ---
-title: "بس حیدر حیدر ہوگا میثم عباس"
-alternateTitle: "Bus Haider Haider Hoga Mesum Abbas"
+title: "بس حیدر حیدر ہوگا"
+alternateTitle: "Bas Haider Haider Hoga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,15 +9,13 @@ poet: "Mesum"
 aliases: []
 published: false
 romanLyrics: |-
-  Bus Haider Haider hoga Mesum Abbas
-
   1
   Nabiyon ne pukara Haider
   Waliyon ne pukara Haider
   Lamhon ne pukara Haider
   Sadiyon ne pukara Haider
   Arsh-o-zameen kya jin-o-bashar kya sab ke labon par hoga
-  Terah 13 Rajab ki eid aayi hai shoor yeh ghar ghar hoga
+  Terah Rajab ki eid aayi hai shor yeh ghar ghar hoga
 
   2
   Charon taraf khushiyon ka sama hai jhoom ke sare bolo
@@ -25,7 +23,7 @@ romanLyrics: |-
   Aaj fiza mein zikar-e-Ali damad-e-payamber hoga
   Jis ke liye khaliq ne banaya tha yeh khana-e-Kaba
   Yani Khuda ke ghar ka malik ghar mein hai aane wala
-  Wadah hai yeh Allah ka jab tak Allah ho akbar hoga
+  Waada hai yeh Allah ka jab tak Allahu Akbar hoga
 
   3
   Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haiderium
@@ -57,7 +55,7 @@ romanLyrics: |-
   Khuld-e-barin mein jashan bapa hai jashan zameen par hoga
   Bint-e-asad ko deney mubarak Mariyam-o-Sarah aaein
   Lab pe saja ke midhat-e-Haider phool ke tohfay laein
-  Madah-o-sara jab arsh-e-barin par saqi-e-Kausar hoga
+  Madhsaraa jab arsh-e-bariṅ par saaqi-e-Kausar hoga
 
   7
   Narah Ali ka kyun na lagaein Mesum-o- Mazhar dono
@@ -73,10 +71,8 @@ romanLyrics: |-
   Malik, Malik Ashtar, Ashtar Haider, Haider
   Murdah bolay kha kar thokar Haider, Haider
   Hum ko le chal khuld ke andar Haider, Haider
-  Fatah-e-Khaybar fatah-e-lashkar Haider, Haider
+  Faatih-e-Khaybar faatih-e-lashkar Haider, Haider
 ---
-
-بس حیدر حیدر ہوگا میثم عباس
 
 ۱
 نبیوں نے پکارا حیدر
@@ -84,7 +80,7 @@ romanLyrics: |-
 لمحوں نے پکارا حیدر
 صدیوں نے پکارا حیدر
 عرش و زمیں کیا جن و بشر کیا سب کے لبوں پر ہوگا
-تیرہ (۱۳) رجب کی عید آئی ہے شور یہ گھر گھر ہوگا
+تیرہ رجب کی عید آئی ہے شور یہ گھر گھر ہوگا
 
 ۲
 چاروں طرف خوشیوں کا سماں ہے جھوم کے سارے بولو
@@ -92,7 +88,7 @@ romanLyrics: |-
 آج فضا میں ذکرِ علی دامادِ پیمبر ہوگا
 جس کے لیے خالق نے بنایا تھا یہ خانۂ کعبہ
 یعنی خدا کے گھر کا مالک گھر میں ہے آنے والا
-وعدہ ہے یہ اللہ کا جب تک اللہ ہو اکبر ہوگا
+وعدہ ہے یہ اللہ کا جب تک اللہ اکبر ہوگا
 
 ۳
 حیدریم، حیدریم، حیدریم، حیدریم، حیدریم، حیدریم، حیدریم
@@ -124,7 +120,7 @@ romanLyrics: |-
 خلدِ بریں میں جشن بپا ہے جشن زمین پر ہوگا
 بنتِ اسد کو دینے مبارک مریم و سارہ آئیں
 لب پہ سجا کے مدحتِ حیدر پھول کے تحفے لائیں
-مدح و سرا جب عرشِ بریں پر ساقیِ کوثر ہوگا
+مدح سرا جب عرشِ بریں پر ساقیِ کوثر ہوگا
 
 ۷
 نعرہ علی کا کیوں نہ لگائیں میثم و مظہر دونوں
@@ -140,4 +136,4 @@ romanLyrics: |-
 مالک، مالک اشتر، اشتر حیدر، حیدر
 مردہ بولے کھا کر ٹھوکر حیدر، حیدر
 ہم کو لے چل خلد کے اندر حیدر، حیدر
-فتحِ خیبر فتحِ لشکر حیدر، حیدر
+فاتحِ خیبر فاتحِ لشکر حیدر، حیدر

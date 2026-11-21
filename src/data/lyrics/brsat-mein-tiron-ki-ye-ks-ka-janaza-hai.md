@@ -1,6 +1,6 @@
 ---
 title: "برسات میں تیروں کی یہ کس کا جنازہ ہے"
-alternateTitle: "Barsaat Mein Teeron Ki Ye Kis Ka Janaza Hai"
+alternateTitle: "Barsaat Meiṅ Tiroṅ Ki Ye Kis Ka Janaaza Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,20 +9,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Barsaat mein teeron ki ye kis ka janaza hai
+  Barsaat meiṅ tiroṅ ki ye kis ka janaaza hai
 
   1
-  Batlao Musalmano ye kis ka nawasa hai
-  Ae laal karo matam aankhon ko band kar ke
-  Lipti hui mayyat se ye Fatima Zahra hai
+  Batlaao Musalmaano ye kis ka nawaasa hai
+  Ae laal karo maatam aaṅkhoṅ ko band kar ke
+  Lipti hui mayyat se ye Fatema Zehra hai
 
   2
-  Hasnain tere gham mein jo aansu bahayega
-  Jayega wo jannat mein Zahra ka ye wada hai
+  Hasnain tere gham meiṅ jo aansu bahaayega
+  Jaayega wo jannat meiṅ Zehra ka ye waada hai
 
   3
-  Ae qalam bata tere kiun aansu nikal aaye
-  Kya tu ne yateemon mein Qasim ko bhi dekha hai
+  Ae qalam bataa tere kiuṅ aansu nikal aaye
+  Kya tu ne yatimoṅ meiṅ Qasim ko bhi dekha hai
 ---
 
 برسات میں تیروں کی یہ کس کا جنازہ ہے

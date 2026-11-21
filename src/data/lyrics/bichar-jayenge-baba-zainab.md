@@ -1,6 +1,6 @@
 ---
 title: "بچھڑ جائیں گے بابا زینب"
-alternateTitle: "Bichar Jayenge Baba Zainab"
+alternateTitle: "Bichar Jaayeṅ Ge Baba Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,55 +11,55 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shab-e-ikkeeswin Ramzan wo ghurbat ki ghari
+  Shab-e-ikkiswiṅ Ramzaan wo ghurbat ki ghari
 
   1
-  Ghar mein Zahra ke udasi thi Ali thay zakhmi
+  Ghar meiṅ Zahra ke udaasi thi Ali the zakhmi
   Sun ke Baba ki sada paas jab aayi beti
-  Aakhri sanson mein kehne lage ro ro ke Ali
-  Aaj tum sab se bichar jayenge Baba Zainab
+  Aakhri saansoṅ meiṅ kehne lage ro ro ke Ali
+  Aaj tum sab se bichar jaayeṅ ge Baba, Zainab
 
   2
-  Mujh ko lene ke liye aa gayin Zahra, Zainab
-  Haye kuch der mein ruk jayengi sansen meri
-  Band ho jayengi ye khoon bhari aankhen meri
-  Aakhri raat hai bas saath hamara Zainab
+  Mujh ko lene ke liye aa gayiṅ Zahra, Zainab
+  Haye kuchh der meiṅ ruk jaayeṅ gi saanseṅ meri
+  Band ho jaayeṅ gi ye khun bhari aankheṅ meri
+  Aakhri raat hai bas saath hamaara Zainab
 
   3
   Jaane Hasnain ne kis tarah se dekha manzar
-  Itni shiddat se wo talwar chali thi mujh par
-  Ab bhi jari hai lahu sar hai shikasta Zainab
-  Kiun dua mang rahi hai tu mere jine ki
+  Itni shiddat se wo talwaar chali thi mujh par
+  Ab bhi jaari hai lahu sar hai shikasta Zainab
+  Kiuṅ dua maang rahi hai tu mere jine ki
 
   4
   Mar gaya tha tera Baba to usi din Bibi
-  Jab laga Fatima Zahra ko tamacha Zainab
-  Keh do Kufe ke yateemon se ke wapas jayen
-  Ab na mere liye wo doodh ke pyale layen
+  Jab laga Fatima Zahra ko tamaancha Zainab
+  Keh do Kufe ke yatimoṅ se ke waapas jaayeṅ
+  Ab na mere liye wo dudh ke pyaale laayeṅ
 
   5
   Zehar ne kar diya mushkil mera jina Zainab
-  Sakht mushkil mein mere saath guzare do din
-  Uth ke ek baar gale tum ko lagata lekin
-  Uthna chahun bhi to utha nahin jata Zainab
+  Sakht mushkil meiṅ mere saath guzaare do din
+  Uth ke ik baar gale tum ko lagaata lekin
+  Uthna chaahuṅ bhi to utha nahiṅ jaata Zainab
 
   6
-  Raunaqen betiyan hoti hain janaze ke liye
-  Tum ho Kulsoom o Ruqaiya hain yahin saath mere
-  Shaan se uthega ab mera janaza Zainab
+  Raunaqeṅ betiyaaṅ hoti haiṅ janaaze ke liye
+  Tum ho Kulsum o Ruqaiya haiṅ yahiṅ saath mere
+  Shaan se uthega ab mera janaaza Zainab
   Dekha Ghazi ko to kehne lage Zainab se Ali
 
   7
-  Jab mere baad tumhen yaad sataye meri
+  Jab mere baad tumheṅ yaad sataaye meri
   Dekh lena mere Abbas ka chehra Zainab
-  Ek din tum isi Kufe mein banogi qaidi
-  Be rida aaogi hathon mein rasan bhi hogi
+  Ek din tum isi Kufe meiṅ banogi qaidi
+  Be rida aao gi haathoṅ meiṅ rasan bhi hogi
 
   8
-  Aa ja le lun tere shanon ka main bosa Zainab
+  Aa ja le luṅ tere shaanoṅ ka maiṅ bosa Zainab
   Kitni beti se muhabbat thi ae Zeeshan o Wajih
-  Ye judai bhi qayamat thi ae Zeeshan o Wajih
-  Aakhri hichki jab aayi to pukara Zainab
+  Ye judaai bhi qayaamat thi ae Zeeshan o Wajih
+  Aakhri hichki jab aayi to pukaara Zainab
 ---
 
 شبِ اکیسویں رمضان وہ غربت کی گھڑی

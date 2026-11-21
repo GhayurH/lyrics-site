@@ -1,6 +1,6 @@
 ---
 title: "بھائی کو روئے یا بچوں کو سنبھالے زینبؑ"
-alternateTitle: "Bhai Ko Roye Ya Bachon Ko Sambhale Zainab"
+alternateTitle: "Bhai Ko Roye Ya Bachchoṅ Ko Sambhaale Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,40 +8,40 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Bhai ko roye ke bachon ko sambhale Zainab
-  Zabt-e-matam ka bhala kaise nikale Zainab
+  Bhai ko roye ke bachchoṅ ko sambhaale Zainab
+  Zabt-e-maatam ka bhala kaise nikaale Zainab
 
   1
-  Mujh se ab uthti nahin laash-e-jawan Shah ne kaha
-  Tu ne pala hai to hi aa ke utha le Zainab
+  Mujh se ab uthti nahiṅ laash-e-jawaaṅ Shah ne kaha
+  Tu ne paala hai tu hi aa ke utha le Zainab
 
   2
-  Chheente hain laeen kanon se Sakina ke gauhar
-  Ban ke Abbas tu zalim se chhura le Zainab
+  Chhinte haiṅ laiṅ kaanoṅ se Sakina ke gauhar
+  Ban ke Abbas tu zaalim se chhura le Zainab
 
   3
-  Bhai Abbas nahin Qasim o Akbar bhi nahin
-  Zakhm is dil ka kaleje mein chhupa le Zainab
+  Bhai Abbas nahiṅ Qasim o Akbar bhi nahiṅ
+  Zakhm is dil ka kaleje meiṅ chhupa le Zainab
 
   4
-  Ashk ban jao tum hi Sham-e-Ghareeban ke chiragh
-  Ban mein ab so chuke sab ghar ke ujale Zainab
+  Ashk ban jaao tum hi Shaam-e-Gharibaaṅ ke chiraagh
+  Ban meiṅ ab so chuke sab ghar ke ujaale Zainab
 
   5
-  Aati thi halq-e-bureeda se andhere mein sada
-  De ke aawaz Sakina ko bula le Zainab
+  Aati thi halq-e-burida se andhere meiṅ sadaa
+  De ke aawaaz Sakina ko bula le Zainab
 
   6
-  Fatah karna abhi Sham tujhe ban ke Husain
-  Tu hi ye baar-e-qiyadat bhi utha le Zainab
+  Fatah karna abhi Shaam tujhe ban ke Husain
+  Tu hi ye baar-e-qiyaadat bhi utha le Zainab
 
   7
-  Ran mein jab sar se rida chhin gayi aayi ye sada
-  Apne chehre ko tu balon se chhupa le Zainab
+  Ran meiṅ jab sar se rida chhin gayi aayi ye sadaa
+  Apne chehre ko tu baaloṅ se chhupa le Zainab
 
   8
-  Bhai phir bhi na bacha Sani-e-Zahra tera
-  Tu ne qurban kiye god ke pale Zainab
+  Bhai phir bhi na bacha Saani-e-Zehra tera
+  Tu ne qurbaan kiye god ke paale Zainab
 ---
 
 بھائی کو روئے کہ بچوں کو سنبھالے زینب

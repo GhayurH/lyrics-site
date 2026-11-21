@@ -1,6 +1,6 @@
 ---
 title: "بھول نہ پائے گی زہرا، کوفہ والوں کی وفا"
-alternateTitle: "Bhool Na Payegi Zahra Kufa Walon Ki Wafa"
+alternateTitle: "Bhul Na Paayegi Zehra, Kufa Waaloṅ Ki Wafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,33 +9,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bhool na payegi Zahra, Kufa walon ki wafa
-  Dur Yasrib se Ali ki betiyan, ho gayin pardes mein be aasra
+  Bhul na paayegi Zehra, Kufa waaloṅ ki wafa
+  Dur Yasrib se Ali ki betiyaaṅ, ho gayiṅ pardes meiṅ be aasra
 
   1
-  Waris-e-Tatheer hai, ruthi khari
-  Aa gayi Sadat pe, mushkil ghari
-  Jis ki zarbat ne bachaya din ko, us pe hi sajde mein khanjar chal gaya
+  Waaris-e-Tathir hai, ruthi khari
+  Aa gayi Saadaat pe, mushkil ghari
+  Jis ki zarbat ne bachaaya din ko, us pe hi sajde meiṅ khanjar chal gaya
 
   2
-  Kis tarah bhulen hamen, mah-e-siyam
+  Kis tarah bhuleṅ hameṅ, maah-e-siyaam
   Ho gaye ham se juda, Haq ke Imam
-  Apne qatil ko jaga kar aap hi, zarb kha kar bhi use sharbat diya
+  Apne qaatil ko jaga kar aap hi, zarb kha kar bhi use sharbat diya
 
   3
-  Shah bole ae Alamdar-e-Husain
+  Shaah bole ae Alamdaar-e-Husain
   Ae mere Ghazi ae mere dil ka chain
-  Ja raha hun sonp kar tujh ko pisar, Zainab o Kulsoom ki sar ki rida
+  Ja raha huṅ saunp kar tujh ko pisar, Zainab o Kulsum ki sar ki rida
 
   4
-  Ho gayin barbaad Zahra zadiyan
-  Lut gayin kaunain ki shehzadiyan
+  Ho gayiṅ barbaad Zehra zaadiyaaṅ
+  Lut gayiṅ kaunain ki shahzaadiyaaṅ
   Chhup gaye jin ke liye shams o qamar, kaash un ka kalma go karta haya
 
   5
-  Bani-e-Islam ka, taboot hai
+  Baani-e-Islam ka, taabut hai
   Ashkbar Akhtar har ek, malakut hai
-  Arsh pe Shah ki saff-e-matam bichhi, ho rahi hai khuld mein aah o buka
+  Arsh pe Shaah ki saff-e-maatam bichhi, ho rahi hai khuld meiṅ aah o buka
 ---
 
 بھول نہ پائے گی زہرا، کوفہ والوں کی وفا

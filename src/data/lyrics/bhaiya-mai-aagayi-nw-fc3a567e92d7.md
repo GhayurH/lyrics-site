@@ -1,6 +1,6 @@
 ---
 title: "بھیا میں آ گئی"
-alternateTitle: "Bhaiya Mai Aagayi"
+alternateTitle: "Bhaiya Maiṅ Aa Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,43 +12,43 @@ romanLyrics: |-
   Chehlum ke liye bhaiya aayi hai teri Zainab
   Ae mere bhai Husain
 
-  Bhaiya main aa gayi hun Nana ka din bacha ke
-  Jaungi ab Madina chehlum tera mana ke
+  Bhaiya maiṅ aa gayi huṅ Nana ka din bacha ke
+  Jaauṅ gi ab Madina chehlum tera manaa ke
 
   1
-  Malum hai ye tum ko Zainab ujar chuki hai
-  Lekin teri shahadat ghar ghar pahunch gayi hai
-  Shabash do behan ko bhaiya gale laga ke
+  Maalum hai ye tum ko Zainab ujar chuki hai
+  Lekin teri shahaadat ghar ghar pahunch gayi hai
+  Shaabaash do behan ko bhaiya gale lagaa ke
 
   2
-  Bhaiya tumhari Zainab ab wo nahin rahi hai
-  Pehchan loge mujh ko halat badal gayi hai
-  Chalti hai ye zaeefa bhai kamar jhuka ke
+  Bhaiya tumhaari Zainab ab wo nahiṅ rahi hai
+  Pehchaan loge mujh ko haalat badal gayi hai
+  Chalti hai ye zaifa bhai kamar jhuka ke
 
   3
-  Sajjad aur Baqir denge gawahi meri
-  Khaye hain taziyane Bint-e-Ali ne phir bhi
-  Le aayi Shamiyon se waris tere bacha ke
+  Sajjad aur Baaqir deṅ ge gawaahi meri
+  Khaaye haiṅ taaziyaane Bint-e-Ali ne phir bhi
+  Le aayi Shaamiyoṅ se waaris tere bacha ke
 
   4
-  Kaise bataun bhaiya bazaar mein jo guzri
+  Kaise bataauṅ bhaiya bazaar meiṅ jo guzri
   Kehte sab ke maaro ye hai Ali ki beti
-  Baba ke bhi main badle sab aayi hun chuka ke
+  Baba ke bhi maiṅ badle sab aayi huṅ chuka ke
 
   5
-  Ummat ne tujh pe bhai rone kahan diya hai
-  Ji bhar ke main ne tera matam kahan kiya hai
+  Ummat ne tujh pe bhai rone kahaaṅ diya hai
+  Ji bhar ke maiṅ ne tera maatam kahaaṅ kiya hai
   Royegi aaj Zainab farsh-e-aza bichha ke
 
   6
-  Ghar ja ke kya karungi pehlu mein hi sula lo
-  Akbar se keh ke mujh ko turbat ki ja dila do
-  Malik ho tum to bhai jagir-e-Karbala ke
+  Ghar jaa ke kya karuṅ gi pehlu meiṅ hi sulaa lo
+  Akbar se keh ke mujh ko turbat ki jaa dilaa do
+  Maalik ho tum to bhai jaagir-e-Karbala ke
 
   7
   Ye keh ke ae Takallum uthi Ali ki beti
   Abbas ki lahad par pahuncha de mujh ko koi
-  Dikhla dun bawafa ko rassi ke neel ja ke
+  Dikhlaa duṅ bawafa ko rassi ke nil jaa ke
 ---
 
 چہلم کے لیے بھیا آئی ہے تیری زینب

@@ -1,6 +1,6 @@
 ---
 title: "بیوہ شبّر کی رو کر پکاری، میرے بچے کی آتی ہے مہندی"
-alternateTitle: "Bewa Shabbar Ki Ro Kar Pukari Mere Bachchay Ki Aati Hai Mehndi"
+alternateTitle: "Bewa Shabbar Ki Ro Kar Pukaari, Mere Bachche Ki Aati Hai Mehndi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,44 +9,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bewa Shabbar ki ro kar pukari, mere bachche ki aati hai mehndi
-  Log karte hain kiun aah o zari
+  Bewa Shabbar ki ro kar pukaari, mere bachche ki aati hai mehndi
+  Log karte haiṅ kiuṅ aah o zaari
   Mere bachche ki aati hai mehndi
 
   1
-  Koi dulha ki phuphiyon ko lao
-  Un ki chhoti chachi ko bulao
-  Der hoti hai, jald aao wari
+  Koi dulha ki phuphiyoṅ ko laao
+  Un ki chhoti chachi ko bulaao
+  Der hoti hai, jald aao waari
 
   2
-  Ja ke keh do ye Shah-e-Zaman se
+  Jaa ke keh do ye Shaah-e-Zamaaṅ se
   Koi Sughra ko laye watan se
-  Jayen Akbar, mangaye sawari
+  Jaayeṅ Akbar, mangaaye sawaari
 
   3
-  Ja ke Sher-e-Khuda ke nawase
+  Jaa ke Sher-e-Khuda ke nawaase
   Keh de dulha ke chhote chacha se
-  Ghar mein shadi ki rasmen hain jari
+  Ghar meiṅ shaadi ki rasmeiṅ hai jaari
 
   4
-  Sunti ho Fatima ki khunzadi
-  Ghar mein do bhaiyon ke hai shadi
-  Aaj jagi hai qismat tumhari
+  Sunti ho Fatima ki khuṅ zaadi
+  Ghar meiṅ do bhaiyoṅ ke hai shaadi
+  Aaj jaagi hai qismat tumhaari
 
   5
   Koi qabr-e-Hasan par ye kehna
-  Dekh to jayen bete ka sehra
-  Un ki furqat mein aansu hain jari
+  Dekh to jaayeṅ bete ka sehra
+  Un ki furqat meiṅ aansu haiṅ jaari
 
   6
-  Meri bali Sakina kahan ho
-  Kiun nigahon se ab tak nihan ho
-  Neg le jao Bano ki pyari
+  Meri baali Sakina kahaaṅ ho
+  Kiuṅ nigaahoṅ se ab tak nihaaṅ ho
+  Neg le jaao Bano ki pyaari
 
   7
-  Ae Wazir, ek mahshar bapa tha
-  Sunne wala har ek ro raha tha
-  Maan jo kehti thi ba aah o zari
+  Ae Wazir, ek mahshar bapaa tha
+  Sunne waala har ek ro raha tha
+  Maaṅ jo kehti thi ba aah o zaari
 ---
 
 بیوہ شبّر کی رو کر پکاری، میرے بچے کی آتی ہے مہندی

@@ -1,6 +1,6 @@
 ---
 title: "بنیاد لا الٰہ ہے ماتم حسین دا"
-alternateTitle: "Buniyad La Ilaha Hai Matam Husain Da"
+alternateTitle: "Buniyaad Laa Ilaaha Hai Maatam Husain Da"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,33 +9,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Buniyad la ilaha hai matam Husain da
-  Islam di baqa ae matam Husain da
+  Buniyaad laa ilaaha hai maatam Husain da
+  Islam di baqa ae maatam Husain da
 
   1
-  Zainab ton wadh ke jag te dukhi behan hai na koi
-  Rahi wendi veer kis da jeri laash utte na roi
-  Us behan di dua ae matam Husain da
+  Zainab toṅ wadh ke jag te dukhi behan hai na koi
+  Rahi wendi vir kusda jeri laash utte na royi
+  Us behan di dua ae maatam Husain da
 
   2
-  Matam je gunah honda Hamza da na karande
-  Bidat je hondi mursal sir vich na mittiyan paande
-  Ae hukm-e-Mustafa ae matam Husain da
+  Maatam je gunaah honda Hamza da na karaande
+  Bidat je hondi Mursal sir vich na mittiyaaṅ paande
+  Ae hukm-e-Mustafa ae maatam Husain da
 
   3
-  Aswar-e-dosh-e-Ahmad pamaal inj da hoya
-  Jis nu zameen bhi roye hai aasman roya
-  Payi kardi Karbala ae matam Husain da
+  Aswaar-e-dosh-e-Ahmad paamaal inj da hoya
+  Jis nuṅ zamin bhi roye hai aasmaan roya
+  Payi kardi Karbala ae maatam Husain da
 
   4
-  Aiban da bhariya daman sang hajwan de dho layiye
-  Ral mil ke pursa diye Shabbir nu ro layiye
-  Ae dil da faisla ae matam Husain da
+  Aibaaṅ da bhariya daaman sang haajwaaṅ de dho layiye
+  Ral mil ke pursa diye Shabbir nuṅ ro layiye
+  Ae dil da faisla ae maatam Husain da
 
   5
-  Vich khwab haal puchiya noha garan ton Haider
-  Bole Nisar Baba Khursheed Najafi Akhtar
-  Vich khuld le gaya ae matam Husain da
+  Vich khwaab haal puchhiya noha garaaṅ toṅ Haider
+  Bole Nisaar Baba Khurshid Najafi Akhtar
+  Vich khuld le gaya ae maatam Husain da
 ---
 
 بنیاد لا الٰہ ہے ماتم حسین دا
@@ -43,7 +43,7 @@ romanLyrics: |-
 
 ۱
 زینب توں ودھ کے جگ تے دکھی بہن ہے نہ کوئی
-رہی ویندی ویر کس دا جیڑی لاش اُتے نہ روئی
+رہی ویندی ویر کسدا جیڑی لاش اُتے نہ روئی
 اُس بہن دی دعا اے ماتم حسین دا
 
 ۲

@@ -10,46 +10,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kalma goyon ne mere ghar ko jalaya Baba
-  Aap ke jate hi badli hai ye ummat kaisi
-  Haq mera chhin liya aur gawahi radd ki
-  Mujh ko darbaar mein zalim ne bulaya Baba
+  Kalma goyoṅ ne mere ghar ko jalaaya Baba
+  Aap ke jaate hi badli hai ye ummat kaisi
+  Haq mera chhin liya aur gawaahi radd ki
+  Mujh ko darbaar meiṅ zaalim ne bulaaya Baba
 
   2
-  Ghar mein rone ye Musalman nahin dete thay
+  Ghar meiṅ rone ye Musalmaan nahiṅ dete the
   Shehar se dur Ali ne mere rone ke liye
-  Aap ka pehla aza khana banaya Baba
-  Haq dilane ke liye tere Wasi ki khatir
+  Aap ka pehla aza khaana banaaya Baba
+  Haq dilaane ke liye tere Wasi ki khaatir
 
   3
-  Ek ek ghar pe gayi hun main Ali ki khatir
-  Koi aawaz pe meri nahin aaya Baba
-  Aap ki beti ko logon mein rulane ke liye
-  Dast-e-Haider se mera hath chhurane ke liye
+  Ek ik ghar pe gayi huṅ maiṅ Ali ki khaatir
+  Koi aawaaz pe meri nahiṅ aaya Baba
+  Aap ki beti ko logoṅ meiṅ rulaane ke liye
+  Dast-e-Haider se mera haath chhuraane ke liye
 
   4
-  Taziyana mujhe Qunfuz ne lagaya Baba
-  Ye mila mujh ko wilayat ki hifazat ka samar
+  Taaziyaana mujhe Qunfuz ne lagaaya Baba
+  Ye mila mujh ko wilaayat ki hifaazat ka samar
   Aag ummat ne laga di mere ghar ko aa kar
-  Qabr-e-Mohsin mere pehlu ko banaya Baba
+  Qabr-e-Mohsin mere pehlu ko banaaya Baba
 
   5
-  Aap ne din ke liye ghairon se khaye patthar
+  Aap ne din ke liye ghairoṅ se khaaye patthar
   Apni beti ki zara dekhiye qismat aa kar
-  Kalma goyon ne mera khoon bahaya Baba
-  Baddua main ne na ki aap ki ummat ke liye
+  Kalma goyoṅ ne mera khun bahaaya Baba
+  Baddua maiṅ ne na ki aap ki ummat ke liye
 
   6
-  Main ne aawaz uthayi jo wilayat ke liye
-  Mujh pe zalim ne wahin hath uthaya Baba
-  Kis tarah se main gayi hun sar-e-darbaar-e-sitam
-  Kiun mere balon mein aayi hai safedi ek dam
+  Maiṅ ne aawaaz uthaayi jo wilaayat ke liye
+  Mujh pe zaalim ne wahiṅ haath uthaaya Baba
+  Kis tarah se maiṅ gayi huṅ sar-e-darbaar-e-sitam
+  Kiuṅ mere baaloṅ meiṅ aayi hai safedi ik dam
 
   7
-  Main ne Zainab ko abhi tak na bataya Baba
+  Maiṅ ne Zainab ko abhi tak na bataaya Baba
   Qabr se lipti Takallum wo yehi kehti thi
-  Aap ke bin nahin ji sakti ye dukhiya beti
-  Mera ummat ne bahut dil hai dukhaya Baba
+  Aap ke bach nahiṅ ji sakti ye dukhiya beti
+  Mera ummat ne bahut dil hai dukhaaya Baba
 ---
 
 ۱
@@ -91,5 +91,5 @@ romanLyrics: |-
 ۷
 میں نے زینب کو ابھی تک نہ بتایا بابا
 قبر سے لپٹی تکلم وہ یہی کہتی تھی
-آپ کے بن نہیں جی سکتی یہ دکھیا بیٹی
+آپ کے بچ نہیں جی سکتی یہ دکھیا بیٹی
 مرا امت نے بہت دل ہے دکھایا بابا

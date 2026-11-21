@@ -1,7 +1,7 @@
 ---
 title: "چھوٹ کے اب نہ پھر اکبر ملیں گے"
 recitationId: "choot-ke-ab-na"
-alternateTitle: "Chhut Ke Ab Na Phir Akbar Milenge"
+alternateTitle: "Chhut Ke Ab Na Phir Akbar Mileṅ Ge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,37 +12,37 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Chhut ke ab na phir Akbar milenge
-  Keh rahi hai Shah ki himmat toot ke
-  Akbar phir Akbar milenge chhut ke...
+  Chhut ke ab na phir Akbar mileṅ ge
+  Keh rahi hai Shah ki himmat tut ke
+  Akbar phir Akbar mileṅ ge chhut ke...
 
   1
-  Fikr kahe ki hai ae Akbar tumhen
-  Qaid mil jayegi maan se chhut ke
+  Fikr kaahe ki hai ae Akbar tumheṅ
+  Qaid mil jaaye gi maaṅ se chhut ke
 
   2
-  Boli Laila jate ho Akbar kahan
-  Mere dil ki hasraton ko loot ke
+  Boli Laila jaate ho Akbar kahaaṅ
+  Mere dil ki hasratoṅ ko lut ke
 
   3
-  Jab shabab aaya to Akbar mar gaye
-  Reh gaya maan baap ka dil toot ke
+  Jab shabaab aaya to Akbar mar gaye
+  Reh gaya maaṅ baap ka dil tut ke
 
   4
-  So raha hai qabr par Laila ka chand
-  Kehte hain raton ko tare toot ke
+  So raha hai qabr par Laila ka chaand
+  Kehte hai raatoṅ ko taare tut ke
 
   5
-  Mar gaye sahil pe Abbas Ali
-  Keh diya Shah ki kamar ne toot ke
+  Mar gaye saahil pe Abbas Ali
+  Keh diya Shaah ke kamar ne tut ke
 
   6
-  Fauj walon ghar ujar kar reh gaye
-  Kya mila nanha sa jhoola loot ke
+  Fauj waaloṅ ghar ujar kar reh gaye
+  Kya mila nanha sa jhula lut ke
 
   7
   Jald sun lo Faqira ki aarzu
-  Dil tabah hai toot ke Maula chhut ke
+  Dil tabaah hai tut ke Maula chhut ke
 ---
 
 چھوٹ کے اب نہ پھر اکبر ملیں گے

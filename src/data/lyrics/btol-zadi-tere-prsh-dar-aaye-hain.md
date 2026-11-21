@@ -1,6 +1,6 @@
 ---
 title: "بتول زادیؑ تیرے پرسہ دار آئے ہیں"
-alternateTitle: "Batool Zadi Teray Pursa Dar Aaye Hain"
+alternateTitle: "Batul Zaadi Tere Pursa Daar Aaye Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,64 +9,64 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Batoolzadi tere pursadar aaye hain
-  Ye chand ashkon ka tohfa bhi saath laye hain
+  Batul zaadi tere pursa daar aaye haiṅ
+  Ye chand ashkoṅ ka tohfa bhi saath laaye haiṅ
 
   1
-  Tu baad-e-qatl-e-Husain Sham aa gayi Bibi
+  Tu baad-e-qatl-e-Husain Shaam aa gayi Bibi
   Bacha na bhai na sar pe rida rahi Bibi
 
   2
-  Na jaane kaise bhatakti phiri bazaron mein
-  Ridayen mangti hogi khari hazaron mein
+  Na jaane kaise bhatakti phiri bazaaroṅ meiṅ
+  Ridaayeṅ maangti hogi khari hazaaroṅ meiṅ
 
   3
-  Sinaan ki nok pe Abbas dekhte honge
-  To khoon Abid-e-bimar ro rahe honge
+  Sinaaṅ ki nok pe Abbas dekhte hoṅ ge
+  To khun Aabid-e-bimaar ro rahe hoṅ ge
 
   4
-  Rubab o Laila ke hathon mein rassiyan hongi
-  Yateem bali Sakina ki siskiyan hongi
+  Rubab o Laila ke haathoṅ meiṅ rassiyaaṅ hoṅ gi
+  Yatim baali Sakina ki siskiyaaṅ hoṅ gi
 
   5
-  Baghair-e-Aun o Muhammad tu jab chali hogi
-  To apne beton ki lashon ko dhoondti hogi
+  Baghair Aun o Muhammad tu jab chali hogi
+  To apne betoṅ ki laashoṅ ko dhundti hogi
 
   6
-  Bazaar-e-Sham mein khutbe jo hain parhe tu ne
+  Bazaar-e-Shaam meiṅ khutbe jo haiṅ parhe tu ne
   Na jaane jaan pe kya kya sitam sahe tu ne
 
   7
-  Fizza tumhen jab dilase deti thi
-  Na maaro, na maaro Zahra ki beti hai, ro ro kehti thi
+  Janaab-e-Fizza tumheṅ jab dilaase deti thi
+  Na maaro, na maaro Zehra ki beti hai, ro ro kehti thi
 
   8
   Gira Rubab ke sar pe jo aa ke ik patthar
-  To yaad aa gaye honge tumhen Ali Akbar
+  To yaad aa gaye hoṅ ge tumheṅ Ali Akbar
 
   9
-  Tumhen to dekh ke suraj bhi sharm khata tha
-  Tu seham jati thi Baba jo ghar mein aata tha
+  Tumheṅ to dekh ke suraj bhi sharm khaata tha
+  Tu seham jaati thi Baba jo ghar meiṅ aata tha
 
   10
-  Kisi ne socha na tu Fatima ki jayi hai
-  Abbas tera bhai hai
+  Kisi ne socha na tu Fatima ki jaayi hai
+  Janaab-e-Hazrat-e-Abbas tera bhai hai
 
   11
-  Tumhare lutne se Islam bach gaya Bibi
+  Tumhaare lutne se Islaam bach gaya Bibi
   Khuda Rasul ka haye naam bach gaya Bibi
 
   12
-  Ham ghareebon ka ye pursa qabool kar Bibi
+  Ham ghariboṅ ka ye pursa qabul kar Bibi
   Aur apne karam ka sab par nuzul kar Bibi
 
   13
-  Ye sansen chalti hain Akhtar bhi dar pe hazir hai
-  Jo mar gaya to ye apna salam-e-aakhir hai
+  Ye saanseṅ chalti haiṅ Akhtar bhi dar pe haazir hai
+  Jo mar gaya to ye apna salaam-e-aakhir hai
 
   14
-  Salam kar ke sab apne des jayenge
-  Rahe jo zinda to phir agle saal aayenge
+  Salaam kar ke sab apne des jaayeṅ ge
+  Rahe jo zinda to phir agle saal aayeṅ ge
 ---
 
 بتول زادیؑ تیرے پرسہ دار آئے ہیں
@@ -89,7 +89,7 @@ romanLyrics: |-
 یتیم بالی سکینہ کی سسکیاں ہوں گی
 
 ۵
-بغیرِ عون و محمد تو جب چلی ہو گی
+بغیر عون و محمد تو جب چلی ہو گی
 تو اپنے بیٹوں کی لاشوں کو ڈھونڈتی ہو گی
 
 ۶

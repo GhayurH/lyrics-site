@@ -1,6 +1,6 @@
 ---
 title: "آکھے رباب کیویں جھولے نوں میں جھلاواں"
-alternateTitle: "Aakhe Rubab Kiven Jhule Nu Main Jhulawan"
+alternateTitle: "Aakhe Rubab Kiveṅ Jhule Nuṅ Maiṅ Jhulaawaaṅ"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,48 +9,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhe Rubab kiven jhule nu main jhulawan
-  Labda nai mera Asghar kiven seene naal lawan
+  Aakhe Rubab kiveṅ jhule nuṅ maiṅ jhulaawaaṅ
+  Labhda naiṅ mera Asghar kiveṅ sine naal laawaaṅ
 
   1
-  Kurta kafan samajh ke Asghar main tenu paana
-  Main jaanani aan Asghar mur ke tu hun nai auna
-  Aakhe Rubab Asghar ese lai main vain pawan
+  Kurta kafan samajh ke Asghar maiṅ tainuṅ paana
+  Maiṅ jaananiyaaṅ Asghar mur ke tu hun naiṅ aauna
+  Aakhe Rubab Asghar es layi maiṅ vain paawaaṅ
 
   2
-  Khaime chon jaandi wari Asghar nu godi chaa ke
-  Ro aakhdi Sakina Asghar nu seene la ke
-  Lag jaan veer Asghar mainu teriyan balawan
+  Khaime choṅ jaandi waari Asghar nuṅ godi chaa ke
+  Ro aakhdi Sakina Asghar nuṅ sine laa ke
+  Lag jaan vir Asghar mainuṅ teriyaaṅ balaawaaṅ
 
   3
   Hondi je Sughra Karbal jaan apni waar dendi
   Maqtal de paase Sughra Asghar na jaan dendi
-  Paiyan Rubab ro ke Karb o Bala ch hawan
+  Paiyaaṅ Rubab ro ke Karb o Bala ch haawaaṅ
 
   4
-  Karbal ch ghup hanera mera lal dar na jave
-  Aa seene lag ja Asghar kithe maan vi mar na jave
-  Dhal gayi ae shaam Asghar tenu loriyan sunawan
+  Karbal ch ghup hanera mera laal dar na jaave
+  Aa sine lag ja Asghar kithe maaṅ vi mar na jaave
+  Dhal gayi ae shaam Asghar tainuṅ loriyaaṅ sunaawaaṅ
 
   5
-  Asghar de gal nu chum ke Shabbir ro peya ae
-  Hurmal da teer kha ke mera lal so gaya ae
-  Hun na koi jagave kis ja qabr banawan
+  Asghar de gal nuṅ chum ke Shabbir ro peya ae
+  Hurmal da tir kha ke mera laal so gaya ae
+  Hun na koi jagaave kis ja qabr banaawaaṅ
 
   6
-  Labh jave qabr-e-Asghar deve nai sazawan
-  Asghar de sir nu kadh ke nok-e-sinan charhawan
-  Sutta lal Shah-e-Deen da neza maar ke jagawan
+  Labh jaave qabr-e-Asghar deve naiṅ sazaawaaṅ
+  Asghar de sir nuṅ kadh ke nok-e-sinaaṅ charhaawaaṅ
+  Sutta laal Shaah-e-diṅ da neza maar ke jagaawaaṅ
 
   7
-  Karwat main kiven badlan pehlu ch mera lal ae
-  Lagda ae jiven Asghar zindan ch mere naal ae
-  Zindan chon mainu aawan maan maan diyan sadawan
+  Karwat maiṅ kiveṅ badlaaṅ pehlu ch mera laal ae
+  Lagda ae jiveṅ Asghar zindaaṅ ch mere naal ae
+  Zindaaṅ choṅ mainuṅ aawan maaṅ maaṅ diyaaṅ sadaawaaṅ
 
   8
   Imran zinda rehna Asghar da gham sada ae
-  Hashmat nu deve Maula es nohe di jaza ae
-  Hove Husain razi ro ro karan duawan
+  Hashmat nuṅ deve Maula es nohe di jaza ae
+  Hove Husain raazi ro ro karaaṅ duaawaaṅ
 ---
 
 آکھے رباب کیویں جھولے نوں میں جھلاواں

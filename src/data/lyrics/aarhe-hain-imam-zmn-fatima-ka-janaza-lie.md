@@ -1,6 +1,6 @@
 ---
 title: "آرہے ہیں امام زمنؑ فاطمہؑ کا جنازہ لئے"
-alternateTitle: "Aa Rahe Hain Imam-e-Zaman Fatima Ka Janaza Liye"
+alternateTitle: "Aa Rahe Haiṅ Imam-e-Zaman Fatima Ka Janaaza Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,36 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa rahe hain Imam-e-Zaman, Fatima ka janaza liye
-  Ghar se nikle Husain o Hasan, Fatima ka janaza liye
+  Aa rahe haiṅ Imam-e-Zaman, Fatima ka janaaza liye
+  Ghar se nikle Husain o Hasan, Fatima ka janaaza liye
 
   1
-  Ghusl dun kaise Rabb-e-jahan, hain shikasta sabhi pasliyan
-  Bole Haider ba ranj o mehan, Fatima ka janaza liye
+  Ghusl duṅ kaise Rabb-e-jahaaṅ, haiṅ shikasta sabhi pasliyaaṅ
+  Bole Haider ba ranj o mehan, Fatima ka janaaza liye
 
   2
-  Qalb-e-Hasnain hain muzmahil, tarpe Kulsum o Zainab ke dil
-  Hai dukhi khana-e-Panjtan, Fatima ka janaza liye
+  Qalb-e-Hasnain haiṅ muzmahil, tarpe Kulsum o Zainab ke dil
+  Hai dukhi khaana-e-Panjtan, Fatima ka janaaza liye
 
   3
-  Jab kaha ro ke Shabbar ne, maa gale se laga lo mujhe
-  Dard se toote band-e-kafan, Fatima ka janaza liye
+  Jab kaha ro ke Shabbar ne, maaṅ gale se laga lo mujhe
+  Dard se tute band-e-kafan, Fatima ka janaaza liye
 
   4
-  Shab ki phailin jo tareekiyan, so gaya jab ye sara jahan
-  Tab chale ghar se Khaibar shikan, Fatima ka janaza liye
+  Shab ki phailiṅ jo taarikiyaaṅ, so gaya jab ye saara jahaaṅ
+  Tab chale ghar se Khaibar shikan, Fatima ka janaaza liye
 
   5
-  Ya Ali isbir sabireen, do Nabi ki amanat hamein
-  Qabr karne lagi ye sukhan, Fatima ka janaza liye
+  Ya Ali isbir saabirin, do Nabi ki amaanat hameṅ
+  Qabr karne lagi ye sukhan, Fatima ka janaaza liye
 
   6
-  Ghuncha o gul ke tarpe jigar, gham se larzan hain barg o shajar
-  Kitna veeran hai deen ka chaman, Fatima ka janaza liye
+  Ghuncha o gul ke tarpe jigar, gham se larzaaṅ haiṅ barg o shajar
+  Kitna viraaṅ hai diṅ ka chaman, Fatima ka janaaza liye
 
   7
-  Hai Mujeeb aur Razi ki fughan, kiun na kanpe ye arz o saman
-  Utre marqad mein Shah-e-Zaman, Fatima ka janaza liye
+  Hai Mujib aur Razi ki fughaaṅ, kiuṅ na kaaṅpe ye arz o samaaṅ
+  Utre marqad meiṅ Shaah-e-Zaman, Fatima ka janaaza liye
 ---
 
 آرہے ہیں امام زمن فاطمہ کا جنازہ لئے

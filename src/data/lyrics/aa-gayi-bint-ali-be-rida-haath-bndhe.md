@@ -11,44 +11,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gayi Bint-e-Ali be rida, haath bandhe bhare bazaaron mein
-  Jis ne suraj na kabhi dekha tha, ro rahi hai woh gunahgaron mein
+  Aa gayi Bint-e-Ali be rida, haath bandhe bhare bazaaroṅ meiṅ
+  Jis ne suraj na kabhi dekha tha, ro rahi hai woh gunaahgaaroṅ meiṅ
 
   1
-  Kaun jaane ke ye hain kaun rasan pehne hue
+  Kaun jaane ke ye haiṅ kaun rasan pehne hue
   Be rida roti hai Sajjad ke pichhe chhup ke
-  Siskiyan dubi hain jis Bibi ki
-  Haye zanjir ki jhankaron mein
+  Siskiyaaṅ dubi haiṅ jis Bibi ki
+  Haye zanjir ki jhankaaroṅ meiṅ
 
   2
   Haye Zahra teri qismat, na mila haq tujh ko
-  Aisi tazim teri ki hai Musalmanon ne
+  Aisi taazim teri ki hai Musalmaanoṅ ne
   Tera haq maangne aayi Zainab
-  Ek mai nosh ke darbaron mein
+  Ek mai nosh ke darbaaroṅ meiṅ
 
   3
-  Kahan Zainab aur kahan Shaam mein logon ka hujum
-  Sar barehna unchi awaaz mein khutbe parhna
-  Zikr-e-Mursal ka hawala de kar
-  Chadaren maangna badkaron mein
+  Kahaaṅ Zainab aur kahaaṅ Shaam meiṅ logoṅ ka hujum
+  Sar barehna unchi aawaaz meiṅ khutbe parhna
+  Zikr-e-Mursal ka hawaala de kar
+  Chaadareṅ maangna badkaaroṅ meiṅ
 
   4
-  Aag khaimon ko lagi aur the Sajjad behosh
-  Ro ro Abbas ko deti thi sadayen Zainab
-  Lut lo chadaren Sayyidaniyon ki
-  Shor barpa tha sitamgaron mein
+  Aag khaimoṅ ko lagi aur the Sajjad behosh
+  Ro ro Abbas ko deti thi sadaaeṅ Zainab
+  Lut lo chaadareṅ Sayyidaaniyoṅ ki
+  Shor barpa tha sitamgaaroṅ meiṅ
 
   5
   Kis tarah baali Sakina aaj Baba ke baghair
-  So gayi chain se tanhai mein rote rote
-  Hichkiyan dab gayin Masuma ki
-  Haye zindan ki diwaron mein
+  So gayi chain se tanhaai meiṅ rote rote
+  Hichkiyaaṅ dab gayiṅ Masuma ki
+  Haye zindaan ki diwaaroṅ meiṅ
 
   6
   Jis jagah majlis-e-Shabbir ho barpa Akhtar
-  Chhor kar Baqiya wahan roti hai Zahra aa ke
+  Chhor kar Baqiya wahaaṅ roti hai Zahra aa ke
   Baal khole hue sar pitti hai
-  Apne pyaron ke azadaron mein
+  Apne pyaaroṅ ke azaadaaroṅ meiṅ
 ---
 
 آگئی بنتِ علیؑ بے ردا ہاتھ بندھے بھرے بازاروں میں

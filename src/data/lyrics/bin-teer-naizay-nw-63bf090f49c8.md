@@ -1,6 +1,6 @@
 ---
 title: "بن تیر نیزے"
-alternateTitle: "Bin Teer Naizay"
+alternateTitle: "Bin Tir Neze"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bin teer neze talwaran de Zainab Islam bachaya ae
+  Bin tir neze talwaaraaṅ de Zainab Islaam bachaaya ae
 
   1
-  Ae apni nasal muka baithi
-  Rang mission Husain nu laya ae
+  Ae apni nasal mukaa baithi
+  Rang mishan Husain nuṅ laaya ae
 
   2
-  Tun turaya maqtal nu veeran
-  Main dar te khaloti rahiyan
-  Tun sajde vich jadon sir rakhya
-  Main khairan mangdi rahiyan
-  Mainu nahin bhulna teri gardan te
-  Jadon zalim khanjar chalaya ae
+  Tuṅ turaaya maqtal nuṅ viraaṅ
+  Maiṅ dar te khaloti rahiyaaṅ
+  Tuṅ sajde vich jadoṅ sir rakhya
+  Maiṅ khairaaṅ mangdi rahiyaaṅ
+  Mainuṅ naiṅ bhulna teri gardan te
+  Jadoṅ zaalim khanjar chalaaya ae
 
   3
-  Keeta safar kiven si Sham tain
-  Es gal ton dil hairan ae
+  Kita safar kiveṅ si Shaam taaiṅ
+  Es gal toṅ dil hairaan ae
   Shabbir da sar si neze te
-  Reha parda paak Quran ae
+  Reha parda paak Quraan ae
   Sajjad vi rat peya ronda ae
-  Ghairat ne maar mukaya ae
+  Ghairat ne maar mukaaya ae
 
   4
-  Ban qaidi Sham ch aa gayi
-  Tatheer di parda daar ae
-  Sajjad ne dasya phuphiyan nu
-  Ae Sham wala bazaar ae
-  Raah wajde daffal si khushiyan te
-  Jadon qafila Sham ch aaya ae
+  Ban qaidi Shaam ch aa gayi
+  Tathir di parda daar ae
+  Sajjad ne dasya phuphiyaaṅ nuṅ
+  Ae Shaam waala bazaar ae
+  Raah wajde daffal si khushiyaaṅ te
+  Jadoṅ qaafila Shaam ch aaya ae
 
   5
-  Kahin der lagi bazaaran vich
-  Rahiyan ruldiyaan Zahra jaiyan
-  Wadh gayi ae bheer bazaariyan di
-  Jadon vich darbaar de aaiyan
-  Zahra diyan dhiyan sir nange
-  Haakim darbaar bulaya ae
+  Kahiṅ der lagi bazaaraaṅ vich
+  Rahiyaaṅ ruldiyaaṅ Zahra jaaiyaaṅ
+  Wadh gayi ae bhir bazaariyaaṅ di
+  Jadoṅ vich darbaar de aaiyaaṅ
+  Zahra diyaaṅ dhiyaaṅ sir nange
+  Haakim darbaar bulaaya ae
 ---
 
 بن تیر نیزے تلواراں دے زینب اسلام بچایا اے

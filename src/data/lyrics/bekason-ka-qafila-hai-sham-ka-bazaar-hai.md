@@ -1,6 +1,6 @@
 ---
 title: "بے کسوں کا قافلہ ہے شام کا بازار ہے"
-alternateTitle: "Bekason Ka Qafila Hai Sham Ka Bazaar Hai"
+alternateTitle: "Bekasoṅ Ka Qaafila Hai Shaam Ka Bazaar Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,27 +12,27 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bekason ka qafila hai Sham ka bazaar hai
-  Khwahar-e-Abbas-e-Ghazi qafila salar hai
-  Kiun na rone ki sada aaye dar o deewar se
-  Be rida Syedaniyan hain aur bhara darbaar hai
-  Kis tarah mange ghulamon se bhala Abid rida
-  Ye hai Ghazi ka bhatija aur bara khuddar hai
-  Yun haqarat se na dekho Syed-e-Sajjad ko
-  Ye koi muflis nahin kaunain ka sardar hai
-  Khaak sar par taziyano ke nishan hain pusht par
-  Tauq hai zanjeer hai aur Abid-e-bimar hai
-  Ya Ilahi kaise guzrega ye nazon ka pala
-  Paon mein chhale pare hain raasta purkhaar hai
-  Taziyane mat lagao Syed-e-Sajjad ko
-  Taziyane mat lagao mat satao zalimo
-  Ye bahut zakhmi bahut pyasa bahut bimar hai
-  Chup hain Abid ghamzada ghabra rahi hain bibiyan
-  Ab bahut nazdeek shayad Sham ka darbaar hai
-  Keh raha hai Shah ki aankhon se khoon behta hua
-  Sham ke bazaar ki manzil bahut dushwar hai
-  Jo gharana lut gaya tha dasht mein Gohar kabhi
-  Aaj wo hi do jahan ka malik o mukhtar hai
+  Bekasoṅ ka qaafila hai Shaam ka bazaar hai
+  Khwaahar-e-Abbas-e-Ghazi qaafila saalaar hai
+  Kiuṅ na rone ki sada aaye dar o diwaar se
+  Be rida Syedaaniyaaṅ haiṅ aur bhara darbaar hai
+  Kis tarah maange ghulaamoṅ se bhala Abid rida
+  Ye hai Ghazi ka bhatija aur bara khuddaar hai
+  Yuṅ haqaarat se na dekho Syed-e-Sajjad ko
+  Ye koi muflis nahiṅ kaunain ka sardaar hai
+  Khaak sar par taaziyaanoṅ ke nishaan haiṅ pusht par
+  Tauq hai zanjir hai aur Abid-e-bimaar hai
+  Ya Ilaahi kaise guzrega ye naazoṅ ka paala
+  Paaoṅ meiṅ chhaale pare haiṅ raasta purkhaar hai
+  Taaziyaane mat lagaao Syed-e-Sajjad ko
+  Taaziyaane mat lagaao mat sataao zaalimo
+  Ye bahut zakhmi bahut pyaasa bahut bimaar hai
+  Chup haiṅ Abid ghamzada ghabra rahi haiṅ bibiyaaṅ
+  Ab bahut nazdik shaayad Shaam ka darbaar hai
+  Keh raha hai Shaah ki aaṅkhoṅ se khun behta hua
+  Shaam ke bazaar ki manzil bahut dushwaar hai
+  Jo gharaana lut gaya tha dasht meiṅ Gohar kabhi
+  Aaj wo hi do jahaaṅ ka maalik o mukhtaar hai
 ---
 
 ۱

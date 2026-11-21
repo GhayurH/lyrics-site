@@ -4,8 +4,9 @@ alternateTitle: "Bulawa Hazrat-e-Abbas Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
-poet: "Jary"
+kalamType: "Noha"
+poet: "Jary Raza"
+reciter: "Syed Mudassir Mehdi"
 tags: []
 aliases: []
 published: false
@@ -13,34 +14,34 @@ romanLyrics: |-
   Aa gaya mujh ko bulawa Hazrat-e-Abbas ka
 
   1
-  Pursa-e-Shabbir ki khatir chala main Karbala
-  Jis ghari Karb o Bala mein apne rakhunga qadam, mujh ko Zahra ki qasam
-  Noha ro ro kar parhunga choom kar khaak-e-shifa
-  Ae Husain Ibn-e-Ali rauza tumhara dekh kar, aankh ho jayegi tar
+  Pursa-e-Shabbir ki khaatir chala maiṅ Karbala
+  Jis ghari Karb o Bala meiṅ apne rakhuṅ ga qadam, mujh ko Zahra ki qasam
+  Noha ro ro kar parhuṅ ga chum kar khaak-e-shifa
+  Ae Husain Ibn-e-Ali rauza tumhaara dekh kar, aankh ho jaaye gi tar
 
   2
-  Phir karunga main teri chaukhat pe ek sajda ada
-  Jis jagah bazu gire kat kar Alamdar-e-jari, us jagah ja ke yehi
-  Rote rote aap ka main ye parhunga marsiya
-  Kaash Abbas na mare jate
+  Phir karuṅ ga maiṅ teri chaukhat pe ik sajda ada
+  Jis jagah baazu gire kat kar Alamdaar-e-jari, us jagah ja ke yehi
+  Rote rote aap ka maiṅ ye parhuṅ ga marsiya
+  Kaash Abbas na maare jaate
 
   3
-  Jab maqam-e-Asghar-e-besheer par jaunga main, ashk barsaunga main
+  Jab maqaam-e-Asghar-e-beshir par jaauṅ ga maiṅ, ashk barsaauṅ ga maiṅ
   Us ghari lab par mere bas ek noha aayega
-  Ek behan sattar qadam ke fasle par thi khari, jab chali Shah par chhuri
-  Kis tarah dekha behan ne bhai ka katta gala
+  Ik behan sattar qadam ke faasle par thi khari, jab chali Shah par chhuri
+  Kis tarah dekha behan ne bhaai ka katta gala
 
   4
-  Jab maqam-e-Akbar-e-zeeshan aayega nazar, us ghari sar peet kar
-  Main parhunga ae Ibn-e-Shabbir sehra aap ka
-  Apne lahu mein aap sanwarne ke din na thay
-  Akbar jawan abhi tere marne ke din na thay
+  Jab maqaam-e-Akbar-e-zishaan aayega nazar, us ghari sar pit kar
+  Maiṅ parhuṅ ga ae Ibn-e-Shabbir sehra aap ka
+  Apne lahu meiṅ aap sanwarne ke din na the
+  Akbar jawaaṅ abhi tere marne ke din na the
 
   5
-  Karbala ke dasht ka jis waqt aayega khayal, Shabbar o Farwa ka laal
-  Kis tarah ghore ki tapon se yahan zakhmi hua
-  Zain Maula se Jari rukhsat ye lega bol kar, ja raha hun main magar
-  Kab mere Maula bulawa phir se mera aayega
+  Karbala ke dasht ka jis waqt aayega khayaal, Shabbar o Farwa ka laal
+  Kis tarah ghore ki taapoṅ se yahaaṅ zakhmi hua
+  Zain Maula se Jari rukhsat ye lega bol kar, ja raha huṅ maiṅ magar
+  Kab mere Maula bulaawa phir se mera aayega
 ---
 
 آ گیا مجھ کو بلاوا حضرتِ عباس کا

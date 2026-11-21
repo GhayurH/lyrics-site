@@ -1,6 +1,6 @@
 ---
 title: "چھڈ دیس نبی دا سیداں نے"
-alternateTitle: "Chhad Des Nabi Da Syedan Ne"
+alternateTitle: "Chhad Des Nabi Da Syedaaṅ Ne"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,29 +9,29 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Chhad des Nabi da Syedan ne vich Karbal dere laye ne
-  Mehman nawazi khoob hoi, ghut paani ton tarsaye ne
+  Chhad des Nabi da Syedaaṅ ne vich Karbal dere laaye ne
+  Mehmaan nawaazi khub hoi, ghut paani toṅ tarsaaye ne
 
   1
-  Meri khoob tazeem hoi Nana, teri aal yateem hoi Nana
-  Mere piyo de maran diyan khabran
-  Kujh rahi le ke aaye ne
+  Meri khub tazim hoi Nana, teri aal yatim hoi Nana
+  Mere piyo de maran diyaaṅ khabraaṅ
+  Kujh raahi le ke aaye ne
 
   2
-  Tere puttar Qasim di shadi te
-  Ditte laag Syedaniyan wadh wadh ke
-  Kai sir ran diyan chadaran de chhaddiyan
-  Ke bachhre wail karaye ne
+  Tere puttar Qasim di shaadi te,
+  Ditte laag Syedaniyaaṅ wadh wadh ke
+  Kai sir ran diyaaṅ chaadaraaṅ de chhaddiyaaṅ
+  Ke bachhre wail karaaye ne
 
   3
   Ro kehndi Husain di jayi ae, ke raat suhag di aayi ae
   Mere na sohre na peke rahe
-  Kai din shagna de aaye ne
+  Kai din shagnaaṅ de aaye ne
 
   4
-  Mera Akhtar pir namazi ae, jehnda veer Abbas naan Ghazi ae
-  Jihne din di bachawan layi
-  Apne bazuan katwaye ne
+  Mera Akhtar pir namaazi ae, jainda vir Abbas naaṅ Ghazi ae
+  Jihne din di bachaawan layi
+  Apne baazuṅ katwaaye ne
 ---
 
 چھڈ دیس نبی دا سیداں نے وچ کربل ڈیرے لائے نے

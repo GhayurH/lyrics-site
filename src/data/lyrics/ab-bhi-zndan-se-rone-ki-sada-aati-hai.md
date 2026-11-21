@@ -1,6 +1,6 @@
 ---
 title: "اب بھی زندان سے رونے کی صدا آتی ہے"
-alternateTitle: "Ab Bhi Zindan Se Rone Ki Sada Aati Hai"
+alternateTitle: "Ab Bhi Zindaan Se Rone Ki Sada Aati Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,38 +9,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ab bhi zindan se rone ki sada aati hai
-  Jaise tanhai se bachchi koi ghabrati hai
+  Ab bhi zindaan se rone ki sada aati hai
+  Jaise tanhaayi se bachchi koi ghabraati hai
 
   1
-  Ab bhi wo qabr mein baba ko yaad karti hai
-  Aur tanhai mein har ek lamhe marti hai
-  Ab bhi tareeki-e-turbat use rulati hai
+  Ab bhi wo qabr meiṅ Baba ko yaad karti hai
+  Aur tanhaayi meiṅ har ek lamhe marti hai
+  Ab bhi taariki-e-turbat use rulaati hai
 
   2
-  Ab bhi roti hai wo masoom Ali Asghar ko
+  Ab bhi roti hai wo maasum Ali Asghar ko
   Yaad karti hai wo Abbas o Ali Akbar ko
-  Ab bhi Sajjad ki ghurbat use rulati hai
+  Ab bhi Sajjad ki ghurbat use rulaati hai
 
   3
-  Ab bhi har ek azadar ko deti hai dua
-  Nanhe se haath utha kar shehar-e-majlis mein sada
-  Chashm-e-purnam se gire ashkon ko wo uthati hai
+  Ab bhi har ek azaadaar ko deti hai dua
+  Nanhe se haath utha kar shehar-e-majlis meiṅ sada
+  Chashm-e-purnam se gire ashkoṅ ko wo uthaati hai
 
   4
-  Haye zindan mein tera bebasi se mar jana
-  Kis tarah bhoolenge Abid wo tera dafnana
-  Bhai khoon rota hai jab yaad teri aati hai
+  Haye zindaan meiṅ tera bebasi se mar jaana
+  Kis tarah bhuleṅge Abid wo tera dafnaana
+  Bhai khuṅ rota hai jab yaad teri aati hai
 
   5
-  Baliyan chheen leen behta hai lahu kanon se
-  Aati hai ab bhi sada rone ki zindanon se
-  Haath kanon par rakhe haye kaun ye chillati hai
+  Baaleṅ chhin liṅ behta hai lahu kaanoṅ se
+  Aati hai ab bhi sada rone ki zindaanoṅ se
+  Haath kaanoṅ par rakhe haye kaun ye chillaati hai
 
   6
-  Ab bhi kanon se lahu behta hai Zakir us ke
-  Ab bhi galon ko chhupa leti hai wo haathon se
-  Jab kabhi qabr mein wo Shimr ki yaad aati hai
+  Ab bhi kaanoṅ se lahu behta hai Zakir us ke
+  Ab bhi gaaloṅ ko chhupa leti hai wo haathoṅ se
+  Jab kabhi qabr meiṅ wo Shimr ki yaad aati hai
 ---
 
 اب بھی زندان سے رونے کی صدا آتی ہے
@@ -67,7 +67,7 @@ romanLyrics: |-
 بھائی خوں روتا ہے جب یاد تیری آتی ہے
 
 ۵
-بالیاں چھین لیں بہتا ہے لہو کانوں سے
+بالیں چھین لیں بہتا ہے لہو کانوں سے
 آتی ہے اب بھی صدا رونے کی زندانوں سے
 ہاتھ کانوں پر رکھے ہائے کون یہ چلاتی ہے
 

@@ -1,6 +1,6 @@
 ---
-title: "بس علی سنو سید محمد شاہ"
-alternateTitle: "Bus Ali Suno Syed Mohammad Shah"
+title: "بس علی سنو"
+alternateTitle: "Bas Ali Suno"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Har ik baat hijabaat ki sunata hoon
-  Jo Mustafa se suna hai wohi sunata hoon
-  Diya hai izn mujhe bhi Janab-e-Meesum ne
-  Farishto aao main tum ko Ali sunata hoon
+  Har ik baat hijaabaat ki sunaata huṅ
+  Jo Mustafa se suna hai wohi sunaata huṅ
+  Diya hai izn mujhe bhi Janaab-e-Misum ne
+  Farishto aao maiṅ tum ko Ali sunaata huṅ
   Ali suno, Ali suno bas Ali suno
-  Jo aaj tak nahi suna suno woh aaj hi suno
+  Jo aaj tak nahiṅ suna suno woh aaj hi suno
 
   2
-  Khuda ke ghar ki samt jab Ali ki walida barhi
-  Haram ki ik jidar ne Ali ki manqabat parhi
-  Woh jis ka intezar tha woh raat aa gayi suno
-  Sajod se kahin boland iss ka ayhteram hai
-  Khuda hi janta hai iss Ali ka kya maqam hai
-  Zameen pe jis ke wastay Batool aa gayi suno
+  Khuda ke ghar ki samt jab Ali ki waalida barhi
+  Haram ki ik jidaar ne Ali ki manqabat parhi
+  Woh jis ka intizaar tha woh raat aa gayi suno
+  Sujud se kahiṅ buland is ka ehtiraam hai
+  Khuda hi jaanta hai is Ali ka kya maqaam hai
+  Zamiṅ pe jis ke waaste Batul aa gayi suno
 
   3
-  Sifaat apni dein haram issi ke naam kar diya
+  Sifaat apni diṅ haram isi ke naam kar diya
   Khuda ne apna naam bhi Ali ke naam kar diya
-  Khuda ke pas kuch nahi Ali se qeemati suno
-  Kalam-e-Kibriya bhi our zaban-e-Kibriya hai yeh
-  Khuda-o-Mustafa-o-Jibreel ko pata hai yeh
-  Hai kaun bhaijta raha Rasool par wahi suno
+  Khuda ke paas kuch nahiṅ Ali se qimati suno
+  Kalaam-e-Kibriya bhi aur zabaan-e-Kibriya hai yeh
+  Khuda o Mustafa o Jibril ko pata hai yeh
+  Hai kaun bhejta raha Rasul par wahi suno
 
   4
-  Hasan Hussain par bhi hai Rasool par bhi farz hai
-  Yeh aisa wajib hai keh jo Batool par bhi farz hai
-  Issi gawahi se har ik nabi howa nabi suno
-  Kiya hai oss ne arsh pe ada youn haq-e-Fatima
-  Abhi zameen par nuzool-e-Syeda nahi howa
-  Sana-e-Fatima Ali ne loh par likhi suno
+  Hasan Husain par bhi hai Rasul par bhi farz hai
+  Yeh aisa waajib hai keh jo Batul par bhi farz hai
+  Isi gawaahi se har ik nabi hua nabi suno
+  Kiya hai us ne arsh pe ada yuṅ haq-e-Fatima
+  Abhi zamin par nuzul-e-Sayyeda nahiṅ hua
+  Sanaa-e-Fatima Ali ne lauh par likhi suno
 
   5
-  Bana hoon jis ke wastay woh raaz parh raha hoon mein
-  Azal se bas yeh ishq ki namaz parh raha hoon mein
-  Hai soam bhi salat bhi hai Hajj mera yehi suno
-  Naseeb ke nahi hain yeh nasab ke hi qasoor hain
-  Hain shajrey jin ke la pata Ali se door door hain
-  Har aik ko mili nahi Ali ki dosti suno
+  Bana huṅ jis ke waaste woh raaz parh raha huṅ maiṅ
+  Azal se bas yeh ishq ki namaaz parh raha huṅ maiṅ
+  Hai saum bhi salaat bhi hai Hajj mera yehi suno
+  Nasib ke nahiṅ haiṅ yeh nasab ke hi qusur haiṅ
+  Haiṅ shajre jin ke laapata Ali se dur dur haiṅ
+  Har aik ko mili nahiṅ Ali ki dosti suno
 
   6
-  Ho arsh par tu loh our qalam hai iss ke hath mein
-  Ho farsh par tu taig our alam hai iss ke hath mein
-  Ali ke hath mein hai zindagi bhi maut bhi suno
-  Aye Muhsin iss ko bant de yeh saaton ka rizq hai
-  Yeh nemat-e-azeem hai samaton ka rizq hai
-  Ali ka zikar hi faqat giza hai rooh ki suno
+  Ho arsh par to lauh aur qalam hai is ke haath meiṅ
+  Ho farsh par to tegh aur alam hai is ke haath meiṅ
+  Ali ke haath meiṅ hai zindagi bhi maut bhi suno
+  Ae Muhsin is ko baaṅt de yeh saaatoṅ ka rizq hai
+  Yeh nemat-e-azim hai samaaatoṅ ka rizq hai
+  Ali ka zikr hi faqat ghiza hai ruh ki suno
 ---
 
 ۱
