@@ -1,6 +1,6 @@
 ---
 title: "محفوظ قافلہ ہے عباس جو زندہ ہے"
-alternateTitle: "Abbas Jo Zinda Hai"
+alternateTitle: "Mehfuz Qaafila Hai Abbas Jo Zinda Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Na mehramoṅ ka majma hat hat ke hai guzarta
-  Pehre meiṅ baawafa ke te ho raha hai raasta
+  Pehre meiṅ baawafa ke tay ho raha hai raasta
   Kya shaan o dabdaba hai Abbas jo zinda hai
 
   3
