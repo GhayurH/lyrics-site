@@ -1,5 +1,6 @@
 ---
 title: "اب تو آ جاؤ شہنشاہِ وفاؑ"
+alternateTitle: "Ab To Aa Jao Shahanshah-e-Wafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,40 +9,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ab to aa jao Shahanshah-e-Wafa
-  Ro ro kehti thi Sakina ran meiṅ
-  Lut gayi Saani-e-Zahra ki rida
+  Ab to aa jao Shahanshah-e-wafa
+  Ro ro kehti thi Sakina ran mein
+  Lut gayi Sani-e-Zahra ki rida
 
   1
-  Shimr ne maare tamaanche haiṅ mere gaaloṅ pe
-  Jhirkiyaaṅ de ke uthaaya hai mujhe
+  Shimr ne maare tamanche hain mere galon par
+  Jhirkiyan de ke uthaya hai mujhe
   Baba ki laash pe rone na diya
 
   2
-  Chhin li sab ki ridaaeṅ aur jalaaye khaime
-  Aisa luta hai Musalmanoṅ ne
-  Na ki Aal-e-Muhammad ki haya
+  Chheen leen sab ki ridaen aur jalaye khaime
+  Aise loota hai sitamgaron ne
+  Na kiya Aal-e-Muhammad ka haya
 
   3
-  Tum ko Abbas ki taaqat pe bharosa tha bahut
-  Qaid hone se bachaaye tum ko
+  Tum ko Abbas ki taqat pe bharosa tha bahut
+  Qaid hone se bachaye tum ko
   Aa ke ye Shimr ne Zainab se kaha
 
   4
-  Shaam jaane ke liye qaafila tayyar hai jo
-  Un meiṅ ik raat ki byaahi hai khari
-  Haathoṅ se utra nahiṅ rang-e-hina
+  Shaam jaane ke liye qafila tayyar hai jo
+  Un mein ik raat ki biyahi hai khari
+  Haathon se utra nahi rang-e-hina
 
   5
-  Tor di maar ke Akbar ke jigar meiṅ barchhi
+  Tor di maar ke Akbar ke jigar mein barchhi
   Aur sitamgar ne kaha Maula se
-  Ye suna hai ke tu saabir hai bara
+  Ye suna hai ke tu sabir hai bara
 
   6
-  Sahib-ul-Asr ye alfaaz ada karte haiṅ
-  Koi khubi ye nahiṅ Akhtar ki
-  Is ke nohoṅ meiṅ hai Zahra ki dua
+  Sahib-e-Asr ye alfaaz ada karte hain
+  Koi khoobi ye nahi Akhtar ki
+  Is ke nohon mein hai Zahra ki dua
 ---
+
 اب تو آ جاؤ شہنشاہِ وفا
 رو رو کہتی تھی سکینہؑ رن میں
 لٹ گئی ثانیءِ زہراؑ کی ردا

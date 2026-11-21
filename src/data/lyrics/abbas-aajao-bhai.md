@@ -1,6 +1,6 @@
 ---
 title: "مقتل میں پہنچے جب شہِ والا"
-alternateTitle: "Abbas Aajao Bhai"
+alternateTitle: "Maqtal Mein Pahunche Jab Sheh-e-Wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,51 +11,51 @@ tags: []
 aliases: ["Abbas Aa Jao Bhai Akela Hai"]
 published: false
 romanLyrics: |-
-  Maqtal meiṅ pahunche jab Shah-e-Wala
-  Laashe jawaaṅ aur khaimoṅ ko dekha
-  Darya ko dekha phir ye pukaara
-  Ab ye salaam-e-aakhir hai mera
-  Abbas aajao bhai akela hai
-  Tanha musaafir ko laakhoṅ ne ghera hai
+  Maqtal mein pahunche jab Sheh-e-wala
+  Laashe jawan aur khaimon ko dekha
+  Darya ko dekha phir ye pukara
+  Ab ye salam-e-aakhir hai mera
+  Abbas aa jao bhai akela hai
+  Tanha musafir ko lakhon ne ghera hai
 
   1
-  Tum ne na dekhi ghurbat hamaari
-  Zainab thi laayi meri sawaari
+  Tum ne na dekhi ghurbat hamari
+  Zainab thi laayi meri sawari
   Rukhsat ka meri manzar ajab tha
-  Sine se lag jaao bhai akela hai
+  Seene se lag jao bhai akela hai
 
   2
   Jab se ho bichhre Abbas hum se
-  Ahl-e-haram haiṅ lipte alam se
-  Kaise jiyegi baali Sakina
-  Kya hoga batlaao bhai akela hai
+  Ahl-e-haram hain lipte alam se
+  Kaise jiyegi bali Sakina
+  Kya hoga batlao bhai akela hai
 
   3
-  Lashkar kahaaṅ ka jab tum nahiṅ ho
-  Aada to khush haiṅ ab tum nahiṅ ho
-  Kitna akela kitna huṅ tanha
-  Sine meiṅ hai ghaao bhai akela hai
+  Lashkar kahan ka jab tum nahi ho
+  Aada to khush hain ab tum nahi ho
+  Kitna akela kitna hun tanha
+  Seene mein hai ghaao bhai akela hai
 
   4
-  Din bhar uthaaye kitne janaaze
-  Ab kaun hai jo dega dilaase
-  Hote agar tum dete dilaasa
+  Din bhar uthaye kitne janaze
+  Ab kaun hai jo dega dilase
+  Hote agar tum dete dilasa
   Aao chale aao bhai akela hai
 
   5
   Mujh par baraste ye sang dekho
   Bekas ki tanha ki jang dekho
-  Dekho na tute nana se waada
-  Himmat barha jaao bhai akela hai
+  Dekho na toote Nana se wada
+  Himmat barha jao bhai akela hai
 
   6
   Jab Shimr khanjar ko pherta tha
-  Qaatil ne Shah se khud ye suna tha
-  Pyaasa gala us dam ye pukaara
-  Surat dikha jaao bhai akela hai
+  Qatil ne Sheh se khud ye suna tha
+  Pyasa gala us dam ye pukara
+  Surat dikha jao bhai akela hai
 
   7
-  Sar Sheh ka aaya nok-e-sinaaṅ par
+  Sar Sheh ka aaya nok-e-sinan par
   Aayi sada ye Rehan o Sarwar
   Besar para hai bhai ka laasha
   Ab to chale aao bhai akela hai
