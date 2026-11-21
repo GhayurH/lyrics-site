@@ -1,6 +1,6 @@
 ---
-title: "بچایا حسین نے بلاول علی حسینی"
-alternateTitle: "Bachaya Hussain Ne Bilawal Ali Hussaini"
+title: "بچایا حسین نے"
+alternateTitle: "Bachaaya Husain Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bachaya Hussain ne Bilawal Ali Hussaini
-  Deen ki baqa Hussain Badshah
-  Sar de ke dein Khuda ka banaya Hussain ne
-  Wadah Khalil ka tha nibhaya Hussain ne
+  Bachaaya Husain ne
+  Din ki baqa Husain Badshah
+  Sar de ke dein Khuda ka banaya Husain ne
+  Waada Khalil ka tha nibhaya Husain ne
 
   2
-  Sadiyon mein anbiya se na takmeel ho saki
-  Jo aik din mein kar ke dikhaya Hussain ne
+  Sadiyon mein anbiya se na takmil ho saki
+  Jo ik din mein kar ke dikhaya Husain ne
   Banjar thi ik umar se jo arz-e-Karbala
-  Oss ko mualla aa ke banaya Hussain ne
+  Oss ko mualla aa ke banaya Husain ne
 
   3
   Haq ki azan ban gayi Hal Min ko woh sada
-  Insan ka zameer jagaya Hussain ne
+  Insan ka zameer jagaya Husain ne
   Chehray pe mal ke ro diye be sheer ka lahu
-  Masoom ka youn soag manaya Hussain ne
+  Masoom ka yuṅ soag manaya Husain ne
 
   4
   Man mein bhuja ke apne charagon ki roshni
-  Islam ke diye ko jalaya Hussain ne
-  Mazlomiyat ki hai yehi Jawad inteha
-  Khud apne qatilon ko rulaya Hussain ne
+  Islam ke diye ko jalaya Husain ne
+  Mazlumiyat ki hai yehi Jawad inteha
+  Khud apne qaatiloṅ ko rulaya Husain ne
 ---
 
 ۱
-بچایا حسین نے بلاول علی حسینی
+بچایا حسین نے
 دین کی بقا حسین بادشاہ
 سر دے کے دین خدا کا بنایا حسین نے
 وعدہ خلیل کا تھا نبھایا حسین نے

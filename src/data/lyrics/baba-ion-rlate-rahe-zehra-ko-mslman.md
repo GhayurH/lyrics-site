@@ -1,6 +1,6 @@
 ---
 title: "بابا یوں رُلاتے رہے زہراؑ کو مسلمان"
-alternateTitle: "Baba Yun Rulatay Rahe Zahra Ko Musalman"
+alternateTitle: "Baba Yuṅ Rulaate Rahe Zehra Ko Musalmaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,13 +9,13 @@ reciter: "Katri Bawa"
 aliases: []
 published: false
 romanLyrics: |-
-  Baba yun rulatay rahe Zahra ko musalman
-  Kehte hain ke may bhool gayi apka Quran
+  Baba yun rulaate rahe Zehra ko musalmaan
+  Kehte hain ke main bhool gayi aap ka Quraan
 
   1
-  Sar peet ke kehti rahi ye Zahra ki jayi
+  Sar peet ke kehti rahi ye Zehra ki jayi
   Ama kyun safedi tere baalon pe hai aayi
-  Kya hogaya darbaar mein Karbal ka bhi aelaan
+  Kya ho gaya darbaar mein Karbal ka bhi aelaan
 
   2
   Darbaar mein dekha yun Zainab ki aseeri
@@ -25,12 +25,12 @@ romanLyrics: |-
   3
   Fizza hai gawah qadam zameen se mere ukhre
   Tehreer ke hi sath hue dil ke bhi tukray
-  Baba issi takleef se Zahra hui bejaan
+  Baba issi takleef se Zehra hui bejaan
 
   4
-  Bas aik waseeyat hai meri aur na beti
+  Bas aik wasiyat hai meri aur na beti
   Shabbir akela na kabhi chorna beti
-  Zainab mere bachon ki ab tu hai nighebaan
+  Zainab mere bachon ki ab to hai nigehbaan
 ---
 
 بابا یوں رُلاتے رہے زہرا کو مسلمان

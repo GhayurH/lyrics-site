@@ -1,6 +1,6 @@
 ---
 title: "بہن خدا حافظ"
-alternateTitle: "Bahen Khuda Hafiz"
+alternateTitle: "Behan Khuda Haafiz"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pukartay rahe Sarwar behan Khuda hafiz
-  Chala hai ran ko ghareeb al-watan Khuda hafiz
+  Pukaarte rahe Sarwar behan Khuda haafiz
+  Chala hai ran ko gharib al-watan Khuda haafiz
 
   1
-  Tumhare sar ki kisa ka main aakhri tha shareek
-  Hoon choor zakhmo se samjho hoon maut ke nazdeek
-  Jahan se uthtey hain ab Panjtan Khuda hafiz
+  Tumhare sar ki kisa ka main aakhri tha sharik
+  Huṅ choor zakhmo se samjho huṅ maut ke nazdik
+  Jahan se uthtey hain ab Panjtan Khuda haafiz
 
   2
-  Main bhai hoon main samjhta hoon kaifiyat teri
+  Main bhai huṅ main samjhta huṅ kaifiyat teri
   Magar yeh qaum tu chadar na sar pe choray gi
-  Na mangna mera inn se kafan Khuda hafiz
+  Na mangna mera inn se kafan Khuda haafiz
 
   3
   Dahan se bhaiyya ke tukray jigar ke girtay hain
-  Main dekhta hoon lahu aaj bhi ugaltay hain
-  Lo aa gaye mujhe lainay Hasan Khuda hafiz
+  Main dekhta huṅ lahu aaj bhi ugaltay hain
+  Lo aa gaye mujhe lainay Hasan Khuda haafiz
 
   4
   Aseeri kaat ke wapis watan ko jab jana
   Miley jo sar mera iss ko yahin pe dafnana
-  Hai aaj se yeh hi mera watan Khuda hafiz
+  Hai aaj se yeh hi mera watan Khuda haafiz
 
   5
   Sina ki nook pe main aankhein band rakhon ga
   Magar yeh wadah hai bazar mein main bolon ga
-  Ab apna Sham mein ho ga sukhan Khuda hafiz
+  Ab apna Sham mein ho ga sukhan Khuda haafiz
 
   6
-  Jo mere halq pe Shimar laeen ki taig chaley
-  Hussain kehte they Akbar rida na sar se dhalay
-  Bas ab hai katney ko gardan behan Khuda hafiz
+  Jo mere halq pe Shimr laeen ki taigh chaley
+  Husain kehte they Akbar rida na sar se dhalay
+  Bas ab hai katne ko gardan behan Khuda haafiz
 ---
 
 پکارتے رہے سرور بہن خدا حافظ

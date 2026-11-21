@@ -1,6 +1,6 @@
 ---
 title: "بندہ معتبر ہونا چاہندا اے اگر آ"
-alternateTitle: "Banda Moatbar Honra Chanda Aye Agar Aa"
+alternateTitle: "Banda Motabar Hona Chaahnda Ae Agar Aa Ya Husain Kar"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,34 +10,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Banda moatbar honra chanda aye agar aa ya Hussain kar
-  Banr ke dua Batool di matam Sakhi da kar aa ya Hussain kar
-  Kehnday ne sare matmi ais kainat te
-  Pairan di khas loor nayi rah-e-nijat te
+  Banda motabar hona chaahnda ae agar aa ya Husain kar
+  Ban ke dua Batool di maatam Sakhi da kar aa ya Husain kar
+  Kehnde ne saare matmi ais kaainaat te
+  Pairaaṅ di khas lor naiṅ rah-e-nijat te
 
   2
-  Matam di saf te aanr ke hathaan da kar safar aa ya Hussain kar
-  Tenu v aye qabool aye menu v aye qabool
+  Maatam di saf te aanr ke hathaaṅ da kar safar aa ya Husain kar
+  Tenu v ae qabool ae menu v ae qabool
   Dita Rasool-e-Pak ne sajday nu aap tool
-  Man akhiya Rasool da sajday che rakh ke sar aa ya Hussain kar
+  Man akhiya Rasool da sajday che rakh ke sar aa ya Husain kar
 
   3
-  Haiya alla salat di hondi aye jad azan
-  Khair al-amal pukar ke assi karne aan ayelan
-  Rab di azeem zaat nu sadja v kar magar aa ya Hussain kar
-  Ana minal Hussain da kuj te khiyal rakh
+  Haiya alla salat di hondi ae jad azan
+  Khair al-amal pukar ke assi karne aan aelan
+  Rab di azeem zaat nu sadja v kar magar aa ya Husain kar
+  Ana minal Husain da kuj te khiyal rakh
 
   4
   Pak aal di mawadat sanwaan de naal rakh
-  Denra aye jay Risalat-e-Sarwar ka tu ajar aa ya Hussain kar
-  Athro te na Hussain da likh ke khiraj de
-  Aye gham bashar de wastay gham da elaj aye
+  Denra ae jay Risalat-e-Sarwar ka tu ajar aa ya Husain kar
+  Athro te na Husain da likh ke khiraj de
+  Ae gham bashar de wastay gham da elaj ae
 
   5
-  Jag di mosibataan wich denda way aye sabar aa ya Hussain kar
+  Jag di mosibataan wich denda way ae sabar aa ya Husain kar
   Kirdar Hur da aakh de Saqlain har ghari
-  Dill wich e nayi zaban toan kehnra aye lazmi
-  Doron ki takna ayin dosta halkay de wich utar aa ya Hussain kar
+  Dill wich e naiṅ zaban toan kehnra ae lazmi
+  Doron ki takna ayin dosta halkay de wich utar aa ya Husain kar
 ---
 
 ۱

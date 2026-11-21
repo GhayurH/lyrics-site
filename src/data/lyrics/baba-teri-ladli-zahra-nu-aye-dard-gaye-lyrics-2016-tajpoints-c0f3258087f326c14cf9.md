@@ -1,6 +1,6 @@
 ---
 title: "بابا تیری لاڈلی زہرا نوں ایہہ درد گئے"
-alternateTitle: "Baba Teri Ladli Zahra Nu Aye Dard Gaye"
+alternateTitle: "Baba Teri Laadli Zehra Nu Eh Dard Gae Ne Maar"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -11,20 +11,20 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baba teri ladli Zahra nu aye dard gaye ne maar
-  Tu deen da masla bhul gayi ayein reh kehnde wich darbar
-  Haider di wilayat parh ayi aan main Fidaqa de khutbe naal
-  Tere dein layi teri Zahra nu aj langne paye bazar
+  Baba teri laadli Zehra nu ae dard gae ne maar
+  Tu deen da masla bhul gayi aein reh kehnde wich darbaar
+  Haider di wilayat parh ayi aan main Fadak de khutbe naal
+  Tere din layi teri Zehra nu aj langne pae baazaar
   Main tere naam de wain kite mainu lokaan chadiya rook
-  Tanu rowan layi jana painda Baba Yasrab toon baar
+  Tainu rowan layi jana painda Baba Yasrab toṅ baar
 
   2
   Kyun hath pase tu nayi chukdi bas sun lay aina haal
   Ik pasay balda boha si te ik pasay si dewar
-  Tere badon awein badal gaye ne arabaan de dastoor
-  Ohh boha sarh gaya parhna sain salwaat jithe har waar
-  Akbar bibi aye wain kare kita Mankuntu nu qaid
-  Aynj lagda aye sare kar gaye ne teri bait toon inkar
+  Tere badon awein badal gae ne arabaan de dastoor
+  Ohh boha sarh gaya parhna sain salawaat jithe har waar
+  Akbar bibi ae wain kare kita Mankuntu nu qaid
+  Aynj lagda ae sare kar gae ne teri baiat toṅ inkar
 ---
 
 ۱

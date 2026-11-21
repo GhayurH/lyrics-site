@@ -9,12 +9,12 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Watan se Karbobala ko jo qafela nikla,
-  Toh ghamse ahle Madine ne dill ko thamliya,
-  Yeh gulta choot raha hai Rasool ka roza,
-  Khabar thi chahe Huda ko na hoga fir aana,
-  Hussain dekhte the apne sunhe aangan ko,
-  Kaha kisine pakadke abaa ke daaman ko
+  Watan se Karb o Bala ko jo qaafila nikla,
+  To gham se Ahl-e-Madina ne dil ko thaam liya,
+  Yeh gulta choot raha hai Rasul ka roza,
+  Khabar thi Shah-e-Huda ko na hoga fir aana,
+  Husain dekhte the apne sunhe aangan ko,
+  Kaha kisi ne pakar ke abaa ke daaman ko
 
   Haaye baba...mere baba
 
@@ -51,7 +51,7 @@ romanLyrics: |-
   Baba....,  baba mere Asghar
 
   6
-  Iss dill ki tamannao ke armaan se sadqe,
+  Iss dil ki tamannao ke armaan se sadqe,
   Jo shaan hai bacche ki usii shaan ke sadqe,
   Asghar pe mein ho jaaugi soh jaan se sadqe,
   Baba....,  baba mere Asghar

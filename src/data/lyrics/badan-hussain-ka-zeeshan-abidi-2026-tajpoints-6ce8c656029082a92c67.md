@@ -1,6 +1,6 @@
 ---
-title: "بدن حسین کا ذیشان عابدی ۲۰۲۶"
-alternateTitle: "Badan Hussain Ka Zeeshan Abidi 2026"
+title: "بدن حسین کا"
+alternateTitle: "Badan Husain Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Badan Hussain ka zakhmi para hai maqtal mein
-  Hazaron zakhm woh kha kar gira hai maqtal mein
-  Hoin ghareeb ki sab pasliyaan idhar se udhar
-  Badan youn ghoron se rondha gaya hai maqtal mein
+  Badan Husain ka zakhmi para hai maqtal mein
+  Hazaaroṅ zakhm woh kha kar gira hai maqtal mein
+  Huiṅ gharib ki sab pasliyaaṅ idhar se udhar
+  Badan youn ghoroṅ se raunda gaya hai maqtal mein
 
   2
   Kati thi ungli badan par they khanjron ke nishaan
-  Behan ko iss tarha bhai mila hai maqtal mein
+  Behan ko iss tarah bhaai mila hai maqtal mein
   Hata ke lash se pathar kaha yeh Zainab ne
   Kissi ko aisay koi marta hai maqtal mein
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   4
   Nikal ke aa gayin bahir galay ki sari ragein
   Jab iss ke halq mein neza laga hai maqtal mein
-  Kahey Hussain ko Zeeshan kis tarha tanha
+  Kahey Husain ko Zeeshan kis tarah tanha
   Badan ke pas abhi Fatima hai maqtal mein
 ---
 
