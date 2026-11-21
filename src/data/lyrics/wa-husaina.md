@@ -18,7 +18,7 @@ romanLyrics: |-
   Wa Husaina wa Husaina
 
   1
-  Aaṅkh ho gham meiṅ ye purnam
+  Aankh ho gham meiṅ ye purnam
   Dam bhi nikle to nahiṅ gham
   Ye ibaadat se nahiṅ kam
 
@@ -28,7 +28,7 @@ romanLyrics: |-
   Kaise hoga kabhi ye kam
 
   3
-  Gham meiṅ dube haiṅ Payambar
+  Gham meiṅ dube haiṅ Paimbar
   Rote haiṅ Haidar-e-Safdar
   Berida hote haiṅ mehram
 

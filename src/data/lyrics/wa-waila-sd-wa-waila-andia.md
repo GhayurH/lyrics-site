@@ -11,57 +11,71 @@ romanLyrics: |-
   Wa waila sad wa waila
 
   1
-  Haey Pyasa zibha kar diya
-
-  2
-  Maara gaya Syed Mazloom
-
-  3
-  Haey Asghar ka chaida gala
-
-  4
-  Haey Chadar cheeni Karbala
-
-  5
-  Haey Ya Janab e Syeda
-
-  6
-  Wa waila wa waila wa waila sad wa waila
-  Tu hay Shaheed e Karbala
-  Tu ne Shaheed e Karbala
+  Haaye pyaasa zibha kar diya
+  Lakht-e-jigar-e-Sayyeda
+  Haaye Kufiyoṅ ne ki dagha
+  Sayyed maara begunah
+  Haaye khaali aaya Zuljanah
+  Khu mein nahaaya hua
+  Haaye Ghazi bhi maara gaya
+  Paani na khaime aa saka
+  Haaye Akbar ke maara neza
+  Barchhi ne chheda sina
+  Haaye Qasim paamaal-e-jafa
+  Laasha sahra mein bikhra
+  Haaye Asghar ka chheda gala
+  Tir-e-sitam maara gaya
+  Haaye chaadar chhini Karbala
+  Zainab ho gai berida
+  Haaye kunba sab maara gaya
+  Ya Janaab-e-Sayyeda
+  -
+  Wa waila wa waila, wa waila sad wa waila
+  Ye hidaayatoṅ ki jaza mili
+  -
+  Tu hai Shahid-e-Karbala
+  Tu ne Shahid-e-Karbala
   Islam zinda kar diya
-  Tu ne Shaheed e Karbala
+  Tu hai Shahid-e-Karbala
+  Tu ne baraa-e-kibriya
+  Apna bhara ghar de diya
   Asghar diya Akbar diya
   Akbar diya Asghar diya
-  Tu ne Shaheed e Karbala
-  Ye hidayaton ki jaza mili
-  Ye inayaton ka sila diya
-  Wo charagh qabr e Nabi ka tha
-  Jisay Karbala may bujha diya
+  Saqqa diya Qasim diya
+  Jab paas kuchh na rah gaya
+  Sar apna sajde mein rakha
+  Subhaana Rabbi kah diya
+  Jaaṅ ko supurd-e-rab kiya
+  Qurbaan apna ghar kiya
+  Islam zinda ho gaya
+  Tu hai Shahid-e-Karbala
+  Husain Imam Husain, Haidar
+  Husain Imam Husain, Haidar
+  -
+  Ye hidaayatoṅ ki jaza mili
+  Ye inaayatoṅ ka sila diya
+  Wo charaagh qabr-e-Nabi ka tha
+  Jise Karbala mein bujha diya
   Ye Husain tera hi kaam tha
-  Ke sab apnay laal fida kiye
-  Tujhe in sitaron ne doob kar
-  Shab e gham ka chand banaya diya
-  Ye Ali ke laal ki himmatain
-  Ye sinan o teer ki dawatain
-  Kaheen nojawan ka jigar diya
-  Kaheen bezaban ka gala diya
-  Kaho dil kahan se wo layain gay
-  Jo Husain kahimay may jayain gay
-  Jisay maa ki goad se laaye thay
-  Usay zair e khaak sula diya
-  Na Husain ghoray pe tham sakay
-  Ke sada azaan ki buland thi
-  Wo namaz e asr ka waqt tha
-  Ke zameen pe khud ko gira diya
-  Chaman aap apna luta diya
-  Ke bahar e deen e Khuda rahay
-  Na jama jo rang bahar ka
-  To lahoo bhi apna mila diya
-
-  7
-  Husain Imam Husain Haider
-  Husain Imam Husain Haider
+  Ke sab apne laal fida kiye
+  Tujhe in sitaaroṅ ne dub kar
+  Shab-e-gham ka chaand bana diya
+  Ye Ali ke laal ki himmateṅ
+  Ye sinaan o tir ki daawateṅ
+  Kahiṅ naujawaan ka jigar diya
+  Kahiṅ be zabaan ka gala diya
+  Kaho dil kahaaṅ se wo laaeṅ ge
+  Jo Husain khaime mein jaaeṅ ge
+  Jise maaṅ ki god se laaye the
+  Use zer-e-khaak sula diya
+  Na Husain ghore pe tham sake
+  Ke sada azaaṅ ki buland thi
+  Wo namaaz-e-asr ka waqt tha
+  Ke zamiṅ pe khud ko gira diya
+  Chaman aap apna luta gaye
+  Ke bahaar-e-din-e-Khuda rahe
+  Na jama jo rang bahaar ka
+  To lahu bhi apna mila diya
 ---
 
 واویلا صد واویلا

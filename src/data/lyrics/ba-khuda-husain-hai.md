@@ -21,8 +21,8 @@ romanLyrics: |-
   Akbar o salaar-e-man
   Mimbar-e-imaan-e-man
 
-  Wal asr ki qasam walfajr ki qasam
-  Wan nur ki qasam Yaasin ki qasam
+  Walasr ki qasam walfajr ki qasam
+  Wannur ki qasam Yaasin ki qasam
   Allah ke bataaye hue din ki qasam
   Keh raha hai khud ye kibriya
   Ba khuda ba khuda ba khuda
@@ -32,7 +32,7 @@ romanLyrics: |-
   1
   Saanseṅ nisaar baadshaah-e-mashriqain par
   Qurbaan dil ka chain bhi Zahra ke chain par
-  Apne lahu se likhte haiṅ Akbar ke pursadaar
+  Apne lahu se likhte haiṅ Akbar ke pursa daar
   Sadqe ye do jahaaṅ hai Imaam-e-Husain par
   Haq ki zabaan raaz-e-azaaṅ shaah-e-shahidaan
   Kashti-e-Nabi ka naakhuda
@@ -52,12 +52,12 @@ romanLyrics: |-
   Ya Husain as salaam
   Maula Husain sayyid o salaar as salaam
   Aur kushtagaan-e-ishq ke sardaar as salaam
-  Ae mehmana-e-assaib-e-nur as salaam
+  Ae mehmaan-e-asaayib-e-nur as salaam
   Haaye Husain tashna o ranjur as salaam
   Ae aakhri Nabi ke nawaase tere nisaar
   Ae saahil-e-Furaat ke pyaase tere nisaar
   As salaam as salaam as salaam
-  Sallal laahu wa alika ya Aba Abdillah
+  Sallallaahu wa alaika ya Aba Abdillaah
   Laaiq-e-salaam-e-kibriya
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 
@@ -66,8 +66,8 @@ romanLyrics: |-
   Daulat hameṅ hui hai ataa ya Husain ki
   Lagta hai aane waala hai ab aakhri Husain
   Kaabe se aa rahi hai sada ya Husain ki
-  Baab-e-saqa rabb-e-ataa dar hai dua ka
-  Matami ka sirf aasra
+  Baab-e-saqqa rabb-e-ataa dar hai dua ka
+  Maatami ka sirf aasra
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   5
@@ -84,7 +84,7 @@ romanLyrics: |-
   Maqtal ka intikhaab kiya hai Husain ne
   Chaadar chhini hai Zainab o Kulsum ki magar
   Dushman ko benaqaab kiya hai Husain ne
-  Subh-e-azal shaam-e-abad nur-e-ahad hai
+  Subh-e-azal shaam-e-abad nur-e-ahd hai
   Inqilaab-e-waqt ki sada
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 
@@ -98,10 +98,10 @@ romanLyrics: |-
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   8
-  Maatam ki saf jahaaṅ bhi banaate hai matami
-  Dast-e-khuda ka haath bataate haiṅ matami
+  Maatam ki saf jahaaṅ bhi banaate hai maatami
+  Dast-e-khuda ka haath bataate haiṅ maatami
   Taazim meiṅ utha hai Takallum har ek bashar
-  Ek shor hai ke hashr meiṅ aate haiṅ matami
+  Ek shor hai ke hashr meiṅ aate haiṅ maatami
   Aankhoṅ meiṅ nam sinoṅ meiṅ gham lab pe sada hai
   Kaarwaan-e-haq ka peshwa
   Ba khuda ba khuda ba khuda ba khuda Husain hai
@@ -115,9 +115,9 @@ romanLyrics: |-
   Ya Husain ya Husain
   Koi na tera raha
   Ya Husain ya Husain
-  Asghar-e-bekhata
+  Asghar bekhata
   Husain Husain Husain Husain
-  Akbar-e-nau jawaaṅ
+  Akbar naujawaaṅ
   Husain Husain Husain Husain
   Haaye wo bawafa
   Husain Husain Husain Husain

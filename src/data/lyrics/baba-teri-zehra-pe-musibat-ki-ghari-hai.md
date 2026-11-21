@@ -9,127 +9,73 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Baba mere baba
-
-  Teri zehra pe musibat ki ghadi hai
-
-  Haye baba
-
-  Kaise darwaza hata''un
-
-  Kaise mohsin ko bacha''un
-
-  Saans seene may ruki hai
-
+romanLyrics: |-
+  Baba mere baba
+  Teri Zehra pe musibat ki ghari hai
+  Haaye baba
+  Kaise darwaaza hataa'uṅ
+  Kaise Mohsin ko bachaa'uṅ
+  Saans sine mein roki hai
 
   1
-
-  Teri ummat ne banadi hai ye haalat baba
-
-  Koi phasli bhi nahi meri salamat baba
-
-  Saans leti hoo mai jis dum rukne lagta hai mera dum
-
+  Teri ummat ne bana di hai ye haalat baba
+  Koi pasli bhi nahiṅ meri salaamat baba
+  Saans leti huṅ main jis dam rukne lagta hai mera dam
   Sirf marne ki kami hai
 
-
   2
-
-  Bin ali ke mai zamane may jiyungi kaise
-
-  Sab hai bardaasht ye bardaasht karungi kaise
-
-  Bad gayi hadh se adawat teri beti ko te ummat
-
+  Bin Ali ke main zamaane mein jiyuṅ gi kaise
+  Sab hai bardaasht ye bardaasht karuṅ gi kaise
+  Barh gayi had se adaawat teri beti ko to ummat
   Bewa karne pe tuli hai
 
-
   3
-
-  Kabhi darbar may peshi ko bulate hai hamay
-
-  Kabhi darwaze pe aa aa ke satate hai hamay
-
-  Mere ye phool se bache poochte hai yehi mujhse
-
-  Kya khata humse huwi hai
-
+  Kabhi darbaar mein peshi ko bulaate haiṅ hameṅ
+  Kabhi darwaaze pe aa aa ke sataate haiṅ hameṅ
+  Mere ye phul se bachche puchhte haiṅ yahi mujh se
+  Kya khata ham se hui hai
 
   4
-
-  Guzri athara baras may hi wo mujhpar baba
-
-  Sin mera lagta hai fizza ke barabar baba
-
-  Khud gawahi tumhe degi mere baalon ki safedi
-
-  Wo jafa mujhpe hui hai
-
+  Guzri athaarah baras mein hi woh mujh par baba
+  Sinn mera lagta hai Fizza ke baraabar baba
+  Khud gawaahi tumheṅ de gi mere baaloṅ ki safedi
+  Woh jafa mujh pe hui hai
 
   5
-
-  Jab se hasnain ke baba se suna hai ye kalaam
-
-  Ke mujhko ab koi madine may nahi karta salaam
-
-  Tab se haal hai mera apne gham bhool ke baba
-
-  Bas mujhe fikr e ali hai
-
+  Jab se Hasnain ke baba se suna hai ye kalaam
+  Ke mujh ko ab koi Madine mein nahiṅ karta salaam
+  Tab se ye haal hai mera apne gham bhul ke baba
+  Bas mujhe fikr-e-Ali hai
 
   6
-
-  Sharm aati hai bhala tum ko bata''un kaise
-
-  Ye tamachon ke nishan tum ko dikha''un kaise
-
-  Tum na pehchan sakoge dekh kar mujhko kahoge
-
-  Kya meri zehra yehi hai
-
+  Sharm aati hai bhala tum ko bataa'uṅ kaise
+  Ye tamaachoṅ ke nishaaṅ tum ko dikhaa'uṅ kaise
+  Tum na pehchaan sakoge dekh kar mujh ko kahoge
+  Kya meri Zehra yahi hai
 
   7
-
-  Haath may jiske mera haath diya tha tum ne
-
-  Kehke man kunto jise maula kaha tha tum ne
-
-  Maine har mod pe baba saath uska hai nibhaya
-
-  Haan mera jurm yehi hai
-
+  Haath mein jis ke mera haath diya tha tum ne
+  Keh ke man kuntu jise Maula kaha tha tum ne
+  Main ne har mor pe baba saath us ka hai nibhaaya
+  Haaṅ mera jurm yahi hai
 
   8
-
-  Ye aziyat ye khamoshi nahi dekhi jaati
-
-  Mujhse tanhai ali ki nahi dekhi jaati
-
-  Tera paigham sunane haq wilayat ka batane
-
-  Zehra ghar ghar may gayi hai
-
+  Ye aziyat ye khaamoshi nahiṅ dekhi jaati
+  Mujh se tanhaai Ali ki nahiṅ dekhi jaati
+  Tera paighaam sunaane haq-e-wilaayat ka bataane
+  Zehra ghar ghar mein gayi hai
 
   9
-
-  Aap ke sog may tareek na dekha gaya ghar
-
-  Aag darwaze pe ummat ne lagadi aakar
-
-  Baba jaan baad tumhare dekhiye ghar may hamare
-
-  Roshni kaise huwi hai
-
+  Aap ke sog mein taarik na dekha gaya ghar
+  Aag darwaaze pe ummat ne laga di aa kar
+  Baba jaan baad tumhaare dekhiye ghar mein hamaare
+  Roshni kaise hui hai
 
   10
-
-  Qabre zehra se takallum ye sada aati hai
-
-  Kitni sadiyon se meri qabr pe veerani hai
-
-  Phool turbat pe chadade ek diya laake jalade
-
-  Kya madine may koi hai'
+  Qabr-e-Zehra se Takallum ye sada aati hai
+  Kitni sadiyoṅ se meri qabr pe viraani hai
+  Phul turbat pe charha de ek diya laa ke jala de
+  Kya Madine mein koi hai
 ---
 
 بابا میرے بابا

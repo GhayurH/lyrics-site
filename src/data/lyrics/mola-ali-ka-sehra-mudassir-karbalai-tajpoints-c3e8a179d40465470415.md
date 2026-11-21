@@ -1,85 +1,155 @@
 ---
-title: "Mola Ali Ka Sehra Mudassir Karbalai"
+title: "مولا علی کا سہرا مدثر کربلائی"
+alternateTitle: "Mola Ali Ka Sehra Mudassir Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nasim"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Quraan zaban-e-haq se pukara basad adab
+  Emaan ka silsila hai, yeh rishta ba hukam-e-Rab
+  Dolha dulhan Khuda-o-Nabi ke hain muntahib
+  Rakhtay hain dono ashraf-o-aala hasab nasab
+  Inn ke yeh kafu hain tu woh inn ki nazeer hain
+  Woh Syeda hain our yeh janab-e-Ameer hain
+
+  2
+  Dil se duaein deney lagay sahib-e-wila
+  Pholein phalein jahan mein Zahra-o-Murtaza
+  Ashar-e-tehniyat ka howa shoor ja baja
+  Ki muqtazaye haal ne Hazrat se iltija
+  Hai lutf e bostan e jinna ki shamim ka
+  Sun lijiye hazoor yeh sehra Nasim ka
+
+  3
+  Islam ke waqar ka sehra Ali ke sar
+  Ahmad ke iftikhar ka sehra Ali ke sar
+  Qudrat ke ikhteyar ka sehra Ali ke sar
+  Toheed-e-Kirdgar ka sehra Ali ke sar
+  Sehra hai farq-e-pak pe asma-e-zaat ka
+  Sehra Ali ke sar hai Khuda ki sifaat ka
+
+  4
+  Ahkam e karsaaz ka sehra Ali ke sar
+  Qudrat ke imtiyaz ka sehra Ali ke sar
+  Asrar-e-be niyaz ka sehra Ali ke sar
+  Rozay ka our namaz ka sehra Ali ke sar
+  Sehra hai farq-e-pak pe ayehad-e-alasat ka
+  Sehra Ali ke sar hai buttoon ki shikast ka
+
+  5
+  Islam ki kamai ka sehra Ali ke sar
+  Aalam ki peshwayi ka sehra Ali ke sar
+  Qudrat ki ronomai ka sehra Ali ke sar
+  Zahra ki katkhudai ka sehra Ali ke sar
+  Sehra hai farq-e-pak pe Khaliq ki chah ka
+  Sehra hai sar pe ashhado unn lailaha ka
+
+  6
+  Tanveer e Zuljalal ka sehra Ali ke sar
+  Mabood ke jamal ka sehra Ali ke sar
+  Kuffar ke zawwal ka sehra Ali ke sar
+  Islam ke kamal ka sehra Ali ke sar
+  Paya howa Nabi se Khuda se chuna howa
+  Naimat ke khatmay ka hai sehra bandha howa
+
+  7
+  Tanzeel e Qul Kufa ka hai sehra Ali ke sar
+  Mairaj-e-Hal Atta ka hai sehra Ali ke sar
+  La saif-o-la fata ka hai sehra Ali ke sar
+  Tatheer-o-innama ka hai sehra Ali ke sar
+  Mil kar Khuda, Rasool ne dolha banaya hai
+  Quraan ka sehra aal ki kashti mein aaya hai
+
+  8
+  Sehra Ali ke sar hai Khuda ke kalam ka
+  Sehra Ali ke sar hai qaood-o-qiyam ka
+  Sehra Ali ke sar hai Muhammad ke naam ka
+  Sehra Ali ke sar hai darood-o-salam ka
+  Sab ki girah kushai ka sehra Ali ke sar
+  Al mukhtasir Khuda ka hai sehra Ali ke sar
+
+  9
+  Lo aqad-e-ke tamam marahil hoye tamam
+  Auraat mein hai aarsi mushaf ka ahtamam
+  Laya hai arsh, loh ka aaina la kalam
+  Ismat idhar hai bain mein Quraan udhar imam
+  Aankhein Rasool ki hain Ali ki nigah mein
+  Ain-e-Khuda hai bint-e-Nabi ki nigah mein
 ---
 
-Mola Ali Ka Sehra Mudassir Karbalai
+۱
+قرآن زبانِ حق سے پکارا بہ صد ادب
+ایمان کا سلسلہ ہے، یہ رشتہ بہ حکمِ رب
+دولہا دلہن خدا و نبی کے ہیں منتخب
+رکھتے ہیں دونوں اشرف و اعلیٰ حسب نسب
+ان کے یہ کفو ہیں تو وہ ان کی نظیر ہیں
+وہ سیدہ ہیں اور یہ جنابِ امیر ہیں
 
-1
-Quraan Zaban-e-Haq Se Pukara Basad Adab.
-Emaan Ka Silsila Hai, Yeh Rishta Ba Hukam-e-Rab.
-Dolha Dulhan Khuda-o-Nabi Ke Hain Muntahib.
-Rakhtay Hain Dono Ashraf-o-Aala Hasab Nasab.
-Inn Ke Yeh Kafu Hain Tu Woh Inn Ki Nazeer Hain.
-Woh Syeda Hain Our Yeh Janab-e-Ameer Hain.
+۲
+دل سے دعائیں دینے لگے صاحبِ ولا
+پھولیں پھلیں جہاں میں زہرا و مرتضیٰ
+اشعارِ تہنیت کا ہوا شور جا بجا
+کی مقتضائے حال نے حضرت سے التجا
+ہے لطفِ بوستانِ جناں کی شمیم کا
+سن لیجیے حضور یہ سہرا نسیم کا
 
-2
-Dil Se Duaein Deney Lagay Sahib-e-Wila.
-Pholein Phalein Jahan Mein Zahra-o-Murtaza.
-Ashar-e-Tehniyat Ka Howa Shoor Ja Baja.
-Ki Muqtazaye Haal Ne Hazrat Se Iltija.
-Hai Lutf e Bostan e Jinna Ki Shamim Ka.
-Sun Lijiye Hazoor Yeh Sehra Nasim Ka.
+۳
+اسلام کے وقار کا سہرا علی کے سر
+احمد کے افتخار کا سہرا علی کے سر
+قدرت کے اختیار کا سہرا علی کے سر
+توحیدِ کردگار کا سہرا علی کے سر
+سہرا ہے فرقِ پاک پہ اسمائے ذات کا
+سہرا علی کے سر ہے خدا کی صفات کا
 
-3
-Islam Ke Waqar Ka Sehra Ali Ke Sar.
-Ahmad Ke Iftikhar Ka Sehra Ali Ke Sar.
-Qudrat Ke Ikhteyar Ka Sehra Ali Ke Sar.
-Toheed-e-Kirdgar Ka Sehra Ali Ke Sar.
-Sehra Hai Farq-e-Pak Pe Asma-e-Zaat Ka.
-Sehra Ali Ke Sar Hai Khuda Ki Sifaat Ka.
+۴
+احکامِ کارساز کا سہرا علی کے سر
+قدرت کے امتیاز کا سہرا علی کے سر
+اسرارِ بے نیاز کا سہرا علی کے سر
+روزے کا اور نماز کا سہرا علی کے سر
+سہرا ہے فرقِ پاک پہ عہدِ الست کا
+سہرا علی کے سر ہے بتوں کی شکست کا
 
-4
-Ahkam e Karsaaz Ka Sehra Ali Ke Sar.
-Qudrat Ke Imtiyaz Ka Sehra Ali Ke Sar.
-Asrar-e-Be Niyaz Ka Sehra Ali Ke Sar.
-Rozay Ka Our Namaz Ka Sehra Ali Ke Sar.
-Sehra Hai Farq-e-Pak Pe Ayehad-e-Alasat Ka.
-Sehra Ali Ke Sar Hai Buttoon Ki Shikast Ka.
+۵
+اسلام کی کمائی کا سہرا علی کے سر
+عالم کی پیشوائی کا سہرا علی کے سر
+قدرت کی رونمائی کا سہرا علی کے سر
+زہرا کی کدخدائی کا سہرا علی کے سر
+سہرا ہے فرقِ پاک پہ خالق کی چاہ کا
+سہرا ہے سر پہ اشہد ان لا الٰہ کا
 
-5
-Islam Ki Kamai Ka Sehra Ali Ke Sar.
-Aalam Ki Peshwayi Ka Sehra Ali Ke Sar.
-Qudrat Ki Ronomai Ka Sehra Ali Ke Sar.
-Zahra Ki Katkhudai Ka Sehra Ali Ke Sar.
-Sehra Hai Farq-e-Pak Pe Khaliq Ki Chah Ka.
-Sehra Hai Sar Pe Ashhado Unn Lailaha Ka.
+۶
+تنویرِ ذوالجلال کا سہرا علی کے سر
+معبود کے جمال کا سہرا علی کے سر
+کفار کے زوال کا سہرا علی کے سر
+اسلام کے کمال کا سہرا علی کے سر
+پایا ہوا نبی سے خدا سے چنا ہوا
+نعمت کے خاتمے کا ہے سہرا بندھا ہوا
 
-6
-Tanveer e Zuljalal Ka Sehra Ali Ke Sar.
-Mabood Ke Jamal Ka Sehra Ali Ke Sar.
-Kuffar Ke Zawwal Ka Sehra Ali Ke Sar.
-Islam Ke Kamal Ka Sehra Ali Ke Sar.
-Paya Howa Nabi Se Khuda Se Chuna Howa.
-Naimat Ke Khatmay Ka Hai Sehra Bandha Howa.
+۷
+تنزیلِ قل کفیٰ کا ہے سہرا علی کے سر
+معراجِ ہل اتیٰ کا ہے سہرا علی کے سر
+لا سیف و لا فتیٰ کا ہے سہرا علی کے سر
+تطہیر و انما کا ہے سہرا علی کے سر
+مل کر خدا، رسول نے دولہا بنایا ہے
+قرآن کا سہرا آل کی کشتی میں آیا ہے
 
-7
-Tanzeel e Qul Kufa Ka Hai Sehra Ali Ke Sar.
-Mairaj-e-Hal Atta Ka Hai Sehra Ali Ke Sar.
-La Saif-o-La Fata Ka Hai Sehra Ali Ke Sar.
-Tatheer-o-Innama Ka Hai Sehra Ali Ke Sar.
-Mil Kar Khuda, Rasool Ne Dolha Banaya Hai.
-Quraan Ka Sehra Aal Ki Kashti Mein Aaya Hai.
+۸
+سہرا علی کے سر ہے خدا کے کلام کا
+سہرا علی کے سر ہے قعود و قیام کا
+سہرا علی کے سر ہے محمد کے نام کا
+سہرا علی کے سر ہے درود و سلام کا
+سب کی گرہ کشائی کا سہرا علی کے سر
+المختصر خدا کا ہے سہرا علی کے سر
 
-8
-Sehra Ali Ke Sar Hai Khuda Ke Kalam Ka.
-Sehra Ali Ke Sar Hai Qaood-o-Qiyam Ka.
-Sehra Ali Ke Sar Hai Muhammad Ke Naam Ka.
-Sehra Ali Ke Sar Hai Darood-o-Salam Ka.
-Sab Ki Girah Kushai Ka Sehra Ali Ke Sar.
-Al Mukhtasir Khuda Ka Hai Sehra Ali Ke Sar.
-
-9
-Lo Aqad-e-Ke Tamam Marahil Hoye Tamam.
-Auraat Mein Hai Aarsi Mushaf Ka Ahtamam.
-Laya Hai Arsh, Loh Ka Aaina La Kalam.
-Ismat Idhar Hai Bain Mein Quraan Udhar Imam.
-Aankhein Rasool Ki Hain Ali Ki Nigah Mein.
-Ain-e-Khuda Hai Bint-e-Nabi Ki Nigah Mein.
+۹
+لو عقد کے تمام مراحل ہوئے تمام
+عورات میں ہے آرسی مصحف کا اہتمام
+لایا ہے عرش، لوح کا آئینہ لا کلام
+عصمت ادھر ہے بین میں قرآن ادھر امام
+آنکھیں رسول کی ہیں علی کی نگاہ میں
+عینِ خدا ہے بنتِ نبی کی نگاہ میں

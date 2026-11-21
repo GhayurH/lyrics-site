@@ -18,8 +18,8 @@ romanLyrics: |-
   Kharid lo ke ye sauda bahut hi sasta hai
 
   2
-  Mubaahile ki ye surat bata rahi hai hameiṅ
-  Ke Panjetan ke muqaabil jo aaye jhuta hai
+  Mubaahale ki ye surat bata rahi hai hameiṅ
+  Ke Panjtan ke muqaabil jo aaye jhuta hai
 
   3
   Husainiyat ko lahu chaahiye baqa ke liye
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Ilaahi khair kisi ki nazar na lag jaaye
-  Zaif baap ka kariyal jawaan beta hai
+  Zaif baap ka karil jawaan beta hai
 
   7
   Jise Husain ne athaarah saal paala tha

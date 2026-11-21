@@ -31,7 +31,7 @@ romanLyrics: |-
   Mehraab-e-dil meiṅ aza ki qasam
   Qibla-e-jaan hai tu Shaah-e-umam
   Kaaba-e-ishq hai tera haram
-  Us ke tawaaf meiṅ nikle hum
+  Us ke tawaaf meiṅ nikle ham
   Ho itna karam
   Aarzu Karbala hai meri Husain
   Aankh meiṅ hai nami Husain
@@ -60,7 +60,7 @@ romanLyrics: |-
   Laasha zamiṅ pe tha na zin par
   Khushk gale par tha khanjar
   Khaa ke giri ghash ek muztar
-  Teri khwahar
+  Teri khwaahar
   Aah sajde ka sajda hai Karbala
   Aah qible ka qibla hai Karbala
   Aah kaabe ka kaaba hai Karbala
@@ -86,9 +86,9 @@ romanLyrics: |-
   Maisam aur Salman bayaaṅ
   Zikr karo ye misl-e-azaaṅ
   Ho ga ye jab bedaar jahaaṅ
-  Aayeṅge Mehdi Shaah-e-zamaaṅ
+  Aayeṅ ge Mehdi Shaah-e-zamaaṅ
   Aaj jo diwaanoṅ ne kaha
-  Saara jahaaṅ kal dega sada
+  Saara jahaaṅ kal de ga sada
   Ya Husain ya Husaina
 ---
 

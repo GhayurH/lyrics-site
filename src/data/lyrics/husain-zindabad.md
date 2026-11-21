@@ -11,82 +11,82 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dono jahaṅ meiṅ dhum hai
-  Dono jahaṅ meiṅ dhum
+  Donoṅ jahaṅ meiṅ dhum hai
+  Donoṅ jahaṅ meiṅ dhum
   Husain zindabad Husain zindabad
-  Ek din meiṅ wo kamaal kiya hai Husain ne
+  Ik din meiṅ wo kamaal kiya hai Husain ne
 
   2
   Sadiyoṅ ka dil bahaal kiya hai Husain ne
   Husain zindabad Husain zindabad
   Husain zindabad
-  Insaniyat ko phir se ata ki nayi hayaat
+  Insaaniyat ko phir se ata ki nayi hayaat
 
   3
-  Khanjar ke niche rakhli habibe khuda ki baat
-  Ye aur baat apni luta di hai kayenaat
+  Khanjar ke niche rakh li habib-e-Khuda ki baat
+  Ye aur baat apni luta di hai kaainaat
   Kaabe ko maala maal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
+  Ik din meiṅ wo kamaal...
 
   4
-  Aisa sharaf jahaṅ meiṅ baksha hai jaun ko
-  Mur mur ke ambiya ne bhi dekha hai jaun ko
-  Apne karam se itna nawaza hai jaun ko
-  Haa rutba e bilaal kiya hai Husain ne
+  Aisa sharaf jahaṅ meiṅ bakhsha hai Jaun ko
+  Mur mur ke ambiya ne bhi dekha hai Jaun ko
+  Apne karam se itna nawaza hai Jaun ko
+  Haaṅ rutba-e-Bilaal kiya hai Husain ne
 
   5
-  Ek din meiṅ wo kamaal...
-  Kya sochta hai daaman-e-aqdas ko thaam le
-  Darbar meiṅ na inke takalluf se kaam le
-  Aulaad chaahiye to dua e imam le
+  Ik din meiṅ wo kamaal...
+  Kya sonchta hai daaman-e-aqdas ko thaam le
+  Darbaar meiṅ na inke takalluf se kaam le
+  Aulaad chaahiye to dua-e-imaam le
 
   6
   Raahib kise nidhaal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
-  Pesh e kirdagaar na ho phir se surkh ru
-  Ran meiṅ kiya hai khun se baysheer ke wazu
+  Ik din meiṅ wo kamaal...
+  Pesh-e-kirdagaar na ho phir se surkh ru
+  Ran meiṅ kiya hai khun se be shir ke wuzu
 
   7
-  Tiroṅ pa ho namaz ke naizoṅ pa guftagu
+  Tiroṅ pe ho namaaz ke naizoṅ pe guftagu
   Har kaam bemisaal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
-  Utho hussainiat ka jahaṅ ko payam do
+  Ik din meiṅ wo kamaal...
+  Utho Husainiyat ka jahaṅ ko payaam do
 
   8
-  Dunya ko har mahaas pa dars e imam do
-  Apne lahu ke pyasoṅ ko pani ka jaam do
+  Dunya ko har mahaas pe dars-e-imaam do
+  Apne lahu ke pyaasoṅ ko paani ka jaam do
   Dushman ka bhi khayaal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
+  Ik din meiṅ wo kamaal...
 
   9
-  Asghar ko jalti rayt pa chora hai karbala
-  Jaane sukut e zulm ko tora hai karbala
-  Insaan ka zamir jhinjhora hai karbala
-  Pani ka kab sawaal kiya hai Husain ne
+  Asghar ko jalti ret pe chhora hai Karbala
+  Jaan sukut-e-zulm ko tora hai Karbala
+  Insaan ka zamir jhanjhora hai Karbala
+  Paani ka kab sawaal kiya hai Husain ne
 
   10
-  Ek din meiṅ wo kamaal...
-  Sine meiṅ ghut ke mar gayi hasrat yazid ki
-  Har ek ko bata di haqiqat yazid ki
-  Sakte meiṅ par gayi hai hukumat yazid ki
+  Ik din meiṅ wo kamaal...
+  Sine meiṅ ghut ke mar gayi hasrat Yazid ki
+  Har ek ik ko bata di haqiqat Yazid ki
+  Sakte meiṅ par gayi hai hukumat Yazid ki
 
   11
   Bayyat ka aisa haal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
-  Batla raha tha dasht meiṅ hamla imam ka
-  Charoṅ taraf tha rob mujahid ke naam ka
+  Ik din meiṅ wo kamaal...
+  Batla raha tha dasht meiṅ hamla-e-imaam ka
+  Chaaroṅ taraf tha rob mujahid ke naam ka
 
   12
-  Milta nishan tak na kahiṅ fauj e shaam ka
-  Bas paas e zuljalaal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
+  Milta nishaan tak na kahiṅ fauj-e-Shaam ka
+  Bas paas-e-Zuljanaah kiya hai Husain ne
+  Ik din meiṅ wo kamaal...
   Mil kar bhi gar saara jahaṅ zulm dhayega
 
   13
   Parde meiṅ jo muqim hai wo khud bachayega
-  Shiyoṅ ko aamir o akhtar mitayega
+  Shiaoṅ ko Aamir o Akhtar mitayega
   Khud inko la zawaal kiya hai Husain ne
-  Ek din meiṅ wo kamaal...
+  Ik din meiṅ wo kamaal...
 ---
 
 ۱

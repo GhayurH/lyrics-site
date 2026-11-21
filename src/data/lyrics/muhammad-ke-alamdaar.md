@@ -12,22 +12,22 @@ tags: []
 aliases: ["Mohamed Ke Alamdar"]
 published: true
 romanLyrics: |-
-  Zakhmi hue sajde meiṅ Muhammad ke alamdaar
+  Zakhmi hue sajde mein Muhammad ke alamdaar
   Haidar-e-Karraar Haidar-e-Karraar
 
-  Mushkil meiṅ hai mushkil kusha nabiyoṅ ke madadgaar
+  Mushkil mein hai mushkil kusha nabiyoṅ ke madadgaar
   Haidar-e-Karraar Haidar-e-Karraar
 
   1
-  Sar zakhmi hua dard se hai jism meiṅ larza
+  Sar zakhmi hua dard se hai jism mein larza
   Sar thaame hue haathoṅ se kehte haiṅ ye Maula
   Khun rukta nahiṅ kaise karuṅ dusra sajda
-  Hai bhiga hua khuṅ meiṅ ab saara musalla
+  Hai bhiga hua khuṅ mein ab saara musalla
   Bekhauf chale maut se karte hue takraar
   Haidar-e-Karraar Haidar-e-Karraar
 
   2
-  Roze meiṅ kiya zarb-e-sitam maar ke zakhmi
+  Roze mein kiya zarb-e-sitam maar ke zakhmi
   To saara badan zard hai shiddat se zehr ki
   Ghash aate haiṅ reh reh ke ye haalat hai Ali ki
   Bistar pe tarapte haiṅ nahiṅ chain zara bhi
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   3
   Zainab ne kaha baba ko sine se laga kar
-  Na jaao hameiṅ chhor ke maiṅ waari huṅ tum par
+  Na jaao hameiṅ chhor ke main waari huṅ tum par
   Sadma na yatimi ka utha paauṅ gi dil par
   Aai thi Madine se yahaaṅ amma ko kho kar
   Nazdik bahut Eid hai sochiye ek baar
@@ -46,8 +46,8 @@ romanLyrics: |-
   Khaamosh ho kiuṅ baba Hasan ko ye bataao
   Aankhoṅ ko zara kholo to chehre ko utha lo
   Har din ki tarah sine se ab mujh ko lagaao
-  Taklif agar zakhm meiṅ ziyaada hai bataao
-  Qurbaan maiṅ jaan aap pe karne ko huṅ tayyaar
+  Taklif agar zakhm mein ziyaada hai bataao
+  Qurbaan main jaan aap pe karne ko huṅ tayyaar
   Haidar-e-Karraar Haidar-e-Karraar
 
   5
@@ -59,7 +59,7 @@ romanLyrics: |-
   Haidar-e-Karraar Haidar-e-Karraar
 
   6
-  Ek shor meiṅ Abbas khare rote haiṅ baba
+  Ek shor mein Abbas khare rote haiṅ baba
   Aankheiṅ hai charhi ghaiz se aur surkh hai chehra
   Sar kaat ke rakh de ga wo Muljim ke pisar ka
   Hai waqt-e-qaza kehte haiṅ Shabbir se Maula
@@ -67,7 +67,7 @@ romanLyrics: |-
   Haidar-e-Karraar Haidar-e-Karraar
 
   7
-  Tha shor Qamar Kufe meiṅ maare gaye Haidar
+  Tha shor Qamar Kufe mein maare gaye Haidar
   Ae Shaadmaaṅ tha chaaroṅ taraf hashr ka manzar
   Sar pito karo girya rakho khaak saroṅ par
   Sab kehte the ye Maula ke darwaaze pe aa kar

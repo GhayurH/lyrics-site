@@ -1,22 +1,34 @@
 ---
-title: "Utha Hai Janaza Hasan Askari Ka"
+title: "اٹھا ہے جنازہ حسن عسکری کا"
+alternateTitle: "Utha Hai Janaza Hasan Askari Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Nisar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hai ashkon se tar chehra har Hashmi ka
+  Kiye bain roti hain Qayam ki madar
+  Ajab haal gham se hai bint-e-Nabi ka
+  Issi ne hi mara tha Mohsin ko logon
+  Saqeefa ne mara hai beta Naqi ka
+  Do pursa yateemi ka Mehdi Sakhi ko
+  Keh yeh farz bachta hai har matami ka
+  Nisar, Askari ka na gar gham ho iss mein
+  Tu maqsad nahi hai koi zindagi ka
 ---
 
-1
-Hai Ashkon Se Tar Chehra Har Hashmi Ka.
-Kiye Bain Roti Hain Qayam Ki Madar.
-Ajab Haal Gham Se Hai Bint-e-Nabi Ka.
-Issi Ne Hi Mara Tha Mohsin Ko Logon.
-Saqeefa Ne Mara Hai Beta Naqi Ka.
-Do Pursa Yateemi Ka Mehdi Sakhi Ko.
-Keh Yeh Farz Bachta Hai Har Matami Ka.
- Nisar, Askari Ka Na Gar Gham Ho Iss Mein.
-Tu Maqsad Nahi Hai Koi Zindagi Ka.
+۱
+ہے اشکوں سے تر چہرہ ہر ہاشمی کا
+کیے بین روتی ہیں قائم کی مادر
+عجب حال غم سے ہے بنتِ نبی کا
+اسی نے ہی مارا تھا محسن کو لوگو
+سقیفہ نے مارا ہے بیٹا نقی کا
+دو پرسہ یتیمی کا مہدی سخی کو
+کہ یہ فرض بچتا ہے ہر ماتمی کا
+نثار، عسکری کا نہ گر غم ہو اس میں
+تو مقصد نہیں ہے کوئی زندگی کا

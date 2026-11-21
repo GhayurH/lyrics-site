@@ -41,13 +41,13 @@ romanLyrics: |-
   Paani piyegi waada raha hai
 
   6
-  Kehte the aadaa paani na deṅge
-  Khush ho ke ab hum paani piyeṅge
+  Kehte the aadaa paani na deṅ ge
+  Khush ho ke ab hum paani piyeṅ ge
   Lashkar-e-Yazidi sharma raha hai
 
   7
   Naad-e-Ali ko mashk o alam par
-  Dam karti rehti thi maiṅ jo aksar
+  Dam karti rehti thi main jo aksar
   Us ka asar ab rang laa raha hai
 
   8
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   9
   Paani Sakina tum sab ko dena
-  Baaba se lekar mashkiza apna
+  Baaba se le kar mashkiza apna
   Ghaazi ka beta samjhaa raha hai
 
   10

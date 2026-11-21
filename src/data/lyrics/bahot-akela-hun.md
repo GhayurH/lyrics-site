@@ -17,11 +17,11 @@ romanLyrics: |-
 
   1
   Sukun ho meri dhaaras ho mera shaana ho
-  Tumhi to jism ho mera tumhi to saaya ho
+  Tumheiṅ to jism ho mera tumheiṅ to saaya ho
   Ujar gayi meri dunya bahot akela huṅ
 
   2
-  Ajib haal meiṅ bhaiya ye saara ban dekha
+  Ajib haal mein bhaiya ye saara ban dekha
   Kahiṅ pe haath kahiṅ sar kahiṅ badan dekha
   Bahot bara hai ye sadma bahot akela huṅ
 
@@ -41,9 +41,9 @@ romanLyrics: |-
   Raha na koi sahaara bahot akela huṅ
 
   6
-  Tumhaare saath meiṅ rehna hamaari aadat hai
+  Tumhaare saath mein rehna hamaari aadat hai
   Jawaaṅ bhai ka marna bhi ik qayaamat hai
-  Hai dasht khuṅ meiṅ duba bahot akela huṅ
+  Hai dasht khuṅ mein duba bahot akela huṅ
 
   7
   Har ek simt udaasi hai beqaraari hai
@@ -51,8 +51,8 @@ romanLyrics: |-
   Karo na hum ko akela bahot akela huṅ
 
   8
-  Maiṅ jaa ke khaime meiṅ Zainab se kya kahuṅ bolo
-  Bas ek baar hi khaime meiṅ mere saath chalo
+  Main jaa ke khaime mein Zainab se kya kahuṅ bolo
+  Bas ek baar hi khaime mein mere saath chalo
   Karuṅ ga phir na ye shikwa bahot akela huṅ
 
   9

@@ -25,7 +25,7 @@ romanLyrics: |-
 
   2
   Rehne na deṅge chain se Yasrab meiṅ ahl-e-shar
-  Karbobala meiṅ jaa ke lutaayega apna ghar
+  Karb o Bala meiṅ jaa ke luta jaayega apna ghar
   Laashoṅ se Karbala ka ye maqtal sajaayega
 
   3
@@ -34,7 +34,7 @@ romanLyrics: |-
   Hur jaise jaannisaar pe aansu bahaayega
 
   4
-  Karyal jawaan beta bhi tarpega khaak par
+  Kariyal jawaan beta bhi tarpega khaak par
   Uglega khuṅ haathoṅ pe chhe maah ka pisar
   Nanhi si qabr dasht meiṅ ro kar banaayega
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   Paani bhi waqt-e-zibh na koi pilaayega
 
   8
-  Safdar bhi bain karta hai aur Mazhar Abidi
+  Safdar bhi bain karta hai aur Mazhar Aabidi
   Kaise bayaaṅ kareṅge shahaadat Husain ki
   Ye misra sab ko khun ke aansu rulaayega
 ---

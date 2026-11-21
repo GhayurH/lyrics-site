@@ -9,123 +9,65 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Mere Baba Mesum Abbas"
-romanLyrics: 'Mere Baba Main Karon Kya.
-
-  Khak Par Neend Nahi Aati Hai.
-
-  Yaad Aata Hai Mujhe Reh Reh Kar.
-
-  Aap Ka Seena Tha Mera Bistar.
-
+romanLyrics: |-
+  Mere baba main karuṅ kya
 
   1
-
-  Aaj Yeh Waqt Para Hai Baba.
-
-  Khak Bistar Hai Andhera Chadar.
-
-  Din Tarap Kar Main Guzaron.
-
-  Raat Matam Mein Guzar Jati Hai.
-
+  Khaak par nind nahiṅ aati hai
+  Yaad aata hai mujhe reh reh kar
+  Aap ka sina tha mera bistar
+  Aaj yeh waqt para hai baba
+  Khaak bistar hai andhera chaadar
+  Din tarap kar main guzaaruṅ
+  Raat maatam mein guzar jaati hai
 
   2
-
-  Kaun Faryad Sunay Ga Meri.
-
-  Sath Hai Mere Meri Tanhai.
-
-  Kan Zakhmi Hain Jigar Zakhmi Hai.
-
-  Khon Kano Se Abhi Jari Hai.
-
+  Kaun faryaad sunega meri
+  Saath hai mere meri tanhaai
+  Kaan zakhmi haiṅ jigar zakhmi hai
+  Khun kaanoṅ se abhi jaari hai
+  Koi marham na dawa hai
+  Maut nazdik hui jaati hai
 
   3
-
-  Koi Marham Na Dawa Hai.
-
-  Maut Nazdeek Hoi Jati Hai.
-
-  Sham Ko Ja Ke Dar-e-Zindaan Par.
-
-  Roz Main Dekhti Hoon Yeh Manzar.
-
+  Shaam ko ja ke dar-e-zindaaṅ par
+  Roz main dekhti huṅ yeh manzar
+  Laut ke jaaeṅ parinde jab ghar
+  Dil mera rota hai bas yeh keh kar
+  Jaane kab main jaauṅ gi ghar
+  Kab rihaai ki khabar aati hai
 
   4
-
-  Laut Ke Jaein Parinday Jab Ghar.
-
-  Dil Mera Rota Hai Bas Yeh Keh Kar.
-
-  Jane Kab Main Jaon Gi Ghar.
-
-  Kab Rehai Ki Khabar Aati Hai.
-
+  Haaye woh shaam-e-gharibaaṅ baba
+  Bhul sakti hi nahiṅ yeh dukhiya
+  Aag khaimoṅ mein lagi jab baba
+  Jal gaya aag se daaman mera
+  Keh rahi thi main yeh khud se
+  Tu yatimi ki saza paati hai
 
   5
-
-  Haye Woh Sham-e-Ghareebaan Baba.
-
-  Bhool Sakti Hi Nahi Yeh Dukhiya.
-
-  Aag Khaimon Mein Lagi Jab Baba.
-
-  Jal Gaya Aag Se Daman Mera.
-
+  Nil dekho mere rukhsaaroṅ ke
+  Yeh tamaachoṅ ke nishaaṅ haiṅ gehre
+  Main jo roti huṅ tumhaare gham mein
+  Maar... maarta hai mujhe zaalim aa ke
+  Jism qaidi ruh qaidi
+  Yeh asiri mujhe tarpaati hai
 
   6
-
-  Keh Rahi Thi Main Yeh Khud Se.
-
-  Tu Yateemi Ki Saza Pati Hai.
-
-  Neel Dekho Mere Rukhsaron Ke.
-
-  Yeh Tamachon Ke Nishaan Hain Gehray.
-
+  Jaan de duṅ gi yahi ro ro kar
+  Maut jine se yahaaṅ hai behtar
+  Aap talqin parhaana meri
+  Ek ehsaan yeh karna mujh par
+  Chain se main mar sakuṅ gi
+  Ek yahi aas nazar aati hai
 
   7
-
-  Main Jo Roti Hoon Tumhare Gham Mein.
-
-  Marta Hai Mujhe Zalim Aa Ke.
-
-  Jism Qaidi Rooh Qaidi.
-
-  Yeh Aseeri Mujhe Tarpati Hai.
-
-
-  8
-
-  Jan De Doon Gi Yahin Ro Ro Kar.
-
-  Maut Jeene Se Yahan Hai Bahatar.
-
-  Aap Talqeen Parhana Meri.
-
-  Aik Ahsan Yeh Karna Mujh Par.
-
-
-  9
-
-  Chain Se Main Mar Sakoon Gi.
-
-  Aik Yehi Aas Nazar Aati Hai.
-
-  Bain Jo Mazhar-o- Meesum Ne Parhey.
-
-  They Yehi Bali Sakina Ne Kahey.
-
-
-  10
-
-  Sath Gar Aap Hamarey Hotey.
-
-  Hai Yaqeen Tham Ke Dil Ro Detey.
-
-  Kya Jahan Mein Koi Ummat.
-
-  Youn Yateemo Pe Sitam Dhati Hai.'
+  Bain jo Mazhar o Mesum ne parhe
+  The yahi baali Sakina ne kahe
+  Saath gar aap hamaare hote
+  Hai yaqiṅ thaam ke dil ro dete
+  Kya jahaaṅ mein koi ummat
+  Yuṅ yatimoṅ pe sitam dhaati hai
 ---
 
 میرے بابا میں کروں کیا

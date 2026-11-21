@@ -1,140 +1,264 @@
 ---
-title: "Baali Sakina Ki Kahani Meesum Kashmiri"
+title: "بالی سکینہ کی کہانی"
+alternateTitle: "Baali Sakina Ki Kahani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Iram"
-tags: ["noUrdu"]
+poet: "Shumaila Iram"
+reciter: "Meesum Kashmiri"
+nohaVolume: "Meesum Kashmiri 2023-24"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Suno Bali Sakina ki kahani
+
+  1
+  Sheh-e-dein ki yateema ki kahani
+  Hussain ibn-e-Ali ki ladli thi
+  Sakoon-e-qalb-e-Sarwar thi woh bachi
+  Namaz-e-shab mein jis ko mangtay they
+
+  2
+  Jisay Shabeer be had chahtey they
+  Juda hotey na they beti se Maula
+  Tha masooma ka bistar sheh ka seena
+  Bin-e-Zahra pe thi rab ki inayat
+
+  3
+  Bara-e-shah-e-Wala thi woh rehmat
+  Wohi thi bais e taskeen-e-Baba
+  Woh jis ka naam tha Bali Sakina
+  Azadaro! howa ik din phir aisa
+
+  4
+  Para Shabeer ko Yasrab se jana
+  Pata thi shah-e-deein ko yeh haqeeqat
+  Sar-e-Karb-o-Bala hogi shahadat
+  Bina beti ke jee saktay na they woh
+
+  5
+  Safar mein sath oss ko le gaye woh
+  Kabhi woh dhop mein karti thi saya
+  Kabhi Baba ka woh leti thi bosa
+  Pilaya karti thi Baba ko pani
+
+  6
+  Sakina thi bohat Baba ko pyari
+  Sar-e-Karb-o-Bala thi woh musibat
+  Tha pani band our garmi ki shiddat
+  Fogaan thi chotay bachoon ki fiza mein
+
+  7
+  Sada-e-al-atash thi Karbala mein
+  Yeh kehte they ossay bachay Haram ke
+  Humein pani dila dijay chacha se
+  Magar tha jaan bulb shashmaha Asghar
+
+  8
+  Ossay gham tha na mar jaye baradar
+  Kayi din se na jo pani mila tha
+  Bohat pyasi thi masoma Sakina
+  Maiyan-e-Karbala phir oss ne dekhey
+
+  9
+  Chacha our bhaiyon ke bikhrey lashay
+  Ossi ik din mein oss ke Baba jaan ne
+  Bahatar lashay maqtal mein uthaye
+  They ban mein reh gaye tanha jo Maula
+
+  10
+  Kiya nu lakh ne Maula pe hamla
+  Kiye jati thi ummat sheh ko zakhmi
+  Padar se door jati thi na bachi
+  Shaqi ne sheh pe phir khanjar chalaya
+
+  11
+  Sar-e-Shabeer naizay par charhaya
+  Alam Sham-e-Ghareebaan ke siwa they
+  Jalay Sadaat ke khaimay sitam se
+  Luti sab bibiyon ke sar se chadar
+
+  12
+  Chiney kano se masooma ke gohar
+  Bohat khaye Sakina ne tamachay
+  Sahey oss ne musalsal taziyane
+  Sada deti thi ammo jaan kahan ho
+
+  13
+  Chacha Ghazi! mujhe aa kar bachao
+  Bohat zakhmi thi sheh ki shahzadi
+  Lahu tha oss ke rukhsaron se jari
+  Sitam seh seh ke bachi thak chuki thi
+
+  14
+  Sakina ko bohat neend aa gayi thi
+  Magar kaisay, kahan soti Sakina
+  Ossay tha chahiye Baba ka seena
+  Sar-e-maqtal woh lashon se guzar kar
+
+  15
+  Jo nikli dhondne Baba ko muztar
+  Boka karti thi Baba jaan kahan ho
+  Mujhe ik bar seene se laga lo
+  Sada aayi yeh lashay se Elayya
+
+  16
+  Sakina jan Elayya ya bonayya
+  Chaley jab Sham ki janib they qaidi
+  Rasan basta, aseera thi woh bachi
+  Tamachay marta tha jab sitamgar
+
+  17
+  Woh gir jati thi munh ke bal zameen par
+  Laeen ka hath kuch aisa tha bhari
+  Tamachon se tha khoon bachi ka jari
+  Tarap kar barha yaad-e-padar mein
+
+  18
+  Giri woh pusht-e-naqa se safar mein
+  Kahin oss ko muyassar tha na pani
+  Sakina Sham tak aayi hai pyasi
+  Hoi phir qaid zindan-e-sitam mein
+
+  19
+  Iram, Meesum thi woh Baba ke gham mein
+  Mila ik roz oss ko sar padar ka
+  Sunaya har alam Baba ko apna
+  Kaha: Baba mujhe marey tamachay
+
+  20
+  Mere gohar tere qatil ne cheeney
+  Teri beti bohat zakhmi hai Baba!
+  Sakina aaj bhi pyasi hai Baba!
+  Sar-e-Baba ko seene se lagaye
+
+  21
+  Sakina chal basi zindaan mein haye
 ---
 
-Baali Sakina Ki Kahani Meesum Kashmiri.
-Suno Bali Sakina Ki Kahani.
+سنو بالی سکینہ کی کہانی
 
-1
-Sheh-e-Dein Ki Yateema Ki Kahani.
-Hussain Ibn-e-Ali Ki Ladli Thi.
-Sakoon-e-Qalb-e-Sarwar Thi Woh Bachi.
-Namaz-e-Shab Mein Jis Ko Mangtay They.
+۱
+شہِ دیں کی یتیمہ کی کہانی
+حسین ابنِ علی کی لاڈلی تھی
+سکونِ قلبِ سرور تھی وہ بچی
+نمازِ شب میں جس کو مانگتے تھے
 
-2
-Jisay Shabeer Be Had Chahtey They.
-Juda Hotey Na They Beti Se Maula.
-Tha Masooma Ka Bistar Sheh Ka Seena.
-Bin-e-Zahra Pe Thi Rab Ki Inayat.
+۲
+جسے شبیر بے حد چاہتے تھے
+جدا ہوتے نہ تھے بیٹی سے مولا
+تھا معصومہ کا بستر شہ کا سینہ
+ابنِ زہرا پہ تھی رب کی عنایت
 
-3
-Bara-e-Shah-e-Wala Thi Woh Rehmat.
-Wohi Thi Bais e Taskeen-e-Baba.
-Woh Jis Ka Naam Tha Bali Sakina.
-Azadaro! Howa Ik Din Phir Aisa.
+۳
+برائے شاہِ والا تھی وہ رحمت
+وہی تھی باعثِ تسکینِ بابا
+وہ جس کا نام تھا بالی سکینہ
+عزادارو! ہوا اک دن پھر ایسا
 
-4
-Para Shabeer Ko Yasrab Se Jana.
-Pata Thi Shah-e-Deein Ko Yeh Haqeeqat.
-Sar-e-Karb-o-Bala Hogi Shahadat.
-Bina Beti Ke Jee Saktay Na They Woh.
+۴
+پڑا شبیر کو یثرب سے جانا
+پتا تھی شاہِ دیں کو یہ حقیقت
+سرِ کرب و بلا ہوگی شہادت
+بنا بیٹی کے جی سکتے نہ تھے وہ
 
-5
-Safar Mein Sath Oss Ko Le Gaye Woh.
-Kabhi Woh Dhop Mein Karti Thi Saya.
-Kabhi Baba Ka Woh Leti Thi Bosa.
-Pilaya Karti Thi Baba Ko Pani.
+۵
+سفر میں ساتھ اس کو لے گئے وہ
+کبھی وہ دھوپ میں کرتی تھی سایہ
+کبھی بابا کا وہ لیتی تھی بوسہ
+پلایا کرتی تھی بابا کو پانی
 
-6
-Sakina Thi Bohat Baba Ko Pyari.
-Sar-e-Karb-o-Bala Thi Woh Musibat.
-Tha Pani Band Our Garmi Ki Shiddat.
-Fogaan Thi Chotay Bachoon Ki Fiza Mein.
+۶
+سکینہ تھی بہت بابا کو پیاری
+سرِ کرب و بلا تھی وہ مصیبت
+تھا پانی بند اور گرمی کی شدت
+فغاں تھی چھوٹے بچوں کی فضا میں
 
-7
-Sada-e-Al-Atash Thi Karbala Mein.
-Yeh Kehte They Ossay Bachay Haram Ke.
-Humein Pani Dila Dijay Chacha Se.
-Magar Tha Jaan Bulb Shashmaha Asghar.
+۷
+صدائے العطش تھی کربلا میں
+یہ کہتے تھے اسے بچے حرم کے
+ہمیں پانی دلا دیجے چچا سے
+مگر تھا جاں بلب شش ماہا اصغر
 
-8
-Ossay Gham Tha Na Mar Jaye Baradar.
-Kayi Din Se Na Jo Pani Mila Tha.
-Bohat Pyasi Thi Masoma Sakina.
-Maiyan-e-Karbala Phir Oss Ne Dekhey.
+۸
+اسے غم تھا نہ مر جائے برادر
+کئی دن سے نہ جو پانی ملا تھا
+بہت پیاسی تھی معصومہ سکینہ
+میانِ کربلا پھر اس نے دیکھے
 
-9
-Chacha Our Bhaiyon Ke Bikhrey Lashay.
-Ossi Ik Din Mein Oss Ke Baba Jaan Ne.
-Bahatar Lashay Maqtal Mein Uthaye.
-They Ban Mein Reh Gaye Tanha Jo Maula.
+۹
+چچا اور بھائیوں کے بکھرے لاشے
+اسی اک دن میں اس کے بابا جان نے
+بہتر لاشے مقتل میں اٹھائے
+تھے بن میں رہ گئے تنہا جو مولا
 
-10
-Kiya Nu Lakh Ne Maula Pe Hamla.
-Kiye Jati Thi Ummat Sheh Ko Zakhmi.
-Padar Se Door Jati Thi Na Bachi.
-Shaqi Ne Sheh Pe Phir Khanjar Chalaya.
+۱۰
+کیا نو لاکھ نے مولا پہ حملہ
+کیے جاتی تھی امت شہ کو زخمی
+پدر سے دور جاتی تھی نہ بچی
+شقی نے شہ پہ پھر خنجر چلایا
 
-11
-Sar-e-Shabeer Naizay Par Charhaya.
-Alam Sham-e-Ghareebaan Ke Siwa They.
-Jalay Sadaat Ke Khaimay Sitam Se.
-Luti Sab Bibiyon Ke Sar Se Chadar.
+۱۱
+سرِ شبیر نیزے پر چڑھایا
+الم شامِ غریباں کے سوا تھے
+جلے سادات کے خیمے ستم سے
+لٹی سب بیبیوں کے سر سے چادر
 
-12
-Chiney Kano Se Masooma Ke Gohar.
-Bohat Khaye Sakina Ne Tamachay.
-Sahey Oss Ne Musalsal Taziyane.
-Sada Deti Thi Ammo Jaan Kahan Ho.
+۱۲
+چھینے کانوں سے معصومہ کے گوہر
+بہت کھائے سکینہ نے طمانچے
+سہے اس نے مسلسل تازیانے
+صدا دیتی تھی امّو جان کہاں ہو
 
-13
-Chacha Ghazi! Mujhe Aa Kar Bachao.
-Bohat Zakhmi Thi Sheh Ki Shahzadi.
-Lahu Tha Oss Ke Rukhsaron Se Jari.
-Sitam Seh Seh Ke Bachi Thak Chuki Thi.
+۱۳
+چچا غازی! مجھے آ کر بچاؤ
+بہت زخمی تھی شہ کی شہزادی
+لہو تھا اس کے رخساروں سے جاری
+ستم سہ سہ کے بچی تھک چکی تھی
 
-14
-Sakina Ko Bohat Neend Aa Gayi Thi.
-Magar Kaisay, Kahan Soti Sakina.
-Ossay Tha Chahiye Baba Ka Seena.
-Sar-e-Maqtal Woh Lashon Se Guzar Kar.
+۱۴
+سکینہ کو بہت نیند آ گئی تھی
+مگر کیسے، کہاں سوتی سکینہ
+اسے تھا چاہیے بابا کا سینہ
+سرِ مقتل وہ لاشوں سے گزر کر
 
-15
-Jo Nikli Dhondne Baba Ko Muztar.
-Boka Karti Thi Baba Jaan Kahan Ho.
-Mujhe Ik Bar Seene Se Laga Lo.
-Sada Aayi Yeh Lashay Se Elayya.
+۱۵
+جو نکلی ڈھونڈنے بابا کو مضطر
+بکا کرتی تھی بابا جان کہاں ہو
+مجھے اک بار سینے سے لگا لو
+صدا آئی یہ لاشے سے الیَّ
 
-16
-Sakina Jan Elayya Ya Bonayya.
-Chaley Jab Sham Ki Janib They Qaidi.
-Rasan Basta, Aseera Thi Woh Bachi.
-Tamachay Marta Tha Jab Sitamgar.
+۱۶
+سکینہ جان الیَّ یا بنیّہ
+چلے جب شام کی جانب تھے قیدی
+رسن بستہ، اسیرہ تھی وہ بچی
+طمانچے مارتا تھا جب ستمگر
 
-17
-Woh Gir Jati Thi Munh Ke Bal Zameen Par.
-Laeen Ka Hath Kuch Aisa Tha Bhari.
-Tamachon Se Tha Khoon Bachi Ka Jari.
-Tarap Kar Barha Yaad-e-Padar Mein.
+۱۷
+وہ گر جاتی تھی منہ کے بل زمین پر
+لعین کا ہاتھ کچھ ایسا تھا بھاری
+طمانچوں سے تھا خون بچی کا جاری
+تڑپ کر بارہا یادِ پدر میں
 
-18
-Giri Woh Pusht-e-Naqa Se Safar Mein.
-Kahin Oss Ko Muyassar Tha Na Pani.
-Sakina Sham Tak Aayi Hai Pyasi.
-Hoi Phir Qaid Zindan-e-Sitam Mein.
+۱۸
+گری وہ پشتِ ناقہ سے سفر میں
+کہیں اس کو میسر تھا نہ پانی
+سکینہ شام تک آئی ہے پیاسی
+ہوئی پھر قید زندانِ ستم میں
 
-19
- Iram, Meesum Thi Woh Baba Ke Gham Mein.
-Mila Ik Roz Oss Ko Sar Padar Ka.
-Sunaya Har Alam Baba Ko Apna.
-Kaha: Baba Mujhe Marey Tamachay.
+۱۹
+ارم، میثم تھی وہ بابا کے غم میں
+ملا اک روز اس کو سر پدر کا
+سنایا ہر الم بابا کو اپنا
+کہا: بابا مجھے مارے طمانچے
 
-20
-Mere Gohar Tere Qatil Ne Cheeney.
-Teri Beti Bohat Zakhmi Hai Baba!
-Sakina Aaj Bhi Pyasi Hai Baba!
-Sar-e-Baba Ko Seene Se Lagaye.
+۲۰
+میرے گوہر ترے قاتل نے چھینے
+تیری بیٹی بہت زخمی ہے بابا!
+سکینہ آج بھی پیاسی ہے بابا!
+سرِ بابا کو سینے سے لگائے
 
-21
-Sakina Chal Basi Zindaan Mein Haye.
-Poetess::Shumaila Iram:
-Noha Khowan::Meesum Kashmiri:
-Noha Volume::Meesum Kashmiri 2023-24:
+۲۱
+سکینہ چل بسی زنداں میں ہائے

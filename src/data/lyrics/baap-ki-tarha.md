@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ekeeswi ki subha qayamat ka tha samaa
-  Thar'ra raha tha chand larazta tha aasmaṅ
-  Baitus sharaf may baithe the sab log nim jaaṅ
-  Hyder ne baari baari har ek par nigah ki
-  Zainab ko junhi dekha to ek sard aah ki
-  Beti ko dekh dekh ke rone lage ali
-  Sarwar ka haath thaam ke kehne lage ali
-  Baap ki tarha kaleje se lagana beta
-  Phir meri laash se zainab ko churana beta
-  Betiyaṅ baap se manus bahot hoti hai
-  Choti choti si musibat pe bahot roti hai
-  Zakhm sar ka meri zainab se chupana beta
-  Baap ki tarha kaleje se...
-  Bain ehsaan yatimi se kare ghabrakar
-  Laash par meri jo gir jaye pachade kha kar
-  Kar ke dam nade ali usko uthana beta
-  Baap ki tarha kaleje se...
-  Haye ye darr hai mujhe jaan ko khote khote
-  Meri bachi kahiṅ mar jaye na rote rote
-  Chup ke zainab se kafan mujhko urhana beta
-  Baap ki tarha kaleje se...
-  Karwaṅ amn ka sab zulm o sitam lootenge
-  Meri bachi pe bahot ranj o alam tootenge
-  Har musibat se mere baad bachana beta
-  Baap ki tarha kaleje se...
-  Laash par meri to ji bhar ke abhi rolegi
-  Par teri laash pe ye laakhoṅ sitam jhelegi
-  Naaz saare meri zainab ke uthana beta
-  Baap ki tarha kaleje se...
-  Phir ye kehne lage aankoṅ se baha kar aansu
+  Ikkisviṅ ki subah qayaamat ka tha samaaṅ
+  Tharra raha tha chaand larazta tha aasmaaṅ
+  Baitush Sharaf mein baithe the sab log nim jaaṅ
+  Haidar ne baari baari har ek par nigaah ki
+  Zainab ko juṅhi dekha to ik sard aah ki
+  Beti ko dekh ke rone lage Ali
+  Sarwar ka haath thaam ke kehne lage Ali
+  Baap ki tarah kaleje se lagaana beta
+  Phir meri laash se Zainab ko chhuraana beta
+  Betiyaaṅ baap se maanus bahut hoti hai
+  Chhoti chhoti si musibat pe bahut roti hai
+  Zakhm-e-sar ka meri Zainab se chhupaana beta
+  Baap ki tarah kaleje se...
+  Bain Ehsaan yatimi se kare ghabra kar
+  Laash par meri jo gir jaaye pachhaareṅ kha kar
+  Kar ke dam Naad-e-Ali usko uthaana beta
+  Baap ki tarah kaleje se...
+  Haaye ye dar hai mujhe jaan ko khote khote
+  Meri bachchi kahiṅ mar jaaye na rote rote
+  Chhup ke Zainab se kafan mujhko urhaana beta
+  Baap ki tarah kaleje se...
+  Kaarwaaṅ amn ka sab zulm o sitam luteṅ ge
+  Meri bachchi pe bahut ranj o alam tuteṅ ge
+  Har musibat se mere baad bachaana beta
+  Baap ki tarah kaleje se...
+  Laash par meri to ji bhar ke abhi ro le gi
+  Par teri laash pe ye laakhoṅ sitam jhele gi
+  Naaz saare meri Zainab ke uthaana beta
+  Baap ki tarah kaleje se...
+  Phir ye kehne lage aankhoṅ se baha kar aansuṅ
   Chum lena meri jaanib se behan ke baazu
-  Jis ghari marne ko maidan may jaana beta
-  Baap ki tarha kaleje se...
-  Chain se raatoṅ ko zainab na kabhi soyegi
-  Mere veeran musalle pe bahot royegi
-  Kar ke talqin use aas bandhana beta
-  Baap ki tarha kaleje se...
-  Sabr wo meri judaai pe na kar payegi
-  Mujhko jo qabr may dekhegi to mar jayegi
-  Saath may usko janaze may na laana beta
-  Baap ki tarha kaleje se...
-  Aini khamush huwe maula shahadat paayi
-  Utha tabut jo aamir to sada ye aayi
-  Mujhpe jo guzri musibat na batana beta
-  Baap ki tarha kaleje se...
+  Jis ghari marne ko maidaan mein jaana beta
+  Baap ki tarah kaleje se...
+  Chain se raatoṅ ko Zainab na kabhi soye gi
+  Mere viraan musalle pe bahut roye gi
+  Kar ke talqin use aas bandhaana beta
+  Baap ki tarah kaleje se...
+  Sabr wo meri judaai pe na kar paaye gi
+  Mujhko jo qabr mein dekhe gi to mar jaaye gi
+  Saath mein usko janaaze mein na laana beta
+  Baap ki tarah kaleje se...
+  Aini khaamosh hue Maula shahaadat paayi
+  Utha taabut jo Aamir to sada ye aayi
+  Mujh pe jo guzri musibat na bataana beta
+  Baap ki tarah kaleje se...
 ---
 
 ۱

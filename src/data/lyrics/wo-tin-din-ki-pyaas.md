@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Wo gyaarahviṅ ke chaand ki afsurda roshni
-  Baaloṅ se muṅh chhupaaye wo shehzaadiyoṅ ki shaam
+  Baaloṅ se munh chhupaaye wo shehzaadiyoṅ ki shaam
 ---
 وہ تین دن کی پیاس وہ تشنہ لبوں کی شام
 اپنے گھروں سے دور وہ ان بے گھروں کی شام

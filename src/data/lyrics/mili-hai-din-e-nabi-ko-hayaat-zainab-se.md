@@ -16,7 +16,7 @@ romanLyrics: |-
   Husainiyat ki saji kaainaat Zainab se
 
   1
-  Jalaaye Shaam-e-Gharibaṅ meiṅ aaṅsuoṅ se charaagh
+  Jalaaye Shaam-e-Gharibaaṅ meiṅ aaṅsuoṅ se charaagh
   Ujaale maaṅgne aayi thi raat Zainab se
   Jo imtihaan ki manzil na saamne hoti
   Yazid kar nahiṅ sakta tha baat Zainab se
@@ -28,7 +28,7 @@ romanLyrics: |-
   Yazidiyat ne wo khaayi hai maat Zainab se
 
   3
-  Bas ek baagh-e-jinaṅ kya hai naam-e-Akbar par
+  Bas ek baagh-e-jinaaṅ kya hai naam-e-Akbar par
   Maiṅ maaṅg sakta huṅ kul kaainaat Zainab se
   Rehaan Azmi maiṅ kya huṅ meri nasloṅ ki
   Juri hui hai musalsal nijaat Zainab se

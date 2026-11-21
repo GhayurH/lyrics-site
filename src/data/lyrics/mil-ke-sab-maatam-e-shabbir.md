@@ -49,7 +49,7 @@ romanLyrics: |-
   Hum us ki tafsir kareṅ
 
   5
-  Maatam kya hai Shah ka alam hai
+  Maatam kya hai Sheh ka alam hai
   Ye maatam to diṅ ka bharam hai
   Jis se khushi ho wo ye gham hai
   Haq ka yehi maatam parcham hai
@@ -59,16 +59,16 @@ romanLyrics: |-
   6
   Maatam jis ka darya darya
   Jis ki wafa imaan ka chehra
-  Jis ke alam ka khuṅ mein pharera
+  Jis ke alam ka khuṅ mai pharera
   Dub gaya wo chaand na duba
-  Us ki wafa kehti hai hum se
+  Us ki wafaat kehti hai hum se
   Dunya ko tasqir kareṅ
 
   7
-  Yaad meiṅ teri Shaam-e-Gharibaṅ
+  Yaad meiṅ teri Shaam-e-Gharibaaṅ
   Maatam karne waale insaaṅ
   Karte haiṅ jab chaak garebaaṅ
-  Zehra khud hoti haiṅ giryaaṅ
+  Zehra khud hoti haiṅ girya
   Sunnat-e-Zehra hai ye maatam
   Is ko aalamgir kareṅ
 
@@ -97,11 +97,11 @@ romanLyrics: |-
   Nazr-e-Khaibar-gir kareṅ
 
   11
-  Keh deṅge Rehaan o Sarwar
+  Keh deṅ ge Rehaan o Sarwar
   Hashr meiṅ jab Khaatun-e-Mahshar
-  Puchheṅgi ye baat jo aa kar
+  Puchheṅ gi ye baat jo aa kar
   Chaahiye kya maatam ki bina par
-  Hum keh deṅge hum ko ghulaam-e
+  Hum keh deṅ ge hum ko ghulaam-e
   Shabbar o Shabbir kareṅ
 ---
 

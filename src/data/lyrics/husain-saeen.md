@@ -15,10 +15,10 @@ romanLyrics: |-
   Shaah ast Husain baadshaah ast Husain
   Diṅ ast Husain diṅ panaah ast Husain
 
-  Maa naukar maula saiṅ anjo
-  Haaṅ karbal waare saiṅ anjo
+  Maaṅ naukar maula saaiṅ aanjo
+  Haaṅ karbal waare saaiṅ aanjo
   Mere Sayyid mere sardaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
   Husain saaiṅ
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   Raahib ko diye haiṅ saat pisar
   Man misli hai Fitrus ke lab par
   Hum par bhi mahz ek baar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   2
   Tum murshid ho tum aaqa ho
@@ -35,23 +35,23 @@ romanLyrics: |-
   Hum adna haiṅ tum aala ho
   Hum maulaai tum maula ho
   Tum karte nahiṅ inkaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   3
-  Allah o Nabi ke pyaare ho
+  Allah Nabi ke pyaare ho
   Zehra ke raaj dulaare ho
   Quraan-e-Ali ke paare ho
   Tum chashm-e-Hasan ke taare ho
   Qudrat ka hasiṅ shaahkaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   4
   Hai wird bari Ajmeri ka
   Kehna hai Shams Nuraani ka
-  Bole har bait Bhitaai ka
+  Bole har baat Bhitaai ka
   Naara hai Laal Sehwaani ka
   Hai tera khula darbaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   5
   Sindh waloṅ ki hai shaan yehi
@@ -59,12 +59,12 @@ romanLyrics: |-
   Har lab par hai ailaan yehi
   Apna to hai imaan yehi
   Hum aap ke haiṅ hubdaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   6
-  Kayo maula sain manzur dua
-  Moo khe bhi ghurayo karbobala
-  Karbala karbala...
+  Kayo maula saain manzur dua
+  Mun khe bi ghuraayo Karb o Bala
+  Karbala Karbala...
 
   7
   Tum se hai mualla Karb o Bala
@@ -72,31 +72,31 @@ romanLyrics: |-
   Kaabe ka hai Kaaba Karb o Bala
   Nabiyoṅ ka musalla Karb o Bala
   Karte haiṅ dua zawwaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   8
   Khaaliq ki mohabbat mil jaaye
-  Naukar ko ijazat mil jaaye
+  Naukar ko ijaazat mil jaaye
   Maula ye saadat mil jaaye
   Hum ko bhi shahaadat mil jaaye
   Kehte the sabhi ansaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   9
-  Abbas ka laasha waawaila
+  Abbaas ka laasha waawaila
   Akbar gaya maara waawaila
   Tum reh gaye tanha waawaila
   Ye sabr tha kaisa waawaila
   Kehti hi rahi talwaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 
   10
-  Jawad aur Mesum ki hai sada
+  Jawaad aur Mesum ki hai sadaa
   Hum tere bhikaari haiṅ maula
   Jo rizq bhi hai hum ko milta
   Hai sadqa tere Asghar ka
   Hum tere haiṅ namak khwaar
-  Karo apna karam sarkar
+  Karo apna karam sarkaar
 ---
 شاہ است حسین بادشاہ است حسین
 دیں است حسین دیں پناہ است حسین

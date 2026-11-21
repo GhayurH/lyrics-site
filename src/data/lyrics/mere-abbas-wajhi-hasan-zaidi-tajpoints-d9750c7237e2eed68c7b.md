@@ -1,40 +1,67 @@
 ---
-title: "Mere Abbas Wajhi Hasan Zaidi"
+title: "میرے عباس وجیہ حسن زیدی"
+alternateTitle: "Mere Abbas Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Munajat"
-poet: "Nisa"
-tags: ["noUrdu"]
+poet: "Syeda Kinza Hasan Nisa"
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mere Abbas mere gham ka madawa kardo
+  Karbala mujh ko bola kar mujhe zindah kardo
+  Dil ki takleef na ab mujh se sahi jati hai
+  Karbala mujh ko har sans yaad aati hai
+  Yeh ziyarat ki lagan our zyada kardo
+  Ranj-o-Gham se main zamane ki howa choor bohat
+  Ho gaya Hazrat-e-Abbas main majboor bohat
+  Karbala aaon mera rizq kushada kardo
+  Mere Maula mera bacha bhi alamdar banay
+  Hath mein mashk ho Sarwar ka azadar banay
+  Mere Ghazi mere iss khuwab ko pora kardo
+  Sab yeh kehte hain muqadar ko jaga detey ho
+  Tum bina hathoon ke taqdeer bana detey ho
+  Bigri ban jaye meri tum jo ishara kardo
+  Jitnay beemar hain unn sab ki shifa ban jao
+  Tum har ik totay hoye dil ki sada ban jao
+  Inn muqadar ke andheron mein ujala kardo
+  Jitni takleefein hain unn sab se chura do Maula
+  Jitnay gham bhi hain zamane ke mita do Maula
+  Bas gham-e-shah-e-shaheedan mein izafa kardo
+  Kashif Al Kalbi ki tasbeeh se hai yeh jana
+  Tum ko Shabbir ne bhi Baab ul Hawaij mana
+  Meri mushkil ko bhi hal behar-e-sakina kardo
+  Yeh Nisa our Wajih dono ki hajat hai baham
+  Teen din dhop mein jaltay hoye lashay ki qasam
+  Apne parcham ka mere sar pe bhi saya kardo
 ---
 
-1
-Mere Abbas Mere Gham Ka Madawa Kardo.
-Karbala Mujh Ko Bola Kar Mujhe Zindah Kardo.
-Dil Ki Takleef Na Ab Mujh Se Sahi Jati Hai.
-Karbala Mujh Ko Har Sans Yaad Aati Hai.
-Yeh Ziyarat Ki Lagan Our Zyada Kardo.
-Ranj-o-Gham Se Main Zamane Ki Howa Choor Bohat.
-Ho Gaya Hazrat-e-Abbas Main Majboor Bohat.
-Karbala Aaon Mera Rizq Kushada Kardo.
-Mere Maula Mera Bacha Bhi Alamdar Banay.
-Hath Mein Mashk Ho Sarwar Ka Azadar Banay.
-Mere Ghazi Mere Iss Khuwab Ko Pora Kardo.
-Sab Yeh Kehte Hain Muqadar Ko Jaga Detey Ho.
-Tum Bina Hathoon Ke Taqdeer Bana Detey Ho.
-Bigri Ban Jaye Meri Tum Jo Ishara Kardo.
-Jitnay Beemar Hain Unn Sab Ki Shifa Ban Jao.
-Tum Har Ik Totay Hoye Dil Ki Sada Ban Jao.
-Inn Muqadar Ke Andheron Mein Ujala Kardo.
-Jitni Takleefein Hain Unn Sab Se Chura Do Maula.
-Jitnay Gham Bhi Hain Zamane Ke Mita Do Maula.
-Bas Gham-e-Shah-e-Shaheedan Mein Izafa Kardo.
-Kashif Al Kalbi Ki Tasbeeh Se Hai Yeh Jana.
-Tum Ko Shabbir Ne Bhi Baab Ul Hawaij Mana.
-Meri Mushkil Ko Bhi Hal Behar-e-Sakina Kardo.
-Yeh Nisa Our Wajih Dono Ki Hajat Hai Baham.
-Teen Din Dhop Mein Jaltay Hoye Lashay Ki Qasam.
-Apne Parcham Ka Mere Sar Pe Bhi Saya Kardo.
-Poetess::Syeda Kinza Hasan Nisa:
+۱
+میرے عباس میرے غم کا مداوا کر دو
+کربلا مجھ کو بلا کر مجھے زندہ کر دو
+دل کی تکلیف نہ اب مجھ سے سہی جاتی ہے
+کربلا مجھ کو ہر سانس یاد آتی ہے
+یہ زیارت کی لگن اور زیادہ کر دو
+رنج و غم سے میں زمانے کی ہوا چور بہت
+ہو گیا حضرتِ عباس میں مجبور بہت
+کربلا آؤں میرا رزق کشادہ کر دو
+میرے مولا میرا بچہ بھی علمدار بنے
+ہاتھ میں مشک ہو سرور کا عزادار بنے
+میرے غازی میرے اس خواب کو پورا کر دو
+سب یہ کہتے ہیں مقدر کو جگا دیتے ہو
+تم بنا ہاتھوں کے تقدیر بنا دیتے ہو
+بگڑی بن جائے میری تم جو اشارہ کر دو
+جتنے بیمار ہیں ان سب کی شفا بن جاؤ
+تم ہر اک ٹوٹے ہوئے دل کی صدا بن جاؤ
+ان مقدر کے اندھیروں میں اجالا کر دو
+جتنی تکلیفیں ہیں ان سب سے چھڑا دو مولا
+جتنے غم بھی ہیں زمانے کے مٹا دو مولا
+بس غمِ شاہِ شہیداں میں اضافہ کر دو
+کاشف الکلبی کی تسبیح سے ہے یہ جانا
+تم کو شبیر نے بھی باب الحوائج مانا
+میری مشکل کو بھی حل بہرِ سکینہ کر دو
+یہ نسا اور وجیہ دونوں کی حاجت ہے باہم
+تین دن دھوپ میں جلتے ہوئے لاشے کی قسم
+اپنے پرچم کا میرے سر پہ بھی سایہ کر دو

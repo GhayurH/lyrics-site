@@ -16,7 +16,7 @@ romanLyrics: |-
   Zehra ki dua sab ke liye hai
 
   1
-  Ye farsh-e-aza farsh-e-buka Karbobala hai
+  Ye farsh-e-aza farsh-e-bukaa Karbobala hai
   Ye khaak-e-Najaf khaak-e-haram khaak-e-shifa hai
   Ye nur-e-Khuda qibla numa arsh-e-Khuda hai
   Jalne na do nafrat ke diye pyaari hawaaoṅ
@@ -24,10 +24,10 @@ romanLyrics: |-
   Aur kaho labbaik Husain labbaik
 
   2
-  Dunya meiṅ saf-e-maatam-e-Shabbir bichhaao
+  Dunya mein saf-e-maatam-e-Shabbir bichhaao
   Khwaahish hai ye Zehra ki ise bhul na jaao
   Paighaam-e-Husain ibn-e-Ali sab ko sunaao
-  Insaan shanaasi-e-aza khaanoṅ meiṅ aao
+  Insaan shanaasi-e-aza khaanoṅ mein aao
   Ye amn ka paighaam hai dunya ko sunaao
   Aur kaho labbaik Husain labbaik
 
@@ -51,14 +51,14 @@ romanLyrics: |-
   Ye Karbobala kya hai ye maqtal nahiṅ maktab
   Is maktab-e-aali ki mudarris hui Zainab
   Jis Bibi ne mazbut kiya aur bhi mazhab
-  Is Bibi ke khutboṅ ko nisaaboṅ meiṅ parhaao
-  In phuloṅ ko guldaan-e-aqidat meiṅ sajaao
+  Is Bibi ke khutboṅ ko nisaaboṅ mein parhaao
+  In phuloṅ ko guldaan-e-aqidat mein sajaao
   Aur kaho labbaik Husain labbaik
 
   6
-  Gar shauq-e-ziyaarat hai aza khaane meiṅ aao
-  Gar amn ki chaahat hai aza khaane meiṅ aao
-  Dehshat se jo nafrat hai aza khaane meiṅ aao
+  Gar shauq-e-ziyaarat hai aza khaane mein aao
+  Gar amn ki chaahat hai aza khaane mein aao
+  Dehshat se jo nafrat hai aza khaane mein aao
   Jannat ki zarurat hai to is gham ko manaao
   Dunya se sitamgaroṅ ke fitne ko mitaao
   Aur kaho labbaik Husain labbaik

@@ -17,18 +17,18 @@ romanLyrics: |-
 
   1
   Mere rafiqoṅ madadgaar ab chale aao
-  Gira hai bekas o ghamkhwaar ab chale aao
+  Gira hai bekasoṅ ghamkhwaar ab chale aao
   Nahiṅ hai koi tarafdaar ab chale aao
 
   2
   Kahaaṅ ho mere rafiqoṅ bula raha hai Husain
   Ke ab zamiṅ pe ghore se aa raha hai Husain
-  Tumheṅ ye nauha-e-hal min suna raha hai Husain
+  Tumheṅ ye nauha-e-hal man suna raha hai Husain
 
   3
   Ye bewafaai ye ummat ki daastaaṅ hai ajib
   Kiya hai dasht meiṅ farzand-e-Mustafa ko gharib
-  Kahaaṅ ho Hurr-e-dilaawar kahaaṅ ho mere Habib
+  Kahaaṅ ho Hurr-e-Dilaawar kahaaṅ ho mere Habib
 
   4
   Ye dasht-e-Karbobala ye ajal ka sannaata
@@ -41,7 +41,7 @@ romanLyrics: |-
   Suno suno ae mere saathiyoṅ mere naale
 
   6
-  Nahiṅ hai paas-e-adab kuchh sitam ki dunya ko
+  Nahiṅ hai paas-e-adab kuchh sitam ki duniya ko
   Kiya hai tiroṅ ne behaal Ibn-e-Zahra ko
   Sitamgaaroṅ ne hai ghera tumhaare aaqa ko
 

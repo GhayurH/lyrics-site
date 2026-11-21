@@ -13,11 +13,11 @@ aliases: ["Azan Do Ay Mere Dilbar"]
 published: true
 romanLyrics: |-
   Azaan do ae mere dilbar sawera hone wala hai
-  Tumhare baad aalam meiṅ andhera hone wala hai
+  Tumhaare baad aalam meiṅ andhera hone wala hai
 
   1
   Kaha Sarwar ne Akbar se ujaala hone wala hai
-  Bala ke ban meiṅ ek khuni sawera hone wala hai
+  Bala ke ban meiṅ ik khuni sawera hone wala hai
   Hamaare khun se rangin sehra hone wala hai
   Kaleje se tumhaare paar neza hone wala hai
 
@@ -34,13 +34,13 @@ romanLyrics: |-
   Chaleṅ ge tir bhi talwaar bhi khanjar bhi neze bhi
 
   4
-  Juda shaane kisi ke aur kisi ke sar qalam hoṅ ge
+  Juda shaan kisi ke aur kisi ke sar qalam hoṅ ge
   Na Abbas-e-jari hoṅ ge na tum hoṅ ge na hum hoṅ ge
   Hamaare khaanwaade par bahut zulm o sitam hoṅ ge
   Jafaaoṅ par jafa hogi bala hoṅ ge alam hoṅ ge
 
   5
-  Lab-e-darya mere haathoṅ pe naazoṅ ka pala hoga
+  Lab-e-darya mere haathoṅ pe naazoṅ ka paala hoga
   Zabaaṅ sukhe laboṅ par hogi aur manka dhala hoga
   Sitam insaaniyat par is se barh kar aur kya hoga
   Mere beshir ki gardan meiṅ tir-e-Hurmala hoga
@@ -49,10 +49,10 @@ romanLyrics: |-
   Sitamgaaroṅ ka nargha hoga aur Aal-e-Abaa hogi
   Rasan basta hamaare baad Bint-e-Murtaza hogi
   Bhare darbaar meiṅ Zehra ki beti berida hogi
-  Meri nanhi Sakina par tamaachoṅ ki jafa hogi
+  Meri nanhi Sakina par tamaanchoṅ ki nishaaṅ hogi
 
   7
-  Shab-e-Aashur Sheh ke khaimoṅ meiṅ Mirza tha ek mahshar
+  Shab-e-Aashur Sheh ke khaimoṅ meiṅ Mirza tha ik mahshar
   Basad hasrat pisar se apne farmaate the jab Sarwar
   Mere karyal jawaaṅ ae hu baru hamshakl-e-Paighambar
   Tumhaare baad ae nur-e-nazar hai khaak aalam par

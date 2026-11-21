@@ -18,11 +18,11 @@ romanLyrics: |-
   Ek roz ka sunaate haiṅ hum tum ko waaqia
   Baithe hue zamin pe the Sardaar-e-Ambiya
   Ek zaanu pe Hasan the to ek zaanu pe Husain
-  Hukm-e-Khuda se kehte haiṅ Sarkaar-e-Mashraqain
+  Hukm-e-Khuda se kehte haiṅ Sarkaar-e-Mashriqain
 
   2
   Jis dam suna ye waaqia Zehra ne baap se
-  Puchha ye kaun saath meiṅ hoga Husain ke
+  Puchha ye kaun saath mein hoga Husain ke
   Koi na hoga Fatema khuṅ aasmaaṅ royega
   Khanjar ke niche hoga jab ye mere dil ka chain
 
@@ -33,10 +33,10 @@ romanLyrics: |-
   Hoga karam Khuda ka bas us par zeb o zain
 
   4
-  Asghar ko dafn kar ke jab uthe Shaah-e-Huda
+  Asghar ko dafn kar ke jab uthe Shah-e-Huda
   Karbobala ki jang ka naqsha palat diya
   Ghabra rahe the sab laiṅ chilla rahe the ahl-e-kiṅ
-  Lagta tha jaise aa gaye ae Faateh-e-Hunain
+  Lagta tha jaise gaye ae Faateh-e-Hunain
 
   5
   Maula Husain karte the Khaaliq se ye dua
@@ -46,15 +46,15 @@ romanLyrics: |-
 
   6
   Sar ko utha ke fakhr se Jibril ne kaha
-  Bachpan meiṅ jo kiya tha wo waada nibha diya
+  Bachpan mein jo kiya tha wo waada nibha diya
   Din-e-Khuda ke waaste Sher-e-Khuda ke laal ne
-  Sajde meiṅ sar sar kata diya Zehra ka nur-e-ain
+  Sajde mein sar sar kata diya Zehra ka nur-e-ain
 
   7
-  Rumaal le ke aayi hai majlis meiṅ Sayyeda
-  Misam aza ki bazm meiṅ tu marsiya suna
+  Rumaal le ke aayi hai majlis mein Sayyeda
+  Misam aza ki bazm mein tu marsiya suna
   Nusrat gunaahgaar hai par tera sogwaar hai
-  Mahshar meiṅ bakhshwaana tum Maula mere Husain
+  Mahshar mein bakhshwaana tum Maula mere Husain
 ---
 
 حسین و منی وانا من الحسین

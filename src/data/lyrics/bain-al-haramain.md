@@ -30,7 +30,7 @@ romanLyrics: |-
   Aik hi dar hai jo karta hai ilaaj-e-daarain
 
   3
-  Husn alfaaz barha, zikr hasin hone laga
+  Husn-e-alfaaz barha, zikr-e-Husain hone laga
   Jab ada mere laboṅ se hua naam-e-Hasnain
   Jaane kiuṅ log ye samjhe ke Khuda likha hai
   Ya Ali maiṅ ne likha daal ke jab bhi waawain

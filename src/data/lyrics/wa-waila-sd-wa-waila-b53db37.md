@@ -8,102 +8,60 @@ poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Wa waila sad wa waila
-
+romanLyrics: |-
+  Wa waila sad wa waila
 
   1
-
-  Kehtay hain yehi sab ahle aza
-
-  Zehra ka chaman barbad hua
-
+  Kehte haiṅ yahi sab ahl-e-aza
+  Zehra ka chaman barbaad hua
 
   2
-
-  Mehman bula kar Syed ko
-
-  Is tarha sataya ummat ne
-
-  Darya se hata kar khaimo ko
-
-  Pani pe lagaya hay pehra
-
+  Mehmaan bula kar Sayyid ko
+  Is tarah sataaya ummat ne
+  Darya se hata kar khaimoṅ ko
+  Paani pe lagaaya hai pehra
 
   3
-
-  Wo chand Nabi ke ghar ka tha
-
-  Kehtay thay jisay hamshakl e Nabi
-
-  Wo chand gaya beenayi gayi
-
-  Us ghar se ujala rooth gaya
-
+  Wo chaand Nabi ke ghar ka tha
+  Kehte the jise hamshakl-e-Nabi
+  Wo chand gaya binaai gayi
+  Us ghar se ujaala ruth gaya
 
   4
-
-  Tasveer e Hasan ka ik beta
-
-  Farwa ke kaleegay ka tukra
-
+  Tasvir-e-Hasan ka ik beta
+  Farwa ke kaleje ka tukra
   Wo dulha bana aur qatl hua
-
-  Zainab ne kaha aey meray Khuda
-
+  Zainab ne kaha ae mere Khuda
 
   5
-
-  Wo jis ke alam se pyason ko
-
-  Ashoor talak ik aas rahi
-
-  Jab qatl hua saqqa e haram
-
-  Thi khushk zubano par ye buka
-
+  Wo jis ke alam se pyaasoṅ ko
+  Aashur talak ik aas rahi
+  Jab qatl hua saqqa-e-haraam
+  Thi khushk zabaanoṅ par ye buka
 
   6
-
-  Do hi to pisar thay Zainab ke
-
-  Bhai pe jinhain qurban kiya
-
-  Jab Aon o Muhammad maray gaye
-
-  Zainab ne nahi Sarwar ne kaha
-
+  Do hi to pisar the Zainab ke
+  Bhaai pe jinheṅ qurbaan kiya
+  Jab Aun o Muhammad maare gaye
+  Zainab ne nahiṅ Sarwar ne kaha
 
   7
-
-  Jis shehazadi ko sooraj ne
-
-  Sar nangay nahi dekha tha kabhi
-
-  Us Zainab ko dikhlaya gaya
-
-  Bazar e sitam darbar e jafa
-
+  Jis shehzaadi ko suraj ne
+  Sar nange nahiṅ dekha tha kabhi
+  Us Zainab ko dikhlaaya gaya
+  Baazaar-e-sitam darbaar-e-jafa
 
   8
-
-  Qaidi ki tarha se Zainab ko
-
-  Galyon may laeen le jatay thay
-
-  Beemar musafir bebas tha
-
+  Qaidi ki tarah se Zainab ko
+  Galiyoṅ meiṅ laeen le jaate the
+  Bimaar musaafir bebas tha
   Bas karta raha har gaam buka
 
-
   9
-
-  Mazhar wo qayamat ka manzar
-
-  Lafzon may bayan kar sakta nahi
-
-  Ankhon se lahoo barsata hua
-
-  Kanton pe Imam e waqt chala'
+  Mazhar wo qayaamat ka manzar
+  Lafzoṅ meiṅ bayaaṅ kar sakta nahiṅ
+  Aaṅkhoṅ se lahu barsaata hua
+  Kaaṅtoṅ pe Imaam-e-waqt chala
 ---
 
 وا ویلا صد وا ویلا

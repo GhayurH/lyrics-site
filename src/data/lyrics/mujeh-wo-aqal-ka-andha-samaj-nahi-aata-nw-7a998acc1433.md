@@ -1,24 +1,57 @@
 ---
-title: "Mujeh Wo Aqal Ka Andha Samaj Nahi Aata"
+title: "مجھے وہ عقل کا اندھا سمجھ نہیں آتا"
+alternateTitle: "Mujeh Wo Aqal Ka Andha Samaj Nahi Aata"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mujhy wo aqal ka andha samaj nahi ata
+  Jisy to Ghadeer ka Moula samaj nahi ata
+
+  1
+  Ye mery sehar to ka hafiz bhi kesa hafiz hai
+  Kitaab yaad hai, nukhta samaj nahi ata
+
+  2
+  The falak sy dumbay ka ana samaj mai ata hai
+  Ali ka arsh pay jana samaj nahi ata
+
+  3
+  Tauwafa ye marzi ye moula samjh nahi aata
+  Ajeeb log hai kaaba samjh nahi aata
+
+  4
+  Fala ke qaside zamana laakh pade
+  Ho jisme baal wo shisha samjh nahi aata
+
+  5
+  Ali ko dekh ke aksar Nusrei sochta hai
+  Khuda pukaru ya bandha samjh nahi aata
 ---
 
-Mujhy wo aqal ka andha samaj Nahi ata
+مجھے وہ عقل کا اندھا سمجھ نہیں آتا
+جسے تو غدیر کا مولا سمجھ نہیں آتا
 
-Jisy to Ghadeer ka Moula samaj Nahi ata
+۱
+یہ میرے شہر تو کا حافظ بھی کیسا حافظ ہے
+کتاب یاد ہے، نکتہ سمجھ نہیں آتا
 
-Ye Mery Sehar to (city) ka hafiz bhi kesa Hafiz hai Kitaab Yaad Hai Nukhta Samaj Nahi Ata
+۲
+تہِ فلک سے دنبے کا آنا سمجھ میں آتا ہے
+علیؑ کا عرش پہ جانا سمجھ نہیں آتا
 
-The Falak Sy Dumbay Ka Ana Samaj Mai Ata Hai Ali as Ka Arsh Pay Jana Samaj Nahi Ata
+۳
+طواف، یہ مرضی، یہ مولا سمجھ نہیں آتا
+عجیب لوگ ہیں، کعبہ سمجھ نہیں آتا
 
-Tauwafa ye marzi ye moula samjh nahi aata Ajeeb log hai kaaba samjh nahi aata
+۴
+فلاں کے قصیدے زمانہ لاکھ پڑھے
+ہو جس میں بال، وہ شیشہ سمجھ نہیں آتا
 
-Fala ke qaside zamana laakh pade Ho jisme baal wo shisha samjh nahi aata
-
-Ali ko dekh ke aksar nusrei sochta hai. Khuda pukaru ya bandha samjh nahi aata
+۵
+علی کو دیکھ کے اکثر نصیری سوچتا ہے
+خدا پکاروں یا بندہ سمجھ نہیں آتا

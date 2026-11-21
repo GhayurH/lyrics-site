@@ -7,6 +7,34 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mere Husain pe khanjar haaye na chalaao logo
+  Ye dil hai Fatima Zaahra ka na dukhaao logo
+
+  1
+  Ye kaun log haiṅ jo din ko mitaane lage
+  Nabi ki bosa-e-gaah par khanjar chalaane lage
+  Husain o minni ka farmaan na bhulaao logo
+
+  2
+  Sada Sakina ki maqtal se ab bhi aati hai
+  Ye baat Aabid-e-bimaar ko rulaati hai
+  Shimr se baaloṅ ko mere koi chhuraao logo
+
+  3
+  Mere Husain ki maqtal mein koi aas nahiṅ
+  Bachaaye kaun aise ab mera Abbas nahiṅ
+  Husain pyaasa hai paani aise pilaao logo
+
+  4
+  Hui jo shaam-e-gharibaaṅ sitam ye dhaaya gaya
+  Ali ki beti ka khaimaaṅ bhi haaye jalaaya gaya
+  Sadaaeṅ aati thi khaimoṅ ko na jalaao logo
+
+  5
+  Janaab Zehra ne maqtal mein di sada Faisal
+  Main us ki zaamin-e-bakhshish huṅ ye bata Faisal
+  Nishaan maatam-e-Shabbir ka dikhaao logo
 ---
 
 میرے حسینؑ پہ خنجر ہائے نہ چلاؤ لوگو

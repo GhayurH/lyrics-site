@@ -1,35 +1,60 @@
 ---
-title: "Mere Khiyal Ko Nisbat Hoi Madine Se Naat"
+title: "میرے خیال کو نسبت ہوئی مدینے سے"
+alternateTitle: "Mere Khiyal Ko Nisbat Hoi Madine Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Iqtidar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mere khiyal ko nisbat hoi Madine se
+  Mehak ghulab ki aane lagi paseeney se
+  Faraz-e-arsh pe loh-o-qalam hain noor fishaan
+  Likhi hai naat-e-Nabi main ne iss qariney se
+
+  2
+  Nabi ki aal se ulfat nahi tu mar jao
+  Tumhara marna hi behtar hai aisay jeene se
+  Khulay hain faiz-o-atta ke tamam darwazay
+  Bas aik sagar hub-e-Nabi ke peenay se
+
+  3
+  Issi maheeney mein aaye hain rehmat-e-aalam
+  So rehmaton ka safar hai issi maheeney se
+  Suna hai atish-e-dozakh mein doob jata hai
+  Utar de jisay aal-e-Nabi safeney se
+
+  4
+  Woh noor jis ki nahi taab Toor-e-Seena ko
+  Woh noor hum ne lagaya hai apne seene se
+  Hum Iqtidar nayi zindagi nichorein gay
+  Wilaye aal mein ab maut ke paseeney se
 ---
 
-1
-Mere Khiyal Ko Nisbat Hoi Madine Se – Naat.
-Mehak Ghulab Ki Aane Lagi Paseeney Se.
-Faraz-e-Arsh Pe Loh-o-Qalam Hain Noor Fishaan.
-Likhi Hai Naat-e-Nabi Main Ne Iss Qariney Se.
+۱
+میرے خیال کو نسبت ہوئی مدینے سے
+مہک گلاب کی آنے لگی پسینے سے
+فرازِ عرش پہ لوح و قلم ہیں نور فشاں
+لکھی ہے نعتِ نبی میں نے اس قرینے سے
 
-2
-Nabi Ki Aal Se Ulfat Nahi Tu Mar Jao.
-Tumhara Marna Hi Behtar Hai Aisay Jeene Se.
-Khulay Hain Faiz-o-Atta Ke Tamam Darwazay.
-Bas Aik Sagar Hub-e-Nabi Ke Peenay Se.
+۲
+نبی کی آل سے الفت نہیں تو مر جاؤ
+تمہارا مرنا ہی بہتر ہے ایسے جینے سے
+کھلے ہیں فیض و عطا کے تمام دروازے
+بس ایک ساغر حبِ نبی کے پینے سے
 
-3
-Issi Maheeney Mein Aaye Hain Rehmat-e-Aalam.
-So Rehmaton Ka Safar Hai Issi Maheeney Se.
-Suna Hai Atish-e-Dozakh Mein Doob Jata Hai.
-Utar De Jisay Aal-e-Nabi Safeney Se.
+۳
+اسی مہینے میں آئے ہیں رحمتِ عالم
+سو رحمتوں کا سفر ہے اسی مہینے سے
+سنا ہے آتشِ دوزخ میں ڈوب جاتا ہے
+اتار دے جسے آلِ نبی سفینے سے
 
-4
-Woh Noor Jis Ki Nahi Taab Toor-e-Seena Ko.
-Woh Noor Hum Ne Lagaya Hai Apne Seene Se.
-Hum Iqtidar Nayi Zindagi Nichorein Gay.
-Wilaye Aal Mein Ab Maut Ke Paseeney Se.
+۴
+وہ نور جس کی نہیں تاب طورِ سینا کو
+وہ نور ہم نے لگایا ہے اپنے سینے سے
+ہم اقتدار نئی زندگی نچوڑیں گے
+ولائے آل میں اب موت کے پسینے سے

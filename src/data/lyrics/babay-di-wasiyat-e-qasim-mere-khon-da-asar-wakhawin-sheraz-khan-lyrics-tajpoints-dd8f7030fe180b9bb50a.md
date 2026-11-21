@@ -1,29 +1,45 @@
 ---
-title: "Babay Di Wasiyat E Qasim Mere Khon Da Asar Wakhawin Sheraz Khan Lyrics Punjabi 2023"
+title: "بابے دی وصیت، اے قاسم میرے خون دا اثر وکھاویں"
+alternateTitle: "Babay Di Wasiyat E Qasim Mere Khon Da Asar Wakhawin"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mere baad mere Shabbir layi toon Hasan bhira ban jawein
+  Kuj mere farz ne tere te jehray toon ne sirf nibharein
+  Meri maa di qabar uttay Qasim ik dewa roz jalawin
+
+  2
+  Mere qatal te Ghazi nu Qasim toon aap dilasay dewin
+  Jehra maan aye meriyaan bainraan da toon odha manr wadawin
+  Mere Ghazi veer da phophiyaan de parday di hifazat layi
+  Sajjad te Akbar veraan da har welay sath nibhawin
+
+  3
+  Qasim jadon watan Madine taun karey veer Hussain teyari
+  Zainab taun pailaan Farwa nu mehmal te aap bithawin
+  Qurban howein te maqtal choon aye Jaun Hasan farmaya
+  Mere jigar de tukray ban Qasim gathri wich khaimay jawein
 ---
 
-1
-Babay Di Wasiyat E Qasim Mere Khon Da Asar Wakhawin Sheraz Khan
-Mere Baad Mere Shabbir Layi Toon Hasan Bhira Ban Jawein.
-Kuj Mere Farz Ne Tere Te Jehray Toon Ne Sirf Nibharein.
-Meri Maa Di Qabar Uttay Qasim Ik Dewa Roz Jalawin.
+۱
+میرے بعد میرے شبیر لئی توں حسن بھرا بن جاویں
+کجھ میرے فرض نیں تیرے تے جیہڑے توں نے صرف نبھاریں
+میری ماں دی قبر اُتّے قاسم اک دیوا روز جلاویں
 
-2
-Mere Qatal Te Ghazi Nu Qasim Toon Aap Dilasay Dewin.
-Jehra Maan Aye Meriyaan Bainraan Da Toon Odha Manr Wadawin.
-Mere Ghazi Veer Da Phophiyaan De Parday Di Hifazat Layi.
-Sajjad Te Akbar Veraan Da Har Welay Sath Nibhawin.
+۲
+میرے قتل تے غازی نوں قاسم توں آپ دلاسے دیویں
+جیہڑا مان اے میریاں بھینڑاں دا توں اوہدا مان ودھاویں
+میرے غازی ویر دا پھپھیاں دے پردے دی حفاظت لئی
+سجاد تے اکبر ویراں دا ہر ویلے ساتھ نبھاویں
 
-3
-Qasim Jadon Watan Madine Taun Karey Veer Hussain Teyari.
-Zainab Taun Pailaan Farwa Nu Mehmal Te Aap Bithawin.
-Qurban Howein Te Maqtal Choon Aye Jaun Hasan Farmaya.
-Mere Jigar De Tukray Ban Qasim Gathri Wich Khaimay Jawein.
+۳
+قاسم جدوں وطن مدینے توں کرے ویر حسین تیاری
+زینب توں پہلاں فروہ نوں محمل تے آپ بٹھاویں
+قربان ہوویں تے مقتل چوں اے جون حسن فرمایا
+میرے جگر دے ٹکڑے بن قاسم گٹھڑی وچ خیمے جاویں

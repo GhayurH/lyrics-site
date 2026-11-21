@@ -13,37 +13,37 @@ aliases: ["Holay Holay Chal"]
 published: true
 romanLyrics: |-
   Chal para Karbobala se jab Husaini qaafila
-  Ek rasan meiṅ pusht-e-Abid aur tha Baqar ka gala
-  Saaṅs khanjar ki tarah mehsus jab hone lagi
+  Ek rasan mein pusht-e-Abid aur tha Baqar ka gala
+  Saans khanjar ki tarah mehsus jab hone lagi
   Apne baba jaaṅ se ro kar ye Baqar ne kaha
-  Ae mere baba Ae mere baba
+  Ae mere baba, ae mere baba
 
-  Rassi meiṅ gala hai Baqar ka
+  Rassi mein gala hai Baqar ka
   Tu hole hole chal baba
 
   Mushkil hai safar mar jaauṅ ga
   Tu hole hole chal
-  Ae mere baba Ae mere baba
+  Ae mere baba, ae mere baba
 
   1
   Parhni hai namaaz-e-mazlumi
   Baba tu imaamat karta jaa
   Khud dhup bhi hum pe roti hai
-  Jalta hai musalla reti ka
-  Maiṅ shukr ka sajda kar luṅ ada
+  Jalta hai musalsal reti ka
+  Main shukr ka sajda kar luṅ ada
 
   2
   Kulsum Sakina Zainab hai
   Aur saath Ruqayya Bibi hai
-  Is ik rasan meiṅ Ae baba
+  Is ik rasan mein ae baba
   Har umr ki Zahra qaidi hai
-  Girti hai meri amma Fizza
+  Girti hai meri ammaaṅ Fizza
 
   3
-  Ab dhup meiṅ itni shiddat hai
+  Ab dhup mein itni shiddat hai
   Jalte haiṅ asiri ke zewar
-  Paani to nahiṅ hai aaṅsu hi
-  Maiṅ in pe chhirak duṅ ga aa kar
+  Paani to nahiṅ hai aaṅsuṅ hi
+  Main in pe chhirak duṅ ga aa kar
   Aaraam tujhe mil jaae ga
 
   4
@@ -61,7 +61,7 @@ romanLyrics: |-
   Ye pehla safar hai Zainab ka
 
   6
-  Dekha nahiṅ jaata Ae baba
+  Dekha nahiṅ jaata ae baba
   Mujh se ye qayaamat ka manzar
   Rukti hai kabhi chalti hai kabhi
   Zainab ke badalte haiṅ tewar
@@ -70,12 +70,12 @@ romanLyrics: |-
   7
   Gir gir ke jo chalti hai Zainab
   Mehsus mujhe bhi hota hai
-  Sajjad pukaare Ae beta
+  Sajjad pukaare ae beta
   Mera bhi kaleja phatta hai
   Jab sunta huṅ tera noha
 
   8
-  Gar tez chala to Ae beta
+  Gar tez chala to ae beta
   Baazaar-e-sitam aa jaae ga
   Aahista agar bimaar chale
   Durroṅ ki aziyyat paae ga
@@ -86,7 +86,7 @@ romanLyrics: |-
   Baqar ne Takallum di ye sada
   Har kaam pe teri marzi hai
   Tu jaise chaahe chal baba
-  Maiṅ ab na kahuṅ ga Ae baba
+  Main ab na kahuṅ ga ae baba
 ---
 
 چل پڑا کربوبلا سے جب حسینی قافلہ

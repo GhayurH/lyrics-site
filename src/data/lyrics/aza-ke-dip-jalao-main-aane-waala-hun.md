@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Uthi hai nur ki nuri ghataaeṅ ghaibat se
   Tamaam ahl-e-aza lau lagaaeṅ ghaibat se
-  Suneṅ ba-ghaur to mahsus aisa hota hai
+  Suneṅ baghaur to mahsus aisa hota hai
   Keh aa rahi haiṅ musalsal sadaaeṅ ghaibat se
   Aza ke dip jalao maiṅ aane waala huṅ
   Gham-e-Husain manao maiṅ aane waala huṅ
@@ -27,7 +27,7 @@ romanLyrics: |-
   Namaazi aur azaadaar ek haiṅ donoṅ
   Bas ab farq mitao maiṅ aane waala huṅ
   Rasul pesh kareṅ gaye wahaaṅ qasida naya
-  Wahiṅ pe ho ga bapa jashn mere Daada ka
+  Wahiṅ pe ho ga bapa jashn mere daada ka
   Qadam Najaf ko barhao maiṅ aane waala huṅ
 
   3
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   4
   Na hone paaye kabhi dil se kam Husain ka gham
-  Hai meri fauj ka parcham mere Chaacha ka alam
+  Hai meri fauj ka parcham mere chaacha ka alam
   Alam gharoṅ meiṅ sajao maiṅ aane waala huṅ
   Maiṅ apna dard karuṅ kis tarah se tum pe ayaaṅ
   Meri nigaah meiṅ phirti hai har shahid ki maaṅ

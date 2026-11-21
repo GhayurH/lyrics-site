@@ -1,62 +1,112 @@
 ---
-title: "Aye Mere Baba Syed Ali Naqvi"
+title: "اے میرے بابا سید علی نقوی"
+alternateTitle: "Aye Mere Baba Syed Ali Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ali"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bint-e-Payamber karti hain noha
+
+  1
+  Aye mere baba aye mere baba
+  Jalta howa dar mujh pe giraya
+  Baad aap ke yeh bhi zulm howa hai
+  Chup chup ke mujh ko rona para hai
+
+  2
+  Beti pe teri yeh waqt aaya
+  Roney pe pehrey mujh par lagaye
+  Tehreer ke tere tukray uraye
+  Haq mangney par mila mujh ko tana
+
+  3
+  Tehreer ke tere tukray utha kar
+  Aayi hoon kis tarha na poch ghar par
+  Hota hai mera tukray kaleja
+  Mujh par giraya hai jalta howa dar
+
+  4
+  Oss par se guzrey qatil sitamgar
+  Pehlu howa mera haye shikasta
+  Gham yeh batao bhulaon gi kaisay
+  Mujh ko batao jiyon gi main kaisay
+
+  5
+  Dunya mein Mohsin aane na paya
+  Kaisay bataon main kaisi ghari hai
+  Baba musibat kuch aisi pari hai
+  Rab mera jane ya jane Fizza
+
+  6
+  Rukhsar mere neelay hain ab tak
+  Kano se behta hai khon ab tak
+  Qunfuz ne aisa mara tamacha
+  Mushkil Kusha pe musibat hai kaisi
+
+  7
+  Gardan mein Haider ke bandhi hai rasi
+  Galiyon mein unn ko aisay phiraya
+  Qunfuz ne kuch aisa zulm kiya hai
+  Ab hath uthana bhi Mushkil howa hai
+
+  8
+  Dushwar tasbeeh lagta hai parhna
+  Peeto saron ko Ali our Shakeel ab
+  Rukhsat hai Zahra ki roti hain Zainab
+  Hasnain bhi aaj kartay hain giriya
 ---
 
-Aye Mere Baba Syed Ali Naqvi Lyrics
-Bint-e-Payamber Karti Hain Noha.
+بنتِ پیمبر کرتی ہیں نوحہ
 
-1
-Aye Mere Baba Aye Mere Baba.
-Jalta Howa Dar Mujh Pe Giraya.
-Baad Aap Ke Yeh Bhi Zulm Howa Hai.
-Chup Chup Ke Mujh Ko Rona Para Hai.
+۱
+اے میرے بابا اے میرے بابا
+جلتا ہوا در مجھ پہ گرایا
+بعد آپ کے یہ بھی ظلم ہوا ہے
+چپ چپ کے مجھ کو رونا پڑا ہے
 
-2
-Beti Pe Teri Yeh Waqt Aaya.
-Roney Pe Pehrey Mujh Par Lagaye.
-Tehreer Ke Tere Tukray Uraye.
-Haq Mangney Par Mila Mujh Ko Tana.
+۲
+بیٹی پہ تیری یہ وقت آیا
+رونے پہ پہرے مجھ پر لگائے
+تحریر کے تیرے ٹکڑے اڑائے
+حق مانگنے پر ملا مجھ کو طعنہ
 
-3
-Tehreer Ke Tere Tukray Utha Kar.
-Aayi Hoon Kis Tarha Na Poch Ghar Par.
-Hota Hai Mera Tukray Kaleja.
-Mujh Par Giraya Hai Jalta Howa Dar.
+۳
+تحریر کے تیرے ٹکڑے اٹھا کر
+آئی ہوں کس طرح نہ پوچھ گھر پر
+ہوتا ہے میرا ٹکڑے کلیجہ
+مجھ پر گرایا ہے جلتا ہوا در
 
-4
-Oss Par Se Guzrey Qatil Sitamgar.
-Pehlu Howa Mera Haye Shikasta.
-Gham Yeh Batao Bhulaon Gi Kaisay.
-Mujh Ko Batao Jiyon Gi Main Kaisay.
+۴
+اس پر سے گزرے قاتل ستمگر
+پہلو ہوا میرا ہائے شکستہ
+غم یہ بتاؤ بھلاؤں گی کیسے
+مجھ کو بتاؤ جیوں گی میں کیسے
 
-5
-Dunya Mein Mohsin Aane Na Paya.
-Kaisay Bataon Main Kaisi Ghari Hai.
-Baba Musibat Kuch Aisi Pari Hai.
-Rab Mera Jane Ya Jane Fizza.
+۵
+دنیا میں محسن آنے نہ پایا
+کیسے بتاؤں میں کیسی گھڑی ہے
+بابا مصیبت کچھ ایسی پڑی ہے
+رب میرا جانے یا جانے فضہ
 
-6
-Rukhsar Mere Neelay Hain Ab Tak.
-Kano Se Behta Hai Khon Ab Tak.
-Qunfuz Ne Aisa Mara Tamacha.
-Mushkil Kusha Pe Musibat Hai Kaisi.
+۶
+رخسار میرے نیلے ہیں اب تک
+کانوں سے بہتا ہے خون اب تک
+قنفذ نے ایسا مارا تماچا
+مشکل کشا پہ مصیبت ہے کیسی
 
-7
-Gardan Mein Haider Ke Bandhi Hai Rasi.
-Galiyon Mein Unn Ko Aisay Phiraya.
-Qunfuz Ne Kuch Aisa Zulm Kiya Hai.
-Ab Hath Uthana Bhi Mushkil Howa Hai.
+۷
+گردن میں حیدر کے بندھی ہے رسی
+گلیوں میں ان کو ایسے پھرایا
+قنفذ نے کچھ ایسا ظلم کیا ہے
+اب ہاتھ اٹھانا بھی مشکل ہوا ہے
 
-8
-Dushwar Tasbeeh Lagta Hai Parhna.
-Peeto Saron Ko Ali Our Shakeel Ab.
-Rukhsat Hai Zahra Ki Roti Hain Zainab.
-Hasnain Bhi Aaj Kartay Hain Giriya.
+۸
+دشوار تسبیح لگتا ہے پڑھنا
+پیٹو سروں کو علی اور شکیل اب
+رخصت ہے زہرا کی روتی ہیں زینب
+حسنین بھی آج کرتے ہیں گریہ

@@ -1,31 +1,53 @@
 ---
-title: "Utha Koi Janaza Phir Fatima Ke Ghar Se Saleem Mastan"
+title: "اٹھا کوئی جنازہ پھر فاطمہ کے گھر سے سلیم مستان"
+alternateTitle: "Utha Koi Janaza Phir Fatima Ke Ghar Se Saleem Mastan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Utha koi janaza phir Fatima ke ghar se Saleem Mastan
+  Dunya tarap rahi hai faryad ke asar se
+
+  1
+  Taboot se lipat kar Shabbir aisay tarpay
+  Jaisay ke aaj utha hai saya Ali ka sar se
+  Ahl-e-Haram ne jana bachay ne jan dey di
+  Gash kar gaye they Qasim liptay hoye padar se
+
+  2
+  Kya zehar tha keh chera youn seena e Hasan ko
+  Kat kat ke gir rahe hain tukray dil-o-jigar se
+  Bad-e-Rasool aisa dushman howa zamana
+  Zahra ke ladlay ki maiyyat pe teer barsay
+
+  3
+  Kya inqilab aaya sibt e Nabi ka lasha
+  Pehlu mein Mustafa ke do gaz zameen ko tarsay
+  Qabar-e-Rasool tarpi thara gaya Madina
+  Aanso lahu ke tapkay Zahra ke chashm-e-tar se
 ---
 
-Utha Koi Janaza Phir Fatima Ke Ghar Se Saleem Mastan.
-Dunya Tarap Rahi Hai Faryad Ke Asar Se.
+اٹھا کوئی جنازہ پھر فاطمہ کے گھر سے سلیم مستان
+دنیا تڑپ رہی ہے فریاد کے اثر سے
 
-1
-Taboot Se Lipat Kar Shabbir Aisay Tarpay.
-Jaisay Ke Aaj Utha Hai Saya Ali Ka Sar Se.
-Ahl-e-Haram Ne Jana Bachay Ne Jan Deydi.
-Gash Kar Gaye They Qasim Liptay Hoye Padar Se.
+۱
+تابوت سے لپٹ کر شبیر ایسے تڑپے
+جیسے کہ آج اٹھا ہے سایہ علی کا سر سے
+اہلِ حرم نے جانا بچے نے جان دے دی
+غش کر گئے تھے قاسم لپٹے ہوئے پدر سے
 
-2
-Kya Zehar Tha Keh Chera Youn Seena e Hasan Ko.
-Kat Kat Ke Gir Rahe Hain Tukray Dil-o-Jigar Se.
-Bad-e-Rasool Aisa Dushman Howa Zamana.
-Zahra Ke Ladlay Ki Maiyyat Pe Teer Barsay.
+۲
+کیا زہر تھا کہ چھیڑا یوں سینۂ حسن کو
+کٹ کٹ کے گر رہے ہیں ٹکڑے دل و جگر سے
+بعدِ رسول ایسا دشمن ہوا زمانہ
+زہرا کے لاڈلے کی میّت پہ تیر برسے
 
-3
-Kya Inqilab Aaya Sibt e Nabi Ka Lasha.
-Pehlu Mein Mustafa Ke Do Gaz Zameen Ko Tarsay.
-Qabar-e-Rasool Tarpi Thara Gaya Madina.
-Aanso Lahu Ke Tapkay Zahra Ke Chashm-e-Tar Se.
+۳
+کیا انقلاب آیا سبطِ نبی کا لاشہ
+پہلو میں مصطفیٰ کے دو گز زمین کو ترسے
+قبرِ رسول تڑپی تھرا گیا مدینہ
+آنسو لہو کے ٹپکے زہرا کے چشمِ تر سے

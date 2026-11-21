@@ -1,15 +1,21 @@
 ---
-title: "Wo Jiss Kissi Ko Hai Paas-e-Shahadat-e-Uzma"
+title: "وہ جس کسی کو ہے پاسِ شہادتِ عظمیٰ"
+alternateTitle: "Wo Jiss Kissi Ko Hai Paas-e-Shahadat-e-Uzma"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yeh yaad rakho wo ghurbat mein bhi ghareeb nahi
+  Woh ahl-e-zar bhi agar hai tu ahl-e-zar na samaj
+  Gham-e-Hussain ki dolat jissay naseeb nahi
 ---
 
-1
-Yeh Yaad Rakho Wo Ghurbat Mein Bhi Ghareeb Nahi.
-Woh Ahl-e-Zar Bhi Agar Hai Tu Ahl-e-Zar Na Samaj.
-Gham-e-Hussain Ki Dolat Jissay Naseeb Nahi.
+۱
+یہ یاد رکھو وہ غربت میں بھی غریب نہیں
+وہ اہلِ زر بھی اگر ہے تو اہلِ زر نہ سمجھ
+غمِ حسین کی دولت جسے نصیب نہیں

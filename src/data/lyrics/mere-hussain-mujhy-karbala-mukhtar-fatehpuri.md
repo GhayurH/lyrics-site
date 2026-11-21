@@ -8,87 +8,55 @@ poet: "Majid Raza Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Mere Hussain Mujhy Karbala Mukhtar Fatehpuri"
-romanLyrics: 'Mere Hussain Mujhy Karbala Mukhtar Fatehpuri.
-
-  Mere Hussain Mujhe Karbala Dikha Dijiye.
-
+alternateTitle: "Mere Husain Mujhe Karbala Mukhtar Fatehpuri"
+romanLyrics: |-
+  Mere Husain mujhe Karbala dikha dijiye
 
   1
-
-  Main Muztarib Hoon Mere Dil Ka Gham Mita Dijiye.
-
-  Bas Apne Dil Mein Ziyarat Ki Iltija Le Kar.
-
-  Main Betha Rehta Hoon Tasveer-e-Karbala Le Kar.
-
-  Fana Mein Betha Hoon Mujh Ko Baqa Dijiye.
-
+  Main muztarib huṅ mere dil ka gham mita dijiye
+  Bas apne dil mein ziyaarat ki iltija le kar
+  Main baitha rehta huṅ tasvir-e-Karbala le kar
+  Fana mein baitha huṅ mujh ko baqa bana dijiye
 
   2
-
-  Main Janta Hoon Bohat Kam Naseeb Hoon Maula.
-
-  Mujhe Hai Ilm Bohat Hi Ghareeb Hoon Maula.
-
-  Yeh Kam Naseebi-o-Ghurbat Meri Mita Dijiye.
-
-  Jahan Pe Barchiyaan Kha Kar Girey Ali Akbar.
-
+  Main jaanta huṅ bahut kam nasib huṅ Maula
+  Mujhe hai ilm bahut hi gharib huṅ Maula
+  Yeh kam nasibi o ghurbat meri mita dijiye
 
   3
-
-  Jahan Pe Rakha Hai Gehwara e Ali Asghar.
-
-  Maqam-e-Akbar-o-Asghar Mujhe Dikha Dijiye.
-
-  Main Kazmain-o-Najaf Dekhon Samarra Dekhon.
-
-  Jahan Jahan Mere Maula Hain Woh Jagah Dekhon.
-
+  Jahaaṅ pe barchhiyaaṅ kha kar gire Ali Akbar
+  Jahaaṅ pe rakha hai gehwaara-e-Ali Asghar
+  Maqaam-e-Akbar o Asghar mujhe dikha dijiye
 
   4
-
-  Yeh Iltija Hai Keh Zair Mujhe Bana Dijiye.
-
-  Jo Ho Sakay Mujhe Ashor Par Bola Lijiye.
-
-  Aye Mere Maula Mujhe Yeh Sharf Atta Kijiye.
-
-  Keh Karbalai Mere Naam Mein Laga Dijiye.
-
+  Main Kaazimain o Najaf dekhuṅ Saamarra dekho
+  Jahaaṅ jahaaṅ mere Maula hai woh jagah dekhuṅ
+  Yeh iltija hai ke zaair mujhe bana dijiye
 
   5
-
-  Yeh Chahta Hoon Wahan Ashk Se Wozu Main Karon.
-
-  Karon Main Seena Zani Khon Ka Bhi Pursa Doon.
-
-  Wahan Ki Khak Mein Mera Lahu Mila Dijiye.
-
-  Kissi Baras Yeh Mera Intezam Ho Maula.
-
+  Jo ho sake mujhe Aashur par bula lijiye
+  Ae mere Maula mujhe yeh sharf ata kijiye
+  Ke Karbalai mere naam mein laga dijiye
 
   6
-
-  Chalon Main Shoq Se Paidal Najaf Se Karb-o-Bala.
-
-  Mere Qadam Bhi Rah-e-Arsh Par Laga Dijiye.
-
-  Zareeh-e-Hazrat-e-Abbas Ko Bhi Chomo Main.
-
-  Dar-e-Hazoor Pe Mashkezay Ko Bhi Dekhon Main.
-
+  Yeh chaahta huṅ wahaaṅ ashk se wuzu main karuṅ
+  Karuṅ main sina zani khuṅ ka pursa duṅ
+  Wahaaṅ ki khaak mein mera lahu mila dijiye
 
   7
+  Kisi baras yeh mera intizaam ho Maula
+  Chaluṅ main shauq se paidal Najaf se Karb o Bala
+  Mere qadam bhi raah-e-Arsh par laga dijiye
 
-  Tu Rasta Rah-e-Kaf-e-Abbas Bhi Dikha Dijiye.
+  8
+  Zarih-e-Abbas ko bhi chumuṅ main
+  Dar-e-Huzur pe mashkize ko bhi dekhuṅ main
+  To rasta-e-kaf-e-Abbas bhi dikha dijiye
 
-  Dua Hai Majid-o- Mukhtar Ki Mere Maula.
-
-  Jo Momineen Na Ziyarat Pe Ja Sakein Aaqa.
-
-  Sabhi Ko Zair-e-Karb-o-Bala Bana Dijiye.'
+  9
+  Dua hai Majid o Mukhtar ki mere Maula
+  Jo mominin na aziyat pe ja sake Aaqa
+  Sab hi ko zaair-e-Karb o Bala bana dijiye
 ---
 
 میرے حسین مجھے کربلا دکھا دیجیئے

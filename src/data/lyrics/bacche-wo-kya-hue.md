@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae tifle ghamzada ae tifle karbala
+  Ae tifl-e-ghamzada, ae tifl-e-Karbala
   As salaam as salaam
-  Baade Husain koi bataye mujhe zara
-  Bacche jo bach gaye the haram ke wo kya huwe
-  Dil par rakho jo haat batauṅ mai maajera
-  Bacche jo bach gaye the haram ke wo kya huwe
-  Hum ne suna hai akbar o asghar ka waqeya
-  Qasim se gulazaar ka sarwar ka waqeya
-  Abbas se shuja o dilawar ka waqeya
-  Lekin khayaal tak na hamara idhar gaya
+  Baad-e-Husain koi bataaye mujhe zara
+  Bacche jo bach gaye the haram ke wo kya hue
+  Dil par rakho jo haath batauṅ main maajra
+  Bacche jo bach gaye the haram ke wo kya hue
+  Ham ne suna hai Akbar o Asghar ka waaqia
+  Qasim se gulzaar ka Sarwar ka waaqia
+  Abbas se shujaa o dilawar ka waaqia
+  Lekin khayaal tak na hamaara idhar gaya
   Bacche jo bach gaye...
-  Shaam e gharibaṅ aayi udhar aayi fauje shaam
-  Gauhar chine tamache lage jal gaye qayaam
-  Faryad kar rahe the yatimaane tashna kaam
-  Lekin kisi ne ye bhi na pucha ke kya hua
+  Shaam-e-gharibaaṅ aayi udhar aayi fauj-e-Shaam
+  Gauhar chhine tamaanche lage jal gaye qiyaam
+  Faryaad kar rahe the yatimaan-e-tashna kaam
+  Lekin kisi ne ye bhi na puchha ke kya hua
   Bacche jo bach gaye...
-  Aate jo dekha fauje sitam ko dehel gaye
-  Bacche sehem ke qaime se baahar nikal gaye
-  Is kashma kash meiṅ ghoroṅ ke niche kuchal gaye
-  Us raat ke andhere meiṅ andher hogaya
+  Aate jo dekha fauj-e-sitam ko dahal gaye
+  Bacche saham ke khaime se baahar nikal gaye
+  Is kashmakash mein ghoroṅ ke niche kuchal gaye
+  Us raat ke andhere mein andher ho gaya
   Bacche jo bach gaye...
-  Pahunchi jo pushte qaima pe abbas ki behen
-  Dekha zamiṅ pe sote hai do phul se badan
-  Nile pare hai ghoroṅ ki taapoṅ se khastatan
-  The kis ke naunehal kisi ko nahi pata
+  Pahunchi jo pusht-e-khaima pe Abbas ki behen
+  Dekha zamiṅ pe sote hain do phul se badan
+  Nile pare hain ghoroṅ ki taapoṅ se khasta tan
+  The kis ke naunihaal kisi ko nahiṅ pata
   Bacche jo bach gaye...
-  Karbobala se shaam ko nikla jo kaarwaṅ
-  Pushte shutar se bandh ke bacchoṅ ke rismaṅ
-  Dhaura rahe the unt ko jallaad al amaan
-  Nazuk si khaal jism se hone lagi juda
+  Karb o Bala se Shaam ko nikla jo kaarwaaṅ
+  Pusht-e-shutar se baandh ke bacchoṅ ke rismaaṅ
+  Daura rahe the unt ke jallaad al amaan
+  Naazuk si khaal jism se hone lagi juda
   Bacche jo bach gaye...
-  Bacche tarap ke kehte the ae baba pass aao
-  Ham gir rahe hai unt se amma hame bacho
-  Dil nikla jaa raha hai hame godh meiṅ chupao
+  Bacche tarap ke kehte the ae baaba paas aao
+  Ham gir rahe hain unt se ammaaṅ hameṅ bachao
+  Dil nikla jaa raha hai hameṅ god mein chhupao
   Ye kehte kehte unt se har tifl gir gaya
   Bacche jo bach gaye...
-  Bacchoṅ ke khuṅ se pushte shutar laal hogayi
-  Jo laash gir gayi wahin pamaal hogayi
-  Dekha jo maa ne laash to behaal hogayi
-  Kaise lagaye sine se baazu to hai bandha
+  Bacchoṅ ke khuṅ se pusht-e-shutar laal ho gayi
+  Jo laash gir gayi wahi paamaal ho gayi
+  Dekha jo maaṅ ne laash to behaal ho gayi
+  Kaise lagaaye sine se baazu to hai bandha
   Bacche jo bach gaye...
-  Karbobala se shaam talak gul khila diye
-  Bacche jo gir gaye the wahin par sula diye
-  Zainab ne sang e mil ke katbe bana diye
-  Do ashk unpe koi bahane nahi gaya
+  Karb o Bala se Shaam talak gul khila diye
+  Bacche jo gir gaye the wahi par sula diye
+  Zainab ne sang-e-mil ke khutbe bana diye
+  Do ashk un pe koi bahaane nahiṅ gaya
   Bacche jo bach gaye...
-  Aini palat ke aayi jo yasrab meiṅ bibiyaṅ
-  Ujri hui thi maang o khaali thi godhiyaṅ
-  Bacchoṅ ko de rahi thi tasavvur meiṅ loriyaṅ
-  Aamir har ek se puchti thi un ki maamta
+  Aini palat ke aayi jo Yasrab mein bibiyaaṅ
+  Ujri hui thi maang o khaali thi godiyaaṅ
+  Bacchoṅ ko de rahi thi tasavvur mein loriyaaṅ
+  Aamir har ek se puchhti thi un ki maamta
   Bacche jo bach gaye...
 ---
 

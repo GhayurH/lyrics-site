@@ -9,35 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hashr may rang laey ga khoon-e-shahidan dekhna
+  Shahid-e-Karbala, hai din ki baqa, Zahbih-e-Nainawa, Husain baadshaah
 
   1
-  Aayain gi jaab Fatima,  haal-e-parishan dekhna
+  Hashr mein rang laaye ga khun-e-shahidaaṅ dekhna
+  Aaeṅ gi jab Fatima, haal-e-pareshan dekhna
 
   2
-  1) Ru ba ru baba kay jab khatoon-e-jannat ayain gi
-  Khali jholi sarvar-e-konain ko dekhlain gi
-  Bil yaqeen tharaye ga mehshar ka maindan dekhna
+  Ru ba ru baaba ke jab khatun-e-jannat aaeṅ gi
+  Khaali jholi Sarwar-e-Kaunain ko dikhlaaeṅ gi
+  Bil yaqin tharaaye ga, mahshar ka maidaan dekhna
 
   3
-  2) Rakh diya barchi nay Akbar ka kaleja cheer kay
-  Rukh badal dalain hain ummat nay teri tasveer kay
-  Malik-e-Kausar zara ummat kay ehsaan dekhna
+  Rakh diya barchhi ne Akbar ka kaleja chir ke
+  Dukh badal daale haiṅ ummat ne teri tasvir ke
+  Maalik-e-Kausar zara, ummat ke ehsaan dekhna
 
   4
-  3) Asghar-e-Masoom kay lab per sawaal-e-aab hay
-  Boond paani kay liye woh kis qadar baitaab hay
-  Nehar say paani nahi detay musalmaan dekhna
+  Asghar-e-Maasum ke lab par sawaal-e-aab hai
+  Bund paani ke liye woh kis qadar betaab hai
+  Nahar se paani nahiṅ, dete musalmaan dekhna
 
   5
-  4) Zainab o Kulsoom say kehta tha Shimar-e-bad gohar
-  Shaam may jao gi nangay sar phiro gi dar badar
-  Karbala kay baad ab tareekh zindaan dekhna
+  Zainab o Kulsum se kehta tha Shimar-e-bad gauhar
+  Shaam mein jaao gi nange sar phiro gi dar ba dar
+  Karbala ke baad ab, taarik zindaaṅ dekhna
 
   6
-  5) Gham bhara gulzaar ka is dil ko raozay hashar ka
-  Jo hay awlad-e-payamber ki muhabbat say bhara
-  Bakhsh wa daingi ussay Yasrab kay sultan dekhna
+  Gham bhula gulzaar ka is dil ko roz-e-hashr ka
+  Jo hai aulaad-e-Payghambar ki muhabbat se bhara
+  Bakhshwa deṅge use, Yasrab ke sultaan dekhna
 ---
 
 شہید کربلا, ہے دین کی بقا, ذہبیحِ نینوا، حسینؑ بادشاہ

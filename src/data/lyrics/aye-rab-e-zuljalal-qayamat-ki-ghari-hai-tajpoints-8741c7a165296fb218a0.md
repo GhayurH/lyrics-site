@@ -1,32 +1,53 @@
 ---
-title: "Aye Rab-e-Zuljalal Qayamat Ki Ghari Hai"
+title: "اے ربِ ذوالجلال قیامت کی گھڑی ہے"
+alternateTitle: "Aye Rab-e-Zuljalal Qayamat Ki Ghari Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Wahid"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aye Rab-e-Zuljalal qayamat ki ghari hai
+  Muslim ki lash rah mein be-goor pari hai
+
+  1
+  Sar Dar-al-Amarah pe hai latka howa ab tak
+  Our lash kahin Kofay ki rahoon mein pari hai
+  Kyun aaj Shah-e-Wala hain be-chain safar mein
+  Kya gham hai jo mazloom ki aankhon mein nami hai
+
+  2
+  Sun aayi hai kya Shah se Muslim ki shahdat
+  Mazgan Ruqaiya mein kyun ashkon ki jhari hai
+  Kofa teri galiyon mein ghaseeta gaya jisko
+  Ab tak ossi lashay ko nazar dhond rahi hai
+
+  3
+  Sab khushiyon mein mashgool hain bas aik zaeefa
+  Lashay ke qareen apna woh munh peet rahi hai
+  Yeh log jo matam ke mukhalif hai aye Wahid
+  Qatil they jo Muslim ke haan yeh qaum wohi hai
 ---
 
-Aye Rab-e-Zuljalal Qayamat Ki Ghari Hai.
-Muslim Ki Lash Rah Mein Be-Goor Pari Hai.
+اے ربِ ذوالجلال قیامت کی گھڑی ہے
+مسلم کی لاش راہ میں بے گور پڑی ہے
 
-1
-Sar Dar-Al-Amarah Pe Hai Latka Howa Ab Tak.
-Our Lash Kahin Kofay Ki Rahoon Mein Pari Hai.
-Kyun Aaj Shah-e-Wala Hain Be-Chain Safar Mein.
-Kya Gham Hai Jo Mazloom Ki Aankhon Mein Nami Hai.
+۱
+سر دار الامارہ پہ ہے لٹکا ہوا اب تک
+اور لاش کہیں کوفے کی راہوں میں پڑی ہے
+کیوں آج شاہِ والا ہیں بے چین سفر میں
+کیا غم ہے جو مظلوم کی آنکھوں میں نمی ہے
 
-2
-Sun Aayi Hai Kya Shah Se Muslim Ki Shahdat.
-Mazgan Ruqaiya Mein Kyun Ashkon Ki Jhari Hai.
-Kofa Teri Galiyon Mein Ghaseeta Gaya Jisko.
-Ab Tak Ossi Lashay Ko Nazar Dhond Rahi Hai.
+۲
+سن آئی ہے کیا شاہ سے مسلم کی شہادت
+مژگانِ رقیہ میں کیوں اشکوں کی جھڑی ہے
+کوفہ تیری گلیوں میں گھسیٹا گیا جس کو
+اب تک اسی لاشے کو نظر ڈھونڈ رہی ہے
 
-3
-Sab Khushiyon Mein Mashgool Hain Bas Aik Zaeefa.
-Lashay Ke Qareen Apna Woh Munh Peet Rahi Hai.
-Yeh Log Jo Matam Ke Mukhalif Hai Aye Wahid.
-Qatil They Jo Muslim Ke Haan Yeh Qaum Wohi Hai.
+۳
+سب خوشیوں میں مشغول ہیں بس ایک ضعیفہ
+لاشے کے قرین اپنا وہ منہ پیٹ رہی ہے
+یہ لوگ جو ماتم کے مخالف ہے اے واحد
+قاتل تھے جو مسلم کے ہاں یہ قوم وہی ہے

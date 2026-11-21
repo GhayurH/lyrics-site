@@ -1,40 +1,71 @@
 ---
-title: "Mimbar Janay Haider Janay"
+title: "منبر جانے حیدر جانے"
+alternateTitle: "Mimbar Janay Haider Janay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chair diya hai zikar-e-Maula minber jane Haider jane
+  Kufar hai gar yeh ishq Ali ka kafir jane Haider jane
+  Bint-e-Asad tu jaein gi har haal mein Kabay ke andar
+  Dar hogi dewar kahan se madar jane Haider jane
+
+  2
+  Ismail yeh soch rahe they kyun gardan par hath rakhon
+  Nam-e-Ali hai mere labon par khanjar jane Haider jane
+  Fatha likhi hai dast-e-Khuda par ab bhi mere pyaray Habib
+  Nad-e-Ali yan keh ke bola lein Khaybar jane Haider jane
+
+  3
+  Arifa-e-ijaz-e-Ali hain madar hain ummat tu nahi
+  Bint-e-Asad ko fikar nahi hai azdar jane Haider jane
+  Jang-e-Ohad mein mera Maula shakh se sar karta hai qalam
+  Taig falak se aaye na aaye lashkar jane Haider jane
+
+  4
+  Ishq-e-Ali ke dawaydaro Rab ki ibadat lazim hai
+  Yeh keh kar mat jan churao mehshar jane Haider jane
+  Shair-e-Khuda ka pota hai yeh keh kar maa ne bhaij diya
+  Larta hai ab kaisay ran mein Asghar jane Haider jane
+
+  5
+  Sham mein our mairaj-e-Nabi mein aik hi lehja goya tha
+  Kis ne rakha hai kis ka pardah dukhtar jane Haider jane
+  :Mir Hasan: our:Sibt-e-Jafar: banda-e-Haider hain dono
+  Inn ke kafan par likhwa dena nokar jane Haider jane
 ---
 
-1
-Chair Diya Hai Zikar-e-Maula Minber Jane Haider Jane.
-Kufar Hai Gar Yeh Ishq Ali Ka Kafir Jane Haider Jane.
-Bint-e-Asad Tu Jaein Gi Har Haal Mein Kabay Ke Andar.
-Dar Hogi Dewar Kahan Se Madar Jane Haider Jane.
+۱
+چھیڑ دیا ہے ذکرِ مولا منبر جانے حیدر جانے
+کفر ہے گر یہ عشق علی کا کافر جانے حیدر جانے
+بنتِ اسد تو جائیں گی ہر حال میں کعبے کے اندر
+در ہوگی دیوار کہاں سے مادر جانے حیدر جانے
 
-2
-Ismail Yeh Soch Rahe They Kyun Gardan Par Hath Rakhon.
-Nam-e-Ali Hai Mere Labon Par Khanjar Jane Haider Jane.
-Fatha Likhi Hai Dast-e-Khuda Par Ab Bhi Mere Pyaray Habib.
-Nad-e-Ali Yan Keh Ke Bola Lein Khaybar Jane Haider Jane.
+۲
+اسماعیل یہ سوچ رہے تھے کیوں گردن پر ہاتھ رکھوں
+نامِ علی ہے میرے لبوں پر خنجر جانے حیدر جانے
+فتح لکھی ہے دستِ خدا پر اب بھی میرے پیارے حبیب
+نادِ علی یاں کہہ کے بلا لیں خیبر جانے حیدر جانے
 
-3
-Arifa-e-Ijaz-e-Ali Hain Madar Hain Ummat Tu Nahi.
-Bint-e-Asad Ko Fikar Nahi Hai Azdar Jane Haider Jane.
-Jang-e-Ohad Mein Mera Maula Shakh Se Sar Karta Hai Qalam.
-Taig Falak Se Aaye Na Aaye Lashkar Jane Haider Jane.
+۳
+عارفۂ اعجازِ علی ہیں مادر ہیں امت تو نہیں
+بنتِ اسد کو فکر نہیں ہے اژدر جانے حیدر جانے
+جنگِ اُحد میں میرا مولا شاخ سے سر کرتا ہے قلم
+تیغ فلک سے آئے نہ آئے لشکر جانے حیدر جانے
 
-4
-Ishq-e-Ali Ke Dawaydaro Rab Ki Ibadat Lazim Hai.
-Yeh Keh Kar Mat Jan Churao Mehshar Jane Haider Jane.
-Shair-e-Khuda Ka Pota Hai Yeh Keh Kar Maa Ne Bhaij Diya.
-Larta Hai Ab Kaisay Ran Mein Asghar Jane Haider Jane.
+۴
+عشقِ علی کے دعوے دارو رب کی عبادت لازم ہے
+یہ کہہ کر مت جان چراؤ محشر جانے حیدر جانے
+شیرِ خدا کا پوتا ہے یہ کہہ کر ماں نے بھیج دیا
+لڑتا ہے اب کیسے رن میں اصغر جانے حیدر جانے
 
-5
-Sham Mein Our Mairaj-e-Nabi Mein Aik Hi Lehja Goya Tha.
-Kis Ne Rakha Hai Kis Ka Pardah Dukhtar Jane Haider Jane.
-:MIR HASAN: Our:SIBT-E-JAFAR: Banda-e-Haider Hain Dono.
-Inn Ke Kafan Par Likhwa Dena Nokar Jane Haider Jane.
+۵
+شام میں اور معراجِ نبی میں ایک ہی لہجہ گویا تھا
+کس نے رکھا ہے کس کا پردہ دختر جانے حیدر جانے
+:میر حسن: اور :سبطِ جعفر: بندۂ حیدر ہیں دونوں
+ان کے کفن پر لکھوا دینا نوکر جانے حیدر جانے

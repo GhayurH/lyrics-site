@@ -1,35 +1,60 @@
 ---
-title: "Badan Hussain Ka Zeeshan Abidi 2026"
+title: "بدن حسین کا ذیشان عابدی ۲۰۲۶"
+alternateTitle: "Badan Hussain Ka Zeeshan Abidi 2026"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Badan Hussain ka zakhmi para hai maqtal mein
+  Hazaron zakhm woh kha kar gira hai maqtal mein
+  Hoin ghareeb ki sab pasliyaan idhar se udhar
+  Badan youn ghoron se rondha gaya hai maqtal mein
+
+  2
+  Kati thi ungli badan par they khanjron ke nishaan
+  Behan ko iss tarha bhai mila hai maqtal mein
+  Hata ke lash se pathar kaha yeh Zainab ne
+  Kissi ko aisay koi marta hai maqtal mein
+
+  3
+  Gira tu door tha maqtal se woh bohat lekin
+  Pakar ke baloon se laya gaya hai maqtal mein
+  Tamacha Shimar ne jis waqt iss ko mara tha
+  Yeh bas Sakina ko rota raha hai maqtal mein
+
+  4
+  Nikal ke aa gayin bahir galay ki sari ragein
+  Jab iss ke halq mein neza laga hai maqtal mein
+  Kahey Hussain ko Zeeshan kis tarha tanha
+  Badan ke pas abhi Fatima hai maqtal mein
 ---
 
-1
-Badan Hussain Ka Zakhmi Para Hai Maqtal Mein.
-Hazaron Zakhm Woh Kha Kar Gira Hai Maqtal Mein.
-Hoin Ghareeb Ki Sab Pasliyaan Idhar Se Udhar.
-Badan Youn Ghoron Se Rondha Gaya Hai Maqtal Mein.
+۱
+بدن حسین کا زخمی پڑا ہے مقتل میں
+ہزاروں زخم وہ کھا کر گرا ہے مقتل میں
+ہوئیں غریب کی سب پسلیاں ادھر سے ادھر
+بدن یوں گھوڑوں سے روندا گیا ہے مقتل میں
 
-2
-Kati Thi Ungli Badan Par They Khanjron Ke Nishaan.
-Behan Ko Iss Tarha Bhai Mila Hai Maqtal Mein.
-Hata Ke Lash Se Pathar Kaha Yeh Zainab Ne.
-Kissi Ko Aisay Koi Marta Hai Maqtal Mein.
+۲
+کٹی تھی انگلی بدن پر تھے خنجروں کے نشان
+بہن کو اس طرح بھائی ملا ہے مقتل میں
+ہٹا کے لاش سے پتھر کہا یہ زینب نے
+کسی کو ایسے کوئی مارتا ہے مقتل میں
 
-3
-Gira Tu Door Tha Maqtal Se Woh Bohat Lekin.
-Pakar Ke Baloon Se Laya Gaya Hai Maqtal Mein.
-Tamacha Shimar Ne Jis Waqt Iss Ko Mara Tha.
-Yeh Bas Sakina Ko Rota Raha Hai Maqtal Mein.
+۳
+گرا تو دور تھا مقتل سے وہ بہت لیکن
+پکڑ کے بالوں سے لایا گیا ہے مقتل میں
+طمانچہ شمر نے جس وقت اس کو مارا تھا
+یہ بس سکینہ کو روتا رہا ہے مقتل میں
 
-4
-Nikal Ke Aa Gayin Bahir Galay Ki Sari Ragein.
-Jab Iss Ke Halq Mein Neza Laga Hai Maqtal Mein.
-Kahey Hussain Ko Zeeshan Kis Tarha Tanha.
-Badan Ke Pas Abhi Fatima Hai Maqtal Mein.
+۴
+نکل کے آ گئیں باہر گلے کی ساری رگیں
+جب اس کے حلق میں نیزہ لگا ہے مقتل میں
+کہے حسین کو ذیشان کس طرح تنہا
+بدن کے پاس ابھی فاطمہ ہے مقتل میں

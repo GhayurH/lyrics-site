@@ -1,42 +1,74 @@
 ---
-title: "Wasday Gharaan De Sare Arman Muk Gaye Lyrics 2009"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "وسدے گھراں دے سارے ارمان مک گئے"
+alternateTitle: "Wasday Gharaan De Sare Arman Muk Gaye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Wasday gharaan de sare arman muk gaye
+  Ghazi de bad behna de maan muk gaye
+  Ghazi de marday ayho ayelaan ho giya
+  Jida dar si oho Ghazi darya te so giya
+  Hun samjho Karbala de sultan muk gaye
+  Jadon mashk khali ayi har maa si akhdi
+  Kuj Shimar maar de ga kujh piyas mare gi
+  Balaan de jeein de hun saman muk gaye
+  Piya maa nu Fazal aakhay menu jang te jan de
+  Nasal-e-Umaiya kidhray ayho na soch le
+  Sadhi Hashmi nasal choo Imran muk gaye
+  Shabir aakhda si bachiya na koi mera
+  Manda si hukam jera ohh veer tur giya
+  Ghazi de naal mere farman muk gaye
+  Kujh saa te mashk walay pani te dul gaye
+  Ghazi de sar de wich sa baqi jehray ray
+  Ohh saa peshiyaan de doraan muk gaye
+  Ikko lal goad pala Abbas si ayda
+  Oh v pair ayday chum ke maqtal che tur giya
+  Kulsoom walay saray aaj daan muk gaye
+  Jadoon Ghazi qatal hoya ayho wain paway Zainab
+  Shabir nu lipat kar roway te aakhay Zainab
+  Tere poor de bachan de imkan muk gaye
+  Latha zeen tu Ghazi te aakhan aye ashkiya
+  Jadon chaiye qatal kariye ja ka Shabir da
+  Ibn-e-Ali de sare nigran muk gaye
+  Saqlain Ghazi wargi ayat de sabab
+  Umm-ul-Banin jag te jis maa da aye laqab
+  Karbal che oday sare Quran muk gaye
 ---
 
-1
-Wasday Gharaan De Sare Arman Muk Gaye.
-Ghazi De Bad Behna De Maan Muk Gaye.
-Ghazi De Marday Ayho Ayelaan Ho Giya.
-Jida Dar Si Oho Ghazi Darya Te So Giya.
-Hun samjho Karbala De Sultan Muk Gaye.
-Jadon Mashk Khali Ayi Har Maa Si Akhdi.
-Kuj Shimar Maar De Ga Kujh Piyas Mare Gi.
-Balaan De Jeein De Hun Saman Muk Gaye.
-Piya Maa Nu Fazal Aakhay Menu Jang Te Jan De.
-Nasal-e-Umaiya Kidhray Ayho Na Soch Le.
-Sadhi Hashmi Nasal Choo Imran Muk Gaye.
-Shabir Aakhda Si Bachiya Na Koi Mera.
-Manda Si Hukam Jera Ohh Veer Tur Giya.
-Ghazi De Naal Mere Farman Muk Gaye.
-Kujh Saa Te Mashk Walay Pani Te Dul Gaye.
-Ghazi De Sar De Wich Sa Baqi Jehray Ray.
-Ohh Saa Peshiyaan De Doraan Muk Gaye.
-Ikko Lal Goad Pala Abbas Si Ayda.
-Oh V Pair Ayday Chum Ke Maqtal Che Tur Giya.
-Kulsoom Walay Saray Aaj Daan Muk Gaye.
-Jadoon Ghazi Qatal Hoya Ayho Wain Paway Zainab.
-Shabir Nu LIpat Kar Roway Te Aakhay Zainab.
-Tere Poor De Bachan De Imkan Muk Gaye.
-Latha Zeen Tu Ghazi Te Aakhan Aye Ashkiya.
-Jadon Chaiye Qatal Kariye Ja Ka Shabir Da.
-Ibn-e-Ali De Sare Nigran Muk Gaye.
- Saqlain Ghazi Wargi Ayat De Sabab.
-Umm-ul-Banin Jag Te Jis Maa Da Aye Laqab.
-Karbal Che Oday Sare Quran Muk Gaye.
+۱
+وسدے گھراں دے سارے ارمان مک گئے
+غازی دے بعد بہناں دے مان مک گئے
+غازی دے مردے ایہو اعلان ہو گیا
+جیدا ڈر سی اوہو غازی دریا تے سو گیا
+ہن سمجھو کربلا دے سلطان مک گئے
+جدوں مشک خالی آئی ہر ماں سی آکھدی
+کجھ شمر مار دے گا کجھ پیاس مارے گی
+بالاں دے جیون دے ہن سامان مک گئے
+پیا ماں نوں فضل آکھے مینوں جنگ تے جان دے
+نسلِ امیہ کدھرے ایہو نہ سوچ لے
+ساڈی ہاشمی نسل چوں عمران مک گئے
+شبیر آکھدا سی بچیا نہ کوئی میرا
+من دا سی حکم جیڑا اوہ ویر تر گیا
+غازی دے نال میرے فرمان مک گئے
+کجھ ساہ تے مشک والے پانی تے ڈل گئے
+غازی دے سر دے وچ ساہ باقی جیہڑے رہے
+اوہ ساہ پیشیاں دے دوران مک گئے
+اکو لال گود پالا عباس سی ایہدا
+اوہ وی پیر ایہدے چم کے مقتل چے تر گیا
+کلثوم والے سارے اج دان مک گئے
+جدوں غازی قتل ہویا ایہو وین پاوے زینب
+شبیر نوں لپٹ کر رووے تے آکھے زینب
+تیرے پور دے بچن دے امکان مک گئے
+لتھا زین توں غازی تے آکھن آئے اشقیا
+جدوں چاہیے قتل کریے جا کے شبیر دا
+ابنِ علی دے سارے نگران مک گئے
+ثقلین غازی ورگی آیت دے سبب
+ام البنین جگ تے جس ماں دا اے لقب
+کربل چے اوہدے سارے قرآن مک گئے

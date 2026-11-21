@@ -18,54 +18,54 @@ romanLyrics: |-
   Aaye Najaf se milne Ali jis ghari wahaaṅ
   Beti lipat ke baap se karti thi ye fughaaṅ
   Athaara bhaaiyoṅ ki behen ab nahiṅ rahi
-  Baba badal do naam maiṅ Zainab nahiṅ rahi
-  Baba maiṅ lut gayi
+  Baba badal do naam main Zainab nahiṅ rahi
+  Baba main lut gayi
 
   1
   Karbobala basa ke ye Zainab ne di sada
-  Baba maiṅ lut gayi
+  Baba main lut gayi
 
   2
   Nazreṅ mila na paaeṅ ge ek dusre se hum
   Ae mere baba jaaṅ tumheṅ Abbas ki qasam
   Aankheṅ na kholna mere sar par nahiṅ rida
-  Baba maiṅ lut gayi
+  Baba main lut gayi
 
   3
   Pehle ke jaisi aap ki beti nahiṅ rahi
-  Pehchaanne meiṅ aap ko kuch der yuṅ lagi
+  Pehchaanne mein aap ko kuch der yuṅ lagi
   Binaai bhi gayi meri Akbar bhi chal basa
-  Baba maiṅ lut gayi
+  Baba main lut gayi
 
   4
   Sar rakh ke zakhmi sine pe royi wo tishna kaam
   Akbar ne kar diya mere parde ka intizaam
   Chehre pe khun hai mere karyal jawaan ka
-  Baba maiṅ lut gayi
+  Baba main lut gayi
 
   5
-  Ujri hai ek roz meiṅ amma ki kaainaat
-  Kitne janaaze uthe hai is ghar meiṅ ek saath
-  Bikhri hui hai dasht meiṅ tasvir-e-Fatema
-  Baba maiṅ lut gayi
+  Ujri har ek roz mein amma ki kaainaat
+  Kitne janaaze uthe hai is ghar mein ek saath
+  Bikhri hui hai dasht mein tasvir-e-Fatema
+  Baba main lut gayi
 
   6
   Shahzaadiyoṅ ki tarah se rakha tha aap ne
-  Jaate hue Husain ko sauṅpa tha aap ne
-  Wo dekhiye sinaaṅ pe hai sar mere bhai ka
-  Baba maiṅ lut gayi
+  Jaate hue Husain ko saunpa tha aap ne
+  Wo dekhiye sinaaṅ pe hai sar mere bhaai ka
+  Baba main lut gayi
 
   7
   Baba Najaf qarib hai har shaam aauṅ gi
-  Maiṅ qabr par Husain ki shamme jalaauṅ gi
+  Main qabr par Husain ki shama jalaauṅ gi
   Tum saath apne le chalo ab kaun hai mera
-  Baba maiṅ lut gayi
+  Baba main lut gayi
 
   8
   Ye kehte kehte Mir Takallum wo ro pari
-  Abid ko jalte khaimoṅ se laayi huṅ maiṅ abhi
+  Abid ko jalte khaimoṅ se laayi huṅ main abhi
   Betoṅ ka imtihaan bhi beti ne de diya
-  Baba maiṅ lut gayi
+  Baba main lut gayi
 ---
 
 ہاے شام غریباں

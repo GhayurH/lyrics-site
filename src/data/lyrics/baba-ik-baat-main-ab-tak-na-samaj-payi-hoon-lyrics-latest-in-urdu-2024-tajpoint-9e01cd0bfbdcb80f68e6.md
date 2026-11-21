@@ -1,32 +1,54 @@
 ---
-title: "Baba Ik Baat Main Ab Tak Na Samaj Payi Hoon Lyrics Latest In Urdu 2024"
+title: "بابا اک بات میں اب تک نہ سمجھ پائی ہوں"
+alternateTitle: "Baba Ik Baat Main Ab Tak Na Samaj Payi Hoon"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Salamat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baba ik baat main ab tak na samaj payi hoon
+  Kya main dunya mein tamachon ke liye aayi hoon
+
+  1
+  Iss qadar khof mujhe Shimar ke aane ka raha
+  Main tu na qabar mein bhi chain se so payi hoon
+  Bhaiyya aisay na mujhe chor ke zindan mein ja
+  Main teri choti behan hoon teri maa jayi hoon
+
+  2
+  Na dari hoon main kissi zulm se aye Baba magar
+  Qaid khane ke andherey se main ghabrai hoon
+  Kis se shikwa main karon kaun bataye ga mujhe
+  Kya muqadar mein Khuda se yeh likha layi hoon
+
+  3
+  Koi jawab chacha ne nahi diya mujh ko
+  Main magar dagh tamachon ke dikha aayi hoon
+  Itni tu sansein Salamat bhi na main ne li hain
+  Har qadam jitnay tamachay main jo kha aayi hoon
 ---
 
-Baba Ik Baat Main Ab Tak Na Samaj Payi Hoon.
-Kya Main Dunya Mein Tamachon Ke Liye Aayi Hoon.
+بابا اک بات میں اب تک نہ سمجھ پائی ہوں
+کیا میں دنیا میں طمانچوں کے لیے آئی ہوں
 
-1
-Iss Qadar Khof Mujhe Shimar Ke Aane Ka Raha.
-Main Tu Na Qabar Mein Bhi Chain Se So Payi Hoon.
-Bhaiyya Aisay Na Mujhe Chor Ke Zindan Mein Ja.
-Main Teri Choti Behan Hoon Teri Maa Jayi Hoon.
+۱
+اس قدر خوف مجھے شمر کے آنے کا رہا
+میں تو نہ قبر میں بھی چین سے سو پائی ہوں
+بھیا ایسے نہ مجھے چھوڑ کے زنداں میں جا
+میں تیری چھوٹی بہن ہوں تیری ماں جائی ہوں
 
-2
-Na Dari Hoon Main Kissi Zulm Se Aye Baba Magar.
-Qaid Khane Ke Andherey Se Main Ghabrai Hoon.
-Kis Se Shikwa Main Karon Kaun Bataye Ga Mujhe.
-Kya Muqadar Mein Khuda Se Yeh Likha Layi Hoon.
+۲
+نہ ڈری ہوں میں کسی ظلم سے اے بابا مگر
+قید خانے کے اندھیرے سے میں گھبرائی ہوں
+کس سے شکوہ میں کروں کون بتائے گا مجھے
+کیا مقدر میں خدا سے یہ لکھا لائی ہوں
 
-3
-Koi Jawab Chacha Ne Nahi Diya Mujh Ko.
-Main Magar Dagh Tamachon Ke Dikha Aayi Hoon.
-Itni Tu Sansein Salamat Bhi Na Main Ne Li Hain.
-Har Qadam Jitnay Tamachay Main Jo Kha Aayi Hoon.
+۳
+کوئی جواب چچا نے نہیں دیا مجھ کو
+میں مگر داغ طمانچوں کے دکھا آئی ہوں
+اتنی تو سانسیں سلامت بھی نہ میں نے لی ہیں
+ہر قدم جتنے طمانچے میں جو کھا آئی ہوں

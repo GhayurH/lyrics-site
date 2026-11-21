@@ -1,56 +1,113 @@
 ---
-title: "Aylaan Na Kar Hun Na Wan Day"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اعلان نہ کر ہن ناںواں دے"
+alternateTitle: "Aylaan Na Kar Hun Na Wan Day"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aylaan na kar hun na wan day
+
+  Sajjad ay rokay kenda si
+  Majbooran Shaam u ayan nay
+  Sir lay kay naal bhirawan day
+
+  1
+  Majboori ban gaye Abid tey
+  Ay qaidi nu nai ron denday
+  Ay manzar Shaam bazaar an dey
+  Sajjad nu chup nai honedaindey
+  Sir qad kay Zainab lung javay
+  Ay soch kay Abid kitay ne
+  Qai baar sawal ridawan dey
+
+  2
+  Har shehar day qaidi puchday sun
+  Ay kis di aal aseer howi
+  Ay rasiyan vich jeri bibi ay
+  Kee aiday ton taqseer hoi
+  Ay qaidi kioun beemar hoya
+  Kioun khoon day athroo ronda ronda ay
+  Lay lay kay naam bhirawan day
+
+  3
+  Zanjeeran tauk tay rasiyan vich
+  Quran day paak halalay nay
+  Ay kaisa khoon sharafat da
+  Jiday saray raang niralay nay
+  Paway qaidi nay sir nangay nay
+  Ay naiziyan tey ayat parn
+  Ay khutbay dain hayawan day
+
+  4
+  Ay nay bazu katday veekhay ay
+  Ay nay naiza tutda vekhiya ay
+  Asghar nu hasda vekhiya ay
+  Ay nay khanjar chalda vekhiya ay
+  Ay nay rasiyan wajdiyan veekhiyan nay
+  Ay nay Zainab ruldi veekhi ay
+  Aynu aur na Shimar sazawan day
+
+  5
+  Akber koi qaidi ban jaway
+  Lavay seenay naal zanjeeran nu
+  Koi khoob bahay galiyan vich
+  Ker ker kay yaad aaseran nu
+  Aj pursaydar aseeran dey
+  Zainab nu pursa dainday nay
+  Ho kay mohtaj duawan day
 ---
 
-Aylaan Na Kar Hun Na Wan Day
+اعلان نہ کر ہن ناںواں دے
 
-Sajjad Ay Rokay Kenda Si
-Majbooran Shaam U Ayan Nay
-Sir Lay Kay Naal Bhirawan Day
+سجاد ایہہ رو کے کہندا سی
+مجبوراً شام او آیاں نیں
+سر لے کے نال بھراواں دے
 
-Majboori Ban Gaye Abid Tey
-Ay Qaidi Nu Nai Ron Denday
-Ay Manzar Shaam Bazaar An Dey
-Sajjad Nu Chup Nai Honedaindey
-Sir Qad Kay Zainab Lung Javay
-Ay Soch Kay Abid Kitay Ne
-Qai Baar Sawal Ridawan Dey
+۱
+مجبوری بن گئی عابد تے
+ایہہ قیدی نوں نئیں رون دیندے
+ایہہ منظر شام بازاراں دے
+سجاد نوں چپ نئیں ہون دیندے
+سر کڈھ کے زینب لنگھ جاوے
+ایہہ سوچ کے عابد کیتے نیں
+کئی بار سوال رداواں دے
 
-Har Shehar Day Qaidi Puchday Sun
-Ay Kis Di Aal Aseer Howi
-Ay Rasiyan Vich Jeri Bibi Ay
-Kee Aiday Ton Taqseer Hoi
-Ay Qaidi Kioun Beemar Hoya
-Kioun Khoon Day Athroo Ronda Ronda Ay
-Lay Lay Kay Naam Bhirawan Day
+۲
+ہر شہر دے قیدی پچھدے سن
+ایہہ کس دی آل اسیر ہوئی
+ایہہ رسیاں وچ جیہڑی بی بی اے
+کیہہ ایہدے توں تقصیر ہوئی
+ایہہ قیدی کیوں بیمار ہویا
+کیوں خون دے اتھرو روندا روندا اے
+لے لے کے نام بھراواں دے
 
-Zanjeeran Tauk Tay Rasiyan Vich
-Quran Day Paak Halalay Nay
-Ay Kaisa Khoon Sharafat Da
-Jiday Saray Raang Niralay Nay
-Paway Qaidi Nay Sir Nangay Nay
-Ay Naiziyan Tey Ayat Parn
-Ay Khutbay Dain Hayawan Day
+۳
+زنجیراں طوق تے رسیاں وچ
+قرآن دے پاک حلالے نیں
+ایہہ کیسا خون شرافت دا
+جیہدے سارے رنگ نرالے نیں
+بھاویں قیدی نیں سر ننگے نیں
+ایہہ نیزیاں تے آیت پڑھن
+ایہہ خطبے دین حیاواں دے
 
-Ay Nay Bazu Katday Veekhay Ay
-Ay Nay Naiza Tutda Vekhiya Ay
-Asghar Nu Hasda Vekhiya Ay
-Ay Nay Khanjar Chalda Vekhiya Ay
-Ay Nay Rasiyan Wajdiyan Veekhiyan Nay
-Ay Nay Zainab Ruldi Veekhi Ay
-Aynu Aur Na Shimar Sazawan Day
+۴
+ایہنے بازو کٹدے ویکھے اے
+ایہنے نیزہ ٹٹدا ویکھیا اے
+اصغر نوں ہسدا ویکھیا اے
+ایہنے خنجر چلدا ویکھیا اے
+ایہنے رسیاں وجدیاں ویکھیاں نیں
+ایہنے زینب رلدی ویکھی اے
+ایہنوں اور نہ شمر سزاواں دے
 
-Akber Koi Qaidi Ban Jaway
-Lavay Seenay Naal Zanjeeran Nu
-Koi Khoob Bahay Galiyan Vich
-Ker Ker Kay Yaad Aaseran Nu
-Aj Pursaydar Aseeran Dey
-Zainab Nu Pursa Dainday Nay
-Ho Kay Mohtaj Duawan Day
+۵
+اکبر کوئی قیدی بن جاوے
+لاوے سینے نال زنجیراں نوں
+کوئی خوب بہائے گلیاں وچ
+کر کر کے یاد اسیراں نوں
+اج پرسہ دار اسیراں دے
+زینب نوں پرسہ دیندے نیں
+ہو کے محتاج دعاواں دے

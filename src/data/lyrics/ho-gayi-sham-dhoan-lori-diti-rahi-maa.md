@@ -8,6 +8,34 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ho gayi shaam dhuaaṅ lori deti rahi maaṅ
+  Jhula jalta hi raha jhule se lipti rahi maaṅ
+
+  1
+  Kaaṅpte haathoṅ mein sukhe hue saaghar ko liye
+  Dhup ki god mein yaad-e-Ali Asghar ko liye
+  Saaye mein aayi nahiṅ dhup mein baithi rahi maaṅ
+
+  2
+  Pyaas barhti rahi sukhe hue saare saaghar
+  Kaan darya ki taraf aaṅkh Ali Asghar par
+  Paani behne ki sada khaime mein sunti rahi maaṅ
+
+  3
+  Laash-e-Asghar ko liye raah mein rukte rahe Shaah
+  Dar pe khaime ke jo aa aa ke palatte rahe Shaah
+  Khaak pe girti rahi khaak se uthti rahi maaṅ
+
+  4
+  Qaafila aa ke ruka jab se dar-e-Sughra par
+  Haaye Asghar kaha aur dar pe giri ghash kha kar
+  Sang-e-dar thaam liya sar ko patakti rahi maaṅ
+
+  5
+  Haaye jalte hue khaime mein Sakina hai Naveed
+  Darmiyaan sholoṅ ke jalta hua jhula hai Naveed
+  Donoṅ ko thaame hue aag mein jalti rahi maaṅ
 ---
 
 ہو گئ شام دھواں لوری دیتی رہی ماں

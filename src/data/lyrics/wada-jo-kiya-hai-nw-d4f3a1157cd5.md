@@ -1,64 +1,95 @@
 ---
-title: "Wada Jo Kiya Hai"
+title: "وعدہ جو کیا ہے"
+alternateTitle: "Wada Jo Kiya Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shireen Shireen…
+  Wada jo kiya hai wo nibhayega Hussain
+  Noke naiza pe bhi gar hoga to aayega Hussain
+  Akbar o Qasim o Abbas ko bhi laayega
+  Shireen ghar tere akela nahi aayega Hussain
+  Wada jo kiya hai…
+
+  1
+  Tere ghar aayega Shabbir to kuch bolay baghair
+  Saare ehwaal ghareebi ke sunayega Hussain
+  Wada jo kiya hai…
+
+  2
+  Saath may Zainab o Kulsoom bhi honge uske
+  Raunaqe yun bhi tere ghar ki badhayega Hussain
+  Wada jo kiya hai…
+
+  3
+  Jeete ji royegi tu dekh jin tohfon ko
+  Tohfe kuch aise tere waaste layega Hussain
+  Wada jo kiya hai…
+
+  4
+  Jab teri galiyon se hoga tere maula ka guzar
+  Tere ghar se qadam aagay na badhayega Hussain
+  Wada jo kiya hai…
+
+  5
+  Ye bata Shireen tu pehchan to legi usko
+  Jab sare noke sina ghar tere aayega Hussain
+  Wada jo kiya hai…
+
+  6
+  Shireen dil apna tu us waqt sambhale rakhna
+  Jab behan kehke tujhe paas bulayega Hussain
+  Wada jo kiya hai…
+
+  7
+  Shaah ay Noor Ali karte thay Shireen se bayan
+  Jo tere dil may kasak hai wo mitayega Hussain
+  Wada jo kiya hai…
 ---
 
-shireen shireen…
+شیریں شیریں…
+وعدہ جو کیا ہے وہ نبھائے گا حسین
+نوکِ نیزہ پہ بھی گر ہوگا تو آئے گا حسین
+اکبر و قاسم و عباس کو بھی لائے گا
+شیریں گھر تیرے اکیلا نہیں آئے گا حسین
+وعدہ جو کیا ہے…
 
-wada jo kiya hai wo nibhayega hussain
+۱
+تیرے گھر آئے گا شبیر تو کچھ بولے بغیر
+سارے احوال غریبی کے سنائے گا حسین
+وعدہ جو کیا ہے…
 
-noke naiza pe bhi gar hoga to aayega hussain
+۲
+ساتھ میں زینب و کلثوم بھی ہوں گے اس کے
+رونقیں یوں بھی تیرے گھر کی بڑھائے گا حسین
+وعدہ جو کیا ہے…
 
-akbar o qasim o abbas ko bhi laayega
+۳
+جیتے جی روئے گی تو دیکھ جن تحفوں کو
+تحفے کچھ ایسے تیرے واسطے لائے گا حسین
+وعدہ جو کیا ہے…
 
-shireen ghar tere akela nahi aayega hussain
+۴
+جب تیری گلیوں سے ہوگا تیرے مولا کا گزر
+تیرے گھر سے قدم آگے نہ بڑھائے گا حسین
+وعدہ جو کیا ہے…
 
-wada jo kiya hai…
+۵
+یہ بتا شیریں تو پہچان تو لے گی اس کو
+جب سرِ نوکِ سناں گھر تیرے آئے گا حسین
+وعدہ جو کیا ہے…
 
-tere ghar aayega shabbir to kuch bolay baghair
+۶
+شیریں دل اپنا تو اس وقت سنبھالے رکھنا
+جب بہن کہہ کے تجھے پاس بلائے گا حسین
+وعدہ جو کیا ہے…
 
-saare ehwaal ghareebi ke sunayega hussain
-
-wada jo kiya hai…
-
-saath may zainab o kulsoom bhi honge uske
-
-raunaqe yun bhi tere ghar ki badhayega hussain
-
-wada jo kiya hai…
-
-jeete ji royegi tu dekh jin tohfon ko
-
-tohfe kuch aise tere waaste layega hussain
-
-wada jo kiya hai…
-
-jab teri galiyon se hoga tere maula ka guzar
-
-tere ghar se qadam aagay na badhayega hussain
-
-wada jo kiya hai…
-
-ye bata shireen tu pehchan to legi usko
-
-jab sare noke sina ghar tere aayega hussain
-
-wada jo kiya hai…
-
-shireen dil apna tu us waqt sambhale rakhna
-
-jab behan kehke tujhe paas bulayega hussain
-
-wada jo kiya hai…
-
-shaah ay noor ali karte thay shireen se bayan
-
-jo tere dil may kasak hai wo mitayega hussain
-
-wada jo kiya hai…
+۷
+شاہِ نور علی کرتے تھے شیریں سے بیاں
+جو تیرے دل میں کسک ہے وہ مٹائے گا حسین
+وعدہ جو کیا ہے…

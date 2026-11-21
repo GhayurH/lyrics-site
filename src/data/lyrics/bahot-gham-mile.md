@@ -13,27 +13,27 @@ aliases: ["Bahot Gham Milay"]
 published: true
 romanLyrics: |-
   Bahot gham mile baba jaaṅ
-  Zindan meiṅ baba ka sar jo mila
+  Zindaan mein baba ka sar jo mila
   Baali Sakina ne nauha kiya
-  Pardes meiṅ ho gayi beamaan
+  Pardes mein ho gayi beamaan
   Bahot gham mile baba jaaṅ
 
   1
   Kya kya na dhaaye sitam ashqiya ne
-  Khaati rahi bibiyaṅ taaziyane
+  Khaati rahi bibiyaṅ taaziyaane
   Thi ek rasan aur baarah gale
-  Maiṅ qad meiṅ chhoti sab the bare
-  Ghutoṅ pe maiṅ miloṅ chali bibiyaṅ
+  Main qad mein chhoti sab the bare
+  Ghutoṅ pe main miloṅ chali bibiyaṅ
 
   2
-  Shaam-e-gharibaṅ ka ghamnaak manzar
-  Khaime hamaare the sholoṅ ki zad par
+  Shaam-e-gharibaaṅ ka ghamnaak manzar
+  Khaime hamaare the sholoṅ ki zid par
   Bistar jala bhai Sajjad ka
-  Gehwara-e-bezabaṅ bhi jala
+  Gehwara-e-bezabaaṅ bhi jala
   Manzar tha wo al-Hafiz o al-Amaan
 
   3
-  Jab ban meiṅ aayi gyaarah Muharram
+  Jab ban mein aayi gyaarah Muharram
   Baba tha mujh par asiri ka aalam
   Phir mere dil par sitam ye hua
   Naize pe sar aap ka aa gaya
@@ -41,14 +41,14 @@ romanLyrics: |-
 
   4
   Mujhko tamaanche sitamgar ne maare
-  Sajjad khaata raha taaziyane
+  Sajjad khaata raha taaziyaane
   Tishna labi aur safar ki thakan
   Karte bhi kya donoṅ bhai behan
-  Dete rahe sabr ka imtehan
+  Karte rahe sabr ka imtihaan
 
   5
   Phir kaan zakhmi kurta jala tha
-  Chhaale zabaṅ par sukha gala tha
+  Chhaale zabaaṅ par sukha gala tha
   Soti to sone na dete zara
   Royi to rone pe pehra laga
   Mujh par hui hai bari sakhtiyaṅ
@@ -62,24 +62,24 @@ romanLyrics: |-
 
   7
   Haaṅ mere baba hai yaad ab bhi
-  Jab pusht-e-naaqa se maiṅ gir gayi thi
-  Tumse bichhar kar maiṅ soti na thi
-  Aaghosh-e-Zehra meiṅ nind aa gayi
+  Jab pusht-e-naaqa se main gir gayi thi
+  Tumse bichhar kar main soti na thi
+  Aaghosh-e-Zehra mein nind aa gayi
   Baad uske phir nind aayi kahaaṅ
 
   8
   Baaloṅ pe mere jo hai safedi
   Gham ki fazaayeṅ dekhi hai aisi
-  Nauhoṅ ka kamsin sahifa huṅ maiṅ
-  Ik chaar saala zaifa huṅ maiṅ
-  Kham hai kamar meri misl-e-kamaaṅ
+  Nauhoṅ ka kamsin sahifa huṅ main
+  Ik chaar saala zaifa huṅ main
+  Kham hai kamar mere misl-e-kamaaṅ
 
   9
   Nauha jo likha Hamid Abidi ne
   Likhwaaya Shabbir ki laadli ne
   Nauhoṅ se Safdar ki pehchaan hai
   Baali Sakina ka ehsaan hai
-  Jo aaj nauha hai wird-e-zabaṅ
+  Jo aaj nauha hai wird-e-zabaaṅ
 ---
 
 بہت غم ملے بابا جاں

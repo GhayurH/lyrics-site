@@ -1,56 +1,101 @@
 ---
-title: "Hussain Ke Dar Par"
+title: "حسین کے در پر"
+alternateTitle: "Hussain Ke Dar Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hussain ke dar par
+  Likha howa hai ye Mola Hussain ke dar par
+
+  1
+  Jo chahiye mile ga Hussain ke dar par
+  Sunai beton ko rahib ne dastan-e-yaqeen
+  Mera Hussain hai sab kuch naseeb kuch bhi nahi
+  Agar magar nahi hota Hussain ke dar par
+
+  2
+  Meri nazar mein yeh tafseer-e-Fazkoroni hai
+  Keh aik bheer sada aashiqon ki rehti hai
+  Khuda ke ghar se zyada Hussain ke dar par
+  Haan Damishq mein dar-e-Zainab pe jo shaheed howa
+
+  3
+  Khud aa ke le gay Abbas oss ko Karb-o-Bala
+  Hoi namaz-e-janazah Hussain ke dar par
+  Shaheed kehte hain yeh oaj hum ne paya hai
+  Humein Hussain ne khud Karbala bulaya hai
+
+  4
+  Hai ab qiyam hamara Hussain ke dar par
+  Salat mein mere humrah ho gi rooh-e-salat
+  Main bad matam-e-Sarwar Imam Asar ke sath
+  Namaz-e-asar parhon ga Hussain ke dar par
+
+  5
+  Wahab ki maa se taqabul karo na rahib ka
+  Dar-e-Hussain pe wo betey lene aya tha
+  Yeh dene ayi hai beta Hussain ke dar par
+  Karam ka chota sa ik moajzah sunao tumhein
+
+  6
+  The do karor bashar Karbala mein phir bhi humein
+  Nahi mila koi bhoka Hussain ke dar par
+  Yeh our baat ke sulbon mein kar raha tha safar
+  Kaha tha main ne bhi labaik istegasay par
+
+  7
+  Bhala main kaise na jata Hussain ke dar par
+  Bata gayi hai Takallum nazar bazurgon ki
+  Bani Asad mein Tuwairij ke qafile mein kabhi
+  Mile Imam-e-Zamana Hussain ke dar par
 ---
 
-Hussain Ke Dar Par.
-Likha Howa Hai Ye Mola Hussain Ke Dar Par.
+حسین کے در پر
+لکھا ہوا ہے یہ مولا حسین کے در پر
 
-1
-Jo Chahiye Mile Ga Hussain Ke Dar Par.
-Sunai Beton Ko Rahib Ne Dastan-e-Yaqeen.
-Mera Hussain Hai Sab Kuch Naseeb Kuch Bhi Nahi.
-Agar Magar Nahi Hota Hussain Ke Dar Par.
+۱
+جو چاہیے ملے گا حسین کے در پر
+سنائی بیٹوں کو راہب نے داستانِ یقین
+میرا حسین ہے سب کچھ نصیب کچھ بھی نہیں
+اگر مگر نہیں ہوتا حسین کے در پر
 
-2
-Meri Nazar Mein Yeh Tafseer-e-Fazkoroni Hai.
-Keh Aik Bheer Sada Aashiqon Ki Rehti Hai.
-Khuda Ke Ghar Se Zyada Hussain Ke Dar Par.
-Haan Damishq Mein Dar-e-Zainab Pe Jo Shaheed Howa.
+۲
+میری نظر میں یہ تفسیرِ فاذکرونی ہے
+کہ ایک بھیڑ سدا عاشقوں کی رہتی ہے
+خدا کے گھر سے زیادہ حسین کے در پر
+ہاں دمشق میں درِ زینب پہ جو شہید ہوا
 
-3
-Khud Aa Ke Le Gay Abbas Oss Ko Karb-o-Bala.
-Hoi Namaz-e-Janazah Hussain Ke Dar Par.
-Shaheed Kehte Hain Yeh Oaj Hum Ne Paya Hai.
-Humein Hussain Ne Khud Karbala Bulaya Hai.
+۳
+خود آ کے لے گئے عباس اس کو کرب و بلا
+ہوئی نمازِ جنازہ حسین کے در پر
+شہید کہتے ہیں یہ اوج ہم نے پایا ہے
+ہمیں حسین نے خود کربلا بلایا ہے
 
-4
-Hai Ab Qiyam Hamara Hussain Ke Dar Par.
-Salat Mein Mere Humrah Ho Gi Rooh-e-Salat.
-Main Bad Matam-e-Sarwar Imam Asar Ke Sath.
-Namaz-e-Asar Parhon Ga Hussain Ke Dar Par.
+۴
+ہے اب قیام ہمارا حسین کے در پر
+صلات میں میرے ہمراہ ہو گی روحِ صلات
+میں بعدِ ماتمِ سرور امامِ عصر کے ساتھ
+نمازِ عصر پڑھوں گا حسین کے در پر
 
-5
-Wahab Ki Maa Se Taqabul karo Na Rahib Ka.
-Dar-e-Hussain Pe Wo Betey Lene Aya Tha.
-Yeh Dene Ayi Hai Beta Hussain Ke Dar Par.
-Karam Ka Chota Sa Ik Moajzah Sunao Tumhein.
+۵
+وہب کی ماں سے تقابل کرو نہ راہب کا
+درِ حسین پہ وہ بیٹے لینے آیا تھا
+یہ دینے آئی ہے بیٹا حسین کے در پر
+کرم کا چھوٹا سا اک معجزہ سناؤں تمہیں
 
-6
-The Do Karor Bashar Karbala Mein Phir Bhi Humein.
-Nahi Mila Koi Bhoka Hussain Ke Dar Par.
-Yeh Our Baat Ke Sulbon Mein kar Raha Tha Safar.
-Kaha Tha Main ne Bhi Labaik Istegasay Par.
+۶
+تھے دو کروڑ بشر کربلا میں پھر بھی ہمیں
+نہیں ملا کوئی بھوکا حسین کے در پر
+یہ اور بات کہ صلبوں میں کر رہا تھا سفر
+کہا تھا میں نے بھی لبیک استغاثے پر
 
-7
-Bhala Main Kaise Na Jata Hussain Ke Dar Par.
-Bata Gayi Hai Takallum Nazar Bazurgon Ki.
-Bani Asad Mein Tuwairij Ke Qafile Mein Kabhi.
-Mile Imam-e-Zamana Hussain Ke Dar Par.
+۷
+بھلا میں کیسے نہ جاتا حسین کے در پر
+بتا گئی ہے تکلم نظر بزرگوں کی
+بنی اسد میں طویریج کے قافلے میں کبھی
+ملے امامِ زمانہ حسین کے در پر

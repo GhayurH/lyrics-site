@@ -9,115 +9,49 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Merya Hussain
-
-  Lipt k Shah say kehti hai Fatima ro k
-
-  Meray Hussain Han Meray Hussain
-
-  Mai kitnay teer nikaal’un tum ko chain milay (2)
-
+romanLyrics: |-
+  Mere Husain
+  Lipat ke Shah se kehti hai Fatima ro ke
+  Mere Husain, haaṅ mere Husain
+  Maiṅ kitne tir nikaaluṅ tum ko chain mile
 
   1
-
-  Bata Hussain zayada hai dird kis jah per
-
-  K Maa nikal le wo teer Ya Ali keh ker
-
-  Tarapna dekha nahi jata ab tu Maadar say
-
-  Meray Hussain Meray Hussain
-
-  Mai kitnay teer nikaal’un tum ko chain milay
-
+  Bata Husain, ziyaada hai dard kis jaah par
+  Ke maaṅ nikaal le woh tir Ya Ali keh kar
+  Tarapna dekha nahiṅ jaata ab to maadar se
+  Mere Husain, mere Husain
+  Maiṅ kitne tir nikaaluṅ tum ko chain mile
 
   2
-
-  Wo jis ko pyar say athara saal pala hai
-
-  Usi k senay pay zalim nay neza mara hai
-
-  Jawan k senay say khenchi hai khud sina tu nay
-
+  Woh jis ko pyaar se athaara saal paala hai
+  Usi ke sine pe zaalim ne neza maara hai
+  Jawaaṅ ke sine se khinchi hai khud sinaaṅ tu ne
 
   3
-
-  Na hath pehlo say utha na tham sakay aanso
-
-  Tumhay tu yad hai zakhmi hoa mera pehlo
-
-  Chupa na pao gay pehlo ka dird ab Maa say
-
-  Mai kitnay teer nikaalun tum ko chain milay
-
+  Na haath pehlu se utha na tham sake aansu
+  Tumheṅ to yaad hai zakhmi hua mera pehlu
+  Chhupa na paaoge pehlu ka dard ab maaṅ se
 
   4
-
-  Tumhay rakha hai sada apni chaon may mai nay
-
-  Bala ki dhop hai maqtal may aye meray bachay
-
-  Tumhari laash pe saya kerun ge baal’un say
-
+  Tumheṅ rakha hai sada apni chhaaoṅ meiṅ maiṅ ne
+  Balaa ki dhup hai maqtal meiṅ ae mere bachche
+  Tumhaari laash pe saaya karuṅ gi baaloṅ se
 
   5
-
-  Qaza nay tujh say mujay kam’sini may cheen lia
-
-  Zamana hu gaya tujh say milay hoay beta
-
-  Laga lun phir tujhay senay ko muj ko chain milay
-
+  Qaza ne tujh se mujhe kamsini meiṅ chhin liya
+  Zamaana ho gaya tujh se mile hue beta
+  Laga luṅ phir tujhe sine ko mujh ko chain mile
 
   6
-
-  Naseeb tak na hoa jalti khaak ka bister
-
-  Dam e akheer tumhara badan hai teer’un per
-
-  Tumhay yeh teer tarap’nay talak nahi detay
-
+  Nasib tak na hua jalti khaak ka bistar
+  Dam-e-akhir tumhaara badan hai tiroṅ par
+  Tumheṅ yeh tir tarapne talak nahiṅ dete
 
   7
-
-  Hussain bolay Mubarak ye maa say rotay hoay
-
-  Aye Maa nikaal lu bus teer meray pehlo say
-
-  Jabeen hu sajday may jis waqt mera dam nikalay
-
-  Aye meri Maa Aye meri Maa
-
-
-  8
-
-  Mai Kitne Teer Nikaloon Ki Tum Ko Chain Mile
-
-  Khuda Ne Tujh Se Mujhe Kamsini Mai Cheen Liya
-
-  Zamana Ho Gaya Tujh Se Mile Huwe Betaa
-
-  Laga Loon Phir Tujhe Seene Ko, Mujh Ko Chain Mile
-
-
-  9
-
-  Naseeb Tak Na Huwa Phir Bhi Khaak Ka Bistar
-
-  Mere Akhi Tumhara Badan Hai Teeron Par
-
-  Tumhein Yeh Teer Tadapne Talak Nahi Dete
-
-
-  10
-
-  Hussain Bole Mubarak Yeh Maa Se Uthte Huwe
-
-  Aey Maa Nikaal Lo Bas Teer Mere Pehloo Se
-
-  Jabeen Ho Sajde Mai Jiss Waqt, Mera Dam Nikle
-
-  Aey Meri Maa...'
+  Husain bole Mubarak yeh maaṅ se rote hue
+  Ae maaṅ nikaal lo bas tir mere pehlu se
+  Jabiṅ ho sajde meiṅ jis waqt mera dam nikle
+  Ae meri maaṅ, ae meri maaṅ
 ---
 
 ميرے حسينؑ

@@ -19,8 +19,8 @@ romanLyrics: |-
   Wa Hasan sabz qaba bekhata Qasima
 
   1
-  Kal tera jigar tukroṅ meiṅ bata tha
-  Aaj tera Qasim tukroṅ meiṅ bat gaya
+  Kal tera jigar tukroṅ mein bataa tha
+  Aaj tera Qasim tukroṅ mein bat gaya
 
   2
   Dunya ne tujhko chain se rehne nahiṅ diya
@@ -28,18 +28,18 @@ romanLyrics: |-
   Ye zulm chalte chalte Qasim tak aa gaya
 
   3
-  Ummat ne tere saath bara zulm ye kiya
+  Ummat ne tere saath baraa zulm ye kiya
   Tukre hua kaleja tera wa musibata
-  Maqtal meiṅ tera Qasim tukroṅ meiṅ bat gaya
+  Maqtal mein tera Qasim tukroṅ mein bat gaya
 
   4
-  Tha chaand Fatema ka sitam ki ghataaoṅ meiṅ
-  Ghar se chala janaaza to tiroṅ ki chhaaṅoṅ meiṅ
-  Qasim ka laasha dhup meiṅ paamaal ho gaya
+  Tha chaand Fatema ka sitam ki ghataaoṅ mein
+  Ghar se chala janaaza to tiroṅ ki chhaaṅoṅ mein
+  Qasim ka laasha dhup mein paamaal ho gaya
 
   5
   Tujh par salaam ae mere mazlum tar akhi
-  Qasim ki tarbiyat meiṅ kami koi na rakhi
+  Qasim ki tarbiyat mein kami koi na rakhi
   Akbar se pehle Shah pe qurbaan ho gaya
 
   6
@@ -49,11 +49,11 @@ romanLyrics: |-
 
   7
   Izn-e-wagha Husain se jab mil nahiṅ saka
-  Taaviz tera saath meiṅ wo laaya mah laqa
+  Taaviz tera saath mein wo laaya mah laqa
   Dil thaam kar Husain ne besaakhta kaha
 
   8
-  Paivast jitne tir the taabut meiṅ tere
+  Paivast jitne tir the taabut mein tere
   Utne hi zakhm Qasim dilgir ko lage
   Farwa ke lab pe aaya is gham se marsiya
 

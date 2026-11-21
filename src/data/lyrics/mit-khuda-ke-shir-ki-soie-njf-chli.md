@@ -7,57 +7,36 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Mayyat khuda ke sher ki suye najaf chali
-
+romanLyrics: |-
+  Mayyat Khuda ke sher ki su-e-Najaf chali
 
   1
-
-  Har samt ek shor hai maula ali ali
-
+  Har samt ek shor hai Maula Ali Ali
 
   2
-
-  Shahzade shahzadiyan baba ko rote hai
-
-  Haq ke wali ko khalq ke maula ko rote hai
-
-  Zehra ke ghar may kaisi musibat ye aagayi
-
+  Shahzaade shahzaadiyaaṅ baaba ko rote haiṅ
+  Haq ke wali ko khalq ke Maula ko rote haiṅ
+  Zehra ke ghar mein kaisi musibat ye aa gai
 
   3
-
-  Deewaro dar hai nauhakuna shehr soghwaar
-
-  Sar ko patakte jaate hai maula ke jaanisar
-
-  Ek tayghe zehr baar ne dunya ujaad di
-
+  Diwaar o dar hai noha kuna shah sogwaar
+  Sar ko patakhte jaate haiṅ Maula ke sogwaar
+  Ik tegh-e-zehr baar mein duniya ujaari
 
   4
-
-  Mazloomiyat ka haq ka madadgar mar gaya
-
-  Bewa''on ka yateemon ka ghamkhar mar gaya
-
-  Mushkil kusha juda hua mushkil ye aagayi
-
+  Mazlumiyat ka haq ka madadgaar mar gaya
+  Bewaaoṅ ka yatimoṅ ka ghamkhwaar mar gaya
+  Mushkil kusha juda hua mushkil ye aa gai
 
   5
-
-  Zainab ki nazrein baba ko payengi ab kahan
-
-  Kulsoom roti jaati hai le le ke hichkiyan
-
-  Baba ki yaad aati hai har waqt har ghadi
-
+  Zainab ki nazrein baaba ko paaeṅ gi ab kahaaṅ
+  Kulsum roti jaati hai le le ke hichkiyaaṅ
+  Baaba ki yaad aati hai har waqt har ghari
 
   6
-
-  Lo soghwaron mehre wilayat hai shaam ki
-
-  Mayyat uthao kaandho par zakhmi imam ki
-
-  Kehte chalo yahan se najaf tak ali ali'
+  Lo sogwaaroṅ mehr-e-wilaayat hai shaam ki
+  Mayyat uthaao kaandhoṅ pe zakhmi imaam ki
+  Kehte chalo yahaaṅ se Najaf tak Ali Ali
 ---
 
 میت خدا کے شیر کی سوئے نجف چلی

@@ -1,15 +1,21 @@
 ---
-title: "Hote Hain Baaz Qabil-e-Nafrat Shadeed Naam"
+title: "ہوتے ہیں بعض قابلِ نفرت شدید نام"
+alternateTitle: "Hote Hain Baaz Qabil-e-Nafrat Shadeed Naam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kuch paak inteha ke hain kuch hain paleed naam
+  Hai jin ka naam aaj jahan mein Muavia
+  Rakhein gay apne bacho ka kal wo Yazeed naam
 ---
 
-1
-Kuch Paak Inteha Ke Hain Kuch Hain Paleed Naam.
-Hai Jin Ka Naam Aaj Jahan Mein Muavia.
-Rakhein Gay Apne Bacho Ka Kal Wo Yazeed Naam.
+۱
+کچھ پاک انتہا کے ہیں کچھ ہیں پلید نام
+ہے جن کا نام آج جہاں میں معاویہ
+رکھیں گے اپنے بچوں کا کل وہ یزید نام

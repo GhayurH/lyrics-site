@@ -1,30 +1,52 @@
 ---
-title: "Minhal Menda Paygam Mir Hasan Mir Lyrics In Saraiki 2011"
+title: "منہال میݙا پیغام"
+alternateTitle: "Minhal Menda Paygam"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Minhal menda paygam Mir Hasan Mir
+  Minhal se Abid kehte they Mukhtar se itna kehna
+  Be sheer ki roti madar ka dushwar hai bas ab jeena
+
+  1
+  Minhal mainda paigham ayho Mukhtar koon de pohanchaye
+  Asghar da qatil hun taein kyun hai aazad dasa aye
+  Che mah di mehnat maqtal wich jay teer de naal ujaar diti
+  Aounday sar kitay maa Asghar ne maikon kayi wari pochiya aye
+  Main maa di ujari jholi wich Asghar da chola denda haan
+  Maindi akhiyaan samne aaway mainday kafan de baaj bhira aye
+  Ainday pehle teer di zarbat ne Ghazi di aas muka chori
+  Thayi zakhmi mashk Sakina di jhayi khak te maa Zahra aye
+  Aindhay dojay teer de masraf te hoi deed Asghar di amari di
+  Zalim jawaan piyo diyaan banwaan te kar choriya putar zibha aye
+  Mainday zakhmi babay de tan te ayein teejay teer da waar kita
+  Jehra babay di peshani choon kita bhain ne aap juda aye
+  Aye Jaun dasa ke qasad koon har dukhray di tafseer kitay
+  Kujh athro apne Abid ne Minhal di jholi pa aye
 ---
 
-1
-Minhal Menda Paygam Mir Hasan Mir.
-Minhal Se Abid Kehte They Mukhtar Se Itna Kehna.
-Be Sheer Ki Roti Madar Ka Dushwar Hai Bas Ab Jeena.
-Minhal Mainda Paigham Ayho Mukhtar Koon De Pohanchaye.
-Asghar Da Qatil Hun Taein Kyun Hai Aazad Dasa Aye.
-Che Mah Di Mehnat Maqtal Wich Jay Teer De Naal Ujaar Diti.
-Aounday Sar Kitay Maa Asghar Ne Maikon Kayi Wari Pochiya Aye.
-Main Maa Di Ujari Jholi Wich Asghar Da Chola Denda Haan.
-Maindi Akhiyaan Samne Aaway Mainday Kafan De Baaj Bhira Aye.
-Ainday Pehle Teer Di Zarbat Ne Ghazi Di Aas Muka Chori.
-Thayi Zakhmi Mashk Sakina Di Jhayi Khak Te Maa Zahra Aye.
-Aindhay Dojay Teer De Masraf Te Hoi Deed Asghar Di Amari Di.
-Zalim Jawaan Piyo Diyaan Banwaan Te Kar Choriya Putar Zibha Aye.
-Mainday Zakhmi Babay De Tan Te Ayein Teejay Teer Da Waar Kita.
-Jehra Babay Di Peshani Choon Kita Bhain Ne Aap Juda Aye.
-Aye Jaun Dasa Ke Qasad Koon Har Dukhray Di Tafseer Kitay.
-Kujh Athro Apne Abid Ne Minhal Di Jholi Pa Aye.
+منہال میݙا پیغام میر حسن میر
+منہال سے عابد کہتے تھے مختار سے اتنا کہنا
+بے شیر کی روتی مادر کا دشوار ہے بس اب جینا
+
+۱
+منہال میݙا پیغام ایہو مختار کوں ݙے پہنچائے
+اصغر دا قاتل ہُݨ تائیں کیوں ہے آزاد ݙسا اے
+چھ ماہ دی محنت مقتل وچ جے تیر دے نال اجاڑ ݙِتّی
+آؤندے سر کِتے ماں اصغر نے میکوں کئی واری پچھیا اے
+میں ماں دی اجاڑی جھولی وچ اصغر دا چولا ݙیندا ہاں
+میݙی اکھیاں سامنے آوے میݙے کفن دے باجھ بھرا اے
+ایندے پہلے تیر دی ضربت نے غازی دی آس مکا چھوڑی
+تھئی زخمی مشک سکینہ دی جھئی خاک تے ماں زہرا اے
+ایندھے ݙوجے تیر دے مصرف تے ہوئی دید اصغر دی عماری دی
+ظالم جوان پیو دیاں بانواں تے کر چھوڑیا پتر ذبح اے
+میݙے زخمی بابے دے تن تے ایئیں تیجے تیر دا وار کیتا
+جیہڑا بابے دی پیشانی چوں کیتا بھین نے آپ جدا اے
+اے جون ݙسا کے قاصد کوں ہر دکھڑے دی تفسیر کِتے
+کجھ اتھرو اپنے عابد نے منہال دی جھولی پا اے

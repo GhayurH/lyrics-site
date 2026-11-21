@@ -33,7 +33,7 @@ romanLyrics: |-
   Ae shahanshaah-e-zaman aqil-e-Hasan ya Maula
   Tera didaar azaadaar ki ulfat ka sila
   Us ko dunya meiṅ sab mila Husain jaan
-  Jis ne ek baar bhi kaha Husain jaan
+  Jis ne ak baar kaha Husain jaan
   Salaam-e-Kaaba-e-dilha Husain jaan
 
   2
@@ -54,7 +54,7 @@ romanLyrics: |-
   So gaye nehr pe Abbas-e-jari bhi jaa kar
   Koi munis na raha paas na koi yaawar
   Reh gaye dasht meiṅ tanha Husain jaan
-  Bar lab-e-to dilam fida Husain jaan
+  Bar lab-e-to dilam Husain jaan
   Salaam-e-Kaaba-e-dilha Husain jaan
 
   5
@@ -69,7 +69,7 @@ romanLyrics: |-
   Sura-e-Fajr se aane lagi aawaaz-e-Khuda
   Aa ja meri taraf aa ja Husain jaan
   Tujh se raazi tera Khuda Husain jaan
-  Salaam-e-Kaaba-e-dilha Husain jaan
+  Shukriya Kaaba-e-dilha Husain jaan
 
   7
   Mimbar-e-nok-e-sinaṅ par tera khutba sun ke
@@ -80,7 +80,7 @@ romanLyrics: |-
 
   8
   Akhtar o Naad-e-Ali hai jise irfaan-e-aza
-  Us se raazi hai qasam Rab ki qasam janaab-e-Zahra
+  Us se raazi qasam Rab ki qasam janaab-e-Zahra
   Shukriya dilbar-e-Zahra Husain jaan
   Shukriya Kaaba-e-dilha Husain jaan
 ---

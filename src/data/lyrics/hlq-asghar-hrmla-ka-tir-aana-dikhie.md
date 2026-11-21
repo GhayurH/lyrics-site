@@ -7,6 +7,37 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Halq-e-Asghar Harmala ka tir aana dekhiye
+  Baap ki godi mein uska muskuraana dekhiye
+
+  1
+  Maaṅ ne to tayyaar kar ke bhej diya beshir ko
+  Misl-e-Quraan baap ka maidaaṅ mein laana dekhiye
+
+  2
+  Zaalimoṅ ne chhed daala qalb-e-Asghar lahad mein
+  Ambiyaa ka bebasi se thartharaana dekhiye
+
+  3
+  Mal liya Shabbir ne chehre pe Asghar ka lahu
+  Laash haathoṅ pe liye phir larkharaana dekhiye
+
+  4
+  Maaṅ ki ujri god aur baaba ka dil tukre hua
+  Harmala ke tir ka kaisa nishaana dekhiye
+
+  5
+  Istighaasa baap ka sunna tha aur phir al-amaaṅ
+  Khud hamak kar god mein Asghar ka aana dekhiye
+
+  6
+  Chaura tha neze ka phal aur halq-e-Asghar tang
+  Nok-e-neza par hua kaise thikaana dekhiye
+
+  7
+  Mil gaya mitti mein jab maasumiyat ka iftikhaar
+  Qaasid-e-Sughra ka is lamhe ko aana dekhiye
 ---
 
 حلق اصغرؑ حرملا کا تیر آنا دیکھئے

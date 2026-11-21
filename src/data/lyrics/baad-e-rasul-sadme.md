@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Pehlu shikasta ho ke bhi shikwa nahiṅ kiya
-  Tanhaiyoṅ meiṅ ashk bahaati rahi Batul
+  Tanhaaiyoṅ meiṅ ashk bahaati rahi Batul
 
   3
   Dene hai khutbe un ko bhi darbaar-e-Shaam meiṅ

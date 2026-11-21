@@ -1,7 +1,7 @@
 ---
 title: "بادشاہ حسین حسین"
 recitationId: "badshah-hussain"
-alternateTitle: "Baadshah Husain"
+alternateTitle: "Baadshaah Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,34 +12,34 @@ tags: []
 aliases: ["Badshah Hussain"]
 published: true
 romanLyrics: |-
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
 
   Ye din panaahi ka sharaf kis ko mila hai
   Ye kis ka laqab hai jo sar-e-arsh likha hai
 
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
 
   Ajmer ke Khwaaja ne ye sach khub kaha hai
   Laa raib ke Shabbir hi kalme ki baqaa hai
 
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
 
-  Shah ast Husain baadshah ast Husain
+  Shaah ast Husain baadshaah ast Husain
   Diṅ ast Husain diṅ panaah ast Husain
   Sar daad na daad dast dar dast-e-Yazid
   Haqqa ke bina laa ilaah ast Husain
 
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
 
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
 
   1
@@ -51,9 +51,9 @@ romanLyrics: |-
   Sar na jhuka haq pe jiya
   Sab se bara mera Khuda
   Karta raha aelaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
@@ -61,20 +61,20 @@ romanLyrics: |-
   2
   Ishq tera ishq-e-Khuda
   Nok-e-sinaaṅ tak jo gaya
-  Ishq meiṅ jo tu ne diya
+  Ishq mein jo tu ne diya
   Koi bhi wo de na saka
   Nur-e-Khuda dast-e-Khuda
   Tere siwa kaun hua
   Kehna para likhna para
   Hai ye tera ehsaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Baadshah Husain Husain
-  Baadshah Husain
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
 
@@ -82,14 +82,14 @@ romanLyrics: |-
   Sarwar-e-zishaan Husain
   Azmat-e-insaan Husain
   Bolta Quraan Husain
-  Maiṅ tere qurbaan Husain
+  Main tere qurbaan Husain
   Mir-e-haram Rab ki qasam
   Tera ye gham hoga na kam
   Farsh-e-aza haq ki sada
   Hai ye tera faizaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
@@ -103,65 +103,65 @@ romanLyrics: |-
   Khushk zabaaṅ nok-e-sinaaṅ
   Tan se juda sar tha magar
   Parhta raha Quraan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Baadshah Husain Husain
-  Baadshah Husain
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
 
   5
-  Har jaa hai hukumat teri har dil meiṅ basa hai
-  Har dil meiṅ azaakhaana tera aaj saja hai
-  Quraan-e-masaaib meiṅ tera naam likha hai
+  Har jaa hai hukumat teri har dil mein basa hai
+  Har dil mein azaakhaana tera aaj saja hai
+  Quraan-e-masaaib mein tera naam likha hai
   Maatam ki sada hai ke ye tu bol raha hai
   Ishq-e-Khuda teri adaa
   Naam tera zinda raha
   Karbobala ki hai sada
   Tu hai bara insaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
 
   6
-  Tu zinda azaadaari teri zinda rahegi
-  Wo qaum jo bedaar hai gham tera karegi
-  Aawaaz-e-azaaṅ jo tere rauze se uthegi
-  Wallah khudaai teri aawaaz sunegi
-  Shah-e-zaman haadi-e-man
+  Tu zinda azaadaari teri zinda rahe gi
+  Wo qaum jo bedaar hai gham tera kare gi
+  Aawaaz-e-azaaṅ jo tere rauze se uthe gi
+  Wallaah khudaai teri aawaaz sune gi
+  Shaah-e-zaman haadi-e-man
   Naaz-e-chaman shiriṅ sukhan
   Shaan-e-Nabi shaan-e-Ali
   Yaani meri jaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Baadshah Husain Husain
-  Baadshah Husain
-  Baadshah Husain Husain
-  Baadshah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
+  Baadshaah Husain Husain
+  Baadshaah Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain
 
   7
-  Jannat-e-man karbobala
-  Raahat-e-man karbobala
+  Jannat-e-man Karbobala
+  Raahat-e-man Karbobala
   Sarwar o Rehaan-e-aza
-  Daulat-e-man karbobala
+  Daulat-e-man Karbobala
   Hum haiṅ safiraan-e-aza
-  Shah-e-Huda tum pe sada
+  Shaah-e-Huda tum pe sada
   Jaan kareṅ tum pe fida
   Hai ye mera armaan Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
-  Shah Husain baadshah Husain
+  Shaah Husain baadshaah Husain
   Diṅ ast Husain diṅ panaah ast Husain
   Karbobala ishq-e-Khuda
   Ishq ka tu sultaan Husain

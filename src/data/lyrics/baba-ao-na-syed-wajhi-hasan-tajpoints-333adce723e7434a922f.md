@@ -1,50 +1,90 @@
 ---
-title: "Baba Ao Na Syed Wajhi Hasan"
+title: "بابا آؤ نا سید وجیہ حسن"
+alternateTitle: "Baba Ao Na Syed Wajhi Hasan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Wajih"
-tags: ["noUrdu"]
+poet: "Syed Wajhi Hasan"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sajjad ne ro ro kar yeh kaha mujhe khon rulaya jata hai Baba aao na
+  Main behar-e-madad doon kis ko sada kanton pe chalaya jata hai Baba aao na
+
+  1
+  Youn paon ke chalay hain zakhmi waram aa gaya mere pairon par
+  Partay hain jahan bhi paon mere hoti hai jagah woh khon se tar
+  Iss alam-e-ghurbat mein mujh ko din kaisa dikhaya jata hai Baba aao na
+  Meelon ka safar tey karna hai har aik qadam hai dushwari
+
+  2
+  Hoon tauq-o-salasil mein jakra our oss pe meri yeh bemari
+  Beemar musafir ko qaidi kya aisay banaya jata hai Baba aao na
+  Har simt tamashai hain kharey chalta hai mere dil par khanjar
+  Mar jaon main ghairat se na kahin yeh gham hai shahadat se barh kar
+
+  3
+  Be maqna-o-chadar Zainab ko bazar mein laya jata hai Baba aao na
+  Chaar baras ki khwahar ko durron se banana mushkil hai
+  Doran-e-safar jo dil pe lagay woh zakhm dikhana mushkil hai
+  Mar jaon na fart-e-gham se kahin mujh ko gash aaya jata hai Baba aao na
+
+  4
+  Quran-e-haya ki har aayat be chadar Baba samne hai
+  Dada ki hakomat kal thi jahan woh shehar-e-Kofa samne hai
+  Muslim ki lash ki tarha mujhe galiyon mein phiraya jata hai Baba aao na
+  Hain pusht se sab ke shaney bandhay phatta hai kaleja wawela
+
+  5
+  Sab khon mein apne dobay hain zakhmo se na bach paya chehra
+  Aoulad-e-Nabi par har lamha pathar barsaya jata hai Baba aao na
+  Chehron ki hai aaina bandi darbar sajatay hain yeh shaqi
+  Na pak zabno par Baba hai naam phophi Zainab ka meri
+
+  6
+  Namoos-e-Nabi ki hurmat ko mati mein milaya jata hai Baba aao na
+  Baba ke katay sar ki janib jati thi safar mein jab bhi nazar
+  Kehta tha Wajih-o-:Mir Hilal: ik qaidi aanso barsa kar
+  Bagi ka pisar keh kar mujh ko din raat sataya jata hai Baba aao na
 ---
 
-Sajjad Ne Ro Ro Kar Yeh Kaha Mujhe Khon Rulaya Jata Hai Baba Aao Na.
-Main Behar-e-Madad Doon Kis Ko Sada Kanton Pe Chalaya Jata Hai Baba Aao Na.
+سجاد نے رو رو کر یہ کہا مجھے خون رلایا جاتا ہے بابا آؤ نا
+میں بہرِ مدد دوں کس کو صدا کانٹوں پہ چلایا جاتا ہے بابا آؤ نا
 
-1
-Youn Paon Ke Chalay Hain Zakhmi Waram Aa Gaya Mere Pairon Par.
-Partay Hain Jahan Bhi Paon Mere Hoti Hai Jagah Woh Khon Se Tar.
-Iss Alam-e-Ghurbat Mein Mujh Ko Din Kaisa Dikhaya Jata Hai Baba Aao Na.
-Meelon Ka Safar Tey Karna Hai Har Aik Qadam Hai Dushwari.
+۱
+یوں پاؤں کے چھالے ہیں زخمی ورم آ گیا میرے پیروں پر
+پڑتے ہیں جہاں بھی پاؤں میرے ہوتی ہے جگہ وہ خون سے تر
+اس عالمِ غربت میں مجھ کو دن کیسا دکھایا جاتا ہے بابا آؤ نا
+میلوں کا سفر طے کرنا ہے ہر ایک قدم ہے دشواری
 
-2
-Hoon Tauq-o-Salasil Mein Jakra Our Oss Pe Meri Yeh Bemari.
-Beemar Musafir Ko Qaidi Kya Aisay Banaya Jata Hai Baba Aao Na.
-Har Simt Tamashai Hain Kharey Chalta Hai Mere Dil Par Khanjar.
-Mar Jaon Main Ghairat Se Na Kahin Yeh Gham Hai Shahadat Se Barh Kar.
+۲
+ہوں طوق و سلاسل میں جکڑا اور اس پہ میری یہ بیماری
+بیمار مسافر کو قیدی کیا ایسے بنایا جاتا ہے بابا آؤ نا
+ہر سمت تماشائی ہیں کھڑے چلتا ہے میرے دل پر خنجر
+مر جاؤں میں غیرت سے نہ کہیں یہ غم ہے شہادت سے بڑھ کر
 
-3
-Be Maqna-o-Chadar Zainab Ko Bazar Mein Laya Jata Hai Baba Aao Na.
-Chaar Baras Ki Khwahar Ko Durron Se Banana Mushkil Hai.
-Doran-e-Safar Jo Dil Pe Lagay Woh Zakhm Dikhana Mushkil Hai.
-Mar Jaon Na Fart-e-Gham Se Kahin Mujh Ko Gash Aaya Jata Hai Baba Aao Na.
+۳
+بے مقنع و چادر زینب کو بازار میں لایا جاتا ہے بابا آؤ نا
+چار برس کی خواہر کو درّوں سے بنانا مشکل ہے
+دورانِ سفر جو دل پہ لگے وہ زخم دکھانا مشکل ہے
+مر جاؤں نہ فرطِ غم سے کہیں مجھ کو غش آیا جاتا ہے بابا آؤ نا
 
-4
-Quran-e-Haya Ki Har Aayat Be Chadar Baba Samne Hai.
-Dada Ki Hakomat Kal Thi Jahan Woh Shehar-e-Kofa Samne Hai.
-Muslim Ki Lash Ki Tarha Mujhe Galiyon Mein Phiraya Jata Hai Baba Aao Na.
-Hain Pusht Se Sab Ke Shaney Bandhay Phatta Hai Kaleja Wawela.
+۴
+قرآنِ حیا کی ہر آیت بے چادر بابا سامنے ہے
+دادا کی حکومت کل تھی جہاں وہ شہرِ کوفہ سامنے ہے
+مسلم کی لاش کی طرح مجھے گلیوں میں پھرایا جاتا ہے بابا آؤ نا
+ہیں پشت سے سب کے شانے بندھے پھٹتا ہے کلیجہ واویلا
 
-5
-Sab Khon Mein Apne Dobay Hain Zakhmo Se Na Bach Paya Chehra.
-Aoulad-e-Nabi Par Har Lamha Pathar Barsaya Jata Hai Baba Aao Na.
-Chehron Ki Hai Aaina Bandi Darbar Sajatay Hain Yeh Shaqi.
-Na Pak Zabno Par Baba Hai Naam Phophi Zainab Ka Meri.
+۵
+سب خون میں اپنے ڈوبے ہیں زخموں سے نہ بچ پایا چہرہ
+اولادِ نبی پر ہر لمحہ پتھر برسایا جاتا ہے بابا آؤ نا
+چہروں کی ہے آئینہ بندی دربار سجاتے ہیں یہ شقی
+ناپاک زبانوں پر بابا ہے نام پھوپھی زینب کا میری
 
-6
-Namoos-e-Nabi Ki Hurmat Ko Mati Mein Milaya Jata Hai Baba Aao Na.
-Baba Ke Katay Sar Ki Janib Jati Thi Safar Mein Jab Bhi Nazar.
-Kehta Tha Wajih-o-:MIR HILAL: Ik Qaidi Aanso Barsa Kar.
-Bagi Ka Pisar Keh Kar Mujh Ko Din Raat Sataya Jata Hai Baba Aao Na.
+۶
+ناموسِ نبی کی حرمت کو مٹی میں ملایا جاتا ہے بابا آؤ نا
+بابا کے کٹے سر کی جانب جاتی تھی سفر میں جب بھی نظر
+کہتا تھا وجیہ و میر ہلال اک قیدی آنسو برسا کر
+باغی کا پسر کہہ کر مجھ کو دن رات ستایا جاتا ہے بابا آؤ نا

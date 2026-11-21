@@ -1,41 +1,72 @@
 ---
-title: "Aye Rah E Karb O Bala Teri Azmaton Ko Salam"
+title: "اے راہِ کرب و بلا تیری عظمتوں کو سلام"
+alternateTitle: "Aye Rah e Karb o Bala Teri Azmaton Ko Salam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye rah e Karb o Bala teri azmaton ko salam
+  Hussain jis pe chalay un musafiton ko salam
+  Ali ki betiyaan amariyon mein guzari hain
+  Kabhi jo bethey hain mehmal tu tujh pe utari hain
+
+  2
+  Tu misal-e-khuld teri unn bulandiyon ko salam
+  Aye rah-e-Karb-o-Bala tujh pe lamha bhar ke liye
+  Rubab pani ko tarsi nahi pisar ke liye
+  Teri tarai pe our tere paniyon ko salam
+
+  3
+  Ali ki beti ko bhai ki jab bhi yaad aayi
+  Tu dekhti thi keh milne ko aa gaya bhai
+  Behan se pyar ki un pasdariyon ko salam
+  Buland karne jo aayi hai teri hasti ko
+
+  4
+  Shifa ka rizq dein gi jo tumhari mati ko
+  Baqa bane jo teri aisi bibiyon ko salam
+  Aye rah-e-haq kabhi pehray mein thi tu Ghazi ke
+  Tera naseeb hai qabzay mein thi tu Ghazi ke
+
+  5
+  Jabhi wafa ne kiya teri azmaton ko salam
+  Shabih-e-Yasin woh Ali Akbar
+  Haseen kitna tha yeh Jaun par ayyan tu kar
+  Yeh raz khol teri khush biyaniyon ko salam
 ---
 
-1
-Aye Rah e Karb o Bala Teri Azmaton Ko Salam
-Hussain Jis Pe Chalay Un Musafiton Ko Salam.
-Ali Ki Betiyaan Amariyon Mein Guzari Hain.
-Kabhi Jo Bethey Hain Mehmal Tu Tujh Pe Utari Hain.
+۱
+اے راہِ کرب و بلا تیری عظمتوں کو سلام
+حسین جس پہ چلے ان مسافتوں کو سلام
+علی کی بیٹیاں عماریوں میں گزاری ہیں
+کبھی جو بیٹھے ہیں محمل تو تجھ پہ اتاری ہیں
 
-2
-Tu Misal-e-Khuld Teri Unn Bulandiyon Ko Salam.
-Aye Rah-e-Karb-o-Bala Tujh Pe Lamha Bhar Ke Liye.
-Rubab Pani Ko Tarsi Nahi Pisar Ke Liye.
-Teri Tarai Pe Our Tere Paniyon Ko Salam.
+۲
+تو مثالِ خلد تیری ان بلندیوں کو سلام
+اے راہِ کرب و بلا تجھ پہ لمحہ بھر کے لیے
+رباب پانی کو ترسی نہیں پسر کے لیے
+تیری ترائی پہ اور تیرے پانیوں کو سلام
 
-3
-Ali Ki Beti Ko Bhai Ki Jab Bhi Yaad Aayi.
-Tu Dekhti Thi Keh Milne Ko Aa Gaya Bhai.
-Behan Se Pyar Ki Un Pasdariyon Ko Salam.
-Buland Karne Jo Aayi Hai Teri Hasti Ko.
+۳
+علی کی بیٹی کو بھائی کی جب بھی یاد آئی
+تو دیکھتی تھی کہ ملنے کو آ گیا بھائی
+بہن سے پیار کی ان پاسداریوں کو سلام
+بلند کرنے جو آئی ہے تیری ہستی کو
 
-4
-Shifa Ka Rizq Dein Gi Jo Tumhari Mati Ko.
-Baqa Bane Jo Teri Aisi Bibiyon Ko Salam.
-Aye Rah-e-Haq Kabhi Pehray Mein Thi Tu Ghazi Ke.
-Tera Naseeb Hai Qabzay Mein Thi Tu Ghazi Ke.
+۴
+شفا کا رزق دیں گی جو تمہاری مٹی کو
+بقا بنے جو تیری ایسی بیبیوں کو سلام
+اے راہِ حق کبھی پہرے میں تھی تو غازی کے
+تیرا نصیب ہے قبضے میں تھی تو غازی کے
 
-5
-Jabhi Wafa Ne Kiya Teri Azmaton Ko Salam.
-Shabih-e-Yasin Woh Ali Akbar.
-Haseen Kitna Tha Yeh Jaun Par Ayyan Tu Kar.
-Yeh Raz Khol Teri Khush Biyaniyon Ko Salam.
+۵
+جبھی وفا نے کیا تیری عظمتوں کو سلام
+شبیہِ یاسین وہ علی اکبر
+حسین کتنا تھا یہ جون پر عیاں تو کر
+یہ راز کھول تیری خوش بیانیوں کو سلام

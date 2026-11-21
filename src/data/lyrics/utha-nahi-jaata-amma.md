@@ -12,54 +12,54 @@ aliases: []
 published: false
 romanLyrics: |-
   Jis dam Husain zin se aaye zamin par
-  Ankhoṅ meiṅ khaak aur badan tha lahu meiṅ tar
+  Aankhoṅ meiṅ khaak aur badan tha lahu meiṅ tar
   Jab sar utha ke dekha to dhundla gayi nazar
-  Dekha koi zaeefa chali aati hai idhar
-  Amma ki khushbu aayi to uthne lage Husain
+  Dekha koi zaifa chali aati hai idhar
+  Ammaṅ ki khushbu aayi to uthne lage Husain
   Tazim jab na ho saki kehne lage Husain
-  Amma amma
-  Zakhm itne hai ke utha nahi jaata amma
-  Mill ke nau laakh ne itna mujhe maara amma
+  Ammaṅ ammaṅ
+  Zakhm itne haiṅ ke utha nahiṅ jaata ammaṅ
+  Mil ke nau laakh ne itna mujhe maara ammaṅ
 
   1
-  Is se pehle ke meri beti ye dekhe aa ke
+  Is se pehle ke meri beti ye dekhe aakar
   Shimr se keh do utar jaaye mere sine se
-  Dekho soti hai yahaṅ meri sakina amma
+  Dekho soti hai yahaṅ meri Sakina ammaṅ
 
   2
   Haye pardes meiṅ ye waqt hai kaisa hum par
-  Dekho tum pani pilaati thi jise uth uth kar
-  Aaj aaghosh meiṅ mar jayega pyasa amma
+  Dekho tum paani pilaati thi jise uth uth kar
+  Aaj aaghosh meiṅ mar jaayega pyaasa ammaṅ
 
   3
-  Maiṅ ne dekha hai usay chehre ke bal girte huwe
-  Kat chuke haath mere bhai uthega kaise
-  De ke awaaz use tum na bulaana amma
+  Main ne dekha hai use chehre ke bal girte hue
+  Kat chuke haath mara bhai uthega kaise
+  De ke awaaz use tum na bulaana ammaṅ
 
   4
   Gurz talwaar o tabar naiza o bhaala maara
-  Jis ko kuch bhi na mila us ne tamacha maara
-  Mujhpe barsa diya jo haath meiṅ aaya amma
+  Jis ko kuch bhi na mila us ne tamaancha maara
+  Mujh pe barsa diya jo haath meiṅ aaya ammaṅ
 
   5
-  Us ne dekha hai abhi sirf mera zakhmi badan
-  Larkhadate huwe girti hai sambhalti hai bahan
-  Kaise dekhegi bahan bhai ka marna amma
+  Us ne dekha hai abhi sirf mara zakhmi badan
+  Larkharaate hue girti hai sambhalti hai behan
+  Kaise dekhegi behan bhai ka marna ammaṅ
 
   6
-  Haye Shabbir ne ye maa se kaha ro ro kar
+  Haye Shabbir ne ye maaṅ se kaha ro ro kar
   Chalne waala hai meri sukhi ragoṅ par khanjar
-  Meri gardan pe abhi haath na rakhna amma
+  Meri gardan pe abhi haath na rakhna ammaṅ
 
   7
   Kitne armaan mere dil meiṅ hi dam tod gaye
-  Dekho tanha ali akbar bhi hameiṅ chod gaye
-  Chid gaya barchi se akbar ka kaleja amma
+  Dekho tanha Ali Akbar bhi hameiṅ chhor gaye
+  Chhid gaya barchi se Akbar ka kaleja ammaṅ
 
   8
   Aakhri waar hua kat gaya Shabbir ka sar
-  Maa tarapti rahi zishan o raza ro ro kar
-  Gunjta reh gaya maqtal meiṅ ye nauha amma
+  Maaṅ tarapti rahi Zishan o Raza ro ro kar
+  Gunjta reh gaya maqtal meiṅ ye nauha ammaṅ
 ---
 جسدم حسینؑ زین سے آئے زمین پر
 آنکھوں میں خاک اور بدن تھا لہو میں تر

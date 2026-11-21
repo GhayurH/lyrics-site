@@ -1,34 +1,58 @@
 ---
-title: "Hussain Ki Batein Syed Mohammad Shah"
+title: "حسین کی باتیں سید محمد شاہ"
+alternateTitle: "Hussain Ki Batein Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hussain ki batein Syed Mohammad Shah
+  Hain aayaton ka muqadar Hussain ki batein
+  Likhi hain loh ke opar Hussain ki batein
+  Namaz-e-Eid yeh banti hai teen Shabaan ki
+  Karon main Kabay se ja kar Hussain ki batein
+  Taveel sajdoon ka shayad yehi sabab hai Rasool
+  Khuda se kartay they shab bhar Hussain ki batein
+  Zameen pe lata hai paigham-e-Kibriya Jibreel
+  Falak pe karta hai ja kar Hussain ki batein
+  Khuda tumhari namazein qabool kar le ga
+  Karo musalla bicha kar Hussain ki batein
+  Main iss liye bhi tu rajat ke intezar mein hoon
+  Sunaein gaye Ali Asghar, Hussain ki batein
+  Daleel sang-e-Halab ki yeh khon rona hai
+  Keh ab bhi suntay hain pathar Hussain ki batein
+  Kabhi salam kabhi manqabat ki sorat mein
+  Utari jati hain hum par Hussain ki batein
+  Karam hai Fatima Zahra ka oss ki aankhon par
+  Jo shaks rota hai sun kar Hussain ki batein
+  Woh Karbala ki tamana karey na kyun Muhsin
+  Suni hain Fizza ne aksar Hussain ki batein
 ---
 
-1
-Hussain Ki Batein Syed Mohammad Shah.
-Hain Aayaton Ka Muqadar Hussain Ki Batein.
-Likhi Hain Loh Ke Opar Hussain Ki Batein.
-Namaz-e-Eid Yeh Banti Hai Teen Shabaan Ki.
-Karon Main Kabay Se Ja Kar Hussain Ki Batein.
-Taveel Sajdoon Ka Shayad Yehi Sabab Hai Rasool.
-Khuda Se Kartay They Shab Bhar Hussain Ki Batein.
-Zameen Pe Lata Hai Paigham-e-Kibriya Jibreel.
-Falak Pe Karta Hai Ja Kar Hussain Ki Batein.
-Khuda Tumhari Namazein Qabool Kar Le Ga.
-Karo Musalla Bicha Kar Hussain Ki Batein.
-Main Iss Liye Bhi Tu Rajat Ke Intezar Mein Hoon.
-Sunaein Gaye Ali Asghar, Hussain Ki Batein.
-Daleel Sang-e-Halab Ki Yeh Khon Rona Hai.
-Keh Ab Bhi Suntay Hain Pathar Hussain Ki Batein.
-Kabhi Salam Kabhi Manqabat Ki Sorat Mein.
-Utari Jati Hain Hum Par Hussain Ki Batein.
-Karam Hai Fatima Zahra Ka Oss Ki Aankhon Par.
-Jo Shaks Rota Hai Sun Kar Hussain Ki Batein.
-Woh Karbala Ki Tamana Karey Na Kyun Muhsin.
-Suni Hain Fizza Ne Aksar Hussain Ki Batein.
+۱
+حسین کی باتیں سید محمد شاہ
+ہیں آیتوں کا مقدر حسین کی باتیں
+لکھی ہیں لوح کے اوپر حسین کی باتیں
+نمازِ عید یہ بنتی ہے تین شعبان کی
+کروں میں کعبے سے جا کر حسین کی باتیں
+طویل سجدوں کا شاید یہی سبب ہے رسول
+خدا سے کرتے تھے شب بھر حسین کی باتیں
+زمین پہ لاتا ہے پیغامِ کبریا جبریل
+فلک پہ کرتا ہے جا کر حسین کی باتیں
+خدا تمہاری نمازیں قبول کر لے گا
+کرو مصلیٰ بچھا کر حسین کی باتیں
+میں اس لیے بھی تو رجعت کے انتظار میں ہوں
+سنائیں گے علی اصغر، حسین کی باتیں
+دلیلِ سنگِ حلب کی یہ خون رونا ہے
+کہ اب بھی سنتے ہیں پتھر حسین کی باتیں
+کبھی سلام کبھی منقبت کی صورت میں
+اتاری جاتی ہیں ہم پر حسین کی باتیں
+کرم ہے فاطمہ زہرا کا اس کی آنکھوں پر
+جو شخص روتا ہے سن کر حسین کی باتیں
+وہ کربلا کی تمنا کرے نہ کیوں محسن
+سنی ہیں فضہ نے اکثر حسین کی باتیں

@@ -1,38 +1,66 @@
 ---
-title: "Baba Yeh Musalmaan Mujhe Rone Nahi Detey"
+title: "بابا یہ مسلمان مجھے رونے نہیں دیتے"
+alternateTitle: "Baba Yeh Musalmaan Mujhe Rone Nahi Detey"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sardar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baba yeh musalmaan mujhe rone nahi detey
+  Matam tera zindan mein hone nahi detey
+
+  1
+  Bistar tera seena tha jisay cheen liya hai
+  Ab gaud mein madar ki bhi hone nahi detey
+  Ahsas-e-yateemi mujhe zindaan mein howa hai
+  Main khak pe soti hon tu sone nahi detey
+
+  2
+  Thak jate hain Sajjad tu Baba tere qatil
+  Beemar mere bhai ko sone nahi detey
+  Mar jaon gi zindaan ke andheron mein sisakti
+  Ik kirn ujalay ki yeh hone nahi detey
+
+  3
+  Gash aate hain Sajjad ko paon mein hain chalay
+  Beemar ko chaon mein yeh hone nahi detey
+  Haye aag ki manind hain Sajjad ke zewar
+  Zanjeer juda tan se yeh hone nahi detey
+
+  4
+  Be-parda Nabi zadi hain bazu khuley hain
+  Kyun band yeh bazaron ko hone nahi detey
+  Sardar chaley le ke jo Sajjad janaza
+  Shamil yeh janazay mein bhi hone nahi detey
 ---
 
-Baba Yeh Musalmaan Mujhe Rone Nahi Detey.
-Matam Tera Zindan Mein Hone Nahi Detey.
+بابا یہ مسلمان مجھے رونے نہیں دیتے
+ماتم تیرا زنداں میں ہونے نہیں دیتے
 
-1
-Bistar Tera Seena Tha Jisay Cheen Liya Hai.
-Ab Gaud Mein Madar Ki Bhi Hone Nahi Detey.
-Ahsas-e-Yateemi Mujhe Zindaan Mein Howa Hai.
-Main Khak Pe Soti Hon Tu Sone Nahi Detey.
+۱
+بستر تیرا سینہ تھا جسے چھین لیا ہے
+اب گود میں مادر کی بھی ہونے نہیں دیتے
+احساسِ یتیمی مجھے زنداں میں ہوا ہے
+میں خاک پہ سوتی ہوں تو سونے نہیں دیتے
 
-2
-Thak Jate Hain Sajjad Tu Baba Tere Qatil.
-Beemar Mere Bhai Ko Sone Nahi Detey.
-Mar Jaon Gi Zindaan Ke Andheron Mein Sisakti.
-Ik Kirn Ujalay Ki Yeh Hone Nahi Detey.
+۲
+تھک جاتے ہیں سجاد تو بابا تیرے قاتل
+بیمار میرے بھائی کو سونے نہیں دیتے
+مر جاؤں گی زنداں کے اندھیروں میں سسکتی
+اک کرن اجالے کی یہ ہونے نہیں دیتے
 
-3
-Gash Aate Hain Sajjad Ko Paon Mein Hain Chalay.
-Beemar Ko Chaon Mein Yeh Hone Nahi Detey.
-Haye Aag Ki Manind Hain Sajjad Ke Zewar.
-Zanjeer Juda Tan Se Yeh Hone Nahi Detey.
+۳
+غش آتے ہیں سجاد کو پاؤں میں ہیں چھالے
+بیمار کو چھاؤں میں یہ ہونے نہیں دیتے
+ہائے آگ کی مانند ہیں سجاد کے زیور
+زنجیر جدا تن سے یہ ہونے نہیں دیتے
 
-4
-Be-Parda Nabi Zadi Hain Bazu Khuley Hain.
-Kyun Band Yeh Bazaron Ko Hone Nahi Detey.
- Sardar Chaley Le Ke Jo Sajjad Janaza.
-Shamil Yeh Janazay Mein Bhi Hone Nahi Detey.
+۴
+بے پردہ نبی زادی ہیں بازو کھلے ہیں
+کیوں بند یہ بازاروں کو ہونے نہیں دیتے
+سردار چلے لے کے جو سجاد جنازہ
+شامل یہ جنازے میں بھی ہونے نہیں دیتے

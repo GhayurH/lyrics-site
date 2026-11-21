@@ -13,27 +13,27 @@ aliases: ["Hussainiyo Ke Liye"]
 published: true
 romanLyrics: |-
   Husainiyoṅ ke liye josh o walwala Abbas
-  Yazidiyoṅ ke liye qahr-e-kibriya Abbas
+  Yazidiyoṅ ke liye qahr-e-kibriyaa Abbas
 
   1
   Duaaeṅ aaj bhi maqbul haiṅ tere dar ki
   Buland paaya hai wo tu ne martaba Abbas
 
   2
-  Chala tu mashk-e-Sakina ko bhar ke su-e-khiyaam
-  Ghazab hai tir-e-sitam ka hadaf bana Abbas
+  Chalaa tu mashk-e-Sakina ko bhar ke su-e-khiyaam
+  Ghazab hai tir-e-sitam ka hadaf banaa Abbas
 
   3
   Rahe gi zamin-e-taamil-e-hukm-e-Shaah-e-umam
-  Lab-e-Furaat wo pyaasi teri wagha Abbas
+  Lab-e-Furaat wo pyaasi teri waghaa Abbas
 
   4
   Har ek gaam pe kehte the Sayyid-e-Sajjaad
-  Madad ko aaiye bahr-e-Khuda chacha Abbas
+  Madad ko aaiye bahr-e-Khudaa chachaa Abbas
 
   5
   Diyaar-e-Shaam meiṅ Zainab pukaar uthi thi
-  Ridaa-e-paak ke waaris haiṅ berida Abbas
+  Ridaa-e-paak ke waaris haiṅ beridaa Abbas
 
   6
   Bhatak na paaye wo Izhaar jo Shah ka zaair hai

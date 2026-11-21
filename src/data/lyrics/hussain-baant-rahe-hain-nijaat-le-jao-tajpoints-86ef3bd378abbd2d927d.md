@@ -1,65 +1,117 @@
 ---
-title: "Hussain Baant Rahe Hain Nijaat Le Jao"
+title: "حسین بانٹ رہے ہیں نجات لے جاؤ"
+alternateTitle: "Hussain Baant Rahe Hain Nijaat Le Jao"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hussain baant rahe hain nijaat le jao
+  Kuch aansoon ke ewaz kainat le jao
+  Baha ke ashk yahan kainaat le jao
+
+  2
+  Yeh Karbala hai yeh moajiz numa ki basti hai
+  Kafan mein iss ke lapeto hayat le jao
+  Kahein gaye matami halqon se log mehshar mein
+  Humein Hussain ki janat mein sath le jao
+
+  3
+  Nahi karon ga lahad mein main intezar-e-sahar
+  Farishto karb-o-bala rat-o-raat le jao
+  Qasam Hussain ki pursay mein kam hi lagta hai
+  Buland jitna bhi matam mein hath le jao
+
+  4
+  Kaha yeh Khizar se Abbas ne yahan aakar
+  Hamari mashk se aab-e-hayat le jao
+  Aye mojo utho areezay ko sath le jao
+  Imam-e-asar talak meri baat le jao
+
+  5
+  Khuda utarne wala hai sadqa Mehdi ka
+  Rasolo aao naye maujzaat le jao
+  Kahin gi Fatima waqt-e-zahoor Mehdi se
+  Larai ke liye Ghazi ko sath le jao
+
+  6
+  Sanad nijat ki na de sakein gaye soom-o-salaat
+  Behisht maar ke seene pe hath le jao
+  Tumhein Khuda se aagar aik bhi nahi milta
+  Mere Hussain ke bachpan se saat le jao
+
+  7
+  Woh zaat-e-pak keh jis ki na talta ho Khuda
+  Bana ke apna hawala woh zaat le jao
+  Woh jis ke bhujte charagon se deen roshan hai
+  Fishar-e-qabar ki khatir woh raat le jao
+
+  8
+  Batool bantein gi sadqa Hussain ka iss raat
+  Samait sakte ho jitna woh sath le jao
+  Jo aaj tak na mila ho tumhein Khuda ki qasam
+  Woh aa ke teesri Shabaan ki raat le jao
+
+  9
+  Hain jis mein barah imamo ke naam likhe howay
+  Lahad mein sath woh islamiyat le jao
+  Gham-e-hussain mein har zakhm mojza hai Naeem
+  Saja ke jism pe kuch maujzaat le jao
 ---
 
-1
-Hussain Baant Rahe Hain Nijaat Le Jao.
-Kuch Aansoon Ke Ewaz Kainat Le Jao.
-Dosri Sani:
-Baha Ke Ashk Yahan Kainaat Le Jao.
+۱
+حسین بانٹ رہے ہیں نجات لے جاؤ
+کچھ آنسو کے عوض کائنات لے جاؤ
+بہا کے اشک یہاں کائنات لے جاؤ
 
-2
-Yeh Karbala Hai Yeh Moajiz Numa Ki Basti Hai.
-Kafan Mein Iss Ke Lapeto Hayat Le Jao.
-Kahein Gaye Matami Halqon Se Log Mehshar Mein.
-Humein Hussain Ki Janat Mein Sath Le Jao.
+۲
+یہ کربلا ہے یہ معجز نما کی بستی ہے
+کفن میں اس کے لپیٹو حیات لے جاؤ
+کہیں گے ماتمی حلقوں سے لوگ محشر میں
+ہمیں حسین کی جنت میں ساتھ لے جاؤ
 
-3
-Nahi Karon Ga Lahad Mein Main Intezar-e-Sahar.
-Farishto Karb-o-Bala Rat-o-Raat Le Jao.
-Qasam Hussain Ki Pursay Mein Kam Hi Lagta Hai.
-Buland Jitna Bhi Matam Mein Hath Le Jao.
+۳
+نہیں کروں گا لحد میں میں انتظارِ سحر
+فرشتو کرب و بلا راتوں رات لے جاؤ
+قسم حسین کی پرسے میں کم ہی لگتا ہے
+بلند جتنا بھی ماتم میں ہاتھ لے جاؤ
 
-4
-Kaha Yeh Khizar Se Abbas Ne Yahan Aakar.
-Hamari Mashk Se Aab-e-Hayat Le Jao.
-Aye Mojo Utho Areezay Ko Sath Le Jao.
-Imam-e-Asar Talak Meri Baat Le Jao.
+۴
+کہا یہ خضر سے عباس نے یہاں آ کر
+ہماری مشک سے آبِ حیات لے جاؤ
+اے موجو اٹھو عریضے کو ساتھ لے جاؤ
+امامِ عصر تلک میری بات لے جاؤ
 
-5
-Khuda Utarne Wala Hai Sadqa Mehdi Ka.
-Rasolo Aao Naye Maujzaat Le Jao.
-Kahin Gi Fatima Waqt-e-Zahoor Mehdi Se.
-Larai Ke Liye Ghazi Ko Sath Le Jao.
+۵
+خدا اتارنے والا ہے صدقہ مہدی کا
+رسولو آؤ نئے معجزات لے جاؤ
+کہیں گی فاطمہ وقتِ ظہور مہدی سے
+لڑائی کے لیے غازی کو ساتھ لے جاؤ
 
-6
-Sanad Nijat Ki Na De Sakein Gaye Soom-o-Salaat.
-Behisht Maar Ke Seene Pe Hath Le Jao.
-Tumhein Khuda Se Aagar Aik Bhi Nahi Milta.
-Mere Hussain Ke Bachpan Se Saat Le Jao.
+۶
+سند نجات کی نہ دے سکیں گے صوم و صلوٰۃ
+بہشت مار کے سینے پہ ہاتھ لے جاؤ
+تمہیں خدا سے اگر ایک بھی نہیں ملتا
+میرے حسین کے بچپن سے سات لے جاؤ
 
-7
-Woh Zaat-e-Pak Keh Jis Ki Na Talta Ho Khuda.
-Bana Ke Apna Hawala Woh Zaat Le Jao.
-Woh Jis Ke Bhujte Charagon Se Deen Roshan Hai.
-Fishar-e-Qabar Ki Khatir Woh Raat Le Jao.
+۷
+وہ ذاتِ پاک کہ جس کی نہ ٹالتا ہو خدا
+بنا کے اپنا حوالہ وہ ذات لے جاؤ
+وہ جس کے بجھتے چراغوں سے دین روشن ہے
+فشارِ قبر کی خاطر وہ رات لے جاؤ
 
-8
-Batool Bantein Gi Sadqa Hussain Ka Iss Raat.
-Samait Sakte Ho Jitna Woh Sath Le Jao.
-Jo Aaj Tak Na Mila Ho Tumhein Khuda Ki Qasam.
-Woh Aa Ke Teesri Shabaan Ki Raat Le Jao.
+۸
+بتول بانٹیں گی صدقہ حسین کا اس رات
+سمیٹ سکتے ہو جتنا وہ ساتھ لے جاؤ
+جو آج تک نہ ملا ہو تمہیں خدا کی قسم
+وہ آ کے تیسری شعبان کی رات لے جاؤ
 
-9
-Hain Jis Mein Barah Imamo Ke Naam Likhe Howay.
-Lahad Mein Sath Woh Islamiyat Le Jao.
-Gham-e-Hussain Mein Har Zakhm Mojza Hai Naeem.
-Saja Ke Jism Pe Kuch Maujzaat Le Jao.
+۹
+ہیں جس میں بارہ اماموں کے نام لکھے ہوئے
+لحد میں ساتھ وہ اسلامیات لے جاؤ
+غمِ حسین میں ہر زخم معجزہ ہے نعیم
+سجا کے جسم پہ کچھ معجزات لے جاؤ

@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas amir e lashkaram kaisa hai jaah o hasham
+  Abbas amir-e-lashkaram kaisa hai jaah o hasham
   Ek haath meiṅ hai mashk aur ek haath meiṅ parcham
-  Chalo bhaago yahaṅ se choro darya aagaye hai hum
-  Mai qamar e bani hashim hoo suno abbas hoo mai
-  Mere baba ali jaisa agar na ho mera hamraah
-  Nahi kehna nahi kehna mujhe abbas na kehna
-  Suno darya ke pehradaron ye ghazi ka naara hai
-  Hamari milkiyat hai pani par qabza hamara hai
-  Agar himmat hai to bolo ke ye darya tumhara hai
-  Suno ae shaamiyoṅ sunlo
-  Agar ek waar meiṅ na chin loo tumse mai ye darya
-  Nahi kehna nahi kehna...
-  Ali ka laal ho jarrar hu naade ali hu mai
-  Jalaal aaye to sar se paoṅ tak yaad e ali hoo mai
-  Ye hargiz bhul na jaan ali baad e ali hoo mao
-  Suno ae shaamiyoṅ sunlo
-  Agar talwaar ki tarha na kaate tumko ye naiza
-  Nahi kehna nahi kehna...
-  Laroge mujhse kya tumko mera ash'al kuchal dega
-  Agar mai hukm deduṅ nehr ka naqsha badal dega
-  Lehad tak yaad rakhoge tumhe aisi ajal dega
-  Suno ay shaamiyon sunlo
-  Jo kehta hoo wo karta hoo agar aisa na ho wallah
-  Nahi kehna nahi kehna...
-  Jina hai ya marna hai khud sochlo kya karna hai
-  Nasloṅ ko tumhari warna mere naam se hi darna hai
-  Agar ruhoṅ ko bhi na kaat doo mai jismoṅ ki tarha
-  Nahi kehna nahi kehna...
-  Na larne ki ijazat hai na larne ka iraada hai
-  Sakin akab se pyasi hai ye gham sab se zyada hai
-  Bas ek mashkeeza bharne do mere tumse ye waada hai
-  Suno ae shaamiyoṅ sunlo
-  Agar pani piye ek boond ye seh roz ka pyasa
-  Nahi kehna nahi kehna...
-  Wahaṅ zishan o irfan e aza pehra hai ghazi ka
-  Jabhi to karbala koi yazidi jaa nahi sakta
-  Wafa ke baadshah ka unhe hai khauf itna
+  Chalo bhaago yahaaṅ se chhoro darya aage hai ham
+  Main qamar-e-Bani Hashim huṅ suno Abbas huṅ main
+  Mere baba Ali jaisa agar na ho mera hamraah
+  Nahiṅ kehna nahiṅ kehna mujhe Abbas na kehna
+  Suno darya ke pehredaaroṅ ye Ghazi ka naara hai
+  Hamaari milkiyat hai paani par qabza hamaara hai
+  Agar himmat hai to bolo ke ye darya tumhaara hai
+  Suno ae Shaamiyoṅ sun lo
+  Agar ik waar meiṅ na chhin luṅ tum se main darya
+  Nahiṅ kehna nahiṅ kehna...
+  Ali ka laal ho jarraar huṅ Naad-e-Ali huṅ main
+  Jalaal aaye to sar se paaoṅ tak yaad-e-Ali huṅ main
+  Ye hargiz bhul na jaana Ali baad-e-Ali huṅ main
+  Suno ae Shaamiyoṅ sun lo
+  Agar talwaar ki tarah na kaate tum ko ye naiza
+  Nahiṅ kehna nahiṅ kehna...
+  Laroge mujh se kya tum ko mera ash'aal kuchal dega
+  Agar main hukm de duṅ nehr ka naqsha badal dega
+  Lahad tak yaad rakho ge tum se aisi ajal dega
+  Jo kehta huṅ wo karta huṅ agar aisa na ho wallah
+  Nahiṅ kehna nahiṅ kehna...
+  Suno ae Shaamiyoṅ sun lo
+  Jina hai ya marna hai khud soch lo kya karna hai
+  Nasloṅ ko tumhaari warna mere naam se hi darna hai
+  Agar ruhoṅ ko bhi na kaat duṅ jismoṅ ki tarah
+  Nahiṅ kehna nahiṅ kehna...
+  Na larne ki ijaazat hai na larne ka iraada hai
+  Sakina kab se pyaasi hai ye gham sab se zyaada hai
+  Bas ek mashkiza bharne do mere tum se ye waada hai
+  Suno ae Shaamiyoṅ sun lo
+  Agar paani piye ik bundh ye seh roz ka pyaasa
+  Nahiṅ kehna nahiṅ kehna...
+  Wahaaṅ Zeeshan o Irfan-e-Aza pehra hai Ghazi ka
+  Jabhi to Karbala koi Yazidi jaa nahiṅ sakta
+  Wafa ke baadshaah ka unheṅ hai khauf itna
   Ali ka sher hai wo saroṅ ko kaat dega
-  Suno ae shaamiyoṅ sunlo
-  Abhi tak yaad hai unko mere ghazi ka ye kehna
-  Nahi kehna nahi kehna...
+  Suno ae Shaamiyoṅ sun lo
+  Abhi tak yaad hai un ko mere Ghazi ka ye kehna
+  Nahiṅ kehna nahiṅ kehna...
 ---
 
 ۱

@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baad-e-Sheh Zainab-e-muztar ko kahaaṅ nind aati
+  Baad-e-Sheh Zainab muztar ko kahaaṅ nind aati
   Waaris-e-laasha-e-besar ko kahaaṅ nind aati
 
   1
@@ -20,8 +20,8 @@ romanLyrics: |-
   Roz-e-Aashur bahattar ko kahaaṅ nind aati
 
   2
-  Raat bhar jaag ke zaanu jo na milta Sheh ka
-  Sochta huṅ Hur-e-muztar kahaaṅ nind aati
+  Raat bhar jaag ke zaanuṅ jo na milta Sheh ka
+  Sochta huṅ Hur-e-muztar ko kahaaṅ nind aati
 
   3
   Khaak zindaan ki kahaaṅ baap ka sina banti

@@ -1,107 +1,202 @@
 ---
-title: "Bane Ga Dekhna Aesa Batool Ka Roza Inshallah Mir Sajjad Mir Lyrics 2025"
+title: "بنے گا دیکھنا ایسا بتول کا روضہ ان شاء اللہ"
+alternateTitle: "Bane Ga Dekhna Aesa Batool Ka Roza Inshallah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Sajjad"
-tags: ["noUrdu"]
+poet: "Mir Sajjad Mir"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bane ga dekhna aesa Batool ka roza Inshallah Mir Sajjad Mir
+  Woh waqt aaye ga ik din zaror aaye ga
+  Rasool zadi ka roza zamana dekhey ga
+  Inshallah, Inshallah, Inshallah
+
+  1
+  Banay ga dekhna aisa Batool ka roza
+  Yeh keh raha hai yaqeen se Rasool ka roza
+  Zamana dekhey ga asal-e-usool ka roza
+  Na hoga aisa kissi bhi Rasool ka roza
+
+  2
+  Hai kam khas tu mazdoor khas aaein gay
+  Zameen pe sare payamber bulaye jaein gay
+  Haram mein lakri ke sab kam Nooh dekhein gay
+  Tamam pardon ko Idrees aa ke si lein gay
+
+  3
+  Haram ke husan ka Yousuf khiyal rakhein gay
+  Khud apne hath se Dawood loha katein gay
+  Janab-e-Mosa sabhi rastay banaein gay
+  Kabotaron ko Suleman le ke aaein gay
+
+  4
+  Zyaraton ke naye baab likhe jaein gay
+  Barey sahifa e nayab likhe jaein gay
+  Nabi ki beti ke alqab likhe jaein gay
+  Haram mein jane ke aadab likhe jaein gay
+
+  5
+  Yeh shart ho gi keh sajdah karo tu jao gay
+  Keh gasibon pe tabarah karo tu jao gay
+  Modiriyat ke sabhi kam dekhein gay Shabbar
+  Khula rahe ga hamesha Hussain ka daftar
+
+  6
+  Karein gay nazar ko taqseem Qasim-e-Muztar
+  Tamam bachoon ko dekhein gay Mohsin-o-Asghar
+  Youn subha-o-sham milein gay wahan Ali Akbar
+  Haram mein dadi ke dein gay azaan Ali Akbar
+
+  7
+  Khulay gi Bibi ki azmat namaz-e-magrib par
+  Karey gi fakhar ibadat namaz-e-magrib par
+  Nisar ho gi shariyat namaz-e-magrib par
+  Zyada aaye gi khilqat namaz-e-magrib par
+
+  8
+  Har ik Rasool kahey ga yeh sehan-e-rehmat mein
+  Namaz parhni hai Abbas ki imamat mein
+  Barey haram ki barai tu raat mein ho gi
+  Khuda ki asal khudai tu raat mein ho gi
+
+  9
+  Marifat ki gadayi tu raat mein ho gi
+  Bas oss haram ki safai tu raat mein ho gi
+  Paye namaz tahajud guzar aaein gay
+  Sab apni darhi se jharo laga ke jaein gay
+
+  10
+  Banay gi soney se asli zareeh ki jali
+  Lagai jaye gi Fizza ke hath se chandi
+  Haseen qalam se Hasan khud karein gay khatati
+  Likhein gay qabar pe aayat sari Quraan ki
+
+  11
+  Lehad pe tohfa e Rehman rakha jaye ga
+  Ali ke hath ka Quran rakha jaye ga
+  Koi janaza haram mein jo laya jaye ga
+  Janab-e-Esa ko foran bulaya jaye ga
+
+  12
+  Janaza kaisa qaseeda parhaya jaye ga
+  Yeh keh ke shaney ko oss ke hilaya jaye ga
+  Ba izn-e-Fatima Zahra utho kalam karo
+  Unhon ne zindah kiya hai unhein salam karo
+
+  13
+  Karein gay sare malak zaireen ki khidmat
+  Kahan miley gi unhein kafshdari se fursat
+  Farishta maut ka de ga hayat ki lazzat
+  Na ho gi chalne ki jin zaireen mein himmat
+
+  14
+  Har aik sehan ka chakar lagaein gay Fitrus
+  Paron pe aisay mareezo ko laein gay Fitrus
+  Ali ka beta Madine ko roshni de ga
+  Duaein qabar se Umm ul-Banin ki le ga
+
+  15
+  Haram Batool ka Sajjad aisay chamkay ga
+  Ho din ya shab Bani Hashim ka chand niklay ga
+  Haram se mashk Sakina ki laein gay Abbas
+  Hussain walon ko pani pilaein gay Abbas
 ---
 
-1
-Bane Ga Dekhna Aesa Batool Ka Roza Inshallah Mir Sajjad Mir.
-Woh Waqt Aaye Ga Ik Din Zaror Aaye Ga.
-Rasool Zadi Ka Roza Zamana Dekhey Ga.
-Inshallah, Inshallah, Inshallah.
+بنے گا دیکھنا ایسا بتول کا روضہ ان شاء اللہ میر سجاد میر
+وہ وقت آئے گا اک دن ضرور آئے گا
+رسول زادی کا روضہ زمانہ دیکھے گا
+ان شاء اللہ، ان شاء اللہ، ان شاء اللہ
 
-2
-Banay Ga Dekhna Aisa Batool Ka Roza.
-Yeh Keh Raha Hai Yaqeen Se Rasool Ka Roza.
-Zamana Dekhey Ga Asal-e-Usool Ka Roza.
-Na Hoga Aisa Kissi Bhi Rasool Ka Roza.
+۱
+بنے گا دیکھنا ایسا بتول کا روضہ
+یہ کہہ رہا ہے یقین سے رسول کا روضہ
+زمانہ دیکھے گا اصلِ اصول کا روضہ
+نہ ہوگا ایسا کسی بھی رسول کا روضہ
 
-3
-Hai Kam Khas Tu Mazdoor Khas Aaein Gay.
-Zameen Pe Sare Payamber Bulaye Jaein Gay.
-Haram Mein Lakri Ke Sab Kam Nooh Dekhein Gay.
-Tamam Pardon Ko Idrees Aa Ke Si Lein Gay.
+۲
+ہے کام خاص تو مزدور خاص آئیں گے
+زمین پہ سارے پیمبر بلائے جائیں گے
+حرم میں لکڑی کے سب کام نوح دیکھیں گے
+تمام پردوں کو ادریس آ کے سی لیں گے
 
-4
-Haram Ke Husan Ka Yousuf Khiyal Rakhein Gay.
-Khud Apne Hath Se Dawood Loha Katein Gay.
-Janab-e-Mosa Sabhi Rastay Banaein Gay.
-Kabotaron Ko Suleman Le Ke Aaein Gay.
+۳
+حرم کے حسن کا یوسف خیال رکھیں گے
+خود اپنے ہاتھ سے داؤد لوہا کاٹیں گے
+جنابِ موسیٰ سبھی رستے بنائیں گے
+کبوتروں کو سلیمان لے کے آئیں گے
 
-5
-Zyaraton Ke Naye Baab Likhe Jaein Gay.
-Barey Sahifa e Nayab Likhe Jaein Gay.
-Nabi Ki Beti Ke Alqab Likhe Jaein Gay.
-Haram Mein Jane Ke Aadab Likhe Jaein Gay.
+۴
+زیارتوں کے نئے باب لکھے جائیں گے
+بڑے صحیفۂ نایاب لکھے جائیں گے
+نبی کی بیٹی کے القاب لکھے جائیں گے
+حرم میں جانے کے آداب لکھے جائیں گے
 
-6
-Yeh Shart Ho Gi Keh Sajdah Karo Tu Jao Gay.
-Keh Gasibon Pe Tabarah Karo Tu Jao Gay.
-Modiriyat Ke Sabhi Kam Dekhein Gay Shabbar.
-Khula Rahe Ga Hamesha Hussain Ka Daftar.
+۵
+یہ شرط ہوگی کہ سجدہ کرو تو جاؤ گے
+کہ غاصبوں پہ تبرا کرو تو جاؤ گے
+مدیریت کے سبھی کام دیکھیں گے شبر
+کھلا رہے گا ہمیشہ حسین کا دفتر
 
-7
-Karein Gay Nazar Ko Taqseem Qasim-e-Muztar.
-Tamam Bachoon Ko Dekhein Gay Mohsin-o-Asghar.
-Youn Subha-o-Sham Milein Gay Wahan Ali Akbar.
-Haram Mein Dadi Ke Dein Gay Azaan Ali Akbar.
+۶
+کریں گے نذر کو تقسیم قاسمِ مضطر
+تمام بچوں کو دیکھیں گے محسن و اصغر
+یوں صبح و شام ملیں گے وہاں علی اکبر
+حرم میں دادی کے دیں گے اذان علی اکبر
 
-8
-Khulay Gi Bibi Ki Azmat Namaz-e-Magrib Par.
-Karey Gi Fakhar Ibadat Namaz-e-Magrib Par.
-Nisar Ho Gi Shariyat Namaz-e-Magrib Par.
-Zyada Aaye Gi Khilqat Namaz-e-Magrib Par.
+۷
+کھلے گی بی‌بی کی عظمت نمازِ مغرب پر
+کرے گی فخر عبادت نمازِ مغرب پر
+نثار ہوگی شریعت نمازِ مغرب پر
+زیادہ آئے گی خلقت نمازِ مغرب پر
 
-9
-Har Ik Rasool Kahey Ga Yeh Sehan-e-Rehmat Mein.
-Namaz Parhni Hai Abbas Ki Imamat Mein.
-Barey Haram Ki Barai Tu Raat Mein Ho Gi.
-Khuda Ki Asal Khudai Tu Raat Mein Ho Gi.
+۸
+ہر اک رسول کہے گا یہ صحنِ رحمت میں
+نماز پڑھنی ہے عباس کی امامت میں
+بڑے حرم کی بڑائی تو رات میں ہوگی
+خدا کی اصل خدائی تو رات میں ہوگی
 
-10
-Marifat Ki Gadayi Tu Raat Mein Ho Gi.
-Bas Oss Haram Ki Safai Tu Raat Mein Ho Gi.
-Paye Namaz Tahajud Guzar Aaein Gay.
-Sab Apni Darhi Se Jharo Laga Ke Jaein Gay.
+۹
+معرفت کی گدائی تو رات میں ہوگی
+بس اس حرم کی صفائی تو رات میں ہوگی
+پئے نمازِ تہجد گزار آئیں گے
+سب اپنی داڑھی سے جھاڑو لگا کے جائیں گے
 
-11
-Banay Gi Soney Se Asli Zareeh Ki Jali.
-Lagai Jaye Gi Fizza Ke Hath Se Chandi.
-Haseen Qalam Se Hasan Khud Karein Gay Khatati.
-Likhein Gay Qabar Pe Aayat Sari Quraan Ki.
+۱۰
+بنے گی سونے سے اصلی ضریح کی جالی
+لگائی جائے گی فضہ کے ہاتھ سے چاندی
+حسین قلم سے حسن خود کریں گے خطاطی
+لکھیں گے قبر پہ آیات ساری قرآن کی
 
-12
-Lehad Pe Tohfa e Rehman Rakha Jaye Ga.
-Ali Ke Hath Ka Quran Rakha Jaye Ga.
-Koi Janaza Haram Mein Jo Laya Jaye Ga.
-Janab-e-Esa Ko Foran Bulaya Jaye Ga.
+۱۱
+لحد پہ تحفۂ رحمان رکھا جائے گا
+علی کے ہاتھ کا قرآن رکھا جائے گا
+کوئی جنازہ حرم میں جو لایا جائے گا
+جنابِ عیسیٰ کو فوراً بلایا جائے گا
 
-13
-Janaza Kaisa Qaseeda Parhaya Jaye Ga.
-Yeh Keh Ke Shaney Ko Oss Ke Hilaya Jaye Ga.
-Ba Izn-e-Fatima Zahra Utho Kalam Karo.
-Unhon Ne Zindah Kiya Hai Unhein Salam Karo.
+۱۲
+جنازہ کیسا قصیدہ پڑھایا جائے گا
+یہ کہہ کے شانے کو اس کے ہلایا جائے گا
+باذنِ فاطمہ زہرا اٹھو کلام کرو
+انھوں نے زندہ کیا ہے انھیں سلام کرو
 
-14
-Karein Gay Sare Malak Zaireen Ki Khidmat.
-Kahan Miley Gi Unhein Kafshdari Se Fursat.
-Farishta Maut Ka De Ga Hayat Ki Lazzat.
-Na Ho Gi Chalne Ki Jin Zaireen Mein Himmat.
+۱۳
+کریں گے سارے مَلَک زائرین کی خدمت
+کہاں ملے گی انھیں کفش داری سے فرصت
+فرشتۂ موت کا دے گا حیات کی لذت
+نہ ہوگی چلنے کی جن زائرین میں ہمت
 
-15
-Har Aik Sehan Ka Chakar Lagaein Gay Fitrus.
-Paron Pe Aisay Mareezo Ko Laein Gay Fitrus.
-Ali Ka Beta Madine Ko Roshni De Ga.
-Duaein Qabar Se Umm Ul-Banin Ki Le Ga.
+۱۴
+ہر ایک صحن کا چکر لگائیں گے فطرس
+پروں پہ ایسے مریضوں کو لائیں گے فطرس
+علی کا بیٹا مدینے کو روشنی دے گا
+دعائیں قبر سے ام البنین کی لے گا
 
-16
-Haram Batool Ka Sajjad Aisay Chamkay Ga.
-Ho Din Ya Shab Bani Hashim Ka Chand Niklay Ga.
-Haram Se Mashk Sakina Ki Laein Gay Abbas.
-Hussain Walon Ko Pani Pilaein Gay Abbas.
+۱۵
+حرم بتول کا سجاد ایسے چمکے گا
+ہو دن یا شب بنی ہاشم کا چاند نکلے گا
+حرم سے مشک سکینہ کی لائیں گے عباس
+حسین والوں کو پانی پلائیں گے عباس

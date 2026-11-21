@@ -1,46 +1,93 @@
 ---
-title: "Veer Ve Hun Aaja, Haye Shaama Paiyan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ویر وے ہن آ جا، ہائے شاما پئیاں"
+alternateTitle: "Veer Ve Hun Aaja, Haye Shaama Paiyan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Veer ve hun aaja shaama paiyan
+  Veer ve hun aaja, haye shaama paiyan
+
+  1
+  Tur gaye saray mere dais paray
+  Din dhaliya veer nai aai
+  May tey rawaan takdi paiyan
+  Veer ve hun aaja
+
+  2
+  Dhal gaiya Ashoor da din
+  Veer mere waqt dhal gaye
+  Nanay de rozay tey val val jawan
+  Mukh chaliyan meriyan sawan
+  Kali ghar ch rondi paiyan
+  Veer ve hun aaja
+
+  3
+  Maa vi chad gai menu baba
+  Tu vi chad kay tur gaiya hai
+  Chad k tur gaiyan sariyan meriyan bhaina
+  Keway dhuk ay kaliya sehna
+  Ay ho soochan khaan gaiyan
+  Veer ve hun aaja
+
+  4
+  Bhulday nai ay baba menu
+  Veer Asghar de o laaday
+  Ooh vi kerda ho si menu yaaday
+  Raway shalla oh abaaday
+  Ay duawan mangdi raiyan
+  Veer ve hun aaja
+
+  5
+  Khoon ronda Maula Mehndi
+  Yaad ker kay hai Madina
+  Keway ujraiya wasda ghar Zahra da
+  Shahid ro ro Sughra da
+  Kisay khabran aa na laiyan
+  Veer ve hun aaja
 ---
 
-Veer Ve Hun Aaja Shaama Paiyan
-Veer Ve Hun Aaja, Haye Shaama Paiyan
+ویر وے ہن آ جا شاما پئیاں
+ویر وے ہن آ جا، ہائے شاما پئیاں
 
-Tur Gaye Saray Mere Dais Paray
-Din Dhaliya Veer Nai Aai.
-May Tey Rawaan Takdi Paiyan
-Veer Ve Hun Aaja
+۱
+ٹر گئے سارے میرے دیس پرے
+دن ڈھلیا ویر نئیں آئی
+میں تے راواں تکدی پئیاں
+ویر وے ہن آ جا
 
-Dhal Gaiya Ashoor Da Din
-Veer Mere Waqt Dhal Gaye
-Nanay De Rozay Tey Val Val Jawan
-Mukh Chaliyan Meriyan Sawan
-Kali Ghar Ch Rondi Paiyan
-Veer Ve Hun Aaja
+۲
+ڈھل گیا عاشور دا دن
+ویر میرے وقت ڈھل گئے
+نانے دے روضے تے ول ول جاواں
+مک چلیاں میریاں ساہواں
+کلی گھر چ روندی پئیاں
+ویر وے ہن آ جا
 
-Maa Vi Chad Gai Menu Baba
-Tu Vi Chad Kay Tur Gaiya Hai
-Chad K Tur Gaiyan Sariyan Meriyan Bhaina
-Keway Dhuk Ay Kaliya Sehna
-Ay Ho Soochan Khaan Gaiyan
-Veer Ve Hun Aaja
+۳
+ماں وی چھڈ گئی مینوں بابا
+توں وی چھڈ کے ٹر گیا ہیں
+چھڈ کے ٹر گئیاں ساریاں میریاں بھیناں
+کیویں دکھ اے کلیاں سہنا
+اے ہو سوچاں کھان گئیاں
+ویر وے ہن آ جا
 
-Bhulday Nai Ay Baba Menu
-Veer Asghar De O Laaday
-Ooh Vi Kerda Ho Si Menu Yaaday
-Raway Shalla Oh Abaaday
-Ay Duawan Mangdi Raiyan
-Veer Ve Hun Aaja
+۴
+بھلدے نئیں اے بابا مینوں
+ویر اصغر دے او لاڈے
+اوہ وی کردا ہو سی مینوں یادے
+روے شالا اوہ آبادے
+اے دعاواں منگدی رہیاں
+ویر وے ہن آ جا
 
-Khoon Ronda Maula Mehndi
-Yaad Ker Kay Hai Madina
-Keway Ujraiya Wasda Ghar Zahra Da
-Shahid Ro Ro Sughra Da
-Kisay Khabran Aa Na Laiyan
-Veer Ve Hun Aaja
+۵
+خون روندا مولا مہندی
+یاد کر کے ہائے مدینہ
+کیویں اجاڑیا وسدا گھر زہرا دا
+شاہد رو رو صغریٰ دا
+کسے خبراں آ نہ لئیاں
+ویر وے ہن آ جا

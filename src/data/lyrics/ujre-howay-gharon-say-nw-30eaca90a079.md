@@ -1,91 +1,174 @@
 ---
-title: "Ujre Howay Gharon Say"
+title: "اجڑے ہوئے گھروں سے"
+alternateTitle: "Ujre Howay Gharon Say"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Wa waila hay wa waila
+  Wa waila hay wa waila
+  Wa waila hay wa waila
+  Wa waila hay wa waila
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+
+  Ab lout a musafir
+  Ab lout a musafir
+
+  Zehra bula rahi hai
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+
+  1
+  Ek saal yun guzara
+  Takti rahi main rahain
+  Bas dhundti hain bhaiya
+  Tumko meri nigahain
+
+  Ab lout ao Akbar
+  Ab lout ao Akbar
+  Sughra bula rahi hai
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+
+  2
+  Mehandi lagaongi main
+  Sehra sajaongi main
+  Arman hai yeh maan ka
+  Dulhan bhi laongi main
+
+  Ab lout ao Qasim
+  Ab lout ao Qasim
+  Farwa bula rahi hai
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+
+  3
+  Ay Aun or Mohammad
+  Tum jin main khelte they
+  Sooni hai ab woh galiya
+  Veran hain woh hujre
+
+  Ab lout ao piyaro
+  Ab lout ao piyaro
+  Dukhiya bula rahi hai
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+
+  4
+  Maan dhoop main rahegi
+  Faryad bhi karegi
+  Jab tak na aogay tum
+  Pani nahi piyegi
+
+  Ab lout ao Asghar
+  Ab lout ao Asghar
+  Mamta bula rahi hai
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
+
+  5
+  Ummul Baneen ro kar
+  Yeh kar rahi hain noha
+  Tum dashte Karbala main
+  Kulsoom per they fidya
+
+  Ab lout ao Ghazi
+  Ab lout ao Ghazi
+  Behna bula rahi hai
+
+  Ujre huay gharo say awaz arahi hai
+  Ujre huay gharo say awaz arahi hai
 ---
 
-Ujre Howay Gharo Say
+واویلا ہے واویلا
+واویلا ہے واویلا
+واویلا ہے واویلا
+واویلا ہے واویلا
 
-Wa Waila Hay Wa Waila
-Wa Waila Hay Wa Waila
-Wa Waila Hay Wa Waila
-Wa Waila Hay Wa Waila
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
 
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
+اب لوٹ آ مسافر
+اب لوٹ آ مسافر
 
-Ab Lout a Musafir
-Ab Lout a Musafir
+زہراؑ بلا رہی ہے
 
-Zehra(a.s.) Bula Rahi Hai
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
 
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
+۱
+ایک سال یوں گزارا
+تکتی رہی میں راہیں
+بس ڈھونڈتی ہیں بھیا
+تم کو میری نگاہیں
 
-Ek Saal Yun Guzara
-Takti Rahi Main Rahain
-Bas Dhundti Hain Bhaiya
-Tumko Meri Nigahain
+اب لوٹ آؤ اکبرؑ
+اب لوٹ آؤ اکبرؑ
+صغریٰؑ بلا رہی ہے
 
-Ab Lout Ao Akbar(a.s.)
-Ab Lout Ao Akbar(a.s.)
-Sughra(s.a.) Bula Rahi Hai
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
 
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
+۲
+مہندی لگاؤں گی میں
+سہرا سجاؤں گی میں
+ارمان ہے یہ ماں کا
+دلہن بھی لاؤں گی میں
 
-Mehandi Lagaongi Main
-Sehra Sajaongi Main
-Arman Hai Yeh Maan Ka
-Dulhan Bhi Laongi Main
+اب لوٹ آؤ قاسمؑ
+اب لوٹ آؤ قاسمؑ
+فروہؑ بلا رہی ہے
 
-Ab Lout Ao Qasim(a.s.)
-Ab Lout Ao Qasim(a.s.)
-Farwa(s.a.) Bula Rahi Hai
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
 
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
+۳
+اے عونؑ اور محمدؑ
+تم جن میں کھیلتے تھے
+سونی ہے اب وہ گلیاں
+ویراں ہیں وہ حجرے
 
-Ay Aun(a.s.) or Mohammad(a.s.)
-Tum Jin Main Khelte They
-Sooni Hai Ab Woh Galiya
-Veran Hain Woh Hujre
+اب لوٹ آؤ پیارو
+اب لوٹ آؤ پیارو
+دکھیّا بلا رہی ہے
 
-Ab Lout Ao Piyaro(a.s.)
-Ab Lout Ao Piyaro(a.s.)
-Dukhiya(s.a.) Bula Rahi Hai
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
 
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
+۴
+ماں دھوپ میں رہے گی
+فریاد بھی کرے گی
+جب تک نہ آؤ گے تم
+پانی نہیں پیے گی
 
-Maan(s.a.) Dhoop Main Rahegi
-Faryad Bhi Karegi
-Jab Tak Na Aogay Tum
-Pani Nahi Piyegi
+اب لوٹ آؤ اصغرؑ
+اب لوٹ آؤ اصغرؑ
+ممتا بلا رہی ہے
 
-Ab Lout Ao Asghar(a.s.)
-Ab Lout Ao Asghar(a.s.)
-Mamta Bula Rahi Hai
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
 
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
+۵
+ام البنینؑ رو کر
+یہ کر رہی ہیں نوحہ
+تم دشتِ کربلا میں
+کلثومؑ پر تھے فدیہ
 
-Ummul Baneen(s.a.) Ro Kar
-Yeh Kar Rahi Hain Noha
-Tum Dashte Karbala Main
-Kulsoom(s.a.) Per They Fidya
+اب لوٹ آؤ غازیؑ
+اب لوٹ آؤ غازیؑ
+بہنا بلا رہی ہے
 
-Ab Lout Ao Ghazi(a.s.)
-Ab Lout Ao Ghazi(a.s.)
-Behna Bula Rahi Hai
-
-Ujre Huay Gharo Say Awaz Arahi Hai
-Ujre Huay Gharo Say Awaz Arahi Hai
-
-Shared via Nohay Writeups for iOS
+اجڑے ہوئے گھروں سے آواز آ رہی ہے
+اجڑے ہوئے گھروں سے آواز آ رہی ہے

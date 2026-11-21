@@ -9,65 +9,40 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Amma ki nigahon se mera zakm chupana
-
-  Baba mere seene may sina toot gayi hai
-
+romanLyrics: |-
+  Ammaaṅ ki nigaahoṅ se mera zakhm chhupaana
+  Baba mere sine mein sinaaṅ tut gayi hai
 
   1
-
-  Is tarha kaleje may utar aayi hai barchi
-
-  Seena nahi armaan bhi maa ke hue zakhmi
-
-  Chaaha tha meri maa ne mujhe dulha banana
-
-  Ke baba mere seene...
-
+  Is tarah kaleje mein utar aayi hai barchhi
+  Sina nahiṅ armaan bhi maaṅ ke hue zakhmi
+  Chaaha tha meri maaṅ ne mujhe dulha banaana
+  Ke baba mere sine
 
   2
-
-  Jee chaahta hai aap ki tasleem ko uth''un
-
-  Rutbe ka takhaza hai ke tazeem ko uth''un
-
-  Mushkil hai magar haath kaleje se hatana
-
+  Ji chaahta hai aap ki taslim ko uthuṅ
+  Rutbe ka taqaaza hai ke taazim ko uthuṅ
+  Mushkil hai magar haath kaleje se hataana
 
   3
-
-  Mai jaanta hoo zid wo bahot tumse karegi
-
-  Tanha tumhe zainab kabhi aane nahi degi
-
-  Maqtal may meri paalne wali ko na laane
-
+  Main jaanta huṅ zid woh bahut tum se karegi
+  Tanha tumheṅ Zainab kabhi aane nahiṅ degi
+  Maqtal mein meri paalne wali ko na laana
 
   4
-
-  Ye soch ke akbar ka phata jata hai seena
-
-  Awaaz na sunle kahin masoom sakina
-
-  Sajjad ko aahista zara jaa ke batana
-
+  Ye soch ke Akbar ka phata jaata hai sina
+  Aawaaz na sun le kahiṅ maasum Sakina
+  Sajjad ko aahista zara jaa ke bataana
 
   5
-
-  Allah kare laut ke tum jao watan ko
-
-  Majbooriyan bhai ki bata dena bahan ko
-
-  Tum meri taraf se usay seene se lagana
-
+  Allah kare laut ke tum jaao watan ko
+  Majburiyaaṅ bhai ki bata dena bahan ko
+  Tum meri taraf se use sine se lagaana
 
   6
-
-  Qaatil ne sina todi takallum yehi keh kar
-
-  Sunta hoo ke saabir hai bahot sibte paymabar
-
-  Akbar ne kaha sabr ki meraj dikhana'
+  Qaatil ne sinaaṅ tori Takallum yahi keh kar
+  Sunta huṅ ke saabir hai bahut Sibt-e-Payambar
+  Akbar ne kaha sabr ki meraaj dikhaana
 ---
 
 اماں کی نگاہوں سے میرا زخم چھُپانا

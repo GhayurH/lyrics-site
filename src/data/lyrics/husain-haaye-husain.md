@@ -20,28 +20,28 @@ romanLyrics: |-
   Ujar gaya hai Madina Husain haaye Husain
 
   2
-  Tere baghair Madine meiṅ reh ke kya karti
-  Maiṅ tere saath hi is dasht meiṅ chali aayi
+  Tere baghair Madine mein reh ke kya karti
+  Main tere saath hi is dasht mein chali aayi
   Akeli reh gayi Sughra Husain haaye Husain
 
   3
-  Maiṅ teri maaṅ huṅ har ek ranj o gham uthaauṅ gi
+  Main teri maaṅ huṅ har ek ranj o gham uthaauṅ gi
   Ae mere laal tujhe chhor kar na jaauṅ gi
-  Maiṅ tere saath huṅ beta Husain haaye Husain
+  Main tere saath huṅ beta Husain haaye Husain
 
   4
-  Na paas Aun o Muhammad hai aur na Akbar hai
+  Na paas Aun o Muhammad haiṅ aur na Akbar hai
   Na ab alam na alamdaar hai na Asghar hai
-  Gharib ho gaya mera Husain haaye Husain
+  Gharib ho gaya baaba Husain haaye Husain
 
   5
-  Udaas tashna dahan khun meiṅ nahaaye hue
+  Udaas tashna dahan khun mein nahaaye hue
   Akela khaak pe baitha hai sar jhukaaye hue
   Kya haal ho gaya tera Husain haaye Husain
 
   6
-  Abhi maiṅ aayi huṅ khaime se ho ke ae beta
-  Hai tere gham meiṅ ajab haal teri behna ka
+  Abhi main aayi huṅ khaime se ho ke ae beta
+  Hai teri gham mein ajab haal teri behna ka
   Tarap rahi hai Sakina Husain haaye Husain
 
   7
@@ -50,12 +50,12 @@ romanLyrics: |-
   Hai tin roz ka pyaasa Husain haaye Husain
 
   8
-  Tamaam raat maiṅ ro ro ke aaheṅ bharti rahi
-  Maiṅ us maqaam ko baaloṅ se saaf karti rahi
+  Tamaam raat main ro ro ke aaheṅ bharti rahi
+  Main us maqaam ko baaloṅ se saaf karti rahi
   Karega tu jahaaṅ sajda Husain haaye Husain
 
   9
-  Sar-e-Husain se naawar tha ghamzada Gohar
+  Sar-e-Husain se naamwar tha ghamzada Gohar
   Chala jo qaafila to saath hi chali maadar
   Laboṅ pe tha yehi nauha Husain haaye Husain
 ---

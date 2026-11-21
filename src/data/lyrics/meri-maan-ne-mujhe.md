@@ -34,14 +34,14 @@ romanLyrics: |-
   Haaye Husain haaye Husain haaye Husain
 
   3
-  Mazlum pe rona hai rada kehta hai Quraan
+  Mazlum pe rona hai rida kehta hai Quraan
   Sunnat adaa karo ye agar tum ho musalmaan
   Zinda Husain ka hai Nabi sog manaaya
   Kaha haaye Husain sab ne mil ke kaha
   Haaye Husain haaye Husain haaye Husain
 
   4
-  Ya Rab koi maasuma se aaghaaz-e-safar hai
+  Ya Rab koi maasum se aaghaaz-e-safar hai
   Is zikr ke sadqe meiṅ Sayyeda ki nazar hai
   Hai paak Sakina ne mera bakht jagaaya
   Kaha haaye Husain sab ne mil ke kaha

@@ -9,55 +9,42 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Mera beemar imam
-
-  Waqt Sajjad ne kaise wo guzara hoga
-
+romanLyrics: |-
+  Waqt Sajjad ne kaise wo
+  Waqt Sajjad ne kaise (mera bimaar imaam)
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 
   1
-
-  Waqt Sajjad ne kaise wo guzara honga
-
-  Naam Zainab ka jo ghairon ne pukaara hoga
-
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
+  Naam Zainab ka jo ghairoṅ ne pukaara ho ga
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 
   2
-
-  Ya Rab koi mil jaye na pehchaanne wala
-
-  Bazaar main Sajjad dua mang raha hai
-
-  1. Lo Hussain ibne Ali pyaasay zibha hone lagay
-
-  Kitna sharminda wo darya ka kanara hoga
-
+  Ya Rab koi mil jaaye na pehchaanne waala
+  (Baazaar meiṅ Sajjad dua maang raha hai)
+  Lo Husain ibn-e-Ali pyaase zibh hone lage
+  Kitna sharminda wo darya ka kinaara ho ga
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 
   3
-
-  2. Wo gira zeen-se Zainab ki rida ka zamin
-
-  Kon ab Fatema jayi ka sahara hoga
-
+  Wo gira zin se Zainab ki rida ka zaamin
+  Kaun ab Fatema jaayi ka sahaara ho ga
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 
   4
-
-  3. Sare maidan tu janay to laga hay Asghar
-
-  Kis tarah teray bina maa ka guzaara hoga
-
+  Sar-e-maidaan tu jaane to laga hai Asghar
+  Kis tarah tere bina maaṅ ka guzaara ho ga
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 
   5
-
-  4. Nauke neza pe bahanay lagay ansoo Maula
-
-  Phir Sakina ko kisi shaks ne mara hoga
-
+  Nok-e-neza pe bahaane lage aansu Maula
+  Phir Sakina ko kisi shakhs ne maara ho ga
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 
   6
-
-  5. Roze Mehshar ka hame dar nahi koi SHAUKAT
-
-  Hath Shabbir ke qadmon pe hamara hoga'
+  Roz-e-mahshar ka hameiṅ dar nahiṅ koi Shaukat
+  Haath Shabbir ke qadmoṅ pe hamaara ho ga
+  (Waqt Sajjad ne kaise wo guzaara ho ga)
 ---
 
 وقت سجاد نے کیسے وہ

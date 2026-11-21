@@ -20,7 +20,7 @@ romanLyrics: |-
   Ke dil ka haal hai kaisa bahot akeli huṅ
 
   2
-  Wo dukh sa dukh hai watan haaṅ aisi hai tanhaai
+  Wo dukh sa dukh hai watan haaṅ aisi hi tanhaai
   Koi nazar nahiṅ aata bahot akeli huṅ
 
   3
@@ -40,7 +40,7 @@ romanLyrics: |-
   Bhula na duṅ koi chehra bahot akeli huṅ
 
   7
-  Koi nahiṅ jo giruṅ maiṅ to thaam le bad kar
+  Koi nahiṅ jo giruṅ main to thaam le bad kaar
   Kahaaṅ ho meri Sakina bahot akeli huṅ
 
   8

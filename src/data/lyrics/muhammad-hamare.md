@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Jab aaye zamiṅ par Muhammad hamaare
   Falak ne zamiṅ par bichhaaye sitaare
-  Uthe sarzamin-e-Arab se ye naare
+  Uthe sar zamin-e-Arab se ye naare
 
   3
   Nawaase jo roye to roye Muhammad
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Sada aayi qabr-e-Muhammad se beta
   Dua go haiṅ naana Ali aur Zehra
-  Chale Ghaazi Abbas parcham sambhaale
+  Chale Ghaazi Abbaas parcham sambhaale
 
   6
   Wo Aashur ka din Muhammad ka kunba
@@ -48,7 +48,7 @@ romanLyrics: |-
   Ye keh keh ke sinoṅ pe khaaye haiṅ bhaale
 
   7
-  Rehaan o Ali Ji azaadaar-e-Sarwar
+  Rehaan o Ali ji azaadaar-e-Sarwar
   Ghulaamaan-e-Haidar ghulaam-e-Payambar
   Sada is sada se zamaana mila le
 reciter: "Ali Shanawar"

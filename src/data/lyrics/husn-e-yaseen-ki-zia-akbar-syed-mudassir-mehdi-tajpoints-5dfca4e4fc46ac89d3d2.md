@@ -1,44 +1,70 @@
 ---
-title: "Husn E Yaseen Ki Zia Akbar Syed Mudassir Mehdi"
+title: "حسنِ یٰسین کی ضیا اکبر"
+alternateTitle: "Husn-e-Yaseen Ki Zia Akbar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mudassir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Husan-e-yaseen ki zia Akbar
+
+  1
+  Jalwah-e-noor-e-mustafa Akbar
+  Jis mein husan-e-nabi dikhai de
+  Aap hi hain woh aaina Akbar
+  Umm-e-Laila ki gaud mein utra
+
+  2
+  Aik farzand-e-aliya Akbar
+  Dekha kartay hain aap mein Shabeer
+  Apne nana ka bachpana Akbar
+  Dair tak dekhti rahein Zainab
+
+  3
+  Muskuraye hain gar zara Akbar
+  Aap hain ho baho Muhammad se
+  Par nahi koi aap sa Akbar
+  LaIlaha hai aap ka mamnon
+
+  4
+  Kab hain Tauheed se juda Akbar
+  Chand bhi rizq-e-roshni ke liye
+  Aap ke dar ka hai gada Akbar
+  Yeh Mudassir ki our Iram ki sana
+
+  5
+  Umm-e-Laila ki hai atta Akbar
 ---
 
-Husn e Yaseen ki Zia Akbar Syed Mudassir Mehdi.
-Husan-e-Yaseen Ki Zia Akbar.
+حسنِ یٰسین کی ضیا اکبر
 
-1
-Jalwah-e-Noor-e-Mustafa Akbar.
-Jis Mein Husan-e-Nabi Dikhai De.
-Aap Hi Hain Woh Aaina Akbar.
-Umm-e-Laila Ki Gaud Mein Utra.
+۱
+جلوۂ نورِ مصطفیٰ اکبر
+جس میں حسنِ نبی دکھائی دے
+آپ ہی ہیں وہ آئینہ اکبر
+امِ لیلیٰ کی گود میں اترا
 
-2
-Aik Farzand-e-Aliya Akbar.
-Dekha Kartay Hain Aap Mein Shabeer.
-Apne Nana Ka Bachpana Akbar.
-Dair Tak Dekhti Rahein Zainab.
+۲
+ایک فرزندِ علی، یا اکبر
+دیکھا کرتے ہیں آپ میں شبیر
+اپنے نانا کا بچپنا اکبر
+دیر تک دیکھتی رہیں زینب
 
-3
-Muskuraye Hain Gar Zara Akbar.
-Aap Hain Ho Baho Muhammad Se.
-Par Nahi Koi Aap Sa Akbar.
-LaIlaha Hai Aap Ka Mamnon.
+۳
+مسکرائے ہیں گر ذرا اکبر
+آپ ہیں ہو بہو محمد سے
+پر نہیں کوئی آپ سا اکبر
+لا الٰہ ہے آپ کا ممنون
 
-4
-Kab Hain Tauheed Se Juda Akbar.
-Chand Bhi Rizq-e-Roshni Ke Liye.
-Aap Ke Dar Ka Hai Gada Akbar.
-Yeh Mudassir Ki Our Iram Ki Sana.
+۴
+کب ہیں توحید سے جدا اکبر
+چاند بھی رزقِ روشنی کے لیے
+آپ کے در کا ہے گدا اکبر
+یہ مدثر کی اور ارم کی ثنا
 
-5
-Umm-e-Laila Ki Hai Atta Akbar.
-Poetess::Shumaila Iram:
-Manqabat Khowan::Syed Mudassir Mehdi:
-Manqabat Volume::Syed Mudassir Mehdi 2022-23:
+۵
+امِ لیلیٰ کی ہے عطا اکبر

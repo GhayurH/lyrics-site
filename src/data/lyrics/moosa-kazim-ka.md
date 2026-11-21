@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye imam kazim imam
-  Haye imam qaidi imam
-  Baghdad ka qaidi pardesi maula o mera qaidi maula
-  Qaid khana musa e kazim ka maqtal ban gaya
-  Baap ki mayyat uthaane aaiye maula raza
-  Ho salaam us par jise zindan meiṅ maut aa gayi
-  Haath ki zanjir haye gosht jiska kha gayi
+  Haaye Imam Kaazim Imam
+  Haaye Imam qaidi Imam
+  Baghdaad ka qaidi pardesi Maula o mera qaidi Maula
+  Qaid khaana Musa Kaazim ka maqtal ban gaya
+  Baap ki mayyat uthaane aaiye Maula Raza
+  Ho salaam us par jise zindaan meiṅ maut aa gayi
+  Haath ki zanjir haaye gosht jis ka khaa gayi
   Beh raha hai jis ke zakhmoṅ se lahu wa ghurbata
-  Qaid khana musae kazim...
-  Qaid bhi aisi jahaṅ sidhi na ho paaye kamar
-  Kiuṅ na wo aansu bahaate haalat e sajjad par
-  Haye yaad aata tha jab bhi tauq aur zakhmi gala
-  Qaid khana musae kazim...
-  Jaa ke ye masooma e qum ko koi dede khabar
-  Ab nahi aayenge baba phir madine laut kar
-  Aaj se baba ka apne dekhna mat raasta
-  Qaid khana musae kazim...
-  Betiyoṅ se haye jo mil na saka chauda baras
-  Dekhta rehta tha yasrab ki taraf wo baap bas
-  Betiyoṅ ko yaad karke qaid meiṅ rota raha
-  Qaid khana musae kazim...
-  Ghurbate aale mohamed par karo matam bapa
-  Qaid khane se uthega ye janaza dusra
-  Wo jo khaati thi tamache us sakina ki tarha
-  Qaid khana musae kazim...
-  Zeher se maara gaya hai phir se zehra ka pisar
-  Haath pehlu par rakhe aayi hai turbat chor kar
-  Baithi mayyat ke sirhane ro rahi hai fatema
-  Qaid khana musae kazim...
-  Aaj matam hai bapa us bewatan ki yaad meiṅ
-  Haye jo sab se zyada zakhmi tha baghdad meiṅ
-  Is liye farhan roya hai qalam zishan ka
-  Qaid khana musae kazim...
+  Qaid khaana Musa Kaazim...
+  Qaid bhi aisi jahaaṅ sidhi na ho paaye kamar
+  Kiuṅ na wo aansuṅ bahaate haalat-e-Sajjaad par
+  Haaye yaad aata tha jab bhi tauq aur zakhmi gala
+  Qaid khaana Musa Kaazim...
+  Jaa ke ye Maasuma-e-Qum ko koi de de khabar
+  Ab nahiṅ aaeṅge Baba phir Madine laut kar
+  Aaj se Baba ka apne dekhna mat raasta
+  Qaid khaana Musa Kaazim...
+  Betiyoṅ se haaye jo mil na saka chaudah baras
+  Dekhta rehta tha Yasrab ki taraf wo baap bas
+  Betiyoṅ ko yaad kar ke qaid meiṅ rota raha
+  Qaid khaana Musa Kaazim...
+  Ghurbat-e-Aal-e-Muhammad par karo maatam bapa
+  Qaid khaane se uthega ye janaaza dusra
+  Wo jo khaati thi tamaanche us Sakina ki tarah
+  Qaid khaana Musa Kaazim...
+  Zeher se maara gaya hai phir se Zehra ka pisar
+  Haath pehlu par rakhe aayi hai turbat chhor kar
+  Baithi mayyat ke sirhaane ro rahi hai Fatema
+  Qaid khaana Musa Kaazim...
+  Aaj maatam hai bapa us bewatan ki yaad meiṅ
+  Haaye jo sab se zyaada zakhmi tha Baghdaad meiṅ
+  Is liye Farhaan roya hai qalam Zishaan ka
+  Qaid khaana Musa Kaazim...
 ---
 
 ۱

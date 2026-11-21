@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Koi bichhata hai farsh-e-majlis
   Fariza is ko samajh ke apna
-  Koi hadis-e-Kisa ko parh kar
+  Koi hadis-e-Kisaa ko parh kar
   Kare hai aaghaaz majlisoṅ ka
   Hai koi aisa ke rone waloṅ
   Meiṅ ho raha hai shumaar jis ka
@@ -61,7 +61,7 @@ romanLyrics: |-
   Koi to maatam kunaṅ hai pyaasoṅ
   Pe majlisoṅ meiṅ bana ke halqa
   Ye pesh Zahra ko kar raha hai
-  Sada-e-maatam se Shah ka pursa
+  Sadaaeiṅ maatam se Shah ka pursa
   Kisi ne zanjir ka kiya hai
   Kisi ne maatam kiya qamah ka
   Jo de raha hai lahu ka pursa

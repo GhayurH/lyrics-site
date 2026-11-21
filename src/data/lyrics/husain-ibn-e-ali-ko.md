@@ -16,7 +16,7 @@ romanLyrics: |-
   Qadam qadam pe muqaddar sanwaarte jaao
 
   1
-  Husain wo ke jo Sibt-e-Rasul-e-Athaar haiṅ
+  Husain wo ke jo Sibt-e-Rasul-e-At-haar haiṅ
   Husain wo ke jo nur-e-nigaah-e-Haidar haiṅ
   Husain wo ke jo bint-e-Nabi ka dilbar hai
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   8
   Jo gharq ho ke lahu meiṅ ubhar gaya wo Husain
-  Jo sabr o shukr se dil fath kar gaya wo Husain
+  Jo sabr o shukr se dil fatah kar gaya wo Husain
   Jo dard ban ke jigar meiṅ utar gaya wo Husain
 
   9

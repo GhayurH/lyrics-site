@@ -12,8 +12,8 @@ aliases: []
 published: true
 romanLyrics: |-
   Bahisht jis ki saltanat Husain wo janaab hai
-  Baraa-e-Karbala Husain Rab ka intekhaab hai
-  Hasan la-jawaab tha Husain la-jawaab hai
+  Baraa-e-Karbala Husain Rab ka intikhaab hai
+  Hasan laajawaab tha Husain laajawaab hai
   Husain kaamyaab tha Husain kaamyaab hai
 
   Suno Husainiyoṅ suno Husainiyoṅ
@@ -53,7 +53,7 @@ romanLyrics: |-
   5
   Jahaaṅ meiṅ sab se zyaada ashk jis ke naam par baha
   Zamaane laa gham-e-Husain ka koi jawaab laa
-  Guinness Book ko bas mere Husain se anaad hai
+  Guinness Book ko bas mere Husain se aanand hai
 
   6
   Yazid ek laakh ho muqaable pe gham nahiṅ

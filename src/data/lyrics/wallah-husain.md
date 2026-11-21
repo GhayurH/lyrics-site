@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Tanha tanha na guzar paaya jahaaṅ se koi
   Saath kunbe ke wahaaṅ se dil-e-Zehra guzra
-  Dasht-e-pur khaar meiṅ Shabbir pe-e-din-e-Khuda
+  Dasht-e-pur khaar mein Shabbir pay-e-din-e-Khuda
   Kaam woh kar gaye Islam ko phir kehna para
   Wallah Husain wallah Husain
   Ya Aba Abdillah al-Husain
@@ -25,21 +25,21 @@ romanLyrics: |-
   1
   Ibn-e-Zehra ke kamaalaat ka idraak ho kya
   Roz parhte the Nabi apne pisar ka chehra
-  Jis ko Quran-e-shahaadat kaha jaaye us ka
+  Jis ko Quraan-e-shahaadat kaha jaaye us ka
   Aaya Husain sura Husain
   Ya Aba Abdillah al-Husain
 
   2
   Lab-e-darya nazar aaya hai ajab ek manzar
-  Tashnagi khaima-e-Shabbir meiṅ hai jalwagar
+  Tashnagi khaima-e-Shabbir mein hai jalwa gar
   Din ko karte haiṅ sairaab hai pyaase Sarwar
   Saqqa Husain darya Husain
   Ya Aba Abdillah al-Husain
 
   3
   Ahl-e-kaunain ko is tarah se samjhaate haiṅ
-  Farsh majlis ka bichhaate haiṅ to sab aate hai
-  Farsh pe aan ke dunya ko yeh batlaate haiṅ
+  Farsh-e-majlis ka bichhaate haiṅ to sab aate hai
+  Farsh pe aan ke duniya ko yeh batlaate haiṅ
   Mera Husain sab ka Husain
   Ya Aba Abdillah al-Husain
 
@@ -51,14 +51,14 @@ romanLyrics: |-
   Ya Aba Abdillah al-Husain
 
   5
-  Dehr meiṅ bhi gham-e-Shabbir ne rutba bakhsha
-  Hashr meiṅ bhi gham-e-Shabbir raha sarmaaya
+  Dehr mein bhi gham-e-Shabbir ne rutba bakhsha
+  Hashr mein bhi gham-e-Shabbir raha sarmaaya
   Jis jagah pahunche Shah-e-diṅ ka hi jalwa dekha
-  Dunya Husain uqba Husain
+  Duniya Husain uqba Husain
   Ya Aba Abdillah al-Husain
 
   6
-  Ashk-e-gham waadi-e-firdaus meiṅ le jaate haiṅ
+  Ashk-e-gham waadi-e-firdaus mein le jaate haiṅ
   Is tarah shams-e-muqaddar ko woh chamkaate haiṅ
   Hur yeh kehte hue Sarwar ke qarib aate haiṅ
   Shajra Husain saaya Husain
@@ -68,12 +68,12 @@ romanLyrics: |-
   Yuṅhi rakheṅ ge alam Hazrat-e-Ghaazi ka alam
   Hashr tak le ke yuṅhi jaayeṅ ge Shabbir ka gham
   Sar-e-suli bhi nahiṅ chhoreṅ ge Shah ka maatam
-  Ghurba Husain jazba Husain
+  Ghurabaa Husain jazba Husain
   Ya Aba Abdillah al-Husain
 
   8
   Shah ke gham khwaar hai hum sab zamaane waale
-  Hum gham-e-Shaah ke khaime meiṅ rahe bachpan se
+  Hum gham-e-Shaah ke khaime mein rahe bachpan se
   Bachpane se hi azaadaar banaaya maaṅ ne
   Dekha Husain likha Husain
   Ya Aba Abdillah al-Husain
@@ -90,7 +90,7 @@ romanLyrics: |-
   Ya Aba Abdillah al-Husain
 
   10
-  Hum bataate haiṅ yeh ab jaan le dunya waale
+  Hum bataate haiṅ yeh ab jaan le duniya waale
   Hum ko Allah ne is gham ke ujaale bakhshe
   Saans jo aata hai woh Shabbir ka sadqa hai
   Jina Husain marna Husain
@@ -100,12 +100,12 @@ romanLyrics: |-
   Kuchh khabar lo meri sun kar meri aawaaz utho
   Kab se aawaaz diye jaati hai dukhiya tum ko
   God phailaaye khari huṅ meri jaanib dekho
-  Beta Husain aaja Husain
+  Beta Husain aa ja Husain
   Ya Aba Abdillah al-Husain
 
   12
   Hai sar-e-dasht-e-musibat mera bachcha baaba
-  Kuchh samajh meiṅ nahiṅ ghamkhwaar ko aata baaba
+  Kuchh samajh mein nahiṅ gham khwaar ko aata baaba
   Chaar suṅ lashkar-e-aghyaar karuṅ kya baaba
   Mera Husain tanha Husain
   Ya Aba Abdillah al-Husain

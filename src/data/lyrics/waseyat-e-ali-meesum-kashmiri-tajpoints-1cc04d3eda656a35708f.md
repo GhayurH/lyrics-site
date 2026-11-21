@@ -1,50 +1,90 @@
 ---
-title: "Waseyat-e-Ali Meesum Kashmiri"
+title: "وصیتِ علی میثم کشمیری"
+alternateTitle: "Waseyat-e-Ali Meesum Kashmiri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Izhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Iss pe wajib hai amal tum yeh na hargiz bholna hai wasiyat yeh Ali ki
+  Door kaisa bhi ho lekin ho yeh zehno mein sada hai wasiyat yeh Ali ki
+
+  1
+  Waqt-e-rukhsat keh gaye Haider keh neki ko barho
+  Aye musalmano hamesha ahl-e-taqwa mein raho
+  Aakhrat hi mangna dunya na hargiz mangna
+  Ho agar mazloom koi chorna oss ka na sath
+
+  2
+  Zalimo our zulm ka hargiz kabhi dena na sath
+  Haq ke our haq daar ke hami raho ahl-e-wila
+  Yaad rakhna tum ko rakhna hai yateemo ka khiyal
+  Cho ke bhi unn ko na guzrey koi faqa our malal
+
+  3
+  Bujh na paye aik pal ko unn se ulfat ka diya
+  Ho namaz-e-panjgana masjidein aabad hoon
+  Uthay aawaz-e-tilawat dil sabhi ke shad hoon
+  Haq mein hai insan ke jo bhi hai Quraan mein likha
+
+  4
+  Aik jo zarbat lagai Ibn-e-Muljim ne mujhe
+  Tum bhi badlay mein lagana aik hi zarbat ossay
+  Toot jaye gar meri sansoon ka iss se silsila
+  Bolay Shabar se tumhi ho ab tu ghar ke pasbaan
+
+  5
+  Zainab-o-Kulsoom our Sarwar ke bhi ho saibaan
+  Har qadam par ho tumhara hami-o-nasir Khuda
+  Phir kaha Shabeer se Ghazi jo hai tera akhi
+  Sath ho ga har qadam par ban ke ab saya jarri
+
+  6
+  Aaj se tere hawalay hai yeh mera bawafa
+  Murtaza ki jab shahadat yaad aayi hai mujhe
+  Dil mein uthi hook si our aankh se aanso bahey
+  Farsh-e-majlis par yehi Izhar main kehta raha
 ---
 
-Iss Pe Wajib Hai Amal Tum Yeh Na Hargiz Bholna Hai Wasiyat Yeh Ali Ki.
-Door Kaisa Bhi Ho Lekin Ho Yeh Zehno Mein Sada Hai Wasiyat Yeh Ali Ki.
+اس پہ واجب ہے عمل تم یہ نہ ہرگز بھولنا ہے وصیت یہ علی کی
+دور کیسا بھی ہو لیکن ہو یہ ذہنوں میں سدا ہے وصیت یہ علی کی
 
-1
-Waqt-e-Rukhsat Keh Gaye Haider Keh Neki Ko Barho.
-Aye Musalmano Hamesha Ahl-e-Taqwa Mein Raho.
-Aakhrat Hi Mangna Dunya Na Hargiz Mangna.
-Ho Agar Mazloom Koi Chorna Oss Ka Na Sath.
+۱
+وقتِ رخصت کہہ گئے حیدر کہ نیکی کو بڑھو
+اے مسلمانو ہمیشہ اہلِ تقویٰ میں رہو
+آخرت ہی مانگنا دنیا نہ ہرگز مانگنا
+ہو اگر مظلوم کوئی چھوڑنا اس کا نہ ساتھ
 
-2
-Zalimo Our Zulm Ka Hargiz Kabhi Dena Na Sath.
-Haq Ke Our Haq Daar Ke Hami Raho Ahl-e-Wila.
-Yaad Rakhna Tum Ko Rakhna Hai Yateemo Ka Khiyal.
-Cho Ke Bhi Unn Ko Na Guzrey Koi Faqa Our Malal.
+۲
+ظالمو اور ظلم کا ہرگز کبھی دینا نہ ساتھ
+حق کے اور حق دار کے حامی رہو اہلِ ولا
+یاد رکھنا تم کو رکھنا ہے یتیموں کا خیال
+چھو کے بھی ان کو نہ گزرے کوئی فاقہ اور ملال
 
-3
-Bujh Na Paye Aik Pal Ko Unn Se Ulfat Ka Diya.
-Ho Namaz-e-Panjgana Masjidein Aabad Hoon.
-Uthay Aawaz-e-Tilawat Dil Sabhi Ke Shad Hoon.
-Haq Mein Hai Insan Ke Jo Bhi Hai Quraan Mein Likha.
+۳
+بجھ نہ پائے ایک پل کو ان سے الفت کا دیا
+ہو نمازِ پنجگانہ مسجدیں آباد ہوں
+اٹھے آوازِ تلاوت دل سبھی کے شاد ہوں
+حق میں ہے انسان کے جو بھی ہے قرآن میں لکھا
 
-4
-Aik Jo Zarbat Lagai Ibn-e-Muljim Ne Mujhe.
-Tum Bhi Badlay Mein Lagana Aik Hi Zarbat Ossay.
-Toot Jaye Gar Meri Sansoon Ka Iss Se Silsila.
-Bolay Shabar Se Tumhi Ho Ab Tu Ghar Ke Pasbaan.
+۴
+ایک جو ضربت لگائی ابنِ ملجم نے مجھے
+تم بھی بدلے میں لگانا ایک ہی ضربت اسے
+ٹوٹ جائے گر مری سانسوں کا اس سے سلسلہ
+بولے شبر سے تمھی ہو اب تو گھر کے پاسباں
 
-5
-Zainab-o-Kulsoom Our Sarwar Ke Bhi Ho Saibaan.
-Har Qadam Par Ho Tumhara Hami-o-Nasir Khuda.
-Phir Kaha Shabeer Se Ghazi Jo Hai Tera Akhi.
-Sath Ho Ga Har Qadam Par Ban Ke Ab Saya Jarri.
+۵
+زینب و کلثوم اور سرور کے بھی ہو سائباں
+ہر قدم پر ہو تمہارا حامی و ناصر خدا
+پھر کہا شبیر سے غازی جو ہے تیرا اخی
+ساتھ ہو گا ہر قدم پر بن کے اب سایہ جری
 
-6
-Aaj Se Tere Hawalay Hai Yeh Mera Bawafa.
-Murtaza Ki Jab Shahadat Yaad Aayi Hai Mujhe.
-Dil Mein Uthi Hook Si Our Aankh Se Aanso Bahey.
-Farsh-e-Majlis Par Yehi Izhar Main Kehta Raha.
+۶
+آج سے تیرے حوالے ہے یہ میرا باوفا
+مرتضیٰ کی جب شہادت یاد آئی ہے مجھے
+دل میں اٹھی ہوک سی اور آنکھ سے آنسو بہے
+فرشِ مجلس پر یہی اظہار میں کہتا رہا

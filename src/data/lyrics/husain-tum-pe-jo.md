@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Samajh rahe the Payambar bhi jang ki surat
-  Siwa Ali ke koi fath paa nahiṅ sakta
+  Siwa Ali ke koi fatah paa nahiṅ sakta
 
   6
   Zabaaṅ pe naad-e-Ali aa gaya Muhammad ke
@@ -53,11 +53,11 @@ romanLyrics: |-
 
   10
   Khuda gawaah tumhaari tarah Husain koi
-  Rahe Khuda meiṅ bhara ghar luta nahiṅ sakta
+  Raah-e-Khuda meiṅ bhara ghar luta nahiṅ sakta
 
   11
   Mujhe bhi le chalo Asghar ke ye ishaare the
-  Maiṅ jang ke liye maqtal meiṅ jaa nahiṅ sakta
+  Main jang ke liye maqtal meiṅ jaa nahiṅ sakta
 
   12
   Pidar ke qabze meiṅ ho jis ke chashma-e-Kausar

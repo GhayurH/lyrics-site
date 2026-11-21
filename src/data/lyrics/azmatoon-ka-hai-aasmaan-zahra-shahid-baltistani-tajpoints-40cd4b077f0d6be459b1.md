@@ -1,41 +1,72 @@
 ---
-title: "Azmatoon Ka Hai Aasmaan Zahra Shahid Baltistani"
+title: "عظمتوں کا ہے آسماں زہرا شاہد بلتستانی"
+alternateTitle: "Azmatoon Ka Hai Aasmaan Zahra Shahid Baltistani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Darwaish"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Azmatoon ka hai aasmaan Zahra Shahid Baltistani
+  Hai jahan bhi Khuda wahan Zahra
+  Kaisay dekhey bashar hai kaisa Khuda
+  Noor tera hai darmiyaan Zahra
+
+  2
+  Shab-e-Mairaj sath Haider ke
+  Apne Baba ki maizbaan Zahra
+  Jis ki azwaj maa hain ummat ki
+  Oss Muhammad ki tu hai maa Zahra
+
+  3
+  Wazan mein aayaton ke jaisi hai
+  Teri Fizza ki rotiyaan Zahra
+  Naam tera bhi iss mein shamil ho
+  De de Salman jo azaan Zahra
+
+  4
+  Hur ka romal de raha hai sada
+  Matami pe hai meharbaan Zahra
+  Arsh gir jaye ga zameen pe abhi
+  Khol de tu jo mothiyaan Zahra
+
+  5
+  Aap ki tarha mang laytein Fidak
+  Our hotin jo betiyaan Zahra
+  Farsh-e-Matam tera jo hai Qum mein
+  Hai woh Darwaish ka jahan Zahra
 ---
 
-1
-Azmatoon Ka Hai Aasmaan Zahra Shahid Baltistani.
-Hai Jahan Bhi Khuda Wahan Zahra.
-Kaisay Dekhey Bashar Hai Kaisa Khuda.
-Noor Tera Hai Darmiyaan Zahra.
+۱
+عظمتوں کا ہے آسماں زہرا شاہد بلتستانی
+ہے جہاں بھی خدا وہاں زہرا
+کیسے دیکھے بشر ہے کیسا خدا
+نور تیرا ہے درمیاں زہرا
 
-2
-Shab-e-Mairaj Sath Haider Ke.
-Apne Baba Ki Maizbaan Zahra.
-Jis Ki Azwaj Maa Hain Ummat Ki.
-Oss Muhammad Ki Tu Hai Maa Zahra.
+۲
+شبِ معراج ساتھ حیدر کے
+اپنے بابا کی میزباں زہرا
+جس کی ازواج ماں ہیں امت کی
+اُس محمد کی تو ہے ماں زہرا
 
-3
-Wazan Mein Aayaton Ke Jaisi Hai.
-Teri Fizza Ki Rotiyaan Zahra.
-Naam Tera Bhi Iss Mein Shamil Ho.
-De De Salman Jo Azaan Zahra.
+۳
+وزن میں آیتوں کے جیسی ہے
+تیری فضہ کی روٹیاں زہرا
+نام تیرا بھی اِس میں شامل ہو
+دے دے سلمان جو اذان زہرا
 
-4
-Hur Ka Romal De Raha Hai Sada.
-Matami Pe Hai Meharbaan Zahra.
-Arsh Gir Jaye Ga Zameen Pe Abhi.
-Khol De Tu Jo Mothiyaan Zahra.
+۴
+حر کا رومال دے رہا ہے صدا
+ماتمی پہ ہے مہرباں زہرا
+عرش گر جائے گا زمین پہ ابھی
+کھول دے تو جو مٹھیاں زہرا
 
-5
-Aap Ki Tarha Mang Laytein Fidak.
-Our Hotin Jo Betiyaan Zahra.
-Farsh-e-Matam Tera Jo Hai Qum Mein.
-Hai Woh Darwaish Ka Jahan Zahra.
+۵
+آپ کی طرح مانگ لیتیں فدک
+اور ہوتیں جو بیٹیاں زہرا
+فرشِ ماتم تیرا جو ہے قم میں
+ہے وہ درویش کا جہاں زہرا

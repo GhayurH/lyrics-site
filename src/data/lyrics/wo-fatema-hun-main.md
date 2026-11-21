@@ -15,55 +15,55 @@ romanLyrics: |-
   Ya Sayyeda ya Taahira ya Umm-e-Abiha
 
   Salaam jis ko alaihis salaam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
   Jhuk ke Hasnain bhi jis se kalaam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
 
   1
   Mujhe hi Raaziya Marziya Siddiqa kehte haiṅ
   Mujhe hi Taahira Umm-e-Abiha kehte haiṅ
-  Wo jis ka Ahmad bhi ehteraam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo jis ka Ahmad bhi ehtiraam karte haiṅ
+  Wo Fatema huṅ main
 
   2
   Dalil-e-haq tera sajda teri jabiṅ to nahiṅ
   Tera wujud gumaaṅ hai tera yaqiṅ to nahiṅ
-  Maiṅ Fatema huṅ sadaaqat ki wo dalil huṅ maiṅ
-  Agar maiṅ keh duṅ Khuda hai to hai nahiṅ to nahiṅ
+  Main Fatema huṅ sadaaqat ki wo dalil huṅ main
+  Agar main keh duṅ Khuda hai to hai nahiṅ to nahiṅ
   Bana ke surah-e-Kausar mujhe utaara gaya
   Mujhe hijaab-e-Muzzammil se hai pukaara gaya
   Taazim jis ki baarah Imam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
 
   3
-  Khuda ne aise jahaaṅ meiṅ mujhe baraai di
-  Quran ne aayatoṅ se meri hi gawaahi di
-  Wo jis ke ghar se arshi taam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Khuda ne aise jahaaṅ mein mujhe baraai di
+  Quraan ne aayatoṅ se meri hi gawaahi di
+  Wo jis ke ghar se arshi ta'aam karte haiṅ
+  Wo Fatema huṅ main
 
   4
-  Nabi ki beti huṅ darbaar meiṅ khara na karo
+  Nabi ki beti huṅ darbaar mein khara na karo
   Hijaab-e-kibriya huṅ mujh ko yuṅ ruswa na karo
   Wo jis ke dar pe farishte qiyaam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
 
   5
   Yuṅ mere ghar ko musalmaano tum jalaao na
   Aur mere pehlu pe darwaaze ko giraao na
   Durud jis pe sab khaas o aam parhte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
 
   6
-  Dehr meiṅ aise mujhe tum agar rulaao ge
-  Hashr meiṅ kaise shafaaat Nabi se paao ge
+  Dehr mein aise mujhe tum agar rulaao ge
+  Hashr mein kaise shafaaat Nabi se paao ge
   Hisaab-e-mahshar Khuda jis ke naam karte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
 
   7
   Jo khaali lauti thi darbaar se zaif ho kar
   Ali Imam se Yasir thi kehti ro ro kar
   Keh jis ke hone se saare nizaam chalte haiṅ
-  Wo Fatema huṅ maiṅ
+  Wo Fatema huṅ main
 ---
 
 یا سیدہ یا طاہرہ یا اُمِّ ابیہا

@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mere baba jaldi aajao
-  Meri zainab gham se mat ghabra
+  Mere baba jaldi aa jaao
+  Meri Zainab gham se mat ghabra
   Tera baba tere saath meiṅ hai
   Shabbir ne waada pura kiya
   Khanjar ke niche sajda kiya
   Maqtal ki jaanib dekh zara
   Har simt hai khun shahidoṅ ka
-  Ab aage hai teri karbobala
+  Ab aage hai teri Karb o Bala
   Tera baba tere saath...
-  Hum kam to nahi the yatimi ke
-  Aur us par zakhm asiri ke
-  Rukhsaar hai nile bacchi ke
-  Shaano pe nishaṅ hai rassi ke
-  Rakhna bara dhyan sakina ka
+  Hum kam to nahiṅ the yatimi ke
+  Aur us par zakhmi asiri ke
+  Rukhsaar hai nile bachchi ke
+  Shaanoṅ pe nishaaṅ hai rassi ke
+  Rakhna bara dhyaan Sakina ka
   Tera baba tere saath...
-  Aabaad kiya shabbir ne ban
-  Tu aage barhi bandwa ke rasan
-  Bhai hai wahaṅ begor o kafan
-  Bechadar hai kufe meiṅ behen
-  Gham dono ka hai milta jhulta
+  Aabaad kiya Shabbir ne ban
+  Tu aage barhi bandhwa ke rasan
+  Bhai hai wahaaṅ be gor o kafan
+  Bechadar hai Kufe meiṅ behen
+  Gham donoṅ ka hai milta jhulta
   Tera baba tere saath...
   Dhaaras hai tu hi yatimoṅ ki
-  Tu hi unki phupi tu hi maa bhi
-  Abbas bhi tu shabbir bhi tu
-  Tu hi fatema zehra tu hi ali
+  Tu hi un ki phupi tu hi maaṅ bhi
+  Abbas bhi tu Shabbir bhi tu
+  Tu hi Fatima Zehra tu hi Ali
   Hai baar tere kaandhoṅ pe bara
   Tera baba tere saath...
-  Uff dehshat shaam e gharibaṅ ki
-  Wo sannata wo tariki
-  Ek haath meiṅ taygh thi tuti hui
-  Ek haath meiṅ kuch jhul si lakri
+  Uf dahshat-e-shaam-e-gharibaaṅ ki
+  Wo sannaata wo taariki
+  Ek haath meiṅ tegh thi tuti hui
+  Ek haath meiṅ kuchh jhul si lakri
   Mujhe yaad hai wo tera pehra
   Tera baba tere saath...
-  Maana ke bahot dukh paayi hai
+  Maana ke bahut dukh paayi hai
   Shabbir ki tu maajayi hai
-  Quraṅ ke yuṅ kaam aayi hai
+  Quraaṅ ke yuṅ kaam aayi hai
   Sholoṅ se bacha kar laayi hai
   Abid ke liye ban jaana asa
   Tera baba tere saath...
-  Meri beti tujhsa koi nahi
-  Tu sarwar ke maqsad ki amiṅ
+  Meri beti tujh sa koi nahiṅ
+  Tu Sarwar ke maqsad ki amiṅ
   Mat haarna himmat gham se kahiṅ
-  Dhaaye kitne bhi zulm layiṅ
+  Dhaaye kitne bhi zulm laiṅ
   Hai diṅ ke sar par teri rida
   Tera baba tere saath...
   Maqtal meiṅ bhi hum tere saath rahe
   Bazaaroṅ meiṅ bhi tere saath chale
-  Darbar meiṅ ab jaana hai tujhe
+  Darbaar meiṅ bhi jaana hai tujhe
   Is waqt bhi hai hum saath tere
   Mujhe yaad hai apna har waada
   Tera baba tere saath...
-  Ae aamir o nayyar jab jab hum
-  Rakhte hai shaam meiṅ apne qadam
-  Phir jaate hai aankhoṅ meiṅ saare gham
-  Wo jor o jafa wo zulm o sitam
-  Kaano meiṅ yehi aati hai sada
+  Ae Aamir o Nayyar jab jab hum
+  Rakhte haiṅ Shaam meiṅ apne qadam
+  Phir jaate haiṅ aankhoṅ meiṅ saare gham
+  Wo jaur o jafa wo zulm o sitam
+  Kaanoṅ meiṅ yahi aati hai sada
   Tera baba tere saath...
 ---
 

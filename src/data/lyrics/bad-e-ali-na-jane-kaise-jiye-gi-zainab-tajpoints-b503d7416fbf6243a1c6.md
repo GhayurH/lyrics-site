@@ -1,35 +1,60 @@
 ---
-title: "Bad E Ali Na Jane Kaise Jiye Gi Zainab"
+title: "بعدِ علی نہ جانے کیسے جیے گی زینب"
+alternateTitle: "Bad E Ali Na Jane Kaise Jiye Gi Zainab"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bad e Ali na jane kaise jiye gi Zainab
+  Pardais mein yeh sadma kaisay sahey gi Zainab
+  Amma ka gham tu ab tak beti bhula na payi
+  Baba ke gham mein haye pal pal maray gi Zainab
+
+  2
+  Kaisi yeh fajar gonji layi hai jo yateemi
+  Hogi yeh fajar jab bhi roya karey gi Zainab
+  Ghazi se keh rahe they Maula Hussain ro kar
+  Tak kar shikasta sar ko seh na sakay gi Zainab
+
+  3
+  Abbas sath rehna bolay yeh ro ke Haider
+  Ab tere aasrey pe zindah rahe gi Zainab
+  Bolay Hasan behan se jee bhar ke aaj ro lo
+  Baba ke baad ummat roney na de gi Zainab
+
+  4
+  Kehti thi ro ke beti baba mujhe batao
+  Bazar mein khulay sar kaisay chaley gi Zainab
+  Zeeshan ro ke bolein baba karo yeh wadah
+  Sham-e-ghareebaan mein ab tum se miley gi Zainab
 ---
 
-1
-Bad e Ali Na Jane Kaise Jiye Gi Zainab.
-Pardais Mein Yeh Sadma Kaisay Sahey Gi Zainab.
-Amma Ka Gham Tu Ab Tak Beti Bhula Na Payi.
-Baba Ke Gham Mein Haye Pal Pal Maray Gi Zainab.
+۱
+بعدِ علی نہ جانے کیسے جیے گی زینب
+پردیس میں یہ صدمہ کیسے سہے گی زینب
+امّاں کا غم تو اب تک بیٹی بھلا نہ پائی
+بابا کے غم میں ہائے پل پل مرے گی زینب
 
-2
-Kaisi Yeh Fajar Gonji Layi Hai Jo Yateemi.
-Hogi Yeh Fajar Jab Bhi Roya Karey Gi Zainab.
-Ghazi Se Keh Rahe They Maula Hussain Ro Kar.
-Tak Kar Shikasta Sar Ko Seh Na Sakay Gi Zainab.
+۲
+کیسی یہ فجر گونجی لائی ہے جو یتیمی
+ہوگی یہ فجر جب بھی رویا کرے گی زینب
+غازی سے کہہ رہے تھے مولا حسین رو کر
+تک کر شکستہ سر کو سہ نہ سکے گی زینب
 
-3
-Abbas Sath Rehna Bolay Yeh Ro Ke Haider.
-Ab Tere Aasrey Pe Zindah Rahe Gi Zainab.
-Bolay Hasan Behan Se Jee Bhar Ke Aaj Ro Lo.
-Baba Ke Baad Ummat Roney Na De Gi Zainab.
+۳
+عباس ساتھ رہنا بولے یہ رو کے حیدر
+اب تیرے آسرے پہ زندہ رہے گی زینب
+بولے حسن بہن سے جی بھر کے آج رو لو
+بابا کے بعد امّت رونے نہ دے گی زینب
 
-4
-Kehti Thi Ro Ke Beti Baba Mujhe Batao.
-Bazar Mein Khulay Sar Kaisay Chaley Gi Zainab.
- Zeeshan Ro Ke Bolein Baba Karo Yeh Wadah.
-Sham-e-Ghareebaan Mein Ab Tum Se Miley Gi Zainab.
+۴
+کہتی تھی رو کے بیٹی بابا مجھے بتاؤ
+بازار میں کھلے سر کیسے چلے گی زینب
+ذیشان رو کے بولیں بابا کرو یہ وعدہ
+شامِ غریباں میں اب تم سے ملے گی زینب

@@ -8,81 +8,49 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Mehendi laga ke qasim maqtal ko ja rahe hai
-
+romanLyrics: |-
+  Mehndi laga ke Qaasim maqtal ko ja rahe haiṅ
 
   1
-
-  Armaan maa phupi ke aansoo baha rahe hai
-
-  Dholi gayi thi mehendi behno ke aansuon se
-
-  Pani na tha meinassar haye haye kayi dino se
-
-  Sookhe hue labon ke chehre bata rahe hai
-
+  Armaan maaṅ phuphi ke aansu baha rahe haiṅ
+  Dho li gayi thi mehndi behnoṅ ke aansuoṅ se
+  Paani na tha mayassar haaye haaye kayi dinoṅ se
+  Sukhe hue labon ke chehre bata rahe haiṅ
 
   2
-
-  Abbas ne sajaya akbar se sehra baandha
-
-  Shadi ke ghar mein ya rab ye kaisa waqt aaya
-
-  Baraat waale saare sar ko kata rahe hai
-
+  Abbaas ne sajaaya Akbar ne sehra baandha
+  Shaadi ke ghar mein ya Rab ye kaisa waqt aaya
+  Baaraat wale saare sar ko kata rahe haiṅ
 
   3
-
-  Poshak hai uroosi naushah ke badan par
-
-  Lekin ye surkh dhabbe kal thay kisi kafan par
-
-  Manzar wo karbala mein dohraye ja rahe hai
-
+  Poshaak hai urusi naushaah ke badan par
+  Lekin ye surkh dhabbe kal the kisi kafan par
+  Manzar wo Karbala mein dohraaye ja rahe haiṅ
 
   4
-
-  Roohe hassan ne aa kar kaisa ye haal dekha
-
-  Tukdo mein haye kaise khud apna laal dekha
-
-  Apne jigar ke tukde phir yaad aa rahe hai
-
+  Ruh-e-Hasan ne aa kar kaisa ye haal dekha
+  Tukroṅ mein haaye kaise khud apna laal dekha
+  Apne jigar ke tukre phir yaad aa rahe haiṅ
 
   5
-
-  Bewa jo hogayi hai ibne hassan ki dulhan
-
-  Ashkon se shaahe wala apna bhigo ke daaman
-
-  Dulhan ke sar pe misle chadar udha rahe hai
-
+  Bewa jo ho gayi haiṅ Ibn-e-Hasan ki dulhan
+  Ashkon se Shaah-e-Waala apna bhigo ke daaman
+  Dulhan ke sar pe misl-e-chaadar orha rahe haiṅ
 
   6
-
-  Sajjad ghash se uthkar ek ek se poochte thay
-
-  Shaadi ke ghar mein sab ke uthre hue hai chehre
-
-  Kya cheez ran se baba daaman mein la rahe hai
-
+  Sajjad ghash se uth kar ik ik se puchhte the
+  Shaadi ke ghar mein sab ke utre hue haiṅ chehre
+  Kya chiz ran se Baba daaman mein la rahe haiṅ
 
   7
-
-  Khushboo hena ki ab tak maujood hai faza mein
-
-  Dulhan to be-khabar hai masroof hai dua hai
-
-  Damaad ka janaza shabbir la rahe hai
-
+  Khushbu hina ki ab tak maujud hai faza mein
+  Dulhan to bekhabar hai masruf hai dua mein
+  Daamaad ka janaaza Shabbir la rahe haiṅ
 
   8
-
-  Rehaan aur raza ye gham shaahe nainawa ka
-
-  Ek aisa saneha hai maidan e karbala ka
-
-  Har saal ahle matam jisko mana rahe hai'
+  Rehaan aur Raza ye gham Shaah-e-Nainawa ka
+  Ik aisa saaniha hai maidaan-e-Karbala ka
+  Har saal ahl-e-maatam jis ko mana rahe haiṅ
 ---
 
 مہندی لگا کے قاسمؑ مقتل کو جا رہے ہیں

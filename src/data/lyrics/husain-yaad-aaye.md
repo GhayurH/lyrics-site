@@ -28,7 +28,7 @@ romanLyrics: |-
   Jo pyaar kar ke hataaya Husain yaad aaye
 
   4
-  Nazar meiṅ phir gaya karyal jawaan ka laasha
+  Nazar meiṅ phir gaya kariyal jawaan ka laasha
   Kisi ne baandha jo sehra Husain yaad aaye
 
   5
@@ -41,11 +41,11 @@ romanLyrics: |-
 
   7
   Pakar ke baap ka daaman kisi bhi bachchi ne
-  Na jaaye baaba jo bola Husain yaad aaye
+  Naa jaayeṅ baaba jo bola Husain yaad aaye
 
   8
   Mera pisar hua jis roz chhe mahine ka
-  Bataauṅ kaise maiṅ kitna Husain yaad aaye
+  Bataauṅ kaise main kitna Husain yaad aaye
 
   9
   Lipat lipat gayi turbat se Saani-e-Zehra

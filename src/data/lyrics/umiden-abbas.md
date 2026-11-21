@@ -24,7 +24,7 @@ romanLyrics: |-
   Haae teri taqdir Sakina
 
   2
-  Maqtal meiṅ tanhaai hai har suṅ
+  Maqtal mein tanhaai hai har suṅ
   Dil se laga kar bhaai ki baazu
   Rote hai Shabbir Sakina
   Haae teri taqdir Sakina
@@ -32,11 +32,11 @@ romanLyrics: |-
   3
   Kis mushkil se aaye haiṅ baaba
   Mashk o alam ko laaye hai baaba
-  Khuṅ meiṅ bhari tasvir Sakina
+  Khuṅ mein bhari tasvir Sakina
   Haae teri taqdir Sakina
 
   4
-  Tera saqqa khuṅ meiṅ nahaaya
+  Tera saqqa khuṅ mein nahaaya
   Khaime tak paani nahiṅ aaya
   Ki to bahut tadbir Sakina
   Haae teri taqdir Sakina
@@ -48,9 +48,9 @@ romanLyrics: |-
   Haae teri taqdir Sakina
 
   6
-  Bhaiya ko godi meiṅ utha le
-  Jaa khaime meiṅ jaa ke chhupa le
-  Rota hai beshir Sakina
+  Bhaiya ko godi mein utha le
+  Jaa khaime mein jaa ke chhupa le
+  Rota hai be shir Sakina
   Haae teri taqdir Sakina
 
   7

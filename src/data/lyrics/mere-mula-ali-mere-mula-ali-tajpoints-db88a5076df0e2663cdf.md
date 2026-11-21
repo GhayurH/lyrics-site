@@ -1,41 +1,72 @@
 ---
-title: "Mere Mula Ali Mere Mula Ali"
+title: "میرے مولا علی میرے مولا علی"
+alternateTitle: "Mere Mula Ali Mere Mula Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mere Mula Ali mere Mula Ali
+  Hum faqeeron ka zamane mein wazeefa hai yehi
+  Aap ki zaat ka irfan bari mushkil hai
+  Ba-khuda aap ki pehchan bari mushkil hai
+
+  2
+  Aap kya hain yeh samajte hain Khuda our Nabi
+  Zikar tera hi aqeeday ki zabaan thehra hai
+  Iss liye naam-e-Ali juzway azaan thehra hai
+  Kufar-o-emaan ki kasoti hai wilayat teri
+
+  3
+  Qaab-o-Qosain se guzra jo rasoloon ka Rasool
+  Our sar-e-arsh howa rehmat-e-Bari ka nazool
+  Shab-e-Mairaj Nabi ne teri awaz suni
+  Teri azmat ko morikh youn biyaan karte hain
+
+  4
+  Shafi tujh pe khudai ka gumaan karte hain
+  Yeh khilafat tu hameesha teri thokar mein rahi
+  Yeh jahan wale tujhe uqda kusha kehte hain
+  Barmala tujh ko Nuseri tu Khuda kehte hain
+
+  5
+  Tere ausaaf hi aise hain Muhammad ke wali
+  Ishq-e-Haider tu hai makhsoos halali ke liye
+  Our Muhib khuld-e-Nabi unn ke mawali ke liye
+  Our jahanum tere dushman ke liye khalq hoi
 ---
 
-1
-Mere Mula Ali Mere Mula Ali.
-Hum Faqeeron Ka Zamane Mein Wazeefa Hai Yehi.
-Aap Ki Zaat Ka Irfan Bari Mushkil Hai.
-Ba-Khuda Aap Ki Pehchan Bari Mushkil Hai.
+۱
+میرے مولا علی میرے مولا علی
+ہم فقیروں کا زمانے میں وظیفہ ہے یہی
+آپ کی ذات کا عرفان بڑی مشکل ہے
+باخدا آپ کی پہچان بڑی مشکل ہے
 
-2
-Aap Kya Hain Yeh Samajte Hain Khuda Our Nabi.
-Zikar Tera Hi Aqeeday Ki Zabaan Thehra Hai.
-Iss Liye Naam-e-Ali Juzway Azaan Thehra Hai.
-Kufar-o-Emaan Ki Kasoti Hai Wilayat Teri.
+۲
+آپ کیا ہیں یہ سمجھتے ہیں خدا اور نبی
+ذکر تیرا ہی عقیدے کی زباں ٹھہرا ہے
+اس لیے نامِ علی جزوِ اذاں ٹھہرا ہے
+کفر و ایماں کی کسوٹی ہے ولایت تیری
 
-3
-Qaab-o-Qosain Se Guzra Jo Rasoloon Ka Rasool.
-Our Sar-e-Arsh Howa Rehmat-e-Bari Ka Nazool.
-Shab-e-Mairaj Nabi Ne Teri Awaz Suni.
-Teri Azmat Ko Morikh Youn Biyaan Karte Hain.
+۳
+قاب و قوسین سے گزرا جو رسولوں کا رسول
+اور سرِ عرش ہوا رحمتِ باری کا نزول
+شبِ معراج نبی نے تیری آواز سنی
+تیری عظمت کو مؤرخ یوں بیاں کرتے ہیں
 
-4
-Shafi Tujh Pe Khudai Ka Gumaan Karte Hain.
-Yeh Khilafat Tu Hameesha Teri Thokar Mein Rahi.
-Yeh Jahan Wale Tujhe Uqda Kusha Kehte Hain.
-Barmala Tujh Ko Nuseri Tu Khuda Kehte Hain.
+۴
+شافی تجھ پہ خدائی کا گماں کرتے ہیں
+یہ خلافت تو ہمیشہ تیری ٹھوکر میں رہی
+یہ جہاں والے تجھے عقدہ کشا کہتے ہیں
+برملا تجھ کو نصیری تو خدا کہتے ہیں
 
-5
-Tere Ausaaf Hi Aise Hain Muhammad Ke Wali.
-Ishq-e-Haider Tu Hai Makhsoos Halali Ke Liye.
-Our Muhib Khuld-e-Nabi Unn Ke Mawali Ke Liye.
-Our Jahanum Tere Dushman Ke Liye Khalq Hoi.
+۵
+تیرے اوصاف ہی ایسے ہیں محمد کے ولی
+عشقِ حیدر تو ہے مخصوص حلالی کے لیے
+اور محب خلدِ نبی ان کے موالی کے لیے
+اور جہنم تیرے دشمن کے لیے خلق ہوئی

@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ehsaas rulaata hai dil bibi se kehta hai
-  E binte ali e khwahar e hasnain
-  Ek samt haram hai ghazi ka
-  Ek samt hai haram e Husain
-  Ae bibi kaash tera rauza
+  Ehsaas rulaata hai dil Bibi se kehta hai
+  Ae Bint-e-Ali, ae Khwaahar-e-Hasnain
+  Ik samt haram hai Ghaazi ka
+  Ik samt hai haram-e-Husain
+  Ae Bibi kaash tera rauza
   Hota bainul harmain
-  Ek jaa par bhai behan rehte
-  Karte na bichar kar bain
-  Ae bibi kaash tera rauza
+  Ik jaa par bhaai behan rehte
+  Karte na bichhar kar bain
+  Ae Bibi kaash tera rauza
   Hota bainul harmain
-  Tu sharam o haya ki malka hai
-  Phirwaya tujhe un galiyoṅ meiṅ
+  Tu sharm o hayaa ki malika hai
+  Phirwaaya tujhe un galiyoṅ meiṅ
   Jis jaa na kabhi jaati teri
   Izzat waali naalain
-  Ae bibi kaash tera rauza...
-  Wo jis ke liye tu shaam gayi
-  Gar us ki qabr yahin hoti
+  Ae Bibi kaash tera rauza...
+  Wo jis ke liye tu Shaam gayi
+  Gar us ki qabr yahi hoti
   Tujh ko bhi qaraar aa jaata aur
-  Bhai ko bhi milta chain
-  Ae bibi kaash tera rauza...
-  Marqad meiṅ tumhe jab tarpata
-  Akbar ke bicharne ka sadma
+  Bhaai ko bhi milta chain
+  Ae Bibi kaash tera rauza...
+  Marqad meiṅ tumheṅ jab tarpaata
+  Akbar ke bichharne ka sadma
   Abbas dilaasa de deta
-  Aur pochte ashq Husain
-  Ae bibi kaash tera rauza...
-  Ashur ki yaadoṅ se bibi
-  Dil tera kabhi jo ghabrata
+  Aur ponchhte ashk Husain
+  Ae Bibi kaash tera rauza...
+  Aashur ki yaadoṅ se Bibi
+  Dil tera kabhi jo ghabraata
   Asghar ko saath sula leti
   Aa jaata dil ko chain
-  Ae bibi kaash tera rauza...
-  Wo bete jinhe tu ro na saki
-  Shabbir ka matam karti rahi
+  Ae Bibi kaash tera rauza...
+  Wo bete jinheṅ tu ro na saki
+  Shabbir ka maatam karti rahi
   Karbal meiṅ saath tere hote
   Wo tere nur-e-ain
-  Ae bibi kaash tera rauza...
-  Ashur aur chehlum karne ko
-  Miloṅ ki musafat tay kar ke
-  Tu shaam se na aati bibi
+  Ae Bibi kaash tera rauza...
+  Aashur aur chehlum karne ko
+  Miloṅ ki masaafat tay kar ke
+  Tu Shaam se na aati Bibi
   Karne ko yahaṅ par bain
-  Ae bibi kaash tera rauza...
-  Qurban teri mazlumi par
-  Farhan bhi hai aur mazhar bhi
-  Ek hum hi nahi kehte bibi
-  Kehte hai yehi hasnain
-  Ae bibi kaash tera rauza...
+  Ae Bibi kaash tera rauza...
+  Qurbaan teri mazlumi par
+  Farhaan bhi hai aur Mazhar bhi
+  Ik hum hi nahiṅ kehte Bibi
+  Kehte haiṅ yehi Hasnain
+  Ae Bibi kaash tera rauza...
 ---
 
 ۱

@@ -28,11 +28,11 @@ romanLyrics: |-
   Kahaaṅ hai fauj-e-adu hum to mashk bhar ke chale
 
   4
-  Kamar Habib ne baandhi jo nusrat-e-Shah meiṅ
+  Kamar Habib ne baandhi jo nusrat-e-Shah mein
   Jawaaniyoṅ ke iraade sanwar sanwar ke chale
 
   5
-  Naha ke nikla hai Laila ke aaṅsuoṅ meiṅ shabaab
+  Naha ke nikla hai Laila ke aaṅsuoṅ mein shabaab
   Na kiuṅ jawaani-e-Akbar nikhar nikhar ke chale
 
   6
@@ -40,12 +40,12 @@ romanLyrics: |-
   Safina maujoṅ pe jaise ubhar ubhar ke chale
 
   7
-  Tawaaf-e-rauza-e-Shabbir ki tamanna meiṅ
+  Tawaaf-e-rauza-e-Shabbir ki tamanna mein
   Farishte baam-e-falak se utar utar ke chale
 
   8
-  Qalam uthaate haiṅ madh-e-Husain meiṅ Maahir
-  Tasawwuraat meiṅ mazmuṅ sanwar sanwar ke chale
+  Qalam uthaate haiṅ madh-e-Husain mein Maahir
+  Tasawwuraat mein mazmuṅ sanwar sanwar ke chale
 ---
 مثالِ موجِ اجل پر ابھر ابھر کے چلے
 حسین والے چلے اور بن سور کے چلے

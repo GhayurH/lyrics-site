@@ -8,61 +8,54 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ek sakina ek zahra..(4)
-  Baba ko hai rone wali ek sakina ek zahra..(2)
+  Baba ko hai rone wali ek Sakina ik Zahra
 
   1
-  1. Pehlu dar unke gira tha
-  Inko tamache lagte the
-  Unke dar par aag lagi thi..(2)
-  Inka khaima jalta tha
+  Pehlu par dar un ke gira tha
+  In ko tamaanche lagte the
+  Un ke dar par aag lagi thi
+  In ka khaima jalta tha
 
   2
-  2. Dono ko haakim ne bulaaya
-  Dono hi darbaar gayi
-  Sharmo haya ne unko jakda..(2)
-  Rassi me tha inka galaa
+  Donoṅ ko haakim ne bulaaya
+  Donoṅ hi darbaar gaiṅ
+  Sharm o haya ne un ko jakda
+  Rassi meiṅ tha in ka gala
+  Baba ko hai rone wali...
+  Baba ke jaane ke baad
+  Chain se ik din so na saki
+  Bait-ul-Huzn meiṅ woh roti thi
+  Yeh zindaan meiṅ roti thi
 
   3
-  3. Baba ke jaane ke baad
-  Chain se ek din so naa saki
-  Baitul huzn me woh roti thi..(2)
-  Yeh zindaan me roti thi
+  Donoṅ jaanib hi ghaasib the
+  Zaalim the aur qaatil the
+  Un se Fidak ko chhina gaya tha
+  In ki baaliyaaṅ chhini thi
 
   4
-  4. Dono jaanib hi gaasib the
-  Zaalim the aur Qaatil the
-  Unse fidak ko cheena gaya tha..(2)
-  Inki baaliya cheeni thi
+  Donoṅ par hi zulm hue hai
+  Dunya meiṅ jaane ke baad
+  Un ke roze ko tha giraaya
+  Yeh zindaan meiṅ qaid rahi
 
   5
-  5. Dono par hi zulm hue hai
-  Dunya se jaane ke baad
-  Unke roze ko tha giraaya..(2)
-  Yeh zindaan me qaid rahi
+  Donoṅ baba ko pyaari thi
+  Donoṅ hi hassaas bhi thi
+  Un ke liye zindaan thi dunya
+  Yeh zindaan meiṅ rehti thi
 
   6
-  6. Dono baba ko pyaari thi
-  Dono hi hassaas bhi thi
-  Unke liye zindaan thi dunyaa..(2)
-  Yeh zindaan me rehti thi
+  Donoṅ ne maasoom shahaadat
+  Ko nazdik se dekha tha
+  Un ko Mohsin yaad aata tha
+  Asgar un ko yaad aaya
 
   7
-  7. Dono ne maasoom shahadat
-  Ko nazdeek se dekha tha
-  Unko mohsin yaad aata tha..(2)
-  Asgar unko yaad aaya
-
-  8
-  8. Karbe zahra karbe sakina
+  Karb-e-Zahra karb-e-Sakina
   Kitna milta julta tha
-  Maine Qamar yeh soch ke aakhir..(2)
-  Ek hi nauha likkha tha
-
-  9
-  Baba ko hai rone wali
-  Aik sakina ek zahra..(2)
-  Aik sakina ek zahra..(4)
+  Maiṅ ne Qamar yeh soch ke aakhir
+  Ik hi nauha likha tha
 ---
 
 بابا کو ہے رونے والی ایک سكینہ اک زہرہ

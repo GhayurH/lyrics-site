@@ -22,25 +22,25 @@ romanLyrics: |-
   Khuda ka kehna hai shahid zinda hai
 
   2
-  Kahe ga mahshar meiṅ ye Khaaliq-e-Akbar
+  Kahe ga mahshar mein ye Khaaliq-e-Akbar
   Hai maatam-e-Sarwar najaat ka mehwar
   Husain ka jo hai wohi hamaara hai
   Khuda ka kehna hai shahid zinda hai
 
   3
-  Luta ke ghar apna Husain kehte haiṅ
-  Kata ke sar apna Husain kehte haiṅ
+  Lutaa ke ghar apna Husain kehte haiṅ
+  Kataa ke sar apna Husain kehte haiṅ
   Yuṅ waada-e-tifli nibhaya jaata hai
   Khuda ka kehna hai shahid zinda hai
 
   4
   Husain ke saathi to wo mar nahiṅ sakte
-  Kata ke sar apna wo mar nahiṅ sakte
+  Kataa ke sar apna wo mar nahiṅ sakte
   Ye Haq ka kehna hai shahid zinda hai
   Khuda ka kehna hai shahid zinda hai
 
   5
-  Kareṅ ge dunya meiṅ Husain ka maatam
+  Kareṅ ge dunya mein Husain ka maatam
   Gar aaye tufaan bhi na hoga phir bhi kam
   Ye maatam-e-Sarwar dua-e-Zehra hai
   Khuda ka kehna hai shahid zinda hai
@@ -48,13 +48,13 @@ romanLyrics: |-
   6
   Husain ke jaisa na ban saka koi
   Bayaan hai Khaaliq ka na ban saka koi
-  Tamaam dunya meiṅ wohi akela hai
+  Tamaam dunya mein wohi akela hai
   Khuda ka kehna hai shahid zinda hai
 
   7
   Ye Haashmi Saabir hai naukar-e-Sarwar
-  Ata hai Sarwar ki karam hai ye un par
-  Aza ki dunya meiṅ dua-e-Zehra hai
+  Ataa hai Sarwar ki karam hai ye un par
+  Aza ki dunya mein dua-e-Zehra hai
   Khuda ka kehna hai shahid zinda hai
 ---
 خدا کا کہنا ہے شہید زندہ ہے

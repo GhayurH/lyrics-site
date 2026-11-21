@@ -38,7 +38,7 @@ romanLyrics: |-
   Ye kam to nahiṅ rutba mera
   Mere qadmoṅ tale Khaaliq ne
   Us Ghaazi ki jannat rakh di
-  Jannat jo sabhi ko baaṅte
+  Jannat jo sabhi ko baante
 
   5
   Wo jis ka parcham karta hai
@@ -48,7 +48,7 @@ romanLyrics: |-
   6
   Ae kaash maiṅ jaati Karbobala
   Mahshar meiṅ naam jo hota
-  Ab saaṅseṅ jab tak baaqi hai
+  Ab saanseṅ jab tak baaqi hai
   Mujhko ye rahega sadma
 
   7
@@ -71,7 +71,7 @@ romanLyrics: |-
   Ae Mir Takallum wo Bibi
   Kehti hogi ye ro kar
   Ghaazi ke kate shaanoṅ ki qasam
-  Hai qarz meri saaṅsoṅ par
+  Hai qarz meri saansoṅ par
 
   11
   Pyaasa gaya Asghar dunya se

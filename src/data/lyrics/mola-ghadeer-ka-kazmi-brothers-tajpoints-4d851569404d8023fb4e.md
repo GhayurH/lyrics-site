@@ -1,45 +1,76 @@
 ---
-title: "Mola Ghadeer Ka Kazmi Brothers"
+title: "مولا غدیر کا"
+alternateTitle: "Mola Ghadeer Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kaisay asar na khon mein hoga Ghadeer ka
+  Dil mein hamarey basta hai maula Ghadeer ka
+  Deen-e-khuda ko ishq-e-ali naam mil gaya
+  Kitna hasen tar hai khulasa Ghadeer ka
+  Pathar hain aasman ke qabzey mein our bhi
+  Inkar bas yeh soch ke karna Ghadeer ka
+
+  2
+  Mufti ko qaid kar ke ossi ki dokan mein
+  Dil chahta hai mar doon tala Ghadeer ka
+  Woh may pila ke jis mein nabowat ki bo miley
+  Jis ke nashay mein husan-e-imamat ki kho miley
+  Aadam ko jis se khoyi hoi aabro miley
+  Main bhi piyon tu mujh ko Khuda robaro miley
+
+  3
+  Jis ka nasha nijat ka saman ho gaya
+  Salman pe ke fakhar-e-suleman ho gaya
+  Utra na oss ke dil se khumar e wila kabhi
+  Saqi ne jis ko jaam pilaya Ghadeer ka
+  Meesum ne daar par kaha subhan ya Ali
+  Wallah nasha hai kitna hi aala Ghadeer ka
+
+  4
+  Sab beshumar aane lagin gay shumar mein
+  Mehfil mein dekho chair ke qissa Ghadeer ka
+  Kaisay chubhay na chashm-e-munafiq mein sochiye
+  Yeh sare matami hain qabeela Ghadeer ka
+  Mehshar ki Jaun fikar hai kya tum ho matami
+  Seene pe tum ne khaincha hai naqsha Ghadeer ka
 ---
 
-Mola Ghadeer Ka Kazmi Brothers.
+۱
+کیسے اثر نہ خون میں ہوگا غدیر کا
+دل میں ہمارے بستا ہے مولا غدیر کا
+دینِ خدا کو عشقِ علی نام مل گیا
+کتنا حسین تر ہے خلاصہ غدیر کا
+پتھر ہیں آسمان کے قبضے میں اور بھی
+انکار بس یہ سوچ کے کرنا غدیر کا
 
-1
-Kaisay Asar Na Khon Mein Hoga Ghadeer Ka.
-Dil Mein Hamarey Basta Hai Maula Ghadeer Ka.
-Deen-e-Khuda Ko Ishq-e-Ali Naam Mil Gaya.
-Kitna Hasen Tar Hai Khulasa Ghadeer Ka.
-Pathar Hain Aasman Ke Qabzey Mein Our Bhi.
-Inkar Bas Yeh Soch Ke Karna Ghadeer Ka.
+۲
+مفتی کو قید کر کے اسی کی دکان میں
+دل چاہتا ہے مار دوں تالا غدیر کا
+وہ مے پلا کے جس میں نبوت کی بو ملے
+جس کے نشے میں حسنِ امامت کی خو ملے
+آدم کو جس سے کھوئی ہوئی آبرو ملے
+میں بھی پیوں تو مجھ کو خدا روبرو ملے
 
-2
-Mufti Ko Qaid Kar Ke Ossi Ki Dokan Mein.
-Dil Chahta Hai Mar Doon Tala Ghadeer Ka.
-Woh May Pila Ke Jis Mein Nabowat Ki Bo Miley.
-Jis Ke Nashay Mein Husan-e-Imamat Ki Kho Miley.
-Aadam Ko Jis Se Khoyi Hoi Aabro Miley.
-Main Bhi Piyon Tu Mujh Ko Khuda Robaro Miley.
+۳
+جس کا نشہ نجات کا ساماں ہو گیا
+سلمان پی کے فخرِ سلیمان ہو گیا
+اترا نہ اس کے دل سے خمارِ ولا کبھی
+ساقی نے جس کو جام پلایا غدیر کا
+میثم نے دار پر کہا سبحان یا علی
+واللہ نشہ ہے کتنا ہی اعلیٰ غدیر کا
 
-3
-Jis Ka Nasha Nijat Ka Saman Ho Gaya.
-Salman Pe Ke Fakhar-e-Suleman Ho Gaya.
-Utra Na Oss Ke Dil Se Khumar e Wila Kabhi.
-Saqi Ne Jis Ko Jaam Pilaya Ghadeer Ka.
-Meesum Ne Daar Par Kaha Subhan Ya Ali.
-Wallah Nasha Hai Kitna Hi Aala Ghadeer Ka.
-
-4
-Sab Beshumar Aane Lagin Gay Shumar Mein.
-Mehfil Mein Dekho Chair Ke Qissa Ghadeer Ka.
-Kaisay Chubhay Na Chashm-e-Munafiq Mein Sochiye.
-Yeh Sare Matami Hain Qabeela Ghadeer Ka.
-Mehshar Ki Jaun Fikar Hai Kya Tum Ho Matami.
-Seene Pe Tum Ne Khaincha Hai Naqsha Ghadeer Ka.
+۴
+سب بے شمار آنے لگیں گے شمار میں
+محفل میں دیکھو چھیڑ کے قصہ غدیر کا
+کیسے چبھے نہ چشمِ منافق میں سوچیے
+یہ سارے ماتمی ہیں قبیلہ غدیر کا
+محشر کی جون فکر ہے کیا تم ہو ماتمی
+سینے پہ تم نے کھینچا ہے نقشہ غدیر کا

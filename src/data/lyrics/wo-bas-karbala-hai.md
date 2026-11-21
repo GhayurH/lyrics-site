@@ -15,34 +15,34 @@ romanLyrics: |-
   Jahaṅ qasr-e-batil giraya gaya hai
 
   2
-  Shariyat ka sajda baqa mangta hai
-  Ke Kabaa jahaṅ se shifaa mangta hai
+  Shariyat ka sajda baqa maangta hai
+  Ke Kaaba jahaṅ se shifaa maangta hai
   Jahaṅ par Khuda bhi basaya gaya hai
 
   3
-  Hai jannat jahaṅ Fatima bant ti hai
-  Wahaṅ maut bhi dekhiye kampti hai
+  Hai jannat jahaṅ Fatima baantti hai
+  Wahaṅ maut bhi dekhiye kaanpti hai
   Jahaṅ har yazidi mitaya gaya hai
 
   4
   Jo apne Khuda se bhi larta raha hai
   Ke Adam ka inkaar karta raha hai
-  Wo iblis jis jaa jhukaya gaya hai
+  Wo Iblis jis jaa jhukaya gaya hai
 
   5
-  Hui sajda gah jo zamane ki khatir
+  Hui sajda gaah jo zamane ki khatir
   Muhammad ke bete ke sajde ki khatir
   Jahaṅ arsh Rab ka bichaya gaya hai
 
   6
-  Wafaoṅ ki ghairat ke Rab sogaye haiṅ
-  Jo karte the unka adab sogaye haiṅ
+  Wafaoṅ ki ghairat ke Rab so gaye haiṅ
+  Jo karte the un ka adab so gaye haiṅ
   Taharat ka khaima jalaya gaya hai
 
   7
   Jahaṅ dosti dushmani khul rahi hai
-  Jahaṅ roshni har qadam tul rahi hai
-  Jahaṅ Hurr ko alaa banaya gaya hai
+  Jahaṅ roshni har qadam jal rahi hai
+  Jahaṅ Hurr ko aala banaya gaya hai
 
   8
   Ye Akbar pukare ye Asghar pukare
@@ -51,28 +51,28 @@ romanLyrics: |-
 
   9
   Kiya hai malaayik ne sajda jahaṅ par
-  Jahaṅ sirf Aah o buqa hai zuban par
+  Jahaṅ sirf aah o buka hai zuban par
   Jahaṅ khun-e-Zahra bahaya gaya hai
 
   10
-  Ye maqtal meiṅ rutba hua kisko haasil
-  Jahaṅ Behr-e-khidmat pohanchna tha mushkil
-  Wahaṅ Bibi Fizza ka saya gaya hai
+  Ye maqtal mein rutba hua kis ko haasil
+  Jahaṅ behr-e-khidmat pahunchna tha mushkil
+  Wahaṅ Bibi Fizza ka saaya gaya hai
 
   11
-  Jahaṅ roshni ki bichi ek ridaa hai
+  Jahaṅ roshni ki bichhi ik ridaa hai
   Jahaṅ sar ba sajda saf-e-ambiya hai
   Jahaṅ sar sinaa par uthaya gaya hai
 
   12
-  Khuda dekhta hai jisse Mustafa meiṅ
-  Jisse Bint-e-Khyber ne pala ridaa meiṅ
-  Sinah pe wo Akbar uthaya gaya hai
+  Khuda dekhta hai jisse Mustafa mein
+  Jisse Bint-e-Haidar ne paala ridaa mein
+  Sinaa pe wo Akbar uthaya gaya hai
 
   13
   Imam-e-Zaman ke sabhi muntazir haiṅ
   Khuda ki qasam sab nabi muntazir haiṅ
-  Jahaṅ un ka maskal banaya gaya hai
+  Jahaṅ un ka maskan banaya gaya hai
 ---
 
 وہ بس کربلا ہے، وہ بس کربلا ہے

@@ -1,39 +1,69 @@
 ---
 title: "حیراں ہے چاند محرم کا"
+alternateTitle: "Hayraan Hay Chand Muharram Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hayraan hay chand Muharram ka Shabeer say kyoun sharmata hai
+
+  1
+  Zahra kay chand ko dekhta hai phir baadal main chup jata hai
+
+  2
+  Ghar Zahra ka lutnay ki khabar
+  Karbal may tunay sunai hay
+  Haye dekh kay tujh ko Muharram may
+  ab tak bhi rooti khudai hay
+  Teri chandani may bhi andhera hai
+  jo akhon may chaa jaata hay
+
+  3
+  Beemar hay din bhar rooti hay
+  Na wada Akbar poora kia
+  Is chand ko dekh kay Sughra nay
+  phir chand ko dekhna chor diya
+  Har saal Muharram aata hay
+  Sughara ko bohot tarpata hay
+
+  4
+  Is chaand nay Shaam-e-Ghareeban main
+  jaltay howa khaimon ko dekha
+  Mumtaz hay Shabbar roya tha
+  Zahra ka ureyan sir dekha
+  Is wastay raat nikalta hai
+  din bhar kay liye chup jaata hay
 ---
 
-Hayraan Hay Chand Muharram Ka Shabeer Say Kyoun Sharmata Hai
+حیراں ہے چاند محرم کا شبیر سے کیوں شرماتا ہے
 
-1
-Zahra Kay Chand Ko Dekhta Hai Phir Baadal Main Chup Jata Hai
+۱
+زہرا کے چاند کو دیکھتا ہے پھر بادل میں چھپ جاتا ہے
 
-2
-Ghar Zahra Ka Lutnay Ki Khabar
-Karbal May Tunay Sunai Hay
-Haye Dekh Kay Tujh Ko Muharram May
-Ab Tak Bhi Rooti Khudai Hay
-Teri Chandani May Bhi Andhera Hai
-Jo Akhon May Chaa Jaata Hay
+۲
+گھر زہرا کا لٹنے کی خبر
+کربل میں تو نے سنائی ہے
+ہائے دیکھ کے تجھ کو محرم میں
+اب تک بھی روتی خدائی ہے
+تیری چاندنی میں بھی اندھیرا ہے
+جو آنکھوں میں چھا جاتا ہے
 
-3
-Beemar Hay Din Bhar Rooti Hay
-Na Wada Akbar Poora Kia
-Is Chand Ko Dekh Kay Sughra Nay
-Phir Chand Ko Dekhna Chor Diya
-Har Saal Muharram Aata Hay
-Sughara Ko Bohot Tarpata Hay
+۳
+بیمار ہے دن بھر روتی ہے
+نہ وعدہ اکبر پورا کیا
+اس چاند کو دیکھ کے صغریٰ نے
+پھر چاند کو دیکھنا چھوڑ دیا
+ہر سال محرم آتا ہے
+صغریٰ کو بہت تڑپاتا ہے
 
-4
-Is Chaand Nay Shaam-e-Ghareeban Main
-Jaltay Howa Khaimon Ko Dekha
-Mumtaz Hay Shabbar Roya Tha
-Zahra Ka Ureyan Sir Dekha
-Is Wastay Raat Nikalta Hai
-Din Bhar Kay Liye Chup Jaata Hay
+۴
+اس چاند نے شامِ غریباں میں
+جلتے ہوئے خیموں کو دیکھا
+ممتاز ہے شبر رویا تھا
+زہرا کا عریاں سر دیکھا
+اس واسطے رات نکلتا ہے
+دن بھر کے لیے چھپ جاتا ہے

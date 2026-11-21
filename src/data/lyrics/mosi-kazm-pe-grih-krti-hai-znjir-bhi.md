@@ -7,6 +7,45 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Musa-e-Kazim pe girya karti hai zanjir bhi
+  Nauha karne aa gai haiṅ Zainab-e-dilgir bhi
+
+  1
+  Qaid khaanoṅ ne parha Kazim ka nauha barmala
+  Girya-e-khuniṅ hua aur zulm ki tashhir bhi
+
+  2
+  Qaid khaanoṅ se azaanoṅ ki sada kehti rahi
+  Bekhata hai begunaah hai aur be-taqsir bhi
+
+  3
+  Chha gai Maula Raza par ab yatimi ki fiza
+  Chal gaya khanjar jigar par aur dil par tir bhi
+
+  4
+  Karbala aur Shaam par rote the Kazim qaid meiṅ
+  Aaj Aabid ro rahe haiṅ saath meiṅ Shabbir bhi
+
+  5
+  Dur apni betiyoṅ se baap koi na rahe
+  Ye dua karti hai Rab se aaj khud taasir bhi
+
+  6
+  Muntazir baba ki thiṅ chaudah baras se betiyaaṅ
+  Ashkbaari saath un ke karti hai taqdir bhi
+
+  7
+  Us amir-e-din ka pul par janaza hai para
+  Jis ke qabze meiṅ hai saari khuld ki jaagir bhi
+
+  8
+  Pul pe Kazim ke janaze par jo Bibi aai hai
+  Maalik-e-kaun o makaaṅ hai maalik-e-tathir bhi
+
+  9
+  Maula Kazim par hue itne sitam ke al-amaaṅ
+  Likh ke rota hai qalam Rizwan ka tahrir bhi
 ---
 
 موسیٰءِ کاظمؑ پہ گِریہ کرتی ہے زنجیر بھی

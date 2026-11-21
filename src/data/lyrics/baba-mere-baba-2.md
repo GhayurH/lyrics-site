@@ -10,45 +10,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Karti thi buka shaam ke zindaṅ meiṅ sakina
+  Karti thi buka shaam ke zindaaṅ meiṅ Sakina
   Baba mere baba baba mere baba
 
   1
-  Aa jaaiye aa jaaiye ab jald khudara
+  Aa jaaiye aa jaaiye ab jald khudaara
 
   2
-  Mai dar pe khari takti thi jab aap ka rasta
-  Ek lut machi aag lagi zulm ye tuta
-  Hum par thi qayamat ki ghari haste the aada
+  Main dar pe khari takti thi jab aap ka rasta
+  Ek lut aag lagi zulm ye tuta
+  Ham par thi qayaamat ki ghari hanste the aada
 
   3
-  Jab khaynch rahe the mere durr kaano se ashraar
-  Aur zad pe tamachoṅ ke the baba mere ruqsaar
-  Ammu ko kabhi tum ko bulaati thi mai dukhiya
+  Jab khinch rahe the mere durr kaanoṅ se ashraar
+  Aur zid pe tamaanchoṅ ke the baba mere rukhsaar
+  Ammu ko kabhi tum ko bulaati thi main dukhiya
 
   4
-  Phir baand ke rassi meiṅ hame haye khule sar
-  Bazaroṅ meiṅ darbaroṅ meiṅ laaye ye sitamgar
-  Khaati thi tamache mai tumhe jab bhi pukara
+  Phir baandh ke rassi meiṅ hameiṅ haaye khule sar
+  Baazaaroṅ meiṅ darbaaroṅ meiṅ laaye ye sitamgar
+  Khaati thi tamaanche main tumheiṅ jab bhi pukaara
 
   5
   Jab tak na sula lete the sine pe mujhe aap
-  Karte na the apne se juda haye mujhe aap
-  Kya mujhse khata hogayi kiuṅ aap ne chora
+  Karte na the apne se juda haaye mujhe aap
+  Kya mujh se khata ho gai kiuṅ aap ne chora
 
   6
-  Mai khaak basar nauha kuna shaam o sahar huṅ
-  Ab taalib e didar e shahe jinn o bashar huṅ
-  Khud aap hi aaye na qaza ne mujhe pucha
+  Main khaak basar nauha kunaaṅ shaam o sahar huṅ
+  Ab taalib-e-didaar-e-shah-e jinn o bashar huṅ
+  Khud aap hi aaye na qaza ne mujhe puchha
 
   7
-  Zinda na rahungi mai agar aap na aaye
-  Mar jaungi zinda hi mai ek roz meiṅ haye
-  Ab mujhko judaai nahi ek pal bhi gawara
+  Zinda na rahuṅ gi main agar aap na aaye
+  Mar jaauṅ gi zinda hi main ek roz meiṅ haaye
+  Ab mujh ko judaai nahiṅ ek pal bhi ganwaara
 
   8
-  Phat'ta tha jigar maa ka phupi jaaṅ balab thi
-  Sajjad tarapte the ghari gham ki ajab thi
+  Phatta tha jigar maaṅ ka phuphi jaaṅ balab thi
+  Sajjad tarabte the ghari gham ki ajab thi
   Masrur wo jab kehti thi laut aaiye baba
 ---
 

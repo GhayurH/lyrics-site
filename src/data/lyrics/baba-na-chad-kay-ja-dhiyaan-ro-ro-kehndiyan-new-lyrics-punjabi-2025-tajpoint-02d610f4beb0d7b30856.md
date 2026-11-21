@@ -1,41 +1,72 @@
 ---
-title: "Baba Na Chad Kay Ja Dhiyaan Ro Ro Kehndiyan New Lyrics Punjabi 2025"
+title: "بابا نہ چھڈ کے جا دھیاں رو رو کہندیاں"
+alternateTitle: "Baba Na Chad Kay Ja Dhiyaan Ro Ro Kehndiyan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Tosif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba na chad kay ja dhiyaan ro ro kehndiyan
+  Bhaina Hasnain diyaan babay di lash te ro ro wain paondiyan
+  Sar khuliya waang Quran aye tak ronda aye Yazdan aye
+  Sada baba Ghazi veran aj raat da bas mehman aye
+
+  2
+  Aayataan Quran diyaan babay de aa sirhaney athro haye bahaondiyan
+  Tere qatal da baba sanu darbar choon aa maa dasiya
+  Shabbir de gal te khanjar te zehar Hasan da takiya
+  Mainu hun Sham diyaan babay di maut choon rahwaan nazar aaondiyaan
+
+  3
+  Gal la ke rondiyaan veraan nu Zainab, Kulsoom aye aakhan
+  Asaan babay baad way kinj jeena ro ro ke wain aye pawan
+  Maa v chad ke tur gayi baba v chaliya aye veraan nu aye kendiyaan
+  Sar chum ke piyo da loko dhiyaan ne ro farmaya
+
+  4
+  Babay da pak janaza jadon aan bhirawaan chaya
+  Haye wasna nahin kadi hun wehra meri maa da ainj wain aye paondiyan
+  Hath pa rasiyaan ban qaidi haye baaj bhirawaan jana
+  Ainj qaid nibhani dhiyaan kuj qaidaan wich mar jana
+
+  5
+  Dhiyaan pardesna main takiyaan ne Sham Ghazi haye be pardah jandiyaan
+  Haye baad qatal de nana asaan ainj dunya te rulna
+  Asaan shehar wasana Karbal tera chad ke shehar Madina
+  Haal safraan walay Tosif nanay nu aye saina haye sunaondiyan
 ---
 
-1
-Baba Na Chad Kay Ja Dhiyaan Ro Ro Kehndiyan.
-Bhaina Hasnain Diyaan Babay Di Lash Te Ro Ro Wain Paondiyan.
-Sar Khuliya Waang Quran Aye Tak Ronda Aye Yazdan Aye.
-Sada Baba Ghazi Veran Aj Raat Da Bas Mehman Aye.
+۱
+بابا نہ چھڈ کے جا دھیاں رو رو کہندیاں
+بھیناں حسنین دیاں بابے دی لاش تے رو رو وین پاؤندیاں
+سر کھلیا وانگ قرآن اے تک روندا اے یزداں اے
+ساڈا بابا غازی ویراں اج رات دا بس مہمان اے
 
-2
-Aayataan Quran Diyaan Babay De Aa Sirhaney Athro Haye Bahaondiyan.
-Tere Qatal Da Baba Sanu Darbar Choon Aa Maa Dasiya.
-Shabbir De Gal Te Khanjar Te Zehar Hasan Da Takiya.
-Mainu Hun Sham Diyaan Babay Di Maut Choon Rahwaan Nazar Aaondiyaan.
+۲
+آیتاں قرآن دیاں بابے دے آ سرہانے اتھرو ہائے بہاؤندیاں
+تیرے قتل دا بابا سانوں دربار چوں آ ماں دسیا
+شبیر دے گل تے خنجر تے زہر حسن دا تکیا
+مینوں ہن شام دیاں بابے دی موت چوں راہواں نظر آؤندیاں
 
-3
-Gal La Ke Rondiyaan Veraan Nu Zainab, Kulsoom Aye Aakhan.
-Asaan Babay Baad Way Kinj Jeena Ro Ro Ke Wain Aye Pawan.
-Maa V Chad Ke Tur Gayi Baba V Chaliya Aye Veraan Nu Aye Kendiyaan.
-Sar Chum Ke Piyo Da Loko Dhiyaan Ne Ro Farmaya.
+۳
+گل لا کے روندیاں ویراں نوں زینب، کلثوم اے آکھن
+اساں بابے بعد وے کِنج جینا رو رو کے وین اے پاون
+ماں وی چھڈ کے تر گئی بابا وی چلیا اے ویراں نوں اے کہندیاں
+سر چم کے پیو دا لوکو دھیاں نے رو فرمایا
 
-4
-Babay Da Pak Janaza Jadon Aan Bhirawaan Chaya.
-Haye Wasna Nahin Kadi Hun Wehra Meri Maa Da Ainj Wain Aye Paondiyan.
-Hath Pa Rasiyaan Ban Qaidi Haye Baaj Bhirawaan Jana.
-Ainj Qaid Nibhani Dhiyaan Kuj Qaidaan Wich Mar Jana.
+۴
+بابے دا پاک جنازہ جدوں آں بھراواں چایا
+ہائے وسنا نہیں کدی ہن ویہڑا میری ماں دا اینج وین اے پاؤندیاں
+ہتھ پا رسیاں بن قیدی ہائے باجھ بھراواں جانا
+اینج قید نبھانی دھیاں کجھ قیداں وچ مر جانا
 
-5
-Dhiyaan Pardesna Main Takiyaan Ne Sham Ghazi Haye Be Pardah Jandiyaan.
-Haye Baad Qatal De Nana Asaan Ainj Dunya Te Rulna.
-Asaan Shehar Wasana Karbal Tera Chad Ke Shehar Madina.
-Haal Safraan Walay Tosif Nanay Nu Aye Saina Haye Sunaondiyan.
+۵
+دھیاں پردیسناں میں تکیاں نے شام غازی ہائے بے پردہ جاندیاں
+ہائے بعد قتل دے نانا اساں اینج دنیا تے رلنا
+اساں شہر وسانا کربل تیرا چھڈ کے شہر مدینہ
+حال سفراں والے توصیف نانے نوں اے سیناں ہائے سناؤندیاں

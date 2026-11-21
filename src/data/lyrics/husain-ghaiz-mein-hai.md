@@ -18,7 +18,7 @@ romanLyrics: |-
   Saath Shabbir ke jitne haiṅ sabhi ghaiz meiṅ haiṅ
   Aisa lagta hai sawa laakh Nabi ghaiz meiṅ haiṅ
   Apni talwaar se baazi ye palat dega Husain
-  Aaj maidaan ko jahannum meiṅ ulat dega Husain
+  Aaj maidaan ko jahannam meiṅ ulat dega Husain
 
   2
   Faisla kun mere Maula ki laraai hogi
@@ -32,7 +32,7 @@ romanLyrics: |-
   Abhi khul jaayega Shabbir akele kya haiṅ
   Haashmi sher ke aage ye darinde kya haiṅ
   Saamne qaamat-e-tauhid ke bole kya haiṅ
-  Shaam ke surma apne ko samajhte kya haiṅ
+  Shaam ke surmaa apne ko samajhte kya haiṅ
   Hoga is shaan se hamla Asad-e-Taalib ka
   Kalma parh parh ke mareṅge ye Abu Taalib ka
 
@@ -40,9 +40,9 @@ romanLyrics: |-
   Ho gayi jang pe aamaada Khuda ki qudrat
   Ghaiz ko de ke jagah hat gayi pichhe rehmat
   Pyaar se baat ki lekin nahiṅ samjhi ummat
-  Chhe mahine se bohat shor tha baiat baiat
+  Chhe mahine se bahut shor tha baiat baiat
   Tegh kuchh der meiṅ jab Ibn-e-Ali kholega
-  Koi baiat to kuja "be" bhi nahiṅ bolega
+  Koi baiat to kujaa "be" bhi nahiṅ bolega
 
   5
   Aastinoṅ ko ulatte haiṅ Husain Ibn-e-Ali
@@ -54,11 +54,11 @@ romanLyrics: |-
 
   6
   Murtajiz bola mujhe bhi nahiṅ aata hai qaraar
-  Shah ki nusrat ke liye maiṅ huṅ azal se tayyaar
+  Shah ki nusrat ke liye main huṅ azal se tayyaar
   Dekh chehre pe numaayaaṅ hai ghazab ke aasaar
-  Jhuraata huṅ maiṅ khaak apne sumoṅ se har baar
+  Jharaata huṅ main khaak apne sumoṅ se har baar
   Shaamiyoṅ ko hai bataani mujhe had baiat ki
-  Paaoṅ se khod raha huṅ maiṅ lahad baiat ki
+  Paaoṅ se khod raha huṅ main lahad baiat ki
 
   7
   Allah Allah re Shabbir ki aafat ka jalaal
@@ -66,18 +66,18 @@ romanLyrics: |-
   Asr se pehle hua jaata hai lashkar ka zawaal
   Shimr Khauli Umar-e-Saad sabhi behaal
   Khauf se aata nahiṅ hai Bin-e-Kaahil ran meiṅ
-  Chhupe phirte haiṅ Alam daar ke qaatil ran meiṅ
+  Chhupe phirte haiṅ Alamdaar ke qaatil ran meiṅ
 
   8
   Keh ke Ya Zahra jo Maula ne nikaali talwaar
   Dar gaye dekh ke kuchh log niraali talwaar
   Kuchh ne choroṅ ki tarah pichhe chhupa li talwaar
   Boli ye Shaam ke lashkar se jalaali talwaar
-  Waar se apne sabhi fitne karuṅgi tukre
-  Gin na paayegi qaza itne karuṅgi tukre
+  Waar se apne sabhi fitne karuṅ gi tukre
+  Gin na paayegi qaza itne karuṅ gi tukre
 
   9
-  Afra tafri thi wo bhagdar thi wo halchal tauba
+  Afraa tafri thi wo bhagdar thi wo halchal tauba
   Khun se aisi bani dasht meiṅ daldal tauba
   Apne haalaat pe khud karta tha maqtal tauba
   Keh raha tha Malak-al-Maut musalsal tauba
@@ -97,13 +97,13 @@ romanLyrics: |-
   Sakht garmi meiṅ ajab sardi ka aalam dekha
   Khun jamte hue shariyaanoṅ meiṅ paiham dekha
   Fauj meiṅ jis ko uthaaye hue parcham dekha
-  Qatl-e-Abbaas-e-Alam daar ka qaazi ban kar
+  Qatl-e-Abbaas-e-Alamdaar ka qaazi ban kar
   Shah ne wo haath qalam kar diya Ghaazi ban kar
 
   12
   Maut bhi raqs meiṅ thi kaisa ajab tha manzar
-  Ek ambaar taraai pe tha laashoṅ ka udhar
-  Ye samaaṅ dekhne thehri hui sab ki thi nazar
+  Ek anbaar taraai pe tha laashoṅ ka udhar
+  Ye samaaṅ dekhne thahri hui sab ki thi nazar
   Khauf se nehr meiṅ jo dub gaye the jaa kar
   Maujeṅ kehti thiṅ unheṅ maar ke thokar niklo
   Dushman-e-Hazrat-e-Shabbir ho baahar niklo
@@ -112,13 +112,13 @@ romanLyrics: |-
   Dekh kar Shah ka ghazab bole farishte paiham
   Hone waali hai khudaai abhi darham barham
   Bole Jibrail na ghabraao farishto is dam
-  Khaaliq-e-arz o sama haiṅ yehi Khaaliq ki qasam
+  Khaaliq-e-arz o samaa haiṅ yehi Khaaliq ki qasam
   Kya hua aaj khudaai jo mita deṅge Husain
   Phir se duniya nayi kun keh ke bana deṅge Husain
 
   14
   Nehr bhi kehti thi ye baat yehi sehra bhi
-  Khauf ke maare hue kehte rahe aada bhi
+  Khauf ke maare hue kehte rahe aadaa bhi
   Zinda to zinda sada deta tha ye murda bhi
   Tegh bhi Haidar-e-Karraar ki hai beta bhi
   Is se bachne ki tamanna hai to lillaah parh lo
@@ -130,7 +130,7 @@ romanLyrics: |-
   Jad ka paighaam hawa laati thi shaabaash Husain
   Zaat-e-waajib bhi yehi farmaati thi shaabaash Husain
   Daad dete tere ajdaad bhi aisa larta
-  Maiṅ badan rakhta to bilkul tere jaisa larta
+  Main badan rakhta to bilkul tire jaisa larta
 ---
 
 ۱

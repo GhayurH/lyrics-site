@@ -68,7 +68,7 @@ romanLyrics: |-
   Hum musaafir haiṅ majbur haiṅ
 
   7
-  Sach hai Jawad o Mesum yehi
+  Sach hai Jawaad o Mesum yehi
   Diṅ ke mohsin hai aal-e-Nabi
   Sar Husaini rida Zainabi
   De rahe haiṅ sada aaj bhi

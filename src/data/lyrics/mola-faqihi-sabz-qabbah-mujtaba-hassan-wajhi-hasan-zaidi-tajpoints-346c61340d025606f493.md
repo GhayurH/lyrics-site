@@ -1,32 +1,54 @@
 ---
-title: "Mola Faqihi Sabz Qabbah Mujtaba Hassan Wajhi Hasan Zaidi"
+title: "مولا فقیہی سبز قبہ مجتبیٰ حسن وجہی حسن زیدی"
+alternateTitle: "Mola Faqihi Sabz Qabbah Mujtaba Hassan Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ansar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mola Faqihi sabz qabbah Mujtaba Hassan Wajhi Hasan Zaidi
+  Hai seerat-e-Rasool tera aina Hassan
+
+  1
+  Tum ne qalam ko taig ke paikar mein dhal kar
+  Dikhlaya Zulfiqar ka yeh rukh niya Hassan
+  Sab guftgu thi Nehaj-e-Balaga se iqtebas
+  Lehja tha tera lehja-e-Mushkil Kush Hassan
+
+  2
+  Tere addo ko kaise likhon main Ameer-e-Sham
+  Jab ke mere laho mein hai teri wila Hassan
+  Tare hain aasmaan pe teri gard-e-khak-e-pa
+  Sabza zameen par hai tera naqsh-e-paa Hassan
+
+  3
+  Nook-e-qalam se jang ke mani badal diye
+  Qirtas khud pukar utha marhaba Hassan
+  Ansar main jab bhi likhta hoon aousaf-e-Ahl-e-Bait
+  Rakhte hain meri pusht pa dast-e-atta Hassan
 ---
 
-Mola Faqihi Sabz Qabbah Mujtaba Hassan Wajhi Hasan Zaidi.
-Hai Seerat-e-Rasool Tera Aina Hassan.
+مولا فقیہی سبز قبہ مجتبیٰ حسن وجہی حسن زیدی
+ہے سیرتِ رسول تیرا آئینہ حسن
 
-1
-Tum Ne Qalam Ko Taig Ke Paikar Mein Dhal Kar.
-Dikhlaya Zulfiqar Ka Yeh Rukh Niya Hassan.
-Sab Guftgu Thi Nehaj-e-Balaga Se Iqtebas.
-Lehja Tha Tera Lehja-e-Mushkil Kush Hassan.
+۱
+تم نے قلم کو تیغ کے پیکر میں ڈھال کر
+دکھلایا ذوالفقار کا یہ رخ نیا حسن
+سب گفتگو تھی نہج البلاغہ سے اقتباس
+لہجہ تھا تیرا لہجۂ مشکل کش حسن
 
-2
-Tere Addo Ko Kaise Likhon Main Ameer-e-Sham.
-Jab Ke Mere Laho Mein Hai Teri Wila Hassan.
-Tare Hain Aasmaan Pe Teri Gard-e-Khak-e-Pa.
-Sabza Zameen Par Hai Tera Naqsh-e-Paa Hassan.
+۲
+تیرے عدو کو کیسے لکھوں میں امیرِ شام
+جب کہ میرے لہو میں ہے تیری ولا حسن
+تارے ہیں آسماں پہ تیری گردِ خاکِ پا
+سبزہ زمین پر ہے تیرا نقشِ پا حسن
 
-3
-Nook-e-Qalam Se Jang Ke Mani Badal Diye.
-Qirtas Khud Pukar Utha Marhaba Hassan.
- Ansar Main Jab Bhi Likhta Hoon Aousaf-e-Ahl-e-Bait.
-Rakhte Hain Meri Pusht Pa Dast-e-Atta Hassan.
+۳
+نوکِ قلم سے جنگ کے معنی بدل دیے
+قرطاس خود پکار اٹھا مرحبا حسن
+انصار میں جب بھی لکھتا ہوں اوصافِ اہلِ بیت
+رکھتے ہیں میری پشت پہ دستِ عطا حسن

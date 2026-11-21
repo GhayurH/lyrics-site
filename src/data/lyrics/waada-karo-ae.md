@@ -17,15 +17,15 @@ romanLyrics: |-
 
   1
   Ahl-e-haram ko kal se behen
-  Abbaas ban kar sambhaalogi na
+  Abbaas ban kar sambhaalo gi na
 
   2
   Ehsaan mujh par itna karo
   Mere sirhaane baithi raho
-  Kya sochti ho mujhse kaho
+  Kya sochti ho mujh se kaho
   Meri wasiyyat bhi sunti raho
-  Tum mujhko ro lo mere saamne
-  Kal se ye aansu chhupaaogi na
+  Tum mujh ko ro lo mere saamne
+  Kal se ye aansu chhupaao gi na
 
   3
   Jab bekasi ke maahaul par
@@ -33,47 +33,47 @@ romanLyrics: |-
   Naana ki ummat jab ae behen
   Khaime hamaare jalaane lage
   Jal jaaye masnad meri magar
-  Aabid ko mere bachaaogi na
+  Aabid ko mere bachaao gi na
 
   4
   Nazdik mere aao zara
   Dekho na sun le Sakina kahiṅ
-  Jaaogi jab qaid khaane meiṅ tum
+  Jaao gi jab qaid khaane mein tum
   Bichhre gi tum se ye bachchi wahiṅ
-  Zindaan meiṅ tum bandhe haath se
-  Qabr-e-Sakina banaaogi na
+  Zindaan mein tum bandhe haath se
+  Qabr-e-Sakina banaao gi na
 
   5
   Begor hoga mera badan
-  Khaak-e-shifa hogi mera kafan
+  Khaak-e-shifa ho gi mera kafan
   Dekho rona nahiṅ chain khona nahiṅ
   Tum ko mil jaaye chaadar ye hona nahiṅ
   Tum apni chaadar pyaari behen
-  Khaak-e-shifa ko banaaogi na
+  Khaak-e-shifa ko banaao gi na
 
   6
-  Apne hi haathoṅ pe laaya tha maiṅ
+  Apne hi haathoṅ pe laaya tha main
   Laasha Hasan ka tiroṅ bhara
   Mayyat ki bhaai se rote hue
   Tum ne nikaale the tir-e-jafa
   Waise hi mere laashe se tum
-  Tiroṅ ko aa kar nikaalogi na
+  Tiroṅ ko aa kar nikaalo gi na
 
   7
-  Aankhoṅ meiṅ us ke kai khwaab hai
+  Aankhoṅ mein us ke kai khwaab hai
   Tum jaanti ho wo hassaas hai
   Jo muntazir hai dehliz par
   Us ko judaai ke ehsaas hai
   Zainab hamaari majburiyaaṅ
-  Sughra ko jaa kar bataaogi na
+  Sughra ko jaa kar bataao gi na
 
   8
   Sun kar wasiyyat Shabbir ki
   Haaye Takallum wo roti rahi
   Armaan aawaaz-e-Ibn-e-Ali
   Ye kehte kehte tham si gayi
-  Pyaasoṅ ko paani pilaaogi na
-  Farsh-e-aza tum bichhaaogi na
+  Pyaasoṅ ko paani pilaao gi na
+  Farsh-e-aza tum bichhaao gi na
 ---
 اے بہن زینب
 وعدہ کرو وعدہ کرو

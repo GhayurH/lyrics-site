@@ -21,11 +21,11 @@ romanLyrics: |-
 
   2
   Yazid is se bari aur kya hai teri shikast
-  Ke tere ghar meiṅ bapa hai Husain ka maatam
+  Ke tere ghar meiṅ bapaa hai Husain ka maatam
 
   3
-  Khuda Rasul farishte Imaam sab haiṅ wahaaṅ
-  Jahaaṅ kahiṅ bhi bapa hai Husain ka maatam
+  Khuda Rasul farishte imaam sab haiṅ wahaaṅ
+  Jahaaṅ kahiṅ bhi bapaa hai Husain ka maatam
 
   4
   Khabar nahiṅ hai yeh fatwe farosh mufti ko
@@ -40,12 +40,12 @@ romanLyrics: |-
   Har ek wali ne kaha hai Husain ka maatam
 
   7
-  Muqassirin ho mulla ho ya munaafiq ho
+  Muqassirin huṅ mullaa ho ya munaafiq ho
   Har ek marz ki dawa hai Husain ka maatam
 
   8
   Ghilaaf-e-khaana-e-Kaaba ko dekh kar yuṅ laga
-  Yahaṅ zarur hua hai Husain ka maatam
+  Yahaaṅ zarur hua hai Husain ka maatam
 
   9
   Ae bint-e-Faatima Zahra teri ataa ke tufail
@@ -56,7 +56,7 @@ romanLyrics: |-
   Jise khabar nahiṅ kya hai Husain ka maatam
 
   11
-  Wilae-e-Aal-e-Nabi ki tarah se Mir Hasan
+  Wilaa-e-Aal-e-Nabi ki tarah se Mir Hasan
   Mere lahu meiṅ mila hai Husain ka maatam
 ---
 وقارِ دینِ خدا ہے حسین کا ماتم

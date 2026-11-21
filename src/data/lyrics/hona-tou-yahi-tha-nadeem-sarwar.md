@@ -9,78 +9,47 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Hona Tou Yahi Tha Nadeem Sarwar"
-romanLyrics: 'Inna lillahe wa inna ilahe rajeoon
-
-  Hona to yehi tha waada to yehi tha
-
+romanLyrics: |-
+  Inna lillahi wa inna ilaihi rajiun
+  Hona to yahi tha waada to yahi tha
 
   1
-
-  Sab bikhar gaye sab ujad gaye
-
-  Mera waada to yehi tha
-
+  Sab bikhar gaye sab ujar gaye
+  Mera waada to yahi tha
 
   2
-
-  Parwardigar banda e aajis ki hai sada
-
-  De hausla sambhaal le mujhko mere khuda
-
-  Kuch bhi raha na paas mere sab bikhar gaya
-
-  Saathi koi hussain ka baaqi nahi raha
-
-  Haye sab bikhar gaye sab ujad gaye
-
+  Parwardigaar banda-e-aajiz ki hai sada
+  De hausla sambhaal le mujhko mere Khuda
+  Kuchh bhi raha na paas mere sab bikhar gaya
+  Saathi koi Husain ka baaqi nahiṅ raha
+  Haaye sab bikhar gaye sab ujar gaye
 
   3
-
   Inna lillah inna lillah
 
-
   4
-
-  Aansu ye keh rahe hai ke akbar kahan gaya
-
-  Gehwara poochta hai ke asghar kahan gaya
-
-  Baazu mera wo saani e hyder kahan gaya
-
-  Abbas ke jo saath tha wo lashkar kahan gaya
-
+  Aansuṅ ye keh rahe haiṅ ke Akbar kahaaṅ gaya
+  Gehwaara puchhta hai ke Asghar kahaaṅ gaya
+  Baazu mera woh saani-e-Haidar kahaaṅ gaya
+  Abbas ke jo saath tha woh lashkar kahaaṅ gaya
 
   5
-
-  Koi nahi raha to bhala kya jiyunga mai
-
-  Socha na tha ke jung akele ladunga mai
-
-  Kaise haram ki tanha hifazat karunga mai
-
-  Kaise namaz e asr akele padhunga mai
-
+  Koi nahiṅ raha to bhala kya jiyuṅ ga main
+  Socha na tha ke jang akele laruṅ ga main
+  Kaise haram ki tanha hifaazat karuṅ ga main
+  Kaise namaaz-e-asr akele parhuṅ ga main
 
   6
-
-  Aisa hoon bewatan ke ab apna nahi koi
-
-  Ghere huwe hai chaaron taraf se mujhe shaqi
-
-  Haye ye bekasi meri haye ye bebasi
-
-  Mai ek shab bhi chain se soya nahi kabhi
-
+  Aisa huṅ bewatan ke ab apna nahiṅ koi
+  Ghere hue haiṅ chaaroṅ taraf se mujhe shaqi
+  Haaye ye bekasi meri haaye ye bebasi
+  Main ek shab bhi chain se soya nahiṅ kabhi
 
   7
-
-  Maana ke lut gaya era ghar baar ay khuda
-
-  Lekin tere nabi ke nawase ki hai dua
-
-  Mai is tarha se haq e shahadat karun ada
-
-  Zinda rahe dilon mein hamesha ye karbala'
+  Maana ke lut gaya mera ghar baar ae Khuda
+  Lekin tere nabi ke nawaase ki hai dua
+  Main is tarah se haq-e-shahaadat karuṅ ada
+  Zinda rahe diloṅ mein hamesha ye Karbala
 ---
 
 انا لللہ وانا الیہ راجعون

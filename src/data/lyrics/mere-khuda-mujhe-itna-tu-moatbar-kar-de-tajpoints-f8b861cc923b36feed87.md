@@ -1,31 +1,52 @@
 ---
-title: "Mere Khuda Mujhe Itna Tu Moatbar Kar De"
+title: "میرے خدا مجھے اتنا تو معتبر کر دے"
+alternateTitle: "Mere Khuda Mujhe Itna Tu Moatbar Kar De"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mere Khuda mujhe itna tu moatbar kar de
+  Main jiss makaan mein rehta hoon iss ko ghar kar de
+
+  1
+  Yeh roshni ke taaqub mein bhagta howa din
+  Jo thak giya hai tu ab iss ko mukhtasir kar de
+  Main zindagi ki dua mangne laga hoon bohat
+  Jo ho sake tu duaon ko be asar kar de
+
+  2
+  Sitarah-e-sehri dobne ko aya hai
+  Zara koi mere soraj ko bakhabar kar de
+  Qabila waar kamanein karakne wali hain
+  Mere laho ki gawahi mujhe nadar kar de
+
+  3
+  Main apne khowab se kat kar jiyon tu mere Khuda
+  Ujar de mere mitti ko darbadar kar de
+  Meri zameen mera aakhri hawalah hai
+  So main rahoon na rahoon iss ko barwar kar de
 ---
 
-Mere Khuda Mujhe Itna Tu Moatbar Kar De.
-Main Jiss Makaan Mein Rehta Hoon iss Ko Ghar Kar De.
+میرے خدا مجھے اتنا تو معتبر کر دے
+میں جس مکان میں رہتا ہوں اس کو گھر کر دے
 
-1
-Yeh Roshni Ke Taaqub Mein Bhagta Howa Din.
-Jo Thak Giya Hai Tu Ab Iss Ko Mukhtasir Kar De.
-Main zindagi Ki Dua Mangne Laga Hoon Bohat.
-Jo Ho Sake Tu Duaon Ko Be Asar Kar De.
+۱
+یہ روشنی کے تعاقب میں بھاگتا ہوا دن
+جو تھک گیا ہے تو اب اس کو مختصر کر دے
+میں زندگی کی دعا مانگنے لگا ہوں بہت
+جو ہو سکے تو دعاؤں کو بے اثر کر دے
 
-2
-Sitarah-e-Sehri Dobne Ko Aya Hai.
-Zara Koi Mere Soraj Ko Bakhabar Kar De.
-Qabila Waar Kamanein Karakne Wali Hain.
-Mere Laho Ki Gawahi Mujhe Nadar Kar De.
+۲
+ستارۂ سحری ڈوبنے کو آیا ہے
+ذرا کوئی میرے سورج کو باخبر کر دے
+قبیلہ وار کمانیں کڑکنے والی ہیں
+میرے لہو کی گواہی مجھے نادار کر دے
 
-3
-Main Apne Khowab Se Kat Kar Jiyon Tu Mere Khuda.
-Ujar De Mere Mitti Ko Darbadar Kar De.
-Meri Zameen Mera Aakhri Hawalah Hai.
-So Main Rahoon Na Rahoon Iss Ko Barwar Kar De.
+۳
+میں اپنے خواب سے کٹ کر جیوں تو میرے خدا
+اجاڑ دے میرے مٹی کو دربدر کر دے
+میری زمین میرا آخری حوالہ ہے
+سو میں رہوں نہ رہوں اس کو بارور کر دے

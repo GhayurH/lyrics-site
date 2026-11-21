@@ -1,40 +1,70 @@
 ---
 title: "بابا تیرے باجوں تیری دھیاں رل گئیاں"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+alternateTitle: "Baba Tere Bajon Teriyan Dhiyaan Rul Gaiyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Baba tere bajon teriyan dhiyaan hai rulgaiyaan
+
+  1
+  Sanu Kufa raas na aya aja Baba des paraya dhiyaan rondiyan payiyaan
+
+  2
+  Pehlay shahi de vich Baba teriyan dhiyan Kufay ayiyaan
+  Aj hai ayiyaan ban ke qaiday waikhlay akay dard satayiyaan
+  Sir te pathraan da mii jari Abid saday naal muhari khutbay pardi payiyaan
+
+  3
+  Ibne Muljam vich sajday de Mola te hai zarb chalayi
+  Kibraeen ne arash farash te ro ro ke avaaz uthayi
+  Sun ke qatal ay tera Baba Rab janay ay tayriyaan dhiyaan kivien jundiyaan rayiyaan
+
+  4
+  Pehlay ral ke qatal hai kitta maa Zahra nu ummat Baba
+  Teray naal he qatal hai howi aj nanay di sunnat Baba
+  Aj sara asman hai ronda her para Quran da ronda satraan rondiyaan payiyaan
+
+  5
+  Jaira Baba tera sajda vich masjid na hoya pora
+  Sir katva ke vich sajday de oh Shabbir ne kitta pura
+  Naizay te Quran sunaya apna sara ghar lutvaya na he chadraan rayiyaan
+
+  6
+  Hai Mumtaz dua Shahid di Zahra de ghum khaar tu aja
+  Leh ke jag te Mola Mehdi Haider di talwar tu aja
+  Ro ro her momin diyan nazraan Mola Mehdi teriyaan her dam ravaan takdiyaan payiyaan
 ---
 
-Baba Tere Bajon Teriyan Dhiyaan Hai Rulgaiyaan
+بابا تیرے باجوں تیریاں دھیاں ہے رل گئیاں
 
-1
-Sanu Kufa Raas Na Aya Aja Baba Des Paraya Dhiyaan Rondiyan Payiyaan
+۱
+سانوں کوفہ راس نہ آیا آجا بابا دیس پرایا دھیاں روندیاں پئیاں
 
-2
-Pehlay Shahi De Vich Baba Teriyan Dhiyan Kufay Ayiyaan
-Aj Hai Ayiyaan Ban Ke Qaiday Waikhlay Akay Dard Satayiyaan
-Sir Te Pathraan Da Mii Jari Abid Saday Naal Muhari Khutbay Pardi Payiyaan
+۲
+پہلے شاہی دے وچ بابا تیریاں دھیاں کوفے آئیاں
+اج ہے آئیاں بن کے قیدے ویکھ لے آ کے درد ستائیاں
+سر تے پتھراں دا مِیں جاری عابد ساڈے نال مہاری خطبے پڑھدی پئیاں
 
-3
-Ibne Muljam Vich Sajday De Mola Te Hai Zarb Chalayi
-Kibraeen Ne Arash Farash Te Ro Ro Ke Avaaz Uthayi
-Sun Ke Qatal Ay Tera Baba Rab Janay Ay Tayriyaan Dhiyaan Kivien Jundiyaan Rayiyaan
+۳
+ابنِ ملجم وچ سجدے دے مولا تے ہے ضرب چلائی
+کبرائیں نے عرش فرش تے رو رو کے آواز اٹھائی
+سن کے قتل اے تیرا بابا رب جانے اے تیریاں دھیاں کیویں جیوندیاں رہیاں
 
-4
-Pehlay Ral Ke Qatal Hai Kitta Maa Zahra Nu Ummat Baba
-Teray Naal He Qatal Hai Howi Aj Nanay Di Sunnat Baba
-Aj Sara Asman Hai Ronda Her Para Quran Da Ronda Satraan Rondiyaan Payiyaan
+۴
+پہلے رل کے قتل ہے کیتا ماں زہرا نوں امت بابا
+تیرے نال ہی قتل ہے ہوئی اج نانے دی سنت بابا
+اج سارا آسمان ہے روندا ہر پارہ قرآن دا روندا سطراں روندیاں پئیاں
 
-5
-Jaira Baba Tera Sajda Vich Masjid Na Hoya Pora
-Sir Katva Ke Vich Sajday De Oh Shabbir Ne Kitta Pura
-Naizay Te Quran Sunaya Apna Sara Ghar Lutvaya Na He Chadraan Rayiyaan
+۵
+جیڑا بابا تیرا سجدہ وچ مسجد نہ ہویا پورا
+سر کٹوا کے وچ سجدے دے اوہ شبیر نے کیتا پورا
+نیزے تے قرآن سنایا اپنا سارا گھر لٹوایا نہ ہی چادراں رہیاں
 
-6
-Hai Mumtaz Dua Shahid Di Zahra De Ghum Khaar Tu Aja
-Leh Ke Jag Te Mola Mehdi Haider Di Talwar Tu Aja
-Ro Ro Her Momin Diyan Nazraan Mola Mehdi Teriyaan Her Dam Ravaan Takdiyaan Payiyaan
+۶
+ہے ممتاز دعا شاہد دی زہرا دے غم خوار توں آجا
+لے کے جگ تے مولا مہدی حیدر دی تلوار توں آجا
+رو رو ہر مومن دیاں نظراں مولا مہدی تیریاں ہر دم راواں تکدیاں پئیاں

@@ -33,10 +33,10 @@ romanLyrics: |-
   Barehna sar hai Ali ki beti
   Magar wohi azmat-e-Muhammad
   Wo jis ki khaatir bhara hua ghar
-  Luta ke karbal se aa rahi hai
+  Luta ke Karbal se aa rahi hai
 
   4
-  Pukaari dasht-e-bala meiṅ Zainab
+  Pukaari dasht-e-Bala meiṅ Zainab
   Kahaaṅ ho Abbas laut aao
   Utha ke haathoṅ meiṅ khaali kuza
   Sakina tum ko bula rahi hai
@@ -45,7 +45,7 @@ romanLyrics: |-
   Bujha ke paikaaṅ se pyaas apni
   Tu garam reti pe so raha hai
   Tujhe khayaaloṅ meiṅ ab bhi Asghar
-  Rabab jhula jhula rahi hai
+  Rabab jhula jhulaa rahi hai
 
   6
   Dayaar-e-Shaam o dayaar-e-Kufa
@@ -60,8 +60,8 @@ romanLyrics: |-
   Bas ek nauha suna rahi hai
 
   8
-  Janab-e-Adam janab-e-Isa
-  Janab-e-Maryam janab-e-Zehra
+  Janaab-e-Aadam janaab-e-Isa
+  Janaab-e-Maryam janaab-e-Zehra
   Husain ibn-e-Ali ke gham meiṅ
   Ajal bhi aaṅsu baha rahi hai
 
@@ -78,7 +78,7 @@ romanLyrics: |-
   Hai laash-e-Asghar utha rahi hai
 
   11
-  Ajab hai Karb-o-Bala ka manzar
+  Ajab hai Karb o Bala ka manzar
   Ravaaṅ hai Shah ke gale pe khanjar
   Arsh bhi karwat badal raha hai
   Sakina aaṅsu baha rahi hai
@@ -86,7 +86,7 @@ romanLyrics: |-
   12
   Husain maidaan-e-Karbala meiṅ
   Ajib moti luta rahe haiṅ
-  Jawaan bete bhatije bhaai
+  Jawaan bete, bhatije, bhaai
   Ki laasheiṅ tanha utha rahe haiṅ
 
   13
@@ -141,7 +141,7 @@ romanLyrics: |-
   Kamaal sajda Husain tera
   Tamaam nabiyoṅ pe chha gaya hai
   Yuṅ zikr tera malaaikoṅ meiṅ
-  Teri ibaadat ki ja rahi hai
+  Teri ibaadat ki jaa rahi hai
 ---
 
 حسین تیرے لہو کی خوشبو

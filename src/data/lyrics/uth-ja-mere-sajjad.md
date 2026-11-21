@@ -28,7 +28,7 @@ romanLyrics: |-
   Ammaṅ ka haath gale par tha
   Dur se dekha tha maiṅ ne
   Maqtal meiṅ sukhi gardan par
-  Jab Shimr ne tera waar kiye
+  Jab Shimr ne teraṅ waar kiye
   Woh bhai mera waawaila
   Maara gaya pyaasa waawaila
   Jis bhai par qurbaan hui
@@ -52,10 +52,10 @@ romanLyrics: |-
   Na mahmil hai na haudaj hai
   Na lashkar ki woh saj dhaj hai
   Jab haath bandheṅ ge gardan se
-  Ghazi aayega yaad
+  Ghaazi aaye ga yaad
 
   4
-  Bemaqna o chaadar naaqe se
+  Bemaqna o chaadar naaqat se
   Hameṅ jaana hai Sajjad jahaaṅ
   Ae laal suno kaise hoga
   Saadaat ka istiqbaal wahaaṅ
@@ -76,8 +76,8 @@ romanLyrics: |-
 
   6
   Ash Shaam ash Shaam ash Shaam suna
-  Aur aankheṅ kholiṅ Abid ne
-  Zainab ne kaha ae Zishan o
+  Aur aankheṅ kholiṅ Aabid ne
+  Zainab ne kaha ae Zishaan o
   Irfan sahaara dete hue
   Maqtal meiṅ pare un laashoṅ ka
   Chehlum karne un pyaasoṅ ka

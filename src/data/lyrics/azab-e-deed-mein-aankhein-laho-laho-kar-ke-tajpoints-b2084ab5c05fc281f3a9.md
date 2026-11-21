@@ -1,38 +1,66 @@
 ---
-title: "Azab-e-Deed Mein Aankhein Laho Laho Kar Ke"
+title: "عذابِ دید میں آنکھیں لہو لہو کر کے"
+alternateTitle: "Azab-e-Deed Mein Aankhein Laho Laho Kar Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mohsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Azab-e-deed mein aankhein laho laho kar ke
+  Main sharamsar howa teri justjo kar ke
+
+  1
+  Khandar ki teh se bureedah badan saron ke siwa
+  Mila na kuch bhi khizano ki arzo kar ke
+  Suna hai shehar mein zakhmi dilo ka mela hai
+  Chalein gaye hum bhi magar pairahn raho kar ke
+
+  2
+  Musafat-e-shab-e-hijraan ke baad bhaid khula
+  Hawa dukhi hai cheragon ko be aabro kar ke
+  Zameen ki piyas ossi ke laho ko chaat gayi
+  Woh khush howa tha samandar ko aab jo kar ke
+
+  3
+  Yeh kis ne hum se laho ka khiraj phir manga
+  Abhi tu soye the maqtal ko sarkhuro kar ke
+  Juloos-e-ahl-e-wafa kis ke dar pe pohancha hai
+  Nishan-e-tooq-e-wafa zeenat-e-gulu kar kar ke
+
+  4
+  Ujaar rut ko ghulabi banaye rakhti hai
+  Hamari aankh teri deed wozo kar ke
+  Koi tu habs-e-hawa se ye pochta Mohsin
+  Mila hai kya osse kaliyon ko be namo kar ke
 ---
 
-Azab-e-Deed Mein Aankhein Laho Laho Kar Ke.
-Main Sharamsar Howa Teri Justjo Kar Ke.
+عذابِ دید میں آنکھیں لہو لہو کر کے
+میں شرمسار ہوا تیری جستجو کر کے
 
-1
-Khandar Ki Teh Se Bureedah Badan Saron Ke Siwa.
-Mila Na Kuch Bhi Khizano Ki Arzo Kar Ke.
-Suna Hai Shehar Mein Zakhmi Dilo Ka Mela Hai.
-Chalein Gaye Hum Bhi Magar Pairahn Raho Kar Ke.
+۱
+کھنڈر کی تہ سے بریدہ بدن سروں کے سوا
+ملا نہ کچھ بھی خزاؤں کی آرزو کر کے
+سنا ہے شہر میں زخمی دلوں کا میلہ ہے
+چلے گئے ہم بھی مگر پیرہن رفو کر کے
 
-2
-Musafat-e-Shab-e-Hijraan Ke Baad Bhaid Khula.
-Hawa Dukhi Hai Cheragon Ko Be Aabro Kar Ke.
-Zameen Ki Piyas Ossi Ke Laho Ko Chaat Gayi.
-Woh Khush Howa Tha Samandar Ko Aab Jo Kar Ke.
+۲
+مسافتِ شبِ ہجراں کے بعد بھید کھلا
+ہوا دکھی ہے چراغوں کو بے آبرو کر کے
+زمین کی پیاس اسی کے لہو کو چاٹ گئی
+وہ خوش ہوا تھا سمندر کو آبِ جو کر کے
 
-3
-Yeh Kis Ne Hum Se Laho Ka Khiraj Phir Manga.
-Abhi Tu Soye The Maqtal Ko Sarkhuro Kar Ke.
-Juloos-e-Ahl-e-Wafa Kis Ke Dar Pe Pohancha Hai.
-Nishan-e-Tooq-e-Wafa Zeenat-e-Gulu Kar Kar Ke.
+۳
+یہ کس نے ہم سے لہو کا خراج پھر مانگا
+ابھی تو سوئے تھے مقتل کو سرخرو کر کے
+جلوسِ اہلِ وفا کس کے در پہ پہنچا ہے
+نشانِ طوقِ وفا زینتِ گلو کر کر کے
 
-4
-Ujaar Rut Ko Ghulabi Banaye Rakhti Hai.
-Hamari Aankh Teri Deed Wozo Kar Ke.
-Koi Tu Habs-e-Hawa Se Ye Pochta Mohsin.
-Mila Hai Kya Osse Kaliyon Ko Be Namo Kar Ke.
+۴
+اجاڑ رت کو گلابی بنائے رکھتی ہے
+ہماری آنکھ تیری دید وضو کر کے
+کوئی تو حبسِ ہوا سے یہ پوچھتا محسن
+ملا ہے کیا اسے کلیوں کو بے نمو کر کے

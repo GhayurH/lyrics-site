@@ -23,12 +23,12 @@ romanLyrics: |-
   2
   Jahaaṅ pe pyaas se beshir tera rota raha
   Jahaaṅ pe nanhe mujaahid ke tir maara gaya
-  Jahaaṅ pe qata hua tha tera bayaan Husain
+  Jahaaṅ pe qata hua tha tira bayaan Husain
 
   3
-  Jahaaṅ hue the tere bhaai ke qalam baazu
+  Jahaaṅ hue the tire bhaai ke qalam baazu
   Jahaaṅ kiya tha alamdaar ne lahu se wuzu
-  Jahaaṅ hua tha tera sher nim jaan Husain
+  Jahaaṅ hua tha tira sher nim jaan Husain
 
   4
   Jahaaṅ pe tukroṅ meiṅ bikhra hua tha ik dulha
@@ -37,8 +37,8 @@ romanLyrics: |-
 
   5
   Jahaaṅ pe khatm hua tha Husain tera safar
-  Jahaaṅ pe khushk gale par tere chala khanjar
-  Jahaaṅ mitaaya gaya tha tera nishaan Husain
+  Jahaaṅ pe khushk gale par tire chala khanjar
+  Jahaaṅ mitaaya gaya tha tira nishaan Husain
 
   6
   Jahaaṅ pe koi na tha aasra ghariboṅ ka
@@ -47,8 +47,8 @@ romanLyrics: |-
 
   7
   Jahaaṅ pe Gohar-e-gham tashna lab the sehme hue
-  Jahaaṅ tamaanche lage the teri Sakina ke
-  Tere yatim jahaaṅ par the beamaan Husain
+  Jahaaṅ tamaanche lage the tiri Sakina ke
+  Tire yatim jahaaṅ par the beamaan Husain
 ---
 وہاں پہ روتا ہے خوں اب بھی آسمان حسین
 جہاں پہ لوٹا گیا تیرا کاروان حسین

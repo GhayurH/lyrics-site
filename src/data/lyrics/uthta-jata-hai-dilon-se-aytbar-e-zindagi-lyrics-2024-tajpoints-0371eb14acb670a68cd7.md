@@ -1,35 +1,60 @@
 ---
-title: "Uthta Jata Hai Dilon Se Aytbar E Zindagi Lyrics 2024"
+title: "اٹھتا جاتا ہے دلوں سے اعتبارِ زندگی"
+alternateTitle: "Uthta Jata Hai Dilon Se Aytbar-e-Zindagi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Uthta jata hai dilon se aytbar e zindagi Hasnain Akbar
+  Jane kab ghaibat se aaye ga bahar e zindagi
+  Al-Ajal ke naam par inn uthtey hathoon ke tofail
+  Hum uthaye phirtay hain seeno pe bar-e-zindagi
+
+  2
+  Aye Khudawanda fishar-e-qabar tu apni jagah
+  Muntazir dil ne jo kata hai fishar-e-zindagi?
+  Jane kab darya pe roshan ho charag-e-inteqam
+  Jane kis din khatam hoga intezar-e-zindagi
+
+  3
+  Kar diya hai Malik-e-Kausar ne oss ko munjamid
+  Aaj tak tehra howa hai aabshar e zindagi
+  Neema e Shabaan se le kar Neema e Shaban tak
+  Ik arezay se jura rehta hai taar e zindagi
+
+  4
+  Be gul-e-ashk-e-nadamat be charag-e-Al-Ajal
+  Regzar e la pata mein hai mazar-e-zindagi
+  Karbala se ab bhi Akbar hai shaheedon ki sada
+  Maut ke dil mein abhi baqi hai khar e zindagi
 ---
 
-1
-Uthta Jata Hai Dilon Se Aytbar e Zindagi Hasnain Akbar
-Jane Kab Ghaibat Se Aaye Ga Bahar e Zindagi.
-Al-Ajal Ke Naam Par Inn Uthtey Hathoon Ke Tofail.
-Hum Uthaye Phirtay Hain Seeno Pe Bar-e-Zindagi.
+۱
+اٹھتا جاتا ہے دلوں سے اعتبارِ زندگی حسنین اکبر
+جانے کب غیبت سے آئے گا بہارِ زندگی
+العجل کے نام پر ان اٹھتے ہاتھوں کے طفیل
+ہم اٹھائے پھرتے ہیں سینوں پہ بارِ زندگی
 
-2
-Aye Khudawanda Fishar-e-Qabar Tu Apni Jagah.
-Muntazir Dil Ne Jo Kata Hai Fishar-e-Zindagi?
-Jane Kab Darya Pe Roshan Ho Charag-e-Inteqam.
-Jane Kis Din Khatam Hoga Intezar-e-Zindagi.
+۲
+اے خداوندا فشارِ قبر تو اپنی جگہ
+منتظر دل نے جو کاٹا ہے فشارِ زندگی؟
+جانے کب دریا پہ روشن ہو چراغِ انتقام
+جانے کس دن ختم ہوگا انتظارِ زندگی
 
-3
-Kar Diya Hai Malik-e-Kausar Ne Oss Ko Munjamid.
-Aaj Tak Tehra Howa Hai Aabshar e Zindagi.
-Neema e Shabaan Se Le Kar Neema e Shaban Tak.
-Ik Arezay Se Jura Rehta Hai Taar e Zindagi.
+۳
+کر دیا ہے مالکِ کوثر نے اس کو منجمد
+آج تک ٹھہرا ہوا ہے آبشارِ زندگی
+نیمۂ شعبان سے لے کر نیمۂ شعبان تک
+اک عریضے سے جڑا رہتا ہے تارِ زندگی
 
-4
-Be Gul-e-Ashk-e-Nadamat Be Charag-e-Al-Ajal.
-Regzar e La Pata Mein Hai Mazar-e-Zindagi.
-Karbala Se Ab Bhi Akbar Hai Shaheedon Ki Sada.
-Maut Ke Dil Mein Abhi Baqi Hai Khar e Zindagi.
+۴
+بے گلِ اشکِ ندامت بے چراغِ العجل
+ریگزارِ لاپتا میں ہے مزارِ زندگی
+کربلا سے اب بھی اکبر ہے شہیدوں کی صدا
+موت کے دل میں ابھی باقی ہے خارِ زندگی

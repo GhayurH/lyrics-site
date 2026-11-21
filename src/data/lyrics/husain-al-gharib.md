@@ -17,75 +17,75 @@ romanLyrics: |-
 
   1
   Duhai duhai Khudaya duhai
-  Yeh dasht-e bala meiṅ hai kaisi tabahi
-  Bahaya hai kis ne yeh khun-e Muhammad
-  Qayamat yeh dhai hai kis ne Ilahi
+  Yeh dasht-e-bala meiṅ hai kaisi tabahi
+  Bahaya hai kis ne yeh khun-e-Muhammad
+  Qayamat yeh dhaai hai kis ne Ilahi
 
-  Jawanoṅ buzurgoṅ ko mara gaya hai
+  Jawaanoṅ buzurgoṅ ko maara gaya hai
   Shahidoṅ meiṅ shamil hai nanha sipahi
 
   2
-  Kiya jashn barpa yuṅ ahl-e hawas ne
-  Shahidoṅ ke lashoṅ pe danke bajaye
-  Jala dale Aal-e Muhammad ke khaime
-  Sakina ke munh par tamache lagaye
+  Kiya jashn barpa yuṅ ahl-e-hawas ne
+  Shahidoṅ ke laashoṅ pe danke bajaye
+  Jala daale Aal-e-Muhammad ke khaime
+  Sakina ke munh par tamaache lagaye
 
   Jo bimar tha us ka bistar na chhora
   Nabi-zadiyoṅ par bhi darre lagaye
 
   3
-  Uthi apne marqad se bint-e Muhammad
-  Siyah shab ki chadar meiṅ chehra chhupa kar
+  Uthi apne marqad se bint-e-Muhammad
+  Siyah shab ki chaadar meiṅ chehra chhupa kar
   Gayi Karbala meiṅ to us ne yeh dekha
-  Hai bosida kurte meiṅ ek lash-e besar
+  Hai bosida kurte meiṅ ik laash-e-be-sar
 
-  Badan sara tiroṅ se chhalni para hai
-  Lahu meiṅ hai duba hua sara paikar
+  Badan saara tiroṅ se chhalni para hai
+  Lahu meiṅ hai duba hua saara paikar
 
   4
   Tarap kar woh chillayi Shabbir beta
   Lahu meiṅ nahaye ho sar bhi juda hai
-  Tabar kis ne mare haiṅ sare badan par
+  Tabar kis ne maare haiṅ saare badan par
   Yeh tiroṅ pe kis ne janaza rakha hai
 
   Kahaṅ hai mera laal Abbas bolo
-  Maiṅ puchungi us se yeh kaise hua hai
+  Maiṅ puchhungi us se yeh kaise hua hai
 
   5
-  Sada sun ke Zahra ki tharraye Ghazi
-  Juda tan se sar tha to shane kate the
+  Sadaa sun ke Zahra ki tharraye Ghazi
+  Juda tan se sar tha to shaane kate the
   Gham o yaas o hasrat meiṅ majruh o muztar
   Kahiṅ kya ke darya kinare pare the
 
-  Su-e Alqama ab jo Bibi ne dekha
-  Wafaoṅ ke sahil pe jhande gare the
+  Su-e-Alqama ab jo Bibi ne dekha
+  Wafaoṅ ke saahil pe jhande gare the
 
   6
   Idhar dard o gham ki satayi thi Zainab
   Jo wehshat ke jungle meiṅ Haider bani thi
   Kabhi khaak urati kabhi ashk piti
-  Jo kumbe ke pehre pe tanha khari thi
+  Jo kunbe ke pehre pe tanha khari thi
 
-  Sakina ke saqqa ko awaz de kar
-  Gham-e Shah-e Din meiṅ buka kar rahi thi
+  Sakina ke saqqa ko aawaaz de kar
+  Gham-e-Shaah-e-Din meiṅ bukaa kar rahi thi
 
   7
-  Guzarish hai Aqa hamari yahi
+  Guzarish hai Aaqa hamaari yahi
   Hum ko roze pe Maula bula lijiye
   Hum ko zawwar Maula bana lijiye
-  Hum ko daman meiṅ Maula chhupa lijiye
+  Hum ko daaman meiṅ Maula chhupa lijiye
 
-  Giraftar-e jaur o sitam hum hue
+  Giraftaar-e-jaur o sitam hum hue
   Musibat se hum ko bacha lijiye
 
   8
-  Kabhi dil meiṅ deti woh maa ko sadayeṅ
+  Kabhi dil meiṅ deti woh maaṅ ko sadaayeṅ
   Kabhi ro ke kehti ke Baba kahaṅ ho
-  Shahidoṅ ka noha tha us ki zaban par
-  Abad kis tarah us ke gham ka bayaṅ ho
+  Shahidoṅ ka noha tha us ki zabaan par
+  Abad kis tarah us ke gham ka bayaaṅ ho
 
-  Hameiṅ bhi saadat ho nusrat ki hasil
-  Khudara zuhur-e Imam-e Zamaṅ ho
+  Hameiṅ bhi saadat ho nusrat ki haasil
+  Khudaara zuhur-e-Imaam-e-Zamaaṅ ho
 ---
 
 حسینؑ الغریب الغریب الحسینؑ

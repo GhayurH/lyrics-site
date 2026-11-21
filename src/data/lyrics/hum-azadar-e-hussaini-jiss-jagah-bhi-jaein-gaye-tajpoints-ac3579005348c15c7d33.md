@@ -1,32 +1,54 @@
 ---
-title: "Hum Azadar E Hussaini Jiss Jagah Bhi Jaein Gaye"
+title: "ہم عزادارِ حسینی جس جگہ بھی جائیں گے"
+alternateTitle: "Hum Azadar-e-Hussaini Jiss Jagah Bhi Jaein Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hum azadar-e-Hussaini jiss jagah bhi jaein gaye
+  Ghar pe apne parcham-e-Abbas ko lehraein gaye
+
+  1
+  Sham ki tareekaan barhne na dein gaye hum kabhi
+  Khoon ke roshan diyon se roshani pehlaein gaye
+  Ab aseer-e-Karbala ki beriyaan tu kat chukein
+  Ab Yazeed-e-waqt ko hum beriyaan pehnaein gaye
+
+  2
+  Saye mein hoon gaye alam ke rooz-e-mehshar matami
+  Youn azadaron pe Mula khud karam farmaein gaye
+  Muntaqim Karb-o-Bala ka aaye ga jab dahar mein
+  Matami Shabir ke dono jahan par chahein gaye
+
+  3
+  Jab Wajhi parh kar sunaein gaye Hussain manqabat
+  Khuld wale bhi samaat ko yahan par aaein gaye
+  Tum tu Akhtar manqabat, noha likho yeh soch kar
+  Apne roze par tumhein Shabir khud bulwaein gaye
 ---
 
-Hum Azadar-e-Hussaini Jiss Jagah Bhi Jaein Gaye.
-Ghar Pe Apne Parcham-e-Abbas Ko Lehraein Gaye.
+ہم عزادارِ حسینی جس جگہ بھی جائیں گے
+گھر پہ اپنے پرچمِ عباس کو لہرائیں گے
 
-1
-Sham Ki Tareekaan Barhne Na Dein Gaye Hum Kabhi.
-Khoon Ke Roshan Diyon Se Roshani Pehlaein Gaye.
-Ab Aseer-e-Karbala Ki Beriyaan Tu Kat Chukein.
-Ab Yazeed-e-Waqt Ko Hum Beriyaan Pehnaein Gaye.
+۱
+شام کی تاریکیاں بڑھنے نہ دیں گے ہم کبھی
+خون کے روشن دیوں سے روشنی پھیلائیں گے
+اب اسیرِ کربلا کی بیڑیاں تو کٹ چکیں
+اب یزیدِ وقت کو ہم بیڑیاں پہنائیں گے
 
-2
-Saye Mein Hoon Gaye Alam Ke Rooz-e-Mehshar Matami.
-Youn Azadaron Pe Mula Khud Karam Farmaein Gaye.
-Muntaqim Karb-o-Bala Ka Aaye Ga Jab Dahar Mein.
-Matami Shabir Ke Dono Jahan Par Chahein Gaye.
+۲
+سائے میں ہوں گے علم کے روزِ محشر ماتمی
+یوں عزاداروں پہ مولا خود کرم فرمائیں گے
+منتقم کرب و بلا کا آئے گا جب دہر میں
+ماتمی شبیر کے دونوں جہاں پر چھائیں گے
 
-3
-Jab Wajhi Parh Kar Sunaein Gaye Hussain Manqabat.
-Khuld Wale Bhi Samaat Ko Yahan Par Aaein Gaye.
-Tum Tu Akhtar Manqabat,Noha Likho Yeh Soch Kar.
-Apne Roze Par Tumhein Shabir Khud Bulwaein Gaye.
+۳
+جب وجہی پڑھ کر سنائیں گے حسین منقبت
+خلد والے بھی سماعت کو یہاں پر آئیں گے
+تم تو اختر منقبت، نوحہ لکھو یہ سوچ کر
+اپنے روضے پر تمہیں شبیر خود بلوائیں گے

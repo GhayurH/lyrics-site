@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Tum apne jad ke makaaṅ meiṅ ho ae dayaar nahiṅ
-  Husain mujh ko zamaane ka aetbaar nahiṅ
+  Husain mujh ko zamaane ka aitbaar nahiṅ
   Hai saath Saani-e-Zehra Husain ruk jaao
 
   2
@@ -51,7 +51,7 @@ romanLyrics: |-
   Hai saath baali Sakina Husain ruk jaao
 
   8
-  Lain phirte haiṅ ehraam meiṅ liye khanjar
+  La'in phirte haiṅ ihraam meiṅ liye khanjar
   Tum apni behnoṅ ko le aao Kaabe ke andar
   Har ek simt hai khatra Husain ruk jaao
 

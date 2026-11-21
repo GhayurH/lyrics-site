@@ -1,56 +1,101 @@
 ---
-title: "Hussain Kehty Huway Syed Mohammad Shah"
+title: "حسین کہتے ہوئے سید محمد شاہ"
+alternateTitle: "Hussain Kehty Huway Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hussain kehty huway Syed Mohammad Shah
+  Chala hoon janib-e-Kaba Hussain kehte hoye
+
+  1
+  Khuda se aaj milon ga Hussain kehte hoye
+  Sipahi doortay jate hain janib-e-Kofa
+  Panah mang rahe they ke kholo darwaza
+  Kiya hai Ghazi ne hamla Hussain kehte hoye
+
+  2
+  Pul-e-Sirat ka dar ho tu ho bhala kaisay
+  Zamana dekh le Ashor Karbala ja ke
+  Guzarti jati hai dunya Hussain kehte hoye
+  Karein gaye khon ka matam baroz-e-Ashora
+
+  3
+  Khuda se hum ko issi wastay tu manga gaya
+  Humein hai maon ne pala Hussain kehte hoye
+  Adhora chor ke Hajj Karbala jo aaye they
+  Kharey hain gird woh Bint-e-Ali ke khaimay ke
+
+  4
+  Tawaf kartay hain pora Hussain kehte hoye
+  Kaha Hussain ne marna nahi Habib abhi
+  Ke Karbala mein zarorat paray gi mujh ko teri
+  Habib ho gaya zindah Hussain kehte hoye
+
+  5
+  Agar ho ahl-e-Tawala mitao yeh tafreeq
+  Namaz ho ya azza mil ke hoon gay sare shareek
+  Uthao tum bhi qama Ya Hussain kehte hoye
+  Yehi waseela hai sari duaon ka behtar
+
+  6
+  Pukaro bhai ko bhai ka wasta de kar
+  Hasan se mang lo sadqa Hussain kehte hoye
+  Tamam ghar howa khushiyon se aaj bagh-o-bahar
+  Padar ke samne boli hai beti pehli bar
+
+  7
+  Sakina aayi hai Baba Hussain kehte hoye
+  Hai mera shair wasiyat banam-e-ahl-e-azza
+  Yeh iltija hai ke Akbar ko aaye jab bhi qaza
+  Uthana mera janaza Hussain kehte hoye
 ---
 
-Hussain Kehty Huway Syed Mohammad Shah.
-Chala Hoon Janib-e-Kaba Hussain Kehte Hoye.
+حسین کہتے ہوئے سید محمد شاہ
+چلا ہوں جانبِ کعبہ حسین کہتے ہوئے
 
-1
-Khuda Se Aaj Milon Ga Hussain Kehte Hoye.
-Sipahi Doortay Jate Hain Janib-e-Kofa.
-Panah Mang Rahe They Ke Kholo Darwaza.
-Kiya Hai Ghazi Ne Hamla Hussain Kehte Hoye.
+۱
+خدا سے آج ملوں گا حسین کہتے ہوئے
+سپاہی دوڑتے جاتے ہیں جانبِ کوفہ
+پناہ مانگ رہے تھے کہ کھولو دروازہ
+کیا ہے غازی نے حملہ حسین کہتے ہوئے
 
-2
-Pul-e-Sirat Ka Dar Ho Tu Ho Bhala Kaisay.
-Zamana Dekh Le Ashor Karbala Ja Ke.
-Guzarti Jati Hai Dunya Hussain Kehte Hoye.
-Karein Gaye Khon Ka Matam Baroz-e-Ashora.
+۲
+پلِ صراط کا ڈر ہو تو ہو بھلا کیسے
+زمانہ دیکھ لے عاشور کربلا جا کے
+گزرتی جاتی ہے دنیا حسین کہتے ہوئے
+کریں گے خون کا ماتم بروزِ عاشورا
 
-3
-Khuda Se Hum Ko Issi Wastay Tu Manga Gaya.
-Humein Hai Maon Ne Pala Hussain Kehte Hoye.
-Adhora Chor Ke Hajj Karbala Jo Aaye They.
-Kharey Hain Gird Woh Bint-e-Ali Ke Khaimay Ke.
+۳
+خدا سے ہم کو اسی واسطے تو مانگا گیا
+ہمیں ہے ماؤں نے پالا حسین کہتے ہوئے
+ادھورا چھوڑ کے حج کربلا جو آئے تھے
+کھڑے ہیں گرد وہ بنتِ علی کے خیمے کے
 
-4
-Tawaf Kartay Hain Pora Hussain Kehte Hoye.
-Kaha Hussain Ne Marna Nahi Habib Abhi.
-Ke Karbala Mein Zarorat Paray Gi Mujh Ko Teri.
-Habib Ho Gaya Zindah Hussain Kehte Hoye.
+۴
+طواف کرتے ہیں پورا حسین کہتے ہوئے
+کہا حسین نے مرنا نہیں حبیب ابھی
+کہ کربلا میں ضرورت پڑے گی مجھ کو تیری
+حبیب ہو گیا زندہ حسین کہتے ہوئے
 
-5
-Agar Ho Ahl-e-Tawala Mitao Yeh Tafreeq.
-Namaz Ho Ya Azza Mil Ke Hoon Gay Sare Shareek.
-Uthao Tum Bhi Qama Ya Hussain Kehte Hoye.
-Yehi Waseela Hai Sari Duaon Ka Behtar.
+۵
+اگر ہو اہلِ تولّا مٹاؤ یہ تفریق
+نماز ہو یا عزا مل کے ہوں گے سارے شریک
+اٹھاؤ تم بھی قمہ یا حسین کہتے ہوئے
+یہی وسیلہ ہے ساری دعاؤں کا بہتر
 
-6
-Pukaro Bhai Ko Bhai Ka Wasta De Kar.
-Hasan Se Mang Lo Sadqa Hussain Kehte Hoye.
-Tamam Ghar Howa Khushiyon Se Aaj Bagh-o-Bahar.
-Padar Ke Samne Boli Hai Beti Pehli Bar.
+۶
+پکارو بھائی کو بھائی کا واسطہ دے کر
+حسن سے مانگ لو صدقہ حسین کہتے ہوئے
+تمام گھر ہوا خوشیوں سے آج باغ و بہار
+پدر کے سامنے بولی ہے بیٹی پہلی بار
 
-7
-Sakina Aayi Hai Baba Hussain Kehte Hoye.
-Hai Mera Shair Wasiyat Banam-e-Ahl-e-Azza.
-Yeh Iltija Hai Ke Akbar Ko Aaye Jab Bhi Qaza.
-Uthana Mera Janaza Hussain Kehte Hoye.
+۷
+سکینہ آئی ہے بابا حسین کہتے ہوئے
+ہے میرا شعر وصیت بنامِ اہلِ عزا
+یہ التجا ہے کہ اکبر کو آئے جب بھی قضا
+اٹھانا میرا جنازہ حسین کہتے ہوئے

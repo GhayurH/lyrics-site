@@ -1,44 +1,77 @@
 ---
-title: "Uth Maa Tainu Main Qaidaan Walay Sarey Haal Sunawaan Lyrics In Punjabi 2022"
+title: "اُٹھ ماں تینوں میں قیداں والے سارے حال سناواں"
+alternateTitle: "Uth Maa Tainu Main Qaidaan Walay Sarey Haal Sunawaan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Uth maa tainu main qaidaan walay sarey haal sunawaan
+  Karbal taun Sham taein teri dhiyaan mangdi rayiyaan ro ro ke ridawaan
+
+  1
+  Maan si mainu jidda haye mera Ghazi bhira
+  Muk aasaan meri gayiyaan jadon lathiya zeen taun haye katwa ke oh banwaan
+  Piyo da seena labdi tere Shabeer di dhi
+  Haye qaidaan wich oh mar gayi zindaan muka chadiyan ujari diyaan sahwaan
+
+  2
+  Keeti maa Fizza wafa ban di rayi pardah mera
+  Tere naal jo si kita maa wadah rayi nibhandi rayi kardi wafawaan
+  Ghar choon bahir na kadi jo gayi Bint-e-Ali
+  Iss deen di baqa layi rayi ruldi wekhiyaan main pathreliyaan rahwaan
+
+  3
+  Ki sunawaan wakhrey hoya Qasim tukray
+  Qabar-e-Hasan te aayi kitay wain Zahra jayi ki veer dasawaan
+  La ke Sughra nu galay bibi ro ro ke kehway
+  Na murya veer Akbar gaya pyasa tera Asghar nayi aouna bhirawaan
+
+  4
+  Nezay te aaya nazar tere Shabeer da sar
+  Bagi di bhain keh ke haye kitiyaan ummat ne pathraan diyaan chawaan
+  Roi jad Bint-e-Ali qabar Zahra di hali
+  Na dagh chupa Zainab hathaan te rasiyaan walay tere sadqay main jawaan
+
+  5
+  De mainu maa pursa toon mere putraan da
+  Main Aoun-o-Muhammad ne Akbar taun waar choray sun dukhra sunawaan
+  Mainu pehchan zara tera Abid haan bhira
+  Sughra nu la ke seene Sajjad, Maula Abid ro bharday ne hawaan
 ---
 
-Uth Maa Tainu Main Qaidaan Walay Sarey Haal Sunawaan.
-Karbal Taun Sham Taein Teri Dhiyaan Mangdi Rayiyaan Ro Ro Ke Ridawaan.
+اُٹھ ماں تینوں میں قیداں والے سارے حال سناواں
+کربل توں شام تائیں تیری دھیاں منگدی رہیاں رو رو کے رداواں
 
-1
-1- Maan Si Mainu Jidda Haye Mera Ghazi Bhira.
-Muk Aasaan Meri Gayiyaan Jadon Lathiya Zeen Taun Haye Katwa Ke Oh Banwaan.
-2- Piyo Da Seena Labdi Tere Shabeer Di Dhi.
-Haye Qaidaan Wich Oh Mar Gayi Zindaan Muka Chadiyan Ujari Diyaan Sahwaan.
+۱
+مان سی مینوں جیدا ہائے میرا غازی بھرا
+مک آساں میری گئیاں جدوں لتھیا زین توں ہائے کٹوا کے اوہ بانواں
+پیو دا سینہ لبھدی تیرے شبیر دی دھی
+ہائے قیداں وچ اوہ مر گئی زنداں مکا چھڈیاں اُجاڑی دیاں ساہواں
 
-2
-3- Keeti Maa Fizza Wafa Ban Di Rayi Pardah Mera.
-Tere Naal Jo Si Kita Maa Wadah Rayi Nibhandi Rayi Kardi Wafawaan.
-4- Ghar Choon Bahir Na Kadi Jo Gayi Bint-e-Ali.
-Iss Deen Di Baqa Layi Rayi Ruldi Wekhiyaan Main Pathreliyaan Rahwaan.
+۲
+کیتی ماں فضہ وفا بن دی رہی پردہ میرا
+تیرے نال جو سی کیتا ماں وعدہ رہی نبھاندی رہی کردی وفاواں
+گھر چوں باہر نہ کدی جو گئی بنتِ علی
+اِس دین دی بقا لئی رہی رُلدی ویکھیاں میں پتھریلیاں راہواں
 
-3
-5- Ki Sunawaan Wakhrey Hoya Qasim Tukray.
-Qabar-e-Hasan Te Aayi Kitay Wain Zahra Jayi Ki Veer Dasawaan.
-6- La Ke Sughra Nu Galay Bibi Ro Ro Ke Kehway.
-Na Murya Veer Akbar Gaya Pyasa Tera Asghar Nayi Aouna Bhirawaan.
+۳
+کی سناواں وکھرے ہویا قاسم ٹکڑے
+قبرِ حسن تے آئی کِتے وین زہرا جائی کی ویر دساواں
+لا کے صغرا نوں گلے بی بی رو رو کے کہوے
+نہ مُڑیا ویر اکبر گیا پیاسا تیرا اصغر نئیں آؤنا بھراواں
 
-4
-7- Nezay Te Aaya Nazar Tere Shabeer Da Sar.
-Bagi Di Bhain Keh Ke Haye Kitiyaan Ummat Ne Pathraan Diyaan Chawaan.
-8- Roi Jad Bint-e-Ali Qabar Zahra Di Hali.
-Na Dagh Chupa Zainab Hathaan Te Rasiyaan Walay Tere Sadqay Main Jawaan.
+۴
+نیزے تے آیا نظر تیرے شبیر دا سر
+باغی دی بھین کہہ کے ہائے کیتیاں اُمت نے پتھراں دیاں چھاواں
+روئی جد بنتِ علی قبر زہرا دی ہلی
+نہ داغ چھپا زینب ہتھاں تے رسیاں والے تیرے صدقے میں جاواں
 
-5
-9- De Mainu Maa Pursa Toon Mere Putraan Da.
-Main Aoun-o-Muhammad Ne Akbar Taun Waar Choray Sun Dukhra Sunawaan.
-10- Mainu Pehchan Zara Tera Abid Haan Bhira.
-Sughra Nu La Ke Seene Sajjad, Maula Abid Ro Bharday Ne Hawaan.
+۵
+دے مینوں ماں پرسا توں میرے پتراں دا
+میں عون و محمد نے اکبر توں وار چھوڑے سُن دُکھڑا سناواں
+مینوں پہچان ذرا تیرا عابد ہاں بھرا
+صغرا نوں لا کے سینے سجاد، مولا عابد رو بھردے نے ہواواں

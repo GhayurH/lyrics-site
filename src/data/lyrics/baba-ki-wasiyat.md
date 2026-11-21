@@ -11,35 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ekkis ki shabe aakhri saansoṅ ka hai qissa
-  Aulaad ko hasrat se ali maula ne dekha
-  Dil phatne laga dekha jo zainab ne ye girya
-  Maula ne tarapte huwe ghazi ko pukara
-  Bole ke ae abbas bhale jaan lutaana
-  Ye hukm mera aakhri dam tak na bhulana
-  Baba ki wasiyat hai isa dil meiṅ basa le
-  Ghazi meri zainab ki rida tere hawaale
-  Abbas tum ab uski rida ban ke dikhana
-  Kurte tere jisne hai bari dayr sambhale
-  Baba ki wasiyat hai...
-  Zainab ke kabhi nakshe dekho to ghazi
-  Suraj se bhi kehna ke nazar apni hataale
-  Baba ki wasiyat hai...
-  Shabbir se zainab ko bicharne nahi dena
-  Zehra ne ye dono hai bare naaz se paale
-  Baba ki wasiyat hai...
-  Zainab ne suna roke kaha baba ne ghazi
-  Zanjir na zainab ke koi haath meiṅ daale
-  Baba ki wasiyat hai...
-  Zainab ne kaha baba mere ghazi ke hote
-  Jurrat hai kise koi mujhe qaidi banale
-  Baba ki wasiyat hai...
-  Maula ne kaha waqt hai badal jaate hai beti
-  Ehsaas nahi karte kabhi lutne waale
-  Baba ki wasiyat hai...
-  Ghazi ne kaha john mai tab tak hoo muhafiz
+  Ikkis ki shab aakhri saansoṅ ka hai qissa
+  Aulaad ko hasrat se Ali Maula ne dekha
+  Dil phatne laga dekha jo Zainab ne ye girya
+  Maula ne tarapte hue Ghazi ko pukaara
+  Bole ke ae Abbas bhale jaan lutaana
+  Ye hukm mera aakhri dam tak na bhulaana
+  Baba ki wasiyat hai ise dil meiṅ basa le
+  Ghazi meri Zainab ki rida tere hawaale
+  Abbas tum ab us ki rida ban ke dikhaana
+  Kurte tere jis ne haiṅ bari der sambhaale
+  Baba ki wasiyat...
+  Zainab ke kabhi naqsh-e-qadam dekho to Ghazi
+  Suraj se bhi kehna ke nazar apni hata le
+  Baba ki wasiyat...
+  Shabbir se Zainab ko bichharne nahiṅ dena
+  Zaahira ne ye donoṅ haiṅ bare naaz se paale
+  Baba ki wasiyat...
+  Zainab ne suna ro ke kaha Baba ne Ghazi
+  Zanjir na Zainab ke koi haath meiṅ daale
+  Baba ki wasiyat...
+  Zainab ne kaha Baba mere Ghazi ke hote
+  Jurat hai kise koi mujhe qaidi bana le
+  Baba ki wasiyat...
+  Maula ne kaha waqt badal jaate haiṅ beti
+  Ehsaas nahiṅ karte kabhi lutne wale
+  Baba ki wasiyat...
+  Ghazi ne kaha John main tab tak huṅ muhaafiz
   Jab tak ye mere baazu koi kaat na daale
-  Baba ki wasiyat hai...
+  Baba ki wasiyat...
 ---
 
 ۱

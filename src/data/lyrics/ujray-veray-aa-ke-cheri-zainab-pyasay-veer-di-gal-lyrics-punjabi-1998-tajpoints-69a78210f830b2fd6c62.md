@@ -1,38 +1,65 @@
 ---
-title: "Ujray Veray Aa Ke Cheri Zainab Pyasay Veer Di Gal Lyrics Punjabi 1998"
+title: "اجڑے ویہڑے آ کے چھیڑی زینب پیاسے ویر دی گل"
+alternateTitle: "Ujray Veray Aa Ke Cheri Zainab Pyasay Veer Di Gal"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Nisar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ujray veray aa ke cheri Zainab pyasay veer di gal
+  Sun ke Sughra na mar jaway nanay di tasveer di gal
+
+  1
+  Wain karey Zainab kurlaway koi na meri chadar laway
+  Pak Nabi de wastay paway sunrda kaun aseer di gal
+  Qabar bana ke tazi tazi Rab apne nu kar ke razi
+  Sajday jhukya pak namazi fair chiri shamsheer di gal
+
+  2
+  Zainab rondi te gash khandi Ghazi jiyonda main mar jandi
+  Main mar jandi te na sundi mashk paroye teer di gal
+  Aakhri welay Zahra jaya zeen taun farsh zameen te aaya
+  Jane Rab ki rah wich hoi teraan naal Shabbir di gal
+
+  3
+  Matam kardi sir nu pitdi Sughra Sughra keh ke rondi
+  Bhain Yousuf di jay sun laindi Akbar di humsheer di gal
+  Darya darya sahil sahil basti basti jangal jangal
+  Aa ke sunai manzil manzil Zainab pyasay veer di gal
+
+  4
+  Lut jaway pawein sehra mehndi janj v pawein ik na rendi
+  Kash kadi tareekh na kaindi Zainab di tasheer di gal
+  Wekh Nisar ajab rawaiyya aakhdi si aoulad-e-Umayyah
+  Taigaan teraan rasiyaan wali sari si taqdeer di gal
 ---
 
-Ujray Veray Aa Ke Cheri Zainab Pyasay Veer Di Gal.
-Sun Ke Sughra Na Mar Jaway Nanay Di Tasveer Di Gal.
+اجڑے ویہڑے آ کے چھیڑی زینب پیاسے ویر دی گل
+سن کے صغریٰ نہ مر جاوے نانے دی تصویر دی گل
 
-1
-Wain Karey Zainab Kurlaway Koi Na Meri Chadar Laway.
-Pak Nabi De Wastay Paway Sunrda Kaun Aseer Di Gal.
-Qabar Bana Ke Tazi Tazi Rab Apne Nu Kar Ke Razi.
-Sajday Jhukya Pak Namazi Fair Chiri Shamsheer Di Gal.
+۱
+وین کرے زینب کرلاوے کوئی نہ میری چادر لاوے
+پاک نبی دے واسطے پاوے سنڑدا کون اسیر دی گل
+قبر بنا کے تازی تازی رب اپنے نوں کر کے راضی
+سجدے جھکیا پاک نمازی فیر چھڑی شمشیر دی گل
 
-2
-Zainab Rondi Te Gash Khandi Ghazi Jiyonda Main Mar Jandi.
-Main Mar Jandi Te Na Sundi Mashk Paroye Teer Di Gal.
-Aakhri Welay Zahra Jaya Zeen Taun Farsh Zameen Te Aaya.
-Jane Rab Ki Rah Wich Hoi Teraan Naal Shabbir Di Gal.
+۲
+زینب روندی تے غش کھاندی غازی جیوندا میں مر جاندی
+میں مر جاندی تے نہ سندی مشک پروئے تیر دی گل
+آخری ویلے زہرا جایا زین توں فرش زمین تے آیا
+جانے رب کی راہ وچ ہوئی تیراں نال شبیر دی گل
 
-3
-Matam Kardi Sir Nu Pitdi Sughra Sughra Keh Ke Rondi.
-Bhain Yousuf Di Jay Sun Laindi Akbar Di Humsheer Di Gal.
-Darya Darya Sahil Sahil Basti Basti Jangal Jangal.
-Aa Ke Sunai Manzil Manzil Zainab Pyasay Veer Di Gal.
+۳
+ماتم کردی سر نوں پٹدی صغریٰ صغریٰ کہہ کے روندی
+بھین یوسف دی جے سن لیندی اکبر دی ہمشیر دی گل
+دریا دریا ساحل ساحل بستی بستی جنگل جنگل
+آ کے سنائی منزل منزل زینب پیاسے ویر دی گل
 
-4
-Lut Jaway Pawein Sehra Mehndi Janj V Pawein Ik Na Rendi.
-Kash Kadi Tareekh Na Kaindi Zainab Di Tasheer Di Gal.
-Wekh Nisar Ajab Rawaiyya Aakhdi Si Aoulad-e-Umayyah.
-Taigaan Teraan Rasiyaan Wali Sari Si Taqdeer Di Gal.
+۴
+لٹ جاوے بھاویں سہرا مہندی جنج وی بھاویں اک نہ رہندی
+کاش کدی تاریخ نہ کیندی زینب دی تشہیر دی گل
+ویکھ نثار عجب رویہ آکھدی سی اولادِ امیہ
+تیغاں تیراں رسیاں والی ساری سی تقدیر دی گل

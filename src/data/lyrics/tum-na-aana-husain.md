@@ -17,7 +17,7 @@ romanLyrics: |-
   Tum na aana Husain
   Tum na aana Husain
 
-  Ae rone waloṅ tha waqt-e-aakhir
+  Ae rone waloṅ waqt-e-aakhir
   Muslim ke lab par ye nauha
   Tum na aana Husain
   Haalaat achchhe nahiṅ haiṅ yahaaṅ
@@ -25,18 +25,18 @@ romanLyrics: |-
   Tum na aana Husain
 
   1
-  Kuchh naize waloṅ se maiṅ ne suna
+  Kuchh naize waloṅ se main ne suna
   Akbar ke sine ki karte the baat
   Talwaar wale ye kehte mile
-  In se hi kaateṅge Ghaazi ke haath
+  In se hi kaateṅ ge Ghaazi ke haath
   Khanjar ko chamka rahe haiṅ yahaaṅ
   Sab naam le kar tumhaara
   Tum na aana Husain
 
   2
-  Ye soch kar kaamp jaata huṅ maiṅ
+  Ye soch kar kaamp jaata huṅ main
   Hai aap ke saath meiṅ bibiyaaṅ
-  Kaise bataauṅ jo maiṅ ne suna
+  Kaise bataauṅ jo main ne suna
   Zainab kahaaṅ beridaai kahaaṅ
   Bas ye duaa hai salaamat rahe
   Aulaad-e-Zehra ka parda
@@ -48,24 +48,24 @@ romanLyrics: |-
   Toaa ko jis waqt durre lage
   Yaad aayi Muslim ko sayyidaaniyaaṅ
   Zehra ki surat Khuda na kare
-  Khaaye Sakina tamaache
+  Khaaye Sakina tamaanche
   Tum na aana Husain
 
   4
   Pehle bhi aayi thi bint-e-Ali
   Ho kar yatima yahaaṅ se gayi
   Ab us ke sar par nahiṅ hai koi
-  Tum ko hua kuchh to mar jaayegi
+  Tum ko hua kuchh to mar jaaye gi
   Kufa nahiṅ raas aaya use
   Zainab ko le kar dubaara
   Tum na aana Husain
 
   5
   Un ki to maaṅ bhi nahiṅ hai yahaaṅ
-  Jaane kahaaṅ hoṅge bachche mere
+  Jaane kahaaṅ hoṅ ge bachche mere
   Daarul amaara se huṅ dhundta
   Aa jaaye shaayad nazar wo mujhe
-  Lekin maiṅ rota huṅ ye soch kar
+  Lekin main rota huṅ ye soch kar
   Asghar hai un se bhi chhota
   Tum na aana Husain
 

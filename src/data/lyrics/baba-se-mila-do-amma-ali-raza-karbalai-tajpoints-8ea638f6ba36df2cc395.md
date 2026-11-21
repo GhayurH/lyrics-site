@@ -1,46 +1,82 @@
 ---
-title: "Baba Se Mila Do Amma Ali Raza Karbalai"
+title: "بابا سے ملا دو اماں علی رضا کربلائی"
+alternateTitle: "Baba Se Mila Do Amma Ali Raza Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba se mila do amma Ali Raza Karbalai
+  Aakhri bar tu baba se mila do amma
+  Dam nikalta hai mera unn ko bola do amma
+  Sunti hoon baba ka sar aaye ga zindaan mein abhi
+  Hai safar ki mere chehray pe bohat gard jami
+  Woh tarap jaein gay yeh gard hata do amma
+  Aisi zakhmi hoon woh pehchan nahi paein gay
+  Tum Sakina ho, yeh pochein gay tu ghabraein gay
+  Meri gardan se zara rasi chura do amma
+  Kitne din beet gaye baba se na baat hoi
+  Kab se beti ki na baba se mulaqaat hoi
+  Hai nishani koi unn ki tu dikha do amma
+  Kan baba na mere dekh sakein gay zakhmi
+  Main ne dekha hai keh Ramla mere dur pehne thi
+  La ke Ramla se woh dur mujh ko pinha do amma
+  Kis tarha dekhein gay baba jo meri halat hai
+  Our na seh pati ho tum bhi jo meri rangat hai
+  Mere chehray pe hain jo neel chupa do amma
+  Dadi ki tarha se mujh par hai zaeefi aayi
+  Ab saharey ke bina main bhi nahi uth sakti
+  Mujh ko tazeem mein baba ki utha do amma
+  Baba ke seene pe sotay hain na Asghar ab tu
+  Apne seene pe hi iss jagi hoi beti ko
+  De ke baba ki tarha lori sula do amma
+  Main kahon gi tu bohat roein gay sun kar bhayya
+  Jan thi jis mein chacha jan ki our maan mera
+  Keh ke Sajjad se woh mashk manga do amma
+  Mujh ko lagta hai main ab our na jee paon gi
+  Na watan jaon gi zindaan mein hi mar jaon gi
+  Mere jeene ki hai manat tu barha do amma
+  Bibi kehti thin Asad zakhmi hai mera chehra
+  Dekh kar roshni mein seh na sakein gay baba
+  Jal rahi hai koi shama tu bhuja do amma
 ---
 
-1
-Baba Se Mila Do Amma Ali Raza Karbalai.
-Aakhri Bar Tu Baba Se Mila Do Amma.
-Dam Nikalta Hai Mera Unn Ko Bola Do Amma.
-Sunti Hoon Baba Ka Sar Aaye Ga Zindaan Mein Abhi.
-Hai Safar Ki Mere Chehray Pe Bohat Gard Jami.
-Woh Tarap Jaein Gay Yeh Gard Hata Do Amma.
-Aisi Zakhmi Hoon Woh Pehchan Nahi Paein Gay.
-Tum Sakina Ho, Yeh Pochein Gay Tu Ghabraein Gay.
-Meri Gardan Se Zara Rasi Chura Do Amma.
-Kitne Din Beet Gaye Baba Se Na Baat Hoi.
-Kab Se Beti Ki Na Baba Se Mulaqaat Hoi.
-Hai Nishani Koi Unn Ki Tu Dikha Do Amma.
-Kan Baba Na Mere Dekh Sakein Gay Zakhmi.
-Main Ne Dekha Hai Keh Ramla Mere Dur Pehne Thi.
-La Ke Ramla Se Woh Dur Mujh Ko Pinha Do Amma.
-Kis Tarha Dekhein Gay Baba Jo Meri Halat Hai.
-Our Na Seh Pati Ho Tum Bhi Jo Meri Rangat Hai.
-Mere Chehray Pe Hain Jo Neel Chupa Do Amma.
-Dadi Ki Tarha Se Mujh Par Hai Zaeefi Aayi.
-Ab Saharey Ke Bina Main Bhi Nahi Uth Sakti.
-Mujh Ko Tazeem Mein Baba Ki Utha Do Amma.
-Baba Ke Seene Pe Sotay Hain Na Asghar Ab Tu.
-Apne Seene Pe Hi Iss Jagi Hoi Beti Ko.
-De Ke Baba Ki Tarha Lori Sula Do Amma.
-Main Kahon Gi Tu Bohat Roein Gay Sun Kar Bhayya.
-Jan Thi Jis Mein Chacha Jan Ki Our Maan Mera.
-Keh Ke Sajjad Se Woh Mashk Manga Do Amma.
-Mujh Ko Lagta Hai Main Ab Our Na Jee Paon Gi.
-Na Watan Jaon Gi Zindaan Mein Hi Mar Jaon Gi.
-Mere Jeene Ki Hai Manat Tu Barha Do Amma.
-Bibi Kehti Thin Asad Zakhmi Hai Mera Chehra.
-Dekh Kar Roshni Mein Seh Na Sakein Gay Baba.
-Jal Rahi Hai Koi Shama Tu Bhuja Do Amma.
+۱
+بابا سے ملا دو اماں علی رضا کربلائی
+آخری بار تو بابا سے ملا دو اماں
+دم نکلتا ہے میرا ان کو بلا دو اماں
+سنتی ہوں بابا کا سر آئے گا زنداں میں ابھی
+ہے سفر کی میرے چہرے پہ بہت گرد جمی
+وہ تڑپ جائیں گے یہ گرد ہٹا دو اماں
+ایسی زخمی ہوں وہ پہچان نہیں پائیں گے
+تم سکینہ ہو، یہ پوچھیں گے تو گھبرائیں گے
+میری گردن سے ذرا رسی چھڑا دو اماں
+کتنے دن بیت گئے بابا سے نہ بات ہوئی
+کب سے بیٹی کی نہ بابا سے ملاقات ہوئی
+ہے نشانی کوئی ان کی تو دکھا دو اماں
+کان بابا نہ میرے دیکھ سکیں گے زخمی
+میں نے دیکھا ہے کہ رملہ میرے دُر پہنے تھی
+لا کے رملہ سے وہ دُر مجھ کو پہنا دو اماں
+کس طرح دیکھیں گے بابا جو میری حالت ہے
+اور نہ سہ پاتی ہو تم بھی جو میری رنگت ہے
+میرے چہرے پہ ہیں جو نیل چھپا دو اماں
+دادی کی طرح سے مجھ پر ہے ضعیفی آئی
+اب سہارے کے بنا میں بھی نہیں اٹھ سکتی
+مجھ کو تعظیم میں بابا کی اٹھا دو اماں
+بابا کے سینے پہ سوتے ہیں نہ اصغر اب تو
+اپنے سینے پہ ہی اس جاگی ہوئی بیٹی کو
+دے کے بابا کی طرح لوری سلا دو اماں
+میں کہوں گی تو بہت روئیں گے سن کر بھیا
+جان تھی جس میں چچا جان کی اور مان میرا
+کہہ کے سجاد سے وہ مشک منگا دو اماں
+مجھ کو لگتا ہے میں اب اور نہ جی پاؤں گی
+نہ وطن جاؤں گی زنداں میں ہی مر جاؤں گی
+میرے جینے کی ہے منت تو بڑھا دو اماں
+بی‌بی کہتی تھیں اسد زخمی ہے میرا چہرہ
+دیکھ کر روشنی میں سہ نہ سکیں گے بابا
+جل رہی ہے کوئی شمع تو بجھا دو اماں

@@ -11,80 +11,80 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek dukhiya ka nauha tha
-  Mere kariyal jawan akbar
+  Mere kariyal jawaan Akbar
 
   1
-  Akbar akbar akbar akbar
+  Akbar Akbar Akbar Akbar
   Andhera hai qayamat ka
 
   2
-  Akbar akbar akbar akbar
-  Lagaate haath meiṅ mehendi
+  Akbar Akbar Akbar Akbar
+  Lagaate haath mein mehndi
   Rachaate dhum se shaadi
-  Magar khuṅ ka bandha sehra
+  Magar khuṅ ka bandhaa sehra
 
   3
-  Akbar akbar...
+  Akbar Akbar...
   Tasavvur jab sataata hai
-  Kaleja moo ko aata hai
+  Kaleja muṅh ko aata hai
   Bare naazoṅ se paala tha
 
   4
-  Akbar akbar...
-  Faqad dunya nahi chori
-  Kamar shabbir ki tori
+  Akbar Akbar...
+  Faqat duniya nahiṅ chhori
+  Kamar Shabbir ki tori
   Ajal se jor kar rishta
 
   5
-  Akbar akbar...
-  Batao kya batayenge
-  Ye gham kab tak chupayenge
-  Tumhe poochegi jab sughra
+  Akbar Akbar...
+  Bataao kya bataaeṅ ge
+  Ye gham kab tak chhupaaeṅ ge
+  Tumheṅ puchhe gi jab Sughra
 
   6
-  Akbar akbar...
-  Jawani khun meiṅ dubi
-  Kameini lut gayi meri
-  Diya taqdir ne dhoka
+  Akbar Akbar...
+  Jawaani khun mein dubi
+  Kamaai lut gayi meri
+  Diya taqdir ne dhokaa
 
   7
-  Akbar akbar...
+  Akbar Akbar...
   Khayaal aata hai reh reh kar
-  Meri dhaaras dil e sarwar
-  Kaaṅ laa kar tumhe khoya
+  Meri dhaaras dil-e-Sarwar
+  Kahaaṅ laa kar tumheṅ khoya
 
   8
-  Akbar akbar...
-  Zabaṅ par bas ye naale hai
-  Asir e zulm hote hai
-  Tumhe allah ko saumpa
+  Akbar Akbar...
+  Zabaaṅ par bas ye naale haiṅ
+  Asir-e-zulm hote haiṅ
+  Tumheṅ Allah ko saunpa
 
   9
-  Akbar akbar...
-  Tumhe pani na de paayi
-  Balayeiṅ tak na le paayi
-  Liye jaati hoo ye sadma
+  Akbar Akbar...
+  Tumheṅ paani na de paai
+  Balaaeṅ tak na le paai
+  Liye jaati huṅ ye sadma
 
   10
-  Akbar akbar...
+  Akbar Akbar...
   Baraati ban ke sab jaate
   Dulhan ko le ke ghar aate
   Yehi armaan tha mera
 
   11
-  Akbar akbar...
-  Kitaabeiṅ gham ki parhte hai
-  Saf e matam pe baithe hai
+  Akbar Akbar...
+  Kitaabeṅ gham ki parhte haiṅ
+  Saf-e-maatam pe baithe haiṅ
   Laboṅ par hai yehi nauha
 
   12
-  Akbar akbar...
-  Jo maa keh kar hui ruqsat
-  Raqam karta hai wo ishrat
-  Rahungi tum se sharminda
+  Akbar Akbar...
+  Jo maaṅ keh kar hui rukhsat
+  Raqam karta hai wo Ishrat
+  Rahuṅ gi tum se sharminda
 
   13
-  Akbar akbar...
+  Akbar Akbar...
 ---
 
 ایک دکھیا کا نوحہ تھا

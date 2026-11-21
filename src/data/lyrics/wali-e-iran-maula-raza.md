@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Wali-e-Iran Maula Raza
   Kijiye lillaah maalik mushkileṅ aasaan
-  Ae Ali ke laadle Fatima ki jaan
+  Ae Ali ke laadle Faatima ki jaan
 
   1
   Aap ke darbaar se khaali nahiṅ lauta koi
@@ -22,9 +22,9 @@ romanLyrics: |-
   Khalq ki haajat rawaai hai teri pehchaan
 
   2
-  Aap hai misl-e-Ali-e-Murtaza mushkil kusha
+  Aap hai misl-e-Ali-e-Murtaza mushkil kushaa
   Aap ka darbaar hai sab ke liye baab-e-ataa
-  Aap ki hai baadshaahi waaris-e-Quran
+  Aap ki hai baadshaahi waaris-e-Quraan
 
   3
   Khub langar bat raha hai aap ki sarkaar se
@@ -33,18 +33,18 @@ romanLyrics: |-
 
   4
   Jo koi laachaar ho bimaar ho Maula Raza
-  Aaye woh sehn-e-shifa meiṅ aur piye aab-e-baqa
-  Hai shifa khaana tere darbaar ka daalaan
+  Aaye woh sehn-e-shifaa mein aur piye aab-e-baqaa
+  Hai shifaa khaana tere darbaar ka daalaan
 
   5
-  Ya Raza behad huṅ sharminda maiṅ bad aamaal par
+  Ya Raza behad huṅ sharminda main bad aamaal par
   Malka-e-Qum ke tasadduq ho karam behaal par
   Huṅ muaafi ka taalib mujh pe kar ehsaan
 
   6
-  Is liye maiṅ saahib-e-ilm o hunar huṅ ya Raza
-  Naam meiṅ Yasir Raza ke naam aata hai tera
-  Maiṅ tere sadqe tere waari tere qurbaan
+  Is liye main saahib-e-ilm o hunar huṅ ya Raza
+  Naam mein Yasir Raza ke naam aata hai tera
+  Main tere sadqe tere waari tere qurbaan
 ---
 ولیِ ایران مولا رضا
 کیجیے للہ مالک مشکلیں آسان

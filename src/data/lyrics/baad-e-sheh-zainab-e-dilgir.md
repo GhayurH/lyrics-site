@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Baad-e-Sheh Zainab-e-dilgir ne kya kya dekha
-  Sumeiṅ aspoṅ ke tale bhai ka laasha dekha
+  Sum-e-aspoṅ ke tale bhaai ka laasha dekha
 
   1
   Haq parastoṅ ka wafadaaroṅ ka aur pyaaroṅ ka
@@ -20,18 +20,18 @@ romanLyrics: |-
 
   2
   Chaadareṅ chhin ke kuffaaroṅ ne luta ghar ko
-  Sar barehna Shaah-e-Laulaak ka kunba dekha
+  Sar barehna Shaah-e-Laulaak ka kunba ka dekha
 
   3
   Shimr ne chhine gohar muṅh pe tamaache maare
   Khun kaanoṅ se Sakina ke tapakta dekha
 
   4
-  Ek rasan meiṅ kiya paaband bare chhotoṅ ko
+  Ik rasan meiṅ kiya paaband bare chhotoṅ ko
   Tauq o zanjir meiṅ bimaar ko jakra dekha
 
   5
-  God se maa'oṅ ki dauraane rahe Kufa o Shaam
+  God se maaoṅ ki dauraane rahe Kufa o Shaam
   Jo bhi bachcha gira naaqe se kuchalta dekha
 
   6

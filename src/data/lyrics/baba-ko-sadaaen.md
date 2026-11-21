@@ -12,14 +12,14 @@ aliases: ["Baba Ko Sadayein"]
 published: true
 romanLyrics: |-
   Baba ko sadaaeṅ deti hai
-  Jangal meiṅ Sakina raat gaye
-  Jab kaan meiṅ us ke aati hai
+  Jangal mein Sakina raat gaye
+  Jab kaan mein us ke aati hai
   Aawaaz-e-ilayya raat gaye
 
   1
   Abbas nahiṅ Qasim bhi nahiṅ
   Akbar bhi nahiṅ Asghar bhi nahiṅ
-  Begor o kafan hai jangal meiṅ
+  Begor o kafan hai jangal mein
   Shabbir ka laasha raat gaye
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
   Jab shaam-e-gharibaṅ ko le kar
   Aashur ka suraj dub gaya
   Sajjad ko bhi bedinoṅ ne
-  Zanjir meiṅ jakra raat gaye
+  Zanjir mein jakra raat gaye
 ---
 
 بابا کو صدائیں دیتی ہے

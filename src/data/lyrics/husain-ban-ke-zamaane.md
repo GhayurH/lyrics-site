@@ -12,26 +12,26 @@ aliases: []
 published: true
 romanLyrics: |-
   Husain ban ke zamaane pe chhaa gayi Zainab
-  Zubaan-e-tegh se Kufa hila gayi Zainab
+  Zubaan-e-tegh se Kufa hilaa gayi Zainab
 
   1
   Ali ki yaad ko zinda kiya zamaane meiṅ
-  Jagah jagah pe khutbe suna gayi Zainab
+  Jagah jagah pe khutbe sunaa gayi Zainab
 
   2
   Qadam qadam pe jalaaye Husainiyat ke charaagh
-  Diye Yazid ke saare bujha gayi Zainab
+  Diye Yazid ke saare bujhaa gayi Zainab
 
   3
   Asir ho gayi dar dar phiri zamaane meiṅ
-  Husainiyat ko magar jagmaga gayi Zainab
+  Husainiyat ko magar jagmagaa gayi Zainab
 
   4
   Qasam Khuda ki ye ehsaaṅ hai Bint-e-Zehra ka
-  Hameiṅ Husain ka maatam sikha gayi Zainab
+  Hameiṅ Husain ka maatam sikhaa gayi Zainab
 
   5
-  Zaif bhaai ka gham baaṅtne ko maqtal meiṅ
+  Zaif bhaai ka gham baantne ko maqtal meiṅ
   Jawaaṅ bhatije ke laashe pe aa gayi Zainab
 ---
 حسین بن کے زمانے پہ چھا گئی زینب

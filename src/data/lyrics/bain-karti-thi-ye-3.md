@@ -9,36 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bain karti thi ye zainab ke bachao bhai
+  Bain karti thi ye Zainab ke bachao bhai
 
   1
-  Qaime jalte hai madad ke liye aao bhai
-  Balwa e aam may beparda khari hai zainab
-  Binte zehra ko layino se bachao bhai
+  Khaime jalte haiṅ madad ke liye aao bhai
+  Balwa-e-aam mein beparda khari hai Zainab
+  Bint-e-Zehra ko lainoṅ se bachao bhai
 
   2
-  Ghash may hai sayyede sajjad jale qaimon may
-  Aake bemaar ko godhi may uthao bhai
+  Ghash mein haiṅ Sayyid Sajjad jale khaimoṅ mein
+  Aa ke bimar ko godi mein uthao bhai
 
   3
-  Tum to pehchan sakoge na hamari surat
-  Apni surat hamay ek baar dikhao bhai
+  Tum to pehchaan sako ge na hamaari surat
+  Apni surat hameṅ ik baar dikhao bhai
 
   4
-  Ab to akbar hai na qasim hai na bhai abbas
-  Hai rasan basta haram inko churao bhai
+  Ab to Akbar haiṅ na Qaasim hai na bhai Abbas
+  Haiṅ rasan basta haram in ko chhurao bhai
 
   5
-  Hai gala khushk sakina ka laboṅ par dam hai
-  Pani darya se ise laake pilao bhai
+  Hai gala khushk Sakina ka laboṅ par dam hai
+  Paani darya se ise laa ke pilao bhai
 
   6
-  Hichkiyaṅ leke wo roti hai bulaati hai tumhe
-  Apne sine pe sakina ko sulao bhai
+  Hichkiyaaṅ le ke wo roti hai bulaati hai tumheṅ
+  Apne sine pe Sakina ko sulao bhai
 
   7
-  Qaid khane se ye zainab ki sada aati thi
-  Apni beti ke janaze ko uthao bhai
+  Qaid khaane se ye Zainab ki sada aati thi
+  Apne beti ke janaaze ko uthao bhai
 ---
 
 بین کرتی تھی یہ زینب کہ بچاؤ بھای

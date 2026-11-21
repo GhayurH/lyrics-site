@@ -36,7 +36,7 @@ romanLyrics: |-
   Husain laal ko apne gale lagaate haiṅ
 
   6
-  Lagaaye maaṅ hai kaleje se laasha-e-Asghar ko
+  Lagaaye maaṅ hai kaleje se laasha-e-Asghar
   Husain ret pe nanhi lahad banaate haiṅ
 
   7

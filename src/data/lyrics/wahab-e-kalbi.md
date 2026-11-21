@@ -16,26 +16,26 @@ romanLyrics: |-
   Tum par salaam ho
 
   Musalmano!
-  Husain ibn-e-Ali Rahmat-lil-Aalamin ka nawasa aur mohsin-e-insaniyat hai.
+  Husain ibn-e-Ali Rahmat-lil-Aalamin ka nawasa aur mohsin-e-insaniyat hai
   Is ki dalil ye hai ke maidan-e-Karbala meiṅ
-  Rasul-e-Khuda ka kalma parhne waaloṅ meiṅ chand jaanisaaroṅ ne
-  Haq-e-mawaddat ada karte hue pyaas meiṅ jaam-e-shahadat nosh kiya.
-  Wahiṅ Hazrat Isa ke ummatiyoṅ meiṅ ek Wahab-e-Kalbi bhi tha.
+  Rasul-e-Khuda ka kalma parhne waaloṅ meiṅ chand jaaṅ nisaaroṅ ne
+  Haq-e-mawaddat ada karte hue pyaas meiṅ jaam-e-shahadat nosh kiya
+  Wahiṅ Hazrat Isa ke ummatiyoṅ meiṅ ek Wahab-e-Kalbi bhi tha
   Wahab Karbala ka woh dulha hai jis ne apni maaṅ aur zauja ke saath
-  Khanwada-e-Husain ibn-e-Ali par apni jaan nisar kar di.
+  Khanwada-e-Husain ibn-e-Ali par apni jaan nisaar kar di
   Salaam ho Wahab ki maaṅ par, salaam ho Wahab ki maaṅ par!
   Lashkar-e-Yazid se jab use apne laal ka sar mila,
   Us ne Wahab ka sar lautate hue fakhriya andaaz se kaha:
-  Mera bachcha Husain ibn-e-Ali ka sadqa hai, aur hum sadqa waapas nahiṅ lete.
+  Mera bachcha Husain ibn-e-Ali ka sadqa hai aur hum sadqa waapas nahiṅ lete
 
   1
-  Akbar ki maa se kehti thi ro kar Wahab ki maa
+  Akbar ki maaṅ se kehti thi ro kar Wahab ki maaṅ
   Bibi mera pisar kahaaṅ Akbar tera kahaaṅ
 
   2
   Bibi ye soch kar mujhe aata nahiṅ hai chain
   Akbar ka dard dekheṅ ge kaise bhala Husain
-  Rote the wo Wahab jo ragarta tha eriyaaṅ
+  Rote the woh Wahab jo ragarta tha eriyaaṅ
 
   3
   Hum ne to kalma parh liya Akbar ko dekh kar
@@ -43,9 +43,9 @@ romanLyrics: |-
   Lagta hai mujh ko koi musalmaaṅ nahiṅ yahaaṅ
 
   4
-  Hatti nahiṅ yuṅ aap ke shehzaade se nazar
+  Hatta nahiṅ yuṅ aap ke shehzaade se nazar
   Shaadi kiye baghair hi mar jaaye ga pisar
-  Ek maa ke dil ka haal samajhti hai ek maa
+  Ek maaṅ ke dil ka haal samajhti hai ek maaṅ
 
   5
   Aansu khushi ke behne lage gham ke saath saath
@@ -59,13 +59,13 @@ romanLyrics: |-
 
   7
   Maiṅ zauja-e-Wahab se ye keh deti huṅ abhi
-  Wo bhaai keh ke laash pe Akbar ke roye gi
+  Woh bhaai keh ke laash pe Akbar ke roye gi
   Maiṅ ne suna hai Fatima Sughra nahiṅ yahaaṅ
 
   8
   Umm-e-Wahab ki laash pe Laila ne ye kaha
   Sajjad is se barh ke muqaddar ho aur kya
-  Ran meiṅ shahid ho gayi bete ke saath maa
+  Ran meiṅ shahid ho gayi bete ke saath maaṅ
 ---
 وہب کلبی عیسیٰ کے امتی
 تم پر سلام ہو

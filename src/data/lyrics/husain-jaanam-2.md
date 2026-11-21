@@ -15,7 +15,7 @@ romanLyrics: |-
   Husain jaanam Husain jaanam
   Maqtal meiṅ khule sar yehi kehti rahi maadar
   Husain jaanam Husain jaanam
-  Pyase gale pe chala haaye zulm ka khanjar
+  Pyaase gale pe chala haaye zulm ka khanjar
 
   1
   Sahra-e-Karbala meiṅ hua Zehra ka nuzul
@@ -34,12 +34,12 @@ romanLyrics: |-
 
   4
   Khanjar ko liye haathoṅ meiṅ wo Shimr chala hai
-  Pyase gale pe Shaah ke khanjar ko rakha hai
+  Pyaase gale pe Shaah ke khanjar ko rakha hai
   Ye dekh ke roti rahi Shabbir ki maadar
 
   5
   Kehte the ke ae Shimr ye Ahmad ka pisar hai
-  Aur pyaas ki shiddat se jala uska jigar hai
+  Aur pyaas ki shiddat se jala us ka jigar hai
   Paani use pila do dua deṅge Payambar
 
   6
@@ -49,17 +49,17 @@ romanLyrics: |-
 
   7
   Khuṅ aasmaaṅ se barsa udhar Karb o Bala meiṅ
-  Aur fathe ki naubat baji waaṅ ahl-e-jafa meiṅ
+  Aur Faatiha ki naubat baji waaṅ ahl-e-jafa meiṅ
   Sajjad se kehti thi utho Aabid-e-muztar
 
   8
-  Sajjad ne tab chauṅk ke sar apna uthaaya
-  Sar Hazrat-e-Shabbir ka waaṅ naize pe paaya
+  Sajjad ne tab chaunk ke sar apna uthaaya
+  Sar Hazrat-e-Shabbir ka waaṅ neze pe paaya
   Kehte the salaam aap pe ae Zehra ke dilbar
 
   9
   Farmaati thi Zehra ke mere Yusuf-e-saani
-  Pyase hi gaye duniya se paaya nahiṅ paani
+  Pyaase hi gaye duniya se paaya nahiṅ paani
   Ab khuld meiṅ naana tere deṅge tujhe Kausar
 
   10

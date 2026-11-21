@@ -1,35 +1,60 @@
 ---
-title: "Utari Hai Aaj Rab Ki Naimat Ghadeer Mein"
+title: "اتاری ہے آج رب کی نعمت غدیر میں"
+alternateTitle: "Utari Hai Aaj Rab Ki Naimat Ghadeer Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Utari hai aaj Rab ki naimat Ghadeer mein
+  Pehna Ali ne taj-e-imamat Ghadeer mein
+  Ishq-e-Ali ka jaam yeh pee kar chalo chalein
+  Dekho saji hai bazm-e-mawaddat Ghadeer mein
+
+  2
+  Pholon ki tarha momin dekho hain khil uthay
+  Utari munafiqon pe lanat Ghadeer mein
+  Sarwar ka sun ke khutba Maula ki shan mein
+  Kuch log kar rahe they shararat Ghadeer mein
+
+  3
+  Sab ka bana ke Maula Haider ko aaj tum ne
+  Sarwar nibhaya haq-e-risalat Ghadeer mein
+  Mairaj pe Ali ke our aj phir Nabi ke
+  Lehjay mein kar raha hai hidayat Ghadeer mein
+
+  4
+  Allah our Rasool ka pyara woh ho gaya
+  Jin ne bhi ki Ali ki himayat Ghadeer mein
+  Sab se bari yeh Eid hai Farman momino ki
+  Bigari munafiqon ki qismat Ghadeer mein
 ---
 
-1
-Utari Hai Aaj Rab Ki Naimat Ghadeer Mein.
-Pehna Ali Ne Taj-e-Imamat Ghadeer Mein.
-Ishq-e-Ali Ka Jaam Yeh Pee Kar Chalo Chalein.
-Dekho Saji Hai Bazm-e-Mawaddat Ghadeer Mein.
+۱
+اتاری ہے آج رب کی نعمت غدیر میں
+پہنا علی نے تاجِ امامت غدیر میں
+عشقِ علی کا جام یہ پی کر چلو چلیں
+دیکھو سجی ہے بزمِ مودّت غدیر میں
 
-2
-Pholon Ki Tarha Momin Dekho Hain Khil Uthay.
-Utari Munafiqon Pe Lanat Ghadeer Mein.
-Sarwar Ka Sun Ke Khutba Maula Ki Shan Mein.
-Kuch Log Kar Rahe They Shararat Ghadeer Mein.
+۲
+پھولوں کی طرح مومن دیکھو ہیں کھل اٹھے
+اتاری منافقوں پہ لعنت غدیر میں
+سرور کا سن کے خطبہ مولا کی شان میں
+کچھ لوگ کر رہے تھے شرارت غدیر میں
 
-3
-Sab Ka Bana Ke Maula Haider Ko Aaj Tum Ne.
-Sarwar Nibhaya Haq-e-Risalat Ghadeer Mein.
-Mairaj Pe Ali Ke Our Aj Phir Nabi Ke.
-Lehjay Mein Kar Raha Hai Hidayat Ghadeer Mein.
+۳
+سب کا بنا کے مولا حیدر کو آج تم نے
+سرور نبھایا حقِ رسالت غدیر میں
+معراج پہ علی کے اور آج پھر نبی کے
+لہجے میں کر رہا ہے ہدایت غدیر میں
 
-4
-ALLAH Our Rasool Ka Pyara Woh Ho Gaya.
-Jin Ne Bhi Ki Ali Ki Himayat Ghadeer Mein.
-Sab Se Bari Yeh EID Hai Farman Momino Ki.
-Bigari Munafiqon Ki Qismat Ghadeer Mein.
+۴
+اللہ اور رسول کا پیارا وہ ہو گیا
+جن نے بھی کی علی کی حمایت غدیر میں
+سب سے بڑی یہ عید ہے فرمان مومنوں کی
+بگڑی منافقوں کی قسمت غدیر میں

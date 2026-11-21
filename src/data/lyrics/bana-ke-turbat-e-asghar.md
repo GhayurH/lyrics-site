@@ -16,7 +16,7 @@ romanLyrics: |-
   Dil-e-Rubab chhupa kar Husain rote haiṅ
 
   1
-  Kamar shikasta hai kaise uthaaeṅge laasha
+  Kamar shikasta hai kaise uthaaeṅ ge laasha
   Utho utho Ali Akbar Husain rote haiṅ
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
   Khat apni beti ka parh kar Husain rote haiṅ
 
   3
-  Sada jo parde meiṅ atthaarah bhaaiyoṅ ke rahi
+  Sada jo parde meiṅ athaarah bhaaiyoṅ ke rahi
   Wohi behen hai khule sar Husain rote haiṅ
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
   Jhukaae sar lab-e-Kausar Husain rote haiṅ
 
   5
-  Tamaache maar raha hai koi Sakina ko
+  Tamaanche maar raha hai koi Sakina ko
   Jabhi to nok-e-sinaaṅ par Husain rote haiṅ
 
   6

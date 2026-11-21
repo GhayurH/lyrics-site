@@ -27,8 +27,8 @@ romanLyrics: |-
   Laash zindaaṅ se Sakina ki uthaai na gayi
 
   4
-  Laash andhere meiṅ Sakina ki thi mohtaaj-e-kafan
-  Shama tak Shaam ke zindaaṅ meiṅ jalaai na gayi
+  Laash andhere mein Sakina ki thi mohtaaj-e-kafan
+  Shama tak Shaam ke zindaaṅ mein jalaai na gayi
 
   5
   Karbala se hai bahut dur Sakina ka mazaar
@@ -40,10 +40,10 @@ romanLyrics: |-
 
   7
   Khatm hai Sayyid-e-Sajjad pe ye tarz-e-jafa
-  Phir imaamat kabhi kaaṅtoṅ pe chalaai na gayi
+  Phir imaamat kabhi kaantoṅ pe chalaai na gayi
 
   8
-  Baazu-e-Shaah meiṅ ik tir tha haath uth na saka
+  Baazu-e-Shaah mein ik tir tha haath uth na saka
   Laash Asghar ki kaleje se lagaai na gayi
 
   9

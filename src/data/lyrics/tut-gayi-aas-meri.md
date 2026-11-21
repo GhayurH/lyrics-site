@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Are der hui mere chacha jaaṅ ko sidhaare
   Akbar o baba haiṅ gaye nehr kinaare
-  Are amma mera halq jala pyaas ke maare
+  Are ammaaṅ mera halq jala pyaas ke maare
   Are dubte jaate haiṅ mere dil ke sahaare
 
   2
@@ -27,13 +27,13 @@ romanLyrics: |-
   Saani-e-Zehra ye buka karti haiṅ ro kar
   Tum se to dhaaras thi mujhe mere biraadar
   Baba ka farmaan hua ab to muqaddar
-  Are chhin ke le jaayeṅge aada meri chaadar
+  Are chhin ke le jaayeṅ ge aadaa meri chaadar
 
   3
   Tum sharm se khaime meiṅ bhi aaye na biraadar
   Haaye Shah laaye the jab laasha-e-Qasim ko uthaa kar
   Pit ke sar kehti haiṅ Farwa mere Abbas
-  Are qatl hua Ibn-e-Hasan maiṅ hui beaas
+  Are qatl hua Ibn-e-Hasan main hui beaas
   Are aaye na tum dene ko pursa bhi mere paas
   Are hota hai ab teri hayaa daari ka ehsaas
 
@@ -43,18 +43,18 @@ romanLyrics: |-
   Nazroṅ meiṅ phirta hai abhi tak wohi manzar
   Aashur ki shab teri wafa naqsh hai dil par
   Are kya keh ke tujhe roye kare naala ye khwaahar
-  Are ab tu hi bata de mujhe Ae mere biraadar
+  Are ab tu hi bata de mujhe ae mere biraadar
 
   5
   Asghar ki na jab dekhi gayi tishna dahaani
-  Are maiṅ ne di tasalli use aane ko hai paani
+  Are main ne di tasalli use aane ko hai paani
   Are haaye mere nanhe se Asghar ke chacha jaan
   Are Bano Shabbir bahut tujh pe thi naazaan
   Are pyaasa hi mar jaayega ab Asghar-e-naadaan
   Are jal ke ujar jaane ka bhi ho gaya saamaan
 
   6
-  Baaraat bhatije ki chacha jaayeṅge le kar
+  Baaraat bhatije ki chacha jaayeṅ ge le kar
   Are is aas meiṅ athaara baras paala tha Akbar
   Hai chaak garebaan fughaaṅ karti haiṅ Laila
   Akbar mera ab ban na sakega kabhi dulha
@@ -62,7 +62,7 @@ romanLyrics: |-
   Are kya dekhte hi dekhte ye ho gaya bhaiya
 
   7
-  Shah kehte the baaqi na raha Alamdaar na lashkar
+  Shah kehte the baaqi na raha alamdaar na lashkar
   Are Zainab ye barhaa do alam dilbar-e-Haider
   Taarikh ne maqtal meiṅ Anis jis tarah likha
   Wo sina zani aur qayaamat ka tha girya

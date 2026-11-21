@@ -36,7 +36,7 @@ romanLyrics: |-
   3
   Nikla hai jab ye chaand safar meiṅ Husain the
   Asghar ko le ke god meiṅ Shabbir ro pare
-  Kehne lage ye chaand mere laal dekh le
+  Kehne lage ye chaand mire laal dekh le
   Is chaand meiṅ na chhoreṅ ge ahl-e-jafa tujhe
   Maareṅ ge aise tir se tujh ko ye ahl-e-shar
   Haiwaan bhi larazte haiṅ jo tir dekh kar
@@ -50,7 +50,7 @@ romanLyrics: |-
   Har chaand Karbala meiṅ mera dub jaaye ga
 
   5
-  Monis na bach saka koi yaawar na bach saka
+  Munis na bach saka koi yaawar na bach saka
   Qasim na bach sake Ali Akbar na bach saka
   Battis saal waala baraadar na bach saka
   Had ho gai ki nanha sa Asghar na bach saka
@@ -60,14 +60,14 @@ romanLyrics: |-
   6
   Karb o bala ke baad bhi parti thi jab nazar
   Laila tarap ke roti thi ye chaand dekh kar
-  Shiddat se yaad aata tha karyal jawaaṅ pisar
+  Shiddat se yaad aata tha karil jawaaṅ pisar
   Sine ka zakhm aur wo farzand ka jigar
   Kehti thi mera chaand to mitti meiṅ mil gaya
   Ae chaand baar baar mere saamne na aa
 
   7
   Waaiz hilaal-e-maah-e-Moharram ko dekh kar
-  Sine meiṅ kaamp jaata hai aksar mera jigar
+  Sine meiṅ kaanp jaata hai aksar mera jigar
   Rota hai dil Husain ki ghurbat ko soch kar
   Jaati hai meri fikr Sakina ke dard par
   Is chaand meiṅ Husain ki pyaari hui yatim

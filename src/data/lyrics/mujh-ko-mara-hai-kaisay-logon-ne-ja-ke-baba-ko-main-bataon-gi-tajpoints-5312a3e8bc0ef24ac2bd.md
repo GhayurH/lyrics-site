@@ -1,35 +1,60 @@
 ---
-title: "Mujh Ko Mara Hai Kaisay Logon Ne Ja Ke Baba Ko Main Bataon Gi"
+title: "مجھ کو مارا ہے کیسے لوگوں نے جا کے بابا کو میں بتاؤں گی"
+alternateTitle: "Mujh Ko Mara Hai Kaisay Logon Ne Ja Ke Baba Ko Main Bataon Gi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Nisar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mujh ko mara hai kaisay logon ne ja ke Baba ko main bataon gi
+  Zakhm pehlu ka Aliya beti apni madar ko main dikhaon gi
+  Shair-e-Yazdaan ki pak gardan ko main ne rasiyon mein hai bandha dekha
+  Apne waris ki iss ghareebi ka qabar mein bhi main gham manaon gi
+
+  2
+  Mere Baba ke pak farmaan ko keh ke hazyan jis ne jhutlaya
+  Meri takzeeb kaisay ki oss ne haal Baba ko main sunaon gi
+  Oss ki azmat pe main fida jaon kaisay qurbaan howa wilayat par
+  Mera Mohsin hai muntazir mera oss ko hathoon pe main uthaon gi
+
+  3
+  Gaud-e-Ummul Baneen mein sun lo mera Abbas jab utar aaye
+  Oss ko meri qabar pe tum lana main ossay loriyaan sunaon gi
+  Mere waris ke pak Baba ka dekh kar mujh ko haal kiya ho ga
+  Le ke be mosami zaeefi mein samne unn ke kaisay jaon gi
+
+  4
+  Mujh ko yeh soch khaye jati hai dard hai aaj barh gaya itna
+  Aaj Tazeem-e-Murtaza ke liye Aliya main tu uth na paon gi
+  Yaad kar ke hamari ghurbat ko dehar mein jo Nisar roein gaye
+  Unn ka har dard door karne ko chal ke majlis azza main jaon gi
 ---
 
-1
-Mujh Ko Mara Hai Kaisay Logon Ne Ja Ke Baba Ko Main Bataon Gi.
-Zakhm Pehlu Ka Aliya Beti Apni Madar Ko Main Dikhaon Gi.
-Shair-e-Yazdaan Ki Pak Gardan Ko Main Ne Rasiyon Mein Hai Bandha Dekha.
-Apne Waris Ki Iss Ghareebi Ka Qabar Mein Bhi Main Gham Manaon Gi
+۱
+مجھ کو مارا ہے کیسے لوگوں نے جا کے بابا کو میں بتاؤں گی
+زخم پہلو کا عالیہ بیٹی اپنی مادر کو میں دکھاؤں گی
+شیرِ یزداں کی پاک گردن کو میں نے رسیوں میں ہے بندھا دیکھا
+اپنے وارث کی اس غریبی کا قبر میں بھی میں غم مناؤں گی
 
-2
-Mere Baba Ke Pak Farmaan Ko Keh Ke Hazyan Jis Ne Jhutlaya.
-Meri Takzeeb Kaisay Ki Oss Ne Haal Baba Ko Main Sunaon Gi.
-Oss Ki Azmat Pe Main Fida Jaon Kaisay Qurbaan Howa Wilayat Par.
-Mera Mohsin Hai Muntazir Mera Oss Ko Hathoon Pe Main Uthaon Gi.
+۲
+میرے بابا کے پاک فرمان کو کہہ کے ہذیان جس نے جھٹلایا
+میری تکذیب کیسے کی اس نے حال بابا کو میں سناؤں گی
+اس کی عظمت پہ میں فدا جاؤں کیسے قربان ہوا ولایت پر
+میرا محسن ہے منتظر میرا اس کو ہاتھوں پہ میں اٹھاؤں گی
 
-3
-Gaud-e-Ummul Baneen Mein Sun Lo Mera Abbas Jab Utar Aaye.
-Oss Ko Meri Qabar Pe Tum Lana Main Ossay Loriyaan Sunaon Gi.
-Mere Waris Ke Pak Baba Ka Dekh Kar Mujh Ko Haal Kiya Ho Ga.
-Le Ke Be Mosami Zaeefi Mein Samne Unn Ke Kaisay Jaon Gi.
+۳
+گودِ ام البنین میں سن لو میرا عباس جب اتر آئے
+اس کو میری قبر پہ تم لانا میں اسے لوریاں سناؤں گی
+میرے وارث کے پاک بابا کا دیکھ کر مجھ کو حال کیا ہو گا
+لے کے بے موسمی ضعیفی میں سامنے ان کے کیسے جاؤں گی
 
-4
-Mujh Ko Yeh Soch Khaye Jati Hai Dard Hai Aaj Barh Gaya Itna.
-Aaj Tazeem-e-Murtaza Ke Liye Aliya Main Tu Uth Na Paon Gi.
-Yaad Kar Ke Hamari Ghurbat Ko Dehar Mein Jo Nisar Roein Gaye.
-Unn Ka Har Dard Door Karne Ko Chal Ke Majlis Azza Main Jaon Gi.
+۴
+مجھ کو یہ سوچ کھائے جاتی ہے درد ہے آج بڑھ گیا اتنا
+آج تعظیمِ مرتضیٰ کے لیے عالیہ میں تو اٹھ نہ پاؤں گی
+یاد کر کے ہماری غربت کو دہر میں جو نثار روئیں گے
+ان کا ہر درد دور کرنے کو چل کے مجلسِ عزا میں جاؤں گی

@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Ae Zulfiqaar kaun si aankheṅ haiṅ tere paas
-  Mehshar takal ka har tujhe shajrah dikhaai de
+  Mahshar takal ka har tujhe shajra dikhaai de
 
   3
   Do chaar Murtaza ke faqiroṅ ko khair ho
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Do lafz parh liye to ye aalam ghurur ka
-  Mulla ye chaahta hai ke Maula dikhaai de
+  Mullaa ye chaahta hai ke Maula dikhaai de
 
   5
   Baa ko bashar ke sar se hataa kar to dekhiye

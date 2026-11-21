@@ -1,6 +1,6 @@
 ---
 title: "جی رہے ہیں آبرو سے ہم جو ہندوستان میں"
-alternateTitle: "Husaiṅ Ibne Ali Ki"
+alternateTitle: "Husain Ibne Ali Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ji rahe hai aabru se hum jo hindustan meiṅ
-  Dostoṅ bas ye ghame shabbir ka ehsaan hai
-  Jism mein kis kis ke kaisa khun hai khud dekhlo
-  Ye azadari nahi ye nasl ki pehchan hai
-  Husain ibne ali ki karo azadari
-  Furaat e ashq e aza hashr tak rahe jaari
-  Husain ibne ali ki...
-  Falak pe chand nazar aagaya moharram ka
-  Hai soghwaar mahina Husain ke gham ka
-  Khulus e dil se karo ehtamam matam ka
-  Nabi ki aal se karte raho wafadari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Tumhare waaste zehmat uthaai maula ne
-  Ye dukh ye ranj o musibat uthaai maula ne
-  Jawan bete ki mayyat uthayi maula ne
+  Ji rahe haiṅ aabru se hum jo Hindustaan meiṅ
+  Dostoṅ bas ye gham-e-Shabbir ka ehsaan hai
+  Jism ke kis kis ke kaisa khun hai qad dekh lo
+  Ye azaadaari nahiṅ ye nasl ki pehchaan hai
+  Husain Ibne Ali ki karo azaadaar
+  Furaat-e-ashk-e-aza hashr tak rahe jaari
+  Husain Ibne Ali ki
+  Falak pe chaand nazar aa gaya Moharram ka
+  Hai sogwaar mahina Husain ke gham ka
+  Khulus-e-dil se karo ihtimaam maatam ka
+  Nabi ki aal se karte raho wafaadaari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Tumhaare waaste zehmat uthaai Maula ne
+  Ye dukh ye ranj o musibat uthaai Maula ne
+  Jawaan bete ki mayyat uthaai Maula ne
   Do pursa shaah ko ab karke girya o zaari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Bala ke dasht meiṅ wo paasban e ahle haram
-  Kata ke shaane bachaya hai din ka parcham
-  Hum isliye bhi uthate hai bawafa ka alam
-  Zamana dekh le bedast ki alamdari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Huwe hai baap ke haathoṅ pe munqalib asghar
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Bala ke dasht meiṅ wo paasbaan-e-ahl-e-haram
+  Kata ke shaane bachaaya hai din ka parcham
+  Hum is liye bhi uthaate haiṅ baawafa ka alam
+  Zamaana dekh le bedast ki alamdaari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Hue haiṅ baap ke haathoṅ pe munqalib Asghar
   Lahu meiṅ duba hua hai ye dard ka manzar
-  Jo tir aake laga bezaban ki gardan par
-  Wo tir wazn meiṅ tha bezaban se bhaari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Zamin royi hai chashme falak bhi hai purnam
+  Jo tir aake laga bezabaaṅ ki gardan par
+  Wo tir wazn meiṅ tha bezabaan se bhaari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Zamin roi hai chashm-e-falak bhi hai purnam
   Nabi ki aal pe dhaaya gaya wo zulm o sitam
-  Sawaar e doshe payambar jo tha khuda ki qasam
-  Usi ki laash ko pamaal karte hai naari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Sitam huwe jo haram par batauṅ mai kaise
+  Sawaar-e-dosh-e-payambar jo tha Khuda ki qasam
+  Usi ki laash ko paamaal karte haiṅ naari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Sitam hue jo haram par bataauṅ main kaise
   Gala Husain ka kaata hai jab sitamgar ne
-  Ridayeiṅ bibiyoṅ ki chin gayi jale qaime
-  Tamache khaati thi har dam Husain ki pyari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Nigahe haq meiṅ ibadat hai majlis o matam
+  Ridaaeṅ Bibiyoṅ ki chhin gai jale khaime
+  Tamaache khaati thi har dam Husain ki pyaari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Nigaah-e-haq meiṅ ibaadat hai majlis o maatam
   Ho daur koi bhi karte raho Husain ka gham
-  Yehi to fatema zehra ki dil ka hai marham
-  Adaye ajre risalat hai sheh ki gham khaari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
-  Jo khaar paoṅ meiṅ daste hai aur nikalte hai
-  Hai zauf itna ke girte hai aur sambhalte hai
-  Jo raahe sham meiṅ sajjad jhuk ke chalte hai
-  Hai tauq beriyoṅ ki is qadar gara bari
-  Hilal nauha ye rehan ne pada aisa
-  Har ek simt hai chaayi gham o alam ki ghata
-  Utha hai majlis-e-sarwar meiṅ shor girya ka
-  Har ek aankh se ashk e aza huwe jaari
-  Furaat e ashq e aza...
-  Husain ibne ali ki...
+  Yehi to Fatema Zehra ki dil ka hai marham
+  Adaa-e-ajr-e-risaalat hai shah ki ghamkhwaari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
+  Jo khaar paaoṅ meiṅ dhasti hai aur nikalti hai
+  Hai zauf itna ke girte haiṅ aur sambhalte haiṅ
+  Jo raah-e-Shaam meiṅ Sajjad jhuk ke chalte haiṅ
+  Hai tauq beriyoṅ ki is qadar giraan baari
+  Hilal nauha ye Rehan ne parha aisa
+  Har ek simt hai chhaai gham o alam ki ghata
+  Utha hai majlis-e-Sarwar meiṅ shor-e-girya ka
+  Har ek aaṅkh se aashk-e-aza hue jaari
+  Furaat-e-ashk-e-aza
+  Husain Ibne Ali ki
 ---
 
 ۱

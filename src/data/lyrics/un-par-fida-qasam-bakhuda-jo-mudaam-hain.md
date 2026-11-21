@@ -16,27 +16,27 @@ romanLyrics: |-
   Un ke liye bahisht meiṅ Kausar ke jaam haiṅ
 
   1
-  Baarah Imam wird-e-zabaan subh o shaam haiṅ
-  Awwal Ali-e-Paak Sheh-e-khaas o aam haiṅ
-  Aur dusre Hasan Sheh-e-aali maqaam haiṅ
-  Aur tisre Husain Alh-e-Aslam haiṅ
+  Baarah Imaam wird-e-zabaan subh o shaam haiṅ
+  Awwal Ali-e-Paak sheh-e-khaas o aam haiṅ
+  Aur dusre Hasan sheh-e-aali maqaam haiṅ
+  Aur tisre Husain Ilaah-e-Aslam haiṅ
 
   2
-  Chauthe Imam haiṅ mere Sajjad dilfigaar
+  Chauthe Imaam haiṅ mere Sajjaad dil figaar
   Aur paaṅchweṅ haiṅ Baqir zi qadr zi wiqaar
   Jafar chhathe haiṅ sarwar zi jaah naamdaar
-  Aur saatweṅ haiṅ Musa-e-Kaazim ye dil nisaar
+  Aur saatweṅ haiṅ Musa Kaazim ye dil nisaar
 
   3
-  Haiṅ aathweṅ Imam Raza sarwar-e-anaam
-  Ae dil naweṅ Imam Taqi haiṅ buland maqaam
-  Dasweṅ Naqi haiṅ gyaarahweṅ haiṅ Askari Imam
+  Haiṅ aathweṅ Imaam Raza sarwar-e-anaam
+  Ae dil naweṅ Imaam Taqi haiṅ buland maqaam
+  Dasweṅ Naqi haiṅ gyaarahweṅ haiṅ Askari Imaam
   Aur baarahweṅ haiṅ Mehdi-e-din bhej tu salaam
 
   4
   Din raat jo bhi wird kare in ke naam ko
   Ye naam shaah karte haiṅ pal meiṅ ghulaam ko
-  Pahuṅchaao subh o shaam sada is payaam ko
+  Pahuṅchaao subh o shaam sadaa is payaam ko
   Gar pina chaahte ho jo Kausar ke jaam ko
 ---
 

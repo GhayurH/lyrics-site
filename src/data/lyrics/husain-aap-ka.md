@@ -21,12 +21,12 @@ romanLyrics: |-
   Pukaarta hai mujhe dasht-e-Nainawa ammaaṅ
 
   2
-  Kiya tha waada jo bachpan meiṅ wo nibhana hai
+  Kiya tha waada jo bachpan meiṅ wo nibhaana hai
   Jigar ke tukroṅ se maqtal mujhe sajaana hai
   Khudaara kijiye haq meiṅ mere dua ammaaṅ
 
   3
-  Palat ke aauṅga ab maiṅ kahaaṅ Madine meiṅ
+  Palat ke aauṅ ab maiṅ kahaaṅ Madine meiṅ
   Hai paas naani ke Sughra wahaaṅ Madine meiṅ
   Jalaane aayegi marqad pe wo diya ammaaṅ
 
@@ -37,13 +37,13 @@ romanLyrics: |-
 
   5
   Badal gaya hai zamaane ka kis qadar manzar
-  Lain taalib-e-baiat hai kya kare Sarwar
+  La'in taalib-e-baiat hai kya kare Sarwar
   Chuna gharib ne maqtal ka raasta ammaaṅ
 
   6
   Dil-e-haziṅ pe mere ye sitam bhi hone haiṅ
   Nehr pe bhaai ke baazu qalam bhi hone haiṅ
-  Ghamoṅ ki honi hai kuch aise intiha ammaaṅ
+  Ghamoṅ ki honi hai kuchh aise intiha ammaaṅ
 
   7
   Faza-e-Karbobala meiṅ udaasiyaaṅ aayi
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   8
   Tarap ke Aalam o Yazdan ye bole Shaah-e-Huda
-  Na saath mera kabhi chhoriyega bahr-e-Khuda
+  Na saath mera kabhi chhoriye ga bahr-e-Khuda
   Husain karta hai bas itni iltija ammaaṅ
 ---
 حسین آپ کا کربوبلا چلا اماں

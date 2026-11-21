@@ -36,7 +36,7 @@ romanLyrics: |-
   Rubaab zindaaṅ meiṅ kya karegi
 
   4
-  Nabi ke roze pe ik zaeefa
+  Nabi ke rauze pe ik zaeefa
   Janaab-e-Zainab se keh rahi thi
   Ke baad-e-Abbas har qadam par
   Meri Ruqaiya wafa karegi

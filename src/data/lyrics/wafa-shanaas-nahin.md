@@ -25,23 +25,23 @@ romanLyrics: |-
 
   3
   Jabin-e-maadar-e-Hasnain ke sajdoṅ ke tufail
-  Ali ki betiyoṅ ko naaz mila hai Abbas
+  Ali ki beti ko naaz mila hai Abbas
 
   4
   Kiuṅ chalte chalte qadam ruk gaye hai Zainab ke
-  Kya is ko nok-e-sinaaṅ pe nahiṅ dikha hai Abbas
+  Kya is ko nok-e-sinaaṅ pe nahiṅ dikha Abbas
 
   5
   Wo kiuṅ na is ki zindagi ki duaaeṅ maange
   Bari muraadoṅ se Zainab ko mila hai Abbas
 
   6
-  Tu apni dubti nafzoṅ ko to sambhaal zara
+  Tu apni dubti nafsoṅ ko to sambhaal zara
   Furaat teri taraf aaj barha hai Abbas
 
   7
   Duaaeṅ maang Salamat usi ke sadqe meiṅ
-  Zara to soch ke Zahra ki dua hai Abbas
+  Zara to soch ke Zahra ki duaa hai Abbas
 ---
 وفا شناس نہیں رب وفا ہے عباس
 دعائے زہرا کا انمول صلہ ہے عباس

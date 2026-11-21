@@ -9,51 +9,62 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ho Salam us par ke jo qaidi bhi hai bimaar bhi
-  Paaon meiṅ hain aable aur aabloṅ meiṅ khaar bhi
+  Ho salaam us par ke jo qaidi bhi hai bimaar bhi
+  Paaoṅ meiṅ hain aable aur aabloṅ meiṅ khaar bhi
 
   1
-  Aankh may ansoo aur zakhm jigar main honton pay rida ka nauha,
-  Karbobala se haey sham talak wo kanton pay safar karta tha,
-  Be rida sadaniyan, us par sitam bazaar bhee
+  Aankh meiṅ aansu aur zakhm jigar meiṅ
+  Hontoṅ pe rida ka nauha
+  Karb o bala se haaye Shaam talak woh
+  Kaantoṅ pe safar karta tha
+  Be rida saidaaniyaṅ us par sitam bazaar bhi
 
   2
-  Nokay sinaa par, hai baap ka sar hai is baath pay dil bekaboo,
-  Be chadar hain namoos e payambar, mahol sharabi har sue,
-  Khoon roye sarbaan aur syeday abraar bhee
+  Nok-e-sinaaṅ par hai baap ka sar, is baat pe dil be qaabu
+  Be chaadar hain naamus-e-Payambar, maahaul sharaabi har su
+  Khun roye saarbaan aur Sayyid-e-Abraar bhi
 
   3
-  Dhaiknay wali ankon ne dekhaa us raah may yeh bhee manzar,
-  Aik musafir pabanday safar hai khud apnee lash utha kar,
-  Yeh Imam-e-Waqt hai aur kafala salaar bhee
+  Dekhne waali aankhoṅ ne dekha
+  Us raah meiṅ yeh bhi manzar
+  Ek musaafir paaband-e-safar hai
+  Khud apni laash utha kar
+  Yeh Imaam-e-Waqt hai aur qaafila salaar bhi
 
   4
-  Kehta tha ke tauq-e-giraan aaya mere hisse meiṅ
+  Kehta tha ke tauq-e-giraaṅ aaya mere hisse meiṅ
   Warna is fauj meiṅ khanjar bhi hain talwaar bhi hai
 
   5
-  Khoon ragon ka ya ghairatay Hashim, kehti hay jhukalay sar ko,
-  Toq o salasil kya qaid karayngay hay sabr kay is pekar ko,
-  Sar uthay kis tarhan hai rah mai bazaar bhee
+  Khun ragoṅ ka ya ghairat-e-Haashim
+  Kehti hai jhuka le sar ko
+  Tauq o salaasil kya qaid kareṅge
+  Haaye sabr ke is paikar ko
+  Sog uthaaye kis tarah hai raah meiṅ bazaar bhi
 
   6
-  Daikh kay Zainab Sajjad ki halat faryaad yehee karti theen,
-  Mera yaqeen hai imaan hai mera, aey Shaam kay bekas qaidi,
-  Royain gay tujh par sadaa, masnad bhee aur dastaar bhee
+  Dekh ke Zainab Sajjad ki haalat
+  Faryaad yahi karti thi
+  Mera yaqiṅ hai imaan hai mera
+  Ae Shaam ke bekas qaidi
+  Royeṅge tujh par sadaa masnad bhi aur dastaar bhi
 
   7
-  Baitha kaheen par jab thak kay musafir chalees shabon ka jaga,
-  Neend jo aayi bekas qaidi ko, duroon say jagaya jataa,
-  Dekh kar royaa falak, aur Zainab-e-Lachaar bhee
+  Baitha kahiṅ par jab thak ke musaafir chaalis shaboṅ ka jaaga
+  Nind jo aayi bekas qaidi ko darroṅ se jagaaya jaata
+  Dekh kar roya falak aur Zainab-e-Laachaar bhi
 
   8
   Puchha ik shakhs ne Shabbir tumhaara hai kaun
-  Kaha Baba bhi hai Aaqa bhi hai Sardaar bhi hai
+  Kaha baaba bhi hai aaqa bhi hai sardaar bhi hai
 
   9
-  Nauha konaa hain Irfan aur Mazhar tareekh o maqatil sab hee,
-  Aalay payambar, aur sham ki galiyan, Shabir ka beta qaidi,
-  Kyoon na ho mehve fughaan, qirtaas bhee, ashaar bhee
+  Nauha kunaaṅ hain Irfaan aur Mazhar
+  Taarikh o maqaatil sab hi
+  Aal-e-Payambar aur Shaam ki galiyaaṅ
+  Shabbir ka beta qaidi
+  Kiuṅ na huṅ mahv-e-fughaaṅ
+  Qirtaas bhi ashaar bhi
 ---
 ہو سلام اس پر کہ جو قیدی بھی ہے بیمار بھی
 پاؤں میں ہیں آبلے اور آبلوں میں خار بھی

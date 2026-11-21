@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Arshe bari se aayi jo ta'damat sada
-  Kufa shehr meiṅ hashr ka hangaam hogaya
-  Gunji fiza meiṅ jab ye sada haye murtaza
-  Nauha kuna kaha jo manadi ne alvida
-  Zainab rida ko thaam ke karne lagi buka
-  Baba nahi rahe baba nahi rahe
-  Masjid hai soghwar musalla hai ghamzada
-  Sajde meiṅ sar ali ka shikasta kiya gaya
-  Kufa shehr meiṅ aaj hai aaghaz e karbala
-  Baba nahi rahe baba nahi rahe
+  Arsh-e-bariṅ se aayi jo taa damat sada
+  Kufa shehr meiṅ hashr ka hangaam ho gaya
+  Gunji faza meiṅ jab ye sada, haaye Murtaza
+  Nauha kunaaṅ kaha jo munaadi ne alvidaa
+  Zainab rida ko thaam ke karne lagi bukaa
+  Baba nahiṅ rahe baba nahiṅ rahe
+  Masjid hai sogwaar musalla hai ghamzada
+  Sajde meiṅ sar-e-Ali ka shikasta kiya gaya
+  Kufa shehr meiṅ aaj hai aaghaaz-e-Karbala
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
-  Beaasra huwe the jo bacche tarap gaye
-  Pyale jo dudh ke the wo haathoṅ se gir gaye
-  Dar par ali ke saare yatimoṅ ne di sada
-  Baba nahi rahe baba nahi rahe
+  Beaasra hue the jo bachche tarap gaye
+  Pyaale jo dudh ke the wo haathoṅ se gir gaye
+  Dar par Ali ke saare yatimoṅ ne di sada
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
-  Raatoṅ ko uth ke pani pilayega kaun ab
-  Bole Husain pyaas bujhayega kaun ab
-  Amma ke baad aagayi baba ko bhi qaza
-  Baba nahi rahe baba nahi rahe
+  Raatoṅ ko uth ke paani pilaayega kaun ab
+  Bole Husain pyaas bujhaayega kaun ab
+  Ammaaṅ ke baad aa gayi baba ko bhi qaza
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
-  Dekha bare jo bhai ko rone lagi behan
-  Haye Hasan pukaar ke boli tera badan
-  Dekhungi an-khareeb mai tiroṅ bhara hua
-  Baba nahi rahe baba nahi rahe
+  Dekha bare jo bhaai ko rone lagi behan
+  Haaye Hasan pukaar ke boli tera badan
+  Dekhuṅgi anqarib main tiroṅ bhara hua
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
-  Jis ki dua ne usko alamdaar kar diya
-  Abbas tha wo hyder e karrar kar diya
-  Kaise kare yaqin wo abbas e bawafa
-  Baba nahi rahe baba nahi rahe
+  Jis ki dua ne us ko alamdaar kar diya
+  Abbas tha wo Haidar-e-Karraar kar diya
+  Kaise kare yaqin wo Abbas-e-bawafa
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
   Ye soch kar ke mujhko ye beti kahe abhi
-  Mayyat pe apne baap ki nade ali parhi
-  Ab tak qubul kar na saki binte sayyeda
-  Baba nahi rahe baba nahi rahe
+  Mayyat pe apne baap ki Naad-e-Ali parhi
+  Ab tak qubul kar na saki Bint-e-Sayyeda
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
-  Muslim ke saath masjide kufa meiṅ ya khuda
-  Pursa batul e paak ki beti ka ho bapa
-  Zarbat ki jaa pe bain kare yasir e aza
-  Baba nahi rahe baba nahi rahe
+  Muslim ke saath Masjid-e-Kufa meiṅ ya Khuda
+  Pursa Batul-e-paak ki beti ka ho bapa
+  Zarbat ki jaa pe bain kare Yasir-e-aza
+  Baba nahiṅ rahe baba nahiṅ rahe
   Zainab rida ko thaam ke...
 ---
 

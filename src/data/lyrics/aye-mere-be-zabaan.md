@@ -8,105 +8,63 @@ poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Aye Mere Be Zabaan"
-romanLyrics: 'Aey mere be zuban,tum reh gaye Kahan
-
-  Asghar jiye gi kese,tere bagair maa
-
+alternateTitle: "Ae Mere Be Zubaan"
+romanLyrics: |-
+  Ae mere be zubaan, tum reh gaye kahaaṅ
+  Asghar jiye gi kaise, tere baghair maaṅ
 
   1
-
-  Haye Asghar mere Asghar,haye Asghar mere Asghar
-
-  Ae raaj dulare Asghar,maa tujh ko pukare Asghar
-
-  Meri ankh ke tare Asghar,aaja mere pyare Asghar
-
+  Haaye Asghar mere Asghar, haaye Asghar mere Asghar
+  Ae raaj dulaare Asghar, maaṅ tujh ko pukaare Asghar
+  Meri aaṅkh ke taare Asghar, aa ja mere pyaare Asghar
 
   2
-
-  Chehra wo chaand jaisa,kaise bhulai maa
-
+  Chehra woh chaaṅd jaisa, kaise bhulaaye maaṅ
 
   3
-
-  Kiya waqt agaya hai,bano ki bekasi per
-
-  Gurbat pe tere matam,kaise kaise karegi ki madar
-
-  Aada ne bandh di hain,hathon mai rasiyan
-
+  Kya waqt aa gaya hai, Baano ki bekasi par
+  Ghurbat pe tere maatam, kaise karegi ki maadar
+  Aadaa ne baaṅdh di hain, haathoṅ mein rassiyaaṅ
 
   4
-
-  Himmat pe maa tumhari,qurban kyun na Jaye
-
-  Sunti hai teer kha ker,tum ran Mai muskurai
-
-  Madar ki laaj rakh li,shabash meri jaan
-
+  Himmat pe maaṅ tumhaari, qurbaan kiuṅ na jaaye
+  Sunti hai tir kha kar, tum ran mein muskuraaye
+  Maadar ki laaj rakh li, shaabaash meri jaaṅ
 
   5
-
-  Madar ki hai wasiyat,beta khayal rakh
-
-  Godi mai in ki Asghar,jane ki zid na karna
-
-  Pehle hee hain shikasta,dadi ki pasliyan
-
+  Maadar ki hai wasiyat, beta khayaal rakhna
+  Godi mein in ki Asghar, jaane ki zid na karna
+  Pehle hi hain shikasta, daadi ki pasliyaaṅ
 
   6
-
-  Kiya zer r khaak ab bhi soye ho mun chupai
-
-  Maa sari bibiyon se,sharminda ho na Jaye
-
-  Har ik shaheed Ka hai,sar bar sar e sina
-
+  Kya zer-e-khaak ab bhi soye ho muṅh chhupaaye
+  Maaṅ saari bibiyoṅ se, sharminda ho na jaaye
+  Har ik shahid ka hai, sar barsar-e-sinaaṅ
 
   7
-
-  Dushwar hogaya hai,ran mai tumhara jeena
-
-  Ab khali god jaa ker,maa kia kre madina
-
-  Mujh ko wohin bula lo,ae laal ho jahan
-
+  Dushwaar ho gaya hai, ran mein tumhaara jina
+  Ab khaali god ja kar, maaṅ kya kare Madina
+  Mujh ko wahiṅ bula lo, ae laal ho jahaaṅ
 
   8
-
-  Sansein to chal rahi hain,zinda kahan rahi hai
-
-  Maa Zindagi se apni,azadi chahti ha
-
-  Mushkil khusha ho tum bhi,khulwado beriyan
-
+  Saaṅseṅ to chal rahi hain, zinda kahaaṅ rahi hai
+  Maaṅ zindagi se apni, aazaadi chaahti hai
+  Mushkil kusha ho tum bhi, khulwa do beriyaaṅ
 
   9
-
-  Jangle mai ik beta,awaz ghunjti ha
-
-  Yeh soch ker bhi madar,maqtal mai ro rahi ha
-
-  Lagta hai dard se tum,lete ho shiskiyan
-
+  Jangal mein ek beta, aawaaz ghuṅjti hai
+  Yeh soch kar bhi maadar, maqtal mein ro rahi hai
+  Lagta hai dard se tum, lete ho siskiyaaṅ
 
   10
-
-  Yeh ujri god beta,kese sukoon paye
-
-  Halat pe teri maa ki,hanste hai shaam wale
-
-  Daman mai hain tumhare,jhoole ki lakriyan
-
+  Yeh ujri god beta, kaise sukun paaye
+  Haalat pe teri maaṅ ki, haṅste hain Shaam waale
+  Daaman mein hain tumhaare, jhule ki lakriyaaṅ
 
   11
-
-  Rote thy sub taqallum,ik maa ne jab Kaha tha
-
-  Paigham Karbala mai,jaker hawa yeh dena
-
-  Zindan ke dar pe ab bhi,bethi hai ik maa'
+  Rote the sab Takallum, ik maaṅ ne jab kaha tha
+  Paighaam Karbala mein, ja kar hawa yeh dena
+  Zindaaṅ ke dar pe ab bhi, baithi hai ek maaṅ
 reciter: "Meer Hasan Meer"
 ---
 

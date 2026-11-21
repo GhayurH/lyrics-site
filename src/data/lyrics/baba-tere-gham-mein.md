@@ -1,7 +1,7 @@
 ---
 title: "بابا تیرے غم میں یہ بے چین سکینہ ہے"
 recitationId: "baba-tere-gham-may"
-alternateTitle: "Baba Tere Gham Meiṅ"
+alternateTitle: "Baba Tere Gham Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,19 +12,19 @@ tags: []
 aliases: ["Baba Tere Gham May"]
 published: true
 romanLyrics: |-
-  Baba tere gham meiṅ ye bechain Sakina hai
-  Zindaṅ ke andhere meiṅ mushkil mera jina hai
+  Baba tere gham mein ye bechain Sakina hai
+  Zindaaṅ ke andhere mein mushkil mera jina hai
 
   1
-  Din raat maiṅ roti huṅ aur khaak pe soti huṅ
+  Din raat main roti huṅ aur khaak pe soti huṅ
   Aaghosh hai maadar ki na baap ka sina hai
 
   2
-  Dafna ke Sakina ko Abid ne kaha ro kar
-  Ae khaak tujhe sauṅpa Zehra ka nagina hai
+  Dafnaa ke Sakina ko Aabid ne kaha ro kar
+  Ae khaak tujhe saunpa Zehra ka nagina hai
 
   3
-  Maiṅ ro bhi nahiṅ sakti zindaṅ meiṅ tumheiṅ baba
+  Main ro bhi nahiṅ sakti zindaaṅ mein tumheiṅ baba
   Paaband mujhe karta rone se kamina hai
 
   4
@@ -32,12 +32,12 @@ romanLyrics: |-
   Zaalim ke tamaachoṅ se behaal Sakina hai
 
   5
-  Abid ne kaha ro kar Zainab se phuphi ammaṅ
+  Aabid ne kaha ro kar Zainab se phuphi ammaaṅ
   Har zulm o sitam sehna is ghar ka karina hai
 
   6
-  Karte hai bapa maatam duniya meiṅ Shah-e-diṅ ka
-  Momin ke liye Irfaṅ bakhshish ka khazina hai
+  Karte hi bapaa maatam duniya mein Shaah-e-diṅ ka
+  Momin ke liye Irfaaṅ bakhshish ka khazina hai
 ---
 
 بابا تیرے غم میں یہ بے چین سکینہ ہے

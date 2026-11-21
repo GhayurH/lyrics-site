@@ -16,7 +16,7 @@ romanLyrics: |-
   Sar pe Khudaawand-e-jali sina sipar Zehra Ali
 
   1
-  Mere Maula ko mayassar hai khazaana kaisa
+  Mere Maula ko mayassar ye gharaana kaisa
   In ka rutba hai imaamoṅ meiṅ shaahaana kaisa
   Kaise kaise haiṅ nasiboṅ meiṅ ujaale in ke
   Mere Aaqa ko mila hai ye gharaana kaisa
@@ -39,7 +39,7 @@ romanLyrics: |-
   Meyaar jo zinda hai to afkaar bhi zinda
   Afkaar jo zinda to azaadaar bhi zinda
   Ibtida ibtida Mustafa ke dosh par
-  Intiha intiha naize par baland sar
+  Intiha intiha naize par buland sar
   Gunj raha hai bas ek naam
   Hazrat Imam Husain alaihis salaam
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   Har qaum ki aankhoṅ ka sitaara hai
   Hazrat Imam Husain alaihis salaam
 
-  Har dil meiṅ gham-e-Sayyad-e-abraar milega
+  Har dil meiṅ gham-e-Sayyid-e-abraar milega
   Har daur meiṅ mazlum ka ghamkhwaar milega
   Har qaum meiṅ Shabbir ka zawwaar milega
   Har mulk meiṅ Maula ka azaadaar milega
@@ -110,7 +110,7 @@ romanLyrics: |-
   Kis shaan se maqtal meiṅ qadam rakhta hai Shabbir
   Kab jaane ki parwaah kiya karta hai Shabbir
   Darta hai na jhukta hai na ghabraata hai Shabbir
-  Laakhoṅ bhi mukhaalif ho to sach kehta hai Shabbir
+  Laakhoṅ bhi hai mukhaalif to sach kehta hai Shabbir
   Hausla hausla Shaah-e-diṅ ka hausla
   Sun sada sun sada do jahaaṅ ki hai sada
   Gunj raha hai bas ek naam
@@ -121,8 +121,8 @@ romanLyrics: |-
   Har qaum ki aankhoṅ ka sitaara hai
   Hazrat Imam Husain alaihis salaam
 
-  Haaṅ aao kareṅ ham Shaah-e-abraar ka maatam
-  Islam ke mohsin ka madadgaar ka maatam
+  Haaṅ aao kare ham Shah-e-abraar ka maatam
+  Islaam ke mohsin ka madadgaar ka maatam
   Asghar Ali Akbar ka aur ansaar ka maatam
   Zainab ka Sakina ka alamdaar ka maatam
   Bekhata bekhata hai gharib-e-Sayyada
@@ -135,7 +135,7 @@ romanLyrics: |-
 
   2
   Hazrat Imam Husain Husain
-  Haaye Shaah-e-mashraqain
+  Haaye Shah-e-mashriqain
   Ae dil-e-Zehra ke chain
   Haaṅ mere Maula Husain
   Hazrat Imam Husain Husain
@@ -143,7 +143,7 @@ romanLyrics: |-
   Tum pe salaam Husain Husain
   Hazrat Imam Husain Husain
 
-  Haaye Shaah-e-Karbala
+  Haaye Shah-e-Karbala
   Aap ka ghar lut gaya
   Waada wafa kar diya
   Hazrat Imam Husain Husain

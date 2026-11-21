@@ -25,7 +25,7 @@ romanLyrics: |-
   1
   Maula hamaara jis ke dil meiṅ bhi rahega
   Hur ki tarah se us ka dil bhi ye kahega
-  Tum bemisaal Maula tum la zawaal Maula
+  Tum bemisaal Maula tum lazawaal Maula
   Har dil se aa rahi hai Maula ye sada
 
   2
@@ -95,8 +95,8 @@ romanLyrics: |-
   Kya nur-e-Khuda ka bikhra hai
   Hairaan karoroṅ aankheṅ haiṅ
   Har samt Husain ka jalwa hai
-  Kal jalta hua ek sahra tha
-  Ab jannat ka ek tukra hai
+  Kal jalta hua ak sahra tha
+  Ab jannat ka ak tukra hai
   Kal paak Husain akela tha
   Ab us ke saath zamaana hai
   Jo bit gaya jo jaayega
@@ -131,7 +131,7 @@ romanLyrics: |-
   Jab bhi aayeṅge Maula Imaam-e-Zamaana
   Un ke laboṅ pe hoga nauha Karbala ka
   Har dil bedaar hoga Shah ka zawwaar hoga
-  Saari dunya meiṅ hoga zikr-e-Karbala
+  Saari duniya meiṅ hoga zikr-e-Karbala
   Maatam hoga phir aap ka phir aisa ya Husain
   Saare jahaaṅ ke lab par hoga hoga ya Husain
 
@@ -146,9 +146,9 @@ romanLyrics: |-
   Husain ya Husain ya Husain
 
   22
-  Shabbir ke jaisa dunya meiṅ na aaya tha na aayega
+  Shabbir ke jaisa duniya meiṅ na aaya tha na aayega
   Allaah se aisa ishq bhala ab kar ke kaun dikhaayega
-  Quraaṅ Shah-e-Waala ki tarah naize par kaun sunaayega
+  Quraaṅ Shah-e-Waala ki tarah neze par kaun sunaayega
   Ab Karb o Bala jaisi basti na koi aur basaayega
   Ya Shaah-e-Zaman ae zakhmi badan
   Tera din bhi tu bhi sachcha hai

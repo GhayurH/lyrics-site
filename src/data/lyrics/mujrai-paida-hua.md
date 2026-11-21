@@ -19,7 +19,7 @@ romanLyrics: |-
   Maatam-e-Shabbir kya kam tha bahan ke waaste
 
   2
-  Bekafan tha laasha-e-naushaah ran meiṅ jaa bajaa
+  Bekafan tha laasha-e-naushaah ran mein jaa bajaa
   Muṅh chhupaane ko na chaadar thi dulhan ke waaste
 
   3

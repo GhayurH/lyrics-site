@@ -1,48 +1,87 @@
 ---
-title: "Mere Bachon Pe Chayi Yateemi"
+title: "میرے بچوں پہ چھائی یتیمی"
+alternateTitle: "Mere Bachon Pe Chayi Yateemi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khuld mein ro ke bolein yeh Zahra, mere bachoon pe chayi yateemi
+
+  1
+  Fizza tum hi ho inn ka sahara, mere bachoon pe chayi yateemi
+  Iss jahan se tu main ja chuki hoon
+  Bas yehi soch kar ro rahi hoon
+  Kaisay ho ga ab inn ka guzarah
+
+  2
+  Ghar mein hoon ya woh chahein jidhar hoon
+  Dhop mein chahein zair-e-shajar hoon
+  Baap jaisa miley ga na saya
+
+  3
+  Kal talak mujh ko yeh ro rahe they
+  Ab Ali pe yeh roein gaye bachay
+  Ab na dena koi gham Khudaya
+
+  4
+  Haye masjid mein tooti qayamat
+  Sar pe Maula ke hai zakhm-e-zarbat
+  Kyun na royon Jinna mein main Zahra
+
+  5
+  Bin mere yeh na khatay they khana
+  Jab Ali ne tha inn ko sanbhala
+  Khaein gaye kis tarha ab yeh khana
+
+  6
+  Jo sitam mere ghar pe howa hai
+  Mere Malik meri yeh dua hai
+  Youn na bolay koi maa dobarah
+
+  7
+  Zakhmi pehlu tu woh aaj bhi hai
+  Sochta yeh Asad Azmi hai
+  Jane Bibi ne kaisay pukara
 ---
 
-Khuld Mein Ro Ke Bolein Yeh Zahra Mere Bachoon Pe Chayi Yateemi.
+خلد میں رو کے بولیں یہ زہرا، میرے بچوں پہ چھائی یتیمی
 
-1
-Fizza Tum Hi Ho Inn Ka Sahara Mere Bachoon Pe Chayi Yateemi.
-Iss Jahan Se Tu Main Ja Chuki Hoon.
-Bas Yehi Soch Kar Ro Rahi Hoon.
-Kaisay Ho Ga Ab Inn Ka Guzarah.
+۱
+فضہ تم ہی ہو ان کا سہارا، میرے بچوں پہ چھائی یتیمی
+اس جہاں سے تو میں جا چکی ہوں
+بس یہی سوچ کر رو رہی ہوں
+کیسے ہو گا اب ان کا گزارہ
 
-2
-Ghar Mein Hoon Ya Woh Chahein Jidhar Hoon.
-Dhop Mein Chahein Zair-e-Shajar Hoon.
-Baap Jaisa Miley Ga Na Saya.
+۲
+گھر میں ہوں یا وہ چاہیں جدھر ہوں
+دھوپ میں چاہیں زیرِ شجر ہوں
+باپ جیسا ملے گا نہ سایہ
 
-3
-Kal Talak Mujh Ko Yeh Ro Rahe They.
-Ab Ali Pe Yeh Roein Gaye Bachay.
-Ab Na Dena Koi Gham Khudaya.
+۳
+کل تلک مجھ کو یہ رو رہے تھے
+اب علی پہ یہ روئیں گے بچے
+اب نہ دینا کوئی غم خدایا
 
-4
-Haye Masjid Mein Tooti Qayamat.
-Sar Pe Maula Ke Hai Zakhm-e-Zarbat.
-Kyun Na Royon Jinna Mein Main Zahra.
+۴
+ہائے مسجد میں ٹوٹی قیامت
+سر پہ مولا کے ہے زخمِ ضربت
+کیوں نہ روؤں جناں میں میں زہرا
 
-5
-Bin Mere Yeh Na Khatay They Khana.
-Jab Ali Ne Tha Inn Ko Sanbhala.
-Khaein Gaye Kis Tarha Ab Yeh Khana.
+۵
+بن میرے یہ نہ کھاتے تھے کھانا
+جب علی نے تھا ان کو سنبھالا
+کھائیں گے کس طرح اب یہ کھانا
 
-6
-Jo Sitam Mere Ghar Pe Howa Hai.
-Mere Malik Meri Yeh Dua Hai.
-Youn Na Bolay Koi Maa Dobarah.
+۶
+جو ستم میرے گھر پہ ہوا ہے
+میرے مالک میری یہ دعا ہے
+یوں نہ بولے کوئی ماں دوبارہ
 
-7
-Zakhmi Pehlu Tu Woh Aaj Bhi Hai.
-Sochta Yeh:ASAD AZMI: Hai.
-Jane Bibi Ne Kaisay Pukara.
+۷
+زخمی پہلو تو وہ آج بھی ہے
+سوچتا یہ اسد اعظمی ہے
+جانے بی‌بی نے کیسے پکارا

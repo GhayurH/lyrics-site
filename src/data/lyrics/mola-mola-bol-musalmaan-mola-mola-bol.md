@@ -12,7 +12,7 @@ tags: []
 aliases: ["mola-mola-bol-musalaman-mola-mola-bol-mir-hasan-mir"]
 published: true
 romanLyrics: |-
-  Mola Mola bol Musalmaan Mola Mola bol
+  Mola Mola bol musalmaan Mola Mola bol
 
   1
   Naam-e-Muhammad jis tarah hai Rab ko Nabi ke pyaara
@@ -20,7 +20,7 @@ romanLyrics: |-
   Nuqta nahiṅ donoṅ par koi donoṅ haiṅ anmol
 
   2
-  Khaibar o Khandaq Badr o Uhad ye sab haiṅ Ali ke tohfe
+  Khaibar o Khandaq Badr o Uhud ye sab haiṅ Ali ke tohfe
   Kis ne sar-e-maidaan diye haiṅ bhaag bhaag kar dhoke
   Parh tu zara taarikh khol ke khul jaayegi pol
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Aql ke andhe chhor ye dhande man ki aankheṅ khol
 
   5
-  Kufr ki is aandhi se Musalmaan kiuṅ hai tu dilgir
+  Kufr ki is aandhi se musalmaan kiuṅ hai tu dilgir
   Tere sar pe saaya figan haiṅ Haider aur Shabbir
   Tere muhaafiz Qambar Salmaan Maisam aur Bahlol
 
@@ -45,8 +45,8 @@ romanLyrics: |-
   Bola us ka shauhar apna ho gaya patiya gol
 
   7
-  Khwaab meiṅ ye manzar dekha to aur bhi kuchh ghabraaya
-  Jannat meiṅ sone ke mahal par hiroṅ se likha tha
+  Khwaab mein ye manzar dekha to aur bhi kuchh ghabraaya
+  Jannat mein sone ke mahal par hiroṅ se likha tha
   Qasr-e-Zubaida hai ye dene waale haiṅ Bahlol
 ---
 

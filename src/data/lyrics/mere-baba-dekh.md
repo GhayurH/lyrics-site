@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zahra ye bain karti thi qabre rasul par
-  Zulm o sitam ki hadh hui baba batul par
-  Dar ko gira ke tori hai zahra ki phasliyaṅ
-  Lamha ba lamha jaati hai zahra ki haye jaaṅ
-  Phasliyaṅ tuti hui hai dard kab seh payegi
-  Mere baba dekh lena fatema mar jayegi
-  Aap bhi royenge baba dekh kar chehra mera
+  Zahra ye bain karti thi qabr-e-Rasul par
+  Zulm o sitam ki had hui baba Batul par
+  Dar ko gira ke tori hai Zahra ki pasliyaaṅ
+  Lamha ba lamha jaati hai Zahra ki haye jaaṅ
+  Pasliyaaṅ tuti hui hai dard kab seh paaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Aap bhi roenge baba dekh kar chehra mera
   Nil hai rukhsaar ab tak aankh hai meri siyah
-  Zakhm jab sayli ki zehra aap ko dikhlayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Kis tarha dar ko giraya kis tarha maara mujhe
-  Kis tarha dewaar o dar may haye hai pisa mujhe
-  Har sitam beti tumhari aap ko batlayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Kab ye socha tha musalman is khadar gir jayenge
-  Mujhko darbar e sitam may bekhata bulwayenge
-  Ek siddiqa ko ummat is tarha jhutlayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Saamne bachoṅ ke maara kya batauṅ baba jaaṅ
-  Dard se tarpti bahot hai saamne bachoṅ ke maa
-  Yaad is manzar ki inko har ghari rulwayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Mujhko jab awaaz deṅge mere bache beamaan
-  Tor kar bande kafan ko aayegi mazlooma maa
-  Apne bachoṅ se gale phir fatema lag jayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Daagh sayli ke kisi ko baba dikhlaati nahi
-  Phasliyaṅ tuti magar hyder ko batlaati nahi
-  Dard pehlu ka ye zehra qabr tak le jayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Jite ji hyder ke mujhpar har sitam hota raha
-  Tuta ye pehlu kabhi to taziyana bhi laga
-  Hashr tak ghurbat ali ki khun bhi rulwayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
+  Zakhm jab sili ki Zahra aap ko dikhlaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Kis tarah dar ko giraya kis tarah maara mujhe
+  Kis tarah diwaar o dar mein haye hai pisaa mujhe
+  Har sitam beti tumhari aap ko batlaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Kab ye socha tha musalman is qadr gir jaaenge
+  Mujhko darbaar-e-sitam mein bekhataa bulwaaenge
+  Ek siddiqa ko ummat is tarah jhutlaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Saamne bachchoṅ ke maara kya bataauṅ baba jaaṅ
+  Dard se tarapti bahut hai saamne bachchoṅ ke maaṅ
+  Yaad is manzar ki inko har ghari rulwaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Mujhko jab awaaz deṅge mere bachche beamaaṅ
+  Tor kar band-e-kafan ko aaegi mazlooma maaṅ
+  Apne bachchoṅ se gale phir Fatema lag jaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Daagh sili ke kisi ko baba dikhlaati nahiṅ
+  Pasliyaaṅ tuti magar Haidar ko batlaati nahiṅ
+  Dard pehlu ka ye Zahra qabr tak le jaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Jite ji Haidar ke mujh par har sitam hota raha
+  Tuta ye pehlu kabhi to taaziyaana bhi laga
+  Hashr tak ghurbat-e-Ali ki khun bhi rulwaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
   Saamne tukre karega aap ki zaalim sanad
-  Mujhko degi chunte chunte is tarha ka gham sanad
-  Chand lamho may zaeefa fatema ho jayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
-  Danish o rehaan ro kar bas karo har dam dua
-  Naukri taslim kar le kaash bibi fatema
-  Bil yaqeen aisa hua to aakhirat ban jayegi
-  Mere baba dekh lena fatema mar jayegi
-  Phasliyaṅ tuti hui hai...
+  Mujhko degi chunte chunte is tarah ka gham sanad
+  Chand lamhoṅ mein zaifa Fatema ho jaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
+  Danish o Rehaan ro kar bas karo har dam dua
+  Naukri taslim kar le kaash Bibi Fatema
+  Bil yaqin aisa hua to aakhirat ban jaaegi
+  Mere baba dekh lena Fatema mar jaaegi
+  Pasliyaaṅ tuti hui hai...
 ---
 
 ۱

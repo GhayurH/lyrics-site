@@ -12,7 +12,7 @@ tags: []
 aliases: ["Ayyame Ali"]
 published: true
 romanLyrics: |-
-  Shioṅ meiṅ aaj kal ye qayaamat ke roz haiṅ
+  Shioṅ mein aaj kal ye qayaamat ke roz haiṅ
   Duniya se Bu Turaab ke rukhsat ke roz haiṅ
   Yaaroṅ saroṅ ko pito ye zarbat ke roz haiṅ
   Ro lo ke ye Ali ki shahaadat ke roz haiṅ
@@ -24,26 +24,26 @@ romanLyrics: |-
   Aa gaye ayyaam-e-Ali aa gaye
 
   1
-  Kaale libaasoṅ meiṅ hai Ahl-e-Aza ki fughaaṅ
+  Kaale libaasoṅ mein hai Ahl-e-Aza ki fughaaṅ
   Yaum-e-shahaadat ki sab karte haiṅ tayyaariyaaṅ
   Yaad kare maatami aap ki tanhaaiyaaṅ
-  Farsh-e-aza ghar meiṅ bichhaane lage
+  Farsh-e-aza ghar mein bichhaane lage
 
   2
   Taari abhi se hua hai shab-e-zarbat ka gham
   Koi parhe marsiya koi sajaaye alam
   Tifl o jawaaṅ pir sab sunte haiṅ nauhe baham
-  Nauha suna aankh se aansu gire
+  Nauha suna aankh se aansuṅ gire
 
   3
   Majliseṅ ghar ghar bapa ho gayi ya Sayyidi
   Nikle julus-e-aza aaj gali dar gali
-  Aap ke gham meiṅ hua saara jahaaṅ maatami
+  Aap ke gham mein hua saara jahaaṅ maatami
   Aayi sada ye dar o diwar se
 
   4
   Haaye wo unniswiṅ aayi jo gham ki sahar
-  Ki bine muljim ne jab zulm ki had aap par
+  Ki bin Muljim ne jab zulm ki had aap par
   Tegh-e-sitam chal gayi ho gaya do paara sar
   Kehte the Jibril bhi rote hue
 
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   6
   Saamne taabut ka aa gaya saamaan jab
-  Barhne laga aur bhi sine meiṅ ranj o taab
+  Barhne laga aur bhi sine mein ranj o ta'ab
   Dil kahe besaakhta haaye Amir-e-Arab
   Baat yehi khun rulaaye mujhe
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   Maisam o Mazhar bhi hai bar sar-e-farsh-e-aza
   Aap ke ghar waaloṅ ko donoṅ ne pursa diya
   Aap ke taabut par ham ne ye nauha parha
-  Dard meiṅ dube hue ashaar se
+  Dard mein dube hue ashaar se
 ---
 
 شیعوں میں آج کل یہ قیامت کے روز ہیں

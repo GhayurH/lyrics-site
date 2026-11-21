@@ -15,7 +15,7 @@ romanLyrics: |-
   Utho Husain tum se bahan milne aayi hai
   Mayyat nahiṅ to qabr gale se lagaayi hai
 
-  Ek bekasi faza-e-haqiqat meiṅ chhaayi hai
+  Ak bekasi faza-e-haqiqat meiṅ chhaayi hai
   Jangal pasand aa gaya basti basaayi hai
   Khushbu lahu ki khaak ke zarroṅ meiṅ paayi hai
   Phir Karbala se qaid meiṅ taqdir laayi hai
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   1
   Duba hua lahu meiṅ hai maghrib ka aaftaab
-  Har zarra Karbala ka hai dunya-e-inqilaab
+  Har zarra Karbala ka hai duniya-e-inqilaab
   Laila ka chaand aur wo zulfoṅ meiṅ pech o taab
   Sine meiṅ zakhm le gaya ujra hua shabaab
   Qaatil ne dil ko dekh ke barchhi lagaayi hai
@@ -45,19 +45,19 @@ romanLyrics: |-
   4
   Mushkil bahut thi raah magar kaam kar gaye
   Maaṅ dekhti thi god ke paale kidhar gaye
-  Ek daagh dil meiṅ chhor diya aur guzar gaye
+  Ak daagh dil meiṅ chhor diya aur guzar gaye
   Jhula bhi khatm ho gaya Asghar bhi mar gaye
   Bachche ki qabr maaṅ ne gale se lagaayi hai
 
   5
   Jo lab pe aah thi wo dil-e-zaar tak gayi
   Gham ki umang aansuoṅ ke dhaar tak gayi
-  Baaloṅ se muṅh ko dhaaṅp ke baazaar tak gayi
+  Baaloṅ se munh ko dhaanp ke baazaar tak gayi
   Kya kar kahuṅ Yazid ke darbaar tak gayi
   Gardish na jaane kaise muqaddar ne khaayi hai
 
   6
-  Ujre hue qayaam ka baaqi nahiṅ nishaaṅ
+  Ujre hue qiyaam ka baaqi nahiṅ nishaaṅ
   Hadd-e-tasawwuraat se bhi kho gaye makaaṅ
   Asghar hai ab na pyaas se sukhi hui zabaaṅ
   Nanhi lahad ko dhundti phirti hai ran meiṅ maaṅ

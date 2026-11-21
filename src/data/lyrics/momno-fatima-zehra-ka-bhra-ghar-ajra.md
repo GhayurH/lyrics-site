@@ -10,33 +10,43 @@ published: false
 romanLyrics: |-
   1
   Momino Fatima Zehra ka bhara ghar ujra
-  Dasht e khoon khar may Allah ka lashkar ujra
-  Noor ke halqay ka tabida wo gohar ujra
-  Pisr Haider ka Zainab ka baradar ujra
+  Haq ki paadaash meiṅ Allah ka lashkar ujra
+  Din ki raah meiṅ hai din ka sarwar ujra
+  Bhai Abbas ka Zainab ka baraadar ujra
 
   2
-  Nargha e aada may farzand e Payambar aaya
-  Payasa sahil ke kinaray dil e Haider aaya
+  Nargha-e-aada meiṅ farzand-e-Payambar aaya
+  Pyaasa saahil ke kinaare dil-e-Haider aaya
 
   3
-  Karbla aan ke ghar baar lutaya may ne
-  Wada nana se kia tha jo nibhaya may ne
-  Apnay bachon ko bardar ko kataya may ne
-  Nanhay Asghar ko bhi reti pe sulaya may ne
+  Karbala aan ke ghar baar lutaaya maiṅ ne
+  Waada naana se kiya tha jo nibhaaya maiṅ ne
+  Apne bachchoṅ ko baraadar ko kataaya maiṅ ne
+  Nanhe Asghar ko bhi reti pe sulaaya maiṅ ne
 
   4
-  Dekh na pao gi rukh apna phira lo amma
-  Qatl hota hoon nigahon ko hata lo amma
+  Shiddat-e-gham se phata jaata hai sina mera
+  Sakht dushwaar hua jaata hai jina mera
 
   5
-  Garm reti pe kia sar ko jhuka kar sajda
-  Aur huay khaliq e Akbar se yun Sarwar goya
-  Akbar o Ashgar o Abbas kiye tujh pe fida
-  Qasim o Aon o Muhammad ko bhi qurban kia
+  Garm reti pe kiya sar ko jhuka kar sajda
+  Aur hue khaaliq-e-Akbar se yuṅ Sarwar goya
+  Akbar o Asghar o Abbas kiye tujh pe fida
+  Qaasim o Aun o Muhammad ko bhi qurbaan kiya
 
   6
-  Teri marzi pe bharay ghar ko lutaya may ne
-  Teri chahat may nahi kuch bhi bachaya may ne
+  Teri marzi pe bhare ghar ko lutaaya maiṅ ne
+  Teri chaahat meiṅ nahiṅ kuchh bhi bachaaya maiṅ ne
+
+  7
+  Tir se nezoṅ se barchhi se badan zakhmi hai
+  Ruh zakhmi hai jigar zakhmi hai tan zakhmi hai
+  Pyaas se jaaṅ hai ba lab aur dhun zakhmi hai
+  Shab bhi zakhmi hai ye Aashur ka din zakhmi hai
+
+  8
+  Chur zakhmoṅ se huṅ paas apne bula lo ammaṅ
+  Qatl hota huṅ nigaahoṅ ko hata lo ammaṅ
 ---
 
 ۱

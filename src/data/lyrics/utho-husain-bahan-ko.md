@@ -1,7 +1,7 @@
 ---
 title: "یہ میں ہوں میں میری تنہائی، یہ تماشائی"
 recitationId: "utho-hussain-bahan-ko"
-alternateTitle: "Utho Husaiṅ Bahan Ko"
+alternateTitle: "Utho Husain Bahan Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -35,13 +35,13 @@ romanLyrics: |-
   3
   Safar Madine se kaisa tha ye safar kaisa hai
   Na mahmileṅ haiṅ na haudaj na koi parda hai
-  Hai sar meiṅ khaak ye Karb o Bala ka sahra hai
+  Hai sar mein khaak ye Karb o Bala ka sahra hai
   Na ji sakuṅ gi tere baad aitbaar karo
 
   4
   Dar-e-Furaat pe ae sone waale jaag zara
-  Alam ke saaye meiṅ rukhsat bahan ko kar bhaiya
-  Suna hai sakht kathan hai ye Shaam ka rasta
+  Alam ke saaye mein rukhsat bahan ko kar bhaiya
+  Suna hai sakht kathin hai ye Shaam ka rasta
   Sahl ye raasta Abbas naamdaar karo
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
   Maiṅ qaid kaat ke laut aauṅ intezaar karo
 
   6
-  Ragoṅ meiṅ khun badan meiṅ jo saans jaari hai
+  Ragoṅ mein khun badan mein jo saans jaari hai
   Tumhaari Sarwar o Rehan zimmedaari hai
   Jahaaṅ jahaaṅ mere bhai ki pursa daari hai
   Tum apne nauhoṅ se duniya ko sogwaar karo

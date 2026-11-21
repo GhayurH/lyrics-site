@@ -1,28 +1,44 @@
 ---
-title: "Mohammad E Arabi Shahid Baltistani Naat"
+title: "محمدِ عربی شاہد بلتستانی نعت"
+alternateTitle: "Mohammad-e-Arabi Shahid Baltistani Naat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Aasi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jahan-e-husan se yeh inqalab ho na saka
+  Muhammad-e-Arbi ka jawab ho na saka
+  Parha ke gaib se bhaija hai mere Aaqa ko
+  Bajuz Nabi koi Ummi khitab ho na saka
+  Khuda se door hai our woh khudi se na waqif
+  Dar-e-Rasool jisay dastiyab ho na saka
+  Araq jaben se le kar Nabi banaye gaye
+  Phir oss ke baad paseena ghulab ho na saka
+  Karam nigahi-e-Aaqa hain Buzar-o-Salmaan
+  Woh zarrah kya jo yahan aaftab ho na saka
+  Haqeeqatan Abu Talib ke ladlay ke siwa
+  Koi bhi misal-e-risalat maab ho na saka
+  Gunah gaar hai rehmat ki bas talash mein hai
+  Hamara Aasi bhi youn bazyab ho na saka
 ---
 
-1
-Mohammad e Arabi Shahid Baltistani Naat
-Jahan-e-Husan Se Yeh Inqalab Ho Na Saka.
-Muhammad-e-Arbi Ka Jawab Ho Na Saka.
-Parha Ke Gaib Se Bhaija Hai Mere Aaqa Ko.
-Bajuz Nabi Koi Ummi Khitab Ho Na Saka.
-Khuda Se Door Hai Our Woh Khudi Se Na Waqif.
-Dar-e-Rasool Jisay Dastiyab Ho Na Saka.
-Araq Jaben Se Le Kar Nabi Banaye Gaye.
-Phir Oss Ke Baad Paseena Ghulab Ho Na Saka.
-Karam Nigahi-e-Aaqa Hain Buzar-o-Salmaan.
-Woh Zarrah Kya Jo Yahan Aaftab Ho Na Saka.
-Haqeeqatan Abu Talib Ke Ladlay Ke Siwa.
-Koi Bhi Misal-e-Risalat Maab Ho Na Saka.
-Gunah Gaar Hai Rehmat Ki Bas Talash Mein Hai.
-Hamara Aasi Bhi Youn Bazyab Ho Na Saka.
+۱
+جہانِ حسن سے یہ انقلاب ہو نہ سکا
+محمدِ عربی کا جواب ہو نہ سکا
+پڑھا کے غیب سے بھیجا ہے میرے آقا کو
+بجز نبی کوئی اُمّی خطاب ہو نہ سکا
+خدا سے دور ہے اور وہ خودی سے ناواقف
+درِ رسول جسے دستیاب ہو نہ سکا
+عرق جبیں سے لے کر نبی بنائے گئے
+پھر اُس کے بعد پسینہ گلاب ہو نہ سکا
+کرم نگاہیِ آقا ہیں بوذر و سلمان
+وہ ذرّہ کیا جو یہاں آفتاب ہو نہ سکا
+حقیقتاً ابو طالب کے لاڈلے کے سوا
+کوئی بھی مثالِ رسالت مآب ہو نہ سکا
+گناہ گار ہے رحمت کی بس تلاش میں ہے
+ہمارا عاصی بھی یوں بازیاب ہو نہ سکا

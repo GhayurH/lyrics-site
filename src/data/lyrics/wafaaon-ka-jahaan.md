@@ -39,7 +39,7 @@ romanLyrics: |-
   5
   Dekh kar unchi chataanoṅ pe alam Abbas ka
   Aisa lagta hai jahaaṅ pe hai karam Abbas ka
-  Dur hai hadd-e-nigaah se aasmaaṅ Abbas hai
+  Dur hai hadd-e-nigaah se aasmaaṅ Abbas ka
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai
 
   6

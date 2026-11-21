@@ -1,7 +1,7 @@
 ---
 title: "جنگل پہاڑ کرتے ہیں ناد علی علی"
 recitationId: "hussain-hussain-hussain"
-alternateTitle: "Husain Husaiṅ Husaiṅ"
+alternateTitle: "Husain Husain Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Jangal pahaar karte haiṅ naad-e-Ali Ali
-  Mushkil ko meri hal karo mushkil kusha Ali
+  Mushkil ko sab ki hal karo mushkil kusha Ali
   Husain Husain Husain
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
   Lekin kaleje phatte the Zainab ke bain se
 
   2
-  Us waqt tha ajab Sheh-e-diṅ par hujum-e-yaas
+  Us waqt tha jab Shaah-e-din par hujum-e-yaas
   Dhalna wo do pahar ka wo aandhi wo lu o pyaas
   Laashe pare hue the azizoṅ ke aas paas
   Ro kar falak ko dekhte the Shaah-e-haq shanaas
@@ -36,14 +36,14 @@ romanLyrics: |-
   Batlaao kya iraada hai ae mere mah laqa
   Dast-e-adab ko jor ke bola wo baawafa
   Pyaasi Sakina marti hai ya Shaah-e-Karbala
-  Guzre haiṅ tin din yuṅhi is pusht pa par
+  Guzre haiṅ tin din yuhi is pusht pe par
   Gar izn ho to paani ko jaauṅ Furaat par
 
   4
   Yaaṅ charh chuke the ghore pe Abbas-e-haq shanaas
   Aayi sada bhatiji ki sunte hi dar ke paas
   Boli ye mashk de ke Sakina ba dard o yaas
-  Qurbaan ammu jaan bujha do hamaari pyaas
+  Qurbaan amu jaan bujha do hamaari pyaas
   Phatta hai dil atash se kaleja kabaab hai
   Saqqaai kijiye ke ye kaar-e-sawaab hai
 
@@ -52,7 +52,7 @@ romanLyrics: |-
   Bibi tumhaare baap ka adna hai ye ghulaam
   Di tum ne aabru mujhe ae dukhtar-e-Imaam
   Ab ho gaya jahaaṅ meiṅ bihishti hamaara naam
-  Kausar meiṅ samjhuṅ dosh pe gar mashk-e-aab ho
+  Kausar main samjhuṅ dosh pe gar mashk-e-aab ho
   Tum bhi dua karo ke chacha kaamyaab ho
 
   6
@@ -61,10 +61,10 @@ romanLyrics: |-
   Hasrat se muṅh phira ke nazar ki su-e-sawaar
   Bole ye baag jor ke Abbas-e-naamdaar
   Tu pi le ae faraaz ke bahut tishna kaam hai
-  Hum par to beHusain ye paani haraam hai
+  Hum par to be Husain ye paani haraam hai
 
   7
-  Bauchhaar yak ba yak hui tiroṅ ki hai ghazab
+  Bauchhaar ak ba ak hui tiroṅ ki haaye ghazab
   Tegheiṅ chali aqab se shariroṅ ki hai ghazab
   Ye shakl do jahaaṅ ke amiroṅ ki hai ghazab
   Bujhne na paayi pyaas saghiroṅ ki hai ghazab
@@ -72,8 +72,8 @@ romanLyrics: |-
   Tiroṅ ne chhaan daala safine ko sher ke
 
   8
-  Shaane se yuṅ ubal ke baha khun ke al-amaaṅ
-  Tharra ke jhumne lage Abbas-e-naujavaaṅ
+  Shaane se yuṅ ubal ke baha khun al-amaaṅ
+  Tharra ke jhumne lage Abbas naujawaaṅ
   Machhli ki tarah haath to reti pe tha tapaaṅ
   Lekin juda na hoti thi qabze se ungliyaaṅ
   Bedast ho gayi thi jo is tafdari ke saath
@@ -82,7 +82,7 @@ romanLyrics: |-
   9
   Raste meiṅ larkharaate the jab zof se qadam
   Akbar sambhaal lete the Baaba ko dam ba dam
-  Farmaate the tarap ke pisar se Shaah-e-umam
+  Farmaate the tarap ke pisar se Sheh-e-umam
   Jo haal ho baja hai ke bhaai ka hai alam
   Baazu pakar ke dilbar-e-Zehra ko le chalo
   Beta chacha ki laash pe Baaba ko le chalo

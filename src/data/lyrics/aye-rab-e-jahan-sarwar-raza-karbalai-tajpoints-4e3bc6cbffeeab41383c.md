@@ -1,22 +1,34 @@
 ---
-title: "Aye Rab E Jahan Sarwar Raza Karbalai"
+title: "اے ربِ جہاں سرور رضا کربلائی"
+alternateTitle: "Aye Rab-e-Jahan Sarwar Raza Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Dua"
 poet: "Sarwar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye Rab-e-Jahan Sarwar Raza Karbalai
+  Aye Rab-e-Jahan behatar tu janane wala hai
+  Kya kis ke dil mein hai tu dekhney wala hai
+  Beshak hum sab banday gunahgar hain tu lekin
+  Tu Raheem Kareem Khuda bara bakhshne wala hai
+  Kar moaf khataein sab tu sadqay Muhammad ke
+  Hai yaqeen tu Rab-e-Akbar moaf karne wala hai
+  Baqi jo zindagi guzrey teri bandagi mein guzrey Maula
+  Karta rahe teri sana Sarwar tu hi atta karne wala hai
 ---
 
-1
-Aye Rab-e-Jahan Sarwar Raza Karbalai.
-Aye Rab-e-Jahan Behatar Tu Janane Wala Hai.
-Kya Kis Ke Dil Mein Hai Tu Dekhney Wala Hai.
-Beshak Hum Sab Banday Gunahgar Hain Tu Lekin.
-Tu Raheem Kareem Khuda Bara Bakhshne Wala Hai.
-Kar Moaf Khataein Sab Tu Sadqay Muhammad Ke.
-Hai Yaqeen Tu Rab-e-Akbar Moaf Karne Wala Hai.
-Baqi Jo Zindagi Guzrey Teri Bandagi Mein Guzrey Maula.
-Karta Rahe Teri Sana Sarwar Tu Hi Atta Karne Wala Hai.
+۱
+اے ربِ جہاں سرور رضا کربلائی
+اے ربِ جہاں بہتر تو جاننے والا ہے
+کیا کس کے دل میں ہے تو دیکھنے والا ہے
+بے شک ہم سب بندے گناہ گار ہیں تو لیکن
+تو رحیم کریم خدا بڑا بخشنے والا ہے
+کر معاف خطائیں سب تو صدقے محمد کے
+ہے یقین تو ربِ اکبر معاف کرنے والا ہے
+باقی جو زندگی گزرے تیری بندگی میں گزرے مولا
+کرتا رہے تیری ثنا سرور تو ہی عطا کرنے والا ہے

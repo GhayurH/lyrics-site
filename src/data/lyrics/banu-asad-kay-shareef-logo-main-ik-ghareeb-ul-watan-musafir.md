@@ -8,71 +8,45 @@ poet: "Iftekhar Haider"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Banu Asad Kay Shareef Logo Main Ik Ghareeb-ul-Watan Musafir"
-romanLyrics: 'Banu Asad Kay Shareef Logo Main Ik Ghareeb-ul-Watan Musafir.
-
+alternateTitle: "Banu Asad Ke Sharif Logoṅ Main Ik Gharib-ul-Watan Musafir"
+romanLyrics: |-
+  Main ik gharib-ul-watan musaafir
 
   1
-
-  Tumhari basti ke paas qaime laga chuka hoon
-
-  Mai aath din tak yahin rahunga
-
-  Tum aathwein roz shaam ke waqt
-
-  Is taraf aake dekh lena
-
-  Agar tum is dashte be-amaan mein
-
-  Kati phati sar bureeda laashon
-
-  Ke tukde dekho to dafn karke
-
-  Riza o khushnoodi e risalat muaab lena
-
-  Khuda se ajr o sawaab lena
-
+  Banu Asad ke sharif logoṅ
 
   2
-
-  Banu asad ki hijaab mein baithi bibiyon
-
-  Agar ye dekho ke waqt ke
-
-  Hukmaran ki dehshat se khauf se
-
-  Mard ghar se baahar nikal na paayein
-
-  To tum zara dayr ko nikal ke
-
-  Hamari laashon ko rayt ke sar buland
-
-  Teelon se dhaanp dena
-
-  Riza o khushnoodi e risalat muaab lena
-
+  Tumhaari basti ke paas khaime laga chuka huṅ
+  Main aath din tak yahiṅ rahuṅga
+  Tum aathweṅ roz shaam ke waqt
+  is taraf aake dekh lena
+  Agar tum is dasht-e-be-amaaṅ meiṅ
+  kati phati sar burida laashoṅ
+  ke tukre dekho to dafn karke
+  raza o khushnudi-e-risaalat ma'aab lena
   Khuda se ajr o sawaab lena
 
-
   3
+  Banu Asad ke hijaab meiṅ baithi bibiyoṅ
+  Agar ye dekhuṅ ke waqt ke
+  hukmaraaṅ ki dehshat se khauf se
+  mard ghar se baahar nikal na paaeṅ
+  to tum zara der ko nikal ke
+  hamaari laashoṅ ko ret ke sar buland
+  tiloṅ se dhaaṅp dena
+  raza o khushnu-e-risaalat maab lena
+  Khuda se ajr o sawaab lena
 
-  Banu asad ke dulaare bacchon
-
-  Tumhare maa baap khauf o dehshat se
-
-  Ghar se baahar nikal na paayein
-
-  To aisa karna to aisa karna
-
-  To khelte khelte nikal kar
-
-  Hamari laashon ke paas aana
-
-  Aur apne haathon mein rayt bhar ke
-
-  Hamari laashon pe daal dena
-
-  Meri sakina duayein degi'
+  4
+  Banu Asad ke dulaare bachchoṅ
+  Tumhaare maaṅ baap khauf o dehshat se
+  ghar se baahar nikal na paaeṅ
+  to aisa karna to aisa karna
+  to khelte khelte nikal kar
+  hamaari laashoṅ ke paas aana
+  aur apne haathoṅ meiṅ ret bhar ke
+  hamaari laashoṅ pe daal dena
+  Meri Sakina duaaeṅ degi
 ---
 
 میں اک غریب الوطن مسافر

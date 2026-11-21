@@ -1,38 +1,65 @@
 ---
-title: "Hum Agar Farsh-e-Azza Ghar Ghar Bichana Lyrics 2015"
+title: "ہم اگر فرشِ عزا گھر گھر بچھانا چھوڑ دیں"
+alternateTitle: "Hum Agar Farsh-e-Azza Ghar Ghar Bichana Choor Dein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hum agar Farsh-e-Azza ghar ghar bichana choor dein
+  Aasmaan wale zameen par aana jana choor dein
+
+  1
+  Aye zameen tujh mein na ho gar sar zameen-e-Karbala
+  Chand our soraj terer chakar lagana choor dein
+  Nashar ho jaein jo sab tere fazail Karbala
+  Rab-e-Kaba ki qasam sab hajj pe jana choor dein
+
+  2
+  Panjtan ne khud parhi hai jab tu phir aye dosto
+  Kis tarha se hum namaz-e-panjgana choor dein
+  Asghar-e-Masoom ke lab par tabasum aa giya
+  Phool kaliyon se kaho aab muskurana choor dein
+
+  3
+  Sheikh jee ahl-e-wila ko na samaj samjha hai kya
+  Tere kehne par wilayat ka khazana choor dein
+  Waqt ruk jaye ga tham jaye ga soraj ka safar
+  Fatima Zahra agar chaki chalana choor dein
+
+  4
+  Shoq se pe le Nosairi Hub-e-Haider ki sharab
+  Bas ghuzarish hai keh pe kar larkharana choor dein
+  Matam-e-Shabir mein uthte nahi hain jo kabhi
+  Hath Akbar aise logon se milana choor dein
 ---
 
-Hum Agar Farsh-e-Azza Ghar Ghar Bichana Choor Dein.
-Aasmaan Wale Zameen Par Aana Jana Choor Dein.
+ہم اگر فرشِ عزا گھر گھر بچھانا چھوڑ دیں
+آسمان والے زمین پر آنا جانا چھوڑ دیں
 
-1
-Aye Zameen Tujh Mein Na Ho Gar Sar Zameen-e-Karbala.
-Chand Our Soraj Terer Chakar Lagana Choor Dein.
-Nashar Ho Jaein Jo Sab Tere Fazail Karbala.
-Rab-e-Kaba Ki Qasam Sab Hajj Pe Jana Choor Dein.
+۱
+اے زمین تجھ میں نہ ہو گر سرزمینِ کربلا
+چاند اور سورج تیرے چکر لگانا چھوڑ دیں
+نشر ہو جائیں جو سب تیرے فضائل کربلا
+ربِ کعبہ کی قسم سب حج پہ جانا چھوڑ دیں
 
-2
-Panjtan Ne Khud Parhi Hai Jab Tu Phir Aye Dosto.
-Kis Tarha Se Hum Namaz-e-Panjgana Choor Dein.
-Asghar-e-Masoom Ke Lab Par Tabasum Aa Giya.
-Phool Kaliyon Se Kaho Aab Muskurana Choor Dein.
+۲
+پنجتن نے خود پڑھی ہے جب تو پھر اے دوستو
+کس طرح سے ہم نمازِ پنجگانہ چھوڑ دیں
+اصغرِ معصوم کے لب پر تبسم آ گیا
+پھول کلیوں سے کہو اب مسکرانا چھوڑ دیں
 
-3
-Sheikh Jee Ahl-e-Wila Ko Na Samaj Samjha Hai Kya.
-Tere Kehne Par Wilayat Ka Khazana Choor Dein.
-Waqt Ruk Jaye Ga Tham Jaye Ga Soraj Ka Safar.
-Fatima Zahra Agar Chaki Chalana Choor Dein.
+۳
+شیخ جی اہلِ ولا کو ناسمجھ سمجھا ہے کیا
+تیرے کہنے پر ولایت کا خزانہ چھوڑ دیں
+وقت رک جائے گا تھم جائے گا سورج کا سفر
+فاطمہ زہرا اگر چکی چلانا چھوڑ دیں
 
-4
-Shoq Se Pe Le Nosairi Hub-e-Haider Ki Sharab.
-Bas Ghuzarish Hai Keh Pe Kar Larkharana Choor Dein.
-Matam-e-Shabir Mein Uthte Nahi Hain Jo Kabhi.
-Hath Akbar Aise Logon Se Milana Choor Dein.
+۴
+شوق سے پی لے نصیری حبِ حیدر کی شراب
+بس گزارش ہے کہ پی کر لڑکھڑانا چھوڑ دیں
+ماتمِ شبیر میں اٹھتے نہیں ہیں جو کبھی
+ہاتھ اکبر ایسے لوگوں سے ملانا چھوڑ دیں

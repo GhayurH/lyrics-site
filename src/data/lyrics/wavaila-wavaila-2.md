@@ -12,59 +12,59 @@ published: false
 romanLyrics: |-
   1
   Wavaila wavaila wavaila wavaila
-  Haye saani e zehra aur bazaar wavaila
-  Utri thi kabhi jinke liye aaya e tathir
-  Shehzadiyaṅ bazaaroṅ meiṅ hoti hai wo tash'heer
-  Ki hai ye musalman ne sadaat ki tauqir
-  Haye hoti hai sadqoṅ ki bauchar wavaila
+  Haaye saani-e-Zehra aur baazaar wavaila
+  Utri thi kabhi jin ke liye aaya-e-tathir
+  Shehzaadiyaaṅ baazaaroṅ meiṅ hoti hai wo tashhir
+  Ki hai ye musalmaan ne saadaat ki tauqir
+  Haaye hoti hai sadqoṅ ki bochhaar wavaila
 
   2
-  Qaidi hai wo kufe meiṅ kabhi jinki thi shaahi
-  Quran ki aayaat meiṅ hai jinki gawahi
-  Hoti hai kahiṅ yuṅ bhi kisi ghar ki tabahi
-  Haye lut gayi zehra ki sarkar wavaila
+  Qaidi hai wo Kufe meiṅ kabhi jin ki thi shaahi
+  Quraan ki aayaat meiṅ hai jin ki gawaahi
+  Hoti hai kahiṅ yuṅ bhi kisi ghar ki tabaahi
+  Haaye lut gayi Zehra ki sarkaar wavaila
 
   3
-  Abid ye sada dete hai thaame huwe beri
+  Aabid ye sada dete haiṅ thaame hue beri
   Kis mor pe laayi hai mujhe meri yatimi
-  Langar ke sabab meri kamar hogayi dohri
-  Haye kaise kate raahe pur khaar wavaila
+  Langar ke sabab meri kamar ho gayi dohri
+  Haaye kaise kate raah-e-pur khaar wavaila
 
   4
-  Malum hai ye sab ko naazoṅ ke pale hai
-  In kaantoṅ pe paidal jo kayi meel chale hai
-  Ek rassi hai aur chote bare baare gale hai
-  Haye zulm o sitam ki hai yalghaar wavaila
+  Maalum hai ye sab ko naazoṅ ke pale haiṅ
+  In kaantoṅ pe paidal jo kai baar chale haiṅ
+  Ek rassi hai aur chhote bare baarah gale haiṅ
+  Haaye zulm o sitam ki hai yalghaar wavaila
 
   5
-  Kehta hai koi dekho wo abbas ka sar hai
-  Rehwaar ki gardan meiṅ jo sar garme safar hai
-  Sharminda hai balwe meiṅ jo zainab khule sar hai
-  Haye naize pe chalna hai dushwaar wavaila
+  Kehta hai koi dekho wo Abbaas ka sar hai
+  Rehwaar ki gardan meiṅ jo sargarm-e-safar hai
+  Sharminda hai balwe meiṅ jo Zainab khule sar hai
+  Haaye naize pe chalna hai dushwaar wavaila
 
   6
-  Aurat koi kehti hai wo hai maadar e akbar
-  Rakhe huwe haathoṅ ko jo hai apne jigar par
-  Jaise kisi barchi se ho chalni dil e maadar
-  Haye daaghe pisar se hai seena figaar wavaila
+  Aurat koi kehti hai wo hai maadar-e-Akbar
+  Rakhe hue haathoṅ ko jo hai apne jigar par
+  Jaise kisi barchi se ho chhalni dil-e-maadar
+  Haaye daagh-e-pisar se hai sina figaar wavaila
 
   7
-  Kehti hai koi maa mere jarrar kahaṅ ho
-  Bano ne kaha asghar e nadan kahaṅ ho
-  Ek shor hai abbas e alamdar kahaṅ ho
-  Haye durre lagate hai aghiyaar wavaila
+  Kehti hai koi maaṅ mere Jarraar kahaaṅ ho
+  Baano ne kaha Abbaas-e-Alamdaar kahaaṅ ho
+  Ek shor hai Abbaas-e-Alamdaar kahaaṅ ho
+  Haaye durre lagaate haiṅ aghyaar wavaila
 
   8
-  Jab dekhti hai bali sakina ye nazare
-  Bazaar meiṅ har simt tamashayi hai saare
-  Tab kehti hai baba mere tum ran ko sidhare
-  Haye kya karuṅ mai dukhiya lachaar wavaila
+  Jab dekhti hai baali Sakina ye nazaare
+  Baazaar meiṅ har simt tamaashaai haiṅ saare
+  Tab dekhti hai baaba mere tum ran ko sidhare
+  Haaye kya karuṅ maiṅ dukhaaya laachaar wavaila
 
   9
-  Ae aamir o nayyar ye qayamat ki ghari hai
-  Zainab dar e sa'at pe sar nange khari hai
+  Ae Aamir o Nayyar ye qayaamat ki ghari hai
+  Zainab dar-e-saa'at pe sar nange khari hai
   Bewaoṅ meiṅ kohraam hai majlis ye bari hai
-  Haye sajta hai haakim ka darbar wavaila
+  Haaye sajta hai haakim ka darbaar wavaila
 ---
 
 ۱

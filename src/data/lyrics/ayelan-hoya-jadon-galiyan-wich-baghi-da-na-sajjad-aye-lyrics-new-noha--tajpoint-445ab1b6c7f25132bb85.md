@@ -1,26 +1,45 @@
 ---
-title: "Ayelan Hoya Jadon Galiyan Wich Baghi Da Na Sajjad Aye Lyrics New Noha 25 Muharram 2025"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اعلان ہویا جدوں گلیاں وچ باغی دا ناں سجاد اے"
+alternateTitle: "Ayelan Hoya Jadon Galiyan Wich Baghi Da Na Sajjad Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ayelan hoya jadon galiyan wich baghi da na Sajjad aye
+  Sir wekh ke saang te Ghazi da roi Zahra di aoulad aye
+  Sajjad beemar di ghurbat te hasday ne sare Shami
+
+  1
+  Oh chadar chadar kehnda aye koi sunda nahin faryad aye
+  Kandiyaan te paidal turdi rayi mitiyaan di chadar payi
+  Zainab ne ki ki dukh wekhay Abbas bhira de baad aye
+  Darbar di ik ik peshi te dhi Zahra di farmaway
+  Assi qaidi ho gaye Rab saiyaan par deen tera aazad aye
+
+  2
+  Tin din taein bahir aanday ray har bang de naal namazi
+  Bazar ich wekhan waliyaan di ainj wadhdi rayi tadad aye
+  Saqlain aye Mehdi wain karey talwar Ali di cha ke
+  Chodah so saal taun Zainab da har khutba mainu yaad aye
 ---
 
-Ayelan Hoya Jadon Galiyan Wich Baghi Da Na Sajjad Aye.
-Sir Wekh Ke Saang Te Ghazi Da Roi Zahra Di Aoulad Aye.Sajjad Beemar Di Ghurbat Te Hasday Ne Sare Shami.
+اعلان ہویا جدوں گلیاں وچ باغی دا ناں سجاد اے
+سر ویکھ کے سانگ تے غازی دا روئی زہرا دی اولاد اے
+سجاد بیمار دی غربت تے ہسدے نے سارے شامی
 
-1
-Oh Chadar Chadar Kehnda Aye Koi Sunda Nahin Faryad Aye.Kandiyaan Te Paidal Turdi Rayi Mitiyaan Di Chadar Payi.
-Zainab Ne Ki Ki Dukh Wekhay Abbas Bhira De Baad Aye.
-Darbar Di Ik Ik Peshi Te Dhi Zahra Di Farmaway.
-Assi Qaidi Ho Gaye Rab Saiyaan Par Deen Tera Aazad Aye.
+۱
+اوہ چادر چادر کہندا اے کوئی سندا نہیں فریاد اے
+کنڈیاں تے پیدل ٹردی رہی مٹیاں دی چادر پائی
+زینب نے کی کی دکھ ویکھے عباس بھرا دے بعد اے
+دربار دی اک اک پیشی تے دھی زہرا دی فرماوے
+اسی قیدی ہو گئے رب سائیاں پر دین تیرا آزاد اے
 
-2
-Tin Din Taein Bahir Aanday Ray Har Bang De Naal Namazi.
-Bazar Ich Wekhan Waliyaan Di Ainj Wadhdi Rayi Tadad Aye.
- Saqlain Aye Mehdi Wain Karey Talwar Ali Di Cha Ke.
-Chodah So Saal Taun Zainab Da Har Khutba Mainu Yaad Aye.
+۲
+تن دن تائیں باہر آندے رہے ہر بانگ دے نال نمازی
+بازار اچ ویکھن والیاں دی انج ودھدی رہی تعداد اے
+ثقلین اے مہدی وین کرے تلوار علی دی چا کے
+چودہ سو سال توں زینب دا ہر خطبہ مینوں یاد اے

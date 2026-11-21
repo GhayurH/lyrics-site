@@ -1,65 +1,119 @@
 ---
-title: "Aye Zameen Bais-e-Takreem Hain Ashab-e-Ali"
+title: "اے زمین باعثِ تکریم ہیں اصحابِ علی"
+alternateTitle: "Aye Zameen Bais-e-Takreem Hain Ashab-e-Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye zameen bais-e-takreem hain ashab-e-Ali
+  Aye bashar laiq-e-tazeem hain ashab-e-Ali
+  Husan-o-kirdar ki taqseem hain ashab-e-Ali
+  Fard hote hoye tanzeem hain ashab-e-Ali
+
+  2
+  Inn ko main kaise kahoon bujhte sitaron ki tarha
+  Mujh ko lagte hain yeh Quran ke paron ki tarha
+  Woh jo fakhar-e-bashreat ho wohi hai insaan
+  Jis ke kirdar ko jab dekhe tu khush ho Rehmaan
+
+  3
+  Daswein darjay pe nazar aati ho satah-e-emaan
+  Aisi manzil pe nazar aaye janab-e-Salmaan
+  Jab woh nalain-e-Ali chone ko jhuk jata hai
+  Mujh ko Salman Suleman nazar aata hai
+
+  4
+  Khum mein Amar ne man kunto ka paigham suna
+  Jab talak jeeta raha zikar-e-Ghadeer oss ne kaha
+  Mar ke bhi de gaya Siffeen ke baghi ka pata
+  Hum ko Amar ki seerat se yehi dars mila
+
+  5
+  Marte marte jo zabaan nam-e-Ali leti hai
+  Maut aison ko bhi jeene ki dua deti hai
+  Aik Mesum keh jo tha Mula Ali ka shaida
+  Jis ne medan-e-khatabat ko niya rang diya
+
+  6
+  Be-zabaan hote hoye guftgu karta hai Khuda
+  Be-zabaan ho gaya Mesum bhi sar-e-dar-e-jafa
+  Yeh hai Mesum yeh zabaan katne se kab darta hai
+  Yeh tu Khaliq ki tarha zikar-e-Ali karta hai
+
+  7
+  Inn ka kirdar moarikh jonhi dikhlata hai
+  Koi Yousuf koi Haron nazar aata hai
+  Jab mera tair-e-fikar in ki taraf jata hai
+  Aa ke wapis woh mere qalab se farmata hai
+
+  8
+  Shakal-e-insaan mein yeh anwar-e-jali ho jate hain
+  Khatam hoti na nabowat tu nabi ho jate
+  Zikar-e-ashab-e-Ali dil mein samata jaye
+  Likhe Majid tu Wajhi oss ko sunata jaye
+
+  9
+  Zikar aise hi wafadaron ka likha jaye
+  Tazkira lab pe kissi ghair ka kyun aa jaye
+  Yeh sada peeche payamber ke rahe aagay nahi
+  Our kabhi jang ka moqa ho tu yeh bhagay nahi
 ---
 
-1
-Aye Zameen Bais-e-Takreem Hain Ashab-e-Ali.
-Aye Bashar Laiq-e-Tazeem Hain Ashab-e-Ali.
-Husan-o-Kirdar Ki Taqseem Hain Ashab-e-Ali.
-Fard Hote Hoye Tanzeem Hain Ashab-e-Ali.
+۱
+اے زمین باعثِ تکریم ہیں اصحابِ علی
+اے بشر لائقِ تعظیم ہیں اصحابِ علی
+حسن و کردار کی تقسیم ہیں اصحابِ علی
+فرد ہوتے ہوئے تنظیم ہیں اصحابِ علی
 
-2
-Inn Ko Main Kaise Kahoon Bujhte Sitaron Ki Tarha.
-Mujh Ko Lagte Hain Yeh Quran Ke Paron Ki Tarha.
-Woh Jo Fakhar-e-Bashreat Ho Wohi Hai Insaan.
-Jis Ke Kirdar Ko Jab Dekhe Tu Khush Ho Rehmaan.
+۲
+ان کو میں کیسے کہوں بجھتے ستاروں کی طرح
+مجھ کو لگتے ہیں یہ قرآن کے پاروں کی طرح
+وہ جو فخرِ بشریت ہو وہی ہے انسان
+جس کے کردار کو جب دیکھے تو خوش ہو رحمٰن
 
-3
-Daswein Darjay Pe Nazar Aati Ho Satah-e-Emaan.
-Aisi Manzil Pe Nazar Aaye Janab-e-Salmaan.
-Jab Woh Nalain-e-Ali Chone Ko Jhuk Jata Hai.
-Mujh Ko Salman Suleman Nazar Aata Hai.
+۳
+دسویں درجے پہ نظر آتی ہو سطحِ ایماں
+ایسی منزل پہ نظر آئے جنابِ سلماں
+جب وہ نعلینِ علی چھونے کو جھک جاتا ہے
+مجھ کو سلمان سلیمان نظر آتا ہے
 
-4
-Khum Mein Amar Ne Man Kunto Ka Paigham Suna.
-Jab Talak Jeeta Raha Zikar-e-Ghadeer Oss Ne kaha.
-Mar Ke Bhi De Gaya Siffeen Ke Baghi Ka Pata.
-Hum Ko Amar Ki Seerat Se Yehi Dars Mila.
+۴
+خم میں عمار نے من کنتو کا پیغام سنا
+جب تلک جیتا رہا ذکرِ غدیر اس نے کہا
+مر کے بھی دے گیا صفین کے باغی کا پتا
+ہم کو عمار کی سیرت سے یہی درس ملا
 
-5
-Marte Marte Jo Zabaan Nam-e-Ali Leti Hai.
-Maut Aison Ko Bhi Jeene Ki Dua Deti Hai.
-Aik Mesum Keh Jo Tha Mula Ali Ka Shaida.
-Jis Ne Medan-e-Khatabat Ko Niya Rang Diya.
+۵
+مرتے مرتے جو زباں نامِ علی لیتی ہے
+موت ایسوں کو بھی جینے کی دعا دیتی ہے
+ایک میثم کہ جو تھا مولا علی کا شیدا
+جس نے میدانِ خطابت کو نیا رنگ دیا
 
-6
-Be-Zabaan Hote Hoye Guftgu Karta Hai Khuda.
-Be-Zabaan Ho Gaya Mesum Bhi Sar-e-Dar-e-Jafa.
-Yeh Hai Mesum Yeh Zabaan Katne Se Kab Darta Hai.
-Yeh Tu Khaliq Ki Tarha Zikar-e-Ali Karta Hai.
+۶
+بے زباں ہوتے ہوئے گفتگو کرتا ہے خدا
+بے زباں ہو گیا میثم بھی سرِ دارِ جفا
+یہ ہے میثم یہ زباں کٹنے سے کب ڈرتا ہے
+یہ تو خالق کی طرح ذکرِ علی کرتا ہے
 
-7
-Inn Ka Kirdar Moarikh Jonhi Dikhlata Hai.
-Koi Yousuf Koi Haron Nazar Aata Hai.
-Jab Mera Tair-e-Fikar In Ki Taraf Jata Hai.
-Aa Ke Wapis Woh Mere Qalab Se Farmata Hai.
+۷
+ان کا کردار مؤرخ جوں ہی دکھلاتا ہے
+کوئی یوسف کوئی ہارون نظر آتا ہے
+جب میرا طائرِ فکر ان کی طرف جاتا ہے
+آ کے واپس وہ میرے قلب سے فرماتا ہے
 
-8
-Shakal-e-Insaan Mein Yeh Anwar-e-Jali Ho Jate Hain.
-Khatam Hoti Na Nabowat Tu Nabi Ho Jate.
-Zikar-e-Ashab-e-Ali Dil Mein Samata Jaye.
-Likhe Majid Tu Wajhi Oss Ko Sunata Jaye.
+۸
+شکلِ انسان میں یہ انوارِ جلی ہو جاتے ہیں
+ختم ہوتی نہ نبوت تو نبی ہو جاتے
+ذکرِ اصحابِ علی دل میں سماتا جائے
+لکھے ماجد تو وجہی اس کو سناتا جائے
 
-9
-Zikar Aise Hi Wafadaron Ka LIkha Jaye.
-Tazkira Lab Pe Kissi Ghair Ka Kyun Aa Jaye.
-Yeh Sada Peeche Payamber Ke Rahe Aagay Nahi.
-Our Kabhi Jang Ka Moqa Ho Tu Yeh Bhagay Nahi.
+۹
+ذکر ایسے ہی وفاداروں کا لکھا جائے
+تذکرہ لب پہ کسی غیر کا کیوں آ جائے
+یہ سدا پیچھے پیمبر کے رہے آگے نہیں
+اور کبھی جنگ کا موقع ہو تو یہ بھاگے نہیں

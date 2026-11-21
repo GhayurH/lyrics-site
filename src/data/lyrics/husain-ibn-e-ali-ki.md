@@ -28,12 +28,12 @@ romanLyrics: |-
   Na puchho kya qayaamat ki ghari thi qaid khaane meiṅ
 
   4
-  Gale meiṅ tauq beri paaoṅ meiṅ haathoṅ meiṅ hathkariyaṅ
+  Gale meiṅ tauq beri paaoṅ meiṅ haathoṅ meiṅ hathkariyaaṅ
   Lahad Sajjad ne kaise banaai qaid khaane meiṅ
 
   5
   Dam-e-aakhir kaha baaba madad ka waqt aa pahuncha
-  Sakina ne bhi hal min ki sada di qaid khaane meiṅ
+  Sakina ne bhi hal min ki sadaa di qaid khaane meiṅ
 
   6
   Jise baaba ke sine par bara aaraam milta tha

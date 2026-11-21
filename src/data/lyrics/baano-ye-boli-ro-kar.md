@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Aankhoṅ meiṅ rehne wale sine pe sone wale
-  Beshir mere Asghar jhule ke sone wale
+  Be shir mere Asghar jhule ke sone wale
 
   2
   Gardan dhali hui hai manka dhala hua hai
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Ik aag si lagi hai dil gham se phat raha hai
-  Aaye qaraar kiun kar jhule ke sone wale
+  Aaye qaraar kiunkar jhule ke sone wale
 
   8
   Jalti zamiṅ pe Mirza paas murda-e-kali hai

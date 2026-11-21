@@ -1,32 +1,65 @@
 ---
-title: "Tum Rehgaey Jaakar Kahan Abbas Kahan Ho"
+title: "تم رہ گئے جا کر کہاں عباس کہاں ہو"
+alternateTitle: "Tum Rehgaey Jaakar Kahan Abbas Kahan Ho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tum rehgaey jaakar kahan Abbas kahan ho
+  Khaymon mein hai aah-o-buka Abbas kahan ho
+
+  1
+  Tooti hai kamar Shah ki aur zakhmi bahot hain
+  Uthti nahi laash-e-javan Abbas kahan ho
+
+  2
+  Shabbir pay talvaaron ki yalghaar hai uttho
+  Har zakhm hai noha kuna Abbas kahan ho
+
+  3
+  Kartay hain sitam jashn manaatay hain sitamgar
+  Hain qaid mein shehzaadiyan Abbas kahan ho
+
+  4
+  Hai raak pay bethi hoowi aur khaak hai sar par
+  Bai haal hain Saidaanian Abbas kahan ho
+
+  5
+  Dur chingaey lagtay hain Sakina kay tamaachay
+  Yeh kamsini yeh sakhtiyaan Abbas kahan ho
+
+  6
+  Ayk shor bapa giaara Muharram ko tha Gohar
+  Ho Akbar-o-Qasim kahan Abbas kahan ho
 ---
 
-Tum Rehgaey Jaakar Kahan Abbas Kahan Ho
+تم رہ گئے جا کر کہاں عباس کہاں ہو
+خیموں میں ہے آہ و بکا عباس کہاں ہو
 
-Khaymon Mein Hai Aah-o-Buka Abbas Kahan Ho
+۱
+ٹوٹی ہے کمر شاہ کی اور زخمی بہت ہیں
+اٹھتی نہیں لاشِ جواں عباس کہاں ہو
 
-Tooti Hai Kamar Shah Ki Aur Zakhmi Bahot Hain
-Uthti Nahi Laash-e-Javan Abbas Kahan Ho
+۲
+شبیر پہ تلواروں کی یلغار ہے اٹھو
+ہر زخم ہے نوحہ کناں عباس کہاں ہو
 
-Shabbir Pay Talvaaron Ki Yalghaar Hai Uttho
-Har Zakhm Hai Noha Kuna Abbas Kahan Ho
+۳
+کرتے ہیں ستم جشن مناتے ہیں ستم گر
+ہیں قید میں شہزادیاں عباس کہاں ہو
 
-Kartay Hain Sitam Jashn Manaatay Hain Sitamgar
-Hain Qaid Mein Shehzaadiyan Abbas Kahan Ho
+۴
+ہے راکھ پہ بیٹھی ہوئی اور خاک ہے سر پر
+بے حال ہیں سیدانیاں عباس کہاں ہو
 
-Hai Raak Pay Bethi Hoowi Aur Khaak Hai Sar Par
-Bai Haal Hain Saidaanian Abbas Kahan Ho
+۵
+دُر چھن گئے لگتے ہیں سکینہ کے طمانچے
+یہ کم سنی یہ سختیاں عباس کہاں ہو
 
-Dur Chingaey Lagtay Hain Sakina Kay Tamaachay
-Yeh Kamsini Yeh Sakhtiyaan Abbas Kahan Ho
-
-Ayk Shor Bapa Giaara Muharram Ko Tha Gohar
-Ho Akbar-o-qasim Kahan Abbas Kahan Ho
+۶
+ایک شور بپا گیارہ محرم کو تھا گوہر
+ہو اکبر و قاسم کہاں عباس کہاں ہو

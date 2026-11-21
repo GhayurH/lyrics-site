@@ -1,37 +1,61 @@
 ---
-title: "Baghdad De Qaidi Nu Jadon Ujriyaan Dhiyaan Ne Lyrics 2005"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بغداد دے قیدی نوں جدوں اجڑیاں دھیاں نے"
+alternateTitle: "Baghdad De Qaidi Nu Jadon Ujriyaan Dhiyaan Ne"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akhtar"
-tags: ["noUrdu"]
 aliases: []
 published: false
-
+romanLyrics: |-
+  1
+  Baghdad de qaidi nu jadon ujriyaan dhiyaan ne ro ro ke vida kita
+  Paiyaan kardiyaan baba baba sun kanb giya arsh Khuda da
+  Gal naloon jadoon Shah ne dhiyaan nu juda kita
+  Karbal di kahani nu inj waqt ne dohraya
+  Lagda si jiwein mur ke fair door-e-Yazeed aaya
+  Babay de hathi hathkariyaan dhiyaan rowan bohe te khariyaan
+  Sajjad di sunnat nu Kazim ne adda kita
+  Zanjeeraan sanay chaya mazdooraan ne maiyyat nu
+  Sir khak payi Zhara tak putar di halat nu
+  Aj Fazal da baba aaway aa tauq galay da laway
+  Mazloom musafir da ummat na haya kita
+  Zindan de wich jiss ne zindagi aye langa chori
+  Oddi lash Musalmanaan rawaan che rola chori
+  Kofay che Ali kurlaye Baqiye choon wain si aaye
+  Dil toriyaan Ahmad da Zhara nu bapa kita
+  Kisay ruldiyaan nayi wekhi inj lash aseeraan di
+  Bazaraan wichi aaway chankar zanjeeraan di
+  Mur jaan sipahi khar ke hath nabaz utay tar tar ke
+  Pak maut da ho giya si fair kyun na riha kita
+  Aaj ghafal matam toon na koi pursadar howay
+  Mataan naal tere ronda khara pak bemar howay
+  Oss ujari noo parchaona aye jine Sham choon rondiyaan aaona aye
+  Har chook abboor Akhtar jine baaj rida kita
 ---
 
-1
-Baghdad De Qaidi Nu Jadon Ujriyaan Dhiyaan Ne Ro Ro Ke Vida Kita.
-Paiyaan Kardiyaan Baba Baba Sun Kanb Giya Arsh Khuda Da
-Gal Naloon Jadoon Shah Ne Dhiyaan Nu Juda Kita.
-Karbal Di Kahani Nu Inj Waqt Ne Dohraya.
-Lagda Si Jiwein Mur Ke Fair Door-e-Yazeed Aaya.
-Babay De Hathi Hathkariyaan Dhiyaan Rowan Bohe Te Khariyaan.
-Sajjad Di Sunnat Nu Kazim Ne Adda Kita.
-Zanjeeraan Sanay Chaya Mazdooraan Ne Maiyyat Nu.
-Sir Khak Payi Zhara Tak Putar Di Halat Nu.
-Aj Fazal Da Baba Aaway Aa Tauq Galay Da Laway.
-Mazloom Musafir Da Ummat Na Haya Kita.
-Zindan De Wich Jiss Ne Zindagi Aye Langa Chori.
-Oddi Lash Musalmanaan Rawaan Che Rola Chori.
-Kofay Che Ali Kurlaye Baqiye Choon Wain Si Aaye.
-Dil Toriyaan Ahmad Da Zhara Nu Bapa Kita.
-Kisay Ruldiyaan Nayi Wekhi Inj Lash Aseeraan Di.
-Bazaraan Wichi Aaway Chankar Zanjeeraan Di.
-Mur Jaan Sipahi Khar Ke Hath Nabaz Utay Tar Tar Ke.
-Pak Maut Da Ho Giya Si Fair Kyun Na Riha Kita.
-Aaj Ghafal Matam Toon Na Koi Pursadar Howay.
-Mataan Naal Tere Ronda Khara Pak Bemar Howay.
-Oss Ujari Noo Parchaona Aye Jine Sham Choon Rondiyaan Aaona Aye
-Har Chook Abboor Akhtar Jine Baaj Rida Kita.
+۱
+بغداد دے قیدی نوں جدوں اجڑیاں دھیاں نے رو رو کے ودا کیتا
+پئیاں کردیاں بابا بابا سن کنب گیا عرش خدا دا
+گل نالوں جدوں شاہ نے دھیاں نوں جدا کیتا
+کربل دی کہانی نوں انج وقت نے دہرایا
+لگدا سی جیویں مڑ کے فیر دورِ یزید آیا
+بابے دے ہتھیں ہتھکڑیاں دھیاں روون بوہے تے کھڑیاں
+سجاد دی سنت نوں کاظم نے ادا کیتا
+زنجیراں سنے چایا مزدوراں نے میت نوں
+سر خاک پئی زہرا تک پتر دی حالت نوں
+اج فضل دا بابا آوے آ طوق گلے دا لاوے
+مظلوم مسافر دا امت نہ حیا کیتا
+زندان دے وچ جس نے زندگی اے لنگھا چھوڑی
+اوہدی لاش مسلماناں راہواں چے رولا چھوڑی
+کوفے چے علی کرلائے بقیع چوں وین سی آئے
+دل توڑیاں احمد دا زہرا نوں بپا کیتا
+کسے رلدیاں نئیں ویکھی انج لاش اسیراں دی
+بازاراں وچ ای آوے چھنکار زنجیراں دی
+مڑ جان سپاہی کھڑ کے ہتھ نبض اتے دھر دھر کے
+پاک موت دا ہو گیا سی فیر کیوں نہ رہا کیتا
+آج غافل ماتم توں نہ کوئی پرسہ دار ہووے
+متاں نال تیرے روندا کھڑا پاک بیمار ہووے
+اوس اجاڑی نوں پرچاؤنا اے جنے شام چوں روندیاں آؤنا اے
+ہر چوک عبور اختر جنے باج ردا کیتا

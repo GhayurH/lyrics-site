@@ -1,41 +1,72 @@
 ---
-title: "Baba Meri Gharebi Ka Yeh Haal Dekhiye"
+title: "بابا میری غریبی کا یہ حال دیکھیے"
+alternateTitle: "Baba Meri Gharebi Ka Yeh Haal Dekhiye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba meri gharebi ka yeh haal dekhiye
+  Zalim ke hath mein hain mere baal dekhiye
+  Baba tamachon ki main aziyat sunaon kya
+  Kis kis ne kaisay kaisay hai mara bataon kya
+
+  2
+  Apni Sakina ke zarra yeh gaal dekhiye
+  Rukhsaron se badan ka lahu beh gaya sabhi
+  Jaisay hi gash se uthti hoon gir jati hoon tabhi
+  Poshaak meri khon se hai lal dekhiye
+
+  3
+  Bandhi hain Shimar ne meri gardan mein rasiyaan
+  Rukti hain meri sansein jo leti hoon siskiyaan
+  Paiwast hai rasan mein meri khaal dekhiye
+  Zalim ne toor di hain sabhi pasliyaan meri
+
+  4
+  Girti hoon jab yeh khainchtay hain rasiyaan meri
+  Ho jaon gi main tukron mein pamal dekhiye
+  Beemar boltay hain mujhe Sham ke makeen
+  Baba mujhe zaeefa bulatay hain kyun laeen
+
+  5
+  Lagti hai umar meri kayi saal dekhiye
+  Zeeshan yeh Sakina ne zindan se kaha
+  Zindan ke andheron mein dam ghutta hai mera
+  Aa kar mera andherey mein ahwal dekhiye
 ---
 
-1
-Baba Meri Gharebi Ka Yeh Haal Dekhiye.
-Zalim Ke Hath Mein Hain Mere Baal Dekhiye.
-Baba Tamachon Ki Main Aziyat Sunaon Kya.
-Kis Kis Ne Kaisay Kaisay Hai Mara Bataon Kya.
+۱
+بابا میری غریبی کا یہ حال دیکھیے
+ظالم کے ہاتھ میں ہیں میرے بال دیکھیے
+بابا تماچوں کی میں اذیت سناؤں کیا
+کس کس نے کیسے کیسے ہے مارا بتاؤں کیا
 
-2
-Apni Sakina Ke Zarra Yeh Gaal Dekhiye.
-Rukhsaron Se Badan Ka Lahu Beh Gaya Sabhi.
-Jaisay Hi Gash Se Uthti Hoon Gir Jati Hoon Tabhi.
-Poshaak Meri Khon Se Hai Lal Dekhiye.
+۲
+اپنی سکینہ کے ذرا یہ گال دیکھیے
+رخساروں سے بدن کا لہو بہ گیا سبھی
+جیسے ہی غش سے اٹھتی ہوں گر جاتی ہوں تبھی
+پوشاک میری خون سے ہے لال دیکھیے
 
-3
-Bandhi Hain Shimar Ne Meri Gardan Mein Rasiyaan.
-Rukti Hain Meri Sansein Jo Leti Hoon Siskiyaan.
-Paiwast Hai Rasan Mein Meri Khaal Dekhiye.
-Zalim Ne Toor Di Hain Sabhi Pasliyaan Meri.
+۳
+باندھی ہیں شمر نے میری گردن میں رسیاں
+رکتی ہیں میری سانسیں جو لیتی ہوں سسکیاں
+پیوست ہے رسن میں میری کھال دیکھیے
+ظالم نے توڑ دی ہیں سبھی پسلیاں میری
 
-4
-Girti Hoon Jab Yeh Khainchtay Hain Rasiyaan Meri.
-Ho Jaon Gi Main Tukron Mein Pamal Dekhiye.
-Beemar Boltay Hain Mujhe Sham Ke Makeen.
-Baba Mujhe Zaeefa Bulatay Hain Kyun Laeen.
+۴
+گرتی ہوں جب یہ کھینچتے ہیں رسیاں میری
+ہو جاؤں گی میں ٹکڑوں میں پامال دیکھیے
+بیمار بولتے ہیں مجھے شام کے مکیں
+بابا مجھے ضعیفہ بلاتے ہیں کیوں لعین
 
-5
-Lagti Hai Umar Meri Kayi Saal Dekhiye.
- Zeeshan Yeh Sakina Ne Zindan Se Kaha.
-Zindan Ke Andheron Mein Dam Ghutta Hai Mera.
-Aa Kar Mera Andherey Mein Ahwal Dekhiye.
+۵
+لگتی ہے عمر میری کئی سال دیکھیے
+ذیشان یہ سکینہ نے زنداں سے کہا
+زنداں کے اندھیروں میں دم گھٹتا ہے میرا
+آ کر میرا اندھیرے میں احوال دیکھیے

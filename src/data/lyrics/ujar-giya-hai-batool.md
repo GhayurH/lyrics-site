@@ -9,99 +9,58 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Ujar Giya Hai Batool"
-romanLyrics: 'Ya Hussain, Haaye Hussain
-
-  Ya Ghareeb Imam, Ya Ghareeb Ya Hussain
-
+romanLyrics: |-
+  Ujar gaya hai Batul ka ghar, Husain chup haiṅ
 
   1
-
-  Ujargaya Hai Batul Ka Ghar, Hussain Chup Hai
-
-  Khuda Ki Marzi, Mai Sar Jhukaakar, Hussain Chup Hai
-
+  Khuda ki marzi meiṅ sar jhuka kar, Husain chup haiṅ
+  Ya gharib, ya Husain
+  Ye sabr ki kaun si hai manzil
+  Pisar ka barchhi se chhid gaya dil
+  Woh hans raha hai sirhaane qaatil
+  Uthaaye haathoṅ pe laash-e-Akbar
 
   2
-
-  1. Ye Sabr Ki Kounsi Hai Manzil, Pisar Ka Barchhi Se Chhidgaya Dil,
-
-  Woh Hass Rahaa Hai Sirhaane Qaatil, Ya Hussain,
-
-  Uthaaye Haatho Pe Laashe Akber, Hussain Chup Hai
-
+  Gaya hai laakhoṅ meiṅ woh akela
+  Chalaaye jaate haiṅ tir aadaa
+  Kahiṅ se barchhi kahiṅ se bhaala
+  Baras rahe haiṅ kahiṅ se pathar
 
   3
-
-  2. Kharaa Hai Laakhon Mai Woh Akela, Chalaaye Jaate Hai Teer Aadaa,
-
-  Kahin Se Barchhi Kahin Se Bhaala, Ya Hussain,
-
-  Baras Rahe Hai Kahin Se Pathhar, Hussain Chup Hai
-
+  Laga hai kiuṅ mere dil ko dharka
+  Lahu se kis ke ye tar hai chehra
+  Kahaaṅ hai Asghar, bataaeṅ Maula
+  Sawaal Asghar ki maaṅ ka sun kar
 
   4
-
-  3. Lagaa Hai Kyun Mere Dil Ko Dharkaa, Lahu Se Kiske Yeh Tar Hai Chehra,
-
-  Kahaan Hai Asgher Bataaye Maula, Ya Hussain,
-
-  Sawaal Asgher Ki Maa Ka Sunkar, Hussain Chup Hai
-
+  Nasib-e-raahib jo Shah ne badla
+  Wahaaṅ pe khaamosh kibriya tha
+  Magar ye manzar hai Karbala ka
+  Yahaaṅ pe de kar Khuda ko Akbar
 
   5
-
-  4. Naseeb-e-Raahib Jo Shehne Badlaa, Wahaan Pe Khaamosh Kibriyaa Tha,
-
-  Magar Yeh Manzar Hai Karbala Ka, Ya Hussain,
-
-  Yahaan Pe Dekar Khuda Ko Akber, Hussain Chup Hai
-
+  Kaha ye qaasid ne ro ke Maula
+  Mariz beti ka khat huṅ laaya
+  Salaam sab ko hai us ne likha
+  Salaam ka bas jawaab de kar
 
   6
-
-  5. Kahaa Ye Qaasid Ne Roke Maula, Mareez Beti Ka Khat Hun Laaya,
-
-  Salaam Sabko Hai Ussne Likha, Ya Hussain,
-
-  Salaam Ka Bas, Jawaab De Kar, Hussain Chup Hai
-
+  Hue haiṅ zakhmoṅ se chur Maula
+  Badan se behta hai khuṅ ka dariya
+  Kahe to rakh duṅ ulat ke duniya
+  Madad ko aaya hai ran meiṅ Zaafar
 
   7
-
-  6. Huwe Hai Zakhmon Se Chur Maula, Badan Se Behta Hai Khun Ka Dariya,
-
-  Kahe To Rakhdu Ulatke Duniya, Ya Hussain,
-
-  Madad Ko Aaya, Hai Ran Mai Zaafar, Hussain Chup Hai
-
+  Lari akele meiṅ woh laraai
+  Duhaai dene lagi khudaai
+  Sada junhi irjai ki aai
+  Niyaam meiṅ Zulfiqaar rakh kar
 
   8
-
-  Lari Akele Mein WO Larai.
-
-  Dohai Dene Lagi Khudai.
-
-  Sada Junhi Irjai Ki Ayi.
-
-  Niyam Mein Zulfiqar Rakh Kar Hussain Chup Hai.
-
-
-  9
-
-  7. Ladhi Akele Mai Woh Ladhaayi, Duhaai Dene Lagi Khudaayi,
-
-  Sadaa Juhi Irjaee Ki Aayi, Ya Hussain,
-
-  Neyaam Mai, Zulfiqar Rakh Kar, Hussain Chup Hai
-
-
-  10
-
-  8. Hussain Gohar Yeh Jaanta Hai, Safar Ye Chouda-So Saal Ka Hai,
-
-  Sitam Jo Ab Tak Woh Seh Raha Hai, Ya Hussain,
-
-  Laraaz Iss Mai Koi Toh Akber, Hussain Chup Hai'
+  Husain Gauhar ye jaanta hai
+  Safar ye chaudah sau saal ka hai
+  Sitam jo ab tak woh sah raha hai
+  Hai raaz is meiṅ koi to Akbar
 ---
 
 اُجڑ گیا ہے بتول کا گھر حسین چپ ہیں

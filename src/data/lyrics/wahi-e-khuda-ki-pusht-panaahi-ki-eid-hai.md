@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Jitne sahife bheje gaye haiṅ zamin par
-  Mimbar se un ki sachchi gawaahi ki eid hai
+  Minbar se un ki sachchi gawaahi ki eid hai
 
   4
   An tafqiduni phir se saluni tak aaye gi

@@ -1,65 +1,120 @@
 ---
-title: "Mula Waris Hai"
+title: "مولا وارث ہے"
+alternateTitle: "Mula Waris Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Darna hai bekar nara Ali ka maar ho ga bera paar Mula waris hai
+  Qatil bola ishq yeh tera kaisa hai
+  Zulm se darta hai na maut se darta hai
+  Daar pe bhi tu Haider Haider karta hai
+
+  2
+  Soli charh kar ik baar bole Meesum Tamar
+  Hai mujh ko Ali se pyar Mula waris hai
+  Bola dushman Haider ke dewane se
+  Faida kya mati ki khuld banane se
+
+  3
+  Hans ke kaha Behlool ne oss anjane se
+  Hai bugaz-e-Ali mein jhool hai ishq-e-Ali anmool
+  Phir kyun na kahe Behlool Mula waris hai
+  Bola matamdar se munkir matam ka
+
+  4
+  Faida kya iss nohay ka iss giriye ka
+  Iss mein laga rehta hai jan ka bhi khatra
+  Bola yeh matamdar tu kaat zabaan so bar
+  Main bolon ga har bar Mula waris hai
+
+  5
+  Sheh ke jaloson par hamlay karne wale
+  Sun le yeh matamdar nahi darne wale
+  Maut se bhi yeh jism nahi darne wale
+  Hai charon taraf yeh shoor tofan ho har ik aur
+
+  6
+  Aandhi ka ho jitna zoor Mula waris hai
+  Kitne matamdar yeh zalim marein gaye
+  Ishq-e-Ali mein lakhon janein warein gaye
+  Harein gaye harein gaye dushman harein gaye
+
+  7
+  Ulfat ki yehi hai reet kabhi marti nahi hai pareet
+  Hai ishq-e-Ali mein jeet Mula waris hai
+  Ulfat-e-Aal se sarshar hai hamara dil
+  Marzi-e-Mula hi tu hai apni manzil
+
+  8
+  Aa nahi sakti hum pe kabhi koi mushkil
+  Hai sar pe sakhi Abbas tote gi na apni aas
+  Hai hum ko yehi wishwaas Mula waris hai
+  Hai yeh Wajhi our :Zill-e-Raza: ke dil ki sada
+
+  9
+  Jeeta rahe tabqa yeh matamdaron ka
+  Chahe mokhalif ho jaye sari dunya
+  Hai azm talatum khaiz hai josh se dharkan taiz
+  Our pyar se dil labraiz Mula waris hai
 ---
 
-1
-Darna Hai Bekar Nara Ali Ka Maar Ho Ga Bera Paar Mula Waris Hai.
-Qatil Bola Ishq Yeh Tera Kaisa Hai.
-Zulm Se Darta Hai Na Maut Se Darta Hai.
-Daar Pe Bhi Tu Haider Haider Karta Hai.
+۱
+ڈرنا ہے بیکار، نعرہ علی کا مار، ہو گا بیڑا پار، مولا وارث ہے
+قاتل بولا عشق یہ تیرا کیسا ہے
+ظلم سے ڈرتا ہے نہ موت سے ڈرتا ہے
+دار پہ بھی تو حیدر حیدر کرتا ہے
 
-2
-Soli Charh Kar Ik Baar Bole Meesum Tamar.
-Hai Mujh Ko Ali Se Pyar Mula AS Waris Hai.
-Bola Dushman Haider Ke Dewane Se.
-Faida Kya Mati Ki Khuld Banane Se.
+۲
+سولی چڑھ کر اک بار بولے میثم تمار
+ہے مجھ کو علی سے پیار، مولا ؑ وارث ہے
+بولا دشمن حیدر کے دیوانے سے
+فائدہ کیا مٹی کی خلد بنانے سے
 
-3
-Hans Ke Kaha Behlool Ne Oss Anjane Se.
-Hai Bugaz-e-Ali Mein Jhool Hai Ishq-e-Ali Anmool.
-Phir Kyun Na Kahe Behlool Mula AS Waris Hai.
-Bola Matamdar Se Munkir Matam Ka.
+۳
+ہنس کے کہا بہلول نے اُس انجانے سے
+ہے بغضِ علی میں جھول، ہے عشقِ علی انمول
+پھر کیوں نہ کہے بہلول، مولا ؑ وارث ہے
+بولا ماتم دار سے منکر ماتم کا
 
-4
-Faida Kya Iss Nohay Ka Iss Giriye Ka.
-Iss Mein Laga Rehta Hai Jan Ka Bhi Khatra.
-Bola Yeh Matamdar Tu Kaat Zabaan So Bar.
-Main Bolon Ga Har Bar Mula AS Waris Hai.
+۴
+فائدہ کیا اس نوحے کا، اس گریے کا
+اس میں لگا رہتا ہے جاں کا بھی خطرہ
+بولا یہ ماتم دار، تو کاٹ زباں سو بار
+میں بولوں گا ہر بار، مولا ؑ وارث ہے
 
-5
-Sheh Ke Jaloson Par Hamlay Karne Wale.
-Sun Le Yeh Matamdar Nahi Darne Wale.
-Maut Se Bhi Yeh Jism Nahi Darne Wale.
-Hai Charon Taraf Yeh Shoor Tofan Ho Har Ik Aur.
+۵
+شہ کے جلوسوں پر حملے کرنے والے
+سن لے یہ ماتم دار نہیں ڈرنے والے
+موت سے بھی یہ جسم نہیں ڈرنے والے
+ہے چاروں طرف یہ شور، طوفان ہو ہر اک اُور
 
-6
-Aandhi Ka Ho Jitna Zoor Mula Waris Hai.
-Kitne Matamdar Yeh Zalim Marein Gaye.
-Ishq-e-Ali Mein Lakhon Janein Warein Gaye.
-Harein Gaye Harein Gaye Dushman Harein Gaye.
+۶
+آندھی کا ہو جتنا زور، مولا وارث ہے
+کتنے ماتم دار یہ ظالم ماریں گے
+عشقِ علی میں لاکھوں جانیں واریں گے
+ہاریں گے ہاریں گے دشمن ہاریں گے
 
-7
-Ulfat Ki Yehi Hai Reet Kabhi Marti Nahi Hai Pareet.
-Hai Ishq-e-Ali Mein Jeet Mula Waris Hai.
-Ulfat-e-Aal Se Sarshar Hai Hamara Dil.
-Marzi-e-Mula Hi Tu Hai Apni Manzil.
+۷
+الفت کی یہی ہے ریت، کبھی مرتی نہیں ہے پریت
+ہے عشقِ علی میں جیت، مولا وارث ہے
+الفتِ آل سے سرشار ہے ہمارا دل
+مرضیِ مولا ہی تو ہے اپنی منزل
 
-8
-Aa Nahi Sakti Hum Pe Kabhi Koi Mushkil.
-Hai Sar Pe Sakhi Abbas Tote Gi Na Apni Aas.
-Hai Hum Ko Yehi Wishwaas Mula Waris Hai.
-Hai Yeh Wajhi Our:ZILL-E-RAZA: Ke Dil Ki Sada.
+۸
+آ نہیں سکتی ہم پہ کبھی کوئی مشکل
+ہے سر پہ سخی عباس، ٹوٹے گی نہ اپنی آس
+ہے ہم کو یہی وشواس، مولا وارث ہے
+ہے یہ وجہی اور :ظلِ رضا: کے دل کی صدا
 
-9
-Jeeta Rahe Tabqa Yeh Matamdaron Ka.
-Chahe Mokhalif Ho Jaye Sari Dunya.
-Hai Azm Talatum Khaiz Hai Josh Se Dharkan Taiz.
-Our Pyar Se Dil Labraiz Mula Waris Hai.
+۹
+جیتا رہے طبقہ یہ ماتم داروں کا
+چاہے مخالف ہو جائے ساری دنیا
+ہے عزم تلاطم خیز، ہے جوش سے دھڑکن تیز
+اور پیار سے دل لبریز، مولا وارث ہے

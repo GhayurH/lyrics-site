@@ -15,27 +15,27 @@ romanLyrics: |-
   Mere baba ab nahiṅ aayeṅge
 
   1
-  Pichhle pahar mere aangan meiṅ koi Bibi karti hai bain
+  Pichhle pahar mere aangan mein koi Bibi karti hai bain
   Jaise meri daadi kahti ho ro kar haaye Husain
   Lagta hai mujhko mere baba jaan ganwaaeṅge
 
   2
-  Itne bare ghar meiṅ mera ghamkhwaar nahiṅ koi
+  Itne bare ghar mein mera ghamkhwaar nahiṅ koi
   Saath mujhe le jaane ko tayyaar nahiṅ koi
   Mujh bimaar ko sab aakhir kab tak samjhaaeṅge
 
   3
-  Dil meiṅ jo mere dard hai sab se kahna mushkil hai
-  Maiṅ wo mariza huṅ mera zinda rahna mushkil hai
+  Dil mein jo mere dard hai sab se kahna mushkil hai
+  Main wo mariza huṅ mera zinda rahna mushkil hai
   Jaane wale phir meri surat dekh na paaeṅge
 
   4
-  Naza meiṅ mujhko qible ki jaanib kaun litaayega
+  Naza mein mujhko qible ki jaanib kaun litaayega
   Kaun meri turbat pe mujhe talqin sunaayega
   Ghar wale kya mera janaaza bhi na uthaaeṅge
 
   5
-  Dil meiṅ mere kaise kaise andeshe aate haiṅ
+  Dil mein mere kaise kaise andeshe aate haiṅ
   Mujhko hamesha ke liye Akbar chhor ke jaate haiṅ
   Apne kaleje par Ali Akbar barchhi khaaeṅge
 
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Jaane kahaṅ sab mujhko akela chhor ke jaate haiṅ
-  Bimaari meiṅ saare rishte tor ke jaate haiṅ
+  Bimaari mein saare rishte tor ke jaate haiṅ
   Sab jaayeṅ meri godi se Asghar to na jaaeṅge
 
   8

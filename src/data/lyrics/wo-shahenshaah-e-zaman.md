@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Dasht meiṅ gher liya jis ko bulaa kar mehmaaṅ
   Saamne jis ke tarapta raha Akbar sa jawaaṅ
-  Kheṅch li jis ne jawaaṅ bete ke sine se sinaaṅ
+  Khench li jis ne jawaaṅ bete ke sine se sinaaṅ
   Jis ke haathoṅ pe hua qatl pisar ghuncha dahan
   Aakhri naasir-e-mazlum bhi jis ka na raha
 
@@ -40,13 +40,13 @@ romanLyrics: |-
   Khub rote haiṅ jo apna koi mar jaata hai
   Laasha bewaali o waaris ka kafan paata hai
   Aur taras khaa ke use koi bhi dafnaata hai
-  Taaziyat ke liye dushman bhi chala aata hai
+  Taaziyat ke liye dushman bhi chalaa aata hai
   Haaye afsos jigar gosha-e-mehbub-e-Khuda
 
   5
   Haaye paamaal hui laash-e-Husain ibn-e-Ali
   Bhai ki laash pe mazlum behen ro na saki
-  Laash-e-uryaaṅ pe lahu chashm-e-falak roti thi
+  Laash-e-uryaaṅ paai lahu chashm, falak roti thi
   Kalma parhte the Payambar ka aur haṅste the shaqi
   Laash par jamti thi khaak aur ye deti thi sada
 

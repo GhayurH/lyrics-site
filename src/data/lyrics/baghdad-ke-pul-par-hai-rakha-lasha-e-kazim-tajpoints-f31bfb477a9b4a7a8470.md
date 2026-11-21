@@ -1,37 +1,65 @@
 ---
-title: "Baghdad Ke Pul Par Hai Rakha Lasha E Kazim"
+title: "بغداد کے پل پر ہے رکھا لاشۂ کاظم"
+alternateTitle: "Baghdad Ke Pul Par Hai Rakha Lasha E Kazim"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baghdad ke pul par hai rakha lasha e Kazim
+  Be yaar-o-madadgar para lasha-e-Kazim
+
+  1
+  Na ghusal-o-kafan hai na koi waris-o-wali
+  Zanjeron se hai jakra howa lasha-e-Kazim
+  Afsoos sad afsoos ke zindan-e-sitam se
+  Mazdoron se uthwaya gaya lasha-e-Kazim
+
+  2
+  Jafar ke pisar par tu hai mazlomi bhi roti
+  Ta dair youn hi pul pe raha lasha-e-Kazim
+  Baghdad mein dohrayi gayi Karb-o-Bala phir
+  Pardais mein hay haye utha lasha-e-Kazim
+
+  3
+  Kehti rahi ro ro ke yehi Fatima Zahra
+  Aahan se karo ab tu juda lasha-e-Kazim
+  Ro ro ke diya ghusal-o-kafan Maula Raza ne
+  Aahoon ki sadaon mein utha lasha-e-Kazim
+
+  4
+  Shabbir pe giriya kiya oss waqt Raza ne
+  Jab zair-e-lehad dafan kiya lasha-e-Kazim
+  Sar peet ke parh noha yehi Mohtasham e zaar
+  Kis tarha se pul par tha rakha lasha-e-Kazim
 ---
 
-Baghdad Ke Pul Par Hai Rakha Lasha e Kazim.
-Be Yaar-o-Madadgar Para Lasha-e-Kazim.
+بغداد کے پل پر ہے رکھا لاشۂ کاظم
+بے یار و مددگار پڑا لاشۂ کاظم
 
-1
-Na Ghusal-o-Kafan Hai Na Koi Waris-o-Wali.
-Zanjeron Se Hai Jakra Howa Lasha-e-Kazim.
-Afsoos Sad Afsoos Ke Zindan-e-Sitam Se.
-Mazdoron Se Uthwaya Gaya Lasha-e-Kazim.
+۱
+نہ غسل و کفن ہے نہ کوئی وارث و ولی
+زنجیروں سے ہے جکڑا ہوا لاشۂ کاظم
+افسوس صد افسوس کہ زندانِ ستم سے
+مزدوروں سے اٹھوایا گیا لاشۂ کاظم
 
-2
-Jafar Ke Pisar Par Tu Hai Mazlomi Bhi Roti.
-Ta Dair Youn Hi Pul Pe Raha Lasha-e-Kazim.
-Baghdad Mein Dohrayi Gayi Karb-o-Bala Phir.
-Pardais Mein Hay Haye Utha Lasha-e-Kazim.
+۲
+جعفر کے پسر پر تو ہے مظلومی بھی روتی
+تا دیر یوں ہی پل پہ رہا لاشۂ کاظم
+بغداد میں دہرائی گئی کرب و بلا پھر
+پردیس میں ہائے ہائے اٹھا لاشۂ کاظم
 
-3
-Kehti Rahi Ro Ro Ke Yehi Fatima Zahra.
-Aahan Se Karo Ab Tu Juda Lasha-e-Kazim.
-Ro Ro Ke Diya Ghusal-o-Kafan Maula Raza Ne.
-Aahoon Ki Sadaon Mein Utha Lasha-e-Kazim.
+۳
+کہتی رہی رو رو کے یہی فاطمہ زہرا
+آہن سے کرو اب تو جدا لاشۂ کاظم
+رو رو کے دیا غسل و کفن مولا رضا نے
+آہوں کی صداؤں میں اٹھا لاشۂ کاظم
 
-4
-Shabbir Pe Giriya Kiya Oss Waqt Raza Ne.
-Jab Zair-e-Lehad Dafan Kiya Lasha-e-Kazim.
-Sar Peet Ke Parh Noha Yehi:MOHTASHAM E: Zaar.
-Kis Tarha Se Pul Par Tha Rakha Lasha-e-Kazim.
+۴
+شبیر پہ گریہ کیا اس وقت رضا نے
+جب زیرِ لحد دفن کیا لاشۂ کاظم
+سر پیٹ کے پڑھ نوحہ یہی محتشمِ زار
+کس طرح سے پل پر تھا رکھا لاشۂ کاظم

@@ -1,29 +1,48 @@
 ---
-title: "Hurmal Nu Ro Mukhtar Pochay Kiwein Qatal Kita Be Sheer Aye Lyrics In Punjabi 2023"
+title: "حرمل نوں رو مختار پچھے کیویں قتل کیتا بے شیر اے"
+alternateTitle: "Hurmal Nu Ro Mukhtar Pochay Kiwein Qatal Kita Be Sheer Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hadi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hurmal nu ro Mukhtar pochay kiwein qatal kita be sheer aye
+  Che mah de baal nu kinj zalim taun mariya zulm da teer aye
+  Mukhtar nu gash ne aan liya jis welay Hurmal ne dasiya
+  Main mariya teer si oss welay jad chuman laga Shabbir aye
+
+  2
+  Oss teer nu ro ro takdi rayi jehri aayi Baqiya nu chad ke
+  Gaya lang ke gardan Asghar choon Shabbir da bazu cheer aye
+  Akbar, Qasim te Ghazi nal jo zulm hoye oh wakhrey ne
+  Asghar labhiya jiwein ummat nayi mildi oss di nazeer aye
+
+  3
+  Haye bhain Masooma nu takda Asghar de sir nu nezay te
+  Jad rukday pair si Abid de zalim khichday zanjeer aye
+  Hadi haye Sham de rahwaan wich loki ronday jad takday san
+  Asghar da sir te ik doji oh choon salaan di aseer aye
 ---
 
-1
-Hurmal Nu Ro Mukhtar Pochay Kiwein Qatal Kita Be Sheer Aye.
-Che Mah De Baal Nu Kinj Zalim Taun Mariya Zulm Da Teer Aye.
-Mukhtar Nu Gash Ne Aan Liya Jis Welay Hurmal Ne Dasiya.
-Main Mariya Teer Si Oss Welay Jad Chuman Laga Shabbir Aye.
+۱
+حرمل نوں رو مختار پچھے کیویں قتل کیتا بے شیر اے
+چھے ماہ دے بال نوں کنج ظالم توں ماریا ظلم دا تیر اے
+مختار نوں غش نے آں لیا جس ویلے حرمل نے دسیا
+میں ماریا تیر سی اوس ویلے جد چمن لگا شبیر اے
 
-2
-Oss Teer Nu Ro Ro Takdi Rayi Jehri Aayi Baqiya Nu Chad Ke.
-Gaya Lang Ke Gardan Asghar Choon Shabbir Da Bazu Cheer Aye.
-Akbar, Qasim Te Ghazi Nal Jo Zulm Hoye Oh Wakhrey Ne.
-Asghar Labhiya Jiwein Ummat Nayi Mildi Oss Di Nazeer Aye.
+۲
+اوس تیر نوں رو رو تکدی رہی جیہڑی آئی بقیع نوں چھڈ کے
+گیا لنگھ کے گردن اصغر چوں شبیر دا بازو چیر اے
+اکبر، قاسم تے غازی نال جو ظلم ہوئے اوہ وکھرے نے
+اصغر لبھیا جیویں امت نئیں ملدی اوس دی نظیر اے
 
-3
-Haye Bhain Masooma Nu Takda Asghar De Sir Nu Nezay Te.
-Jad Rukday Pair Si Abid De Zalim Khichday Zanjeer Aye.
- Hadi Haye Sham De Rahwaan Wich Loki Ronday Jad Takday San.
-Asghar Da Sir Te Ik Doji Oh Choon Salaan Di Aseer Aye.
+۳
+ہائے بھین معصومہ نوں تکدا اصغر دے سر نوں نیزے تے
+جد رکدے پیر سی عابد دے ظالم کھچدے زنجیر اے
+ہادی ہائے شام دے راہواں وچ لوکی روندے جد تکدے سن
+اصغر دا سر تے اک دوجی اوہ چَوں سالاں دی اسیر اے

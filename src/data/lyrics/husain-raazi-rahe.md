@@ -14,8 +14,8 @@ published: true
 romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 
-  Haider ka mojza Husain
-  Zehra ka maah-liqa Husain
+  Haider ka mojiza Husain
+  Zehra ka maah liqa Husain
   Mafhum-e-Karbala Husain
   Hai Haq ka rahnuma Husain
   Tafsir-e-Innama Husain
@@ -31,7 +31,7 @@ romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 
   1
-  Ye majliseiṅ ye aza khaane aur ye farsh-e-aza
+  Ye majliseiṅ ya aza khaane aur ye farsh-e-aza
   Sabileiṅ aur tabarruk ko baantne ka maza
   Husain ke hi liye sab hai aur ye mansha
   Bas Husain raazi rahe Husain raazi rahe
@@ -49,7 +49,7 @@ romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 
   4
-  Subhaana Rabbiyal Aala Rasul parhte rahe
+  Subhaana Rabbiyal Aala Rasul kehte rahe
   Ke un ki pusht pe jab tak Husain baithe rahe
   Bina Husain kaamil nahiṅ koi sajda
   Bas Husain raazi rahe Husain raazi rahe
@@ -75,8 +75,8 @@ romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 
   8
-  Yehi najaat ka zariya banega mahshar meiṅ
-  Sar apna faqr se uṅcha rahega mahshar meiṅ
+  Yehi najaat ka zariya bane mahshar meiṅ
+  Sar apna faqr se uncha rahega mahshar meiṅ
   Ab is khayaal se barh kar bhi aur kya hoga
   Bas Husain raazi rahe Husain raazi rahe
 

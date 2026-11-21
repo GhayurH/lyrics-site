@@ -7,6 +7,74 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Momino Shah-e-Khurasaan ka maatam kar lo
+
+  1
+  Aathveṅ waaris-e-Quraan ka maatam kar lo
+  Haidar o Zehra ke dilgir ka pursa de do
+  Aal-e-Ahmad ke gulistaan ka maatam kar lo
+
+  2
+  Wo Muin-uz-Zuafa aur Gharib-ul-Ghuraba
+  Sab ki bakhshish ke jali unwaan ka maatam kar lo
+
+  3
+  Momino Tus ke sardaar ka maatam kar lo
+  Saare aalam ke madadgaar ka maatam kar lo
+
+  4
+  Jis ko angur mein dhoke se diya zahr-e-jafa
+  Be khata maare gaye sultaan ka maatam kar lo
+
+  5
+  Inna lillaah ke bin-e-Musa Raza maare gaye
+  Apne hi khun mein ghaltaan ka maatam kar lo
+
+  6
+  Is janaaze pe koi rone ko beti na bahan
+  Haaye ujre hue armaan ka maatam kar lo
+
+  7
+  Phir se Zehra ko rulaaya hai bahut zaalimoṅ ne
+  Aao Zehra ke dil o jaan ka maatam kar lo
+
+  8
+  Haaye Masuma-e-Qum se bhi jo mil na paaya
+  Gham mein bahna ke pareshaan ka maatam kar lo
+
+  9
+  Ham ne taabut uthaaya hai Raza Maula ka
+  Din-e-Islaam ke nigraan ka maatam kar lo
+
+  10
+  Ro ke kahne lage Rizwaan azaadaaroṅ se
+  Momino qibla-e-imaan ka maatam kar lo
+
+  11
+  Jo ke Shabbir ke gham mein raha maghmum sada
+  Maqsad-e-Shaah pe qurbaan ka maatam kar lo
+
+  12
+  Zindagi saari raha dur watan se tanha
+  Ashk se bhige hue daamaan ka maatam kar lo
+
+  13
+  Ye hai aulaad-e-Ali Musa-e-Kaazim ka pisar
+  Waaris-e-Haidar-e-zishaan ka maatam kar lo
+
+  14
+  Imaan, imkaan, mehmaan, naadaan, zishaan, maan, insaan, musalmaan, garebaan
+  Hairaan, ehsaan, mizaan, aasaan, juzdaan, irfaan, wijdaan, saamaan
+  Maidaan, naadaan, pahchaan
+  Zaamin-e-aahu bhi hai din ka sultaan bhi hai
+  Din ke munis o ghamkhwaar ka maatam kar lo
+  Jis janaaze pe fughaaṅ karne ko aaeṅ Zehra
+  Aal-e-Ahmad ke wafadaar ka maatam kar lo
+  Wo jo maasum bhi hai baarah imaamoṅ mein bhi hai
+  Din ke haami tarafdaar ka maatam kar lo
+  Aao sab mil ke wafadaar ka maatam kar lo
+  Giriftaar
 ---
 
 مومنو شاہِ خراسان کا ماتم کر لو

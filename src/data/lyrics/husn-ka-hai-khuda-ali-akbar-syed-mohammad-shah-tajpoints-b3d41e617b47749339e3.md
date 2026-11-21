@@ -1,38 +1,66 @@
 ---
-title: "Husn Ka Hai Khuda Ali Akbar Syed Mohammad Shah"
+title: "حسن کا ہے خدا علی اکبر سید محمد شاہ"
+alternateTitle: "Husn Ka Hai Khuda Ali Akbar Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Husn ka hai Khuda Ali Akbar Syed Mohammad Shah
+  Mani-e-Mustafa Ali Akbar
+
+  1
+  Roz kehte hain Hazrat-e-Yousuf
+  Iltamas-e-dua Ali Akbar
+  Sun ke takbeer Rab yeh kehta hai
+  Aap ka shukriya Ali Akbar
+
+  2
+  Umm-e-Laila hoin tere dam se
+  Sani-e-Aamina Ali Akbar
+  Youn bhi madah Rasool ki main ne
+  Likha Ahmad parha Ali Akbar
+
+  3
+  Tujh ko Akbar Hussain kehte hain
+  Tu hai kitna bara Ali Akbar
+  Kunz-e-makhfi ko jis ne dhanpa tha
+  Oss rida mein pala Ali Akbar
+
+  4
+  Jis ki jageer mein Hussain rahe
+  Aisa farmanrawa Ali Akbar
+  Naat ka ajar paye ga Muhsin
+  Likh ke teri sana Ali Akbar
 ---
 
-Husn Ka Hai Khuda Ali Akbar Syed Mohammad Shah.
-Mani-e-Mustafa Ali Akbar.
+حسن کا ہے خدا علی اکبر سید محمد شاہ
+معنیِ مصطفیٰ علی اکبر
 
-1
-Roz Kehte Hain Hazrat-e-Yousuf.
-Iltamas-e-Dua Ali Akbar.
-Sun Ke Takbeer Rab Yeh Kehta Hai.
-Aap Ka Shukriya Ali Akbar.
+۱
+روز کہتے ہیں حضرتِ یوسف
+التماسِ دعا علی اکبر
+سن کے تکبیر رب یہ کہتا ہے
+آپ کا شکریہ علی اکبر
 
-2
-Umm-e-Laila Hoin Tere Dam Se.
-Sani-e-Aamina Ali Akbar.
-Youn Bhi Madah Rasool Ki Main Ne.
-Likha Ahmad Parha Ali Akbar.
+۲
+امِ لیلیٰ ہوئیں تیرے دم سے
+ثانیِ آمنہ علی اکبر
+یوں بھی مدحِ رسول کی میں نے
+لکھا احمد پڑھا علی اکبر
 
-3
-Tujh Ko Akbar Hussain Kehte Hain.
-Tu Hai Kitna Bara Ali Akbar.
-Kunz-e-Makhfi Ko Jis Ne Dhanpa Tha.
-Oss Rida Mein Pala Ali Akbar.
+۳
+تجھ کو اکبر حسین کہتے ہیں
+تو ہے کتنا بڑا علی اکبر
+کنزِ مخفی کو جس نے ڈھانپا تھا
+اس ردا میں پلا علی اکبر
 
-4
-Jis Ki Jageer Mein Hussain Rahe.
-Aisa Farmanrawa Ali Akbar.
-Naat Ka Ajar Paye Ga Muhsin.
-Likh Ke Teri Sana Ali Akbar.
+۴
+جس کی جاگیر میں حسین رہے
+ایسا فرمانروا علی اکبر
+نعت کا اجر پائے گا محسن
+لکھ کے تیری ثنا علی اکبر

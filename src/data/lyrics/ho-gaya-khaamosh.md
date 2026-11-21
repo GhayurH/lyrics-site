@@ -25,7 +25,7 @@ romanLyrics: |-
 
   2
   Baaba ke sine bina ab nind aati hai kahaaṅ
-  Na mite taa marg zulmi tamaachoṅ ke nishaaṅ
+  Na mite taa marg zulmi tamaanchoṅ ke nishaaṅ
   Dekh kar jaur o sitam haaye maut bhi ghabra gayi
 
   3
@@ -34,7 +34,7 @@ romanLyrics: |-
   Kar ke wo Islaam zinda wo reg-e-gharibaaṅ paa gayi
 
   4
-  Chhine dur hai zaalimoṅ ne par utaare na rasan
+  Chhine durr hai zaalimoṅ ne par utaare na rasan
   Haaye jo kurta tha jala wohi bana us ka kafan
   Chhor us ko Shaam meiṅ hai maaṅ watan tanha gayi
 

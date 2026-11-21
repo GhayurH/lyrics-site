@@ -17,57 +17,57 @@ romanLyrics: |-
 
   1
   Raqam ho kis tarah phatta hai gham se qalb o jigar
-  Watan se rukhsat-e-aakhir ka phir gaya manzar
+  Watan se rukhsat-e-aakhir phir gaya manzar
   Lipat lipat ke wo Sughra ka baaba se israar
-  Mujhe bhi saath meiṅ le kar chalo Shah-e-Abraar
+  Mujhe bhi saath mein le kar chalo Shah-e-Abraar
 
   2
   Suna raha huṅ suno dastaan-e-dard o alam
-  Ye kis ke gham meiṅ haiṅ masruf-e-girya o maatam
+  Ye kis ke gham mein haiṅ masruf-e-girya o maatam
   Ye kaun tha jise rote haiṅ is tarah se ham
-  Bafaiz-e-Shah-e-Shahidaaṅ karuṅ jawaab raqam
+  Ba faiz-e-Shah-e-Shahidaaṅ karuṅ jawaab raqam
   Aza ka maah isi maah ko jo kehte haiṅ
   Hilaal dekh ke chhote bare wo rote haiṅ
 
   3
   Yazid-e-faasiq o faajir ki jab na baiat ki
-  To aur barh gaya jo bughz dil meiṅ tha zalil
+  To aur barh gaya jo bughz dil mein tha zalil
   Samajh raha tha pas-e-parda kya hai haq ka wali
-  Safar ka faisla karne meiṅ kuchh na der lagi
+  Safar ka faisla karne mein kuchh na der lagi
   Watan chhute to chhute hurmat-e-Madina rahe
-  Maiṅ huṅ na huṅ magar Islaam ka qarina rahe
+  Main huṅ na huṅ magar Islaam ka qarina rahe
 
   4
-  Maiṅ sab bataata chaluṅ kaun tha ye haq ka wali
+  Main sab bataata chaluṅ kaun tha ye haq ka wali
   Hai us ka naam giraaṅ aur Husain ibn-e-Ali
-  Rajab ke maah meiṅ do din the baaqi aur abhi
+  Rajab ke maah mein do din the baaqi aur abhi
   Chala Madine se Makke ki simt Sibt-e-Nabi
-  Wahaaṅ bhi dekh ke aba meiṅ chhupe hue khanjar
-  Libaas-e-haajiyoṅ meiṅ tha wo Shaam ka lashkar
+  Wahaaṅ bhi dekh ke abaa mein chhupe hue khanjar
+  Libaas-e-haajiyoṅ mein tha wo Shaam ka lashkar
 
   5
   Hazaaroṅ dushman-e-jaaṅ dar libaas-e-dost mile
   Baqa-e-Kaaba thi pesh-e-nazar na kaate gale
   Ye sochte the ke sailaab-e-kufr kaise tale
-  Badal ke umre meiṅ hajj ko ba dard o yaas chale
-  Abhi the raah meiṅ Kufe ki jo ye aayi khabar
-  Ke qatl ho gaye Muslim wahaaṅ ni qasta jigar
+  Badal ke umre mein hajj ko ba dard o yaas chale
+  Abhi the raah mein Kufe ki jo ye aayi khabar
+  Ke qatl ho gaye Muslim wahaaṅ nakhasta jigar
 
   6
-  Ye sun ke tha Shah-e-Abraar ko bahot sadma
-  Bulaa ke Hazrat-e-Abbas ko ye hukm diya
+  Ye sun ke tha Shah-e-Abraar ko bahut sadma
+  Bula ke Hazrat-e-Abbas ko ye hukm diya
   Bajaaye Kufa koi aur raah lo bhaiya
-  Bala se dasht ho sehra ho jo Khuda ki raza
-  Ye Kufe waale farebi haiṅ aur jhute haiṅ
-  Hamaare saath meiṅ kuchh bibiyaaṅ haiṅ bachche haiṅ
+  Balaa se dasht ho sehra ho jo Khuda ki raza
+  Ye Kufe wale farebi haiṅ aur jhute haiṅ
+  Hamaare saath mein kuchh bibiyaaṅ haiṅ bachche haiṅ
 
   7
   Gharaz ke tin Muharram ko Nainawa pahunche
   Tamaam qaafile ke saath Mustafa pahunche
-  Malaaik aur ajina o aur ambiya pahunche
+  Malaaik aur ajina o ambiya pahunche
   Hasan ke saath Zehra o Murtaza pahunche
-  Husain ne rakhe Karb o Bala meiṅ apne qadam
-  Nida-e-ghaib ye aayi ke tere saath haiṅ ham
+  Husain ne rakhe Karb o Bala mein apne qadam
+  Nidaa-e-ghaib ye aayi ke tere saath haiṅ ham
 
   8
   Hue the tin shab o roz thi na aab o ghiza
@@ -78,12 +78,12 @@ romanLyrics: |-
   Nabi ki aal ko lekin nahiṅ pilaate the
 
   9
-  Anis Aal-e-Muhammad ka hai to royega
-  Na chain din ko milega na shab ko soyega
-  Ye zaad-e-raah-e-haqiqi hai kaise khoyega
-  Ye haq hai baad meiṅ ehsaas tujh ko hoyega
-  Rafiq wo nahiṅ jo gham meiṅ saath ko chhore
-  Khushi meiṅ saath ho lekin alam meiṅ muṅh more
+  Anis Aal-e-Muhammad ka hai to roye ga
+  Na chain din ko milega na shab ko soye ga
+  Ye zaad-e-raah-e-haqiqi hai kaise khoye ga
+  Ye haq hai baad mein ehsaas tujh ko hoye ga
+  Rafiq wo nahiṅ jo gham mein saath ko chhore
+  Khushi mein saath ho lekin alam mein munh more
 ---
 
 ہلالِ ماہِ محرم پہ پڑ گئی جو نظر

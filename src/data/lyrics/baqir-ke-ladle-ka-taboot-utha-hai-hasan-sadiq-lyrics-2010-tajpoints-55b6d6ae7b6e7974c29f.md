@@ -1,30 +1,50 @@
 ---
-title: "Baqir Ke Ladle Ka Taboot Utha Hai Hasan Sadiq Lyrics 2010"
+title: "باقر کے لاڈلے کا تابوت اٹھا ہے"
+alternateTitle: "Baqir Ke Ladle Ka Taboot Utha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Khursheed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baqir ke ladle ka taboot utha hai Hasan Sadiq
+  Batlao Musalmano kya iss ki khata hai
+  Qurba se mawaddat ki yeh tafseer hai kaisi
+  Likhi hai tum ne zulm ki tehreer yeh kaisi
+  Kya khoob diya tum ne risalat ka sila hai
+  Farman-e-Muhammad ko hai kyun tum ne bhulaya
+  Kyun Ahmad-e-Mursal ko hai tum ne rulaya
+  Ki tum ne Muhammad se yeh kaisi wafa hai
+  Kazim ki yateemi pe rote hain do jahan
+  Masmoom ki maiyyat pe Zahra ki hai fugaan
+  Har soo dahar mein matam-e-Jafar ki sada hai
+  Aye kalmago Khuda ka kuch khoof tu karo
+  Na dhao sitam iss pe aise sitamgaro
+  Turbat se Muhammad ki yeh aayi sada hai
+  Bolo khamosh kyun ho Quraan ke qariyo
+  Iss baat ka Khursheed ko lillah jawab do
+  Kis jurm mein masoom ko haye zehar diya hai
 ---
 
-1
-Baqir Ke Ladle Ka Taboot Utha Hai Hasan Sadiq.
-Batlao Musalmano Kya Iss Ki Khata Hai.
-Qurba Se Mawaddat Ki Yeh Tafseer Hai Kaisi.
-Likhi Hai Tum Ne Zulm Ki Tehreer Yeh Kaisi.
-Kya Khoob Diya Tum Ne Risalat Ka Sila Hai.
-Farman-e-Muhammad Ko Hai Kyun Tum Ne Bhulaya.
-Kyun Ahmad-e-Mursal Ko Hai Tum Ne Rulaya.
-Ki Tum Ne Muhammad Se Yeh Kaisi Wafa Hai.
-Kazim Ki Yateemi Pe Rote Hain Do Jahan.
-Masmoom Ki Maiyyat Pe Zahra Ki Hai Fugaan.
-Har Soo Dahar Mein Matam-e-Jafar Ki Sada Hai.
-Aye Kalmago Khuda Ka Kuch Khoof Tu Karo.
-Na Dhao Sitam Iss Pe Aise Sitamgaro.
-Turbat Se Muhammad Ki Yeh Aayi Sada Hai.
-Bolo Khamosh Kyun Ho Quraan Ke Qariyo.
-Iss Baat Ka Khursheed Ko Lillah Jawab Do.
-Kis Jurm Mein Masoom Ko Haye Zehar Diya Hai.
+۱
+باقر کے لاڈلے کا تابوت اٹھا ہے حسن صادق
+بتلاؤ مسلمانو کیا اس کی خطا ہے
+قربیٰ سے مودّت کی یہ تفسیر ہے کیسی
+لکھی ہے تم نے ظلم کی تحریر یہ کیسی
+کیا خوب دیا تم نے رسالت کا صلہ ہے
+فرمانِ محمد کو ہے کیوں تم نے بھلایا
+کیوں احمدِ مرسل کو ہے تم نے رلایا
+کی تم نے محمد سے یہ کیسی وفا ہے
+کاظم کی یتیمی پہ روتے ہیں دو جہاں
+مسموم کی میّت پہ زہرا کی ہے فغاں
+ہر سو دہر میں ماتمِ جعفر کی صدا ہے
+اے کلمہ گو خدا کا کچھ خوف تو کرو
+نہ ڈھاؤ ستم اس پہ ایسے ستمگرو
+تربت سے محمد کی یہ آئی صدا ہے
+بولو خاموش کیوں ہو قرآن کے قاریو
+اس بات کا خورشید کو للہ جواب دو
+کس جرم میں معصوم کو ہائے زہر دیا ہے

@@ -18,14 +18,14 @@ romanLyrics: |-
   1
   Safar ka waqt hai mehmaan ko alwida kaho
   Julus-e-shaah-e-shahidaaṅ ko alwida kaho
-  Ujarne waale haiṅ kuch der meiṅ azaakhaane
+  Ujarne waale haiṅ kuch der mein azaakhaane
   Kisi behan ko kisi maaṅ ko alwida kaho
 
   2
   Zarih-e-tishna musaafir ki barhne waali hai
   Imaambaaroṅ ki raunaq ujarne waali hai
   Bujhe hue haiṅ diye ro rahi hai diwaareṅ
-  Jo mehmaan thi wo Bibi bichharne waali hai
+  Jo mehmaan thi woh Bibi bichharne waali hai
 
   3
   Saroṅ pe gard hai aansu hai aastinoṅ par
@@ -41,32 +41,32 @@ romanLyrics: |-
 
   5
   Nabi ke chain ko kaise kaheṅ Khuda haafiz
-  Shaah-e-Hunain ko kaise kaheṅ Khuda haafiz
-  Ye soch soch ke aankhoṅ meiṅ ashk aaye haiṅ
+  Shah-e-Hunain ko kaise kaheṅ Khuda haafiz
+  Ye soch soch ke aankhoṅ mein ashk aaye haiṅ
   Ke ham Husain ko kaise kaheṅ Khuda haafiz
 
   6
   Suqut-e-bazm-e-aza ka bahut rulaayega
   Khud apne ghar ka ye sannaata ham ko khaayega
   Kise khabar ke ye din phir nasib ho ke na ho
-  Jo agle saal jiyega wo gham manaayega
+  Jo agle saal jiyega woh gham manaayega
 
   7
   Udaasiyaaṅ sabhi maaoṅ ke rukh pe chhaayi hai
-  Laboṅ pe bain ko aankhoṅ meiṅ ashk laayi hai
+  Laboṅ pe bain ko aankhoṅ mein ashk laayi hai
   Phuphi ko dena hai pursa tumhaare Baba ka
   Sakina Bibi tumhaari kanizeṅ aayi haiṅ
 
   8
-  Tumhaari yaad meiṅ bechain hote jaate haiṅ
-  Tumhaari hijr meiṅ jaaṅ apni khote jaate haiṅ
+  Tumhaari yaad mein bechain hote jaate haiṅ
+  Tumhaari hijr mein jaaṅ apni khote jaate haiṅ
   Inheṅ bhi dekh lo jhule se ae Ali Asghar
-  Ye bachche godi meiṅ maaoṅ ki rote jaate haiṅ
+  Ye bachche godi mein maaoṅ ki rote jaate haiṅ
 
   9
   Jab aayega kisi barchhi ka dhyaan royeṅge
-  Faza meiṅ gunjegi jab jab azaan royeṅge
-  Tumhaare hijr meiṅ ham ae shabih-e-Paighambar
+  Faza mein gunjegi jab jab azaan royeṅge
+  Tumhaare hijr mein ham ae shabih-e-Paighambar
   Dil apna pit ke saare jawaan royeṅge
 
   10

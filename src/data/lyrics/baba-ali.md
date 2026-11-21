@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Subhe unis falak par jo namudaar hui
-  Mere maula ki shahadat ki khabar le aayi
-  Sar pe talwaar chali shor utha haye ali
+  Subh-e-unnis falak par jo namudaar hui
+  Mere Maula ki shahaadat ki khabar le aayi
+  Sar pe talwaar chali shor utha haaye Ali
   Apne baba ko musalle pe jo dekha zakhmi
   Hasnain sharifain ne di ro ke sada
-  Baba ali baba ali
-  Maahe ramzan ban gaya maahe aza
-  Zarb lagi hai sher e elaahi ko
-  Chehra lahu may duba hai
-  Abbas aur hasnain ke baba ko
-  Sajde may kis ne maara hai
+  Baba Ali baba Ali
+  Maah-e-Ramzaan ban gaya maah-e-aza
+  Zarb lagi hai sher-e-ilaahi ko
+  Chehra lahu mein duba hai
+  Abbas aur Hasnain ke baba ko
+  Sajde mein kis ne maara hai
   Baba ke sar ko zaanu pe rakh ke
-  Haye Hasan ne ro kar kaha
-  Baba ali baba ali
-  Maahe ramzan ban gaya...
+  Haaye Hasan ne ro kar kaha
+  Baba Ali baba Ali
+  Maah-e-Ramzaan ban gaya...
   Ghar ki taraf jab le ke chale bete
-  Bole ali girya na karo
-  Saath hamare koi nahi aaye
-  Jao Hasan sab se keh do
-  Aisa na ho ke aa jaye baahar
-  Karti hui zainab ye buka
-  Baba ali baba ali
-  Maahe ramzan ban gaya...
-  Khuṅ ali ki aankhoṅ se jab pocha
-  Chaadar se apni zainab ne
+  Bole Ali girya na karo
+  Saath hamaare koi nahiṅ aaye
+  Jaao Hasan sab se keh do
+  Aisa na ho ke aa jaaye baahar
+  Karti hui Zainab ye buka
+  Baba Ali baba Ali
+  Maah-e-Ramzaan ban gaya...
+  Khuṅ Ali ki aankhoṅ se jab poncha
+  Chaadar se apni Zainab ne
   Aankheiṅ khuli to saamne beti ko
-  Dekh ke hyder rone lage
+  Dekh ke Haidar rone lage
   Zainab tarap ke baba se boli
-  Chor ke hum ko na jaana
-  Baba ali baba ali
-  Maahe ramzan ban gaya...
-  Aagayi jab ekkeeswi ramzaṅ
-  Zehra ke ghar shaam e gharibaṅ
-  Band hui hyder ki aankheiṅ
-  Ruk gayi saanseiṅ hogaye bejaan
-  Shaana hila ke kehne lagi zainab
+  Chhor ke ham ko na jaana
+  Baba Ali baba Ali
+  Maah-e-Ramzaan ban gaya...
+  Aa gayi jab ikkisviṅ Ramzaaṅ
+  Zehra ke ghar shaam-e-gharibaaṅ
+  Band hui Haidar ki aankheiṅ
+  Ruk gayi saanseiṅ ho gaye bejaaṅ
+  Shaana hila ke kehne lagi Zainab
   Baba utho aankheiṅ kholo
-  Baateiṅ karo khamosh ho kiuṅ baba
-  Bolo zara kuch to bolo
-  Aap ke gham may ab rote rote
+  Baateiṅ karo khaamosh ho kiuṅ baba
+  Bolo zara kuchh to bolo
+  Aap ke gham mein ab rote rote
   Dam na nikal jaaye mera
-  Baba ali baba ali
-  Maahe ramzan ban gaya...
-  Zishan aur irfan-e-aza bete
-  Ghar se janaza le aaye
-  Koi naqaab may jab mayyat lene
-  Aaya Hasan bole haye
-  Kaun ho apna chehra dikhao
+  Baba Ali baba Ali
+  Maah-e-Ramzaan ban gaya...
+  Zishan aur Irfaan-e-aza bete
+  Ghar se janaaza le aaye
+  Koi naqaab mein jab mayyat lene
+  Aaya Hasan bole haaye
+  Kaun ho apna chehra dikhaao
   Bole Hasan jab parda hata
-  Baba ali baba ali
-  Maahe ramzan ban gaya...
+  Baba Ali baba Ali
+  Maah-e-Ramzaan ban gaya...
 ---
 
 ۱

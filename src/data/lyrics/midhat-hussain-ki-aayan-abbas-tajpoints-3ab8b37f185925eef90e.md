@@ -1,41 +1,72 @@
 ---
-title: "Midhat Hussain Ki Aayan Abbas"
+title: "مدحت حسین کی آیان عباس"
+alternateTitle: "Midhat Hussain Ki Aayan Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sad shukar mere lab pe hai midhat Hussain ki
+  Zindah rakhay gi mujh ko mawaddat Hussain ki
+  Seene pe hath mar ke batla rahe hain hum
+  Keh hai hamarey dil mein muhabbat Hussain ki
+
+  2
+  Chehra Hussain ka jo Muhammad hain dekhtey
+  Quraan yeh kar raha hai tilawat Hussain ki
+  Parh kar namaz karta hai jo matam-e-Hussain
+  Darasal kar raha hai woh nusrat Hussain ki
+
+  3
+  Utray hain yeh musalay pe Zahra ki gaud mein
+  Tafseer-e-Innama hai taharat Hussain ki
+  Har door mein uthati rahi sar Yazidiyat
+  Lekin ghata na payi woh azmat Hussain ki
+
+  4
+  Kalma Nabi ka parhta hai jo, aa ke woh karey
+  Rakh kar alam pe hathoon ko baiyat Hussain ki
+  Mas kar ke oss se latay hain hum iss liye kafan
+  Deti hai zindagi nayi turbat Hussain ki
+
+  5
+  Ho jaye gi Khuda se mulaqaat phir teri
+  Mannat mein maan le tu ziyarat Hussain ki
+  Dushman Ali ke ja nahi saktay jinna Asad
+  Kyunke hai malkiyat mein yeh janat Hussain ki
 ---
 
-1
-Sad Shukar Mere Lab Pe Hai Midhat Hussain Ki.
-Zindah Rakhay Gi Mujh Ko Mawaddat Hussain Ki.
-Seene Pe Hath Mar Ke Batla Rahe Hain Hum.
-Keh Hai Hamarey Dil Mein Muhabbat Hussain Ki.
+۱
+صد شکر میرے لب پہ ہے مدحت حسین کی
+زندہ رکھے گی مجھ کو مودّت حسین کی
+سینے پہ ہاتھ مار کے بتلا رہے ہیں ہم
+کہ ہے ہمارے دل میں محبّت حسین کی
 
-2
-Chehra Hussain Ka Jo Muhammad Hain Dekhtey.
-Quraan Yeh Kar Raha Hai Tilawat Hussain Ki.
-Parh Kar Namaz Karta Hai Jo Matam-e-Hussain.
-Darasal Kar Raha Hai Woh Nusrat Hussain Ki.
+۲
+چہرہ حسین کا جو محمد ہیں دیکھتے
+قرآن یہ کر رہا ہے تلاوت حسین کی
+پڑھ کر نماز کرتا ہے جو ماتمِ حسین
+دراصل کر رہا ہے وہ نصرت حسین کی
 
-3
-Utray Hain Yeh Musalay Pe Zahra Ki Gaud Mein.
-Tafseer-e-Innama Hai Taharat Hussain Ki.
-Har Door Mein Uthati Rahi Sar Yazidiyat.
-Lekin Ghata Na Payi Woh Azmat Hussain Ki.
+۳
+اترے ہیں یہ مصلّے پہ زہرا کی گود میں
+تفسیرِ اِنّما ہے طہارت حسین کی
+ہر دور میں اٹھاتی رہی سر یزیدیت
+لیکن گھٹا نہ پائی وہ عظمت حسین کی
 
-4
-Kalma Nabi Ka Parhta Hai Jo, Aa Ke Woh Karey.
-Rakh Kar Alam Pe Hathoon Ko Baiyat Hussain Ki.
-Mas Kar Ke Oss Se Latay Hain Hum Iss Liye Kafan.
-Deti Hai Zindagi Nayi Turbat Hussain Ki.
+۴
+کلمہ نبی کا پڑھتا ہے جو، آ کے وہ کرے
+رکھ کر علم پہ ہاتھوں کو بیعت حسین کی
+مس کر کے اس سے لاتے ہیں ہم اس لیے کفن
+دیتی ہے زندگی نئی تربت حسین کی
 
-5
-Ho Jaye Gi Khuda Se Mulaqaat Phir Teri.
-Mannat Mein Maan Le Tu Ziyarat Hussain Ki.
-Dushman Ali Ke Ja Nahi Saktay Jinna Asad.
-Kyunke Hai Malkiyat Mein Yeh Janat Hussain Ki.
+۵
+ہو جائے گی خدا سے ملاقات پھر تیری
+منّت میں مان لے تو زیارت حسین کی
+دشمن علی کے جا نہیں سکتے جناں اسد
+کیونکہ ہے ملکیت میں یہ جنّت حسین کی

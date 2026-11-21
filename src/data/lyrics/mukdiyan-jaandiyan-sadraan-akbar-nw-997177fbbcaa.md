@@ -1,31 +1,56 @@
 ---
-title: "Mukdiyan Jaandiyan Sadraan Akbar"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "مکدیاں جاندیاں صدراں اکبر"
+alternateTitle: "Mukdiyan Jaandiyan Sadraan Akbar"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mukdiyan jaandiyan sadraan Akbar meriyaan
+  Lang jandiyan ro ro raatan, yaadan vich teriyaan
+
+  1
+  Teray shagna walay cha Akbar dil vich rehgaye veer meray
+  Tu jeevain main mar jaawan mantaan nayi meriyan
+
+  2
+  Paaleya pardeyan vich tenu haye phupiyan ne veer jeevain
+  Nayi honiyan vich Karbal de kadraan oh teriyaan
+
+  3
+  Devain paighaam mera qasid veer meray nu bhen walon
+  Teray veer vichoray laiyaan marzaan nayi jeriyaan
+
+  4
+  Nal khushiyan de sajawan gi socheya sehra veer da mein
+  Das veer keevain bhul jaawan rasmaan main teriyaan
+
+  5
+  Kalli veeran gharaan vich hyy kad tak jeevay gi Sughra
+  Is dard ne Seher ruwaya satraan ne meriyaan
 ---
 
-Mukdiyan Jaandiyan Sadraan Akbar Meriyaan
+مکدیاں جاندیاں صدراں اکبر میریاں
+لنگھ جاندیاں رو رو راتاں، یاداں وچ تیریاں
 
-Lang Jandiyan Ro Ro Raatan, Yaadan Vich Teriyaan
+۱
+تیرے شگناں والے چاء اکبر دل وچ رہ گئے ویر میرے
+تُوں جیویں میں مر جاواں منتاں نئیں میریاں
 
-Teray Shagna Walay Cha Akbar Dil Vich Rehgaye Veer Meray
-Tu Jeevain Main Mar Jaawan Mantaan Nayi Meriyan
+۲
+پالیا پردیاں وچ تینوں ہائے پھپھیاں نے ویر جیویں
+نئیں ہونیاں وچ کربل دے قدراں اوہ تیریاں
 
-Paaleya Pardeyan Vich Tenu Haye Phupiyan Ne Veer Jeevain
-Nayi Honiyan Vich Karbal De Kadraan Oh Teriyaan
+۳
+دیویں پیغام میرا قاصد ویر میرے نوں بھین ولوں
+تیرے ویر وچھوڑے لائیاں مرضاں نئیں جیہڑیاں
 
-Devain Paighaam Mera Qasid Veer Meray Nu Bhen Walon
-Teray Veer Vichoray Laiyaan Marzaan Nayi Jeriyaan
+۴
+نال خوشیاں دے سجاواں گی سوچیا سہرا ویر دا میں
+دس ویر کیویں بھل جاواں رسماں میں تیریاں
 
-Nal Khushiyan De Sajawan Gi Socheya Sehra Veer Da Mein
-Das Veer Keevain Bhul Jaawan Rasmaan Main Teriyaan
-
-Kalli Veeran Gharaan Vich Hyy Kad Tak Jeevay Gi Sughra
-Is Dard Ne Seher Ruwaya Satraan Ne Meriyaan.
-
-Shared via Nohay Writeups for iOS
+۵
+کلّی ویران گھراں وچ ہائے کد تک جیوے گی صغریٰ
+اس درد نے سحر روایا سطراں نے میریاں

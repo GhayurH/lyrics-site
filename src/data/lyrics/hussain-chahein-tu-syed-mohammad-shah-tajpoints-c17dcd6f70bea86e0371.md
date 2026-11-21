@@ -1,40 +1,71 @@
 ---
-title: "Hussain Chahein Tu Syed Mohammad Shah"
+title: "حسین چاہیں تو سید محمد شاہ"
+alternateTitle: "Hussain Chahein Tu Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bas aik shart hai Maula Hussain chahein tu
+  Nahi jo hota tha hoga Hussain chahein tu
+  Khuda ne jis ko Payamber bana ke bhaija hai
+  Bana lein oss ko bhi naqa Hussain chahein tu
+
+  2
+  Koi jabeen nahi jhukti beghair izn-e-Hussain
+  Khuda ko hota hai sajdah Hussain chahein tu
+  Kaha yeh Ghazi ne hajj ke liye Hussain ke pas
+  Khud urr ke aaye ga Kaba Hussain chahein tu
+
+  3
+  Bata rahe hain yeh rahib ke saat betay humein
+  Miley ga had se zyada Hussain chahein tu
+  Pukara Sheikh keh janat mein bhaij de ya Rab
+  Jawab aaya chala ja Hussain chahein tu
+
+  4
+  Yahan Hussain ke khaimay mein aaiye Mosa
+  Khuda se milta hai banda Hussain chahein tu
+  Hazar bar qaza rastay mein aati rahe
+  Habib zindah rahe ga Hussain chahein tu
+
+  5
+  Bata diya hai zamane ko Fitrus-o-Hur ne
+  Qabool hoti hai toba Hussain chahein tu
+  Hussain kehte they chahe agar Khuda mera
+  Khuda pukar raha tha Hussain chahein tu
 ---
 
-1
-Bas Aik Shart Hai Maula Hussain Chahein Tu.
-Nahi Jo Hota Tha Hoga Hussain Chahein Tu.
-Khuda Ne Jis Ko Payamber Bana Ke Bhaija Hai.
-Bana Lein Oss Ko Bhi Naqa Hussain Chahein Tu.
+۱
+بس ایک شرط ہے مولا حسین چاہیں تو
+نہیں جو ہوتا تھا ہوگا حسین چاہیں تو
+خدا نے جس کو پیامبر بنا کے بھیجا ہے
+بنا لیں اس کو بھی ناقہ حسین چاہیں تو
 
-2
-Koi Jabeen Nahi Jhukti Beghair Izn-e-Hussain.
-Khuda Ko Hota Hai Sajdah Hussain Chahein Tu.
-Kaha Yeh Ghazi Ne Hajj Ke Liye Hussain Ke Pas.
-Khud Urr Ke Aaye Ga Kaba Hussain Chahein Tu.
+۲
+کوئی جبیں نہیں جھکتی بغیر اذنِ حسین
+خدا کو ہوتا ہے سجدہ حسین چاہیں تو
+کہا یہ غازی نے حج کے لیے حسین کے پاس
+خود اڑ کے آئے گا کعبہ حسین چاہیں تو
 
-3
-Bata Rahe Hain Yeh Rahib Ke Saat Betay Humein.
-Miley Ga Had Se Zyada Hussain Chahein Tu.
-Pukara Sheikh Keh Janat Mein Bhaij De Ya Rab.
-Jawab Aaya Chala Ja Hussain Chahein Tu.
+۳
+بتا رہے ہیں یہ راہب کے سات بیٹے ہمیں
+ملے گا حد سے زیادہ حسین چاہیں تو
+پکارا شیخ کہ جنت میں بھیج دے یا رب
+جواب آیا چلا جا حسین چاہیں تو
 
-4
-Yahan Hussain Ke Khaimay Mein Aaiye Mosa.
-Khuda Se Milta Hai Banda Hussain Chahein Tu.
-Hazar Bar Qaza Rastay Mein Aati Rahe.
-Habib Zindah Rahe Ga Hussain Chahein Tu.
+۴
+یہاں حسین کے خیمے میں آئیے موسیٰ
+خدا سے ملتا ہے بندہ حسین چاہیں تو
+ہزار بار قضا راستے میں آتی رہے
+حبیب زندہ رہے گا حسین چاہیں تو
 
-5
-Bata Diya Hai Zamane Ko Fitrus-o-Hur Ne.
-Qabool Hoti Hai Toba Hussain Chahein Tu.
-Hussain Kehte They Chahe Agar Khuda Mera.
-Khuda Pukar Raha Tha Hussain Chahein Tu.
+۵
+بتا دیا ہے زمانے کو فطرس و حُر نے
+قبول ہوتی ہے توبہ حسین چاہیں تو
+حسین کہتے تھے چاہے اگر خدا میرا
+خدا پکار رہا تھا حسین چاہیں تو

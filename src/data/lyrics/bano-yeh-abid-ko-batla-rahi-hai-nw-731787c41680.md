@@ -1,74 +1,101 @@
 ---
-title: "Bano Yeh Abid Ko Batla Rahi Hai"
+title: "بانو یہ عابد کو بتلا رہی ہے"
+alternateTitle: "Bano Yeh Abid Ko Batla Rahi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bano yeh Abid ko batla rahi hai,
+  Meri Sakina ko neend aa rahi hai
+
+  1
+  Kehdo hawaon say aahista aayain,
+  Kehdo parindon say ghul na machayain,
+  Kehdo andheron say wapas na jayain
+  Jaagi huwi chain kuch pah rahi hai
+  Meri Sakina ko neend aarahi hai
+
+  2
+  Shayad rasan ki aziyat huwi kam,
+  Madham karo bibiyon shoor-e-matam,
+  Sajjad zanjeer bolay na is dum
+  Shayad ghaamo ki ghaari jaa rahi hai,
+  Meri Sakina ko neend aarahi ha
+
+  3
+  Yeh Sham-e-Ghariban ki jaagi howi hai,
+  Tamachon kay daar say nahi so saki hai,
+  Zara phir galay say rasan jo khuli hai
+  Sukoon say jo aab sans lay pa rahi hai
+  Meri Sakina ko neend aarahi hai
+
+  4
+  Main khush hon kay soyegi meri dulari,
+  Main qurban is kay main ab is kay wari,
+  Bohat seh chuki dukh yeh Ghazi ki pyari
+  Magar nabz kuch aur batla rahi hai,
+  Meri Sakina ko neend aarahi hai
+
+  5
+  Magar yeh howa kya kay zindan roya,
+  Badan rooh kay sath bachi ka soya,
+  Na jaagi woh Abid nay shana hilaaya
+  Aur ab maa ye kehte bhi sharma rahi hai,
+  Meri Sakina ko neend aarahi hai
+
+  6
+  Kahan tak likhounga main Rehan noha,
+  Kabhi Shaam jaaon to dekhon woh roza,
+  Jahan qaidi bachi ka marqad hai tanha
+  Jahan maa abhi bhi kahe jaarahi hai,
+  Meri Sakina ko neend aarahi haii
 ---
 
-Bano Yeh Abid Ko Batla Rahi Hai,
+بانو یہ عابد کو بتلا رہی ہے،
+میری سکینہ کو نیند آ رہی ہے
 
-Meri Sakina Ko Neend Aa Rahi Hai
+۱
+کہہ دو ہواؤں سے آہستہ آئیں،
+کہہ دو پرندوں سے غل نہ مچائیں،
+کہہ دو اندھیروں سے واپس نہ جائیں
+جاگی ہوئی چین کچھ پا رہی ہے
+میری سکینہ کو نیند آ رہی ہے
 
-Kehdo Hawaon Say Aahista Aayain,
+۲
+شاید رسن کی اذیت ہوئی کم،
+مدھم کرو بیبیوں شورِ ماتم،
+سجاد، زنجیر بولے نہ اس دم
+شاید غموں کی گھڑی جا رہی ہے،
+میری سکینہ کو نیند آ رہی ہے
 
-Kehdo Parindon Say Ghul Na Machayain,
+۳
+یہ شامِ غریباں کی جاگی ہوئی ہے،
+طمانچوں کے ڈر سے نہیں سو سکی ہے،
+ذرا پھر گلے سے رسن جو کھلی ہے
+سکون سے جو اب سانس لے پا رہی ہے
+میری سکینہ کو نیند آ رہی ہے
 
-Kehdo Andheron Say Wapas Na Jayain
+۴
+میں خوش ہوں کہ سوئے گی میری دلاری،
+میں قربان اس کے میں اب اس کے واری،
+بہت سہ چکی دکھ یہ غازی کی پیاری
+مگر نبض کچھ اور بتلا رہی ہے،
+میری سکینہ کو نیند آ رہی ہے
 
-Jaagi Huwi Chain Kuch Pah Rahi Hai.
+۵
+مگر یہ ہوا کیا کہ زنداں رویا،
+بدن روح کے ساتھ بچی کا سویا،
+نہ جاگی وہ عابد نے شانہ ہلایا
+اور اب ماں یہ کہتے بھی شرما رہی ہے،
+میری سکینہ کو نیند آ رہی ہے
 
-Meri Sakina Ko Neend Aarahi Hai.
-
-Shayad Rasan Ki Aziyat Huwi Kam,
-
-Madham Karo Bibiyon Shoor-e-Matam,
-
-Sajjad Zanjeer Bolay Na Is Dum
-
-Shayad Ghaamo Ki Ghaari Jaa Rahi Hai,
-
-Meri Sakina Ko Neend Aarahi Ha.
-
-Yeh Sham-e-Ghariban Ki Jaagi Howi Hai,
-
-Tamachon Kay Daar Say Nahi So Saki Hai,
-
-Zara Phir Galay Say Rasan Jo Khuli Hai
-
-Sukoon Say Jo Aab Sans Lay Pa Rahi Hai.
-
-Meri Sakina Ko Neend Aarahi Hai.
-
-Main Khush Hon Kay Soyegi Meri Dulari,
-
-Main Qurban Is Kay Main Ab Is Kay Wari,
-
-Bohat Seh Chuki Dukh Yeh Ghazi Ki Pyari
-
-Magar Nabz Kuch Aur Batla Rahi Hai,
-
-Meri Sakina Ko Neend Aarahi Hai.
-
-Magar Yeh Howa Kya Kay Zindan Roya,
-
-Badan Rooh Kay Sath Bachi Ka Soya,
-
-Na Jaagi Woh Abid Nay Shana Hilaaya
-
-Aur Ab Maa Ye Kehte Bhi Sharma Rahi Hai,
-
-Meri Sakina Ko Neend Aarahi Hai.
-
-Kahan Tak Likhounga Main Rehan Noha,
-
-Kabhi Shaam Jaaon To Dekhon Woh Roza,
-
-Jahan Qaidi Bachi Ka Marqad Hai Tanha
-
-Jahan Maa Abhi Bhi Kahe Jaarahi Hai,
-
-Meri Sakina Ko Neend Aarahi Haii
+۶
+کہاں تک لکھوں گا میں ریحان نوحہ،
+کبھی شام جاؤں تو دیکھوں وہ روضہ،
+جہاں قیدی بچی کا مرقد ہے تنہا
+جہاں ماں ابھی بھی کہے جا رہی ہے،
+میری سکینہ کو نیند آ رہی ہے

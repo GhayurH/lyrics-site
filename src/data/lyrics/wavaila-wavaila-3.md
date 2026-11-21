@@ -12,42 +12,42 @@ published: false
 romanLyrics: |-
   1
   Zehra ki sada hai maqtal meiṅ
-  Lut'ta hai bhara ghar wavaila
-  Abbas-e-ali ke baazu ko
+  Lutta hai bhara ghar wavaila
+  Abbas-e-Ali ke baazu ko
   Kaate hai sitamgar wavaila
   Dunya ke sitam tute us par
-  Qasim na rahe aur na akbar
-  Abbas-e-dilawar na asghar
-  Shabbir akele hai hyder
+  Qasim na rahe aur na Akbar
+  Abbas-e-dilawar na Asghar
+  Shabbir akele haiṅ Haidar
   Sarwar ke gale par hai khanjar
-  Ae saaqiye kausar wavaila
+  Ae saaqi-e-Kausar wavaila
   Wavaila wavaila...
-  Mashkeeza chida aur pani baha
-  Ek aankh tire zulm laga
-  Behta hai kate shano se lahu
+  Mashkiza chhida aur paani baha
+  Ek aankh meiṅ tir-e-zulm laga
+  Behta hai kate shaanoṅ se lahu
   Sar gurz-e-sitam se chaak hua
-  Aata hai faraz se jaane ali
+  Aata hai farz se jaan-e-Ali
   Kiuṅ rakh ke zamiṅ par wavaila
   Wavaila wavaila...
-  Saahil ke kanare jo pahunche
+  Saahil ke kinaare jo pahunche
   Tuta hai falak sheh ke sar par
-  The haath kahiṅ mashkeeza kahiṅ
+  The haath kahiṅ mashkiza kahiṅ
   Laasha tha jari ka khun meiṅ tar
-  Laashe pe gire hai bhai ke
+  Laashe pe gire haiṅ bhaai ke
   Shabbir tarap kar wavaila
   Wavaila wavaila...
-  Dube hai lahu meiṅ mashk o alam
-  Aaye hai nehr se shaahe umam
+  Dube haiṅ lahu meiṅ mashk o alam
+  Aaye haiṅ nehr se shaah-e-umam
   Masnad pe rakhe jab mashk o alam
-  Sar pit'te hai ab ahle haram
-  Barpa hai qayam-e-sarwar meiṅ
-  Ek shorish-e-mehshar wavaila
+  Sar pitate haiṅ ab ahl-e-haram
+  Barpa hai khiyaam-e-Sarwar meiṅ
+  Ek shorish-e-mahshar wavaila
   Wavaila wavaila...
-  Momin ye qayamat hai barpa
-  Hai sarfe buka sab aale aba
+  Momin ye qayaamat hai barpa
+  Hai sarf-e-buka sab aal-e-aba
   Sarwar ne kaleja thaam liya
-  Jab aake sakina ne pucha
-  Baba mere ammu darya se
+  Jab aa ke Sakina ne puchha
+  Baba mere ammuṅ darya se
   Aaye na palat kar wavaila
   Wavaila wavaila...
 ---

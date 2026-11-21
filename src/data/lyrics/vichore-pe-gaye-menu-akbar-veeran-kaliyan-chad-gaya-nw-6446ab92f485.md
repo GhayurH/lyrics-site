@@ -1,46 +1,69 @@
 ---
-title: "Vichore Pe Gaye Menu Akbar Veeran Kaliyan Chad Gaya"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "وچھوڑے پے گئے مینوں اکبر ویرن کلیاں چھڈ گیا"
+alternateTitle: "Vichore Pe Gaye Menu Akbar Veeran Kaliyan Chad Gaya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Vichore pe gaye, menu Akbar veeran kaliyan chad gaya
+  Pardesan chon veeran ne, khabrein kad auna
+  Ay vain kare Sughra
+
+  1
+  Sunsaan gharan de band buhay, main jandre kholan kis de layi
+  Hun teek na mudh aaye, Karbal vichon jaa ke
+  Main ujri da kunba
+
+  2
+  Rab jaanay ya Sughra jaanay, ki beeti dil te au waile
+  Jadh aakhri safraan te, chan veer nu jeeway
+  Main keeta si videya
+
+  3
+  Tenu Akbar chaite bhul gaye ne, pardes ch jaake Sughra de
+  Dukhiyari bhain teri, haye vaikh di raawan
+  Tenu kardi yaad badha
+
+  4
+  Teri khair qabar koyi aayi na, jis din da tur gayo watna ton
+  Mudh aan na Akbar tu, jera kar ke gaya si
+  Woh lang gaya ai waada
+
+  5
+  Aqdas nanay de rozay te, Sughra ro roway arz karay
+  Maire joundeya jee nana, maire veer milaade
+  Ay kar manzoor dua
 ---
 
-Vichore Pe Gaye, Menu Akbar Veeran Kaliyan Chad Gaya
+وچھوڑے پے گئے، مینوں اکبر ویرن کلیاں چھڈ گیا
+پردیساں چوں ویرن نے، خبریں کد آؤنا
+اے وین کرے صغریٰ
 
-Pardesan Chon Veeran Ne, Khabrein Kad Auna
+۱
+سنسان گھراں دے بند بوہے، میں جندرے کھولاں کس دے لئی
+ہن تیک نہ مڑ آئے، کربل وچوں جا کے
+میں اجڑی دا کنبہ
 
-Ay Vain Kare Sughra
+۲
+رب جانے یا صغریٰ جانے، کی بیتی دل تے او ویلے
+جد آخری سفراں تے، چن ویر نوں جیویں
+میں کیتا سی ودیا
 
-Sunsaan Gharan De Band Buhay, Main Jandre Kholan Kis De Layi
+۳
+تینوں اکبر چیتے بھل گئے نے، پردیس چ جا کے صغریٰ دے
+دکھیاری بھین تیری، ہائے ویکھ دی راواں
+تینوں کردی یاد بڑا
 
-Hun Teek Na Mudh Aaye, Karbal Vichon Jaa Ke
+۴
+تیری خیر خبر کوئی آئی نہ، جس دن دا تر گیو وطناں توں
+مڑ آن نہ اکبر توں، جیڑا کر کے گیا سی
+وہ لنگھ گیا اے وعدہ
 
-Main Ujri Da Kunba
-
-Rab Jaanay Ya Sughra Jaanay, Ki Beeti Dil Te Au Waile
-
-Jadh Aakhri Safraan Te, Chan Veer Nu Jeeway
-
-Main Keeta Si Videya
-
-Tenu Akbar Chaite Bhul Gaye Ne, Pardes Ch Jaake Sughra De
-
-Dukhiyari Bhain Teri, Haye Vaikh Di Raawan
-
-Tenu Kardi Yaad Badha
-
-Teri Khair Qabar Koyi Aayi Na, Jis Din Da Tur Gayo Watna Ton
-
-Mudh Aan Na Akbar Tu, Jera Kar Ke Gaya Si
-
-Woh Lang Gaya Ai Waada
-
-Aqdas Nanay De Rozay Te, Sughra Ro Roway Arz Karay
-
-Maire Joundeya Jee Nana, Maire Veer Milaade
-
-Ay Kar Manzoor Dua
+۵
+اقدس نانے دے روزے تے، صغریٰ رو رووے عرض کرے
+میرے جیوندیاں جی نانا، میرے ویر ملا دے
+اے کر منظور دعا

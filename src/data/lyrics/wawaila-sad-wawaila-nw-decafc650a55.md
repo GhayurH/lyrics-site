@@ -1,24 +1,51 @@
 ---
-title: "Wawaila Sad Wawaila"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "واویلا صد واویلا"
+alternateTitle: "Wawaila Sad Wawaila"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Wawaila sad wawaila
+
+  1
+  Ujar gayi aaj Sani-e-Zahra vich Karbal day wawaila
+
+  2
+  Ghazi day jado bazoo rehgaye vich Karbal day wawaila
+
+  3
+  Maar tamachay chin gaye gohar vich Karbal day wawaila
+
+  4
+  Qasim di jadon mehndi rul gayi vich Karbal day wawaila
+
+  5
+  Shimar day tera zarban chaliyan vich Karbal day wawaila
+
+  6
+  Kamsin da jadon jhula jalgaya vich Karbal day wawaila
 ---
 
-Wawaila Sad Wawaila
+واویلا صد واویلا
 
-Ujar Gayi Aaj Sani-e-Zahra Vich Karbal Day Wawaila
+۱
+اجڑ گئی آج ثانیِ زہرا وچ کربل دے واویلا
 
-Ghazi Day Jado Bazoo Rehgaye Vich Karbal Day Wawaila
+۲
+غازی دے جدوں بازو رہ گئے وچ کربل دے واویلا
 
-Maar Tamachay Chin Gaye Gohar Vich Karbal Day Wawaila
+۳
+مار طمانچے چھن گئے گوہر وچ کربل دے واویلا
 
-Qasim Di Jadon Mehndi Rul Gayi Vich Karbal Day Wawaila
+۴
+قاسم دی جدوں مہندی رل گئی وچ کربل دے واویلا
 
-Shimar Day Tera Zarban Chaliyan Vich Karbal Day Wawaila
+۵
+شمر دے تیرہ ضرباں چلیاں وچ کربل دے واویلا
 
-Kamsin Da Jadon Jhula Jalgaya Vich Karbal Day Wawaila
+۶
+کمسن دا جدوں جھولا جل گیا وچ کربل دے واویلا

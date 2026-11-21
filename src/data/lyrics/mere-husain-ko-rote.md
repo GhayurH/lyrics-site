@@ -10,62 +10,62 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Farshe majlis pe fatema zehra
+  Farsh-e-majlis pe Fatema Zehra
 
   1
-  Lamha lamha shumaar karti hai
-  Ae azadaro aao majlis meiṅ
-  Fatema intezar karti hai
-  Ae azadaro suno keh rahi hai sayyeda
-  Har ek chahne waale ko bakshwa doongi
-  Mere Husain ko rote raho dua doongi
+  Lamha lamha shumaar karti haiṅ
+  Ae azadaaroṅ aao majlis meiṅ
+  Fatema intezaar karti haiṅ
+  Ae azadaaroṅ suno keh rahi haiṅ Sayyeda
+  Har ek chaahne waale ko bakshwa doṅgi
+  Mere Husain ko rote raho dua doṅgi
 
   2
-  Tum apne ghar meiṅ azakhane jab sajaoge
-  Jaza rasul se iski zarur paaoge
-  Khuda bhi raazi rahega ali bhi aur mai bhi
-  Gham apna bhul ke ashur jab manaoge
-  Tumhare dil ke har ek zakhm ki dawa doongi
+  Tum apne ghar meiṅ aza khaane jab sajaoge
+  Jaza Rasul se iski zarur paaoge
+  Khuda bhi raazi rahega Ali bhi aur main bhi
+  Gham apna bhul ke Aashur jab manaoge
+  Tumhaare dil ke har ek zakhm ki dawa doṅgi
   Mere Husain ko rote...
 
   3
-  Ajib haal se aaungi mai sare mehshar
-  Ke laaungi mai wahaṅ godh meiṅ Husain ka sar
-  Mai laaungi mere abbas ke kate huye haath
-  To saath laashaye asghar bhi aur Hasan ka jigar
-  Khuda se baba ki ummat ko bakshwa dungi
+  Ajib haal se aaungi main sar-e-mahshar
+  Ke laaungi main wahaaṅ god meiṅ Husain ka sar
+  Main laaungi mere Abbas ke kate hue haath
+  To saath laasha-e-Asghar bhi aur Hasan ka jigar
+  Khuda se Baba ki ummat ko bakshwa dungi
   Mere Husain ko rote...
 
   4
-  Ba waqt e asr guluye Husain kat'ta tha
-  Pisar ke gird phiri ruhe fathema zehra
-  Nidaye fathema aati thi aah wavaila
-  Ke chakki pis ke maiṅ ne Husain ko paala
-  Karo na qatl ise mai tumhe dua dungi
+  Ba waqt-e-asr gulu-e-Husain katta tha
+  Pisar ke gird phiri ruh-e-Fatema Zehra
+  Nida-e-Fatema aati thi aah waawaila
+  Ke chakki pis ke main ne Husain ko paala
+  Karo na qatl ise main tumheiṅ dua dungi
   Mere Husain ko rote...
 
   5
-  Meri sakina o zainab ki sab kanizeiṅ sune
-  Wasiyat ek meri hai dhyan meiṅ rakhe
-  Kabhi jo zikr ho zainab ki beridayi ka
-  To ek lamha bhi khud ko wo berida na kare
-  Mai tumko betiyaṅ zainab si baah la dungi
+  Meri Sakina o Zainab ki sab kanizeiṅ suneiṅ
+  Wasiyat ek meri hai dhyaan meiṅ rakhe
+  Kabhi jo zikr ho Zainab ki be ridaai ka
+  To ek lamha bhi qad ko woh be rida na kare
+  Main tum ko betiyaaṅ Zainab si ba hayaa dungi
   Mere Husain ko rote...
 
   6
-  Tum is jahaṅ meiṅ hamara sahara ban jao
-  Hamare bhai se izzat to banke dikhlao
-  Na aiso ho apne kisi amal se kabhi
-  Aza ki ruh ko nuksaan tum na pahunchao
-  Ye mere wada hai mai tumko bakshwa doongi
+  Tum is jahaaṅ meiṅ hamaara sahaara ban jaao
+  Hamaare baais-e-izzat to ban ke dikhlaao
+  Na aisa ho kabhi apne kisi amal se kabhi
+  Aza ki ruh ko naqsaan tum na pahunchaao
+  Ye mera waada hai main tum ko bakshwa doṅgi
   Mere Husain ko rote...
 
   7
-  Jo umr bhar mere bachon ka nauha khwaṅ hoga
-  Ba roze hashr wo utna hi shadman hoga
-  Jo nauhe likhte rahe mazhar abdi yuhiṅ
-  Qalam ye ta ba qayamat yuhin rawaṅ hoga
-  Har ek bayt pe jannat meiṅ ghar dila doongi
+  Jo umr bhar mere bachche ka nauha khwaaṅ hoga
+  Ba roz-e-hashr woh utna hi shaad maaṅ hoga
+  Jo nauhe likhte rahe Mazhar Abidi yuṅ hi
+  Qalam ye taa ba qayaamat yunhi rawaaṅ hoga
+  Har ek bait pe jannat meiṅ ghar dila dungi
   Mere Husain ko rote...
 ---
 

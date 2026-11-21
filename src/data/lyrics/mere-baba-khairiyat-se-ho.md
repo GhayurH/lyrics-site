@@ -17,45 +17,45 @@ romanLyrics: |-
   Mere baba khairiyat se ho
 
   1
-  Dekha aaj maiṅ ne kaisa khaab
-  Rayth par pare hai kuch gulaab
-  Chun rahe hai jinko bu-turaab
+  Dekha aaj maiṅ ne kaisa khwaab
+  Ret par pare haiṅ kuch gulaab
+  Chun rahe haiṅ jin ko Bu Turaab
   Khun ro raha hai aaftab
 
   2
-  Ek taraf alam hai khun meiṅ tar
-  Jhuk gayi hai shaah ki kamar
+  Ik taraf alam hai khun meiṅ tar
+  Jhuk gayi hai shah ki kamar
   Ja rahi hai jis taraf nazar
-  Bibiyaṅ khari hai nange sar
+  Bibiyaaṅ khari haiṅ nange sar
 
   3
-  Haye haye qasim-e-jawaaṅ
-  Bain kar rahi hai jiski maa
-  Hil gaye zamin o aasmaṅ
-  Tori jab dulhan ne churiyaṅ
+  Haye hai Qasim-e-jawaaṅ
+  Bain kar rahi hai jis ki maaṅ
+  Hil gaye zamin o aasmaaṅ
+  Tori jab dulhan ne churiyaaṅ
 
   4
-  Ek bachi seena-e-padar
+  Ik bachchi sina-e-padar
   Dhundti rahi idhar udhar
   Baap so raha tha khaak par
   Jis ke tan se kat chuka tha sar
 
   5
-  Qaid hai rasul-zaadiyaṅ
-  Haath meiṅ bandhi hai rassiyaṅ
-  Bekajawa hai amariyaaṅ
-  Khuṅ ro raha hai saarbaṅ
+  Qaid haiṅ Rasul zaadiyaaṅ
+  Haath meiṅ bandhi haiṅ rassiyaaṅ
+  Bekajaawa haiṅ amaariyaaṅ
+  Khuṅ ro raha hai saarbaaṅ
 
   6
   Khwaab ye bara ajib tha
-  Baad shaah-e-diṅ gharib tha
+  Baad Shaah-e-Diṅ gharib tha
   Kya yehi mera nasib tha
-  bekafan mera tabib tha
+  Bekafan mera tabib tha
 
   7
-  Sarwar o rehaan ki dua
-  Ho qabul shaah-e-karbala
-  Koi beti aur is tarha
+  Sarwar o Rehan ki dua
+  Ho qabul Shaah-e-Karbala
+  Koi beti aur is tarah
   Phir tarap ke yuṅ na de sada
 ---
 صغریٰ غش سے چونک کر اُٹھی

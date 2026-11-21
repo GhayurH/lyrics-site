@@ -9,95 +9,56 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Hogi Yeh Majlis Tu Hogi Nadeem Sarwar"
-romanLyrics: 'Hogi Yeh Majlis Tu Hogi Nadeem Sarwar.
-
-  Hogi Yeh Majlis Tu Hogi Hoga Yeh Matam Tu Hoga.
-
+romanLyrics: |-
+  Hogi yeh majlis to hogi hoga yeh maatam to hoga
 
   1
-
-  Aarzu Hai Yeh Nabi Ki Ruk Nahi Sakti Kabhi.
-
-  Chodah Sadiyaan Ho Gayi Hain Majlis-e-Shabeer Ko.
-
-  Khon Se Likhtay Rahe Hum Gham Ki Iss Tehreer Ko.
-
-  Yeh Sada Hai Karbala Ki Yeh Sada Shabeer Ki.
-
+  Aarzu hai yeh Nabi ki ruk nahiṅ sakta kabhi
 
   2
-
-  3) Sunnate Zainab ye majlis Sunnate Zainul ebaa
-
-  Shaam ke darbaar may Majlis huwi maatam huwa
-
-  Ruk na paee Shaam may jab, Kya rukengi ab kabhi
-
+  Chaudah sadiyoṅ ho gai hai majlis-e-Shabir ko
+  Khuṅ se likhte ham gham ki is tahrir ko
+  Yeh sada hai Karbal ki yeh sada Shabir ki
 
   3
-
-  Taigon Ke Saye Mein Paltay Hain Hussaini Nojawaan.
-
-  Maut Se Larna Sikhati Hain Humein Lori Mein Maa.
-
-  Apne Khoon Se Mortay Hain Dhaar Hum Tu Taig Ki.
-
-  Sunat-e-Zainab Yeh Majlis Sunat-e-Zeen Al Aba.
-
+  Teghoṅ ke saaye mein palte haiṅ Husaini naujawaaṅ
+  Maut se larna sakhti hai hamein lori mein maaṅ
+  Apne khun se morte haiṅ dhaar ham to tegh ki
 
   4
-
-  Sham Ke Darbar Mein Majlis Hoi Matam Howa.
-
-  Ruk Na Payi Sham Mein Jab Kya Rukay Gi Ab Kabhi.
-
-  Gaud Ka Bacha Ho Koi Ya Jawan-o-Peer Ho.
-
-  Dekho Oss Ko Oss Ghari Jab Matam-e-Shabeer Ho.
-
+  Sannaate Zainab yeh majlis sannaate Zain ul Aba
+  Shaam ke darbaar mein majlis hui maatam hua
+  Ruk na paai Shaam mein jab kya ruke gi ab kabhi
 
   5
-
-  Aik Hai Raftar Sab Ki Aik Hai Aawaz Bhi.
-
-  So Janazay Hum Uthaein Apne Pyaron Ke Tu Kya.
-
-  Ruk Nahi Sakta Azadari Ka Ab Yeh Silsila.
-
-  Apne Hi Khoon Mein Naha Kar Hum Pukarein Gay Yehi.
-
+  God ka bachcha ho koi ya jawaan o pir ho
+  Dekho us ko us ghari jab maatam-e-Shabir ho
+  Ek hai raftaar sab ki ek hai aawaaz bhi
 
   6
-
-  Chin Bhi Jaein Gar Hussaini Maon Se Unn Ke Jawaan.
-
-  Yaad Kar Ke Zakhm-e-Akbar Ko Kahey Gi Tab Woh Maa.
-
-  Tha Ali Akbar Ka Sadqa Lal Mera Matami.
-
-  Keh Raha Hai Parcham-e-Abbas Ka Panja Yehi.
-
+  Sau janaaze ham uthaaeṅ apne pyaaroṅ ke to kya
+  Ruk nahiṅ sakta azaadaari ka ab yeh silsila
+  Apne hi khuṅ mein naha kar ham pukaareṅ ge yahi
 
   7
-
-  Hath Kat Jaein Tu Matam Ruk Nahi Sakta Kabhi.
-
-  Sar Ko Takra Kar Karein Gay Aag Par Chal Kar Kabhi.
-
-  Aye Azadaro Hussain Ibn-e-Ali Ke Matami.
-
-  Youn Guzaro Tum Azadari Mein Apni Zindagi.
-
+  Chhin bhi jaae gar Husaini maaoṅ se un ke jawaaṅ
+  Yaad kar ke zakhm-e-Akbar ko kahe gi tab woh maaṅ
+  Tha Ali Akbar ka sadqa laal mera maatami
 
   8
+  Keh raha hai parcham-e-Abbaas ka panja yahi
+  Haath kat jaae to maatam ruk nahiṅ sakta kabhi
+  Sar ko takra kar kareṅ ge aag par chal kar kabhi
 
-  Pairvi Kartay Hi Rehna Buzar-o-Salman Ki.
+  9
+  Ae azaadaaroṅ Husain ibn-e-Ali ke maatami
+  Yuṅ guzaaro tum azaadaari mein apni zindagi
+  Pairavi karte hi rehna Buzar o Salmaan ki
 
-  Aaj Jo:REHAN-o-SARWAR: Kar Rahe Hain Haq Ada.
-
-  Kal Naye:REHAN-o-SARWAR: De Gi Zahra Ki Dua.
-
-  Silsila Jari Rahe Ga Rook Kar Dekhey Koi.'
+  10
+  Aaj jo Rehaan o Sarwar kar rahe haiṅ haq ada
+  Kal naye Rehaan o Sarwar de gi Zehra ki dua
+  Silsila jaari rahe ga rok kar dekhe koi
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

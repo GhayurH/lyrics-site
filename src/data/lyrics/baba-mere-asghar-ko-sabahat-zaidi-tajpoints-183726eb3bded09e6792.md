@@ -1,40 +1,100 @@
 ---
-title: "Baba Mere Asghar Ko Sabahat Zaidi"
+title: "بابا میرے اصغر کو"
+alternateTitle: "Baba Mere Asghar Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Osaaf"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baba mere Asghar ko Sabahat Zaidi
+  Baba mere Asghar ko pani tu pila lao
+  Darya ki fiza baba Asghar ko dikha lao
+
+  1
+  Abbas chacha mera aaya nahi palat ke
+  Pyasa hi mera Asghar leta hai youn simat ke
+  Darya se mere baba Ghazi ko bola lao
+
+  2
+  Maqtal mein hi rukay hain Qasim bhi bhai Akbar
+  Chahti hoon unn ko dekhey maidaan mein mera Asghar
+  Ik bar unn se baba Asghar ko mila lao
+
+  3
+  Kartay hain jang baba bachay bhi ab jawaan bhi
+  Asghar mera jarri hai dekhey ga yeh maidaan bhi
+  Hamlay woh jang walay, iss ko bhi sikha lao
+
+  4
+  Jholay se girey Asghar Fizza ne jab sada di
+  Bolay Hussain ro kar yeh hai ghari qaza ki
+  Le jate hain Asghar ko jaldi se utha lao
+
+  5
+  Zakhmi galuye Asghar dekha tu Shah bolay
+  Hai muntazir Sakina le jaon bhala kaisay
+  Bano ne kaha Maula woh zakhm chupa lao
+
+  6
+  Aate hoye jo Shah ko dekha tu muskurai
+  Boli Sakina dekho aata hai mera bhai
+  Amma se kaha jaldi jholay ko saja lao
+
+  7
+  Laye jo Shah lasha Asghar ka khaima ga mein
+  Kehne lagi Sakina aanso bharay nigah mein
+  Yeh tu nahi kaha tha Asghar ko sula lao
+
+  8
+  Osaaf yeh ro ro ke boli masoom bachi
+  Maqtal ki jagah baba bilkul nahi hai achi
+  Pyaron ko mere baba maqtal se bola lao
 ---
 
-1
-Baba Mere Asghar Ko Sabahat Zaidi.
-Baba Mere Asghar Ko Pani Tu Pila Lao.
-Darya Ki Fiza Baba Asghar Ko Dikha Lao.
-Abbas Chacha Mera Aaya Nahi Palat Ke.
-Pyasa Hi Mera Asghar Leta Hai Youn Simat Ke.
-Darya Se Mere Baba Ghazi Ko Bola Lao.
-Maqtal Mein Hi Rukay Hain Qasim Bhi Bhai Akbar.
-Chahti Hoon Unn Ko Dekhey Maidaan Mein Mera Asghar.
-Ik Bar Unn Se Baba Asghar Ko Mila Lao.
-Kartay Hain Jang Baba Bachay Bhi Ab Jawaan Bhi.
-Asghar Mera Jarri Hai Dekhey Ga Yeh Maidaan Bhi.
-Hamlay Woh Jang Walay, Iss Ko Bhi Sikha Lao.
-Jholay Se Girey Asghar Fizza Ne Jab Sada Di.
-Bolay Hussain Ro Kar Yeh Hai Ghari Qaza Ki.
-Le Jate Hain Asghar Ko Jaldi Se Utha Lao.
-Zakhmi Galuye Asghar Dekha Tu Shah Bolay.
-Hai Muntazir Sakina Le Jaon Bhala Kaisay.
-Bano Ne Kaha Maula Woh Zakhm Chupa Lao.
-Aate Hoye Jo Shah Ko Dekha Tu Muskurai.
-Boli Sakina Dekho Aata Hai Mera Bhai.
-Amma Se Kaha Jaldi Jholay Ko Saja Lao.
-Laye Jo Shah Lasha Asghar Ka Khaima Ga Mein.
-Kehne Lagi Sakina Aanso Bharay Nigah Mein.
-Yeh Tu Nahi Kaha Tha Asghar Ko Sula Lao.
- Osaaf Yeh Ro Ro Ke Boli Masoom Bachi.
-Maqtal Ki Jagah Baba Bilkul Nahi Hai Achi.
-Pyaron Ko Mere Baba Maqtal Se Bola Lao.
+بابا میرے اصغر کو صباحت زیدی
+بابا میرے اصغر کو پانی تو پلا لاؤ
+دریا کی فضا بابا اصغر کو دکھا لاؤ
+
+۱
+عباس چچا میرا آیا نہیں پلٹ کے
+پیاسا ہی میرا اصغر لیٹا ہے یوں سمٹ کے
+دریا سے میرے بابا غازی کو بلا لاؤ
+
+۲
+مقتل میں ہی رکے ہیں قاسم بھی بھائی اکبر
+چاہتی ہوں ان کو دیکھے میدان میں میرا اصغر
+اک بار ان سے بابا اصغر کو ملا لاؤ
+
+۳
+کرتے ہیں جنگ بابا بچے بھی اب جواں بھی
+اصغر میرا جری ہے دیکھے گا یہ میدان بھی
+حملے وہ جنگ والے، اس کو بھی سکھا لاؤ
+
+۴
+جھولے سے گرے اصغر فضہ نے جب صدا دی
+بولے حسین رو کر یہ ہے گھڑی قضا کی
+لے جاتے ہیں اصغر کو جلدی سے اٹھا لاؤ
+
+۵
+زخمی گلوئے اصغر دیکھا تو شاہ بولے
+ہے منتظر سکینہ لے جاؤں بھلا کیسے
+بانو نے کہا مولا وہ زخم چھپا لاؤ
+
+۶
+آتے ہوئے جو شاہ کو دیکھا تو مسکرائی
+بولی سکینہ دیکھو آتا ہے میرا بھائی
+اماں سے کہا جلدی جھولے کو سجا لاؤ
+
+۷
+لائے جو شاہ لاشہ اصغر کا خیمہ گاہ میں
+کہنے لگی سکینہ آنسو بھرے نگاہ میں
+یہ تو نہیں کہا تھا اصغر کو سلا لاؤ
+
+۸
+اوصاف یہ رو رو کے بولی معصوم بچی
+مقتل کی جگہ بابا بالکل نہیں ہے اچھی
+پیاروں کو میرے بابا مقتل سے بلا لاؤ

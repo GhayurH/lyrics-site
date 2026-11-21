@@ -1,38 +1,66 @@
 ---
-title: "Midhat-e-Nafs-e-Payamber Ke Liye"
+title: "مدحتِ نفسِ پیمبر کے لیے"
+alternateTitle: "Midhat-e-Nafs-e-Payamber Ke Liye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Midhat-e-nafs-e-payamber ke liye
+  Harf kuch asma-e-Dawar ke liye
+
+  1
+  Shaq kiya dewar ko dar ke liye
+  Roshni darkar thi ghar ke liye
+  Woh zacha khana marey Maula ka hai
+  Tum ne bosay jis ke pathar ke liye
+
+  2
+  Khud karein naan-e-jowein par inhisar
+  Nematein Salman-o-Qanbar ke liye
+  Zaib deta hai laqab shair-e-Khuda
+  Fatima Zahra ke shohar ke liye
+
+  3
+  Maat khayi tu Khuda ke hath se
+  Fakhar ki hai baat Antar ke liye
+  Ya Ali Maula Ali Nad-e-Ali
+  Hai wazeefa khuld-o-Kausar ke liye
+
+  4
+  Kaun kis qabil hai Rab ko tha pata
+  Chun liya Haider ko Khaybar ke liye
+  Naam se Rehan zahir hai marey
+  Main tu ik khushbo hoon mimber ke liye
 ---
 
-Midhat-e-Nafs-e-Payamber Ke Liye Lyrics
-Harf Kuch Asma-e-Dawar Ke Liye.
+مدحتِ نفسِ پیمبر کے لیے
+حرف کچھ اسمائے داور کے لیے
 
-1
-Shaq Kiya Dewar Ko Dar Ke Liye.
-Roshni Darkar Thi Ghar Ke Liye.
-Woh Zacha Khana Marey Maula Ka Hai.
-Tum Ne Bosay Jis Ke Pathar Ke Liye.
+۱
+شق کیا دیوار کو در کے لیے
+روشنی درکار تھی گھر کے لیے
+وہ زچہ خانہ میرے مولا کا ہے
+تم نے بوسے جس کے پتھر کے لیے
 
-2
-Khud Karein Naan-e-Jowein Par Inhisar.
-Nematein Salman-o-Qanbar Ke Liye.
-Zaib Deta Hai Laqab Shair-e-Khuda.
-Fatima Zahra Ke Shohar Ke Liye.
+۲
+خود کریں نانِ جویں پر انحصار
+نعمتیں سلمان و قنبر کے لیے
+زیب دیتا ہے لقب شیرِ خدا
+فاطمہ زہرا کے شوہر کے لیے
 
-3
-Maat Khayi Tu Khuda Ke Hath Se.
-Fakhar Ki Hai Baat Antar Ke Liye.
-Ya Ali Maula Ali Nad-e-Ali.
-Hai Wazeefa Khuld-o-Kausar Ke Liye.
+۳
+مات کھائی تو خدا کے ہاتھ سے
+فخر کی ہے بات عنتر کے لیے
+یا علی مولا علی نادِ علی
+ہے وظیفہ خلد و کوثر کے لیے
 
-4
-Kaun Kis Qabil Hai Rab Ko Tha Pata.
-Chun Liya Haider Ko Khaybar Ke Liye.
-Naam Se Rehan Zahir Hai Marey.
-Main Tu Ik Khushbo Hoon Mimber Ke Liye.
+۴
+کون کس قابل ہے رب کو تھا پتا
+چن لیا حیدر کو خیبر کے لیے
+نام سے ریحان ظاہر ہے میرے
+میں تو اک خوشبو ہوں منبر کے لیے

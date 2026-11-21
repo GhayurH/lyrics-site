@@ -16,13 +16,13 @@ romanLyrics: |-
   Ye kis ne keh diya kal tha Husain aaj bhi hai
 
   1
-  Shahaadatoṅ ke laboṅ par hai shukriya Zainab
+  Shahaadatoṅ ke laboṅ hai shukriya Zainab
   Na hoti tu to simat jaati Karbala Zainab
-  Teri wasile se zinda Husain aaj bhi hai
+  Tere wasile se Zainab Husain aaj bhi hai
 
   2
   Ye hurr mizaaj se kehti hai majlis-e-Shabbir
-  Bas ek pal badal jaayegi teri taqdir
+  Bas ek pal meiṅ badal jaayegi teri taqdir
   Aza ke farsh pe aa jaa Husain aaj bhi hai
 
   3

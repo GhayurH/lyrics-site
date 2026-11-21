@@ -9,15 +9,15 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bain karti thi ye zehra mere mazlum Husain
+  Bain karti thi ye Zehra mere mazlum Husain
 
   1
-  Kisne pyaasa tujhe maara mere mazlum Husain
-  Na to akbar hai na asgahr hai na zainab ke pisar
-  Kat gaya sab terq kunba mere mazlum Husain
+  Kis ne pyaasa tujhe maara mere mazlum Husain
+  Na to Akbar hai na Asghar hai na Zainab ke pisar
+  Kat gaya sab tera kunba mere mazlum Husain
 
   2
-  Khaak se uth ke lago amma ki chaati se zara
+  Khaak se uth ke lago ammaaṅ ki chhaati se zara
   Gham se jalta hai kaleja mere mazlum Husain
 
   3
@@ -25,12 +25,12 @@ romanLyrics: |-
   Teri mayyat ko na gaara mere mazlum Husain
 
   4
-  Dayr se laash pa khaati hoo pachare waari
-  Uth ke do maa ko dilaasa mere mazlum Husain
+  Der se laash pe khaati huṅ pachhaare waari
+  Uth ke do maaṅ ko dilaasa mere mazlum Husain
 
   5
-  Beh raha hai rag e gardan se lahu reti par
-  Hai ye besar tera laasha mere mazlum Husain
+  Beh raha hai rag-e-gardan se lahu reti par
+  Hai ye be sar tera laasha mere mazlum Husain
 
   6
   Tukre tukre ho badan zulm ki talwaaroṅ se

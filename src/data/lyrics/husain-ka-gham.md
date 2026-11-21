@@ -21,7 +21,7 @@ romanLyrics: |-
   1
   Yehi to hai intezaar-e-Mehdi
   Sadaa-e-hal min ka hai ye matlab
-  Wafaa-e-Abbas meiṅ bano tum
+  Wafa-e-Abbas meiṅ bano tum
   Muhaafizaan-e-mazaar-e-Zainab
   Wafa ka parcham uthaane waaloṅ
   Husain tum ko bula rahe haiṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   Husain tum ko bula rahe haiṅ
 
   6
-  Jo al ajal ki sada lagaaye
+  Jo al-ajal ki sadaa lagaaye
   Wo apna kirdaar bhi dikhaaye
   Imam-e-Mehdi ke haiṅ jo naasir
   Habib Ibn-e-Mazaahir aaye
@@ -79,7 +79,7 @@ romanLyrics: |-
   Imam ka saamna karoge
   Amal ke baare meiṅ kya kahoge
   Husain ko kya jawaab doge
-  Ghina ki mehfil sajaane waaloṅ
+  Gunaah ki mehfil sajaane waaloṅ
   Husain tum ko bula rahe haiṅ
 
   9

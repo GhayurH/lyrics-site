@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zindaṅ se jab reha hue sadaat e karbala
-  Maa ne lipat ke qabr e sakina pe di sada
-  Utho sakina chale karbala
-  Choti si turbat pe maa ne kaha
-  Zindaṅ se jaata hai ab khaafla
+  Zindaṅ se jab riha hue Sadaat-e-Karbala
+  Maaṅ ne lipat ke qabr-e-Sakina pe di sada
+  Utho Sakina chale Karbala
+  Chhoti si turbat pe maaṅ ne kaha
+  Zindaṅ se jaata hai ab qaafila
   Mujhe shaahzadi tumhari qasam
-  Na rakhungi zindaṅ se bahar qadam
-  Safar ki ab hoti hai tayyariyaṅ
-  Amari meiṅ baithe hai ahle haram
-  Ghurbat ka mere tumhe waasta
-  Utho sakina chale...
-  Wo pehle ke jaisi to ghurbat nahi
-  Ae bibi hamari wo haalat nahi
-  Tumhe shaamiyoṅ se ab ae meri jaaṅ
-  Kafan maangne ki zarurat nahi
+  Na rakhuṅgi zindaṅ se baahar qadam
+  Safar ki ab hoti hai tayyaariyaaṅ
+  Amaari meiṅ baithe haiṅ ahl-e-haram
+  Ghurbat ka mere tumheṅ waasta
+  Utho Sakina chale...
+  Wo pehle ke jaisi to ghurbat nahiṅ
+  Ae Bibi hamaari wo haalat nahiṅ
+  Tumheṅ shaamiyoṅ se ab ae meri jaaṅ
+  Kafan maangne ki zarurat nahiṅ
   Lo mil gayi hai tumhari rida
-  Utho sakina chale...
-  Mujhe yaad asghar ki hai bekasi
-  Lehad se wo mayyat nikali gayi
-  Akele mai rehne na dungi tumhe
-  Bharosa nahi shamiyoṅ ka koi
-  Rehte hai charoṅ taraf ashkhiyan
-  Utho sakina chale...
-  Ye shaami kahaṅ tumko behlayenge
-  Tumhari lehad par nahi aayenge
-  Rahega andhera hi zindaṅ meiṅ
-  Haram jab yahaṅ se chale jayenge
-  Kaun aayega phir jalane diya
-  Utho sakina chale...
-  Kahani padar ki sunaugi mai
-  Agar nind aayi sulaungi mai
+  Utho Sakina chale...
+  Mujhe yaad Asghar ki hai bekasi
+  Lahad se wo mayyat nikaali gayi
+  Akele main rehne na duṅgi tumheṅ
+  Bharosa nahiṅ shaamiyoṅ ka koi
+  Rehte haiṅ chaaroṅ taraf ashqiyaa
+  Utho Sakina chale...
+  Ye shaami kahaaṅ tumko behlaayenge
+  Tumhari lahad par nahiṅ aayenge
+  Raheṅge andhera hi zindaṅ meiṅ
+  Haram jab yahaaṅ se chale jaayenge
+  Kaun aayega phir jalaane diya
+  Utho Sakina chale...
+  Kahaani padar ki sunaauṅgi main
+  Agar nind aayi sulaauṅgi main
   Akele na naaqe pe baithogi tum
-  Tumhe saath apne bithaogi mai
+  Tumheṅ saath apne bithaauṅgi tum
   Ab to rasan meiṅ na hoga gala
-  Utho sakina chale...
-  Mujhe maar daalega bas yehi gham
+  Utho Sakina chale...
+  Mujhe maar daalega bas yahi gham
   Kamar meiṅ hai beti tumhari jo kham
   Waram baazuoṅ ka mujhe yaad hai
-  Tumhe to dikhayi bhi deta hai kam
-  Akbar se bibi milegi shifa
-  Utho sakina chale...
-  Bari dayr tehri hai darbar meiṅ
-  Yahaṅ par na roko zyada unhe
-  Ke pehlu pe ek haath rakhe huwe
-  Sada de rahi hai sakina tumhe
-  Lene ko aayi hai khud sayyeda
-  Utho sakina chale...
-  Thi zindaṅ meiṅ akbar ajab wo ghari
-  Rehaai pe roti thi har ek phupi
-  Idhar khun rota tha abid udhar
-  Sakina lehad meiṅ tarapti rahi
+  Tumheṅ to dikhaayi bhi deta hai kam
+  Akbar se Bibi milegi shifa
+  Utho Sakina chale...
+  Bari der thahri hai darbaar meiṅ
+  Yahaaṅ par na roko zyaada unheṅ
+  Ke pehlu pe ik haath rakhe hue
+  Sada de rahi hai Sakina tumheṅ
+  Lene ko aayi hai khud Sayyeda
+  Utho Sakina chale...
+  Thi zindaṅ meiṅ Akbar ajab wo ghari
+  Rihaai pe roti thi har ek phuphi
+  Idhar khun rota tha Aabid udhar
+  Sakina lahad meiṅ tarapti rahi
   Jab bhi ye maadar ne ro kar kaha
-  Utho sakina chale...
+  Utho Sakina chale...
 ---
 
 ۱

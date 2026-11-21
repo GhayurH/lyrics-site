@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Kabhi koshish bhi agar karte the so jaane ki
   Koi tasvir ubhar aati thi tarpaane ki
-  Gunjne lagti thi kaanoṅ meiṅ Sakina ki fughaaṅ
+  Gunjne lagti thi kaanoṅ meiṅ Sakina ki faghaaṅ
 
   2
   Saamne jab bhi wuzu ke liye aaya paani
@@ -43,12 +43,12 @@ romanLyrics: |-
   6
   Khul gaya tauq magar dard ki shiddat na gai
   Beriyaṅ khul ke bhi zakhmoṅ ki aziyat na gai
-  Paaye ehsaas meiṅ jakri rahi zanjir-e-giraaṅ
+  Paa-e-ehsaas meiṅ jakri rahi zanjir-e-giraaṅ
 
   7
   Ghar se jab Aabid-e-muztar ka janaaza nikla
   Sogwaaroṅ ki zabaanoṅ se ye nauha nikla
-  Aamir o Fakhri Madine meiṅ thi ye aah o fughaaṅ
+  Aamir o Faqri Madine meiṅ thi ye aah o faghaaṅ
 ---
 باپ کے سوگ میں چالیس برس روئے ہیں
 آج سجاد ہمیشہ کے لئے سوئے ہیں

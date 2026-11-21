@@ -11,61 +11,61 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab bali sakina ko mili laash padar ki
-  Baba ke khareeb aake ye kehne lagi bacchi
-  Rukhsar bhi zakhmi mera daaman bhi jala hai
-  Jaagi huṅ kayi roz ki ek ye bhi jafa hai
-  Tum ne bhi na pucha to bahot roungi baba
-  Tum khud hi bata do ke kahaṅ soungi baba
+  Jab baali Sakina ko mili laash padar ki
+  Baba ke qarib aa ke ye kehne lagi bachchi
+  Rukhsaar bhi zakhmi mera daaman bhi jala hai
+  Jaagi huṅ kai roz ki ek ye bhi jafa hai
+  Tum ne bhi na puchha to bahut rouṅ gi baba
+  Tum khud hi bata do kahaaṅ souṅ gi baba
   Baba mujhe ab nind aa rahi hai
-  Sine se tiroṅ ko tum hatalo
+  Sine se tiroṅ ko tum hata lo
   Baba mujhe ab nind aa rahi hai
-  Sau zakhm seh kar bhi royi nahi huṅ
-  Mai aath pehroṅ se soyi nahi huṅ
-  Sone nahi deti furqat tumhari
-  Laayi yahaṅ tak mohabbat tumhari
+  Sau zakhm seh kar bhi roi nahiṅ huṅ
+  Main aath pehroṅ se soi nahiṅ huṅ
+  Sone nahiṅ deti furqat tumhaari
+  Laai yahaaṅ tak mohabbat tumhaari
   Ek baar uth kar gale se laga lo
   Baba mujhe ab...
   Jab se gaye aap gham bhi siwa hai
-  Bewarison par sitam bhi siwa hai
-  Karte hai nauha dil o jaan mere
-  Rukhsar zakhmi hai aur kaan mere
+  Bewaarisoṅ par sitam bhi siwa hai
+  Karte haiṅ nauha dil o jaan mere
+  Rukhsaar zakhmi hai aur kaan mere
   Haathoṅ ko apne jhula bana lo
   Baba mujhe ab...
-  Pehnayi jo eid par tum ne mujhko
-  Wo baliyaṅ chin gayi baba dekho
-  Kaano se mere lahu beh raha hai
-  Rukhsar nile hai daaman jala hai
-  Huṅ chur zakhmoṅ se tum sambhalo
+  Pehnaai jo Eid par tum ne mujhko
+  Wo baaliyaaṅ chhin gai baba dekho
+  Kaanoṅ se mere lahu beh raha hai
+  Rukhsaar nile haiṅ daaman jala hai
+  Huṅ chur zakhmoṅ se tum sambhaalo
   Baba mujhe ab...
-  Awaaz sunti hui ya bunayya
-  Pahunchi huṅ laashe talak mehwe girya
-  Rukhsar sine pe rakhuṅ mai kaise
+  Aawaaz sunti hui ya bunayya
+  Pahunchi huṅ laashe talak mahv-e-girya
+  Rukhsaar sine pe rakhuṅ main kaise
   Ae baba sine pe hai tir itne
-  Kuch dayr pehlu meiṅ hi sula lo
+  Kuchh der pehlu mein hi sula lo
   Baba mujhe ab...
-  Dekhi nahi jaati haalat tumhari
-  Mujhko rulaati hai ghurbat tumhari
-  Ye soch kar paas aayi tumhare
-  Phir shimr mujhko tamache na maare
-  Zaalim ki nazroṅ se mujhko chupalo
+  Dekhi nahiṅ jaati haalat tumhaari
+  Mujhko rulaati hai ghurbat tumhaari
+  Ye soch kar paas aai tumhaare
+  Phir Shimr mujhko tamaanche na maare
+  Zaalim ki nazroṅ se mujhko chhupa lo
   Baba mujhe ab...
-  Baba masayeb se chalni jigar hai
-  Ek shab ki mehman huṅ kal safar hai
+  Baba masaaib se chhalni jigar hai
+  Ek shab ki mehmaan huṅ kal safar hai
   Bas aakhri raat sone do baba
-  Phir so sakegi na bali sakina
-  Mujhko bhi dedo sukuṅ tum bhi paa lo
+  Phir so sakegi na baali Sakina
+  Mujhko bhi de do sukuṅ tum bhi paa lo
   Baba mujhe ab...
-  Amma se aksar suna hai ye maiṅ ne
-  Jannat se aaye the kapre tumhare
-  Khudrat tumhari hai pyase musafir
-  Mai huṅ pareshan ab meri khaatir
-  Jannat se koi bichona manga lo
+  Ammaaṅ se aksar suna hai ye main ne
+  Jannat se aaye the kapre tumhaare
+  Qudrat tumhaari hai pyaase musaafir
+  Main huṅ pareshaan ab meri khaatir
+  Jannat se koi bichhauna manga lo
   Baba mujhe ab...
-  Mazhar sakina ki is bekasi par
-  Qurban ho jaaye mai aur safdar
-  Rote the ye sun ke shaahe madina
-  Karti thi faryaad bali sakina
+  Mazhar Sakina ki is bekasi par
+  Qurbaan ho jaaye main aur Safdar
+  Rote the ye sun ke shaah-e-Madina
+  Karti thi faryaad baali Sakina
   Sine se tiroṅ ko tum hata lo
   Baba mujhe ab...
 ---

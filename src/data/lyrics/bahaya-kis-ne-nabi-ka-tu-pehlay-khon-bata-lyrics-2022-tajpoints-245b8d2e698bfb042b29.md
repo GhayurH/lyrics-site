@@ -1,30 +1,44 @@
 ---
-title: "Bahaya Kis Ne Nabi Ka Tu Pehlay Khon Bata Lyrics 2022"
+title: "بہایا کس نے نبی کا تو پہلے خون بتا"
+alternateTitle: "Bahaya Kis Ne Nabi Ka Tu Pehlay Khon Bata"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bahaya kis ne Nabi ka tu pehlay khon bata
+  Qatal-e-Shabeer ayyaan hai qatal-e-Mohsin na chupa
+  Sans Zahra ne liye kaisay pasliyaan torein
+  Kar nahi payi phir ik hath se tasbeeh woh ada
+  Unn ke hathoon pe miley ga khon Mohsin ka
+  Karbala mein sar-e-Zainab se jo cheeney gay rida
+  Qabar-e-Mohsin ko liye dil mein Zahra hain gayin
+  Jin ko kehte ho Razi Allah kya razi hai Khuda
+  Yeh hi tasleem karo munkir-e-Quran they woh
+  Warna fill qurba ki aayat ko Quraan se mita
+  Sabar Masoom ka wirsa hai kaha Zahra ne
+  Ya Ali aap ka rasiyon mein dekha jo gala
+  Jurm Zahra ka tha Haider ki wilayat Najfi
+  Aaj tak turbat-e-Zahra pe pehra hai laga
 ---
 
-1
-Bahaya Kis Ne Nabi Ka Tu Pehlay Khon Bata
-Qatal-e-Shabeer Ayyaan Hai Qatal-e-Mohsin Na Chupa.
-Sans Zahra Ne Liye Kaisay Pasliyaan Torein.
-Kar Nahi Payi Phir Ik Hath Se Tasbeeh Woh Ada.
-Unn Ke Hathoon Pe Miley Ga Khon Mohsin Ka.
-Karbala Mein Sar-e-Zainab Se Jo Cheeney Gay Rida.
-Qabar-e-Mohsin Ko Liye Dil Mein Zahra Hain Gayin.
-Jin Ko Kehte Ho Razi ALLAH Kya Razi Hai Khuda.
-Yeh Hi Tasleem Karo Munkir-e-Quran They Woh.
-Warna Fill Qurba Ki Aayat Ko Quraan Se Mita.
-Sabar Masoom Ka Wirsa Hai Kaha Zahra Ne.
-Ya Ali Aap Ka Rasiyon Mein Dekha Jo Gala.
-Jurm Zahra Ka Tha Haider Ki Wilayat Najfi.
-Aaj Tak Turbat-e-Zahra Pe Pehra Hai Laga.
-Noha Khuwan Party Ch Faiyaz Party Sialkot.
-Matami Sangat
-Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot
+۱
+بہایا کس نے نبی کا تو پہلے خون بتا
+قتلِ شبیر عیاں ہے قتلِ محسن نہ چھپا
+سانس زہرا نے لیے کیسے پسلیاں توڑیں
+کر نہیں پائی پھر اک ہاتھ سے تسبیح وہ ادا
+ان کے ہاتھوں پہ ملے گا خون محسن کا
+کربلا میں سرِ زینب سے جو چھینیں گے ردا
+قبرِ محسن کو لیے دل میں زہرا ہیں گئیں
+جن کو کہتے ہو رضی اللہ کیا راضی ہے خدا
+یہ ہی تسلیم کرو منکرِ قرآن تھے وہ
+ورنہ فی القربیٰ کی آیت کو قرآن سے مٹا
+صبر معصوم کا ورثہ ہے کہا زہرا نے
+یا علی آپ کا رسیوں میں دیکھا جو گلا
+جرم زہرا کا تھا حیدر کی ولایت نجفی
+آج تک تربتِ زہرا پہ پہرا ہے لگا

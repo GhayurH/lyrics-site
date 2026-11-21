@@ -15,7 +15,7 @@ romanLyrics: |-
   Shah-e-diṅ ko jangal basaana hai dekho
 
   1
-  Hai Akbar ka laasha para ran meiṅ logoṅ
+  Hai Akbar ka laasha paraa ran meiṅ logoṅ
   Kisi ghamzade ko uthaana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho
 
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Qayaamat hai Yasrab ki godi ke paale
-  Kata kar gala diṅ bachaana hai dekho
+  Kataa kar gala diṅ bachaana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Shah-e-diṅ ko jangal basaana hai dekho
 
   5
-  Kata kar ye pyaasa gala zer-e-khanjar
+  Kataa kar ye pyaasa gala zer-e-khanjar
   Ye imaaṅ ki hujjat jataana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho
 

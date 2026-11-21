@@ -1,29 +1,48 @@
 ---
-title: "Baba Mainu Kalma Go Darbar Bolaya Aye Lyrics 2021"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بابا مینوں کلمہ گو دربار بلایا اے"
+alternateTitle: "Baba Mainu Kalma Go Darbar Bolaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba mainu kalma go darbar bolaya aye
+  Teri Zahra choon ais peshi ne haye mar mukaya aye
+  Nasrani si wekh man gaye tauheed layi gawahi
+  Haye Baba mere putraan choon aina ghasabaan jhutlaya aye
+
+  2
+  Wekh tukray sand de Baba kitay Fidak de choraan
+  Tere haq choon Musalmana ne apna haq likhwaya aye
+  Jinna kita si naal tere man kuntu wala wadah
+  Pa ke rasiyaan ona Haider choon bazar phiraya aye
+
+  3
+  Ik wari ha zindagi wich Zainab da Baba roya
+  Jis welay hath pehlu taun Zahra da hataya aye
+  Ayho mangda Raza duawaan har matami ja wekhay
+  Ya Zahra tere putraan ne jehra shehar wasaya aye
 ---
 
-1
-Baba Mainu Kalma Go Darbar Bolaya Aye.
-Teri Zahra Choon Ais Peshi Ne Haye Mar Mukaya Aye.
-Nasrani Si Wekh Man Gaye Tauheed Layi Gawahi.
-Haye Baba Mere Putraan Choon Aina Ghasabaan Jhutlaya Aye.
+۱
+بابا مینوں کلمہ گو دربار بلایا اے
+تیری زہرا چوں ایس پیشی نے ہائے مار مکایا اے
+نصرانی سی ویکھ من گئے توحید لئی گواہی
+ہائے بابا میرے پتراں چوں ایناں غاصباں جھٹلایا اے
 
-2
-Wekh Tukray Sand De Baba Kitay Fidak De Choraan.
-Tere Haq Choon Musalmana Ne Apna Haq Likhwaya Aye.
-Jinna Kita Si Naal Tere Man Kuntu Wala Wadah.
-Pa Ke Rasiyaan Ona Haider Choon Bazar Phiraya Aye.
+۲
+ویکھ ٹکڑے سند دے بابا کیتے فدک دے چوراں
+تیرے حق چوں مسلماناں نے اپنا حق لکھوایا اے
+جنہاں کیتا سی نال تیرے من کنتُ والا وعدہ
+پا کے رسیاں اوہناں حیدر چوں بازار پھرایا اے
 
-3
-Ik Wari Ha Zindagi Wich Zainab Da Baba Roya.
-Jis Welay Hath Pehlu Taun Zahra Da Hataya Aye.
-Ayho Mangda Raza Duawaan Har Matami Ja Wekhay.
-Ya Zahra Tere Putraan Ne Jehra Shehar Wasaya Aye.
+۳
+اک واری ہا زندگی وچ زینب دا بابا رویا
+جس ویلے ہتھ پہلو توں زہرا دا ہٹایا اے
+ایہو منگدا رضا دعاواں ہر ماتمی جا ویکھے
+یا زہرا تیرے پتراں نے جیہڑا شہر وسایا اے

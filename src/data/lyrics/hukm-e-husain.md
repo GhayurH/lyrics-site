@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ye fakhr-e-Panjatan hai ye aks-e-Murtaza hai
-  Qaayam inhi ke dam se is dehr meiṅ wafa hai
+  Qiyaam inhi ke qadam se is dehr meiṅ wafa hai
   Abbas ki wafa ka Shah ne sila diya hai
 
   Hukm-e-Husain ye hai Ghazi ke dar pe jaao
@@ -43,7 +43,7 @@ romanLyrics: |-
   Tum khairiyat se aaye pehle use bataao
 
   5
-  Maiṅ rad nahiṅ karuṅ ga Ghazi agar kahe ga
+  Main rad nahiṅ karuṅ ga Ghazi agar kahe ga
   Jo bhi dua hai dil meiṅ us ko asar mile ga
   Haajaat apni saari jaa kar use sunaao
 

@@ -12,7 +12,7 @@ tags: []
 aliases: ["Hussainiyo Bade Chalo"]
 published: true
 romanLyrics: |-
-  Husainiyoṅ bare chalo hayaat ko jhinjhor do
+  Husainiyoṅ bare chalo hayaat ko jhanjhor do
   Sitam-shiaar jo barhe kalaaiyaaṅ mor do
 
   1
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Tarap ke boli mayyat-e-Husain ibn-e-Faatima
-  Madad ko phir utheṅge hum jo tan ko sar se jor do
+  Madad ko phir utheṅ ge hum jo tan ko sar se jor do
 
   7
   Gham-e-shahid-e-Karbala meiṅ barh ke Saalik-e-haziṅ

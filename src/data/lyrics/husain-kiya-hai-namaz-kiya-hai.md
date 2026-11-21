@@ -1,7 +1,7 @@
 ---
 title: "حسین کیا ہے، نماز کیا ہے"
 recitationId: "hussain-kiya-hai-namaz-kiya-hai"
-alternateTitle: "Husain Kiya Hai Namaz Kiya Hai"
+alternateTitle: "Husain Kya Hai, Namaaz Kya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,73 +11,73 @@ aliases:
   - "Husain Kiya Hai Namaz Kiya Hai"
 published: true
 romanLyrics: |-
-  tu ab bhi mujhse ye puchta hai
-  Husain kiya hai namaz kiya hai
+  Tu ab bhi mujh se ye puchhta hai
+  Husain kya hai, namaaz kya hai
 
   1
-  Husain panjetan ka nur-e-panjam
-  namaz hoti hai panjgana
+  Husain Panjtan ka nur-e-panjam
+  Namaaz hoti hai panjgaana
 
-  namaz meiṅ ijz o inkisari
-  Husain ki shan fatehana
+  Namaaz meiṅ ajz o inkisaari
+  Husain ki shaan-e-faatehaana
 
-  namaaz qible ko dhundti hai
-  Husain Kaaba bana raha hia
+  Namaaz qible ko dhundti hai
+  Husain Kaaba bana raha hai
 
-  tu ab bhi mujhse ye puchta hai
-  Husain kiya hai namaz kiya hai
+  Tu ab bhi mujh se ye puchhta hai
+  Husain kya hai, namaaz kya hai
 
   2
-  namaz ki ibtida wuzu hai
-  to us ko pani se benayazi
+  Namaaz ki ibtidaa wuzu hai
+  To us ko paani se beniyaazi
 
-  namaz ki intiha taharat
-  Husain shaahkar-e-pak daaman
+  Namaaz ki intihaa tahaarat
+  Husain shaahkaar-e-paak daaman
 
-  namaz hai baarha ibadat
-  Husain ka zikr beriya hai
+  Namaaz hai baarhaa ibaadat
+  Husain ka zikr beriyaa hai
 
-  tu ab bhi mujhse ye puchta hai
-  Husain kiya hai namaz kiya hai
+  Tu ab bhi mujh se ye puchhta hai
+  Husain kya hai, namaaz kya hai
 
   3
-  namaz hai Roshni ki taalib
+  Namaaz hai roshni ki taalib
   Husain shameiṅ bujha raha hai
 
-  namaz kasrat ko chahti hai
-  ye shan-e-wehdat dikha raha hai
+  Namaaz kasrat ko chaahti hai
+  Ye shaan-e-wahdat dikha raha hai
 
-  namaz piche hai mustufa ke
-  ye dosh per jagmaga raha hai
+  Namaaz pichhe hai Mustafa ke
+  Ye dosh par jagmaga raha hai
 
-  tu ab bhi mujhse ye puchta hai
-  Husain kiya hai namaz kiya hai
+  Tu ab bhi mujh se ye puchhta hai
+  Husain kya hai, namaaz kya hai
 
   4
-  namaz darti rahi lahu se
-  ye khuṅ ki masnad bicha raha hai
+  Namaaz darti rahi lahu se
+  Ye khuṅ ki masnad bichha raha hai
 
-  namaz zindoṅ ka hai wazifa
+  Namaaz zindoṅ ka hai wazifa
   Husain marna sikha raha hai
 
-  namaz hai kibriya ki talib
-  Husain matlub-e-kibriya hai
+  Namaaz hai kibriyaa ki taalib
+  Husain matlub-e-kibriyaa hai
 
-  tu ab bhi mujhse ye puchta hai
-  Husain kiya hai namaz kiya hai
+  Tu ab bhi mujh se ye puchhta hai
+  Husain kya hai, namaaz kya hai
 
   5
-  naamaz zere sajud-e-ahmad
-  husain ka azam rakibana
+  Namaaz zer-e-sujud-e-Ahmad
+  Husain ka azm-e-raakibaana
 
-  naamaz ki shukr inteha hai
-  to iska mashkur hai zamana
+  Namaaz ki shukr intihaa hai
+  To is ka mashkur hai zamaana
 
-  namaaz logoṅ ko hai bulati
-  ye dast-e-baiyat utha raha hai
+  Namaaz logoṅ ko hai bulaati
+  Ye dast-e-baiat utha raha hai
 
-  tu ab bhi mujhse ye puchta hai
-  Husain kiya hai namaz kiya hai
+  Tu ab bhi mujh se ye puchhta hai
+  Husain kya hai, namaaz kya hai
 ---
 
 تو اب بھی مجھ سے یہ پوچھتا ہے

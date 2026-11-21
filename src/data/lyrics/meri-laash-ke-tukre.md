@@ -53,7 +53,7 @@ romanLyrics: |-
   Nusrat ke liye aao Aaqa
   Tha saare shahidoṅ meiṅ lekin
   Mera rang juda mera dhang juda
-  Maiṅ ne kaha ghore se gir ke
+  Maiṅ ne kaha ghoroṅ se gir ke
   Mujhe aa ke bachaa lo ammaaṅ
 
   6
@@ -68,15 +68,15 @@ romanLyrics: |-
   Aaya na koi durr pehne hue
   Yuṅ tiroṅ meiṅ talwaaroṅ meiṅ
   Jaauṅ ga maiṅ ab nezoṅ nezoṅ
-  Bazaaroṅ meiṅ darbaaroṅ meiṅ
-  Mujhe dekh to le zara darya se
+  Baazaaroṅ meiṅ darbaaroṅ meiṅ
+  Mujhe dekh to le zer-e-darya se
   Ammu ko bulaa lo ammaaṅ
 
   8
   Khaime bhi jale chaadar bhi chhini
   Hai Shaam-e-Gharibaaṅ jangal meiṅ
   Har mor pe qaatil baithe haiṅ
-  Tum aaogi kaise maqtal meiṅ
+  Tum aao gi kaise maqtal meiṅ
   Phuphiyoṅ ki tarah tum baaloṅ se
   Chehre ko chhupaa lo ammaaṅ
 

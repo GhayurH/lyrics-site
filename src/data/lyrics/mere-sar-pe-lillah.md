@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye salaami layino ne kya kya jafa ki
+  Haye salaami laeenoṅ ne kya kya jafa ki
   Nashaati hui ya mushkil kusha ki
-  Thi shaam e gharibaṅ qayamat bapa thi
-  Ke ek haath zainab ki chadar tak aaya
-  Wo zainab ke lab par faqat ek sada thi
+  Thi shaam-e-gharibaaṅ qayaamat bapa thi
+  Ak ek haath Zainab ki chaadar tak aaya
+  Wo Zainab ke lab par faqat ak sada thi
   Mere sar pe lillaah rehne de chaadar
-  Kuch hai shimr keemat samajh is rida ki
-  Ke ye paak chaadar hai khairunnissa ki
+  Kuchh hai Shimr qimat samajh is rida ki
+  Ke ek paak chaadar hai Khairunnisa ki
   Mere sar pe lillaah...
   Khule sar jise bhaiyoṅ ne na dekha
-  Utha raat may jis ki maa ka janaza
-  Wo din may hai mohtaaj bas ek rida ki
+  Utha raat mein jis ki maaṅ ka janaaza
+  Wo din mein hai mohtaaj bas ak rida ki
   Mere sar pe lillaah...
-  Lo baandho mere haath kehti thi zainab
-  Na chino rida keh ke roti thi zainab
-  Mai mazlum beti hoo mushkil khusha ki
+  Lo baandho mere haath kehti thi Zainab
+  Na chhino rida keh ke roti thi Zainab
+  Main mazlum beti huṅ mushkil kusha ki
   Mere sar pe lillaah...
-  Zara jaag ae mere ghayyur bhai
+  Zara jaag ae mere ghayur bhai
   Ke ab baat meri rida tak hai aayi
   Behen ko zarurat hai teri wafa ki
   Mere sar pe lillaah...
-  Utho mere sajjad jalte hai qaime
-  Sambhaluṅ akeli mai bachoṅ ko kaise
-  Mai kaise sahuṅ sakhtiyaṅ ashkiyan ki
+  Utho mere Sajjad jalte haiṅ khaime
+  Sambhaaluṅ akeli main bachchoṅ ko kaise
+  Main kaise sahuṅ sakhtiyaaṅ ashqiyaa ki
   Mere sar pe lillaah...
-  Wo shaam e gharibaṅ may baba ka aana
-  Wo zainab ka haathoṅ se chehra chupana
-  Khuda se rida ke liye ilteja ki
+  Wo shaam-e-gharibaaṅ mein Baba ka aana
+  Wo Zainab ka haathoṅ se chehra chhupaana
+  Khuda se rida ke liye iltijaa ki
   Mere sar pe lillaah...
-  Tamashayi kufe ki galiyoṅ may kehte
-  Zamane badalte hai lamhoṅ may kitne
-  Ke sar nange zainab hai khudrat khuda ki
+  Tamaashaai Kufe ki galiyoṅ mein kehte
+  Zamaane badalte haiṅ lamhoṅ mein kitne
+  Ke sar nange Zainab hai qudrat Khuda ki
   Mere sar pe lillaah...
-  Wo maaye wo behne kanizan e zainab
-  Jo hai aaj bhi pursa daaran e zainab
-  Rakhe laaj zainab ki bas us sada ki
+  Wo maayeṅ wo behneṅ kanizaan-e-Zainab
+  Jo hai aaj bhi pursa daaraan-e-Zainab
+  Rakhe laaj Zainab ki bas us sada ki
   Mere sar pe lillaah...
-  Gaye unke rauze pe rehaan o sarwar
-  Mila ek sukuṅ sheh ka nauha suna kar
-  Khalish aaj tak hai magar us buka ki
+  Gaye un ke rauze pe Rehaan o Sarwar
+  Mila ke sukuṅ sheh ka nauha suna kar
+  Khalish aaj tak hai magar us bukaa ki
   Mere sar pe lillaah...
 ---
 

@@ -1,45 +1,80 @@
 ---
-title: "Mere Mazloom Ali Shahid Baltistani"
+title: "میرے مظلوم علی شاہد بلتستانی"
+alternateTitle: "Mere Mazloom Ali Shahid Baltistani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mere mazloom Ali Shahid Baltistani
+
+  1
+  Bain karti hi rahi qabar se yeh Bint-e-Nabi
+  Haye mazloom Ali, mere mazloom Ali
+  Mere pehlu ki tarha aap ka sar hai zakhmi
+  Gunbad-e-Khizra-o-Kaba mein bapa hai matam
+  Toor kar band-e-kafan main ne kiya hai matam
+  Jis ghari aap pe masjid mein hai talwar chali
+
+  2
+  Mere baba se kiya wadah nibhanay ke liye
+  Khud ko tanha kiya Islam bachaney ke liye
+  Shiddat-e-Adal tere pairon ki zanjeer bani
+  Qatal-e-Mohsin ho ya darbar mein meri peshi
+  Zabt khud par kiya our mujh ko tasali bhi di
+  Aap ki tarha jahan mein nahi mazloom koi
+
+  3
+  Aaj Kofay ki hai shehzadi tumhari beti
+  Kal issi shehar mein aaye gi woh ban kar qaidi
+  Aakhri had mere wali hai yeh ghurbat ki teri
+  Oss ghari khatam hoi thin meri sari khushiyaan
+  Zindah rehne ki mere dil mein thi hasrat hi kahan
+  Main ne jab aap ki gardan mein rasan dekhi thi
+
+  4
+  Waqt-e-Rukhsat tha qayamat yeh tasali thi magar
+  Aap ka saya tu baqi hai mere bachoon par
+  Aap ne kaisay wida bachoon se mangi hogi
+  Bain yeh Muhsin-o- Darwaish kiya Zahra ne
+  Kal inhi ke liye aaye they Jinna se kurtay
+  Aayi hai Eid pe Kofay mein jin aankhon mein nami
 ---
 
-Mere Mazloom Ali Shahid Baltistani.
+میرے مظلوم علی شاہد بلتستانی
 
-1
-Bain Karti Hi Rahi Qabar Se Yeh Bint-e-Nabi.
-Haye Mazloom Ali, Mere Mazloom Ali.
-Mere Pehlu Ki Tarha Aap Ka Sar Hai Zakhmi.
-Gunbad-e-Khizra-o-Kaba Mein Bapa Hai Matam.
-Toor Kar Band-e-Kafan Main Ne Kiya Hai Matam.
-Jis Ghari Aap Pe Masjid Mein Hai Talwar Chali.
+۱
+بین کرتی ہی رہی قبر سے یہ بنتِ نبی
+ہائے مظلوم علی، میرے مظلوم علی
+میرے پہلو کی طرح آپ کا سر ہے زخمی
+گنبدِ خضرا و کعبہ میں بپا ہے ماتم
+توڑ کر بندِ کفن میں نے کیا ہے ماتم
+جس گھڑی آپ پہ مسجد میں ہے تلوار چلی
 
-2
-Mere Baba Se Kiya Wadah Nibhanay Ke Liye.
-Khud Ko Tanha Kiya Islam Bachaney Ke Liye.
-Shiddat-e-Adal Tere Pairon Ki Zanjeer Bani.
-Qatal-e-Mohsin Ho Ya Darbar Mein Meri Peshi.
-Zabt Khud Par Kiya Our Mujh Ko Tasali Bhi Di.
-Aap Ki Tarha Jahan Mein Nahi Mazloom Koi.
+۲
+میرے بابا سے کیا وعدہ نبھانے کے لیے
+خود کو تنہا کیا اسلام بچانے کے لیے
+شدتِ عدل تیرے پیروں کی زنجیر بنی
+قتلِ محسن ہو یا دربار میں میری پیشی
+ضبط خود پر کیا اور مجھ کو تسلی بھی دی
+آپ کی طرح جہاں میں نہیں مظلوم کوئی
 
-3
-Aaj Kofay Ki Hai Shehzadi Tumhari Beti.
-Kal Issi Shehar Mein Aaye Gi Woh Ban Kar Qaidi.
-Aakhri Had Mere Wali Hai Yeh Ghurbat Ki Teri.
-Oss Ghari Khatam Hoi Thin Meri Sari Khushiyaan.
-Zindah Rehne Ki Mere Dil Mein Thi Hasrat Hi Kahan.
-Main Ne Jab Aap Ki Gardan Mein Rasan Dekhi Thi.
+۳
+آج کوفے کی ہے شہزادی تمہاری بیٹی
+کل اسی شہر میں آئے گی وہ بن کر قیدی
+آخری حد، میرے ولی، ہے یہ غربت کی تیری
+اس گھڑی ختم ہوئیں تھیں میری ساری خوشیاں
+زندہ رہنے کی میرے دل میں تھی حسرت ہی کہاں
+میں نے جب آپ کی گردن میں رسن دیکھی تھی
 
-4
-Waqt-e-Rukhsat Tha Qayamat Yeh Tasali Thi Magar.
-Aap Ka Saya Tu Baqi Hai Mere Bachoon Par.
-Aap Ne Kaisay Wida Bachoon Se Mangi Hogi.
-Bain Yeh Muhsin-o- Darwaish Kiya Zahra Ne.
-Kal Inhi Ke Liye Aaye They Jinna Se Kurtay.
-Aayi Hai Eid Pe Kofay Mein Jin Aankhon Mein Nami.
+۴
+وقتِ رخصت تھا قیامت یہ تسلی تھی مگر
+آپ کا سایہ تو باقی ہے میرے بچوں پر
+آپ نے کیسے وداع بچوں سے مانگی ہوگی
+بین یہ محسن و درویش کیا زہرا نے
+کل انہی کے لیے آئے تھے جنان سے کرتے
+آئی ہے عید پہ کوفے میں جن آنکھوں میں نمی

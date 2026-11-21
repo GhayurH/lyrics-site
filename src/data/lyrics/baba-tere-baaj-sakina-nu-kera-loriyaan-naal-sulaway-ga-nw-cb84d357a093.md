@@ -1,44 +1,66 @@
 ---
-title: "Baba Tere Baaj Sakina Nu Kera Loriyaan Naal Sulaway Ga"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بابا تیرے باجھ سکینہ نوں کیہڑا لوریاں نال سلاوے گا"
+alternateTitle: "Baba Tere Baaj Sakina Nu Kera Loriyaan Naal Sulaway Ga"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Baba tere baaj Sakina nu kera loriyaan naal sulaway ga
+  Kai din ton pyaasi baithi aan mainu paani kon pilaway ga
+
+  1
+  Jadon baba jag ton tur javay naa apna yaad na rehnda ey
+  Koi dhi baaghi di aakhay tay koi choti qaidan kehnda ey
+  Mere asli naam Sakina ton hun mainu kon bulavay ga
+
+  2
+  Ey Shaam da safar hai sir nangay tai mein Zehra di itrat haan
+  Tu aap gavahi day baba mei chon salaan di Zainab haan
+  Zainab day vangoon mainu vi chader da dard satavay ga
+
+  3
+  Mei darni aan kay ey zalim mere veer nu qatal na ker dayvan
+  Ey deen day baaghi ik vaari mainu fayr yateem na ker dayvan
+  Mei jaag kay pehray dayvan gi Sajjad jadon so javay ga
+
+  4
+  Hun samhaj gaee kyun kehndiyan san phupian na mashak puva eynu
+  Dariya tai tor na chachay nu na eyda alam phara eynu
+  Na bhaij Sakina Ghazi nu tera pyu kala reh javay ga
+
+  5
+  Chavan naal jeriaan paeeaan san jinu chum kay tu peya janaa eyn
+  Ey tofa teri shafqat da jera akhian day nal lana eyn
+  Tera qatil tere baad mere kan cheer kay vaalian laavay ga
 ---
 
-Baba Tere Baaj Sakina Nu Kera Loriyaan Naal Sulaway Ga
+بابا تیرے باجھ سکینہ نوں کیہڑا لوریاں نال سلاوے گا
+کئی دن توں پیاسی بیٹھی آں مینوں پانی کون پلاوے گا
 
-Kai Din Ton Pyaasi Baithi Aan Mainu Paani Kon Pilaway Ga
+۱
+جدوں بابا جگ توں ٹر جاوے ناں اپنا یاد نہ رہندا اے
+کوئی دھی باغی دی آکھے تے کوئی چھوٹی قیدن کہندا اے
+میرے اصلی نام سکینہ توں ہن مینوں کون بلاوے گا
 
-Jadon Baba Jag Ton Tur Javay Naa Apna Yaad Na Rehnda Ey
+۲
+اے شام دا سفر ہے سر ننگے تے میں زہرا دی عترت ہاں
+توں آپ گواہی دے بابا میں چوں سالاں دی زینب ہاں
+زینب دے وانگوں مینوں وی چادر دا درد ستاوے گا
 
-Koi Dhi Baaghi Di Aakhay Tay Koi Choti Qaidan Kehnda Ey
+۳
+میں ڈرنی آں کہ اے ظالم میرے ویر نوں قتل نہ کر دیون
+اے دین دے باغی اک واری مینوں فیر یتیم نہ کر دیون
+میں جاگ کے پہرے دیواں گی سجاد جدوں سو جاوے گا
 
-Mere Asli Naam Sakina Ton Hun Mainu Kon Bulavay Ga
+۴
+ہن سمجھ گئی کیوں کہندیاں سن پھپھیاں نہ مشک پوا اینوں
+دریا تے ٹور نہ چاچے نوں نہ ایہدا علم پھڑا اینوں
+نہ بھیج سکینہ غازی نوں تیرا پیو کلّا رہ جاوے گا
 
-Ey Shaam Da Safar Hai Sir Nangay Tai Mein Zehra Di Itrat Haan
-
-Tu Aap Gavahi Day Baba Mei Chon Salaan Di Zainab Haan
-
-Zainab Day Vangoon Mainu Vi Chader Da Dard Satavay Ga
-
-Mei Darni Aan Kay Ey Zalim Mere Veer Nu Qatal Na Ker Dayvan
-
-Ey Deen Day Baaghi lk Vaari Mainu Fayr Yateem Na Ker Dayvan
-
-Mei Jaag Kay Pehray Dayvan Gi Sajjad Jadon So Javay Ga
-
-Hun Samhaj Gaee Kyun Kehndiyan San Phupian Na Mashak Puva Eynu
-
-Dariya Tai Tor Na Chachay Nu Na Eyda Alam Phara Eynu
-
-Na Bhaij Sakina Ghazi Nu Tera Pyu Kala Reh Javay Ga
-
-Chavan Naal Jeriaan Paeeaan San Jinu Chum Kay Tu Peya Janaa Eyn
-
-Ey Tofa Teri Shafqat Da Jera Akhian Day Nal Lana Eyn
-
-Tera Qatil Tere Baad Mere Kan Cheer Kay Vaalian Laavay Ga
+۵
+چاواں نال جیہڑیاں پائیاں سن جنوں چم کے توں پیا جانا ایں
+اے تحفہ تیری شفقت دا جیہڑا اکھیاں دے نال لانا ایں
+تیرا قاتل تیرے بعد میرے کن چیر کے والیاں لاوے گا

@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Wo darbadar sar-e-Kufa hai mil nahiṅ sakte
-  Paraaya shehr hai jaa kar unheṅ kahaaṅ dhundheṅ
+  Paraaya shehr hai jaa kar unheṅ kahaaṅ dhundeṅ
   Hai apne bachchoṅ se bichhra Husain ka Muslim
 
   2
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Jab aaya qaafila Kufe meiṅ ro pari Farwa
-  Jo dekha laasha-e-besar hai khun aaluda
+  Jo dekha laasha-e-be sar hai khun aaluda
   Hai dar pe Kufe ke latka Husain ka Muslim
 
   7

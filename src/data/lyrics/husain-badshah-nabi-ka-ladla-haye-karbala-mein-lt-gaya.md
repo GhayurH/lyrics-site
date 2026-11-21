@@ -9,48 +9,59 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Husain badshah nabi ka ladla
-  Haey Karbala may lut gaya
+  Husain baadshah Nabi ka laadla
+  Haaye Karbala mein lut gaya
 
   1
-  Us par yeh sitam jis kay
-  Sadqay may bani dunya
+  Us par yeh sitam jis ke sadqe mein bani duniya
 
   2
-  1) Athara baras kay betay kay, seenay pe lagi maqtal may sinaa
-  Us sher jawan kay lashay par, karti thi jawani aah o fughan
-  Sheh tooti kamar thamay, rotay thay kharay tanha
-  Husain badshah nabi ka ladla, haey Karbala may lut gaya
+  Athaara baras ke bete ke
+  Sine pe lagi maqtal mein sinaa
+  Us sher jawaaṅ ke laashe par
+  Karti thi jawaani aah o fughaaṅ
+  Shah tuti kamar thaame
+  Rote the khare tanha
 
   3
-  2) Allah re ghurbat ka aalam, ghurbat pe ghareebi roti thi
-  Mazloom pisar ki halat par, maa khaak pe baithi roti thi
-  Kehti thi behan ro kar, haey mera maa jaya
-  Husain badshah nabi ka ladla, haey Karbala may lut gaya
+  Allah re ghurbat ka aalam
+  Ghurbat pe gharibi roti thi
+  Mazlum pisar ki haalat par
+  Maaṅ khaak pe baithi roti thi
+  Kehti thi behan ro kar
+  Haaye mera maaṅ jaaya
 
   4
-  3) Larzay may khudai thi sari, heran thay saray payghambar
-  Jab tegh o sinaa kay saey may, sajday may rakha Shabbir nay sar
-  Yeh kehta hua Kaaba, khud karnay tawaf aaya
-  Husain badshah nabi ka ladla, haey Karbala may lut gaya
+  Larze mein khudaai thi saari
+  Hairaan the saare paighambar
+  Jab tegh o sinaa ke saaye mein
+  Sajde mein rakha Shabbir ne sar
+  Yeh kehta hua Kaaba
+  Khud karne tawaaf aaya
 
   5
-  4) Konain ka aaqa maqtal may, tha khoon may tar aur tanha tha
-  Zakhmi tha bohat hi zakhmi tha, pyasa tha bohat hi payasa tha
-  Pyasa hi gaya mara, pamal hua lasha
-  Husain badshah nabi ka ladla, haey Karbala may lut gaya
+  Kaunain ka aaqa maqtal mein
+  Tha khun mein tar aur tanha tha
+  Zakhmi tha bahut hi zakhmi tha
+  Pyaasa tha bahut hi pyaasa tha
+  Pyaasa hi gaya maara
+  Paamaal hua laasha
 
   6
-  5) Darya ke kinaray qatl hua, woh jis ka sher sa bhai bhi
-  Asbab luta khaimay bhi jalay, be parda hui maa jaye bhi
-  Na bhai rahay zinda, na sar pe koi saya
-  Husain badshah nabi ka ladla, haey Karbala may lut gaya
+  Darya ke kinaare qatl hua
+  Woh jis ka sher sa bhaai tha
+  Asbaab luta khaime bhi jale
+  Beparda hui maaṅ jaai bhi
+  Na bhaai rahe zinda
+  Na sar pe koi saaya
 
   7
-  6) Kia farsh zameen kia arsh-e-bareen, ki jinn o bashar kia hoor o malak
-  Shabbir ki ghurbat pe gohar, roey ga zamana hashr talak
-  Majlis ki sada ho gi, matam yeh sada ho ga
-  Husain badshah nabi ka ladla, haey Karbala may lut gaya
+  Kya farsh-e-zamin kya arsh-e-bariṅ
+  Kya jinn o bashar kya hur o malak
+  Shabbir ki ghurbat par Gohar
+  Roye ga zamaana hashr talak
+  Majlis yeh sada hogi
+  Maatam yeh sada hoga
 ---
 
 حسینؑ بادشاہ نبی کا لاڈلا

@@ -1,33 +1,56 @@
 ---
 title: "مجرئی کہتے تھے شہہؑ کچھ نہیں پرواہ مجھ کو"
+alternateTitle: "Mujraee Kehtai Thai Sheh Kuch Nahi Perva Mujh Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mujraee kehtai thai Sheh kuch nahi perva mujh ko
+  Nahi daitai to na dai paani ye ada muj ko
+
+  1
+  Kehta tha Hur-e-Dilavar kai Khusa mera naseeb
+  Mil Gaiya Hazrat-e-Shabeer sa aqa muj ko
+
+  2
+  Sughra Akber sai yeh kehti thi kai wada ker lo
+  Lainai kab aao gai wari gayi bahiya muj ko
+
+  3
+  Shab ko jab kaan main aayi kissi bachai ki sada
+  Boli Bano merai Asgher nai pukara muj ko
+
+  4
+  Do sada muj ko merai laal kahan ho ran main
+  Ab sujayai nahi daita tera lasha muj ko
+
+  5
+  Shab-e-Ashoor yeh Akber nai kaha baba jaa
+  Yah kerti hai watan main meri Sughra muj ko
 ---
 
-Mujraee kehtai thai Sheh kuch nahi perva mujh ko
-Nahi daitai to na dai paani ye ada Muj ko
+مجرئی کہتے تھے شہہؑ کچھ نہیں پرواہ مجھ کو
+نہیں دیتے تو نہ دے پانی یہ اعدا مجھ کو
 
-1
-1) Kehta tha Hur-e-Dilavar kai Khusa mera naseeb
-Mil Gaiya Hazrat-e-Shabeer Sa Aqa Muj Ko
+۱
+کہتا تھا حرِ دلاور کہ خوشا میرا نصیب
+مل گیا حضرتِ شبیر سا آقا مجھ کو
 
-2
-2) Sughra Akber sai yeh kehti thi kai Wada Ker Lo
-Lainai kab aao gai Wari gayi bahiya muj ko
+۲
+صغرا اکبر سے یہ کہتی تھی کہ وعدہ کر لو
+لینے کب آؤ گے واری گئی بھیا مجھ کو
 
-3
-3) Shab ko jab kaan main aayi kissi bachai ki Sada
-Boli Bano Merai Asgher nai pukara muj ko
+۳
+شب کو جب کان میں آئی کسی بچے کی صدا
+بولی بانو میرے اصغر نے پکارا مجھ کو
 
-4
-4) Do sada muj ko merai laal kahan ho ran main
-Ab sujayai nahi daita tera lasha muj ko
+۴
+دو صدا مجھ کو مرے لال کہاں ہو رن میں
+اب سجھائی نہیں دیتا تیرا لاشہ مجھ کو
 
-5
-5) Shab-e-Ashoor yeh Akber nai kaha baba jaa
-Yah Kerti hai watan main meri Sughra muj ko
+۵
+شبِ عاشور یہ اکبر نے کہا بابا جاں
+یاد کرتی ہے وطن میں میری صغرا مجھ کو

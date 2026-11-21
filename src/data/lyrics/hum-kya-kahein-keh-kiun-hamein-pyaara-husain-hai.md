@@ -15,19 +15,19 @@ romanLyrics: |-
   Socho to yeh Quraan hi saara Husain hai
 
   1
-  Neze pe sar buland hai aelaan jit ka
+  Neze pe sar buland hai elaan jit ka
   Ab kaun keh sake ga keh haara Husain hai
 
   2
-  Hurmal tu sochta hai keh Asghar maasum hai
+  Harmal tu sochta hai keh Asghar maasum hai
   Kaise dare ga maut se saara Husain hai
 
   3
   Taarif ambiya se puchho jo din ki
-  Keh sab ne kaha ke din ko saara Husain hai
+  Keh sab ne kaha keh din ko saara Husain hai
 
   4
-  Saare shariyatoṅ ke paaband the magar
+  Saare shariatoṅ ke paaband the magar
   Pusht-e-Nabi se kis ne utaara Husain hai
 
   5

@@ -1,62 +1,113 @@
 ---
-title: "Ayyam E Ali Mesum Abbas 2025"
+title: "ایامِ علی میثم عباس ۲۰۲۵"
+alternateTitle: "Ayyam-e-Ali Mesum Abbas 2025"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Meesum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Shiyon mein aaj kal yeh qayamat ke roz hain
+  Dunya se Abu Turab ke rukhsat ke roz hain
+
+  1
+  Yaro saron ko peeto yeh zarbat ke roz hain
+  Ro lo keh yeh Ali ki shahadat ke roz hain
+  Momino matam karo sar peet ke aa gaye ayyam-e-Ali aa gaye
+  Chand bhi Ramzan ka noha karey aa gaye ayyam-e-Ali aa gaye
+
+  2
+  Kalay libason mein hai ahl-e-azza ki fogaan ya Ali ya Ali
+  Youm-e-shahadat ki sab kartay hain teyariyaan ya Ali ya Ali
+  Yaad karein matami aap ki tanhaiyaan ya Ali ya Ali
+  Farsh e azza ghar mein bichanay lagay aa gaye ayyam-e-Ali aa gaye
+
+  3
+  Tari abhi se howa hai shab-e-zarbat ka gham ya Ali ya Ali
+  Koi parhey marsiya koi sajay alam ya Ali ya Ali
+  Tifal-o-jawaan peer sab suntay hain nohay baham ya Ali ya Ali
+  Noha suna aankh se aanso girey aa gaye ayyam-e-Ali aa gaye
+
+  4
+  Majlisein ghar ghar bapa ho gayin ya Syedi ya Ali ya Ali
+  Niklay jaloos-e-azza aaj ghali dar ghali ya Ali ya Ali
+  Aap ke gham mein howa sara jahan matami ya Ali ya Ali
+  Aayi sada yeh dar-o-dewar se aa gaye ayyam-e-Ali aa gaye
+
+  5
+  Haye woh uneeswin aayi jo gham ki sahar ya Ali ya Ali
+  Ki Bin-e-Muljim ne jab zulm ki had aap par ya Ali ya Ali
+  Taig-e-sitam chal gayi ho gaya do parah sar ya Ali ya Ali
+  Kehte they Jibreel bhi rotay hoye aa gaye ayyam-e-Ali aa gaye
+
+  6
+  Shabar-o-Shabbir jab aap ko le aaye ghar ya Ali ya Ali
+  Bibiyaan roney lagin seena-o-sar peet kar ya Ali ya Ali
+  Koh-e-alam gir para aaj tu sadaat par ya Ali ya Ali
+  Zainab-o-Kulsoom ke yeh bain they aa gaye ayyam-e-Ali aa gaye
+
+  7
+  Samne taboot ka aa gaya saman jab ya Ali ya Ali
+  Barhney laga our bhi seene mein ranj-o-taab ya Ali ya Ali
+  Dil kahey be sakhta haye ameer-e-Arab ya Ali ya Ali
+  Baat yehi khon rulaye mujhe aa gaye ayyam-e-Ali aa gaye
+
+  8
+  Meesum-o- Mazhar bhi hain bar sar-e-farsh-e-azza ya Ali ya Ali
+  Aap ke ghar walon ko dono ne pursa diya ya Ali ya Ali
+  Aap ke taboot par hum ne yeh noha parha ya Ali ya Ali
+  Dard mein dobay hoye ashar se aa gaye ayyam-e-Ali aa gaye
 ---
 
-Shiyon Mein Aaj Kal Yeh Qayamat Ke Roz Hain.
-Dunya Se Abu Turab Ke Rukhsat Ke Roz Hain.
+شیعوں میں آج کل یہ قیامت کے روز ہیں
+دنیا سے ابو تراب کے رخصت کے روز ہیں
 
-1
-Yaro Saron Ko Peeto Yeh Zarbat Ke Roz Hain.
-Ro Lo Keh Yeh Ali Ki Shahadat Ke Roz Hain.
-Momino Matam Karo Sar Peet Ke Aa Gaye Ayyam-e-Ali Aa Gaye.
-Chand Bhi Ramzan Ka Noha Karey Aa Gaye Ayyam-e-Ali Aa Gaye.
+۱
+یارو سروں کو پیٹو یہ ضربت کے روز ہیں
+رو لو کہ یہ علی کی شہادت کے روز ہیں
+مومنو ماتم کرو سر پیٹ کے آ گئے ایامِ علی آ گئے
+چاند بھی رمضان کا نوحہ کرے آ گئے ایامِ علی آ گئے
 
-2
-Kalay Libason Mein Hai Ahl-e-Azza Ki Fogaan Ya Ali Ya Ali.
-Youm-e-Shahadat Ki Sab Kartay Hain Teyariyaan Ya Ali Ya Ali.
-Yaad Karein Matami Aap Ki Tanhaiyaan Ya Ali Ya Ali.
-Farsh e Azza Ghar Mein Bichanay Lagay Aa Gaye Ayyam-e-Ali Aa Gaye.
+۲
+کالے لباسوں میں ہے اہلِ عزا کی فغاں یا علی یا علی
+یومِ شہادت کی سب کرتے ہیں تیاریاں یا علی یا علی
+یاد کریں ماتمی آپ کی تنہائیاں یا علی یا علی
+فرشِ عزا گھر میں بچھانے لگے آ گئے ایامِ علی آ گئے
 
-3
-Tari Abhi Se Howa Hai Shab-e-Zarbat Ka Gham Ya Ali Ya Ali.
-Koi Parhey Marsiya Koi Sajay Alam Ya Ali Ya Ali.
-Tifal-o-Jawaan Peer Sab Suntay Hain Nohay Baham Ya Ali Ya Ali.
-Noha Suna Aankh Se Aanso Girey Aa Gaye Ayyam-e-Ali Aa Gaye.
+۳
+طاری ابھی سے ہوا ہے شبِ ضربت کا غم یا علی یا علی
+کوئی پڑھے مرثیہ کوئی سجائے علم یا علی یا علی
+طفل و جواں پیر سب سنتے ہیں نوحے بہم یا علی یا علی
+نوحہ سنا آنکھ سے آنسو گرے آ گئے ایامِ علی آ گئے
 
-4
-Majlisein Ghar Ghar Bapa Ho Gayin Ya Syedi Ya Ali Ya Ali.
-Niklay Jaloos-e-Azza Aaj Ghali Dar Ghali Ya Ali Ya Ali.
-Aap Ke Gham Mein Howa Sara Jahan Matami Ya Ali Ya Ali.
-Aayi Sada Yeh Dar-o-Dewar Se Aa Gaye Ayyam-e-Ali Aa Gaye.
+۴
+مجلسیں گھر گھر بپا ہو گئیں یا سیدی یا علی یا علی
+نکلے جلوسِ عزا آج گلی در گلی یا علی یا علی
+آپ کے غم میں ہوا سارا جہاں ماتمی یا علی یا علی
+آئی صدا یہ در و دیوار سے آ گئے ایامِ علی آ گئے
 
-5
-Haye Woh Uneeswin Aayi Jo Gham Ki Sahar Ya Ali Ya Ali.
-Ki Bin-e-Muljim Ne Jab Zulm Ki Had Aap Par Ya Ali Ya Ali.
-Taig-e-Sitam Chal Gayi Ho Gaya Do Parah Sar Ya Ali Ya Ali.
-Kehte They Jibreel Bhi Rotay Hoye Aa Gaye Ayyam-e-Ali Aa Gaye.
+۵
+ہائے وہ انیسویں آئی جو غم کی سحر یا علی یا علی
+کی ابنِ ملجم نے جب ظلم کی حد آپ پر یا علی یا علی
+تیغِ ستم چل گئی ہو گیا دو پارہ سر یا علی یا علی
+کہتے تھے جبریل بھی روتے ہوئے آ گئے ایامِ علی آ گئے
 
-6
-Shabar-o-Shabbir Jab Aap Ko Le Aaye Ghar Ya Ali Ya Ali.
-Bibiyaan Roney Lagin Seena-o-Sar Peet Kar Ya Ali Ya Ali.
-Koh-e-Alam Gir Para Aaj Tu Sadaat Par Ya Ali Ya Ali.
-Zainab-o-Kulsoom Ke Yeh Bain They Aa Gaye Ayyam-e-Ali Aa Gaye.
+۶
+شبر و شبیر جب آپ کو لے آئے گھر یا علی یا علی
+بیبیاں رونے لگیں سینہ و سر پیٹ کر یا علی یا علی
+کوہِ الم گر پڑا آج تو سادات پر یا علی یا علی
+زینب و کلثوم کے یہ بین تھے آ گئے ایامِ علی آ گئے
 
-7
-Samne Taboot Ka Aa Gaya Saman Jab Ya Ali Ya Ali.
-Barhney Laga Our Bhi Seene Mein Ranj-o-Taab Ya Ali Ya Ali.
-Dil Kahey Be Sakhta Haye Ameer-e-Arab Ya Ali Ya Ali.
-Baat Yehi Khon Rulaye Mujhe Aa Gaye Ayyam-e-Ali Aa Gaye.
+۷
+سامنے تابوت کا آ گیا ساماں جب یا علی یا علی
+بڑھنے لگا اور بھی سینے میں رنج و تاب یا علی یا علی
+دل کہے بے ساختہ ہائے امیرِ عرب یا علی یا علی
+بات یہی خون رلائے مجھے آ گئے ایامِ علی آ گئے
 
-8
- Meesum-o- Mazhar Bhi Hain Bar Sar-e-Farsh-e-Azza Ya Ali Ya Ali.
-Aap Ke Ghar Walon Ko Dono Ne Pursa Diya Ya Ali Ya Ali.
-Aap Ke Taboot Par Hum Ne Yeh Noha Parha Ya Ali Ya Ali.
-Dard Mein Dobay Hoye Ashar Se Aa Gaye Ayyam-e-Ali Aa Gaye.
+۸
+میثم و مظہر بھی ہیں بر سرِ فرشِ عزا یا علی یا علی
+آپ کے گھر والوں کو دونوں نے پرسہ دیا یا علی یا علی
+آپ کے تابوت پر ہم نے یہ نوحہ پڑھا یا علی یا علی
+درد میں ڈوبے ہوئے اشعار سے آ گئے ایامِ علی آ گئے

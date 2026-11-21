@@ -1,7 +1,7 @@
 ---
 title: "حسین مقتل میں چھپ کھڑے ہے"
 recitationId: "hussain-maqtal-mein"
-alternateTitle: "Husain Maqtal Meiṅ"
+alternateTitle: "Husain Maqtal Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,10 +12,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain maqtal meiṅ chup khare hai
+  Husain maqtal mein chhup khare hai
 
   Lahu lahu hai libaas saara mere Khudaaya
-  Husain maqtal meiṅ chup khare hai
+  Husain maqtal mein chhup khare hai
 
   1
   Ajib manzar hai Karbala ka
@@ -27,16 +27,16 @@ romanLyrics: |-
   2
   Gharib-e-Zehra ke rukh pe Asghar
   Ka khun-e-naahaq laga hua hai
-  Aba ka daaman jawaaṅ Akbar
+  Abaa ka daaman jawaaṅ Akbar
   Ke khuṅ se ghaltaaṅ ho chuka hai
   Nazar jami hai su-e-Sakina mere Khudaaya
 
   3
   Husain mal mal ke apni aaṅkheṅ
   Zamin par dekhe jaa rahe hai
-  Hai ek ghatri jo khuṅ meiṅ tar hai
+  Har ek ghatri jo khuṅ mein tar hai
   Usi pe aaṅsu baha rahe haiṅ
-  Ye ghatri Qasim ka hai saraapa mere Khudaaya
+  Ye ghatri Qaasim ka hai saraapa mere Khudaaya
 
   4
   Behen ke bachche jawaan bhai
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   7
   Hameṅ hai Yasir Raza ye dhaaras
-  Ke muntaqim hai Imam-e-Mehdi
+  Ke mutmain hai Imam-e-Mehdi
   Yazidiyoṅ se Khuda ke leṅge
   Husain ka inteqaam Mehdi
   Wo soch kar kar rahe haiṅ girya mere Khudaaya

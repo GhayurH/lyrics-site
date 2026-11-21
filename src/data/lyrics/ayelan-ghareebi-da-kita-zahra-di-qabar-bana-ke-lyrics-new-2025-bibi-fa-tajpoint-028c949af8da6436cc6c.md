@@ -1,29 +1,48 @@
 ---
-title: "Ayelan Ghareebi Da Kita Zahra Di Qabar Bana Ke Lyrics New 2025 Bibi Fatima Zahra Noha"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اعلان غریبی دا کیتا زہرا دی قبر بنا کے"
+alternateTitle: "Ayelan Ghareebi Da Kita Zahra Di Qabar Bana Ke"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ayelan ghareebi da kita Zahra di qabar bana ke
+  Payi khak Ali ne walaan te sir taun dastar hata ke
+  Piyo dhi de dukh nayi seh sakda kehya Zahra nu aye Haider
+  Apne babay de naal milein toon hath pasay taun cha ke
+
+  2
+  Ainj holay holay turda hoya Ali ghar taein wapis aaya
+  Baqiya choon jiwein aaya aye do lashaan nu dafna ke
+  Wehray wich dewa baal ke aye karey wain Ali haye ghurbat
+  Ummat taun qabar chupawan layi aaya nayi charag jala ke
+
+  3
+  Karda aye tilawat raat welay Zainab, Kulsoom da baba
+  Dhiyaan nal ral ke ronda aye Lailatul Qadar te aa ke
+  Har matami Akbar chahnda aye Zahra di qabar te pursa
+  Haye bibi, bibi wain karey peshani qabar te la ke
 ---
 
-1
-Ayelan Ghareebi Da Kita Zahra Di Qabar Bana Ke.
-Payi Khak Ali Ne Walaan Te Sir Taun Dastar Hata Ke.
-Piyo Dhi De Dukh Nayi Seh Sakda Kehya Zahra Nu Aye Haider.
-Apne Babay De Naal Milein Toon Hath Pasay Taun Cha Ke.
+۱
+اعلان غریبی دا کیتا زہرا دی قبر بنا کے
+پئی خاک علی نے والاں تے سر توں دستار ہٹا کے
+پیو دھی دے دکھ نئیں سہ سکدا کہیا زہرا نوں اے حیدر
+اپنے بابے دے نال ملیں توں ہتھ پاسے توں چا کے
 
-2
-Ainj Holay Holay Turda Hoya Ali Ghar Taein Wapis Aaya.
-Baqiya Choon Jiwein Aaya Aye Do Lashaan Nu Dafna Ke.
-Wehray Wich Dewa Baal Ke Aye Karey Wain Ali Haye Ghurbat.
-Ummat Taun Qabar Chupawan Layi Aaya Nayi Charag Jala Ke.
+۲
+اینج ہولے ہولے ٹردا ہویا علی گھر تائیں واپس آیا
+بقیع چوں جیویں آیا اے دو لاشاں نوں دفنا کے
+ویہڑے وچ دیوا بال کے اے کرے وین علی ہائے غربت
+امت توں قبر چھپاون لئی آیا نئیں چراغ جلا کے
 
-3
-Karda Aye Tilawat Raat Welay Zainab, Kulsoom Da Baba.
-Dhiyaan Nal Ral Ke Ronda Aye Lailatul Qadar Te Aa Ke.
-Har Matami Akbar Chahnda Aye Zahra Di Qabar Te Pursa.
-Haye Bibi, Bibi Wain Karey Peshani Qabar Te La Ke.
+۳
+کردا اے تلاوت رات ویلے زینب، کلثوم دا بابا
+دھیاں نال رل کے روندا اے لیلۃ القدر تے آ کے
+ہر ماتمی اکبر چاہندا اے زہرا دی قبر تے پرسہ
+ہائے بی بی، بی بی وین کرے پیشانی قبر تے لا کے

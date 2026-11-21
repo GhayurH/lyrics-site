@@ -19,7 +19,7 @@ romanLyrics: |-
   To aaj taarik imaan to hi kya hota
 
   2
-  Bait meiṅ di Akbar ki jawaani
+  Bait mein di Akbar ki jawaani
   Aur Asghar tarpa bin paani
   Jaan pe khela laal Ali ka
   Khaak pe aanch jo aai tere
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   4
   Khaak pe qabza kar ke chhora
-  Daal diya darya meiṅ ghora
+  Daal diya darya mein ghora
   Khun ko paani karne wale
   Aah teri saqqaai dekheiṅ
   Na hote Hazrat-e-Abbas ke jo naqsh-e-qadam
   To aastaan-e-wafa kab ka mit gaya hota
 
   5
-  Dua-e-bad meiṅ jo Zainab ke haath uth jaate
+  Dua-e-bad mein jo Zainab ke haath uth jaate
   To Yazidiyat ka janaaza nikal gaya hota
 
   6
@@ -47,7 +47,7 @@ romanLyrics: |-
   Jin aankhoṅ se tu ne dekha
   Mar na gaya o Shaam ke haakim
   Laaj na tujh ko aai zaalim
-  Dua-e-bad meiṅ jo Zainab ke haath uth jaate
+  Dua-e-bad mein jo Zainab ke haath uth jaate
   To Yazidiyat ka janaaza nikal gaya hota
 ---
 

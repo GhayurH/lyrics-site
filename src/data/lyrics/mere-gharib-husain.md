@@ -12,64 +12,64 @@ tags: []
 aliases: ["Mere Ghareeb Hussain"]
 published: true
 romanLyrics: |-
-  As salaamun alaik ya gharib Husaina
+  Assalaamu alaik ya gharib Husaina
 
   Mere gharib Husain ya Husain ya Husain
   Mere shahid Husain ya Husain ya Husain
 
   Godi ke paale maare gaye sab
   Tu hai akela koi nahiṅ ab
-  Bain ye Zehra ne kiye dasht-e-bala meiṅ
+  Bain ye Zehra ne kiye dasht-e-bala mein
 
   1
   Aun o Muhammad Qaasim o Asghar
   Dard-e-judaai de gaye Akbar
-  Khun hai Abbas ka Zainab ki rida meiṅ
+  Khun hai Abbas ka Zainab ki rida mein
 
   2
   Laashoṅ pe laashe tu ne uthaae
   Dil pe badan pe zakhm bhi khaae
-  Khaak hai baaloṅ meiṅ lahu teri aba meiṅ
+  Khaak hai baaloṅ mein lahu teri aba mein
 
   3
   Chhor gaye sab god ke paale
   Ho gaye rukhsat ghar ke ujaale
-  Koi nahiṅ laal tera dasht-e-bala meiṅ
+  Koi nahiṅ laal tera dasht-e-bala mein
 
   4
   Fakhr se uncha sar hua mera
-  Kaun hai saani dahr meiṅ tera
-  Sabr meiṅ isaar meiṅ jurat meiṅ wafa meiṅ
+  Kaun hai saani dahr mein tera
+  Sabr mein isaar mein jurat mein wafa mein
 
   5
   Bit rahi hai tujh pe qayaamat
-  Dekh rahi huṅ maiṅ teri ghurbat
-  Pyaasa raha ghar bhi luta dasht-e-bala meiṅ
+  Dekh rahi huṅ main teri ghurbat
+  Pyaasa raha ghar bhi luta dasht-e-bala mein
 
   6
   Jitne bhi laashe begor o kafan the
   Sab ko urha di khaak hawa ne
-  Khaak to ab hashr talak hogi hawa meiṅ
+  Khaak to ab hashr talak hogi hawa mein
 
   7
   Laash jawaaṅ ki tu ne uthaai
   Turbat-e-Asghar tu ne banaai
-  Sota hai maasum tera dasht-e-qaza meiṅ
+  Sota hai maasum tera dasht-e-bala mein
 
   8
   Chaaroṅ taraf hai bas yehi nauha
   Haae Husaina haae Husaina
-  Shor hai faryaad hai khaimoṅ meiṅ faza meiṅ
+  Shor hai faryaad hai khaimoṅ mein faza mein
 
   9
   Hashr ka hangaam aur qayaamat
   Dekhuṅ gi kaise teri shahaadat
-  Roti rahuṅ gi maiṅ yuṅhi qalb ko thaame
+  Roti rahuṅ gi main yuṅhi qalb ko thaame
 
   10
   Ek hai Irfan ek hai Mazhar
   Donoṅ hi tere dar ke haiṅ naukar
-  Donoṅ ka dil rehta hai bas Karbobala meiṅ
+  Donoṅ ka dil rehta hai bas Karb o bala mein
 ---
 السلام یا غریب حسینا
 

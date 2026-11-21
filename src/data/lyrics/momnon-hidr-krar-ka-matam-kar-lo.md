@@ -8,7 +8,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Momino Haider-e-Karrar ka maatam kar lo
+  Momino Haider-e-Karraar ka maatam kar lo
   Lo Muhammad ke alamdaar ka maatam kar lo
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Us sakhi saahib-e-kirdaar ka maatam kar lo
 
   3
-  Jo ke chaudah meiṅ bhi haiṅ baarah imaamoṅ meiṅ bhi haiṅ
+  Jo ke chaudah meiṅ bhi hai baarah imaamoṅ meiṅ bhi hai
   Saare nabiyoṅ ke madadgaar ka maatam kar lo
 
   4
@@ -52,7 +52,7 @@ romanLyrics: |-
   Haq ki jaagir ke haqdaar ka maatam kar lo
 
   11
-  Hai azaakhaana tera dil ae azaadaar-e-Ali
+  Hai aza khaana tera dil ae azaadaar-e-Ali
   Lo Muhammad ke parastaar ka maatam kar lo
 
   12

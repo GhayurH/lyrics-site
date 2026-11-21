@@ -11,28 +11,28 @@ aliases:
   - "Husain Aaj Hai Tanha, Habib Aajao"
 published: true
 romanLyrics: |-
-  Husain aaj hai tanha, Habib aajao
-  Kara hai waqt khudaya Habib aajao
+  Husain aaj hai tanha, Habib aa jaao
+  Kara hai waqt khudaya Habib aa jaao
 
   1
   Ye Karbala hai yahaṅ dost ki zarurat hai
   Yahaṅ to mujh se bhi pehle teri shahadat hai
-  Nahiṅ hai koi humara
+  Nahiṅ hai koi hamaara
 
   2
-  Meri nigah meiṅ ab Karbala ka maqtal hai
-  Husaini baandh ki fehrist na mukammal hai
+  Meri nigaah meiṅ ab Karbala ka maqtal hai
+  Husaini baandh ki fehrist naamukammal hai
   Hai saath ab mera kunba
 
   3
-  Tumhe Husain ke haq meiṅ jihaad karna hai
+  Tumheṅ Husain ke haq meiṅ jihaad karna hai
   Kiya tha waada jo bachpan meiṅ yaad karna hai
-  Yehi hai farz tumhara
+  Yehi hai farz tumhaara
 
   4
-  Watan se dur huṅ mujh par hue haiṅ haaye gazab
+  Watan se dur huṅ mujh par hue haiṅ haaye ghazab
   Maiṅ Hajj ko Umrah meiṅ tabdil kar chuka huṅ ab
-  Badal gaya hai zamana
+  Badal gaya hai zamaana
 
   5
   Muhib Husain ne hasrat se chaar su dekha

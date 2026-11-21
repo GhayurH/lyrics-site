@@ -1,37 +1,64 @@
 ---
-title: "Aye Muntaqim Imam E Zamaan Hujjat E Khuda Kab Ho Ga Intiqam E Shaheedan E Karbala"
+title: "اے منتقم امامِ زماں حجتِ خدا کب ہو گا انتقامِ شہیدانِ کربلا"
+alternateTitle: "Aye Muntaqim Imam E Zamaan Hujjat E Khuda Kab Ho Ga Intiqam E Shaheedan E Karbala"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kab pori ho gi hasrat-e-Abbas-e-Bawafa kab ho ga intiqam-e-shaheedan-e-Karbala
+
+  1
+  Marzi hai jis Hussain ki marzi-e-Zuljalal
+  Rakhtein thin jis ki pyas ka Zahra bohat khiyal
+  Pyasa hai ab bhi qabar mein Zahra ka ladla
+  Pehlu se hath uthaya na Bint-e-Rasool ne
+  Baba ke bad chain na paya Batool ne
+  Har rooz pochti hai yehi qabar-e-Syeda
+
+  2
+  Behno ke sang buzra jo ghirat ka Kibriya
+  Aankhon ko zakhmi kar gayi bazar ki fiza
+  Abid ke aanson pe hai noha yehi likha
+  Jis khak mein Hussain ke zakhmo ka khon hai
+  Zahra ki pak beti ke qadmo ka khon hai
+  Karti hai ab sawal wohi khak-e-Nainwa
+
+  3
+  Chadar wohi jo Kab-e-Ismat ka thi ghilaf
+  Jis se laeen ne khoon bhara khanjar kiya tha saaf
+  Mula yeh pochti hai wohi khoon bhari rida
+  Wajib hai yeh bhi Aal-e-Muhammad ke pyar mein
+  Muhsin ho har ghulam-e-Ali intezar mein
+  Har lab ka wird ho sada tajeel ki dua
 ---
 
-Kab Pori Ho Gi Hasrat-e-Abbas-e-Bawafa Kab Ho Ga Intiqam-e-Shaheedan-e-Karbala.
+کب پوری ہو گی حسرتِ عباسِ باوفا کب ہو گا انتقامِ شہیدانِ کربلا
 
-1
-Marzi Hai Jis Hussain Ki Marzi-e-Zuljalal.
-Rakhtein Thin Jis Ki Pyas Ka Zahra Bohat Khiyal.
-Pyasa Hai Ab Bhi Qabar Mein Zahra Ka Ladla.
-Pehlu Se Hath Uthaya Na Bint-e-Rasool Ne.
-Baba Ke Bad Chain Na Paya Batool Ne.
-Har Rooz Pochti Hai Yehi Qabar-e-Syeda.
+۱
+مرضی ہے جس حسین کی مرضیِ ذوالجلال
+رکھتی تھیں جس کی پیاس کا زہرا بہت خیال
+پیاسا ہے اب بھی قبر میں زہرا کا لاڈلا
+پہلو سے ہاتھ اٹھایا نہ بنتِ رسول نے
+بابا کے بعد چین نہ پایا بتول نے
+ہر روز پوچھتی ہے یہی قبرِ سیدہ
 
-2
-Behno Ke Sang Buzra Jo Ghirat Ka Kibriya.
-Aankhon Ko Zakhmi Kar Gayi Bazar Ki Fiza.
-Abid Ke Aanson Pe Hai Noha Yehi Likha.
-Jis Khak Mein Hussain Ke Zakhmo Ka Khon Hai.
-Zahra Ki Pak Beti Ke Qadmo Ka Khon Hai.
-Karti Hai Ab Sawal Wohi Khak-e-Nainwa.
+۲
+بہنوں کے سنگ گزرا جو غیرت کا کبریا
+آنکھوں کو زخمی کر گئی بازار کی فضا
+عابد کے آنسوؤں پہ ہے نوحہ یہی لکھا
+جس خاک میں حسین کے زخموں کا خون ہے
+زہرا کی پاک بیٹی کے قدموں کا خون ہے
+کرتی ہے اب سوال وہی خاکِ نینوا
 
-3
-Chadar Wohi Jo Kab-e-Ismat Ka Thi Ghilaf.
-Jis Se Laeen Ne Khoon Bhara Khanjar Kiya Tha Saaf.
-Mula Yeh Pochti Hai Wohi Khoon Bhari Rida.
-Wajib Hai Yeh Bhi Aal-e-Muhammad Ke Pyar Mein.
- Muhsin Ho Har Ghulam-e-Ali Intezar Mein.
-Har Lab Ka Wird Ho Sada Tajeel Ki Dua.
+۳
+چادر وہی جو کعبۂ عصمت کا تھی غلاف
+جس سے لعین نے خون بھرا خنجر کیا تھا صاف
+مولا یہ پوچھتی ہے وہی خون بھری ردا
+واجب ہے یہ بھی آلِ محمد کے پیار میں
+محسن ہو ہر غلامِ علی انتظار میں
+ہر لب کا ورد ہو سدا تعجیل کی دعا

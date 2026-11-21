@@ -19,15 +19,15 @@ romanLyrics: |-
   Baba maiṅ kya karuṅ
 
   1
-  Aun o Muhammad apne abo jadd ki the misaal
-  Zainab ke dono laal
+  Aun o Muhammad apne abu jadd ki the misaal
+  Zainab ke donoṅ laal
   Maaṅ ne nisaar unheṅ bhi biradar pe kar diya
   Phir bhi mera Husain jafa se na bach saka
 
   2
   Qasim sa naujawaaṅ ke nihaayat hasin tha
   Kitna zahin tha
-  Aada ne uski laash ko pamaal kar diya
+  Aadaa ne us ki laash ko paamaal kar diya
   Nasl-e-Hasan ko qata kiya haye kya kiya
 
   3
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ek aah ki Husain ne aur dil pakar liya
 
   5
-  Asghar wo chhe mahine ki jaan haye na tawaaṅ
+  Asghar wo chhe mahine ki jaan haye naatawaaṅ
   Pyaasa tha bezabaaṅ
   Lekin shaqi ne tir-e-seh shoba chala diya
   Aaghosh meiṅ Husain ki bachcha ulat gaya
@@ -52,7 +52,7 @@ romanLyrics: |-
   Baba idhar to dekhiye balwa-e-aam meiṅ
   Izdehaam meiṅ
   Wo jaa raha hai dard rasidoṅ ka qaafila
-  Zainab bhi saath saath chali hoke berida
+  Zainab bhi saath saath chali ho ke berida
 ---
 
 رو رو کے بابا جان سے کہتی تھی فاطمہ

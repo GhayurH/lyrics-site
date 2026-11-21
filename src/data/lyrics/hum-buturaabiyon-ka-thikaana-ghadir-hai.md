@@ -14,7 +14,7 @@ romanLyrics: |-
   1
   Hum Buturaabiyoṅ ka thikaana Ghadir hai
   Bistar Najaf ki khaak, sirhaana Ghadir hai
-  Man kuntu ka aalaap hai saaṅsoṅ ka zero bomb
+  Man kuntu ka aalaap hai saaṅsoṅ ka zer o bam
   Dil hai Amir Khusrau! Taraana Ghadir hai
 
   2

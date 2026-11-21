@@ -12,50 +12,50 @@ published: false
 romanLyrics: |-
   1
   Jaane kya haadsa hai hone ko
-  Ji bahot chaahta hai rone ko
-  Boli ye sughra ae baade saba
+  Ji bahut chaahta hai rone ko
+  Boli ye Sughra ae baad-e-saba
   Baba ki kuch baateiṅ suna
   Ghabra raha hai dil mera
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
-  Mai muntazir hoo baba se kehna
+  Boli ye Sughra...
+  Main muntazir huṅ baba se kehna
   Sab haal mera jaa ke batana
-  Boli ye sughra
-  Dua meri leja tu jaati hawa
+  Boli ye Sughra
+  Dua meri le ja tu jaati hawa
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
-  Bas ay hawa tu akbar se kehna
-  Mar jaungi to aaoge bhaiya
-  Boli ye sughra
-  Waada kiya tha bhula kyu diya
+  Boli ye Sughra...
+  Bas ye hawa tu Akbar se kehna
+  Mar jaauṅ gi to aao ge bhaiya
+  Boli ye Sughra
+  Waada kiya tha bhula kiuṅ diya
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
-  Baba ki khushbu mujhko sungade
-  Kis des meiṅ hai itna bata de
-  Boli ye sughra
+  Boli ye Sughra...
+  Baba ki khushbu mujhko sungha de
+  Kis des meiṅ haiṅ itna bata de
+  Boli ye Sughra
   Alam tu ne dekha chacha ka bata
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
-  Akbar ne shaadi jis dum rachayi
-  Sach kehna usko mai yaad aayi
-  Boli ye sughra
-  Lagta tha kaisa wo dulha bana
+  Boli ye Sughra...
+  Akbar ne shaadi jis dam rachayi
+  Sach kehna usko main yaad aayi
+  Boli ye Sughra
+  Lagta tha kaisa woh dulha bana
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
+  Boli ye Sughra...
   Asghar ko mere tum pyaar karna
-  Wo ghutniyo ab chalta to hoga
-  Boli ye sughra
+  Woh ghutniyoṅ ab chalta to ho ga
+  Boli ye Sughra
   Balayeiṅ bhi lena use chumna
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
-  Na sughra se jab dil sambhala gaya
+  Boli ye Sughra...
+  Na Sughra se jab dil sambhaala gaya
   To ashkuṅ se baba ko khat meiṅ likha
-  Sun kar samar ye jaati hawa ne
-  Dekha raza jo aansu chupa ke
-  Boli ye sughra
-  Rona hai kaisa chupati hai kya
+  Sun kar Samar ye jaati hawa ne
+  Dekha Raza jo aansuṅ chhupa ke
+  Boli ye Sughra
+  Rona hai kaisa chhupaati hai kya
   Baba ki kuch baateiṅ suna
-  Boli ye sughra...
+  Boli ye Sughra...
 ---
 
 ۱

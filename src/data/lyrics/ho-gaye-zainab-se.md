@@ -61,7 +61,7 @@ romanLyrics: |-
   Kuchh to kareṅ guftagu
   Behta hai sar se lahu
   Aap hue surkhru
-  Masjid-e-Kufa meiṅ bapa shor o buka hai
+  Masjid-e-Kufa mein bapa shor o buka hai
   Daamaad-e-Nabi Sher-e-Khuda qatl hua hai
 
   8
@@ -83,7 +83,7 @@ romanLyrics: |-
   Jaari rahega sada
   Kufa ho ya Karbala
   Noha Rehaan Azmi ye Maula Ali ka
-  Hai sab ke liye uqba meiṅ bakhshish ka sahaara
+  Hai sab ke liye uqba mein bakhshish ka sahaara
 
   11
   Aati thi har dam sada

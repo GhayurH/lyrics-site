@@ -19,9 +19,9 @@ romanLyrics: |-
 
   1
   Sochti huṅ ke apne baaba se
-  Nil kaise chhupauṅ chehre ke
+  Nil kaise chhupaauṅ chehre ke
   Khauf aata to hai andheroṅ se
-  Phir bhi hai ilteja meri sab se
+  Phir bhi hai iltejaa meri sab se
   Aaj roshan na ho diya koi
   Baap beti se milne aata hai
 
@@ -34,18 +34,18 @@ romanLyrics: |-
   Baap beti se milne aata hai
 
   3
-  Hai ye paiwast mere gardan meiṅ
-  Khud maiṅ is ko hata nahiṅ sakti
+  Hai ye paiwast mere gardan mein
+  Khud main is ko hata nahiṅ sakti
   Apne gardan burida baaba ke
-  Saamne yuṅ maiṅ jaa nahiṅ sakti
+  Saamne yuṅ main jaa nahiṅ sakti
   Koi gardan se khol de rassi
   Baap beti se milne aata hai
 
   4
-  Jab maiṅ milti thi apne baaba se
-  Baaheiṅ gardan meiṅ haar karti thi
-  Tan burida ka sar jo aayega
-  Kaise gardan meiṅ baaheiṅ daaluṅ gi
+  Jab main milti thi apne baaba se
+  Baaheiṅ gardan mein haar karti thi
+  Tan burida ka sar jo aaye ga
+  Kaise gardan mein baaheiṅ daaluṅ gi
   Tera zarboṅ se hoke ab zakhmi
   Baap beti se milne aata hai
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   Bhaiya Akbar ki yaad aati hai
   Karbala wale kaise baste haiṅ
   Kaise katti hai bhai Qasim ki
-  Un se maiṅ sab ka haal puchhuṅ gi
+  Un se main sab ka haal puchhuṅ gi
   Baap beti se milne aata hai
 
   6
@@ -62,7 +62,7 @@ romanLyrics: |-
   Aa rahe haiṅ pidar mujhe lene
   Ek muddat se jaagi beti ko
   Loriyoṅ se wo khud sulaayeṅ ge
-  Mujhko batla gayi hai khud daadi
+  Mujh ko batla gayi hai khud daadi
   Baap beti se milne aata hai
 ---
 

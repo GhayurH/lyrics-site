@@ -24,7 +24,7 @@ romanLyrics: |-
   Maula Husain Ibn-e-Ali kehte haiṅ
 
   2
-  Wo mera raahnuma mera aaqa bhi wohi
+  Woh mera raahnuma mera aaqa bhi wohi
   Jis ka naana hai Nabi baap waliyoṅ ka wali
   Faatima jis ki hai maaṅ bhaai jaisa na koi
   Aise sultaan ko us nigahbaan ko
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   5
   Sayyidi Sayyidi Sayyidi Sayyidi
-  Mustafavi Haashmi jaan-e-Nabi
+  Mustafavi Haashimi jaan-e-Nabi
   Kushta-e-tegh-e-jafa haaye Husain Ibn-e-Ali
   Husain Husain Husain Husain
   Husain Husain Husain Husain
@@ -66,13 +66,13 @@ romanLyrics: |-
 
   9
   Marzi-e-Rab thi yehi chhor de apna watan
-  Wo gharib ul watani aur ujarta wo chaman
-  Wo shahanshaah-e-zaman aur paamaal badan
+  Woh gharib-ul-watani aur ujarta woh chaman
+  Woh shahanshaah-e-zaman aur paamaal badan
   Aise mazlum ko aise maasum ko
   Maula Husain Ibn-e-Ali kehte haiṅ
 
   10
-  Jo keh diya Maula ne wo kar ke dikhaaya hai
+  Jo keh diya Maula ne woh kar ke dikhaaya hai
   Qurbaan hue lekin waade ko nibhaaya hai
   Ae Shah ke azaadaaroṅ aa jaao karo maatam
   Ek Bibi ke rone ki aati hai sada har dam
@@ -81,7 +81,7 @@ romanLyrics: |-
   Khuṅ baha diya Maula
   Din bacha liya Maula
   Bekafan raha Maula
-  Laasha na utha Maula
+  Laasha na uthaa Maula
   Pyaasa bhi raha Maula
   Ghar ujar gaya Maula
   Ghar ujar gaya Maula

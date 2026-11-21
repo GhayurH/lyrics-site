@@ -1,26 +1,46 @@
 ---
-title: "Ummat Dar E Rasool Jalane Ko Aayi Hai Lyrics New 03 Jamadi Ul Sani Ayyam E Fatamiya 2025"
+title: "امت درِ رسول جلانے کو آئی ہے"
+alternateTitle: "Ummat Dar-e-Rasool Jalane Ko Aayi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Navaid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ummat dar-e-Rasool jalane ko aayi hai
+  Darwaza Syeda pe giranay ko aayi hai
+  Tabdeel kar ke deen-e-Khuda qaul-e-Mustafa
+
+  1
+  Dil pak Syeda ka dukhanay ko aayi hai
+  Haq mangney kab aayi hai darbar mein Batool
+  Chehron se woh naqab uthane ko aayi hai
+  Roshan dino pe partein tu ho jate woh siyah
+  Zahra pe woh musibatein dhaney ko aayi hai
+
+  2
+  Roshan hain jis se Sarmad-o-Lahoot-o-La Makaan
+  Zahra ka woh charag bhujaney ko aayi hai
+  Markaz hai Panjtan ka jo Zahra siwaye Navaid
+  Aasaar Panjtan ke mitanay ko aayi hai
 ---
 
-Ummat Dar e Rasool Jalane Ko Aayi Hai.
-Darwaza Syeda Pe Giranay Ko Aayi Hai.Tabdeel Kar Ke Deen-e-Khuda Qaul-e-Mustafa.
+امت درِ رسول جلانے کو آئی ہے
+دروازہ سیدہ پہ گرانے کو آئی ہے
+تبدیل کر کے دینِ خدا قولِ مصطفیٰ
 
-1
-Dil Pak Syeda Ka Dukhanay Ko Aayi Hai.Haq Mangney Kab Aayi Hai Darbar Mein Batool.
-Chehron Se Woh Naqab Uthane Ko Aayi Hai.
-Roshan Dino Pe Partein Tu Ho Jate Woh Siyah.
-Zahra Pe Woh Musibatein Dhaney Ko Aayi Hai.
+۱
+دل پاک سیدہ کا دکھانے کو آئی ہے
+حق مانگنے کب آئی ہے دربار میں بتول
+چہروں سے وہ نقاب اٹھانے کو آئی ہے
+روشن دنوں پہ پڑتیں تو ہو جاتے وہ سیاہ
+زہرا پہ وہ مصیبتیں ڈھانے کو آئی ہے
 
-2
-Roshan Hain Jis Se Sarmad-o-Lahoot-o-La Makaan.
-Zahra Ka Woh Charag Bhujaney Ko Aayi Hai.
-Markaz Hai Panjtan Ka Jo Zahra Siwaye Navaid.
-Aasaar Panjtan Ke Mitanay Ko Aayi Hai.
+۲
+روشن ہیں جس سے سرمد و لاہوت و لا مکاں
+زہرا کا وہ چراغ بجھانے کو آئی ہے
+مرکز ہے پنجتن کا جو زہرا سوائے نوید
+آثار پنجتن کے مٹانے کو آئی ہے

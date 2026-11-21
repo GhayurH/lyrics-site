@@ -14,7 +14,7 @@ romanLyrics: |-
   1
   Hontoṅ se phuloṅ ki barsaat hoti hai
   Jab kabhi bhi laboṅ par naat hoti hai
-  Hota hai Arsh waaloṅ meiṅ yehi charcha
+  Hota hai Arsh waaloṅ mein yehi charcha
   Bas Muhammad Ali ki baat hoti hai
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
   3
   Panjetan ki wilaayat din-e-kaamil hai
   Aur shariat inhi ke saath hoti hai
-  Haath takhliq-e-Aadam meiṅ haiṅ jo shaamil
+  Haath takhliq-e-Aadam mein haiṅ jo shaamil
   Duniya saari unhi ke haath hoti hai
 
   4

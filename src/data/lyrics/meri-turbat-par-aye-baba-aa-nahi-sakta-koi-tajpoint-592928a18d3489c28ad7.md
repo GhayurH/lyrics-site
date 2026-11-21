@@ -1,32 +1,54 @@
 ---
-title: "Meri Turbat Par Aye Baba Aa Nahi Sakta Koi"
+title: "میری تربت پر اے بابا آ نہیں سکتا کوئی"
+alternateTitle: "Meri Turbat Par Aye Baba Aa Nahi Sakta Koi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Meri turbat par aye baba aa nahi sakta koi
+  Pehrey dari qabar ki aisay bhi hai karta koi
+
+  1
+  Dhop parti hai jo baba qabar tapti hai meri
+  Saibaan turbat pe meri kyun nahi banta koi
+  Chand wahid hai sahara roshni ka baba jaan
+  Meri turbat par diya bhi ab nahi jalta koi
+
+  2
+  Baad tere mujh pe baba jo sitam dhaye gaye
+  Teri dukhtar ke siwa baba nahi sehta koi
+  Lainay detey yeh nahi hain ab lehad mein chain bhi
+  Khud batao zulm aisay hai bhala karta koi
+
+  3
+  Door se hain dekh saktay baba mere matami
+  Giriye mein aanso lehad pe ab nahi girta koi
+  Rotay hoon gay khud Muhammad jis tarha Bibi tumhein
+  Youn Raza ik gaib mein bhi khon rota hai koi
 ---
 
-Meri Turbat Par Aye Baba Aa Nahi Sakta Koi.
-Pehrey Dari Qabar Ki Aisay Bhi Hai Karta Koi.
+میری تربت پر اے بابا آ نہیں سکتا کوئی
+پہرے داری قبر کی ایسے بھی ہے کرتا کوئی
 
-1
-1- Dhop Parti Hai Jo Baba Qabar Tapti Hai Meri.
-Saibaan Turbat Pe Meri Kyun Nahi Banta Koi.
-2- Chand Wahid Hai Sahara Roshni Ka Baba Jaan.
-Meri Turbat Par Diya Bhi Ab Nahi Jalta Koi.
+۱
+دھوپ پڑتی ہے جو بابا قبر تپتی ہے میری
+سائبان تربت پہ میری کیوں نہیں بنتا کوئی
+چاند واحد ہے سہارا روشنی کا بابا جان
+میری تربت پر دیا بھی اب نہیں جلتا کوئی
 
-2
-3- Baad Tere Mujh Pe Baba Jo Sitam Dhaye Gaye.
-Teri Dukhtar Ke Siwa Baba Nahi Sehta Koi.
-4- Lainay Detey Yeh Nahi Hain Ab Lehad Mein Chain Bhi.
-Khud Batao Zulm Aisay Hai Bhala Karta Koi.
+۲
+بعد تیرے مجھ پہ بابا جو ستم ڈھائے گئے
+تیری دختر کے سوا بابا نہیں سہتا کوئی
+لینے دیتے یہ نہیں ہیں اب لحد میں چین بھی
+خود بتاؤ ظلم ایسے ہے بھلا کرتا کوئی
 
-3
-5- Door Se Hain Dekh Saktay Baba Mere Matami.
-Giriye Mein Aanso Lehad Pe Ab Nahi Girta Koi.
-6- Rotay Hoon Gay Khud Muhammad Jis Tarha Bibi Tumhein.
-Youn Raza Ik Gaib Mein Bhi Khon Rota Hai Koi.
+۳
+دور سے ہیں دیکھ سکتے بابا میرے ماتمی
+گریے میں آنسو لحد پہ اب نہیں گرتا کوئی
+روتے ہوں گے خود محمد جس طرح بی‌بی تمہیں
+یوں رضا اک غیب میں بھی خون روتا ہے کوئی

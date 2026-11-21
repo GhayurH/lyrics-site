@@ -7,6 +7,30 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haule haule khanjar chala zaalim
+
+  1
+  Mede mazlum piu di gardan te
+  Tore khutt gin saah musaafir de
+  Tekuṅ khaaliq da waasta zaalim
+  Laash te ghore naaṅ bhajaa zaalim
+  Jehre gal te khanjar chalainda pae
+  Tede khanjar te indi gardan te
+  Hai Muhammad di bosagaah zaalim
+  Indi bhanreṅ di hai nigaah zaalim
+  Chhor de waal mede baabe de
+  Tuṅ kya jaanreṅ Husain kuṅ amri
+  Hai Sakina di iltija zaalim
+  Chakiyaaṅ pahi pahi hai paaliya zaalim
+  Meda Sajjad khaimagaah wich hai
+  Indi ghurbat kuṅ rosuṅ mahshar taa'eṅ
+  Mede khiyaam na jala zaalim
+  Inda koi nahiṅ rahiya zaalim
+  Dekh Faisal Husain di azmat
+  Mede gal te khanjar chala jitne
+  Kat ke sar vi nahiṅ jhuka zaalim
+  Dur Sakina de naaṅ laha zaalim
 ---
 
 ہو لے ہولے خنجر چلا ظالم

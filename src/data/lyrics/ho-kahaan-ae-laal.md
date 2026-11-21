@@ -14,8 +14,8 @@ published: true
 romanLyrics: |-
   Haaye Asghar ki sada aati hai ab bhi raat ko
   Gunjta hai naala-e-qalb-e-Rabaab-e-Karbala
-  Jab jhapak jaati thi palkeiṅ chaunk uthti thi Rabaab
-  Jaise koi kaan meiṅ kehta ho Asghar aaye haiṅ
+  Jab jhapak jaati thi palkeṅ chaunk uthti thi Rabaab
+  Jaise koi kaan mein kehta ho Asghar aaye haiṅ
 
   1
   Ho kahaaṅ ae laal Asghar kis tarah dhunde ye maaṅ
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Tu mere dil ka sukuṅ hai tu mere dil ka qaraar
-  Yaad meiṅ teri Sakina kar rahi hai intezaar
+  Yaad mein teri Sakina kar rahi hai intezaar
   Ye bata do ho kahaaṅ par kis tarah dhunde ye maaṅ
 
   3
@@ -33,11 +33,11 @@ romanLyrics: |-
 
   4
   Zulm ki aandhi ne tujh ko kar diya mujh se juda
-  Kis sitam ke abr meiṅ hai chhup gaya chehra tera
-  Thokareiṅ khaati huṅ dar dar kis tarah dhunde ye maaṅ
+  Kis sitam ke abr mein hai chhup gaya chehra tera
+  Thokareṅ khaati huṅ dar dar kis tarah dhunde ye maaṅ
 
   5
-  Sughra ne ye khat meiṅ likha kaisa hai Asghar mera
+  Sughra ne ye khat mein likha kaisa hai Asghar mera
   Ghutniyoṅ chalta wo hoga jaan meri us par fida
   Kya kahegi us se maadar kis tarah dhunde ye maaṅ
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   Mujh ko ghere haiṅ sitamgar kis tarah dhunde ye maaṅ
 
   7
-  Gham meiṅ tere ro rahi haiṅ ye zamin o aasmaaṅ
+  Gham mein tere ro rahi haiṅ ye zamin o aasmaaṅ
   Mohsin o Ahmed bhi roye ro rahe haiṅ donoṅ jahaaṅ
   Keh rahi thi gham se maadar kis tarah dhunde ye maaṅ
 ---

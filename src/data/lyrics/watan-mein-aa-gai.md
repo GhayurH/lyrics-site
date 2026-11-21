@@ -12,62 +12,62 @@ tags: []
 aliases: ["Watan Mai Aagayi"]
 published: true
 romanLyrics: |-
-  Haae nana teri Zainab phiri dar dar rasan basta
+  Haaye naana teri Zainab phiri dar dar rasan basta
 
   Nabi ke paak rauze par kaha Zainab ne ye ro kar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   1
   Madina laut aae haiṅ haram zindaan se chhut kar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   2
   Qayaamat mujh pe jo guzri wo haal-e-gham sunaauṅgi
-  Hai mere baazuoṅ pe nil wo nana dikhaauṅgi
+  Hai mere baazuoṅ pe nil wo naana dikhaauṅgi
   Laraz uthe haiṅ baam o dar pukaari Zainab-e-muztar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   3
-  Ae nana roz-e-Aashura bhara ghar lut gaya mera
+  Ae naana roz-e-Aashura bhara ghar lut gaya mera
   Chhini chaadar mere sar se jala daaman Sakina ka
   Abhi tak jalte khaimoṅ ka hai mere saamne manzar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   4
   Ba waqt-e-asr-e-Aashura ye hum par waqt bhi aaya
-  Nawaasa aap ka nana tah-e-khanjar tarapta tha
-  Tarap uthi maiṅ bhai ke gale par jab chala khanjar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Nawaasa aap ka naana tah-e-khanjar tarapta tha
+  Tarap uthi main bhai ke gale par jab chala khanjar
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   5
-  Sitam aur zulm aisa to nahiṅ hota zamaane meiṅ
-  Sakina reh gai tanha andhere qaid khaane meiṅ
-  Kahuṅgi kya maiṅ Sughra se nahiṅ aaya Ali Akbar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Sitam aur zulm aisa to nahiṅ hota zamaane mein
+  Sakina reh gai tanha andhere qaid khaane mein
+  Kahuṅgi kya main Sughra se nahiṅ aaya Ali Akbar
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   6
-  Maiṅ ho kar qaid ae nana sar-e-baazaar jab aai
-  Rasan basta maiṅ roti thi ke majma tha tamaashaai
+  Main ho kar qaid ae naana sar-e-baazaar jab aai
+  Rasan basta main roti thi ke majma tha tamaashaai
   Behen baaghi ki aai hai hameṅ maare gae patthar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   7
   Mere Abbaas ke baazu kate darya kinaare par
-  Sitam ki had hai pyaasa hi lahad meiṅ so gaya Asghar
+  Sitam ki had hai pyaasa hi lahad mein so gaya Asghar
   Na ab Aun o Muhammad hai na ab hai Qaasim o Akbar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   8
-  Ae nana roz o shab Zainab qayaamat se guzar hai
+  Ae naana roz o shab Zainab qayaamat se guzar hai
   Jo bhai yaad aata hai ye dukhiya roz marti hai
-  Karuṅgi kya maiṅ ab ji kar hua barbaad mera ghar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Karuṅgi kya main ab ji kar hua barbaad mera ghar
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 
   9
   Mohib taarikh ne likha bapa har simt mehshar tha
   Kiye jab bain Zainab ne utha phir shor maatam ka
-  Ae nana lijiye pursa ye kehti thi wo nauhagar
-  Watan meiṅ aa gai huṅ watan meiṅ aa gai huṅ
+  Ae naana lijiye pursa ye kehti thi wo nauhagar
+  Watan mein aa gai huṅ watan mein aa gai huṅ
 ---
 ہائے نانا تیری زینب پھری در در رسن بستہ
 

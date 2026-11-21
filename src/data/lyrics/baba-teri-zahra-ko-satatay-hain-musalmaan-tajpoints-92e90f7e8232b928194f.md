@@ -1,50 +1,90 @@
 ---
-title: "Baba Teri Zahra Ko Satatay Hain Musalmaan"
+title: "بابا تیری زہرا کو ستاتے ہیں مسلمان"
+alternateTitle: "Baba Teri Zahra Ko Satatay Hain Musalmaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baba teri Zahra ko satatay hain Musalmaan
+  Jalta howa dar mujh pe giratay hain Musalmaan
+
+  1
+  Sab bhool chukay hain yeh khilafat ke nashay mein
+  Bandhi hai rasan Haider-e-Safdar ke galay mein
+  Galiyon mein Madine ki phiratay hain Musalmaan
+  Har roz musibat hai nayi totti hum par
+
+  2
+  Ashor ka manzar tu kabhi Sham ka manzar
+  Zahra ko Madine mein dikhatay hain Musalmaan
+  Pehlu mera zakhmi hai tu hathoon pe waram hai
+  Gham mujh ko Fidak ka nahi iss baat ka gham hai
+
+  3
+  Rutba teri beti ka bhulatay hain Musalmaan
+  Khali mujhe lautaya haya tak nahi aayi
+  Jhutlai hai masoom gawahon ki gawahi
+  Youn qarz meri maa ka chukatay hain Musalmaan
+
+  4
+  Jis dar pe simat jate hain Jibreel ke sheh par
+  Dastak ke bana aap bhi aaye nahi jis ghar
+  Be azn ossi mein chaley aate hain Musalmaan
+  Durray ki aziyat se aziyat yeh bari hai
+
+  5
+  Zahra kayi ghanton se sand le ke khari hai
+  Haq detey nahi hath uthatay hain Musalmaan
+  Raat aisi koi aisa koi din nahi aaya
+  Pehlu se ho Zahra ne keh jab hath hataya
+
+  6
+  Zakhm iss pe niya roz lagatay hain Musalmaan
+  Wajib hai yeh har haal mein Muhsin ke qalam pe
+  Pamali-e-Mohsin ke musayab nahi bholay
+  Ab tak jisay lab par nahi latay hain Musalmaan
 ---
 
-Baba Teri Zahra Ko Satatay Hain Musalmaan.
-Jalta Howa Dar Mujh Pe Giratay Hain Musalmaan.
+بابا تیری زہرا کو ستاتے ہیں مسلمان
+جلتا ہوا در مجھ پہ گراتے ہیں مسلمان
 
-1
-Sab Bhool Chukay Hain Yeh Khilafat Ke Nashay Mein.
-Bandhi Hai Rasan Haider-e-Safdar Ke Galay Mein.
-Galiyon Mein Madine Ki Phiratay Hain Musalmaan.
-Har Roz Musibat Hai Nayi Totti Hum Par.
+۱
+سب بھول چکے ہیں یہ خلافت کے نشے میں
+بندھی ہے رسن حیدرِ صفدر کے گلے میں
+گلیوں میں مدینے کی پھراتے ہیں مسلمان
+ہر روز مصیبت ہے نئی ٹوٹتی ہم پر
 
-2
-Ashor Ka Manzar Tu Kabhi Sham Ka Manzar.
-Zahra Ko Madine Mein Dikhatay Hain Musalmaan.
-Pehlu Mera Zakhmi Hai Tu Hathoon Pe Waram Hai.
-Gham Mujh Ko Fidak Ka Nahi Iss Baat Ka Gham Hai.
+۲
+عاشور کا منظر تو کبھی شام کا منظر
+زہرا کو مدینے میں دکھاتے ہیں مسلمان
+پہلو میرا زخمی ہے تو ہاتھوں پہ ورم ہے
+غم مجھ کو فدک کا نہیں اس بات کا غم ہے
 
-3
-Rutba Teri Beti Ka Bhulatay Hain Musalmaan.
-Khali Mujhe Lautaya Haya Tak Nahi Aayi.
-Jhutlai Hai Masoom Gawahon Ki Gawahi.
-Youn Qarz Meri Maa Ka Chukatay Hain Musalmaan.
+۳
+رتبہ تیری بیٹی کا بھلاتے ہیں مسلمان
+خالی مجھے لوٹایا حیا تک نہیں آئی
+جھٹلائی ہے معصوم گواہوں کی گواہی
+یوں قرض میری ماں کا چکاتے ہیں مسلمان
 
-4
-Jis Dar Pe Simat Jate Hain Jibreel Ke Sheh Par.
-Dastak Ke Bana Aap Bhi Aaye Nahi Jis Ghar.
-Be Azn Ossi Mein Chaley Aate Hain Musalmaan.
-Durray Ki Aziyat Se Aziyat Yeh Bari Hai.
+۴
+جس در پہ سمٹ جاتے ہیں جبریل کے شہ پر
+دستک کے بنا آپ بھی آئے نہیں جس گھر
+بے اذن اسی میں چلے آتے ہیں مسلمان
+درّے کی اذیت سے اذیت یہ بڑی ہے
 
-5
-Zahra Kayi Ghanton Se Sand Le Ke Khari Hai.
-Haq Detey Nahi Hath Uthatay Hain Musalmaan.
-Raat Aisi Koi Aisa Koi Din Nahi Aaya.
-Pehlu Se Ho Zahra Ne Keh Jab Hath Hataya.
+۵
+زہرا کئی گھنٹوں سے سند لے کے کھڑی ہے
+حق دیتے نہیں ہاتھ اٹھاتے ہیں مسلمان
+رات ایسی کوئی ایسا کوئی دن نہیں آیا
+پہلو سے ہو زہرا نے کہ جب ہاتھ ہٹایا
 
-6
-Zakhm Iss Pe Niya Roz Lagatay Hain Musalmaan.
-Wajib Hai Yeh Har Haal Mein Muhsin Ke Qalam Pe.
-Pamali-e-Mohsin Ke Musayab Nahi Bholay.
-Ab Tak Jisay Lab Par Nahi Latay Hain Musalmaan.
+۶
+زخم اس پہ نیا روز لگاتے ہیں مسلمان
+واجب ہے یہ ہر حال میں محسن کے قلم پہ
+پامالیِ محسن کے مصائب نہیں بھولے
+اب تک جسے لب پر نہیں لاتے ہیں مسلمان

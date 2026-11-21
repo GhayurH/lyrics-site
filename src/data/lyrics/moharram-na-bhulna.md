@@ -13,7 +13,7 @@ aliases: ["Moharram Na Bhoolna"]
 published: true
 romanLyrics: |-
   Dua-e-Fatema Zehra ka tum pe saaya hai
-  Imam-e-Jafar-e-Sadiq ne ye bataaya hai
+  Imam-e-Jafar-e-Saadiq ne ye bataaya hai
 
   Karna khushi bhi lekin ye gham na bhulna
   Moharram na bhulna
@@ -21,7 +21,7 @@ romanLyrics: |-
   1
   Ghar meiṅ Khuda dikhaaye tumhaare koi khushi
   Shaadi ho wo bete ki ya beti ki rukhsati
-  Tum bewa-e-Qasim ka kabhi gham na bhulna
+  Tum bewa-e-Qaasim ka kabhi gham na bhulna
 
   2
   Qiyaam karo sabileiṅ azaadaaroṅ har jagah
@@ -29,12 +29,12 @@ romanLyrics: |-
   Jaari hai is sabil meiṅ Zamzam na bhulna
 
   3
-  Baqir ke laadle ka imaamat ke phul ka
-  Farmaan hai ye Sadiq-e-Aal-e-Rasul ka
+  Baaqir ke laadle ka imaamat ke phul ka
+  Farmaan hai ye Saadiq-e-Aal-e-Rasul ka
   Jaise Ghadir bhule Moharram na bhulna
 
   4
-  Saqqa banaao bachchoṅ ko Ghaazi ki yaad meiṅ
+  Saqqaa banaao bachchoṅ ko Ghaazi ki yaad meiṅ
   Bachpan se hi alam ko utha kar wo chal sake
   Duba hua lahu meiṅ parcham na bhulna
 

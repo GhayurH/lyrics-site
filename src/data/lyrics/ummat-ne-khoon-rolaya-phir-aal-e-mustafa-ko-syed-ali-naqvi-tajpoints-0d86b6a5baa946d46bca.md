@@ -1,47 +1,83 @@
 ---
-title: "Ummat Ne Khoon Rolaya Phir Aal-e-Mustafa Ko Syed Ali Naqvi"
+title: "امت نے خون رلایا پھر آلِ مصطفیٰ کو سید علی نقوی"
+alternateTitle: "Ummat Ne Khoon Rolaya Phir Aal-e-Mustafa Ko Syed Ali Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ali"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ummat ne khoon rolaya phir aal-e-Mustafa ko Syed Ali Naqvi
+  Mara hai kalma go ne masjid mein Murtaza ko
+  Chayi hai phir udasi bint-e-Nabi ke ghar mein
+  Ummat ne hai ujara gulzar-e-Fatima ko
+
+  2
+  Do lakht sar howa hai aankhein bhari hain khoon se
+  Qatil ne aisay mara maula-e-do sara ko
+  Zahra ka qatal kar ke Haider ka qatal karna
+  Kya ajar yeh diya hai ummat ne Mustafa ko
+
+  3
+  Baba ko yaad kar ke Hasnain muztarib hain
+  Ik pal sakoon nahi hai Abbas-e-ba wafa ko
+  Umm ul-Baneen Ruqaiya roti hain umm-e-Salma
+  Gham kha gaya Ali ka Kulsoom-o-Aliya ko
+
+  4
+  Noha kuna hai Kaba Khizra hai mehway giriya
+  Larzaan hai qabar-e-Zahra sadma hai aqarba ko
+  Chehra bhi khoon se tar hai sar bhi shikasta hai
+  Haider ne aisay chora iss alam-e-fana ko
+
+  5
+  Shabeer Aliya ko gash mein bhi pochtay they
+  Bholay kahan they Haider Sham our Karbala ko
+  Kofay mein hain pareshaan sare yateem bachray
+  Dhondein kahan woh aakhir maula-e-basafa ko
+
+  6
+  Lanat ho ta qayamat tujh par oh Ibn-e-Muljim
+  Sajday mein tu ne mara mazloom-o-be khata ko
+  Ro kar parha Ali ne noha jo yeh Iram ka
+  Pursa diya jahan ne Haider ka Fatima ko
 ---
 
-1
-Ummat Ne Khoon Rolaya Phir Aal-e-Mustafa Ko Syed Ali Naqvi.
-Mara Hai Kalma Go Ne Masjid Mein Murtaza Ko.
-Chayi Hai Phir Udasi Bint-e-Nabi Ke Ghar Mein.
-Ummat Ne Hai Ujara Gulzar-e-Fatima Ko.
+۱
+امت نے خون رلایا پھر آلِ مصطفیٰ کو سید علی نقوی
+مارا ہے کلمہ گو نے مسجد میں مرتضیٰ کو
+چھائی ہے پھر اداسی بنتِ نبی کے گھر میں
+امت نے ہے اجاڑا گلزارِ فاطمہ کو
 
-2
-Do Lakht Sar Howa Hai Aankhein Bhari Hain Khoon Se.
-Qatil Ne Aisay Mara Maula-e-Do Sara Ko.
-Zahra Ka Qatal Kar Ke Haider Ka Qatal Karna.
-Kya Ajar Yeh Diya Hai Ummat Ne Mustafa Ko.
+۲
+دو لخت سر ہوا ہے آنکھیں بھری ہیں خون سے
+قاتل نے ایسے مارا مولائے دو سرا کو
+زہرا کا قتل کر کے حیدر کا قتل کرنا
+کیا اجر یہ دیا ہے امت نے مصطفیٰ کو
 
-3
-Baba Ko Yaad Kar Ke Hasnain Muztarib Hain.
-Ik Pal Sakoon Nahi Hai Abbas-e-Ba Wafa Ko.
-Umm Ul-Baneen Ruqaiya Roti Hain Umm-e-Salma.
-Gham Kha Gaya Ali Ka Kulsoom-o-Aliya Ko.
+۳
+بابا کو یاد کر کے حسنین مضطرب ہیں
+اک پل سکون نہیں ہے عباسِ باوفا کو
+ام البنین رقیہ روتی ہیں امِ سلمہ
+غم کھا گیا علی کا کلثوم و عالیہ کو
 
-4
-Noha Kuna Hai Kaba Khizra Hai Mehway Giriya.
-Larzaan Hai Qabar-e-Zahra Sadma Hai Aqarba Ko.
-Chehra Bhi Khoon Se Tar Hai Sar Bhi Shikasta Hai.
-Haider Ne Aisay Chora Iss Alam-e-Fana Ko.
+۴
+نوحہ کناں ہے کعبہ خضرا ہے محوِ گریہ
+لرزاں ہے قبرِ زہرا صدمہ ہے اقربا کو
+چہرہ بھی خون سے تر ہے سر بھی شکستہ ہے
+حیدر نے ایسے چھوڑا اس عالمِ فنا کو
 
-5
-Shabeer Aliya Ko Gash Mein Bhi Pochtay They.
-Bholay Kahan They Haider Sham Our Karbala Ko.
-Kofay Mein Hain Pareshaan Sare Yateem Bachray.
-Dhondein Kahan Woh Aakhir Maula-e-Basafa Ko.
+۵
+شبیر عالیہ کو غش میں بھی پوچھتے تھے
+بھولے کہاں تھے حیدر شام اور کربلا کو
+کوفے میں ہیں پریشان سارے یتیم بچڑے
+ڈھونڈیں کہاں وہ آخر مولائے باصفا کو
 
-6
-Lanat Ho Ta Qayamat Tujh Par Oh Ibn-e-Muljim.
-Sajday Mein Tu Ne Mara Mazloom-o-Be Khata Ko.
-Ro Kar Parha Ali Ne Noha Jo Yeh Iram Ka.
-Pursa Diya Jahan Ne Haider Ka Fatima Ko
+۶
+لعنت ہو تا قیامت تجھ پر اوہ ابنِ ملجم
+سجدے میں تو نے مارا مظلوم و بے خطا کو
+رو کر پڑھا علی نے نوحہ جو یہ ارم کا
+پرسا دیا جہاں نے حیدر کا فاطمہ کو

@@ -21,10 +21,10 @@ romanLyrics: |-
 
   2
   Har ik muhib hai chaak garebaaṅ basad buka
-  Maatam kunaaṅ ba-dida-e-purnam Taqi ka hai
+  Maatam kunaaṅ ba dida-e-purnam Taqi ka hai
 
   3
-  Chhaayi Naqi ke sar pe yatimi ki ik ghata
+  Chhaai Naqi ke sar pe yatimi ki ik ghata
   Hai aaj sogwaar jo hamdam Taqi ka hai
 
   4
@@ -45,11 +45,11 @@ romanLyrics: |-
 
   8
   Sad paash dil pe khaar-e-masaaib ki hai chubhan
-  Rota hai khuṅ jahaaṅ meiṅ jo mihram Taqi ka hai
+  Rota hai khuṅ jahaaṅ mein jo mihram Taqi ka hai
 
   9
   Maula Husain ho ke azaadaar aaye haiṅ
-  Shioṅ ye gham na hashr se kuch kam Taqi ka hai
+  Shiaoṅ ye gham na hashr se kuch kam Taqi ka hai
 
   10
   Bughz-e-Ali ke zehr ka koi nahiṅ ilaaj
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   11
   Az farsh taa ba arsh bapa majliseṅ haiṅ aaj
-  Ahl-e-Wila meiṅ dard muqaddam Taqi ka hai
+  Ahl-e-Wila mein dard muqaddam Taqi ka hai
 ---
 
 بغداد کی زمین پہ ماتم تقی کا ہے

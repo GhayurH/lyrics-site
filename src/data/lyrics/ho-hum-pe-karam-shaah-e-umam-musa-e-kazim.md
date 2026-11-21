@@ -16,14 +16,14 @@ romanLyrics: |-
   Hai tum ko Muhammad ki qasam Musa-e-Kazim
 
   1
-  Khaaliq ne banaaya hai tumheiṅ qaazi-e-haajaat
+  Khaaliq ne banaaya hai tumheṅ qaazi-e-haajaat
   Allah ki tarah sunte ho tum sab ki munaajaat
   Haazir haiṅ liye dida-e-nam Musa-e-Kazim
 
   2
-  Har samt dukaaneiṅ hai saji hirs o hawas ki
+  Har samt dukaaneṅ hai saji hirs o hawas ki
   Baazaar meiṅ afsos tamaashaai haiṅ hum bhi
-  Kho jaaeiṅ na is bhir meiṅ hum Musa-e-Kazim
+  Kho jaaeṅ na is bhir meiṅ hum Musa-e-Kazim
 
   3
   Maasuma-e-Qum ho ke Gharib-ul-Ghuraba ho
@@ -37,16 +37,16 @@ romanLyrics: |-
 
   5
   Duniya ke masaaib meiṅ giriftaar na hoṅ hum
-  Kaafi hai gham-e-Karb o Bala Shaah-e-Do Aalam
+  Kaafi hai gham-e-Karb o Balaa Shaah-e-Do Aalam
   Ho hum ko na daarain ka gham Musa-e-Kazim
 
   6
   Ho hashr ke maidaan meiṅ bakhshish ka ye saamaan
   Ik haath meiṅ ho daaman-e-Aal ek meiṅ Quraan
-  Abbas ka ho sar pe alam Musa-e-Kazim
+  Abbaas ka ho sar pe alam Musa-e-Kazim
 
   7
-  Hum kaise bhi haiṅ aap ke ghamkhwaar haiṅ Maula
+  Hum kaise bhi haiṅ aap ke gham khwaar haiṅ Maula
   Jaise bhi haiṅ Sarwar ke azaadaar haiṅ Maula
   Rakh lena sar-e-hashr bharam Musa-e-Kazim
 ---

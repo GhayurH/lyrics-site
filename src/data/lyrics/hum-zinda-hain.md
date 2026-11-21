@@ -14,9 +14,9 @@ romanLyrics: |-
   Hum zinda haiṅ maatam-e-Shabbir ke liye
 
   1
-  Daur-e-Umayya meiṅ ye kis ka khun tha jo ke behta tha
-  Ahl-e-wafa ko ahl-e-aza ko diwaaroṅ meiṅ chuna gaya
-  Phir bhi ek sadaa-e-paiham aati thi diwaaroṅ se
+  Daur-e-Umayya mein ye kis ka khun tha jo ke behta tha
+  Ahl-e-wafa ko ahl-e-aza ko diwaaroṅ mein chuna gaya
+  Phir kabhi ek sadaa-e-paiham aati thi diwaaroṅ se
 
   2
   Har jaabir se har zaalim se hum the jo takraate the
@@ -34,14 +34,14 @@ romanLyrics: |-
   Kal bhi jo apna maula tha aaj bhi apna maula hai
 
   5
-  Kuch diwaane haiṅ aise bhi Karb o Balaa ko bhul gaye
+  Kuchh diwaane haiṅ aise bhi Karb o Balaa ko bhul gaye
   Allah Allah yaad rakha aur Aal-e-Abaa ko bhul gaye
   Raah-e-wafa se hatne waalo tum ko kaun ye samjhaaye
 
   6
   Sar de kar ghar baar luta kar hum ne ye gham paaya hai
   Is ki khaatir jaane kitna apna khun bahaaya hai
-  Jo khun sar-e-taarikh baha us khun ke qatre bol uthe
+  Jo khun sar-e-taarikh baha us khun ki khaatir bol uthe
 
   7
   Jazba-e-Misam le kar hum ne nafrat ka rukh mor diya

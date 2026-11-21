@@ -12,7 +12,7 @@ tags: []
 aliases: ["Hussain Shah Jee"]
 published: true
 romanLyrics: |-
-  Baadshah-e-Karbala salaam
+  Baadshaah-e-Karbala salaam
   Tu ne kar diya azim kaam
   Hazrat-e-Imam Husain alaihis salaam
 
@@ -20,13 +20,13 @@ romanLyrics: |-
   Yuṅ to qabroṅ se bante haiṅ qabristaan
   Tu ne magar qabroṅ se Karbala sajayi
   Ek saltanat banayi
-  Us saltanat ka tu hai baadshah
+  Us saltanat ka tu hai baadshaah
   Baad Khuda baad Nabi
   Shahiyoṅ ke silsile ke tisre Imam
 
   2
   Tera naam tera kaam hamesha rahega
-  Tu baadshah rahega
+  Tu baadshaah rahega
   Aashiqoṅ ke dil ki dharkanoṅ se aa rahi hai sada
   Husain Husain Husain Shah Ji
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   Maula Maula Husain Shah Ji
 
   4
-  Baadshah aisa zabardast hai tu Shah Saahib
+  Baadshaah aisa zabardast hai tu Shah Saahib
   Shahiyaṅ chhor ke sab aate haiṅ teri jaanib
   Tu hai mahraaj Husain takht aur taaj Husain
   Tere mohtaaj Husain
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   6
   Tu ne tiroṅ ke musalle pe ibaadat ki hai
-  Tu ne har daur meiṅ dunya pe hukumat ki hai
+  Tu ne har daur meiṅ duniya pe hukumat ki hai
   Ya Aba Abdillah do jahaaṅ meiṅ wallah
   Hukm chalta hai tera
   Fatima ke pisar hai hameiṅ ye khabar
@@ -65,11 +65,11 @@ romanLyrics: |-
   Maula Maula Husain Shah Ji
 
   8
-  Aao zawwaro mere saath chalo rauze par
-  Shah ki aawaaz pe labbaik pukaro mil kar
-  Bola Shah ast Husain baadshah ast Husain
+  Aao zawwaroṅ mere saath chalo rauze par
+  Sheh ki aawaaz pe labbaik pukaro mil kar
+  Bola Shah ast Husain baadshaah ast Husain
   Din ast Husain din panaah ast Husain
-  Le ke haathoṅ meiṅ alam taaba rehna dam ba dam
+  Le ke haathoṅ meiṅ alam taa ba rehna dam ba dam
   Ja raha huṅ maiṅ Najaf se Karbala ye kehta hua
 
   9
@@ -77,7 +77,7 @@ romanLyrics: |-
   Husain Husain jaan
 
   10
-  Ye Shah-e-Mashraqain hai
+  Ye Shah-e-Mashriqain hai
   Ye Shah-e-Maghrabain hai
   Nabi ki jaan Ali ki dil
   Ye Fatima ka chain hai
@@ -88,7 +88,7 @@ romanLyrics: |-
   Ya Husain ilal Husain ya Husain ilal Husain
 
   12
-  Saari dunya meiṅ Husain
+  Saari duniya meiṅ Husain
   Nasl-e-Zehra meiṅ Husain
   Chaudah baarah meiṅ Husain
   Koi nahiṅ tere siwa
@@ -112,7 +112,7 @@ romanLyrics: |-
   Mera dil ya Husain tera diwana
 
   16
-  Shauzab Habib o Jaun Zohair aur Said ki
+  Shauzab o Habib o Jaun Zohair aur Said ki
   Maqtal se aa rahi hai sada har shahid ki
   Diwana tera diwana
   Mera dil ya Husain tera diwana
@@ -124,11 +124,11 @@ romanLyrics: |-
   18
   Karbala aisi imaarat hai ke Sarwar ke siwa
   Ek din meiṅ koi tayyar nahiṅ kar sakta
-  Hurr ke haathoṅ ko ye kehte hue khola Shah ne
+  Hurr ke haathoṅ ko ye kehte hue khola Sheh ne
   Ab tujhe koi giraftaar nahiṅ kar sakta
   Hurr ke chehre ki chamak roz-e-Dahum mat puchho
   Lashkar-e-Yazid se nikal gaya ye kehta hua
-  Sada baadshahi hai bas Husain ki
+  Sada baadshaahi hai bas Husain ki
   Kiuṅ na phir sada ho har malang aur faqir ki
 
   19
@@ -152,8 +152,8 @@ romanLyrics: |-
   21
   Aao Zishaan o Irfaan-e-Aza
   Mil ke dete haiṅ sada
-  Lanat bar shajra-e-khabisa
-  Salaam bar shajra-e-tayyiba
+  Lanat bar shajara-e-khabisa
+  Salaam bar shajara-e-tayyiba
 ---
 بادشاہ کربلا سلام
 تو نے کر دیا عظیم کام

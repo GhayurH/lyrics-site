@@ -1,36 +1,87 @@
 ---
-title: "Mohtaj-e-Lafziyaat Na Tha Zikar-e-Panjtan"
+title: "محتاجِ لفظیات نہ تھا ذکرِ پنجتن"
+alternateTitle: "Mohtaj-e-Lafziyaat Na Tha Zikar-e-Panjtan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ashhar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mohtaj-e-lafziyaat na tha zikar-e-Panjtan
+  Kun se bhi pehle Rab ne kiya zikar-e-Panjtan
+
+  1
+  Jhutlaye ga tu kaise sanad Mustafa ki hai
+  Hum par laga na fatway yeh sunat Khuda ki hai
+  Hai maqsad-e-hadees-e-Kisa zikar-e-Panjtan
+
+  2
+  Mar kar bhi zinda rehne ka saman kar gaye
+  Mesum faraz-e-dar se aylan kar gaye
+  Waqt-e-qaza bhi ho na qaza zikar-e-Panjtan
+
+  3
+  Parh bughz-e-Ahl-e-Bait ki ainak utar kar
+  Dawa hai mera tujh ko bhi aa jaein gaye nazar
+  Quraan mein jab baja hai likha zikar-e-Panjtan
+
+  4
+  Hasnain-o-Buturab Nabi-o-Batool tak
+  Woh khud hi le jaygi az farsh ta falak
+  Main ne hawa ko sonp diya zikar-e-Panjtan
+
+  5
+  Kuch iss tarha se oss ghari bad-e-Najaf chali
+  Kabay ne jhom jhom ke Ghazi ko daad di
+  Chat par jo oss ne apni suna zikar-e-Panjtan
+
+  6
+  Dewangi se baat yeh aayi hai aqal mein
+  Alhamd mein qanoot tashahud ki shaqal mein
+  Jari namaz mein bhi raha zikar-e-Panjtan
+
+  7
+  Mere padar ko unn ke padar ne atta kiya
+  Ashhar hai teen nasloon se jari yeh silsila
+  Meraas mein mujh ko mila zikar-e-Panjtan
 ---
 
-1
-Mohtaj-e-Lafziyaat Na Tha Zikar-e-Panjtan.
-Kun Se Bhi Pehle Rab Ne Kiya Zikar-e-Panjtan.
-Jhutlaye Ga Tu Kaise Sanad Mustafa Ki Hai.
-Hum Par Laga Na Fatway Yeh Sunat Khuda Ki Hai.
-Hai Maqsad-e-Hadees-e-Kisa Zikar-e-Panjtan.
-Mar Kar Bhi Zinda Rehne Ka Saman Kar Gaye.
-Mesum Faraz-e-Dar Se Aylan Kar Gaye.
-Waqt-e-Qaza Bhi Ho Na Qaza Zikar-e-Panjtan.
-Parh Bughz-e-Ahl-e-Bait Ki Ainak Utar Kar.
-Dawa Hai Mera Tujh Ko Bhi Aa Jaein Gaye Nazar.
-Quraan Mein Jab Baja Hai Likha Zikar-e-Panjtan.
-Hasnain-o-Buturab Nabi-o-Batool Tak.
-Woh Khud Hi Le Jaygi Az Farsh Ta Falak.
-Main Ne Hawa Ko Sonp Diya Zikar-e-Panjtan.
-Kuch Iss Tarha Se Oss Ghari Bad-e-Najaf Chali.
-Kabay Ne Jhom Jhom Ke Ghazi Ko Daad Di.
-Chat Par Jo Oss Ne Apni Suna Zikar-e-Panjtan.
-Dewangi Se Baat Yeh Aayi Hai Aqal Mein.
-Alhamd Mein Qanoot Tashahud Ki Shaqal Mein.
-Jari Namaz Mein Bhi Raha Zikar-e-Panjtan.
-Mere Padar Ko Unn Ke Padar Ne Atta Kiya.
- Ashhar Hai Teen Nasloon Se Jari Yeh Silsila.
-Meraas Mein Mujh Ko Mila Zikar-e-Panjtan.
+محتاجِ لفظیات نہ تھا ذکرِ پنجتن
+کُن سے بھی پہلے رب نے کیا ذکرِ پنجتن
+
+۱
+جھٹلائے گا تو کیسے سند مصطفیٰ کی ہے
+ہم پر لگا نہ فتوے یہ سنت خدا کی ہے
+ہے مقصدِ حدیثِ کسا ذکرِ پنجتن
+
+۲
+مر کر بھی زندہ رہنے کا سامان کر گئے
+میثم فرازِ دار سے اعلان کر گئے
+وقتِ قضا بھی ہو نہ قضا ذکرِ پنجتن
+
+۳
+پڑھ بغضِ اہلِ بیت کی عینک اتار کر
+دعویٰ ہے میرا تجھ کو بھی آ جائیں گے نظر
+قرآن میں جا بجا ہے لکھا ذکرِ پنجتن
+
+۴
+حسنین و بوتراب نبی و بتول تک
+وہ خود ہی لے جائے گی از فرش تا فلک
+میں نے ہوا کو سونپ دیا ذکرِ پنجتن
+
+۵
+کچھ اس طرح سے اس گھڑی بادِ نجف چلی
+کعبے نے جھوم جھوم کے غازی کو داد دی
+چھت پر جو اس نے اپنی سنا ذکرِ پنجتن
+
+۶
+دیوانگی سے بات یہ آئی ہے عقل میں
+الحمد میں قنوت تشہد کی شکل میں
+جاری نماز میں بھی رہا ذکرِ پنجتن
+
+۷
+میرے پدر کو ان کے پدر نے عطا کیا
+اشہر ہے تین نسلوں سے جاری یہ سلسلہ
+میراث میں مجھ کو ملا ذکرِ پنجتن

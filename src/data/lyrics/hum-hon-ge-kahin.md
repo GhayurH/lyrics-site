@@ -14,37 +14,37 @@ published: true
 romanLyrics: |-
   Sheh kehte the Bibi hameiṅ ab jaane do ghar se
   Wo kehti thi saaya jo ye uth jaaye ga sar se
-  Haaye haaye maiṅ tumheiṅ dhund ke laauṅ gi kidhar se
-  Sheh kehte the maqtal hi meiṅ paao gi Sakina
+  Haaye haaye main tumheiṅ dhund ke laauṅ gi kidhar se
+  Sheh kehte the maqtal hi mein paao gi Sakina
   Hum hoṅ ge kahiṅ tum kahiṅ jaao gi Sakina
   Dhundo gi to phir hum ko na paao gi Sakina
 
   1
   Jab umr thi kam hum bhi chhute the yuṅhi maaṅ se
-  Sote the lipat kar yuṅhi Khaatun-e-Jina se
+  Sote the lipat kar yuṅhi Khaatun-e-Jahaaṅ se
   Kuch un ka hua saamne aaṅkhoṅ ke jahaaṅ se
   Sadme yehi ab tum bhi uthaao gi Sakina
 
   2
-  Jangal meiṅ bahut qaafile lut jaate haiṅ Bibi
+  Jangal mein bahut qaafile lut jaate haiṅ Bibi
   Barsoṅ jo rahe saath wo chhut jaate haiṅ Bibi
-  Hasrat se ye dam sinoṅ meiṅ ghut jaate haiṅ Bibi
+  Hasrat se ye dam sinoṅ mein ghut jaate haiṅ Bibi
   Chhut jaao gi baba ko na paao gi Sakina
 
   3
   Din hijr ke aa pahunche gaye wasl ke ayyaam
-  Likha tha bahut kam teri taqdir meiṅ aaraam
+  Likha tha bahut kam teri taqdir mein aaraam
   Dikhlaaye gi ye subh yatimi ki tumheiṅ shaam
   Kis tarah se ye daagh uthaao gi Sakina
 
   4
   Yuṅ kehne lagi sine pe muṅh rakh ke wo naadaan
-  Kehte haiṅ yatimi kise maiṅ aap ke qurbaan
+  Kehte haiṅ yatimi kise main aap ke qurbaan
   Hazrat ne kaha sakht musibat hai meri jaan
-  Chain aisi aziyyat meiṅ na paao gi Sakina
+  Chain aisi aziyyat mein na paao gi Sakina
 
   5
-  Ab aaya samajh meiṅ ye sukhan hontoṅ pe laana
+  Ab aaya samajh mein ye sukhan hontoṅ pe laana
   Kiuṅ kehte the Zainab ise chhaati pe sulaana
   Are Bano mere pichhe na Sakina ko rulaana
   Dil kehta tha baba ko na paao gi Sakina

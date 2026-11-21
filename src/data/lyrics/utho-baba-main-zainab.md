@@ -1,7 +1,7 @@
 ---
 title: "رہ گئی تنہا بیٹیاں بابا ہائے کوفہ شہر میں"
 recitationId: "utho-baba-mai-zainab"
-alternateTitle: "Utho Baba Maiṅ Zainab"
+alternateTitle: "Utho Baba Main Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,8 +12,8 @@ tags: []
 aliases: ["Utho Baba Mai Zainab"]
 published: true
 romanLyrics: |-
-  Reh gayi tanha betiyaaṅ baba haaye Kufa shehr meiṅ
-  Utho baba maiṅ Zainab huṅ ye Bibi ki sada hogi
+  Reh gayi tanha betiyaaṅ baba haaye Kufa shehr mein
+  Utho baba main Zainab huṅ ye Bibi ki sada hogi
 
   Mere Maula Ali ko jis ghari aayi qaza hogi
 
@@ -34,17 +34,17 @@ romanLyrics: |-
 
   4
   Baroz-e-Eid kalma go bahut khushiyaaṅ manaayeṅ ge
-  Tumhaare gham meiṅ hum baba magar aansu bahaayeṅ ge
+  Tumhaare gham mein hum baba magar aansu bahaayeṅ ge
   Bataao Eid kya baba yatimoṅ ki bhala hogi
 
   5
   Rida sar pe nahiṅ hogi sharaabi humsafar hoṅ ge
   Sinaaṅ ki nok pe baba tumhaare sab pisar hoṅ ge
-  Jahaaṅ bhi jaayegi Zainab wahaaṅ pe Karbala hogi
+  Jahaaṅ bhi jaaye gi Zainab wahaaṅ pe Karbala hogi
 
   6
   Kabhi Aal-e-Muhammad ke nahiṅ gham ko bhula sakte
-  Hai jab tak dard sinoṅ meiṅ nahiṅ Eideṅ mana sakte
+  Hai jab tak dard sinoṅ mein nahiṅ Eideṅ mana sakte
   Baroz-e-Eid bhi Mohsin hamaare ghar aza hogi
 ---
 رہ گئی تنہا بیٹیاں بابا ہائے کوفہ شہر میں

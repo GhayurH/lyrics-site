@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Kamar kiuṅ kham na ho dil gham se tute kiuṅ na Sarwar ka
-  Alambardaar aakhir bhaai tha baazu baraabar ka
+  Alambardaar aakhir bhaai tha baazu baraadar ka
 
   3
   Lab-e-darya alambardaar bhi kaam aa gaya aakhir
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Said zaar par jab bhi koi uftaad parti hai
-  Bas ek aadat si hai wo naam leta hai Haidar ka
+  Bas ik aadat si hai wo naam leta hai Haidar ka
 ---
 مجھے مطلوب ہوگا جام لینا جب بھی کوثر کا
 سلام ایسا پڑھوں گا دل بھر آئے گا پیمبر کا

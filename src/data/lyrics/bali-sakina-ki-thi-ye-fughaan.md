@@ -28,7 +28,7 @@ romanLyrics: |-
   2
   Shaam-e-gharibaaṅ khaimoṅ meiṅ aa kar
   Aag laga di jis dam laiṅ ne
-  Khauf tha har su Sayyidaaniyoṅ meiṅ
+  Khauf tha har su sayyidaaniyoṅ meiṅ
   Dar se ae Baba sehme the bachche
   Chhaaya hua tha har su dhuaaṅ
   Ae mere Baba ae mere Baba
@@ -75,10 +75,10 @@ romanLyrics: |-
 
   8
   Pyaas ki shiddat se ab to mere
-  Saare badan meiṅ raashe pare haiṅ
-  Saaṅs bhi lena hai mera mushkil
+  Saare badan meiṅ raaishe pare haiṅ
+  Saans bhi lena hai mera mushkil
   Halq meiṅ mere chhaale pare haiṅ
-  Lagta hai ab hai hoṅtoṅ pe jaaṅ
+  Lagta hai ab hai hontoṅ pe jaaṅ
   Ae mere Baba ae mere Baba
 
   9

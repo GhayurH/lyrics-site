@@ -1,30 +1,48 @@
 ---
-title: "Baba Haq Lain Gayi Saan Main Lyrics In Punjabi 2022"
+title: "بابا حق لین گئی ساں میں"
+alternateTitle: "Baba Haq Lain Gayi Saan Main"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba haq lain gayi saan main jhirkaan kha ke aa gayi aan
+  Teri sand de tukray cha ke Baba main rondi rayi aan
+  Jo main manzar wekh aayi ya Ali darbar wich
+  Shabeer de sar Zainab di chadar diyaan fikraan paiyaan
+  Mera Mohsin mar chadiya zakhmi aye Zahra teri
+  Kida naam lawaan kitay ne mere te zulm kayiyaan
+  Aawan na mere janazay te mere qatil ne jo
+  Rakho yaad Hasan de Baba main wasiyat kardi paiyaan
+  Samne dhiyaan te putraan marday mainu ray
+  Baon sakhtiyaan baad tere haye Zahra ne Baba sehyaan
+  Koi na ghamkhuwar aaya ghar mera sarda riya
+  Main pak Nabi di dhi aan haye qadraan bhul ne gayiyaan
+  Rowan te mere pabandiyaan landi aye ummat teri
+  Majboor kadi na howan haye dhiyaan mere jaiyaan
+  Aa musafir Karbala da Sham di qaidan meri
+  Sajjad si aakhri sahwaan ayeh keh ke Zahra laiyaan
 ---
 
-1
-Baba Haq Lain Gayi Saan Main Lyrics
-Baba Haq Lain Gayi Saan Main Jhirkaan Kha Ke Aa Gayi Aan.
-Teri Sand De Tukray Cha Ke Baba Main Rondi Rayi Aan.
-Jo Main Manzar Wekh Aayi Ya Ali Darbar Wich.
-Shabeer De Sar Zainab Di Chadar Diyaan Fikraan Paiyaan.
-Mera Mohsin Mar Chadiya Zakhmi Aye Zahra Teri.
-Kida Naam Lawaan Kitay Ne Mere Te Zulm Kayiyaan.
-Aawan Na Mere Janazay Te Mere Qatil Ne Jo.
-Rakho Yaad Hasan De Baba Main Wasiyat Kardi Paiyaan.
-Samne Dhiyaan Te Putraan Marday Mainu Ray.
-Baon Sakhtiyaan Baad Tere Haye Zahra Ne Baba Sehyaan.
-Koi Na Ghamkhuwar Aaya Ghar Mera Sarda Riya.
-Main Pak Nabi Di Dhi Aan Haye Qadraan Bhul Ne Gayiyaan.
-Rowan Te Mere Pabandiyaan Landi Aye Ummat Teri.
-Majboor Kadi Na Howan Haye Dhiyaan Mere Jaiyaan.
-Aa Musafir Karbala Da Sham Di Qaidan Meri.
- Sajjad Si Aakhri Sahwaan Ayeh Keh Ke Zahra Laiyaan.
+۱
+بابا حق لین گئی ساں میں جھڑکاں کھا کے آ گئی آں
+تیری سند دے ٹکڑے چا کے بابا میں روندی رہی آں
+جو میں منظر ویکھ آئی یا علی دربار وچ
+شبیر دے سر زینب دی چادر دیاں فکراں پئیاں
+میرا محسن مار چھڈیا زخمی اے زہرا تیری
+کیہدا ناں لواں کیتے نے میرے تے ظلم کئیاں
+آون نہ میرے جنازے تے میرے قاتل نے جو
+رکھو یاد حسن دے بابا میں وصیت کردی پئیاں
+سامنے دھیاں تے پتراں ماردے مینوں رہے
+بہوں سختیاں بعد تیرے ہائے زہرا نے بابا سہیاں
+کوئی نہ غمخوار آیا گھر میرا سڑدا ریا
+میں پاک نبی دی دھی آں ہائے قدراں بھل نے گئیاں
+روواں تے میرے پابندیاں لاندی اے امت تیری
+مجبور کدی نہ ہوواں ہائے دھیاں میرے جئیاں
+آ مسافر کربلا دا شام دی قیداں میری
+سجاد سی آخری ساہواں ایہہ کہہ کے زہرا لئیاں

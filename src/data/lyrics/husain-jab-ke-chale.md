@@ -21,7 +21,7 @@ romanLyrics: |-
   Faqat behan ne kiya tha sawaar bhaai ko
 
   2
-  Dar-e-qayaam pa ahl-e-haram bilakte the
+  Dar-e-qiyaam pa ahl-e-haram bilakte the
   Zamiṅ pa Aabid-e-bimaar sar patakte the
   Behan jo roti thi mur mur ke shaah takte the
   Zabaan khushk thi kuch baat kar na sakte the
@@ -32,12 +32,12 @@ romanLyrics: |-
   Koi pukaarti thi ro ro ke ya Ali faryaad
   Tumhaare betiyaṅ jangal meiṅ hoti hai barbaad
   Koi malul koi nauhagar koi naashaad
-  Kahiṅ zamin pa Baaqir tha aur kahiṅ Sajjad
+  Kahiṅ zamin pa Baaqir tha aur kahiṅ Sajjaad
   Falak pa gul tha ke ruh-e-Batul roti hai
   Sakina chaar baras ki yatim hoti hai
 
   4
-  Ye fikr kar ke lage rone sayyed-e-abraar
+  Ye fikr kar ke lage rone Sayyid-e-abraar
   Tab aayi kaan meiṅ aawaaz-e-Ahmad-e-Mukhtaar
   Husain teri gharibi pa ye Rasul nisaar
   Agarche chal nahiṅ sakta ye pyaas se rahwaar

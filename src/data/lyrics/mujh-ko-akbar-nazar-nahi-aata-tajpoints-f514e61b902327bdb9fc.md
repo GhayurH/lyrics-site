@@ -1,34 +1,58 @@
 ---
-title: "Mujh Ko Akbar Nazar Nahi Aata"
+title: "مجھ کو اکبر نظر نہیں آتا"
+alternateTitle: "Mujh Ko Akbar Nazar Nahi Aata"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qasim"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mujh ko Akbar nazar nahi aata
+  Tha yeh maqtal mein Shah ka noha mujh ko Akbar nazar nahi aata
+  Noor aankhon ka bujh gaya mera mujh ko Akbar nazar nahi aata
+  Mil ke qasid ke sath rote hain
+  Khat ko dil se laga ke kehte hain
+  Kis ko parh kar sunaon main Sughra mujh ko Akbar nazar nahi aata
+  Haal Shah-e-Najaf yeh mera hai
+  Charon janib faqat andhera hai
+  Aaein imdad ko meri Baba mujh ko Akbar nazar nahi aata
+  Ro ke Akbar se kehte they Shabir
+  Dhondne mein tujhe hoi takheer
+  Shamiyon se main kis tarha kehta mujh ko Akbar nazar nahi aata
+  Aao Zainab mujhe sahara do
+  Ya sadaein do apne ghazi ko
+  Kaise lasha uthaon main tanha mujh ko Akbar nazar nahi aata
+  Jald pohanchon main pas Akbar ke
+  Phal sina ka nikalon seene se
+  Ran mein har so ghobar hai urta mujh ko Akbar nazar nahi aata
+  Haal Qasim ajeeb tha ran mein
+  Bain karte they Shah waan ban mein
+  Bain karti thin khaimo mein Laila mujh ko Akbar nazar nahi aata
 ---
 
-1
-Mujh Ko Akbar Nazar Nahi Aata.
-Tha Yeh Maqtal Mein Shah Ka Noha Mujh Ko Akbar Nazar Nahi Aata.
-Noor Aankhon Ka Bujh Gaya Mera Mujh Ko Akbar Nazar Nahi Aata.
-Mil Ke Qasid Ke Sath Rote Hain.
-Khat Ko Dil Se Laga Ke Kehte Hain.
-Kis Ko Parh Kar Sunaon Main Sughra Mujh Ko Akbar Nazar Nahi Aata.
-Haal Shah-e-Najaf Yeh Mera Hai.
-Charon Janib Faqat Andhera Hai.
-Aaein Imdad Ko Meri Baba Mujh Ko Akbar Nazar Nahi Aata.
-Ro Ke Akbar Se Kehte They Shabir.
-Dhondne Mein Tujhe Hoi Takheer.
-Shamiyon Se Main Kis Tarha Kehta Mujh Ko Akbar Nazar Nahi Aata.
-Aao Zainab Mujhe Sahara Do.
-Ya Sadaein Do Apne Ghazi Ko.
-Kaise Lasha Uthaon Main Tanha Mujh Ko Akbar Nazar Nahi Aata.
-Jald Pohanchon Main Pas Akbar Ke.
-Phal Sina Ka Nikalon Seene Se.
-Ran Mein Har So Ghobar Hai Urta Mujh Ko Akbar Nazar Nahi Aata.
-Haal Qasim Ajeeb Tha Ran Mein.
-Bain Karte They Shah Waan Ban Mein.
-Bain Karti Thin Khaimo MEin Laila Mujh Ko Akbar Nazar Nahi Aata.
+۱
+مجھ کو اکبر نظر نہیں آتا
+تھا یہ مقتل میں شاہ کا نوحہ، مجھ کو اکبر نظر نہیں آتا
+نور آنکھوں کا بجھ گیا میرا، مجھ کو اکبر نظر نہیں آتا
+مل کے قاصد کے ساتھ روتے ہیں
+خط کو دل سے لگا کے کہتے ہیں
+کس کو پڑھ کر سناؤں میں صغریٰ، مجھ کو اکبر نظر نہیں آتا
+حال شاہِ نجف یہ میرا ہے
+چاروں جانب فقط اندھیرا ہے
+آئیں امداد کو میری بابا، مجھ کو اکبر نظر نہیں آتا
+رو کے اکبر سے کہتے تھے شبیر
+ڈھونڈنے میں تجھے ہوئی تاخیر
+شامیوں سے میں کس طرح کہتا، مجھ کو اکبر نظر نہیں آتا
+آؤ زینب مجھے سہارا دو
+یا صدائیں دو اپنے غازی کو
+کیسے لاشہ اٹھاؤں میں تنہا، مجھ کو اکبر نظر نہیں آتا
+جلد پہنچوں میں پاس اکبر کے
+پھل سناں کا نکالوں سینے سے
+رن میں ہر سو غبار ہے اڑتا، مجھ کو اکبر نظر نہیں آتا
+حال قاسم عجیب تھا رن میں
+بین کرتے تھے شاہ واں بن میں
+بین کرتی تھیں خیموں میں لیلیٰ، مجھ کو اکبر نظر نہیں آتا

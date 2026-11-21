@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Azadarane imam e Husain
-  Ali ki sher dil beti zainabe kubra
-  Baazaroṅ meiṅ Husain ke baad
-  Dar badar phirayi gayi
+  Azaadaaraan-e-Imaam-e-Husain
+  Ali ki sher dil beti Zainab-e-Kubra
+  Baazaaroṅ meiṅ Husain ke baad
+  Dar badar phiraayi gayi
   Abbas ke behan ko jab khabar mili
-  Bazaar e sham aagaya
-  Bazaar e shaam ka hujum
-  Tamashaiyoṅ ka hujum
-  Ali ki beti ne najaf ki taraf rukh kiya
-  Besaakhta baba ali ko awaaz di
+  Baazaar-e-Shaam aa gaya
+  Baazaar-e-Shaam ka hujum
+  Tamaashaaiyoṅ ka hujum
+  Ali ki beti ne Najaf ki taraf rukh kiya
+  Besaakhta Baba Ali ko aawaaz di
   Baba baba are baba
-  Hogayi berida waqt kaisa para
-  Sar khula hai mera baba shaam aagaya
+  Ho gayi berida waqt kaisa para
+  Sar khula hai mera baba Shaam aa gaya
   Kaun hai ab mera ae mere baba jaaṅ
-  Qaid hu bekhata baba shaam aagaya
-  Aap ko hai khabar kitni hairaan hoo
-  Jaungi kis tarha mai pareshan hoo
-  Bhir hai har taraf aur mai nange sar
-  Aagayi berida baba shaam agaya
-  Hogayi berida...
-  Bekafan bhai ko chor kar aa gayi
-  Bhai aisa ke tha jo meri zindagi
-  Jism karbal meiṅ hai aur naize par sar
-  Bhai ka hai charha baba shaam agaya
-  Hogayi berida...
-  Kis se jaake bhala haale dil mai kahoo
-  Baba imdaad ko ab sada kis ko doo
-  Qatl ran meiṅ huwe haye sher mere
-  Jinka tha aasra baba shaam agaya
-  Hogayi berida...
+  Qaid ho bekhata baba Shaam aa gaya
+  Aap ko hai khabar kitni hairaan huṅ
+  Jaa'uṅ gi kis tarah main pareshaan huṅ
+  Bhir hai har taraf aur main nange sar
+  Aa gayi berida baba Shaam aa gaya
+  Ho gayi berida...
+  Bekafan bhaai ko chhor kar aa gayi
+  Bhaai aisa ke tha jo meri zindagi
+  Jism Karbal meiṅ hai aur neze par sar
+  Bhaai ka hai charha baba Shaam aa gaya
+  Ho gayi berida...
+  Kis se jaake bhala haal-e-dil main kahuṅ
+  Baba imdaad ko ab sada kis ko duṅ
+  Qatl ran meiṅ hue haaye sher mere
+  Jin ka tha aasra baba Shaam aa gaya
+  Ho gayi berida...
   Dil meiṅ hasrat thi jo puri ho na saki
-  Shadi akbar ki kab haye zainab ne ki
-  Dil pe khaye sina mar gaya naujawaṅ
-  Dulha ban na saka baba shaam agaya
-  Hogayi berida...
-  Ghairat e sayyeda mai hoo binte ali
-  Majma e aam meiṅ aaj hoo mai khari
-  Dekh kar berida kiuṅ na bhai mera
-  Khun roye bhala baba shaam agaya
-  Hogayi berida...
-  Har muhibbe ali us ghari ro diya
-  Jab ke imran ne nauha danish parha
+  Shaadi Akbar ki kab haaye Zainab ne ki
+  Dil pe khaaye sinaaṅ mar gaya naujawaaṅ
+  Dulha ban na saka baba Shaam aa gaya
+  Ho gayi berida...
+  Ghairat-e-Sayyeda main huṅ bint-e-Ali
+  Majma-e-aam meiṅ aaj huṅ main khari
+  Dekh kar berida kiuṅ na bhaai mera
+  Khun roye bhala baba Shaam aa gaya
+  Ho gayi berida...
+  Har muhibb-e-Ali us ghari ro diya
+  Jab ke Imran ne nauha Danish parha
   Shaam meiṅ aa gayi aap ki laadli
-  Do mujhe hausla baba shaam agaya
-  Hogayi berida...
+  Do mujhe hausla baba Shaam aa gaya
+  Ho gayi berida...
 ---
 
 ۱

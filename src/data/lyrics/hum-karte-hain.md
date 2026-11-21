@@ -60,7 +60,7 @@ romanLyrics: |-
   Har dil ki dharkan kehti hai
   Yaaṅ yaad-e-Asghar rehti hai
   Har dil hai Asghar ka jhula
-  Har lab pa rahega ye nauha
+  Har lab pe rahega ye nauha
 
   9
   Wo nok-e-sinaaṅ wo phul sa sar

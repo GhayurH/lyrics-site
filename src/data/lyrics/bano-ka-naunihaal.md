@@ -12,8 +12,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Betegh ran ko jaata hai Bano ka naunihaal
-  Kamsin hai bhuka pyaasa hai Bano ka naunihaal
+  Be tegh ran ko jaata hai Bano ka naunihaal
+  Kam sin hai bhuka pyaasa hai Bano ka naunihaal
 
   1
   Apni aba meiṅ us ko chhupa lo kari hai dhup
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   4
   Baali Sakina rok rahi hai pakar ke haath
-  Bhaiya na jaao ran ko maiṅ kheluṅgi kis ke saath
+  Bhaiya na jaao ran ko main kheluṅ gi kis ke saath
   Roko na mujh ko kehta hai Bano ka naunihaal
 
   5
-  Kis ne kaha ke pyaas se rota tha shirkhwaar
+  Kis ne kaha ke pyaas se rota tha shir khwaar
   Izn-e-jihaad maang raha tha woh baar baar
   Maidaaṅ meiṅ muskuraaya hai Bano ka naunihaal
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   8
   Dekho chala woh tir kamaaṅ se su-e-saghir
-  Kaaṅpi zamiṅ-e-Karb o Bala roe bezamir
+  Kaanpi zamiṅ-e-Karb o Bala roe be zamir
   Jab tir kha ke tarpa hai Bano ka naunihaal
 
   9

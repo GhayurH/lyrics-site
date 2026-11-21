@@ -1,62 +1,114 @@
 ---
-title: "Mere Imam Bohat Jald Aaney Waley Hain Mehdi Rizvi"
+title: "میرے امام بہت جلد آنے والے ہیں مہدی رضوی"
+alternateTitle: "Mere Imam Bohat Jald Aaney Waley Hain Mehdi Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Izhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mere imam bohat jald aaney waley hain Mehdi Rizvi
+  Maula ko khat mein likhe hain halaat bar bar
+
+  1
+  Hoti rahi hai aadhi mulaqaat bar bar
+  Maula kab aaein gay main unhein kya jawab doon
+  Atfal pochtay hain sawalaat bar bar
+  Mere imam bohat jald aane walay hain
+
+  2
+  Woh ab jahan ko gulistaan bananey walay hain
+  Batool dadi hain inn ki Rasool jad inn ke
+  Ali Wali se hi miltay hain silsilay sare
+  Imam-e-Asar tu aounchay gharanay walay hain
+
+  3
+  Imam aa gaye ab ho ga shoor yeh ghar ghar
+  Hai kuch hi dair keh rakhein gay unn ke paon mein sar
+  Yeh jo arezay ke likhney likhane walay hain
+  Yehi tu rokein gay zulm-o-sitam ke tofaan ko
+
+  4
+  Yehi jagaein gay aa kar zameer-e-insaan ko
+  Yehi tu jagtay fitney solaney walay hain
+  Hamesha jin mein nazar aaye hain sajod-o-qiyam
+  Keh jin mein dekha hai har bar hi zahoor-e-imam
+
+  5
+  Mere woh khuwab bhi tabeer paney walay hain
+  Khuda se milney hi Wali hai ab ijazat bhi
+  Woh ab dikhaney hi walay hain apni qowat bhi
+  Woh jald taig ke johar dikhaney walay hain
+
+  6
+  Inhi ka saya hai hum sab pe qayam-o-daim
+  Hai koi khof tu aa jao janib-e-Qayam
+  Keh yeh hi zulm-o-sitam se bachney walay hain
+  Yaqeen hai mujh ko ab aa jaye ga mera Maula
+
+  7
+  Na rook paye ga zalim koi bhi dunya ka
+  Hain inn ke sath hi Abbas aane walay hain
+  Hain yeh jo ain mutabiq mere aqeeday ke
+  Yeh teer hain mere tarkash mein jo tabarey ke
+
+  8
+  Yehi tu apne hadaf par nishane walay hain
+  Bas ab tu jald hi Izhar shoq-e-midhat se
+  Imam-e-waqt ke darbar mein aqeedat se
+  Unhi ki madah unhi ko sunanay walay hain
 ---
 
-Mere Imam Bohat Jald Aaney Waley Hain Mehdi Rizvi.
-Maula Ko Khat Mein Likhe Hain Halaat Bar Bar.
+میرے امام بہت جلد آنے والے ہیں مہدی رضوی
+مولا کو خط میں لکھے ہیں حالات بار بار
 
-1
-Hoti Rahi Hai Aadhi Mulaqaat Bar Bar.
-Maula Kab Aaein Gay Main Unhein Kya Jawab Doon.
-Atfal Pochtay Hain Sawalaat Bar Bar.
-Mere Imam Bohat Jald Aane Walay Hain.
+۱
+ہوتی رہی ہے آدھی ملاقات بار بار
+مولا کب آئیں گے میں انہیں کیا جواب دوں
+اطفال پوچھتے ہیں سوالات بار بار
+میرے امام بہت جلد آنے والے ہیں
 
-2
-Woh Ab Jahan Ko Gulistaan Bananey Walay Hain.
-Batool Dadi Hain Inn Ki Rasool Jad Inn Ke.
-Ali Wali Se Hi Miltay Hain Silsilay Sare.
-Imam-e-Asar Tu Aounchay Gharanay Walay Hain.
+۲
+وہ اب جہاں کو گلستاں بنانے والے ہیں
+بتول دادی ہیں ان کی رسول جد ان کے
+علی ولی سے ہی ملتے ہیں سلسلے سارے
+امامِ عصر تو اونچے گھرانے والے ہیں
 
-3
-Imam Aa Gaye Ab Ho Ga Shoor Yeh Ghar Ghar.
-Hai Kuch Hi Dair Keh Rakhein Gay Unn Ke Paon Mein Sar.
-Yeh Jo Arezay Ke Likhney Likhane Walay Hain.
-Yehi Tu Rokein Gay Zulm-o-Sitam Ke Tofaan Ko.
+۳
+امام آ گئے اب ہو گا شور یہ گھر گھر
+ہے کچھ ہی دیر کہ رکھیں گے ان کے پاؤں میں سر
+یہ جو عریضے کے لکھنے لکھانے والے ہیں
+یہی تو روکیں گے ظلم و ستم کے طوفان کو
 
-4
-Yehi Jagaein Gay Aa Kar Zameer-e-Insaan Ko.
-Yehi Tu Jagtay Fitney Solaney Walay Hain.
-Hamesha Jin Mein Nazar Aaye Hain Sajod-o-Qiyam.
-Keh Jin Mein Dekha Hai Har Bar Hi Zahoor-e-Imam.
+۴
+یہی جگائیں گے آ کر ضمیرِ انسان کو
+یہی تو جاگتے فتنے سلانے والے ہیں
+ہمیشہ جن میں نظر آئے ہیں سجود و قیام
+کہ جن میں دیکھا ہے ہر بار ہی ظہورِ امام
 
-5
-Mere Woh Khuwab Bhi Tabeer Paney Walay Hain.
-Khuda Se Milney Hi Wali Hai Ab Ijazat Bhi.
-Woh Ab Dikhaney Hi Walay Hain Apni Qowat Bhi.
-Woh Jald Taig Ke Johar Dikhaney Walay Hain.
+۵
+میرے وہ خواب بھی تعبیر پانے والے ہیں
+خدا سے ملنے ہی والی ہے اب اجازت بھی
+وہ اب دکھانے ہی والے ہیں اپنی قوت بھی
+وہ جلد تیغ کے جوہر دکھانے والے ہیں
 
-6
-Inhi Ka Saya Hai Hum Sab Pe Qayam-o-Daim.
-Hai Koi Khof Tu Aa Jao Janib-e-Qayam.
-Keh Yeh Hi Zulm-o-Sitam Se Bachney Walay Hain.
-Yaqeen Hai Mujh Ko Ab Aa Jaye Ga Mera Maula.
+۶
+انہی کا سایہ ہے ہم سب پہ قائم و دائم
+ہے کوئی خوف تو آ جاؤ جانبِ قائم
+کہ یہ ہی ظلم و ستم سے بچنے والے ہیں
+یقین ہے مجھ کو اب آ جائے گا میرا مولا
 
-7
-Na Rook Paye Ga Zalim Koi Bhi Dunya Ka.
-Hain Inn Ke Sath Hi Abbas Aane Walay Hain.
-Hain Yeh Jo Ain Mutabiq Mere Aqeeday Ke.
-Yeh Teer Hain Mere Tarkash Mein Jo Tabarey Ke.
+۷
+نہ روک پائے گا ظالم کوئی بھی دنیا کا
+ہیں ان کے ساتھ ہی عباس آنے والے ہیں
+ہیں یہ جو عین مطابق میرے عقیدے کے
+یہ تیر ہیں میرے ترکش میں جو تبرّے کے
 
-8
-Yehi Tu Apne Hadaf Par Nishane Walay Hain.
-Bas Ab Tu Jald Hi Izhar Shoq-e-Midhat Se.
-Imam-e-Waqt Ke Darbar Mein Aqeedat Se.
-Unhi Ki Madah Unhi Ko Sunanay Walay Hain.
+۸
+یہی تو اپنے ہدف پر نشانے والے ہیں
+بس اب تو جلد ہی اظہار شوقِ مدحت سے
+امامِ وقت کے دربار میں عقیدت سے
+انہی کی مدح انہی کو سنانے والے ہیں

@@ -1,41 +1,72 @@
 ---
-title: "Hussain Ki Yeh Mohabbat Hai Our Musalsal Hai"
+title: "حسین کی یہ محبت ہے اور مسلسل ہے"
+alternateTitle: "Hussain Ki Yeh Mohabbat Hai Our Musalsal Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hussain ki yeh mohabbat hai our musalsal hai
+  Yeh Kibriya ki inayat hai our musalsal hai
+  Yeh Arsh, Kursi-o-Kausar yeh Salsabeel teri
+  Hussain teri hakomat hai our musalsal hai
+
+  2
+  Naseeb mein jo na ho woh Hussain se mango
+  Yaan mangney ki ijazat hai our musalsal hai
+  Phir Al-Ajal ki sadaon ka shoor hai har so
+  Hussain teri zarorat hai our musalsal hai
+
+  3
+  Khuda ka shukar kabhi bhi qaza nahi hoti
+  Meri namaz-e-wilayat hai our musalsal hai
+  Ibadaton ki ibadat Hussain ka matam
+  Yeh meri maa ki nasehat hai our musalsal hai
+
+  4
+  Ali ka jo bhi addo hai woh lanati hai hazoor!
+  Ali se oss ko adawat hai our musalsal hai
+  Bata diya hai Nabi ke taveel sajday ne
+  Hussain roh-e-ibadat hai our musalsal hai
+
+  5
+  Hussain fatah-e-aalam hai tey howa hai Batool
+  Yazid ke liye lanat hai our musalsal hai
+  Addo samjhta hai hum qatal ho rahe hain Batool
+  Hazoor! yeh tu shahadat hai our musalsal hai
 ---
 
-1
-Hussain Ki Yeh Mohabbat Hai Our Musalsal Hai.
-Yeh Kibriya Ki Inayat Hai Our Musalsal Hai.
-Yeh Arsh, Kursi-o-Kausar Yeh Salsabeel Teri.
-Hussain Teri Hakomat Hai Our Musalsal Hai.
+۱
+حسین کی یہ محبت ہے اور مسلسل ہے
+یہ کبریا کی عنایت ہے اور مسلسل ہے
+یہ عرش، کرسی و کوثر یہ سلسبیل تیری
+حسین تیری حکومت ہے اور مسلسل ہے
 
-2
-Naseeb Mein Jo Na Ho Woh Hussain Se Mango.
-Yaan Mangney Ki Ijazat Hai Our Musalsal Hai.
-Phir Al-Ajal Ki Sadaon Ka Shoor Hai Har So.
-Hussain Teri Zarorat Hai Our Musalsal Hai.
+۲
+نصیب میں جو نہ ہو وہ حسین سے مانگو
+یاں مانگنے کی اجازت ہے اور مسلسل ہے
+پھر العجل کی صداؤں کا شور ہے ہر سو
+حسین تیری ضرورت ہے اور مسلسل ہے
 
-3
-Khuda Ka Shukar Kabhi Bhi Qaza Nahi Hoti.
-Meri Namaz-e-Wilayat Hai Our Musalsal Hai.
-Ibadaton Ki Ibadat Hussain Ka Matam.
-Yeh Meri Maa Ki Nasehat Hai Our Musalsal Hai.
+۳
+خدا کا شکر کبھی بھی قضا نہیں ہوتی
+میری نمازِ ولایت ہے اور مسلسل ہے
+عبادتوں کی عبادت حسین کا ماتم
+یہ میری ماں کی نصیحت ہے اور مسلسل ہے
 
-4
-Ali Ka Jo Bhi Addo Hai Woh Lanati Hai Hazoor!.
-Ali Se Oss Ko Adawat Hai Our Musalsal Hai.
-Bata Diya Hai Nabi Ke Taveel Sajday Ne.
-Hussain Roh-e-Ibadat Hai Our Musalsal Hai.
+۴
+علی کا جو بھی عدو ہے وہ لعنتی ہے حضور!
+علی سے اس کو عداوت ہے اور مسلسل ہے
+بتا دیا ہے نبی کے طویل سجدے نے
+حسین روحِ عبادت ہے اور مسلسل ہے
 
-5
-Hussain Fatah-e-Aalam Hai Tey Howa Hai Batool.
-Yazid Ke Liye Lanat Hai Our Musalsal Hai.
-Addo Samjhta Hai Hum Qatal Ho Rahe Hain Batool.
-Hazoor! Yeh Tu Shahadat Hai Our Musalsal Hai.
+۵
+حسین فتحِ عالم ہے طے ہوا ہے بتول
+یزید کے لیے لعنت ہے اور مسلسل ہے
+عدو سمجھتا ہے ہم قتل ہو رہے ہیں بتول
+حضور! یہ تو شہادت ہے اور مسلسل ہے

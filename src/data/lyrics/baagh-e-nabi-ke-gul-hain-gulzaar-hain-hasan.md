@@ -12,22 +12,22 @@ aliases: ["Bagh-e-Nabi Ke Gul Hain Gulzar Hain Hasan"]
 published: true
 romanLyrics: |-
   Baagh-e-Nabi ke gul haiṅ gulzaar haiṅ Hasan
-  Beshaq ke imamat ke taajdaar haiṅ Hasan
+  Beshak ke imamat ke taajdaar haiṅ Hasan
 
   1
-  Khair-al-Nisa ki god meiṅ ye dekh lo Ali
+  Khair-al-Nisa ki god mein ye dekh lo Ali
   Ik Mustafa ke din ki bahaar haiṅ Hasan
-  Galiyoṅ meiṅ Madine ki kehte the Musalmaan
+  Galiyoṅ mein Madine ki kehte the musalmaan
   Dosh-e-Nabi pe dekh lo sawaar haiṅ Hasan
 
   2
   Shaami ko takht par bhi bechain kar diya hai
   Kiuṅ ke Ali ki tarah jarraar haiṅ Hasan
-  Phir Shaam ke lashkar halchal na machae kiuṅ kar
+  Phir Shaam ke lashkar halchal na machaaye kiuṅ kar
   Wo saamne basurat-e-talwaar haiṅ Hasan
 
   3
-  Le kar Rasul god meiṅ kehte the baar baar
+  Le kar Rasul god mein kehte the baar baar
   Khaaliq ki muhabbat ka izhaar haiṅ Hasan
   Manzur karaaye Maula Zahra ke waaste se
   Farman Zaki ke jo ashaar haiṅ Hasan

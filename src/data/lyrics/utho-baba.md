@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye wo shaam e gharibaṅ wo andhera sehra
-  Jalte qaimon se chali ran ki taraf ek dukhiya
-  Aag daaman may thi kaano se lahu jaari tha
-  Baap ki laash pe aa kar ye sakina ne kaha
-  Kab se awaaz tumhe deti hoo pyare baba
-  Mujhse pehle bhala tum so gaye kaise baba
+  Haaye wo shaam-e-gharibaaṅ wo andhera sehra
+  Jalte khaimoṅ se chali ran ki taraf ik dukhiya
+  Aag daaman meiṅ thi kaanoṅ se lahu jaari tha
+  Baap ki laash pe aa kar ye Sakina ne kaha
+  Kab se aawaaz tumheiṅ deti huṅ pyaare baba
+  Mujh se pehle bhala tum so gaye kaise baba
   Utho baba utho baba utho baba
-  Shaam e gharibaṅ may tha sakina ka nauha
+  Shaam-e-gharibaaṅ meiṅ tha Sakina ka nauha
   Utho baba utho baba utho baba utho baba
-  Mai karungi na tamachoṅ ki kabhi tum se shikayat
-  Kya nahi aap ko baba apni beti se mohabbat
-  Dekho phupi se aa gaye milne ko dada
+  Maiṅ karuṅgi na tamaanchoṅ ki kabhi tum se shikaayat
+  Kya nahiṅ aap ko baba apni beti se mohabbat
+  Dekho phupi se aa gaye milne ko daada
   Utho baba...
-  Tum ko zehmat na ho patthar mai hata deti hu baba
-  Zakhmi haathoṅ se musalla mai bana deti hoo baba
-  Ho gaya ban may waqt namaz e maghrib ka
+  Tum ko zehmat na ho patthar maiṅ hata deti huṅ baba
+  Zakhmi haathoṅ se musalla maiṅ bana deti huṅ baba
+  Ho gaya ban meiṅ waqt namaaz-e-maghrib ka
   Utho baba...
-  Zakhm dukhte hai bahot mere sambhalo mujhe baba
-  Apni aaghosh may jaldi se chupa lo mujhe baba
-  Shimr ke darr se dam na nikal jaye mera
+  Zakhm dukhte haiṅ bahut mere sambhaalo mujhe baba
+  Apni aaghosh meiṅ jaldi se chhupa lo mujhe baba
+  Shimr ke dar se dam na nikal jaaye mera
   Utho baba...
-  Khuld se aaye the jore ye kabhi maa se suna tha
-  Chadareiṅ aaj manga do baba ehsaan ye hoga
-  Chin gaya ban may aap ki behno ka parda
+  Khuld se aaye the jore ye kabhi maaṅ se suna tha
+  Chaadareiṅ aaj manga do baba ehsaan ye hoga
+  Chhin gaya ban meiṅ aap ki behnoṅ ka parda
   Utho baba...
-  Tum se bichri thi mai kuch dayr to tuti ye qayamat
-  Jaane kya hogayi hogi unki cheh maah may haalat
-  Paas tumhare ban ke mai aayi hoo sughra
+  Tum se bichhri thi maiṅ kuchh der to tuti ye qayaamat
+  Jaane kya ho gayi hogi unki chhe maah meiṅ haalat
+  Paas tumhaare ban ke maiṅ aayi huṅ Sughra
   Utho baba...
-  Shimr ne maar ke durre usko jis waqt uthaya
-  Piche mur mur ke takallum yehi kehti thi sakina
-  Shaam chali hoo ab na bachungi mai zinda
+  Shimr ne maar ke durre usko jis waqt uthaaya
+  Pichhe mur mur ke Takallum yahi kehti thi Sakina
+  Shaam chali huṅ ab na bachungi maiṅ zinda
   Utho baba...
 ---
 

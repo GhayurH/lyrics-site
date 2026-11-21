@@ -20,8 +20,8 @@ romanLyrics: |-
 
   1
   Musaafiroṅ ka Muharram mana lo ahl-e-aza
-  Jo aag dil meiṅ lagi hai bujha lo ahl-e-aza
-  Tum apni aankhoṅ meiṅ aansu saja lo ahl-e-aza
+  Jo aag dil mein lagi hai bujha lo ahl-e-aza
+  Tum apni aankhoṅ mein aansu saja lo ahl-e-aza
   Hai ek raat ki zehmat kaho Khuda haafiz
 
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
   Nahiṅ to hogi shikaayat kaho Khuda haafiz
 
   3
-  Baha ke ashk dil-e-Fatema ko shaad karo
+  Baha ke ashk dil-e-Fatema ko yaad karo
   Dil-e-Rasul ki puri har ek muraad karo
   Laga tha sina-e-Akbar pe zakhm yaad karo
   Milegi qalb ko raahat kaho Khuda haafiz
@@ -55,7 +55,7 @@ romanLyrics: |-
   Baha ke ashk-e-nadaamat kaho Khuda haafiz
 
   7
-  Aza-e-Shaah ki raunaq jo ghar se jaayegi
+  Aza-e-Sheh ki raunaq jo ghar se jaayegi
   Alam ki yaad hameiṅ saal bhar sataayegi
   Uthega taaziya ghar se to saath jaayegi
   Imaam baaroṅ ki zinat kaho Khuda haafiz
@@ -70,7 +70,7 @@ romanLyrics: |-
   Sadaaeiṅ aati hai reh reh ke saare aalam se
   Sukun milta hai dil ko Husain ke gham se
   Magar Husain ki khidmat na ho saki hum se
-  Diloṅ meiṅ reh gayi hasrat kaho Khuda haafiz
+  Diloṅ mein reh gayi hasrat kaho Khuda haafiz
 
   10
   Raza na haath se chhute Husain ka daaman

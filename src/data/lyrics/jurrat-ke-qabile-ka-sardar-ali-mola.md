@@ -15,15 +15,15 @@ romanLyrics: |-
   Sardaroṅ ke lashkar ka sardar Ali Maula
 
   1
-  Rakhte haiṅ jo log chashm-e basirat
+  Rakhte haiṅ jo log chashm-e-basirat
   Woh dekheṅ do bhaiyoṅ ki fazilat
   Meraj ki manzil meiṅ ek halke se parde ke
   Is paar Muhammad haiṅ, us paar Ali Maula
 
   2
-  Khud jis ko Khallaq-e Alam barhaye
+  Khud jis ko Khallaq-e-Aalam barhaye
   Kis meiṅ hai dam shaan us ki ghataye
-  Kaabe ka yeh kehna hai, iman hai Kaabe ki
+  Kaabe ka ye kehna hai, imaan ke Kaabe ki
   Mehrab Abu Talib, minar Ali Maula
 ---
 
@@ -32,7 +32,7 @@ romanLyrics: |-
 سرداروں کے لشکر کا سردار علی مولا
 
 ۱
-رکھتے ہیں جو لوگ چشم بصیرت
+رکھتے ہیں جو لوگ چشمِ بصیرت
 وہ دیکھیں دو بھائیوں کی فضیلت
 معراج کی منزل میں اک ہلکے سے پردے کے
 اِس پار محمد ہیں اُس پار علی مولا
@@ -40,5 +40,5 @@ romanLyrics: |-
 ۲
 خود جس کو خلاق عالم بڑھائے
 کس میں ہے دم شان اُس کی گھٹائے
-کعبے کا یہ کہنا ہے ایمان کی کعبے کی
+کعبے کا یہ کہنا ہے ایمان کے کعبے کی
 محراب ابو طالب مینار علی مولا

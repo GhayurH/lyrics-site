@@ -21,19 +21,19 @@ romanLyrics: |-
 
   2
   Ab koi hukm na aaye ga zamaane ke liye
-  Ho gaya aakhri aelaan Ghadir-e-Khum meiṅ
+  Ho gaya aakhri elaan Ghadir-e-Khum meiṅ
 
   3
-  Garam jhoṅkoṅ pe hawaaoṅ ke Abuzar haṅs kar
+  Garam jhonkoṅ pe hawaaoṅ ke Abu Zar hans kar
   Parhte haiṅ Sura-e-Rehman Ghadir-e-Khum meiṅ
 
   4
-  Parda-e-chashm se aaṅsu nikal aaye baahir
+  Parda-e-chashm se aansu nikal aaye baahar
   Is qadar khush hue Salman Ghadir-e-Khum meiṅ
 
   5
   Un ko palaan mileṅ ge to kahiṅ jaayeṅ ge
-  Sheikh haiṅ besar o saamaan Ghadir-e-Khum meiṅ
+  Sheikh haiṅ be sar o saamaan Ghadir-e-Khum meiṅ
 
   6
   Haiṅ sar-e-mimbar-e-palaan Ali aur Nabi

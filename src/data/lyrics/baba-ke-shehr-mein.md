@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Is dar ki manzilat se to shaahid hai khud Khuda
   Beizn Jibrail bhi daakhil nahiṅ hua
-  Us dar pe aag dekh li baba ke shehr meiṅ
+  Is dar pe aag dekh li baba ke shehr meiṅ
 
   2
   Apne Nabi ki beti ko haq na diya gaya
@@ -31,13 +31,13 @@ romanLyrics: |-
   Ghurbat Ali ki dekh li baba ke shehr meiṅ
 
   4
-  Dil se abhi to zakhm padar ka nahi gaya
+  Dil se abhi to zakhm-e-padar ka nahiṅ gaya
   Aur zakhmi pehlu zulm se zaalim ke ho gaya
-  Kya kya jafa nahi hui baba ke shehr meiṅ
+  Kya kya jafa nahiṅ hui baba ke shehr meiṅ
 
   5
   Ro ro ke gham meiṅ baap ke jaati rahi nazar
-  Athaara saal meiṅ hui kham aap ki kamar
+  Athaara saal meiṅ hui khatm aap ki kamar
   Kitni zaifa ho gayi baba ke shehr meiṅ
 
   6

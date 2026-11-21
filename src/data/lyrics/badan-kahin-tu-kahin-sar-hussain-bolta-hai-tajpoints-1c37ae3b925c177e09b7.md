@@ -1,38 +1,65 @@
 ---
-title: "Badan Kahin Tu Kahin Sar Hussain Bolta Hai"
+title: "بدن کہیں تو کہیں سر حسین بولتا ہے"
+alternateTitle: "Badan Kahin Tu Kahin Sar Hussain Bolta Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Sahil"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Badan kahin tu kahin sar Hussain bolta hai
+  Shikast maut ko de kar Hussain bolta hai
+
+  1
+  Tu phir yeh tay hai ke marta nahi shaheed kabhi
+  Sina ki nook pe bhi gar Hussain bolta hai
+  Yazeediyat ko darati rahe gi nook-e-sina
+  Hussainiyat se na lar dar Hussain bolta hai
+
+  2
+  Yazeed kal bhi tujhe dasht mein shikast hoi
+  Yazeed aaj bhi ghar ghar Hussain bolta hai
+  Jahan bhi bait-e-fasiq ka ho sawal wahan
+  Zameer walon ke andar Hussain bolta hai
+
+  3
+  Wahan khateeb-e-Salooni ki yaad aati hai
+  Jahan bhi lehja badal kar Hussain bolta hai
+  Bhala woh maut se dar jaye kaise mumkin hai?
+  Jo subha-o-sham brabar Hussain bolta hai
+
+  4
+  Zuban zuban pe issi bolne ke tazkare hain
+  Kuch aise sibt-e-Paiyamber Hussain bolta hai
+  Jahan mein aaj bhi zulm ke robaro Sahil
+  Shaoor walon ka rehbar Hussain bolta hai
 ---
 
-Badan Kahin Tu Kahin Sar Hussain Bolta Hai.
-Shikast Maut Ko De Kar Hussain Bolta Hai.
+بدن کہیں تو کہیں سر حسین بولتا ہے
+شکست موت کو دے کر حسین بولتا ہے
 
-1
-Tu Phir Yeh Tay Hai Ke Marta Nahi Shaheed Kabhi.
-Sina Ki Nook Pe Bhi Gar Hussain Bolta Hai.
-Yazeediyat Ko Darati Rahe Gi Nook-e-Sina.
-Hussainiyat Se Na Lar Dar Hussain Bolta Hai.
+۱
+تو پھر یہ طے ہے کہ مرتا نہیں شہید کبھی
+سناں کی نوک پہ بھی گر حسین بولتا ہے
+یزیدیت کو ڈراتی رہے گی نوکِ سناں
+حسینیت سے نہ لڑ ڈر حسین بولتا ہے
 
-2
-Yazeed Kal Bhi Tujhe Dasht Mein Shikast Hoi.
-Yazeed Aaj Bhi Ghar Ghar Hussain Bolta Hai.
-Jahan Bhi Bait-e-Fasiq Ka Ho Sawal Wahan.
-Zameer Walon Ke Andar Hussain Bolta Hai.
+۲
+یزید کل بھی تجھے دشت میں شکست ہوئی
+یزید آج بھی گھر گھر حسین بولتا ہے
+جہاں بھی بیعتِ فاسق کا ہو سوال وہاں
+ضمیر والوں کے اندر حسین بولتا ہے
 
-3
-Wahan Khateeb-e-Salooni Ki Yaad Aati Hai.
-Jahan Bhi Lehja Badal Kar Hussain Bolta Hai.
-Bhala Woh Maut Se Dar Jaye Kaise Mumkin Hai?
-Jo Subha-o-Sham Brabar Hussain Bolta Hai.
+۳
+وہاں خطیبِ سلونی کی یاد آتی ہے
+جہاں بھی لہجہ بدل کر حسین بولتا ہے
+بھلا وہ موت سے ڈر جائے کیسے ممکن ہے؟
+جو صبح و شام برابر حسین بولتا ہے
 
-4
-Zuban Zuban Pe Issi Bolne Ke Tazkare Hain.
-Kuch Aise Sibt-e-Paiyamber Hussain Bolta Hai.
-Jahan Mein Aaj Bhi Zulm Ke Robaro Sahil
-Shaoor Walon Ka Rehbar Hussain Bolta Hai.
+۴
+زباں زباں پہ اسی بولنے کے تذکرے ہیں
+کچھ ایسے سبطِ پیمبر حسین بولتا ہے
+جہاں میں آج بھی ظلم کے روبرو ساحل
+شعور والوں کا رہبر حسین بولتا ہے

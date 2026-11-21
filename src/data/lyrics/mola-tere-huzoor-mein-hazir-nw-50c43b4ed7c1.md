@@ -1,54 +1,85 @@
 ---
-title: "Mola Tere Huzoor Mein Hazir Hai Ye Ghulam"
+title: "مولا تیرے حضور میں حاضر ہے یہ غلام"
+alternateTitle: "Mola Tere Huzoor Mein Hazir Hai Ye Ghulam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mola tere huzoor mein hazir hai ye ghulam
+
+  1
+  Ankhein taras rahi thi ziyarat ke waastay
+  Tarpa hoon aik umr mein iss din ke waastay
+  Karli jiye qubool Mola mera salam
+
+  2
+  Taaqat zaban mein hai kahan jo karoon kalam
+  Ashkon se kar raha hoon raqam haal e dil tamam
+  Ya shah e Mashreqain, ya shah e Tashnakaam
+
+  3
+  Qasim ka, Aun ka, Ali Asghar ka waasta
+  Abbas e naamdaar ka, Akbar ka waasta
+  Likh lee jiye huzoor ghulamon mein mera naam
+
+  4
+  Ahsaan mand hai shah e aali maqam ke
+  Rutbay buland kardiye Mola ghulam ke
+  Ab zairon mein aapkay aata hai mera naam
+
+  5
+  Aalam mein sar buland na ho kyun ye sar zameen
+  Rakhi yahan hai kaaba e imaan ne jabeen
+  Sota yahan hai Fatima Zehra ka laala khaam
+
+  6
+  Qausayn kis ko kehtay hai ye woh kamaan hai
+  Zer e zameen sota yahan asmaan hai
+  Roshan yahan hain khaak pe khursheed gaam gaam
+
+  7
+  Ugla lahoo Sagheer ne iss khaak e paak par
+  Shabbir dekhte rahay aur iss ki khaak par
+  Akbar ki na tamam jawani huwi tamam
 ---
 
-Mola Tere Huzoor Mein Hazir Hai Ye Ghulam
+مولا تیرے حضور میں حاضر ہے یہ غلام
 
-Ankhein Taras Rahi Thi Ziyarat Ke Waastay
+۱
+آنکھیں ترس رہی تھیں زیارت کے واسطے
+تڑپا ہوں ایک عمر میں اس دن کے واسطے
+کر لیجیے قبول مولا میرا سلام
 
-Tarpa Hoon Aik Umr Mein Iss Din Ke Waastay
+۲
+طاقت زباں میں ہے کہاں جو کروں کلام
+اشکوں سے کر رہا ہوں رقم حالِ دل تمام
+یا شاہِ مشرقین، یا شاہِ تشنہ کام
 
-Karli Jiye Qubool Mola Mera Salam
+۳
+قاسم کا، عون کا، علی اصغر کا واسطہ
+عباسِ نامدار کا، اکبر کا واسطہ
+لکھ لیجیے حضور غلاموں میں میرا نام
 
-Taaqat Zaban Mein Hai Kahan Jo Karoon Kalam
+۴
+احسان مند ہے شاہِ عالی مقام کے
+رتبے بلند کر دیے مولا غلام کے
+اب زائروں میں آپ کے آتا ہے میرا نام
 
-Ashkon Se Kar Raha Hoon Raqam Haal E Dil Tamam
+۵
+عالم میں سربلند نہ ہو کیوں یہ سرزمین
+رکھی یہاں ہے کعبۂ ایماں نے جبیں
+سوتا یہاں ہے فاطمہ زہرا کا لالۂ خام
 
-Ya Shah E Mashreqain, Ya Shah E Tashnakaam
+۶
+قوسین کس کو کہتے ہیں یہ وہ کمان ہے
+زیرِ زمیں سوتا یہاں آسماں ہے
+روشن یہاں ہیں خاک پہ خورشید گام گام
 
-Qasim Ka, Aun Ka, Ali Asghar Ka Waasta
-
-Abbas E Naamdaar Ka, Akbar Ka Waasta
-
-Likh Lee Jiye Huzoor Ghulamon Mein Mera Naam
-
-Ahsaan Mand Hai Shah E Aali Maqam Ke
-
-Rutbay Buland Kardiye Mola Ghulam Ke
-
-Ab Zairon Mein Aapkay Aata Hai Mera Naam
-
-Aalam Mein Sar Buland Na Ho Kyun Ye Sar Zameen
-
-Rakhi Yahan Hai Kaaba E Imaan Ne Jabeen
-
-Sota Yahan Hai Fatima Zehra Ka Laala Khaam
-
-Qausayn Kis Ko Kehtay Hai Ye Woh Kamaan Hai
-
-Zer E Zameen Sota Yahan Asmaan Hai
-
-Roshan Yahan Hain Khaak Pe Khursheed Gaam Gaam
-
-Ugla Lahoo Sagheer Ne Iss Khaak E Paak Par
-
-Shabbir Dekhte Rahay Aur Iss Ki Khaak Par
-
-Akbar Ki Na Tamam Jawani Huwi Tamam
+۷
+اگلا لہو صغیر نے اس خاکِ پاک پر
+شبیر دیکھتے رہے اور اس کی خاک پر
+اکبر کی ناتمام جوانی ہوئی تمام

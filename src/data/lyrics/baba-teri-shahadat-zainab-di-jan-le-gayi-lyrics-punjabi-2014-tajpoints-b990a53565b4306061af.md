@@ -1,32 +1,53 @@
 ---
-title: "Baba Teri Shahadat Zainab Di Jan Le Gayi Lyrics Punjabi 2014"
+title: "بابا تیری شہادت زینب دی جان لے گئی"
+alternateTitle: "Baba Teri Shahadat Zainab Di Jan Le Gayi"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Baba teri shahadat Zainab di jan le gayi
+  Mushkil Kusha di bachri was mushkilaan de pe gayi
+
+  1
+  Tere badoon iss shehar ne aynj phairiyaan ne nazraan
+  Kofay di aj hawa v mainu yateem keh gayi
+  Jis waqt da aye dhalya mere sir tu tera saya
+  Lagda piya aye chadar Zainab de sir taun le gayi
+
+  2
+  Ahsas ho riya aye be pardagi da mainu
+  Lagda aye saday ghar di har ik dewar deh gayi
+  Zainab da sir v zakhmi howay ga tere wangoon
+  Dastar teri Baba meri rida nu keh gayi
+
+  3
+  Disday paye ne mainu aasaar Karbala de
+  Haye Sham wali manzil bas thori door reh gayi
+  Zahra te seh na payi apne pidar da sadma
+  Tauqeer dhi Ali di kiwein piyo di maut seh gayi
 ---
 
-Baba Teri Shahadat Zainab Di Jan Le Gayi.
-Mushkil Kusha Di Bachri Was Mushkilaan De Pe Gayi.
+بابا تیری شہادت زینب دی جان لے گئی
+مشکل کشا دی بچڑی وس مشکلاں دے پے گئی
 
-1
-Tere Badoon Iss Shehar Ne Aynj Phairiyaan Ne Nazraan.
-Kofay Di Aj Hawa V Mainu Yateem Keh Gayi.
-Jis Waqt Da Aye Dhalya Mere Sir Tu Tera Saya.
-Lagda Piya Aye Chadar Zainab De Sir Taun Le Gayi.
+۱
+تیرے بدوں اِس شہر نے اینج پھیریاں نے نظراں
+کوفے دی اج ہوا وی مینوں یتیم کہہ گئی
+جس وقت دا اے ڈھلیا میرے سر توں تیرا سایہ
+لگدا پیا اے چادر زینب دے سر توں لے گئی
 
-2
-Ahsas Ho Riya Aye Be Pardagi Da Mainu.
-Lagda Aye Saday Ghar Di Har Ik Dewar Deh Gayi.
-Zainab Da Sir V Zakhmi Howay Ga Tere Wangoon.
-Dastar Teri Baba Meri Rida Nu Keh Gayi.
+۲
+احساس ہو ریا اے بے پردگی دا مینوں
+لگدا اے ساڈے گھر دی ہر اک دیوار ڈھے گئی
+زینب دا سر وی زخمی ہووے گا تیرے وانگوں
+دستار تیری بابا میری ردا نوں کہہ گئی
 
-3
-Disday Paye Ne Mainu Aasaar Karbala De.
-Haye Sham Wali Manzil Bas Thori Door Reh Gayi.
-Zahra Te Seh Na Payi Apne Pidar Da Sadma.
- Tauqeer Dhi Ali Di Kiwein Piyo Di Maut Seh Gayi.
+۳
+دسدے پئے نے مینوں آثار کربلا دے
+ہائے شام والی منزل بس تھوڑی دور رہ گئی
+زہرا تے سہہ نہ پائی اپنے پدر دا صدمہ
+توقیر دھی علی دی کیویں پیو دی موت سہہ گئی

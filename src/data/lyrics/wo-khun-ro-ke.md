@@ -12,31 +12,31 @@ aliases:
   - "Wo Khoon Ro Ke"
 published: true
 romanLyrics: |-
-  Wo khun ro ke kehta raha zamane se
-  Ridaeiṅ chino naa, logo mere gharane se
+  Wo khun ro ke ye kehta raha zamaane se
+  Ridaaeṅ chhinuṅ na, logoṅ, mere gharaane se
 
   1
-  Sawal-e-aab pe sone pe us ke rone pe
-  Wo maarte the, sakina ko her bahaane se
+  Sawaal-e-aab par sone par us ke rone par
+  Wo maarte the Sakina ko har bahaane se
 
   2
-  Bulae kis tarha abbas ko madad kai liyai
-  Wo berida thi, jhijhakti rahi bulane se
+  Bulaae kis tarah Abbas ko madad ke liye
+  Wo berida thiṅ, jhijhakti rahiṅ bulaane se
 
   3
-  Sulaya jaata tha bayhosh ker ke durroṅ se
-  Jagaya jata tha, abid ko taaziane se
+  Sulaaya jaata tha behosh kar ke durroṅ se
+  Jagaaya jaata tha Aabid ko taaziyaane se
 
   4
-  Kuch is terha sar-e-kerbobala wo ujre the
-  Ke dar rahe haiṅ, abhi tak wo ghar basaane se
+  Kuchh is tarah sar-e-Karb o Bala wo ujre the
+  Ke dar rahe haiṅ abhi tak wo ghar basaane se
 
   5
-  Kaha ye ganj-e-shahidaṅ mei baap ke sar ne
-  Mujhai sakina, bulati hai qaid khaane se
+  Kaha ye ganj-e-shahidaaṅ mein baap ke sar ne
+  Mujhe Sakina bulaati hai qaid khaane se
 
   6
-  Rida-e-saani-e-zehra mei dhal gaya akbar
+  Rida-e-saani-e-Zehra mein dhal gaya Akbar
   Ghubaar utha jo laashoṅ ke thar tharaane se
 ---
 

@@ -9,148 +9,74 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Musafirane Musibat Watan may Aate hain
-
+romanLyrics: |-
+  Na mahmil hai na haudaj hai
+  Na lashkar ki woh saj dhaj hai
+  Na sar pe alam na chaadar hai
+  Allah yeh kaisa manzar hai
 
   1
-
-  Na mehmil hai na haudaj hai
-
-  Na lashkar ki wo saj dhaj hai
-
-  Na sar pe Alam na chadar hai
-
-  Allah ye kesa manzar hai
-
+  Musaafiraan-e-musibat watan meiṅ aate haiṅ
+  Safar se aate haiṅ soghaat-e-dard laate haiṅ
+  Musaafiraan-e-musibat...
+  Kiya salaam Mohammad ke aastaane ko
 
   2
-
-  1) Safar se Aatey hain soghat e dard latey hain
-
-  Ya salam Mohammad saww ke Aastaney ko
-
-  Kata ke ayen hain Zehra sa ke sb gharaney ko
-
-  Na kar qabul tu hum be kason k aney ko
-
-  Ye noha krte hain or ashq e khoon bahate hain
-
+  Kata ke aaye haiṅ Zehra ke sab gharaane ko
+  Na qabul tuṅ ham be kasoṅ ke aane ko
+  Yeh nauha karte haiṅ aur ashk-e-khun bahaate haiṅ
 
   3
-
-  2) Madina hum tere wali ko ayen hain kho kar
-
-  Madina koofe me sar nange hum phire dar dar
-
-  Madina daag e rasan hain hamare shano par
-
-  Utha ke hath Madine ko ye sunate hain
-
+  Madina ham tere waali ko aaye haiṅ kho kar
+  Madina Kufe meiṅ sar nange ham phire dar dar
+  Madina daagh-e-rasan haiṅ hamaare shaanoṅ par
+  Utha ke haath Madine ko yeh sunaate haiṅ
 
   4
-
-  Ye kaise kaise jawan thay jo yaad aate hai
-
-  Musafirane musibat...
-
-  Madine walon kaho us behan ki kya taqdeer
-
-  Jo dekhe apne biradar ke halq par shamsheer
-
+  Har ek qadam hai buqa kab laboṅ pe bain nahiṅ
+  Ham aaye zinda par Zehra ka nur-e-ain nahiṅ
+  Madina Akbar o Qaasim nahiṅ Husain nahiṅ
 
   5
-
-  Lahoo may ghark jo dekhe hussain ki tasveer
-
-  Lahoo may kya yunhi bhai ka sar dikhate hai
-
-  Batao kahte hai kya sab us amma jayi ko
-
+  Yeh kaise kaise jawaaṅ the jo yaad aate haiṅ
+  Madine waalo! Kaho us bahan ki kya taqdir
+  Jo dekhe apne baraadar ke halq par shamshir
 
   6
-
-  3) Har ek qadam hai buka kb labon pe bain nhi
-
-  Hum aye zinda ba zehra sa ka noor e ain nhi
-
-  Madina Akbar o Qasim nhi Hussain nhi
-
-  Ye kese kese jawan the jo yad atey hain
-
+  Lahu meiṅ gharq jo dekhe Husain ki taswir
+  Lahu meiṅ kya yuṅhi bhaai ka sar dekhte haiṅ
+  Bataao kahte haiṅ kya sab us ammaaṅ jaae ko
 
   7
-
-  4) Madine walon kaho us behn ki kya taqdeer
-
-  Jo dekhe apne baradr k halq pr shamsheer
-
-  Laho me garq to dekhe Hussain as ki tasweer
-
-  Laho me kya yunhi bhai ka sar dikhate hain
-
+  Jo arbaiṅ talak de kafan na bhaai ko
+  Bahan dikhaae gi munh kis tarah khudaai ko
+  Kafan diya hai na un ki lahad banaate haiṅ
 
   8
-
-  5) Batao kehte hain kya sb us ammajai ko
-
-  Jo Arbaein talak de kafan na bhai ko
-
-  Behn dikhaye gi munh kis tarah khudai ko
-
-  Kafan diya hai na un ki lehad banatey hain
-
+  Chala Bashir yeh deta hua khabar har jaa
+  Magar mahalla-e-Haashim meiṅ dekhta hai kya
+  Ke ek mariza sar-e-raah hai khari tanha
+  Hai muntazir ke woh kunbe ke log aate haiṅ
 
   9
-
-  6) Chala basheer ye deta hua khabr har jaa
-
-  Magar mahala e Hashim pe dekhta hai kya
-
-  K ek mariza sar e raah hai khari tanha
-
-  Hai muntazir k wo qunbe k log atey hain
-
+  Khabar yeh phaili to maatam har ek ghar meiṅ hua
+  Nikal nikal pariṅ sab aurateṅ barahna paa
+  Giri zamin pe Sughra ke us pe charkh gira
 
   10
-
-  Utho rasool tumhari nawasiyan aayi
-
-  Ke khud ko unton se ehle haram ghirate hai
-
-  Jo aayi kaan may awaaze banu e muztar
-
+  Jo sogwaar haiṅ Sughra ke paas aate haiṅ
+  Faza-e-dard meiṅ le kar udaasiyaaṅ aaiṅ
+  Safar se laut ke idhar bhuki pyaasiyaaṅ aaiṅ
 
   11
-
-  7) Khabr ye pheli to matam har ek ghar me hua
-
-  Nikal nikal pari sb Aurtein barhena paka
-
-  Giri zameen pe sugra sa k us pe charkh gira
-
-  Jo sogwar hain sugra sa k pass Aatey hain
-
+  Utho Rasul tumhaari nawaasiyaaṅ aaiṅ
+  Ke khud ko untoṅ se ahl-e-haram giraate haiṅ
+  Jo aai kaan meiṅ aawaaz baanu-e-muztar
 
   12
-
-  8) Fiza e dard me lekr udaasiyan ayein
-
-  Safar se lut k idhar bhooki pyasiyan ayein
-
-  Utho rasool saww tumhari nawasiyan ayein
-
-  Aye khud ko unton se ahle harm as giratey hain
-
-
-  13
-
-  9) Jo ayi kaan me awaaz e fanu e muztar
-
-  Kahan ho aey mere wali Imam e jin o bashar as
-
-  Tarap k reh gai sugra sa bapa hua mehshar
-
-  Kabeer bas ab falaq thartharate hain'
+  Kahaaṅ ho ae mere waali imaam-e-jin o bashar
+  Tarap ke rah gai Sughra bapa hua mahshar
+  Dabir bas ke ab aflaak thar tharaate haiṅ
 ---
 
 نہ مہمل ہے نہ ہودج ہے

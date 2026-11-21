@@ -1,35 +1,59 @@
 ---
-title: "Baba Main Hussain Da Ki Haal Sunawaan Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بابا میں حسین دا کی حال سناواں"
+alternateTitle: "Baba Main Hussain Da Ki Haal Sunawaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba main Hussain da ki haal sunawaan
+  Sun baba daswin nu veer lashaan chukda kinj bharda si hawaan
+  Khak te beh ke wain panda si veer mera aye kainda janda si
+  Menu bhuldiyaan nayi Zainab teer khawan welay Asghar di adawaan
+
+  2
+  Bara okha oh baba wela si zeen taun lathiya si jadon Ghazi
+  Bhaina de kool aa ke roya Shabir bara chum chum ke ridawaan
+  Kholiya khaimay aa ke gathri nu kiya Shabir ro ke Farwa nu
+  Koi reh gaya jay Farwa rait andar tukra main labh ke liyawaan
+
+  3
+  Dar-e-khaima te aa ke veer mera boliya seena wekh Akbar da
+  Das Zainab Laila taun kiwein main Akbar de seene nu chupawaan
+  Jadon zakhmi hoi odhi gardan nehar de pasay wekh ke veran
+  Ghazi da na le ke aakhri wain kita wich ukhriyaan sawaan
+
+  4
+  Shimar khanjar de waar karda si veer tasbeeh Khuda di parhda si
+  Teraan zarbaan de nal Shimar ne gin gin ke ohdi katiyaan ne sanwaan
+  Kiya Saqlain Shah ne Khaliq nu waqt-e-zibh-e-azeem aawein ton
+  Rab aakhiya arshaan ton tera Karbal aala lakh war main aawaan
 ---
 
-1
-Baba Main Hussain Da Ki Haal Sunawaan.
-Sun Baba Daswin Nu Veer Lashaan Chukda Kinj Bharda Si Hawaan.
-Khak Te Beh Ke Wain Panda Si Veer Mera Aye Kainda Janda Si.
-Menu Bhuldiyaan Nayi Zainab Teer Khawan Welay Asghar Di Adawaan.
+۱
+بابا میں حسین دا کی حال سناواں
+سن بابا دسویں نوں ویر لاشاں چکدا کنج بھردا سی ہاواں
+خاک تے بہہ کے وین پاندا سی ویر میرا ایہہ کہندا جاندا سی
+مینوں بھلدیاں نئیں زینب تیر کھاون ویلے اصغر دی اداواں
 
-2
-Bara Okha Oh Baba Wela Si Zeen Taun Lathiya Si Jadon Ghazi.
-Bhaina De Kool Aa Ke Roya Shabir Bara Chum Chum Ke Ridawaan.
-Kholiya Khaimay Aa Ke Gathri Nu Kiya Shabir Ro Ke Farwa Nu.
-Koi Reh Gaya Jay Farwa Rait Andar Tukra Main Labh Ke Liyawaan.
+۲
+بڑا اوکھا اوہ بابا ویلا سی زین توں لتھیا سی جدوں غازی
+بھیناں دے کول آ کے رویا شبیر بڑا چم چم کے رداواں
+کھولیا خیمے آ کے گٹھڑی نوں کہا شبیر رو کے فروہ نوں
+کوئی رہ گیا جے فروہ ریت اندر ٹکڑا میں لبھ کے لیاواں
 
-3
-Dar-e-Khaima Te Aa Ke Veer Mera Boliya Seena Wekh Akbar Da.
-Das Zainab Laila Taun Kiwein Main Akbar De Seene Nu Chupawaan.
-Jadon Zakhmi Hoi Odhi Gardan Nehar De Pasay Wekh Ke Veran.
-Ghazi Da Na Le Ke Aakhri Wain Kita Wich Ukhriyaan Sawaan.
+۳
+درِ خیمہ تے آ کے ویر میرا بولیا سینہ ویکھ اکبر دا
+دس زینب لیلا توں کیویں میں اکبر دے سینے نوں چھپاواں
+جدوں زخمی ہوئی اوہدی گردن نہر دے پاسے ویکھ کے ویراں
+غازی دا ناں لے کے آخری وین کیتا وچ اکھڑیاں ساواں
 
-4
-Shimar Khanjar De Waar Karda Si Veer Tasbeeh Khuda Di Parhda Si.
-Teraan Zarbaan De Nal Shimar Ne Gin Gin Ke Ohdi Katiyaan Ne Sanwaan.
-Kiya Saqlain Shah Ne Khaliq Nu Waqt-e-Zibh-e-Azeem Aawein Ton.
-Rab Aakhiya Arshaan Ton Tera Karbal Aala Lakh War Main Aawaan.
+۴
+شمر خنجر دے وار کردا سی ویر تسبیح خدا دی پڑھدا سی
+تیراں ضرباں دے نال شمر نے گن گن کے اوہدی کٹیاں نے ساںواں
+کہا ثقلین شاہ نے خالق نوں وقتِ ذبحِ عظیم آویں توں
+رب آکھیا عرشاں توں تیرا کربل آلا لکھ وار میں آواں

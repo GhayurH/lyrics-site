@@ -15,7 +15,7 @@ romanLyrics: |-
   Alam jhuka to hijaab-e-Zainab
   Pe mushkiloṅ ke sairaab chhaaye
   Rida-e-tathir lutne ko
-  Lain bekhauf hoke aaye
+  La'in bekhauf hoke aaye
 
   1
   Bhale wo Shabbir aur Zainab
@@ -27,7 +27,7 @@ romanLyrics: |-
   Kahiṅ pe tera alam para hai
   Kahiṅ pe baazu kahiṅ pe laasha
   Kahaaṅ kahaaṅ se bataao Ghaazi
-  Husain tum ko uthaane aaye
+  Husain tum ko uthaane aaya
 
   3
   Tumhaara hona hi ek bhaiya
@@ -56,8 +56,8 @@ romanLyrics: |-
   7
   Dua-e-Zehra sawaal-e-Haidar
   Ata-e-Khaaliq rida-e-Zainab
-  Yehi to Ghaazi hai Jaun khud meiṅ
-  Jo in ka rabt-e-ziya dikhaaye
+  Yehi to Ghaazi hai Jaun qad meiṅ
+  Jo in ka rabt-e-ziyaa dikhaaye
 ---
 
 علم جھکا تو حجابِ زینب

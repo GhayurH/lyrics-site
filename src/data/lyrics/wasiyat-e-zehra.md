@@ -11,58 +11,58 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zehra ki ab jahaṅ se ruqsat hai ya ali
-  Tum se yehi hamari wasiyat hai ya ali
+  Zehra ki ab jahaaṅ se rukhsat hai ya Ali
+  Tum se yehi hamaari wasiyat hai ya Ali
 
   1
-  Ya ali meri mayyat par
-  Mera haq khane waale na aaye
-  Darbar may teri zehra ko
-  Jhutlaane waale na aaye
-  Ya ali mere baba har lamha
+  Ya Ali mere mayyat par
+  Mera haq khaane wale na aayeṅ
+  Darbaar mein teri Zehra ko
+  Jhutlaane wale na aayeṅ
+  Ya Ali mere baba har lamha
   Jis dar ko chuma karte the
-  Us dar ko jalane waale aur
-  Jalwaane waale na aaye
+  Us dar ko jalaane wale
+  Aur jalwaane wale na aayeṅ
 
   2
-  Ya ali meri hasrat thi tum ko
+  Ya Ali mere hasrat thi tum ko
   Baba ke mimbar par dekhuṅ
-  Haye teri jagah us mimbar par
-  Aa jaane waale na aaye
+  Haye teri jagah us par
+  Aa jaane wale na aayeṅ
 
   3
-  Ya ali sab ahl-e-saqeefa ko paigham mera ye de dena
-  Baba ke paak janaaze par na aane waale na aaye
+  Ya Ali sab ahl-e-saqifa ko paighaam mera ye de dena
+  Baba ke paak janaaze par na aane wale na aayeṅ
 
   4
-  Ya ali pehlu bhi shikasta hai
-  Baaloṅ may safedi chaayi hai
-  Zehra ko teri is haalat may
-  Pahunchane waale na aaye
+  Ya Ali pehlu bhi shikasta hai
+  Baaloṅ mein safedi chhaayi hai
+  Zehra ko teri is haalat mein
+  Pahunchaane wale na aayeṅ
 
   5
-  Ya ali mere mohsin par girya
-  Haq tha mera jo chin liya
-  Ya ali mujhe marte marte bhi
-  Tarpaane waale na aaye
+  Ya Ali mere Mohsin par girya
+  Haq tha mera jo chhin liya
+  Ya Ali mujhe marte marte bhi
+  Tarpaane wale na aayeṅ
 
   6
-  Ya ali zainab ki aankhoṅ may
+  Ya Ali Zainab ki aankhoṅ mein
   Mujhe khauf dikhaayi deta hai
-  Gardan may teri haye tang rasan
-  Pehnaane waale na aaye
+  Gardan mein teri haye tang rasan
+  Pehnaane wale na aayeṅ
 
   7
-  Ya ali meri mayyat ko chup kar
-  Tariki may dafna dena
+  Ya Ali meri mayyat ko chup kar
+  Taariki mein dafnaa dena
   Rone ke liye mujh par mujhko
-  Rulwane waale na aaye
+  Rulwaane wale na aayeṅ
 
   8
-  Salman mai bibi ka nauha
+  Salman main Bibi ka nauha
   Mesum ke liye kaise likhuṅ
-  Jab tak jannat may le jaa kar
-  Likhwaane waale na aaye
+  Jab tak jannat mein le jaa kar
+  Likhwaane wale na aayeṅ
 ---
 
 زہرا کی اب جہاں سے رخصت ہے یا علی

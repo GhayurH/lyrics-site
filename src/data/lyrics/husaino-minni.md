@@ -12,7 +12,7 @@ aliases: ["Hussaino Minni"]
 published: true
 romanLyrics: |-
   Sada-e-Rab-e-jahaaṅ
-  Jabiṅ kushada Husain
+  Jabiṅ kushaada Husain
   Batul zaada Husain
   Mera iraada Husain
   Nibhane waada Husain
@@ -29,7 +29,7 @@ romanLyrics: |-
   Misaal-e-faateh-e-Badr o Hunain mera Husain
   Meri Batul ki aankhoṅ ka chain mera Husain
   Khuda ke din ki hai zeb o zain mera Husain
-  Hai mere baad Shah-e-mashraqain mera Husain
+  Hai mere baad Shah-e-mashriqain mera Husain
   Zamane bhar ki pukaar hai ye
   Mere lahu ka waqaar hai ye
   Ye mera jism meri jaan mere din ki baqa
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   7
   Teri himmat pe ye kaunain fida tashna dahan
-  Tu ne jo waada kiya, pura hua tashna dahan
+  Tu ne jo waada kiya, puraa hua tashna dahan
   Khuṅ se maqtal ko jo sairaab kiya tashna dahan
   Ibn-e-Zahra o Ali ae wali ibn-e-wali
   Tujh se maiṅ raazi hua ae Shah-e-Karb o Bala
@@ -114,7 +114,7 @@ romanLyrics: |-
   11
   Wo tin din ki pyaas wo Akbar wo fauj-e-Shaam
   Wo dhup razm gaah ki wo nusrat-e-Imaam
-  Teghoṅ ki chhaaoṅ tiroṅ ka meyaar o azhdahaam
+  Teghoṅ ki chhaaoṅ tiroṅ ka miyaar o azhdahaam
   Neza kisi ka aur jigar Akbar anaam
   Bijli si har taraf khas o khaashaak par giri
   Taswir-e-Mustafa ki junhi khaak par giri

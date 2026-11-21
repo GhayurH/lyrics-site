@@ -39,8 +39,8 @@ romanLyrics: |-
   Khuda na de di jise khudaai
   Husain wo hai Husain wo hai
 
-  Shah ast Husain, Baadshah ast Husain
-  Diṅ ast Husain, Diṅ panaah ast Husain
+  Shah ast Husain, baadshah ast Husain
+  Diṅ ast Husain, diṅ panaah ast Husain
 
   4
   Wo jis ne khaak-e-shifa banaai
@@ -67,7 +67,7 @@ romanLyrics: |-
   Husain wo hai Husain wo hai
 
   7
-  Jo maqtaloṅ meiṅ hayaat baaṅte
+  Jo maqtaloṅ meiṅ hayaat baante
   Bata do Gohar ye wo saaqi hai
   Nahiṅ hai qismat meiṅ tere bete
   Rasul-e-haq bhi ye keh de jis se

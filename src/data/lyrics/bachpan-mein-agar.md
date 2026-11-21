@@ -11,74 +11,74 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bachpan meiṅ agar maa mar jaaye
-  Is gham se bara gham koi nahi
-  Hasnain ke dil se pucho to
-  Is zakhm ka marham koi nahi
-  Ya mazlooma ya masooma
-  Ya zehra
-  Bacchoṅ ko sambhale mazlooma
-  Ya maula ki imadad kare
-  Masum imamoṅ ki maadar
-  Haye kis se faryad kare
-  Ye zulm jo dhaane aaye hai
-  In logoṅ meiṅ kam koi nahi
+  Bachpan meiṅ agar maaṅ mar jaaye
+  Is gham se bara gham koi nahiṅ
+  Hasnain ke dil se puchho to
+  Is zakhm ka marham koi nahiṅ
+  Ya mazluma ya masuma
+  Ya Zehra
+  Bachchoṅ ko sambhaale mazluma
+  Ya Maula ki madad kare
+  Masum imaamoṅ ki maadar
+  Haaye kis se faryaad kare
+  Ye zulm jo dhaane aaye haiṅ
+  In logoṅ meiṅ kam koi nahiṅ
   Hasnain ke dil se...
   Ghar jalta hai uthta hai dhuaaṅ
-  bejaan hai binte paighambar
-  Rote hai tarapte hai bacche
-  Ghar meiṅ hai qayamat ka manzar
-  Aur haye nabi ki ummat meiṅ
-  Ranjeeda o barham koi nahi
+  Bejaan hai Bint-e-Paighambar
+  Rote haiṅ tarapte haiṅ bachche
+  Ghar meiṅ hai qayaamat ka manzar
+  Aur haal Nabi ki ummat meiṅ
+  Ranjida o barham koi nahiṅ
   Hasnain ke dil se...
-  Is gham meiṅ nabi bhi rote hai
-  Ye dard nahi tum ne jaana
-  Fizza ne kaha ba-dida e tar
-  Is tarha ghar meiṅ mat aana
-  Ye nur e taharat ka ghar hai
-  Aur tum meiṅ mehram koi nahi
+  Is gham meiṅ Nabi bhi rote haiṅ
+  Ye dard nahiṅ tum ne jaana
+  Fizza ne kaha ba dida-e-tar
+  Is tarah ghar meiṅ mat aana
+  Ye nur-e-tahaarat ka ghar hai
+  Aur tum meiṅ mahram koi nahiṅ
   Hasnain ke dil se...
-  Mohsin ki shahadat pehlu meiṅ
+  Mohsin ki shahaadat pehlu meiṅ
   Ye zakhm laga kitna gehra
-  Diwar o dar ke bich meiṅ phir
-  Behosh hui gir kar zehra
-  Ye dard bahra lamha hai
-  Is jaisa aalam koi nahi
+  Diwaar o dar ke bich meiṅ phir
+  Behosh hui gir kar Zehra
+  Ye dard bhara lamha hai
+  Is jaisa aalam koi nahiṅ
   Hasnain ke dil se...
-  Baba ke baad zamane meiṅ
-  Aisi mazlum hui zahra
-  Diwar pakar kar chalti hai
-  Kamzor zaifa ki tarha
+  Baba ke baad zamaane meiṅ
+  Aisi mazlum hui Zahra
+  Diwaar pakar kar chalti hai
+  Kamzor zaif ki tarah
   Baazu zakhmi pehlu zakhmi
-  Ek haath meiṅ bhi dam koi nahi
+  Ek haath meiṅ bhi dam koi nahiṅ
   Hasnain ke dil se...
   Majruh badan pehlu zakhmi
   Raatoṅ ko nind aati hai
   Har ek qadam dukh deta hai
-  Har saans qayamat dhaati hai
-  Zehra ki tarha se dunya meiṅ
-  Hai chashme pur nam koi nahi
+  Har saans qayaamat dhaati hai
+  Zehra ki tarah se dunya meiṅ
+  Hai chashm-e-pur nam koi nahiṅ
   Hasnain ke dil se...
   Awaaz Husain ke rone ki
-  Jab kaan meiṅ zehra ke aayi
-  Phir band kafan bhi tut gaye
-  Aur ruh badan meiṅ ghabrayi
+  Jab kaam meiṅ Zehra ke aayi
+  Phir band-e-kafan bhi tut gaye
+  Aur ruh badan meiṅ ghabraayi
   Sab bharte hai dam dunya meiṅ
-  Maa jaisa hamdam koi nahi
+  Maaṅ jaisa hamdard koi nahiṅ
   Hasnain ke dil se...
-  Turbat bhi nahi mazlooma ki
-  Turbat ki jagah turbat ka nishaṅ
-  Is gham meiṅ imame asr ke bhi
-  Hai khune jigar aankhoṅ se rawaṅ
+  Turbat bhi nahiṅ mazluma ki
+  Turbat ki jagah turbat ka nishaaṅ
+  Is gham meiṅ Imaam-e-Asr ke bhi
+  Hai khun-e-jigar aankhoṅ se rawaaṅ
   Is gham meiṅ agar jo ro na sake
-  Wo chashme adam koi nahi
+  Wo chashm-e-adam koi nahiṅ
   Hasnain ke dil se...
-  Ae shadmaṅ hum nauha parh kar
-  Jab karte hai gham zehra ka
-  Rote hai nasim us dam hyder
-  Aur karte hai matam zehra ka
-  Ye maadar e gham ka matam hai
-  Is jaisa matam koi nahi
+  Ae shadmaaṅ ham nauha parh kar
+  Jab karte hai gham Zehra ka
+  Rote haiṅ Nasim us din Haidar
+  Aur karte haiṅ maatam Zehra ka
+  Ye maadar-e-gham ka maatam hai
+  Is jaisa maatam koi nahiṅ
   Hasnain ke dil se...
 ---
 

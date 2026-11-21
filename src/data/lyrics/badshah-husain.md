@@ -12,86 +12,86 @@ published: false
 romanLyrics: |-
   1
   Husain Husain Husain
-  Badshah e mann
-  Shehenshah-e-mann
-  Qibla e dilam kaaba e dilam
+  Baadshah-e-man
+  Shahanshah-e-man
+  Qibla-e-dilam Kaaba-e-dilam
   Husain Husain
-  Badshah Husain shehenshah Husain
+  Baadshah Husain shahanshah-e-Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain
-  Kayenat meiṅ baat baat meiṅ
-  Teri baat tera tazkera Husain hai
-  Badshah Husain shehenshah Husain
+  Kaainaat meiṅ baat baat meiṅ
+  Teri baat tera tazkira Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
-  Tujhko dil waaloṅ ka sultan kaha jaata hai
+  Tujhko dil waaloṅ ka sultaan kaha jaata hai
   Ishq meiṅ tere koi tir o tabar khaata hai
   Koi laakhoṅ se bahattar meiṅ chala aata hai
-  Tujhse jab mila hurr samajh gaya
-  Hai fana yazid aur baqa Husain hai
-  Badshah Husain shehenshah Husain
+  Tujh se jab mila Hurr samajh gaya
+  Hai fana Yazid aur baqa Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
-  Tu balandi hai zabardast hai aala tu hai
-  Jisko abbas kahe maula wo maula tu hai
+  Tu bulandi hai zabardast hai Maula tu hai
+  Jis ko Abbas kahe Maula wo Maula tu hai
   Arsh waaloṅ ko zamiṅ baatne waala tu hai
-  Kiuṅ na farsh pe aasmaṅ jhuke
-  Maalik e zamin e karbala Husain hai
-  Badshah Husain shehenshah Husain
+  Kiuṅ na farsh pe aasmaaṅ jhuke
+  Maalik-e-zamin-e-Karbala Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
-  Tu hi hai tute diloṅ ka sahara Husain
-  Hai aashiqoṅ ki sada tu hamara Husain
-  Jab se sino meiṅ basaya hai tera gham maula
-  Dil ki dharkan bhi hame lagti hai matam maula
-  Saal bhar rehta hai aankhoṅ meiṅ moharram maula
-  Hai nishane gham sino pe raqam
-  Bas hamare qalb par likha Husain hai
-  Badshah Husain shehenshah Husain
+  Tu hi hai tute diloṅ ka sahaara Husain
+  Hai aashiqoṅ ki sada tu hamaara Husain
+  Jab se sinoṅ meiṅ basaaya hai tera gham Maula
+  Dil ki dharkan bhi hameṅ lagti hai maatam Maula
+  Saal bhar rehta hai aankhoṅ meiṅ Muharram Maula
+  Hai nishaan-e-gham sinoṅ pe raqam
+  Bas hamaare qalb par likha Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
   Chauda sadiyoṅ se tere gham ka safar jaari hai
-  Ye azakhane alam tujhse wafadari hai
-  Aaj har ghar meiṅ bapa teri azadari hai
+  Ye azaakhaane alam tujh se wafaadaari hai
+  Aaj har ghar meiṅ bapa teri azaadaari hai
   Har faqir ki hai sada yehi
-  Zindabad aaj bhi mera Husain hai
-  Badshah Husain shehenshah Husain
+  Zinda baad aaj bhi mera Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
-  Maut ko maar ke jo karbobala tak pahuncha
-  Wo Husain ibne ali teri raza tak pahuncha
-  Bas tere paas jo pahuncha wo khuda tak pahuncha
-  Manzil e khuda sirf karbala
-  Is liye hamara raasta Husain hai
-  Badshah Husain shehenshah Husain
+  Maut ko maar ke jo Karb o Bala tak pahuncha
+  Wo Husain ibn-e-Ali teri raza tak pahuncha
+  Bas tere paas jo pahuncha wo Khuda tak pahuncha
+  Manzil-e-Khuda sirf Karbala
+  Is liye hamaara raasta Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
-  Hussaina hussaina
-  Ya saarallah Husain
-  E qatil e jafa
-  E gharib e zahra
-  Shahid e karbala Husain
-  Jab murtajiz sawaar wo ran meiṅ utar gaya
+  Husaina Husaina
+  Ya Saarallah Husain
+  Ae qatil-e-jafa
+  Ae gharib-e-Zehra
+  Shahid-e-Karbala Husain
+  Jab Murtajiz sawaar wo ran meiṅ meiṅ utar gaya
   Dushman ki maut saath chali wo jidhar gaya
-  Utha jo uske saamne wo sar se sar gaya
-  Aaya jo zulfiqar ki zadd meiṅ wo mar gaya
-  Koi soorma bach nahi saka
-  Pyaas meiṅ bhi is tarha lara Husain hai
-  Hussaina hussaina
+  Utha jo us ke saamne wo sar se sar gaya
+  Aaya jo Zulfiqar ki zadd meiṅ wo mar gaya
+  Koi surma bach nahiṅ saka
+  Pyaas meiṅ bhi is tarah lara Husain hai
+  Husaina Husaina
   Jab irjai ki arsh se aayi sada Husain
-  Palta tu ran se qaimon ki jaanib chala Husain
+  Palta tu ran se khaimoṅ ki jaanib chala Husain
   Maqtal meiṅ tujhko ghayr ke maara gaya Husain
-  Zehra ne aake thaam liya jab gira Husain
-  Shimr ne rakhi halq par churi
-  Maa pukari mera laadla Husain hai
-  Badshah Husain shehenshah Husain
+  Zehra ne aa ke thaam liya jab gira Husain
+  Shimr ne rakhi halq par chhuri
+  Maaṅ pukaari mera laadla Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
   Haq ki manzil pe raha sab ke diloṅ par chaaya
   Jis ka sar kaat ke bhi koi jhuka na paaya
-  Wo usi shaan se zishan sina par aaya
-  Hai yazid ka naam mit gaya
-  Aaj har zaban pe sirf ya Husain hai
-  Badshah Husain shehenshah Husain
+  Wo usi shaan se Zeeshaan sinaaṅ par aaya
+  Hai Yazid ka naam mit gaya
+  Aaj har zabaan pe sirf ya Husain hai
+  Baadshah Husain shahanshah Husain
   Diṅ ka aasra Husain hai
   Husain ya Husain...
 ---

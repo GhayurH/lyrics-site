@@ -1,33 +1,57 @@
 ---
 title: "حسینؑ والے یہ اعلانِ عام کرتے ہیں"
+alternateTitle: "Hussain Walay Ye Ailan e Aam Kartay Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hussain walay ye ailan e aam kartay hain
+  Ham apnay ashkon ko Zehra ke naam kartay hain
+
+  1
+  Haqeeqaton ke fasany chupa nahi saktay
+  Zaban e khalq pe khanjar chala nahi saktay
+  Hamaray khoon ke qatray kalam kartay hain
+
+  2
+  Khushi ke lab hain teh e tegh zulm beet gaye
+  Yazeed haar gaya aur Hussain jeet gaye
+  Isi khabar ko zamany may aam kartay hain
+
+  3
+  Saja ke mashk e Sakina jari ke parcham may
+  Ghamon ki aag lagi di tamam aalam may
+  Yazeed e waqt ka jeena haram kartay hain
+
+  4
+  Ba fazl e Fatima Zehra Hussain ke sadqay
+  Lab e Khaleel pe lab par Mujeeb ke noha
+  Hussainio ke dilon may qayam kartay hain
 ---
 
-Hussain walay ye ailan e aam kartay hain
-Ham apnay ashkon ko Zehra ke naam kartay hain
+حسین والے یہ اعلانِ عام کرتے ہیں
+ہم اپنے اشکوں کو زہرا کے نام کرتے ہیں
 
-1
-Haqeeqaton ke fasany chupa nahi saktay
-Zaban e khalq pe khanjar chala nahi saktay
-Hamaray khoon ke qatray kalam kartay hain
+۱
+حقیقتوں کے فسانے چھپا نہیں سکتے
+زبانِ خلق پہ خنجر چلا نہیں سکتے
+ہمارے خون کے قطرے کلام کرتے ہیں
 
-2
-Khushi ke lab hain teh e tegh zulm beet gaye
-Yazeed haar gaya aur Hussain jeet gaye
-Isi khabar ko zamany may aam kartay hain
+۲
+خوشی کے لب ہیں تہِ تیغ ظلم بیت گئے
+یزید ہار گیا اور حسین جیت گئے
+اسی خبر کو زمانے میں عام کرتے ہیں
 
-3
-Saja ke mashk e Sakina jari ke parcham may
-Ghamon ki aag lagi di tamam aalam may
-Yazeed e waqt ka jeena haram kartay hain
+۳
+سجا کے مشکِ سکینہ جری کے پرچم میں
+غموں کی آگ لگی دی تمام عالم میں
+یزیدِ وقت کا جینا حرام کرتے ہیں
 
-4
-Ba fazl e Fatima Zehra Hussain ke sadqay
-Lab e Khaleel pe lab par Mujeeb ke noha
-Hussainio ke dilon may qayam kartay hain
+۴
+بہ فضلِ فاطمہ زہرا حسین کے صدقے
+لبِ خلیل پہ لب پر مجیب کے نوحہ
+حسینیوں کے دلوں میں قیام کرتے ہیں

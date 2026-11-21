@@ -8,86 +8,51 @@ poet: "Ali Jaweed Maqsood"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Utho zameen e garm se beta utho utho
-
+romanLyrics: |-
+  Utho zamin garm se beta utho utho
 
   1
-
-  Pahunche hussain qasim e bekas ki laash par
-
-  Dekha wo haal kar na sake doosri nazar
-
-  Pehlu mein baith kar ye sada di ba-chashme tar
-
-  Hum lene aaye hai tumhe dulha utho utho
-
+  Pahunche Husain Qasim bekas ki laash par
+  Dekha wo haal kar na sake dusri nazar
+  Pehlu mein baith kar ye sada di ba chashm-e-tar
+  Ham lene aaye haiṅ tumheṅ dulha utho utho
 
   2
-
-  Qasim tumhari maa ko tumhara hai intezar
-
-  Khaimay ke dar pa bali sakina hai beqaraar
-
-  Dada ka naam leke utho mere jaanisar
-
-  Sotay nahi hai khaak pa dulha utho utho
-
-  Utho zameene garm....
-
+  Qasim tumhari maaṅ ko tumhara hai intezaar
+  Khaime ke dar pe baali Sakina hai beqaraar
+  Daada ka naam le ke utho mere jaanisaar
+  Sote nahiṅ haiṅ khaak pe dulha utho utho
+  Utho zamin-e-garm .....
 
   3
-
-  Tasveer-e-dard bangayi kubra ki zindagi
-
-  Jaaga hi tha naseeb ke taqdeer sogayi
-
-  Kangna abhi khula nahi aur maangٍٍٍٍ ujad gayi
-
+  Tasvir-e-dard ban gayi Kubra ki zindagi
+  Jaaga hi tha nasib ke taqdir so gayi
+  Kangna abhi khula nahiṅ aur maang ujar gayi
   Kubra banayi jaati hai bewa utho utho
 
-
   4
-
-  Fauje sitam shiyaar bada zulm kar gayi
-
-  Kya phool se badan pa qayamat guzar gayi
-
-  Bhai ki yaadgar zameen par bikhar gayi
-
-  Dil khoon ho raha hai hamara utho utho
-
+  Fauj-e-sitam shiaar bara zulm kar gayi
+  Kya phul se badan pe qayaamat guzar gayi
+  Bhai ki yaadgaar zamiṅ par bikhar gayi
+  Dil khun ho raha hai hamaara utho utho
 
   5
-
-  Tum ne mujhe madad ko pukara tha mehlaqa
-
-  Par aa saka na waqt pa sharminda hai chacha
-
-  Baali pa ab tumhari hoon rota khada hua
-
+  Tum ne mujhe madad ko pukaara tha Mah Laqa
+  Par aa saka na waqt pe sharminda hai chacha
+  Baaliṅ pe ab tumhari huṅ rota khara hua
   Do apne gham mein mujhko dilaasa utho utho
 
-
   6
-
-  Karte hai dard o gham se haram naala o fughan
-
-  Dulha ki raah dekhti hai saari bibiyan
-
-  Hai beqarar ay mere dilbar tumhari maa
-
+  Karte haiṅ dard o gham se haram naala o faghaaṅ
+  Dulha ki raah dekhti hai saari Bibiyaaṅ
+  Hai beqaraar ae mere dilbar tumhari maaṅ
   Karti hai intezaar tumhara utho utho
 
-
   7
-
-  Farwa ke dil ka chain ho lakhte dil e hassan
-
-  Hyder ki yaadgaar ho ghazi ho saf shikan
-
-  Maula ke saath karta hai jaweed ye sukhan
-
-  Awaaz dete hai shahe waala utho utho'
+  Farwa ke dil ka chain ho lakht-e-dil-e-Hasan
+  Haidar ki yaadgaar ho Ghazi ho saf shikan
+  Maula ke saath karta hai Jaweed ye sukhan
+  Aawaaz dete haiṅ shah-e-waala utho utho
 ---
 
 اٹھو زمین گرم سے بیٹا اٹھو اٹھو

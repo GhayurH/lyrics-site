@@ -1,29 +1,48 @@
 ---
 title: "ہمشیر نے مقتل میں منظر یہ نیا دیکھا"
+alternateTitle: "Hamsheer Nay Maqtal Mein Manzar Yeah Naya Dekha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hamsheer nay maqtal mein manzar yeah naya dekha
+  Kat-tay huay khanjar say bhai ka gala dekha
+
+  1
+  Lash-e-Ali Akbar pay pohanchay jo Shah-e-Wala
+  Aye lal teray sar pey sehra na saja dekha
+
+  2
+  Abbas kay lashay pay pohanchay jo Shah-e-Wala
+  Mashkiza Sakina ka chati say laga dekha
+
+  3
+  Do batain yaeh duniya mein dekhin Ali Asghar nay
+  Ik tashna labi dekhi ik ter-e-qaza dekha
+
+  4
+  Hamsheer nay maqtal mein manzar yeah naya dekha
+  Kat-tay huay khanjar say bhai ka gala dekha
 ---
 
-Hamsheer nay maqtal mein manzar yeah naya dekha 2x
-Kat-tay huay khanjar say bhai ka gala dekha 2x
+ہمشیر نے مقتل میں منظر یہ نیا دیکھا
+کٹتے ہوئے خنجر سے بھائی کا گلا دیکھا
 
-1
-Lash-e-Ali Akbar pay pohanchay jo Shah-e-Wala
-Aye lal teray sar pey sehra na saja dekha
+۱
+لاشِ علی اکبر پہ پہنچے جو شاہِ والا
+اے لال تیرے سر پہ سہرا نہ سجا دیکھا
 
-2
-Abbas kay lashay pay pohanchay jo Shah-e-Wala
-Mashkiza Sakina ka chati say laga dekha
+۲
+عباس کے لاشے پہ پہنچے جو شاہِ والا
+مشکیزہ سکینہ کا چھاتی سے لگا دیکھا
 
-3
-Do batain yaeh duniya mein dekhin Ali Asghar nay
-Ik tashna labi dekhi ik ter-e-qaza dekha
+۳
+دو باتیں یہ دنیا میں دیکھیں علی اصغر نے
+اک تشنہ لبی دیکھی اک تیرِ قضا دیکھا
 
-4
-Hamsheer nay maqtal mein manzar yeah naya dekha
-Kat-tay huay khanjar say bhai ka gala dekha
+۴
+ہمشیر نے مقتل میں منظر یہ نیا دیکھا
+کٹتے ہوئے خنجر سے بھائی کا گلا دیکھا

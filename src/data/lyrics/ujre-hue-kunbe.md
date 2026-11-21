@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Le aao use aag ke sholoṅ se bacha kar
-  Sholoṅ meiṅ ghira Aabid-e-bimaar hai Zainab
+  Sholoṅ meiṅ gira Aabid-e-bimaar hai Zainab
 
   6
   Likha hai Zafar khun se taarikh ke rukh par

@@ -1,50 +1,86 @@
 ---
-title: "Meraj Ko Saja Ke Kaha Ya Ali Madad Master Ali Zamin"
+title: "معراج کو سجا کے کہا یا علی مدد"
+alternateTitle: "Meraj Ko Saja Ke Kaha Ya Ali Madad"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Batool"
-tags: ["noUrdu"]
+poet: "Fakhira Batool Naqvi"
+reciter: "Master Ali Zamin"
+volume: "Master Ali Zamin 2022-23"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Meraj ko saja ke kaha Ya Ali Madad
+  Nigah-e-Qanbar se pyar le kar
+
+  1
+  Saror-e-Khum ka khumar le kar
+  Main zikar Haider ka kar raha hoon
+  Zaban-e-Meesum udhar le kar
+  Mairaj ko saja ke kaha Ya Ali Madad
+
+  2
+  Mehman ko bola ke kaha Ya Ali Madad
+  Aawaz tu Ali ki thi Sarwar ne chonk kar
+  Pardah zara hata ke kaha Ya Ali Madad
+  Yeh tu jali ka ghar hai Ali ka muntazir
+
+  3
+  Kabay ne sar jhuka ke kaha Ya Ali Madad
+  Mosa ke hosh gum hoye sajday mein gir para
+  Kis ne issay jaga ke kaha Ya Ali Madad
+  Maidan-e-Khum mein aaj malak jhomney lagay
+
+  4
+  Kano mein Mustafa ke kaha Ya Ali Madad
+  Woh kaun Syeda hai Khuda se hi pochiye
+  Jis ne Kisa mein aa ke kaha Ya Ali Madad
+  Mulla ke sare fatway dharey reh gaye Hazoor
+
+  5
+  Jab jab alam utha ke kaha Ya Ali Madad
+  Kehne laga Nuseri daroon tujh se kis liye
+  Jab samne Khuda ke kaha Ya Ali Madad
+  Lagta hai woh Batool mila tha Ghadeer mein
+
+  6
+  Jis ne bhi muskura ke kaha Ya Ali Madad
 ---
 
-Meraj Ko Saja Ke Kaha Ya Ali Madad Master Ali Zamin.
-Nigah-e-Qanbar Se Pyar Le Kar.
+معراج کو سجا کے کہا یا علی مدد
+نگاہِ قنبر سے پیار لے کر
 
-1
-Saror-e-Khum Ka Khumar Le Kar.
-Main Zikar Haider Ka Kar Raha Hoon.
-Zaban-e-Meesum Udhar Le Kar.
-Mairaj Ko Saja Ke Kaha Ya Ali Madad.
+۱
+سرورِ خُم کا خمار لے کر
+میں ذکر حیدر کا کر رہا ہوں
+زبانِ میثم ادھار لے کر
+معراج کو سجا کے کہا یا علی مدد
 
-2
-Mehman Ko Bola Ke Kaha Ya Ali Madad.
-Aawaz Tu Ali Ki Thi Sarwar Ne Chonk Kar.
-Pardah Zara Hata Ke Kaha Ya Ali Madad.
-Yeh Tu Jali Ka Ghar Hai Ali Ka Muntazir.
+۲
+مہمان کو بلا کے کہا یا علی مدد
+آواز تو علی کی تھی سرور نے چونک کر
+پردہ ذرا ہٹا کے کہا یا علی مدد
+یہ تو جالی کا گھر ہے علی کا منتظر
 
-3
-Kabay Ne Sar Jhuka Ke Kaha Ya Ali Madad.
-Mosa Ke Hosh Gum Hoye Sajday Mein Gir Para.
-Kis Ne Issay Jaga Ke Kaha Ya Ali Madad.
-Maidan-e-Khum Mein Aaj Malak Jhomney Lagay.
+۳
+کعبے نے سر جھکا کے کہا یا علی مدد
+موسیٰ کے ہوش گم ہوئے سجدے میں گر پڑا
+کس نے اسے جگا کے کہا یا علی مدد
+میدانِ خُم میں آج مَلَک جھومنے لگے
 
-4
-Kano Mein Mustafa Ke Kaha Ya Ali Madad.
-Woh Kaun Syeda Hai Khuda Se Hi Pochiye.
-Jis Ne Kisa Mein Aa Ke Kaha Ya Ali Madad.
-Mulla Ke Sare Fatway Dharey Reh Gaye Hazoor.
+۴
+کانوں میں مصطفیٰ کے کہا یا علی مدد
+وہ کون سیدہ ہے خدا سے ہی پوچھیے
+جس نے کسا میں آ کے کہا یا علی مدد
+ملا کے سارے فتوے دھرے رہ گئے حضور
 
-5
-Jab Jab Alam Utha Ke Kaha Ya Ali Madad.
-Kehne Laga Nuseri Daroon Tujh Se Kis Liye.
-Jab Samne Khuda Ke Kaha Ya Ali Madad.
-Lagta Hai Woh Batool Mila Tha Ghadeer Mein.
+۵
+جب جب علم اٹھا کے کہا یا علی مدد
+کہنے لگا نصیری ڈروں تجھ سے کس لیے
+جب سامنے خدا کے کہا یا علی مدد
+لگتا ہے وہ بتول ملا تھا غدیر میں
 
-6
-Jis Ne Bhi Muskura Ke Kaha Ya Ali Madad.
-Poetess::Fakhira Batool Naqvi:
-Manqabat Khuwaan::Master Ali Zamin:
-Manqabat Volume::Master Ali Zamin 2022-23:
+۶
+جس نے بھی مسکرا کے کہا یا علی مدد

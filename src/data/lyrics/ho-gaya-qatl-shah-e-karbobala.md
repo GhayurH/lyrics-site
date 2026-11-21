@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Tir se ho gaya zakhmi Ali Akbar ka jigar
-  Umm-e-Laila ne kaha laashe pe Ae nur-e-nazar
+  Umm-e-Laila ne kaha laashe pe ae nur-e-nazar
   Maaṅ se kuchh baat karo uth ke zara waavaila
 
   2
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Fatima ne bare naazoṅ se jise paala tha
-  Jo payambar ke gharaane hi ka ujiyaala tha
+  Jo paimbar ke gharaane hi ka ujiyaala tha
   Asr-e-Aashur kata us ka gala waavaila
 
   6
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Ae Babar rok qalam tukre jigar hota hai
   Sun ke nauha tera har jinn o bashar rota hai
-  Chha gayi chaaroṅ taraf gham ki fiza waavaila
+  Chhin gayi chaaroṅ taraf gham ki fiza waavaila
 ---
 ہوگیا قتل شہ کربوبلا واویلا
 روتے ہیں پیٹ کے سر اہل عزا واویلا

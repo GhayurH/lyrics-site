@@ -20,7 +20,7 @@ romanLyrics: |-
   Ye jazba dil meiṅ rehta hai ye sauda sar meiṅ rehta hai
 
   2
-  Sunega puchhne waale tahaarat dida-e-tar ki
+  Sunega puchhne wale tahaarat-e-dida-e-tar ki
   Ye aansu Sayyeda ke gosha-e-chaadar meiṅ rehta hai
 
   3

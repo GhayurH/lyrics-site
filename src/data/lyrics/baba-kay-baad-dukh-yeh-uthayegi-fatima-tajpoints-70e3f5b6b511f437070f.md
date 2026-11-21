@@ -1,36 +1,62 @@
 ---
-title: "Baba Kay Baad Dukh Yeh Uthayegi Fatima"
+title: "بابا کے بعد دکھ یہ اٹھائے گی فاطمہ"
+alternateTitle: "Baba Kay Baad Dukh Yeh Uthayegi Fatima"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba kay baad dukh yeh uthayegi Fatima
+  Roti hoi jahan se jaye gi Fatima
+  Gasib Nabi ki sand youn phainkay ga phaar kar
+  Oss waqt Karbala ka nazar aaye ga manzar
+  Tukray sand ke jonhi uthaye gi Fatima
+  Tazeem teri bizato mini ki yeh hoi
+  Uthtey they aap jis ke liye woh khari rahi
+  Baba ke pas ja ke bataye gi Fatima
+  Ummat yeh pyasa mar de gi dil ke chain ko
+  Iss gham mein apne aakhri dam tak Hussain ko
+  Raton ko uth ke pani pilaye gi Fatima
+  Ummat ka zulm bhool na paye gi qabar tak
+  Mazlooma ko woh zakhm lagay ga keh hashar tak
+  Pehlu se hath ko na hataye gi Fatima
+  Kaisay Ali sahein gay yeh Mohsin ke qatal par
+  Khud par se jab hatatay howa jalta howa dar
+  Do lashein aik sath uthaye gi Fatima
+  Maa ne tamacha khaya hai ho jaye gi khabar
+  Jonhi paray gi Zainab-o-Kulsoom ki nazar
+  Chehray ka neel kaisay chupaye gi Fatima
+  Aoulad-e-Mustafa se hai yeh bugz our hasad
+  Dena qalam Nabi ko na batlata hai Asad
+  Zair-e-lehad bhi chain na paye gi Fatima
 ---
 
-1
-Baba Kay Baad Dukh Yeh Uthayegi Fatima.
-Roti Hoi Jahan Se Jaye Gi Fatima.
-Gasib Nabi Ki Sand Youn Phainkay Ga Phaar Kar.
-Oss Waqt Karbala Ka Nazar Aaye Ga Manzar.
-Tukray Sand Ke Jonhi Uthaye Gi Fatima.
-Tazeem Teri Bizato Mini Ki Yeh Hoi.
-Uthtey They Aap Jis Ke Liye Woh Khari Rahi.
-Baba Ke Pas Ja Ke Bataye Gi Fatima.
-Ummat Yeh Pyasa Mar De Gi Dil Ke Chain Ko.
-Iss Gham Mein Apne Aakhri Dam Tak Hussain Ko.
-Raton Ko Uth Ke Pani Pilaye Gi Fatima.
-Ummat Ka Zulm Bhool Na Paye Gi Qabar Tak.
-Mazlooma Ko Woh Zakhm Lagay Ga Keh Hashar Tak.
-Pehlu Se Hath Ko Na Hataye Gi Fatima.
-Kaisay Ali Sahein Gay Yeh Mohsin Ke Qatal Par.
-Khud Par Se Jab Hatatay Howa Jalta Howa Dar.
-Do Lashein Aik Sath Uthaye Gi Fatima.
-Maa Ne Tamacha Khaya Hai Ho Jaye Gi Khabar.
-Jonhi Paray Gi Zainab-o-Kulsoom Ki Nazar.
-Chehray Ka Neel Kaisay Chupaye Gi Fatima.
-Aoulad-e-Mustafa Se Hai Yeh Bugz Our Hasad.
-Dena Qalam Nabi Ko Na Batlata Hai Asad.
-Zair-e-Lehad Bhi Chain Na Paye Gi Fatima
+۱
+بابا کے بعد دکھ یہ اٹھائے گی فاطمہ
+روتی ہوئی جہاں سے جائے گی فاطمہ
+غاصب نبی کی سند یوں پھینکے گا پھاڑ کر
+اس وقت کربلا کا نظر آئے گا منظر
+ٹکڑے سند کے جونہی اٹھائے گی فاطمہ
+تعظیم تیری بضعةٌ مني کی یہ ہوئی
+اٹھتے تھے آپ جس کے لیے وہ کھڑی رہی
+بابا کے پاس جا کے بتائے گی فاطمہ
+امت یہ پیاسا مار دے گی دل کے چین کو
+اس غم میں اپنے آخری دم تک حسین کو
+راتوں کو اٹھ کے پانی پلائے گی فاطمہ
+امت کا ظلم بھول نہ پائے گی قبر تک
+مظلومہ کو وہ زخم لگے گا کہ حشر تک
+پہلو سے ہاتھ کو نہ ہٹائے گی فاطمہ
+کیسے علی سہیں گے یہ محسن کے قتل پر
+خود پر سے جب ہٹاتے ہوا جلتا ہوا در
+دو لاشیں ایک ساتھ اٹھائے گی فاطمہ
+ماں نے طمانچہ کھایا ہے ہو جائے گی خبر
+جونہی پڑے گی زینب و کلثوم کی نظر
+چہرے کا نیل کیسے چھپائے گی فاطمہ
+اولادِ مصطفیٰ سے ہے یہ بغض اور حسد
+دینا قلم نبی کو نہ بتلاتا ہے اسد
+زیرِ لحد بھی چین نہ پائے گی فاطمہ

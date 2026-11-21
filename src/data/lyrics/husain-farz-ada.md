@@ -28,7 +28,7 @@ romanLyrics: |-
   Ke dushmanoṅ ka bhala kar rahe haiṅ sajde meiṅ
 
   4
-  Laiṅ ki kund chhuri chal rahi thi gardan par
+  La'iṅ ki kund chhuri chal rahi thi gardan par
   Magar Husain dua kar rahe haiṅ sajde meiṅ
 
   5

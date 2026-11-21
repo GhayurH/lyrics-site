@@ -8,54 +8,39 @@ poet: "Asif Akhter Zaidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ham soorat e ahmed ho hm naam e khuda akbar
-
-  Kyon kar tumhe maa dede marne ki raza akbar
-
-  Ham soorate ahmed…
-
-  Is aalam e ghurbat may sheh kisko pukarenge
-
+romanLyrics: |-
+  Ham surat-e-Ahmad ho ham naam-e-Khuda Akbar
 
   1
-
-  Kis haal may hote ho baba se juda akbar
-
-  Tum jaate thay maqtal may baba ko nahi dekha
-
-  Kis tarha wo dete thay jeene ki dua akbar
-
+  Kiun kar tumheṅ maaṅ de de marne ki raza Akbar
 
   2
-
-  Jab tumne pukara tha maidan se sarwar ko
-
-  Zainab bhi nikal aayi kehti thi mera akbar
-
+  Is aalam-e-ghurbat mein Shah kis ko pukaareṅ ge
+  Kis haal mein hote ho ab ham se juda Akbar
 
   3
-
-  Sheh leke to aaye thay qaime may tera laasha
-
-  Par kaise bataun mai jo haal hua akbar
-
-  Is par hi masaib ka kuch zor nahi toota
-
+  Tum jaate the maqtal mein Baba ko nahiṅ dekha
+  Kis tarah woh dete the jine ki dua Akbar
 
   4
-
-  Shabbir ke haaton par asghar bhi gaya akbar
-
-  Phir chain se sojana bas itna bata jao
-
-  Hum kis se ghiza maange aur kis se rida akbar
-
+  Jab tum ne pukaara tha maidaan se Sarwar ko
+  Zainab bhi nikal aayi kehti thi mera Akbar
 
   5
+  Shah le ke to aaye the khaime mein tera laasha
+  Par kaise bataauṅ main jo haal hua Akbar
 
-  Ab kaise bataun mai zaidi ki tamanna hai
+  6
+  Is par bhi masaaib ka kuchh zor nahiṅ tuta
+  Shabbir ke haathoṅ par Asghar bhi gaya Akbar
 
-  Marte hue honton par ho naam tera akbar'
+  7
+  Phir chain se so jaana bas itna bata jaao
+  Ham kis se ghiza maaṅgeṅ aur kis se rida Akbar
+
+  8
+  Ab kaise bataauṅ main Zaidi ki tamanna hai
+  Marte hue hontoṅ pe ho naam tera Akbar
 ---
 
 ؑہم صورت احمدؐ ہو ہم نام خدا اکبر

@@ -61,7 +61,7 @@ romanLyrics: |-
 
   8
   Sinaaṅ pe Shah ne jis ghari tilaawat-e-kalaam ki
-  Mila jula tha raub-e-wafa o lehjaa-e-Ali
+  Mila jhula tha raub-e-wafa o lehjaa-e-Ali
   Tilaawat-e-kalaam jab Husain ne tamaam ki
   Pukaari mausuf-e-Khuda
 

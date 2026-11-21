@@ -8,25 +8,25 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mujrai mushtaq hai qudsi kalam aisa to ho
-  Bazm may shor-e-durood uthe salam aisa to ho
+  Mujrai mushtaaq hai qudsi salaam aisa to ho
+  Bazm meiṅ shor-e-durud uthe salaam aisa to ho
 
   1
-  Hai Ali Allah ka ham nam naam aisa to ho
-  Khana zade haq hua zil ihteram aisa to ho
+  Hai Ali Allah ka ham naam naam aisa to ho
+  Khaana zaad-e-haq hua zil-ihtiraam aisa to ho
 
   2
-  Ya Ali jab munh se nikla mushkilaiṅ aasaṅ huyiṅ
+  Ya Ali jab muṅh se nikla mushkileṅ aasaaṅ huiṅ
   Ism-e-Azam ka asar rakhta ho naam aisa to ho
 
   3
-  Jin o ins o wahsh o tayr o qudsi o ghilman o hur
-  Sab ke sab bayaat karaiṅ jis ki Imam aisa to ho
+  Jin o ins o wahsh o tair o qudsi o ghilmaan o hur
+  Sab ke sab baiat kareṅ jis ki imaam aisa to ho
 
   4
-  Shah-e-Mardaṅ sher-e-yazdaṅ fatahe Khaibar Ali
-  Shah-e-mardaṅ fatahe khaibar Amirul Momineen
-  Janishin-e-Hazrat-e-Khairul anaam aisa to ho
+  Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar
+  Shaah-e-mardaaṅ faateh-e-Khaibar Amirul Mominiṅ
+  Jaanashin-e-Hazrat-e-Khairul anaam aisa to ho
 ---
 
 مجرئی مشتاق ہے قدسی سلام ایسا تو ہو

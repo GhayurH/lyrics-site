@@ -23,16 +23,16 @@ romanLyrics: |-
   1
   Karti huṅ kab se buka dete nahiṅ tum sada
   Kiuṅ huwe mujh se khafa kya hui mujh se khata
-  Jis tarah chhute ho tum mujh se maiṅ tum par fida
+  Jis tarah chhute ho tum mujh se main tum par fida
   Is tarah koi pisar maaṅ se na howe juda
-  Dasht meiṅ tum meri jaaṅ ho gaye kis ja nihaaṅ
+  Dasht meiṅ tum meri jaaṅ ho gaye kis jaa nihaaṅ
 
   2
   Meri ummideiṅ gayiṅ mere sahaare gaye
   Jin ko samajhti thi jaaṅ haaye wo pyaare gaye
   Pyaas se the jaaṅ balab pyaase hi maare gaye
   Karb o Bala meiṅ wo aaj zulm ke maare gaye
-  Haathoṅ se khuṅ hai rawaaṅ tum ko maiṅ paauṅ kahaaṅ
+  Haathoṅ se khuṅ hai rawaaṅ tum ko main paauṅ kahaaṅ
 
   3
   Muft jawaani teri raaigaaṅ Akbar hui

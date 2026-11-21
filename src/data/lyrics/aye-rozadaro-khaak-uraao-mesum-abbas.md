@@ -8,78 +8,47 @@ poet: "Meesum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Aye Rozadaro Khaak Uraao Mesum Abbas"
-romanLyrics: 'Aye Rozadaro Khaak Uraao Mesum Abbas.
-
-  Taboot Uth Raha Hai Janab-e-Ameer Ka.
-
+alternateTitle: "Ae Rozadaaroṅ Khaak Uraao Mesum Abbas"
+romanLyrics: |-
+  Ae rozadaaroṅ khaak uraao
+  Taabut uth raha hai janaab-e-ameer ka
+  Is din ko bhi aashur banaao
+  Taabut uth raha hai...
 
   1
-
-  Iss Din Ko Bhi Ashor Banao.
-
+  Hasnain se karti thiṅ buka Zainab-e-Kubra
+  Taaza hai abhi maadar-e-dilgeer ka sadma
+  Ab daagh yatimi ka uthaao
 
   2
-
-  Hasnain Se Karti Thin Boka Zainab-e-Kubra.
-
-  Taza Tha Abhi Madar-e-Dilgeer Ka Sadma.
-
-  Ab Dagh Yateemi Ka Uthao.
-
+  Ik simt se taabut uthaaeṅge farishte
+  Aur mahv-e-buka dusri jaanib se haiṅ bete
+  Salmaan o Abuzar ko bulaao
 
   3
-
-  Ik Simt Se Taboot Uthaein Gay Farishtay.
-
-  Our Mehway Boka Dosri Janib Se Hain Betay.
-
-  Salman-o-Abuzar Ko Bulao.
-
+  Yeh gham Bin-e-Muljim ne diya aal-e-Nabi ko
+  Sajde mein kiya qatl mere baaba Ali ko
+  Ae logo mera dard bataao
 
   4
-
-  Yeh Gham Bin-e-Muljim Ne Diya Aal-e-Nabi Ko.
-
-  Sajday Mein Kiya Qatal Mere Baba Ali Ko.
-
-  Aye Logo Mera Dard Batao.
-
+  Baaba ne dam-e-rukhsat-e-aakhir yeh kaha tha
+  Abbaas hai zaamin meri Zainab ki rida ka
+  Ghaazi ko yeh ehsaas dilaao
 
   5
-
-  Baba Ne Dam-e-Rukhsat-e-Aakhir Yeh Kaha Tha.
-
-  Abbas Hai Zamin Meri Zainab Ki Rida Ka.
-
-  Ghazi Ko Yeh Ahsas Dilao.
-
+  Taabut mera naaqe pe kar dena rawaana
+  Ruk jaae jahaaṅ naaqa wahiṅ qabr banaana
+  Hai waqt wasiyyat ko nibhaao
 
   6
-
-  Taboot Mera Naqay Pe Kar Dena Rawana.
-
-  Ruk Jaye Jahan Naqa Wahin Qabar Banana.
-
-  Hai Waqt Wasiyat Ko Nibhao.
-
+  Ab kaun bhala saaya-e-diwaar bane ga
+  Bewaaoṅ yatimoṅ ka madadgaar bane ga
+  Kufe ke ghariboṅ ko bataao
 
   7
-
-  Ab Kaun Bhala Saya-e-Dewar Baney Ga.
-
-  Bewaon Yateemo Ka Madadgar Baney Ga.
-
-  Kofay Ke Gareebon Ko Batao.
-
-
-  8
-
-  Ikeeswin Ramzan Qayamat Ka Tha Manzar.
-
-  Thi Zainab-e-Muztar Ki Sada Meesum-o- Mazhar.
-
-  Ab Kaisay Jiyon Koi Batao.'
+  Ikkiswiṅ Ramzaan qayaamat ka tha manzar
+  Thi Zainab-e-Muztar ki sadaa Meesum o Mazhar
+  Ab kaise jiyuṅ koi bataao
 ---
 
 اے روزہ داروں خاک اُڑاو

@@ -1,25 +1,41 @@
 ---
-title: "Mola Ali Ali Mir Hasan Mir"
+title: "مولا علی علی میر حسن میر"
+alternateTitle: "Mola Ali Ali Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Deen ka data jaggat ka malik sab ka palan haar
+  Tere siwa woh kaun hai jis ke dar pe tara utra hai
+
+  1
+  Dharti se aakash talak bas tera sikka chalta hai
+  Mere Maula soraj tere hukam se nikla ik din mein do bar
+  Tere charan ki dhool ke aagay kya chandi kya sona hai
+  Dharti chand sitarey sab kuch tere husan ka sadqa hai
+
+  2
+  Tera paseena tere mathay ka hai paseena Nabi Wali Otar
+  Meesum Salmaan our Abuzar sab hum ko pohchane hain
+  Teri ghali ke mangtay hain hum Qanbar hum ko jane hain
+  Bhaij de Maula bhaij de ab Hasnain ka sadqa karday bera paar
 ---
 
-Deen Ka Data Jaggat Ka Malik Sab Ka Palan Haar.
-Tere Siwa Woh Kaun Hai Jis Ke Dar Pe Tara Utra Hai.
+دین کا داتا جگت کا مالک سب کا پالن ہار
+تیرے سوا وہ کون ہے جس کے در پہ تارا اترا ہے
 
-1
-Dharti Se Aakash Talak Bas Tera Sikka Chalta Hai.
-Mere Maula Soraj Tere Hukam Se Nikla Ik Din Mein Do Bar.
-Tere Charan Ki Dhool Ke Aagay Kya Chandi Kya Sona Hai.
-Dharti Chand Sitarey Sab Kuch Tere Husan Ka Sadqa Hai.
+۱
+دھرتی سے آکاش تلک بس تیرا سکہ چلتا ہے
+میرے مولا سورج تیرے حکم سے نکلا اک دن میں دو بار
+تیرے چرن کی دھول کے آگے کیا چاندی کیا سونا ہے
+دھرتی چاند ستارے سب کچھ تیرے حسن کا صدقہ ہے
 
-2
-Tera Paseena Tere Mathay Ka Hai Paseena Nabi Wali Otar.
-Meesum Salmaan Our Abuzar Sab Hum Ko Pohchane Hain.
-Teri Ghali Ke Mangtay Hain Hum Qanbar Hum Ko Jane Hain.
-Bhaij De Maula Bhaij De Ab Hasnain Ka Sadqa Karday Bera Paar.
+۲
+تیرا پسینہ تیرے ماتھے کا ہے پسینہ نبی ولی اوتار
+میثم سلمان اور ابوذر سب ہم کو پہچانے ہیں
+تیری گلی کے منگتے ہیں ہم قنبر ہم کو جانے ہیں
+بھیج دے مولا بھیج دے اب حسنین کا صدقہ کر دے بیڑا پار

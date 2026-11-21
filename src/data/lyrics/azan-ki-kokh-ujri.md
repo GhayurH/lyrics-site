@@ -1,7 +1,7 @@
 ---
 title: "اذاں کی کوکھ اجڑی ماں کو جب آواز آتی ہے"
 recitationId: "azan-ki-kokh-ujdi"
-alternateTitle: "Azaṅ Ki Kokh Ujri"
+alternateTitle: "Azaaṅ Ki Kokh Ujri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Jawaaṅ bete ki maaṅ se puchho kitni hoti hai chaahat
-  Tasavvur meiṅ na jaane kya kya wo armaan sajaati hai
+  Tasavvur mein na jaane kya kya wo armaan sajaati hai
 
   6
   Koi bachcha kahiṅ rota tarap kar kehti thi Baano
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Dua deti hai Zehra aa ke jannat se Anis un ko
-  Ke jin ko nauha o maatam meiṅ wo mashghul paati hai
+  Ke jin ko nauha o maatam mein wo mashghul paati hai
 ---
 اذاں کی کوکھ اجڑی ماں کو جب آواز آتی ہے
 تو ہر تکبیر پر لیلیٰ پچھاڑیں غم سے کھاتی ہے

@@ -1,35 +1,60 @@
 ---
-title: "Hum Ali Walay Hain Haq Ki Baat Kartay Hain"
+title: "ہم علی والے ہیں حق کی بات کرتے ہیں"
+alternateTitle: "Hum Ali Walay Hain Haq Ki Baat Kartay Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hum Ali walay hain haq ki baat kartay hain
+  Zindah rehne ke liye hum Ali pe martay hain
+  Jo dar-e-Haider par sar jhuka nahi saktay
+  Chain se nahi rehtey darbadar woh phirtay hain
+
+  2
+  Jis ko Ya Ali keh kar chalna maa sikhati hai
+  Shair dil hain woh bachay phir kahan pe girtay hain
+  Bughz-e-Buturab ho gar lanatein barasti hain
+  Ishq-e-Buturab ho gar chehray phir nikhartey hain
+
+  3
+  Mera Maula Haider woh hai jis ki thokar se
+  Murdah hai tu zindah ho zindah hai tu martay hain
+  Sarhad-e-Ghazi mein kiya majal hai inn ki
+  Garajtay jo badil chup chaap hi guzartey hain
+
+  4
+  Ali ko thama ke alam Rasool-e-Mustafa bolay
+  Maut ke maidaan mein bas mard hi utartay hain
+  Jis ka naam lena bhi hai Dilawar ibadat
+  Bas ossi ki khatir hum jeetay our martay hain
 ---
 
-1
-Hum Ali Walay Hain Haq Ki Baat Kartay Hain.
-Zindah Rehne Ke Liye Hum Ali Pe Martay Hain.
-Jo Dar-e-Haider Par Sar Jhuka Nahi Saktay.
-Chain Se Nahi Rehtey Darbadar Woh Phirtay Hain.
+۱
+ہم علی والے ہیں حق کی بات کرتے ہیں
+زندہ رہنے کے لیے ہم علی پہ مرتے ہیں
+جو درِ حیدر پر سر جھکا نہیں سکتے
+چین سے نہیں رہتے دربدر وہ پھرتے ہیں
 
-2
-Jis Ko Ya Ali Keh Kar Chalna Maa Sikhati Hai.
-Shair Dil Hain Woh Bachay Phir Kahan Pe Girtay Hain.
-Bughz-e-Buturab Ho Gar Lanatein Barasti Hain.
-Ishq-e- Buturab Ho Gar Chehray Phir Nikhartey Hain.
+۲
+جس کو یا علی کہہ کر چلنا ماں سکھاتی ہے
+شیر دل ہیں وہ بچے پھر کہاں پہ گرتے ہیں
+بغضِ بوتراب ہو گر لعنتیں برستی ہیں
+عشقِ بوتراب ہو گر چہرے پھر نکھرتے ہیں
 
-3
-Mera Maula Haider Woh Hai Jis Ki Thokar Se.
-Murdah Hai Tu Zindah Ho Zindah Hai Tu Martay Hain.
-Sarhad-e-Ghazi Mein Kiya Majal Hai Inn Ki.
-Garajtay Jo Badil Chup Chaap Hi Guzartey Hain.
+۳
+میرا مولا حیدر وہ ہے جس کی ٹھوکر سے
+مردہ ہے تو زندہ ہو زندہ ہے تو مرتے ہیں
+سرحدِ غازی میں کیا مجال ہے ان کی
+گرجتے جو بادل چپ چاپ ہی گزرتے ہیں
 
-4
-Ali Ko Thama Ke Alam Rasool-e-Mustafa Bolay.
-Maut Ke Maidaan Mein Bas Mard Hi Utartay Hain.
-Jis Ka Naam Lena Bhi Hai Dilawar Ibadat.
-Bas Ossi Ki Khatir Hum Jeetay Our Martay Hain.
+۴
+علی کو تھما کے علم رسولِ مصطفیٰ بولے
+موت کے میدان میں بس مرد ہی اترتے ہیں
+جس کا نام لینا بھی ہے دلاور عبادت
+بس اسی کی خاطر ہم جیتے اور مرتے ہیں

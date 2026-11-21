@@ -12,11 +12,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain aaya hai dekho to ek nazar ammaaṅ
+  Husain aaya hai dekho to ik nazar ab ammaaṅ
   Sadaaeṅ deta hai kab se tera pisar ammaaṅ
 
   1
-  Wo dekho Zainab o Kulsum ro rahi haiṅ wahaaṅ
+  Wo dekho Zainab o Kulsum ro rahi hai wahaaṅ
   Tarap ke bhaiya Hasan kar rahe haiṅ aah o fughaaṅ
   Na jaao aise bhare ghar ko chhor kar ammaaṅ
 

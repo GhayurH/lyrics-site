@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Momino Haider-e-Karraar ka maatam kar lo
+  Momino! Haider-e-Karraar ka maatam kar lo
   Haaṅ Muhammad ke alamdaar ka maatam kar lo
 
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   Mere aaqa mere sarkaar ka maatam kar lo
 
   5
-  Mil ke Jibril ke ustaad ka pursa de do
+  Mil ke Jibrail ke ustaad ka pursa de do
   Saahib-e-Duldul o talwaar ka maatam kar lo
 
   6

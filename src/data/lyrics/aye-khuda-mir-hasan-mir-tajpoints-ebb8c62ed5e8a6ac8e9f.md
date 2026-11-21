@@ -1,53 +1,96 @@
 ---
-title: "Aye Khuda Mir Hasan Mir"
+title: "اے خدا میر حسن میر"
+alternateTitle: "Aye Khuda Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Hamd"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tu hi aala, tu hi afzal, tu hi sab ka kibriya
+  Har taraf mojood hai tu har taraf jalwa tera
+  Hamd ke laiq hai tu hai tera banda Mustafa
+  Aye Khuda-e-Lam Yazal Aye malik-e-arz-o-sama
+
+  2
+  Jis taraf nazrein uthaein tujh ko dekha chaar so
+  Aayaton mein tu hi tu hai sortoon mein tu hi tu
+  Baye Bismillah se Wal Naas tak jalwa tera
+  Pas apne kuch nahi hai chand aanso laye hain
+
+  3
+  Thokarein dunya ki kha kar tere dar par aaye hain
+  Band hain dar sab ke tera baab-e-rehmat hai khula
+  Sahil e umeed par aakhir safena aa gaya
+  Rehmaton ka barkaton ka phir maheena aa gaya
+
+  4
+  Hum gunahgaron ki ya rab bakhsh de sari khata
+  Pyar se maa baap ke bhar kar kareemi hai teri
+  Mere malik mere khaliq kya raheemi hai teri
+  Rizq deta hai ossay bhi woh jo hai munkir tera
+
+  5
+  Gul mein tu khushbo mein tu hai teri rehmat ko ba ko
+  Sarhad-e-jibreel Sidrah oss se aagay ho hi ho
+  Qul ho Allah ahad hai teri wahdat ka pata
+  Zalzalay hain our ghurbat hai kahin par hai waba
+
+  6
+  Aaftoon ne ghair rakha hai zameen ko ja baja
+  Tere bandon ko hai ya rab sirf tera aasra
+  Aa rahi hai roz-o-shab teri mashiyat ke sada
+  Oss ne kuch khoya nahi jis ne bhi tujh ko pa liya
+
+  7
+  Oss ne kya paya bhala jis ne bhi tujh ko kho diya
+  Mil gaya moqa mujhe afkar ki tajdeed ka
+  Samne tha woh mudarris khutba e tauheed ka
+  Aye Takallum hamd likhney ka Najaf mein hai maza
 ---
 
-1
-Tu Hi Aala, Tu Hi Afzal, Tu Hi Sab Ka Kibriya.
-Har Taraf Mojood Hai Tu Har Taraf Jalwa Tera.
-Hamd Ke Laiq Hai Tu Hai Tera Banda Mustafa.
-Aye Khuda-e-Lam Yazal Aye Malik-e-Arz-o-Sama.
+۱
+تو ہی اعلیٰ، تو ہی افضل، تو ہی سب کا کبریا
+ہر طرف موجود ہے تو ہر طرف جلوہ تیرا
+حمد کے لائق ہے تو ہے تیرا بندہ مصطفیٰ
+اے خدائے لم یزل اے مالکِ ارض و سما
 
-2
-Jis Taraf Nazrein Uthaein Tujh Ko Dekha Chaar So.
-Aayaton Mein Tu Hi Tu Hai Sortoon Mein Tu Hi Tu.
-Baye Bismillah Se Wal Naas Tak Jalwa Tera.
-Pas Apne Kuch Nahi Hai Chand Aanso Laye Hain.
+۲
+جس طرف نظریں اٹھائیں تجھ کو دیکھا چار سو
+آیتوں میں تو ہی تو ہے سورتوں میں تو ہی تو
+بائے بسم اللہ سے والناس تک جلوہ تیرا
+پاس اپنے کچھ نہیں ہے چند آنسو لائے ہیں
 
-3
-Thokarein Dunya Ki Kha Kar Tere Dar Par Aaye Hain.
-Band Hain Dar Sab Ke Tera Baab-e-Rehmat Hai Khula.
-Sahil e Umeed Par Aakhir Safena Aa Gaya.
-Rehmaton Ka Barkaton Ka Phir Maheena Aa Gaya.
+۳
+ٹھوکریں دنیا کی کھا کر تیرے در پر آئے ہیں
+بند ہیں در سب کے تیرا بابِ رحمت ہے کھلا
+ساحلِ امید پر آخر سفینہ آ گیا
+رحمتوں کا برکتوں کا پھر مہینہ آ گیا
 
-4
-Hum Gunahgaron Ki Ya Rab Bakhsh De Sari Khata.
-Pyar Se Maa Baap Ke Bhar Kar Kareemi Hai Teri.
-Mere Malik Mere Khaliq Kya Raheemi Hai Teri.
-Rizq Deta Hai Ossay Bhi Woh Jo Hai Munkir Tera.
+۴
+ہم گناہ گاروں کی یا رب بخش دے ساری خطا
+پیار سے ماں باپ کے بھر کر کریمی ہے تیری
+میرے مالک میرے خالق کیا رحیمی ہے تیری
+رزق دیتا ہے اسے بھی وہ جو ہے منکر تیرا
 
-5
-Gul Mein Tu Khushbo Mein Tu Hai Teri Rehmat Ko Ba Ko.
-Sarhad-e-Jibreel Sidrah Oss Se Aagay Ho Hi Ho.
-Qul Ho Allah Ahad Hai Teri Wahdat Ka Pata.
-Zalzalay Hain Our Ghurbat Hai Kahin Par Hai Waba.
+۵
+گل میں تو خوشبو میں تو ہے تیری رحمت کو بہ کو
+سرحدِ جبریل سدرہ اس سے آگے ہو ہی ہو
+قل ہو اللہ احد ہے تیری وحدت کا پتا
+زلزلے ہیں اور غربت ہے کہیں پر ہے وبا
 
-6
-Aaftoon Ne Ghair Rakha Hai Zameen Ko Ja Baja.
-Tere Bandon Ko Hai Ya Rab Sirf Tera Aasra.
-Aa Rahi Hai Roz-o-Shab Teri Mashiyat Ke Sada.
-Oss Ne Kuch Khoya Nahi Jis Ne Bhi Tujh Ko Pa Liya.
+۶
+آفتوں نے گھیر رکھا ہے زمین کو جا بجا
+تیرے بندوں کو ہے یا رب صرف تیرا آسرا
+آ رہی ہے روز و شب تیری مشیت کی صدا
+اس نے کچھ کھویا نہیں جس نے بھی تجھ کو پا لیا
 
-7
-Oss Ne Kya Paya Bhala Jis Ne Bhi Tujh Ko Kho Diya.
-Mil Gaya Moqa Mujhe Afkar Ki Tajdeed Ka.
-Samne Tha Woh Mudarris Khutba e Tauheed Ka.
-Aye Takallum Hamd Likhney Ka Najaf Mein Hai Maza.
+۷
+اس نے کیا پایا بھلا جس نے بھی تجھ کو کھو دیا
+مل گیا موقع مجھے افکار کی تجدید کا
+سامنے تھا وہ مدرس خطبۂ توحید کا
+اے تکلم حمد لکھنے کا نجف میں ہے مزا

@@ -1,35 +1,68 @@
 ---
-title: "Vich Karbal, Ghazi Diyan Behna, Paiyan Ro Ro Deen Sadawan"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "وچ کربل، غازی دیاں بھیناں، پئیاں رو رو دین صداواں"
+alternateTitle: "Vich Karbal, Ghazi Diyan Behna, Paiyan Ro Ro Deen Sadawan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Vich Karbal, Ghazi diyan behna, paiyan ro ro deen sadawan
+
+  Ban qaidi jana ay Shaam walay, haye ban qaidi jana ay Shaam walay
+  Asi veeran baj ridawan
+
+  1
+  Nahi hosla si kise zalim da,
+  Sadhay sir di pak rida khonda
+  Na pyasa qatal Hussain honda,
+  Hondiyan jay teriyan baawan
+
+  2
+  Sang babay day wich maqtal day,
+  Asghar nai jad mangaya pani
+  Haye ro paey fauj-e-Yazeed sari,
+  Takh kay masoom adawan
+
+  3
+  Masooma laash day khol khari,
+  Babay nu vajan mar diyan
+  Avaz ayee, aa dhi rani ay,
+  Te nu seenay nal mein lavaan
+
+  4
+  Wich Shaam-e-Gareeban kalmagoan,
+  Saday khaimay aan kay sar dittay
+  Athay zalima, naizayan nal veera,
+  Sadhi layaiyan aan ridawan
 ---
 
-Vich Karbal, Ghazi Diyan Behna, Paiyan Ro Ro Deen Sadawan
+وچ کربل، غازی دیاں بھیناں، پئیاں رو رو دین صداواں
 
-Ban Qaidi Jana Ay Shaam Walay, Haye Ban Qaidi Jana Ay Shaam Walay
-Asi Veeran Baj Ridawan
+بن قیدی جانا اے شام والے، ہائے بن قیدی جانا اے شام والے
+اسیں ویراں باجھ رداواں
 
-Nahi Hosla Si Kise Zalim Da,
-Sadhay Sir Di Pak Rida Khonda
-Na Pyasa Qatal Hussain Honda,
-Hondiyan Jay Teriyan Baawan
+۱
+نئیں حوصلہ سی کسے ظالم دا،
+ساڈے سر دی پاک ردا کھوندا
+نہ پیاسا قتل حسین ہوندا،
+ہوندیاں جے تیریاں باہواں
 
-Sang Babay Day Wich Maqtal Day,
-Asghar Nai Jad Mangaya Pani
-Haye Ro Paey Fauj-e-Yazeed Sari,
-Takh Kay Masoom Adawan
+۲
+سنگ بابے دے وچ مقتل دے،
+اصغر نے جد منگیا پانی
+ہائے رو پئی فوجِ یزید ساری،
+تک کے معصوم اداواں
 
-Masooma Laash Day Khol Khari,
-Babay Nu Vajan Mar Diyan
-Avaz Ayee, Aa Dhi Rani Ay,
-Te Nu Seenay Nal Mein Lavaan
+۳
+معصومہ لاش دے کول کھڑی،
+بابے نوں واجاں مار دیاں
+آواز آئی، آ دھی رانی اے،
+تینوں سینے نال میں لاواں
 
-Wich Shaam-e-Gareeban Kalmagoan,
-Saday Khaimay Aan Kay Sar Dittay
-Athay Zalima, Naizayan Nal Veera,
-Sadhi Layaiyan Aan Ridawan
+۴
+وچ شامِ غریباں کلمہ گوآں،
+ساڈے خیمے آں کے ساڑ دتے
+اتھے ظالماں، نیزیاں نال ویرا،
+ساڈی لئیاں آں رداواں

@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Baaba na raha bhaai na rahe
-  Bete na rahe kuch bhi na raha
+  Bete na rahe kuchh bhi na raha
 
   1
   Waaris-e-tathir hai Karb o Bala meiṅ berida
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kalma go dete nahiṅ chalne ka un ko raasta
 
   6
-  Hai muqaddar ka sikandar tu ae Khurshid-e-haziṅ
+  Hai muqaddar ka Sikandar tu ae Khurshid-e-haziṅ
   Har kisi ko dahr meiṅ taqdir ye milti nahiṅ
   Ye qalam hai maadar-e-Shabbir ki tujh ko ata
 ---

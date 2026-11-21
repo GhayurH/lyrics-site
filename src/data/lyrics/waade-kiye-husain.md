@@ -35,7 +35,7 @@ romanLyrics: |-
   Dard-e-gham-e-Husain ne haiṅ hausle barha diye
 
   6
-  Hum se kahaaṅ hue sawaal Munkir Nakir to faqad
+  Hum se kahaaṅ hue sawaal Munkar Nakir to faqad
   Naam-e-Ali zabaaṅ pe aaya to muskura diye
 ---
 وعدے کیے حسین نے جتنے تھے سب نبھا دیے

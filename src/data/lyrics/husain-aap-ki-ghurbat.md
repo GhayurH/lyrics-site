@@ -14,23 +14,23 @@ published: true
 romanLyrics: |-
   Husain aap ka gham kitna nafsiyaati hai
   Zara si baat bahut der tak rulaati hai
-  Husain aap ki ghurbat bahut rulaati hai
+  Husain aap ka gham kitna nafsiyaati hai
 
   Khuda gawaah mere dil ko roz-e-Aashura
   Husain aap ki ghurbat bahut rulaati hai
 
   Karakti dhup wo garmi wo pyaas ka ghalba
-  Husain aap ki ghurbat bahut rulaati hai
+  Husain aap ka gham kitna nafsiyaati hai
 
   1
-  Musaafirat meiṅ ye ghurbat bhi aap ne dekhi
+  Musaafirat mein ye ghurbat bhi aap ne dekhi
   Husain aap ke dil par na jaane kya guzri
   Bana jab aap ka mehmaan Hur mere Maula
-  Nahiṅ tha aap ke khaime meiṅ bund bhar paani
+  Nahiṅ tha aap ke khaime mein bund bhar paani
   Karim aap ka mehmaan reh gaya pyaasa
 
   2
-  Bala ke dasht meiṅ Ibn-e-Hasan ke tukre the
+  Bala ke dasht mein Ibn-e-Hasan ke tukre the
   Zamin-e-garm pe Qaasim ke tan ke tukre the
   Wo jis ko aap ne khud baap ban ke paala tha
   Nazar ke saamne us gulbadan ke tukre the
@@ -44,25 +44,25 @@ romanLyrics: |-
   Behen ne aap ki bas aap par kiya girya
 
   4
-  Jigar tha aap ka ae Ibn-e-Faateh-e-Khaibar
+  Jigar tha aap ka ae Faateh-e-Khaibar
   Akele aap the karyal jawaaṅ ke laashe par
   Jhinjhorti hai bahut aap ki wo tanhaai
-  Uthaaya aap ne piri meiṅ laasha-e-Akbar
-  Nahiṅ tha aap ka pardes meiṅ koi apna
+  Uthaaya aap ne piri mein laasha-e-Akbar
+  Nahiṅ tha aap ka pardes mein koi apna
 
   5
-  Diler zaigham o jarraar mar gaya ran meiṅ
-  Husain aap ka ghamkhwaar mar gaya ran meiṅ
+  Diler zaigham o jarraar mar gaya ran mein
+  Husain aap ka ghamkhwaar mar gaya ran mein
   Jo haath aap ki quwwat the ae mere Maula
-  Kate wo haath alamdaar mar gaya ran meiṅ
+  Kate wo haath alamdaar mar gaya ran mein
   Jari ne aap ke zaanu pe apna dam tora
 
   6
   Salaam aap ki himmat ko Sayyid-e-mazlum
   Chhida hai tir se Asghar ka jis ghari hulqum
-  Dahaareṅ maar ke roya hai sabr khud us dam
+  Dhaareṅ maar ke roya hai sabr khud us dam
   Hua jab aap ke haathoṅ pe munqalib maasum
-  Wo bezabaan pisar aur wo tir-e-seh shoba
+  Wo bezabaan pisar aur wo tir-e-seh shuba
 
   7
   Jise sukun bataate the aap khud apna
@@ -73,10 +73,10 @@ romanLyrics: |-
 
   8
   Qadam qadam pe rulaaya hai Shaam waaloṅ ne
-  Musaafirat meiṅ sataaya hai Shaam waaloṅ ne
+  Musaafirat mein sataaya hai Shaam waaloṅ ne
   Kahaaṅ ye zulm kisi bewatan pe hota hai
   Jo zulm aap pe dhaaya hai Shaam waaloṅ ne
-  Rula rula ke lainoṅ ne aap ko maara
+  Rula rula ke la'inoṅ ne aap ko maara
 
   9
   Wo bekasi wo musibat wo aalam-e-ghurbat

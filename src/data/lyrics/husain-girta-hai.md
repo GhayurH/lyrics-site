@@ -12,48 +12,48 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain girta hai ghore se aaiye amma
-  Lage na zakhm khudara bachaiye amma
+  Husain girta hai ghore se aaiye ammaaṅ
+  Lage na zakhm khudaara bachaaiye ammaaṅ
 
   1
   Sadaaeṅ deta hai ro ro ke aap ko Sarwar
   Mujhe gale se laga lijiye qarib aa kar
-  Khudara naaz mere phir uthaiye amma
+  Khudaara naaz mere phir uthaaiye ammaaṅ
 
   2
   Ye imtehaan bhi Shabbir dene jaate haiṅ
   Zamin-e-garm pe zakhmoṅ ke saath aate haiṅ
-  Sulagti ret hai daaman bichhaiye amma
+  Sulagti ret hai daaman bichhaaiye ammaaṅ
 
   3
   Dua kare ke na mujh sa koi gharib howe
   Kahiṅ se khatra agar aab ka nasib howe
-  Hamari tashna labi ko bujhaiye amma
+  Hamaari tashna labi ko bujhaaiye ammaaṅ
 
   4
   Ye zof kehta hai utha na jaayega Sarwar
   Karuṅ maiṅ aap ki taazim maadar-e-muztar
-  Sahara de ke mujhe bas uthaiye amma
+  Sahaara de ke mujhe bas uthaaiye ammaaṅ
 
   5
   Sukun mujh ko milega yaqin hai mujh ko
   Jo zakhm haiṅ wo silega yaqin hai mujh ko
-  Jo ho sake to gale se lagaiye amma
+  Jo ho sake to gale se lagaaiye ammaaṅ
 
   6
   Haiṅ aap maaṅ meri maiṅ aap ka gharib Husain
   Qaza se ho gaya is waqt to qarib Husain
-  Qaza ka waqt hai himmat bandhaiye amma
+  Qaza ka waqt hai himmat bandhaaiye ammaaṅ
 
   7
   Mangaaya tha kabhi kapra bahisht se mera
   Phir ek baar ye zahmat gawaara ho lillaah
-  Jinaaṅ se mera kafan ab mangaaiye amma
+  Jinaaṅ se mera kafan ab mangaaiye ammaaṅ
 
   8
   Yehi thi Dayam o Yazdaaṅ gharib ki hasrat
   Na dekh paaye behan mere zakhm ki kasrat
-  Rida se zakhm hamaara chhupaiye amma
+  Rida se zakhm hamaara chhupaaiye ammaaṅ
 ---
 حسین گرتا ہے گھوڑے سے آئیے اماں
 لگے نہ زخم خدارا بچائیے اماں

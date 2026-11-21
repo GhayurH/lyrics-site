@@ -62,7 +62,7 @@ romanLyrics: |-
   Zainab-e-haziṅ ke bain
   Har ek ki laash le gaye
   Para hai laasha-e-Husain
-  Laiṅ hai har kuchal raha
+  La'iṅ hai har kuchal raha
 
   6
   Ye keh rahi hai Faatima
@@ -75,8 +75,8 @@ romanLyrics: |-
 
   7
   Uruj-e-ghairat-e-Nabi
-  Kisa ka nur-e-laazawaal
-  Na shaam ko bhula saka
+  Kisaa ka nur-e-laazawaal
+  Na Shaam ko bhula saka
   Use hai aaj bhi malaal
   Husain ki hai aarzu
   Rakhe hijaab ka khayal
@@ -98,7 +98,7 @@ romanLyrics: |-
   Kya kiye haiṅ jin ke kaam
   Giroh kitne ban gaye
   Magar akela hai Imam
-  Ye aaj ki hai karbala
+  Ye aaj ki hai Karbala
 ---
 
 یہ کہہ رہے ہیں مصطفیٰ

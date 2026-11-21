@@ -1,77 +1,140 @@
 ---
-title: "Hussain Ka Akbar Syed Raza Abbas Zaidi"
+title: "حسین کا اکبر سید رضا عباس زیدی"
+alternateTitle: "Hussain Ka Akbar Syed Raza Abbas Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Arsh se farsh pe har rukh se kamal aata hai
+  Ghar mein Shabeer ke Shabeer ka lal aata hai
+  Farsh par ban ke Muhammad ki misal aata hai
+  Iss ki khilqat ka jo socho tu khiyal aata hai
+  Samne pehle Muhammad ko bithaya hoga
+  Phir Khuda ne Ali Akbar ko banaya hoga
+
+  2
+  Hukam-e-Khaliq hai ke hona hai nuzool-e-Akbar
+  Husan hi husan nazar aaye jidhar jaye nazar
+  Saj gaye dono jahan kitna haseen hai manzar
+  Bich gaya farsh pe jab arsh-e-barin tab ja kar
+  Umm-e-Laila ki tamanaon ka mehwar utra
+  Noor ke saye mein Shabeer ka Akbar utra
+
+  3
+  Baap se betay ki jab pehli mulaqaat hoi
+  Aankhon aankhon mein haseeno ki haseen baat hoi
+  Noor-e-Akbar ke ujalon mein basar raat hoi
+  Dekha Shabeer ne chehra tu ada naat hoi
+  Jaisa chaha tha mila hai mujhe beta waisa
+  Mera Akbar tu nazar aata hai nana jaisa
+
+  4
+  Payi jab aamad-e-Akbar ki khabar Zainab ne
+  Muskuratay hoye ki rah basar Zainab ne
+  Shams ki gaud mein dekha jo qamar Zainab ne
+  Khud sitaron se utari hai nazar Zainab ne
+  Bhai se boli behan naik samajh kar dedo
+  Meri aagosh mein bhaiyya mera Akbar dedo
+
+  5
+  Le ke aagosh mein Zainab ne kaha kya kehne
+  Tera chehra teri har aik ada kya kehne
+  Teri aankhon mein nazar aaye Khuda kya kehne
+  Khud yeh Quran bhi deta hai sada kya kehne
+  Jab se ghar aaya hai tu husan-e-misali ban kar
+  Chand dehleez pe betha hai sawali ban kar
+
+  6
+  Dekha Abbas ne chehra jo Ali Akbar ka
+  Bolay ik our sipahi mere lashkar ko mila
+  Roab aankhon mein nazar aaya jo apne jaisa
+  Kamsini mein yeh chalan dekh ke Ghazi ne kaha
+  Kaisay talwar chalatay hain sikhaon ga issay
+  Dekhna sani-e-Abbas banaon ga issay
+
+  7
+  Kaha Shabeer ne Sajad se aao dekho
+  Ali Akbar ki nazar dhond rahi hai tum ko
+  Chotay bhai ke qareeb aaya bara bhai tu
+  Muskuratay hoye Akbar se kaha kaisay ho
+  Hai qasam husan ki tu itna haseen hai Akbar
+  Tere chehray se nazar hatti nahi hai Akbar
+
+  8
+  Dekho Zeeshan-o- Raza kaisa shabab aaya hai
+  Nojawani ke gulistaan mein ghulab aaya hai
+  Iss liye chehra-e-Akbar pe naqab aaya hai
+  Koi na keh de Muhammad ka jawab aaya hai
+  Sath Shabeer ke Akbar jo kahin jate hain
+  Oss ke dedar ko Yousuf bhi chaley aate hain
 ---
 
-Hussain Ka Akbar Syed Raza Abbas Zaidi
+۱
+عرش سے فرش پہ ہر رخ سے کمال آتا ہے
+گھر میں شبیر کے شبیر کا لال آتا ہے
+فرش پر بن کے محمد کی مثال آتا ہے
+اس کی خلقت کا جو سوچو تو خیال آتا ہے
+سامنے پہلے محمد کو بٹھایا ہوگا
+پھر خدا نے علی اکبر کو بنایا ہوگا
 
-1
-Arsh Se Farsh Pe Har Rukh Se Kamal Aata Hai.
-Ghar Mein Shabeer Ke Shabeer Ka Lal Aata Hai.
-Farsh Par Ban Ke Muhammad Ki Misal Aata Hai.
-Iss Ki Khilqat Ka Jo Socho Tu Khiyal Aata Hai.
-Samne Pehle Muhammad Ko Bithaya Hoga.
-Phir Khuda Ne Ali Akbar Ko Banaya Hoga.
+۲
+حکمِ خالق ہے کہ ہونا ہے نزولِ اکبر
+حسن ہی حسن نظر آئے جدھر جائے نظر
+سج گئے دونوں جہاں کتنا حسین ہے منظر
+بچھ گیا فرش پہ جب عرشِ بریں تب جا کر
+امِ لیلیٰ کی تمناؤں کا محور اترا
+نور کے سائے میں شبیر کا اکبر اترا
 
-2
-Hukam-e-Khaliq Hai Ke Hona Hai Nuzool-e-Akbar.
-Husan Hi Husan Nazar Aaye Jidhar Jaye Nazar.
-Saj Gaye Dono Jahan Kitna Haseen Hai Manzar.
-Bich Gaya Farsh Pe Jab Arsh-e-Barin Tab Ja Kar.
-Umm-e-Laila Ki Tamanaon Ka Mehwar Utra.
-Noor Ke Saye Mein Shabeer Ka Akbar Utra.
+۳
+باپ سے بیٹے کی جب پہلی ملاقات ہوئی
+آنکھوں آنکھوں میں حسینوں کی حسین بات ہوئی
+نورِ اکبر کے اجالوں میں بسر رات ہوئی
+دیکھا شبیر نے چہرہ تو ادا نعت ہوئی
+جیسا چاہا تھا ملا ہے مجھے بیٹا ویسا
+میرا اکبر تو نظر آتا ہے نانا جیسا
 
-3
-Baap Se Betay Ki Jab Pehli Mulaqaat Hoi.
-Aankhon Aankhon Mein Haseeno Ki Haseen Baat Hoi.
-Noor-e-Akbar Ke Ujalon Mein Basar Raat Hoi.
-Dekha Shabeer Ne Chehra Tu Ada Naat Hoi.
-Jaisa Chaha Tha Mila Hai Mujhe Beta Waisa.
-Mera Akbar Tu Nazar Aata Hai Nana Jaisa.
+۴
+پائی جب آمدِ اکبر کی خبر زینب نے
+مسکراتے ہوئے کی راہ بسر زینب نے
+شمس کی گود میں دیکھا جو قمر زینب نے
+خود ستاروں سے اتاری ہے نظر زینب نے
+بھائی سے بولی بہن نیک سمجھ کر دے دو
+میری آغوش میں بھیا میرا اکبر دے دو
 
-4
-Payi Jab Aamad-e-Akbar Ki Khabar Zainab Ne.
-Muskuratay Hoye Ki Rah Basar Zainab Ne.
-Shams Ki Gaud Mein Dekha Jo Qamar Zainab Ne.
-Khud Sitaron Se Utari Hai Nazar Zainab Ne.
-Bhai Se Boli Behan Naik Samajh Kar Dedo.
-Meri Aagosh Mein Bhaiyya Mera Akbar Dedo.
+۵
+لے کے آغوش میں زینب نے کہا کیا کہنے
+تیرا چہرہ تیری ہر ایک ادا کیا کہنے
+تیری آنکھوں میں نظر آئے خدا کیا کہنے
+خود یہ قرآن بھی دیتا ہے صدا کیا کہنے
+جب سے گھر آیا ہے تو حسنِ مثالی بن کر
+چاند دہلیز پہ بیٹھا ہے سوالی بن کر
 
-5
-Le Ke Aagosh Mein Zainab Ne Kaha Kya Kehne.
-Tera Chehra Teri Har Aik Ada Kya Kehne.
-Teri Aankhon Mein Nazar Aaye Khuda Kya Kehne.
-Khud Yeh Quran Bhi Deta Hai Sada Kya Kehne.
-Jab Se Ghar Aaya Hai Tu Husan-e-Misali Ban Kar.
-Chand Dehleez Pe Betha Hai Sawali Ban Kar.
+۶
+دیکھا عباس نے چہرہ جو علی اکبر کا
+بولے اک اور سپاہی میرے لشکر کو ملا
+رعب آنکھوں میں نظر آیا جو اپنے جیسا
+کم سنی میں یہ چلن دیکھ کے غازی نے کہا
+کیسے تلوار چلاتے ہیں سکھاؤں گا اسے
+دیکھنا ثانیِ عباس بناؤں گا اسے
 
-6
-Dekha Abbas Ne Chehra Jo Ali Akbar Ka.
-Bolay Ik Our Sipahi Mere Lashkar Ko Mila.
-Roab Aankhon Mein Nazar Aaya Jo Apne Jaisa.
-Kamsini Mein Yeh Chalan Dekh Ke Ghazi Ne Kaha.
-Kaisay Talwar Chalatay Hain Sikhaon Ga Issay.
-Dekhna Sani-e-Abbas Banaon Ga Issay.
+۷
+کہا شبیر نے سجاد سے آؤ دیکھو
+علی اکبر کی نظر ڈھونڈ رہی ہے تم کو
+چھوٹے بھائی کے قریب آیا بڑا بھائی تو
+مسکراتے ہوئے اکبر سے کہا کیسے ہو
+ہے قسم حسن کی تو اتنا حسین ہے اکبر
+تیرے چہرے سے نظر ہٹتی نہیں ہے اکبر
 
-7
-Kaha Shabeer Ne Sajad Se Aao Dekho.
-Ali Akbar Ki Nazar Dhond Rahi Hai Tum Ko.
-Chotay Bhai Ke Qareeb Aaya Bara Bhai Tu.
-Muskuratay Hoye Akbar Se Kaha Kaisay Ho.
-Hai Qasam Husan Ki Tu Itna Haseen Hai Akbar.
-Tere Chehray Se Nazar Hatti Nahi Hai Akbar.
-
-8
-Dekho Zeeshan-o- Raza Kaisa Shabab Aaya Hai.
-Nojawani Ke Gulistaan Mein Ghulab Aaya Hai.
-Iss Liye Chehra-e-Akbar Pe Naqab Aaya Hai.
-Koi Na Keh De Muhammad Ka Jawab Aaya Hai.
-Sath Shabeer Ke Akbar Jo Kahin Jate Hain.
-Oss Ke Dedar Ko Yousuf Bhi Chaley Aate Hain.
+۸
+دیکھو ذیشان و رضا کیسا شباب آیا ہے
+نوجوانی کے گلستاں میں گلاب آیا ہے
+اس لیے چہرۂ اکبر پہ نقاب آیا ہے
+کوئی نہ کہہ دے محمد کا جواب آیا ہے
+ساتھ شبیر کے اکبر جو کہیں جاتے ہیں
+اس کے دیدار کو یوسف بھی چلے آتے ہیں

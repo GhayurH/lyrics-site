@@ -1,56 +1,86 @@
 ---
-title: "Hur Zara Pehchaan Mujhko Bolta Quran Hun Main"
+title: "حر ذرا پہچان مجھ کو بولتا قرآن ہوں میں"
+alternateTitle: "Hur Zara Pehchaan Mujhko Bolta Quran Hun Main"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hur zara pehchaan mujhko bolta Quran hun main
+  Marzeeyay Rab-e-Jalee hoon, dard ka sultan hoon main
+
+  1
+  Tu mere bachpan ka wada manga ta tujhko Khudah se
+  Tera aana Karbala mein likha hai meri raza se
+  Tu bahattar main hai shamil Hurr teri pehchaan hun main
+
+  2
+  Main Hussain ibn Ali hun malik-e-khuld-e-bali
+  Muthi main dariya hai meray bekafan piyasa nehi hun
+  Hurr meray seenay seh lag ja aaj ka mehmaan hun main
+
+  3
+  Dheen hai meray karam pe anbiya ki laaj hun main
+  Ab Khudah ko fiqr kaisi Karbala mein aaj hun main
+  Yeh zameen mere shahdat a ilaha ki aan hun main
+
+  4
+  Jung hoti agere gawara bhejta Abbas ko main
+  Kuch na rehta Karbala mein khatam karta pyaas ko main
+  Haq o ki batil ki larai main main bhi aik maidzaan hun main
+
+  5
+  Sir mera naizay pe hogi saath chadar bhi hogi
+  Balon ka parda banaye Awn ki badar bhi hogi
+  Mujh pe ehsaan hai Zainab deen pe ehsaan hun main
+
+  6
+  Dekhna Hurr meray ghum har jagah matam bhi hongay
+  Khoon jismo se bahein ge momino mein hum bhi hongay
+  Hun azadar ka maula nanay ka farman hun main
+
+  7
+  Kufr kay rastay chala tha aabay Kauser mil gaya hai
+  Raat mein Shahroz Hurr ko roz-e-mehshar mil gaya
+  Hurr ki kia taqdeer badli aaj bhi hairaan hun main
 ---
 
-Hur Zara Pehchaan Mujhko Bolta Quran Hun Main.
+حر ذرا پہچان مجھ کو بولتا قرآن ہوں میں
+مرضیِ ربِ جلی ہوں، درد کا سلطان ہوں میں
 
-Marzeeyay Rab-e-Jalee Hoon, Dard Ka Sultan Hoon Main.
+۱
+تو میرے بچپن کا وعدہ مانگا تھا تجھ کو خدا سے
+تیرا آنا کربلا میں لکھا ہے میری رضا سے
+تو بہتر میں ہے شامل حر تیری پہچان ہوں میں
 
-Tu Mere Bachpan Ka Wada Manga Ta Tujhko Khudah Se
+۲
+میں حسین ابنِ علی ہوں مالکِ خلدِ بالی
+مٹھی میں دریا ہے میرے بے کفن پیاسا نہیں ہوں
+حر میرے سینے سے لگ جا آج کا مہمان ہوں میں
 
-Tera Aana Karbala Mein Likha Hai Meri Raza Se
+۳
+دین ہے میرے کرم پہ انبیا کی لاج ہوں میں
+اب خدا کو فکر کیسی کربلا میں آج ہوں میں
+یہ زمین میرے شہادتِ الٰہ کی آن ہوں میں
 
-Tu Bahattar Main Hai Shamil Hurr Teri Pehchaan Hun Main.
+۴
+جنگ ہوتی اگر گوارا بھیجتا عباس کو میں
+کچھ نہ رہتا کربلا میں ختم کرتا پیاس کو میں
+حق و کی باطل کی لڑائی میں میں بھی ایک میدان ہوں میں
 
-Main Hussain Ibn Ali Hun Malik-e-Khuld-e-Bali
+۵
+سر میرا نیزے پہ ہوگی ساتھ چادر بھی ہوگی
+بالوں کا پردہ بنائے عون کی بدر بھی ہوگی
+مجھ پہ احسان ہے زینب دین پہ احسان ہوں میں
 
-Muthi Main Dariya Hai Meray Bekafan Piyasa Nehi Hun
+۶
+دیکھنا حر میرے غم ہر جگہ ماتم بھی ہوں گے
+خون جسموں سے بہیں گے مومنوں میں ہم بھی ہوں گے
+ہوں عزادار کا مولا نانے کا فرمان ہوں میں
 
-Hurr Meray Seenay Seh Lag Ja Aaj Ka Mehmaan Hun Main.
-
-Dheen Hai Meray Karam Pe Anbiya Ki Laaj Hun Main
-
-Ab Khudah Ko Fiqr Kaisi Karbala Mein Aaj Hun Main
-
-Yeh Zameen Mere Shahdat A Ilaha Ki Aan Hun Main.
-
-Jung Hoti Agere Gawara Bhejta Abbas Ko Main
-
-Kuch Na Rehta Karbala Mein Khatam Karta Pyaas Ko Main
-
-Haq O Ki Batil Ki Larai Main Main Bhi Aik Maidzaan Hun Main.
-
-Sir Mera Naizay Pe Hogi Saath Chadar Bhi Hogi
-
-Balon Ka Parda Banaye Awn Ki Badar Bhi Hogi
-
-Mujh Pe Ehsaan Hai Zainab Deen Pe Ehsaan Hun Main.
-
-Dekhna Hurr Meray Ghum Har Jagah Matam Bhi Hongay
-
-Khoon Jismo Se Bahein Ge Momino Mein Hum Bhi Hongay
-
-Hun Azadar Ka Maula Nanay Ka Farman Hun Main.
-
-Kufr Kay Rastay Chala Tha Aabay Kauser Mil Gaya Hai
-
-Raat Mein Shahroz Hurr Ko Roz-e-mehshar Mil Gaya
-
-Hurr Ki Kia Taqdeer Badli Aaj Bhi Hairaan Hun Main.
+۷
+کفر کے رستے چلا تھا آبِ کوثر مل گیا ہے
+رات میں شہروز حر کو روزِ محشر مل گیا
+حر کی کیا تقدیر بدلی آج بھی حیران ہوں میں

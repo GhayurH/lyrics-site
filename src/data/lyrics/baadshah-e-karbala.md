@@ -18,23 +18,23 @@ romanLyrics: |-
   Ae baadshah-e-Karbala Maula Husain Maula Husain
 
   1
-  Karbobala jannat meri karbobala chaahat meri
+  Karbobala jannat meri Karbobala chaahat meri
   Ab to mujhe didaar ho dil hai bechain Maula Husain
 
   2
-  Maiṅ nauhakhwaan maiṅ maatami karbobala hai zindagi
+  Maiṅ nauhakhwaan maiṅ maatami Karbobala hai zindagi
   Sun lo meri aawaaz ko Zehra ke chain Maula Husain
 
   3
-  Sab ho ke aaye karbobala maiṅ reh gaya tanha yahaaṅ
+  Sab ho ke aaye Karbobala maiṅ reh gaya tanhaa yahaaṅ
   Didaar ko bas aap ke tarse hai nain Maula Husain
 
   4
   Rauza tera ho saamne aansu mere behte rahe
-  Dil se yehi aaye sada haaye Husain Maula Husain
+  Dil se yehi aaye sadaa haaye Husain Maula Husain
 
   5
-  Zishaan o Irfan-e-aza naad-e-Ali ki hai dua
+  Zishaan o Irfaan-e-azaa naad-e-Ali ki hai duaa
   Mujhko bula le Karbala Maula Husain
 ---
 کربلا اے کربلا

@@ -1,34 +1,57 @@
 ---
-title: "Waang Ruku De Lokon Ek Qaidi Turda Jaavay"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "وانگ رکوع دے لوکو اک قیدی ٹردا جاوے"
+alternateTitle: "Waang Ruku De Lokon Ek Qaidi Turda Jaavay"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Waang ruku de lokon, ek qaidi turda jaavay
+  Nayi sir chukda, es gal ton lokon, kithay Baqar mar – na jaavay
+
+  1
+  Enj di ghurbat Sajjad utay, ayi Shaam deyaan, haye bazaaran vich
+  Mout apne layi, te phupiyan layi lokon, haye chaadran mangda jaavay
+
+  2
+  Menu beshak paavein maar deyo, paven sir naizay, mera chaar deyo
+  Bas kaj daivo, haye sir Zainab de nu, peya Abid vai–nay paavay
+
+  3
+  Turda turda enj ruk si gaya, enj lagda aye, Abid muk si gaya
+  Mar jaavay na, haye rawaan vich Abid, dil Zainab da – ghabraway
+
+  4
+  Rakh saamne laash Sakina di, haye ro ro ke, Abid kainda si
+  Gal tauk te ne, hath rasiyan vich mere, tenu veer kiwein – dafnaavay
+
+  5
+  Aidi akhiyan ne Karbal vaikhi, nalay vekhiyan nai, naizay te chadran
+  Hanjuwan di thaan, khoon aidi akhiyan chon, das Naasir kyun na aavay
 ---
 
-Waang Ruku De Lokon, Ek Qaidi Turda Jaavay
+وانگ رکوع دے لوکو، اک قیدی ٹردا جاوے
+نئیں سر چکدا، ایس گل توں لوکو، کتھے باقر مر نہ جاوے
 
-Nayi Sir Chukda, Es Gal Ton Lokon, Kithay Baqar Mar – Na Jaavay
+۱
+اینج دی غربت سجاد اُتے، آئی شام دیاں، ہائے بازاراں وچ
+موت اپنے لئی، تے پھپھیاں لئی لوکو، ہائے چادراں منگدا جاوے
 
-Enj Di Ghurbat Sajjad Utay, Ayi Shaam Deyaan, Haye Bazaaran Vich
+۲
+مینوں بے شک بھاویں مار دیو، بھاویں سر نیزے، میرا چاڑھ دیو
+بس کج دیو، ہائے سر زینب دے نوں، پیا عابد وینے پاوے
 
-Mout Apne Layi, Te Phupiyan Layi Lokon, Haye Chaadran Mangda Jaavay
+۳
+ٹردا ٹردا اینج رک سی گیا، اینج لگدا اے، عابد مک سی گیا
+مر جاوے نہ، ہائے راہواں وچ عابد، دل زینب دا گھبراوے
 
-Menu Beshak Paavein Maar Deyo, Paven Sir Naizay, Mera Chaar Deyo
+۴
+رکھ سامنے لاش سکینہ دی، ہائے رو رو کے، عابد کہندا سی
+گل طوق تے نے، ہتھ رسیاں وچ میرے، تینوں ویر کیویں دفناوے
 
-Bas Kaj Daivo, Haye Sir Zainab De Nu, Peya Abid Vai–nay Paavay
-
-Turda Turda Enj Ruk Si Gaya, Enj Lagda Aye, Abid Muk Si Gaya
-
-Mar Jaavay Na, Haye Rawaan Vich Abid, Dil Zainab Da – Ghabraway
-
-Rakh Saamne Laash Sakina Di, Haye Ro Ro Ke, Abid Kainda Si
-
-Gal Tauk Te Ne, Hath Rasiyan Vich Mere, Tenu Veer Kiwein – Dafnaavay
-
-Aidi Akhiyan Ne Karbal Vaikhi, Nalay Vekhiyan Nai, Naizay Te Chadran
-
-Hanjuwan Di Thaan, Khoon Aidi Akhiyan Chon, Das Naasir Kyun Na Aavay
+۵
+ایہدی اکھیاں نے کربل ویکھی، نالے ویکھیاں نئیں، نیزے تے چادراں
+ہنجواں دی تھاں، خون ایہدی اکھیاں چوں، دس ناصر کیوں نہ آوے

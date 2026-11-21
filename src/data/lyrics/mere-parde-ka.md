@@ -14,55 +14,55 @@ romanLyrics: |-
   Ae mere bawafa ghazi
   Hai behen berida ghazi
   Ghazi ki khwahar jab qaidi ban kar
-  Le kar chali kaarwaṅ
+  Le kar chali kaarwaaṅ
   Hontoṅ pe tha marsiya
-  Karti thi bas ye fughaṅ
-  Shaam jaana hai intezam to kar
+  Karti thi bas ye fughaaṅ
+  Shaam jaana hai intezaam to kar
   Mere parde ka bawafa ghazi
-  Shaam o kufe ki raah guazaroṅ se
-  Kaise jaaungi berida ghazi
+  Shaam o Kufe ki raah guzaaroṅ se
+  Kaise jaauṅ gi berida ghazi
   Shaam jaana hai...
-  Baad tere layiṅ zadoṅ ne
-  Noke naiza se chin li chadar
+  Baad tere laiṅ zaadoṅ ne
+  Nok-e-naiza se chhin li chaadar
   Teri ghairat ne khun rulwaya
-  Jab asir e rasan hui khwahar
-  Yaad aaya safar madine ka
+  Jab asir-e-rasan hui khwahar
+  Yaad aaya safar Madine ka
   Aayi hontoṅ pe ye buka ghazi
   Shaam jaana hai...
-  Mai maidne ki shaahzadi hoo
-  Mehmileiṅ aayi na amaari hai
-  Mai tamasha hoo aur tamashayi
-  Mere nana ki qaum saari hai
-  Aise aalam meiṅ ek siwa tere
-  Kis ko awaaz doo bata ghazi
+  Main maidaan ki shaahzaadi huṅ
+  Mahmileṅ aayi na amaari hai
+  Main tamaasha huṅ aur tamaashaai
+  Mere naana ki qaum saari hai
+  Aise aalam meiṅ ik siwa tere
+  Kis ko aawaaz duṅ bata ghazi
   Shaam jaana hai...
-  Kaifiat dil ki kya batauṅ mai
-  Dil ye kehta hai mar hi jaauṅ mai
-  Mera sajjad khun rota hai
-  Chehra baaloṅ se jab chupauṅ mai
-  Ek chadar ka ab sawaali hai
-  Sabr o ghairat ko wo khuda ghazi
+  Kaifiyat dil ki kya bataauṅ main
+  Dil ye kehta hai mar hi jaauṅ main
+  Mera Sajjad khun rota hai
+  Chehra baaloṅ se jab chhupaauṅ main
+  Ik chaadar ka ab sawaali hai
+  Sabr o ghairat ko wo Khuda ghazi
   Shaam jaana hai...
   Kab ye socha tha ae mere ghazi
-  Zindagi aise aazmeinegi
-  Teri zainab baghair tere hi
-  Berida ho ke shaam jayegi
+  Zindagi aise aazmaayegi
+  Teri Zainab baghair tere hi
+  Berida ho ke Shaam jaayegi
   Ae mere sher kar madad meri
-  Sirf tujhse hai aasra ghazi
+  Sirf tujh se hai aasra ghazi
   Shaam jaana hai...
-  Aaeno se sajaye hai bazaar
-  Log haste hai mere rone par
-  Is khadar sakht imtehan hai ye
+  Aainoṅ se sajaaye haiṅ baazaar
+  Log hanste haiṅ mere rone par
+  Is qadar sakht imtihaan hai ye
   Khuṅ rulaata hai mujhko ye manzar
-  Ek naize pe meri chadar hai
+  Ik naize pe meri chaadar hai
   Ek naize pe sar tera ghazi
   Shaam jaana hai...
-  Dard tehrir meiṅ nahi aate
-  Lafz karte hai ilteja mazhar
-  Ek jumla bahot qayamat hai
-  Lab pe aate hi ro diya safdar
-  Shaam jaa kar kaha jo bibi ne
-  Mere marne ki kar dua ghazi
+  Dard tahrir meiṅ nahiṅ aate
+  Lafz karte haiṅ ilteja Mazhar
+  Ik jumla bahut qayaamat hai
+  Lab pe aate hi ro diya Safdar
+  Shaam jaa kar kaha jo Bibi ne
+  Mere marne ke kar dua ghazi
   Shaam jaana hai...
 ---
 

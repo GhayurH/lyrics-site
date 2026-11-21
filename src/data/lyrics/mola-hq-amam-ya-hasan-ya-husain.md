@@ -8,36 +8,51 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Husain Ya Husain
+  Ya Husain ya Husain
 
   1
-  Maula Haq Imam, Ya Hasan Ya Husain
+  Maula Haq Imam, ya Hasan ya Husain
 
   2
-  1. Wo Abide Bimar Tha, Chalne Se Jo Lachaar Tha
-  Aur Shaam Ka Baazar Tha, Aur Murtaza Ki Betiyan
-  2. Shabbir Ki Woh Laadli, Seene Pe Jo Shah Ke Pali
-  Jis Ki Aba Ran Mein Jali, Mu Par Tamacho Ke Nishan
-  3. Wo Asghare Besheer Tha, Aur Hurmula Ka Teer Tha
-  Pyaasa Gala Kyu Kar Chida, Larzi Zameen Aur Aasman
-  4. Pyaase Gale Khanjar Chale, Chaadar Chini Dure Lage
-  Abbas Ke Parcham Tale, Ro Kar Kahe Ye Bibiya
-  5. Ro Kar Kahe Qasim Ki Ma, Maara Geya Qasim Jawan
-  Aye Lal Mein Dhundu Kahan, Mehendi Teri Sehra Tera
-  6. Shaame Ghariba Cha Geyi, Abid Ko Ghairat Kha Geyi
-  Pehre Pe Zainab Aa Geyi, Abbas Aur Akbar Kahan
-  7. Wo Bawafa Abbas Tha, Dukhiyo Ki Jo Ek Aas Tha
-  Pani Mila Par Na Piya, Pyasi Rahi Shehazadiya
-  8. Wo Bawafa Abbas Tha, Toote Dilo Ki Aas Tha
-  Pani Liya Par Na Piya, Masooma Ka Ehsaas Tha
-  9. Ek Abide Beemar Tha, Muddat Se Jo Beemar Tha
-  Aur Tauq Ka Azaar Tha, Aur Pao Mein Thi Bediya
-  11. Vo Zainabo Kulsoom thi, Chadar Se Jo Mehroom thi
-  Na Mahramo ke darmiya, Roti Rahi Shehzadiya
-  12. Chey Mah ka besheer tha, Aur Hurmula ka teer tha
-  Pyasa gala kyu kar kata, Ro kar kahe ye bibiya
-  13. Sughra Udhar roti rahi, Moula idhar roote rahe
-  Aur khatl sab hote rahe, Phir bhi kare shukre khuda
+  Woh asr ka hangaam tha, pyaasa gala kaata gaya
+  Maidan mein chaaroṅ taraf, Zehra ki gunji yeh sada
+  Zehra ka jo tha laadla, jannat ka woh sardaar tha
+  Sajde mein jo maara gaya, tharra uthe arz o sama
+  Woh Abid-e-bimaar tha, chalne se jo laachaar tha
+  Aur Shaam ka baazaar tha, aur Mustafa ki betiyaaṅ
+  Shaam-e-gharibaaṅ chha gai, Abid ko ghairat kha gai
+  Pehre pe Zainab aa gai, Abbas aur Akbar kahaaṅ
+  Woh Asghar-e-be shir tha, aur Hurmula ka tir tha
+  Pyaasa gala kiuṅ kar chhida, larzi zamin aur aasmaaṅ
+  Woh Akbar-e-karil jawaaṅ, sine pe jo kha kar sinaaṅ
+  Ran se chala su-e-jinaaṅ, khaimoṅ mein thi aah o buka
+  Shabbar ki woh laadli, sine pe jo Shah ke pali
+  Jis ki aba ban mein jali, munh par tamaanchoṅ ke nishaan
+  Ro kar kahe Qasim ki maaṅ, maara gaya Qasim jawaaṅ
+  Ae laal main dhunduṅ kahaaṅ, mehndi teri sehra tera
+  Woh bawafa Abbas tha, tute diloṅ ki aas tha
+  Paani liya par na piya, Maasuma ka ehsaas tha
+  Pyaase gale khanjar chale, chaadar chhini darre lage
+  Abbas ke parcham tale, ro kar kaheṅ yeh bibiyaaṅ
+  Zainab ke donoṅ laadle, darya pe jo maare gae
+  Khaime mein jo laashe gae, maaṅ ne kiya shukr-e-Khuda
+  Woh Zainab o Kulsum thiṅ, chaadar se jo mahrum thiṅ
+  Na mahramoṅ ke darmiyaaṅ, roti rahiṅ saidaaniyaaṅ
+  Sughra udhar roti rahi, maula idhar rote rahe
+  Aur qatl sab hote rahe, phir bhi kare shukr-e-Khuda
+  Woh Mustafa ki aal thi, Karbal mein jo ke lut gai
+  Baad-e-khizaaṅ aisi chali, maare gae pir o jawaaṅ
+  Chaaroṅ taraf be pir haiṅ, yeh waaris-e-tathir haiṅ
+  Hui qaid be taqsir haiṅ, roti rahiṅ shahzaadiyaaṅ
+
+  Woh bawafa Abbas tha, dukhiya diloṅ ki aas tha
+  Paani mila par na piya, pyaasi rahiṅ shahzaadiyaaṅ
+  Woh Hazrat-e-Abbas the, lashkar ke jo saalaar the
+  Darya pe jo maare gae, pyaasi rahiṅ sab bibiyaaṅ
+  Woh jo sitam sehta raha, pairoṅ se khuṅ behta raha
+  Ro reh ke jo kehta raha, zulm o sitam ki daastaaṅ
+  Chhe maah ka be shir tha, aur Hurmula ka tir tha
+  Tir-e-sitam maara gaya, ro kar kahe Asghar ki maaṅ
 ---
 
 یا حسینؑ یا حسینؑ

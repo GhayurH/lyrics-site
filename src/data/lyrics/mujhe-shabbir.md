@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Nabi ki aankh ka taara ali ko jaan se pyara
-  Bachaya din hai jisne use shabbir kehte hai
-  Mohammad ka nawasa hoo mujhe shabbir kehte hai
-  Har ek baala se hu aala mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Sawaal e bayyat e faasiq karuṅ taslim na mumkin
-  Bhala hinda ke bete ki karuṅ tazim na mumkin
-  Mai beta fatema ka hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Mai wo hu jiska jhula bhi farishtoṅ ne jhulaya hai
-  Mai wo hu jisko kaandhoṅ par mohamed ne charaya hai
-  Ali ka mai dulaara hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Samajh may mai agar thora bahot aauṅ to phir kehna
-  Subhana rabbi al aala subhana rabbi al aala
-  Kahaṅ aakhir mai tum sa hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Mai jisko chahuṅ doo aulaad jisko chahuṅ par de doo
-  Khatayen bakhsh doo jannat may jisko chahuṅ ghar de doo
-  Sakhawat ka mai darya hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Mai jis dam ghaiz may aauṅ falak kaanmpe zamiṅ kaampe
-  Paroṅ ki khairiyat ke waaste roohul ameen kaampe
-  Bahadur baap jaisa hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Qadam piche hatauṅ raahe haq may ho nahi sakta
-  Mai apni khandaani saakh hargiz kho nahi sakta
-  Abu talib ka pota hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Meri nazroṅ may ye nau laakh to nau ke barabar hai
-  Mere hamraah jitne fard hai wo khud may lashkar hai
-  Shuja’at ka khabeela hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Iraada kar liya jis shay ka usko kab nahi paaya
-  Riyayat se kabhi maiṅ ne koi mansab nahi paaya
-  Khatib-e-noke naiza hoo mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
-  Jo ghabrata nahi asif kabhi talwaar o khanjar se
-  Jo aamir fatha ka aelaan karta hai kate sar se
-  Mai wo banda khuda ka hu mujhe shabbir kehte hai
-  Mohammad ka nawasa hoo...
+  Nabi ki aankh ka taara Ali ko jaan se pyaara
+  Bachaaya din hai jis ne use Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ mujhe Shabbir kehte haiṅ
+  Har ek baala se ho aala mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Sawaal-e-baiat-e-faasiq karuṅ taslim na mumkin
+  Bhala Hinda ke bete ki karuṅ tazim na mumkin
+  Main beta Fatema ka huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Main woh huṅ jis ka jhula bhi farishtoṅ ne jhulaaya hai
+  Main woh huṅ jis ko kaandhoṅ par Mohammad ne charhaaya hai
+  Ali ka main dulaara huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Samajh mein main agar thora bahut aauṅ to phir kehna
+  Subhaana rabbi al aala subhaana rabbi al aala
+  Kahaaṅ aakhir main tum sa huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Main jis ko chaahuṅ duṅ aulaad jis ko chaahuṅ par de duṅ
+  Jannat mein jis ko chaahuṅ ghar de duṅ
+  Sakhaawat ka main darya huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Main jis dam ghaiz mein aauṅ falak kaanpe zamiṅ kaanpe
+  Paroṅ ki khairiyat ke waaste Ruhul Amin kaanpe
+  Bahaadur baap jaisa huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Qadam pichhe hataauṅ raah-e-haq mein ho nahiṅ sakta
+  Main apni khaandaani saakh har giz kho nahiṅ sakta
+  Abu Taalib ka pota huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Meri nazroṅ mein yeh nau laakh to nau ke baraabar hai
+  Mere hamraah jitne fard haiṅ woh khud mein lashkar hai
+  Shujaat ka qabila huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Iraada kar liya jis shah ka us ko kab nahiṅ paaya
+  Raiyat se kabhi main ne koi mansab nahiṅ paaya
+  Khatib-e-nok-e-naiza huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
+  Jo ghabraata nahiṅ Asif kabhi talwaar o khanjar se
+  Jo aamir fatah ka ailaan karta hai kati sar se
+  Main woh banda Khuda ka huṅ mujhe Shabbir kehte haiṅ
+  Mohammad ka nawaasa huṅ...
 ---
 
 ۱

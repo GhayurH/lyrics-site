@@ -1,32 +1,54 @@
 ---
-title: "Ummat Ne Diya Zehar Jawaan Saal Taqi Ko Lyrics 2023"
+title: "امت نے دیا زہر جوان سال تقی کو"
+alternateTitle: "Ummat Ne Diya Zehar Jawaan Saal Taqi Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ummat ne diya zehar jawaan saal Taqi ko
+  Kya ajar risalat ka diya apne Nabi ko
+
+  1
+  Hum nam-e-Muhammad pe Muhammad sa kiya zulm
+  Mara hai Muhammad ki tarha unn ke Wasi ko
+  Bas satwein hi saal mein chayi thi yateemi
+  Pacheeswin hi saal qaza aayi Taqi ko
+
+  2
+  Kam sin hoye jati thi shaheed Aal-e-Muhammad
+  Ummat ki nazar lag gayi oss ghar ki khushi ko
+  Yeh betiyaan kehti rahein baba ke sirhaney
+  Pora nahi kar sakta koi teri kami ko
+
+  3
+  They waqt-e-qaza sokhay hoye hont Taqi ke
+  Rota raha Shabeer ki jo tashna labi ko
+  Shabar ki tarha zojah hi dushman hoi Akbar
+  Jodah ki tarha mar diya Ibn-e-Ali ko
 ---
 
-Ummat Ne Diya Zehar Jawaan Saal Taqi Ko.
-Kya Ajar Risalat Ka Diya Apne Nabi Ko.
+امت نے دیا زہر جوان سال تقی کو
+کیا اجر رسالت کا دیا اپنے نبی کو
 
-1
-Hum Nam-e-Muhammad Pe Muhammad Sa Kiya Zulm.
-Mara Hai Muhammad Ki Tarha Unn Ke Wasi Ko.
-Bas Satwein Hi Saal Mein Chayi Thi Yateemi.
-Pacheeswin Hi Saal Qaza Aayi Taqi Ko.
+۱
+ہم نامِ محمد پہ محمد سا کیا ظلم
+مارا ہے محمد کی طرح ان کے وصی کو
+بس ساتویں ہی سال میں چھائی تھی یتیمی
+پچیسویں ہی سال قضا آئی تقی کو
 
-2
-Kam Sin Hoye Jati Thi Shaheed Aal-e-Muhammad.
-Ummat Ki Nazar Lag Gayi Oss Ghar Ki Khushi Ko.
-Yeh Betiyaan Kehti Rahein Baba Ke Sirhaney.
-Pora Nahi Kar Sakta Koi Teri Kami Ko.
+۲
+کم سن ہوئے جاتی تھی شہید آلِ محمد
+امت کی نظر لگ گئی اس گھر کی خوشی کو
+یہ بیٹیاں کہتی رہیں بابا کے سرہانے
+پورا نہیں کر سکتا کوئی تیری کمی کو
 
-3
-They Waqt-e-Qaza Sokhay Hoye Hont Taqi Ke.
-Rota Raha Shabeer Ki Jo Tashna Labi Ko.
-Shabar Ki Tarha Zojah Hi Dushman Hoi Akbar.
-Jodah Ki Tarha Mar Diya Ibn-e-Ali Ko.
+۳
+تھے وقتِ قضا سوکھے ہوئے ہونٹ تقی کے
+روتا رہا شبیر کی جو تشنہ لبی کو
+شبر کی طرح زوجہ ہی دشمن ہوئی اکبر
+جعدہ کی طرح مار دیا ابنِ علی کو

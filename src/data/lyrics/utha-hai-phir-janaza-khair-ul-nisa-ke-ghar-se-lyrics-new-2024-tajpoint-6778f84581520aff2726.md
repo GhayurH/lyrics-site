@@ -1,41 +1,71 @@
 ---
-title: "Utha Hai Phir Janaza Khair Ul Nisa Ke Ghar Se Lyrics New 2024"
+title: "اٹھا ہے پھر جنازہ خیر النساء کے گھر سے"
+alternateTitle: "Utha Hai Phir Janaza Khair Ul Nisa Ke Ghar Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azhar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Utha hai phir janaza Khair ul Nisa ke ghar se
+  Ummat ne mar dalay Maula Hasan zehar se
+  Pehlu pe hath they our Zahra ke bain gonjay
+  Qabar-e-Nabi hai larzi faryad ke asar se
+
+  2
+  Taboot se lipat ke Shabbir ro rahe hain
+  Jaisay keh aaj utha baba ka saya sar se
+  Waqt-e-judai aaya kuch aisa Mujtaba par
+  Behno ke sar ko dekha hasrat bhari nazar se
+
+  3
+  Baad az Rasool aisay dushman howa zamana
+  Zahra ke ladlay ki maiyyat pe teer barsay
+  Kaisi hai aayi ghurbat sibt e Nabi ka lasha
+  Pehlu mein Mustafa ke do gaz zameen ko tarsay
+
+  4
+  Teeron ne aa ke roka masmoom ka janaza
+  Taboot Mujtaba ka jaisay hi nikla ghar se
+  Girtay rahe lahu ke qatrey wahan wahan pe
+  Masmoom ka janaza guzra jidhar jidhar se
+
+  5
+  Maiyyat pe Mujtaba ki Shabbir keh rahe they
+  Waqt-e-judai aaya nana ke ab shehar se
+  Tableeg ka sila yeh kaisa mila hai Azhar
+  Aanso lahu ke tapkay Zahra ki chashm-e-tar se
 ---
 
-1
-Utha Hai Phir Janaza Khair Ul Nisa Ke Ghar Se.
-Ummat Ne Mar Dalay Maula Hasan Zehar Se.
-Pehlu Pe Hath They Our Zahra Ke Bain Gonjay.
-Qabar-e-Nabi Hai Larzi Faryad Ke Asar Se.
+۱
+اٹھا ہے پھر جنازہ خیر النساء کے گھر سے
+امت نے مار ڈالے مولا حسن زہر سے
+پہلو پہ ہاتھ تھے اور زہرا کے بین گونجے
+قبرِ نبی ہے لرزی فریاد کے اثر سے
 
-2
-Taboot Se Lipat Ke Shabbir Ro Rahe Hain.
-Jaisay Keh Aaj Utha Baba Ka Saya Sar Se.
-Waqt-e-Judai Aaya Kuch Aisa Mujtaba Par.
-Behno Ke Sar Ko Dekha Hasrat Bhari Nazar Se.
+۲
+تابوت سے لپٹ کے شبیر رو رہے ہیں
+جیسے کہ آج اٹھا بابا کا سایہ سر سے
+وقتِ جدائی آیا کچھ ایسا مجتبیٰ پر
+بہنوں کے سر کو دیکھا حسرت بھری نظر سے
 
-3
-Baad Az Rasool Aisay Dushman Howa Zamana.
-Zahra Ke Ladlay Ki Maiyyat Pe Teer Barsay.
-Kaisi Hai Aayi Ghurbat Sibt e Nabi Ka Lasha.
-Pehlu Mein Mustafa Ke Do Gaz Zameen Ko Tarsay.
+۳
+بعد از رسول ایسے دشمن ہوا زمانہ
+زہرا کے لاڈلے کی میت پہ تیر برسے
+کیسی ہے آئی غربت سبطِ نبی کا لاشہ
+پہلو میں مصطفیٰ کے دو گز زمین کو ترسے
 
-4
-Teeron Ne Aa Ke Roka Masmoom Ka Janaza.
-Taboot Mujtaba Ka Jaisay Hi Nikla Ghar Se.
-Girtay Rahe Lahu Ke Qatrey Wahan Wahan Pe.
-Masmoom Ka Janaza Guzra Jidhar Jidhar Se.
+۴
+تیروں نے آ کے روکا مسموم کا جنازہ
+تابوت مجتبیٰ کا جیسے ہی نکلا گھر سے
+گرتے رہے لہو کے قطرے وہاں وہاں پہ
+مسموم کا جنازہ گزرا جدھر جدھر سے
 
-5
-Maiyyat Pe Mujtaba Ki Shabbir Keh Rahe They.
-Waqt-e-Judai Aaya Nana Ke Ab Shehar Se.
-Tableeg Ka Sila Yeh Kaisa Mila Hai Azhar.
-Aanso Lahu Ke Tapkay Zahra Ki Chashm-e-Tar Se.
+۵
+میت پہ مجتبیٰ کی شبیر کہہ رہے تھے
+وقتِ جدائی آیا نانا کے اب شہر سے
+تبلیغ کا صلہ یہ کیسا ملا ہے اظہر
+آنسو لہو کے ٹپکے زہرا کی چشمِ تر سے

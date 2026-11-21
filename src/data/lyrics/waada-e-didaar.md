@@ -18,61 +18,61 @@ romanLyrics: |-
   Nusrat-e-Imam ho gi kis ko ab nasib
   Ahd ki wafa ka waqt aa gaya qarib
   Tum nibhaao ge waada-e-wafa
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   2
   Puchhta hai Fatima ka laal do jawaab
   Kaun de ga Karbala ke khun ka hisaab
   Aur Yazid-e-waqt sun le ab zara
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   3
-  Shaah-e-mashraqain ko hai mera intezaar
+  Shaah-e-mashriqain ko hai mera intezaar
   Maadar-e-Husain ko hai mera intezaar
   Baaqi ab bhi hai inteqaam-e-Karbala
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   4
-  Zulm aa ke khatm maiṅ karuṅ ga ek din
+  Zulm aa ke khatm main karuṅ ga ek din
   Adl se jahaan ko bharuṅ ga ek din
   Waqt ki ummid dil ki hai sada
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   5
   Zulm aur gunaah ke ye raaj khatm ho
   Din ke jo khilaaf hai riwaaj khatm ho
   Maaṅ behnoṅ tum mat ho berida
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   6
   Jo Husainiyoṅ ki hai wo shaan chaahiye
   Baateṅ ho chuki bahut hai jaan chaahiye
   Tum banaao ge mera raasta
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   7
-  Dur tum ho maiṅ nahiṅ zara bhi tum se dur
+  Dur tum ho main nahiṅ zara bhi tum se dur
   Tum pe munhasir hai sirf ab mera zuhur
   Apne saamne rakh lo aaina
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   8
   Karbala ki khaak par hai laasha-e-Husain
   Sun raha huṅ jaane kab se Fatima ke bain
   Muntazir hai aaj arz-e-Karbala
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   9
   Keh rahe haiṅ tir khaa ke Shaah-e-Karbala
-  Tukre tukre ho ke bhi nahiṅ maiṅ mar saka
+  Tukre tukre ho ke bhi nahiṅ main mar saka
   Laasha-e-Husain ki hai ye sada
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 
   10
   Ehteraam-e-Mustafa zarur chaahiye
   Ab Imam-e-Asr ka zuhur chaahiye
   Shadman aur Qamar ki hai dua
-  Aauṅ ga maiṅ ek din zarur aauṅ ga
+  Aauṅ ga main ek din zarur aauṅ ga
 ---
 وعدہء دیدار نزدیک است
 

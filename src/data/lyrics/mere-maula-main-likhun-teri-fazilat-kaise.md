@@ -1,7 +1,7 @@
 ---
 title: "میرے مولا میں لکھوں تیری فضیلت کیسے"
 recitationId: "mere-mola-main-likhon-teri-fazeelat-kaisay"
-alternateTitle: "Mere Maula Maiṅ Likhuṅ Teri Fazilat Kaise"
+alternateTitle: "Mere Maula Main Likhuṅ Teri Fazilat Kaise"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mere Maula maiṅ likhuṅ teri fazilat kaise
+  Mere Maula main likhuṅ teri fazilat kaise
   Bara mushkil teri midhat ka safar lagta hai
   Log keh deṅ na Nusairi yehi dar lagta hai
 
@@ -21,12 +21,12 @@ romanLyrics: |-
   Tere bachchoṅ ki farishtoṅ ne ghulaami ki hai
   Kul-e-imaan hai Jibril ka ustaad hai tu
   Had hai kaunain ke sardaar ka daamaad hai tu
-  Ya Ali tere taaruf meiṅ koi kya bole
+  Ya Ali tere taaruf mein koi kya bole
   Teri thokar ka ishaara ho to murda bole
 
   2
-  Ek hi waqt meiṅ chaalis jagah par maujud
-  Har nafas tujh meiṅ jhalakte haiṅ sifaat-e-Maabud
+  Ek hi waqt mein chaalis jagah par maujud
+  Har nafas tujh mein jhalakte haiṅ sifaat-e-Maabud
   Chaand suraj bhi samajhte haiṅ ishaara tera
   Zindagi kya hai ajal par bhi hai qabza tera
   Ya Ali din-e-Payambar ka nigehbaan hai tu
@@ -37,7 +37,7 @@ romanLyrics: |-
   Naqsh-e-kaunain taraasha hai tere haathoṅ ne
   Sochta huṅ ke Nusairi ki khata hi kya hai
   Jab ke Allah ka chehra bhi tera chehra hai
-  Khud diya Nahj-e-Balaagha meiṅ jo khutba tu ne
+  Khud diya Nahj-e-Balaagha mein jo khutba tu ne
   Us se lagta hai banaai hai ye duniya tu ne
 
   4
@@ -46,7 +46,7 @@ romanLyrics: |-
   Sar-e-maidaan bhi adaalat ko nibhaaya tu ne
   Tegh ko adl ki mizaan banaaya tu ne
   Teri har zarb se insaaf ke jauhar nikle
-  Jitne tukre kiye aapas meiṅ baraabar nikle
+  Jitne tukre kiye aapas mein baraabar nikle
 
   5
   Tu Ali pehla wasi pehla wali pehla imaam
@@ -54,7 +54,7 @@ romanLyrics: |-
   Tu hasin husn-e-bayaan husn-e-amal husn-e-kalaam
   Tu jari tera alam tera qalam teri husaam
   Saamne tere kahaaṅ koi adu bolta hai
-  Teri rag rag meiṅ shujaat ka lahu bolta hai
+  Teri rag rag mein shujaat ka lahu bolta hai
 
   6
   Jannat o Kausar o Tasnim o Iram tere haiṅ

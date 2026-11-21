@@ -9,94 +9,50 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Tum Shaam Aana Baba Nadeem Sarwar"
-romanLyrics: 'Tum Shaam Aana Baba Nadeem Sarwar Lyrics
-
-  Haye Sakina Haye Haye Masooma.
-
-  Main Karb-o-Bala Nahin Aa Sakti Baba, Baba Tum Sham Aana Baba.
-
-  Ab Milney Apni Beti Se Zindan Aana Baba Tum Sham Aana Baba.
-
+romanLyrics: |-
+  Main Karb o Bala nai aa sakti baba
+  Tum shaam aana baba
 
   1
-
-  Zindan ye mujhko raas nahi
-
-  Ab jeene ki koi aas nahi
-
-  Bechain hoo tum jo paas nahi
-
-  Nai tumko haal suna sakti
-
-  Baba, baba
-
+  Ab milne apni beti se zindaan aana
+  Baba baba
 
   2
-
-  Ab milne apni beti se...
-
-  Mai kamsin sayyed zaadiya
-
-  Tedi baba mai shehzadiya
-
-  Tere baad mai baba rul gaiya
-
-  Mai mitya de nai so sakti
-
+  Zindaan ye mujhko raas nahiṅ
+  Ab jine ki koi aas nahiṅ
+  Bechain huṅ tum jo paas nahiṅ
+  Nai tum ko haal suna sakti
 
   3
-
-  Main Kamsin Syed Zadi Aan.
-
-  Taidi Baba Main Shehzadi Aan.
-
-  Tere Baad Main Baba Rul Gayi Aan.
-
-  Main Mitiyaan Te Nahin So Sakdi Baba, Baba Tum Sham Aana Baba.
-
+  Ab milne apni beti se...
+  Main kam sin Sayyed zaadiyaaṅ
+  Teri baba main shehzaadiyaaṅ
+  Tere baad main baba rul gaiya
+  Main mittiya de nai so sakti
 
   4
-
-  Baba Abbas Nahi Akbar Bhi Nahi.
-
-  Our Pas Mera Asghar Bhi Nahi.
-
-  Pardais Hai Apna Ghar Bhi Nahi.
-
-  Nahin Dil Apna Behla Sakti Baba, Baba Tum Sham Aana Baba.
-
+  Baba Abbas nahiṅ, Akbar bhi nahiṅ
+  Aur paas mera Asghar bhi nahiṅ
+  Pardes hai apna ghar bhi nahiṅ
+  Na dil apna behla sakti
 
   5
-
-  Barey Mushkil Safar Nibhaye Hain.
-
-  Har Moor Pe Pathar Khaye Hain.
-
-  Be Jurm Tamachay Khaye Hain.
-
-  Nahin Zakhm Tumhein Dikhla Sakti Baba, Baba Tum Sham Aana Baba.
-
+  Bare mushkil safar nibhaaye haiṅ
+  Har mor pe patthar khaaye haiṅ
+  Be jurm tamaanche khaaye haiṅ
+  Na zakhm tumheṅ dikhla sakti
 
   6
-
-  Mera Kunba Aye Sara Qaidi.
-
-  Baqir, Sajjad Bhira Qaidi.
-
-  Main Aap V Haan Baba Qaidi.
-
-  Main Rasiyaan Nahin Khulwa Sakdi Baba, Baba Tum Sham Aana Baba.
-
+  Mera kunba hai saara qaidi
+  Baqir, Sajjad bhara qaidi
+  Main aap vi haa baba qaidi
+  Main rassiyaaṅ nai khulwa sakti
 
   7
-
-  Main Jab Se Aap Se Bichari Hoon.
-
-  Bas Aap Ki Yaad Mein Roti Hoon.
-
-  Din Raat Sadaein Deti Hoon.
-
-  Main Aap Ke Bin Nahi Reh Sakti Baba, Baba Tum Sham Aana Baba.'
+  Main jab se aap se bichhri huṅ
+  Bas aap ki yaad mein roti huṅ
+  Din raat sadaaeṅ deti huṅ
+  Main aap ke bin nahiṅ reh sakti
 ---
 
 میں کربوبلا نیء آ سکتی بابا

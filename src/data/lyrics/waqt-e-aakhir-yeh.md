@@ -24,7 +24,7 @@ romanLyrics: |-
   Aise Zehra teri darbaar gayi hai baaba
 
   3
-  Qasam Allah ki maiṅ jhut nahiṅ bolti huṅ
+  Qasam Allah ki main jhut nahiṅ bolti huṅ
   Teri Siddiqa yeh ab bol rahi hai baaba
 
   4
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Meri turbat pe parhe nauha Hasan aur Yazdaaṅ
-  Sab duaaoṅ meiṅ dua un ki yehi hai baaba
+  Sab duaaoṅ mein dua un ki yehi hai baaba
 ---
 وقتِ آخر یہ مصیبت کی گھڑی ہے بابا
 بیٹھی امت ہے تیری زہرا کھڑی ہے بابا

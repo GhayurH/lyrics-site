@@ -1,31 +1,53 @@
 ---
-title: "Hum Se BadaL Gaya Woh Nigahein Tu Kya Howa"
+title: "ہم سے بدل گیا وہ نگاہیں تو کیا ہوا"
+alternateTitle: "Hum Se Badal Gaya Woh Nigahein Tu Kya Howa"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Hum se badal gaya woh nigahein tu kya howa
+  Zindah hain kitne loag mohabbat kiye begair
+
+  1
+  Guzre dino mein jo kabhi gonjay the qehqahe
+  Aab apne ikhtiyar mein woh bhi nahi rahe
+  Qismat mein reh gayi hain jo aahein tu kya howa
+  Sadma yeh jehailna hai shikayat kiye begair
+
+  2
+  Woh samne bhi hoon tu na kholein gay hum zubaan
+  Likhi hai oss ke chehray pe apni dastaan
+  Oss ko taras gayi hain ye bahein tu kya howa
+  Woh loat jaye hum pe inayat kiye begair
+
+  3
+  Pehle qareeb tha koi aab doriyaan bhi hain
+  Insaan ke naseeb mein majboriyaan bahi hai
+  Apni badal chuka hai wo rahein tu kya howa
+  Hum chup rahein gay oss ko malamat kiye begair
 ---
 
-Hum Se BadaL Gaya Woh Nigahein Tu Kya Howa.
-Zindah Hain Kitne Loag Mohabbat Kiye Begair.
+ہم سے بدل گیا وہ نگاہیں تو کیا ہوا
+زندہ ہیں کتنے لوگ محبت کیے بغیر
 
-1
-Guzre Dino Mein Jo Kabhi Gonjay The Qehqahe.
-Aab Apne Ikhtiyar Mein Woh Bhi Nahi Rahe.
-Qismat Mein Reh Gayi Hain Jo Aahein Tu Kya Howa.
-Sadma Yeh Jehailna Hai Shikayat Kiye Begair.
+۱
+گزرے دنوں میں جو کبھی گونجے تھے قہقہے
+اب اپنے اختیار میں وہ بھی نہیں رہے
+قسمت میں رہ گئی ہیں جو آہیں تو کیا ہوا
+صدمہ یہ جھیلنا ہے شکایت کیے بغیر
 
-2
-Woh Samne Bhi Hoon Tu Na Kholein Gay Hum Zubaan.
-Likhi Hai Oss Ke Chehray Pe Apni Dastaan.
-Oss Ko Taras Gayi Hain Ye Bahein Tu Kya Howa.
-Woh Loat Jaye Hum Pe Inayat Kiye Begair.
+۲
+وہ سامنے بھی ہوں تو نہ کھولیں گے ہم زباں
+لکھی ہے اس کے چہرے پہ اپنی داستاں
+اس کو ترس گئی ہیں یہ بانہیں تو کیا ہوا
+وہ لوٹ جائے ہم پہ عنایت کیے بغیر
 
-3
-Pehle Qareeb Tha Koi Aab Doriyaan Bhi Hain.
-Insaan Ke Naseeb Mein Majboriyaan Bahi Hai.
-Apni Badal Chuka Hai Wo Rahein Tu Kya Howa.
-Hum Chup Rahein Gay Oss Ko Malamat Kiye Begair.
+۳
+پہلے قریب تھا کوئی اب دوریاں بھی ہیں
+انسان کے نصیب میں مجبوریاں بھی ہے
+اپنی بدل چکا ہے وہ راہیں تو کیا ہوا
+ہم چپ رہیں گے اس کو ملامت کیے بغیر

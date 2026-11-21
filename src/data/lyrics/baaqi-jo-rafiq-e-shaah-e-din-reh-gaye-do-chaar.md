@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Shabbir ne sine se lagaaya hai kai baar
-  Rukhsat jo kiya aaṅkhoṅ se aaṅsu hue jaari
+  Rukhsat jo kiya aankhoṅ se aansu hue jaari
   Ghabra ke dar-e-khaima se Zainab ye pukaari
   Logoṅ kaho maidaaṅ meiṅ chali kis ki sawaari
   Kaun bachaayega Shah-e-jinn o bashar ko
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Ye sunte hi kohraam hua ahl-e-haram meiṅ
-  Pahuṅcha wo jari sher sa maidaan-e-sitam meiṅ
+  Pahuncha wo jari sher sa maidaan-e-sitam meiṅ
   Kaamil tha zabas ishq-e-Shahanshaah-e-umam meiṅ
   Betaab tha Maula ki judaai ke alam meiṅ
   Sina tha jari ka tabar o tir ki jaanib
@@ -40,7 +40,7 @@ romanLyrics: |-
   Tharraane lage uzw-e-badan ghat gayi taaqat
   Dam charh gaya garmi se hui pyaas ki shiddat
   Dil se kaha ab aalam-e-faani se hai rukhsat
-  Na lashkar-e-aada ko na shamshir ko dekha
+  Na lashkar-e-aadaa ko na shamshir ko dekha
   Kis yaas se mur kar rukh-e-Shabbir ko dekha
 
   5

@@ -8,70 +8,43 @@ poet: "Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Hussain Kal Bhi Tha Mazloom Aur Aaj Bhi Hai"
-romanLyrics: 'Hussain kal bhi tha mazloom aur aaj bhi hai
-
+alternateTitle: "Husain Kal Bhi Tha Mazloom Aur Aaj Bhi Hai"
+romanLyrics: |-
+  Husain kal bhi tha mazloom aur aaj bhi hai
 
   1
-
-  Sitam ki zid pe hamara imam aaj bhi hai
-
-  Aza ke farsh ka hal min payam aaj bhi hai
-
+  Sitam ki zad pe hamaara imaam aaj bhi hai
+  Aza ke farsh ka hal min payaam aaj bhi hai
 
   2
-
-  Nazar may phirte hai karbobala ke sab manzar
-
-  Zameen pe bikhra hua tha hussain ka lashkar
-
-  Kahin kate hue baazu kahin kate hue sar
-
-  Gali gali may wohi qatle aam aaj bhi hai
-
+  Nazar mein phirte haiṅ Karb o Bala ke sab manzar
+  Zamiṅ pe bikhra hua tha Husain ka lashkar
+  Kahiṅ kate hue baazu kahiṅ kate hue sar
+  Gali gali mein wohi qatl-e-aam aaj bhi hai
 
   3
-
-  Juloose girya-o-matam pe zulm itne huve
-
-  Sitam ke maare hue ab khoon may doobe huve
-
-  Barasti dhoop may maa''on se bache litpe huve
-
-  Sawaal karte hai kya fauje shaam aaj bhi hai
-
+  Julus-e-girya o maatam pe zulm itne hue
+  Sitam ke maare hue ab khuṅ mein dube hue
+  Barasti dhup mein maaoṅ se bachche lipte hue
+  Sawaal karte haiṅ kya fauj-e-Shaam aaj bhi hai
 
   4
-
-  Hue thay jis tarha qasim ki laash ke tukde
-
-  Shaheed hote hai yunhi ghulam qasim ke
-
-  Janaze unke bhi kandhon pe uth nahi sakte
-
-  Ye gathriyon ke kafan ka nizam aaj bhi hai
-
+  Hue the jis tarah Qaasim ki laash ke tukre
+  Shahid hote haiṅ yuṅhi ghulaam Qaasim ke
+  Janaaze un ke bhi kandhoṅ pe uth nahiṅ sakte
+  Ye gathriyoṅ ke kafan ka nizaam aaj bhi hai
 
   5
-
-  Hussain kehne pe zainab ko taziana laga
-
-  Phir uske baad aziyat ka silsila na ruka
-
-  Usi ko maar diya jisne ya hussain kaha
-
-  Yazeed zadon ka jaari wo kaam aaj bhi hai
-
+  Husain kehne pe Zainab ko taaziyaana laga
+  Phir us ke baad aziyat ka silsila na ruka
+  Usi ko maar diya jis ne ya Husain kaha
+  Yazid zaadoṅ ka jaari wo kaam aaj bhi hai
 
   6
-
-  Imam e asr ki faryad ab bhi hai akbar
-
-  Zamana hogaya veeran fatema ka hai ghar
-
-  Lahoo ke ashk bahata hai abide muztar
-
-  Mere gharane pe ghurbat ki shaam aaj bhi hai'
+  Imaam-e-Asr ki faryaad ab bhi hai Akbar
+  Zamaana ho gaya viraan Faatima ka hai ghar
+  Lahu ke ashk bahaata hai Aabid-e-muztar
+  Mere gharaane pe ghurbat ki shaam aaj bhi hai
 ---
 
 حسین کل بھی تھا مظلوم اور آج بھی ہے

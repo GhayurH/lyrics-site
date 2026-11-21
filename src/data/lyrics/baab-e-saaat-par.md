@@ -16,7 +16,7 @@ romanLyrics: |-
   Shaam ke darbaar meiṅ hai jashn ki tayyaariyaṅ
 
   1
-  Wa Husaina ki sada hai itrat-e-athaar meiṅ
+  Wa Husaina ki sada hai itrat-e-at-haar meiṅ
   Jaane kya guzri hai in par Shaam ke baazaar meiṅ
   Khun meiṅ tar ho gayi kaunain ki shehzaadiyaṅ
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Khun meiṅ Baaqir ke shaamil ghairat-e-Abbas hai
   Hai abhi kamsin magar is ko bhi ye ehsaas hai
-  Bazm meiṅ noshi kahaaṅ aur saani-e-Zahra kahaaṅ
+  Bazm meiṅ Noshi kahaaṅ aur saani-e-Zahra kahaaṅ
 
   6
   Ban gaya taarikh-e-ghurbat Shaam o Kufa ka safar

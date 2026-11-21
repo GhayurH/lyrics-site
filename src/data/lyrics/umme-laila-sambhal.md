@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gharib-e-zehra pa kya waqt hai gharibi ka
-  Garebaṅ chaak hai baloṅ may khaak-e-karbobala
-  Talaash karte hai rasta nazar nahi aata
-  Ye haal dekh ke haste hai sheh pa ahle jafa
-  Behan ki kaandhoṅ par kul kaayenat laate hai
-  Qadam qadam pe ye awaaz dete jaate hai
-  Umme laila sambhaal zainab ko
-  Laa raha hoo mai laasha e akbar
-  Umme laila sambhaal…
+  Gharib-e-Zehra pa kya waqt hai gharibi ka
+  Garebaaṅ chaak hai baaloṅ mein khaak-e-Karbobala
+  Talaash karte haiṅ rasta nazar nahiṅ aata
+  Ye haal dekh ke hanste haiṅ sheh pa ahl-e-jafa
+  Behan ke kaandhoṅ par kul kaayenaat laate haiṅ
+  Qadam qadam pe ye aawaaz dete jaate haiṅ
+  Umm-e-Laila sambhaal Zainab ko
+  Laa raha huṅ main laasha-e-Akbar
+  Umm-e-Laila sambhaal...
   Bole honge Husain ye ro kar
-  Umme laila sambhaal…
-  Naujawaṅ laash hai zaifi hai
+  Umm-e-Laila sambhaal...
+  Naujawaaṅ laash hai zaifi hai
   Meri nazroṅ se dekh manzar ko
-  Kaise hamshir ko sambhalunga
-  Mai sambhale huwe hoo akbar ko
+  Kaise hamshir ko sambhaaluṅ ga
+  Main sambhaale hue huṅ Akbar ko
   Tera ehsaan hoga ye mujh par
-  Umme laila sambhaal…
-  Laa raha hoo mai…
-  Is ke sine se le ke naame ali
-  Maine barchi abhi nikaali hai
-  Imtehaṅ de chuki hai meri ghurbat
+  Umm-e-Laila sambhaal...
+  Laa raha huṅ main...
+  Is ke sine se le ke naam-e-Ali
+  Main barchhi abhi nikaali hai
+  Imtihaaṅ de chuki meri ghurbat
   Ab teri bekasi ki baari hai
-  Tu bhi is waqt ya ali keh kar
-  Umme laila sambhaal…
-  Laa raha hoo mai…
-  Do nagine the iski jholi may
-  Dono akbar pe kar diye sadqa
+  Tu bhi is waqt Ya Ali keh kar
+  Umm-e-Laila sambhaal...
+  Laa raha huṅ main...
+  Do nagine the iski jholi mein
+  Donoṅ Akbar pe kar diye sadqa
   Sabr aisa ke apne betoṅ par
-  Maiṅ ne rote ise nahi dekha
-  Hai magar ab ye laasha e akbar
-  Umme laila sambhaal…
-  Laa raha hoo mai…
+  Main ne rote ise nahiṅ dekha
+  Hai magar ab ye laasha-e-Akbar
+  Umm-e-Laila sambhaal...
+  Laa raha huṅ main...
   Rok rakha hai apne ashkoṅ ko
-  Sab se chup chup ke aahe bharti hai
-  Mai samajhta hoo maadare akbar
+  Sab se chhup chhup ke aaheṅ bharti hai
+  Main samajhta huṅ maadar-e-Akbar
   Teri mamta pe jo guzarti hai
-  Rak ke apne kaleje par pathar
-  Umme laila sambhaal…
-  Laa raha hoo mai…
-  Aise laashe jawaaṅ uthaye hoo
-  Aediyan khat banati aati hai
-  In nishano ko piche piche mere
-  Amma zahra mitati aati hai
-  Uski nazreiṅ na dekhe ye manzar
-  Umme laila sambhaal…
-  Laa raha hoo mai…
-  Ae takallum wo shaam o koofa ka
-  Te hua hoga is taraf se safar
-  Amma zainab sambhaalna maa ko
-  Kehte honge sina se ye akbar
+  Rakh ke apne kaleje par patthar
+  Umm-e-Laila sambhaal...
+  Laa raha huṅ main...
+  Aise laashe jawaaṅ uthaaye huṅ
+  Eriyaaṅ khat banaati aati haiṅ
+  In nishaanoṅ ko pichhe pichhe mere
+  Ammaaṅ Zahra mitaati aati haiṅ
+  Us ki nazreṅ na dekheṅ ye manzar
+  Umm-e-Laila sambhaal...
+  Laa raha huṅ main...
+  Ae Takallum wo Shaam o Kufa ka
+  Tai hua hoga is tarah se safar
+  Ammaaṅ Zainab sambhaalna maaṅ ko
+  Kehte honge sanaaṅ se ye Akbar
   Aur hoga Husain ke lab par
-  Umme laila sambhaal…
-  Laa raha hoo mai…
+  Umm-e-Laila sambhaal...
+  Laa raha huṅ main...
 ---
 
 ۱

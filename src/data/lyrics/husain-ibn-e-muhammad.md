@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Koi nahiṅ koi nahiṅ laadla aisa
   Jis ke liye Rab ne ho qaanun ko badla
-  Saare sahifoṅ meiṅ kitaaboṅ meiṅ likha hai
+  Saare sahifoṅ mein kitaaboṅ mein likha hai
   Chakhna kisi mitti ko jaaiz nahiṅ wallaah
   Magar Husain tera jahaaṅ pe khun gira
   Kiya Khuda ne use khaak-e-shifa
@@ -60,11 +60,11 @@ romanLyrics: |-
   Hamaara markazi khayaal ya Husain
 
   8
-  Pehli dafa god meiṅ jab tujh ko uthaaya
+  Pehli dafa god mein jab tujh ko uthaaya
   Khud ko Muhammad ne azaadaar banaaya
   Haae naana ke ashkoṅ ko bhulaaya nahiṅ tu ne
   Haaṅ din-e-Muhammad tha magar tu ne bachaaya
-  Ae aashiqaan-e-Nabi aza meiṅ aansu abhi
+  Ae aashiqaan-e-Nabi aza mein aansu abhi
   Bahaao kar lo Muhammad se wafa
 
   9
@@ -75,7 +75,7 @@ romanLyrics: |-
 
   10
   Aaqa Muhammad ke gharaane ka ye gham hai
-  Majlis-e-Shabbir meiṅ aana ye karam hai
+  Majlis-e-Shabbir mein aana ye karam hai
   Aur ye jo bari shaan se ghar ghar pe laga hai
   Aal-e-Muhammad ki nishaani ye alam hai
   Alam uthaate raho ye gham manaate raho
@@ -96,7 +96,7 @@ romanLyrics: |-
   Ana majnun al-Husain
 
   14
-  Tere hi maatam meiṅ fana hai meri hasti
+  Tere hi maatam mein fana hai meri hasti
   Karbobala hi to faqiroṅ ki hai basti
   Kaise samajh paae malangoṅ ko zamaana
   Aql se baala hai tere ishq ki masti
@@ -126,7 +126,7 @@ romanLyrics: |-
   Tir se chhed diya nanha gala Asghar ka
   Us ka Qaasim na raha us ka Ghaazi na raha
   Mar gaye Aun o Muhammad koi yaawar na bacha
-  Reh gaya dasht meiṅ tanha wo gharib-e-Zehra
+  Reh gaya dasht mein tanha wo gharib-e-Zehra
 
   18
   Waawaila waawaila waawaila waawaila
@@ -144,7 +144,7 @@ romanLyrics: |-
 
   21
   Shimr-e-laiṅ Shaah ke jab sine pe aaya
-  Kheṅch ke baaloṅ se tamaacha bhi lagaaya
+  Khench ke baaloṅ se tamaancha bhi lagaaya
   Haath rakha maaṅ ne bahut baar bachaaya
   Haae magar kat gaya sar bach nahiṅ paaya
   Shimr chala baaloṅ se jab sar ko uthaa kar

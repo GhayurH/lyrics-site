@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Kaazim ki yatimi pe rote haiṅ do jahaaṅ
   Masum ki mayyat pe Zahra hai fughaaṅ
-  Har suṅ dahr meiṅ maatam-e-Jaafar ki sada hai
+  Har suṅ dahr mein maatam-e-Jaafar ki sada hai
 
   4
   Ae kalma go Khuda ka kuchh khauf to karo
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Bolo khaamosh kiuṅ ho Quraan ke qaariyoṅ
   Is baat ka Khurshid ko lillaah jawaab do
-  Kis jurm meiṅ masum ko haaye zahr diya hai
+  Kis jurm mein masum ko haaye zahr diya hai
 ---
 باقر کے لاڈلے کا تابوت اٹھا ہے
 بتلاؤ مسلمانوں کیا اس کی خطا ہے

@@ -1,74 +1,138 @@
 ---
-title: "Munazra"
+title: "مناظرہ"
+alternateTitle: "Munazra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Dosto aao sunaon tum ko main ik waqiya
+  Aik din majlis se apne ghar ki janib main chala
+
+  1
+  Rastay mein samna waiz se mera ho gaya
+  Hasb-e-adat tanziya lehjay mein woh kehne laga
+  Shirk hai ghair Khuda par ashk barsana suno
+  Main yeh bola baat ab meri bhi molana suno
+
+  2
+  Aadam-o-Hawa ka kya betay pe rona shirk tha
+  Hazrat-e-Yaqoob ne Yousuf pe kyun giriya kiya
+  Tu agar hai ummati sarkar ka tu yeh bata
+  Hazrat-e-Hamza pe kyun roye Muhammad Mustafa
+
+  3
+  Ya tu ab sarkar se tu apna rishta toor de
+  Ya azadaron pe waiz tanz karna chor de
+  Kaat kar phir baat meri yeh kiya oss ne sawal
+  Kyun madad Haider se letey ho bajaye Zuljalal
+
+  4
+  Main yeh bola apni bosedah kitabein tu khangal
+  Unn mein mil jaye gi tujh ko jang-e-Khaybar ki misal
+  Tujh pe ho jaye ga sabit behas yeh bekar hai
+  Narah-e-Haider lagana sunat-e-sarkar hai
+
+  5
+  Baton baton mein jahalat osski jab khulney lagi
+  Barhtey barhtey baat zikar-e-Karbala tak aa gayi
+  Woh yeh bola Karbala tu jang shehzadon ki thi
+  Main yeh bola Karbala hai zindagi Islam ki
+
+  6
+  Tere shehzaday se barh kar youn mera Shabeer hai
+  Woh sarapa rijs hai yeh waris-e-tatheer hai
+  Munh bana kar tilmila kar phir chali osski zabaan
+  Tu hai molai tu Haider ke fazail kar biyaan
+
+  7
+  Main yeh bola iss qadar bardasht hai tujh mein kahan
+  Soch le dil par tere girney lagein gi bijliyaan
+  Teri sehat ke liye kafi hai yeh ghaibi pukar
+  La fata illa Ali la saif illa Zulfiqar
+
+  8
+  Baat eman-e-Abu Talib ki oss ne chair di
+  Kufar par osske mutabiq guzari unn ki zindagi
+  Main yeh bola phir tu yeh tauheen hai Allah ki
+  Parwarish kafir ke ghar sarkar ki hoti rahi
+
+  9
+  Aqad-e-peygamber parha jis ne woh insaan kaun hai
+  Gar Abu Talib hain kafir phir musalmaan kaun hai
+  Parh ke woh la hool aakhir khud hi ghayab ho gaya
+  Phir mujhe rota hoye maidan-e-mehshar mein mila
+
+  10
+  Muskura kar main ne pocha khair tu hai kya howa
+  Aah bhar kar woh yeh bola haye main mara gaya
+  Ab yaqeen aaya gham-e-sarwar mein rona theek tha
+  Manta hoon main Takallum tera kehna theek tha
 ---
 
-Dosto Aao Sunaon Tum Ko Main Ik Waqiya.
-Aik Din Majlis Se Apne Ghar Ki Janib Main Chala.
+دوستو آؤ سناؤں تم کو میں اک واقعہ
+ایک دن مجلس سے اپنے گھر کی جانب میں چلا
 
-1
-Rastay Mein Samna Waiz Se Mera Ho Gaya.
-Hasb-e-Adat Tanziya Lehjay Mein Woh Kehne Laga.
-Shirk Hai Ghair Khuda Par Ashk Barsana Suno.
-Main Yeh Bola Baat Ab Meri Bhi Molana Suno.
+۱
+راستے میں سامنا واعظ سے میرا ہو گیا
+حسبِ عادت طنزیہ لہجے میں وہ کہنے لگا
+شرک ہے غیر خدا پر اشک برسانا سنو
+میں یہ بولا بات اب میری بھی مولانا سنو
 
-2
-Aadam-o-Hawa Ka Kya Betay Pe Rona Shirk Tha.
-Hazrat-e-Yaqoob Ne Yousuf Pe Kyun Giriya Kiya.
-Tu Agar Hai Ummati Sarkar Ka Tu Yeh Bata.
-Hazrat-e-Hamza Pe Kyun Roye Muhammad Mustafa.
+۲
+آدم و حوا کا کیا بیٹے پہ رونا شرک تھا
+حضرتِ یعقوب نے یوسف پہ کیوں گریہ کیا
+تو اگر ہے امتی سرکار کا تو یہ بتا
+حضرتِ حمزہ پہ کیوں روئے محمد مصطفیٰ
 
-3
-Ya Tu Ab Sarkar Se Tu Apna Rishta Toor De.
-Ya Azadaron Pe Waiz Tanz Karna Chor De.
-Kaat Kar Phir Baat Meri Yeh Kiya Oss Ne Sawal.
-Kyun Madad Haider Se Letey Ho Bajaye Zuljalal.
+۳
+یا تو اب سرکار سے تو اپنا رشتہ توڑ دے
+یا عزاداروں پہ واعظ طنز کرنا چھوڑ دے
+کاٹ کر پھر بات میری یہ کیا اس نے سوال
+کیوں مدد حیدر سے لیتے ہو بجائے ذوالجلال
 
-4
-Main Yeh Bola Apni Bosedah Kitabein Tu Khangal.
-Unn Mein Mil Jaye Gi Tujh Ko Jang-e-Khaybar Ki Misal.
-Tujh Pe Ho Jaye Ga Sabit Behas Yeh Bekar Hai.
-Narah-e-Haider Lagana Sunat-e-Sarkar Hai.
+۴
+میں یہ بولا اپنی بوسیدہ کتابیں تو کھنگال
+ان میں مل جائے گی تجھ کو جنگِ خیبر کی مثال
+تجھ پہ ہو جائے گا ثابت بحث یہ بیکار ہے
+نعرۂ حیدر لگانا سنتِ سرکار ہے
 
-5
-Baton Baton Mein Jahalat Osski Jab Khulney Lagi.
-Barhtey Barhtey Baat Zikar-e-Karbala Tak Aa Gayi.
-Woh Yeh Bola Karbala Tu Jang Shehzadon Ki Thi.
-Main Yeh Bola Karbala Hai Zindagi Islam Ki.
+۵
+باتوں باتوں میں جہالت اس کی جب کھلنے لگی
+بڑھتے بڑھتے بات ذکرِ کربلا تک آ گئی
+وہ یہ بولا کربلا تو جنگ شہزادوں کی تھی
+میں یہ بولا کربلا ہے زندگی اسلام کی
 
-6
-Tere Shehzaday Se Barh Kar Youn Mera Shabeer Hai.
-Woh Sarapa Rijs Hai Yeh Waris-e-Tatheer Hai.
-Munh Bana Kar Tilmila Kar Phir Chali Osski Zabaan.
-Tu Hai Molai Tu Haider Ke Fazail Kar Biyaan.
+۶
+تیرے شہزادے سے بڑھ کر یوں میرا شبیر ہے
+وہ سراپا رجس ہے یہ وارثِ تطہیر ہے
+منہ بنا کر تلملا کر پھر چلی اس کی زباں
+تو ہے مولائی تو حیدر کے فضائل کر بیاں
 
-7
-Main Yeh Bola Iss Qadar Bardasht Hai Tujh Mein Kahan.
-Soch Le Dil Par Tere Girney Lagein Gi Bijliyaan.
-Teri Sehat Ke Liye Kafi Hai Yeh Ghaibi Pukar..
-La Fata Illa Ali La Saif Illa Zulfiqar.
+۷
+میں یہ بولا اس قدر برداشت ہے تجھ میں کہاں
+سوچ لے دل پر تیرے گرنے لگیں گی بجلیاں
+تیری صحت کے لیے کافی ہے یہ غیبی پکار
+لا فتى إلا علي لا سيف إلا ذو الفقار
 
-8
-Baat Eman-e-Abu Talib Ki Oss Ne Chair Di.
-Kufar Par Osske Mutabiq Guzari Unn Ki Zindagi.
-Main Yeh Bola Phir Tu Yeh Tauheen Hai ALLAH Ki.
-Parwarish Kafir Ke Ghar Sarkar Ki Hoti Rahi.
+۸
+بات ایمانِ ابو طالب کی اس نے چھیڑ دی
+کفر پر اس کے مطابق گزاری ان کی زندگی
+میں یہ بولا پھر تو یہ توہین ہے اللہ کی
+پرورش کافر کے گھر سرکار کی ہوتی رہی
 
-9
-Aqad-e-Peygamber Parha Jis Ne Woh Insaan Kaun Hai.
-Gar Abu Talib Hain Kafir Phir Musalmaan Kaun Hai.
-Parh Ke Woh La Hool Aakhir Khud Hi Ghayab Ho Gaya.
-Phir Mujhe Rota Hoye Maidan-e-Mehshar Mein Mila.
+۹
+عقدِ پیغمبر پڑھا جس نے وہ انسان کون ہے
+گر ابو طالب ہیں کافر پھر مسلمان کون ہے
+پڑھ کے وہ لاحول آخر خود ہی غائب ہو گیا
+پھر مجھے روتا ہوئے میدانِ محشر میں ملا
 
-10
-Muskura Kar Main Ne Pocha Khair Tu Hai Kya Howa.
-Aah Bhar Kar Woh Yeh Bola Haye Main Mara Gaya.
-Ab Yaqeen Aaya Gham-e-Sarwar Mein Rona Theek Tha.
-Manta Hoon Main Takallum Tera Kehna Theek Tha.
+۱۰
+مسکرا کر میں نے پوچھا خیر تو ہے کیا ہوا
+آہ بھر کر وہ یہ بولا ہائے میں مارا گیا
+اب یقین آیا غمِ سرور میں رونا ٹھیک تھا
+مانتا ہوں میں تکلم تیرا کہنا ٹھیک تھا

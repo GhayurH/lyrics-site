@@ -21,17 +21,17 @@ romanLyrics: |-
   Mustaqil hai khuṅ rawaaṅ baba bari taklif hai
 
   2
-  Waqt ye manzar na dikhlaye kisi bhi baap ko
-  Mujh pe kya guzri hai batlaauṅ maiṅ kaise aap ko
+  Waqt ye manzar na dikhlaaye kisi bhi baap ko
+  Mujh pe kya guzri batlaauṅ main kaise aap ko
   Larkharaati hai zabaaṅ baba bari taklif hai
 
   3
-  Saaṅs bhi lene nahiṅ deta mujhe barchhi ka phal
-  Kijiye bas ye dua ab mujh ko aa jaaye ajal
+  Saans bhi lene nahiṅ deta mujhe barchhi ka phal
+  Kijiye bas ye dua mujh ko aa jaaye ajal
   Dil pe hai baar-e-giraaṅ baba bari taklif hai
 
   4
-  Tashnagi meiṅ zakhm-e-dil ki taab laauṅ kis tarah
+  Tashnagi mein zakhm-e-dil ki taab laauṅ kis tarah
   Ye bataao haath sine se hataauṅ kis tarah
   Dard hota hai yahaaṅ baba bari taklif hai
 
@@ -42,16 +42,16 @@ romanLyrics: |-
 
   6
   Haal maadar se na kehna jaa ke mujh ghamgin ka
-  Puchh lo aankhoṅ se aansu waqt hai Yaasin ka
+  Puchh lo aankhoṅ se aansuṅ waqt hai Yaasin ka
   Aa rahi hai hichkiyaaṅ baba bari taklif hai
 
   7
-  Mere qaatil ne mere sine meiṅ barchhi tor di
-  Ab to bas ummid bhi jine ki maiṅ ne chhor di
+  Mere qaatil ne mere sine mein barchhi tor di
+  Ab to bas ummid bhi jine ki main ne chhor di
   Jism se khichti hai jaaṅ baba bari taklif hai
 
   8
-  Nur aankhoṅ ka pisar ke hijr meiṅ jaata raha
+  Nur aankhoṅ ka pisar ke hijr mein jaata raha
   Aamir o Akhtar dil-e-Shabbir tharraata raha
   Sun ke Akbar ka bayaaṅ baba bari taklif hai
 ---

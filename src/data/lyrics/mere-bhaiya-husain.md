@@ -22,7 +22,7 @@ romanLyrics: |-
   Kah rahi thi ye tarap ke Zainab
   Kis tarah aap ka chhupaauṅ tan
   Kaash chaadar mere sar pe hoti
-  Aap ko bhai maiṅ de deti kafan
+  Aap ko bhai main de deti kafan
   So rahe ho bahan ko tarpa ke
   Mere bhaiya Husain uth jaao
 
@@ -47,13 +47,13 @@ romanLyrics: |-
   Kaise dil ko sukun aayega
   Bekafan khaak pe tera laasha
   Chhor ke Shimr chala jaayega
-  Maiṅ chali Shaam ko ye gham kha ke
+  Main chali Shaam ko ye gham kha ke
   Mere bhaiya Husain uth jaao
 
   5
-  Maiṅ ne maqtal meiṅ ye manzar dekha
+  Main ne maqtal meiṅ ye manzar dekha
   Reza reza hua laasha tera
-  Kaise tum ko maiṅ sametuṅ bhaiya
+  Kaise tum ko main sametuṅ bhaiya
   Itni bebas hai tumhaari bahna
   Hans rahe haiṅ laiṅ sitam dhaa ke
   Mere bhaiya Husain uth jaao
@@ -67,7 +67,7 @@ romanLyrics: |-
   Mere bhaiya Husain uth jaao
 
   7
-  Laash-e-Besar se ye sada aayi
+  Laash-e-besar se ye sada aayi
   Rakhna apna khayaal maanjaai
   Sun ke Haider Rehan ye Bibi
   Apne bhai se ro ke farmaayi

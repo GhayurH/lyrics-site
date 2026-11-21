@@ -12,31 +12,31 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain bole Sakina se tum na ghabraana
+  Husain bole Sakina se tum ghabraana
   Jo nind aaye to maqtal meiṅ tum chali aana
 
   1
-  Mujhe pata hai bohat zulm dhaaye jaaeṅge
-  Chhinegi chaadareṅ khaime jalaaye jaaeṅge
+  Mujhe pata hai bohat zulm dhaaye jaaeṅ ge
+  Chhinegi chaadareṅ khaime jalaaye jaaeṅ ge
   Magar zabaan pe shikwa na meri jaaṅ laana
 
   2
   Ye wo zamiṅ hai jahaaṅ tashnagi ki shiddat hai
   Tumhaare naam yahaaṅ aur bhi qayaamat hai
-  Yahiṅ milegi tamaachoṅ ka tum ko nazraana
+  Yahiṅ milegi tamaanchoṅ ka tum ko nazraana
 
   3
   Kahiṅ pe dhup milegi kahiṅ pe sannaate
-  Kahiṅ pe phul mileṅge kahiṅ kahiṅ kaaṅte
+  Kahiṅ pe phul mileṅge kahiṅ kahiṅ kaante
   Tum apne dil ki tarah aaṅsuoṅ ko behlaana
 
   4
-  Sitam jo baaliyaaṅ maaṅge to baaliyaaṅ dena
+  Sitam jo baaliyaaṅ maange to baaliyaaṅ dena
   Rasan ke waaste apni kalaaiyaaṅ dena
-  Na mujh ko aur na ammu ko dhundhne aana
+  Na mujh ko aur na ammu ko dhundne aana
 
   5
-  Sukun tum se mile to sukuṅ se mar bhi sakuṅ
+  Sukun tum se mile sukuṅ se mar bhi sakuṅ
   Phir apne baad ki manzil se maiṅ guzar bhi sakuṅ
   Yaqiṅ dilaauṅ ke tum ne mera kaha maana
 

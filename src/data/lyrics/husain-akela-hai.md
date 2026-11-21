@@ -15,15 +15,15 @@ romanLyrics: |-
   Asr ka waqt hai
   Husain
   Asr ka waqt hai ab koi bhi baaqi na raha
-  Haaye maqtal meiṅ Husain Ibn-e-Ali hai tanha
+  Haaye maqtal mein Husain Ibn-e-Ali hai tanha
 
   1
   Dur tak gunj rahi hai
   Koi hai
 
   2
-  Dur tak gunj rahi hai mere Maula ki sada
-  Hal min naasirin yansurna
+  Dur tak gunj rahi hai mere Maula ki sadaa
+  Hal min naasirin yansurnaa
 
   3
   Koi hai koi hai
@@ -39,7 +39,7 @@ romanLyrics: |-
   Shuhadaa-e-Karbala utho
   Ansaar-e-baawafa utho
   Ghere haiṅ ashqiya utho
-  Deta huṅ maiṅ sada utho
+  Deta huṅ main sadaa utho
 
   6
   Husain Husain
@@ -53,8 +53,8 @@ romanLyrics: |-
   8
   Abbas meri jaaṅ utho
   Meri bhi jang dekh lo
-  Ghurbat meiṅ mera saath do
-  Ye aakhri sada suno
+  Ghurbat mein mera saath do
+  Ye aakhri sadaa suno
 
   9
   Husain Husain
@@ -66,10 +66,10 @@ romanLyrics: |-
   Koi nahiṅ Husain ka
 
   11
-  Jo paas tha maiṅ de chuka
+  Jo paas tha main de chuka
   Waada mera wafa hua
-  Maiṅ na raha to kya hua
-  Baaqi rahegi ye sada
+  Main na raha to kya hua
+  Baaqi rahegi ye sadaa
 
   12
   Husain Husain

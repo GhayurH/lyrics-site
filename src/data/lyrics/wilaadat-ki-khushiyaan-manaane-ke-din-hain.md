@@ -16,7 +16,7 @@ romanLyrics: |-
   Yehi to muqaddar banaane ke din haiṅ
 
   1
-  Bajuz maah-e-Shaabaan hai har maah purnam
+  Bajuz maah-e-Shabaan hai har maah purnam
   Yehi apne hansne hansaane ke din haiṅ
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
   Ye mastoṅ ke dhomi dhamaane ke din haiṅ
 
   3
-  Rajab ho ke Shaabaan o Ramzaan o Zilhajj
+  Rajab ho ke Shabaan o Ramzaan o Zilhajj
   Malangoṅ ke khaane kamaane ke din haiṅ
 
   4

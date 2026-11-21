@@ -18,21 +18,21 @@ romanLyrics: |-
   Salaam tum pe ae Baba ki laadli Zainab
 
   1
-  Zainab ne kaha kaun hai pardes meiṅ mera
+  Zainab ne kaha kaun hai pardes mein mera
   Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha
-  Zainab ko har ek mor pe tarpaayegi dunya
+  Zainab ko har ik mor pe tarpaayegi dunya
   Yaad aaoge bhaiya
 
   2
   Baad aap ke hoga meri ghurbat ka ye aalam
   Us waqt gharibi bhi karegi mera maatam
-  Sadaat ko jab raah meiṅ dega koi sadqa
+  Sadaat ko jab raah mein dega koi sadqa
   Yaad aaoge bhaiya
 
   3
-  Yaad aayega bhaiya mujhe armaan tumhara
+  Yaad aayega bhaiya mujhe armaan tumhaara
   Tum dekh nahiṅ paaye ho Akbar ka jo sehra
-  Daawat koi shaadi ki Madine meiṅ jo dega
+  Daawat koi shaadi ki Madine mein jo dega
   Yaad aaoge bhaiya
 
   4
@@ -43,24 +43,24 @@ romanLyrics: |-
 
   5
   Kitna tha khayaal aap ko parde ka baraadar
-  Le jaate the tum raat ko Amma ki lahad par
+  Le jaate the tum raat ko Ammaaṅ ki lahad par
   Ab dekhegi Zainab ke khule sar ko ye dunya
   Yaad aaoge bhaiya
 
   6
   Didaar bhi ho jaayega beti ke bahaane
-  Kya Shaam ke zindaan meiṅ aaoge sulaane
+  Kya Shaam ke zindaan mein aaoge sulaane
   Soyegi nahiṅ jab meri lori se Sakina
   Yaad aaoge bhaiya
 
   7
-  Kis tarah bhulaauṅgi maiṅ wo dard ka manzar
+  Kis tarah bhulaauṅgi main wo dard ka manzar
   Wo sukhe gale par tere chalta hua khanjar
-  Zainab ko nazar aayega jab bhi koi pyasa
+  Zainab ko nazar aayega jab bhi koi pyaasa
   Yaad aaoge bhaiya
 
   8
-  Hota tha Takallum yuṅ juda bhai behan se
+  Hota tha Takallum yuṅ juda bhaai behan se
   Jis tarah koi ruh nikalti ho badan se
   Shah ran ko chale kehti rahi saani Zehra
   Yaad aaoge bhaiya

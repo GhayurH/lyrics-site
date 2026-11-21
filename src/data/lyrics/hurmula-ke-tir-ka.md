@@ -28,7 +28,7 @@ romanLyrics: |-
   Chand qatroṅ par tere kya haq na tha beshir ka
 
   4
-  God bhi viraan hui aur maaṅg bhi ujri teri
+  God bhi viraan hai aur maaṅg bhi ujri teri
   Sabr kar Bano ke ye sab khel hai taqdir ka
 
   5

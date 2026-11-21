@@ -1,32 +1,54 @@
 ---
-title: "Aye Munkir E Haider Tere Barey Mein Nahi Hai"
+title: "اے منکرِ حیدر تیرے بارے میں نہیں ہے"
+alternateTitle: "Aye Munkir e Haider Tere Barey Mein Nahi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ammar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aye munkir e Haider tere barey mein nahi hai
+  Wal Asar! Jo momin hai khasaray mein nahi hai
+
+  1
+  Hasnain ke sadqay mein atta kar tu main le loon
+  Warna teri dunya mujhe warey mein nahi hai
+  Man maata ala hub e Ali maata shaheeda
+  Lekin yeh har ik dil ke siparay mein nahi hai
+
+  2
+  Jitna gham-e-Shabeer mein rota hoon main utna
+  Pani ka tanasab merey garey mein nahi hai
+  Deta hai woh janat gham-e-Shabeer ke badlay
+  Khaliq ko tijarat yeh khasaray mein nahi hai
+
+  3
+  Darya ki tarha dil mein rawaan ulfat-e-Haider
+  Darya bhi hai aisa jo kinaray mein nahi hai
+  Man kuntu ka manzar hai marey samne Ammar
+  Lutf aisa kissi our nazarey mein nahi hai
 ---
 
-Aye Munkir e Haider Tere Barey Mein Nahi Hai.
-Wal Asar! Jo Momin Hai Khasaray Mein Nahi Hai.
+اے منکرِ حیدر تیرے بارے میں نہیں ہے
+والعصر! جو مومن ہے خسارے میں نہیں ہے
 
-1
-Hasnain Ke Sadqay Mein Atta Kar Tu Main Le Loon.
-Warna Teri Dunya Mujhe Warey Mein Nahi Hai.
-Man Maata Ala Hub e Ali Maata Shaheeda.
-Lekin Yeh Har Ik Dil Ke Siparay Mein Nahi Hai.
+۱
+حسنین کے صدقے میں عطا کر تو میں لے لوں
+ورنہ تیری دنیا مجھے وارے میں نہیں ہے
+مَن ماتَ على حُبِّ عليّ ماتَ شهيدًا
+لیکن یہ ہر اک دل کے سپارے میں نہیں ہے
 
-2
-Jitna Gham-e-Shabeer Mein Rota Hoon Main Utna.
-Pani Ka Tanasab Merey Garey Mein Nahi Hai.
-Deta Hai Woh Janat Gham-e-Shabeer Ke Badlay.
-Khaliq Ko Tijarat Yeh Khasaray Mein Nahi Hai.
+۲
+جتنا غمِ شبیر میں روتا ہوں میں اتنا
+پانی کا تناسب میرے گارے میں نہیں ہے
+دیتا ہے وہ جنت غمِ شبیر کے بدلے
+خالق کو تجارت یہ خسارے میں نہیں ہے
 
-3
-Darya Ki Tarha Dil Mein Rawaan Ulfat-e-Haider.
-Darya Bhi Hai Aisa Jo Kinaray Mein Nahi Hai.
-Man Kuntu Ka Manzar Hai Marey Samne Ammar.
-Lutf Aisa Kissi Our Nazarey Mein Nahi Hai.
+۳
+دریا کی طرح دل میں رواں الفتِ حیدر
+دریا بھی ہے ایسا جو کنارے میں نہیں ہے
+مَن كُنْتُ کا منظر ہے میرے سامنے عمار
+لطف ایسا کسی اور نظارے میں نہیں ہے

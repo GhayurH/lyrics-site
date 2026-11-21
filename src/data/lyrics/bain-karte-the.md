@@ -15,9 +15,9 @@ romanLyrics: |-
   Bain karte the Sarwar haaye naujawaaṅ Akbar
 
   1
-  Naujawan bete ki ran se jab sada aayi
+  Naujawaan bete ki ran se jab sada aayi
   Le chale su-e-maqtal Shaah-e-diṅ ko tanhaai
-  Kuch nazar na aata tha jaa chuki thi binaai
+  Kuchh nazar na aata tha jaa chuki thi binaai
   Kehte the tumheṅ dhunduṅ maiṅ kahaaṅ kahaaṅ Akbar
 
   2
@@ -33,7 +33,7 @@ romanLyrics: |-
   Kis tarah rahe zinda ab tumhaari maaṅ Akbar
 
   4
-  Kuch to bolo kiuṅ aakhir karwateṅ badalte ho
+  Kuchh to bolo kiuṅ aakhir karwateṅ badalte ho
   Donoṅ haath sine par baar baar rakhte ho
   Kya guzar gayi beta kis liye tarapte ho
   Kiuṅ ragarte ho aakhir ran meiṅ eriyaaṅ Akbar
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Tha Sohail khemoṅ meiṅ ek hashr sa barpa
-  Laa ke rakh diya Shah ne naujawan ka laasha
+  Laa ke rakh diya Shah ne naujawaan ka laasha
   Tha laboṅ pe Zainab ke har ghari yehi nauha
   Meri god ke paale mere naujawaaṅ Akbar
 ---

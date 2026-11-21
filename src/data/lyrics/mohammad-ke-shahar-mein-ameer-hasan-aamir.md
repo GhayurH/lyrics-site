@@ -9,86 +9,54 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Mohammad Ke Shahar Mein Ameer Hasan Aamir"
-romanLyrics: 'Mohammad Ke Shahar Mein Ameer Hasan Aamir.
-
-  Ghar Kis Ka Jal Raha Hai Muhammad Ke Shehar Mein.
-
+romanLyrics: |-
+  Ghar kis ka jal raha hai Muhammad ke shahar mein
 
   1
-
-  Yeh Kaun Ro Raha Hai Muhammad Ke Shehar Mein.
-
-  Kaisa Yeh Waqt Aaya Koi Janta Nahi.
-
-  Beti Nabi Ki Hai Koi Pehchanta Nahi.
-
-  Mazloom Fatima Hai Muhammad Ke Shehar Mein.
-
+  Yeh kaun ro raha hai Muhammad ke shahar mein
+  Kaisa yeh waqt aaya koi jaanta nahiṅ
+  Beti Nabi ki hai koi pehchaanta nahiṅ
+  Mazlum Fatima hai Muhammad ke shahar mein
 
   2
-
-  Pyaray Nabi Ne Jism Ka Tukra Kaha Jisay.
-
-  Tazeem Jis Ki Kartay They Oss Ki Hi Pusht Pe.
-
-  Darwaza Gir Raha Hai Muhammad Ke Shehar Mein.
-
-  Zahra Ko Aik Dard Ka Marham Na Mil Saka.
-
+  Pyaare Nabi ne jism ka tukra kaha jise
+  Taazim jis ki karte the us ki hi pusht pe
+  Darwaaza gir raha hai Muhammad ke shahar mein
 
   3
-
-  Kehta Hai Par Har Aik Musalman Barmala.
-
-  Har Dard Ki Dawa Hai Muhammad Ke Shehar Mein.
-
-  Bad-e-Rasool Qadar Na Jani Batool Ki.
-
-  Darbar Mein Khari Hai Nishani Rasool Ki.
-
+  Zehra ko ek dard ka marham na mil saka
+  Kehta hai par har ek musalmaan barmala
+  Har dard ki dawa hai Muhammad ke shahar mein
 
   4
-
-  Mehroom Fatima Hai Muhammad Ke Shehar Mein.
-
-  Baba Ke Pas Beti Ki Turbat Na Ban Sakay.
-
-  Hai Koi Chashm-e-Bina Jo Insaf Se Kahey.
-
-  Yeh Kya Sitam Howa Hai Muhammad Ke Shehar Mein.
-
+  Baad-e-Rasul qadr na jaani Batul ki
+  Darbaar mein khari hai nishaani Rasul ki
+  Mahrum Fatima hai Muhammad ke shahar mein
 
   5
-
-  Kis Ne Galay Mein Dali Hain Haider Ke Rasiyaan.
-
-  Tooti Hain Kaisay Fatima Zahra Ki Pasliyaan.
-
-  Kya Hadsa Howa Hai Muhammad Ke Shehar Mein.
-
-  Afsoos Kalma Goyon Ne Jis Ko Nahi Suna.
-
+  Baaba ke paas beti ki turbat na ban saki
+  Hai koi chashm-e-bina jo insaaf se kahe
+  Yeh kya sitam hua hai Muhammad ke shahar mein
 
   6
-
-  Rehta Tha Jo Batool Ke Honton Pe Marsiya.
-
-  Woh Ab Bhi Gonjta Hai Muhammad Ke Shehar Mein.
-
-  ALLAH Re Baqiye Ki Ghurbat Woh Bekasi.
-
-  Sadiyaan Guzar Gayin Hain Magar Aaj Bhi Koi.
-
+  Kis ne gale mein daali hai Haidar ke rassiyaaṅ
+  Tuti hai kaise Fatima Zehra ki pasliyaaṅ
+  Kya haadsa hua hai Muhammad ke shahar mein
 
   7
+  Afsos kalma goyoṅ ne us ko nahiṅ suna
+  Rehta tha jo Batul ke hontoṅ pe marsiya
+  Woh ab bhi gunjta hai Muhammad ke shahar mein
 
-  Ghut Ghut Ke Ro Raha Hai Muhammad Ke Shehar Mein.
+  8
+  Allah re Baqiya ke ghurbat woh bekasi
+  Sadiyaaṅ guzar gai hai magar aaj bhi koi
+  Ghut ghut ke ro raha hai Muhammad ke shahar mein
 
-  Aamir Yeh Kalma Goyon Ne Socha Nahi Kabhi.
-
-  Ainee Janab-e-Fatima Jan-e-Rasool Ki.
-
-  Marqad Pe Bhi Jafa Hai Muhammad Ke Shehar Mein.'
+  9
+  Aamir yeh kalma goyoṅ ne soncha nahiṅ kabhi
+  Aini janaab-e-Fatima jaan-e-Rasul ki
+  Marqad pe bhi jafa hai Muhammad ke shahar mein
 ---
 
 گھر کس کا جل رہا ہے محمد کے شہر میں

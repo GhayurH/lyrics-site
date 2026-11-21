@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Husain raazi rahe fatema rahe raazi
-  Chalo Husain ki mil kar kare azadari
-  Husain ahle aza ka khulus dekhte hai
-  Ghame Husain meiṅ hargiz na ho riyakari
-  Yazidiyat se ho nafrat amal hussaini ho
-  Yehi Husain se dar asl hai wafadari
-  Chalo sabil lagayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Karo Husain ka matam bichao farshe aza
-  Tumhare ghar meiṅ bhi aayegi fatema zehra
-  Aza ka farsh bichayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Pilao pani jo dushman bhi maang le pani
-  Kabhi na bhulna sirat gharib e zahra ki
-  Diloṅ se bughz mitayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Duayeiṅ fatema dengi ali dua denge
-  Jo apne bacho ko saqqai hum sikha denge
-  Alam jari ka uthayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Banao ghar meiṅ bhi chota sa ek azakhana
-  Duayeiṅ dengi tumhe dil se zainab e kubra
-  Imam baare sajayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Zamana dekh ke bole Husain waale hai
-  Imam e kaun o makaṅ ke qadam pe chalte hai
-  Hayaat aisi banayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Ghame Husain manayeiṅ bhula ke gham apne
+  Husain raazi rahe Faatima rahe raazi
+  Chalo Husain ki mil kar kareṅ azaadaari
+  Husain ahl-e-aza ka khulus dekhte haiṅ
+  Gham-e-Husain meiṅ hargiz na ho riyaakaari
+  Yazidiyat se ho nafrat amal Husaini ho
+  Yahi Husain se dar asl hai wafaadaari
+  Chalo sabil lagaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Karo Husain ka maatam bichhaao farsh-e-aza
+  Tumhaare ghar meiṅ bhi aae gi Faatima Zehra
+  Aza ka farsh bichaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Pilaao paani jo dushman bhi maang le paani
+  Kabhi na bhulna sirat-e-gharib Zehra ki
+  Diloṅ se bughz mitaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Duaaeṅ Faatima deṅ gi Ali dua deṅge
+  Jo apne bachchoṅ ko saqqaai ho sikha deṅge
+  Alam Jari ka uthaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Banaao ghar meiṅ bhi chhota sa ek aza khaana
+  Duaaeṅ deṅgi tumheṅ dil se Zainab Kubra
+  Imaam baare sajaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Zamaana dekh ke bole Husain waale haiṅ
+  Imaam-e-kaun o makaaṅ ke qadam pe chalte haiṅ
+  Hayaat aisi banaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Gham-e-Husain manaaeṅ bhula ke gham apne
   Ho sog dil meiṅ badan par libaas ho kaale
-  Kiya jo waada nibhayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Aza e sheh meiṅ dikhawa na ho riyakari
-  Unhe rumaal meiṅ lele hamari shahzadi
-  Hum aise ashk bahayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Mere imam ne dushman ko da diya pani
-  Gawara kar liya itrat meri rahi pyasi
-  Adu ko pani pilayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
-  Sabhi ke dil ki tamanna hai danish o rehan
-  Bulayeiṅ maula ho pura hamara ye armaaṅ
-  Piyada karbaal jaayeiṅ Husain raazi ho
-  Sabhi ko pani pilayeiṅ Husain raazi ho
-  Chalo sabil lagayein...
+  Kiya jo waada nibhaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Aza-e-shah meiṅ dikhaawa na ho riyaakaari
+  Unheṅ rumaal meiṅ le le hamaari shahzaadi
+  Ham aise ashk bahaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Mere imaam ne dushman ko de diya paani
+  Gawaara kar liya itrat meri rahi pyaasi
+  Adu ko paani pilaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
+  Sabhi ke dil ki tamanna hai Danish o Rehan
+  Bulaaeṅ Maula ho pura hamaara ye armaaṅ
+  Piyaada Karbala jaaeṅ Husain raazi ho
+  Sabhi ko paani pilaaeṅ Husain raazi ho
+  Chalo sabil lagaaeṅ...
 ---
 
 ۱

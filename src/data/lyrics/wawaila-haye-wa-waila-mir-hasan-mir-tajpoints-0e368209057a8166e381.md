@@ -1,35 +1,61 @@
 ---
-title: "Wawaila Haye Wa Waila Mir Hasan Mir"
+title: "واویلا ہائے واویلا میر حسن میر"
+alternateTitle: "Wawaila Haye Wa Waila Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Wawaila haye wa waila Mir Hasan Mir
+  Zahra ka yeh noha tha mera kunba ujar gaya
+  Rukh kar ke Madine ka Bano Sughra ko bulati hai
+  Akbar ke lahu se baloon mein maa mehndi lagati hai
+  Kuhram tha khaimay mein Laila ka yeh noha tha
+  Khud kanptay hathoon se Sheh ne betay ki lehad khodi
+  Shabeer ki ghurbat par oss dam roti thi khudai bhi
+  Jab khoon bharay kurtay mein Asghar ko dafan kiya
+  Jo shab ko bani Qasim ki dulhan woh subha ko bewah hoi
+  Hathoon mein rasan tangney ki jagah Kubra ke bandhi gayi
+  Farwa ne kaha ro kar pamal howa dulha
+  Beemar musafir ke dil par ik taza qayamat thi
+  Bazar ke rastay mein jis dam naqay se Sakina giri
+  Syedaniyaan roti thin kuhram tha ik barpa
+  Pehrey pe Ali ki beti hai har simt andhera hai
+  Atharah baradar they jis ke woh dasht mein tanha hai
+  Our oss pe sitam yeh hai baqi na raha pardah
+  Oss khoon bharay manzar ko madar bholay gi bhala kaisay
+  Betay ko juda hotey dekha khud apni nigahon se
+  Khanjar na chala zalim kehti hi rahein Zahra
+  Aye:Mir Takallum: Yasrab mein mehshar ka sama ho ga
+  Jab haal safar ka Zainab ne Sughra se kaha ho ga
+  Sar peet ke dukhiya ne yeh noha parha ho ga
 ---
 
-1
-Wawaila Haye Wa Waila Mir Hasan Mir.
-Zahra Ka Yeh Noha Tha Mera Kunba Ujar Gaya.
-Rukh Kar Ke Madine Ka Bano Sughra Ko Bulati Hai.
-Akbar Ke Lahu Se Baloon Mein Maa Mehndi Lagati Hai.
-Kuhram Tha Khaimay Mein Laila Ka Yeh Noha Tha.
-Khud Kanptay Hathoon Se Sheh Ne Betay Ki Lehad Khodi.
-Shabeer Ki Ghurbat Par Oss Dam Roti Thi Khudai Bhi.
-Jab Khoon Bharay Kurtay Mein Asghar Ko Dafan Kiya.
-Jo Shab Ko Bani Qasim Ki Dulhan Woh Subha Ko Bewah Hoi.
-Hathoon Mein Rasan Tangney Ki Jagah Kubra Ke Bandhi Gayi.
-Farwa Ne Kaha Ro Kar Pamal Howa Dulha.
-Beemar Musafir Ke Dil Par Ik Taza Qayamat Thi.
-Bazar Ke Rastay Mein Jis Dam Naqay Se Sakina Giri.
-Syedaniyaan Roti Thin Kuhram Tha Ik Barpa.
-Pehrey Pe Ali Ki Beti Hai Har Simt Andhera Hai.
-Atharah Baradar They Jis Ke Woh Dasht Mein Tanha Hai.
-Our Oss Pe Sitam Yeh Hai Baqi Na Raha Pardah.
-Oss Khoon Bharay Manzar Ko Madar Bholay Gi Bhala Kaisay.
-Betay Ko Juda Hotey Dekha Khud Apni Nigahon Se.
-Khanjar Na Chala Zalim Kehti Hi Rahein Zahra.
-Aye:MIR TAKALLUM: Yasrab Mein Mehshar Ka Sama Ho Ga.
-Jab Haal Safar Ka Zainab Ne Sughra Se Kaha Ho Ga.
-Sar Peet Ke Dukhiya Ne Yeh Noha Parha Ho Ga.
+۱
+واویلا ہائے واویلا میر حسن میر
+زہرا کا یہ نوحہ تھا میرا کنبہ اجڑ گیا
+رخ کر کے مدینے کا بانو صغریٰ کو بلاتی ہے
+اکبر کے لہو سے بالوں میں ماں مہندی لگاتی ہے
+کہرام تھا خیمے میں لیلیٰ کا یہ نوحہ تھا
+خود کانپتے ہاتھوں سے شہ نے بیٹے کی لحد کھودی
+شبیر کی غربت پر اس دم روتی تھی خدائی بھی
+جب خون بھرے کرتے میں اصغر کو دفن کیا
+جو شب کو بنی قاسم کی دلہن وہ صبح کو بیوہ ہوئی
+ہاتھوں میں رسن ٹانگنے کی جگہ کبریٰ کے باندھی گئی
+فروہ نے کہا رو کر پامال ہوا دولہا
+بیمار مسافر کے دل پر اک تازہ قیامت تھی
+بازار کے رستے میں جس دم ناقے سے سکینہ گری
+سیدانیاں روتی تھیں کہرام تھا اک برپا
+پہرے پہ علی کی بیٹی ہے ہر سمت اندھیرا ہے
+اٹھارہ برادر تھے جس کے وہ دشت میں تنہا ہے
+اور اس پہ ستم یہ ہے باقی نہ رہا پردہ
+اس خون بھرے منظر کو مادر بھولے گی بھلا کیسے
+بیٹے کو جدا ہوتے دیکھا خود اپنی نگاہوں سے
+خنجر نہ چلا ظالم کہتی ہی رہیں زہرا
+اے میر تکلم، یثرب میں محشر کا سماں ہو گا
+جب حال سفر کا زینب نے صغریٰ سے کہا ہو گا
+سر پیٹ کے دکھیا نے یہ نوحہ پڑھا ہو گا

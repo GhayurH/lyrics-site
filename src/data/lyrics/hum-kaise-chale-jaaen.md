@@ -11,7 +11,7 @@ tags: []
 aliases: ["Hum Kaise Chale Jaye"]
 published: true
 romanLyrics: |-
-  Ashur ki shab karte the ashaab ye noha
+  Aashur ki shab karte the ashaab ye noha
   Hum kaise chale jaaeṅ tumheṅ chhor ke Maula
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Jis roz se aabaad kiya tum ne ye jangal
-  Ek Bibi yahaaṅ roti hai raatoṅ ko musalsal
+  Ik Bibi yahaaṅ roti hai raatoṅ ko musalsal
   Lagta hai lahad chhor ke khud aai hai Zehra
 
   5

@@ -7,6 +7,49 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baano baithi ro rahi hai Shaam ke zindaan mein
+  Kya Sakina mar gayi hai Shaam ke zindaan mein
+
+  1
+  Ghar ko jaane ki tarap thi dil mein bachchi ke magar
+  Qabr chhoti si bani hai Shaam ke zindaan mein
+
+  2
+  Maaṅ se kehti thi mujhe tanha yahaaṅ na chhorna
+  Haaye tanha reh gayi hai Shaam ke zindaan mein
+
+  3
+  Jis ka girya sun ke rote the sabhi shaam o sahar
+  Woh Hazina chal basi hai Shaam ke zindaan mein
+
+  4
+  Khun se yuṅ jam gaya tha jism se hatta na tha
+  Dafn kurte mein hui hai Shaam ke zindaan mein
+
+  5
+  Pyaas lagti thi bahut bachchi ko har din har ghari
+  Is liye ab bhi tari hai Shaam ke zindaan mein
+
+  6
+  Ghup andhere mein use lagta tha dar haaṅ is liye
+  Roz shama jal rahi hai Shaam ke zindaan mein
+
+  7
+  Mujh ko sine par lita lo ek din main su sakuṅ
+  Baaba se kehti rahi hai Shaam ke zindaan mein
+
+  8
+  Kho chuki Asghar ko Karbal mein Sakina ko yahaaṅ
+  God khaali ho chuki hai Shaam ke zindaan mein
+
+  9
+  Qaafila phir se watan mein aa gaya hai laut kar
+  Yaad baaqi reh gayi hai Shaam ke zindaan mein
+
+  10
+  Rota jaata tha qalam Rizwaan ka ye soch kar
+  Zulm ki aandhi chali hai Shaam ke zindaan mein
 ---
 
 بانو بیٹھی رو رہی ہے شام کے زندان میں

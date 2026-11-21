@@ -56,7 +56,7 @@ romanLyrics: |-
   Hai masruf majlis meiṅ har ek zabaaṅ
   Jahaaṅ dekhiye farsh-e-gham hai wahaaṅ
   Hai kitna bara haq ka ye kaarwaaṅ
-  Hai phaili hui jaa baja Karbala
+  Hai phaili hui jaa bajaa Karbala
 
   7
   Faza majlisoṅ ki hai kitni bhali

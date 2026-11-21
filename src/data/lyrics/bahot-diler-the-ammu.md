@@ -12,16 +12,16 @@ tags: []
 aliases: ["Bahot Diler Thay Ammu"]
 published: true
 romanLyrics: |-
-  Khayaal aata hai wo waqt kya raha hoga
-  Asir qaafila darbaar jab gaya hoga
-  Yazid takht pe beti ko god meiṅ le kar
-  Suye Sakina takabbur se dekhta hoga
-  Sawaal beti ne maloon ki kiya hoga
+  Khayaal aata hai wo waqt kya raha ho ga
+  Asir qaafila darbaar jab gaya ho ga
+  Yazid takht pe beti ko god mein le kar
+  Su-e-Sakina takabbur se dekhta ho ga
+  Sawaal beti ne maalum ki kiya ho ga
   Ye jis ka naam Sakina hai kaun hai baaba
   Lahu hai kaanoṅ se jaari phata hua kurta
   Kaha Yazid ne beti se puchh le khud hi
   Sakina boli khabardaar tu agar boli
-  Maiṅ Sakina huṅ Muhammad ki maiṅ nawaasi huṅ
+  Main Sakina huṅ Muhammad ki main nawaasi huṅ
   Mujhe ye yaad nahiṅ kitne din ki pyaasi huṅ
   Mat kar koi sawaal na puchh mera haal
 
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   1
   Ye mera haal jo is waqt dekhti hai tu
-  Sabab hai uska tera baap sun rahi hai tu
+  Sabab hai us ka tera baap sun rahi hai tu
   Isi ne kunbe ko mere bula ke luta hai
   Isi ne mere chacha ka bhi sar utaara hai
   Mere chacha ko hazaaroṅ ne mil ke maara hai
@@ -45,35 +45,35 @@ romanLyrics: |-
   3
   Jigar ko thaam ke bint-e-Yazid sun meri baat
   Mere chacha se tera baap le saka na Furaat
-  Agarche dhoke se kaate gaye chacha ke haath
+  Agarche dhoke se kaate gaye chacha ka haath
   Ye buzdili hai hameṅ qaid kar ke laaya hai
   Har ek lashkari tere pidar ka kehta hai
 
   4
-  Tu mere kaanoṅ se behte lahu ko puchhti hai
+  Tu mere kaanoṅ se behte lahu ko ponchti hai
   Na kaise puchhegi beti to tu Yazid ki hai
-  Ye khuṅ ye kurta ye mere gale meiṅ rasan
+  Ye khuṅ ye kurta ye mere gale mein rasan
   Chacha ke baad sitam is ne mujh pe dhaaya hai
   Shahid ho ke bhi baaqi bharam chacha ka hai
 
   5
-  Tu meri shaan Madine meiṅ dekh leti agar
+  Tu meri shaan Madine mein dekh leti agar
   Mila na sakti thi meri kaniz se tu nazar
   Ye tera baap jo baitha hai takht-e-shaahi par
-  Ye is ne bhik meiṅ Saadaat hi se paaya hai
+  Ye is ne bhik mein Saadaat hi se paaya hai
   Yazid naam pe Ghaazi ke chauṅk jaata hai
 
   6
   Chacha ke hote kisi ki bhi ye majaal na thi
-  Meri phuphi ke gale meiṅ jo baandhta rassi
+  Meri phuphi ke gale mein jo baandhta rassi
   Meri taraf koi kya dekhta nazar bhar kar
-  Chacha ke baad tamacha bhi maiṅ ne khaaya hai
+  Chacha ke baad tamaancha bhi main ne khaaya hai
   Yahaaṅ bhi hai unheṅ baaba ne rok rakha hai
 
   7
-  Ghulaam zaadi hai tu maiṅ to shaahzaadi huṅ
+  Ghulaam zaadi hai tu main to shaahzaadi huṅ
   Jhulaaye hureṅ mera jhula us ki aadi huṅ
-  Janaab-e-Zehra ki chaadar ke saaye meiṅ huṅ pali
+  Janaab-e-Zehra ki chaadar ke saaye mein huṅ pali
   Yazid baandh ke naaqe pe mujh ko laaya hai
   Ab un ke sar se bhi nazreṅ churaaye phirta hai
 
@@ -81,41 +81,41 @@ romanLyrics: |-
   Chacha to sang se paani nichor sakte the
   Wo Alqama ko meri samt mor sakte the
   Unheṅ to izn-e-wagha hi na diya baaba ne
-  Shahid ho ke bhi Ghaazi laqab unhi ka hai
-  Bhala ye martaba kis ne jahaaṅ meiṅ paaya hai
+  Shahid ho ke bhi Ghaazi laqab unheṅ ka hai
+  Bhala ye martaba kis ne jahaaṅ mein paaya hai
 
   9
   Yazid un ke kate sar se khauf khaata hai
-  Wo dekh chakke ghulaamoṅ ke saath baitha hai
+  Wo dekh chuke ghulaamoṅ ke saath baitha hai
   Wo din bhi aaye ga nafrat karegi baap se tu
   Mera chacha mera baaba imaam zaada hai
   Yazid un ki to nalain se bhi chhota hai
 
   10
   Jami hai pyaas laboṅ par ye imtehaani hai
-  Mehr meiṅ daadi ke donoṅ jahaaṅ ka paani hai
+  Mehr mein daadi ke donoṅ jahaaṅ ka paani hai
   Hamaare daada ko kehte haiṅ saaqi-e-Kausar
-  Laqab bahishti ka mere chacha ne paaya hai
+  Laqab bahisht ka mere chacha ne paaya hai
   Agar wo chaahe to paani baras bhi sakta hai
 
   11
   Ye sun ke ashk jo bint-e-Yazid ke tapke
   Utar ke baap ki godi se maazerat kar ke
-  Kaha Sakina se maiṅ bhi kaniz aap ki huṅ
-  Jo hukm ho to kahuṅ maiṅ bhi dil ye kehta hai
+  Kaha Sakina se main bhi kaniz aap ki huṅ
+  Jo hukm ho to kahuṅ main bhi dil ye kehta hai
   Kaha Sakina dil tera mere dil sa hai
 
   12
   Ye jang jiti Rehaan o Raza Sakina ne
-  Ajib shaan se hamla kiya Sakina ne
+  Ajib shaah ne hamla kiya Sakina ne
   Ali ki poti thi Abbas ki bhatiji thi
   Lab-e-Sakina se nikli wo baat zinda hai
   Lehad pe baali Sakina ke ab bhi likha
 
   13
-  Nanhi si lehad Shaam meiṅ maujud hai logoṅ
+  Nanhi si lehad Shaam mein maujud hai logoṅ
   Maasum ki lalkaar ne zindaaṅ nahiṅ chhora
-  Lagta hai ke sadiyoṅ se Sakina ki fughaaṅ ne
+  Lagta hai ke sayyidaaniyoṅ se Sakina ki fughaaṅ ne
   Abbas ke qaatil ka girebaaṅ nahiṅ chhora
 ---
 خیال آتا ہے وہ وقت کیا رہا ہو گا

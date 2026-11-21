@@ -14,63 +14,63 @@ published: true
 romanLyrics: |-
   Baba jaaṅ baba jaaṅ
   Meri kahaani suno
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   1
   Baba qasam khaa ke kehti rahi
   Karta nahiṅ tha yaqiṅ ye koi
   Ab tum hi de do gawaahi meri
   In Shaamiyoṅ se kaho
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   2
   Aashur tak ye zaifi na thi
   Baaloṅ meiṅ mere safedi na thi
   Tum jab gaye the maiṅ aisi na thi
   Lehje se pehchaan lo
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   3
   Kehta tha zaalim sataao ise
-  Durre tamaache lagaao ise
+  Durre tamaanche lagaao ise
   Neze dikha kar daraao ise
   Maalum tha Shimr ko
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   4
   Baaghi ki beti samajh kar mujhe
   Bachchoṅ ne maare hai patthar mujhe
   Rehna nahiṅ ab yahaaṅ par mujhe
   Bas Karbala le chalo
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   5
   Zid ki thi bachpan meiṅ jab aap ne
   Aaye the malbus Firdaus se
   Aaj apni maadar se mere liye
   Mera kafan maang lo
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   6
-  Zindaaṅ ka naqsha badal jaayega
-  Kuchh der meiṅ dam nikal jaayega
-  Dil jaate jaate behal jaayega
+  Zindaaṅ ka naqsha badal jaaye ga
+  Kuchh der meiṅ dam nikal jaaye ga
+  Dil jaate jaate behal jaaye ga
   Sughra ki baateṅ karo
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   7
-  Mujh ko tamaacha hi aisa laga
+  Mujh ko tamaancha hi aisa laga
   Nazroṅ meiṅ meri andhera hua
   Meri kamar meiṅ bhi kham aa gaya
   Daagh-e-rasan dekh lo
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 
   8
   Sar apne baba ke sar par rakhe
   Boli Takallum wo rote hue
   Sab maarne par tule haiṅ mujhe
   Tum keh do jiti raho
-  Baba tumhari Sakina huṅ maiṅ
+  Baba tumhaari Sakina huṅ maiṅ
 ---
 
 بابا جاں بابا جاں

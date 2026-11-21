@@ -1,65 +1,118 @@
 ---
-title: "Tum Nahi Jao Maa Mirza Ali Hassan"
+title: "تم نہیں جاؤ ماں میرزا علی حسن"
+alternateTitle: "Tum Nahi Jao Maa Mirza Ali Hassan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qayamat hai maa ki judai ka manzar
+  Hasan our Kulsoom, Zainab hain muztar
+  Jo maiyyat pe aaye Hussain Ibn-e-Haider
+
+  2
+  Tu ro ro ke bolay woh maa se lipat kar
+  Tum nahi jao maa, tum nahi jao maa
+  Hamara ujar jaye ga yeh jahan
+  Tum nahi jao maa, tum nahi jao maa
+
+  3
+  Sitam dhaney aaein gay hum par sitamgar
+  Kabhi teer bari kabhi kund khanjar
+  Kabhi sar ki chadar kabhi baliyaan
+  Tum nahi jao maa, tum nahi jao maa
+
+  4
+  Karey ga bhala kaun yeh meharbani
+  Pilaye ga raton mein ab kaun pani?
+  Saweray dua kaun de ga yahan
+  Tum nahi jao maa, tum nahi jao maa
+
+  5
+  Anamta ki tum jab chalati thi chakki
+  Khilati thi roti humein Hal Atta ki
+  Karam koi tum sa karey ga kahan
+  Tum nahi jao maa, tum nahi jao maa
+
+  6
+  Miley chahe koi khushi zindagi mein
+  Agar tum na hogi ossi zindagi mein
+  Tu aisa lagay ga hai sab rayegaan
+  Tum nahi jao maa, tum nahi jao maa
+
+  7
+  Kaha maa ne band-e-kafan toor kar yeh
+  Mere dil ke tukray suno lal mere
+  Yeh keh kar na ab our lo imtehaan
+  Tum nahi jao maa, tum nahi jao maa
+
+  8
+  Main kaisay bataon yeh sadma bara hai
+  Tera hath pehlu pe ab tak rakha hai
+  Larazti hain mar kar bhi kya pasliyaan
+  Tum nahi jao maa, tum nahi jao maa
+
+  9
+  Kaha sheh ne Yasir karo aik wadah
+  Karo gi safar sath tum Karbala ka
+  Main khanjar talay bhi yeh doon ga biyaan
+  Tum nahi jao maa, tum nahi jao maa
 ---
 
-1
-Tum Nahi Jao Maa Mirza Ali Hassan Lyrics
-Qayamat Hai Maa Ki Judai Ka Manzar.
-Hasan Our Kulsoom, Zainab Hain Muztar.
-Jo Maiyyat Pe Aaye Hussain Ibn-e-Haider.
+۱
+قیامت ہے ماں کی جدائی کا منظر
+حسن اور کلثوم، زینب ہیں مضطر
+جو میت پہ آئے حسین ابنِ حیدر
 
-2
-Tu Ro Ro Ke Bolay Woh Maa Se Lipat Kar.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
-Hamara Ujar Jaye Ga Yeh Jahan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۲
+تو رو رو کے بولے وہ ماں سے لپٹ کر
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
+ہمارا اجڑ جائے گا یہ جہاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-3
-Sitam Dhaney Aaein Gay Hum Par Sitamgar.
-Kabhi Teer Bari Kabhi Kund Khanjar.
-Kabhi Sar Ki Chadar Kabhi Baliyaan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۳
+ستم ڈھانے آئیں گے ہم پر ستمگر
+کبھی تیر باری کبھی کند خنجر
+کبھی سر کی چادر کبھی بالیاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-4
-Karey Ga Bhala Kaun Yeh Meharbani.
-Pilaye Ga Raton Mein Ab Kaun Pani?.
-Saweray Dua Kaun De Ga Yahan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۴
+کرے گا بھلا کون یہ مہربانی
+پلائے گا راتوں میں اب کون پانی؟
+سویرے دعا کون دے گا یہاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-5
-Anamta Ki Tum Jab Chalati Thi Chakki.
-Khilati Thi Roti Humein Hal Atta Ki.
-Karam Koi Tum Sa Karey Ga Kahan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۵
+انعمت کی تم جب چلاتی تھی چکی
+کھلاتی تھی روٹی ہمیں ہل اتیٰ کی
+کرم کوئی تم سا کرے گا کہاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-6
-Miley Chahe Koi Khushi Zindagi Mein.
-Agar Tum Na Hogi Ossi Zindagi Mein.
-Tu Aisa Lagay Ga Hai Sab Rayegaan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۶
+ملے چاہے کوئی خوشی زندگی میں
+اگر تم نہ ہوگی اسی زندگی میں
+تو ایسا لگے گا ہے سب رائیگاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-7
-Kaha Maa Ne Band-e-Kafan Toor Kar Yeh.
-Mere Dil Ke Tukray Suno Lal Mere.
-Yeh Keh Kar Na Ab Our Lo Imtehaan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۷
+کہا ماں نے بندِ کفن توڑ کر یہ
+میرے دل کے ٹکڑے سنو لال میرے
+یہ کہہ کر نہ اب اور لو امتحان
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-8
-Main Kaisay Bataon Yeh Sadma Bara Hai.
-Tera Hath Pehlu Pe Ab Tak Rakha Hai.
-Larazti Hain Mar Kar Bhi Kya Pasliyaan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۸
+میں کیسے بتاؤں یہ صدمہ بڑا ہے
+تیرا ہاتھ پہلو پہ اب تک رکھا ہے
+لرزتی ہیں مر کر بھی کیا پسلیاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں
 
-9
-Kaha Sheh Ne Yasir Karo Aik Wadah.
-Karo Gi Safar Sath Tum Karbala Ka.
-Main Khanjar Talay Bhi Yeh Doon Ga Biyaan.
-Tum Nahi Jao Maa, Tum Nahi Jao Maa.
+۹
+کہا شہ نے یاسر کرو ایک وعدہ
+کرو گی سفر ساتھ تم کربلا کا
+میں خنجر تلے بھی یہ دوں گا بیاں
+تم نہیں جاؤ ماں، تم نہیں جاؤ ماں

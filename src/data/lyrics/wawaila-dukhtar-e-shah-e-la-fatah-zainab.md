@@ -1,62 +1,114 @@
 ---
 title: "وا ویلا ہائے وا ویلا"
+alternateTitle: "Wawaila Haey Wawaila"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Wawaila haey Wawaila
+
+  1
+  Dukhtar-e-Shah-e-La Fateh Zainab
+  Bani-e-Majlis-e-Aza Zainab
+
+  2
+  Leh-jaye sher-e kibriya Zainab Wawaila
+  Fatema akse aa-ena Zainab Wawaila
+  Ye jo majlis hai ye jo matam hai
+  Ba khuda hai teri dua Zainab
+
+  3
+  Naam-e-Shabbir or aap ka naam Wawaila
+  Kaise me likhu juda juda Zainab Wawaila
+  Leliya intikaam bhayi kaa
+  Kehti hai majlise azaa Zainab
+
+  4
+  Hur alaihissalaam kaysay huwa Wawaila
+  Bus teray dar pe agayaa Zainab Wawaila
+  Tujko kehte hai saa-niyae Zehra
+  Chahiye tujko aur kya Zainab
+
+  5
+  Baad Zehra kay mai samajta hu Wawaila
+  Hay tuhi ashraf-un-nisaa Zainab Wawaila
+  Warise teg Hyderi Shabbir,
+  Or tu warise kissa Zainab
+
+  6
+  Karbala Alqama me beh jati Wawaila
+  Gar na hoti teri ridaa Zainab Wawaila
+  Syeday Sajideen ko tu nay
+  Har qadam baksha hosila Zainab
+
+  7
+  Jis dilo karti hai Hussain Hussain Wawaila
+  Usse roshan hai wo diya Zainab Wawaila
+  Kismate din la illah Shabbir
+  Daulate deen Mustafa Zainab
+
+  8
+  Shaam ka waqt hogaya roshan Wawaila
+  Teri aamad se sayyeda Zainab Wawaila
+  May to "Rehan Azmi" kya hun
+  Deen ko hay tera aasra Zainab
+
+  9
+  Dukhtar-e-Shah-e-La Fateh Zainab
+  Bani-e-Majlis-e-Aza Zainab
 ---
 
-Wawaila haey Wawaila
+وا ویلا ہائے وا ویلا
 
-1
-1) Dukhtar-e-Shah-e-La Fateh Zainab
-Bani-e-Majlis-e-Aza Zainab
+۱
+دخترِ شاہِ لا فتیٰ زینب
+بانیِ مجلسِ عزا زینب
 
-2
-2) Leh-jaye sher-e kibriya zainab Wawaila
-Fatema akse aa-ena zainab Wawaila
-Ye jo majlis hai ye jo matam hai
-Ba khuda hai teri dua zainab
+۲
+لہجۂ شیرِ کبریا زینب وا ویلا
+فاطمہ عکسِ آئینہ زینب وا ویلا
+یہ جو مجلس ہے یہ جو ماتم ہے
+بخدا ہے تیری دعا زینب
 
-3
-3) Naam-e-shabbir or aap ka naam Wawaila
-Kaise me likhu juda juda zainab Wawaila
-Leliya intikaam bhayi kaa
-Kehti hai majlise azaa zainab
+۳
+نامِ شبیر اور آپ کا نام وا ویلا
+کیسے میں لکھوں جدا جدا زینب وا ویلا
+لے لیا انتقام بھائی کا
+کہتی ہے مجلسِ عزا زینب
 
-4
-4) Hur alaihissalaam kaysay huwa Wawaila
-Bus teray dar pe agayaa zainab Wawaila
-Tujko kehte hai saa-niyae zehra
-Chahiye tujko aur kya zainab.
+۴
+حر علیہ السلام کیسے ہوا وا ویلا
+بس تیرے در پہ آ گیا زینب وا ویلا
+تجھ کو کہتے ہیں ثانیۂ زہرا
+چاہیے تجھ کو اور کیا زینب
 
-5
-5) Baad zehra kay mai samajta hu Wawaila
-Hay tuhi ashraf-un-nisaa zainab Wawaila
-Warise teg hyderi shabbir,
-Or tu warise kissa zainab
+۵
+بعد زہرا کے میں سمجھتا ہوں وا ویلا
+ہے تو ہی اشرف النساء زینب وا ویلا
+وارثِ تیغِ حیدری شبیر،
+اور تو وارثِ کسا زینب
 
-6
-6) Karbala alqama me beh jati Wawaila
-Gar na hoti teri ridaa zainab Wawaila
-Syeday sajideen ko tu nay
-Har qadam baksha hosila Zainab
+۶
+کربلا علقمہ میں بہہ جاتی وا ویلا
+گر نہ ہوتی تیری ردا زینب وا ویلا
+سیدِ ساجدین کو تو نے
+ہر قدم بخشا حوصلہ زینب
 
-7
-7) Jis dilo karti hai Hussain Hussain Wawaila
-Usse roshan hai wo diya zainab Wawaila
-Kismate din la illah shabbir
-Daulate deen mustafa zainab
+۷
+جس دلوں کرتی ہے حسین حسین وا ویلا
+اس سے روشن ہے وہ دیا زینب وا ویلا
+قسمتِ دیں لا الٰہ شبیر
+دولتِ دینِ مصطفیٰ زینب
 
-8
-8) Shaam ka waqt hogaya roshan Wawaila
-Teri aamad se sayyeda Zainab Wawaila
-May to "Rehan Azmi" kya hun
-Deen ko hay tera aasra zainab
+۸
+شام کا وقت ہو گیا روشن وا ویلا
+تیری آمد سے سیدہ زینب وا ویلا
+میں تو "ریحان اعظمی" کیا ہوں
+دین کو ہے تیرا آسرا زینب
 
-9
-Dukhtar-e-Shah-e-La Fateh Zainab
-Bani-e-Majlis-e-Aza Zainab
+۹
+دخترِ شاہِ لا فتیٰ زینب
+بانیِ مجلسِ عزا زینب

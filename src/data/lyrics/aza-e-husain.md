@@ -16,56 +16,56 @@ romanLyrics: |-
   Shuur o ruh par taari rahegi
   Zamane ke Yazidoṅ ko bata do
   Qayamat tak azadari rahegi
-  Husain waloṅ ki tarz-e-wafa aza-e-Husain
+  Husain waaloṅ ki tarz-e-wafa aza-e-Husain
   Yazid waale mitaayeṅge kya aza-e-Husain
 
   1
   Hameṅ ye tarz-e-ibadat hai jaan se pyari
   Ye ghar ye maal ye aulad is pe sab waari
-  Hamare khun ki gardish meiṅ hai azadari
+  Hamaare khun ki gardish mein hai azadari
   Batul-e-paak ke dil ki dua aza-e-Husain
 
   2
   Jo kat gaya hai wo sukha gala na bhuleṅge
   Jo lut gayi wo muqaddas rida na bhuleṅge
   Qasam Khuda ki kabhi Karbala na bhuleṅge
-  Hamara jina hai majlis buka aza-e-Husain
+  Hamaara jina hai majlis-e-buka aza-e-Husain
 
   3
-  Wo raah-e-Kufa ke aalaam kis tarah bhule
+  Wo raah-e-Kufa ke aalam kis tarah bhuleṅ
   Yazid o Shimr ke iqdaam kis tarah bhuleṅ
-  Ye bhul jaaye magar shaam kis tarah bhuleṅ
-  Shiaar Aabid-e-bimaar ka aza-e-Husain
+  Ye bhul jaaye magar Shaam kis tarah bhuleṅ
+  Shiaar-e-Aabid-e-bimaar ka aza-e-Husain
 
   4
-  Jahaaṅ meiṅ aaye haiṅ hum Karbala ka gham le kar
-  Jahaaṅ se jaayeṅge ek roz chashm-e-nam le kar
-  Mareṅge haath meiṅ Abbas ka alam le kar
-  Kareṅge qabr meiṅ jaa kar bapa aza-e-Husain
+  Jahaaṅ mein aaye haiṅ ham Karbala ka gham le kar
+  Jahaaṅ se jaayeṅge ik roz chashm-e-nam le kar
+  Mareṅge haath mein Abbas ka alam le kar
+  Kareṅge qabr mein jaa kar bapa aza-e-Husain
 
   5
-  Ye gham ba yaad-e-Shah-e-mashraqain zindabad
-  Ye shor-e-majlis o matam ye bain zindabad
-  Sada lagaao aza-e-Husain zindabad
+  Ye gham ba yaad-e-Shah-e-mashriqain zinda baad
+  Ye shor-e-majlis o maatam ye bain zinda baad
+  Sada lagaao aza-e-Husain zinda baad
   Kareṅge aur bhi ahl-e-aza aza-e-Husain
 
   6
   Zabaaṅ pe nauha hai Akbar ki naujawani ka
-  Diloṅ meiṅ dard hai Asghar ki bezabani ka
-  Wo jin ko mil na saka ek ghunt paani ka
-  Bataao kiuṅ na kare hum bhala aza-e-Husain
+  Diloṅ mein dard hai Asghar ki bezabaani ka
+  Wo jin ko mil na saka ek ghuṅt paani ka
+  Bataao kiuṅ na kare ham bhala aza-e-Husain
 
   7
-  Jise hai zulm se nafrat wo karbalayi hai
+  Jise hai zulm se nafrat wo Karbalai hai
   Jo haq ka chaahne waala hai apna bhai hai
   Yazidi fikr se apni faqat laraai hai
-  Kisi bhi shakl meiṅ ho bapa aza-e-Husain
+  Kisi bhi shakl mein ho bapa aza-e-Husain
 
   8
   Wo qaidi jis ne aza ka ye bij boya hai
   Wo jis ne tauq-e-giraaṅ aansuoṅ se dhoya hai
   Tarap tarap ke jo chaalis saal roya hai
-  Usi se puch Musadiq hai kya aza-e-Husain
+  Usi se puchh Musadiq hai kya aza-e-Husain
 ---
 
 حکایت عشق کی جاری رہے گی

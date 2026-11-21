@@ -1,34 +1,55 @@
 ---
-title: "Mola Raza Mola Raza Sonu Monu"
+title: "مولا رضا مولا رضا سونو مونو"
+alternateTitle: "Mola Raza Mola Raza Sonu Monu"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye Shehanshah-e-Khurasan, aye zamin-e-aaho
+  Kijiye nazar-e-karam Maula Raza, Maula Raza
+  Deney wala hai gharana aap ka
+  Hai gada sara zamana aap ka
+  Sailon ki aap suntay hain sada Maula Raza
+  Muflison ki aap se hi aas hai
+  Badshahi aap ki miras hai
+  Dono aalam ke sakhi mushkil kusha Maula Raza
+  Kam nahi yeh gham mawali ke liye
+  Hai pareshaan gaud khali ke liye
+  Akbar-o-asghar ka sadqa kar atta Maula Raza
+  Tang dast-o-bekas-o-la char hain
+  Mushkilon mein aap ke hubdar hain
+  Door har sail ke hoon ranj-o-bala Maula Raza
+  Arz Masooma-e-Qum se kijiye
+  Unn ki qismat mein bhi khushiyaan dijiye
+  Jis behan ko ab talak na ghar mila Maula Raza
+  Yeh dua hai Toos ke wali sunein
+  Apna ik darban Kashif ko chunein
+  Muntazir hoon pori ho kab yeh dua Maula Raza
 ---
 
-1
-Mola Raza Mola Raza Sonu Monu Lyrics
-Aye Shehanshah-e-Khurasan, Aye Zamin-e-Aaho.
-Kijiye Nazar-e-Karam Maula Raza, Maula Raza.
-Deney Wala Hai Gharana Aap Ka.
-Hai Gada Sara Zamana Aap Ka.
-Sailon Ki Aap Suntay Hain Sada Maula Raza.
-Muflison Ki Aap Se Hi Aas Hai.
-Badshahi Aap Ki Miras Hai.
-Dono Aalam Ke Sakhi Mushkil Kusha Maula Raza.
-Kam Nahi Yeh Gham Mawali Ke Liye.
-Hai Pareshaan Gaud Khali Ke Liye.
-Akbar-o-Asghar Ka Sadqa Kar Atta Maula Raza.
-Tang Dast-o-Bekas-o-La Char Hain.
-Mushkilon Mein Aap Ke Hubdar Hain.
-Door Har Sail Ke Hoon Ranj-o-Bala Maula Raza.
-Arz Masooma-e-Qum Se Kijiye.
-Unn Ki Qismat Mein Bhi Khushiyaan Dijiye.
-Jis Behan Ko Ab Talak Na Ghar Mila Maula Raza.
-Yeh Dua Hai Toos Ke Wali Sunein.
-Apna Ik Darban Kashif Ko Chunein.
-Muntazir Hoon Pori Ho Kab Yeh Dua Maula Raza.
+۱
+اے شہنشاہِ خراسان، اے ضامنِ آہو
+کیجیے نظرِ کرم مولا رضا، مولا رضا
+دینے والا ہے گھرانا آپ کا
+ہے گدا سارا زمانہ آپ کا
+سائلوں کی آپ سنتے ہیں صدا مولا رضا
+مفلسوں کی آپ سے ہی آس ہے
+بادشاہی آپ کی میراث ہے
+دونوں عالم کے سخی مشکل کشا مولا رضا
+کم نہیں یہ غم موالی کے لیے
+ہے پریشاں گود خالی کے لیے
+اکبر و اصغر کا صدقہ کر عطا مولا رضا
+تنگ دست و بے کس و لاچار ہیں
+مشکلوں میں آپ کے حبدار ہیں
+دور ہر سائل کے ہوں رنج و بلا مولا رضا
+عرض معصومۂ قم سے کیجیے
+ان کی قسمت میں بھی خوشیاں دیجیے
+جس بہن کو اب تلک نہ گھر ملا مولا رضا
+یہ دعا ہے طوس کے ولی سنیں
+اپنا اک درباں کاشف کو چنیں
+منتظر ہوں پوری ہو کب یہ دعا مولا رضا

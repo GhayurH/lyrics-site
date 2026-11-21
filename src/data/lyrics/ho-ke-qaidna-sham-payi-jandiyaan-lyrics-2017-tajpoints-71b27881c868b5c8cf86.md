@@ -1,23 +1,35 @@
 ---
-title: "Ho Ke Qaidna Sham Payi Jandiyaan Lyrics 2017"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ہو کے قیدناں شام پئی جاندیاں"
+alternateTitle: "Ho Ke Qaidna Sham Payi Jandiyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ho ke qaidna Sham payi jandiyaan dhiyaan Najaf de Shah diyaan
+  Kadi sir Ghazi da wekh ke kadi sang Hussain di wekh ke khutbay sunandiyaan
+  Naal Akbar na nahi Ghazi utoon khalqat chokhi
+  Rab jane kinj bazar wich bajiyaan banwaan de nal raiyaan raste banandiyaan
+  Koi salar te koi veer almaan wala
+  Aynj Sham de lashkar samne raiyaan hosle naal bhirawaan de mansab nibhandiyaa
+  Chanwaan ban ke naal raiyaan wasday pathraan andar
+  Shabir de putar nu aasray de ke bazaraan moraan te raiyaan turandiyaan
+  Kaisi manzal ayi okhi Kofay di si paishi
+  Akbar darbar de samne ghar apne piyo da wekh ke athro bahandiyaa
 ---
 
-1
-Ho Ke Qaidna Sham Payi Jandiyaan Write Up
-Ho Ke Qaidna Sham Payi Jandiyaan Dhiyaan Najaf De Shah Diyaan.
-Kadi Sir Ghazi Da Wekh Ke Kadi Sang Hussain Di Wekh Ke Khutbay Sunandiyaan.
-Naal Akbar Na Nahi Ghazi Utoon Khalqat Chokhi.
-Rab Jane Kinj Bazar Wich Bajiyaan Banwaan De Nal Raiyaan Raste Banandiyaan.
-Koi Salar Te Koi Veer Almaan Wala.
-Aynj Sham De Lashkar Samne Raiyaan Hosle Naal Bhirawaan De Mansab Nibhandiyaa.
-Chanwaan Ban Ke Naal Raiyaan Wasday Pathraan Andar.
-Shabir De Putar Nu Aasray De Ke Bazaraan Moraan Te Raiyaan Turandiyaan.
-Kaisi Manzal Ayi Okhi Kofay Di Si Paishi.
-Akbar Darbar De Samne Ghar Apne Piyo Da Wekh Ke Athro Bahandiyaa.
+۱
+ہو کے قیدناں شام پئی جاندیاں دھیاں نجف دے شاہ دیاں
+کدی سر غازی دا ویکھ کے کدی سنگ حسین دی ویکھ کے خطبے سناندیاں
+نال اکبر نہ نہیں غازی اُتّوں خلقت چوکھی
+رب جانے کنج بازار وچ باجیاں بانہواں دے نال رہیاں رستے بناندیاں
+کوئی سالار تے کوئی ویر علماں والا
+اینج شام دے لشکر سامنے رہیاں حوصلے نال بھراواں دے منصب نبھاندیاں
+چھانواں بن کے نال رہیاں وسدے پتھراں اندر
+شبیر دے پتر نوں آسرے دے کے بازاراں موڑاں تے رہیاں تراندیاں
+کیسی منزل آئی اوکھی کوفے دی سی پیشی
+اکبر دربار دے سامنے گھر اپنے پیو دا ویکھ کے اتھرو بہاندیاں

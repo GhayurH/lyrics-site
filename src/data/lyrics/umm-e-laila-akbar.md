@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Mujhko hai ye khabar kya haal hai tera
   Tu laal hai mera
-  Maaṅ huṅ maiṅ tujh se na chhupa
+  Maaṅ huṅ main tujh se na chhupa
   Zakhm apna Akbar
 
   2
-  Girte the baaraha uthte the baaraha
-  Dikhta hi kuch na tha
+  Girte the baarahaa uthte the baarahaa
+  Dikhta hi kuchh na tha
   Sheh ne haathoṅ se der tak
   Ran meiṅ dhunda Akbar
 
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Kya din hai raat kya kya dard kya dawa
-  Kuch der kab raha
+  Kuchh der kab raha
   Yaad Sughra ko reh gaya
   Tera chehra Akbar
 

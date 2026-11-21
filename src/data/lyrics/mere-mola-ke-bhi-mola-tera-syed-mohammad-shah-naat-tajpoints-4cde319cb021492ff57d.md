@@ -1,37 +1,64 @@
 ---
-title: "Mere Mola Ke Bhi Mola Tera Syed Mohammad Shah Naat"
+title: "میرے مولا کے بھی مولا تیرا سید محمد شاہ نعت"
+alternateTitle: "Mere Mola Ke Bhi Mola Tera Syed Mohammad Shah Naat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mere mola ke bhi mola tera Syed Mohammad Shah
+
+  1
+  Mere maula mere maula ke bhi maula tera
+  Lab pe Zahra-o-Ali ke bhi hai kalma tera
+  Jalwa gar dekhi hai tauheed-o-imamat iss par
+  Toor our Arsh se bhi oncha hai shana tera
+  Dono la raib hain yeh bhi hai Ali woh bhi Ali
+  Aik Allah tera aik hai banda tera
+
+  2
+  Dein kabhi ghar-e-Hira se nahi aata bahir
+  Sath deti na agar madar-e-Zahra tera
+  Pusht pe aaye jo Shabeer tu hota hai taveel
+  Kitna Shabeer se manoos hai sajdah tera
+  Palney walay ko rab kehte hain jab ahl-e-lughaat
+  Yaad aata hai mujhe palney wala tera
+
+  3
+  Aik sheeshi mein jahan khak-e-shifa rakhi gayi
+  Sab se pehla tu azakhana hai hujra tera
+  Kis tarha aal ka nabiyon se taqabul ho bhala
+  Yeh tera khon hai our woh hai paseena tera
+  Faisla ashk-e-azza dekh ke hoga Muhsin
+  Kaun hai ghair tera kaun hai apna tera
 ---
 
-Mere Mola Ke Bhi Mola Tera Syed Mohammad Shah.
+میرے مولا کے بھی مولا تیرا سید محمد شاہ
 
-1
-Mere Maula Mere Maula Ke Bhi Maula Tera.
-Lab Pe Zahra-o-Ali Ke Bhi Hai Kalma Tera.
-Jalwa Gar Dekhi Hai Tauheed-o-Imamat Iss Par.
-Toor Our Arsh Se Bhi Oncha Hai Shana Tera.
-Dono La Raib Hain Yeh Bhi Hai Ali Woh Bhi Ali.
-Aik ALLAH Tera Aik Hai Banda Tera.
+۱
+میرے مولا میرے مولا کے بھی مولا تیرا
+لب پہ زہرا و علی کے بھی ہے کلمہ تیرا
+جلوہ گر دیکھی ہے توحید و امامت اس پر
+طور اور عرش سے بھی اونچا ہے شانہ تیرا
+دونوں لا ریب ہیں یہ بھی ہے علی وہ بھی علی
+ایک اللہ تیرا ایک ہے بندہ تیرا
 
-2
-Dein Kabhi Ghar-e-Hira Se Nahi Aata Bahir.
-Sath Deti Na Agar Madar-e-Zahra Tera.
-Pusht Pe Aaye Jo Shabeer Tu Hota Hai Taveel.
-Kitna Shabeer Se Manoos Hai Sajdah Tera.
-Palney Walay Ko Rab Kehte Hain Jab Ahl-e-Lughaat.
-Yaad Aata Hai Mujhe Palney Wala Tera.
+۲
+دین کبھی غارِ حرا سے نہیں آتا باہر
+ساتھ دیتی نہ اگر مادرِ زہرا تیرا
+پشت پہ آئے جو شبیر تو ہوتا ہے طویل
+کتنا شبیر سے مانوس ہے سجدہ تیرا
+پالنے والے کو رب کہتے ہیں جب اہلِ لغات
+یاد آتا ہے مجھے پالنے والا تیرا
 
-3
-Aik Sheeshi Mein Jahan Khak-e-Shifa Rakhi Gayi.
-Sab Se Pehla Tu Azakhana Hai Hujra Tera.
-Kis Tarha Aal Ka Nabiyon Se Taqabul Ho Bhala.
-Yeh Tera Khon Hai Our Woh Hai Paseena Tera.
-Faisla Ashk-e-Azza Dekh Ke Hoga Muhsin.
-Kaun Hai Ghair Tera Kaun Hai Apna Tera.
+۳
+ایک شیشی میں جہاں خاکِ شفا رکھی گئی
+سب سے پہلا تو عزاخانہ ہے حجرہ تیرا
+کس طرح آل کا نبیوں سے تقابل ہو بھلا
+یہ تیرا خوں ہے اور وہ ہے پسینہ تیرا
+فیصلہ اشکِ عزا دیکھ کے ہوگا محسن
+کون ہے غیر تیرا کون ہے اپنا تیرا

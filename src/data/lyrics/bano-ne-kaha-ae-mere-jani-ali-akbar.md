@@ -8,68 +8,43 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Bano ne kaha ay mere jaani ali akbar
-
+romanLyrics: |-
+  Bano ne kaha ae mere jaani, Ali Akbar
 
   1
-
-  Barbaad hui teri jawani ali akbar
-
+  Barbaad hui teri jawaani, Ali Akbar
 
   2
-
-  Kab bano e nashad ko is din ki khabar thi
-
-  Lootegi khaza teri jawani ali akbar
-
+  Kab Bano-e-Naashaad ko is din ki khabar thi
+  Lutegi qaza teri jawaani, Ali Akbar
 
   3
-
-  Pyase hi lade pyase hi dunya se sidhare
-
-  Maa de na saki nazha mein pani ali akbar
-
+  Pyaase hi lare pyaase hi duniya se sidhaare
+  Maaṅ de na saki naza mein paani, Ali Akbar
 
   4
-
-  Marne ke nahi ye to abhi byah ke din thay
-
-  Barchi na abhi thi tumhe khaani ali akbar
-
+  Marne ke nahiṅ ye to abhi byaah ke din the
+  Barchhi na abhi thi tumheṅ khaani, Ali Akbar
 
   5
-
-  Dil khoon hua jaata hai furqat mein tumhari
-
-  Rukti nahi ashkon ki rawani ali akbar
-
+  Dil khun hua jaata hai furqat mein tumhaari
+  Rukti nahiṅ ashkoṅ ki rawaani, Ali Akbar
 
   6
-
-  Tu ahmade mursal ki jawani ka nishan tha
-
-  Aada ne teri khadr na jaani ali akbar
-
+  Tuṅ Ahmad-e-Mursal ki jawaani ka nishaaṅ tha
+  Aadaa ne teri qadr na jaani, Ali Akbar
 
   7
-
-  Jisne tumhe maara wo musalman na hoga
-
-  Thay tum to mohamed ki nishani ali akbar
-
+  Jis ne tumheṅ maara wo musalmaan na hoga
+  The tum to Muhammad ki nishaani, Ali Akbar
 
   8
-
-  Mushkil tha zaeefi mein ye aasan kahan tha
-
-  Bete ki jawan laash uthani ali akbar
-
+  Mushkil tha zaifi mein ye aasaan kahaaṅ tha
+  Bete ki jawaaṅ laash uthaani, Ali Akbar
 
   9
-
-  Ay laal ab aankhon se sujaayi nahi deta
-
-  Aa jao mere yusufe sani ali akbar'
+  Ae laal ab aankhoṅ se sujhaai nahiṅ deta
+  Aa jaao mere Yusuf-e-Saani, Ali Akbar
 ---
 
 بانو نے کہا اے میرے جانی علی اکبرؑ

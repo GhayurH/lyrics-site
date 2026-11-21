@@ -12,24 +12,24 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Bahar aane ko hai yuṅ to jahaṅ maiṅ hai hazar aayi
-  Magar aisi bahare bekhizaaṅ hai pehli bar aayi
+  Bahaar aane ko hai yuṅ to jahaaṅ mein hai hazaar aayi
+  Magar aisi bahaar-e-bekhizaaṅ hai pehli baar aayi
 
   2
-  Bahar aayi Bahar aayi Bahar aayi Bahar aayi
-  Bahar is mah maiṅ Zehra ke ghar hai char bar aayi
+  Bahaar aayi, bahaar aayi, bahaar aayi, bahaar aayi
+  Bahaar is maah mein Zehra ke ghar hai chaar baar aayi
 
   3
-  Muhammad ke gharane maiṅ Muhammad hi Muhammad haiṅ
-  Hai ik surut jo hai surat badal kar baar baar aayi
+  Muhammad ke gharaane mein Muhammad hi Muhammad haiṅ
+  Hai ik surat jo hai surat badal kar baar baar aayi
 
   4
-  Zara unsay ye keh dijie ke rahiye hoshiyar aayi
-  Wo aayi daykhiye sar par wo aayi Zulfiqar aayi
+  Zara un se ye keh dijiye ke rahiye hoshiyaar, aayi
+  Woh aayi, dekhiye sar par, woh aayi Zulfiqaar aayi
 
   5
-  Ali ka naam le kar meinay kholi aankh marqad maiṅ
-  Madad Maula ki meri qabar may qabl az fishar aayi
+  Ali ka naam le kar main ne kholi aankh marqad mein
+  Madad Maula ki meri qabr mein qabl az fishaar aayi
 ---
 
 ۱

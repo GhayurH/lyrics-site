@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab khatema ba qair huwa fauje shah ka
-  Kausar pe kaafila gaya pyasi sipaah ka
-  Ghar luta gaya janabe risalat panaah ka
-  Khaak ur rahi thi haal tha ye bargaah ka
-  Maqtal meiṅ aayi fatema zehra ba-rehna sar
-  Chillayi zere taygh hai baba mera jigar
-  Unis sau hai zakhm tan-e-chak chak par
+  Jab khaatema bakhair hua fauj-e-shah ka
+  Kausar pe qaafila gaya pyaasi sipaah ka
+  Ghar luta gaya janaab-e-risaalat panaah ka
+  Khaak ur rahi thi haal tha ye baargaah ka
+  Maqtal meiṅ aaiṅ Fatema Zehra barahna sar
+  Chillaaiṅ zer-e-taigh hai baba mera jigar
+  Unnis sau haiṅ zakhm tan-e-chaak chaak par
   Zainab nikal Husain tarapta hai khaak par
-  Pahunchi behan jo bhai ke maqtal meiṅ nauhagar
+  Pahunchi behan jo bhaai ke maqtal meiṅ nauha gar
   Dekha sar-e-Husain hai naize ki nok par
-  Sadqe gayi luta gaye ghar waada-gaah meiṅ
-  Jumbish laboṅ ko hai abhi zikre ilaah meiṅ
-  Mera waada huwa pura nana
-  Mai noke sina par hoo
-  Mera waada huwa pura nana
-  Nana dekho nawasa kahaṅ aagaya
-  Maiṅ ne karbobala ko muallah kiya
+  Sadqe gayi luta gaye ghar waada gaah meiṅ
+  Jumbish laboṅ ko hai abhi zikr-e-ilaah meiṅ
+  Mera waada hua pura naana
+  Maiṅ nok-e-sinaaṅ par huṅ
+  Mera waada hua pura naana
+  Naana dekho nawaasa kahaaṅ aa gaya
+  Maiṅ ne Karb o Bala ko mualla kiya
   Khun mera aaj khaak-e-shifa ban gaya
   Maiṅ ne bachpan ka waada wafa kar diya
-  Mera waada huwa pura
-  Mai noke sina par…
-  Mera ghar mere bache meri zindagi
-  Aap ke din pe sab maiṅ ne qurbaṅ ki
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Mera ghar mere bachche meri zindagi
+  Aap ke din pe sab maiṅ ne qurbaaṅ ki
   Mere maathe pe bosa do ab aakhri
-  Bar sare noke naiza sawari chali
-  Mera waada huwa pura
-  Mai noke sina par…
-  Din o quraṅ bache tera kaaba bacha
-  Ta qayamat rahegi azaṅ ki sada
-  Madresa ban gayi aaj se karbala
-  Haye nana magar mera ghar na raha
-  Mera waada huwa pura
-  Mai noke sina par…
-  Chakkiyaṅ pisne wali maa ki qasam
-  Meri aaghosh meiṅ tora akbar ne dam
-  Kaise laashe jawaaṅ laaya suye haram
+  Barsar-e-nok-e-naiza sawaari chali
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Din o Quraaṅ bache tera Kaaba bacha
+  Ta qayaamat rahe gi azaaṅ ki sada
+  Madrasa ban gayi aaj se Karbala
+  Haaye naana magar mera ghar na raha
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Chakkiyaaṅ pisne waali maaṅ ki qasam
+  Meri aaghosh meiṅ tora Akbar ne dam
+  Kaise laash-e-jawaaṅ laaya su-e-haram
   Apne waade pe sehta raha gham pe gham
-  Mera waada huwa pura
-  Mai noke sina par…
-  Kitne laashe uthaye hai ek roz meiṅ
-  Kitne aansu bahaye hai ek roz meiṅ
-  Saikdo tir khaye hai ek roz meiṅ
-  Saare waade nibhaye hai ek roz meiṅ
-  Mera waada huwa pura
-  Mai noke sina par…
-  Bhai bat-tees barsoṅ se jo saath tha
-  Maiṅ ne waada nibhane meiṅ wo kho diya
-  Kha gayi uske shano ko ye alqama
-  Wo gaya aur darde kamar de gaya
-  Mera waada huwa pura
-  Mai noke sina par…
-  Mere nana ye dulha ye kamsin jawaaṅ
-  Aise raunda gaya dasht meiṅ al amaaṅ
-  Apne bete ko pehchan paayi na maa
-  Uski dulhan ne khud tor'di churiyaṅ
-  Mera waada huwa pura
-  Mai noke sina par…
-  Haaṅ wo asghar jo sughra ki thi zindagi
-  Jis ki khaatir wo bemaar bachi meri
-  Chote chote se kurte jo siti rahi
-  Uska khuṅ apne chehre pe malke abhi
-  Mera wada huwa pura
-  Mai noke sina par....
-  Mere nana sakina ka gham dekhiye
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Kitne laashe uthaaye haiṅ ek roz meiṅ
+  Kitne aansu bahaaye haiṅ ek roz meiṅ
+  Sainkaroṅ tir khaaye haiṅ ek roz meiṅ
+  Saare waade nibhaaye haiṅ ek roz meiṅ
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Bhaai battis barsoṅ se jo saath tha
+  Maiṅ ne waada nibhaane meiṅ wo kho diya
+  Kha gayi us ke shaanoṅ ko ye Alqama
+  Wo gaya aur dard-e-kamar de gaya
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Mera naana ye dulha ye kamsin jawaaṅ
+  Aise raunda gaya dasht meiṅ al-amaaṅ
+  Apne bete ko pehchaan paayi na maaṅ
+  Us ki dulhan ne khud tor diṅ churiyaaṅ
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Haaṅ wo Asghar jo Sughra ki thi zindagi
+  Jis ki khaatir wo bimaar bachchi meri
+  Chhote chhote se kurte jo siti rahi
+  Us ka khuṅ apne chehre pe mal ke abhi
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Mere naana Sakina ka gham dekhiye
   Umr itni si itne sitam dekhiye
-  Jalti reti pe uske qadam dekhiye
-  Kitne majbur hai aaj hum dekhiye
-  Mera waada huwa pura
-  Mai noke sina par…
-  Shaam rehaan o sarwar jo dhalne lagi
-  Sar se shabbir ke ye sada aati thi
-  Ae behen ab yahaṅ se qayadat teri
-  Mere waade ki khaatir zururi huwi
-  Mera waada huwa pura
-  Mai noke sina par…
+  Jalti reti pe us ke qadam dekhiye
+  Kitne majbur haiṅ aaj ham dekhiye
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
+  Shaam Rehaan o Sarwar jo dhalne lagi
+  Sar se Shabbir ke ye sada aati thi
+  Ae behan ab yahaaṅ se qayaadat teri
+  Mere waade ki khaatir zaruri hui
+  Mera waada hua pura
+  Maiṅ nok-e-sinaaṅ par ...
 ---
 
 ۱

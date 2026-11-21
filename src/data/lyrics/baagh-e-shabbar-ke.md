@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Tashna lab dulha dulhan aur baraati pyaase
-  Haye kaisa teri shaadi ka hai saamaaṅ Qasim
+  Haye kaisa teri shaadi ka hai samaaṅ Qasim
 
   3
   Ran meiṅ chalti hui wo zulm o sitam ki aandhi
@@ -32,12 +32,12 @@ romanLyrics: |-
   Jaaiye aap ka Allah nigehbaaṅ Qasim
 
   5
-  Dekh kar haal tere jism ki pamaali ka
+  Dekh kar haal tere jism ki paamaali ka
   Chaak karti hai ajal apna garebaan Qasim
 
   6
   Ran meiṅ bikhre hue ye tere badan ke tukre
-  Khun meiṅ tar ye teri zulfeiṅ pareshaan Qasim
+  Khun meiṅ tar ye tere zulfeiṅ pareshaan Qasim
 
   7
   Jama karte haiṅ teri laash ke tukre ran meiṅ
@@ -45,14 +45,14 @@ romanLyrics: |-
 
   8
   Dil pe Kubra ke jo guzri hai Khuda hi jaane
-  Laash jab laaye teri Sarwar-e-Zishaaṅ Qasim
+  Laash jab laaye teri Sarwar o Zishaaṅ Qasim
 
   9
   Ran ki khaamosh fazaaiṅ hai tera laasha hai
   Bain Kubra ke hai aur Shaam ka zindaaṅ Qasim
 
   10
-  Nauhakhwaaṅ bazm-e-aza meiṅ haiṅ Viqar-e-Ghamgiṅ
+  Nauhakhwaaṅ bazm-e-aza meiṅ haiṅ Viqar Ghamgiṅ
   Hai tasavvur meiṅ magar Shaam ka zindaaṅ Qasim
 ---
 باغِ شبر کے مہکتے ہوئے ارماں قاسم

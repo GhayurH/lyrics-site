@@ -10,46 +10,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Husain ibne ali ka kalma
+  Husain ibne Ali ka kalma
 
   1
-  Parha diya tu ne la ilaah ko
-  Kata ke shaane alam utha kar
-  Basa diya tu ne la ilaah ko
-  Banayi zinat jo nauhakhwan ki
+  Parh diya tu ne laa ilaah ko
+  Kataa ke shaan-e-alam uthaa kar
+  Basaa diya tu ne laa ilaah ko
+  Banaayi zinat jo nauha khwaani ki
   Zamir gundha jo matami ka
-  Nabi mila ke ali mila ke
-  Mila diya tu ne la ilaah ko
+  Nabi milaa ke Ali milaa ke
+  Milaa diya tu ne laa ilaah ko
 
   2
   Labalab apne lahu se bhar ke
   Ye tishnagi se kashid kar ke
-  Yehi ke abid baqa ka saaghar
-  Pila diya tu ne la ilaah ko
+  Yehi ke Aabid baqa ka saagar
+  Pilaa diya tu ne laa ilaah ko
 
   3
-  Diye hai baazu de di hai saanseiṅ
-  Diya hai chehra de di hai aankheiṅ
-  Khuda ye hoi ye jaa ke puche
-  Ke kya diya tu ne la ilaah ko
+  Diye hai baazu de di hai saanseṅ
+  Diya hai chehra de di hai aankheṅ
+  Khuda ye hui ye jaa ke puchhe
+  Ke kya diya tu ne laa ilaah ko
 
   4
-  Subhana rabb e azim hai tu
-  Hai rabb e aala karim hai tu
-  Nashayb e maqtal se taa ba sidra
-  Saja diya tu ne la ilaah ko
+  Subhaana rabb-e-azim hai tu
+  Hai rabb-e-aalaa karim hai tu
+  Nashib-e-maqtal se taa baa Sadra
+  Sajaa diya tu ne laa ilaah ko
 
   5
   Hai sar ka nauha malak ka nauha
   Zamiṅ ka nauha falak ka nauha
-  Har ek zamane meiṅ khud ujal ke
-  Basa diya tu ne la ilaah ko
+  Har ek zamaane meiṅ khud ajal ke
+  Basaa diya tu ne laa ilaah ko
 
   6
   Khuda ki tasbih bhi yehi hai
-  Naved ka bhi yehi hai sajda
-  Lahu ka apne libaas e dillat
-  Pinha diya tu ne la ilaah ko
+  Naved ka bhi yehi hai sajda-e
+  Lahu ka apne libaas-e-dillat
+  Pinhaa diya tu ne laa ilaah ko
 ---
 
 حسین ابنِ علی کا کلمہ

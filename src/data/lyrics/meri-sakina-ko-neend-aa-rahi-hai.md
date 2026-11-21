@@ -9,101 +9,55 @@ poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Bano Yeh Abid Ko Batla Rahi Hai,
-
-  Meri Sakina Ko Neend Aa Rahi Hai
-
+romanLyrics: |-
+  Bano yeh Abid ko batla rahi hai
+  Meri Sakina ko nind aa rahi hai
+  Keh do hawaoṅ se aahista aaeṅ
+  Keh do parindoṅ se ghul na machaaeṅ
+  Keh do andheroṅ se wapas na jaaeṅ
+  Jaagi hui chain kuchh pa rahi hai
 
   1
-
-  Kehdo Hawaon Say Aahista Aayain,
-
-  Kehdo Parindon Say Ghul Na Machayain,
-
-  Kehdo Andheron Say Wapas Na Jayain
-
-  Jaagi Huwi Chain Kuch Pah Rahi Hai.
-
-  Meri Sakina Ko Neend Aarahi Hai.
-
+  Shayad rasan ki aziyat hui kam
+  Madham karo Bibiyo shor-e-matam
+  Sajjad zanjir boleṅ na is dam
+  Shayad ghamoṅ ki ghari ja rahi hai
 
   2
-
-  Shayad Rasan Ki Aziyat Huwi Kam,
-
-  Madham Karo Bibiyon Shoor-e-matam,
-
-  Sajjad Zanjeer Bolay Na Is Dum
-
-  Shayad Ghaamo Ki Ghaari Jaa Rahi Hai,
-
-  Meri Sakina Ko Neend Aarahi Ha.
-
+  Zindaan ka dar zor se ab na kholo
+  Ae pehra daaro ab aahista bolo
+  Tum bhi to jaage ho kuchh der so lo
+  Baba ki khushbu ise aa rahi hai
 
   3
-
-  Yeh Sham-e-Ghariban Ki Jaagi Howi Hai,
-
-  Tamachon Kay Daar Say Nayhi Sou Saki Hai,
-
-  Zara Phir Galay Say Rasan Jo Khuli Hai
-
-  Sukoon Say Jo Aab Sans Lay Pa Rahi Hai.
-
+  Ke ab dharkan-e-dil bhi is pe giraaṅ hai
+  Na bhai hai nazdik na is ke maaṅ hai
+  Kaanoṅ se khun go ke ab bhi rawaaṅ hai
+  Magar aaṅkh bojhal yeh samjha rahi hai
 
   4
-
-  Main Khush Hon Kay Soyegi Meri Dulari,
-
-  Main Qurban Is Kay Main Ab Is Kay Wari,
-
-  Bohat Seh Chuki Dukh Yeh Ghazi Ki Pyari
-
-  Magar Nabz Kuch Aur Batla Rahi Hai,
-
+  Yeh Shaam-e-Gharibaaṅ ki jaagi hui hai
+  Tamachoṅ ke dar se nahiṅ so saki hai
+  Zara ab gale se rasan jo khuli hai
+  Sukuṅ se jo ab saaṅs le pa rahi hai
 
   5
-
-  Magar Yeh Howa Kya Kay Zindan Roya,
-
-  Badan Rooh Kay Sath Bachi Ka Soya,
-
-  Na Jaagi Woh Abid Nay Shana Hilaaya
-
-  Aur Ab Maa Aaj Kehte Bhi Sharma Rahi Hai,
-
+  Main khush huṅ ke soegi meri dulaari
+  Main qurbaan is ke main ab is ke waari
+  Bohat seh chuki dukh yeh Ghazi ki pyaari
+  Magar nabz kuchh aur batla rahi hai
 
   6
-
-  Kahan Tak Likhonga Main « Rehan » Noha,
-
-  Kabhi Shaam Jaaon To Dekhon Woh Roza,
-
-  Jahan Qaidi Bachi Ka Marqad Hai Tanha
-
-  Jahan Maa Abhi Bhi Kahe Jaarahi Hai,
-
+  Magar yeh hua kya ke zindaan roya
+  Badan ruh ke saath bachi ka soya
+  Na jaagi woh Abid ne shaana hilaaya
+  Aur ab maaṅ yeh kehte bhi sharma rahi hai
 
   7
-
-  Ké Ab Dhadkanein Jib Phir Is Pe Gira Hai
-
-  Na Bhaayi Hai Nazdik Na Is Ke Maa Hai
-
-  Kanon Se Khoon Go Ke Ab Bhi Ravan Hai
-
-  Magar Ankh Bojal Yeh Samja Rahi Hai
-
-
-  8
-
-  Zinda Ka Dar Zor Se Ab Na Kholo
-
-  Ay Pehre Daaro Ab Ahista Bolo
-
-  Tum Bhi To Jage Ho Kuch Der Solo
-
-  Baba Ki Khushbu Ise Aa Rahi Hai'
+  Kahaaṅ tak likhuṅ ga main Rehan noha
+  Kabhi Shaam jaauṅ to dekhuṅ woh roza
+  Jahaaṅ qaidi bachi ka marqad hai tanha
+  Jahaaṅ maaṅ abhi bhi kahe ja rahi hai
 ---
 
 بانو یہ عابد کو بتلا رہی ہے

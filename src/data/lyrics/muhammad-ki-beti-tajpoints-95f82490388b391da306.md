@@ -1,35 +1,59 @@
 ---
-title: "Muhammad Ki Beti"
+title: "محمد کی بیٹی"
+alternateTitle: "Muhammad Ki Beti"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Muhammad ki beti ka darwaza logo jalaya gaya hai qayamat hoi hai
+  Ghazab oss pe Zahra keh upar wohi dar giraya gaya hai qayamat hoi hai
+  Payamber ne nazoon se jis ko hai pala jo hai Panjtan ka falak pe hawala
+  Ossi Fatima ke rukh-e-pak par hath uthaya gaya hai qayamat hoi hai
+
+  2
+  Woh jis ne hai bhokon ko khana khilaya magar peeas kar chaki bachoon ko pala
+  Kyun bag-e-Fidak aisi behar-e-sakha ka bhi khaya gaya hai qayamat hoi hai
+  They tazeem mein jis ki uthtey payamber khari ho gi kaisay woh majmay ke andar
+  Keh darbar mein aaj bint-e-nabi ko bulaya gaya hai qayamat hoi hai
+
+  3
+  Zahra ke aagay jasarat na kartay na detey woh haq par haqarat na kartay
+  Jo tehreer Sarwar ko kar kar ke tukray uraya gaya hai qayamat hoi hai
+  Taraptay hain masjid ke dewar our dar dikhaya hai ummat ne kaisa yeh manzar
+  Ali ke galay mein rasan bandh kar ghar se laya gaya hai qayamat hoi hai
+
+  4
+  Koi naiza bardar aaye na lillah Madine mein Karb-o-Bala ka hai khatrah
+  Keh Mohsin ko Asghar ki tarha se ghar mein chupaya gaya hai qayamat hoi hai
+  Hasan our Hashim nahi sar pe chadar keh reh jaye gi rooh-e-Zahra tarap kar
+  Sharabi ka darbar Kulsoom-o-Zainab ko laya gaya hai qayamat hoi hai
 ---
 
-1
-Muhammad Ki Beti Ka Darwaza Logo Jalaya Gaya Hai Qayamat Hoi Hai.
-Ghazab Oss Pe Zahra Keh Upar Wohi Dar Giraya Gaya Hai Qayamat Hoi Hai.
-Payamber Ne Nazoon Se Jis Ko Hai Pala Jo Hai Panjtan Ka Falak Pe Hawala.
-Ossi Fatima Ke Rukh-e-Pak Par Hath Uthaya Gaya Hai Qayamat Hoi Hai.
+۱
+محمد کی بیٹی کا دروازہ لوگو جلایا گیا ہے قیامت ہوئی ہے
+غضب اُس پہ زہرا کے اوپر وہی در گرایا گیا ہے قیامت ہوئی ہے
+پیامبر نے نازوں سے جس کو ہے پالا جو ہے پنجتن کا فلک پہ حوالہ
+اُسی فاطمہ کے رخِ پاک پر ہاتھ اٹھایا گیا ہے قیامت ہوئی ہے
 
-2
-Woh Jis Ne Hai Bhokon Ko Khana Khilaya Magar Peeas Kar Chaki Bachoon Ko Pala.
-Kyun Bag-e-Fidak Aisi Behar-e-Sakha Ka Bhi Khaya Gaya Hai Qayamat Hoi Hai.
-They Tazeem Mein Jis Ki Uthtey Payamber Khari Ho Gi Kaisay Woh Majmay Ke Andar.
-Keh Darbar Mein Aaj Bint-e-Nabi Ko Bulaya Gaya Hai Qayamat Hoi Hai.
+۲
+وہ جس نے ہے بھوکوں کو کھانا کھلایا مگر پیس کر چکی بچوں کو پالا
+کیوں باغِ فدک ایسی بحرِ سخا کا بھی کھایا گیا ہے قیامت ہوئی ہے
+تھے تعظیم میں جس کی اٹھتے پیامبر کھڑی ہو گی کیسے وہ مجمعے کے اندر
+کہ دربار میں آج بنتِ نبی کو بلایا گیا ہے قیامت ہوئی ہے
 
-3
-Zahra Ke Aagay Jasarat Na Kartay Na Detey Woh Haq Par Haqarat Na Kartay.
-Jo Tehreer Sarwar Ko Kar Kar Ke Tukray Uraya Gaya Hai Qayamat Hoi Hai.
-Taraptay Hain Masjid Ke Dewar Our Dar Dikhaya Hai Ummat Ne Kaisa Yeh Manzar.
-Ali Ke Galay Mein Rasan Bandh Kar Ghar Se Laya Gaya Hai Qayamat Hoi Hai.
+۳
+زہرا کے آگے جسارت نہ کرتے نہ دیتے وہ حق پر حقارت نہ کرتے
+جو تحریرِ سرور کو کر کر کے ٹکڑے اڑایا گیا ہے قیامت ہوئی ہے
+تڑپتے ہیں مسجد کے دیوار اور در دکھایا ہے امت نے کیسا یہ منظر
+علی کے گلے میں رسن باندھ کر گھر سے لایا گیا ہے قیامت ہوئی ہے
 
-4
-Koi Naiza Bardar Aaye Na Lillah Madine Mein Karb-o-Bala Ka Hai Khatrah.
-Keh Mohsin Ko Asghar Ki Tarha Se Ghar Mein Chupaya Gaya Hai Qayamat Hoi Hai.
- Hasan Our Hashim Nahi Sar Pe Chadar Keh Reh Jaye Gi Rooh-e-Zahra Tarap Kar.
-Sharabi Ka Darbar Kulsoom-o-Zainab Ko Laya Gaya Hai Qayamat Hoi Hai.
+۴
+کوئی نیزہ بردار آئے نہ للہ مدینے میں کرب و بلا کا ہے خطرہ
+کہ محسن کو اصغر کی طرح سے گھر میں چھپایا گیا ہے قیامت ہوئی ہے
+حسن اور ہاشم نہیں سر پہ چادر کہ رہ جائے گی روحِ زہرا تڑپ کر
+شرابی کا دربار کلثوم و زینب کو لایا گیا ہے قیامت ہوئی ہے

@@ -18,32 +18,32 @@ romanLyrics: |-
 
   1
   Hum dua-e-Faatima ka hai samar
-  Aur aadaab-e-aza se baa khabar
+  Aur aadaab-e-azaa se baakhabar
   Jaante haiṅ hum ko sab jinn o bashar
   Hai hamaari sarparast bint-e-Ali
 
   2
   Saamne jis ke kata bhaai ka sar
-  Zibh pyaase ho gaye nur-e-nazar
+  Zabh pyaase ho gaye nur-e-nazar
   Aur luta jangal meiṅ jis ka ghar
   Bhaai ke laash pe jo ro na saki
 
   3
   Hum se puchho lazzat-e-saum o salaat
   Hum se puchho qadr-e-khums o zakaat
-  Hum se puchho Kiuṅ ruka hukm-e-jihaad
-  Hum tawalla aur tabarra ke dhani
+  Hum se puchho kiuṅ ruka hukm-e-jihaad
+  Hum tawallaa aur tabarraa ke dhani
 
   4
   Ye hamaari qadr ye zeb o zain
   Ashk hamaari marham-e-zakhm-e-Husain
-  Ye aza Faatima ke dil ka chain
+  Ye azaa Faatima ke dil ka chain
   Hum se raazi hai Khuda us ka Nabi
 
   5
-  Haasil-e-khilqat hamaara hai aza
-  Ye buka ye wa Husaina ki sada
-  Hai hamaari ruh ki girya ghiza
+  Haasil-e-khilqat hamaara hai azaa
+  Ye bukaa ye waa Husainaa ki sadaa
+  Hai hamaari ruh ki girya ghizaa
   Khuṅ bhara to jism hote hai qawi
 
   6
@@ -55,11 +55,11 @@ romanLyrics: |-
   7
   Hai diloṅ meiṅ hamaare Karbobala
   Hum na is se aur na ye hum se juda
-  Kaise hal min ki bhala bhule sada
-  Guṅjti hai al atash har ghari
+  Kaise hal min ki bhala bhule sadaa
+  Gunjti hai al-atash har ghari
 
   8
-  Hai mehekte sinoṅ pe zakhmoṅ ke baagh
+  Hai mahakte sinoṅ pe zakhmoṅ ke baagh
   Aur dil meiṅ gham ke jalte haiṅ charaagh
   Hum hai wo jin ko nahiṅ gham se firaaq
   Bas Fahim haaṅ yehi hai bandagi

@@ -20,12 +20,12 @@ romanLyrics: |-
   1
   Dekho to aaj arsh-e-mualla udaas hai
   Kaaba khaamosh hai to Madina udaas hai
-  Sakte meiṅ hai namaaz musalla udaas hai
+  Sakte mein hai namaaz musalla udaas hai
   Hai zalzala zamin ko larzaaṅ hai aasmaaṅ
 
   2
-  Ab apne waaste hai har ek gham har ek sitam
-  Maiṅ jaanti huṅ ranj o alam meiṅ har ek qadam
+  Ab apne waaste hai har ek gham har ik sitam
+  Main jaanti huṅ ranj o alam mein har ek qadam
   Puri tarah se ho gaye ab to yatim hum
   Naana hai ab na baap ka saaya hai aur na maaṅ
 
@@ -42,15 +42,15 @@ romanLyrics: |-
   Har ek qadam pe ab tujhe dena hai imtihaaṅ
 
   5
-  Barbaad hoga zulm ki aandhi meiṅ ye chaman
+  Barbaad ho ga zulm ki aandhi mein chaman
   Zahr-e-dagha se qatl kiya jaaye ga Hasan
   Ghoroṅ se tukre hoye ga Shabbir ka badan
-  Beti bandhe gi baazuoṅ meiṅ tere rismaaṅ
+  Beti bandhe gi baazuoṅ mein tere rismaaṅ
 
   6
   Pito saroṅ ko dostoṅ jab tak hayaat hai
-  Ahsaṅ lahu meiṅ dubi hui kaainaat hai
-  Mushkil kusha ke ghar meiṅ qayaamat ki raat hai
+  Ahsaaṅ lahu mein dubi hui kaainaat hai
+  Mushkil kusha ke ghar mein qayaamat ki raat hai
   Zainab Hasan Husain se karti rahi fughaaṅ
 ---
 

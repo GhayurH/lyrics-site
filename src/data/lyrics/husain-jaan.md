@@ -23,46 +23,46 @@ romanLyrics: |-
   Pyaasa hai Husain
 
   1
-  Haae aawaaz ye aati hai sar-e-Karbobala
+  Haaye aawaaz ye aati hai sar-e-Karb o Bala
   Jaise karti ho koi maaṅ koi beti girya
-  Jis tarah koi behan roe kahe waawaila
+  Jis tarah koi behan roye kahe waawaila
   Ya Nabi qatl hua aap ka pyaara beta
-  Haae Husain jaan
+  Haaye Husain jaan
 
   2
   Aai aawaaz-e-Nabi ye dusra maqtal meiṅ
   Mere bachche tujhe aai hai qaza jangal meiṅ
   Ae mere nur-e-nazar
-  Kushta-e-tegh-e-jafa haae Husain
+  Kushta-e-tegh-e-jafa haaye Husain
 
   3
   Haath pehlu pe rakhe deti thi Zahra ye sada
   Chakkiyaaṅ pis ke is maaṅ ne tujhe paala tha
   Meri godi meiṅ hua
-  Sar tera tan se juda haae Husain
+  Sar tera tan se juda haaye Husain
 
   4
   Waqt-e-aakhir bhi tha Zainab ke laboṅ par ye sukhan
-  Haae bhaai tujhe ji bhar ke nahiṅ roi behan
-  Tishnagi baaqi rahi aa gai mujh ko qaza haae Husain
+  Haaye bhaai tujhe ji bhar ke nahiṅ royi behan
+  Tishnagi baaqi rahi aa gayi mujh ko qaza haaye Husain
 
   5
   Mere baaba ki khata kya thi bata ae zaalim
   Koi chaadar tan-e-besar pe urha de zaalim
-  Soegi beti kahaaṅ
-  Thi Sakina ki sada haae Husain
+  Soye gi beti kahaaṅ
+  Thi Sakina ki sada haaye Husain
 
   6
   Ek nanhi si lahad jo hai sar-e-dasht-e-bala
   Us meiṅ jo sota hai us bachche ka zakhmi hai gala
   Apne baaba ke liye
-  Ruh-e-Asghar ne kaha haae Husain
+  Ruh-e-Asghar ne kaha haaye Husain
 
   7
   Ishq-e-gham kehte hai is baat meiṅ sachchaai hai
   Baat Rehaan jo Darvesh ne samjhaai hai
   Dil bhi kehta hai mera
-  Ye hai tasbih-e-Khuda haae Husain
+  Ye hai tasbih-e-Khuda haaye Husain
 ---
 اے کربلا خیال رکھیو
 تیری آغوش میں سوتا ہے حسین

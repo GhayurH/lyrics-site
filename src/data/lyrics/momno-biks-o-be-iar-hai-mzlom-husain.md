@@ -7,6 +7,56 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Momino bekas o be yaar hai mazlum Husain
+  Sakht aafat mein giraftaar hai mazlum Husain
+  Dil shikasta jigar afgaar hai mazlum Husain
+  Kya saraasima o laachaar hai mazlum Husain
+
+  2
+  Tir kaari haiṅ lage zakhmoṅ pe shamshiroṅ ke
+  Nezoṅ ke zakhm mein paiwast haiṅ phal tiroṅ ke
+
+  3
+  Kya rahimi hai ke ghussa nahiṅ aata hai zara
+  Kya karimi hai ke sar karte haiṅ ummat par fida
+  Kya tahammul hai ke har gaam pe hai shukr-e-Khuda
+  Kya shujaat hai ke laakhoṅ mein khare haiṅ tanha
+
+  4
+  Tir bhi neze bhi sine pe liye jaate haiṅ
+  Par dua naana ki ummat ko diye jaate haiṅ
+
+  5
+  Yuṅ to yaaṅ ek se ik zulm hua shah pe siwa
+  Tin sadmoṅ mein magar zabt ka yaara na raha
+  Ik jawaaṅ is ka bhatija tha Hasan ka beta
+  Shab ko woh dulha bana subh shahidoṅ mein mila
+
+  6
+  Us ke marne ki khabar bewaoṅ ne jab paai thi
+  Maaṅ dulhan ko liye sar nange nikal aai thi
+
+  7
+  Dusra gham hai ye ik bhaai tha is ka Safdar
+  Jab se woh mar gaya sidhi nahiṅ hoti hai kamar
+  Ab bhi rota hai use haae baraadar keh kar
+  Be kafan laash to us ki hai pari dariya par
+
+  8
+  Abhi woh laash jab dard se tharraai thi
+  Bachchi ik haae chacha keh ke jo chillaai thi
+
+  9
+  Tisra haadisa main kya kahuṅ phatta hai jigar
+  Is ka ik beta tha athaarah baras ka Akbar
+  Barchhiyoṅ se abhi maara gaya woh rashk-e-qamar
+  Haif hai dafn hui raat ko jis ki maadar
+
+  10
+  Gham-e-Akbar mein use kya kahuṅ kiunkar dekha
+  Chashm-e-aflaak ne Zainab ko khule sar dekha
 ---
 
 ۱

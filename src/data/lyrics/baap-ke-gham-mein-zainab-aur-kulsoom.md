@@ -8,50 +8,32 @@ poet: "Anees Pehersari"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Baap ke gham may kehti hai rokar
-
-  Zainab aur kulsoom
-
+romanLyrics: |-
+  Baap ke gham mein kehti haiṅ ro kar
+  Zainab aur Kulsum
 
   1
-
-  Sunke nidae ghaibi hain muztar zainab aur kulsoom
-
+  Sun ke nida-e-ghaibi haiṅ muztar Zainab aur Kulsum
 
   2
-
-  Ghar may khuda ke sajda e haq may
-
-  Zarb laeen ne kaari lagaai
-
-  Paa ke khabar na roye kyon kar
-
+  Ghar mein Khuda ke sajda-e-haq mein
+  Zarb la'in ne kaari lagaai
+  Paa ke khabar na roye kiun kar
 
   3
-
-  Aayi sehar unees ki kaisi
-
-  Jisne qayamat ham par dhaayi
-
-  Naala kuna hai kehke ye dukhtar
-
+  Aayi sehar unnis ki kaisi
+  Jis ne qayaamat ham par dhaayi
+  Naala kunaaṅ hai keh ke ye dukhtar
 
   4
-
-  Dekh hamare zakhm e sar ko
-
-  Dekh ke apni jaan khoti ho
-
-  Dekhogi kaise zakhm e biradar
-
+  Dekh hamaare zakhm-e-sar ko
+  Dekh ke apni jaaṅ khoti ho
+  Dekhogi kaise zakhm-e-biraadar
 
   5
-
-  Karbobala may ro na sakogi
-
-  Bole ali khud ashq baha kar
-
-  Karlo buka ab tum jee bhar kar'
+  Karb o Bala mein ro na sakogi
+  Bole Ali khud ashk baha kar
+  Kar lo buka ab tum ji bhar kar
 ---
 
 باپ کے غم میں کہتی ہیں رو کر

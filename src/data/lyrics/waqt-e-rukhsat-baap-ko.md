@@ -16,54 +16,54 @@ romanLyrics: |-
   Karbala ab imtehaan-e-sabr-e-Sarwar dekhna
 
   1
-  Dur tak jaate hue dekha kiye kaise Husain
-  Thokareiṅ khaa khaa ke khud sambhla kiye kaise Husain
-  Ae Ali Akbar zara pichhe palat kar dekhna
+  Dur tak jaate hue, dekha kiye kaise Husain
+  Thokareṅ khaa khaa ke khud, sambhla kiye kaise Husain
+  Ae Ali Akbar zara, pichhe palat kar dekhna
 
   2
-  Maaṅ ke armaanoṅ ki chaadar ka amaama sar pe hai
-  Faatima Sughra ki aankhoṅ ka ujaala sar pe hai
-  Bigre ga ik pal meiṅ kitnoṅ ka muqaddar dekhna
+  Maaṅ ke armaanoṅ ki chaadar, ka amaama sar pe hai
+  Faatima Sughra ki aankhoṅ, ka ujaala sar pe hai
+  Bigre ga ik pal meiṅ kitnoṅ, ka muqaddar dekhna
 
   3
-  Dosh par bikhri hui zulfeiṅ uraati thi hawa
-  Bikhri zulfoṅ se nikharti jaa rahi thi Karbala
-  Maut ki jurat nahiṅ thi aankh bhar kar dekhna
+  Dosh par bikhri hui, zulfeṅ uraati thi hawa
+  Bikhri zulfoṅ se nikharti, jaa rahi thi Karbala
+  Maut ki jurat nahiṅ thi, aankh bhar kar dekhna
 
   4
-  Uth raha hai gir raha hai ik parda baar baar
-  Umm-e-Laila ka yeh khaima hai mere Parwardigaar
-  Laash jab aayi to mar jaaye gi maadar dekhna
+  Uth raha hai gir raha hai, ik parda baar baar
+  Umm-e-Laila ka yeh khaima, hai mere Parwardigaar
+  Laash jab aayi to mar, jaaye gi maadar dekhna
 
   5
-  Haaye maqtal ghutniyoṅ ke bal chala hai ik pidar
-  Kehta hai aawaaz de mujh ko mere nur-e-nazar
-  Kho gayi binaayi meri mere dilbar dekhna
+  Haaye maqtal ghutniyoṅ ke, bal chala hai ik pidar
+  Kehta hai aawaaz de, mujh ko mere nur-e-nazar
+  Kho gayi binaayi meri, mere dilbar dekhna
 
   6
-  Ae Husain ibn-e-Ali jaao na Akbar ke qarib
-  Zulm aisa ho gaya hai taab laa sakte nahiṅ
-  Kya gawaara hai sinaaṅ sine ke andar dekhna
+  Ae Husain ibn-e-Ali, jaao na Akbar ke qarib
+  Zulm aisa ho gaya hai, taab laa sakte nahiṅ
+  Kya gawaara hai sinaaṅ, sine ke andar dekhna
 
   7
-  Imtehaaṅ hai burhe kaandhoṅ ka jawaaṅ bete ki laash
-  Khun meiṅ dubi kis tarah dekhe gi maaṅ bete ki laash
-  Is jagah aulaad waalo khud ko rakh kar dekhna
+  Imtehaaṅ hai burhe kaandhoṅ, ka jawaaṅ bete ki laash
+  Khun meiṅ dubi kis tarah, dekhe gi maaṅ bete ki laash
+  Is jagah aulaad waalo, khud ko rakh kar dekhna
 
   8
-  Marte dam Akbar ko dar hai maaṅ na aa jaaye kahiṅ
-  Beh raha hai khun mere sine se rangiṅ hai zamiṅ
-  Keh do ammaaṅ se mujhe yuṅ na tarap kar dekhna
+  Marte dam Akbar ko dar hai, maaṅ na aa jaaye kahiṅ
+  Beh raha hai khun mere, sine se rangiṅ hai zamiṅ
+  Keh do ammaaṅ se mujhe, yuṅ na tarap kar dekhna
 
   9
-  Baaba meri maaṅ mere gham ko utha sakti nahiṅ
-  Nind aisi aa rahi hai maaṅ jagaa sakti nahiṅ
-  Zakhm mera maaṅ ki nazroṅ se bachaa kar dekhna
+  Baaba meri maaṅ mere, gham ko utha sakti nahiṅ
+  Nind aisi aa rahi hai, maaṅ jagaa sakti nahiṅ
+  Zakhm mera maaṅ ki nazroṅ, se bachaa kar dekhna
 
   10
-  Khun hota hai jigar Rehaan o Sarwar us ghari
+  Khun hota hai jigar, Rehaan o Sarwar us ghari
   Sochte haiṅ Hazrat-e-Shabbir ki jab bekasi
-  Baap ka ruk ruk ke aur bete ka mur kar dekhna
+  Baap ka ruk ruk ke aur, bete ka mur kar dekhna
 ---
 وقتِ رخصت باپ کو بیٹے کا مڑ کر دیکھنا
 کربلا اب امتحانِ صبرِ سرور دیکھنا

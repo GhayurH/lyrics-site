@@ -1,44 +1,78 @@
 ---
 title: "مومنو فاطمہؑ کا ماتم ہے"
+alternateTitle: "Momino Faatemaa Ka Maatam Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Momino Faatemaa ka maatam hai
+  Dukhtare Mustafaa ka maatam hai
+  Baade Ehmad jis-e sataaya gayaa
+  Aaj uss be-nawaa ka maatam hai
+
+  2
+  Murtazaa ne kiya chaak girebaan
+  Zawja-e baa-wafaa ka maatam hai
+
+  3
+  Khak sar par ud-haate hai Hasnain
+  Maadar-e ghamzadaa ka maatam hai
+
+  4
+  Ghar men roti hai Zainab-o-Kulsum
+  Khuld men Sayyadaa ka maatam hai
+
+  5
+  Khub jisko rulaayaa ummatne
+  Uss asire-e balaa ka maatam hai
+
+  6
+  Jiske khaadim the aasmaan waale
+  Uss kaniz-e Khudaa ka maatam hai
+
+  7
+  Maryam aur Haajraa hai nawhaa kuna
+  Aaj Khairunnisaa ka maatam hai
+
+  8
+  Uff na ki go ke pasliyaan tuti
+  Ruh-e sabro razaa ka maatam hai
 ---
 
-1
-MOMINO FAATEMAA KA MAATAM HAI
-DUKHTARE MUSTAFAA KA MAATAM HAI
-BAADE EHMAD JIS-E SATAAYA GAYAA
-AAJ USS BE-NAWAA KA MAATAM HAI
+۱
+مومنو فاطمہ کا ماتم ہے
+دخترِ مصطفیٰ کا ماتم ہے
+بعدِ احمد جسے ستایا گیا
+آج اس بے نوا کا ماتم ہے
 
-2
-MURTAZAA NE KIYA CHAAK GIREBAAN
-ZAWJA-E BAA-WAFAA KA MAATAM HAI
+۲
+مرتضیٰ نے کیا چاک گریباں
+زوجۂ باوفا کا ماتم ہے
 
-3
-KHAK SAR PAR UD-HAATE HAI HASNAIN
-MAADAR-E GHAMZADAA KA MAATAM HAI
+۳
+خاک سر پر اڑاتے ہے حسنین
+مادرِ غم زدہ کا ماتم ہے
 
-4
-GHAR MEN ROTI HAI ZAINAB-O-KULSUM
-KHULD MEN SAYYADAA KA MAATAM HAI
+۴
+گھر میں روتی ہے زینب و کلثوم
+خلد میں سیدہ کا ماتم ہے
 
-5
-KHUB JISKO RULAAYAA UMMATNE
-USS ASIRE-E BALAA KA MAATAM HAI
+۵
+خوب جس کو رلایا امت نے
+اس اسیرِ بلا کا ماتم ہے
 
-6
-JISKE KHAADIM THE AASMAAN WAALE
-USS KANIZ-E KHUDAA KA MAATAM HAI
+۶
+جس کے خادم تھے آسماں والے
+اس کنیزِ خدا کا ماتم ہے
 
-7
-MARYAM AUR HAAJRAA HAI NAWHAA KUNA
-AAJ KHAIRUNNISAA KA MAATAM HAI
+۷
+مریم اور ہاجرہ ہے نوحہ کناں
+آج خیر النسا کا ماتم ہے
 
-8
-UFF NA KI GO KE PASLIYAAN TUTI
-RUH-E SABRO RAZAA KA MAATAM HAI
+۸
+اف نہ کی گو کہ پسلیاں ٹوٹی
+روحِ صبر و رضا کا ماتم ہے

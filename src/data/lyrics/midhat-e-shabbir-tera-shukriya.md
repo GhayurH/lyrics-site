@@ -33,15 +33,15 @@ romanLyrics: |-
   Zainab-e-Dilgir tera shukriya
 
   6
-  Aaj bhi Kaabe se aati hai sada
+  Aaj bhi Kaabe se aati hai sadaa
   Sajda-e-Shabbir tera shukriya
 
   7
   Rizq milta hai hameiṅ tere tufail
-  Dast-e-Khaibar Gir tera shukriya
+  Dast-e-Khaibar gir tera shukriya
 
   8
-  Ban gaya turbat meiṅ maahaul-e-Kisa
+  Ban gaya turbat meiṅ maahaul-e-Kisaa
   Maadar-e-Shabbir tera shukriya
 
   9

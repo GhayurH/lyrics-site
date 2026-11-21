@@ -33,7 +33,7 @@ romanLyrics: |-
   Saf azaadaar ki is bazm meiṅ qiyaam kar lo
   Jo taalluq hai nabi zaadoṅ se mohkam kar lo
   Gham-e-Shabbir ko har haal meiṅ mahram kar lo
-  Ya Husain ibn-e-Ali ibn-e-Ali kehte raho
+  Ya Husain ibn-e-Ali kehte raho
   Ashk ban ban ke sar-e-Karb o Bala behte raho
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
   Ali Akbar ka ubalta hua sina dekho
   Kitna majbur hai saqqa-e-Sakina dekho
   Bhaai ne paai shahaadat raha tanha bhaai
-  Pyaas Ae Husain Ali Asghar ki na bujhne paai
+  Pyaas ae Husain Ali Asghar ki na bujhne paai
 
   5
   Majlis-e-Shaam-e-Gharibaaṅ hui barpa logoṅ
@@ -56,7 +56,7 @@ romanLyrics: |-
   Kahiṅ Yaasin kahiṅ Taaha ki tajalli un meiṅ
   Kahiṅ Rahmaan o Muzzammil ki tashaffi un meiṅ
   Kahiṅ Kausar kahiṅ Isra ki taalli un meiṅ
-  Kahiṅ Tathir ki purnur tasalli un meiṅ
+  Kahiṅ Tathir ki pur nur tasalli un meiṅ
   Naam hum kaun sa le saikroṅ naam un ke haiṅ
   Aarzu jin ka nahiṅ koi imaam un ke haiṅ
 ---

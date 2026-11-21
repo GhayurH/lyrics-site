@@ -7,6 +7,37 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ummat ne Muhammad ko marqad meiṅ rulaaya hai
+  Hasnain ki maadar ko be jurm sataaya hai
+
+  1
+  Zehra pe sitam logo hai aaj talak jaari
+  Dar pehle jalaaya tha ab rauza giraaya hai
+
+  2
+  Zehra ki lahad par jo har shaam hi jalta tha
+  Us ek diye ko bhi zaalim ne bujhaaya hai
+
+  3
+  Aisi koi mazluma duniya meiṅ na guzri hai
+  Na qabr ka pata hai na lahad pe saaya hai
+
+  4
+  Us Bibi ke gulshan ke har phul ko raunda hai
+  Jis Bibi ne is diṅ par sab kuchh hi lutaaya hai
+
+  5
+  Dil meiṅ to sada qaaim ab rauza hai Zehra ka
+  Har dharkan-e-dil meiṅ gham Zehra ka basaaya hai
+
+  6
+  Yasrib ki fazaaoṅ meiṅ ye dard bhara nauha
+  Jis ne bhi suna us ne aansu hi bahaaya hai
+
+  7
+  Aa jaao mere Maula taamir ho phir rauza
+  Rizwaan ne ro ro ke Mahdi ko bulaaya hai
 ---
 
 اُمّت نے محمدؐ کو مرقد میں رُلایا ہے

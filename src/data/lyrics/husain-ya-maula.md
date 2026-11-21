@@ -16,8 +16,8 @@ romanLyrics: |-
   Tu hai zamiṅ pe Muhammad ka saaya
   Din-e-Muhammad ko tu ne bachaaya
   Zindagi saath tere bandagi saath tere
-  Karbobala ne ye sikhaaya
-  Maiṅ haq ke saath kahuṅ
+  Karb o Bala ne ye sikhaaya
+  Main haq ke saath kahuṅ
   Bas yehi baat kahuṅ
   Teri wila hai sarmaaya
 
@@ -27,8 +27,8 @@ romanLyrics: |-
   1
   Din-e-Khuda ka manshur tu hai
   Rasm-e-wafa ka dastur tu hai
-  Uncha jahaaṅ meiṅ tera alam hai
-  Kaun o makaaṅ meiṅ tu mohtaram hai
+  Uncha jahaaṅ mein tera alam hai
+  Kaun o makaaṅ mein tu mohtaram hai
   Lab pe dua rahe Yabnaz Zahra Husain
   Teri adaalat hai Yabnaz Zahra Husain
 
@@ -41,9 +41,9 @@ romanLyrics: |-
   Rab se mila diya Yabnaz Zahra Husain
 
   3
-  Shart-e-shafaaat teri mohabbat
-  Shart-e-mohabbat teri itaaat
-  Teri itaaat Rab ki itaaat
+  Shart-e-shafaat teri mohabbat
+  Shart-e-mohabbat teri itaat
+  Teri itaat ki itaat
   Tujh se adaawat Rab se adaawat
   Duniya ka kya khabar Yabnaz Zahra Husain
   Hai kitna motabar Yabnaz Zahra Husain
@@ -53,16 +53,16 @@ romanLyrics: |-
   Ahl-e-sitam se paikaar Maula
   Ghair ke laaye saare sitamgar
   Jit gaya tu haare sitamgar
-  Gunji ban meiṅ azaaṅ Yabnaz Zahra Husain
+  Gunji ban mein azaaṅ Yabnaz Zahra Husain
   Pursa kari kahaaṅ Yabnaz Zahra Husain
 
   5
-  Jaati hai jaan chale jaaye hameiṅ gham kya
+  Jaati hai jaan chale jaaye hameṅ gham kya
   Raah-e-wafa ko kabhi chhoreṅ ge hum kya
   Zehra se waada hum ne kiya hai
   Bas ye iraada hum ne kiya hai
   Chaahe mar jaaye hum Yabnaz Zahra Husain
-  Zinda rakheiṅ ge gham Yabnaz Zahra Husain
+  Zinda rakheṅ ge gham Yabnaz Zahra Husain
 
   6
   Kisht-e-aalaam se tu ne nikal kar
@@ -74,9 +74,9 @@ romanLyrics: |-
 
   7
   Shaam-e-gharibaaṅ bhule nahiṅ hum
-  Rote hue bachchoṅ ki sadaaeiṅ
+  Rote hue bachchoṅ ki sadaaeṅ
   Shimr-e-laiṅ ne khaime jala kar
-  Ahl-e-haram ki chhini ridaaeiṅ
+  Ahl-e-haram ki chhini ridaaeṅ
   Nok-e-sinaaṅ par uncha tera sar
   Jaari tha Quraan teri zabaan par
   Jo dekha jo suna Yabnaz Zahra Husain
@@ -91,9 +91,9 @@ romanLyrics: |-
   Ho saari zindagi Yabnaz Zahra Husain
 
   9
-  Tu hi to faatih-e-Karbobala hai
+  Tu hi to faatih-e-Karb o Bala hai
   Husain Husain Husaina
-  Saare jahaaṅ ke laboṅ pe sada hai
+  Saare jahaaṅ ke laboṅ pe sadaa hai
   Husain Husain Husaina
 ---
 جس نے بھی ڈھونڈا تجھے رب کو ہے پایا

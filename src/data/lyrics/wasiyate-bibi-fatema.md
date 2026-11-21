@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baad baba ke jo guzri wo musibat sunlo
-  Ya ali fatema zahra ki wasiyat sunlo
-  Aaj rukhsat ho rahi hai tum se zahra ya ali
-  Parda e shab meiṅ meri mayyat uthana ya ali
+  Baad baba ke jo guzri wo musibat sun lo
+  Ya Ali Fatema Zahra ki wasiyat sun lo
+  Aaj rukhsat ho rahi hai tum se Zahra ya Ali
+  Parda-e-shab meiṅ meri mayyat uthaana ya Ali
   Aaj rukhsat ho rahi hai...
-  Phasliyaṅ tori gayi kaise ye batlaungi mai
-  Hashr ke maidaṅ meiṅ bhi is haal meiṅ aaungi mai
-  Haath pehlu se na tum mera hatana ya ali
+  Pasliyaaṅ tori gayi kaise ye batlaauṅ gi main
+  Hashr ke maidaaṅ meiṅ bhi is haal meiṅ aauṅ gi main
+  Haath pehlu se na tum mera hataana ya Ali
   Aaj rukhsat ho rahi hai...
-  Wo musibat aap ne acha hua dekhi nahi
-  Ab mai sidhe haath se tasbih pad sakti nahi
-  Aisa qunfuz ne hai maara taaziyana ya ali
+  Wo musibat aap ne achha hua dekhi nahiṅ
+  Ab main sidhe haath tasbih parh sakti nahiṅ
+  Aisa Kun Faz ne hai maara taaziyaana ya Ali
   Aaj rukhsat ho rahi hai...
-  Kehti hai zainab ye mujhse dekh kar chehra mera
+  Kehti hai Zainab ye mujh se dekh kar chehra mera
   Aap ke rukhsaar par ye nil hai kaisa para
-  Maie khaaya hai tamacha mat batana ya ali
+  Main ne khaaya hai tamaancha mat bataana ya Ali
   Aaj rukhsat ho rahi hai...
-  Taaziyane ki aziyyat ka uthana ek taraf
-  Wo tamache qatl e mohsin dar jalana ek taraf
-  Sab se mushkil tha magar darbar jaana ya ali
+  Taaziyane ki aziyyat ka uthaana ik taraf
+  Wo tamaanche qatl-e-Mohsin dar jalaana ik taraf
+  Sab se mushkil tha magar darbaar jaana ya Ali
   Aaj rukhsat ho rahi hai...
-  Jab meri talqin parna yaad kar lena zara
+  Jab meri talqin parhna yaad kar lena zara
   Dar ke girne se mera baazu bhi hai tuta hua
-  Mere shaano ko zara dhire hilana ya ali
+  Mere shaanoṅ ko zara dhire hilaana ya Ali
   Aaj rukhsat ho rahi hai...
-  Chaahe aajaye qayamat mujhse ye waada karo
-  Jab talak maula mere shabbir ki marzi na ho
-  Tab talak mera janaza mat uthana ya ali
+  Chaahe aa jaaye qayaamat mujh se ye waada karo
+  Jab talak Maula mere Shabbir ki marzi na ho
+  Tab talak mera janaaza mat uthaana ya Ali
   Aaj rukhsat ho rahi hai...
-  Jab se aayi hoo palat kar fikr hai mujhko yehi
-  Mai to parde meiṅ gayi phir bhi zaeefa ho gayi
-  berida darbar hai zainab ko jaana ya ali
+  Jab se aayi huṅ palat kar fikr hai mujh ko yahi
+  Main to parde meiṅ gayi phir bhi zaeefa ho gayi
+  Berida darbaar hai Zainab ko jaana ya Ali
   Aaj rukhsat ho rahi hai...
   Karbala meiṅ jab mere mazlum par khanjar chale
-  Pyaas ke aalam meiṅ wo ghazi ko jab awaaz de
-  Mai bhi aaungi wahaṅ par tum bhi aana ya ali
+  Pyaas ke aalam meiṅ wo Ghazi ko jab aawaaz de
+  Main bhi aauṅ gi wahaaṅ par tum bhi aana ya Ali
   Aaj rukhsat ho rahi hai...
-  Haath pehlu par rakhe boli takallum fatema
-  Mai dua karti hoo tum amin keh dena zara
-  Jald aaye mere mehdi ka zamana ya ali
+  Haath pehlu par rakhe boli Takallum Fatema
+  Main dua karti huṅ tum aamin keh dena zara
+  Jald aaye mere Mehdi ka zamaana ya Ali
   Aaj rukhsat ho rahi hai...
 ---
 

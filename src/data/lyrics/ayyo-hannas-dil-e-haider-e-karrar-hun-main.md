@@ -1,6 +1,6 @@
 ---
 title: "ایو ہناس دلِ حیدرِ کرار ہوں میں"
-alternateTitle: "Ayyo Hannas Dil-e-Haider-e-Karrar Huṅ Maiṅ"
+alternateTitle: "Ayyo Hannas Dil-e-Haider-e-Karraar Huṅ Maiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
   Sab mere saamne majbur haiṅ mukhtaar huṅ maiṅ
   Surma saf shikan o ghaazi o jarraar huṅ maiṅ
   Alam-e-zar se kisi fauj ka saalaar huṅ maiṅ
-  Asadullah ka aks mujhe kehte haiṅ
+  Asadullah ka aqs mujhe kehte haiṅ
   Sher huṅ is liye Abbas mujhe kehte haiṅ
 
   2
@@ -47,10 +47,10 @@ romanLyrics: |-
   Woh agar shahr-e-sakhaawat haiṅ maiṅ darwaaza huṅ
 
   5
-  Kya kaha Shaah-e-Abuzar se mile ga ke nahiṅ
-  Aab kuze ko samandar se mile ga ke nahiṅ
-  Nur kuchh mehr-e-munawwar se mile ga ke nahiṅ
-  Sochte ho keh mere ghar se mile ga ke nahiṅ
+  Kya kaha Shaah-e-Abuzar se mile ga keh nahiṅ
+  Aab kuze ko samandar se mile ga keh nahiṅ
+  Nur kuchh mehr-e-munawwar se mile ga keh nahiṅ
+  Sochte ho keh mere ghar se mile ga keh nahiṅ
   Shab ke phande meiṅ gala daal diya jhul gaye
   Kya mera Baab-e-Hawaaij ka laqab bhul gaye
 
@@ -79,7 +79,7 @@ romanLyrics: |-
   Isi din ke liye battis baras kaate haiṅ
 
   9
-  Saahib-e-mashk o alam khaime se betegh chala
+  Saahib-e-mashk o alam khaime se be tegh chala
   Phir bhi Jibril ne shahpar ke liye wird parha
   Dar se khaamosh hua aur bhi kuchh dil dharka
   Jab mili sher ki aahat to pukaara darya
@@ -96,14 +96,14 @@ romanLyrics: |-
 
   11
   Aasmaan tak jo gayi sher-e-nayastaaṅ ki pukaar
-  Malak al-maut ne ghabra ke kaha ji sarkaar
+  Malak-ul-maut ne ghabra ke kaha ji sarkaar
   Lahja-e-ghaiz meiṅ bola yeh Husaini jarraar
   Sun rahe ho jo taraai pe hai shor-e-ashraar
   Dushmani meiṅ yeh kai roz se bal khaate haiṅ
   Jaao darya pe khabar kar do keh hum aate haiṅ
 
   12
-  Pehredaaroṅ ki sada thi keh taraai chhoro
+  Pehre daaroṅ ki sada thi keh taraai chhoro
   Apne bas meiṅ nahiṅ hargiz yeh laraai chhoro
   Ab yeh faryaad yeh girya yeh duhaai chhoro
   Waqt hai bhaag nikalne ka kalaai chhoro
@@ -128,7 +128,7 @@ romanLyrics: |-
 
   15
   Shimr buzdil se pahe jur manga aur manga
-  Der kis baat ki filfaur manga aur manga
+  Der kis baat ki fil faur manga aur manga
   Apne anjaam pe kar ghaur manga aur manga
   Mujh se larna hai to fauj aur manga aur manga
   Ashal-e-zerak o hoshyaar kuchal daale ga

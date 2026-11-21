@@ -8,107 +8,65 @@ poet: "Qamar Bilgrami"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Maula utho ke masjid e kufa udaas hai
-
+romanLyrics: |-
+  Maula utho ke masjid-e-Kufa udaas hai
 
   1
-
-  Kaisa ye din hai aaj ke dunya udaas hai
-
-  Hasanian beqarar hai zainab hai muztarib
-
-  Rooh e janabe fatema zehra udaas hai
-
+  Kaisa ye din hai aaj ke duniya udaas hai
+  Hasnain beqaraar hai Zainab hai muztarib
+  Ruh-e-janaab-e-Fatema Zehra udaas hai
 
   2
-
-  Mohataj o benawa o ghareebon ke daadras
-
-  Dekho ke har yateem ka chehra udaas hai
-
+  Mohtaaj o benawa o ghariboṅ ke daadras
+  Dekho ke har yatim ka chehra udaas hai
 
   3
-
-  Muskhil kusha ameer e arab peshwayi dein
-
-  Tum kya udaas ho ke zamana udaas hai
-
+  Mushkil kusha amir-e-Arab peshwa-e-diṅ
+  Tum kya udaas ho ke zamaana udaas hai
 
   4
-
-  Kisko pukare kis se umeed e shifa kare
-
-  Bemaar bedawa e maseeha udaas hai
-
+  Kis ko pukaare kis se umid-e-shifa kare
+  Bimaar bedawa ae Masiha udaas hai
 
   5
-
-  Tayghe sitam se sar to namazi ka hai do neem
-
+  Tegh-e-sitam se sar to namaazi ka hai do nim
   Mehraab ro raha hai musalla udaas hai
 
-
   6
-
-  Dil phat raha hai aale mohamed huwe yateem
-
-  Khaak ud rahi hai khaana e zehra udaas hai
-
+  Dil phat raha hai aal-e-Muhammad hue yatim
+  Khaak ur rahi hai khaana-e-Zehra udaas hai
 
   7
-
-  Chehra lahoo se aap ka jo tar batar hua
-
-  Rota hai zameen arsh e moalla udaas hai
-
+  Chehra lahu se aap ka jo tar ba tar hua
+  Rota hai zamin arsh-e-mualla udaas hai
 
   8
-
-  Hasnain ke saron se amaame utar gaye
-
-  Roti hai betiyan rukhe baba udaas hai
-
+  Hasnain ke saroṅ se amaame utar gaye
+  Roti hai betiyaaṅ rukh-e-baaba udaas hai
 
   9
-
-  Matam ke hai libaas mein allah ka haram
-
-  Gham mein tumhare khaana e kaaba udaas hai
-
+  Maatam ke hai libaas meiṅ Allah ka haram
+  Gham meiṅ tumhaare khaana-e-Kaaba udaas hai
 
   10
-
-  Lillaah karbala ka tasavvur na kijiye
-
-  Darya e alqama ka nazara udaas hai
-
+  Lillaah Karbala ka tasavvur na kijiye
+  Darya-e-Alqama ka nazaara udaas hai
 
   11
-
-  Aayi hai sehar khoon ki surkhi liye huwe
-
-  Khaak ud rahi hai khaana e kaaba udaas hai
-
+  Aayi hai sahar khun ki surkhi liye hue
+  Khaak ur rahi hai khaana-e-Kaaba udaas hai
 
   12
-
-  Jibreel ki fughan hai ali qatl ho gaye
-
-  Larzan zameen hai arsh e moalla udaas hai
-
+  Jibril ki fughaaṅ hai Ali qatl ho gaye
+  Larzaaṅ zamiṅ hai arsh-e-mualla udaas hai
 
   13
-
-  Bekal hai kayenat hawaein hai muntashir
-
-  Larzan zameen jangal o sehra udaas hai
-
+  Bekal hai kaainaat hawaaeṅ hai muntashir
+  Larzaaṅ zamin jangal o sahra udaas hai
 
   14
-
-  Har simth chaa gayi hai qamar ye udasiyan
-
-  Toota hai baab e ilm madina udaas hai'
+  Har simt chhaa gayi hai Qamar ye udaasiyaaṅ
+  Tuta hai baab-e-ilm Madina udaas hai
 ---
 
 مولا اٹھو کے مسجد کوفہ اداس ہے

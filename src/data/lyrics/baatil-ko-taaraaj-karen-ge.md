@@ -19,11 +19,11 @@ romanLyrics: |-
   Sheh ke naukar raaj kareṅ ge
 
   1
-  Shah-e-Najaf ke chaahne waalo
+  Shaah-e-Najaf ke chaahne waalo
   Ishq-e-Muhammad ke matwaalo
-  Paakiza maaṅoṅ ke jaiyaalo
+  Paakiza maaoṅ ke jiyaalo
   Aazaadi ke jaam uchhaalo
-  Tufaanoṅ meiṅ Uab raha hai
+  Tufaanoṅ meiṅ uab raha hai
   Takht-e-Saudi dub raha hai
 
   2
@@ -43,7 +43,7 @@ romanLyrics: |-
   Yuṅ samjho Abbas lare ga
 
   4
-  Ahl-e-haq Ayjad hanseṅ ge
+  Ahl-e-haq ijaad hanseṅ ge
   Gham khurda afraad hanseṅ ge
   Jurat ke fulaad hanseṅ ge
   Khud Maula Sajjad hanseṅ ge
@@ -71,21 +71,21 @@ romanLyrics: |-
   Maatam ho ga dasta dasta
   Baazu hoṅ ge Musa o Isa
   Aur Daaud parheṅ ge noha
-  Nasab Jari ka parcham ho ga
+  Nasb Jari ka parcham ho ga
   Kaabe ke andar maatam ho ga
 
   8
   Jalwa jalwa manzar manzar
   Nur ka saaya nur ki chaadar
   Sehn-e-haram meiṅ ho ga mimbar
-  Aur mimbar pe Waaris-e-Haider
-  Sirf Saluni Ajra ho ga
+  Aur mimbar pe waaris-e-Haider
+  Sirf Saluni ijraa ho ga
   Nehj-e-Ali meiṅ khutba ho ga
 
   9
   Parh ke qasida kar ke midhat
   Tum bhi Wajhi-e-zikr imaamat
-  Karte rehna haj-e-aqidat
+  Karte rehna hajj-e-aqidat
   Paae mubaarak chum chum ke
   Gard-e-imaamat ghum ghum ke
 ---

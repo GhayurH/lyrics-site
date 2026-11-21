@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Ali ki bekali par zindagi aansu bahaati hai
-  Sada-e-al-firaaq aati hai har ek taar-e-bistar se
+  Sada ye al firaaq aati hai har ek taar-e-bistar se
 
   2
   Pareshaan surkh chehra sard hai aur surkh haiṅ aankheṅ
@@ -35,11 +35,11 @@ romanLyrics: |-
   Payaam-e-irjai aane ko hai Allah ke ghar se
 
   6
-  Suni hai jis ke kaanoṅ ne hadis-e-raas karaasi
+  Suni hi jis ke kaanoṅ se hadis-e-raas karaasi
   Wo puchhe gham Ali ki maut ka qabr-e-Payambar se
 
   7
-  Janaaza kull-e-imaan ka Ali Fitrat jab uthega
+  Janaaza kul-e-imaan ka Ali Fitrat jab uthega
   Na jaane haal kya Zainab ka hoga gham ke khanjar se
 ---
 اُبلتا ہے سمندر خون کا اللہ کے گھر سے

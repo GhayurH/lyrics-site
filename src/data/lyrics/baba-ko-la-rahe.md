@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Uneesvi ki subha wo mehshar bapa hua
-  Aati thi aasman se jibril ki sada
-  Masjid meiṅ mustafa ka wasi qatl hogaya
-  Daure saroṅ ko pit'te sibtain e mustafa
-  Dekha ki khuṅ meiṅ lot'te hai shaahe mashraqain
-  Lipta ke apne sine se roye ba-shor o shain
-  Pehle namaziyoṅ ko parayi namaz phir
-  Masjid se leke baba ko nikle Hasan Husain
-  Koi zainab ko thaam le jaa kar
-  Ghar meiṅ baba ko laa rahe hai Husain
-  Hoga barpa abhi yahaṅ mehshar
-  Gham meiṅ baba ke ro rahi hogi
-  Hosh apne wo kho rahi hogi
-  Haye aa jaaye na wo deodi par
+  Anisweṅ ki subh woh mahshar bapa hua
+  Aati thi aasmaan se Jibril ki sada
+  Masjid meiṅ Mustafa ka wasi qatl ho gaya
+  Daure saroṅ ko pitte Sibtain-e-Mustafa
+  Dekha ki khuṅ meiṅ lotte haiṅ Shah-e-Mashraqain
+  Liptaa ke apne sine se roye ba shor o shain
+  Pehle namaaziyoṅ ko parhaai namaaz phir
+  Masjid se le ke baba ko nikle Hasan Husain
+  Koi Zainab ko thaam le jaa kar
+  Ghar meiṅ baba ko laa rahe haiṅ Husain
+  Hoga barpa abhi yahaaṅ mahshar
+  Gham meiṅ baba ke ro rahi ho gi
+  Hosh apne woh kho rahi ho gi
+  Haaye aa jaaye na woh deorhi par
   Ghar meiṅ baba ko...
-  Arsh waale pachade khaate hai
-  Chand taare bhi thar'tharate hai
-  Subha aayi hai aaj nauha gar
+  Arsh waale pachhaareṅ khaate haiṅ
+  Chaand taare abhi thar tharaate haiṅ
+  Subh aayi hai aaj nauha gar
   Ghar meiṅ baba ko...
-  Dil pe sadme sabhi uthalunga
-  Kaise zainab ko mai sambhalunga
-  Sochte jaa rahe hai ye shabbar
+  Dil pe sadme sabhi uthaa luṅ ga
+  Kaise Zainab ko main sambhaaluṅ ga
+  Sochte jaa rahe haiṅ ye Shabbar
   Ghar meiṅ baba ko...
-  Pyar karne ko nana jaan nahi
-  Haye amma ka sayeban nahi
-  Kaun dhaaras bandhayega bad kar
+  Pyaar karne ko naana jaan nahiṅ
+  Haaye ammaaṅ ka saayabaan nahiṅ
+  Kaun dhaaras bandhaaega barh kar
   Ghar meiṅ baba ko...
-  Taygh zaalim ne aisi maari hai
-  Zakhm sar ka bahot hi kaari hai
-  Koi jaa kar bicha de ek chadar
+  Taigh zaalim ne aisi maari hai
+  Zakhm sar ka bahut hi kaari hai
+  Koi jaa kar bichhaa de ek chaadar
   Ghar meiṅ baba ko...
-  Zakhm sar ka na dekh payegi
-  Wo pachaare zarur khayegi
-  Kaise samjhayenge use jaa kar
+  Zakhm sar ka na dekh paaegi
+  Woh pachhaare zarur khaaegi
+  Kaise samjhaaenge use jaa kar
   Ghar meiṅ baba ko...
   Raah meiṅ khuṅ tapakta jaata hai
   Aur amaama latakta jaata hai
-  Kaise thaame do paara sar sarwar
+  Kaise thaame do paara sar-e-Sarwar
   Ghar meiṅ baba ko...
   Betiyoṅ ki ajib hai fitrat
   Hoti hai baap se bari ulfat
-  Koi ehwaal keh na de jaa kar
+  Koi ahwaal keh na de jaa kar
   Ghar meiṅ baba ko...
-  Dar pe aaye junhi shahe waala
-  Aini kohraam hogaya barpa
-  Koi aamir ye kehta tha ro kar
+  Dar pe aaye junhi Shah-e-Waala
+  Aini kohraam ho gaya barpa
+  Koi Aamir ye kehta tha ro kar
   Ghar meiṅ baba ko...
 ---
 

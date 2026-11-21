@@ -1,38 +1,66 @@
 ---
-title: "Mujh Par Utar Rahe Hain Sahife Naye Naye"
+title: "مجھ پر اتر رہے ہیں صحیفے نئے نئے"
+alternateTitle: "Mujh Par Utar Rahe Hain Sahife Naye Naye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mujh par utar rahe hain sahife naye naye
+  Main parh raha hoon un ke qaseday naye naye
+
+  1
+  Jhola jhula rahe hain Hasan our Hussain ka
+  Jibreel ko mile hain fareeze naye naye
+  Jab tak yeh zindagi hai Imam-e-Zaman ko
+  Main bhaijta rahon ga areeze naye naye
+
+  2
+  Shabir kehte jate hain main ne atta kiya
+  Rahib ko milte jate hain bete naye naye
+  Ahsan man Karb-o-Bala teri khak mein
+  Shabir ne jaray hain nageene naye naye
+
+  3
+  Likha ho jin ki kashti pe naam-e-Abu Turab
+  Woh dhondte nahi hain kinare naye naye
+  Aaya hai jab se lab pe Ali-e-Wali ka naam
+  Aane lage Najaf se sandese naye naye
+
+  4
+  Seene pe our kamar pe aqeedat ke phool hain
+  Hain matami ke jism pe tamgay naye naye
+  Jo loag munkiran-e-wilayat hain aye Raza
+  Mujh par laga rahe hain woh fatway naye naye
 ---
 
-Mujh Par Utar Rahe Hain Sahife Naye Naye.
-Main Parh Raha Hoon Un Ke Qaseday Naye Naye.
+مجھ پر اتر رہے ہیں صحیفے نئے نئے
+میں پڑھ رہا ہوں ان کے قصیدے نئے نئے
 
-1
-Jhola Jhula Rahe Hain Hasan Our Hussain Ka.
-Jibreel Ko Mile Hain Fareeze Naye Naye.
-Jab Tak Yeh Zindagi Hai Imam-e-Zaman Ko.
-Main Bhaijta Rahon Ga Areeze Naye Naye.
+۱
+جھولا جھلا رہے ہیں حسن اور حسین کا
+جبریل کو ملے ہیں فریضے نئے نئے
+جب تک یہ زندگی ہے امامِ زماں کو
+میں بھیجتا رہوں گا عریضے نئے نئے
 
-2
-Shabir Kehte Jate Hain Main Ne Atta Kiya.
-Rahib Ko Milte Jate Hain Bete Naye Naye.
-Ahsan Man Karb-o-Bala Teri Khak Mein.
-Shabir Ne jaray Hain Nageene Naye Naye.
+۲
+شبیر کہتے جاتے ہیں میں نے عطا کیا
+راہب کو ملتے جاتے ہیں بیٹے نئے نئے
+احسن من کرب و بلا تیری خاک میں
+شبیر نے جڑے ہیں نگینے نئے نئے
 
-3
-Likha Ho Jin Ki Kashti Pe Naam-e-Abu Turab.
-Woh Dhondte Nahi Hain Kinare Naye Naye.
-Aaya Hai Jab Se Lab Pe Ali-e-Wali Ka Naam.
-Aane Lage Najaf Se Sandese Naye Naye.
+۳
+لکھا ہو جن کی کشتی پہ نامِ ابو تراب
+وہ ڈھونڈتے نہیں ہیں کنارے نئے نئے
+آیا ہے جب سے لب پہ علیِ ولی کا نام
+آنے لگے نجف سے سندیسے نئے نئے
 
-4
-Seene Pe Our Kamar Pe Aqeedat Ke Phool Hain.
-Hain Matami Ke Jism Pe Tamgay Naye Naye.
-Jo Loag Munkiran-e-Wilayat Hain Aye Raza.
-Mujh Par Laga Rahe Hain Woh Fatway Naye Naye.
+۴
+سینے پہ اور کمر پہ عقیدت کے پھول ہیں
+ہیں ماتمی کے جسم پہ تمغے نئے نئے
+جو لوگ منکرانِ ولایت ہیں اے رضا
+مجھ پر لگا رہے ہیں وہ فتوے نئے نئے

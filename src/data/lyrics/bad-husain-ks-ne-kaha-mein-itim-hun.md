@@ -8,93 +8,57 @@ poet: "Suroor Lakhnavi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Baade hussain kis ne kaha mai yateem hoon
-
+romanLyrics: |-
+  Baad-e-Husain kis ne kaha main yatim huṅ
 
   1
-
-  Maqtal se aa rahi hai sada mai yateem hoon
-
-  Ro kar kaha sakina ne laashe hussain par
-
-  Ab jaa ke ye yaqeen hua mai yateem hoon
-
+  Maqtal se aa rahi hai sada main yatim huṅ
+  Ro kar kaha Sakina ne laash-e-Husain par
+  Ab jaa ke ye yaqin hua main yatim huṅ
 
   2
-
-  Jo hai wo zulm karta hai majboor jaan kar
-
-  Shayad yehi hai meri khata mai yateem hoon
-
+  Jo hai wo zulm karta hai majbur jaan kar
+  Shaayad yehi hai meri khata main yatim huṅ
 
   3
-
-  Baba Kay Saat Ghoomnay Phirnay Ki Umr Thi
-
-  Toota Har Ek Khwab Mera Main Yateem Hoon
-
+  Baba ke saath ghumne phirne ki umr thi
+  Tuta har ek khwaab mera main yatim huṅ
 
   4
-
-  Boli sakina shimr se kaano par rakh ke haath
-
-  Gauhar na cheen behre khuda mai yateem hoon
-
+  Boli Sakina Shimr se kaanoṅ par rakh ke haath
+  Gauhar na chhin bahr-e-Khuda main yatim huṅ
 
   5
-
-  Hasna Tho Door Ronay Bhi Dayta Nahi Kohi
-
-  Kuch Iqtiyar Hi Na Raha Main Yateem Hoon
-
+  Hasna to dur rone bhi deta nahiṅ khoi
+  Kuch iqtidaar hi na raha main yatim huṅ
 
   6
-
-  Daaman phata hua hai gareban chaak hai
-
-  Dekhe zameene karbobal mai yateem hoon
-
+  Daaman phata hua hai garebaan chaak hai
+  Dekhe zamin-e-Karbobala main yatim huṅ
 
   7
-
-  Jo jiske bas mein hai wo sitam dhaaye shaukh se
-
-  Ab kya karun kisi se gila mai yateem hoon
-
+  Jo jis ke bas mein hai wo sitam dhaae shauq se
+  Ab kya karuṅ kisi se gila main yatim huṅ
 
   8
-
-  Phir dekhti hoon kaun tamache lagayega
-
-  Ammu se koi keh de zara mai yateem hoon
-
+  Phir dekhti huṅ kaun tamaanche lagaae ga
+  Ammu se koi keh de zara main yatim huṅ
 
   9
-
-  Mai apne aansuon se bujha loongi apni pyaas
-
-  Darya se laut aao chacha mai yateem hoon
-
+  Main apne aansuoṅ se bujha luṅ gi apni pyaas
+  Darya se laut aao chacha main yatim huṅ
 
   10
-
-  Sar rakh diya sakina ne zainab ki godh mein
-
-  Rakhna phupi khayaal mera mai yateem hoon
-
+  Sar rakh diya Sakina ne Zainab ki god mein
+  Rakhna phuphi khayaal mera main yatim huṅ
 
   11
-
-  Maqtal Say Su-e-shaam Yeh Kehti Hui Chali
-
-  Baba Mera Shaheed Hua Main Yateem Hoon
-
+  Maqtal se su-e-Shaam ye kehti hui chali
+  Baba mera shahid hua main yatim huṅ
 
   12
-
-  Zikre sakina aate hi dil kaamp utha suroor
-
-  Jaise kisi ne mujhse kaha mai yateem hoon'
+  Zikr-e-Sakina aate hi dil kaanp utha Suroor
+  Jaise kisi ne mujh se kaha main yatim huṅ
 ---
 
 بعد حسین کس نے کہا میں یتیم ہوں

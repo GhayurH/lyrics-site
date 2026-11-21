@@ -1,40 +1,69 @@
 ---
-title: "Hussain Dulha Bana Rahay They Waheed Rizvi"
+title: "حسین دولہا بنا رہے تھے وحید رضوی"
+alternateTitle: "Hussain Dulha Bana Rahay They Waheed Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hussain dulha bana rahay they Waheed Rizvi
+  Youn sehra Akbar ko bandh raha tha haram sabhi rotay ja rahe they
+  Jawan betay ko waqt-e-aakhir Hussain dulha bana rahe they
+  Chaley jo maqtal ki samt Akbar tu khaimon mein tha kuch aisa manzar
+  Lipat ke rota hai koi jaisay kissi janazay ke sath lag kar
+  Youn ro ke Akbar ko sare aa kar galay se apne laga rahe they
+  Na wapis aaye ga ran se Akbar miley ga zakhm ibn-e-Fatima ko
+  Hussain kaisay uthaein gay ran se lash-e-humshakal-e-Mustafa ko
+  Najanay kya kya khiyal dil mein Hussain maula ko aa rahe they
+  Aye kash Sughra behan jo hoti tu naaz bhai ke woh uthati
+  Saja ke Akbar ke sar pe sehra jo dil mein arman they batati
+  Sakina ki baat sun ke Akbar Madine ko munh phira rahe they
+  Nazar hai Zainab ki teri rahoon pe apni maa ko na bhool jana
+  Jabeen-e-Akbar pe de ke bosay kaha jo Zainab ne jald aana
+  Hussain oss waqt apne aanso najanay kaisay chupa rahe they
+  Sadaein Ghazi ko de rahi thi youn peet kar apne sar ko Zainab
+  Tarap gayi dekh kar yeh manzar tu roi thamay jigar ko Zainab
+  Jab Inna Lillah parh ke Akbar ko sheh amama pinha rahe they
+  Kahan girey ho sadaein Akbar ko de ke maqtal mein pochtay they
+  Nazar na aata tha kuch bhi noor-e-nazar ke lashay par aisay pohanchay
+  Sajaya tha jis ke sar pe sehra ab oss ka lasha utha rahe they
+  Nikali seene se sheh ne barchi tu yaad Sughra behan ki aayi
+  Madine ki samt kar ke chehra tab hichki Akbar ne maut ki li
+  Hussain Sughra ka khat jab Akbar ko ro ke parh ke suna rahe they
+  Woh aaya maqtal mein shah zadah abhi jo dulha bana howa tha
+  Asad ossay mara kalma goyon ne keh jo humshakal-e-Mustafa tha
+  Shabeeh-e-Ahmad ko qatal kar ke Hussain ko sab rula rahe they
 ---
 
-1
-Hussain Dulha Bana Rahay They Waheed Rizvi.
-Youn Sehra Akbar Ko Bandh Raha Tha Haram Sabhi Rotay Ja Rahe They.
-Jawan Betay Ko Waqt-e-Aakhir Hussain Dulha Bana Rahe They.
-Chaley Jo Maqtal Ki Samt Akbar Tu Khaimon Mein Tha Kuch Aisa Manzar.
-Lipat Ke Rota Hai Koi Jaisay Kissi Janazay Ke Sath Lag Kar.
-Youn Ro Ke Akbar Ko Sare Aa Kar Galay Se Apne Laga Rahe They.
-Na Wapis Aaye Ga Ran Se Akbar Miley Ga Zakhm Ibn-e-Fatima Ko.
-Hussain Kaisay Uthaein Gay Ran Se Lash-e-Humshakal-e-Mustafa Ko.
-Najanay Kya Kya Khiyal Dil Mein Hussain Maula Ko Aa Rahe They.
-Aye Kash Sughra Behan Jo Hoti Tu Naaz Bhai Ke Woh Uthati.
-Saja Ke Akbar Ke Sar Pe Sehra Jo Dil Mein Arman They Batati.
-Sakina Ki Baat Sun Ke Akbar Madine Ko Munh Phira Rahe They.
-Nazar Hai Zainab Ki Teri Rahoon Pe Apni Maa Ko Na Bhool Jana.
-Jabeen-e-Akbar Pe De Ke Bosay Kaha Jo Zainab Ne Jald Aana.
-Hussain Oss Waqt Apne Aanso Najanay Kaisay Chupa Rahe They.
-Sadaein Ghazi Ko De Rahi Thi Youn Peet Kar Apne Sar Ko Zainab.
-Tarap Gayi Dekh Kar Yeh Manzar Tu Roi Thamay Jigar Ko Zainab.
-Jab Inna Lillah Parh Ke Akbar Ko Sheh Amama Pinha Rahe They.
-Kahan Girey Ho Sadaein Akbar Ko De Ke Maqtal Mein Pochtay They.
-Nazar Na Aata Tha Kuch Bhi Noor-e-Nazar Ke Lashay Par Aisay Pohanchay.
-Sajaya Tha Jis Ke Sar Pe Sehra Ab Oss Ka Lasha Utha Rahe They.
-Nikali Seene Se Sheh Ne Barchi Tu Yaad Sughra Behan Ki Aayi.
-Madine Ki Samt Kar Ke Chehra Tab Hichki Akbar Ne Maut Ki Li.
-Hussain Sughra Ka Khat Jab Akbar Ko Ro Ke Parh Ke Suna Rahe They.
-Woh Aaya Maqtal Mein Shah Zadah Abhi Jo Dulha Bana Howa Tha.
- Asad Ossay Mara Kalma Goyon Ne Keh Jo Humshakal-e-Mustafa Tha.
-Shabeeh-e-Ahmad Ko Qatal Kar Ke Hussain Ko Sab Rula Rahe They.
+۱
+حسین دولہا بنا رہے تھے وحید رضوی
+یوں سہرا اکبر کو باندھ رہا تھا حرم سبھی روتے جا رہے تھے
+جوان بیٹے کو وقتِ آخر حسین دولہا بنا رہے تھے
+چلے جو مقتل کی سمت اکبر تو خیموں میں تھا کچھ ایسا منظر
+لپٹ کے روتا ہے کوئی جیسے کسی جنازے کے ساتھ لگ کر
+یوں رو کے اکبر کو سارے آ کر گلے سے اپنے لگا رہے تھے
+نہ واپس آئے گا رن سے اکبر ملے گا زخم ابنِ فاطمہ کو
+حسین کیسے اٹھائیں گے رن سے لاشِ ہم شکلِ مصطفیٰ کو
+نجانے کیا کیا خیال دل میں حسین مولا کو آ رہے تھے
+اے کاش صغریٰ بہن جو ہوتی تو ناز بھائی کے وہ اٹھاتی
+سجا کے اکبر کے سر پہ سہرا جو دل میں ارمان تھے بتاتی
+سکینہ کی بات سن کے اکبر مدینے کو منہ پھرا رہے تھے
+نظر ہے زینب کی تیری راہوں پہ اپنی ماں کو نہ بھول جانا
+جبینِ اکبر پہ دے کے بوسے کہا جو زینب نے جلد آنا
+حسین اس وقت اپنے آنسو نجانے کیسے چھپا رہے تھے
+صدائیں غازی کو دے رہی تھی یوں پیٹ کر اپنے سر کو زینب
+تڑپ گئی دیکھ کر یہ منظر تو روئی تھامے جگر کو زینب
+جب اِنّا لِلّٰہ پڑھ کے اکبر کو شہ عمامہ پنہا رہے تھے
+کہاں گرے ہو صدائیں اکبر کو دے کے مقتل میں پوچھتے تھے
+نظر نہ آتا تھا کچھ بھی نورِ نظر کے لاشے پر ایسے پہنچے
+سجایا تھا جس کے سر پہ سہرا اب اس کا لاشہ اٹھا رہے تھے
+نکالی سینے سے شہ نے برچھی تو یاد صغریٰ بہن کی آئی
+مدینے کی سمت کر کے چہرہ تب ہچکی اکبر نے موت کی لی
+حسین صغریٰ کا خط جب اکبر کو رو کے پڑھ کے سنا رہے تھے
+وہ آیا مقتل میں شہ زادہ ابھی جو دولہا بنا ہوا تھا
+اسد اسے مارا کلمہ گویوں نے کہ جو ہم شکلِ مصطفیٰ تھا
+شبیہِ احمد کو قتل کر کے حسین کو سب رلا رہے تھے

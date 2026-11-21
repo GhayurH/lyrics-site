@@ -1,62 +1,114 @@
 ---
-title: "Hussain Hai Tu Hai Laillah"
+title: "حسین ہے تو ہے لا الٰہ"
+alternateTitle: "Hussain Hai Tu Hai Laillah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hameed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karbal mein Haq ne yeh di thi sada, Hussain hai tu hai Laillah
+  Hussain ka sara ghar lut gaya, deen-e-Khuda lekin bach gaya
+
+  1
+  Kaise parhi jati hain namazein
+  Yeh dar-e-Karbal tu dekho khudara
+  Gardan pe zarbein jo chalti rahin
+  Lekin na sajday se sar utha
+
+  2
+  Kabhi tukray Qasim ke chunta raha
+  Kabhi bazo-e-Ghazi dhondta raha
+  Kabhi seena-e-Akbar se barchi nikali
+  Kabhi chalni Asghar ka dekha gala
+
+  3
+  Waqt-e-asar aik masooma bali
+  Maqtal mein baba ko lipti hoi thi
+  Zalim ne galon pe mare tamachay
+  Khoon mein ossay rangeen kar diya
+
+  4
+  Sar katne wale bhi namazi
+  Jis ka kata sar woh bhi namazi
+  Lekin woh wajda-e-Shabiri ne dekho
+  Deen ko abhi tak zinda rakha
+
+  5
+  Yeh tu zakhm koi mamooli nahi hai
+  Behno ke samne satar qadam par
+  Be jurm behno ke pyasay bhai ko
+  Bedardi se kare zalim zibha
+
+  6
+  Sar bhi diya, ghar ki di chadarein bhi
+  Deen ke alam ko na jhukne diya
+  Qurban Maula ne sab kuch kiya
+  Mere Khuda aik Abid siwa
+
+  7
+  Quraan ke qariyon our hajiyon ne
+  Hussain ka sar naizay charhaya
+  Phir bhi katay sar se nook-e-sina par
+  Shabir Quran parhta raha
+
+  8
+  Tarz-e-Hussain pe ab zindagi yeh
+  Hameed aao mil kar guzarein
+  Noorulhuda warna dunya mein tu
+  Jeene ka koi nahi faida
 ---
 
-Karbal Mein Haq Ne Yeh Di Thi Sada Hussain Hai Tu Hai Laillah.
-Hussain ka Sara Ghar Lut Gaya Deen-e-Khuda Lekin Bach Gaya.
+کربل میں حق نے یہ دی تھی صدا، حسین ہے تو ہے لا الٰہ
+حسین کا سارا گھر لٹ گیا، دینِ خدا لیکن بچ گیا
 
-1
-Kaise Parhi Jati Hain Namazein.
-Yeh Dar-e-Karbal Tu Dekho Khudara.
-Gardan Pe Zarbein Jo Chalti Rahin.
-Lekin Na Sajday Se Sar Utha.
+۱
+کیسے پڑھی جاتی ہیں نمازیں
+یہ درِ کربل تو دیکھو خدارا
+گردن پہ ضربیں جو چلتی رہیں
+لیکن نہ سجدے سے سر اٹھا
 
-2
-Kabhi Tukray Qasim Ke Chunta Raha.
-Kabhi Bazo-e-Ghazi Dhondta Raha.
-Kabhi Seena-e-Akbar Se Barchi Nikali.
-Kabhi Chalni Asghar Ka Dekha Gala.
+۲
+کبھی ٹکڑے قاسم کے چنتا رہا
+کبھی بازوئے غازی ڈھونڈتا رہا
+کبھی سینۂ اکبر سے برچھی نکالی
+کبھی چھلنی اصغر کا دیکھا گلا
 
-3
-Waqt-e-Asar Aik Masooma Bali.
-Maqtal Mein Baba Ko Lipti Hoi Thi.
-Zalim Ne Galon Pe Mare Tamachay.
-Khoon Mein Ossay Rangeen Kar Diya.
+۳
+وقتِ عصر ایک معصومہ بالی
+مقتل میں بابا کو لپٹی ہوئی تھی
+ظالم نے گالوں پہ مارے طمانچے
+خون میں اسے رنگین کر دیا
 
-4
-Sar Katne Wale Bhi Namazi.
-Jis Ka Kata Sar Woh Bhi Namazi.
-Lekin Woh Wajda-e-Shabiri Ne Dekho.
-Deen Ko Abhi Tak Zinda Rakha.
+۴
+سر کاٹنے والے بھی نمازی
+جس کا کٹا سر وہ بھی نمازی
+لیکن وہ وجدِ شبیری نے دیکھو
+دین کو ابھی تک زندہ رکھا
 
-5
-Yeh Tu Zakhm Koi Mamooli Nahi Hai.
-Behno Ke Samne Satar Qadam Par.
-Be Jurm Behno Ke Pyasay Bhai Ko.
-Bedardi Se Kare Zalim Zibha.
+۵
+یہ تو زخم کوئی معمولی نہیں ہے
+بہنوں کے سامنے ستر قدم پر
+بے جرم بہنوں کے پیاسے بھائی کو
+بے دردی سے کرے ظالم ذبح
 
-6
-Sar Bhi Diya Ghar Ki Di Chadarein Bhi.
-Deen Ke Alam Ko Na Jhukne Diya.
-Qurban Maula Ne Sab Kuch Kiya.
-Mere Khuda Aik Abid Siwa.
+۶
+سر بھی دیا، گھر کی دیں چادریں بھی
+دین کے علم کو نہ جھکنے دیا
+قربان مولا نے سب کچھ کیا
+میرے خدا ایک عابد سوا
 
-7
-Quraan Ke Qariyon Our Hajiyon Ne.
-Hussain Ka Sar Naizay Charhaya.
-Phir Bhi Katay Sar Se Nook-e-Sina Par.
-Shabir Quran Parhta Raha.
+۷
+قرآن کے قاریوں اور حاجیوں نے
+حسین کا سر نیزے چڑھایا
+پھر بھی کٹے سر سے نوکِ سناں پر
+شبیر قرآن پڑھتا رہا
 
-8
-Tarz-e-Hussain Pe Ab Zindagi Yeh.
- Hameed Aao Mil Kar Guzarein.
- Noorulhuda Warna Dunya Mein Tu.
-Jeene Ka Koi Nahi Faida.
+۸
+طرزِ حسین پہ اب زندگی یہ
+حمید آؤ مل کر گزاریں
+نورالہدیٰ ورنہ دنیا میں تو
+جینے کا کوئی نہیں فائدہ

@@ -1,26 +1,42 @@
 ---
-title: "Baba Askari Da Qurban Ho Gaya Aye Lyrics 2025 Latest"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بابا عسکری دا قربان ہو گیا اے"
+alternateTitle: "Baba Askari Da Qurban Ho Gaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Soz"
 poet: "Hasan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Baba Askari da qurban ho gaya aye
+  Nanay de deen taun Haider di wila taun qurban ho gaya aye
+
+  1
+  Tukray jigar de hoye akhiyaan choon khon dulya
+  Hoya Naqi reha aj haye zulm di jafa taun qurban ho gaya aye
+  Phat gayiyaan ungliyaan ainj zalim zulm kamaye
+  Badlay le ne kaday be jurm be khata taun qurban ho gaya aye
+
+  2
+  Wich Samarra de haye Zahra tarap gayi aye
+  Jad wekhiya putar nu mehroom hoya sa taun qurban ho gaya aye
+  Pursa Ali Naqi da Qayam choon paish kar ke
+  Pa liya Hasan ajar tu haye Waris-e-Azza taun qurban ho gaya aye
 ---
 
-Baba Askari Da Qurban Ho Gaya Aye.
-Nanay De Deen Taun Haider Di Wila Taun Qurban Ho Gaya Aye.
+بابا عسکری دا قربان ہو گیا اے
+نانے دے دین توں حیدر دی ولا توں قربان ہو گیا اے
 
-1
-Tukray Jigar De Hoye Akhiyaan Choon Khon Dulya.
-Hoya Naqi Reha Aj Haye Zulm Di Jafa Taun Qurban Ho Gaya Aye.
-Phat Gayiyaan Ungliyaan Ainj Zalim Zulm Kamaye.
-Badlay Le Ne Kaday Be Jurm Be Khata Taun Qurban Ho Gaya Aye.
+۱
+ٹکڑے جگر دے ہوئے اکھیاں چوں خون ڈلیا
+ہویا نقی رہا اج ہائے ظلم دی جفا توں قربان ہو گیا اے
+پھٹ گئیاں انگلیاں اینج ظالم ظلم کمائے
+بدلے لے نے کدے بے جرم بے خطا توں قربان ہو گیا اے
 
-2
-Wich Samarra De Haye Zahra Tarap Gayi Aye.
-Jad Wekhiya Putar Nu Mehroom Hoya Sa Taun Qurban Ho Gaya Aye.
-Pursa Ali Naqi Da Qayam Choon Paish Kar Ke.
-Pa Liya Hasan Ajar Tu Haye Waris-e-Azza Taun Qurban Ho Gaya Aye.
+۲
+وچ سامرا دے ہائے زہرا تڑپ گئی اے
+جد ویکھیا پتر نوں محروم ہویا ساہ توں قربان ہو گیا اے
+پرسہ علی نقی دا قیام چوں پیش کر کے
+پا لیا حسن اجر تُو ہائے وارثِ عزا توں قربان ہو گیا اے

@@ -9,33 +9,75 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jo bughz e Aal e Mohammed mai margaya shaukat
-  Koi bhi daur ho bas woh yazeed hota hai
-  Laboon pay naad e Ali aur hath seenay par
-  Jo is tarah say gaya woh shaheed hota hai
+  Jo bughz-e-Aal-e-Muhammad meiṅ mar gaya Shaukat
+  Koi bhi daur ho bas woh Yazid hota hai
+  Laboṅ par naad-e-Ali aur haath sine par
+  Jo is tarah se gaya woh shahid hota hai
 
   2
-  Man mata ala hubbe aale Muhammad mata shaheeda
-  Ailan kar do dunya may sari
-  Sab ko bata do apna aqeeda
+  Man maata ala hubb-e-Aal-e-Muhammad maata shahida
+  Ailaan kar do duniya meiṅ saari
+  Sab ko bata do apna aqida
 
   3
-  Apni sawari un ka safeena
-  Jo hukm-e-Rab se Nooh ne banaya
-  Jin par nigahain hain Panjtan ki
-  Khun se jisay ham ne hay sajaya
+  Maula Naqi par kaisa sitam tha
+  Katta jigar tha aisa woh sam tha
+  Sab ko rulaata tha Samara meiṅ
+  Maula ke ghar ka woh shor o girya
 
   4
-  Gar barq karrkay toofan barsay
-  Ya phir yazeedi hizyan barsay
-  Sab kuch mitay ga matam rahay ga
-  Sun le zamana apna hay dawa
+  Kis jurm ki phir se di saza hai
+  Zehra ke ghar meiṅ phir se aza hai
+  Maula Hasan ka Yasrib ka manzar
+  Ahl-e-aza ko phir yaad aaya
 
   5
-  Matam karain gay matam karain gay
-  Har dam karian gay pehlay se ziada
-  Roz-e-jaza bhi matam karain gay
-  Bibi hamara tujh se hay wada
+  Maula Naqi ka maatam bapa hai
+  Farsh-e-aza par shor o faghaaṅ hai
+  Hasanain o Haidar Zehra o Zainab
+  Aaye hue haiṅ lene ko pursa
+
+  6
+  Maula Naqi ka maatam kareṅ ge
+  Karte raheṅ ge pehle se ziyaada
+  Ham Samara meiṅ maatam kareṅ ge
+  Maula hamaara tum se hai waada
+
+  7
+  Apni sawaari unka safina
+  Jo hukm-e-Rab se Nuh ne banaaya
+  Jin par nigaaheṅ haiṅ Panjtan ki
+  Khuṅ se jise ham ne hai sajaaya
+
+  8
+  Gar barq karke tufaan barse
+  Ya phir Yazidi hazyaan barse
+  Sab kuch mite ga maatam rahe ga
+  Sun le zamaana apna ye daawa
+
+  9
+  Maatam kareṅ ge maatam kareṅ ge
+  Har dam kareṅ ge pehle se ziyaada
+  Roz-e-jaza bhi maatam kareṅ ge
+  Bibi hamaara tum se hai waada
+
+  10
+  Sarwar ki majlis ghar khar meiṅ ho gi
+  Duniya meiṅ ho gi mahshar meiṅ ho gi
+  Ye farsh-e-majlis ye bazm-e-maatam
+  Hai maujiza Zehra ki dua ka
+
+  11
+  Tum zulm kar lo, tum jabr kar lo
+  Ham sab ko chaahe, tum qatl kar do
+  Qaaim rahe gi mahfil-e-aza ki
+  Ajr-e-risaalat ka hai taqaaza
+
+  12
+  Rizwaaṅ likheṅ ge Naasir parheṅ ge
+  Ham shah ka maatam mil kar kareṅ ge
+  Ahl-e-aza bhi sab ye kaheṅ ge
+  Maah-e-Muharram hai maah-e-girya
 ---
 
 ۱

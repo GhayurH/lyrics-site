@@ -8,153 +8,86 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Baba Baba Hussain Nadeem Sarwar"
-romanLyrics: 'Baba Baba Hussain
-
+alternateTitle: "Baba Baba Husain Nadeem Sarwar"
+romanLyrics: |-
+  Baba baba Husain
 
   1
-
-  Hussaina x16
-
-  Sham-e-Ghareebaan Alamaan
-
-  Pheylaa Hua Har Soo Dhuwaan
-
-  Nouha Kunaan Syedaniyaan
-
-  Ghash Main Para Ik Natawaan
-
-  Piyaasi Sakina Nouha Khuwaan
-
+  Shaam-e-Gharibaaṅ alamaaṅ
+  Phaila hua har su dhuaaṅ
+  Noha kunaaṅ Saiyidaaniyaaṅ
+  Ghash mein para ik natawaaṅ
+  Pyaasi Sakina noha khwaaṅ
 
   2
-
-  Sakina Ki Aati Thi Sada
-
+  Sakina ki aati thi sada
 
   3
-
-  Hussaina
-
-  Jaltey Huey Khaimey Idhar
-
-  Laashey Taraptey They Udhar
-
-  Karbobala Ki Khaak Per
-
-  Boli Sakina Rakh Ke Sar
-
-  Baba Suno Meri Fughaan
-
+  Husaina
+  Jale hue khaime idhar
+  Laashe tarapte the udhar
+  Karb o Bala ki khaak par
+  Boli Sakina rakh ke sar
+  Baba suno meri fughaan
 
   4
-
-  Hussaina
-
-  Baagh-e-Nabbi Taaraaj Hai
-
-  Sholon Ka Har Soo Raaj Hai
-
-  Haaye Kafan Ke Waastey
-
-  Baba Mera Mohtaaj Hai
-
-  Kitna Bara Hai Imtehaan
-
+  Husaina
+  Baagh-e-Nabi taaraaj hai
+  Sholoṅ ka har su raaj hai
+  Haaye kafan ke waaste
+  Baba mera mohtaaj hai
+  Kitna bara hai imtihaaṅ
 
   5
-
-  Hussaina
-
-  Shaam-e-Masaayeb Aa Gaai
-
-  Aandhi Ghamon Ki Chhaa Gaai
-
-  Main Jaanib-e-Darya Gaai
-
-  Laash-e-Chacha Tharra Gaai
-
-  Kaanon Se Khoon Dekha Rawaan
-
+  Husaina
+  Shaam-e-Masaaib aa gai
+  Aandhi ghamoṅ ki chhaa gai
+  Main jaanib-e-darya gai
+  Laash-e-chacha tharra gai
+  Kaanoṅ se khuṅ dekha rawaaṅ
 
   6
-
-  Hussaina
-
-  Rukhsaar Neeley Ho Gaaye
-
-  Itney Tamanchey Hain Lagey
-
-  Baba Khuda Key Wastey
-
-  Mujh Ko Laga Lo Seeney Se
-
-  Dukhti Hain Meri Pasliyaan
-
+  Husaina
+  Rukhsaar nile ho gaye
+  Itne tamaanche haiṅ lage
+  Baba Khuda ke waaste
+  Mujh ko laga lo sine se
+  Dukhti haiṅ meri pasliyaaṅ
 
   7
-
-  Hussaina
-
-  Tapti Zameen Jalti Hawa
-
-  Aey Maqtal-e-Karb O Bala
-
-  Ik Dopehar Main Kia Hua
-
-  Loota Gaya Kunba Mera
-
-  Chaader Naa Sar Pe Saayebaan
-
+  Husaina
+  Tapti zamiṅ jalti hawa
+  Ae maqtal-e-Karb o Bala
+  Ik dopahar mein kya hua
+  Luta gaya kunba mera
+  Chaadar na sar pe saaibaaṅ
 
   8
-
-  Hussaina
-
-  Ik Reesmaan Baraah Galey
-
-  Kuch Iss Tarha Baandhey Gaye
-
-  Har Aati Jaati Saans Bhi
-
-  Jaisey Koi Khanjer Chaley
-
-  Nazuk Galey Main Reesmaan
-
+  Husaina
+  Ik rismaaṅ baarah gale
+  Kuchh is tarah baandhe gaye
+  Har aati jaati saans bhi
+  Jaise koi khanjar chale
+  Naazuk gale mein rismaaṅ
 
   9
-
-  Hussaina
-
-  Rassi Main Baba Bandh Gaye
-
-  Taza Sitam Honey Ko Hai
-
-  Zanjeer Laaye Ashqiyaa
-
-  Bimaar Abid Ke Liye
-
-  Pehna Rahey Hain Beyriyaan
-
+  Husaina
+  Rassi mein baba bandh gaye
+  Taaza sitam ham ko hai
+  Zanjir laaye ashqiyaa
+  Bimaar Aabid ke liye
+  Pehna rahe haiṅ beriyaaṅ
 
   10
-
-  Hussaina
-
-  Kia Sarwar O Rehan Ham
-
-  Batlaayen Roodaad-e-Sitam
-
-  Nazuk Sey Dil Key Ranj O Gham
-
-  Kehti Rahi Wo Dam Badam
-
-  Ab Tum Kahan Aur Ham Kahan
-
+  Husaina
+  Kya Sarwar o Rehaan ham
+  Batlaaeṅ rudaad-e-sitam
+  Naazuk se dil ki ranj o gham
+  Kehti rahi wo dam badam
+  Ab tum kahaaṅ aur ham kahaaṅ
 
   11
-
-  Hussaina x13'
+  Husaina
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

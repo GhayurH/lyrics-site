@@ -1,95 +1,179 @@
 ---
-title: "Mere Haider Ki Baat Alag Hai Syed Raza Abbas Lyrics 2022"
+title: "میرے حیدر کی بات الگ ہے"
+alternateTitle: "Mere Haider Ki Baat Alag Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mere Haider ki baat alag hai Syed Raza Abbas Zaidi
+  Kab main kehta hoon Ali mujh ko Khuda lagta hai
+  Phir bhi dunya ko mera ishq bura lagta hai
+  Main ne bas itna kaha Bad-e-Khuda Bad-e-Nabi
+
+  2
+  Haan mera Maula Ali sab se juda lagta hai
+  Haan mera naaz hai yeh mera humraz hai yeh
+  Iss ki khilqat pe Khuda kehne laga
+  Mere Haider ki baat alag hai
+
+  3
+  Mariyam ko Bait Al-Maqadas se bahir bhaija tha jab Kibriya ne
+  Yeh ghar wiladat ka markaz nahi hai jao yeh bola Khuda ne
+  Aayi jab tera Rajab khud yeh kehne laga Rab
+  Aaiye Bint-e-Asad Salay Ala
+
+  4
+  Pohanchay jo mairaj par Mustafa tu parday se aawaz aayi
+  Aye mere mehboob meri muhabbat tum ko yahan khainch layi
+  Jab woh aawaz suni aa gaye yaad Ali
+  Thi Muhammad ke labon par yeh sada
+
+  5
+  Mera dil kya meri dharkan ki tamana hai Ali
+  Jo meri soch se bala hai woh Maula hai Ali
+  Sab se aala hai nirala hai misali hai Ali
+  Jis ka Abbas hai beta woh jalali hai Ali
+
+  6
+  Koi be zar jo chala aaye tu Abuzar kar de
+  De jo parwaz tu Shahbaz Qalandar kar de
+  Kab main kehta hoon keh Salman bana de Maula
+  Keh do Meesum se mujhe ishq sikha de Maula
+
+  7
+  Chahe kat jaye zabaan ruk na paye yeh azaan
+  Daar par doon yeh sada
+  Yeh Zulfiqar-e-Ali janti hai chalna hai kis par kahan se
+  Marhab ka sar katne ke liye jab Haider ne khaincha maiyaan se
+
+  8
+  Chom kar Dast-e-Jali bool uthi Taig-e-Ali
+  Aaj aaye ga katayi ka maza
+  Khaybar se jab aaye Shair-e-Khuda tu Zahra se talwar boli
+  Aisay kalai chalai Ali ne maidan mein aye saheli
+
+  9
+  Sar se Marhab ke chali farsh par aa ke ruki
+  Kaat ke oss ka badan main ne kaha
+  Man Kuntu Maula ka ayelan sun kar chilla ke Haris yeh bola
+  Mujh par Azab-e-Khuda aa paray ga hai yeh Ali sab ka Maula
+
+  10
+  Sar pe kankar jo laga aayi Haris ko qaza
+  Jitnay munkir they unhein kehna para
+  Bolay Muhammad ke Salman jao our sab ko paband kardo
+  Jitnay bhi darwazay masjid ke andar khultay hain sab band kardo
+
+  11
+  Yeh bhi keh dena zara hai yehi Hukam-e-Khuda
+  Band na hoga Dar-e-Shair-e-Khuda
+  Jab hoi Jang-e-Ohad keh ke Allah madad pohanchay maidaan mein Muhammad tu yeh lashkar se kaha
+  Jao sab apni jagah our suno hukam mera jab talak main na kahon chorna mat apni jagah
+
+  12
+  Yeh magar ho na saka jhota ayelan howa Mustafa marey gaye jab yeh lashkar ne suna
+  Bhool gaye apna sharf bhagay sab ghar ki taraf jab hoye tanha Nabi shair Khuda ka pohancha
+  Arsh se talwar chali bas yeh sada deti hoi La Fata Illa Ali phir Ali aisa laray
+  Ran mein dushman na rukay ghar jo bhagay they woh laute tu Muhammad ne kaha
+
+  13
+  Chori kyun tum ne jagah tu bhagoron ne kaha jan pyari thi yahan ruktay tu kha jati qaza
+  Bolay Haider se Nabi tum kyun gaye na Ali tu Ali kehne lagay jab sada aayi mujhe Mustafa marey gaye
+  Tu mere dil ne kaha aaj sab khatam howa jab Muhammad hi nahi jeene ka maqsad hi nahi
+  Sun ke yeh bolay Nabi wah kya kehne Ali phir bhagoron se Muhammad ne kaha
+
+  14
+  Ghazi ki chokhat pe baithay hoye they honton pe bas yeh dua thi
+  Aye Maula Abbas hum par karam ho midhat karein Murtaza ki
+  Abhi jari thi dua ho gayi hum pe atta
+  Mil ke kehne lagay Zeeshan-o- Raza
 ---
 
-1
-Mere Haider Ki Baat Alag Hai Syed Raza Abbas Zaidi
-Kab Main Kehta Hoon Ali Mujh Ko Khuda Lagta Hai.
-Phir Bhi Dunya Ko Mera Ishq Bura Lagta Hai.
-Main Ne Bas Itna Kaha Bad-e-Khuda Bad-e-Nabi.
+۱
+میرے حیدر کی بات الگ ہے سید رضا عباس زیدی
+کب میں کہتا ہوں علی مجھ کو خدا لگتا ہے
+پھر بھی دنیا کو میرا عشق برا لگتا ہے
+میں نے بس اتنا کہا بعدِ خدا بعدِ نبی
 
-2
-Haan Mera Maula Ali Sab Se Juda Lagta Hai.
-Haan Mera Naaz Hai Yeh Mera Humraz Hai Yeh.
-Iss Ki Khilqat Pe Khuda Kehne Laga.
-Mere Haider Ki Baat Alag Hai.
+۲
+ہاں میرا مولا علی سب سے جدا لگتا ہے
+ہاں میرا ناز ہے یہ میرا ہمراز ہے یہ
+اس کی خلقت پہ خدا کہنے لگا
+میرے حیدر کی بات الگ ہے
 
-3
-Mariyam Ko Bait Al-Maqadas Se Bahir Bhaija Tha Jab Kibriya Ne.
-Yeh Ghar Wiladat Ka Markaz Nahi Hai Jao Yeh Bola Khuda Ne.
-Aayi Jab Tera Rajab Khud Yeh Kehne Laga Rab.
-Aaiye Bint-e-Asad Salay Ala.
+۳
+مریم کو بیت المقدس سے باہر بھیجا تھا جب کبریا نے
+یہ گھر ولادت کا مرکز نہیں ہے جاؤ یہ بولا خدا نے
+آئی جب تیرہ رجب خود یہ کہنے لگا رب
+آئیے بنتِ اسد صلِّ علیٰ
 
-4
-Pohanchay Jo Mairaj Par Mustafa Tu Parday Se Aawaz Aayi.
-Aye Mere Mehboob Meri Muhabbat Tum Ko Yahan Khainch Layi.
-Jab Woh Aawaz Suni Aa Gaye Yaad Ali.
-Thi Muhammad Ke Labon Par Yeh Sada.
+۴
+پہنچے جو معراج پر مصطفیٰ تو پردے سے آواز آئی
+اے میرے محبوب میری محبت تم کو یہاں کھینچ لائی
+جب وہ آواز سنی آ گئے یاد علی
+تھی محمد کے لبوں پر یہ صدا
 
-5
-Mera Dil Kya Meri Dharkan Ki Tamana Hai Ali.
-Jo Meri Soch Se Bala Hai Woh Maula Hai Ali.
-Sab Se Aala Hai Nirala Hai Misali Hai Ali.
-Jis Ka Abbas Hai Beta Woh Jalali Hai Ali.
+۵
+میرا دل کیا میری دھڑکن کی تمنا ہے علی
+جو میری سوچ سے بالا ہے وہ مولا ہے علی
+سب سے اعلیٰ ہے نرالا ہے مثالی ہے علی
+جس کا عباس ہے بیٹا وہ جلالی ہے علی
 
-6
-Koi Be Zar Jo Chala Aaye Tu Abuzar Kar De.
-De Jo Parwaz Tu Shahbaz Qalandar Kar De.
-Kab Main Kehta Hoon Keh Salman Bana De Maula.
-Keh Do Meesum Se Mujhe Ishq Sikha De Maula.
+۶
+کوئی بے زر جو چلا آئے تو ابوذر کر دے
+دے جو پرواز تو شہباز قلندر کر دے
+کب میں کہتا ہوں کہ سلمان بنا دے مولا
+کہہ دو میثم سے مجھے عشق سکھا دے مولا
 
-7
-Chahe Kat Jaye Zabaan Ruk Na Paye Yeh Azaan.
-Daar Par Doon Yeh Sada.
-Yeh Zulfiqar-e-Ali Janti Hai Chalna Hai Kis Par Kahan Se.
-Marhab Ka Sar Katne Ke Liye Jab Haider Ne Khaincha Maiyaan Se.
+۷
+چاہے کٹ جائے زباں رک نہ پائے یہ اذاں
+دار پر دوں یہ صدا
+یہ ذوالفقارِ علی جانتی ہے چلنا ہے کس پر کہاں سے
+مرحب کا سر کاٹنے کے لیے جب حیدر نے کھینچا میان سے
 
-8
-Chom Kar Dast-e-Jali Bool Uthi Taig-e-Ali.
-Aaj Aaye Ga Katayi Ka Maza.
-Khaybar Se Jab Aaye Shair-e-Khuda Tu Zahra Se Talwar Boli.
-Aisay Kalai Chalai Ali Ne Maidan Mein Aye Saheli.
+۸
+چوم کر دستِ جلی بول اٹھی تیغِ علی
+آج آئے گا کٹائی کا مزا
+خیبر سے جب آئے شیرِ خدا تو زہرا سے تلوار بولی
+ایسے کلائی چلائی علی نے میدان میں اے سہیلی
 
-9
-Sar Se Marhab Ke Chali Farsh Par Aa Ke Ruki.
-Kaat Ke Oss Ka Badan Main Ne Kaha.
-Man Kuntu Maula Ka Ayelan Sun Kar Chilla Ke Haris Yeh Bola.
-Mujh Par Azab-e-Khuda Aa Paray Ga Hai Yeh Ali Sab Ka Maula.
+۹
+سر سے مرحب کے چلی فرش پر آ کے رکی
+کاٹ کے اس کا بدن میں نے کہا
+من کنت مولا کا اعلان سن کر چلّا کے حارث یہ بولا
+مجھ پر عذابِ خدا آ پڑے گا ہے یہ علی سب کا مولا
 
-10
-Sar Pe Kankar Jo Laga Aayi Haris Ko Qaza.
-Jitnay Munkir They Unhein Kehna Para.
-Bolay Muhammad Ke Salman Jao Our Sab Ko Paband Kardo.
-Jitnay Bhi Darwazay Masjid Ke Andar Khultay Hain Sab Band Kardo.
+۱۰
+سر پہ کنکر جو لگا آئی حارث کو قضا
+جتنے منکر تھے انہیں کہنا پڑا
+بولے محمد کہ سلمان جاؤ اور سب کو پابند کر دو
+جتنے بھی دروازے مسجد کے اندر کھلتے ہیں سب بند کر دو
 
-11
-Yeh Bhi Keh Dena Zara Hai Yehi Hukam-e-Khuda.
-Band Na Hoga Dar-e-Shair-e-Khuda.
-Jab Hoi Jang-e-Ohad Keh Ke ALLAH Madad Pohanchay Maidaan Mein Muhammad Tu Yeh Lashkar Se Kaha.
-Jao Sab Apni Jagah Our Suno Hukam Mera Jab Talak Main Na Kahon Chorna Mat Apni Jagah.
+۱۱
+یہ بھی کہہ دینا ذرا ہے یہی حکمِ خدا
+بند نہ ہوگا درِ شیرِ خدا
+جب ہوئی جنگِ احد کہہ کے اللہ مدد پہنچے میدان میں محمد تو یہ لشکر سے کہا
+جاؤ سب اپنی جگہ اور سنو حکم میرا جب تلک میں نہ کہوں چھوڑنا مت اپنی جگہ
 
-12
-Yeh Magar Ho Na Saka Jhota Ayelan Howa Mustafa Marey Gaye Jab Yeh Lashkar Ne Suna.
-Bhool Gaye Apna Sharf Bhagay Sab Ghar Ki Taraf Jab Hoye Tanha Nabi Shair Khuda Ka Pohancha.
-Arsh Se Talwar Chali Bas Yeh Sada Deti Hoi La Fata Illa Ali Phir Ali Aisa Laray.
-Ran Mein Dushman Na Rukay Ghar Jo Bhagay They Woh Laute Tu Muhammad Ne Kaha.
+۱۲
+یہ مگر ہو نہ سکا جھوٹا اعلان ہوا مصطفیٰ مارے گئے جب یہ لشکر نے سنا
+بھول گئے اپنا شرف بھاگے سب گھر کی طرف جب ہوئے تنہا نبی شیرِ خدا کا پہنچا
+عرش سے تلوار چلی بس یہ صدا دیتی ہوئی لا فتیٰ الا علی پھر علی ایسا لڑے
+رن میں دشمن نہ رکے گھر جو بھاگے تھے وہ لوٹے تو محمد نے کہا
 
-13
-Chori Kyun Tum Ne Jagah Tu Bhagoron Ne Kaha Jan Pyari Thi Yahan Ruktay Tu Kha Jati Qaza.
-Bolay Haider Se Nabi Tum Kyun Gaye Na Ali Tu Ali Kehne Lagay Jab Sada Aayi Mujhe Mustafa Marey Gaye.
-Tu Mere Dil Ne Kaha Aaj Sab Khatam Howa Jab Muhammad Hi Nahi Jeene Ka Maqsad Hi Nahi.
-Sun Ke Yeh Bolay Nabi Wah Kya Kehne Ali Phir Bhagoron Se Muhammad Ne Kaha.
+۱۳
+چھوڑی کیوں تم نے جگہ تو بھگوڑوں نے کہا جاں پیاری تھی یہاں رکتے تو کھا جاتی قضا
+بولے حیدر سے نبی تم کیوں گئے نہ علی تو علی کہنے لگے جب صدا آئی مجھے مصطفیٰ مارے گئے
+تو میرے دل نے کہا آج سب ختم ہوا جب محمد ہی نہیں جینے کا مقصد ہی نہیں
+سن کے یہ بولے نبی واہ کیا کہنے علی پھر بھگوڑوں سے محمد نے کہا
 
-14
-Ghazi Ki Chokhat Pe Baithay Hoye They Honton Pe Bas Yeh Dua Thi.
-Aye Maula Abbas Hum Par Karam Ho Midhat Karein Murtaza Ki.
-Abhi Jari Thi Dua Ho Gayi Hum Pe Atta.
-Mil Ke Kehne Lagay Zeeshan-o- Raza.
+۱۴
+غازی کی چوکھٹ پہ بیٹھے ہوئے تھے ہونٹوں پہ بس یہ دعا تھی
+اے مولا عباس ہم پر کرم ہو مدحت کریں مرتضیٰ کی
+ابھی جاری تھی دعا ہو گئی ہم پہ عطا
+مل کے کہنے لگے ذیشان و رضا

@@ -1,35 +1,60 @@
 ---
-title: "Wila Ka Rizq Muyassar Howa Salam Kaha"
+title: "ولا کا رزق میسر ہوا سلام کہا"
+alternateTitle: "Wila Ka Rizq Muyassar Howa Salam Kaha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Sahil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Wila ka rizq muyassar howa salam kaha
+  Yeh fakhar mera muqadar howa salam kaha
+  Ghazal ki shokh hadon se nikalna mushkil tha
+  Jo faiz-e-All-e-Payambar howa salam kaha
+
+  2
+  Jo mere zehan mein dhundla sa ik tasawar tha
+  Woh ashk dhalne se manzar howa salam kaha
+  Rasool zadi ne mujh par yeh ki meharbani
+  Gham-e-Hussain ka khogar howa salam kaha
+
+  3
+  Lagi jo piyas tu yad aye sare tishna dahan
+  Udas dil bhi sarasar howa salam kaha
+  Nazar mein Sham-e-Ghareeban ke naqsh jab ubhare
+  Main hizn-o-yaas ka paikar howa salam kaha
+
+  4
+  Bohat zarori tha saman-e-aakhrat ke liye
+  Dar-e-Abba ka gadagar howa salam kaha
+  Darood parh ke uthaya qalam ko jab Sahil
+  Tu lafz lafz moatar howa salam kaha
 ---
 
-1
-Wila Ka Rizq Muyassar Howa Salam Kaha.
-Yeh Fakhar Mera Muqadar Howa Salam Kaha.
-Ghazal Ki Shokh Hadon Se Nikalna Mushkil Tha.
-Jo Faiz-e-All-e-Payambar Howa Salam Kaha.
+۱
+ولا کا رزق میسر ہوا سلام کہا
+یہ فخر میرا مقدر ہوا سلام کہا
+غزل کی شوخ حدوں سے نکلنا مشکل تھا
+جو فیضِ آلِ پیمبر ہوا سلام کہا
 
-2
-Jo Mere Zehan Mein Dhundla Sa Ik Tasawar Tha.
-Woh Ashk Dhalne Se Manzar Howa Salam Kaha.
-Rasool Zadi Ne Mujh Par Yeh Ki Meharbani.
-Gham-e-Hussain Ka Khogar Howa Salam Kaha.
+۲
+جو میرے ذہن میں دھندلا سا اک تصور تھا
+وہ اشک ڈھلنے سے منظر ہوا سلام کہا
+رسول زادی نے مجھ پر یہ کی مہربانی
+غمِ حسین کا خوگر ہوا سلام کہا
 
-3
-Lagi Jo Piyas Tu Yad Aye Sare Tishna Dahan.
-Udas Dil Bhi Sarasar Howa Salam Kaha.
-Nazar Mein Sham-e-Ghareeban Ke Naqsh Jab Ubhare.
-Main Hizn-o-Yaas Ka Paikar Howa Salam Kaha.
+۳
+لگی جو پیاس تو یاد آئے سارے تشنہ دہن
+اداس دل بھی سراسر ہوا سلام کہا
+نظر میں شامِ غریباں کے نقش جب ابھرے
+میں حزن و یاس کا پیکر ہوا سلام کہا
 
-4
-BOhat Zarori Tha Saman-e-Aakhrat Ke Liye.
-Dar-e-Abba Ka Gadagar Howa Salam Kaha.
-Darood Parh Ke Uthaya Qalam Ko Jab Sahil.
-Tu Lafz Lafz Moatar Howa Salam Kaha.
+۴
+بہت ضروری تھا سامانِ آخرت کے لیے
+درِ عبا کا گداگر ہوا سلام کہا
+درود پڑھ کے اٹھایا قلم کو جب ساحل
+تو لفظ لفظ معطر ہوا سلام کہا

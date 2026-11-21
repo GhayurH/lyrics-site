@@ -32,7 +32,7 @@ romanLyrics: |-
 
   4
   Gulu-e-khushk pe khanjar bhi maiṅ ne dekha hai
-  Wahiṅ pe laasha-e-besar bhi maiṅ ne dekha hai
+  Wahiṅ pe laasha-e-be sar bhi maiṅ ne dekha hai
   Bataao kaise maiṅ Karbobala bhula duṅ gi
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
   Tumhaare waaste farsh-e-aza bichha duṅ gi
 
   8
-  Kalim tohfa-e-gham Haq ki pursadaari hai
+  Kalim tohfa-e-gham Haq ki pursa daari hai
   Jo qaum aaj bhi masruf-e-aah o zaari hai
   Use maiṅ saaya-e-rahmat meiṅ aasra duṅ gi
 ---

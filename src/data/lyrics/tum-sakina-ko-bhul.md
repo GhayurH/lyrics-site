@@ -15,19 +15,19 @@ romanLyrics: |-
   Jab rida betiyoṅ ko pehnaana
   Tum Sakina ko bhul na jaana
 
-  Jab bhi tohfe meiṅ baaliyaaṅ laana
+  Jab bhi tohfe mein baaliyaaṅ laana
   Tum Sakina ko bhul na jaana
 
   1
   Jab Muharram ki aathwiṅ aaye
-  Haaziri karna ghar meiṅ Ghaazi ki
+  Haaziri karna ghar mein Ghaazi ki
   Yaad kar lena pyaas bachchi ki
   Nazr paani pe jab bhi dilwaana
   Tum Sakina ko bhul na jaana
 
   2
   Bekafan baap ki wo beti hai
-  Khun bahra kurta hai kafan jis ka
+  Khun bahta hai kurta hi kafan jis ka
   Zaairoṅ waasta Sakina ka
   Karbala jaa ke jab kafan laana
   Tum Sakina ko bhul na jaana
@@ -35,8 +35,8 @@ romanLyrics: |-
   3
   Ik chhoti si mashk phir laa kar
   Tum sajaana alam pe Ghaazi ke
-  Dur na ho chacha bhatiji se
-  Jab bhi ghar meiṅ saje azaakhaana
+  Dur na ho chaacha bhatiji se
+  Jab bhi ghar mein saje azaakhaana
   Tum Sakina ko bhul na jaana
 
   4
@@ -48,22 +48,22 @@ romanLyrics: |-
 
   5
   Waqt-e-aakhir Sakina Bibi ne
-  Bas wasiyyat meiṅ ye kaha ro kar
+  Bas wasiyyat mein ye kaha ro kar
   Dekho zindaaṅ se rihaa ho kar
-  Bhaiya Sajjad jab watan jaana
+  Bhaiya Sajjaad jab watan jaana
   Tum Sakina ko bhul na jaana
 
   6
   Dekho darti hai ye andheroṅ se
-  Tha ye Umm-e-Rubab ka nauha
+  Tha ye Umm-e-Rubaab ka nauha
   Shaam ki auratoṅ karo waada
   Roz turbat pe ek diya laana
   Tum Sakina ko bhul na jaana
 
   7
-  Chhoti Zehra ka waasta Zishan
+  Chhoti Zehra ka waasta Zishaan
   Rad nahiṅ karte Shaah-e-Karb o Balaa
-  Dekho Irfan ka hai ye daawa
+  Dekho Irfaan ka hai ye daawa
   Apne daaman ko jab bhi phailaana
   Tum Sakina ko bhul na jaana
 ---

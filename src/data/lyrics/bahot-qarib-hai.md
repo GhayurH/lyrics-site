@@ -19,15 +19,15 @@ romanLyrics: |-
   Jise mitaaye zamaana use banaaye Husain
 
   2
-  Jo Aal-e-paak ke munkir haiṅ unko batla do
+  Jo aal-e-paak ke munkir haiṅ un ko batla do
   Ziya-e-din lab-e hai faqat ziya-e-Husain
 
   3
-  Na kuch jis ke berang jab nazar aaye
+  Na koch jis ke berang jab nazar aaye
   Wo zer-e-khanjar-e-qaatil bhi muskuraaye Husain
 
   4
-  Madad ko Shah ne pukaara tha jab dam-e-aakhir
+  Madad ko Shih ne pukaara tha jab dam-e-aakhir
   Fiza meiṅ gunj rahi hai wohi sada-e-Husain
 
   5
@@ -43,8 +43,8 @@ romanLyrics: |-
   Falak se aati hai aawaaz ab bhi aa ae Husain
 
   8
-  Siyah habakh hai ya kafir-e-muhabbat hai
-  Nazar muqarb pe jisne nahiṅ wilaaye Husain
+  Siyaah habaak hai ya kaafir-e-muhabbat hai
+  Nazar muqarrab pe jis ne nahiṅ wilaaye Husain
 ---
 بہت قریب ہے کوثر سے کربلائے حُسین
 وسیلہ حق کا کوئی نہیں سوائے حُسین

@@ -1,38 +1,65 @@
 ---
-title: "Mujhe Rasool Ki Tabeer E Khuwab Kehte Hain Ahmad Timsaal"
+title: "مجھے رسول کی تعبیرِ خواب کہتے ہیں احمد تمثال"
+alternateTitle: "Mujhe Rasool Ki Tabeer E Khuwab Kehte Hain Ahmad Timsaal"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ahmad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mujhe Rasool ki tabeer e khuwab kehte hain Ahmad Timsaal
+  Mujhe Batool ka pehla ghulab kehte hain
+
+  1
+  Ali ke baad Muhammad ka janasheen main hoon
+  Mujhe Hussain bhi aali janab kehte hain
+  Main Murtaza ka pisar hoon Batool zada hoon
+  Mujhi ko ibn e risalat maab kehte hain
+
+  2
+  Ziya-e-Haider-e-Karrar ka main waris hoon
+  Tamam noor mujhe aaftab kehte hain
+  Nisab e Karb-o-Bala likhne wala main hi hoon
+  Hussaini jang ko meri kitab kehte hain
+
+  3
+  Mera qalam nahi yeh Zulfiqar hai logo
+  Jissay adoye Khuda par azab kehte hain
+  Meri zabaan pe fasahat bhi naaz karti hai
+  Har aik lafz ko mere khitab kehte hain
+
+  4
+  Mera wajood hai tafseer-e-sorah-e-Kausar
+  Mujhe Khuda ka haseen intekhab kehte hain
+  Maza tu tab hai teri shayari ka aye Ahmad
+  Imam keh dein bohat la jawab kehte hain
 ---
 
-Mujhe Rasool Ki Tabeer e Khuwab Kehte Hain Ahmad Timsaal.
-Mujhe Batool Ka Pehla Ghulab Kehte Hain.
+مجھے رسول کی تعبیرِ خواب کہتے ہیں احمد تمثال
+مجھے بتول کا پہلا گلاب کہتے ہیں
 
-1
-Ali Ke Baad Muhammad Ka Janasheen Main Hoon.
-Mujhe Hussain Bhi Aali Janab Kehte Hain.
-Main Murtaza Ka Pisar Hoon Batool Zada Hoon.
-Mujhi Ko Ibn e Risalat Maab Kehte Hain.
+۱
+علی کے بعد محمد کا جانشین میں ہوں
+مجھے حسین بھی عالی جناب کہتے ہیں
+میں مرتضیٰ کا پسر ہوں بتول زادہ ہوں
+مجھ ہی کو ابنِ رسالت مآب کہتے ہیں
 
-2
-Ziya-e-Haider-e-Karrar Ka Main Waris Hoon.
-Tamam Noor Mujhe Aaftab Kehte Hain.
-Nisab e Karb-o-Bala Likhne Wala Main Hi Hoon.
-Hussaini Jang Ko Meri Kitab Kehte Hain.
+۲
+ضیائے حیدرِ کرار کا میں وارث ہوں
+تمام نور مجھے آفتاب کہتے ہیں
+نصابِ کرب و بلا لکھنے والا میں ہی ہوں
+حسینی جنگ کو میری کتاب کہتے ہیں
 
-3
-Mera Qalam Nahi Yeh Zulfiqar Hai Logo.
-Jissay Adoye Khuda Par Azab Kehte Hain.
-Meri Zabaan Pe Fasahat Bhi Naaz Karti Hai.
-Har Aik Lafz Ko Mere Khitab Kehte Hain.
+۳
+میرا قلم نہیں یہ ذوالفقار ہے لوگو
+جسے عدوئے خدا پر عذاب کہتے ہیں
+میری زبان پہ فصاحت بھی ناز کرتی ہے
+ہر ایک لفظ کو میرے خطاب کہتے ہیں
 
-4
-Mera Wajood Hai Tafseer-e-Sorah-e-Kausar.
-Mujhe Khuda Ka Haseen Intekhab Kehte Hain.
-Maza Tu Tab Hai Teri Shayari Ka Aye Ahmad.
-Imam Keh Dein Bohat La Jawab Kehte Hain.
+۴
+میرا وجود ہے تفسیرِ سورۂ کوثر
+مجھے خدا کا حسین انتخاب کہتے ہیں
+مزہ تو تب ہے تیری شاعری کا اے احمد
+امام کہہ دیں بہت لاجواب کہتے ہیں

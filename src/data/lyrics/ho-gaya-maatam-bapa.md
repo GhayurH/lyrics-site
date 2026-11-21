@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Jibril ke lab par hai yehi bain hai maatam
   Ae logoṅ karo Haidar-e-Karraar ka maatam
-  Marqad meiṅ buka karti hai Masuma-e-aalam
+  Marqad mein buka karti hai Masuma-e-aalam
   Zainab ye buka karti haiṅ laachaar huṅ beham
   Sab bibiyaṅ ghash khaate haiṅ gham se
   Fizza ke laboṅ par ye sada
@@ -27,15 +27,15 @@ romanLyrics: |-
   2
   Pahunchi ye sada arsh-e-ula se zamin par
   Shabbir se Shabbar ne kaha haaye baraadar
-  Taaza hai kaleje meiṅ abhi furqat-e-maadar
+  Taaza hai kaleje mein abhi furqat-e-maadar
   Lo baap ka saaya bhi utha haaye muqaddar
   Aawaaz hai ye Karbobala ka
   Dil roke yehi kehne laga
 
   3
-  Dete haiṅ sada masjid-e-Kufa meiṅ namaazi
+  Dete haiṅ sada masjid-e-Kufa mein namaazi
   Lo ham se juda hota hai kaunain ka ghaazi
-  Zakhmi hui sajde meiṅ jabiṅ Sher-e-Khuda ki
+  Zakhmi hui sajde mein jabiṅ Sher-e-Khuda ki
   Kaaba bhi buka karta tha mehraab-e-azaaṅ bhi
   Har ek namaazi ki buka hai
   Ye koh-e-alam ham pe gira
@@ -57,24 +57,24 @@ romanLyrics: |-
   Hoti hai mere dil pe jafa
 
   6
-  Alqissa juṅhi laal pisar zakhmi padar ko
+  Alqissa junhi laal pisar zakhmi padar ko
   Sarwar ne kaha Zainab o Kulsum se aao
-  Tar khun meiṅ baba ki jabiṅ hoti hai dekho
+  Tar khun mein baba ki jabiṅ hoti hai dekho
   Faryaad behan karne lagi thaam ke dil ko
-  Kya daagh-e-yatimi maiṅ sahuṅgi
+  Kya daagh-e-yatimi main sahuṅgi
   Ye gham hai qayaamat se bara
 
   7
   Jarraah ko bulwaao ye Sarwar ke sukhan the
   Wo aa ke mere baba ke is zakhm ko dekhe
-  Thi zehr meiṅ dubi hui talwaar suna hai
+  Thi zehr mein dubi hui talwaar suna hai
   Ye zehr kahiṅ daagh-e-yatimi na dikha de
   Jarraah ne jab zakhm ko dekha
   Sar pit ke karta tha buka
 
   8
   Ikkiswiṅ Ramzaan qayaamat ki sahar thi
-  Kufe meiṅ sada guṅj uthi haaye Ali ki
+  Kufe mein sada gunj uthi haaye Ali ki
   Ghash khaane lagi gham se Yadullah ki beti
   Betoṅ ne janaaze ko utha kar ye buka ki
   Ab kaun raha sar pe hamaare
@@ -82,7 +82,7 @@ romanLyrics: |-
 
   9
   Mazhar wo masaaib to raqam ho nahiṅ sakte
-  Jo Haidar o Safdar ke maqatil meiṅ likha hai
+  Jo Haidar o Safdar ke maqaatil mein likha hai
   Ik samt se taabut uthaae the farishte
   Ik samt se betoṅ ne uthaaya tha ye keh ke
   Is gham ka mudaawa nahiṅ koi

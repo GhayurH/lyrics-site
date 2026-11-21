@@ -1,47 +1,84 @@
 ---
-title: "Hussain Rotay Rahey Sadaf Manzar Zaidi"
+title: "حسین روتے رہے صدف منظر زیدی"
+alternateTitle: "Hussain Rotay Rahey Sadaf Manzar Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hussain rotay rahey Sadaf Manzar Zaidi
+  Watan se qafila le kar chaley jo Karb-o-Bala Hussain rotay rahe
+  Choraya zalimo ne unn se shehar nana ka Hussain rotay rahe
+  Wida hone jo madar ki qabar par aaye
+
+  2
+  Pukarey maa tere betay ne kaisay dukh paye
+  Bichar raha hai teri qabar se tera beta Hussain rotay rahe
+  Ghareeb-e-Zahra jonhi Karbala mein aa pohanchay
+  They sath bhai bhatijay-o-bibiyaan bachay
+
+  3
+  Har ik ka dekh ke hasrat se dukh bhara chehra Hussain rotay rahe
+  Nabi ki aal pe zulm-o-sitam ki had youn hoi
+  Woh pe na saktay they haye Furat ka pani
+  Tarap ke mangta tha pani jab koi pyasa Hussain rotay rahe
+
+  4
+  Nazar ke samne pyaray shaheed hotey rahe
+  Hussain pyaron ke lashay utha ke latay rahe
+  Zameen pe dekh ke khoon girta janisaron ka Hussain rotay rahe
+  Uthaye dasht se Qasim ki lash ke tukray
+
+  5
+  Lagaye seene se Abbas ke bhi bazu katay
+  Jawan betay ka barchi se kat gaya seena Hussain rotay rahe
+  Yeh ro ke kehti thin Zainab hai phatta dil mera
+  Raha na baqi koi waqt-e-asar bhai tera
+
+  6
+  Behan jo kehti thi bhai tum ho gaye tanha Hussain rotay rahe
+  Tamam bibiyaan thin gard-e-sheh Asad-o-Sadaf
+  Pukarti thin keh aaein madad ko shah-e-Najaf
+  Jo waqt bibiyon se aaya sheh ki rukhsat ka Hussain rotay rahe
 ---
 
-1
-Hussain Rotay Rahey Sadaf Manzar Zaidi.
-Watan Se Qafila Le Kar Chaley Jo Karb-o-Bala Hussain Rotay Rahe.
-Choraya Zalimo Ne Unn Se Shehar Nana Ka Hussain Rotay Rahe.
-Wida Hone Jo Madar Ki Qabar Par Aaye.
+۱
+حسین روتے رہے صدف منظر زیدی
+وطن سے قافلہ لے کر چلے جو کرب و بلا حسین روتے رہے
+چھڑایا ظالموں نے ان سے شہر نانا کا حسین روتے رہے
+وداع ہونے جو مادر کی قبر پر آئے
 
-2
-Pukarey Maa Tere Betay Ne Kaisay Dukh Paye.
-Bichar Raha Hai Teri Qabar Se Tera Beta Hussain Rotay Rahe.
-Ghareeb-e-Zahra Jonhi Karbala Mein Aa Pohanchay.
-They Sath Bhai Bhatijay-o-Bibiyaan Bachay.
+۲
+پکارے ماں تیرے بیٹے نے کیسے دکھ پائے
+بچھڑ رہا ہے تیری قبر سے تیرا بیٹا حسین روتے رہے
+غریبِ زہرا جونہی کربلا میں آ پہنچے
+تھے ساتھ بھائی بھتیجے و بیبیاں بچے
 
-3
-Har Ik Ka Dekh Ke Hasrat Se Dukh BhAra Chehra Hussain Rotay Rahe.
-Nabi Ki Aal Pe Zulm-o-Sitam Ki Had Youn Hoi.
-Woh Pe Na Saktay They Haye Furat Ka Pani.
-Tarap Ke Mangta Tha Pani Jab Koi Pyasa Hussain Rotay Rahe.
+۳
+ہر اک کا دیکھ کے حسرت سے دکھ بھرا چہرہ حسین روتے رہے
+نبی کی آل پہ ظلم و ستم کی حد یوں ہوئی
+وہ پی نہ سکتے تھے ہائے فرات کا پانی
+تڑپ کے مانگتا تھا پانی جب کوئی پیاسا حسین روتے رہے
 
-4
-Nazar Ke Samne Pyaray Shaheed Hotey Rahe.
-Hussain Pyaron Ke Lashay Utha Ke Latay Rahe.
-Zameen Pe Dekh Ke Khoon Girta Janisaron Ka Hussain Rotay Rahe.
-Uthaye Dasht Se Qasim Ki Lash Ke Tukray.
+۴
+نظر کے سامنے پیارے شہید ہوتے رہے
+حسین پیاروں کے لاشے اٹھا کے لاتے رہے
+زمین پہ دیکھ کے خون گرتا جانثاروں کا حسین روتے رہے
+اٹھائے دشت سے قاسم کی لاش کے ٹکڑے
 
-5
-Lagaye Seene Se Abbas Ke Bhi Bazu Katay.
-Jawan Betay Ka Barchi Se Kat Gaya Seena Hussain Rotay Rahe.
-Yeh Ro Ke Kehti Thin Zainab Hai Phatta Dil Mera.
-Raha Na Baqi Koi Waqt-e-Asar Bhai Tera.
+۵
+لگائے سینے سے عباس کے بھی بازو کٹے
+جواں بیٹے کا برچھی سے کٹ گیا سینہ حسین روتے رہے
+یہ رو کے کہتی تھیں زینب ہے پھٹتا دل میرا
+رہا نہ باقی کوئی وقتِ عصر بھائی تیرا
 
-6
-Behan Jo Kehti Thi Bhai Tum Ho Gaye Tanha Hussain Rotay Rahe.
-Tamam Bibiyaan Thin Gard-e-Sheh Asad-o- Sadaf.
-Pukarti Thin Keh Aaein Madad Ko Shah-e-Najaf.
-Jo Waqt Bibiyon Se Aaya Sheh Ki Rukhsat Ka Hussain Rotay Rahe.
+۶
+بہن جو کہتی تھی بھائی تم ہو گئے تنہا حسین روتے رہے
+تمام بیبیاں تھیں گردِ شہ اسد و صدف
+پکارتی تھیں کہ آئیں مدد کو شاہِ نجف
+جو وقت بیبیوں سے آیا شہ کی رخصت کا حسین روتے رہے

@@ -1,50 +1,90 @@
 ---
-title: "Waqt Yeh Teri Sakina Pay Hassan Ali"
+title: "وقت یہ تیری سکینہ پہ حسن علی"
+alternateTitle: "Waqt Yeh Teri Sakina Pay Hassan Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Waqt yeh teri Sakina pe hai kaisa Baba
+  Mere hathoon pe kata sar hai tumhara Baba
+
+  1
+  Aap ke khon se rangeen hai zameen-e-maqtal
+  Tar marey khon se hai Sham ka rasta Baba
+  Qaid khane mein tumhein dekh ke youn lagta hai
+  Aaj ho jaye gi aazad Sakina Baba
+
+  2
+  Habs hai our andhera bhi hai tanhai bhi
+  Ab mujhe chor ke jana na khudara Baba
+  Oss parti hai kabhi dhop jalati hai kabhi
+  Hum pe karti nahi dewarein bhi saya Baba
+
+  3
+  Maut aa jati mujhe maut se pehle aye kash
+  Sar-e-Asghar na main takti sar-e-naiza Baba
+  Pyas ki aakhri manzil pe khari hoon shayad
+  Jism ka gausht bhi hota hai alehdah Baba
+
+  4
+  Khon mein doob ke bhi main nahi chupney doon gi
+  Aap ka khon mein doba howa sajdah Baba
+  Main hoon sadaat ki ghairat hai watan door bohat
+  Kaisay dafnaye ga Abid mera lasha Baba
+
+  5
+  Jab azaan hoti thi bazar mein sar pe apne
+  Hath rakh rakh ke banati thi main pardah Baba
+  Dekhti thi bari hasrat se soye nehar-e-Furat
+  Jab bhi lagta tha Sakina ko tamacha Baba
+
+  6
+  Aapke bhai ka sar ghorey ki gardan mein tha
+  Our marey bhai ka tha naizay pe lasha Baba
+  Aakhri bain tha Muhsin yehi shehzadi ka
+  Kash Ammo nahi jate soye darya Baba
 ---
 
-Waqt Yeh Teri Sakina Pe Hai Kaisa Baba.
-Mere Hathoon Pe Kata Sar Hai Tumhara Baba.
+وقت یہ تیری سکینہ پہ ہے کیسا بابا
+میرے ہاتھوں پہ کٹا سر ہے تمہارا بابا
 
-1
-Aap Ke Khon Se Rangeen Hai Zameen-e-Maqtal.
-Tar Marey Khon Se Hai Sham Ka Rasta Baba.
-Qaid Khane Mein Tumhein Dekh Ke Youn Lagta Hai.
-Aaj Ho Jaye Gi Aazad Sakina Baba.
+۱
+آپ کے خون سے رنگین ہے زمینِ مقتل
+تر مرے خون سے ہے شام کا راستہ بابا
+قید خانے میں تمہیں دیکھ کے یوں لگتا ہے
+آج ہو جائے گی آزاد سکینہ بابا
 
-2
-Habs Hai Our Andhera Bhi Hai Tanhai Bhi.
-Ab Mujhe Chor Ke Jana Na Khudara Baba.
-Oss Parti Hai Kabhi Dhop Jalati Hai Kabhi.
-Hum Pe Karti Nahi Dewarein Bhi Saya Baba.
+۲
+حبس ہے اور اندھیرا بھی ہے تنہائی بھی
+اب مجھے چھوڑ کے جانا نہ خدارا بابا
+اوس پڑتی ہے کبھی دھوپ جلاتی ہے کبھی
+ہم پہ کرتی نہیں دیواریں بھی سایہ بابا
 
-3
-Maut Aa Jati Mujhe Maut Se Pehle Aye Kash.
-Sar-e-Asghar Na Main Takti Sar-e-Naiza Baba.
-Pyas Ki Aakhri Manzil Pe Khari Hoon Shayad.
-Jism Ka Gausht Bhi Hota Hai Alehdah Baba.
+۳
+موت آ جاتی مجھے موت سے پہلے اے کاش
+سرِ اصغر نہ میں تکتی سرِ نیزہ بابا
+پیاس کی آخری منزل پہ کھڑی ہوں شاید
+جسم کا گوشت بھی ہوتا ہے علیحدہ بابا
 
-4
-Khon Mein Doob Ke Bhi Main Nahi Chupney Doon Gi.
-Aap Ka Khon Mein Doba Howa Sajdah Baba.
-Main Hoon Sadaat Ki Ghairat Hai Watan Door Bohat.
-Kaisay Dafnaye Ga Abid Mera Lasha Baba.
+۴
+خون میں ڈوب کے بھی میں نہیں چھپنے دوں گی
+آپ کا خون میں ڈوبا ہوا سجدہ بابا
+میں ہوں سادات کی غیرت ہے وطن دور بہت
+کیسے دفنائے گا عابد میرا لاشہ بابا
 
-5
-Jab Azaan Hoti Thi Bazar Mein Sar Pe Apne.
-Hath Rakh Rakh Ke Banati Thi Main Pardah Baba.
-Dekhti Thi Bari Hasrat Se Soye Nehar-e-Furat.
-Jab Bhi Lagta Tha Sakina Ko Tamacha Baba.
+۵
+جب اذان ہوتی تھی بازار میں سر پہ اپنے
+ہاتھ رکھ رکھ کے بناتی تھی میں پردہ بابا
+دیکھتی تھی بڑی حسرت سے سوئے نہرِ فرات
+جب بھی لگتا تھا سکینہ کو طمانچہ بابا
 
-6
-Aapke Bhai Ka Sar Ghorey Ki Gardan Mein Tha.
-Our Marey Bhai Ka Tha Naizay Pe Lasha Baba.
-Aakhri Bain Tha Muhsin Yehi Shehzadi Ka.
-Kash Ammo Nahi Jate Soye Darya Baba.
+۶
+آپ کے بھائی کا سر گھوڑے کی گردن میں تھا
+اور مرے بھائی کا تھا نیزے پہ لاشہ بابا
+آخری بین تھا محسن یہی شہزادی کا
+کاش عمو نہیں جاتے سوئے دریا بابا

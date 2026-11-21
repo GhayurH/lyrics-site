@@ -1,5 +1,6 @@
 ---
 title: "حسینؑ زندہ باد"
+alternateTitle: "Husain Zindabaad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,73 +10,112 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Husain Zindabad
-
   1
-  1) Khuda ka paak ka pyaaraa Husain zindabad.
-  Nabi ki ankho ka tara Husain zindabad.
-  Dile batool ka paraa Husain zindabad.
-  Ali ka raj gulara (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  Kaho ye milke hamara Husain zindabad (Husain Zindabad)
-  2) Amire shehr shahadat hai tera naam Husain.
-  Tuji pe behja hai islam me salaam Husain.
-  Hai tere hato me konain ka nizaam Husain.
-  Suna jo noke sina par (tera kalaam Husain)
-  Pukaa utha ye nazaara (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  3) Kiya hai pani tere ghawsalo ne pathar ko.
-  Shikast di hai teri pyaas ne samandar ko.
-  Fana ke kabr me dafna kiya sikandar ko.
-  Ulat ke rakhdiya tune (har ek manzar ko)
-  Hakikato ko ubharaa (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  4) Kayaar shab pe ujalo ne hukmaraani ki.
-  Jale diye to hawo ne paas pani ki.
-  Mili zaif ko ugrayi ya jawaani ki.
-  Zaban hogayi majbur (be zabaani ki)
-  Ye tera faiz he saraa (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  5) Payaame haq hai khuda ki kasam bayame Husain.
-  Har eik cheez hai konain ki ghulam Husain.
-  Wo mohtaram hai jo karta hai ehtaram Husain.
-  Aghar yazid se lena hai (intikaam Husain)
-  Laghawo dhoop ye nara (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  6) Jo ghar lutaata hai usko Husain kehte hai.
-  Jo din bachaata hai usko Husain kehte hai.
-  Jo hurmalaata hai usko Husain kehte hai.
-  Jo jeet jaata hai (usko Husain kehte hai)
-  Shujaawo tone pukaraa (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  7) Baraaye jung ye laykar jo zulfikaar gaya.
-  Amir shaam ko beta ali ka haar gaya.
-  Kiya ye wakt ne aylaan ikhtidaar gaya.
-  Husain jit gaye or (yazid hargaya)
-  Khuda ka din pukaraa (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  8) Ali ka laal shahe mashrakayn zindaa hay.
-  Wo kalb fatema zehra ka cheyn zindaa hai.
-  Shabaab fate hai kadro hunain zindaa hai.
-  Yazid margayaa mera (Husain zinda hai)
-  Ye zindagi ka hai naraa (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  9) Ye tera dost bhi tera adoo bhi kehta hai.
-  Chiraag andhiyo ki rubaru bhi kehta hai.
-  Alam bhi tegh bhi chah dil gulu bhi kehta hai.
-  Nazar bhi fikr bhi dil bhi (lahu bhi kehta hai)
-  Jo katl hoke naharaa (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  10) Wafa ka samt tera gohar sada pasand rahe.
-  Nishan matame shabbir al jo band rahe.
-  Alam Husain ke lashkar ka sar baland rahe.
-  Yazid kabr ki gayrayiyo (me band rahe)
-  Dile Husain hamara (Husain zindabad)
-  11) Lagaye jaan ye nara (Husain zindabad)
-  Kaho ye milke dobara (Husain zindabad)
-  Laghawo dhoop ke nara (Husain zindabad)
-  Lagaye jaan ye nara (Husain zindabad)
-  Kaho ye milke dobara (Husain zindabad)
+  Khuda-e-paak ka pyaara Husain zindabaad
+  Nabi ki aankhoṅ ka taara Husain zindabaad
+  Dil-e-Batul ka paara Husain zindabaad
+  Ali ka raaj dulaara Husain zindabaad
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  2
+  Amir-e-shehr-e-shahaadat hai tera naam Husain
+  Tujhi pe bheja hai Islam ne salaam Husain
+  Hai tere haathoṅ mein kaunain ka nizaam Husain
+  Suna jo nok-e-sinaaṅ par tera kalaam Husain
+  Pukaar utha ye nazaara Husain zindabaad
+
+  3
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  4
+  Diya hai paani tere hausloṅ ne patthar ko
+  Shikast di hai teri pyaas ne samandar ko
+  Bana ki qabr mein dafna diya Sikandar ko
+  Ulat ke rakh diya tuṅ ne har ek manzar ko
+  Haqiqatoṅ ko ubhaara Husain zindabaad
+
+  5
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  6
+  Diyaar-e-shab pe ujaaloṅ ne hukmaraani ki
+  Jale diye to hawaaoṅ ne paasbaani ki
+  Mili zaifi to angraaiyaaṅ jawaani ki
+  Zabaan ho jaaye majbur bezabaani ki
+  Ye tera faiz hai saara Husain zindabaad
+
+  7
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  8
+  Payaam-e-haq hai Khuda ki qasam payaam-e-Husain
+  Har ek chiz hai kaunain ki ghulaami Husain
+  Wo mohtaram hai jo karta hai ehtaraam-e-Husain
+  Agar Yazid se lena hai intiqaam-e-Husain
+  Lagaao jhum ke naara Husain zindabaad
+
+  9
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  10
+  Jo ghar lutaata hai us ko Husain kehte haiṅ
+  Jo din bachaata hai us ko Husain kehte haiṅ
+  Jo Hur banaata hai us ko Husain kehte haiṅ
+  Jo jit jaata hai us ko Husain kehte haiṅ
+  Shujaaatoṅ ne pukaara Husain zindabaad
+
+  11
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  12
+  Baraa-e-jang ye le kar jo Zulfiqaar gaya
+  Amir-e-Shaam ko beta Ali ka maar gaya
+  Kiya ye waqt ne elaan-e-iqtidaar gaya
+  Husain jit gaye aur Yazid haar gaya
+  Khuda ka din pukaara Husain zindabaad
+
+  13
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  14
+  Ali ka laal shaah-e-mashriqain zinda hai
+  Wo qalb-e-Faatima Zehra ka chain zinda hai
+  Shabaab-e-faatih-e-Badr o Hunain zinda hai
+  Yazid mar gaya mera Husain zinda hai
+  Ye zindagi ka hai naara Husain zindabaad
+
+  15
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  16
+  Ye tera dost bhi tera adu bhi kehta hai
+  Chiraagh aandhiyoṅ ke ru ba ru bhi kehta hai
+  Alam bhi tegh bhi chaak-e-gulu bhi kehta hai
+  Nazar bhi fikr bhi dil bhi lahu bhi kehta hai
+  Jo qatl ho ke na haara Husain zindabaad
+
+  17
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
+
+  18
+  Wafa ka sam tera gauhar-e-sadaa pasand rahe
+  Nishaan-e-maatam-e-Shabbir arjuband rahe
+  Alam Husain ke lashkar ka sar buland rahe
+  Yazidi qabr ki gehraaiyoṅ mein band rahe
+  Dil-e-Husain hamaara Husain zindabaad
+
+  19
+  Lagaaye jaao ye naara Husain zindabaad
+  Kaho ye mil ke dobaara Husain zindabaad
 ---
 
 ۱

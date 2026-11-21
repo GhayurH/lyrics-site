@@ -9,58 +9,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sar e Hur par rumal e Zehra
-  Jis din se bandha dunya ne kaha
+  Sar-e-Hur par rumaal-e-Zehra
+  Jis din se bandha duniya ne kaha
   Khud Karb o bala ne di ye sada
   Ab hashr talak ye kehlaye ga
   Hur alaihis salam
 
   2
-  Kia waqt mila ae Hur tujh ko
-  Sab ahle qalam majbur hue
+  Kya bakht mila ae Hur tujh ko
+  Sab ahl-e-qalam majbur hue
   Jab naam tera kaghaz pe likha
-  Tere naam ke aage likhna parra
+  Tere naam ke aage likhna para
   Hur alaihis salam
 
   3
   Zainab ne kaha jab bhai tujhe
   Aur tujh ko chacha Akbar ne kaha
-  Yani ke shahdat se pehle
+  Yani ke shahaadat se pehle
   Tujh se ye laqab mansub hua
   Hur alaihis salam
 
   4
-  Rumal saja ke Zehra ka
-  Jab khuld may tu pohoncha ho ga
-  Jannat may kia ho ga sab ne
-  Ye keh kar istaqbal tera
+  Rumaal saja ke Zehra ka
+  Jab khuld mein tu pahuncha ho ga
+  Jannat mein kya ho ga sab ne
+  Ye keh kar istiqbaal tera
   Hur alaihis salam
 
   5
-  Shabbir ke lashkar may jo parrhi
-  Hur tu ne namaz-e-subha dahum
-  Tasbih ke danu se aayi
+  Shabbir ke lashkar mein jo parhi
+  Hur tu ne namaaz-e-subh dahum
+  Tasbih ke daanoṅ se aayi
   Hur tere liye bas aik sada
   Hur alaihis salam
 
   6
-  Maqtal se tera lasha le kar
+  Maqtal se tera laasha le kar
   Khun rote hue aaye Maula
-  Yuṅ ruyi tujhe bint-e-Zehra
-  Khud maut ko ban may kehna parra
+  Yuṅ roi tujhe bint-e-Zehra
+  Khud maut ko ban mein kehna para
   Hur alaihis salam
 
   7
-  Lashe pe haram the noha kunaa
+  Laashe pe haram the noha kuna
   Har simt sada thi wa waila
-  Nohon may magar shamil thi sada
+  Nohon mein magar shamil thi sada
   Baatil ko hara kar jit gaya
   Hur alaihis salam
 
   8
   Ihsan shanasi ne Mazhar
   Kirdar banaya hai Hur ka
-  Jab haq ka use Irfan hua
+  Jab haq ka use irfaan hua
   Har aik muarrikh ne ye likha
   Hur alaihis salam
 ---

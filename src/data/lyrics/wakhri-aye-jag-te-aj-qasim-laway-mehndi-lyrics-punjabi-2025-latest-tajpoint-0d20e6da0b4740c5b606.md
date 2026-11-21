@@ -1,29 +1,47 @@
 ---
-title: "Wakhri Aye Jag Te Aj Qasim Laway Mehndi Lyrics Punjabi 2025 Latest"
+title: "وکھری اے جگ تے اج قاسم لاوے مہندی"
+alternateTitle: "Wakhri Aye Jag Te Aj Qasim Laway Mehndi"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Wakhri aye jag te aj Qasim laway mehndi
+  Har pasay khak uddi aye kadi ainj na aaway mehndi
+  Qasim nu mehndi la ke phophiyaan ne wain paya aj veer yaad aaya
+  Jiwein sajai maa teri koi maa na sajaway mehndi
+
+  2
+  Chachay taun lay ijazat Qasim na khali aawein mera maan toon wadhawin
+  Akbar taun pehlaan Qasim di aj rang badlaway mehndi
+  Ghazi Qamar da zoor aye akhiyaan da noor Akbar main haan yateem hazir
+  De ke taweez chachay nu hath joor chupaway mehndi
+
+  3
+  Tera hujra e arosi matam di ja aye baniya dunya ne wain karna
+  Banray di lash de hath te na maa nu wakhway mehndi
+  Banri diyaan hathaan te mehndi da rang te rehna Farwa ne ro ke kehna
+  Bazar-e-Sham wich Najfi, Kubra nal jaway mehndi
 ---
 
-1
-Wakhri Aye Jag Te Aj Qasim Laway Mehndi.
-Har Pasay Khak Uddi Aye Kadi Ainj Na Aaway Mehndi.
-Qasim Nu Mehndi La Ke Phophiyaan Ne Wain Paya Aj Veer Yaad Aaya.
-Jiwein Sajai Maa Teri Koi Maa Na Sajaway Mehndi.
+۱
+وکھری اے جگ تے اج قاسم لاوے مہندی
+ہر پاسے خاک اُڈّی اے کدی اینج نہ آوے مہندی
+قاسم نوں مہندی لا کے پھپھیاں نے وین پایا اج ویر یاد آیا
+جیویں سجائی ماں تیری کوئی ماں نہ سجاوے مہندی
 
-2
-Chachay Taun Lay Ijazat Qasim Na Khali Aawein Mera Maan Toon Wadhawin.
-Akbar Taun Pehlaan Qasim Di Aj Rang Badlaway Mehndi.
-Ghazi Qamar Da Zoor Aye Akhiyaan Da Noor Akbar Main Haan Yateem Hazir.
-De Ke Taweez Chachay Nu Hath Joor Chupaway Mehndi.
+۲
+چاچے توں لے اجازت قاسم نہ خالی آویں میرا مان توں ودھاویں
+اکبر توں پہلاں قاسم دی اج رنگ بدلاوے مہندی
+غازی قمر دا زور اے اکھیاں دا نور اکبر میں ہاں یتیم حاضر
+دے کے تعویذ چاچے نوں ہتھ جوڑ چھپاوے مہندی
 
-3
-Tera Hujra e Arosi Matam Di Ja Aye Baniya Dunya Ne Wain Karna.
-Banray Di Lash De Hath Te Na Maa Nu Wakhway Mehndi.
-Banri Diyaan Hathaan Te Mehndi Da Rang Te Rehna Farwa Ne Ro Ke Kehna.
-Bazar-e-Sham Wich Najfi, Kubra Nal Jaway Mehndi.
+۳
+تیرا حجرۂ عروسی ماتم دی جا اے بنیا دنیا نے وین کرنا
+بنڑے دی لاش دے ہتھ تے نہ ماں نوں وکھوائے مہندی
+بنڑی دیاں ہتھاں تے مہندی دا رنگ تے رہنا فروا نے رو کے کہنا
+بازارِ شام وچ نجفی، کبریٰ نال جاوے مہندی

@@ -9,36 +9,50 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Babul hawaij Haider da laal ay Paykar wafa da mola Abbas ay
-  Zahra da sadqa sun lay duawan, Dukhiya di mola teray tay aas ay
+  Babul hawaij Haider da laal ae
 
   1
-  1) Teray alaam ton millni shifawana, Tu taliyan nay mola qazawan
-  Deway tu bachray mawan nu mola, Nahi taalda ay teri khuda ay
+  Paikar-e-wafa da Maula Abbas ae
+  Tere alam toṅ milni shifaawaaṅ
+  Tuṅ taaliyaaṅ niṅ Maula qazaawaaṅ
+  Deve tu bachre maawaaṅ nuṅ Maula
+  Naiṅ taalda ae teri khuda ae
 
   2
-  2) Teray tay raazi hay pakh Zahra, Mamnon teray imam barah
-  Manzoor kaarlay tu saab duawan Haar matami di teray tay aas ay
+  Tere te raazi ae paak Zahra
+  Mamnun tere imam baarah
+  Manzur kar le tu sab duaawaaṅ
+  Har maatami di tere te aas ae
 
   3
-  3) Mushkil khusha tu hajat rawa tu Vich Shaam Zainab day rahi sada tu
-  Aabad kar day haar khaali jholi Teray alam vich Asghar di pyaas ay
+  Mushkil kusha tuṅ haajat rawa tuṅ
+  Vich Shaam Zainab de rai sada tuṅ
+  Aabaad kar de har khaali jholi
+  Tere alam vich Asghar di pyaas ae
 
   4
-  4) Maqrooz jera vi hay molayi, Kar usdi mola mushkil kushayi
-  Sadqa Sakina da mola Ghazi Kaar mominah di hajat rawa ay
+  Maqruz jera vi ae maulaai
+  Kar usdi Maula mushkil kushaai
+  Sadqa Sakina da Maula Ghazi
+  Kar mominaaṅ di haajat rawa ae
 
   5
-  5) Hum shakal Haider doja Ali ay, Haider day vangon shair-e-jari ay
-  Tu kibriya ay mola wafa da, Tenu dua tay Zahra di khaas ay
+  Hamshakl-e-Haider duja Ali ae
+  Haider de waangoṅ sher-e-jari ae
+  Tu kibriya ae Maula wafa da
+  Taiṅ nuṅ dua te Zahra di khaas ae
 
   6
-  6) Jis nu vi chahwain deywe badshahi, Tera alam ay deway gawahi
-  Aj vi buland hay parcham hay tera Jo pyaasayan day ghum vich udaas ay
+  Jis nuṅ vi chaaveṅ de baadshaahi
+  Tera alam ae deve gawaahi
+  Aj vi buland hai parcham ae tera
+  Jo pyaasiyaaṅ de gham vich udaas ae
 
   7
-  7) Johar diyan sun mola duawan, Har waqt devay ayho sadawan
-  Karbobala di dharti tay mola Gham khawar tera babe qaza ay
+  Jauhar diyaaṅ sun Maula duaawaaṅ
+  Har waqt deve eho sadaawaaṅ
+  Karb o Bala di dharti te Maula
+  Ghamkhwaar tera baab-e-qaza ae
 ---
 
 بابُ الحوائج حیدرؑ دا لعل اے

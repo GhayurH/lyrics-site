@@ -20,17 +20,17 @@ romanLyrics: |-
 
   1
   Baap se beti to maaṅ bete se hoti hai qarib
-  Maaṅ ko mazlumi sunaayega tumhaari ye gharib
+  Maaṅ ko mazlumi sunaaye ga tumhaari ye gharib
   Tum gharibi meri Baba ko sunaana Zainab
 
   2
-  Kal se baaghi ki behen tum ko kaha jaayega
-  Taaziyaanoṅ se tumheiṅ pursa diya jaayega
+  Kal se baaghi ki behen tum ko kaha jaaye ga
+  Taaziyaanoṅ se tumheiṅ pursa diya jaaye ga
   Badle lega mere tum se ye zamaana Zainab
 
   3
   Raat meiṅ uthte haiṅ is dar ke janaaze Bibi
-  Sar se chaadar jo chhini tum bhi to mar jaaogi
+  Sar se chaadar jo chhini tum bhi to mar jaao gi
   Tum andhere meiṅ mere laashe pe aana Zainab
 
   4
@@ -40,12 +40,12 @@ romanLyrics: |-
 
   5
   Kahiṅ Abbaas na sun le meri baateiṅ ye behen
-  Haath woh chum luṅ bandh jaayegi kal jin meiṅ rasan
+  Haath woh chum luṅ bandh jaaye gi kal jin meiṅ rasan
   Zara kuchh der charaaghoṅ ko bujhaana Zainab
 
   6
   Pura Abbaas ki maadar ka ho armaan behen
-  Paani pyaasoṅ ko jo pilwaaogi tum jaa ke watan
+  Paani pyaasoṅ ko jo pilwaao gi tum jaa ke watan
   Saqqa Abbaas ke bete ko banaana Zainab
 
   7

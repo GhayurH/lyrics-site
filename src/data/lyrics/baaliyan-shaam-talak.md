@@ -15,14 +15,14 @@ romanLyrics: |-
   Afsos sad afsos Sakina qaidi hai
   Haathoṅ meiṅ hathkariyaṅ pairoṅ meiṅ beriyaṅ
   Aur kaanoṅ se baaliyaṅ chhini gayiṅ
-  Baaliyoṅ ne di sada kaash hum tut jaate
+  Baaliyoṅ ne di sada kaash hum tute jaate
   To shahzaadi ki lawe bach jaati
   Maaf karna shahzaadi maaf karna shahzaadi
 
   1
-  Baaliyaṅ Shaam talak deti rahi ek sada
+  Baaliyaṅ shaam talak deti rahi ik sada
   Tutte hum to Sakina ki lawa bach jaati
-  Haae ek saal talak zakhm na rehta taaza
+  Haae ik saal talak zakhm na rehta taaza
   Tutte hum to Sakina ki lawa bach jaati
 
   2

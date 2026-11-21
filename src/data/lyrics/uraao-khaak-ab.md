@@ -43,13 +43,13 @@ romanLyrics: |-
 
   5
   Hasan se koi zara ye keh de
-  Abhi kaleje na thaamiyega
+  Abhi kaleje na thaamiye ga
   Abhi wo manzar hai dur Maula
   Abhi se kiuṅ dard-e-dil utha hai
 
   6
   Kabhi ye maidaan-e-Karbala se
-  Uthaayega naujawaaṅ ki mayyat
+  Uthaaye ga naujawaaṅ ki mayyat
   Husain Kufe meiṅ aaj apne
   Pidar ka laasha utha raha hai
 

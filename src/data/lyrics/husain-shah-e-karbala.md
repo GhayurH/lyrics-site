@@ -22,7 +22,7 @@ romanLyrics: |-
   Qadam qadam ye thi sada
 
   2
-  Pahuṅch ke dasht-e-Karbala
+  Pahunch ke dasht-e-Karbala
   Luta ke gulshan-e-wafa
   Khiraaj is tarah liya
   Shikast-e-zulm ne kaha

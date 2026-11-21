@@ -30,17 +30,17 @@ romanLyrics: |-
 
   3
   Kya qayaamat hai ye nok-e-naiza pe hai
-  Fars-e-Shaah-e-Huda
+  Faras-e-Shaah-e-Huda
   Khuld se Mustafa dekhiye to zara
 
   4
   Muztarib hai behan khatm hai Panjetan
   Aasmaaṅ gir para aa gaya zalzala
-  Roti hai Fatema
+  Roti haiṅ Fatema
   Ya Rasul-e-Khuda ya Rasul-e-Khuda
 
   5
-  Garm reti pa hai rab pa takiya kiye
+  Garm reti pe hai rab pe takiya kiye
   Aap ka laadla
   Khuld se Mustafa dekhiye to zara
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Paani maanga kiye aur tarpa kiye
-  Shaah-e-Karbobala
+  Shaah-e-Karb o Bala
   Khuld se Mustafa dekhiye to zara
 
   8
@@ -79,12 +79,12 @@ romanLyrics: |-
 
   12
   Koi yaawar nahiṅ jal raha hai makaaṅ
-  Uth raha hai dhuaaṅ jaaye raandein kahaaṅ
+  Uth raha hai dhuaaṅ jaayeṅ biweṅ kahaaṅ
   Hashr ka hai samaaṅ
   Ya Rasul-e-Khuda ya Rasul-e-Khuda
 
   13
-  Roti hai Bibiyaaṅ laasha Abbas ka
+  Roti haiṅ Bibiyaaṅ laasha Abbas ka
   Nehr par hai para
   Khuld se Mustafa dekhiye to zara
 
@@ -101,7 +101,7 @@ romanLyrics: |-
 
   16
   Kaise Mahir bayaaṅ gham ki ho daastaaṅ
-  Berida hai haram sab ki aankheṅ hai nam
+  Berida haiṅ haram sab ki aankheṅ haiṅ nam
   Gardaneṅ sab ki kham
   Ya Rasul-e-Khuda ya Rasul-e-Khuda
 

@@ -29,13 +29,13 @@ romanLyrics: |-
   Use zamaana utha raha hai
 
   3
-  Habib o Muslim ke tevaroṅ se
+  Habib o Muslim ke tevaroṅ meiṅ
   Machal rahi hai nayi jawaani
   Ilaahi maidaan-e-Karbala meiṅ
   Shabaab kis kis pe aa raha hai
 
   4
-  Yehi natija hai har bala ka
+  Yehi natija hai har balaa ka
   Yehi khulaasa hai Karbala ka
   Jo mar raha hai wo ji raha hai
   Jo kho raha hai wo paa raha hai
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   8
   Husain rukhsat ko ghar meiṅ aaye
-  Ke qatl-gaah-e-wafa ko jaaye
+  Ke qatl gaah-e-wafa ko jaaye
   Idhar Sakina pukaarti hai
   Udhar Madina bula raha hai
 ---

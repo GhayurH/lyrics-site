@@ -9,26 +9,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Baghor sun le zamana Husain aise the
-  Baqa fana ko banaya Husain aise the
+  Baghor sun le zamaana Husain aise the
+  Baqaa fanaa ko banaaya Husain aise the
 
   1
-  Churi ke niche wo khaliq se pyar ki baateiṅ
+  Chhuri ke niche wo khaaliq se pyaar ki baateiṅ
   Ajal ko ho gaya sakta Husain aise the
-  Mukhalifat pe zamana tha us taraf lekin
-  Wohi kiya jo kaha tha Husain aise the
+  Mukhaalifat pe zamaana tha us taraf lekin
+  Wohi kiya jo kahaa tha Husain aise the
 
   2
-  Sipahe shaam shujaat ka loha maan gayi
-  Dabe na laakhoṅ se tanha Husain aise the
-  Kamar ko baandh ke piri may jalti reti se
-  Uthaya bete ka laasha Husain aise the
+  Sipaah-e-Shaam shujaaat ka loha maan gayi
+  Dabe na laakhoṅ se tanhaa Husain aise the
+  Kamar ko baandh ke piri meiṅ jalti reti se
+  Uthaaya bete ka laasha Husain aise the
 
   3
-  Jawan ki laash uthayi banayi qabre saghir
+  Jawaan ki laash uthaayi banaayi qabr-e-saghir
   Kahiṅ bhi azm na badla Husain aise the
-  Hazar shukr ke sajde shahid karta hai
-  Banaya qatre ko darya Husain aise the
+  Hazaar shukr ke sajde shahid karta hai
+  Banaaya qatre ko daryaa Husain aise the
 ---
 
 بغور سن لے زمانہ حسین ایسے تھے

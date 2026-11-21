@@ -7,6 +7,36 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bole Shabbir meri baali Sakina ki aas
+  Mere bhaiya Abbas - mere bhaiya Abbas
+
+  1
+  Aaj hota hai gharibi ka hameṅ bhi ehsaas
+
+  2
+  Ham ne to god mein bachpan se khilaaya hai tumheṅ
+  Larkharaate hue chalne mein sambhaala hai tumheṅ
+  Shaana baaloṅ mein kiya to kabhi pehnaaya libaas
+
+  3
+  Haq se maaṅga hai Ali ne tumheṅ nusrat ke liye
+  Hamla-e-kufr se Sarwar ki hifaazat ke liye
+  Tum chale jaaoge to kaun hai Shabbir ke paas
+
+  4
+  Paani laane ke liye tum gae su-e-darya
+  Kya qayaamat hai mili laash tumhaari bhaiya
+  Kaun ab jaake bujhaaega Sakina ki pyaas
+
+  5
+  Baat paani ki nahiṅ bachche bahal jaaeṅge
+  Parh ke batlaao ke jab ham na tumheṅ paaeṅge
+  Kis ko lipta ke bujhaauṅga main sine ki pyaas
+
+  6
+  Koi tadbir karo pyaas bujhaane ki zara
+  Mashk ke saath bandhi hai mere bachchoṅ ki aas
 ---
 
 بولے شبیرؑ میری بالی سکینہؑ کی آس

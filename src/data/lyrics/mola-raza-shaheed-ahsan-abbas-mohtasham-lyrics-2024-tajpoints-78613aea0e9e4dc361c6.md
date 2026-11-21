@@ -1,37 +1,64 @@
 ---
-title: "Mola Raza Shaheed Ahsan Abbas Mohtasham Lyrics 2024"
+title: "مولا رضا شہید احسن عباس محتشم ۲۰۲۴"
+alternateTitle: "Mola Raza Shaheed Ahsan Abbas Mohtasham 2024"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mohtasham"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mola Raza Shaheed Ahsan Abbas Mohtasham
+
+  1
+  Zehar-e-sitam se ho gaye Maula Raza shaheed
+  Mashhad mein momino ke hoye muqtada shaheed
+  Ahl-e-azza yeh keh rahe hain sar ko peet kar
+  Maula hamara, aaqa hamara howa shaheed
+  Turbat ko chor kar chali Mashhad ko Fatima
+  Kehti hain ro ke ho gaya beta mera shaheed
+
+  2
+  Farmaya Mustafa ne keh ik arz-e-Toos mein
+  Hoga Ali wahan pe mera tesra shaheed
+  Mamoon lanati bin-e-Muljim ki shakal mein
+  Maula Raza ko zehar-e-daga se kiya shaheed
+  Khwahar Raza ki jeetay jee be jan ho gayi
+  Jab oss ne yeh suna keh baradar howa shaheed
+
+  3
+  Maula Taqi ke sar mein yateemi ki khak hai
+  Kehte hain ro ke baba mera ho gaya shaheed
+  Taeeswin Zee Qadah ko ghurbat mein ho gaye
+  Hai Mosa ibn-e-Jafar wa hasrata shaheed
+  Aal-e-Nabi pe zulm yeh dekho tu Mohtasham
+  Ummat ne yeh Ali hai kiya tesra shaheed
 ---
 
-Mola Raza Shaheed Ahsan Abbas Mohtasham.
+مولا رضا شہید احسن عباس محتشم
 
-1
-Zehar-e-Sitam Se Ho Gaye Maula Raza Shaheed.
-Mashhad Mein Momino Ke Hoye Muqtada Shaheed.
-Ahl-e-Azza Yeh Keh Rahe Hain Sar Ko Peet Kar.
-Maula Hamara, Aaqa Hamara Howa Shaheed.
-Turbat Ko Chor Kar Chali Mashhad Ko Fatima.
-Kehti Hain Ro Ke Ho Gaya Beta Mera Shaheed.
+۱
+زہرِ ستم سے ہو گئے مولا رضا شہید
+مشہد میں مومنوں کے ہوئے مقتدا شہید
+اہلِ عزا یہ کہہ رہے ہیں سر کو پیٹ کر
+مولا ہمارا، آقا ہمارا ہوا شہید
+تربت کو چھوڑ کر چلی مشہد کو فاطمہ
+کہتی ہیں رو کے ہو گیا بیٹا میرا شہید
 
-2
-Farmaya Mustafa Ne Keh Ik Arz-e-Toos Mein.
-Hoga Ali Wahan Pe Mera Tesra Shaheed.
-Mamoon Lanati Bin-e-Muljim Ki Shakal Mein.
-Maula Raza Ko Zehar-e-Daga Se Kiya Shaheed.
-Khwahar Raza Ki Jeetay Jee Be Jan Ho Gayi.
-Jab Oss Ne Yeh Suna Keh Baradar Howa Shaheed.
+۲
+فرمایا مصطفیٰ نے کہ اک ارضِ طوس میں
+ہوگا علی وہاں پہ میرا تیسرا شہید
+مامون لعنتی بنِ ملجم کی شکل میں
+مولا رضا کو زہرِ دغا سے کیا شہید
+خواہرِ رضا کی جیتے جی بے جان ہو گئی
+جب اس نے یہ سنا کہ برادر ہوا شہید
 
-3
-Maula Taqi Ke Sar Mein Yateemi Ki Khak Hai.
-Kehte Hain Ro Ke Baba Mera Ho Gaya Shaheed.
-Taeeswin Zee Qadah Ko Ghurbat Mein Ho Gaye.
-Hai Mosa Ibn-e-Jafar Wa Hasrata Shaheed.
-Aal-e-Nabi Pe Zulm Yeh Dekho Tu Mohtasham.
-Ummat Ne Yeh Ali Hai Kiya Tesra Shaheed.
+۳
+مولا تقی کے سر میں یتیمی کی خاک ہے
+کہتے ہیں رو کے بابا میرا ہو گیا شہید
+تئیسویں ذی قعدہ کو غربت میں ہو گئے
+ہائے موسیٰ ابنِ جعفر وا حسرتا شہید
+آلِ نبی پہ ظلم یہ دیکھو تو محتشم
+امت نے یہ علی ہے کیا تیسرا شہید

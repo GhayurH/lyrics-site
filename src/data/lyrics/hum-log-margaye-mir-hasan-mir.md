@@ -8,91 +8,58 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Hum Log Margaye Mir Hasan Mir"
-romanLyrics: 'Hum Log Margaye Mir Hasan Mir Lyrics
-
-  Kaun Pohanchaye Ga Ab Rizq Ali Zakhmi Hain.
-
-  Aaj Kofay Ke Yateemo Ki Khuda Khair Karey.
-
-  Kofay Mein Gonjti Hai Sada Har Yateem Ki.
-
+alternateTitle: "Hum Log Mar Gaye Mir Hasan Mir"
+romanLyrics: |-
+  Kaun pahunchaaye ga ab rizq Ali zakhmi hai
+  Aaj Kufe ke yatimoṅ ki Khuda khair kare
+  Kufe meiṅ gunjti hai sada har yatim ki
+  Hum log mar gaye tere marne se ya Ali
 
   1
-
-  Hum Loag Mar Gaye Tere Marne Se Ya Ali.
-
-  Uneeswin Ki Subha Qayamat Ki Thi Khabar.
-
-  Faqay Hain Teen Roz Se Hum Be Kason Ke Ghar.
-
-  Dunya Se Tum Gaye Tu Yeh Dunya Badal Gayi.
-
+  Anisweiṅ ki subh qayaamat ki thi khabar
+  Faaqe haiṅ tin roz se hum bekasoṅ ke ghar
+  Dunya se tum gaye to yeh dunya badal gayi
+  Hum log mar gaye...
 
   2
-
-  Kehta Hai Har Yateem Keh Tanha Na Choriye.
-
-  Le Jaein Mujh Ko Sath Akela Na Choriye.
-
-  Kofay Mein Hum Gareebon Ka Baqi Nahi Koi.
-
-  Nabina Ik Zaeef Yeh Kehta Hai Barha.
-
+  Kehta hai har yatim ke tanha na chhoriye
+  Le jaaye mujh ko saath akela na chhoriye
+  Kufe meiṅ hum ghariboṅ ka baaqi nahiṅ koi
 
   3
-
-  Ab Kaun Mujh Ko Hathoon Se Khana Khilaye Ga.
-
-  Aaye Ga Kaun Pochne Ab Khairiyat Meri.
-
-  Le Kar Pyalay Sheer Ke Aaye Yateem Sab.
-
-  Roye Hasan Se Mil Ke Yateman e Kofa Jab.
-
+  Naabina ik zaif yeh kehta hai baarha
+  Ab kaun mujh ko haathoṅ se khaana khilaaye ga
+  Aaye ga kaun puchhne ab khairiyat meri
 
   4
-
-  Darwaza e Ali Pe Qayamat Bapa Hoi.
-
-  Har Haal Mein Sanbhalne Wala Chala Gaya.
-
-  Ghurbat Mein Hum Ko Palney Wala Chala Gaya.
-
-  Kis Tarha Se Bholaein Kareemi Imam Ki.
-
+  Le kar piyaale shir aaye yatim sab
+  Roye Hasan se mil ke yatimaan-e-Kufa jab
+  Darwaaza-e-Ali pe qayaamat bapa hui
 
   5
-
-  Pehle Hi Muztarib Thi Tabiyat Hussain Ki.
-
-  Yaad Aa Gayi Imam Ko Phir Apni Ladli.
-
-  Dar Par Sada Jo Kofay Ke Bachoon Ne Aa Ke Di.
-
-  Bahir Jo Ghar Se Aaya Janaza Imam Ka.
-
+  Har haal meiṅ sanbhaalne waala chala gaya
+  Ghurbat meiṅ hum ko paalne waala chala gaya
+  Kis tarah se bhulaayeṅ ge karimi Imaam ki
 
   6
-
-  Roney Se Ahl-e-Bait Ke Kofa Larz Gaya.
-
-  Charon Taraf Se Aati Thi Aawaz Bas Yehi.
-
-  Yeh Kaun Bibi Hai Jo Janazay Ke Sath Hai.
-
-  Jhuk Jhuk Ke Chal Rahi Hai Woh Pehlu Pe Hath Hai.
-
+  Pehle hi muztarib thi tabaiyat Husain ki
+  Yaad aa gayi Imaam ko phir apni laadli
+  Dar par sada jo Kufe ke bachchoṅ ne aa ke di
 
   7
+  Baahar jo ghar se aaya janaaza Imaam ka
+  Rone se Ahl-e-Bait ke Kufa larz gaya
+  Chaaroṅ taraf se aati thi aawaaz bas yahi
 
-  Kya Fatima Yeh Sun Ke Madine Se Aa Gayi.
+  8
+  Yeh kaun Bibi jo janaaze ke saath hai
+  Jhuk jhuk ke chal rahi hai woh pehlu pe haath hai
+  Kya Fatima yeh sun ke Madine se aa gayi
 
-  Maein Yeh Keh Ke:MIR TAKALLUM: Hoin Nidhal.
-
-  Rakhtay They Inn Yateemo Ka Kitna Ali Khiyal.
-
-  Mehsos Ho Gi Bachoon Ko Ab Baap Ki Kami.'
+  9
+  Main yeh keh ke Mir Takallum hui nidhaal
+  Rakhte the in yatimoṅ ka kitna Ali khayaal
+  Mehsus ho gi bachchoṅ ko ab baap ki kami
 ---
 
 کون پہنچاے گا اب رزق علی زخمی ہے

@@ -13,7 +13,7 @@ published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Husain Husain Husain
-  Hum Husaini haiṅ dunya meiṅ phaile hue
+  Hum Husaini haiṅ duniya meiṅ phaile hue
   Sakhtiyaṅ Karbala ki haiṅ jhele hue
   Husain Husain Husain
 
@@ -39,7 +39,7 @@ romanLyrics: |-
   Husain Husain Husain
 
   4
-  Haq parasti ke dunya meiṅ haami raho
+  Haq parasti ke duniya meiṅ haami raho
   Gar ho mazlum zaalim ko barhne na do
   Zer-e-khanjar Husaini sada wo suno
   Aaj bhi jis se zaalim haiṅ dhule hue
@@ -70,7 +70,7 @@ romanLyrics: |-
   Khaibar o Khandaq o Nehrwaan o Jamal
   Zarb-e-Haidar ka koi nahiṅ hai badal
   Ae zamaane kabhi raah-e-Haidar pe chal
-  Tera dil bhi mile ga ye kehte hue
+  Tera dil bhi milega ye kehte hue
   Husain Husain Husain
 
   9

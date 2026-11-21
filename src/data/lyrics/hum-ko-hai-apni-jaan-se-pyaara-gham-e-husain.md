@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Hum ko hai apni jaan se pyaara gham-e-Husain
-  Qaaim rahe jahaan meiṅ Khudaaya gham-e-Husain
+  Qaaim rahe jahaan mein Khudaaya gham-e-Husain
 
   1
   Roz-e-alast puchha gaya kya pasand hai
@@ -23,7 +23,7 @@ romanLyrics: |-
   Farsh-e-aza bichhaaya manaaya gham-e-Husain
 
   3
-  Kamzarf ko jahaan meiṅ mila jab bhi iqtidaar
+  Kamzarf ko jahaan mein mila jab bhi iqtidaar
   Pehle bana sitam ka nishaana gham-e-Husain
 
   4

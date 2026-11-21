@@ -8,6 +8,53 @@ reciter: "Ali Safdar Rizvi"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Waawaila haaye waawaila
+
+  1
+  Sab mil ke karo ab ahl-e-aza
+
+  2
+  Islaam Nabi ka bachaaya hai, taqdir ka dip jalaaya hai
+  Quraan ka maan barhaaya hai, tauhid pe ghar ko lutaaya hai
+  Shabbir ka maatam, waawaila
+  Dilgir ka maatam, waawaila
+  Ye ahl-e-aza ka hai nauha
+
+  3
+  Hamshakl-e-Payambar maara gaya, chhe maah ka Asghar maara gaya
+  Abbaas-e-Dilaawar maara gaya, Shabbir ka dilbar maara gaya
+  Akbar ka maatam, waawaila
+  Asghar ka maatam, waawaila
+  Zainab ke laboṅ par thi ye sadaa
+
+  4
+  Kaise ho raqam ahwaal-e-jafaa, aadaa ne sitam kuchh aisa kiya
+  Qaasim ka jasad paamaal hua, behaal hui Umm-e-Farwa
+  Qaasim ka maatam, waawaila
+  Bekas ka maatam, waawaila
+  Qaasim ka gham hai aur Kubraa
+
+  5
+  Kya ghurbat thi tanhaai thi, jab shaam-e-gharibaaṅ aai thi
+  Ik zulm ki badli chhaai thi, paighaam-e-asiri laai thi
+  Ghurbat ka maatam, waawaila
+  Itrat ka maatam, waawaila
+  Sab ahl-e-haram ki chhini ridaa
+
+  6
+  Paaband-e-rasan sab ahl-e-haram, khaamosh uthaae baar-e-sitam
+  Hai mahv-e-safar larzida qadam, sinoṅ mein liye Shabbir ka gham
+  Mazlum ka maatam, waawaila
+  Maasum ka maatam, waawaila
+  Karta hai falak in par girya
+
+  7
+  Bichhta hai jahaaṅ par farsh-e-aza, hota hai jahaaṅ par gham barpaa
+  Purse ko pahunchti haiṅ Zehraa, karte hui Saajid ye nauha
+  Sarwar ka maatam, waawaila
+  Ghar bhar ka maatam, waawaila
+  Pyaaroṅ par karti hai roz bukaa
 ---
 
 واویلا ہائے واویلا

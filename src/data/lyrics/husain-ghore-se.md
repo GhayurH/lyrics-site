@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Ghiro na ab qatl-e-Shaah-e-diṅ se
   Na uth sakeṅge ye ab zamiṅ se
-  Yuṅhi tarapne do ab zamiṅ par
+  Yunhi tarapne do ab zamiṅ par
 
   2
   Namaaz ki do na in ko mohlat
@@ -35,10 +35,10 @@ romanLyrics: |-
   4
   Badan tha zakhmoṅ se chur itna
   Muhaal ghore pe tha sambhalna
-  Tanha hai ran meiṅ mera biraadar
+  Tanha hai ran mein mera baraadar
 
   5
-  Akele maqtal meiṅ Shaah-e-diṅ hai
+  Akele maqtal mein Shaah-e-diṅ hai
   Aur un ko gehre hue laiṅ hai
   Kahaaṅ ho Qaasim kahaaṅ ho Akbar
 
@@ -50,10 +50,10 @@ romanLyrics: |-
   7
   Asir ham ko kareṅge aada
   Aur hoṅge baazaar-e-Shaam o Kufa
-  Phirenge hum sar barehna dar dar
+  Phireṅge ham sar barehna dar dar
 
   8
-  Jo khun meiṅ dube pare haiṅ laashe
+  Jo khun mein dube pare haiṅ laashe
   Wo baawafa naasiraan-e-Shah ke
   Sadaaeṅ dete haiṅ wo bahattar
 ---

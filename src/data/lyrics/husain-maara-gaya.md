@@ -13,19 +13,19 @@ aliases: ["Hussain Mara Gaya"]
 published: true
 romanLyrics: |-
   Farmaati hai ye Hazrat-e-Salma jigar figaar
-  Ek roz mere khwaab meiṅ aaye falak waqaar
+  Ek roz mere khwaab mein aaye falak waqaar
   Chehra tha zard ranj se aankheiṅ thi ashk baar
-  Amaama tha gale meiṅ phata sar pe thi ghubaar
-  Maiṅ ne kaha tarap ke ae Sultaan-e-Ambiya
+  Amaama tha gale mein phata sar pe thi ghubaar
+  Main ne kaha tarap ke ae Sultaan-e-Ambiya
   Ye haal kaisa aap ne apna bana liya
   Kaisi pari hui hai ye chehre pe khaak o dhul
-  Haathoṅ se muṅh ko pit ke kehne lage Rasul
+  Haathoṅ se munh ko pit ke kehne lage Rasul
 
   Kund khanjar se sar utaara gaya
   Umm-e-Salma Husain maara gaya
 
   1
-  Aa raha huṅ zamin-e-Karbal se
+  Aa raha huṅ zamin-e-Karbala se
   Chain sabr o qaraar saara gaya
 
   2

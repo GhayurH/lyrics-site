@@ -17,13 +17,13 @@ romanLyrics: |-
   1
   Fatima Zehra si surat hai to sirat bhi wohi
   Zabt ka hausla aur sabr ki himmat bhi wohi
-  Wohi taqwa aur tahaarat hai ibaadat hai wohi
+  Wohi taqwaa aur tahaarat hai ibaadat hai wohi
   Hai wohi lahja andaaz-e-khitaabat bhi wohi
   Din ke unwaan ki taqrir hai Bint-e-Zehra
 
   2
   Aaj bohtaan jo rakhte haiṅ Nabi zaadi par
-  Unhiṅ logoṅ ne kiya jina Nabi ka dubhar
+  Unhi logoṅ ne kiya jina Nabi ka dubhar
   Din meiṅ aaye the Islaam ka kalma parh kar
   Aur naamus-e-Paighambar ko phiraaya dar dar
   Din-e-Islaam ki tauqir hai Bint-e-Zehra
@@ -45,8 +45,8 @@ romanLyrics: |-
   5
   Berida ho ke kiya din-e-Khuda ka parda
   In ke kirdaar se hai sharm o haya ka parda
-  Naam Zainab ka bana Aal-e-Aba ka parda
-  Shaam meiṅ jaa ke utha Karb o Bala ka parda
+  Naam Zainab ka bana Aal-e-Abaa ka parda
+  Shaam meiṅ jaa ke utha Karb o Balaa ka parda
   Gardan-e-kufr par shamshir hai Bint-e-Zehra
 
   6

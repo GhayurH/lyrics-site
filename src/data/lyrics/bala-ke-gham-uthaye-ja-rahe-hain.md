@@ -9,48 +9,30 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Bala Ke Gham Uthaye Ja Rahe Hain"
-romanLyrics: 'Karbala ke dasht mein alqama ke saamne
-
+romanLyrics: |-
+  Karbala ke dasht mein Alqama ke saamne
 
   1
-
-  Ghar nabi ka lut gaya
-
-  Bala ke gham uthaye jaa rahe hai
-
-  Jafa ke teer khaye jaa rahe hai
-
-  Fida karne ko deen e mustafa par
-
-  Ali akbar sajaye ja rahe hai
-
-  Bala ke gham...
-
+  Ghar Nabi ka lut gaya
+  Bala ke gham uthaaye jaa rahe haiṅ
+  Jafa ke teer khaaye jaa rahe haiṅ
+  Fida karne ko din-e-Mustafa par
+  Ali Akbar sajaaye jaa rahe haiṅ
+  Bala ke gham
 
   2
-
-  Qadam doshe nabuwat par thay jin ke
-
-  Wo kaaton par phiraye ja rahe hai
-
-  Bala ke gham...
-
-  Jahan be-izn aate thay na jibreel
-
-  Wo kashaane jalaye ja rahe hai
-
+  Qadam dosh-e-nabuwwat par the jin ke
+  Wo kaantoṅ par phiraaye jaa rahe haiṅ
+  Bala ke gham
+  Jahaaṅ beizn aate the na Jibril
+  Wo kaashaane jalaaye jaa rahe haiṅ
 
   3
-
-  Bithate thay nabi kaandho pe jinko
-
-  Wo naizon se giraye ja rahe hai
-
-  Bala ke gham...
-
-  Hua tha jon qayam jin se parda
-
-  Wo bazaaron mein laaye ja rahe hai'
+  Bithaate the Nabi kaandhoṅ pe jin ko
+  Wo nezoṅ se giraaye jaa rahe haiṅ
+  Bala ke gham
+  Hua tha Jauṅ qaaim jis se parda
+  Wo bazaaaroṅ mein laaye jaa rahe haiṅ
 ---
 
 کربلا کے دشت میں علقمہ کے سامنے

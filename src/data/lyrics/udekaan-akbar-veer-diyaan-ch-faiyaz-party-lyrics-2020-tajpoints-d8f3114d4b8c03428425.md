@@ -1,38 +1,64 @@
 ---
-title: "Udekaan Akbar Veer Diyaan Ch Faiyaz Party Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اڈیکاں اکبر ویر دیاں"
+alternateTitle: "Udekaan Akbar Veer Diyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Udeekaan Akbar veer diyaan baniyaan ne Sughra diyaan sanwaan
+
+  1
+  Watna te takdi payi aye haye naal ibadat de Akbar diyaan rahwaan
+  Mainu turdi wari Akbar haye gal de naal laya
+  Tainu lain main aawaan ga mehmal taun aap laya
+  Dowaan bhain bhirawaan nu haye wekh ke phophiyaan te rayiyaan rondiyaan mawaan
+
+  2
+  Aynj miliya mainu Asghar jiwein mur ke nayi si aana
+  Meri jan nu khanda aye Asghar da veer rona
+  Babay ne aa churaiyaan mere gal choon veer Akbar, Asghar diyaan banwaan
+  Tera sehra veer Akbar main aap aye banana
+
+  3
+  Poshaak teri Akbar arshaan taun veer aana
+  Ujray gharaan che beh ke main apne naal Akbar payi kardi salawaan
+  Mainu disda veer Akbar wich dasht-e-Nainawa aye
+  Qatil Quran e qari mere babay nal Khuda aye
+
+  4
+  Tera sir sina te takiya phophiyaan de sir te koi nayi chan veer ridawaan
+  Sughra da Karbala wich jehray welay khat si aaya
+  Seene de wich si barchi Shabeer hath way paya
+  Qasad ne wekhiyaan ne Akbar diyaan ne Najfi pathraiyan nigahwaan
 ---
 
-Udekaan Akbar Veer Diyaan Ch Faiyaz Party
-Udeekaan Akbar Veer Diyaan Baniyaan Ne Sughra Diyaan Sanwaan.
+اڈیکاں اکبر ویر دیاں بنیاں نے صغریٰ دیاں ساہواں
 
-1
-Watna Te Takdi Payi Aye Haye Naal Ibadat De Akbar Diyaan Rahwaan.
-Mainu Turdi Wari Akbar Haye Gal De Naal Laya.
-Tainu Lain Main Aawaan Ga Mehmal Taun Aap Laya.
-Dowaan Bhain Bhirawaan Nu Haye Wekh Ke Phophiyaan Te Rayiyaan Rondiyaan Mawaan.
+۱
+وطناں تے تکدی پئی اے ہائے نال عبادت دے اکبر دیاں راہواں
+مینوں ٹردی واری اکبر ہائے گل دے نال لایا
+تینوں لین میں آواں گا محمل توں آپ لایا
+دوواں بھین بھراواں نوں ہائے ویکھ کے پھپھیاں تے رہیاں روندیاں ماواں
 
-2
-Aynj Miliya Mainu Asghar Jiwein Mur Ke Nayi Si Aana.
-Meri Jan Nu Khanda Aye Asghar Da Veer Rona.
-Babay Ne Aa Churaiyaan Mere Gal Choon Veer Akbar, Asghar Diyaan Banwaan.
-Tera Sehra Veer Akbar Main Aap Aye Banana.
+۲
+اینج ملیا مینوں اصغر جیویں مڑ کے نئیں سی آنا
+میری جان نوں کھاندا اے اصغر دا ویر رونا
+بابے نے آ چھڑائیاں میرے گل چوں ویر اکبر، اصغر دیاں بانہواں
+تیرا سہرا ویر اکبر میں آپ اے بنانا
 
-3
-Poshaak Teri Akbar Arshaan Taun Veer Aana.
-Ujray Gharaan Che Beh Ke Main Apne Naal Akbar Payi Kardi Salawaan.
-Mainu Disda Veer Akbar Wich Dasht-e-Nainawa Aye.
-Qatil Quran e Qari Mere Babay Nal Khuda Aye.
+۳
+پوشاک تیری اکبر عرشاں توں ویر آنا
+اجڑے گھراں چے بہہ کے میں اپنے نال اکبر پئی کردی صلاحواں
+مینوں دسدا ویر اکبر وچ دشتِ نینوا اے
+قاتل قرآنِ قاری میرے بابے نال خدا اے
 
-4
-Tera Sir Sina Te Takiya Phophiyaan De Sir Te Koi Nayi Chan Veer Ridawaan.
-Sughra Da Karbala Wich Jehray Welay Khat Si Aaya.
-Seene De Wich Si Barchi Shabeer Hath Way Paya.
-Qasad Ne Wekhiyaan Ne Akbar Diyaan Ne Najfi Pathraiyan Nigahwaan.
+۴
+تیرا سر سناں تے تکیا پھپھیاں دے سر تے کوئی نئیں چن ویر رداواں
+صغریٰ دا کربلا وچ جیہڑے ویلے خط سی آیا
+سینے دے وچ سی برچھی شبیر ہتھ وے پایا
+قاصد نے ویکھیاں نے اکبر دیاں نے نجفی پتھرائیاں نگاہواں

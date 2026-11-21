@@ -1,7 +1,7 @@
 ---
 title: "ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں"
 recitationId: "veerna-main-teri-qabar-banawan"
-alternateTitle: "Virna Maiṅ Teri Qabar Banawaṅ"
+alternateTitle: "Virna Maiṅ Teri Qabar Banaawaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,33 +11,33 @@ aliases:
   - "Veerna Main Teri Qabar Banawan"
 published: true
 romanLyrics: |-
-  Virna maiṅ teri qabar banawaṅ ya shaam nu jaawaṅ
-  Kave Zainab ujri jang Karbala di mukk gayi lutiyaṅ gayiaṅ ridaawaṅ
+  Virna maiṅ teri qabar banaawaṅ ya shaam nuṅ jaawaṅ
+  Kahve Zainab ujri jang Karbala di mukk gai luttiyaaṅ gaiyaaṅ ridaawaṅ
 
   1
-  Kiweṅ shaam le jawaṅ Sajjad bimar ae
-  Hosh nai aundi ess nu eh sakht lachaar ae
-  Mainu samajh nai aundi viran disaa maiṅ kiweṅ ennu maut toṅ bachawaṅ
+  Kiweṅ shaam le jaawaṅ Sajjad bimaar ae
+  Hosh nahiṅ aaundi es nuṅ eh sakht laachaar ae
+  Mainuṅ samajh nahiṅ aaundi viran dasaa maiṅ kiweṅ enuṅ maut toṅ bachaawaṅ
 
   2
-  Paa paa khaak sirraṅ vich ess vaal lukaaye
-  Ummat ne rasiyaṅ de sanu zewar paaye
-  Maiṅ suneya eh viran hayi shaam de shehar diyaṅ bohat okhiyaṅ ne rahwaṅ
+  Paa paa khaak siraaṅ vich es vaal lukaaye
+  Ummat ne rassiyaaṅ de saanuṅ zevar paaye
+  Maiṅ suniyaa ae viran haaye shaam de shehar diyaaṅ bouṅ okhiyaaṅ ne raahwaaṅ
 
   3
-  Uth toṅ maiṅ lath payi aaṅ par ro nai sakdi
-  Laash utte pathraṅ da maiṅ dher haṅ takdi
-  Mere hath paband hin kiweṅ laash toṅ maiṅ teri pathraṅ nu aa hathawaṅ
+  Unth toṅ maiṅ latth pai aaṅ par ro nai sakdi
+  Laash utte patthraaṅ da maiṅ dher haaṅ takdi
+  Mere hatth paaband han kiweṅ laash toṅ maiṅ teri patthraaṅ nuṅ aa hataawaṅ
 
   4
-  Shaam shehar vich kis ne sade parde banaunayy
-  Maluna de majme sade raah choṅ hathaune
-  Mera Ghazi viran jaa nehar de kinare sonweya kataa ke bahwaaṅ
+  Shaam shehar vich kis ne saade parde banaanre
+  Malunaaṅ de majme saade raah choṅ hataanre
+  Mera Ghazi viran jaa nehar de kinaare samiyaaṅ kataa ke baanwaaṅ
 
   5
-  Akhtar dunya faani ek din mukk jaani
-  Rehni eh do jag te syedaṅ di kahani
-  Lakh ro kay dunya purse nu qaim rakhna Zahra diyaṅ duawaaṅ
+  Akhtar duniya faani ik din mukk jaani
+  Reni ae do jag te Sayyidaaṅ di kahaani
+  Lakh roke duniya purse nuṅ qaaim rakhnaaṅ Zahra diyaaṅ duaawaaṅ
 ---
 
 ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں

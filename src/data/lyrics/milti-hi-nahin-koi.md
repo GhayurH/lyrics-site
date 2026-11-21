@@ -28,7 +28,7 @@ romanLyrics: |-
   Shabbir ka laasha hai meri raahguzar meiṅ
 
   4
-  Aabid ne kaha khun yuṅhi rota rahuṅga
+  Aabid ne kaha khun yunhi rota rahuṅ ga
   Phuphi ki asiri ne kiye zakhm jigar meiṅ
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Zainab sar-e-uryaaṅ haiṅ usi Kufa shahr meiṅ
 
   6
-  Behte haiṅ gham-e-Shaah meiṅ jo aaṅsu wo kahaaṅ haiṅ
+  Behte haiṅ gham-e-Shaah meiṅ jo aansu wo kahaaṅ haiṅ
   Mahshar meiṅ mileṅge wo tumheṅ laal o gauhar meiṅ
 
   7

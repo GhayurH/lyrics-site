@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Mera baba hai mushkil kusha
   Meri maadar bhi haiṅ Sayyida
-  Mera beta hai zain-ul-aba
+  Mera beta hai Zain-ul-Aba
   Mere nana ka kalma parha
   Jis ke saaye ko tum dhundte ho
   Kya maiṅ us ka hi saaya nahiṅ huṅ
@@ -49,8 +49,8 @@ romanLyrics: |-
   Aag lagti hai ghar meiṅ lage
   Bint-e-Zehra ki chaadar chhine
   Haath duṅ ga na apna tujhe
-  Haath mera ye dast-e-khuda hai
-  Maiṅ to munkir khuda ka nahiṅ huṅ
+  Haath mera ye dast-e-Khuda hai
+  Maiṅ to munkir Khuda ka nahiṅ huṅ
 
   6
   Saath Zehra ki haiṅ betiyaaṅ

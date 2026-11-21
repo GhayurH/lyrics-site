@@ -1,46 +1,82 @@
 ---
-title: "Ro Arzaan Kardi Aye Sughra Mera Nana Veer Mila Lyrics New Noha 02 Muharram 2025 Sirat Ul Jannah Sialkot"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "رو عرضاں کردی اے صغریٰ میرا ننھا ویر ملا"
+alternateTitle: "Ro Arzaan Kardi Aye Sughra Mera Nana Veer Mila"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ro arzaan kardi aye Sughra mera nana veer mila
+  Oss aouna si oh nahin aaya mere mukday janday sah
+
+  1
+  Jis din da giyon veran beemar haan Akbar
+  Main jandi mainu nahin milni tere bajoon veer shifa
+
+  2
+  Tere baaj Ali Akbar veeran aye Madina
+  Beemar di hasrat way ujray ghar aa ke veer wasa
+
+  3
+  Ki jeena aye bhaina da haye baaj bhirawaan
+  Mar jandiyaan jiondiyaan bhaina jay ho jawan veer juda
+
+  4
+  Sab aoundiyan rahiyaan taun tera puchni aan veran
+  Ki Karbal de wich guzri aye koi denda nahin itela
+
+  5
+  Mainu khuwab daranday ne lagi seene te barchi
+  Sir saang uttay tera Akbar mainu jendiyaan mar gaya
+
+  6
+  Koi bhain jadon kardi haye shagan bhira de
+  Main teriyaan yadaan wich rowaan tere sehrey seene la
+
+  7
+  Beemar na mar jaway ik waar te mil ja
+  Paigham dawaan jehri jaway Karbal wal veer hawa
+
+  8
+  Sajjad kadi wichray na bhain bhira taun
+  Jiwein rondi mar gayi Akbar de haye takdi Sughra rah
 ---
 
-Ro Arzaan Kardi Aye Sughra Mera Nana Veer Mila.
-Oss Aouna Si Oh Nahin Aaya Mere Mukday Janday Sah.
+رو عرضاں کردی اے صغریٰ میرا ننھا ویر ملا
+اوس آؤنا سی اوہ نہیں آیا میرے مکدے جاندے ساہ
 
-1
-Jis Din Da Giyon Veran Beemar Haan Akbar.
-Main Jandi Mainu Nahin Milni Tere Bajoon Veer Shifa.
+۱
+جس دن دا گیوں ویراں بیمار ہاں اکبر
+میں جاندی مینوں نہیں ملنی تیرے باجوں ویر شفا
 
-2
-Tere Baaj Ali Akbar Veeran Aye Madina.
-Beemar Di Hasrat Way Ujray Ghar Aa Ke Veer Wasa.
+۲
+تیرے باج علی اکبر ویران اے مدینہ
+بیمار دی حسرت وے اجڑے گھر آ کے ویر وسا
 
-3
-Ki Jeena Aye Bhaina Da Haye Baaj Bhirawaan.
-Mar Jandiyaan Jiondiyaan Bhaina Jay Ho Jawan Veer Juda.
+۳
+کی جینا اے بھیناں دا ہائے باج بھراواں
+مر جاندیاں جیوندیاں بھیناں جے ہو جاون ویر جدا
 
-4
-Sab Aoundiyan Rahiyaan Taun Tera Puchni Aan Veran.
-Ki Karbal De Wich Guzri Aye Koi Denda Nahin Itela.
+۴
+سب آؤندیاں راہیاں توں تیرا پچھنی آں ویراں
+کی کربل دے وچ گزری اے کوئی دیندا نہیں اطلاع
 
-5
-Mainu Khuwab Daranday Ne Lagi Seene Te Barchi.
-Sir Saang Uttay Tera Akbar Mainu Jendiyaan Mar Gaya.
+۵
+مینوں خواب ڈراندے نے لگی سینے تے برچھی
+سر سانگ اتے تیرا اکبر مینوں جیندیاں مر گیا
 
-6
-Koi Bhain Jadon Kardi Haye Shagan Bhira De.
-Main Teriyaan Yadaan Wich Rowaan Tere Sehrey Seene La.
+۶
+کوئی بھین جدوں کردی ہائے شگن بھرا دے
+میں تیریاں یاداں وچ روواں تیرے سہرے سینے لا
 
-7
-Beemar Na Mar Jaway Ik Waar Te Mil Ja.
-Paigham Dawaan Jehri Jaway Karbal Wal Veer Hawa.
+۷
+بیمار نہ مر جاوے اک وار تے مل جا
+پیغام دواں جیہڑی جاوے کربل ول ویر ہوا
 
-8
- Sajjad Kadi Wichray Na Bhain Bhira Taun.
-Jiwein Rondi Mar Gayi Akbar De Haye Takdi Sughra Rah.
+۸
+سجاد کدی وچھڑے نہ بھین بھرا توں
+جیویں روندی مر گئی اکبر دے ہائے تکدی صغریٰ راہ

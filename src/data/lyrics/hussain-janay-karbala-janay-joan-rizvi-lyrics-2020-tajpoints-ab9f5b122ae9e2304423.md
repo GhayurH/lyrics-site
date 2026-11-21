@@ -1,34 +1,56 @@
 ---
-title: "Hussain Janay Karbala Janay – Joan Rizvi Lyrics 2020"
+title: "حسین جانے کربلا جانے"
+alternateTitle: "Hussain Janay Karbala Janay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hussain jane shifa jane Karbala jane
+  Mareez janein mareezo ka aasra jane
+  Chamak woh teesri Shaban ke sitaron ki
+  Bhuja howa Shab-e-Ashor ka diya jane
+  Kahin Hussain ka roza Khuda ka ghar tu nahi
+  Yeh Karbala-e-Mualla hai kyun Khuda jane
+  Jisay samjhna hai naizay pe guftgu kya thi
+  Woh pehle Kehf ke soray ka tarjuma jane
+  Hamara kam alam par diya jalana hai
+  Sanbhal ke kaisay guzarna hai yeh howa jane
+  Woh qaum jis mein na Abbas hai na Zainab hai
+  Hai naam kis ka wafa aisi qaum kya jane
+  Ho kaisay khuld ki waiz ossay pareshani
+  Jo shaks Matam-e-Shabeer ki jaza jane
+  Hai likhney wala Hussain our parhne wala Habib
+  Our aik khat hai jo dono ka rabta jane
+  Boland karna hai kaisay jhukay hoye sar ko
+  Jabeen-e-Hur pe yeh Romal-e-Syeda jane
+  Ali bataye ga Akbar tha ya Rasool Akbar
+  Ossi se pocho jo har Raz-e-Mustafa jane
 ---
 
-1
-Hussain Janay Karbala Janay – Joan Rizvi Write Up
-Hussain Jane Shifa Jane Karbala Jane.
-Mareez Janein Mareezo Ka Aasra Jane.
-Chamak Woh Teesri Shaban Ke Sitaron Ki.
-Bhuja Howa Shab-e-Ashor Ka Diya Jane.
-Kahin Hussain Ka Roza Khuda Ka Ghar Tu Nahi.
-Yeh Karbala-e-Mualla Hai Kyun Khuda Jane.
-Jisay Samjhna Hai Naizay Pe Guftgu Kya Thi.
-Woh Pehle Kehf Ke Soray Ka Tarjuma Jane.
-Hamara Kam Alam Par Diya Jalana Hai.
-Sanbhal Ke Kaisay Guzarna Hai Yeh Howa Jane.
-Woh Qaum Jis Mein Na Abbas Hai Na Zainab Hai.
-Hai Naam Kis Ka Wafa Aisi Qaum Kya Jane.
-Ho Kaisay Khuld Ki Waiz Ossay Pareshani.
-Jo Shaks Matam-e-Shabeer Ki Jaza Jane.
-Hai Likhney Wala Hussain Our Parhne Wala Habib.
-Our Aik Khat Hai Jo Dono Ka Rabta Jane.
-Boland Karna Hai Kaisay Jhukay Hoye Sar Ko.
-Jabeen-e-Hur Pe Yeh Romal-e-Syeda Jane.
-Ali Bataye Ga Akbar Tha Ya Rasool Akbar.
-Ossi Se Pocho Jo Har Raz-e-Mustafa Jane.
+۱
+حسین جانے شفا جانے کربلا جانے
+مریض جانیں مریضوں کا آسرا جانے
+چمک وہ تیسری شعبان کے ستاروں کی
+بجھا ہوا شبِ عاشور کا دیا جانے
+کہیں حسین کا روضہ خدا کا گھر تو نہیں
+یہ کربلائے معلّٰی ہے کیوں خدا جانے
+جسے سمجھنا ہے نیزے پہ گفتگو کیا تھی
+وہ پہلے کہف کے سورے کا ترجمہ جانے
+ہمارا کام علم پر دیا جلانا ہے
+سنبھل کے کیسے گزرنا ہے یہ ہوا جانے
+وہ قوم جس میں نہ عباس ہے نہ زینب ہے
+ہے نام کس کا وفا ایسی قوم کیا جانے
+ہو کیسے خلد کی واعظ اسے پریشانی
+جو شخص ماتمِ شبیر کی جزا جانے
+ہے لکھنے والا حسین اور پڑھنے والا حبیب
+اور ایک خط ہے جو دونوں کا رابطہ جانے
+بلند کرنا ہے کیسے جھکے ہوئے سر کو
+جبینِ حر پہ یہ رومالِ سیدہ جانے
+علی بتائے گا اکبر تھا یا رسول اکبر
+اسی سے پوچھو جو ہر رازِ مصطفیٰ جانے

@@ -1,29 +1,44 @@
 ---
-title: "Baba Teri Ladli Zahra Nu Aye Dard Gaye Lyrics 2016"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بابا تیری لاڈلی زہرا نوں ایہہ درد گئے"
+alternateTitle: "Baba Teri Ladli Zahra Nu Aye Dard Gaye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baba teri ladli Zahra nu aye dard gaye ne maar
+  Tu deen da masla bhul gayi ayein reh kehnde wich darbar
+  Haider di wilayat parh ayi aan main Fidaqa de khutbe naal
+  Tere dein layi teri Zahra nu aj langne paye bazar
+  Main tere naam de wain kite mainu lokaan chadiya rook
+  Tanu rowan layi jana painda Baba Yasrab toon baar
+
+  2
+  Kyun hath pase tu nayi chukdi bas sun lay aina haal
+  Ik pasay balda boha si te ik pasay si dewar
+  Tere badon awein badal gaye ne arabaan de dastoor
+  Ohh boha sarh gaya parhna sain salwaat jithe har waar
+  Akbar bibi aye wain kare kita Mankuntu nu qaid
+  Aynj lagda aye sare kar gaye ne teri bait toon inkar
 ---
 
-Baba Teri Ladli Zahra Nu Write Up
+۱
+بابا تیری لاڈلی زہرا نوں ایہہ درد گئے نے مار
+توں دین دا مسئلہ بھل گئی ایں رہ کہندے وچ دربار
+حیدر دی ولایت پڑھ آئی آں میں فدک دے خطبے نال
+تیرے دین لئی تیری زہرا نوں اج لنگھنے پئے بازار
+میں تیرے ناں دے وین کیتے مینوں لوکاں چھڈیا روک
+تینوں روون لئی جانا پیندا بابا یثرب توں باہر
 
-1
-Baba Teri Ladli Zahra Nu Aye Dard Gaye Ne Maar.
-Tu Deen Da Masla Bhul Gayi Ayein Reh Kehnde Wich Darbar.
-Haider Di Wilayat Parh Ayi Aan Main Fidaqa De Khutbe Naal.
-Tere Dein Layi Teri Zahra Nu Aj Langne Paye Bazar.
-Main Tere Naam De Wain Kite Mainu Lokaan Chadiya Rook.
-Tanu Rowan Layi Jana Painda Baba Yasrab Toon Baar.
-
-2
-Kyun Hath Pase Tu Nayi Chukdi Bas Sun Lay Aina Haal.
-Ik Pasay Balda Boha Si Te Ik Pasay Si Dewar.
-Tere Badon Awein Badal Gaye Ne Arabaan De Dastoor.
-Ohh Boha Sarh Gaya Parhna Sain Salwaat Jithe Har Waar.
- Akbar Bibi Aye Wain Kare Kita Mankuntu Nu Qaid.
-Aynj Lagda Aye Sare Kar Gaye Ne Teri Bait Toon Inkar.
+۲
+کیوں ہتھ پاسے توں نئیں چکدی بس سن لے اینا حال
+اک پاسے بلدا بوہا سی تے اک پاسے سی دیوار
+تیرے بعدوں ایویں بدل گئے نے عرباں دے دستور
+اوہ بوہا سڑھ گیا پڑھنا سیں صلوات جتھے ہر وار
+اکبر بی بی ایہہ وین کرے کیتا من کنتُ نوں قید
+اینج لگدا اے سارے کر گئے نے تیری بیعت توں انکار

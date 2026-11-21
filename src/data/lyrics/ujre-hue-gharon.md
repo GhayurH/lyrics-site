@@ -16,28 +16,28 @@ romanLyrics: |-
   Ab laut aa musaafir Zehra bula rahi hai
 
   1
-  Ek saal yuṅ guzaara takti rahi maiṅ raaheṅ
+  Ek saal yuṅ guzaara takti rahi main raaheṅ
   Bas dhundti hai bhaiya tum ko meri nigaaheṅ
   Ab laut aao Akbar Sughra bula rahi hai
 
   2
-  Mehndi lagaauṅ gi maiṅ sehra sajaauṅ gi maiṅ
-  Armaan hai ye maaṅ ka dulhan bhi laauṅ gi maiṅ
+  Mehndi lagaauṅ gi main sehra sajaauṅ gi main
+  Armaan hai ye maaṅ ka dulhan bhi laauṅ gi main
   Ab laut aao Qaasim Farwa bula rahi hai
 
   3
-  Ae Aun aur Muhammad tum jin meiṅ khelte the
+  Ae Aun aur Muhammad tum jin mein khelte the
   Suni hai ab wo galiyaaṅ wiraan hai wo hujre
   Ab laut aao pyaaroṅ dukhiya bula rahi hai
 
   4
-  Maaṅ dhup meiṅ rahe gi faryaad bhi kare gi
+  Maaṅ dhup mein rahe gi faryaad bhi kare gi
   Jab tak na aao ge tum paani nahiṅ piye gi
   Ab laut aao Asghar mamta bula rahi hai
 
   5
   Ummul Banin ro kar ye kar rahi hai noha
-  Tum dasht-e-Karbala meiṅ Kulsum par the fidya
+  Tum dasht-e-Karbala mein Kulsum par the fidya
   Ab laut aao Ghaazi behna bula rahi hai
 
   6

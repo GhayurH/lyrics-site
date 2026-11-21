@@ -4,9 +4,33 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Husain laal di turbat bana ke ronda riya
+
+  O tapdi ret nuṅ Asghar te paa ke ronda riya
+
+  Lahu Saghir da chehre te mal ke aaya jadoṅ
+
+  O khaali jhule di dori bula ke ronda riya
+
+  Lai aaya kurta nishaani lahu ch pajjiya hoya
+
+  Husain mittiyaṅ te chola vichha ke ronda riya
+
+  Kadi o waaliyaṅ chum chum ke vain karda si
+
+  Kadi Sakina nuṅ o sine laa ke ronda raba
+
+  Koi Husain da bachiya na khaimiyaṅ ch jadoṅ
+
+  O chaaroṅ paase hi dhiyaṅ bitha ke ronda riya
+
+  Ajab gharibi si Akbar ke jang karda hoya
+
+  Husain Ghazi de laashe te jaa ke ronda riya
 ---
 
 Hussain Lal Di Turbat Anjuman e Guldasta e Jaffria 26 Safar 2026 Ravi Road Lahore

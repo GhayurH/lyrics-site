@@ -1,41 +1,71 @@
 ---
-title: "Hukam-e-Khuda Hai Aye Paighamber Kardo"
+title: "حکمِ خدا ہے اے پیغمبر کر دو"
+alternateTitle: "Hukam-e-Khuda Hai Aye Paighamber Kardo"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hukam-e-Khuda hai aye Paighamber kardo ab aylan-e-Ghadeer
+  Sab ka mula Ibn-e-Abu Talib ho ga sultan-e-Ghadeer
+  Cheen lo sab auntoon ki kajaway our ik minber banwao
+  Man kunto mula ka kalma sab ki zabaan se parhwao
+
+  2
+  Dekho adhora rehne na paye aaj koi arman-e-Ghadeer
+  Aik hi noor ke dono tukre jalwa figan hain minber par
+  Lafzein badal doon dast-e-Khuda hai youn dast-e-Paighamber par
+  Jaise ho Quran-e-Risalat par rakha Quran-e-Ghadeer
+
+  3
+  Koan hai apna koan paraya yeh samjhane ki khatir
+  Jo hain Saqeefai unn ki auqaat batane ki khatir
+  Har athara Zilhaj ko aata hai tofan-e-Ghadeer
+  Dushman-e-Haider ki rakhi hai Khaliq ne kuch aisi saza
+
+  4
+  Qabar ki manzil mein bhi unn ko chain nahi lene de ga
+  Aik Abu Talib ka namak our dosra dastarkhuwan-e-Ghadeer
+  Sari raat alam milne ki hasrat mein jo jagay the
+  Choor ke jo maidan-e-Uhad mein Paighamber ko bhagay the
+
+  5
+  Unn ki naslein yaad rakhein gi kaise bhala maidan-e-Ghadeer
+  Bandh ke jo dastar-e-wilayat ban jaye Ahamad ki shabeeh
+  Kaise na osspar qurbaan hoon chand our soraj Nayab-o- Wajhi
+  Aaj bhi kehta hai sehraon se yehi Chaminstan-e-Ghadeer
 ---
 
-1
-Hukam-e-Khuda Hai Aye Paighamber Kardo Ab Aylan-e-Ghadeer.
-Sab Ka Mula Ibn-e-Abu Talib Ho Ga Sultan-e-Ghadeer.
-Cheen Lo Sab Auntoon Ki Kajaway our Ik Minber Banwao.
-Man Kunto Mula Ka Kalma Sab Ki Zabaan Se Parhwao.
+۱
+حکمِ خدا ہے اے پیغمبر کر دو اب اعلانِ غدیر
+سب کا مولا ابنِ ابو طالب ہو گا سلطانِ غدیر
+چھین لو سب اونٹوں کی کجاوے اور اک منبر بنواؤ
+من کنت مولا کا کلمہ سب کی زبان سے پڑھواؤ
 
-2
-Dekho Adhora Rehne Na Paye Aaj Koi Arman-e-Ghadeer.
-Aik Hi Noor Ke Dono Tukre Jalwa Figan Hain Minber Par.
-Lafzein Badal Doon Dast-e-Khuda Hai Youn Dast-e-Paighamber Par.
-Jaise Ho Quran-e-Risalat Par Rakha Quran-e-Ghadeer.
+۲
+دیکھو ادھورا رہنے نہ پائے آج کوئی ارمانِ غدیر
+ایک ہی نور کے دونوں ٹکڑے جلوہ فگن ہیں منبر پر
+لفظیں بدل دوں دستِ خدا ہے یوں دستِ پیغمبر پر
+جیسے ہو قرآنِ رسالت پر رکھا قرآنِ غدیر
 
-3
-Koan Hai Apna Koan Paraya Yeh Samjhane Ki Khatir.
-Jo Hain Saqeefai Unn Ki Auqaat Batane Ki Khatir.
-Har Athara Zilhaj Ko Aata Hai Tofan-e-Ghadeer.
-Dushman-e-Haider Ki Rakhi Hai Khaliq Ne Kuch Aisi Saza
+۳
+کون ہے اپنا کون پرایا یہ سمجھانے کی خاطر
+جو ہیں سقیفائی ان کی اوقات بتانے کی خاطر
+ہر اٹھارہ ذی الحاج کو آتا ہے طوفانِ غدیر
+دشمنِ حیدر کی رکھی ہے خالق نے کچھ ایسی سزا
 
-4
-Qabar Ki Manzil Mein Bhi Unn Ko Chain Nahi Lene De Ga.
-Aik Abu Talib Ka Namak Our Dosra Dastarkhuwan-e-Ghadeer.
-Sari Raat Alam Milne Ki Hasrat Mein Jo Jagay The.
-Choor Ke Jo Maidan-e-Uhad Mein Paighamber Ko Bhagay The.
+۴
+قبر کی منزل میں بھی ان کو چین نہیں لینے دے گا
+ایک ابو طالب کا نمک اور دوسرا دسترخوانِ غدیر
+ساری رات علم ملنے کی حسرت میں جو جاگے تھے
+چھوڑ کے جو میدانِ احد میں پیغمبر کو بھاگے تھے
 
-5
-Unn Ki Naslein Yaad Rakhein Gi Kaise Bhala Maidan-e-Ghadeer.
-Bandh Ke Jo Dastar-e-Wilayat Ban Jaye Ahamad Ki Shabeeh.
-Kaise Na Osspar Qurbaan Hoon Chand Our Soraj Nayab-O- Wajhi
-Aaj Bhi Kehta Hai Sehraon Se Yehi Chaminstan-e-Ghadeer.
+۵
+ان کی نسلیں یاد رکھیں گی کیسے بھلا میدانِ غدیر
+باندھ کے جو دستارِ ولایت بن جائے احمد کی شبیہ
+کیسے نہ اس پر قربان ہوں چاند اور سورج نایاب و وجہی
+آج بھی کہتا ہے صحراؤں سے یہی چمنستانِ غدیر

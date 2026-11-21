@@ -9,118 +9,69 @@ reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Khamoshiyon se hi poocho
-
-  In aansuon se hi poocho
-
+romanLyrics: |-
+  Khamoshiyoṅ se hi puchho
+  In aansuoṅ se hi puchho
 
   1
-
-  Bade zulm raahon mein sehti rahi hai
-
-  Yateemi ke taane ye sehti rahi hai
-
-  Nahi maar zaalim tamache isay
-
-  Na kar is ka dushwaar jeena
-
+  Bare zulm raahoṅ mein sehti rahi hai
+  Yatimi ke taane ye sehti rahi hai
+  Nahiṅ maar zaalim tamaanche ise
+  Na kar is ka dushwaar jina
+  Bahut ro chuki hai Sakina
 
   2
-
-  Bahot ro chuki hai sakina
-
-  Safar mein ye soyi na zindan aa kar
-
-  Ujaala kiya hai yahan dil jala kar
-
-  Padar se jo bichdi hai ashoor ko
-
+  Safar mein ye soi na zindaan aa kar
+  Ujaala kiya hai yahaaṅ dil jala kar
+  Padar se jo bichhri hai Aashur ko
+  Sukun paa saki phir kabhi na
 
   3
-
-  Sukoon paa saki phir kabhi na
-
-  Bahot ro chuki hai...
-
+  Sukun paa saki phir kabhi na
+  Bahut ro chuki hai...
   Mila dasht mein jab ke baba ka laasha
-
-  Lipat ke padar se kiya khoob girya
-
+  Lipat ke padar se kiya khub girya
 
   4
-
-  Wahan pahunchi zainab to sheh ne kaha
-
-  Sula do isay jaa ke behna
-
-  Rasan de gayi hai nishani galay par
-
+  Wahaaṅ pahunchi Zainab to shah ne kaha
+  Sula do ise jaa ke behna
+  Rasan de gai hai nishaani gale par
 
   5
-
-  Hai peshani zakhmi jo khaaye thay pathar
-
-  Nishan hai tamachon ke rukhsaar par
-
-  Masayeb se zakhmi hai seena
-
+  Hai peshaani zakhmi jo khaaye the patthar
+  Nishaan hain tamaanchoṅ ke rukhsaar par
+  Masaaib se zakhmi hai sina
 
   6
-
-  Kabhi apne baba ke qatil se dar kar
-
-  Kabhi royi zindaan me tanhaaiyon par
-
+  Kabhi apne baba ke qaatil se dar kar
+  Kabhi roi zindaan mein tanhaaiyoṅ par
   Kabhi boli Zainab ke ab ghar chalo
-
   Hua ek baras ek mahina
 
-  Bohat ro chuki hay Sakina
-
-
   7
-
-  Ho maqtal ka bazaar ya qaid khana
-
-  Sada de ke baba se kehti thi dukhiya
-
-  Yateemi mili to mile aise gham
-
+  Ho maqtal ka baazaar ya qaid khaana
+  Sadaa de ke baba se kehti thi dukhiya
+  Yatimi mili to mile aise gham
 
   8
-
-  Kahin chain se jee saki na
-
-  Qayamat ki ek raat aisi bhi aayi
-
-  Qaza ne sakina ko lori sunayi
-
+  Kahiṅ chain se ji saki na
+  Qayaamat ki ek raat aisi bhi aai
+  Qaza ne Sakina ko lori sunaai
 
   9
-
-  Kaha ro ke sajjad ne ay phupi
-
-  Ke ab royegi phir kabhi na
-
-  Jo qabr e sakina pe rote thay qaidi
-
+  Kaha ro ke Sajjad ne Ae phuphi
+  Ke ab roegi phir kabhi na
+  Jo qabr-e-Sakina pe rote the qaidi
 
   10
-
-  To un rone waalon se bano ye kehti
-
-  Abhi thak ke soyi hai zindan mein
-
-  Jagaana isay ab koi na
-
+  To un rone waaloṅ se Bano ye kehti
+  Abhi thak ke soi hai zindaan mein
+  Jagaana ise ab koi na
 
   11
-
-  Ye kehta hai farhan se ro ke mazhar
-
-  Jo qabr e sakina pe jaana baradar
-
-  Wahan marsiya jaa ke padhna yehi'
+  Ye kehta hai Farhan se ro ke Mazhar
+  Jo qabr-e-Sakina pe jaana baraadar
+  Wahaaṅ marsiya jaa ke parhna yahi
 ---
 
 خاموشیوں سے ہی پوچھو

@@ -12,36 +12,36 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Midhat-e Haider mere lab par zara aane to do
-  Daad mujh ko phir tumhara dil agar maane to do
+  Midhat-e-Haider mere lab par zaraa aane to do
+  Daad mujh ko phir tumhaara dil agar maane to do
 
   2
-  Hosh meiṅ aa jayegi foran sipah-e bad-sifaat
-  Tum muhibban-e Ali ko josh meiṅ aane to do
+  Hosh mein aa jaayegi foran sipaah-e-bad sifaat
+  Tum muhibbaan-e-Ali ko josh mein aane to do
 
   3
-  Khud ba khud phirte nazar aayeṅge tufanoṅ ke rukh
-  Tum fiza meiṅ parcham-e Abbas lehrane to do
+  Khud ba khud phirte nazar aayeṅge tufaanoṅ ke rukh
+  Tum fizaa mein parcham-e-Abbaas lehraane to do
 
   4
-  Kaun roya kaun soya sab pata chal jayega
-  Tum shab-e hijrat ka qissa hum ko dohrane to do
+  Kaun royaa kaun soyaa sab pataa chal jaayega
+  Tum shab-e-hijrat ka qissa ham ko dohraane to do
 
   5
-  Dekhna kaisa tawana hoga yeh laghar mariz
-  Majlis-e Shah ka tabarruk tum ise khane to do
+  Dekhnaa kaisaa tawaanaa hogaa yeh laaghar mariz
+  Majlis-e-Shah ka tabarruk tum ise khaane to do
 
   6
-  Saaf aayega nazar maidan ta hadd-e nazar
-  Hazrat-e Abbas ko maidan meiṅ aane to do
+  Saaf aayega nazar maidaan taa hadd-e-nazar
+  Hazrat-e-Abbaas ko maidaan mein aane to do
 
   7
-  Khud samajh jayeṅge woh kis jurm ki kya hai saza
-  Bughz ke maare huoṅ ko qabr meiṅ jaane to do
+  Khud samajh jaayeṅge woh kis jurm ki kya hai sazaa
+  Bughz ke maare huoṅ ko qabr mein jaane to do
 
   8
-  Asliyat khul jayegi Khyber meiṅ sheikhoṅ ki, huzur
-  Jo Payambar keh rahe haiṅ un ko farmane to do
+  Asliyat khul jaayegi Khaibar mein sheikhoṅ ki, huzur
+  Jo Paighambar keh rahe haiṅ un ko farmaane to do
 ---
 
 ۱

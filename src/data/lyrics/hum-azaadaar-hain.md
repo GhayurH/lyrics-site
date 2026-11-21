@@ -26,18 +26,18 @@ romanLyrics: |-
   Us Nabi ke nawaase ke ghamkhwaar haiṅ
 
   2
-  Ye Khuda ki khudaai ke haiṅ raazdaṅ
-  Bane Panjatan ke sadqe donoṅ jahaaṅ
+  Ye Khuda ki khudaai ke haiṅ raazdaaṅ
+  Bane Panjatan ke sadqe meiṅ donoṅ jahaaṅ
   Hai Nabi ki zabaaṅ hi Khuda ki zabaaṅ
   Taabe in ke amr ke haiṅ kaun o makaaṅ
-  Dastaras meiṅ inhi ke haiṅ lauh o qalam
-  Ba Khuda ye hi jannat ke sardaar haiṅ
+  Dastaras meiṅ inhiṅ ke haiṅ lauh o qalam
+  Ba Khuda ye hi jannat ke sardaar hai
 
   3
-  Aao haq-e-mawaddat ada hum kareṅ
-  Ali Asghar ka Akbar ka maatam kareṅ
-  Mil ke Qasim ka Abbas ka gham kareṅ
-  Yaad meiṅ apni aankhoṅ ko purnam kareṅ
+  Aao haq-e-mawaddat ada hum kare
+  Ali Asghar ka Akbar ka maatam kare
+  Mil ke Qasim ka Abbas ka gham kare
+  Yaad meiṅ apni aankhoṅ ko purnam kare
   Saani-e-Zehra ke the jo paale hue
   Sar kiye jin ke nezoṅ pe akhwaar hai
 

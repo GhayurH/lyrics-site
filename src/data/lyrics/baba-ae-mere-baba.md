@@ -15,16 +15,16 @@ romanLyrics: |-
   Baba raat ho gayi
   Baba ae mere baba aao dhal gaya suraj
   Har taraf hai sannaata aao dhal gaya suraj
-  Nouha tha Sakina ka aao dhal gaya suraj
+  Nauha tha Sakina ka aao dhal gaya suraj
 
   1
   Sirf apne sine par shab guzaar lene do
-  Chain se mere baba ek dafa to sone do
+  Chain se mere baba ik dafa to sone do
   Subh phir chale jaana aao dhal gaya suraj
 
   2
-  Donoṅ haath phailaaye maiṅ tumheiṅ bulaati huṅ
-  Is andhere zindaan meiṅ kitna ghabraati huṅ
+  Donoṅ haath phailaaye main tumheiṅ bulaati huṅ
+  Is andhere zindaaṅ mein kitna ghabraati huṅ
   Ab nahiṅ raha jaata aao dhal gaya suraj
 
   3
@@ -38,8 +38,8 @@ romanLyrics: |-
   Raat ho gayi baba aao dhal gaya suraj
 
   5
-  Dushmanoṅ ki basti meiṅ khaufnaak sahra meiṅ
-  Dushmanoṅ ki basti meiṅ kaise dil ko behlaauṅ
+  Dushmanoṅ ki basti mein khaufnaak sahra mein
+  Dushmanoṅ ki basti mein kaise dil ko behlaauṅ
   Berida huṅ besaaya aao dhal gaya suraj
 
   6
@@ -51,7 +51,7 @@ romanLyrics: |-
   Hum se phir gayi duniya aao dhal gaya suraj
 
   8
-  Kya tumheiṅ gawaara hai maiṅ yatim kehlaauṅ
+  Kya tumheiṅ gawaara hai main yatim kehlaauṅ
   Tum to ho mere baba aao dhal gaya suraj
 
   9

@@ -1,29 +1,47 @@
 ---
-title: "Wadi E Ishq Se Rehmat Ki Sanad Chaahte Hain Hasnain Abidi"
+title: "وادیِ عشق سے رحمت کی سند چاہتے ہیں حسنین عابدی"
+alternateTitle: "Wadi-e-Ishq Se Rehmat Ki Sanad Chaahte Hain Hasnain Abidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hassaan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ahl-e-Maka bhi Madine mein lehad chahtey hain
+
+  1
+  Noor-e-Wahid hain Nabi our Ali so hum loag
+  Ya Ali keh keh Muhammad se madad chahtey hain
+  LaIlaha ko issi tasdeeq se hai Illallah
+  Tees parey issi lehjay se rasad chahtey hain
+  Muntahib yani keh jis hath ko kar dein woh boland
+  Mustarid yani woh jis baat ka rad chahtey hain
+
+  2
+  Aasmano pe abhi our thehar taig-e-Ali
+  Teri tanzeel Nabi rooz-e-Ohad chahtey hain
+  Qaba Qausain bhi kya bait-e-Abu Talib hai
+  Koi ijlaas jahan ahl-e-khird chahtey hain
+  Loag Hassaan ke gun gatay hain gaein Akbar
+  Naat par hum Abu Talib ki sand chahtey hain
 ---
 
-Ahl-e-Maka Bhi Madine Mein Lehad Chahtey Hain.
+اہلِ مکہ بھی مدینے میں لحد چاہتے ہیں
 
-1
-Noor-e-Wahid Hain Nabi Our Ali So Hum Loag.
-Ya Ali Keh Keh Muhammad Se Madad Chahtey Hain.
-LaIlaha Ko Issi Tasdeeq Se Hai Illallah.
-Tees Parey Issi Lehjay Se Rasad Chahtey Hain.
-Muntahib Yani Keh Jis Hath Ko Kar Dein Woh Boland.
-Mustarid Yani Woh Jis Baat Ka Rad Chahtey Hain.
+۱
+نورِ واحد ہیں نبی اور علی سو ہم لوگ
+یا علی کہہ کہہ محمد سے مدد چاہتے ہیں
+لا الٰہ کو اسی تصدیق سے ہے الا اللہ
+تیس پارے اسی لہجے سے رسد چاہتے ہیں
+منتخب یعنی کہ جس ہاتھ کو کر دیں وہ بلند
+مسترد یعنی وہ جس بات کا رد چاہتے ہیں
 
-2
-Aasmano Pe Abhi Our Thehar Taig-e-Ali.
-Teri Tanzeel Nabi Rooz-e-Ohad Chahtey Hain.
-Qaba Qausain Bhi Kya Bait-e-Abu Talib Hai.
-Koi Ijlaas Jahan Ahl-e-Khird Chahtey Hain.
-Loag Hassaan Ke Gun Gatay Hain Gaein Akbar.
-Naat Par Hum Abu Talib Ki Sand Chahtey Hain.
+۲
+آسمانوں پہ ابھی اور ٹھہر تیغِ علی
+تیری تنزیل نبی روزِ احد چاہتے ہیں
+قابَ قوسین بھی کیا بیتِ ابو طالب ہے
+کوئی اجلاس جہاں اہلِ خرد چاہتے ہیں
+لوگ حسّان کے گن گاتے ہیں گائیں اکبر
+نعت پر ہم ابو طالب کی سند چاہتے ہیں

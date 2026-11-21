@@ -7,6 +7,53 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Mashhad mein musalmaaṅ ne kya zulm ye dhaaya hai
+  Pardes mein Maula ko haae haae
+  Pardes mein Maula ko sam haae pilaaya hai
+
+  2
+  Khun-e-jigar ke qatre halqum se the nikle
+  Misl-e-Hasan Raza ka dil ho gaya tha tukre
+  Yuṅ waaris-e-Hasan ko, haae haae
+  Yuṅ waaris-e-Hasan ko, zaalim ne sataaya hai
+  Mashhad mein musalmaaṅ ne haae zulm ye dhaaya hai
+
+  3
+  Ummat ne risaalat ka kaisa ajr diya hai
+  Kaazim ke dulaare ko haae qatl kar diya hai
+  Phir Faatima Zehra ko haae haae
+  Phir Faatima Zehra ko, marqad mein rulaaya hai
+  Mashhad mein musalmaaṅ ne haae zulm ye dhaaya hai
+
+  4
+  Maula Raza ki bahneṅ fariyaad kar rahi haiṅ
+  Bhaiya se kab mileṅ gi ye ro ke puchhti haiṅ
+  Sadma ye judaai ka, haae haae
+  Sadma ye judaai ka, kaisa ae Khudaaya hai
+  Mashhad mein musalmaaṅ ne haae zulm ye dhaaya hai
+
+  5
+  Maaṅ jaae se bichhar kar sar apna pitti hai
+  Maula Raza ki bahna ro ro ke kah rahi hai
+  Gham bhaai ki furqat ka, haae haae
+  Gham bhaai ki furqat ka, hamshir ne paaya hai
+  Mashhad mein musalmaaṅ ne haae zulm ye dhaaya hai
+
+  6
+  Kaazim ki laarli ke dil ki ye aarzu hai
+  Bhaai se ek bahan ko milne ki justuju hai
+  Maasuma ko din kaisa, haae haae
+  Maasuma ko din kaisa, ghurbat ne dikhaaya hai
+  Mashhad mein musalmaaṅ ne haae zulm ye dhaaya
+
+  7
+  Rizwan sab janaaza mil kar utha rahe haiṅ
+  Naana bhi aa gae haiṅ baaba bhi aa gae haiṅ
+  Har samt samaaṅ gham ka, haae haae
+  Har samt samaaṅ gham ka, maahaul pe chhaaya hai
+  Mashhad mein musalmaaṅ ne haae zulm ye dhaaya hai
 ---
 
 ۱

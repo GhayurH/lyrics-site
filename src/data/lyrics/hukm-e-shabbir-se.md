@@ -33,10 +33,10 @@ romanLyrics: |-
 
   5
   Jab talak baazu rahe mashk pe aanch aai nahiṅ
-  Kat gaye haath to mashkize pe tab waar hua
+  Kat gaye haath jo mashkiza pe tab waar hua
 
   6
-  Tere qadmoṅ ki badaulat hui mashhur Furaat
+  Tere qadmoṅ ke badaulat hai mashhur Furaat
   Paaoṅ chhu kar jo tere paani haya daar hua
 ---
 
