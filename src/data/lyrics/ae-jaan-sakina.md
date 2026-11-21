@@ -1,7 +1,7 @@
 ---
 title: "اے جان سکینہ نادان سکینہ"
 recitationId: "ay-jaan-sakina"
-alternateTitle: "Ae Jaan Sakina"
+alternateTitle: "Ae Jaan Sakina Naadaan Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

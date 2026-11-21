@@ -1,7 +1,7 @@
 ---
 title: "اے میرے سر بریدہ بدن دریدہ"
 recitationId: "ay-mere-sar-bureeda"
-alternateTitle: "Ae Mere Sar Burida"
+alternateTitle: "Ae Mere Sar Burida Badan Darida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

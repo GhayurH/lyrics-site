@@ -41,8 +41,6 @@ romanLyrics: |-
   Haiṅ sadaa-e-Khurram benawaa
   Main alam ko kahtaa huṅ thaam kar
 
-  7
-  Haaye Sakina haaye pyaas
 ---
 
 سرِ شاہ پر جمی ہے نظر

@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Jo bhi khuda se maanga, tere alam se paaya
   Tere alam ka saaya, hai kibriya ka saaya
-  Kiun na tere alam pe aakar kahe jahaa’n
+  Kiun na tere alam pe aakar kahe jahaaṅ
 
   3
   Tere dar ke hai bikhari, sab auliya, qalandar
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Mushkil kusha Ali hai, mushkil kusha hai tu bhi
   Wo dast e kibriya hai, rabbe wafa hai tu bhi
-  Padhte hai Ali wale yehi manqabat yaha’n
+  Padhte hai Ali wale yehi manqabat yahaaṅ
 
   5
   Roze pe tere aake, ehsaas ye hua hai
@@ -41,12 +41,12 @@ romanLyrics: |-
 
   6
   Dar dar bhatakne walo, ek baat meri maano
-  Be dast is sakhi ke, dar par jabee’n jhukalo
+  Be dast is sakhi ke, dar par jabiṅ jhukalo
   Be saakhta kahoge, khologe jab zabaaṅ
 
   7
   Farhan tere dar ka, naukar hai mere ghaazi
-  Ek qarz ma’refat ka, mujh pe hai mere ghaazi
+  Ek qarz marifat ka, mujh pe hai mere ghaazi
   Parh luṅ namaz e midhat dekar yehi azaaṅ
 ---
 
@@ -89,4 +89,3 @@ romanLyrics: |-
 فرحان تیرے در کا، نوکر ہے میرے غازی
 ایک قرض معرفت کا، مجھ پہ ہے میرے غازی
 پڑھ لوں نمازِ مدحت دے کر یہی اذاں
-عباس تیرے در سا دنیا میں در کہاں
