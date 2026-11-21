@@ -1,6 +1,6 @@
 ---
 title: "بے کس حسین سی ہے سکینہ حسین کی"
-alternateTitle: "Bekas Hussain Si Hai Sakina Hussain Ki"
+alternateTitle: "Bekas Husain Si Hai Sakina Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bekas Hussain si hai Sakina Hussain ki
-  Youn zulm seh rahi hai Sakina Hussain ki
-  Khati rahi tamachay woh Baba ki lash par
-  Durray bhi kha chuki hai Sakina Hussain ki
+  Bekas Husain si hai Sakina Husain ki
+  Yun zulm seh rahi hai Sakina Husain ki
+  Khati rahi tamache wo Baba ki laash par
+  Durre bhi kha chuki hai Sakina Husain ki
 
   2
-  Apni kamar jhukaye hoye tapti khak par
-  Zahra hain ya khari hai Sakina Hussain ki
-  Rakh kar galay ko apne galay par Hussain ke
-  Khanjar ko rokti hai Sakina Hussain ki
+  Apni kamar jhukaye hue tapti khaak par
+  Zahra hain ya khari hai Sakina Husain ki
+  Rakh kar gale ko apne gale par Husain ke
+  Khanjar ko rokti hai Sakina Husain ki
 
   3
-  Boli Shimar se marey na Zainab ke samne
-  Zainab ki ladli hai Sakina Hussain ki
-  Girti rahi jo ban mein tu naqay ke sath hi
-  Zalim ne bandh di hai Sakina Hussain ki
+  Boli Shimar se mare na Zainab ke samne
+  Zainab ki ladli hai Sakina Husain ki
+  Girti rahi jo ban mein to naaqe ke saath hi
+  Zalim ne bandh di hai Sakina Husain ki
 
   4
-  Ghatti nahi hai zewar e Sajjad ki tapish
-  Pani bhi dalti hai Sakina Hussain ki
+  Ghatti nahin hai zewar-e-Sajjad ki tapish
+  Pani bhi dalti hai Sakina Husain ki
   Nabzon pe hath rakh ke sada Aliya ne di
-  Sajjad mar gayi hai Sakina Hussain ki
+  Sajjad, mar gayi hai Sakina Husain ki
 
   5
-  Pehlu ko zakhmi dekh ke Dadi bhi tarpi jab
-  Sheh ne sapurd ki hai Sakina Hussain ki
-  Mohsin teri likhayi mein tera nahi kamal
-  Khairat de rahi hai Sakina Hussain ki
+  Pehlu ko zakhmi dekh ke dadi bhi tarpi jab
+  Shah ne supurd ki hai Sakina Husain ki
+  Mohsin teri likhayi mein tera nahin kamal
+  Khairat de rahi hai Sakina Husain ki
 ---
 
 ۱

@@ -1,6 +1,6 @@
 ---
 title: "بنیاد لا الٰہ ہے ماتم حسین دا"
-alternateTitle: "Buniyad Lailah Hay Matam Hussain Da"
+alternateTitle: "Buniyad La Ilaha Hai Matam Husain Da"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,33 +9,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Buniyad Lailah hay matam Hussain da
-  Islam di baka ay  matam Hussain da
+  Buniyad la ilaha hai matam Husain da
+  Islam di baqa ae matam Husain da
 
   1
-  Zainab ton vadh kay jag tay dukhi behan hay na koi
-  Rahi vaindi veer kusda jairi lash utay nah rooyi
-  Us behan di dua ay matam Hussain da
+  Zainab ton wadh ke jag te dukhi behan hai na koi
+  Rahi wendi veer kis da jeri laash utte na roi
+  Us behan di dua ae matam Husain da
 
   2
-  Matam jay gunah honda Humza da na karanday
-  Bidat jay hondi mursal sirr vich na mitiyan panday
-  Ay hukam-e-Mustafa ay matam Hussain da
+  Matam je gunah honda Hamza da na karande
+  Bidat je hondi mursal sir vich na mittiyan paande
+  Ae hukm-e-Mustafa ae matam Husain da
 
   3
-  Aswar dosh e Ahmad pamal ainj da hoya
-  Jis nu zameen bhi roye hay asmaan roya
-  Paye kardi Karbala ay matam Hussain da
+  Aswar-e-dosh-e-Ahmad pamaal inj da hoya
+  Jis nu zameen bhi roye hai aasman roya
+  Payi kardi Karbala ae matam Husain da
 
   4
-  Aiban da bhariya daman sang hajuan day dho laye
-  Ral mil kay pursa daye Shabbir nu ro laye
-  Ay dil da faisla ay matam Hussain da
+  Aiban da bhariya daman sang hajwan de dho layiye
+  Ral mil ke pursa diye Shabbir nu ro layiye
+  Ae dil da faisla ae matam Husain da
 
   5
-  Vich khawab haal puchiya noha garan ton Haider
-  Bolay Nisar Baba Khursheed Najafi Akhtar
-  Vich khuld lay gaya ay matam Hussain da
+  Vich khwab haal puchiya noha garan ton Haider
+  Bole Nisar Baba Khursheed Najafi Akhtar
+  Vich khuld le gaya ae matam Husain da
 ---
 
 بنیاد لا الٰہ ہے ماتم حسین دا

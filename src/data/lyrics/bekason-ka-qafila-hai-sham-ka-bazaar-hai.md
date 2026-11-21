@@ -1,41 +1,42 @@
 ---
-title: "بے کسوں کا قافلہ ہے شام کا بازار ہے میر حسن میر"
-alternateTitle: "Bekasoon Ka Qafila Hai Sham Ka Bazar Hai Mir Hasan Mir"
+title: "بے کسوں کا قافلہ ہے شام کا بازار ہے"
+alternateTitle: "Bekason Ka Qafila Hai Sham Ka Bazaar Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Gohar"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Bekasoon ka qafila hai Sham ka bazar hai Mir Hasan Mir
+  Bekason ka qafila hai Sham ka bazaar hai
   Khwahar-e-Abbas-e-Ghazi qafila salar hai
-  Kyun na roney ki sada aaye dar-o-dewar se
-  Be rida syedaniyaan hain our bhara darbar hai
-  Kis tarha mangay ghulamo se bhala Abid rida
-  Yeh hai Ghazi ka bhatija our bara khuddar hai
-  Youn haqarat se na dekho syed-e-Sajjad ko
-  Yeh koi muflis nahi konain ka sardar hai
-  Khak sar par taziyano ke nishaan hain pusht par
-  Tauq hai zanjeer hai our Abid-e-beemar hai
-  Ya Elahi kaisay guzrey ga yeh nazoon ka pala
-  Paon mein chalay paray hain rasta pur khar hai
-  Taziyane mat lagao syed-e-Sajjad ko
+  Kiun na rone ki sada aaye dar o deewar se
+  Be rida Syedaniyan hain aur bhara darbaar hai
+  Kis tarah mange ghulamon se bhala Abid rida
+  Ye hai Ghazi ka bhatija aur bara khuddar hai
+  Yun haqarat se na dekho Syed-e-Sajjad ko
+  Ye koi muflis nahin kaunain ka sardar hai
+  Khaak sar par taziyano ke nishan hain pusht par
+  Tauq hai zanjeer hai aur Abid-e-bimar hai
+  Ya Ilahi kaise guzrega ye nazon ka pala
+  Paon mein chhale pare hain raasta purkhaar hai
+  Taziyane mat lagao Syed-e-Sajjad ko
   Taziyane mat lagao mat satao zalimo
-  Yeh bohat zakhmi bohat pyasa bohat beemar hai
-  Chup hain Abid ghamzada ghabra rahi hain bibiyaan
-  Ab bohat nazdeek shayad Sham ka darbar hai
-  Keh raha hai Shah ki aankhon se khoon behta howa
-  Sham ke bazar ki manzil bohat dushwar hai
+  Ye bahut zakhmi bahut pyasa bahut bimar hai
+  Chup hain Abid ghamzada ghabra rahi hain bibiyan
+  Ab bahut nazdeek shayad Sham ka darbaar hai
+  Keh raha hai Shah ki aankhon se khoon behta hua
+  Sham ke bazaar ki manzil bahut dushwar hai
   Jo gharana lut gaya tha dasht mein Gohar kabhi
-  Aaj woh hi do jahan ka malik-o-mukhtar hai
+  Aaj wo hi do jahan ka malik o mukhtar hai
 ---
 
 ۱
-بے کسوں کا قافلہ ہے شام کا بازار ہے میر حسن میر
+بے کسوں کا قافلہ ہے شام کا بازار ہے
 خواہرِ عباسِ غازی قافلہ سالار ہے
 کیوں نہ رونے کی صدا آئے در و دیوار سے
 بے ردا سیدانیاں ہیں اور بھرا دربار ہے

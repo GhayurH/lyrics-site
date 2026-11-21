@@ -1,53 +1,54 @@
 ---
-title: "بھائی کا لاشہ حیدر رضوی"
-alternateTitle: "Bhai Ka Lasha Haider Rizvi"
+title: "بھائی کا لاشہ"
+alternateTitle: "Bhai Ka Lasha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Azlan"
+reciter: "Haider Rizvi"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab Zanu-e-Hussain Pe Abbas Mar Gaye
-  Sadmay Ghazab Ke Sibt e Nabi Par Guzar Gaye
+  Jab zanu-e-Husain pe Abbas mar gaye
+  Sadme ghazab ke Sibt-e-Nabi par guzar gaye
 
   1
-  Khanjar Alam Ke Dil Se Jigar Tak Utar Gaye
-  Chilatay They Keh Shair Hamarey Kidhar Gaye
-  Wa Hasrata Keh Bekas-o-Be Yaar Ho Gaye
-  Sar Kaisay Peetein Hath Tu Bekar Ho Gaye
+  Khanjar-e-alam ke dil se jigar tak utar gaye
+  Chillate thay ke sher hamare kidhar gaye
+  Wa hasrata ke bekas o beyaar ho gaye
+  Sar kaise peeten hath to bekar ho gaye
 
   2
-  Shabeer Pe Aaya Hai Qayamat Ka Yeh Lamha
-  Hai Samne Bhai Ke Para Bhai Ka Lasha
-  Shabeer Ki Iss Gham Se Kamar Toot Gayi Hai
-  Socho Tu Zara Kaisi Qayamat Ki Ghari Hai
+  Shabbir pe aaya hai qayamat ka ye lamha
+  Hai samne bhai ke para bhai ka lasha
+  Shabbir ki is gham se kamar tut gayi hai
+  Socho to zara kaisi qayamat ki ghari hai
 
   3
-  Maqtal Mein Sheh-e-Deen Se Sanbhala Nahi Jata
-  Abbas Ki Ik Aankh Mein Khoon Aik Mein Hai Teer
-  Haan Khon Mein Dobi Hoi Haider Ki Hai Tasveer
-  Yeh Dekh Ke Shabeer Ka Phatta Hai Kaleja
+  Maqtal mein Shah-e-din se sambhala nahin jata
+  Abbas ki ik aankh mein khoon ek mein hai teer
+  Haan khoon mein dubi hui Haider ki hai tasveer
+  Ye dekh ke Shabbir ka phatta hai kaleja
 
   4
-  Bazu Bhi Nahi Jism Pe Abbas-e-Jari Ke
-  Bikhrey Hoye Tukray Hain Sabhi Ibn-e-Ali Ke
-  Manzar Hai Qayamat Ka Biyaan Ho Nahi Sakta
-  Ab Aoun-o-Muhammad Nahi Akbar Bhi Nahi Hai
+  Bazu bhi nahin jism pe Abbas-e-jari ke
+  Bikhre hue tukre hain sabhi Ibn-e-Ali ke
+  Manzar hai qayamat ka bayan ho nahin sakta
+  Ab Aun o Muhammad nahin Akbar bhi nahin hai
 
   5
-  Abbas Sa Dunya Mein Baradar Bhi Nahi Hai
-  Pardais Mein Ab Kaun Hai Sarwar Ka Sahara
-  Khaimay Se Yeh Sab Dekhti Hain Zainab-e-Dilgeer
-  Ghazi Ke Janazay Pe Girey Hazrat-e-Shabeer
+  Abbas sa duniya mein baradar bhi nahin hai
+  Pardes mein ab kaun hai Sarwar ka sahara
+  Khaime se ye sab dekhti hain Zainab-e-dilgir
+  Ghazi ke janaze pe gire Shabbir
 
   6
-  Roney Ko Madine Se Chali Aayi Hai Zahra
-  Azlan Biyaan Kaisay Ho Haider Woh Qayamat
-  Dekhi Nahi Jati Thi Sheh-e-Deen Ki Halat
-  Abbas Ka Sar Jis Ghari Zanu Pe Rakha Tha
+  Rone ko Madine se chali aayi hai Zahra
+  Azlan bayan kaise ho Haider wo qayamat
+  Dekhi nahin jati thi Shah-e-din ki halat
+  Abbas ka sar jis ghari zanu pe rakha tha
 ---
 
 جب زانوئے حسین پہ عباس مر گئے

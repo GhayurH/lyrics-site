@@ -1,6 +1,6 @@
 ---
 title: "بھلا میں اور کیا لاتا حسین کے در سے"
-alternateTitle: "Bhala Main Our Kya Lata Hussain Ke Dar Se"
+alternateTitle: "Bhala Main Aur Kya Lata Husain Ke Dar Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,39 +10,39 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain mang laya Hussain ke dar se
+  Husain mang laya Husain ke dar se
 
   1
-  Jahan se rizq hain pate yeh sare jin-o-bashar
-  Shajar samar hoon zameen-o-zamaan keh shams-o-qamar
-  Nizam chalta hai sara Hussain ke dar se
-  Andheri qabar mein har samt roshni ke liye
+  Jahan se rizq hain pate ye sare jin o bashar
+  Shajar samar hon zameen o zaman ke shams o qamar
+  Nizam chalta hai sara Husain ke dar se
+  Andheri qabr mein har samt roshni ke liye
   Qaza ke baad bhi main apni zindagi ke liye
-  Kafan khareed ke laya Hussain ke dar se
+  Kafan khareed ke laya Husain ke dar se
 
   2
-  Haan pochne pe mera dil yehi batata hai
-  Faqt woh shaks hi Karb-o-Bala ko jata hai
-  Hai aata jis ko bolawa Hussain ke dar se
-  Yeh baat Aya-e-Tatheer ka khulasa hai
-  Wo shaks ain nijasat ka hi sarapa hai
-  Jo door jitna bhi ho ga Hussain ke dar se
+  Haan puchhne pe mera dil yehi batata hai
+  Faqat wo shakhs hi Karb o Bala ko jata hai
+  Hai aata jis ko bulawa Husain ke dar se
+  Ye baat Ayah-e-Tatheer ka khulasa hai
+  Wo shakhs ain najasat ka hi sarapa hai
+  Jo dur jitna bhi hoga Husain ke dar se
 
   3
-  Qasam Khuda ki kabhi dar badar nahi hota
-  Phir oss ki maut ka bhi kuch khatar nahi hota
-  Jo joor leta hai rishta Hussain ke dar se
+  Qasam Khuda ki kabhi dar badar nahin hota
+  Phir us ki maut ka bhi kuch khatar nahin hota
+  Jo jor leta hai rishta Husain ke dar se
   Jabeen apni jhuka kar salam karta hai
-  Wo rukh Hussain ka kar ke namaz parhta hai
-  Jo dekha goar se Kaba Hussain ke dar se
+  Wo rukh Husain ka kar ke namaz parhta hai
+  Jo dekha ghaur se Kaaba Husain ke dar se
 
   4
-  Hai aik zaat-e-Khuda our hai ik Hussain ki zaat
-  Woh aik baat keh kuch farq ki nahi koi baat
-  Khuda se mang liya ya Hussain ke dar se
-  Mujhe yaqeen hai Raqib main jee nahi paon ga
-  Keh jis baras bhi main Karb-o-Bala na jaon ga
-  Main door reh nahi sakta Hussain ke dar se
+  Hai ek zaat-e-Khuda aur hai ik Husain ki zaat
+  Wo ek baat ke kuch farq ki nahin koi baat
+  Khuda se mang liya ya Husain ke dar se
+  Mujhe yaqeen hai Raqib main ji nahin paunga
+  Ke jis baras bhi main Karb o Bala na jaunga
+  Main dur reh nahin sakta Husain ke dar se
 ---
 
 حسین مانگ لایا حسین کے در سے

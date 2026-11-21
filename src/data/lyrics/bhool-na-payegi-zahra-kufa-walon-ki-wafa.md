@@ -1,6 +1,6 @@
 ---
 title: "بھول نہ پائے گی زہرا، کوفہ والوں کی وفا"
-alternateTitle: "Bhool Na Paey Gi Zehra, Kufa Walon Ki Wafa"
+alternateTitle: "Bhool Na Payegi Zahra Kufa Walon Ki Wafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,33 +9,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bhool na paey gi Zehra, Kufa walon ki wafa
-  Door Yasrab say Ali ki baiteeyan, ho gaeen pardes mei bay aasara
+  Bhool na payegi Zahra, Kufa walon ki wafa
+  Dur Yasrib se Ali ki betiyan, ho gayin pardes mein be aasra
 
   1
-  Waris-e-Tathheer hai, rothi khari
-  Aagaee saadaath pay, mushkil ghari
-  Jis ki zarbat nay bachaya deen ko, us pay hee sajday mei khanjer chal gaya
+  Waris-e-Tatheer hai, ruthi khari
+  Aa gayi Sadat pe, mushkil ghari
+  Jis ki zarbat ne bachaya din ko, us pe hi sajde mein khanjar chal gaya
 
   2
-  Kis tharha bhoolain humain, maah-e-Sayaam
-  Ho gaey hum say juda, haq kai imam
-  Apnay qatil ko jaga ker aap hee, zarb kha ker bhi usay sharbath diya
+  Kis tarah bhulen hamen, mah-e-siyam
+  Ho gaye ham se juda, Haq ke Imam
+  Apne qatil ko jaga kar aap hi, zarb kha kar bhi use sharbat diya
 
   3
-  Shah bolay aey allamdar-e-Hussain
-  Aey mere ghazi aey meray dil ka chayn
-  Ja raha hoon somp ker tujh ko pisar, Zainab-o-Kulsoom ki sar ki rida
+  Shah bole ae Alamdar-e-Husain
+  Ae mere Ghazi ae mere dil ka chain
+  Ja raha hun sonp kar tujh ko pisar, Zainab o Kulsoom ki sar ki rida
 
   4
-  Hogaeen barbaad Zehra zaadian
-  Lut gaeen kaunain ki shehzadian
-  Chup gaey jin kay leeyai shams-o-kamar, kaash unka kalma go kertai haya
+  Ho gayin barbaad Zahra zadiyan
+  Lut gayin kaunain ki shehzadiyan
+  Chhup gaye jin ke liye shams o qamar, kaash un ka kalma go karta haya
 
   5
-  Baani-e-Islam ka, thabooth hai
-  Ashk baar akhthar her aik, malkooth hai
-  Arsh pay Shah ki saff-e-matam bichi, ho rahi hai Khuld mei aah-o-buka
+  Bani-e-Islam ka, taboot hai
+  Ashkbar Akhtar har ek, malakut hai
+  Arsh pe Shah ki saff-e-matam bichhi, ho rahi hai khuld mein aah o buka
 ---
 
 بھول نہ پائے گی زہرا، کوفہ والوں کی وفا
