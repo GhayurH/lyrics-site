@@ -1,6 +1,6 @@
 ---
-title: "علیِ مرتضیٰ سے پیار کرو میر حسن میر"
-alternateTitle: "Ali-e-Murtaza Se Pyar Karo Mir Hasan Mir"
+title: "علیِ مرتضیٰ سے پیار کرو"
+alternateTitle: "Ali-e-Murtaza Se Pyaar Karo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hai farman-e-Payamber kaho Haider Haider
+  Hai farman-e-Paighambar kaho Haider Haider
   Misal-e-Salman-o-Abuzar kaho Haider Haider
   Daar ho ya tah-e-khanjar kaho Haider Haider
-  Adda yeh sunat-e-Sarkar karo Ali-e-Murtaza se pyar karo
+  Ada yeh sunnat-e-Sarkar karo Ali-e-Murtaza se pyaar karo
 
   2
-  Qaza se hargiz na khoof khana tum woh hai kaneez-e-Fatima
+  Qaza se hargiz na khoof khana tum woh hai kaneez-e-Faatima
   Janab-e-Meesum ne khud sikhaya hai Ali Ali ka tazkira
-  Har aik kocha har diyar karo Ali-e-Murtaza se pyar karo
-  Yeh iltija hai Ali ke shiyon se tum aabro-e-deen ho
+  Har aik kocha har diyaar karo Ali-e-Murtaza se pyaar karo
+  Yeh iltija hai Ali ke Shioṅ se tum aabro-e-deen ho
 
   3
   Tumhare jaisa nahi hai koi bhi tum iss qadar haseen ho
-  Amal se bhi yeh aashkar karo Ali-e-Murtaza se pyar karo
-  Kalam oss se karo muhabbat se hai jis ke khon mein Ali
+  Amal se bhi yeh aashkar karo Ali-e-Murtaza se pyaar karo
+  Kalam us se karo muhabbat se hai jis ke khon mein Ali
   Karo baraat Ali ke dushman se na choro munkir-e-Nabi
 
   4
-  Na iss amal mein ikhtisar karo Ali-e-Murtaza se pyar karo
+  Na iss amal mein ikhtisar karo Ali-e-Murtaza se pyaar karo
   Tumhare bacho ne iss jahan mein ab barhana hai yeh silsila
   Pila ke ghuti unhein parhao tum Ali Ali ka qaida
-  Abhi se fikar ustawar karo Ali-e-Murtaza se pyar karo
+  Abhi se fikar ustawar karo Ali-e-Murtaza se pyaar karo
 
   5
   Ali ke dushman tumhara mehshar mein nasha Khuda utare ga
   Tumhare sajday namazein roze sab tumhare munh pe mare ga
-  Na youn jabeen ko dagdar karo Ali e Murtaza se pyar karo
+  Na youn jabeen ko dagdar karo Ali e Murtaza se pyaar karo
   Tum ahl-e-Kofa ho Sham wale ho tumhare pass koan hai
 
   6
   Na koi Qanbar na koi Abuzar hai na koi Hur na Jon hai
-  Hussain rah ikhtiyar karo Ali e Murtaza se pyar karo
-  Taveel tar hai yeh door ghaibat ka bhatak na jaye aadmi
-  Bata gaye hain Imam sare hi hain dono kam lazmi
+  Hussain rah ikhtiyar karo Ali e Murtaza se pyaar karo
+  Taveel tar hai yeh door ghaibat ka bhatak na jae aadmi
+  Bata gae hain Imam sare hi hain dono kam lazmi
 
   7
-  Imam-e-haq ka intezar karo Ali e Murtaza se pyar karo
-  Zameer kehta hai yeh Takallaum ka karo tum oss ka shukriya
-  Ossi ne tum ko bataya dunya mein hain kya Ali-e-Murtaza
-  Tum apni maa pe iftikhar karo Ali e Murtaza se pyar karo
+  Imam-e-haq ka intezar karo Ali e Murtaza se pyaar karo
+  Zamir kehta hai yeh Takallum ka karo tum us ka shukriya
+  Usi ne tum ko bataya dunya mein hain kya Ali-e-Murtaza
+  Tum apni maa pe iftikhar karo Ali e Murtaza se pyaar karo
 ---
 
 ۱

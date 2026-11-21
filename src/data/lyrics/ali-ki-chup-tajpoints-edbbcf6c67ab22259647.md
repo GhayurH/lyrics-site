@@ -9,20 +9,20 @@ poet: "Hasnain"
 aliases: []
 published: false
 romanLyrics: |-
-  Ali ke sath hoi hai jafa Ali chup hain
-  Ali se bugz bhi rakha gaya Ali chup hain
+  Ali ke saath hui hai jafa Ali chup hain
+  Ali se bughz bhi rakha gaya Ali chup hain
 
   1
-  Ali Madine mein tanha hoye hain bad-e-Nabi
-  Ali ko khoob sataya gaya Ali chup hain
-  Ali Hussain se pehle hain awwalo al-mazloom
-  Ali ke hotey hoye ghar luta Ali chup hain
+  Ali Madine mein tanha hoye hain baad-e-Nabi
+  Ali ko khub sataya gaya Ali chup hain
+  Ali Husain se pehle hain awwal-ul-mazlum
+  Ali ke hote hue ghar luta Ali chup hain
 
   2
-  Ali ka sabar tu Abbas se bhi zyada hai
-  Ali ke samne dar jal gaya Ali chup hain
-  Ali ki betiyaan madar ke gham mein roti hain
-  Ali ne unn ko dilasa diya Ali chup hain
+  Ali ka sabr to Abbas se bhi zyada hai
+  Ali ke saamne dar jal gaya Ali chup hain
+  Ali ki betiyaaṅ madar ke gham mein roti hain
+  Ali ne un ko dilasa diya Ali chup hain
 
   3
   Ali hain fatah-e-Khaybar magar Rasool ke baad
@@ -31,10 +31,10 @@ romanLyrics: |-
   Ali ne zulm hai yeh bhi saha Ali chup hain
 
   4
-  Ali ki zoja ko ghar aa ke mara zalim ne
+  Ali ki zauja ko ghar aa ke mara zalim ne
   Ali ke beton ko jhutla diya Ali chup hain
-  Ali ke gham koi Hasnain kya karey ga biyaan
-  Ali ko sadma-e-Zahra mila Ali chup hain
+  Ali ke gham koi Hasnain kya kare ga bayaan
+  Ali ko sadma-e-Zehra mila Ali chup hain
 ---
 
 علی کے ساتھ ہوئی ہے جفا، علی چپ ہیں

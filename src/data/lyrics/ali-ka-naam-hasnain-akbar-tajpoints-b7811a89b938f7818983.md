@@ -1,6 +1,6 @@
 ---
-title: "علی کا نام حسنین اکبر"
-alternateTitle: "Ali Ka Naam Hasnain Akbar"
+title: "علی کا نام"
+alternateTitle: "Ali Ka Naam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,27 +19,27 @@ romanLyrics: |-
   Ghar ghar pe parh raha tha sitara Ali ka naam
 
   2
-  Leta hai istaroon ki sorat mein bar bar
-  Quraan ka aik aik siparah Ali ka naam
-  Hanstay hoye pukara hai majma ko dekh kar
-  Man kunto par Rasool ne maula Ali ka naam
-  Bas Mustafa ke sath utaray gaye Ali
-  Khaliq ne anbiya pe utara Ali ka naam
+  Leta hai sitaaroṅ ki surat mein bar bar
+  Quraan ka ik ik sipaara Ali ka naam
+  Hanste hue pukara hai majma ko dekh kar
+  Man kunto par Rasul ne maula Ali ka naam
+  Bas Mustafa ke saath utaare gaye Ali
+  Khaaliq ne anbiya pe utara Ali ka naam
 
   3
   Khutba Fidak pe parhti thin masjid mein Fatima
-  Dewar-o-dar mein gaunj raha tha Ali ka naam
+  Divaar-o-dar mein guṅj raha tha Ali ka naam
   Ab ke jo jang ho gi tu taqseem hogi youn
   Sab aslahe tumhare hamara Ali ka naam
   Oss noor se likha gaya Abbas arsh par
   Jis noor se Khuda ne sanwara Ali ka naam
 
   4
-  Bolay Hussain hotey jo mere pisar hazar
-  Apne har aik betay ko deta Ali ka naam
-  Mariyam pukarein parti hai murday mein phir se jan
-  Dohra rahe hai ab mera Esa Ali ka naam
-  Akbar sawal mujh se jo Man rabo ka howa
+  Bole Husain hotey jo mere pisar hazaar
+  Apne har ik bete ko deta Ali ka naam
+  Maryam pukarein parti hai murde mein phir se jan
+  Dohra rahe hai ab mera Isa Ali ka naam
+  Akbar sawal mujh se jo Man rabo ka hua
   Aa jaye ga zabaan pe dobarah Ali ka naam
 ---
 

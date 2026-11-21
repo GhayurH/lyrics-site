@@ -1,6 +1,6 @@
 ---
-title: "علی بہت روئے حسنین عباس"
-alternateTitle: "Ali Bohat Roye Hasnain Abbas"
+title: "علی بہت روئے"
+alternateTitle: "Ali Bahut Roe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Laga ke seene se dukhtar Ali bohat roye
-  Nazar mein aisay they manzar Ali bohat roye
+  Laga ke seene se dukhtar Ali bahut roye
+  Nazar mein aise the manzar Ali bahut roye
 
   1
   Ajeeb yaas se seene lagaya betiyon ko
-  Phir unn ki chom ke chadar Ali bohat roye
-  Woh sath betiyon ke hona hai jo bad-e-Ali
-  Bata ke khaon gi pathar Ali bohat roye
+  Phir un ki chum ke chadar Ali bahut roye
+  Woh sath betiyon ke hona hai jo baad-e-Ali
+  Bata ke khaauṅ gi patthar Ali bahut roye
 
   2
-  Chaley jo Kofa tu Zahra ki qabar par aa kar
-  Parha jo Sorah-e-Kausar Ali bohat roye
-  Guzar ke Kofa ke bazaron our galiyon se
-  Jigar ko tham ke aksar Ali bohat roye
+  Chale jo Kufa to Zehra ki qabr par aa kar
+  Parha jo Sura-e-Kausar Ali bahut roye
+  Guzar ke Kufa ke bazaron aur galiyon se
+  Jigar ko tham ke aksar Ali bahut roye
 
   3
   Khuda ke ghar ki taraf jate jate hasrat se
-  Tarap ke dekha bhara ghar Ali bohat roye
+  Tarap ke dekha bhara ghar Ali bahut roye
   Lagi jo zarb tu ik zakhmi pehlu yaad aaya
-  Tu haye Fatima keh kar Ali bohat roye
+  Tu haye Fatima keh kar Ali bahut roye
 
   4
   Gawahi dein gay woh sare Ali ki ghurbat ki
-  Konwein woh jin pe they ghut kar Ali bohat roye
+  Konwein woh jin pe the ghut kar Ali bahut roye
   Qadam Batool ke qatil ne oss pe jab rakha
-  Nabi ka dekh ke mimber Ali bohat roye
+  Nabi ka dekh ke mimber Ali bahut roye
 
   5
-  Jo hotey hosla detey woh zakhmi betay ko
-  Hain sar pe Baba na madar Ali bohat roye
-  Hasan, Hussain ko Abbas our Abid ko
-  Asad jo ho ga bata kar Ali bohat roye
+  Jo hotey hausla detey woh zakhmi bete ko
+  Hain sar pe Baba na madar Ali bahut roye
+  Hasan, Husain ko Abbas aur Abid ko
+  Asad jo ho ga bata kar Ali bahut roye
 ---
 
 لگا کے سینے سے دختر علی بہت روئے

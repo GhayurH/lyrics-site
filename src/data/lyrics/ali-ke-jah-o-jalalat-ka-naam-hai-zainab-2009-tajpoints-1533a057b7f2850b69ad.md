@@ -1,6 +1,6 @@
 ---
-title: "علی کے جاہ و جلالت کا نام ہے زینب ۲۰۰۹"
-alternateTitle: "Ali Ke Jah-o-Jalalat Ka Naam Hai Zainab 2009"
+title: "علی کے جاہ و جلالت کا نام ہے زینب"
+alternateTitle: "Ali Ke Jaah o Jalaalat Ka Naam Hai Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali ke jah-o-jalalat ka naam hai Zainab Munawar Ali Khan
-  Batooliyat ki tabiyat ka naam hai Zainab
-  Nabi ki aya-e-tatheer Fatima Zahra
-  Ali ke amar-e-wilayat ka naam hai Zainab
+  Ali ke jaah o jalaalat ka naam hai Zainab
+  Batuliyat ki tabiyat ka naam hai Zainab
+  Nabi ki aayat-e-tathir Faatima Zehra
+  Ali ke amr-e-wilayat ka naam hai Zainab
 
   2
-  Gham-e-Hussain ka pehla saheefa-e-matam
-  Azza ki pori shariyat ka naam hai Zainab
-  Shareek-e-kar-e-Hussain ibn-e-Murtaza jo hoi
+  Gham-e-Husain ka pehla sahifa-e-matam
+  Aza ki puri shariyat ka naam hai Zainab
+  Sharik-e-kaar-e-Husain ibn-e-Murtaza jo hui
   Wo deen saaz sharakat ka naam hai Zainab
 
   3
-  Hassan ki sulha se sehra ke tishna sajday tak
-  Har ik namaz ki niyat ka naam hai Zainab
+  Hasan ki sulh se sehra ke tishna sajde tak
+  Har ik namaaz ki niyat ka naam hai Zainab
   Khud apni zaat mein wahdat misal hai lekin
-  Hajoom-e-Sham kasrat ka naam hai Zainab
+  Hujum-e-Shaam kasrat ka naam hai Zainab
 
   4
-  Diyar-e-Sham mein Sajadiyat ke lashkar ki
-  Rasan mein qaid qaiyadat ka naam hai Zainab
-  Yazeed(L) tujh se yehi bhool ho gayi tu ne
+  Diyar-e-Shaam mein Sajadiyat ke lashkar ki
+  Rasan mein qaid qiyaadat ka naam hai Zainab
+  Yazid tujh se yehi bhool ho gayi tu ne
   Ye samjha aam si aurat ka naam hai Zainab
 
   5
-  Rasan mein gawah hain Abid ki beriyaan Shahid
-  Kahin kahin tu imamat ka naam hai Zainab
-  Meri zuban mein Akbar ye hi tauraf hai
+  Rasan mein gawaah hain Abid ki beriyaaṅ Shahid
+  Kahiṅ kahin tu imamat ka naam hai Zainab
+  Meri zabaan mein Akbar ye hi taaruf hai
   Rida ka parde ka ismat ka naam hai Zainab
 ---
 
 ۱
-علی کے جاہ و جلالت کا نام ہے زینب منور علی خان
+علی کے جاہ و جلالت کا نام ہے زینب
 بتولیت کی طبیعت کا نام ہے زینب
 نبی کی آیۂ تطہیر فاطمہ زہرا
 علی کے امرِ ولایت کا نام ہے زینب

@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jis ko Ali ke naam ka charcha nahi qabool
-  Kabay ko aisay shaks ka sajdah nahi qabool
+  Jis ko Ali ke naam ka charcha nahiṅ qabool
+  Kaabe ko aise shakhs ka sajda nahiṅ qabool
 
   1
-  Ghar se chalein tu Kabay mein ja kar rukein gi ab
-  Bint-e-Asad ko rah mein rukna nahi qabool
-  Pehla hai our pehle hi number pe hai Ali
-  Dam dam Qalandaron ko bhi chotha nahi qabool
+  Ghar se chaleṅ to Kaabe mein ja kar rukeṅ gi ab
+  Bint-e-Asad ko raah mein rukna nahiṅ qabool
+  Pehla hai aur pehle hi number pe hai Ali
+  Dam dam Qalandaron ko bhi chautha nahiṅ qabool
 
   2
-  Allah kyun banaye koi dosra Ali
-  Keh tu raha hai shirk zara sa nahi qabool
-  Hat kar Ali se paishwa ab kaisay maan lein
-  Hum ne tu pehle roz kaha tha nahi qabool
+  Allah kyun banaye koi dusra Ali
+  Keh to raha hai shirk zara sa nahiṅ qabool
+  Hat kar Ali se peshwa ab kaise maan lein
+  Ham ne to pehle roz kaha tha nahiṅ qabool
 
   3
-  Maula ne keh diya tu shajar sokhay kis tarha
-  Meesum ko our tarha se marna nahi qabool
+  Maula ne keh diya to shajar sokhay kis tarha
+  Meesum ko aur tarha se marna nahiṅ qabool
   Allah re Zulfiqar pe Maula ka etimad
-  Dushman mera ke bach gaya takna nahi qabool
+  Dushman mera ke bach gaya takna nahiṅ qabool
 
   4
-  Khaybar mein Murtaza ko alam de ke Mustafa
-  Bolay keh koi bhagney wala nahi qabool
-  Rah-e-Najaf se hat ke kahan jaye yeh faqeer
-  Akbar ko koi dosra rasta nahi qabool
+  Khaibar mein Murtaza ko alam de ke Mustafa
+  Bole keh koi bhaagne wala nahiṅ qabool
+  Rah-e-Najaf se hat ke kahan jaae yeh faqeer
+  Akbar ko koi dusra rasta nahiṅ qabool
 ---
 
 جس کو علی کے نام کا چرچا نہیں قبول

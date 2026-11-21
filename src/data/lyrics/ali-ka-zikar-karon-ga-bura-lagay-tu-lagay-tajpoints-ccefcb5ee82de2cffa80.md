@@ -1,6 +1,6 @@
 ---
 title: "علی کا ذکر کروں گا برا لگے تو لگے"
-alternateTitle: "Ali Ka Zikar Karon Ga Bura Lagay Tu Lagay"
+alternateTitle: "Ali Ka Zikr Karuṅ Ga Bura Lage To Lage"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali ka zikar karon ga bura lagay tu lagay
-  Aray oh dushman-e-Zahra bura lagay tu lagay
-  Ali se bugz bhi our hajj ko chale ho waiz
-  Qabool hajj na yeh ho ga bura lagay tu lagay
+  Ali ka zikr karuṅ ga bura lage to lage
+  Are oh dushman-e-Zehra bura lage to lage
+  Ali se bughz bhi aur hajj ko chale ho waiz
+  Qabul hajj na yeh ho ga bura lage to lage
 
   2
-  Zaban kat do par nara-e-Haider lab par
-  Buland phir bhi rahe ga bura lagay tu lagay
-  Bagair-e-hub-e-Ali admi yeh dunya ke
-  Bane hain khak ka putla bura lagay tu lagay
+  Zabaan kat do par naara-e-Haider lab par
+  Buland phir bhi rahe ga bura lage to lage
+  Baghair-e-hub-e-Ali aadmi yeh dunya ke
+  Bane hain khak ka putla bura lage to lage
 
   3
   Har aik bazm mein be-sakhta karein gaye hum
-  Yazeediyat pe tabara bura lagay tu lagay
+  Yazeediyat pe tabara bura lage to lage
   Mujhe Ali ne banaya hai laiq-e-tazeem
-  Sadaein deta hai Kaba bura lagay tu lagay
+  Sadaein deta hai Kaba bura lage to lage
 
   4
-  Sakhi Hussain ke matam ko kehte ho bidat
-  Tumhare ghar mein karon ga bura lagay tu lagay
-  Ali ke dar se yeh Afraz shair ki sorat
-  Youn leta jaye ga sadqa bura lagay tu lagay
+  Sakhi Husain ke maatam ko kehte ho bidat
+  Tumhare ghar mein karuṅ ga bura lage to lage
+  Ali ke dar se yeh Afraz shair ki surat
+  Yuṅ leta jaye ga sadqa bura lage to lage
 ---
 
 ۱

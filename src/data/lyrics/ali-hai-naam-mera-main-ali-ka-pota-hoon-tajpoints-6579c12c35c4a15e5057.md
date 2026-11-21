@@ -1,6 +1,6 @@
 ---
 title: "علی ہے نام میرا میں علی کا پوتا ہوں"
-alternateTitle: "Ali Hai Naam Mera Main Ali Ka Pota Hoon"
+alternateTitle: "Ali Hai Naam Mera Main Ali Ka Pota Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali hai naam mera main Ali ka pota hoon
-  Mushkilein pal mein Ali walon ki hal karta hoon
-  Main darya khaimo mein la sakta hoon Khuda ki qasam
-  Hai naaz khud pe ke Abbas ka bhatija hoon
+  Ali hai naam mera main Ali ka pota huṅ
+  Mushkileṅ pal mein Ali waaloṅ ki hal karta huṅ
+  Main darya khaimoṅ mein la sakta huṅ Khuda ki qasam
+  Hai naaz khud pe ke Abbas ka bhatija huṅ
 
   2
-  Hurmala girte hain hathon se tere teer yeh kyun
-  Hai ayaan iss se keh main hara nahi jeeta hoon
-  Shamiyon chaho agar tum tu abhi ik pal mein
-  Sab ko yaan zair-e-zameen kar ke dikha deta hoon
+  Hurmala girte hain haathoṅ se tere tir yeh Kiun
+  Hai ayaaṅ is se keh main haara nahiṅṅ jeeta huṅ
+  Shaamiyoṅ chaho agar tum to abhi ik pal mein
+  Sab ko yaan zer-e-zameen kar ke dikha deta huṅ
 
   3
   Yeh jo talwar meri maa ne thamai hai mujhe
-  Saron samait main rohoon ko kaat sakta hoon
-  Tu samajhta hai keh tu mujh ko teer mare ga
-  Hurmala main tu teri maut ban ke aaya hoon
+  Saron samait main rohuṅ ko kaat sakta huṅ
+  Tu samajhta hai keh to mujh ko tir mare ga
+  Hurmala main to teri maut ban ke aaya huṅ
 
   4
-  Yazeed mit giya wallaha dekho jhole mein
-  Yazeediyat ko khilona bana ke khaila hoon
+  Yazeed mit gaya wallaha dekho jhule mein
+  Yazeediyat ko khilona bana ke khaila huṅ
   Kaliyon mein meri khon-e-Haidery hai rawaan
-  Main cheh mahino mein jazba-e-Ali rakhta hoon
+  Main cheh mahino mein jazba-e-Ali rakhta huṅ
 
   5
-  Hain karti meri tilawat Hussain ki behnein
-  Dil-e-Hussain pe Quran ban ke utra hoon
-  Na mere jhole se Afraz koi khali giya
-  Main har sawali ki hajat rawai karta hoon
+  Hain karti meri tilawat Husain ki behneṅ
+  Dil-e-Husain pe Quraan ban ke utra huṅ
+  Na mere jhule se Afraz koi khali gaya
+  Main har sawaali ki hajat rawaai karta huṅ
 ---
 
 ۱

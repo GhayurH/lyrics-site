@@ -1,6 +1,6 @@
 ---
-title: "علی کی طرح مختار حسین فتح پوری"
-alternateTitle: "Ali Ki Tarhan Mukhtar Hussain Fatehpuri"
+title: "علی کی طرح"
+alternateTitle: "Ali Ki Tarah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,53 +10,51 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ali ki tarhan Mukhtar Hussain Fatehpuri
-  Jo pochtay hain kahan mil saka Ali ki tarha
+  Jo puchhte hain kahan mil saka Ali ki tarah
 
   1
-  Ali ki gaud mein Ghazi mila Ali ki tarha
+  Ali ki god mein Ghazi mila Ali ki tarah
   Jahan mein Hazrat-e-Abbas jis ghari aaye
-  Hussain bolay yeh Qabar-e-Nabi pe khush ho ke
-  Aye nana hum ko bhi bhai mila Ali ki tarha
+  Husain bolay yeh Qabr-e-Nabi pe khush ho ke
+  Ae nana hum ko bhi bhai mila Ali ki tarah
 
   2
   Yeh mujh ko lagta hai Shabaan ki chaar ko aisa
-  Jari ko dekh ke Jibreel ne kaha ho ga
-  Yeh kaun hai mere ustad sa Ali ki tarha
+  Jari ko dekh ke Jibrail ne kaha ho ga
+  Yeh kaun hai mere ustad sa Ali ki tarah
   Suno suno ke yeh masoom se suna hum ne
 
   3
-  Keh Mustafa ke liye jis tarha se Haider they
-  Hussain ke liye Abbas tha Ali ki tarha
+  Keh Mustafa ke liye jis tarah se Haider they
+  Husain ke liye Abbas tha Ali ki tarah
   Wafa ke lab pe yeh kalma hai aye sagheer-o-kabeer
   Hai Youm-e-Aamad-e-Abbas mera Youm-e-Ghadeer
 
   4
-  Keh mujh ko mil gaya Maula mera Ali ki tarha
+  Keh mujh ko mil gaya Maula mera Ali ki tarah
   Safon mein bar Sar-e-Siffeen aa gaya Maula
   Naqab chehra e Abbas se ulat ke kaha
-  Ali ke baad yeh hai la fatah Ali ki tarha
+  Ali ke baad yeh hai la fatah Ali ki tarah
 
   5
   Ajeeb josh se bolein yeh Sani-e-Zahra
   Keh ab tu ghazwa e Khaybar banay gi Karb-o-Bala
-  Mere akhi ko alam mil gaya Ali ki tarha
+  Mere akhi ko alam mil gaya Ali ki tarah
   Woh soye ran jo uratay hoye fars pohanchay
 
   6
   Furat chor ke bhagay laeen yeh kehte hoye
-  Kachar chor ke shair aa gaya Ali ki tarha
+  Kachar chor ke shair aa gaya Ali ki tarah
   Hai itna Aamad-e-Abbas par yaqeen mujhe
   Abhi hamari madad ko woh jaisay aata hai
 
   7
-  Hamari qabar mein bhi aaye ga Ali ki tarha
-  Agar aye Majid-o- Mukhtar thori dair ko hi
-  Keh farz kar lein ke thin chaar Dukhtaran-e-Nabi
-  Batao kiya koi damad tha Ali ki tarha
+  Hamari qabar mein bhi aaye ga Ali ki tarah
+  Agar ae Majid-o- Mukhtar thori der ko hi
+  Keh farz kar lein ke thin chaar Dukhtaraan-e-Nabi
+  Batao kiya koi daamaad tha Ali ki tarah
 ---
 
-علی کی طرح مختار حسین فتح پوری
 جو پوچھتے ہیں کہاں مل سکا علی کی طرح
 
 ۱

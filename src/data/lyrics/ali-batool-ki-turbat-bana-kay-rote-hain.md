@@ -1,6 +1,6 @@
 ---
 title: "علی، بتول کی تربت بنا کے روتے ہیں"
-alternateTitle: "Ali Batool Ki Turbat Bana Kay Rote Hain"
+alternateTitle: "Ali Batul Ki Turbat Bana Ke Rote Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,48 +9,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ali, Batool ki turbat bana ke rotay hain
-  Hasan, Hussain se aanso chupa ke rotay hain
+  Ali, Batul ki turbat bana ke rote hain
+  Hasan, Husain se aaṅsu chhupa ke rote hain
 
   1
-  Chupa ke rotay hain chehray ko apne bachoon se
-  Janab-e-Zahra ke sadmay koi zara pochay
-  Ali, Batool ke hujray mein jake rotay hain
+  Chupa ke rote hain chehre ko apne bachchoṅ se
+  Janaab-e-Zahra ke sadme koi zara puchhe
+  Ali, Batul ke hujray mein jaa ke rote hain
 
   2
   Lipat ke baba se kehte hain Zainab-o-Shabbir
-  Dikhai deti nahi maa ki ab koi tasveer
-  Hasan bhi khon ke aanso baha ke rotay hain
+  Dikhai deti nahiṅ maa ki ab koi tasvir
+  Hasan bhi khun ke aaṅsu baha ke rote hain
 
   3
   Khuda gawah hai Ali sa bhi dalair roney laga
   Rasool zadi pe darwaza kyun giraya gaya
-  Ossi maqam pe har dukh suna ke rotay hain
+  Ossi maqam pe har dukh suna ke rote hain
 
   4
   Pukari Zainab-o-Kulsoom kya howa baba
-  Kyun hum pe zulm Musalmaan ne yeh kiya baba
-  Ali kalejay se bachay laga ke rotay hain
+  Kyun hum pe zulm Musalmaan ne ye kiya baba
+  Ali kalejay se bachay laga ke rote hain
 
   5
   Yeh kaisa alam-e-ghurbat hai chaar so haye
-  Hasan, Hussain se koi yeh ja ke farmaye
-  Ali, Batool ki maiyyat utha ke rotay hain
+  Hasan, Husain se koi ye ja ke farmaye
+  Ali, Batul ki maiyyat utha ke rote hain
 
   6
-  Madine walon ke sadmay na seh saki Zahra
+  Madine walon ke sadme na seh saki Zahra
   Bohat rulaya gaya haq Fidak ka cheen liya
-  Shaheed ho gaya Mohsin bata ke rotay hain
+  Shaheed ho gaya Mohsin bata ke rote hain
 
   7
-  Na jane kaun sa manzar dikhai deta hai
-  Haye galay pe Shimar ka khanjar dikhai deta hai
-  Ali, Hussain ko pani pila ke rotay hain
+  Na jane kaun sa manzar dikhaai deta hai
+  Haye galay pe Shimar ka khanjar dikhaai deta hai
+  Ali, Husain ko pani pila ke rote hain
 
   8
-  Banaein kis tarha turbat Batool ki Maula
-  Humein rulaye ga Qasim yeh dukh bhara misra
-  Ali, Batool ki turbat bana ke rotay hain
+  Banaaeṅ kis tarah turbat Batul ki Maula
+  Hameṅ rulaye ga Qasim ye dukh bhara misra
+  Ali, Batul ki turbat bana ke rote hain
 ---
 
 علی، بتول کی تربت بنا کے روتے ہیں

@@ -10,62 +10,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali Akbar
-  Merey beta Ali Akbar,
-  Jao maqtal ki taraf beta, magar mujhko peechey murr murr key dekhtey rehna
+  Mere beta Ali Akbar,
+  Jaao maqtal ki taraf beta, magar mujh ko pichhe mur mur ke dekhte rehna
 
-  Is zaeefi mey tumhara baba tumhari judaayi bardaasht nahi karsakta merey
+  Is zaifi mein tumhara baba tumhari judaayi bardaasht nahi kar sakta merey
 
-  Aye Khudaa tu gawaah rehna, my us jawaan ko maqtal ki taraf bhej raha hoon, jo shabi e payambar hai, jo soorat mey jo seerat mey terey nabi jaisa hai, merey beta qudaa haafiz
-  Ali Akbar kaha ho tum, sadaa tum kyun nahi detey
-  Basaarat hogayi hai kamm, sadaa tum khan nahi detey
+  Ae Khuda tu gawaah rehna, main us jawaan ko maqtal ki taraf bhej raha hoon, jo shabih-e-Paighambar hai, jo surat mein jo sirat mein tere Nabi jaisa hai, merey beta Khuda haafiz
+  Ali Akbar kahaaṅ ho tum, sadaa tum Kiun nahi detey
+  Basaarat hogayi hai kam, sadaa tum kahaaṅ nahi detey
 
   1
   Kisi betey ki maa me hausla aisa nahi dekha,
   Jigar laaye kaha se koi maadar Ummey Laila sa,
   Jo hi chaahey ke betey ko merey rutbaa shahaadat ka
-  Ali Akbar kaha ho tum
+  Ali Akbar kahaaṅ ho tum
 
   2
-  Mujhey gherey huwey har gaam dard o ghum ka toofaa hai,
+  Mujhe gherey huwey har gaam dard o ghum ka toofaa hai,
   Padar ka haal mat poocho ke ab marney ka saamaa hai,
-  Tumhey bass dekhloon ek baar merey dil ka armaa hai
-  Ali Akbar kaha ho tum
+  Tumhey bas dekhloon ek baar merey dil ka armaa hai
+  Ali Akbar kahaaṅ ho tum
 
   3
   Tumhari maut ka koi tasawwur kar nahi sakta,
   Sitamgaaro se mera sher hargiz dar nahi sakta,
   Jamaaley Mustafa tasweerey Haider mit nahi sakta
-  Ali Akbar kaha ho tum
+  Ali Akbar kahaaṅ ho tum
 
   4
-  Nikaala hai abhi Zainab ney terey naam ka sadqaa,
+  Nikaala hai abhi Zainab ney tere naam ka sadqaa,
   Sataata hai magar phir bhi dil e Laila ko ye dhadka,
-  Kahii barchi nazar aaye terey seeney me aye beta
-  Ali Akbar kaha ho tum
+  Kahii barchi nazar aaye tere seeney me aye beta
+  Ali Akbar kahaaṅ ho tum
 
   5
   Bharey ghar me ye veeraani ye wehshat khaaye jaati hai,
   Teri furqat merey dilbar mujhey tadpaaye jaati hai,
-  Teri yaado me bas ye damm lahoo barsaaye jaati hai
-  Ali Akbar kaha ho tum
+  Teri yaado me bas ye damm lahu barsaaye jaati hai
+  Ali Akbar kahaaṅ ho tum
 
   6
-  Hai qaaq o qoon mey galtaa kahii noor e nazar mera,
-  Dikhaayi kyun nahi deta mujhey laqtey jigar mera,
-  Huwa hai shaamiyo ke darmiyaa gaayib qamar mera
-  Ali Akbar kaha ho tum
+  Hai qaaq o qoon mein galtaa kahii noor e nazar mera,
+  Dikhaayi Kiun nahi deta mujhey laqtey jigar mera,
+  Hua hai shaamiyo ke darmiyaa gaayib qamar mera
+  Ali Akbar kahaaṅ ho tum
 
   7
   Pahunchkar laash pey manzar ajab Shabbir ney dekha,
-  Lahoo ki mauj mey dooba huwa hai chaand sa chehra,
+  Lahoo ki mauj mein dooba huwa hai chaand sa chehra,
   Sinaa dekhi jo seeney me rahaa na zabt ka yaara
-  Ali Akbar kaha ho tum
+  Ali Akbar kahaaṅ ho tum
 
   8
-  Abad Shabbir key hoto pey maqtal me ye nauha tha,
-  Zayeefi me uthaata hoon jawaa betey ka my laasha,
+  Ab Shabbir ke hontoṅ pey maqtal me ye nauha tha,
+  Zaifi me uthaata hoon jawaa betey ka main laasha,
   Madad ko aayiye baba, madad ko aayiye baba
-  Ali Akbar kaha ho tum
+  Ali Akbar kahaaṅ ho tum
 ---
 
 علی اکبر

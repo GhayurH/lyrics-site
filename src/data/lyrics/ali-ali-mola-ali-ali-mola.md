@@ -9,31 +9,31 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Masjid Boli Mula Mimber Bola Mula
-  Terah Rajab Ko Kaba Bola
-  Ali Ali Mola Ali Ali Mola
-  Sath Zabaan Ke Dil Yehi Bola
+  Masjid Boli Maula Mimbar Bola Maula
+  Terah Rajab Ko Kaaba Bola
+  Ali Ali Maula Ali Ali Maula
+  Saath Zabaan Ke Dil Yehi Bola
 
   1
-  Charon Taraf Midhat Ki Fizaein
-  Aao Zamane Bhar Ko Sajaein
-  Aaj Zahoor Hai Mula Ali Ka
-  Kyun Na Khushi Mein Narah Lagaein
-  Wajad Mein Aa Kar Narah Lagaya
-  Ali Ali Mula Haider Mula
+  Chaaroṅ Taraf Midhat Ki Fizaaeṅ
+  Aao Zamane Bhar Ko Sajaaeṅ
+  Aaj Zuhur Hai Maula Ali Ka
+  Kiun Na Khushi Mein Naara Lagaaeṅ
+  Wajd Mein Aa Kar Naara Lagaya
+  Ali Ali Maula Haider Maula
 
   2
   Terah Rajab Ki Bazm Sajai
-  Khoob Hoi Phir Madah Sarai
-  Ishq Tera Darwesh Banaye
-  Ishq Tera Bakhshe Danai
-  Khoob Wila Ka Jaam Piya Tha
-  Phir Bhi Nashe Mein Main Nahi Dola
+  Khub Hui Phir Madah Sarai
+  Ishq Tera Darvesh Banaye
+  Ishq Tera Bakhshe Daanaai
+  Khub Wila Ka Jaam Piya Tha
+  Phir Bhi Nashe Mein Main Nahiṅ Dola
 
   3
   Tu Ne Namaz-e-Ishq Sikhai
-  Tu Ne Humein Tauheed Batai
-  Kon Biyaan Kar Paye Ga Mula
+  Tu Ne Humein Tauheed Bataai
+  Kon Biyaan Kar Paye Ga Maula
   Teri Fazeelat Teri Barai
   Parhne Laga Woh Tera Qasida
   Jab Bhi Kabhi Quran Ko Khola
@@ -42,49 +42,49 @@ romanLyrics: |-
   Jhote Khudaon Walo Aao
   Jhoote Khudaon Ko Le Jao
   Aa Giya Ghar Ka Malik Dekho
-  Apni Dukaan Kahin Our Lagao
+  Apni Dukaan Kahin Aur Lagao
   Aa Gayin Andar Madar-e-Haider
-  Jhoom Ke Kaba Phir Yehi Bola
+  Jhoom Ke Kaaba Phir Yehi Bola
 
   5
   Marhab Se Larte Bhi Dekha
-  Tanha Osse Rote Bhi Dekha
-  Sajda Osse Karte Bhi Dekha
-  Sajda Osse Hote Bhi Dekha
-  Sajid Our Masjood Ali Hai
+  Tanha Use Rote Bhi Dekha
+  Sajda Use Karte Bhi Dekha
+  Sajda Use Hote Bhi Dekha
+  Sajid Aur Masjud Ali Hai
   Raz Yehi Salman Ne Khola
 
   6
-  Rasm-e-Wafa Dunya Mein Chala Di
+  Rasm-e-Wafa Duniya Mein Chala Di
   Ishq Ki Woh Tehzeeb Sikha Di
-  Karta Raha Dunya Mein Manadi
+  Karta Raha Duniya Mein Manadi
   Meesum Tha Iss Wird Ka Aadi
   Kati Zabaan Jab Ahl-e-Sitam Ne
   Daar Pe Ja Kar Mesum Bola
 
   7
-  Parhte Howay Main Nehj-e-Balagah
+  Parhte Huay Main Nehj-e-Balagah
   Ishq Mein Tere Soch Raha Tha
-  Kay Hai Teri Mairaj Bata De
-  Tujh Ko Sar-e-Mairaj Bhi Dekha
-  Mere Laho Mein Mere Janoo Mein
+  Kay Hai Teri Meraaj Bata De
+  Tujh Ko Sar-e-Meraaj Bhi Dekha
+  Mere Lahu Mein Mere Junuṅ Mein
   Tere ishq Ne Hi Ras Ghola
 
   8
   Mulk-e-Adam Par Teri Hakomat
-  Khuld-o-Irm Par Teri Hakomat
+  Khuld-o-Iram Par Teri Hakomat
   Marzi-e-Rab Ka Malik Tu Hai
   Looh-o-Qalam Par Teri Hakomat
-  Dunya Tujh Ko Rab Kehti Hai
+  Duniya Tujh Ko Rab Keti Hai
   Jab Jis Ka Eman Tatola
 
   9
   Anamta Ka Raz Bhi Tu Hai
   Nabiyon Ka Dam Saaz Bhi Tu Hai
-  Mazhar Ka Eman Hai Mula
-  Hatif Ki Aawaz Bhi Tu Hai
-  Madah Sara Farhan Howa Tu
-  Kehne Laga Darweshon Ka Tola
+  Mazhar Ka Eman Hai Maula
+  Haatif Ki Aawaz Bhi Tu Hai
+  Madah Sara Farhan Hua Tu
+  Kene Laga Darveshon Ka Tola
 ---
 
 مسجد بولی مولا، منبر بولا مولا

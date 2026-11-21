@@ -1,6 +1,6 @@
 ---
-title: "علی علی دم دم جون رضوی"
-alternateTitle: "Ali Ali Dam Dam Joan Rizvi"
+title: "علی علی دم دم"
+alternateTitle: "Ali Ali Dam Dam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,86 +10,86 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khuda kahan hai kisay kab dikhai deta hai
-  Woh bas Ali hai jisay sab dikhai deta hai
+  Khuda kahan hai jise kab dikhai deta hai
+  Wo bas Ali hai jise sab dikhai deta hai
 
   1
-  Jabhi tu baithtay hain hum Najaf mein ja ja ke
-  Mowaliyon ko wahan Rab dikhai deta hai
-  Layi hai khushiyaan terah Rajab Kaba Ali ka ghar ban gaya
-  Tha intezar-e-Ali iss qadar dewar mein hi dar ban gaya
+  Jabhi to baithte hain hum Najaf mein ja ja ke
+  Mawaaliyoṅ ko wahan Rab dikhai deta hai
+  Layi hai khushiyaan terah Rajab Kaaba Ali ka ghar ban gaya
+  Tha intezar-e-Ali iss qadar divaar mein hi dar ban gaya
 
   2
-  Kabay mein rakha jo pehla qadam
+  Kaabe mein rakha jo pehla qadam
   Bint-e-Asad se yeh bola haram
   De ke Ali mujh ko qibla bana dein bolta rahon sada
-  Pohanchay Nabi jab Mairaj par Allah se milne ke liye
+  Pahunche Nabi jab Meraaj par Allah se milne ke liye
 
   3
-  Aawaz aayi parday se tu suntay hi Ahmad kehne lagay
-  Kyun hai Ali jaisa lehja tera
+  Aawaz aayi parday se to suntay hi Ahmad kehne lagay
+  Kiun hai Ali jaisa lehja tera
   Kya pas-e-pardah hai bhai mera
-  Parday se ik hath nikla angothi dekhi tu bolay Mustafa
+  Parday se ik haath nikla angothi dekhi to bole Mustafa
 
   4
-  Khaybar mein Marhab se jab koi lar na saka tu bolay Nabi
-  Aye mere bhai tu hai kahan meri madad kar aa kar Ali
+  Khaybar mein Marhab se jab koi lar na saka to bole Nabi
+  Ae mere bhai to hai kahan meri madad kar aa kar Ali
   Parhi Nabi ne jo nad-e-Ali
   Pohancha wahan pe woh shair-e-jali
 
   5
-  Marhab ko mara tu Khaybar mein har simt gonji yeh sada
+  Marhab ko mara to Khaybar mein har simt gonji yeh sada
   Bana de aaj Ghadeeri nizam aye saqi
   Pila de hum ko wilayat ka jaam aye saqi
   Ali ke ishq ke hum may kaday mein baithay hain
 
   6
   May tahoor ka kar intezam aye saqi
-  Bitha de mimber-e-palaan par malangon ko
+  Bitha de mimbar-e-palaan par malangon ko
   Hasen our bhi kar de yeh sham aye saqi
-  Khiyal rakhiyo ke hum bhi bhatak na jaein kahin
+  Khayaal rakhiyo ke hum bhi bhatak na jaein kahin
 
   7
   Nuseriyat se bacha le lagam aye saqi
   Tabarah iss mein kuch aisay mila ke charh jaye
   Karon main sheikh ka jeena haram aye saqi
-  Ghilaf-e-khana e Kaba se bhi nichor ke la
+  Ghilaf-e-khana e Kaaba se bhi nichor ke la
 
   8
   Na hum peein gay koi aam jaam aye saqi
-  Maidan-e-Khum mein dast-e-Ali oncha utha kar bolay Nabi
+  Maidan-e-Khum mein dast-e-Ali oncha utha kar bole Nabi
   Maloom hai sab ko main wohi kehta hoon jo kehti wahi
   Sab ke liye hai yeh hukam-e-jali
 
   9
   Bad-e-Muhammad hai maula Ali
-  Sun kar koi jal gaya tu kissi ne jhoom kar kaha
+  Sun kar koi jal gaya to kissi ne jhoom kar kaha
   Jang-e-Ohad mein jab chor kar bhagay bhagoray ghar ki taraf
-  Tanha Muhammad ko dekh kar pohanchay wahan par shah-e-Najaf
+  Tanha Muhammad ko dekh kar pahunche wahan par shah-e-Najaf
 
   10
   Arsh se jab ik saif chali
   Boli la fatah ilaha Ali
   Dast-e-Khuda ki kalai mein aa kar Zulfiqar ne kaha
-  Shair-e-Khuda tu hi hajat rawa tu hi mushkil kusha mera
+  Shair-e-Khuda to hi hajat rawa to hi mushkil kusha mera
 
   11
-  Nafs-e-Nabi tu hai haq ka wali maula tu aasra mera
-  Dil ke dharakne ki dhak dhak mein tu tujh pe dil yeh fida mera
+  Nafs-e-Nabi to hai haq ka wali maula to aasra mera
+  Dil ke dharakne ki dhak dhak mein to tujh pe dil yeh fida mera
   Hasrat se taktay they aasmaan jagay hoye they sab raat bhar
   Ahl-e-Madina be chain they banney ko Zahra ka humsafar
 
   12
   Arsh se phir ik tara chala
   Sab ke dilon ko jalata howa
-  Dar pe Ali ke jab utra sitara tu bolne laga
-  Aye Joan-o- Zeeshan aao chalein Kabay se chal kar shehar-e-Najaf
+  Dar pe Ali ke jab utra sitara to bolne laga
+  Ae Joan-o- Zeeshan aao chalein Kaabe se chal kar shehar-e-Najaf
 
   13
   Narey lagatay jaein gay hum janat se ik janat ki taraf
   Meesum ki tarha yeh kehte raho
   Salman-o-Buzar ke sath kaho
-  Nam-e-Ali sun ke tum se bohat khush hoon gi Fatima
+  Nam-e-Ali sun ke tum se bohat khush hoṅ gi Fatima
 ---
 
 خدا کہاں ہے کسے کب دکھائی دیتا ہے

@@ -1,6 +1,6 @@
 ---
 title: "علی آتے ہیں"
-alternateTitle: "Ali Aatay Hain"
+alternateTitle: "Ali Aate Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,63 +10,63 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bolay Khaybar mein yeh Salman Ali aate hain
-  Behar-e-imdad-e-Musalman Ali aate hain
+  Bole Khaibar mein ye Salman Ali aate haiṅ
+  Bahr-e-imdaad-e-Musalmaan Ali aate haiṅ
 
   1
-  Lashkar-e-dein pe jo mayousi ke badil chaye
-  Tabhi Jibreel yeh paigham Khuda ka laye
-  Aye Nabi ho na pareshan Ali aate hain
+  Lashkar-e-din pe jo maayusi ke baadal chhaae
+  Tabhi Jibrail ye paigham Khuda ka laye
+  Ae Nabi ho na pareshaan Ali aate haiṅ
 
   2
-  Waqt-e-mushkil mein hamesha hi madad ki innki
-  Aaj Aaqa ko na mehsos ho Baba ki kami
-  Iss liye sorat-e-Imran Ali aate hain
+  Waqt-e-mushkil mein hamesha hi madad ki in ki
+  Aaj Aaqa ko na mahsus ho Baba ki kami
+  Iss liye surat-e-Imran Ali aate haiṅ
 
   3
-  Ghair Allah nahi hai yeh hai Allah ka asad
-  Tabhi Ahmad ne parhi Nad-e-Ali behar-e-madad
-  Our udhar shair-e-nayistaan Ali aate hain
+  Ghair Allah nahiṅṅ hai ye hai Allah ka asad
+  Tabhi Ahmad ne parhi Nad-e-Ali bahr-e-madad
+  Aur udhar sher-e-naistaan Ali aate haiṅ
 
   4
-  Aik nokar ko hi maloom tha malik ka mizaj
-  Har nazar rah-e-Madina pe thi deney ko khiraaj
-  Our falak taktay hain Salman Ali aate hain
+  Aik naukar ko hi maloom tha malik ka mizaj
+  Har nazar rah-e-Madina pe thi dene ko khiraaj
+  Our falak taktay hain Salman Ali aate haiṅ
 
   5
-  Kya waga iss se koi apna ho ya ghair karey
-  Aaj Jibreel ke sheh par ki Khuda khair karey
-  Ghaiz mein deen ke sultan Ali aate hain
+  Kya wafa iss se koi apna ho ya ghair karey
+  Aaj Jibrail ke sheh par ki Khuda khair karey
+  Ghaiz mein deen ke sultan Ali aate haiṅ
 
   6
-  Baat madar ki jo mana nahi kartay bachay
-  Muztarib zeest mein rehtey hain hamesha aisay
-  Kyun na Marhab ho pareshan Ali aate hain
+  Baat maadar ki jo mana nahi karte bachche
+  Muztarib zist mein rehtey hain hamesha aisay
+  Kiun na Marhab ho pareshaan Ali aate haiṅ
 
   7
-  Adil-e-dehar ki midhat sar-e-Khaybar kar ke
-  Paish-e-meezan-e-qaza tukray barabar kar ke
-  Tujhe manwaney aye Subhan Ali aate hain
+  Adil-e-dehar ki midhat sar-e-Khaibar kar ke
+  Paish-e-meezan-e-qaza tukre barabar kar ke
+  Tujhe manwaane ae Subhaan Ali aate haiṅ
 
   8
-  Aisay do neem howa jaisay koi aari thi
+  Aise do neem hua jaise koi aari thi
   Kis tarha hota na jab taig hi sarkari thi
-  Soye dar ab sheh-e-mardan Ali aate hain
+  Sue dar ab sheh-e-mardan Ali aate haiṅ
 
   9
-  Dar ko hathoon se utha kar jo Ali ne phainka
-  Sare aalam ne tamasha sar-e-Khaybar dekha
-  Bhagtay phirtay hain shetan Ali aate hain
+  Dar ko haathoṅ se utha kar jo Ali ne phainka
+  Saare aalam ne tamaasha sar-e-Khaibar dekha
+  Bhaagte phirte hain shaitaan Ali aate haiṅ
 
   10
-  Rishta-e-rooh-o-badan pal mein fana ho jata
-  Kuch ka chehlum bhi sar-e-dasht ada ho jata
-  Gar Nabi kartay na ayelan Ali aate hain
+  Rishta-e-ruh o badan pal mein fana ho jata
+  Kuchh ka chehlum bhi sar-e-dasht ada ho jata
+  Gar Nabi karte na ailaan Ali aate haiṅ
 
   11
-  Yeh zara Hamza-o- Sajjad sakhawat dekho
-  Bant kar mal-e-ghaneemat sar-e-maidaan sab ko
-  Le ke ghar marzi-e-Rehman Ali aate hain
+  Yeh zara Hamza o Sajjad sakhawat dekho
+  Baaṅt kar maal-e-ghanimat sar-e-maidaaṅ sab ko
+  Le ke ghar marzi-e-Rahmaan Ali aate haiṅ
 ---
 
 بولے خیبر میں یہ سلمان علی آتے ہیں

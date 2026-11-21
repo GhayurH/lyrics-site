@@ -1,6 +1,6 @@
 ---
-title: "علی کا عشق سید رضا عباس زیدی"
-alternateTitle: "Ali Ka Ishq Syed Raza Abbas Zaidi"
+title: "علی کا عشق"
+alternateTitle: "Ali Ka Ishq"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ poet: "Zeeshan"
 aliases: []
 published: false
 romanLyrics: |-
-  Mast Ko Masti Mein Parwaz Kara Detey Hain
-  Apne Ashiq Ko Yeh Shahbaz Bana Detey Hain
+  Mast Ko Masti Mein Parwaaz Kara Dete Hain
+  Apne Aashiq Ko Yeh Shahbaz Bana Dete Hain
 
   1
-  Badshahon Ko Woh Jannat Ke Makaan Baichta Hai
-  Ishq Ka Jis Ko Ali Jaam Pila Detey Hain
-  Manam Manam Ghulam-e-Hazrat-e-Shah-e-Najaf
-  Thokaron Mein Rakhtay Hain Dunya Ki Shahiyaan
+  Badshahon Ko Woh Jannat Ke Makaan Bechta Hai
+  Ishq Ka Jis Ko Ali Jaam Pila Dete Hain
+  Manam manam Ghulam-e-Hazrat-e-Shah-e-Najaf
+  Thokaron Mein Rakhte Hain Duniya Ki Shahiyaan
 
   2
-  Aouj Pe Hai Ali Ke Faqeeron Ka Bharam
+  Auj Pe Hai Ali Ke Faqiroṅ Ka Bharam
   Ali Ka Ishq Bhi Kaisa Ajab Ishq Hai
-  Jis Mein Ranga Hoon Main Ali Ka Hi Woh Rang Hai
-  Wajad Mein Kyun Na Rahon Ali Mere Sang Hai
+  Jis Mein Ranga Huṅ Main Ali Ka Hi Woh Rang Hai
+  Wajd Mein Kiun Na Rahuṅ Ali Mere Sang Hai
 
   3
   Ali Ali Karta Hai Seene Mein Dharak Ke
   Meri Tarha Dekho Mera Dil Bhi Malang Hai
-  Ali Ali Kyun Na Kahon Mujh Pe Khuda Ka
+  Ali Ali Kiun Na Kahon Mujh Pe Khuda Ka
   Ali Ali Kehne Se Hota Hai Karam
 
   4
   Mera Humsafar Ali Hai Dino Mein Raton Mein
   Lagta Hai Dil Mera Bas Ali Ki Baton Mein
-  Ali Ke Khiyalon Se Nikalta Hi Kahan Hoon
-  Hain Ali Ke Ishq Ki Lakeerein Mere Hathoon Mein
+  Ali Ke Khiyalon Se Nikalta Hi Kahan Huṅ
+  Hain Ali Ke Ishq Ki Lakeerein Mere Hathuṅ Mein
 
   5
   Ali Mera Sab Kuch Ali Meri Zindagi
@@ -46,7 +46,7 @@ romanLyrics: |-
   Jabhi Tu Baithtay Hain Hum Najaf Mein Ja Ja Ke
   Mowaliyon Ko Wahan Rab Dikhai Deta Hai
   Ishq Ke Namaziyon Ka Qibla Najaf Hai
-  Ashiqon Ka Rukh Bas Ali Ki Taraf Hai
+  Aashiqon Ka Rukh Bas Ali Ki Taraf Hai
 
   7
   Badshahi Rakh Ke Main Kya Karon Ga Bolo
@@ -68,9 +68,9 @@ romanLyrics: |-
 
   10
   Hain Sabhi Zeeshan Maula Ali Ki Raza Se
-  Bhat, Shah, Khuwaja Hoon Ya Sachal-o-Qalandar
+  Bhat, Shah, Khwaja Huṅ Ya Sachal-o-Qalandar
   Baithtay Hain Ali Ke Malang Jab Mil Ke
-  Jhoom Ke Kehte Hain Ali Dam Dam
+  Jhum Ke Kehte Hain Ali Dam Dam
 ---
 
 مست کو مستی میں پرواز کرا دیتے ہیں

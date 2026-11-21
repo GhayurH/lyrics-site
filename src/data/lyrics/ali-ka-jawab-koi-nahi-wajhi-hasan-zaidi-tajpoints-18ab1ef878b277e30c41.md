@@ -1,6 +1,6 @@
 ---
-title: "علی کا جواب کوئی نہیں وجیہ حسن زیدی"
-alternateTitle: "Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi"
+title: "علی کا جواب کوئی نہیں"
+alternateTitle: "Ali Ka Jawaab Koi Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,42 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi
-
   1
-  Qasam Khuda ki Ali ka jawab koi nahi
-  Turab sab hain magar Buturab koi nahi
-  Kissi ko kam na samjhna Ali ki mehfil mein
-  Khiyal rakhna yahan par nawab koi nahi
-  Kaha farishton ne le jao iss ko janat mein
-  Ali hai dil mein tu iss ka hisab koi nahi
+  Qasam Khuda ki Ali ka jawaab koi nahiṅ
+  Turab sab hain magar Buturab koi nahiṅ
+  Kisi ko kam na samajhna Ali ki mehfil mein
+  Khayaal rakhna yahan par nawab koi nahiṅ
+  Kaha farishton ne le jaao is ko jannat mein
+  Ali hai dil mein tu is ka hisab koi nahiṅ
 
   2
-  Hazaron rozay rakho hajj karo namaz parho
-  Bina Ali ke miley ga sawab koi nahi
-  Yeh bhok pyas mein bhi khushboein lotata hai
-  Gul-e-Rubab ke jaisa ghulab koi nahi
-  Ali ke bugz ne chehray se cheen li ronaq
-  Main kaisay maan loon tujh par azab koi nahi
+  Hazaaroṅ roze rakho hajj karo namaaz parho
+  Bina Ali ke mile ga sawab koi nahiṅ
+  Ye bhuk pyaas mein bhi khushbueṅ lutaata hai
+  Gul-e-Rubab ke jaisa gulaab koi nahiṅ
+  Ali ke bughz ne chehre se cheen li ronaq
+  Main kaisay maan loon tujh par azab koi nahiṅ
 
   3
   Shujatein yeh pukarein Hussain ke baba
-  Sar-e-wiga bhi tera hum rakab koi nahi
+  Sar-e-wiga bhi tera hum rakab koi nahiṅ
   Ali kaman ke oss paar hain shab-e-Mairaj
-  Tu phir Ali ke liye tu hijab koi nahi
-  Yeh do jahan se Khuda ki namaz kehti hai
-  Hussainiyon mein amal ka kharab koi nahi
+  Tu phir Ali ke liye tu hijab koi nahiṅ
+  Ye do jahan se Khuda ki namaaz kehti hai
+  Hussainiyon mein amal ka kharab koi nahiṅ
 
   4
   Ali ke naam se khush ho rahe hain sab momin
-  Bata rahe hain nasab ka kharab koi nahi
-  Kaha yeh soli pe ja ke Ali ke Meesum ne
-  Sharab ishq-e-Ali si sharab koi nahi
+  Bata rahe hain nasab ka kharab koi nahiṅ
+  Kaha yeh suli pe ja ke Ali ke Meesum ne
+  Sharab ishq-e-Ali si sharab koi nahiṅ
   Na ho karam jo Ali ka tu phir Sharar Naqvi
-  Hazoor koi nahi our janab koi nahi
+  Huzur koi nahiṅ aur janab koi nahi
 ---
-
-علی کا جواب کوئی نہیں وجیہ حسن زیدی
 
 ۱
 قسم خدا کی علی کا جواب کوئی نہیں
