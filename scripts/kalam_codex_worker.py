@@ -547,7 +547,7 @@ def queue_ownership_overrides(paths: list[str], workers: int) -> dict[str, int]:
     if data.get("version") != 1 or data.get("worker_count") != workers:
         raise WorkerError("Incompatible queue ownership manifest: " + str(file))
     inventory = hashlib.sha256(
-        "\\n".join(paths).encode("utf-8")).hexdigest()
+        "\n".join(paths).encode("utf-8")).hexdigest()
     if data.get("inventory_sha256") != inventory:
         raise WorkerError(
             "Round 2 inventory changed since redistribution; refusing unsafe "
