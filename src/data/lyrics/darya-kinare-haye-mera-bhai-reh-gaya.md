@@ -1,51 +1,52 @@
 ---
-title: "بھائی رہ گیا میثم کشمیری"
-alternateTitle: "Bhai Reh Gaya Meesum Kashmiri"
+title: "دریا کنارے ہائے میرا بھائی رہ گیا"
+alternateTitle: "Darya Kinare Haye Mera Bhai Reh Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Izhar"
+reciter: "Meesum Kashmiri"
 aliases: []
 published: false
 romanLyrics: |-
-  Thi dasht-e-Karbala mein yeh Shabeer ki sada
-  Darya kinaray haye mera bhai reh gaya
+  Thi dasht-e-Karbala mein ye Shabbir ki sada
+  Darya kinare haye mera bhai reh gaya
 
   1
-  Woh gham mila keh roti thin sari hi bibiyaan
-  Khaimon mein oss ghari tu qayamat si thi ayyaan
-  Darya se aa ke jab sheh-e-mazloom ne kaha
-  Kehte they Shah tujh ko Sakina hai yeh khabar
+  Wo gham mila ke roti thin sari hi bibiyan
+  Khaimon mein us ghari to qayamat si thi ayaan
+  Darya se aa ke jab Shah-e-mazlum ne kaha
+  Kehte thay Shah tujh ko Sakina hai ye khabar
 
   2
-  Pani woh bhar ke nehar se aane laga tha ghar
-  Lagtay hi teer mashk se pani jo beh gaya
-  Hai kaun ab jo bhai kahey ga yahan mujhe
-  Ab kaun le ke aaye ga pani Furat se
+  Pani wo bhar ke nehar se aane laga tha ghar
+  Lagte hi teer mashk se pani jo beh gaya
+  Hai kaun ab jo bhai kahega yahan mujhe
+  Ab kaun le ke aayega pani Furaat se
 
   3
-  Ab aye Sakina ho ga teri tashnagi ka kya
-  Khali alam uthaye they jab Shah-e-Mashraqain
-  Tha Ya Ali zaban pe kehte they yeh Hussain
-  Aa kar tu dekho Baba sar-e-dasht-e-Karbala
+  Ab ae Sakina hoga teri tashnagi ka kya
+  Khali alam uthaye thay jab Shah-e-Mashriqain
+  Tha Ya Ali zaban pe kehte thay ye Husain
+  Aa kar to dekho Baba sar-e-dasht-e-Karbala
 
   4
-  Chadar ka pasbaan tha mohafiz tha woh jarri
-  Ab apne baad mujh ko tu lagta hai bas yehi
-  Chin jaye gi aye Zainab-e-Bekas teri rida
-  Ro ro ke keh rahe they yehi Ibn-e-Syeda
+  Chadar ka pasban tha muhafiz tha wo jari
+  Ab apne baad mujh ko to lagta hai bas yehi
+  Chhin jayegi ae Zainab-e-bekas teri rida
+  Ro ro ke keh rahe thay yehi Ibn-e-Sayyeda
 
   5
-  Amma mera tu sara chaman hi ujar gaya
-  Tha jis pe naaz mujh ko woh saqqa nahi raha
-  Aaqa hi bas kaha hai mujhe jis ne ummar bhar
-  Marne ke waqt tha mere zanu pe oss ka sar
+  Amma mera to sara chaman hi ujar gaya
+  Tha jis pe naaz mujh ko wo saqqa nahin raha
+  Aaqa hi bas kaha hai mujhe jis ne umar bhar
+  Marne ke waqt tha mere zanu pe us ka sar
 
   6
-  Mara gaya Furat pe wapis na aa saka
-  Izhar oss ghari tu larazne lagi zameen
-  Maqtal mein aa ke jab yeh pukarey they Shah-e-Dein
+  Mara gaya Furaat pe wapas na aa saka
+  Izhar us ghari to larazne lagi zameen
+  Maqtal mein aa ke jab ye pukare thay Shah-e-din
   Akbar utho sahara mujhe tum hi do zara
 ---
 

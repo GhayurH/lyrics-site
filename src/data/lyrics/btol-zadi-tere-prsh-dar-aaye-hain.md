@@ -9,64 +9,64 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Batool zadi teray pursa dar aaye hain
-  Ye chand ashkon ka tohfa bhi sath laye hain
+  Batoolzadi tere pursadar aaye hain
+  Ye chand ashkon ka tohfa bhi saath laye hain
 
   1
-  Tu baad qatl e Hussain Shaam aa gayi bibi
-  Bacha na bhai na sar pe rida rahi bibi
+  Tu baad-e-qatl-e-Husain Sham aa gayi Bibi
+  Bacha na bhai na sar pe rida rahi Bibi
 
   2
-  Na janay kaise bhatakti phiri bazaron may
-  Ridayain mangti ho gi kharri hazaron may
+  Na jaane kaise bhatakti phiri bazaron mein
+  Ridayen mangti hogi khari hazaron mein
 
   3
-  Sina ki noak pe Abbas dekhtay hoon gay
-  To khoon Abid e beemar ro rahay hon gay
+  Sinaan ki nok pe Abbas dekhte honge
+  To khoon Abid-e-bimar ro rahe honge
 
   4
-  Rubab o Laila ke hathon may rasiyaan hongi
-  Yateem bali Sakina ki siskiyan hon gi
+  Rubab o Laila ke hathon mein rassiyan hongi
+  Yateem bali Sakina ki siskiyan hongi
 
   5
-  Baghair Aon o Muhammad tu jab chali ho gi
-  To apnay beton ki lashon ko dhoondti ho gi
+  Baghair-e-Aun o Muhammad tu jab chali hogi
+  To apne beton ki lashon ko dhoondti hogi
 
   6
-  Baazar e Shaam may khutbay jo hain parrhay tu ne
-  Na janay jaan pe kia kia sitam sahay tu ne
+  Bazaar-e-Sham mein khutbe jo hain parhe tu ne
+  Na jaane jaan pe kya kya sitam sahe tu ne
 
   7
-  Janab e Fizza tumhe jab dilasay deti thi
-  Na maro - na maro Zehra ki beti hay ro ro kehti thi
+  Fizza tumhen jab dilase deti thi
+  Na maaro, na maaro Zahra ki beti hai, ro ro kehti thi
 
   8
-  Gira Rubab ke sar pe jo aa ke ik pathar
-  To yaad aa gaye hoon gay tumhe Ali Akbar
+  Gira Rubab ke sar pe jo aa ke ik patthar
+  To yaad aa gaye honge tumhen Ali Akbar
 
   9
-  Tumhe to dekh ke suraj bhi sharm khata tha
-  Tu sehm jati thi baba jo ghar may aata tha
+  Tumhen to dekh ke suraj bhi sharm khata tha
+  Tu seham jati thi Baba jo ghar mein aata tha
 
   10
-  Kisi ne socha na tu Fatima ki jayi hay
-  Janab e Hazrat e Abbas tera bhai hay
+  Kisi ne socha na tu Fatima ki jayi hai
+  Abbas tera bhai hai
 
   11
-  Tumharay lutnay se Islam bach gaya bibi
-  Khuda Rasool ka haey nam bach gaya bibi
+  Tumhare lutne se Islam bach gaya Bibi
+  Khuda Rasul ka haye naam bach gaya Bibi
 
   12
-  Ham ghariboon ka ye pursa qabool kar bibi
-  Aur apnay karm ka sab par nazool kar bibi
+  Ham ghareebon ka ye pursa qabool kar Bibi
+  Aur apne karam ka sab par nuzul kar Bibi
 
   13
-  Ye sansain chalti hain Akhtar bhi dar pe hazir hay
-  Jo mar gaya to ye apna salam e aakhir hay
+  Ye sansen chalti hain Akhtar bhi dar pe hazir hai
+  Jo mar gaya to ye apna salam-e-aakhir hai
 
   14
-  Salam kar ke sab apnay des jayain gay
-  Rahay jo zinda to phir aglay saal aayain gay
+  Salam kar ke sab apne des jayenge
+  Rahe jo zinda to phir agle saal aayenge
 ---
 
 بتول زادیؑ تیرے پرسہ دار آئے ہیں

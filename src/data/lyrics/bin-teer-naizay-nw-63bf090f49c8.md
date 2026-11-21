@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bin teer naizay talwaran day Zainab Islam bachaya ay
+  Bin teer neze talwaran de Zainab Islam bachaya ae
 
   1
-  Ay apni nasal muka baithi
-  Rang mission Hussain nu laya ay
+  Ae apni nasal muka baithi
+  Rang mission Husain nu laya ae
 
   2
-  Tu turaya maqtal nu veeran
-  Main dar tay khaloti raiyaan
-  Tu sajday vich jado sir rakhya
-  Main khairan mangdi raiyan
-  Menu nai bhulna teri gardan tay
-  Jadon zalim khanjar chalaya ay
+  Tun turaya maqtal nu veeran
+  Main dar te khaloti rahiyan
+  Tun sajde vich jadon sir rakhya
+  Main khairan mangdi rahiyan
+  Mainu nahin bhulna teri gardan te
+  Jadon zalim khanjar chalaya ae
 
   3
-  Keeta saffar kewain si Shaam tayin
-  Ais gal ton dil hairaan ay
-  Shabeer da sar si naizay tay
-  Reya parda paak Quran ay
-  Sajjad vi rat peya rhonda ay
-  Ghairat nay maar mukaya ay
+  Keeta safar kiven si Sham tain
+  Es gal ton dil hairan ae
+  Shabbir da sar si neze te
+  Reha parda paak Quran ae
+  Sajjad vi rat peya ronda ae
+  Ghairat ne maar mukaya ae
 
   4
-  Ban qaidi Shaam ch agayi
-  Tatheer di pardadaar ay
-  Sajjad nay dasiya phupiyan nu
-  Ay Shaam wala bazaar ay
-  Raay vajtay daffal si khushiyan tay
-  Jadon qafila Shaam ch aaya ay
+  Ban qaidi Sham ch aa gayi
+  Tatheer di parda daar ae
+  Sajjad ne dasya phuphiyan nu
+  Ae Sham wala bazaar ae
+  Raah wajde daffal si khushiyan te
+  Jadon qafila Sham ch aaya ae
 
   5
-  Kahin dair lagi bazaaran vich
-  Raiyan ruldiyaan Zahra jaiyan
-  Vadh gaiye ay bheer bazariyan di
-  Jadon vich darbaar day aiyan
-  Zahra diyan dhiyan sir nangay
-  Hakim darbaar bulaya ay
+  Kahin der lagi bazaaran vich
+  Rahiyan ruldiyaan Zahra jaiyan
+  Wadh gayi ae bheer bazaariyan di
+  Jadon vich darbaar de aaiyan
+  Zahra diyan dhiyan sir nange
+  Haakim darbaar bulaya ae
 ---
 
 بن تیر نیزے تلواراں دے زینب اسلام بچایا اے

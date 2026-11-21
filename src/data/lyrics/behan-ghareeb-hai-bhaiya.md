@@ -1,6 +1,6 @@
 ---
-title: "بہن غریب ہے بھیا سرور رضا کربلائی"
-alternateTitle: "Behin Garib Hai Bhaiya Sarwar Raza Karbalai"
+title: "بہن غریب ہے بھیا"
+alternateTitle: "Behan Ghareeb Hai Bhaiya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,26 +10,22 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Behin garib hai bhaiya Sarwar Raza Karbalai
-
   1
-  Behan ghareeb hai bhaiyya kafan bhi na la saki
-  Aye bhai ahl-e-sitam se tujhe bacha na saki
-  Dafan tamam shaheedon ke ho gaye lashay
+  Behan ghareeb hai bhaiya kafan bhi na la saki
+  Ae bhai ahl-e-sitam se tujhe bacha na saki
+  Dafan tamam shaheedon ke ho gaye lashe
   Main apne bhai ki turbat magar bana na saki
-  Jalaya aag ne daman ko iss tarha bhaiyya
-  Tumhari beti Sakina ossay bhuja na saki
+  Jalaya aag ne daman ko is tarah bhaiya
+  Tumhari beti Sakina ise bujha na saki
 
   2
-  Kaha Rubab ne ro kar yeh pyasay Asghar se
-  Mujhe yeh gham hai ke pani tujhey pila na saki
-  Aye bhai Sham-e-Ghareebaan keh ghoop andherey mein
+  Kaha Rubab ne ro kar ye pyase Asghar se
+  Mujhe ye gham hai ke pani tujhe pila na saki
+  Ae bhai Sham-e-Ghareeban ke ghup andhere mein
   Tumhari bali Sakina ko neend aa na saki
-  Yazidiyat ne tu chaha Hussainiyat na rahe
-  Gham-e-Hussain ko dunya Muhib mita na saki
+  Yazidiyat ne to chaha Husainiyat na rahe
+  Gham-e-Husain ko duniya Muhib mita na saki
 ---
-
-بہن غریب ہے بھیا سرور رضا کربلائی
 
 ۱
 بہن غریب ہے بھیا کفن بھی نہ لا سکی

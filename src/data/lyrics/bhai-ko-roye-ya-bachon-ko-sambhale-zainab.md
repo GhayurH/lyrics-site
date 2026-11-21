@@ -8,40 +8,40 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Bhai ko roye ke bacheon ko sanbhale Zainab
-  Zabt matam ka bhala kaise nikale Zainab
+  Bhai ko roye ke bachon ko sambhale Zainab
+  Zabt-e-matam ka bhala kaise nikale Zainab
 
   1
-  Mujhse ab otthi nahi laashe jawan shay ne kaha
-  Tune pala hai tohi ake othale Zainab
+  Mujh se ab uthti nahin laash-e-jawan Shah ne kaha
+  Tu ne pala hai to hi aa ke utha le Zainab
 
   2
-  Cheenthe hain layeen kaneon se Sakina ke gohar
-  Banke Abbas tho zalim se chudale Zainab
+  Chheente hain laeen kanon se Sakina ke gauhar
+  Ban ke Abbas tu zalim se chhura le Zainab
 
   3
-  Bhai Abbas nahi Qasimo Akbar bhi nahi
-  Zakm isdil ka kaleje mai chupale Zainab
+  Bhai Abbas nahin Qasim o Akbar bhi nahin
+  Zakhm is dil ka kaleje mein chhupa le Zainab
 
   4
-  Ashk banjao tumhi shaame gareeban ke charag
-  Ban me ab sochuke sab ghar ke ojale Zainab
+  Ashk ban jao tum hi Sham-e-Ghareeban ke chiragh
+  Ban mein ab so chuke sab ghar ke ujale Zainab
 
   5
-  Athi thi halqe bureeda se andhere me sada
-  Deke awaaz Sakina ko bolale Zainab
+  Aati thi halq-e-bureeda se andhere mein sada
+  De ke aawaz Sakina ko bula le Zainab
 
   6
-  Fathah karna abhi shaam tujhe banke Hussain
-  Tu hi ye bare qiyadath bhi othale Zainab
+  Fatah karna abhi Sham tujhe ban ke Husain
+  Tu hi ye baar-e-qiyadat bhi utha le Zainab
 
   7
-  Ran may jab sarse rida chingayi ayi ye sada
-  Apne chehre ko tho baleon se chupale Zainab
+  Ran mein jab sar se rida chhin gayi aayi ye sada
+  Apne chehre ko tu balon se chhupa le Zainab
 
   8
-  Bhai phirbhi na bacha saniye Zehra tera
-  Tu ne qurban kiye goadke pale Zainab
+  Bhai phir bhi na bacha Sani-e-Zahra tera
+  Tu ne qurban kiye god ke pale Zainab
 ---
 
 بھائی کو روئے کہ بچوں کو سنبھالے زینب

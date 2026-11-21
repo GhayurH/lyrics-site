@@ -16,24 +16,24 @@ romanLyrics: |-
   Ro rahi hai Fatima baithi khule sar khaak par
 
   1
-  The Imam-e-waqt sab kuchh jaante the Shaah-e-diṅ
-  Eriyaaṅ ragre ga ik din ran meiṅ Akbar khaak par
+  Thay Imam-e-waqt sab kuch jaante thay Shah-e-din
+  Eriyan ragrega ik din ran mein Akbar khaak par
 
   2
-  Sehra-e-Qasim meiṅ din ko maaṅ ne gundha tha abhi
-  Dekho murjhaaye pare haiṅ wo gul-e-tar khaak par
+  Sehra-e-Qasim mein din ko maan ne gundha tha abhi
+  Dekho murjhaye pare hain wo gul-e-tar khaak par
 
   3
-  Maaṅ ki godi se juda hokar bataao meri jaaṅ
-  Kis tarah se nind aayi tum ko Asghar khaak par
+  Maan ki godi se juda hokar batao meri jaan
+  Kis tarah se neend aayi tum ko Asghar khaak par
 
   4
-  Ya Ali mushkil kusha imdaad ka ye waqt hai
-  Aa rahe haiṅ dekhiye ghore se Sarwar khaak par
+  Ya Ali mushkil-kusha imdad ka ye waqt hai
+  Aa rahe hain dekhiye ghore se Sarwar khaak par
 
   5
-  Fatima Zehra sameteṅ gi unheṅ rumaal meiṅ
-  Gir rahe haiṅ aaṅkh se Najmi jo gauhar khaak par
+  Fatima Zahra sametengi unhen rumal mein
+  Gir rahe hain aankh se Najmi jo gauhar khaak par
 ---
 بے کفن ہے لاشہء سبط پیمبر خاک پر
 رو رہی ہے فاطمہ بیٹھی کھلے سر خاک پر

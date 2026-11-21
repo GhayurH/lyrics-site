@@ -26,3 +26,7 @@
 - `reviewed_at`: date of manual judgement.
 
 Do not automatically run CI on this ongoing Round 2 editorial WIP.
+
+## Final queue ingestion (2026-11-21)
+
+The completed worker state files record **1,602 needs_human snapshots**: root 393, shard 1 450, shard 2 407, shard 3 352. The latest import appended **93 new snapshot records** to the existing 1,509-row queue, retaining all earlier editorial decisions. Codex proposals remain unapproved until the `review_status` and `decision` fields are explicitly changed. All four snapshot directories contain paired `before.md` and `after.md` files; CI remains off during editorial WIP.
