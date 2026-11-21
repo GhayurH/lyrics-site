@@ -1,6 +1,6 @@
 ---
-title: "آخری سجدہ ندیم سرور"
-alternateTitle: "Akhri Sajda Nadeem Sarwar"
+title: "آخری سجدہ"
+alternateTitle: "Aakhri Sajda"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,27 +9,27 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hilney laga arsh-e-barin, roney lagi Karbala
+  Hilne laga arsh-e-barin, rone lagi Karbala
 
   1
-  Lakhon qatilon mein tha magar yeh sach hai ba Khuda
-  Koi na Hussain our Khuda ke darmiyan tha
-  Sajday mein Hussain they labon pe thi yehi sada
-  Le aye mere Allah ab tere hawalay
-  Malik tera banda ab tere hawalay
-  Aray zindagi se sair ho chuka
+  Laakhoṅ qaatiloṅ mein tha magar yeh sach hai ba Khuda
+  Koi na Husain aur Khuda ke darmiyan tha
+  Sajde mein Husain the labon pe thi yehi sada
+  Le ae mere Allah ab tere hawaale
+  Malik tera banda ab tere hawaale
+  Aray zindagi se ser ho chuka
 
   2
-  Kar raha hoon aakhri sajdah
-  Subhana rabi al aala
+  Kar raha hoon aakhri sajda
+  Subhaana rabi al aalaa
   Asar ki sunta hoon sada-e-azaan
-  Aakhri dena hai mujhe imtehaan
-  Charon taraf teer-o-sina barchiyaan
-  Hain yeh mere qatal ki teyariyaan
+  Aakhri dena hai mujhe imtihaan
+  Chaaroṅ taraf teer-o-sina barchhiyaaṅ
+  Hain yeh mere qatal ki taiyaariyaaṅ
 
   3
-  Jantay hain kis ka nawasa hoon main
-  Jantay hain kis liye aaya hoon main
+  Jaante hain kis ka nawasa hoon main
+  Jaante hain kis liye aaya hoon main
   Tera hi paigham sunata hoon
   Phir bhi sitam ka hi nishana hoon main
   Na mera ghar bar na lashkar raha
@@ -37,27 +37,27 @@ romanLyrics: |-
 
   4
   Itnay sitam dil pe main sehta raha
-  Shukar hai wadah tu wafa ho gaya
+  Shukr hai waada tu wafa ho gaya
   Yaad rakhay ga yeh zamana sada
-  Kaisay humein dasht mein loota gaya
-  Kaisay humein nehar pe pyasa rakha
-  Kaisay mera aakhri sajdah howa
+  Kaise hameṅ dasht mein loota gaya
+  Kaise hameṅ nehar pe pyasa rakha
+  Kaise mera aakhri sajda hua
 
   5
   Khaimon mein kuhram hai mere Khuda
   Betiyon behno mein hai matam bapa
   Gash mein hai Sajjad akela mera
-  Baad mere inn ka hai tu aasra
+  Baad mere in ka hai tu aasra
   Lo dam-e-aakhir chali aayi hain maa
-  Sath mein aaye hain mere baba jaan
+  Saath mein aae hain mere baba jaan
 
   6
   Bhai Hasan khak pe giriya kuna
-  Dekhtey hain nana mera imtehaan
-  Jaisay hi sar khak pe shah ne rakha
-  Shimar e laeen shah ki janib barha
-  Larzi zameen khon barasney laga
-  Aakhri Shabbir ki gonji sada
+  Dekhte hain nana mera imtihaan
+  Jaise hi sar khak pe shah ne rakha
+  Shimr e laeen shah ki janib barha
+  Larzi zameen khun barasne laga
+  Aakhri Shabbir ki guṅji sada
 ---
 
 ہلنے لگا عرشِ بریں، رونے لگی کربلا

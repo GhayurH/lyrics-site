@@ -1,6 +1,6 @@
 ---
 title: "اکبر ویراں نانے دے روضے جا کے"
-alternateTitle: "Akbar Veeran Nanay De Rozay Jakay"
+alternateTitle: "Akbar Viraaṅ Naane De Roze Jaa Ke"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -9,32 +9,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar veeran, nanay de rozay jakay, main mungdi roz duawan
-  Dil dhalday veer mera, tere sehre sajwan ton, main pehlan na marjawan
+  Akbar viraaṅ, naane de roze jaa ke, mainn maṅgdi roz duaaṅ
+  Dil dhalda veer mera, tere sehre sajaavaṅ ton, mainn pehlaaṅ na mar jaavaaṅ
 
   1
-  Main khaabich Asghar nu, har roz khidaandi haan
-  Kar kar ke pyaar veeran, odaa jhoola jhulaandi haan
-  Ankh khol'niyan jadh main, nai disda veer menu, mai rowan te kurlawan
+  Main khwaab vich Asghar nu, har roz khidaandi haan
+  Kar kar ke pyaar viraaṅ, odaa jhoola jhulaandi haan
+  Akh kholniyaaṅ jad mainn, naiṅ disda veer mainnu, main rovaaṅ te kurlaavaaṅ
 
   2
-  Nana kol raway veeran, dil bhaina da karda ay
-  Tak khaab daronay vi, dil nikhri da darda ay
-  Enjh lagdae menu nana, jevain murkay nai aona, hunr merayan bhirawan
+  Nana kol raway viraaṅ, dil bhaina da karda ae
+  Tak khwaab daronay vi, dil nikhri da darda ae
+  Inj lagdae mainnu nana, jiven murkay naiṅ auna, hunr merayan bhirawan
 
   3
-  Jis din da gaya Akbar, menu chain na aaanda ay
-  Jevain din guzar raye nay, dil dubda hi jaanda ay
-  Mai taiz hawawan ton, kadmaan de nishanan nu, har waqt payi lukaawan
+  Jis din da gaya Akbar, mainnu chain na aanda ae
+  Jevain din guzar raye nay, dil dubda hi jaanda ae
+  Mai tez hawaavaaṅ ton, kadmaan de nishaanaaṅ nu, har waqt payi lukaawan
 
   4
-  Jairi baad bhiraawan day, Yasrab wich margayi ay
-  Har matami di jug te, taazeeem wadhaa gayi ay
-  Kainaat soch roway, kyun okhiyan ne reyaan, Sughra diyan ne saawaan
+  Jairi baad bhiraawan day, Yasrab wich margayi ae
+  Har matami di jug te, taazeeem wadhaa gayi ae
+  Kainaat soch roway, kyun okhiyan ne reyaan, Sughra diyan nesaavaaṅ
 
   5
-  Sughra de bhirawan da, jairaa baneya azaadar ay
-  Mehshar ich oda zaair, sung Haider-e-Karar ay
+  Sughra de bhirawan da, jairaa baneya azaadar ae
+  Mehshar ich oda zaair, sung Haider-e-Karar ae
   Hasnain naal ho sarn, howan gaiyan oday te, Zahra diyan nighawan
 ---
 
