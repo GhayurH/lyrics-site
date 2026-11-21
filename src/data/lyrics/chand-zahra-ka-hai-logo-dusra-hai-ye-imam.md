@@ -1,6 +1,6 @@
 ---
 title: "چاند زہرا کا ہے لوگو دوسرا ہے یہ امام"
-alternateTitle: "Chand Zahra Ka Hai Logo Dosra Hai Yeh Imam"
+alternateTitle: "Chand Zahra Ka Hai Logo Dusra Hai Ye Imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Chand Zahra ka hai logo dosra hai yeh imam
-  Hum shabeeh-e-Mustafa hai our Hasan iss ka naam
-  Sorat-e-Ahmad bhi hai our seerat-e-Ahmad bhi hai
-  Yeh Khuda ka Murtaza ko hai bara sab se inam
+  Chand Zahra ka hai logo dusra hai ye Imam
+  Ham shabeeh-e-Mustafa hai aur Hasan is ka naam
+  Surat-e-Ahmad bhi hai aur seerat-e-Ahmad bhi hai
+  Ye Khuda ka Murtaza ko hai bara sab se inaam
 
   2
-  Aatay hain khud hi Muhammad Haider-o-Zahra Hussain
-  Jab kahin bhi hota hai jashan-e-Hasan ka ahtemam
-  Yeh bhi tu Mula Hasan ka chota sa hai madah khuwan
-  Bole ga mera kafan jab qabar mein ho ga qiyam
+  Aate hain khud hi Muhammad Haider o Zahra Husain
+  Jab kahin bhi hota hai jashn-e-Hasan ka ehtimam
+  Ye bhi to Maula Hasan ka chhota sa hai maddah khwan
+  Bolega mera kafan jab qabr mein hoga qiyam
 
   3
-  Mara taig-e-sulah se sheh ne Ameer-e-Sham ko
-  Youn kiya roshan Ali ke lal ne hai deen ka naam
-  Hai bhala auqaat kya Afraz ki ke yeh kare
-  Han raqam qirtas par Mula Hasan tera muqam
+  Mara tegh-e-sulah se Shah ne Ameer-e-Sham ko
+  Yun kiya roshan Ali ke laal ne hai din ka naam
+  Hai bhala auqat kya Afraz ki ke ye kare
+  Haan raqam qirtas par Maula Hasan tera maqam
 ---
 
 ۱

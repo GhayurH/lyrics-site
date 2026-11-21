@@ -1,30 +1,31 @@
 ---
-title: "چُک لاش سکینہ دی راوی روڈ"
-alternateTitle: "Chuk Lash Sakina Di Ravi Road"
+title: "چُک لاش سکینہ دی"
+alternateTitle: "Chuk Laash Sakina Di"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Akhtar"
+reciter: "Ravi Road Lahore Party"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Chuk Lash Sakina Di Ronda Aye Bazaraan Wich Sajjad Muhari
-  Koi Qabar Di Ja Dewo Pardesi Musafir Haan Kal Raat Di Mar Gayi Aye Meri Bhain Wachari
-  Riya Baba Qatal Honda Dhi Wastay Paondi Rayi Gal Gal De Uttay Rakh Ke Babay Nu Bachaondi Rayi
-  Aynj Aa Ke Musalmana Ainu Piyo De Dittay Pursay Kuna Choon Lahu Iss De Mar Ke V Rehya Jari
-  Mera Kuj Na Rehya Nana Tera Deen Bana Gayi Aan Afsoos Hai Zainab Nu Kiwein Jiyondi Main Aa Gayi Aan
-  Mainu Samajh Naiyon Aaondi Kiwein Haal Sunawaan Main Kinj Sham-e-Ghareebaan Di Ik Raat Guzari
+  Chuk laash Sakina di ronda ae bazaaran vich Sajjad muhari
+  Koi qabr di ja dewo pardesi musafir haan kal raat di mar gayi ae meri bhain wichari
+  Riya Baba qatl honda dhi waste paondi rahi gal gal de utte rakh ke Babe nu bachaondi rahi
+  Enj aa ke Musalmanan enu piyo de ditte purse kannan chon lahu is de mar ke vi reha jari
+  Mera kujh na reha Nana tera din bana gayi aan afsos hai Zainab nu kiven jiyondi main aa gayi aan
+  Mainu samajh naiyon aondi kiven haal sunawan main kinj Sham-e-Ghareeban di ik raat guzari
 
   2
-  Jo Babay De Seene Nu Din Raat Tarasdi Rayi Zindan Di Godi Wich Masoma Tarapdi Rayi
-  Adh Raat Di Rab Janrey Khamosh Kyun Ho Gayi Aye Aynj Lagda Aye Rondi Te Gash Ho Gaya Tari
-  Beemar Ne Rab Janrey Kiwein Bhain Nu Dafnaya Gal Sariya Hoya Chola Masooma Te Si Paya
-  Phophiyaan Ne Jinno Kaliyaan Pardais Che Chad Janra Asghar Nu Udeekay Gi Dardaan Di Aye Mari
-  Zainab Di Zareeh Te Jad Loki Chadraan Charhanday Ne Akhtar Nu Odoon Cheetay Oss Waqt De Aounday Ne
-  Oh V Te Musalmaan San De De Ke Jinna Jhirkaan Haye Sani-e-Zahra Di Chadar Si Utari
+  Jo Babe de seene nu din raat tarsdi rahi zindan di godi vich masuma tarapdi rahi
+  Adh raat di Rab jaane khamosh kiun ho gayi ae enj lagda ae rondi te ghash ho gaya tari
+  Bimar ne Rab jaane kiven bhain nu dafnaya gal sarya hoya chola masuma te si paya
+  Phuphiyan ne jinun kalliyan pardes che chhad jana Asghar nu udeeke gi dardan di ae mari
+  Zainab di zareeh te jad loki chadaran charhande ne Akhtar nu odon chete us waqt de aonde ne
+  Oh vi te Musalman san de de ke jinnan jhirkan haye Sani-e-Zahra di chadar si utari
 ---
 
 ۱

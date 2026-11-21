@@ -1,38 +1,39 @@
 ---
-title: "چادر کے پیچھے پیچھے وہ چلتا چلا گیا 2015"
-alternateTitle: "Chadar Ke Piche Piche Woh Chalta Chala Gaya 2015"
+title: "چادر کے پیچھے پیچھے وہ چلتا چلا گیا"
+alternateTitle: "Chadar Ke Pichhe Pichhe Wo Chalta Chala Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Akbar"
+reciter: "Asghar Khan"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Chadar ke piche piche woh chalta chala gaya Asghar Khan
-  Sajjad ko khabar hi nahi Sham aa giya
+  Chadar ke pichhe pichhe wo chalta chala gaya
+  Sajjad ko khabar hi nahin Sham aa gaya
 
   1
-  Waqt-e-rehai aik qayamat thi jis ghari
-  Abid phophi ke samne le kar rida giya
-  Rakhi hoi thi chadar-e-Zainab ossi jagah
-  Sar tasht mein Hussain ka jis ja rakha giya
+  Waqt-e-rihayi ek qayamat thi jis ghari
+  Abid phuphi ke samne le kar rida gaya
+  Rakhi hui thi chadar-e-Zainab usi jagah
+  Sar tasht mein Husain ka jis ja rakha gaya
 
   2
-  Bharta howa hajoom hai Zainab ki rah mein
-  Fiza zara yeh dekho kahan bawafa giya
-  Shabir jaise pohanche the Akbar ki lash par
-  Youn Fatima ki qabar par Zain-ul-Iba giya
+  Bharta hua hujum hai Zainab ki raah mein
+  Fizza zara ye dekho kahan bawafa gaya
+  Shabbir jaise pahunche thay Akbar ki laash par
+  Yun Fatima ki qabr par Zain-ul-Iba gaya
 
   3
-  Darya ko cheen lene ka Abbas ki jagah
-  Dur cheez kar Sakina se badla liya giya
-  Saya alam ka ban giya Akbar wahan wahan
-  Qirtas pe jahan bhi Sakina likha giya
+  Darya ko chheen lene ka Abbas ki jagah
+  Dur cheez kar Sakina se badla liya gaya
+  Saya alam ka ban gaya Akbar wahan wahan
+  Qirtas pe jahan bhi Sakina likha gaya
 ---
 
-چادر کے پیچھے پیچھے وہ چلتا چلا گیا اصغر خان
+چادر کے پیچھے پیچھے وہ چلتا چلا گیا
 سجاد کو خبر ہی نہیں شام آ گیا
 
 ۱
