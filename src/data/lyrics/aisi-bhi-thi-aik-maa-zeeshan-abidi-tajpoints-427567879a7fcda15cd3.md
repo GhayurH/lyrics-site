@@ -1,6 +1,6 @@
 ---
 title: "ایسی بھی تھی ایک ماں"
-alternateTitle: "Aisi Bhi Thi Aik Maa"
+alternateTitle: "Aisi Bhi Thi Aik Maaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,74 +12,74 @@ published: false
 romanLyrics: |-
   1
   Bolo yeh waqt kya tum pe aaya kabhi
-  Chehra kya tum se maa ne chupaya kabhi
-  Rah mein zoor se maa ke rukhsar par
-  Kiya kissi ghair ne hath uthaya kabhi
+  Chehra kya tum se maa ne chhupaaya kabhi
+  Rah mein zor se maa ke rukhsaar par
+  Kya kisi ghair ne haath uthaya kabhi
 
   2
-  Jis ke bachoon ne dekha tha zair-e-kafan
-  Ik tamachay ka rukh par nishaan
-  Samne apne bachoon ke zakhmi thi woh
-  Dard hota tha jab sans leti thi woh
+  Jis ke bachchoṅ ne dekha tha zer-e-kafan
+  Ik tamaache ka rukh par nishaan
+  Samne apne bachchoṅ ke zakhmi thi wo
+  Dard hota tha jab sans leti thi wo
 
   3
-  Mar gaya mera Mohsin yeh kehte hoye
-  Haye jis dar ke neechay tarapti thi woh
-  Zalimo ne ossi dar pe paon rakhay
-  Toor dein oss ki sab pasliyaan
+  Mar gaya mera Mohsin yeh kehte huee
+  Haye jis dar ke niche tarapti thi wo
+  Zaalimo ne usi dar pe paaon rakhe
+  Tor dein us ki sab pasliyaaṅ
 
   4
-  Yeh qayamat kissi ghar pe ab na paray
-  Bachay chotay hoon our maa ki maiyyat uthay
-  Kitne kamsin Hussain-o-Hasan they magar
+  Yeh qayamat kisi ghar pe ab na pare
+  Bachay chhote hoon aur maa ki maiyyat uthay
+  Kitne kamsin Husain-o-Hasan they magar
   Dekha jab maa ka chehra kafan khol ke
 
   5
-  Woh zaeefa thi atharwin saal mein
-  Our chehray pe thin jhuriyan
+  Wo zaifa thi athaarviṅ saal mein
+  Aur chehray pe thin jhuriyan
   Hath chadar mein rakhti thi yeh soch kar
   Zakhm na dekh lein mere noor-e-nazar
 
   6
-  Oss ke ik hath ka bazu toota tha our
-  Neel hi neel they dosrey hath par
-  Taziyana ossay aisay mara gaya
+  Us ke ik haath ka bazu toota tha aur
+  Neel hi neel they dosrey haath par
+  Taziyana usay aisay mara gaya
   Hill na paein kabhi ungliyaan
 
   7
   Tham kar ghar ki dewar chalti rahi
   Dard itna barha jaan nikalti rahi
-  Itna mara gaya tha ossay din ba din
-  Oss ke chehray ki rangat badalti rahi
+  Itna mara gaya tha usay din ba din
+  Us ke chehray ki rangat badalti rahi
 
   8
-  Haal aisa howa ke saharey ke bin
-  Uth na payi giri woh jahan
-  Fatima naam tha roney walo suno
+  Haal aisa hua ke sahaare ke bin
+  Uth na payi giri wo jahan
+  Fatima naam tha rone walo suno
   Mar gayi zakhm kha kar Madine mein jo
 
   9
-  Mar ke bhi sath bachoon ka chora nahi
-  Sham tak sath aayi Madine se woh
+  Mar ke bhi saath bachchoṅ ka chora nahi
+  Shaam tak saath aayi Madine se wo
   Jab sharabi ke darbar layi gayin
-  Be rida oss ki sab betiyaan
+  Be rida us ki sab betiyaan
 
   10
   Bas Ali ke liye zakhm khati rahi
   Apne Mehdi ko ro kar bulati rahi
-  Zakhmi kano se jab khon jari howa
-  Yaad oss ko Sakina ki aati rahi
+  Zakhmi kaanoṅ se jab khun jaari hua
+  Yaad us ko Sakina ki aati rahi
 
   11
-  Itni shiddat se hath oss ke munh par laga
-  Toot kar gir gayin baliyaan
-  Jab kissi maa ki maiyyat pe jaya karo
+  Itni shiddat se haath us ke munh par laga
+  Toot kar gir gayin baaliyaaṅ
+  Jab kisi maa ki maiyyat pe jaaya karo
   Fatima ki musibat sunaya karo
 
   12
-  Sabar Zeeshan bachoon ko aa jaye ga
-  Bas yeh keh kar galay se lagaya karo
-  Yaad woh maa karo aakhri sans tak
+  Sabr Zeeshan bachchoṅ ko aa jaye ga
+  Bas yeh keh kar gale se lagaya karo
+  Yaad wo maa karo aakhri sans tak
   Jis ke pehlu se khoon tha rawaan
 ---
 

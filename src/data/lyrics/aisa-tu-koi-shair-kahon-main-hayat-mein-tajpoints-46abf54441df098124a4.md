@@ -13,34 +13,34 @@ romanLyrics: |-
   Jo likh sakoon main apni baiyaaz-e-nijaat mein
 
   1
-  Yeh kis ne keh diya ke main tanha lahad mein hoon
-  Khushbo gham-e-Hussain ki laya hoon sath mein
-  Aye lashkar-e-sipah-e-Yazeedi sanbhal ke aa
-  Zanjeer matami hai abhi mere hath mein
+  Ye kis ne keh diya ke main tanha lahad mein huṅ
+  Khushbu gham-e-Husain ki laya huṅ saath mein
+  Ae lashkar-e-sipah-e-Yazeedi sambhal ke aa
+  Zanjeer matami hai abhi mere haath mein
 
   2
-  Thanda na karte shair ke guse ko gar Hussain
+  Thanda na karte sher ke ghusse ko gar Husain
   Pani na milta rakh hi milti Furat mein
-  Baag-e-Fidak ke jurm mein bakhshe na jaein gaye
-  Shamil the jitne loag bhi iss wardaat mein
+  Baag-e-Fidak ke jurm mein bakhshe na jaaeṅ ge
+  Shamil the jitne log bhi is wardaat mein
 
   3
-  Tabdeel kar sako gaye na tareekh-e-Karbala
+  Tabdil kar sako ge na tareekh-e-Karbala
   Jitni bhi hair phair karo waqiyaat mein
-  Matam ke daag seene pe roshan hain iss tarha
+  Matam ke daag seene pe roshan hain is tarah
   Jaise falak pe chand chamakta ho raat mein
 
   4
-  Jo mustahib samajhta hai zikar-e-gham-e-Hussain
-  Samajhe na woh namaz ko bhi wajbaat mein
+  Jo mustahib samajhta hai zikr-e-gham-e-Husain
+  Samajhe na wo namaz ko bhi waajibaat mein
   Jo rokta hai majlis-o-matam koi bhi ho
-  Iblees ban ke betha hai rah-e-nijaat mein
+  Iblees ban ke baitha hai rah-e-nijaat mein
 
   5
-  Ik shab ke fasle se bacha le gaye Hussain
+  Ik shab ke fasle se bacha le gaye Husain
   Dozakh ki aag bethi rahi Hur ki ghaat mein
   Ansar ghulam-e-shah-e-shaheedaan azal se hon
-  Lagzish kahan se aaye gi paye sabaat mein
+  Lagzish kahan se aaegi paa-e-sabaat mein
 ---
 
 ایسا تو کوئی شعر کہوں میں حیات میں

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ajeeb haal mein hain Fatima ke dono pisar
-  Hassan ke teer badan mein Hussain teeron par
-  Hassan ko dekha hai Qasim ne khoon ugalte howay
-  Sakina dekhti hai baap ko takhe khanjar
+  Ajib haal mein haiṅ Faatima ke donoṅ pisar
+  Hasan ke tir badan mein Husain tiroṅ par
+  Hasan ko dekha hai Qasim ne khun ugalte hue
+  Sakina dekhti hai baap ko tah-e-khanjar
 
   2
-  Na jane dekhe hain Zainab ne tasht mein kaise
-  Jigar ke tukre Hassan ke kabhi Hussain ka sar
-  Hassan ne jate howay chome bazoo Zainab ke
-  Hussain jate howay chomte rahe chadar
+  Na jaane dekhe haiṅ Zainab ne tasht mein kaise
+  Jigar ke tukre Hasan ke kabhi Husain ka sar
+  Hasan ne jaate hue chume baazu Zainab ke
+  Husain jaate hue chumte rahe chaadar
 
   3
-  Hassan ke baite ke umat ne kar diye tukre
-  Hussain late hain tukre wo sare chun chun kar
-  Udhar Hassan ke janaze par phool teeron ke
-  Idhar Hussain ke lashe ki nazar hain pathar
+  Hasan ke bete ke ummat ne kar diye tukre
+  Husain laate haiṅ tukre wo saare chun chun kar
+  Udhar Hasan ke janaaze par phul tiroṅ ke
+  Idhar Husain ke laashe ki nazr haiṅ patthar
 
   4
-  Udhar Hassan ka janaza phiraya galiyon mein
-  Sar-e-Hussain phirya giya idhar dar dar
-  Tarap rahe hain janaze kuch our youn Akbar
-  Ke teer khainch rahi hai badan se khud madar
+  Udhar Hasan ka janaaza phiraaya galiyoṅ mein
+  Sar-e-Husain phiraaya gaya idhar dar dar
+  Tarap rahe haiṅ janaaze kuchh aur yuṅ Akbar
+  Ke tir khainch rahi hai badan se khud maadar
 ---
 
 ۱

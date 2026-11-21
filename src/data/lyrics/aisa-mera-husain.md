@@ -1,7 +1,7 @@
 ---
 title: "حسین حسین یا حسین"
 recitationId: "aisa-mera-hussain"
-alternateTitle: "Aisa Mera Husain"
+alternateTitle: "Husain Husain Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
