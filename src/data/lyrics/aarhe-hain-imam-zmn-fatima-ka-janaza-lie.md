@@ -1,5 +1,6 @@
 ---
 title: "آرہے ہیں امام زمنؑ فاطمہؑ کا جنازہ لئے"
+alternateTitle: "Aa Rahe Hain Imam-e-Zaman Fatima Ka Janaza Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -7,56 +8,37 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aare hain Imam e Zaman, Fatima ka janaza liye,
-
-  Ghar se nikle Hussain o Hassan, Fatima ka janaza liye.
-
+romanLyrics: |-
+  Aa rahe hain Imam-e-Zaman, Fatima ka janaza liye
+  Ghar se nikle Husain o Hasan, Fatima ka janaza liye
 
   1
-
-  Ghusl dun kaise rabbe jahan, hain shikasta sabhi phaslian,
-
-  Bole Haider ba ranj o mehan, Fatima ka janaza liye.
-
+  Ghusl dun kaise Rabb-e-jahan, hain shikasta sabhi pasliyan
+  Bole Haider ba ranj o mehan, Fatima ka janaza liye
 
   2
-
-  Qalbe Hassnain hain MuzmAima ka janaza liye.
-
+  Qalb-e-Hasnain hain muzmahil, tarpe Kulsum o Zainab ke dil
+  Hai dukhi khana-e-Panjtan, Fatima ka janaza liye
 
   3
-
-  Jab kaha ro ke Shabbir ne, Maa gale se lagalo hame,
-
-  Dard se toote bande kafan, Fatima ka janaza liye.
-
+  Jab kaha ro ke Shabbar ne, maa gale se laga lo mujhe
+  Dard se toote band-e-kafan, Fatima ka janaza liye
 
   4
-
-  Shab ki phailin jo taarikian, so gaya jab ye saara jahan,
-
-  Tab chale ghar se khaibar shikan, Fatima ka janaza liye.
-
+  Shab ki phailin jo tareekiyan, so gaya jab ye sara jahan
+  Tab chale ghar se Khaibar shikan, Fatima ka janaza liye
 
   5
-
-  Ya Ali asbaro saaberren, do Nabi ki amanath hame,
-
-  Qabr karne lagi ye suqan, Fatima ka janaza liye.
-
+  Ya Ali isbir sabireen, do Nabi ki amanat hamein
+  Qabr karne lagi ye sukhan, Fatima ka janaza liye
 
   6
-
-  Ghunchao gul ke tadpe jigar, gham se larza hain bargo shajar,
-
-  Kithna veera(n) hai dee(n) ka chaman, Fatima ka janaza liye.
-
+  Ghuncha o gul ke tarpe jigar, gham se larzan hain barg o shajar
+  Kitna veeran hai deen ka chaman, Fatima ka janaza liye
 
   7
-
-  Hai Mujeeb aur Razi ki fughan, kyun na kaanpe ye arzo sama,
-
-  Uthre marqad me Shaahe Zaman, Fatima ka janaza liye.'
+  Hai Mujeeb aur Razi ki fughan, kiun na kanpe ye arz o saman
+  Utre marqad mein Shah-e-Zaman, Fatima ka janaza liye
 ---
 
 آرہے ہیں امام زمن فاطمہ کا جنازہ لئے
@@ -83,7 +65,7 @@ romanLyrics: 'Aare hain Imam e Zaman, Fatima ka janaza liye,
 قبر کرنے لگی یہ سخن فاطمہ کا جنازہ لئے
 
 ۶
-غنچہ و گل کے تڑپے جگر غم سے لرزاںہیں برگ و شجر
+غنچہ و گل کے تڑپے جگر غم سے لرزاں ہیں برگ و شجر
 کتنا ویراں ہے دیں کا چمن فاطمہ کا جنازہ لئے
 
 ۷
