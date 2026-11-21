@@ -8,38 +8,38 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas alam tera maqtal sai aaraha hai
-  Shabbir ki kamar ko, haye jukha raha hai
+  Abbas alam tera maqtal se aa raha hai
+  Shabbir ki kamar ko haye jhuka raha hai
 
   1
-  Yeh alam Hussainiyat ki pehchan hai karata
-  Yehi Yazeediat kai haar farq ko batata
-  Koi choomta hai aakar, koi jala raha hai
+  Ye alam Husainiyat ki pehchan hai karata
+  Yehi Yazidiyat ke har farq ko batata
+  Koi choomta hai aa kar koi jala raha hai
 
   2
-  Deti thi dilasay main aayai ga abhi pani
-  Sab mil kai dua maango Ghazi ki ho jawani
-  Kyun khaali alam Baba, khaimay mein la raha hai
+  Deti thi dilase main aayega abhi pani
+  Sab mil ke dua mango Ghazi ki ho jawani
+  Kiun khali alam Baba khaime mein la raha hai
 
   3
-  Mushkil kusha ka beta kerta hai yun fayazi
-  Kuch mang kar to dekho deita hai mera Ghazi
-  Hai hath alam par jo, Ghazi bula raha hai
+  Mushkil kusha ka beta karta hai yun fayyazi
+  Kuch mang kar to dekho deta hai mera Ghazi
+  Hai haath alam par jo Ghazi bula raha hai
 
   4
-  Zainab ki khaimeh gaah sai avaaz yeh hai ayi
-  Shabbar ka jo wada tha waapis hoon laynay aayi
-  Tatheer ka hai zamin, maqtal main ja raha hai
+  Zainab ki khaima-gah se awaaz ye hai aayi
+  Shabbar ka jo wada tha wapas hun lene aayi
+  Tatheer ka hai zamin maqtal mein ja raha hai
 
   5
-  Masooum ki jaan par hai kya zulam howa dehko
-  Marjaye na Sakina Abbas zara dehko
-  Asghar ki pyaas Hurmal, kaisay bujara ha hai
+  Masoom ki jaan par hai kya zulm hua dekho
+  Mar jaye na Sakina Abbas zara dekho
+  Asghar ki pyaas Hurmal kaise bujha raha hai
 
   6
   Mamnun tera hun main likhna sikha diya hai
-  Sajaad tu is qabil Mola bana diya hai
-  Teri wafa ki baatain, sab ko suna raha hai
+  Sajjad tu is qabil Maula bana diya hai
+  Teri wafa ki baaten sab ko suna raha hai
 ---
 
 عباس، علم تیرا مقتل سے آ رہا ہے
