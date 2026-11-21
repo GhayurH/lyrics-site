@@ -8,6 +8,10 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter
+from contextlib import ExitStack
+import datetime as dt
+import hashlib
+import math
 import fcntl
 import json
 import os
@@ -20,7 +24,7 @@ import time
 from kalam_codex import ROOT, ROUND2, added_files, base_ref
 from kalam_codex_worker import (
     WorkerError, exclusive_lock, git, load_state, save_state, secure_dir,
-    state_home,
+    state_home, queue_ownership_overrides,
 )
 
 MAX_WORKERS = 16
@@ -118,16 +122,121 @@ def bootstrap(workers: int) -> None:
         save_state(original)
 
 
+
+def rebalance(*, apply: bool = False) -> None:
+    """Give worker 0 the excess pending work of other shards.
+
+    Requires stopped supervisor and worker processes. Does not modify lyric
+    content or existing results. In-flight sessions keep their original owner.
+    """
+    if git(ROOT, "branch", "--show-current").strip() != ROUND2:
+        raise WorkerError("Expected branch " + ROUND2)
+    directory = state_home()
+    secure_dir(directory)
+    # The active supervisor holds this lock during its entire lifetime.
+    with open(directory / "parallel-supervisor.lock", "a+", encoding="utf-8") as supervisor_lock:
+        try:
+            fcntl.flock(supervisor_lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except BlockingIOError as exc:
+            raise WorkerError("Stop kalam-codex-round2.service before rebalancing") from exc
+        original = load_state()
+        workers = original.get("parallel_worker_count")
+        if not isinstance(workers, int) or workers < 2 or workers > MAX_WORKERS:
+            raise WorkerError("Parallel mode has not been initialized")
+        with ExitStack() as locks:
+            # Also guard against manually started workers outside the supervisor.
+            states = []
+            for index in range(workers):
+                home = shard_home(index)
+                secure_dir(home)
+                lock = locks.enter_context(open(home / "worker.lock", "a+", encoding="utf-8"))
+                try:
+                    fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+                except BlockingIOError as exc:
+                    raise WorkerError(
+                        f"Worker {index} is still active; stop it first") from exc
+                data = read_json(home / "state.json")
+                if data.get("parallel_worker_count") != workers or data.get("parallel_worker_index") != index:
+                    raise WorkerError(f"Unexpected ledger for worker {index}")
+                states.append(data)
+            paths = all_paths()
+            if not paths:
+                raise WorkerError("No added Round 2 kalams found")
+            overrides = queue_ownership_overrides(paths, workers)
+            manifest = directory / "queue-ownership.json"
+            completed = set().union(*(set(state.get("results", {})) for state in states))
+            protected = {
+                item for state in states
+                for item in (
+                    state.get("current_path"),
+                    (state.get("workspace_session") or {}).get("path"),
+                ) if item
+            }
+            owned = [[] for _ in range(workers)]
+            for pos, rel in enumerate(paths):
+                index = overrides.get(rel, owner(pos, len(paths), workers))
+                if rel not in completed:
+                    owned[index].append(rel)
+            target = math.ceil(sum(map(len, owned)) / workers)
+            moved = set(overrides)
+            newly_moved = []
+            for index in range(1, workers):
+                extra = max(0, len(owned[index]) - target)
+                candidates = [rel for rel in reversed(owned[index])
+                              if rel not in protected]
+                for rel in candidates[:extra]:
+                    moved.add(rel)
+                    newly_moved.append(rel)
+            new_counts = [len(items) for items in owned]
+            new_counts[0] += len(newly_moved)
+            for index in range(1, workers):
+                new_counts[index] -= sum(
+                    owner(paths.index(rel), len(paths), workers) == index
+                    for rel in newly_moved
+                )
+            report = {
+                "workers": workers,
+                "before_pending": [len(items) for items in owned],
+                "after_pending": new_counts,
+                "newly_moved_to_worker_0": len(newly_moved),
+                "total_moved_to_worker_0": len(moved),
+                "dry_run": not apply,
+            }
+            if apply:
+                document = {
+                    "version": 1,
+                    "worker_count": workers,
+                    "inventory_sha256": hashlib.sha256(
+                        "\\n".join(paths).encode("utf-8")).hexdigest(),
+                    "moved_to_zero": sorted(moved),
+                    "created_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+                }
+                raw = json.dumps(document, ensure_ascii=False, indent=2) + "\\n"
+                tmp = directory / f"queue-ownership.json.tmp.{os.getpid()}"
+                descriptor = os.open(tmp, os.O_WRONLY | os.O_CREAT | os.O_EXCL, 0o600)
+                try:
+                    with os.fdopen(descriptor, "w", encoding="utf-8") as stream:
+                        stream.write(raw)
+                        stream.flush()
+                        os.fsync(stream.fileno())
+                    os.replace(tmp, manifest)
+                finally:
+                    tmp.unlink(missing_ok=True)
+            print(json.dumps(report, ensure_ascii=False, indent=2))
+
+
 def status() -> None:
     original = load_state()
     workers = original.get("parallel_worker_count", 1)
     paths = all_paths()
+    overrides = queue_ownership_overrides(paths, workers)
     counts: Counter[str] = Counter()
     by_worker = []
     for index in range(workers):
         file = shard_home(index) / "state.json"
         state = read_json(file) if file.exists() else {"results": {}, "status": "not_started"}
-        owned = [rel for i, rel in enumerate(paths) if owner(i, len(paths), workers) == index]
+        owned = [rel for i, rel in enumerate(paths)
+                 if overrides.get(rel, owner(i, len(paths), workers)) == index]
         results = state.get("results", {})
         finished = sum(path in results for path in owned)
         for path in owned:
@@ -212,10 +321,16 @@ def main() -> int:
     execute.add_argument("--confirm-run", action="store_true")
     execute.add_argument("--model")
     subs.add_parser("status", help="Read-only combined progress of all shards")
+    rebal = subs.add_parser("rebalance", help="Redistribute remaining work to idle worker 0")
+    rebal.add_argument("--apply", action="store_true",
+                       help="Write the ownership manifest; default is preview only")
     args = parser.parse_args()
     try:
         if args.command == "status":
             status()
+            return 0
+        if args.command == "rebalance":
+            rebalance(apply=args.apply)
             return 0
         if not args.confirm_run:
             raise WorkerError("Explicit --confirm-run is required")
