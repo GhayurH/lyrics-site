@@ -1,6 +1,6 @@
 ---
-title: "عزاخانہ فقیر عارف امام"
-alternateTitle: "Azakhana Faqeer Arif Imam"
+title: "عزاخانہ"
+alternateTitle: "Azaakhaana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ poet: "Faqeer"
 aliases: []
 published: false
 romanLyrics: |-
-  Moheet-e-gardish-e-kaun-o-makaan azza khana
-  Zameen farsh-e-azza! Aasmaan azza khana
+  Muhit-e-gardish-e-kaun-o-makaan azaakhaana
+  Zamin farsh-e-azza! Aasmaaṅ azaakhaana
 
   1
-  Yahan saja ke uthaya gaya nishan-e-azal
-  Nabod-o-bod ke hai darmiyaan azza khana
+  Yahaaṅ saja ke uthaya gaya nishaan-e-azal
+  Nabud o bud ke hai darmiyaaṅ azaakhaana
   Yeh sajdah gah-e-tareqat, yehi musalla e dil
-  Kahan shiyokh-o-shariyat? Kahan azza khana?
+  Kahan shiyokh-o-shariyat? Kahan azaakhaana?
 
   2
   Sar-e-ufaq jo pharera hai saat rangon ka
-  Saja rahe hain Imam-e-zamaan azza khana
+  Saja rahe hain Imam-e-zamaan azaakhaana
   Teri nigah pe khultay nahi ramooz e wajood
-  Teri nazar se hai ab tak nihaan azza khana
+  Teri nazar se hai ab tak nihaan azaakhaana
 
   3
   Nigar e dunya nahi tujh se guftgu mumkin
-  Paray ga tere mere darmiyaan azza khana
+  Paray ga tere mere darmiyaaṅ azaakhaana
   Hamarey seene ki tosee hone wali hai
-  Banaya jane laga hai yahan azza khana
+  Banaya jane laga hai yahan azaakhaana
 
   4
   Har aik qamat e mani pe saya zan hai alam
-  Har aik moj e sukhan mein rawaan azza khana
-  Yeh loag naam-o-nishaan mera pochtay kyun hain?
-  Faqeer naam hai mera! Nishaan azza khana
+  Har aik mauj e sukhan mein rawaan azaakhaana
+  Yeh log naam-o-nishaan mera puchhte Kiun hain?
+  Faqir naam hai mera! Nishaan azaakhaana
 ---
 
 محیطِ گردشِ کون و مکاں عزاخانہ

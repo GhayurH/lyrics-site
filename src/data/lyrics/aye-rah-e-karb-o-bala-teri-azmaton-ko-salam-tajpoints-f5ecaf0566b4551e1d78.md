@@ -1,6 +1,6 @@
 ---
 title: "اے راہِ کرب و بلا تیری عظمتوں کو سلام"
-alternateTitle: "Aye Rah e Karb o Bala Teri Azmaton Ko Salam"
+alternateTitle: "Ae Raah-e-Karb o Bala Teri Azmatoṅ Ko Salaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye rah e Karb o Bala teri azmaton ko salam
-  Hussain jis pe chalay un musafiton ko salam
+  Ae raah-e Karb o Bala teri azmatoṅ ko salaam
+  Husain jis pe chale un musafiton ko salaam
   Ali ki betiyaan amariyon mein guzari hain
-  Kabhi jo bethey hain mehmal tu tujh pe utari hain
+  Kabhi jo baithe hain mehmal to tujh pe utari hain
 
   2
-  Tu misal-e-khuld teri unn bulandiyon ko salam
-  Aye rah-e-Karb-o-Bala tujh pe lamha bhar ke liye
+  Tu misal-e-khuld teri unn bulandiyon ko salaam
+  Ae rah-e-Karb-o-Bala tujh pe lamha bhar ke liye
   Rubab pani ko tarsi nahi pisar ke liye
-  Teri tarai pe our tere paniyon ko salam
+  Teri tarai pe our tere paniyon ko salaam
 
   3
   Ali ki beti ko bhai ki jab bhi yaad aayi
   Tu dekhti thi keh milne ko aa gaya bhai
-  Behan se pyar ki un pasdariyon ko salam
+  Behan se pyar ki un pasdariyon ko salaam
   Buland karne jo aayi hai teri hasti ko
 
   4
   Shifa ka rizq dein gi jo tumhari mati ko
-  Baqa bane jo teri aisi bibiyon ko salam
-  Aye rah-e-haq kabhi pehray mein thi tu Ghazi ke
-  Tera naseeb hai qabzay mein thi tu Ghazi ke
+  Baqa bane jo teri aisi bibiyon ko salaam
+  Ae rah-e-haq kabhi pehray mein thi to Ghazi ke
+  Tera naseeb hai qabzay mein thi to Ghazi ke
 
   5
-  Jabhi wafa ne kiya teri azmaton ko salam
+  Jabhi wafa ne kiya teri azmatoṅ ko salaam
   Shabih-e-Yasin woh Ali Akbar
-  Haseen kitna tha yeh Jaun par ayyan tu kar
-  Yeh raz khol teri khush biyaniyon ko salam
+  Hasin kitna tha ye Jaun par ayaaṅ to kar
+  Yeh raz khol teri khush bayaaniyoṅ ko salaam
 ---
 
 ۱

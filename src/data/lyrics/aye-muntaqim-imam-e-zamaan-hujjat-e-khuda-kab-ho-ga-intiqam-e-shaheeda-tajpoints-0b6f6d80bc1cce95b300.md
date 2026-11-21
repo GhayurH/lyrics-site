@@ -1,6 +1,6 @@
 ---
-title: "اے منتقم امامِ زماں حجتِ خدا کب ہو گا انتقامِ شہیدانِ کربلا"
-alternateTitle: "Aye Muntaqim Imam E Zamaan Hujjat E Khuda Kab Ho Ga Intiqam E Shaheedan E Karbala"
+title: "کب ہو گا انتقامِ شہیدانِ کربلا"
+alternateTitle: "Kab Ho Ga Intiqaam-e-Shahidaan-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,31 +10,31 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kab pori ho gi hasrat-e-Abbas-e-Bawafa kab ho ga intiqam-e-shaheedan-e-Karbala
+  Kab puri ho gi hasrat-e-Abbas-e-Bawafa kab ho ga intiqaam-e-shahidaan-e-Karbala
 
   1
-  Marzi hai jis Hussain ki marzi-e-Zuljalal
-  Rakhtein thin jis ki pyas ka Zahra bohat khiyal
-  Pyasa hai ab bhi qabar mein Zahra ka ladla
+  Marzi hai jis Husain ki marzi-e-Zuljalal
+  Rakhtein thin jis ki pyaas ka Zehra bahut khayaal
+  Pyasa hai ab bhi qabr mein Zehra ka ladla
   Pehlu se hath uthaya na Bint-e-Rasool ne
   Baba ke bad chain na paya Batool ne
-  Har rooz pochti hai yehi qabar-e-Syeda
+  Har rooz pochti hai yehi qabr-e-Syeda
 
   2
   Behno ke sang buzra jo ghirat ka Kibriya
   Aankhon ko zakhmi kar gayi bazar ki fiza
   Abid ke aanson pe hai noha yehi likha
-  Jis khak mein Hussain ke zakhmo ka khon hai
-  Zahra ki pak beti ke qadmo ka khon hai
+  Jis khak mein Husain ke zakhmo ka khon hai
+  Zehra ki pak beti ke qadmo ka khon hai
   Karti hai ab sawal wohi khak-e-Nainwa
 
   3
   Chadar wohi jo Kab-e-Ismat ka thi ghilaf
   Jis se laeen ne khoon bhara khanjar kiya tha saaf
   Mula yeh pochti hai wohi khoon bhari rida
-  Wajib hai yeh bhi Aal-e-Muhammad ke pyar mein
+  Waajib hai yeh bhi Aal-e-Muhammad ke pyar mein
   Muhsin ho har ghulam-e-Ali intezar mein
-  Har lab ka wird ho sada tajeel ki dua
+  Har lab ka wird ho sada taajil ki dua
 ---
 
 کب پوری ہو گی حسرتِ عباسِ باوفا کب ہو گا انتقامِ شہیدانِ کربلا

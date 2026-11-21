@@ -1,6 +1,6 @@
 ---
-title: "عزادارِ کربلا وجیہ حسن زیدی"
-alternateTitle: "Azadar-e-Karbala Wajhi Hasan Zaidi"
+title: "عزادارِ کربلا"
+alternateTitle: "Azaadaar-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,18 +10,18 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Azadar-e-Karbala Wajhi Hasan Zaidi
-  Mah-e-azza ka chand namodar ho gaya
+  Azaadaar-e-Karbala
+  Mah-e-aza ka chaand namodar ho gaya
 
   1
-  Our ghar mein matami ke azakhana bhi saja
-  Khuwaish hai Karbala ki ziyarat naseeb ho
-  Ik bar woh bhi dekh le roza Hussain ka
+  Aur ghar mein maatami ke azaakhaana bhi saja
+  Khwaahish hai Karbala ki ziyarat nasib ho
+  Ik bar woh bhi dekh le roza Husain ka
   Pardais mein hai aik azadar-e-Karbala
 
   2
   Karb-o-bala ko jane ki karta hai woh dua
-  Mah-e-azza ka chand nazar aaya jab ossay
+  Mah-e-aza ka chaand nazar aaya jab ossay
   Zawwar Karbala ko chaley oss ke samne
   Sughra ke dard-o-gham pe woh parhta hai marsiya
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   Rota raha jo saat Muharram ki shab lagi
 
   4
-  Ahl-e-azza mein gaunj thi Qasim ke naam ki
+  Ahl-e-aza mein gaunj thi Qasim ke naam ki
   Mannat uthai mehndi pe jaon main Karbala
   Hasrat se jab bhi dekha azakhaney mein alam
   Aisa laga keh kehte hain Abbas dam ba dam
@@ -40,29 +40,29 @@ romanLyrics: |-
   5
   Ik din zaror Karbala tujh ko balaon ga
   Aanso baha raha hai woh sar peet peet kar
-  Oss par gham-e-Hussain ki riqqat ka hai asar
+  Oss par gham-e-Husain ki riqqat ka hai asar
   Akbar ka zikar oss ne musayab mein jab suna
 
   6
   Woh Karbala ki yaad mein rota hai be panah
   Ashor par woh jata hai chalees bargah
-  Ik aas par keh dekhey ga roza Hussain ka
+  Ik aas par keh dekhey ga roza Husain ka
   Woh sochta hai bali Sakina ke hoslay
 
   7
-  Yaad aati hai Hussain ki beti ki pyas ossay
+  Yaad aati hai Husain ki beti ki pyas ossay
   Peeta hai jab jaloos mein pani sabeel ka
   Oss ko tu aik pal bhi muyassar nahi hai chain
-  Woh matami hai karta hai bas matam-e-Hussain
+  Woh maatami hai karta hai bas matam-e-Husain
 
   8
   Daswein ke din woh karta hai zanjeer our qama
-  Rakho Habib ibn-e-Mazahir pe etimad
+  Rakho Habib ibn-e-Mazahir pe aitimaad
   Tujh ko bulaya jaye ga karb-o-bala Aimaad
-  Phir zindagi mein aaye ga lamha qarrar ka
+  Phir zindagi mein aaye ga lamha qaraar ka
 ---
 
-عزادارِ کربلا وجیہ حسن زیدی
+عزادارِ کربلا
 ماہِ عزا کا چاند نمودار ہو گیا
 
 ۱

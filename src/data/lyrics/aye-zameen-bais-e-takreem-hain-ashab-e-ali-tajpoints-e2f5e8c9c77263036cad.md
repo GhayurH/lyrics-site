@@ -1,6 +1,6 @@
 ---
 title: "اے زمین باعثِ تکریم ہیں اصحابِ علی"
-alternateTitle: "Aye Zameen Bais-e-Takreem Hain Ashab-e-Ali"
+alternateTitle: "Ae Zamin Baais-e-Takrim Haiṅ Ashaab-e-Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye zameen bais-e-takreem hain ashab-e-Ali
-  Aye bashar laiq-e-tazeem hain ashab-e-Ali
-  Husan-o-kirdar ki taqseem hain ashab-e-Ali
-  Fard hote hoye tanzeem hain ashab-e-Ali
+  Ae zamin baais-e-takrim haiṅ ashaab-e-Ali
+  Ae bashar laaiq-e-taazim haiṅ ashaab-e-Ali
+  Husn-o-kirdar ki taqseem haiṅ ashaab-e-Ali
+  Fard hote hue tanzeem haiṅ ashaab-e-Ali
 
   2
   Inn ko main kaise kahoon bujhte sitaron ki tarha
-  Mujh ko lagte hain yeh Quran ke paron ki tarha
+  Mujh ko lagte haiṅ yeh Quraan ke paron ki tarha
   Woh jo fakhar-e-bashreat ho wohi hai insaan
   Jis ke kirdar ko jab dekhe tu khush ho Rehmaan
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Jis ne medan-e-khatabat ko niya rang diya
 
   6
-  Be-zabaan hote hoye guftgu karta hai Khuda
+  Be-zabaan hote hue guftgu karta hai Khuda
   Be-zabaan ho gaya Mesum bhi sar-e-dar-e-jafa
   Yeh hai Mesum yeh zabaan katne se kab darta hai
   Yeh tu Khaliq ki tarha zikar-e-Ali karta hai
@@ -52,16 +52,16 @@ romanLyrics: |-
   Aa ke wapis woh mere qalab se farmata hai
 
   8
-  Shakal-e-insaan mein yeh anwar-e-jali ho jate hain
+  Shakal-e-insaan mein yeh anwar-e-jali ho jate haiṅ
   Khatam hoti na nabowat tu nabi ho jate
-  Zikar-e-ashab-e-Ali dil mein samata jaye
+  Zikar-e-ashaab-e-Ali dil mein samata jaye
   Likhe Majid tu Wajhi oss ko sunata jaye
 
   9
   Zikar aise hi wafadaron ka likha jaye
-  Tazkira lab pe kissi ghair ka kyun aa jaye
-  Yeh sada peeche payamber ke rahe aagay nahi
-  Our kabhi jang ka moqa ho tu yeh bhagay nahi
+  Tazkira lab pe kissi ghair ka Kiun aa jaye
+  Yeh sada peeche paighambar ke rahe aage nahi
+  Aur kabhi jang ka moqa ho tu yeh bhaage nahi
 ---
 
 ۱

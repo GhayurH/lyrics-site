@@ -1,6 +1,6 @@
 ---
 title: "اے آٹھویں علی اے آٹھویں حسین"
-alternateTitle: "Aye Aathwein Ali Aye Aathwein Hussain"
+alternateTitle: "Ae Aathveṅ Ali Ae Aathveṅ Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghibat mein aaj Mehdi karte hain ro ke bain
-  Aye be-kason ke waris aye shah-e-Mashraqain
-  Tujh ko zehar diya hai ahl-e-sitam ne mula
-  Jis tarha qabal tere ajdad ko diya tha
+  Ghaibat mein aaj Mehdi karte hain ro ke bain
+  Ae be-kason ke waaris aye shah-e-Mashriqain
+  Tujh ko zahr diya hai ahl-e-sitam ne Maula
+  Jis tarah qabl tere ajdad ko diya tha
 
   2
   Haye ghareeb-e-Mashhad Kazim ke noor-e-ain
   Nikli thi tujh se milne Yasrab mein teri behna
-  Dunya mein jo na payi tum se bichar ke mula
+  Dunya mein jo na payi tum se bichar ke Maula
   Ab gonjtay hain oss ke Qum ki fizza mein bain
 
   3
   Bint-e-Nabi ke haq se Abid ke qafile tak
   Zindaan ki sakhtiyon se ghaibat ke silsile tak
   Ummat ne kab diye hain aal-e-Nabi ko chain
-  Mula-e-Anbiya bhi Zahra-o-Murtaza bhi
+  Mula-e-Anbiya bhi Zehra-o-Murtaza bhi
 
   4
   Ulad-e-Syeda bhi our hujjat-e-Khuda bhi
   Purse ko aa gaye hain sab aaj Kazmain
-  Ghar mein Hussainiyo ke farsh-e-azza bicha hai
+  Ghar mein Husainiyo ke farsh-e-azza bicha hai
   Kazim ke ladlay ka taboot uth raha hai
 
   5
   Matam ki hain sadaein barpa hai shor-o-shain
-  Hum hain dua-e-Zahra maqsad hai pursadari
+  Hum hain dua-e-Zehra maqsad hai pursadari
   Yasir issi bina pe karte hain aah-o-zari
-  Apna tu hai wazifa ya Mehdi ya Hussain
+  Apna to hai wazifa ya Mehdi ya Husain
 ---
 
 ۱

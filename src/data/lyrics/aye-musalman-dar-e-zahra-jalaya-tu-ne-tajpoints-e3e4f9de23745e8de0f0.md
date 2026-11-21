@@ -1,6 +1,6 @@
 ---
 title: "اے مسلمان درِ زہرا جلایا تو نے"
-alternateTitle: "Aye Musalman Dar E Zahra Jalaya Tu Ne"
+alternateTitle: "Ae Musalmaan Dar-e-Zehra Jalaaya Tu Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,27 +11,27 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye Musalman dar e Zahra jalaya tu ne
-  Tujh ko maloom nahi qibla giraya tu ne
-  Tha yeh farman-e-Nabi Zahra na roney paye
-  Phir bhi kyun beti ko hai oss ki sataya tu ne
+  Ae Musalmaan dar e Zehra jalaaya tu ne
+  Tujh ko maalum nahiṅ qibla giraya tu ne
+  Tha yeh farmaan-e-Nabi Zehra na rone paae
+  Phir bhi kyun beti ko hai us ki sataya tu ne
 
   2
-  Khak par khon gira hai jo yeh Zahra ka nahi
+  Khak par khon gira hai jo yeh Zehra ka nahi
   Asal mein khon Muhammad ka bahaya tu ne
-  Mang leta tu Fidak Zahra atta kar deti
+  Mang leta tu Fidak Zehra atta kar deti
   Par tera aag thikana tha woh paya tu ne
 
   3
   Har sitam sehti rahi teri riza ki khatir
   Zulm sab dekha tu hoga aye Khudaya tu ne
-  Meri Zahra hi mera tukra hai logo sun lo
+  Meri Zehra hi mera tukra hai logo sun lo
   Qaul Ahmad ka Musalmaan yeh bhulaya tu ne
 
   4
-  Jalta darwaza bhi Zahra pe giraya zalim
+  Jalta darwaza bhi Zehra pe giraya zalim
   Iss qadar zulm yeh kyunkar hai kamaya tu ne
-  Zikar-e-Zahra hai kahan our kahan yeh Qambar
+  Zikr-e-Zehra hai kahan our kahan yeh Qambar
   Iss ko likhna bhi mere Maula sikhaya tu ne
 ---
 

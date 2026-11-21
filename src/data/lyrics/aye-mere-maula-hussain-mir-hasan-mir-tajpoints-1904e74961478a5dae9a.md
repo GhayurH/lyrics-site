@@ -1,6 +1,6 @@
 ---
-title: "اے میرے مولا حسین میر حسن میر"
-alternateTitle: "Aye Mere Maula Hussain Mir Hasan Mir"
+title: "اے میرے مولا حسین"
+alternateTitle: "Ae Mere Maula Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,75 +10,79 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Ae mere Maula Husain aye mere aaqa Husain
+  Chal raha hai do jahaaṅ mein aap ka sikka Husain
+
   1
-  Aye mere Maula Hussain Mir Hasan Mir
-  Aye mere Maula Hussain aye mere aaqa Hussain
-  Chal raha hai do jahan mein aap ka sikka Hussain
-  Kya garz hum ko zamane ke badaltay roop se
+  Kya gharaz hum ko zamane ke badalte roop se
+  Kiun bhala ghabraein hum zulm-o-sitam ki dhop se
+  Jab azadaron ke sar par hai tera saya Husain
 
   2
-  Kyun bhala ghabraein hum zulm-o-sitam ki dhop se
-  Jab azadaron ke sar par hai tera saya Hussain
   Mani-e-sabar-o-raza aye sahib-e-loh-o-qalam
   Sajdah gah-e-aadmiyat hain tere naqsh-e-qadam
+  Tere dam se ho raha hai deen ka charcha Husain
 
   3
-  Tere dam se ho raha hai deen ka charcha Hussain
   Khuld se milti hain ja kar jis ke rozay ki hadein
   Muntazir rehti hain khud jis ke amal ki aayatein
-  Kaun hai tareekh mein tere siwa aisa Hussain
+  Kaun hai tareekh mein tere siwa aisa Husain
 
   4
   Yeh samandar yeh zameen-o-aasmaan khiltay ghulab
   Kehkashan yeh chand taray yeh chamakta aaftab
-  Do jahan mein jo bhi hai sab hai tera sadqa Hussain
-  Zarrah zarrah dasht ka mehtab jis ne kar diya
+  Do jahaaṅ mein jo bhi hai sab hai tera sadqa Husain
 
   5
-  Apne khoon se deen ko serab jis ne kar diya
-  Tu hai woh konain mein seh roz ka pyasa Hussain
-  Sab shaheedon ne kiya teri shahadat ko salam
-  Bandagi karne lagi teri ibadat ko salam
+  Zarrah zarrah dasht ka mehtab jis ne kar diya
+  Apne khuṅ se deen ko serab jis ne kar diya
+  Tu hai woh konain mein seh roz ka pyasa Husain
 
   6
-  Tu ne tapti rait par aisa kiya sajdah Hussain
-  Sorat-o-seerat mein hai jo ho baho Khair-al-Nisa
-  Jis ne palay Akbar-o-Abbas jaisay bawafa
-  Tu ne oss Zainab ko apni gaud mein pala Hussain
+  Sab shaheedon ne kiya teri shahadat ko salam
+  Bandagi karne lagi teri ibadat ko salam
+  Tu ne tapti rait par aisa kiya sajdah Husain
 
   7
-  Dono aalam ki ibadat jis ke sajday par nisar
-  Jis ke kandhoon par hai kul tauheed ka dar-o-madar
-  Kaun hai tere siwa iss shan ka banda Hussain
-  Zindagi hotey hoye Fitrus tha marne ke qareeb
+  Sorat-o-seerat mein hai jo ho baho Khair-al-Nisa
+  Jis ne palay Akbar-o-Abbas jaisay bawafa
+  Tu ne oss Zainab ko apni gaud mein pala Husain
 
   8
-  Mas howa jholay se tere ban gaya oss ka naseeb
-  Jane kis kis ka maseeha hai tera jhola Hussain
-  Kar diya inkar Haq ne aik betay ka jisay
-  Tu ne aye Maula ossi ko saat betay de diye
+  Dono aalam ki ibadat jis ke sajday par nisar
+  Jis ke kandhuṅ par hai kul tauheed ka dar-o-madar
+  Kaun hai tere siwa is shan ka banda Husain
 
   9
-  Youn badal deta hai tu taqdeer ka likha Hussain
-  Har munafiq ke liye chalti hoi shamsheer hoon
-  Madah khuwan-e-Zainab-o-Shabeer hoon main Mir hoon
-  Iss liye dono jahan mein hai mera shohrah Hussain
+  Zindagi hotey hue Fitrus tha marne ke qareeb
+  Mas howa jholay se tere ban gaya oss ka naseeb
+  Jane kis kis ka maseeha hai tera jhola Husain
+
+  10
+  Kar diya inkar Haq ne aik betay ka jisay
+  Tu ne aye Maula ossi ko saat betay de diye
+  Youn badal deta hai tu taqdeer ka likha Husain
+
+  11
+  Har munafiq ke liye chalti hoi shamshir huṅ
+  Madah khuwan-e-Zainab-o-Shabbir huṅ main Mir huṅ
+  Iss liye dono jahaaṅ mein hai mera shohrah Husain
 ---
 
-۱
-اے میرے مولا حسین میر حسن میر
 اے میرے مولا حسین اے میرے آقا حسین
 چل رہا ہے دو جہاں میں آپ کا سکّہ حسین
-کیا غرض ہم کو زمانے کے بدلتے روپ سے
 
-۲
+۱
+کیا غرض ہم کو زمانے کے بدلتے روپ سے
 کیوں بھلا گھبرائیں ہم ظلم و ستم کی دھوپ سے
 جب عزاداروں کے سر پر ہے تیرا سایہ حسین
+
+۲
 معنیِ صبر و رضا اے صاحبِ لوح و قلم
 سجدہ گاہِ آدمیت ہیں تیرے نقشِ قدم
+تیرے دم سے ہو رہا ہے دین کا چرچا حسین
 
 ۳
-تیرے دم سے ہو رہا ہے دین کا چرچا حسین
 خلد سے ملتی ہیں جا کر جس کے روضے کی حدیں
 منتظر رہتی ہیں خود جس کے عمل کی آیتیں
 کون ہے تاریخ میں تیرے سوا ایسا حسین
@@ -87,34 +91,38 @@ romanLyrics: |-
 یہ سمندر یہ زمین و آسماں کھلتے گلاب
 کہکشاں یہ چاند تارے یہ چمکتا آفتاب
 دو جہاں میں جو بھی ہے سب ہے تیرا صدقہ حسین
-ذرّہ ذرّہ دشت کا مہتاب جس نے کر دیا
 
 ۵
+ذرّہ ذرّہ دشت کا مہتاب جس نے کر دیا
 اپنے خون سے دین کو سیراب جس نے کر دیا
 تو ہے وہ کونین میں شش روز کا پیاسا حسین
-سب شہیدوں نے کیا تیری شہادت کو سلام
-بندگی کرنے لگی تیری عبادت کو سلام
 
 ۶
+سب شہیدوں نے کیا تیری شہادت کو سلام
+بندگی کرنے لگی تیری عبادت کو سلام
 تو نے تپتی ریت پر ایسا کیا سجدہ حسین
+
+۷
 صورت و سیرت میں ہے جو ہو بہ ہو خیر النسا
 جس نے پالے اکبر و عباس جیسے باوفا
 تو نے اس زینب کو اپنی گود میں پالا حسین
 
-۷
+۸
 دونوں عالم کی عبادت جس کے سجدے پر نثار
 جس کے کاندھوں پر ہے کل توحید کا دار و مدار
 کون ہے تیرے سوا اس شان کا بندہ حسین
-زندگی ہوتے ہوئے فطرس تھا مرنے کے قریب
-
-۸
-مس ہوا جھولے سے تیرے بن گیا اس کا نصیب
-جانے کس کس کا مسیحا ہے تیرا جھولا حسین
-کر دیا انکار حق نے ایک بیٹے کا جسے
-تو نے اے مولا اسی کو سات بیٹے دے دیے
 
 ۹
+زندگی ہوتے ہوئے فطرس تھا مرنے کے قریب
+مس ہوا جھولے سے تیرے بن گیا اس کا نصیب
+جانے کس کس کا مسیحا ہے تیرا جھولا حسین
+
+۱۰
+کر دیا انکار حق نے ایک بیٹے کا جسے
+تو نے اے مولا اسی کو سات بیٹے دے دیے
 یوں بدل دیتا ہے تو تقدیر کا لکھا حسین
+
+۱۱
 ہر منافق کے لیے چلتی ہوئی شمشیر ہوں
 مدح خواںِ زینب و شبیر ہوں میں میر ہوں
 اس لیے دونوں جہاں میں ہے میرا شہرہ حسین

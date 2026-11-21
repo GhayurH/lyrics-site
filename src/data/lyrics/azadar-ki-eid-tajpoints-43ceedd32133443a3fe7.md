@@ -1,6 +1,6 @@
 ---
 title: "عزادار کی عید"
-alternateTitle: "Azadar Ki Eid"
+alternateTitle: "Azaadaar Ki Eid"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ poet: "Hasnain"
 aliases: []
 published: false
 romanLyrics: |-
-  Palat ke Narjis ka lal aaye tu Eid ho gi
-  Madina phir se woh aa basaye tu Eid ho gi
+  Palat ke Narjis ka laal aae to Eid ho gi
+  Madina phir se woh aa basaae to Eid ho gi
 
   1
-  Ali Najaf se Hussain Karbal se keh rahe hain
-  Hamara qayam jahan pe chaye tu Eid ho gi
+  Ali Najaf se Husain Karbal se keh rahe hain
+  Hamara qayam jahaaṅ pe chhaae to Eid ho gi
   Qabar Muhammad ki pak beti ki dhoop mein hai
-  Mazar-e-Zahra banaya jaye tu Eid ho gi
+  Mazar-e-Zehra banaya jaye to Eid ho gi
 
   2
   Jigar mein Akbar ke ab bhi naiza garah howa hai
-  Imam-e-barhaq ossay hataye tu Eid ho gi
+  Imam-e-barhaq ossay hataye to Eid ho gi
   Sakina sadiyon se qaid mein hai bohat akeli
-  Agar woh zindaan se choot jaye tu Eid ho gi
+  Agar woh zindaan se choot jaye to Eid ho gi
 
   3
   Ameer Qasim ke jitne tukray hoye they ran mein
-  Ossi mutabiq woh sar uraye tu Eid ho gi
+  Ossi mutabiq woh sar uraye to Eid ho gi
   Jawab-e-hal min gul-e-Asghar mein ruk gaya hai
-  Galay se teer oss ke bahir aaye tu Eid ho gi
+  Galay se teer oss ke bahir aae to Eid ho gi
 
   4
   Woh jitne aada they Karbala mein hain paish-e-Mehdi
-  Khabar yeh aa kar koi sunaye tu Eid ho gi
+  Khabar yeh aa kar koi sunaye to Eid ho gi
   Dua hai Hasnain Rab-e-Akbar dikhaye woh din
-  Yeh sari batein koi sunaye tu Eid ho gi
+  Yeh saari baateṅ koi sunaye to Eid ho gi
 ---
 
 پلٹ کے نرجس کا لال آئے تو عید ہو گی

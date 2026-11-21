@@ -1,6 +1,6 @@
 ---
 title: "اے علمدارِ حسین"
-alternateTitle: "Aye Alamdar-e-Hussain"
+alternateTitle: "Ae Alamdar-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,20 +9,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Asar-e-Ashor kiye Zainab-o-Kulsoom ne bain
-  Jeetay jee mar gayi teri shahadat ki khabar
+  Asr-e-Aashur kiye Zainab o Kulsum ne bain
+  Jite jee mar gayi teri shahadat ki khabar
 
   1
-  Be rida ho gaye hum kat gaya Shabeer ka sar
-  Naam le kar tera kartay hain haram shewan-o-shain
+  Be rida ho gaye hum kat gaya Shabbir ka sar
+  Naam le kar tera karte hain haram shevan o shain
   Ashqiya jab kabhi khaimon ki taraf dekhtey hain
   Hum bulatay hain tumhein soye Najaf dekhtey hain
 
   2
   Ghazi aa jao kahan ho humein milta nahi chain
   Mere Abbas tere baad qayamat guzari
-  Jis ghari gardan-e-Shabeer pe chalti thi chori
-  Tum ko oss waqt bhi detey they sada bhai Hussain
+  Jis ghari gardan-e-Shabbir pe chalti thi chori
+  Tum ko oss waqt bhi detey they sada bhai Husain
 
   3
   Chaar janib hain sitamgar uthaye nashtar
@@ -37,10 +37,10 @@ romanLyrics: |-
   Haye Abbas tujhe lag gayi dunya ki nazar
 
   5
-  Aye wafadar aye ghayoor ameer-e-konain
-  Chodah sadiyaan hoin lekin tera gham taza hai
+  Ae wafadar aye ghayoor ameer-e-konain
+  Chodah sadiyaaṅ hoin lekin tera gham taza hai
   Yasir-e- ahl-e-azza hum ne yehi dekha hai
-  Aaj bhi hota hai noha sar-e-bain al-harmain
+  Aaj bhi hota hai noha sar-e-Bainul Haramain
 ---
 
 عصرِ عاشور کیے زینب و کلثوم نے بین

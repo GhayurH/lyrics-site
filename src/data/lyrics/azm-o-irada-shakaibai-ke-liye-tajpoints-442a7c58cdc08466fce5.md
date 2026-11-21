@@ -1,6 +1,6 @@
 ---
-title: "عزم و ارادہ شکیبائی کے لیے"
-alternateTitle: "Azm-o-Irada Shakaibai Ke Liye"
+title: "اہلِ زماں کی حق سے شناسائی کے لیے"
+alternateTitle: "Ahl-e-Zamaaṅ Ki Haq Se Shanaasaai Ke Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,23 +10,23 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ahl-e-zamaan ki haq se shanasai ke liye
+  Ahl-e-zamaaṅ ki haq se shanaasaai ke liye
 
   1
-  Aaye hain aasmaan se farishte basad adab
-  Ahl-e-wila tumhari pazeerai ke liye
-  Dunya ke har adab mein alamat yeh ban gaya
-  Zikar-e-Hussain fikar ki onchai ke liye
+  Aae hain aaasmaaṅ se farishte basad adab
+  Ahl-e-wila tumhari paziraai ke liye
+  Duniya ke har adab mein alamat yeh ban gaya
+  Zikar-e-Husain fikar ki onchai ke liye
   Hai shad aaj sare rasoolan maa-salaf
-  Aaye Hussain deen ki maseehai ke liye
+  Aae Husain deen ki maseehai ke liye
 
   2
   Woh teer kha ke tera tabassum aye sheer khawar
   Kafi hai ahl-e-zulm ki ruswai ke liye
   Behna namaz-e-shab mein mujhe yaad kijiye
-  Paigham tha Hussain ka maa jayi ke liye
-  Naqsh-e-qadam pe inke rahe ga jo gamzan
-  Shahi jinaa hai bas ossi molai ke liye
+  Paigham tha Husain ka maa jayi ke liye
+  Naqsh-e-qadam pe inke rahe ga jo gaamzan
+  Shahi jinaa hai bas usi molai ke liye
 ---
 
 اہلِ زماں کی حق سے شناسائی کے لیے

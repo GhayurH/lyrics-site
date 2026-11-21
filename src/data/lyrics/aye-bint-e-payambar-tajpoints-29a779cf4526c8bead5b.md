@@ -1,6 +1,6 @@
 ---
 title: "اے بنتِ پیمبر"
-alternateTitle: "Aye Bint-e-Payambar"
+alternateTitle: "Ae Bint-e-Paighambar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye Bint-e-Payamber tera darbar mein jana
-  Har zulm pe bhari raha yeh zulm-e-zamana
-  Kis deein mein rawa hai oh Musalmano batao
-  Be jurm Nabi Zadi ka darwaza jalana
+  Ae Bint-e-Paighambar tera darbaar mein jaana
+  Har zulm pe bhaari raha yeh zulm-e-zamaana
+  Kis din mein rawaa hai oh Musalmaano bataao
+  Bejurm Nabi zaadi ka darwaaza jalana
 
   2
   Yeh ajar risalat ka tha ya bugz Ali ka?
-  Jalta howa dar Fatima Zahra pe girana
+  Jalta howa dar Fatima Zehra pe girana
   Pehlu bhi shikasta howa marey gaye Mohsin
   Kis jurm ki tazeer tha Qunfuz ka nishana
 
   3
-  Kyun kehna para haye yeh Zahra ko Ali se
+  Kyun kehna para haye yeh Zehra ko Ali se
   Tareeki-e-shab mein meri maiyyat ko uthana
-  Ro ro ke kaha karti thin yeh Fatima Zahra
+  Ro ro ke kaha karti thin yeh Fatima Zehra
   Fizza mera har dard na Haider ko batana
 
   4
-  Yeh soch ke roti thin bohat Bint-e-Payamber
-  Hoga meri Zainab ko bhi darbar mein jana
+  Yeh soch ke roti thin bohat Bint-e-Paighambar
+  Hoga meri Zainab ko bhi darbaar mein jaana
   Kehti thin nazar Zainab-o-Shabeer pe kar ke
   Dunya mein abhi tu marey Ghazi ko hai aana
 
   5
-  Gar chahiye mehshar mein Payamber ki shifat
-  Zahra ke na qatil ka kabhi naam chupana
-  Taqdeer mein Maula ho yeh Meesum ke Iram ke
-  Noha yeh Nabi Zadi ki turbat pe sunana
+  Gar chahiye mehshar mein Paighambar ki shifat
+  Zehra ke na qatil ka kabhi naam chupana
+  Taqdir mein Maula ho yeh Meesum ke Iram ke
+  Noha yeh Nabi zaadi ki turbat pe sunana
 ---
 
 ۱

@@ -1,6 +1,6 @@
 ---
-title: "اے کربلا کے چاند سنا شہ کی داستاں ایس ایم تقی رضوی"
-alternateTitle: "Aye Karbala Ke Chand Suna Sheh Ki Dastan SM Taqi Rizvi"
+title: "اے کربلا کے چاند سنا شہ کی داستاں"
+alternateTitle: "Ae Karbala Ke Chaand Suna Shah Ki Daastaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,21 +11,21 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kaisay Hoye They Dasht-e-Bala Mein Woh Mehmaan
-  Aye Chand Tu Ne Dekha Tha Shah-e-Zaman Ka Chand
+  Kaise Hue The Dasht-e-Bala Mein Woh Mehmaan
+  Ae Chaand Tu Ne Dekha Tha Shah-e-Zaman Ka Chaand
   Jab Teer Kha Ke Hansta Tha Maqtal Mein Be Zabaan
   Allah Jane Kya Hi Hai Ab Imtehan-e-Sham
   Karb-o-Bala Ka Itna Kathin Hai Gar Imtehaan
   Sab Jaan Nisar-e-Shah Chaley Janib-e-Bahisht
-  Tanha Faqat Hussain They Ada Ke Darmiyaan
-  Aye Chand Dhondta Tha Koi Jab Jawaan Ki Lash
-  Hanstay They Ada Oss Ko Dikhatay Hoye Sina
-  Aye Chand Kyun Na Dasht Lahu Roye Shah Par
+  Tanha Faqat Husain The Ada Ke Darmiyaan
+  Ae Chaand Dhondta Tha Koi Jab Jawaan Ki Lash
+  Hanstay The Ada Oss Ko Dikhatay Hue Sina
+  Ae Chaand Kyun Na Dasht Lahu Roye Shah Par
   Apne Lahu Se Dasht Ki Jis Ne Barhai Shaan
   Akbar Ka Lahan Sughra Ko Jaisay Rulata Tha
   Waisay Humein Rulati Hai Ashor Ki Azaan
-  Haider Falak Pe Aata Hai Har Saal Gham Ka Chand
-  Rota Hai Khon Dekh Ke Jis Ko Yeh Aasmaan
+  Haider Falak Pe Aata Hai Har Saal Gham Ka Chaand
+  Rota Hai Khun Dekh Ke Jis Ko Yeh Aasmaaṅ
 ---
 
 ۱

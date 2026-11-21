@@ -1,6 +1,6 @@
 ---
 title: "اے ربِ ذوالجلال قیامت کی گھڑی ہے"
-alternateTitle: "Aye Rab-e-Zuljalal Qayamat Ki Ghari Hai"
+alternateTitle: "Ae Rabb-e-Zuljalaal Qayaamat Ki Ghari Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,12 +9,12 @@ poet: "Wahid"
 aliases: []
 published: false
 romanLyrics: |-
-  Aye Rab-e-Zuljalal qayamat ki ghari hai
-  Muslim ki lash rah mein be-goor pari hai
+  Ae Rab-e-Zuljalaal qayaamat ki ghari hai
+  Muslim ki laash raah mein be-gor pari hai
 
   1
-  Sar Dar-al-Amarah pe hai latka howa ab tak
-  Our lash kahin Kofay ki rahoon mein pari hai
+  Sar Dar-al-Amaraah pe hai latka hua ab tak
+  Aur laash kahin Kufe ki raahoṅ mein pari hai
   Kyun aaj Shah-e-Wala hain be-chain safar mein
   Kya gham hai jo mazloom ki aankhon mein nami hai
 
@@ -22,13 +22,13 @@ romanLyrics: |-
   Sun aayi hai kya Shah se Muslim ki shahdat
   Mazgan Ruqaiya mein kyun ashkon ki jhari hai
   Kofa teri galiyon mein ghaseeta gaya jisko
-  Ab tak ossi lashay ko nazar dhond rahi hai
+  Ab tak ossi laashay ko nazar dhond rahi hai
 
   3
   Sab khushiyon mein mashgool hain bas aik zaeefa
-  Lashay ke qareen apna woh munh peet rahi hai
-  Yeh log jo matam ke mukhalif hai aye Wahid
-  Qatil they jo Muslim ke haan yeh qaum wohi hai
+  Lashay ke qarin apna woh munh peet rahi hai
+  Yeh log jo maatam ke mukhalif hai aye Wahid
+  Qaatil the jo Muslim ke haaṅ yeh qaum wohi hai
 ---
 
 اے ربِ ذوالجلال قیامت کی گھڑی ہے

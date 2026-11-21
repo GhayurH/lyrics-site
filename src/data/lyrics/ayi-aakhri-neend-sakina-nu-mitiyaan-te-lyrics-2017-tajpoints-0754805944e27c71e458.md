@@ -1,6 +1,6 @@
 ---
 title: "آئی آخری نیند سکینہ نوں مٹیاں تے"
-alternateTitle: "Ayi Aakhri Neend Sakina Nu Mitiyaan Te"
+alternateTitle: "Aai Aakhri Nind Sakina Nu Mittiyaaṅ Te"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,26 +10,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ayi aakhri neend Sakina nu mitiyaan te aan ke so gayi aye
-  Zindan sayi par Syedaan nu ik qabar naseeb te ho gayi aye
+  Aai aakhri nind Sakina nu mittiyaaṅ te aan ke so gayi ae
+  Zindaan sayi par Sayyidaaṅ nu ik qabr naseeb te ho gayi ae
 
   1
-  Puchiyan zalim nu Abid da kiwein sard hoya toaq garam
-  Lokaan dasiyan ik bachi jairi hanjwaan naal bhigo gayi aye
+  Puchhiyaaṅ zalim nu Aabid da kiven sard hoya toaq garam
+  Lokaaṅ dasiyan ik bachi jairi hanjwaan naal bhigo gayi ae
   Sherawaan wich darbaraan wich barzar de wasday pathraan wich
-  Qurban Hussain di bachri ton jairi Zainab wang khalo gayi aye
+  Qurban Husain di bachri ton jairi Zainab wang khalo gayi ae
 
   2
   Zakhma da naqd wasool kita kadi pathraan ne kadi kandiyaan ne
-  Ik qabar di thaan masooma layi aj kitni mehngi ho gayi aye
-  Tareekh Furat di dasdi aye har zulm siya par hari nayi
-  Ik bachi pyasi nehar de wich bait da taj dabo gayi aye
+  Ik qabr di thaan masooma layi aj kitni mehngi ho gayi ae
+  Tareekh Furat di dasdi ae har zulm siya par hari naiṅ
+  Ik bachi pyasi nehar de wich bait da taj dabo gayi ae
 
   3
   Ramla de kana wich apne dur wekh ke bibi wain kare
-  Umat mere kana de wich dur la ke zakhm paro gayi aye
-  Abbas di qabar te pani nayi har waqt tawaf che athro ne
-  Saqlain Sakina Ghazi nu Rab jane kitna ro gayi aye
+  Umat mere kana de wich dur la ke zakhm paro gayi ae
+  Abbas di qabr te pani naiṅ har waqt tawaf che athru ne
+  Saqlain Sakina Ghazi nu Rab jane kitna ro gayi ae
 ---
 
 آئی آخری نیند سکینہ نوں مٹیاں تے آ کے سو گئی اے

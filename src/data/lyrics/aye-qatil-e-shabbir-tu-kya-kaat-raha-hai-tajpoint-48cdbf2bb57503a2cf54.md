@@ -1,6 +1,6 @@
 ---
 title: "اے قاتلِ شبیر تو کیا کاٹ رہا ہے"
-alternateTitle: "Aye Qatil E Shabbir Tu Kya Kaat Raha Hai"
+alternateTitle: "Ae Qaatil-e-Shabbir Tu Kya Kaat Raha Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye qatil e Shabbir tu kya kaat raha hai
-  Darasal payamber ka gala kaat raha hai
+  Ae qaatil e Shabbir tu kya kaat raha hai
+  Darasal paighambar ka gala kaat raha hai
 
   1
-  Jari hai lab-e-shah pe tasbeeh-e-Elahi
-  Shah rag nahi tu zikar-e-Khuda kaat raha hai
+  Jaari hai lab-e-Shah pe tasbeeh-e-Elahi
+  Shah rag nahiṅ tu zikr-e-Khuda kaat raha hai
   Kano mein Sakina ke hain rait ke zarray
   Har zarrah hi kantay ki tarha kaat raha hai
 
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Gardan mein muhari ki para tauq bhi bhari
-  Our paon ko beri ka kara kaat raha hai
+  Aur paaon ko beri ka kara kaat raha hai
   Tauqeer dua aamad-e-Mehdi ki kiya kar
   Yeh waqt kathin maula bara kaat raha hai
 ---
