@@ -13,34 +13,34 @@ romanLyrics: |-
   Aa gaya mujh ko bulawa Hazrat-e-Abbas ka
 
   1
-  Pursa-e-Shabeer ki khatir chala main Karbala
-  Jis ghari Karb-o-Bala mein apne rakhon ga qadam, mujh ko Zahra ki qasam
-  Noha ro ro kar parhon ga chom kar khak-e-shifa
-  Aye Hussain Ibn-e-Ali roza tumhara dekh kar, aankh ho jaye gi tar
+  Pursa-e-Shabbir ki khatir chala main Karbala
+  Jis ghari Karb o Bala mein apne rakhunga qadam, mujh ko Zahra ki qasam
+  Noha ro ro kar parhunga choom kar khaak-e-shifa
+  Ae Husain Ibn-e-Ali rauza tumhara dekh kar, aankh ho jayegi tar
 
   2
-  Phir karon ga main teri chokhat pe ik sajdah ada
-  Jis jagah bazu girey kat kar Alamdar-e-Jarri, oss jagah ja ke yehi
-  Rotay rotay aap ka main yeh parhon ga marsiya
-  Kash Abbas na marey jate
+  Phir karunga main teri chaukhat pe ek sajda ada
+  Jis jagah bazu gire kat kar Alamdar-e-jari, us jagah ja ke yehi
+  Rote rote aap ka main ye parhunga marsiya
+  Kaash Abbas na mare jate
 
   3
-  Jab maqam-e-Asghar-e-Be Sheer par jaon ga main, ashk barsaon ga main
-  Oss ghari lab par merey bas aik noha aaye ga
-  Ik behan satar qadam ke fasila par thi khari, jab chali Sheh par churi
-  Kis tarha dekha behan ne bhai ka katta gala
+  Jab maqam-e-Asghar-e-besheer par jaunga main, ashk barsaunga main
+  Us ghari lab par mere bas ek noha aayega
+  Ek behan sattar qadam ke fasle par thi khari, jab chali Shah par chhuri
+  Kis tarah dekha behan ne bhai ka katta gala
 
   4
-  Jab maqam-e-Akbar-e-Zeeshan aaye ga nazar, oss ghari sar peet kar
-  Main parhon ga aye bin-e-Shabeer sehra aap ka
-  Apne lahu mein aap sanwarne ke din na they
-  Akbar jawaan abhi tere marne ke din na they
+  Jab maqam-e-Akbar-e-zeeshan aayega nazar, us ghari sar peet kar
+  Main parhunga ae Ibn-e-Shabbir sehra aap ka
+  Apne lahu mein aap sanwarne ke din na thay
+  Akbar jawan abhi tere marne ke din na thay
 
   5
-  Karbala ke dasht ka jis waqt aaye ga khiyal, Shabar-o-Farwa ka lal
-  Kis tarha ghorey ki tanpon se yahan zakhmi howa
-  Zeen Maula se Jary rukhsat yeh le ga bool kar, ja raha hoon main magar
-  Kab merey Maula bulawa phir se mera aaye ga
+  Karbala ke dasht ka jis waqt aayega khayal, Shabbar o Farwa ka laal
+  Kis tarah ghore ki tapon se yahan zakhmi hua
+  Zain Maula se Jari rukhsat ye lega bol kar, ja raha hun main magar
+  Kab mere Maula bulawa phir se mera aayega
 ---
 
 آ گیا مجھ کو بلاوا حضرتِ عباس کا

@@ -11,52 +11,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab qafila pohancha tha Madine ke zara pas
-  Maqtal mein howa kya yeh suna oss ne basad yaas
-  Katta tha jigar dil mein nadamat ka tha ahsas
-  Har ik se yehi pochti thi madar-e-Abbas
-  Jab gardan-e-Shabeer pe khanjar woh rawaan tha
+  Jab qafila pahuncha tha Madine ke zara paas
+  Maqtal mein hua kya ye suna us ne ba sad yaas
+  Katta tha jigar dil mein nadamat ka tha ehsas
+  Har ek se yehi puchhti thi Madar-e-Abbas
+  Jab gardan-e-Shabbir pe khanjar wo rawan tha
   Bas itna bata do mera Abbas kahan tha
 
   1
-  Zahra ke pisar jan-e-Nabi Syed-e-Wali
-  Akbar ke kalejay se sina kaisay nikali
-  Jab khak pe dam torta Laila ka jawaan tha
+  Zahra ke pisar jaan-e-Nabi Syed-e-Wali
+  Akbar ke kaleje se sinan kaise nikali
+  Jab khaak pe dam torta Laila ka jawan tha
 
   2
-  Maidan mein be sheer ko jab laye they Shabeer
-  Nanhay Ali Asghar ki jo gardan pe laga teer
-  Jab baap ke hathoon pe pisar tashna dahan tha
+  Maidan mein be sheer ko jab laye thay Shabbir
+  Nanhe Ali Asghar ki jo gardan pe laga teer
+  Jab baap ke hathon pe pisar tashna dahan tha
 
   3
-  Aaqa mera maidan mein kyun reh gaya tanha
-  Haan doodh na bakhshoon gi main yeh kya kiya beta
-  Zahra ka pisar khak pe jab giriya kuna tha
+  Aaqa mera maidan mein kiun reh gaya tanha
+  Haan doodh na bakhshungi main ye kya kiya beta
+  Zahra ka pisar khaak pe jab girya kunan tha
 
   4
-  Jab bibiyaan jaltay hoye khaimon ke thin andar
-  Jab Zainab-e-dilgeer ki cheeni gayi chadar
-  Jab gardan-e-beemar mein woh tauq-e-garaan tha
+  Jab bibiyan jalte hue khaimon ke thin andar
+  Jab Zainab-e-dilgir ki chheeni gayi chadar
+  Jab gardan-e-bimar mein wo tauq-e-garan tha
 
   5
   Abid ko liye phirti thi jab Zainab-e-muztar
-  Jab aag lagai gayi chena gaya bistar
-  Phaila howa jab sham-e-ghareebaan ka dhowaan tha
+  Jab aag lagayi gayi chheena gaya bistar
+  Phaila hua jab Sham-e-Ghareeban ka dhuan tha
 
   6
-  Jab sham-e-ghareebaan mein bhi pyasay rahe bachay
-  Jab dukhtar-e-Shabeer ke lagtay they tamachay
-  Jab oss ka jigar karb-e-yateemi se tapaan tha
+  Jab Sham-e-Ghareeban mein bhi pyase rahe bachche
+  Jab Dukhtar-e-Shabbir ke lagte thay tamache
+  Jab us ka jigar karb-e-yateemi se tapaan tha
 
   7
-  Zainab ne kaha oss ko wafa ka tha bohat pas
-  Jab zibha hoye bhai tu zindah na they Abbas
-  Bin hathoon ke tha ghairat-e-Ilyas ka lasha
+  Zainab ne kaha us ko wafa ka tha bahut paas
+  Jab zibh hue bhai to zinda na thay Abbas
+  Bin hathon ke tha ghairat-e-Ilyas ka lasha
 
   8
   Sahil pe tarapta raha Abbas ka lasha
-  Yeh sun ke kiya shukar magar phir bhi hai ahsas
-  Ab tak yeh Qamar pochti hain madar-e-Abbas
+  Ye sun ke kiya shukr magar phir bhi hai ehsas
+  Ab tak ye Qamar puchhti hain Madar-e-Abbas
 ---
 
 جب قافلہ پہنچا تھا مدینے کے ذرا پاس

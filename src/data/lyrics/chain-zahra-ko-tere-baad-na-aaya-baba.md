@@ -1,55 +1,55 @@
 ---
 title: "چین زہرا کو تیرے بعد نہ آیا بابا"
-alternateTitle: "Chain Zahra Ko Tere Bad Na Aaya Baba"
+alternateTitle: "Chain Zahra Ko Tere Baad Na Aaya Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Takallum"
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Kalma Goyon Ne Mere Ghar Ko Jalaya Baba
-  Aap Ke Jate Hi Badli Hai Yeh Ummat Kaisi
-  Haq Mera Cheen Liya Our Gawahi Rad Ki
-  Mujh Ko Darbar Mein Zalim Ne Bulaya Baba
+  Kalma goyon ne mere ghar ko jalaya Baba
+  Aap ke jate hi badli hai ye ummat kaisi
+  Haq mera chhin liya aur gawahi radd ki
+  Mujh ko darbaar mein zalim ne bulaya Baba
 
   2
-  Ghar Mein Roney Yeh Musalman Nahi Detey They
-  Shehar Se Door Ali Ne Marey Roney Ke Liye
-  Aap Ka Pehla Azza Khana Banaya Baba
-  Haq Dilaney Ke Liye Tere Wasi Ki Khatir
+  Ghar mein rone ye Musalman nahin dete thay
+  Shehar se dur Ali ne mere rone ke liye
+  Aap ka pehla aza khana banaya Baba
+  Haq dilane ke liye tere Wasi ki khatir
 
   3
-  Aik Ik Ghar Pe Gayi Hoon Main Ali Ki Khatir
-  Koi Aawaz Pe Meri Nahi Aaya Baba
-  Aap Ki Beti Ko Logon Mein Rulanay Ke Liye
-  Dast-e-Haider Se Mera Hath Churanay Ke Liye
+  Ek ek ghar pe gayi hun main Ali ki khatir
+  Koi aawaz pe meri nahin aaya Baba
+  Aap ki beti ko logon mein rulane ke liye
+  Dast-e-Haider se mera hath chhurane ke liye
 
   4
-  Taziyana Mujhe Qunfuz Ne Lagaya Baba
-  Yeh Mila Mujh Ko Wilayat Ki Hifazat Ka Samar
-  Aag Ummat Ne Laga Di Marey Ghar Ko Aa Kar
-  Qabar-e-Mohsin Marey Pehlu Ko Banaya Baba
+  Taziyana mujhe Qunfuz ne lagaya Baba
+  Ye mila mujh ko wilayat ki hifazat ka samar
+  Aag ummat ne laga di mere ghar ko aa kar
+  Qabr-e-Mohsin mere pehlu ko banaya Baba
 
   5
-  Aap Ne Dein Ke Liye Ghairon Se Khaye Pathar
-  Apni Beti Ki Zara Dekhiye Qismat Aa Kar
-  Kalma Goyon Ne Mera Khon Bahaya Baba
-  Bad Dua Main Ne Na Ki Aap Ki Ummat Ke Liye
+  Aap ne din ke liye ghairon se khaye patthar
+  Apni beti ki zara dekhiye qismat aa kar
+  Kalma goyon ne mera khoon bahaya Baba
+  Baddua main ne na ki aap ki ummat ke liye
 
   6
-  Main Ne Aawaz Uthai Jo Wilayat Ke Liye
-  Mujh Pe Zalim Ne Wahin Hath Uthaya Baba
-  Kis Tarha Se Main Gayi Hoon Sar-e-Darbar-e-Sitam
-  Kyun Marey Baloon Mein Aayi Hai Safaidi Ik Dam
+  Main ne aawaz uthayi jo wilayat ke liye
+  Mujh pe zalim ne wahin hath uthaya Baba
+  Kis tarah se main gayi hun sar-e-darbaar-e-sitam
+  Kiun mere balon mein aayi hai safedi ek dam
 
   7
-  Main Ne Zainab Ko Abhi Tak Na Bataya Baba
-  Qabar Se Lipati Takallum Woh Yehi Kehti Thi
-  Aap Ke Bach Nahi Jee Sakti Yeh Dukhiya Beti
-  Mera Ummat Ne Bohat Dil Hai Dukhaya Baba
+  Main ne Zainab ko abhi tak na bataya Baba
+  Qabr se lipti Takallum wo yehi kehti thi
+  Aap ke bin nahin ji sakti ye dukhiya beti
+  Mera ummat ne bahut dil hai dukhaya Baba
 ---
 
 ۱

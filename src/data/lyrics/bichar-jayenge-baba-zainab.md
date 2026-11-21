@@ -1,68 +1,67 @@
 ---
-title: "بچھڑ جائیں گے بابا، زینب، وجہی حسن زیدی"
-alternateTitle: "Bichar Jayengy Baba Zainab Wajhi Hasan Zaidi"
+title: "بچھڑ جائیں گے بابا زینب"
+alternateTitle: "Bichar Jayenge Baba Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Zeeshan"
+reciter: "Wajhi Hasan Zaidi"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bichar jayengy baba Zainab Wajhi Hasan Zaidi
-  Shab-e-Ikeeswin Ramzan woh ghurbat ki ghari
+  Shab-e-ikkeeswin Ramzan wo ghurbat ki ghari
 
   1
-  Ghar mein Zahra ke udasi thi Ali they zakhmi
-  Sun ke baba ki sada pas jab aayi beti
-  Aakhri sansoon mein kehne lagay ro ro ke Ali
-  Aaj tum sab se bichar jaein gay baba Zainab
+  Ghar mein Zahra ke udasi thi Ali thay zakhmi
+  Sun ke Baba ki sada paas jab aayi beti
+  Aakhri sanson mein kehne lage ro ro ke Ali
+  Aaj tum sab se bichar jayenge Baba Zainab
 
   2
-  Mujh ko lainay ke liye aa gayin Zahra, Zainab
-  Haye kuch dair mein ruk jaein gi sansein meri
-  Band ho jaein gi yeh khoon bhari aankhein meri
-  Aakhri raat hai bas sath hamara Zainab
+  Mujh ko lene ke liye aa gayin Zahra, Zainab
+  Haye kuch der mein ruk jayengi sansen meri
+  Band ho jayengi ye khoon bhari aankhen meri
+  Aakhri raat hai bas saath hamara Zainab
 
   3
-  Jane Hasnain ne kis tarha se dekha manzar
-  Itni shiddat se woh talwar chali thi mujh par
+  Jaane Hasnain ne kis tarah se dekha manzar
+  Itni shiddat se wo talwar chali thi mujh par
   Ab bhi jari hai lahu sar hai shikasta Zainab
-  Kyun dua mang rahi hai tu mere jeene ki
+  Kiun dua mang rahi hai tu mere jine ki
 
   4
-  Mar gaya tha tera baba tu ossi din bibi
+  Mar gaya tha tera Baba to usi din Bibi
   Jab laga Fatima Zahra ko tamacha Zainab
-  Keh do Kofay ke yateemo se keh wapis jaein
-  Ab na mere liye woh doodh ke pyalay laein
+  Keh do Kufe ke yateemon se ke wapas jayen
+  Ab na mere liye wo doodh ke pyale layen
 
   5
-  Zehar ne kar diya mushkil mera jeena Zainab
-  Sakht mushkil mein mere sath guzarey do din
-  Uth ke ik bar galay tum ko lagata lekin
-  Uthna chahon bhi tu utha nahi jata Zainab
+  Zehar ne kar diya mushkil mera jina Zainab
+  Sakht mushkil mein mere saath guzare do din
+  Uth ke ek baar gale tum ko lagata lekin
+  Uthna chahun bhi to utha nahin jata Zainab
 
   6
-  Ronaqein betiyaan hoti hain janazay ke liye
-  Tum ho Kulsoom-o-Ruqaiya hain yahin sath mere
-  Shan se uthay ga ab mera janaza Zainab
-  Dekha Ghazi ko tu kehne lagay Zainab se Ali
+  Raunaqen betiyan hoti hain janaze ke liye
+  Tum ho Kulsoom o Ruqaiya hain yahin saath mere
+  Shaan se uthega ab mera janaza Zainab
+  Dekha Ghazi ko to kehne lage Zainab se Ali
 
   7
-  Jab mere baad tumhein yaad sataye meri
+  Jab mere baad tumhen yaad sataye meri
   Dekh lena mere Abbas ka chehra Zainab
-  Aik din tum issi Kofay mein bano gi qaidi
-  Be rida aao gi hathoon mein rasan bhi hogi
+  Ek din tum isi Kufe mein banogi qaidi
+  Be rida aaogi hathon mein rasan bhi hogi
 
   8
-  Aa ja le loon tere shano ka main bosa Zainab
-  Kitni beti se muhabbat thi aye Zeeshan-o- Wajih
-  Yeh judai bhi qayamat thi aye Zeeshan-o- Wajih
-  Aakhri hichki jab aayi tu pukara Zainab
+  Aa ja le lun tere shanon ka main bosa Zainab
+  Kitni beti se muhabbat thi ae Zeeshan o Wajih
+  Ye judai bhi qayamat thi ae Zeeshan o Wajih
+  Aakhri hichki jab aayi to pukara Zainab
 ---
 
-بچھڑ جائیں گے بابا، زینب، وجہی حسن زیدی
 شبِ اکیسویں رمضان وہ غربت کی گھڑی
 
 ۱
