@@ -10,78 +10,74 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Wo waqt kabhi to ayega Zehra(A) ki dua k saye main
-  Mehdi(a) ka alam lehraye ga - wo waqt kabhi to ayega
-  Tarikh k chehray per jitnay - parday hain utha daingay ik din
-  Matam ki sada e peham say - duniya ko jaga daingay ik din
-  Hay khamnayee rehmer apna - uncha hi rahay ga sar apna
+  Wo waqt kabhi to aayega Zehra ki dua ke saaye mein
+  Mehdi ka alam lehrayega, wo waqt kabhi to aayega
+  Tareekh ke chehre par jitne, parde hain utha denge ik din
+  Matam ki sada-e-peham se, duniya ko jaga denge ik din
+  Hai Khamenei rehbar apna, ooncha hi rahega sar apna
 
   2
-  Aap say wada hay ye khoon e shaheedan ki qasam
-  Raigan janay na daingay maqsad e qurbani hum
+  Aap se wada hai ye khoon-e-shaheedan ki qasam
+  Raigaan jaane na denge maqsad-e-qurbani hum
 
   3
-  Sar nigon honay na daingay parcham e abbas ko
-  Ik azakhana banadaingay dil e hassas ko
-  Ta zahoor e mehdi e doran khud apnay khoon say
-  Hum bujhain gay zaminay karbala ki piyas ko
+  Sarnigun hone na denge parcham-e-Abbas ko
+  Ek azakhana bana denge dil-e-hassas ko
+  Ta zahoor-e-Mehdi-e-dauran khud apne khoon se
+  Hum bujhayenge zameen-e-Karbala ki pyaas ko
 
   4
-  Misl aqaye madina(S) har sitam sehtay huay
-  Deen ko phlaingay had e sharha main rehtay huay
-  Kufr ka sar katnay ko sabr ki talwar say
-  Janib e maqtal barhaingay YA ALI kehtay huay
+  Misl-e-Aqa-e-Madina har sitam sehte hue
+  Deen ko phailayenge hadd-e-shara mein rehte hue
+  Kufr ka sar kaatne ko sabr ki talwar se
+  Janib-e-maqtal badhenge Ya Ali kehte hue
 
   5
-  Jab bhi uthay ga kahin batil ki bayet ka sawal
-  Ahl e haq kardaingay batil k liyen jina muhal
-  Yaad rakhay ga zamana jisko roz e hashr tak
-  Karbala e fikr ki qayam karaingay wo misal
+  Jab bhi uthega kahin batil ki baiat ka sawal
+  Ahl-e-haq kar denge batil ke liye jeena muhal
+  Yaad rakhega zamana jisko roz-e-hashr tak
+  Karbala-e-fikr ki qayam karenge wo misal
 
   6
-  Yad hay wo roz e ashura shah e din ka khitab
-  Wo sawal e aab wo qatil ko asghar ka jawab
-  Bhool sakti hi nahi ahlay haram ki bebasi
-  Ek ek zulm o sitam ka laingay gin gin k hisaab
+  Yaad hai wo roz-e-Ashura Shah-e-deen ka khitab
+  Wo sawal-e-aab wo qatil ko Asghar ka jawab
+  Bhool sakti hi nahi ahl-e-haram ki bebasi
+  Ek ek zulm o sitam ka lenge gin gin ke hisab
 
   7
-  Qutelal hussain o bekarbala - zebehal hussain o bekarbala
-  Haye sehra e karbala main hussain piyasay zibah huay
-  Haye sehra e kabala main hussain piyasay shaheed husay
+  Qutilal Husainu bi Karbala, zubihal Husainu bi Karbala
+  Haye sehra-e-Karbala mein Husain pyase zibah hue
+  Haye sehra-e-Karbala mein Husain pyase shaheed hue
 
   8
-  Goonjtay hain aj bhi maqtal main ik bibi k bain
-  Kistarhan ayega merey laal tujh bin maan ko chain
-  Khoon rulaye gi mujhay ta hashr teri bekasi
-  Ay meri aghosh k palay merey piyasay hussain
+  Goonjte hain aaj bhi maqtal mein ik bibi ke bain
+  Kis tarah aayega mere laal tujh bin maa ko chain
+  Khoon rulayegi mujhe ta hashr teri bekasi
+  Ae meri aaghosh ke pale mere pyase Husain
 
   9
-  Nok e neza per junhi dekha sar e shah e anaam
-  Syed e sajjad k honton pay aya ye kalam
-  Assalam ay kushta e tegh e jafa mola hussain
-  Assalam ay tishna lab shah e shaheedan assalam
+  Nok-e-neza par junhi dekha sar-e-Shah-e-anaam
+  Syed-e-Sajjad ke honton pe aaya ye kalam
+  Assalam ae kushta-e-tegh-e-jafa Maula Husain
+  Assalam ae tishna-lab Shah-e-shaheedan assalam
 
   10
-  Haye wo sham e ghariban wo hujum e bekasi
-  Lut rahay thay jal rahay thay khema e al e naibi(S)
-  Karbala k dasht main tha ek mehshar sa bapa
-  Har taraf thi wa hussaina ki sada goonji hui
+  Haye wo sham-e-ghariban wo hujum-e-bekasi
+  Lut rahe the jal rahe the khaima-e-Aal-e-Nabi
+  Karbala ke dasht mein tha ek mehshar sa bapa
+  Har taraf thi wa Husaina ki sada goonji hui
 
   11
-  Uth raha tha jab khayam e al e athar say dhwuan
-  Ek bachi thi akeli janib e maqtal rawan
-  Nagahan ik sar buridah lash say ayee sada
-  Ay sakina aa mere sinay pe soja meri jan
+  Uth raha tha jab khayyam-e-Aal-e-Athar se dhuan
+  Ek bachchi thi akeli janib-e-maqtal rawan
+  Nagahan ik sar-burida laash se aayi sada
+  Ae Sakina aa mere seene pe so ja meri jaan
 
   12
-  Parcham e abbas k saye main hum ahlay aza
-  Ta qayamat kam na honay daingay toqir e bapa
-  Q na dekhain mot ki ankhon main ankhain daal kar
-  Apna wirsa hay shahdat apni manzil karbala
-
-  13
-  Ap say wada hay ye khoonay shaheedan ki qasam
-  Raigan janay na daingay maqsad e qurbani hum
+  Parcham-e-Abbas ke saaye mein hum ahl-e-aza
+  Ta qayamat kam na hone denge tauqeer-e-bapa
+  Kiun na dekhen maut ki aankhon mein aankhen daal kar
+  Apna wirsa hai shahadat apni manzil Karbala
 ---
 
 ۱
@@ -153,7 +149,3 @@ romanLyrics: |-
 تا قیامت کم نہ ہونے دیں گے توقیرِ بپا
 کیوں نہ دیکھیں موت کی آنکھوں میں آنکھیں ڈال کر
 اپنا ورثہ ہے شہادت اپنی منزل کربلا
-
-۱۳
-آپ سے وعدہ ہے یہ خونِ شہیداں کی قسم
-رائیگاں جانے نہ دیں گے مقصدِ قربانی ہم

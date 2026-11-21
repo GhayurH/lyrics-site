@@ -9,48 +9,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aap ache hain chacha par yeh zamaana nahi acha
-  Piyas achi hai magar aap ka jana nahi acha
+  Aap achhe hain chacha par ye zamana nahi achha
+  Pyaas achhi hai magar aap ka jana nahi achha
 
   1
-  Asmaan roye ga khaimo mein qayamat ho gi
-  Din alam dahaye alam khaimo mein lana nahi acha
+  Aasmaan roye ga khaimon mein qayamat ho gi
+  Din alam dahaye alam khaimon mein lana nahi achha
 
   2
-  Sirf ik raat mein kyun burha howa Sajjad
-  Sar khule maon ke baiton ko dikhana nahi acha
+  Sirf ik raat mein kiun boorha hua Sajjad
+  Sar khule maaon ke beton ko dikhana nahi achha
 
   3
-  Aik shehzadi thi jis shehar ki bibi Zainab
-  Oss ke bazaroon mein Zainab ko phirana nahi acha
+  Ek shehzadi thi jis shehar ki bibi Zainab
+  Us ke bazaron mein Zainab ko phirana nahi achha
 
   4
-  Jaise zindaan mein Sakina hai mili baba se
-  Oss tarha baap se beti ko milana nahi acha
+  Jaise zindan mein Sakina hai mili baba se
+  Us tarah baap se beti ko milana nahi achha
 
   5
   Khush naseebi hai jo de baap ko beta kandha
-  Baap ka lashe jawaan haye uthana nahi acha
+  Baap ka laash-e-jawan haye uthana nahi achha
 
   6
-  Qabar Asghar ki bana kar hai pareshan Hussain
-  Aag si rait mein ik phool chupana nahi acha
+  Qabr Asghar ki bana kar hai pareshan Husain
+  Aag si ret mein ik phool chhupana nahi achha
 
   7
-  Ab hamesha main rahon gi issi zindaan mein chacha
-  Main na kehti thi mujhe choor ke jana nahi acha
+  Ab hamesha main rahungi isi zindan mein chacha
+  Main na kehti thi mujhe chhod ke jana nahi achha
 
   8
-  Sar khule bibiyaan roti hain azza khano mein
-  Shab-e-Aashoor cheragon ko jalana nahi acha
+  Sar khule bibiyan roti hain aza khanon mein
+  Shab-e-Ashur chiraghon ko jalana nahi achha
 
   9
-  Har khushi sadqay mein Zainab ke Khuda de tujh ko
-  Haan Muharam mein khushi koi manana nahi acha
+  Har khushi sadqe mein Zainab ke Khuda de tujh ko
+  Haan Muharram mein khushi koi manana nahi achha
 
   10
-  Hum Ali walon ko aye Sarwar-o-Rehan kabhi
-  Farsh-e-matam ke siwa dhondne jana nahi acha
+  Hum Ali walon ko ae Sarwar o Rehan kabhi
+  Farsh-e-matam ke siwa dhoondhne jana nahi achha
 ---
 
 آپ اچھے ہیں چچا پر یہ زمانہ نہیں اچھا
