@@ -1,6 +1,6 @@
 ---
 title: "آکھے زینب چم کے کٹیاں باواں غازی"
-alternateTitle: "Akhay Zainab Chum Ke Kattiyan Baawan Ghazi"
+alternateTitle: "Aakhe Zainab Chum Ke Kattiyaaṅ Baavaaṅ Ghazi"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"

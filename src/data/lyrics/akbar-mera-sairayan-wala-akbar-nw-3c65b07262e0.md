@@ -1,6 +1,6 @@
 ---
 title: "اکبر میرا سِہریاں والا اکبر"
-alternateTitle: "Akbar Mera Sairayan Wala Akbar"
+alternateTitle: "Akbar Mera Sehriyaaṅ Wala Akbar"
 language: "Saraiki"
 lang: "skr-Arab"
 direction: "rtl"
@@ -8,7 +8,7 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar, mera sairayaaṅ wala Akbar, Akbar, mera chotiyan wala Akbar
+  Akbar, mera sehriyaaṅ wala Akbar, Akbar, mera chotiyan wala Akbar
 
   1
   Sikhday wailay jawaan bachray koun, pagh bha daindeh, Husain thak ponde

@@ -1,5 +1,5 @@
 ---
-title: "اکبر تیریاں راہواں تکدی رہندی"
+title: "اکبر تیریاں راہواں تکدی رہندی اے صغرا"
 alternateTitle: "Akbar Teriyan Rahwaaṅ Takdi Rehndi Ae Sughra"
 language: "Panjabi"
 lang: "pa-Arab"

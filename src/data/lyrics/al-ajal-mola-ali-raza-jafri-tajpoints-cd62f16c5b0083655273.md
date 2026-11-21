@@ -1,6 +1,6 @@
 ---
-title: "العجل مولا علی رضا جعفری"
-alternateTitle: "Al Ajal Mola Ali Raza Jafri"
+title: "العجل مولا"
+alternateTitle: "Al Ajal Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,24 +9,24 @@ poet: "Shehwaar"
 aliases: []
 published: false
 romanLyrics: |-
-  Kahin sab aap se rodad, Al-Ajal Maula
-  Ghulam kartay hain faryad, Al-Ajal Maula
+  Kaheṅ sab aap se rudaad, Al-Ajal Maula
+  Ghulaam karte hain faryad, Al-Ajal Maula
 
   1
-  Nigah-e-Naaz ko jalwaon ki pyas rehti hai
+  Nigah-e-Naaz ko jalwoṅ ki pyaas rehti hai
   Nafas nafas tere aane ki aas rehti hai
-  Tere beghair musalsal jo yaas rehti hai
-  Koi khushi ho tabiyat udas rehti hai
+  Tere baghair musalsal jo yaas rehti hai
+  Koi khushi ho tabiyat udaas rehti hai
 
   2
-  Tere zahoor se ahsas-e-zindagi aaye
+  Tere zuhur se ehsaas-e-zindagi aaye
   Tere hi noor se aankhon mein roshni aaye
   Hijab-e-Waqt se wajh e Khuda howeda ho
   Nazar mein noor-e-elahi ka phir sopeda ho
 
   3
-  Juda haqeeqat-e-haroon our Zubaida ho
-  Bohat andhera hai koi kiran tu paida ho
+  Juda haqeeqat-e-Harun aur Zubaida ho
+  Bahut andhera hai koi kiran tu paida ho
   Siyah raat se soraj ubharne walay
   Hain jaan bulb shab-e-furqat guzarne walay
 
@@ -37,52 +37,52 @@ romanLyrics: |-
   Hajoom-e-Ghair mein apno ko rasta dijay
 
   5
-  Yeh shoq-e-deed mein jaan se guzar na jaein kahin
-  Charhey hoye hain jo darya utar na jaein kahin
-  Yeh khak zaday hain teri amma mein aaye hoye
+  Ye shoq-e-deed mein jaan se guzar na jaaeṅ kahin
+  Charhey hoye hain jo darya utar na jaaeṅ kahin
+  Ye khak zaday hain teri amma mein aaye hoye
   Jahan-e-Zulm mein parcham tera uthaye hoye
 
   6
-  Wafor e ranj mein dunya ke hum sataye hoye
+  Wafor e ranj mein duniya ke hum sataye hoye
   Tere ghulam hain bas tujh se lau lagaye hoye
-  Jabeen hai sajday mein izhar-e-bandagi ke liye
-  Tera zahoor zarori hai zindagi ke liye
+  Jabeen hai sajde mein izhar-e-bandagi ke liye
+  Tera zuhur zarori hai zindagi ke liye
 
   7
   Ruka hai nuqtay pe parkar dairah ghayab
   Taveel rah hai salar-e-qafila ghayab
-  Jahan-e-Chashm se khuwabon ka silsila ghayab
-  Bikhar gaye hain sabhi rind may kada ghayab
+  Jahan-e-Chashm se khwaabon ka silsila ghayab
+  Bikhar gaye hain sabhi rind meiṅ kada ghayab
 
   8
-  Jigar ke dard ko aaram saqiya de de
-  Ghazab ki pyas hai ik jaam saqiya de de
-  Haseen aap hain phir husan ko chupana kya
+  Jigar ke dard ko aaram Saqiya de de
+  Ghazab ki pyaas hai ik jaam Saqiya de de
+  Hasin aap hain phir husan ko chupana kya
   Balad e qalb pe youn bijliyaan girana kya
 
   9
   Mata e ishq ko aisay bhi aazmana kya
-  Khiyal kijay kahey ga humein zamana kya
+  Khiyal kijay kahey ga hameṅ zamana kya
   Nafas ke taar hain muzrab e bekasi Maula
   Bhula chukay hain sabhi saz e nagmagi Maula
 
   10
-  Jahan mein hurmat-e-kirdar ab nahi baqi
-  Woh jins e ishq woh bazar ab nahi baqi
-  Tapish mein saya-e-dewar ab nahi baqi
-  Azza tu hai woh azadar ab nahi baqi
+  Jahan mein hurmat-e-kirdar ab nahiṅ baqi
+  Wo jins e ishq wo bazar ab nahiṅ baqi
+  Tapish mein saya-e-dewar ab nahiṅ baqi
+  Azza tu hai wo azadar ab nahiṅ baqi
 
   11
-  Hussain-e-Asar tujhe aa gahi bulati hai
-  Ab Al-Ajal ki sada Karbala se aati hai
+  Husain-e-Asar tujhe aa gahi bulati hai
+  Ab al-ajal ki sada Karbala se aati hai
   Jahan se nafrat-o-zulm-o-fasad mit jaye
   Khuda ke naam pe jhota jehad mit jaye
 
   12
-  Jo aap aaein tu har bad nehad mit jaye
+  Jo aap aaaeṅ tu har bad nehad mit jaye
   Yazid khatam ho Ibn-e-Zayad mit jaye
   Ali ke lal ko hum Shehwaar dekhein gay
-  Ossi ke hath mein sab Zulfiqar dekhein gay
+  Usi ke hath mein sab Zulfiqar dekhein gay
 ---
 
 کہیں سب آپ سے روداد، العجل مولا

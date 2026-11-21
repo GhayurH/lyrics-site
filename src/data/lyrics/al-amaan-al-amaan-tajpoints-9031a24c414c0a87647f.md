@@ -1,6 +1,6 @@
 ---
-title: "الامان الامان"
-alternateTitle: "Al-Amaan Al-Amaan"
+title: "روتے ہیں مہدی سوچ کے زینب کی سسکیاں"
+alternateTitle: "Rote Haiṅ Mehdi Soch Ke Zainab Ki Siskiyaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,23 +10,23 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Rote hain Mehdi soch ke Zainab ki siskiyaan
+  Rote haiṅ Mehdi soch ke Zainab ki siskiyaaṅ
 
   1
-  Har samt tamashai hain logon ki bheer hai
-  Zad mein hai pathron ki ab mazloom-e-karwaan
-  Abid ko gham yeh kha gaya be-parda kyun gayin
-  Darbar mein Yazid ke Zahra ki betiyaan
+  Har samt tamaashaai hain logon ki bhir hai
+  Zad mein hai patthroṅ ki ab mazloom-e-karwaan
+  Abid ko gham ye kha gaya be-parda Kiun gayin
+  Darbar mein Yazid ke Zahra ki betiyaaṅ
   Ghairat ka imtehan hai Sajjad ke liye
-  Iss ke galay mein tauq hai paon mein beriyaan
+  Is ke gale mein tauq hai paaon mein beriyaaṅ
 
   2
-  Uthta nahi hai lasha-e-Akbar Hussain se
+  Uthta nahiṅ hai laasha-e-Akbar Husain se
   Beta jawaan hai baap hai majboor na-tawaan
-  Zakhmi howa jo teer se be-sheer ka gala
-  Tarpa tarap ke reh gaya hathon pe be-zabaan
-  Yeh gham hai kainat ko aye Naqvi-o- Hasan
-  Karb-o-Bala mein lut gayin Zahra ki betiyaan
+  Zakhmi howa jo teer se beshir ka gala
+  Tarpa tarap ke reh gaya hathon pe bezabaaṅ
+  Ye gham hai kaainaat ko aye Naqvi-o- Hasan
+  Karb-o-Bala mein lut gayin Zahra ki betiyaaṅ
 ---
 
 روتے ہیں مہدی سوچ کے زینب کی سسکیاں

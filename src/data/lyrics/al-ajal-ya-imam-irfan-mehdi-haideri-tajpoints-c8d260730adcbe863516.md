@@ -1,6 +1,6 @@
 ---
-title: "العجل یا امام عرفان مہدی حیدری"
-alternateTitle: "Al Ajal Ya Imam Irfan Mehdi Haideri"
+title: "العجل یا امام"
+alternateTitle: "Al Ajal Ya Imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Al Ajal ya Imam Irfan Mehdi Haideri
-  De rahe hain sada yeh ghulam Al-Ajal
+  Al Ajal ya Imam
+  De rahe hain sada ye ghulam Al-Ajal
 
   1
-  Jaam-o-meena se kab guftgu hai humein
-  Saqiya bas yehi justaju hai humein
-  Tere dedar ki aarzu hai humein
-  Aaj peena yahan ba wozu hai humein
+  Jaam-o-meena se kab guftgu hai hameṅ
+  Saqiya bas yehi justaju hai hameṅ
+  Tere dedar ki aarzu hai hameṅ
+  Aaj peena yahan ba wozu hai hameṅ
   Rind hain aaj sab tashna kam Al-Ajal
 
   2
@@ -25,27 +25,27 @@ romanLyrics: |-
   Bar-e-furqat saron pe uthaye hoye
   Josh-e-nusrat dilon mein dabaye hoye
   Sare molai mehfil mein aaye hoye
-  Aap ko kar rahe hain salam Al-Ajal
+  Aap ko kar rahe hain salaam Al-Ajal
 
   3
-  Zulm ka chaar so garam bazar hai
+  Zulm ka chaar so garam baazaar hai
   Jehal phaila howa kufar sarshar hai
-  Bugz-e-Haider mein dunya giraftar hai
+  Bugz-e-Haider mein duniya giraftar hai
   Har taraf se aqeedon pe yalgar hai
   Ho gaya hai sabhi ahtamam Al-Ajal
 
   4
-  Aap ghaibat se jis din chaley aaein gay
-  Sab muhiban-e-Haider sakoon paein gay
-  Ik ghari mein muqadar badal jaein gay
-  Ahl-e-shar apne saye se ghabraein gay
+  Aap ghaibat se jis din chaley aaaeṅ gay
+  Sab muhiban-e-Haider sakoon paaeṅ gay
+  Ik ghari mein muqadar badal jaaeṅ gay
+  Ahl-e-shar apne saye se ghabraaeṅ gay
   Hoga qayam Khuda ka nizam Al-Ajal
 
   5
-  Dast-e-zulm our nabz jafa kaat de
-  Qatal-o-garat ka yeh silsila kaat de
+  Dast-e-zulm aur nabz jafa kaat de
+  Qatal-o-garat ka ye silsila kaat de
   Dushmanan-e-Khuda ka gala kaat de
-  Har Yazeedi ko yeh barmala kaat de
+  Har Yazeedi ko ye barmala kaat de
   Taig-e-Haider jo ho be niyam Al-Ajal
 
   6
@@ -56,28 +56,28 @@ romanLyrics: |-
   Khainch kar apne jad ki hasaam Al-Ajal
 
   7
-  Na rasa ho na jaein duaein meri
-  Tham na jaein labon pe sadaein meri
-  Kargar ab nahi hain duaein meri
-  Iss arezay mein hain iltijaein meri
-  Kash pohanchay mera yeh pyam Al-Ajal
+  Na rasa ho na jaaeṅ duaaeṅ meri
+  Tham na jaaeṅ labon pe sadaaeṅ meri
+  Kargar ab nahiṅ hain duaaeṅ meri
+  Is arezay mein hain iltijaaeṅ meri
+  Kaash pohanchay mera ye pyam Al-Ajal
 
   8
-  Mere maula shab-e-fajar dhalti nahi
-  Teergi yeh kissi toor talti nahi
-  Kuch ujalay ki sorat nikalti nahi
-  Hum pareshaan hain qismat badalti nahi
-  Zeest ka youn na ho ahtatam Al-Ajal
+  Mere maula shab-e-fajar dhalti nahiṅ
+  Teergi ye kissi toor talti nahiṅ
+  Kuch ujalay ki sorat nikalti nahiṅ
+  Hum pareshaan hain qismat badalti nahiṅ
+  Zeest ka youn na ho ikhtitaam Al-Ajal
 
   9
-  Fatway aate hain Shabbir ki yaad par
-  Matam-o-majlis-o-jashan-o-mailad par
+  Fatwe aate hain Shabbir ki yaad par
+  Matam-o-majlis-o-jashn-o-mailad par
   Dil tarapta hai jab hal-e-barbad par
-  Kyun na Shehwaar mayal ho faryad par
-  Mere maula ba sad ayhteram Al-Ajal
+  Kiun na Shehwaar meiṅal ho faryad par
+  Mere maula ba sad ehteraam Al-Ajal
 ---
 
-العجل یا امام عرفان مہدی حیدری
+العجل یا امام
 دے رہے ہیں صدا یہ غلام، العجل
 
 ۱
