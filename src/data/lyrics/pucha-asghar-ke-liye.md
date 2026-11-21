@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Hiddat-e-dasht se muztar hai faqat saaye ko
-  Jaane Zehra ka ye daamaan-e-qaba maaṅgte haiṅ
+  Jaan-e-Zehra ka ye daamaan-e-qaba maaṅgte haiṅ
 
   2
   Apne chhe maah ke bachche ke liye aada se

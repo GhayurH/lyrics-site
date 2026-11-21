@@ -12,40 +12,40 @@ published: false
 romanLyrics: |-
   1
   Baba teri ummat ne kaisa ye sitam dhaaya
-  Kitna ghamnaak hai zehra ka fasana haye
-  Guzri jo fatema pe kaise koi batlaye
-  Laash mohsin ko liye roti hai zehra ab tak
-  Godh may fatema ke zakhmi hai bacha ab tak
-  Phasliyaṅ pakre huwe karti hai nauha ab tak
-  Kitni taklif may hai roti hai zehra ab tak
-  Hashr may baap se poochegi ki maanga kya tha
-  Baba aakhir mere mohsin ne bigara kya tha
-  Godh may fatema ke zakhmi hai bacha ab tak
-  Phasliyaṅ pakre huwe...
-  Aag aur lakriyaṅ lekar junhi dushman aaye
-  Bole darwaza e zehra ko jalaaya jaaye
-  Is khadar zulm huwe roti hai fizza ab tak
-  Phasliyaṅ pakre huwe...
-  Is qadar kohe sitam tut pare hai in par
-  Umr athara baras aur khameeda hai kamar
-  Haye dushwaar hai shehzadi ka chalna ab tak
-  Phasliyaṅ pakre huwe...
-  Qabr e shabbir se lagta hai ki maa lipti hai
-  Haye ye rauza e sarwar se sada uth'ti hai
-  Ban na paaya nahi amma tera rauza ab tak
-  Phasliyaṅ pakre huwe...
-  Sina e shaah se asghar ko utha leti hai
-  Chum kar chehra e baysheer ko ye kehti hai
+  Kitna gham naak hai Zehra ka afsaana haaye
+  Guzri jo Fatema pe kaise koi batlaaye
+  Laash Mohsin ko liye roti hai Zehra ab tak
+  God mein Fatema ke zakhmi hai bachcha ab tak
+  Phasliyaṅ pakre hue karti hai nauha ab tak
+  Kitni taklif mein hai roti hai Zehra ab tak
+  Hashr mein baap se puchhe gi ki maanga kya tha
+  Baba aakhir mere Mohsin ne bigaara kya tha
+  God mein Fatema ke zakhmi hai bachcha ab tak
+  Phasliyaṅ pakre hue...
+  Aag aur lakriyaṅ lekar jonhi dushman aaye
+  Bole darwaaza-e-Zehra ko jalaaya jaaye
+  Is qadar zulm hue roti hai Fizza ab tak
+  Phasliyaṅ pakre hue...
+  Is qadar koh-e-sitam tut pare haiṅ in par
+  Umr athaara baras aur khamida hai kamar
+  Haaye dushwaar hai shehzaadi ka chalna ab tak
+  Phasliyaṅ pakre hue...
+  Qabr-e-Shabbir se lagta hai ki maaṅ lipti hai
+  Haaye ye rauza-e-Sarwar se sada uthti hai
+  Ban na paaya nahiṅ ammaaṅ tera rauza ab tak
+  Phasliyaṅ pakre hue...
+  Sina-e-Shaah se Asghar ko utha leti hai
+  Chum kar chehra-e-beshir ko ye kehti hai
   Zakhmi halqum liye tu bhi hai soya ab tak
-  Phasliyaṅ pakre huwe...
-  Ruhe ghazi dar e zindaṅ pe khari roti hai
-  Ek bhatiji hai jo kurte may abhi soyi hai
-  Chutt na paayi nahi zindaṅ se sakina ab tak
-  Phasliyaṅ pakre huwe...
-  Hai mubarak junhi rehan ne nauha ye parha
-  Khuld se rote huwe aaye ali o zehra
-  Haye zakhmoṅ ka hai shehzadi pe pehra ab tak
-  Phasliyaṅ pakre huwe...
+  Phasliyaṅ pakre hue...
+  Ruh-e-Ghazi dar-e-zindaaṅ pe khari roti hai
+  Ik bhatiji hai jo kurte mein abhi soyi hai
+  Chhut na paayi nahiṅ zindaaṅ se Sakina ab tak
+  Phasliyaṅ pakre hue...
+  Hai Mubarak jonhi Rehan ne nauha ye parha
+  Khuld se rote hue aaye Ali o Zehra
+  Haaye zakhmoṅ ka hai shehzaadi pe pehra ab tak
+  Phasliyaṅ pakre hue...
 ---
 
 ۱

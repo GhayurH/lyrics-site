@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Namaz e shab meiṅ koi baap maangta hai dua
-  Allah allah allah allah
-  Sukun e dil ke liye kar mujhe sakina ataa
-  Jor kar nanhe se haathoṅ ko sakina ne kaha
-  Kya isi din ke liye mujhko tha maanga baba
-  Jaane kiuṅ jashn manate hai sata kar mujhko
-  Apne bachoṅ ko hasate hai rula kar mujhko
-  Shamiyoṅ ne mere rone ko tamasha samjha
+  Namaaz-e-shab meiṅ koi baap maaṅgta hai dua
+  Allah Allah Allah Allah
+  Sukun-e-dil ke liye kar mujhe Sakina aata
+  Jor kar nanhe se haathoṅ ko Sakina ne kaha
+  Kya isi din ke liye mujhko tha maaṅga Baba
+  Jaane kiuṅ jashn manaate hai sata kar mujhko
+  Apne bachchoṅ ko haṅsaate hai rula kar mujhko
+  Shaamiyoṅ ne mere rone ko tamaasha samjha
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Baba jaaṅ is ka sabab kya hai khuda hi jaane
-  Fatema naam kisi ko jo bataya maiṅ ne
-  Bejhijhak us ne sakina ko tamacha maara
+  Baba jaaṅ is ka sabab kya hai Khuda hi jaane
+  Fatema naam kisi ko jo bataaya maiṅ ne
+  Bejhijhak us ne Sakina ko tamaasha maara
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Aap ne eid pe jo durr mujhe pehnaye the
-  Shimr ne kaano se is tarha wo gohar noche
-  Durr nahi khun bhi hai shimr ke haathoṅ mein mera
+  Aap ne Eid pe jo durr mujhe pehnaaye the
+  Shimr ne kaanoṅ se is tarah wo ghar noche
+  Durr nahiṅ khun bhi hai Shimr ke haathoṅ mera
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Qabr tak bhul na payegi tumhari beti
-  Kaat kar ungli tumhari jo angothi khaynchi
-  Pehn kar us ko hi zaalim ne tamacha maara
+  Qabr tak bhul na paayegi tumhaari beti
+  Kaat kar ungli tumhaari jo anguthi khiṅchi
+  Pehan kar us ko hi zaalim ne tamaancha maara
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Khums meiṅ maang raha hai mera bhai chadar
-  Shaam ke log humeiṅ maar rahe hai patthar
-  Aurteiṅ phenk rahi hai meri jaanib sadqa
+  Khums meiṅ maaṅg raha hai mera bhai chaadar
+  Shaam ke log hameiṅ maar rahe haiṅ patthar
+  Aurteiṅ pheṅk rahi hai meri jaanib sadqa
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Aap ki laash ko jis tarha se pamaal kiya
-  Jite ji mera layino ne wohi haal kiya
-  Baandh kar ghoroṅ se paidal mujhe dauraya gaya
+  Aap ki laash jo jis tarah se paamaal kiya
+  Jite ji mere la'inoṅ ne wohi haal kiya
+  Baandh kar ghoroṅ se paidal mujhe dauraaya gaya
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Us ne abbas ke badle yuṅ sakina se liye
-  Reh gaye haathoṅ meiṅ zaalim ke kuch baal mere
-  Mujhko aaya hi nahi koi churane waala
+  Us ne Abbas ke badle yuṅ Sakina se liye
+  Reh gaye haathoṅ meiṅ zaalim ke kuchh baal mere
+  Mujhko aaya hi nahiṅ koi chhuraane waala
   Kya isi din ke liye...
   Jor kar nanhe se...
-  Sun ke mohsin ye buka karte the sab arsh nashiṅ
-  Jo sakina thi sukuṅ us ke muqaddar meiṅ nahi
-  Khuṅ meiṅ dubi hai tumhari wo tahajjud ki dua
+  Sun ke Mohsin ye bukaa karte the sab arsh nashiṅ
+  Jo Sakina thi sukuṅ us ke muqaddar meiṅ nahiṅ
+  Khuṅ meiṅ dubi hai tumhaari wo tahajjud ki dua
   Kya isi din ke liye...
   Jor kar nanhe se...
 ---

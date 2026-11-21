@@ -1,38 +1,66 @@
 ---
-title: "Qasim Banra Shadi Tedi Bilawal Ali Hussaini Lyrics In Saraiki 2021"
+title: "قاسم بݨڑا شادی تیڈی"
+alternateTitle: "Qasim Banra Shadi Tedi"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Johar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qasim banra shadi tedi Bilawal Ali Hussaini
+  Qasim banra shadi taidi da kehra haal sanrawaan
+
+  1
+  Kehra haal sanrawaan paiyaan rondiyaan phophiyaan mawaan
+  Gana mehndi soanr sare raas na taikun aaye
+  Luti jawani taidi qaza ne sehrey taun sadqay jawaan
+  Dora
+
+  2
+  Har maa koon aas aa hondi hay oh kissi ki di putar jawanr aye
+  Jadaan dekh si putar de sar te sehra oh khush theesi baon rab janrey
+  Taikun thayiyaan naseeb na lawaan Qasim toray soanr kitay sajna ne
+  Na shadi raas aayi taikun bachra gayiya dil wich reh armanr aye
+
+  3
+  Hun umeedaan maa taidi koon putar main parnesaan
+  Hai afsoos jo Qasim taikun hoiyaan naseeb na lawaan
+  Lash bane te aakhiya banri das way chachey jaya
+  Lash te beh ke wainr karan ya Sham di qaid nibhawaan
+
+  4
+  Gand de wich main bewah thayi haan puchiya banri maa koon
+  Saij te beh ke wainr karan ya maut diyaan mitiyaan pawaan
+  Khushi de badlay janj te taidi matam kardi payi hay
+  Rab di mansha sariyaan Johar ditiyaan badal salawaan
 ---
 
-Qasim Banra Shadi Tedi Bilawal Ali Hussaini.
-Qasim Banra Shadi Taidi Da Kehra Haal Sanrawaan.
+قاسم بݨڑا شادی تیڈی بلاول علی حسینی
+قاسم بݨڑا شادی تیڈی دا کیہڑا حال سݨراواں
 
-1
-Kehra Haal Sanrawaan Paiyaan Rondiyaan Phophiyaan Mawaan.
-Gana Mehndi Soanr Sare Raas Na Taikun Aaye.
-Luti Jawani Taidi Qaza Ne Sehrey Taun Sadqay Jawaan.
-Dora.
+۱
+کیہڑا حال سݨراواں پئیاں روندیاں پھپھیاں ماواں
+گانا مہندی سوہݨ سارے راس نہ تیکوں آئے
+لُٹی جوانی تیڈی قضا نے سہرے توں صدقے جاواں
+دوڑا
 
-2
-Har Maa Koon Aas Aa Hondi Hay Oh Kissi Ki Di Putar Jawanr Aye.
-Jadaan Dekh Si Putar De Sar Te Sehra Oh Khush Theesi Baon Rab Janrey.
-Taikun Thayiyaan Naseeb Na Lawaan Qasim Toray Soanr Kitay Sajna Ne.
-Na Shadi Raas Aayi Taikun Bachra Gayiya Dil Wich Reh Armanr Aye.
+۲
+ہر ماں کوں آس آ ہوندی ہے اوہ کسی کی دی پتر جواݨ اے
+جڈاں ڈیکھ سی پتر دے سر تے سہرا اوہ خوش تھیسی بہوں رب ڄاݨے
+تیکوں تھئیاں نصیب نہ لاواں قاسم توڑے سوہݨ کیتے سجݨاں نے
+نہ شادی راس آئی تیکوں بچڑا ڳیا دل وچ رہ ارماݨ اے
 
-3
-Hun Umeedaan Maa Taidi Koon Putar Main Parnesaan.
-Hai Afsoos Jo Qasim Taikun Hoiyaan Naseeb Na Lawaan.
-Lash Bane Te Aakhiya Banri Das Way Chachey Jaya.
-Lash Te Beh Ke Wainr Karan Ya Sham Di Qaid Nibhawaan.
+۳
+ہݨ امیداں ماں تیڈی کوں پتر میں پرݨیساں
+ہائے افسوس جو قاسم تیکوں ہوئیاں نصیب نہ لاواں
+لاش بݨے تے آکھیا بݨڑی دس وے چاچے جایا
+لاش تے بہہ کے ویݨ کراں یا شام دی قید نبھاواں
 
-4
-Gand De Wich Main Bewah Thayi Haan Puchiya Banri Maa Koon.
-Saij Te Beh Ke Wainr Karan Ya Maut Diyaan Mitiyaan Pawaan.
-Khushi De Badlay Janj Te Taidi Matam Kardi Payi Hay.
-Rab Di Mansha Sariyaan Johar Ditiyaan Badal Salawaan.
+۴
+گنڈ دے وچ میں بیوہ تھئی ہاں پچھیا بݨڑی ماں کوں
+سیج تے بہہ کے ویݨ کراں یا موت دیاں مٹیاں پاواں
+خوشی دے بدلے جنج تے تیڈی ماتم کردی پئی ہے
+رب دی منشا ساریاں جوہر دتیاں بدل سالاواں

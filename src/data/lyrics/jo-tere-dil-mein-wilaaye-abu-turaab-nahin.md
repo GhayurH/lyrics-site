@@ -1,7 +1,7 @@
 ---
 title: "جو تیرے دل میں ولائے ابو تراب نہیں"
 recitationId: "jo-tere-dil-mein-wilaye-abu-turab-nahi"
-alternateTitle: "Jo Tere Dil Meiṅ Wilaaye Abu Turaab Nahiṅ"
+alternateTitle: "Jo Tere Dil Mein Wilaaye Abu Turaab Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,8 +12,8 @@ tags: []
 aliases: ["jo-tere-dil-mein-wilaye-abu-turab-nahi-chakwal-party"]
 published: true
 romanLyrics: |-
-  Jo tere dil meiṅ wilaaye Abu Turaab nahiṅ
-  Mare to Kaabe meiṅ phir bhi koi sawaab nahiṅ
+  Jo tere dil mein wilaaye Abu Turaab nahiṅ
+  Mare to Kaabe mein phir bhi koi sawaab nahiṅ
 
   1
   Ali wali ke fazaail ki had kahaaṅ tak hai
@@ -29,19 +29,19 @@ romanLyrics: |-
 
   4
   Ali ko jis ne bhi chhora jahaaṅ kahiṅ chhora
-  Meri nazar meiṅ woh banda izzat maab nahiṅ
+  Meri nazar mein woh banda izzat maab nahiṅ
 
   5
-  Bare baroṅ meiṅ Nabi ne Ali ko mard kaha
+  Bare baroṅ mein Nabi ne Ali ko mard kaha
   Nabi ne aisa kisi ko diya khitaab nahiṅ
 
   6
   Habib ne yeh bataaya zamaane waaloṅ ko
-  Ali ho dil meiṅ to dhalta kabhi shabaab nahiṅ
+  Ali ho dil mein to dhalta kabhi shabaab nahiṅ
 
   7
   Jo aik roti ke badle qataar deta hai
-  Mere Ali sa jahaaṅ meiṅ koi nawaab nahiṅ
+  Mere Ali sa jahaaṅ mein koi nawaab nahiṅ
 
   8
   Ali wali ki jo ulfat nibha ke marta hai
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   9
   Tabarra gin ke kabhi bhi nahiṅ kiya aise
-  Maiṅ is amal ka to rakhta kabhi hisaab nahiṅ
+  Main is amal ka to rakhta kabhi hisaab nahiṅ
 ---
 جو تیرے دل میں ولائے ابو تراب نہیں
 مرے تو کعبے میں پھر بھی کوئی ثواب نہیں

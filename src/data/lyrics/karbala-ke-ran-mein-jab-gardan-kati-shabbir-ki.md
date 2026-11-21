@@ -21,11 +21,11 @@ romanLyrics: |-
 
   2
   Haaye marte waqt Akbar ne kiya paani talab
-  Dil ko thaame kaaṅp uthi bekasi Shabbir ki
+  Dil ko thaame kaanp uthi bekasi Shabbir ki
 
   3
   Jis tarah daane bikhar jaaeṅ kisi tasbih ke
-  Asr-e-Ashura ko yuṅ aulaad thi Shabbir ki
+  Asr-e-Aashura ko yuṅ aulaad thi Shabbir ki
 
   4
   Jalte khaimoṅ se uthi Zainab to keh kar ya Ali
@@ -48,7 +48,7 @@ romanLyrics: |-
   Der tak us ghar meiṅ maaṅ roti rahi Shabbir ki
 
   9
-  Majlisoṅ meiṅ baaṅtiye fikr-e-Husaini ki ziya
+  Majlisoṅ meiṅ baantiye fikr-e-Husaini ki ziya
   Is ko kehte haiṅ Musaddiq naukri Shabbir ki
 ---
 کربلا کے رَن میں جب گردن کٹی شبیر کی

@@ -16,13 +16,13 @@ romanLyrics: |-
   Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   1
-  Bibi pe yuṅ to shaam-e-gharibaṅ se thi jafa
-  Baazaar-e-Shaam aaya to sar par na thi rida
+  Bibi pe yuṅ to shaam-e-gharibaaṅ se thi jafaa
+  Baazaar-e-Shaam aaya to sar par na thi ridaa
   Naize se sar jo Hazrat-e-Abbas ka gira
   Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   2
-  Barsaat pattharoṅ ki charaaghaṅ ka chaar su
+  Barsaat pattharoṅ ki charaaghaaṅ ka chaar su
   Pehle hi taaziyaane baraste the ku ba ku
   Behne laga jo aankh se Sajjad ke lahu
   Zainab shahid ho gayi baazaar-e-Shaam meiṅ
@@ -34,8 +34,8 @@ romanLyrics: |-
   Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   4
-  Bhai ka sar sinaṅ pe tha zulfeṅ lahu meiṅ tar
-  Nok-e-sinaṅ pe Aun o Muhammad ke dekhe sar
+  Bhai ka sar sinaaṅ pe tha zulfeṅ lahu meiṅ tar
+  Nok-e-sinaaṅ pe Aun o Muhammad ke dekhe sar
   Chhote se ek sar pe pari jis ghari nazar
   Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 

@@ -28,12 +28,12 @@ romanLyrics: |-
   Muztarib hai tera bhaiya haaye maasum Sakina
 
   4
-  Apne Baaba se kiya tha tu ne jo sabr ka waada
+  Apne baaba se kiya tha tu ne jo sabr ka waada
   Kis saliqe se nibhaaya haaye maasum Sakina
 
   5
   Zulm kitne hue tujh par chhin gaye kaanoṅ se gohar
-  Aur rassi meiṅ gala tha haaye maasum Sakina
+  Aur rassi mein gala tha haaye maasum Sakina
 
   6
   Kabhi zaalim ke tamaanche taaziyaane kabhi durre
@@ -44,7 +44,7 @@ romanLyrics: |-
   Khun kaanoṅ se hai behta haaye maasum Sakina
 
   8
-  Kaise behlaauṅ tujhe maiṅ kaise samjhaauṅ tujhe maiṅ
+  Kaise behlaauṅ tujhe main kaise samjhaauṅ tujhe main
   Imtihaaṅ hai mera kaisa haaye maasum Sakina
 
   9
@@ -53,11 +53,11 @@ romanLyrics: |-
 
   10
   Dafn kaise kare tujh ko dekho Sajjad ko dekho
-  Hai wo zanjir meiṅ jakra haaye maasum Sakina
+  Hai wo zanjir mein jakra haaye maasum Sakina
 
   11
-  Kaise bhulega zamaana gham Rashid us Bibi ka
-  Shor zindaaṅ meiṅ bapa hai haaye maasum Sakina
+  Kaise bhule ga zamaana gham Rashid us Bibi ka
+  Shor zindaaṅ mein bapa hai haaye maasum Sakina
 ---
 پیاسی مظلوم یتیمہ ہاے معصوم سکینہ
 ہاے معصوم سکینہ ہاے معصوم سکینہ

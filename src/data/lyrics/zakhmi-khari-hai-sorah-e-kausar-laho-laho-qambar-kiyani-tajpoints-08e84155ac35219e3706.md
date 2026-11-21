@@ -1,41 +1,72 @@
 ---
-title: "Zakhmi Khari Hai Sorah E Kausar Laho Laho Qambar Kiyani"
+title: "زخمی کھڑی ہے سورۂ کوثر لہو لہو قمبر کیانی"
+alternateTitle: "Zakhmi Khari Hai Sorah E Kausar Laho Laho Qambar Kiyani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zakhmi khari hai sorah e Kausar laho laho Qambar Kiyani
+  Yeh Fatima hai natiq-e-Quraan ki aabro
+  Jo sabar ki rasan mein hain pehle se hi bandhay
+  Kyun hath bandhtay ho yeh Haider ke our gulu
+
+  2
+  Rota hai khon sabar bhi Haider ke samne
+  Ghar mein hoi jo Fatima, Qunfuz ke robaro
+  Mushkil kusha pe waqt yeh kaisa hai aa gaya
+  Farman-e-Mustafa ki bhi rakhni thi aabro
+
+  3
+  Qaidi bana ke le gaye Haider ko jab laeen
+  Zahra lipat ke bachoon se takti thi chaar so
+  Tarpay they khud Rasool bhi oss waqt qabar mein
+  Jis waqt ki laeen ne Zahra se guftgu
+
+  4
+  Qabrein kayi jagah pe bana kar Batool ki
+  Rotay hain aasmaan ko Ali dekhtey kabho
+  Zakhmi thi par Ali ko bachaney woh aa gayi
+  Har zakhm uthati rahi Imran ki baho
+
+  5
+  Matam namaz hai meri Zahra ke lal ka
+  Ashk-e-azza ho jaisay meri aankh ka wozu
+  Tameer hath se karey roza Batool ka
+  Har matami ki bas yehi Qambar hai aarzu
 ---
 
-1
-Zakhmi Khari Hai Sorah e Kausar Laho Laho Qambar Kiyani.
-Yeh Fatima Hai Natiq-e-Quraan Ki Aabro.
-Jo Sabar Ki Rasan Mein Hain Pehle Se Hi Bandhay.
-Kyun Hath Bandhtay Ho Yeh Haider Ke Our Gulu.
+۱
+زخمی کھڑی ہے سورۂ کوثر لہو لہو قمبر کیانی
+یہ فاطمہ ہے ناطقِ قرآن کی آبرو
+جو صبر کی رسن میں ہیں پہلے سے ہی بندھے
+کیوں ہاتھ باندھتے ہو یہ حیدر کے اور گلو
 
-2
-Rota Hai Khon Sabar Bhi Haider Ke Samne.
-Ghar Mein Hoi Jo Fatima, Qunfuz Ke Robaro.
-Mushkil Kusha Pe Waqt Yeh Kaisa Hai Aa Gaya.
-Farman-e-Mustafa Ki Bhi Rakhni Thi Aabro.
+۲
+روتا ہے خون صبر بھی حیدر کے سامنے
+گھر میں ہوئی جو فاطمہ، قنفذ کے روبرو
+مشکل کشا پہ وقت یہ کیسا ہے آ گیا
+فرمانِ مصطفیٰ کی بھی رکھنی تھی آبرو
 
-3
-Qaidi Bana Ke Le Gaye Haider Ko Jab Laeen.
-Zahra Lipat Ke Bachoon Se Takti Thi Chaar So.
-Tarpay They Khud Rasool Bhi Oss Waqt Qabar Mein.
-Jis Waqt Ki Laeen Ne Zahra Se Guftgu.
+۳
+قیدی بنا کے لے گئے حیدر کو جب لعین
+زہرا لپٹ کے بچوں سے تکتی تھی چار سو
+تڑپے تھے خود رسول بھی اُس وقت قبر میں
+جس وقت کی لعین نے زہرا سے گفتگو
 
-4
-Qabrein Kayi Jagah Pe Bana Kar Batool Ki.
-Rotay Hain Aasmaan Ko Ali Dekhtey Kabho.
-Zakhmi Thi Par Ali Ko Bachaney Woh Aa Gayi.
-Har Zakhm Uthati Rahi Imran Ki Baho.
+۴
+قبریں کئی جگہ پہ بنا کر بتول کی
+روتے ہیں آسمان کو علی دیکھتے کبھو
+زخمی تھی پر علی کو بچانے وہ آ گئی
+ہر زخم اٹھاتی رہی عمران کی بہو
 
-5
-Matam Namaz Hai Meri Zahra Ke Lal Ka.
-Ashk-e-Azza Ho Jaisay Meri Aankh Ka Wozu.
-Tameer Hath Se Karey Roza Batool Ka.
-Har Matami Ki Bas Yehi Qambar Hai Aarzu.
+۵
+ماتم نماز ہے میری زہرا کے لال کا
+اشکِ عزا ہو جیسے میری آنکھ کا وضو
+تعمیر ہاتھ سے کرے روضۂ بتول کا
+ہر ماتمی کی بس یہی قمبر ہے آرزو

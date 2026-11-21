@@ -1,41 +1,71 @@
 ---
-title: "Zainab Hai Sar Barehna Abbas Ro Rahe Hain"
+title: "زینب ہے سر برہنہ، عباس رو رہے ہیں"
+alternateTitle: "Zainab Hai Sar Barehna Abbas Ro Rahe Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab hai sar barehna Abbas ro rahe hain
+  Naizay se gir ke Maula Abbas ro rahe hain
+  Zahra ki betiyaan hain Bazar-e-be-haya hai
+  Ghairat ka hai taqaza Abbas ro rahe hain
+
+  2
+  Aankhon ko band kar ke ghurbat pe bibiyon ki
+  Parh parh ke haye noha Abbas ro rahe hain
+  Bachi ko mangta hai zalim paye kaneezi
+  Ghabrai hai Sakina Abbas ro rahe hain
+
+  3
+  Sar hai sina pe unka jo zamin-e-rida hain
+  Kaise banaein parda Abbas ro rahe hain
+  Sehmi hoi hai kab se dekho tu Fazal ki maa
+  De kon ab dilasa Abbas ro rahe hain
+
+  4
+  Zalim ke taziyane our hain zaeef shane
+  Kis ko bulaye Fizza Abbas ro rahe hain
+  Mehshar numa manzar zalim ne naam le kar
+  Zainab ko hai bulaya Abbas ro rahe hain
+
+  5
+  Sar pe tha jiske saya tatheer ki rida ka
+  Balway mein hai woh dukhiya Abbas ro rahe hain
+  Afraz zalimo ne Sajjad se kaha hai
+  Darbar ab hai jana Abbas ro rahe hain
 ---
 
-1
-Zainab Hai Sar Barehna Abbas Ro Rahe Hain.
-Naizay Se Gir Ke Maula Abbas Ro Rahe Hain.
-Zahra Ki Betiyaan Hain Bazar-e-Be-Haya Hai.
-Ghairat Ka Hai Taqaza Abbas Ro Rahe Hain.
+۱
+زینب ہے سر برہنہ، عباس رو رہے ہیں
+نیزے سے گر کے مولا عباس رو رہے ہیں
+زہرا کی بیٹیاں ہیں، بازارِ بے حیا ہے
+غیرت کا ہے تقاضا، عباس رو رہے ہیں
 
-2
-Aankhon Ko Band Kar Ke Ghurbat Pe Bibiyon Ki.
-Parh Parh Ke Haye Noha Abbas Ro Rahe Hain.
-Bachi Ko Mangta Hai Zalim Paye Kaneezi.
-Ghabrai Hai Sakina Abbas Ro Rahe Hain.
+۲
+آنکھوں کو بند کر کے غربت پہ بیبیوں کی
+پڑھ پڑھ کے ہائے نوحہ، عباس رو رہے ہیں
+بچی کو مانگتا ہے ظالم پئے کنیزی
+گھبرائی ہے سکینہ، عباس رو رہے ہیں
 
-3
-Sar Hai Sina Pe Unka Jo Zamin-e-Rida Hain.
-Kaise Banaein Parda Abbas Ro Rahe Hain.
-Sehmi Hoi Hai Kab Se Dekho Tu Fazal Ki Maa.
-De Kon Ab Dilasa Abbas Ro Rahe Hain.
+۳
+سر ہے سناں پہ ان کا جو ضامنِ ردا ہیں
+کیسے بنائیں پردہ، عباس رو رہے ہیں
+سہمی ہوئی ہے کب سے دیکھو تو فضل کی ماں
+دے کون اب دلاسا، عباس رو رہے ہیں
 
-4
-Zalim Ke Taziyane Our Hain Zaeef Shane.
-Kis Ko Bulaye Fizza Abbas Ro Rahe Hain.
-Mehshar Numa Manzar Zalim Ne Naam Le Kar.
-Zainab Ko Hai Bulaya Abbas Ro Rahe Hain.
+۴
+ظالم کے تازیانے اور ہیں ضعیف شانے
+کس کو بلائے فضہ، عباس رو رہے ہیں
+محشر نما منظر ظالم نے نام لے کر
+زینب کو ہے بلایا، عباس رو رہے ہیں
 
-5
-Sar Pe Tha Jiske Saya Tatheer Ki Rida Ka.
-Balway Mein Hai Woh Dukhiya Abbas Ro Rahe Hain.
- Afraz Zalimo Ne Sajjad Se Kaha Hai.
-Darbar Ab Hai Jana Abbas Ro Rahe Hain.
+۵
+سر پہ تھا جس کے سایہ تطہیر کی ردا کا
+بلوے میں ہے وہ دکھیّا، عباس رو رہے ہیں
+افراز ظالموں نے سجاد سے کہا ہے
+دربار اب ہے جانا، عباس رو رہے ہیں

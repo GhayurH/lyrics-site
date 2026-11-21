@@ -13,6 +13,7 @@ aliases: ["Charaghe Hussain"]
 published: true
 romanLyrics: |-
   Charagh-e-Husain
+
   Phaili hui hai khushbueṅ baagh-e-Husain ki
   Har simt roshni hai charagh-e-Husain ki
 
@@ -24,34 +25,34 @@ romanLyrics: |-
 
   2
   Isi ke nur se dunya ye jagmagaayi hai
-  Hayaat Shams o Qamar ne isi se paayi hai
+  Hayaat shams o qamar ne isi se paayi hai
   Diyaar-e-zulm se Hur is taraf jo aaya hai
   Isi charagh ke lau Hur ko khench laayi hai
 
   3
-  Husainiyat ka jigar meiṅ charagh jalta hai
-  Shuur o fikr o nazar meiṅ charagh jalta hai
+  Husainiyat ka jigar mein charagh jalta hai
+  Shuur o fikr o nazar mein charagh jalta hai
   Kabhi namaaz ki surat kabhi azaaṅ ban ke
-  Khuda-e-paak ke ghar meiṅ charagh jalta hai
+  Khuda-e-paak ke ghar mein charagh jalta hai
 
   4
-  Ye baat haq hai ke nur-e-tahur is meiṅ hai
-  Tajalliyaat Rahim o Ghafur is meiṅ hai
+  Ye baat haq hai ke nur-e-tahur isi mein hai
+  Tajalliyaat Rahim o Ghafur is mein hai
   Har ek shakhs ise dekh hi nahiṅ sakta
-  Jo koh-e-Tur pe chamka woh nur is meiṅ hai
+  Jo koh-e-Tur pe chamka woh nur is mein hai
 
   5
-  Shumaar is ka hai maabud ke naginoṅ meiṅ
-  Isi ki aag hai maulaiyoṅ ke sinoṅ meiṅ
+  Shumaar is ka hai maabud ke naginoṅ mein
+  Isi ki aag hai maulaiyoṅ ke sinoṅ mein
   Isi charagh se hai raunaq-e-azaadaari
-  Yehi charagh to roshan hai shah nashinoṅ meiṅ
+  Yehi charagh to roshan hai shah nashinoṅ mein
 
-  Har ek sadi ki sada Husain zindaabaad
-  Bayaaz-e-dil pe likha Husain zindaabaad
-  Payambaroṅ ne kaha Husain zindaabaad
+  Har ek sadi ki sada Husain zinda baad
+  Bayaaz-e-dil pe likha Husain zinda baad
+  Payambaroṅ ne kaha Husain zinda baad
 
   6
-  Kabhi to surat-e-beshir meiṅ hai muskaaya
+  Kabhi to surat-e-beshir mein hai muskaaya
   Bana ye sina-e-Akbar sinaaṅ ka phal khaaya
   Husain ban ke yehi nur baad-e-Aashura
   Quran parhte hue bar sar-e-sinaaṅ aaya
@@ -60,24 +61,24 @@ romanLyrics: |-
   Khusha nasib jo hum ko mili hai Karbobala
   Husainiyoṅ ke liye zindagi hai Karbobala
   Jise ye saara zamaana salaam karta hai
-  Usi charagh se roshan hui hai Karbobala
+  Isi charagh se roshan hui hai Karbobala
 
   Sune ye saara zamaana wafa Husain se hai
   Hamaari khuld ka har raasta Husain se hai
 
   8
   Dar-e-Husain pe jo shakhs jaa nahiṅ sakta
-  Hisaar-e-nur meiṅ is ke woh aa nahiṅ sakta
+  Hisaar-e-nur mein is ke woh aa nahiṅ sakta
   Husain ibn-e-Ali ne ise jalaaya hai
   Ise koi bhi Yazidi bujha nahiṅ sakta
 
   9
-  Nur us ka chhupa nahiṅ har ek ko dikha nahiṅ
+  Nur us ka chhupa nahiṅ har ik ko dikha nahiṅ
   Dushman ko mila nahiṅ zaalim se bujha nahiṅ
 
   10
   Yazidiyat ke andheroṅ ko maarne waala
-  Yehi hai dasht meiṅ hal min pukaarne waala
+  Yehi hai dasht mein hal min pukaarne waala
   Shahaadatoṅ ko ziya baar kar diya is ne
   Yehi hai Jaun ki surat nikhaarne waala
 
@@ -85,7 +86,7 @@ romanLyrics: |-
   Dua hai phulta phalta rahe charagh-e-Husain
   Hawa-e-zulm kuchalta rahe charagh-e-Husain
   Faqat yehi hai dua-e-Kumail o Aamir ki
-  Aza ki shakl meiṅ jalta rahe charagh-e-Husain
+  Aza ki shakl mein jalta rahe charagh-e-Husain
 
   12
   Mera Imam Husain mera kalaam Husain

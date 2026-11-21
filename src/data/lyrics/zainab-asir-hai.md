@@ -13,14 +13,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab asir hai mere Ghaazi duhaai hai
-  Sar pe musibatoṅ ki ghata mere chhaai hai
+  Sar pe musibatoṅ ki ghataa mere chhaai hai
 
   1
-  Jalti zamin hai paaoṅ meiṅ naalain bhi nahiṅ
+  Jalti zamin hai paaoṅ mein naalain bhi nahiṅ
   Aur khaar daar raaheṅ haiṅ teri duhaai hai
 
   2
-  Jaa kar watan kahuṅ gi maiṅ Naana ki qabr par
+  Jaa kar watan kahuṅ gi main Naana ki qabr par
   Bhaai ko kho ke Zainab-e-dilgir aai hai
 
   3
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Mehmaan bula ke karne lage sang baariyaaṅ
-  Kufe meiṅ ham pe kaisi musibat ye aai hai
+  Kufe mein ham pe kaisi musibat ye aai hai
 
   5
   Bhaiya teri behan pe masaaib bahut hue

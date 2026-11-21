@@ -8,63 +8,38 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab ne kaha ye ro ro kar
-
-  Do hausla baba zainab ko
-
+romanLyrics: |-
+  Zainab ne kaha ye ro ro kar
+  Do hausla Baba Zainab ko
 
   1
-
-  Tanha hai layeeno may dukhtar, do hausla baba Zainab ko
-
+  Tanha hai la'inoṅ meiṅ dukhtar, do hausla Baba Zainab ko
+  Baba maiṅ bari beti huṅ teri sab badla lenge mujh se tera
+  Logoṅ ke badalte haiṅ tewar, do hausla Baba Zainab ko
 
   2
-
-  1) Baba mai baari beti hu teri sab badla lengay mujhse tera
-
-  Logon kay badaltay hai tewar, do hausla baba Zainab ko
-
+  Ye Zainab hai Kulsum hai ye aapas meiṅ sitamgaar kehte haiṅ
+  Hanste haiṅ tamaashai ham par, do hausla Baba Zainab ko
 
   3
-
-  2) Ye Zainab hai Kulsoom hai yeh aapas may sitamgaar kehtay hai
-
-  Hastay hai tamshayi hum par, do hausla baba Zainab ko
-
+  Himmat yuṅ barhaao beti ki Aabid ko bacha kar le jaae
+  Har ghar se baraste haiṅ patthar, do hausla Baba Zainab ko
 
   4
-
-  3) Himmat yun baarhawo beti ki Abid ko bachakar lejaye
-
-  Haar ghaar say barastay hai pathar, do hausla baba Zainab ko
-
+  Ehsaas rida ka hoga mujhe tum haath mere sar par rakh do
+  Mushkil hai agar dena chaadar, do hausla Baba Zainab ko
 
   5
-
-  4) Ehsas rida ka hoga mujhe tum haath meray saar paar rakhdo
-
-  Mushkil hai agaar dena chadar, do hausla baba Zainab ko
-
+  Logoṅ ki nigaaheṅ uthti haiṅ tashhir ki zarbeṅ chalti haiṅ
+  Beti hai teri zer-e-khanjar, do hausla Baba Zainab ko
 
   6
-
-  5) Logon ki nighain uth-ti hai tasheer ki zarbain jalti hai
-
-  Beti hai teri zeray khanjar, do hausla baba Zainab ko
-
+  Darbaar ke us darwaaze par ammaṅ ko sambhaala tha tum ne
+  Darbaar ke is darwaaze par, do hausla Baba Zainab ko
 
   7
-
-  6) Darbar kay us darwaze paar amma ko sambhala ta tumnay
-
-  Darbar kay is darwaze paar, do hausla baba Zainab ko
-
-
-  8
-
-  7) Boli wo takallum logon may amma ko bulaun to kaise
-
-  Beti ke liye bankar chadar, do hausla baba Zainab ko'
+  Boli wo Takallum logoṅ meiṅ ammaṅ ko bulaao to kaise
+  Beti ke liye ban kar chaadar, do hausla Baba Zainab ko
 ---
 
 زینب نے کہا یہ رورو کر

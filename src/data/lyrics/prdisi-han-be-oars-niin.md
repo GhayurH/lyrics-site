@@ -1,30 +1,50 @@
 ---
 title: "پردیسی ہاں بے وارث نئیں"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+alternateTitle: "Pardesi Haan Baywaris Nay"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Pardesi haan, baywaris nay, meray waris laash tay avan gay
+
+  1
+  Kul Syed chor mazara nu, mera aan janaza chawan gay
+
+  2
+  Mai bachra Musa Kazim da, mera lakab aai Gharibul Ghurba
+  Babay di tanha qaid vanghu
+  Meray kalya saa mukjavan gay
+
+  3
+  Na vekhyea dukh main maktal da, na tapdi rait tey lashay
+  Bina-kafan jo Karbal dafan hoyi
+  Aj menu kafan pawawan gay
+
+  4
+  Haroon day zehar da har qatra Sadaat nu maar geya ay
+  Baghdad tey Shaam day sab qaidi
+  Meri mayat tay aa kurlawan gay
 ---
 
-Pardesi haan, baywaris nay, meray waris laash tay avan gay
+پردیسی ہاں، بے وارث نئیں، میرے وارث لاش تے آون گے
 
-1
-Kul syed chor mazara nu,  mera aan janaza chawan gay
+۱
+کل سید چھوڑ مزاراں نوں، میرا آں جنازہ چاون گے
 
-2
-1) Mai bachra Musa Kazim da, mera lakab aai gharibul ghurba
-Babay di tanha qaid vanghu
-Meray kalya saa mukjavan gay
+۲
+میں بچڑا موسیٰ کاظم دا، میرا لقب اے غریب الغربا
+بابے دی تنہا قید وانگوں
+میرے کلیاں ساہ مک جاون گے
 
-3
-2) Na vekhyea dukh main maktal da, na tapdi rait tey lashay
-Bina-kafan jo Karbal dafan hoyi
-Aj menu kafan pawawan gay
+۳
+نہ ویکھیا دکھ میں مقتل دا، نہ تپدی ریت تے لاشے
+بنا کفن جو کربل دفن ہوئی
+اج مینوں کفن پاواون گے
 
-4
-3) Haroon day zehar da har qatra Sadaat nu maar geya ay
-Baghdad tey Shaam day sab qaidi
-Meri mayat tay aa kurlawan gay
+۴
+ہارون دے زہر دا ہر قطرہ سادات نوں مار گیا اے
+بغداد تے شام دے سب قیدی
+میری میت تے آ کرلاون گے

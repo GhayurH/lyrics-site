@@ -1,0 +1,28 @@
+---
+title: "Ya Ali Jewan Tere Lal Hasan Sadiq Lyrics In Punjabi 2020"
+language: "Panjabi"
+lang: "pa"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Khursheed"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Ya Ali Jewan Tere Lal Hasan Sadiq.
+Rahway Har Dil Andar Kehway Mast Qalandar.
+Teri Arshaan Te Parwaz Mainu V Shahbaz Bana Ke Kita Karam Kamal.
+Hasan, Hussain, Sajjad Te Baqir, Jafar Sadiq, Mosa Kazim.
+Raza, Taqi, Naqi, Hasan Askari, Mehdi Aan Gay Aakhir.
+Rab Di Zaat Banai Jag Layi Khaki Teri Aal.
+Lal Tere Ne Nezay Te Charh Hai Quran Sunaya.
+Sir Sajday Wich De Ke Jis Ne Hai Islam Bachaya.
+Tere Lalaan Di Ais Jag Te Kithay Na Miley Misal.
+Tere Alam Bardar Ne Kitiyaan Main Lalan Te Chawaan.
+Har Dam Naal Dhamalaan Pa Ke Ayho Wird Pakawaan.
+Tere Sadqay Dar Mere Te Jag Aounda Har Saal.
+Main Hussaini Lal De Wehray Nori Aawan Sare.
+Ais Dar Te Khursheed V Jhukda Jhukday Ne Chan Taray.
+Kul Wali Abdal V Aounday Tere Karam De Naal.

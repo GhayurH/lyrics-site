@@ -13,57 +13,57 @@ aliases: []
 published: true
 romanLyrics: |-
   Qaid meiṅ chaudah baras zulm o sitam dhaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
   Phir nishaan-e-ismat-e-saadaat mitwaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   1
-  Qaid kar ke le ke aaye Kaazim-e-naushad ko
+  Qaid kar ke le aaye Kaazim-e-naushad ko
   Phir azaadaar-e-janaab-e-Sayyid-e-Sajjad ko
   Paaoṅ meiṅ beri gale meiṅ tauq pehnaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   2
   Yaad Aabid ki asiri aa gayi rote rahe
-  Pesh-e-haakim pa barehna haaye peshi ke liye
+  Pesh-e-haakim pe barehna haaye peshi ke liye
   Jis ghari sarkaar ko darbaar meiṅ laaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   3
   Chaar jaanib ghup andhera tha ke jaise qabr ho
   Qaid khaana aisa lagta tha ke jaise qabr ho
   Jite ji is qabr meiṅ maula ko dalwaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   4
   Qaid khaane ki aziyat kam thi kya ae zaalimoṅ
   Kiuṅ Nabi ki aal se itni adaawat hai kaho
-  Dhaa liye sab zulm to phir zehr dilwaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Dhaa liye sab zulm phir zehr dilwaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   5
   Jis tarah Zainab hui thi apne baaba se juda
-  Bepadar Maasuma-e-Qum bhi hui wa ghurbata
+  Be parda Maasuma-e-Qum bhi hui wa ghurbata
   Bekhata jaise Ali ko qatl karwaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   6
   Fatima Sughra ko jaise yaad karte the Husain
   Us tarah milta na tha beti ke bin Kaazim ko chain
   Qaid khaane ko bhi Baitul Huzn banwaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   7
   Chand mazduroṅ ne laashe ko uthaaya aap ke
   Aur janaaza pul pe laa ke rakh diya Baghdad ke
   Haaye zanjiroṅ meiṅ bhi mayyat ko bandhwaaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 
   8
   Ghul hua kaunain meiṅ maara gaya ek bekhata
-  Ho gaye haiṅ bepadar Maula Raza Yasir Raza
+  Ho gaye haiṅ be parda Maula Raza Yasir Raza
   Haaye Maasuma ke sar se baap ka saaya gaya
-  Kaazim-e-muztar ko tarpaaya gaya
+  Kaazim-e-Muztar ko tarpaaya gaya
 ---
 قید میں چودہ برس ظلم و ستم ڈھایا گیا
 کاظم مضطر کو تڑپایا گیا

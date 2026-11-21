@@ -16,7 +16,7 @@ romanLyrics: |-
   Zakhmi jo ran meiṅ Qasim-e-gul pairahan hua
   Paida shaahaana jore se rang-e-kafan hua
   Baagh-e-jinaaṅ Rasul ko Bait-ul-Hazan hua
-  Aur fauj-e-kiṅ meiṅ shaad har ek tegh zan hua
+  Aur fauj-e-kiṅ meiṅ shaad har ak tegh zan hua
   Gul tha ke raund daala hai lashkar ke baagh ko
   Haaṅ ghaazlo bujha do Hasan ke charaagh ko
 
@@ -47,10 +47,10 @@ romanLyrics: |-
   5
   Chillaai ro ke zauja-e-Abbas-e-naujavaaṅ
   Ya Rab tu hai yatim-e-Hasan ka nigahbaan
-  Sun kar ye ghul dulhe ke bhi aaṅsu hue ravaaṅ
+  Sun kar ye ghul dulhe ke bhi aansu hue ravaaṅ
   Le kar balaaeṅ saas pukaari ke meri jaaṅ
-  Khaaliq karega rahm na aah o buka karo
-  Dulha pe aa bani hai maiṅ sadqe dua karo
+  Khaaliq karega rahm, na aah o buka karo
+  Dulha pe aa bani hai main sadqe dua karo
 
   6
   Is iztiraab meiṅ jo suna saas ka sukhan
@@ -63,23 +63,23 @@ romanLyrics: |-
   7
   Ya Rab dulhan bane mujhe guzri na ek shab
   Dulha jo mar gaya to mujhe kya kaheṅge sab
-  Ab tak to sharm se na hilaaye the maiṅ ne lab
-  Par kya karuṅ ke ab hai meri ruh par taab
+  Ab tak to sharm se na hilaaye the main ne lab
+  Par kya karuṅ ke ab hai meri ruh par ta'ab
   Shabbar ke aaftaab ka waqt-e-ghurub hai
-  Dulha se pehle mujhko utha le to khub hai
+  Dulha se pehle mujh ko utha le to khub hai
 
   8
   Sehre ke phul bhi abhi sukhe nahiṅ haiṅ aah
   Jo aa gaya piya randaape ka ya Allah
   Ye aqd tha ke maut thi maatam tha ya ke byaah
-  Baad iske hoga khalq meiṅ kiuṅ kar mera nibaah
+  Baad is ke hoga khalq meiṅ kiuṅ kar mera nibaah
   Uthuṅ jahaaṅ se dilbar-e-Shabbar ke saamne
   Aurat ki maut khub hai shauhar ke saamne
 
   9
   Ghash meiṅ jhuka faras pe jo wo ghairat o qamar
-  Maara kisi ne farq pe ek gurz taan kar
-  Barchhi lagi jo shish ki tukre hua jigar
+  Maara kisi ne farq pe ak gurz taan kar
+  Barchhi lagi jo shish ki, tukre hua jigar
   Girte the asp se ke kamar pe laga tabar
   Taarikh ki tegh khaa ke pukaare Imam ko
   Faryaad ya Husain bacha lo ghulaam ko
@@ -97,7 +97,7 @@ romanLyrics: |-
   Sukhe hue laboṅ pe hai aiṅti hui zabaaṅ
   Daamaad se lipat gaye Hazrat basad fughaaṅ
   Bejaaṅ hua Husain ke aage wo nimjaaṅ
-  Jab laash uthaai Shaah ne to chur ustukhwaan the
+  Jab laash uthaai Shaah ne to ustukhwaan the
   Sab chaand se badan pe sumoṅ ke nishaan the
 
   12

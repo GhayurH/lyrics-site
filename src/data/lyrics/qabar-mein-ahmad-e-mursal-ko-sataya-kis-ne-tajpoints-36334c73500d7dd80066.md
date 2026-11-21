@@ -1,35 +1,59 @@
 ---
-title: "Qabar Mein Ahmad E Mursal Ko Sataya Kis Ne"
+title: "قبر میں احمدِ مرسل کو ستایا کس نے"
+alternateTitle: "Qabar Mein Ahmad E Mursal Ko Sataya Kis Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Fiyaz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qabar mein Ahmad e Mursal ko sataya kis ne
+  Fatima Zahra ko darbar bulaya kis ne
+  Naam na lainay se chup jaye gi tareekh bhala?
+  Jaltay darwazay ko Zahra pe giraya kis ne
+
+  2
+  Jis ke darwazay pe jhuktay hain malaik aa ke
+  Oss ki gustakhi ka mansoba banaya kis ne
+  Hath mein le ke chali Fatima tehreer-e-Nabi
+  Chak karne ke liye hath barhaya kis ne
+
+  3
+  Aaye Hasnain-o-Ali haq ki gawahi ke liye
+  Haq bajanib they tu khamosh karaya kis ne
+  Almiya Bag-e-Fidak baad Muhammad ke howa
+  Zehar khaton ke baba ko pilaya kis ne
+
+  4
+  Jis ki nalain ke sadqay se feham ho hasil
+  Oss pe hizyan ki tohmat ko lagaya kis ne
+  Poch Fiyaz faqat itna sitamgar se sawal
+  Aal-e-Ahmad pe sitam dhana sikhaya kis ne
 ---
 
-1
-Qabar Mein Ahmad e Mursal Ko Sataya Kis Ne.
-Fatima Zahra Ko Darbar Bulaya Kis Ne.
-Naam Na Lainay Se Chup Jaye Gi Tareekh Bhala?
-Jaltay Darwazay Ko Zahra Pe Giraya Kis Ne.
+۱
+قبر میں احمدِ مرسل کو ستایا کس نے
+فاطمہ زہرا کو دربار بلایا کس نے
+نام نہ لینے سے چھپ جائے گی تاریخ بھلا؟
+جلتے دروازے کو زہرا پہ گرایا کس نے
 
-2
-Jis Ke Darwazay Pe Jhuktay Hain Malaik Aa Ke.
-Oss Ki Gustakhi Ka Mansoba Banaya Kis Ne.
-Hath Mein Le Ke Chali Fatima Tehreer-e-Nabi.
-Chak Karne Ke Liye Hath Barhaya Kis Ne.
+۲
+جس کے دروازے پہ جھکتے ہیں ملائک آ کے
+اس کی گستاخی کا منصوبہ بنایا کس نے
+ہاتھ میں لے کے چلی فاطمہ تحریرِ نبی
+چاک کرنے کے لیے ہاتھ بڑھایا کس نے
 
-3
-Aaye Hasnain-o-Ali Haq Ki Gawahi Ke Liye.
-Haq Bajanib They Tu Khamosh Karaya Kis Ne.
-Almiya Bag-e-Fidak Baad Muhammad Ke Howa.
-Zehar Khaton Ke Baba Ko Pilaya Kis Ne.
+۳
+آئے حسنین و علی حق کی گواہی کے لیے
+حق بجانب تھے تو خاموش کرایا کس نے
+المیہ باغِ فدک بعد محمد کے ہوا
+زہر خاتون کے بابا کو پلایا کس نے
 
-4
-Jis Ki Nalain Ke Sadqay Se Feham Ho Hasil.
-Oss Pe Hizyan Ki Tohmat Ko Lagaya Kis Ne.
-Poch Fiyaz Faqat Itna Sitamgar Se Sawal.
-Aal-e-Ahmad Pe Sitam Dhana Sikhaya Kis Ne.
+۴
+جس کی نعلین کے صدقے سے فہم ہو حاصل
+اس پہ ہذیان کی تہمت کو لگایا کس نے
+پوچھ فیاض فقط اتنا ستمگر سے سوال
+آلِ احمد پہ ستم ڈھانا سکھایا کس نے

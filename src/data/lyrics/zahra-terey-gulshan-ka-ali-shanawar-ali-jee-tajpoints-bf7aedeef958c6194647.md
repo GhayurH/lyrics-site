@@ -1,23 +1,35 @@
 ---
-title: "Zahra Terey Gulshan Ka Ali Shanawar & Ali Jee"
+title: "زہرا تیرے گلشن کا"
+alternateTitle: "Zahra Terey Gulshan Ka Ali Shanawar & Ali Jee"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra tere gulshan ka har phool nirala hai
+  Har phool ne sar de ke Islam ko pala hai
+  Afsoos musalmano Ashor ko maqtal mein
+  Quran ke paroon ko naizon pe ochala hai
+  Aye maut kabhi tu ne Zainab se nahi pocha
+  Atharah baras kaisay iss shair ko pala hai
+  Bas qabar hi Zahra ki dobi hai andheron mein
+  Halanke Madine mein har simt ujala hai
+  Sarkar-e-Muhammad hoon osat hoon ke aakhir hoon
+  Zahra ke charagon se har simt ujala hai
 ---
 
-1
-Zahra Terey Gulshan Ka Ali Shanawar & Ali Jee.
-Zahra Tere Gulshan Ka Har Phool Nirala Hai.
-Har Phool Ne Sar De Ke Islam Ko Pala Hai.
-Afsoos Musalmano Ashor Ko Maqtal Mein.
-Quran Ke Paroon Ko Naizon Pe Ochala Hai.
-Aye Maut Kabhi Tu Ne Zainab Se Nahi Pocha.
-Atharah Baras Kaisay Iss Shair Ko Pala Hai.
-Bas Qabar Hi Zahra Ki Dobi Hai Andheron Mein.
-Halanke Madine Mein Har Simt Ujala Hai.
-Sarkar-e-Muhammad Hoon Osat Hoon Ke Aakhir Hoon.
-Zahra Ke Charagon Se Har Simt Ujala Hai.
+۱
+زہرا تیرے گلشن کا ہر پھول نرالا ہے
+ہر پھول نے سر دے کے اسلام کو پالا ہے
+افسوس مسلمانو عاشور کو مقتل میں
+قرآن کے پاروں کو نیزوں پہ اچھالا ہے
+اے موت کبھی تو نے زینب سے نہیں پوچھا
+اٹھارہ برس کیسے اس شیر کو پالا ہے
+بس قبر ہی زہرا کی ڈوبی ہے اندھیروں میں
+حالانکہ مدینے میں ہر سمت اجالا ہے
+سرکارِ محمد ہوں اوسط ہوں کہ آخر ہوں
+زہرا کے چراغوں سے ہر سمت اجالا ہے

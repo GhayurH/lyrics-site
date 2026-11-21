@@ -1,29 +1,48 @@
 ---
-title: "Qaidaan De Wich Sakina Wain Paye Lyrics 2016-17"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "قیداں دے وچ سکینہ وین پائے ۲۰۱۶–۱۷"
+alternateTitle: "Qaidaan De Wich Sakina Wain Paye Lyrics 2016-17"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaidaan de wich Sakina wain paye
+  Mere wangoon zakhmi kana de nal dhi koi babay de na samne jaye
+  Jis dam Ali si aaye Zainab ne ki si kita aye soch ke Sakina
+  Sir aanda wekh ke babay da zindaan di mitiyaan nal walaan nu lokaye
+
+  2
+  Tareekiyaan taun jehri dardi si aj oh aakhay Ulil Amr bhira nu
+  Sajjad hanera qaidaan da kujh hoor wadha baba mainu wekh na paye
+  Babay de sir nu apne seene de naal la ke bethi aye sochdi aye
+  Odhay zakhma di tafseel sunay ya apne zakhma di rodad sunaye
+
+  3
+  Dhi aakhay haye baba piyo aakhay haye Sakina jis welay babay de
+  Zakhmi rukhsaraan te ro ke dhi ne apne zakhmi rukhsar lagaye
+  Akbar, Hussain da sir tadfeen taein apni fair kuj na boliya
+  Rab jane Sakina ne apne babay nu safraan de ki haal sunaye
 ---
 
-1
-Qaidaan De Wich Sakina Wain Paye
-Mere Wangoon Zakhmi Kana De Nal Dhi Koi Babay De Na Samne Jaye.
-Jis Dam Ali Si Aaye Zainab Ne Ki Si Kita Aye Soch Ke Sakina.
-Sir Aanda Wekh Ke Babay Da Zindaan Di Mitiyaan Nal Walaan Nu Lokaye.
+۱
+قیداں دے وچ سکینہ وین پائے
+میرے وانگوں زخمی کنّاں دے نال دھی کوئی بابے دے نہ سامنے جائے
+جس دم علی سی آئے زینب نے کی سی کیتا اے سوچ کے سکینہ
+سر آندا ویکھ کے بابے دا زنداں دی مٹیاں نال والاں نوں لُکائے
 
-2
-Tareekiyaan Taun Jehri Dardi Si Aj Oh Aakhay Ulil Amr Bhira Nu.
-Sajjad Hanera Qaidaan Da Kujh Hoor Wadha Baba Mainu Wekh Na Paye.
-Babay De Sir Nu Apne Seene De Naal La Ke Bethi Aye Sochdi Aye.
-Odhay Zakhma Di Tafseel Sunay Ya Apne Zakhma Di Rodad Sunaye.
+۲
+تاریکیاں توں جیہڑی ڈردی سی اج اوہ آکھے اولی الامر بھرا نوں
+سجاد ہنیرا قیداں دا کجھ ہور ودھا بابا مینوں ویکھ نہ پائے
+بابے دے سر نوں اپنے سینے دے نال لا کے بیٹھی اے سوچدی اے
+اوہدے زخماں دی تفصیل سُنے یا اپنے زخماں دی روداد سنائے
 
-3
-Dhi Aakhay Haye Baba Piyo Aakhay Haye Sakina Jis Welay Babay De.
-Zakhmi Rukhsaraan Te Ro Ke Dhi Ne Apne Zakhmi Rukhsar Lagaye.
- Akbar, Hussain Da Sir Tadfeen Taein Apni Fair Kuj Na Boliya.
-Rab Jane Sakina Ne Apne Babay Nu Safraan De Ki Haal Sunaye.
+۳
+دھی آکھے ہائے بابا پیو آکھے ہائے سکینہ جس ویلے بابے دے
+زخمی رخساراں تے رو کے دھی نے اپنے زخمی رخسار لگائے
+اکبر، حسین دا سر تدفین تائیں اپنی فیر کجھ نہ بولیا
+رب جانے سکینہ نے اپنے بابے نوں سفراں دے کی حال سنائے

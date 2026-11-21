@@ -20,13 +20,13 @@ romanLyrics: |-
 
   1
   Zulm sah sah ke jo aansu the hamesha hi rawaaṅ
-  Wo jo is Bibi ke rukh par the tamaachoṅ ke nishaaṅ
+  Wo jo is Bibi ke rukh par the tamaanchoṅ ke nishaaṅ
   Apne bachchoṅ se chhupaaye wo sada dukhiya ne
 
   2
   Gham ki is maari ko kaunain ki shahzaadi ko
   Ghar ke hujre meiṅ bhi haaye re Nabi zaadi ko
-  Apne baaba pe bhi rone na diya aada ne
+  Apne baaba pe bhi rone na diya aadaa ne
 
   3
   Jalta dar Faatima Zahra pe gira hai dekho

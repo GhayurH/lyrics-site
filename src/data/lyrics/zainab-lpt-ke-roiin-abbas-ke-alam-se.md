@@ -8,68 +8,25 @@ reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab lipat ke roie abbas ke alam se_
-
+romanLyrics: |-
+  Zainab lipat kar roeiṅ Abbas ke nishaaṅ se
+  Aisa ghayur bhaiya laauṅ gi phir kahaaṅ se
 
   1
-
-  Saidaniya thi muztar
-
-  Chehre the zard gham se
-
+  Ik baar tum chacha jaan khaimoṅ mein laut aao
+  Shikwa na phir suno ge paani ka is zabaaṅ se
 
   2
-
-  Lipti huie alam se Kheti thi binte Zehra
-
-  Is waqt bekasi me
-
-  Abbas bhichere hamse
-
+  Sher-e-Ali ka laasha Shabbir le ke aaye
+  Dhunde gi ab Sakina baazu kahaaṅ kahaaṅ se
 
   3
-
-  Abbas mar gayen hai Sunkar khabar yeh She se
-
-  Taswer o yaso hasrat
-
-  Har bibi thi alam se
-
+  Bhule nahiṅ zamaana tashhir-e-Bint-e-Zehra
+  Ghairat tarap rahi thi Abbas ke nishaaṅ se
 
   4
-
-  Aale aba ka gham se joh hal bhi ho kam hai2
-
-  Darya pe la ke mara
-
-  Dharak thi jiske dam se
-
-
-  5
-
-  Bachi ne ma se pucha Kyun itna rorahi ho
-
-  Ammu nahi milenge
-
-  Akhir na aa ke hamse
-
-
-  6
-
-  Baba chacha kahan hai laye ho kyun alam ko
-
-  Yeh puchti thi bacchi
-
-  Lipti huie gham se
-
-
-  7
-
-  Ulfat ki aur wafa ki zinda missal bankar
-
-  Mashke sakina abbhi
-
-  Hai munsalik alam se'
+  Qamri Ali ka laasha us waqt tarap gaya tha
+  Baandha jo zaalimoṅ ne Zainab ko rassiyoṅ se
 ---
 
 زینبؑ لپٹ کر روئيں عباسؑ کے نشاں سے

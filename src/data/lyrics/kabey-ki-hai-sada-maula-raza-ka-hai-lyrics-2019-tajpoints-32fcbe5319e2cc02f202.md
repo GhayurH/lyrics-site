@@ -1,35 +1,60 @@
 ---
-title: "Kabey Ki Hai Sada Maula Raza Ka Hai Lyrics 2019"
+title: "کعبے کی ہے صدا مولا رضا کا ہے"
+alternateTitle: "Kabey Ki Hai Sada Maula Raza Ka Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kabey ki hai sada Maula Raza ka hai
+  Kitna haseen roza Maula Raza ka hai
+  Sehan-e-shifa mein aa ke le jata hai shifa woh
+  Maqrooz youn bhi Esa Maula Raza ka hai
+
+  2
+  Dunya ki shehanshahiyaan chahoon khareed loon main
+  Gar mere pass sika Maula Raza ka hai
+  Ayelan kar rahi hai nobat ki sadaein yeh
+  Ab aane wala pota Maula Raza ka hai
+
+  3
+  Mashhad se pehley jao tum Qum ki taraf dekho
+  Aye zairo yeh kehna Maula Raza ka hai
+  Zamin hai jo jahan mein Rab ke siwa hamara
+  Woh naam bas khudara Maula Raza ka hai
+
+  4
+  Kaisa ghareeb hai yeh ameeri bantta hai
+  Dunya mein youn bhi charcha Maula Raza ka hai
+  Likhta hai jo Dilawar yeh manqabat Raza ki
+  Ahsan mujh pe yeh sara Maula Raza ka hai
 ---
 
-1
-Kabey Ki Hai Sada Maula Raza Ka Hai.
-Kitna Haseen Roza Maula Raza Ka Hai.
-Sehan-e-Shifa Mein Aa Ke Le Jata Hai Shifa Woh.
-Maqrooz Youn Bhi ESA Maula Raza Ka Hai.
+۱
+کعبے کی ہے صدا مولا رضا کا ہے
+کتنا حسین روضہ مولا رضا کا ہے
+صحنِ شفا میں آ کے لے جاتا ہے شفا وہ
+مقروض یوں بھی عیسیٰ مولا رضا کا ہے
 
-2
-Dunya Ki Shehanshahiyaan Chahoon Khareed Loon Main.
-Gar Mere Pass Sika Maula Raza Ka Hai.
-Ayelan Kar Rahi Hai Nobat Ki Sadaein Yeh.
-Ab Aane Wala Pota Maula Raza Ka Hai.
+۲
+دنیا کی شہنشاہیاں چاہوں خرید لوں میں
+گر میرے پاس سکہ مولا رضا کا ہے
+اعلان کر رہی ہے نوبت کی صدائیں یہ
+اب آنے والا پوتا مولا رضا کا ہے
 
-3
-Mashhad Se Pehley Jao Tum Qum Ki Taraf Dekho.
-Aye Zairo Yeh Kehna Maula Raza Ka Hai.
-Zamin Hai Jo Jahan Mein Rab Ke Siwa Hamara.
-Woh Naam Bas Khudara Maula Raza Ka Hai.
+۳
+مشہد سے پہلے جاؤ تم قم کی طرف دیکھو
+اے زائرو یہ کہنا مولا رضا کا ہے
+ضامن ہے جو جہاں میں رب کے سوا ہمارا
+وہ نام بس خدارا مولا رضا کا ہے
 
-4
-Kaisa Ghareeb Hai Yeh Ameeri Bantta Hai.
-Dunya Mein Youn Bhi Charcha Maula Raza Ka Hai.
-Likhta Hai Jo Dilawar Yeh Manqabat Raza Ki.
-Ahsan Mujh Pe Yeh Sara Maula Raza Ka Hai.
+۴
+کیسا غریب ہے یہ امیری بانٹتا ہے
+دنیا میں یوں بھی چرچا مولا رضا کا ہے
+لکھتا ہے جو دلاور یہ منقبت رضا کی
+احسان مجھ پہ یہ سارا مولا رضا کا ہے

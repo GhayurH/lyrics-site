@@ -1,39 +1,65 @@
 ---
-title: "Rang Laal Hogaya Shabbir Day"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "رنگ لال ہو گیا شبیر دے"
+alternateTitle: "Rang Laal Hogaya Shabbir Day"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rang laal hogeya Shabir day kafan da enj loka teer chalaye
+  Aay zakhm nay fil qurba walay jehray mayat aedi tay aaye
+
+  1
+  Teer satar nay jo kadh laye Zainab nay
+  Shabir bahatar laasha da aay naa lay lay kay kurlaye
+
+  2
+  Naal amri day Hassan na kari shikway tu
+  Teray wastay teriyan bhaina nay do waari kafan banaye
+
+  3
+  Aay Madina tera lagda nahin Nana
+  Teray baad Madinay day loka teri aal tay zulm kamaye
+
+  4
+  Naal deewaaran day lag kay ronda aay
+  Abbas nu Murshad jaeyaan nay na larran day hukam sunaye
+
+  5
+  Akhiyan bhar aaeyan aman day shah diyan
+  Qasim day samnay phuphiyan nay jado tukray jigar day chaye
+
+  6
+  Karbal walay nay wasday paye sohnay
+  Baqiye wich Samar barri ghurbat qabraan tay na raye saye
 ---
 
-Rang laal hogeya Shabir day kafan da enj loka teer chalaye..
+رنگ لال ہو گیا شبیر دے کفن دا انج لوکاں تیر چلائے
+اے زخم نیں فی القربیٰ والے جیہڑے میت ایہدی تے آئے
 
-Sani)
-Aay zakhm nay fil qurba walay jehray mayat aedi tay aaye..
+۱
+تیر ستر نیں جو کڈھ لَئے زینب نے
+شبیر بہتر لاشاں دا اے ناں لے لے کے کرلائے
 
-Antra)
-Teer satar nay jo kadh laye Zainab nay
-Shabir bahatar laasha da aay naa lay lay kay kurlaye..
+۲
+نال امڑی دے حسن نہ کریں شکوے توں
+تیرے واسطے تیریاں بھیناں نے دو واری کفن بنائے
 
-Antra)
-Naal amri day Hassan na kari shikway tu
-Teray wastay teriyan bhaina nay do waari kafan banaye..
+۳
+اے مدینہ تیرا لگدا نہیں نانا
+تیرے بعد مدینے دے لوکاں تیری آل تے ظلم کمائے
 
-Antra)
-Aay Madina tera lagda nahin Nana
-Teray baad Madinay day loka teri aal tay zulm kamaye..
+۴
+نال دیواراں دے لگ کے روندا اے
+عباس نوں مرشد جائیاں نے نہ لڑن دے حکم سنائے
 
-Antra)
-Naal deewaaran day lag kay ronda aay
-Abbas nu Murshad jaeyaan nay na larran day hukam sunaye..
+۵
+اکھیاں بھر آئیاں امن دے شاہ دیاں
+قاسم دے سامنے پھپھیاں نے جدوں ٹکڑے جگر دے چائے
 
-Antra)
-Akhiyan bhar aaeyan aman day shah diyan
-Qasim day samnay phuphiyan nay jado tukray jigar day chaye..
-
-Antra)
-Karbal walay nay wasday paye sohnay
-Baqiye wich Samar barri ghurbat qabraan tay na raye saye..
+۶
+کربل والے نیں وسدے پئے سوہنے
+بقیعے وچ ثمر بڑی غربت قبراں تے نہ رہے سائے

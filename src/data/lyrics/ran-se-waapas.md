@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Shah se lipti hui kehti thi Sakina Akbar
-  Ho na ho aap pe barsaayeṅge aada mil kar
+  Ho na ho aap pe barsaayeṅ ge adaa mil kar
   Jitne patthar haiṅ ye maqtal se uthaane wale
 ---
 رن سے واپس میرے بابا نہیں آنے والے

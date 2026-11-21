@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kaha abbas ne aaqa ka mansha aaj le lenge
+  Kaha Abbas ne aaqa ka mansha aaj le lenge
 
   1
-  Sakina ke liye abbas aada se darya aaj le lenge
-  Ali ke sher hai abbas ke tewar batate hai
-  Sitamgaroṅ ke qabze se ye darya aaj le lenge
+  Sakina ke liye Abbas aadaa se darya aaj le lenge
+  Ali ke sher haiṅ Abbas ke tewar bataate haiṅ
+  Sitamgaaroṅ ke qabze se ye darya aaj le lenge
 
   2
-  Sitamgaroṅ se ye aun o mohamed ran meiṅ kehte the
-  Mere hamle dayare shaam o kufa aaj le lenge
+  Sitamgaaroṅ se ye Aun o Muhammad ran meiṅ kehte the
+  Mere hamle dayaar-e-Shaam o Kufa aaj le lenge
 
   3
-  Wiladat keh rahi hai budshikan ki sehn e kaaba meiṅ
-  Khuda waale buthoṅ se apna kaaba aaj le lenge
+  Wilaadat keh rahi hai but shikan ki sehn-e-Kaaba meiṅ
+  Khuda waale butoṅ se apna Kaaba aaj le lenge
 
   4
-  Saji hai karbala tiroṅ se talwaroṅ se naizoṅ se
-  Ye ansar e hussaini jaane kya kya aaj le lenge
+  Saji hai Karbala tiroṅ se talwaaroṅ se naizoṅ se
+  Ye ansaar-e-Husaini jaane kya kya aaj le lenge
 
   5
-  Nikal jayegi hasrat jang ki abbas kehte the
-  Sakina ki sifarish ka sahara aaj le lenge
+  Nikal jaayegi hasrat-e-jang ki Abbas kehte the
+  Sakina ki sifaarish ka sahaara aaj le lenge
 
   6
-  Hai jis se azmate kaaba zamine karbala boli
-  Jabin e shaah e diṅ se hum wo sajda aaj le lenge
+  Hai jis se azmat-e-Kaaba zamin-e-Karbala boli
+  Jabin-e-Shaah-e-diṅ se hum wo sajda aaj le lenge
 
   7
-  Ali ibne kareema ka ho ye hurr sheh se kehta hai
-  Hum apne haath se daaman tumhara aaj le lenge
+  Ali ibn-e-Karima ka ho ye Hurr sheh se kehta hai
+  Hum apne haath se daaman tumhaara aaj le lenge
 
   8
-  Ulat kar aastiṅ abbas bedeeno se kehte hai
-  Ye darya hi nahi hum saari dunya aaj le lenge
+  Ulat kar aastiṅ Abbas bedinoṅ se kehte haiṅ
+  Ye darya hi nahiṅ hum saari duniya aaj le lenge
 
   9
-  Hum aate hai kaha abbas ne e lashkar e aada
-  Jo kal darya tumhara tha wo darya aaj le lenge
+  Hum aate haiṅ kaha Abbas ne ae lashkar-e-aadaa
+  Jo kal darya tumhaara tha wo darya aaj le lenge
 
   10
-  Jhapak jaye nigaah-e-barq jisko dekh kar salik
-  Ali ki madha se aisa ujaala aaj le lenge
+  Jhapak jaaye nigaah-e-barq jisko dekh kar Salik
+  Ali ki madh se aisa ujaala aaj le lenge
 ---
 
 کہا عباس نے آقا کا منشا آج لے لینگے

@@ -13,41 +13,41 @@ aliases: ["Kab Aaoge Ay Baba"]
 published: true
 romanLyrics: |-
   More baba
-  Dil ghar meiṅ nahiṅ lagta kab aaoge ae baba
-  Pardes meiṅ tum jaa ke kya bhul gaye waada
+  Dil ghar mein nahiṅ lagta kab aaoge ae baba
+  Pardes mein tum jaa ke kya bhul gaye waada
   Kab aaoge ae baba mar jaaye gi jab Sughra
-  Dil ghar meiṅ nahiṅ lagta kab aaoge ae baba
+  Dil ghar mein nahiṅ lagta kab aaoge ae baba
 
   1
   Nind ur gayi raatoṅ ki aisi hai pareshaani
-  Ghar meiṅ hai faqat baba chhaai hui viraani
+  Ghar mein hai faqat baba chhaai hui viraani
   Wo zinda nahiṅ rehta ho jaata hai jo tanha
   More baba
-  Pardes meiṅ tum jaa ke kya bhul gaye waada
+  Pardes mein tum jaa ke kya bhul gaye waada
   Kab aaoge ae baba mar jaaye gi jab Sughra
 
   2
-  Ro ro ke nigaahoṅ meiṅ dhundhla gaye sab manzar
+  Ro ro ke nigaahoṅ mein dhundhla gaye sab manzar
   Jis simt bhi dekhuṅ to aate haiṅ nazar Akbar
   Aawaaz magar duṅ to koi bhi nahiṅ aata
   More baba
-  Pardes meiṅ tum jaa ke kya bhul gaye waada
+  Pardes mein tum jaa ke kya bhul gaye waada
   Kab aaoge ae baba mar jaaye gi jab Sughra
 
   3
-  Jab yaad tumheṅ kar ke roti huṅ maiṅ raatoṅ meiṅ
-  Lagta hai koi Bibi aati hai hijaaboṅ meiṅ
+  Jab yaad tumheṅ kar ke roti huṅ main raatoṅ mein
+  Lagta hai koi Bibi aati hai hijaaboṅ mein
   Sine se laga kar wo roti hai mujhe baba
   More baba
-  Pardes meiṅ tum jaa ke kya bhul gaye waada
+  Pardes mein tum jaa ke kya bhul gaye waada
   Kab aaoge ae baba mar jaaye gi jab Sughra
 
   4
-  Khwaaboṅ meiṅ Sakina ko dekha hai bahut maiṅ ne
+  Khwaaboṅ mein Sakina ko dekha hai bahut main ne
   Wo kis ke kate baazu thaame hue roti hai
   Khun kaanoṅ se behta hai rukhsaar hai kiuṅ nila
   More baba
-  Pardes meiṅ tum jaa ke kya bhul gaye waada
+  Pardes mein tum jaa ke kya bhul gaye waada
   Kab aaoge ae baba mar jaaye gi jab Sughra
 
   5
@@ -55,7 +55,7 @@ romanLyrics: |-
   Kehti thi Raza us dam Sughra yehi ro ro kar
   Khun rota hai kiuṅ baadal paani nahiṅ barsaata
   More baba
-  Pardes meiṅ tum jaa ke kya bhul gaye waada
+  Pardes mein tum jaa ke kya bhul gaye waada
   Kab aaoge ae baba mar jaaye gi jab Sughra
 ---
 مورے بابا

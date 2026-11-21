@@ -1,36 +1,62 @@
 ---
-title: "Pehle Namoos E Risalat Ke Azadar Hain Abid Lyrics 2022"
+title: "پہلے ناموسِ رسالت کے عزادار ہیں عابد"
+alternateTitle: "Pehle Namoos E Risalat Ke Azadar Hain Abid"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Pehle namoos e risalat ke azadar hain Abid Ch Faiyaz Party
+  Be kafan baba se milney ko teyar hain Abid
+  Na kafan they na ridaein woh Karbala se chala
+  Chand sa chehra imamat ka zaeefi mein dhala
+  Jab kissi ne yeh kaha ab aagay bazar hain Abid
+  Lut gaye they jo tabaruk woh kuch gareebon ke
+  Dur Sakina ke kuch ridaein sar shaheedon ke
+  Yeh wirasat hai mili haye aisay sardar hain Abid
+  Raku mein pandrah azanein woh sun ke aaya tha
+  Saja ke shehar ko hakim ne jab bulaya tha
+  Khon roye hain wahan haye aisay ghamkhuwar hain Abid
+  Aakhri waqt mein Baqir se Musayab tha suna
+  Aakhri sans ne phir lafz-e-chadar ko chuna
+  Tu bata kalma go kya iss ke haqdar hain Abid
+  Khon aankhon se jo ruk jaye beemar tera
+  Muntazir khuld hai nahi ab bazar tera
+  Ro ke Zainab ne kaha haye mere salar hain Abid
+  Naam jis ne bhi Sakina ka janazay mein liya
+  Larzah tari howa Sajjad ne giriya tha kiya
+  Khoon kafan mein roye haye sun ke har bar hain Abid
+  Itrat-e-Kibriya thi Najfi bazar gayi
+  Beti Syeda ki sharabi ke darbar gayi
+  Khon roney ke liye turbat mein bedar hain Abid
 ---
 
-1
-Pehle Namoos e Risalat Ke Azadar Hain Abid Ch Faiyaz Party.
-Be Kafan Baba Se Milney Ko Teyar Hain Abid.
-Na Kafan They Na Ridaein Woh Karbala Se Chala.
-Chand Sa Chehra Imamat Ka Zaeefi Mein Dhala.
-Jab Kissi Ne Yeh Kaha Ab Aagay Bazar Hain Abid.
-Lut Gaye They Jo Tabaruk Woh Kuch Gareebon Ke.
-Dur Sakina Ke Kuch Ridaein Sar Shaheedon Ke.
-Yeh Wirasat Hai Mili Haye Aisay Sardar Hain Abid.
-Raku Mein Pandrah Azanein Woh Sun Ke Aaya Tha.
-Saja Ke Shehar Ko Hakim Ne Jab Bulaya Tha.
-Khon Roye Hain Wahan Haye Aisay Ghamkhuwar Hain Abid.
-Aakhri Waqt Mein Baqir Se Musayab Tha Suna.
-Aakhri Sans Ne Phir Lafz-e-Chadar Ko Chuna.
-Tu Bata Kalma Go Kya Iss Ke Haqdar Hain Abid.
-Khon Aankhon Se Jo Ruk Jaye Beemar Tera.
-Muntazir Khuld Hai Nahi Ab Bazar Tera.
-Ro Ke Zainab Ne Kaha Haye Mere Salar Hain Abid.
-Naam Jis Ne Bhi Sakina Ka Janazay Mein Liya.
-Larzah Tari Howa Sajjad Ne Giriya Tha Kiya.
-Khoon Kafan Mein Roye Haye Sun Ke Har Bar Hain Abid.
-Itrat-e-Kibriya Thi Najfi Bazar Gayi.
-Beti Syeda Ki Sharabi Ke Darbar Gayi.
-Khon Roney Ke Liye Turbat Mein Bedar Hain Abid.
+۱
+پہلے ناموسِ رسالت کے عزادار ہیں عابد چ فیاض پارٹی
+بے کفن بابا سے ملنے کو تیار ہیں عابد
+نہ کفن تھے نہ ردائیں وہ کربلا سے چلا
+چاند سا چہرہ امامت کا ضعیفی میں ڈھلا
+جب کسی نے یہ کہا اب آگے بازار ہیں عابد
+لٹ گئے تھے جو تبرک وہ کچھ غریبوں کے
+دُر سکینہ کے کچھ ردائیں سر شہیدوں کے
+یہ وراثت ہے ملی ہائے ایسے سردار ہیں عابد
+رکوع میں پندرہ اذانیں وہ سن کے آیا تھا
+سجا کے شہر کو حاکم نے جب بلایا تھا
+خون روئے ہیں وہاں ہائے ایسے غمخوار ہیں عابد
+آخری وقت میں باقر سے مسیّب تھا سنا
+آخری سانس نے پھر لفظِ چادر کو چنا
+تو بتا کلمہ گو کیا اس کے حقدار ہیں عابد
+خون آنکھوں سے جو رک جائے بیمار تیرا
+منتظر خلد ہے نہیں اب بازار تیرا
+رو کے زینب نے کہا ہائے میرے سالار ہیں عابد
+نام جس نے بھی سکینہ کا جنازے میں لیا
+لرزہ طاری ہوا سجاد نے گریہ تھا کیا
+خون کفن میں روئے ہائے سن کے ہر بار ہیں عابد
+عترتِ کبریا تھی نجفی بازار گئی
+بیٹی سیدہ کی شرابی کے دربار گئی
+خون رونے کے لیے تربت میں بیدار ہیں عابد

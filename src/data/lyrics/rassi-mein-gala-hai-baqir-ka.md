@@ -11,119 +11,74 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Chal parra Karb o bala se jab Hussaini qafila
-  Ik rasan may pusht e Abid aur tha Baqar ka gala
-  Sans khanjar ki tarha mehsos jab honay lagi
-  Apne baba jan se ruk kar ye Baqar ne kaha
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Rassi mein gala
+  Chal para Karb o Bala se jab Husaini qaafila
+  Ik rasan mein past-e-Aabid aur tha Baqar ka gala
 
   2
-  Mushkil hay safar mar jaoon ga
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Saaṅs khanjar ki tarah mahsus jab hone lagi
+  Apne baba jaan se ro kar yeh Baqar ne kaha
+  Ae mere baba ae mere baba
+  Rassi mein gala hai Baqar ka tu haule haule chal baba
 
   3
-  Parrhni hay namaz e mazloomi
-  Baba tu imamat karta ja
-  Khud dhoop bhi ham pe roti hay
-  Jalta hay mussala reti ka
-  May shukr ka sajda kar loon ada
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Mushkil hai safar mar jaauṅ ga tu haule haule chal baba
+  Parhni hai namaaz-e-mazlumi baba tu imaamat karta ja
+  Khud dhup bhi ham par roti hai jalta hai musalla reti ka
+  Main shukr ka sajda kar lo ada
 
   4
-  Kulsoom, Sakina, Zainab hay
-  Aur sath Ruqqaya bibi hay
-  Is aik rasan may aey baba
-  Har umr ki Zahra qaidi hay
-  Girti hay meri amma Fizza
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Kulsum Sakina Zainab hai aur saath Ruqayya Bibi hai
+  Is ek rasan mein ae baba har umr ki Zehra qaidi hai
+  Girti hai meri ammaṅ Fizza
 
   5
-  Ab dhoop may itni shiddat hay
-  Jaltay hain aseeri ke zewar
-  Pani to nahi hay ansoo hain
-  May un pe chirrak doon ga aa kar
-  Aaram tujhe mil jaye ga
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Ab dhup mein itni shiddat hai jalte hain aseeri ke zewar
+  Paani to nahiṅ hai aaṅsuṅ hi main in pe chhirak duṅ ga aa kar
+  Aaraam tujhe mil jaae ga
 
   6
-  Ankhon se rawan hay khoon teray
-  Jo teri phuphi hay be parda
-  Meri bhi phuphi hay be chadar
-  Woh naam Sakina hay jis ka
-  Khinchta hay rasan se us ka gala
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Aaṅkhoṅ se rawaaṅ hai khun tere jo teri phuphi hai beparda
+  Meri bhi phuphi hai bechaadar woh naam Sakina hai jis ka
+  Khichta hai rasan se us ka gala
 
   7
-  Islam bachanay ki khatir
-  Nikli hay sharafat be chadar
-  Paoon ke chhalay rotay hain
-  Chalti hay imamat kanton par
-  Ye pehla safar hay Zainab ka
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Islaam bachaane ki khaatir nikli hai sharaafat bechaadar
+  Paaoṅ ke chhaale rote hain chalti hai imaamat kaaṅtoṅ par
+  Yeh pehla safar hai Zainab ka
 
   8
-  Dekha nahi jata aey baba
-  Mujh se ye qayamat ka manzar
-  Rukti hay kabhi chalti hay kabhi
-  Zainab ke badaltay hain teewar
-  Ye Shaam ko jata hay rasta
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Dekha nahiṅ jaata ae baba mujh se yeh qayaamat ka manzar
+  Rukti hai kabhi jalti hai kabhi Zainab ke badalte hain tuyur
+  Yeh Shaam ko jaata hai rasta
 
   9
-  Gir gir ke jo chalti hay Zainab
-  Mehsoos mujhe bhi hota hay
-  Sajjad pukaray aey beta
-  Mera bhi kaleja phat-ta hay
-  Jab sunta hoon tera noha
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Gir gir ke jo chalti hai Zainab mahsus mujhe bhi hota hai
+  Sajjaad pukaare ae beta mera bhi kaleja phatta hai
+  Jab sunta huṅ tera nauha
 
   10
-  Gar tez chala tou aey beta
-  Bazar e sitam aa jaye ga
-  Aahista agar beemar chalay
-  Durron ki azziat paye ga
-  Aur teray labon par hay beta
-  Toon holay holay chal baba
-  Aey meray beta
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Gar tez chala to ae beta baazaar-e-sitam aa jaae ga
+  Aahista agar bimaar chale darroṅ ki aziyat khaae ga
+  Aur tere laboṅ par hai nauha
 
   11
-  Manzoor azziat hay mujh ko
-  Baqar ne Takkalum di ye sada
-  Har kam may teri marzi hay
-  Tu jaise chahay chal baba
-  May ab na kahoon ga aey baba
-  Toon holay holay chal baba
-  Aey meray baba
-  Rassi may gala hay Baqar ka
-  Toon holay holay chal baba
+  Tu haule haule chal baba
+  Ae mere beta ae mere beta
+  Manzur aziyat hai mujh ko Baqar ne Takallum di yeh sada
+  Har gaam pe teri marzi hai tu jaise chaahe chal baba
+
+  12
+  Main ab na kahuṅ ga ae baba
+  Tu haule haule chal baba
+  Rassi mein gala hai Baqar ka tu haule haule chal baba
 ---
 
 ۱

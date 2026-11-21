@@ -1,23 +1,43 @@
 ---
-title: "Zahra Diyan Dhiyaan Da Gham Khaar Reya Koi Na"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "زہرا دیاں دھیاں دا غم خوار ریا کوئی نہ"
+alternateTitle: "Zahra Diyan Dhiyaan Da Gham Khaar Reya Koi Na"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra diyan dhiyaan da gham khaar reya koi na
+
+  Asmat diyan paliyaan de, aj sir te rida koi nai
+
+  1
+  Mein Shaam diyan raavaan, pardes de vich marna
+  Akber teri nagri vich, meri qabar di jaa koi nai
+
+  2
+  Na teer chala Hurmal, ay larn de kaabil nai
+  Paani peya mangda eh, edi hor khata koi nai
+
+  3
+  Po shaakh purani vi, lut layi eh Musalmana
+  Mazloom zamane te Shabeer jeya koi nai
 ---
 
-Zahra Diyan Dhiyaan Da Gham Khaar Reya Koi Na
+زہرا دیاں دھیاں دا غم خوار ریا کوئی نہ
 
-Asmat Diyan Paliyaan De, Aj Sir Te Rida Koi Nai
+عصمت دیاں پالیاں دے، اج سر تے ردا کوئی نئیں
 
-Mein Shaam Diyan Raavaan, Pardes De Vich Marna
-Akber Teri Nagri Vich, Meri Qabar Di Jaa Koi Nai
+۱
+میں شام دیاں راہواں، پردیس دے وچ مرنا
+اکبر تیری نگری وچ، میری قبر دی جا کوئی نئیں
 
-Na Teer Chala Hurmal, Ay Larn De Kaabil Nai
-Paani Peya Mangda Eh, Edi Hor Khata Koi Nai
+۲
+نہ تیر چلا حرمل، اے لڑن دے قابل نئیں
+پانی پیا منگدا اے، ایہدی ہور خطا کوئی نئیں
 
-Po Shaakh Purani Vi, Lut Layi Eh Musalmana
-Mazloom Zamane Te Shabeer Jeya Koi Nai
+۳
+پوشاک پرانی وی، لُٹ لئی اے مسلمانا
+مظلوم زمانے تے شبیر جیہا کوئی نئیں

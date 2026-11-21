@@ -9,79 +9,79 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pyaasi hai Sakina
+  Pyaasi hai Sakina haaye pyaasi hai Sakina
   Andheri raat hai, Karbal hai aur udaasi hai
   Sakina aaj bhi tanha hai aur pyaasi hai
 
   1
-  Ae momino jab majlis-e-Shabbir meiṅ aana
-  Bachoṅ ka tumheiṅ waasta ye bhul na jaana
-  Ye soch ke ji khol ke tum ashk bahaana
+  Ae momino jab majlis-e-Shabbir meiṅ aana - pyaasi hai Sakina
+  Bachchoṅ ka tumheiṅ waasta ye bhul na jaana - pyaasi hai Sakina
+  Ye soch ke ji khol ke tum ashk bahaana - pyaasi hai Sakina
   Majlis jahaṅ hogi wahaṅ aati hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   2
   Allah kare aaye kabhi aisa zamaana
   Ho Shaam ke zindaṅ ki taraf aap ka jaana
   Phat jaayega dil dekh ke wo gham ka thikaana
-  Behaal hui qabr meiṅ soti hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Behaal hui qabr meiṅ are soti hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   3
   Yuṅ jaanib-e-darya gaye Abbas-e-dilawar
   Aur darya se mashkiza bhara ba dil-e-muztar
   Darya ki har ik mauj ye kehti thi tarap kar
   Hai tisra din haaye tarapti hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   4
   Shaam aa gayi jab chhaane laga ban meiṅ andhera
-  Zainab ne kiya bhai ke laashe pe ye noha
+  Zainab ne kiya bhai ke laashe pe ye nauha
   Kya tum ne Sakina ko kahiṅ dekha hai bhaiya
   Ik kuza liye dasht meiṅ aayi hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   5
-  Jab gyarah Muharram ko suye Shaam sidhaari
+  Jab gyarah Muharram ko su-e Shaam sidhaari
   Darya ki taraf dekh ke Zainab ye pukaari
-  Abbas na mar jaaye bhatiji ye tumhaari
-  Behaal meri god meiṅ baithi hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Haaye Abbas na mar jaaye bhatiji ye tumhaari
+  Behaal meri god meiṅ soti hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   6
   Is tarah sitam dhaate haiṅ ab zulm ke baani
   Laa kar ye bhare kuze baha dete haiṅ paani
-  Kuch aur bhi barh jaati hai yun tashna dahaani
+  Kuch aur bhi barh jaati hai hoṅ tashna dahaani
   Bhai ki taraf dekh ke roti hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   7
-  Aansu abhi bachchi ke nahi paaye the thamne
+  Aansu abhi bachchi ke nahiṅ paaye the thamne
   Phir maar diya durra kisi ahl-e-sitam ne
   Sajjad ko har gaam rulaaya isi gham ne
   Is umr meiṅ ye sakhtiyaṅ sehti hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   8
   Durroṅ ki aziyyat se tarapti hai hazeena
   Dukhta hai badan siskiyaṅ leti hai Sakina
-  Sone ke liye paas nahi baba ka seena
+  Sone ke liye paas nahiṅ baba ka seena
   Ik kone meiṅ sehmi hui baithi hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   9
   Ye zulm bhi kamsin pe sitamgaaroṅ ne dhaaya
   Rakha hai use qaid wahaṅ par yak o tanha
   Rehta hai jahaṅ din meiṅ qiyamat ka andhera
   Dar dar ke na mar jaaye akeli hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 
   10
   Kehta hai suno haathoṅ ko jore hue Gohar
   Aaj aise bahe aankhoṅ se ashkoṅ ka samandar
   Ye kehti hui jaaye na Shabbir ki dukhtar
   Lab khushk zabaaṅ sukhi hai roti hai Sakina
-  Paani na mila aaj bhi pyaasi hai Sakina
+  Are paani na mila aaj bhi pyaasi hai Sakina
 ---
 
 پیاسی ہے سکینہؑ ہائے پیاسی ہے سکینہؑ

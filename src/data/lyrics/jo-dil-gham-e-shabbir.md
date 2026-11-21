@@ -20,12 +20,12 @@ romanLyrics: |-
   Aisi to namaazeṅ hameiṅ maalum bahut haiṅ
 
   2
-  Hairaaṅ huṅ ke Asghar ki haṅsi kaise bayaaṅ ho
+  Hairaaṅ huṅ ke Asghar ki hansi kaise bayaaṅ ho
   Us mauj-e-tabassum ke to mafhum bahut haiṅ
 
   3
   Haasil hai abhi sab ko kahaaṅ daulat-e-daarain
-  Shabbir ke gham se abhi mehrum bahut haiṅ
+  Shabbir ke gham se abhi mahrum bahut haiṅ
 
   4
   Pur soz hai lekin gham-e-Shabbir ki rudaad

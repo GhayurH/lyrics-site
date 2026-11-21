@@ -9,51 +9,33 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Jhoola veeran hay aur goad bhi khali Asgher
-
-  Ma Ko Batla Dai Kahan Basti Basa Li Asgher
-
+romanLyrics: |-
+  Jhula viraan hai aur god bhi khaali Asghar
+  Maaṅ ko batla de kahaaṅ basti basa li Asghar
 
   1
-
-  Sar pai chadar jo na thi maa ne kafan ki soorat
-
-  Khak maqtal ki teri lash pai dali Asgher
-
+  Sar pe chaadar jo na thi maaṅ ne kafan ki surat
+  Khaak maqtal ki teri laash pe daali Asghar
 
   2
-
-  Mar ker teer Tabassum ka sitamgaron ko
-
-  Aabru Deen-e-Muhammad ki bacha li Asgher
-
+  Maar kar tir tabassum ka sitam gaaroṅ ko
+  Aabru din-e-Muhammad ki bacha li Asghar
 
   3
-
-  Bhool jayai tera gham Bali Sakina Kaise
-
-  Teri Soorat Hai Kahan Bhoolnay Wali Asgher
-
+  Bhul jaaye tera gham baali Sakina kaise
+  Teri surat hai kahaaṅ bhulne waali Asghar
 
   4
-
-  Bab-e-Khaiber jo uthatai To na hoti Diqat
-
-  Lash Sarvar nai teri kaisai utha li Asgher
-
+  Baab-e-Khaibar jo uthaate to na hoti diqqat
+  Laash Sarvar ne teri kaise utha li Asghar
 
   5
-
-  Mot ghabra gayi mathai pai paseena aya
-
-  Mot ki aankh main yun ankh hai dali Asgher
-
+  Maut ghabraa gayi maathe pe pasina aaya
+  Maut ki aankh mein yuṅ aankh hai daali Asghar
 
   6
-
-  Kaisai ho jayai kisi dar ka bikhari Rehan
-
-  Hai Azal sai yeh Terai Dar ka Sawali Asgher'
+  Kaise ho jaaye kisi dar ka bhikaari Rehan
+  Hai azal se yeh tere dar ka sawaali Asghar
 ---
 
 ؑجھولا ویران ہے اور گود بھی خالی اصغر

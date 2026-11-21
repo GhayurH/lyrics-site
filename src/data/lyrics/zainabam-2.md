@@ -9,113 +9,55 @@ poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainabam
-
-  Zainabam zainabam khawahare gham par waram
-
+romanLyrics: |-
+  Zainabam zainabam khwaahar-e-gham par waram
+  Jaauṅ ga jahaaṅ jahaaṅ sehne pareṅ ge hameṅ gham
+  Zainabam zainabam khwaahar-e-gham par waram
 
   1
-
-  1. Jaaunga me jahaan jahaan sehne parenge hame gham
-
+  Koi baaqi na raha baandh li hum ne bhi kamar
+  Hai chamakte hue neze mere marne ki khabar
+  Mere hawaale hai behan tifl mere mere haram
 
   2
-
-  2. Koi baqi na raha baandh li humne bhi kamar
-
-  He chamakte huwe neze mere marne ie khabar
-
-  Mere hawale he behan
-
-  Tifl mere mere haram
-
+  Shaam dhal jaae to ye waada nibhaana Bibi
+  Apne sine pe Sakina ko sulaana Bibi
+  Kaun sambhaale ga use jab na raheṅ ge yahaaṅ hum
 
   3
-
-  3. Shaam dhal jaye to ye wada nibhana bibi
-
-  Apne sine pe Sakina ko sulana bibi
-
-  Kon sambhalega use
-
-  Jab na rahenge yahaan hum
-
+  Jab meri halq pe shamshir-e-sitam chalne lage
+  Zulm ki fauj mein naqqaara agar bajne lage
+  Dekhna Aabid na uthe khinche hue tegheṅ to dam
 
   4
-
-  4. Jab mere halq pe shamsheere sitam chalne lage
-
-  Zulm ki foj mein naqqara agar bajne lage
-
-  Dekhna abid na uthe
-
-  Kheche huw teghe to dam
-
+  Jab tumhaare Shaam ke darbaar mein le jaae shaqi
+  Yaad kar ke lena jo ammaaṅ pe thi uftaad hui
+  Log wohi zulm wohi baat wohi aur wohi hum
 
   5
-
-  5. Jab tumhe sham ke darbar mein lejaye shaqi
-
-  Yaad karlena jo amma pe uftaad huwi
-
-  Log wohi zulm wohi
-
-  Baat wohi aur wohi hum
-
+  Sab ke shaane ho rasan basta Sakina ka gala
+  Aise aalam mein bhi karna nahiṅ ummat se gila
+  Saani-e-Zahra ho behan sehna isi tarah sitam
 
   6
-
-  6. Sab ke shaane huwe rasan basta Sakina ka gala
-
-  Aisa aalam mein bhi karna nahin ummat se gila
-
-  Sanie zahra ho behan
-
-  Sehna usi tarha sitam
-
+  Be rida dekh na paae tujhe duniya ki nazar
+  Is liye neze se gir jaae ga Abbas ka sar
+  Qaari-e-Quraan wahaaṅ honge isi dard se hum
 
   7
-
-  7. Berida dekh na paye tujhe dunya ki nazar
-
-  Isliye neze se girjayega abbas ka sar
-
-  Qariye quran wahan
-
-  Honge isi dard se hum
-
+  Yaad rakhna ye sitam hoe ga dauraan-e-safar
+  Tez naaqe se jo gir jaae gi meri dukhtar
+  Dhund ke tum laana use qaafile ko rokeṅ ge hum
 
   8
-
-  8. Yaad rakhna ye sitam hovega dorane safar
-
-  Tez naaqe se jo girjayegi meri dukhtar
-
-  Dhund ke tum lana use
-
-  Kaafile ko rokenge hum
-
+  Kaun hamdard yahaaṅ baaqi hai pyaase ke liye
+  Ek nasihat kiye jaata huṅ dilaase ke liye
+  Hayya ala khairil amal tum ye kaho aur kahe hum
 
   9
-
-  9. Kon ham dard yahan baqi he pyaase ke liye
-
-  Ek naseehat kiye jaata hun dilase ke liye
-
-  Haya ala khairil amal
-
-  Tum ye kaho aur kahe hum
-
-
-  10
-
-  10. Dame rukhsat thi ye “farhan” shahe deen ki fughan
-
-  Baad mere jo sitam honge karu kaise bayaan
-
-  Saath nahin deti zabaan
-
-  Ban gaya khud Mazhare gham'
+  Dam-e-rukhsat thi ye "Farhan" shah-e-diṅ ki fughaaṅ
+  Baad mere jo sitam honge karuṅ kaise bayaaṅ
+  Saath nahiṅ deti zabaaṅ ban gaya khud Mazhar-e-gham
 reciter: "Farhan Ali"
 ---
 

@@ -15,7 +15,7 @@ romanLyrics: |-
   Dhalne lagi jo raat meiṅ bewaarisoṅ ki shaam
   Aata hua sawaar jo dekha su-e-qiyaam
   Bint-e-Ali ne thaam ke dil thaam li lajaam
-  Gunji sada-e-Dukhtar-e-Zehra-e-nek naam
+  Gunji sada-e-dukhtar-e-Zehra-e-nek naam
 
   Chhin gayi rida ghar ujar gaya
   Aap the kahaaṅ haaye baaba jaaṅ
@@ -41,7 +41,7 @@ romanLyrics: |-
   Aap the kahaaṅ haaye baaba jaaṅ
 
   4
-  Bhuluṅgi na maiṅ wo dard ki ghari
+  Bhuluṅ gi na maiṅ wo dard ki ghari
   Chal rahi thi jab bhai par chhuri
   De rahi thi maiṅ us ghari sada
   Aap the kahaaṅ haaye baaba jaaṅ
@@ -53,13 +53,13 @@ romanLyrics: |-
   Aap the kahaaṅ haaye baaba jaaṅ
 
   6
-  Lag rahi thi jab munh pe sayliyaaṅ
+  Lag rahi thi jab munh pe saheliyaaṅ
   Haaye kaanoṅ se tha lahu rawaaṅ
   Jab gauhar chhine kurta jab jala
   Aap the kahaaṅ haaye baaba jaaṅ
 
   7
-  Haaye baaba tha hoṅtoṅ par Naved
+  Haaye baaba tha hontoṅ par Naved
   Ro rahi thi baag thaam kar Naved
   Gunjti thi ye dasht meiṅ sada
   Aap the kahaaṅ haaye baaba jaaṅ

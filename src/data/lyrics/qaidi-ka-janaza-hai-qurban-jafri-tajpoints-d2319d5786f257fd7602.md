@@ -1,41 +1,71 @@
 ---
-title: "Qaidi Ka Janaza Hai Qurban Jafri"
+title: "قیدی کا جنازہ ہے قربان جعفری"
+alternateTitle: "Qaidi Ka Janaza Hai Qurban Jafri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Qurban"
-tags: ["noUrdu"]
+poet: "Qurban Jafri"
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaidi ka janaza hai zakhmi ka janaza hai aahista uthao
+  Paiwast ho chukin hain zanjeerein jo badan mein unn ko na hilao
+  Aye kalma parhne walo main Bint-e-Mustafa hoon
+  Maiyyat wasool karne chor aayi Baqiya hoon
+
+  2
+  Be jurm ka janaza baloon se youn pakar kar bahir tu na lao
+  Ghusal-o-kafan ka tum se hargiz nahi kahon gi
+  Kazim ki be basi ka matam sada karon gi
+  Ghusal-o-kafan nahi do beta tu mera de do kuch taras tu khao
+
+  3
+  Kaisa yeh tum ne iss ko zalim zehar diya hai
+  Aankhon se khon ab tak iss ka nahi ruka hai
+  Aye taziyane walo yeh kab ka so chuka hai aisay na jagao
+  Tum ne banai hum par Baghdad ki dewarein
+
+  4
+  Hain mere kamsino ki dewaron mein mazarein
+  Iss shehar mein main logo ro ro ke thak chuki hoon na our rulao
+  Yasrab mein betiyon ko hai intezar iss ka
+  Hai betiyon ki khatir tan be qarrar iss ka
+
+  5
+  Yasrab nahi magar bas Baghdad walay pul tak tum iss ko le jao
+  Qurban Syeda ke yeh bain aa rahe they
+  Turbat mein Mustafa bhi aanso baha rahe they
+  Bekas ka be khata ka Kazim ka be nawa ka koi jurm batao
 ---
 
-1
-Qaidi Ka Janaza Hai Zakhmi Ka Janaza Hai Aahista Uthao.
-Paiwast Ho Chukin Hain Zanjeerein Jo Badan Mein Unn Ko Na Hilao.
-Aye Kalma Parhne Walo Main Bint-e-Mustafa Hoon.
-Maiyyat Wasool Karne Chor Aayi Baqiya Hoon.
+۱
+قیدی کا جنازہ ہے، زخمی کا جنازہ ہے، آہستہ اٹھاؤ
+پیوست ہو چکی ہیں زنجیریں جو بدن میں، ان کو نہ ہلاؤ
+اے کلمہ پڑھنے والو، میں بنتِ مصطفیٰ ہوں
+میّت وصول کرنے چھوڑ آئی بقیہ ہوں
 
-2
-Be Jurm Ka Janaza Baloon Se Youn Pakar Kar Bahir Tu Na Lao.
-Ghusal-o-Kafan Ka Tum Se Hargiz Nahi Kahon Gi.
-Kazim Ki Be Basi Ka Matam Sada Karon Gi.
-Ghusal-o-Kafan Nahi Do Beta Tu Mera De Do Kuch Taras Tu Khao.
+۲
+بے جرم کا جنازہ بالوں سے یوں پکڑ کر باہر تو نہ لاؤ
+غسل و کفن کا تم سے ہرگز نہیں کہوں گی
+کاظم کی بے بسی کا ماتم سدا کروں گی
+غسل و کفن نہیں دو، بیٹا تو میرا دے دو، کچھ ترس تو کھاؤ
 
-3
-Kaisa Yeh Tum Ne Iss Ko Zalim Zehar Diya Hai.
-Aankhon Se Khon Ab Tak Iss Ka Nahi Ruka Hai.
-Aye Taziyane Walo Yeh Kab Ka So Chuka Hai Aisay Na Jagao.
-Tum Ne Banai Hum Par Baghdad Ki Dewarein.
+۳
+کیسا یہ تم نے اس کو ظالم زہر دیا ہے
+آنکھوں سے خون اب تک اس کا نہیں رکا ہے
+اے تازیانے والو، یہ کب کا سو چکا ہے، ایسے نہ جگاؤ
+تم نے بنائی ہم پر بغداد کی دیواریں
 
-4
-Hain Mere Kamsino Ki Dewaron Mein Mazarein.
-Iss Shehar Mein Main Logo Ro Ro Ke Thak Chuki Hoon Na Our Rulao.
-Yasrab Mein Betiyon Ko Hai Intezar Iss Ka.
-Hai Betiyon Ki Khatir Tan Be Qarrar Iss Ka.
+۴
+ہیں میرے کم سنوں کی دیواروں میں مزاریں
+اس شہر میں میں لوگو رو رو کے تھک چکی ہوں، نہ اور رلاؤ
+یثرب میں بیٹیوں کو ہے انتظار اس کا
+ہے بیٹیوں کی خاطر تن بے قرار اس کا
 
-5
-Yasrab Nahi Magar Bas Baghdad Walay Pul Tak Tum Iss Ko Le Jao.
- Qurban Syeda Ke Yeh Bain Aa Rahe They.
-Turbat Mein Mustafa Bhi Aanso Baha Rahe They.
-Bekas Ka Be Khata Ka Kazim Ka Be Nawa Ka Koi Jurm Batao.
+۵
+یثرب نہیں مگر بس بغداد والے پل تک تم اس کو لے جاؤ
+قربان سیّدہ کے یہ بین آ رہے تھے
+تربت میں مصطفیٰ بھی آنسو بہا رہے تھے
+بے کس کا، بے خطا کا، کاظم کا، بے نوا کا کوئی جرم بتاؤ

@@ -29,8 +29,8 @@ romanLyrics: |-
 
   2
   Is kaarwaaṅ ka Husain rehbar
-  Shaamil hai is meiṅ Shah ke bahattar
-  Jin o malak bhi chalte haiṅ mil kar
+  Shaamil hai is meiṅ Sheh ke bahattar
+  Jinn o malak bhi chalte haiṅ mil kar
   Shaamil haiṅ hum bhi adna se naukar
   Bazm-e-aza hai raah-e-wafa hai
   Sab ki sada hai sab ki dua hai
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ali o Zehra ke jaan nisaaroṅ
   Ishq-e-Nabi ke raushan sitaaroṅ
   Ae pursa daaroṅ ae sogwaaroṅ
-  Ghaazi ke pyaaroṅ Shah ke dulaaroṅ
+  Ghaazi ke pyaaroṅ Sheh ke dulaaroṅ
   Tum pe Khuda ho mehrbaaṅ chalta rahe ye kaarwaaṅ
   Husain ya Husain ya Husain ya Husaina
 
@@ -58,10 +58,10 @@ romanLyrics: |-
   Husain ya Husain ya Husain ya Husaina
 
   5
-  Husain ka gham zinda rahega
-  Maatam zamaana karta rahega
-  Farsh-e-aza to bichhta rahega
-  Husaini parcham uncha rahega
+  Husain ka gham zinda rahe ga
+  Maatam zamaana karta rahe ga
+  Farsh-e-aza to bichhta rahe ga
+  Husaini parcham uncha rahe ga
   Ye azaadaari ye pursa daari
   Ghar ghar hai jaari girya o zaari
   Nauha kunaaṅ hai do jahaaṅ chalta rahe ye kaarwaaṅ

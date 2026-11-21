@@ -26,7 +26,7 @@ romanLyrics: |-
   Haaye Kaazim da waang Sakin de qaidi laasha dafnaaya
 
   3
-  Baghdad de qaidi diyaaṅ dhiyaaṅ wich khat de ro likhwan
+  Baghdad de qaidi diyaaṅ dhiyaaṅ wich khat de ro likhon
   Kar baaba ae dua oh dhiyaaṅ jiwan na mar jaawan
   Haaye howe na jeriyaaṅ dhiyaaṅ de sir te baabe da saaya
 

@@ -4,9 +4,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab ke jaisa koi jahaaṅ mein dukhi nahiṅ
+  Maare gaye haiṅ bhaai rida bhi bachi nahiṅ
+
+  2
+  Chaudah sau mil kitna hai mushkil safar kiya
+  Ghar ke sehan mein Bibi kabhi jo chali nahiṅ
+
+  3
+  Rone diya na bhaai ke laashe pe jab gayi
+  Majbur ho ke koi behan yuṅ uthi nahiṅ
+
+  4
+  Har ek qadam pe Zainab hai saabit qadam rahi
+  Taarikh keh rahi hai ke Zainab jhuki nahiṅ
+
+  5
+  Apne zakhm dikha ke hai maadar ko ye kaha
+  Main Karbala mein ujri sirf Shaam hi nahiṅ
+
+  6
+  Mujhe maaf karna bhaai hai Zainab ye ro kahe
+  Sajjaad bach gaya hai Sakina bachi nahiṅ
+
+  7
+  Akbar ka laasha dekha to kehne lagi Aqil
+  Maari mujhe hai barchhi ye tujhko lagi nahiṅ
 ---
 
 Zainab Ke Jaisa Koi Jahan Me Dukhi Nahi |Shahzaib Hassan Party | 14 Shawal 2026 |Anjuman e Hussainia

@@ -1,77 +1,142 @@
 ---
-title: "Kafan Ab Chor Do Zainab Joan Rizvi"
+title: "کفن اب چھوڑ دو زینب جون رضوی"
+alternateTitle: "Kafan Ab Chor Do Zainab Joan Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra ke ghar mein haye qayamat ka woh samaa
+  Maiyyat Ali ki rakhi thi lipati thin betiyaan
+  Zainab kafan ko tham ke leti thin hichkiyaan
+
+  2
+  Zainab ke pas aa ke Hasan ne yeh ki fogaan
+  Janazay ko uthana hai kafan ab chor do Zainab
+  Utho Zainab karo himmat karo baba ko ab rukhsat
+  Qayamat ka yeh sadma hai kafan ab chor do Zainab
+
+  3
+  Janaza le ke baba ka humein jane do ab ghar se
+  Kahin ro ro ke iss gham mein rida gir jaye na sar se
+  Sanbhalo aye behan khud ko tumhare haal par dekho
+  Mera Abbas rota hai kafan ab chor do Zainab
+
+  4
+  Humein ab zindagi bhar iss yateemi ka hai gham sehna
+  Bohat mushkil se baba ka ruka hai khon aye behna
+  Ajab aalam hai ghurbat ka Bin-e-Muljim ki zarbat ka
+  Abhi tak zakhm taza hai kafan ab chor do Zainab
+
+  5
+  Yeh phir Shabeer se Shabar ne ro ro kar kaha bhai
+  Tumhi Zainab ko do apne kafan ka wasta bhai
+  Dikha kar maa ka woh kurta bata do Rooz-e-Ashora
+  Kafan mujh ko pinhana hai kafan ab chor do Zainab
+
+  6
+  Woh dekho dar pe jo baithay hain unn ko kaun palay ga
+  Batao kaun Kofay ke yateemo ko sanbhalay ga
+  Yeh baba ki wasiyat thi khabar lena yateemo ki
+  Unhein bhi chup karana hai kafan ab chor do Zainab
+
+  7
+  Ajab kuhram tha ghar mein yeh jab bola hai Zainab ne
+  Abhi baba ko jee bhar ke kahan dekha hai Zainab ne
+  Hasan kehne lagay ro ke kaha jitni dafa tum ne
+  Kafan main ne hataya hai kafan ab chor do Zainab
+
+  8
+  Janazay ke barabar mein khari hain Fatima Zahra
+  Kafan hat jaye na sar se dikhey na zakhm zarbat ka
+  Madine mein saha jo jo abhi bholi kahan hain woh
+  Wohi pehlu shikasta hai kafan ab chor do Zainab
+
+  9
+  Khadija our Ruqaiya, Fatima, Kulsoom ko dekho
+  Bari ho tum karo himmat sanbhalo choti behno ko
+  Amamay se koi liptay koi liptay musalay se
+  Hamara sath dena hai kafan ab chor do Zainab
+
+  10
+  Padar ki jan mein hi betiyon ki jan hoti hai
+  Judai baap ki sehna kahan aasan hoti hai
+  Aye meri ghamzada khwahar mujhe maloom hai tum par
+  Bohat mushkil yeh lamha hai kafan ab chor do Zainab
+
+  11
+  Uthai jis ghari maiyyat jawaan beton ne kandhoon par
+  Biyaan ho Jaun our Zeeshan kaisay gham ka woh manzar
+  Yeh dil gham se na phat jaye yehi kehte hoye haye
+  Janaza ghar se nikla hai kafan ab chor do Zainab
 ---
 
-1
-Kafan Ab Chor Do Zainab Joan Rizvi
-Zahra Ke Ghar Mein Haye Qayamat Ka Woh Samaa.
-Maiyyat Ali Ki Rakhi Thi Lipati Thin Betiyaan.
-Zainab Kafan Ko Tham Ke Leti Thin Hichkiyaan.
+۱
+زہرا کے گھر میں ہائے قیامت کا وہ سماں
+میت علی کی رکھی تھی لپٹی تھیں بیٹیاں
+زینب کفن کو تھام کے لیتی تھیں ہچکیاں
 
-2
-Zainab Ke Pas Aa Ke Hasan Ne Yeh Ki Fogaan.
-Janazay Ko Uthana Hai Kafan Ab Chor Do Zainab.
-Utho Zainab Karo Himmat Karo Baba Ko Ab Rukhsat.
-Qayamat Ka Yeh Sadma Hai Kafan Ab Chor Do Zainab.
+۲
+زینب کے پاس آ کے حسن نے یہ کی فغاں
+جنازے کو اٹھانا ہے کفن اب چھوڑ دو زینب
+اٹھو زینب کرو ہمت کرو بابا کو اب رخصت
+قیامت کا یہ صدمہ ہے کفن اب چھوڑ دو زینب
 
-3
-Janaza Le Ke Baba Ka Humein Jane Do Ab Ghar Se.
-Kahin Ro Ro Ke Iss Gham Mein Rida Gir Jaye Na Sar Se.
-Sanbhalo Aye Behan Khud Ko Tumhare Haal Par Dekho.
-Mera Abbas Rota Hai Kafan Ab Chor Do Zainab.
+۳
+جنازہ لے کے بابا کا ہمیں جانے دو اب گھر سے
+کہیں رو رو کے اس غم میں ردا گر جائے نہ سر سے
+سنبھالو اے بہن خود کو تمہارے حال پر دیکھو
+میرا عباس روتا ہے کفن اب چھوڑ دو زینب
 
-4
-Humein Ab Zindagi Bhar Iss Yateemi Ka Hai Gham Sehna.
-Bohat Mushkil Se Baba Ka Ruka Hai Khon Aye Behna.
-Ajab Aalam Hai Ghurbat Ka Bin-e-Muljim Ki Zarbat Ka.
-Abhi Tak Zakhm Taza Hai Kafan Ab Chor Do Zainab.
+۴
+ہمیں اب زندگی بھر اس یتیمی کا ہے غم سہنا
+بہت مشکل سے بابا کا رکا ہے خون اے بہنا
+عجب عالم ہے غربت کا ابنِ ملجم کی ضربت کا
+ابھی تک زخم تازہ ہے کفن اب چھوڑ دو زینب
 
-5
-Yeh Phir Shabeer Se Shabar Ne Ro Ro Kar Kaha Bhai.
-Tumhi Zainab Ko Do Apne Kafan Ka Wasta Bhai.
-Dikha Kar Maa Ka Woh Kurta Bata Do Rooz-e-Ashora.
-Kafan Mujh Ko Pinhana Hai Kafan Ab Chor Do Zainab.
+۵
+یہ پھر شبیر سے شبر نے رو رو کر کہا بھائی
+تمھی زینب کو دو اپنے کفن کا واسطہ بھائی
+دکھا کر ماں کا وہ کرتا بتا دو روزِ عاشورا
+کفن مجھ کو پہنانا ہے کفن اب چھوڑ دو زینب
 
-6
-Woh Dekho Dar Pe Jo Baithay Hain Unn Ko Kaun Palay Ga.
-Batao Kaun Kofay Ke Yateemo Ko Sanbhalay Ga.
-Yeh Baba Ki Wasiyat Thi Khabar Lena Yateemo Ki.
-Unhein Bhi Chup Karana Hai Kafan Ab Chor Do Zainab.
+۶
+وہ دیکھو در پہ جو بیٹھے ہیں ان کو کون پالے گا
+بتاؤ کون کوفے کے یتیموں کو سنبھالے گا
+یہ بابا کی وصیت تھی خبر لینا یتیموں کی
+انہیں بھی چپ کرانا ہے کفن اب چھوڑ دو زینب
 
-7
-Ajab Kuhram Tha Ghar Mein Yeh Jab Bola Hai Zainab Ne.
-Abhi Baba Ko Jee Bhar Ke Kahan Dekha Hai Zainab Ne.
-Hasan Kehne Lagay Ro Ke Kaha Jitni Dafa Tum Ne.
-Kafan Main Ne Hataya Hai Kafan Ab Chor Do Zainab.
+۷
+عجب کہرام تھا گھر میں یہ جب بولا ہے زینب نے
+ابھی بابا کو جی بھر کے کہاں دیکھا ہے زینب نے
+حسن کہنے لگے رو کے کہا جتنی دفعہ تم نے
+کفن میں نے ہٹایا ہے کفن اب چھوڑ دو زینب
 
-8
-Janazay Ke Barabar Mein Khari Hain Fatima Zahra.
-Kafan Hat Jaye Na Sar Se Dikhey Na Zakhm Zarbat Ka.
-Madine Mein Saha Jo Jo Abhi Bholi Kahan Hain Woh.
-Wohi Pehlu Shikasta Hai Kafan Ab Chor Do Zainab.
+۸
+جنازے کے برابر میں کھڑی ہیں فاطمہ زہرا
+کفن ہٹ جائے نہ سر سے دکھے نہ زخم ضربت کا
+مدینے میں سہا جو جو ابھی بھولی کہاں ہیں وہ
+وہی پہلو شکستہ ہے کفن اب چھوڑ دو زینب
 
-9
-Khadija Our Ruqaiya, Fatima, Kulsoom Ko Dekho.
-Bari Ho Tum Karo Himmat Sanbhalo Choti Behno Ko.
-Amamay Se Koi Liptay Koi Liptay Musalay Se.
-Hamara Sath Dena Hai Kafan Ab Chor Do Zainab.
+۹
+خدیجہ اور رقیہ، فاطمہ، کلثوم کو دیکھو
+بڑی ہو تم کرو ہمت سنبھالو چھوٹی بہنوں کو
+عمامے سے کوئی لپٹے کوئی لپٹے مصلّے سے
+ہمارا ساتھ دینا ہے کفن اب چھوڑ دو زینب
 
-10
-Padar Ki Jan Mein Hi Betiyon Ki Jan Hoti Hai.
-Judai Baap Ki Sehna Kahan Aasan Hoti Hai.
-Aye Meri Ghamzada Khwahar Mujhe Maloom Hai Tum Par.
-Bohat Mushkil Yeh Lamha Hai Kafan Ab Chor Do Zainab.
+۱۰
+پدر کی جان میں ہی بیٹیوں کی جان ہوتی ہے
+جدائی باپ کی سہنا کہاں آسان ہوتی ہے
+اے میری غم زدہ خواہر مجھے معلوم ہے تم پر
+بہت مشکل یہ لمحہ ہے کفن اب چھوڑ دو زینب
 
-11
-Uthai Jis Ghari Maiyyat Jawaan Beton Ne Kandhoon Par.
-Biyaan Ho Jaun Our Zeeshan Kaisay Gham Ka Woh Manzar.
-Yeh Dil Gham Se Na Phat Jaye Yehi Kehte Hoye Haye.
-Janaza Ghar Se Nikla Hai Kafan Ab Chor Do Zainab.
+۱۱
+اٹھائی جس گھڑی میت جواں بیٹوں نے کندھوں پر
+بیاں ہو جون اور ذیشان کیسے غم کا وہ منظر
+یہ دل غم سے نہ پھٹ جائے یہی کہتے ہوئے ہائے
+جنازہ گھر سے نکلا ہے کفن اب چھوڑ دو زینب

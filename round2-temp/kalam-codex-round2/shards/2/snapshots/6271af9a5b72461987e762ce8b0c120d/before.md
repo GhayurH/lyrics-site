@@ -1,0 +1,34 @@
+---
+title: "Merey Mola Ali (AS) Ko Jis Gari Ayi Kaza Hogi"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+Merey Mola Ali (AS) ko jis gari ayi kaza hogi
+
+Nahi kyu boltey baba bulati hai tumhey Zainab (SA)
+Ke sarey dard gurbat ke sunati hai tumhey Zainab (AS)
+Tumharey bad sar par ab, yateemi ki rida hogi
+
+Merey Mola Ali (AS) Ko Jis Gari Ayi Kaza Hogi
+
+Baroz e eid kalmago, bohot khushiya manaeygey
+Tumharey gham mein ham baba magar ansu bahaeygey
+Batao eid kya baba, yateemo ki bala hogi
+
+Ali (AS) ki lash par Kulsoom (SA) , ye ro ro kar farmaye
+Kya us beti ka jeena hai wo jIska bap marjaye
+Ye sun beyn dukhtar ka, tarapti Syeda (SA) hogi
+
+Abhi to maa k sadmey sy na bacho ko sakoon aya
+K teri moat ney phir sy hamarey dil ko tarpaya
+Yu lagta hai k ab ham pey sitam ki inteha hogi
+
+Rida sar par nahi hogi sharabi humsafar hogey
+Sina ki nok pey baba tumharey hum pisar hogey
+Jahan bi jaygi Zainab (AS) wahan pey karbala hogi

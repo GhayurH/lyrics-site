@@ -1,32 +1,50 @@
 ---
-title: "Karbala Main Kiaa Bataayen"
+title: "کربلا میں کیا بتائیں"
+alternateTitle: "Karbala Main Kiaa Bataayen"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala main kiaa bataayen hum nay kia kiaa dekhaa
+  Hum nay lakhoun,
+  Him nay lakhoun, main Shabir ko tanhaa dekhaa
+
+  1
+  Youn tu paani koo hain bechain piyaasay kitnay,
+  Hum nay pyaso ko tarastay huye dariyaa dekhaa
+
+  2
+  Q na ashkoun ki jaga khoon bahaye Aabid,
+  Usne maader ka wo jaltay huye burqaa dekhhaa
+
+  3
+  Shaah nay jub seena-e-akbar say nikala naizaa,
+  Sath aatay huye Akbar kaa kaalejaa dekhaa
+
+  4
+  Hayee us baali Sakina ko kaha neend aaye,
+  Jis nay baba ka gala ankhoun kaat-taa dekhaa
 ---
 
-Karbala main kiaa bataayen hum nay kia kiaa dekhaa
+کربلا میں کیا بتائیں ہم نے کیا کیا دیکھا
+ہم نے لاکھوں،
+ہم نے لاکھوں، میں شبیر کو تنہا دیکھا
 
-hum nay lakhoun,
+۱
+یوں تو پانی کو ہیں بے چین پیاسے کتنے،
+ہم نے پیاسوں کو ترستے ہوئے دریا دیکھا
 
-Him nay lakhoun, main shabir ko tanhaa dekhaa.
+۲
+کیوں نہ اشکوں کی جگہ خون بہائے عابد،
+اس نے مادر کا وہ جلتے ہوئے برقع دیکھا
 
-youn tu paani koo hain bechain piyaasay kitnay,
+۳
+شاہ نے جب سینۂ اکبر سے نکالا نیزہ،
+ساتھ آتے ہوئے اکبر کا کلیجہ دیکھا
 
-Hum nay pyaso ko tarastay huye dariyaa dekhaa.
-
-Q na ashkoun ki jaga khoon bahaye aabid,
-
-Usne maader ka wo jaltay huye burqaa dekhhaa.
-
-Shaah nay jub seena-e-akbar say nikala naizaa,
-
-Sath aatay huye Akbar kaa Kaalejaa Dekhaa.
-
-Hayee us baali sakina ko kaha neend aaye,
-
-jis nay baba ka gala ankhoun kaat-taa dekhaa.
+۴
+ہائے اس بالی سکینہ کو کہاں نیند آئے،
+جس نے بابا کا گلا آنکھوں کاٹتا دیکھا

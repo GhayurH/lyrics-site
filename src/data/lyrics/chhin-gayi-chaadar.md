@@ -21,44 +21,44 @@ romanLyrics: |-
   Shaam-e-gharibaaṅ meiṅ jafa ho gayi Ghaazi
   Roti rahi Haidar-e-Karraar ki beti
   Ahl-e-jafa khaime jalaate rahe Ghaazi
-  Aa ke na ghurbat meiṅ kisi bebhi madad ki
+  Aa ke na ghurbat meiṅ kisi be abhi madad ki
   Barhti rahi bekasi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   2
   Gham ki ghari kaisi ye qismat ne dikhaayi
-  Dasht meiṅ deti thi behan gham se duhayi
+  Dasht meiṅ deti thi behan gham se duhaayi
   Ghurbat-e-Shabbir par roti thi khudaayi
   Laash zaifi meiṅ jab Akbar ki uthaayi
   Gir pare Sibt-e-Nabi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   3
-  Aal-e-Payambar ki buka gunji faza meiṅ
+  Aal-e-Payambar ki bukaa gunji faza meiṅ
   Shor khushi ka tha bahut ahl-e-jafa meiṅ
   Aur izaafa hua Zehra ki aza meiṅ
-  Sukha gala Shah ka kata Karbobala meiṅ
+  Sukha gala Shah ka kata Karbobalaa meiṅ
   Chalti rahi jab chhuri aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   4
   Hum se chhuraaya gaya afsos watan bhi
-  Aise luta Faatima Zehra ka chaman bhi
-  Laasha-e-Sarwar raha begor o kafan bhi
+  Aise lutaa Faatima Zehra ka chaman bhi
+  Laasha-e-Sarwar raha begor o bekafan bhi
   Baandhi gayi haathoṅ meiṅ khwaahar ke rasan bhi
   Hum ko asiri mili aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   5
   Har ghari pardes meiṅ barhte rahe sadme
-  Khaaya na thora bhi taras ahl-e-sitam ne
+  Khaaya na thoraa bhi taras ahl-e-sitam ne
   Lagte rahe baali Sakina ko tamaanche
   Nila hua chehra anguthi ke nishaaṅ se
   Zulm ki had ho gayi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   6
-  Zulm o sitam yuṅ bara tapte hue ban meiṅ
+  Zulm o sitam yuṅ baraa tapte hue ban meiṅ
   Koi madadgaar nahiṅ ranj o mihan meiṅ
   Rukti hai saaṅseṅ hai izaafa hai ghutan meiṅ
   Baandhe gaye baarah gale ek rasan meiṅ
@@ -74,7 +74,7 @@ romanLyrics: |-
   Ae mere bhai ae mere bhai
 
   8
-  Mir Hilaal Aal-e-Payambar meiṅ tha mehshar
+  Mir Hilaal Aal-e-Payambar meiṅ tha mahshar
   Chalta tha har dil pe gham o ranj ka khanjar
   Dekh ke Abbaas-e-dilaawar ka kata sar
   Pit ke sar kehti thi jab Dukhtar-e-Haidar

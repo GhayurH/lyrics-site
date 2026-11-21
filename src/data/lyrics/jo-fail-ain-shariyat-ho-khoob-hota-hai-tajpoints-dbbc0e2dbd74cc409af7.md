@@ -1,15 +1,21 @@
 ---
-title: "Jo Fail Ain Shariyat Ho Khoob Hota Hai"
+title: "جو فعل عین شریعت ہو خوب ہوتا ہے"
+alternateTitle: "Jo Fail Ain Shariyat Ho Khoob Hota Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Daro Khuda se kabeerah gunah se pehle
+  Ali se wo kabho molood pyar karta nahi
+  Wo jiss ki hamilah maa ho, biyah se pehle
 ---
 
-1
-Daro Khuda Se Kabeerah Gunah Se Pehle.
-Ali Se Wo Kabho Molood Pyar Karta Nahi.
-Wo Jiss Ki Hamilah Maa Ho, Biyah Se Pehle.
+۱
+ڈرو خدا سے کبیرہ گناہ سے پہلے
+علی سے وہ کبھو مولود پیار کرتا نہیں
+وہ جس کی حاملہ ماں ہو، بیاہ سے پہلے

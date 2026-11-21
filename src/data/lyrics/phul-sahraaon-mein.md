@@ -16,7 +16,7 @@ romanLyrics: |-
   Kitne wiraan bahaaroṅ ne basa daale haiṅ
 
   1
-  Dekho Abbas ki nazroṅ ko lab-e-nahr-e-Furaat
+  Dekho Abbaas ki nazroṅ ko lab-e-nahr-e-Furaat
   Ik bijli se kai Tur jala daale haiṅ
 
   2
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Ulfat-e-Aal-e-Muhammad ko duaaeiṅ dijiye
-  Baarah raaste dar-e-jannat ke bana daale haiṅ
+  Baarah raasta dar-e-jannat ke bana daale haiṅ
 
   4
   Maatam-e-Shaah meiṅ uthti hui aawaazoṅ ne

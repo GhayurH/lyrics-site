@@ -41,3 +41,7 @@ coverage/
 *.log
 .cache/
 .tmp/
+
+# Temporary Codex worker repositories
+/round2-temp/kalam-codex-round2/shards/*/workspaces/
+/round2-temp/kalam-codex-round2/workspaces/

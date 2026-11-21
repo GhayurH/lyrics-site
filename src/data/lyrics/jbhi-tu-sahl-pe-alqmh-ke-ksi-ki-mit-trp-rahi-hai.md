@@ -9,44 +9,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye sham e ashur ka hai manzar
-  Hai karb maiṅ itrat e payambar
-  Jabhi to sahil pe alqama ke
+  Ye shaam-e-Aashur ka hai manzar
+  Hai karb mein itrat-e-payambar
+  Jabhi to saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 
   2
-  1) Ye koi mehve buka hai shayad
+  Ye koi mahv-e-buka hai shayad
   Kisi ne ammu kaha hai shayad
   Barha hai shayad koi sitamgar
-  Jabhi to sahil pe alqama ke
+  Jabhi to saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 
   3
-  2) Wo bholi bhali si aik bacchi
-  Najaf ki janib jo tak rahi thi
-  Kisi ne chine haiṅ us ke gohar
-  Jabhi to sahil pe alqama ke
+  Wo bholi bhaali si ek bachchi
+  Najaf ki jaanib jo tak rahi thi
+  Kisi ne chhine haiṅ is ke gohar
+  Jabhi to saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 
   4
-  3) Atash se bacche machal rahe hayṅ
-  Ye phul sholoṅ maiṅ jal rahe hayṅ
-  Chaman maiṅ kumla gaye gul e tar
-  Jabhi to sahil pe alqama ke
+  Atash se bachche machal rahe haiṅ
+  Ye phul sholoṅ mein jal rahe haiṅ
+  Chaman mein kumla gaye gul-e-tar
+  Jabhi to saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 
   5
-  4) Hujum e gham se jo nim jaṅ hai
-  Wohi jo bemaar natawaṅ hai
-  Kisi ne kheyncha hai uska bistar
-  Jabhi to sahil pe alqama ke
+  Hujum-e-gham se jo nim jaaṅ hai
+  Wohi jo bimaar naatawaaṅ hai
+  Kisi ne khencha hai us ka bistar
+  Jabhi to saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 
   6
-  5) Rahi jo kufe ki shahzadi
-  Kisi ne shayad use sada di
-  Chini hai Kausar ab uski chadar
-  Jabhi to sahil pe alqama ke
+  Rahi jo Kufe ki shaahzaadi
+  Kisi ne shayad use sadaa di
+  Chhini hai Gauhar ab us ki chaadar
+  Jabhi to saahil pe Alqama ke
   Kisi ki mayyat tarap rahi hai
 ---
 

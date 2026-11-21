@@ -1,32 +1,53 @@
 ---
-title: "Jis Ke Din Raat Katay Qaid Ke Andherey Mein Lyrics 2013"
+title: "جس کے دن رات کٹے قید کے اندھیرے میں"
+alternateTitle: "Jis Ke Din Raat Katay Qaid Ke Andherey Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akhtar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Jis ke din raat katay qaid ke andherey mein pursa deney ossay Zahra bhi tu aayi ho gi
+  Shehar-e-Lahore mein Ruqaiya bhi bain karti ho gi our Zainab bhi bulayi ho gi
+
+  1
+  Zehar angoron mein jab bhar ke diya aik zalim ne mere Maula ko
+  Mosa Kazim ke pak seene mein zehar-e-Haroni ne haye kiya aag lagai ho gi
+  Maula ijaz-e-imamat se jab chand lamhey bhi ghar gaye hoon gaye
+  Betiyaan ro ke pochti hoon gi qaid zalim se teri kab talak Baba rehai ho gi
+
+  2
+  Sham se aayi Sakina ujari apne Baba ko bhi jo ro na saki
+  Jis ke pairon mein aablay hoon gaye our woh roti ho gi Shamiyon ki jo satai ho gi
+  Kis ne zanjeer utaray tere rasam-e-Sajjad nibhanay walay
+  Koi apna tu tere pas na tha our maiyyat teri mazdoron ne uthai ho gi
+
+  3
+  Pisar-e-Sadiq ne Madina ja ke apne Nana ke pak rozay pe
+  Zakhmi paon dikha ke Nana ko sath mein Maula ne qaid ki yaad batai ho gi
+  Qaidi Imam ke janazay ko apni nazrein jhuka ke pursa do
+  De ke kandah taboot ko Akhtar aaj jo roye ga oss ki mehshar mein rasai ho gi
 ---
 
-Jis Ke Din Raat Katay Qaid Ke Andherey Mein Pursa Deney Ossay Zahra Bhi Tu Aayi Ho Gi.
-Shehar-e-Lahore Mein Ruqaiya Bhi Bain Karti Ho Gi Our Zainab Bhi Bulayi Ho Gi.
+جس کے دن رات کٹے قید کے اندھیرے میں پرسا دینے اسے زہرا بھی تو آئی ہوگی
+شہرِ لاہور میں رقیہ بھی بین کرتی ہوگی اور زینب بھی بلائی ہوگی
 
-1
-Zehar Angoron Mein Jab Bhar Ke Diya Aik Zalim Ne Mere Maula Ko.
-Mosa Kazim Ke Pak Seene Mein Zehar-e-Haroni Ne Haye Kiya Aag Lagai Ho Gi.
-Maula Ijaz-e-Imamat Se Jab Chand Lamhey Bhi Ghar Gaye Hoon Gaye.
-Betiyaan Ro Ke Pochti Hoon Gi Qaid Zalim Se Teri Kab Talak Baba Rehai Ho Gi.
+۱
+زہر انگوروں میں جب بھر کے دیا ایک ظالم نے میرے مولا کو
+موسیٰ کاظم کے پاک سینے میں زہرِ ہارونی نے ہائے کیا آگ لگائی ہوگی
+مولا اعجازِ امامت سے جب چند لمحے بھی گھر گئے ہوں گے
+بیٹیاں رو کے پوچھتی ہوں گی قید ظالم سے تیری کب تلک بابا رہائی ہوگی
 
-2
-Sham Se Aayi Sakina Ujari Apne Baba Ko Bhi Jo Ro Na Saki.
-Jis Ke Pairon Mein Aablay Hoon Gaye Our Woh Roti Ho Gi Shamiyon Ki Jo Satai Ho Gi.
-Kis Ne Zanjeer Utaray Tere Rasam-e-Sajjad Nibhanay Walay.
-Koi Apna Tu Tere Pas Na Tha Our Maiyyat Teri Mazdoron Ne Uthai Ho Gi.
+۲
+شام سے آئی سکینہ اجڑی اپنے بابا کو بھی جو رو نہ سکی
+جس کے پیروں میں آبلے ہوں گے اور وہ روتی ہوگی شامیوں کی جو ستائی ہوگی
+کس نے زنجیر اتارے تیرے رسمِ سجاد نبھانے والے
+کوئی اپنا تو تیرے پاس نہ تھا اور میت تیری مزدوروں نے اٹھائی ہوگی
 
-3
-Pisar-e-Sadiq Ne Madina Ja Ke Apne Nana Ke Pak Rozay Pe.
-Zakhmi Paon Dikha Ke Nana Ko Sath Mein Maula Ne Qaid Ki Yaad Batai Ho Gi.
-Qaidi Imam Ke Janazay Ko Apni Nazrein Jhuka Ke Pursa Do.
-De Ke Kandah Taboot Ko Akhtar Aaj Jo Roye Ga Oss Ki Mehshar Mein Rasai Ho Gi.
+۳
+پسرِ صادق نے مدینہ جا کے اپنے نانا کے پاک روضے پہ
+زخمی پاؤں دکھا کے نانا کو ساتھ میں مولا نے قید کی یاد بتائی ہوگی
+قیدی امام کے جنازے کو اپنی نظریں جھکا کے پرسا دو
+دے کے کاندھا تابوت کو اختر آج جو روئے گا اس کی محشر میں رسائی ہوگی

@@ -12,12 +12,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jo bandagan-e-Khuda naam par Khuda ke chale
-  Furaat o Nil meiṅ bhi raasta bana ke chale
+  Jo bandagaan-e-Khuda naam par Khuda ke chale
+  Furaat o Nil mein bhi raasta bana ke chale
 
   1
   Unhiṅ ke dam se rawaaṅ hai ye kaarwaan-e-hayaat
-  Khud apni raah meiṅ jo farsh-e-khuṅ bichha ke chale
+  Khud apni raah mein jo farsh-e-khuṅ bichha ke chale
 
   2
   Riyaaz-e-majlis-e-Sarwar bhi hai ajab ke jahaaṅ

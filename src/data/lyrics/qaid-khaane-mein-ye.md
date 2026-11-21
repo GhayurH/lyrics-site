@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Tum ko paani ke liye bhej ke sharminda thi
-  Karbala jaa ke chacha jaan se kehna bhaai
+  Karbala jaa ke chachaa jaan se kehna bhaai
 
   9
   Keh ke Ishrat ye Sakina ne kiya sab ko salaam

@@ -8,50 +8,32 @@ poet: "Hasnain Jaffery"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Pardes may ghar lut gaya bano ki thi faryaad
-
-  Ay sayyade sajjad
-
+romanLyrics: |-
+  Pardes mein ghar lut gaya Bano ki thi faryaad
+  Ae Sayyad-e-Sajjad
 
   1
-
-  Asghar ke bina hogayi dunya meri barbaad
-
+  Asghar ke bina ho gai duniya meri barbaad
 
   2
-
-  Bachon ki judaai may hai zainab ka bura haal
-
-  Kubra bhi hai behaal
-
-  Laila ka jigar chalni hai farwa bhi hai nashaad
-
+  Bachchoṅ ki judaai mein hai Zainab ka bura haal
+  Kubra hi hai behaal
+  Laila ka jigar chhalni hai Farwa bhi hai naashaad
 
   3
-
-  Akbar hai na asghar hai na ab shahe mubeen hai
-
-  Har samt layeen hai
-
-  Tumhi mere waris bhi ho tumhi meri aulaad
-
+  Akbar haiṅ na Asghar haiṅ na ab Shaah-e-Mubin haiṅ
+  Har samt laeen haiṅ
+  Tum hi mere waaris bhi ho tum hi meri aulaad
 
   4
-
-  Raton ko bhi aksar jo sakina nahi soti
-
+  Raatoṅ ko bhi aksar jo Sakina nahiṅ soti
   Uth uth ke hai roti
-
-  Aankhon may phira karte ho shayad sitami jaad
-
+  Aaṅkhoṅ mein phira karte haiṅ shaayad sitam ijaad
 
   5
-
-  Parde hai amari hai na chadar na saro par
-
-  Khushki hai labon par
-
-  Rassi ki ghiraft se koi baazu nahi azaad'
+  Parda haiṅ amaari hai na chaadar na Sarwar par
+  Khushki hai laboṅ par
+  Rassi ki giraft se koi baazu nahiṅ aazaad
 ---
 
 پردیس میں گھر لٹ گیا بانو کی تھی فریاد

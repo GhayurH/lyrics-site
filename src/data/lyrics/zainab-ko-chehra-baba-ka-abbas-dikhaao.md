@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Faryaad kar rahi thi haathoṅ ko jor ke
-  Meri saaṅseṅ de ke Baba ko ik baar uthaao
+  Meri saanseṅ de ke Baba ko ik baar uthaao
 
   3
   Abbas bole Sayyida ke haaye sar pe rakh ke haath
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Shabbir bole behnoṅ se karo Baba ko widaa
-  Allah ki is raza pe na aaṅsu bahaao
+  Allah ki is raza pe na aansu bahaao
 ---
 
 زینب کو چہرہ بابا کا عباس دکھاؤ

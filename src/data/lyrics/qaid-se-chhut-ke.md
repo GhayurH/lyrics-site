@@ -11,7 +11,7 @@ tags: []
 aliases: ["Qaid Se Chut Ke"]
 published: true
 romanLyrics: |-
-  Qabr-e-Shah ki banaai hai Zainab
+  Qabr Shah ki banaai hai Zainab
   Kuch yatimoṅ ko laai hai Zainab
   Kehti hai ro ke lo khabar bhai
   Khatm ab ho gaya safar bhai
@@ -62,7 +62,7 @@ romanLyrics: |-
   6
   Jab kiya ham ko daakhil-e-zindaaṅ
   Naam ko bhi na roshni thi wahaaṅ
-  Ro ke kahti thi ye Sakina jaaṅ
+  Ro ke kehti thi ye Sakina jaaṅ
   Yaaṅ se le kar chalo phuphi ammaaṅ
   Mujh se bardaasht ho nahiṅ sakti
   Maiṅ andhere meiṅ so nahiṅ sakti

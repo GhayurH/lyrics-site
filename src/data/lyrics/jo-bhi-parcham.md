@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ya abal fazlil abbas
-  Ae alamdare karbala ghazi
-  Ae wafadare fatema ghazi
+  Ya Abal Fazlil Abbas
+  Ae alamdaar-e-Karbala Ghazi
+  Ae wafadaar-e-Fatema Ghazi
   Jo bhi parcham tera uthaata hai
-  Wo dua fatema se paata hai
+  Wo dua Fatema se paata hai
   Us alam par jo ek panja hai
-  Panjetan paanch hai batata hai
+  Panjtan paanch hai bataata hai
   Jo bhi parcham...
-  Mera ghazi ka wo bhatija hai
-  Tir khaa kar jo muskurata hai
+  Mera Ghazil ka wo bhatija hai
+  Tir khaa kar jo muskuraata hai
   Jo bhi parcham...
-  Maa ye kehti hai kamiyab huṅ mai
+  Maaṅ ye kehti hai kaamyaab huṅ main
   Mera beta alam uthaata hai
   Jo bhi parcham...
-  Ye shareefun nasab ka shewa hai
+  Ye sharif-un-nasab ka shewa hai
   Har koi kab alam uthaata hai
   Jo bhi parcham...
-  Daad dete hai khud Husain use
+  Daad dete haiṅ khud Husain use
   Jab namazi alam uthaata hai
   Jo bhi parcham...
   Naaz karta hai ye alam khud par
-  Daste ghazi meiṅ jab bhi aata hai
+  Dast-e-Ghazi mein jab bhi aata hai
   Jo bhi parcham...
-  Iske saaye meiṅ jo bhi palte hai
-  Unko ye sher dil banata hai
+  Is ke saaye mein jo bhi palte haiṅ
+  Un ko ye sher dil banaata hai
   Jo bhi parcham...
-  Bewafaon khareeb mat aana
-  Ye alam shajre jaan jaata hai
+  Bewafaoṅ qarib mat aana
+  Ye alam shajr-e-jaan jaata hai
   Jo bhi parcham...
-  Us se khush kaise ho mera ghazi
-  Bhaiyoṅ ka jo dil dukhata hai
+  Us se khush kaise ho mera Ghazi
+  Bhaaiyoṅ ka jo dil dukhaata hai
   Jo bhi parcham...
-  Hai alam meiṅ jo ek mashkeeza
-  Kya mohabbat hai ye batata hai
+  Hai alam mein jo ek mashkiza
+  Kya mohabbat hai ye bataata hai
   Jo bhi parcham...
   Hai alam ki mukhalifat phir bhi
-  Ye zamane pe chaaya jaata hai
+  Ye zamaane pe chhaaya jaata hai
   Jo bhi parcham...
   Ye alam mard ki alaamat hai
-  Ab bhi mardoṅ meiṅ paaya jaata hai
+  Ab bhi mardoṅ mein paaya jaata hai
   Jo bhi parcham...
-  Khud sakina duayeiṅ deti hai
-  Jab bhi parcham koi sajata hai
+  Khud Sakina duaaeṅ deti hai
+  Jab bhi parcham koi sajaata hai
   Jo bhi parcham...
-  Ae sharar naqvi shadman kaho
-  Ye alam aasmaṅ banata hai
+  Ae Sharar Naqvi shaadmaan kaho
+  Ye alam aasmaaṅ banaata hai
   Jo bhi parcham...
 ---
 

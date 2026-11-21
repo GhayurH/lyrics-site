@@ -1,29 +1,48 @@
 ---
-title: "Karbala Toon Pehlaan Bachrey Ghazi Di Behan Lyrics 2022"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کربلا توں پہلاں بچڑے غازی دی بہن، کلام ۲۰۲۲"
+alternateTitle: "Karbala Toon Pehlaan Bachrey Ghazi Di Behan Lyrics 2022"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Karbala toon pehlaan bachrey Ghazi di behan ne warey ne
+  Parh ke Eid Musalmana ne tere lal Ruqaiya marey ne
+  Ijaz-e-imamat ne dasiya na Muslim na tere lal ray
+  Ro aakhiya Sain Ruqaiya ne mere muk gaye maan aj sare ne
+
+  2
+  Pa rasiyaan waang zabihiyan de aaye Kofay wich bazaraan de
+  Kisay kalma go na pochiya aye kidi akhiyaan de aye taray ne
+  Meri Sain de bachiyaan nu rowan jinhan mawaan bachray palay ne
+  Jehray mawaan de kool sonday ne honday mawaan nu barey pyaray ne
+
+  3
+  Ik maa da kul sarmaya aye Muslim di bewah daan kita
+  Khus jaway sir da taj hunday mawaan layi putar saharey ne
+  Kardi aye yaad oh putraan nu ik Najfi wain oh pandi aye
+  Meri jori piyo de baad barey haye okhay waqt guzarey ne
 ---
 
-1
-Karbala Toon Pehlaan Bachrey Ghazi Di Behan Ne Warey Ne.
-Parh Ke Eid Musalmana Ne Tere Lal Ruqaiya Marey Ne.
-Ijaz-e-Imamat Ne Dasiya Na Muslim Na Tere Lal Ray.
-Ro Aakhiya Sain Ruqaiya Ne Mere Muk Gaye Maan Aj Sare Ne.
+۱
+کربلا توں پہلاں بچڑے غازی دی بہن نے وارے نے
+پڑھ کے عید مسلماناں نے تیرے لال رقیہ مارے نے
+اعجازِ امامت نے دسیا نہ مسلم نہ تیرے لال رہے
+رو آکھیا سائیں رقیہ نے میرے مک گئے مان اج سارے نے
 
-2
-Pa Rasiyaan Waang Zabihiyan De Aaye Kofay Wich Bazaraan De.
-Kisay Kalma Go Na Pochiya Aye Kidi Akhiyaan De Aye Taray Ne.
-Meri Sain De Bachiyaan Nu Rowan Jinhan Mawaan Bachray Palay Ne.
-Jehray Mawaan De Kool Sonday Ne Honday Mawaan Nu Barey Pyaray Ne.
+۲
+پا رسیاں وانگ ذبیحیاں دے آئے کوفے وچ بازاراں دے
+کسے کلمہ گو نہ پچھیا اے کیہدی اکھیاں دے اے تارے نے
+میری سائیں دے بچیاں نوں رون جنہاں ماواں بچڑے پالے نے
+جیہڑے ماواں دے کول سوندے نے ہوندے ماواں نوں بڑے پیارے نے
 
-3
-Ik Maa Da Kul Sarmaya Aye Muslim Di Bewah Daan Kita.
-Khus Jaway Sir Da Taj Hunday Mawaan Layi Putar Saharey Ne.
-Kardi Aye Yaad Oh Putraan Nu Ik Najfi Wain Oh Pandi Aye.
-Meri Jori Piyo De Baad Barey Haye Okhay Waqt Guzarey Ne.
+۳
+اک ماں دا کل سرمایہ اے مسلم دی بیوہ دان کیتا
+کھس جاوے سر دا تاج ہوندے ماواں لئی پتر سہارے نے
+کردی اے یاد اوہ پتراں نوں اک نجفی وین اوہ پاندی اے
+میری جوڑی پیو دے بعد بڑے ہائے اوکھے وقت گزارے نے

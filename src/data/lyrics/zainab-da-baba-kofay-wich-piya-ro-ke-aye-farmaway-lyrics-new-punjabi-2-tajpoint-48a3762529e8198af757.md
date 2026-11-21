@@ -1,29 +1,48 @@
 ---
-title: "Zainab Da Baba Kofay Wich Piya Ro Ke Aye Farmaway Lyrics New Punjabi 2025"
+title: "زینب دا بابا کوفے وچ پیا رو کے اے فرماوے"
+alternateTitle: "Zainab Da Baba Kofay Wich Piya Ro Ke Aye Farmaway"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab da baba Kofay wich piya ro ke aye farmaway
+  Tazeem na bhulna dhi meri jadon qaidan ban ke aaway
+  Aye dhi loko oss maa di aye jino pak Khuda piya kainda aye
+  Ahsan Rasool te howay ga aidi chadar koi na laway
+
+  2
+  Ainj lagda aye jiwein Maula haye ajar-e-risalat mangiya aye
+  Jadon ujar ke aaway dhi meri ik chadar koi de jaway
+  Zahra de jondiyaan haye musalmana mere gal wich rasiyaan paiyaan
+  Oh rasiyaan meri Zainab de hathaan wich koi na paway
+
+  3
+  Kehya Zainab nu toon wain karein jadon lut lain pak ridawaan
+  Teri chadar kafan Ali da aye na nezay te lehraway
+  Athro Maula de haye kenday re kisay dard na suniya Najfi
+  Shabbir di dhi nu maqtal wich koi zalim hath na laway
 ---
 
-1
-Zainab Da Baba Kofay Wich Piya Ro Ke Aye Farmaway.
-Tazeem Na Bhulna Dhi Meri Jadon Qaidan Ban Ke Aaway.
-Aye Dhi Loko Oss Maa Di Aye Jino Pak Khuda Piya Kainda Aye.
-Ahsan Rasool Te Howay Ga Aidi Chadar Koi Na Laway.
+۱
+زینب دا بابا کوفے وچ پیا رو کے اے فرماوے
+تعظیم نہ بھلنا دھی میری جدوں قیدن بن کے آوے
+اے دھی لوکو اوس ماں دی اے جینوں پاک خدا پیا کہندا اے
+احسان رسول تے ہووے گا ایدی چادر کوئی نہ لاوے
 
-2
-Ainj Lagda Aye Jiwein Maula Haye Ajar-e-Risalat Mangiya Aye.
-Jadon Ujar Ke Aaway Dhi Meri Ik Chadar Koi De Jaway.
-Zahra De Jondiyaan Haye Musalmana Mere Gal Wich Rasiyaan Paiyaan.
-Oh Rasiyaan Meri Zainab De Hathaan Wich Koi Na Paway.
+۲
+اینج لگدا اے جیویں مولا ہائے اجرِ رسالت منگیا اے
+جدوں اجڑ کے آوے دھی میری اک چادر کوئی دے جاوے
+زہرا دے جوندیاں ہائے مسلمانا میرے گل وچ رسیاں پئیاں
+اوہ رسیاں میری زینب دے ہتھاں وچ کوئی نہ پاوے
 
-3
-Kehya Zainab Nu Toon Wain Karein Jadon Lut Lain Pak Ridawaan.
-Teri Chadar Kafan Ali Da Aye Na Nezay Te Lehraway.
-Athro Maula De Haye Kenday Re Kisay Dard Na Suniya Najfi.
-Shabbir Di Dhi Nu Maqtal Wich Koi Zalim Hath Na Laway.
+۳
+کہیا زینب نوں توں وین کریں جدوں لٹ لین پاک رداواں
+تیری چادر کفن علی دا اے نہ نیزے تے لہراوے
+اتھرو مولا دے ہائے کہندے رہے کسے درد نہ سنیا نجفی
+شبیر دی دھی نوں مقتل وچ کوئی ظالم ہتھ نہ لاوے

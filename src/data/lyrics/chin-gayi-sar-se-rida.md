@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aal-e-mohamed pe aafat ki ghari hai
+  Aal-e-Muhammad pe aafat ki ghari hai
   Bhaiya teri behna sar nange khari hai
-  Naala o shewan se ek hashr bapa hai
-  Koi na waris raha qaima har ek jal gaya
-  Chin gayi sar se rida karti thi zainab buka
-  Utne lage qaimon se aag ke shole
-  Kaise teri behna bachoṅ ko sambhale
-  Ghash may mera abid sholoṅ may ghira hai
-  Chin gayi sar se rida...
-  Haye ali akbar tum kyoṅ nahi aaye
-  Zaalimo ne aake sab qaime jalaye
+  Naala o shewan se ik hashr bapa hai
+  Koi na waaris raha khaima har ik jal gaya
+  Chhin gayi sar se rida karti thi Zainab buka
+  Uthne lage khaimoṅ se aag ke shole
+  Kaise teri behna bachchoṅ ko sambhaale
+  Ghash meiṅ mera Aabid sholoṅ meiṅ ghira hai
+  Chhin gayi sar se rida...
+  Haaye Ali Akbar tum kiuṅ nahiṅ aaye
+  Zaalimoṅ ne aake sab khaime jalaaye
   Kaun kare nusrat koi na raha hai
-  Chin gayi sar se rida...
-  Chin liye kaano se shimr ne gauhar
-  Kis se kare shikwa baba na baradar
-  Khun sakina ke kaano se baha hai
-  Chin gayi sar se rida...
-  Aag ne daaman ko jab uske jalaya
-  Bali sakina ne ro ro ke sunaya
-  Dasht-e-bayabaṅ hai aur karbobala hai
-  Chin gayi sar se rida...
-  Maut ke sehra may gham ghurda hirasaa
-  Dhundti hai bachi har samt pareshaṅ
-  Lab pe faqat baba baba ki sada hai
-  Chin gayi sar se rida...
-  Maqtal may gunji aawaz-e-bunaya
+  Chhin gayi sar se rida...
+  Chhin liye kaanoṅ se Shimr ne gauhar
+  Kis se kare shikwa baba na baraadar
+  Khun Sakina ke kaanoṅ se baha hai
+  Chhin gayi sar se rida...
+  Aag ne daaman ko jab us ke jalaaya
+  Baali Sakina ne ro ro ke sunaaya
+  Dasht-e-bayaabaaṅ hai aur Karb o Bala hai
+  Chhin gayi sar se rida...
+  Maut ke sehra meiṅ gham gurda hirasaaṅ
+  Dhundti hai bachchi har samt pareshaaṅ
+  Lab pe faqat baba ki sada hai
+  Chhin gayi sar se rida...
+  Maqtal meiṅ gunji aawaaz-e-bunaya hai
   Yuṅ na karo naale aelaiya aelaiya
   Dur hai darya bhi aur khuni fiza hai
-  Chin gayi sar se rida...
+  Chhin gayi sar se rida...
   Tere chacha ko hai is waqt aziyat
-  Jao na darya pe gar hai koi ulfat
-  Mujhse kaho beta jo unse gila hai
-  Chin gayi sar se rida...
-  Teri phupi beta sehra e bala may
-  Dhundti hai tumko wo girdo-niwa may
-  Teri judaai se masruf e-buka hai
-  Chin gayi sar se rida...
-  Sunke anis-e-gham ye nauha iram may
-  Hur o malak naale karne lage gham may
-  Majlis-e-sarwar may kohraam bapa hai
-  Chin gayi sar se rida...
+  Jaao na darya pe gar hai koi ulfat
+  Mujh se kaho beta jo un se gila hai
+  Chhin gayi sar se rida...
+  Teri phuphi beta sehra-e-bala meiṅ
+  Dhundti hai tum ko woh girdo nawa meiṅ
+  Teri judaai se masruf-e-buka hai
+  Chhin gayi sar se rida...
+  Sun ke Anis-e-gham ye nauha Iram meiṅ
+  Hur o malak naale karne lage gham meiṅ
+  Majlis-e-Sarwar meiṅ kohraam bapa hai
+  Chhin gayi sar se rida...
 ---
 
 ۱

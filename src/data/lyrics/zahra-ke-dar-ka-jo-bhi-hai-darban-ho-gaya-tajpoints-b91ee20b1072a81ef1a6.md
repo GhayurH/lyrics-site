@@ -1,28 +1,46 @@
 ---
-title: "Zahra Ke Dar Ka Jo Bhi Hai Darban Ho Gaya"
+title: "زہرا کے در کا جو بھی ہے دربان ہو گیا"
+alternateTitle: "Zahra Ke Dar Ka Jo Bhi Hai Darban Ho Gaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra ke dar ka jo bhi hai darban ho gaya
+
+  1
+  Dunya mein faqat woh hi hai zeeshan ho gaya
+
+  2
+  Darhi se saaf karta raha jo Dar-e-Zahra
+  Phir ghoor se jo dekha tu Salman ho gaya
+  Aa kar qadam jo chomay tu Shabeer ne kaha
+  Aye Hur tu ab se Sahib-e-Irfan ho gaya
+  Bughz-e-Ali Wali mein jal raha hai gar koi
+  Samjho ke oss ka dil hi shamshan ho gaya
+  Shab ko bhuja diya tha shayad ke iss liye
+  Na chor ke jaein gaye yeh eqan ho gaya
+  Jin se khafa hai Fatima Farman ho gayi
+  Lanat ka hai haqdar woh insan ho gaya
 ---
 
-Zahra Ke Dar Ka Jo Bhi Hai Darban Ho Gaya.
+زہرا کے در کا جو بھی ہے دربان ہو گیا
 
-1
-Dunya Mein Faqat Woh Hi Hai Zeeshan Ho Gaya.
+۱
+دنیا میں فقط وہ ہی ہے ذیشان ہو گیا
 
-2
-Darhi Se Saaf Karta Raha Jo Dar-e-Zahra.
-Phir Ghoor Se Jo Dekha Tu Salman Ho Gaya.
-Aa Kar Qadam Jo Chomay Tu Shabeer Ne Kaha.
-Aye Hur Tu Ab Se Sahib-e-Irfan Ho Gaya.
-Bughz-e-Ali Wali Mein Jal Raha Hai Gar Koi.
-Samjho Ke Oss Ka Dil Hi Shamshan Ho Gaya.
-Shab Ko Bhuja Diya Tha Shayad Ke Iss Liye.
-Na Chor Ke Jaein Gaye Yeh Eqan Ho Gaya.
-Jin Se Khafa Hai Fatima Farman Ho Gayi.
-Lanat Ka Hai Haqdar Woh Insan Ho Gaya.
+۲
+داڑھی سے صاف کرتا رہا جو درِ زہرا
+پھر غور سے جو دیکھا تو سلمان ہو گیا
+آ کر قدم جو چومے تو شبیر نے کہا
+اے حر تو اب سے صاحبِ عرفان ہو گیا
+بغضِ علی ولی میں جل رہا ہے گر کوئی
+سمجھو کہ اُس کا دل ہی شمشان ہو گیا
+شب کو بجھا دیا تھا شاید کہ اِس لیے
+نہ چھوڑ کے جائیں گے یہ ایقان ہو گیا
+جن سے خفا ہے فاطمہ فرمان ہو گئی
+لعنت کا ہے حق دار وہ انسان ہو گیا

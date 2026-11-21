@@ -13,7 +13,7 @@ aliases: ["Kafan Bandh Sar Pe Baraye Baqa Shahadat Saadat Ka Nara Laga"]
 published: true
 romanLyrics: |-
   Kafan baandh sar pe baraaye baqa shahaadat saaadat ka naara laga
-  Ye kaar-e-shujaaat hai kar ibtida shahaadat saaadat ka naara laga
+  Ye kaar-e-shujaat hai kar ibtida shahaadat saaadat ka naara laga
 
   1
   Ke tu hai parastaar-e-Khaibar shikan alam tere sar pe hai saaya figan
@@ -22,7 +22,7 @@ romanLyrics: |-
   Zara apne Maulaai tewar dikha shahaadat saaadat ka naara laga
 
   2
-  Hai tu Bu-Turaabi azaadaar hai Nabi ke gharaane ka hubdaar hai
+  Hai tu Bu Turaabi azaadaar hai Nabi ke gharaane ka hubdaar hai
   Ghulaam-e-Shahanshaah-e-Karb o bala shahaadat saaadat ka naara laga
   Yazidi anaasir ka hai saamna hai matlub phir Hur ka josh-e-wigha
   Wafaadaariyaaṅ de rahi haiṅ sada shahaadat saaadat ka naara laga

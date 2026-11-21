@@ -20,12 +20,12 @@ romanLyrics: |-
   Hai zinda-e-jaaved yahaaṅ aa ke jo mar jaaye
 
   2
-  Shah kehte the ham din pe aaṅch aane na deiṅ ge
+  Shah kehte the ham din pe aaṅch aane na deṅ ge
   Zar jaaye ke gar jaaye pisar jaaye ke sar jaaye
 
   3
   Maaṅ ne teri zulfoṅ ko sanwaara to hai Akbar
-  Dar hai kya isi razaaye hasti na bikhar jaaye
+  Dar hai kya isi raza-e-hasti na bikhar jaaye
 
   4
   Kam sin hai yatimi hai asiri hai qalaq hai

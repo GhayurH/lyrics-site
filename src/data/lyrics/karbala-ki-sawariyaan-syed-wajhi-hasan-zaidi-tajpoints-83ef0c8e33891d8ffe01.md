@@ -1,93 +1,176 @@
 ---
-title: "Karbala Ki Sawariyaan Syed Wajhi Hasan Zaidi"
+title: "کربلا کی سواریاں سید وجیہ حسن زیدی"
+alternateTitle: "Karbala Ki Sawariyaan Syed Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala ki sawariyaan Syed Wajhi Hasan Zaidi
+
+  1
+  Aye momino ajeeb sa dekha hai aik khuwab
+  Mehway sukhan hain Ashal-o-Memoon our uqab
+  Qudsi falak se aaye hain sunney ko yeh khitab
+  Hai iss mufakhiray ka har ik lafz la jawab
+  Teenu ke lab pe yeh sukhan-e-la kalam hain
+  Hum nasir-e-Hussain hain
+
+  2
+  Kehte hain hum pe khas karam hai Hussain ka
+  Saya figan saron pe alam hai Hussain ka
+  Dil pe hamarey naam raqam hai Hussain ka
+  Apna tu Kaba naqsh-e-qadam hai Hussain ka
+  Hum moatbar hain Ibn-e-Ali ki nigah mein
+  Shamil hamara khon bhi hai sajdah ga mein
+
+  3
+  Khak-e-rah-e-Hussain se dhalay gaye hain hum
+  Noor-e-nigah-e-sheh se ujalay gaye hain hum
+  Sanbhlay hoye they our sanbhalay gaye hain hum
+  Karb-o-Bala ke wastay palay gaye hain hum
+  Nisbat jo ho gayi hai sheh-e-mashreqain se
+  Zindah hamara naam rahe ga Hussain se
+
+  4
+  Memoon keh raha tha keh dekho mera nikhar
+  Jis ki hoon main sawari sawaron mein sheh sawar
+  Mere sawar ne hi kiya mujh ko ba waqar
+  Dekho keh khushboon ne kiya hai mera haisar
+  Qasim ko apni pusht pe jab main uthaon ga
+  Kal main bhi apne mathay pe sehra sajaon ga
+
+  5
+  Ashal yeh bola main hoon wafadar ke liye
+  Duldul sift hoon sani-e-Karrar ke liye
+  Yeh baat hai bohat marey kirdar ke liye
+  Pala mujhe Ali ne Alamdar ke liye
+  Soraj ki roshni bhi marey aagay maand hai
+  Mera sawar tu bani hashim ka chand hai
+
+  6
+  Youn lab kusha howa Ali Akbar ka phir uqab
+  Hum sab hain khadman-e-janab-e-Abu Turab
+  Jibreel sa malak bhi raha mera hum rakab
+  Akbar ki nojawani ne bakhsha mujhe shabab
+  Main hoon uqab rehta hoon mehway oraan main
+  Akbar ke sath sath howa hoon jawan main
+
+  7
+  Jari mufakhra tha keh aa pohancha Zuljinah
+  Dali Wajih sab pe barey naaz se nigah
+  Phir bola Zuljinah keh tum ho meri sipah
+  Rakhna khiyal kal bari mushkil hai sab ki rah
+  Kal karna haq ada youn janab-e-Batool ka
+  Ho jaye tum se razi nawasa Rasool ka
+
+  8
+  Murtajiz naam hai Shabeer ka rahwar hoon main
+  Noor-e-awwal ki qasam shamil-e-anwar hoon main
+  Khud wafadar yeh kehte hain wafadar hoon main
+  Merey hum jins jo hain unn ka Alamdar hoon main
+  Jab se Allah ne iss dar ki ghulami di hai
+  Mujh ko aa aa ke farishto ne salami di hai
+
+  9
+  Shair-e-Allah se payi hai shujat main ne
+  Sath Shabeer ke ki deen ki nusrat main ne
+  Payi kuch iss liye aalam mein yeh azmat main ne
+  Ki hai Shabeer-o-Alamdar ki baiyat main ne
+  Dil-e-momin mein sada meri aqeedat hogi
+  Hashar tak meri shabiyon ki ziyarat hogi
+
+  10
+  Zuljinah karta hai aye:Noor Ali: ab yeh kalam
+  Sath Qayam ke karon ga main sar-e-dehar-e-qiyam
+  Sare aalam ko samajh aaye ga tab mera maqam
+  Jab meri pusht pe aaye ga zamane ka imam
+  Chashm-e-aa gah ko main deed panahi doon ga
+  Main unhein sare shaheedon ki gawahi doon ga
 ---
 
-Karbala Ki Sawariyaan Syed Wajhi Hasan Zaidi.
+کربلا کی سواریاں سید وجیہ حسن زیدی
 
-1
-Aye Momino Ajeeb Sa Dekha Hai Aik Khuwab.
-Mehway Sukhan Hain Ashal-o-Memoon Our Uqab.
-Qudsi Falak Se Aaye Hain Sunney Ko Yeh Khitab.
-Hai Iss Mufakhiray Ka Har Ik Lafz La Jawab.
-Teenu Ke Lab Pe Yeh Sukhan-e-La Kalam Hain.
-Hum Nasir-e-Hussain Alh Aslam Hain.
+۱
+اے مومنو، عجیب سا دیکھا ہے ایک خواب
+محوِ سخن ہیں اشہل و میمون اور عقاب
+قدسی فلک سے آئے ہیں سننے کو یہ خطاب
+ہے اس مفاخرے کا ہر اک لفظ لاجواب
+تینوں کے لب پہ یہ سخنِ لاکلام ہیں
+ہم ناصرِ حسین علیہ السلام ہیں
 
-2
-Kehte Hain Hum Pe Khas Karam Hai Hussain Ka.
-Saya Figan Saron Pe Alam Hai Hussain Ka.
-Dil Pe Hamarey Naam Raqam Hai Hussain Ka.
-Apna Tu Kaba Naqsh-e-Qadam Hai Hussain Ka.
-Hum Moatbar Hain Ibn-e-Ali Ki Nigah Mein.
-Shamil Hamara Khon Bhi Hai Sajdah Ga Mein.
+۲
+کہتے ہیں ہم پہ خاص کرم ہے حسین کا
+سایہ فگن سروں پہ علم ہے حسین کا
+دل پہ ہمارے نام رقم ہے حسین کا
+اپنا تو کعبہ نقشِ قدم ہے حسین کا
+ہم معتبر ہیں ابنِ علی کی نگاہ میں
+شامل ہمارا خون بھی ہے سجدہ گاہ میں
 
-3
-Khak-e-Rah-e-Hussain Se Dhalay Gaye Hain Hum.
-Noor-e-Nigah-e-Sheh Se Ujalay Gaye Hain Hum.
-Sanbhlay Hoye They Our Sanbhalay Gaye Hain Hum.
-Karb-o-Bala Ke Wastay Palay Gaye Hain Hum.
-Nisbat Jo Ho Gayi Hai Sheh-e-Mashreqain Se.
-Zindah Hamara Naam Rahe Ga Hussain Se.
+۳
+خاکِ راہِ حسین سے ڈھالے گئے ہیں ہم
+نورِ نگاہِ شہ سے اجالے گئے ہیں ہم
+سنبھلے ہوئے تھے اور سنبھالے گئے ہیں ہم
+کرب و بلا کے واسطے پالے گئے ہیں ہم
+نسبت جو ہو گئی ہے شہِ مشرقین سے
+زندہ ہمارا نام رہے گا حسین سے
 
-4
-Memoon Keh Raha Tha Keh Dekho Mera Nikhar.
-Jis Ki Hoon Main Sawari Sawaron Mein Sheh Sawar.
-Mere Sawar Ne Hi Kiya Mujh Ko Ba Waqar.
-Dekho Keh Khushboon Ne Kiya Hai Mera Haisar.
-Qasim Ko Apni Pusht Pe Jab Main Uthaon Ga.
-Kal Main Bhi Apne Mathay Pe Sehra Sajaon Ga.
+۴
+میمون کہہ رہا تھا کہ دیکھو میرا نکھار
+جس کی ہوں میں سواری، سواروں میں شہ سوار
+میرے سوار نے ہی کیا مجھ کو باوقار
+دیکھو کہ خوشبوؤں نے کیا ہے میرا حصار
+قاسم کو اپنی پشت پہ جب میں اٹھاؤں گا
+کل میں بھی اپنے ماتھے پہ سہرا سجاؤں گا
 
-5
-Ashal Yeh Bola Main Hoon Wafadar Ke Liye.
-Duldul Sift Hoon Sani-e-Karrar Ke Liye.
-Yeh Baat Hai Bohat Marey Kirdar Ke Liye.
-Pala Mujhe Ali Ne Alamdar Ke Liye.
-Soraj Ki Roshni Bhi Marey Aagay Maand Hai.
-Mera Sawar Tu Bani Hashim Ka Chand Hai.
+۵
+اشہل یہ بولا، میں ہوں وفادار کے لیے
+دلدل صفت ہوں ثانیِ کرار کے لیے
+یہ بات ہے بہت مرے کردار کے لیے
+پالا مجھے علی نے علمدار کے لیے
+سورج کی روشنی بھی مرے آگے ماند ہے
+میرا سوار تو بنی ہاشم کا چاند ہے
 
-6
-Youn Lab Kusha Howa Ali Akbar Ka Phir Uqab.
-Hum Sab Hain Khadman-e-Janab-e-Abu Turab.
-Jibreel Sa Malak Bhi Raha Mera Hum Rakab.
-Akbar Ki Nojawani Ne Bakhsha Mujhe Shabab.
-Main Hoon Uqab Rehta Hoon Mehway Oraan Main.
-Akbar Ke Sath Sath Howa Hoon Jawan Main.
+۶
+یوں لب کشا ہوا علی اکبر کا پھر عقاب
+ہم سب ہیں خادمانِ جنابِ ابو تراب
+جبریل سا ملک بھی رہا میرا ہم رکاب
+اکبر کی نوجوانی نے بخشا مجھے شباب
+میں ہوں عقاب، رہتا ہوں محوِ اڑان میں
+اکبر کے ساتھ ساتھ ہوا ہوں جوان میں
 
-7
-Jari Mufakhra Tha Keh Aa Pohancha Zuljinah.
-Dali Wajih Sab Pe Barey Naaz Se Nigah.
-Phir Bola Zuljinah Keh Tum Ho Meri Sipah.
-Rakhna Khiyal Kal Bari Mushkil Hai Sab Ki Rah.
-Kal Karna Haq Ada Youn Janab-e-Batool Ka.
-Ho Jaye Tum Se Razi Nawasa Rasool Ka.
+۷
+جاری مفاخرہ تھا کہ آ پہنچا ذوالجناح
+ڈالی وجیہ سب پہ بڑے ناز سے نگاہ
+پھر بولا ذوالجناح کہ تم ہو میری سپاہ
+رکھنا خیال کل بڑی مشکل ہے سب کی راہ
+کل کرنا حق ادا یوں جنابِ بتول کا
+ہو جائے تم سے راضی نواسۂ رسول کا
 
-8
-Murtajiz Naam Hai Shabeer Ka Rahwar Hoon Main.
-Noor-e-Awwal Ki Qasam Shamil-e-Anwar Hoon Main.
-Khud Wafadar Yeh Kehte Hain Wafadar Hoon Main.
-Merey Hum Jins Jo Hain Unn Ka Alamdar Hoon Main.
-Jab Se ALLAH Ne Iss Dar Ki Ghulami Di Hai.
-Mujh Ko Aa Aa Ke Farishto Ne Salami Di Hai.
+۸
+مرتجز نام ہے، شبیر کا رہوار ہوں میں
+نورِ اول کی قسم، شاملِ انوار ہوں میں
+خود وفادار یہ کہتے ہیں وفادار ہوں میں
+میرے ہم جنس جو ہیں ان کا علمدار ہوں میں
+جب سے اللہ نے اس در کی غلامی دی ہے
+مجھ کو آ آ کے فرشتوں نے سلامی دی ہے
 
-9
-Shair-e-ALLAH Se Payi Hai Shujat Main Ne.
-Sath Shabeer Ke Ki Deen Ki Nusrat Main Ne.
-Payi Kuch Iss Liye Aalam Mein Yeh Azmat Main Ne.
-Ki Hai Shabeer-o-Alamdar Ki Baiyat Main Ne.
-Dil-e-Momin Mein Sada Meri Aqeedat Hogi.
-Hashar Tak Meri Shabiyon Ki Ziyarat Hogi.
+۹
+شیرِ اللہ سے پائی ہے شجاعت میں نے
+ساتھ شبیر کے کی دین کی نصرت میں نے
+پائی کچھ اس لیے عالم میں یہ عظمت میں نے
+کی ہے شبیر و علمدار کی بیعت میں نے
+دلِ مومن میں سدا میری عقیدت ہوگی
+حشر تک میری شبیہوں کی زیارت ہوگی
 
-10
-Zuljinah Karta Hai Aye:NOOR ALI: Ab Yeh Kalam.
-Sath Qayam Ke Karon Ga Main Sar-e-Dehar-e-Qiyam.
-Sare Aalam Ko Samajh Aaye Ga Tab Mera Maqam.
-Jab Meri Pusht Pe Aaye Ga Zamane Ka Imam.
-Chashm-e-Aa Gah Ko Main Deed Panahi Doon Ga.
-Main Unhein Sare Shaheedon Ki Gawahi Doon Ga.
+۱۰
+ذوالجناح کرتا ہے اے نور علی اب یہ کلام
+ساتھ قائم کے کروں گا میں سرِ دہرِ قیام
+سارے عالم کو سمجھ آئے گا تب میرا مقام
+جب مری پشت پہ آئے گا زمانے کا امام
+چشمِ آگاہ کو میں دید پناہی دوں گا
+میں انہیں سارے شہیدوں کی گواہی دوں گا

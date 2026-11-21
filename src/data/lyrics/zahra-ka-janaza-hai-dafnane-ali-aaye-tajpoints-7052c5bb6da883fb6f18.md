@@ -1,36 +1,87 @@
 ---
-title: "Zahra Ka Janaza Hai Dafnane Ali Aaye"
+title: "زہرا کا جنازہ ہے دفنانے علی آئے"
+alternateTitle: "Zahra Ka Janaza Hai Dafnane Ali Aaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Shabbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra ka janaza hai dafnane Ali aaye
+  Hai raat ki veerani Syeda ke soag chaye
+
+  1
+  Bharki jo aag dar pe woh atish-e-Fidak thi
+  Jo sholon mein haye tarpi woh malik-e-falak thi
+  Rutbay dar-e-Batool ke ummat ne hain bhulaye
+
+  2
+  Pehla shaheed Mohsin bunyad-e-Karbala hai
+  Sehan-e-Fatima hai maqtal lasha para howa hai
+  Zahra ke sath jis seene pe zakhm khaye
+
+  3
+  Darbar ki aziyat Bait al-Huzan mein rona
+  Farzand-e-Fatima ka haye shaheed hona
+  Yeh dard Fatima ko ghar se qabar mein laye
+
+  4
+  Taboot jab uthaya ro ro ke ya Ali ne
+  Hasnain sang matam kiya Allah ke wali ne
+  Matam haye betiyon ka Maula na dekh paye
+
+  5
+  Zainab bhi ghar se bahir maiyyat ke sath aayi
+  Khaybar shikan ne ro ke har samt di duhai
+  Zainab ke gird parday Hasnain ne banaye
+
+  6
+  Zainab dedar e aakhir maa ka hai aaj kar lo
+  Aankhon mein maa ki sorat jee bhar ke aaj bhar lo
+  Soyi hoi kafan mein chehray ko hai chupaye
+
+  7
+  Utray qabar mein Shabbar sarkar-e-Mustafa bhi
+  Hasnain ko dilasay detey hain Murtaza bhi
+  Ghamgeen ya Ali hain maiyyat ko khud uthaye
 ---
 
-1
-Zahra Ka Janaza Hai Dafnane Ali Aaye.
-Hai Raat Ki Veerani Syeda Ke Soag Chaye.
-Bharki Jo Aag Dar Pe Woh Atish-e-Fidak Thi.
-Jo Sholon Mein Haye Tarpi Woh Malik-e-Falak Thi.
-Rutbay Dar-e-Batool Ke Ummat Ne Hain Bhulaye.
-Pehla Shaheed Mohsin Bunyad-e-Karbala Hai.
-Sehan-e-Fatima Hai Maqtal Lasha Para Howa Hai.
-Zahra Ke Sath Jis Seene Pe Zakhm Khaye.
-Darbar Ki Aziyat Bait Al-Huzan Mein Rona.
-Farzand-e-Fatima Ka Haye Shaheed Hona.
-Yeh Dard Fatima Ko Ghar Se Qabar Mein Laye.
-Taboot Jab Uthaya Ro Ro Ke Ya Ali Ne.
-Hasnain Sang Matam Kiya ALLAH Ke Wali Ne.
-Matam Haye Betiyon Ka Maula Na Dekh Paye.
-Zainab Bhi Ghar Se Bahir Maiyyat Ke Sath Aayi.
-Khaybar Shikan Ne Ro Ke Har Samt Di Duhai.
-Zainab Ke Gird Parday Hasnain Ne Banaye.
-Zainab Dedar e Aakhir Maa Ka Hai Aaj Kar Lo.
-Aankhon Mein Maa Ki Sorat Jee Bhar Ke Aaj Bhar Lo.
-Soyi Hoi Kafan Mein Chehray Ko Hai Chupaye.
-Utray Qabar Mein Shabbar Sarkar-e-Mustafa Bhi.
-Hasnain Ko Dilasay Detey Hain Murtaza Bhi.
-Ghamgeen Ya Ali Hain Maiyyat Ko Khud Uthaye.
+زہرا کا جنازہ ہے دفنانے علی آئے
+ہے رات کی ویرانی سیدہ کے سوگ چھائے
+
+۱
+بھڑکی جو آگ در پہ وہ آتشِ فدک تھی
+جو شعلوں میں ہائے تڑپی وہ مالکِ فلک تھی
+رتبے درِ بتول کے امت نے ہیں بھلائے
+
+۲
+پہلا شہید محسن بنیادِ کربلا ہے
+صحنِ فاطمہ ہے مقتل لاشہ پڑا ہوا ہے
+زہرا کے ساتھ جس سینے پہ زخم کھائے
+
+۳
+دربار کی اذیت بیت الحزن میں رونا
+فرزندِ فاطمہ کا ہائے شہید ہونا
+یہ درد فاطمہ کو گھر سے قبر میں لائے
+
+۴
+تابوت جب اٹھایا رو رو کے یا علی نے
+حسنین سنگ ماتم کیا اللہ کے ولی نے
+ماتم ہائے بیٹیوں کا مولا نہ دیکھ پائے
+
+۵
+زینب بھی گھر سے باہر میت کے ساتھ آئی
+خیبر شکن نے رو کے ہر سمت دی دہائی
+زینب کے گرد پردے حسنین نے بنائے
+
+۶
+زینب دیدارِ آخر ماں کا ہے آج کر لو
+آنکھوں میں ماں کی صورت جی بھر کے آج بھر لو
+سوئی ہوئی کفن میں چہرے کو ہے چھپائے
+
+۷
+اترے قبر میں شبر سرکارِ مصطفیٰ بھی
+حسنین کو دلاسے دیتے ہیں مرتضیٰ بھی
+غمگین یا علی ہیں میت کو خود اٹھائے

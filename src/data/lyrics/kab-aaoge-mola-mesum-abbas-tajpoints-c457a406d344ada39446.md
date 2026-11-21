@@ -1,46 +1,105 @@
 ---
-title: "Kab Aaoge Mola Mesum Abbas"
+title: "کب آؤ گے مولا میثم عباس"
+alternateTitle: "Kab Aaoge Mola Mesum Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hilal"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hawa-e-karam kab chalao gay Maula
+  Diye zulm ke kab bhujao gay Maula
+  Yeh ghaibat kahan tak barhao gay Maula
+  Kab apni ziyarat karao gay Maula
+  Judai mein kab tak rulao gay Maula
+
+  2
+  Hoi ik muddat sitam sehtay sehtay
+  Zabaan thak chuki Al-Ajal kehte kehte
+  Humein kab ghamo se churao gay Maula
+
+  3
+  Arezon ko kab tak waseela banaein
+  Tumhein hal-e-dil samne ab sunaein
+  Kab inn fasalon ko mitao gay Maula
+
+  4
+  Wilayat ko zakhmi kiye ja rahe hain
+  Sab ik dosrey se laray ja rahe hain
+  Kab aapas mein inn ko milao gay Maula
+
+  5
+  Zahoor aap ka ho ga kis roz jane
+  Dua-e-farj hai labon par hamarey
+  Asar kab duaon mein lao gay Maula
+
+  6
+  Yeh dil misal-e-hur hai pareshaan hamara
+  Hussain aap ban kar batao khudara
+  Galay se humein kab lagao gay Maula
+
+  7
+  Hai halat bhi ab misal-e-yaqoob dekho
+  Hamari umeedon ke Yousuf tumhi ho
+  Taras kab inn aankhon pe khao gay Maula
+
+  8
+  Baqiya mein kab tak andhera rahe ga
+  Dil-e-fatima ko sakoon kab miley ga
+  Diya qabar pe kab jalao gay Maula
+
+  9
+  Rahein gay younhi kab talak ashk jari
+  Shab-e-hijar kab khatam hogi hamari
+  Charag-e-sahar kab jalao gay Maula
 ---
 
-1
-Kab Aaoge Mola Mesum Abbas Lyrics
-Hawa-e-Karam Kab Chalao Gay Maula.
-Diye Zulm Ke Kab Bhujao Gay Maula.
-Yeh Ghaibat Kahan Tak Barhao Gay Maula.
-Kab Apni Ziyarat Karao Gay Maula.
-Judai Mein Kab Tak Rulao Gay Maula.
-Hoi Ik Muddat Sitam Sehtay Sehtay.
-Zabaan Thak Chuki Al-Ajal Kehte Kehte.
-Humein Kab Ghamo Se Churao Gay Maula.
-Arezon Ko Kab Tak Waseela Banaein.
-Tumhein Hal-e-Dil Samne Ab Sunaein.
-Kab Inn Fasalon Ko Mitao Gay Maula.
-Wilayat Ko Zakhmi Kiye Ja Rahe Hain.
-Sab Ik Dosrey Se Laray Ja Rahe Hain.
-Kab Aapas Mein Inn Ko Milao Gay Maula.
-Zahoor Aap Ka Ho Ga Kis Roz Jane.
-Dua-e-Farj Hai Labon Par Hamarey.
-Asar Kab Duaon Mein Lao Gay Maula.
-Yeh Dil Misal-e-Hur Hai Pareshaan Hamara.
-Hussain Aap Ban Kar Batao Khudara.
-Galay Se Humein Kab Lagao Gay Maula.
-Hai Halat Bhi Ab Misal-e-Yaqoob Dekho.
-Hamari Umeedon Ke Yousuf Tumhi Ho.
-Taras Kab Inn Aankhon Pe Khao Gay Maula.
-Baqiya Mein Kab Tak Andhera Rahe Ga.
-Dil-e-Fatima Ko Sakoon Kab Miley Ga.
-Diya Qabar Pe Kab Jalao Gay Maula.
-Rahein Gay Younhi Kab Talak Ashk Jari.
-Shab-e-Hijar Kab Khatam Hogi Hamari.
-Charag-e-Sahar Kab Jalao Gay Maula.
- Hilal Our Meesum Bahatay Hain Aanso.
-Sajay Hain Janazon Ke Bazar Har So.
-Kya Ghaibat Se Ab Bhi Na Aao Gay Maula.
+۱
+ہوائے کرم کب چلاؤ گے مولا
+دیے ظلم کے کب بجھاؤ گے مولا
+یہ غیبت کہاں تک بڑھاؤ گے مولا
+کب اپنی زیارت کراؤ گے مولا
+جدائی میں کب تک رلاؤ گے مولا
+
+۲
+ہوئی اک مدت ستم سہتے سہتے
+زباں تھک چکی العجل کہتے کہتے
+ہمیں کب غموں سے چھڑاؤ گے مولا
+
+۳
+عریضوں کو کب تک وسیلہ بنائیں
+تمہیں حالِ دل سامنے اب سنائیں
+کب ان فاصلوں کو مٹاؤ گے مولا
+
+۴
+ولایت کو زخمی کیے جا رہے ہیں
+سب اک دوسرے سے لڑے جا رہے ہیں
+کب آپس میں ان کو ملاؤ گے مولا
+
+۵
+ظہور آپ کا ہو گا کس روز جانے
+دعائے فرج ہے لبوں پر ہمارے
+اثر کب دعاؤں میں لاؤ گے مولا
+
+۶
+یہ دل مثالِ حر ہے پریشان ہمارا
+حسین آپ بن کر بتاؤ خدارا
+گلے سے ہمیں کب لگاؤ گے مولا
+
+۷
+ہے حالت بھی اب مثالِ یعقوب دیکھو
+ہماری امیدوں کے یوسف تمہی ہو
+ترس کب ان آنکھوں پہ کھاؤ گے مولا
+
+۸
+بقیع میں کب تک اندھیرا رہے گا
+دلِ فاطمہ کو سکوں کب ملے گا
+دیا قبر پہ کب جلاؤ گے مولا
+
+۹
+رہیں گے یونہی کب تلک اشک جاری
+شبِ ہجر کب ختم ہو گی ہماری
+چراغِ سحر کب جلاؤ گے مولا

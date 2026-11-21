@@ -8,38 +8,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kahaṅ Kahaṅ Se Guzarta Raha Husain Ka Sar,
-  Sina Ki Nok Charhaya Gaya Husain Ka Sar,
+  Kahaṅ kahaṅ se guzarta raha Husain ka sar
+  Sina ki nok charhaya gaya Husain ka sar
 
   1
-  Ae Musalmaan Kaat Te Ho Tum Yeh Kis Ka Gala,
-  Nahi Hai Khouf-e-Khuda Tum Sabhi Ko Ahle Jafa,
-  Ali Ke Bughz Maiṅ Kaataa Gaya Husain Ka Sar,
+  Ae Musalmaan kaat te ho tum yeh kis ka gala
+  Nahiṅ hai khauf-e-Khuda tum sabhi ko ahl-e-jafa
+  Ali ke bughz mein kaata gaya Husain ka sar
 
   2
-  Lain Kaat Ke Sar Sheh Ka Has Raha Tha Kabhi,
-  Sar Uss Gharib Ka Pathhar Se Maarte The Sabhi,
-  Har Aik Zakhm Ko Sehta Raha Husain Ka Sar
+  Lain kaat ke sar Sheh ka hans raha tha kabhi
+  Sar us gharib ka patthar pe maarte the kabhi
+  Har ek zakhm ko sehta raha Husain ka sar
 
   3
-  Husain Rab Se Juda Hai Na Rab Hai Unse Juda,
-  Khuda Ke Ishq Maiṅ Woh Tera Akhri Sajda,
-  Quran Parhke Sunata Raha Husain Ka Sar,
+  Husain Rab se juda hai na Rab hai unse juda
+  Khuda ke ishq mein woh tera aakhri sajda
+  Quraan parhke sunata raha Husain ka sar
 
   4
-  Enaam Ke Liye Khuli Ne Kardiya Woh Sitam,
-  Sar-e-Husain Ko Theli Maiṅ Baandh Kar Uss Dam,
-  Tandur Maiṅ Woh Chupane Laga Husain Ka Sar,
+  Inaam ke liye Khuli ne kar diya woh sitam
+  Sar-e-Husain ko theli mein bandh kar us dam
+  Tandur mein woh chhupaane laga Husain ka sar
 
   5
-  Haye Woh Shaam Ka Bazaar Woh Zainab Ka Safar,
-  Kabhi Kufa Toh Kabhi Shaam Phiri Hai Dar Dar,
-  Nazar Jhuka Ke Tarapta Raha Husain Ka Sar,
+  Haaye woh Shaam ka bazaar woh Zainab ka safar
+  Kabhi Kufa to kabhi Shaam pheri hai dar dar
+  Nazar jhuka ke tarapta raha Husain ka sar
 
   6
-  Hai Akhtari Dar-e-Zindaaṅ Maiṅ Muntazir Bibi,
-  Le Ayenge Mere Baba Zarur Milne Abhi,
-  Magar Mile Nahi Baba Mila Husain Ka Sar,
+  Hai Akhtari dar-e-zindaaṅ mein muntazir Bibi
+  Le aaenge mere Baba zarur milne abhi
+  Magar mile nahiṅ Baba mila Husain ka sar
 ---
 
 کہاں کہاں سے گُزرتا رہا حُسینؑ کا سر

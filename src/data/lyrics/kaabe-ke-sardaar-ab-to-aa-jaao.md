@@ -36,12 +36,12 @@ romanLyrics: |-
   Un ko karne pyaar ab to aa jaao
 
   5
-  Kaun o makaaṅ meiṅ lehraane Ghaazi ka alam
+  Kaun o makaaṅ mein lehraane Ghaazi ka alam
   Raaij karne dastur-e-majlis maatam
   Shaah ke pursa daar ab to aa jaao
 
   6
-  Nur diya hai Khaaliq ne in meiṅ jab se
+  Nur diya hai Khaaliq ne in mein jab se
   Teri did ki khaatir ae Maula tab se
   Aankheṅ haiṅ bedaar ab to aa jaao
 

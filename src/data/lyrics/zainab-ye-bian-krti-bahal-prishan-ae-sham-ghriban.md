@@ -8,59 +8,37 @@ poet: "Zafar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab ye bayan karti ba haal pareshan
-
-  Aey shame e ghariban
-
+romanLyrics: |-
+  Zainab ye bayaaṅ karti bahaal-e-pareshaaṅ
+  Ae Shaam-e-Gharibaaṅ
 
   1
-
-  Bhai mera maara gaya sar hogaya uryan
-
+  Bhai mera maara gaya sar ho gaya uryaaṅ
 
   2
-
-  Abbas kahan ho mera ehwaal to dekho
-
-  Bachon ki khabar lo
-
-  Kyun rehgayi darya ki taraayi may meri jaan
-
+  Abbas kahaaṅ ho mera ahwaal to dekho
+  Bachchoṅ ki khabar lo
+  Kiuṅ reh gaye darya ki taraai mein meri jaaṅ
 
   3
-
-  Maqtal to sidhare thay ajab shan se beta
-
+  Maqtal to sidhaare the ajab shaan se beta
   Maadar ko hai shikwa
-
-  Mujh kokh jali ko tha tere byah ka arman
-
+  Mujh kokh jali ko tha tere byaah ka armaaṅ
 
   4
-
-  Athara bani fathema may ab nahi koi
-
+  Athaara Bani Fatima mein ab nahiṅ koi
   Khaaliq ki duhaai
-
-  Bechain kahoo ja jaye hur aayi hai mehman
-
+  Bechain kahuṅ ja jaaye Hur aaye haiṅ mehmaaṅ
 
   5
-
-  Jhoole ke kareeb aake kaha bano e sheh ne
-
-  Kuch tu hi bata de
-
-  Sheh maah mera kaunse badal may hai tanha
-
+  Jhule ke qarib aa ke kaha Baano-e-Shah ne
+  Kuchh tu hi bata de
+  Shash maah mera kaunse badal mein hai tanha
 
   6
-
-  Din raat tadapta hai zafar dil ko sambhale
-
-  Kis tarha nikaale
-
-  Qabre shahe bekas ki ziyarat ka hai arman'
+  Din raat tarapta hai Zafar dil ko sambhaale
+  Kis tarah nikaale
+  Qabr-e-Shaah-e-Bekas ki ziyaarat ka hai armaan
 ---
 
 زینب یہ بیاں کرتی باحالِ پریشاں

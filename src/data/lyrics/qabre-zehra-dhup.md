@@ -46,7 +46,7 @@ romanLyrics: |-
   Saani-e-Zehra ka parda qabr-e-Zehra dhup meiṅ
 
   7
-  Din meiṅ suraj ka safar ho ya ke ho taariki shab
+  Din meiṅ suraj ka safar ho ya ke ho taarik shab
   Donoṅ manzar haiṅ azaadaaroṅ ke rone ka sabab
   Qabr-e-Zehra par andhera qabr-e-Zehra dhup meiṅ
 

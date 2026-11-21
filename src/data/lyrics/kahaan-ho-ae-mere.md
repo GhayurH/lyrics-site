@@ -46,7 +46,7 @@ romanLyrics: |-
   Dene ko ab dilaase kahaaṅ ho ae mere Ghazi
 
   7
-  Aazam maiṅ likhuṅ kaise bazaar ka wo manzar
+  Aazam main likhuṅ kaise bazaar ka wo manzar
   Sar nange Bibiyoṅ ke chalta tha dil pe khanjar
   Ahsan sada thi lab par kahaaṅ ho ae mere Ghazi
 ---

@@ -11,104 +11,104 @@ aliases:
   - "Karbala Muntazir-E-Ma Ast Biya Ta Be Raweem"
 published: true
 romanLyrics: |-
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
-  Zaad-e-Raah Ast, Muhayya Ast, Biya Ta Be Rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
+  Zaad-e-raah ast, muhayya ast, biya ta be rawim
 
   1
-  Raasta Humko Shahadat Ka Bahattar Se Mila
-  Azm Kitna Hume Zakhm-e-Ali Akbar Se Mila
-  Khun Kitna Hume Abbas-e-Dil Aawar Se Mila
-  Hausla Faujoṅ Ko Nanhe Ali Asghar Se Mila
-  Kitne Moula Ke Haiṅ Ehsaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Raasta hum ko shahadat ka bahattar se mila
+  Azm kitna hameṅ zakhm-e-Ali Akbar se mila
+  Khun kitna hameṅ Abbas-e-dil aawar se mila
+  Hausla faujoṅ ko nanhe Ali Asghar se mila
+  Kitne maula ke haiṅ ehsaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   2
-  Raah Purkhaar Hai, Dushwaar Hai Chalne Ke Liye
-  Kuch Sahara Nahiṅ Girte Ko Sambhalne Ke Liye
-  Muntazir Khun Hai Gardan Se Nikalne Ke Liye
-  Ghore Tayyar Haiṅ Laashe Ko Kuchalne Ke Liye
-  Shaah Haiṅ Aap Ke Mehmaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Raah purkhaar hai, dushwaar hai chalne ke liye
+  Kuch sahaara nahiṅ girte ko sambhalne ke liye
+  Muntazir khun hai gardan se nikalne ke liye
+  Ghore taiyaar haiṅ laashe ko kuchalne ke liye
+  Shaah haiṅ aap ke mehmaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   3
-  Tashnalab Logoṅ Ke Ye Khun Ka Darya Dekho
-  Tukre Tukre Jo Hai Qasim Ka Ye Laasha Dekho
-  Bhai Abbas Ke Ye Dast-e-Burida Dekho
-  Laasha-e-Asghar Liye Ye Kaun Hai Tanha Dekho
-  Bhar Gaya Laashoṅ Se Maidaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Tashna lab logoṅ ke ye khun ka darya dekho
+  Tukre tukre jo hai Qaasim ka ye laasha dekho
+  Bhaai Abbas ke ye dast-e-burida dekho
+  Laasha-e-Asghar liye ye kaun hai tanha dekho
+  Bhar gaya laashoṅ se maidaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   4
-  Wo Yazidi Jo The Duniya Ke Hawas Ke Maare
-  Kar Diye Din Ke Ehkaam Muattal Saare
-  Farsh Par Tut Gaye Arsh-e-Khuda Ke Taare
-  Khaak Aur Khun Meiṅ Ghaltaaṅ The Wo Bikhre Paare
-  Nauk-e-Naiza Pe Hai Quran, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Wo Yazidi jo the duniya ke hawas ke maare
+  Kar diye din ke ahkaam muattal saare
+  Farsh par tut gaye arsh-e-Khuda ke taare
+  Khaak aur khun meiṅ ghaltaaṅ the wo bikhre paare
+  Nok-e-neza pe hai Qur'aan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   5
-  Koi Iza Na Pahunch Paaye Nabi Ke Ghar Ko
-  Raah-e-Shabbir Meiṅ Hum Ab Bhi Kata Deiṅ Sar Ko
-  Tir Lag Jaaye Na Hurmala Ka Ali Asghar Ko
-  Koi Barchhi Na Kahiṅ Lag Jaaye Ali Akbar Ko
-  Jaan Par Waar Do Tum Jaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Koi izaa na pahunch paaye Nabi ke ghar ko
+  Raah-e-Shabbir meiṅ hum ab bhi kata deiṅ sar ko
+  Tir lag jaaye na Hurmal ka Ali Asghar ko
+  Koi barchhi na kahiṅ lag jaaye Ali Akbar ko
+  Jaan par waar do tum jaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   6
-  Jism Pamaal Hai Qasim Ka, Shikasta Sar Hai
-  Laash Reti Pe Hai, Ab Munh Se Zabaaṅ Bahar Hai
-  Jis Ke Sine Se Ubalta Hai Lahu, Akbar Hai
-  Tir Gardan Meiṅ Hai Jis Ke, Ye Ali Asghar Hai
-  Hai Lahu Ta Had-e-Imkaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Jism paamaal hai Qaasim ka, shikasta sar hai
+  Laash reti pe hai, ab munh se zabaaṅ baahar hai
+  Jis ke sine se ubalta hai lahu, Akbar hai
+  Tir gardan meiṅ hai jis ke, ye Ali Asghar hai
+  Hai lahu ta had-e-imkaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   7
-  Qaid Khane Ki Musibat Meiṅ Koi Aas Nahiṅ
-  Baap Ka Sar Bhi Tasalli Ke Liye Paas Nahiṅ
-  Aaj Bachi Ki Madad Ke Liye Abbas Nahiṅ
-  Kab Se Pyasi Hai Sakina, Tumhe Ehsaas Nahiṅ
-  Ye Sada Deta Hai Zindaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Qaid khaane ki musibat meiṅ koi aas nahiṅ
+  Baap ka sar bhi tasalli ke liye paas nahiṅ
+  Aaj bachchi ki madad ke liye Abbas nahiṅ
+  Kab se pyaasi hai Sakina, tumheṅ ehsaas nahiṅ
+  Ye sadaa deta hai zindaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   8
-  Muntaqim Karb o Bala Ka Wo Abhi Aayega
-  Jo Husaini Hai Wo Lashkar Meiṅ Abhi Pahunchega
-  Kaun Aulaad Ko Nusrat Ke Liye Bhejega
-  Kaun Akbar Ke Kaleje Se Sinaaṅ Khenchega
-  Ye Husaini Ka Hai Paighaam, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Muntaqim karb o Bala ka wo abhi aayega
+  Jo Husaini hai wo lashkar meiṅ abhi pahunchega
+  Kaun aulaad ko nusrat ke liye bhejega
+  Kaun Akbar ke kaleje se sinaaṅ khenchega
+  Ye Husaini ka hai paighaam, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   9
-  Aapko Zaat Ke Patthar Se Bhi Larna Hoga
-  Aapko Aarzu-e-Zan Se Bhi Larna Hoga
-  Aapko Nafs Ke Lashkar Se Bhi Larna Hoga
-  Sirf Bahar Nahiṅ Andar Se Bhi Larna Hoga
-  Maang Lo Jang Ka Samaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Aap ko zaat ke patthar se bhi larna hoga
+  Aap ko aarzu-e-zan se bhi larna hoga
+  Aap ko nafs ke lashkar se bhi larna hoga
+  Sirf baahar nahiṅ andar se bhi larna hoga
+  Maang lo jang ka samaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   10
-  Nasir-e-Mehdi-e-Haq, Janib-e-Kaaba Aaja
-  Chhor Kar Daulat-e-Duniya Ki Tamanna Aaja
-  Faisla Hurr Ki Tarah Karke Tu Aaja, Aaja
-  Muntazir Teri Hi Ghaibat Meiṅ Hai Moula, Aaja
-  Tujhpe Qurbaan Meri Jaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Naasir-e-Mehdi-e-haq, jaanib-e-Kaaba aa ja
+  Chhor kar daulat-e-duniya ki tamanna aa ja
+  Faisla Hurr ki tarah kar ke tu aa ja, aa ja
+  Muntazir teri hi ghaibat meiṅ hai maula, aa ja
+  Tujh pe qurbaan miri jaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   11
-  Kaash Ae Kaash Koi Hota Wafa Ka Meyaar
-  Kaash Ae Kaash Koi Rakhta Mukammal Kirdar
-  Koi Tamir Kara Deta Baqiye Ka Mazaar
-  Kaash Hum Meiṅ Koi Hota Janab-e-Mukhtar
-  Hai Kahaṅ Aisa Musalmaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Kaash ae kaash koi hota wafa ka miyaar
+  Kaash ae kaash koi rakhta mukammal kirdaar
+  Koi tamir kara deta Baqiye ka mazaar
+  Kaash hum meiṅ koi hota janaab-e-Mukhtaar
+  Hai kahaṅ aisa musalmaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 
   12
-  Kaash Ae Kaash Bane Karb o Bala Ka Lashkar
-  Kaash Ae Kaash Mile Aakhri Wo Fath o Zafar
-  Kaash Jaari Rahe Moula Ki Ye Nusrat Ka Safar
-  Karbala Muntazir-e-Mehdi-e-Dauraaṅ Hai, Qamar
-  Dekho Tayyar Hai Maidaan, Biya Ta Be Rawim
-  Karbala Muntazir-e-Ma Ast, Biya Ta Be Rawim
+  Kaash ae kaash bane karb o Bala ka lashkar
+  Kaash ae kaash mile aakhri wo fath o zafar
+  Kaash jaari rahe maula ki ye nusrat ka safar
+  Karbala muntazir-e-Mehdi-e-dauraaṅ hai, Qamar
+  Dekho taiyaar hai maidaan, biya ta be rawim
+  Karbala muntazir-e-ma ast, biya ta be rawim
 ---
 
 کربلا منتظرِ ما است، بیا تا برویم

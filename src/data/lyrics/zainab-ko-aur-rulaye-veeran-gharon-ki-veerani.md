@@ -9,70 +9,43 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Veerani (x10), Zainab ko or rulai veeran gharun ki veerani
-
+romanLyrics: |-
+  Viraani, Zainab ko aur rulaaye viraan gharoṅ ki viraani
 
   1
-
-  Ek aangan may Umm e Salma Sughra k aanso ponchay
-
-  Dil per apnay pathar rakh ker Bibi say aa ker bolay
-
-  Sughra uth ja inn rastun say ab koi nahi jo i
-
+  Ik aangan mein Umm-e-Salma Sughra ke aansu ponchhe
+  Dil par apne patthar rakh kar Bibi se aa kar bole
+  Sughra uth ja in rastoṅ se ab koi nahiṅ jo aaye
 
   2
-
-  Ek aangan may Asghar k liyay jalti hai dhop may dukhiya
-
-  Ghar bhar ki nazr hai soraj per kb waqt ghroub ka hu ga
-
-  Aur Maadar ko ye fikr hai k ye soraj doub na jai
-
+  Ik aangan mein Asghar ke liye jalti hai dhup mein dukhiya
+  Ghar bhar ki nazar hai suraj par kab waqt ghurub ka ho ga
+  Aur maadar ko yeh fikr hai ke yeh suraj dub na jaaye
 
   3
-
-  Ek aangan may bemar pisr aankhun say khoon baha’i
-
-  Bazarun ka her ik manzar ashkun may dhalta jai
-
-  Sajjad bohat sabir hai magar ab kitna sabr dikha’i
-
+  Ik aangan mein bimaar pisar aankhoṅ se khun bahaaye
+  Baazaaroṅ ka har ik manzar ashkoṅ mein dhalta jaaye
+  Sajjad bahut saabir hai magar ab kitna sabr dikhaaye
 
   4
-
-  Ek aangan may Fizza baithi her lamha ye he sochay
-
-  Ja ker Zahra ki turbat per kia baat kaneez ye bolay
-
-  Kaisay Zainab darbar gai kia Zahra ko batla’i
-
+  Ik aangan mein Fizza baithi har lamha yeh hi soche
+  Ja kar Zahra ki turbat par kya baat kaniz yeh bole
+  Kaise Zainab darbaar gai kya Zahra ko batlaaye
 
   5
-
-  Ek aangan may baithi hai maa Yaseen ka surah kholay
-
-  Wo Zikr e Nabi k lafzun may hum shakal e Nabi ko dhonday
-
-  Rozay pay Nabi k a jaye jb yad Akbar ki i
-
+  Ik aangan mein baithi hai maaṅ Yasin ka surat khole
+  Woh zikr-e-Nabi ke lafzoṅ mein ham shakl-e-Nabi ko dhunde
+  Rauze pe Nabi ke aa jaaye jab yaad Akbar ki aaye
 
   6
-
-  Ek aangan may Abdullah or Zainab baithay hain tanha
-
-  Wo Aun o Muhammmad k gham may ik dosray ko dein pursa
-
-  Day daad pidr her hamlay per jb maadar jang sunai
-
+  Ik aangan mein Abdullah aur Zainab baithe haiṅ tanha
+  Woh Aun o Muhammad ke gham mein ik dusre ko deṅ pursa
+  De daad pidr har hamle par jab maadar jang sunaaye
 
   7
-
-  Kal tak Akbar ik Zahra theen jo bain kia kerti theen
-
-  Baba ki judai k gham may wo aahain bhara kerti theen
-
-  Or aaj Bani Hashim k makan sub Bait ul huzn hain hi'
+  Kal tak Akbar ik Zahra thiṅ jo bain kiya karti thiṅ
+  Baaba ki judaai ke gham mein woh aaheṅ bhara karti thiṅ
+  Aur aaj Bani Haashim ke makaan sab Bait-ul-Huzn haiṅ haaye
 ---
 
 ويرانی (۱۰) زينبؑ کو اور رلائے ويران گھروں کی ويرانی (۲)

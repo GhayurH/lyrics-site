@@ -15,19 +15,19 @@ romanLyrics: |-
   Haae Saadaat aur zindaan, haae Saadaat aur ye zindaan
   Haae Saadaat haae zindaan haae Saadaat haae zindaan
 
-  Qaid khaane meiṅ talaatum hai ke Hind aati hai
+  Qaid khaane mein talaatum hai ke Hind aati hai
   Dukhtar-e-Faatima ghairat se mui jaati hai
 
   1
-  Aasmaaṅ dur zamiṅ sakht kidhar jaauṅ maiṅ
-  Yehi behtar hai ke dunya se guzar jaauṅ maiṅ
-  Bibiyoṅ mil ke dua maaṅgo ke mar jaauṅ maiṅ
+  Aasmaaṅ dur zamiṅ sakht kidhar jaauṅ main
+  Yehi behtar hai ke dunya se guzar jaauṅ main
+  Bibiyoṅ mil ke dua maaṅgo ke mar jaauṅ main
   Maut aati hi nahiṅ jaan khinchi jaati hai
 
   2
-  Aamad-e-Hind ka ghul itrat-e-Shabbir meiṅ hai
-  Shor-e-maatam haram-e-saahib-e-tathir meiṅ hai
-  Kehti hai jaauṅ kahaaṅ paauṅ to zanjir meiṅ hai
+  Aamad-e-Hind ka ghul itrat-e-Shabbir mein hai
+  Shor-e-maatam haram-e-saahib-e-tathir mein hai
+  Kehti hai jaauṅ kahaaṅ paauṅ to zanjir mein hai
   Paauṅ uthta hai to zanjir lipat jaati hai
 
   3
@@ -37,19 +37,19 @@ romanLyrics: |-
   Haae ye din bhi asiri tumheiṅ dikhlaati hai
 
   4
-  Dar-e-zindaaṅ pe hua itne meiṅ amboh-e-kamaal
-  Zan-e-haakim ka hai zindaaṅ meiṅ nuzul o ijlaal
+  Dar-e-zindaaṅ pe hua itne mein anboh-e-kamaal
+  Zan-e-haakim ka hai zindaaṅ mein nuzul o ijlaal
   Qaidiyoṅ uth ke dua de ke karo istiqbaal
   Zauja-e-haakim-e-dauraaṅ haiṅ jo ye aati hai
 
   5
   Hind ne dekh ke raandoṅ ki taraf di ye sada
-  Kis ka Yusuf hai ye zindaaṅ meiṅ giraftaar-e-bala
+  Kis ka Yusuf hai ye zindaaṅ mein giraftaar-e-bala
   Bibiyaaṅ kis ki haiṅ rakhti kiuṅ nahiṅ sar pe rida
   Un ke chehroṅ se to kuchh aur jhalak aati hai
 
   6
-  Dekhti kya hai ke ik sher hai aahan meiṅ nihaaṅ
+  Dekhti kya hai ke ik sher hai aahan mein nihaaṅ
   Laaghar o khasta tan o faaqa kash o tashna dahaaṅ
   Na to chalne ki sakat hai na koi rishta-e-jaaṅ
   Ustukhwaanoṅ se larazne ki sada aati hai
@@ -58,7 +58,7 @@ romanLyrics: |-
   Aayi nazdik jo Sajjad ke Hind dilgir
   Boli wo kaun si isyaaṅ pe mili ye taazir
   Bole daswiṅ thi Muharram ki jo pehni zanjir
-  Aaj taqdir bhi qaidi hameiṅ kehlaati hai
+  Aaj taqdir bhi qaidi hamein kehlaati hai
 
   8
   Hind ne puchha maraz kya hai? Kaha bepadari
@@ -68,9 +68,9 @@ romanLyrics: |-
 
   9
   Baaba saahib ke gale par jo na khanjar phirta
-  Un ke sar khulte na maiṅ kaaṅtoṅ pe dar dar phirta
-  Aur Madine ki tarah sab ko maiṅ le kar phirta
-  Yaad Hazrat ko watan ki hameiṅ tarpaati hai
+  Un ke sar khulte na main kaaṅtoṅ pe dar dar phirta
+  Aur Madine ki tarah sab ko main le kar phirta
+  Yaad Hazrat ko watan ki hamein tarpaati hai
 
   10
   Hind ne naam Madine ka jo Aabid se suna
@@ -80,26 +80,26 @@ romanLyrics: |-
 
   11
   Boliṅ Zainab ke na le Zainab o Kulsum ke naam
-  Wo Nabi zaadiyaaṅ haiṅ qaid meiṅ un ka kya kaam
-  Hind boli inhi baatoṅ meiṅ hai sab un ka kalaam
+  Wo Nabi zaadiyaaṅ haiṅ qaid mein un ka kya kaam
+  Hind boli inhi baatoṅ mein hai sab un ka kalaam
   Kiuṅ meri ruh tumheiṅ dekh ke ghabraati hai
 
   12
   Jo bhi surat hai wo maasum nazar aati hai
   Qudrat-e-khaaliq-e-qayyum nazar aati hai
   Koi Zainab koi Kulsum nazar aati haiṅ
-  Un se taqdir ye kis haal meiṅ milwaati hai
+  Un se taqdir ye kis haal mein milwaati hai
 
   13
-  Gird Aabid ke phiri phir wo bahaal-e-taghir
+  Gird Aabid ke phiri phir wo bahaal-e-taghyir
   Bole wo kaun ye chillaayi kaniz-e-Shabbir
   Assalaam ae rasan o tauq salaasil ke asir
-  Nauha parti hui qadmoṅ meiṅ giri jaati hai
+  Nauha parti hui qadmoṅ mein giri jaati hai
 
   14
   Bas Dabir ab gham-e-Shabbir se larzaaṅ hai jigar
   Hind bhi mahw-e-aza aaj hui nang sar
-  Qaid khaane meiṅ hua sina zani se mahshar
+  Qaid khaane mein hua sina zani se mahshar
   Yehi majlis hai jo khud marsiya kehlaati hai
 ---
 ہائے سادات اور زندان، ہائے سادات اور یہ زندان

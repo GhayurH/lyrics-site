@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Maqtal meiṅ luti zindaaṅ meiṅ gayi
-  Bazaaroṅ meiṅ beparda rahi
+  Baazaaroṅ meiṅ beparda rahi
   Darbaar se ho ke aayi huṅ
 
   3
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Abbas ne Shah ki nusrat ki
-  Sarwar ki us ne itaaat ki
+  Sarwar ki us ne itaat ki
   Paani ke liye bedast hua
 
   7
@@ -67,7 +67,7 @@ romanLyrics: |-
 
   11
   Har simt udaasi chhaayi thi
-  Kya shaam-e-gharibaaṅ aayi thi
+  Kya shama-e-gharibaaṅ aayi thi
   Wo haal hua dekha na suna
 
   12

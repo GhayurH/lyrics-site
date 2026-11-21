@@ -1,33 +1,57 @@
 ---
-title: "Zainab Tere Putran Ne Enj Di Wafa Nibhaayi"
+title: "زینب تیرے پتراں نے انج دی وفا نبھائی"
+alternateTitle: "Zainab Tere Putran Ne Enj Di Wafa Nibhaayi"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab tere putran ne, enj di wafa nibhaayi
+  Ghazi de vaangun maiyat, khayyam vich na aayi
+
+  1
+  Veeraan da sadka kar ke, putaran nu toreya ey
+  Lut gayi ey Karbala vich, Zainab di qul kamaayi
+
+  2
+  Bekafan laashe chad ke, tur payi ey Shaam paasey
+  Naa royi zindagi saari, putran nu Zahra jaayi
+
+  3
+  Akbar de vaang bibi, naazan de naal paaley
+  Raitan ch rul gaye ne, kisse laash na uthaayi
+
+  4
+  Zainab di nasl muk gayi, chaadar rayyi na sir te
+  Ik saal qaid kat ke, bin putran ghar ch aayi
+
+  5
+  Mumtaaz bibi tera, mamnoon Kibriya ey
+  Apni nasl mukaa ke, Tauheed hai bachaayi
 ---
 
-Zainab Tere Putran Ne, Enj Di Wafa Nibhaayi
-Ghazi De Vaangun Maiyat, Khayyam Vich Na Aayi
+زینب تیرے پتراں نے، انج دی وفا نبھائی
+غازی دے وانگوں میت، خیام وچ نہ آئی
 
-1
-Veeraan Da Sadka Kar Ke, Putaran Nu Toreya Ey
-Lut Gayi Ey Karbala Vich, Zainab Di Qul Kamaayi
+۱
+ویراں دا صدقہ کر کے، پتراں نوں توریا اے
+لٹ گئی اے کربلا وچ، زینب دی کُل کمائی
 
-2
-Bekafan Laashe Chad Ke, Tur Payi Ey Shaam Paasey
-Naa Royi Zindagi Saari, Putran Nu Zahra Jaayi
+۲
+بے کفن لاشے چھڈ کے، تر پئی اے شام پاسے
+نہ روئی زندگی ساری، پتراں نوں زہرا جائی
 
-3
-Akbar De Vaang Bibi, Naazan De Naal Paaley
-Raitan Ch Rul Gaye Ne, Kisse Laash Na Uthaayi
+۳
+اکبر دے وانگ بی بی، نازاں دے نال پالے
+ریتاں چ رل گئے نے، کسے لاش نہ اٹھائی
 
-4
-Zainab Di Nasl Muk Gayi, Chaadar Rayyi Na Sir Te
-Ik Saal Qaid Kat Ke, Bin Putran Ghar Ch Aayi
+۴
+زینب دی نسل مک گئی، چادر رہی نہ سر تے
+اک سال قید کٹ کے، بن پتراں گھر چ آئی
 
-5
-Mumtaaz Bibi Tera, Mamnoon Kibriya Ey
-Apni Nasl Mukaa Ke, Tauheed Hai Bachaayi
+۵
+ممتاز بی بی تیرا، ممنون کبریا اے
+اپنی نسل مکا کے، توحید ہے بچائی

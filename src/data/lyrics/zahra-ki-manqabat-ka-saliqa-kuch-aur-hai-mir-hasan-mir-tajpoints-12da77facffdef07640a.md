@@ -1,44 +1,78 @@
 ---
-title: "Zahra Ki Manqabat Ka Saliqa Kuch Aur Hai Mir Hasan Mir"
+title: "زہرا کی منقبت کا سلیقہ کچھ اور ہے میر حسن میر"
+alternateTitle: "Zahra Ki Manqabat Ka Saliqa Kuch Aur Hai Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra ki manqabat ka saliqa kuch aur hai Mir Hasan Mir
+  Malik-e-Kausar tera shohar tera sana khuwaan khud hai Khuda
+
+  1
+  Zahra ki manqabat ka saleeqa kuch our hai
+  Yani kalam-e-pak ka lehja kuch our hai
+  Kabay se bhi azeem hai shair-e-Khuda ka ghar
+  Oss ghar mein bhi Batool ka hujrah kuch our hai
+
+  2
+  Fizza ko aayaton ne galay se laga liya
+  Yani Hasan Hussain ki aaya kuch our hai
+  Jannat ki sair kaisi woh malik hain khuld ke
+  Mairaj-e-Mustafa ka khulasa kuch our hai
+
+  3
+  Magrib ki qasar ho nahi sakti kabhi namaz
+  Haq-e-janab-e-Fatima Zahra kuch our hai
+  Soraj ochala chand ko sikka bana liya
+  Zahra ke ladloon ka khilona kuch our hai
+
+  4
+  Zahra ke dushmanan pe apni zaban mein
+  Sach pochiye tu lutf e tabarah kuch our hai
+  Quran ne Ali ko kaha rah-e-mustaqeem
+  Waiz yeh keh raha hai woh rasta kuch our hai
+
+  5
+  Ishq-e-Ali ke jurm mein marey gaye jo loag
+  Jannat mein unn shaheedon ka rutba kuch our hai
+  Quran hai bayaz e Takallum issi liye
+  Bibi ki madah khuwani ka basta kuch our hai
 ---
 
-Zahra Ki Manqabat Ka Saliqa Kuch Aur Hai Mir Hasan Mir.
-Malik-e-Kausar Tera Shohar Tera Sana Khuwaan Khud Hai Khuda.
+زہرا کی منقبت کا سلیقہ کچھ اور ہے میر حسن میر
+مالکِ کوثر تیرا شوہر تیرا ثنا خواں خود ہے خدا
 
-1
-Zahra Ki Manqabat Ka Saleeqa Kuch Our Hai.
-Yani Kalam-e-Pak Ka Lehja Kuch Our Hai.
-Kabay Se Bhi Azeem Hai Shair-e-Khuda Ka Ghar.
-Oss Ghar Mein Bhi Batool Ka Hujrah Kuch Our Hai.
+۱
+زہرا کی منقبت کا سلیقہ کچھ اور ہے
+یعنی کلامِ پاک کا لہجہ کچھ اور ہے
+کعبے سے بھی عظیم ہے شیرِ خدا کا گھر
+اس گھر میں بھی بتول کا حجرہ کچھ اور ہے
 
-2
-Fizza Ko Aayaton Ne Galay Se Laga Liya.
-Yani Hasan Hussain Ki Aaya Kuch Our Hai.
-Jannat Ki Sair Kaisi Woh Malik Hain Khuld Ke.
-Mairaj-e-Mustafa Ka Khulasa Kuch Our Hai.
+۲
+فضہ کو آیتوں نے گلے سے لگا لیا
+یعنی حسن حسین کی آیا کچھ اور ہے
+جنت کی سیر کیسی وہ مالک ہیں خلد کے
+معراجِ مصطفیٰ کا خلاصہ کچھ اور ہے
 
-3
-Magrib Ki Qasar Ho Nahi Sakti Kabhi Namaz.
-Haq-e-Janab-e-Fatima Zahra Kuch Our Hai.
-Soraj Ochala Chand Ko Sikka Bana Liya.
-Zahra Ke Ladloon Ka Khilona Kuch Our Hai.
+۳
+مغرب کی قصر ہو نہیں سکتی کبھی نماز
+حقِ جنابِ فاطمہ زہرا کچھ اور ہے
+سورج اچھالا چاند کو سکہ بنا لیا
+زہرا کے لاڈلوں کا کھلونا کچھ اور ہے
 
-4
-Zahra Ke Dushmanan Pe Apni Zaban Mein.
-Sach Pochiye Tu Lutf e Tabarah Kuch Our Hai.
-Quran Ne Ali Ko Kaha Rah-e-Mustaqeem.
-Waiz Yeh Keh Raha Hai Woh Rasta Kuch Our Hai.
+۴
+زہرا کے دشمنان پہ اپنی زبان میں
+سچ پوچھیے تو لطفِ تبرّا کچھ اور ہے
+قرآن نے علی کو کہا راہِ مستقیم
+واعظ یہ کہہ رہا ہے وہ راستہ کچھ اور ہے
 
-5
-Ishq-e-Ali Ke Jurm Mein Marey Gaye Jo Loag.
-Jannat Mein Unn Shaheedon Ka Rutba Kuch Our Hai.
-Quran Hai Bayaz e Takallum Issi Liye.
-Bibi Ki Madah Khuwani Ka Basta Kuch Our Hai.
+۵
+عشقِ علی کے جرم میں مارے گئے جو لوگ
+جنت میں ان شہیدوں کا رتبہ کچھ اور ہے
+قرآن ہے بیاضِ تکلم اسی لیے
+بی‌بی کی مدح خوانی کا بستہ کچھ اور ہے

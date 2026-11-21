@@ -12,8 +12,8 @@ tags: []
 aliases: ["Pathar Hai Aankh Jisme"]
 published: true
 romanLyrics: |-
-  Patthar hai aankh jis meiṅ ke ashk-e-aza nahiṅ
-  Wo dil nahiṅ ke jis meiṅ Ali ki wila nahiṅ
+  Patthar hai aankh jis meiṅ ke ashk-e-azaa nahiṅ
+  Wo dil nahiṅ ke jis meiṅ Ali ki wilaa nahiṅ
 
   1
   Jis qalb meiṅ mawaddat-e-Aal-e-Aba nahiṅ
@@ -28,7 +28,7 @@ romanLyrics: |-
   Karbobala ke baad koi Karbala nahiṅ
 
   4
-  Hai dil gham-e-Husain meiṅ ik ashk ke ewaz
+  Hai dil gham-e-Husain meiṅ ik ashk ke iwaz
   Gar khuld mil rahi hai to sauda bura nahiṅ
 
   5
@@ -40,12 +40,12 @@ romanLyrics: |-
   Shabbir ke gale pe ye khanjar chala nahiṅ
 
   7
-  Aao gham-e-Husain meiṅ maatam bapa kare
-  Ye wo namaaz-e-ishq hai jis ki qaza nahiṅ
+  Aao gham-e-Husain meiṅ maatam bapaa kare
+  Ye wo namaaz-e-ishq hai jis ki qazaa nahiṅ
 
   8
   Zainab khari hai ad jale khaimoṅ ke darmiyaaṅ
-  Kya waqt aa gaya hai ke sar pe rida nahiṅ
+  Kya waqt aa gaya hai ke sar pe ridaa nahiṅ
 
   9
   Zainab ne beridaai se baazaar-e-Shaam tak
@@ -56,8 +56,8 @@ romanLyrics: |-
   Aal-e-Nabi ke ghar meiṅ to kuchh bhi bacha nahiṅ
 
   11
-  Ta zindagi Mohib ne munaafiq se jang ki
-  Haalaaṅki us ke haath meiṅ koi asa nahiṅ
+  Taa zindagi Mohib ne munaafiq se jang ki
+  Haalaaṅki us ke haath meiṅ koi asaa nahiṅ
 ---
 پتھر ہے آنکھ جس میں کہ اشک عزا نہیں
 وہ دل نہیں کہ جس میں علی کی ولا نہیں

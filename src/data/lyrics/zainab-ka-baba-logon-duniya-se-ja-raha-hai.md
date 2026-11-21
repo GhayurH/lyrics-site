@@ -3,33 +3,55 @@ title: "زینبؑ کا بابا لوگوں دنیا سے جا رہا ہے"
 alternateTitle: "Zainab Ka Baba Logon Duniya Se Ja Raha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainub ka baba logoon dunia se jaraha hai
+  Tarpe hai Qabra-e-Ahmad, har koi roo raha hai
+
+  1
+  Mola nay waqat-e-ruksat Abbas say kaha tha
+  Zainab ki iss rida ka, aik tu hi asra hai
+
+  2
+  Hasnain pay yatimi Kofay main aa gai hai
+  Bintay Ali kay sar say haye saya uth raha hai
+
+  3
+  Kabay ka yeh makin hai damad-e-Mustafa hai
+  Mara hai kalma go nay Kaba gira diya hai
+
+  4
+  Dobi hoi zehar main jo tegh chal gai hai
+  Mola Hasan ka ro ro dil tokray ho raha hai
+
+  5
+  Matam hai Murtaza ka Jibriyal noha khwan hai
+  Pursa Ali Wali ka Bhola bhi parh raha hai
 ---
 
-Zainub Ka Baba Logoon Dunia Se Jaraha Hai
+زینب کا بابا لوگوں دنیا سے جا رہا ہے
+تڑپے ہے قبرِ احمد، ہر کوئی رو رہا ہے
 
-Tarpe hai Qabra-e-Ahmad, Har Koi Roo Raha hai
+۱
+مولا نے وقتِ رخصت عباس سے کہا تھا
+زینب کی اس ردا کا، ایک تو ہی آسرا ہے
 
-mola nay waqat-e-ruksat abbas say kaha tha
+۲
+حسنین پہ یتیمی کوفے میں آ گئی ہے
+بنتِ علی کے سر سے ہائے سایہ اٹھ رہا ہے
 
-zainab ki iss rida ka, Aik tu hi asra hai
+۳
+کعبے کا یہ مکیں ہے دامادِ مصطفیٰ ہے
+مارا ہے کلمہ گو نے کعبہ گرا دیا ہے
 
-Hasnain pay yatimi kofay main Aa gai hai
+۴
+ڈوبی ہوئی زہر میں جو تیغ چل گئی ہے
+مولا حسن کا رو رو دل ٹکڑے ہو رہا ہے
 
-bintay ali kay sar say haye saya uth raha hai
-
-kabay ka yeh makin hai damad-e-mustafa hai
-
-mara hai kalma go nay kaba gira diya hai
-
-dobi hoi zehar main jo tegh chal gai hai
-
-mola hasan ka ro ro dil tokray ho raha hai
-
-Matam hai murtaza ka jibriyal noha khwan hai
-
-pursa ali wali ka bhola bhi parh raha hai
+۵
+ماتم ہے مرتضیٰ کا جبرئیل نوحہ خواں ہے
+پرسا علی ولی کا بھولا بھی پڑھ رہا ہے

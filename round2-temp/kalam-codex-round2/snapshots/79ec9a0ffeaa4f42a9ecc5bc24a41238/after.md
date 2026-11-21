@@ -1,0 +1,151 @@
+---
+title: "مہماں تیرا پیاسا رہا سوکھا گلا کاٹا گیا"
+recitationId: "aisa-musafir-na-ayega"
+alternateTitle: "Aisa Musafir Na Aaega"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan Azmi"
+tags: []
+aliases: []
+published: true
+reciter: "Rizwan Zaidi"
+romanLyrics: |-
+  Mehmaṅ tera pyasa raha sukha gala kaata gaya
+  Ae dasht-e-Karbala, ae dasht-e-Karbala
+  Bete shahid ho gaye, bhai juda hua
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  1
+  Laasheṅ utha utha ke kamar chur ho gayi
+  Jine ki aarzu to bahut dur ho gayi
+  Akbar shahid ho gaye maiṅ sochta raha
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  2
+  Baazu kataa ke nehr pe Abbas so gaye
+  Hasrat se Ahl-e-Bait ko maiṅ dekhta raha
+  Ab mere baad meri Sakina ka hoga kya
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  3
+  Ansaar-e-bawafa mere mujh par fida hue
+  Teghoṅ ke muṅh ko un ke gale chumte rahe
+  Ak shab ka mehman tha Hurr, wo bhi mar gaya
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  4
+  Qasim ki maut meri gharibi pe roi hai
+  Daulat Hasan ki maiṅ ne bayaabaaṅ meiṅ khoi hai
+  Qasim kahaṅ hai, dasht meiṅ maiṅ dhundta raha
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  5
+  Pyare the mujh ko jaan se Zainab ke laadle
+  Wo eriyaṅ ragar ke mera dil dukha gaye
+  Laashoṅ pe un ki, haaye, maiṅ tanha khara raha
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  6
+  Allah jaanta hai jo dil par guzar gayi
+  Asghar ke baad jine ki taaqat nahiṅ rahi
+  Wo phul mere haath pe murjha ke reh gaya
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  7
+  Ek ek kar ke munis o yawar guzar gaye
+  Jite the jin ko dekh ke wo laal mar gaye
+  Karta sawaar jo mujhe, baaqi koi na tha
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  8
+  Jab zin se zamiṅ pe, ya Rab, gira tha maiṅ
+  Ammaaṅ mere sirhaane thi, ghash meiṅ para tha maiṅ
+  Khanjar laiṅ gale pe mere pherne laga
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+
+  9
+  Rehaan Shah-e-Diṅ ne kaha, Rab-e-Zuljalaal
+  Zaahir hai tujh pe Aal-e-Muhammad ka saara haal
+  Jibril hai gawaah sar-e-maqtal-e-jafa
+  Hum se kisi ne ye bhi na puchha ke kya hua
+  Aisa gharib, aisa musafir na aaega
+---
+مہماں تیرا پیاسا رہا سوکھا گلا کاٹا گیا
+اے دشتِ کربلا اے دشتِ کربلا
+بیٹے شہید ہو گئے بھائی جدا ہوا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۱
+لاشیں اٹھا اٹھا کے کمر چور ہو گئی
+جینے کی آرزو تو بہت دور ہو گئی
+اکبر شہید ہو گئے میں سوچتا رہا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۲
+بازو کٹا کے نہر پہ عباس سو گئے
+حسرت سے اہلِ بیت کو میں دیکھتا رہا
+اب میرے بعد میری سکینہ کا ہوگا کیا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۳
+انصارِ باوفا میرے مجھ پر فدا ہوئے
+تیغوں کے منہ کو ان کے گلے چومتے رہے
+اک شب کا مہمان تھا حر وہ بھی مر گیا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۴
+قاسم کی موت میری غریبی پہ روئی ہے
+دولت حسن کی میں نے بیاباں میں کھوئی ہے
+قاسم کہاں ہے دشت میں میں ڈھونڈتا رہا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۵
+پیارے تھے مجھ کو جان سے زینب کے لاڈلے
+وہ ایڑیاں رگڑ کے میرا دل دکھا گئے
+لاشوں پہ ان کی ہائے میں تنہا کھڑا رہا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۶
+اللہ جانتا ہے جو دل پر گزر گئی
+اصغر کے بعد جینے کی طاقت نہیں رہی
+وہ پھول میرے ہاتھ پہ مرجھا کے رہ گیا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۷
+ایک ایک کر کے مونس و یاور گزر گئے
+جیتے تھے جن کو دیکھ کے وہ لال مر گئے
+کرتا سوار جو مجھے باقی کوئی نہ تھا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۸
+جب زین سے زمیں پہ یا رب گرا تھا میں
+اماں میرے سرہانے تھی غش میں پڑا تھا میں
+خنجر لعیں گلے پہ میرے پھیرنے لگا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا
+
+۹
+ریحان شاہِ دیں نے کہا ربِ ذوالجلال
+ظاہر ہے تجھ پہ آلِ محمد کا سارا حال
+جبریل ہے گواہ سرِ مقتلِ جفا
+ہم سے کسی نے یہ بھی نہ پوچھا کہ کیا ہوا
+ایسا غریب ایسا مسافر نہ آئے گا

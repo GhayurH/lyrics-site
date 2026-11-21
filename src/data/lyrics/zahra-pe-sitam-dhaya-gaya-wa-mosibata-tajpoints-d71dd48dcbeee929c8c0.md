@@ -1,30 +1,49 @@
 ---
-title: "Zahra Pe Sitam Dhaya Gaya Wa Mosibata"
+title: "زہرا پہ ستم ڈھایا گیا وا مصیبتا"
+alternateTitle: "Zahra Pe Sitam Dhaya Gaya Wa Mosibata"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Nabeel"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra pe sitam dhaya gaya wa mosibata
+  Darbar mein bulaya gaya wa musibata
+  Zahra ki pasliyon pe sitam ho gaya mazeed
+  Pehlu shikasta ho gaya Mohsin howa shaheed
+  Youn jalta dar giraya gaya wa musibata
+  Din raat ja namaz pe roti rahi Batool
+  Marqad mein ashkbar hoye barha Rasool
+  Har gaam par sataya gaya wa musibata
+  Karti hain naaz jis pe jahan ki sadaqatein
+  Utari hain jis ki shan mein Quraan ki aayatein
+  Oss se gawah manga gaya wa musibata
+  Marqad mein Mustafa ko rulanay ke wastay
+  Zahra pe zulm our barhanay ke wastay
+  Qunfuz ko bhi bulaya gaya wa musibata
+  Aisi Nabeel zarb thi ik hath par lagi
+  Adil dua ke wastay Zahra se phir kabhi
+  Woh hath na uthaya gaya wa musibata
 ---
 
-1
-Zahra Pe Sitam Dhaya Gaya Wa Mosibata.
-Darbar Mein Bulaya Gaya Wa Musibata.
-Zahra Ki Pasliyon Pe Sitam Ho Gaya Mazeed.
-Pehlu Shikasta Ho Gaya Mohsin Howa Shaheed.
-Youn Jalta Dar Giraya Gaya Wa Musibata.
-Din Raat Ja Namaz Pe Roti Rahi Batool.
-Marqad Mein Ashkbar Hoye Barha Rasool.
-Har Gaam Par Sataya Gaya Wa Musibata.
-Karti Hain Naaz Jis Pe Jahan Ki Sadaqatein.
-Utari Hain Jis Ki Shan Mein Quraan Ki Aayatein.
-Oss Se Gawah Manga Gaya Wa Musibata.
-Marqad Mein Mustafa Ko Rulanay Ke Wastay.
-Zahra Pe Zulm Our Barhanay Ke Wastay.
-Qunfuz Ko Bhi Bulaya Gaya Wa Musibata.
-Aisi Nabeel Zarb Thi Ik Hath Par Lagi.
- Adil Dua Ke Wastay Zahra Se Phir Kabhi.
-Woh Hath Na Uthaya Gaya Wa Musibata.
+۱
+زہرا پہ ستم ڈھایا گیا وا مصیبتا
+دربار میں بلایا گیا وا مصیبتا
+زہرا کی پسلیوں پہ ستم ہو گیا مزید
+پہلو شکستہ ہو گیا محسن ہوا شہید
+یوں جلتا در گرایا گیا وا مصیبتا
+دن رات جانماز پہ روتی رہی بتول
+مرقد میں اشک بار ہوئے بارہا رسول
+ہر گام پر ستایا گیا وا مصیبتا
+کرتی ہیں ناز جس پہ جہاں کی صداقتیں
+اتاری ہیں جس کی شان میں قرآن کی آیتیں
+اس سے گواہ مانگا گیا وا مصیبتا
+مرقد میں مصطفیٰ کو رلانے کے واسطے
+زہرا پہ ظلم اور بڑھانے کے واسطے
+قنفذ کو بھی بلایا گیا وا مصیبتا
+ایسی نبیل ضرب تھی اک ہاتھ پر لگی
+عادل دعا کے واسطے زہرا سے پھر کبھی
+وہ ہاتھ نہ اٹھایا گیا وا مصیبتا

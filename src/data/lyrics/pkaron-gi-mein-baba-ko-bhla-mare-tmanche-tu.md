@@ -8,38 +8,37 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pukarungi maiṅ baba ko bhala maare tamache tu
-  Tu chahta hai maiṅ na rouṅ
-  Mujhe baba mila de tu
+  Pukaaruṅ gi main baba ko bhala maare tamaanche tu
+  Tu chaahta hai main na rouṅ, mujhe baba mila de tu
 
   1
-  Rukengi na meri aaheiṅ haiṅ jab tak bhi meri saanseṅ
-  Maiṅ cheekhungi chillaungi
+  Rukeṅ gi na meri aaheṅ, haiṅ jab tak bhi meri saanseṅ
+  Main chikhuṅ gi chillaauṅ gi
   Bhala jo bhi saza de tu
 
   2
-  Agar chahta hai ke zindaaṅ meiṅ khamoshi ho to ye sun le
-  Maiṅ ho jaungi chup lekin
+  Agar chaahta hai ke zindaaṅ mein khaamoshi ho to ye sun le
+  Main ho jaauṅ gi chup lekin
   Haaṅ sar baba ka la de tu
 
   3
-  Maiṅ apna sar patakti huṅ tarapti huṅ sisakti huṅ
-  Rukega na mera rona
+  Main apna sar patakti huṅ tarapti huṅ sisakti huṅ
+  Ruke ga na mera rona
   Sitam laakh bhi dhaale tu
 
   4
-  Ye zindaaṅ ki diwaroṅ pe lahu mera pukarega
+  Ye zindaan ki diwaaroṅ pe lahu mera pukaare ga
   Mere rone pe ae zaalim
   Bhala pehre laga le tu
 
   5
-  Andhera hi andhera hai rukega na mera maatam
-  Bhala chahe ye zindaaṅ ko
+  Andhera hi andhera hai ruke ga na mera maatam
+  Bhala chaahe ye zindaaṅ ko
   Qabr meri bana de tu
 
   6
-  Mila sar to Masuma ne Shimr se ye kaha Gohar
-  Mera laasha uthayega
+  Mila sar to Maasuma ne Shimr se ye kaha Gohar
+  Mera laasha uthaae ga
   Mera bhaiya bula de tu
 ---
 

@@ -1,26 +1,42 @@
 ---
-title: "Jay Rab Da Hukam Na Honda Lyrics In Punjabi 2020"
+title: "جے رب دا حکم نہ ہوندا"
+alternateTitle: "Jay Rab Da Hukam Na Honda"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jay rab da hukam na honda maa main tainu jan na denda
+  Teri ja te putar Hussain tera teri maut nu seene landa
+
+  1
+  Assi janday nayi masoom kiwein amari de bajoon palday
+  Assi bhain bhira hajay kamsin aan sanu jeen da wal nayi aanda
+  Main baad namaz de kiwein hun tasbeeh-e-Fatima parhni
+  Tasbeeh de ik ik harf jiwein tera noha ban ban janda
+
+  2
+  Teri tutdiyaan pasliyaan di amari aawaz suni aye dhiyaan
+  Oss waqt taun teriyaan dhiyaan taun nayi kuj v suniya janda
+  Akbar Shabeer hi janda aye ya jandi aye maa Zahra
+  Masoom putar kinj Baqiye wich riya amari nu dafnanda
 ---
 
-Jay Rab Da Hukam Na Honda Maa Main Tainu Jan Na Denda.
-Teri Ja Te Putar Hussain Tera Teri Maut Nu Seene Landa.
+جے رب دا حکم نہ ہوندا ماں میں تینوں جان نہ دیندا
+تیری جا تے پتر حسین تیرا تیری موت نوں سینے لاندا
 
-1
-Assi Janday Nayi Masoom Kiwein Amari De Bajoon Palday.
-Assi Bhain Bhira Hajay Kamsin Aan Sanu Jeen Da Wal Nayi Aanda.
-Main Baad Namaz De Kiwein Hun Tasbeeh-e-Fatima Parhni.
-Tasbeeh De Ik Ik Harf Jiwein Tera Noha Ban Ban Janda.
+۱
+اسیں جاندے نئیں معصوم کیویں امّڑی دے باجھوں پلدے
+اسیں بھین بھرا ہجے کمسن آں سانوں جین دا ول نئیں آندا
+میں بعد نماز دے کیویں ہن تسبیحِ فاطمہ پڑھنی
+تسبیح دے اک اک حرف جیویں تیرا نوحہ بن بن جاندا
 
-2
-Teri Tutdiyaan Pasliyaan Di Amari Aawaz Suni Aye Dhiyaan.
-Oss Waqt Taun Teriyaan Dhiyaan Taun Nayi Kuj V Suniya Janda.
- Akbar Shabeer Hi Janda Aye Ya Jandi Aye Maa Zahra.
-Masoom Putar Kinj Baqiye Wich Riya Amari Nu Dafnanda.
+۲
+تیری ٹٹدیاں پسلیاں دی امّڑی آواز سنی اے دھیاں
+اوس وقت توں تیریاں دھیاں توں نئیں کجھ وی سنیا جاندا
+اکبر شبیر ہی جاندا اے یا جاندی اے ماں زہرا
+معصوم پتر کنج بقیعے وچ ریا امّڑی نوں دفناندا

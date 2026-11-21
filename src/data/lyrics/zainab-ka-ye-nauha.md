@@ -13,49 +13,49 @@ aliases: ["Zainab Ka Ye Noha"]
 published: true
 romanLyrics: |-
   Zainab ka ye nauha tha tum laut ke aa jaao
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   1
   Ab shaam-e-gharibaaṅ ke aasaar numaayaaṅ haiṅ
   Is dasht-e-musibat meiṅ ghar lutne ke saamaaṅ haiṅ
   Kuchh tum ko khabar di hai ham jitne pareshaaṅ haiṅ
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   2
   Jab shaam hui ban meiṅ ye bain the Zainab ke
   Khaimoṅ ko jalaane ke hote haiṅ yahaaṅ charche
   Tum Shimr se ye keh do chaadar na meri chhine
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   3
   Lo fauj-e-Yazidi ne khaimoṅ ko jala daala
   Lo jalne laga kurta maasum Sakina ka
   Faryaad ghariboṅ ki koi bhi nahiṅ sunta
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   4
-  Ab chhin li aada ne ae bhaai meri chaadar
+  Ab chhin li aadaa ne ae bhaai meri chaadar
   Is aalam-e-ghurbat meiṅ hai khaak mere sar par
   Tum mere muhaafiz ho batla do unheṅ aa kar
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   5
   Maiṅ kitni akeli huṅ tum aa ke zara dekho
   Kis tarah sambhaaluṅ gi sehme hue bachchoṅ ko
   Ae bhaai mere aa kar Zainab ko sahaara do
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   6
   Abbas nahiṅ aaye dukh sehti rahi Zainab
   Abbas nahiṅ aaye roti hi rahi Zainab
   Abbas nahiṅ aaye ye kehti rahi Zainab
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 
   7
   Sarwar ke muhibboṅ meiṅ mahshar hai bapa Ashraf
   Sar pitte haiṅ ro kar sab ahl-e-aza Ashraf
   Kaanoṅ meiṅ jo aati hai Zainab ki sada Ashraf
-  Abbas mere bhaiya tum laut ke aa jaao
+  Abbas mere bhaiyaa tum laut ke aa jaao
 ---
 
 زینب کا یہ نوحہ تھا تم لوٹ کے آ جاؤ

@@ -15,12 +15,12 @@ romanLyrics: |-
   Ya Husain
 
   Zehra qabul kijiye pursa Husain ka
-  Pyase ka bewatan ka Shah-e-mashriqain ka
+  Pyaase ka bewatan ka Shah-e-Mashriqain ka
 
   1
   Jab maah-e-Muharram ne khabar-e-gham ki suna di
-  Rukh kar ke Baqi ka ye momin ne sada di
-  Tashrif laaeiṅ farsh-e-aza Shah ka bich gaya
+  Rukh kar ke Baqiya ka ye momin ne sada di
+  Tashrif laaiṅ farsh-e-aza Shah ka bich gaya
 
   2
   Mazlum ke gham meiṅ hui maghmum khudaai
@@ -39,22 +39,22 @@ romanLyrics: |-
 
   5
   Ghazi ko isi maaṅ ne sikhaaiṅ thi wafaaeṅ
-  Betoṅ ke liye bharti bhala kaise wo aaheiṅ
-  Noha tha ye Baqi meiṅ Ummul Banin ka
+  Betoṅ ke liye bharti bhala kaise wo aaheṅ
+  Noha tha ye Baqiya meiṅ Ummul Banin ka
 
   6
   Pardes meiṅ ummat ne jise zakhm diye haiṅ
-  Ek din meiṅ jise daagh bahattar ke mile haiṅ
+  Ak din meiṅ jise daagh bahattar ke mile haiṅ
   Us par salaam jis ka bhara ghar ujar gaya
 
   7
   Jine na diya us ko Musalmaanoṅ ne Bibi
-  Paala tha jise aap ne armaanon se Bibi
+  Paala tha jise aap ne armaan se Bibi
   Haye rula rula ke use zibh kar diya
 
   8
   Mazlum ki gardan pe wo chalta hua khanjar
-  Khun un ko rulaata hai Takallum yehi manzar
+  Khuṅ un ko rulaata hai Takallum yehi manzar
   Daadi ki ujri qabr pe Mehdi ka hai noha
 ---
 

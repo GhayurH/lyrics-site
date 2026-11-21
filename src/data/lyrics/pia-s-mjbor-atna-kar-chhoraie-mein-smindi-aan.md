@@ -7,6 +7,33 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Pyaas majbur itna kar chhoraae, main samendi aaṅ vir neṅ samenda
+  Lori Naad-e-Ali di ro ro ke main sunrendi aaṅ vir neṅ samenda
+
+  1
+  Jindaaṅ chhe maaṅ da san, hoe logo dasso kitna oh paanriṅ pi sangde
+  Pyaas hanjwaaṅ de naal viran di main bujhendi aaṅ vir neṅ samenda
+
+  2
+  Meda kamsin bharaa, dassa mekuṅ pyaas tedi kiweṅ bhajaawaaṅ main
+  Waang Mazluma naal viran de main alendi aaṅ vir neṅ samenda
+
+  3
+  Teda jhula jhlendi aaṅ sam po, tekuṅ lori sunrendi aaṅ sam po
+  Tuṅ haiṅ Quraan mede wehre da, jholi paindi aaṅ vir neṅ samenda
+
+  4
+  Tuṅ taaṅ maaṅ kuṅ vi maaṅ neṅ sad sangda, kiuṅ ummat tuṅ paanriṅ mangseṅ tuṅ
+  Sar te Quraan cha ke main viran pai sochendi aaṅ vir neṅ samenda
+
+  5
+  Waang machhli baghair paanriṅ de meda kamsin bharaa tarapda pae
+  Endi tas kuṅ bujhaanr de kite mashk chendi aaṅ vir neṅ samenda
+
+  6
+  Pyaas tuṅ mede vir de Faisal saah khuttde pae ain maqtal wich
+  Chaache Abbaas kuṅ ae ro ro ke main dassendi aaṅ vir neṅ samenda
 ---
 
 پیا س مجبور اتنا کر چھوڑائے میں سمیندی آں ویر نیں سمیندا

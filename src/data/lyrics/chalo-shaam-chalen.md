@@ -22,12 +22,12 @@ romanLyrics: |-
   Chalo Shaam chaleṅ
 
   1
-  Pursa un ko aansuoṅ se deṅge un ke bhaai ka
+  Pursa un ko aansuoṅ se deṅ ge un ke bhaai ka
   Shaam-e-ghurbat ke andheroṅ ka kabhi tanhaai ka
   Chalo Shaam chaleṅ
 
   2
-  Pursa deṅge besaroṅ ka maatam-e-zanjir se
+  Pursa deṅ ge besaroṅ ka maatam-e-zanjir se
   Pursa daari ka ye mauqa mil gaya taqdir se
   Chalo Shaam chaleṅ
 
@@ -57,13 +57,13 @@ romanLyrics: |-
   Chalo Shaam chaleṅ
 
   8
-  Is tarah bechaadari ka Bibi se baateṅge gham
-  Shaam jaa kar auratoṅ ko chaadareṅ baanteṅge hum
+  Is tarah bechaadari ka Bibi se baateṅ gi gham
+  Shaam jaa kar auratoṅ ko chaadareṅ baanteṅ ge hum
   Chalo Shaam chaleṅ
 
   9
   Jaane kab mera bulaawa hoga Mazhar Abidi
-  Jab mere kaanoṅ meiṅ gunjegi sada Farhan ki
+  Jab mere kaanoṅ meiṅ gunje gi sada Farhan ki
   Chalo Shaam chaleṅ
 ---
 

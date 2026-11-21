@@ -40,7 +40,7 @@ romanLyrics: |-
   Gir gaye jhule se aaghosh meiṅ aane ke liye
 
   7
-  Zabh kar ke bhi musaafir ko na maane aada
+  Zabh kar ke bhi musaafir ko bhi na maane aada
   Ab shaqi aaye haiṅ khaimoṅ ko jalaane ke liye
 
   8

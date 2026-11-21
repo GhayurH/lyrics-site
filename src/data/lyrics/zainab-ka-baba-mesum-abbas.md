@@ -9,97 +9,60 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Zainab Ka Baba Mesum Abbas"
-romanLyrics: 'Zainab Ka Baba Mesum Abbas Lyrics
-
+romanLyrics: |-
+  Aaja ghar ghar mein maatam bapa hai
+  Qatl Zainab ka baba hua hai
 
   1
-
-  Aaj Ghar Ghar Mein Matam Bapa Hai.
-
-  Qatal Zainab Ka Baba Howa Hai.
-
-  Lab Pe Jibreel Ke Yeh Boka Hai.
-
-  Qatal Zainab Ka Baba Howa Hai.
-
-  Kalay Kapron Mein Hain Aaj Ahl-e-Azza.
-
-  Hai Labon Par Sada Ya Ali Elia.
-
+  Lab pe Jibril ke yeh buka hai
 
   2
-
-  Noha Khuwani Kahin Our Kahin Marsiya.
-
-  Sare Aalam Mein Gham Ki Fiza Hai.
-
-  Majlison Our Jaloson Mein Zikar-e-Ali.
-
-  Roza Daroon Ki Aankhon Mein Gham Ki Nami.
-
-  Borhay Bachay Jawaan Hain Sabhi Matami.
-
-  Roza Daroon Ke Lab Par Sada Hai.
-
+  Kaale kaproṅ mein hai aaj ahl-e-aza
+  Hai laboṅ par sada Ya Ali Elia
+  Noha khwani kahiṅ aur kahiṅ marsiya
+  Saare aalam mein gham ki fiza hai
 
   3
-
-  Kalay Parcham Uthatay Hoye Sar Ba Sar.
-
-  Shahrahoon Pe Niklay Sabhi Noha Gar.
-
-  Aik Majlis Se Hai Dosri Ka Safar.
-
-  Haan Yeh Mahool Batla Raha Hai.
-
-  Roza Daroon Ke Kandhoon Pe Taboot Hai.
-
-  Sab Hain Khoni Qaba Our Rotay Hoye.
-
+  Majlisoṅ aur julusoṅ mein zikr-e-Ali
+  Roza daaroṅ ke aankhoṅ mein gham ki nami
+  Burhe bachche jawaaṅ hai sabhi maatami
+  Roza daaroṅ ke lab par sada hai
 
   4
-
-  Ya Ali Ya Ali Ki Jo Aawaz Hai.
-
-  Har Azadar Yeh Keh Raha Hai.
-
-  Ro Ke Kehte Hain Hasnain Sar Peet Kar.
-
-  Aayi Uneeswin Ki Yeh Kaisi Sahar.
-
-  Dekha Jata Nahi Baap Ka Zakhmi Sar.
-
-  Qabar-e-Zahra Mein Aah-o-Boka Hai.
-
+  Kaale parcham uthaate hue sar ba sar
+  Shaah raahoṅ pe nikle sabhi noha gar
+  Ek majlis se hai dusri ka safar
+  Haaṅ yeh maahaul batla raha hai
 
   5
-
-  Roz Raton Ko Khana Khilata Tha Jo.
-
-  Sab Yateemo Ke Gham Ko Mitata Tha Jo.
-
-  Ab Nahi Aaye Ga Roz Aata Tha Jo.
-
-  Yeh Sitam Be Kason Par Kiya Hai.
-
-  Baap Ke Gham Mein Roti Hain Syedaniyaan.
-
-  Khak Urati Hain Kehti Hain Sab Betiyaan.
-
+  Roza daaroṅ ke kaandhoṅ pe taabut hai
+  Sar hai khuni qaba aur rote hue
+  Ya Ali Ya Ali ki jo aawaaz hai
+  Har azaadaar yeh keh raha hai
 
   6
+  Ro ke kehte haiṅ Hasnain sar pit kar
+  Aayi unnisviṅ ki yeh kaisi sahar
+  Dekha jaata nahiṅ baap ka zakhmi sar
+  Qabr-e-Zahra mein aah o buka hai
 
-  Zindagi Bhar Karein Gay Youn Aah-o-Fogaan.
+  7
+  Roz raatoṅ ko khaana khilaata tha jo
+  Sab yatimoṅ ke gham ko mitaata tha jo
+  Ab nahiṅ aaye ga roz aata tha jo
+  Yeh sitam bekasoṅ par kiya hai
 
-  Yeh Qayamat Ka Gham Jo Mila Hai.
+  8
+  Baap ke gham mein roti hai Sayyidaaniyaaṅ
+  Khaak uraati haiṅ kehti haiṅ sab betiyaaṅ
+  Zindagi bhar kareṅ ge yuṅ aah o faghaaṅ
+  Yeh qayaamat ka gham jo mila hai
 
-  Farsh-e-Majlis Pe Meesum Yeh Noha Karo.
-
-  Jo Musayab Hain Mazhar Woh Likhtay Raho.
-
-  Bibi Zahra Ko Ashkon Se Pursa Bhi Do.
-
-  Bas Yeh Aagaz-e-Karb-o-Bala Hai.'
+  9
+  Farsh-e-majlis pe Meesum yeh noha karo
+  Jo masaaib hai Mazhar woh likhte raho
+  Bibi Zahra ko ashkoṅ se pursa bhi do
+  Bas yeh aaghaaz-e-Karb o Bala hai
 ---
 
 آجا گھر گھر میں ماتم بپا ہے

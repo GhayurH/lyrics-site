@@ -1,0 +1,86 @@
+---
+title: "آج مجلس میں سب ہیں کھلے سر"
+recitationId: "hai-shahadat-hasan"
+alternateTitle: "Hai Shahaadat Hasan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mir Bober Ali"
+reciter: "Mirza Sikander Ali"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Aaj majlis mein sab haiṅ khule sar
+  Hai shahaadat Hasan Askari ki
+
+  Khud Imam-e-Zamaana haiṅ muztar
+  Hai shahaadat Hasan Askari ki
+
+  1
+  Khaak uraati hai turbat mein Zehra
+  Jaanashin-e-Naqi mera pota
+  Zehr se tujh ko maara sitamgar
+
+  2
+  Zehr ki seh ke maula aziyyat
+  Karte haiṅ aaj duniya se rukhsat
+  Kamsini hi mein haaye muqaddar
+
+  3
+  Mera waali gaya aaj maara
+  Main hui aaj se besahaara
+  Kehti jaati hai Narjis tarap kar
+
+  4
+  Zaalimoṅ ka Hasan tha nishaana
+  Ro rahe haiṅ Imam-e-Zamaana
+  Ghamzada hai Ali o Payambar
+
+  5
+  Lijiye mominoṅ ka bhi pursa
+  Karte haiṅ do mahine se girya
+  Haq adaa ho saka na baraabar
+
+  6
+  Aaj maghmum Shia haiṅ saare
+  Unke aaqa haiṅ jannat sidhaare
+  Kiuṅ na roye Bober bhi tarap kar
+---
+
+آج مجلس میں سب ہیں کھلے سر
+ہے شہادت حسن عسکری کی
+
+خود امام زمانہ ہیں مضطر
+ہے شہادت حسن عسکری کی
+
+۱
+خاک اڑاتی ہے تربت میں زہرا
+جانشین نقی میرا پوتا
+زہر سے تجھ کو مارا ستمگر
+
+۲
+زہر کی سہ کے مولا اذیت
+کرتے ہیں آج دنیا سے رخصت
+کمسنی ہی میں ہائے مقدر
+
+۳
+میرا والی گیا آج مارا
+میں ہوئی آج سے بے سہارا
+کہتی جاتی ہے نرجس تڑپ کر
+
+۴
+ظالموں کا حسن تھا نشانہ
+رو رہے ہیں امام زمانہ
+غمزدہ ہے علی و پیمبر
+
+۵
+لیجیے مومنوں کا بھی پرسہ
+کرتے ہیں دو مہینے سے گریہ
+حق ادا ہو سکا نہ برابر
+
+۶
+آج مغموم شیعہ ہیں سارے
+ان کے آقا ہیں جنت سدھارے
+کیوں نہ روئے بوبر بھی تڑپ کر

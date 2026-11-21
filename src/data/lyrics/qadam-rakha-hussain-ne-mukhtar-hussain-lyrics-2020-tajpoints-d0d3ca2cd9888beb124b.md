@@ -1,65 +1,119 @@
 ---
-title: "Qadam Rakha Hussain Ne Mukhtar Hussain Lyrics 2020"
+title: "قدم رکھا حسین نے"
+alternateTitle: "Qadam Rakha Hussain Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qadam rakha Hussain ne Mukhtar Hussain Fatehpuri
+  Dunya ke jhanjhaton se choraya Hussain ne
+  Molaiyon ka waqt bachaya Hussain ne
+  Mosa kahan ho dekh lo Hur ko Habib ko
+
+  2
+  Rab se barah-e-rast milaya Hussain ne
+  Aa rahe hain Hussain
+  Woh aa gaye hain Hussain
+  Falak se jab zameen par qadam rakha Hussain ne
+
+  3
+  Yazidiyat ke qasar ko hila diya Hussain ne
+  Hussain hai tu mutmain Khuda-e-Mashreqain hai
+  Azan our namaz ke labon pe ya Hussain hai
+  Kiya hai kis khalos se Khuda Khuda Hussain ne
+
+  4
+  Jo tu kahey ga aaj se wohi kahin gay Ahl-e-Dil
+  Jo tu sunay ga aaj se wohi sunein gay Ahl-e-Dil
+  Kiya moaf Hur tera kaha suna Hussain ne
+  Pisar nahi they de diye tujhey hai aytraz kya
+
+  5
+  Kareem apni mauj mein jab aa gaya tu aa gaya
+  Khuda ka bhi likha howa badal diya Hussain ne
+  Issi liye woh aaj bhi Shareekatu Al-Hussain hai
+  Yazid ke sawal ka jawab deney ke liye
+
+  6
+  Behan se apni poch kar nahi kaha Hussain ne
+  Rubab tere lal ke sabab hai aaj zindagi
+  Lahu ki aik bond bhi zameen par na girney di
+  Jahan ko bhok pyas se bacha liya Hussain ne
+
+  7
+  Nikal ke Bag-e-Khuld se wahin pe dil lagaein gay
+  Zameen par Abbul Bashar idhar udhar na jaein gay
+  Bata diya hai Karbala ka jab pata Hussain ne
+  Nabi ne naaz uthaye they Nabi ka naam bach gaya
+
+  8
+  Khuda ne naaz uthaye they Khuda ka deen bach gaya
+  Udhar tu kissi ka bhi nahi rakha Hussain ne
+  Farrar rohein ho gayin badan ka toor kar qafas
+  Sada yeh aayi arsh se Hussain bas Hussain bas
+
+  9
+  Dikhaya jab kamal Zulfiqar ka Hussain ne
+  Kareem ka karam kabhi nahi ruka nahi ruka
+  Takallum iss baras bhi phir sakhi ne maan rakh liya
+  Kalam phir atta tujhey kiya niya Hussain ne
 ---
 
-1
-Qadam Rakha Hussain Ne Mukhtar Hussain Fatehpuri
-Dunya Ke Jhanjhaton Se Choraya Hussain Ne.
-Molaiyon Ka Waqt Bachaya Hussain Ne.
-Mosa Kahan Ho Dekh Lo Hur Ko Habib Ko.
+۱
+قدم رکھا حسین نے مختار حسین فتح پوری
+دنیا کے جھنجھٹوں سے چھڑایا حسین نے
+مولائیوں کا وقت بچایا حسین نے
+موسیٰ کہاں ہو دیکھ لو حر کو حبیب کو
 
-2
-Rab Se Barah-e-Rast Milaya Hussain Ne.
-Aa Rahe Hain Hussain.
-Woh Aa Gaye Hain Hussain.
-Falak Se Jab Zameen Par Qadam Rakha Hussain Ne.
+۲
+رب سے براہِ راست ملایا حسین نے
+آ رہے ہیں حسین
+وہ آ گئے ہیں حسین
+فلک سے جب زمین پر قدم رکھا حسین نے
 
-3
-Yazidiyat Ke Qasar Ko Hila Diya Hussain Ne.
-Hussain Hai Tu Mutmain Khuda-e-Mashreqain Hai.
-Azan Our Namaz Ke Labon Pe Ya Hussain Hai.
-Kiya Hai Kis Khalos Se Khuda Khuda Hussain Ne.
+۳
+یزیدیت کے قصر کو ہلا دیا حسین نے
+حسین ہے تو مطمئن خدائے مشرقین ہے
+اذان اور نماز کے لبوں پہ یا حسین ہے
+کیا ہے کس خلوص سے خدا خدا حسین نے
 
-4
-Jo Tu Kahey Ga Aaj Se Wohi Kahin Gay Ahl-e-Dil.
-Jo Tu Sunay Ga Aaj Se Wohi Sunein Gay Ahl-e-Dil.
-Kiya Moaf Hur Tera Kaha Suna Hussain Ne.
-Pisar Nahi They De Diye Tujhey Hai Aytraz Kya.
+۴
+جو تو کہے گا آج سے وہی کہیں گے اہلِ دل
+جو تو سنائے گا آج سے وہی سنیں گے اہلِ دل
+کیا معاف حر تیرا کہا سنا حسین نے
+پسر نہیں تھے دے دیے تجھے ہے اعتراض کیا
 
-5
-Kareem Apni Mauj Mein Jab Aa Gaya Tu Aa Gaya.
-Khuda Ka Bhi Likha Howa Badal Diya Hussain Ne.
-Issi Liye Woh Aaj Bhi Shareekatu Al-Hussain Hai.
-Yazid Ke Sawal Ka Jawab Deney Ke Liye.
+۵
+کریم اپنی موج میں جب آ گیا تو آ گیا
+خدا کا بھی لکھا ہوا بدل دیا حسین نے
+اسی لیے وہ آج بھی شریکۃ الحسین ہے
+یزید کے سوال کا جواب دینے کے لیے
 
-6
-Behan Se Apni Poch Kar Nahi Kaha Hussain Ne.
-Rubab Tere Lal Ke Sabab Hai Aaj Zindagi.
-Lahu Ki Aik Bond Bhi Zameen Par Na Girney Di.
-Jahan Ko Bhok Pyas Se Bacha Liya Hussain Ne.
+۶
+بہن سے اپنی پوچھ کر نہیں کہا حسین نے
+رباب تیرے لال کے سبب ہے آج زندگی
+لہو کی ایک بوند بھی زمین پر نہ گرنے دی
+جہاں کو بھوک پیاس سے بچا لیا حسین نے
 
-7
-Nikal Ke Bag-e-Khuld Se Wahin Pe Dil Lagaein Gay.
-Zameen Par Abbul Bashar Idhar Udhar Na Jaein Gay.
-Bata Diya Hai Karbala Ka Jab Pata Hussain Ne.
-Nabi Ne Naaz Uthaye They Nabi Ka Naam Bach Gaya.
+۷
+نکل کے باغِ خلد سے وہیں پہ دل لگائیں گے
+زمین پر ابوالبشر ادھر ادھر نہ جائیں گے
+بتا دیا ہے کربلا کا جب پتا حسین نے
+نبی نے ناز اٹھائے تھے نبی کا نام بچ گیا
 
-8
-Khuda Ne Naaz Uthaye They Khuda Ka Deen Bach Gaya.
-Udhar Tu Kissi Ka Bhi Nahi Rakha Hussain Ne.
-Farrar Rohein Ho Gayin Badan Ka Toor Kar Qafas.
-Sada Yeh Aayi Arsh Se Hussain Bas Hussain Bas.
+۸
+خدا نے ناز اٹھائے تھے خدا کا دین بچ گیا
+ادھار تو کسی کا بھی نہیں رکھا حسین نے
+فرار روحیں ہو گئیں بدن کا توڑ کر قفس
+صدا یہ آئی عرش سے حسین بس حسین بس
 
-9
-Dikhaya Jab Kamal Zulfiqar Ka Hussain Ne.
-Kareem Ka Karam Kabhi Nahi Ruka Nahi Ruka.
- Takallum Iss Baras Bhi Phir Sakhi Ne Maan Rakh Liya.
-Kalam Phir Atta Tujhey Kiya Niya Hussain Ne.
+۹
+دکھایا جب کمال ذوالفقار کا حسین نے
+کریم کا کرم کبھی نہیں رکا نہیں رکا
+تکلم اس برس بھی پھر سخی نے مان رکھ لیا
+کلام پھر عطا تجھے کیا نیا حسین نے

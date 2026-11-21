@@ -1,0 +1,158 @@
+---
+title: "عاشور کی یہ شب ہے شہادت کی رات ہے"
+recitationId: "ashoor-ki-ye-shab"
+alternateTitle: "Aashur Ki Ye Shab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Jameel Moosavi"
+reciter: "Hassan Abbas"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Aashur ki ye shab hai shahadat ki raat hai
+  Matam bapa karo ke qayamat ki raat hai
+
+  Zehra ke khaandaan pe ghurbat ki raat hai
+  Khaamosh khaima gaah hai wehshat ki raat hai
+
+  1
+  As-haab ko hai dhyaan bas apne Imam ka
+  Pyaasoṅ ko intezar shahadat ke jaam ka
+  Abbas kar rahe haiṅ talaya qiyaam ka
+  In sab ke waaste ye ibadat ki raat hai
+
+  2
+  Ahl-e-haram hai dekh pareshaan Karbala
+  Dil aaj hi se sab ke haiṅ viraan Karbala
+  Kal tak raheṅ ge ye tere mehmaan Karbala
+  Ye raat un pe sakht musibat ki raat hai
+
+  3
+  Qasim Hasan ka laal jo maidaan ko jaaye ga
+  Dasht-e-Bala meiṅ khun ka darya bahaaye ga
+  Maqtal ki sar zamin ko mehshar banaaye ga
+  Naushaah-e-Karbala pe shahadat ki raat hai
+
+  4
+  Kal subah de ke aakhri mojiz numa azaaṅ
+  Barchi jigar pe khaaye ga phir Akbar jawaaṅ
+  Sakte meiṅ kal se aakhri din tak rahegi maaṅ
+  Bete ki aakhri ye ziyarat ki raat hai
+
+  5
+  Chaadar hai aaj sar pe hai Zainab ko itminaan
+  Kal hoga sab saroṅ pe magar charkh saayabaaṅ
+  Kal hoga Fatima ka rasan basta khaandaan
+  Ye aakhri ridaoṅ ki hurmat ki raat hai
+
+  6
+  Shaane kata ke nehr pe Abbas soeṅ ge
+  Tuti kamar ko thaam ke Shabbir roeṅ ge
+  Bachche bhi pyaas bujhne ki ummid khoeṅ ge
+  Ghazi pe aaj zabt-e-shujaat ki raat hai
+
+  7
+  Hamla Ali ke sher pe hoga Furaat par
+  Mar jaaye ga Sakina ka saqqa Furaat par
+  Kal hoga ambiya ka bhi girya Furaat par
+  Khaimoṅ ki aakhri ye hifazat ki raat hai
+
+  8
+  Tir-e-sitam se kal jo kiya jaaye ga shahid
+  Shashmaah hai wo jis pe musibat hai ye shadid
+  Ye zulm kar ke roye ga khud lashkar-e-Yazid
+  Bano pe intehaa-e-aziyat ki raat hai
+
+  9
+  Hangaam-e-Asr qatl kiye jaaeṅ ge Husain
+  Kal bekafan raheṅ ge yahaaṅ shaah-e-mashraqain
+  Maqtal meiṅ gunj utheṅ ge kal Fatima ke bain
+  Ye raat mere laal pe ghurbat ki raat hai
+
+  10
+  Laazim hai kaainaat pe gham Husain ka
+  Kaise kareṅ ge haq ye ada hum Husain ka
+  Bachpan se karte aaye haiṅ matam Husain ka
+  Apne liye ye raat saadat ki raat hai
+
+  11
+  Maango Jamil Khaaliq-e-Akbar se ye dua
+  Ae Rabb-e-Paak tujh ko hai is shab ka waasta
+  Hum sab Husain waaloṅ ko pahuncha de Karbala
+  Aansu bahaaye jaao ye riqqat ki raat hai
+---
+
+عاشور کی یہ شب ہے شہادت کی رات ہے
+ماتم بپا کرو کہ قیامت کی رات ہے
+
+زہرا کے خاندان پہ غربت کی رات ہے
+خاموش خیمہ گاہ ہے وحشت کی رات ہے
+
+۱
+اصحاب کو ہے دھیان بس اپنے امام کا
+پیاسوں کو انتظار شہادت کے جام کا
+عباس کر رہے ہیں تلایا قیام کا
+ان سب کے واسطے یہ عبادت کی رات ہے
+
+۲
+اہل حرم ہے دیکھ پریشان کربلا
+دل آج ہی سے سب کے ہیں ویران کربلا
+کل تک رہیں گے یہ تیرے مہمان کربلا
+یہ رات ان پہ سخت مصیبت کی رات ہے
+
+۳
+قاسم حسن کا لال جو میدان کو جائے گا
+دشت بلا میں خون کا دریا بہائے گا
+مقتل کی سر زمین کو محشر بنائے گا
+نوشاہ کربلا پہ شہادت کی رات ہے
+
+۴
+کل صبح دے کے آخری معجز نما اذاں
+برچھی جگر پہ کھائے گا پھر اکبر جواں
+سکتے میں کل سے آخری دن تک رہے گی ماں
+بیٹے کی آخری یہ زیارت کی رات ہے
+
+۵
+چادر ہے آج سر پہ ہے زینب کو اطمینان
+کل ہوگا سب سروں پہ مگر چرخ سایباں
+کل ہوگا فاطمہ کا رسن بستہ خاندان
+یہ آخری رداؤں کی حرمت کی رات ہے
+
+۶
+شانے کٹا کے نہر پہ عباس سوئیں گے
+ٹوٹی کمر کو تھام کے شبیر روئیں گے
+بچے بھی پیاس بجھنے کی امید کھوئیں گے
+غازی پہ آج ضبط شجاعت کی رات ہے
+
+۷
+حملہ علی کے شیر پہ ہوگا فرات پر
+مر جائے گا سکینہ کا سقہ فرات پر
+کل ہوگا انبیاء کا بھی گریہ فرات پر
+خیموں کی آخری یہ حفاظت کی رات ہے
+
+۸
+تیر ستم سے کل جو کیا جائے گا شہید
+ششماہ ہے وہ جس پہ مصیبت ہے یہ شدید
+یہ ظلم کر کے روئے گا خود لشکر یزید
+بانو پہ انتہائے اذیت کی رات ہے
+
+۹
+ہنگام عصر قتل کیے جائیں گے حسین
+کل بے کفن رہیں گے یہاں شاہ مشرقین
+مقتل میں گونج اٹھیں گے کل فاطمہ کے بین
+یہ رات میرے لال پہ غربت کی رات ہے
+
+۱۰
+لازم ہے کائنات پہ غم حسین کا
+کیسے کریں گے حق یہ ادا ہم حسین کا
+بچپن سے کرتے آئے ہیں ماتم حسین کا
+اپنے لئے یہ رات سعادت کی رات ہے
+
+۱۱
+مانگو جمیل خالق اکبر سے یہ دعا
+اے رب پاک تجھ کو ہے اس شب کا واسطہ
+ہم سب حسین والوں کو پہنچا دے کربلا
+آنسو بہائے جاؤ یہ رقت کی رات ہے

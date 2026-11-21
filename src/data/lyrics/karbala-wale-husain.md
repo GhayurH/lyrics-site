@@ -23,15 +23,15 @@ romanLyrics: |-
   Tashna lab mere biraadar Karbala wale Husain
 
   3
-  Mujh se barh kar kaun ho ga is zamaane meiṅ gharib
-  Bekafan tum maiṅ khule sar Karbala wale Husain
+  Mujh se barh kar kaun ho ga is zamaane mein gharib
+  Bekafan tum main khule sar Karbala wale Husain
 
   4
   Ghar se beghar ho gaye naana ka rauza chhut gaya
   Kaisa bigra hai muqaddar Karbala wale Husain
 
   5
-  Qaasim o Aun o Muhammad bhi gaye Abbas bhi
+  Qaasim o Aun o Muhammad bhi gaye Abbaas bhi
   Ab na Asghar hai na Akbar Karbala wale Husain
 ---
 فاطمہ زہرا کے دلبر کربلا والے حُسین

@@ -16,17 +16,17 @@ romanLyrics: |-
   Rone ko aayi Zehra Baghdad ke pul par
 
   1
-  Pachiswiṅ Rajab ko taabut hai ye kaisa
-  Duba hua lahu meiṅ zanjir meiṅ hai jakra
+  Pachchiswiṅ Rajab ko taabut hai ye kaisa
+  Duba hua lahu mein zanjir mein hai jakra
   Hai tin din se rakha Baghdad ke pul par
 
   2
   Haarun ne na jaane kaisa zehar diya hai
   Tan paash paash haaye Kaazim ka ho gaya hai
-  Gathri meiṅ aaye Maula Baghdad ke pul par
+  Gathri mein aaye Maula Baghdad ke pul par
 
   3
-  Beta Imaam ka hai baaba Imaam ka hai
+  Beta imaam ka hai baaba imaam ka hai
   Sheh ki tarah se is pe ghurbat ki inteha hai
   Begor o bekafan tha Baghdad ke pul par
 
@@ -36,13 +36,13 @@ romanLyrics: |-
   Roti hai us ko duniya Baghdad ke pul par
 
   5
-  Utre badan ke tukre zanjir meiṅ lipat kar
+  Utre badan ke tukre zanjir mein lipat kar
   Maasuma dekhti to mar jaati wo wahiṅ par
-  Kis haal meiṅ hai baaba Baghdad ke pul par
+  Kis haal mein hai baaba Baghdad ke pul par
 
   6
   Sarwar ki laadli pe chaudah baras jo roya
-  Aabid ko saath leke karne ko us pe girya
+  Aabid ko saath le ke karne ko us pe girya
   Aati hai khud Sakina Baghdad ke pul par
 
   7

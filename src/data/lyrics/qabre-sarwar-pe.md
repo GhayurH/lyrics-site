@@ -1,6 +1,6 @@
 ---
 title: "قبرِ سرور پہ نوحہ کناں ہے بہن"
-alternateTitle: "Qabre Sarwar Pe"
+alternateTitle: "Qabr-e-Sarwar Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Qabre sarwar pe nauha kuna hai behan
+  Qabr-e-Sarwar pe nauha kanaaṅ hai behan
 
   1
-  Teri turbat pe ab mehman hai behan
+  Teri turbat pe ab mehmaan hai behan
   Ek amaanat jo saumpi thi tu ne mujhe
   Gham hai sharminda us ko hum laa na sake
-  Wo wahaṅ shaam meiṅ aur yahaṅ hai behan
+  Wo wahaaṅ Shaam meiṅ aur yahaaṅ hai behan
 
   2
-  Tum pe royi to bas taziyane lage
-  Raah pukhaar thi paoṅ zakhmi huwe
-  Do sahara mujhe natawaṅ hai behan
+  Tum pe royi to bas taaziyaane lage
+  Raah purkhaar thi paaoṅ zakhmi hue
+  Do sahaara mujhe naatawaaṅ hai behan
 
   3
-  Shaam e ashur ko saare qaime jale
-  Ro rahi thi tumhe yaad karte huwe
-  Ab bhi un sholoṅ ke darmiyaṅ hai behan
+  Shaam-e-Aashur ko saare khaime jale
+  Ro rahi thi tumheiṅ yaad karte hue
+  Ab bhi un sholoṅ ke darmiyaaṅ hai behan
 
   4
-  Qabr par bhai ki koi saaya na tha
-  Bhai ki qabr se tab lipat kar kaha
-  Dhup meiṅ qabr ka sayebaṅ hai behan
+  Qabr par bhaai ki koi saaya na tha
+  Bhaai ki qabr se tab lipat kar kaha
+  Dhup meiṅ qabr ka saayebaaṅ hai behan
 
   5
   Karne chehlum tera aayi hai ghamzada
-  Gham na kar teri tanha lehad hai to kya
-  Qabr par teri girya kuna hai behan
+  Gham na kar teri tanha lahad hai to kya
+  Qabr par teri girya kanaaṅ hai behan
 
   6
-  Chadareiṅ chin gayi haath bhi the bandhe
-  Hum ko bazaar o darbar meiṅ le gaye
-  Ek musibat ka kohe giraṅ hai behan
+  Chaadareiṅ chhin gayi haath bhi the bandhe
+  Hum ko baazaar o darbaar meiṅ le gaye
+  Ek musibat ka koh-e-giraaṅ hai behan
 
   7
-  Ek taraf qabr teri hai ae bhai jaaṅ
-  Dusri simt ghazi ki turbat ayaṅ
-  Do taraf bhai hai darmiyaṅ hai behan
+  Ek taraf qabr teri hai ae bhaai jaaṅ
+  Dusri simt Ghaazi ki turbat ayaaṅ
+  Do taraf bhaai hai darmiyaaṅ hai behan
 
   8
-  Jao jab karbala majid e khasta jaṅ
-  Jab bhi mukhtar ho koi nauha kuna
-  Aisa lagta hai mehwe fughaṅ hai behan
+  Jaao jab Karbala Majid-e-khasta jaaṅ
+  Jab bhi mukhtaar ho koi nauha kanaaṅ
+  Aisa lagta hai mahv-e-fughaaṅ hai behan
 ---
 
 قبرِ سرور پہ نوحہ کناں ہے بہن

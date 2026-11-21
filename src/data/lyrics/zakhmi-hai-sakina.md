@@ -12,87 +12,87 @@ published: false
 romanLyrics: |-
   1
   Baba mere baba baba mere baba
-  Chalna chahuṅ to chala bhi nahi jaata
-  Paoṅ zakhmi ye uthta hi nahi mera
-  Sona chahuṅ to soya bhi nahi jaata
-  Pusht zakhmi hai zakhmo se hai khun behta
-  Saans leti hoo to dukhti hai phasliyaṅ
-  Dadi zahra ki tarha tuti hai phasliyaṅ
-  Rukhsaar mere zakhmi kaano se lahu jaari
-  Bunde bhi chine mere kurta bhi jala baba
-  Haye itna mujhe maara
+  Chalna chaahuṅ to chala bhi nahiṅ jaata
+  Paaoṅ zakhmi ye uthta hi nahiṅ mera
+  Sona chaahuṅ to soya bhi nahiṅ jaata
+  Pusht zakhmi hai zakhmoṅ se hai khun behta
+  Saaṅs leti huṅ to dukhti hai pasliyaaṅ
+  Daadi Zehra ki tarah tuti hai pasliyaaṅ
+  Rukhsaar mere zakhmi kaanoṅ se lahu jaari
+  Bundeṅ bhi chhine mere kurta bhi jala baba
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Dhundti phirti thi mai aap ka laasha baba
-  Ek zaalim ne mujhe rok ke mujhse pucha
-  Dhundti kisko hai baba ka tere naam hai kya
-  Mere baba hai Husain ibne ali maiṅ ne kaha
-  Phir ghaiz meiṅ wo aaya chehre pe mujhe maara
-  Reti pe gira daala mai kehti rahi baba
-  Haye itna mujhe maara
+  Dhundti phirti thi main aap ka laasha baba
+  Ek zaalim ne mujhe rok ke mujh se puchha
+  Dhundti kis ko hai baba ka tere naam hai kya
+  Mere baba hai Husain ibn-e-Ali main ne kaha
+  Phir ghaiz mein wo aaya chehre pe mujhe maara
+  Reti pe gira daala main kehti rahi baba
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Raah meiṅ chalte huwe khaafla thehraya gaya
-  Pani lekar jo wahaṅ shimr e layiṅ aaya tha
-  Apne lashkar ko wahaṅ pani se sairaab kya
-  Pani dikhla ke mujhe saara wahin phaynk diya
-  Phir has ke wo kehta tha pyasa tujhe rakhunga
-  Baaloṅ ko mere khayncha aur khuṅ risa baba
-  Haye itna mujhe maara
+  Raah mein chalte hue qaafila tehraya gaya
+  Paani lekar jo wahaaṅ Shimr laiṅ aaya tha
+  Apne lashkar ko wahaaṅ paani se sairaab kiya
+  Paani dikhla ke mujhe saara wahi phenk diya
+  Phir hans ke wo kehta tha pyaasa tujhe rakhuṅ ga
+  Baaloṅ ko mere khencha aur khuṅ rasa baba
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Pusht zakhmi hui sajjad ki to maiṅ ne kaha
-  Haye maaro na ise bhai hai bemaar mera
-  Sun ke aawaz meri shimr meri samt barha
-  Bhai ko chor diya phir wo sitam mujhpe kya
-  Maara mujhe tamacha chehre se lahu nikla
+  Pusht zakhmi hui Sajjad ki to main ne kaha
+  Haaye maaro na ise bhaai hai bemaar mera
+  Sun ke aawaaz meri Shimr meri samt barha
+  Bhaai ko chhor diya phir wo sitam mujh pe kiya
+  Maara tujhe tamaancha chehre se lahu nikla
   Wo haath sitamgar ka bhaari tha bara baba
-  Haye itna mujhe maara
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Khaa ke zaalim ke tamache mujhe ghash aata tha
-  Phir tamacho se hi wo hosh meiṅ le aata tha
-  Has ke kehta tha bula baba ko ammu ko bula
-  Jitna to royegi utna hi tujhe maarunga
-  Phir dil mera ghabraya aur jism bhi tharraya
+  Khaa ke zaalim ke tamaanche mujhe ghash aata tha
+  Phir tamaanchoṅ se hi wo hosh mein le aata tha
+  Hans ke kehta tha bula baba ko ammu ko bula
+  Jitna tu roe gi utna hi tujhe maaruṅ ga
+  Phir dil mera ghabraya aur jism bhi tharaya
   Ye haal mera dekha na rehm kiya baba
-  Haye itna mujhe maara
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Mera nanha sa gala rassi se bandhwaya gaya
-  Mujhko panjo pe kabhi kaanto pe chalwaya gaya
-  Tez chalte huwe naaqo se bhi girwaya gaya
-  Sar barehna mujhe bazaar meiṅ phirwaya gaya
-  Thi itni thakan baba paoṅ bhi na uthta tha
+  Mera nanha sa gala rassi se bandhwaaya gaya
+  Mujh ko panjoṅ pe kabhi kaantoṅ pe chalwaaya gaya
+  Tez chalte hue naaqoṅ se bhi girwaaya gaya
+  Sar barehna mujhe baazaar mein phirwaaya gaya
+  Thi itni thakan baba paaoṅ bhi na uthta tha
   Us waqt jo ghash aaya aise jagaya baba
-  Haye itna mujhe maara
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Jab mai zindaṅ se rehaai ke khabar paaungi
-  Dadi zehra ki mai turbat pe chali jaaungi
-  Apni tuti hui phasli unhe dikhlaungi
-  Chaar saala mai zaeefa hu ye batlaungi
-  Hum dono hai mazlooma ek jaisa hai gham apna
-  Zaalim ne jo rulwaya dono ne kaha baba
-  Haye itna mujhe maara
+  Jab main zindaaṅ se rihaai ke khabar paauṅ gi
+  Daadi Zehra ki main turbat pe chali jaauṅ gi
+  Apni tuti hui pasli unheṅ dikhlaauṅ gi
+  Chaar saala main zaeefa ho ye batlaauṅ gi
+  Ham donoṅ haiṅ mazluma ak jaisa hai gham apna
+  Zaalim ne jo rulwaaya donoṅ ne kaha baba
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
-  Kaisa wo mazhar o farhan tha gham ka manzar
-  Qaid khaane meiṅ sakina ko mila baba ka sar
-  Royi kuch dayr wo moo baba ke moo par rakh kar
-  Bas yehi kehte huwe kar gayi dunya se safar
-  Ye aakhri jumla tha ab sabr nahi hota
+  Kaisa wo Mazhar o Farhan tha gham ka manzar
+  Qaid khaane mein Sakina ko mila baba ka sar
+  Roi kuchh der wo muṅh baba ke muṅh par rakh kar
+  Bas yahi kehte hue kar gai duniya se safar
+  Ye aakhri jumla tha ab sabr nahiṅ hota
   Sar rone laga sheh ka beti ne kaha baba
-  Haye itna mujhe maara
+  Haaye itna mujhe maara
   Baba
-  Haye zakhmi hai sakina
+  Haaye zakhmi hai Sakina
   Baba
 ---
 

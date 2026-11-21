@@ -1,35 +1,59 @@
 ---
-title: "Zainab Se Azadari-e-Shabbir Chali Hai Hasan Sadiq"
+title: "زینب سے عزاداریِ شبیر چلی ہے حسن صادق"
+alternateTitle: "Zainab Se Azadari-e-Shabbir Chali Hai Hasan Sadiq"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Rehan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab se azadari-e-Shabbir chali hai Hasan Sadiq
+  Ghar ghar mein bapa majlis-e-farzand-e-Ali hai
+  Matam ko ibadat ki tarha mil gayi tauqeer
+  Hum ahl-e-azza ki tu ibadat hi yehi hai
+
+  2
+  Shabeer ki majlis mein hai Abbas ka matam
+  Zakhmi dil-e-Zahra ki dua noha gari hai
+  Zainab ne aseeri mein kiya kar-e-imamat
+  Shabeer ka paigham liye Sham gayi hai
+
+  3
+  Matam na kiya bachoon ka bas bhai ko roi
+  Batlao zamane mein behan aisi koi hai
+  Abbas ko roi Ali Akbar ko bhi roi
+  Ta umar woh Shabeer ke matam mein rahi hai
+
+  4
+  Roney nahi detey yeh sitamgar behan ko
+  Zainab teri mazlomi pe ro bhi na saki hai
+  Har aankh mein aanso hain har ik dil howa magmoom
+  Rehan tere nohay mein taseer bari hai
 ---
 
-1
-Zainab Se Azadari-e-Shabbir Chali Hai Hasan Sadiq.
-Ghar Ghar Mein Bapa Majlis-e-Farzand-e-Ali Hai.
-Matam Ko Ibadat Ki Tarha Mil Gayi Tauqeer.
-Hum Ahl-e-Azza Ki Tu Ibadat Hi Yehi Hai.
+۱
+زینب سے عزاداریِ شبیر چلی ہے حسن صادق
+گھر گھر میں بپا مجلسِ فرزندِ علی ہے
+ماتم کو عبادت کی طرح مل گئی توقیر
+ہم اہلِ عزا کی تو عبادت ہی یہی ہے
 
-2
-Shabeer Ki Majlis Mein Hai Abbas Ka Matam.
-Zakhmi Dil-e-Zahra Ki Dua Noha Gari Hai.
-Zainab Ne Aseeri Mein Kiya Kar-e-Imamat.
-Shabeer Ka Paigham Liye Sham Gayi Hai.
+۲
+شبیر کی مجلس میں ہے عباس کا ماتم
+زخمی دلِ زہرا کی دعا نوحہ گری ہے
+زینب نے اسیری میں کیا کارِ امامت
+شبیر کا پیغام لیے شام گئی ہے
 
-3
-Matam Na Kiya Bachoon Ka Bas Bhai Ko Roi.
-Batlao Zamane Mein Behan Aisi Koi Hai.
-Abbas Ko Roi Ali Akbar Ko Bhi Roi.
-Ta Umar Woh Shabeer Ke Matam Mein Rahi Hai.
+۳
+ماتم نہ کیا بچوں کا بس بھائی کو روئی
+بتلاؤ زمانے میں بہن ایسی کوئی ہے
+عباس کو روئی علی اکبر کو بھی روئی
+تا عمر وہ شبیر کے ماتم میں رہی ہے
 
-4
-Roney Nahi Detey Yeh Sitamgar Behan Ko.
-Zainab Teri Mazlomi Pe Ro Bhi Na Saki Hai.
-Har Aankh Mein Aanso Hain Har Ik Dil Howa Magmoom.
- Rehan Tere Nohay Mein Taseer Bari Hai.
+۴
+رونے نہیں دیتے یہ ستمگر بہن کو
+زینب تیری مظلومی پہ رو بھی نہ سکی ہے
+ہر آنکھ میں آنسو ہیں ہر اک دل ہوا مغموم
+ریحان تیرے نوحے میں تاثیر بڑی ہے

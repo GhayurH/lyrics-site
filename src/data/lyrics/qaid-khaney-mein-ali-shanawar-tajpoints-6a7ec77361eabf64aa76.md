@@ -1,34 +1,57 @@
 ---
-title: "Qaid Khaney Mein Ali Shanawar"
+title: "قید خانے میں علی شناور"
+alternateTitle: "Qaid Khaney Mein Ali Shanawar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Sun rahe ho sada Baba jaan
+  Hum kahan aa gaye ghar kahan reh gaya
+  Qaid khane mein noha Sakina ka tha
+
+  2
+  Yaad aata hai guzra zamana mujhe
+  Le ke banhoon mein jhola jholana mujhe
+  Main bolati rahi our na aaye chacha
+  Yaad aata hai pyara Madina mujhe
+
+  3
+  Phool jaisa woh Baba ka seena mujhe
+  Woh zamana koi phir dikha de mujhe
+  Bhai Abid ne chalna sikhaya mujhe
+  Apne hathoon se khana khilaya mujhe
+
+  4
+  Ab ossi ke liye hai dawa na giza
+  Haye Baba ko dekhey zamana howa
+  Unn ke seene pe soye zamana howa
+  Na tumhara pata na hamara pata
 ---
 
-1
-Qaid Khaney Mein Ali Shanawar Lyrics
-Sun Rahe Ho Sada Baba Jaan.
-Hum Kahan Aa Gaye Ghar Kahan Reh Gaya.
-Qaid Khane Mein Noha Sakina Ka Tha.
+۱
+سن رہے ہو صدا بابا جان
+ہم کہاں آ گئے گھر کہاں رہ گیا
+قید خانے میں نوحہ سکینہ کا تھا
 
-2
-Yaad Aata Hai Guzra Zamana Mujhe.
-Le Ke Banhoon Mein Jhola Jholana Mujhe.
-Main Bolati Rahi Our Na Aaye Chacha.
-Yaad Aata Hai Pyara Madina Mujhe.
+۲
+یاد آتا ہے گزرا زمانہ مجھے
+لے کے بانہوں میں جھولا جھلانا مجھے
+میں بلاتی رہی اور نہ آئے چچا
+یاد آتا ہے پیارا مدینہ مجھے
 
-3
-Phool Jaisa Woh Baba Ka Seena Mujhe.
-Woh Zamana Koi Phir Dikha De Mujhe.
-Bhai Abid Ne Chalna Sikhaya Mujhe.
-Apne Hathoon Se Khana Khilaya Mujhe.
+۳
+پھول جیسا وہ بابا کا سینہ مجھے
+وہ زمانہ کوئی پھر دکھا دے مجھے
+بھائی عابد نے چلنا سکھایا مجھے
+اپنے ہاتھوں سے کھانا کھلایا مجھے
 
-4
-Ab Ossi Ke Liye Hai Dawa Na Giza.
-Haye Baba Ko Dekhey Zamana Howa.
-Unn Ke Seene Pe Soye Zamana Howa.
-Na Tumhara Pata Na Hamara Pata.
+۴
+اب اسی کے لیے ہے دوا نہ غذا
+ہائے بابا کو دیکھے زمانہ ہوا
+ان کے سینے پہ سوئے زمانہ ہوا
+نہ تمہارا پتہ نہ ہمارا پتہ

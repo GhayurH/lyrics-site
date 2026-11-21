@@ -7,6 +7,47 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Roza daaroṅ karo barpa maatam
+  Chal gai tegh-e-Haidar ke sar par
+
+  1
+  Khuṅ meiṅ ghaltaaṅ hai Shah-e-do aalam
+
+  2
+  Zulm ki aandhi aisi chali hai
+  Zarb-e-kaari laiṅ ki lagi hai
+  Ho gai khun se aankh pur nam
+
+  3
+  Khun behta hai Haidar ke sar se
+  Zard chehra hai sam ke asar se
+  Shah ke sine meiṅ ghutne laga dam
+
+  4
+  Ghar meiṅ Haidar ke aafat hai aai
+  Betiyaaṅ de rahi haiṅ duhaai
+  Kaise jheleiṅ gi baba ka ye gham
+
+  5
+  Rote jaate haiṅ Shabbir o Shabbar
+  Girya phir se hai Zehra ke ghar par
+  Gham hua tha na maaṅ ka abhi kam
+
+  6
+  Sun ke Kulsum o Zainab ke naale
+  Ro rahe haiṅ sabhi kumbe wale
+  Khaak sar par uraate haiṅ baaham
+
+  7
+  Barpa kaun o makaaṅ meiṅ faghaaṅ hai
+  Gham meiṅ dubi namaaz o azaaṅ hai
+  Donoṅ aalam meiṅ hai Shah ka maatam
+
+  8
+  Likha Rizwan ne aisa nauha
+  Khuṅ bahaate haiṅ sab ahl-e-girya
+  Ashk behte haiṅ aankhoṅ se paiham
 ---
 
 روزہ داروں کرو برپا ماتم

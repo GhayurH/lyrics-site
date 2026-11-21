@@ -11,100 +11,100 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gharibe zehra ke naukar ye aashikane aza
-  Raahe wafa pe chale hai musafirane aza
-  Dua e fatema zehra ke sayebaṅ ki tarha
-  Chala hai jaanibe manzil ye karwan-e-aza
+  Gharib-e-Zehra ke naukar ye aashiqaan-e-aza
+  Raah-e-wafa pe chale haiṅ musaafiraan-e-aza
+  Duaa-e-Fatima Zehra ke saaybaaṅ ki tarah
+  Chala hai jaanib-e-manzil ye kaarwaan-e-aza
 
   2
-  Salaam zaairane Husain
-  Salaam aashikane Husain
+  Salaam zaairaan-e-Husain
+  Salaam aashiqaan-e-Husain
   Safar-e-ishq-e-Husain
-  Hussainiyo tumhe karbobala bulaati hai
+  Husainiyoṅ tumheiṅ Karb o Bala bulaati hai
 
   3
-  Safare ishq par chalo saath mere hussainiyo
-  Sunnate bibi zainab ko pura karo
+  Safar-e-ishq par chalo saath mere Husainiyoṅ
+  Sunnat-e-Bibi Zainab ko pura karo
   Hal min ki sada par labbaik kaho
   Labbaika ya Husain
 
   4
-  Rasme sajjad puri karo
+  Rasm-e-Sajjaad puri karo
   Karbala ke shahidoṅ ka
-  Chehlum karo karbala meiṅ
-  Zairaane Husain karbala ka ye gham
+  Chehlum karo Karbala meiṅ
+  Zaairaan-e-Husain Karbala ka ye gham
 
   5
   Dil meiṅ zinda rahe ek pal na ho kam
-  Saal bhar majlise ho aur rahe aankh nam
-  Baad e ashur haathoṅ meiṅ lekar alam
-  Khaafela ek tartib do
+  Saal bhar majlis ho aur rahe aankh nam
+  Baad-e-aashur haathoṅ meiṅ le kar alam
+  Qaafila ik tartib do
 
   6
   Karbala ke shahidoṅ ka
-  Chehlum karo karbala meiṅ
-  Jiski chadar ko tum roye ho umr bhar
-  Jis ka ek roz meiṅ lut gaya saara ghar
+  Chehlum karo Karbala meiṅ
+  Jis ki chaadar ko tum roye ho umr bhar
+  Jis ka ik roz meiṅ lut gaya saara ghar
 
   7
   Apni marqad meiṅ kehti hai wo nauhagar
-  Mai bhi jaati hoo tum bhi karo ye safar
-  Hukm e zainab ki takmil ho
+  Main bhi jaati huṅ tum bhi karo ye safar
+  Hukm-e-Zainab ki takmil ho
   Karbala ke shahidoṅ ka
 
   8
-  Chehlum karo karbala meiṅ
-  Sabr ka wo khuda yani zainul liba
-  Pehn kar beriyaṅ khun rota raha
-  Karbala se suye shaam paidal gaya
+  Chehlum karo Karbala meiṅ
+  Sabr ka wo khuda yani Zain-ul-Aba
+  Pahan kar beriyaaṅ khun rota raha
+  Karbala se su-e-Shaam paidal gaya
 
   9
-  Chuth ke zindaṅ se phir suye karbala
-  Jis tarha wo chala tum chalo
+  Chhut ke zindaaṅ se phir su-e-Karbala
+  Jis tarah wo chala tum chalo
   Karbala ke shahidoṅ ka
-  Chehlum karo karbala meiṅ
+  Chehlum karo Karbala meiṅ
 
   10
   Baap ki yaad meiṅ dil jalaati hai wo
-  Qaid khane meiṅ gham yuṅ manati hai wo
+  Qaid khaane meiṅ gham yuṅ manaati hai wo
   Apne baba ko ab bhi bulaati hai wo
-  Karne chehlum suye dasht jaati hai wo
+  Karne chehlum su-e-dasht jaati hai wo
 
   11
-  Gar sakina ke gham-khwar ho
+  Gar Sakina ke gham khwaar ho
   Karbala ke shahidoṅ ka
-  Chehlum karo karbala meiṅ
-  Hai safar ishq ka ek musalsal safar
+  Chehlum karo Karbala meiṅ
+  Hai safar-e-ishq ka ek musalsal safar
 
   12
-  Qariya qariya safar sehra jangal safar
+  Qariya qariya safar sahraa jangal safar
   Sakht garmi ho din raat paidal safar
-  Karbala tak najaf se wo paidal safar
-  Mere humraah tum bhi karo
+  Karbala tak Najaf se wo paidal safar
+  Mere hamraah tum bhi karo
 
   13
   Karbala ke shahidoṅ ka
-  Chehlum karo karbala meiṅ
-  Dur hogi thakan us ghari ahle gham
+  Chehlum karo Karbala meiṅ
+  Dur hogi thakan us ghari ahl-e-gham
   Karbala meiṅ rakhoge jo pehla qadam
 
   14
-  Hogi pesh e nazar qabre shaah e umam
-  Ek maa ki fughaṅ sunke royenge hum
+  Hogi pesh-e-nazar qabr-e-shaah-e-umam
+  Ik maaṅ ki fughaaṅ sun ke royeṅge ham
   Mere zakhmoṅ ka marham bano
   Karbala ke shahidoṅ ka
 
   15
-  Chehlum karo karbala meiṅ
-  Aashiqane Husain ishq emaan hai
+  Chehlum karo Karbala meiṅ
+  Aashiqaan-e-Husain ishq imaan hai
   Ishq ka ye safar dil hai aur jaan hai
-  Haaṅ ye irfan o mazhar ka elaan hai
+  Haaṅ ye Irfaan o Mazhar ka elaan hai
 
   16
-  Binte zehra ka zehra ka armaan hai
+  Bint-e-Zehra ka Zehra ka armaan hai
   Un ka armaan pura karo
   Karbala ke shahidoṅ ka
-  Chehlum karo karbala meiṅ
+  Chehlum karo Karbala meiṅ
 ---
 
 ۱

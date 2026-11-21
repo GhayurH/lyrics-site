@@ -1,34 +1,57 @@
 ---
-title: "Zahra Dikhayi De Syed Mohammad Shah"
+title: "زہرا دکھائی دے سید محمد شاہ"
+alternateTitle: "Zahra Dikhayi De Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra dikhayi de Syed Mohammad Shah
+  Woh ghar keh jis mein har koi aala dikhai de
+  Oss ghar mein bhi bas aik hi Zahra dikhai de
+  Aa jata hai Batool ki chokhat pe Jibraeel
+  Jab chahta hai arsh-e-mualla dikhai de
+  Qurban bait-e-Zahra pe sari bulandiyaan
+  Dar jis ka koh-e-Toor se oncha dikhai de
+  Chandi ka kya hai Fizza agar Fatima kahin
+  Mati bhi tere hath mein sona dikhai de
+  Aye daman-e-Batool taharat tere nisar
+  Aanchal tera Ali ko musalla dikhai de
+  Aye Zulfiqar kaun si aankhein hain tere pas
+  Mehshar talak ka har tujhe shajrah dikhai de
+  Jitna dar-e-Batool se mil jaye ilm-e-gaib
+  Nabiyon ko bhi bas utna zamana dikhai de
+  Do lafz parh liye tu yeh aalam garor ka
+  Mulla yeh chahta hai keh Maula dikhai de
+  Aisay hai Hur ke mathay pe romal-e-Fatima
+  Kabay pe jaisay kabay ka pardah dikhai de
+  Akbar woh Mustafa keh jo ummat ka baap hai
+  Zahra ossay bhi Umm-e-Abeeha dikhai de
 ---
 
-1
-Zahra Dikhayi De Syed Mohammad Shah.
-Woh Ghar Keh Jis Mein Har Koi Aala Dikhai De.
-Oss Ghar Mein Bhi Bas Aik Hi Zahra Dikhai De.
-Aa Jata Hai Batool Ki Chokhat Pe Jibraeel.
-Jab Chahta Hai Arsh-e-Mualla Dikhai De.
-Qurban Bait-e-Zahra Pe Sari Bulandiyaan.
-Dar Jis Ka Koh-e-Toor Se Oncha Dikhai De.
-Chandi Ka Kya Hai Fizza Agar Fatima Kahin.
-Mati Bhi Tere Hath Mein Sona Dikhai De.
-Aye Daman-e-Batool Taharat Tere Nisar.
-Aanchal Tera Ali Ko Musalla Dikhai De.
-Aye Zulfiqar Kaun Si Aankhein Hain Tere Pas.
-Mehshar Talak Ka Har Tujhe Shajrah Dikhai De.
-Jitna Dar-e-Batool Se Mil Jaye Ilm-e-Gaib.
-Nabiyon Ko Bhi Bas Utna Zamana Dikhai De.
-Do Lafz Parh Liye Tu Yeh Aalam Garor Ka.
-Mulla Yeh Chahta Hai Keh Maula Dikhai De.
-Aisay Hai Hur Ke Mathay Pe Romal-e-Fatima.
-Kabay Pe Jaisay Kabay Ka Pardah Dikhai De.
- Akbar Woh Mustafa Keh Jo Ummat Ka Baap Hai.
-Zahra Ossay Bhi Umm-e-Abeeha Dikhai De.
+۱
+زہرا دکھائی دے سید محمد شاہ
+وہ گھر کہ جس میں ہر کوئی اعلیٰ دکھائی دے
+اس گھر میں بھی بس ایک ہی زہرا دکھائی دے
+آ جاتا ہے بتول کی چوکھٹ پہ جبرائیل
+جب چاہتا ہے عرشِ معلیٰ دکھائی دے
+قربان بیتِ زہرا پہ ساری بلندیاں
+در جس کا کوہِ طور سے اونچا دکھائی دے
+چاندی کا کیا ہے فضہ اگر فاطمہ کہیں
+مٹی بھی تیرے ہاتھ میں سونا دکھائی دے
+اے دامنِ بتول طہارت تیرے نثار
+آنچل تیرا علی کو مصلیٰ دکھائی دے
+اے ذوالفقار کون سی آنکھیں ہیں تیرے پاس
+محشر تلک کا ہر تجھے شجرہ دکھائی دے
+جتنا درِ بتول سے مل جائے علمِ غیب
+نبیوں کو بھی بس اتنا زمانہ دکھائی دے
+دو لفظ پڑھ لیے تو یہ عالم غرور کا
+ملا یہ چاہتا ہے کہ مولا دکھائی دے
+ایسے ہے حر کے ماتھے پہ رومالِ فاطمہ
+کعبے پہ جیسے کعبے کا پردہ دکھائی دے
+اکبر وہ مصطفیٰ کہ جو امت کا باپ ہے
+زہرا اسے بھی امِ ابیہا دکھائی دے

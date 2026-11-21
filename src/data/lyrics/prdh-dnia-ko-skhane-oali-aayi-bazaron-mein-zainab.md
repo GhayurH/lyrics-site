@@ -9,56 +9,28 @@ reciter: "Syed Raza Abbas Shah"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Parda dunya ko sikhane waali
-
-  Aayi bazaron may zainab
-
+romanLyrics: |-
+  Parda duniya ko sikhaane waali
+  Aayi baazaaroṅ meiṅ Zainab
 
   1
-
-  Ghaar sai bahar bhi na aanai wali aayi bazaaron main Zainab
-
+  Ghar se baahar bhi na aane waali aayi baazaaroṅ meiṅ Zainab
 
   2
-
-  1) Jis nai baba sai chura-e-thai kai baar aseer
-
-  Qaidi azaad kara nai wali, aayi bazaaron main Zainab
-
-
-  3
-
-  2) Jaltai khaimon sai utha lai Abbas kai baad
-
-  Ali Abid ko bachanai wali, aayi bazaaron main Zainab
-
-
-  4
-
-  3) Dheen ki khaatir yeh Bibi salaar baani
-
-  Bankai Abbas dikhanai wali, aayi bazaaron main Zainab
-
-
-  5
-
-  Kufi aur shaami bhi saare gaye ye maan johar
-
-  Azmate deen ko badhane wali
-
-
-  6
-
-  4) Apnai seenai pai Sakina ko zindaanon main
-
-  Baad bahi kai sulanai wali, aayi bazaaron main Zainab
-
-
-  7
-
-  5) Nangai saar parhti rahi khutbai bazaaron main
-
-  Kasr-e-dushman ko hilanai wali, aayi bazaaron main Zainab'
+  Jis ke baaba ne chhuraaye the kai baar aseer
+  Qaidi aazaad karaane waali aayi baazaaroṅ meiṅ Zainab
+  Jalte khaimoṅ se utha laayi Abbas ke baad
+  Ali Aabid ko bachaane waali aayi baazaaroṅ meiṅ Zainab
+  Din ki khaatir yeh Bibi saalaar bani
+  Ban ke Abbas dikhaane waali aayi baazaaroṅ meiṅ Zainab
+  Apne sine pe Sakina ko zindaanoṅ meiṅ
+  Baad bhaai ke sulaane waali aayi baazaaroṅ meiṅ Zainab
+  Nange sar parhti rahi khutbe baazaaroṅ meiṅ
+  Qasr-e-dushman ko hilaane waali aayi baazaaroṅ meiṅ Zainab
+  Jis ko suraj ki kiran ne bhi nahiṅ dekha tha
+  Aasmaaṅ ko bhi rulaane waali aayi baazaaroṅ meiṅ Zainab
+  Kufe aur Shaam bhi saare gaye yeh baat Gohar
+  Azmat-e-din ko barhaane waali aayi baazaaroṅ meiṅ Zainab
 ---
 
 پردہ دُنیا کو سیکھانے والی

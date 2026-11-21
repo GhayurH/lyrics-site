@@ -15,12 +15,12 @@ romanLyrics: |-
   Laasha-e-Akbar pe hai ye Umm-e-Laila ki fughaaṅ
   Ji nahiṅ paaegi maaṅ
 
-  Khol de aaṅkheiṅ wagarna ae mere karyal jawaaṅ
+  Khol de aaṅkheiṅ wagarna, ae mere karyal jawaaṅ
   Ji nahiṅ paaegi maaṅ
 
   1
-  Hai teri benur aaṅkheiṅ ae mere nur-e-nazar
-  Ae mere lakht-e-jigar barchhi meiṅ hai tera jigar
+  Hai teri benur aaṅkheiṅ, ae mere nur-e-nazar
+  Ae mere lakht-e-jigar, barchhi meiṅ hai tera jigar
   Ye qayaamat se bara hai mamta ka imtihaaṅ
   Ji nahiṅ paaegi maaṅ
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Fajr ka jab waqt hoga yaad aaegi teri
   Maaṅ musalle par bhi tera gham manaane jaaegi
-  Jab tere lahje meiṅ beta sun na paaegi azaaṅ
+  Jab tere lahje meiṅ, beta, sun na paaegi azaaṅ
   Ji nahiṅ paaegi maaṅ
 
   4
@@ -49,13 +49,13 @@ romanLyrics: |-
   Ji nahiṅ paaegi maaṅ
 
   6
-  Ye nahiṅ hai hukm beta ye hai meri iltija
+  Ye nahiṅ hai hukm, beta, ye hai meri iltija
   Kya kahuṅ Sughra se jaa kar bas mujhe itna bata
   Jab wo puchhegi kahaaṅ hai mera bhaai naujawaaṅ
   Ji nahiṅ paaegi maaṅ
 
   7
-  Laash par bete ki Yasir ghash pe ghash khaati thi wo
+  Laash par bete ki, Yasir, ghash pe ghash khaati thi wo
   Hosh meiṅ aate hi phir behosh ho jaati thi wo
   Laash ke shaane hila kar de rahi thi ye azaaṅ
   Ji nahiṅ paaegi maaṅ

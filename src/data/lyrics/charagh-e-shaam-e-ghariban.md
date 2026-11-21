@@ -25,11 +25,11 @@ romanLyrics: |-
 
   3
   Husain aap ki us laadli Sakina ko
-  Tamaache lagte rahe kuchh na kar saki Zainab
+  Tamaanche lagte rahe kuchh na kar saki Zainab
 
   4
   Nabi ke rauze pe Sughra se jab mili nazreṅ
-  Zabaṅ se kuchh na kaha aur ro pari Zainab
+  Zabaaṅ se kuchh na kaha aur ro pari Zainab
 
   5
   Zafar jala ke charagh-e-aza-e-Shabbiri

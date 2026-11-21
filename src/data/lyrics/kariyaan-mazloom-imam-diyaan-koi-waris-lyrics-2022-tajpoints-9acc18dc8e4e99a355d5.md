@@ -1,37 +1,53 @@
 ---
-title: "Kariyaan Mazloom Imam Diyaan Koi Waris Lyrics 2022"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کڑیاں مظلوم امام دیاں کوئی وارث"
+alternateTitle: "Kariyaan Mazloom Imam Diyaan Koi Waris"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kariyaan mazloom Imam diyaan koi waris aan ke laway
+  Na kat diyaan beriyaan maiyyat de ya Rab koi zakhm dukhaway
+
+  1
+  Naizay diyaan nokaan mekhaan ne zakhma te zakhm banaye ne
+  Ainay chodah saal Raku dey wich barey okhay waqt langaye ne
+  Aidi maiyyat nu be dardi nal ya Rab koi hath na laway
+  Aidi qaid aye sunat Sakina di ainay tauq beemar da paya aye
+
+  2
+  Be watan hoya Shabeer wango na mur watna te aaya aye
+  Muddataan taun wichriyaan dhiyaan nu aadh raat nu kaun bulaway
+  Aiday wazan taun wadh ke zalimaan ne zanjeeraan ainu paiyaan ne
+  Mukiyaan nayi sahwaan zulm de nal aina zehar de naal mokayiyaan ne
+
+  3
+  Kaday lash koi zanjeeraan choon ya Rab ainu kafan pawaway
+  Ik chadar wich mazdoraan ne haye pak janaza chukya aye
+  Baghdad de pul te zalimaan ne rakhiya nayi loko sutiya aye
+  Koi waris nayi ais qaidi da jehra lash nu aan ke chaway
 ---
 
-Kariyaan Mazloom Imam Diyaan Koi Waris Aan Ke Laway
-Na Kat Diyaan Beriyaan Maiyyat De Ya Rab Koi Zakhm Dukhaway.
+کڑیاں مظلوم امام دیاں کوئی وارث آن کے لاوے
+نہ کٹ دیاں بیڑیاں میت دے یا رب کوئی زخم دکھاوے
 
-1
-Naizay Diyaan Nokaan Mekhaan Ne Zakhma Te Zakhm Banaye Ne.
-Ainay Chodah Saal Raku Dey Wich Barey Okhay Waqt Langaye Ne.
-Aidi Maiyyat Nu Be Dardi Nal Ya Rab Koi Hath Na Laway.
-Aidi Qaid Aye Sunat Sakina Di Ainay Tauq Beemar Da Paya Aye.
+۱
+نیزے دیاں نوکاں میخاں نے زخماں تے زخم بنائے نے
+اینے چودہ سال رکو دے وچ بڑے اوکھے وقت لنگھائے نے
+ایہدی میت نوں بے دردی نال یا رب کوئی ہتھ نہ لاوے
+ایہدی قید اے سنت سکینہ دی اینے طوق بیمار دا پایا اے
 
-2
-Be Watan Hoya Shabeer Wango Na Mur Watna Te Aaya Aye.
-Muddataan Taun Wichriyaan Dhiyaan Nu Aadh Raat Nu Kaun Bulaway.
-Aiday Wazan Taun Wadh Ke Zalimaan Ne Zanjeeraan Ainu Paiyaan Ne.
-Mukiyaan Nayi Sahwaan Zulm De Nal Aina Zehar De Naal Mokayiyaan Ne.
+۲
+بے وطن ہویا شبیر وانگوں نہ مڑ وطناں تے آیا اے
+مدتاں توں وچھڑیاں دھیاں نوں آدھ رات نوں کون بلاوے
+ایہدے وزن توں ودھ کے ظالماں نے زنجیراں اینوں پائیاں نے
+مکیاں نئیں ساہواں ظلم دے نال ایناں زہر دے نال مکائیاں نے
 
-3
-Kaday Lash Koi Zanjeeraan Choon Ya Rab Ainu Kafan Pawaway.
-Ik Chadar Wich Mazdoraan Ne Haye Pak Janaza Chukya Aye.
-Baghdad De Pul Te Zalimaan Ne Rakhiya Nayi Loko Sutiya Aye.
-Koi Waris Nayi Ais Qaidi Da Jehra Lash Nu Aan Ke Chaway.
-
-4
-Noha Khuwan Party Ch Faiyaz Party Sialkot.
-25 Rajab Shahadat Imam Mosa Kazim AS Noha
-Matami Sangat
-Anjuman-e-Sipah-e-Ahl-e-Bait Sialkot
+۳
+کڈھے لاش کوئی زنجیراں چوں یا رب اینوں کفن پاواوے
+اک چادر وچ مزدوراں نے ہائے پاک جنازہ چکیا اے
+بغداد دے پل تے ظالماں نے رکھیا نئیں لوکو ستیا اے
+کوئی وارث نئیں ایس قیدی دا جیڑا لاش نوں آن کے چاوے

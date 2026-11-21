@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Koi bimar na parhta ho tahajjud ki namaz
-  Raat ko beriyoṅ ki kiuṅ ye sada aati hai
+  Raat ko beroṅ ki kiuṅ ye sada aati hai
 
   2
   Muṅh phira lete haiṅ Abbas tapakte haiṅ ashk
   Nehr ki simt se thandi jo hawa aati hai
 
   3
-  Haaṅ dharakta na ho maqtal meiṅ kahiṅ qalb-e-Rubab
+  Haaṅ dharakta na ho maqtal mein kahiṅ qalb-e-Rubab
   Ali Asghar Ali Asghar ki sada aati hai
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Sheh samajhte haiṅ ke Akbar ki qaza aati hai
 
   6
-  Jab kabhi zyada maiṅ bimar jo hota huṅ Shaheed
+  Jab zyada kabhi bimar main ho jaata huṅ
   Khud ba khud mere liye khaak-e-shifa aati hai
 ---
 

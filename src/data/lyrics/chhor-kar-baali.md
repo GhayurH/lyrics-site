@@ -13,16 +13,16 @@ aliases: []
 published: true
 romanLyrics: |-
   Kya Nabi ki aal par aayi musibat ki ghari
-  Tha qayaamat ka samaaṅ aur Bibiyoṅ meiṅ khalbali
+  Tha qayaamat ka samaaṅ aur Bibiyoṅ mein khalbali
   Waqt-e-rukhsat baap ke sine pe rakh kar apna sar
   Dukhtar-e-Shabbir ro ro kar ye farmaane lagi
 
   Chhor kar baali Sakina ko abhi jaana nahiṅ
-  Jo bhi maqtal meiṅ gaya wo laut kar aaya nahiṅ
+  Jo bhi maqtal mein gaya wo laut kar aaya nahiṅ
 
   1
   Der kitni ho gayi Aun o Muhammad ko gaye
-  Do ghari meiṅ maaṅ ke armaanoṅ ke laashe aa gaye
+  Do ghari mein maaṅ ke armaanoṅ ke laashe aa gaye
   Shukr ke sajde se ab Zainab ka sar uthta nahiṅ
 
   2
@@ -33,10 +33,10 @@ romanLyrics: |-
   3
   Keh do saqqa se ke ab paani na mujh ko chaahiye
   Alqama ko chhor kar ab jald ghar aa jaaiye
-  Wo makaan zindaaṅ hai jis meiṅ mera saqqa nahiṅ
+  Wo makaan zindaaṅ hai jis mein mera saqqa nahiṅ
 
   4
-  Bibiyoṅ meiṅ hai abhi kohraam barpa dekhiye
+  Bibiyoṅ mein hai abhi kohraam barpa dekhiye
   Der se behosh hai maaṅ Umm-e-Laila dekhiye
   Baaba jaaṅ ab tak Ali Akbar bhi ghar lauta nahiṅ
 
@@ -46,17 +46,17 @@ romanLyrics: |-
   Ab kahiṅ bhaiya Ali Asghar nazar aata nahiṅ
 
   6
-  Kaash maiṅ hi qatl ho jaati bajaaye aap ke
+  Kaash main hi qatl ho jaati bajaaye aap ke
   Kaun ab mera sahaara hai sawaal aap ke
   Chhute saare aqraba ansaar bhi zinda nahiṅ
 
   7
-  Bin tumhaare Baaba jaan ghut ghut ke mar jaauṅ maiṅ
-  Kis ke sine par bhala raatoṅ ko souṅ maiṅ
+  Bin tumhaare Baaba jaan ghut ghut ke mar jaauṅ main
+  Kis ke sine par bhala raatoṅ ko souṅ main
   Chhor kar beti ko jaana aap ka achchha nahiṅ
 
   8
-  Karbala ke dam meiṅ khuṅ rote rahe Mohsin Mujib
+  Karbala ke dam mein khuṅ rote rahe Mohsin Mujib
   Bain ye karti jab dukhtar-e-Shaah-e-gharib
   Naatavaaṅ bhaai abhi bistar hai utha nahiṅ
 ---

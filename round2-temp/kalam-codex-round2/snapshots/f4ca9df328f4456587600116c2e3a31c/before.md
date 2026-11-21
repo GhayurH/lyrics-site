@@ -1,0 +1,134 @@
+---
+title: "زینب ہے پریشان اے رات ذرا تھم جا"
+alternateTitle: "Ay Raat Zara Tham"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan Azmi"
+tags: []
+aliases: []
+published: false
+romanLyrics: 'Zainab hai pareshan ay raat zara tham ja
+
+
+  1
+
+  Rok sehar ko aane se tu
+
+  Kehte hai tujhse mere aansu
+
+  Rakhle pardesi ka parda
+
+  Rehne de andhiyara na ja
+
+
+  2
+
+  Bhai bichad jayenge behan se
+
+  Chuth jayenge ma''on se bete
+
+  Lootne aaja-yega sawera
+
+  Be-watno ka kunba na ja
+
+
+  3
+
+  Zakhmi kano ki ek bachi
+
+  Shiddat-e-gham se so na sakegi
+
+  Daudegi wo jaanibe maqtal
+
+  Thokar khaati dukhiya na ja
+
+
+  4
+
+  Bewa hogi dulhan aise
+
+  Jiske haath mein taaza mehndi
+
+  Bain karegi aahein bharegi
+
+  Keh kar dulha dulha na ja
+
+
+  5
+
+  Jang chidegi taygh chalegi
+
+  Surkh yahan aandhi uthegi
+
+  Rong degi ye fauje sitamgar
+
+  Mere bhai ka laasha na ja
+
+
+  6
+
+  Acha itni dayr tu ruk ja
+
+  Jab ho safar zindan ko mera
+
+  Shaam talak tu saath mein rehna
+
+  Ban kar mera parda na ja
+
+
+  7
+
+  Raat magar rehan na tehri
+
+  Kehti thi zainab bechari
+
+  Aayi raza wo subhe shahadat
+
+  Suraj kyon kar kehta na ja'
+---
+
+زینب ہے پریشان اے رات ذرا تھم جا
+
+۱
+روک سحر کو آنے سے تُو
+کہتے ہیں تجھ سے میرے آنسو
+رکھ لے پردیسی کا پردہ
+رہنے دے اندھیارا نہ جا
+
+۲
+بھائی بچھڑ جاینگے بہن سے
+چھٹ جائیں گے ماؤں سے بیٹے
+لوٹنے آجائے گا سویرا
+بے وطنوں کا کنبہ نہ جا
+
+۳
+زخمی کانوں کی بچی
+شدتِ غم سے سو نہ سکے گی
+دوڑے گی وہ جانبِ مقتل
+ٹھوکر کھاتی دُکھیا نہ جا
+
+۴
+بیوہ ہو گی دولہن ایسی
+جس کے ہاتھ میں تازہ مہندی
+بین کرے گی آہیں بھریں
+گی کہہ کر دولہن دولہا نہ جا
+
+۵
+جنگ چھڑیگی تیغ چلے گی
+سرخ یہاں آندھی اٹھے گی
+روند دیگی یہ فوج ستمگر
+میرے بھائی کا لاشہ نہ جا
+
+۶
+اچھا اتنی دیر تُو رُک جا
+جب ہو سفر زندان کو میرا
+شام تلک تُو ساتھ میں رہنا
+بن کر میرا پردہ نہ جا
+
+۷
+رات مگر رہنا نہ تہری
+کہتی تھی زینب بیچاری
+آئی رضا وہ صبح شہادت
+سورج کیونکر کہتا نہ جا

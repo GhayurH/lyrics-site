@@ -11,44 +11,44 @@ aliases:
   - "Zainab Ne Ki Faryaad Nana"
 published: true
 romanLyrics: |-
-  Zainab Ne Ki Faryaad Nana, Faryaad Nana Faryaad Nana
-  Hum Ho Ke Aaye Barbaad Nana
+  Zainab ne ki faryaad nana, faryaad nana faryaad nana
+  Hum ho ke aaye barbaad nana
 
   1
-  Qatil Khara Tha Bhai Ke Sar Per, Roti Rahi Meiṅ Katta Raha Sar
-  Karti Rahi Mei Faryaad Nana, Faryaad Nana Faryaad Nana
+  Qaatil khara tha bhai ke sar par, roti rahi main katta raha sar
+  Karti rahi main faryaad nana, faryaad nana faryaad nana
 
   2
-  Rasi Thi Ik aur Bara Gale The, Darbaar Meiṅ Hum Aese Gaye The
-  Hum Per Huwi Vo Baydaad Nana, Baydaad Nana Baydaad Nana
+  Rassi thi ik aur bandhe gale the, darbaar meiṅ hum aise gaye the
+  Hum par hui woh bedaad nana, bedaad nana bedaad nana
 
   3
-  Tauq o Salasil Gardan Meiṅ Daale, Zanjir o Bairi Hathoṅ Mei Pehne
-  Chalte Rahe Yuṅ Sajjad Nana, Sajjad Nana Sajjad Nana
+  Tauq o salaasil gardan meiṅ daale, zanjir o beri haathoṅ meiṅ pehne
+  Chalte rahe yuṅ Sajjad nana, Sajjad nana Sajjad nana
 
   4
-  Akbar Nahieṅ Hai Asghar Nahieṅ Hai, Qasim Nahieṅ Hai Sarwar Nahieṅ Hai
-  Aate Haiṅ Mujhko Sub Yaad Nana, Sub Yaad Nana Sub Yaad Nana
+  Akbar nahiṅ hai, Asghar nahiṅ hai, Qasim nahiṅ hai, Sarwar nahiṅ hai
+  Aate haiṅ mujh ko sab yaad nana, sab yaad nana sab yaad nana
 
   5
-  Is Gham Se Mera Phatta Hai Sina, Qaidi Hai Ub Tak Bali Sakina
-  aur Hum Houe Haiṅ Azaad Nana, Azaad Nana Azaad Nana
+  Is gham se mera phata hai sina, qaidi hai ab tak baali Sakina
+  Aur hum hue haiṅ aazaad nana, aazaad nana aazaad nana
 
   6
-  Chader Nahieṅ Thi Afsos Ser Per, Hum Bayrida The Shirin Ke Dar Per
-  Kaisi Thi haaye Uftaad Nana, Uftaad Nana Uftaad Nana
+  Chaadar nahiṅ thi afsos sar par, hum berida the Shimr ke dar par
+  Kaisi thi haaye uftaad nana, uftaad nana uftaad nana
 
   7
-  Ujra Houa Hai Kumba Humara, Hum Hogaey Haiṅ Ub besahara
-  Karbobala Hai Abaad Nana, Abaad Nana Abaad Nana
+  Ujra hua hai kunba hamaara, hum ho gaye haiṅ ab besahaara
+  Karb o Bala hai aabaad nana, aabaad nana aabaad nana
 
   8
-  Nana Tumhare Tathir Wale, Ummat Ke Hathoṅ Meiṅ Bayrida The
-  Koi To Kerta Imdad Nana, Imdad Nana Imdad Nana
+  Nana tumhaare tathir wale, ummat ke haathoṅ meiṅ berida the
+  Koi to karta imdaad nana, imdaad nana imdaad nana
 
   9
-  Hiltha Tha Roza Hasnain o Qaiser, Zainab Jo Boliṅ Qabr-e-Nabi Per
-  Sunlay Humari Rudaad Nana, Rudaad Nana Rudaad Nana
+  Hilta tha roza Hasnain o Qaisar, Zainab jo boliṅ qabr-e-Nabi par
+  Sun le hamaari rudaad nana, rudaad nana rudaad nana
 ---
 زینبؑ نے کی فریاد نانا، فریاد نانا فریاد نانا
 ہم ہو کے آئے برباد نانا

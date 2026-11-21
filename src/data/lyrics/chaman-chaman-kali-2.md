@@ -16,77 +16,77 @@ romanLyrics: |-
   Nagar nagar gali gali
   Kahiṅ khafi kahiṅ jali
   Wohi wasi wohi wali
-  Pukara jab bala tali
+  Pukaara jab bala tali
   Ruki thi nafs jo chali
-  Ali ali ali ali ali ali
-  Waqt ka imam hai ali
-  Khud khuda ka naam hai ali
+  Ali Ali Ali Ali Ali Ali
+  Waqt ka imaam hai Ali
+  Khud Khuda ka naam hai Ali
   Kahiṅ nazar kahiṅ gohar kahiṅ dua
-  Kahiṅ asar kahiṅ khabar
-  Ali ali ali ali ali ali
+  Kahiṅ asar kahiṅ qabr
+  Ali Ali Ali Ali Ali Ali
 
   2
-  Aasmaṅ pe jab gaye nabi
-  Tha wahaṅ bhi lehjaye ali
-  Haram haram iram iram zamiṅ zamiṅ
-  Arab arab ajam ajam
-  Ali ali ali ali ali ali
+  Aasmaaṅ pe jab gaye Nabi
+  Tha wahaaṅ bhi lehja-e-Ali
+  Haram haram Iram Iram zamiṅ zamiṅ
+  Arab Arab Ajam Ajam
+  Ali Ali Ali Ali Ali Ali
 
   3
   Izn se tere hawa chale
-  Tujhse puch kar diya jale
-  Imame haq nizaame haq usule haq
-  Kalime haq kalaame haq
-  Ali ali ali ali ali ali
+  Tujh se puchh kar diya jale
+  Imaam-e-haq nizaam-e-haq usul-e-haq
+  Kalim-e-haq kalim-e-haq
+  Ali Ali Ali Ali Ali Ali
 
   4
-  Mil gaya jo hukme bu-turab
-  Aagaya palat ke aaftab
+  Mil gaya jo hukm-e-Bu Turaab
+  Aa gaya palat ke aaftab
   Dua bhi tum ataa bhi tum yaqiṅ ki
   Ibteda bhi inteha bhi tum
-  Ali ali ali ali ali ali
+  Ali Ali Ali Ali Ali Ali
 
   5
-  Kayenat ka sha'oor hai
+  Kaainaat ka shuur hai
   Kirdigaar ka ghurur hai
-  Likho ali parho ali nafas nafas
-  Kaho ali suno ali
-  Ali ali ali ali ali ali
+  Likho Ali parho Ali nafas nafas
+  Kaho Ali suno Ali
+  Ali Ali Ali Ali Ali Ali
 
   6
-  Sab turab tum abu-turab
-  Tum har ek sawaal ka jawab
-  Seher meiṅ tum qamar meiṅ tum
-  Yaqiṅ meiṅ tum safar meiṅ tum hazar meiṅ tum
-  Ali ali ali ali ali ali
+  Sab turaab tum Abu Turaab
+  Tum har ek sawaal ka jawaab
+  Sahar meiṅ tum qamar meiṅ tum
+  Yaqiṅ meiṅ tum safar meiṅ tum hazaar meiṅ tum
+  Ali Ali Ali Ali Ali Ali
 
   7
-  Taal'te ho sab ki mushkilaat
-  Tum chala rahe ho kayenat
+  Taalte ho sab ki mushkilaat
+  Tum chala rahe ho kaainaat
   Umang bhi tarang bhi
-  Pukare baadhshah bhi malang bhi
-  Ali ali ali ali ali ali
+  Pukaare baadshaah bhi malang bhi
+  Ali Ali Ali Ali Ali Ali
 
   8
   Kufe ki nazar badal gayi
-  Murtuza pe taygh chal gayi
+  Murtaza pe tegh chal gayi
   Wo shor utha ghazab hua
-  Ae momino manao gham karo aza
-  Ali ali ali ali ali ali
+  Ae mominoṅ manao gham karo aza
+  Ali Ali Ali Ali Ali Ali
 
   9
-  E jalaal e khandaq o hunain
-  Ek nazar ho jaanib e Husain
+  Ae Jalaal-e-Khandaq o Hunain
+  Ik nazar jo jaanib-e-Husain
   Tera chaman hai bekafan
-  Lute haram chini rida bandhi rasan
-  Ali ali ali ali ali ali
+  Lute haram chhini rida bandhi rasan
+  Ali Ali Ali Ali Ali Ali
 
   10
-  Aamir aur nayyar e gharib
-  Tere nauha khwaṅ tere khatib
+  Aamir aur Nayyar-e-gharib
+  Tere nauha khwaaṅ tere khatib
   Karam bhi tu qasam bhi tu
-  Zabaṅ bhi tu sukhan bhi tu qalam bhi tu
-  Ali ali ali ali ali ali
+  Zabaaṅ bhi tu sukhan bhi tu qalam bhi tu
+  Ali Ali Ali Ali Ali Ali
 ---
 
 چمن چمن کلی کلی

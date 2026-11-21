@@ -14,11 +14,11 @@ romanLyrics: |-
 
   1
   Chehre ko zara baaloṅ se tum dhaanp lo Bibi
-  Maahaul sharaabi hai teri raahguzar meiṅ
+  Maahaul sharaabi hai teri raah guzar meiṅ
 
   2
   Taarikh teri jang ko dohraati rahegi
-  Asghar jo lari tu ne nanhi si umr meiṅ
+  Asghar jo lari tu ne chhoti si umr meiṅ
 
   3
   Ik waqt tha Kufe ki shahzaadi thi Zainab
@@ -34,14 +34,14 @@ romanLyrics: |-
 
   6
   Kaantoṅ pe jo chalta hai ghairat ka Khuda hai
-  Dunya ne nahi jaana kiuṅ kham hai kamar meiṅ
+  Dunya ne nahiṅ jaana kiuṅ kham hai kamar meiṅ
 
   7
   Kiuṅ aa ke Madine meiṅ bhi khuṅ rota raha hai
   Bazaar ka har zulm hai Abid ki nazar meiṅ
 
   8
-  Shabbir ke maatam se ae rokne waalo
+  Shabbir ke maatam se haaye rokne waalo
   Zainab ki ye sunnat hai momin ki nazar meiṅ
 ---
 

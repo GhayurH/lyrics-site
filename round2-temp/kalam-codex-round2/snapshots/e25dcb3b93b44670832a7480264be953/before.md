@@ -1,0 +1,95 @@
+---
+title: "رو رہی ہے سوچ کر ام البنین یہ آج بھی"
+recitationId: "asghare-baysheer"
+alternateTitle: "Asghar-e-Beshir"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Mir Hasan Mir"
+poet: "Mir Takallum Mir"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Ro rahi hai soch kar Ummul Banin ye aaj bhi
+  Asghar-e-Beshir jaisi qabr hai Abbas ki
+  Rashk karti thi maiṅ aks-e-Haider-e-Karrar par
+  Paaoṅ khat dete the uske baith kar rahwaar par
+  Haaye mere sher ki ye kaisi haalat ho gayi
+
+  1
+  Mar ke bhi usne nibhaya mujhse jo waada kiya
+  Apne bete ki wafa par fakhr hai mujhko bara
+  Ab nahiṅ Asghar ki maaṅ se kuchh mujhe sharmindagi
+
+  2
+  Baap ke badle musalmaanoṅ ne bete se liye
+  Sar juda hai tan juda baazu juda haiṅ sher ke
+  Aap ki tasvir tukre ho gayi hai Ya Ali
+
+  3
+  Kaun lar sakta tha us se kis meiṅ tha itna jigar
+  Sunti huṅ nau laakh ne maara hai usko gher kar
+  Laash bhi uski salaamat dasht meiṅ rehne na di
+
+  4
+  Kya qad o qaamat thi uski ye use maalum tha
+  Ek gathri meiṅ simat kar kaise Qasim aa gaya
+  Umme Farwa jaanti hai kya hai meri bekasi
+
+  5
+  Kab samaata tha meri chaadar meiṅ tu ae mere laal
+  Kar diya hai zaalimoṅ ne ye tere laashe ka haal
+  Hai mere sar ki rida bhi teri turbat se bari
+
+  6
+  Keh ke Ya Abbas karta hai wo ashkoṅ se wuzu
+  Darti huṅ jaari na ho phir uski aankhoṅ se lahu
+  Saamne Abid ke yuṅ kehti nahiṅ huṅ maiṅ kabhi
+
+  7
+  Ro ke karti hai salaam unko Takallum Karbala
+  Fatima Zehra se maaṅ bete ne ki aisi wafa
+  Maadar-e-Abbas ki turbat bhi hai tuti hui
+---
+رو رہی ہے سوچ کر ام البنین یہ آج بھی
+اصغر بے شیر جیسی قبر ہے عباس کی
+رشک کرتی تھی میں عکس حیدر کرار پر
+پاؤں خط دیتے تھے اسکے بیٹھ کر رہوار پر
+ہائے میرے شیر کی یہ کیسی حالت ہو گئی
+
+۱
+مرکے بھی اس نے نبھایا مجھ سے جو وعدہ کیا
+اپنے بیٹے کی وفا پر فخر ہے مجھ کو بڑا
+اب نہیں اصغر کی ماں سے کچھ مجھے شرمندگی
+
+۲
+باپ کے بدلے مسلمانوں نے بیٹے سے لیے
+سر جدا ہے تن جدا بازو جدا ہیں شیر کے
+آپ کی تصویر ٹکڑے ہو گئی ہے یا علی
+
+۳
+کون لڑ سکتا تھا اس سے کس میں تھا اتنا جگر
+سنتی ہوں نو لاکھ نے مارا ہے اسکو گھیر کر
+لاش بھی اسکی سلامت دشت میں رہنے نہ دی
+
+۴
+کیا قد و قامت تھی اس کی یہ اسے معلوم تھا
+ایک گٹھڑی میں سمٹ کر کیسے قاسم آگیا
+ام فروہ جانتی ہے کیا ہے میری بے کسی
+
+۵
+کب سماتا تھا میری چادر میں تو اے میرے لال
+کر دیا ہے ظالموں نے یہ تیرے لاشے کا حال
+ہے میرے سر کی ردا بھی تیری تربت سے بڑی
+
+۶
+کہ کے یا عباس کرتا ہے وہ اشکوں سے وضو
+ڈرتی ہوں جاری نہ ہو پھر اسکی آنکھوں سے لہو
+سامنے عابد کے یوں کہتی نہیں ہوں میں کبھی
+
+۷
+رو کے کرتی ہے سلام انکو تکلم کربلا
+فاطمہ زہرا سے ماں بیٹے نے کی ایسی وفا
+مادر عباس کی تربت بھی ہے ٹوٹی ہوئی

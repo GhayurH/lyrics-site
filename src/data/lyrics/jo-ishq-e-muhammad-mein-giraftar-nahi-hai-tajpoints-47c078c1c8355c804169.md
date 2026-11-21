@@ -1,32 +1,54 @@
 ---
-title: "Jo Ishq-e-Muhammad Mein Giraftar Nahi Hai"
+title: "جو عشقِ محمد میں گرفتار نہیں ہے"
+alternateTitle: "Jo Ishq-e-Muhammad Mein Giraftar Nahi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Yousufi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jo ishq-e-muhammad mein giraftar nahi hai
+  Tu aise aadmi se mujhe pyar nahi hai
+
+  1
+  Dil khool ke parhte raho tum shan-e-pyamber
+  Mehfil mein aaj koi bhi agyar nahi hai
+  Sar apna bhala kaisay katata woh Nabi par
+  Jo ungli katane ko bhi teyar nahi hai
+
+  2
+  Kyun kehna nahi mante har cheez mein unka
+  Miswak ya surma hi tu maiyyar nahi hai
+  Quran ki aayat ko taizi se na parhiyo
+  Aayat hain waiz koi akhbar nahi hai
+
+  3
+  Takhno se hameesha tere uper hi rahi hai
+  Waiz kya tere naap ki shalwar nahi hai
+  Aati ho azaan aman ki aye Yousufi jis se
+  Afsos masajid mein woh minar nahi hai
 ---
 
-Jo Ishq-e-Muhammad Mein Giraftar Nahi Hai.
-Tu Aise Aadmi Se Mujhe Pyar Nahi Hai.
+جو عشقِ محمد میں گرفتار نہیں ہے
+تو ایسے آدمی سے مجھے پیار نہیں ہے
 
-1
-Dil Khool Ke Parhte Raho Tum Shan-e-Pyamber.
-Mehfil Mein Aaj Koi Bhi Agyar Nahi Hai.
-Sar Apna Bhala Kaisay Katata Woh Nabi Par.
-Jo Ungli Katane Ko Bhi Teyar Nahi Hai.
+۱
+دل کھول کے پڑھتے رہو تم شانِ پیامبر
+محفل میں آج کوئی بھی اغیار نہیں ہے
+سر اپنا بھلا کیسے کٹاتا وہ نبی پر
+جو انگلی کٹانے کو بھی تیار نہیں ہے
 
-2
-Kyun Kehna Nahi Mante Har Cheez Mein Unka.
-Miswak Ya Surma Hi Tu Maiyyar Nahi Hai.
-Quran Ki Aayat Ko Taizi Se Na Parhiyo.
-Aayat Hain Waiz Koi Akhbar Nahi Hai.
+۲
+کیوں کہنا نہیں مانتے ہر چیز میں ان کا
+مسواک یا سرمہ ہی تو معیار نہیں ہے
+قرآن کی آیت کو تیزی سے نہ پڑھیو
+آیت ہیں واعظ کوئی اخبار نہیں ہے
 
-3
-Takhno Se Hameesha Tere Uper Hi Rahi Hai..
-Waiz Kya Tere Naap Ki Shalwar Nahi Hai.
-Aati Ho Azaan Aman Ki Aye Yousufi Jis Se.
-Afsos Masajid Mein Woh Minar Nahi Hai.
+۳
+ٹخنوں سے ہمیشہ تیرے اوپر ہی رہی ہے
+واعظ کیا تیرے ناپ کی شلوار نہیں ہے
+آتی ہو اذان امن کی اے یوسفی جس سے
+افسوس مساجد میں وہ مینار نہیں ہے

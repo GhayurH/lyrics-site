@@ -1,26 +1,41 @@
 ---
-title: "Kariyan Tauq Ne Waqat Langaye Ne Kazim Di Ghurbat De Lyrics Punjabi 2026"
+title: "کڑیاں طوق نے وقت لنگھائے نے کاظم دی غربت دے"
+alternateTitle: "Kariyan Tauq Ne Waqat Langaye Ne Kazim Di Ghurbat De"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kariyan tauq ne waqat langaye ne Kazim di ghurbat de
+  Sadiyaan taein sath nibhaye veranay ne turbat de
+
+  1
+  Zanjeeraan de zakhm batanday kuj masoom janazay dasday
+  Zindana choon ho ke guzrey sare safar Shariyat de
+  Pul te lash nayi rakhi jandi koi qabrastan le jaye
+  Ik pardesi Syed di koi maiyyat nu te izzat de
+
+  2
+  Koi te darban nu kainda dar zindan da khol de zalim
+  Aye dhiyaan de sir chum aaway bas ik raat di mohlat de
+  Jinhan qaid imamat keeti zehar khadaya zulm kamaye
+  Mehshar de din taein Akbar oh haqdar ne lanat de
 ---
 
-Kariyan Tauq Ne Waqat Langaye Ne Kazim Di Ghurbat De.
-Sadiyaan Taein Sath Nibhaye Veranay Ne Turbat De.
+کڑیاں طوق نے وقت لنگھائے نے کاظم دی غربت دے
+صدیاں تائیں ساتھ نبھائے ویرانے نے تربت دے
 
-1
-Zanjeeraan De Zakhm Batanday Kuj Masoom Janazay Dasday.
-Zindana Choon Ho Ke Guzrey Sare Safar Shariyat De.
-Pul Te Lash Nayi Rakhi Jandi Koi Qabrastan Le Jaye.
-Ik Pardesi Syed Di Koi Maiyyat Nu Te Izzat De.
+۱
+زنجیراں دے زخم بتاندے کجھ معصوم جنازے دسدے
+زنداناں چوں ہو کے گزرے سارے سفر شریعت دے
+پل تے لاش نئیں رکھی جاندی کوئی قبرستان لے جائے
+اک پردیسی سید دی کوئی میت نوں تے عزت دے
 
-2
-Koi Te Darban Nu Kainda Dar Zindan Da Khol De Zalim.
-Aye Dhiyaan De Sir Chum Aaway Bas Ik Raat Di Mohlat De.
-Jinhan Qaid Imamat Keeti Zehar Khadaya Zulm Kamaye.
-Mehshar De Din Taein Akbar Oh Haqdar Ne Lanat De.
+۲
+کوئی تے دربان نوں کہندا در زنداں دا کھول دے ظالم
+اے دھیاں دے سر چم آوے بس اک رات دی مہلت دے
+جنہاں قید امامت کیتی زہر کھادایا ظلم کمائے
+محشر دے دن تائیں اکبر اوہ حقدار نے لعنت دے

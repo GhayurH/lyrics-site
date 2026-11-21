@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Bhai wo mera Akbar taskin-e-jaan-e-maadar
-  Jangal meiṅ so raha hai barchhi jigar pe kha kar
+  Jangal meiṅ so rahi hai barchhi jigar pe kha kar
   Tasvir Mustafa ki ummat ne hai mitaayi
 
   2
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Bhai maiṅ Shaam ke bhi baazaar meiṅ phiri huṅ
   Bhai maiṅ sar barehna darbaar meiṅ gayi huṅ
-  Ahmed ki maiṅ nawaasi maiṅ dar badar phiraayi
+  Ahmad ki maiṅ nawaasi maiṅ dar badar phiraayi
 ---
 چہلم منانے بھائی زینب تمہاری آئی
 پھر ظلم کے شہر میں دیتی ہوئی دہائی

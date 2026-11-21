@@ -22,12 +22,12 @@ romanLyrics: |-
 
   1
   Kamar jhuki hai jawaan beta
-  Bula raha hai maiṅ kaise jaauṅ
+  Bula raha hai main kaise jaauṅ
   Andhera aaṅkhoṅ meiṅ chha raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
 
   2
-  Maiṅ su-e-khaima le jaauṅ kaise
+  Main su-e-khaima le jaauṅ kaise
   Jawaaṅ ka laasha ae mere bhai
   Zaif to larkhara raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
@@ -39,7 +39,7 @@ romanLyrics: |-
   Kahaaṅ hai Ghazi madad ko aa ja
 
   4
-  Na dekho amma idhar na dekho
+  Na dekho ammaaṅ idhar na dekho
   Nazar jhukaao muṅh apna phero
   Lo Shimr khanjar chala raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
@@ -47,13 +47,13 @@ romanLyrics: |-
   5
   Tarap ke boli ye ban meiṅ Zehra
   Koi nahiṅ hai kise bulaauṅ
-  Qayaam dushman jala raha hai
+  Qiyaam dushman jala raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
 
   6
   Ye bain karti Ali ki beti
   Sakina kaise sahegi bhaiya
-  Laiṅ tamaanche laga raha hai
+  La'iṅ tamaanche laga raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
 
   7

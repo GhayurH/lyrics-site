@@ -1,31 +1,49 @@
 ---
-title: "Zainab Kay Khulay Sar Pe, Haye Khaak Pardi Hai"
+title: "زینب کے کھلے سر پہ، ہائے خاک پڑی ہے"
+alternateTitle: "Zainab Kay Khulay Sar Pe, Haye Khaak Pardi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab kay khulay sar pe, haye khaak pardi hai
+  Rotee hoi Shabeer ke laashe pe kharee hai
+
+  1
+  Ghabraaee hoi Shimr ke, zulmon se hai Zainab
+  Qaidee bhi hai or Shaamey Ghareebaan ki dari hai
+
+  2
+  Fizza ne ye ro ke kaha, Sajjad se jaa key
+  Zainab sarre oreaan hai aur bheerd bardi hai
+
+  3
+  Zainab nay qatl bhai ka, unwaan ki khaatir
+  Darbaaron mein, bazaaro mein haye jung lardee hai
+
+  4
+  Akhtar jo ghame Saniye, Zahra mein hai rotaa
+  Woh rozey jaza naarey jahanum se baree hai
 ---
 
-Zainab Kay Khulay Sar Pe, Haye Khaak Pardi Hai
+زینب کے کھلے سر پہ، ہائے خاک پڑی ہے
+روتی ہوئی شبیر کے لاشے پہ کھڑی ہے
 
-Rotee Hoi Shabeer Ke
-Laashe Pe Kharee Hai
+۱
+گھبرائی ہوئی شمر کے، ظلموں سے ہے زینب
+قیدی بھی ہے اور شامِ غریباں کی ڈری ہے
 
-Ghabraaee Hoi Shimr Ke, Zulmon Se Hai Zainab
-Qaidee Bhi Hai Or Shaamey
-Ghareebaan Ki Dari Hai
+۲
+فضہ نے یہ رو کے کہا، سجاد سے جا کے
+زینب سرِ عریاں ہے اور بھیڑ بڑی ہے
 
-Fizza Ne Ye Ro Ke Kaha, Sajjad Se Jaa Key
-Zainab Sarre Oreaan Hai
-Aur Bheerd Bardi Hai
+۳
+زینب نے قتل بھائی کا، عنوان کی خاطر
+درباروں میں، بازاروں میں ہائے جنگ لڑی ہے
 
-Zainab Nay Qatl Bhai Ka, Unwaan Ki Khaatir
-Darbaaron Mein, Bazaaro Mein
-Haye Jung Lardee Hai
-
-Akhtar Jo Ghame Saniye, Zahra Mein Hai Rotaa
-Woh Rozey Jaza Naarey
-Jahanum Se Baree Hai
+۴
+اختر جو غمِ ثانیِ، زہرا میں ہے روتا
+وہ روزِ جزا نارِ جہنم سے بری ہے

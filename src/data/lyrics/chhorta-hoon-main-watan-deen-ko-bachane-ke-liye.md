@@ -8,72 +8,101 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Chorrta hoon may watan deen to bachanay ke liye
-  Jo kiya wada azal may woh nibhanay ke liye
-
   1
-  [Jab Sibt-e-Mustafa ne watan se safar kiya
-  Dasht-e-bala basanay ko veeran ghar kiya
-  Rukh pehlay sooey marqad-e-khairul bashar kiya
-  Rozay ko dekh dekh kar ankhon ko tar kiya
-  Kehtay thay gham bara yeh liye jaye ga Husain
-  Kaahay ko is mazar pe phir aaye ga Husain
+  Jab Sibt-e-Mustafa ne watan se safar kiya
+  Dasht-e-bala basaane ko viraan ghar kiya
+  Rukh pehle su-e-marqad-e-Khair-ul-Bashar kiya
+  Roze ko dekh dekh kar aaṅkhoṅ ko tar kiya
+  Kehte the gham bara yeh liye jaaye ga Husain
+  Kaahe ko is mazaar pe phir aaye ga Husain
 
   2
-  Yeh keh ke utray ghoray se ba chashm-e-ashk bar
-  Tasleem ki mazar ko aur yun kiya pukar
-  Nana tumhari qabr-e-munawwar pe may nisar
-  Honay ko rukhsat aaya hay Zahra ka yadgar
-  Na char is mazar se muh moray jata hoon
-  Aada ki dushmani se watan choray jata hoon]
+  Yeh keh ke utre ghore se ba chashm-e-ashkbaar
+  Taslim ki mazaar ko aur yuṅ kiya pukaar
+  Naana, Naana tumhaari qabr-e-munawwar pe maiṅ nisaar
+  Hone ko rukhsat aaya hai Zahra ka yaadgaar
+  Naachaar is mazaar se muṅh more jaata huṅ
+  Aada ki dushmani se watan chhore jaata huṅ
 
   3
-  Kar diya majboor mujh ko karnay aaya hoon salam
-  Ja raha hoon Karbala wapas na aanay ke liye
+  Chhorta huṅ maiṅ watan diṅ ko bachaane ke liye
+  Jo kiya waada azal meiṅ woh nibhaane ke liye
 
   4
-  Yeh keh ke liptay qabr se aur roey zar zar
-  Mehboob-e-Kibraya ka laga kampnay mazar
-  Aaye sada yeh roza-e-aqdas se baar baar
-  Aey jaan-e-Fatima teri ghurbat pe may nisar
-  Jab tu chala to chain kab aaye Rasool ko
-  Turbar may zalimoon ne sataya Batool ko
+  Kar diya majbur mujh ko karne aaya huṅ salaam
+  Ja raha huṅ Karbala waapas na aane ke liye
 
   5
-  Nana ke is kalam se roey bohat Imam
-  Rukhsat ka phir adab se kiya aakhri salam
-  Phir phir ke gird rozay ke ahle haram tamam
-  Yak bar mehmalon may chahrhay basad ihtaram
-  Khalqat yeh kehti jati thi hamrah hain Ahlebait
-  Jo aaye ga na phir ke kabhi Shahanshah-e-Ahlebait
+  Yeh keh ke lipte qabr se aur roye zaar zaar
+  Mehbub-e-Kibriya ka laga kaaṅpne mazaar
+  Aai sada yeh roza-e-aqdas se baar baar
+  Ae jaan-e-Fatima teri ghurbat pe maiṅ nisaar
+  Jab tu chala to chain kab aaye ga Rasul ko
+  Turbat meiṅ zaalimoṅ ne sataaya Batul ko
 
   6
-  Yeh baat kartay jatay thay ro ro ke dil figar
-  Zahir hua jo dasht-e-museebat may qaza kar
-  Maqtal may apnay pohonchay jo Shabbir aik bar
-  Waan chaltay chaltay ruk gaya is Sheh ka rahwar
-  Kora bhi mara airri bhi mari Imam nay
-  Par ki na junbhish is fars-e-tez gam nay
+  Naana ke is kalaam se roye bahut Imaam
+  Rukhsat ka phir adab se kiya aakhri salaam
+  Phir phir ke gird roze ke ahl-e-haram tamaam
+  Yak baar mehmaloṅ meiṅ charhe basad ihtiraam
+  Khalqat yeh kehti jaati thi hamraah haiṅ Ahl-e-Bait
+  Jo aaye ga na phir ke kabhi Shahanshaah-e-Ahl-e-Bait
 
   7
-  Ghoray se tab yeh Sheh ne kaha tujh ko kiya hua
-  Kiya hay jo chaltay chaltay is ja khara hua
-  Ghoray ne arz ki may na samjha yeh kia hua
-  Laikin hoon yaan qaza ke rasn se bandha hua
-  Uthta na ho ga koi gira is zameen ka
-  Poocho kisi se naam hay kia is zameen ka
+  Aa gaya woh din bhi shiddat se tha jis ka intizaar
+  Baithi hai tayyaar Zainab saath jaane ke liye
 
   8
-  Mola ne poocha naam to ik shaks ne kaha
-  Hay ik zameen-e-Mariya aur aik Karbala
+  Aasmaaṅ misl-e-kamaaṅ dasht-e-bala par jhuk gaya
+  Jab jhuke Shah laasha-e-Akbar uthaane ke liye
 
   9
-  Ho gaye Nana mukammal sab meri qurbaniyaan
-  Aa gaya dunya may Asghar teer khanay ke liye
+  Ho gaiṅ Naana mukammal sab meri qurbaaniyaaṅ
+  Aa gaya duniya meiṅ Asghar tir khaane ke liye
 
   10
-  Aasman misl-e-kamaa dasht-ebala par jhuk gaya
-  Jab jhukay Shah lash-e-Akbar uthanay ke liye
+  Dhal gaya Aashur ka din chha gai tanvir raat
+  Aag laate haiṅ shaqi khaime jalaane ke liye
+
+  11
+  Sukhe lab Maasuma ke dekhe to Ghaazi ne kaha
+  Ja raha huṅ maiṅ Sakina paani laane ke liye
+
+  12
+  Chhorta huṅ maiṅ watan diṅ ko bachaane ke liye
+  Jo kiya waada azal meiṅ woh nibhaane ke liye
+
+  13
+  Aa gaya woh din bhi shiddat se tha jis ka intizaar
+  Baithi hai tayyaar Zainab saath jaane ke liye
+
+  14
+  Kar diya majbur mujh ko karne aaya huṅ salaam
+  Ja raha huṅ Karbala waapas na aane ke liye
+
+  15
+  Ho gai Naana mukammal sab meri qurbaaniyaaṅ
+  Aa gaya duniya meiṅ Asghar tir khaane ke liye
+
+  16
+  Aasmaaṅ misl-e-kamaaṅ dasht-e-bala par jhuk gaya
+  Jab jhuke Shah laasha-e-Akbar uthaane ke liye
+
+  17
+  Tarpi hai Zainab abhi tak khuṅ rota hai Sajjad
+  Phir koi is ko na keh de Shaam jaane ke liye
+
+  18
+  Kaaṅpte haiṅ saare insaaṅ maut ki dehliz par
+  Dil Ali Asghar ka chaahiye muskuraane ke liye
+
+  19
+  Sukhe lab Maasuma ke dekhe to Ghaazi ne kaha
+  Ja raha huṅ maiṅ Sakina paani laane ke liye
+
+  20
+  Dhal gaya Aashur ka din chha gai tanvir raat
+  Aag laate haiṅ shaqi khaime jalaane ke liye
 ---
 
 ۱

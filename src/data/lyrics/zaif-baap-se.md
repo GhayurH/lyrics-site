@@ -16,20 +16,20 @@ romanLyrics: |-
 
   1
   Tarap ke kehti hai yeh ruh-e-Faatima Zehra
-  Bala ke dasht meiṅ mera Husain hai tanha
+  Balaa ke dasht meiṅ mera Husain hai tanha
   Dayaar-e-ghair meiṅ us ka nahiṅ koi apna
   Ajib waqt-e-musibat hai ya Ali madadi
 
   2
   Andhera aankhoṅ meiṅ hai aur kamar khamida hai
-  Karega kaun madad bhaai aur na beta hai
+  Kare ga kaun madad bhaai aur na beta hai
   Nabi ka nur-e-nazar kis qadar akela hai
   Lahu rulaati hai mere pisar ko tanhaai
 
   3
   Pukaari khaime ke dar se yeh Zainab-e-dilgir
   Nidhaal gham se baraadar hai haaye re taqdir
-  Ilaahi kaise sambhaaleṅge apna dil Shabbir
+  Ilaahi kaise sambhaaleṅ ge apna dil Shabbir
   Pisar ke gham meiṅ na ruk jaaye dharkaneṅ dil ki
 
   4

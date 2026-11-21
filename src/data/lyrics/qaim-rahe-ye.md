@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sada rahega Husain ka gham
-  Ye shor e girya ye shor e matam
+  Sadaa rahega Husain ka gham
+  Ye shor-e-girya ye shor-e-maatam
   Khuda kare khuda kare
-  Qaim rahe ye majlis o matam khuda kare
-  Taaza rahe diloṅ meiṅ muharram khuda kare
-  Sehne haram meiṅ ahle aza ki rasayi ho
-  Ghaibat nashiṅ ke haath se parcham kushayi ho
-  Lehraye baam e kaaba pe parcham khuda kare
+  Qaim rahe ye majlis o maatam khuda kare
+  Taaza rahe diloṅ meiṅ Muharram khuda kare
+  Sehn-e-haram meiṅ ahl-e-aza ki rasaai ho
+  Ghaibat nashiṅ ke haath se parcham kushaai ho
+  Lehraaye baam-e-Kaaba pe parcham khuda kare
   Qaim rahe ye majlis...
   Lillaah aansuoṅ se na khaali kabhi rahe
-  Ashke ghame Husain se aankheiṅ bhari rahe
-  Rumal sayyeda ka rahe nam khuda kare
+  Ashk-e-gham-e-Husain se aankheṅ bhari rahe
+  Rumaal Sayyeda ka rahe nam khuda kare
   Qaim rahe ye majlis...
-  Tabut zuljanah alam jhula taaziya
-  In par jo aetraaz kare khud hai bewafa
+  Taabut Zuljanaah alam jhula taaziya
+  In par jo aitraaz kare khud hai bewafa
   Apna rahe aqeeda musallam khuda kare
   Qaim rahe ye majlis...
-  Matam daba na paaye dhamakoṅ ki bhi sada
-  Rukne na paaye majlis o matam ka silsila
-  Ban jaaye hum shahidoṅ ke mehram khuda kare
+  Maatam daba na paaye dhamaakoṅ ki bhi sadaa
+  Rukne na paaye majlis o maatam ka silsila
+  Ban jaaye ham shahidoṅ ke mahram khuda kare
   Qaim rahe ye majlis...
-  Har matami ke dil meiṅ ye armaan hai basa
-  Paidal najaf se kab ho safar arbain ka
-  Qayam ke saath saath chale hum khuda kare
+  Har maatami ke dil meiṅ ye armaan hai basa
+  Paidal Najaf se kab ho safar Arbaain ka
+  Qaim ke saath chale ham khuda kare
   Qaim rahe ye majlis...
-  Haaṅ wohi rahe jo apne buzurgoṅ ka tha chalan
-  Ek anjuman hate to barhe ek anjuman
+  Haaṅ wahi rahe jo apne buzurgoṅ ka tha chalan
+  Ek anjuman hate to bare ek anjuman
   Ho har julus aise munazzam khuda kare
   Qaim rahe ye majlis...
-  Rehta hai saal bhar kisi bibi ko intezaar
-  Qasim ki mehendi jaaye jo lekar ye pursa daar
-  Matam se gunje phir se muqayyam khuda kare
+  Rehta hai saal bhar kisi Bibi ko intizaar
+  Qasim ki mehndi jaaye jo le kar ye pursa daar
+  Maatam se gunje phir se muqim khuda kare
   Qaim rahe ye majlis...
-  Jannat sajaye pyasoṅ ke sadqe zamin par
-  Khwahish hai sab ki mokib e ummul baneen par
-  Khuddam e zaairin bane hum khuda kare
+  Jannat sajaaye pyaasoṅ ke sadqe zamin par
+  Khwahish hai sab ki maukib-e-Ummul Banin par
+  Khuddaam-e-zaairin bane ham khuda kare
   Qaim rahe ye majlis...
-  Maqtal meiṅ jisne khaak pe ragdi thi aeriyaṅ
-  Sairaab uski pyaas ke sadqe ho ye jahaṅ
-  Bat'ta rahe sabiloṅ se zam zam khuda kare
+  Maqtal meiṅ jis ne khaak pe ragri thi eriyaṅ
+  Sairaab us ki pyaas ke sadqe ho ye jahaaṅ
+  Batta rahe sabiloṅ se Zam Zam khuda kare
   Qaim rahe ye majlis...
-  Dekha hai jab se maahe aza dil hai beqaraar
-  Sughra madine waaloṅ se kehti hai baar baar
-  Ho khairiyat se shaahe mu'azzam khuda kare
+  Dekha hai jab se maah-e-aza dil hai beqaraar
+  Sughra Madine waaloṅ se kehti hai baar baar
+  Ho khairiyat se shaah-e-muazzam khuda kare
   Qaim rahe ye majlis...
   Tile pe hai khari hui mazlum ki behen
   Khanjar tale Husain ke lab par hai ye sukhan
-  Zainab na dekhe nazha ka aalam khuda kare
+  Zainab na dekhe naza ka aalam khuda kare
   Qaim rahe ye majlis...
-  Isyaaṅ se hashr tak meri farde amal ho paak
-  Har dam yehi dua hai takallum ye meri khwaab
-  Khaake dar e Husain meiṅ ho zam khuda kare
+  Isyaaṅ se hashr tak meri fard-e-amal ho paak
+  Har dam yahi dua hai Takallum ye meri khwaab
+  Khaak-e-dar-e-Husain meiṅ ho zam khuda kare
   Qaim rahe ye majlis...
 ---
 

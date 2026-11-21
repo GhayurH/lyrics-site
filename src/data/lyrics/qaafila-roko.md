@@ -33,7 +33,7 @@ romanLyrics: |-
   Qaafila roko Ghaazi
 
   3
-  Suṅgh kar khaak ko aisi hui riqqat taari
+  Sungh kar khaak ko aisi hui riqqat taari
   Inna lillaah hua Shah ke laboṅ se jaari
   Sajda-e-shukr kiya mur ke bhaai se kaha
   Qaafila roko Ghaazi

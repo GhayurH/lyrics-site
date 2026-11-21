@@ -1,0 +1,94 @@
+---
+title: "اے دشمنِ شبیر تیرے پیر پہ لعنت"
+recitationId: "aye-dushmane-shabbir-tery-peer-pe-lanat"
+alternateTitle: "Ae Dushmane Shabbir Tery Pir Pe Lanat"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
+tags: []
+aliases:
+  - "Aye Dushmane Shabbir Tery Peer Pe Lanat"
+published: true
+romanLyrics: |-
+
+  1
+  Ae Dushmane Shabbir Tery Pir pa Lanat
+  tashrik pa tashkik pa takfir pa lanaat
+  Har ehad ke jhutoṅ ke bare pir pa laanat
+
+  2
+  Farzand-e-Ali ibn-e-Abi Bakr pa rahmat
+  Momin nahiṅ jo aap se rakhta ho adawat
+  Haider ki adu aap ki hamshir pa laanat
+
+  3
+  Haq isme nikalta ho agar Aal-e-Nabi ka,
+  Bebaaq na qarza ho agar Aal-e-Nabi ka
+  Us maal o zar o mansab o jaagir pa laanat
+
+  4
+  Jo Haq ki hifazat ke liye kaam na aayeiṅ
+  Mazlumoṅ ko kamzoroṅ ko nahaq jo darayeiṅ
+  Shamshir o Sinan o Tabar o Tir pa laanat
+
+  5
+  Iblis ho Firaun ho ya Aal-e-Umayyah
+  Shabbir ka dushman hai jo dushman hai Khuda ka
+  Har daur ke Har Dushman-e-Shabbir pa laanat
+
+  6
+  Hakim ke mazalim ko chupane ke liye tha
+  Jo Khutba-e-Sajjad dabane ke liye tha
+  Takbir ke us naraye Takbir pa laanat
+
+  7
+  Nahaq hua taraaj Mohammad ka gharana,
+  Woh summate-e-aasi ko bari der meiṅ aaya
+  Ehsaas-e-pashemani ki taakhir pa laanat
+
+  8
+  Awlaad-e-Umayyah ho ke ho woh Banu Abbas
+  Ho Aal-e-Mohammad ka na jinko Adab o Paas
+  Us Fikr per, Us Khun per, Us Shir pa laanat
+---
+
+۱
+اے دشمنِ شبیر تیرے پیر پہ لعنت
+تشریک پہ، تشکیک پہ، تکفیر پہ لعنت
+ہر عہد کے جھوٹوں کے برے پیر پہ لعنت
+
+۲
+فرزندِ علی ابنِ ابی بکر پہ رحمت
+مومن نہیں جو آپ سے رکھتا ہو عداوت
+حیدر کی عدو، آپ کی ہمشیر پہ لعنت
+
+۳
+حق اِس میں نکلتا ہو اگر آلِ نبیؐ کا
+بے باک نہ قرضہ ہو اگر آلِ نبیؐ کا
+اُس مال و زر و منصب و جاگیر پہ لعنت
+
+۴
+جو حق کی حفاظت کے لیے کام نہ آئیں
+مظلوموں کو کمزوروں کو ناحق جو ڈرائیں
+شمشیر و سِنان و تبر و تیر پہ لعنت
+
+۵
+ابلیس ہو فرعون ہو یا آلِ امیہ
+شبیر کا دشمن ہے جو دشمن ہے خدا کا
+ہر دور کے ہر دشمنِ شبیر پہ لعنت
+
+۶
+حاکم کے مظالم کو چھپانے کے لیے تھا
+جو خطبۂ سجاد دبانے کے لیے تھا
+تکبیر کے اُس نعرۂ تکبیر پہ لعنت
+
+۷
+ناحق ہوا تاراج محمدؐ کا گھرانہ
+وہ سُمَّتِ عاصی کو بڑی دیر میں آیا
+احساسِ پشیمانی کی تاخیر پہ لعنت
+
+۸
+اولادِ امیہ ہو کہ ہو وہ بنو عباس
+ہو آلِ محمدؐ کا نہ جن کو ادب و پاس
+اُس فکر پہ، اُس خون پہ، اُس شیر پہ لعنت

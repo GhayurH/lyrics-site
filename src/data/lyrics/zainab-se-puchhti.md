@@ -18,11 +18,11 @@ romanLyrics: |-
   Kitna hai dur ae phuphi ab Shaam ka darbaar
 
   1
-  Shimr-e-laiṅ ne chhini jo kaanoṅ ki baaliyaaṅ
-  Uth uth ke gira laasha-e-Abbas alamdaar
+  Shimr-e-la'iṅ ne chhini jo kaanoṅ ki baaliyaaṅ
+  Uth uth ke gira laasha-e-Abbaas alamdaar
 
   2
-  Abbas se keh de koi ye nehr pe jaa ke
+  Abbaas se keh de koi ye nehr pe jaa ke
   Behaal Sakina hai aur nile haiṅ rukhsaar
 
   3

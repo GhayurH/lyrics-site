@@ -39,7 +39,7 @@ romanLyrics: |-
 
   4
   Har ghari saabir rahe donoṅ Mir-e-kaarwaaṅ
-  Karbala tha ek ka maidaaṅ Shaam ka ek imtihaaṅ
+  Karbala tha ek ka maidaaṅ Shaam ka ik imtihaaṅ
   Aaj hai rahwaar ki gardan meiṅ sar Abbas ka
   Aabid-e-bimaar ki gardan meiṅ hai tauq-e-giraaṅ
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   Shor karte haiṅ sitamgar taaziyaane maar ke
   Muntazir kursi nashiṅ haiṅ Itrat-e-athaar ke
   Qatl-e-ghairat ho rahi hai har gali har mor par
-  Inna lillah hai laboṅ par Aabid-e-bimaar ke
+  Inna lillaah hai laboṅ par Aabid-e-bimaar ke
 
   6
   Hai kamar kham aur haathoṅ meiṅ asa thaame hue

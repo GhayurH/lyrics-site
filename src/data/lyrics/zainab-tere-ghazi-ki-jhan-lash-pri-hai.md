@@ -7,6 +7,44 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab tire ghaazi ki jahaaṅ laash pari hai
+  Hasnain ki maaṅ aa ke wahaaṅ roti rahi hai
+
+  1
+  Zainab ko bara maan tha ghaazi ki wafa par
+  Yasrib se chali aai thi armaan saja kar
+  Abbaas chale ran ko woh sadme se giri hai
+
+  2
+  Mashkiza liye nahr pe Abbaas chale haiṅ
+  Paani abhi aaega chacha keh ke gae haiṅ
+  Sukhe laboṅ se bachchi yeh batlaati rahi hai
+
+  3
+  Baazu kate Abbaas ke jab nahr kinaare
+  Sarwar ko madad ke liye yeh keh ke pukaare
+  Yeh aakhiri saanseṅ haiṅ qaza aai khari hai
+
+  4
+  Shah apni kamar thaam ke girte haiṅ zamiṅ par
+  Farmaate haiṅ ghaazi ka lahu mal ke jabiṅ par
+  Abbaas sahaara do kamar tut chuki hai
+
+  5
+  Abbaas chacha dekho ke dardoṅ ki huṅ maari
+  Laut aao chacha jaldi mira khun hai jaari
+  Zaalim ke tamaanchoṅ se miri saans ruki hai
+
+  6
+  Bhaai bhi nahiṅ baaqi nahiṅ sar pe hai chaadar
+  Ab kaise jiuṅ gi main bahut hoti hai muztar
+  Zainab dukhoṅ ki shab mein khari soch rahi hai
+
+  7
+  Abbaas ke nauhe pe bahut aah o faghaaṅ hai
+  Maatam ki sada sun ke faza girya kunaaṅ hai
+  Rizwaan ki aankhoṅ mein basi aaj nami hai
 ---
 
 زینبؑ تِرے غازیؑ کی جہاں لاش پڑی ہے

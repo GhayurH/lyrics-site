@@ -12,7 +12,7 @@ tags: []
 aliases: ["Chote Hazrat"]
 published: true
 romanLyrics: |-
-  Abbas Alamdar
+  Abbas Alamdaar
   Kya hua kiuṅ udaas baitha hai
   Tu azaadaar-e-Ibn-e-Zehra hai
   Chal wahaaṅ Rab jahaaṅ pe milta hai
@@ -53,7 +53,7 @@ romanLyrics: |-
   Mil ke sab maatam-e-Abbas karo
 
   6
-  Zaamin-e-chaadar-e-Zainab the Alamdar-e-Wafa
+  Zaamin-e-chaadar-e-Zainab the Alamdaar-e-Wafa
   Jis ghari Saani-e-Zehra se ye Fizza ne kaha
   Chaadareṅ apni sambhaalo ke wo Ghaazi na raha
   Pursa ab Zainab o Kulsum ko do

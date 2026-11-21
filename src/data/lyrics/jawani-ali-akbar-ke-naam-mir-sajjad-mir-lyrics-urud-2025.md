@@ -9,80 +9,46 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Jawani Ali Akbar Ke Naam Mir Sajjad Mir Lyrics Urud 2025"
-romanLyrics: 'Jawani Ali Akbar Ke Naam Mir Sajjad Mir.
-
-  Aye Ali Akbar Salam.
-
+romanLyrics: |-
+  Salaam Ali Akbar salaam Ali Akbar
+  Ham jawaanoṅ ki jawaani hai Ali Akbar ke naam
+  Kaash un ke kaam aae ham kare kuchh aise kaam
+  Ae Ali Akbar salaam ae Ali Akbar salaam
+  Khaadimoṅ ki tarah ham bhi pesh aae baap se
+  Jis tarah karte the Akbar Baba Jaaṅ ka ehtiraam
+  Ae Ali Akbar salaam ae Ali Akbar salaam
 
   1
-
-  Hum Jawano Ki Jawani Hai Ali Akbar Ke Naam.
-
-  Kash Unn Ke Kam Aaein Hum Karein Kuch Aisay Kam.
-
-  Khadmo Ki Tarha Hum Bhi Paish Aaein Baap Se.
-
-  Jis Tarha Kartay They Akbar Baba Jaan Ka Ayhteram.
-
+  Is qadar parh lo wakeel-e-Faatima Zahra bano
+  Ham tumhaare haath mein saara adaalat ka nizaam
 
   2
-
-  Iss Qadar Parh Lo Wakeel e Fatima Zahra Bano.
-
-  Ho Tumharey Hath Mein Sara Adalat Ka Nizam.
-
-  Jis Tarha Abbas Ko Akbar Samajhtay They Sada.
-
-  Oss Tarha Ustad Ko Dein Baap Ke Jaisa Maqam.
-
+  Jis tarah Abbaas ko Akbar samajhte the sadaa
+  Is tarah ustaad ko din baap ke jaisa maqaam
 
   3
-
-  Iss Jawaan Ka Naam Le Kar Dil Se Teyari Karo.
-
-  Imtehaan Mein Kamyabi Khud Miley Gi Gaam Gaam.
-
-  Paon Chona Chahta Tha Roka Matha Chom Kar.
-
-  Iss Kareemi Par Tumhari Ro Para Hur Ka Ghulam.
-
+  Is jawaaṅ ka naam le kar dil se taiyaari karo
+  Imtihaaṅ mein kaamyaabi khud mile gi gaam gaam
 
   4
-
-  Sab Sawaloon Ke Milein Gay Scienci Tum Ko Jawab.
-
-  Tum Kalam-e-Pak Se Kar Ke Zara Dekho Kalam.
-
-  Laut Aaye Khaimay Mein Sajjad Ki Aawaz Par.
-
-  Tum Ne Sikhlaya Barey Bhai Ka Kya Hai Ayhteram.
-
+  Paaoṅ chhune chaahta tha roka maatha chum kar
+  Is kareem par tumhaari ro para Hur ka ghulaam
 
   5
-
-  Is khadar padhlo wakeel e fatema zehra bano
-
-  Ho tumhare haath mein saara adalat ka nizaam
-
-  Ay ali akbar salaam ay ali akbar salaam
-
+  Sab sawaaloṅ ke mileṅ ge sainsi tum ko jawaab
+  Tum kalaam-e-paak se kar ke zara dekho kalaam
 
   6
-
-  Laut aaye qaime mein sajjad ki awaaz par
-
-  Tum ne sikhlaya bade bhai ka kya hai ehteraam
-
+  Laut aae khaime mein Sajjad ki aawaaz par
+  Tum ne sikhlaaya bare bhaai ka kya hai ehtiraam
 
   7
+  Haath ka maatam ho ya phir maatam-e-zanjeer ho
+  Dil se bas maatam karo tum kya halaal aur kya haraam
 
-  Hath Ka Matam Ho Ya Phir Matam-e-Zanjeer Ho.
-
-  Dil Se Bas Matam Karo Tum Kya Halal Our Kya Haram.
-
-  Yeh Adab Sajjad Bat Jaye Tabaruk Mein Kahin.
-
-  Sar Jhuka Kar Jis Tarha Kartay They Woh Maa Se Kalam.'
+  8
+  Yeh adab Sajjad bat jaae tabarruk mein kahiṅ
+  Sar jhuka kar jis tarah karte the woh maaṅ se kalaam
 ---
 
 سلام علی اکبر سلام علی اکبر

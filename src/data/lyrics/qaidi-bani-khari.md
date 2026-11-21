@@ -27,7 +27,7 @@ romanLyrics: |-
 
   1
   Athaara baraadar ki behan aaj khule sar hai
-  Is naize pe bhai hai to ek naize pe chaadar hai
+  Is naize pe bhai hai to ik naize pe chaadar hai
   Kise de sada sar-e-Karbala asir-e-rasan
   Asir-e-jafa dil-e-ghamzada ne kiya marsiya
   Bhulegi kaise Zainab haaye
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ke hai khaak par Nabi ke haram
   Sitam beghari bekasi tashnagi
   Bhulegi kaise Zainab haaye
-  Is samt shaadiyaane ek samt nauhakhwaani
+  Is samt shaadiyaane ik samt nauhakhwaani
 
   3
   Ye Aal-e-Payambar ke ehsaanoṅ ka badla hai
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   4
   Wo tashna dahaaṅ bachche wo sukhe hue kuze
-  Ek mashk-e-Sakina par do haath hue sadqe
+  Ik mashk-e-Sakina par do haath hue sadqe
   Idhar baawafa udhar ashqiyaa
   Gira khaak par alam khun bhara
   Yatima koi keh ke ye ro pari
@@ -64,7 +64,7 @@ romanLyrics: |-
   Bedard musalmaaṅ se Zainab ne yehi puchha
   Sina Ali Akbar ka barchhi ke liye tha kya
   Na dulha bana na sehra bandha
-  Wo karyal jawaaṅ haaye pyaasa gaya
+  Wo karil jawaaṅ haaye pyaasa gaya
   Qaza ro pari Karbala keh uthi
   Bhulegi kaise Zainab haaye
   Barchhi ki wo ani aur Akbar ke naujawaani
@@ -78,20 +78,20 @@ romanLyrics: |-
   Wo tir Hurmala ka Asghar ki bezabaani
 
   7
-  Tukroṅ meiṅ bata laasha ek raat ke dulha ka
+  Tukroṅ meiṅ bata laasha ik raat ke dulha ka
   Simta hua gathri meiṅ Qasim ka janaaza tha
   Wo gul pairahan dil-e-Panjatan
   Na madfan bana na ghusl o kafan
   Thi mahv-e-buka ek shab ki dulhan
   Bhulegi kaise Zainab haaye
-  Taapoṅ ki zad pe aayi bhai ki ek nishaani
+  Taapoṅ ki zad pe aayi bhai ki ik nishaani
 
   8
   Jab gyaarah Muharram ke suraj ki kiran dekhi
   Sajjad ne zanjireṅ Zainab ne rasan dekhi
   Chali nange sar rasan pehan kar
   Bina bhai ke hai pehla safar
-  Kaha alwida Ae qatil-e-jafa
+  Kaha alwida, ae qatil-e-jafa
   Bhulegi kaise Zainab haaye
   Taiyaariyaaṅ safar ki Abid ki saarbaani
 

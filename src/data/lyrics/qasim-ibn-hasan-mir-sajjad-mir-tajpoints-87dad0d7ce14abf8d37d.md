@@ -1,46 +1,79 @@
 ---
-title: "Qasim Ibn Hasan Mir Sajjad Mir"
+title: "قاسم ابن حسن میر سجاد میر"
+alternateTitle: "Qasim Ibn Hasan Mir Sajjad Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qasim hai mera naam Hasan ka hoon main beta
+  Main maut ki naimat abhi taqseem karon ga
+  Mat sochna main pehle pehal ran mein khara hoon
+  Abbas ka shagird hoon sab seekha howa hoon
+  Tum kya ho hara sakta hoon main maut ko panja
+  Dawat ho Ashera ki ya Siffeen ka hamla
+  Raas aata nahi tum ko Ali terah baras ka
+  Aye Shamiyo iss waqt meri umar hai terah
+  Oh Arzaq e Shami main muqadar ka dhani hoon
+  Tum panchon ko bhejon ga Saqar Panjtani hoon
+  Batla do alag marna hai ya sab ne ikatha
+  Arziq ka khoad kaat ke sar se nikal gayi
+  Khoon pe ke halq-e-bani e shar se nikal gayi
+  Zakhmi ki aah ban ke jigar se nikal gayi
+  Dil mein na jee laga tu kamar se nikal gayi
+  Chilayi maut ab yeh shaqi zair hoga
+  Shair-e-khuda ke shair ka dil shair ho gaya
+  Baba ne tu ik mard ko aurat tha banaya
+  Tum pehle hi na mard ho larna nahi aata
+  Talwar nahi Sham se ab choriyaan lana
+  Main ghool doon pani mein agar ghaiz-o-ghazab ko
+  Ik ghont mein pe jaye ajal dasht mein sab ko
+  Baba ki qasam zehar-e-hilahil ho yeh darya
+  Gustakh e Hussain Ibn-e-Ali samne aaye
+  Baiyat jisay leni hai zara hath barhaye
+  Ammo ki qasam hath qalam kar doon ga oss ka
+  Yeh dulha ki talwar dulhan ban ke chaley gi
+  Tum sab ko lagaye ki abhi khon ki mehndi
+  Parday mein chaley jao gay ghongat jo uthaya
+  Sajjad kaha oss ne na Ghazi ko bulao
+  Pehle zara Qasim ko tu maidaan mein harao
+  Woh tum se larein gay nahi maiyar hai unn ka
 ---
 
-1
-Qasim Ibn Hasan Mir Sajjad Mir Lyrics
-Qasim Hai Mera Naam Hasan Ka Hoon Main Beta.
-Main Maut Ki Naimat Abhi Taqseem Karon Ga.
-Mat Sochna Main Pehle Pehal Ran Mein Khara Hoon.
-Abbas Ka Shagird Hoon Sab Seekha Howa Hoon.
-Tum Kya Ho Hara Sakta Hoon Main Maut Ko Panja.
-Dawat Ho Ashera Ki Ya Siffeen Ka Hamla.
-Raas Aata Nahi Tum Ko Ali Terah Baras Ka.
-Aye Shamiyo Iss Waqt Meri Umar Hai Terah.
-Oh Arzaq e Shami Main Muqadar Ka Dhani Hoon.
-Tum Panchon Ko Bhejon Ga Saqar Panjtani Hoon.
-Batla Do Alag Marna Hai Ya Sab Ne Ikatha.
-Arziq Ka Khoad Kaat Ke Sar Se Nikal Gayi.
-Khoon Pe Ke Halq-e-Bani e Shar Se Nikal Gayi.
-Zakhmi Ki Aah Ban Ke Jigar Se Nikal Gayi.
-Dil Mein Na Jee Laga Tu Kamar Se Nikal Gayi.
-Chilayi Maut Ab Yeh Shaqi Zair Hoga.
-Shair-e-Khuda Ke Shair Ka Dil Shair Ho Gaya.
-Baba Ne Tu Ik Mard Ko Aurat Tha Banaya.
-Tum Pehle Hi Na Mard Ho Larna Nahi Aata.
-Talwar Nahi Sham Se Ab Choriyaan Lana.
-Main Ghool Doon Pani Mein Agar Ghaiz-o-Ghazab Ko.
-Ik Ghont Mein Pe Jaye Ajal Dasht Mein Sab Ko.
-Baba Ki Qasam Zehar-e-Hilahil Ho Yeh Darya.
-Gustakh e Hussain Ibn-e-Ali Samne Aaye.
-Baiyat Jisay Leni Hai Zara Hath Barhaye.
-Ammo Ki Qasam Hath Qalam Kar Doon Ga Oss Ka.
-Yeh Dulha Ki Talwar Dulhan Ban Ke Chaley Gi.
-Tum Sab Ko Lagaye Ki Abhi Khon Ki Mehndi.
-Parday Mein Chaley Jao Gay Ghongat Jo Uthaya.
- Sajjad Kaha Oss Ne Na Ghazi Ko Bulao.
-Pehle Zara Qasim Ko Tu Maidaan Mein Harao.
-Woh Tum Se Larein Gay Nahi Maiyar Hai Unn Ka.
+۱
+قاسم ہے میرا نام، حسن کا ہوں میں بیٹا
+میں موت کی نعمت ابھی تقسیم کروں گا
+مت سوچنا میں پہلے پہل رَن میں کھڑا ہوں
+عباس کا شاگرد ہوں، سب سیکھا ہوا ہوں
+تم کیا ہو، ہرا سکتا ہوں میں موت کو پنجہ
+دعوت ہو عشیرہ کی یا صفین کا حملہ
+راس آتا نہیں تم کو علی تیرہ برس کا
+اے شامیو، اس وقت میری عمر ہے تیرہ
+او ازرقِ شامی، میں مقدر کا دھنی ہوں
+تم پانچوں کو بھیجوں گا سقر، پنجتنی ہوں
+بتلا دو، الگ مرنا ہے یا سب نے اکٹھا
+ازرق کا خود کاٹ کے سر سے نکل گئی
+خون پی کے حلقِ بانیِ شر سے نکل گئی
+زخمی کی آہ بن کے جگر سے نکل گئی
+دل میں نہ جی لگا تو کمر سے نکل گئی
+چلّائی موت، اب یہ شقی زیر ہوگا
+شیرِ خدا کے شیر کا دل شیر ہو گیا
+بابا نے تو اک مرد کو عورت تھا بنایا
+تم پہلے ہی نامرد ہو، لڑنا نہیں آتا
+تلوار نہیں، شام سے اب چوڑیاں لانا
+میں گھول دوں پانی میں اگر غیظ و غضب کو
+اک گھونٹ میں پی جائے اجل دشت میں سب کو
+بابا کی قسم، زہرِ ہلاہل ہو یہ دریا
+گستاخِ حسین ابنِ علی سامنے آئے
+بیعت جسے لینی ہے ذرا ہاتھ بڑھائے
+عمّو کی قسم، ہاتھ قلم کر دوں گا اس کا
+یہ دولہا کی تلوار دلہن بن کے چلے گی
+تم سب کو لگائے گی ابھی خون کی مہندی
+پردے میں چلے جاؤ گے، گھونگٹ جو اٹھایا
+سجاد، کہا اس نے نہ غازی کو بلاؤ
+پہلے ذرا قاسم کو تو میدان میں ہراؤ
+وہ تم سے لڑیں گے نہیں، معیار ہے ان کا

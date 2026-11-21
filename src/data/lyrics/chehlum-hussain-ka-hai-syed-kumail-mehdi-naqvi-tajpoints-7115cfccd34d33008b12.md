@@ -1,47 +1,84 @@
 ---
-title: "Chehlum Hussain Ka Hai Syed Kumail Mehdi Naqvi"
+title: "چہلم حسین کا ہے سید کمیل مہدی نقوی"
+alternateTitle: "Chehlum Hussain Ka Hai Syed Kumail Mehdi Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ansar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chehlum Hussain ka hai Syed Kumail Mehdi Naqvi
+  Ik shoor ja baja hai beemar uth gaya hai zindaan ka dar khula hai
+  Humrah apne le kar Ibn-e-Ali ka dilbar phir qafila chala hai
+  Koza lehad pe rakh kar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+
+  2
+  Aankhon mein ashk le kar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+  Kehti hai Bint-e-Haider Karb-o-Bala ko chaliye chehlum Hussain ka hai
+  Kar de koi manadi ranj-o-alam ki aadi jis ne sada dua di
+  Qaid-e-sitam se chut kar jati hai Karbala ko Kofay ki shehzadi
+
+  3
+  Parcham Jari ka le kar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+  Ab sar khulay nahi hain bazu bandhay nahi hain pehrey lagay nahi hain
+  Gard-e-musafirat se Sadaat-e-Mustafa ke chehray attay nahi hain
+  Nezon pe ab nahi sar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+
+  4
+  Mushkil bohat hai jeena phatta hai gham se seena hai ghamzada maheena
+  Zakhmi musafiron ko pani nahi hai peena zindaan mein hai Sakina
+  Dil hai behan ka muztar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+  Pursa bara-e-Zahra aoulad-e-Mustafa ka Abbas-e-Bawafa ka
+
+  5
+  Zehno mein apne rakhna maidan Karbala ka har aik ghamzada ka
+  Chalte hain dil pe khanjar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+  Pani pilane walo parcham uthane walo nohay sunanay walo
+  Bachoon ko apne le kar Karb-o-Bala ki janib har saal jane walo
+
+  6
+  Shal-e-azza saja kar Karb-o-Bala ko chaliye chehlum Hussain ka hai
+  Zindah rahe hamesha ahl-e-azza ka kunba le kar dua-e-Zahra
+  Har dam yehi sada ho har lab pe yeh boka ho chehlum yeh Karbala ka
+  Chehlum mananay Ansar Karb-o-Bala ko chaliye chehlum Hussain ka hai
 ---
 
-1
-Chehlum Hussain Ka Hai Syed Kumail Mehdi Naqvi
-Ik Shoor Ja Baja Hai Beemar Uth Gaya Hai Zindaan Ka Dar Khula Hai.
-Humrah Apne Le Kar Ibn-e-Ali Ka Dilbar Phir Qafila Chala Hai.
-Koza Lehad Pe Rakh Kar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
+۱
+چہلم حسین کا ہے سید کمیل مہدی نقوی
+اک شور جا بجا ہے بیمار اٹھ گیا ہے زنداں کا در کھلا ہے
+ہمراہ اپنے لے کر ابنِ علی کا دلبر پھر قافلہ چلا ہے
+کوزہ لحد پہ رکھ کر کرب و بلا کو چلیے چہلم حسین کا ہے
 
-2
-Aankhon Mein Ashk Le Kar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
-Kehti Hai Bint-e-Haider Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
-Kar De Koi Manadi Ranj-o-Alam Ki Aadi Jis Ne Sada Dua Di.
-Qaid-e-Sitam Se Chut Kar Jati Hai Karbala Ko Kofay Ki Shehzadi.
+۲
+آنکھوں میں اشک لے کر کرب و بلا کو چلیے چہلم حسین کا ہے
+کہتی ہے بنتِ حیدر کرب و بلا کو چلیے چہلم حسین کا ہے
+کر دے کوئی منادی رنج و الم کی عادی جس نے سدا دعا دی
+قیدِ ستم سے چھٹ کر جاتی ہے کربلا کو کوفے کی شہزادی
 
-3
-Parcham Jari Ka Le Kar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
-Ab Sar Khulay Nahi Hain Bazu Bandhay Nahi Hain Pehrey Lagay Nahi Hain.
-Gard-e-Musafirat Se Sadaat-e-Mustafa Ke Chehray Attay Nahi Hain.
-Nezon Pe Ab Nahi Sar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
+۳
+پرچم جری کا لے کر کرب و بلا کو چلیے چہلم حسین کا ہے
+اب سر کھلے نہیں ہیں بازو بندھے نہیں ہیں پہرے لگے نہیں ہیں
+گردِ مسافرت سے ساداتِ مصطفیٰ کے چہرے اٹے نہیں ہیں
+نیزوں پہ اب نہیں سر کرب و بلا کو چلیے چہلم حسین کا ہے
 
-4
-Mushkil Bohat Hai Jeena Phatta Hai Gham Se Seena Hai Ghamzada Maheena.
-Zakhmi Musafiron Ko Pani Nahi Hai Peena Zindaan Mein Hai Sakina.
-Dil Hai Behan Ka Muztar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
-Pursa Bara-e-Zahra Aoulad-e-Mustafa Ka Abbas-e-Bawafa Ka.
+۴
+مشکل بہت ہے جینا پھٹتا ہے غم سے سینہ ہے غم زدہ مہینہ
+زخمی مسافروں کو پانی نہیں ہے پینا زنداں میں ہے سکینہ
+دل ہے بہن کا مضطر کرب و بلا کو چلیے چہلم حسین کا ہے
+پرسہ برائے زہرا اولادِ مصطفیٰ کا عباسِ باوفا کا
 
-5
-Zehno Mein Apne Rakhna Maidan Karbala Ka Har Aik Ghamzada Ka.
-Chalte Hain Dil Pe Khanjar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
-Pani Pilane Walo Parcham Uthane Walo Nohay Sunanay Walo.
-Bachoon Ko Apne Le Kar Karb-o-Bala Ki Janib Har Saal Jane Walo.
+۵
+ذہنوں میں اپنے رکھنا میدان کربلا کا ہر ایک غم زدہ کا
+چلتے ہیں دل پہ خنجر کرب و بلا کو چلیے چہلم حسین کا ہے
+پانی پلانے والو پرچم اٹھانے والو نوحے سنانے والو
+بچوں کو اپنے لے کر کرب و بلا کی جانب ہر سال جانے والو
 
-6
-Shal-e-Azza Saja Kar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
-Zindah Rahe Hamesha Ahl-e-Azza Ka Kunba Le Kar Dua-e-Zahra.
-Har Dam Yehi Sada Ho Har Lab Pe Yeh Boka Ho Chehlum Yeh Karbala Ka.
-Chehlum Mananay Ansar Karb-o-Bala Ko Chaliye Chehlum Hussain Ka Hai.
+۶
+شالِ عزا سجا کر کرب و بلا کو چلیے چہلم حسین کا ہے
+زندہ رہے ہمیشہ اہلِ عزا کا کنبہ لے کر دعائے زہرا
+ہر دم یہی صدا ہو ہر لب پہ یہ بکا ہو چہلم یہ کربلا کا
+چہلم منانے انصار کرب و بلا کو چلیے چہلم حسین کا ہے

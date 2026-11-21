@@ -16,7 +16,7 @@ romanLyrics: |-
   Maadar ke laboṅ par hai ye nauha Ali Asghar
 
   1
-  Pehlu meiṅ mere aaj se soegi Sakina
+  Pehlu meiṅ mere aaj se soe gi Sakina
   Tum baap ki aaghosh meiṅ sona Ali Asghar
 
   2

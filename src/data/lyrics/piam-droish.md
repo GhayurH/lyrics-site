@@ -8,6 +8,48 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qatl jo mazlum hua
+  Us ki faqat hai ye khata
+  Woh pairav-e-vilaayat hai
+  Woh pairav-e-vilaayat hai
+  Ali wali Allah Ali wali Allah
+  Ali wali Allah Ali wali Allah
+  Zaalimoṅ ki maut hai aur aasra mazlum ka
+  Ya Ali Ali wali Allah
+  Ali wali Allah Ali wali Allah
+  1. Ham azaadaaroṅ ki ye pahchaan hai zer-e-falak
+  God se maadar ki le kar qabr ki aaghosh tak
+  Ek markaz ek nuqta
+  Ek mehvar ek sada
+  2. Jo ise naafiz kare woh qaum zinda baad hai
+  Adliya ki jaan hai ye adl ki buniyaad hai
+  Sirf naara hi nahiṅ ye
+  Hai nizaam-e-kibriya
+
+  2
+  3. Sab se pahle ghar jala jis ka Ali ke naam par
+  Ho gai woh khud zaeefa pasliyaaṅ tuti magar
+  Faatima ki siskiyoṅ mein
+  Aakhiri dam tak raha
+  4. Saltanat ke waaste tha kab qiyaam-e-Karbala
+  Is liye Shah ne kiya tha ehtimaam-e-Karbala
+  Jaanti thi saari duniya
+  Maanta koi na tha
+  5. Hichkiyaaṅ maaṅ ki bandhi Zainab musalle par giri
+  Naam sun kar Baba jaaṅ ka ro diya ibn-e-Ali
+  Subh-e-Aashura azaaṅ mein
+  Naujawaaṅ ne jab kaha
+  6. Be ridaai aur khutba al hafeez o al amaaṅ
+  Fath ka ailaan sun kar gunji aawaaz-e-azaaṅ
+  Bar sar-e-darbaar Zainab
+  Ne ye saabit kar diya
+  7. Jab bhi ghaibat se takallum aane waala aaega
+  Chaahta hai jo Khuda darvesh woh ho jaaega
+  Us ghari raaj-e-zamiṅ par
+  Har taraf ho jaaega
+  Ya Ali Ali wali Allah
 ---
 
 شاہد بلتستانی۔۔۔۔۔۔نوحہ۔۔۔۔بی‌بی زینبؑ۔۔۔۔۔۲۰۱۴ـ۲۰۱۵

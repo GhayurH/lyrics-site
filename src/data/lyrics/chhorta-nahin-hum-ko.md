@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Aaj bhi gham-e-Shah par kitne tanz hote hai
-  Butkadoṅ ki zid par aaj bhi haram tanha
+  But kadoṅ ki zid par aaj bhi haram tanha
 
   4
   So gaye kahaaṅ Abbas waqt hai tilaaye ka

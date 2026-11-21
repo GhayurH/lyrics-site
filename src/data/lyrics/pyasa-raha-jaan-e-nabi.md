@@ -12,76 +12,76 @@ tags: []
 aliases: ["Pyasa Raha Jaane"]
 published: true
 romanLyrics: |-
-  Pyasa raha jaan-e-Nabi
-  Ae waae Nahr-e-Alqama
+  Pyaasa raha jaan-e-Nabi
+  Ae waaye Nahr-e-Alqama
   Uthti rahi maujeṅ teri
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   1
   Wo khushk lab sukha gala
   Sher-e-Khuda ki aal ka
-  Wo tere hoṅtoṅ par tari
-  Ae waae Nahr-e-Alqama
+  Wo tere hontoṅ par tari
+  Ae waaye Nahr-e-Alqama
 
   2
   Tufaaṅ uthana tha tujhe
   Ya sukh jaana tha tujhe
   Kuch tum ne khidmat hi na ki
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   3
-  Ek mashk paani le liye
+  Ak mashk paani le liye
   Abbas ke shaane kate
   Nadi lahu ki beh gayi
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   4
-  Dube lahu meiṅ yak qalam
+  Dube lahu mein yak qalam
   Kya kya ghazaalaan-e-haram
   Dekhi ye kashti dubti
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   5
-  Ek chaadar-e-aab-e-rawaaṅ
+  Ak chaadar-e-aab-e-rawaaṅ
   Orhe hue tu nauhakhwaaṅ
   Zainab ki ye bechaadari
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   6
-  Qabze meiṅ tere aab ho
+  Qabze mein tere aab ho
   Aur pyaas se betaab ho
   Sheh ke chaman ki har kali
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   7
   Ashk-e-Sakina beh gaye
-  Muṅh dekhte sab reh gaye
+  Munh dekhte sab reh gaye
   Tu aur teri daryadili
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   8
-  Yeh kaunsa dastur tha
+  Yeh kaun sa dastur tha
   Mehmaan kitni dur tha
-  Kya paaoṅ meiṅ zanjir thi
-  Ae waae Nahr-e-Alqama
+  Kya paaoṅ mein zanjir thi
+  Ae waaye Nahr-e-Alqama
 
   9
   Khaima rahe Shabbir ka
-  Yuṅ dhup meiṅ jalta hua
+  Yuṅ dhup mein jalta hua
   Saahil pe ho fauj-e-shaqi
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   10
-  Hasrat ki ek tahrir thi
-  Khud tere dil par tir thi
+  Hasrat ki ak tahrir thi
+  Qad tere dil par tir thi
   Jo mauj uthi aisi uthi
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 
   11
-  Aata hai usko yaad jab
-  Wo kaarwaan-e-tashnalab
+  Aata hai us ko yaad ab
+  Wo kaarwaan-e-tashna lab
   Hai Najm ka nauha yehi
-  Ae waae Nahr-e-Alqama
+  Ae waaye Nahr-e-Alqama
 ---
 پیاسا رہا جانِ نبی
 اے وائے نہرِ علقمہ

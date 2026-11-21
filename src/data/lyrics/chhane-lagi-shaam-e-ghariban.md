@@ -1,7 +1,7 @@
 ---
 title: "چھانے لگی شامِ غریباں"
 recitationId: "chhane-lagi-shaam-e-ghareeban"
-alternateTitle: "Chhane Lagi Shaam-e-Gharibaṅ"
+alternateTitle: "Chhaane Lagi Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,25 +13,25 @@ aliases:
   - "Chhane Lagi Shaam e Ghareeban"
 published: true
 romanLyrics: |-
-  Chhane lagi shaam-e-gharibaṅ,
+  Chhaane lagi shaam-e-gharibaṅ,
   haaye qiyamat ka hai samaaṅ
   Khaima-e-Sadaat se utha dhuaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   1
-  Dhal gaya din khatam larai hui,
-  maut ki khamoshi hai chaai hui
+  Dhal gaya din khatm laraai hui,
+  maut ki khaamoshi hai chaai hui
   Chaak garebaaṅ khudai hui,
   khaak basar Fatima jaai hui
-  Larzi zamiṅ kanp utha aasmaṅ,
+  Larzi zamiṅ kaanp utha aasmaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   2
-  Nur-e-nazar raaj dulare gaye,
-  Zainab dilgir ke pyaare gaye
-  Shah ke ansar bhi maare gaye,
+  Nur-e-nazar raaj dulaare gaye,
+  Zainab-e-dilgir ke pyaare gaye
+  Shaah ke ansaar bhi maare gaye,
   aas thi jin par woh sahaare gaye
-  Lut liya maut ne yeh karwaṅ,
+  Luut liya maut ne yeh kaarwaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   3
@@ -46,38 +46,38 @@ romanLyrics: |-
   Aun o Muhammad nahiṅ Akbar nahiṅ,
   Sarwar o Abbas-e-dilawar nahiṅ
   Haaye koi munis o yawar nahiṅ,
-  khaima nahiṅ maqna o chadar nahiṅ
-  Dasht meiṅ behaiṅ aal-e-nabi beamaan,
+  khaima nahiṅ maqna chaadar nahiṅ
+  Dasht meiṅ haiṅ aal-e-Nabi beamaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   5
-  Madar-e-Akbar ka ajab haal hai,
+  Maadar-e-Akbar ka ajab haal hai,
   deta hai jab koi tasalli use
   Kehti hai dil thaam ke rote hue,
-  khogaye is ban meiṅ sahaare mere
-  Mar gaya haaye mera karyal jawaaṅ,
+  kho gaye is ban meiṅ sahaare mere
+  Mar gaya haaye mera kariyal jawaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   6
-  Maaṅ huṅ har ek ranj uthauṅ gi maiṅ,
-  rote hue khud chali jauṅ gi maiṅ
-  Dhund ke besher ko lauṅ gi maiṅ,
-  is ke bina ji nahiṅ paauṅ gi maiṅ
-  Reh gaya haaye mera bachcha kahaṅ,
+  Maaṅ huṅ har ik ranj uthaauṅ gi main,
+  rote hue khud chali jaauṅ gi main
+  Dhund ke besher ko laauṅ gi main,
+  is ke binaa ji nahiṅ paauṅ gi main
+  Reh gaya haaye mera bachcha kahaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   7
-  Haaye yeh bechargi yeh bekasi,
-  deta nahiṅ is ko dalasa koi
-  Darmiyan lashoṅ ke akeli khari,
+  Haaye yeh bechaargi yeh bekasi,
+  deta nahiṅ is ko dilaasa koi
+  Darmiyaan laashoṅ ke akeli khari,
   kahti hai bachchi koi sehmi hui
-  Dhundne jauṅ tujhe baba kahaṅ,
+  Dhundne jaauṅ tujhe baba kahaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   8
-  Hai ye Gohar azmat-e-bint-e-Ali,
-  sab ko sambhala bhi hifazat bhi ki
-  Gham meiṅ Shah-e-din ke bhi roti rahi,
+  Hai yeh Gohar azmat-e-bint-e-Ali,
+  sab ko sambhaala bhi hifazat bhi ki
+  Gham meiṅ Shah-e-Din ke bhi roti rahi,
   mamta pe aanch bhi aane na di
   Maaṅ to hai bas Aun o Muhammad ki maaṅ,
   haaye qiyamat ka hai samaaṅ

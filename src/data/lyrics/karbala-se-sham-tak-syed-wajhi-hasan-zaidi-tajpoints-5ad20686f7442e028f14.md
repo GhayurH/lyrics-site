@@ -1,65 +1,120 @@
 ---
-title: "Karbala Se Sham Tak Syed Wajhi Hasan Zaidi"
+title: "کربلا سے شام تک"
+alternateTitle: "Karbala Se Sham Tak"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Wajih"
-tags: ["noUrdu"]
+poet: "Syed Wajhi Hasan Zaidi"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Karbala se Sham tak Syed Wajhi Hasan Zaidi
+  Shah ka rota raha sar Karbala se Sham tak
+  Tha ajab ghurbat ka manzar Karbala se Sham tak
+  Hasraton ki chadron mein rakh ke kafnati rahi
+
+  2
+  Chotay chotay bachoon ko ro ro ke dafnati rahi
+  Qaid reh kar bint-e-Haider Karbala se Sham tak
+  Bad-e-Ashora mili aisi yateemi ki saza
+  Rang chehray ka tamachon se badalta hi raha
+
+  3
+  Youn gayi hai sheh ki dukhtar Karbala se Sham tak
+  Na tawani par safar mein ja baja hanstay rahe
+  Pusht-e-Abid par sitam ki dastaan likhtay rahe
+  Taziyano se sitamgar Karbala se Sham tak
+
+  4
+  Chadron ka pasbaan haye gham uthata kis tarha
+  Nook-e-naiza par sar-e-Abbas jata kis tarha
+  Bint-e-Zahra thi khulay sar Karbala se Sham tak
+  Aye meri Zainab hai madar sath ghabrana nahi
+
+  5
+  Apna pehlu-e-shikasta tham ke kehti rahein
+  Fatima bint-e-payamber Karbala se Sham tak
+  Khak par girti rahi lekin utha paya nahi
+  Shimar ke durron se khwahar bacha paya nahi
+
+  6
+  Kitna be kas tha baradar Karbala se Sham tak
+  Tha safar dushwar kitna Mustafa ki aal ka
+  Rah mein chehra musalsal khoon se tar hota raha
+  Dushmano ne marey pathar Karbala se Sham tak
+
+  7
+  Alam-e-be chadari mein ghairat-e-Ilyas ko
+  Bad-e-sarwar har ghali har moor par Abbas ko
+  Yaad kar ke roi khwahar Karbala se Sham tak
+  Barishon mein taziyano ki lahu rotay hoye
+
+  8
+  Apni maa behno ki khatir Syed-e-Sajjad ne
+  Har qadam mangi hai chadar Karbala se Sham tak
+  Terah zarboon se kata tha ran mein sarwar ka gala
+  Bad-e-Ashora musalsal qalb-e-Abid par chala
+
+  9
+  Jane kitni bar khanjar Karbala se Sham tak
+  Tum se kartay hain dua itni Wajih our yeh Hilal
+  Bakhsh do izn-e-ziyarat Fatima Zahra ke lal
+  Jaein hum yeh noha parh kar Karbala se Sham tak
 ---
 
-1
-Karbala Se Sham Tak Syed Wajhi Hasan Zaidi.
-Shah Ka Rota Raha Sar Karbala Se Sham Tak.
-Tha Ajab Ghurbat Ka Manzar Karbala Se Sham Tak.
-Hasraton Ki Chadron Mein Rakh Ke Kafnati Rahi.
+۱
+کربلا سے شام تک سید وجیہ حسن زیدی
+شاہ کا روتا رہا سر کربلا سے شام تک
+تھا عجب غربت کا منظر کربلا سے شام تک
+حسرتوں کی چادروں میں رکھ کے کفناتی رہی
 
-2
-Chotay Chotay Bachoon Ko Ro Ro Ke Dafnati Rahi.
-Qaid Reh Kar Bint-e-Haider Karbala Se Sham Tak.
-Bad-e-Ashora Mili Aisi Yateemi Ki Saza.
-Rang Chehray Ka Tamachon Se Badalta Hi Raha.
+۲
+چھوٹے چھوٹے بچوں کو رو رو کے دفناتی رہی
+قید رہ کر بنتِ حیدر کربلا سے شام تک
+بعدِ عاشورا ملی ایسی یتیمی کی سزا
+رنگ چہرے کا طمانچوں سے بدلتا ہی رہا
 
-3
-Youn Gayi Hai Sheh Ki Dukhtar Karbala Se Sham Tak.
-Na Tawani Par Safar Mein Ja Baja Hanstay Rahe.
-Pusht-e-Abid Par Sitam Ki Dastaan Likhtay Rahe.
-Taziyano Se Sitamgar Karbala Se Sham Tak.
+۳
+یوں گئی ہے شہ کی دختر کربلا سے شام تک
+ناتوانی پر سفر میں جا بجا ہنستے رہے
+پشتِ عابد پر ستم کی داستاں لکھتے رہے
+تازیانوں سے ستمگر کربلا سے شام تک
 
-4
-Chadron Ka Pasbaan Haye Gham Uthata Kis Tarha.
-Nook-e-Naiza Par Sar-e-Abbas Jata Kis Tarha.
-Bint-e-Zahra Thi Khulay Sar Karbala Se Sham Tak.
-Aye Meri Zainab Hai Madar Sath Ghabrana Nahi.
+۴
+چادروں کا پاسباں ہائے غم اٹھاتا کس طرح
+نوکِ نیزہ پر سرِ عباس جاتا کس طرح
+بنتِ زہرا تھی کھلے سر کربلا سے شام تک
+اے میری زینب ہے مادر ساتھ گھبرانا نہیں
 
-5
-Apna Pehlu-e-Shikasta Tham Ke Kehti Rahein.
-Fatima Bint-e-Payamber Karbala Se Sham Tak.
-Khak Par Girti Rahi Lekin Utha Paya Nahi.
-Shimar Ke Durron Se Khwahar Bacha Paya Nahi.
+۵
+اپنا پہلوئے شکستہ تھام کے کہتی رہیں
+فاطمہ بنتِ پیمبر کربلا سے شام تک
+خاک پر گرتی رہی لیکن اٹھا پایا نہیں
+شمر کے درّوں سے خواہر بچا پایا نہیں
 
-6
-Kitna Be Kas Tha Baradar Karbala Se Sham Tak.
-Tha Safar Dushwar Kitna Mustafa Ki Aal Ka.
-Rah Mein Chehra Musalsal Khoon Se Tar Hota Raha.
-Dushmano Ne Marey Pathar Karbala Se Sham Tak.
+۶
+کتنا بے کس تھا برادر کربلا سے شام تک
+تھا سفر دشوار کتنا مصطفیٰ کی آل کا
+راہ میں چہرہ مسلسل خون سے تر ہوتا رہا
+دشمنوں نے مارے پتھر کربلا سے شام تک
 
-7
-Alam-e-Be Chadari Mein Ghairat-e-Ilyas Ko.
-Bad-e-Sarwar Har Ghali Har Moor Par Abbas Ko.
-Yaad Kar Ke Roi Khwahar Karbala Se Sham Tak.
-Barishon Mein Taziyano Ki Lahu Rotay Hoye.
+۷
+عالمِ بے چادری میں غیرتِ الیاس کو
+بعدِ سرور ہر گلی ہر موڑ پر عباس کو
+یاد کر کے روئی خواہر کربلا سے شام تک
+بارشوں میں تازیانوں کی لہو روتے ہوئے
 
-8
-Apni Maa Behno Ki Khatir Syed-e-Sajjad Ne.
-Har Qadam Mangi Hai Chadar Karbala Se Sham Tak.
-Terah Zarboon Se Kata Tha Ran Mein Sarwar Ka Gala.
-Bad-e-Ashora Musalsal Qalb-e-Abid Par Chala.
+۸
+اپنی ماں بہنوں کی خاطر سیدِ سجاد نے
+ہر قدم مانگی ہے چادر کربلا سے شام تک
+تیرہ ضربوں سے کٹا تھا رن میں سرور کا گلا
+بعدِ عاشورا مسلسل قلبِ عابد پر چلا
 
-9
-Jane Kitni Bar Khanjar Karbala Se Sham Tak.
-Tum Se Kartay Hain Dua Itni Wajih Our Yeh Hilal.
-Bakhsh Do Izn-e-Ziyarat Fatima Zahra Ke Lal.
-Jaein Hum Yeh Noha Parh Kar Karbala Se Sham Tak.
+۹
+جانے کتنی بار خنجر کربلا سے شام تک
+تم سے کرتے ہیں دعا اتنی وجیہ اور یہ ہلال
+بخش دو اذنِ زیارت فاطمہ زہرا کے لال
+جائیں ہم یہ نوحہ پڑھ کر کربلا سے شام تک

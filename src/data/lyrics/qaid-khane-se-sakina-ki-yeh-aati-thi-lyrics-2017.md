@@ -9,111 +9,60 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Qaid Khane Se Sakina Ki Yeh Aati Thi Lyrics 2017"
-romanLyrics: 'Qaid Khane Se Sakina Ki Yeh Aati Thi Write Up
-
-  Pasliyaan Toot Gayin Meri Bhi Dadi Ki Tarha Mir Hasan Mir.
-
-  Qaid Khane Se Sakina Ki Yeh Aati Thi Sada Pasliyaan Toot Gayin Meri Bhi Dadi Ki Tarha.
-
-  Mujh Ko Chalte Howay Naqay Se Giraya Baba Pasliyaan Toot Gayin Meri Bhi Dadi Ki Tarha.
-
-  Ho Gayi Char Bars Mein Hi Sakina Zahra Pasliyaan Toot Gayin Meri Bhi Dadi Ki Tarha.
-
-  Woh Bhi Dada Se Chupati Rahi Apna Pehlu.
-
-  Mujh Se Bhi Dekhe Na Jaein Gaye Ali Ke Aansu.
-
-  Jeete Jee Mere Mera Zakhm Na Dekhein Bhaiya.
-
+romanLyrics: |-
+  Samajh ke Zahra sataya gaya Sakina ko
+  Qadam qadam pe rulaya gaya Sakina ko
 
   1
-
-  Samajh ke zahra sataya gaya sakina ko
-
-  Qadam qadam pe rulaya gaya sakina ko
-
+  Wo zakhm aaj bhi taaza hai pusht-e-naaqa se
+  Haaye giri nahiṅ hai, giraya gaya Sakina ko
+  Qaid khaane se Sakina ki yeh aati thi sada
+  Pasliyaaṅ tut gai meri bhi daadi ki tarah
 
   2
-
-  Wo zakhm aaj bhi taaza hai pushte naaqa se
-
-  Haye giri nahi hai giraya gaya sakina ko
-
-  Qaid khane se sakina ki ye aati thi sada
-
-  Phasliyan toot gayi meri bhi dadi ki tarha
-
+  Mujh ko chalte hue naaqe se giraya, Baba
+  ...Pasliyaaṅ tut gai
+  Ho gai chaar baras mein hi Sakina Zahra
 
   3
-
-  Mujhko chalte huwe naaqe se giraya baba
-
-  Phasliyan toot gayi...
-
-  Hogayi char baras mein hi sakina zahra
-
+  Wo bhi daada se chhupaati rahi apna pehlu
+  Mujh se bhi dekhe na jaeṅge Ali ke aansuṅ
+  Jite ji mere mera zakhm na dekhe bhaiya
 
   4
-
-  Kaise aayi hoo mai bazaar se ho kar baba
-
-  Mujhko maare gaye is zakhm pe pathar baba
-
-  Roke mai kehti rahi phir bhi kisi ne na suna
-
+  Kaise aayi huṅ main bazaar se ho kar, Baba
+  Mujh ko maare gaye is zakhm pe patthar, Baba
+  Ro ke main kehti rahi phir bhi kisi ne na suna
 
   5
-
-  Ab samajh sakti hoo kis tarha wo soti hongi
-
-  Haath pehlu pe rakhe kaise tadapti hongi
-
-  Karwatein dard mujhe bhi nahi lene deta
-
+  Ab samajh sakti huṅ kis tarah se soti hongi
+  Haath pehlu pe rakhe kaise tarapti hongi
+  Karwateṅ dard mujhe bhi nahiṅ lene deta
 
   6
-
-  Ho Baho Fatima Zahra Si Zaeefi Chayi.
-
-  Jhuriyaan Chehre Pe Baloon Mein Safaidi Ayi.
-
-  Ik Kami Baqi Thi Woh Bhi Hoi Pori Baba.
-
+  Hu bahu Fatima Zahra si zaifi chhaai
+  Jhurriyaaṅ chehre pe baaloṅ pe safedi aayi
+  Ik kami aap ki thi, wo bhi hui puri, Baba
 
   7
-
-  Saath suraj ke ye dil doob raha hota hai
-
-  Amma kehti hai yehi waqt e dua hota hai
-
-  Roz karti hoo sar e shaam mai marne ki dua
-
+  Saath suraj ke yeh dil dub raha hota hai
+  Ammaaṅ kehti hai yehi waqt-e-dua hota hai
+  Roz karti huṅ sar-e-shaam yeh marne ki dua
 
   8
-
-  Ja Ke Janat Mein Bhi Aaram Nahi Paye Ga.
-
-  Kya Yeh Arman Mera Dill Mein Hi Reh Jaye Ga.
-
-  Kaise Godi Mein Uthaon Gi Asghar Ko Bhala.
-
+  Ja ke jannat mein bhi aaraam nahiṅ aaega
+  Kya yeh armaan mere dil mein hi reh jaaega
+  Kaise godi mein uthaaungi main Asghar ko bhala
 
   9
-
-  Aap ka sar jale daaman mein uthane ke liye
-
-  Haath darbar mein mushkil se uthaye maine
-
-  Tumko us waqt bhi maine na bataya baba
-
+  Aap ka sar jale daaman mein uthaane ke liye
+  Haath darbaar mein mushkil se uthaaye main ne
+  Tum ko us waqt bhi main ne na bataya, Baba
 
   10
-
-  Gir padi khaak pe namoose nabi peet ke sar
-
-  Qaid khane mein hui aur qayamat akbar
-
-  Le ke sar baap ka bachi ne jo ro ro ke kaha'
+  Gir pari khaak pe namus-e-nabi pit ke sar
+  Qaid khaane mein hui aur qayaamat, Akbar
+  Le ke sar baap ka bachchi ne jo ro ro ke kaha
 ---
 
 سمجھکے زہرا ستایا گیا سکینہ کو

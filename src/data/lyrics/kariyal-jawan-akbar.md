@@ -26,18 +26,18 @@ romanLyrics: |-
   Behnoṅ ko bhi kisi ne kya ye bataa diya hai
 
   3
-  Sar pitta hai koi karta hai koi maatam
+  Sar pita hai koi karta hai koi maatam
   Hai aisa gham ke maare Sayyidaaniyoṅ ka aalam
   Khaimoṅ meiṅ Shaah-e-Diṅ ke kohraam mach gaya hai
 
   4
   Darya ki simt dekha thokar jo ran meiṅ khaai
   Kuchh der ko to aa jaa Abbas mere bhaai
-  Ye keh ke mera Maula maqtal meiṅ gir gaya hai
+  Ye keh ke mera Maula maqtal meiṅ ghir gaya hai
 
   5
   Baano tarap ke boli armaan to barhaa luṅ
-  Apne jawaaṅ pisar ko dulha to maiṅ banaa luṅ
+  Apne jawaaṅ pisar ko dulha to main banaa luṅ
   Aayega ab na waapas Akbar mujhe pata hai
 
   6

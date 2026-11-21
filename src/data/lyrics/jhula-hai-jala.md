@@ -13,7 +13,7 @@ aliases: ["Jhoola Hai Jala"]
 published: true
 romanLyrics: |-
   Haathoṅ meiṅ liye nanhe se jhule ko ye maadar
-  Bikhraae apne baaloṅ ko kehti rahi Asghar
+  Bikhraaye apne baaloṅ ko kehti rahi Asghar
   Tu kya gaya ke chhaaya hai aankhoṅ meiṅ andhera
   Karb o Bala meiṅ ho gaya barbaad mera ghar
 
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   8
   Us din se le kar maut talak
-  Saae meiṅ na baithi Ahmed wo
+  Saaye meiṅ na baithi Ahmed wo
   Dil ke haiṅ Hasan ke gham ye bara
 ---
 ہاتھوں میں لیے ننھے سے جھولے کو یہ مادر

@@ -1,0 +1,29 @@
+---
+title: "Dowaan Putraan Nu Lay Ke Zahra Jadon Wich Darbar De Aayi Lyrics Ayyam E Fatamiya 2025 New Noha MSO"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+poet: "Akbar"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Dowaan Putraan Nu Lay Ke Zahra Jadon Wich Darbar De Aayi.
+Aye Pak Gawahi Musalmana Ne Hans Hans Ke Jhutlai.
+Darbar De Hasay Kuj De Ne Darbar Di Peshi Ki Aye.
+Ik Hath Pasay Te Rakh Ke Maa Har Gal Dhi Nu Samjhai.
+
+2
+Sanu Fidak Te Wapis Nayi Milna Bas Aye Chadar Bach Jaway.
+Tatheer Di Chadar Aye Keh Ke Maa Dhi De Sir Te Payi.
+Kuj Tutiyaan Pasliyaan Dasdiyan Ne Kuj Neel Tamachiyaan Walay.
+Kinj Sir Da Taj Banandi Rayi Aye Pak Rasool Di Jayi.
+
+3
+Pehle Te Banaiyaan Zahra Layi Haider Ne Chali Qabraan.
+Untali Qabraan Wich Hawaan Ik Wich Zahra Dafnai.
+ Akbar Yasrab Diyaan Galiyaan Wich Dar Dar Te Zahra Pohanchi.
+Man Kuntu Wali Baiyat Di Lokaan Nu Yaad Dilai.

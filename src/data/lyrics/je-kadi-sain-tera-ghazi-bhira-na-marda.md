@@ -7,6 +7,21 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Je kadi Sain tera Ghazi bhira na mar da
+  Na koi khaima sarda na lutinda tera parda
+
+  1
+  Koi Madine ja ke Sughra nuṅ ittila de ve
+  Aakhri vela ei aa vekh le munh Akbar da
+
+  2
+  Aai khaime choṅ sada tir na maari zaalim
+  Bahoṅ naazuk hai gala mere Ali Asghar da
+
+  3
+  Vekh sar nange tera das kiuṅ na main rat rovaaṅ
+  Khaa gaya jigar nuṅ gham phuphi teri chaadar da
 ---
 
 جے کدی سین تیرا غازی بھرا نہ مر دا

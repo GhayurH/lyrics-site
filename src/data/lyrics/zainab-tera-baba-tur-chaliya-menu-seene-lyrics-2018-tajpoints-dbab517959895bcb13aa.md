@@ -1,29 +1,48 @@
 ---
-title: "Zainab Tera Baba Tur Chaliya Menu Seene Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "زینب تیرا بابا ٹر چلیا مینوں سینے"
+alternateTitle: "Zainab Tera Baba Tur Chaliya Menu Seene"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab tera baba tur chaliya menu seene la haye mere samne aa
+  Kadi samne na aaon wali menu wain suna haye mere samne aa
+  Wich Karb-o-Bala de pak yateema nu main sekhna kinj parchaein gi
+  Sajjad ajay chota aye aynu aa parcha haye mere samne aa
+
+  2
+  Mere aakhri sa ne mere jandiyaan tayin apni aawaz sunandi ray
+  Bay kool mere kendi ja baba baba haye mere samne aa
+  Aagaz turan da toan kar lay aj Zainab apne babay de aakhan te
+  Kuj qadam utha kool mere toon turdi aa mere samne aa
+
+  3
+  Aawz suna apni choor ke janday nu kal tainu bolna paina aye
+  Khutba te nahi main kehnda ik wain suna mere samne aa
+  Saqlain qaza welay rook ke hanjwaan nu Mula ne aakhiya Zainab nu
+  Haye painay ne neel jithe oh bazu wakha mere samne aa
 ---
 
-1
-Zainab Tera Baba Tur Chaliya Menu Seene La Haye Mere Samne Aa.
-Kadi Samne Na Aaon Wali Menu Wain Suna Haye Mere Samne Aa.
-WIch Karb-o-Bala De Pak Yateema Nu Main Sekhna Kinj Parchaein Gi.
-Sajjad Ajay Chota Aye Aynu Aa Parcha Haye Mere Samne Aa.
+۱
+زینب تیرا بابا ٹر چلیا مینوں سینے لا ہائے میرے سامنے آ
+کدی سامنے نہ آؤن والی مینوں وین سنا ہائے میرے سامنے آ
+وچ کرب و بلا دے پاک یتیماں نوں میں سکھنا کِنج پرچائیں گی
+سجاد اجے چھوٹا اے اینوں آ پرچا ہائے میرے سامنے آ
 
-2
-Mere Aakhri Sa Ne Mere Jandiyaan Tayin Apni Aawaz Sunandi Ray.
-Bay Kool Mere Kendi Ja Baba Baba Haye Mere Samne Aa.
-Aagaz Turan Da Toan Kar Lay Aj Zainab Apne Babay De Aakhan Te.
-Kuj Qadam Utha Kool MEre Toon Turdi Aa Mere Samne Aa.
+۲
+میرے آخری ساہ نیں میرے جاندیاں تائیں اپنی آواز سناندی رہ
+بہہ کول میرے کہندی جا بابا بابا ہائے میرے سامنے آ
+آغاز ٹرن دا توں کر لے اج زینب اپنے بابے دے آکھن تے
+کجھ قدم اٹھا کول میرے توں ٹردی آ میرے سامنے آ
 
-3
-Aawz Suna Apni Choor Ke Janday Nu Kal Tainu Bolna Paina Aye.
-Khutba Te Nahi Main Kehnda Ik Wain Suna Mere Samne Aa.
- Saqlain Qaza Welay Rook Ke Hanjwaan Nu Mula Ne Aakhiya Zainab Nu.
-Haye Painay Ne Neel Jithe Oh Bazu Wakha Mere Samne Aa.
+۳
+آواز سنا اپنی چھوڑ کے جاندے نوں کل تینوں بولنا پینا اے
+خطبہ تے نہیں میں کہندا اک وین سنا میرے سامنے آ
+ثقلین قضا ویلے روک کے ہنجواں نوں مولا نے آکھیا زینب نوں
+ہائے پینے نیں نیل جتھے اوہ بازو وکھا میرے سامنے آ

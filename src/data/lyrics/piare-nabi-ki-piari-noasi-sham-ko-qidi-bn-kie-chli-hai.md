@@ -1,47 +1,85 @@
 ---
-title: "پیارے نبیؐ کی پیاری نواسی شام کو قیدی بن کئے چلی ہے"
+title: "پیارے نبیؐ کی پیاری نواسی شام کو قیدی بن کے چلی ہے"
+alternateTitle: "Pyaare Nabi Ki Pyaari Nawasi, Shaam Ko Qaidi Ban Ke Chali Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Shaam ko qaidi ban kay chali hai
+
+  1
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hay
+  Sabr ki malka Zehra ki pyaari, Sham ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+
+  2
+  Dekh rahi haykoi to aaey, shaana pakar kar kaash bithaaye
+  Na haysawaari na hayamaari, Shaam ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+
+  3
+  Bhaai bhateeje bhaanje bete, saath watan se aayi thi leke
+  Haaye muqaddar aaj akeli, Shaam ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+
+  4
+  Beton ko sadqa bhaai pe karke, jisne kiye thayshukr ke sajda
+  Chhor ke tanha laash ko uski, Shaam ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+
+  5
+  Jiski kaneezein nikle na baahar, balwe mein laaye usko sitamgar
+  Haaye ye ghurbat binte Ali ki, Shaam ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+
+  6
+  Kitne hi qaidi jitney churaye, aaj woh bibi sar ko jhukaaye
+  Eik rida ki ban ke sawali, Shaam ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+
+  7
+  Socho woh manzar Sarwar-o-Rehan, bhaai ho jiska waarise Quran
+  Kaise woh bibi ashk bahaati, Shaam ko qaidi ban ke chali hay
+  Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
 ---
 
-Shaam ko qaidi ban kay chali hai
+شام کو قیدی بن کے چلی ہے
 
-1
-Pyaare Nabi Ki Pyaari Nawasi, Shaam ko qaidi ban ke chali hay
-Sabr ki malka zehra ki pyaari, Sham ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۱
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
+صبر کی ملکہ زہرا کی پیاری، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
 
-2
-Dekh rahi haykoi to aaey, shaana pakar kar kaash bithaaye
-Na haysawaari na hayamaari, Shaam ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۲
+دیکھ رہی ہے کوئی تو آئے، شانہ پکڑ کر کاش بٹھائے
+نہ ہے سواری نہ ہے عماری، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
 
-3
-Bhaai bhateeje bhaanje bete, Saath watan se aayi thi leke
-Haaye muqaddar aaj akeli, Shaam ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۳
+بھائی بھتیجے بھانجے بیٹے، ساتھ وطن سے آئی تھی لے کے
+ہائے مقدر آج اکیلی، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
 
-4
-Beton ko sadqa bhaai pe karke, jisne kiye thayshukr ke sajda
-Chhor ke tanha laash ko uski, Shaam ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۴
+بیٹوں کو صدقہ بھائی پہ کر کے، جس نے کیے تھے شکر کے سجدہ
+چھوڑ کے تنہا لاش کو اس کی، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
 
-5
-Jiski kaneezein nikle na baahar, balwe mein laaye usko sitamgar
-Haaye ye ghurbat binte Ali ki, Shaam ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۵
+جس کی کنیزیں نکلے نہ باہر، بلوے میں لائے اس کو ستمگر
+ہائے یہ غربت بنتِ علی کی، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
 
-6
-Kitne hi qaidi jitney churaye, aaj woh bibi sar ko jhukaaye
-Eik rida ki ban ke sawali, Shaam ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۶
+کتنے ہی قیدی جتنے چھڑائے، آج وہ بی‌بی سر کو جھکائے
+ایک ردا کی بن کے سوالی، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے
 
-7
-Socho woh manzar Sarwar-o-Rehan, bhaai ho jiska waarise quran
-Kaise woh bibi ashk bahaati, Shaam ko qaidi ban ke chali hay
-Pyaare Nabi ki pyaari nawasi, Shaam ko qaidi ban ke chali hai
+۷
+سوچو وہ منظر سرور و ریحان، بھائی ہو جس کا وارثِ قرآن
+کیسے وہ بی‌بی اشک بہاتی، شام کو قیدی بن کے چلی ہے
+پیارے نبی کی پیاری نواسی، شام کو قیدی بن کے چلی ہے

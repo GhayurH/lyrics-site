@@ -11,17 +11,17 @@ aliases:
   - "Paya Ghazi Husain Ne"
 published: true
 romanLyrics: |-
-  Paya Ghazi Husain ne, tasbihoṅ meiṅ wafa wafa keh ke
+  Paaya Ghazi Husain ne, tasbihoṅ meiṅ wafa wafa keh ke
   Chehra Ghazi ka chumti haiṅ, Aaliya bhi Khuda Khuda keh ke
 
   1
   Tere lab par meri gawahi hai
-  Kya tabiyat meiṅ tu Ilahi hai
+  Kya taba'iyyat meiṅ tu Ilahi hai
   Ban ke Zahra bulaauṅ gi
   Tumheiṅ Ghazi rida rida keh ke
 
   2
-  Sab ko mushkil se jo bachata hai
+  Sab ko mushkil se jo bachaata hai
   Khud Khuda ke jo kaam aata hai
   Lori deta hai woh Ali
   Tumheiṅ Mushkil Kusha Kusha keh ke
@@ -29,13 +29,13 @@ romanLyrics: |-
   3
   Chaar Shaban ki ghari aayi
   Bolo Zainab ke ae mere bhai
-  Rab se manga tha maa ne tujhe
+  Rab se maanga tha maaṅ ne tujhe
   Rab ne bheja tha ata ata keh ke
 
   4
-  Karbala ab ke mujhe jana hai
-  Tere roze pe sar jhukana hai
-  Roz Mahin mangti hai dua
+  Karbala ab ke mujhe jaana hai
+  Tere rauze pe sar jhukaana hai
+  Roz Maahin maangti hai dua
   Mujh ko Ghazi bula bula keh ke
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "الوداع الوداع الوداع الوداع"
-alternateTitle: "Zainabe Hazineman"
+alternateTitle: "Zainab-e-Hazin-e-Man"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Alwida alwida alwida alwida
-  Khwahara khuda hafiz
-  Alwida behen zainab alwida behen zainab
-  Zainab-e-hazin-e-man khwahara khuda hafiz
-  Alwida dureeda tan alwida dureeda tan
-  Zainab-e-hazin-e-man khwahara khuda hafiz
-  Man ke bi alamdaram bemueeno beyaram
-  Az hayate bezaaram khwahara khuda hafiz
-  Zainab-e-hazin-e-man khwahara khuda hafiz
-  Ae meri bahan zainab ghar tere hawale hai
-  Jo laayeq-e-sajda hai sar uske hawale hai
-  Bas chalne ko hai khanjar khwahara khuda hafiz
-  Kehna mere nana se ghar baar lutaya hai
-  Is tarha nawase ne waade ko nibhaya hai
-  Sar hai mera naize par khwahara khuda hafiz
-  Man ke bi alamdaram bemueeno beyaram
-  Az hayate bezaaram khwahara khuda hafiz
-  Zainab-e-hazin-e-man khwahara khuda hafiz
-  Tum baad mere zainab mushkil se na ghabrana
-  Abbas e jari ban kar har zulm se takrana
-  E jaan o dil e hyder khwahara khuda hafiz
-  Man ke bi alamdaram bemueeno beyaram
-  Az hayate bezaaram khwahara khuda hafiz
-  Zainab-e-hazin-e-man khwahara khuda hafiz
-  Zainab meri beti ko har gham se bacha lena
-  Jab roye sakina to godi meiṅ sula lena
-  Kamsin hai meri dukhtar khwahara khuda hafiz
-  Man ke bi alamdaram bemueeno beyaram
-  Az hayate bezaaram khwahara khuda hafiz
-  Zainab-e-hazin-e-man khwahara khuda hafiz
-  Alwida dureeda tan alwida dureeda tan
-  Khwahara khuda hafiz khwahara khuda hafiz
-  Zainab-e-hazin-e-man khwahara khuda hafiz
+  Alwidaa alwidaa alwidaa alwidaa
+  Khwaahara Khuda hafiz
+  Alwidaa bahan Zainab alwidaa bahan Zainab
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
+  Alwidaa darida tan alwidaa darida tan
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
+  Man ke bi alamdaaram be muin o be yaaram
+  Az hayaat-e-bezaaram khwaahara Khuda hafiz
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
+  Ae meri bahan Zainab ghar tere hawaale hai
+  Jo laaiq-e-sajda hai sar us ke hawaale hai
+  Bas chalne ko hai khanjar khwaahara Khuda hafiz
+  Kehna mere naana se ghar baar lutaaya hai
+  Is tarah nawaase ne waade ko nibhaaya hai
+  Sar hai mera neze par khwaahara Khuda hafiz
+  Man ke bi alamdaaram be muin o be yaaram
+  Az hayaat-e-bezaaram khwaahara Khuda hafiz
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
+  Tum baad mere Zainab mushkil se na ghabraana
+  Abbaas-e-jari ban kar har zulm se takraana
+  Ae jaan o dil-e-Haidar khwaahara Khuda hafiz
+  Man ke bi alamdaaram be muin o be yaaram
+  Az hayaat-e-bezaaram khwaahara Khuda hafiz
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
+  Zainab meri beti ko har gham se bachaa lena
+  Jab roye Sakina to godi meiṅ sulaa lena
+  Kam sin hai meri dukhtar khwaahara Khuda hafiz
+  Man ke bi alamdaaram be muin o be yaaram
+  Az hayaat-e-bezaaram khwaahara Khuda hafiz
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
+  Alwidaa darida tan alwidaa darida tan
+  Khwaahara Khuda hafiz khwaahara Khuda hafiz
+  Zainab-e-hazin-e-man khwaahara Khuda hafiz
 ---
 
 ۱

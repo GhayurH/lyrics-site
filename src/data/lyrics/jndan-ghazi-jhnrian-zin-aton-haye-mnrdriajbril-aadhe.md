@@ -7,6 +7,45 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jandaaṅ Ghazi jhanriyaaṅ zin utoṅ haaye manr dariya Jabril aadhe
+  Uṅ vele lahe lahe vendi haai har paak rida Jabril aadhe
+
+  1
+  Abbas da qaatil khaimaaṅ doṅ piya aande burqe lutnar kite
+  Sajjad di kand pichhoṅ aanr luki har hik Zaahra Jabril aadhe
+
+  2
+  Ashaab-e-Rasul ne Yashrab vich jiveṅ dar-e-tathir jalaaya ha
+  Main aap dithi hai jaldi hoi unveṅ khaimagaah Jabril aadhe
+
+  3
+  Jendi amri de haq mehr de vich ae kul taare dariya saare
+  Uha puttar Batul da maqtal vich kus gae piyaasa Jabril aadhe
+
+  4
+  Hath rassiyaaṅ pa ke tur pai ae chaadar lutva ke tur pai ae
+  Haaye bhain aathaaraaṅ veeraaṅ di aaj Shaam de raah Jabril aadhe
+
+  5
+  Main aap sunreṅ vich maqtal de hik bahe kuṅ Shaami aadhe han
+  Jiveṅ dil aadhe unveṅ Zainab da lut lo burqa Jabril aadhe
+
+  6
+  Har Sain de vain buland thi gae Sajjad de akhiyaaṅ band thi gae
+  Sajjad Sakina neṅ labhdi vich maqtalgaah Jabril aadhe
+
+  7
+  Unoṅ Ghazi jhanriyaaṅ zin utoṅ inoṅ lut pe gai khiyaam de vich
+  Koi chaadraaṅ aanr bachaave aakhe Sain Fiza Jabril aadhe
+
+  8
+  Hanr apnreṅ apnreṅ chaadar di har Sain hanr aap muhaafiz hai
+  Meda jhanr giya zaamin pardiyaaṅ da aakhe Aun di maaṅ Jabril aadhe
+
+  9
+  Faisal Shabbir kuṅ baahaj kafan Zainab kuṅ dekh ke baahaj rida
+  Sar saang te neṅ hasvaar thiya haaye Ghazi da Jabril aadhe
 ---
 
 جنڈاں غازی جھنڑیاں زین اُتوں ہائے منڑدریاجبریل آدھے

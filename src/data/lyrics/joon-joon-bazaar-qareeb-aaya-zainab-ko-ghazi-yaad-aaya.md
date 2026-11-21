@@ -9,86 +9,48 @@ reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Joon joon bazaar qareeb aaya
-
+romanLyrics: |-
+  Haaye Zainab haaye haaye Shaam
+  Haaye Zainab haaye haaye Shaam
 
   1
-
+  Juṅ juṅ bazaar qareeb aaya
   Zainab ko Ghazi yaad aaya
 
-  Hathon se ya phir balon se, chehre ko chupale shehzadi
-
-  Ye Shaam shehr ki galiyan hain, dil thaam le ay aaqa zadi
-
-  Fizza ne jab ye batlaya, Zainab ko Ghazi yaad aaya
-
-
   2
-
-  Mahol sharabi jab dekha
-
-  Baba ki wasiyat yaad aayi
-
-  Koi to mujhe chadar la de
-
-  Honton pe yehi faryad aayi
-
-  Jab koi nahi chadar laaya
-
+  Haathoṅ se ya phir baaloṅ se chehre ko chhupa le shehzadi
+  Ye Shaam shehr ki galiyaaṅ haiṅ dil thaam le ae aaqa zadi
+  Fizza ne jab ye batlaaya, Zainab ko Ghazi yaad aaya
+  Juṅ juṅ bazaar ...
 
   3
-
-  Phir shaam ke logon ne badla
-
-  Ajdaad ka yun zainab se liya
-
-  Chadar cheeni pathar maare
-
-  Aur garm kabhi pani phaynka
-
-  Durra jo sakina ne khaaya
-
+  Maahaul sharabi jab dekha Baba ki wasiyat yaad aayi
+  Koi to mujhe chaadar la de hontoṅ pe yahi faryaad aayi
+  Jab koi nahiṅ chaadar laaya, Zainab ko Ghazi yaad aaya
 
   4
-
-  Abbas kahan hai aey Zainab, jab shimr haqarat se bola
-
-  Ghash khanay lagay sab ahle haram, Kulsoom pukari wa vaila
-
-  Sajjad ko yasrab yaad aaya, Zainab ko Ghazi yaad aaya
-
+  Phir Shaam ke logoṅ ne badla ajdaad ka yuṅ Zainab se liya
+  Chaadar chhini patthar maare aur garm kabhi paani phenka
+  Durra jo Sakina ne khaaya, Zainab ko Ghazi yaad aaya
 
   5
-
-  Khamosh rahi aulad e nabi
-
-  Karbal se yahan tak zulm saha
-
-  Khooli ye manadi karne laga
-
-  Ye kunba hai ek baaghi ka
-
-  Mazloom jo baaghi keh laaya
-
+  Abbas kahaaṅ hai ae Zainab jab Shimr haqaarat se bola
+  Ghash khaane lage sab ahl-e-haram Kulsoom pukaari waawaila
+  Sajjaad ko Yasrab yaad aaya, Zainab ko Ghazi yaad aaya
 
   6
-
-  Har gaam naya ek zulm hua
-
-  Lachaar musafir zainab par
-
-  Zainab ko rulaya zaalim ne
-
-  Naaqon ke kareeb naiza laa kar
-
-  Shabbir ka sar jo dikhlaya
-
+  Khaamosh rahi aulaad-e-Nabi Karbal se yahaaṅ tak zulm saha
+  Khauli ye munaadi karne laga ye kunba hai ik baaghi ka
+  Mazlum jo baaghi kehlaaya, Zainab ko Ghazi yaad aaya
 
   7
+  Har gaam naya ik zulm hua laachaar musaafir Zainab par
+  Zainab ko rulaaya zaalim ne naaqoṅ ke qariṅ neza laa kar
+  Shabbir ka sar jo dikhlaaya, Zainab ko Ghazi yaad aaya
 
-  Farhan qayamat ka gham hai, Mazhar ne likha hai kya nauha
-
-  Shabbir bina Abbas bina, ye pehla safar tha Zainab ka'
+  8
+  Farhan qayaamat ka gham hai Mazhar ne likha hai kya nauha
+  Shabbir bina Abbas bina ye pehla safar tha Zainab ka
 ---
 
 ہائے زہنب ہائے ہائے شام

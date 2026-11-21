@@ -1,34 +1,59 @@
 ---
-title: "Kaha Sakina Ne Zainab Se"
+title: "کہا سکینہ نے زینب سے"
+alternateTitle: "Kaha Sakina Ne Zainab Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kaha Sakina ne Zainab se yeh batao phophi
+  Hamarey khaimay logon ne kyun jalaye hain
+
+  2
+  Bataon gi mere chacha ko zarra aane do
+  Aye Shimar tu ne tamachay mujhe lagaye hain
+
+  3
+  Khata thi kya mere baba ki kya tha jurm kiya
+  Keh teer baba pe ummat ne kyun chalaye hain
+
+  4
+  They teer itnay badan mein Sakina mil na saki
+  Hussain seene pe beti sula na paye hain
+
+  5
+  Charag deen-e-Muhammad ka bhuja detey yeh loag
+  Diye woh khon se Shabeer ne jalaye hain
+
+  6
+  Chali hai qaid nibhanay ko haye Bint-e-Ali
+  Rida bhi sar pe nahi hathoon mein rasan paye hain
 ---
 
-1
-Kaha Sakina Ne Zainab Se Yeh Batao Phophi.
-Hamarey Khaimay Logon Ne Kyun Jalaye Hain.
+۱
+کہا سکینہ نے زینب سے یہ بتاؤ پھوپھی
+ہمارے خیمے لوگوں نے کیوں جلائے ہیں
 
-2
-Bataon Gi Mere Chacha Ko Zarra Aane Do.
-Aye Shimar Tu Ne Tamachay Mujhe Lagaye Hain.
+۲
+بتاؤں گی میرے چچا کو ذرا آنے دو
+اے شمر تو نے تماچے مجھے لگائے ہیں
 
-3
-Khata Thi Kya Mere Baba Ki Kya Tha Jurm Kiya.
-Keh Teer Baba Pe Ummat Ne Kyun Chalaye Hain.
+۳
+خطا تھی کیا میرے بابا کی کیا تھا جرم کیا
+کہ تیر بابا پہ امت نے کیوں چلائے ہیں
 
-4
-They Teer Itnay Badan Mein Sakina Mil Na Saki.
-Hussain Seene Pe Beti Sula Na Paye Hain.
+۴
+تھے تیر اتنے بدن میں سکینہ مل نہ سکی
+حسین سینے پہ بیٹی سلا نہ پائے ہیں
 
-5
-Charag Deen-e-Muhammad Ka Bhuja Detey Yeh Loag.
-Diye Woh Khon Se Shabeer Ne Jalaye Hain.
+۵
+چراغ دینِ محمد کا بجھا دیتے یہ لوگ
+دیے وہ خون سے شبیر نے جلائے ہیں
 
-6
-Chali Hai Qaid Nibhanay Ko Haye Bint-e-Ali.
-Rida Bhi Sar Pe Nahi Hathoon Mein Rasan Paye Hain.
+۶
+چلی ہے قید نبھانے کو ہائے بنتِ علی
+ردا بھی سر پہ نہیں ہاتھوں میں رسن پائے ہیں

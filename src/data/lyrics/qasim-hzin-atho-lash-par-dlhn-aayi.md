@@ -8,52 +8,33 @@ poet: "Ali Fitrat"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Qasime hazeen utho laash par dulhan aayi
-
+romanLyrics: |-
+  Qaasim-e-haziṅ utho laash par dulhan aayi
 
   1
-
-  Yaas ne ye laashe par apni godh phailayi
-
-  Taregire hasti se maut bhi ye ghabrayi
-
-  Maa sarhane kehti hai jaag leke angrrayi
-
+  Yaas ne ye laashe par apni god phailaayi
+  Taare gire hasti se maut bhi ye ghabraayi
+  Maaṅ sarhaane kehti hai jaag le ke angraayi
 
   2
-
   Bewagi ke aalam ki zindagi musibat hai
-
-  Maang may kahan sandal khaake khoon se zeenat hai
-
-  Choor sheeshaye dil hai paara paara qismat hai
-
+  Maang mein kahaaṅ sandal khaak-e-khuṅ se zinat hai
+  Chur shisha-e-dil hai paara paara qismat hai
 
   3
-
   Baandh kar gaye sehra jang ki ye qismat thi
-
-  Kya hamare hissay may hun chaka mohabbat thi
-
-  Maut bangayi shadi reet kya qayamat thi
-
+  Kya hamaare hisse mein huṅ chaka mohabbat thi
+  Maut ban gayi shaadi rit kya qayaamat thi
 
   4
-
-  Jism ke ye tukde hai deene haq ke sheh-pare
-
-  Kaise jode aaza ko zulm-o-jaur ke maare
-
-  Apni majlise gham ke tum bhi karlo nazzare
-
+  Jism ke ye tukre haiṅ din-e-haq ke shah paare
+  Kaise jore aaza ko zulm o jaur ke maare
+  Apni majlis-e-gham ke tum bhi kar lo nazaare
 
   5
-
-  Nau uroos ko yun bhi koi eeza deta hai
-
-  Chunke phool zakhmo ka kaun tohfa deta hai
-
-  Gham ke bhi Ali fitrat koi hadya deta hai'
+  Lo arus ko yuṅ bhi koi iza deta hai
+  Chun ke phul zakhmoṅ ka kaun tohfa deta hai
+  Gham ke bhi Ali Fitrat koi hadiya deta hai
 ---
 
 قاسمِؑ حزیں اُٹھو لاش پر دولہن آئی

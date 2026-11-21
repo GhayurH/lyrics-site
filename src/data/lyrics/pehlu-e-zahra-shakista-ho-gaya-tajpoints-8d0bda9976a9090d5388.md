@@ -1,37 +1,64 @@
 ---
-title: "Pehlu E Zahra Shakista Ho Gaya"
+title: "پہلوئے زہرا شکستہ ہو گیا"
+alternateTitle: "Pehlu-e-Zahra Shakista Ho Gaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zaair"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Khush Madina aaj sara ho gaya
+
+  1
+  Zulm ummat ne kiya kuch iss tarha
+  Mustafa ka zakhm gehra ho gaya
+  Aa ke baba dekh bolein Syeda
+  Haal Zahra ka teri kya ho gaya
+  Hain tamachay bhi lagay munh pe mere
+  Dekh yeh rukhsar neela ho gaya
+
+  2
+  Mujh ko jhutlaya gaya darbar mein
+  Youn teri masnad pe qabza ho gaya
+  Ho gaye purzay teri tehreer ke
+  Be murawat youn zamana ho gaya
+  Kar liya qaidi Ali ko bhi yahan
+  Baba tera bhai tanha ho gaya
+
+  3
+  Woh rahe baithay khari Zahra rahi
+  Be haya har koi baba ho gaya
+  Parh nahi sakti main tasbeeh dekh lo
+  Hath saqat hai yeh mera ho gaya
+  Aaj tak Zaair sitam na ruk sakay
+  Qabar-e-Zahra pe bhi pehra ho gaya
 ---
 
-Khush Madina Aaj Sara Ho Gaya.
+خوش مدینہ آج سارا ہو گیا
 
-1
-Zulm Ummat Ne Kiya Kuch Iss Tarha.
-Mustafa Ka Zakhm Gehra Ho Gaya.
-Aa Ke Baba Dekh Bolein Syeda.
-Haal Zahra Ka Teri Kya Ho Gaya.
-Hain Tamachay Bhi Lagay Munh Pe Mere.
-Dekh Yeh Rukhsar Neela Ho Gaya.
+۱
+ظلم امت نے کیا کچھ اس طرح
+مصطفیٰ کا زخم گہرا ہو گیا
+آ کے بابا دیکھ بولیں سیدہ
+حال زہرا کا تیری کیا ہو گیا
+ہیں تماچے بھی لگے منہ پہ میرے
+دیکھ یہ رخسار نیلا ہو گیا
 
-2
-Mujh Ko Jhutlaya Gaya Darbar Mein.
-Youn Teri Masnad Pe Qabza Ho Gaya.
-Ho Gaye Purzay Teri Tehreer Ke.
-Be Murawat Youn Zamana Ho Gaya.
-Kar Liya Qaidi Ali Ko Bhi Yahan.
-Baba Tera Bhai Tanha Ho Gaya.
+۲
+مجھ کو جھٹلایا گیا دربار میں
+یوں تیری مسند پہ قبضہ ہو گیا
+ہو گئے پرزے تیری تحریر کے
+بے مروت یوں زمانہ ہو گیا
+کر لیا قیدی علی کو بھی یہاں
+بابا تیرا بھائی تنہا ہو گیا
 
-3
-Woh Rahe Baithay Khari Zahra Rahi.
-Be Haya Har Koi Baba Ho Gaya.
-Parh Nahi Sakti Main Tasbeeh Dekh Lo.
-Hath Saqat Hai Yeh Mera Ho Gaya.
-Aaj Tak Zaair Sitam Na Ruk Sakay.
-Qabar-e-Zahra Pe Bhi Pehra Ho Gaya.
+۳
+وہ رہے بیٹھے کھڑی زہرا رہی
+بے حیا ہر کوئی بابا ہو گیا
+پڑھ نہیں سکتی میں تسبیح دیکھ لو
+ہاتھ ساقط ہے یہ میرا ہو گیا
+آج تک زائر ستم نہ رک سکے
+قبرِ زہرا پہ بھی پہرا ہو گیا

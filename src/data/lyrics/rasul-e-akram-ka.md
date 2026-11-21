@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Chhaayi Kaabe par udaasi hil gaya arsh-e-bariṅ
-  Jab Husain ibn-e-Ali Ae Khuda maara gaya
+  Jab Husain ibn-e-Ali ae Khuda maara gaya
 
   4
   Roti hai Kulsum o Zainab laasha-e-Shabbir pe

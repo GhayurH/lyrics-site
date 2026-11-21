@@ -1,0 +1,37 @@
+---
+title: "Salam Ya Zainab Shahid Baltistani"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Takallum"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+Salam Ya Zainab Shahid Baltistani
+
+1
+Manqabat Teri Rasolon Ne Parhi Hai Zainab.
+Tu Imamo Ke Liye Nad-e-Ali Hai Zainab.
+Meri Nazron Mein Tu Mairaj Wohi Hai Zainab.
+Tere Lehjay Mein Jahan Baat Hoi Hai Zainab.
+Pehli Shaban Ko Aayi Hai Zamane Mein Magar.
+Teen Shaban Ko Dunya Mein Hansi Hai Zainab.
+
+2
+Umar Mein Hazrat-e-Shabeer Se Choti Hai Magar.
+Aaj Tak Tey Na Howa Kitni Bari Hai Zainab.
+Sahib Al-Amr Ki Beti Hai Rasan Kya Shay Hai.
+Sirf Shabeer Ke Waday Se Bandhi Hai Zainab.
+Waqt Saktay Mein Hawa Chup Hai Zabanein Khamosh.
+Ho Ka Aalam Hai Keh Tu Bool Rahi Hai Zainab.
+
+3
+Kar Ke Darbar Mein Shabeer Ka Matam Aye Yazid.
+Tere Ghar Mein Hi Tujhey Mar Rahi Hai Zainab.
+Naam Jis Waqt Muhammad Ka Moazin Ne Liya.
+Khud Azano Ne Kaha Jeet Gayi Hai Zainab.
+Aayi Khushiyaan Bhi Wahan Le Ke Takallum Kashkool.
+Gham-e-Shabeer Jahan Bant Rahi Hai Zainab.

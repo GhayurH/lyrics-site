@@ -1,74 +1,138 @@
 ---
-title: "Qasim Kamal E Khaliq E Akbar Ka Naam Hai"
+title: "قاسم کمالِ خالقِ اکبر کا نام ہے"
+alternateTitle: "Qasim Kamal-e-Khaliq-e-Akbar Ka Naam Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Ahmad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qasim kamal e khaliq e Akbar ka naam hai
+  Qasim jamal-o-husan-e-Payamber ka naam hai
+
+  1
+  Qasim jalal-o-haibat e Haider ka naam hai
+  Qasim misal e sirat e Shabbar ka naam hai
+  Qasim namaz-e-ishq e Hussain-e-wali howa
+  Abbas-e-bawafa ki tarha yeh Ali howa
+
+  2
+  Maula Hasan ki khas duaon ka hai samar
+  Farwa ki ummar bhar ka asasa-o-lal-o-zar
+  Taqat Abu Turab ki Abbas ka asar
+  Shabbir ke har aik iraday se ba khabar
+
+  3
+  Kam sin ne jaisay samjhi hai gayat Hussain ki
+  Aisay karey ga kaun himayat Hussain ki
+  Qasim woh zaat hai jo kamal-e-khudai hai
+  Aizaz yeh bhi hai keh yeh Akbar ka bhai hai
+
+  4
+  Sorat Khuda ne dono ki aisi banai hai
+  Woh shakal-e-Mustafa hai yeh noor-e-khudai hai
+  Pala hai jis ko badshah-e-Mashraqain ne
+  Sikhlaye toor e taig jissay khud Hussain ne
+
+  5
+  Qasim shabeeh e husan-o-jamal-e-Khuda ho tum
+  Tum bazoye Abbas ho, mushkil kusha ho tum
+  Haibat mein misal e sani-e-shair-e-Khuda ho tum
+  Iss foaj-e-bad nasab ko bata do keh kya ho tum
+
+  6
+  Hamla karo keh sorat e batil bigar do
+  Dasht-e-wiga mein Arzaq e Shami ko gaarh do
+  Aaya jo ran mein quwat e Karrar ka nishaan
+  Kanpi zameen hilne lagay saton aasmaan
+
+  7
+  Woh ghaiz woh junoon e adawat keh al-amaan
+  Aisi chalai taig nikali addo ki jaan
+  Kar ke tabah, lashkar-e-batil ujaar ke
+  Tukray howa Hussain ke dushman pachar ke
+
+  8
+  Zeen se gira zameen pe haye Hasan ka lal
+  Ik shoor howa zindah na jaye Hasan ka lal
+  Ammo ko apne kaisay bulaye Hasan ka lal
+  Ronda gaya zameen pe haye Hasan ka lal
+
+  9
+  Foaj-e-jafa idhar ki udhar dorti rahi
+  Har ik azoye jism e jawaan torti rahi
+  Terah baras ke sheer ka lasha bikhar gaya
+  Farzand e Mujtaba ka janaza bikhar gaya
+
+  10
+  Farwa ki ummar bhar ka asasa bikhar gaya
+  Haye woh teen roz ka pyasa bikhar gaya
+  Ahmad jawaan ke tukray utha kar Hussain ne
+  Giriya kiya youn dasht mein ja kar Hussain ne
 ---
 
-Qasim Kamal e Khaliq e Akbar Ka Naam Hai.
-Qasim Jamal-o-Husan-e-Payamber Ka Naam Hai.
+قاسم کمالِ خالقِ اکبر کا نام ہے
+قاسم جمال و حسنِ پیمبر کا نام ہے
 
-1
-Qasim Jalal-o-Haibat e Haider Ka Naam Hai.
-Qasim Misal e Sirat e Shabbar Ka Naam Hai.
-Qasim Namaz-e-Ishq e Hussain-e-Wali Howa.
-Abbas-e-Bawafa Ki Tarha Yeh Ali Howa.
+۱
+قاسم جلال و ہیبتِ حیدر کا نام ہے
+قاسم مثالِ سیرتِ شبر کا نام ہے
+قاسم نمازِ عشقِ حسینِ ولی ہوا
+عباسِ باوفا کی طرح یہ علی ہوا
 
-2
-Maula Hasan Ki Khas Duaon Ka Hai Samar.
-Farwa Ki Ummar Bhar Ka Asasa-o-Lal-o-Zar.
-Taqat Abu Turab Ki Abbas Ka Asar.
-Shabbir Ke Har Aik Iraday Se Ba Khabar.
+۲
+مولا حسن کی خاص دعاؤں کا ہے ثمر
+فروہ کی عمر بھر کا اثاثہ و لعل و زر
+طاقت ابو تراب کی عباس کا اثر
+شبیر کے ہر ایک ارادے سے باخبر
 
-3
-Kam Sin Ne Jaisay Samjhi Hai Gayat Hussain Ki.
-Aisay Karey Ga Kaun Himayat Hussain Ki.
-Qasim Woh Zaat Hai Jo Kamal-e-Khudai Hai.
-Aizaz Yeh Bhi Hai Keh Yeh Akbar Ka Bhai Hai.
+۳
+کم سن نے جیسے سمجھی ہے غایت حسین کی
+ایسے کرے گا کون حمایت حسین کی
+قاسم وہ ذات ہے جو کمالِ خدائی ہے
+اعزاز یہ بھی ہے کہ یہ اکبر کا بھائی ہے
 
-4
-Sorat Khuda Ne Dono Ki Aisi Banai Hai.
-Woh Shakal-e-Mustafa Hai Yeh Noor-e-Khudai Hai.
-Pala Hai Jis Ko Badshah-e-Mashraqain Ne.
-Sikhlaye Toor e Taig Jissay Khud Hussain Ne.
+۴
+صورت خدا نے دونوں کی ایسی بنائی ہے
+وہ شکلِ مصطفیٰ ہے یہ نورِ خدائی ہے
+پالا ہے جس کو بادشاہِ مشرقین نے
+سکھلائے طورِ تیغ جسے خود حسین نے
 
-5
-Qasim Shabeeh e Husan-o-Jamal-e-Khuda Ho Tum.
-Tum Bazoye Abbas Ho, Mushkil Kusha Ho Tum.
-Haibat Mein Misal e Sani-e-Shair-e-Khuda Ho Tum.
-Iss Foaj-e-Bad Nasab Ko Bata Do Keh Kya Ho Tum.
+۵
+قاسم شبیہِ حسن و جمالِ خدا ہو تم
+تم بازوئے عباس ہو، مشکل کشا ہو تم
+ہیبت میں مثالِ ثانیِ شیرِ خدا ہو تم
+اس فوجِ بد نسب کو بتا دو کہ کیا ہو تم
 
-6
-Hamla Karo Keh Sorat e Batil Bigar Do.
-Dasht-e-Wiga Mein Arzaq e Shami Ko Gaarh Do.
-Aaya Jo Ran Mein Quwat e Karrar Ka Nishaan.
-Kanpi Zameen Hilne Lagay Saton Aasmaan.
+۶
+حملہ کرو کہ صورتِ باطل بگاڑ دو
+دشتِ وغا میں ازرقِ شامی کو گاڑ دو
+آیا جو رن میں قوتِ کرار کا نشان
+کانپی زمین ہلنے لگے ساتوں آسمان
 
-7
-Woh Ghaiz Woh Junoon e Adawat Keh Al-Amaan.
-Aisi Chalai Taig Nikali Addo Ki Jaan.
-Kar Ke Tabah, Lashkar-e-Batil Ujaar Ke.
-Tukray Howa Hussain Ke Dushman Pachar Ke.
+۷
+وہ غیظ وہ جنونِ عداوت کہ الاماں
+ایسی چلائی تیغ نکالی عدو کی جان
+کر کے تباہ، لشکرِ باطل اجاڑ کے
+ٹکڑے ہوا حسین کے دشمن پچھاڑ کے
 
-8
-Zeen Se Gira Zameen Pe Haye Hasan Ka Lal.
-Ik Shoor Howa Zindah Na Jaye Hasan Ka Lal.
-Ammo Ko Apne Kaisay Bulaye Hasan Ka Lal.
-Ronda Gaya Zameen Pe Haye Hasan Ka Lal.
+۸
+زین سے گرا زمین پہ ہائے حسن کا لال
+اک شور ہوا زندہ نہ جائے حسن کا لال
+عمو کو اپنے کیسے بلائے حسن کا لال
+روندا گیا زمین پہ ہائے حسن کا لال
 
-9
-Foaj-e-Jafa Idhar Ki Udhar Dorti Rahi.
-Har Ik Azoye Jism e Jawaan Torti Rahi.
-Terah Baras Ke Sheer Ka Lasha Bikhar Gaya.
-Farzand e Mujtaba Ka Janaza Bikhar Gaya.
+۹
+فوجِ جفا ادھر کی ادھر دوڑتی رہی
+ہر اک عضوئے جسمِ جواں توڑتی رہی
+تیرہ برس کے شیر کا لاشہ بکھر گیا
+فرزندِ مجتبیٰ کا جنازہ بکھر گیا
 
-10
-Farwa Ki Ummar Bhar Ka Asasa Bikhar Gaya.
-Haye Woh Teen Roz Ka Pyasa Bikhar Gaya.
- Ahmad Jawaan Ke Tukray Utha Kar Hussain Ne.
-Giriya Kiya Youn Dasht Mein Ja Kar Hussain Ne
+۱۰
+فروہ کی عمر بھر کا اثاثہ بکھر گیا
+ہائے وہ تین روز کا پیاسا بکھر گیا
+احمد جواں کے ٹکڑے اٹھا کر حسین نے
+گریہ کیا یوں دشت میں جا کر حسین نے

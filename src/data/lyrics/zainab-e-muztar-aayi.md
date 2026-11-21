@@ -27,36 +27,36 @@ romanLyrics: |-
   2
   Jalti zamiṅ pe laasha para tha jo bekafan
   Roti tarapti reh gayi Shabbir ki behan
-  Bhai ko ban meiṅ chhor ke ammaaṅ
+  Bhai ko ban mein chhor ke ammaaṅ
   Zainab-e-muztar aayi hai
 
   3
-  Qasim ki laash khaime meiṅ aayi hai jis ghari
+  Qasim ki laash khaime mein aayi hai jis ghari
   Farwa ye keh rahi thi sambhaale mujhe koi
   Us ko dilaasa de ke ammaaṅ
   Zainab-e-muztar aayi hai
 
   4
   Karbobala ka manzar nahiṅ bhul paauṅ gi
-  Apne gharib bhai ka maiṅ gham manaauṅ gi
-  Shah ka pursa lene ammaaṅ
+  Apne gharib bhai ka main gham manaauṅ gi
+  Shaah ka pursa lene ammaaṅ
   Zainab-e-muztar aayi hai
 
   5
-  Kufe meiṅ qaidi ban ke jis waqt hum gaye
+  Kufe mein qaidi ban ke jis waqt hum gaye
   Muslim ke sar ko dekh ke Sajjad ro diye
   Bhai ko khwahar ro ke ammaaṅ
   Zainab-e-muztar aayi hai
 
   6
   Khaime bhi jal gaye meri chaadar bhi chhin gayi
-  Bemaqna berida maiṅ baazaar meiṅ gayi
+  Bemaqna berida main baazaar mein gayi
   Chehra chhupa kar Shaam se ammaaṅ
   Zainab-e-muztar aayi hai
 
   7
-  Zakhmoṅ ko kis tarah se dikhaauṅ gi maiṅ tumheṅ
-  Jo zulm hum pe dhaaye haiṅ zaalim ne Shaam meiṅ
+  Zakhmoṅ ko kis tarah se dikhaauṅ gi main tumheṅ
+  Jo zulm hum pe dhaaye haiṅ zaalim ne Shaam mein
   Kaantoṅ pe chal ke Shaam se ammaaṅ
   Zainab-e-muztar aayi hai
 

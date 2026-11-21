@@ -13,39 +13,39 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Ran se jab kha ke sinaaṅ Akbar-e-Zi Shaan aaye
-  Maaṅ ki khidmat meiṅ koi aan ke mehmaaṅ aaye
-  Ghar meiṅ laashe ko liye Shaah-e-Shahidaaṅ aaye
+  Ran se jab kha ke sinaaṅ Akbar zi shaan aaye
+  Maaṅ ki khidmat mein koi aan ke mehmaaṅ aaye
+  Ghar mein laashe ko liye Shaah-e-shahidaaṅ aaye
   Nauhagar khaak basar chaak garebaaṅ aaye
-  Di sadaa qatl hue Yusuf-e-Saani Baano
-  Mil gayi khaak meiṅ Akbar ki jawaani Baano
+  Di sadaa qatl hue Yusuf-e-saani Baano
+  Mil gayi khaak mein Akbar ki jawaani Baano
 
   2
   Dekh le aakhri didaar pisar marta hai
   Saamne aankhoṅ ke ye nur-e-nazar marta hai
-  Ab koi dam meiṅ mera rashk-e-qamar marta hai
-  Muṅh se baahar hai zabaaṅ tashna jigar marta hai
-  Dam hai sine meiṅ ruka zakhmoṅ se khuṅ jaari hai
+  Ab koi dam mein mera rashk-e-qamar marta hai
+  Muṅh se baahar hai zabaaṅ tashna-e-jigar marta hai
+  Dam hai sine mein ruka zakhmoṅ se khuṅ jaari hai
   Shahr Baano tera ghar lutne ki tayyaari hai
 
   3
-  Pahunchi khaime meiṅ jo Hazrat ki ye pur dard sadaa
-  Muztarib ho gaye naamus-e-Rasul-e-Do Sara
+  Pahunchi khaime mein jo Hazrat ki ye pur dard sadaa
+  Muztarib ho gaye naamus-e-Rasul-e-do saraa
   Kaha chilla ke Sakina ne ke haaye haaye bhaiya
   Fizza dauri su-e-dar phenk ke sar par se ridaa
-  Pitti Zainab-e-Muztar nikal aayi baahar
+  Pitti Zainab-e-muztar nikal aayi baahar
   Baano ghabra ke khule sar nikal aayi baahar
 
   4
   Shah ke kaandhe pe jo dekha Ali Akbar ko nidhaal
   Haath phaila ke ye chillaayi ke haaye haaye mere laal
-  Kya ghazab ho gaya ae Baadshaah-e-Nek Khisaal
+  Kya ghazab ho gaya ae baadshaah-e-nek khisaal
   Raas aaya na mere bachche ko athaarahwaaṅ saal
   Tukre teghoṅ se badan ho gaya saara haaye haaye
   Kaun tha jis ne mere sher ko maara haaye haaye
 
   5
-  Ro ke Baano se ye farmaane lage Sarwar-e-Diṅ
+  Ro ke Baano se ye farmaane lage sarwar-e-diṅ
   Sar na pito abhi zinda hai mera maah-e-jabiṅ
   Saans aati hai pe har dam hai dam-e-baad-e-pasiṅ
   Kuch in ka bhi hai aur ham bhi haiṅ marne ke qariṅ
@@ -64,22 +64,22 @@ romanLyrics: |-
   Baal kiuṅ bikhre haiṅ kiuṅ phenk di sar par se ridaa
   Nil kiuṅ sine pe hai kiuṅ hai garebaan phata
   Khaak kiuṅ muṅh pe mali ho ye pisar tum pe fidaa
-  Shaah duniya meiṅ salaamat rahe ye kya ye kya
+  Shaah duniya mein salaamat rahe ye kya ye kya
   Lut gayi ye na sukhan muṅh se nikaalo ammaaṅ
-  Maiṅ to jita huṅ kaleje ko sambhaalo ammaaṅ
+  Main to jita huṅ kaleje ko sambhaalo ammaaṅ
 
   8
   Zakhmi hone ki mere kis ne khabar pahunchaayi
-  Jhut hai maiṅ ne to hargiz nahiṅ barchhi khaayi
+  Jhut hai main ne to hargiz nahiṅ barchhi khaayi
   Aap tak bete ko taqdir salaamat laayi
-  Dekh ke Hazrat ke qadam tan meiṅ meri jaan aayi
+  Dekh ke Hazrat ke qadam tan mein meri jaan aayi
   Marg se pehle ho maatam ye zabuṅ hai ammaaṅ
   Mere kaproṅ pe to Abbaas ka khuṅ hai ammaaṅ
 
   9
   Boli Baano ke jo kehte ho Khudaa yuṅ hi kare
   Ae mere laal ye maaṅ teri balaa le ke mare
-  Laao dho daaluṅ maiṅ jo khun meiṅ kapre haiṅ bhare
+  Laao dho daaluṅ main jo khun mein kapre haiṅ bhare
   Chaand se haath haiṅ phir kis liye chhaati pe dhare
   Mujh ko maalum hua khalq se jaate ho tum
   Mere rone ke liye zakhm chhupaate ho tum
@@ -87,7 +87,7 @@ romanLyrics: |-
   10
   Baano sadme se na mar jaaye ye dar hai beta
   Sab tere dil ki mere dil ko khabar hai beta
-  Haaye sina ye tera khun meiṅ tar hai beta
+  Haaye sina ye tera khun mein tar hai beta
   Phir ye kya hai jo nahiṅ zakhm-e-jigar hai beta
   Sansanaata hai jigar jaan chali jaati hai
   Is lahu se to mere dudh ki bu aati hai
@@ -95,17 +95,17 @@ romanLyrics: |-
   11
   Aarzu hai ke phale phule mera naql-e-muraad
   Tum dulhan byaah ke laao mera ghar ho aabaad
-  Dekh luṅ aankhoṅ se apni maiṅ tumhaari aulaad
-  Phir maiṅ duniya se jo guzruṅ to rahe ruh bhi shaad
+  Dekh luṅ aankhoṅ se apni main tumhaari aulaad
+  Phir main duniya se jo guzruṅ to rahe ruh bhi shaad
   Daadi kehlaauṅ gi rutba mera bartar hoga
   Tera farzand bhi hamshakl-e-Payambar hoga
 
   12
   Aah ki sun ke ye Akbar ne basad ranj o malaal
-  Dard chhaati meiṅ utha ghair hua aur bhi haal
-  Dil meiṅ ye soch ke rone laga wo nek khisaal
+  Dard chhaati mein utha ghair hua aur bhi haal
+  Dil mein ye soch ke rone laga wo nek khisaal
   Ham safar karte haiṅ ammaaṅ ko hai shaadi ka khayaal
-  Bar meiṅ hoga kafan khaak pe chehra hoga
+  Bar mein hoga kafan khaak pe chehra hoga
   Na dulhan hogi na aulaad na sehra hoga
 ---
 ۱

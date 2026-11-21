@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Phuphiyoṅ ke bhi bandhe haath pas-e-gardan haiṅ
-  Wo bhala kaise meri aankhoṅ se aansu poṅchheṅ
+  Wo bhala kaise meri aankhoṅ se aansu ponchheṅ
   Besahaara huṅ yatimi ka kara mausam hai
   Apni surat to dikhaao Baba
 

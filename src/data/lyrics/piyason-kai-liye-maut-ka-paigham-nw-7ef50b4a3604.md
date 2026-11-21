@@ -8,23 +8,23 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Piyasoṅ kai liyai maut ka paighaam sahar hai
-  Chal jayai ga Shabbir ki gardan pai bhi khanjer.
+  Piyaasoṅ ke liye maut ka paighaam sahar hai
+  Chal jaae ga Shabbir ki gardan par bhi khanjar
 
-  Is raat chamaktai haiṅ falak per jo sitarai
-  Lut jayai ga aik roz maiṅ Zahra ka bhara ghar.
+  Is raat chamakte haiṅ falak par jo sitaare
+  Lut jaae ga ek roz meiṅ Zahra ka bhara ghar
 
-  Abbas kai shaanai bhi kalam hoṅ gai labai naher
-  Chin jaayi gi kal Zainab o Kulsum ki chadar.
+  Abbaas ki shaanaai bhi kalaam hoṅ ge labaae nahar
+  Chhin jaae gi kal Zainab o Kulsum ki chaadar
 
-  Jo sinai pai Shabbir kai soti hai Sakina
-  Dhundai gi na mil jayai gi lut jayaiṅ gain Gohar.
+  Jo sine par Shabbir ki soti hai Sakina
+  Dhundi gi na mil jaaeṅ ge lut jaaeṅ ge Gauhar
 
-  Bimar ka bister bhi adu kainchain gai aaker
-  Pehnayaiṅ gai bimar ko woh aahaiṅ nilangar.
+  Bimaar ka bistar bhi aadhoṅ kainchin gai aa kar
+  Pehnaaeṅ ge bimaar ko woh aaheiṅ nilangar
 
-  Yeh raat agar dhal gayi suraj nikal aya
-  Mur jhayai ga pardes maiṅ Zahra ka gulistar.
+  Yeh raat agar dhal gai suraj nikal aaya
+  Mar jaae ga pardes meiṅ Zehra ka gulistaaṅ
 ---
 
 پیاسوں کے لئے موت کا پیغام سحر ہے

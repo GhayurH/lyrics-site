@@ -1,56 +1,100 @@
 ---
-title: "Zainab Nu Har Qadam Te Karbalai Brothers Lyrics Punjabi 2022"
+title: "زینب نوں ہر قدم تے"
+alternateTitle: "Zainab Nu Har Qadam Te"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab nu har qadam te safraan che gham aye khaway
+
+  1
+  Tak haal bibiyaan da Sajjad mar na jaway
+  Ghazi da naam cha ke roway Batool jayi
+  Karday ne zulm aa ke jadon Sham de sipayi
+  Koi dendaye jhirkiyaan te koi neza mar jaway
+
+  2
+  Aakhay bibi haye zanjeeraan Abid nu ainj paiyaan ne
+  Beemar de badan wich paiwast ho gayiyaan ne
+  Abid nu kiwein Zainab zanjeeraan choon choraway
+  Kofay taun Sham tak haye kisay v ditti nayi chadar
+
+  3
+  Lokaan ne raj ke marey haye bibiyaan nu pathar
+  Sir zakhmi bibiyaan da Abid nu rat rowaway
+  Karbal taun Sham tak da kar ke safar ne aaye
+  Bagi nayi aye syed pyasay ne gham sataye
+
+  4
+  Mazloma nu koi te ghut pani da pilaway
+  Abid de zakhm tak ke ronday ne qaidi sare
+  Abid di kand te koray jadon Shimar aa ke marey
+  Oss welay ro ke Zainab Abbas nu bulaway
+
+  5
+  Roway Sajjad jis dam haas ke Shimar aye aakhay
+  Zainab nu marna aye ainu ainj wakha wakha ke
+  Ja ke qabar de wich v Sajjad wainr paway
+  Koi nayi zulm taun jehra zalim nu aanr rokay
+
+  6
+  Hasdaye Shimar kamina ohday samrein khalo ke
+  Rukhsar jad Sakina ohno wekh ke chupaway
+  Har ik qadam te aa ke majma sharabiyaan da
+  Abid de samrein haye Zainab nu ainj satanda
+
+  7
+  Bagi di bhainr keh ke har koi piya bulaway
+  Syedaniyaan de sir taun haye chadraan na landay
+  Zalim Asad ohna nu dar dar na haye phiranday
+  Chodah so saal taun aye gham sahnu haye rowaway
 ---
 
-Zainab Nu Har Qadam Te Karbalai Brothers.
-Zainab Nu Har Qadam Te Safraan Che Gham Aye Khaway.
+زینب نوں ہر قدم تے سفراں چے غم اے کھاوے
 
-1
-Tak Haal Bibiyaan Da Sajjad Mar Na Jaway.
-Ghazi Da Naam Cha Ke Roway Batool Jayi.
-Karday Ne Zulm Aa Ke Jadon Sham De Sipayi.
-Koi Dendaye Jhirkiyaan Te Koi Neza Mar Jaway.
+۱
+تک حال بیبیاں دا سجاد مر نہ جاوے
+غازی دا نام چا کے رووے بتول جائی
+کردے نے ظلم آ کے جدوں شام دے سپاہی
+کوئی دیندا اے جھڑکیاں تے کوئی نیزہ مار جاوے
 
-2
-Aakhay Bibi Haye Zanjeeraan Abid Nu Ainj Paiyaan Ne.
-Beemar De Badan Wich Paiwast Ho Gayiyaan Ne.
-Abid Nu Kiwein Zainab Zanjeeraan Choon Choraway.
-Kofay Taun Sham Tak Haye Kisay V Ditti Nayi Chadar.
+۲
+آکھے بی بی ہائے زنجیراں عابد نوں اینج پئیاں نے
+بیمار دے بدن وچ پیوست ہو گئیاں نے
+عابد نوں کیویں زینب زنجیراں چوں چھڑاوے
+کوفے توں شام تک ہائے کسے وی دتی نئیں چادر
 
-3
-Lokaan Ne Raj Ke Marey Haye Bibiyaan Nu Pathar.
-Sir Zakhmi Bibiyaan Da Abid Nu Rat Rowaway.
-Karbal Taun Sham Tak Da Kar Ke Safar Ne Aaye.
-Bagi Nayi Aye Syed Pyasay Ne Gham Sataye.
+۳
+لوکاں نے رج کے مارے ہائے بیبیاں نوں پتھر
+سر زخمی بیبیاں دا عابد نوں رت روواوے
+کربل توں شام تک دا کر کے سفر نے آئے
+باغی نئیں آئے سید پیاسے نے غم ستائے
 
-4
-Mazloma Nu Koi Te Ghut Pani Da Pilaway.
-Abid De Zakhm Tak Ke Ronday Ne Qaidi Sare.
-Abid Di Kand Te Koray Jadon Shimar Aa Ke Marey.
-Oss Welay Ro Ke Zainab Abbas Nu Bulaway.
+۴
+مظلوماں نوں کوئی تے گھٹ پانی دا پلاوے
+عابد دے زخم تک کے روندے نے قیدی سارے
+عابد دی کنڈ تے کوڑے جدوں شمر آ کے مارے
+اوس ویلے رو کے زینب عباس نوں بلاوے
 
-5
-Roway Sajjad Jis Dam Haas Ke Shimar Aye Aakhay.
-Zainab Nu Marna Aye Ainu Ainj Wakha Wakha Ke.
-Ja Ke Qabar De Wich V Sajjad Wainr Paway.
-Koi Nayi Zulm Taun Jehra Zalim Nu Aanr Rokay.
+۵
+رووے سجاد جس دم ہس کے شمر اے آکھے
+زینب نوں مرنا اے اینوں اینج وکھا وکھا کے
+جا کے قبر دے وچ وی سجاد وین پاوے
+کوئی نئیں ظلم توں جہڑا ظالم نوں آن روکے
 
-6
-Hasdaye Shimar Kamina Ohday Samrein Khalo Ke.
-Rukhsar Jad Sakina Ohno Wekh Ke Chupaway.
-Har Ik Qadam Te Aa Ke Majma Sharabiyaan Da.
-Abid De Samrein Haye Zainab Nu Ainj Satanda.
+۶
+ہسدا اے شمر کمینہ اوہدے سامنے کھلو کے
+رخسار جد سکینہ اوہنوں ویکھ کے چھپاوے
+ہر اک قدم تے آ کے مجمع شرابیاں دا
+عابد دے سامنے ہائے زینب نوں اینج ستاندا
 
-7
-Bagi Di Bhainr Keh Ke Har Koi Piya Bulaway.
-Syedaniyaan De Sir Taun Haye Chadraan Na Landay.
-Zalim Asad Ohna Nu Dar Dar Na Haye Phiranday.
-Chodah So Saal Taun Aye Gham Sahnu Haye Rowaway.
+۷
+باغی دی بھین کہہ کے ہر کوئی پیا بلاوے
+سیدانیاں دے سر توں ہائے چادراں نہ لیندے
+ظالم اسد اوہناں نوں در در نہ ہائے پھراندے
+چودہ سو سال توں اے غم سانوں ہائے روواوے

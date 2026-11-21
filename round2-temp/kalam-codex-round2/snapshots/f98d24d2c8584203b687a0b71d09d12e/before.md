@@ -1,0 +1,67 @@
+---
+title: "بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا"
+recitationId: "bay-khata-mara-gaya-sibt-e-rasool-e-dosara"
+alternateTitle: "Bekhata Mara Gaya Sibt-e-Rasul-e-Dosara, Wa Hasan-e-Sabz Qaba"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: []
+aliases:
+  - "Bay Khata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
+published: true
+romanLyrics: |-
+  Bekhata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
+  Zehr Se Tukre Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
+
+  1
+  Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
+  Teri Ghurbat Pe Ae Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
+
+  2
+  Maaṅ Ke Dukh Se Abhi Azad Kahaṅ Thi Zainab, Ho Gaya Kaisa Ghazab
+  Baap Zinda Na Raha, Bhai Su-e-Khuld Chala, Wa Hasan-e-Sabz Qaba
+
+  3
+  Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukre, Aur Qasim Ke Liye
+  Kam Sini Meiṅ Hai Yeh Gham Shaam-e-Gharibaṅ Jaisa, Wa Hasan-e-Sabz Qaba
+
+  4
+  Ghar Se Ik Baar Janaza Jo Nikal Jata Hai, Kab Wo Phir Aata Hai
+  Yeh Woh Tabut Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
+
+  5
+  Sheh Ne Us Waqt Jo Ghazi Ko Na Roka Hota, Hashr Ho Jata Bapa
+  Tir Aate Na Janaze Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
+
+  6
+  Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala
+  Tukre Qasim Ke Uthate Hue Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
+---
+
+بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا
+زہر سے ٹکڑے جگر، خوں سے کفن لال ہوا، وا حسنؑ سبز قبا
+
+۱
+خوں اگلتے ہوئے بھائی کو بہن نے دیکھا، اور تڑپ کر یہ کہا
+تیری غربت پہ اے بھائی، تیری زینب ہو فدا، وا حسنؑ سبز قبا
+
+۲
+ماں کے دکھ سے ابھی آزاد کہاں تھی زینب، ہو گیا کیسا غضب
+باپ زندہ نہ رہا، بھائی سوئے خلد چلا، وا حسنؑ سبز قبا
+
+۳
+کر دیے زہرِ ہلاہل نے جگر کے ٹکڑے، اور قاسم کے لیے
+کم سنی میں ہے یہ غم شامِ غریباں جیسا، وا حسنؑ سبز قبا
+
+۴
+گھر سے اک بار جنازہ جو نکل جاتا ہے، کب وہ پھر آتا ہے
+یہ وہ تابوت ہے جو لوٹ کے پھر گھر کو چلا، وا حسنؑ سبز قبا
+
+۵
+شہہ نے اس وقت جو غازی کو نہ روکا ہوتا، حشر ہو جاتا بپا
+تیر آتے نہ جنازے پہ تمہارے مولا، وا حسنؑ سبز قبا
+
+۶
+شہہ کو ریحان برادر کا جگر یاد آیا، جب سرِ کرب و بلا
+ٹکڑے قاسم کے اٹھاتے ہوئے مولا نے کہا، وا حسنؑ سبز قبا

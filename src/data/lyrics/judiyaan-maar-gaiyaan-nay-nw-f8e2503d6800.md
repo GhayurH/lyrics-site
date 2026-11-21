@@ -8,28 +8,27 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Judaeyaṅ maar gaeyaaṅ nay haar gaeyaṅ nay sahwaaṅ meriyan..
+  Judaaiaṅ maar gaiaṅ ne, haar gaiaṅ ne
+  Saanwaaṅ meriaṅ
+  Gawaah bimaar diaṅ ne, mere izhaar diaṅ ne
+  Raahwaaṅ teriaṅ
 
-  Sani)
-  Gawah bimar diyaṅ nay- mere Izhar diyaṅ nay rahwaaṅ teriyan .
+  Jinhaaṅ hathaaṅ to Asghar Karbal nuṅ tur pia si
+  Rab jaane ki kia si
+  Tuṅ mann baabe di turia si, te sun ke kiuṅ na muria, haanwaaṅ meriaṅ
 
-  Antra)
-  Jina hathaaṅ tu Asghar karbal nu tur peya si Rab janay ki keya si
-  Tu man babay di tureya si , tay sun kay kiun na mureya hanwaa’n meriyan .
+  Mainuṅ lagda ae Akbar, hun tuṅ nai mur ke aana
+  Muknaaṅ nai mera rona
+  Tuṅ mere ron muka ja, te ban ke sar te aaja, chhaawaaṅ meriaṅ
 
-  Antra)
-  Menu lagda ae Akbar hun tu nae murr Ke aana , mukna nahin mera rona
-  Tu meray ron muka ja tay ban kay sir tay aaja chawaan meriyan .
+  Muk gai udik teri, maiṅ Akbar sochni aaṅ
+  Haaye naal kiuṅ na gai aaṅ
+  Tuṅ dere dur ne laaye, koi sunda nai haaye, sadaawaaṅ meriaṅ
 
-  Antra)
-  Muk gae udik teri maiṅ Akbar sochni aaṅ Haye naal kiun na gae aaṅ
-  Tu deray door nay laye koi sun’da nahin Haye sadawaaṅ meriyan..
+  Waanguṅ Yaqub di akhiaṅ, har wele rondiaṅ ne
+  Ik pal na sondiaṅ ne
+  Maiṅ aasaaṅ viran rakhia, teri raahwaaṅ te lagiaṅ, nigaahwaaṅ meriaṅ
 
-  Antra)
-  Wangu Yaqub diyan akhiyṅ her waile rondiyaṅ ne ek pal na sondiyan ne
-  Main aasaṅ veeran rakhiyan teri rahwaaṅ tay lagiyan nigahwaaṅ meriyan .
-
-  URDU
 ---
 
 جُدائیاں مار گئیاں نیں ، ہار گئیاں نیں

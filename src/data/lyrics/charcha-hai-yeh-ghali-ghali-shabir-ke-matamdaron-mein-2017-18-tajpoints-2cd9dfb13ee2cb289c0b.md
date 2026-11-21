@@ -1,38 +1,65 @@
 ---
-title: "Charcha Hai Yeh Ghali Ghali Shabir Ke Matamdaron Mein 2017-18"
+title: "چرچا ہے یہ گلی گلی شبیر کے ماتم داروں میں 2017-18"
+alternateTitle: "Charcha Hai Yeh Ghali Ghali Shabir Ke Matamdaron Mein 2017-18"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Charcha hai yeh ghali ghali Shabir ke matamdaron mein
+  Le ke chalo Abbas ka parcham phool khilein angaron mein
+
+  1
+  Rota hai do lakh ka lashkar sari kamanein toot gayin
+  Aik tabasum khail raha hai teeron ki bocharon mein
+  Momin ki pehchan hai yeh eman-e-Abu-Talib ki qasam
+  Farsh-e-azza par rone wala ro nahi sakta garoon mein
+
+  2
+  Maut ka sannata chaya hai aik qayamat barpa hai
+  Lehja-e-Haider goonj raha hai Kofe ke bazaron mein
+  Soli par bhi jal ke rahe ga mula ki midhat ka cherag
+  Pak laho ja kar bole ga zindaan ki dewaron mein
+
+  3
+  Maut ka sannata chaya hai aik qayamat barpa hai
+  Lehja-e-Haider goonj raha hai Kofe ke bazaron mein
+  Sar par paon rakhe hai koi, koi rakhe hai paon pa sar
+  Aisi bhagdar machi hoi hai ghaat ke pehraydaron mein
+
+  4
+  Midhat-e-emaan ki lazzat ko kufar ke palay kya janein
+  Zikar-e-Ali hota hai hameesha nasli ghairat daron mein
+  Neend bhi hai Nayab Ali ki bedari bhi hai Nayab
+  Jagte hain takbeeron mein our sote hain talwaron mein
 ---
 
-Charcha Hai Yeh Ghali Ghali Shabir Ke Matamdaron Mein 2017-18.
-Le Ke Chalo Abbas Ka Parcham Phool Khilein Angaron Mein.
+چرچا ہے یہ گلی گلی شبیر کے ماتم داروں میں
+لے کے چلو عباس کا پرچم پھول کھلیں انگاروں میں
 
-1
-Rota Hai Do Lakh Ka Lashkar Sari Kamanein Toot Gayin.
-Aik Tabasum Khail Raha Hai Teeron Ki Bocharon Mein.
-Momin Ki Pehchan Hai Yeh Eman-e-Abu-Talib Ki Qasam.
-Farsh-e-Azza Par Rone Wala Ro Nahi Sakta Garoon Mein.
+۱
+روتا ہے دو لاکھ کا لشکر ساری کمانیں ٹوٹ گئیں
+ایک تبسم کھیل رہا ہے تیروں کی بوچھاروں میں
+مومن کی پہچان ہے یہ ایمانِ ابو طالب کی قسم
+فرشِ عزا پر رونے والا رو نہیں سکتا گھروں میں
 
-2
-Maut Ka Sannata Chaya Hai Aik Qayamat Barpa Hai.
-Lehja-e-Haider Goonj Raha Hai Kofe Ke Bazaron Mein.
-Soli Par Bhi Jal Ke Rahe Ga Mula Ki Midhat Ka Cherag.
-Pak Laho Ja Kar Bole Ga Zindaan Ki Dewaron Mein.
+۲
+موت کا سناٹا چھایا ہے ایک قیامت برپا ہے
+لہجۂ حیدر گونج رہا ہے کوفے کے بازاروں میں
+سولی پر بھی جل کے رہے گا مولا کی مدحت کا چراغ
+پاک لہو جا کر بولے گا زنداں کی دیواروں میں
 
-3
-Maut Ka Sannata Chaya Hai Aik Qayamat Barpa Hai.
-Lehja-e-Haider Goonj Raha Hai Kofe Ke Bazaron Mein.
-Sar Par Paon Rakhe Hai Koi,Koi Rakhe Hai Paon Pa Sar.
-Aisi Bhagdar Machi Hoi Hai Ghaat Ke Pehraydaron Mein.
+۳
+موت کا سناٹا چھایا ہے ایک قیامت برپا ہے
+لہجۂ حیدر گونج رہا ہے کوفے کے بازاروں میں
+سر پر پاؤں رکھے ہے کوئی، کوئی رکھے ہے پاؤں پہ سر
+ایسی بھگدڑ مچی ہوئی ہے گھات کے پہرے داروں میں
 
-4
-Midhat-e-Emaan Ki Lazzat Ko Kufar Ke Palay Kya Janein.
-Zikar-e-Ali Hota Hai Hameesha Nasli Ghairat Daron Mein.
-Neend Bhi Hai Nayab Ali Ki Bedari Bhi Hai Nayab.
-Jagte Hain Takbeeron Mein Our Sote Hain Talwaron Mein.
+۴
+مدحتِ ایمان کی لذت کو کفر کے پالے کیا جانیں
+ذکرِ علی ہوتا ہے ہمیشہ نسلی غیرت داروں میں
+نیند بھی ہے نایاب علی کی بیداری بھی ہے نایاب
+جاگتے ہیں تکبیروں میں اور سوتے ہیں تلواروں میں

@@ -20,7 +20,7 @@ romanLyrics: |-
   Bas kuchh hi faasle se behan dekhti rahi
 
   2
-  Ghera tha zaalimoṅ ne shah-e-mashraqain ko
+  Ghera tha zaalimoṅ ne shah-e-mashriqain ko
   Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
   Apne Ghaazi ko sada de rahi thi Zainab
@@ -29,50 +29,50 @@ romanLyrics: |-
   3
   Khanjar tale Husain ki gardan ko dekh kar
   Ae bhaai keh ke girti thi dukhiya zamiṅ par
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
   Wo waqt ek behan pe qayaamat ka waqt tha
 
   4
   Pyaari behan Husain ki sar pitti rahi
   Sukhe gale pe bhaai ke chalti rahi chhuri
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
   Zanjir bekasi ne kasi thi kuchh is tarah
 
   5
   Pardes meiṅ Ali ki dulaari thi beqaraar
   Roti thi zaar zaar tarapti thi baar baar
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
   Har simt se Husain pe hoti rahi jafa
 
   6
   Narghe meiṅ zaalimoṅ ke thi beti Batul ki
   Kuchh bhi na karne paai nawaasi Rasul ki
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
   Bhaai ka sar nigaahoṅ ke aage hi kat gaya
 
   7
-  Sine pe jab Husain ke Shimr-e-laiṅ charha
+  Sine pe jab Husain ke Shimr laiṅ charha
   Zainab ne sar ko pit ke dariya ka rukh kiya
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
   Us waqt thar tharaane lagi arz-e-Karbala
 
   8
   Zainab pe Karbala meiṅ jo koh-e-alam gira
   Tute na wo pahaar kisi pe bhi ae Khuda
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
-  Bhaai ko qatl karta raha Shimr-e-behaya
+  Bhaai ko qatl karta raha Shimr behaya
 
   9
-  Waaiz na likh sake ga kabhi bhi wo gham koi
+  Waaiz na likh sakega kabhi bhi wo gham koi
   Zainab ke dil pe tegh jo Aashur ko chali
+  Zainab bachaane paai na apne Husain ko
   Su-e-dariya mur kar dekhti thi Zainab
-  Apne Ghaazi ko sada de rahi thi Zainab
   Bhaai ka khun khaak meiṅ milta chala gaya
 ---
 کاٹا گیا حسین کا مقتل میں جب گلا

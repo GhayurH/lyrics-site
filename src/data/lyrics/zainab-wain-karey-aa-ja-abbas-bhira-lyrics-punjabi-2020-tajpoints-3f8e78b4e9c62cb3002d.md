@@ -1,29 +1,48 @@
 ---
-title: "Zainab Wain Karey Aa Ja Abbas Bhira Lyrics Punjabi 2020"
+title: "زینب وین کرے آ جا عباس بھرا"
+alternateTitle: "Zainab Wain Karey Aa Ja Abbas Bhira"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zainab wain karey aa ja Abbas bhira
+  Hath rasiyaan te sir nangay aj jana Sham de rah
+  Main Malik-e-Haya waan mera naa le bulanday ne
+  Kita na ais ummat ne teri Sain da haya
+
+  2
+  Quran diyaan aayataan munh walaan wich luka ke
+  Kinj turna naal sharabiyaan de mainu aa ke veer sikha
+  Tatheer diyaan paliyaan wich mulk begana aye
+  Saday sarey Shimar ne khaimay haye lut layi pak rida
+
+  3
+  Chadraan da maan taun ayein darya te so gaya ayein
+  Haye zalim has has kenday ne Abbas nu bola
+  Har matami di Maula howay dua qabool aye
+  Aina nu naal Hasan de fair Karbala bola
 ---
 
-1
-Zainab Wain Karey Aa Ja Abbas Bhira.
-Hath Rasiyaan Te Sir Nangay Aj Jana Sham De Rah.
-Main Malik-e-Haya Waan Mera Naa Le Bulanday Ne.
-Kita Na Ais Ummat Ne Teri Sain Da Haya.
+۱
+زینب وین کرے آ جا عباس بھرا
+ہتھ رسیاں تے سر ننگے اج جانا شام دے راہ
+میں مالکِ حیا واں میرا ناں لے بلاندے نے
+کیتا نہ ایس امت نے تیری سائیں دا حیا
 
-2
-Quran Diyaan Aayataan Munh Walaan Wich Luka Ke.
-Kinj Turna Naal Sharabiyaan De Mainu Aa Ke Veer Sikha.
-Tatheer Diyaan Paliyaan Wich Mulk Begana Aye.
-Saday Sarey Shimar Ne Khaimay Haye Lut Layi Pak Rida.
+۲
+قرآن دیاں آیتاں منہ والاں وچ لکا کے
+کنج ترنا نال شرابیاں دے مینوں آ کے ویر سکھا
+تطہیر دیاں پالیاں وچ ملک بیگانا اے
+ساڈے ساڑے شمر نے خیمے ہائے لٹ لئی پاک ردا
 
-3
-Chadraan Da Maan Taun Ayein Darya Te So Gaya Ayein.
-Haye Zalim Has Has Kenday Ne Abbas Nu Bola.
-Har Matami Di Maula Howay Dua Qabool Aye.
-Aina Nu Naal Hasan De Fair Karbala Bola.
+۳
+چادراں دا مان توں ایں دریا تے سو گیا ایں
+ہائے ظالم ہس ہس کہندے نے عباس نوں بلا
+ہر ماتمی دی مولا ہووے دعا قبول اے
+ایناں نوں نال حسن دے فیر کربلا بلا

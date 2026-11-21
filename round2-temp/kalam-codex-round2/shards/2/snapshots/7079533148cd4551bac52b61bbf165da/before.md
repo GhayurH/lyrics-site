@@ -1,0 +1,47 @@
+---
+title: "Nana Teray Deevay Baaldi May Thak Gaiyan"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+poet: "Akhtar"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+Nana teray deevay baaldi may thak gaiyan
+
+Mera Akbar kyun nayi aaya.
+
+Main mangiyan duawaan, tu kyun na puriyan kitiyan
+
+Beemar da chayta, veeran nay bhulaya.
+
+Koyi tay, ay mera, rahay Khuda, Akbar nu paigham, ponchavay
+
+Maar chaliyan may rahwaan vekhdi, pardes tu jakay
+
+Koyi khatt vi na paya.
+
+Koyi vee duniya tay, haye nana, main wargi humsheer, koyee-na hovay
+
+Barbaad gharaan vich rull gaiyan, na kol hai amri
+
+Na babay da saya.
+
+Naa koyi, kaar gilla, babay tay, Akbar di shaadi, kaad hoye aye
+
+Chanj charan tow pehla kus gaya, Naa mehndiyaan lagiyaan,
+
+naa sehra sajaya.
+
+Khaab ki vekhaiya Sughra nay, jug paye kowkaa, maar di
+
+Ghaar piyu da sar da vekhaiya
+
+Zainab nay hay kand tay, Sajjad nu chayaa
+
+Aank Nam Ran Jo Gham Dasvin Day Akhtar Ki Halaat Sunaway
+Ainj Chaliyan Zulm Haneirian Ahmad Di Qabar Da
+Jinna Deevan Bhujaya

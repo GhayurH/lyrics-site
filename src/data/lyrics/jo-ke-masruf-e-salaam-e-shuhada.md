@@ -36,7 +36,7 @@ romanLyrics: |-
   Kurta bewaarsi bachchoṅ ka phata rehta hai
 
   6
-  Shaam hoti hai to uṅtoṅ se utarte haiṅ haram
+  Shaam hoti hai to untoṅ se utarte haiṅ haram
   Par sar-e-Shaah to naize pe charha rehta hai
 
   7
@@ -44,15 +44,15 @@ romanLyrics: |-
   Beta ahwaal tera qaid meiṅ kya rehta hai
 
   8
-  Ro ke farmaaya ke ashk aaṅkhoṅ meiṅ lab par naale
+  Ro ke farmaaya ke ashk aankhoṅ meiṅ lab par naale
   Paaoṅ zanjir meiṅ rassi meiṅ gala rehta hai
 
   9
-  Baap maara gaya bhaai kate zindaaṅ meiṅ phaṅsi
+  Baap maara gaya bhaai kate zindaaṅ meiṅ phansi
   Is musibat meiṅ bhala hosh bajaa rehta hai
 
   10
-  Hai ye sharmindagi paani ke na pahuṅchaane ki
+  Hai ye sharmindagi paani ke na pahunchaane ki
   Naize par bhi sar-e-Abbas jhuka rehta hai
 
   11

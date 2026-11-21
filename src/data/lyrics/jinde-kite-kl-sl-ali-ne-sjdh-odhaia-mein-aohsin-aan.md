@@ -7,6 +7,29 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jinde kite kal sal Ali ne sajda vadhaaya, main o Husain aaṅ
+  Vaangoṅ Fadak de jinda janaaza lut lut vandaaya, main o Husain aaṅ
+
+  1
+  Hik doṅ nahiṅ main sattar janaaze eṅ kand te chaae, Zainab gawaah ae
+  Zakhmi janaaza mittiyaaṅ toṅ jinda haae kiseṅ na chaaya, main o Husain aaṅ
+
+  2
+  Inj pio puttar da laasha nai chenda, taht-ul-hanak vi pio nai valenda
+  Apneṅ puttar da taht-ul-hanak jeṅ ro ro valaaya, main o Husain aaṅ
+
+  3
+  Subhaani rabbi ajaaṅ lab te haai, hik zarb ae jai zaalim chalaai
+  Oṅ zarb jekoṅ namaaz ach kiseṅ nai bachaaya, main o Husain aaṅ
+
+  4
+  Kusda ditha ha mekoṅ Sakina, paamaal thienda mekoṅ Sakina
+  Haai kol mede val vi janaaza, dhi neṅ suhaaya, main o Husain aaṅ
+
+  5
+  Faisal Musaafir aadha reha hai, saara Madina meda gawaah
+  Jibril jinda ae Musalmaano, jhula jhulaaya, main o Husain aaṅ
 ---
 
 جیندے کیتے کل صَلِ علیٰ ٰ نے سجدہ ودھایا میں اُوحسینؑ آں

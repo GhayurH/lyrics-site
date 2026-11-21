@@ -1,54 +1,98 @@
 ---
-title: "Zahra Ka Lal Laut Ke Aye Ga Aik Din"
+title: "زہرا کا لال لوٹ کے آئے گا ایک دن"
+alternateTitle: "Zahra Ka Lal Laut Ke Aye Ga Aik Din"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra ka lal laut ke aye ga aik din labaik ya Mehdi Asghar Khan
+  Jab sheh rag-e-Hussain par khanjar howa rawaan
+  Jaltay hoye khiyam se uthta tha jab dhowaan
+  Be aasra thin jis ghari Zahra ki betiyaan
+  Mehdi ka naam le ke yeh kehti thin bibiyaan
+  Marham hamarey zakhmo ka laye ga aik din
+  Pathar kahan kahan pe giratay rahe shaqi
+  Ahl-e-haram ke zakhmo ki tadad kitni thi
+  Zainab kahan giri thi Sakina kahan giri
+  Sajjad khud sunaye ga rodad Sham ki
+  Beemar Zulfiqar chalaye ga aik din
+  Pehle karey ga kam yeh har inteqam se
+  Jagi hoi jo bachi hai ghurbat ki Sham se
+  Sehmi hoi hai qabar mein zalim ke naam se
+  Le jaye ga Sakina ko zindan Sham se
+  Seene pe oss ko sheh ke sulaye ga aik din
+  Pamali ban mein ho gayi Farwa ke lal ki
+  Qasim ki bewah maa ki baho bewah youn hoi
+  Shabeer kar na paye they beti ki rukhsati
+  Dulhan Hasan ki ghar na gayi qaid mein gayi
+  Farwa ke ghar baho ko le jaye ga aik din
+  Mehdi ke sath Mohsin e Zahra bhi aaye ga
+  Mashkeza wohi ho ga alam wohi laye ga
+  Wadah tha jo Sakina se aa kar nibhaye ga
+  Asghar ke naam ki woh sabeelein sajay ga
+  Saqqa haram ko pani pilaye ga aik din
+  Rasi ke neel hoon gay na durron ke koi waar
+  Bazar-e-Sham dekhey ga sadaat ka waqar
+  Ghazi karey ga naqay pe Zainab ko khud sawar
+  Sajjad ho ga hathoon mein thamay hoye mohar
+  Le kar Madine Mehdi youn jaye ga aik din
+  Jalta howa Batool pe darwaza jab gira
+  Zahra pukarti rahi Qayam kab aaye ga
+  Apni shikasta pasliyon pe hath youn rakha
+  Waqt-e-qaza bhi jo na hata paye Murtaza
+  Pehlu se maa ka hath churaye ga aik din
+  Jin lakriyon se Fatima Zahra ka ghar jala
+  Sughra ne jo Madine se Akbar ko khat likha
+  Kano se jo Sakina ke gohar hoye juda
+  Akbar lahu mein doba jo kurta Hussain ka
+  Ghaibat se apne sath woh laye ga aik din
 ---
 
-1
-Zahra Ka Lal Laut Ke Aye Ga Aik Din Labaik Ya Mehdi Asghar Khan
-Jab Sheh Rag-e-Hussain Par Khanjar Howa Rawaan.
-Jaltay Hoye Khiyam Se Uthta Tha Jab Dhowaan.
-Be Aasra Thin Jis Ghari Zahra Ki Betiyaan.
-Mehdi Ka Naam Le Ke Yeh Kehti Thin Bibiyaan.
-Marham Hamarey Zakhmo Ka Laye Ga Aik Din.
-Pathar Kahan Kahan Pe Giratay Rahe Shaqi.
-Ahl-e-Haram Ke Zakhmo Ki Tadad Kitni Thi.
-Zainab Kahan Giri Thi Sakina Kahan Giri.
-Sajjad Khud Sunaye Ga Rodad Sham Ki.
-Beemar Zulfiqar Chalaye Ga Aik Din.
-Pehle Karey Ga Kam Yeh Har Inteqam Se.
-Jagi Hoi Jo Bachi Hai Ghurbat Ki Sham Se.
-Sehmi Hoi Hai Qabar Mein Zalim Ke Naam Se.
-Le Jaye Ga Sakina Ko Zindan Sham Se.
-Seene Pe Oss Ko Sheh Ke Sulaye Ga Aik Din.
-Pamali Ban Mein Ho Gayi Farwa Ke Lal Ki.
-Qasim Ki Bewah Maa Ki Baho Bewah Youn Hoi.
-Shabeer Kar Na Paye They Beti Ki Rukhsati.
-Dulhan Hasan Ki Ghar Na Gayi Qaid Mein Gayi.
-Farwa Ke Ghar Baho Ko Le Jaye Ga Aik Din.
-Mehdi Ke Sath Mohsin e Zahra Bhi Aaye Ga.
-Mashkeza Wohi Ho Ga Alam Wohi Laye Ga.
-Wadah Tha Jo Sakina Se Aa Kar Nibhaye Ga.
-Asghar Ke Naam Ki Woh Sabeelein Sajay Ga.
-Saqqa Haram Ko Pani Pilaye Ga Aik Din.
-Rasi Ke Neel Hoon Gay Na Durron Ke Koi Waar.
-Bazar-e-Sham Dekhey Ga Sadaat Ka Waqar.
-Ghazi Karey Ga Naqay Pe Zainab Ko Khud Sawar.
-Sajjad Ho Ga Hathoon Mein Thamay Hoye Mohar.
-Le Kar Madine Mehdi Youn Jaye Ga Aik Din.
-Jalta Howa Batool Pe Darwaza Jab Gira.
-Zahra Pukarti Rahi Qayam Kab Aaye Ga.
-Apni Shikasta Pasliyon Pe Hath Youn Rakha.
-Waqt-e-Qaza Bhi Jo Na Hata Paye Murtaza.
-Pehlu Se Maa Ka Hath Churaye Ga Aik Din.
-Jin Lakriyon Se Fatima Zahra Ka Ghar Jala.
-Sughra Ne Jo Madine Se Akbar Ko Khat Likha.
-Kano Se Jo Sakina Ke Gohar Hoye Juda.
- Akbar Lahu Mein Doba Jo Kurta Hussain Ka.
-Ghaibat Se Apne Sath Woh Laye Ga Aik Din.
+۱
+زہرا کا لال لوٹ کے آئے گا ایک دن لبیک یا مہدی اصغر خان
+جب شہ رگِ حسین پر خنجر ہوا رواں
+جلتے ہوئے خیام سے اٹھتا تھا جب دھواں
+بے آسرا تھیں جس گھڑی زہرا کی بیٹیاں
+مہدی کا نام لے کے یہ کہتی تھیں بیبیاں
+مرہم ہمارے زخموں کا لائے گا ایک دن
+پتھر کہاں کہاں پہ گراتے رہے شقی
+اہلِ حرم کے زخموں کی تعداد کتنی تھی
+زینب کہاں گری تھی سکینہ کہاں گری
+سجاد خود سنائے گا رودادِ شام کی
+بیمار ذوالفقار چلائے گا ایک دن
+پہلے کرے گا کام یہ ہر انتقام سے
+جاگی ہوئی جو بچی ہے غربت کی شام سے
+سہمی ہوئی ہے قبر میں ظالم کے نام سے
+لے جائے گا سکینہ کو زندانِ شام سے
+سینے پہ اس کو شہ کے سلائے گا ایک دن
+پامالی بن میں ہو گئی فروہ کے لال کی
+قاسم کی بیوہ ماں کی بہو بیوہ یوں ہوئی
+شبیر کر نہ پائے تھے بیٹی کی رخصتی
+دلہن حسن کی گھر نہ گئی قید میں گئی
+فروہ کے گھر بہو کو لے جائے گا ایک دن
+مہدی کے ساتھ محسنِ زہرا بھی آئے گا
+مشکیزہ وہی ہو گا علم وہی لائے گا
+وعدہ تھا جو سکینہ سے آ کر نبھائے گا
+اصغر کے نام کی وہ سبیلیں سجائے گا
+سقائے حرم کو پانی پلائے گا ایک دن
+رسی کے نیل ہوں گے نہ دُرّوں کے کوئی وار
+بازارِ شام دیکھے گا سادات کا وقار
+غازی کرے گا ناقے پہ زینب کو خود سوار
+سجاد ہو گا ہاتھوں میں تھامے ہوئے مہار
+لے کر مدینے مہدی یوں جائے گا ایک دن
+جلتا ہوا بتول پہ دروازہ جب گرا
+زہرا پکارتی رہی قائم کب آئے گا
+اپنی شکستہ پسلیوں پہ ہاتھ یوں رکھا
+وقتِ قضا بھی جو نہ ہٹا پائے مرتضیٰ
+پہلو سے ماں کا ہاتھ چرائے گا ایک دن
+جن لکڑیوں سے فاطمہ زہرا کا گھر جلا
+صغریٰ نے جو مدینے سے اکبر کو خط لکھا
+کانوں سے جو سکینہ کے گوہر ہوئے جدا
+اکبر لہو میں ڈوبا جو کرتا حسین کا
+غیبت سے اپنے ساتھ وہ لائے گا ایک دن

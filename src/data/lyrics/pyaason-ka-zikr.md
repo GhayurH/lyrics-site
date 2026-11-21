@@ -23,7 +23,7 @@ romanLyrics: |-
   Jo hai shahid tashna dahaani ke saath hai
 
   3
-  Kehte haiṅ Habib ki piroṅ ki zauf thi
+  Kehte haiṅ Habib ki piroṅ ki zof thi
   Lekin jo hausla hai jawaani ke saath hai
 
   4

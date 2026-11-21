@@ -1,12 +1,29 @@
 ---
-title: "Chan Wekh Ka Pak Muharam Da"
+title: "چن ویکھ کے پاک محرم دا"
+alternateTitle: "Chan Wekh Ke Paak Muharram Da"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chan vekh ke paak Muharram da rove Akbar di hamshir ae
+
+  Chan vekh ke Sughraaṅ vain kare mainuṅ mil jaa Akbar vir ae
+
+  Har vele raavaaṅ takniyaaṅ teri yaad ch Akbar mar gaiyaaṅ
+
+  Mainuṅ rondiyaaṅ tak ke vir Akbar mere naal rove taqdir ae
+
+  Main khaab ch Akbar takiaa ae tainuṅ zaalim barchhi maari ae
+
+  Bari ukkhi Baabaa chaai ae haae naane di tasvir ae
+
+  Viraan gharaaṅ vich haae Sughraaṅ Tausif ae ro ro kaindi ae
+
+  Haae lut gai chaadar Zainab di vich Akbar di jaagir ae
 ---
 
 Chan Wekh Ka Pak Muharam Da | Muharam Nohay 2025 Hijri 1447 | Nasir Ali Raza Party

@@ -13,23 +13,23 @@ aliases: []
 published: true
 romanLyrics: |-
   Koi majbur nahiṅ koi majbur nahiṅ
-  Zikr-e-Shah ke liye hargiz koi majbur nahiṅ
+  Zikr-e-Shaah ke liye hargiz koi majbur nahiṅ
   Jism maazur hai par fikr se maazur nahiṅ
 
   1
   Jab bhi sine se meri maaṅ ne lagaaya hum ko
-  Zikr-e-Shabbir hi lori meiṅ sunaaya hum ko
-  Ashk-e-gham-e-Shaah ka ghutti meiṅ pilaaya hum ko
+  Zikr-e-Shabbir hi lori mein sunaaya hum ko
+  Ashk-e-gham-e-Shaah ka ghutti mein pilaaya hum ko
   Is liye aur kisi gham se bhi ranjur nahiṅ
 
   2
   Is ka kuchh gham nahiṅ dekhi nahiṅ duniya hum ne
   Chaand o suraj ka nahiṅ dekha ujaala hum ne
-  Haaṅ magar dekhi hai qabr-e-Shah-e-waala hum ne
+  Haaṅ magar dekhi hai qabr-e-Shaah-e-waala hum ne
   Kaun kehta hai ke aankheṅ meri pur nur nahiṅ
 
   3
-  Paa piyaada to sabhi Karbobala jaate haiṅ
+  Paa piyaada to sabhi Karb o Bala jaate haiṅ
   Azm o himmat se meri koh bhi tharraate haiṅ
   Sar ke bal chalte hue hum bakhuda jaate haiṅ
   Hausle kehte haiṅ manzil meri kuchh dur nahiṅ
@@ -43,13 +43,13 @@ romanLyrics: |-
   5
   Is tarah shaan barhaata hai wo Rabb-e-Akbar
   Ek naabina hi tha Shaah ka pehla zaair
-  Baaraha maiṅ ne bhi dekha hai harim-e-Sarwar
+  Baaraha main ne bhi dekha hai harim-e-Sarwar
   Roshni deti hai aankheṅ meri ye kor nahiṅ
 
   6
-  Jis ghari majlis-e-Shabbir meiṅ aata huṅ maiṅ
-  Haath maatam ke liye apna uthaata huṅ maiṅ
-  Khud ko haa qaaba o qausain pe paata huṅ maiṅ
+  Jis ghari majlis-e-Shabbir mein aata huṅ main
+  Haath maatam ke liye apna uthaata huṅ main
+  Khud ko haa qaaba o qausain pe paata huṅ main
   Is bulandi pe magar hum kabhi maghrur nahiṅ
 
   7
@@ -61,7 +61,7 @@ romanLyrics: |-
   8
   Shukriya Aini jo andaaz-e-bayaaṅ bakhsha hai
   Nutq-e-ehsaas ko lafzoṅ ka jahaaṅ bakhsha hai
-  Hum the khaamosh hameṅ zor-e-zabaaṅ bakhsha hai
+  Hum the khaamosh hameṅ zor-e-zabaaṅ rakha hai
   Kaun sa dil hai jo Aamir tera mashkur nahiṅ
 ---
 کوئی مجبور نہیں کوئی مجبور نہیں

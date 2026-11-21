@@ -9,110 +9,48 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Karbala Karbala
-
-  Karbala, Mai khaak e Karbala hun rutba mera juda hai
-
-  Bint e Ali nay mujh ko chadar bana lia hai
-
+romanLyrics: |-
+  Bismillah-ir-Rahman-ir-Rahim
+  Khaak-e-Karbala
+  Karbala Karbala Karbala Karbala
+  Main khaak-e-Karbala huṅ rutba mera juda hai Bint-e-Ali ne mujh ko chaadar bana liya hai
 
   1
-
-  1) Mera naseeb aisai kudrat nai hai jagaya
-
-  Khatoon kai pisar ki hai mehraban banaya
-
-  Mera muala hona Shabbir ki ata hay
-
+  Bint-e-Ali ne mujh ko chaadar bana liya hai
+  Karte haiṅ rashk mujh par Kausar ke bhi kinaare
+  Zainab ke sar meiṅ main ne do saal haiṅ guzaare
+  Mera har ek zarra har zulm ka gawaah hai
 
   2
-
-  Kertay hain rashk mujh per Kausar k bhi kinaray
-
-  Zainab k sir may mai nay do saal hain guzaray
-
-  Mera her aik zarra her zulm ka gavah hai
-
+  Akbar jawaan Qasim Ghazi se chaand taare
+  Zain ul Aba ne meri aaghosh meiṅ utaare
+  Yaani lahu Nabi ka mujh meiṅ mila hua hai
 
   3
-
-  6) Kaisai piyun batao main Al-Qama ka pani
-
-  Piyassi luti hai muj per Qasim ki nojawani
-
-  Muj per sagheer Asgher piyasa qatal huwa hay
-
+  Roti huṅ yaad kar ke wo bekasi ka manzar
+  Maula chhupa rahe the mujh meiṅ wo laash-e-Asghar
+  Us din se aaj tak na mujh ko sukuṅ mila hai
 
   4
-
-  Akbar jawan Qasim Ghazi say chaand taray
-
-  Zain ul Iba nay meri aaghosh main utaray
-
-  Yaani lahu Nabi ka mujh may mila hoa hai
-
+  Shohada-e-Karbala ke zakhmoṅ ko main ne chuma
+  Zehra ki betiyoṅ ke qadmoṅ ko main ne chuma
+  Is waaste hi meri taasir meiṅ shifa hai
 
   5
-
-  3) Zehra ki baitiyon kai burkhai banai mainai
-
-  Eeman kai mohsino kai lashai chupai mainai
-
-  Misl-e-Janab-e-Ghazi meri zaat bawafa hay
-
+  Akbar ki laash par jab Shabbir ja rahe the
+  Uthte the baithte the aur larkhara rahe the
+  Manzar wo ab bhi meri aankhoṅ meiṅ phir raha hai
+  Main khaak-e-Karbala huṅ rutba mera juda hai
 
   6
-
-  4) Shohada-e-Basafa kai jismon ko mainai chuma
-
-  Zehra ki baitiyon kai qadmon ko mianai chuma
-
-  Is wastai hi meri taseer main shifa hay
-
+  Ae zaairin-e-Maula chalna yahaaṅ sanbhal kar
+  Quran Fatima ka bikhra hua hai mujh par
+  Na jaane kis jagah par kis ka lahu gira hai
 
   7
-
-  Roti hun yad ker k wo bay’kisi ka manzar
-
-  Maula chupa rahay they mujh may jo laash e Asghar
-
-  Han uss din say aaj tak na mujh ko sakun mila hai
-
-
-  8
-
-  Shudaa e Karbala k zakham’un ko mai nay choma
-
-  Zahra ki beti’un k qadm’un ko mai nay choma
-
-  Iss wastay he meri taseer may shifa hai
-
-
-  9
-
-  Akbar ki laash per jab Shabbir ja rahay they
-
-  Uth’tay they baith’tay they or larkhara rahay they
-
-  Manzar wo ab bhi meri aankh’un main phir raha hai
-
-
-  10
-
-  Aye Zair’een e Maula chalna yahan sanbhal k
-
-  Quran Fatima ka bikhra hoa hai mujh per
-
-  Na’janay kis jaga per is ka lahu gira hai
-
-
-  11
-
-  Tauqeer tu bhi ker lay Aal e Aba ka matam
-
-  Jo Sham may gai thee us bay’rida ka matam
-
-  Mamnoon matmi ki Makhdoma Fatima hai'
+  Tauqeer tu bhi kar le Aal-e-Aba ka maatam
+  Jo Shaam meiṅ gai thi us berida ka maatam
+  Mamnoon maatami ki Makhduma Fatima hai
 ---
 
 بسم اللہ الرحمن الرحیم

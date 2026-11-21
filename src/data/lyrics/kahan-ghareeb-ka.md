@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gham e Husain may kaisa sharaf ye paaya hai
-  Ke apne haatoṅ se mai ne alam sajaya hai
-  Suna hai aati hai majlis may fatema zehra
-  Ye baat soch ke farsh e aza bichaya hai
-  Karam ye majlis e shabbir ne kiya warna
-  Kahaṅ gharib ka ghar aur kahaṅ Husain ki maa
-  Khabar hai binte rasul e khuda ke aane ki
-  Badal rahi hai hawayeiṅ gharib khaane ki
-  Mera nasib ke mehmaṅ hui meri zehra
-  Kahaṅ gharib ka ghar...
-  Farishte shaah o gadagar sabhi hai pesh e nazar
-  Hai ambiya ki qataare lagi mere ghar par
-  Tumhare aane se bibi ye martaba paaya
-  Kahaṅ gharib ka ghar...
-  Ye majlis-e-shabbir may behte hue aansu
-  Firdaus ke baaghoṅ may saja deti hai zehra
-  Shehzadi zamiṅ par ise girne nahi deti
-  Bach jaaye to kausar may mila deti hai zehra
-  Ye nauhakhani ye soz o salaam aur matam
-  Hamare ashq hai bibi ke zakhm ka marham
-  Agar na hote waseela ye matam o nauha
-  Kahaṅ gharib ka ghar...
-  Gharib khane ko jannat bana diya bibi
-  Khushi ye aisi hai jisne rula diya bibi
+  Gham-e-Husain mein kaisa sharaf ye paaya hai
+  Ke apne haathoṅ se main ne alam sajaaya hai
+  Suna hai aati hai majlis mein Fatema Zehra
+  Ye baat sonch ke farsh-e-aza bichhaaya hai
+  Karam ye majlis-e-Shabbir ne kiya warna
+  Kahaaṅ gharib ka ghar aur kahaaṅ Husain ki maaṅ
+  Khabar hai Bint-e-Rasul-e-Khuda ke aane ki
+  Badal rahi hai hawaaeṅ gharib khaane ki
+  Mera nasib ke mehmaaṅ hui meri Zehra
+  Kahaaṅ gharib ka ghar...
+  Farishte shaah o gadaagar sabhi haiṅ pesh-e-nazar
+  Haiṅ ambiya ki qataareṅ lagi mere ghar par
+  Tumhaare aane se Bibi ye martaba paaya
+  Kahaaṅ gharib ka ghar...
+  Ye majlis-e-Shabbir mein behte hue aansu
+  Firdaus ke baaghoṅ mein saja deti hai Zehra
+  Shehzaadi zamiṅ par ise girne nahiṅ deti
+  Bach jaae to Kausar mein mila deti hai Zehra
+  Ye nauha khaani ye soz o salaam aur maatam
+  Hamaare ashq hai Bibi ke zakhm ka marham
+  Agar na hote wasila ye maatam o nauha
+  Kahaaṅ gharib ka ghar...
+  Gharib khaane ko jannat bana diya Bibi
+  Khushi ye aisi hai jis ne rula diya Bibi
   Har ek ashq ne aankhoṅ se girte girte kaha
-  Kahaṅ gharib ka ghar...
-  Sar e Husain jo shiriṅ ke ghar may aaya tha
-  Sar e Husain ke hamraah aayi thi zerha
-  Jo dekha bibi ko shiriṅ ne ye kiya nauha
-  Kahaṅ gharib ka ghar...
-  Jab kisi ghar may koi mar jaaye
-  Dunya gham baatne ko aati hai
-  Haye kitni gharib hai zehra
-  Pursa lene bhi chal ke aati hai
-  Ghar me mere majlis huwi
-  Aur bich gaya farsh e aza
+  Kahaaṅ gharib ka ghar...
+  Sar-e-Husain jo Shiriṅ ke ghar mein aaya tha
+  Sar-e-Husain ke hamraah aayi thi Zehra
+  Jo dekha Bibi ko Shiriṅ ne ye kiya nauha
+  Kahaaṅ gharib ka ghar...
+  Jab kisi ghar mein koi mar jaae
+  Dunya gham baaṅtne ko aati hai
+  Haaye kitni gharib hai Zehra
+  Pursa lene bhi chal ke aati haiṅ
+  Ghar mein mere majlis hui
+  Aur bichh gaya farsh-e-aza
   Zaakir ne jab majlis parhi
-  Aur haal ruqsat ka jo parha
-  Itna royi zehra
-  Farhan aur mazhar parha
-  Nauha shahe mazlum ka
-  Tha zikr jab ashur ka
+  Aur haal-e-rukhsat ka jo parha
+  Itna royi Zehra
+  Farhaan aur Mazhar parha
+  Nauha Shah-e-Mazlum ka
+  Tha zikr jab Aashur ka
   Shabbir par khanjar chala
-  Itna royi zehra
-  Dete rahe ahle aza
-  Ghazi ka pursa sarwar ka pursa
-  Akbar ka qasim ka asghar ka pursa
-  Itna royi zehra
-  Zainab ka kulsum o fizza ka pursa
-  Sajjad bali sakina ka pursa
-  Itna royi zehra
-  Baali ka pursa chadar ka pursa
-  Aun o mohamad ka baqir ka pursa
-  Itna royi zehra
-  Naizo pe rakhe har ek sar ka pursa
-  Bibi tumhare bhare ghar ka pursa
-  Itna royi zehra
+  Itna royi Zehra
+  Dete rahe ahl-e-aza
+  Ghazi ka pursa Sarwar ka pursa
+  Akbar ka Qasim ka Asghar ka pursa
+  Itna royi Zehra
+  Zainab ka Kulsum o Fizza ka pursa
+  Sajjad baali Sakina ka pursa
+  Itna royi Zehra
+  Baali ka pursa chaadar pursa
+  Aun o Muhammad ka Baqir ka pursa
+  Itna royi Zehra
+  Naizoṅ pe rakhe har ek sar ka pursa
+  Bibi tumhaare bhare ghar ka pursa
+  Itna royi Zehra
 ---
 
 ۱

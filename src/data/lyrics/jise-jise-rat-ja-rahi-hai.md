@@ -9,98 +9,62 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Jaise jaise raat ja rahi hay
-
+romanLyrics: |-
+  Jaise jaise raat ja rahi hai
 
   1
-
-  1) Aik alam ke saaye may khaime, mehwe dua khaimo may pyase
-
-  Pyaso ki aawaz fiza may, shukre Khuda dohra rahi hay
-
+  Ek alam ke saaye mein khaime
+  Mahv-e-duaa khaimoṅ mein pyaase
+  Pyaasoṅ ki aawaaz faza mein
+  Shukr-e-Khuda dohra rahi hai
 
   2
-
-  Door watan se kuch pardesi
-
-  Seh ke aziyat tishnalabi ki
-
-  Dekh rahe hai jaanibe darya
-
-  Mauj qayamat dha rahi hai
-
+  Dur watan se kuchh pardesi
+  Seh ke aziyyat tishna labi ki
+  Dekh rahe haiṅ jaanib-e-darya
+  Mauj qayaamat dha rahi hai
 
   3
-
-  Aamne saamne do lashkar hai
-
-  Sabr idhar us jaa khanjar hai
-
-  Fauj idhar masroofe ibadat
-
-  Ek tayghein chamka rahi hai
-
+  Aamne saamne do lashkar haiṅ
+  Sabr idhar us jaa khanjar haiṅ
+  Fauj idhar masruf-e-ibaadat
+  Ik taigheṅ chamka rahi hai
 
   4
-
-  Ek behan ko fikr yehi hai
-
-  Raat ye kyon dhalti jaati hai
-
-  Is ki sehar ke peeche peeche
-
-  Subhe shahadat aa rahi hai
-
+  Ek bahan ko fikr yahi hai
+  Raat ye kiuṅ dhalti jaati hai
+  Is ki sahar ke pichhe pichhe
+  Subh-e-shahaadat aa rahi hai
 
   5
-
-  Kehti hai bachon se maa''ein
-
-  Aao tumhe aaj saja''ein
-
-  Waqt yehi qurbani ka hai
-
-  Deen pe musibat aa rahi hai
-
+  Kehti haiṅ bachchoṅ se maaeṅ
+  Aao tumheṅ ham aaj samjhaaeṅ
+  Waqt yahi qurbaani ka hai
+  Diṅ pe musibat aa rahi hai
 
   6
-
-  Wo jo shabihe payghambar hai
-
-  Zad pe sina ki uska jigar hai
-
-  Maut usi ki khaatir naiza
-
-  Maqtal mein lehra rahi hai
-
+  Wo jo shabih-e-paighambar hai
+  Zad pe sinaaṅ ki us ka jigar hai
+  Maut usi ki khaatir neza
+  Maqtal mein lahra rahi hai
 
   7
-
-  Jhoola jhoolne wala bacha
-
-  Lori sunkar bhi na soya
-
-  Bache ko aadabe shahadat
-
+  Jhula jhulne waala bachcha
+  Lori sun kar bhi na soya
+  Bachche ko aadaab-e-shahaadat
   Lori khud samjha rahi hai
 
-
   8
-
-  8) Saatween say is ban may ik maa, baal khulay ba haale pareshan
-
-  Jhaarti hay maqtal ki zameen ko, roti hay thar-ra rahi hay
-
+  Saatveṅ se is ban mein ik maaṅ
+  Baal khole ba haal-e-parishaaṅ
+  Jhaarti hai maqtal ki zamiṅ ko
+  Roti hai tharra rahi hai
 
   9
-
-  Rakh do qalam rehaan o sarwar
-
-  Dard bhara hai subho ka manzar
-
-  Lehjaye akbar se jo ubhri
-
-  Saute azan wo aa rahi hai'
+  Rakh do qalam Rehaan o Sarwar
+  Dard bhara hai subh ka manzar
+  Lahja-e-Akbar se jo ubhri
+  Saut-e-azaan wo aa rahi hai
 ---
 
 جیسے جیسے رات جا رہی ہے

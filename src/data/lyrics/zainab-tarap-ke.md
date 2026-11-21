@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Laila ki hasratoṅ ko bhi paamaal kar diya
-  Barchhi ka phal wo sina-e-Akbar ko chhed kar
+  Barchi ka phal wo sina-e-Akbar ko chhed kar
 
   3
   Chehre ka rang Zainab-e-muztar ka ur gaya
@@ -40,15 +40,15 @@ romanLyrics: |-
   Maqtal ki sarzamin pe Zainab jhukaaye sar
 
   7
-  Khaimoṅ ki aag jism ko jhulsa rahi thi aur
-  Aada ki zulm ruh ko karte the nauhagar
+  Khaimoṅ ki aag jism ko jhulsa rahi thi
+  Aadaa ki zulm ruh ko karte the nauhagar
 
   8
   Haathoṅ meiṅ rassiyaaṅ thi to pairoṅ meiṅ beriyaaṅ
   Zulm o sitam ke baad bhi jaari raha safar
 
   9
-  Ye umr aur bachchoṅ ka uṅtoṅ pe baithna
+  Ye umr aur bachchoṅ ka untoṅ pe baithna
   Maaoṅ ka dil tarap gaya manzar ye dekh kar
 
   10

@@ -12,7 +12,7 @@ aliases: ["Jhukte Hain Jahaan Shah Bhi Tera Woh Aastaan"]
 published: true
 romanLyrics: |-
   Jhukte haiṅ jahaaṅ shaah bhi tera woh aastaaṅ
-  Abbas tere dar sa duniya meiṅ dar kahaaṅ
+  Abbaas tere dar sa duniya meiṅ dar kahaaṅ
 
   1
   Tu Qamar-e-Bani Haashim Zahra ki tu dua hai

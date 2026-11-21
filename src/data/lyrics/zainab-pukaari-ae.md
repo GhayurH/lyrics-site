@@ -16,31 +16,31 @@ romanLyrics: |-
   Dushman meiṅ ghir gaya hai baraadar kahaaṅ ho tum
 
   1
-  Aada ka ek hujum hai maidaaṅ meiṅ har taraf
+  Aadaa ka ek hujum hai maidaaṅ meiṅ har taraf
   Nikle to kaise khaime se baahar kahaaṅ ho tum
 
   2
   Khud ko gira ke jhule se sukhi zabaaṅ liye
-  Jalti zamiṅ pa tarpa hai Asghar kahaaṅ ho tum
+  Jalti zamiṅ pe tarpa hai Asghar kahaaṅ ho tum
 
   3
-  Bachchoṅ ki chikh sun ke dahalta hai kaleja
+  Bachchoṅ ki chikh sun ke dahlta hai kaleja
   Pur haul Karbala ka hai manzar kahaaṅ ho tum
 
   4
-  Bemakhna o chaadar hai andheroṅ ki rida hai
-  Shimr-e-laiṅ ne chhin li chaadar kahaaṅ ho tum
+  Bemaqna o chaadar hai andheroṅ ki rida hai
+  Shimr laiṅ ne chhin li chaadar kahaaṅ ho tum
 
   5
-  Jinn o malak meiṅ chaar su kohraam bapa hai
-  Chalta hai Shaah-e-waala pe khanjar kahaaṅ ho tum
+  Jinn o malak meiṅ chaar su kohraam bapaa hai
+  Chalta hai Shaah-e-waalaa pe khanjar kahaaṅ ho tum
 
   6
   Kaise hai ummati mere naana Rasul ke
-  Haṅste haiṅ mujhko maar ke patthar kahaaṅ ho tum
+  Hanste haiṅ mujhko maar ke patthar kahaaṅ ho tum
 
   7
-  Uṅtoṅ pa bekajaawa bithaate haiṅ ashqiya
+  Untoṅ pe bekajaawa bithaate haiṅ ashqiyaa
   Kar ke asir ham ko sitamgar kahaaṅ ho tum
 
   8
@@ -60,7 +60,7 @@ romanLyrics: |-
   Karb o bala ka surkh hai manzar kahaaṅ ho tum
 
   12
-  Naizoṅ se jhirkiyoṅ se tamaachoṅ se har ghari
+  Naizoṅ se jhirkiyoṅ se tamaanchoṅ se har ghari
   Ham ko sata rahe haiṅ sitamgar kahaaṅ ho tum
 
   13

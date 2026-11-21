@@ -11,37 +11,37 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Qabr Asghar Ki Banane Meiṅ Bohat Dair Lagi
+  Qabr Asghar ki banaane meiṅ bohat dair lagi
 
-  Sheh Ko Ek Chand Chhupane Meiṅ Bohat Dair Lagi
+  Sheh ko ik chaand chhupaane meiṅ bohat dair lagi
 
   1
-  Kuch Qadam Dur Hai Bazar Se Darbar Magar
-  Phir Bhi Shehzadi Ko Aane Meiṅ Bohat Dair Lagi
+  Kuchh qadam dur hai baazaar se darbaar magar
+  Phir bhi shehzaadi ko aane meiṅ bohat dair lagi
 
   2
-  Sheh Ne Har Lash Ko Jaldi Se Uthaya Lekin
-  Lash-e-Akbar Ki Uthane Meiṅ Bohat Dair Lagi
+  Sheh ne har laash ko jaldi se uthaaya lekin
+  Laash-e-Akbar ki uthaane meiṅ bohat dair lagi
 
   3
-  Tukre Chunte Hue Qasim Ke Kaha Maula Ne
-  Haye Afsos Ke Aane Meiṅ Bohat Dair Lagi
+  Tukre chunte hue Qaasim ke kahaa Maula ne
+  Haaye afsos ke aane meiṅ bohat dair lagi
 
   4
-  Is Qadar Pyas Se Sukha Tha Gulu-e-Sarwar
-  Shimr Ko Tegh Chalane Meiṅ Bohat Dair Lagi
+  Haaṅ is qadar pyaas se sukhaa tha gul-e-Sarwar
+  Shimr ko tegh chalaane meiṅ bohat dair lagi
 
   5
-  Baap Ki Lash Se Durroṅ Ki Aziyat De Kar
-  Ek Bachi Ko Hatane Meiṅ Bohat Dair Lagi
+  Baap ki laash se durroṅ ki aziyat de kar
+  Ek bachchi ko hataane meiṅ bohat dair lagi
 
   6
-  Chand Satreiṅ Thiṅ Magar Lash-e-Ali Akbar Par
-  Sheh Ko Khat Parh Ke Sunane Meiṅ Bohat Dair Lagi
+  Chaand satreiṅ thiṅ magar laash-e-Ali Akbar par
+  Sheh ko khat parh ke sunaane meiṅ bohat dair lagi
 
   7
-  Karbala Ja Ke Takallum Ne Yehi Puchha Tha
-  Mujhko Sarkar Bulane Meiṅ Bohat Dair Lagi
+  Karbala jaa ke Takallum ne ye hi puchhaa tha
+  Mujh ko Sarkaar bulaane meiṅ bohat dair lagi
 ---
 
 قبر اصغر کی بنانے میں بہت دیر لگی

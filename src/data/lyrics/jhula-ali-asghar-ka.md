@@ -17,7 +17,7 @@ romanLyrics: |-
   Jal gae khaime jala jhula Ali Asghar ka
   Umr bhar maaṅ ne parha nauha Ali Asghar ka
 
-  Haaye beshir ki qaamat se bara tir tha wo
+  Haaye be shir ki qaamat se bara tir tha wo
   Jis ne chheda hai gala sukha Ali Asghar ka
 
   1
@@ -49,7 +49,7 @@ romanLyrics: |-
   Har azaakhaane meiṅ hai jhula Ali Asghar ka
 
   8
-  Hai ye Mazhar ki dua nasloṅ meiṅ jaari ho aza
+  Hai ye Mazhar ki dua nasloṅ meiṅ jaari ho azaa
   De de Farhan ko tu sadqa Ali Asghar ka
 ---
 جھولا علی اصغر کا بھول نہ پائی مادر

@@ -8,71 +8,66 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab Ke Bain Hai Ke Mere Ghar Ki Khair Ho...
-  Mere Ghar Ki Khair Ho....
-
   1
-  Sholo Ki Zadd Me Abid E Muztar ki Khair Ho...
-  Muztar Ki Khair Ho...
-  (1) SholoN Ki Zadd Me Aakhiri Khaima Bhi Aagaya..
-  Khaima Bhi Aagaya...2
-  SholoN Ki Zadd Me Aakhiri Khaima Bhi Aagaya..
-  Khaima Bhi Aagaya...2
-  Parwardigar Nasl E Payambar Ki Khair Ho..
-  Payambar Ki Khair Ho..
-  (2) TapoN Ke Darmiyan Hasan Ka Hai Ladla...
-  Hasan Ka Hai Ladla
-  TapoN Ke Darmiyan Hasan Ka Hai Ladla...
-  Hasan Ka Hai Ladla
-  Farwa Tere Haseen Gul E Tar Ki Khair Ho
-  Gul E Tar Ki Khair Ho..
-  (3) Naize Ke Phal Ne Tod Diya Hai JawaN Ka Dil..
-  Haaye JawaaN Ka Dil
-  Naize Ke Phal Ne Tod Diya Hai JawaN Ka Dil..
-  Haaye JawaaN Ka Dil
-  Ham Surat E Nabi Ali Akbar Ki Khair Ho..
-  Ali akbar Ki Khair Ho..
-  (4) Dariya Pe So Gaya Hai Mere Ghar Ka PasBaaN
-  Mere Ghar Ka PasBaaN.
-  Dariya Pe So Gaya Hai Mere Ghar Ka PasBaaN
-  Mere Ghar Ka PasBaaN.
-  Parwardigar Ab Meri Chadar Ki Khair Ho..
+  Zainab ke bain haiṅ ke mere ghar ki khair ho
+  Mere ghar ki khair ho
+  Sholoṅ ki zad meiṅ Abid-e-Muztar ki khair ho
+  Muztar ki khair ho
 
   2
-  (5) GhodoN Ki Ek Fauj Sajate Hai AshqiyaaN
-  Sajate Hai AshqiyaaN...
-  GhodoN Ki Ek Fauj Sajate Hai AshqiyaaN
-  Sajate Hai AshqiyaaN...
-  Malik Mere Gareeb Baradar Ki Khair Ho...
-  Baradar Ki Khair Ho...
-  (6) Naize Chuboo Rahe Hai Laeen Rekh Zar Me
-  Laeen Rekh Zar Me...
-  Laeen Rekh Zar Me..
-  Naize Chuboo Rahe Hai Laeen Rekh Zar Me
-  Laeen Rekh Zar Me...
-  Mango Dua Ke Laasha E Asgar Ki Khair Ho..
+  Sholoṅ ki zad meiṅ aakhiri khaima bhi aa gaya
+  Khaima bhi aa gaya
+  Parwardigaar nasl-e-Payambar ki khair ho
+  Payambar ki khair ho
 
   3
-  (7) Yeh Soch Ke Luta Diya Ghar Haq ki Raah Me
-  Ghr Haq ki Raah Me..
-  Yeh Soch Ke Luta Diya Ghar Haq ki Raah Me
-  Ghr Haq ki Raah Me..
-  Deen E Nabi Ki Kaaba E Athar Ki Khair Ho.
-  Athar Ki Khair Ho
+  Taapoṅ ke darmiyaan Hasan ka hai laadla
+  Hasan ka hai laadla
+  Farwa tere hasin gul-e-tar ki khair ho
+  Gul-e-tar ki khair ho
 
   4
-  (8) Shimr E Sitam Shaar ki kaano Pe Hai Nazar..
-  Kaano Pe Hai Nazar..
-  Shimr E Sitam Shaar ki kaano Pe Hai Nazar..
-  Kaano Pe Hai Nazar..
-  Nanhi Si JaaN Yateema E Sarwar Ki Khair Ho
-  Sarwar Ki Khair Ho...
-  (9) Zainab Duain Karti Hai Majlis Me Ay Faseel
-  Majlis Me Ay Faseel...
-  Zainab Duain Karti Hai Majlis Me Ay Faseel
-  Majlis Me Ay Faseel...
-  Har Aik Sogwar Ke Har Ghar Ki Khair Ho...
-  Har Ghar Ki Khair Ho
+  Naize ke phal ne tor diya hai jawaaṅ ka dil
+  Haaye jawaaṅ ka dil
+  Ham surat-e-Nabi Ali Akbar ki khair ho
+  Ali Akbar ki khair ho
+
+  5
+  Dariya pe so gaya hai mere ghar ka paasbaan
+  Mere ghar ka paasbaan
+  Parwardigaar ab meri chaadar ki khair ho
+  Chaadar ki khair ho
+
+  6
+  Ghoron ki ek fauj sajaate haiṅ ashqiyaa
+  Sajaate haiṅ ashqiyaa
+  Maalik mere gharib baraadar ki khair ho
+  Baraadar ki khair ho
+
+  7
+  Naize chubho rahe hai laeeṅ regzaraa meiṅ
+  Laeeṅ regzaar meiṅ
+  Maango dua ke laasha-e-Asghar ki khair ho
+  Asghar ki khair ho
+
+  8
+  Yeh soch ke luta diya ghar Haq ki raah meiṅ
+  Ghar Haq ki raah meiṅ
+  Din-e-Nabi ki Kaaba-e-Athar ki khair ho
+  Athar ki khair ho
+
+  9
+  Shimr-e-sitam shuaar ki kaanoṅ pe hai nazar
+  Kaanoṅ pe hai nazar
+  Nanhi si jaaṅ yatima-e-Sarwar ki khair ho
+  Sarwar ki khair ho
+
+  10
+  Zainab duaaeṅ karti haiṅ majlis meiṅ ae Fasil
+  Majlis meiṅ ae Fasil
+  Har ek sogwaar ke har ghar ki khair ho
+  Har ghar ki khair ho
+  Zainab ke bain hai ke mere ghar ki khair ho
 ---
 
 ۱

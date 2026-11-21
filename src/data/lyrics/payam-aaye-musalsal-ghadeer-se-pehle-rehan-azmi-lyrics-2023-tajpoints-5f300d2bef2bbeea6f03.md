@@ -1,41 +1,71 @@
 ---
-title: "Payam Aaye Musalsal Ghadeer Se Pehle Rehan Azmi Lyrics 2023"
+title: "پیام آئے مسلسل غدیر سے پہلے"
+alternateTitle: "Payam Aaye Musalsal Ghadeer Se Pehle"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Rehan"
-tags: ["noUrdu"]
+poet: "Rehan Azmi"
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Payam aaye musalsal Ghadeer se pehle Rehan Azmi
+  Howa na deen mukamal Ghadeer se pehle
+  Darood barsa Ali jis ghari banay maula
+  Barasta rehta tha badil Ghadeer se pehle
+
+  2
+  Tamam nematein karday ga aaj Rab-e-Kareem
+  Kissi ne socha na tha kal Ghadeer se pehle
+  Bohat se loag tu pagal hoye Ghadeer ke baad
+  Agarchey baaz they pagal Ghadeer se pehle
+
+  3
+  Sada-e-Salle Ala iss ki kook mein aayi
+  Na koki iss tarha koyal Ghadeer se pehle
+  Ali ko taj-e-wilayat mila tu sokh gaya
+  Hara ghamo ka tha jangal Ghadeer se pehle
+
+  4
+  Banaya kyun nahi iss shan ka bhi mimber
+  Batao Ahmad-e-Mursal Ghadeer se pehle
+  Tamam maslay hal ho gaye khudai ke
+  Jo maslay na hoye hal Ghadeer se pehle
+
+  5
+  Chupa ke chehray nabi ke addo farrar hoye
+  Jo taig kartay they saiqil Ghadeer se pehle
+  Hai aaj kitna muqadas Rehan lafz-e-ghadeer
+  Ghadeer lafz tha mohmil Ghadeer se pehle
 ---
 
-1
-Payam Aaye Musalsal Ghadeer Se Pehle Rehan Azmi.
-Howa Na Deen Mukamal Ghadeer Se Pehle.
-Darood Barsa Ali Jis Ghari Banay Maula.
-Barasta Rehta Tha Badil Ghadeer Se Pehle.
+۱
+پیام آئے مسلسل غدیر سے پہلے ریحان عظمیٰ
+ہوا نہ دین مکمل غدیر سے پہلے
+درود برسا علی جس گھڑی بنے مولا
+برستا رہتا تھا بادل غدیر سے پہلے
 
-2
-Tamam Nematein Karday Ga Aaj Rab-e-Kareem.
-Kissi Ne Socha Na Tha Kal Ghadeer Se Pehle.
-Bohat Se Loag Tu Pagal Hoye Ghadeer Ke Baad.
-Agarchey Baaz They Pagal Ghadeer Se Pehle.
+۲
+تمام نعمتیں کر دے گا آج ربِ کریم
+کسی نے سوچا نہ تھا کل غدیر سے پہلے
+بہت سے لوگ تو پاگل ہوئے غدیر کے بعد
+اگرچہ بعض تھے پاگل غدیر سے پہلے
 
-3
-Sada-e-Salle Ala Iss Ki Kook Mein Aayi.
-Na Koki Iss Tarha Koyal Ghadeer Se Pehle.
-Ali Ko Taj-e-Wilayat Mila Tu Sokh Gaya.
-Hara Ghamo Ka Tha Jangal Ghadeer Se Pehle.
+۳
+صدائے صلِّ علیٰ اس کی کوک میں آئی
+نہ کوکی اس طرح کوئل غدیر سے پہلے
+علی کو تاجِ ولایت ملا تو سوکھ گیا
+ہرا غموں کا تھا جنگل غدیر سے پہلے
 
-4
-Banaya Kyun Nahi Iss Shan Ka Bhi Mimber.
-Batao Ahmad-e-Mursal Ghadeer Se Pehle.
-Tamam Maslay Hal Ho Gaye Khudai Ke.
-Jo Maslay Na Hoye Hal Ghadeer Se Pehle.
+۴
+بنایا کیوں نہیں اس شان کا بھی منبر
+بتاؤ احمدِ مرسل غدیر سے پہلے
+تمام مسئلے حل ہو گئے خدائی کے
+جو مسئلے نہ ہوئے حل غدیر سے پہلے
 
-5
-Chupa Ke Chehray Nabi Ke Addo Farrar Hoye.
-Jo Taig Kartay They Saiqil Ghadeer Se Pehle.
-Hai Aaj Kitna Muqadas Rehan Lafz-e-Ghadeer.
-Ghadeer Lafz Tha Mohmil Ghadeer Se Pehle.
+۵
+چھپا کے چہرے نبی کے عدو فرار ہوئے
+جو تیغ کرتے تھے صیقل غدیر سے پہلے
+ہے آج کتنا مقدس ریحان لفظِ غدیر
+غدیر لفظ تھا مہمل غدیر سے پہلے

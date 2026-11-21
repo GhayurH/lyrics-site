@@ -13,14 +13,14 @@ aliases: ["Karbala Ki Rayt Pe"]
 published: true
 romanLyrics: |-
   Karbala ki ret pe pyaasoṅ ki hai ye daastaan
-  Hai Sakina ki sada pe tham gai nehr-e-rawaaṅ
+  Hai Sakina ki sadaa pe tham gai nehr-e-rawaaṅ
 
   1
-  Na rahe Abbaas Ghaazi na raha Akbar jawaaṅ
+  Na rahe Abbaas Ghaazi, na raha Akbar jawaaṅ
   Ho gaye Qaasim ke tukre ashqiyoṅ ke darmiyaaṅ
 
   2
-  Asghar beshir ne kaisa diya hai imtehaan
+  Asghar beshir ne kaisa diya hai imtihaan
   Muskuraana dekh kar hai ro pare arz o samaaṅ
 
   3

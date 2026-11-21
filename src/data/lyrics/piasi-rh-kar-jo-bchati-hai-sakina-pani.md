@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pyasi reh kar jo bachati hai Sakina pani
-  Tauq-e-Abid pe girati hai Sakina pani
+  Pyaasi reh kar jo bachaati hai Sakina paani
+  Tauq-e-Abid pe giraati hai Sakina paani
 
   1
-  Ab to aankhoṅ meiṅ bhi aaye to chupa leti hai
-  Shimr se itna chupati hai Sakina pani
+  Ab to aankhoṅ meiṅ bhi aaye to chhupa leti hai
+  Shimr se itna chhupaati hai Sakina paani
 
   2
   Hont khulte haiṅ to Abbas ada hota hai
-  Jab bhi pani ko bulati hai Sakina pani
+  Jab bhi paani ko bulaati hai Sakina paani
 
   3
   Aab-e-Kausar bhi patakhta hai fasiloṅ pe jabiṅ
-  Jab bhi chullu meiṅ uthati hai Sakina pani
+  Jab bhi chullu meiṅ uthaati hai Sakina paani
 
   4
   Kisi mashkize ke behne se jo uthti hai sada
-  Us ko aawaz ye aati hai Sakina pani
+  Us ko aawaaz ye aati hai Sakina paani
 
   5
   Haal aisa hai ke mutthi meiṅ uthaye mitti
-  Zer-e-lab bolti jati hai Sakina pani
+  Zer-e-lab bolti jaati hai Sakina paani
 
   6
-  Tishnagi hai ke ye Abbas ka dukh hai Akbar
-  Khak pe likh kar mitati hai Sakina pani
+  Tishnagi hai ke ye Abbas kaa dukh hai Akbar
+  Khaak par likh kar mitaati hai Sakina paani
 ---
 
 پیاسی رہ کر جو بچاتی ہے سکینہؑ پانی

@@ -8,65 +8,41 @@ poet: "Saghar Naqvi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Chuth raha hai nana ka aastan meri zainab
-
+romanLyrics: |-
+  Chhut raha hai nana ka aastaaṅ meri Zainab
 
   1
-
-  Bhai ka hua dushman ye jahan meri zainab
-
-  Tang hai zameen mujh par har taraf se nargha hai
-
-  Hai qareeb bhai par imtehan meri zainab
-
+  Bhai ka hua dushman ye jahaaṅ meri Zainab
+  Tang hai zamin mujh par har taraf se nargha hai
+  Hai qarib bhai par imtihaaṅ meri Zainab
 
   2
-
-  Dekhta rahoo kab tak rang ye zamane ka
-
-  Dab rahi hai saazon mein ab azan meri zainab
-
+  Dekhta rahuṅ kab tak rang ye zamane ka
+  Baj rahi hai saazoṅ mein ab azaaṅ meri Zainab
 
   3
-
   Waada apna tifli ka ab mujhe nibhana hai
-
-  Haath mein rasan hogi pasban meri zainab
-
+  Saath mere tum ho gi paasbaaṅ meri Zainab
 
   4
-
-  Bhai ka safar tere laazmi hai ay khaahar
-
-  Alqama pe tehrega karwan meri zainab
-
+  Bhai ka safar tere laazmi hai ae khaahar
+  Alqama pe thahre ga karwaaṅ meri Zainab
 
   5
-
-  Deen e haq ki nusrat ko karbala ke jangal mein
-
-  Khoon se naha''ega karwan meri zainab
-
+  Din-e-Haq ki nusrat ko Karbala ke jangal mein
+  Khun mein nahaye ga karwaaṅ meri Zainab
 
   6
-
-  Baad mere ahle keen zulm tum pe dhayenge
-
-  Baazu''on mein baandhenge rassiyan meri zainab
-
+  Baad mere ahl-e-din zulm tum pe dhayeṅ ge
+  Baazuoṅ mein baandheṅ ge rassiyaaṅ meri Zainab
 
   7
-
-  Qaid ho ke jaogi shaam aur kufay mein
-
-  Pehne hoga abid bhi bediyan meri zainab
-
+  Qaid ho ke jao gi Shaam aur Kufe mein
+  Pahne ho ga Aabid bhi beriyaaṅ meri Zainab
 
   8
-
-  Sheh safar ka pas manzar kehke chup hue saaghar
-
-  Mai hoon haq ki marzi par shadman meri zainab'
+  Shah-e-safar ka pas manzar kah ke chup hue Saaghar
+  Main huṅ haq ki marzi par shaadmaaṅ meri Zainab
 ---
 
 چھٹ رہا ہے نانا کا آستاں میری زینبؑ

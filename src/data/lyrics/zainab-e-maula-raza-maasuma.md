@@ -17,7 +17,7 @@ romanLyrics: |-
   Ya Sayyida ya Shaafia
   Ya bint-e-Rasul-e-Khuda
   Ya Aalima ya Zaahida
-  Ya Saaliha ukht ur Raza
+  Ya Saaliha ukht-ur-Raza
   Tasvir-e-rukh-e-Fatima
   Maasuma Maasuma
 
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   2
   Tere khuddaam mujhe jaante haiṅ
-  Hai ye aezaaz mera Maasuma
+  Hai ye izaaz mera Maasuma
 
   3
   Jis ko kehta hai Khuda baab-e-muraad

@@ -15,14 +15,14 @@ romanLyrics: |-
   Paani pyaasoṅ ko jab pilaao ge
   Karbala wale yaad aayeṅ ge
 
-  Koi mar jaata hai kisi ka agar
+  Koi mar jaata hai kis ka agar
   Kaandha dete haiṅ log aa ke magar
   Shah ne tanha uthaai laash-e-pisar
   Jab jawaaṅ koi laash uthaao ge
 
   1
   Karbala meiṅ bana tha jo dulha
-  Kya muqaddar tha uski dulhan ka
+  Kya muqaddar tha us ki dulhan ka
   Shab ko dulhan thi subh ko bewa
   Betiyoṅ ka jo ghar basaao ge
 
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   5
   Haaye Muslim ke wo pisar donoṅ
-  Eid ke din the dar ba dar donoṅ
+  Eid ke din the dar pe dar ba dar donoṅ
   Yaad karte the apna ghar donoṅ
   Eid apnoṅ meiṅ jab manaao ge
 

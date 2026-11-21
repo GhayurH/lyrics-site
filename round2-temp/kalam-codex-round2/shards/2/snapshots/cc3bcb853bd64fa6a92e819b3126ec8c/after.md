@@ -1,0 +1,91 @@
+---
+title: "امام پردہء غیبت سے دے رہے ہیں صدا"
+recitationId: "mai-pardae-ghaibat"
+alternateTitle: "Main Parda-e-Ghaibat"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Hussain Gohar"
+reciter: "Mir Hasan Mir"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Imam parda-e-ghaibat se de rahe haiṅ sada
+  Ana ibn-e-Zahra
+  Nazar meiṅ rehti hai har waqt mere Karbobala
+  Ana ibn-e-Zahra
+
+  1
+  Maiṅ parda-e-ghaibat se samaaṅ dekh raha huṅ
+  Sajjad ke khaimoṅ ka dhuaaṅ dekh raha huṅ
+  Zainab chali jis aag meiṅ Abid ko bachaane
+  Us aag meiṅ pairoṅ ke nishaaṅ dekh raha huṅ
+
+  2
+  Jis sar pe saja karti thi dastaar-e-Muhammad
+  Us sar ko sar-e-nok-e-sinaaṅ dekh raha huṅ
+
+  3
+  Bas tir hai chalne ab Asghar ke gale par
+  Zaalim ki maiṅ qamra kamaaṅ dekh raha huṅ
+
+  4
+  Jis rukh ke liye karte the bose shaah-e-waala
+  Us rukh pe tamaanchoṅ ke nishaaṅ dekh raha huṅ
+
+  5
+  Maqtal meiṅ kahaaṅ saani-e-Zehra ki rida hai
+  Abbas ke baazu haiṅ kahaaṅ dekh raha huṅ
+
+  6
+  Aaye na watan laut ke phir Aun o Muhammad
+  Ujra hua Zainab ka makaaṅ dekh raha huṅ
+
+  7
+  Maaṅ baap behan bhai phuphi aur aizza
+  Ik tir meiṅ kitnoṅ ki maiṅ jaaṅ dekh raha huṅ
+
+  8
+  Gohar hai jahaaṅ dafn Saqifa ki shahidaaṅ
+  Us qabr ko benaam o nishaaṅ dekh raha huṅ
+---
+امام پردہء غیبت سے دے رہے ہیں صدا
+انا ابن زہرا
+نظر میں رہتی ہے ہر وقت میرے کربوبلا
+انا ابن زہرا
+
+۱
+میں پردہء غیبت سے سماں دیکھ رہا ہوں
+سجاد کے خیموں کا دھواں دیکھ رہا ہوں
+زینب چلی جس آگ میں عابد کو بچانے
+اس آگ میں پیروں کے نشاں دیکھ رہا ہوں
+
+۲
+جس سر پہ سجا کرتی تھی دستار محمد
+اس سر کو سر نوکِ سناں دیکھ رہا ہوں
+
+۳
+بس تیر ہے چلنے اب اصغر کے گلے پر
+ظالم کی میں قمرا کماں دیکھ رہا ہوں
+
+۴
+جس رخ کے لئے کرتے تھے بوسے شہ والا
+اس رخ پہ طمانچوں کے نشاں دیکھ رہا ہوں
+
+۵
+مقتل میں کہاں ثانیء زہرا کی ردا ہے
+عباس کے بازو ہیں کہاں دیکھ رہا ہوں
+
+۶
+آئے نہ وطن لوٹ کے پھر عون و محمد
+اجڑا ہوا زینب کا مکاں دیکھ رہا ہوں
+
+۷
+ماں باپ بہن بھائی پھپھی اور اعزا
+اک تیر میں کتنوں کی میں جاں دیکھ رہا ہوں
+
+۸
+گوہر ہے جہاں دفن سقیفہ کی شہیداں
+اس قبر کو بے نام و نشاں دیکھ رہا ہوں

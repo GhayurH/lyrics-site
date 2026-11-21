@@ -15,57 +15,57 @@ published: true
 romanLyrics: |-
   Girte the zin se jis dam zamin par Akbar
   Tarap rahe the yehi waaṅ soch kar Akbar
-  Chacha ke sadme meiṅ Baba ki jhuk gayi hai kamar
+  Chacha ke sadme mein Baba ki jhuk gayi hai kamar
   Chhupaana hoga mujhe un se apne zakhm-e-jigar
-  Na mujh ko khun meiṅ tar dekh paayeṅge Baba
-  Mere janaaze ko kaise uthaayeṅge Baba
-  Ragarna aeriyaaṅ mera bhula na paayeṅge Baba
-  Zaifi meiṅ mera laasha utha na paayeṅge Baba
+  Na mujh ko khun mein tar dekh paayeṅ ge Baba
+  Mere janaaze ko kaise uthaayeṅ ge Baba
+  Ragarna aeriyaaṅ mera bhula na paayeṅ ge Baba
+  Zaifi mein mera laasha utha na paayeṅ ge Baba
 
-  Zaifi meiṅ mera laasha
-  Utha na paayeṅge Baba
+  Zaifi mein mera laasha
+  Utha na paayeṅ ge Baba
   Ragarna aeriyaaṅ mera
-  Bhula na paayeṅge Baba
+  Bhula na paayeṅ ge Baba
 
   1
-  Na jaane kis tarah maqtal meiṅ
-  Mujh ko dhundte hoṅge
-  Nazar aata na hoga kuch
-  Sadaaeṅ de rahe hoṅge
+  Na jaane kis tarah maqtal mein
+  Mujh ko dhundte hoṅ ge
+  Nazar aata na hoga kuchh
+  Sadaaeṅ de rahe hoṅ ge
   Taraai se chacha ko bhi
-  Bula na paayeṅge Baba
+  Bula na paayeṅ ge Baba
 
   2
-  Maiṅ hamshakl-e-Payambar huṅ
+  Main hamshakl-e-Payambar huṅ
   Mere Baba yeh kehte the
   Dua har roz sine se
   Laga kar mujh ko dete the
   Laga kar aaj sine se
-  Hata na paayeṅge Baba
+  Hata na paayeṅ ge Baba
 
   3
   Mujhe dam torta haathoṅ
-  Pe kis tarah se dekheṅge
+  Pe kis tarah se dekheṅ ge
   Mere sine se barchhi ko
-  Woh kis tarah se kheṅcheṅge
+  Woh kis tarah se kheṅcheṅ ge
   Kisi ko haal-e-dil apna
-  Bata na paayeṅge Baba
+  Bata na paayeṅ ge Baba
 
   4
   Khuda jaane ke khaime tak
-  Woh kaise le ke jaayeṅge
+  Woh kaise le ke jaayeṅ ge
   Meri maaṅ ko meri mayyat
-  Pe woh kaise bulaayeṅge
+  Pe woh kaise bulaayeṅ ge
   Mera khuṅ se bhara chehra
-  Dikha na paayeṅge Baba
+  Dikha na paayeṅ ge Baba
 
   5
   Phuphi ammaaṅ dar-e-khaima
-  Pe raaheṅ tak rahi hoṅgi
+  Pe raaheṅ tak rahi hoṅ gi
   Mere jine ki woh ab bhi
-  Duaaeṅ kar rahi hoṅgi
+  Duaaeṅ kar rahi hoṅ gi
   Mera zakhmi sina un se
-  Chhupa na paayeṅge Baba
+  Chhupa na paayeṅ ge Baba
 
   6
   Bahut armaan tha maaṅ ko
@@ -73,23 +73,23 @@ romanLyrics: |-
   Mujhe dulha banaane ka
   Meri dulhan ko laane ka
   Mere sar par magar sehra
-  Saja na paayeṅge Baba
+  Saja na paayeṅ ge Baba
 
   7
-  Qayaamat ka tha woh manzar
+  Qiyaamat ka tha woh manzar
   Khat-e-Sughra tha laasha par
   Shah-e-din ka tha yeh nauha
   Jawaaṅ bete ke laasha par
   Tumheṅ Akbar se ab Sughra
-  Mila na paayeṅge Baba
+  Mila na paayeṅ ge Baba
 
   8
   Nazar ke saamne thi Shaadmaaṅ
-  Laash Ali Akbar
-  Qayaamat ho gayi barpa
+  Laash-e-Ali Akbar
+  Qiyaamat ho gayi barpa
   Kaha jab Shaah ne ro kar
-  Zaifi meiṅ tera laasha
-  Utha na paayeṅge Baba
+  Zaifi mein tera laasha
+  Utha na paayeṅ ge Baba
 ---
 گرتے تھے زین سے جس دم زمین پر اکبر
 تڑپ رہے تھے یہی واں سوچ کر اکبر

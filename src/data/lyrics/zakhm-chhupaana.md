@@ -17,18 +17,18 @@ romanLyrics: |-
 
   1
   Kis tarah se dekheṅ gi wo hum donoṅ ki ghurbat
-  Wo royi to aa jaaye gi khaimoṅ meiṅ qayaamat
-  Maiṅ zakhm chhupa leta huṅ tum aansu chhupaana
+  Wo royi to aa jaaye gi khaimoṅ mein qayaamat
+  Main zakhm chhupa leta huṅ tum aansu chhupaana
   Baba phupi ammaaṅ se mera zakhm chhupaana
 
   2
   Tasvir-e-Muhammad hai bare naazoṅ se paali
-  Mar jaaye na khaime meiṅ meri paalne waali
+  Mar jaaye na khaime mein meri paalne waali
   Hargiz ye mera haath na sine se hataana
   Baba phupi ammaaṅ se mera zakhm chhupaana
 
   3
-  Maari hai sinaaṅ sine pe ye keh ke laiṅ ne
+  Maari hai sinaaṅ sine pe ye keh ke la'iṅ ne
   Phuloṅ ki tarah paala hai Akbar ko phuphi ne
   Laashe pe abaa khaimoṅ se pehle hi urhaana
   Baba phupi ammaaṅ se mera zakhm chhupaana
@@ -58,9 +58,9 @@ romanLyrics: |-
   Baba phupi ammaaṅ se mera zakhm chhupaana
 
   8
-  Is haal meiṅ de sabr Khuda bint-e-Ali ko
+  Is haal mein de sabr Khuda bint-e-Ali ko
   Akbar ka salaam aakhri keh dena phuphi ko
-  Zinda bara mushkil hai mera khaime meiṅ jaana
+  Zinda bara mushkil hai mera khaime mein jaana
   Baba phupi ammaaṅ se mera zakhm chhupaana
 
   9
@@ -76,7 +76,7 @@ romanLyrics: |-
   Baba phupi ammaaṅ se mera zakhm chhupaana
 
   11
-  Us aakhri hichki meiṅ Takallum hua mahshar
+  Us aakhri hichki mein Takallum hua mahshar
   Akbar ne kaha haath jo peshaani pe rakh kar
   Lo hum ko ijaazat do hameṅ dur hai jaana
   Baba phupi ammaaṅ se mera zakhm chhupaana

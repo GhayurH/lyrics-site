@@ -1,44 +1,78 @@
 ---
-title: "Chor Kar Duniya Chalay Sajjad Khoon Rote Howay"
+title: "چھوڑ کر دنیا چلے سجاد خون روتے ہوئے"
+alternateTitle: "Chor Kar Duniya Chalay Sajjad Khoon Rote Howay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chor kar duniya chalay Sajjad khoon rote howay
+  Aa raha hai aaj kya kya yaad khoon rote howay
+
+  1
+  Kat gaye chalees baras bas ik rida ke soag mein
+  Waqiya-e-Karbala ke baad khoon rote howay
+  Aaj bhi bhole nahi be-kafan lasha baap ka
+  Yaad aaye zakhm la-tadad khoon rote howay
+
+  2
+  Aakhri sanson mein bhi beemar ko bholi nahi
+  Behan ki woh aakhri faryad khoon rote howay
+  Tang rasi mein bandhi apni behan ki lash ko
+  Apne hathon se kiya aazad khoon rote howay
+
+  3
+  Haq adda na kar saka baba ke gham mein rone ka
+  Khatam ho gayi jeene ki miaad khoon rote howay
+  Iss bhari dunya mein bas mera hi ghar veeran tha
+  Our dekha har nagar aabad khoon rote howay
+
+  4
+  Ro raha tha mera kunba our sare Musalmaan
+  Dekh kar hote the mujh ko shad khoon rote howay
+  Dekhte hi dekhte Khaliq se Abid ja mile
+  Choor kar roti hoi olad khoon rote howay
+
+  5
+  Jab talak zinda rahe sab ko biyan karte rahe
+  Karbala se Sham ki rodad khoon rote howay
+  Alam-e-ghurbat mein bhi Tauqeer farzan-e-hussain
+  Kar gaye Islam ki imdad khoon rote howay
 ---
 
-Chor Kar Duniya Chalay Sajjad Khoon Rote Howay.
-Aa Raha Hai Aaj Kya Kya Yaad Khoon Rote Howay.
+چھوڑ کر دنیا چلے سجاد خون روتے ہوئے
+آ رہا ہے آج کیا کیا یاد خون روتے ہوئے
 
-1
-Kat Gaye Chalees Baras Bas Ik Rida Ke Soag Mein.
-Waqiya-e-Karbala Ke Baad Khoon Rote Howay.
-Aaj Bhi Bhole Nahi Be-Kafan Lasha Baap Ka.
-Yaad Aaye Zakhm La-Tadad Khoon Rote Howay.
+۱
+کٹ گئے چالیس برس بس اک ردا کے سوگ میں
+واقعۂ کربلا کے بعد خون روتے ہوئے
+آج بھی بھولے نہیں بے کفن لاشہ باپ کا
+یاد آئے زخم لاتعداد خون روتے ہوئے
 
-2
-Aakhri Sanson Mein Bhi Beemar Ko Bholi Nahi.
-Behan Ki Woh Aakhri Faryad Khoon Rote Howay.
-Tang Rasi Mein Bandhi Apni Behan Ki Lash Ko.
-Apne Hathon Se Kiya Aazad Khoon Rote Howay.
+۲
+آخری سانسوں میں بھی بیمار کو بھولی نہیں
+بہن کی وہ آخری فریاد خون روتے ہوئے
+تنگ رسی میں بندھی اپنی بہن کی لاش کو
+اپنے ہاتھوں سے کیا آزاد خون روتے ہوئے
 
-3
-Haq Adda Na Kar Saka Baba Ke Gham Mein Rone Ka.
-Khatam Ho Gayi Jeene Ki Miaad Khoon Rote Howay.
-Iss Bhari Dunya Mein Bas Mera Hi Ghar Veeran Tha.
-Our Dekha Har Nagar Aabad Khoon Rote Howay.
+۳
+حق ادا نہ کر سکا بابا کے غم میں رونے کا
+ختم ہو گئی جینے کی میعاد خون روتے ہوئے
+اس بھری دنیا میں بس میرا ہی گھر ویران تھا
+اور دیکھا ہر نگر آباد خون روتے ہوئے
 
-4
-Ro Raha Tha Mera Kunba Our Sare Musalmaan.
-Dekh Kar Hote The Mujh Ko Shad Khoon Rote Howay.
-Dekhte Hi Dekhte Khaliq se Abid Ja Mile.
-Choor Kar Roti Hoi Olad Khoon Rote Howay.
+۴
+رو رہا تھا میرا کنبہ اور سارے مسلمان
+دیکھ کر ہوتے تھے مجھ کو شاد خون روتے ہوئے
+دیکھتے ہی دیکھتے خالق سے عابد جا ملے
+چھوڑ کر روتی ہوئی اولاد خون روتے ہوئے
 
-5
-Jab Talak Zinda Rahe Sab Ko Biyan Karte Rahe.
-Karbala Se Sham Ki Rodad Khoon Rote Howay.
-Alam-e-Ghurbat Mein Bhi Tauqeer Farzan-e-Hussain.
-Kar Gaye Islam Ki Imdad Khoon Rote Howay.
+۵
+جب تلک زندہ رہے سب کو بیاں کرتے رہے
+کربلا سے شام کی روداد خون روتے ہوئے
+عالمِ غربت میں بھی توقیر فرزانِ حسین
+کر گئے اسلام کی امداد خون روتے ہوئے

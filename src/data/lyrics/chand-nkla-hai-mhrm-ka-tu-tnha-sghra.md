@@ -17,31 +17,31 @@ romanLyrics: |-
   Ek bimaar nazar aati hai tanha Sughra
 
   2
-  Tere charhne se ujar jaayega ghar Zahra ka
+  Tere charhne se ujar jaaye ga ghar Zahra ka
   Aaj chhup ja tujhe kehti hai ye dukhiya Sughra
 
   3
-  Shaam dhalti hai to aa jaate haiṅ paṅchhi ghar ko
-  Deti virān gharoṅ se hai ye sada Sughra
+  Shaam dhalti hai to aa jaate haiṅ panchhi ghar ko
+  Deti viraan gharoṅ se hai ye sada Sughra
 
   4
-  Jis tarah bichhri huṅ maiṅ aur na bichhre koi
-  Karti nana se hai ro ro ke ye shikwa Sughra
+  Jis tarah bichhri huṅ main aur na bichhre koi
+  Karti naana se hai ro ro ke ye shikwa Sughra
 
   5
   Puchhta hai koi Sughra se ro deti hai
   Kiuṅ na aaya tera Akbar zara batla Sughra
 
   6
-  Dil meiṅ hai ek tamanna ke mile Akbar se
+  Dil meiṅ hai ik tamanna ke mile Akbar se
   Raat din karti hai rauze pe ye dua Sughra
 
   7
-  Aas bhi tut gayi saaṅs bhi ukhri meri
+  Aas bhi tut gayi saans bhi ukhri meri
   Haaye kab dekhegi Akbar tera chehra Sughra
 
   8
-  Na mila baba na bhaiya kabhi sardaar jaise
+  Na mila baaba na bhaiya kabhi sardaar jaise
   Seh gayi kis tarah har gham ki inteha Sughra
 ---
 

@@ -19,30 +19,30 @@ romanLyrics: |-
 
   1
   Husain aap jo chaaheṅ to kuchh nahiṅ mushkil
-  Tarap raha hai bahut Karbala ki yaad meiṅ dil
+  Tarap raha hai bahut Karbala ki yaad mein dil
   Phir ek baar mujhe Karbala dikha dije
   Karbala yaad bahut aati hai bula lije
 
   2
-  Tumhaare rauze pe aane meiṅ aaj diqqat hai
+  Tumhaare rauze pe aane mein aaj diqqat hai
   Magar khabar hai tumheṅ mujh ko kitni chaahat hai
-  Maiṅ sar ke bal chala aauṅga bas sada dije
+  Main sar ke bal chala aauṅ ga bas sada dije
   Karbala yaad bahut aati hai bula lije
 
   3
-  Mere khayaal meiṅ jab aaye do kate baazu
-  Alam ko dekh ke aankhoṅ meiṅ aa gaye aansu
+  Mere khayaal mein jab aaye do kate baazu
+  Alam ko dekh ke aankhoṅ mein aa gaye aansu
   Tarap raha huṅ Alamdar se mila dije
   Karbala yaad bahut aati hai bula lije
 
   4
   Gulu-e-Asghar-e-beshir chhid gaya tha jidhar
-  Sabil dudh ki jaa kar lagaauṅ maiṅ bhi udhar
-  Maiṅ zaairoṅ se kahuṅ ga mujhe dua dije
+  Sabil dudh ki jaa kar lagaauṅ main bhi udhar
+  Main zaairoṅ se kahuṅ ga mujhe dua dije
   Karbala yaad bahut aati hai bula lije
 
   5
-  Kisi bhi haal meiṅ jaana hai roz-e-Aashura
+  Kisi bhi haal mein jaana hai roz-e-Aashura
   Lahu badan se bahaana hai roz-e-Aashura
   Hai maatami ki sada phir hameṅ sada dije
   Karbala yaad bahut aati hai bula lije
@@ -54,14 +54,14 @@ romanLyrics: |-
   Karbala yaad bahut aati hai bula lije
 
   7
-  Haiṅ ashk aankhoṅ meiṅ aur dil udaas hai mera
+  Haiṅ ashk aankhoṅ mein aur dil udaas hai mera
   Mujhe bulaaeṅ ge kab aap Karbala Maula
-  Kuchh aa ke khwaab meiṅ hi mujh ko aasra dije
+  Kuchh aa ke khwaab mein hi mujh ko aasra dije
   Karbala yaad bahut aati hai bula lije
 
   8
   Sada Rehaan-e-aza ki hai bar zabaan-e-Raza
-  Maiṅ Arbaain pe mashi karuṅga ae Maula
+  Main Arbaain pe mashi karuṅ ga ae Maula
   Phir ek baar mujhe paaoṅ par chala dije
   Karbala yaad bahut aati hai bula lije
 ---

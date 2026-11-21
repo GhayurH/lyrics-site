@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Ae bhaai hum bhare darbaar se guzaare gaye
   Ghazab to ye hai ke patthar bhi hum ko maare gaye
-  Nishaan-e-zakhm jabiṅ par saja ke laayi huṅ
+  Nishaan zakhmi jabiṅ par saja ke laayi huṅ
 
   5
   Imaam-e-waqt ye maasum Aabid-e-bimaar

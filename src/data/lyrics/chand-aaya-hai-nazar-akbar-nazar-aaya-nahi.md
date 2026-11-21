@@ -7,6 +7,18 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chaand aaya hai nazar Akbar nazar aaya nahiṅ
+  Bhaai ko muddat hui Sughra se mil paaya nahiṅ
+  Rote rote din dhale shaam aate aate raat bhar
+  Kaun sa hai waqt dil jab us ka ghabraaya nahiṅ
+
+  2
+  Shaam hote hi jalaa deti hai hujre mein diya
+  Bhaai ka hujra magar aabaad ho paaya nahiṅ
+  Dhup mein guzre ga din aur raat saari us mein
+  Ye to chaukhat hai yahaaṅ Sughra kahiṅ saaya nahiṅ
 ---
 
 ۱

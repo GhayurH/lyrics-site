@@ -1,5 +1,6 @@
 ---
-title: "Zahra S.A Tere Gulshan Main Ab Kaisay Bahar"
+title: "زہرا س تیرے گلشن میں اب کیسے بہار"
+alternateTitle: "Zahra Tere Gulshan Mein Ab Kaise Bahaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,7 +9,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ayyam-e-Fatimia 2021 in Urdu Text
+  Zahra tere gulshan mein ab kaise bahaar aaye
+
+  Ujre ni koi aise Zainab ki pukaar aaye
+
+  Maatam to kare kiuṅ kar roye to kaise aakhir
+
+  Koi Ahl-e-Saqifa ki beti bhi ho bin chaadar
+
+  Zainab ki tarah kariyaaṅ pahne wo baazaar aaye
+
+  Maaṅ ko tu na bhule gi wo khushk zabaaṅ teri
+
+  Kya tir ke qaabil thi wo nanhi si jaaṅ teri
+
+  Ab kis ko dilaase duṅ ab kis pe pyaar aaye
+
+  Kab tak mujhe jina hai waadoṅ pe tere Akbar
+
+  In aaṅkhoṅ ki hasrat hai dekho to zara Akbar
+
+  Bhaiya main tujhe dekhuṅ is dil ko qaraar aaye
+
+  Paani nahiṅ maanguṅ gi Baaba ko na rouṅ gi
+
+  Sajjad mujhe le chal zindaaṅ mein na souṅ gi
+
+  Mar jaauṅ gi dam ghut ke nikluṅ to bahaar aaye
+
+  Mazlum ka maatam hai karte raheṅ ge saare
+
+  Is sifat mein shaamil hai Allah ke nabi saare
+
+  Mazlum ko rone se chehroṅ pe nikhaar aaye
+
+  Chehra nahiṅ neze pe sar Ghazi ka hai logo
+
+  Neze pe jo dekhi hai Bibi ki rida logo
+
+  Jab Shaam mein ae Najafi the neza sawaar aaye
+
+  Ujre na koi aise
+
+  Zainab ki pukaar aaye
 ---
 
 زہرا س تیرے گلشن میں اب کیسے بہار آئے

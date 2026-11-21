@@ -11,40 +11,40 @@ tags: []
 aliases: ["Qaid Zindan May"]
 published: true
 romanLyrics: |-
-  Qaid zindaaṅ meiṅ chhoti si ek hai qaidan
-  Ek hai qaidan
-  Jaane kab ho ke riha jaayegi wo apne watan
-  Ek hai qaidan
+  Qaid zindaaṅ meiṅ chhoti si ik hai qaidan
+  Ik hai qaidan
+  Jaane kab ho ke riha jaaye gi wo apne watan
+  Ik hai qaidan
 
   1
   Dur Baba se hui bhaiya se bhi dur hui
   Siskiyaaṅ le na sake kitni wo majbur hui
   Khun kaanoṅ se rawaaṅ haathoṅ meiṅ hai us ke rasan
-  Ek hai qaidan
+  Ik hai qaidan
 
   2
   Jab se bichhri hai wo Baba se kahaaṅ soti hai
   Yaad zindaan meiṅ Baba ko kar ke roti hai
   Kab use sone bhala deti hai pattharoṅ ki chubhan
-  Ek hai qaidan
+  Ik hai qaidan
 
   3
   Puchhti rehti hai Sajjad se kab jaauṅ gi ghar
   Karna ehsaan ye mujh par bhai mar jaauṅ agar
   Jahaaṅ Asghar hai wahaaṅ karna mujhe bhai dafn
-  Ek hai qaidan
+  Ik hai qaidan
 
   4
   Jab wo zindaaṅ ki diwaaroṅ se takraati hai
   Sirf zanjir ke rone ki sada aati hai
   Roye zindaan use roye use charkh-e-kohan
-  Ek hai qaidan
+  Ik hai qaidan
 
   5
   Chhaaya zindaan meiṅ hai gor andhera haaye
   Aur zindaaṅ ke andheroṅ meiṅ wo dar dar jaaye
   Haaye Khurshid thi na aaye na dar us ko kiran
-  Ek hai qaidan
+  Ik hai qaidan
 ---
 قید زنداں میں چھوٹی سی اک ہے قیدن
 اک ہے قیدن

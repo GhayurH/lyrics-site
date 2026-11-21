@@ -21,14 +21,14 @@ romanLyrics: |-
 
   2
   Qayaamat kiuṅ na ho Abbas ka hamla sar-e-saahil
-  Nazar aaya jo darya baazu ki machhli ubhar aayi
+  Nazar aaya jo daryaa baazu ki machhli ubhar aayi
 
   3
   Sunaati thi Batul-e-paak ko sab jang ki baateiṅ
   Palat kar jang se tegh-e-Ali jab apne ghar aayi
 
   4
-  Ali ke haath ki zarbat hai goya zarbat-e-Qaadir
+  Ali ke haath ki zarbat hai goyaa zarbat-e-Qaadir
   Sar-e-Arzaq pe chamki thi ke barh kar taa kamar aayi
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Muhammad ke liye Allah ke ghar meiṅ sipar aayi
 
   6
-  Ye shamshir-e-Ali hai ya hai baraste abr meiṅ bijli
+  Ye shamshir-e-Ali hai yaa hai baraste abr meiṅ bijli
   Wahaaṅ kaundhi yahaaṅ garji idhar chamki idhar aayi
 
   7
@@ -48,7 +48,7 @@ romanLyrics: |-
   Usi Hur ko rukh-e-Shabbir meiṅ jannat nazar aayi
 
   9
-  Azaab aata hua rukwa diya apni sifaarish se
+  Azaab aata hua rukwaa diyaa apni sifaarish se
   Ataa-e-Shaah-e-diṅ Maahir sar-e-mahshar nazar aayi
 ---
 

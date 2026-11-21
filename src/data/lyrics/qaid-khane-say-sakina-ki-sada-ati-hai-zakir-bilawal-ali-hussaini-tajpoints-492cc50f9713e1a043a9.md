@@ -1,28 +1,44 @@
 ---
-title: "Qaid Khane Say Sakina Ki Sada Ati Hai Zakir Bilawal Ali Hussaini"
+title: "قید خانے سے سکینہ کی صدا آتی ہے"
+alternateTitle: "Qaid Khane Say Sakina Ki Sada Ati Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mohsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaid khane se Sakina ki sada aati hai
+  Roshni hai na yahan taza hawa aati hai
+  Siskiyaan leti hoon jab khak paray zakhmo mein
+  Na sakoon aata hai na mujh ko qaza aati hai
+  Pochti rehti hai zindaan ki dewarein mujh se
+  Chaar saloon mein zaeefi bhi bhala aati hai
+  Jis ka jee chahe lagata hai tamacha Baba
+  Mere hissay mein yeh har roz saza aati hai
+  Pani masoom Sakina ko miley jitna bhi
+  Ja ke Abid ke salasil pe baha aati hai
+  Tang-o-tareek sitam khane mein itni hai ghutan
+  Sans aati hai tu mushkil se zarra aati hai
+  Rooh Mohsin woh zamane mein azadar bani
+  Le ke humrah jo chodah ki wila aati hai
 ---
 
-1
-Qaid Khane Say Sakina Ki Sada Ati Hai Zakir Bilawal Ali Hussaini.
-Qaid Khane Se Sakina Ki Sada Aati Hai.
-Roshni Hai Na Yahan Taza Hawa Aati Hai.
-Siskiyaan Leti Hoon Jab Khak Paray Zakhmo Mein.
-Na Sakoon Aata Hai Na Mujh Ko Qaza Aati Hai.
-Pochti Rehti Hai Zindaan Ki Dewarein Mujh Se.
-Chaar Saloon Mein Zaeefi Bhi Bhala Aati Hai.
-Jis Ka Jee Chahe Lagata Hai Tamacha Baba.
-Mere Hissay Mein Yeh Har Roz Saza Aati Hai.
-Pani Masoom Sakina Ko Miley Jitna Bhi.
-Ja Ke Abid Ke Salasil Pe Baha Aati Hai.
-Tang-o-Tareek Sitam Khane Mein Itni Hai Ghutan.
-Sans Aati Hai Tu Mushkil Se Zarra Aati Hai.
-Rooh Mohsin Woh Zamane Mein Azadar Bani.
-Le Ke Humrah Jo Chodah Ki Wila Aati Hai.
+۱
+قید خانے سے سکینہ کی صدا آتی ہے
+روشنی ہے نہ یہاں تازہ ہوا آتی ہے
+سسکیاں لیتی ہوں جب خاک پڑے زخموں میں
+نہ سکون آتا ہے نہ مجھ کو قضا آتی ہے
+پوچھتی رہتی ہے زنداں کی دیواریں مجھ سے
+چار سالوں میں ضعیفی بھی بھلا آتی ہے
+جس کا جی چاہے لگاتا ہے تماچا بابا
+میرے حصے میں یہ ہر روز سزا آتی ہے
+پانی معصوم سکینہ کو ملے جتنا بھی
+جا کے عابد کے سلاسل پہ بہا آتی ہے
+تنگ و تاریک ستم خانے میں اتنی ہے گھٹن
+سانس آتی ہے تو مشکل سے ذرا آتی ہے
+روح محسن وہ زمانے میں عزادار بنی
+لے کے ہمراہ جو چودہ کی ولا آتی ہے

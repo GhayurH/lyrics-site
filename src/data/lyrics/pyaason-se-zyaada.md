@@ -19,12 +19,12 @@ romanLyrics: |-
 
   1
   Pyaase jo rahe chaubis pehar
-  Lu dhup meiṅ yuṅ sukha paani
+  Lu dhup meiṅ yuṅ sukhaa paani
   Roye to lahu aaya beh kar
   Aankhoṅ meiṅ na tha qatra paani
 
   2
-  Asghar ne bari umidoṅ se
+  Asghar ne bari ummidoṅ se
   Munh khola magar lab tar na hue
   Bachche ke liye Allah Allah
   Tha jaan se bhi mehnga paani
@@ -61,9 +61,9 @@ romanLyrics: |-
 
   8
   Patthar ke jigar bhi aab hue
-  Maqtal meiṅ Nisaar aada roye
+  Maqtal meiṅ Nisaar aadaa roye
   Hontoṅ pe phira kar apni zabaaṅ
-  Beshir ne jab maanga paani
+  Be Shir ne jab maanga paani
 ---
 پیاسوں سے زیادہ دور نہ تھا
 بہتے ہوئے دریا کا پانی

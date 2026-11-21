@@ -8,68 +8,42 @@ poet: "Anees Pehersari"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab ne hilakar shana kaha
-
-  Ay sayyede sajjad utho
-
+romanLyrics: |-
+  Zainab ne hila kar shaana kaha
 
   1
-
-  Larza hai zameen e karbobala
-
+  Ae Sayyid Sajjad utho
+  Lari hai zamin Karb o Bala
 
   2
-
-  Gardoone lahoo barsaya hai
-
-  Sooraj bhi grehan mein aaya hai
-
-  Sar tan se hua sarwar ka juda
-
+  Garduṅ ne lahu barsaya hai
+  Suraj bhi girhan meiṅ aaya hai
+  Sar tan se hua Sarwar ka juda
 
   3
-
-  Sar kaat ke noke naiza par
-
-  Aada ne rakha hai ay dilbar
-
-  Paamali ki zadd par hai laasha
-
+  Sar kaat ke nok-e-naiza par
+  Aada rakha hai ae dilbar
+  Paamaal ki zad par hai laasha
 
   4
-
-  Farzande nabi par ghodon ki
-
-  Mai kya karoon wo yalghaar hui
-
-  Sab tukde badan sarwar ka hua
-
+  Farzand-e-Nabi par ghoroṅ ki
+  Maiṅ kya karuṅ woh yalghaar hui
+  Sab tukre badan Sarwar ka hua
 
   5
-
-  Masoom sakina ke bunde
-
-  Uff shirm ne is tarha kheenche
-
-  Khoon kanon se ab tak hai behta
-
+  Maasum Sakina ke bunde
+  Uf Shimr ne is tarah khinche
+  Khun kaanoṅ se ab tak hai behta
 
   6
-
-  Hai waqt kathan aankhein kholo
-
-  Sadqe ho phupi moo se bolo
-
-  Bedaar ho ghash se behre khuda
-
+  Hai waqt kathin aaṅkheṅ kholo
+  Sadqe ho phuphi muṅh se bolo
+  Bedaar ho ghash se bahr-e-Khuda
 
   7
-
-  Ukhba mein tho beshak paaega
-
-  Dunya mein bhi kuch mil jaye sila
-
-  Kehde jo anees itna zehra'
+  Uqba meiṅ tu beshak paaega
+  Dunya meiṅ bhi kuchh mil jaae sila
+  Keh de jo Anees itna Zehra
 ---
 
 زینب نے ہلا کر شانہ کہا

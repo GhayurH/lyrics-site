@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Ho kar asir-e-zulm junhi dukhtar-e-Ali
   Kufe ki simt gyaarah Muharram ko jab chali
-  Dekha ke khaak o khuṅ meiṅ hai ghaltaan para hua
+  Dekha ke khaak o khuṅ meiṅ hain ghaltaan para hua
   Paamaal laash-e-dil-e-Zehra o Murtaza
 
   1
@@ -32,9 +32,9 @@ romanLyrics: |-
   Beruh kar rahi thi safar khwaahar-e-Husain
 
   4
-  Bhaiya tumhaari laash hai sehra meiṅ bekafan
+  Bhaiya tumhaari laash hai sahra meiṅ bekafan
   Afsos tum ko dafn na kar paayi ye behan
-  Tum uth gaye to uth gaya mere bhi dil ka chain
+  Tum uth gaye to uth gaya mere dil ka chain
 
   5
   Chhora tha jab Madina jo haalat thi Shaah ki
@@ -48,11 +48,11 @@ romanLyrics: |-
 
   7
   Aayi hai ruh-e-Zehra sar-e-laasha-e-Imam
-  Zainab pukaari amma maiṅ jaati huṅ su-e-Shaam
-  Tere supurd karti huṅ amma tera Husain
+  Zainab pukaari ammaṅ main jaati huṅ su-e-Shaam
+  Tere supurd karti huṅ ammaṅ tera Husain
 
   8
-  Mukhtar Karbala se palat kar jo hum chale
+  Mukhtar Karbala se lipat kar jo hum chale
   Majid baha ke ashk yehi sochte rahe
   Chhora behan ne kaise bhala laasha-e-Husain
 ---

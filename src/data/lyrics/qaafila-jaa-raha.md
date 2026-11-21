@@ -23,12 +23,12 @@ romanLyrics: |-
 
   1
   Jab chale the Madine se sab saath the
-  Aun o Jafar the Akbar the Abbas the
+  Aun o Jafar the, Akbar the, Abbas the
   Jaa rahi huṅ Madine to koi nahiṅ
   Ab musibat faqat hai behan ke liye
 
   2
-  Koi chaadar na thi kaisi bedaad thi
+  Koi chaadar na thi, kaisi bedaad thi
   Haath hote hue bhi na aazaad thi
   Kitni majbur kar di gayi thi behan
   Apne bhai ke dafn o kafan ke liye
@@ -41,20 +41,20 @@ romanLyrics: |-
 
   4
   Qabr-e-Sarwar pe jaa ke behan ne kaha
-  Kya bataauṅ ke bhaiya sitam kya hua
+  Kya bataauṅ ke bhaiya, sitam kya hua
   Kufa o Shaam meiṅ huṅ phiri berida
   Aap mohtaaj yaaṅ the kafan ke liye
 
   5
   Qabr-e-Qaasim se hai yuṅ mukhaatib phuphi
-  Teri shaadi kuch is tarah ban meiṅ hui
+  Teri shaadi kuchh is tarah ban meiṅ hui
   Koi sehre ka bhi phul baaqi nahiṅ
   Warna le jaati qabr-e-Hasan ke liye
 
   6
   Bain karti thi ye baanu-e-Shaah-e-diṅ
-  Maiṅ kahiṅ reh gayi mera Asghar kahiṅ
-  God khaali hai meri Sakina nahiṅ
+  Main kahiṅ reh gayi, mera Asghar kahiṅ
+  God khaali hai, meri Sakina nahiṅ
   Mar gayi qaid meiṅ wo watan ke liye
 
   7
@@ -70,8 +70,8 @@ romanLyrics: |-
   Bhai Abbas se saf shikan ke liye
 
   9
-  Qasr-e-zaalim kabhi qaid khaana kabhi
-  Nok-e-naiza kabhi taaziyaana kabhi
+  Qasr-e-zaalim kabhi, qaid khaana kabhi
+  Nok-e-naiza kabhi, taaziyaana kabhi
   Kaun si thi aziyyat jo di na gayi
   Har jafa thi asir-e-mehan ke liye
 

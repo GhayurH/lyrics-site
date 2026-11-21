@@ -1,37 +1,64 @@
 ---
-title: "Zahra Ka Hey Beta Abbas Qambar Kiyani"
+title: "زہرا کا ہے بیٹا عباس قمبر کیانی"
+alternateTitle: "Zahra Ka Hey Beta Abbas Qambar Kiyani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra ka hey beta Abbas Qambar Kiyani
+
+  1
+  Jab bhi Shabeer se pocha tera rutba Abbas
+  Fakhar se bolay woh Zahra ka hai beta Abbas
+  Loag Kabay ki taraf dekhtey rehtey hain magar
+  Dekhta rehta hai Kaba tera roza Abbas
+  Tere dar par kiya jis jis ne bhi sajdah Abbas
+  Kaba khud oss ki jabeen chomney aaya Abbas
+
+  2
+  Bilyaqeen jab se hain Allah ka pardah Zahra
+  Tab se hi sani-e-Zahra ka hain pardah Abbas
+  Kahin Aadam kahin Jibreel nazar aaye kharey
+  Tere zawwaron ko jab ghoor se dekha Abbas
+  Apni madar se khiyanat ka gila karta hai
+  Woh jo masoom nahi tujh ko samjhta Abbas
+
+  3
+  Sath Shabeer ke Asghar ne kiya tha hans kar
+  Qatilon par tere maidaan mein tabara Abbas
+  Teri turbat ka jo mil jaye ossay izn-e-tawaf
+  Chal ke aa jaye abhi Makkay se Kaba Abbas
+  Ghar se Zahra ke wafadar rahe ibn-e-Asad
+  Yeh sila chahiye bas teri sana ka Abbas
 ---
 
-Zahra Ka Hey Beta Abbas Qambar Kiyani.
+زہرا کا ہے بیٹا عباس قمبر کیانی
 
-1
-Jab Bhi Shabeer Se Pocha Tera Rutba Abbas.
-Fakhar Se Bolay Woh Zahra Ka Hai Beta Abbas.
-Loag Kabay Ki Taraf Dekhtey Rehtey Hain Magar.
-Dekhta Rehta Hai Kaba Tera Roza Abbas.
-Tere Dar Par Kiya Jis Jis Ne Bhi Sajdah Abbas.
-Kaba Khud Oss Ki Jabeen Chomney Aaya Abbas.
+۱
+جب بھی شبیر سے پوچھا تیرا رتبہ عباس
+فخر سے بولے وہ زہرا کا ہے بیٹا عباس
+لوگ کعبے کی طرف دیکھتے رہتے ہیں مگر
+دیکھتا رہتا ہے کعبہ تیرا روضہ عباس
+تیرے در پر کیا جس جس نے بھی سجدہ عباس
+کعبہ خود اُس کی جبیں چومنے آیا عباس
 
-2
-Bilyaqeen Jab Se Hain ALLAH Ka Pardah Zahra.
-Tab Se Hi Sani-e-Zahra Ka Hain Pardah Abbas.
-Kahin Aadam Kahin Jibreel Nazar Aaye Kharey.
-Tere Zawwaron Ko Jab Ghoor Se Dekha Abbas.
-Apni Madar Se Khiyanat Ka Gila Karta Hai.
-Woh Jo Masoom Nahi Tujh Ko Samjhta Abbas.
+۲
+بالیقین جب سے ہیں اللہ کا پردہ زہرا
+تب سے ہی ثانیِ زہرا کا ہیں پردہ عباس
+کہیں آدم کہیں جبرئیل نظر آئے کھڑے
+تیرے زوّاروں کو جب غور سے دیکھا عباس
+اپنی مادر سے خیانت کا گلہ کرتا ہے
+وہ جو معصوم نہیں تجھ کو سمجھتا عباس
 
-3
-Sath Shabeer Ke Asghar Ne Kiya Tha Hans Kar.
-Qatilon Par Tere Maidaan Mein Tabara Abbas.
-Teri Turbat Ka Jo Mil Jaye Ossay Izn-e-Tawaf.
-Chal Ke Aa Jaye Abhi Makkay Se Kaba Abbas.
-Ghar Se Zahra Ke Wafadar Rahe Ibn-e- Asad.
-Yeh Sila Chahiye Bas Teri Sana Ka Abbas.
+۳
+ساتھ شبیر کے اصغر نے کیا تھا ہنس کر
+قاتلوں پر تیرے میدان میں تبرّا عباس
+تیری تربت کا جو مل جائے اُسے اذنِ طواف
+چل کے آ جائے ابھی مکّے سے کعبہ عباس
+گھر سے زہرا کے وفادار رہے ابنِ اسد
+یہ صلہ چاہیے بس تیری ثنا کا عباس

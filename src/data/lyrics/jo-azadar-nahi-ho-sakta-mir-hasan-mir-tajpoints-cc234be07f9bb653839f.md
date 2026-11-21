@@ -1,36 +1,61 @@
 ---
-title: "Jo Azadar Nahi Ho Sakta Mir Hasan Mir"
+title: "جو عزادار نہیں ہو سکتا میر حسن میر"
+alternateTitle: "Jo Azadar Nahi Ho Sakta Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Jo azadar nahi ho sakta
+
+  1
+  Hai Payamber ka madadgar
+  Jo hai Sarwar ka azadar
+
+  2
+  Wo wafadar nahi ho sakta
+  Ran mein Abbas ne khat khainch diya
+  Ab koi paar nahi ho sakta
+  Mera dawa hai azadar-e-Hussain
+  Kabhi ghadar nahi ho sakta
+  Parh ke tum Nad-e-Ali waar karo
+  Waar be-kaar nahi ho sakta
+  Sheikh jee door se bhi Janat ka
+  Tum ko deedar nahi ho sakta
+  Gham-e-Shabir mein bin roye howay
+  Zehan bedaar nahi ho sakta
+  Qatal-e-Sheh ka koi rishte daar
+  Tazia daar nahi ho sakta
+  Sheh ke bemaar pe rone wala
+  Kabhi bemar nahi ho sakta
+  Karwaan madah-e-Ali ka Nayab
+  Sust raftaar nahi ho sakta
 ---
 
-Jo Azadar Nahi Ho Sakta.
+جو عزادار نہیں ہو سکتا
 
-1
-Hai Payamber Ka Madadgar.
-Jo Hai Sarwar Ka Azadar.
+۱
+ہے پیامبر کا مددگار
+جو ہے سرور کا عزادار
 
-2
-Wo Wafadar Nahi Ho Sakta.
-Ran Mein Abbas Ne Khat Khainch Diya.
-Ab Koi Paar Nahi Ho Sakta.
-Mera Dawa Hai Azadar-e-Hussain.
-Kabhi Ghadar Nahi Ho Sakta.
-Parh Ke Tum Nad-e-Ali Waar Karo.
-Waar Be-Kaar Nahi Ho Sakta.
-Sheikh Jee Door Se Bhi Janat Ka.
-Tum Ko Deedar Nahi Ho Sakta.
-Gham-e-Shabir Mein Bin Roye Howay.
-Zehan Bedaar Nahi Ho Sakta.
-Qatal-e-Sheh Ka Koi Rishte Daar.
-Tazia Daar Nahi Ho Sakta.
-Sheh Ke Bemaar Pe Rone Wala.
-Kabhi Bemar Nahi Ho Sakta.
-Karwaan Madah-e-Ali Ka Nayab.
-Sust Raftaar Nahi Ho Sakta.
+۲
+وہ وفادار نہیں ہو سکتا
+رن میں عباس نے خط کھینچ دیا
+اب کوئی پار نہیں ہو سکتا
+میرا دعویٰ ہے عزادارِ حسین
+کبھی غدار نہیں ہو سکتا
+پڑھ کے تم نادِ علی وار کرو
+وار بے کار نہیں ہو سکتا
+شیخ جی دور سے بھی جنت کا
+تم کو دیدار نہیں ہو سکتا
+غمِ شبیر میں بن روئے ہوئے
+ذہن بیدار نہیں ہو سکتا
+قتلِ شہ کا کوئی رشتے دار
+تعزیہ دار نہیں ہو سکتا
+شہ کے بیمار پہ رونے والا
+کبھی بیمار نہیں ہو سکتا
+کارواں مدحِ علی کا نایاب
+سست رفتار نہیں ہو سکتا

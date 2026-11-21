@@ -1,29 +1,48 @@
 ---
-title: "Rat Naal Hanera Akhiyaan Wich Kar Ke Abid Turda Aaway Lyrics In Punjabi 2018"
+title: "رَت نال ہنیرا اکھیاں وچ کر کے عابد تُردا آوے"
+alternateTitle: "Rat Naal Hanera Akhiyaan Wich Kar Ke Abid Turda Aaway"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rat naal hanera akhiyaan wich kar ke Abid turda aaway
+  Kuj ainj de moor ne galiyaan de jay wekh laway te marjaway
+  Zainab de be-parda sir ne aye hal banaya Abid da
+  Jad v uthda aye turan layi oss wailay ronda dig jaway
+
+  2
+  Sir nangay ayataan Zahra de Quran diyaan bazaraan wich
+  Dewan di bajaye ghilaf siraan te har koi pathar warsawaye
+  Hasrat nal Ghazi de sir nu ro ro ke wekhdi aye Zainab
+  Bazaraan wich aidi chadar nu jis welay zalim lehraway
+
+  3
+  Sajjad diyaan zanjeraan Sakina de gal wich ainj paiyaan ne
+  Aidi bhain de saa ruk jawan jay bemar muhari sir chaway
+  Lakhaan di khalqat tun mangda bemar kafan masooma da
+  Har ik Zeeshan qadam da rah aiday seene te phat paway
 ---
 
-1
-Rat Naal Hanera Akhiyaan Wich Kar Ke Abid Turda Aaway.
-Kuj Ainj De Moor Ne Galiyaan De Jay Wekh Laway Te Marjaway.
-Zainab De Be-Parda Sir Ne Aye Hal Banaya Abid Da.
-Jad V Uthda Aye Turan Layi Oss Wailay Ronda Dig Jaway.
+۱
+رَت نال ہنیرا اکھیاں وچ کر کے عابد تُردا آوے
+کجھ اینج دے موڑ نیں گلیاں دے جے ویکھ لوے تے مر جاوے
+زینب دے بے پردہ سر نے ایہہ حال بنایا عابد دا
+جد وی اٹھدا اے تُرن لئی اوس ویلے روندا ڈگ جاوے
 
-2
-Sir Nangay Ayataan Zahra De Quran Diyaan Bazaraan Wich.
-Dewan Di Bajaye Ghilaf Siraan Te Har Koi Pathar Warsawaye.
-Hasrat Nal Ghazi De Sir Nu Ro Ro Ke Wekhdi Aye Zainab.
-Bazaraan Wich Aidi Chadar Nu Jis Welay Zalim Lehraway.
+۲
+سر ننگے آیتاں زہرا دے قرآن دیاں بازاراں وچ
+دیوَن دی بجائے غلاف سراں تے ہر کوئی پتھر ورساوے
+حسرت نال غازی دے سر نوں رو رو کے ویکھدی اے زینب
+بازاراں وچ ایہدی چادر نوں جس ویلے ظالم لہراوے
 
-3
-Sajjad Diyaan Zanjeraan Sakina De Gal Wich Ainj Paiyaan Ne.
-Aidi Bhain De Saa Ruk Jawan Jay Bemar Muhari Sir Chaway.
-Lakhaan Di Khalqat Tun Mangda Bemar Kafan Masooma Da.
-Har Ik Zeeshan Qadam Da Rah Aiday Seene Te Phat Paway.
+۳
+سجاد دیاں زنجیراں سکینہ دے گل وچ اینج پئیاں نیں
+ایہدی بھین دے ساہ رک جاون جے بیمار مہاری سر چاوے
+لکھاں دی خلقت توں منگدا بیمار کفن معصومہ دا
+ہر اک ذیشان قدم دا راہ ایہدے سینے تے پھٹ پاوے

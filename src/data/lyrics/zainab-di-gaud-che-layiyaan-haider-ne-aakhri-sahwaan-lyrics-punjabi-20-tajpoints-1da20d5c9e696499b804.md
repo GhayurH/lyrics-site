@@ -1,32 +1,54 @@
 ---
-title: "Zainab Di Gaud Che Layiyaan Haider Ne Aakhri Sahwaan Lyrics Punjabi 2023"
+title: "زینب دی گود چے لئیاں حیدر نے آخری ساہواں"
+alternateTitle: "Zainab Di Gaud Che Layiyaan Haider Ne Aakhri Sahwaan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab di gaud che layiyaan Haider ne aakhri sahwaan
+  Tainu Kofa raas na aaya ja watan te naal bhirawaan
+
+  1
+  Ujari main Kofay aa ke aakhay bibi wain pa ke
+  Nayi chad jayi da baba jay sir te hoan na mawaan
+  Dhiyaan nu ro bulanday putraan nu seene landay
+  Kadi ro ro ke chumday ne Ghazi diyaan maula banwaan
+
+  2
+  Jay kool baba hondi tere deway baal rondi
+  Teri qabar nu kaliyaan chad ke kiwein main watan te jawaan
+  Zalim ne mar chadiya sajday che haye baba
+  Na maa aye saday sir te na piyo diyaan rayiyaan chawaan
+
+  3
+  Ik waqt oh v aana Zainab toon Sham jana
+  Bara okha deen bachana toon rul ke wich sehrawan
+  Putraan janaza chaya dhiyaan nu gash si aaya
+  Roye arsh farsh de wasday Sajjad ki haal sunawaan
 ---
 
-Zainab Di Gaud Che Layiyaan Haider Ne Aakhri Sahwaan.
-Tainu Kofa Raas Na Aaya Ja Watan Te Naal Bhirawaan.
+زینب دی گود چے لئیاں حیدر نے آخری ساہواں
+تینوں کوفہ راس نہ آیا جا وطن تے نال بھراواں
 
-1
-Ujari Main Kofay Aa Ke Aakhay Bibi Wain Pa Ke.
-Nayi Chad Jayi Da Baba Jay Sir Te Hoan Na Mawaan.
-Dhiyaan Nu Ro Bulanday Putraan Nu Seene Landay.
-Kadi Ro Ro Ke Chumday Ne Ghazi Diyaan Maula Banwaan.
+۱
+اجڑی میں کوفے آ کے آکھے بی بی وین پا کے
+نئیں چھڈ جائی دا بابا جے سر تے ہون نہ ماواں
+دھیاں نوں رو بلاندے پتراں نوں سینے لاندے
+کدی رو رو کے چمدے نے غازی دیاں مولا بانہواں
 
-2
-Jay Kool Baba Hondi Tere Deway Baal Rondi.
-Teri Qabar Nu Kaliyaan Chad Ke Kiwein Main Watan Te Jawaan.
-Zalim Ne Mar Chadiya Sajday Che Haye Baba.
-Na Maa Aye Saday Sir Te Na Piyo Diyaan Rayiyaan Chawaan.
+۲
+جے کول بابا ہوندی تیرے دیوے بال روندی
+تیری قبر نوں کلّیاں چھڈ کے کیویں میں وطن تے جاواں
+ظالم نے مار چھڈیا سجدے چے ہائے بابا
+نہ ماں اے ساڈے سر تے نہ پیو دیاں رہیاں چھاواں
 
-3
-Ik Waqt Oh V Aana Zainab Toon Sham Jana.
-Bara Okha Deen Bachana Toon Rul Ke Wich Sehrawan.
-Putraan Janaza Chaya Dhiyaan Nu Gash Si Aaya.
-Roye Arsh Farsh De Wasday Sajjad Ki Haal Sunawaan.
+۳
+اک وقت اوہ وی آنا زینب توں شام جانا
+بڑا اوکھا دین بچانا توں رل کے وچ صحراواں
+پتراں جنازہ چایا دھیاں نوں غش سی آیا
+روئے عرش فرش دے وسدے سجاد کی حال سناواں

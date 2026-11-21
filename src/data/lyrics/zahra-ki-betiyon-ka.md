@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sina ki nok pe rote hai sar shaahidoṅ ke
-  Koi nahi hai asiroṅ ka haye ghurbat meiṅ
+  Sinaaṅ ki nok pe rote haiṅ sar shahidoṅ ke
+  Koi nahiṅ hai asiroṅ ka haaye ghurbat meiṅ
   Bas ek mard bacha hai jo khun rota hai
-  Hai bibiyaṅ sar e uryaṅ hujume ummat meiṅ
-  Zahra ki betiyoṅ ka koi aasra nahi hai
-  Baazu hai rassiyoṅ meiṅ sar pe rida nahi hai
+  Hai bibiyaaṅ sar-e-uryaaṅ hujum-e-ummat meiṅ
+  Zahra ki betiyoṅ ka koi aasra nahiṅ hai
+  Baazu hai rassiyoṅ meiṅ sar pe rida nahiṅ hai
   Ghazi kata ke baazu darya pe so raha hai
-  Kis ko pukare zainab koi bacha nahi hai
+  Kis ko pukaare Zainab koi bacha nahiṅ hai
   Zahra ki betiyoṅ ka...
-  Abid se bekasoṅ ke aansu ye keh rahe hai
-  In qaidiyoṅ ka koi tere siwa nahi hai
+  Aabid se bekasoṅ ke aansuṅ ye keh rahe hai
+  In qaidiyoṅ ka koi tere siwa nahiṅ hai
   Zahra ki betiyoṅ ka...
-  Chini hai zaalimoṅ ne naize se meri chadar
-  Mai lut gayi huṅ bhai mera ba-wafa nahi hai
+  Chhini hai zaalimoṅ ne naize se meri chadar
+  Maiṅ lut gayi huṅ bhai mera baawafa nahiṅ hai
   Zahra ki betiyoṅ ka...
-  Kaano pe haath rakh ke kehti thi ye sakina
-  In ke diloṅ meiṅ baba khauf e khuda nahi hai
+  Kaanoṅ pe haath rakh ke kehti thi ye Sakina
+  In ke diloṅ meiṅ baba khauf-e-Khuda nahiṅ hai
   Zahra ki betiyoṅ ka...
   Shabbir bekafan ki beti bhi bekafan hai
-  Ummat se ek kafan bhi isko mila nahi hai
+  Ummat se ek kafan is ko mila nahiṅ hai
   Zahra ki betiyoṅ ka...
-  Haathoṅ pe laaye sarwar ek chand aur bole
-  Asghar ne tin din se pani piya nahi hai
+  Haathoṅ pe laaye Sarwar ek chaaṅd aur bole
+  Asghar ne tin din se paani piya nahiṅ hai
   Zahra ki betiyoṅ ka...
   Sughra ne khat likha hai ab laut aao baba
-  Jine ka aur mujh meiṅ ab hausla nahi hai
+  Jine ka aur mujh meiṅ ab hausla nahiṅ hai
   Zahra ki betiyoṅ ka...
-  Baba kahaṅ ho aao matti pe so rahi huṅ
-  Zindaṅ meiṅ hai andhera baba hawa nahi hai
+  Baba kahaaṅ ho aao mitti pe so rahi huṅ
+  Zindaaṅ meiṅ hai andhera baba hawa nahiṅ hai
   Zahra ki betiyoṅ ka...
-  Sajde meiṅ sar kata hai zahra ke laadle ka
-  Zulm o sitam ke aage lekin jhuka nahi hai
+  Sajde meiṅ sar kata hai Zahra ke laadle ka
+  Zulm o sitam ke aage lekin jhuka nahiṅ hai
   Zahra ki betiyoṅ ka...
 ---
 

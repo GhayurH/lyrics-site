@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Fatema zahra fatema zahra
-  Sayyeda tahera sayyeda
-  Haye sakina haye sakina
-  Zahra ki tarha aansu bahati hai sakina
-  Bachpan may zaeefa nazar aati hai sakina
-  Hyder se shikayat kiya karte the hamesha
-  Zahra ko musalmano ne rone na diya tha
-  Rone pe tamache yahaṅ khaati hai sakina
-  Zahra ki tarha aansu...
-  Kis karb se guzri hai bataya na kisi ko
-  Zahra ne koi zakhm dikhaya na ali ko
-  Sajjad se zakhmoṅ ko chupati hai sakina
-  Zahra ki tarha aansu...
-  Jalte huwe darwaze ko zehra ne bujhaya
-  Dono ko musibat may kisi ne na bachaya
-  Jalte huwe daaman ko bujhati hai sakina
-  Zahra ki tarha aansu...
-  Zehra ko mila baap pe rone ke liye ghar
-  Allah re shabbir ki beti ka muqaddar
-  Zindaṅ ko azakhana banati hai sakina
-  Zahra ki tarha aansu...
-  Darbar e sahaba may gayi fatema zahra
-  Ye soch ke sajjad ne phir sar na uthaya
-  Darbar sharabi ka hai jaati hai sakina
-  Zahra ki tarha aansu...
-  Zahra bhi bahot tarpi thi furqat may padar ki
-  Par baap ko is tarha sada deti hai bacchi
-  Zahra ko bhi turbat may rulaati hai sakina
-  Zahra ki tarha aansu...
-  Dono ki hi turbat pe andheroṅ ka hai pehra
-  Yuṅ lagta hai sajjad sada deti hai zahra
-  Mehdi tujhe zindaṅ may bulaati hai sakina
-  Zahra ki tarha aansu...
+  Fatema Zahra Fatema Zahra
+  Sayyeda Tahera Sayyeda
+  Haaye Sakina haaye Sakina
+  Zahra ki tarah aansuṅ bahaati hai Sakina
+  Bachpan mein zaeefa nazar aati hai Sakina
+  Haidar se shikaayat kiya karte the hamesha
+  Zahra ko musalmaanoṅ ne rone na diya tha
+  Rone pe tamaanche yahaṅ khaati hai Sakina
+  Zahra ki tarah aansuṅ...
+  Kis karb se guzri hai bataaya na kisi ko
+  Zahra ne koi zakhm dikhaaya na Ali ko
+  Sajjad se zakhmoṅ ko chhupaati hai Sakina
+  Zahra ki tarah aansuṅ...
+  Jalte hue darwaaze ko Zahra ne bujhaaya
+  Donoṅ ko musibat mein kisi ne na bachaaya
+  Jalte hue daaman ko bujhaati hai Sakina
+  Zahra ki tarah aansuṅ...
+  Zahra ko mila baap pe rone ke liye ghar
+  Allah re Shabbir ki beti ka muqaddar
+  Zindaaṅ ko aza khaana banaati hai Sakina
+  Zahra ki tarah aansuṅ...
+  Darbaar-e-Sahaba mein gayi Fatema Zahra
+  Ye soch ke Sajjad ne phir sar na uthaaya
+  Darbaar sharaabi ka hai jaati hai Sakina
+  Zahra ki tarah aansuṅ...
+  Zahra bhi bahut tarpi thi furqat mein padar ki
+  Par baap ko is tarah sada deti hai bachchi
+  Zahra ko bhi turbat mein rulaati hai Sakina
+  Zahra ki tarah aansuṅ...
+  Donoṅ ki hi turbat pe andheroṅ ka hai pehra
+  Yuṅ lagta hai Sajjad sada deti hai Zahra
+  Mehdi tujhe zindaaṅ mein bulaati hai Sakina
+  Zahra ki tarah aansuṅ...
 ---
 
 ۱

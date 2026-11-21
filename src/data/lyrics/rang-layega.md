@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tute tiroṅ pe musalla khun e asghar se wazu
-  Kis tarha tarikh ke dil se bhulaya jayega
-  Chhup na payegi sitam se teri mazlumi Husain
-  Daastan e karbala har aadmi dohrayega
-  Rang layega zarur rang layega
-  Ye lahu Husain ka hai rang layega
-  Rang layega zarur rang layega
-  Karbala ka nur har sadi pe chayega
-  Rang layega zarur rang layega
-  Har zabaṅ par hai karbala ke waaqeyat
-  Ab jahaṅ hai ek bewatan ke saath saath
-  Kalma e Husain parh rahi hai kayenaat
-  Qadh hussainiyat ka koi kya ghatayega
-  Rang layega zarur...
+  Tute tiroṅ pe musalla khun-e-Asghar se wazu
+  Kis tarah taarikh ke dil se bhulaaya jaayega
+  Chhup na paayegi sitam se teri mazlumi Husain
+  Daastaan-e-Karbala har aadmi dohraayega
+  Rang laayega zarur rang laayega
+  Ye lahu Husain ka hai rang laayega
+  Rang laayega zarur rang laayega
+  Karbala ka nur har sadi pe chhaayega
+  Rang laayega zarur rang laayega
+  Har zabaaṅ par hai Karbala ke waaqiaat
+  Ab jahaaṅ hai ek bewatan ke saath saath
+  Kalma-e-Husain parh rahi hai kaainaat
+  Qad Husainiyat ka koi kya ghataayega
+  Rang laayega zarur...
   Ye lahu shariyatoṅ ke sar ka taaj hai
-  Ye lahu risalatoṅ ka hum mizaaj hai
-  Ye lahu khilaafe zulm e ehtejaaj hai
-  Ye lahu zamir e aadmi jagayega
-  Rang layega zarur...
-  Is lahu ki boond par hai din ka sutun
-  Is lahu ne bhar diya hayaat meiṅ sukun
+  Ye lahu risaalatoṅ ka ham mizaaj hai
+  Ye lahu qaafila-e-zulm ehtijaaj hai
+  Ye lahu zamir-e-aadmi jaayega
+  Rang laayega zarur...
+  Is lahu ki bundh par hai din ka sutun
+  Is lahu ne bhar diya hayaat mein sukun
   Hashr tak Husain tera begunaah khuṅ
-  Jaane kitne mujrimoṅ ko hurr banayega
-  Rang layega zarur...
-  Is lahu meiṅ roshni hai kirdegaar ki
-  Is lahu meiṅ ghangaraj hai zulfeqar ki
-  Ye lahu hai hadh ali ke aetbaar ki
-  Zulm ke tamaam khybaroṅ ko dhayega
-  Rang layega zarur...
-  Ye lahu zamiṅ par jahaṅ tapak gaya
-  Us zamiṅ ka nur asmaan tak gaya
-  Is lahu se dine mustafa chamak gaya
-  Is lahu ka karz khud khuda chukayega
-  Rang layega zarur...
-  Har taraf hussainiyat ki hogi dhum dhaam
-  Hurriyat jagayega Husain ka payaam
-  Kab talak karoge tum jahaṅ meiṅ qatle aam
-  Amn ka charaagh tum se bujh na payega
-  Rang layega zarur...
-  Barh raha hai din ba din yaqin e karbala
-  Chaa raha hai zehn o dil pe din e karbala
-  Keh rahi hai surkhi e zamin e karbala
-  Hashr tak khuda ka din jagmagayega
-  Rang layega zarur...
-  Inteqaam baar baar lega ye lahu
-  Zulm ki naqaab utaarlega ye lahu
-  Qaatiloṅ ko khud pukarlega ye lahu
-  Ye lahu jahaṅ meiṅ maujize dikhayega
-  Rang layega zarur...
-  Keh rahi hai zulmatoṅ se subhe inteqam
-  Ho chuki hai phir ali ki taygh beniyaam
-  Manzile khuruj meiṅ hai aakhri imam
-  Waqt ka yazid phir se moo ki khayega
-  Rang layega zarur...
-  Akhtar aane waali hai jahan ki murad
-  Aamir ab khareeb tar hai aakhri jihad
-  Hoga har zabaṅ par Husain zindabad
-  Zulm ye sadayeiṅ sun ke tilmilayega
-  Rang layega zarur...
+  Jaane kitne mujrimoṅ ko Hur banaayega
+  Rang laayega zarur...
+  Is lahu mein roshni hai kirdegaar ki
+  Is lahu mein ghangraaj hai Zulfiqaar ki
+  Ye lahu hai hadd-e-Ali ke aitbaar ki
+  Zulm ke tamaam Khaibaroṅ ko dhaayega
+  Rang laayega zarur...
+  Ye lahu zamiṅ par jahaaṅ tapak gaya
+  Us zamiṅ ka nur aasmaan tak gaya
+  Is lahu se din-e-Mustafa chamak gaya
+  Is lahu ka qarz khud Khuda chukaayega
+  Rang laayega zarur...
+  Har taraf Husainiyat ki hogi dhum dhaam
+  Hurriyat jagaayega Husain ka payaam
+  Kab talak karoge tum jahaaṅ mein qatl-e-aam
+  Amn ka charaagh tum se bujh na paayega
+  Rang laayega zarur...
+  Barh raha hai din ba din yaqin-e-Karbala
+  Chhaa raha hai zehn o dil pe din-e-Karbala
+  Keh rahi hai surkh zamin-e-Karbala
+  Hashr tak Khuda ka din jagmagaayega
+  Rang laayega zarur...
+  Intiqaam baar baar lega ye lahu
+  Zulm ki naqaab utaar lega ye lahu
+  Qaatiloṅ ko khud pukaar lega ye lahu
+  Ye lahu jahaaṅ mein maujize dikhaayega
+  Rang laayega zarur...
+  Keh rahi hai zulmatoṅ se subh-e-intiqaam
+  Ho chuki hai phir Ali ki tegh beniyaam
+  Manzileṅ khuruj mein hai aakhri imaam
+  Waqt ka Yazid phir se munh ki khaayega
+  Rang laayega zarur...
+  Akhtar aane waali hai jahaan ki muraad
+  Aamir ab qarib tar hai aakhri jihaad
+  Hoga har zabaaṅ par Husain zinda baad
+  Zulm ye sadaayeṅ sun ke tilmilaayega
+  Rang laayega zarur...
 ---
 
 ۱

@@ -13,17 +13,17 @@ aliases: []
 published: true
 romanLyrics: |-
   Jiye Shaah Husain jiye Shaah Husain
-  Zinda jahaaṅ meiṅ taaba qayaamat hai Karbala
+  Zinda jahaaṅ mein taaba qayaamat hai Karbala
   Saadaat-e-Karbala ki amaanat hai Karbala
   Dunya ke har gharib ki izzat hai Karbala
   Jiye Shaah Husain jiye Shaah Husain
 
   Jannat-e-maa Karbala
-  Ruh-e-aza Karbala
-  Nur-e-Khuda Karbala
-  Baab-e-dua Karbala
-  Khaak-e-shifa Karbala
-  Gham ki dawa Karbala
+  Ruh-e-azaa Karbala
+  Nur-e-Khudaa Karbala
+  Baab-e-duaa Karbala
+  Khaak-e-shifaa Karbala
+  Gham ki dawaa Karbala
   Jannat-e-maa Karbala
   Karbobala khun-e-Muhammad se saji hai
   Karbobala ishq-e-Husain ibn-e-Ali hai
@@ -35,11 +35,11 @@ romanLyrics: |-
 
   1
   Aao chaleṅ Karbala
-  Ban ke safir-e-aza
+  Ban ke safir-e-azaa
   Sar pe ho parcham khula
-  Ishq-e-aza saath rahe
+  Ishq-e-azaa saath rahe
   Ashkoṅ ki barsaat rahe
-  Haathoṅ meiṅ bas haath rahe
+  Haathoṅ mein bas haath rahe
   Teri zamiṅ moalla
   Nainawa Nainawa maashaallah
   Tu rahegi sada inshaallah
@@ -49,10 +49,10 @@ romanLyrics: |-
   2
   Karbobala khaak thi
   Khaak ko izzat mili
-  Khaak-e-shifa ban gayi
+  Khaak-e-shifaa ban gayi
   Aaye Husain ibn-e-Ali
-  Surat-e-gulzaar saji
-  Ghaazi ki jaagir bani
+  Surat-e-gulzaar nabi
+  Ghaazi ki jaagir saji
   Teri zamiṅ moalla
   Marhaba marhaba maashaallah
   Tu rahegi sada inshaallah
@@ -65,7 +65,7 @@ romanLyrics: |-
   Khaadim-e-darbaar haiṅ
   Naara-e-labbaik mera
   Maatam-e-Shaah-e-shuhada
-  Lo maiṅ chala Karbobala
+  Lo main chala Karbobala
   Teri zamiṅ moalla
   Shukriya shukriya maashaallah
   Tu rahegi sada inshaallah
@@ -73,9 +73,9 @@ romanLyrics: |-
   Jiye Shaah Husain jiye Shaah Husain
 
   4
-  Meri dawa Karbala
-  Meri shifa Karbala
-  Meri baqa Karbala
+  Meri dawaa Karbala
+  Meri shifaa Karbala
+  Meri baqaa Karbala
   Daulat-e-maa Karbobala
   Quwwat-e-maa Karbobala
   Izzat-e-maa Karbobala
@@ -91,7 +91,7 @@ romanLyrics: |-
   Ek hai bas Karbala
   Sarwar o Rehaan chalo
   Le ke ye armaan chalo
-  Nazr kareṅ jaan chalo
+  Nazar kareṅ jaan chalo
   Teri zamiṅ moalla
   Jaan-e-man jaan-e-man maashaallah
   Tu rahegi sada inshaallah
@@ -102,16 +102,16 @@ romanLyrics: |-
   Beshak Ali ke laal ki mehnat hai Karbala
   Zehra ke khaandaan ki daulat hai Karbala
   Jo bhi yahaaṅ Husain ka zawwaar ban gaya
-  Hur ban gaya koi, koi Mukhtaar ban gaya
+  Hurr ban gaya koi, koi Mukhtaar ban gaya
   Karbobala saayebaaṅ Karbobala paasbaaṅ
-  Karbobala nur-e-jaaṅ, saari zaminoṅ ki maaṅ
+  Karbobala nur-e-jaaṅ, saare zaminoṅ ki maaṅ
   Ishq o mohabbat ka nishaaṅ
   Farsh pe hai arsh jahaaṅ, jannat-e-arzi ka samaaṅ
   Diṅ panaah, sajda gaah, madrasa, darsgaah, hal jaza, hal ata
   Tu hai dayaar-e-Husain, maashaallah maashaallah
   Tu dil-e-Zahra ka chain, maashaallah maashaallah
   Ruh-e-dil-e-mashraqain, maashaallah maashaallah
-  Tere liye har dua, inshaallah inshaallah
+  Tere liye har duaa, inshaallah inshaallah
   Tere liye har sada, inshaallah inshaallah
   Jaari rahegi sada, inshaallah inshaallah
 
@@ -119,9 +119,9 @@ romanLyrics: |-
   Hai hamaari darsgaah, Karbala Karbala
   Haq ka sidha raasta, Karbala Karbala
   Ibaadatoṅ ka raabta, Karbala Karbala
-  Har ek Hur ki rehnuma, Karbala Karbala
+  Har ek Hurr ki rehnuma, Karbala Karbala
   Husainiyat ka madrasa, Karbala Karbala
-  Baqa-e-harf-e-laa ilaah, Karbala Karbala
+  Baqaa-e-harf-e-laa ilaah, Karbala Karbala
   Husain jis ka baadshaah, Karbala Karbala
 ---
 

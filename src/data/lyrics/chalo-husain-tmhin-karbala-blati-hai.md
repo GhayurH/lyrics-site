@@ -14,15 +14,15 @@ romanLyrics: |-
 
   1
   Tawaaf karta tha jis ghar ka Khana-e-Kaba
-  Ke haajiyoṅ ki jamaat wo ghar jalaati hai
+  Ke haajiyoṅ ki jamaat wo ghar jilaati hai
 
   2
   Qadam Husain uthaate haiṅ su-e-Karb o Bala
-  Qadam se lipti hui kaayenaat jaati hai
+  Qadam se lipti hui kaainaat jaati hai
 
   3
   Khabar hai Shaam-e-Gharibaaṅ tere andhere ko
-  Nabi ke rauze pe Sughra diye jalaati hai
+  Nabi ke rauze pe Sughra diye jilaati hai
 
   4
   Bata ae maah-e-Muharram ye kaun Bibi hai

@@ -26,7 +26,7 @@ romanLyrics: |-
   Ghar ghar saja hai o mera Pir Ghazi
 
   2
-  Ummul Banin ki aankhoṅ ka taara
+  Ummul Baniṅ ki aankhoṅ ka taara
   Jab Maula Ghazi dharti pe aaya
   Us maaṅ ka rutba kitna hai aala
   Haaṅ jis ko mila hai mera Pir Ghazi
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   4
   Baaba bhi Maula bhaai bhi Maula
-  Donoṅ ka pyaara Ghazi hi Maula
+  Donoṅ ka pyaara Ghazi bhi Maula
   Har dar pe jis ki hai baadshaahi
   Haaṅ wo baadshaah hai o mera Pir Ghazi
 
@@ -60,6 +60,7 @@ romanLyrics: |-
   Sab kuchh wafa hai sab kuchh wafa hai
   Aulaad-e-Zehra se pyaar karna
   Haaṅ samjha gaya hai o mera Pir Ghazi
+
   8
   Molaiyoṅ ka har dam hai naara
   Panjtan ka pyaara jiye mashkaaṅ waala

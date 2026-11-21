@@ -7,6 +7,76 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qasim jo gire ghore se tha maut ka pehra
+  Tha khun mein duba ho woh chaand sa chehra
+  Chhalni tha badan tiroṅ se har zakhm tha gehra
+  Khuṅ sar se baha ban gaya ak lariyoṅ ka sehra
+
+  2
+  Is tarah larazta ho laasha nahiṅ dekha
+  Is shaan ka dulha kabhi koi nahiṅ dekha
+
+  3
+  Har jor tha tuta hua har band juda tha
+  Baazu hai woh jis pe ke taawiz bandha tha
+  Kuchla hua sina tha lahu sar se baha tha
+  Is phul se bachche pe ajab zulm ho tha
+
+  4
+  Yeh wazan tha taapoṅ ka wahiṅ tut gaiṅ thiṅ
+  Sab pasliyaaṅ sine mein kahiṅ tut gaiṅ thiṅ
+
+  5
+  Maidaaṅ mein madad ke liye chillaate the Qasim
+  Jaate the idhar aur udhar jaate the Qasim
+  Dam atka tha aur chain nahiṅ paate the Qasim
+  Lagti thiṅ jo taapeṅ to tarap jaate the Qasim
+
+  6
+  Ghoroṅ se kuchal jaane ki zahmat na dikhaaye
+  Allah kisi ko yeh musibat na dikhaaye
+
+  7
+  Shah khaak pe bhaai ka pisar dhund rahe haiṅ
+  Maidaaṅ mein woh laasha hai kahaaṅ dhund rahe haiṅ
+  Aankhoṅ mein andhera hai magar dhund rahe haiṅ
+  Phir bhaai ka har lakht-e-jigar dhund rahe haiṅ
+
+  8
+  Tevra ke wahiṅ girte haiṅ ghash aata hai Shah ko
+  Jab jism ka tukra koi mil jaata hai Shah ko
+
+  9
+  Shabbir ne jis ko kabhi godi mein sulaaya
+  Haathoṅ ko bhi chuma kabhi sine se lagaaya
+  Taqdir ne yeh aaj ajab waqt dikhaaya
+  Laasha usi bachche ka hai chaadar mein uthaaya
+
+  10
+  Thaame hue kone Hasan-e-khasta jigar haiṅ
+  Aaza ki yeh gathri nahiṅ Farwa ka pisar hai
+
+  11
+  Seh lete haiṅ kuchh dard bataaye nahiṅ jaate
+  Laashe kabhi hissoṅ mein uthaaye nahiṅ jaate
+  Gar Shah rida apni bichhaaye nahiṅ jaate
+  Tukre kabhi Qasim ke uthaaye nahiṅ jaate
+
+  12
+  Chaadar ko jo thaame hue Abbas khare haiṅ
+  Akbar bhi sahaare ke liye paas khare haiṅ
+
+  13
+  Kya haal hai laashe ka bataaya nahiṅ jaata
+  Shabbir se sadma yeh uthaaya nahiṅ jaata
+  Gehra hai bahut zakhm chhupaaya nahiṅ jaata
+  Khaime ki taraf barhte haiṅ jaaya nahiṅ jaata
+
+  14
+  Is gham ka kahaaṅ baar utha paaye gi bewa
+  Jab laash-e-pisar dekhe gi mar jaaye gi bewa
 ---
 
 ۱

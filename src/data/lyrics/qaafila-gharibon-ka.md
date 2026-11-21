@@ -27,7 +27,7 @@ romanLyrics: |-
   Bekafan hai sab laashe paas hi taraai hai
 
   3
-  Ab na aae ga lab par phir sawaal paani ka
+  Ab na aaega lab par phir sawaal paani ka
   Alqama pashemaan hai sharmsaar mashkiza
   Aur kinaare darya ke muztarib hai ik laasha
   Rukh pe hai yatimi ke tashnagi ka sannaata
@@ -45,10 +45,10 @@ romanLyrics: |-
   Bekasoṅ pe har lamha zindagi hui dushwaar
 
   6
-  Tashnagi hai ghurbat hai bekasi hai aaheiṅ hai
-  Dasht hai asiri hai aur zakhmi raaheiṅ hai
-  Chaadareiṅ nahiṅ sar par muztarib nigaaheiṅ hai
-  Justaju meiṅ bachchoṅ ki maamta ki baaheiṅ hai
+  Tashnagi hai ghurbat hai bekasi hai aaheṅ hai
+  Dasht hai asiri hai aur zakhmi raaheṅ hai
+  Chaadareṅ nahiṅ sar par muztarib nigaaheṅ hai
+  Justaju meiṅ bachchoṅ ki maamta ki baaheṅ hai
 
   7
   Paa-e-sabr meiṅ kaante raastoṅ ke daste haiṅ
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   8
   Iztiraab hai kitna dasht ki hawaaoṅ meiṅ
-  Kiuṅ lahu umarta hai bekasi ki aankhoṅ meiṅ
+  Kiuṅ lahu umadta hai bekasi ki aankhoṅ meiṅ
   Har taraf dhuaaṅ kiuṅ hai tashnagi ki aahoṅ meiṅ
   Kis qadar hai tanhaai maamta ki baahoṅ meiṅ
 

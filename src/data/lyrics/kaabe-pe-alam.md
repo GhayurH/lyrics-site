@@ -12,62 +12,62 @@ published: false
 romanLyrics: |-
   1
   Ab waqt ke zaalim hosh meiṅ aa
-  Abhi aakhri hyder baakhi hai
-  Wo zlum o sitam baakhi na rahe
-  Shabbir ka lashkar baakhi hai
-  Uthta hai alam batlane ko
-  Abbas e dilawar baakhi hai
-  Phir saani e hyder hi tute
-  Naize se qayamat layega
-  Kaabe pe alam lehrayega
-  Ae aale payambar ke dushman
-  Sun ghaur se wo din dur nahi
+  Abhi aakhri Haidar baaqi hai
+  Wo zulm o sitam baaqi na rahe
+  Shabbir ka lashkar baaqi hai
+  Uthta hai alam batlaane ko
+  Abbas-e-Dilaawar baaqi hai
+  Phir saani-e-Haidar hi tute
+  Naize se qayaamat laaye ga
+  Kaabe pe alam lehraaye ga
+  Ae aal-e-payambar ke dushman
+  Sun ghaur se wo din dur nahiṅ
   Parde meiṅ jo sheh ka waaris hai
-  Mukhtar hai wo majbur nahi
-  Wo hukme khuda ka taabe hai
-  Lachaar nahi benoor nahi
-  Jab shaane wigha dikhlayega
-  Bin maut hi tu mar jayega
-  Tum karbobala kaise loge
-  Wo karbobala shabbir ki hai
-  Daakhil nahi ho sakte hargiz
-  Wo jaye amaaṅ baysheer ki hai
-  Aur jo bhi shahe mazlum ki hai
-  Wo sarwar ki hamshir ki hai
-  Sehra e atash tu kya lega
-  Jab shaam nahi le payega
-  Hai shaam meiṅ zainba ka rauza
-  Zindaṅ meiṅ sakina ka rauza
+  Mukhtaar hai wo majbur nahiṅ
+  Wo hukm-e-Khuda ka taabe hai
+  Laachaar nahiṅ benur nahiṅ
+  Jab shaan-e-wighaa dikhlaaye ga
+  Bin maut hi tu mar jaaye ga
+  Tum Karb o Bala kaise lo ge
+  Wo Karbobala Shabbir ki hai
+  Daakhil nahiṅ ho sakte hargiz
+  Wo jaaye amaaṅ beshir ki hai
+  Aur jo bhi shah-e-mazlum ki hai
+  Wo Sarwar ki hamshir ki hai
+  Sehraa-e-atash tu kya le ga
+  Jab Shaam nahiṅ le paaye ga
+  Hai Shaam meiṅ Zainab ka rauza
+  Zindaaṅ meiṅ Sakina ka rauza
   Rauzoṅ pe abhi bhi rehta hai
-  Abbas aur akbar ka pehra
-  Qabroṅ hi hifazat ko ek din
-  Wo saakin e ghaibat aayega
-  Phir hashr tumhara kya hoga
-  Jab tayghe ali dikhlayega
-  Har ghar meiṅ bapa majlis hogi
-  Har ghar meiṅ bichegi farshe aza
-  Nauhoṅ ki sadayeiṅ goonjegi
-  Har su sheh ka matam hoga
-  Tamir baqayya meiṅ hoga
-  Phir aale payambar ka rauza
+  Abbas aur Akbar ka pehra
+  Qabroṅ hi hifaazat ko ek din
+  Wo saakin-e-ghaibat aaye ga
+  Phir hashr tumhaara kya ho ga
+  Jab tegh-e-Ali dikhlaaye ga
+  Har ghar meiṅ bapaa majlis ho gi
+  Har ghar meiṅ bichhegi farsh-e-aza
+  Nauhoṅ ki sadaaeṅ gunje gi
+  Har su sheh ka maatam ho ga
+  Taamir Baqiya meiṅ ho ga
+  Phir aal-e-payambar ka rauza
   Ujra hai jo gulshan barsoṅ se
-  Dubara sajaya jayega
-  Gulshan gulshan sehra sehra
+  Dubaara sajaaya jaaye ga
+  Gulshan gulshan sehraa sehraa
   Kucha kucha pariya pariya
-  Har zarra padhega dunya ka
-  Bas iski adalat ka kalma
-  Kaunain meiṅ raaij hoga faqad
-  Maula ke gharane ka sikka
-  Ab jald hi kaabe ki chath par
-  Ghazi ka alam lehrayega
-  Abbas e jari ne parcham ko
-  Gaara bhi to gaara pani meiṅ
-  Ye mashke sakina milne ko
-  Aajaye na maula pani meiṅ
-  Rehan o mubarak is tarha
-  Tehrara pursa pani meiṅ
-  Jis tarha jari pyasa palta
-  Wo maula mera batlayaga
+  Har zarra parhe ga duniya ka
+  Bas is ki adaalat ka kalma
+  Kaunain meiṅ raaij ho ga faqat
+  Maula ke gharaane ka sikka
+  Ab jald hi Kaabe ki chhat par
+  Ghazi ka alam lehraaye ga
+  Abbas-e-Jari ne parcham ko
+  Gaara bhi to gaara paani meiṅ
+  Ye mashk-e-Sakina milne ko
+  Aa jaaye na Maula paani meiṅ
+  Rehan o Mubarak is tarah
+  Tehrara pursa paani meiṅ
+  Jis tarah Jari pyaasa palta
+  Wo Maula mera batlaaye ga
 ---
 
 ۱

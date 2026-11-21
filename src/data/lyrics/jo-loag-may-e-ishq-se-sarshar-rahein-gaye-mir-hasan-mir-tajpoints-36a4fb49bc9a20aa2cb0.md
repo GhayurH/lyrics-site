@@ -1,50 +1,90 @@
 ---
-title: "Jo Loag May-e-Ishq Se Sarshar Rahein Gaye Mir Hasan Mir"
+title: "جو لوگ مئے عشق سے سرشار رہیں گے میر حسن میر"
+alternateTitle: "Jo Loag May-e-Ishq Se Sarshar Rahein Gaye Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jo loag may-e-ishq se sarshar rahein gaye Mir Hasan Mir
+  Mehshar mein wohi khuld ke haqdar rahein gay
+
+  1
+  Insaf qayamat mein yeh ayelan karey ga
+  Jo dushman-e-Shabeer hai dozakh mein rahe ga
+  Janat mein faqat Sheh ke azadar rahein gay
+  Abbas ki aamad pe machay gi woh tabahi
+
+  2
+  Aaye ga nazar phir koi lashkar na sipahi
+  Maidaan mein faqat lashon ke anbar rahein gay
+  Kehte hain yeh tareekh ke mazboot isharay
+  Pehlu mein paray rehne se kya hota hai pyaray
+
+  3
+  Ghaddar tu ghaddar hain ghaddar rahein gay
+  Maidaan mein hoon mehfil mein hoon ya our kahin hoon
+  Mimber pe hoon keh takht pe ya khak nasheen hoon
+  Sardar tu sardar hain sardar rahein gay
+
+  4
+  Yeh parcham-e-Ghazi ki ziyarat nahi kartay
+  Yeh matam-e-Shabeer mein uth bhi nahi saktay
+  Badkar tere hath tu bekar rahein gay
+  Na inn pe karam hoga na badlay ga muqadar
+
+  5
+  Inn bugz ke maron ka tu mar jana hai bahatar
+  Dunya mein rahein gay bhi tu bekar rahein gay
+  Bazoon hain qalam inn ke koi keh na sakay ga
+  Ghazi ka alam oncha hai oncha hi rahe ga
+
+  6
+  Abbas-e-Alamdar, alamdar rahein gay
+  Karday tu sar-e-bazm yeh ayelan bhi Gohar
+  Ghairon ko ijazat nahi aane ki yahan par
+  Dil mein tu meri jaan mere sarkar rahein gay
 ---
 
-Jo Loag May-e-Ishq Se Sarshar Rahein Gaye Mir Hasan Mir.
-Mehshar Mein Wohi Khuld Ke Haqdar Rahein Gay.
+جو لوگ مئے عشق سے سرشار رہیں گے میر حسن میر
+محشر میں وہی خلد کے حقدار رہیں گے
 
-1
-Insaf Qayamat Mein Yeh Ayelan Karey Ga.
-Jo Dushman-e-Shabeer Hai Dozakh Mein Rahe Ga.
-Janat Mein Faqat Sheh Ke Azadar Rahein Gay.
-Abbas Ki Aamad Pe Machay Gi Woh Tabahi.
+۱
+انصاف قیامت میں یہ اعلان کرے گا
+جو دشمنِ شبیر ہے دوزخ میں رہے گا
+جنت میں فقط شہ کے عزادار رہیں گے
+عباس کی آمد پہ مچے گی وہ تباہی
 
-2
-Aaye Ga Nazar Phir Koi Lashkar Na Sipahi.
-Maidaan Mein Faqat Lashon Ke Anbar Rahein Gay.
-Kehte Hain Yeh Tareekh Ke Mazboot Isharay.
-Pehlu Mein Paray Rehne Se Kya Hota Hai Pyaray.
+۲
+آئے گا نظر پھر کوئی لشکر نہ سپاہی
+میدان میں فقط لاشوں کے انبار رہیں گے
+کہتے ہیں یہ تاریخ کے مضبوط اشارے
+پہلو میں پڑے رہنے سے کیا ہوتا ہے پیارے
 
-3
-Ghaddar Tu Ghaddar Hain Ghaddar Rahein Gay.
-Maidaan Mein Hoon Mehfil Mein Hoon Ya Our Kahin Hoon.
-Mimber Pe Hoon Keh Takht Pe Ya Khak Nasheen Hoon.
-Sardar Tu Sardar Hain Sardar Rahein Gay.
+۳
+غدار تو غدار ہیں غدار رہیں گے
+میدان میں ہوں محفل میں ہوں یا اور کہیں ہوں
+منبر پہ ہوں کہ تخت پہ یا خاک نشیں ہوں
+سردار تو سردار ہیں سردار رہیں گے
 
-4
-Yeh Parcham-e-Ghazi Ki Ziyarat Nahi Kartay.
-Yeh Matam-e-Shabeer Mein Uth Bhi Nahi Saktay.
-Badkar Tere Hath Tu Bekar Rahein Gay.
-Na Inn Pe Karam Hoga Na Badlay Ga Muqadar.
+۴
+یہ پرچمِ غازی کی زیارت نہیں کرتے
+یہ ماتمِ شبیر میں اٹھ بھی نہیں سکتے
+بدکار تیرے ہاتھ تو بیکار رہیں گے
+نہ ان پہ کرم ہوگا نہ بدلے گا مقدر
 
-5
-Inn Bugz Ke Maron Ka Tu Mar Jana Hai Bahatar.
-Dunya Mein Rahein Gay Bhi Tu Bekar Rahein Gay.
-Bazoon Hain Qalam Inn Ke Koi Keh Na Sakay Ga.
-Ghazi Ka Alam Oncha Hai Oncha Hi Rahe Ga.
+۵
+ان بغض کے ماروں کا تو مر جانا ہے بہتر
+دنیا میں رہیں گے بھی تو بیکار رہیں گے
+بازو ہیں قلم ان کے کوئی کہہ نہ سکے گا
+غازی کا علم اونچا ہے اونچا ہی رہے گا
 
-6
-Abbas-e-Alamdar, Alamdar Rahein Gay.
-Karday Tu Sar-e-Bazm Yeh Ayelan Bhi Gohar.
-Ghairon Ko Ijazat Nahi Aane Ki Yahan Par.
-Dil Mein Tu Meri Jaan Mere Sarkar Rahein Gay
+۶
+عباسِ علمدار، علمدار رہیں گے
+کر دے تو سرِ بزم یہ اعلان بھی گوہر
+غیروں کو اجازت نہیں آنے کی یہاں پر
+دل میں تو میری جان میرے سرکار رہیں گے

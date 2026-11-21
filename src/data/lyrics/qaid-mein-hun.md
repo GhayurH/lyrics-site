@@ -14,63 +14,63 @@ published: true
 romanLyrics: |-
   Zindaan-e-sitam se ahl-e-aza
   Aati hai kisi Bibi ki sada
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   Humraah mere koi na raha
-  Maiṅ aaj bhi huṅ tanha tanha
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Main aaj bhi huṅ tanha tanha
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   1
   Maaeṅ phuphiyaaṅ bhai bahneṅ
   Abbas chacha baba Sarwar
-  Maiṅ sab ki chahiti thi ghar meiṅ
+  Main sab ki chaheti thi ghar mein
   Sab jaan chhirakte the mujh par
   Ye kaisi chali ghurbat ki hawa
   Yasrab bhi chhuta kunba bhi chhuta
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   2
   Zindaaṅ se meri tanhaai par
-  Sab karte hue faryaad gaye
+  Sab karte hue fariyaad gaye
   Turbat se meri rukhsat ho kar
   Khuṅ rote hue Sajjad gaye
   Humraah mere koi na raha
-  Maiṅ aaj bhi huṅ tanha tanha
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Main aaj bhi huṅ tanha tanha
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   3
-  Is qaid meiṅ huṅ din raat jahaaṅ
+  Is qaid mein huṅ din raat jahaaṅ
   Wahshat ka basera rahta hai
   Suraj to nikalta hai lekin
-  Is ghar meiṅ andhera rahta hai
+  Is ghar mein andhera rahta hai
   Ae kaash koi zaair mera
   Ek dip jala de aa ke zara
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   4
-  Nazroṅ meiṅ phira karta hai meri
+  Nazroṅ mein phira karta hai meri
   Har ek ki chaahat ka manzar
-  Rahti thi chacha ki godi meiṅ
+  Rahti thi chacha ki godi mein
   Soti thi padar ke sine par
   Ghar mera bana zindaan-e-bala
   Aur khaak bani bistar mera
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   5
   Har samt parindoṅ se aksar
   Kahti thi Sakina ro ro kar
   Mujh dukhiya par ehsaan karo
-  Gar Karb o Bala meiṅ raste meiṅ pare
+  Gar Karb o Bala mein raste mein pare
   Is sher taraai par hoga
   Us sher se itna kah dena
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   6
   Haathoṅ ko utha ke su-e-Najaf
@@ -79,28 +79,28 @@ romanLyrics: |-
   Baba se duaaeṅ maaṅgte haiṅ
   Par mera nasiba hai kaisa
   Chaudah sadiyoṅ se ahl-e-aza
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   7
   Har waqt andhere baste haiṅ
-  Har aan mujhe darr lagta hai
-  Maiṅ dhundti huṅ jab darwaaza
+  Har aan mujhe dar lagta hai
+  Main dhundti huṅ jab darwaaza
   Diwaaroṅ se sar lagta hai
-  Zindaaṅ meiṅ rahuṅ kaise tanha
+  Zindaaṅ mein rahuṅ kaise tanha
   Kul chaar baras hai sin mera
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   8
   Nana ka Madina chhut gaya
   Kuch aisa laga qismat ko gahan
   Jab ghumne phirne ke din the
-  Us waqt bandhi haathoṅ meiṅ rasan
-  Maiṅ bekas kamsin maasuma
+  Us waqt bandhi haathoṅ mein rasan
+  Main bekas kamsin maasuma
   Kuch bhi to nahiṅ hai meri khata
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 
   9
   Shabbir ke maatam daaroṅ ko
@@ -109,8 +109,8 @@ romanLyrics: |-
   Zawwaaroṅ ke dil phat jaate haiṅ
   Ashkoṅ se Bilal Karb o Bala
   Zindaaṅ ki fasiloṅ par hai likha
-  Sab riha hue maiṅ qaid meiṅ huṅ
-  Maiṅ qaid meiṅ huṅ
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 ---
 زندان ستم سے اہلِ عزا
 آتی ہے کسی بی‌بی کی صدا

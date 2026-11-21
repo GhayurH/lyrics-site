@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Naujawaṅ laal mar gaya
-  Haye akbar
-  Kariyal jawan bete ka laasha hai khaak par
-  Maqtal meiṅ ro rahi hai zaifi Husain ki
-  Binayi jaa chuki hai kuch aata nahi nazar
-  Maqtal meiṅ ro rahi zaifi Husain ki
+  Naujawaaṅ laal mar gaya
+  Haye Akbar
+  Kariyal jawaan bete ka laasha hai khaak par
+  Maqtal meiṅ ro rahi hai zaeefi Husain ki
+  Binaai jaa chuki hai kuchh aata nahiṅ nazar
+  Maqtal meiṅ ro rahi hai zaeefi Husain ki
   Haye mazlum Husain
   Do bhaanje Husain ke pehle hi mar gaye
-  Qasim bhi ammu jaaṅ ko beaas kar gaye
-  Ab hai jawan laal ka laasha lahu meiṅ tar
+  Qasim bhi ammu jaaṅ ko bebas kar gaye
+  Ab hai jawaan laal ka laasha lahu meiṅ tar
   Maqtal meiṅ ro rahi...
-  Haye fatema ka laal
+  Haye Fatema ka laal
   Burhe pidar ke saamne farzand mar gaya
-  Seena ghamoṅ se baap ka ghurbat meiṅ bhar gaya
-  Shabbir haath malte hai akbar ki laash par
+  Sina ghamoṅ se baap ka ghurbat meiṅ bhar gaya
+  Shabbir haath malte haiṅ Akbar ki laash par
   Maqtal meiṅ ro rahi...
   Haye Husain
-  Dil phat raha hai fatema zahra ke chain ka
-  Koi nahi hai puchne waala Husain ka
-  Jalti hui zamiṅ hai aur laasha e pisar
+  Dil phat raha hai Fatema Zehra ke chain ka
+  Koi nahiṅ hai puchhne waala Husain ka
+  Jalti hui zamiṅ hai aur laasha-e-pisar
   Maqtal meiṅ ro rahi...
-  Mazlum e karbala
+  Mazlum-e-Karbala
   Tora gaya zaif ka pardes meiṅ asaa
   Luta gaya Husain ki piri ka aasra
-  Ghurbat meiṅ maar dala gaya naujawaṅ pisar
+  Ghurbat meiṅ maar daala gaya naujawaaṅ pisar
   Maqtal meiṅ ro rahi...
-  Naujawaṅ laal
-  Bete ke gham se chur hai mazlum e karbala
-  Aur has rahe hai baap ki ghurbat pe ashqiyan
-  Koi zara furaat pe jaa kar kare khabar
+  Naujawaaṅ laal
+  Bete ke gham se chur hai mazlum-e-Karbala
+  Aur hans rahe haiṅ baap ki ghurbat pe ashqiya
+  Koi zara Furaat pe jaa kar kare khabar
   Maqtal meiṅ ro rahi...
-  Haye ghurbat e Husain
-  Sadma bahot hai bekas o tanha Husain ko
-  Deta nahi hai koi sahara Husain ko
-  Bas nehre alqama ki taraf dekh dekh kar
+  Haye ghurbat-e-Husain
+  Sadma bahut hai bekas o tanha Husain ko
+  Deta nahiṅ hai koi sahara Husain ko
+  Bas nahr-e-Alqama ki taraf dekh dekh kar
   Maqtal meiṅ ro rahi...
-  Haye mazlum husain
-  Laasha hai naujawaṅ ka kaise uthayenge
-  Lekar ke qaimagah talak kaise jayenge
-  Abbas aao jald taraayi ko chor kar
+  Haye mazlum Husain
+  Laasha hai naujawaaṅ ka kaise uthaayeṅ ge
+  Le kar ke khaima gaah talak kaise jaayeṅge
+  Abbas aao jald taraayi ko chhor kar
   Maqtal meiṅ ro rahi...
-  Haye fatema ka laal
+  Haye Fatema ka laal
   Aankhoṅ se khun behta hai aur sar pe khaak hai
-  Mazlum e karbala ka gireban chaak hai
-  Atthara saal waale ka zaanu pe rakh ke sar
+  Mazlum-e-Karbala ka gireban chaak hai
+  Athaara saal waale ka zaanuṅ pe rakh ke sar
   Maqtal meiṅ ro rahi...
-  Mazlum e karbala
-  Waiz jawaaṅ ki laash hai zahra ka laal hai
-  Ab kaun burhe baap ka pursane haal hai
-  Thaame hai dono haathoṅ se tuti hui kamar
+  Mazlum-e-Karbala
+  Waiz jawaaṅ ki laash hai Zehra ka laal hai
+  Ab kaun burhe baap ka pursaaṅ nihaal hai
+  Thaame haiṅ donoṅ haathoṅ se tuti hui kamar
   Maqtal meiṅ ro rahi...
 ---
 

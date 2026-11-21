@@ -1,62 +1,89 @@
 ---
-title: "Kaha Bano Nay Ye Ro Kaar"
+title: "کہا بانو نے یہ رو کر"
+alternateTitle: "Kaha Bano Nay Ye Ro Kaar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kaha Bano nay ye ro kaar yehi ghum dil ko kata hay
+  Jo Akbar bhool jaata hay, toh Asghar yaad aata hai
+
+  1
+  Shah-e-Mazloom paar manzaar
+  Yeh kaisa baykasi ka hai
+  Kabhi Akbar uthatha hai,
+  Kabhi Asghar ko lata hai
+
+  2
+  May aksar raat baar pehloon
+  May tujhko dhoondti Asghar
+  Tera woh khoon bara chaira,
+  Nahin ankhon say jaata hai
+
+  3
+  Laga jab teer Asghar ko
+  Sakina ro kay chilayi
+  Nahin istaar ha bachon ko,
+  Koyi paani pilaata hai
+
+  4
+  Khuda kay kaam may masroof
+  Hai kitna laal Zahra ka
+  Kabhi khaimon main aata hai,
+  Kabhi maqtal jo jaata hai
+
+  5
+  Baari mushkil samayta hai
+  Hassan kay laal ko Shah nay
+  Haar ek tukray ko chooma hay
+  Kabhi seena lagata hai
+
+  6
+  Hassan Shaam-e-Gharibaan ka
+  Woh manzar kistara bhoolay
+  Koyi khaimain jalata hai
+  Koyi jhoola jalata hai
 ---
 
-Kaha Bano Nay Ye Ro Kaar Yehi Ghum Dil Ko Kata Hay.
+کہا بانو نے یہ رو کر یہی غم دل کو کاٹا ہے
+جو اکبر بھول جاتا ہے، تو اصغر یاد آتا ہے
 
-Jo Akbar Bhool Jaata Hay, Toh Asghar Yaad Aata Hai.
+۱
+شاہِ مظلوم پر منظر
+یہ کیسا بے کسی کا ہے
+کبھی اکبر اٹھاتا ہے،
+کبھی اصغر کو لاتا ہے
 
-Shah-e-Mazloom Paar Manzaar
+۲
+میں اکثر رات بھر پہلو
+میں تجھ کو ڈھونڈتی اصغر
+تیرا وہ خون بھرا چہرہ،
+نہیں آنکھوں سے جاتا ہے
 
-Yeh Kaisa Baykasi Ka Hai
+۳
+لگا جب تیر اصغر کو
+سکینہ رو کے چلّائی
+نہیں اس طرح بچوں کو،
+کوئی پانی پلاتا ہے
 
-Kabhi Akbar Uthatha Hai,
+۴
+خدا کے کام میں مصروف
+ہے کتنا لال زہرا کا
+کبھی خیموں میں آتا ہے،
+کبھی مقتل جو جاتا ہے
 
-Kabhi Asghar Ko Lata Hai.
+۵
+بڑی مشکل سمیٹا ہے
+حسن کے لال کو شاہ نے
+ہر ایک ٹکڑے کو چوما ہے
+کبھی سینہ لگاتا ہے
 
-May Aksar Raat Baar Pehloon
-
-May Tujhko Dhoondti Asghar
-
-Tera Woh Khoon Bara Chaira,
-
-Nahin Ankhon Say Jaata Hai.
-
-Laga Jab Teer Asghar Ko
-
-Sakina Ro Kay Chilayi
-
-Nahin Istaar Ha Bachon Ko,
-
-Koyi Paani Pilaata Hai.
-
-Khuda Kay Kaam May Masroof
-
-Hai Kitna Laal Zahra Ka
-
-Kabhi Khaimon Main Aata Hai,
-
-Kabhi Maqtal Jo Jaata Hai.
-
-Baari Mushkil Samayta Hai
-
-Hassan Kay Laal Ko Shah Nay
-
-Haar Ek Tukray Ko Chooma Hay
-
-Kabhi Seena Lagata Hai.
-
-Hassan Shaam-e-Gharibaan Ka
-
-Woh Manzar Kistara Bhoolay
-
-Koyi Khaimain Jalata Hai
-
-Koyi Jhoola Jalata Hai.
+۶
+حسن شامِ غریباں کا
+وہ منظر کس طرح بھولے
+کوئی خیمے جلاتا ہے
+کوئی جھولا جلاتا ہے

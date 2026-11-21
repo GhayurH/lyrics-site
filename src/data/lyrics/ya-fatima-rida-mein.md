@@ -1,7 +1,7 @@
 ---
-title: "مقتل میں گر رہا ہے سنبھالو حسین کو"
+title: "یا فاطمہ ردا میں چھپالو حسین کو"
 recitationId: "ya-fatema-rida-mein"
-alternateTitle: "Ya Fatima Rida Meiṅ"
+alternateTitle: "Ya Fatima Rida Meiṅ Chhupaalo Husain Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

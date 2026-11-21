@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Wo naaz-e-kibriya hai wo shaah-e-karbala hai
+  Wo naaz-e-kibriya hai wo shaah-e-Karbala hai
   Zahra ke dil ka chain hai wo hi mera Husain hai
-  Dil meiṅ ashk-e-hyder ka ek diya jalana hai
+  Dil meiṅ ishq-e-Haidar ka ik diya jalaana hai
   Karna hai ya Husain
-  Sayyeda ke bachoṅ ka farshe gham bichana hai
+  Sayyeda ke bachchoṅ ka farsh-e-gham bichhaana hai
   Karna hai ya Husain
-  Laakh mushkileiṅ aaye gardane bhi kat jaye
-  Fatwa gar dalileiṅ gar aasmaṅ se bhi laaye
-  Hum ne apni nasloṅ ko matami banana hai
+  Laakh mushkileṅ aaeṅ gardaneṅ bhi kat jaaeṅ
+  Fatwa gar dalileṅ gar aasmaaṅ se bhi laaeṅ
+  Hum ne apni nasloṅ ko maatami banaana hai
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
-  Ye jo pursadari hai munkiro pe bhari hai
-  Ae yazidiyo sunlo karbala hamari hai
-  Rab ke sab khazano meiṅ ye alag khazana hai
+  Ye jo pursa daari hai munkaroṅ pe bhaari hai
+  Ae Yazidiyo sun lo Karbala hamaari hai
+  Rab ke sab khazaanoṅ meiṅ ye alag khazaana hai
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
-  Tera lahu rayegaaṅ na jayega
-  Behan ka waada hai ye rang zarur layega
-  Ye din ki baqa bina e la ilaah Husain baadshah
+  Tera lahu raaegaaṅ na jaae ga
+  Behan ka waada hai ye rang zarur laae ga
+  Hai din ki baqa bina-e-la ilaah Husain baadshaah
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
-  Aansuoṅ ke baadal se kya ladenge ye jalse
-  Hai nigahe khaaliq meiṅ ye roz-e-awwal se
-  Ek taraf hussaini hai ek taraf zamana hai
+  Aansuoṅ ke baadal se kya lareṅ ge ye jalse
+  Hai nigaah-e-Khaaliq meiṅ tay ye roz-e-awwal se
+  Ik taraf Husaini haiṅ ik taraf zamaana hai
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
-  Mujh gunahgaar pe har dam hai ye inaame Husain
-  Meri har gaam adad karta ha zarghaam-e-Husain
-  Chum leta hu jahaṅ dekhta hu naam-e-Husain
-  Karbala ashke manast o manam ghulame Husain
-  Jaan se pyari meine ishqe wila hi mujhko
-  Ye sila maa ki tahaarat se mila hai mujhko
-  Sangatoṅ ke lashkar hai kya ghazab ke tewar hai
-  Ye nishane matam hi matami ka zewar hai
-  Matami julossoṅ ki shaan faatehana hai
+  Mujh gunahgaar pe har dam hai ye inaam-e-Husain
+  Meri har gaam madad karta hai Zarghaam-e-Husain
+  Chum leta ho jahaaṅ dekhta ho naam-e-Husain
+  Karbala ishq-e-manast o manam ghulaam-e-Husain
+  Jaan se pyaari mai-e-ishq-e-wila hai mujh ko
+  Ye sila maaṅ ki tahaarat se mila hai mujh ko
+  Sangatoṅ ke lashkar haiṅ kya ghazab ke tewar haiṅ
+  Ye nishaan-e-maatam hi maatami ka zewar haiṅ
+  Maatami julusoṅ ki shaan faatehaana hai
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
-  Gham hai ye bahattar ka sayyeda ki chadar ka
-  Karbla meiṅ naize ki nok par kisi sar ka
+  Gham hai ye bahattar ka Sayyeda ki chaadar ka
+  Karbala meiṅ naize ki nok par kisi sar ka
   Sayyedoṅ ko is gham ne hashr tak rulaana hai
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
-  Hashr ki faza hogi masnade qaza hogi
-  Kaun jannati hoga kisko kya saza hogi
-  Sayyeda ne akthar ye faisla sunaana hai
+  Hashr ki faza hogi masnad-e-qaza ho gi
+  Kaun jannati hoga kis ko kya saza ho gi
+  Sayyeda ne Akhtar ye faisla sunaana hai
   Ya Husain ya Husain ya Husain
   Karna hai ya Husain...
 ---

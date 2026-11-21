@@ -1,41 +1,72 @@
 ---
-title: "Piya Pochda Baqir Babay Koon Hasan Sadiq"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "پیا پچھدا باقر بابے کوں حسن صادق"
+alternateTitle: "Piya Pochda Baqir Babay Koon Hasan Sadiq"
+language: "Saraiki"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Khursheed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Piya pochda Baqir babay koon Hasan Sadiq
+  Na ro hanjo rat de na ro
+  Main mar waisaan maida baba na ro
+  Maikon das kyun wal wal ke baba aynj Sham da naam aye lainda aye
+
+  2
+  Piya puchda Baqir babay koon kyun rat de neel wahenda aye
+  Nayi jarya janda Baqir taun aynj ronra teda har welay
+  Tak tak ke taidiyaan hanjwaan koon dil dubda maida har welay
+  Kehra miliya aida dard taikun jaikon aj taein yaad karenda aye
+
+  3
+  Dasiya Sajjad aye Baqir koon maikon gham phophiyaan da mar gaya
+  Nayi bhulda balwa aam de wich jiwein qafila Sham bazar gaya
+  Gaye Sham de manzar mar muka kyun puch ke jigar halenda aye
+  Masoom Sakina wichar gayi wich Sham diyaan zindana de
+
+  4
+  Band kitay kalma gowaan san sab rastay qabarastana de
+  Kisay pochiya na kyun bhainri koon wich rahwaan de dafnainda aye
+  Na bhul si dunya hashar taein aye Baqir maida rat ronra
+  Shahid Khursheed hay dunya te dukhi mere warga nayi honra
+
+  5
+  Taiday babay da phat jigar wesi kyun bachra zakhm pholainda aye
+  Taun haan masoom jadaan dasya maikon babay Sham main janra aye
+  Phophiyaan te bhainra wich Karbal kariyaan da zewar panra aye
+  Osay dainda ki beemar gaya keh Baqir putar pochenda aye
 ---
 
-1
-Piya Pochda Baqir Babay Koon Hasan Sadiq.
-Na Ro Hanjo Rat De Na Ro.
-Main Mar Waisaan Maida Baba Na Ro.
-Maikon Das Kyun Wal Wal Ke Baba Aynj Sham Da Naam Aye Lainda Aye.
+۱
+پیا پچھدا باقر بابے کوں حسن صادق
+نہ رو ہنجو رت دے نہ رو
+میں مر ویساں میڈا بابا نہ رو
+میکوں دس کیوں ول ول کے بابا اینج شام دا نام اے لیندا اے
 
-2
-Piya Puchda Baqir Babay Koon Kyun Rat De Neel Wahenda Aye.
-Nayi Jarya Janda Baqir Taun Aynj Ronra Teda Har Welay.
-Tak Tak Ke Taidiyaan Hanjwaan Koon Dil Dubda Maida Har Welay.
-Kehra Miliya Aida Dard Taikun Jaikon Aj Taein Yaad Karenda Aye.
+۲
+پیا پچھدا باقر بابے کوں کیوں رت دے نیل وہیندا اے
+نئیں جریا جاندا باقر توں اینج روݨا تیڈا ہر ویلے
+تک تک کے تیڈیاں ہنجواں کوں دل ڈبدا میڈا ہر ویلے
+کیہڑا ملیا ایڈا درد تیکوں جیکوں اج تائیں یاد کریندا اے
 
-3
-Dasiya Sajjad Aye Baqir Koon Maikon Gham Phophiyaan Da Mar Gaya.
-Nayi Bhulda Balwa Aam De Wich Jiwein Qafila Sham Bazar Gaya.
-Gaye Sham De Manzar Mar Muka Kyun Puch Ke Jigar Halenda Aye.
-Masoom Sakina Wichar Gayi Wich Sham Diyaan Zindana De.
+۳
+دسیا سجاد اے باقر کوں میکوں غم پھپھیاں دا مار گیا
+نئیں بھلدا بلوا عام دے وچ جیویں قافلہ شام بازار گیا
+گئے شام دے منظر مار مکا کیوں پچھ کے جگر ہلیندا اے
+معصوم سکینہ وچھڑ گئی وچ شام دیاں زنداناں دے
 
-4
-Band Kitay Kalma Gowaan San Sab Rastay Qabarastana De.
-Kisay Pochiya Na Kyun Bhainri Koon Wich Rahwaan De Dafnainda Aye.
-Na Bhul Si Dunya Hashar Taein Aye Baqir Maida Rat Ronra.
-Shahid Khursheed Hay Dunya Te Dukhi Mere Warga Nayi Honra.
+۴
+بند کیتے کلمہ گواں سن سب رستے قبرستاناں دے
+کسے پچھیا نہ کیوں بھینڑی کوں وچ راہواں دے دفنائیندا اے
+نہ بھل سی دنیا حشر تائیں اے باقر میڈا رت روݨا
+شاہد خورشید ہے دنیا تے دکھی میرے ورگا نئیں ہوݨا
 
-5
-Taiday Babay Da Phat Jigar Wesi Kyun Bachra Zakhm Pholainda Aye.
-Taun Haan Masoom Jadaan Dasya Maikon Babay Sham Main Janra Aye.
-Phophiyaan Te Bhainra Wich Karbal Kariyaan Da Zewar Panra Aye.
-Osay Dainda Ki Beemar Gaya Keh Baqir Putar Pochenda Aye.
+۵
+تیڈے بابے دا پھٹ جگر ویسی کیوں بچڑا زخم پھولیندا اے
+توں ہاں معصوم جڈاں دسیا میکوں بابے شام میں جاݨا اے
+پھپھیاں تے بھینڑا وچ کربل کڑیاں دا زیور پاݨا اے
+اوسے دیندا کی بیمار گیا کہ باقر پتر پچھیندا اے

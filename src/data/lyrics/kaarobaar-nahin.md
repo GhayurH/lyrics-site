@@ -16,9 +16,9 @@ romanLyrics: |-
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
   1
-  Woh shakhs Zaakir-e-Shabbir ho nahiṅ sakta
+  Woh shakhs zaakir-e-Shabbir ho nahiṅ sakta
   Dar-e-Zahra ka jo faqir ho nahiṅ sakta
-  Jis se zar se mohabbat aza se pyaar nahiṅ
+  Jis se zar se mohabbat azaa se pyaar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
   2
@@ -42,12 +42,12 @@ romanLyrics: |-
   5
   Woh farsh-e-gham ho ke mehfil Ali ki midhat ki
   Jo baat karte haiṅ har bazm meiṅ siyaasat ki
-  Woh apne naam ke taalib haiṅ pursadaar nahiṅ
+  Woh apne naam ke taalib haiṅ pursa daar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
   6
   Woh log kaun the ham jin ko aaj rote haiṅ
-  Yeh kis ke tazkira farsh-e-aza pe rote haiṅ
+  Yeh kis ke tazkira farsh-e-azaa pe rote haiṅ
   Woh log pusht-e-Muhammad ke kya sawaar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 

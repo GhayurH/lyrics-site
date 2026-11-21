@@ -9,115 +9,41 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zainab-e-Hazeen Nay Man
-
-  Khawaharaan Khuda(swt) Hafiz!
-
+romanLyrics: |-
+  Zainab-e-hazin-e-man khwaaharaaṅ khuda haafiz
 
   1
-
-  Man kay bhi alamdaram bay mueen-o-bay-yaram
-
-  Az Hayat-e-bay-zaram, Khawaharaan Khuda(swt) Hafiz!
-
-
-  2
-
-  1. Aey meri bahan Zainab ghar teray hawalay hai
-
-  Jo Laiq-e-Sajda hai sar us kay hawalay hai
-
-  Bas Chalnay ko hai khanjar, Khawaharaan Khuda(swt) Hafiz!
-
-
-  3
-
-  Maare gaye saab behna hum reh gaye ab tanha
-
-  Is aalam e ghurbat mein mushkil hai mera jeena
-
-  Maare gaye sab dilbar khwahara khuda hafiz
-
-
-  4
-
-  2. Khanjar mayri gardan par jab Shimar(la) chalaye ga
-
-  Reh reh kay mujhay tayra chehra nazar aaye ga
-
-  Tu ho gi barehna sar, Khawaharaan Khuda(swt) Hafiz!
-
-
-  5
-
-  3. Zindaan kay andheray mein jab soye meri bachi
-
-  Dil joi bohut karna us waqt bahan us ki(sadqay)
-
-  Mar jaaye na woh ghut kar, Khawaharaan Khuda(swt) Hafiz!
-
-
-  6
-
-  4. Zindaan say reha ho kar jab suye watan jaana
-
-  Jo zulm hue hum par Sughra ko woh batlana
-
-  Hum qatal howay kyonkar, Khawaharaan Khuda(swt) Hafiz!
-
-
-  7
-
-  5. Poochay jo Sakina ko bemar meri dukhtar
-
-  Batlana keh zindaan mein woh mer gaye ro ro kar
-
-  Yeh zakhm bhi hay dil par, Khawaharaan Khuda(swt) Hafiz!
-
-
-  8
-
-  6. Kehna tayri furqat mein Akbar bhi tarapta tha
-
-  Sota tha sar-e-maqtal jab khat tera aaya tha
-
-  Seenay pay sina kha kar, Khawaharaan Khuda(swt) Hafiz!
-
-
-  9
-
-  7. Har goud mein dhoonday gi Sughra Ali Asghar ko
-
-  Tum khud hi bata dayna bemar ko muztar Ko
-
-  Nawak laga gardan per, Khawaharaan Khuda(swt) Hafiz!
-
-
-  10
-
-  8. Zainab say hue rukhsat Shabbir basad girya
-
-  Hamsheer ko mur mur kay Shabbir nay youn daykha
-
-  Ek jumla tha bas lab par, Khawaharaan Khuda(swt) Hafiz!
-
-
-  11
-
-  9. Jab Sham ki tariki taroon pe bee chati hai
-
-  Ab bhi ussi maqtal say awaz yeh aati hai
-
-  Bichrein gay na hum mar kar, Khawaharaan Khuda(swt) Hafiz!
-
-
-  12
-
-  10. Rehan bohut roi Zainab yeh bayan sun kar
-
-  Kehnay lagi bhai kay seenay pay woh ser rakh kar
-
-  Dil dooba hai yeh sun kar, Khawaharaan Khuda(swt) Hafiz!'
+  Man ke ba alam daaram bemuin o beyaaram
+  Az hayaat bezaaram khwaaharaaṅ khuda haafiz
+  Ae meri bahan Zainab ghar tere hawaale hai
+  Jo laaiq-e-sajda hai sar us ke hawaale hai
+  Bas chalne ko hai khanjar khwaaharaaṅ khuda haafiz
+  Khanjar meri gardan par jab Shimar chalaae ga
+  Rah rah ke mujhe tera chehra nazar aae ga
+  Tu ho gi barahna sar khwaaharaaṅ khuda haafiz
+  Maare gae sab bahna ham rah gae ab tanha
+  Is aalam-e-ghurbat mein mushkil hai mera jina
+  Maare gae sab dilbar khwaaharaaṅ khuda haafiz
+  Zindaaṅ ke andhere mein jab roe meri bachi
+  Dil joi bahut karna us waqt bahan us ki
+  Mar jaae na woh ghut kar khwaaharaaṅ khuda haafiz
+  Zindaaṅ se riha ho kar jab su-e-watan jaana
+  Jo zulm hue ham par Sughra ko woh batlaana
+  Ham qatl hue kiuṅ kar khwaaharaaṅ khuda haafiz
+  Kahna teri furqat mein Akbar bhi tarapta tha
+  Rota tha sar-e-maqtal jab khat tera aaya tha
+  Sine pe sinaaṅ kha kar khwaaharaaṅ khuda haafiz
+  Har god mein dhunde gi Sughra Ali Asghar ko
+  Tum khud hi bata dena bimaar ko muztar ko
+  Naawak laga gardan par khwaaharaaṅ khuda haafiz
+  Puchhe jo Sakina ko bimaar meri dukhtar
+  Batlaana ke zindaaṅ mein woh mar gai ro ro kar
+  Woh zakhm bhi hai dil par khwaaharaaṅ khuda haafiz
+  Rehaan bahut roi Zainab yeh bayaaṅ sun kar
+  Kahne lagi bhai ke sine pe woh sar rakh kar
+  Dil duba hai yeh sun kar khwaaharaaṅ khuda haafiz
+  Man ke bi alam daaram bemuin o beyaaram
+  Az hayaat-e-bezaaram khwaaharaaṅ khuda haafiz
 ---
 
 زینبِؑ حزین من خواہَراں خدا حافظ

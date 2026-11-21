@@ -12,59 +12,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Fajr unneeswi ramzaṅ ki tarpati hai
-  Fatema zehra ki jis waqt sada aati hai
-  Aa dekh le zainab tera zakhmi baba
+  Fajr unnisviṅ Ramzaaṅ ki tarpaati hai
+  Fatema Zehra ki jis waqt sada aati hai
+  Aa dekh le Zainab tera zakhmi baba
   Ghar laut ke aaya hai
-  Kaandho pe uthaye yuṅ bete hai laaye
-  Lagta hai janaza hai
-  Aa dekh le zainab tera zakhmi baba
+  Kaandhoṅ pe uthaaye yuṅ bete hai laaye
+  Lagta hai janaaza hai
+  Aa dekh le Zainab tera zakhmi baba
   Ghar laut ke aaya hai
   Mushkil se safar ye tay hai kiya
   Jaari hai lahu ka darya
-  Masjid se ghar tak har ek qadam par
-  Betoṅ ne sambhala hai
-  Aa dekh le zainab...
+  Masjid se ghar har ek qadam par
+  Betoṅ ne sambhaala hai
+  Aa dekh le Zainab...
   Haalat hi ajab hai baba ki
-  Pehchaan'na mushkil hoga
-  Zehra ki gharibi yaad aayegi bibi
-  Tar khun may chehra hai
-  Aa dekh le zainab...
-  Jarrah se hujre ke baahar
-  Jab haal Hasan ne pucha
-  Wo ro ke pukara mushkil hua jina
-  Ye zakhm hi aisa hai
-  Aa dekh le zainab...
-  Ab shaam e gharibaṅ may tum ko
+  Pehchaanna mushkil hoga
+  Zehra ki gharibi yaad aayegi Bibi
+  Tar khun mein chehra hai
+  Aa dekh le Zainab...
+  Jarraah se hujre ke baahar
+  Jab haal Hasan ne puchha
+  Wo ro ke pukaare mushkil hua jina
+  Ye zakhmi hi aisa hai
+  Aa dekh le Zainab...
+  Ab shaam-e-gharibaaṅ mein tum ko
   Ye chehra nazar aayega
-  E saani e zahra kuch roz ka mehman
+  Ae saani-e-Zehra kuchh roz ka mehmaan
   Ab aap ka baba hai
-  Aa dekh le zainab...
+  Aa dekh le Zainab...
   Ye shaana hila kar kehti hai
-  Abbas e jari ki maadar
-  Bibi uth jao ashkon ko chupao
+  Abbas-e-Jari ki maadar
+  Bibi uth jaao ashkoṅ ko chhupaao
   Baba ne bulaaya hai
-  Aa dekh le zainab...
-  Qadmoṅ may gir ke zainab ke
-  Ghazi ki behan ye boli
-  Baba ko bachalo sadqe mujhe kar do
-  Haazir ye ruqayya hai
-  Aa dekh le zainab...
-  Ek roz akele aana hai
-  Is shehr may tujhko bibi
-  Kya hoga na jaane shehzadi abhi se
-  Badla hua kufa hai
-  Aa dekh le zainab...
-  Shabbar ka jigar shabbir ka sar
-  Abbas e jari ka baazu
-  Kat'te dekhogi ae baba ki pyari
+  Aa dekh le Zainab...
+  Qadmoṅ mein gir ke Zainab ke
+  Ghaazi ki behan ye boli
+  Baba ko bacha lo sadqe mujhe kar do
+  Haazir ye Ruqayya hai
+  Aa dekh le Zainab...
+  Ak roz akele aana hai
+  Is shehr mein tujh ko Bibi
+  Kya hoga na jaane shehzaadi abhi se
+  Badla hua Kufa hai
+  Aa dekh le Zainab...
+  Shabbar ka jigar Shabbir ka sar
+  Abbas-e-Jari ka baazu
+  Katte dekhogi ae baba ki pyaari
   Ye zakhm to pehla hai
-  Aa dekh le zainab...
-  Ye kehke takallum beti se
-  Khamosh huwe the maula
-  Darbar ke dar par mai aaunga milne
+  Aa dekh le Zainab...
+  Ye keh ke Takallum beti se
+  Khaamosh hue the Maula
+  Darbaar ke dar par main aauṅga milne
   Zainab mera waada hai
-  Aa dekh le zainab...
+  Aa dekh le Zainab...
 ---
 
 ۱

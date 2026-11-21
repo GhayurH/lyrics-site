@@ -1,32 +1,54 @@
 ---
-title: "Jo Kainat Gham E Fatima Mein Dhal Jaye Lyrics 2020"
+title: "جو کائنات غمِ فاطمہ میں ڈھل جائے"
+alternateTitle: "Jo Kainat Gham-e-Fatima Mein Dhal Jaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jo kainat gham-e-Fatima mein dhal jaye
+  Safaid din bhi siyah raat mein badal jaye
+
+  1
+  Hasan hoon samne marey tamacha maa ko koi
+  Ali hoon samne our taziyana chal jaye
+  Ali salam karein our koi jawab na de
+  Yeh baat sun ke na Zahra ka dam nikal jaye
+
+  2
+  Rasan Ali ke galay se churaney jaye Batool
+  Shikasta pehlu ho our kohniyo ke bal jaye
+  Ali pe nazrein hain Zainab ki ya Elahi khair
+  Galay se baap ke jaldi rasan nikal jaye
+
+  3
+  Gira ke Fatima pe jalta darwaza
+  Woh chahtey they Nabi ki nishani jal jaye
+  Janaza ho gaya rukhsat Batool ka Saqlain
+  Khuda karey keh yateemo ka dil sanbhal jaye
 ---
 
-Jo Kainat Gham-e-Fatima Mein Dhal Jaye.
-Safaid Din Bhi Siyah Raat Mein Badal Jaye.
+جو کائنات غمِ فاطمہ میں ڈھل جائے
+سفید دن بھی سیاہ رات میں بدل جائے
 
-1
-Hasan Hoon Samne Marey Tamacha Maa Ko Koi.
-Ali Hoon Samne Our Taziyana Chal Jaye.
-Ali Salam Karein Our Koi Jawab Na De.
-Yeh Baat Sun Ke Na Zahra Ka Dam Nikal Jaye.
+۱
+حسن ہوں سامنے مارے تماچا ماں کو کوئی
+علی ہوں سامنے اور تازیانہ چل جائے
+علی سلام کریں اور کوئی جواب نہ دے
+یہ بات سن کے نہ زہرا کا دم نکل جائے
 
-2
-Rasan Ali Ke Galay Se Churaney Jaye Batool.
-Shikasta Pehlu Ho Our Kohniyo Ke Bal Jaye.
-Ali Pe Nazrein Hain Zainab Ki Ya Elahi Khair.
-Galay Se Baap Ke Jaldi Rasan Nikal Jaye.
+۲
+رسن علی کے گلے سے چرانے جائے بتول
+شکستہ پہلو ہو اور کہنیوں کے بل جائے
+علی پہ نظریں ہیں زینب کی یا الٰہی خیر
+گلے سے باپ کے جلدی رسن نکل جائے
 
-3
-Gira Ke Fatima Pe Jalta Darwaza.
-Woh Chahtey They Nabi Ki Nishani Jal Jaye.
-Janaza Ho Gaya Rukhsat Batool Ka Saqlain.
-Khuda Karey Keh Yateemo Ka Dil Sanbhal Jaye
+۳
+گرا کے فاطمہ پہ جلتا دروازہ
+وہ چاہتے تھے نبی کی نشانی جل جائے
+جنازہ ہو گیا رخصت بتول کا ثقلین
+خدا کرے کہ یتیموں کا دل سنبھل جائے

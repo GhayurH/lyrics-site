@@ -1,0 +1,65 @@
+---
+title: "سن رہے ہو صدا بابا جان"
+recitationId: "qaid-khane-mein"
+alternateTitle: "Qaid Khaane Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "N. Sarwar & Raza Sirsvi"
+reciter: "Ali Shanawar"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Sun rahe ho sada baaba jaan
+
+  Hum kahaaṅ aa gaye ghar kahaaṅ reh gaya
+  Qaid khaane meiṅ nauha Sakina ka tha
+  Hum kahaaṅ aa gaye ghar kahaaṅ reh gaya
+
+  1
+  Yaad aata hai guzra zamaana mujhe
+  Le ke baahoṅ meiṅ jhula jhulaana mujhe
+  Maiṅ bulaati rahi aur na aaye chacha
+
+  2
+  Yaad aata hai pyaara Madina mujhe
+  Phul jaisa wo baaba ka sina mujhe
+  Wo zamaana koi phir dikha de mujhe
+
+  3
+  Bhaai Aabid ne chalna sikhaaya mujhe
+  Apne haathoṅ se khaana khilaaya mujhe
+  Ab usi ke liye hai dawa na ghiza
+
+  4
+  Hai baaba ko dekhe zamaana hua
+  Un ke sine pe soye zamaana hua
+  Na tumhaara pata na hamaara pata
+---
+سن رہے ہو صدا بابا جان
+
+ہم کہاں آ گئے گھر کہاں رہ گیا
+قید خانے میں نوحہ سکینہ کا تھا
+ہم کہاں آ گئے گھر کہاں رہ گیا
+
+۱
+یاد آتا ہے گزرا زمانہ مجھے
+لے کے باہوں میں جھولا جھلانا مجھے
+میں بلاتی رہی اور نہ آئے چچا
+
+۲
+یاد آتا ہے پیارا مدینہ مجھے
+پھول جیسا وہ بابا کا سینہ مجھے
+وہ زمانہ کوئی پھر دکھا دے مجھے
+
+۳
+بھائی عابد نے چلنا سکھایا مجھے
+اپنے ہاتھوں سے کھانا کھلایا مجھے
+اب اسی کے لئے ہے دوا نہ غذا
+
+۴
+ہے بابا کو دیکھے زمانہ ہوا
+ان کے سینے پہ سوئے زمانہ ہوا
+نہ تمہارا پتہ نہ ہمارا پتہ

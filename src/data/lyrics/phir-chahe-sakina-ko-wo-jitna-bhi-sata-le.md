@@ -8,44 +8,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  tha bain sakeena ka hai rukne ko mera dil
-  jaata hai rida chin ke bayshir ka qatil
-  aasan ye kar deiṅ mere bhaiya meri mushkil
-  gohar bhi nahi chahiye na chahiye mehmil
-  kar de jo mere sar ki rida mere hawale
-  phir chaahe sakina ko wo jitna bhi sata le
-  khanjar se gala sheh ke mere saamne kaata
-  pathar tan-e-mazlum pe maare gaye bhaiya
-  zakhmoṅ pe magar baba ke ab rayt na daale
-  phir chaahe sakina ko..
-  gohar mere chine ye sitam maiṅ ne saha hai
-  khuṅ mera sitamgaar ke haathoṅ pe laga hai
-  bas mera lahu haathoṅ se wo apne hata le
-  phir chaahe sakina ko..
-  rahwaroṅ ko tayyar jo karte hai musalmaaṅ
-  bhaiya ye sitam dekh ke mar jayengi amma
-  pamaali se laasha ali asghar ka bacha le
-  phir chaahe sakina ko..
-  karta hai dukhi shaah ki hamshir ko jaise
-  lehrata hai wo chadar-e-tathir ko jaise
-  naize pe mere baba ka sar yuṅ na uchale
-  phir chaahe sakina ko..
-  talwaroṅ se chehre pa kayi zakhm lage hai
-  mazlum ke ye hont to pehle se kate hai
-  ab baba ke hontoṅ se chari apni hata le
-  phir chaahe sakina ko..
-  hum se sahi jaati nahi taashoṅ ki aziyat
-  haste hai layiṅ dekh ke hum saaroṅ ki haalat
-  raste se hamare ye tamashayi hata le
-  phir chaahe sakina ko..
-  mai apne liye chahuṅ to nahi maangti bhaiya
-  in shaam ki raahoṅ meiṅ faqat waqt de itna
-  daaman se karuṅ saaf tere pairoṅ ke chaale
-  phir chaahe sakina ko..
-  akbar thi tarap kar ye sakina ki sadayeiṅ
-  rakta hai sar-e-ghazi pe behno ki ridayeiṅ
-  ye chadreiṅ wo sar se chacha jaaṅ ke utha le
-  phir chaahe sakina ko..
+  Tha bain Sakina ka hai rukne ko mira dil
+  Jaata hai rida chhin ke beshir ka qaatil
+  Aasaan ye kar deṅ mire bhaiya miri mushkil
+  Gauhar bhi nahiṅ chaahiye na chaahiye mahmil
+  Kar de jo mire sar ki rida mere hawaale
+  Phir chaahe Sakina ko wo jitna bhi sata le
+  Khanjar se gala sheh ke mere saamne kaata
+  Patthar tan-e-mazlum pe maare gaye bhaiya
+  Zakhmoṅ pe magar baba ke ab ret na daale
+  Phir chaahe Sakina ko..
+  Gauhar mere chhine ye sitam maiṅ ne saha hai
+  Khuṅ mera sitamgaar ke haathoṅ pe laga hai
+  Bas mera lahu haathoṅ se apne wo hata le
+  Phir chaahe Sakina ko..
+  Rahwaroṅ ko taiyaar jo karte haiṅ musalmaaṅ
+  Bhaiya ye sitam dekh ke mar jaaeṅ gi amma
+  Paamaali se laasha Ali Asghar ka bacha le
+  Phir chaahe Sakina ko..
+  Karta hai dukhi shaah ki hamshir ko jaise
+  Lehraata hai wo chaadar-e-tathir ko jaise
+  Neze pe mire baap ka sar yuṅ na uchhaale
+  Phir chaahe Sakina ko..
+  Talwaaroṅ se chehre pe kai zakhm lage haiṅ
+  Mazlum ke ye hont to pehle se kate haiṅ
+  Ab baba ke hontoṅ se chhari apni hata le
+  Phir chaahe Sakina ko..
+  Hum se sahi jaati nahiṅ taashoṅ ki aziyat
+  Hanste haiṅ laiṅ dekh ke hum saaroṅ ki haalat
+  Raste se hamaare ye tamaashaai hata le
+  Phir chaahe Sakina ko..
+  Maiṅ apne liye chhaaoṅ to nahiṅ maangti bhaiya
+  In Shaam ki raahoṅ meiṅ faqat waqt de itna
+  Daaman se karuṅ saaf tire pairoṅ ke chhaale
+  Phir chaahe Sakina ko..
+  Akbar thiṅ tarap kar ye Sakina ki sadaaeṅ
+  Rakhta hai sar-e-ghaazi pe behnoṅ ki ridaaeṅ
+  Ye chaadreṅ wo sar se chacha jaaṅ ke utha le
+  Phir chaahe Sakina ko..
 ---
 
 تھا بین سکینہ کا ہے رکنے کو مرا دل

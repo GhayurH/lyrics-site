@@ -1,41 +1,72 @@
 ---
-title: "Qaid Tanha Hoon Zindan Mein Aao Baba Lyrics 2018"
+title: "قید تنہا ہوں زنداں میں آؤ بابا"
+alternateTitle: "Qaid Tanha Hoon Zindan Mein Aao Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaid tanha hoon zindan mein aao Baba
+  Aa ke seene pe Sakina ko sulao Baba
+  Itna tareek hai zindan ke mar jaongi
+  Aap ke bad na ab laut ke ghar jaongi
+
+  2
+  Apni beti ko apne paas bulao Baba
+  Aa ke na pochna ke Sham kaise aye hain
+  Pusht-e-Naqa pe mujhe bandh kar yeh laye hain
+  Mera Asghar hai kahan aa ke batao Baba
+
+  3
+  Kan zakhmi hain mere kuch inhein aaram mile
+  Choti qaidan beti baghi ke mujhe naam mile
+  Naam le kar mera ik baar bulao Baba
+  Hain nishaan rasiyon ke banhoon pe na dikhaon gi
+
+  4
+  Neelay rukhsar main hathon se khud chupaon gi
+  Apne chehre ka mujhe noor dikhao Baba
+  Qaid Sajad bhi hai Baba bemar bhi hai
+  Khon rota hai ridaon ka azadar bhi hai
+
+  5
+  Mar na jaye mere bhai ko bachao Baba
+  Karbala mein kaha Sakina Baba hain kahan
+  Aaj tak gonjti hai Najfi woh faryad yahan
+  Mere daman mein lagi aag bujhao Baba
 ---
 
-1
-Qaid Tanha Hoon Zindan Mein Aao Baba.
-Aa Ke Seene Pe Sakina Ko Sulao Baba.
-Itna Tareek Hai Zindan Ke Mar Jaongi.
-Aap Ke Bad Na Ab Laut Ke Ghar Jaongi.
+۱
+قید تنہا ہوں زنداں میں آؤ بابا
+آ کے سینے پہ سکینہ کو سلاؤ بابا
+اتنا تاریک ہے زنداں کہ مر جاؤں گی
+آپ کے بعد نہ اب لوٹ کے گھر جاؤں گی
 
-2
-Apni Beti Ko Apne Paas Bulao Baba.
-Aa Ke Na Pochna Ke Sham Kaise Aye Hain.
-Pusht-e-Naqa Pe Mujhe Bandh Kar Yeh Laye Hain.
-Mera Asghar Hai Kahan Aa Ke Batao Baba.
+۲
+اپنی بیٹی کو اپنے پاس بلاؤ بابا
+آ کے نہ پوچھنا کہ شام کیسے آئے ہیں
+پشتِ ناقہ پہ مجھے باندھ کر یہ لائے ہیں
+میرا اصغر ہے کہاں آ کے بتاؤ بابا
 
-3
-Kan Zakhmi Hain Mere Kuch Inhein Aaram Mile.
-Choti Qaidan Beti Baghi Ke Mujhe Naam Mile.
-Naam Le Kar Mera Ik Baar Bulao Baba.
-Hain Nishaan Rasiyon Ke Banhoon Pe Na Dikhaon Gi.
+۳
+کان زخمی ہیں میرے کچھ انہیں آرام ملے
+چھوٹی قیدن بیٹی باغی کے مجھے نام ملے
+نام لے کر میرا اک بار بلاؤ بابا
+ہیں نشان رسیوں کے بانہوں پہ نہ دکھاؤں گی
 
-4
-Neelay Rukhsar Main Hathon Se Khud Chupaon Gi.
-Apne Chehre Ka Mujhe Noor Dikhao Baba.
-Qaid Sajad Bhi Hai Baba Bemar Bhi Hai.
-Khon Rota Hai Ridaon Ka Azadar Bhi Hai.
+۴
+نیلے رخسار میں ہاتھوں سے خود چھپاؤں گی
+اپنے چہرے کا مجھے نور دکھاؤ بابا
+قید سجاد بھی ہے بابا بیمار بھی ہے
+خون روتا ہے رداؤں کا عزادار بھی ہے
 
-5
-Mar Na Jaye Mere Bhai Ko Bachao Baba.
-Karbala Mein Kaha Sakina Baba Hain Kahan.
-Aaj Tak Gonjti Hai Najfi Woh Faryad Yahan.
-Mere Daman Mein Lagi Aag Bujhao Baba.
+۵
+مر نہ جائے میرے بھائی کو بچاؤ بابا
+کربلا میں کہا سکینہ بابا ہیں کہاں
+آج تک گونجتی ہے نجفی وہ فریاد یہاں
+میرے دامن میں لگی آگ بجھاؤ بابا

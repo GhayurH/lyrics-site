@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Ek aap ke dam se mere jine ka maza tha
-  Ab mujh se zamaane ne khushi chhin li baba
+  Ab mujhe zamaane ne khushi chhin li baba
 
   7
   Zainab yehi kehti thi Rashid ashk baha kar

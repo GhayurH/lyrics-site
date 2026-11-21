@@ -3,53 +3,97 @@ title: "زینبؑ سے پہلے زہراؑ دربار میں گئی"
 alternateTitle: "Zainab Se Pehle Zahra Darbar Mein Gayi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab se pehle Zahra darbaar main gayi
+  Ummat nay kahan laa kay kardha kardiya mujhay, beti Rasool ki
+
+  1
+  Hasnain Sharifain bhi rotay rahay kharay,
+  Darbar mein maa chunti rahi sanad ke tukray,
+  Sub log hans diye, Zahra ki ghasibon ne tazeem khoob ki
+
+  2
+  Haye baad Nabi Zahra ko ronay nahi dia,
+  Jaltay huey darwazay se pehlu kiya zakhmi,
+  Ummat nay kia kiya, kaisi Batool pey haye aayi hai bebasi
+
+  3
+  Yarana-e-Mohammad nay hai Zahra ko dukh dia,
+  Loota hai musalmanon nay haq Aal-e-Aba ka,
+  Yaad aayi Karbala, apnay pidr ko logon beti na ro saki
+
+  4
+  Jibreel jis bibi ke dar ka khayat hai,
+  Mazlooma-o-Mehrooma ke shohar ke haath mein
+  Sub kainaat hai, usnay sitam bhi jhelay, par baddua na di
+
+  5
+  Taraaj kitnay rozay keeyai zaalimeen nay
+  Bint-e-Ali kay rozay ko dhaanay kay waastay zaalim jama huay
+  Aal-e-Nabi pay hota hai zulm aaj bhi
+
+  6
+  Aati hain sadaaeyn ye Baqeeya ki simt say
+  Bas ye sawal mera musalmaan tujh say hai
+  Batla day tu mujhai
+  Zahra ki qabr pur kyun saaya nahien koi
+
+  7
+  Haey Maiyat-e-Zahra ko tha sab nay vida kiya
+  Maa aaounga mei milnay faqat daygi gar sada Shabeer ro diya
+  Band-e-Kafan jo toota qainaat ro pari
+
+  8
+  Jo bibi Mubahila mein gayi lauti shan se
+  Ghairon ne ossay beti kaha sar bhi tha dhanpa jageer bhi di thi
+  Ummat ne woh bhi Akhtar jageer loot li
 ---
-Zainab Se Pehle Zahra Darbaar Main Gayi
-Ummat Nay Kahan Laa Kay Kardha Kardiya Mujhay, Beti Rasool Ki
+زینب سے پہلے زہرا دربار میں گئی
+امت نے کہاں لا کے کھڑا کر دیا مجھے، بیٹی رسول کی
 
-1
-Hasnain Sharifain Bhi Rotay Rahay Kharay,
-Darbar Mein Maa Chunti Rahi Sanad Ke Tukray,
-Sub Log Hans Diye, Zahra Ki Ghasibon Ne Tazeem Khoob Ki.
+۱
+حسنین شریفین بھی روتے رہے کھڑے،
+دربار میں ماں چنتی رہی سند کے ٹکڑے،
+سب لوگ ہنس دیے، زہرا کی غاصبوں نے تعظیم خوب کی
 
-2
-Haye Baad Nabi Zahra Ko Ronay Nahi Dia,
-Jaltay Huey Darwazay Se Pehlu Kiya Zakhmi,
-Ummat Nay Kia Kiya, Kaisi Batool Pey Haye Aayi Hai Bebasi.
+۲
+ہائے بعدِ نبی زہرا کو رونے نہیں دیا،
+جلتے ہوئے دروازے سے پہلو کیا زخمی،
+امت نے کیا کیا، کیسی بتول پہ ہائے آئی ہے بے بسی
 
-3
-Yarana-e-Mohammad Nay Hai Zahra Ko Dukh Dia,
-Loota Hai Musalmanon Nay Haq Aal-e-Aba Ka,
-Yaad Aayi Karbala, Apnay Pidr Ko Logon Beti Na Ro Saki.
+۳
+یارانِ محمد نے ہے زہرا کو دکھ دیا،
+لوٹا ہے مسلمانوں نے حق آلِ عبا کا،
+یاد آئی کربلا، اپنے پدر کو لوگو بیٹی نہ رو سکی
 
-4
-Jibreel Jis Bibi Ke Dar Ka Khayat Hai,
-Mazlooma-o-Mehrooma Ke Shohar Ke Haath Mein
-Sub Kainaat Hai, Usnay Sitam Bhi Jhelay, Par Baddua Na Di.
+۴
+جبریل جس بی‌بی کے در کا خیاط ہے،
+مظلومہ و محرومہ کے شوہر کے ہاتھ میں
+سب کائنات ہے، اس نے ستم بھی جھیلے، پر بددعا نہ دی
 
-5
-Taraaj Kitnay Rozay Keeyai Zaalimeen Nay
-Bint-e-Ali Kay Rozay Ko Dhaanay Kay Waastay Zaalim Jama Huay
-Aal-e-Nabi Pay Hota Hai Zulm Aaj Bhi
+۵
+تاراج کتنے روضے کیے ظالمین نے
+بنتِ علی کے روضے کو ڈھانے کے واسطے ظالم جمع ہوئے
+آلِ نبی پہ ہوتا ہے ظلم آج بھی
 
-6
-Aati Hain Sadaaeyn Ye Baqeeya Ki Simt Say
-Bas Ye Sawal Mera Musalmaan Tujh Say Hai
-Batla Day Tu Mujhai
-Zahra Ki Qabr Pur Kyun Saaya Nahien Koi
+۶
+آتی ہیں صدائیں یہ بقیع کی سمت سے
+بس یہ سوال میرا مسلمان تجھ سے ہے
+بتلا دے تو مجھے
+زہرا کی قبر پر کیوں سایہ نہیں کوئی
 
-7
-Haey Maiyat-e-Zahra Ko Tha Sab Nay Vida Kiya
-Maa Aaounga Mei Milnay Faqat Daygi Gar Sada Shabeer Ro Diya
-Band-e-Kafan Jo Toota Qainaat Ro Pari
+۷
+ہائے میتِ زہرا کو تھا سب نے وداع کیا
+ماں آؤں گا میں ملنے فقط دے گی گر صدا شبیر رو دیا
+بندِ کفن جو ٹوٹا کائنات رو پڑی
 
-8
-Jo Bibi Mubahila Mein Gayi Lauti Shan Se
-Ghairon Ne Ossay Beti Kaha Sar Bhi Tha Dhanpa Jageer Bhi Di Thi
-Ummat Ne Woh Bhi Akhtar Jageer Loot Li
+۸
+جو بی‌بی مباہلہ میں گئی لوٹی شان سے
+غیروں نے اسے بیٹی کہا سر بھی تھا ڈھانپا جاگیر بھی دی تھی
+امت نے وہ بھی اختر جاگیر لوٹ لی

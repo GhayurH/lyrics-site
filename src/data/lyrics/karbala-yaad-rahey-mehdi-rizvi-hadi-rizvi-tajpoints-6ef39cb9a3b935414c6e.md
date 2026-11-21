@@ -1,38 +1,66 @@
 ---
-title: "Karbala Yaad Rahey Mehdi Rizvi Hadi Rizvi"
+title: "کربلا یاد رہے مہدی رضوی ہادی رضوی"
+alternateTitle: "Karbala Yaad Rahey Mehdi Rizvi Hadi Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aye azadar-e-Shah-e-Karb-o-Bala yaad rahe, Karbala yaad rahe
+  Fatima Zahra ne ki hai jo atta yaad rahe, Karbala yaad rahe
+
+  1
+  Taig uthai tu Aliun Wali Ullah parha, our phir sajdah kiya
+  Maqsad-e-sajda e Shabbir hai kiya yaad rahe, Karbala yaad rahe
+  Sunat-e-Zainab-e-Kubra hai aza-e-Sarwar, hai yeh wajib tum par
+  Aakhri sans talak Sheh ki azza yaad rahe, Karbala yaad rahe
+
+  2
+  Jab jawaan bhai ke sehrey ko sajao behno, noha Akbar ka parho
+  Iss se mil jati hai Sughra ki riza yaad rahe, Karbala yaad rahe
+  Parcham-e-Hazrat-e-Abbas uthane walo, khud pe tum naaz karo
+  Keh Ruqaiya tumhein deti hain dua yaad rahe, Karbala yaad rahe
+
+  3
+  Har ghali kochay mein ja kar tum azadari karo, iss ko tum zindah rakho
+  Sham tak di hai jo Zainab ne sada yaad rahe, Karbala yaad rahe
+  Betiyon walon jo beti ko kabhi pyar karo, pursa Shabbir ko do
+  Shah ki beti ka gham tum ko sada yaad rahe, Karbala yaad rahe
+
+  4
+  Mil gaya deen-e-Elahi ko jahan mein saya, zulm Zainab ne saha
+  Lut gayi sani-e-Zahra ki rida yaad rahe, Karbala yaad rahe
+  Haan azadari mein lazim hai khaloos-e-niyat, rakho yeh yaad faqat
+  Tum ko wirsay mein jo Qambar hai mila yaad rahe, Karbala yaad rahe
 ---
 
-Aye Azadar-e-Shah-e-Karb-o-Bala Yaad Rahe, Karbala Yaad Rahe.
-Fatima Zahra Ne Ki Hai Jo Atta Yaad Rahe, Karbala Yaad Rahe.
+اے عزادارِ شاہِ کرب و بلا یاد رہے، کربلا یاد رہے
+فاطمہ زہرا نے کی ہے جو عطا یاد رہے، کربلا یاد رہے
 
-1
-Taig Uthai Tu Aliun Wali Ullah Parha, Our Phir Sajdah Kiya.
-Maqsad-e-Sajda e Shabbir Hai Kiya Yaad Rahe, Karbala Yaad Rahe.
-Sunat-e-Zainab-e-Kubra Hai Aza-e-Sarwar, Hai Yeh Wajib Tum Par.
-Aakhri Sans Talak Sheh Ki Azza Yaad Rahe, Karbala Yaad Rahe.
+۱
+تیغ اٹھائی تو علیٌ ولی اللہ پڑھا، اور پھر سجدہ کیا
+مقصدِ سجدۂ شبیر ہے کیا یاد رہے، کربلا یاد رہے
+سنتِ زینبِ کبریٰ ہے عزائے سرور، ہے یہ واجب تم پر
+آخری سانس تلک شہ کی عزا یاد رہے، کربلا یاد رہے
 
-2
-Jab Jawaan Bhai Ke Sehrey Ko Sajao Behno, Noha Akbar Ka Parho.
-Iss Se Mil Jati Hai Sughra Ki Riza Yaad Rahe, Karbala Yaad Rahe.
-Parcham-e-Hazrat-e-Abbas Uthane Walo, Khud Pe Tum Naaz Karo.
-Keh Ruqaiya Tumhein Deti Hain Dua Yaad Rahe, Karbala Yaad Rahe.
+۲
+جب جوان بھائی کے سہرے کو سجاؤ بہنو، نوحہ اکبر کا پڑھو
+اس سے مل جاتی ہے صغریٰ کی رضا یاد رہے، کربلا یاد رہے
+پرچمِ حضرتِ عباس اٹھانے والو، خود پہ تم ناز کرو
+کہ رقیہ تمہیں دیتی ہیں دعا یاد رہے، کربلا یاد رہے
 
-3
-Har Ghali Kochay Mein Ja Kar Tum Azadari Karo, Iss Ko Tum Zindah Rakho.
-Sham Tak Di Hai Jo Zainab Ne Sada Yaad Rahe, Karbala Yaad Rahe.
-Betiyon Walon Jo Beti Ko Kabhi Pyar Karo, Pursa Shabbir Ko Do.
-Shah Ki Beti Ka Gham Tum Ko Sada Yaad Rahe, Karbala Yaad Rahe.
+۳
+ہر گلی کوچے میں جا کر تم عزاداری کرو، اس کو تم زندہ رکھو
+شام تک دی ہے جو زینب نے صدا یاد رہے، کربلا یاد رہے
+بیٹیوں والو جو بیٹی کو کبھی پیار کرو، پرسہ شبیر کو دو
+شاہ کی بیٹی کا غم تم کو سدا یاد رہے، کربلا یاد رہے
 
-4
-Mil Gaya Deen-e-Elahi Ko Jahan Mein Saya, Zulm Zainab Ne Saha.
-Lut Gayi Sani-e-Zahra Ki Rida Yaad Rahe, Karbala Yaad Rahe.
-Haan Azadari Mein Lazim Hai Khaloos-e-Niyat, Rakho Yeh Yaad Faqat.
-Tum Ko Wirsay Mein Jo Qambar Hai Mila Yaad Rahe, Karbala Yaad Rahe.
+۴
+مل گیا دینِ الٰہی کو جہاں میں سایہ، ظلم زینب نے سہا
+لٹ گئی ثانیِ زہرا کی ردا یاد رہے، کربلا یاد رہے
+ہاں عزاداری میں لازم ہے خلوصِ نیت، رکھو یہ یاد فقط
+تم کو ورثے میں جو قنبر ہے ملا یاد رہے، کربلا یاد رہے

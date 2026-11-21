@@ -1,6 +1,6 @@
 ---
 title: "قید خانے میں نہ مر جاۓ سکینہ بابا"
-alternateTitle: "Qaid Khane May"
+alternateTitle: "Qaid Khaane Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Qaid khane may na mar jaye sakina baba
+  Qaid khaane mein na mar jaaye Sakina baba
 
   1
-  Ab to aajao bulaati hai hazeena baba
+  Ab to aa jaao bulaati hai hazina baba
   Koi baaghi mujhe kehta hai to koi qaidi
   Aap ke baad hai jina koi jina baba
 
   2
-  Aap to jaante hai nind nahi aayegi
-  Na mil amujhko agar aap ka seena baba
+  Aap to jaante haiṅ nind nahiṅ aaye gi
+  Na mila mujhko agar aap ka sina baba
 
   3
-  Raah takti hoo mai ammu ki na laute ab tak
-  Un ko keh dijiye pani nahi pina baba
+  Raah takti huṅ main ammu ki na laute ab tak
+  Un ko keh dijiye paani nahiṅ pina baba
 
   4
   Kaisa barbaad hua dekho bhara ghar apna
-  Raas aaya na moharram ka maheena baba
+  Raas aaya na Muharram ka mahina baba
 
   5
-  Har ghari yaad sataati hai behan sughra ki
-  Jaane kab jaaungi mai apne madina baba
+  Har ghari yaad sataati hai behan Sughra ki
+  Jaane kab jaauṅ gi main apne Madina baba
 
   6
-  Ro ke kehti thi sakina sar e zindaṅ yasir
-  Aao ab le ke chalo mujhko madina baba
+  Ro ke kehti thi Sakina sar-e-zindaaṅ Yasir
+  Aao ab le ke chalo mujhko Madina baba
 ---
 
 قید خانے میں نہ مر جاۓ سکینہ بابا

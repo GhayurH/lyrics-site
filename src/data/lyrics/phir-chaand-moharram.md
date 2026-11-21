@@ -24,7 +24,7 @@ romanLyrics: |-
   Thanda alam-e-Ahmad-e-Mukhtaar hua hai
 
   3
-  Is chaand meiṅ Akbar ke lagi sine pe barchhi
+  Is chaand meiṅ Akbar ke lagi sine pe barchi
   Asghar hadaf-e-tir-e-sitamgaar hua hai
 
   4

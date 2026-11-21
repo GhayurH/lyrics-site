@@ -33,13 +33,13 @@ romanLyrics: |-
   3
   Saathi bas ek tanhaai hai
   Kis se kahe kya ban aayi hai
-  Viraaṅ makaaṅ aur tanha rehna
+  Wiraaṅ makaaṅ aur tanha rehna
   Kitna mushkil hai kitna mushkil hai
 
   4
-  Bhaai javaaṅ hamshakl-e-Payambar
+  Bhaai jawaaṅ hamshakl-e-Payambar
   Ghar ki raunaq aankh ki thandak
-  Ho wo vidaa aur jina behen ka
+  Ho wo widaa aur jina behen ka
   Kitna mushkil hai kitna mushkil hai
 
   5
@@ -55,14 +55,14 @@ romanLyrics: |-
   Kitna mushkil hai kitna mushkil hai
 
   7
-  Naamabar ki aas lagaye
+  Naamabar ki aas lagaaye
   Raste meiṅ hai aankheṅ bichhaaye
   Har din subh se shaam karna
   Kitna mushkil hai kitna mushkil hai
 
   8
   Kaisa bhara ghar ho gaya sunsaaṅ
-  Jaise bhari god ho jaaye viraaṅ
+  Jaise bhari god ho jaaye wiraaṅ
   Zehra Bibi ghar tera basna
   Kitna mushkil hai kitna mushkil hai
 

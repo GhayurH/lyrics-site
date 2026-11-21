@@ -12,7 +12,7 @@ tags: []
 aliases: ["Zainab Hoo Mai"]
 published: true
 romanLyrics: |-
-  Zainab ne khutba diya darbar hilne laga
+  Zainab ne khutba diya darbaar hilne laga
   Khutbaat ki tegh se ye keh ke hamla kiya
   Zainab huṅ maiṅ mera baaba Ali meri maaṅ Sayyeda
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   Kya mujhe qaid kar paayegi ye rasan
   Sher jaise baraadar ki huṅ maiṅ bahan
   Kaanp jaayeṅge lehje se kiuṅ ho daman
-  Waada wafa maiṅ karuṅgi yahaaṅ bhai Shabbir ka
+  Waada-e-wafa maiṅ karuṅgi yahaaṅ bhai Shabbir ka
 
   4
   Ibn-e-Marjaan jaisa najis aadmi
@@ -79,7 +79,7 @@ romanLyrics: |-
   Bint-e-Haider ka Safdar ye aelaan tha
   Apne bhai se maiṅ ne jo waada kiya
   Sun lo ahl-e-jafa sun lo ahl-e-jafa
-  Jaan de kar karuṅgi wo waada wafa
+  Jaan de kar karuṅgi woh waada-e-wafa
   Muztar huṅ maiṅ aur qaidi bhi huṅ phir bhi hai hausla
 ---
 زینب نے خطبہ دیا دربار ہلنے لگا

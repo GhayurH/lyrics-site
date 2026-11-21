@@ -1,0 +1,29 @@
+---
+title: "Ghazi Haye Saday Parday Na Ray Asghar Khan Lyrics Punjabi 2022"
+language: "Panjabi"
+lang: "pa"
+direction: "ltr"
+kalamType: "Other"
+poet: "Nadir"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Ghazi Haye Saday Parday Na Ray Asghar Khan.
+Mere Lut Le Khaimay Lokaan Ne Kis Veer Nu Bulawaan Sab Veer Tur Gaye.
+Leh Janiyaan Ne Sir Taun Hun Bibiyo Ridawaan.
+Jis Maan Te Zainab Ne San Pardais Aa Wasaye Oh Bazu Na Ray.
+
+2
+Darya De Pasay Tak Ke Teri Ladli Aye Kaindi.
+Tere Bajoon Shimar Kaminay Ne Mainu Tamachay Marey Te Dur V La Le.
+Veraan Di Maut Wekhi Hun Sham Ja Rayi Aan.
+Teri Maut De Paroon Veer Mera Ki Ki Na Bhain Nu Haye Dukh Sehney Ne Paye.
+
+3
+Aoulad-e-Mustafa Te Ghurbat De Waar Tak Le.
+Assi Pehli Wari Shair Bhira Tere Beghair Okhay Safraan Te Tur Paye.
+Jo Pekiyaan Si Rakhiya Oh Naam Bhul Gaye Ne.
+Sab Umm Al-Mosayab Aakhan Paye Zainab Nu Hun Nadir Koi Zainab Na Kahey.

@@ -1,17 +1,24 @@
 ---
-title: "Jay Kar Deen Ilm Wich Honda Sir Nezay Kyun Charde Hoo Lyrics In Punjabi 2017"
+title: "جے کر دین علم وچ ہوندا سر نیزے کیوں چڑھدے ہُو"
+alternateTitle: "Jay Kar Deen Ilm Wich Honda Sir Nezay Kyun Charde Hoo"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Bahoo"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Atharaan hazar jo aalam aaha agay Hussain day marday hoo
+  Jay Mula Haza Sarwar kar day taan khemay kyun sarday hoo
+  Jay kar manday bait Rasooli pani kyun band karday hoo
+  Sadiq deen tanhaan day Bahoo jo sir qurbaan karday hoo
 ---
 
-1
-Atharaan Hazar Jo Aalam Aaha Agay HUSSAIN Day Marday Hoo.
-Jay Mula Haza SARWAR Kar Day Taan Khemay Kyun Sarday Hoo.
-Jay Kar Manday Bait RASOOLI Pani Kyun Band Karday Hoo.
-Sadiq Deen Tanhaan Day Bahoo Jo Sir Qurbaan Karday Hoo.
+۱
+اٹھاراں ہزار جو عالم آہا اگے حسین دے مردے ہُو
+جے ملاحظہ سرور کر دے تاں خیمے کیوں سڑدے ہُو
+جے کر مندے بیعت رسولی پانی کیوں بند کردے ہُو
+صادق دین تنہاں دے باہو جو سر قربان کردے ہُو

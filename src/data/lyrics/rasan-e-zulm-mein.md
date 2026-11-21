@@ -20,7 +20,7 @@ romanLyrics: |-
   Jab sinaaṅ Akbar-e-Naashaad ne khaayi hogi
 
   2
-  Aag jab khaimoṅ meiṅ aada ne lagaayi hogi
+  Aag jab khaimoṅ meiṅ adaa ne lagaayi hogi
   Masnad-e-Ahmad-e-Mursal bhi jalaayi hogi
 
   3

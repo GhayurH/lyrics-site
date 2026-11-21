@@ -1,41 +1,72 @@
 ---
-title: "Qaid Khane Se Sakina Ko Chorao Baba"
+title: "قید خانے سے سکینہ کو چھڑاؤ بابا"
+alternateTitle: "Qaid Khane Se Sakina Ko Chorao Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaid khane se Sakina ko chorao baba Asghar Khan
+  Mujh ko jeene ki aziyat se bachao baba
+  Meri kya tauqeer hai koi samjhta hi nahi
+  Aate jate bass tamache marte hain sab laeen
+
+  2
+  Fatima ki poti hoon inn ko batao baba
+  Pochti hoon aap se mushkil yeh hal kijiye meri
+  Main ne pocha tha phophi se bhi magar woh chup rahi
+  Mujh ko matlab tu kaneezi ka batao baba
+
+  3
+  Dhoondti phirti thi ran mein ho na paya samna
+  Meri janib se chacha ke dono bazu choomna
+  Laut ke Karb-o-Bala tum jab bhi jao baba
+  Dard main mehsos kar sakti hoon baba aap ke
+
+  4
+  Chain milta hai magar jab aap takte ho mujhe
+  Neele chehre se nigahein na hatao baba
+  Tab samajh ayi mujhe kya azeeyat teer ki
+  Meri gardan mein rasan bandhi gayi thi jis ghari
+
+  5
+  Kya Ali Asghar ki halat hai batao baba
+  Aakhri ilfaz yeh Saqlain bibi ne kahe
+  Jis tarha dam toorti maa ko lagaya tha gale
+  Mujh ko bhi ik baar seene se lagao baba
 ---
 
-1
-Qaid Khane Se Sakina Ko Chorao Baba Asghar Khan.
-Mujh Ko Jeene Ki Aziyat Se Bachao Baba.
-Meri Kya Tauqeer Hai Koi Samjhta Hi Nahi.
-Aate Jate Bass Tamache Marte Hain Sab Laeen.
+۱
+قید خانے سے سکینہ کو چھڑاؤ بابا اصغر خان
+مجھ کو جینے کی اذیت سے بچاؤ بابا
+میری کیا توقیر ہے کوئی سمجھتا ہی نہیں
+آتے جاتے بس طمانچے مارتے ہیں سب لعین
 
-2
-Fatima Ki Poti Hoon Inn Ko Batao Baba.
-Pochti Hoon Aap Se Mushkil Yeh Hal Kijiye Meri.
-Main Ne Pocha Tha Phophi Se Bhi Magar Woh Chup Rahi.
-Mujh Ko Matlab Tu Kaneezi Ka Batao Baba.
+۲
+فاطمہ کی پوتی ہوں ان کو بتاؤ بابا
+پوچھتی ہوں آپ سے مشکل یہ حل کیجیے میری
+میں نے پوچھا تھا پھوپھی سے بھی مگر وہ چپ رہی
+مجھ کو مطلب تو کنیزی کا بتاؤ بابا
 
-3
-Dhoondti Phirti Thi Ran Mein Ho Na Paya Samna.
-Meri Janib Se Chacha Ke Dono Bazu Choomna.
-Laut Ke Karb-o-Bala Tum Jab Bhi Jao Baba.
-Dard Main Mehsos Kar Sakti Hoon Baba Aap Ke.
+۳
+ڈھونڈتی پھرتی تھی رن میں ہو نہ پایا سامنا
+میری جانب سے چچا کے دونوں بازو چومنا
+لوٹ کے کرب و بلا تم جب بھی جاؤ بابا
+درد میں محسوس کر سکتی ہوں بابا آپ کے
 
-4
-Chain Milta Hai Magar Jab Aap Takte Ho Mujhe.
-Neele Chehre Se Nigahein Na Hatao Baba.
-Tab Samajh Ayi Mujhe Kya Azeeyat Teer Ki.
-Meri Gardan Mein Rasan Bandhi Gayi Thi Jis Ghari.
+۴
+چین ملتا ہے مگر جب آپ تکتے ہو مجھے
+نیلے چہرے سے نگاہیں نہ ہٹاؤ بابا
+تب سمجھ آئی مجھے کیا اذیت تیر کی
+میری گردن میں رسن بندھی گئی تھی جس گھڑی
 
-5
-Kya Ali Asghar Ki Halat Hai Batao Baba.
-Aakhri Ilfaz Yeh Saqlain Bibi Ne Kahe.
-Jis Tarha Dam Toorti Maa Ko Lagaya Tha Gale.
-Mujh Ko Bhi Ik Baar Seene Se Lagao Baba.
+۵
+کیا علی اصغر کی حالت ہے بتاؤ بابا
+آخری الفاظ یہ ثقلین بی‌بی نے کہے
+جس طرح دم توڑتی ماں کو لگایا تھا گلے
+مجھ کو بھی اک بار سینے سے لگاؤ بابا

@@ -37,19 +37,19 @@ romanLyrics: |-
   Ae dilbaraan-e-Jafar Tayyaar
   Alwida alwida alwida alwida
 
-  Shimr o Umar ke sar jo utaaro to khush huṅ maiṅ
-  Dushman ko jhum jhum ke maaro to khush huṅ maiṅ
+  Shimr o Umar ke sar jo utaaro to khush huṅ main
+  Dushman ko jhum jhum ke maaro to khush huṅ main
 
   Ae dilbaraan-e-Jafar Tayyaar
   Alwida alwida alwida alwida
 
   Bhaai ki taraf dekh ke dam bhaai ne tora
   Qabza na magar haath se shamshir ka chhora
-  Kya khub hai andaaz maiṅ qurbaan huṅ tum par
+  Kya khub hai andaaz main qurbaan huṅ tum par
 
   5
   Ab dil meiṅ ye khwaahish hai jo ghar laut ke jaauṅ
-  Paani maiṅ sada naam pe donoṅ ke pilaauṅ
+  Paani main sada naam pe donoṅ ke pilaauṅ
   Pyaase jo palat aae ho tum nahr pe jaa kar
 
   6
@@ -62,13 +62,13 @@ romanLyrics: |-
   Ae dilbaraan-e-Jafar Tayyaar
   Alwida alwida alwida alwida
 
-  Khun bahta raha muṅh se shikaayat nahiṅ nikli
+  Khun bahta raha munh se shikaayat nahiṅ nikli
   Baazu pe chali tegh jigar par lagi barchhi
   Ro ro ke dua dete hai khud Hamza o Jafar
 
   7
   Mamta ne Takallum rakha jazbaat pe qaabu
-  Bhaai ke liye rakh liye Bibi ne sab aaṅsu
+  Bhaai ke liye rakh liye Bibi ne sab aansu
   Sar chum ke bachchoṅ ke ye kahti rahi muztar
 
   8

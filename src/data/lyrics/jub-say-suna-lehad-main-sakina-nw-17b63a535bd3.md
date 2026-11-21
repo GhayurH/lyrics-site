@@ -1,36 +1,57 @@
 ---
-title: "Jub Say Suna Lehad Main Sakina"
+title: "جب سے سنا لحد میں سکینہ"
+alternateTitle: "Jub Say Suna Lehad Main Sakina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jub say suna lehad main Sakina udas hai
+  Mazloom e Karbala ka gharana udas hai
+
+  1
+  Zindaan main ro rahi hai Sakina Hussain ko
+  Kuch is liye Hussain ka kunba udas hai
+
+  2
+  Qaid e sitam main baali Sakina ko chor ker
+  Sajjad ab zameen pay baitha udas hai
+
+  3
+  Baba ko yad kerti wo zindan main mar gae
+  Sub ker lehad main baat yeh Zahra udas hai
+
+  4
+  Jis nay sunni hain baali Sakina ki siskiyan
+  Zindan e sham ka wo andhera udas hai
+
+  5
+  Noha Amar Sakina ka likhtay raho Sada
+  Sultan e Ambia ka nawasa udas hai
 ---
 
-Jub say suna lehad main Sakina udas hai..
-Sani)
-Mazloom e Karbala ka gharana udas hai..
+جب سے سنا لحد میں سکینہ اداس ہے
+مظلومِ کربلا کا گھرانا اداس ہے
 
-Antra)
-Zindaan main ro rahi hai Sakina Hussain ko
-Kuch is liye Hussain ka kunba udas hai ..
+۱
+زندان میں رو رہی ہے سکینہ حسین کو
+کچھ اس لیے حسین کا کنبہ اداس ہے
 
-Antra)
-Qaid e sitam main baali Sakina ko chor ker
-Sajjad ab zameen pay baitha udas hai ..
+۲
+قیدِ ستم میں بالی سکینہ کو چھوڑ کر
+سجاد اب زمین پہ بیٹھا اداس ہے
 
-Antra)
-Baba ko yad kerti wo zindan main mar gae
-Sub ker lehad main baat yeh Zahra udas hai..
+۳
+بابا کو یاد کرتی وہ زندان میں مر گئی
+سن کر لحد میں بات یہ زہرا اداس ہے
 
-Antra)
-Jis nay sunni hain baali Sakina ki siskiyan
-Zindan e sham ka wo andhera udas hai ..
+۴
+جس نے سنی ہیں بالی سکینہ کی سسکیاں
+زندانِ شام کا وہ اندھیرا اداس ہے
 
-Antra)
-Noha Amar Sakina ka likhtay raho Sada
-Sultan e Ambia ka nawasa udas hai ..
-
-Shared via Nohay Writeups for iOS
+۵
+نوحہ امر سکینہ کا لکھتے رہو سدا
+سلطانِ انبیا کا نواسہ اداس ہے

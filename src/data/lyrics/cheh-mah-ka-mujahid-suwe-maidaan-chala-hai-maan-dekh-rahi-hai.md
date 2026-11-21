@@ -12,48 +12,48 @@ aliases:
   - "Maan Dekh Rahi Hai"
 published: true
 romanLyrics: |-
-  Cheh mah ka mujahid, suwe maidaan chala hai, Maaṅ dekh rahi hai
-  Chehra bara nazuk hai, bari garm hawa hai, Maaṅ dekh rahi hai
+  Chhe mah ka mujahid, suwe maidaan chala hai, Maaṅ dekh rahi hai
+  Chehra bara naazuk hai, bari garm hawa hai, Maaṅ dekh rahi hai
 
   1
-  Zalim tujhe is baat, ka ehsaas nahi hai
-  Cheh mah ka bacha hai, ye Abbas nahi hai
-  Kamsin ali asghar se tera tir bara hai
-  Maaṅ dekh tahi hai
+  Zaalim tujhe is baat ka, ehsaas nahiṅ hai
+  Chhe mah ka bachcha hai, ye Abbas nahiṅ hai
+  Kam sin Ali Asghar se, tera tir bara hai
+  Maaṅ dekh rahi hai
 
   2
-  Ae behn tere samne baba ke haiṅ haalaat
-  Ab sham-e-gharibaṅ ko hi hoti hai mulaaqaat
-  Mur mur ke Sakina ki taraf dekh raha hai
+  Ae behen tere saamne baba, ke haiṅ haalaat
+  Ab shaam-e-gharibaaṅ ko, hi hoti hai mulaaqaat
+  Mur mur ke Sakina, ki taraf dekh raha hai
   Maaṅ dekh rahi hai
 
   3
-  Hurmal ne kamaaṅ khenchi toh larzi ye zamiṅ hai
-  Hai saamne bhayya, tabhi ye usko yaqin hai
+  Hurmal ne kamaaṅ khenchi to larzi ye zamiṅ hai
+  Hai saamne bhayya, tabhi ye us ko yaqin hai
   Parda bari bechaini se khaime ka hata hai
   Maaṅ dekh rahi hai
 
   4
-  Allah mere Allah ye duhaai hai duhaai
-  Ummat ne Sayyada ki yuṅ luti hai kamai
-  Aik behen ne bhai ka lahu muh pe mala hai
+  Allah mere Allah, ye dhaai hai dhaai
+  Ummat ne Sayyada ki, yuṅ luti hai kamaai
+  Ek behen ne bhai, ka lahu munh pe mala hai
   Maaṅ dekh rahi hai
 
   5
-  Socha tha ke ji legi wo yaadoṅ ke sahare
-  Ummat ne jala daale hai armaan hi saare
-  Asghar tera jhula tmra kurta bhi jala hai
+  Socha tha ke ji le gi wo yaadoṅ ke sahaare
+  Ummat ne jala daale haiṅ armaan hi saare
+  Asghar tera jhula mera kurta bhi jala hai
   Maaṅ dekh rahi hai
 
   6
-  Haiṅ Hajra Yaqub Baraahim ke hamsar
-  Sar chand se bete ka charha nok-e-sinaṅ par
-  Paband-e-rasan phul si beti ka gala hai
+  Haiṅ Haajra Yaqub Baraahim ke hamsar
+  Sar chaand se bete ka, charha nok-e-sinaaṅ par
+  Paaband-e-rasan phul si beti ka gala hai
   Maaṅ dekh rahi hai
 
   7
-  Imran mujhe quwat-e-tehrir nahi hai
-  Kaise maiṅ likhu tir ke ye tir nahi hai
+  Imran mujhe quwwat-e-tehrir nahiṅ hai
+  Kaise maiṅ likhuṅ tir ke ye tir nahiṅ hai
   Asghar ki taraf chal pari tezi se qaza hai
   Maaṅ dekh rahi hai
 ---

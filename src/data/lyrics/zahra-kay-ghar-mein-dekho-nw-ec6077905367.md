@@ -1,38 +1,57 @@
 ---
-title: "Zahra Kay Ghar Mein Dekho"
+title: "زہرا کے گھر میں دیکھو"
+alternateTitle: "Zahra Kay Ghar Mein Dekho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra kay ghar mein dekho manzar hai Kerbala ka
+  Kufa say uth raha hay taboot Murtaza ka
+
+  1
+  Kufa pay chaa gaee hain haey zulm ki ghataeyn
+  Baqiya say arahi hain ronay ki phir sadaeyn
+  Hilnay laga hai roza Sultan-e-Ambiya ka
+
+  2
+  Roya tha falak us par roti rahi Khudaai
+  Moula nay jub wasiyat Abbas ko sunaee
+  Ghazi hai tu muhafiz Zainab ki ub rida ka
+
+  3
+  Moula kay janazay ko Hasnain nay uthaya
+  Zainab ki sadaaon nai Kufay ko haey hilaya
+  Logo hai yeh janaza damaad-e-Mustafa ka
+
+  4
+  Badlay hain kis tarha say andaaz Musalman nay
+  Zalim hai Kufi Shaami daikha hai is jahan nay
+  Masjid mei khoon bahaya Ummath kay payshwa ka
 ---
 
-Zahra Kay Ghar Mein Dekho Manzar Hai Kerbala Ka
+زہرا کے گھر میں دیکھو منظر ہے کربلا کا
+کوفہ سے اٹھ رہا ہے تابوتِ مرتضیٰ کا
 
-Kufa Say Uth Raha Hay Taboot Murtaza Ka
+۱
+کوفہ پہ چھا گئی ہیں ہائے ظلم کی گھٹائیں
+بقیع سے آ رہی ہیں رونے کی پھر صدائیں
+ہلنے لگا ہے روضہ سلطانِ انبیا کا
 
-Kufa Pay Chaa Gaee Hain Haey Zulm Ki Ghataeyn
+۲
+رویا تھا فلک اس پر روتی رہی خدائی
+مولا نے جب وصیت عباس کو سنائی
+غازی ہے تو محافظ زینب کی اب ردا کا
 
-Baqiya Say Arahi Hain Ronay Ki Phir Sadaeyn
+۳
+مولا کے جنازے کو حسنین نے اٹھایا
+زینب کی صداؤں نے کوفے کو ہائے ہلایا
+لوگو ہے یہ جنازہ دامادِ مصطفیٰ کا
 
-Hilnay Laga Hai Roza Sultan-e-Ambiya Ka
-
-Roya Tha Falak Us Par Roti Rahi Khudaai
-
-Moula Nay Jub Wasiyat Abbas Ko Sunaee
-
-Ghazi Hai Tu Muhafiz Zainab Ki Ub Rida Ka
-
-Moula Kay Janazay Ko Hasnain Nay Uthaya
-
-Zainab Ki Sadaaon Nai Kufay Ko Haey Hilaya
-
-Logo Hai Yeh Janaza Damaad-e-Mustafa Ka
-
-Badlay Hain Kis Tarha Say Andaaz Musalman Nay
-
-Zalim Hai Kufi Shaami Daikha Hai Is Jahan Nay
-
-Masjid Mei Khoon Bahaya Ummath Kay Payshwa Ka
+۴
+بدلے ہیں کس طرح سے انداز مسلمان نے
+ظالم ہے کوفی شامی دیکھا ہے اس جہاں نے
+مسجد میں خون بہایا امت کے پیشوا کا

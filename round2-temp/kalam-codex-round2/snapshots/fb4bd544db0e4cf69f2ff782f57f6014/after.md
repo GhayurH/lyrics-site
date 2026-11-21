@@ -1,0 +1,72 @@
+---
+title: "عون دی ماں آئے عون نوں رو سمجھاوے"
+alternateTitle: "Aoun Di Maa Aye Aoun Nu Ro Samjhaway"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
+kalamType: "Other"
+poet: "Akbar"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Aoun di maa aye Aoun nu ro samjhaway
+  Tere jeenday jee Shabir mera Akbar di lash na chaway
+  Zakhma wich choor v ho ke tu Shabir nu waaj na marein
+  Jitna v mumkin howay bas maqtal wich waqat guzarein
+
+  2
+  Aynj veer di pak ziyarat da menu hoor waqat mil jaway
+  Tere akhri sa wich maa Zahra ne lash teri te aana aye
+  Tu bose de ke qadma te sir khud jholi wich pana aye
+  Tenu chawan layi meri zakhmi maa pase tu hath na chaway
+
+  3
+  Tu takiya aye main bachpan tu aonu keeta kitna pyar aye
+  Meri jholi wango Akbar e mere hanjwaan da haqdar aye
+  Na amri te naraz howein jay lash te wain na paway
+  Jay chana aye maa razi re te rakhein paas adab da
+
+  4
+  Jadoon lash teri te maqtal wich away sardar Arab da
+  Aye wajab aye tazeem layi khud lash teri uth jaway
+  Do putar te sir di chadar aye teri maa da kul sarmaya
+  Ayna tu wadh ke qeemti aye meri maa Zahra da jaya
+
+  5
+  Bas Zainab nu aye fikraan ne kiwein veer Hussain bachaway
+  Tusi Hashmi oh aye yaad raway rayi Akbar ro farmandi
+  Medaan wich hoslay larday ne talwar nayi wekhi jandi
+  Ik Haider de ik Jafar de rang wich talwar chalaway
+---
+
+۱
+عون دی ماں آئے عون نوں رو سمجھاوے
+تیرے جیندے جی شبیر میرا اکبر دی لاش نہ چاوے
+زخماں وچ چور وی ہو کے تُو شبیر نوں واج نہ ماریں
+جتنا وی ممکن ہووے بس مقتل وچ وقت گزاریں
+
+۲
+اینج ویر دی پاک زیارت دا مینوں ہور وقت مل جاوے
+تیرے آخری ساہ وچ ماں زہرا نے لاش تیری تے آنا اے
+تُو بوسے دے کے قدماں تے سر خود جھولی وچ پانا اے
+تینوں چاون لئی میری زخمی ماں پاسے تُو ہتھ نہ چاویں
+
+۳
+تُو تکیا اے میں بچپن توں اونوں کیتا کتنا پیار اے
+میری جھولی وانگوں اکبر اے میرے ہنجواں دا حقدار اے
+نہ امڑی تے ناراض ہوویں جے لاش تے وین نہ پاوے
+جے چاہنا اے ماں راضی رہے تے رکھیں پاس ادب دا
+
+۴
+جدوں لاش تیری تے مقتل وچ آوے سردار عرب دا
+ایہہ واجب اے تعظیم لئی خود لاش تیری اٹھ جاوے
+دو پتر تے سر دی چادر اے تیری ماں دا کل سرمایہ
+ایناں توں ودھ کے قیمتی اے میری ماں زہرا دا جایا
+
+۵
+بس زینب نوں ایہہ فکراں نے کیویں ویر حسین بچاوے
+تسی ہاشمی او ایہہ یاد روے رہی اکبر رو فرماندی
+میدان وچ حوصلے لڑدے نے تلوار نئیں ویکھی جاندی
+اک حیدر دے اک جعفر دے رنگ وچ تلوار چلاوے

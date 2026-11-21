@@ -18,10 +18,10 @@ romanLyrics: |-
   Dalil-e-Kibriya Husain hai
 
   2
-  Ae khwaahisho Ae hasrato mere gale nahiṅ paro
-  Maiṅ huṅ faqir-e-Karbala so mere dil se dur ho
+  Ae khwaahisho ae hasrato mere gale nahiṅ paro
+  Main huṅ faqir-e-Karbala so mere dil se dur ho
   Nahiṅ nahiṅ zara nahiṅ tumhaari to jagah nahiṅ
-  Ke dil meiṅ bas raha Husain hai
+  Ke dil mein bas raha Husain hai
 
   3
   Pukaari Bint-e-Fatima yeh haṅs rahe haiṅ ashqiya
@@ -30,7 +30,7 @@ romanLyrics: |-
   Yeh Murtaza hai ya Husain hai
 
   4
-  Pisar ko le ke god meiṅ ajib baat Shah ne ki
+  Pisar ko le ke god mein ajib baat Shah ne ki
   Nahiṅ hai qaid umr ki Ali to hota hai Ali
   Hai chhe mahine ka to kya tumheṅ Rabaab kya pata
   Tumhaara laadla Husain hai
@@ -43,26 +43,26 @@ romanLyrics: |-
 
   6
   Mere maraz ko dekh kar tabib ne dawa likhi
-  To maiṅ ne muskura ke us se itni baat yeh kahi
-  Lahu maiṅ jab bahaauṅ ga to thik hota jaauṅ ga
+  To main ne muskura ke us se itni baat yeh kahi
+  Lahu mein jab bahaauṅ ga to thik hota jaauṅ ga
   Meri dawa to Ya Husain hai
 
   7
-  Andhere meiṅ Habib ne sahaabiyoṅ se yeh kaha
+  Andhere mein Habib ne sahaabiyoṅ se yeh kaha
   Karo woh kaam dosto ke daad de hameṅ wafa
   Galoṅ pe tegh ko rakho qarib ho qarib ho
   Diya jala raha Husain hai
 
   8
-  Jo bete saat mil gaye to bola raahib Ae Nabi
-  Pisar nahiṅ nasib meiṅ kaha tha aap ne abhi
+  Jo bete saat mil gaye to bola raahib ae Nabi
+  Pisar nahiṅ nasib mein kaha tha aap ne abhi
   Yeh sun ke haṅs diye Nabi pukaare jhum kar Ali
   Bataauṅ kaise kya Husain hai
 
   9
-  Lahad meiṅ Munkir o Nakir meri aaye the magar
-  Maiṅ maatami tha Shaah ka to bole haath jor kar
-  Chalo Ae Mir Ji chalo bas ab se Karbala raho
+  Lahad mein Munkir o Nakir meri aaye the magar
+  Main maatami tha Shaah ka to bole haath jor kar
+  Chalo ae Mir ji chalo bas ab se Karbala raho
   Tumheṅ bula raha Husain hai
 ---
 

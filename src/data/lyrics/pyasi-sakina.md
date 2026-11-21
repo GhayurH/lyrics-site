@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qaid khane meiṅ ye ek roz sakina ne kaha
-  Manzileiṅ pyaas ki kitni hai batao bhaiya
-  Haye abid ne kaha sunke sakina ki sada
-  Pyaas ki char manazil hai ae pyasi behna
-  Ye boli sakina sunao na bhai
-  Hai kya pyaas mujhko batao na bhai
-  Haye sakina pyasi sakina
-  Kaha roke abid ne ae pyasi behna
+  Qaid khaane meiṅ ye ek roz Sakina ne kaha
+  Manzileiṅ pyaas ki kitni hai bataao bhaiya
+  Haaye Aabid ne kaha sun ke Sakina ki sada
+  Pyaas ki chaar manaazil hai ae pyaasi behna
+  Ye boli Sakina sunaao na bhai
+  Hai kya pyaas mujh ko bataao na bhai
+  Haaye Sakina pyaasi Sakina
+  Kaha ro ke Aabid ne ae pyaasi behna
   Nazar aaye jis dam dhuaaṅ hi dhuaaṅ sa
-  Hai ye pyaas ki pehli manzil sakina
-  Haye
-  Ye sun kar sakina pukari tarap ke
-  Suna tha ye qasim ke sukhe laboṅ se
-  Chacha jaan mai itna pyasa huṅ ke ab
-  Dhuaaṅ chaa raha hai nigahoṅ ke aage
-  Jo us waqt qasim pe mushkil thi bhaiya
+  Hai ye pyaas ki pehli manzil Sakina
+  Haaye
+  Ye sun kar Sakina pukaari tarap ke
+  Suna tha ye Qaasim ke sukhe laboṅ se
+  Chacha jaan main itna pyaasa huṅ ke ab
+  Dhuaaṅ chhaa raha hai nigaahoṅ ke aage
+  Jo us waqt Qaasim pe mushkil thi bhaiya
   Wohi pyaas ki pehli manzil thi bhaiya
-  Haye sakina pyasi sakina...
+  Haaye Sakina pyaasi Sakina...
   Ho jab tishnagi se ye haalat badan ki
-  Chipak jaye taalu se sukhi zubaṅ bhi
-  Hai ye dusri manzil e pyaas bibi
-  Haye
-  Ye manzil bhi dekhi hai baba pe maiṅ ne
-  Kaha pyase akbar ne jab ran se aake
-  Zubaṅ rakh ke baba ke sukhe dahan meiṅ
-  Mere bhaiya akbar tarap kar pukare
-  Zubaṅ khushk hai ab dahan meiṅ hai kaante
-  Mere baba mujhse zyada hai pyase
-  Haye sakina pyasi sakina...
-  Kabhi pyasi macchli ki haalat suni hai
-  Wo jab baar baar apna moo kholti hai
-  Yehi tisri manzil e tishnagi hai
-  Haye
-  Ye sunte hi abid se boli sakina
-  Yehi haal tha mere asghar ka bhaiya
-  Litaaya tha baba ne jalti zamiṅ par
-  Tarapte huwe jab wo saakit hua tha
-  Kabhi kholta tha wo pyase laboṅ ko
-  Kabhi band karta tha sukhe labon ko
-  Haye sakina pyasi sakina...
-  Kaha phir ye sajjad ne shaahzadi
+  Chipak jaaye taalu se sukhi zubaaṅ bhi
+  Hai ye dusri manzil-e-pyaas Bibi
+  Haaye
+  Ye manzil bhi dekhi hai Baba pe main ne
+  Kaha pyaase Akbar ne jab ran se aa ke
+  Zubaaṅ rakh ke Baba ke sukhe dahan meiṅ
+  Mere bhaiya Akbar tarap kar pukaare
+  Zubaaṅ khushk hai ab dahan meiṅ hai kaaṅte
+  Mere Baba mujh se zyaada hai pyaase
+  Haaye Sakina pyaasi Sakina...
+  Kabhi pyaas machhli ki haalat suni hai
+  Wo jab baar apna apna muṅh kholti hai
+  Yehi tisri manzil-e-tishnagi hai
+  Haaye
+  Ye sunte hi Aabid se boli Sakina
+  Yehi haal tha mere Asghar ka bhaiya
+  Litaaya tha Baba ne jalti zamiṅ par
+  Tarapte hue jab wo saakit hua tha
+  Kabhi kholta tha wo pyaase laboṅ ko
+  Kabhi band karta tha sukhe laboṅ ko
+  Haaye Sakina pyaasi Sakina...
+  Kaha phir ye Sajjad ne shaahzaadi
   Na baaqi rahe jab badan meiṅ nami bhi
-  Hai ye aakhri manzil e pyaas bibi
-  Haye haye
-  Hai is manzil e pyaas par ye behen bhi
-  Nami se mehrum mera badan bhi
-  Mere haath ab mere bas meiṅ nahi hai
+  Hai ye aakhri manzil-e-pyaas Bibi
+  Haaye
+  Hai is manzil-e-pyaas par ye behen bhi
+  Nami se hai mahrum mera badan bhi
+  Mere haath ab mere bas meiṅ nahiṅ hai
   Hai paiwast mere gale meiṅ rasan bhi
-  Ae bhai zyada na ji paaungi ab
-  Mai baba se milne chali jaungi ab
-  Haye sakina pyasi sakina...
-  Jo sajjad se pyaas ka puchti thi
-  Wo raat aagayi chal basi jab wo pyasi
-  Hilaata raha uske shaano ko abid
-  Magar bhai se wo sakina na uthi
-  Lipat kar wo soyi hai baba ke sar se
-  Bahot thak chuki pyaas ke is safar se
-  Haye sakina pyasi sakina...
-  Sunauṅ mai zishan manzar wo kaise
-  Rasan bhi na khul paayi haathoṅ se uske
-  Lehad meiṅ sakina ke laashe ko rakh ke
-  Kaha roke abid ne baba ke sar se
-  Ae mazlum beti ke mazlum baba
-  Tumhare hawale tumhari sakina
-  Haye sakina pyasi sakina...
+  Ae bhai zyaada na ji paauṅ gi ab
+  Main Baba se milne chali jaauṅ ab
+  Haaye Sakina pyaasi Sakina...
+  Jo Sajjad se pyaas ka puchhti thi
+  Wo raat aa gai chal basi jab wo pyaasi
+  Hilaate raha us ke shaanoṅ ko Aabid
+  Magar bhai se wo Sakina na uthi
+  Lipat kar wo soi hai Baba ke sar se
+  Bahut thak chuki pyaas ke is safar se
+  Haaye Sakina pyaasi Sakina...
+  Sunaauṅ main Zishan manzar wo kaise
+  Rasan bhi na khul paai haathoṅ se us ke
+  Lahad meiṅ Sakina ke laashe ko rakh ke
+  Kaha ro ke Aabid ne Baba ke sar se
+  Ae mazlum beti ke mazlum Baba
+  Tumhaare hawaale tumhaari Sakina
+  Haaye Sakina pyaasi Sakina...
 ---
 
 ۱

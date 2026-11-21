@@ -10,40 +10,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jo bhi masruf-e-salam-e-shuhada rehta hai
-  Go woh rehta nahi par naam sada rehta hai
+  Jo bhi masruf-e-salaam-e-shuhadaa rehta hai
+  Go woh rehta nahiṅ par naam sadaa rehta hai
 
   1
-  Ae falak baad-e-fana kate gaye dast-e-Husain
+  Ae falak baad-e-fanaa kaate gaye dast-e-Husain
   Ik na ik zulm tere ghar meiṅ naya rehta hai
 
   2
-  Shimr kehta tha yehi maa hai Ali Akbar ki
-  Jis ka ik hath kaleje pe dhara rehta hai
+  Shimr kehta thaa yehi maaṅ hai Ali Akbar ki
+  Jis ka ik haath kaleje pe dharaa rehta hai
 
   3
-  Hai yeh sharmindagi pani ke na pohchane ki
-  Naize pe bhi sar-e-Abbas jhuka rehta haiṅ
+  Hai yeh sharmindagi paani ke na pahchaane ki
+  Naize pe bhi sar-e-Abbaas jhukaa rehta haiṅ
 
   4
-  Shaam hoti hai to unthoṅ se utarte haiṅ haram
-  Par sar-e-Shah to naize pe charrha rehta hai
+  Shaam hoti hai to untoṅ se utarte haiṅ haraam
+  Par sar-e-Shaah to naize pe charhaa rehta hai
 
   5
-  Aan ke Hind ki beti ne Sakina se kaha
-  Sar tera kis liye har waqt khula rehta hai
+  Aan ke Hind ki beti ne Sakina se kahaa
+  Sar teraa kis liye har waqt khulaa rehta hai
 
   6
-  Woh lagi kehne ke yateemo ki nishani hai yehi
-  Kurta bewarsi bachoṅ ka phata rehta hai
+  Woh lagi kehne ke yatimoṅ ki nishaani hai yehi
+  Kurtaa bewaarsi bachchoṅ ka phataa rehta hai
 
   7
-  Baap mara gaya bhai moye zindaṅ meiṅ phansi
-  Is musibat meiṅ bhala hosh baja rehta hai
+  Baap maaraa gayaa bhaai moye zindaaṅ meiṅ phansi
+  Is musibat meiṅ bhalaa hosh bajaa rehta hai
 
   8
-  Tawaf-e-Kaaba ka tujhe shauq hai az bas ke Dabir
-  Muztarib dil sifat-e-qibla numa rehta hai
+  Tawaaf-e-Kaaba ka tujhe shauq hai az bas ke Dabir
+  Muztarib dil sifat-e-qibla numaa rehta hai
 ---
 
 جو بھی مصروفِ سلامِ شہدا رہتا ہے

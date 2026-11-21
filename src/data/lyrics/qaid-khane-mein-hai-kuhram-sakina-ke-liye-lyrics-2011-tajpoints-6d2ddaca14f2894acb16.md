@@ -1,29 +1,48 @@
 ---
-title: "Qaid Khane Mein Hai Kuhram Sakina Ke Liye Lyrics 2011"
+title: "قید خانے میں ہے کہرام سکینہ کے لیے"
+alternateTitle: "Qaid Khane Mein Hai Kuhram Sakina Ke Liye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaid khane mein hai kuhram Sakina ke liye
+  Sham mein ho hi gayi sham Sakina ke liye
+  Aik gumnam se goshay mein bani hai turbat
+  Kis qadar tang howa Sham Sakina ke liye
+
+  2
+  Likhti rehti hai dewaron pe Baba Baba
+  Reh gaya aik yehi kam Sakina ke liye
+  Pyas lagte hi tamachon ne sakhawat ki hai
+  Taziyano ne bhare jaam Sakina ke liye
+
+  3
+  Choti qaidi koi kehta hai koi baghi kahe
+  Qaid mein kitne hoye naam Sakina ke liye
+  Mehdi-e-Waqt hi kholein tu khulein gaye Saqlain
+  Band zindaan ke dar-o-baam Sakina ke liye
 ---
 
-1
-Qaid Khane Mein Hai Kuhram Sakina Ke Liye.
-Sham Mein Ho Hi Gayi Sham Sakina Ke Liye.
-Aik Gumnam Se Goshay Mein Bani Hai Turbat.
-Kis Qadar Tang Howa Sham Sakina Ke Liye.
+۱
+قید خانے میں ہے کہرام سکینہ کے لیے
+شام میں ہو ہی گئی شام سکینہ کے لیے
+ایک گمنام سے گوشے میں بنی ہے تربت
+کس قدر تنگ ہوا شام سکینہ کے لیے
 
-2
-Likhti Rehti Hai Dewaron Pe Baba Baba.
-Reh Gaya Aik Yehi Kam Sakina Ke Liye.
-Pyas Lagte Hi Tamachon Ne Sakhawat Ki Hai.
-Taziyano Ne Bhare Jaam Sakina Ke Liye.
+۲
+لکھتی رہتی ہے دیواروں پہ بابا بابا
+رہ گیا ایک یہی کام سکینہ کے لیے
+پیاس لگتے ہی طمانچوں نے سخاوت کی ہے
+تازیانوں نے بھرے جام سکینہ کے لیے
 
-3
-Choti Qaidi Koi Kehta Hai Koi Baghi Kahe.
-Qaid Mein Kitne Hoye Naam Sakina Ke Liye.
-Mehdi-e-Waqt Hi Kholein Tu Khulein Gaye Saqlain.
-Band Zindaan Ke Dar-o-Baam Sakina Ke Liye.
+۳
+چھوٹی قیدی کوئی کہتا ہے کوئی باغی کہے
+قید میں کتنے ہوئے نام سکینہ کے لیے
+مہدیِ وقت ہی کھولیں تو کھلیں گے ثقلین
+بند زنداں کے در و بام سکینہ کے لیے

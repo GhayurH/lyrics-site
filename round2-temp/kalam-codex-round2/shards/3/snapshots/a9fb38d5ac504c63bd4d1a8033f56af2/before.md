@@ -1,0 +1,89 @@
+---
+title: "اجڑ گئی ہائے میں اجڑ گئی"
+recitationId: "goonjti-shaam"
+alternateTitle: "Ujar Gayi Haaye Maiṅ Ujar Gayi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Hasan Sadiq"
+tags: []
+aliases: ["Goonjti Shaam"]
+published: true
+romanLyrics: |-
+  Ujar gayi haaye maiṅ ujar gayi
+
+  Gunjti shaam-e-gharibaaṅ meiṅ ye Zainab ki sada
+  Mera koi na raha
+
+  Na rahe bhaai na bete chhin gayi meri rida
+  Mera koi na raha
+
+  1
+  Aasre jis ke behen chhor ke aayi thi watan
+  Mere parde ka jise maaṅ ne banaaya zaamin
+  Lab-e-darya mere Ghaazi ke hue baazu juda
+  Mera koi na raha
+
+  2
+  Wo jo athaarah baras nuri hijaaboṅ meiṅ raha
+  Laut ke aauṅga maiṅ jis ne tha Sughra se kaha
+  Haaye barchhi se kaleja mere Akbar ka chhida
+  Mera koi na raha
+
+  3
+  Mera Ghaazi bhi gaya Qaasim o Akbar bhi gaye
+  Hur sa mehmaan bhi gaya Ibn-e-Mazaahir bhi gaye
+  Kis ko ghurbat meiṅ sada duṅ Karbala ye to bata
+  Mera koi na raha
+
+  4
+  Maaṅ ne maqtal meiṅ jise dulha bana kar bheja
+  Mere Qaasim ka badan dasht meiṅ paamaal hua
+  Baal khole hue roti hui laashe pe kaha
+  Mera koi na raha
+
+  5
+  Wo Sakina ke jise pyaar tha baaba se bara
+  Baad baaba ke mili jis ko tamaanchoṅ ki saza
+  Guhar jo zaalim ne utaare khun aankhoṅ se baha
+  Mera koi na raha
+---
+
+اجڑ گئی ہائے میں اجڑ گئی
+
+گونجتی شام غریباں میں یہ زینب کی صدا
+میرا کوئی نہ رہا
+
+نہ رہے بھائی نہ بیٹے چھن گئی میری ردا
+میرا کوئی نہ رہا
+
+۱
+آسرے جس کے بہن چھوڑ کے آئی تھی وطن
+میرے پردے کا جسے ماں نے بنایا ضامن
+لبِ دریا میرے غازی کے ہوئے بازو جدا
+میرا کوئی نہ رہا
+
+۲
+وہ جو اٹھارہ برس نوری حجابوں میں رہا
+لوٹ کے آؤں گا میں جس نے تھا صغرا سے کہا
+ہائے برچی سے کلیجہ میرے اکبر کا چھدا
+میرا کوئی نہ رہا
+
+۳
+میرا غازی بھی گیا قاسم و اکبر بھی گئے
+حر سا مہمان بھی گیا ابنِ مظاہر بھی گئے
+کس کو غربت میں صدا دوں کربلا یہ تو بتا
+میرا کوئی نہ رہا
+
+۴
+ماں نے مقتل میں جسے دولہا بنا کر بھیجا
+میرے قاسم کا بدن دشت میں پامال ہوا
+بال کھولے ہوئے روتی ہوئی لاشے پہ کہا
+میرا کوئی نہ رہا
+
+۵
+وہ سکینہ کے جسے پیار تھا بابا سے بڑا
+بعد بابا کے ملی جس کو طمانچوں کی سزا
+گہر جو ظالم نے اتارے خون آنکھوں سے بہا
+میرا کوئی نہ رہا

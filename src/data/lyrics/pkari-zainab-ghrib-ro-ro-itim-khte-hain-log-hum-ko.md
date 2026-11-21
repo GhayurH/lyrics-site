@@ -8,74 +8,46 @@ poet: "Shaukath Bilgrami"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Pukari Zainab ghareeb ro ro yateem kahte hain log humko
-
-  Batao Ya Murtuza kahan ho yateem kahte hain log humko
-
+romanLyrics: |-
+  Pukaari Zainab gharib ro ro, yatim kahte haiṅ log hum ko
+  Bataao ya Murtaza kahaaṅ ho, yatim kahte haiṅ log hum ko
 
   1
-
-  1. Na gham mein itna rulao Baba sada tum apni sunao Baba
-
-  Kahan sidharey ho aao Baba yateem kahte hain log humko
-
+  Na gham mein itna rulaao Baba, sadaa tum apni sunaao Baba
+  Kahaaṅ sidhaare ho aao Baba, yatim kahte haiṅ log hum ko
 
   2
-
-  2. Pacharein khatey hain Bhai Shabbar, Hussain rotey hain sir patak kar
-
-  Malein na kis tarha khaak mooh per yateem kahte hain log humko
-
+  Pachhaareṅ khaate haiṅ bhaai Shabbar, Husain rote haiṅ sar patak kar
+  Maleṅ na kis tarah khaak muṅh par, yatim kahte haiṅ log hum ko
 
   3
-
-  3. Sitam hai Ya Bu-Turab kaisa hua hai jeena azaab kaisa
-
-  Diya hai tumne khitaab kaisa yateem kahte hain log humko
-
+  Sitam hai ya Bu Turaab kaisa, huaa hai jina azaab kaisa
+  Diya hai tum ne khitaab kaisa, yatim kahte haiṅ log hum ko
 
   4
-
-  4. Nikal ke turbat se aao Amma hamein galey se lagao Amma
-
-  Kahan hai Baba batao Amma yateem kahte hain log humko
-
+  Nikal ke turbat se aao Ammaaṅ, hameṅ gale se lagaao Ammaaṅ
+  Kahaaṅ haiṅ Baba bataao Ammaaṅ, yatim kahte haiṅ log hum ko
 
   5
-
-  5. Jahan mein ab ji ke kya karein hum falak ka kin se gila karein hum
-
-  Kaho kahan tak suna karein hum yateem kahte hain log humko
-
+  Jahaaṅ mein ab ji ke kya kareṅ hum, falak ka kin se gila kareṅ hum
+  Kaho kahaaṅ tak suna kareṅ hum, yatim kahte haiṅ log hum ko
 
   6
-
-  6. Na ibne muljim ne rahm khaya sitam ka teigh tumhe lagaya
-
-  Utha hai jabse tumhara saya yateem kahte hain log humko
-
+  Na Ibn-e-Muljim ne rahm khaaya, sitam ka tegh tumheṅ lagaaya
+  Utha hai jab se tumhaara saaya, yatim kahte haiṅ log hum ko
 
   7
-
-  7. Ab aao Sher-e-Khuda kahan ho batao Ya Murtuza kahan ho
-
-  Suno to ya Murtuza kahan ho yateem kahte hain log humko
-
+  Ab aao Sher-e-Khudaa kahaaṅ ho, bataao ya Murtaza kahaaṅ ho
+  Suno to ya Murtaza kahaaṅ ho, yatim kahte haiṅ log hum ko
 
   8
-
-  8. Ajal ne Nana se bhi churaya raha na Maa Baap ka bhi saya
-
-  Hum aaj kis se kahein Khudaya yateem kahte hain log humko
-
+  Ajal ne Nana se bhi chhuraaya, raha na maaṅ baap ka bhi saaya
+  Hum aaj kis se kaheṅ Khudaaya, yatim kahte haiṅ log hum ko
 
   9
-
-  Kare jo shaukat yateem naala
-
-  Hile na kis tarha arsh e aala
-
-  Bayan tha zainab ka shaah e waala'
+  Kare jo Shaukat yatim naala
+  Hile na kis tarah arsh-e-aalaa
+  Bayaaṅ tha Zainab ka shaah-e-waalaa
 ---
 
 پکاری زینبؑ غریب رو رو، یتیم کہتے ہیں لوگ ہم کو

@@ -21,12 +21,12 @@ romanLyrics: |-
 
   1
   Bain karti thi ye Zainab darmiyaan-e-Karbala
-  Hai kahaaṅ Abbas o Qasim hamshabih-e-Mustafa
+  Hai kahaaṅ Abbas o Qasim ham shabih-e-Mustafa
   Kis ko de aawaaz Zainab kaun ab baaqi raha
   Ab nahiṅ koi sahaara ya Ali ab aaiye
 
   2
-  Hai dayaar-e-tegh o khanjar zindagi beaas hai
+  Hai dayaar-e-tegh o khanjar zindagi be aas hai
   Dhup hai dasht-e-bala hai ranj o gham hai yaas hai
   Hai lahu zakhmoṅ se jaari aur ghazab ki pyaas hai
   Muztarib hai qalb-e-Zehra ya Ali ab aaiye

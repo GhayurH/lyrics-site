@@ -1,50 +1,90 @@
 ---
-title: "Zakhmi Hai Bohot Gaisuon Wala Nabeel Rizvi"
+title: "زخمی ہے بہت گیسوؤں والا نبیل رضوی"
+alternateTitle: "Zakhmi Hai Bohot Gaisuon Wala Nabeel Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sardar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Maula se mere nazoon ka pala na uthay ga
+  Zakhmi hai bohat gaysoon wala na uthay ga
+
+  1
+  Lashay pe kharey sochtay they Syed-e-Wala
+  Atharah baras maa ne muradoon se tha pala
+  Khaimay ki taraf dekha kabhi dil ko sanbhala
+  Dil tham ke phal barchi ka seene se nikala
+
+  2
+  Ik baap ko taqdeer ne halat yeh dikhai
+  Thi lash-e-jawaan samne our Sheh ki tanhai
+  Patkay se kamar bandh ke maiyyat jo uthai
+  Sar nangay phophi khaimay se bahir nikal aayi
+
+  3
+  Maqtal mein qayamat ki ghata cha gayi Akbar
+  Najane tujhe kis ki nazar kha gayi Akbar
+  Din biyah ke aaye tu ajal aa gayi Akbar
+  Uth jao mere lal phophi aa gayi Akbar
+
+  4
+  Bano ka yeh armaan tha dulhan biyah ke lati
+  Oss chand se chehray pe woh sehra bhi sajati
+  Sughra tere inn hathoon pe mehndi bhi rachati
+  Khud karti har aik kam na bhabhi se karati
+
+  5
+  Kya khoob mere lal yeh shadi hai rachai
+  Aayi na dulhan biyah ke maiyyat teri aayi
+  Ro ro ke yeh Zainab ne di baba ko duhai
+  Shabbir ne khud hathoon pe yeh lash uthai
+
+  6
+  Sardar razakar e Hussain aaye hain purnam
+  Jab tak bhi dharakte hoye seeno mein rahe gham
+  Barpa Ali Akbar ka karein gay younhi matam
+  Uth jaein gay dunya se tu reh jaye ga yeh gham
 ---
 
-Maula Se Mere Nazoon Ka Pala Na Uthay Ga.
-Zakhmi Hai Bohat Gaysoon Wala Na Uthay Ga.
+مولا سے میرے نازوں کا پالا نہ اٹھے گا
+زخمی ہے بہت گیسوؤں والا نہ اٹھے گا
 
-1
-Lashay Pe Kharey Sochtay They Syed-e-Wala.
-Atharah Baras Maa Ne Muradoon Se Tha Pala.
-Khaimay Ki Taraf Dekha Kabhi Dil Ko Sanbhala.
-Dil Tham Ke Phal Barchi Ka Seene Se Nikala.
+۱
+لاشے پہ کھڑے سوچتے تھے سیدِ والا
+اٹھارہ برس ماں نے مرادوں سے تھا پالا
+خیمے کی طرف دیکھا کبھی دل کو سنبھالا
+دل تھام کے پھل برچھی کا سینے سے نکالا
 
-2
-Ik Baap Ko Taqdeer Ne Halat Yeh Dikhai.
-Thi Lash-e-Jawaan Samne Our Sheh Ki Tanhai.
-Patkay Se Kamar Bandh Ke Maiyyat Jo Uthai.
-Sar Nangay Phophi Khaimay Se Bahir Nikal Aayi.
+۲
+اک باپ کو تقدیر نے حالت یہ دکھائی
+تھی لاشِ جواں سامنے اور شہ کی تنہائی
+پٹکے سے کمر باندھ کے میت جو اٹھائی
+سر ننگے پھوپھی خیمے سے باہر نکل آئی
 
-3
-Maqtal Mein Qayamat Ki Ghata Cha Gayi Akbar.
-Najane Tujhe Kis Ki Nazar Kha Gayi Akbar.
-Din Biyah Ke Aaye Tu Ajal Aa Gayi Akbar.
-Uth Jao Mere Lal Phophi Aa Gayi Akbar.
+۳
+مقتل میں قیامت کی گھٹا چھا گئی اکبر
+نجانے تجھے کس کی نظر کھا گئی اکبر
+دن بیاہ کے آئے تو اجل آ گئی اکبر
+اٹھ جاؤ میرے لال پھوپھی آ گئی اکبر
 
-4
-Bano Ka Yeh Armaan Tha Dulhan Biyah Ke Lati.
-Oss Chand Se Chehray Pe Woh Sehra Bhi Sajati.
-Sughra Tere Inn Hathoon Pe Mehndi Bhi Rachati.
-Khud Karti Har Aik Kam Na Bhabhi Se Karati.
+۴
+بانو کا یہ ارمان تھا دلہن بیاہ کے لاتی
+اس چاند سے چہرے پہ وہ سہرا بھی سجاتی
+صغرا تیرے ان ہاتھوں پہ مہندی بھی رچاتی
+خود کرتی ہر ایک کام نہ بھابھی سے کراتی
 
-5
-Kya Khoob Mere Lal Yeh Shadi Hai Rachai.
-Aayi Na Dulhan Biyah Ke Maiyyat Teri Aayi.
-Ro Ro Ke Yeh Zainab Ne Di Baba Ko Duhai.
-Shabbir Ne Khud Hathoon Pe Yeh Lash Uthai.
+۵
+کیا خوب میرے لال یہ شادی ہے رچائی
+آئی نہ دلہن بیاہ کے میت تیری آئی
+رو رو کے یہ زینب نے دی بابا کو دہائی
+شبیر نے خود ہاتھوں پہ یہ لاش اٹھائی
 
-6
- Sardar Razakar e Hussain Aaye Hain Purnam.
-Jab Tak Bhi Dharakte Hoye Seeno Mein Rahe Gham.
-Barpa Ali Akbar Ka Karein Gay Younhi Matam.
-Uth Jaein Gay Dunya Se Tu Reh Jaye Ga Yeh Gham.
+۶
+سردار رضاکارِ حسین آئے ہیں پُرنم
+جب تک بھی دھڑکتے ہوئے سینوں میں رہے غم
+برپا علی اکبر کا کریں گے یونہی ماتم
+اٹھ جائیں گے دنیا سے تو رہ جائے گا یہ غم

@@ -28,16 +28,16 @@ romanLyrics: |-
   Dub jaaye na zindagi ki sada
 
   4
-  Aaj bhi arsa-e-do aalam meiṅ
+  Aaj bhi arsa-e-do aalam mein
   Gunjti hai Husaini ki sada
 
   5
-  Tu ne jaaṅ de ke kar diya saabit
+  Tuṅ ne jaaṅ de ke kar diya saabit
   Dil hi sunta hai aagahi ki sada
 
   6
   Marhaba marhaba Ali Asghar
-  Hai chaman meiṅ kali kali ki sada
+  Hai chaman mein kali kali ki sada
 
   7
   Roz-e-Aashur kya qayaamat thi
@@ -48,7 +48,7 @@ romanLyrics: |-
   Sun ke bachchoṅ se tashnagi ki sada
 
   9
-  Jal rahe the qayaam-e-Aal-e-Aba
+  Jal rahe the qiyaam-e-Aal-e-Aba
   Aa rahi thi Ali Ali ki sada
 
   10
@@ -56,7 +56,7 @@ romanLyrics: |-
   Log sunte rahe Nabi ki sada
 
   11
-  Su-e-Karb o Bala chale haiṅ Uruj
+  Su-e-Karb o Bala chaleṅ haiṅ Uruj
   Dur se aai hai kisi ki sada
 ---
 جس کو کہتے ہیں زندگی کی صدا

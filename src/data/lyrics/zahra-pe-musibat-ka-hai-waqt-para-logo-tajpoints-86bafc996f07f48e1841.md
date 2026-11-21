@@ -1,32 +1,54 @@
 ---
-title: "Zahra Pe Musibat Ka Hai Waqt Para Logo"
+title: "زہرا پہ مصیبت کا ہے وقت پڑا لوگو"
+alternateTitle: "Zahra Pe Musibat Ka Hai Waqt Para Logo"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra pe musibat ka hai waqt para logo
+  Seh gayi hai khamoshi se har aik jafa logo
+
+  1
+  Mohsin ki shahadat tab wallah ho gayi thi
+  Jab Bint-e-Muhammad pe darwaza gira logo
+  Jiss ki hai nabowat pe khud naaz nabowat ko
+  Hazyan ka oss par hai ilzam laga logo
+
+  2
+  Woh lanti hai jiss ne kagaz qalam diya na
+  Sarkar-e-Muhammad se hai kaisi wafa logo
+  Khaliq ki nazar mein woh haqdar hain lanat ke
+  Umm-e-Abeeha jin se Zahra hoon khafa logo
+
+  3
+  Tanhai barh gayi hai Bad-e-Batool haye
+  Mula Ali pe kaisa hai waqt kara logo
+  Afraz lahad se yeh karti hain buka Zahra
+  Kyun dhoop ne turbat par saya hai kiya logo
 ---
 
-Zahra Pe Musibat Ka Hai Waqt Para Logo.
-Seh Gayi Hai Khamoshi Se Har Aik Jafa Logo.
+زہرا پہ مصیبت کا ہے وقت پڑا لوگو
+سہ گئی ہے خاموشی سے ہر ایک جفا لوگو
 
-1
-Mohsin Ki Shahadat Tab Wallah Ho Gayi Thi.
-Jab Bint-e-Muhammad Pe Darwaza Gira Logo.
-Jiss Ki Hai Nabowat Pe Khud Naaz Nabowat Ko.
-Hazyan Ka Oss Par Hai Ilzam Laga Logo.
+۱
+محسن کی شہادت تب واللہ ہو گئی تھی
+جب بنتِ محمد پہ دروازہ گرا لوگو
+جس کی ہے نبوت پہ خود ناز نبوت کو
+ہذیان کا اُس پر ہے الزام لگا لوگو
 
-2
-Woh Lanti Hai Jiss Ne Kagaz Qalam Diya Na.
-Sarkar-e-Muhammad Se Hai Kaisi Wafa Logo.
-Khaliq Ki Nazar Mein Woh Haqdar Hain Lanat Ke.
-Umm-e-Abeeha Jin Se Zahra Hoon Khafa Logo.
+۲
+وہ لعنتی ہے جس نے کاغذ قلم دیا نہ
+سرکارِ محمد سے ہے کیسی وفا لوگو
+خالق کی نظر میں وہ حق دار ہیں لعنت کے
+اُمِّ ابیہا جن سے زہرا ہوں خفا لوگو
 
-3
-Tanhai Barh Gayi Hai Bad-e-Batool Haye.
-Mula Ali Pe Kaisa Hai Waqt Kara Logo.
- Afraz Lahad Se Yeh Karti Hain Buka Zahra.
-Kyun Dhoop Ne Turbat Par Saya Hai Kiya Logo.
+۳
+تنہائی بڑھ گئی ہے بعدِ بتول ہائے
+مولا علی پہ کیسا ہے وقت کڑا لوگو
+افراز لحد سے یہ کرتی ہیں بُکا زہرا
+کیوں دھوپ نے تربت پر سایہ ہے کیا لوگو

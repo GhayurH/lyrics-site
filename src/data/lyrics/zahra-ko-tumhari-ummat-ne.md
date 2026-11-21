@@ -1,35 +1,59 @@
 ---
 title: "زہرا کو تمہاری امت نے دربار بلایا اے بابا"
+alternateTitle: "Zahra Ko Tumhari Ummat Ne Darbar Bulaya Aye Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra ko tumhari ummat ne darbar bulaya aye Baba
+  Tehreer tumhari jhutla di dil mera dukhaya aye Baba
+  Aye kash koi apna hota tehreer ke tukray chan leta
+  Main takti rahi sab ka chehra koi bhi na aaya aye Baba
+  Darbar sitam se jab lauti bachoon ke saharey ghar pohanchi
+  Zahra ka tumhari ummat ne yeh haal banaya aye Baba
+
+  2
+  Dekho tu mere darwazay ko hai aag laga di ummat ne
+  Our aag laga kar jalta howa dar mujh pe giraya aye Baba
+  Darbar bola kar zulm kiya phir bhi na bhara dil logon ka
+  Ummat ne mujhe darwazay par aa aa ke sataya aye Baba
+  Jis waqt gira woh darwaza Mohsin bhi mera baqi na raha
+  Main kaisay bataon kis kis ne hai mujh ko rulaya aye Baba
+
+  3
+  Darwaza hatanay ki khatir koi bhi nahi aaya aagay
+  Pehlu se mera woh darwaza Fizza ne hataya aye Baba
+  Pehlu bhi howa zakhmi mera our pasliyaan meri toot gayin
+  Ummat ne tumhari beti ka yeh haal banaya aye Baba
+  Zeeshan our Kazim Bibi ne Baba ki lehad par bain kiye
+  Qunfuz ne tumhari beti pe hai hath uthaya aye Baba
 ---
 
-1
-Zahra Ko Tumhari Ummat Ne Darbar Bulaya Aye Baba.
-Tehreer Tumhari Jhutla Di Dil Mera Dukhaya Aye Baba.
-Aye Kash Koi Apna Hota Tehreer Ke Tukray Chan Leta.
-Main Takti Rahi Sab Ka Chehra Koi Bhi Na Aaya Aye Baba.
-Darbar Sitam Se Jab Lauti Bachoon Ke Saharey Ghar Pohanchi.
-Zahra Ka Tumhari Ummat Ne Yeh Haal Banaya Aye Baba.
+۱
+زہرا کو تمہاری امت نے دربار بلایا اے بابا
+تحریر تمہاری جھٹلا دی دل میرا دکھایا اے بابا
+اے کاش کوئی اپنا ہوتا تحریر کے ٹکڑے چن لیتا
+میں تکتی رہی سب کا چہرہ کوئی بھی نہ آیا اے بابا
+دربارِ ستم سے جب لوٹی بچوں کے سہارے گھر پہنچی
+زہرا کا تمہاری امت نے یہ حال بنایا اے بابا
 
-2
-Dekho Tu Mere Darwazay Ko Hai Aag Laga Di Ummat Ne.
-Our Aag Laga Kar Jalta Howa Dar Mujh Pe Giraya Aye Baba.
-Darbar Bola Kar Zulm Kiya Phir Bhi Na Bhara Dil Logon Ka.
-Ummat Ne Mujhe Darwazay Par Aa Aa Ke Sataya Aye Baba.
-Jis Waqt Gira Woh Darwaza Mohsin Bhi Mera Baqi Na Raha.
-Main Kaisay Bataon Kis Kis Ne Hai Mujh Ko Rulaya Aye Baba.
+۲
+دیکھو تو میرے دروازے کو ہے آگ لگا دی امت نے
+اور آگ لگا کر جلتا ہوا در مجھ پہ گرایا اے بابا
+دربار بلا کر ظلم کیا پھر بھی نہ بھرا دل لوگوں کا
+امت نے مجھے دروازے پر آ آ کے ستایا اے بابا
+جس وقت گرا وہ دروازہ محسن بھی میرا باقی نہ رہا
+میں کیسے بتاؤں کس کس نے ہے مجھ کو رلایا اے بابا
 
-3
-Darwaza Hatanay Ki Khatir Koi Bhi Nahi Aaya Aagay.
-Pehlu Se Mera Woh Darwaza Fizza Ne Hataya Aye Baba.
-Pehlu Bhi Howa Zakhmi Mera Our Pasliyaan Meri Toot Gayin.
-Ummat Ne Tumhari Beti Ka Yeh Haal Banaya Aye Baba.
- Zeeshan Our Kazim Bibi Ne Baba Ki Lehad Par Bain Kiye.
-Qunfuz Ne Tumhari Beti Pe Hai Hath Uthaya Aye Baba.
+۳
+دروازہ ہٹانے کی خاطر کوئی بھی نہیں آیا آگے
+پہلو سے میرا وہ دروازہ فضہ نے ہٹایا اے بابا
+پہلو بھی ہوا زخمی میرا اور پسلیاں میری ٹوٹ گئیں
+امت نے تمہاری بیٹی کا یہ حال بنایا اے بابا
+ذیشان اور کاظم بی‌بی نے بابا کی لحد پر بین کیے
+قنفذ نے تمہاری بیٹی پہ ہے ہاتھ اٹھایا اے بابا

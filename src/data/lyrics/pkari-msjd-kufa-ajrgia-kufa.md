@@ -8,43 +8,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pukari Masjid-e-Koofa ujarr gaya Koofa
-  Utha Imam ka saaya ujarr gaya Koofa
+  Pukaari Masjid-e-Kufa ujar gaya Kufa
+  Utha imaam ka saaya ujar gaya Kufa
 
   1
-  Bujha se zahr may khanjar ko ibne Muljim ne
-  Sar-e-Ali pe jo zarbat lagayi zaalim ne
-  Jahaṅ pe chaaya andhera ujar gaya Koofa
+  Bujha ke zahr mein khanjar ko Ibn-e-Muljam ne
+  Sar-e-Ali pe jo zarbat lagaai zaalim ne
+  Jahaaṅ mein chhaaya andhera ujar gaya Kufa
 
   2
-  Ye kaisi zarb lagi tutne lagiṅ sansaiṅ
-  Do nim ho gaya sar khoon se bhar gayeen ankhaiṅ
-  Shahid ho gaya Maula ujarr gaya Koofa
+  Ye kaisi zarb lagi tutne lagiṅ saanseṅ
+  Do nim ho gaya sar khuṅ se bhar gaiṅ aankheṅ
+  Shahid ho gae Maula ujar gaya Kufa
 
   3
-  Namaz-e-subha ke doraa bapa hua mehshar
-  Sitam ki taigh se shaq ho gaya sar-e-Haider
-  Lahu se tar hai musalla ujarr gaya Koofa
+  Namaaz-e-subh ke dauraaṅ bapa hua mahshar
+  Sitam ki tegh se shaq ho gaya sar-e-Haider
+  Lahu mein tar hai musalla ujar gaya Kufa
 
   4
-  Khuda ke shair ko aayi jo aakhri hichki
-  Hasan Husain pe chaayi fiza yatimi ki
-  Hai ghash may Zainab-e-Kubra ujarr gaya Koofa
+  Khuda ke sher ko aai jo aakhri hichki
+  Hasan Husain pe chhaai fazaa yatimi ki
+  Hai ghash mein Zainab-e-Kubra ujar gaya Kufa
 
   5
-  Paharr tuta hai Abbas par musibat ka
-  Ye din hai Zainab o Kulsum par qayamat ka
-  Ghamoo may gharq hai kunba ujarr gaya Koofa
+  Pahaar tuta hai Abbaas par musibat ka
+  Ye din hai Zainab o Kulsum par qayaamat ka
+  Ghamoṅ mein gharq hai kunba ujar gaya Kufa
 
   6
-  Hui jahan se rehlat jo Shah e aalam ki
-  Yatim ho gayi ummat Rasul-e-Akram ki
-  Imam-e-waqt sidhara ujarr gaya Koofa
+  Hui jahaan se rihlat jo Shaah-e-aalam ki
+  Yatim ho gai ummat Rasul-e-Akram ki
+  Imaam-e-waqt sidhaara ujar gaya Kufa
 
   7
   Mujib Shabbar o Shabbir khun rote haiṅ
   Kaleje Zainab o Kulsum ke larazte haiṅ
-  Udas ho gaya Kaaba ujarr gaya Koofa
+  Udaas ho gaya Kaaba ujar gaya Kufa
 
   8
   (Mujib Alipuri)

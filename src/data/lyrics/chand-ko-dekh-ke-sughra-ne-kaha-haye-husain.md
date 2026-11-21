@@ -20,7 +20,7 @@ romanLyrics: |-
   Aa gaya maah-e-Muharram ka nahiṅ aaye Husain
 
   1
-  Yaad pardes meiṅ aati hai lahad Amma ki
+  Yaad pardes meiṅ aati hai lahad Ammaaṅ ki
   Dil ka ahwaal sunaane ko kahaaṅ jaaye Husain
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Jab se ye chaand Muharram ka nazar aaya hai
-  Amma roti hai tujhe mere maaṅ jaaye Husain
+  Ammaaṅ roti hai tujhe mere maaṅ jaaye Husain
 
   4
   Koi tasvir to Zahra ki rahi parde meiṅ
@@ -44,11 +44,11 @@ romanLyrics: |-
   Haaye Akbar kabhi kehti thi kabhi haaye Husain
 
   7
-  Mustaqil Shah ki aaṅkhoṅ se the aaṅsu jaari
+  Mustaqil Shah ki aankhoṅ se the aansu jaari
   Khat-e-Sughra ko mukammal nahiṅ parh paaye Husain
 
   8
-  Ek ek beti se rukhsat hue khaime meiṅ magar
+  Ik ik beti se rukhsat hue khaime meiṅ magar
   Haaye afsos ke Sughra se na mil paaye Husain
 
   9

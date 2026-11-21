@@ -1,37 +1,63 @@
 ---
-title: "Zahra Ke Hath Mein"
+title: "زہرا کے ہاتھ میں"
+alternateTitle: "Zahra Ke Hath Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Zahra ke hath mein
+
+  1
+  Kul nazm-e-kainat hai Zahra ke hath mein
+  Shair-e-khuda ka hath hai Zahra ke hath mein
+  Allah ne manga lein sar-e-arsh rotiyan
+  Koi tu aysi baat hai Zahra ke hath mein
+  Jis dar se chal raha hai zamane ka har nizam
+  Oss ki mashiyaat hai Zahra ke hath mein
+
+  2
+  Beti koi sath laye hain iss waste Rasool
+  Najranio ki maat hai Zahra ke hath mein
+  Malak hai jaise chahein ye tabdeeliyan karein
+  Loah-o-qalam dawaat hai Zahra ke hath mein
+  Kehne lage Hussain ye romal band kar
+  Ja Hur teri najaat hai Zahra ke hath mein
+
+  3
+  Hathon mein hath Shabar-o-Shabir ke nahi
+  Islam ki hayat hai Zahra ke hath mein
+  Kaise mitaye koi azza ki nishaniyan
+  Hifze-tabarkaat hai Zahra ke hath mein
+  Tasbeeh-e-Fatima ne Takallum bata diya
+  Har rad-e-mushkilat hai Zahra ke hath mein
 ---
 
-Zahra Ke Hath Mein.
+زہرا کے ہاتھ میں
 
-1
-Kul Nazm-e-Kainat Hai Zahra Ke Hath Mein.
-Shair-e-Khuda Ka Hath Hai Zahra Ke Hath Mein.
-Allah Ne Manga Lein Sar-e-Arsh Rotiyan.
-Koi Tu Aysi Baat Hai Zahra Ke Hath Mein.
-Jis Dar Se Chal Raha Hai Zamane Ka Har Nizam.
-Oss Ki Mashiyaat Hai Zahra Ke Hath Mein.
+۱
+کل نظمِ کائنات ہے زہرا کے ہاتھ میں
+شیرِ خدا کا ہاتھ ہے زہرا کے ہاتھ میں
+اللہ نے منگا لیں سرِ عرش روٹیاں
+کوئی تو ایسی بات ہے زہرا کے ہاتھ میں
+جس در سے چل رہا ہے زمانے کا ہر نظام
+اس کی مشیت ہے زہرا کے ہاتھ میں
 
-2
-Beti Koi Sath Laye Hain Iss Waste Rasool.
-Najranio Ki Maat Hai Zahra Ke Hath Mein.
-Malak Hai Jaise Chahein Ye Tabdeeliyan Karein.
-Loah-o-Qalam Dawaat Hai Zahra Ke Hath Mein.
-Kehne Lage Hussain Ye Romal Band Kar.
-Ja Hur Teri Najaat Hai Zahra Ke Hath Mein.
+۲
+بیٹی کوئی ساتھ لائے ہیں اس واسطے رسول
+نجرانیوں کی مات ہے زہرا کے ہاتھ میں
+مَلَک ہے جیسے چاہیں یہ تبدیلیاں کریں
+لوح و قلم دوات ہے زہرا کے ہاتھ میں
+کہنے لگے حسین یہ رومال باندھ کر
+جا حر تیری نجات ہے زہرا کے ہاتھ میں
 
-3
-Hathon Mein Hath Shabar-o-Shabir Ke Nahi.
-Islam Ki Hayat Hai Zahra Ke Hath Mein.
-Kaise Mitaye Koi Azza Ki Nishaniyan.
-Hifze-Tabarkaat Hai Zahra Ke Hath Mein.
-Tasbeeh-e-Fatima Ne Takallum Bata Diya.
-Har Rad-e-Mushkilat Hai Zahra Ke Hath Mein.
+۳
+ہاتھوں میں ہاتھ شبر و شبیر کے نہیں
+اسلام کی حیات ہے زہرا کے ہاتھ میں
+کیسے مٹائے کوئی عزا کی نشانیاں
+حفظِ تبرکات ہے زہرا کے ہاتھ میں
+تسبیحِ فاطمہ نے تکلم بتا دیا
+ہر ردِ مشکلات ہے زہرا کے ہاتھ میں

@@ -1,29 +1,44 @@
 ---
-title: "Zahra Peshi Te Aayi Aye Sheraz Khan Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "زہرا پیشی تے آئی اے"
+alternateTitle: "Zahra Peshi Te Aayi Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zahra peshi te aayi aye, aye kinj da wela aaya aye
+  Masjid nu Pak Payamber di ummat darbar banaya aye
+  Jiwein hath babay de chumdi si jiwein reesh te bosay dendi si
+  Ainj piyo di sand de tukriyaan nu chum ke akhiyaan nal laya aye
+  Kitay Yasrab walay qabar uttay na nezay le ke aa jawan
+  Taiyon qabar chupayi ummat taun nalay qabar nishan mitaya aye
+
+  2
+  Main jan gayi aan hun Baba mere putraan jondiyaan nayi bachna
+  Ainj zehar bhari darbariyaan di nazraan ne khanjar chalaya aye
+  Tere mimber de saye wich kisay meri masnad layi nayi
+  Mainu itni dair khalariya aye pairaan te waram cha aaya aye
+  Maa peshi wekhan aayi si dhi qaid nibhawan aayi si
+  Maa dhi ne Akbar deen-e-Nabi do khutbiyan naal bachaya aye
 ---
 
-Zahra Peshi Te Aayi Aye Sheraz Khan.
+۱
+زہرا پیشی تے آئی اے، اے کنج دا ویلا آیا اے
+مسجد نوں پاک پیمبر دی امّت دربار بنایا اے
+جیویں ہتھ بابے دے چمّدی سی جیویں ریش تے بوسے دیندی سی
+اینج پیو دی سند دے ٹکڑیاں نوں چم کے اکھیاں نال لایا اے
+کتے یثرب والے قبر اُتّے نہ نیزے لے کے آ جاون
+تاہیوں قبر چھپائی امّت توں نالے قبر نشان مٹایا اے
 
-1
-Zahra Peshi Te Aayi Aye, Aye Kinj Da Wela Aaya Aye.
-Masjid Nu Pak Payamber Di Ummat Darbar Banaya Aye.
-Jiwein Hath Babay De Chumdi Si Jiwein Reesh Te Bosay Dendi Si.
-Ainj Piyo Di Sand De Tukriyaan Nu Chum Ke Akhiyaan Nal Laya Aye.
-Kitay Yasrab Walay Qabar Uttay Na Nezay Le Ke Aa Jawan.
-Taiyon Qabar Chupayi Ummat Taun Nalay Qabar Nishan Mitaya Aye.
-
-2
-Main Jan Gayi Aan Hun Baba Mere Putraan Jondiyaan Nayi Bachna.
-Ainj Zehar Bhari Darbariyaan Di Nazraan Ne Khanjar Chalaya Aye.
-Tere Mimber De Saye Wich Kisay Meri Masnad Layi Nayi.
-Mainu Itni Dair Khalariya Aye Pairaan Te Waram Cha Aaya Aye.
-Maa Peshi Wekhan Aayi Si Dhi Qaid Nibhawan Aayi Si.
-Maa Dhi Ne Akbar Deen-e-Nabi Do Khutbiyan Naal Bachaya Aye.
+۲
+میں جان گئی آں ہن بابا میرے پتراں جوندیاں نئیں بچنا
+اینج زہر بھری درباریاں دی نظراں نے خنجر چلایا اے
+تیرے منبر دے سائے وچ کسے میری مسند لائی نئیں
+مینوں اتنی دیر کھلاریا اے پیراں تے ورم چا آیا اے
+ماں پیشی ویکھن آئی سی دھی قید نبھاون آئی سی
+ماں دھی نے اکبر دینِ نبی دو خطبیاں نال بچایا اے

@@ -1,5 +1,6 @@
 ---
-title: "Zahraa Pay Hai Giraya Jalta"
+title: "زھراء پہ ھے گرایا جلتا"
+alternateTitle: "Zahra Pe Hai Giraya Jalta"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,28 +9,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zahraa pay hai giraya jalta howa dar kesay
-  Ujraa hai pal may dekho basta howa ghar kesay
+  Zahra pe hai giraya jalta hua dar kaise
+  Ujra hai pal mein dekho basta hua ghar kaise
 
-  Maqtal may pasliyoun kay masoom chal basa hai
-  Haider ko bataeiy gi Mohsin ki khabar kesay
+  Maqtal mein pasliyoṅ ke maasum chal basa hai
+  Haider ko batae gi Mohsin ki khabar kaise
 
-  Ghush kar gaya hai Maa kay qadmo say lipat kar woh
-  Ab Fatima uthaey Baitay ka woh saar kesay
+  Ghash kar gaya hai maaṅ ke qadmoṅ se lipat kar woh
+  Ab Fatima uthae bete ka woh sar kaise
 
   Mafluj ho gaya hai ek haath tera Bibi
-  Zahraa qoonout tera howa hai qasar kesay
+  Zahra qunut tera hua hai qasr kaise
 
-  Zainab too ek qadam bhi ghar may nahi chali hai
-  Bazaroun say phir uss ka hona hai guzar kesay
+  Zainab tu ek qadam bhi ghar mein nahiṅ chali hai
+  Baazaaroṅ se phir us ka hona hai guzar kaise
 
-  Na dhoondo Baqiya may tum qaabar Fatima ki
-  Mola nay chupai hai Aaey gi nazar kesay
+  Na dhundo Baqia mein tum qabr-e-Fatima ki
+  Maula ne chhupai hai, aae gi nazar kaise
 
-  Pehlu e Shikasta say mansuub jab hai noha
-  Tahrir e Salamat may Aaey na asar kesay
-
-  URDU
+  Pehlu-e-Shikasta se mansub jab hai noha
+  Tahrir-e-Salamat mein aae na asar kaise
 ---
 
 ‎زھراء پہ ھے گرایا جلتا ھوا در کیسے

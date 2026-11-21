@@ -1,41 +1,69 @@
 ---
-title: "Qasim Da Sehra Afzal Jamal Lyrics Punjabi 2019"
+title: "قاسم دا سہرا"
+alternateTitle: "Qasim Da Sehra"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Shahid"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Le ke Jibreel arshon aaya Qasim da sehra
+  Parh darodaan Mariyam sajaya Qasim da sehra
+  Nori banra nori sehra chan taun sohna Qasim da chehra
+
+  2
+  Chum ke Ghazi akhiyaan nu laya Qasim da sehra
+  Sohna banra Qasim Ameer aye
+  Pag badhai Maula Shabbir aye
+  Parh ke Yaseen maa pharaya Qasim da sehra
+
+  3
+  Poray hoye arman maa de
+  Dayway sadqay Qasim de naa de
+  Janji bahatar Fizza sunaya Qasim da sehra
+  Phar Sakina, Qasim di waag aye
+
+  4
+  Mangay Sughra hissay da laag aye
+  Aakhay Bibi pardais aaya Qasim da sehra
+  Janj Hasan de chan di aayi
+  Bibi Zainab khaimay bithayi
+
+  5
+  Bibi Kubra di maa wadhaya Qasim da sehra
+  Wela cheti Shahid oh aaway
+  Ujray wehray Mehdi wasaway
+  Jis takhayul wich likhaya Qasim da sehra
 ---
 
-1
-Qasim Da Sehra Afzal Jamal Lyrics Punjabi
-Le Ke Jibreel Arshon Aaya Qasim Da Sehra.
-Parh Darodaan Mariyam Sajaya Qasim Da Sehra.
-Nori Banra Nori Sehra Chan Taun Sohna Qasim Da Chehra.
+۱
+لے کے جبریل عرشوں آیا قاسم دا سہرا
+پڑھ دروداں مریم سجایا قاسم دا سہرا
+نوری بنڑا نوری سہرا چن توں سوہنا قاسم دا چہرہ
 
-2
-Chum Ke Ghazi Akhiyaan Nu Laya Qasim Da Sehra.
-Sohna Banra Qasim Ameer Aye.
-Pag Badhai Maula Shabbir Aye.
-Parh Ke Yaseen Maa Pharaya Qasim Da Sehra.
+۲
+چم کے غازی اکھیاں نوں لایا قاسم دا سہرا
+سوہنا بنڑا قاسم امیر اے
+پگ بندھائی مولا شبیر اے
+پڑھ کے یٰسین ماں پھڑایا قاسم دا سہرا
 
-3
-Poray Hoye Arman Maa De.
-Dayway Sadqay Qasim De Naa De.
-Janji Bahatar Fizza Sunaya Qasim Da Sehra.
-Phar Sakina, Qasim Di Waag Aye.
+۳
+پورے ہوئے ارمان ماں دے
+دیوے صدقے قاسم دے ناں دے
+جنجی بہتر فضہ سنایا قاسم دا سہرا
+پھڑ سکینہ، قاسم دی واگ اے
 
-4
-Mangay Sughra Hissay Da Laag Aye.
-Aakhay Bibi Pardais Aaya Qasim Da Sehra.
-Janj Hasan De Chan Di Aayi.
-Bibi Zainab Khaimay Bithayi.
+۴
+منگے صغریٰ حصے دا لاگ اے
+آکھے بی بی پردیس آیا قاسم دا سہرا
+جنج حسن دے چن دی آئی
+بی بی زینب خیمے بٹھائی
 
-5
-Bibi Kubra Di Maa Wadhaya Qasim Da Sehra.
-Wela Cheti Shahid Oh Aaway.
-Ujray Wehray Mehdi Wasaway.
-Jis Takhayul Wich Likhaya Qasim Da Sehra.
+۵
+بی بی کبریٰ دی ماں ودھایا قاسم دا سہرا
+ویلا چھیتی شاہد اوہ آوے
+اجڑے ویہڑے مہدی وساوے
+جس تخیل وچ لکھایا قاسم دا سہرا

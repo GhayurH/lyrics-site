@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Baaba ke bichhar jaane se dar lagne laga hai
-  Amma ki judaai se ye gham aur bara hai
+  Ammaaṅ ki judaai se ye gham aur bara hai
   Zainab ko yehi sadma bahut khun rulaaye
   Zainab ke ujarne ke zamaane aaye
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Zainab ke ujarne ke zamaane aaye
 
   5
-  Hai girya-kunaaṅ arsh pe khaatun-e-qayaamat
+  Hai girya kunaaṅ arsh pe khaatun-e-qayaamat
   Aai hai mere bachchoṅ pe ik aur musibat
   Kaabe ko hila deti hai Hasnain ki aaheṅ
   Zainab ke ujarne ke zamaane aaye

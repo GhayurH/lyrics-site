@@ -37,12 +37,12 @@ romanLyrics: |-
 
   5
   Rote haiṅ gham meiṅ Haider-e-Safdar ke khaas o aam
-  Beaas ro ke lab pe ubharta hai yeh kalaam
+  Be aas ro ke lab pe ubharta hai yeh kalaam
   Ham lut gaye hamaara nigahdaar uth gaya
 
   6
   Rauze pe Mustafa ke hai ik hashr ka samaaṅ
-  Zehra pukaarti hai lahad meiṅ ke alamaaṅ
+  Zehra pukaarti hai lahad meiṅ ke al-amaaṅ
   Aulaad-e-Mustafa ka madadgaar uth gaya
 
   7

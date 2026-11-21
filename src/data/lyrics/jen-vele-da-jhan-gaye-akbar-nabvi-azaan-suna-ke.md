@@ -7,6 +7,41 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jeṅ vele da jhanr gaye Akbar Nabvi azaan sunraake
+  Azaan gawaah uṅ vele da piyo turde qamar nawaake
+
+  1
+  Akbar di maut muka chhoriye kandaaṅ ith jhanrde kandaaṅ uth
+  Mahruma amri waaṅg Saiyad doheṅ hath paase te laake
+
+  2
+  Kujh lahza pehle dasda ha hanr gum thai gaye vich neziyaaṅ de
+  Mikuṅ puttar da laasha gol deyo vada ro ro Saiyad ae aakhe
+
+  3
+  Tede Akbar da armaan hai bahuṅ kiveṅ puttar di laash kuṅ chese tuṅ
+  Khara malakal maut haaye ronda ha Shabbir de gal baaheṅ paake
+
+  4
+  Qismat mazlum musaafir di haai hasrat puttar di shaadi di
+  Bahuṅ der rona Shaah Akbar da haaye tahtul hanak walaake
+
+  5
+  Jandaaṅ laash Akbar te pahuncha ha mazlum Husain ae aadha ha
+  Mikuṅ kujh neṅ dasda akhiyaaṅ choṅ tur aa Akbar mas chumwaake
+
+  6
+  Jeṅ saal aathaaraaṅ paaliya ha tekuṅ apnre burqe vich Akbar
+  Tede jhanran da sunrke rondi hai haaye dar-e-khiyaam te aake
+
+  7
+  Vada puchhde puttar de qaatilaaṅ dasso kehri jaah te jhanr giya hai
+  Hamshakl Rasul da maqtal vich haaye jigar te barchhi khaa ke
+
+  8
+  Faisal mazlum Husain utte eṅ tuṅ vadh ghurbat kya hosi
+  Chup karke tur paye khaimaaṅ duṅ Shaah laash Akbar di chaake
 ---
 
 جیں ویلے دا جھنڑ گئے اکبر ؑ نبوی آزان سنڑاکے

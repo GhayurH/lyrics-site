@@ -8,33 +8,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Qafila salar, Abid e beemar
-  Abid e beemar, Shaam ka bazaar
+  Qaafila saalaar, Aabid-e-bimaar
+  Aabid-e-bimaar, Shaam ka baazaar
 
   1
-  Pusht hay zakhmi, paoon may chalay
-  Hathkarri berri, touq sambhalay
-  Aik qadam bhi chalna hay dushwar
+  Pusht hai zakhmi, paa'oṅ mein chhaale
+  Hathkari beri, tauq sambhaalne
+  Ek qadam bhi, chalna hai dushwaar
 
   2
-  Sang dilon ne maray hain pathar
-  Aag kisi ne phainki hay sar par
-  Kanp raha hay deen ka sardar
+  Sang diloṅ ne, maare haiṅ patthar
+  Aag kisi ne, phenki hai sar par
+  Kaanp raha hai, din ka sardaar
 
   3
-  Jakrri hui hay bali Sakina
-  Kis ko sunaye dard ye apna
-  Charon taraf hain haey sitamgar
+  Jakri hui hai, baali Sakina
+  Kis ko sunaaye, dard ye apna
+  Chaaroṅ taraf haiṅ, haaye sitamgaar
 
   4
-  Durre Sakina khati hay ya Rab
-  Khoon ke ansoo roti hay Zainab
-  Dil pe ghamon ki chalti hay talwar
+  Durre Sakina, khaati hai ya Rab
+  Khun ke aansu, roti hai Zainab
+  Dil pe ghamoṅ ki, chalti hai talwaar
 
   5
-  Shaer o zakir mil ke ghoar
-  Fikr e Mujeed aur lehn e Khaleel aur
-  Ye bhi hay ghamkhawar wo bhi hay ghamkhawar
+  Be ridaa sab haiṅ, untoṅ pe phupiyaaṅ
+  Khun mein ghaltaaṅ, haal pareshaaṅ
+  Dekh raha hai, bekas o laachaar
+
+  6
+  Shaair o zaakir, mil ke ghaur
+  Fikr-e-Mujeeb aur, lahn-e-Khalil aur
+  Ye bhi hai ghamkhwaar, wo bhi hai ghamkhwaar
 ---
 
 قافلہ سالار، عابدِؑ بیمار

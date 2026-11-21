@@ -1,34 +1,58 @@
 ---
-title: "Zafar Mera Akbar Syeda Amber Naqvi"
+title: "ظفر میرا اکبر سیدہ عنبر نقوی"
+alternateTitle: "Zafar Mera Akbar Syeda Amber Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jawad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zafar mera Akbar Syeda Amber Naqvi
+  Zafar mere Akbar ka kya haal ho gaya hai
+  Kha ke sina tarapta humshakal-e-Mustafa hai
+  Mere ladlay ko Zafar kis ki nazar lagi hai
+  Barchi se kyun jawaan ka zakhmi jigar howa hai
+  Zafar kaho Akbar ko aawaz do padar ko
+  Tera zaeef baba tujh ko pukarta hai
+  Saye mein ismaton ke Zainab ne jis ko pala
+  Doba howa lahu mein Laila ka ladla hai
+  Farsh-e-azza hai aalam kartay Nabi hain matam
+  Hum sorat Muhammad dunya se ja raha hai
+  Zafar yeh lal mera peri ka tha sahara
+  Mazloom-e-Karbala ke lab par yehi sada hai
+  Looti hai zalimo ne do maon ki kamai
+  Akbar jawaan ka matam khiyam mein bapa hai
+  Kehti thi ladlay ko dulha banaon gi main
+  Akbar ki maa ka armaan dil mein hi reh gaya hai
+  Rah dekhti hai Zafar Yasrab mein iss ki khwahar
+  Batlaye kaun oss ko Akbar nahi raha hai
+  Kehte they sheh utha kar Jawad lash-e-Akbar
+  Zafar Hussain par yeh ghurbat ki inteha hai
 ---
 
-1
-Zafar Mera Akbar Syeda Amber Naqvi.
-Zafar Mere Akbar Ka Kya Haal Ho Gaya Hai.
-Kha Ke Sina Tarapta Humshakal-e-Mustafa Hai.
-Mere Ladlay Ko Zafar Kis Ki Nazar Lagi Hai.
-Barchi Se Kyun Jawaan Ka Zakhmi Jigar Howa Hai.
-Zafar Kaho Akbar Ko Aawaz Do Padar Ko.
-Tera Zaeef Baba Tujh Ko Pukarta Hai.
-Saye Mein Ismaton Ke Zainab Ne Jis Ko Pala.
-Doba Howa Lahu Mein Laila Ka Ladla Hai.
-Farsh-e-Azza Hai Aalam Kartay Nabi Hain Matam.
-Hum Sorat Muhammad Dunya Se Ja Raha Hai.
-Zafar Yeh Lal Mera Peri Ka Tha Sahara.
-Mazloom-e-Karbala Ke Lab Par Yehi Sada Hai.
-Looti Hai Zalimo Ne Do Maon Ki Kamai.
-Akbar Jawaan Ka Matam Khiyam Mein Bapa Hai.
-Kehti Thi Ladlay Ko Dulha Banaon Gi Main.
-Akbar Ki Maa Ka Armaan Dil Mein Hi Reh Gaya Hai.
-Rah Dekhti Hai Zafar Yasrab Mein Iss Ki Khwahar.
-Batlaye Kaun Oss Ko Akbar Nahi Raha Hai.
-Kehte They Sheh Utha Kar Jawad Lash-e-Akbar.
-Zafar Hussain Par Yeh Ghurbat Ki Inteha Hai.
+۱
+ظفر میرا اکبر سیدہ عنبر نقوی
+ظفر میرے اکبر کا کیا حال ہو گیا ہے
+کھا کے سناں تڑپتا ہم شکلِ مصطفیٰ ہے
+میرے لاڈلے کو ظفر کس کی نظر لگی ہے
+برچھی سے کیوں جواں کا زخمی جگر ہوا ہے
+ظفر کہو اکبر کو آواز دو پدر کو
+تیرا ضعیف بابا تجھ کو پکارتا ہے
+سائے میں عصمتوں کے زینب نے جس کو پالا
+ڈوبا ہوا لہو میں لیلیٰ کا لاڈلا ہے
+فرشِ عزا ہے عالم کرتے نبی ہیں ماتم
+ہم صورتِ محمد دنیا سے جا رہا ہے
+ظفر یہ لال میرا پیری کا تھا سہارا
+مظلومِ کربلا کے لب پر یہی صدا ہے
+لوٹی ہے ظالموں نے دو ماؤں کی کمائی
+اکبر جواں کا ماتم خیام میں بپا ہے
+کہتی تھی لاڈلے کو دولہا بناؤں گی میں
+اکبر کی ماں کا ارمان دل میں ہی رہ گیا ہے
+راہ دیکھتی ہے ظفر یثرب میں اس کی خواہر
+بتلائے کون اس کو اکبر نہیں رہا ہے
+کہتے تھے شہ اٹھا کر جواد لاشِ اکبر
+ظفر حسین پر یہ غربت کی انتہا ہے

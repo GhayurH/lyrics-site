@@ -1,32 +1,54 @@
 ---
-title: "Pisar E Musa E Kazim Raza Mashhad Se Lyrics 2019"
+title: "پسرِ موسیِٰ کاظم رضا مشہد سے"
+alternateTitle: "Pisar-e-Musa-e-Kazim Raza Mashhad Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Pisar e Musa e Kazim Raza Mashhad se
+  Karta hai mujh pe logo atta Mashhad se
+
+  1
+  Koi aasi ho la-dawa ho koi
+  Milti har ik ko hai shifa Mashhad se
+  Bazu pe apne jo bandhey taweez-e-Raza
+  Hai zamin oss ka mazhar-e-Khuda Mashhad se
+
+  2
+  Unhi ke roze pe sar ko jhuka do apne tum
+  Moaf ho gi tumhari youn khata Mashhad se
+  Hoor-o-Gilma hain darbar-e-Raza Maula ke
+  Khuld se aati hai chalti jo hawa Mashhad se
+
+  3
+  Dikhao mujh ko bhi jageer apni aye Maula
+  Karo manzoor meri Maula dua Mashhad se
+  Tumhari manqabat yeh soch ke likhe Farman
+  Hai milta mujh ko bhi iss ka sila Mashhad se
 ---
 
-Pisar e Musa e Kazim Raza Mashhad Se
-Karta Hai Mujh Pe Logo Atta Mashhad Se.
+پسرِ موسیِٰ کاظم رضا مشہد سے
+کرتا ہے مجھ پہ لوگو عطا مشہد سے
 
-1
-Koi Aasi Ho La-Dawa Ho Koi.
-Milti Har Ik Ko Hai Shifa Mashhad Se.
-Bazu Pe Apne Jo Bandhey Taweez-e-Raza.
-Hai Zamin Oss Ka Mazhar-e-Khuda Mashhad Se.
+۱
+کوئی عاصی ہو لا دوا ہو کوئی
+ملتی ہر اک کو ہے شفا مشہد سے
+بازو پہ اپنے جو باندھے تعویذِ رضا
+ہے ضامن اس کا مظہرِ خدا مشہد سے
 
-2
-Unhi Ke Roze Pe Sar Ko Jhuka Do Apne Tum.
-Moaf Ho Gi Tumhari Youn Khata Mashhad Se.
-Hoor-o-Gilma Hain Darbar-e-Raza Maula Ke.
-Khuld Se Aati Hai Chalti Jo Hawa Mashhad Se.
+۲
+انہی کے روضے پہ سر کو جھکا دو اپنے تم
+معاف ہو گی تمہاری یوں خطا مشہد سے
+حور و غلمان ہیں دربارِ رضا مولا کے
+خلد سے آتی ہے چلتی جو ہوا مشہد سے
 
-3
-Dikhao Mujh Ko Bhi Jageer Apni Aye Maula.
-Karo Manzoor Meri Maula Dua Mashhad Se.
-Tumhari Manqabat Yeh Soch Ke Likhe Farman.
-Hai Milta Mujh Ko Bhi Iss Ka Sila Mashhad Se.
+۳
+دکھاؤ مجھ کو بھی جاگیر اپنی اے مولا
+کرو منظور میری مولا دعا مشہد سے
+تمہاری منقبت یہ سوچ کے لکھے فرمان
+ہے ملتا مجھ کو بھی اس کا صلہ مشہد سے

@@ -24,15 +24,15 @@ romanLyrics: |-
   Pehre pe musalmaaṅ hai Abbas chale aao
 
   3
-  Maiṅ kaise bachaauṅgi Sajjad ko sholoṅ se
+  Main kaise bachaauṅ gi Sajjad ko sholoṅ se
   Aa jaao to ehsaaṅ hai Abbas chale aao
 
   4
-  Masuma ke durr chhine mere bhaai ke qaatil ne
-  Wo khun meiṅ ghaltaaṅ hai Abbas chale aao
+  Masum ke durr chhine mere bhaai ke qaatil ne
+  Wo khun mein ghaltaaṅ hai Abbas chale aao
 
   5
-  Masturoṅ ne haathoṅ meiṅ pehni hai rasan Ghazi
+  Masturoṅ ne haathoṅ mein pehni hai rasan Ghazi
   Jaana su-e-zindaaṅ hai Abbas chale aao
 
   6

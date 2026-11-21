@@ -9,83 +9,49 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Chaliyeh Madina Nadeem Sarwar"
-romanLyrics: 'Chaliyeh Madina Nadeem Sarwar Lyrics
-
-  Chaliye Madina Aye Phophi Chaliye Madina.
-
+romanLyrics: |-
+  Chaliye Madina ae phuphi chaliye Madina
 
   1
-
-  Ho Gaya Chehlum Kar Chuki Matam.
-
-  Zindagi Bhar Hai Ab Tu Muharram.
-
-  Taba Qayamat Ab Hai Tarapna.
-
-  Chaliye Phophi Amma Watan Chaliye Madina.
-
+  Ho gaya chehlum kar chuki maatam
+  Zindagi bhar hai ab to Muharram
+  Ta ba qayaamat ab hai tarapna
+  Chaliye phuphi ammaaṅ watan chaliye Madina
 
   2
-
-  Ban Gayi Qabrein Nazar Dila Di.
-
-  Ashkon Ki Chadar Sab Ko Urha Di.
-
-  Ghar Chalo Ab Tu Jee Khol Ke Rona.
-
+  Ban gayi qabreiṅ nazar dila di
+  Ashkoṅ ki chaadar sab ko urha di
+  Ghar chalo ab to ji khol ke rona
 
   3
-
-  Aye Phophi Amma Ho Gi Qayamat.
-
-  Pochein Jo Baba Hum Se Ba Riqqat.
-
-  Aray Kyun Nahi Aayi Bali Sakina.
-
+  Ae phuphi ammaaṅ ho gi qayaamat
+  Puchhe jo baba hum se ba riqqat
+  Kiuṅ nahiṅ aayi baali Sakina
 
   4
-
-  Qabar-e-Nabi Par Pehle Chalein Gay.
-
-  Giriya Karein Gay Noha Parhein Gay.
-
-  Guzri Jo Hum Par Nana Se Kehna.
-
+  Qabr-e-Nabi par pehle chaleiṅ ge
+  Girya kareiṅ ge noha parheiṅ ge
+  Guzri jo hum par nana se kehna
 
   5
-
-  Sughra Ka Shikwa Chal Ke Mita Do.
-
-  Gash Mein Hai Sughra Oss Ko Jaga Do.
-
-  Mar Gaye Akbar Yeh Na Batana.
-
+  Sughra ka shikwa chal ke mita do
+  Ghash meiṅ hai Sughra us ko jaga do
+  Mar gaye Akbar yeh na bataana
 
   6
-
-  Roein Gi Kab Tak Nehar Kinaray.
-
-  Ab Na Milein Gay Ammo Hamarey.
-
-  Hum Ko Alam Hai Unn Ka Uthana.
-
+  Roeiṅ gi kab tak nehr kinaare
+  Ab na mileiṅ ge Ammu hamaare
+  Hum ko alam hai un ka uthaana
 
   7
-
-  Qaid Mein Guzra Sara Muharram.
-
-  Majlis-o-Matam Kar Na Sakay Hum.
-
-  Ghar Mein Azza Ka Farsh Bichana.
-
+  Qaid meiṅ guzra saara Muharram
+  Majlis o maatam kar na sake hum
+  Ghar meiṅ aza ka farsh bichhaana
 
   8
-
-  Kehte They Abid:SARWAR-o-REHAN:.
-
-  Aap Pe Sadqay Mein Hoon Phophi Jan.
-
-  Hukam-e-Imamat Ab Hai Nibhana.'
+  Kehte the Aabid Sarwar o Rehaan
+  Aap pe sadqe main huṅ phuphi jaan
+  Hukm-e-imaamat ab hai nibhaana
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

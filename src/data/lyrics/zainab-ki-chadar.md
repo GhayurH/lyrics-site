@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zainab ki chadar allahu akbar
-  Nauha tha sheh ka ye zer e khanjar
-  Nauha tha sheh ka noke sina par
-  Allahu akbar zainab ki chadar
+  Zainab ki chadar Allahu Akbar
+  Nauha tha sheh ka ye zer-e-khanjar
+  Nauha tha sheh ka nok-e-sinaaṅ par
+  Allahu Akbar Zainab ki chadar
   Zainab ki chadar...
-  Shaam e gharibaṅ roti hai jisko
-  Khaake pareshaṅ roti hai jisko
-  Chashme bayabaṅ roti hai jisko
-  Khud zaat e yazdaṅ roti hai jisko
-  Rote hai jisko har waqt hyder
-  Roti hai zehra jisko khule sar
-  Allahu akbar zainab ki chadar...
-  Aaye hai adam aaye hai khaatam
-  Teri rida ka barpa hai matam
+  Shaam-e-gharibaaṅ roti hai jis ko
+  Khaak-e-pareshaaṅ roti hai jis ko
+  Chashm-e-bayabaaṅ roti hai jis ko
+  Khud zaat-e-Yazdaaṅ roti hai jis ko
+  Rote haiṅ jis ko har waqt Haidar
+  Roti hai Zehra jis ko khule sar
+  Allahu Akbar Zainab ki chadar...
+  Aaye haiṅ Aadam aaye haiṅ Khaatam
+  Teri rida ka barpa hai maatam
   Taari hai sab par girye ka aalam
-  Sino meiṅ jaari hai ek khune payham
-  Karte hai matam dekho payambar
-  Nauha yehi hai sab ke laboṅ par
-  Allahu akbar zainab ki chadar...
-  Kehte hai kat kar ghazi ke baazu
-  Kehte hai kat kar qasim ke abru
-  Kehte hai beh kar abid ke aansu
-  Kehte hai khuṅ meiṅ akbar ke gaysuṅ
-  Kehta hai beh kar phir khune asghar
-  Kehta hai reti pe ye khune akbar
-  Allahu akbar zainab ki chadar...
-  Qaime jalane aate hai aada
-  Taabe ko dhaane aate hai aada
-  Qaidi banane aate hai aada
-  Dar dar phirane aate hai aada
-  Kehta hai haye daaman ye jal kar
-  Kehte hai haye chin kar ye gohar
-  Allahu akbar zainab ki chadar...
-  Aate hai abid sar ko jhukaye
-  Apne lahu meiṅ khud hi nahaye
-  Saaye se apne khud ko chupaye
-  Zakhmo ko apne dil se lagaye
-  Raahoṅ meiṅ jis dam aate hai pathar
-  Kehte hai haye abid ke zewar
-  Allahu akbar zainab ki chadar...
-  Jis dam naved ek aandhi uthi thi
-  Sheh ke gale par jis dam churi thi
-  Maqtal meiṅ har soo khuṅ ki jhari thi
-  Qaime ke dar par zainab khari thi
-  Likhuṅ to kaise haye ye manzar
-  Us dam yehi tha sheh ke laboṅ par
-  Allahu akbar zainab ki chadar...
+  Sinoṅ meiṅ jaari hai ik khun-e-paiham
+  Karte haiṅ maatam dekho payambar
+  Nauha yahi hai sab ke laboṅ par
+  Allahu Akbar Zainab ki chadar...
+  Kehte haiṅ kaat kar Ghazi ke baazu
+  Kehte haiṅ kaat kar Qasim ke abru
+  Kehte haiṅ beh kar Abid ke aansuṅ
+  Kehte haiṅ khuṅ meiṅ Akbar ke gesuṅ
+  Kehta hai beh kar phir khun-e-Asghar
+  Kehta hai reti pe ye khun-e-Akbar
+  Allahu Akbar Zainab ki chadar...
+  Khaime jalaane aate haiṅ aada
+  Kaabe ko dhaane aate haiṅ aada
+  Qaidi banaane aate haiṅ aada
+  Dar dar phiraane aate haiṅ aada
+  Kehta hai haaye daaman ye jal kar
+  Kehte haiṅ haaye chhin kar ye gauhar
+  Allahu Akbar Zainab ki chadar...
+  Aate haiṅ Abid sar ko jhukaaye
+  Apne lahu meiṅ khud hi nahaaye
+  Saaye se apne khud ko chhupaaye
+  Zakhmoṅ ko apne dil se lagaaye
+  Raahoṅ meiṅ jis dam aate haiṅ patthar
+  Kehte haiṅ haaye Abid ke zewar
+  Allahu Akbar Zainab ki chadar...
+  Jis dam Naved ik aandhi uthi thi
+  Sheh ke gale par jis dam chhuri thi
+  Maqtal meiṅ har suṅ khuṅ ki jhari thi
+  Khaime ke dar par Zainab khari thi
+  Likhuṅ to kaise haaye ye manzar
+  Us dam yahi tha sheh ke laboṅ par
+  Allahu Akbar Zainab ki chadar...
 ---
 
 ۱

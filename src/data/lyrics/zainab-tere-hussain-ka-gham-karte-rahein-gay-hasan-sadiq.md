@@ -9,73 +9,38 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Zainab Tere Hussain Ka Gham Karte Rahein Gay Hasan Sadiq"
-romanLyrics: 'Zainab Tere Hussain Ka Gham Karte Rahein Gay Hasan Sadiq.
-
-  Hum Seena Zani Sham-o-Sahar Kartay Rahein Gay.
-
-  Aye Sani-e-Zahra Teri Sunat-e-Hai Yeh Matam.
-
-  Apne Tu Aqeeday Mein Ibadat Hai Yeh Matam.
-
+romanLyrics: |-
+  Matam hai yeh meri baqa, karte raheṅ ge ham sada
+  Zainab tere Husain ka gham karte raheṅ ge
+  Ham sina zani shaam o sahar karte raheṅ ge
+  Ae Sani-e-Zahra teri sunnat hai yeh matam
+  Apne to aqeede meiṅ ibaadat hai yeh matam
+  Har haal meiṅ yeh farz ada karte raheṅ ge
 
   1
-
-  Matam hai ye meri baqa, karte rahenge ham sada
-
-  Zainab tere Hussain ka gham karte rahenge
-
+  Jis ne teri chaadar pe fida kar diye baazu
+  Kehti hai jise Bibi Alamdar-e-Wafa tu
+  Ghar ghar tere Ghazi ke alam sajte raheṅ ge
 
   2
-
-  1) Ay sani-e-zehra teri, sunnat hai ye matam
-
-  Apne jo aqeede mei ibadat hai ye matam
-
-  Har haal mei ye farz ada, Karte rahenge
-
+  Dohraaeṅ ge pyaase tere Asghar ki kahaani
+  Ta hashr jise roe ga daryaoṅ ka paani
+  Har ghoṅt pe ham yaad use karte raheṅ ge
 
   3
-
-  Har Haal Mein Yeh Farz Ada Kartay Rahein Gay.
-
-  Jis Ne Teri Chadar Pe Fida Kar Deiye Bazu.
-
-  Kehti Hai Jisay Bibi Alamdar-e-Wafa Tu.
-
-  Ghar Ghar Tere Ghazi Ke Alam Sajtay Rahein Gay.
-
+  Jo aag liye khaana-e-Zahra pe the aae
+  Qiyaam jinhoṅ ne tere Karbal meiṅ jalaae
+  Woh naar-e-jahannam meiṅ sada jalte raheṅ ge
 
   4
-
-  Dohraein Gay Pyasay Tere Asghar Ki Kahani.
-
-  Ta Hashar Jissay Roye Ga Daryaon Ka Pani.
-
-  Har Ghont Pe Hum Yaad Ossay Kartay Rahein Gay.
-
-  Jo Aag Liye Khana-e-Zahra Pe They Aaye.
-
+  Bibi tere betoṅ ke baraadar ke lahu se
+  Roshan jo hue aal-e-Payambar ke lahu se
+  Woh dip hawaoṅ meiṅ sada jalte raheṅ ge
 
   5
-
-  Khiyam Jinhoon Ne Tere Karbal Mein Jalaye.
-
-  Woh Nar-e-Jahanum Mein Sada Jaltay Rahein Gay.
-
-  Bibi Tere Beton Ke Baradar Ke Lahu Se.
-
-  Roshan Jo Hoye Aal-e-Payamber Ke Lahu Se.
-
-
-  6
-
-  Woh Deep Hawaon Mein Sada Jaltay Rahein Gay.
-
-  Bholay Gi Na Dunya Yeh Teri Dard Kahani.
-
-  Jawad Ke Lab Se Kabhi Sadiq Ki Zabani.
-
-  Pursa Tere Pyaron Ka Tujhe Detey Rahein Gay.'
+  Bhule gi na duniya yeh teri dard kahaani
+  Jawad ke lafzeiṅ kabhi Sadiq ki zabaani
+  Pursa tere pyaaroṅ ka tujhe dete raheṅ ge
 ---
 
 ماتم ہے یہ میری بقا کرتے رہیں گے ہم صدا

@@ -13,10 +13,10 @@ aliases: ["Qabr May Fatema"]
 published: true
 romanLyrics: |-
   Qabr meiṅ Fatema Zehra ko rulaate kiuṅ ho
-  Bhare darbar meiṅ Zainab ko bulaate kiuṅ ho
+  Bhare darbaar meiṅ Zainab ko bulaate kiuṅ ho
 
   1
-  Khuṅ jis par hai Husain ibn-e-Ali ka taaza
+  Khuṅ hai jis par hai Husain ibn-e-Ali ka taaza
   Saani-e-Zehra ko khanjar wo dikhaate kiuṅ ho
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   God meiṅ rehti thi Ghazi ke sada jo bachchi
-  Usko tum kaaṅtoṅ ke raste pe chalaate kiuṅ ho
+  Us ko tum kaaṅtoṅ ke raste pe chalaate kiuṅ ho
 
   5
   Is ko to god meiṅ karne do sukuṅ maadar ki

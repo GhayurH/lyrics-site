@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Shahid ho gaya Farwa ka laal jab ran meiṅ
   Rakha khizaaṅ ne qadam ko Hasan ke gulshan meiṅ
-  Laiṅ ne kar diya Qasim ki laash ko paamaal
+  La'iṅ ne kar diya Qasim ki laash ko paamaal
   Husain ho gaye sunte hi ye khabar behaal
   Husain apne bhatije ka gham uthaaye hai
   Rida meiṅ laash ke tukroṅ ko jaa ke laaye hai
@@ -25,13 +25,13 @@ romanLyrics: |-
   Phuphi baba chaadar meiṅ kya laaye hai
 
   1
-  Thokareiṅ khaate maqtal se Shaah aate hai
+  Thokareṅ khaate maqtal se Shaah aate hai
   Puchha Zainab se bachchi ne kya laate haiṅ
   Amaama hai baba ka kiuṅ khuṅ meiṅ tar
 
   2
   Aa ke dekha jo khaime meiṅ Shabbir ko
-  Kaaṅpta paaya Zainab dilgir ko
+  Kaanpta paaya Zainab dilgir ko
   Boli Zainab ke daaman ko wo thaam kar
 
   3
@@ -46,18 +46,18 @@ romanLyrics: |-
 
   5
   Sambhaale se ye dil sambhalta nahiṅ
-  Meri aaṅkhoṅ se ye ashk rukta nahiṅ
+  Meri aankhoṅ se ye ashk rukta nahiṅ
   Mujhe bhi to is baat ki ho khabar
 
   6
   Haaye apnoṅ se kuchh bhi chhupaate nahiṅ
   Ae ammaaṅ ye baba bataate nahiṅ
-  Thak chuki huṅ maiṅ ye baaraha puchh kar
+  Thak chuki huṅ main ye baaraha puchh kar
 
   7
   Kis ka ye jism hai jo ke paamaal hai
   Aap ke haath aur ye jabiṅ laal hai
-  Dekha baba ko to boli wo nauhagar
+  Dekha baba ko to boli wo nauha gar
 
   8
   Sakina ka dekha jo ye haal o zaar
@@ -77,7 +77,7 @@ romanLyrics: |-
   11
   Haaye ye dekhte hi wo ghash kha gayi
   Gir ke mayyat pe Qasim ki kehne lagi
-  Maiṅ hargiz na laauṅ gi ye hoṅtoṅ par
+  Main hargiz na laauṅgi ye hontoṅ par
 
   12
   Shams likh na saka haaye teri fughaaṅ

@@ -1,6 +1,6 @@
 ---
 title: "ہم نہ بھولیں گے ہم نہ بھولیں گے"
-alternateTitle: "Karbala Na Bhoolenge"
+alternateTitle: "Karbala Na Bhuleṅ Ge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,63 +10,63 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hum na bhoolenge hum na bhoolenge
+  Hum na bhuleṅ ge hum na bhuleṅ ge
 
   1
-  Karbala na bhoolenge karbala na bhoolenge
+  Karbala na bhuleṅ ge Karbala na bhuleṅ ge
   Rehbaroṅ ki sar zamiṅ hai ambiya ki rehguzar
-  Mehwe sajda hai yahiṅ par khaana-e-kaaba ka sar
-  Sab ko milta hai yahaṅ se khuld ka zaad-e-safar
+  Mahv-e-sajda hai yahiṅ par khaana-e-Kaaba ka sar
+  Sab ko milta hai yahaaṅ se khuld ka zaad-e-safar
 
   2
-  Yaad baaqi hai khuda ki karbala ki yaad se
-  Dhum hai salle alaa ki karbala ki yaad se
-  Saans chalti hai wafa ki karbala ki yaad se
+  Yaad baaqi hai Khuda ki Karbala ki yaad se
+  Dhum hai sall-e-alaa ki Karbala ki yaad se
+  Saans chalti hai wafa ki Karbala ki yaad se
 
   3
-  Saaf go bebaak hai karte hai ye waada Husain
-  Gham hai sine chaak hai karte hai ye waada Husain
-  Jin ke shajre paak hai karte hai ye waada Husain
+  Saaf go bebaak haiṅ karte haiṅ ye waada Husain
+  Gham hai sine chaak haiṅ karte haiṅ ye waada Husain
+  Jin ke shajre paak haiṅ karte haiṅ ye waada Husain
 
   4
-  Saari dunya ko sunayenge bayan-e-karbala
-  Apne sino par likhenge daastan-e-karbala
-  Hum kabhi jhukne nahi deṅge nishan-e-karbala
+  Saari duniya ko sunaaeṅ ge bayaan-e-Karbala
+  Apne sinoṅ par likheṅ ge daastaan-e-Karbala
+  Hum kabhi jhukne nahiṅ deṅ ge nishaan-e-Karbala
 
   5
-  Apni jaaneiṅ nazr kar deṅge shahadat ke liye
-  Dher sajdoṅ ka laga deṅge hifazat ke liye
-  Sar ke bal aayeṅge hum iski ziyarat ke liye
+  Apni jaaneṅ nazr kar deṅ ge shahaadat ke liye
+  Dher sajdoṅ ka laga deṅ ge hifaazat ke liye
+  Sar ke bal aaeṅ ge hum is ki ziyaarat ke liye
 
   6
-  Karbala to qasre laa ilaah ki bunyad hai
-  Sayyed-e-sajjad ka khutba to hum ko yaad hai
-  Matami sino meiṅ ab bhi karbala aabad hai
+  Karbala to qasr-e-laa ilaah ki bunyaad hai
+  Sayyed-e-Sajjaad ka khutba to hum ko yaad hai
+  Maatami sinoṅ meiṅ ab bhi Karbala aabaad hai
 
   7
-  Khuṅ se iska naam likh deṅge har ek manzar meiṅ hum
-  Farsh matam ka bicha deṅge zamane bhar meiṅ hum
-  Phir azakhana sajayenge khuda ke ghar meiṅ hum
+  Khuṅ se is ka naam likh deṅ ge har ik manzar meiṅ hum
+  Farsh maatam ka bichha deṅ ge zamaane bhar meiṅ hum
+  Phir azaakhaana sajaaeṅ ge Khuda ke ghar meiṅ hum
 
   8
-  Khun meiṅ dube huwe pyasoṅ ke laashe yaad hai
-  Sehme sehme tashnalab masum bacche yaad hai
-  Dasht meiṅ jalte huwe veeran qaime yaad hai
+  Khun meiṅ dube hue pyaasoṅ ke laashe yaad haiṅ
+  Sehme sehme tashna lab maasum bachche yaad haiṅ
+  Dasht meiṅ jalte hue viraan khaime yaad haiṅ
 
   9
-  Aa rahi thi al-atash ki jo sadayeiṅ yaad hai
-  Chin gayi thi jo saroṅ se wo ridayeiṅ yaad hai
-  Jo rasan basta thi wo majbur maayeiṅ yaad hai
+  Aa rahi thiṅ al-atash ki jo sadaaeṅ yaad haiṅ
+  Chhin gaiṅ thiṅ jo saroṅ se wo ridaaeṅ yaad haiṅ
+  Jo rasan basta thiṅ wo majbur maaeṅ yaad haiṅ
 
   10
-  Karbala ae karbala ae karbala ae karbala
-  Hashr tak chalta rahega ye hussaini khaafila
-  Sun rahe hai aaj bhi hum log hal min ki sada
+  Karbala ae Karbala ae Karbala ae Karbala
+  Hashr tak chalta rahega ye Husaini qaafila
+  Sun rahe haiṅ aaj bhi hum log hal min ki sada
 
   11
-  Al-madad ae gohar-e-haq al-madad shaah-e-najaf
-  Saaye meiṅ aake alam ke hum uthaate hai halaf
-  Raaste sab mor deṅge karbala teri taraf
+  Al-madad ae Gohar-e-Haq al-madad Shaah-e-Najaf
+  Saaye meiṅ aa ke alam ke hum uthaate haiṅ halaf
+  Raaste sab mor deṅ ge Karbala teri taraf
 ---
 
 ہم نہ بھولیں گے ہم نہ بھولیں گے

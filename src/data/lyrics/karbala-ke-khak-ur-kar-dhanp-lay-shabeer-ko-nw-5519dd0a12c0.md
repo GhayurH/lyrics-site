@@ -1,38 +1,78 @@
 ---
-title: "Karbala Ke Khak Ur Kar Dhanp Lay Shabeer Ko"
+title: "کربلا کی خاک اڑ کر ڈھانپ لے شبیر کو"
+alternateTitle: "Karbala Ke Khak Ur Kar Dhanp Lay Shabeer Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala ke khak ur kar dhanp lay Shabeer ko
+
+  Bay kafan bhai nazar na aye ab hamsheer ko
+
+  1
+  Nahar pe Abbas ko jab ja ke Fizza ne kaha
+  Kar rahay pamaal lashaa haen wo taeray bhai ka
+  Do katay bazu lagay thay dhondnay shamsheer ko
+
+  2
+  Jab khabar aye ke Ghazi run main hain maray gaye
+  Baal khollay Sayeda ne or zameen par baith ke
+  Choom kar hasrat say daikha chadar-e-Tatheer ko
+
+  3
+  Aik bachi phool see ko neend thee aye hoi
+  Sonay ko baba ke seenay par jaga koi naa thi
+  Nanhay hathon say lagi woh khaenchnay har teer ko
+
+  4
+  Asmaan ko daikh kar shah ro ke ye kahtay rahay
+  Maar kar Akbar ko barchi seenay ke tukray kye
+  Mara ummat nay hay nana kyon tairi tasveer ko
+
+  5
+  Waqt-e-rukhsat shah bahan ko daikh kar kahnay lagay
+  Lo sambhalo ab qayadat haen safar ab Sham ke
+  Tha yahi manzoor bahna katab-e-taqdeer ko
+
+  6
+  Meelon main phaela tha maqtal or akaelay thay Hussain
+  Haye mazlooma ke gonjay us ghari khaemon main waeeen
+  Dafan jab Saqlain kar ke shaah uthay bay sheer ko
 ---
 
-Karbala Ke Khak Ur Kar Dhanp Lay Shabeer Ko
+کربلا کی خاک اڑ کر ڈھانپ لے شبیر کو
 
-Bay Kafan Bhai Nazar Na Aye Ab Hamsheer Ko
+بے کفن بھائی نظر نہ آئے اب ہمشیر کو
 
-Nahar Pe Abbas Ko Jab Ja Ke Fizza Ne Kaha
-Kar Rahay Pamaal Lashaa Haen Wo Taeray Bhai Ka
-Do Katay Bazu Lagay Thay Dhondnay Shamsheer Ko
+۱
+نہر پہ عباس کو جب جا کے فضہ نے کہا
+کر رہے پامال لاشہ ہیں وہ تیرے بھائی کا
+دو کٹے بازو لگے تھے ڈھونڈنے شمشیر کو
 
-Jab Khabar Aye Ke Ghazi Run Main Hain Maray Gaye
-Baal Khollay Sayeda Ne Or Zameen Par Baith Ke
-Choom Kar Hasrat Say Daikha Chadar-e-Tatheer Ko
+۲
+جب خبر آئی کہ غازی رن میں ہیں مارے گئے
+بال کھولے سیدہ نے اور زمین پر بیٹھ کے
+چوم کر حسرت سے دیکھا چادرِ تطہیر کو
 
-Aik Bachi Phool See Ko Neend Thee Aye Hoi
-Sonay Ko Baba Ke Seenay Par Jaga Koi Naa Thi
-Nanhay Hathon Say Lagi Woh Khaenchnay Har Teer Ko
+۳
+ایک بچی پھول سی کو نیند تھی آئی ہوئی
+سونے کو بابا کے سینے پر جگہ کوئی نہ تھی
+ننھے ہاتھوں سے لگی وہ کھینچنے ہر تیر کو
 
-Asmaan Ko Daikh Kar Shah Ro Ke Ye Kahtay Rahay
-Maar Kar Akbar Ko Barchi Seenay Ke Tukray Kye
-Mara Ummat Nay Hay Nana Kyon Tairi Tasveer Ko
+۴
+آسمان کو دیکھ کر شاہ رو کے یہ کہتے رہے
+مار کر اکبر کو برچھی سینے کے ٹکڑے کیے
+مارا امت نے ہے نانا کیوں تیری تصویر کو
 
-Waqt-e-Rukhsat Shah Bahan Ko Daikh Kar Kahnay Lagay
-Lo Sambhalo Ab Qayadat Haen Safar Ab Sham Ke
-Tha Yahi Manzoor Bahna Katab-e-Taqdeer Ko
+۵
+وقتِ رخصت شاہ بہن کو دیکھ کر کہنے لگے
+لو سنبھالو اب قیادت ہیں سفر اب شام کے
+تھا یہی منظور بہنا کاتبِ تقدیر کو
 
-Meelon Main Phaela Tha Maqtal Or Akaelay Thay Hussain
-Haye Mazlooma Ke Gonjay Us Ghari Khaemon Main Waeeen
-Dafan Jab Saqlain Kar Ke Shaah Uthay Bay Sheer Ko
+۶
+میلوں میں پھیلا تھا مقتل اور اکیلے تھے حسین
+ہائے مظلوما کے گونجے اس گھڑی خیموں میں وائیں
+دفن جب ثقلین کر کے شاہ اٹھے بے شیر کو

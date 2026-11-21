@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae momino jab majlise shabbir meiṅ aana
-  Bachoṅ ka tumhe waasta ye bhul na jaana
-  Ye soch ke ji khol ke tum ashq bahana
-  Majlis jahaṅ hogi wahaṅ aati hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Pyasi hai sakina haye pyasi hai sakina
-  Allah kare aaye kabhi aisa zamana
-  Ho shaam ke zindan ki taraf aap ka jaana
-  Phat jayega dil dekh ke wo gham ka thikana
-  Behaal hui qabr meiṅ soti hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Yuṅ jaanibe darya gaye abbase dilawar
-  Aur darya se mashqeeza bhara ba-dile muztar
+  Ae mominoṅ jab majlis-e Shabbir meiṅ aana
+  Bachchoṅ ka tumheṅ waasta ye bhul na jaana
+  Ye soch ke ji khol ke tum ashk bahaana
+  Majlis jahaaṅ hogi wahaaṅ aatiṅ haiṅ Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Pyaasi haiṅ Sakina haaye pyaasi haiṅ Sakina
+  Allah kare aaye kabhi aisa zamaana
+  Ho Shaam ke zindaan ki taraf aap ka jaana
+  Phat jaayega dil dekh ke wo gham ka thikaana
+  Behaal hui qabr meiṅ soti hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Yuṅ jaanib-e darya gaye Abbas-e-Dilawar
+  Aur darya se mashkiza bhara ba-dil-e muztar
   Darya ki har ek mauj ye kehti thi tarap kar
-  Hai tisra din haaye tarapti hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Shaam aagayi jab chaane laga ban meiṅ andhera
+  Hai tisra din haaye tarapti hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Shaam aa gayi jab chhaane laga ban meiṅ andhera
   Zainab ne kiya bhai ke laashe pe ye nauha
-  Kya tumne sakina ko kahiṅ dekha hai bhaiya
-  Ek kooza liye dasht meiṅ aayi hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Jab gyara moharram ko suye shaam sidhari
-  Darya ki taraf dekh ke zainab ye pukari
-  Abbas na mar jaye bhatiji ye tumhari
-  Behaal meri godh meiṅ soti hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Is tarha sitam dhaate hai ab zulm ke baani
-  Laakar ye bhare kuze baha dete hai pani
-  Kuch aur bhi bad jaati hai yuṅ tashna dahani
-  Bhai ki taraf dekh ke roti hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Aansu abhi bachi ke nahi paaye the thamne
-  Phir maar diya durra kisi ehle sitam ne
+  Kya tum ne Sakina ko kahiṅ dekha hai bhaiya
+  Ek kuza liye dasht meiṅ aayi hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Jab gyaarah Muharram ko su-e-Shaam sidhaari
+  Darya ki taraf dekh ke Zainab ye pukaari
+  Abbas na mar jaaye bhatiji ye tumhaari
+  Behaal meri god meiṅ soti hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Is tarah sitam dhaate haiṅ ab zulm ke baani
+  Laakar ye bhare kuze baha dete haiṅ paani
+  Kuchh aur bhi barh jaati hai yuṅ tashna dahaani
+  Bhai ki taraf dekh ke roti hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Aansu abhi bachchi ke nahiṅ paaye the thamne
+  Phir maar diya durra kisi ahl-e sitam ne
   Sajjad ko har gaam rulaaya isi gham ne
-  Is umr meiṅ ye sakhtiyaṅ sehti hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Durro ki aziyat se tarapti hai hazeena
-  Dukhta hai badan siskiyaṅ leti hai sakina
-  Sone ke liye paas nahi baba ka seena
-  Ek kone meiṅ sehmi hui baithi hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Ye zulm bhi kamsin pe sitamgaaro ne dhaaya
-  Rakha hai use qaid wahaṅ par yak o tanha
-  Rehta hai jahaṅ din meiṅ qayamat ka andhera
-  Darr darr ke na mar jaaye akeli hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
-  Kehta hai suno haatoṅ ko jore huwe gowhar
+  Is umr meiṅ ye sakhtiyaaṅ sehti haiṅ Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Durroṅ ki aziyat se tarapti hai hazina
+  Dukhta hai badan siskiyaaṅ leti hai Sakina
+  Sone ke liye paas nahiṅ baba ka sina
+  Ek kone meiṅ sehmi hui baithi hai Sakina
+  Paani na mila aaj bhi pyaasi hai Sakina
+  Ye zulm bhi kamsin pe sitamgaaroṅ ne dhaaya
+  Rakha hai use qaid wahaaṅ par yaka o tanha
+  Rehta hai jahaaṅ din meiṅ qayaamat ka andhera
+  Dar dar ke na mar jaaye akeli hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
+  Kehta hai suno haathoṅ ko jore hue Gohar
   Aaj aise bahe aankhoṅ se ashkoṅ ka samandar
-  Ye kehti huwi jaaye na shabbir ki dukhtar
-  Lab khushk zabaṅ sukhi hai roti hai sakina
-  Pani na mila aaj bhi pyasi hai sakina
+  Ye kehti hui jaaye na Shabbir ki dukhtar
+  Lab khushk zabaaṅ sukhi hai roti hai Sakina
+  Paani na mila aaj bhi pyaasi haiṅ Sakina
 ---
 
 ۱

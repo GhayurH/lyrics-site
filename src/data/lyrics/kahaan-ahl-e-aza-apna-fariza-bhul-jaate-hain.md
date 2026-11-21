@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Maiṅ un ko haafiz-e-Quraan kaise maan luṅ waaiz
-  Jo Quraan yaad kar ke ba ka nuqta bhul jaate haiṅ
+  Jo Quraan yaad kar ke be ka nuqta bhul jaate haiṅ
 
   2
   Inheiṅ waise Rasul Allah ki baateiṅ to azbar haiṅ
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Shujaat ki ye auroṅ ka qasida parhte rehte haiṅ
-  Ali Asghar ke haṅsne ka saliqa bhul jaate haiṅ
+  Ali Asghar ke hansne ka saliqa bhul jaate haiṅ
 
   5
   Ye kaise kaarwaaṅ haiṅ jo Madine tak to jaate haiṅ

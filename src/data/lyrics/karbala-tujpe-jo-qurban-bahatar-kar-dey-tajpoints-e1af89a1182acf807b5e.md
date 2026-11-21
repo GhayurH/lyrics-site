@@ -1,44 +1,78 @@
 ---
-title: "Karbala Tujpe Jo Qurban Bahatar Kar Dey"
+title: "کربلا تجھ پہ جو قربان بہتر کر دے"
+alternateTitle: "Karbala Tujpe Jo Qurban Bahatar Kar Dey"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Adil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala tujpe jo qurban bahatar kar dey
+  Zaat-e-Shabir hai jo tujh ko ujagar kar dey
+
+  1
+  Mangti khon hai nabiyon se bhi dharti teri
+  Wohi sabir hai jo beton ko nichawar kar dey
+  Kar dua aaye woh Shabir tere sehra mein
+  Khon-e-Sheh rag se jo yeh dasht moattar kar dey
+
+  2
+  Zakhm tu dekhna chahe jo kissi barchi ka
+  Pal mein hazir woh tujhe seena-e-Akbar kar dey
+  Behar-e-Takmeel-e-Ibadat hai woh Shabir sakhi
+  Jhukay sajday mein tu phir sajda-e-aakhir kar dey
+
+  3
+  Maut Islam ki Hurmal ka agar teer bane
+  Deen bachane ke liye samne Asghar kar dey
+  Arsh ke bad faqat tu hi mualla ho ga
+  Lal Zahra ka tera aisa muqaddar kar dey
+
+  4
+  Bebasi teri nigahein jo kisi ko mangein
+  Apna majboor woh Abbas buhaddar kar dey
+  Mansab-e-Ghairat-e-Uzam bhi atta oss ko kare
+  Naam-e-Sajjad likhe our musafir kar dey
+
+  5
+  Kitni mazboot balagat hai sar-e-naiza bhi
+  Junbash-e-Lab se jo Zainab ko bhi Haider kar dey
+  Shah-e-Karbal tere dar se hi atta ho noha
+  Likhe Adil our had parhne ki Ansar kar dey
 ---
 
-Karbala Tujpe Jo Qurban Bahatar Kar Dey.
-Zaat-e-Shabir Hai Jo Tujh Ko Ujagar Kar Dey.
+کربلا تجھ پہ جو قربان بہتر کر دے
+ذاتِ شبیر ہے جو تجھ کو اجاگر کر دے
 
-1
-Mangti Khon Hai Nabiyon Se Bhi Dharti Teri.
-Wohi Sabir Hai Jo Beton Ko Nichawar Kar Dey.
-Kar Dua Aaye Woh Shabir Tere Sehra Mein.
-Khon-e-Sheh Rag Se Jo Yeh Dasht Moattar Kar Dey.
+۱
+مانگتی خوں ہے نبیوں سے بھی دھرتی تیری
+وہی صابر ہے جو بیٹوں کو نچھاور کر دے
+کر دعا آئے وہ شبیر تیرے صحرا میں
+خونِ شہ رگ سے جو یہ دشت معطر کر دے
 
-2
-Zakhm Tu Dekhna Chahe Jo Kissi Barchi Ka.
-Pal Mein Hazir Woh Tujhe Seena-e-Akbar Kar Dey.
-Behar-e-Takmeel-e-Ibadat Hai Woh Shabir Sakhi.
-Jhukay Sajday Mein Tu Phir Sajda-e-Aakhir Kar Dey.
+۲
+زخم تو دیکھنا چاہے جو کسی برچھی کا
+پل میں حاضر وہ تجھے سینۂ اکبر کر دے
+بہرِ تکمیلِ عبادت ہے وہ شبیر سخی
+جھکے سجدے میں تو پھر سجدۂ آخر کر دے
 
-3
-Maut Islam Ki Hurmal Ka Agar Teer Bane.
-Deen Bachane Ke Liye Samne Asghar Kar Dey.
-Arsh Ke Bad Faqat Tu Hi Mualla Ho Ga.
-Lal Zahra Ka Tera Aisa Muqaddar Kar Dey.
+۳
+موت اسلام کی حرمل کا اگر تیر بنے
+دین بچانے کے لیے سامنے اصغر کر دے
+عرش کے بعد فقط تو ہی معلّیٰ ہو گا
+لال زہرا کا تیرا ایسا مقدر کر دے
 
-4
-Bebasi Teri Nigahein Jo Kisi Ko Mangein.
-Apna Majboor Woh Abbas Buhaddar Kar Dey.
-Mansab-e-Ghairat-e-Uzam Bhi Atta Oss Ko Kare.
-Naam-e-Sajjad Likhe Our Musafir Kar Dey.
+۴
+بے بسی تیری نگاہیں جو کسی کو مانگیں
+اپنا مجبور وہ عباس بہادر کر دے
+منصبِ غیرتِ عظم بھی عطا اس کو کرے
+نامِ سجاد لکھے اور مسافر کر دے
 
-5
-Kitni Mazboot Balagat Hai Sar-e-Naiza Bhi.
-Junbash-e-Lab Se Jo Zainab Ko Bhi Haider Kar Dey.
-Shah-e-Karbal Tere Dar Se Hi Atta Ho Noha.
-Likhe Adil Our Had Parhne Ki Ansar Kar Dey.
+۵
+کتنی مضبوط بلاغت ہے سرِ نیزہ بھی
+جنبشِ لب سے جو زینب کو بھی حیدر کر دے
+شاہِ کربل تیرے در سے ہی عطا ہو نوحہ
+لکھے عادل اور حد پڑھنے کی انصار کر دے

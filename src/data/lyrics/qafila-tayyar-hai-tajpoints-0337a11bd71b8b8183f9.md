@@ -1,29 +1,47 @@
 ---
-title: "Qafila Tayyar Hai"
+title: "قافلہ تیار ہے"
+alternateTitle: "Qafila Tayyar Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qafila teyar hai Akbar ka jane ke liye
+  Hai bichar jane ka dukh Sughra uthane ke liye
+  Banhein bhai ke galay mein daal kar boli behan
+  Lainay aao gaye mujhe sehra bandhaney ke liye
+
+  2
+  Chor kar Sughra ko sare bhai behnein le gaye
+  Kaisay kaisay dukh hain Sughra ko rulanay ke liye
+  Jane kis dil se diya Asghar ko Sughra ne unhein
+  Aaye jab Shabeer Asghar ko uthane ke liye
+
+  3
+  Youn miley Shabeer Sughra se keh jaisay kehte hoon
+  Jana hai beti mujhe wapis na aane ke liye
+  Ho gaya veeran Zahra ka bhara ghar our Asad
+  Reh gayi Sughra diye tanha jalanay ke liye
 ---
 
-1
-Qafila Teyar Hai Akbar Ka Jane Ke Liye.
-Hai Bichar Jane Ka Dukh Sughra Uthane Ke Liye.
-Banhein Bhai Ke Galay Mein Daal Kar Boli Behan.
-Lainay Aao Gaye Mujhe Sehra Bandhaney Ke Liye.
+۱
+قافلہ تیار ہے اکبر کا جانے کے لیے
+ہے بچھڑ جانے کا دکھ صغریٰ اٹھانے کے لیے
+بانہیں بھائی کے گلے میں ڈال کر بولی بہن
+لینے آؤ گے مجھے سہرا بندھانے کے لیے
 
-2
-Chor Kar Sughra Ko Sare Bhai Behnein Le Gaye.
-Kaisay Kaisay Dukh Hain Sughra Ko Rulanay Ke Liye.
-Jane Kis Dil Se Diya Asghar Ko Sughra Ne Unhein.
-Aaye Jab Shabeer Asghar Ko Uthane Ke Liye.
+۲
+چھوڑ کر صغریٰ کو سارے بھائی بہنیں لے گئے
+کیسے کیسے دکھ ہیں صغریٰ کو رلانے کے لیے
+جانے کس دل سے دیا اصغر کو صغریٰ نے انہیں
+آئے جب شبیر اصغر کو اٹھانے کے لیے
 
-3
-Youn Miley Shabeer Sughra Se Keh Jaisay Kehte Hoon.
-Jana Hai Beti Mujhe Wapis Na Aane Ke Liye.
-Ho Gaya Veeran Zahra Ka Bhara Ghar Our Asad.
-Reh Gayi Sughra Diye Tanha Jalanay Ke Liye.
+۳
+یوں ملے شبیر صغریٰ سے کہ جیسے کہتے ہوں
+جانا ہے بیٹی مجھے واپس نہ آنے کے لیے
+ہو گیا ویران زہرا کا بھرا گھر اور اسد
+رہ گئی صغریٰ دیے تنہا جلانے کے لیے

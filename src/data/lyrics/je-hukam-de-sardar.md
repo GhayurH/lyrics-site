@@ -14,32 +14,32 @@ aliases: ["jay-hukam-de-sardar-sundas-batool-lyrics-in-punjabi-2026", "Jay Hukam
 published: true
 romanLyrics: |-
   1
-  Je hukam de sardaar karaṅ ik waar, waar nu lakh tera dewaaṅ maar
-  Jaanrde oh mainu maiṅ kitna dalair aaṅ, sher jo Khuda da ae, maiṅ odha sher aaṅ
-  Hath vi naa laawaaṅ howe sab da murdiyaṅ de wich shumaar
+  Je hukam de sardaar karaṅ ik waar, waar nuṅ lakh tera dewaaṅ maar
+  Jaanrde oh mainuṅ maiṅ kitna dalair aaṅ, sher jo Khuda da ae, maiṅ odha sher aaṅ
+  Hath vi na laawaaṅ howe sab da murdiyaṅ de wich shumaar
 
   2
   Maiṅ wekhaaṅ te maar dewaaṅ, naslaaṅ ujaar dewaaṅ, maiṅ Ali aaṅ
-  Jithe jithe nazar meri jaawe, ohnu agla saah fair na aawe
-  Ghaazi rain de mainu Haider banaa naa, baar baar nu lakh tuṅ mainu sunaa naa
+  Jithe jithe nazar meri jaawe, ohnuṅ agla saah fer na aawe
+  Ghaazi rain de mainuṅ Haider banaa na, baar baar nuṅ lakh tuṅ mainuṅ sunaa na
   Ghore de summaaṅ che rol dewaaṅ tukre kar ke chaar chaar
 
   3
-  Maiṅ mati udaa ke maaraaṅ, paani bola ke maaraaṅ, maiṅ khaamosh aaṅ
-  Karaaṅ maiṅ ishaare arshaaṅ tauṅ digan taare, te mar jo gae saare
-  Jag te sun lo maiṅ Murtaza di shabih aaṅ, Ghaazi mainu samjho na maiṅ te Ali aaṅ
-  Suraj apne hath che le ke chaawaaṅ sab nu dewaaṅ saar
+  Maiṅ mitti udaa ke maaraaṅ, paani bola ke maaraaṅ, maiṅ khaamosh aaṅ
+  Karaaṅ maiṅ ishaare arshaaṅ toṅ digan taare, te mar jo gae saare
+  Jag te sun lo maiṅ Murtaza di shabih aaṅ, Ghaazi mainuṅ samjho na maiṅ te Ali aaṅ
+  Suraj apne hath che le ke chaawaaṅ sab nuṅ dewaaṅ saar
 
   4
   Husaini saalaar maiṅ aaṅ, sun le jarraar maiṅ aaṅ, je laraaṅ maiṅ
   Laran te aawaaṅ waar kar ke hawa wich maiṅ sar sab uraawaaṅ
-  Hukam mainu Akbar de baabe da howe, mere saamne aj na koi khalowe
-  Ik ik nu maiṅ maar dewaaṅ zinda kar ke nu nu waar
+  Hukam mainuṅ Akbar de baabe da howe, mere saamne aj na koi khalowe
+  Ik ik nuṅ maiṅ maar dewaaṅ zinda kar ke nuṅ nuṅ waar
 
   5
   Qaza mere hath de wich ae, jaza mere hath de wich ae, maiṅ Abbas aaṅ
-  Zindagi te maut waale fan mainu baabe Ali ne sikhaae
-  Nur-e-Mustafa jo maiṅ ohda garur aaṅ, maut dur utni je jitni maiṅ dur aaṅ
+  Zindagi te maut waale fan mainuṅ baabe Ali ne sikhaae
+  Nur-e-Mustafa jo maiṅ ohda ghurur aaṅ, maut dur utni je jitni maiṅ dur aaṅ
   Aaj zindagi aaṅ maut dewaaṅ mere hath che ikhtiyaar
 ---
 

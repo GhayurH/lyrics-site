@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shabe ashur qaima-e-kulsum se aati thi sada
-  Haye haye mai bhi zainab ki tarha
+  Shab-e-Aashur khaima-e-Kulsum se aati thi sada
+  Haaye haaye haaye maiṅ bhi Zainab ki tarah
   Bhai ka deti sadqa kaash mera koi beta hota
-  Shabe ashur tha kulsum ke lab par noha
+  Shab-e-Aashur tha Kulsum ke lab par nauha
   Kaash mera koi beta hota
-  Saath pardes meiṅ bhai ka barabar deti
-  Sheh ke baysheer pe qurban use kar deti
-  Dil meiṅ hasrat hi rahi aun o mohamed jaisa
+  Saath pardes meiṅ bhai ka baraabar deti
+  Shah ke beshir pe qurbaan use kar deti
+  Dil meiṅ hasrat hi rahi Aun o Muhammad jaisa
   Kaash mera koi beta hota
-  Shabe ashur tha kulsum…
-  Daagh bete ki judaai ka utha leti behen
-  Apne bhai ki nishani ko bacha leti behen
-  Sheh ke akbar ki jagah sine pe khaata naiza
+  Shab-e-Aashur tha Kulsum...
+  Daagh bete ki judaai ka utha leti bahen
+  Apne bhai ki nishaani ko bacha leti bahen
+  Shah ke Akbar ki jagah sine pe khaata neza
   Kaash mera koi beta hota
-  Shabe ashur tha kulsum…
+  Shab-e-Aashur tha Kulsum...
   Haath ho jaate qalam ran meiṅ mere bete ke
-  Sare khuṅ apna baha deta wo pani ke liye
-  Leke ghazi se reza usko banati saqqa
+  Sar-e-khuṅ apna baha deta woh paani ke liye
+  Le ke Ghazi se raza us ko banaati saqqa
   Kaash mera koi beta hota
-  Shabe ashur tha kulsum…
-  Saath shabbir ke jis tarha hai ghazi ki wafa
-  Wo bhi aaqa ko kabhi apne na zehmat deta
-  Saath sajjad ka har mor pe deta wo sada
+  Shab-e-Aashur tha Kulsum...
+  Saath Shabbir ke jis tarah hai Ghazi ki wafa
+  Woh bhi aaqa ko kabhi apne na zahmat deta
+  Saath Sajjad ka har mor pe deta woh sada
   Kaash mera koi beta hota
-  Shabe ashur tha kulsum…
-  Kehti shabbir se zehmat na uthao bhai
+  Shab-e-Aashur tha Kulsum...
+  Kehti Shabbir se zahmat na uthao bhai
   Ghar meiṅ sadaat ke sadqe ko na lao bhai
-  Uska qaimon my kabhi aane na deti laasha
+  Us ka khaimoṅ meiṅ kabhi aane na deti laasha
   Kaash mera koi beta hota
-  Shabe ashur tha kulsum…
-  Jab sune bain takallum to ye ghazi ne kaha
-  Kal ye abbas fida teri taraf se hoga
-  Tujhko baba ki qasam ab nahi dena ye sada
+  Shab-e-Aashur tha Kulsum...
+  Jab sune bain ye Takallum to ye Ghazi ne kaha
+  Kal ye Abbas fida teri taraf se ho ga
+  Tujh ko baba ki qasam ab nahiṅ dena ye sada
   Kaash mera koi beta hota
-  Shabe ashur tha kulsum…
+  Shab-e-Aashur tha Kulsum...
 ---
 
 ۱

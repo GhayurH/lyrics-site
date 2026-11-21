@@ -20,19 +20,19 @@ romanLyrics: |-
   Baap ki zulfoṅ meiṅ jab dast-e-sitamgar dekha
 
   2
-  Zulm to ye hai ke qatl karne se pehle usne
-  Maar kar beti ko Shabbir ko haṅs kar dekha
+  Zulm to ye tha qatl karne se pehle us ne
+  Maar kar beti ko Shabbir ko hans kar dekha
 
   3
   Terah zarboṅ se ziyaada Husain tarpe jab
   Shimr ke zulm se nila rukh-e-dukhtar dekha
 
   4
-  Pehli zarbat se jo aaya tha Shah ki shah-rag par
+  Pehli zarbat se jo aaya tha Shah ki shah rag par
   Zakhm wo pehla Sakina ke jigar par dekha
 
   5
-  Rok le haath to shayad wo na phir waar kare
+  Rok le haath ko shayad wo na phir waar kare
   Shah ki gardan pe gala beti ne rakh kar dekha
 
   6
@@ -40,11 +40,11 @@ romanLyrics: |-
   Chhalni tiroṅ se Sakina ne wo bistar dekha
 
   7
-  Dur tak Bibi ne dauraai thi apni nazreṅ
+  Dur tak Bibi ne dauraai thiṅ apni nazreṅ
   Na kahiṅ Ghaazi nazar aaye na Akbar dekha
 
   8
-  Baap par chalti hui dekhi jo zarbeṅ Mohsin
+  Baap par chalti huiṅ dekhiṅ jo zarbeṅ Mohsin
   Ek maasuma ne Karbal meiṅ yuṅ mahshar dekha
 ---
 چند قدموں سے سکینہ نے یہ منظر دیکھا

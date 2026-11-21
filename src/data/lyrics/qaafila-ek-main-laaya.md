@@ -1,7 +1,7 @@
 ---
 title: "اے زینب میری بہنا"
 recitationId: "khaafila-ek-mai-laaya"
-alternateTitle: "Qaafila Ek Maiṅ Laaya"
+alternateTitle: "Qaafila Ek Main Laaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,10 +13,10 @@ aliases: ["Khaafila Ek Mai Laaya"]
 published: true
 romanLyrics: |-
   Ae Zainab meri behna
-  Qaafila ek maiṅ laaya tha
+  Qaafila ik main laaya tha
 
   1
-  Qaafila ek le ja Zainab
+  Qaafila ik le ja Zainab
   Raasta mushkil hai to kya
   Naad-e-Ali dohra Zainab
 
@@ -37,10 +37,10 @@ romanLyrics: |-
   Naad-e-Ali dohra Zainab
 
   4
-  Aansu poṅchh le daaman se
+  Aansu ponchh le daaman se
   Aaj guzar ja maqtal se
   Meri behan hai tu Zainab
-  Sabr ki manzil te kar le
+  Sabr ki manzil tai kar le
   Laakh mukhaalif ho yeh hawa
   Naad-e-Ali dohra Zainab
 
@@ -54,9 +54,9 @@ romanLyrics: |-
 
   6
   Nauha jo Rehaan likha
-  Sarwar ke lehje meiṅ dhala
-  Karbobala se aayi sada
-  Kehte haiṅ jaise Shaah-e-Huda
+  Sarwar ke lehje mein dhala
+  Karb o Bala se aayi sada
+  Kehte haiṅ yeh Shaah-e-Huda
   Gham na kar meri behna
   Naad-e-Ali dohra Zainab
 ---

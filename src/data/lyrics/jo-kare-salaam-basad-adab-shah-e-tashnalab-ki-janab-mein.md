@@ -8,24 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jo karay salam basad adab shah-e-tashna lab ki janab may
-  To ba-roze hashr ajab nahi woh rawan ho sheh ke rakab may
+  Jo kare salaam basad adab shah-e-tashna lab ki janaab meiṅ
+  To ba roz-e-hashr ajab nahiṅ woh rawaaṅ ho shah ke rakaab meiṅ
 
   1
-  Jo Shameem booey Husain thi wo araq may sheh ke thi booey khush
-  Na woh boo hay anbar o mishk may na woh boo hay itr o gulab may
+  Jo shamim bu-e-Husain thi woh araq meiṅ shah ki thi bu-e-khush
+  Na woh bu hai anbar o mishk meiṅ na woh bu hai itr o gulaab meiṅ
 
   2
-  Jo nihal taza ho baagh may usay kat-tay nahi baghban
-  Yeh ajab hay Akbar-e-nojawan hua qatl ain shabab may
+  Jo nihaal taaza ho baagh meiṅ use kaatte nahiṅ baaghbaaṅ
+  Yeh ajab hai Akbar-e-naujawaaṅ hua qatl ain shabaab meiṅ
 
   3
-  Shab-e-qatl chonk ke neend se yeh pukareen Zainab-e-dil hazeen
-  Mujhe haey Husain barehna sar nazar aayin Fatima khawab may
+  Shab-e-qatl chauṅk ke nind se yeh pukaareṅ Zainab-e-dil hazin
+  Mujhe haae Husain barahna sar nazar aa'iṅ Faatima khwaab meiṅ
 
   4
-  Abhi sar ke balon se maa meri io zameen jharr ke kehti theen
-  Na rahay khalish khas o khaar ki meray gul ke bistar e khawab may
+  Abhi sar ke baaloṅ se maaṅ meri yeh zamin jhaar ke kehti thi
+  Na rahe khalish khas o khaar ki mere gul ke bistar-e-khwaab meiṅ
 
   5
   Kabhi Paani laake chidakti thi ye sukhan tha lab pe ke soyega

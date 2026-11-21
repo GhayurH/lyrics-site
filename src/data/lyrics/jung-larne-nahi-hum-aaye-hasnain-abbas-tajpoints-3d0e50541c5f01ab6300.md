@@ -1,34 +1,58 @@
 ---
-title: "Jung Larne Nahi Hum Aaye Hasnain Abbas"
+title: "جنگ لڑنے نہیں ہم آئے حسنین عباس"
+alternateTitle: "Jung Larne Nahi Hum Aaye Hasnain Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jung larne nahi hum aaye Hasnain Abbas
+  Jang larney nahi hum aaye hum deen bananey aaye hain
+  Hai kya haq our kya batil, dunya ko bataney aaye hain
+  Ik ik kar ke rah-e-haq mein hai hum ko shaheed yahan hona
+  Wadah jo kiya tha hum ne hum, wadah woh nibhanay aaye hain
+  Ho jaye juda sar tan se tu hai phir bhi shaheed rehta zindah
+  Nezay pe Quran suna kar hum, tumhein yeh dikhaney aaye hain
+  Laye hain sath Ali Asghar hum kar de ga jo hairaan tujh ko
+  Aye zalim tere iradoon ko, mati mein milaney aaye hain
+  Nahi pyas ka shikwa koi bhi Allah ki raza par razi hain
+  Hum khon se apne Karb-o-Bala, ki pyas bhujaney aaye hain
+  Kar de ga dilon mein roshan jo Deen-e-Ahmad ke charagon ko
+  Uthtey hoye tofano mein hum, woh charag jalanay aaye hain
+  Haq sath hamarey rehta hai our haq ke sath hain hum rehtey
+  Aye zulm-o-jabar ki dewaron, hum tumhein giranay aaye hain
+  Ho jati qayamat barpa our yeh falak zameen par gir jata
+  Kehte na jo Ghazi ko Sarwar hum ghar ko lotaney aaye hain
+  Jab chadrein cheenaney aaye shaqi syedaniyon ne yeh bain kiya
+  Aray Aal-e-Peygamber hain hum tu, pardah sikhlanay aaye hain
+  Hasnain our (naam) Karbal mein kehti thi Hussaini foaj tamam
+  Haq jis ne mitana chaha tha, hum oss ko mitanay aaye hain
 ---
 
-1
-Jung Larne Nahi Hum Aaye Hasnain Abbas
-Jang Larney Nahi Hum Aaye Hum Deen Bananey Aaye Hain.
-Hai Kya Haq Our Kya Batil, Dunya Ko Bataney Aaye Hain.
-Ik Ik Kar Ke Rah-e-Haq Mein Hai Hum Ko Shaheed Yahan Hona.
-Wadah Jo Kiya Tha Hum Ne Hum, Wadah Woh Nibhanay Aaye Hain.
-Ho Jaye Juda Sar Tan Se Tu Hai Phir Bhi Shaheed Rehta Zindah.
-Nezay Pe Quran Suna Kar Hum, Tumhein Yeh Dikhaney Aaye Hain.
-Laye Hain Sath Ali Asghar Hum Kar De Ga Jo Hairaan Tujh Ko.
-Aye Zalim Tere Iradoon Ko, Mati Mein Milaney Aaye Hain.
-Nahi Pyas Ka Shikwa Koi Bhi ALLAH Ki Raza Par Razi Hain.
-Hum Khon Se Apne Karb-o-Bala, Ki Pyas Bhujaney Aaye Hain.
-Kar De Ga Dilon Mein Roshan Jo Deen-e-Ahmad Ke Charagon Ko.
-Uthtey Hoye Tofano Mein Hum, Woh Charag Jalanay Aaye Hain.
-Haq Sath Hamarey Rehta Hai Our Haq Ke Sath Hain Hum Rehtey.
-Aye Zulm-o-Jabar Ki Dewaron, Hum Tumhein Giranay Aaye Hain.
-Ho Jati Qayamat Barpa Our Yeh Falak Zameen Par Gir Jata.
-Kehte Na Jo Ghazi Ko Sarwar Hum Ghar Ko Lotaney Aaye Hain.
-Jab Chadrein Cheenaney Aaye Shaqi Syedaniyon Ne Yeh Bain Kiya.
-Aray Aal-e-Peygamber Hain Hum Tu, Pardah Sikhlanay Aaye Hain.
- Hasnain Our (Naam) Karbal Mein Kehti Thi Hussaini Foaj Tamam.
-Haq Jis Ne Mitana Chaha Tha, Hum Oss Ko Mitanay Aaye Hain.
+۱
+جنگ لڑنے نہیں ہم آئے حسنین عباس
+جنگ لڑنے نہیں ہم آئے ہم دین بنانے آئے ہیں
+ہے کیا حق اور کیا باطل، دنیا کو بتانے آئے ہیں
+اک اک کر کے راہِ حق میں ہے ہم کو شہید یہاں ہونا
+وعدہ جو کیا تھا ہم نے ہم، وعدہ وہ نبھانے آئے ہیں
+ہو جائے جدا سر تن سے تو ہے پھر بھی شہید رہتا زندہ
+نیزے پہ قرآن سنا کر ہم، تمہیں یہ دکھانے آئے ہیں
+لائے ہیں ساتھ علی اصغر ہم کر دے گا جو حیراں تجھ کو
+اے ظالم تیرے ارادوں کو، مٹی میں ملانے آئے ہیں
+نہیں پیاس کا شکوہ کوئی بھی اللہ کی رضا پر راضی ہیں
+ہم خون سے اپنے کرب و بلا، کی پیاس بجھانے آئے ہیں
+کر دے گا دلوں میں روشن جو دینِ احمد کے چراغوں کو
+اٹھتے ہوئے طوفانوں میں ہم، وہ چراغ جلانے آئے ہیں
+حق ساتھ ہمارے رہتا ہے اور حق کے ساتھ ہیں ہم رہتے
+اے ظلم و جبر کی دیواروں، ہم تمہیں گرانے آئے ہیں
+ہو جاتی قیامت برپا اور یہ فلک زمین پر گر جاتا
+کہتے نہ جو غازی کو سرور ہم گھر کو لوٹانے آئے ہیں
+جب چادریں چھیننے آئے شقی سیدانیوں نے یہ بین کیا
+ارے آلِ پیغمبر ہیں ہم تو، پردہ سکھلانے آئے ہیں
+حسنین اور (نام) کربل میں کہتی تھی حسینی فوج تمام
+حق جس نے مٹانا چاہا تھا، ہم اس کو مٹانے آئے ہیں

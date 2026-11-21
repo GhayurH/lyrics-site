@@ -17,22 +17,22 @@ romanLyrics: |-
 
   1
   Bazaahir zakhm to hai sina-e-Akbar meiṅ lekin
-  Haqiqat meiṅ wo neza sina-e-Shah meiṅ gara hai
+  Haqiqat meiṅ wo neza sina-e-Shaah meiṅ gara hai
 
   2
-  Salaam Akbar ka laaya Shah ke baaloṅ meiṅ safedi
-  Gai binaai aankhoṅ meiṅ andhera chhaa gaya hai
+  Salaam Akbar ka laaya Shaah ke baaloṅ meiṅ safedi
+  Gaahe banaahe aankhoṅ meiṅ andhere chhaa gaye haiṅ
 
   3
-  Ulat kar aastin Ya Ali kehte haiṅ Sarwar
+  Ulat kar aastin Ya Ali kehta hai Sarwar
   Ke barchhi khaincha qalb-e-pisar se mojiza hai
 
   4
-  Phuphi aa jaaye na maqtal meiṅ Shaah-e-Din ke pichhe
+  Phuphi na aa jaaye na maqtal meiṅ Shaah-e-Din ke pichhe
   Sakht Akbar ke liye ye marhala hai
 
   5
-  Rache shaadi jo Akbar ki to mujh ko yaad rakhna
+  Rache jo shaadi Akbar ki to mujh ko yaad rakhna
   Madine se kisi bimaar ne khat meiṅ likha hai
 
   6

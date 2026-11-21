@@ -8,40 +8,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab pukari laash par rokar jawaab do
+  Zainab pukaari laash par ro kar jawaab do
 
   1
-  Mazlum Fatima, meri madar jawab do
-  Khaana abhi khilati thi humko mana mana
-  Ab chup ho kyoṅ rasul ki dukhtar jawab do
+  Mazlum Faatima, meri maadar jawaab do
+  Khaana abhi khilaati thi ham ko maana maana
+  Ab chup ho kiuṅ Rasul ki dukhtar jawaab do
 
   2
-  Mera zara bhi rona gawara na tha kabhi
-  Chilla rahi huṅ kabse barabar jawab do
+  Mera zara bhi rona gawaara na tha kabhi
+  Chillaa rahi huṅ kab se baraabar jawaab do
 
   3
-  Sab se siva Husain ko karti thi pyar aap
-  Aate hai sarba-rehna baraadar jawab do
+  Sab se siwa Husain ko karti thi pyaar aap
+  Aate haiṅ sar barahna baraadar jawaab do
 
   4
-  Kya dekhte hi dekhte amma guzar gayi
-  Kyoṅ jald yuṅ ujaar diya ghar jawab do
+  Kya dekhte hi dekhte ammaaṅ guzar gaiṅ
+  Kiuṅ jald yuṅ ujaar diya ghar jawaab do
 
   5
-  Athara saal umr may kya zulm seh gayi
-  Kaisa aaj daste mutahhar jawab do
+  Athaara saal umr meiṅ kya zulm seh gaiṅ
+  Kaisa aaj dast-e-mutahhar jawaab do
 
   6
-  Beti na maano mujko samajlo kaniz hi
-  Khadmo pe aankheiṅ malti hai mustar jawab do
+  Beti na maano mujh ko samajh lo kaniz hi
+  Qadmoṅ pe aaṅkheiṅ malti hai muztar jawaab do
 
   7
-  Sar pit-ti hu khaakh uraati hu dekhiye
-  Lil-laah behre Ahmad o Hyder jawab do
+  Sar pitti ho khaak uraati huṅ dekhiye
+  Lillaah bahr-e-Ahmad o Haidar jawaab do
 
   8
-  Phailaye haat laashaye zehra ne ae nagin
-  Hasnain aaye kehte jo madar jawab do
+  Phailaaye haath laash-e-Zehra ne ae Nagin
+  Hasnain aaye kehte jo maadar jawaab do
 ---
 
 زینبؑ پُکاری لاش پر رو کر جواب دو

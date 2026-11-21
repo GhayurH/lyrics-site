@@ -7,6 +7,22 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qasim, tidi mayyat de tukre chorinde mekuṅ
+  Diṅ lah gaya hai bachra
+
+  1
+  Chunr chunr ke tide tukre hik jaa jorinde mekuṅ
+
+  2
+  Chunr tide tukre medi har pag da pech khul gaye
+  Hath mehndi waale tide Qasim, golinde mekuṅ
+  Qasim, main tekuṅ rovaaṅ ya rovaaṅ bewa dhi kuṅ
+  Maqtal tidi ach bachra, val val lutinde mekuṅ
+  Tekuṅ dekh tukre tukre mataaṅ mar vanje na bachra
+  Tidi dardaaṅ maari maaṅ tuṅ mayyat lukinde mekuṅ
+  Qasim te sar jhuka ke Faisal Husain aakhe
+  Tida khandiya ae janaaza chunr jholi painde mekuṅ
 ---
 
 قا سم تیڈی میت دے ٹکڑے چوڑیندے میکوں

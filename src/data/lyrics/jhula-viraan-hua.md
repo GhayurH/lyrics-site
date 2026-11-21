@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Bund paani ke aiwaz tujh ko mila tir-e-sitam
   Zulm ne baandhe rasan kaise karuṅ tera gham
-  Duṅ maiṅ ab kis ko sada
+  Duṅ main ab kis ko sada
   Mera Asghar na raha
 
   3
@@ -34,13 +34,13 @@ romanLyrics: |-
   Mera Asghar na raha
 
   4
-  Aa jaao aaghosh meiṅ tujh ko maiṅ chhupa luṅ beta
-  Apne baahoṅ meiṅ tujhe jhula jhulaauṅ beta
+  Aa jaao aaghosh meiṅ tujh ko main chhupa luṅ beta
+  Apne baanhoṅ meiṅ tujhe jhula jhulaauṅ beta
   Ye sitam mujh pe hua
   Mera Asghar na raha
 
   5
-  Jab maiṅ jaauṅ gi Madine to kahuṅ kya dilbar
+  Jab main jaauṅ gi Madine to kahuṅ kya dilbar
   Puchhe gar Sughra kahaaṅ hai mera bhaiya Asghar
   Kya kahuṅ us se bhala
   Mera Asghar na raha
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   7
   Waada hai tujh se mera saae meiṅ na baithuṅ gi
-  Gham meiṅ ae laal tere har ghari maiṅ rouṅ gi
+  Gham meiṅ ae laal tere har ghari main rouṅ gi
   Meri jaan tujh pe fida
   Mera Asghar na raha
 
