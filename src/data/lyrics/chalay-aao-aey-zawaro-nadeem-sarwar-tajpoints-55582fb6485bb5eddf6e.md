@@ -5,6 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Rehan Azmi"
+reciter: "Nadeem Sarwar"
 aliases: []
 published: false
 romanLyrics: |-

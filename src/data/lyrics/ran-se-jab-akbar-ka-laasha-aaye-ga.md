@@ -10,35 +10,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Rann se jab Akbar ka laasha aayega
-  Maa se kyukar dil sambhala jaega
+  Maaṅ se kiunkar dil sambhaala jaayega
 
   1
-  Matam e Sarwar rahega barqarar
-  Jo mitata hai wahi mit jaega
+  Maatam-e-Sarwar rahega barqaraar
+  Jo mitaata hai wahi mit jaayega
 
   2
-  Kitne dushman hai gham e Shabbir ke
-  Aik bhi unme na baksha jaega
+  Kitne dushman haiṅ gham-e-Shabbir ke
+  Aik bhi un meiṅ na bakhsha jaayega
 
   3
-  Seena e Akber me barchi dekh kar
-  Baap tab e zabt kyun kar laega
+  Sina-e-Akbar meiṅ barchhi dekh kar
+  Baap taab-e-zabt kiuṅ kar laayega
 
   4
-  Kia khabar thi maa ko bin byaha pisar
-  Chand se sine pe naiza khaega
+  Kya khabar thi maaṅ ko bin byaaha pisar
+  Chaand se sine pe naiza khaayega
 
   5
-  Doobna Akber ka apne khun me
-  Mmr bhar maa ko lahu rulwaega
+  Dubna Akbar ka apne khun meiṅ
+  Mmr bhar maaṅ ko lahu rulwaayega
 
   6
-  Kehti thi bimaar baba aaiye
-  Dil kaha tak hikr ka gham khaega
+  Kehti thi bimaar, baba aaiye
+  Dil kahaaṅ tak hikr ka gham khaayega
 
   7
-  Shamme Zehra jab bujaenge layeen
-  Saare alam me andhera chaega
+  Sham-e-Zehra jab bujhaayeṅ ge layin
+  Saare aalam meiṅ andhera chhaayega
 ---
 
 رن سے جب اکبر کا لاشہ آئے گا

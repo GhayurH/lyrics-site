@@ -1,6 +1,6 @@
 ---
 title: "رہ گئی علیؑ کی بیٹیؑ غم اٹھانے کے لئے"
-alternateTitle: "Reh Gayi Ali Ki Behti Ghum Uthanay Kay Liye"
+alternateTitle: "Reh Gayi Ali Ki Beti Gham Uthaane Ke Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,53 +10,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Reh gayi Ali ki behti ghum uthanay kay liye
+  Reh gayi Ali ki beti gham uthaane ke liye
+  Husain bhi chale gaye haiṅ sar kataane ke liye
 
   1
-  Hussain bhi chalay gaye hain saar katanay kay liye
+  Husain ki nigaah baawafa ko dhundne lagi
+  Qabr chhe mahine waale ki banaane ke liye
 
   2
-  Hussain ki nigah bahwafa ko dhondnay laagi
-  Qabar chay mahenay walay ki bananay kay liye
+  Jalaa diya sabhi chiraagh dasht meiṅ Husain ne
+  Aik beta reh gaya hai Shaam jaane ke liye
 
   3
-  Jala deya sabhi charagh dasht main Hussain nay
-  Aik baita ray gaya hay Shaam janay kay liye
+  Qasim-e-haziṅ ki laash tukre tukre ho gayi
+  Har taraf se dasht-e-Karbala sajaane ke liye
 
   4
-  Qasim hazeen ki laash tukray tukray ho gayi
-  Haar taraf say dasht-e-Karbala sajanay kay liye
+  Lagaayeṅ ge wo aag aaj khaima-e-Husain meiṅ
+  Aaye the jo Fatima ka ghar jalaane ke liye
 
   5
-  Lagaein gay wo aagh aaj khaima-e-Hussain main
-  Aeya tay jo Fatima ka ghaar jalanay kay liye
-
-  6
-  Batool zadiyon kay saar say chadarain bhi cheenli
-  Itnay saray zulm aur isi gharanay kay liye
+  Batul zaadiyoṅ ke sar se chaadreṅ bhi chhin li
+  Itne saare zulm aur isi gharaane ke liye
 ---
 
 رہ گئی علی کی بیٹی غم اٹھانے کے لیے
-
-۱
 حسین بھی چلے گئے ہیں سر کٹانے کے لیے
 
-۲
+۱
 حسین کی نگاہ باوفا کو ڈھونڈنے لگی
 قبر چھ مہینے والے کی بنانے کے لیے
 
-۳
+۲
 جلا دیا سبھی چراغ دشت میں حسین نے
 ایک بیٹا رہ گیا ہے شام جانے کے لیے
 
-۴
+۳
 قاسمِ حزیں کی لاش ٹکڑے ٹکڑے ہو گئی
 ہر طرف سے دشتِ کربلا سجانے کے لیے
 
-۵
+۴
 لگائیں گے وہ آگ آج خیمۂ حسین میں
 آئے تھے جو فاطمہ کا گھر جلانے کے لیے
 
-۶
-بتول زادیوں کے سر سے چادریں بھی چھین لیں
+۵
+بتول زادیوں کے سر سے چادریں بھی چھین لی
 اتنے سارے ظلم اور اسی گھرانے کے لیے

@@ -5,51 +5,52 @@ language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Akbar"
+poet: "Hasnain Akbar"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Kar de Ghazi kar de Maula tu kar de Ghazi karam
-  Kar de Maula kar de Ghazi tu kar de Maula karam
-  Sani nayi aye koi Ghazi teri wafa da
+  Kar de Ghazi kar de Maula tuṅ kar de Ghazi karam
+  Kar de Maula kar de Ghazi tuṅ kar de Maula karam
+  Saani naiṅ ae koi Ghazi teri wafa da
 
   2
-  Dunya nu aynj parhaya tuyoun sabaq wafa da
-  Chokhat te teri sare sar ho gaye ne kham
-  Veraan da wasta e rakh le mera bharam
-  Mangna dua ke Kabay di chat te aawein tu
+  Duniya nuṅ ainj parhaaya tuyoun sabaq wafa da
+  Chaukhat te teri saare sar ho gaye ne kham
+  Viraaṅ da waasta ae rakh le mera bharam
+  Mangna dua ke Kaabe di chhat te aaveṅ tuṅ
 
   3
-  Shan-e-Hussain sab nu fair aa sunawin tu
-  Zakir tu aap howein minber howay haram
-  Aoulad rizq ghurbat dardaan de haal ne
-  Lakhaan sawaliyaan de lakhaan sawal ne
+  Shaan-e-Husain sab nuṅ fer aa sunaaveṅ tuṅ
+  Zaakir tuṅ aap hoveṅ minbar hove haram
+  Aulaad rizq ghurbat dardaaṅ de haal ne
+  Lakkhaaṅ sawaaliyaaṅ de lakkhaaṅ sawaal ne
 
   4
-  Sab da jawab jag te eko tera alam
-  Main naam Syedaan de putraan de jad lawaan
-  Maula Hasan Hussain te Mohsin jadon kehwaan
-  Ghazi da naam leh ke karna waan gal khatam
+  Sab da jawaab jag te ikko tera alam
+  Maiṅ naam Syedaaṅ de putraaṅ de jad lavaaṅ
+  Maula Hasan Husain te Mohsin jadoṅ kehvaaṅ
+  Ghazi da naam le ke karna waaṅ gal khatam
 
   5
-  Aye qibla-e-wafa aye mukhtar-e-do jahan
-  Hai ona fasila Safa Marwa de darmiyaan
-  Jinna aye door Roza-e-Sheh taun tera haram
-  Haider de ikhteyar te fatway lagaway jo
+  Ae qibla-e-wafa ae mukhtaar-e-do-jahaaṅ
+  Hai ona faasila Safa Marwa de darmiyaaṅ
+  Jinna ae dur Roza-e-Sheh toṅ tera haram
+  Haider de ikhtiyaar te fatwe lagaave jo
 
   6
-  Be had di apni aqal nal hadaan barhaway jo
-  Kar de qalam samait tu odhay hathaan nu qalam
-  Tera maqam jag nu Abid dasa gaya
-  Zakir ne jinni wari Abbas aakhiya
+  Be hadd di apni aql naal haddaaṅ barhaave jo
+  Kar de qalam samet tuṅ ohde hathaaṅ nuṅ qalam
+  Tera maqaam jag nuṅ Abid dassa gaya
+  Zaakir ne jinni vaari Abbas aakhiya
 
   7
-  Uthda si Maula Abid har wari Rab qasam
-  Akbar di aarzu aye iss shan naal maraan
-  Main jehray welay Maula sanwaan khatam karan
-  Meri jaben howay howan tere qadam
+  Uthda si Maula Abid har vaari Rab qasam
+  Akbar di aarzu ae is shaan naal maraaṅ
+  Maiṅ jehre vele Maula saanvaaṅ khatam karaaṅ
+  Meri jabiṅ hove hovan tere qadam
 ---
 
 ۱

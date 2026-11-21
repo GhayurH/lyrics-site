@@ -39,13 +39,13 @@ romanLyrics: |-
   Sas veer ilaj karan kera Ghayoor di ais beemari da
 
   6
-  Kahya Zainab khush na ho zalim haye maar kay meray Gahzi nu
+  Kahya Zainab khush na ho zalim haye maar kay meray Ghazi nu
   Rab ne farzand ata keeta meray veeran paak namazi nu
   Akho tay Fazal mera kho lay ay maan teri sardari da
 
   7
   Vich Shaam day rahwan ro ro kay jadon pathran di barsat hoye
-  Tauqeer sina di nouk utay baychain Hussain di zat hoye
+  Tauqeer sina di nouk utay baychain Husain di zat hoye
   Saar katiyan sang tay ron lagiya bay misal Quran day qari da
 ---
 

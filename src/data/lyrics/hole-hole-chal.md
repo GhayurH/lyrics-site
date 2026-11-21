@@ -29,7 +29,7 @@ romanLyrics: |-
   Parhni hai namaaz-e-mazlumi
   Baba tu imaamat karta jaa
   Khud dhup bhi hum pe roti hai
-  Jalta hai musalsal reti ka
+  Jalta hai musalla reti ka
   Main shukr ka sajda kar luṅ ada
 
   2
@@ -106,7 +106,7 @@ romanLyrics: |-
 پڑھنی ہے نماز مظلومی
 بابا تو امامت کرتا جا
 خود دھوپ بھی ہم پہ روتی ہے
-جلتا ہے مسلسل ریتی کا
+جلتا ہے مصلیٰ ریتی کا
 میں شکر کا سجدہ کر لوں ادا
 
 ۲

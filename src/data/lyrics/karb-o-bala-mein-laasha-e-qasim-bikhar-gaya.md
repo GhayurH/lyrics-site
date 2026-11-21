@@ -1,5 +1,6 @@
 ---
-title: "Karbobala Main Masha Ay Qasim Bickar Gaya"
+title: "کرب و بلا میں لاشۂ قاسم بکھر گیا"
+alternateTitle: "Karb o Bala Meiṅ Laasha-e-Qasim Bikhar Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"

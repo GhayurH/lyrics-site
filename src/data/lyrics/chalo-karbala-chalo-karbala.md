@@ -1,146 +1,139 @@
 ---
-title: "چلو کربلا چلو کربلا محمد رضا منگلا"
-alternateTitle: "Chalo Karbala Chalo Karbala Muhammad Raza Mungla"
+title: "چلو کربلا چلو کربلا"
+alternateTitle: "Chalo Karbala Chalo Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Zahra Ali"
 reciter: "Muhammad Raza Mungla"
-nohaVolume: "Muhammad Raza Mungla 2024-25"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Chalo Karbala chalo Karbala Muhammad Raza Mungla
-  Sar pe Ghazi ka alam our maqsood-e-Haram
+  Sar pe Ghazi ka alam aur maqsud-e-haram
+  Su-e-haram barhte raheṅ yuṅ hi qadam
+  Dil meiṅ liye ishq-e-shehanshaah-e-umam
+
+  Chalo Karbala chalo Karbala
+
+  Ae azaadaar-e-Husain Ibn-e-Ali chalo Karbala chalo Karbala
+  Jaanib-e-khuld jo jaata hai woh raasta hai yehi chalo Karbala chalo Karbala
 
   1
-  Soye Haram barhtey rahein youn hi qadam
-  Dil mein liye ishq-e-shehanshah e ummam
-  Chalo Karbala chalo Karbala
-  Aye azadar-e-Hussain ibn-e-Ali chalo Karbala chalo Karbala
+  Saltanat hai mere sardaar ki kuchh aisi hasin
+  Aasmaaṅ khaak ka hai aur wahaaṅ nuri zamin
+  Mojizaati hai fiza khaak hai khaak-e-shifa
+  Sheh ke qadmoṅ se uri dhul dawa har gham ki
 
   2
-  Janib-e-khuld jo jata hai woh rasta hai yehi chalo Karbala chalo Karbala
-  Saltanat hai mere sardar ki kuch aisi haseen
-  Aasmaan khak ka hai our wahan nori zameen
-  Mojzati hai fiza khak hai khak-e-shifa
+  Apne zawwaaroṅ ko bin maange jo karta hai ataa
+  Jis ke gunbad tale rad hoti nahiṅ koi dua
+  Juz Husain Ibn-e-Ali ba Khuda koi nahiṅ
+  Misl-e-Hurr tum ko bana deṅ ge woh qismat ka dhani
 
   3
-  Sheh ke qadmo se orri dhool dawa har gham ki
-  Apne zawwaron ko bin mangay jo karta hai atta
-  Jis ke gunbad talay rad hoti nahi koi dua
-  Juz Hussain ibn-e-Ali ba Khuda koi nahi
+  Qarz le kar chalo waada hai mere Maula ka
+  Apne zaair ko maiṅ maqruz na rehne duṅ ga
+  Hashr meiṅ de ga Khuda tum ko rutba bhi juda
+  Marhaba zaair-e-Shabbir pukaareṅ ge sabhi
 
   4
-  Misal-e-Hur tum ko bana dein gay woh qismat ka dhani
-  Qarz le kar chalo wadah hai mere Maula ka
-  Apne zair ko main maqroz na rehne doon ga
-  Hashar mein de ga Khuda tum ko rutba bhi juda
+  Arbain ka to hai duniya meiṅ nahiṅ koi badal
+  Karbala jaate haiṅ zawwaar Najaf se paidal
+  Chaahe mazhab ho koi qaid firqe ki nahiṅ
+  Apne dil meiṅ liye bas ishq-e-Husain Ibn-e-Ali
 
   5
-  Marhaba zair-e-Shabbir pukarein gay sabhi
-  Arbaeen ka tu hai dunya mein nahi koi badal
-  Karbala jate hain zawwar Najaf se paidal
-  Chahe mazhab ho koi qaid firqay ki nahi
+  Lab pe noha ho to aankhoṅ se raheṅ ashk rawaaṅ
+  Har ghari chalte raho karte hue aah o fughaaṅ
+  Karbala waaloṅ ka gham kaise hoga kabhi kam
+  Dil meiṅ zinda rahe har dam gham-e-aulaad-e-Nabi
 
   6
-  Apne dil mein liye bas ishq-e-Hussain ibn-e-Ali
-  Lab pe noha ho tu aankhon se rahein ashk rawaan
-  Har ghari chalte raho kartay hoye aah-o-fogaan
-  Karbala walon ka gham kaisay hoga kabhi kam
+  Alqama ke jo kinaare hai saja ik darbaar
+  Chal ke Abbas ki jaagir ko dekho ik baar
+  Bibi Zahra ki dua hai wohi baab-e-ataa
+  Saqqa bachchoṅ ko bana kar lo dua pyaasoṅ ki
 
   7
-  Dil mein zindah rahe har dam gham-e-aoulad-e-Nabi
-  Alqama ke jo kinaray hai saja ik darbar
-  Chal ke Abbas ki jageer ko dekho ik bar
-  Bibi Zahra ki dua hai wohi baab-e-atta
+  Ik maqaam aisa hai maujud ba-naam-e-Akbar
+  Noha parhna wahaaṅ tum shabih-e-Payambar Akbar
+  Haaye Laila ka jawaan ja ke kehna yeh wahaaṅ
+  Jahaaṅ barchhi ki anni sina-e-Akbar meiṅ gari
 
   8
-  Saqqa bachoon ko bana kar lo dua pyason ki
-  Ik maqam aisa hai mojood banam-e-Akbar
-  Noha parhna wahan tum shabeeh-e-payamber Akbar
-  Haye Laila ka jawaan jake kehna yeh wahan
+  Jaana Haramain se ho kar tilla-e-Zainabiya
+  Waaṅ se Shabbir ki turbat ki taraf rukh karna
+  Haath rakh kar dil par sochna woh manzar
+  Apne bhai ka gala katta behan dekhti thi
 
   9
-  Jahan barchi ki anni seena e Akbar mein gari
-  Jana Harmain se ho kar tilla e Zainbiya
-  Waan se Shabbir ki turbat ki taraf rukh karna
-  Hath rakh kar dil par sochna woh manzar
-
-  10
-  Apne bhai ka gala katta behan dekhti thi
-  Iltemas itni hai Zahra-o-Raza ki Maula
-  Hum ko mehshar mein bhi mehroom na hone dena
-  Paish-e-khidmat ya Imam hum karein apna kalam
-
-  11
-  Nokari aap ki hasil rahe hum ko younhi
+  Iltemaas itni hai Zahra o Raza ki Maula
+  Hum ko mehshar meiṅ bhi mehrum na hone dena
+  Pesh-e-khidmat ya Imam hum kareṅ apna kalaam
+  Naukri aap ki haasil rahe hum ko yuṅ hi
 ---
 
-چلو کربلا چلو کربلا محمد رضا منگلا
 سر پہ غازی کا علم اور مقصودِ حرم
-
-۱
 سوئے حرم بڑھتے رہیں یوں ہی قدم
 دل میں لیے عشقِ شہنشاہِ امم
-چلو کربلا چلو کربلا
-اے عزادارِ حسین ابنِ علی چلو کربلا چلو کربلا
 
-۲
+چلو کربلا چلو کربلا
+
+اے عزادارِ حسین ابنِ علی چلو کربلا چلو کربلا
 جانبِ خلد جو جاتا ہے وہ راستہ ہے یہی چلو کربلا چلو کربلا
+
+۱
 سلطنت ہے میرے سردار کی کچھ ایسی حسین
 آسماں خاک کا ہے اور وہاں نوری زمین
 معجزاتی ہے فضا خاک ہے خاکِ شفا
-
-۳
 شہ کے قدموں سے اڑی دھول دوا ہر غم کی
+
+۲
 اپنے زواروں کو بن مانگے جو کرتا ہے عطا
 جس کے گنبد تلے رد ہوتی نہیں کوئی دعا
 جز حسین ابنِ علی بخدا کوئی نہیں
+مثلِ حُرّ تم کو بنا دیں گے وہ قسمت کا دھنی
 
-۴
-مثالِ حُر تم کو بنا دیں گے وہ قسمت کا دھنی
+۳
 قرض لے کر چلو وعدہ ہے میرے مولا کا
 اپنے زائر کو میں مقروض نہ رہنے دوں گا
 حشر میں دے گا خدا تم کو رتبہ بھی جدا
-
-۵
 مرحبا زائرِ شبیر پکاریں گے سبھی
+
+۴
 اربعین کا تو ہے دنیا میں نہیں کوئی بدل
 کربلا جاتے ہیں زوار نجف سے پیدل
 چاہے مذہب ہو کوئی قید فرقے کی نہیں
-
-۶
 اپنے دل میں لیے بس عشقِ حسین ابنِ علی
+
+۵
 لب پہ نوحہ ہو تو آنکھوں سے رہیں اشک رواں
 ہر گھڑی چلتے رہو کرتے ہوئے آہ و فغاں
 کربلا والوں کا غم کیسے ہوگا کبھی کم
-
-۷
 دل میں زندہ رہے ہر دم غمِ اولادِ نبی
+
+۶
 علقَمہ کے جو کنارے ہے سجا اک دربار
 چل کے عباس کی جاگیر کو دیکھو اک بار
 بی‌بی زہرا کی دعا ہے وہی بابِ عطا
-
-۸
 سقا بچوں کو بنا کر لو دعا پیاسوں کی
+
+۷
 اک مقام ایسا ہے موجود بنامِ اکبر
 نوحہ پڑھنا وہاں تم شبیہِ پیمبر اکبر
-ہائے لیلیٰ کا جواں جا کے کہنا یہ وہاں
-
-۹
+ہائے لیلیٰ کا جوان جا کے کہنا یہ وہاں
 جہاں برچھی کی انّی سینۂ اکبر میں گڑی
+
+۸
 جانا حرمین سے ہو کر ٹیلۂ زینبیہ
 واں سے شبیر کی تربت کی طرف رخ کرنا
 ہاتھ رکھ کر دل پر سوچنا وہ منظر
-
-۱۰
 اپنے بھائی کا گلا کٹتا بہن دیکھتی تھی
+
+۹
 التماس اتنی ہے زہرا و رضا کی مولا
 ہم کو محشر میں بھی محروم نہ ہونے دینا
 پیشِ خدمت یا امام ہم کریں اپنا کلام
-
-۱۱
 نوکری آپ کی حاصل رہے ہم کو یوں ہی

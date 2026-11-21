@@ -1,67 +1,64 @@
 ---
-title: "کربلا کی ماؤں کی غربت سلیم مستان و برادران"
-alternateTitle: "Karbala Ki Maon Ki Ghurbat Saleem Mastan Wa Bradran"
+title: "کربلا کی ماؤں کی غربت"
+alternateTitle: "Karbala Ki Maaoṅ Ki Ghurbat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
-poet: "Aimaad"
+kalamType: "Marsiya"
+poet: "Syed Aiemad Naqvi"
+reciter: "Saleem Mastan Wa Bradran"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala ki maon ki ghurbat Saleem Mastan wa Bradran
-
   1
-  Unn par salam aaein thin maein jo Karbala
-  Kitni bulandiyon pe tha unn sab ka hosla
-  Janat se dekha our kaha Hawa ne marhaba
-  Nam-e-Hussain beton ko qurban kar diya
-  Tha ayhteram Fatima Zahra ke chain ka
-  Bachoon ko sab ne kar diya sadqa Hussain ka
+  Un par salaam aaiṅ thiṅ maaeṅ jo Karbala
+  Kitni bulandiyoṅ pe tha un sab ka hausla
+  Jannat se dekha aur kaha Hawwa ne marhaba
+  Naam-e-Husain betoṅ ko qurbaan kar diya
+  Tha ehteraam Fatima Zahra ke chain ka
+  Bachchoṅ ko sab ne kar diya sadqa Husain ka
 
   2
-  Tha kis qadar shadeed woh Laila ka imtehaan
-  Atharah saal paal kar Akbar kiya jawaan
-  Dekha jab oss ne ran mein hain Sarwar pe sakhtiyaan
-  Betay se boli baba pe qurban kar do jaan
-  Sehra ossay sajane ka arman mar gaya
-  Seene mein jab jawan ke neza utar gaya
+  Tha kis qadar shadid woh Laila ka imtehaan
+  Athaara saal paal kar Akbar kiya jawaan
+  Dekha jab us ne ran meiṅ haiṅ Sarwar pe sakhtiyaaṅ
+  Bete se boli baaba pe qurbaan kar do jaan
+  Sehra use sajaane ka armaan mar gaya
+  Sine meiṅ jab jawaan ke neza utar gaya
 
   3
-  Qasim ki maa thi dasht mein Shabar ki naiba
-  Betay se bolein aye marey nosha suno zara
-  Jao keh ammo jan pe tum kar do jaan fida
-  Farwa ne apne lal ko teyar kar diya
-  Kuch lamhon baad gir gayin gash se zameen par
-  Betay ka lasha choti se gathri mein dekh kar
+  Qasim ki maaṅ thi dasht meiṅ Shabbar ki naaiba
+  Bete se boliṅ ae mere nausha suno zara
+  Jaao ke ammu jaan pe tum kar do jaan fida
+  Farwa ne apne laal ko tayyaar kar diya
+  Kuchh lamhoṅ baad gir gayiṅ ghash se zamin par
+  Bete ka laasha chhoti si gathri meiṅ dekh kar
 
   4
-  Haq se ajab hi hosla paya Rubab ne
-  Marne ke wastay ossay bhaija sanwar ke
-  Betay ne jab laga liya ik teer ko galay
-  Asghar ko gaud mein liya bosay diye ossay
-  Hathoon mein khud uthai hai noor-e-nazar ki lash
-  Sarwar ke sath dafan ki nanhay pisar ki lash
+  Haq se ajab hi hausla paaya Rubab ne
+  Marne ke waaste use bheja sanwaar ke
+  Bete ne jab laga liya ik tir ko gale
+  Asghar ko god meiṅ liya bose diye use
+  Haathoṅ meiṅ khud uthaai hai nur-e-nazar ki laash
+  Sarwar ke saath dafan ki nanhe pisar ki laash
 
   5
-  Ik chaar sala beti Sakina, Rubab ki
-  Ro ro ke jo Hussain pe zindaan mein so gayi
-  Yani Rubab aik safar mein ujar gayi
-  Saye mein oss ke baad woh bethi nahi kabhi
-  Jari rakha Hussain ka matam Rubab ne
-  Har eid par manaya hai bas gham Rubab ne
+  Ik chaar saala beti Sakina, Rubab ki
+  Ro ro ke jo Husain pe zindaaṅ meiṅ so gayi
+  Yaani Rubab ek safar meiṅ ujar gayi
+  Saaye meiṅ us ke baad woh baithi nahiṅ kabhi
+  Jaari rakha Husain ka maatam Rubab ne
+  Har Eid par manaaya hai bas gham Rubab ne
 
   6
-  Gham hai Aimaad, Aoun-o-Muhammad ki maa ka gham
-  Karb-o-Bala se Sham jo sehti rahi sitam
-  Beton ke gham mein aankhon ko apni kiya na nam
-  Bhai ke gham ko rakha hai bas sab se mohtaram
-  Akbar ke gham mein chain se soyi nahi kabhi
-  Beton ke gham mein bibi woh roi nahi kabhi
+  Gham hai Aimaad, Aun o Muhammad ki maaṅ ka gham
+  Karb o Bala se Shaam jo sehti rahi sitam
+  Betoṅ ke gham meiṅ aaṅkhoṅ ko apni kiya na nam
+  Bhaai ke gham ko rakha hai bas sab se mohtaram
+  Akbar ke gham meiṅ chain se soyi nahiṅ kabhi
+  Betoṅ ke gham meiṅ Bibi woh royi nahiṅ kabhi
 ---
-
-کربلا کی ماؤں کی غربت سلیم مستان و برادران
 
 ۱
 اُن پر سلام آئیں تھیں مائیں جو کربلا

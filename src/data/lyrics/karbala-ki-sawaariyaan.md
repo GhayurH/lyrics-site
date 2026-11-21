@@ -1,99 +1,96 @@
 ---
-title: "کربلا کی سواریاں سید وجیہ حسن زیدی"
-alternateTitle: "Karbala Ki Sawariyaan Syed Wajhi Hasan Zaidi"
+title: "کربلا کی سواریاں"
+alternateTitle: "Karbala Ki Sawaariyaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Wajih"
+poet: "Noor Ali Noor"
+reciter: "Syed Wajhi Hasan Zaidi"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala ki sawariyaan Syed Wajhi Hasan Zaidi
-
   1
-  Aye momino ajeeb sa dekha hai aik khuwab
-  Mehway sukhan hain Ashal-o-Memoon our uqab
-  Qudsi falak se aaye hain sunney ko yeh khitab
-  Hai iss mufakhiray ka har ik lafz la jawab
-  Teenu ke lab pe yeh sukhan-e-la kalam hain
-  Hum nasir-e-Hussain hain
+  Ae momino ajib sa dekha hai ek khwaab
+  Mahv-e-sukhan haiṅ Ashhal o Maimun aur Uqaab
+  Qudsi falak se aaye haiṅ sunne ko yeh khitaab
+  Hai is mufaakhire ka har ik lafz laajawaab
+  Tinoṅ ke lab pe yeh sukhan-e-la kalaam haiṅ
+  Hum naasir-e-Husain alaihis salaam haiṅ
 
   2
-  Kehte hain hum pe khas karam hai Hussain ka
-  Saya figan saron pe alam hai Hussain ka
-  Dil pe hamarey naam raqam hai Hussain ka
-  Apna tu Kaba naqsh-e-qadam hai Hussain ka
-  Hum moatbar hain Ibn-e-Ali ki nigah mein
-  Shamil hamara khon bhi hai sajdah ga mein
+  Kehte haiṅ hum pe khaas karam hai Husain ka
+  Saaya figan saroṅ pe alam hai Husain ka
+  Dil pe hamaare naam raqam hai Husain ka
+  Apna to Kaaba naqsh-e-qadam hai Husain ka
+  Hum moatabar haiṅ Ibn-e-Ali ki nigaah meiṅ
+  Shaamil hamaara khun bhi hai sajda gaah meiṅ
 
   3
-  Khak-e-rah-e-Hussain se dhalay gaye hain hum
-  Noor-e-nigah-e-sheh se ujalay gaye hain hum
-  Sanbhlay hoye they our sanbhalay gaye hain hum
-  Karb-o-Bala ke wastay palay gaye hain hum
-  Nisbat jo ho gayi hai sheh-e-mashreqain se
-  Zindah hamara naam rahe ga Hussain se
+  Khaak-e-raah-e-Husain se dhaale gaye haiṅ hum
+  Nur-e-nigaah-e-Sheh se ujaale gaye haiṅ hum
+  Sambhle hue the aur sambhaale gaye haiṅ hum
+  Karb o Bala ke waaste paale gaye haiṅ hum
+  Nisbat jo ho gayi hai Sheh-e-mashriqain se
+  Zinda hamaara naam rahe ga Husain se
 
   4
-  Memoon keh raha tha keh dekho mera nikhar
-  Jis ki hoon main sawari sawaron mein sheh sawar
-  Mere sawar ne hi kiya mujh ko ba waqar
-  Dekho keh khushboon ne kiya hai mera haisar
-  Qasim ko apni pusht pe jab main uthaon ga
-  Kal main bhi apne mathay pe sehra sajaon ga
+  Maimun keh raha tha ke dekho mera nikhaar
+  Jis ki huṅ maiṅ sawaari sawaaroṅ meiṅ shehsawaar
+  Mere sawaar ne hi kiya mujh ko baawaqaar
+  Dekho ke khushbuoṅ ne kiya hai mera hisaar
+  Qasim ko apni pusht pe jab maiṅ uthaauṅ ga
+  Kal maiṅ bhi apne maathe pe sehra sajaauṅ ga
 
   5
-  Ashal yeh bola main hoon wafadar ke liye
-  Duldul sift hoon sani-e-Karrar ke liye
-  Yeh baat hai bohat marey kirdar ke liye
-  Pala mujhe Ali ne Alamdar ke liye
-  Soraj ki roshni bhi marey aagay maand hai
-  Mera sawar tu bani hashim ka chand hai
+  Ashhal yeh bola maiṅ huṅ wafaadaar ke liye
+  Duldul sifat huṅ Saani-e-Karrar ke liye
+  Yeh baat hai bohat mere kirdaar ke liye
+  Paala mujhe Ali ne Alamdaar ke liye
+  Suraj ki roshni bhi mere aage maand hai
+  Mera sawaar to Bani Hashim ka chaand hai
 
   6
-  Youn lab kusha howa Ali Akbar ka phir uqab
-  Hum sab hain khadman-e-janab-e-Abu Turab
-  Jibreel sa malak bhi raha mera hum rakab
-  Akbar ki nojawani ne bakhsha mujhe shabab
-  Main hoon uqab rehta hoon mehway oraan main
-  Akbar ke sath sath howa hoon jawan main
+  Yuṅ lab kusha hua Ali Akbar ka phir Uqaab
+  Hum sab haiṅ khaadmaan-e-Janaab-e-Abu Turab
+  Jibril sa malak bhi raha mera hamrakaab
+  Akbar ki naujawaani ne bakhsha mujhe shabaab
+  Maiṅ huṅ Uqaab rehta huṅ mahv-e-uraan meiṅ
+  Akbar ke saath saath hua huṅ jawaan maiṅ
 
   7
-  Jari mufakhra tha keh aa pohancha Zuljinah
-  Dali Wajih sab pe barey naaz se nigah
-  Phir bola Zuljinah keh tum ho meri sipah
-  Rakhna khiyal kal bari mushkil hai sab ki rah
-  Kal karna haq ada youn janab-e-Batool ka
-  Ho jaye tum se razi nawasa Rasool ka
+  Jaari mufaakhara tha ke aa pahuṅcha Zuljanaah
+  Daali Wajih sab pe bare naaz se nigaah
+  Phir bola Zuljanaah ke tum ho meri sipaah
+  Rakhna khayaal kal bari mushkil hai sab ki raah
+  Kal karna haq ada yuṅ Janaab-e-Batul ka
+  Ho jaaye tum se raazi nawaasa Rasul ka
 
   8
-  Murtajiz naam hai Shabeer ka rahwar hoon main
-  Noor-e-awwal ki qasam shamil-e-anwar hoon main
-  Khud wafadar yeh kehte hain wafadar hoon main
-  Merey hum jins jo hain unn ka Alamdar hoon main
-  Jab se Allah ne iss dar ki ghulami di hai
-  Mujh ko aa aa ke farishto ne salami di hai
+  Murtajiz naam hai Shabbir ka rahwaar huṅ maiṅ
+  Nur-e-awwal ki qasam shaamil-e-anwaar huṅ maiṅ
+  Khud wafaadaar yeh kehte haiṅ wafaadaar huṅ maiṅ
+  Mere ham jins jo haiṅ un ka Alamdaar huṅ maiṅ
+  Jab se Allah ne is dar ki ghulaami di hai
+  Mujh ko aa aa ke farishtoṅ ne salaami di hai
 
   9
-  Shair-e-Allah se payi hai shujat main ne
-  Sath Shabeer ke ki deen ki nusrat main ne
-  Payi kuch iss liye aalam mein yeh azmat main ne
-  Ki hai Shabeer-o-Alamdar ki baiyat main ne
-  Dil-e-momin mein sada meri aqeedat hogi
-  Hashar tak meri shabiyon ki ziyarat hogi
+  Sher-e-Allah se paayi hai shujaat maiṅ ne
+  Saath Shabbir ke ki din ki nusrat maiṅ ne
+  Paayi kuchh is liye aalam meiṅ yeh azmat maiṅ ne
+  Ki hai Shabbir o Alamdaar ki baiat maiṅ ne
+  Dil-e-momin meiṅ sada meri aqidat hogi
+  Hashr tak meri shabihoṅ ki ziyaarat hogi
 
   10
-  Zuljinah karta hai aye:Noor Ali: ab yeh kalam
-  Sath Qayam ke karon ga main sar-e-dehar-e-qiyam
-  Sare aalam ko samajh aaye ga tab mera maqam
-  Jab meri pusht pe aaye ga zamane ka imam
-  Chashm-e-aa gah ko main deed panahi doon ga
-  Main unhein sare shaheedon ki gawahi doon ga
+  Zuljanaah karta hai ae Noor Ali ab yeh kalaam
+  Saath Qaaim ke karuṅ ga maiṅ sar-e-dahr-e-qiyaam
+  Saare aalam ko samajh aaye ga tab mera maqaam
+  Jab meri pusht pe aaye ga zamaane ka Imam
+  Chashm-e-aagaah ko maiṅ did panaahi duṅ ga
+  Maiṅ unheṅ saare shahidoṅ ki gawaahi duṅ ga
 ---
-
-کربلا کی سواریاں سید وجیہ حسن زیدی
 
 ۱
 اے مومنو، عجیب سا دیکھا ہے ایک خواب
@@ -130,9 +127,9 @@ romanLyrics: |-
 ۵
 اشہل یہ بولا، میں ہوں وفادار کے لیے
 دلدل صفت ہوں ثانیِ کرار کے لیے
-یہ بات ہے بہت مرے کردار کے لیے
+یہ بات ہے بہت میرے کردار کے لیے
 پالا مجھے علی نے علمدار کے لیے
-سورج کی روشنی بھی مرے آگے ماند ہے
+سورج کی روشنی بھی میرے آگے ماند ہے
 میرا سوار تو بنی ہاشم کا چاند ہے
 
 ۶
@@ -171,6 +168,6 @@ romanLyrics: |-
 ذوالجناح کرتا ہے اے نور علی اب یہ کلام
 ساتھ قائم کے کروں گا میں سرِ دہرِ قیام
 سارے عالم کو سمجھ آئے گا تب میرا مقام
-جب مری پشت پہ آئے گا زمانے کا امام
+جب میری پشت پہ آئے گا زمانے کا امام
 چشمِ آگاہ کو میں دید پناہی دوں گا
 میں انہیں سارے شہیدوں کی گواہی دوں گا

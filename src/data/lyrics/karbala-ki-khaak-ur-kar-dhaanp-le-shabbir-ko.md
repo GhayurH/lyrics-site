@@ -1,6 +1,6 @@
 ---
 title: "کربلا کی خاک اڑ کر ڈھانپ لے شبیر کو"
-alternateTitle: "Karbala Ke Khak Ur Kar Dhanp Lay Shabeer Ko"
+alternateTitle: "Karbala Ki Khaak Ur Kar Dhaaṅp Le Shabbir Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,43 +8,41 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala ke khak ur kar dhanp lay Shabeer ko
-
-  Bay kafan bhai nazar na aye ab hamsheer ko
+  Karbala ki khaak ur kar dhaaṅp le Shabbir ko
+  Bekafan bhaai nazar na aaye ab hamshir ko
 
   1
   Nahar pe Abbas ko jab ja ke Fizza ne kaha
-  Kar rahay pamaal lashaa haen wo taeray bhai ka
-  Do katay bazu lagay thay dhondnay shamsheer ko
+  Kar rahe paamaal laasha haiṅ woh tere bhaai ka
+  Do kate baazu lage the dhundne shamshir ko
 
   2
-  Jab khabar aye ke Ghazi run main hain maray gaye
-  Baal khollay Sayeda ne or zameen par baith ke
-  Choom kar hasrat say daikha chadar-e-Tatheer ko
+  Jab khabar aayi ke Ghaazi ran meiṅ haiṅ maare gaye
+  Baal khole Sayyeda ne aur zamin par baith ke
+  Chum kar hasrat se dekha chaadar-e-Tathir ko
 
   3
-  Aik bachi phool see ko neend thee aye hoi
-  Sonay ko baba ke seenay par jaga koi naa thi
-  Nanhay hathon say lagi woh khaenchnay har teer ko
+  Ek bachchi phul si ko nind thi aayi hui
+  Sone ko baaba ke sine par jagah koi na thi
+  Nanhe haathoṅ se lagi woh kheṅchne har tir ko
 
   4
-  Asmaan ko daikh kar shah ro ke ye kahtay rahay
-  Maar kar Akbar ko barchi seenay ke tukray kye
-  Mara ummat nay hay nana kyon tairi tasveer ko
+  Aasmaan ko dekh kar Shaah ro ke yeh kehte rahe
+  Maar kar Akbar ko barchhi sine ke tukre kiye
+  Maara ummat ne hai naana kiuṅ teri tasvir ko
 
   5
-  Waqt-e-rukhsat shah bahan ko daikh kar kahnay lagay
-  Lo sambhalo ab qayadat haen safar ab Sham ke
-  Tha yahi manzoor bahna katab-e-taqdeer ko
+  Waqt-e-rukhsat Shaah behan ko dekh kar kehne lage
+  Lo sambhaalo ab qiyaadat haiṅ safar ab Shaam ke
+  Tha yehi manzur behna kaatib-e-taqdir ko
 
   6
-  Meelon main phaela tha maqtal or akaelay thay Hussain
-  Haye mazlooma ke gonjay us ghari khaemon main waeeen
-  Dafan jab Saqlain kar ke shaah uthay bay sheer ko
+  Miloṅ meiṅ phaila tha maqtal aur akele the Husain
+  Haaye mazluma ke gunje us ghari khaimoṅ meiṅ waeeen
+  Dafan jab Saqlain kar ke Shaah uthe beshir ko
 ---
 
 کربلا کی خاک اڑ کر ڈھانپ لے شبیر کو
-
 بے کفن بھائی نظر نہ آئے اب ہمشیر کو
 
 ۱

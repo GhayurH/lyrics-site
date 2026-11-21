@@ -1,54 +1,66 @@
 ---
-title: "رسول کی اک نشانی بچائی نہ گئی، اصغر خان"
-alternateTitle: "Rasool Ki Ik Nishani Bachayi Na Gayi Asghar Khan"
+title: "رسول کی اک نشانی بچائی نہ گئی"
+alternateTitle: "Rasul Ki Ik Nishaani Bachaayi Na Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Other"
-poet: "Salamat"
+kalamType: "Noha"
+poet: "Salamat Ali Feroz"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Rasool ki ik nishani bachayi na gayi Asghar Khan
-  Woh jal rahi thi magar aag bhojayi na gayi
+  Rasul ki ik nishaani bachaayi na gayi
+  Woh jal rahi thi magar aag bujhaayi na gayi
 
   1
-  Kaisi takleef Khuda jane Fatima ko hoi
-  Aik hi ghar mein thi Zainab jo bulayi na gayi
-  Sare hi deen ke andherey mitaye jis ne
-  Oss ki maiyyat kyun bhala din mein uthai na gayi
+  Kaisi taklif Khuda jaane Fatima ko hui
+  Aik hi ghar meiṅ thi Zainab jo bulaayi na gayi
 
   2
-  Yeh Ali ko hi pata hai kaisi halat thi
-  Pehlu ke bal bhi lehad mein jo solayi na gayi
-  Pasliyaan dekh lein madar ki tu mar jaein gay
-  Bachoon se aisay hi maiyyat tu chupayi na gayi
+  Saare hi din ke andhere mitaaye jis ne
+  Us ki maiyyat kiuṅ bhala din meiṅ uthaayi na gayi
 
   3
+  Yeh Ali ko hi pata hai kaisi haalat thi
+  Pehlu ke bal bhi lahad meiṅ jo sulaayi na gayi
+
+  4
+  Pasliyaaṅ dekh leṅ maadar ki to mar jaaeṅ ge
+  Bachchoṅ se aise hi maiyyat to chhupaayi na gayi
+
+  5
   Zakhmi pehlu se bhi barh ke yeh gham tha Zahra ko
-  Qabar jo Baba ke pehlu mein banai na gayi
-  Bas Khuda jane Salamat keh oss ki janib se
-  Qabar-e-Zahra ki haqeeqat kyun batai na gayi
+  Qabar jo Baba ke pehlu meiṅ banaayi na gayi
+
+  6
+  Bas Khuda jaane Salamat ke us ki jaanib se
+  Qabar-e-Zahra ki haqiqat kiuṅ bataayi na gayi
 ---
 
-رسول کی اک نشانی بچائی نہ گئی، اصغر خان
+رسول کی اک نشانی بچائی نہ گئی
 وہ جل رہی تھی مگر آگ بجھائی نہ گئی
 
 ۱
 کیسی تکلیف خدا جانے فاطمہ کو ہوئی
 ایک ہی گھر میں تھی زینب جو بلائی نہ گئی
+
+۲
 سارے ہی دین کے اندھیرے مٹائے جس نے
 اس کی میت کیوں بھلا دن میں اٹھائی نہ گئی
 
-۲
+۳
 یہ علی کو ہی پتا ہے کیسی حالت تھی
 پہلو کے بل بھی لحد میں جو سلائی نہ گئی
+
+۴
 پسلیاں دیکھ لیں مادر کی تو مر جائیں گے
 بچوں سے ایسے ہی میت تو چھپائی نہ گئی
 
-۳
+۵
 زخمی پہلو سے بھی بڑھ کے یہ غم تھا زہرا کو
 قبر جو بابا کے پہلو میں بنائی نہ گئی
+
+۶
 بس خدا جانے سلامت کہ اس کی جانب سے
 قبرِ زہرا کی حقیقت کیوں بتائی نہ گئی

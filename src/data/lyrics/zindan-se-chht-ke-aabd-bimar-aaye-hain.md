@@ -13,7 +13,7 @@ romanLyrics: |-
   Karbala aa gaye Saadat
 
   1
-  Uthiye Hussain aap ke zawwar aaye hain
+  Uthiye Husain aap ke zawwar aaye hain
   Zindan se chut ke Abid e beemar aaye hain
 
   2
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Jee khol kr yahan tera matam krenge hum
   Karbobala me majlis e chehlum krenge hum
-  Aey Maula Sham wale azadaar aaye hain
+  Ae Maula Sham wale azadaar aaye hain
   Zindan se chut ke Abid e beemar aaye hain
 
   6
@@ -65,7 +65,7 @@ romanLyrics: |-
   Zindan se chut ke Abid e beemar aaye hain
 
   10
-  Farhan o Mazhar Abidi kyun na hon nauha gar
+  Farhan o Mazhar Abidi kiuṅ na hon nauha gar
   Sajjad chut k qaid se baba ki qabr par
   Lekr nishan e touq e garobaar aaye hain
   Zindan se chut ke Abid e beemar aaye hain

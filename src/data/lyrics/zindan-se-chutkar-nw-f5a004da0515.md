@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Karbala aagaye Sadaat
-  Uthiye Hussain aap ke zawwar aaye hai
+  Uthiye Husain aap ke zawwar aaye hai
   Zindan se chutke Abid e bemaar aaye hai
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
   4
   Jee khol kar yahan tera matam karenge hum
   Karbobala may majlise chehlum karenge hum
-  Ay maula Sham waale azadaar aaye hai
+  Ae Maula Sham waale azadaar aaye hai
 
   5
   Zindan may ek teri azadar reh gayi
@@ -54,11 +54,9 @@ romanLyrics: |-
   Sadaat hoke jeene se be-zaar aaye hai
 
   9
-  Farhan o Mazhar Abdi kyun na ho nauhagar
+  Farhan o Mazhar Abdi kiuṅ na ho nauhagar
   Sajjad chut ke qaid se baba ki qabr par
   Lekar nishane tauq e garabaar aaye hai
-
-  Zindan se chutke…
 ---
 
 کربلا آ گئے سادات
@@ -77,7 +75,7 @@ romanLyrics: |-
 
 ۳
 گردن پہ اور جسم پہ زنجیر کے نشاں
-نیک ایک زخم درد کی کہتا ہے داستاں
+ایک ایک زخم درد کی کہتا ہے داستاں
 زنداں سے زندہ لوٹ کے لاچار آئے ہیں
 
 ۴
@@ -109,5 +107,3 @@ romanLyrics: |-
 فرحان و مظہر عابدی کیوں نہ ہو نوحہ گر
 سجاد چھٹ کے قید سے بابا کی قبر پر
 لے کر نشانِ طوقِ گراں بار آئے ہیں
-
-زنداں سے چھٹ کے…
