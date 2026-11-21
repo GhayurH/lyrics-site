@@ -1,29 +1,48 @@
 ---
-title: "Qatal Masjid Main Qully Eman Ho Gaya Hai Master Ali Zamin"
+title: "قتل مسجد میں کلی ایمان ہو گیا ہے ماسٹر علی ضامن"
+alternateTitle: "Qatal Masjid Main Qully Eman Ho Gaya Hai Master Ali Zamin"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qatal masjid main qully eman ho gaya hai Master Ali Zamin
+  Masjid mein zakhmi chehra-e-Yazdan ho gaya hai
+  Aayi thi Kofa Zainab shahi padar ki dekhney
+  Kofa mein hi yateemi ka ayelan ho gaya hai
+
+  2
+  Khum e Ghadeer mein jo Mursal ne kaha qatal woh
+  Man kuntu wala masjid mein farman ho gaya hai
+  Dar ilm ka giraya Kofa mein kalma go ne kyun?
+  Lo mimber-e-Saloni bhi veeran ho gaya hai
+
+  3
+  Allah ke deen tera hafiz hai aaj se Hussain
+  Nigran tera tujh pe hi qurban ho gaya hai
+  Bad-e-Ali hai Zamin Abbas pardah daroon ka
+  Haider ridaon ka Ghazi nigran ho gaya hai
 ---
 
-1
-Qatal Masjid Main Qully Eman Ho Gaya Hai Master Ali Zamin.
-Masjid Mein Zakhmi Chehra-e-Yazdan Ho Gaya Hai.
-Aayi Thi Kofa Zainab Shahi Padar Ki Dekhney.
-Kofa Mein Hi Yateemi Ka Ayelan Ho Gaya Hai.
+۱
+قتل مسجد میں کلی ایمان ہو گیا ہے ماسٹر علی ضامن
+مسجد میں زخمی چہرۂ یزداں ہو گیا ہے
+آئی تھی کوفہ زینب شاہی پدر کی دیکھنے
+کوفہ میں ہی یتیمی کا اعلان ہو گیا ہے
 
-2
-Khum e Ghadeer Mein Jo Mursal Ne Kaha Qatal Woh.
-Man Kuntu Wala Masjid Mein Farman Ho Gaya Hai.
-Dar Ilm Ka Giraya Kofa Mein Kalma Go Ne Kyun?.
-Lo Mimber-e-Saloni Bhi Veeran Ho Gaya Hai.
+۲
+خمِ غدیر میں جو مرسل نے کہا قتل وہ
+من کنتُ والا مسجد میں فرمان ہو گیا ہے
+در علم کا گرایا کوفہ میں کلمہ گو نے کیوں؟
+لو منبرِ سلونی بھی ویران ہو گیا ہے
 
-3
-ALLAH Ke Deen Tera Hafiz Hai Aaj Se Hussain.
-Nigran Tera Tujh Pe Hi Qurban Ho Gaya Hai.
-Bad-e-Ali Hai Zamin Abbas Pardah Daroon Ka.
- Haider Ridaon Ka Ghazi Nigran Ho Gaya Hai.
+۳
+اللہ کے دین تیرا حافظ ہے آج سے حسین
+نگراں تیرا تجھ پہ ہی قربان ہو گیا ہے
+بعدِ علی ہے ضامن عباس پردہ داروں کا
+حیدر رداؤں کا غازی نگراں ہو گیا ہے

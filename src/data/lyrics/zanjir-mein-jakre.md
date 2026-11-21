@@ -40,7 +40,7 @@ romanLyrics: |-
   Hai tauq o salasil ke giraftaar ka maatam
 
   5
-  Beparda wo na mahramoṅ meiṅ waaris-e-tathir
+  Beparda wo naa mahramoṅ meiṅ waaris-e-tathir
   Wo tauq-e-giraaṅ pehne hue sabr ki tasvir
   Aazaadi ka paighaam sunaati rahi zanjir
   Hota hai usi qaafila saalaar ka maatam

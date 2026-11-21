@@ -1,28 +1,42 @@
 ---
-title: "Rehman Gawah Main Thak Payi Aan Lyrics In Saraiki 2003"
+title: "رحمان گواہ میں تھک پئی آں"
+alternateTitle: "Rehman Gawah Main Thak Payi Aan"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Gal la dhiyaan te putraan koon wich kafan Batool alaya Rehman gawah main thak payi aan
+  Maikon jhirkaan te zarbaan miliyaan jadaan naa Imran da rachaya Imran gawah main thak payi aan
+  Mainday Fidak uttay lut jari rayi kain masjid wich aazan ditti
+  Main sunrya aye Hasan de babay da aazan che naam nayi aaya aazan gawah main thak payi aan
+  Koi nabvi mimber te betha jayin jhirak de naal daleel mangi
+  Main Fidak di daway daar jo haan parh ke Quran sunaya Quran gawah main thak payi aan
+
+  2
+  Maikon itni wari mimber utton aye jhirak mili chup reh Zahra
+  Main jitni wari amari da ahsan hai yaad dawaya ahsan gawah main thak payi aan
+  Ewein lagda ha nayi sand jhanri Zainab di chadar jhanr payi aye
+  Othay bikhrey hoye oon warqiyaan koon Salman ne aan chunwaya Salman gawah main thak payi aan
+  Thak pawan de baon sabab banray maikon aan zaeefa aakhiya jayin
+  Baon dair main jis hathoon milni da farman Hasan sunrwaya farman gawah main thak payi aan
 ---
 
-Rehman Gawah Main Thak Payi Aan Lyrics
+۱
+گل لا دھیاں تے پتراں کوں وچ کفن بتول الایا، رحمان گواہ میں تھک پئی آں
+میکوں جھڑکاں تے ضرباں ملیاں جڈاں ناں عمران دا رچایا، عمران گواہ میں تھک پئی آں
+میݙے فدک اُتے لُٹ جاری رہی، کئیں مسجد وچ اذان ݙِتّی
+میں سُݨیا اے حسن دے بابے دا اذان چے ناں نئیں آیا، اذان گواہ میں تھک پئی آں
+کوئی نبوی منبر تے بیٹھا جئیں جھڑک دے نال دلیل منگی
+میں فدک دی دعوے دار جو ہاں، پڑھ کے قرآن سنایا، قرآن گواہ میں تھک پئی آں
 
-1
-Gal La Dhiyaan Te Putraan Koon Wich Kafan Batool Alaya Rehman Gawah Main Thak Payi Aan.
-Maikon Jhirkaan Te Zarbaan Miliyaan Jadaan Naa Imran Da Rachaya Imran Gawah Main Thak Payi Aan.
-Mainday Fidak Uttay Lut Jari Rayi Kain Masjid Wich Aazan Ditti.
-Main Sunrya Aye Hasan De Babay Da Aazan Che Naam Nayi Aaya Aazan Gawah Main Thak Payi Aan.
-Koi Nabvi Mimber Te Betha Jayin Jhirak De Naal Daleel Mangi.
-Main Fidak Di Daway Daar Jo Haan Parh Ke Quran Sunaya Quran Gawah Main Thak Payi Aan.
-
-2
-Maikon Itni Wari Mimber Utton Aye Jhirak Mili Chup Reh Zahra.
-Main Jitni Wari Amari Da Ahsan Hai Yaad Dawaya Ahsan Gawah Main Thak Payi Aan.
-Ewein Lagda Ha Nayi Sand Jhanri Zainab Di Chadar Jhanr Payi Aye.
-Othay Bikhrey Hoye Oon Warqiyaan Koon Salman Ne Aan Chunwaya Salman Gawah Main Thak Payi Aan.
-Thak Pawan De Baon Sabab Banray Maikon Aan Zaeefa Aakhiya Jayin.
-Baon Dair Main Jis Hathoon Milni Da Farman Hasan Sunrwaya Farman Gawah Main Thak Payi Aan.
+۲
+میکوں اتنی واری منبر اُتّوں اے جھڑک ملی، چپ رہ زہرا
+میں جتنی واری عماری دا احسان ہے یاد ݙوایا، احسان گواہ میں تھک پئی آں
+ایویں لگدا ہا نئیں سند جھاڑی، زینب دی چادر جھاڑ پئی اے
+اوتھے بکھرے ہوئے اُن ورقیاں کوں سلمان نے آں چنوایا، سلمان گواہ میں تھک پئی آں
+تھک پوݨ دے بہوں سبب بݨڑے، میکوں آں ضعیفہ آکھیا جئیں
+بہوں دیر میں جس ہتھوں ملݨی دا فرمان حسن سُݨوایا، فرمان گواہ میں تھک پئی آں

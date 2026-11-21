@@ -1,36 +1,61 @@
 ---
-title: "Kaisay Phir Oss Hussain Pe Salle Ala Na Ho"
+title: "کیسے پھر اُس حسین پہ صلِّ علیٰ نہ ہو"
+alternateTitle: "Kaisay Phir Oss Hussain Pe Salle Ala Na Ho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kaisay phir oss Hussain pe salle ala na ho
+
+  1
+  Lakhon shareek ban rahe they la shareek ke
+  Har ik ne deen apne mutabiq bana liya
+  Sajday tamam sajda-e-Shabeer pe nisar
+  Jis ne khudai our Khuda ko bacha liya
+
+  2
+  Jo la nahi kahey tu kahin LaIlaha na ho
+  Tauheed apna naam-o-nishaan dhondti phiray
+  Gar dasht mein Hussain ka sajdah ada na ho
+  Gar dil mein Karbala ki muhabbat na ho kahin
+  Hajj ki musafiton ka koi faida na ho
+  Maula Ali ke hath pe baiyat na gar karein
+  Mosa ke hath se bhi koi mojza na ho
+  Beshak mareez bughz-e-Ali woh mareez hai
+  Esa bhi phonk marey tu oss ki shifa na ho
+  Dono bohat azeez hain Rab ko Hussain ko
+  Matam ho ya namaz ho hargiz qaza na ho
+  Yeh inteha na ho yeh ibtida na ho
+  Kab ho wajood-e-arsh agar Karbala na ho
+  Muhsin wajood-e-zulm se mit jaye kainat
+  Kuch bhi na ho jahan mein agar Karbala na ho
 ---
 
-Kaisay Phir Oss Hussain Pe Salle Ala Na Ho.
+کیسے پھر اُس حسین پہ صلِّ علیٰ نہ ہو
 
-1
-Lakhon Shareek Ban Rahe They La Shareek Ke.
-Har Ik Ne Deen Apne Mutabiq Bana Liya.
-Sajday Tamam Sajda-e-Shabeer Pe Nisar.
-Jis Ne Khudai Our Khuda Ko Bacha Liya.
+۱
+لاکھوں شریک بن رہے تھے لا شریک کے
+ہر اک نے دین اپنے مطابق بنا لیا
+سجدے تمام سجدۂ شبیر پہ نثار
+جس نے خدائی اور خدا کو بچا لیا
 
-2
-Jo La Nahi Kahey Tu Kahin LaIlaha Na Ho.
-Tauheed Apna Naam-o-Nishaan Dhondti Phiray.
-Gar Dasht Mein Hussain Ka Sajdah Ada Na Ho.
-Gar Dil Mein Karbala Ki Muhabbat Na Ho Kahin.
-Hajj Ki Musafiton Ka Koi Faida Na Ho.
-Maula Ali Ke Hath Pe Baiyat Na Gar Karein.
-Mosa Ke Hath Se Bhi Koi Mojza Na Ho.
-Beshak Mareez Bughz-e-Ali Woh Mareez Hai.
-Esa Bhi Phonk Marey Tu Oss Ki Shifa Na Ho.
-Dono Bohat Azeez Hain Rab Ko Hussain Ko.
-Matam Ho Ya Namaz Ho Hargiz Qaza Na Ho.
-Yeh Inteha Na Ho Yeh Ibtida Na Ho.
-Kab Ho Wajood-e-Arsh Agar Karbala Na Ho.
- Muhsin Wajood-e-Zulm Se Mit Jaye Kainat.
-Kuch Bhi Na Ho Jahan Mein Agar Karbala Na Ho.
+۲
+جو لا نہیں کہے تو کہیں لا الٰہ نہ ہو
+توحید اپنا نام و نشاں ڈھونڈتی پھرے
+گر دشت میں حسین کا سجدہ ادا نہ ہو
+گر دل میں کربلا کی محبت نہ ہو کہیں
+حج کی مسافتوں کا کوئی فائدہ نہ ہو
+مولا علی کے ہاتھ پہ بیعت نہ گر کریں
+موسیٰ کے ہاتھ سے بھی کوئی معجزہ نہ ہو
+بے شک مریضِ بغضِ علی وہ مریض ہے
+عیسیٰ بھی پھونک مارے تو اُس کی شفا نہ ہو
+دونوں بہت عزیز ہیں رب کو حسین کو
+ماتم ہو یا نماز ہو ہرگز قضا نہ ہو
+یہ انتہا نہ ہو یہ ابتدا نہ ہو
+کب ہو وجودِ عرش اگر کربلا نہ ہو
+محسن وجودِ ظلم سے مٹ جائے کائنات
+کچھ بھی نہ ہو جہاں میں اگر کربلا نہ ہو

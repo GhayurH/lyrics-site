@@ -1,38 +1,66 @@
 ---
-title: "Kalam-e-Pak Parha Our Na Tarjuma Samajhe"
+title: "کلامِ پاک پڑھا اور نہ ترجمہ سمجھے"
+alternateTitle: "Kalam-e-Pak Parha Our Na Tarjuma Samajhe"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kalam-e-Pak parha our na tarjuma samajhe
+  Jo log aal ko Quran se juda samajhe
+
+  1
+  Nishan khainch diya hai Ali ke bete ne
+  Qadam barhaye jo apne ko sorma samajhe
+  Hussain jeet gaye our Yazeed haar gaya
+  Yehi Tabasum-e-Asghar ka tarjuma samajhe
+
+  2
+  Mera naseeb jo badla tu iss mein hairat kya
+  Dar-e-Hussain hai ab bhi khula howa samajhe
+  Laho milate hain sheh Karbala ki mati mein
+  Ab aaj se yeh zamana isse dawa samajhe
+
+  3
+  Woh anbiya ki nigahon mein jane kya ho ga
+  Hussain khud jise Tasveer-e-Mustafa samajhe
+  Baha ke fatwoon ko kehte hain ashk mufti se
+  Na rokna kabhi darya ka rasta samajhe
+
+  4
+  Woh foaj tujh se larey bhi tu kis tarha Abbas
+  Jo tere pairon ki aahat ko zalzala samajhe
+  Yeh ashk kehta hai mufti se aye Bilal-o-Wajhi
+  Main woh kitab hoon jis ko parha likha samajhe
 ---
 
-Kalam-e-Pak Parha Our Na Tarjuma Samajhe.
-Jo Log Aal Ko Quran Se Juda Samajhe.
+کلامِ پاک پڑھا اور نہ ترجمہ سمجھے
+جو لوگ آل کو قرآن سے جدا سمجھے
 
-1
-Nishan Khainch Diya Hai Ali Ke Bete Ne.
-Qadam Barhaye Jo Apne Ko Sorma Samajhe.
-Hussain Jeet Gaye Our Yazeed Haar Gaya.
-Yehi Tabasum-e-Asghar Ka Tarjuma Samajhe.
+۱
+نشان کھینچ دیا ہے علی کے بیٹے نے
+قدم بڑھائے جو اپنے کو سورما سمجھے
+حسین جیت گئے اور یزید ہار گیا
+یہی تبسمِ اصغر کا ترجمہ سمجھے
 
-2
-Mera Naseeb Jo Badla Tu Iss Mein Hairat Kya.
-Dar-e-Hussain Hai Ab Bhi Khula Howa Samajhe.
-Laho Milate Hain Sheh Karbala Ki Mati Mein.
-Ab Aaj Se Yeh Zamana Isse Dawa Samajhe.
+۲
+میرا نصیب جو بدلا تو اس میں حیرت کیا
+درِ حسین ہے اب بھی کھلا ہوا سمجھے
+لہو ملاتے ہیں شہ کربلا کی ماٹی میں
+اب آج سے یہ زمانہ اسے دوا سمجھے
 
-3
-Woh Anbiya Ki Nigahon Mein Jane Kya Ho Ga.
-Hussain Khud Jise Tasveer-e-Mustafa Samajhe.
-Baha Ke Fatwoon Ko Kehte Hain Ashk Mufti Se.
-Na Rokna Kabhi Darya Ka Rasta Samajhe.
+۳
+وہ انبیا کی نگاہوں میں جانے کیا ہو گا
+حسین خود جسے تصویرِ مصطفیٰ سمجھے
+بہا کے فتووں کو کہتے ہیں اشک مفتی سے
+نہ روکنا کبھی دریا کا راستہ سمجھے
 
-4
-Woh Foaj Tujh Se Larey Bhi Tu Kis Tarha Abbas.
-Jo Tere Pairon Ki Aahat Ko Zalzala Samajhe.
-Yeh Ashk Kehta Hai Mufti Se Aye Bilal-o- Wajhi.
-Main Woh Kitab Hoon Jis Ko Parha Likha Samajhe.
+۴
+وہ فوج تجھ سے لڑے بھی تو کس طرح عباس
+جو تیرے پیروں کی آہٹ کو زلزلہ سمجھے
+یہ اشک کہتا ہے مفتی سے اے بلال و وجہی
+میں وہ کتاب ہوں جس کو پڑھا لکھا سمجھے

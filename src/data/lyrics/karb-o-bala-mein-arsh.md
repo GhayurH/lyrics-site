@@ -12,8 +12,8 @@ tags: []
 aliases: ["Karbobala May Arsh"]
 published: true
 romanLyrics: |-
-  Karb o Bala meiṅ arsh ke taare bikhar gaye
-  Maqtal meiṅ bhuk o pyaas ke maare bikhar gaye
+  Karb o Bala mein arsh ke taare bikhar gaye
+  Maqtal mein bhuk o pyaas ke maare bikhar gaye
 
   1
   Shiddat thi aaftaab ki ya roz-e-qatl-e-Shaah
@@ -24,15 +24,15 @@ romanLyrics: |-
   Maaṅ ne hazaar baar sanwaare bikhar gaye
 
   3
-  Darya pe bhaai dasht meiṅ farzand ran meiṅ do
+  Darya pe bhaai dasht mein farzand ran mein do
   Mazlum ke tamaam sahaare bikhar gaye
 
   4
   Rudaad-e-tir keh na saka muṅh se bezabaaṅ
-  Maasum ke fiza meiṅ ishaare bikhar gaye
+  Maasum ke fiza mein ishaare bikhar gaye
 
   5
-  Daura diye faras jo lainoṅ ne laash par
+  Daura diye faras jo la'inoṅ ne laash par
   Aazaa Hasan ke laal ke saare bikhar gaye
 
   6
@@ -40,11 +40,11 @@ romanLyrics: |-
   Aandhi chale bala ki sitaare bikhar gaye
 
   7
-  Quraaṅ ko aaj tak hai un auraaq ki talaash
+  Qur'aaṅ ko aaj tak hai un auraaq ki talaash
   Jo nahr-e-Alqama ke kinaare bikhar gaye
 
   8
-  Zehra uthaane aayi hai majlis meiṅ ae Uruj
+  Zehra uthaane aayi hai majlis mein ae Uruj
   Gauhar jo aansuoṅ ke hamaare bikhar gaye
 ---
 کربوبلا میں عرش کے تارے بکھر گئے

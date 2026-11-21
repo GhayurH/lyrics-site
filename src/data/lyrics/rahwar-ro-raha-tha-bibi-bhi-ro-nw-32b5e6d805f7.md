@@ -1,42 +1,85 @@
 ---
-title: "Rahwar Ro Raha Tha Bibi Bhi Ro"
+title: "رہوار رو رہا تھا بی‌بی بھی رو"
+alternateTitle: "Rahwar Ro Raha Tha Bibi Bhi Ro"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bawafa Murtajis
+
+  1
+  Rahwar ro raha tha bibi bhi ro rahi thi
+  Mera bhai kahan utara, ro kar yeh poochti thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
+
+  2
+  Dekhi jo zeen khali aur Murtajis ko zakhmi
+  Balon se muh chupaie, har bibi peetti thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
+
+  3
+  Makhtal ka haal usko rahwar kya bataie
+  Bacchi jo rah apne, baba ka dekhti thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
+
+  4
+  Dastar aur aba ki humsheer ke hawale
+  Jo pusht par imamat, Maula Husain ki thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
+
+  5
+  Batla rahi thi subko rudad qatl gah ki
+  Aankhon ke Murtajis ki, ashkon ki jo jhadi thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
+
+  6
+  Aaisi wafa dikhaie rahwar ne maidan mein
+  Hay padar woh kaisi, ek zulm ki ghadi thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
+
+  7
+  Halqe mein bibion ke, jawwad Murtajis tha
+  Khaima e Hashmi mein, matam ki saf bichi thi
+  Rahwar ro raha tha bibi bhi ro rahi thi
 ---
 
-Bawafa Murtajis….6
+باوفا مرتجز
 
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
-Mera Bhai Kahan Utara….2….. Ro Kar Yeh Pooch Ti Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
+۱
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
+میرا بھائی کہاں اتارا، رو کر یہ پوچھتی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
 
-Dekhi Jo Zeen Khali Aur Murtajis Ko Zakhmi…..2
-Balon Se Muh Chupaie…..2….. Har Bibi Peet Ti Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
+۲
+دیکھی جو زین خالی اور مرتجز کو زخمی
+بالوں سے منہ چھپائے، ہر بی‌بی پیٹتی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
 
-Makhtal Ka Haal Usko Rahwar Kya Bataie…..2
-Bacchi Jo Rah Apne …..2…… Baba Ka Dekhti Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
+۳
+مقتل کا حال اس کو رہوار کیا بتائے
+بچی جو راہ اپنے، بابا کا دیکھتی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
 
-Dastar Aur Aba Ki Humsheer Ke Hawale
-Jo Pusht Par Imamat….2….. Maula HUSAIN (AS) Ki Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
+۴
+دستار اور عبا کی ہمشیر کے حوالے
+جو پشت پر امامت، مولا حسینؑ کی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
 
-Batla Rahi Thi Subko Rudad Qatl Gah Ki…..2
-Aankhon Ke Murtajis Ki…..2…… Ashkon Ki Jo Jhadi Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
+۵
+بتلا رہی تھی سب کو روداد قتل گاہ کی
+آنکھوں کے مرتجز کی، اشکوں کی جو جھڑی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
 
-Aaisi Wafa Dikhaie Rahwar Ne Maidan Mein ……2
-Hay Padar Woh Kaisi…..2…… Ek Zulm Ki Ghadi Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
+۶
+ایسی وفا دکھائی رہوار نے میدان میں
+ہائے پدر وہ کیسی، ایک ظلم کی گھڑی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی
 
-Halqe Mein Bibion Ke, Jawwad Murtajis Tha
-Khaima E Hashmi Mein…..2….. Matam Ki Saf Bichi Thi
-Rahwar Ro Raha Tha Bibi Bhi Ro Rahi Thi…..2
-
-Shared via Nohay Writeups for iOS
+۷
+حلقے میں بیبیوں کے، جواد مرتجز تھا
+خیمۂ ہاشمی میں، ماتم کی صف بچھی تھی
+رہوار رو رہا تھا بی‌بی بھی رو رہی تھی

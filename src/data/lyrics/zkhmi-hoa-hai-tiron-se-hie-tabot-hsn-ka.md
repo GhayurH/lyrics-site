@@ -7,6 +7,49 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zakhmi hua hai tiroṅ se haaye taabut-e-Hasan ka
+  Aur surkh ho gaya hai haaye rang bhi kafan ka
+
+  1
+  Apne jigar ko thaame Shabbar tarap rahe haiṅ
+  Bhaai ki bekasi par Shabbir ro rahe haiṅ
+  Do jag meiṅ ho raha hai maatam Shah-e-Zaman ka
+
+  2
+  Abbas ko wafa ne paaband kar diya hai
+  Warna janaaza roke kis meiṅ ye hausla hai
+  Sine meiṅ ho raha hai ehsaas ik ghutan ka
+
+  3
+  Taabut-e-Mujtaba par jo tir aa rahe haiṅ
+  Aal-e-Nabi ke dil par wo zulm dhaa rahe haiṅ
+  Murjha gaya hai ghuncha Zahra tire chaman ka
+
+  4
+  Shabbar ka laasha waapas Shabbir laa rahe haiṅ
+  Zainab ke saath mil kar paikaaṅ nikaalte haiṅ
+  Jaari hua lahu phir Haidar ke gulbadan ka
+
+  5
+  Farwa ne jo tha dekha Yasrib meiṅ khuniṅ manzar
+  Karb o Bala ke ban meiṅ Qaasim ko wo bataa kar
+  Farwa utaarti hai sadqa bin-e-Hasan ka
+
+  6
+  Rizwaan ka ye nauha Qaisar ne yuṅ parha hai
+  Maatam bapaa hua hai girya na ruk saka hai
+  Maula ne izn bakhsha donoṅ ko is sukhan ka
+
+  7
+  Ummat ne Sayyidoṅ par kaisa sitam kiya hai
+  Ahmad ke laadle ko zahr-e-dagha diya hai
+  Maahaul har taraf hai haaye ranj-e-mihan ka
+
+  8
+  Naana ke baad ammaaṅ ammaaṅ ke baad baaba
+  Sayyidaaniyoṅ ke dil par barhta gaya hai sadma
+  Baaqi abhi hai sadma ik bhaai bewatan ka
 ---
 
 زخمی ہوا ہے تیروں سے ہئے تابوت حسنؑ کا

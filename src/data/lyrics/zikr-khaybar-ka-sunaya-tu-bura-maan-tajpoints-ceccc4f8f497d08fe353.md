@@ -1,38 +1,66 @@
 ---
-title: "Zikr Khaybar Ka Sunaya Tu Bura Maan"
+title: "ذکرِ خیبر کا سنایا تو برا مان"
+alternateTitle: "Zikr Khaybar Ka Sunaya Tu Bura Maan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zikr Khaybar ka sunaya tu bura maan gaye
+  Aina un ko dikhaya tu bura maan gaye
+
+  1
+  Rat jaga karte howay raat guzari lekin
+  Jab alam hath na aya tu bura maan gaye
+  Pehle lalkar rahe the keh kahan hai Marhab
+  Jab wo medaan mein aya tu bura maan gaye
+
+  2
+  Pojne wale the pathar ke magar Haider ne
+  Moom pathar ko banaya tu bura maan gaye
+  Raat bhar khud ko samajte rahe woh mard magar
+  Jab rajul samne aya tu bura maan gaye
+
+  3
+  Kal jisse dekh ke hathon ko mala karte the sheikh
+  Wo alam hum ne uthaya tu bura maan gaye
+  Sheh pe marne ke liye itne the be-chain Habib
+  Maut ne waqt lagaya tu bura maan gaye
+
+  4
+  Ja rahe the jo ziyarat ke liye Karb-o-Bala
+  Un ko janat ne bulaya tu bura maan gaye
+  Kyun na Toheed ho qurban Ali par Sajjad
+  Un ko Allah bulaya tu bura maan gay
 ---
 
-Zikr Khaybar Ka Sunaya Tu Bura Maan Gaye.
-Aina Un Ko Dikhaya Tu Bura Maan Gaye.
+ذکرِ خیبر کا سنایا تو برا مان گئے
+آئینہ ان کو دکھایا تو برا مان گئے
 
-1
-Rat Jaga Karte Howay Raat Guzari Lekin.
-Jab Alam Hath Na Aya Tu Bura Maan Gaye.
-Pehle Lalkar Rahe The Keh Kahan Hai Marhab.
-Jab Wo Medaan Mein Aya Tu Bura Maan Gaye.
+۱
+رات جگا کرتے ہوئے رات گزاری لیکن
+جب علم ہاتھ نہ آیا تو برا مان گئے
+پہلے للکار رہے تھے کہ کہاں ہے مرحب
+جب وہ میدان میں آیا تو برا مان گئے
 
-2
-Pojne Wale The Pathar Ke Magar Haider Ne.
-Moom Pathar Ko Banaya Tu Bura Maan Gaye.
-Raat Bhar Khud Ko Samajte Rahe Woh Mard Magar.
-Jab Rajul Samne Aya Tu Bura Maan Gaye.
+۲
+پوجنے والے تھے پتھر کے مگر حیدر نے
+موم پتھر کو بنایا تو برا مان گئے
+رات بھر خود کو سمجھتے رہے وہ مرد مگر
+جب رَجُل سامنے آیا تو برا مان گئے
 
-3
-Kal Jisse Dekh Ke Hathon Ko Mala Karte The Sheikh.
-Wo Alam Hum Ne Uthaya Tu Bura Maan Gaye.
-Sheh Pe Marne Ke Liye Itne The Be-Chain Habib.
-Maut Ne Waqt Lagaya Tu Bura Maan Gaye.
+۳
+کل جسے دیکھ کے ہاتھوں کو ملا کرتے تھے شیخ
+وہ علم ہم نے اٹھایا تو برا مان گئے
+شہ پہ مرنے کے لیے اتنے تھے بے چین حبیب
+موت نے وقت لگایا تو برا مان گئے
 
-4
-Ja Rahe The Jo Ziyarat Ke Liye Karb-o-Bala.
-Un Ko Janat Ne Bulaya Tu Bura Maan Gaye.
-Kyun Na Toheed Ho Qurban Ali Par Sajjad.
-Un Ko Allah Bulaya Tu Bura Maan Gay.
+۴
+جا رہے تھے جو زیارت کے لیے کرب و بلا
+ان کو جنت نے بلایا تو برا مان گئے
+کیوں نہ توحید ہو قربان علی پر سجاد
+ان کو اللہ بلایا تو برا مان گئے

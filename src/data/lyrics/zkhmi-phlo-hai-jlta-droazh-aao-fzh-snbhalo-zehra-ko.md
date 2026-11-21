@@ -7,6 +7,47 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zakhmi pahlu hai jalta darwaaza
+  Aao Fizza sambhaalo Zehra ko
+
+  1
+  Silsila ruk na jaae saansoṅ ka
+
+  2
+  Ye wohi dar hai jis pe Paighambar
+  Aa ke Quraan parhte the aksar
+  Is ko ummat ne khaak kar daala
+
+  3
+  Pasliyaaṅ tor ke woh hanste the
+  Zulm dhaa kar adu ye kehte the
+  Aaj Muhsin ko qatl kar daala
+
+  4
+  Jaari zakhmoṅ se khun hota hai
+  Bint-e-Ahmad ka dil bhi rota hai
+  Zakhmoṅ se chur ho gaiṅ Zehra
+
+  5
+  Aisa kuchh zulm ho gaya us par
+  Saans lena bhi ho gaya dubhar
+  Haath pahlu se ab nahiṅ uthta
+
+  6
+  Tukre tahrir-e-Mustafa kar ke
+  Haae darbaar mein khara kar ke
+  Ajr dete the yuṅ risaalat ka
+
+  7
+  Manzar-e-Shaam o Karbala Kufa
+  Soch kar karti rehti thiṅ girya
+  Shaaq dil par bahut hai ye sadma
+
+  8
+  Sun ke Rizwaan se bayaan-e-gham
+  Barpa hota hai girya o maatam
+  Khuṅ rulaata hai dard Zehra ka
 ---
 
 زخمی پہلو ہے جَلتا دروازہ

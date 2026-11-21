@@ -19,97 +19,97 @@ romanLyrics: |-
   Balwa hua is darja ke masdud hui raah
   Sar sharm se zanjir pa Aabid ne rakha aah
   Tha wo arq-e-sharm asiroṅ ke na tan meiṅ
-  Rota tha har ek uzw gham-e-Shaah-e-zaman meiṅ
+  Rota tha har ek uzw gham-e-Shaah-e-zamaan meiṅ
 
   2
   Mashghul jo the khel meiṅ atfaal wo saare
   Karti thi Sakina wahaaṅ hasrat se nazaare
   Kehti thi ke kya ho gaye hamjoli hamaare
-  Baba Ali Asghar ko kahaaṅ leke sidhaare
+  Baba Ali Asghar ko kahaaṅ le ke sidhaare
 
   3
-  Sab bachche yahaaṅ khelte haiṅ khandah zanaaṅ hai
+  Sab bachche yahaaṅ khelte haiṅ khanda zanaaṅ hai
   Maiṅ khelti thi jin se wo atfaal kahaaṅ hai
-  Naagah namudaar hui shaam-e-gharibaaṅ
+  Naagaah namudaar hui shaam-e-gharibaaṅ
   Aaya ghazab aalud wahaaṅ Shimr bad imaan
 
   4
-  Ek ek se mukhaatib hua wo dushman-e-Yazdaaṅ
+  Ak ak se mukhaatib hua wo dushman-e-Yazdaaṅ
   Ab jaao ke hota hai muqaffil dar-e-zindaaṅ
-  Hoegi rehaai na kabhi Aal-e-Aba ki
-  Kal dekhiyo phir sair asiraan-e-bala ki
+  Hoe gi rihaai na kabhi Aal-e-Aba ki
+  Kal dekhiyo phir sair asiraan-e-balaa ki
 
   5
   Ye sun ke pareshaan hua amboh wo saara
-  Gum ho gaya ek shakhs ka farzand qazaara
+  Gum ho gaya ak shakhs ka farzand qazaa raa
   Chillaaya pidar us ka raha dil pa na yaara
   Farzand bhi baba use keh keh ke pukaara
 
   6
-  Wo tifl lipatne jo laga aake pidar se
-  Paida hui ek aah Sakina ke jigar se
-  Bhar bhar ke dam-e-sard ye ki Bano se guftaar
+  Wo tifl lipatne jo laga aa ke pidar se
+  Paida hui ak aah Sakina ke jigar se
+  Bhar bhar ke dam-e-sard ye ki Baano se guftaar
   Is bachche ko dekho ke kya khush hai ye dildaar
 
   7
   Kya naam-e-pidar pyaar se leta hai ye har baar
-  Ek hum hai ke hai baap ki furqat meiṅ giraftaar
+  Ak ham hai ke hai baap ki furqat meiṅ giraftaar
   Dil meiṅ jo mere dard hai Khaaliq pa ayaaṅ hai
   Maiṅ kis ko kahuṅ baap mera baap kahaaṅ hai
 
   8
   Baba mere hote to unheṅ kehti maiṅ baba
-  Ab baap kahaaṅ jisko kahuṅ baap maiṅ dukhiya
+  Ab baap kahaaṅ jis ko kahuṅ baap maiṅ dukhiya
   Yuṅ koi pidar beti se ghaafil nahiṅ hota
   Hairaan huṅ baba ke wo ashfaaq hue kya
 
   9
-  Aada ne hameṅ qaid kiya Shaam meiṅ laakar
-  Baba mere kiuṅ mujhko nahiṅ dhundte aakar
-  Ye kehke Sakina pa jo riqqat hui taari
-  Bas haaye pidar kehke kai baar pukaari
+  Aadaa ne hameṅ qaid kiya Shaam meiṅ laakar
+  Baba mere kiuṅ kar mujhko nahiṅ dhundte aakar
+  Ye keh ke Sakina pa jo riqqat hui taari
+  Bas haaye pidar keh ke kai baar pukaari
 
   10
   Tarpi jo zamiṅ par to zamiṅ hil gayi saari
   Jhunjhla ke kaha Shimr ne phir karti ho zaari
-  Ab khub rulaauṅga tujhe maiṅ na daruṅga
-  Rah tujhko asiroṅ se juda qaid karuṅga
+  Ab khub rulaauṅ ga tujhe maiṅ na daruṅ ga
+  Rah tujhko asiroṅ se juda qaid karuṅ ga
 
   11
   Phir Shimr ne baazu-e-Sakina ko jo pakra
   Kunbe ki taraf us ne ajab yaas se dekha
   Sab qaidiyoṅ meiṅ ek qayaamat hui barpa
-  Sajjad ke qadmoṅ par machal kar giri dukhiya
+  Sajjaad ke qadmoṅ par machal kar giri dukhiya
 
   12
   Yuṅ lipti thi bhaai se wo is khauf o khatar se
-  Ek haath to gardan meiṅ tha ek haath kamar meiṅ
-  Muṅh dekh ke Sajjad ka kehti thi wo dar kar
-  Ab aap mere rone ke zaamin ho biradar
+  Ak haath to gardan meiṅ tha ak haath kamar meiṅ
+  Muṅh dekh ke Sajjaad ka kehti thi wo dar kar
+  Ab aap mere rone ke zaamin ho baraadar
 
   13
-  Gar tum se chhuti zist meri hoegi kiuṅkar
+  Gar tum se chhuti zist meri hoe gi kiuṅ kar
   Ab rouṅ to jo chaahe kare Shimr-e-sitamgar
-  Bhaiya mujhe tu Shimr se is waqt bachaale
+  Bhaiyaa mujhe tu Shimr se is waqt bachaale
   Ab rouṅ to kar dijiyo zaalim ke hawaale
 
   14
-  Ab roi so maiṅ roi na phir rouṅgi zinhaar
+  Ab roi so maiṅ roi na phir rouṅ gi zinhaar
   Ab rouṅ agar baap ko apne to gunahgaar
   Farmaao ke ab chhor de mujhko ye jafaakaar
   Baazu mera dukhne laga ae Aabid-e-bimaar
 
   15
-  Kis tarah juda kunbe se hoegi Sakina
-  Tum kehdo qasam khaake na roegi Sakina
-  Ye kehti thi khincha jo sitamgar ne qazaara
+  Kis tarah juda kunbe se hoe gi Sakina
+  Tum keh do qasam khaa ke na roe gi Sakina
+  Ye kehti thi khincha jo sitamgar ne qazaa raa
   Kurta to phata tha wo phata aur bhi saara
 
   16
   Tab Aabid-e-bimaar ne rokar ye pukaara
   Ae Shimr ye bin baap ki bachchi hai khudaara
-  Ghaafil teri dehshat se na hoegi Sakina
-  Ab aisa dari hai ke na roegi Sakina
+  Ghaafil teri dehshat se na hoe gi Sakina
+  Ab aisa dari hai ke na roe gi Sakina
 ---
 زنداں میں مقید ہوئے جس دم حرم شاہ
 انبوہ خلائق ہوا دروازے پہ ناگاہ

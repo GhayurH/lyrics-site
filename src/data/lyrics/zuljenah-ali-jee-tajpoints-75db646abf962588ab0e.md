@@ -1,28 +1,47 @@
 ---
-title: "Zuljenah Ali Jee"
+title: "ذوالجناح علی جی"
+alternateTitle: "Zuljenah Ali Jee"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kya howa baba ko mere Zuljinah
+  Ashk kyun behtay hain tere Zuljinah
+  Dasht mein pohancha de mujhe Zuljinah
+  Khair ho Allah karey Zuljinah
+
+  2
+  Chehray pe kis ka hai lahu kya howa Zuljinah
+  Aati hai kyun khon ki bo yeh bata Zuljinah
+  Zakhmi howa kis liye sar ko utha Zuljinah
+  Bool kahan reh gaya baba mera Zuljinah
+
+  3
+  Hilti hai kyun ran ki musalsal zameen Zuljinah
+  Hoti hai dadi bhi wahin par kahin Zuljinah
+  Jana hai jaldi mujhe unn ke qareeb Zuljinah
+  Pas mere ab tu chacha bhi nahi Zuljinah
 ---
 
-1
-Kya Howa Baba Ko Mere Zuljinah.
-Ashk Kyun Behtay Hain Tere Zuljinah.
-Dasht Mein Pohancha De Mujhe Zuljinah.
-Khair Ho ALLAH Karey Zuljinah.
+۱
+کیا ہوا بابا کو میرے ذوالجناح
+اشک کیوں بہتے ہیں تیرے ذوالجناح
+دشت میں پہنچا دے مجھے ذوالجناح
+خیر ہو اللہ کرے ذوالجناح
 
-2
-Chehray Pe Kis Ka Hai Lahu Kya Howa Zuljinah.
-Aati Hai Kyun Khon Ki Bo Yeh Bata Zuljinah.
-Zakhmi Howa Kis Liye Sar Ko Utha Zuljinah.
-Bool Kahan Reh Gaya Baba Mera Zuljinah.
+۲
+چہرے پہ کس کا ہے لہو کیا ہوا ذوالجناح
+آتی ہے کیوں خون کی بو یہ بتا ذوالجناح
+زخمی ہوا کس لیے سر کو اٹھا ذوالجناح
+بول کہاں رہ گیا بابا میرا ذوالجناح
 
-3
-Hilti Hai Kyun Ran Ki Musalsal Zameen Zuljinah.
-Hoti Hai Dadi Bhi Wahin Par Kahin Zuljinah.
-Jana Hai Jaldi Mujhe Unn Ke Qareeb Zuljinah.
-Pas Mere Ab Tu Chacha Bhi Nahi Zuljinah.
+۳
+ہلتی ہے کیوں رن کی مسلسل زمین ذوالجناح
+ہوتی ہے دادی بھی وہیں پر کہیں ذوالجناح
+جانا ہے جلدی مجھے ان کے قریب ذوالجناح
+پاس میرے اب تو چچا بھی نہیں ذوالجناح

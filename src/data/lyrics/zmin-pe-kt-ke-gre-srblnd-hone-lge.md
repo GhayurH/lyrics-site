@@ -7,6 +7,57 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zamiṅ pe kat ke gire, sarbuland hone lage
+  Yeh log nok-e-sinaaṅ par buland hone lage
+
+  1
+  Faza meiṅ phail rahi hai Rasul ki khushbu
+  Sar-e-faras Ali Akbar buland hone lage
+
+  2
+  Udhar se naara-e-hal min buland hone laga
+  Idhar se jhule meiṅ Asghar buland hone lage
+
+  3
+  Azaan-e-irjai zakhmoṅ pe sarsaraati hai
+  Husain sajde meiṅ jhuk kar buland hone lage
+
+  4
+  Abu Turaab ka beta agar ishaara kare
+  Zamin chhor ke mehvar buland hone lage
+
+  5
+  Yeh mashk, mashk-e-Sakina hai is ko zeba hai
+  Keh yeh alam ke baraabar buland hone lage
+
+  6
+  Yeh beridaai raza-e-Khuda meiṅ hai varna
+  Har ek simt se chaadar buland hone lage
+
+  7
+  Yeh sar jhukaaye jo qaidi khamosh baitha hai
+  Kare khitaab to mimbar buland hone lage
+
+  8
+  Maiṅ aasmaaṅ ko sunaauṅ zamin ka nauha
+  Bichhaauṅ farsh-e-aza ghar buland hone lage
+
+  9
+  Jahaaṅ jahaaṅ bhi dabaai gai sadaa-e-zamir
+  Vahaaṅ vahaaṅ se bahattar buland hone lage
+
+  10
+  Jhukaaye sar jo utha kar bayaaz-e-soz o salaam
+  Huzur-e-Shaah sukhanvar buland hone lage
+
+  11
+  Yeh mera shaana-e-kamzor o muzmahil, Maula
+  Ba faiz-e-maatam-e-Sarvar buland hone lage
+
+  12
+  Mohtaaj-e-dua
+  Faqir Arif Imam
 ---
 
 زمیں پہ کٹ کے گرے، سربلند ہونے لگے

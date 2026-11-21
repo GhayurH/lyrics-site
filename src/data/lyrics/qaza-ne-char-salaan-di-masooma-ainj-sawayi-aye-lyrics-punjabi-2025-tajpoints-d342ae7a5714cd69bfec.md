@@ -1,29 +1,48 @@
 ---
-title: "Qaza Ne Char Salaan Di Masooma Ainj Sawayi Aye Lyrics Punjabi 2025"
+title: "قضا نے چار سالاں دی معصومہ اینج سوائی اے"
+alternateTitle: "Qaza Ne Char Salaan Di Masooma Ainj Sawayi Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qaza ne char salaan di masooma ainj sawayi aye
+  Kafan mitiyaan ne paya aye qabar pathraan banai aye
+  Dar-e-zindan taun langday janazay ais tarha wekhay
+  Jiwein kuj be kafan lashay Sakina chad ke aayi aye
+
+  2
+  Shab-e-Ashor di jagi udeekaan wich si babay di
+  Jidhey seene te sondi si odhay sir ne sawai aye
+  Sawai nayi tamachay mar ke be hosh keeti si
+  Behoshi taun tamachay mar ke bachi jagai aye
+
+  3
+  Oh sukdi sukdi was gayi aye Sakina Sain de gal wich
+  Na jane kis tarha di zalimaan rasi pawayi aye
+  Kita aye Shamiyaan Akbar aye sabit qaid khane wich
+  Aina di sirf putraan nayi dhiyaan nal v larai aye
 ---
 
-1
-Qaza Ne Char Salaan Di Masooma Ainj Sawayi Aye.
-Kafan Mitiyaan Ne Paya Aye Qabar Pathraan Banai Aye.
-Dar-e-Zindan Taun Langday Janazay Ais Tarha Wekhay.
-Jiwein Kuj Be Kafan Lashay Sakina Chad Ke Aayi Aye.
+۱
+قضا نے چار سالاں دی معصومہ اینج سوائی اے
+کفن مٹیاں نے پایا اے قبر پتھراں بنائی اے
+درِ زنداں توں لنگھدے جنازے ایس طرح ویکھے
+جیویں کجھ بے کفن لاشے سکینہ چھڈ کے آئی اے
 
-2
-Shab-e-Ashor Di Jagi Udeekaan Wich Si Babay Di.
-Jidhey Seene Te Sondi Si Odhay Sir Ne Sawai Aye.
-Sawai Nayi Tamachay Mar Ke Be Hosh Keeti Si.
-Behoshi Taun Tamachay Mar Ke Bachi Jagai Aye.
+۲
+شبِ عاشور دی جاگی اڈیکاں وچ سی بابے دی
+جیدھے سینے تے سوندی سی اوہدے سر نے سوائی اے
+سوائی نئیں تماچے مار کے بے ہوش کیتی سی
+بے ہوشی توں تماچے مار کے بچی جگائی اے
 
-3
-Oh Sukdi Sukdi Was Gayi Aye Sakina Sain De Gal Wich.
-Na Jane Kis Tarha Di Zalimaan Rasi Pawayi Aye.
-Kita Aye Shamiyaan Akbar Aye Sabit Qaid Khane Wich.
-Aina Di Sirf Putraan Nayi Dhiyaan Nal V Larai Aye.
+۳
+اوہ سکدی سکدی وس گئی اے سکینہ سائیں دے گل وچ
+نہ جانے کس طرح دی ظالماں رسی پوائی اے
+کیتا اے شامیاں اکبر اے ثابت قید خانے وچ
+ایناں دی صرف پتراں نئیں دھیاں نال وی لڑائی اے

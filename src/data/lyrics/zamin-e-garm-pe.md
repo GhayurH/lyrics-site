@@ -57,9 +57,9 @@ romanLyrics: |-
   Magar Husain ki aankhoṅ meiṅ bas andhera tha
 
   8
-  Qadam Husain ke Akhtar zamaana chumega
-  Maqaam-e-arsh pe dekhegi sabr ko dunya
-  Rahega lab pe fazaaoṅ ke har ghari nauha
+  Qadam Husain ke Akhtar zamaana chume ga
+  Maqaam-e-arsh pe dekhe gi sabr ko dunya
+  Rahe ga lab pe fazaaoṅ ke har ghari nauha
   Husain uthaaeṅ ge laasha jawaan bete ka
 ---
 زمین گرم پہ لاشہ پڑا ہے اکبر کا

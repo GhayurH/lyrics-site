@@ -1,36 +1,62 @@
 ---
 title: "رہ گئی علیؑ کی بیٹیؑ غم اٹھانے کے لئے"
+alternateTitle: "Reh Gayi Ali Ki Behti Ghum Uthanay Kay Liye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Reh gayi Ali ki behti ghum uthanay kay liye
+
+  1
+  Hussain bhi chalay gaye hain saar katanay kay liye
+
+  2
+  Hussain ki nigah bahwafa ko dhondnay laagi
+  Qabar chay mahenay walay ki bananay kay liye
+
+  3
+  Jala deya sabhi charagh dasht main Hussain nay
+  Aik baita ray gaya hay Shaam janay kay liye
+
+  4
+  Qasim hazeen ki laash tukray tukray ho gayi
+  Haar taraf say dasht-e-Karbala sajanay kay liye
+
+  5
+  Lagaein gay wo aagh aaj khaima-e-Hussain main
+  Aeya tay jo Fatima ka ghaar jalanay kay liye
+
+  6
+  Batool zadiyon kay saar say chadarain bhi cheenli
+  Itnay saray zulm aur isi gharanay kay liye
 ---
 
-Reh gayi Ali ki behti ghum uthanay kay liye
+رہ گئی علی کی بیٹی غم اٹھانے کے لیے
 
-1
-Hussain bhi chalay gaye hain saar katanay kay liye
+۱
+حسین بھی چلے گئے ہیں سر کٹانے کے لیے
 
-2
-1) Hussain ki nigah bahwafa ko dhondnay laagi
-Qabar chay mahenay walay ki bananay kay liye
+۲
+حسین کی نگاہ باوفا کو ڈھونڈنے لگی
+قبر چھ مہینے والے کی بنانے کے لیے
 
-3
-2) Jala deya sabhi charagh dasht main Hussain nay
-Aik baita ray gaya hay shaam janay kay liye
+۳
+جلا دیا سبھی چراغ دشت میں حسین نے
+ایک بیٹا رہ گیا ہے شام جانے کے لیے
 
-4
-3) Qasim hazeen ki laash tukray tukray ho gayi
-Haar taraf say dasht-e-Karbala sajanay kay liye
+۴
+قاسمِ حزیں کی لاش ٹکڑے ٹکڑے ہو گئی
+ہر طرف سے دشتِ کربلا سجانے کے لیے
 
-5
-4) Lagaein gay wo aagh aaj khaima-e-Hussain main
-Aeya tay jo Fatima ka ghaar jalanay kay liye
+۵
+لگائیں گے وہ آگ آج خیمۂ حسین میں
+آئے تھے جو فاطمہ کا گھر جلانے کے لیے
 
-6
-5) Batool zadiyon kay saar say chadarain bhi cheenli
-Itnay saray zulm aur isi gharanay kay liye
+۶
+بتول زادیوں کے سر سے چادریں بھی چھین لیں
+اتنے سارے ظلم اور اسی گھرانے کے لیے

@@ -12,76 +12,76 @@ published: false
 romanLyrics: |-
   1
   Aafat se ham sab dur rahe
-  Zehra ye duayeiṅ karti hai
-  Shabbir ko roti rehti hai
-  Aur phasliyaṅ pakre chalti hai
-  Jaa tera safar abaad rahe
-  Humraah tera sajjad rahe
-  Maula mere sabko bulwalo
-  Lab par ye tere faryad rahe
-  Jaa karbobala jaane wale
+  Zehra ye duaaeṅ karti haiṅ
+  Shabbir ko roti rehti haiṅ
+  Aur pasliyaaṅ pakre chalti haiṅ
+  Jaa tera safar aabaad rahe
+  Hamraah tera Sajjad rahe
+  Maula mere sab ko bulwa lo
+  Lab par ye tere faryaad rahe
+  Jaa Karb o Bala jaane wale
   Shabbir ka rauza chum ke aa
-  Aur shaam meiṅ ek to bhai
+  Aur Shaam meiṅ ek to bhaai
   Hamshir ka rauza chum ke aa
   Karbala jaane waloṅ
-  Meri arzi ye sheh ko sunana
+  Meri aarizi ye sheh ko sunaana
   Karbala jaane waloṅ
   Sheh ki dehliz par sar jo rakhna
   Kehna aisa bhi aashiq hai tera
   Tujhse milne ko tarpe hai lekin
   Usko majburiyoṅ ne hai ghera
-  Ibne mushkil kusha do bulawa
-  Kardo mumkin wahaṅ uska aana
-  Karbala jaane waloṅ...
-  Jis jagah tir asghar ne khaya
-  Whaṅ ye kehna ke ae shahzade
+  Ibn-e-Mushkil Kusha do bulaawa
+  Kar do mumkin wahaaṅ uska aana
+  Karbala jaane waloṅ
+  Jis jagah tir Asghar ne khaaya
+  Waaṅ ye kehna ke ae shaahzaade
   Naam par tere apne watan meiṅ
-  Hai bikhari sabileiṅ lagate
-  Roz o shab humko tarpaye rakhe
-  Tera tishna hi dunya se jaana
-  Karbala jaane waloṅ...
-  Dar pe ghazi ke ye jaake kehna
+  Haiṅ bhikaari sabileṅ lagaate
+  Roz o shab ham ko tarpaaye rakhe
+  Tera tishna hi duniya se jaana
+  Karbala jaane waloṅ
+  Dar pe Ghazi ke ye jaa ke kehna
   Dur apne watan meiṅ dilawar
-  Gham manate hai abbas tera
-  Tere shayda alam ko saja kar
-  Hum faqiroṅ ko baabe hawaij
+  Gham manaate haiṅ Abbas tera
+  Tere shaida alam ko sajaa kar
+  Ham faqiroṅ ko Baab-e-Hawaaij
   Jaldi darbar apne bulana
-  Karbala jaane waloṅ...
-  Jis jagah khayi akbar ne barchi
-  Kehna kuch aise ghamkhar hai jo
-  Maange sehra utha kar duayeiṅ
-  Tujh pe hi ye jawani fida ho
-  Muntazir hai gada wo tumhare
-  Unko mehman jaldi banana
-  Karbala jaane waloṅ...
-  Tillaye zainabi pe ye kehna
-  Hai tumhare biradar ki nagri
+  Karbala jaane waloṅ
+  Jis jagah khaai Akbar ne barchhi
+  Kehna kuchh aise ghamkhwaar hai jo
+  Maange sehra uthaa kar duaaeṅ
+  Tujh pe hi ye jawaani fida ho
+  Muntazir hai gada wo tumhaare
+  Unko mehmaan jaldi banaana
+  Karbala jaane waloṅ
+  Tilla-e-Zainabi pe ye kehna
+  Hai tumhaare baraadar ki nagri
   Kaun rokega usko bhala phir
-  Jisko tumne ijazat ho dedi
-  Ae shaheedo ki waris khudaya
-  Jald humko bulawa dilana
-  Karbala jaane waloṅ...
-  Jaaye qayyam meiṅ bibiyoṅ ke
-  Jaake dena hamari salami
-  Bibiyoṅ tum ne de kar ridayeiṅ
-  Din ki aabru hai bacha li
+  Jis ko tum ne ijaazat ho de di
+  Ae shahidoṅ ke waaris Khudaaya
+  Jald ham ko bulaawa dilaana
+  Karbala jaane waloṅ
+  Jaa-e-Qiyaam meiṅ Bibiyoṅ ke
+  Jaa ke dena hamaari salaami
+  Bibiyoṅ tum ne de kar ridaaeṅ
+  Din ki aabru hai bahaali
   Muztarib hai jo apne watan meiṅ
-  Unse pursa yahaṅ bhi karana
-  Karbala jaane waloṅ...
-  Jaake shohda ke marqad pe kehna
-  Ae mere shaah ke jaanisaroṅ
-  Rad na hogi tumhari sifaarish
-  Tum jo kehdoge ae sheh ke pyaroṅ
-  Jo nahi aa sake mere maula
-  Unko jaldi hi nagri dikhana
-  Karbala jaane waloṅ...
-  Mohsin e diṅ ke dar se to asif
-  Laut sakta nahi koi khaali
+  Un se pursa yahaaṅ bhi karaana
+  Karbala jaane waloṅ
+  Jaa ke shohada ke marqad pe kehna
+  Ae mere shaah ke jaannisaaroṅ
+  Rad na hogi tumhaari sifaarish
+  Tum jo keh do ge ae sheh ke pyaaroṅ
+  Jo nahiṅ aa sake mere Maula
+  Unko jaldi hi nagri dikhaana
+  Karbala jaane waloṅ
+  Mohsin-e-Diṅ ke dar se to Asif
+  Laut sakta nahiṅ koi khaali
   Kaise mumkin ho ke apni hasrat
   Sheh ke darbar meiṅ na ho puri
   Gar dua ye suna dega zaair
-  Phir yakheeni hai apna bhi jaana
-  Karbala jaane waloṅ...
+  Phir yaqini hai apna bhi jaana
+  Karbala jaane waloṅ
 ---
 
 ۱

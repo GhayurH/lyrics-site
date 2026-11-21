@@ -26,7 +26,7 @@ romanLyrics: |-
   2
   Shabbir ye des paraaya hai
   Warna maiṅ tumhaari mayyat par
-  Ambaar lagaati kaliyoṅ ke
+  Anbaar lagaati kaliyoṅ ke
   Phuloṅ ki meṅh barsa deti
 
   3

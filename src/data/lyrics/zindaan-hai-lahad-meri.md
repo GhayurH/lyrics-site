@@ -16,7 +16,7 @@ romanLyrics: |-
   Karna yahi janaaza Sajjad dafan mera
 
   1
-  Maiṅ baap ke sine pe bare chain se soti thi
+  Main baap ke sine pe bare chain se soti thi
   Ab khaak ke bistar pe dukhta hai badan mera
 
   2
@@ -28,15 +28,15 @@ romanLyrics: |-
   Ae bhaai agar puchhe Akbar ki behan mera
 
   4
-  Kokh ujri hai maadar ki nam aankh hai khwaahar ki
+  Kokh ujri hai maadar ki nam aankheṅ haiṅ khwaahar ki
   Asghar ke bina bhaiya suna hai sehan mera
 
   5
   Baaba na chacha Akbar Qasim na Ali Asghar
-  Ek din meiṅ ujaara hai ummat ne chaman mera
+  Ik din mein ujaara hai ummat ne chaman mera
 
   6
-  Jawad ye kehta hai sadqe meiṅ Sakina ke
+  Jawad ye kehta hai sadqe mein Sakina ke
   Saadaat ke gham se hai waabasta sukhan mera
 ---
 زنداں ہے لحد میری کرتہ ہے کفن میرا

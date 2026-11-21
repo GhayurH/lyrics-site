@@ -1,32 +1,54 @@
 ---
-title: "Kaise Main Likhon Shan Teri Shah E Khurasan Lyrics 2018"
+title: "کیسے میں لکھوں شان تیری شاہِ خراسان"
+alternateTitle: "Kaise Main Likhon Shan Teri Shah-e-Khurasan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kaise main likhon shan teri Shah-e-Khurasan
+  Hai madha yeh Quran teri Shah-e-Khurasan
+
+  1
+  Jab parh ke khatam karta hoon karta hai sana phir
+  Woh Sorah-e-Rehman teri Shah-e-Khurasan
+  Har cheez mein tujh se hi tu mangoon ga aye Mula
+  Hai dolat-e-Yazdan teri Shah-e-Khurasan
+
+  2
+  Akbar ki tu jageer hai woh Karb-o-Bala par
+  Jageer hai Iran teri Shah-e-Khurasan
+  Nokar ne tere roka hai tofan-e-samandar
+  Kafi hai yehi shan teri Shah-e-Khurasan
+
+  3
+  Hoti hai atta zindagi darbar se tere
+  Khud maut hai darban teri Shah-e-Khurasan
+  Zawwar yeh Afraz tera sab se hai kehta
+  Janat hai Khurasan teri Shah-e-Khurasan
 ---
 
-Kaise Main Likhon Shan Teri Shah-e-Khurasan
-Hai Madha Yeh Quran Teri Shah-e-Khurasan.
+کیسے میں لکھوں شان تیری شاہِ خراسان
+ہے مدح یہ قرآن تیری شاہِ خراسان
 
-1
-Jab Parh Ke Khatam Karta Hoon karta Hai Sana Phir.
-Woh Sorah-e-Rehman Teri Shah-e-Khurasan.
-Har Cheez Mein Tujh Se Hi Tu Mangoon Ga Aye Mula.
-Hai Dolat-e-Yazdan Teri Shah-e-Khurasan.
+۱
+جب پڑھ کے ختم کرتا ہوں کرتا ہے ثنا پھر
+وہ سورۂ رحمان تیری شاہِ خراسان
+ہر چیز میں تجھ سے ہی تو مانگوں گا اے مولا
+ہے دولتِ یزداں تیری شاہِ خراسان
 
-2
-Akbar Ki Tu Jageer Hai Woh Karb-o-Bala Par.
-Jageer Hai Iran Teri Shah-e-Khurasan.
-Nokar Ne Tere Roka Hai Tofan-e-Samandar.
-Kafi Hai Yehi Shan Teri Shah-e-Khurasan.
+۲
+اکبر کی تو جاگیر ہے وہ کرب و بلا پر
+جاگیر ہے ایران تیری شاہِ خراسان
+نوکر نے تیرے روکا ہے طوفانِ سمندر
+کافی ہے یہی شان تیری شاہِ خراسان
 
-3
-Hoti Hai Atta Zindagi Darbar Se Tere.
-Khud Maut Hai Darban Teri Shah-e-Khurasan.
-Zawwar Yeh Afraz Tera Sab Se Hai Kehta.
-Janat Hai Khurasan Teri Shah-e-Khurasan.
+۳
+ہوتی ہے عطا زندگی دربار سے تیرے
+خود موت ہے دربان تیری شاہِ خراسان
+زوار یہ افراز تیرا سب سے ہے کہتا
+جنت ہے خراسان تیری شاہِ خراسان

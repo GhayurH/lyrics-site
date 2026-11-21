@@ -1,32 +1,54 @@
 ---
-title: "Qayamat Tak Azadari Rahe Gi Ammar Yasir Magsi 2024 Beautiful"
+title: "قیامت تک عزاداری رہے گی"
+alternateTitle: "Qayamat Tak Azadari Rahe Gi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ammar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qayamat tak azadari rahe gi
+  Yeh majlis hamd hai jari rahe gi
+
+  1
+  Tum ik inkar ke munkir ho jab tak
+  Tumhari soch darbari rahe gi
+  Ali ne di hain dunya ko talaqein
+  Yeh aurat younhi bazari rahe gi
+
+  2
+  Jo Ghadar e Ghadeer-e-Murtaza hain
+  Inhein rohani bemari rahe gi
+  Khuda ke ghar ka hajj baqi rahe ga
+  Agar Maula ki zawwari rahe gi
+
+  3
+  Tere dil mein kadorat hai alam se
+  Teri fitrat mein ghadari rahe gi
+  Bahisht our Karbala ke bain Ammar
+  Hamesha surkh rahdari rahe gi
 ---
 
-Qayamat Tak Azadari Rahe Gi.
-Yeh Majlis Hamd Hai Jari Rahe Gi.
+قیامت تک عزاداری رہے گی
+یہ مجلس حمد ہے جاری رہے گی
 
-1
-Tum Ik Inkar Ke Munkir Ho Jab Tak.
-Tumhari Soch Darbari Rahe Gi.
-Ali Ne Di Hain Dunya Ko Talaqein.
-Yeh Aurat Younhi Bazari Rahe Gi.
+۱
+تم اک انکار کے منکر ہو جب تک
+تمہاری سوچ درباری رہے گی
+علی نے دی ہیں دنیا کو طلاقیں
+یہ عورت یوں ہی بازاری رہے گی
 
-2
-Jo Ghadar e Ghadeer-e-Murtaza Hain.
-Inhein Rohani Bemari Rahe Gi.
-Khuda Ke Ghar Ka Hajj Baqi Rahe Ga.
-Agar Maula Ki Zawwari Rahe Gi.
+۲
+جو غدارِ غدیرِ مرتضیٰ ہیں
+انہیں روحانی بیماری رہے گی
+خدا کے گھر کا حج باقی رہے گا
+اگر مولا کی زواری رہے گی
 
-3
-Tere Dil Mein Kadorat Hai Alam Se.
-Teri Fitrat Mein Ghadari Rahe Gi.
-Bahisht Our Karbala Ke Bain Ammar.
-Hamesha Surkh Rahdari Rahe Gi.
+۳
+تیرے دل میں کدورت ہے عَلَم سے
+تیری فطرت میں غداری رہے گی
+بہشت اور کربلا کے بین عمار
+ہمیشہ سرخ راہداری رہے گی

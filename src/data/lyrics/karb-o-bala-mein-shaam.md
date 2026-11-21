@@ -25,7 +25,7 @@ romanLyrics: |-
   Aur kis ki hasti gumnaam hui
 
   3
-  Zainab se puchho kiun kar
+  Zainab se puchho kiunkar
   Din guzra tha Aashure ka
   Subh hui to kya manzar tha
   Kis aalam meiṅ shaam hui

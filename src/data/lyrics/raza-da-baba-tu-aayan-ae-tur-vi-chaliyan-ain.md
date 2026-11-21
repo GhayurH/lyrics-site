@@ -8,52 +8,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Raza da baba tu aayaṅ ae tur wi chalyaṅ aey
-  Dasa cha Mola kaduṅ tik hun judaiyaṅ nay
+  Raza da baba tuṅ aayaaṅ ae tur vi chaliyaaṅ eiṅ
+  Dasa cha Mola kaduṅ tik hunr judaaiyaaṅ neiṅ
 
   1
-  Athawiṅ eidaaṅ guzar gaiyaṅ intezaraṅ wich
-  O dekh rowndiyaṅ dhiyaaṅ diyaṅ duhaiyaṅ nay
+  Athaaveiṅ eidaaṅ guzar gaiyaaṅ intezaaraaṅ vich
+  Aa dekh rondiyaaṅ dhiyaaṅ diyaaṅ duhaaiyaaṅ neiṅ
 
   2
-  Ditha hai khaab tusaṅ de may aaon tuṅ pehlaaṅ
-  Mukaan nane kuṅ dainde may ambiya dekhe
-  Habib Hur te Abuzar Hilal Qambar vi
-  Tere mazar te ronde may bil qaza dekhe
-  Sune nay baqaya wichoṅ vain dadi Zehra de
-  Siraṅ che paiyaṅ ne khaakaṅ Batul jaiyaṅ ne
+  Ditha hai khaab tusaaṅ de meiṅ aaonr tuṅ pehlaaṅ
+  Mukaanr naane kuṅ deinde meiṅ ambiyaa dekhe
+  Habib Hur te Abuzar Bilal Qambar vi
+  Teinde mazaar te ronde meiṅ bilqaza dekhe
+  Sunre neiṅ Baqia vichoṅ veinr daadi Zehra de
+  Saraaṅ che paiyaaṅ neiṅ khaakaaṅ Batul jaaiyaaṅ neiṅ
 
   3
-  Gharib dhiyaṅ ne ro ro ke piyo tuṅ puchya ae
-  Hathaṅ kuṅ baba tu chadar ch kiuṅ lukaya ae
-  Inhaṅ hathaṅ da je saya nasib naiṅ saa koon
-  Khuda toon baad sade sir te kainda saaya ae
-  Tu chauda saal pichoṅ aayan aj wi qaidi ain
-  Dasa cha baba ae zanjiraṅ kaiṅ pawaiyaṅ naiṅ
+  Gharib dhiyaaṅ ne ro ro ke piyo tuṅ puchhiya ae
+  Hathaaṅ kuṅ baba tuṅ chaadar che kiuṅ lukaaya ae
+  Inaaṅ hathaaṅ da je saaya nasib naiṅ saakuṅ
+  Khuda to baad saade sir te keinda saaya ae
+  Tuṅ chaudah saal pichhoṅ aaya aj vi qaidi ae
+  Dasa cha baba ae zanjiraaṅ keiṅ pavaaiyaaṅ neiṅ
 
   4
-  May kiya dasawaṅ taqaza aey ain fitrat da
-  Ae piyo te dhiyaṅ da rishta ajib honda hay
-  Puttar te honde ne bunyad baap dade di
-  Dhiyaṅ da jag te anokha nasib honda hay
-  Samajh gayaṅ ke mulaqaat aj akhiri hay
-  Siraṅ te johokhaṅ yatimi ne aa basaiyan ne
+  Meiṅ kya dasaavaaṅ taqaaza hai ain fitrat da
+  Ae piyo te dhiyaaṅ da rishta ajib honda ae
+  Puttar te honde ne bunyaad baap daade di
+  Dhiyaaṅ da jag te anokha nasib honda ae
+  Samajh gaiyaaṅ ke mulaaqaat aj akhiri ae
+  Saraaṅ te jokhaaṅ yatimi ne aa vasaaiyaaṅ neiṅ
 
   5
-  Tuṅ baad muddataṅ de aaya aey chorr chalya aey
-  Dasa ke javaiṅ kairre dais hun tayyari ae
-  Tu hi hain laal sakhi laal Mola Jafer da
-  Barri baichain asaaṅ zindagi guzari ae
-  Koyi te haal dasa kiuṅ khamosh haiṅ Maula
-  Kerre ditoṅ ni ajaṅ honiyaṅ rehaiyaṅ nay
+  Tuṅ baad muddataaṅ de aaya eiṅ chhor chaliya eiṅ
+  Dasa ke jaaveiṅ keire des hunr tayyaari ae
+  Teinde tuṅ baad sakhi laal Mola Jafar da
+  Bari bechain asaaṅ zindagi guzaari ae
+  Koi te haal dasa kiuṅ khamosh haiṅ Mola
+  Keire dinaaṅ te ajaaṅ honiyaaṅ rehaaiyaaṅ neiṅ
 
   6
-  Mile rehai ukuṅ sadqa Musa Kazim da
-  Koi wi qaid azadar jo tera howe
-  Mila de sadqa maidi sain di judai da
-  Vicharr gaya je kise bhain da bhira howe
-  O bibiyaṅ diyaṅ Ghazi tu jholiaṅ bhar de
-  Jinaaṅ jinaaṅ ne tere dar te aasaṅ laiyaṅ ne
+  Mile rehaai okuṅ sadqa Musa Kaazim da
+  Koi vi qaidi azaadaar jo tera hove
+  Mila de sadqa meidi sein di judaai da
+  Vichhar gaya je kise bheinr da bhara hove
+  O bibiyaaṅ diyaaṅ Ghazi tuṅ jholiyaaṅ bhar de
+  Jinaaṅ jinaaṅ ne tere dar te aasaaṅ laaiyaaṅ neiṅ
 ---
 
 رضاؑ دا بابا توں آیاں اے ٹر وی چلیاں ایں

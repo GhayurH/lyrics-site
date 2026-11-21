@@ -34,12 +34,12 @@ romanLyrics: |-
   Utho Akbar Madine jaao Sughra ne bulaaya hai
 
   6
-  Asar khun-e-Abu Taalib rajas purdae yeh sehra par
-  Rasulallah ke din o shariat ko bachaaya hai
+  Asar khun-e-Abu Taalib rajaz parde ye sahra par
+  Rasul Allah ke din o shariat ko bachaaya hai
 
   7
   Kahaaṅ dhunde Ali Asghar ko maadar kis taraf jaaye
-  Andheri raat hai Beshir ne jangal basaaya hai
+  Andheri raat hai Be Shir ne jangal basaaya hai
 
   8
   Shah-e-bekas utha laaye haiṅ tukre laash-e-Qasim ke

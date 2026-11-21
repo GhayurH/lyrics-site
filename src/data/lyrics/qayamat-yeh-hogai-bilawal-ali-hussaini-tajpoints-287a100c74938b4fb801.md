@@ -1,28 +1,46 @@
 ---
-title: "Qayamat Yeh Hogai Bilawal Ali Hussaini"
+title: "قیامت یہ ہو گئی بلاول علی حسینی"
+alternateTitle: "Qayamat Yeh Hogai Bilawal Ali Hussaini"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hatif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qayamat yeh hogai Bilawal Ali Hussaini
+  Aal-e-Nabi pe kaisi qayamat yeh ho gayi
+  Betay ke gham mein baap ki beenayi kho gayi
+  Lasha jawan betay ka kandhoon pe baap ke
+  Kyun aasmaan gira na zameen banj ho gayi
+  Akbar tumhari yaad mein jab thak gayi Sughra
+  Aakhir nishan paon pe munh rakh ke so gayi
+  Laila pakar ke kokh yeh chalati hai Akbar
+  Maa lut gayi kamai biyabaan mein kho gayi
+  Zibh-e-Azeem ban gayi Shabeer ki hikmat
+  Sufyaniyat ko paon se sar tak dabo gayi
+  Akbar ko barchi mar kar zalim ne di sada
+  Keh de koi Hussain se qurbani ho gayi
+  Akbar ki azaan sare azadaron ke Hatif
+  Keh do Bilawal unn ke gunahon ko dho gayi
 ---
 
-1
-Qayamat Yeh Hogai Bilawal Ali Hussaini.
-Aal-e-Nabi Pe Kaisi Qayamat Yeh Ho Gayi.
-Betay Ke Gham Mein Baap Ki Beenayi Kho Gayi.
-Lasha Jawan Betay Ka Kandhoon Pe Baap Ke.
-Kyun Aasmaan Gira Na Zameen Banj Ho Gayi.
-Akbar Tumhari Yaad Mein Jab Thak Gayi Sughra.
-Aakhir Nishan Paon Pe Munh Rakh Ke So Gayi.
-Laila Pakar Ke Kokh Yeh Chalati Hai Akbar.
-Maa Lut Gayi Kamai Biyabaan Mein Kho Gayi.
-Zibh-e-Azeem Ban Gayi Shabeer Ki Hikmat.
-Sufyaniyat Ko Paon Se Sar Tak Dabo Gayi.
-Akbar Ko Barchi Mar Kar Zalim Ne Di Sada.
-Keh De Koi Hussain Se Qurbani Ho Gayi.
-Akbar Ki Azaan Sare Azadaron Ke Hatif.
-Keh Do Bilawal Unn Ke Gunahon Ko Dho Gayi.
+۱
+قیامت یہ ہو گئی بلاول علی حسینی
+آلِ نبی پہ کیسی قیامت یہ ہو گئی
+بیٹے کے غم میں باپ کی بینائی کھو گئی
+لاشہ جوان بیٹے کا کندھوں پہ باپ کے
+کیوں آسماں گرا نہ زمیں بانجھ ہو گئی
+اکبر تمہاری یاد میں جب تھک گئی صغریٰ
+آخر نشان پاؤں پہ منہ رکھ کے سو گئی
+لیلیٰ پکڑ کے کوکھ یہ چلاتی ہے اکبر
+ماں لٹ گئی کمائی بیاباں میں کھو گئی
+ذبحِ عظیم بن گئی شبیر کی حکمت
+سفیانیت کو پاؤں سے سر تک دبو گئی
+اکبر کو برچھی مار کر ظالم نے دی صدا
+کہہ دے کوئی حسین سے قربانی ہو گئی
+اکبر کی اذاں سارے عزاداروں کے ہاتف
+کہہ دو بلاول اُن کے گناہوں کو دھو گئی

@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaan meiṅ karti thi fughaaṅ shaah ki dukhtar
+  Zindaan meiṅ karti thi fighaaṅ shaah ki dukhtar
   Jald aaiye Baba
   Mar jaayegi is qaid meiṅ ab aap ki dukhtar
   Jald aaiye Baba

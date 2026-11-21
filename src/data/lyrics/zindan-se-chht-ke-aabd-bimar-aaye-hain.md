@@ -1,72 +1,133 @@
 ---
 title: "زنداں سے چھٹ کے عابدِ بیمارؑ آئے ہیں"
+alternateTitle: "Zindan Se Chhut Ke Abid-e Beemar Aaye Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Farhan Ali"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Aa gaye Saadat
+  Karbala aa gaye Saadat
+
+  1
+  Uthiye Hussain aap ke zawwar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  2
+  Bhoole nahi hain Shaam aur Kufe ke raaste
+  Tarsey hue hain Maula yeh matam ke waaste
+  Sub kuch luta ke aap ke ghamkhwar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  3
+  Zainab ne chalte nakey se khud ko gira diya
+  Phir kohniyon se chal ke gayen bhai se kaha
+  Hum log ho ke koocha o bazaar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  4
+  Gardan pe aur jism pe zanjeer ke nishaan
+  Ek ek zakhm dard ki kehta hai dastaan
+  Zindaan se zinda laut ke laachar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  5
+  Jee khol kr yahan tera matam krenge hum
+  Karbobala me majlis e chehlum krenge hum
+  Aey Maula Sham wale azadaar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  6
+  Zindaan mein ek teri azadar reh gai
+  Karbobala na aayi na Zindan se ghar gai
+  Dafna ke usko Aabid e beemar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  7
+  Zindaan mein krke aya hai majlis ye karwan
+  Sab bibiyan thi matmi Zainab thi nauha khuwan
+  Mehv e buka o deeda e khunbaar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  8
+  Aaisa safar Batool ki beti ne tay kiya
+  Dete nahi the log aseeron ko rasta
+  Tai kar ke sari manzilein dushwar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  9
+  Bedard the wo Shaam aur Kufe k sab makeen
+  Tang hogai thi aal e Muhammad pe ye zameen
+  Saadaat hokey jeene se bezaar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
+
+  10
+  Farhan o Mazhar Abidi kyun na hon nauha gar
+  Sajjad chut k qaid se baba ki qabr par
+  Lekr nishan e touq e garobaar aaye hain
+  Zindan se chut ke Abid e beemar aaye hain
 ---
 
-Aagaye Saadat.....
-Karbala Aa Gaye Saadat.....
+آ گئے سادات
+کربلا آ گئے سادات
 
-1
-Uthiye Hussain Aap Ke Zawwar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۱
+اٹھیے حسین آپ کے زوّار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-2
-Bhoole Nahi Hain Shaam Aur Kufe Ke Raaste
-Tarsey Hue Hain Maula Yeh Matam Ke Waaste
-Sub Kuch Luta Ke Aap Ke GhamKhwar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۲
+بھولے نہیں ہیں شام اور کوفے کے راستے
+ترسے ہوئے ہیں مولا یہ ماتم کے واسطے
+سب کچھ لٹا کے آپ کے غم خوار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-3
-Zainab Ne Chalte Nakey Se Khud Ko Gira Diya
-Phir Kohniyon Se Chal Ke Gayen Bhai Se Kaha
-Hum Log Ho Ke Koocha O Bazaar Aaye Hain...
-Zindan se chut ke Abid e beemar aaye hain
+۳
+زینب نے چلتے ناقے سے خود کو گرا دیا
+پھر کہنیوں سے چل کے گئیں بھائی سے کہا
+ہم لوگ ہو کے کوچہ و بازار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-4
-Gardan Pe Aur Jism Pe Zanjeer Ke Nishaan
-Ek Ek Zakhm Dard Ki Kehta Hai Dastaan
-Zindaan Se Zinda Laut Ke Laachar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۴
+گردن پہ اور جسم پہ زنجیر کے نشاں
+ایک ایک زخم درد کی کہتا ہے داستاں
+زنداں سے زندہ لوٹ کے لاچار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-5
-Jee Khol kr Yahan Tera Matam Krenge Hum
-Karbobala Me Majlis e Chehlum Krenge Hum
-Aey Maula Sham Wale Azadaar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۵
+جی کھول کر یہاں تیرا ماتم کریں گے ہم
+کرب و بلا میں مجلسِ چہلم کریں گے ہم
+اے مولا شام والے عزادار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-6
-Zindaan Mein Ek Teri Azadar Reh Gai
-Karbobala Na Aayi Na Zindan Se Ghar Gai
-Dafna Ke Usko AABID E BEEMAR Aaye Hain
-Zindan se chut ke Abid e beemar aaye hain
+۶
+زنداں میں ایک تیری عزادار رہ گئی
+کرب و بلا نہ آئی نہ زنداں سے گھر گئی
+دفنا کے اس کو عابدِ بیمار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-7
-Zindaan Mein Krke Aya Hai Majlis Ye Karwan
-Sab Bibiyan Thi Matmi Zainab Thi Nauha Khuwan
-Mehv e buka o Deeda e khunbaar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۷
+زنداں میں کر کے آیا ہے مجلس یہ کارواں
+سب بیبیاں تھیں ماتمی زینب تھی نوحہ خواں
+محوِ بکا و دیدۂ خوں بار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-8
-Aaisa Safar Batool Ki Beti Ne Tay Kiya
-Dete Nahi The Log Aseeron Ko Rasta
-Tai Kar Ke Sari Manzilein Dushwar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۸
+ایسا سفر بتول کی بیٹی نے طے کیا
+دیتے نہیں تھے لوگ اسیروں کو رستا
+طے کر کے ساری منزلیں دشوار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-9
-BeDard The Wo Shaam Aur Kufe K sab Makeen
-Tang Hogai Thi Aal e Muhammad pe ye Zameen
-Saadaat Hokey Jeene Se Bezaar Aaye Hain..
-Zindan se chut ke Abid e beemar aaye hain
+۹
+بے درد تھے وہ شام اور کوفے کے سب مکیں
+تنگ ہو گئی تھی آلِ محمد پہ یہ زمیں
+سادات ہو کے جینے سے بیزار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں
 
-10
-Farhan O Mazhar Abidi Kyun Na hon Nauha Gar
-Sajjad a.s Chut K Qaid se Baba ki Qabr Par
-Lekr Nishan e Touq e Garobaar Aaye Hain…
-Zindan se chut ke Abid e beemar aaye hain
+۱۰
+فرحان و مظہر عابدی کیوں نہ ہوں نوحہ گر
+سجادؑ چھٹ کے قید سے بابا کی قبر پر
+لے کر نشانِ طوقِ گراں بار آئے ہیں
+زنداں سے چھٹ کے عابدِ بیمار آئے ہیں

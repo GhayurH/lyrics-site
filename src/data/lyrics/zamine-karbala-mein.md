@@ -1,7 +1,7 @@
 ---
 title: "زمینِ کربلا میں دفن ہیں گُل پیرہن کتنے"
 recitationId: "zameene-karbala-mein"
-alternateTitle: "Zamine Karbala Meiṅ"
+alternateTitle: "Zamin-e-Karbala Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Koi Zainab se puchhe to masaaib kis qadar jhele
-  Uthaaye Karbala se Shaam tak ranj o mehan kitne
+  Uthaaye Karbala se Shaam tak ranj o mihan kitne
 
   2
   Razaa-e-Shaah-e-Waala tha har ek ek daam Zainab ka

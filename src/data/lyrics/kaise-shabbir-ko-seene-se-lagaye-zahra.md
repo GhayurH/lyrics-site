@@ -1,42 +1,111 @@
 ---
-title: "Kaise Shabbir Ko Seene Se Lagaye Zahra"
+title: "کیسے شبیر کو سینے سے لگائے زہرا"
+alternateTitle: "Kaise Shabbir Ko Seene Se Lagaye Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kaise Shabbir ko seene se lagaye Zahra
+
+  1
+  Pas Zahra ke jo ik roz Hussain aa pohanchay
+  Pyar jab maa ne kiya hath rakhay pehlu pe
+  Haye Shabeer ne ro ro ke kaha madar se
+  Aaj kyun aap ne seene se lagaya na mujhe
+  Pasliyaan toot chukin kaisay bataye Zahra
+  Kaisay Shabeer ko seene se lagaye Zahra
+
+  2
+  Apni takleef ki shiddat main bata sakti nahi
+  Hath pehlu pe jo rakha hai hata sakti nahi
+  Haal Shabeer ko kis tarha sunaye Zahra
+
+  3
+  Mujh ko rota howa dekha tu na seh paye ga
+  Mera beta meri halat pe tarap jaye ga
+  Ashk Shabeer se chup chup ke bahaye Zahra
+
+  4
+  Ro ke Zahra ne kaha aao sanbhalo Fizza
+  Mere Shabeer ko seene se laga lo Fizza
+  Farz maa hone ka kis tarha nibhaye Zahra
+
+  5
+  Janib-e-Karb-o-Bala dekh ke ro deti hai
+  Our rotay hoye betay ka gala chomti hai
+  Pani Shabeer ko jab jab bhi pilaye Zahra
+
+  6
+  Hath our chehray pe har zulm abhi tak hai ayyaan
+  Taziyane ke nishaan our woh tamachay ka nishaan
+  Kaisay Shabeer ki nazron se chupaye Zahra
+
+  7
+  Ab na seene se lagaya tu bohat roye ga
+  Jab talak maa na sulaye gi nahi soye ga
+  Dard tham jaye tu betay ko sulaye Zahra
+
+  8
+  Maa ne ik hath barhaya tu kaha betay ne
+  Dosra hath barhao tu lagoon seene se
+  Hath uthta nahi kis tarha bataye Zahra
+
+  9
+  Karbala mein woh ajab lamha tha Zeeshan-o-Wajih
+  Jab sar-e-shah-e-zaman katta tha Zeeshan-o-Wajih
+  Kaisay Shabeer ko khanjar se bachaye Zahra
 ---
 
-Kaise Shabbir Ko Seene Se Lagaye Zahra
-Pas Zahra Ke Jo Ik Roz Hussain Aa Pohanchay
-Pyar Jab Maa Ne Kiya Hath Rakhay Pehlu Pe
-Haye Shabeer Ne Ro Ro Ke Kaha Madar Se
-Aaj Kyun Aap Ne Seene Se Lagaya Na Mujhe
-Pasliyaan Toot Chukin Kaisay Bataye Zahra
-Kaisay Shabeer Ko Seene Se Lagaye Zahra
-Apni Takleef Ki Shiddat Main Bata Sakti Nahi
-Hath Pehlu Pe Jo Rakha Hai Hata Sakti Nahi
-Haal Shabeer Ko Kis Tarha Sunaye Zahra
-Mujh Ko Rota Howa Dekha Tu Na Seh Paye Ga
-Mera Beta Meri Halat Pe Tarap Jaye Ga
-Ashk Shabeer Se Chup Chup Ke Bahaye Zahra
-Ro Ke Zahra Ne Kaha Aao Sanbhalo Fizza
-Mere Shabeer Ko Seene Se Laga Lo Fizza
-Farz Maa Hone Ka Kis Tarha Nibhaye Zahra
-Janib-e-Karb-o-Bala Dekh Ke Ro Deti Hai
-Our Rotay Hoye Betay Ka Gala Chomti Hai
-Pani Shabeer Ko Jab Jab Bhi Pilaye Zahra
-Hath Our Chehray Pe Har Zulm Abhi Tak Hai Ayyaan
-Taziyane Ke Nishaan Our Woh Tamachay Ka Nishaan
-Kaisay Shabeer Ki Nazron Se Chupaye Zahra
-Ab Na Seene Se Lagaya Tu Bohat Roye Ga
-Jab Talak Maa Na Sulaye Gi Nahi Soye Ga
-Dard Tham Jaye Tu Betay Ko Sulaye Zahra
-Maa Ne Ik Hath Barhaya Tu Kaha Betay Ne
-Dosra Hath Barhao Tu Lagoon Seene Se
-Hath Uthta Nahi Kis Tarha Bataye Zahra
-Karbala Mein Woh Ajab Lamha Tha ZEESHAN-o-WAJIH
-Jab Sar-e-Shah-e-Zaman Katta Tha ZEESHAN-o-WAJIH
-Kaisay Shabeer Ko Khanjar Se Bachaye Zahra
+کیسے شبیر کو سینے سے لگائے زہرا
+
+۱
+پاس زہرا کے جو اک روز حسین آ پہنچے
+پیار جب ماں نے کیا ہاتھ رکھے پہلو پہ
+ہائے شبیر نے رو رو کے کہا مادر سے
+آج کیوں آپ نے سینے سے لگایا نہ مجھے
+پسلیاں ٹوٹ چکیں کیسے بتائے زہرا
+کیسے شبیر کو سینے سے لگائے زہرا
+
+۲
+اپنی تکلیف کی شدت میں بتا سکتی نہیں
+ہاتھ پہلو پہ جو رکھا ہے ہٹا سکتی نہیں
+حال شبیر کو کس طرح سنائے زہرا
+
+۳
+مجھ کو روتا ہوا دیکھا تو نہ سہ پائے گا
+میرا بیٹا میری حالت پہ تڑپ جائے گا
+اشک شبیر سے چھپ چھپ کے بہائے زہرا
+
+۴
+رو کے زہرا نے کہا آؤ سنبھالو فضہ
+میرے شبیر کو سینے سے لگا لو فضہ
+فرض ماں ہونے کا کس طرح نبھائے زہرا
+
+۵
+جانبِ کرب و بلا دیکھ کے رو دیتی ہے
+اور روتے ہوئے بیٹے کا گلا چومتی ہے
+پانی شبیر کو جب جب بھی پلائے زہرا
+
+۶
+ہاتھ اور چہرے پہ ہر ظلم ابھی تک ہے عیاں
+تازیانے کے نشاں اور وہ طمانچے کا نشاں
+کیسے شبیر کی نظروں سے چھپائے زہرا
+
+۷
+اب نہ سینے سے لگایا تو بہت روئے گا
+جب تلک ماں نہ سلائے گی نہیں سوئے گا
+درد تھم جائے تو بیٹے کو سلائے زہرا
+
+۸
+ماں نے اک ہاتھ بڑھایا تو کہا بیٹے نے
+دوسرا ہاتھ بڑھاؤ تو لگوں سینے سے
+ہاتھ اٹھتا نہیں کس طرح بتائے زہرا
+
+۹
+کربلا میں وہ عجب لمحہ تھا ذیشان و وجیہ
+جب سرِ شاہِ زماں کٹتا تھا ذیشان و وجیہ
+کیسے شبیر کو خنجر سے بچائے زہرا

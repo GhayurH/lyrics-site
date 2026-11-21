@@ -47,7 +47,7 @@ romanLyrics: |-
   Aankheṅ kholo zara dekho mujhe ae mere pisar
   Apne baaba ki khabar lijiyo ae jaan-e-pidar
   Ho gaya huṅ maiṅ yahaaṅ itna gharib ae Akbar
-  Meri ghurbat pe laiṅ hanste hai ae nur-e-nazar
+  Meri ghurbat pe la'iṅ hanste hai ae nur-e-nazar
 
   Ae mere nur-e-nazar ae mere lakht-e-jigar
   Ae mere lakht-e-jigar ae mere nur-e-nazar

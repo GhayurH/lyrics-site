@@ -8,6 +8,46 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki hamaara imaam zinda hai
+
+  1
+  Har ek dil meiṅ, abhi tak, ye naam zinda hai
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki,
+  Nabi ke din pe, ehsaan hai imaamat ka - Nabi ke din pe, ehsaan hai imaamat ka
+  Khuda ka naam, bachaane imaam zinda hai
+
+  2
+  Yazid murda hai us ki, har ek baat fuzul - Yazid murda hai us ki, har ek baat fuzul,
+  Husain zinda hai, us ka, payaam zinda hai
+
+  3
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki,
+  Hui thiṅ qaid kabhi, jis meiṅ saani-e-Zehra - hui thiṅ qaid kabhi, jis meiṅ saani-e-Zehra,
+  Meri nazar meiṅ, abhi tak, vo Shaam zinda hai
+
+  4
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki,
+  Abhi bhi Hurr ki lahad se, ye aa rahi hai sada - abhi bhi Hurr ki lahad se, ye aa rahi hai sada,
+  Rumaal khol ke dekho, ghulaam zinda hai
+
+  5
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki,
+  Chiraagh-e-nur jalaaya, hai jis ne zulmat meiṅ - chiraagh-e-nur jalaaya, hai jis ne zulmat meiṅ,
+  Parho salaam, ke aali maqaam zinda hai
+
+  6
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki,
+  Husainiyat ka alam hai, buland har jaanib - Husainiyat ka alam hai, buland har jaanib,
+  Usi ke dam se zamaana, tamaam zinda hai
+
+  7
+  Qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki, qasam Khuda ki,
+  Har ek lafz meiṅ shaamil, hai Panjtan ki walaa - har ek lafz meiṅ shaamil, hai Panjtan ki walaa,
+  Likha hai Raaz ne, jitna, kalaam zinda hai
+
+  8
+  Har ek dil meiṅ, abhi tak, ye naam zinda hai
 ---
 
 قسم خدا کی، قسم خدا کی، قسم خدا کی ھما ر ا ا ما م ز ند ہ ھے

@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Karbal ke Masiha se Islam shifa maange
-  Ta hashr zamaane meiṅ jine ki dua maange
+  Taa hashr zamaane meiṅ jine ki dua maange
 
   1
   Sajjad Sakina sa qaidi na koi aaye
@@ -21,7 +21,7 @@ romanLyrics: |-
   Zanjir dua maange zindaan bhi dua maange
 
   2
-  Beparda rasan basta paaband-e-mehan Zainab
+  Beparda rasan basta paaband-e-mihan Zainab
   Majlis meiṅ Shah-e-diṅ ki Sarwar ki behen Zainab
   Kuchh aah o buka maange kuchh ashk-e-aza maange
 

@@ -7,6 +7,36 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Sayyeda ve main muraadaaṅ mangiyaaṅ Qaasmaaṅ uth ke mehndi laa
+
+  1
+  Mehndi teri gholan aaiyaaṅ laavan tainuṅ phuphiyaaṅ taaiyaaṅ
+  Uth bachhra laag davaave Sayyeda uth ke mehndi laa
+
+  2
+  Mehndi teri nuṅ main laayaaṅ sehra tera arshoṅ aaya
+  Gaye shaganaaṅ de phul kamlaave Sayyeda uth ke mehndi laa
+
+  3
+  Mehndi teri phatiyaaṅ ve phatiyaaṅ maut Akbar vich agge main luttiyaaṅ
+  Mera manoṅ vi na latthra chaave Sayyeda uth ke mehndi laa
+
+  4
+  Mehndi teri rang di gori aas amri di hoi aj puri
+  Jora shaganaa vaala paave Sayyeda uth ke mehndi laa
+
+  5
+  Satveṅ de din mehndi laai maut mubaarak devan aai
+  Ditta baap da vaada nibhaave Sayyeda uth ke mehndi laa
+
+  6
+  Mehndi teri rang vich gholi zaalimaaṅ paai khun di holi
+  Ditte laash te ghore doraave Sayyeda uth ke mehndi laa
+
+  7
+  Mehndi teri rang laaya sehra tera arshoṅ aaya
+  Gai o mehndi rang badlaave Sayyeda uth ke mehndi laa
 ---
 
 سیدہ وے میں مرادں منگیاں قاسماں اٹھ کے مہندی لا

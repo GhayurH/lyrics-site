@@ -1,29 +1,48 @@
 ---
-title: "Zindan Mein Jeena Bhi Baba Tha Koi Jeena Lyrics 2021 Latest"
+title: "زندان میں جینا بھی بابا تھا کوئی جینا"
+alternateTitle: "Zindan Mein Jeena Bhi Baba Tha Koi Jeena"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sahar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zindan mein jeena bhi Baba tha koi jeena
+  Har roz rulata tha tere dard mein jeena
+  Yaad karti thi main har lamha tumhein haye Baba
+  Tera khon bhara chehra main bholi hoon kabhi na
+
+  2
+  Qaid khana hai gawah Baba meri ghurbat ka
+  Sar peet ke roti thi teri jaisay yateema
+  Dekho ghurbat ke nishaan Baba mere baloon mein
+  Tere gham mein zaeefa hai teri pyari masooma
+
+  3
+  Youn sataya hai mujhe Baba musalmano ne
+  Dunya se gayi teri hai paband Sakina
+  Jaisay aoulad Ali roi hai zindano mein
+  Aisay na kabhi roye Sahar koi safena
 ---
 
-1
-Zindan Mein Jeena Bhi Baba Tha Koi Jeena.
-Har Roz Rulata Tha Tere Dard Mein Jeena.
-Yaad Karti Thi Main Har Lamha Tumhein Haye Baba.
-Tera Khon Bhara Chehra Main Bholi Hoon Kabhi Na.
+۱
+زندان میں جینا بھی بابا تھا کوئی جینا
+ہر روز رلاتا تھا تیرے درد میں جینا
+یاد کرتی تھی میں ہر لمحہ تمہیں ہائے بابا
+تیرا خون بھرا چہرہ میں بھولی ہوں کبھی نہ
 
-2
-Qaid Khana Hai Gawah Baba Meri Ghurbat Ka.
-Sar Peet Ke Roti Thi Teri Jaisay Yateema.
-Dekho Ghurbat Ke Nishaan Baba Mere Baloon Mein.
-Tere Gham Mein Zaeefa Hai Teri Pyari Masooma.
+۲
+قید خانہ ہے گواہ بابا میری غربت کا
+سر پیٹ کے روتی تھی تیری جیسے یتیمہ
+دیکھو غربت کے نشان بابا میرے بالوں میں
+تیرے غم میں ضعیفہ ہے تیری پیاری معصومہ
 
-3
-Youn Sataya Hai Mujhe Baba Musalmano Ne.
-Dunya Se Gayi Teri Hai Paband Sakina.
-Jaisay Aoulad Ali Roi Hai Zindano Mein.
-Aisay Na Kabhi Roye Sahar Koi Safena.
+۳
+یوں ستایا ہے مجھے بابا مسلمانوں نے
+دنیا سے گئی تیری ہے پابند سکینہ
+جیسے اولادِ علی روئی ہے زندانوں میں
+ایسے نہ کبھی روئے سحر کوئی سفینہ

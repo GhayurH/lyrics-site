@@ -15,31 +15,31 @@ romanLyrics: |-
   Bujhe ja rahi hai pyaas Asghar ki rag-e-jaaṅ se
 
   1
-  Tazabzub meiṅ khare haiṅ darmiyaan-e-khaima o maqtal
-  Shaah-e-din soch meiṅ haiṅ ke kya kaheṅ beshir ki maadar se
+  Tazabzub mein khari hai darmiyaan-e-khaima o maqtal
+  Shaah-e-din soch mein haiṅ ke kya kaheṅ Bashir ki maadar
 
   2
-  Madaar-e-Karbala hai tum pa ae Asghar chale aao
+  Madaar-e-Karbala tum pa ae Asghar chale aao
   Ajal aawaaz deti hai musalsal aaj maidaaṅ se
 
   3
-  Koi bachcha humak kar baap ke haathoṅ pe marta hai
-  Bagole uth rahe haiṅ har taraf khaak-e-bayaabaaṅ se
+  Koi bachcha humak kar baap pe haathoṅ par marta hai
+  Bagule uth rahe haiṅ har taraf khaak o bayaabaaṅ se
 
   4
   Usi ke khun se chehra hua hai surkh Sarwar ka
-  Ulat kar aastinen jis ki le aaye the armaaṅ se
+  Ulat kar aastin jis ki le aaye the armaaṅ se
 
   5
-  Rahegi taa-qayaamat Alqama sharminda sharminda
+  Rahegi taa qayaamat Alqama sharminda sharminda
   Lipat kar tashnagi roti rahegi us ke daamaaṅ se
 
   6
   Rabaab-e-khasta-tan ko daagh bachchoṅ ka bhi sehna hai
-  Koi chhutega Karbal meiṅ koi bichhrega zindaaṅ se
+  Koi chhuraayega Karbala mein koi bichhaayega zindaaṅ se
 
   7
-  Ali Asghar hai mahv-e-khwaab Shahid sina-e-Shah par
+  Ali Asghar hai mah-e-khwaab Shahid sina-e-Shaah par
   Badal kar Nainawa ko Karbala jaise gulistaaṅ se
 ---
 زمین و آسمان دونوں ہے لرزاں ظلم پیکاں سے

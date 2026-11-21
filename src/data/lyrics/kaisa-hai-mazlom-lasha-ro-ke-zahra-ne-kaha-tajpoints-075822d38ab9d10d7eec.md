@@ -1,32 +1,54 @@
 ---
-title: "Kaisa Hai Mazlom Lasha Ro Ke Zahra Ne Kaha"
+title: "کیسا ہے مظلوم لاشہ رو کے زہرا نے کہا"
+alternateTitle: "Kaisa Hai Mazlom Lasha Ro Ke Zahra Ne Kaha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kaisa hai mazlom lasha ro ke Zahra ne kaha
+  Koi aa ke dafan kar de qaidi chodah saal ka
+
+  1
+  Dar khula zindan ka Mosi-e-Kazim ke liye
+  Kafan mein zanjeer bhi they youn hoye Maula reha
+  Aaya na jab pursa deney koi bhi pardais mein
+  Chor aaya koi Madina koi Najaf koi Karbala
+
+  2
+  Khat likha hai betiyon ne baba ghar kab aaein gay
+  Aap hain zindan mein our ghar mein hai matam bapa
+  Qaid tu ho gayi khatam kyun kafan mein zanjeer hain
+  Pochtay they loag aa ke jurm kya qaidi ka tha
+
+  3
+  Taraptay zindan mein they betiyon ko kar ke yaad
+  Aakhri sansein hain meri ja raha hoon alwida
+  Dein izn Sajjad Maula gham tera likhta rahe
+  Pursa tujh ko deney aaye tere baba ka Raza
 ---
 
-Kaisa Hai Mazlom Lasha Ro Ke Zahra Ne Kaha.
-Koi Aa Ke Dafan Kar De Qaidi Chodah Saal Ka.
+کیسا ہے مظلوم لاشہ رو کے زہرا نے کہا
+کوئی آ کے دفن کر دے قیدی چودہ سال کا
 
-1
-Dar Khula Zindan Ka Mosi-e-Kazim Ke Liye.
-Kafan Mein Zanjeer Bhi They Youn Hoye Maula Reha.
-Aaya Na Jab Pursa Deney Koi Bhi Pardais Mein.
-Chor Aaya Koi Madina Koi Najaf Koi Karbala.
+۱
+در کھلا زنداں کا موسیٰ کاظم کے لیے
+کفن میں زنجیر بھی تھے یوں ہوئے مولا رہا
+آیا نہ جب پرسہ دینے کوئی بھی پردیس میں
+چھوڑ آیا کوئی مدینہ کوئی نجف کوئی کربلا
 
-2
-Khat Likha Hai Betiyon Ne Baba Ghar Kab Aaein Gay.
-Aap Hain Zindan Mein Our Ghar Mein Hai Matam Bapa.
-Qaid Tu Ho Gayi Khatam Kyun Kafan Mein Zanjeer Hain.
-Pochtay They Loag Aa Ke Jurm Kya Qaidi Ka Tha.
+۲
+خط لکھا ہے بیٹیوں نے بابا گھر کب آئیں گے
+آپ ہیں زنداں میں اور گھر میں ہے ماتم بپا
+قید تو ہو گئی ختم کیوں کفن میں زنجیر ہیں
+پوچھتے تھے لوگ آ کے جرم کیا قیدی کا تھا
 
-3
-Taraptay Zindan Mein They Betiyon Ko Kar Ke Yaad.
-Aakhri Sansein Hain Meri Ja Raha Hoon Alwida.
-Dein Izn Sajjad Maula Gham Tera Likhta Rahe.
-Pursa Tujh Ko Deney Aaye Tere Baba Ka Raza.
+۳
+تڑپتے زنداں میں تھے بیٹیوں کو کر کے یاد
+آخری سانسیں ہیں میری جا رہا ہوں الوداع
+دیں اذن سجاد مولا غم تیرا لکھتا رہے
+پرسہ تجھ کو دینے آئے تیرے بابا کا رضا

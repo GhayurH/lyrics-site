@@ -17,7 +17,7 @@ romanLyrics: |-
   Tarap ke haathoṅ pe Hazrat ke hamkinaar hua
   Khizaaṅ hua jo wo gul to gale ka haar hua
   Idhar to Shah ko ye sadma-e-jigar pahuncha
-  Udhar Madine se Sughra ka naama bar pahuncha
+  Idhar Madine se Sughra ka naamabar pahuncha
 
   2
   Lahu meiṅ gharq khare the kamar jhukaaye hue
@@ -32,7 +32,7 @@ romanLyrics: |-
   Magar Husain the behosh kuchh na farmaaya
   Wo nauha parhta hua aur muttasil aaya
   Nigaah-e-yaas se muṅh dekh kar ye chillaaya
-  Qaraar do mujhe main beqaraar hota huṅ
+  Qaraar do mujhe beqaraar hota huṅ
   Husain jaan ke tum par nisaar hota huṅ
 
   4
@@ -40,12 +40,12 @@ romanLyrics: |-
   Amir-e-lashkar-e-Allah o Mustafa ho tum
   Gharib-e-Kufa o mazlum-e-Karbala ho tum
   Bataao Qaasim-e-naashaad ke chacha ho tum
-  Jawaab do pidar-e-naamuraad-e-Akbar ho
+  Jawaab do pisar-e-numudaar-e-Akbar ho
   Janaab-e-Hazrat-e-Abbaas ke baraadar ho
 
   5
   Bahan hai aap ki Zainab Sakina dukhtar hai
-  Har aawal aap ke lashkar ka Hur-e-Safdar hai
+  Har ahwaal aap ke lashkar ka Hur-e-Safdar hai
   Watan meiṅ bhi koi beti alil o shashdar hai
   Huzur ka koi nanha sa laal Asghar hai
   Zohair aur Habib aap ke musaahib hai
@@ -53,25 +53,25 @@ romanLyrics: |-
 
   6
   Husain bhar ke dam-e-sard bole ae ghamkhwaar
-  Amir kaun hai maiṅ to huṅ bekas o naachaar
-  Kahaaṅ hai Akbar o Qaasim kahaaṅ alam bardaar
+  Amir kaun hai main to huṅ bekas o naachaar
+  Kahaaṅ hai Akbar o Qaasim kahaaṅ alambardaar
   Khuda ke bande the ye sab hue Khuda pe nisaar
   Sipaah-e-zulm ne tanha samajh ke ghera hai
   Hazaaroṅ tegheṅ haiṅ aur ek halq mera hai
 
   7
   Hataayi chehre se Asghar ke khuṅ bhari chaadar
-  Pasina maut ka maathe se poṅchha sar ta sar
+  Pasina maut ka maathe se poncha sar ta sar
   Pukaare laashe ki aankhoṅ pe hoṅtoṅ ko rakh kar
   Likhi hai Faatima ne dida bosi-e-Asghar
   Gawaah rahiyo ke faaqe se jhumta hai Husain
-  Aur unke bhaai ki aankhoṅ ko chumta hai Husain
+  Aur unke bhaai ki aankhoṅ ki aankhoṅ ko chumta hai Husain
 
   8
   Bana luṅ nanhi si qabr inki ae khujista siyar
   To le chaluṅ pisar-e-naujavaaṅ ke laashe par
   To parhiyo laasha-e-Akbar pe naama-e-khwaahar
-  Ye keh ke ghore se utre Imaam-e-jin o bashar
+  Ye keh ke ghore se utre Imaam-e-jinn o bashar
   Zamin qabr ki khaatir pasand karne lage
   Mazaar khod ke naale buland karne lage
 
@@ -85,27 +85,27 @@ romanLyrics: |-
 
   10
   Ye haal dekh ke qaasid ne ki madadgaari
-  Lahad meiṅ ungliyoṅ se khaak daali ek baari
+  Lahad meiṅ ungliyoṅ se khaak daali ik baari
   Pukaari khaime ke dar se ye Baano dukhiyaari
   Ye kis ki qabr ki hoti hai ran meiṅ tayyaari
   Husain bole ke sadme naye guzarte haiṅ
-  Tumhaare haṅsliyoṅ waale ko dafn karte haiṅ
+  Tumhaare hansliyoṅ waale ko dafn karte hai
 
   11
   Giri zamiṅ pe kaleja pakar ke wo naachaar
   Pukaari meri kamaayi hai ae zamin hoshiyaar
   Na murda jaaniyo hai meri jaan ye dildaar
-  Zamin maiṅ tere sadqe tere makiṅ ke nisaar
+  Zamin main tere sadqe tere makiṅ ke nisaar
   Ye zer-e-khwaab meri mannatoṅ ka baagh mila
   Mujhe ye phul mila aur dil ko daagh mila
 
   12
   Balaaeṅ dur se le le ke phir kiya ye bayaaṅ
-  Tumhaari nanhi lahad ke maiṅ waari Asghar jaaṅ
+  Tumhaari nanhi lahad ke main waari Asghar jaaṅ
   Andhera ghar hai na ghabraaiyo ye maaṅ qurbaaṅ
   Akele sone ki mushkil Khuda kare aasaan
-  Tumhaare chaahne waale gale lagaaeṅge
-  Mujhe yaqiṅ hai Janaab-e-Amir aaeṅge
+  Tumhaare chaahne waale gale lagaaeṅ ge
+  Mujhe yaqiṅ hai Janaab-e-Amir aaeṅ ge
 ---
 ۱
 روانہ نہر لباں کو جو شیر خوار ہوا

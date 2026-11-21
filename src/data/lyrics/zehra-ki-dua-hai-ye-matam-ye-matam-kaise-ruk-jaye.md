@@ -12,43 +12,43 @@ aliases:
   - "Zehra Ki Dua Hai Ye Matam"
 published: true
 romanLyrics: |-
-  Zehra Ki Dua Hai Ye Matam, Ye Matam Kaise Ruk Jaye
+  Zehra ki dua hai ye maatam, ye maatam kaise ruk jaaye
 
   1
-  Kaunain Ki Har Daulat De Kar, Is Gham Ki Hifazat Karna Hai
-  Shabbir Ki Khaatir Jina Hai, Shabbir Ki Khaatir Marna Hai
-  Ye Jism Rahe Ya Mit Jaye, Mazlum Ka Matam Karna Hai
-  Zehra Ki Tamanna Puri Ho, Ye Jaan Rahe Ya Mit Jaye
+  Kaunain ki har daulat de kar, is gham ki hifaazat karna hai
+  Shabbir ki khaatir jina hai, Shabbir ki khaatir marna hai
+  Ye jism rahe ya mit jaaye, mazlum ka maatam karna hai
+  Zehra ki tamanna puri ho, ye jaan rahe ya mit jaaye
 
   2
-  Is Parcham Ki Azmat Ke Liye, Abbas Ne Baazu De Daale
-  Is Parcham Ki Izzat Ke Liye, Ghazi Ne Sahe Dil Par Bhaale
-  Is Parcham Ke Mashkiza Se, Lipte Hai Sakina Ke Naale
-  Abbas-e-Ali Ka Parcham Hai, Ye Parcham Kaise Jhuk Jaye
+  Is parcham ki azmat ke liye, Abbas ne baazu de daale
+  Is parcham ki izzat ke liye, Ghazi ne sahe dil par bhaale
+  Is parcham ke mashkiza se, lipte haiṅ Sakina ke naale
+  Abbas-e-Ali ka parcham hai, ye parcham kaise jhuk jaaye
 
   3
-  Salaar-e-Husaini Kya Kehna, Meraj-e-Wafa Sartaj-e-Wafa
-  Har Mauj Tarapti Hai Ab Tak, Saahil Se Jo Tu Palta Pyasa
-  Tha Hukm-e-Husaini Jang Na Ki, Har Waar Saha Har Zulm Saha
-  Tha Hosh Meiṅ Jab Tak Fikr Ye Thi, Pyasi Na Sakina Reh Jaye
+  Salaar-e-Husaini kya kehna, Meraaj-e-wafa sartaaj-e-wafa
+  Har mauj tarapti hai ab tak, saahil se jo tu palta pyaasa
+  Tha hukm-e-Husaini jang na ki, har waar saha har zulm saha
+  Tha hosh meiṅ jab tak fikr ye thi, pyaasi na Sakina reh jaaye
 
   4
-  Jab Tak Ye Sakat Is Jism Meiṅ Hai, Haq Apna Ada Kar Dena Hai
-  Is Matam Ki Saadat De Hum Ko, Ye Jaan Fida Kar Dena Hai
-  Ya Ashk Se Ya Khun-e-Dil Se, Is Daaman Ko Bhar Dena Hai
-  Aayi Hai Yahaṅ Ek Shehzaadi, Umid Ka Daaman Phailaye
+  Jab tak ye sakat is jism meiṅ hai, haq apna ada kar dena hai
+  Is maatam ki saadat de ham ko, ye jaan fida kar dena hai
+  Ya ashk se ya khun-e-dil se, is daaman ko bhar dena hai
+  Aai hai yahaṅ ak shehzaadi, umid ka daaman phailaaye
 
   5
-  Wo Waqt Hai Ab Tak Aankhoṅ Meiṅ, Tha Khun Meiṅ Ghaltaṅ Ibn-e-Ali
-  Aur Gunj Rahi Thi Maqtal Meiṅ, Faryad o Fughaṅ Ek Dukhiya Ki
-  Sine Se Baheiṅ Khun Ki Dhaare, Aur Haath Na Rukne Paaye Kabhi
-  Mazlum Ka Matam Hota Rahe, Zehra Ki Sada Jab Tak Aaye
+  Wo waqt hai ab tak aankhoṅ meiṅ, tha khun meiṅ ghaltaaṅ Ibn-e-Ali
+  Aur gunj rahi thi maqtal meiṅ, faryaad o fughaaṅ ak dukhiya ki
+  Sine se baheṅ khun ki dhaareṅ, aur haath na rukne paaeṅ kabhi
+  Mazlum ka maatam hota rahe, Zehra ki sada jab tak aaye
 
   6
-  Ye Matam Hai Hal Min Ki Sada, Har Ashk Hai Jazba-e-Nusrat Ka
-  Yuṅ Haq Ki Taraf Aa Jaane Ka, Haasil Hai Abhi Tak Ek Mauqa
-  Pehchan Zamir o Dil Ki Sada, Is Matam Meiṅ Shaamil Ho Ja
-  Shabbir Bulaate Haiṅ Ab Tak, Gar Hurr Ho Kahiṅ To Aa Jaye
+  Ye maatam hai hal min ki sada, har ashk hai jazba-e-nusrat ka
+  Yuṅ haq ki taraf aa jaane ka, haasil hai abhi tak ak mauqa
+  Pehchaan zamir o dil ki sada, is maatam meiṅ shaamil ho ja
+  Shabbir bulaate haiṅ ab tak, gar Hurr ho kahiṅ to aa jaaye
 ---
 
 زہرا کی دعا ہے یہ ماتم، یہ ماتم کیسے رک جائے

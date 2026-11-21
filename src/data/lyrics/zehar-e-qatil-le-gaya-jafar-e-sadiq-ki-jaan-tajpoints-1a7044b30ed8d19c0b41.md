@@ -1,41 +1,71 @@
 ---
-title: "Zehar E Qatil Le Gaya Jafar E Sadiq Ki Jaan"
+title: "زہرِ قاتل لے گیا جعفرِ صادق کی جاں"
+alternateTitle: "Zehar-e-Qatil Le Gaya Jafar-e-Sadiq Ki Jaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asghar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zehar e qatil le gaya Jafar e Sadiq ki jaan
+  Aa gayi haye yateemi ro rahi hain betiyaan
+  Jafar-e-Sadiq pe zalim zulm dhaney aa gaye
+  Aaj phir Zahra ka ghar haye jalanay aa gaye
+
+  2
+  Gulshan-e-Aal-e-Muhammad kar rahe hain phir veraan
+  Qatal-e-Zahra, qatal-e-Haider our qatal Hasnain ka
+  Haye Abid our Baqir kaun ummat se bacha
+  Aaj Sadiq ki shahadat sab ke qatil musalmaan
+
+  3
+  Mustafa ka khon hai yeh jantay hain kalma go
+  Phir bhi Nana mar dala haye hamarey Baba ko
+  Chor kar tera Madina jaein Nana hum kahan
+  Lahzay ke mehman Maula sansein hain bas aakhri
+
+  4
+  Apni dastar-e-imamat Mosa-e-Kazim ko di
+  Lal mere deen-e-Ahmad ke ho tum ab pasbaan
+  Le ke Baba ka janaza Mosa Kazim chal paray
+  Lanati Mansor ne jo, jo zulm haye kiye
+
+  5
+  Dekh kar roi zameen our ro raha hai aasmaan
+  Yeh nida-e-gham jo di hai Asghar-o- Sajjad ne
+  Sab ko pursay mein bulaya Maula teri yaad ne
+  Maula-e-Sadiq ko pursa matami dein gay yahan
 ---
 
-1
-Zehar e Qatil Le Gaya Jafar e Sadiq Ki Jaan.
-Aa Gayi Haye Yateemi Ro Rahi Hain Betiyaan.
-Jafar-e-Sadiq Pe Zalim Zulm Dhaney Aa Gaye.
-Aaj Phir Zahra Ka Ghar Haye Jalanay Aa Gaye.
+۱
+زہرِ قاتل لے گیا جعفرِ صادق کی جاں
+آ گئی ہائے یتیمی رو رہی ہیں بیٹیاں
+جعفرِ صادق پہ ظالم ظلم ڈھانے آ گئے
+آج پھر زہرا کا گھر ہائے جلانے آ گئے
 
-2
-Gulshan-e-Aal-e-Muhammad Kar Rahe Hain Phir Veraan.
-Qatal-e-Zahra, Qatal-e-Haider Our Qatal Hasnain Ka.
-Haye Abid Our Baqir Kaun Ummat Se Bacha.
-Aaj Sadiq Ki Shahadat Sab Ke Qatil Musalmaan.
+۲
+گلشنِ آلِ محمد کر رہے ہیں پھر ویراں
+قتلِ زہرا، قتلِ حیدر اور قتل حسنین کا
+ہائے عابد اور باقر کون امت سے بچا
+آج صادق کی شہادت سب کے قاتل مسلمان
 
-3
-Mustafa Ka Khon Hai Yeh Jantay Hain Kalma Go.
-Phir Bhi Nana Mar Dala Haye Hamarey Baba Ko.
-Chor Kar Tera Madina Jaein Nana Hum Kahan.
-Lahzay Ke Mehman Maula Sansein Hain Bas Aakhri.
+۳
+مصطفیٰ کا خون ہے یہ جانتے ہیں کلمہ گو
+پھر بھی نانا مار ڈالا ہائے ہمارے بابا کو
+چھوڑ کر تیرا مدینہ جائیں نانا ہم کہاں
+لحظے کے مہمان مولا سانسیں ہیں بس آخری
 
-4
-Apni Dastar-e-Imamat Mosa-e-Kazim Ko Di.
-Lal Mere Deen-e-Ahmad Ke Ho Tum Ab Pasbaan.
-Le Ke Baba Ka Janaza Mosa Kazim Chal Paray.
-Lanati Mansor Ne Jo, Jo Zulm Haye Kiye.
+۴
+اپنی دستارِ امامت موسیٰ کاظم کو دی
+لال میرے دینِ احمد کے ہو تم اب پاسباں
+لے کے بابا کا جنازہ موسیٰ کاظم چل پڑے
+لعنتی منصور نے جو، جو ظلم ہائے کیے
 
-5
-Dekh Kar Roi Zameen Our Ro Raha Hai Aasmaan.
-Yeh Nida-e-Gham Jo Di Hai Asghar-o- Sajjad Ne.
-Sab Ko Pursay Mein Bulaya Maula Teri Yaad Ne.
-Maula-e-Sadiq Ko Pursa Matami Dein Gay Yahan.
+۵
+دیکھ کر روئی زمیں اور رو رہا ہے آسماں
+یہ ندائے غم جو دی ہے اصغر و سجاد نے
+سب کو پرسَے میں بلایا مولا تیری یاد نے
+مولائے صادق کو پرسا ماتمی دیں گے یہاں

@@ -18,8 +18,8 @@ romanLyrics: |-
   Fatema Zahra o Haidar ki dua Abbas hai
 
   1
-  Lashkar-e-Shaam se kehta laiṅ Ibn-e-Ziyaad
-  Ye Ali ka pisar hai Sher-e-Khuda Abbas hai
+  Lashkar-e-Shaam se kehta laiṅ Ibn-e-Yazid
+  Ye Ali ki pisar hai Sher-e-Khuda Abbas hai
   Fatema Zahra o Haidar ki dua Abbas hai
 
   2

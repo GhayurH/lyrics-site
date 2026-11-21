@@ -1,61 +1,112 @@
 ---
 title: "قاسمؑ کے جنازے پہ کیا درد کا منظر ہے"
+alternateTitle: "Qasim Ke Janazey Pe Kya Dard Ka Manzar Hay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Qasim ke janazey pe kya dard ka manzar hay
+  Roti hay phuphi uski, nawhaa kuna madar hay
+
+  1
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Sab khoon se bhara sehra poshaak dareeda hay
+  Pamaal badan saara, aur khaak ka bistar hay
+
+  2
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Mehndi hay lahu wali nawhshaah ke haatho mei
+  Saaye ke liye sar par, bas dhoop ki chadar hay
+
+  3
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Tukday tha jigar jaysay ay maula Hassan tera
+  Tukdoon mei yahaa maula, vay-saa tera dilbar hay
+
+  4
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Maa kehti thi Qasim ki ay laal kahaan jaaooun
+  Ghayray huwe khaymo ko, hay kuffar ka lashkar
+
+  5
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Ik gat-ri may laate hay Shabbir ye kya ran se
+  Awaaze falak aayi, lakhtay dile Shabbar hay
+
+  6
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Behno ne kiya matam Qasim ke janaaze par
+  Masroofe fughaa saari, awlaade payambar hay
+
+  7
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Shah kehte-the ay Qasim kyun tuj ko ajal ayi
+  Seenay mai mere beta, ik dard ka khanjar hay
+
+  8
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Bikhra hay tera sehra jalti huwi reyti par
+  Har phool ki ankhon me, ashkoon ka samandar hay
+
+  9
+  Qasim ke janaaze pe kya dard ka manzar hay
+  Rehan zaraa socho laashe to bahattar hain
+  Rone ke liye tanha, Shabbir ki khwahar hay
+
+  10
+  Qasim ke janaaze pe kya dard ka manzar hay
 ---
 
-Qasim ke janazey pe kya dard ka manzar hay
-Roti hay phuphi uski, nawhaa kuna madar hay
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+روتی ہے پھوپھی اس کی، نوحہ کناں مادر ہے
 
-1
-Qasim ke janaaze pe kya dard ka manzar hay
-1. Sab khoon se bhara sehra poshaak dareeda hay
-Pamaal badan saara, aur khaak ka bistar hay
+۱
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+سب خون سے بھرا سہرا پوشاک دریدہ ہے
+پامال بدن سارا، اور خاک کا بستر ہے
 
-2
-Qasim ke janaaze pe kya dard ka manzar hay
-2. Mehndi hay lahu wali nawhshaah ke haatho mei
-Saaye ke liye sar par, bas dhoop ki chadar hay
+۲
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+مہندی ہے لہو والی نوشاہ کے ہاتھوں میں
+سائے کے لیے سر پر، بس دھوپ کی چادر ہے
 
-3
-Qasim ke janaaze pe kya dard ka manzar hay
-3. Tukday tha jigar jaysay ay maula hassan tera
-Tukdoon mei yahaa maula, vay-saa tera dilbar hay
+۳
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+ٹکڑے تھا جگر جیسے اے مولا حسن تیرا
+ٹکڑوں میں یہاں مولا، ویسا تیرا دلبر ہے
 
-4
-Qasim ke janaaze pe kya dard ka manzar hay
-4. Maa kehti thi qasim ki ay laal kahaan jaaooun
-Ghayray huwe khaymo ko, hay kuffar ka lashkar
+۴
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+ماں کہتی تھی قاسم کی اے لال کہاں جاؤں
+گھیرے ہوئے خیموں کو، ہے کفار کا لشکر
 
-5
-Qasim ke janaaze pe kya dard ka manzar hay
-5. Ik gat-ri may laate hay shabbir ye kya ran se
-Awaaze falak aayi, lakhtay dile shabbar hay
+۵
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+اک گٹھڑی میں لاتے ہیں شبیر یہ کیا رن سے
+آوازِ فلک آئی، لختِ دلِ شبر ہے
 
-6
-Qasim ke janaaze pe kya dard ka manzar hay
-6. Behno ne kiya matam qasim ke janaaze par
-Masroofe fughaa saari, awlaade payambar hay
+۶
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+بہنوں نے کیا ماتم قاسم کے جنازے پر
+مصروفِ فغاں ساری، اولادِ پیمبر ہے
 
-7
-Qasim ke janaaze pe kya dard ka manzar hay
-7. Shah kehte-the ay qasim kyun tuj ko ajal ayi
-Seenay mai mere beta, ik dard ka khanjar hay
+۷
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+شاہ کہتے تھے اے قاسم کیوں تجھ کو اجل آئی
+سینے میں میرے بیٹا، اک درد کا خنجر ہے
 
-8
-Qasim ke janaaze pe kya dard ka manzar hay
-8. Bikhra hay tera sehra jalti huwi reyti par
-Har phool ki ankhon me, ashkoon ka samandar hay
+۸
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+بکھرا ہے تیرا سہرا جلتی ہوئی ریتی پر
+ہر پھول کی آنکھوں میں، اشکوں کا سمندر ہے
 
-9
-Qasim ke janaaze pe kya dard ka manzar hay
-9. REHAN zaraa socho laashe to bahattar hain
-Rone ke liye tanha, Shabbir ki khwahar hay
+۹
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے
+ریحان ذرا سوچو لاشے تو بہتر ہیں
+رونے کے لیے تنہا، شبیر کی خواہر ہے
 
-10
-Qasim ke janaaze pe kya dard ka manzar hay
+۱۰
+قاسمؑ کے جنازے پہ کیا درد کا منظر ہے

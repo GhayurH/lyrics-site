@@ -13,50 +13,50 @@ aliases:
 published: true
 romanLyrics: |-
   Rihayi qaid se Zainab ko jab mili hogi
-  Bina Husain ke woh kaise ghar gayi hogi
+  Bina Husain ke, woh kaise ghar gayi hogi
 
   1
   Ae Nana tere nawase ko, teri ummat ne
   Dafn kiya hai ya uryaaṅ hi, ban meiṅ chhor diya
 
   Husain ya Husain
-  Husain Badshah Husain Shahanshah
+  Husain Baadshaah Husain Shahanshaah
   Husain din hai, Husain diṅ panah
   Shahid-e-Karbala, Zabih-e-Nainawa
-  Bejurm o bekhata
+  Bejurm o bekhataa
   Hai tera ghar luta
   Husain ya Husain ya Husain ya Husain
 
   Dafn kiya hai ya uryaaṅ hi, ban meiṅ chhor diya
-  Batulzadi yehi baat sochti hogi
+  Batulzaadi yehi, baat sochti hogi
 
   2
-  Luti thi dasht meiṅ jo chadareiṅ Sayyidaniyoṅ ki
-  Lutaayeṅ Abid-e-Bimar ko lainoṅ ne
+  Luti thi dasht meiṅ jo chaadareṅ Sayyidaniyoṅ ki
+  Lutaayeṅ Aabid-e-Bimar ko lainoṅ ne
 
   Sajjad haaye Sajjad
   Bimar-e-Karbala, asir-e-bekhata
   Tumhara qafila, jo tha luta hua
-  Pahen ke beriyaṅ, jidhar bhi tu gaya
+  Pahan ke beriyaṅ, jidhar bhi tu gaya
   Woh rasta jo tha, lahu lahu hua
-  Na jaane kis tarah, yeh tu ne seh liya
+  Na jaane kis tarah, yeh tu ne sah liya
   Woh Zainab-e-haziṅ, ka sar khula hua
   Phir us ke baad tu, hai jab talak jiya
-  Tumhari aankh se, sada hai khuṅ baha
+  Tumhari aankh se, sadaa hai khuṅ baha
   Sajjad, haaye Sajjad, haaye Sajjad, haaye Sajjad
 
-  Lutaayeṅ Abid-e-Bimar ko lainoṅ ne
+  Lutaayeṅ Aabid-e-Bimar, ko lainoṅ ne
   Ali ki laadli hasrat se dekhti hogi
 
   3
   Woh chhe maah ke bachche ko, tir maara tha
   Woh sher khwar ka lasha, sina pe aaya tha
 
-  Saghir haaye Saghir
+  Saghir haaye Saghir,
   Saghir-e-Karbala, ae kushta-e-jafa
-  Kisi ki dushmani, hai tum se kya bhala
-  Tumhara sin abhi, nahiṅ hai jang ka
-  Qaza ka tir hai, ba dast-e-Harmala
+  Kisi ki dushmani, hai tum se kya bhala,
+  Tumhara sin abhi, nahiṅ hai jang ka,
+  Qazaa ka tir hai, ba dast-e-Harmala
   Tumhara phul se, bhi narm hai gala
   Rubab kis tarah, karegi hausla
   Khuda ra hausla, na maaṅ ka aazma
@@ -68,46 +68,46 @@ romanLyrics: |-
   Batul lahad meiṅ, munh apna pitti hogi
 
   4
-  Pare the lashe jawanoṅ ke, dasht-e-Karbal meiṅ
-  Para tha Ghazi ka lasha, baghair shanoṅ ke
+  Pare the lashe jawaanoṅ ke, dasht-e-Karbal meiṅ
+  Para tha Ghazi ka lasha, baghair shaanoṅ ke
 
-  Abbas haaye Abbas
-  Abbas bawafa, Abbas basafa
+  Abbaas haaye Abbaas
+  Abbaas baawafaa, Abbaas baasafaa
   Hai tu pala hua, Ali ki god ka
-  Abbas mojiza, hai tu Batul ka
-  Abbas ek naya, hai pesh marhala
-  Hai Zainab berida, safar hai Sham ka
-  Haiṅ Shami behaya, wa musibata
-  Abbas haaye Abbas haaye Abbas haaye Abbas
+  Abbaas mojiza, hai tu Batul ka
+  Abbaas ik naya, hai pesh marhala
+  Hai Zainab beridaa, safar hai Shaam ka
+  Haiṅ Shaami behayaa, waa musibataa
+  Abbaas haaye Abbaas haaye Abbaas haaye Abbaas
 
-  Para tha Ghazi ka lasha, baghair shanoṅ ke
-  Jawan bhai ke, shanoṅ ko dhundti hogi
+  Para tha Ghazi ka lasha, baghair shaanoṅ ke
+  Jawaan bhaai ke, shaanoṅ ko dhundti hogi
 
   5
   Gaya jo qafila maqtal meiṅ, Aal-e-Ahmad ka
-  Viran dasht meiṅ har Bibi, apne pyaroṅ ko
+  Viraan dasht meiṅ har Bibi, apne pyaaroṅ ko
 
-  Jawan haaye Jawan
+  Jawaan haaye Jawaan,
   Shabih-e-Mustafa, Wazir-e-Murtaza
-  Athara saal tak, tu burqe meiṅ pala
+  Athaara saal tak, tu burqe meiṅ pala
   Phuphi ne naaz se, tujhe jawaaṅ kiya
-  Khuda ke waste, abhi na ran meiṅ ja
+  Khudaa ke waaste, abhi na ran meiṅ ja
   Husain kis tarah, yeh dekh paayega
-  Jawan ka jigar, sina ka tutna
+  Jawaan ka jigar, sina ka tutna
   Bahen thi muntazir, ke kab tu aayega
   Woh ab bhi dekhti, hai tera rasta
-  Jawan, haaye Jawan, haaye Jawan, haaye Jawan
+  Jawaan, haaye Jawaan, haaye Jawaan, haaye Jawaan
 
-  Viran dasht meiṅ har Bibi, apne pyaroṅ ko
+  Viraan dasht meiṅ har Bibi, apne pyaaroṅ ko
   Karakti dhup meiṅ, ro ro ke dhundti hogi
 
   6
   Gayi thi saath tumhare, Sakina Karbal meiṅ
   Kahaaṅ hai bhaiya mujhe kiuṅ, nazar nahiṅ aati
-  Bimar Sughra yeh, Abid se puchhti hogi
+  Bimar Sughraa yeh, Aabid se puchhti hogi
 
   7
-  Suni jo bali Sakina ne, khabar yeh Akhtar
+  Suni jo baali Sakina ne, khabar yeh Akhtar
   Ke sab chale haiṅ mujhe chhor kar Madine ko
   Masuma qabr meiṅ, tanha hi ro rahi hogi
 ---

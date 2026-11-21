@@ -12,13 +12,13 @@ published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Jo suye Karbobala banne chala
-  Zawwar-e-Husain
+  Zawwaar-e-Husain
 
   1
   Pehle sun Hazrat-e-Jaabir ka maqaam
-  Un ka hai qila-e-mualla meiṅ qayaam
+  Un ka hai qila-e-mualla mein qayaam
   Nemateṅ ho gaiṅ sab un pe tamaam
-  Un ko bheja hai Imaamoṅ ne salaam
+  Un ko bheja hai imaamoṅ ne salaam
   Sab se pehle hai khitaab un ko mila
 
   2
@@ -39,18 +39,18 @@ romanLyrics: |-
   Us pe hoti hai ataaeṅ naazil
   Wo nahiṅ rehta aza se ghaafil
   Us ki azmat ke farishte qaail
-  Naam hai ahl-e-aza meiṅ shaamil
+  Naam hai ahl-e-aza mein shaamil
   Ye jahaaṅ waale kuja aur kuja
 
   5
   Dur ho jaati hai har ek ghutan
   Khil chuka hota hai qismat ka chaman
-  Keh chuke hai ye Shahanshaah-e-sukhan
+  Keh chuke hai ye shahanshaah-e-sukhan
   Laut kar aata hai jab apne watan
   Saath laata hai shifa khaak-e-shifa
 
   6
-  Wo zamaane meiṅ ho aabaad kahiṅ
+  Wo zamaane mein ho aabaad kahiṅ
   Ban ke rehta hai ibaadat ka amiṅ
   Apne sajdoṅ se sajaata hai zamiṅ
   Jagmagaati hai sada us ki jabiṅ
@@ -59,12 +59,12 @@ romanLyrics: |-
   7
   Tu har ek jaaye shahaadat pe gaya
   Yaad kar kar ke unheṅ rota raha
-  Tere hoṅtoṅ pe nazar aai sada
+  Tere hontoṅ pe nazar aai sada
   Ya Husain haaye Husaina ki sada
-  Tujh ko mazlum behan degi dua
+  Tujh ko mazlum behan de gi dua
 
   8
-  Rauza-e-Sibt-e-Payambar pe gaya
+  Rauza-e-sibt-e-Payambar pe gaya
   Tu ne Abbas ka dar chum liya
   Tu ne sajde kiye maatam bhi kiya
   Gohar-e-haq ki hidaayat pe chala

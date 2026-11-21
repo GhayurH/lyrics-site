@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zanjir bandhe haathoṅ se ek laasha utha hai
+  Zanjir bandhe haathoṅ se ik laasha utha hai
   Kaanoṅ se rawaaṅ khun hai, kurta bhi jala hai
 
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Nazroṅ ke aage baap ki gardan bhi kati ho
   Khaaye tamaanche ret-e-garam par bhi chali ho
-  Is kamsini meiṅ itna sitam kis ne saha hai
+  Is kamsini mein itna sitam kis ne saha hai
 
   4
   Us maaṅ ko bhala kaise wo ye laash dikhaaye
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Wo kehti rahi Baaba ka sar de do khudaara
-  Zindaaṅ meiṅ bane koi to jine ka sahaara
+  Zindaaṅ mein bane koi to jine ka sahaara
   Ummat ne tamaanchoṅ ke siwa kuchh na diya hai
 
   6

@@ -1,44 +1,78 @@
 ---
-title: "Rishta Ali Se Fatima Zahra Ka Joor Ke"
+title: "رشتہ علی سے فاطمہ زہرا کا جوڑ کے"
+alternateTitle: "Rishta Ali Se Fatima Zahra Ka Joor Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Buzar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rishta Ali se Fatima Zahra ka joor ke
+  Khush hain Rasool yaroon ke khuwabon ko toor ke
+
+  1
+  Hathoon ko mal rahe hain Madine ke kuch bazurg
+  Pathar ki ik lakeer se sar phoor phoor ke
+  Taqdees e qiblatian hai bahrain ka marj
+  Rehman khush hai noor ke do darya joor ke
+
+  2
+  Kehlaye shar pasand musalmaan, tu yeh khula
+  Ruswa howa hamesha bashar be ko chor ke
+  Aanchal pe Syeda ke Yadullah ki namaz
+  Rakh di nuseriyat ki kalai maror ke
+
+  3
+  Rakha hai aik aqad ne tauheed ka bharam
+  Rishta Ali-o-Fatima Zahra ka joor ke
+  Niklo yahan se Kaba hai susral Zahra ka
+  Kehte rahe buttoon ko Ali toor toor ke
+
+  4
+  Kehte hain shair midhat-e-ghair-e-ali mein jo
+  Peetey hain nar-e-hamiya, Kausar ko chor ke
+  Poncha hai jis se Shair-e-Khuda ne jaben ko
+  Jannat bachai jaye woh khara nachor ke
+
+  5
+  Allah jane kitno ki mitti hoi paleed
+  Daman Abu Turab ka hathoon se chor ke
+  Shadi thi woh ameer ki, Buzar magar wahan
+  Kharchey nahi kiye gaye dasiyon crore ke
 ---
 
-Rishta Ali Se Fatima Zahra Ka Joor Ke.
-Khush Hain Rasool Yaroon Ke Khuwabon Ko Toor Ke.
+رشتہ علی سے فاطمہ زہرا کا جوڑ کے
+خوش ہیں رسول یاروں کے خوابوں کو توڑ کے
 
-1
-Hathoon Ko Mal Rahe Hain Madine Ke Kuch Bazurg.
-Pathar Ki Ik Lakeer Se Sar Phoor Phoor Ke.
-Taqdees e Qiblatian Hai Bahrain Ka Marj.
-Rehman Khush Hai Noor Ke Do Darya Joor Ke.
+۱
+ہاتھوں کو مل رہے ہیں مدینے کے کچھ بزرگ
+پتھر کی اک لکیر سے سر پھوڑ پھوڑ کے
+تقدیسِ قبلتین ہے بحرین کا مرج
+رحمٰن خوش ہے نور کے دو دریا جوڑ کے
 
-2
-Kehlaye Shar Pasand Musalmaan, Tu Yeh Khula.
-Ruswa Howa Hamesha Bashar Be Ko Chor Ke.
-Aanchal Pe Syeda Ke Yadullah Ki Namaz.
-Rakh Di Nuseriyat Ki Kalai Maror Ke.
+۲
+کہلائے شر پسند مسلمان، تو یہ کھلا
+رسوا ہوا ہمیشہ بشر ب کو چھوڑ کے
+آنچل پہ سیدہ کے ید اللہ کی نماز
+رکھ دی نصیریت کی کلائی مروڑ کے
 
-3
-Rakha Hai Aik Aqad Ne Tauheed Ka Bharam.
-Rishta Ali-o-Fatima Zahra Ka Joor Ke.
-Niklo Yahan Se Kaba Hai Susral Zahra Ka.
-Kehte Rahe Buttoon Ko Ali Toor Toor Ke.
+۳
+رکھا ہے ایک عقد نے توحید کا بھرم
+رشتہ علی و فاطمہ زہرا کا جوڑ کے
+نکلو یہاں سے کعبہ ہے سسرال زہرا کا
+کہتے رہے بتوں کو علی توڑ توڑ کے
 
-4
-Kehte Hain Shair Midhat-e-Ghair-e-Ali Mein Jo.
-Peetey Hain Nar-e-Hamiya, Kausar Ko Chor Ke.
-Poncha Hai Jis Se Shair-e-Khuda Ne Jaben Ko.
-Jannat Bachai Jaye Woh Khara Nachor Ke.
+۴
+کہتے ہیں شاعر مدحتِ غیرِ علی میں جو
+پیتے ہیں نارِ حامیہ، کوثر کو چھوڑ کے
+پونچھا ہے جس سے شیرِ خدا نے جبیں کو
+جنت بچائی جائے وہ خرقہ نچوڑ کے
 
-5
-ALLAH Jane Kitno Ki Mitti Hoi Paleed.
-Daman Abu Turab Ka Hathoon Se Chor Ke.
-Shadi Thi Woh Ameer Ki, Buzar Magar Wahan.
-Kharchey Nahi Kiye Gaye Dasiyon Crore Ke.
+۵
+اللہ جانے کتنوں کی مٹی ہوئی پلید
+دامن ابو تراب کا ہاتھوں سے چھوڑ کے
+شادی تھی وہ امیر کی، بوذر مگر وہاں
+خرچے نہیں کیے گئے دسیوں کروڑ کے

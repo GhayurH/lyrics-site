@@ -10,34 +10,34 @@ tags: []
 aliases: ["Karbobala May Shah E Zaman"]
 published: true
 romanLyrics: |-
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
-  Ummat-e-jad ke bigre kaam banaane aaye haiṅ
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
+  Ummat-e-jadd ke bigre kaam banaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
 
   1
-  Kehti thi Zainab ae baaba koi sahaara ab na raha
-  Jaan ke tanha ahl-e-sitam kheme jalaane aaye haiṅ
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
+  Kehti thi Zainab, ae baaba koi sahaara ab na raha
+  Jaan ke tanha ahl-e-sitam khaime jalaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
 
   2
-  Dhup hai jalta sehra hai baap ka dil khun hota hai
+  Dhup hai jalta sahra hai baap ka dil khun hota hai
   Nanhe mujaahid ummat ka kaam banaane aaye haiṅ
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
 
   3
-  Ro ke Sakina ne kaha ye bahr-e-madad aao daada
+  Ro ke Sakina ne kaha ye, bahr-e-madad aao daada
   Zaalim mere baaba ko naize lagaane aaye haiṅ
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
 
   4
   Gir chuke Akbar ghore se Shaah ka saathi koi nahiṅ
   Tuti kamar ko pakre hue laash uthaane aaye haiṅ
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
 
   5
-  Bano ne ro kar kaha hashr hua Aabid barpa
+  Bano ne ro kar kaha, hashr hua Aabid barpa
   Jalte haiṅ khaime dushman-e-din qaidi banaane aaye haiṅ
-  Karb o Bala meiṅ Shaah-e-zamaan ghar ko lutaane aaye haiṅ
+  Karb o Bala meiṅ Shaah-e-Zamaan ghar ko lutaane aaye haiṅ
 ---
 کرب و بلا میں شاہِ زمان گھر کو لٹانے آئے ہیں
 امتِ جد کے بگڑے کام بنانے آئے ہیں

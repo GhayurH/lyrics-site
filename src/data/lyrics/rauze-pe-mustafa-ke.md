@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Rauze pe Mustafa ke udaasi si chhaai hai
   Kunbe ko kho ke Zainab-e-naashaad aayi hai
-  Ro kar pukaari naana maiṅ faryaad laayi huṅ
-  Maiṅ chhor kar Husain ko jangal meiṅ aayi huṅ
+  Ro kar pukaari naana main faryaad laayi huṅ
+  Main chhor kar Husain ko jangal meiṅ aayi huṅ
 
   1
   Are naana hamaare ghar ka sab asbaab lut gaya
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Are naana shahid ho gaye bhaai ke jaaṅ nisaar
-  Ek ek kar ke mar gaye ashaab-e-zi waqaar
+  Ek ek kar ke mar gaye ashaab-e-zi-waqaar
   Naana bala ke ban meiṅ qayaamat ka ran para
   Bhaai se bhaai baap se beta bichhar gaya
 
@@ -56,11 +56,11 @@ romanLyrics: |-
   Naana Husain bekas o beyaar ho gaye
   Aamaada qatl karne ko kuffaar ho gaye
   Tarpe jo zer-e-khanjar-e-beaab Shaah-e-Din
-  Shimr-e-laiṅ ke zulm se tharra gayi zamin
+  Shimr laiṅ ke zulm se tharra gayi zamin
 
   8
   Are naana huiṅ asir tumhaari nawaasiyaaṅ
-  Kaun o makaaṅ meiṅ chha gayi gham ki udaasiyaaṅ
+  Kaun o makaaṅ meiṅ chhaa gayi gham ki udaasiyaaṅ
   Naana haram Husain ke baazaar meiṅ gaye
   Ham sar barehna Kufa ke darbaar meiṅ gaye
 
@@ -74,17 +74,17 @@ romanLyrics: |-
   Are naana asir baarah the aur ek thi rasan
   Baandhe gaye the misl-e-gunahgaar-e-khasta tan
   Naana ham apne haal pe rote the zaar zaar
-  Naana hamaare haal pe haste the bad shiaar
+  Naana hamaare haal pe hanste the bad shiaar
 
   11
-  Are ek ek ka naam puchhta tha baani-e-sitam
+  Are ek ak ka naam puchhta tha baani-e-sitam
   Naana bataata jaata tha Shimr jafa sitam
-  Ye Zainab-e-haziṅ hai wo Kulsum-e-dilfigaar
+  Ye Zainab haziṅ hai wo Kulsum-e-dilfigaar
   Ungli utha utha ke dikhaata tha naabakaar
 
   12
   Are naana ajib haal hamaara tha us ghari
-  Ek Bibi pichhe dusri Bibi ke chhupti thi
+  Ak Bibi pichhe dusri Bibi ke chhupti thi
   Us waqt tharthari si mere tan meiṅ par gayi
   Sad haif hai zamin meiṅ Zainab na gar gayi
 
@@ -96,13 +96,13 @@ romanLyrics: |-
 
   14
   Are naana tabaah ho ke ham aaye haiṅ Shaam se
-  Ek daagh-e-nau Sakina ka laaye haiṅ Shaam se
+  Ak daagh-e-nau Sakina ka laaye haiṅ Shaam se
   Ab tak haiṅ nil rassi ke shaanoṅ ko dekh lo
   Naana hamaare tan pe nishaanoṅ ko dekh lo
 
   15
   Zainab jo ro ke karti thiṅ qabr-e-Nabi pe bain
-  Tharra raha tha rauza-e-Sultaan-e-Mashraqain
+  Tharra raha tha rauza-e-Sultaan-e-Mashriqain
   Sab khatm kar li saari ye ghamnaak daastaaṅ
   Roye haiṅ is alam meiṅ zamiṅ aur aasmaaṅ
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"

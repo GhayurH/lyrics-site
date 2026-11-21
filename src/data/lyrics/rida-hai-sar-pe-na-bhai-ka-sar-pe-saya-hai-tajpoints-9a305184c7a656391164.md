@@ -1,28 +1,46 @@
 ---
-title: "Rida Hai Sar Pe Na Bhai Ka Sar Pe Saya Hai"
+title: "ردا ہے سر پہ نہ بھائی کا سر پہ سایہ ہے"
+alternateTitle: "Rida Hai Sar Pe Na Bhai Ka Sar Pe Saya Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Elahi khair ho Bazar-e-Sham aaya hai
+
+  1
+  Sakina kehti thi sar peet kar koi jao
+  Keh Ghazi roth gaya hai osse mana lao
+  Lab-e-Furat se khali alam kyun aaya hai
+  Woh jis ki shahdi ka saman hi nirala tha
+  Woh jis ko maa ne bari mantoon se pala tha
+  Laga ke khon ki mehndi kahan se aaya hai
+
+  2
+  Maqam-e-Arsh ka toota howa sitara hai
+  Gunehgar ki bakhshish ka ik sahara hai
+  Jo ashk aankh mein Mula ke gham se aaya hai
+  Khalil dekh ke bole zaban hai rakhein
+  Na jane kaisi zaeefi mein dasht-e-ghurbat mein
+  Hussain lasha-e-Akbar utha ke laya hai
 ---
 
-Elahi Khair Ho Bazar-e-Sham Aaya Hai.
+الٰہی خیر ہو بازارِ شام آیا ہے
 
-1
-Sakina Kehti Thi Sar Peet Kar Koi Jao.
-Keh Ghazi Roth Gaya Hai Osse Mana Lao.
-Lab-e-Furat Se Khali Alam Kyun Aaya Hai.
-Woh Jis Ki Shahdi Ka Saman Hi Nirala Tha.
-Woh Jis Ko Maa Ne Bari Mantoon Se Pala Tha.
-Laga Ke Khon Ki Mehndi Kahan Se Aaya Hai.
+۱
+سکینہ کہتی تھی سر پیٹ کر کوئی جاؤ
+کہ غازی روٹھ گیا ہے اسے منا لاؤ
+لبِ فرات سے خالی علم کیوں آیا ہے
+وہ جس کی شادی کا سامان ہی نرالا تھا
+وہ جس کو ماں نے بڑی منتوں سے پالا تھا
+لگا کے خون کی مہندی کہاں سے آیا ہے
 
-2
-Maqam-e-Arsh Ka Toota Howa Sitara Hai.
-Gunehgar Ki Bakhshish Ka Ik Sahara Hai.
-Jo Ashk Aankh Mein Mula Ke Gham Se Aaya Hai.
-Khalil Dekh Ke Bole Zaban Hai Rakhein.
-Na Jane Kaisi Zaeefi Mein Dasht-e-Ghurbat Mein.
-Hussain Lasha-e-Akbar Utha Ke Laya Hai.
+۲
+مقامِ عرش کا ٹوٹا ہوا ستارہ ہے
+گنہگار کی بخشش کا اک سہارا ہے
+جو اشک آنکھ میں مولا کے غم سے آیا ہے
+خلیل دیکھ کے بولے زبان ہے رکھیں
+نہ جانے کیسی ضعیفی میں دشتِ غربت میں
+حسین لاشۂ اکبر اٹھا کے لایا ہے

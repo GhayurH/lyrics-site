@@ -1,31 +1,52 @@
 ---
-title: "Rab Jane Kiwein Aayi Aye Na Mehrama Wich Lyrics 2019"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "رب جانے کیویں آئی اے نا محرماں وچ"
+alternateTitle: "Rab Jane Kiwein Aayi Aye Na Mehrama Wich"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Rab jane kiwein aayi aye na mehrama wich bazar aye
+  Har moor te bheer sharabiyaan di Zainab jayi parda daar aye
+
+  1
+  Dhi main Batool di aan nana mera Rasool aye
+  Saday ghar uttay Quraan da kita Rab ne si nazool aye
+  Aye khutbay parh bazaraan wich hoi pathraan layi teyaar aye
+  Kayi pehar ne khalotay nayi bain di ijazat
+
+  2
+  Qaidi salar nu nayi kuj kehn di ijazat
+  Oddi rat akhiyaan di dasdi aye iss peshi toon inkar aye
+  Shabir naal kita wadah si aynj nibhaya
+  Safraan che zulm seh ke Sajjad nu bachaya
+
+  3
+  Bazar nu wekh ke kehndi aye mar jaway na beemar aye
+  Kar yaad wela watna da jadoon turya si Shabir aye
+  Saday sir te san ridawaan te naal Ghazi veer aye
+  Sir nangay naal ne aj bhaina naizay te aap sawaar aye
 ---
 
-Rab Jane Kiwein Aayi Aye Na Mehrama Wich Bazar Aye.
-Har Moor Te Bheer Sharabiyaan Di Zainab Jayi Parda Daar Aye.
+رب جانے کیویں آئی اے نا محرماں وچ بازار اے
+ہر موڑ تے بھیڑ شرابیاں دی زینب جئی پردہ دار اے
 
-1
-Dhi Main Batool Di Aan Nana Mera Rasool Aye.
-Saday Ghar Uttay Quraan Da Kita Rab Ne Si Nazool Aye.
-Aye Khutbay Parh Bazaraan Wich Hoi Pathraan Layi Teyaar Aye.
-Kayi Pehar Ne Khalotay Nayi Bain Di Ijazat.
+۱
+دھی میں بتول دی آں نانا میرا رسول اے
+ساڈے گھر اُتے قرآن دا کیتا رب نے سی نزول اے
+اے خطبے پڑھ بازاراں وچ ہوئی پتھراں لئی تیار اے
+کئی پہر نے کھلوتے نئیں بہن دی اجازت
 
-2
-Qaidi Salar Nu Nayi Kuj Kehn Di Ijazat.
-Oddi Rat Akhiyaan Di Dasdi Aye Iss Peshi Toon Inkar Aye.
-Shabir Naal Kita Wadah Si Aynj Nibhaya.
-Safraan Che Zulm Seh Ke Sajjad Nu Bachaya.
+۲
+قیدی سالار نوں نئیں کجھ کہن دی اجازت
+اوہدی رت اکھیاں دی دسدی اے اِس پیشی توں انکار اے
+شبیر نال کیتا وعدہ سی اینج نبھایا
+سفراں چے ظلم سہ کے سجاد نوں بچایا
 
-3
-Bazar Nu Wekh Ke Kehndi Aye Mar Jaway Na Beemar Aye.
-Kar Yaad Wela Watna Da Jadoon Turya Si Shabir Aye.
-Saday Sir Te San Ridawaan Te Naal Ghazi Veer Aye.
-Sir Nangay Naal Ne Aj Bhaina Naizay Te Aap Sawaar Aye.
+۳
+بازار نوں ویکھ کے کہندی اے مر جاوے نہ بیمار اے
+کر یاد ویلا وطناں دا جدوں تریا سی شبیر اے
+ساڈے سر تے سن رداواں تے نال غازی ویر اے
+سر ننگے نال نے اج بھیناں نیزے تے آپ سوار اے

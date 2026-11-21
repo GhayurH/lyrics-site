@@ -16,11 +16,11 @@ romanLyrics: |-
   Tir khaa kar muskuraane aa gaye
 
   1
-  Aa gaye le kar tabassum ki ada
+  Aa gaya le kar tabassum ki ada
   Fauj-e-aadaa ko rulaane aa gaye
 
   2
-  Aaye kya maidaan meiṅ Asghar ae Khuda
+  Aaye kya maidaan meiṅ Asghar Khuda
   Saath un ke sab zamaane aa gaye
 
   3

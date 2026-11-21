@@ -31,8 +31,8 @@ romanLyrics: |-
   Ab kahaaṅ zulm se bachchi ko bachaane waale
 
   5
-  Hashr ke roz jahannam meiṅ jaleṅ ge aakhir
-  Ban meiṅ saadaat ke khaimoṅ ko jalaane waale
+  Hashr ke roz jahannam mein jaleṅ ge aakhir
+  Ban mein saadaat ke khaimoṅ ko jalaane waale
 
   6
   Sab tere sher zamaane ko sunaate haiṅ Gohar

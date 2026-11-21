@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Ujre gharoṅ meiṅ gunji aawaaz haae Akbar
-  Sughra ko jab phuphi ne ro kar gale lagaaya
+  Sughra ko jab phupi ne ro kar gale lagaaya
 
   2
   Jaana kachahriyoṅ meiṅ chhuta na bibiyoṅ ka
@@ -40,7 +40,7 @@ romanLyrics: |-
   Durre ka nil maaṅ ko Zainab ne jab dikhaaya
 
   7
-  Shauhar bache na bhaai sasuraal aur na maika
+  Shauhar bachche na bhaai sasuraal aur na maika
   Bimaar tera bhaai bewaaoṅ ko saath laaya
 
   8

@@ -1,49 +1,87 @@
 ---
-title: "Zindan V Ronda Aye Sun Wain Sakina De Lyrics In Punjabi 2026"
+title: "زندان وی روندا اے سن وین سکینہ دے"
+alternateTitle: "Zindan V Ronda Aye Sun Wain Sakina De"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Zindan v ronda aye sun wain Sakina de
+  Sahwaan taun wadh gaye ne dukh sain Sakina de
+
+  1
+  Babay de sir taun jadon ujari da sir chaya
+  Hath la ke nabzan te Zainab ne farmaya
+  Sah Abid ruk gaye ne teri bhain Sakina de
+
+  2
+  Baba mainu adat nahin mitiyaan te sowanr di
+  Ashor tu aj taein teri dhi aye jagdi payi
+  Ho Karbal dafan gaye sab chain Sakina de
+
+  3
+  Teri ladli bachri te aj kaisa wela aye
+  Koi ujari kainda aye koi qaidanr kainda aye
+  Ainj loki Sham de wich naa lain Sakina de
+
+  4
+  Sah muk gaye qaidanr de takleefaan nahin mukiyaan
+  Kar rooh parwaz gayi par akhiyaan nahin sukiyan
+  Babay nu ainj roye do nain Sakina de
+
+  5
+  Kadi piyo de qatil tu oh sir mangdi rayi aye
+  Kadi phophiyaan mawaan layi chadar mangdi rayi aye
+  Mamnon ne khud Zainab te Hussain, Sakina de
+
+  6
+  Babay taun wichran da dukh zakhmi kana da
+  Darbar di peshi da ik gal wich rasiyan da
+  Sab dukh san Zahra de dukh sain Sakina de
+
+  7
+  Har matamdar ho si Shabbir de qadma wich
+  Na mehshar wich athro ho sach ona akhiyaan wich
+  Muhsin jinhan akhiyaan wich gham rehn Sakina de
 ---
 
-Zindan V Ronda Aye Sun Wain Sakina De.
-Sahwaan Taun Wadh Gaye Ne Dukh Sain Sakina De.
+زندان وی روندا اے سن وین سکینہ دے
+ساہواں توں ودھ گئے نے دکھ سہن سکینہ دے
 
-1
-1- Babay De Sir Taun Jadon Ujari Da Sir Chaya.
-Hath La Ke Nabzan Te Zainab Ne Farmaya.
-Sah Abid Ruk Gaye Ne Teri Bhain Sakina De.
+۱
+بابے دے سر توں جدوں اجاڑی دا سر چایا
+ہتھ لا کے نبضاں تے زینب نے فرمایا
+ساہ عابد رک گئے نے تیری بھین سکینہ دے
 
-2
-2- Baba Mainu Adat Nahin Mitiyaan Te Sowanr Di.
-Ashor Tu Aj Taein Teri Dhi Aye Jagdi Payi.
-Ho Karbal Dafan Gaye Sab Chain Sakina De.
+۲
+بابا مینوں عادت نہیں مٹیاں تے سوونڑ دی
+عاشور توں اج تائیں تیری دھی اے جاگدی پئی
+ہو کربل دفن گئے سب چین سکینہ دے
 
-3
-3- Teri Ladli Bachri Te Aj Kaisa Wela Aye.
-Koi Ujari Kainda Aye Koi Qaidanr Kainda Aye.
-Ainj Loki Sham De Wich Naa Lain Sakina De.
+۳
+تیری لاڈلی بچڑی تے اج کیسا ویلا اے
+کوئی اجاڑی کہندا اے کوئی قیدنڑ کہندا اے
+اینج لوکی شام دے وچ ناں لین سکینہ دے
 
-4
-4- Sah Muk Gaye Qaidanr De Takleefaan Nahin Mukiyaan.
-Kar Rooh Parwaz Gayi Par Akhiyaan Nahin Sukiyan.
-Babay Nu Ainj Roye Do Nain Sakina De.
+۴
+ساہ مک گئے قیدنڑ دے تکلیفاں نہیں مکیاں
+کر روح پرواز گئی پر اکھیاں نہیں سکیاں
+بابے نوں اینج روئے دو نین سکینہ دے
 
-5
-5- Kadi Piyo De Qatil Tu Oh Sir Mangdi Rayi Aye.
-Kadi Phophiyaan Mawaan Layi Chadar Mangdi Rayi Aye.
-Mamnon Ne Khud Zainab Te Hussain, Sakina De.
+۵
+کدی پیو دے قاتل توں اوہ سر منگدی رئی اے
+کدی پھپھیاں ماواں لئی چادر منگدی رئی اے
+ممنون نے خود زینب تے حسین، سکینہ دے
 
-6
-6- Babay Taun Wichran Da Dukh Zakhmi Kana Da.
-Darbar Di Peshi Da Ik Gal Wich Rasiyan Da.
-Sab Dukh San Zahra De Dukh Sain Sakina De.
+۶
+بابے توں وچھڑن دا دکھ زخمی کناں دا
+دربار دی پیشی دا اک گل وچ رسیاں دا
+سب دکھ سن زہرا دے دکھ سہن سکینہ دے
 
-7
-7- Har Matamdar Ho Si Shabbir De Qadma Wich.
-Na Mehshar Wich Athro Ho Sach Ona Akhiyaan Wich.
- Muhsin Jinhan Akhiyaan Wich Gham Rehn Sakina De.
+۷
+ہر ماتم دار ہو سی شبیر دے قدماں وچ
+نہ محشر وچ اتھرو ہو سچ اوناں اکھیاں وچ
+محسن جنہاں اکھیاں وچ غم رہن سکینہ دے

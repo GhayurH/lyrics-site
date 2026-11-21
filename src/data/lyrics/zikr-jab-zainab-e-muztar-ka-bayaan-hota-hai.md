@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Aao Sajjaad ki aankhoṅ ke lahu ko dekho
-  Manzar-e-Karbobala saara ayaaṅ hota hai
+  Manzar-e-Karb o Bala saara ayaaṅ hota hai
 
   6
   Tu Amir ek nahiṅ Shaah ke gham meiṅ shaamil

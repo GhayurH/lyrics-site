@@ -1,26 +1,42 @@
 ---
-title: "Kali Bethi Bhain Sughra Tera Jhola Roz Lyrics 2011"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کلّی بیٹھی بھین صغریٰ تیرا جھولا روز"
+alternateTitle: "Kali Bethi Bhain Sughra Tera Jhola Roz"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kali bethi bhain Sughra tera jhola roz jholaway
+  Ghar aa ja veerna teri taang mainu tarpaway
+
+  1
+  Rahwaan wekhan di aini aadi ho gayi aye ujari
+  Akhiyaan na band howan oh jagay ya so jaway
+  Khali dewaraan nu kinay dukh dard sunaway
+  Jay aaway veer te jee bhar ke dukhray sunaway
+
+  2
+  Bethi bethi uth ke roz hath phar ke hawawaan de
+  Apne tasawaraan wich ohno turna bhain sikhaway
+  Allah janrey Akbar kehri gal aye haye Sughra
+  Odhay cholay seendi hoi odhay kafan banandi jaway
 ---
 
-Kali Bethi Bhain Sughra Tera Jhola Roz Jholaway.
-Ghar Aa Ja Veerna Teri Taang Mainu Tarpaway.
+کلّی بیٹھی بھین صغریٰ تیرا جھولا روز جھولاوے
+گھر آ جا ویرنا تیری تانگھ مینوں تڑپاوے
 
-1
-Rahwaan Wekhan Di Aini Aadi Ho Gayi Aye Ujari.
-Akhiyaan Na Band Howan Oh Jagay Ya So Jaway.
-Khali Dewaraan Nu Kinay Dukh Dard Sunaway.
-Jay Aaway Veer Te Jee Bhar Ke Dukhray Sunaway.
+۱
+راہواں ویکھن دی اینی عادی ہو گئی اے اُجاڑی
+اکھیاں نہ بند ہون اوہ جاگے یا سو جاوے
+خالی دیواراں نوں کِنے دکھ درد سناوے
+جے آوے ویر تے جی بھر کے دکھڑے سناوے
 
-2
-Bethi Bethi Uth Ke Roz Hath Phar Ke Hawawaan De.
-Apne Tasawaraan Wich Ohno Turna Bhain Sikhaway.
-ALLAH Janrey Akbar Kehri Gal Aye Haye Sughra.
-Odhay Cholay Seendi Hoi Odhay Kafan Banandi Jaway.
+۲
+بیٹھی بیٹھی اٹھ کے روز ہتھ پھڑ کے ہواواں دے
+اپنے تصوّراں وچ اوہنوں ٹرنا بھین سکھاوے
+اللہ جانے اکبر کیہڑی گل اے ہائے صغریٰ
+اوہدے چولے سیندی ہوئی اوہدے کفن بناندی جاوے

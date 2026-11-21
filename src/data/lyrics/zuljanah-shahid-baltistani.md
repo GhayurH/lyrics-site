@@ -9,145 +9,77 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Zuljanah Shahid Baltistani"
-romanLyrics: 'Zuljanah Shahid Baltistani
-
-  Mere Baba Ke Zuljanah.
-
-  Kehti Thi Yeh Sakina Zakhmi Hai Kyun Tu Itna.
-
-  Maqtal Mein Kya Howa Bata Zuljinah.
-
+romanLyrics: |-
+  Zuljanah ae Zuljanah
+  Mere baba ke Zuljanah
 
   1
-
-  Itna Bata De Kyun Ghabraya Hai Tu.
-
-  Kyun Mere Baba Ko Chor Aaya Hai Tu.
-
-  Tere Qadmo Ki Jab Aawaz Aayi.
-
-  Main Yeh Samjhi Baba Ko Laya Hai Tu.
-
+  Kehti thi yeh Sakina, zakhmi hai tu kiuṅ itna
+  Maqtal meiṅ kya hua bata Zuljanah
 
   2
-
-  Na Ghazi Hai Na Bhaiyya Haye Baba Ka Lasha.
-
-  Maqtal Se Kaun Laye Ga.
-
-  Tere Qadmo Mein Yeh Gir Kar Kaha Tha.
-
-  Na Le Ja Baba Ko Mere Na Le Ja.
-
+  Itna bata de kiuṅ ghabraya hai tu
+  Kiuṅ mere baba ko chhor aaya hai tu
+  Tere qadmoṅ ki jab aawaz aayi
+  Main yeh samjhi baba ko laya hai tu
+  Na Ghazi hai na bhaiyya, haaye baba ka laasha
+  Maqtal se kaun laaye ga Zuljanah
 
   3
-
-  Tanha Baba Ko Jo Jane Diya Tha.
-
-  Teri Wafa Pe Tha Mujh Ko Bharosa.
-
-  Tujh Ko Ghazi Ki Qasam Rakh Le Wafa Ka Bharam.
-
-  Tanha Kyun Loota Hai Bata.
-
+  Tere qadmoṅ meiṅ yeh gir kar kaha tha
+  Na le ja baba ko mere, na le ja
+  Tanha baba ko jo jaane diya tha
+  Teri wafa pe tha mujh ko bharosa
+  Tujh ko Ghazi ki qasam, rakh le wafa ka bharam
+  Tanha kiuṅ luta hai beta
 
   4
-
-  Rukhsat Baba Ki Na Bholi Sakina.
-
-  Aakhri Bar Jo Soyi Sakina.
-
-  Aa Kar Yeh Khuwab Mein Dadi Pukari.
-
-  Bhejo Hussain Ko Bali Sakina.
-
+  Rukhsat baba ki na bhuli
+  Aakhri baar jo soyi Sakina
+  Aa kar yeh khwaab meiṅ dadi pukari
+  Bhejo Husain ko baali Sakina
+  Tab se bichhri huṅ, dekho jaane na deti un ko
+  Gar mujh se kehti na Zahra Zuljanah
 
   5
-
-  Tab Se Bichari Hoon Dekho Jane Na Deti Unn Ko.
-
-  Gar Mujh Se Kehtin Na Zahra.
-
-  Gham Kitne Totay Ghareeb Al-Watan Par.
-
-  Naizay Chaley Hain Kya Unn Ke Badan Par.
-
+  Gham kitne tute Gharib-ul-Watan par
+  Naize chale haiṅ kiuṅ un ke badan par
+  Sar tu utha teri aankhoṅ meiṅ dekhuṅ
+  Kya kya sitam hue Shah-e-Zaman par
+  Aansuṅ rawaaṅ hai tere, baba kahaaṅ hai mere
+  Kiuṅ hai khamosh yeh bata Zuljanah
 
   6
-
-  Sar Tu Utha Teri Aankhon Mein Dekhon.
-
-  Kya Kya Sitam Hoye Shah-e-Zaman Par.
-
-  Aanso Rawaan Hain Tere Baba Kahan Hain Mere.
-
-  Kyun Hai Khamosh Yeh Bata.
-
+  Yeh Zahra jaane ya Allah jaane
+  Mere baba the jaane kab se pyaase
+  Aankheiṅ tumhari mujh se keh rahi haiṅ
+  Maqtal se tum bhi ho pyaase hi laute
+  Mujh ko yaqin hai mere baba ne tum se pehle
+  Paani kahaaṅ piya hoga Zuljanah
 
   7
-
-  Yeh Zahra Jane Ya ALLAH Jane.
-
-  Mere Baba They Jane Kab Se Pyasay.
-
-  Aankhein Tumhari Mujh Se Keh Rahi Hain.
-
-  Maqtal Se Tum Bhi Ho Pyasay Hi Laute.
-
+  Mujh ko taapoṅ ki jo aati hai sada
+  Wahshat se phatta hai kaleja mera
+  Chaaroṅ taraf hai zaalimoṅ ka pehra
+  Tanha hai ran meiṅ mere pyaase baba
+  Laasha paamaal na ho, ja ke bacha le un ko
+  Main bhi mar jaauṅ jaauṅ gi warna Zuljanah
 
   8
-
-  Mujh Ko Yaqeen Hain Mere Baba Ne Tum Se Pehle.
-
-  Pani Kahan Piya Hoga.
-
-  Mujh Ko Tapoon Ki Jo Aati Hai Sada.
-
-  Wehshat Se Phatta Hai Kaleja Mera.
-
+  Lute na khaimoṅ ko aa kar sitamgar
+  Haaye chhin jaaye na phuphiyoṅ ki chaadar
+  Kis ko pukaaruṅ gi itna bata de
+  Zaalim jab khainche ga kaanoṅ se gauhar
+  Kaun hai ab hamara, koi nahiṅ sahaara
+  Lut jaaye ga mera kunba Zuljanah
 
   9
-
-  Charon Taraf Hai Zalimo Ka Pehra.
-
-  Tanha Hain Ran Mein Mere Pyasay Baba.
-
-  Lasha Pamal Na Ho Ja Kar Bacha Le Unn Ko.
-
-  Main Bhi Mar Jaon Gi Warna.
-
-
-  10
-
-  Loote Na Khaimon Ko Aa Kar Sitamgar.
-
-  Haye Chin Jaye Na Phophiyon Ki Chadar.
-
-  Kis Ko Pukaron Gi Itna Bata De.
-
-  Zalim Jab Khainchey Ga Kano Se Gohar.
-
-
-  11
-
-  Kaun Hai Ab Hamara Koi Nahi Sahara.
-
-  Lut Jaye Ga Mera Kunba.
-
-  Kehti Hai Karbala Darwaish-o- Zeeshan.
-
-  Rota Raha Sar Jhukaye Zuljinah.
-
-
-  12
-
-  Kaisay Sakina Ke Baba Ko Laye.
-
-  Chanay Lagi Hai Ab Sham-e-Ghareebaan.
-
-  Rakh Keh Qadmo Mein Sar Ko Gir Gaya Khak Par Woh.
-
-  Sun Kar Sakina Ka Noha.'
+  Kehti hai Karbala Darwaish o Zishan
+  Rota raha sar jhukaaye Zuljanah
+  Kaise Sakina ke baba ko laaye
+  Chhaane lagi hai ab Shaam-e-Gharibaaṅ
+  Rakh ke qadmoṅ meiṅ sar ko gir gaya khaak par woh
+  Sun kar Sakina ka noha Zuljanah
 ---
 
 ذوالجناح اے ذولجناح

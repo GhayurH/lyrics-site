@@ -12,52 +12,52 @@ aliases:
   - "Taqaddam Waladi"
 published: true
 romanLyrics: |-
-  Fauj e aada thi udhar jang pe tayyar khari
-  Jaan dene pe yahaṅ fauje elaahi thi tuli
-  Yak bayak sheh ki nazar akbar e mehru pe pari
-  Dekh kar suye pisar shaah ne awaaz ye di
-  Taqadam waladi taqadam waladi
-  Saj chuka maut ka bazaar taqadam waladi
-  In pe aanch aaye na zinhaar taqadam waladi
+  Fauj-e-aadaa thi udhar jang pe tayyar khari
+  Jaan dene pe yahaaṅ fauj-e-ilaahi thi tuli
+  Yak ba yak sheh ki nazar Akbar-e-Mehru pe pari
+  Dekh kar su-e-pisar shaah ne awaaz ye di
+  Taqaddam waladi taqaddam waladi
+  Saj chuka maut ka bazaar taqaddam waladi
+  In pe aanch aaye na zinhaar taqaddam waladi
 
   1
   Karbala ho chuki tayyar, taqaddam waladi
-  Barhe aate haiṅ jafakar, taqaddam waladi
-  Charoṅ janib se hai yalghar, taqaddam waladi
+  Barhe aate haiṅ jafaakaar, taqaddam waladi
+  Chaaroṅ janib se hai yalghaar, taqaddam waladi
   Hoti hai tiroṅ ki bochhar, taqaddam waladi
 
   Zad pe haiṅ sab mere ansar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   2
-  Waqt yeh woh hai ke talwar utha len hum log
-  Din-e haq ko kisi surat se bacha len hum log
-  Kiuṅ kisi aur pe is baar ko daleṅ hum log
-  Kiuṅ na yeh maarka khud aap sambhaleṅ hum log
+  Waqt yeh woh hai ke talwaar utha leṅ hum log
+  Din-e-haq ko kisi surat se bacha leṅ hum log
+  Kiuṅ kisi aur pe is baar ko daaleṅ hum log
+  Kiuṅ na yeh maarka khud aap sambhaaleṅ hum log
 
-  Khinch kar niyam se talwar, taqaddam waladi
+  Khinch kar niyam se talwaar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   3
-  Ae mere lakht-e jigar, ae mere pyare farzand
+  Ae mere lakht-e-jigar, ae mere pyare farzand
   Haiṅ yeh nau laakh to kya, azm to hai apna buland
-  Aage aage saf-e awwal ke rahe apna samand
+  Aage aage saf-e-awwal ke rahe apna samand
   Mere ashab ko pahunche na kahiṅ koi gazand
 
-  Tir aate haiṅ lagatar, taqaddam waladi
+  Tir aate haiṅ lagaataar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   4
-  Bhai Abbas sambhale raheṅ lashkar ka nizam
-  Qasim o Aun o Muhammad raheṅ nazdik-e khiyam
-  Taake is samt ka rukh kar na sake lashkar-e Shaam
-  Aur tum bahr-e wigha aage barho le ke husam
+  Bhai Abbas sambhaale raheṅ lashkar ka nizam
+  Qasim o Aun o Muhammad raheṅ nazdik-e-khiyaam
+  Taake is samt ka rukh kar na sake lashkar-e-Shaam
+  Aur tum bahr-e-waghaa aage barho le ke husaam
 
-  Tera Allah madadgar, taqaddam waladi
+  Tera Allah madadgaar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   5
-  Din nana ka mite aur nawasa seh le
+  Din naana ka mite aur nawaasa seh le
   Yeh na hoga kabhi hum se koi kuch bhi keh le
   Khun behta hai to hum logoṅ ka is par beh le
   Bhejta jang pe Abid ko maiṅ tum se pehle
@@ -66,48 +66,48 @@ romanLyrics: |-
   Karbala ho chuki tayyar, taqaddam waladi
 
   6
-  Mujh se yeh chahte haiṅ Badr o Uhad ka badla
-  Mere aslaf ki har jadd o jehad ka badla
-  Din-e Islam ki nusrat ka, madad ka badla
-  Baap se tere yeh leṅ ge tere jad ka badla
+  Mujh se yeh chahte haiṅ Badr o Uhud ka badla
+  Mere aslaf ki har jadd o jahd ka badla
+  Din-e-Islam ki nusrat ka, madad ka badla
+  Baap se tere yeh leṅ ge tere jadd ka badla
 
   Hum haiṅ is ke liye tayyar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   7
-  Hum ko tarikh badal deni hai dasht o dar ki
+  Hum ko taarikh badal deni hai dasht o dar ki
   Pare aainda nazar jis pe zamane bhar ki
   Gar zarurat ho to baazi bhi laga do sar ki
   Aakhri jang samajh lo ise apne ghar ki
 
-  Jane phir kab khinche talwar, taqaddam waladi
+  Jaane phir kab khinche talwaar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   8
-  Kahiṅ aisa na ho Abbas-e Ali, batal-e jalil
-  Is tarah dekh ke barbadi-e gulzar-e Khalil
-  Tum se pehle hi woh kar jayeṅ wigha meiṅ taajil
-  Kar ke Qasim ke hawale alam-e fauj-e qalil
+  Kahiṅ aisa na ho Abbas-e-Ali, batal-e-jalil
+  Is tarah dekh ke barbadi-e-gulzar-e-Khalil
+  Tum se pehle hi woh kar jayeṅ waghaa meiṅ taajil
+  Kar ke Qasim ke hawale alam-e-fauj-e-qalil
 
-  Khud barheṅ tol ke talwar, taqaddam waladi
+  Khud barheṅ tol ke talwaar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   9
   Kahiṅ aisa na ho Zainab ko khabar ho jaye
   Aur talab Aun o Muhammad ki udhar ho jaye
-  Taroṅ ko izn-e safar qabl-e qamar ho jaye
+  Taaroṅ ko izn-e-safar qabl-e-qamar ho jaye
   Meri tartib hi sab zer o zabar ho jaye
 
   Ho sake hum se na inkar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
   10
-  Umm-e Laila dar-e khaima se kahiṅ dekh na le
-  Rukh tumhara hai su-e fauj-e laiṅ dekh na le
-  Abr meiṅ jate hue mah-e mubiṅ dekh na le
+  Umm-e-Laila dar-e-khaima se kahiṅ dekh na le
+  Rukh tumhara hai su-e-fauj-e-la'iṅ dekh na le
+  Abr meiṅ jaate hue maah-e-mubiṅ dekh na le
   Sher ko nezoṅ ke jungle ke qariṅ dekh na le
 
-  Phir to jana bhi hai dushwar, taqaddam waladi
+  Phir to jaana bhi hai dushwaar, taqaddam waladi
   Karbala ho chuki tayyar, taqaddam waladi
 
 ---

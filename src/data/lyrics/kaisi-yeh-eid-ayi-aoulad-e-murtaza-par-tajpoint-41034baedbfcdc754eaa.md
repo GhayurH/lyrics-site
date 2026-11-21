@@ -1,29 +1,55 @@
 ---
-title: "Kaisi Yeh Eid Ayi Aoulad E Murtaza Par"
+title: "کیسی یہ عید آئی اولادِ مرتضیٰ پر"
+alternateTitle: "Kaisi Yeh Eid Ayi Aoulad E Murtaza Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Meesum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kaisi yeh Eid ayi aoulad e Murtaza par
+
+  1
+  Shabbir ro rahe hain qabar-e-Ali pe ja kar
+  Kofay mein Eid ke din khushiyon ka jo samaa hai
+  Karb-o-Bala ka manzar ab lag raha ayyaan hai
+  Kartay hain Eid Kofi Zainab ka dil dukha kar
+  Pursay ki muntazir thin Kulsoom our Zainab
+  Roti rahi woh dukhiya Kulsoom our Zainab
+  Kofay ki aurton ne pursa diya na aa kar
+  Kofay mein kalma goyon ne aisi Eid ki hai
+  Zainab ne phir kabhi na baba ki deed ki hai
+
+  2
+  Mara hai Murtaza ko Allah ke ghar mein ja kar
+  Kofay mein aa rahi hain yateemo ki yeh sadaein
+  Baba Ali kyun ab tak milney nahi hain aaein
+  Sab bachay ro rahe hain bait-e-Ali pe ja kar
+  Aata hai Eid ka din deta hai pursa Meesum
+  Kartay hain sab hi giriya parhta hai noha Meesum
+  Deta hai pursa Mazhar farsh-e-azza bicha kar
 ---
 
-Kaisi Yeh Eid Ayi Aoulad e Murtaza Par.
+کیسی یہ عید آئی اولادِ مرتضیٰ پر
 
-1
-Shabbir Ro Rahe Hain Qabar-e-Ali Pe Ja Kar.Kofay Mein Eid Ke Din Khushiyon Ka Jo Samaa Hai.
-Karb-o-Bala Ka Manzar Ab Lag Raha Ayyaan Hai.
-Kartay Hain Eid Kofi Zainab Ka Dil Dukha Kar.Pursay Ki Muntazir Thin Kulsoom Our Zainab.
-Roti Rahi Woh Dukhiya Kulsoom Our Zainab.
-Kofay Ki Aurton Ne Pursa Diya Na Aa Kar.Kofay Mein Kalma Goyon Ne Aisi Eid Ki Hai.
-Zainab Ne Phir Kabhi Na Baba Ki Deed Ki Hai.
+۱
+شبیر رو رہے ہیں قبرِ علی پہ جا کر
+کوفے میں عید کے دن خوشیوں کا جو سماں ہے
+کرب و بلا کا منظر اب لگ رہا عیاں ہے
+کرتے ہیں عید کوفی زینب کا دل دکھا کر
+پرسے کی منتظر تھیں کلثوم اور زینب
+روتی رہی وہ دکھیّا کلثوم اور زینب
+کوفے کی عورتوں نے پرسہ دیا نہ آ کر
+کوفے میں کلمہ گویوں نے ایسی عید کی ہے
+زینب نے پھر کبھی نہ بابا کی دید کی ہے
 
-2
-Mara Hai Murtaza Ko ALLAH Ke Ghar Mein Ja Kar.Kofay Mein Aa Rahi Hain Yateemo Ki Yeh Sadaein.
-Baba Ali Kyun Ab Tak Milney Nahi Hain Aaein.
-Sab Bachay Ro Rahe Hain Bait-e-Ali Pe Ja Kar.
-Aata Hai Eid Ka Din Deta Hai Pursa Meesum.
-Kartay Hain Sab Hi Giriya Parhta Hai Noha Meesum.
-Deta Hai Pursa Mazhar Farsh-e-Azza Bicha Kar.
+۲
+مارا ہے مرتضیٰ کو اللہ کے گھر میں جا کر
+کوفے میں آ رہی ہیں یتیموں کی یہ صدائیں
+بابا علی کیوں اب تک ملنے نہیں ہیں آئے
+سب بچے رو رہے ہیں بیتِ علی پہ جا کر
+آتا ہے عید کا دن دیتا ہے پرسہ میثم
+کرتے ہیں سب ہی گریہ پڑھتا ہے نوحہ میثم
+دیتا ہے پرسہ مظہر فرشِ عزا بچھا کر

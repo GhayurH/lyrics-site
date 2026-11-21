@@ -7,6 +7,40 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Al-amaaṅ al-amaaṅ al-amaaṅ al-amaaṅ
+
+  1
+  Kaise ye zulm o jaur o sitam hum kareṅ bayaaṅ
+  Ahl-e-jafa ne tor diṅ Zehra ki pasliyaaṅ
+
+  2
+  Muhsin ko qatl kar diya dar bhi jala diya
+  Zehra jhulas ke reh gaiṅ sholoṅ ke darmiyaaṅ
+
+  3
+  Pehlu ka waar dekh ke Zainab tarap gaiṅ
+  Is zakhm se na chal base duniya se meri maaṅ
+
+  4
+  Main rokti rahi miri fariyaad na suni
+  Gardan mein laa ke daal diṅ Haidar ke rassiyaaṅ
+
+  5
+  Mazluma ka janaaza uthaaya hai raat mein
+  Bint-e-Nabi ki qabr ka ab tak nahiṅ nishaaṅ
+
+  6
+  Tahrir Mustafa ki la'inoṅ ne phaar di
+  Jhutla diṅ Saadiqain ki saari gawaahiyaaṅ
+
+  7
+  Ya Rab ye zulm kaisa hua hai Batul par
+  Ab tak sunaai deti haiṅ Yasrib se siskiyaaṅ
+
+  8
+  Rizwan likh ke haalat-e-darbaar ro pare
+  Zehra wahaaṅ khari rahiṅ baithe the sab jahaaṅ
 ---
 
 الاماں الاماں الاماں الاماں

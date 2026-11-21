@@ -12,8 +12,8 @@ tags: []
 aliases: ["Run Mein Hawa Ke"]
 published: true
 romanLyrics: |-
-  Ran meiṅ hawa ke jhoṅke nauha suna rahe haiṅ
-  Chaliye Husain chaliye Qasim bula rahe haiṅ
+  Ran meiṅ hawaa ke jhoṅke nauha sunaa rahe haiṅ
+  Chaliye Husain chaliye Qasim bulaa rahe haiṅ
 
   1
   Sarwar madad ko aao naushaah-e-Karbala ki
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Ran meiṅ mile to kaise Qasim ki laash un ko
-  Abbas ko Shah-e-diṅ tukre dikhaa rahe haiṅ
+  Abbaas ko Shah-e-diṅ tukre dikhaa rahe haiṅ
 
   3
   Ye Karbala ki shaadi duniya se hai niraali
@@ -33,27 +33,27 @@ romanLyrics: |-
 
   5
   Taqsim ho chuke the is darja ran meiṅ Qasim
-  Sarwar aba bichhaa kar laasha uthaa rahe haiṅ
+  Sarwar abaa bichhaa kar laashaa uthaa rahe haiṅ
 
   6
   Ye Karbala ka dulha ran meiṅ shabaab par tha
-  Qasim ko duniya waale dulha bana rahe haiṅ
+  Qasim ko duniya waale dulha banaa rahe haiṅ
 
   7
   Kubra ye keh rahi hai ye kaisi qayaamat hai
-  Dulhan bana ke hum ko bewa bana rahe haiṅ
+  Dulhan banaa ke hum ko bewa banaa rahe haiṅ
 
   8
   Beti Husain ki huṅ aur huṅ bahu Hasan ki
-  Phir bhi ye aada hum ko dar dar phira rahe haiṅ
+  Phir bhi ye aadaa hum ko dar dar phira rahe haiṅ
 
   9
   Dast-e-hinaai dekho paaband hai rasan ki
-  Zewar ke badle zaalim beri pinha rahe haiṅ
+  Zewar ke badle zaalim beri pinhaa rahe haiṅ
 
   10
   Bewa ye keh rahi hai kuchh meri khabar le lo
-  Dekho ye Ahl-e-Kufa hum ko sata rahe haiṅ
+  Dekho ye Ahl-e-Kufa hum ko sataa rahe haiṅ
 
   11
   Nusrat meiṅ Shaah-e-diṅ ki Iqbal dekho Qasim

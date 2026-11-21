@@ -1,50 +1,89 @@
 ---
-title: "Kamal-e-Ishq Ki Mairaj Youn Nibhate Hain"
+title: "کمالِ عشق کی معراج یوں نبھاتے ہیں"
+alternateTitle: "Kamal-e-Ishq Ki Mairaj Youn Nibhate Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Zaidi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kamal-e-ishq ki mairaj youn nibhate hain
+  Hussain zeen se soye zameen aate hain
+
+  1
+  Tarap rahi hai zameen behar-o-bar pe larza hai
+  Kul anbiya ke labon par saday-e-giriay hai
+  Malaika sar-e-iflak khak orate hain
+  Bas ab qareeb hai wo waqt sham hoti hai
+
+  2
+  Hai kuch dair teri zehmat tamam hoti hai
+  Yeh rahwar ke kano mein kehte jate hain
+  Nazar utha ke jo maqtal ko dekhte hain Imam
+  Kahan wo halqa-e-ahbab our kahan yeh muqam
+
+  3
+  The kaise kaise dilawar jo yad aate hain
+  Qareeb-e-khaima behan dekhti hai thame jigar
+  Hussain pe jo baraste hai teer aur tabar
+  Laeen oss ke kalejay pe hashar dhate hain
+
+  4
+  Hazar teer hain seene mein ja ba-ja paiwast
+  Aday-e-sajda-e-aakhir mein hai bani diqat
+  Badan mein apne hi teeron ko sheh dhansate hain
+  Hai kis shaqi mein yeh himat rizay-e-sheh ke bina
+
+  5
+  Ali ke lal ke sar kare badan se juda
+  Magar wo jurat-e-qatil ko aazmate hain
+  Hai bandagi ko bhi hairat ye dekh ke manzar
+  Udhar jo Shimar chalata hai taig gardan par
+
+  6
+  Idhar yeh shukar-e-Khudawand lab pe late hain
+  Gawah hai Nahiya ke Zaidi haye wo jumle
+  Imam-e-Asar tarapte hain shah ke gham mein
+  Ye waqt soch ke wo ashk-e-khoon bahate hain
 ---
 
-Kamal-e-Ishq Ki Mairaj Youn Nibhate Hain.
-Hussain Zeen Se Soye Zameen Aate Hain.
+کمالِ عشق کی معراج یوں نبھاتے ہیں
+حسین زین سے سوئے زمین آتے ہیں
 
-1
-Tarap Rahi Hai Zameen Behar-o-Bar Pe Larza Hai.
-Kul Anbiya Ke Labon Par Saday-e-Giriay Hai.
-Malaika Sar-e-Iflak Khak Orate Hain.
-Bas Ab Qareeb Hai Wo Waqt Sham Hoti Hai.
+۱
+تڑپ رہی ہے زمین بحر و بر پہ لرزہ ہے
+کل انبیا کے لبوں پر صدائے گریہ ہے
+ملائکہ سرِ افلاک خاک اڑاتے ہیں
+بس اب قریب ہے وہ وقت شام ہوتی ہے
 
-2
-Hai Kuch Dair Teri Zehmat Tamam Hoti Hai.
-Yeh Rahwar Ke Kano Mein Kehte Jate Hain.
-Nazar Utha Ke Jo Maqtal Ko Dekhte Hain Imam.
-Kahan Wo Halqa-e-Ahbab Our Kahan Yeh Muqam.
+۲
+ہے کچھ دیر تری زحمت تمام ہوتی ہے
+یہ رہوار کے کانوں میں کہتے جاتے ہیں
+نظر اٹھا کے جو مقتل کو دیکھتے ہیں امام
+کہاں وہ حلقۂ احباب اور کہاں یہ مقام
 
-3
-The Kaise Kaise Dilawar Jo Yad Aate Hain.
-Qareeb-e-Khaima Behan Dekhti Hai Thame Jigar.
-Hussain Pe Jo Baraste Hai Teer Aur Tabar.
-Laeen Oss Ke Kalejay Pe Hashar Dhate Hain.
+۳
+تھے کیسے کیسے دلاور جو یاد آتے ہیں
+قریبِ خیمہ بہن دیکھتی ہے تھامے جگر
+حسین پہ جو برستے ہیں تیر اور تبر
+لعیں اس کے کلیجے پہ حشر ڈھاتے ہیں
 
-4
-Hazar Teer Hain Seene Mein Ja Ba-Ja Paiwast.
-Aday-e-Sajda-e-Aakhir Mein Hai Bani Diqat.
-Badan Mein Apne Hi Teeron Ko Sheh Dhansate Hain.
-Hai Kis Shaqi Mein Yeh Himat Rizay-e-Sheh Ke Bina.
+۴
+ہزار تیر ہیں سینے میں جا بہ جا پیوست
+ادائے سجدۂ آخر میں ہے بنی دقت
+بدن میں اپنے ہی تیروں کو شہ دھنساتے ہیں
+ہے کس شقی میں یہ ہمت رضائے شہ کے بنا
 
-5
-Ali Ke Lal Ke Sar Kare Badan Se Juda.
-Magar WO Jurat-e-Qatil Ko Aazmate Hain.
-Hai Bandagi Ko Bhi Hairat Ye Dekh Ke Manzar.
-Udhar Jo Shimar Chalata Hai Taig Gardan Par.
+۵
+علی کے لال کے سر کرے بدن سے جدا
+مگر وہ جرأتِ قاتل کو آزماتے ہیں
+ہے بندگی کو بھی حیرت یہ دیکھ کے منظر
+اُدھر جو شمر چلاتا ہے تیغ گردن پر
 
-6
-Idhar Yeh Shukar-e-Khudawand Lab Pe Late Hain.
-Gawah Hai Nahiya Ke Zaidi Haye Wo Jumle.
-Imam-e-Asar Tarapte Hain Shah Ke Gham Mein.
-Ye Waqt soch Ke Wo Ashk-e-Khoon Bahate Hain.
+۶
+اِدھر یہ شکرِ خداوند لب پہ لاتے ہیں
+گواہ ہے ناحیہ کے زیدی ہائے وہ جملے
+امامِ عصر تڑپتے ہیں شاہ کے غم میں
+یہ وقت سوچ کے وہ اشکِ خوں بہاتے ہیں

@@ -1,6 +1,6 @@
 ---
 title: "روکر یہ بیان کرتی تھی زنداں میں سکینہ"
-alternateTitle: "Zindaṅ May Sakina"
+alternateTitle: "Zindaaṅ Mein Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rokar ye bayan karti thi zindaṅ may sakina
-  Kab hoke reha qaid se jaungi madina
-  Sab kat gaya maidan may baba ka wo lashkar
-  Abbas chacha hai na qasim hai na akbar
+  Rokar ye bayaan karti thi zindaaṅ mein Sakina
+  Kab hoke riha qaid se jaauṅ gi Madina
+  Sab kat gaya maidaan mein baaba ka wo lashkar
+  Abbaas chaacha hai na Qaasim hai na Akbar
 
   2
-  Roti thi bain karti thi mazlum sakina
-  Na aun o mohamed hai na bhai mera asghar
-  Abid se bain karti thi rokar ye sakina
-  Ur kar kahaṅ jaate hai sare sham parinde
+  Roti thi bain karti thi mazlum Sakina
+  Na Aun o Muhammad hai na bhaai mera Asghar
+  Aabid se bain karti thi rokar ye Sakina
+  Ur kar kahaaṅ jaate haiṅ saare Shaam parinde
 
   3
-  Zainab se sakina ne kaha aah ye bhar ke
+  Zainab se Sakina ne kaha aah ye bhar ke
   Rone lagi ye sunte hi bardaasht hui na
-  Ghar jaate hai wapas kaha zainab ne ye rokar
-  Sunte hi ye kehne lagi shabbir ki dukhtar
+  Ghar jaate haiṅ waapas kaha Zainab ne ye rokar
+  Sunte hi ye kehne lagi Shabbir ki dukhtar
 
   4
-  Kab jaungi is qaid se chutkar mai madina
-  Tahir hui khamosh bayaṅ baba se karke
-  Zindaṅ se reha to hui lekin hui mar ke
-  Karbal se wo zindan tak so bhi saki na
+  Kab jaauṅ gi is qaid se chhut kar main Madina
+  Taahir hui khaamosh bayaaṅ baaba se karke
+  Zindaaṅ se riha to hui lekin hui mar ke
+  Karbal se wo zindaan tak so bhi saki na
 ---
 
 ۱

@@ -9,46 +9,31 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Husain, ya Husain
-  Zehra diya jayyan ayyan wich bazaaran
+  Zehra diyaaṅ jaaiyaaṅ, aaiyaaṅ wich baazaaraaṅ
 
   1
-  Haay kiun, ayya wich bazaaran
-  Ho kiun no no,
-  Ho kiun no no meel turaiyyan
+  Ho kiuṅ nau nau
+  Ho kiuṅ nau nau mil turaaiyaaṅ
 
   2
-  Haay kiun, ayya wich bazaaran
-  1) No milandhi manzal rehgayi
-  Zehra jayi uth to leh gayi
-  Ro payya rat puttar de akhiyan
-  Bibi thak ke khak te behgayi
-  Kiwain toreyaan
-  Kiwain toreyaan haan sipaiyyaan
-  2) Jerre qatil wajhullah de
-  Daawe daar si hazbonnah de
-  Haay Batool de ghar nu luteyaa
-  Beythe hai bazar saja ke
-  Rul gayyan,
-  Haan rul gayyan dard sataiyyaan
-  3) Jena di chadar sadke bachiyaa
-  Sajda kalma deen-e-khuda da
-  Saare ehsaan bhul gaye duniyaa
-  Kiwain badla paaya wafa da
-  Unna shaane
-  Haan una shaane rasiyya payyan
-  4) Wich sine de dard bhira da
-  Rondhi rondhi kardi nawha
-  Bhen Abbas di bazaaran wich
-  Pardi ray haye nawhar dada
-  Haaye rul gaye
-  O Haaye rul gaye Zehra jaiyyan
-  5) Choon saalaan da sin hai loko
-  Saen Rabaab di bachri da
-  Ghin Sayyed zindaan wich aaya
-  Laasha qaiden wakhri da
-  O pe gayaan
-  Haan o pe gayyan haal duhaiyyan
+  Nau milaaṅ di manzil reh gayi
+  Zehra jaai unth toṅ leh gayi
+  Ro paiyaaṅ ratt puttar di akkhiyaaṅ
+  Bibi thak ke khaak te beh gayi
+  Kiweṅ toriyaa
+  Ho kiweṅ toriyaa haan sipaahiyaaṅ
+  Jire qaatil wajhullah de
+  Daawe daar si hasbuna de
+  Haaye Batool de ghar nuṅ luttiyaa
+  Baithe hai baazaar saja ke
+  Rul gaiyaaṅ
+  Haaṅ rul gaiyaaṅ, dard sataaiyaaṅ
+  Jinaaṅ di chaadar sadqe bachiyaa
+  Sajda, kalma, din Khuda da
+  Saare ehsaaṅ bhul gayi duniyaa
+  Kiweṅ badla paayaa wafaa da
+  Unaaṅ shaane
+  Haaṅ unaaṅ shaane rassiyaaṅ paaiyaaṅ
 ---
 
 زہراؑ دیاں جائیاں، آئیاں وچ بازاراں

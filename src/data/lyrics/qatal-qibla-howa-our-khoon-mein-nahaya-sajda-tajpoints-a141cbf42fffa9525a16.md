@@ -1,38 +1,66 @@
 ---
-title: "Qatal Qibla Howa Our Khoon Mein Nahaya Sajda"
+title: "قتل قبلہ ہوا اور خون میں نہایا سجدہ"
+alternateTitle: "Qatal Qibla Howa Our Khoon Mein Nahaya Sajda"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Naveed"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qatal qibla howa our khoon mein nahaya sajda
+  Haye roye gi namaz apne namazi ko sada
+
+  1
+  Na raha wo jise parhti thi musalle pe namaz
+  Ab patakta hai musalle pe sar apna sajda
+
+  2
+  Kya seher ho gayi zarbat ki ghari aa pohanchi
+  Kyun therti nahi haye sar-e-Zainab pe rida
+
+  3
+  Juz Muhammad kise maloom Muhammad ki qasam
+  Teri tanhai pe tanhai mein rota hai Khuda
+
+  4
+  Sorah-e-Fatah ki aankhon se tapakta tha laho
+  Haye jis waqt keh galiyon mein tujhe khaincha giya
+
+  5
+  Teri mazlomi pe jab rota hai tera hi jalal
+  Arsh-o-kursi se hai atti tere giriye ki sada
+
+  6
+  Kamyabi se iradon ki Ali ko jana
+  Aye Naveed aap ka kasa kabhi khali na raha
 ---
 
-Qatal Qibla Howa Our Khoon Mein Nahaya Sajda.
-Haye Roye Gi Namaz Apne Namazi Ko Sada.
+قتل قبلہ ہوا اور خون میں نہایا سجدہ
+ہائے روئے گی نماز اپنے نمازی کو صدا
 
-1
-Na Raha Wo Jise Parhti Thi Musalle Pe Namaz.
-Ab Patakta Hai Musalle Pe Sar Apna Sajda.
+۱
+نہ رہا وہ جسے پڑھتی تھی مصلے پہ نماز
+اب پٹکتا ہے مصلے پہ سر اپنا سجدہ
 
-2
-Kya Seher Ho Gayi Zarbat Ki Ghari Aa Pohanchi.
-Kyun Therti Nahi Haye Sar-e-Zainab Pe Rida.
+۲
+کیا سحر ہو گئی ضربت کی گھڑی آ پہنچی
+کیوں ٹھہرتی نہیں ہائے سرِ زینب پہ ردا
 
-3
-Juz Muhammad Kise Maloom Muhammad Ki Qasam.
-Teri Tanhai Pe Tanhai Mein Rota Hai Khuda.
+۳
+جز محمد کسے معلوم محمد کی قسم
+تیری تنہائی پہ تنہائی میں روتا ہے خدا
 
-4
-Sorah-e-Fatah Ki Aankhon Se Tapakta Tha Laho.
-Haye Jis Waqt Keh Galiyon Mein Tujhe Khaincha Giya.
+۴
+سورۂ فتح کی آنکھوں سے ٹپکتا تھا لہو
+ہائے جس وقت کہ گلیوں میں تجھے کھینچا گیا
 
-5
-Teri Mazlomi Pe Jab Rota Hai Tera Hi Jalal.
-Arsh-o-Kursi Se Hai Atti Tere Giriye Ki Sada.
+۵
+تیری مظلومی پہ جب روتا ہے تیرا ہی جلال
+عرش و کرسی سے ہے آتی تیرے گریے کی صدا
 
-6
-Kamyabi Se Iradon Ki Ali Ko Jana.
-Aye Naveed Aap Ka Kasa Kabhi Khali Na Raha.
+۶
+کامیابی سے ارادوں کی علی کو جانا
+اے نوید آپ کا کاسہ کبھی خالی نہ رہا

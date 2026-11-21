@@ -1,38 +1,66 @@
 ---
-title: "Zulm Sehti Hai Woh Baba Ke Gham Mein Rone Par"
+title: "ظلم سہتی ہے وہ بابا کے غم میں رونے پر"
+alternateTitle: "Zulm Sehti Hai Woh Baba Ke Gham Mein Rone Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qasim"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zulm sehti hai woh baba ke gham mein rone par
+  Shimar se khaye tamachay hain buka karne par
+
+  1
+  Apne haq par bhi nahi roi hain itna Zahra
+  Jitna roi hain Sakina ke gohar chinne par
+  Itna dekha hai laho iss ne sar-e-Dasht-e-Bala
+  Ab woh ghabrati nahi kan se khoon behne par
+
+  2
+  Sar-e-Shabir giraya gaya naizay se kahan?
+  Hai gira bali Sakina yeh tere girne par
+  Meri gardan se yeh rasi tu utaro Abid
+  Ab gala dukhne laga sans talak lene par
+
+  3
+  Hum they paband-e-rasan our tamashai wahan
+  Sang bari hoi bazar se guzarne par
+  Qaid khane se musalsal yeh siskiyaan sun kar
+  Maut ghabrai yateema ke youn tarapne par
+
+  4
+  Darmiyaan lashoon ke Zainab ne yeh manzar dekha
+  Aik bachi hai rakhe sar ko katay seene par
+  Phir na Qasim sar-e-zindan-e-sitam woh bolin
+  Aise khamosh hoin baap ka sar milne par
 ---
 
-Zulm Sehti Hai Woh Baba Ke Gham Mein Rone Par.
-Shimar Se Khaye Tamachay Hain Buka Karne Par.
+ظلم سہتی ہے وہ بابا کے غم میں رونے پر
+شمر سے کھائے طمانچے ہیں بکا کرنے پر
 
-1
-Apne Haq Par Bhi Nahi Roi Hain Itna Zahra.
-Jitna Roi Hain Sakina Ke Gohar Chinne Par.
-Itna Dekha Hai Laho Iss Ne Sar-e-Dasht-e-Bala.
-Ab Woh Ghabrati Nahi Kan Se Khoon Behne Par.
+۱
+اپنے حق پر بھی نہیں روئی ہیں اتنا زہرا
+جتنا روئی ہیں سکینہ کے گوہر چھننے پر
+اتنا دیکھا ہے لہو اس نے سرِ دشتِ بلا
+اب وہ گھبراتی نہیں کان سے خون بہنے پر
 
-2
-Sar-e-Shabir Giraya Gaya Naizay Se Kahan?
-Hai Gira Bali Sakina Yeh Tere Girne Par.
-Meri Gardan Se Yeh Rasi Tu Utaro Abid.
-Ab Gala Dukhne Laga Sans Talak Lene Par.
+۲
+سرِ شبیر گرایا گیا نیزے سے کہاں؟
+ہے گرا بالی سکینہ یہ تیرے گرنے پر
+میری گردن سے یہ رسی تو اتارو عابد
+اب گلا دکھنے لگا سانس تلک لینے پر
 
-3
-Hum They Paband-e-Rasan Our Tamashai Wahan.
-Sang Bari Hoi Bazar Se Guzarne Par.
-Qaid Khane Se Musalsal Yeh Siskiyaan Sun Kar.
-Maut Ghabrai Yateema Ke Youn Tarapne Par.
+۳
+ہم تھے پابندِ رسن اور تماشائی وہاں
+سنگ باری ہوئی بازار سے گزرنے پر
+قید خانے سے مسلسل یہ سسکیاں سن کر
+موت گھبرائی یتیمہ کے یوں تڑپنے پر
 
-4
-Darmiyaan Lashoon Ke Zainab Ne Yeh Manzar Dekha.
-Aik Bachi Hai Rakhe Sar Ko Katay Seene Par.
-Phir Na Qasim Sar-e-Zindan-e-Sitam Woh Bolin.
-Aise Khamosh Hoin Baap Ka Sar Milne Par.
+۴
+درمیاں لاشوں کے زینب نے یہ منظر دیکھا
+ایک بچی ہے رکھے سر کو کٹے سینے پر
+پھر نہ قاسم سرِ زندانِ ستم وہ بولیں
+ایسے خاموش ہوئیں باپ کا سر ملنے پر

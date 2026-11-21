@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Syed zaada syed e sajjad shaam ka bazaar
+  Syed zaada Syed-e-Sajjad Shaam ka bazaar
   Sar barehna dekh ke maaoṅ ko khun rota raha
-  Qatl abid shaam ke har mor pe hota raha
-  Berida binte payambar kaise guzri shaam se
+  Qatl Aabid Shaam ke har mor pe hota raha
+  Berida bint-e-Payambar kaise guzri Shaam se
   Baaghi baaghi ki sada kiuṅ aayi balwe aam se
-  Hurmate din berida thi shaam kiuṅ sota raha
-  Qatl abid shaam ke...
-  Gurbate sajjad pe roti thi keh ke beriyaṅ
-  Syed e sajjad ki ghairat karuṅ kaise bayaṅ
-  Sar jhukaye shaam ke bazaar meiṅ rota raha
-  Qatl abid shaam ke...
-  Qaatil e akbar ko laila dekh kar kehne lagi
-  Kya bigada tha mere dilbar ne tera ae shaqi
-  Maajra ye dekh ke ashkoṅ se moo dhota raha
-  Qatl abid shaam ke...
-  Shaam ka bazaar dekha abid e bemaar ne
-  Ki dua allah se ye khafila saalar ne
-  Ye khula saydaniyo ka sar chupa de kibriya
+  Hurmat-e-din berida thi Shaam kiuṅ sota raha
+  Qatl Aabid Shaam ke...
+  Ghurbat-e-Sajjad pe roti thi keh ke beriyaaṅ
+  Syed-e-Sajjad ki ghairat karuṅ kaise bayaaṅ
+  Sar jhukaaye Shaam ke bazaar meiṅ rota raha
+  Qatl Aabid Shaam ke...
+  Qaatil-e-Akbar ko Laila dekh kar kehne lagi
+  Kya berida tha mere dilbar ne tera ae shaqi
+  Maajra ye dekh ke ashkoṅ se munh dhota raha
+  Qatl Aabid Shaam ke...
+  Shaam ka bazaar dekha Aabid-e-bimaar ne
+  Ki dua Allah se ye qaafila saalaar ne
+  Ye khula Saydaaniyoṅ ka sar chhupa de Kibriya
   Warna likh rakhi hai meri maut is bazaar ne
-  Shaam ka bazaar hai aur bekas o lachaar hai
-  Zulm karne ko tamashayi sabhi tayyar hai
-  Har tamashayi khara insaniyat khota raha
-  Qatl abid shaam ke...
-  Maadar e asghar chali hai raahoṅ meiṅ gathri liye
-  Lakriyaṅ jhule ki us meiṅ aur dil e zakhmi liye
-  Bekasi ye dekh ke sajjad khun rota raha
-  Qatl abid shaam ke...
-  Raah meiṅ gir gir ke bacche naaqoṅ se marte rahe
-  Aale imraṅ pe sitamgar bas sitam karte rahe
-  Gham wo saare karbala se shaam tak ddhota raha
-  Qatl abid shaam ke...
-  Haye hyder abid e bimar gash khaane lage
-  Us ghari rehan wo darbar meiṅ jaane lage
-  Ye mazalim karbala waaloṅ pe bas hota raha
-  Qatl abid shaam ke...
+  Shaam ka bazaar hai aur bekas o laachaar hai
+  Zulm karne ko tamaashaayi sabhi tayyaar haiṅ
+  Har tamaashaayi khara insaaniyat khota raha
+  Qatl Aabid Shaam ke...
+  Maadar-e-Asghar chali hai raahoṅ meiṅ ghathri liye
+  Lakriyaaṅ jhule ki us meiṅ aur dil-e-zakhmi liye
+  Bekasi ye dekh ke Sajjad khun rota raha
+  Qatl Aabid Shaam ke...
+  Raah meiṅ gir gir ke bachche naaqoṅ se marte rahe
+  Aal-e-Imraaṅ pe sitamgar bas sitam karte rahe
+  Gham wo saare Karbala se Shaam tak dhota raha
+  Qatl Aabid Shaam ke...
+  Haaye Haider Aabid-e-bimaar ghash khaane lage
+  Us ghari Rehan wo darbaar meiṅ jaane lage
+  Ye mazaalim Karbala waaloṅ pe bas hota raha
+  Qatl Aabid Shaam ke...
 ---
 
 ۱

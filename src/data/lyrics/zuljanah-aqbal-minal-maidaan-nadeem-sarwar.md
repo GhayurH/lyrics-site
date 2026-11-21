@@ -9,104 +9,60 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Zuljanah Aqbal Minal Maidaan Nadeem Sarwar"
-romanLyrics: 'Zuljanah Aqbal Minal Maidaan Nadeem Sarwar.
-
+romanLyrics: |-
+  Zuljanah aa qabal minal maidaaṅ
 
   1
-
-  Zuljinah Aa Qabal Minal Maidan Khali Wawela.
-
-  Aye Wa Ghareeb Aaye Wa Hussaina.
-
-  Aye Wa Shaheed Aaye Wa Hussaina.
-
-  Aye Wa Mazloom Aaye Wa Hussaina.
-
-  Shoor Howa Lo Khali Aaya.
-
-  Chor Ke Zainab Ka Maa Jaya.
-
+  Khaali waawela haae wa Husaina
+  Ae wa gharib haae wa Husaina
+  Ae wa shahid haae wa Husaina
+  Ae wa mazlum haae wa Husaina
+  Shor hua lo khaali aaya
+  Chhor ke Zainab ka maan jaaya
+  Baageṅ katiṅ haiṅ khuṅ mein nahaaya
+  Zainab ne dukhra ye sunaaya
 
   2
-
-  Bagein Kati Hain Khoon Mein Nahaya.
-
-  Zainab Ne Dukhra Yeh Sunaya.
-
-  Khon Mein Tar Rehwar Ko Dekha.
-
-  Roi Tarap Kar Bali Sakina.
-
-  Boli Kahan Hain Mere Baba.
-
-  Cheen Liya Kyun Mera Sahara.
-
+  Khun mein tar rahwaar ko dekha
+  Roi tarap kar baali Sakina
+  Boli kahaaṅ hai mere baaba
+  Chhin liya kiuṅ mera sahaara
 
   3
-
-  Zuljanah aqbal minal maydan, khali wawayla haye wa Hussaina
-
-  Ay wa gharib. Haye wa Hussaina
-
+  Main tere sadqe main tere waari
+  Tu mere baaba ke hai sawaari
+  Tere badan se khun hai jaari
+  Zakhm lage haiṅ jism pe kaari
 
   4
-
-  Main Tere Sadqay Mein Tere Wari.
-
-  Tu Mere Baba Ki Hai Sawari.
-
-  Tere Badan Se Khon Hai Jari.
-
-  Zakhm Lagay Hain Jism Pe Kari.
-
-  Baat Na Mani Tu Ne Meri.
-
-  Roi Bohat Qadmo Se Lipati.
-
+  Baat na maani tu ne meri
+  Roi bahut qadmoṅ se lipti
+  Boli kahaaṅ hai mere baaba
+  Chhin liya kiuṅ mera sahaara
 
   5
-
-  Boli Kahan Hain Mere Baba.
-
-  Cheen Liya Kyun Mera Sahara.
-
-  Chor Diya Kyun Ran Mein Akela.
-
-  Choor Ghamo Se Tha Mera Baba.
-
-  Jis Ne Uthaya Lashay Pe Lasha.
-
-  Tanha Kyun Maqtal Se Aaya.
-
+  Chhor diya kiuṅ ran mein akela
+  Chur ghamoṅ se tha mera baaba
+  Jis ne uthaaya laashe pe laasha
+  Tanha kiuṅ maqtal se aaya
 
   6
-
-  Zainab Ke Lab Par Yeh Fogaan Thi.
-
-  Seh Na Sakoon Gi Sheh Ki Judai.
-
-  Tu Ne Kyun Gardan Hai Jhukai.
-
-  Reh Gaya Kyun Maqtal Mein Bhai.
-
-  Bano Pukari Phaink Ke Chadar.
-
-  Lut Gayi Main Barbad Howa Ghar.
-
+  Zainab ke lab par ye faghaaṅ thi
+  Seh na sakuṅ gi shah ki judaai
+  Tu ne kiuṅ gardan hai jhukaai
+  Reh gaya kiuṅ maqtal mein bhaai
 
   7
+  Baano pukaari phenk ke chaadar
+  Lut gai main barbaad hua ghar
+  Ran se na aae sibt-e-Payambar
+  Chalte haiṅ mere qalb pe khanjar
 
-  Ran Se Na Aaye Sibt-e-Payamber.
-
-  Chalte Hain Mere Qalb Pe Khanjar.
-
-  Qatal Hoye Shabeer Jo Ran Mein.
-
-  Gonji Sada Rehan Yeh Ban Mein.
-
-  Aag Lagi Zahra Ke Chaman Mein.
-
-  Pohanchi Khabar Sughra Ko Watan Mein.'
+  8
+  Qatl hua Shabbir jo ran mein
+  Gunji sada Rehan ye ban mein
+  Aag lagi Zahra ke chaman mein
+  Pahunchi khabar Sughra ko watan mein
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

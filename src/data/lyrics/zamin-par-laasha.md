@@ -12,8 +12,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zamiṅ par laasha-e-Sarwar para hai
-  Sar-e-mazlum naize par charha hai
+  Zamiṅ par laasha-e-Sarwar paraa hai
+  Sar-e-mazlum naize par charhaa hai
 
   1
   Ali ka laal Ahmad ka nawaasa
@@ -22,18 +22,18 @@ romanLyrics: |-
 
   2
   Zamiṅ jalti hai aur zakhmi badan hai
-  Pisar Zehra ka ran meiṅ bekafan hai
+  Pisar Zehra ka ran mein bekafan hai
   Hai beta qaid Zainab berida hai
 
   3
-  Idhar sajde meiṅ Aabid ki jabiṅ hai
-  Falak larzaaṅ hai sakte meiṅ zamiṅ hai
-  Gale meiṅ tauq hai shukr-e-Khuda hai
+  Idhar sajde mein Aabid ki jabiṅ hai
+  Falak larzaaṅ hai sakte mein zamiṅ hai
+  Gale mein tauq hai shukr-e-Khuda hai
 
   4
   Jale khaime hai aur bekas haram hai
-  Musibat aur aada ke sitam hai
-  Nabi ke ghar ko luta jaa raha hai
+  Musibat aur aadaa ke sitam hai
+  Nabi ke ghar ko lutaa jaa raha hai
 
   5
   Rasan basta hai idhar pyaasi Sakina
@@ -53,17 +53,17 @@ romanLyrics: |-
   8
   Ulat do ya Ali ab is zamiṅ ko
   Aziyat ho na mere naazniṅ ko
-  Sar-e-maqtal pe Zehra ki buka hai
+  Sar-e-maqtal pe Zehra ki bukaa hai
 
   9
-  Fazaaeṅ ro rahi hai bebasi par
+  Fazaaeṅ ro rahi hai bebasi hai
   Haram girya hai apni bekasi par
   Falak aankhoṅ se khuṅ barsa raha hai
 
   10
   Bhula sakte nahiṅ is dard o gham ko
   Tasavvur hai yehi Jaaved hum ko
-  Ye maatam Karbala meiṅ ho raha hai
+  Ye maatam Karbala mein ho raha hai
 ---
 زمیں پر لاشہء سرور پڑا ہے
 سر مظلوم نیزے پر چڑھا ہے

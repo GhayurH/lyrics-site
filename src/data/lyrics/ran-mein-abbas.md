@@ -15,10 +15,10 @@ romanLyrics: |-
   Ghurur-e-fauj-e-sitamgar ko tor sakta huṅ
   Rukh-e-Furaat nigaahoṅ se mor sakta huṅ
   Ali ka beta huṅ mojiz numaaiyoṅ ki qasam
-  Maiṅ aaftaab se paani nichor sakta huṅ
+  Main aaftaab se paani nichor sakta huṅ
 
-  Har taraf phaila hua maut ka darr hai
-  Ran meiṅ Abbas ke aane ki khabar hai
+  Har taraf phaila hua maut ka dar hai
+  Ran mein Abbas ke aane ki khabar hai
 
   1
   Phul khilne lage wafaaoṅ ke
@@ -31,28 +31,28 @@ romanLyrics: |-
   Qaafile barchhiyoṅ ke bhaaloṅ ke
   Zor ghatne lage risaaloṅ ke
   Khauf thamte nahiṅ khayaaloṅ ke
-  Kaaṅpte haiṅ badan jiyaaloṅ ke
-  Sab ki pathrayi nazar hai
+  Kaanpte haiṅ badan jiyaaloṅ ke
+  Sab ki pathraai nazar hai
 
   3
-  Saath hai mashk o alam bhi uske
-  Su-e-darya hai qadam bhi uske
-  Aur pyaase haiṅ haram bhi uske
-  Dil meiṅ hai ranj o alam bhi uske
+  Saath hai mashk o alam bhi us ke
+  Su-e-darya hai qadam bhi us ke
+  Aur pyaase haiṅ haram bhi us ke
+  Dil mein hai ranj o alam bhi us ke
   Sher wo tashna jigar hai
 
   4
-  Bole Abbas ke bas kufr na bak
+  Bole Abbas keh bas kufr na bak
   La fata hum ko pukaare haiṅ malak
   Hamza Jafar se jawaanoṅ ki dhamak
   Badr ki waadiyoṅ se aaj talak
   Mere shajre ka asar hai
 
   5
-  Uske baazu meiṅ hai zor-e-Haidar
-  Baap hai uska faatih-e-Khaibar
+  Us ke baazu mein hai zor-e-Haidar
+  Baap hai us ka faatih-e-Khaibar
   Yaad hai sab ko Marhab o Antar
-  Raah rokega kaun ab jaa kar
+  Raah roke ga kaun ab jaa kar
   Ye bhala kis ka jigar hai
 
   6
@@ -63,17 +63,17 @@ romanLyrics: |-
   Pisar-e-Saad kidhar hai
 
   7
-  Kis meiṅ kitna hunar hai dikhla do
-  Maiṅ akela huṅ aur tum laakhoṅ
+  Kis mein kitna hunar hai dikhla do
+  Main akela huṅ aur tum laakhoṅ
   Tum bahaadur ho aaj mat bhaago
-  Rok kar aaj mujhko dikhla do
+  Rok kar aaj mujh ko dikhla do
   Dekh lo kaun zabar hai
 
   8
-  Hai Nasim aisa nazaara uska
-  Uska darya hai kinaara uska
-  Haaṅ ghazab ek ishaara uska
-  Shaadmaaṅ ko hai sahaara uska
+  Hai Nasim aisa nazaara us ka
+  Us ka darya hai kinaara us ka
+  Haaṅ ghazab ek ishaara us ka
+  Shaadmaaṅ ko hai sahaara us ka
   Wo jo Haidar ka pisar hai
 ---
 غرور فوج ستمگر کو توڑ سکتا ہوں

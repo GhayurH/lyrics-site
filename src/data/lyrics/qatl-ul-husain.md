@@ -12,11 +12,11 @@ tags: []
 aliases: ["Qatl Ul Hussain"]
 published: true
 romanLyrics: |-
-  Qutl al Husain o bekarbala
+  Qatl ul Husain o bekarbala
 
   1
   Chala Karbala se jo qaafila
-  Hua jab nazara tha hashr ka
+  Hua jab nazraana tha hashr ka
   Kahiṅ sar kate kahiṅ ghar luta
   Khule sar ye kehti thi Fatema
 
@@ -41,26 +41,26 @@ romanLyrics: |-
   5
   Kahiṅ Jibrail the sar niguṅ
   Kahiṅ ahl-e-arsh the besukuṅ
-  Maiṅ bayaaṅ ye kaise ye gham karuṅ
+  Main bayaaṅ ye kaise ye gham karuṅ
   Mere saath rote haiṅ ambiya
 
   6
   Yehi kehta phirta tha har shaqi
   Chhuri halq-e-Shaah pe chal gayi
-  Na ho lutne merin zara kami
+  Na ho lutne meri zara kami
   Yahaaṅ maal o zar ki kami hai kya
 
   7
-  Thi Janaab-e-Sughra ba chashm-e-tar
+  Tha Janaab-e-Sughra ba chashm-e-tar
   Na mili thi baba ki kuch khabar
   Hua jab rawaana su-e-safar
   To Bashir kehta hua chala
 
   8
   Meri aaṅkh roti hai Aarzu
-  Inhi aaṅsuoṅ se huṅ surkh ru
+  Inheṅ aaṅsuoṅ se huṅ surkh ru
   Mujhe Karbala ki hai justuju
-  Jahaaṅ maiṅ parhuṅ yehi marsiya
+  Jahaaṅ main parhuṅ yehi marsiya
 ---
 
 قتل الحسین و بے کربلا

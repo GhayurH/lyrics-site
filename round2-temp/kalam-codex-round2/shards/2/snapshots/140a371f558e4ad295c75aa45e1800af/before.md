@@ -1,0 +1,28 @@
+---
+title: "Rahwaan De Wich Sain Ruqaiya Roway Te Kurlaway Lyrics In Punjabi 2023"
+language: "Panjabi"
+lang: "pa"
+direction: "ltr"
+kalamType: "Other"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Rahwaan De Wich Sain Ruqaiya Roway Te Kurlaway.
+Ya Rab Saiyaan Koi Putraan Di Khair Di Khabar Sunaway.
+Putraan Baaj Na Jewan Mawaan Main Aj Kiwein Eid Manawaan.
+Dard Wichora Main Ujari De Seene Wich Ag Laway.
+
+2
+Khab De Wich Darya De Kinaray Ronday Wekhay Lal Pyaray.
+Zulfaan Hath Zalim De Kasiyan Kehra Aan Choraway.
+Tere Roab Tu Ghazi Dar Ke Pakhro V Parwaz Nayi Karday.
+Kar Ahsan Te Putar Mila De Ro Ro Tarlay Paway.
+
+3
+Galiyaan De Wich Ronday Hosan Ik Dojay Nu Kenday Hosan.
+Kehra Dardi Veer Aj Sanu Ambari Naal Milaway.
+Na Ro Bhain Aye Aakhay Ghazi Main Jawaan Shabeer Nayi Razi.
+Na Azma Aj Veer Apne Nu Roway Te Samjhaway.

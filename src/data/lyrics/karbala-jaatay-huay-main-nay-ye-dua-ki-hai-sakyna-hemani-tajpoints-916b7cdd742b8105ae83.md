@@ -1,74 +1,138 @@
 ---
-title: "Karbala Jaatay Huay Main Nay Ye Dua Ki Hai Sakyna Hemani"
+title: "کربلا جاتے ہوئے میں نے یہ دعا کی ہے سکینہ ہیمانی"
+alternateTitle: "Karbala Jaatay Huay Main Nay Ye Dua Ki Hai Sakyna Hemani"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Dua"
 poet: "Sakyna"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karbala jaatay huay main nay ye dua ki hai Sakyna Hemani
+  Pori hasrat ho mere dil mein jo azza ki hai
+
+  1
+  Karbala ka yeh safar hashar talak khatam na ho
+  Har qadam barhti rahe dil se tarap kam na ho
+  Shah ke gham ke siwa aankh meri nam na ho
+  Karbala jate hoye main ne yeh dua ki hai
+
+  2
+  Noha parhtay hain jo ghaibat mein sunaein mujh ko
+  Kaisay Shabeer ko rona hai bataein mujh ko
+  Youn maqam apne pe khud Mehdi le jaein mujh ko
+  Karbala jate hoye main ne yeh dua ki hai
+
+  3
+  Dil mera sheh di qatal ga de naal lipat jaway
+  Ja ke Akbar di qatal ga na jigar phat jaway
+  Gala Asghar di qatal ga che mera kat jaway
+  Karbala jandiyaan main ayho e dua keeti
+
+  4
+  Karbala pohanch ke ik main ne yeh manzar dekha
+  Har koi dar pe hai Shabeer ke sajdah karta
+  Sab ke sajdoon ka mohafiz rahe sheh ka sajdah
+  Karbala rehtey hoye main ne yeh dua ki hai
+
+  5
+  Qatal ga sheh ki kabhi dekhi kabhi khaima ga
+  Peeta be sakhta sar aa gayi yaad aik rida
+  Al-Ajal muntaqim-e-khon-e-sheh-e-Karb-o-Bala
+  Karbala rehtey hoye main ne yeh dua ki hai
+
+  6
+  Kaf-e-Abbas pe main kohniyo ke bal jo gaya
+  Darya ik ashkon ka aankhon se meri behney laga
+  Koi mazloom na ho qatal kahin youn pyasa
+  Karbala rehtey hoye main ne yeh dua ki hai
+
+  7
+  Jiwein Sughra nu gaye mar bhira de sadmay
+  Sughra wangoon na koi veer de ainj rah wekhay
+  Sadqa Akbar da rehwan bhainraan de bhira jiyonday
+  Karbala rehndiyaan main ayho e dua keeti
+
+  8
+  Karbala se jo hoi ghar ki taraf teyari
+  Keh ke yeh shukar ke aanso hoye oss dam jari
+  Maqsad-e-sheh bhi rahe yaad our azadari
+  Karbala se yehi aate hoye dua ki hai
+
+  9
+  Mujh gunahgar ka ab aisa ho kirdar kahin
+  Hoon amal aisay keh sab dekh ke zawwar kahin
+  Utho Shabeer ka aata hai azadar kahin
+  Karbala rehtey hoye main ne yeh dua ki hai
+
+  10
+  Hai Sakyna-o-Asad bali Sakina ki qasam
+  Gham mein Shabeer ke hum jitna bhi roein hai woh kam
+  Aisay matam karein keh nikley hamara wahin dam
+  Karbala se yehi aate hoye dua ki hai
 ---
 
-Karbala Jaatay Huay Main Nay Ye Dua Ki Hai Sakyna Hemani.
-Pori Hasrat Ho Mere Dil Mein Jo Azza Ki Hai.
+کربلا جاتے ہوئے میں نے یہ دعا کی ہے سکینہ ہیمانی
+پوری حسرت ہو میرے دل میں جو عزا کی ہے
 
-1
-Karbala Ka Yeh Safar Hashar Talak Khatam Na Ho.
-Har Qadam Barhti Rahe Dil Se Tarap Kam Na Ho.
-Shah Ke Gham Ke Siwa Aankh Meri Nam Na Ho.
-Karbala Jate Hoye Main Ne Yeh Dua Ki Hai.
+۱
+کربلا کا یہ سفر حشر تلک ختم نہ ہو
+ہر قدم بڑھتی رہے دل سے تڑپ کم نہ ہو
+شہ کے غم کے سوا آنکھ میری نم نہ ہو
+کربلا جاتے ہوئے میں نے یہ دعا کی ہے
 
-2
-Noha Parhtay Hain Jo Ghaibat Mein Sunaein Mujh Ko.
-Kaisay Shabeer Ko Rona Hai Bataein Mujh Ko.
-Youn Maqam Apne Pe Khud Mehdi Le Jaein Mujh Ko.
-Karbala Jate Hoye Main Ne Yeh Dua Ki Hai.
+۲
+نوحہ پڑھتے ہیں جو غیبت میں سنائیں مجھ کو
+کیسے شبیر کو رونا ہے بتائیں مجھ کو
+یوں مقام اپنے پہ خود مہدی لے جائیں مجھ کو
+کربلا جاتے ہوئے میں نے یہ دعا کی ہے
 
-3
-Dil Mera Sheh Di Qatal Ga De Naal Lipat Jaway.
-Ja Ke Akbar Di Qatal Ga Na Jigar Phat Jaway.
-Gala Asghar Di Qatal Ga Che Mera Kat Jaway.
-Karbala Jandiyaan Main Ayho E Dua Keeti.
+۳
+دل میرا شہ دی قتل گاہ دے نال لپٹ جاوے
+جا کے اکبر دی قتل گاہ نا جگر پھٹ جاوے
+گلا اصغر دی قتل گاہ چے میرا کٹ جاوے
+کربلا جاندیاں میں ایہو ای دعا کیتی
 
-4
-Karbala Pohanch Ke Ik Main Ne Yeh Manzar Dekha.
-Har Koi Dar Pe Hai Shabeer Ke Sajdah Karta.
-Sab Ke Sajdoon Ka Mohafiz Rahe Sheh Ka Sajdah.
-Karbala Rehtey Hoye Main Ne Yeh Dua Ki Hai.
+۴
+کربلا پہنچ کے اک میں نے یہ منظر دیکھا
+ہر کوئی در پہ ہے شبیر کے سجدہ کرتا
+سب کے سجدوں کا محافظ رہے شہ کا سجدہ
+کربلا رہتے ہوئے میں نے یہ دعا کی ہے
 
-5
-Qatal Ga Sheh Ki Kabhi Dekhi Kabhi Khaima Ga.
-Peeta Be Sakhta Sar Aa Gayi Yaad Aik Rida.
-Al-Ajal Muntaqim-e-Khon-e-Sheh-e-Karb-o-Bala.
-Karbala Rehtey Hoye Main Ne Yeh Dua Ki Hai.
+۵
+قتل گاہ شہ کی کبھی دیکھی کبھی خیمہ گاہ
+پیٹا بے ساختہ سر آ گئی یاد ایک ردا
+العجل منتقمِ خونِ شہِ کرب و بلا
+کربلا رہتے ہوئے میں نے یہ دعا کی ہے
 
-6
-Kaf-e-Abbas Pe Main Kohniyo Ke Bal Jo Gaya.
-Darya Ik Ashkon Ka Aankhon Se Meri Behney Laga.
-Koi Mazloom Na Ho Qatal Kahin Youn Pyasa.
-Karbala Rehtey Hoye Main Ne Yeh Dua Ki Hai.
+۶
+کفِ عباس پہ میں کہنیوں کے بل جو گیا
+دریا اک اشکوں کا آنکھوں سے میری بہنے لگا
+کوئی مظلوم نہ ہو قتل کہیں یوں پیاسا
+کربلا رہتے ہوئے میں نے یہ دعا کی ہے
 
-7
-Jiwein Sughra Nu Gaye Mar Bhira De Sadmay.
-Sughra Wangoon Na Koi Veer De Ainj Rah Wekhay.
-Sadqa Akbar Da Rehwan Bhainraan De Bhira Jiyonday.
-Karbala Rehndiyaan Main Ayho E Dua Keeti.
+۷
+جیویں صغریٰ نوں گئے مار بھرا دے صدمے
+صغریٰ وانگوں نہ کوئی ویر دے اینج راہ ویکھے
+صدقہ اکبر دا رہواں بھینراں دے بھرا جیوندے
+کربلا رہندیاں میں ایہو ای دعا کیتی
 
-8
-Karbala Se Jo Hoi Ghar Ki Taraf Teyari.
-Keh Ke Yeh Shukar Ke Aanso Hoye Oss Dam Jari.
-Maqsad-e-Sheh Bhi Rahe Yaad Our Azadari.
-Karbala Se Yehi Aate Hoye Dua Ki Hai.
+۸
+کربلا سے جو ہوئی گھر کی طرف تیاری
+کہہ کے یہ شکر کے آنسو ہوئے اس دم جاری
+مقصدِ شہ بھی رہے یاد اور عزاداری
+کربلا سے یہی آتے ہوئے دعا کی ہے
 
-9
-Mujh Gunahgar Ka Ab Aisa Ho Kirdar Kahin.
-Hoon Amal Aisay Keh Sab Dekh Ke Zawwar Kahin.
-Utho Shabeer Ka Aata Hai Azadar Kahin.
-Karbala Rehtey Hoye Main Ne Yeh Dua Ki Hai.
+۹
+مجھ گنہگار کا اب ایسا ہو کردار کہیں
+ہوں عمل ایسے کہ سب دیکھ کے زوار کہیں
+اٹھو شبیر کا آتا ہے عزادار کہیں
+کربلا رہتے ہوئے میں نے یہ دعا کی ہے
 
-10
-Hai Sakyna-o- Asad Bali Sakina Ki Qasam.
-Gham Mein Shabeer Ke Hum Jitna Bhi Roein Hai Woh Kam.
-Aisay Matam Karein Keh Nikley Hamara Wahin Dam.
-Karbala Se Yehi Aate Hoye Dua Ki Hai.
+۱۰
+ہے سکینہ و اسد بالی سکینہ کی قسم
+غم میں شبیر کے ہم جتنا بھی روئیں ہے وہ کم
+ایسے ماتم کریں کہ نکلے ہمارا وہیں دم
+کربلا سے یہی آتے ہوئے دعا کی ہے

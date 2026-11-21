@@ -1,6 +1,6 @@
 ---
 title: "دہم کو کربوبلا میں بپا ہوا محشر"
-alternateTitle: "Zakhmo Se Badan Choor"
+alternateTitle: "Zakhmoṅ Se Badan Chur"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dahum ko karbobala may bapa hua mehshar
-  Shahid hogaye yaṅ saare shaahe jinn o bashar
-  Bureeda laasha e abbas hai tarayi par
-  Akela reh gaya maqtal may sibte payghambar
+  Dahum ko Karbobala mein bapa hua mahshar
+  Shahid ho gaye yaaṅ saare shah-e-jin o bashar
+  Burida laasha-e-Abbas hai taraai par
+  Akela reh gaya maqtal mein sibt-e-payghambar
   Yazidi fauj ka nargha hai aur ghurbat hai
-  Husssain ran may akele hai kya qayamat hai
+  Husain ran mein akele haiṅ kya qayamat hai
   Zakhmoṅ se badan chur hai tanha hi khara hai
-  Shabbir pe ghurbat may ajab waqt para hai
-  Narghe may layino ke nawasa hai nabi ka
-  Kya ajre risalat ka payambar ko mila hai
+  Shabbir pe ghurbat mein ajab waqt para hai
+  Narghe mein lainoṅ ke nawaasa hai Nabi ka
+  Kya ajr-e-risaalat ka payambar ko mila hai
   Zakhmoṅ se badan...
-  Pani ke ewaz tiroṅ ki barsat hui hai
-  Ab chaak gareban payambar ne kiya hai
+  Paani ke iwaz tiroṅ ki barsaat hui hai
+  Ab chaak garebaan payambar ne kiya hai
   Zakhmoṅ se badan...
-  Shabbir ki nusrat ke liye koi nahi hai
-  Kaisa ye sitam aale payambar pe hua hai
+  Shabbir ki nusrat ke liye koi nahiṅ hai
+  Kaisa ye sitam aal-e-payambar pe hua hai
   Zakhmoṅ se badan...
-  Islam ke sine may utar jaati wo barchi
+  Islam ke sine mein utar jaati wo barchhi
   Akbar ne kaleje pe jise rok liya hai
   Zakhmoṅ se badan...
-  Shabbir ki dhaaras hai ye hamshakle payambar
-  Tapte huwe sehra may jo dam tor raha hai
+  Shabbir ki dhaaras hai ye hamshakl-e-payambar
+  Tapte hue sehra mein jo dam tor raha hai
   Zakhmoṅ se badan...
-  Maqtal se alam laaye hai shabbir akele
-  Zainab ko yaqiṅ shaam may jaane ka hua hai
+  Maqtal se alam laaye haiṅ Shabbir akele
+  Zainab ko yaqiṅ Shaam mein jaane ka hua hai
   Zakhmoṅ se badan...
-  Shabbir ka matam hai muhib ruk nahi sakta
-  Zainab k aye armaan hai zehra ki dua hai
+  Shabbir ka maatam hai Mohib ruk nahiṅ sakta
+  Zainab ka ye armaan hai Zehra ki dua hai
   Zakhmoṅ se badan...
 ---
 

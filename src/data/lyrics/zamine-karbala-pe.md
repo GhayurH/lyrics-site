@@ -13,39 +13,39 @@ aliases: []
 published: true
 romanLyrics: |-
   Zamin-e-Karbala pe dil tarapta chhor aaya huṅ
-  Gham-e-Shabbir meiṅ rota bilakta chhor aaya huṅ
+  Gham-e-Shabbir mein rota bilakta chhor aaya huṅ
 
   1
-  Mujhe mehsus hota hai sar-e-maidaan meiṅ jaise
-  Sakina ko andhere meiṅ sisakta chhor aaya huṅ
+  Mujhe mahsus hota hai sar-e-maidaan mein jaise
+  Sakina ko andhere mein sisakta chhor aaya huṅ
 
   2
-  Zaifi meiṅ uthaaye Shaah to laashe Ali Akbar
+  Zaifi mein uthaaye Shaah to laash-e-Ali Akbar
   Kabhi girta kabhi phir se sambhalta chhor aaya huṅ
 
   3
-  Dhuaaṅ phaila hua har suṅ tha shaam-e-gharibaaṅ meiṅ
-  Maiṅ ek bimaar ka bistar dehekta chhor aaya huṅ
+  Dhuaaṅ phaila hua har suṅ tha shaam-e-gharibaaṅ mein
+  Main ek bimaar ka bistar dehakta chhor aaya huṅ
 
   4
   Gulu-e-Asghar-e-beshir ko haathoṅ pe Sayyid ke
-  Maiṅ ran meiṅ tir seh pal se ulajhta chhor aaya huṅ
+  Main ran mein tir seh pal se ulajhta chhor aaya huṅ
 
   5
-  Shab-e-ghurbat meiṅ maadar dhundti thi gumshuda bachche
-  Use taarik jangal meiṅ bhatakta chhor aaya huṅ
+  Shab-e-ghurbat mein maadar dhundti thi gumshuda bachche
+  Use taarik jangal mein bhatakta chhor aaya huṅ
 
   6
-  Jise maadar ki turbat pe Ali shab meiṅ the le jaate
-  Use baazaar se din meiṅ guzarta chhor aaya huṅ
+  Jise maadar ki turbat pe Ali shab mein the le jaate
+  Use baazaar se din mein guzarta chhor aaya huṅ
 
   7
   Sadaa hal min ki ab har pal mujhe waapas bulaati hai
-  Ali ke laal ko tanha maiṅ larta chhor aaya huṅ
+  Ali ke laal ko tanha main larta chhor aaya huṅ
 
   8
-  Bohat dushwaar tha Karbobala ko alwida kehna
-  Rawaaṅ saaṅsoṅ ko sine meiṅ atakta chhor aaya huṅ
+  Bohat dushwaar tha Karb o Bala ko alwida kehna
+  Rawaaṅ saaṅsoṅ ko sine mein atakta chhor aaya huṅ
 ---
 زمین کربلا پہ دل تڑپتا چھوڑ آیا ہوں
 غمِ شبیر میں روتا بلکتا چھوڑ آیا ہوں

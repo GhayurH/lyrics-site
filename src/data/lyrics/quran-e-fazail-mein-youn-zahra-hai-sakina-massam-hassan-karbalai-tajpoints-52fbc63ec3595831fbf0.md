@@ -1,38 +1,66 @@
 ---
-title: "Quran-e-Fazail Mein Youn Zahra Hai Sakina Massam Hassan Karbalai"
+title: "قرآنِ فضائل میں یوں زہرا ہے سکینہ مصمم حسن کربلائی"
+alternateTitle: "Quran-e-Fazail Mein Youn Zahra Hai Sakina Massam Hassan Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faizan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Quran-e-Fazail mein youn Zahra hai Sakina Massam Hassan Karbalai
+  Tazeem mein baba teri uthta hai Sakina
+
+  1
+  Sadqa tera Ghazi ne utara hai Sakina
+  Sar se tere daryaon ko wara hai Sakina
+  Kya jane koi jo tera rutba hai Sakina
+  Sarwar ke Alamdar ka Kaba hai Sakina
+
+  2
+  Jo malik-e-kun naz-e-khudawand hai Bibi
+  Oss sheh ne tumhein sajdoon mein manga hai Sakina
+  Sorat mein teri Zahra ka noor utra hai unn par
+  Azmat mein teri maa bhi Khadija hai Sakina
+
+  3
+  Dunya ko batatay rahe Ghazi teri azmat
+  Sar aagay jo tere na uthaya hai Sakina
+  Wallah mujhe phir na zarorat pari Bibi
+  Ik bar tere dar se jo manga hai Sakina
+
+  4
+  Jab jab unhein amma ki bohat yaad satai
+  Shabeer ne chehra tera dekha hai Sakina
+  Kaisay karey Faizan teri madah ka dawa
+  Quran tu bas Rab ne hi likha hai Sakina
 ---
 
-Quran-e-Fazail Mein Youn Zahra Hai Sakina Massam Hassan Karbalai.
-Tazeem Mein Baba Teri Uthta Hai Sakina.
+قرآنِ فضائل میں یوں زہرا ہے سکینہ مصمم حسن کربلائی
+تعظیم میں بابا تری اٹھتا ہے سکینہ
 
-1
-Sadqa Tera Ghazi Ne Utara Hai Sakina.
-Sar Se Tere Daryaon Ko Wara Hai Sakina.
-Kya Jane Koi Jo Tera Rutba Hai Sakina.
-Sarwar Ke Alamdar Ka Kaba Hai Sakina.
+۱
+صدقہ تیرا غازی نے اتارا ہے سکینہ
+سر سے تیرے دریاؤں کو وارا ہے سکینہ
+کیا جانے کوئی جو تیرا رتبہ ہے سکینہ
+سرور کے علمدار کا کعبہ ہے سکینہ
 
-2
-Jo Malik-e-Kun Naz-e-Khudawand Hai Bibi.
-Oss Sheh Ne Tumhein Sajdoon Mein Manga Hai Sakina.
-Sorat Mein Teri Zahra Ka Noor Utra Hai Unn Par.
-Azmat Mein Teri Maa Bhi Khadija Hai Sakina.
+۲
+جو مالکِ کُن نازِ خداوند ہے بی‌بی
+اُس شہ نے تمہیں سجدوں میں مانگا ہے سکینہ
+صورت میں تری زہرا کا نور اترا ہے اُن پر
+عظمت میں تری ماں بھی خدیجہ ہے سکینہ
 
-3
-Dunya Ko Batatay Rahe Ghazi Teri Azmat.
-Sar Aagay Jo Tere Na Uthaya Hai Sakina.
-Wallah Mujhe Phir Na Zarorat Pari Bibi.
-Ik Bar Tere Dar Se Jo Manga Hai Sakina.
+۳
+دنیا کو بتاتے رہے غازی تری عظمت
+سر آگے جو تیرے نہ اٹھایا ہے سکینہ
+واللہ مجھے پھر نہ ضرورت پڑی بی‌بی
+اک بار تیرے در سے جو مانگا ہے سکینہ
 
-4
-Jab Jab Unhein Amma Ki Bohat Yaad Satai.
-Shabeer Ne Chehra Tera Dekha Hai Sakina.
-Kaisay Karey Faizan Teri Madah Ka Dawa.
-Quran Tu Bas Rab Ne Hi Likha Hai Sakina.
+۴
+جب جب انہیں اماں کی بہت یاد ستائی
+شبیر نے چہرہ تیرا دیکھا ہے سکینہ
+کیسے کرے فیضان تری مدح کا دعویٰ
+قرآن تو بس رب نے ہی لکھا ہے سکینہ

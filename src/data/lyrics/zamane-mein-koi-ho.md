@@ -1,7 +1,7 @@
 ---
 title: "زمانے میں کوئی ہو نفسِ پیغمبر تو ہم جانیں"
 recitationId: "zamane-may-koi-ho"
-alternateTitle: "Zamane Meiṅ Koi Ho"
+alternateTitle: "Zamaane Meiṅ Koi Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,11 +12,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zamane meiṅ koi ho nafs-e-Paighambar to hum jaaneṅ
+  Zamaane meiṅ koi ho nafs-e-Paighambar to hum jaaneṅ
   Ali ki baat kya ho le koi Qambar to hum jaaneṅ
 
   1
-  Hai daawa jaaṅnisaari ka bahut Islam waloṅ ko
+  Hai daawa jaaṅ nisaari ka bahut Islaam waaloṅ ko
   Dikhaye raah-e-haq de ke apna sar to hum jaaneṅ
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
   Nikal kar hum ko dikhlaye lab-e-Kausar to hum jaaneṅ
 
   3
-  Hai pehra Alqama par aaj tak Abbas-e-Ghazi ka
+  Hai pehra Alqama par aaj tak Abbaas-e-Ghaazi ka
   Zara koi parinda maar to le par to hum jaaneṅ
 
   4
@@ -32,15 +32,15 @@ romanLyrics: |-
   Kisi ke naam par hil jaaye kankar to hum jaaneṅ
 
   5
-  Kaha karti thi Zainab haaye hamara sher sa bhai
+  Kaha karti thi Zainab haaye hamaara sher sa bhaai
   Dikhaye sar se koi chhin kar chaadar to hum jaaneṅ
 
   6
   Ye Zainab ka kaleja tha ye Zainab hi ki himmat thi
-  Gale par bhai ke dekhe koi khanjar to hum jaaneṅ
+  Gale par bhaai ke dekhe koi khanjar to hum jaaneṅ
 
   7
-  Tu shayar hai Shah-e-diṅ ka tujhe kya khauf hai Mehshar
+  Tu shaayar hai Shaah-e-diṅ ka tujhe kya khauf hai Mehshar
   Farishte aayeṅ teri qabr ke andar to hum jaaneṅ
 ---
 زمانے میں کوئی ہو نفسِ پیغمبر تو ہم جانیں

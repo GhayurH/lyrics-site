@@ -18,10 +18,10 @@ romanLyrics: |-
   1
   Roya tarap ke saahil ko darya gale laga ke
   Patthar ke dil hue paani khun barsa aasmaaṅ se
-  Raunda gaya hai ghoroṅ se Sibt-e-Nabi ka laasha
+  Raundha gaya hai ghoroṅ se Sibt-e-Nabi ka laasha
 
   2
-  Ek tir aa ke Asghar ki gardan meiṅ garh gaya hai
+  Ek tir aa ke Asghar ki gardan meiṅ gharh gaya hai
   Wiraan maaṅ ki godi hai jhula ujar gaya hai
   Chhe maah ka mujaahid bhi maara gaya hai pyaasa
 
@@ -43,12 +43,12 @@ romanLyrics: |-
   6
   Karte haiṅ zulm bachchoṅ par zulm o sitam ke baani
   Faryaad kar rahi hai ye maqtul naujawaani
-  Karyal jawaan Akbar ka tukre hua kaleja
+  Kariyal jawaan Akbar ka tukre hua kaleja
 
   7
   Hai kaun ab ghariboṅ ka puchhe jo in se aa ke
   Kiuṅ maarte haiṅ ye zaalim muṅh par mere tamaache
-  Sunta nahiṅ hai koi bhi kis se kahuṅ maiṅ Baaba
+  Sunta nahiṅ hai koi bhi kis se kahuṅ main Baaba
 
   8
   Dil chaak ho gaya gham se sadmoṅ se naatawaaṅ hai

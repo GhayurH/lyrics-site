@@ -7,6 +7,44 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Raza ko aalam-e-ghurbat meiṅ maut aayi hai
+
+  1
+  Diyaar-e-Tus meiṅ Zehra ne khaak uraayi hai
+
+  2
+  Na paas beta hai beti hai aur na bhaai hai
+  Raza the aalam-e-ghurbat meiṅ kya Husain ke baad
+  Bachaaya din-e-Rasul-e-Khuda Husain ke baad
+  Gham-e-Husain meiṅ kuchh is tarah se rote the
+  Ke jaise rote the Zain ul Aba Husain ke baad
+  Muhib ye kehte the haaye hai haif duniya se
+  Woh ja raha hai jo Shabbir ka fidaai hai
+  Diya hai aap ko angur meiṅ woh zehr-e-dagha
+  Lahu ke saath woh rag rag meiṅ zehr phail gaya
+  Shahaadat-e-Hasan Mujtaba ka aaina
+  Jigar ke tukre ugalta raha mera Maula
+  Tamaam dubi hui sog meiṅ fazaaeṅ haiṅ
+  Zabaan-e-khalq pe faryaad hai duhaai hai
+  Behen woh aap ki maghmum Qum ki Maasuma
+  Chali haiṅ aap se milne ke waaste Maula
+  Mili shahaadat Maula ki jab khabar un ko
+  To sar ko aap ne mahmil se apni takraaya
+  Woh tin din rahiṅ bimaar aur ajal aayi
+  Ke dafn Qum meiṅ behen hai Mashhad meiṅ bhaai hai
+  Behen Imaam Raza ki hai surat-e-Zainab
+  Basi hai un ki har ik rag meiṅ sirat-e-Zainab
+  Behen ke dil meiṅ Raza ki thi is tarah ulfat
+  Ke jaise sibt-e-nabi se thi ulfat-e-Zainab
+  Behen Husain ki ho ya behen Raza ki ho
+  Wafaat donoṅ ne paayi ke gham meiṅ paayi hai
+  Qadam qadam hameiṅ aafaat se bachaate haiṅ
+  Kahiṅ Raza kahiṅ Abbaas kaam aate haiṅ
+  Raza ki madh meiṅ jab bhi qalam uthaaya hai
+  Falak se taaza mazaamin khiṅch ke aate haiṅ
+  Hamaare sheroṅ ka Qaisar hai ja ba ja charcha
+  Dar-e-Raza se ye tauqir ham ne paayi hai
 ---
 
 رضاؑ کو عالم غربت میں موت آئی ہے

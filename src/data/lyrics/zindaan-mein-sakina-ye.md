@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Kya andhera hai dikhaai nahiṅ deta kuchh bhi
   Haath rakhta nahiṅ ammaaṅ mere sar par koi
-  Aur chand roz meiṅ mar jaauṅ gi maiṅ ghut ghut kar
+  Aur chand roz meiṅ mar jaauṅ gi main ghut ghut kar
 
   2
   Khuṅ bhara kurta badal do mera pyaari ammaaṅ
@@ -31,8 +31,8 @@ romanLyrics: |-
   Raat din roti huṅ kar de koi baba ko khabar
 
   4
-  Tum to kehti thi rihaai ki ghari aa pahuṅchi
-  Aisa lagta hai judaai ki ghari aa pahuṅchi
+  Tum to kehti thi rihaai ki ghari aa pahunchi
+  Aisa lagta hai judaai ki ghari aa pahunchi
   Khwaab meiṅ aaye the mere abhi dada Haidar
 
   5

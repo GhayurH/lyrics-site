@@ -18,12 +18,12 @@ romanLyrics: |-
   Dil Mustafa ka tora Ali ko rula diya
 
   1
-  Khaaliq ne maaṅgi sirf mawaddat thi dostoṅ
+  Khaaliq ne maangi sirf mawaddat thi dostoṅ
   Ummat ne Fatima ko ye kaisa sila diya
 
   2
   Dhaaya mazaar zulm ne Zehra ka jis ghari
-  Haidar ne aaṅsuoṅ ka musalla bichha diya
+  Haidar ne aansuoṅ ka musalla bichha diya
 
   3
   Kar ke shahid dahr meiṅ Mohsin ko bekhata

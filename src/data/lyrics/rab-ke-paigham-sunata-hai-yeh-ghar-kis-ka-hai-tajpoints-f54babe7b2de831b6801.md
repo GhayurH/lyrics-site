@@ -1,35 +1,60 @@
 ---
-title: "Rab Ke Paigham Sunata Hai Yeh Ghar Kis Ka Hai"
+title: "رب کے پیغام سناتا ہے یہ گھر کس کا ہے"
+alternateTitle: "Rab Ke Paigham Sunata Hai Yeh Ghar Kis Ka Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rab ke paigham sunata hai yeh ghar kis ka hai
+  Sab ko Khaliq se milata hai yeh ghar kis ka hai
+  Looh-e-mehfooz ki tehreer badal deta hai
+  Sab ki taqdeer banata hai yeh ghar kis ka hai
+
+  2
+  Aana jana yahan rehta hai falak walon ka
+  Ronaq-e-khuld dikhata hai yeh ghar kis ka hai
+  Wajh-e-takhleeq-e-jahan waris-e-kun noor-e-azal
+  Phir bhi tauheed bachata hai yeh ghar kis ka hai
+
+  3
+  Jab nazar aata hai oss ko Bani Hashim ka qamar
+  Chand khud pochne aata hai yeh ghar kis ka hai
+  Oaj pane ke liye arsh yahan jhukta hai
+  Oaj ko oaj dilata hai yeh ghar kis ka hai
+
+  4
+  Rab ke bandey hain magar Rab ki tarha lagte hain
+  Inn mein Khaliq nazar aata hai yeh ghar kis ka hai
+  Yeh Muhammad ka gharana hai yaqeenan Yasir
+  Husan-e-ijaz dikhata hai yeh ghar kis ka hai
 ---
 
-1
-Rab Ke Paigham Sunata Hai Yeh Ghar Kis Ka Hai.
-Sab Ko Khaliq Se Milata Hai Yeh Ghar Kis Ka Hai.
-Looh-e-Mehfooz Ki Tehreer Badal Deta Hai.
-Sab Ki Taqdeer Banata Hai Yeh Ghar Kis Ka Hai.
+۱
+رب کے پیغام سناتا ہے یہ گھر کس کا ہے
+سب کو خالق سے ملاتا ہے یہ گھر کس کا ہے
+لوحِ محفوظ کی تحریر بدل دیتا ہے
+سب کی تقدیر بناتا ہے یہ گھر کس کا ہے
 
-2
-Aana Jana Yahan Rehta Hai Falak Walon Ka.
-Ronaq-e-Khuld Dikhata Hai Yeh Ghar Kis Ka Hai.
-Wajh-e-Takhleeq-e-Jahan Waris-e-Kun Noor-e-Azal.
-Phir Bhi Tauheed Bachata Hai Yeh Ghar Kis Ka Hai.
+۲
+آنا جانا یہاں رہتا ہے فلک والوں کا
+رونقِ خلد دکھاتا ہے یہ گھر کس کا ہے
+وجہِ تخلیقِ جہاں وارثِ کُن نورِ ازل
+پھر بھی توحید بچاتا ہے یہ گھر کس کا ہے
 
-3
-Jab Nazar Aata Hai Oss Ko Bani Hashim Ka Qamar.
-Chand Khud Pochne Aata Hai Yeh Ghar Kis Ka Hai.
-Oaj Pane Ke Liye Arsh Yahan Jhukta Hai.
-Oaj Ko Oaj Dilata Hai Yeh Ghar Kis Ka Hai.
+۳
+جب نظر آتا ہے اس کو بنی ہاشم کا قمر
+چاند خود پوچھنے آتا ہے یہ گھر کس کا ہے
+اوج پانے کے لیے عرش یہاں جھکتا ہے
+اوج کو اوج دلاتا ہے یہ گھر کس کا ہے
 
-4
-Rab Ke Bandey Hain Magar Rab Ki Tarha Lagte Hain.
-Inn Mein Khaliq Nazar Aata Hai Yeh Ghar Kis Ka Hai.
-Yeh Muhammad Ka Gharana Hai Yaqeenan Yasir.
-Husan-e-Ijaz Dikhata Hai Yeh Ghar Kis Ka Hai.
+۴
+رب کے بندے ہیں مگر رب کی طرح لگتے ہیں
+ان میں خالق نظر آتا ہے یہ گھر کس کا ہے
+یہ محمد کا گھرانا ہے یقیناً یاسر
+حسنِ اعجاز دکھاتا ہے یہ گھر کس کا ہے

@@ -1,44 +1,78 @@
 ---
-title: "Zindaan Che Sakina Haye Bhardi Aye Hawaan Lyrics 2024 Latest"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "زنداں چ سکینہ ہائے بھردی اے ہواں"
+alternateTitle: "Zindaan Che Sakina Haye Bhardi Aye Hawaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zindaan che Sakina haye bhardi aye hawaan
+  Na aaya mera baba na rukiyaan ne sahwaan
+
+  1
+  Kiwein marne tamachay
+  Kiwein neel ne wadhane
+  Kiwein khon way bahana
+  Merey zakhm wadhawan layi
+
+  2
+  Ray karday salahwan
+  Jadon chadraan si laiyaan
+  Jadon waliyaan lahaiyan
+  Jadon rasiyaan si paiyaan
+
+  3
+  Dendi rayi Sakina
+  Tainu baba sadawaan
+  Kandiyaan te turday ray aan
+  Pathraan nu sehnday ray aan
+
+  4
+  Mitiyaan te bainday ray aan
+  Bazar ainj langaya
+  Assi bhain bhirawaan
+  Akbar aye sain aakhay
+
+  5
+  Keeti aye main wasiyat
+  Teri qabar te charha de
+  Mere baad mil gayiyaan jay
+  Chan veer ridawaan
 ---
 
-Zindaan Che Sakina Haye Bhardi Aye Hawaan.
-Na Aaya Mera Baba Na Rukiyaan Ne Sahwaan.
+زنداں چ سکینہ ہائے بھردی اے ہواں
+نہ آیا میرا بابا نہ رکیاں نے ساہواں
 
-1
-Kiwein Marne Tamachay.
-Kiwein Neel Ne Wadhane.
-Kiwein Khon Way Bahana.
-Merey Zakhm Wadhawan Layi.
+۱
+کیویں مارنے تماچے
+کیویں نیل نے ودھانے
+کیویں خون وے بہانا
+میرے زخم ودھاون لئی
 
-2
-Ray Karday Salahwan.
-Jadon Chadraan Si Laiyaan.
-Jadon Waliyaan Lahaiyan.
-Jadon Rasiyaan Si Paiyaan.
+۲
+رہے کردے صلاحواں
+جدوں چادراں سی لئیاں
+جدوں والیاں لہائیاں
+جدوں رسیاں سی پائیاں
 
-3
-Dendi Rayi Sakina.
-Tainu Baba Sadawaan.
-Kandiyaan Te Turday Ray Aan.
-Pathraan Nu Sehnday Ray Aan.
+۳
+دیندی رہی سکینہ
+تینوں بابا صداواں
+کنڈیاں تے تردے رہے آں
+پتھراں نوں سہندے رہے آں
 
-4
-Mitiyaan Te Bainday Ray Aan.
-Bazar Ainj Langaya.
-Assi Bhain Bhirawaan.
- Akbar Aye Sain Aakhay.
+۴
+مٹیاں تے بیندے رہے آں
+بازار انج لنگھایا
+اسیں بھین بھراواں
+اکبر اے سائیں آکھے
 
-5
-Keeti Aye Main Wasiyat.
-Teri Qabar Te Charha De.
-Mere Baad Mil Gayiyaan Jay.
-Chan Veer Ridawaan.
+۵
+کیتی اے میں وصیت
+تیری قبر تے چڑھا دے
+میرے بعد مل گئیاں جے
+چن ویر رداواں

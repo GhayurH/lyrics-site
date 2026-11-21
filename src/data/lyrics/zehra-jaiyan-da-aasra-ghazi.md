@@ -9,188 +9,114 @@ reciter: "Chakwal Party"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zahra jayain da aasra Ghazi
-
-  Hoya Karbal Hoya Karbal
-
-  Hoya Karbal de wich juda Ghazi
-
+romanLyrics: |-
+  Zahra jaaiyaaṅ da aasra Ghazi
+  Hoya Karbal hoya Karbal
+  Hoya Karbal de vich juda Ghazi
 
   1
-
-  Kiwain jawan gi Shaam te Koofa
-
-  Maikoon mehmal te aa bahaa Ghazi
-
+  Kaise jaauṅ gi Shaam aur Kufa
+  Mujh ko mahmal pe aa bitha Ghazi
 
   2
-
-  Bhul gayan bibyan sitam saray
-
-  Zeen toon jis ghari latha Ghazi
-
+  Bhuli haiṅ bibiyaaṅ sitam saare
+  Zin se jis ghari gira Ghazi
 
   3
-
-  Khaimay jalday rahay oo aandi rae
-
-  Shimr to aan ke bacha Ghazi
-
+  Khaime jalte rahe woh kehti rahi
+  Shimr se aa ke tu bacha Ghazi
 
   4
-
-  Meri chadar Khuda da parda aey
-
-  Meri chadar di tu baqa Ghazi
-
+  Meri chaadar Khuda ka parda hai
+  Meri chaadar ki tu baqa Ghazi
 
   5
-
-  Lafz parda te aakhna ponda aey
-
-  Warna Zinab di hay rida Ghazi
-
+  Lafz parda to kehna parta hai
+  Warna Zainab ki hai rida Ghazi
 
   6
-
-  Kyun may tursan Ali koon dhee aakhay
-
-  Shala jeeway mera bhira Ghazi
-
+  Kiveṅ tur saaṅ Ali kuṅ dhi aakhe
+  Shaala jive mera bhira Ghazi
 
   7
-
-  Teryan katyan bazoaan di qasam
-
-  Aawan gi Shaam kar fatah Ghazi
-
+  Tere burida baazuoṅ ki qasam
+  Aauṅ gi Shaam kar fatah Ghazi
 
   8
-
-  Sayan aakhay Abbas nae larna
-
-  Tayan hath eid te kata Ghazi
-
+  Seen aakhe Abbas naiṅ larna
+  Taiyoṅ hath kite hin kata Ghazi
 
   9
-
-  Cheh jagha toon Hussain chunya aey
-
-  Phir bhi poora na mil saka Ghazi
-
+  Chhe jagah se Husain chunte rahe
+  Phir bhi pura na mil saka Ghazi
 
   10
-
-  Qari Quran marainday rae
-
-  Saray bazaar hay gawah Ghazi
-
+  Zulm qaari Quraan karte rahe
+  Saara baazaar hai gawaah Ghazi
 
   11
-
-  Ro ke hik wain keeta Masooma
-
-  Pyas Asghar di aa bujha Ghazi
-
+  Ro ke yeh bain karti Maasuma
+  Pyaas Asghar ki aa bujha Ghazi
 
   12
-
-  Shimr raj raj Hussain koon maaray
-
-  Janda haey jo nae rea Ghazi
-
+  Shimr mur mur Husain ko maare
+  Jaanta hai raha nahiṅ Ghazi
 
   13
-
-  Charon pasay sharabi disde hin
-
-  Bibyan wan ch aa hata Ghazi
-
+  Chaaroṅ jaanib sharaabi baithe haiṅ
+  Bibiyoṅ ko tu aa chhura Ghazi
 
   14
-
-  Jaidi turbat hay dhup te hun tayeen
-
-  Usay bibi di hay dua Ghazi
-
+  Jis ki turbat pe dhup hai ab tak
+  Usi Bibi ki hai dua Ghazi
 
   15
-
-  Zindagi bhar tu aaqa sadya hay
-
-  Maino hik waari sad bhira Ghazi
-
+  Zindagi bhar tu aaqa kehta raha
+  Bhaai keh kar tu ab bula Ghazi
 
   16
-
-  Maar ke barchi tur gaya zalim
-
-  Lasha Akbar da aa chawa Ghazi
-
+  Maar ke barchhi tori zaalim ne
+  Laasha Akbar ka aa utha Ghazi
 
   17
-
-  Jairay babay paway san maikoon
-
-  Dur kitay Shimr ne laha Ghazi
-
+  Mujh ko baaba ne jo the pehnaae
+  Dur kiye Shimr ne juda Ghazi
 
   18
-
-  May ridawan di hun nahi zaman
-
-  Bibyon jag toon tur gaya Ghazi
-
+  Main ridaaoṅ ki ab nahiṅ zaamin
+  Bibiyoṅ ab chala gaya Ghazi
 
   19
-
-  Tainday har zulm da jawab daindi
-
-  Kash honda maida bhira Ghazi
-
+  Tere har zulm ka jawaab deti
+  Kaash hota agar mera Ghazi
 
   20
-
-  De ke bazoo alam bachaya aey
-
-  Tera mamnoon hay Khuda Ghazi
-
+  De ke baazu alam bachaaya hai
+  Tera mamnun hai Khuda Ghazi
 
   21
-
-  Nangay sar dar badar phiraiday rae
-
-  Kis na keta mera haya Ghazi
+  Nange sar dar badar phiraate rahe
+  Na kisi ne kiya haya Ghazi
 
   22
-
-  Aj vi Bint-e-Husain rondi ae
-
-  Hath mere qaid taun chhura Ghazi
+  Aaj vi Bint-e-Husain rondi ae
+  Hath mere qaid toṅ chhura Ghazi
 
   23
-
-  Sir taun Zainab de lai gayi chaadar
-
-  Jadon maqtal nu tur paya Ghazi
+  Sar toṅ Zainab de lai gayi chaadar
+  Jadoṅ maqtal nuṅ tur paaya Ghazi
 
   24
-
-  Aakhe Ummul Baneen das Zainab
-
-  Zin taun haaye kiven latha Ghazi
+  Aakhe Ummul Banin das Zainab
+  Zin toṅ haaye kiveṅ latha Ghazi
 
   25
-
-  Aan Shabbir vain kita ae
-
-  Haaye Zainab nai riha Ghazi
+  Aaṅ Shabbir bain kita ae
+  Haaye Zainab naiṅ riya Ghazi
 
   26
-
-  Kar ke maatam Raza Baqiye vich
-
-  Aap rondi ae Fatima Ghazi'
+  Kar ke maatam Raza Baqiya vich
+  Aap rondi ae Fatima Ghazi
 ---
 
 زہراؑ جائیاں دا آسرا غازیؑ

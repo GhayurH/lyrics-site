@@ -16,23 +16,23 @@ romanLyrics: |-
   Kannaaṅ de haaye zakhm mere rukhsaaraaṅ te aa gaye
 
   1
-  Jinna akhiyaaṅ de wich howanr viraaṅ diyaaṅ laashaaṅ ne sowanr te kiweṅ sowanr
+  Jinnaaṅ akhiyaaṅ de wich howan viraaṅ diyaaṅ laashaaṅ ne sowan te kiweṅ sowan
   Tere qaatil haaye vir meri akhiyaaṅ che samaa gaye
 
   2
-  Baazaar de wich baalaaṅ mainu zakhmi nayi kita par bohat sataaya aye
+  Baazaar de wich baalaaṅ mainu zakhmi naiṅ kita par bohat sataaya ae
   Hans hans ke haaye haal mere te mainu rowaa gaye
 
   3
-  Choon saalaaṅ de wich mere jinnay laad tuṅ wekhay san jinnay naaz uthaaye san
+  Chuṅ saalaaṅ de wich mere jinne laad tuṅ wekhe san jinne naaz uthaaye san
   Qaidaaṅ de haaye zulm tere sab laad bhulaa gaye
 
   4
-  Teri katdi hoi gardan ya tir te khanjar ne kuj hor nayi disda
+  Teri katdi hoi gardan ya tir te khanjar ne kujh hor naiṅ disda
   Ainj Shaami haaye nazar meri te zarbaaṅ chalaa gaye
 
   5
-  Kuj jhirkaaṅ ray denday kuj maarday ray mainu jinna kuj na zulm kita
+  Kujh jhirkaaṅ rae dende kujh maarde rae mainu jinnaaṅ kujh na zulm kita
   Oh aa ke haaye zakhm mere kannaaṅ de dukhaa gaye
 ---
 زنداں سکینہ دے بابا درد ودھا گئے

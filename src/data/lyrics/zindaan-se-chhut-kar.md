@@ -16,15 +16,15 @@ romanLyrics: |-
 
   1
   Kehna ke Husain Ibn-e-Ali pyaasa mara hai
-  Sharbat pe mera faateha dilwaaiyo Zainab
+  Sharbat pe mera faatiha dilwaaiyo Zainab
 
   2
-  Maange jo Sakina ko kanizi meiṅ sitamgar
+  Maange jo Sakina ko kanizi mein sitamgar
   Tum minnateṅ kar ke use chhurwaaiyo Zainab
 
   3
   Haakim jo Sakina ko kafan de to na lena
-  Maasuma ko kurte hi meiṅ dafnaaiyo Zainab
+  Maasum ko kurte hi mein dafnaaiyo Zainab
 
   4
   Saqqaa-e-haram tishna dahan qatl hua hai
@@ -36,15 +36,15 @@ romanLyrics: |-
 
   6
   Chaadar ke iwaz baaloṅ se muṅh apna chhupaaye
-  Darbaar meiṅ haakim ke chali jaaiyo Zainab
+  Darbaar mein haakim ke chali jaaiyo Zainab
 
   7
-  Hai mujh ko yaqiṅ qaid meiṅ royegi Sakina
+  Hai mujh ko yaqiṅ qaid mein royegi Sakina
   Aate haiṅ pidar keh ke ye behlaaiyo Zainab
 
   8
   Ahbaab-e-watan ko mere paani ki sabileṅ
-  Nazr-e-shuhadaa-e-dasht meiṅ pilwaaiyo Zainab
+  Nazr-e-shuhadaa-e-dasht mein pilwaaiyo Zainab
 ---
 زنداں سے چھٹ کر جو وطن جائیو زینب
 صغرا کو میری سینے سے لپٹائیو زینب

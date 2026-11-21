@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Maula Husain aaqa Husain
   Aaqa Husain qibla Husain
-  Rab ne kaha rab ka Husain
+  Rab ne kaha Rab ka Husain
   Rab ka Husain sab ka Husain
   Maula Husain
 
@@ -25,7 +25,7 @@ romanLyrics: |-
   Dharkan meiṅ Husain saansoṅ meiṅ Husain
   Yaadoṅ meiṅ Husain aankhoṅ meiṅ Husain
   Palkoṅ meiṅ Husain khwaaboṅ meiṅ Husain
-  Hai lab pe sada ye subh o masa ya Husain
+  Hai lab pe sada ye subh o masaa ya Husain
 
   2
   Sabr ne kalma hai parha bas tera
@@ -60,7 +60,7 @@ romanLyrics: |-
   Hai kaun bhala tujh sa maula
 
   6
-  Lut gaya ek din meiṅ bhara tera
+  Lut gaya ik din meiṅ bhara tera
   Zulm ye tujh par mere maula hua
   Qasim na raha Akbar na raha
   Ghazi na raha Asghar na raha

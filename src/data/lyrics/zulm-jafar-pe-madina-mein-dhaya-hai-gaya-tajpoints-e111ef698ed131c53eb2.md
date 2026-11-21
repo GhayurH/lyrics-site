@@ -1,26 +1,42 @@
 ---
-title: "Zulm Jafar Pe Madina Mein Dhaya Hai Gaya"
+title: "ظلم جعفر پہ مدینہ میں ڈھایا ہے گیا"
+alternateTitle: "Zulm Jafar Pe Madina Mein Dhaya Hai Gaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Joun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zulm Jafar pe Madina mein Dhaaya hai gaya
+  Khana-e-Jafar Sadiq ko jalaya hai gaya
+
+  1
+  Betiyaan bhagti aaein hain sehan mein roti
+  Waqt phir Sham-e-Ghareebaan ka dikhaya hai gaya
+  Aa gayi le ke Sakina bhi jali chadar ko
+  Haal Jafar ki jo beti ka bataya hai gaya
+
+  2
+  Ho gaya khon tha jari youn phattay pairon se
+  Jab zehar Maula ko zulmat ka pilaya hai gaya
+  Joun yeh aag Saqeefa ki bohat door gayi
+  Dar-e-Zahra se dar-e-Jafar jalaya hai gaya
 ---
 
-Zulm Jafar Pe Madina Mein Dhaaya Hai Gaya.
-Khana-e-Jafar Sadiq Ko Jalaya Hai Gaya.
+ظلم جعفر پہ مدینہ میں ڈھایا ہے گیا
+خانۂ جعفر صادق کو جلایا ہے گیا
 
-1
-Betiyaan Bhagti Aaein Hain Sehan Mein Roti.
-Waqt Phir Sham-e-Ghareebaan Ka Dikhaya Hai Gaya.
-Aa Gayi Le Ke Sakina Bhi Jali Chadar Ko.
-Haal Jafar Ki Jo Beti Ka Bataya Hai Gaya.
+۱
+بیٹیاں بھاگتی آئیں ہیں صحن میں روتی
+وقت پھر شامِ غریباں کا دکھایا ہے گیا
+آ گئی لے کے سکینہ بھی جلی چادر کو
+حال جعفر کی جو بیٹی کا بتایا ہے گیا
 
-2
-Ho Gaya Khon Tha Jari Youn Phattay Pairon Se.
-Jab Zehar Maula Ko Zulmat Ka Pilaya Hai Gaya.
- Joun Yeh Aag Saqeefa Ki Bohat Door Gayi.
-Dar-e-Zahra Se Dar-e-Jafar Jalaya Hai Gaya.
+۲
+ہو گیا خون تھا جاری یوں پھٹے پیروں سے
+جب زہر مولا کو ظلمت کا پلایا ہے گیا
+جون یہ آگ سقیفہ کی بہت دور گئی
+درِ زہرا سے درِ جعفر جلایا ہے گیا

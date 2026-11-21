@@ -35,7 +35,7 @@ romanLyrics: |-
   Jis par sar-e-Asghar hai zara dur hata do
 
   6
-  Ghabra ke tamaachoṅ se ye kehti thi Sakina
+  Ghabra ke tamaanchoṅ se ye kehti thi Sakina
   Achchhi phuphi ammaaṅ mere ammu ko bula do
 
   7

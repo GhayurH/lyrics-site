@@ -53,7 +53,7 @@ romanLyrics: |-
   Aao bachaane Zainab-e-muztar ne jab kaha
 
   8
-  Baad-e-imaam Dayam o Yazdaaṅ su-e-qayaam
+  Baad-e-imaam Dayam o Yazdaaṅ su-e-qiyaam
   Asbaab lutne ko wo aayi sipaah-e-Shaam
   Naize pe jab buland hui aal ki rida
 ---

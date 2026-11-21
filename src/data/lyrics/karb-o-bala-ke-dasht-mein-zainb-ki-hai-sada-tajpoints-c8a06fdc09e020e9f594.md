@@ -1,32 +1,54 @@
 ---
-title: "Karb O Bala Ke Dasht Mein Zainb Ki Hai Sada"
+title: "کرب و بلا کے دشت میں زینب کی ہے صدا"
+alternateTitle: "Karb O Bala Ke Dasht Mein Zainb Ki Hai Sada"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azai"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karb-o-Bala ke dasht mein Zainb ki hai sada
+  Nana Madina choor ke aa dekh kya howa
+
+  1
+  Aal-e-Nabi pe sang zani Shaam ka bazaar
+  Umat ne kiasa ajr-e-risalat adda kiya
+  Lakht-e-Jigar ke katte howay sir ko dekh kar
+  Zahra Baqiya choor ke pohanchi hai Karbala
+
+  2
+  Afsoos naak baat nahi hai tu our kya
+  Mushkil mein in dino hai gharana Rasool ka
+  Aab kiss pe Qafila-e-Hussaini kare ga naaz
+  Abbas-e-Naamdar nigehbaan nahi raha
+
+  3
+  Barish hoi hai khoon ki Qatal-e-Hussain per
+  Yeh zulm aasman se dekha nahi giya
+  Dunya Azai lakh kare hum pe jor-o-zulm
+  Hum dard-e-dil na chorein gay matam Hussain ka
 ---
 
-Karb-o-Bala Ke Dasht Mein Zainb Ki Hai Sada.
-Nana Madina Choor Ke Aa Dekh Kya Howa.
+کرب و بلا کے دشت میں زینب کی ہے صدا
+نانا مدینہ چھوڑ کے آ دیکھ کیا ہوا
 
-1
-Aal-e-Nabi Pe Sang Zani Shaam Ka Bazaar.
-Umat Ne Kiasa Ajr-e-Risalat Adda Kiya.
-Lakht-e-Jigar Ke Katte Howay Sir Ko Dekh Kar.
-Zahra Baqiya Choor Ke Pohanchi Hai Karbala.
+۱
+آلِ نبی پہ سنگ زنی شام کا بازار
+امت نے کیسا اجرِ رسالت ادا کیا
+لختِ جگر کے کٹے ہوئے سر کو دیکھ کر
+زہرا بقیع چھوڑ کے پہنچی ہے کربلا
 
-2
-Afsoos Naak Baat Nahi Hai Tu Our Kya.
-Mushkil Mein In Dino Hai Gharana Rasool Ka.
-Aab Kiss Pe Qafila-e-Hussaini Kare Ga Naaz.
-Abbas-e-Naamdar Nigehbaan Nahi Raha.
+۲
+افسوس ناک بات نہیں ہے تو اور کیا
+مشکل میں ان دنوں ہے گھرانا رسول کا
+اب کس پہ قافلۂ حسینی کرے گا ناز
+عباسِ نامدار نگہبان نہیں رہا
 
-3
-Barish Hoi Hai Khoon Ki Qatal-e-Hussain Per.
-Yeh Zulm Aasman Se Dekha Nahi Giya.
-Dunya Azai Lakh Kare Hum Pe Jor-o-Zulm.
-Hum Dard-e-Dil Na Chorein Gay Matam Hussain Ka.
+۳
+بارش ہوئی ہے خون کی قتلِ حسین پر
+یہ ظلم آسمان سے دیکھا نہیں گیا
+دنیا عزائی لاکھ کرے ہم پہ جور و ظلم
+ہم دردِ دل نہ چھوڑیں گے ماتم حسین کا

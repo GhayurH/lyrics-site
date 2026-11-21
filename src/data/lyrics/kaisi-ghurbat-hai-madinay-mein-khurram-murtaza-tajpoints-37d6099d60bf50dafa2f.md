@@ -1,34 +1,58 @@
 ---
-title: "Kaisi Ghurbat Hai Madinay Mein Khurram Murtaza"
+title: "کیسی غربت ہے مدینے میں خرم مرتضیٰ"
+alternateTitle: "Kaisi Ghurbat Hai Madinay Mein Khurram Murtaza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kaisi ghurbat hai Madinay mein Khurram Murtaza
+  Nabi ki aal par kaisa Madine mein hai waqt aaya
+  Janazay par Nabi ke logon ne Haider ko tarpaya
+  Hussain aaye Hasan ko dafan karne jab Nabi ke sath
+  Janazay par Hasan ke logon ne teeron ko barsaya
+  Uthay hain do janazay kaisi ghurbat hai Madine mein
+  Qaza bhi jin pe roye kaisi ghurbat hai Madine mein
+  Qalam kagaz Nabi ko haye kalma go nahi detey
+  Nabi ko hain satatay kaisi ghurbat hai Madine mein
+  Nabi ko waqt-e-aakhir bhi rolatay hain yeh kalma go
+  Ali rotay hain haye kaisi ghurbat hai Madine mein
+  Musalmaan ik janaza dafan karne ko nahi aaye
+  Our ik par teer barsay kaisi ghurbat hai Madine mein
+  Issay ajar-e-risalat aisa do kehte hain kalma go
+  Hasan tarpay zehar se kaisi ghurbat hai Madine mein
+  Janaza jab Hasan ka laye ghar wapis tu Ghazi our
+  Bara Shabeer roye kaisi ghurbat hai Madine mein
+  Janazay par Hasan ke Karbala se pehle Zainab ne
+  Barastay teer dekhey kaisi ghurbat hai Madine mein
+  Asad bad-e-Nabi aal-e-Nabi ko mara logon ne
+  Hain yeh Zainab ke nohay kaisi ghurbat hai Madine mein
 ---
 
-1
-Kaisi Ghurbat Hai Madinay Mein Khurram Murtaza.
-Nabi Ki Aal Par Kaisa Madine Mein Hai Waqt Aaya.
-Janazay Par Nabi Ke Logon Ne Haider Ko Tarpaya.
-Hussain Aaye Hasan Ko Dafan Karne Jab Nabi Ke Sath.
-Janazay Par Hasan Ke Logon Ne Teeron Ko Barsaya.
-Uthay Hain Do Janazay Kaisi Ghurbat Hai Madine Mein.
-Qaza Bhi Jin Pe Roye Kaisi Ghurbat Hai Madine Mein.
-Qalam Kagaz Nabi Ko Haye Kalma Go Nahi Detey.
-Nabi Ko Hain Satatay Kaisi Ghurbat Hai Madine Mein.
-Nabi Ko Waqt-e-Aakhir Bhi Rolatay Hain Yeh Kalma Go.
-Ali Rotay Hain Haye Kaisi Ghurbat Hai Madine Mein.
-Musalmaan Ik Janaza Dafan Karne Ko Nahi Aaye.
-Our Ik Par Teer Barsay Kaisi Ghurbat Hai Madine Mein.
-Issay Ajar-e-Risalat Aisa Do Kehte Hain Kalma Go.
-Hasan Tarpay Zehar Se Kaisi Ghurbat Hai Madine Mein.
-Janaza Jab Hasan Ka Laye Ghar Wapis Tu Ghazi Our.
-Bara Shabeer Roye Kaisi Ghurbat Hai Madine Mein.
-Janazay Par Hasan Ke Karbala Se Pehle Zainab Ne.
-Barastay Teer Dekhey Kaisi Ghurbat Hai Madine Mein.
- Asad Bad-e-Nabi Aal-e-Nabi Ko Mara Logon Ne.
-Hain Yeh Zainab Ke Nohay Kaisi Ghurbat Hai Madine Mein.
+۱
+کیسی غربت ہے مدینے میں خرم مرتضیٰ
+نبی کی آل پر کیسا مدینے میں ہے وقت آیا
+جنازے پر نبی کے لوگوں نے حیدر کو تڑپایا
+حسین آئے حسن کو دفن کرنے جب نبی کے ساتھ
+جنازے پر حسن کے لوگوں نے تیروں کو برسایا
+اٹھے ہیں دو جنازے کیسی غربت ہے مدینے میں
+قضا بھی جن پہ روئے کیسی غربت ہے مدینے میں
+قلم کاغذ نبی کو ہائے کلمہ گو نہیں دیتے
+نبی کو ہیں ستاتے کیسی غربت ہے مدینے میں
+نبی کو وقتِ آخر بھی رلاتے ہیں یہ کلمہ گو
+علی روتے ہیں ہائے کیسی غربت ہے مدینے میں
+مسلمان اک جنازہ دفن کرنے کو نہیں آئے
+اور اک پر تیر برسے کیسی غربت ہے مدینے میں
+اسے اجرِ رسالت ایسا دو کہتے ہیں کلمہ گو
+حسن تڑپے زہر سے کیسی غربت ہے مدینے میں
+جنازہ جب حسن کا لائے گھر واپس تو غازی اور
+بڑا شبیر روئے کیسی غربت ہے مدینے میں
+جنازے پر حسن کے کربلا سے پہلے زینب نے
+برستے تیر دیکھے کیسی غربت ہے مدینے میں
+اسد بعدِ نبی آلِ نبی کو مارا لوگوں نے
+ہیں یہ زینب کے نوحے کیسی غربت ہے مدینے میں

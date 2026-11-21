@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zindaṅ zindaṅ na bhoolenge hum Sham ka zindaṅ
-  Nadaṅ nadaṅ zindaṅ meiṅ ek mar gayi nadaṅ
+  Zindaaṅ zindaaṅ na bhulenge ham Shaam ka zindaaṅ
+  Naadaaṅ naadaaṅ zindaaṅ meiṅ ik mar gayi naadaaṅ
 
   1
-  Wo Sham ke zindaṅ meiṅ Sakina ka tarapna
-  Tariki se ghabra ke wo bachi ka bilakna
-  Jab yaad kiya ashkoṅ ka jari hua tufan
+  Wo Shaam ke zindaaṅ meiṅ Sakina ka tarapna
+  Taariki se ghabra ke wo bachchi ka bilakna
+  Jab yaad kiya ashkoṅ ko jaari hua tufaan
 
   2
   Kehti thi Sakina mere baba ko bula do
-  Rab ke liye Amma Ali Akbar ko bula do
-  Kiuṅ aate nahi lene mujhe mere chacha jaan
+  Rab ke liye Ammaaṅ Ali Akbar ko bula do
+  Kiuṅ aate nahiṅ lene mujhe mere chaacha jaan
 
   3
-  Jab baap ka sar beti ne zindaṅ meiṅ paya
-  Liptaya kaleje se sab ahwal sunaya
-  Ummat ne kiya Nana ki kis darja pareshan
+  Jab baap ka sar beti ne zindaaṅ meiṅ paya
+  Liptaya kaleje se sab ahwaal sunaya
+  Ummat ne kiya Naana ki kis darja pareshaan
 
   4
-  Nagah Sakina pe chali zulm ki talwar
-  Zindaṅ meiṅ namudar hua Shimr-e-sitamgar
-  Aur chhina Sakina se sar-e-Sarwar-e-zishaṅ
+  Naagaah Sakina pe chali zulm ki talwaar
+  Zindaaṅ meiṅ namudaar hua Shimr-e-sitamgar
+  Aur chhina Sakina se sar-e-Sarwar-e-zishaaṅ
 
   5
-  Sar pit ke yuṅ kehne lagi madar-e-muztar
-  Haye haye meri bachi mere sar par nahi chadar
-  Kis tarah se dukhiya maiṅ karuṅ kafan ka samaṅ
+  Sar pit ke yuṅ kehne lagi maadar-e-muztar
+  Haye haye meri bachchi mere sar par nahiṅ chaadar
+  Kis tarah se dukhiya maiṅ karuṅ kafan ka saamaaṅ
 
   6
-  Majlis meiṅ Sakina ke liye shor o fughaṅ hai
-  Abbas dua mang lo ye waqt-e-dua hai
-  Jo dil meiṅ tumhare hoṅ wo sab pure hoṅ armaṅ
+  Majlis meiṅ Sakina ke liye shor o fughaaṅ hai
+  Abbaas dua maang lo ye waqt-e-dua hai
+  Jo dil meiṅ tumhaare hoṅ wo sab pure hoṅ armaaṅ
 ---
 
 زنداں زنداں نہ بھولیں گے ہم شام کا زنداں

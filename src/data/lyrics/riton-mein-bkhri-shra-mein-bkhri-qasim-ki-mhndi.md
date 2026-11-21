@@ -8,6 +8,54 @@ reciter: "Dr. Aamir Rizvi"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Retoṅ meiṅ bikhri sahra meiṅ bikhri
+  Maaṅ ko rulaaye Qaasim ki mehndi
+  Kubra ka baaba chaadar bichha ke
+  Chun chun ke daale Qaasim di mehndi
+
+  2
+  Khaimoṅ ke andar jab mehndi aai
+  Qaasim ki maaṅ ne sar khaak daali
+  Dulhan ka baaba behneṅ bula ke
+  Ro ro dikhaaye Qaasim ki mehndi
+
+  3
+  Kuchh laash ghore samoṅ meiṅ le gaye
+  Kuchh us ke tukre maqtal meiṅ reh gaye
+  Sayyid musaafir Qaasim ki maaṅ se
+  Kaise chhupaaye Qaasim ki mehndi
+
+  4
+  Tukre badan ke maidaaṅ meiṅ bikhre
+  Qaasim ki maadar dekhe gi kaise
+  Dubi hai khuṅ meiṅ dasht-e-junuṅ meiṅ
+  Kal jo lagaai Qaasim ki mehndi
+
+  5
+  Gathri meiṅ laasha laate haiṅ Maula
+  Dulhan ka ya Rab kya haal yoga
+  Ik shab ki dulhan kaise jiye gi
+  Jab yaad aai Qaasim ki mehndi
+
+  6
+  Sar par amaama haathoṅ meiṅ kangna
+  Poshaak pehni kaisi shaahaani
+  Afsos lekin dast-e-ajal ko
+  Ik pal na bhaai Qaasim ki mehndi
+
+  7
+  Mehndi laga ke armaan maaṅ ke
+  Do din bhi pure hone na paaye
+  Ik shab hi guzri maqtal meiṅ ja ke
+  Khuṅ meiṅ nahaai Qaasim ki mehndi
+
+  8
+  Kehte the Sarwar dil ko pakar kar
+  Kubra ka kaisa bigra muqaddar
+  Ik shab ka dulha maara gaya hai
+  Purse ko aai Qaasim ki mehndi
 ---
 
 ۱

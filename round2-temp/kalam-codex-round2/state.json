@@ -45253,34 +45253,2019 @@
         "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3e4e44082908429d9633f676bc05ffb0/after.md"
       },
       "at": "2026-11-21T07:58:00+00:00"
+    },
+    "src/data/lyrics/rasul-e-akram-ka.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited each Roman line against the Urdu in [rasul-e-akram-ka.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/406bf9fdd5ca40edb41900440dc24585/src/data/lyrics/rasul-e-akram-ka.md:27). Lowercased the mid-verse vocative `Ae` to `ae` in stan",
+      "content_sha256": "7d8b3f9004508ced224ae1e865efef4b7ee4173e2a84381d57c2edb58f5e0866",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075800Z-2182747-622145.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 101335,
+        "cached_input_tokens": 93824,
+        "output_tokens": 551,
+        "reasoning_output_tokens": 202
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 52.29,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/406bf9fdd5ca40edb41900440dc24585/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/406bf9fdd5ca40edb41900440dc24585/after.md"
+      },
+      "at": "2026-11-21T07:58:52+00:00"
+    },
+    "src/data/lyrics/rat-naal-hanera-akhiyaan-wich-kar-ke-abid-turda-aaway-lyrics-in-punjab-tajpoints-0f37f9eb65b4b9923304.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 12 verses in Shahmukhi Punjabi across three matching stanzas. Preserved the Roman wording in `romanLyrics`, updated the titles and script metadata, and removed `noUrdu`.\n\nI read “Rat” as رَت (blood) and rendered the ambiguous “Muhar",
+      "content_sha256": "7309ec9f1e14016b4e93a83780a4c84ea54e0d6a44d860e4dcd023a1d7ff4c38",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075852Z-2182747-151930.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 103074,
+        "cached_input_tokens": 87424,
+        "output_tokens": 2316,
+        "reasoning_output_tokens": 287
+      },
+      "lang": "pa",
+      "language": "Panjabi",
+      "duration_seconds": 66.44,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3184c4695f5c4f6f86baecf14f946e63/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3184c4695f5c4f6f86baecf14f946e63/after.md"
+      },
+      "at": "2026-11-21T07:59:59+00:00"
+    },
+    "src/data/lyrics/rat-rukh-jaway-rat-rukh-jaway-beemar-muhari-da-nw-11ca81a75727.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 23 verses in Shahmukhi Punjabi and preserved the Roman wording in `romanLyrics`. Both versions have the same opening and seven numbered stanzas. The dialect throughout the poem supports the change from Urdu to Punjabi metadata.\n\nThe",
+      "content_sha256": "4a0f10a02ddd6d058e6353ffd8887207196643e95075020b93e8acc6272dab16",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075959Z-2182747-427434.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 60226,
+        "cached_input_tokens": 52352,
+        "output_tokens": 1473,
+        "reasoning_output_tokens": 0
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 362.89,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/5af165cdc9c44e85a421e636d5860df1/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/5af165cdc9c44e85a421e636d5860df1/after.md"
+      },
+      "at": "2026-11-21T08:06:02+00:00"
+    },
+    "src/data/lyrics/rauza-nahin-husain.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 34 Roman verse lines against the Urdu in [rauza-nahin-husain.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/5aeb9b9e9e6d4b4cb952163984e345db/src/data/lyrics/rauza-nahin-husain.md). Corrected `meinaar` to `miyaar`, `ada` to `a",
+      "content_sha256": "c31620d8ca5edea2937d0aa4a3c60197cdcc6e55fc7c16d922755f36bd2c4302",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080604Z-2182747-474122.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 105073,
+        "cached_input_tokens": 88448,
+        "output_tokens": 1174,
+        "reasoning_output_tokens": 272
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.79,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/5aeb9b9e9e6d4b4cb952163984e345db/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/5aeb9b9e9e6d4b4cb952163984e345db/after.md"
+      },
+      "at": "2026-11-21T08:06:55+00:00"
+    },
+    "src/data/lyrics/rauze-ko-dhaa-diya.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 15 Roman verses against the Urdu in [rauze-ko-dhaa-diya.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/7681b3c47aa24a1890d43030a024db50/src/data/lyrics/rauze-ko-dhaa-diya.md). Corrected `maaṅgi` to `maangi` and `aaṅsuoṅ` to `",
+      "content_sha256": "f8c95f4d46558a3574acdbf228276785c9947d8f692e18f0f006060098bb2a0d",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080655Z-2182747-975672.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 101496,
+        "cached_input_tokens": 80768,
+        "output_tokens": 551,
+        "reasoning_output_tokens": 135
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 33.31,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/7681b3c47aa24a1890d43030a024db50/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/7681b3c47aa24a1890d43030a024db50/after.md"
+      },
+      "at": "2026-11-21T08:07:28+00:00"
+    },
+    "src/data/lyrics/rauze-pe-mustafa-ke.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 64 verses in [rauze-pe-mustafa-ke.md](src/data/lyrics/rauze-pe-mustafa-ke.md) against the Urdu. Corrected Roman spellings and izafat, and verified alignment across the preamble and all 15 stanzas. The Urdu text and metadata were preserved",
+      "content_sha256": "ef4470730098304b8f4a4d7c46d85d388e0d7197b7a92fa4421521e7d1cbe684",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080729Z-2182747-996612.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 86622,
+        "cached_input_tokens": 68352,
+        "output_tokens": 935,
+        "reasoning_output_tokens": 159
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 37.8,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9d38854971794dd39579e1b430c77130/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9d38854971794dd39579e1b430c77130/after.md"
+      },
+      "at": "2026-11-21T08:08:06+00:00"
+    },
+    "src/data/lyrics/rawaan-veraan-diyaan-wekhaan-rawaan-lyrics-2022-tajpoints-aab16a1778ab50167874.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 20 verses in Shahmukhi Punjabi and preserved their wording and order in `romanLyrics`. Updated the language metadata to match the Punjabi grammar and kept the recitation credits in YAML comments.\n\nI read the ambiguous “Khadaway” as ",
+      "content_sha256": "26a7e29f3d2f7c5aea7c2abf5d35abcc2cc54a0bb9235c69e607d37277a48284",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080806Z-2182747-156902.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 82072,
+        "cached_input_tokens": 73216,
+        "output_tokens": 2045,
+        "reasoning_output_tokens": 175
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 60.65,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/80797ce005b94962a98aca4524742093/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/80797ce005b94962a98aca4524742093/after.md"
+      },
+      "at": "2026-11-21T08:09:07+00:00"
+    },
+    "src/data/lyrics/rawaana-nehr-e-laban.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 72 verses across 12 stanzas in `rawaana-nehr-e-laban.md`. Corrected Roman wording and spellings against the Urdu, including restoring the repeated `aankhoṅ ki aankhoṅ` in stanza 7. The Urdu body and metadata were preserved.\n\nThe Roman `na",
+      "content_sha256": "a540e45f4a86a6a6c72f6045a808e8971164c58315e24afa92d147b33c11f45b",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080907Z-2182747-576886.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 87405,
+        "cached_input_tokens": 60416,
+        "output_tokens": 1477,
+        "reasoning_output_tokens": 186
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.03,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/be477932e86a4145bb90c553c4ba0548/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/be477932e86a4145bb90c553c4ba0548/after.md"
+      },
+      "at": "2026-11-21T08:09:57+00:00"
+    },
+    "src/data/lyrics/raza-da-baba-tu-aayan-ae-tur-vi-chaliyan-ain.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 34 Roman verses against the source. Corrected mismatches including `Hilal` to `Bilal` and restored the source wording in stanza 5’s line about Mola Jafar. Verified that the opening and all six stanzas align line by line.\n\nOnly `romanLyric",
+      "content_sha256": "0a1cedf2dd385438671afb78e4aec826b633d3e17e8b9f603d4a4f3400da3a2e",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080957Z-2182747-851184.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 62329,
+        "cached_input_tokens": 53888,
+        "output_tokens": 1209,
+        "reasoning_output_tokens": 126
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.33,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3a699acf19d6433cb53628327f7485b6/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3a699acf19d6433cb53628327f7485b6/after.md"
+      },
+      "at": "2026-11-21T08:10:48+00:00"
+    },
+    "src/data/lyrics/raza-e-imam-e-raza-chahta-hun-syed-mohammad-shah-tajpoints-3d905e9098245c42ade2.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body and kept all 21 Roman lines in `romanLyrics` in their original order. I retained the title-like opening line in both versions because it appeared in the numbered stanza. I also set the Urdu title and right-to-left directio",
+      "content_sha256": "90b7d4a66b6d657dfd28e323837d245842bfacc76eff7148526ff43cf5530611",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081048Z-2182747-944260.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80943,
+        "cached_input_tokens": 67328,
+        "output_tokens": 2096,
+        "reasoning_output_tokens": 110
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 58.05,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3eb6eeaf27324f6da300affb046f6568/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3eb6eeaf27324f6da300affb046f6568/after.md"
+      },
+      "at": "2026-11-21T08:11:46+00:00"
+    },
+    "src/data/lyrics/raza-kay-dar-pe-ek-sajda-bohat-hai-tajpoints-a52a6116360def52c170.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 20 verses in Urdu script and preserved their Roman wording in `romanLyrics`. Verified that both versions have 20 lines in the same stanza. Set the direction to RTL and removed the `noUrdu` tag.\n\nI treated the opening title and bylin",
+      "content_sha256": "c1233aacb7ac754a4824bb766050932465d7919915d3fa920fc5734ad2476dcf",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081146Z-2182747-497009.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 102412,
+        "cached_input_tokens": 93568,
+        "output_tokens": 2120,
+        "reasoning_output_tokens": 99
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 64.17,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/a940792e21f144aea8620182f5177a72/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/a940792e21f144aea8620182f5177a72/after.md"
+      },
+      "at": "2026-11-21T08:12:50+00:00"
+    },
+    "src/data/lyrics/raza-ke-baba-ka-zill-e-raza-zaidi-tajpoints-f13e21a3bd29b0d237fa.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body and preserved all 24 Roman lines in `romanLyrics`, with both versions aligned across six stanzas. Added the Urdu title and Roman alternate title, set right-to-left direction, and removed the `noUrdu` tag.\n\nI rendered the a",
+      "content_sha256": "9a6871e15da3be50efcfe7a999c84774d2c1cf653214bbb11fd1c373e321ecd6",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081251Z-2182747-871471.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 81744,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1877,
+        "reasoning_output_tokens": 78
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 53.09,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/825ce780cea74553a7f5bf9ba78fed2b/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/825ce780cea74553a7f5bf9ba78fed2b/after.md"
+      },
+      "at": "2026-11-21T08:13:44+00:00"
+    },
+    "src/data/lyrics/raza-ke-rozey-par-tajpoints-60512dc100423920744e.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 29 verses in Urdu script and retained the Roman wording in `romanLyrics`. Verified that both editions align line by line and preserve the existing stanza and the میر حسن takhallus.\n\nSet the Urdu title and right-to-left direction, re",
+      "content_sha256": "b16ec95956c2c98104d3b8a9c0ce7ff73c077020b36dc0de7a5c2f98668c5100",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081344Z-2182747-371328.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80760,
+        "cached_input_tokens": 72704,
+        "output_tokens": 1930,
+        "reasoning_output_tokens": 93
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 55.44,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/5b2fa733feee4afe852d262159a6cd18/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/5b2fa733feee4afe852d262159a6cd18/after.md"
+      },
+      "at": "2026-11-21T08:14:39+00:00"
+    },
+    "src/data/lyrics/raza-ki-raza-se-syed-mohammad-shah-tajpoints-d9327057222c60c45842.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 20 verses in Urdu script and verified that they align with the Roman transcription across all five stanzas. Preserved the Roman wording in `romanLyrics`, updated the title and right-to-left direction, and removed the `noUrdu` tag. O",
+      "content_sha256": "a2bb09c3f60c3f4b01843a0265ae97d19174670b135b3fa2f0d5867eb3d9b7be",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081439Z-2182747-250708.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80705,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1960,
+        "reasoning_output_tokens": 110
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 58.06,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c2cd1b0ce11f44268f917f0c08d5aada/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c2cd1b0ce11f44268f917f0c08d5aada/after.md"
+      },
+      "at": "2026-11-21T08:15:37+00:00"
+    },
+    "src/data/lyrics/raza-ko-aalam-e-ghurbat-mein-maut-aayi-hai.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added `romanLyrics: |-` for all 33 verses in [the selected lyric](/home/ghayur/.local/state/kalam-codex-round2/workspaces/e6b72a13d21447c1972057c09a936865/src/data/lyrics/raza-ko-aalam-e-ghurbat-mein-maut-aayi-hai.md). Verified that the Roman transcr",
+      "content_sha256": "44b005c4dc17bf3d5f787780edc252c4b64147146bc0bcc056271e5dfe30b0c6",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081538Z-2182747-31457.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 102800,
+        "cached_input_tokens": 94592,
+        "output_tokens": 1325,
+        "reasoning_output_tokens": 31
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 49.93,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/e6b72a13d21447c1972057c09a936865/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/e6b72a13d21447c1972057c09a936865/after.md"
+      },
+      "at": "2026-11-21T08:16:28+00:00"
+    },
+    "src/data/lyrics/rb-jane-knj-hq-lin-lii-zehra-ajri-darbar-gayi.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the lyric in Shahmukhi Punjabi and updated the language metadata to match the verse. The Roman wording remains in `romanLyrics`, with the opening and all six stanzas aligned verse by verse. The reading `لگدۂ ہذیان` remains uncertain. On",
+      "content_sha256": "d6e282b7a918f4958e573a805b741fe1e392475373ce78e312c815ab4efd5f2a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081628Z-2182747-639540.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 79798,
+        "cached_input_tokens": 71936,
+        "output_tokens": 1515,
+        "reasoning_output_tokens": 168
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.69,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c16ca4742802406bbe673334655fef6d/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c16ca4742802406bbe673334655fef6d/after.md"
+      },
+      "at": "2026-11-21T08:17:18+00:00"
+    },
+    "src/data/lyrics/rb-janre-kion-sayyidan-non-ae-kufa-ras-na-aaya-haye.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added the complete `romanLyrics` transcription for the opening and all six stanzas. Verified matching verse counts in each stanza and preserved the original body. The inline numeric labels were omitted from the pronunciation transcription.",
+      "content_sha256": "5fb1f3830ff5a71e682158a223074c1738ce377846ea7fbac3c61d853e40e3b9",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081718Z-2182747-520019.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 100887,
+        "cached_input_tokens": 80512,
+        "output_tokens": 987,
+        "reasoning_output_tokens": 57
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 40.46,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/668a38710b5d42fdb09466183255368a/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/668a38710b5d42fdb09466183255368a/after.md"
+      },
+      "at": "2026-11-21T08:17:59+00:00"
+    },
+    "src/data/lyrics/rb-ko-ali-khon-ke-ali-ko-khuda-khon.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added `romanLyrics: |-` with a pronunciation transcription of all six verses, preserving the opening and both numbered stanzas. Verified that the Urdu body is byte-for-byte unchanged.",
+      "content_sha256": "a579f9d1f85aee94a23c17aae9051acf55a91fd6de41f07848a0dce7191307ba",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081759Z-2182747-182583.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 79720,
+        "cached_input_tokens": 66304,
+        "output_tokens": 880,
+        "reasoning_output_tokens": 83
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 38.11,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/8bae75ed81b74b1da502865737cc66b0/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/8bae75ed81b74b1da502865737cc66b0/after.md"
+      },
+      "at": "2026-11-21T08:18:37+00:00"
+    },
+    "src/data/lyrics/reh-ga-ey-dasht-e-musibat-main-sakina-nw-bcca6e0cc094.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 23 verses in Urdu script and preserved the original Roman wording in `romanLyrics`, adjusting capitalization. Both editions have a two-verse opening and seven matching numbered stanzas. Updated the title and text direction and remov",
+      "content_sha256": "d152f9174a091d50e80eb253c96054e4675b9df07749122aaed7b6066ac489fc",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081837Z-2182747-191211.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 97474,
+        "cached_input_tokens": 84096,
+        "output_tokens": 1820,
+        "reasoning_output_tokens": 88
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 56.71,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/aaf1c9e72dce41a7804c76be4ae10867/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/aaf1c9e72dce41a7804c76be4ae10867/after.md"
+      },
+      "at": "2026-11-21T08:19:34+00:00"
+    },
+    "src/data/lyrics/reh-gayi-dasht-mein.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 36 Roman lines against the Urdu source. Changed `Ambaar` to `Anbaar` in stanza 2 to reflect the ن in انبار. The Urdu text and stanza structure were preserved.",
+      "content_sha256": "e318daea4e2cf0d623c3b4eddb01971a0d88b64e178a08fc82c8fb6bce12432a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081934Z-2182747-79902.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 77870,
+        "cached_input_tokens": 71168,
+        "output_tokens": 524,
+        "reasoning_output_tokens": 256
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 44.23,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/31cd4b0944584b00bc349b169c2dc679/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/31cd4b0944584b00bc349b169c2dc679/after.md"
+      },
+      "at": "2026-11-21T08:20:19+00:00"
+    },
+    "src/data/lyrics/rehman-gawah-main-thak-payi-aan-lyrics-in-saraiki-2003-tajpoints-ff5205a8eecbce32ebc3.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 12 verses in Saraiki Arabic script across two stanzas and preserved the Roman wording in `romanLyrics`. Updated the title and script metadata and removed the resolved `noUrdu` tag. Only the selected lyric was edited.\n\nI treated the ",
+      "content_sha256": "1abb35670a45340394b3f0c95614f8539d07c60685f72b96dd53c7f93315f551",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082019Z-2182747-92428.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 59381,
+        "cached_input_tokens": 52096,
+        "output_tokens": 1267,
+        "reasoning_output_tokens": 222
+      },
+      "lang": "skr",
+      "language": "Saraiki",
+      "duration_seconds": 45.59,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/fb1be4140a344497a07c22658e766980/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/fb1be4140a344497a07c22658e766980/after.md"
+      },
+      "at": "2026-11-21T08:21:04+00:00"
+    },
+    "src/data/lyrics/rehti-hain-ibadat-mein-azadar-ki-sansein-tajpoints-c3756cef9a2955e20146.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all nine verses in Urdu script and kept the Roman wording in `romanLyrics`. Verified that both versions have nine lines in the same stanza. Set the Urdu title and right-to-left direction, retained the Roman title as `alternateTitle`, an",
+      "content_sha256": "32a7698bd4098ea35c72f5d4d0572b57c4bff48e6b4bac61fe26dd6cb4e73183",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082104Z-2182747-427929.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 55612,
+        "cached_input_tokens": 49792,
+        "output_tokens": 925,
+        "reasoning_output_tokens": 55
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 42.33,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/524c325a70324f6e85c3e75962665cc2/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/524c325a70324f6e85c3e75962665cc2/after.md"
+      },
+      "at": "2026-11-21T08:21:47+00:00"
+    },
+    "src/data/lyrics/reza-nahe-milti-saleem-mastan-tajpoints-d9138c267859650d75af.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 28 verses in Urdu script in the [selected lyric](src/data/lyrics/reza-nahe-milti-saleem-mastan-tajpoints-d9138c267859650d75af.md). Preserved the original Roman wording and order in `romanLyrics`, adjusting capitalization and removin",
+      "content_sha256": "52a5aadff530afa0299b34a310f85ea219f2daca9d203501a61ba062a39e29c4",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082147Z-2182747-547463.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 59644,
+        "cached_input_tokens": 52096,
+        "output_tokens": 1213,
+        "reasoning_output_tokens": 41
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 56.63,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/64a4f9075d014c189c9c6e3eddd7380e/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/64a4f9075d014c189c9c6e3eddd7380e/after.md"
+      },
+      "at": "2026-11-21T08:22:44+00:00"
+    },
+    "src/data/lyrics/rh-gayi-ali-ki-biti-gham-athane-ke-lie.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 12 verses in Urdu and preserved the Roman wording in `romanLyrics`. Verified that the opening and six numbered stanzas align in both editions. Set the direction to RTL and removed the `noUrdu` tag.\n\nI read `bahwafa` as `باوفا` and `",
+      "content_sha256": "916020214da42c84d4a5744d571b922fb0f647a416761bee01e8a1bfd4d08456",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082244Z-2182747-142305.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 121567,
+        "cached_input_tokens": 101120,
+        "output_tokens": 1676,
+        "reasoning_output_tokens": 105
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 58.56,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3193582c172e402a8444883e78414e61/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3193582c172e402a8444883e78414e61/after.md"
+      },
+      "at": "2026-11-21T08:23:42+00:00"
+    },
+    "src/data/lyrics/rida-hai-sar-pe-na-bhai-ka-sar-pe-saya-hai-tajpoints-9a305184c7a656391164.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body from the Roman transcription, preserving the opening and both six-verse stanzas. Moved the Roman wording to `romanLyrics`, added the Urdu title, set right-to-left direction, and removed `noUrdu`.\n\nThe phrase `zaban hai rak",
+      "content_sha256": "f4dee10827b26bea6ba853d8ba7aca5f8a896502b139d6b7dd532634eeaf9df8",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082345Z-2182747-831149.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain, kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 58448,
+        "cached_input_tokens": 46208,
+        "output_tokens": 727,
+        "reasoning_output_tokens": 32
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 31.99,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/2fa8bf0401904e11945fdf690e39491b/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/2fa8bf0401904e11945fdf690e39491b/after.md"
+      },
+      "at": "2026-11-21T08:24:17+00:00"
+    },
+    "src/data/lyrics/rida-koi-nayi-hasan-sadiq-lyrics-in-punjabi-2006-tajpoints-26f8f1c9edd772506ea1.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 20 verses of **ردا کوئی نئیں** in Shahmukhi Punjabi and preserved the Roman wording in `romanLyrics`. Updated the script metadata to `pa-Arab` and removed the `noUrdu` tag.\n\nThe Roman reading `Jhanr` is ambiguous. I rendered it as `",
+      "content_sha256": "96c69b6715ca77f56c83cadf14d6df59175088ea0425ac5deba80b0c7ff1aff4",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082417Z-2182747-44520.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 81627,
+        "cached_input_tokens": 65792,
+        "output_tokens": 2296,
+        "reasoning_output_tokens": 123
+      },
+      "lang": "pa",
+      "language": "Panjabi",
+      "duration_seconds": 65.59,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/4f9afef91b914f23b189ecde35c54674/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/4f9afef91b914f23b189ecde35c54674/after.md"
+      },
+      "at": "2026-11-21T08:25:22+00:00"
+    },
+    "src/data/lyrics/rida-laake-udhade.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 44 Roman verse lines against the Urdu source. Corrected phonetic spellings, nasalization, izafat, and word spacing. Verse order, repeated refrains, Urdu text, and metadata were preserved.\n\nThe Urdu spelling `گر` leaves the vowel ambiguous",
+      "content_sha256": "8fd1b00bfeee99025d400d5f7c0192d5ca5a0ddd549a1eefa13c3547ff16d068",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082523Z-2182747-700233.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 79867,
+        "cached_input_tokens": 66304,
+        "output_tokens": 1114,
+        "reasoning_output_tokens": 106
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 41.42,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/85304819d64549c19feb68958c243789/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/85304819d64549c19feb68958c243789/after.md"
+      },
+      "at": "2026-11-21T08:26:04+00:00"
+    },
+    "src/data/lyrics/rida-v-na-rayi-zainab-de-sir-te-na-riye-lyrics-2019-tajpoints-389f383f0c4eccd25b3e.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 16 verses in Shahmukhi Punjabi and verified that they align with the Roman transcription across all four stanzas. Preserved the Roman wording in `romanLyrics`, updated the language metadata, and removed the missing-source tag.\n\nI re",
+      "content_sha256": "0a22949748eb436f0e6f4ceaf8e2712262175313aed7e9ae8def7bca40b032fc",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082604Z-2182747-625700.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 77268,
+        "cached_input_tokens": 63744,
+        "output_tokens": 2121,
+        "reasoning_output_tokens": 113
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 67.9,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/16c73259d66b4bf7b9dcc3e4e1983837/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/16c73259d66b4bf7b9dcc3e4e1983837/after.md"
+      },
+      "at": "2026-11-21T08:27:12+00:00"
+    },
+    "src/data/lyrics/ridawaan-de-diyo-rawaan-de-diyo-mso-lyrics-2023-tajpoints-df19add54255b8ceff8b.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 12 verses in Shahmukhi Punjabi and kept the Roman wording in `romanLyrics`. The verse grammar supports Punjabi, so I updated the language metadata and removed the missing-source tag.\n\nAll three stanzas match verse for verse. I read ",
+      "content_sha256": "b41b5fdd99631ab83346b03c7326804a087685fadff110cebe728904470323bd",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082712Z-2182747-455901.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 59318,
+        "cached_input_tokens": 46720,
+        "output_tokens": 1202,
+        "reasoning_output_tokens": 194
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 43.42,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/dd83903f8fd3486bbbbd8f6d5b9d7534/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/dd83903f8fd3486bbbbd8f6d5b9d7534/after.md"
+      },
+      "at": "2026-11-21T08:27:56+00:00"
+    },
+    "src/data/lyrics/ridawaan-leh-gayiyaan-ghazi-te-bhaina-be-rida-ho-gayiyaan.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 18 verses in Shahmukhi Punjabi and kept the original Roman wording in `romanLyrics`. Both versions have a two-verse opening and eight numbered stanzas. I updated the language metadata to Punjabi based on the grammar and removed the ",
+      "content_sha256": "d51e38e2202eff98d4289b245bc29e059887fbcd79c6b4291aaefc0ba8488bdd",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082756Z-2182747-408070.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 103328,
+        "cached_input_tokens": 86400,
+        "output_tokens": 2355,
+        "reasoning_output_tokens": 248
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 65.14,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/47c17ef5578f4c5681da679b26f6b1cc/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/47c17ef5578f4c5681da679b26f6b1cc/after.md"
+      },
+      "at": "2026-11-21T08:29:01+00:00"
+    },
+    "src/data/lyrics/ridawan-qaid-hogayiyan-mir-hasan-mir-lyrics-2024-tajpoints-b0dd9e40763c1f4bf897.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 20 verses in Shahmukhi Punjabi and verified that they align line for line with `romanLyrics`, including the two-line opening. Updated the language metadata to `Panjabi` (`pa-Arab`, right-to-left) because the verse grammar is Punjabi",
+      "content_sha256": "a3aab5837adbe9a2d236b81b8d785d17d998647db281da60f04d3b5b8b41e6c2",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082901Z-2182747-803736.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 103246,
+        "cached_input_tokens": 87936,
+        "output_tokens": 2815,
+        "reasoning_output_tokens": 278
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 75.07,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/b16d3cff1c6042b785475039a3387e13/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/b16d3cff1c6042b785475039a3387e13/after.md"
+      },
+      "at": "2026-11-21T08:30:16+00:00"
+    },
+    "src/data/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-hogi.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited the opening and all seven stanzas verse by verse. Corrected Roman long vowels, nasal endings, and punctuation, including `Jawaan` for جوان and `jawaaṅ` for جواں. Verified that the Urdu text and metadata were preserved byte for byte and that t",
+      "content_sha256": "62e29d71dc1152d979054b9250388cf63b3f9a465618ab72f6df369852a29875",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083016Z-2182747-198153.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 64306,
+        "cached_input_tokens": 49024,
+        "output_tokens": 1147,
+        "reasoning_output_tokens": 72
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 41.76,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/395522fb69a94a99b4bfb65c64f586ce/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/395522fb69a94a99b4bfb65c64f586ce/after.md"
+      },
+      "at": "2026-11-21T08:30:58+00:00"
+    },
+    "src/data/lyrics/risalat-da-logo-sila-mangdi-rayi-ay-syed-wajhi-hasan-tajpoints-1ac439312b0b3c79157b.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 16 verses in Shahmukhi, preserving the Urdu lines and the Roman wording in `romanLyrics`. Both versions have four matching stanzas.\n\nSet the language metadata to Panjabi (`pa-Arab`) based on the prevailing dialect. The final stanza’",
+      "content_sha256": "cf73277c827ed74c21ad5ebe67cdd5887b9df33599d93c051b359e4b39556fa5",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083058Z-2182747-648322.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 122863,
+        "cached_input_tokens": 100608,
+        "output_tokens": 1800,
+        "reasoning_output_tokens": 101
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 68.58,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/0f5d1df6b4bc4f23a2025d3cc95e0716/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/0f5d1df6b4bc4f23a2025d3cc95e0716/after.md"
+      },
+      "at": "2026-11-21T08:32:07+00:00"
+    },
+    "src/data/lyrics/rishta-ali-se-fatima-zahra-ka-joor-ke-tajpoints-f0c5b7dfc31a94c9efc8.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body for [Rishta Ali Se Fatima Zahra Ka Joor Ke](src/data/lyrics/rishta-ali-se-fatima-zahra-ka-joor-ke-tajpoints-f0c5b7dfc31a94c9efc8.md) and preserved the Roman wording in `romanLyrics`. All 22 verses align across the opening ",
+      "content_sha256": "a55016e2ffbacbac0e7d080c73dcee3ee0f5c859761653ae847bcb10e956ccde",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083207Z-2182747-697447.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80558,
+        "cached_input_tokens": 72192,
+        "output_tokens": 2043,
+        "reasoning_output_tokens": 172
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 76.39,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/ecdc681aa95148a088395322ba953619/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/ecdc681aa95148a088395322ba953619/after.md"
+      },
+      "at": "2026-11-21T08:33:23+00:00"
+    },
+    "src/data/lyrics/ritan-te-dhl-gayi-mtian-che-rl-gayi.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the opening and all seven stanzas in Shahmukhi Punjabi, preserved the Roman wording in `romanLyrics`, and verified that the verse counts and stanza numbering align. Updated the language metadata to Punjabi based on the grammar throughou",
+      "content_sha256": "316adc0765f774ffadd28645c0d0992276487bba2ec6ee22ad4ccdc0fcffb106",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083324Z-2182747-227297.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80981,
+        "cached_input_tokens": 61696,
+        "output_tokens": 2026,
+        "reasoning_output_tokens": 184
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 65.86,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9d1ed28dfaf2424183c0ed6a289a88a9/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9d1ed28dfaf2424183c0ed6a289a88a9/after.md"
+      },
+      "at": "2026-11-21T08:34:29+00:00"
+    },
+    "src/data/lyrics/riton-mein-bkhri-shra-mein-bkhri-qasim-ki-mhndi.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added the complete `romanLyrics` pronunciation transcription and verified that all 32 verses align across the eight Urdu stanzas. The original Urdu body and existing metadata were preserved.",
+      "content_sha256": "1221849dc3869e1ba006b4e5c5010900ab006d8cf1895943655f7b8ce6bea190",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083430Z-2182747-146502.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 117200,
+        "cached_input_tokens": 97792,
+        "output_tokens": 1262,
+        "reasoning_output_tokens": 41
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.67,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/59629e1232434f9cace4a475c371a34e/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/59629e1232434f9cace4a475c371a34e/after.md"
+      },
+      "at": "2026-11-21T08:35:20+00:00"
+    },
+    "src/data/lyrics/riwayat-e-mukhtar-mir-hasan-mir.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 42 Roman verses against the Urdu. Removed the Roman-only title line and aligned the two-line opening and all ten stanzas. Corrected phonetic spellings and restored source wording where the Roman differed. The Urdu body and other metadata ",
+      "content_sha256": "421e8dd6eb5e97c26ead90232abfa3fdf5c333068eb156da8a8d3bb5b9f6579e",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083520Z-2182747-651896.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 81772,
+        "cached_input_tokens": 66560,
+        "output_tokens": 2268,
+        "reasoning_output_tokens": 124
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 64.2,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/140500905a7743b8a3071b3317f7b01b/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/140500905a7743b8a3071b3317f7b01b/after.md"
+      },
+      "at": "2026-11-21T08:36:25+00:00"
+    },
+    "src/data/lyrics/riwayate-ume-salma.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited the Roman transliteration in [riwayate-ume-salma.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/92609390e43446878ab08764f7cf2834/src/data/lyrics/riwayate-ume-salma.md) verse by verse. Corrected phonetic spellings, proper names, a",
+      "content_sha256": "0f825b89335e88787364d87b8001cdb18c9f93328383055ea2f23d227004c430",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083625Z-2182747-181513.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 119692,
+        "cached_input_tokens": 106624,
+        "output_tokens": 3346,
+        "reasoning_output_tokens": 103
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 87.32,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/92609390e43446878ab08764f7cf2834/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/92609390e43446878ab08764f7cf2834/after.md"
+      },
+      "at": "2026-11-21T08:37:52+00:00"
+    },
+    "src/data/lyrics/rn-se-jab-akbar-ka-lashh-aaye-ga.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu script and moved the Roman transcription into `romanLyrics`. Verified that both versions contain the same two-line opening and seven two-line stanzas. Set the direction to RTL and removed the `noUrdu` tag.\n\nI read the ambiguous",
+      "content_sha256": "aaea679160f7335deffb3f27cec34ee243055cffb7588ebe7a0356dbe0dfcb9b",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083752Z-2182747-333668.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 79119,
+        "cached_input_tokens": 66304,
+        "output_tokens": 1050,
+        "reasoning_output_tokens": 19
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 35.81,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/7ca0be76fc69437787668e2f930d04b9/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/7ca0be76fc69437787668e2f930d04b9/after.md"
+      },
+      "at": "2026-11-21T08:38:28+00:00"
+    },
+    "src/data/lyrics/zindan-ka-andhera-2.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 27 Roman verses against the Urdu in [zindan-ka-andhera-2.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/ae684befee4c4d948982c58a8339aa29/src/data/lyrics/zindan-ka-andhera-2.md). Corrected source mismatches such as `naah` → `n",
+      "content_sha256": "e1a1bc44bbe22541008d4ee0080bdd2713842cdb4f3e33ee7664f468ee17b8f0",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083828Z-2182747-127168.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 79162,
+        "cached_input_tokens": 66048,
+        "output_tokens": 1773,
+        "reasoning_output_tokens": 193
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 51.89,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/ae684befee4c4d948982c58a8339aa29/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/ae684befee4c4d948982c58a8339aa29/after.md"
+      },
+      "at": "2026-11-21T08:39:20+00:00"
+    },
+    "src/data/lyrics/zindan-ke-andhere-mein-sehmi-huyi-masooma.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added `romanLyrics` to the [selected lyric](/home/ghayur/.local/state/kalam-codex-round2/workspaces/9ca4453409164187951fc51a1d80ebcb/src/data/lyrics/zindan-ke-andhere-mein-sehmi-huyi-masooma.md). The Roman transcription follows all 14 Urdu verse line",
+      "content_sha256": "0f1722101c6a5b74180a4d95dbb70430a9563c0c47bcbffb71b848ab8a45d43c",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083920Z-2182747-515883.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80240,
+        "cached_input_tokens": 66560,
+        "output_tokens": 814,
+        "reasoning_output_tokens": 123
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 34.72,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9ca4453409164187951fc51a1d80ebcb/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9ca4453409164187951fc51a1d80ebcb/after.md"
+      },
+      "at": "2026-11-21T08:39:55+00:00"
+    },
+    "src/data/lyrics/zindan-ke-andhere-nw-e393576addbf.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu script in [Zindan Ke Andhere](/home/ghayur/.local/state/kalam-codex-round2/workspaces/e2e93d9abe924f608720f169397a0c1f/src/data/lyrics/zindan-ke-andhere-nw-e393576addbf/src/data/lyrics/zindan-ke-andhere-nw-e393576addbf.md). All",
+      "content_sha256": "2a760d30305b00d03c52c9daba2f48f133fbb99cf40b48dcef6fca57942dcbb2",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083955Z-2182747-22487.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 77005,
+        "cached_input_tokens": 64768,
+        "output_tokens": 2090,
+        "reasoning_output_tokens": 41
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 58.29,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/e2e93d9abe924f608720f169397a0c1f/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/e2e93d9abe924f608720f169397a0c1f/after.md"
+      },
+      "at": "2026-11-21T08:40:54+00:00"
+    },
+    "src/data/lyrics/zindan-kha-gaya-aye-kazim-di-nojawani-lyrics-punjabi-2016-tajpoints-e8e67af730d4f768ed67.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 10 verses in Shahmukhi Punjabi and preserved the Roman wording in `romanLyrics`. Checked that both editions have the same opening and two numbered stanzas. Updated the script metadata and removed the missing-source tag.\n\nThe reading",
+      "content_sha256": "5401e8be84e3ddc3458d70df56d2c3d01a0774b01d8d2408b640dec4e257608a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084054Z-2182747-316807.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 123108,
+        "cached_input_tokens": 109056,
+        "output_tokens": 2096,
+        "reasoning_output_tokens": 71
+      },
+      "lang": "pa",
+      "language": "Panjabi",
+      "duration_seconds": 60.56,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/213c31ed2bd34f289c0f1d00172fbd26/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/213c31ed2bd34f289c0f1d00172fbd26/after.md"
+      },
+      "at": "2026-11-21T08:41:54+00:00"
+    },
+    "src/data/lyrics/zindan-ki-sada-dr-amir-rizvi-tajpoints-5749f5c01d4c2d051bad.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 14 Urdu verses in the [selected lyric](/home/ghayur/.local/state/kalam-codex-round2/workspaces/f7820d24896142069c8802995b511105/src/data/lyrics/zindan-ki-sada-dr-amir-rizvi-tajpoints-5749f5c01d4c2d051bad.md) and verified that they m",
+      "content_sha256": "d585719a7e23817c0d0bb6be474c4b3ce6f52931b36d4fe429c33ab6dad2b30a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084154Z-2182747-640407.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 58732,
+        "cached_input_tokens": 46208,
+        "output_tokens": 968,
+        "reasoning_output_tokens": 63
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 32.2,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/f7820d24896142069c8802995b511105/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/f7820d24896142069c8802995b511105/after.md"
+      },
+      "at": "2026-11-21T08:42:27+00:00"
+    },
+    "src/data/lyrics/zindan-may-aaj-tanha-hai-piyasi-sakina-nw-edeb03372b42.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body and preserved the Roman verses in `romanLyrics`. Both editions contain a two-line opening and six numbered couplets. I set the direction to right-to-left and removed the `noUrdu` tag.\n\nI read “Mutti” as مٹّی and retained “",
+      "content_sha256": "dec62421ea86b288c8ee0ddf0dfb2eab1dd9ef61938c6134bbe0fc2392b0ea5d",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084227Z-2182747-236747.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80326,
+        "cached_input_tokens": 66560,
+        "output_tokens": 1853,
+        "reasoning_output_tokens": 232
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 53.9,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/13a45d0d56e94ab790d6696ec973e4f0/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/13a45d0d56e94ab790d6696ec973e4f0/after.md"
+      },
+      "at": "2026-11-21T08:43:21+00:00"
+    },
+    "src/data/lyrics/zindan-may-sakina-3.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 16 Roman verses against the Urdu source in [zindan-may-sakina-3.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/b555da810a5849f9beaa2d28e55bd866/src/data/lyrics/zindan-may-sakina-3.md). Corrected the Roman title and verse spel",
+      "content_sha256": "5da9983f581dabce5550a8e8cfe006b805e34647e7567d4f943a9c62d120eae0",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084321Z-2182747-285743.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 81887,
+        "cached_input_tokens": 67328,
+        "output_tokens": 908,
+        "reasoning_output_tokens": 81
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 32.5,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/b555da810a5849f9beaa2d28e55bd866/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/b555da810a5849f9beaa2d28e55bd866/after.md"
+      },
+      "at": "2026-11-21T08:43:53+00:00"
+    },
+    "src/data/lyrics/zindan-mein-baba-ko-bulati-hai-sakina-tajpoints-d2b50dc1f00e8acb5c05.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body, preserved the Roman wording in `romanLyrics`, and verified that both editions contain 18 verses across a two-verse opening and four stanzas. Updated the title and right-to-left metadata and removed `noUrdu`.\n\nI rendered “",
+      "content_sha256": "d38f35c88c728fa8a9c59a59766cd26a328dfc7fb63004adcb7f6e71bc634116",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084353Z-2182747-18466.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 79702,
+        "cached_input_tokens": 59904,
+        "output_tokens": 1298,
+        "reasoning_output_tokens": 37
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 40.43,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/ac5d9afd607145a086a68cf92fc96dbe/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/ac5d9afd607145a086a68cf92fc96dbe/after.md"
+      },
+      "at": "2026-11-21T08:44:34+00:00"
+    },
+    "src/data/lyrics/zindan-mein-jeena-bhi-baba-tha-koi-jeena-lyrics-2021-latest-tajpoint-079226040743487c9cb7.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 12 verses in Urdu script across three stanzas. Preserved the Roman wording in `romanLyrics` and verified line-by-line alignment. Updated the titles and right-to-left direction, and removed the `noUrdu` tag.\n\nI rendered the ambiguous",
+      "content_sha256": "1b03d24cfc4fa12ebd37c06439ef0f6f3cdd40340719723a8fcb94defad2cbca",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084434Z-2182747-841065.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 79946,
+        "cached_input_tokens": 72192,
+        "output_tokens": 1599,
+        "reasoning_output_tokens": 45
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 47.02,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3f3fa0b65ade4b51a2a99a9e1f2f28a8/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3f3fa0b65ade4b51a2a99a9e1f2f28a8/after.md"
+      },
+      "at": "2026-11-21T08:45:21+00:00"
+    },
+    "src/data/lyrics/zindan-mein-roti-rahi-hai-bali-sakina-tajpoints-cfedec01df222e2d25d1.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu script in the selected lyric and moved the Roman transcription into `romanLyrics`, preserving its wording and verse order. Verified that both versions have a two-verse opening and three four-verse stanzas.\n\nSet the Urdu title a",
+      "content_sha256": "a234538e934882d52ba3aaf5ef9263d55135296fade3a14f647808d919c317eb",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084521Z-2182747-55799.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 75117,
+        "cached_input_tokens": 63488,
+        "output_tokens": 1113,
+        "reasoning_output_tokens": 39
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 39.5,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c68c342bb44f4d3f934cbebbde87e1b9/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c68c342bb44f4d3f934cbebbde87e1b9/after.md"
+      },
+      "at": "2026-11-21T08:46:01+00:00"
+    },
+    "src/data/lyrics/zindan-na-bhulenge.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 20 Roman verses against the Urdu. Corrected `ashkoṅ ka` to `ashkoṅ ko`, restored nasal endings in `Ammaaṅ` and `nahiṅ`, and normalized vowel spellings. The opening and all six stanzas align verse for verse. The Urdu text and metadata are ",
+      "content_sha256": "0fe4e769b77a665aa4af9f4238f2c5b9e6427e2bcebd9c1b83b33449edef8441",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084601Z-2182747-231707.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 83026,
+        "cached_input_tokens": 66816,
+        "output_tokens": 1700,
+        "reasoning_output_tokens": 232
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 58.28,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/a5fed312233648b1b84ff88f6d3a689f/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/a5fed312233648b1b84ff88f6d3a689f/after.md"
+      },
+      "at": "2026-11-21T08:46:59+00:00"
+    },
+    "src/data/lyrics/zindan-se-chht-ke-aabd-bimar-aaye-hain.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu preamble and all 10 stanzas, preserved the Roman reading in `romanLyrics`, and verified the verse counts and stanza breaks. Updated the direction to `rtl`, added the Roman alternate title, and removed the `noUrdu` tag. Only the",
+      "content_sha256": "ee5e4fe53da0be30c43e1adbb77268a669ed77da0d22ad17d060582e5d559da4",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084659Z-2182747-50295.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain, kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 79239,
+        "cached_input_tokens": 70656,
+        "output_tokens": 2947,
+        "reasoning_output_tokens": 151
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 76.63,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3c8b665c9b8b4b2ebfbb980f7432177d/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3c8b665c9b8b4b2ebfbb980f7432177d/after.md"
+      },
+      "at": "2026-11-21T08:48:16+00:00"
+    },
+    "src/data/lyrics/zindan-se-chuth-ke.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited every Roman verse in [zindan-se-chuth-ke.md](src/data/lyrics/zindan-se-chuth-ke.md) against the Urdu. Corrected wording mismatches, including `khud` to `qad`, `azaadaar` to `azaadaari`, and the closing `aaye hai` to `aaye ga`. Normalized vowe",
+      "content_sha256": "bc4bdf1335c4c5fabed880eeb58aef91ea3b21ff6f2b26cf03611b0a1be6099b",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084816Z-2182747-775310.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 84095,
+        "cached_input_tokens": 75008,
+        "output_tokens": 1849,
+        "reasoning_output_tokens": 65
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 58.82,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/2847bad32ab14569a5784f6576684600/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/2847bad32ab14569a5784f6576684600/after.md"
+      },
+      "at": "2026-11-21T08:49:15+00:00"
+    },
+    "src/data/lyrics/zindan-se-chutkar-nw-f5a004da0515.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu-script body and preserved the Roman wording in `romanLyrics`. Verified that all 31 lines align across the opening, nine stanzas, and closing reprise. Updated the title and direction and removed the `noUrdu` tag.\n\nThe Roman phra",
+      "content_sha256": "e5820a73c961d0b4a133d84db121b2d52d19985f1a5cea2e13d7fa2aaf07fc98",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084915Z-2182747-624415.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain, kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 103203,
+        "cached_input_tokens": 86400,
+        "output_tokens": 2282,
+        "reasoning_output_tokens": 97
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 61.54,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/974a1a1b57264d468418b3edf87d81a4/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/974a1a1b57264d468418b3edf87d81a4/after.md"
+      },
+      "at": "2026-11-21T08:50:17+00:00"
+    },
+    "src/data/lyrics/zindan-v-ronda-aye-sun-wain-sakina-de-lyrics-in-punjabi-2026-tajpoint-6488353f7567a1b3c860.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Shahmukhi Punjabi text in the [selected lyric](/home/ghayur/.local/state/kalam-codex-round2/workspaces/d1642b35168b4a759aa136ee8cd39382/src/data/lyrics/zindan-v-ronda-aye-sun-wain-sakina-de-lyrics-in-punjabi-2026-tajpoint-6488353f75",
+      "content_sha256": "2783737310d8028530d4399b116ef9e2872ce01933acf206df289981414017f9",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085017Z-2182747-134832.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 59351,
+        "cached_input_tokens": 46208,
+        "output_tokens": 1265,
+        "reasoning_output_tokens": 146
+      },
+      "lang": "pa",
+      "language": "Panjabi",
+      "duration_seconds": 39.14,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/d1642b35168b4a759aa136ee8cd39382/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/d1642b35168b4a759aa136ee8cd39382/after.md"
+      },
+      "at": "2026-11-21T08:50:56+00:00"
+    },
+    "src/data/lyrics/zkhmi-hoa-hai-tiron-se-hie-tabot-hsn-ka.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added `romanLyrics` for all 26 verses in [the selected lyric](src/data/lyrics/zkhmi-hoa-hai-tiron-se-hie-tabot-hsn-ka.md). Verified that the two opening verses and all eight numbered stanzas align with the preserved Urdu body.",
+      "content_sha256": "aeeac76bc3111d4c900f2cd57d1a0ff1a10d9741c22ea81e2cddb91bb88622b6",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085056Z-2182747-344542.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 124796,
+        "cached_input_tokens": 108544,
+        "output_tokens": 1593,
+        "reasoning_output_tokens": 134
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 53.94,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3b4259ac49ae4494a6da113f48d4cf7c/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/3b4259ac49ae4494a6da113f48d4cf7c/after.md"
+      },
+      "at": "2026-11-21T08:51:50+00:00"
+    },
+    "src/data/lyrics/zkhmi-phlo-hai-jlta-droazh-aao-fzh-snbhalo-zehra-ko.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added the complete `romanLyrics` pronunciation transcription for the opening and all eight stanzas. Verified verse-by-verse alignment and confirmed the Urdu body is byte-for-byte unchanged.",
+      "content_sha256": "3a5eb88c4fd83b84202b79ee1ce220583e3239c3c2145c3167e4134006fe6c7e",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085150Z-2182747-692259.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 77182,
+        "cached_input_tokens": 64512,
+        "output_tokens": 1357,
+        "reasoning_output_tokens": 62
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 47.25,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/274eb3dcd3ed4cd1bdb42ae417a0cb6a/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/274eb3dcd3ed4cd1bdb42ae417a0cb6a/after.md"
+      },
+      "at": "2026-11-21T08:52:38+00:00"
+    },
+    "src/data/lyrics/zmin-pe-kt-ke-gre-srblnd-hone-lge.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added the complete `romanLyrics` transcription and verified that its lines, stanza breaks, and numbering match the Urdu body. The original Urdu and existing metadata were preserved.",
+      "content_sha256": "5808676c68bdf20e80761c02bb5dc9c299f39fb46af7282af2a734d2f3edcc37",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085238Z-2182747-160140.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 117289,
+        "cached_input_tokens": 104192,
+        "output_tokens": 1352,
+        "reasoning_output_tokens": 183
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.4,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/732cdb2839a64c70ae17ddd5014492a9/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/732cdb2839a64c70ae17ddd5014492a9/after.md"
+      },
+      "at": "2026-11-21T08:53:28+00:00"
+    },
+    "src/data/lyrics/zndan-aur-bali-sakina.md": {
+      "status": "edited_local",
+      "task": "roman",
+      "detail": "Applied but not human-approved; Added `romanLyrics` to `zndan-aur-bali-sakina.md` and verified that all 41 verses align across the nine stanzas. The Urdu body was preserved.",
+      "content_sha256": "f624d2b5701c8a5e5e2668279708ce3d108efa8fe59801375a1799818b85e2d4",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085328Z-2182747-487696.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 120308,
+        "cached_input_tokens": 93184,
+        "output_tokens": 1778,
+        "reasoning_output_tokens": 201
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 59.55,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9e4c8eaae2ff40eaa9665a129f0c947e/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9e4c8eaae2ff40eaa9665a129f0c947e/after.md"
+      },
+      "at": "2026-11-21T08:54:28+00:00"
+    },
+    "src/data/lyrics/zndan-mein-sakina-aabd-se-ke-rahi-hai.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited the transliteration verse by verse against the Urdu. Corrected wording and phonetic spelling, aligned all 20 verses across the opening and six numbered stanzas, and removed six Roman lines with no matching verse in the Urdu body.\n\nOnly `roman",
+      "content_sha256": "13b506fea69b9722e6a3e6a5bd805c438333751b8209c7df14a45a16a82d03a9",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085428Z-2182747-585718.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 83004,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1516,
+        "reasoning_output_tokens": 40
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 43.58,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/6f93dd0d60df4be481be7bd8bc495963/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/6f93dd0d60df4be481be7bd8bc495963/after.md"
+      },
+      "at": "2026-11-21T08:55:12+00:00"
+    },
+    "src/data/lyrics/zndh-hai-kaise-banoie-mztr-tere-bghir.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 22 verses in Urdu script and verified that the opening and 10 stanzas align with `romanLyrics`. Added the Roman alternate title, set the direction to RTL, and removed `noUrdu`.\n\nKept `[Edited Out]` in the Roman transcription. Ambigu",
+      "content_sha256": "45ea91e91e6d4f882d8c9be21b5968556a75afa46197bf3aea26d331cb3d5784",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085512Z-2182747-106262.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Hussain"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 80603,
+        "cached_input_tokens": 66560,
+        "output_tokens": 1832,
+        "reasoning_output_tokens": 169
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 52.67,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/f3e18e1fa16143b694f60503840e5bcf/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/f3e18e1fa16143b694f60503840e5bcf/after.md"
+      },
+      "at": "2026-11-21T08:56:04+00:00"
+    },
+    "src/data/lyrics/zoaljnah-ae-zoaljnah-mera-bchh-hai-kahan.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 29 Urdu verse lines against the Roman transliteration. The Roman now follows the source line for line, including its stanza numbering, refrains, and standalone “Fatima Zehra” line. I corrected phonetic spellings and preserved the Urdu bod",
+      "content_sha256": "b17bfb1203d416d52bb4e3ff94c3c4f4d16e79c684e9fb803494161c90b2729a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085604Z-2182747-890876.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 85834,
+        "cached_input_tokens": 75776,
+        "output_tokens": 2213,
+        "reasoning_output_tokens": 153
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 65.65,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9b987a9bc4ef4a2e9fe134d7b1d6e974/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/9b987a9bc4ef4a2e9fe134d7b1d6e974/after.md"
+      },
+      "at": "2026-11-21T08:57:10+00:00"
+    },
+    "src/data/lyrics/zoaljnah-zoaljnah.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu-script body in [zoaljnah-zoaljnah.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/efad69604c93443ba1fac04c4a06e5e8/src/data/lyrics/zoaljnah-zoaljnah.md) and retained the original Roman wording in `romanLyrics`. Veri",
+      "content_sha256": "0f39418469dda30265a6c94f556bc0390bc614ddac590276501107ea2c6fc97a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085710Z-2182747-923629.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 98411,
+        "cached_input_tokens": 85120,
+        "output_tokens": 2825,
+        "reasoning_output_tokens": 251
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 74.03,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/efad69604c93443ba1fac04c4a06e5e8/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/efad69604c93443ba1fac04c4a06e5e8/after.md"
+      },
+      "at": "2026-11-21T08:58:24+00:00"
+    },
+    "src/data/lyrics/zubaan-zubaan-pe-hai.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 24 Roman verses against the Urdu in [zubaan-zubaan-pe-hai.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/b174ad3c60d14614a1054aba8313ee94/src/data/lyrics/zubaan-zubaan-pe-hai.md). Standardized three instances of `meiṅ` to the",
+      "content_sha256": "bd466f7436596c88aa8a55fc3b8907af873a657f9da02e330223b84fbbff1214",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085825Z-2182747-128004.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 82108,
+        "cached_input_tokens": 74240,
+        "output_tokens": 695,
+        "reasoning_output_tokens": 245
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 48.44,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/b174ad3c60d14614a1054aba8313ee94/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/b174ad3c60d14614a1054aba8313ee94/after.md"
+      },
+      "at": "2026-11-21T08:59:13+00:00"
+    },
+    "src/data/lyrics/zuban-e-be-zubani-se-ali-asghar-batatay-hain-tajpoints-7ad0cc5dbaa88458ccd5.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body and preserved the Roman wording in `romanLyrics`. Both versions follow the same two-verse opening and six four-verse stanzas. I added the Urdu title, retained the Roman title as `alternateTitle`, set right-to-left directio",
+      "content_sha256": "6c1f09b7f6f10910edbed478b02e1b2994a0ee652a416d88bae4743982511168",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085913Z-2182747-770936.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 77913,
+        "cached_input_tokens": 65024,
+        "output_tokens": 2302,
+        "reasoning_output_tokens": 57
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 67.71,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/21c2f03e5fdc49248a5c46cfc565523e/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/21c2f03e5fdc49248a5c46cfc565523e/after.md"
+      },
+      "at": "2026-11-21T09:00:21+00:00"
+    },
+    "src/data/lyrics/zuljana-hai-kahan.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 35 Roman verses against the Urdu in [zuljana-hai-kahan.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/8754b8f611454793b9f09f510465eaaa/src/data/lyrics/zuljana-hai-kahan.md). Corrected nasal endings, vowel lengths, consonants,",
+      "content_sha256": "50972c20fc7709e04fd5a7b9b785e3c40f4dd7278ba2fca644995ff73be93ce2",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090021Z-2182747-73066.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 107580,
+        "cached_input_tokens": 97152,
+        "output_tokens": 2393,
+        "reasoning_output_tokens": 153
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 63.04,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/8754b8f611454793b9f09f510465eaaa/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/8754b8f611454793b9f09f510465eaaa/after.md"
+      },
+      "at": "2026-11-21T09:01:24+00:00"
+    },
+    "src/data/lyrics/zuljanah-2.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited and corrected the Roman transliteration in [zuljanah-2.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/c08e5c4d0f2749d39f8fb77c0e31602c/src/data/lyrics/zuljanah-2.md). Rejoined split verses, removed duplicate stanza numbers and th",
+      "content_sha256": "f2875e1e67c850a6409ddf2a26b2e56ddbe8a5c71670935e8b4928df63383f69",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090124Z-2182747-973112.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 83607,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1672,
+        "reasoning_output_tokens": 71
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 51.15,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c08e5c4d0f2749d39f8fb77c0e31602c/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c08e5c4d0f2749d39f8fb77c0e31602c/after.md"
+      },
+      "at": "2026-11-21T09:02:15+00:00"
+    },
+    "src/data/lyrics/zuljanah-3.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited the opening and all nine stanzas of [zuljanah-3.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/c3efac830caa43cfa98820207d16df75/src/data/lyrics/zuljanah-3.md) verse by verse. Corrected Roman nasalization, vowel spellings, consona",
+      "content_sha256": "18bc33bee58f397b839fd409c20a18daa4498209f7f8bf434f5148041cf87560",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090215Z-2182747-614653.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 105336,
+        "cached_input_tokens": 89728,
+        "output_tokens": 1393,
+        "reasoning_output_tokens": 105
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 46.51,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c3efac830caa43cfa98820207d16df75/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/c3efac830caa43cfa98820207d16df75/after.md"
+      },
+      "at": "2026-11-21T09:03:02+00:00"
+    },
+    "src/data/lyrics/zuljanah-aqbal-minal-maidaan-nadeem-sarwar.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited the Roman transliteration verse by verse and aligned all 37 lines with the Urdu preamble and eight stanzas. Corrected phonetic spellings, removed the extra title and refrain material, and converted `romanLyrics` to the required YAML literal b",
+      "content_sha256": "68d1f7cb49c2d36c9b107b77ee6b20f32ce440698ab8559349fb1d969ccf3313",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090302Z-2182747-212680.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 83951,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1792,
+        "reasoning_output_tokens": 195
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 51.59,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/08ff11568ac34ee3909f9443cba50531/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/08ff11568ac34ee3909f9443cba50531/after.md"
+      },
+      "at": "2026-11-21T09:03:54+00:00"
+    },
+    "src/data/lyrics/zuljanah-naam-hai-shabir-ka-rahwar-hun-main.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 54 Roman verses against the Urdu and verified alignment across all nine stanzas. Corrected source mismatches such as `Sahmil` → `shaamil` and `Qayam` → `Qaaim`, along with vowel spelling, nasalization, capitalization, and stray end punctu",
+      "content_sha256": "c2cb48cb553783395202dcaef9d3fc472a68d8276a5c99d0afa88d7b780842d8",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090354Z-2182747-642493.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 114512,
+        "cached_input_tokens": 102016,
+        "output_tokens": 3057,
+        "reasoning_output_tokens": 190
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 78.12,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/f7dc2f7227304c72a38f46d71eb3d37b/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/f7dc2f7227304c72a38f46d71eb3d37b/after.md"
+      },
+      "at": "2026-11-21T09:05:12+00:00"
+    },
+    "src/data/lyrics/zuljanah-nadeem-sarwar-2001-tajpoints-ba9305bedecd543f91e9.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 32 verses in Urdu script, preserving the Persian opening and seven numbered stanzas. Moved the Roman transcription to `romanLyrics`, set the direction to RTL, and removed the `noUrdu` tag. Both editions have matching verse and stanz",
+      "content_sha256": "68183dee33da227ee6935d683c2c90366967514ca8f6bef707ba59c75c459013",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090512Z-2182747-23158.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80893,
+        "cached_input_tokens": 60416,
+        "output_tokens": 2108,
+        "reasoning_output_tokens": 74
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 57.76,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/4798787dd8d34556839edc067446f36a/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/4798787dd8d34556839edc067446f36a/after.md"
+      },
+      "at": "2026-11-21T09:06:10+00:00"
+    },
+    "src/data/lyrics/zuljanah-shahid-baltistani.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 52 verses in [zuljanah-shahid-baltistani.md](/home/ghayur/.local/state/kalam-codex-round2/workspaces/44c4498b91fc44a3b57ec0174949c9a9/src/data/lyrics/zuljanah-shahid-baltistani.md). Aligned the Roman opening and nine numbered stanzas with",
+      "content_sha256": "c42afa1a80f33956497ae21d3adb13866bc1e4b0d328a0d2001440c056c46c85",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090610Z-2182747-547902.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 86367,
+        "cached_input_tokens": 68864,
+        "output_tokens": 2127,
+        "reasoning_output_tokens": 33
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 62.18,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/44c4498b91fc44a3b57ec0174949c9a9/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/44c4498b91fc44a3b57ec0174949c9a9/after.md"
+      },
+      "at": "2026-11-21T09:07:12+00:00"
+    },
+    "src/data/lyrics/zuljenah-ali-jee-tajpoints-75db646abf962588ab0e.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 12 Urdu verses of **ذوالجناح علی جی** and verified that they align with the Roman transcription across three four-verse stanzas. Preserved the Roman wording in `romanLyrics`, set the direction to `rtl`, and removed the `noUrdu` tag.",
+      "content_sha256": "bb802e19ec8b08cf5d8a1b4706671584daa8517ecd14ee06a3aef254832f4728",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090712Z-2182747-816620.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 99704,
+        "cached_input_tokens": 85632,
+        "output_tokens": 1398,
+        "reasoning_output_tokens": 38
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 51.24,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/88b8a26f2bc845d2931ac7c33137ca56/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/88b8a26f2bc845d2931ac7c33137ca56/after.md"
+      },
+      "at": "2026-11-21T09:08:04+00:00"
+    },
+    "src/data/lyrics/zulm-aisa-howa-madine-mein-tajpoints-281462f7efd576fb4992.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 23 verses of [ظلم ایسا ہوا مدینے میں](/home/ghayur/.local/state/kalam-codex-round2/workspaces/2cecb13587624b4088acd2e6e8bdceb4/src/data/lyrics/zulm-aisa-howa-madine-mein-tajpoints-281462f7efd576fb4992.md) in Urdu script. The Roman w",
+      "content_sha256": "dc192dad2a3860170e051236c32983e030d6a28aa62e36ffb41ca7715f2f5944",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090804Z-2182747-413655.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80395,
+        "cached_input_tokens": 65536,
+        "output_tokens": 1974,
+        "reasoning_output_tokens": 214
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 57.26,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/2cecb13587624b4088acd2e6e8bdceb4/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/2cecb13587624b4088acd2e6e8bdceb4/after.md"
+      },
+      "at": "2026-11-21T09:09:01+00:00"
+    },
+    "src/data/lyrics/zulm-bad-e-mustafa-sadaat-pe-kya-ho-gaya-lyrics-2012-tajpoints-974f25704ece74ebcac0.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 14 verses in Urdu script and preserved the Roman wording in `romanLyrics`, with capitalization adjusted to sentence case. Verified that both editions have the same two-verse opening and three four-verse stanzas. Updated the title an",
+      "content_sha256": "e3b6cff98f794c338ade260fc865a55932a32b167b9bde6fd8b54aa038c8a83a",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090901Z-2182747-13421.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 100833,
+        "cached_input_tokens": 79232,
+        "output_tokens": 1640,
+        "reasoning_output_tokens": 43
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 54.6,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/0952100de07e4516af83a924a5a114fc/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/0952100de07e4516af83a924a5a114fc/after.md"
+      },
+      "at": "2026-11-21T09:09:56+00:00"
+    },
+    "src/data/lyrics/zulm-jafar-pe-madina-mein-dhaya-hai-gaya-tajpoints-e111ef698ed131c53eb2.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu title and all 10 verses. The Roman wording is preserved in `romanLyrics` with normalized casing and punctuation. Verified that both editions have a two-verse opening and two four-verse stanzas.\n\nSet the direction to RTL, remove",
+      "content_sha256": "ee1d45e5ae5731a89a5d86e8f2f65ede36e3359252d4f6f257bd2134bc653e61",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090956Z-2182747-979150.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 99701,
+        "cached_input_tokens": 87168,
+        "output_tokens": 1395,
+        "reasoning_output_tokens": 69
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 47.91,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/58b52a10eaec419bb7cac135aab771da/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/58b52a10eaec419bb7cac135aab771da/after.md"
+      },
+      "at": "2026-11-21T09:10:44+00:00"
+    },
+    "src/data/lyrics/zulm-ke-saray-taqaze-aazmane-ke-liye-tajpoints-e3ae7b378392eb60ea84.md": {
+      "status": "needs_human",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu title and all 14 verses in the selected lyric. Preserved the Roman wording in `romanLyrics` and verified that both versions follow the same two-verse opening and three four-verse stanzas. Set the direction to `rtl` and removed ",
+      "content_sha256": "96a4cc8ec9275bc97756a9716ef1dfc146c2eec6d6572b026a049eab7b7ac8d3",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091044Z-2182747-351123.jsonl",
+      "validation_issues": [
+        {
+          "code": "roman_house_spellings",
+          "severity": "warning",
+          "message": "Review noncanonical spellings: Kyun"
+        }
+      ],
+      "token_usage": {
+        "input_tokens": 101150,
+        "cached_input_tokens": 85888,
+        "output_tokens": 1658,
+        "reasoning_output_tokens": 62
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 50.79,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/04d95df2620c43f1bf8e935c5c5c6835/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/04d95df2620c43f1bf8e935c5c5c6835/after.md"
+      },
+      "at": "2026-11-21T09:11:35+00:00"
+    },
+    "src/data/lyrics/zulm-ki-raat-dhalne-wali-hai-tajpoints-82f02315bcc78253eee4.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 17 verses in Urdu script and verified that they align line for line with the Roman wording in `romanLyrics`. Added the Urdu title, retained the Roman alternate title, set right-to-left direction, and removed the `noUrdu` tag.\n\nThe s",
+      "content_sha256": "58f745605870dd8ec4cbf249b6fb9c3de727fdb3da00ab0980ab7f5e09bf8e0f",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091135Z-2182747-763997.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 59995,
+        "cached_input_tokens": 46976,
+        "output_tokens": 963,
+        "reasoning_output_tokens": 37
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 34.06,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/56dd01dfc1364b1a8d59db474ee8ddf3/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/56dd01dfc1364b1a8d59db474ee8ddf3/after.md"
+      },
+      "at": "2026-11-21T09:12:09+00:00"
+    },
+    "src/data/lyrics/zulm-muk-gaye-ne-musalmana-te-har-zakhm-lash-da-aye-dasda-aye-lyrics-p-tajpoints-b8c8a6908999370bd889.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 10 verses in Shahmukhi Punjabi and preserved the Roman wording in `romanLyrics`. Both versions retain the two-line preamble and two four-verse stanzas. Updated the titles and script metadata and removed the missing-source tag.\n\nI re",
+      "content_sha256": "51cecb76d0c972cb4c4d237e9b5c8d078f4e5e71ed54a5084cf0a05d7bebcc7d",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091209Z-2182747-602824.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80080,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1613,
+        "reasoning_output_tokens": 42
+      },
+      "lang": "pa",
+      "language": "Panjabi",
+      "duration_seconds": 46.71,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/093824076bd5448d8d12d1ee307f4a10/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/093824076bd5448d8d12d1ee307f4a10/after.md"
+      },
+      "at": "2026-11-21T09:12:56+00:00"
+    },
+    "src/data/lyrics/zulm-o-sitam-ki-intiha-hai-ye-karbala-hai.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 24 Urdu verses, preserved the original Roman wording in `romanLyrics`, and checked that the verses align across the opening and five numbered stanzas. Set the text direction to RTL and removed the `noUrdu` tag.\n\nI read the ambiguous",
+      "content_sha256": "3f80f072509aaa2d7be7e439dd6709b3e44cc6ae22601fae32898e8366550582",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091256Z-2182747-578978.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 75653,
+        "cached_input_tokens": 68864,
+        "output_tokens": 1432,
+        "reasoning_output_tokens": 94
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 46.09,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/00c2314fb14a441283fd029fabb61031/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/00c2314fb14a441283fd029fabb61031/after.md"
+      },
+      "at": "2026-11-21T09:13:42+00:00"
+    },
+    "src/data/lyrics/zulm-sehti-hai-woh-baba-ke-gham-mein-rone-par-tajpoints-82725674221659a9d6de.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed all 18 verses in Urdu script, preserving the two-line opening and four numbered stanzas. Moved the Roman transcription to `romanLyrics`, added the Urdu title, set right-to-left direction, and removed the `noUrdu` tag. Only the selected ",
+      "content_sha256": "ad7d7975db254a35064b4494c6a9e64f4d1f0143e67ff68bdeeb794518e0dca9",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091342Z-2182747-844122.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 102712,
+        "cached_input_tokens": 87168,
+        "output_tokens": 2201,
+        "reasoning_output_tokens": 38
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 61.16,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/68fb106a2d98457c9ba503cc49427ec9/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/68fb106a2d98457c9ba503cc49427ec9/after.md"
+      },
+      "at": "2026-11-21T09:14:44+00:00"
+    },
+    "src/data/lyrics/zulm-toon-pehlaan-ummat-nane-di-kujh-nayi-sochiya-new-lyrics-2024-tajpoint-82199bebdc688958a067.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the lyric in Shahmukhi Punjabi and preserved the Roman wording in `romanLyrics`. The Punjabi grammar across the verses supports updating the language metadata to `pa-Arab`. Removed the resolved `noUrdu` tag.\n\nVerified that both versions",
+      "content_sha256": "369dda7958fbc79035f5478726bd3fd519192f8d0d4a41355cf3b27df3b976df",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091444Z-2182747-690579.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 81222,
+        "cached_input_tokens": 67072,
+        "output_tokens": 2275,
+        "reasoning_output_tokens": 99
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 61.31,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/abd732d4c09348acb9d53d465765fe16/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/abd732d4c09348acb9d53d465765fe16/after.md"
+      },
+      "at": "2026-11-21T09:15:45+00:00"
+    },
+    "src/data/lyrics/zulm-zahra-par-hoye-tajpoints-572406f45bc70ab1f99c.md": {
+      "status": "edited_local",
+      "task": "source",
+      "detail": "Applied but not human-approved; Reconstructed the Urdu body in the selected lyric and preserved the Roman wording in `romanLyrics`. Verified that both editions have two six-verse stanzas. Added the Urdu title, set the direction to RTL, and removed `noUrdu`.\n\nI rendered the ambiguou",
+      "content_sha256": "29e6dd5c542fd748caf4533716f8220843c470a2b7c7a3ed8cf8cac99ece3e89",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091545Z-2182747-839432.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 99945,
+        "cached_input_tokens": 85888,
+        "output_tokens": 1246,
+        "reasoning_output_tokens": 75
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 47.34,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/bc5124fe21664d7ca1ee10ef400aa468/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/bc5124fe21664d7ca1ee10ef400aa468/after.md"
+      },
+      "at": "2026-11-21T09:16:33+00:00"
+    },
+    "src/data/lyrics/zulmat-nishaan-hai-dahr-tu-hai-roshni-ali.md": {
+      "status": "edited_local",
+      "task": "audit",
+      "detail": "Applied but not human-approved; Audited all 14 Roman verses against the Urdu source. Corrected `ibeda` to `ibda` in stanza 4 to match `اِبدا`. The Urdu text and metadata were preserved. The opening and all six stanzas align verse by verse.",
+      "content_sha256": "6bc4ac9045b6dcfece33ed6fc5f780843d47e898c3d5b1991a0117d9b9a384f6",
+      "transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091633Z-2182747-919676.jsonl",
+      "validation_issues": [],
+      "token_usage": {
+        "input_tokens": 80811,
+        "cached_input_tokens": 67072,
+        "output_tokens": 381,
+        "reasoning_output_tokens": 44
+      },
+      "lang": "ur",
+      "language": "Urdu",
+      "duration_seconds": 32.41,
+      "applied": true,
+      "snapshots": {
+        "before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/362e37f60f3b4b029f1c0645a6f42b69/before.md",
+        "after": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/362e37f60f3b4b029f1c0645a6f42b69/after.md"
+      },
+      "at": "2026-11-21T09:17:05+00:00"
     }
   },
-  "status": "running",
+  "status": "complete",
   "repository": "/home/ghayur/Projects/lyrics-site-about",
   "branch": "round2-kalams-2026-11-14",
-  "updated_at": "2026-11-21T07:58:00+00:00",
+  "updated_at": "2026-11-21T09:29:08+00:00",
   "planned": {
     "total": 1740,
     "by_task": {
-      "audit": 1613,
-      "source": 105,
-      "roman": 20,
+      "audit": 1710,
+      "source": 19,
+      "roman": 9,
       "skip": 2
     },
     "by_language": {
-      "ur": 1551,
-      "pa-Arab": 171,
-      "skr-Arab": 7,
-      "en": 2,
-      "pa": 8,
-      "skr": 1
+      "ur": 1531,
+      "pa-Arab": 198,
+      "skr-Arab": 9,
+      "en": 2
     },
     "started_at": "2026-11-20T02:35:08+00:00",
     "global_total": 6388,
     "shard_index": 0,
     "shard_count": 4
   },
-  "current_path": "src/data/lyrics/rasul-e-akram-ka.md",
+  "current_path": null,
   "current_task": "audit",
   "usage_events": {
     "/home/ghayur/.local/state/kalam-codex-round2/logs/20261120T023508Z-564562-491090.jsonl": {
@@ -65715,20 +67700,922 @@
         "output_tokens": 1769,
         "reasoning_output_tokens": 87
       }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075800Z-2182747-622145.jsonl": {
+      "path": "src/data/lyrics/rasul-e-akram-ka.md",
+      "task": "audit",
+      "duration_seconds": 52.29,
+      "usage": {
+        "input_tokens": 101335,
+        "cached_input_tokens": 93824,
+        "output_tokens": 551,
+        "reasoning_output_tokens": 202
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075852Z-2182747-151930.jsonl": {
+      "path": "src/data/lyrics/rat-naal-hanera-akhiyaan-wich-kar-ke-abid-turda-aaway-lyrics-in-punjab-tajpoints-0f37f9eb65b4b9923304.md",
+      "task": "source",
+      "duration_seconds": 66.44,
+      "usage": {
+        "input_tokens": 103074,
+        "cached_input_tokens": 87424,
+        "output_tokens": 2316,
+        "reasoning_output_tokens": 287
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075959Z-2182747-427434.jsonl": {
+      "path": "src/data/lyrics/rat-rukh-jaway-rat-rukh-jaway-beemar-muhari-da-nw-11ca81a75727.md",
+      "task": "source",
+      "duration_seconds": 362.89,
+      "usage": {
+        "input_tokens": 60226,
+        "cached_input_tokens": 52352,
+        "output_tokens": 1473,
+        "reasoning_output_tokens": 0
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080604Z-2182747-474122.jsonl": {
+      "path": "src/data/lyrics/rauza-nahin-husain.md",
+      "task": "audit",
+      "duration_seconds": 50.79,
+      "usage": {
+        "input_tokens": 105073,
+        "cached_input_tokens": 88448,
+        "output_tokens": 1174,
+        "reasoning_output_tokens": 272
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080655Z-2182747-975672.jsonl": {
+      "path": "src/data/lyrics/rauze-ko-dhaa-diya.md",
+      "task": "audit",
+      "duration_seconds": 33.31,
+      "usage": {
+        "input_tokens": 101496,
+        "cached_input_tokens": 80768,
+        "output_tokens": 551,
+        "reasoning_output_tokens": 135
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080729Z-2182747-996612.jsonl": {
+      "path": "src/data/lyrics/rauze-pe-mustafa-ke.md",
+      "task": "audit",
+      "duration_seconds": 37.8,
+      "usage": {
+        "input_tokens": 86622,
+        "cached_input_tokens": 68352,
+        "output_tokens": 935,
+        "reasoning_output_tokens": 159
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080806Z-2182747-156902.jsonl": {
+      "path": "src/data/lyrics/rawaan-veraan-diyaan-wekhaan-rawaan-lyrics-2022-tajpoints-aab16a1778ab50167874.md",
+      "task": "source",
+      "duration_seconds": 60.65,
+      "usage": {
+        "input_tokens": 82072,
+        "cached_input_tokens": 73216,
+        "output_tokens": 2045,
+        "reasoning_output_tokens": 175
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080907Z-2182747-576886.jsonl": {
+      "path": "src/data/lyrics/rawaana-nehr-e-laban.md",
+      "task": "audit",
+      "duration_seconds": 50.03,
+      "usage": {
+        "input_tokens": 87405,
+        "cached_input_tokens": 60416,
+        "output_tokens": 1477,
+        "reasoning_output_tokens": 186
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T080957Z-2182747-851184.jsonl": {
+      "path": "src/data/lyrics/raza-da-baba-tu-aayan-ae-tur-vi-chaliyan-ain.md",
+      "task": "audit",
+      "duration_seconds": 50.33,
+      "usage": {
+        "input_tokens": 62329,
+        "cached_input_tokens": 53888,
+        "output_tokens": 1209,
+        "reasoning_output_tokens": 126
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081048Z-2182747-944260.jsonl": {
+      "path": "src/data/lyrics/raza-e-imam-e-raza-chahta-hun-syed-mohammad-shah-tajpoints-3d905e9098245c42ade2.md",
+      "task": "source",
+      "duration_seconds": 58.05,
+      "usage": {
+        "input_tokens": 80943,
+        "cached_input_tokens": 67328,
+        "output_tokens": 2096,
+        "reasoning_output_tokens": 110
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081146Z-2182747-497009.jsonl": {
+      "path": "src/data/lyrics/raza-kay-dar-pe-ek-sajda-bohat-hai-tajpoints-a52a6116360def52c170.md",
+      "task": "source",
+      "duration_seconds": 64.17,
+      "usage": {
+        "input_tokens": 102412,
+        "cached_input_tokens": 93568,
+        "output_tokens": 2120,
+        "reasoning_output_tokens": 99
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081251Z-2182747-871471.jsonl": {
+      "path": "src/data/lyrics/raza-ke-baba-ka-zill-e-raza-zaidi-tajpoints-f13e21a3bd29b0d237fa.md",
+      "task": "source",
+      "duration_seconds": 53.09,
+      "usage": {
+        "input_tokens": 81744,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1877,
+        "reasoning_output_tokens": 78
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081344Z-2182747-371328.jsonl": {
+      "path": "src/data/lyrics/raza-ke-rozey-par-tajpoints-60512dc100423920744e.md",
+      "task": "source",
+      "duration_seconds": 55.44,
+      "usage": {
+        "input_tokens": 80760,
+        "cached_input_tokens": 72704,
+        "output_tokens": 1930,
+        "reasoning_output_tokens": 93
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081439Z-2182747-250708.jsonl": {
+      "path": "src/data/lyrics/raza-ki-raza-se-syed-mohammad-shah-tajpoints-d9327057222c60c45842.md",
+      "task": "source",
+      "duration_seconds": 58.06,
+      "usage": {
+        "input_tokens": 80705,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1960,
+        "reasoning_output_tokens": 110
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081538Z-2182747-31457.jsonl": {
+      "path": "src/data/lyrics/raza-ko-aalam-e-ghurbat-mein-maut-aayi-hai.md",
+      "task": "roman",
+      "duration_seconds": 49.93,
+      "usage": {
+        "input_tokens": 102800,
+        "cached_input_tokens": 94592,
+        "output_tokens": 1325,
+        "reasoning_output_tokens": 31
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081628Z-2182747-639540.jsonl": {
+      "path": "src/data/lyrics/rb-jane-knj-hq-lin-lii-zehra-ajri-darbar-gayi.md",
+      "task": "source",
+      "duration_seconds": 50.69,
+      "usage": {
+        "input_tokens": 79798,
+        "cached_input_tokens": 71936,
+        "output_tokens": 1515,
+        "reasoning_output_tokens": 168
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081718Z-2182747-520019.jsonl": {
+      "path": "src/data/lyrics/rb-janre-kion-sayyidan-non-ae-kufa-ras-na-aaya-haye.md",
+      "task": "roman",
+      "duration_seconds": 40.46,
+      "usage": {
+        "input_tokens": 100887,
+        "cached_input_tokens": 80512,
+        "output_tokens": 987,
+        "reasoning_output_tokens": 57
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081759Z-2182747-182583.jsonl": {
+      "path": "src/data/lyrics/rb-ko-ali-khon-ke-ali-ko-khuda-khon.md",
+      "task": "roman",
+      "duration_seconds": 38.11,
+      "usage": {
+        "input_tokens": 79720,
+        "cached_input_tokens": 66304,
+        "output_tokens": 880,
+        "reasoning_output_tokens": 83
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081837Z-2182747-191211.jsonl": {
+      "path": "src/data/lyrics/reh-ga-ey-dasht-e-musibat-main-sakina-nw-bcca6e0cc094.md",
+      "task": "source",
+      "duration_seconds": 56.71,
+      "usage": {
+        "input_tokens": 97474,
+        "cached_input_tokens": 84096,
+        "output_tokens": 1820,
+        "reasoning_output_tokens": 88
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T081934Z-2182747-79902.jsonl": {
+      "path": "src/data/lyrics/reh-gayi-dasht-mein.md",
+      "task": "audit",
+      "duration_seconds": 44.23,
+      "usage": {
+        "input_tokens": 77870,
+        "cached_input_tokens": 71168,
+        "output_tokens": 524,
+        "reasoning_output_tokens": 256
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082019Z-2182747-92428.jsonl": {
+      "path": "src/data/lyrics/rehman-gawah-main-thak-payi-aan-lyrics-in-saraiki-2003-tajpoints-ff5205a8eecbce32ebc3.md",
+      "task": "source",
+      "duration_seconds": 45.59,
+      "usage": {
+        "input_tokens": 59381,
+        "cached_input_tokens": 52096,
+        "output_tokens": 1267,
+        "reasoning_output_tokens": 222
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082104Z-2182747-427929.jsonl": {
+      "path": "src/data/lyrics/rehti-hain-ibadat-mein-azadar-ki-sansein-tajpoints-c3756cef9a2955e20146.md",
+      "task": "source",
+      "duration_seconds": 42.33,
+      "usage": {
+        "input_tokens": 55612,
+        "cached_input_tokens": 49792,
+        "output_tokens": 925,
+        "reasoning_output_tokens": 55
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082147Z-2182747-547463.jsonl": {
+      "path": "src/data/lyrics/reza-nahe-milti-saleem-mastan-tajpoints-d9138c267859650d75af.md",
+      "task": "source",
+      "duration_seconds": 56.63,
+      "usage": {
+        "input_tokens": 59644,
+        "cached_input_tokens": 52096,
+        "output_tokens": 1213,
+        "reasoning_output_tokens": 41
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082244Z-2182747-142305.jsonl": {
+      "path": "src/data/lyrics/rh-gayi-ali-ki-biti-gham-athane-ke-lie.md",
+      "task": "source",
+      "duration_seconds": 58.56,
+      "usage": {
+        "input_tokens": 121567,
+        "cached_input_tokens": 101120,
+        "output_tokens": 1676,
+        "reasoning_output_tokens": 105
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082345Z-2182747-831149.jsonl": {
+      "path": "src/data/lyrics/rida-hai-sar-pe-na-bhai-ka-sar-pe-saya-hai-tajpoints-9a305184c7a656391164.md",
+      "task": "source",
+      "duration_seconds": 31.99,
+      "usage": {
+        "input_tokens": 58448,
+        "cached_input_tokens": 46208,
+        "output_tokens": 727,
+        "reasoning_output_tokens": 32
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082417Z-2182747-44520.jsonl": {
+      "path": "src/data/lyrics/rida-koi-nayi-hasan-sadiq-lyrics-in-punjabi-2006-tajpoints-26f8f1c9edd772506ea1.md",
+      "task": "source",
+      "duration_seconds": 65.59,
+      "usage": {
+        "input_tokens": 81627,
+        "cached_input_tokens": 65792,
+        "output_tokens": 2296,
+        "reasoning_output_tokens": 123
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082523Z-2182747-700233.jsonl": {
+      "path": "src/data/lyrics/rida-laake-udhade.md",
+      "task": "audit",
+      "duration_seconds": 41.42,
+      "usage": {
+        "input_tokens": 79867,
+        "cached_input_tokens": 66304,
+        "output_tokens": 1114,
+        "reasoning_output_tokens": 106
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082604Z-2182747-625700.jsonl": {
+      "path": "src/data/lyrics/rida-v-na-rayi-zainab-de-sir-te-na-riye-lyrics-2019-tajpoints-389f383f0c4eccd25b3e.md",
+      "task": "source",
+      "duration_seconds": 67.9,
+      "usage": {
+        "input_tokens": 77268,
+        "cached_input_tokens": 63744,
+        "output_tokens": 2121,
+        "reasoning_output_tokens": 113
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082712Z-2182747-455901.jsonl": {
+      "path": "src/data/lyrics/ridawaan-de-diyo-rawaan-de-diyo-mso-lyrics-2023-tajpoints-df19add54255b8ceff8b.md",
+      "task": "source",
+      "duration_seconds": 43.42,
+      "usage": {
+        "input_tokens": 59318,
+        "cached_input_tokens": 46720,
+        "output_tokens": 1202,
+        "reasoning_output_tokens": 194
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082756Z-2182747-408070.jsonl": {
+      "path": "src/data/lyrics/ridawaan-leh-gayiyaan-ghazi-te-bhaina-be-rida-ho-gayiyaan.md",
+      "task": "source",
+      "duration_seconds": 65.14,
+      "usage": {
+        "input_tokens": 103328,
+        "cached_input_tokens": 86400,
+        "output_tokens": 2355,
+        "reasoning_output_tokens": 248
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T082901Z-2182747-803736.jsonl": {
+      "path": "src/data/lyrics/ridawan-qaid-hogayiyan-mir-hasan-mir-lyrics-2024-tajpoints-b0dd9e40763c1f4bf897.md",
+      "task": "source",
+      "duration_seconds": 75.07,
+      "usage": {
+        "input_tokens": 103246,
+        "cached_input_tokens": 87936,
+        "output_tokens": 2815,
+        "reasoning_output_tokens": 278
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083016Z-2182747-198153.jsonl": {
+      "path": "src/data/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-hogi.md",
+      "task": "audit",
+      "duration_seconds": 41.76,
+      "usage": {
+        "input_tokens": 64306,
+        "cached_input_tokens": 49024,
+        "output_tokens": 1147,
+        "reasoning_output_tokens": 72
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083058Z-2182747-648322.jsonl": {
+      "path": "src/data/lyrics/risalat-da-logo-sila-mangdi-rayi-ay-syed-wajhi-hasan-tajpoints-1ac439312b0b3c79157b.md",
+      "task": "source",
+      "duration_seconds": 68.58,
+      "usage": {
+        "input_tokens": 122863,
+        "cached_input_tokens": 100608,
+        "output_tokens": 1800,
+        "reasoning_output_tokens": 101
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083207Z-2182747-697447.jsonl": {
+      "path": "src/data/lyrics/rishta-ali-se-fatima-zahra-ka-joor-ke-tajpoints-f0c5b7dfc31a94c9efc8.md",
+      "task": "source",
+      "duration_seconds": 76.39,
+      "usage": {
+        "input_tokens": 80558,
+        "cached_input_tokens": 72192,
+        "output_tokens": 2043,
+        "reasoning_output_tokens": 172
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083324Z-2182747-227297.jsonl": {
+      "path": "src/data/lyrics/ritan-te-dhl-gayi-mtian-che-rl-gayi.md",
+      "task": "source",
+      "duration_seconds": 65.86,
+      "usage": {
+        "input_tokens": 80981,
+        "cached_input_tokens": 61696,
+        "output_tokens": 2026,
+        "reasoning_output_tokens": 184
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083430Z-2182747-146502.jsonl": {
+      "path": "src/data/lyrics/riton-mein-bkhri-shra-mein-bkhri-qasim-ki-mhndi.md",
+      "task": "roman",
+      "duration_seconds": 50.67,
+      "usage": {
+        "input_tokens": 117200,
+        "cached_input_tokens": 97792,
+        "output_tokens": 1262,
+        "reasoning_output_tokens": 41
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083520Z-2182747-651896.jsonl": {
+      "path": "src/data/lyrics/riwayat-e-mukhtar-mir-hasan-mir.md",
+      "task": "audit",
+      "duration_seconds": 64.2,
+      "usage": {
+        "input_tokens": 81772,
+        "cached_input_tokens": 66560,
+        "output_tokens": 2268,
+        "reasoning_output_tokens": 124
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083625Z-2182747-181513.jsonl": {
+      "path": "src/data/lyrics/riwayate-ume-salma.md",
+      "task": "audit",
+      "duration_seconds": 87.32,
+      "usage": {
+        "input_tokens": 119692,
+        "cached_input_tokens": 106624,
+        "output_tokens": 3346,
+        "reasoning_output_tokens": 103
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083752Z-2182747-333668.jsonl": {
+      "path": "src/data/lyrics/rn-se-jab-akbar-ka-lashh-aaye-ga.md",
+      "task": "source",
+      "duration_seconds": 35.81,
+      "usage": {
+        "input_tokens": 79119,
+        "cached_input_tokens": 66304,
+        "output_tokens": 1050,
+        "reasoning_output_tokens": 19
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083828Z-2182747-127168.jsonl": {
+      "path": "src/data/lyrics/zindan-ka-andhera-2.md",
+      "task": "audit",
+      "duration_seconds": 51.89,
+      "usage": {
+        "input_tokens": 79162,
+        "cached_input_tokens": 66048,
+        "output_tokens": 1773,
+        "reasoning_output_tokens": 193
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083920Z-2182747-515883.jsonl": {
+      "path": "src/data/lyrics/zindan-ke-andhere-mein-sehmi-huyi-masooma.md",
+      "task": "roman",
+      "duration_seconds": 34.72,
+      "usage": {
+        "input_tokens": 80240,
+        "cached_input_tokens": 66560,
+        "output_tokens": 814,
+        "reasoning_output_tokens": 123
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T083955Z-2182747-22487.jsonl": {
+      "path": "src/data/lyrics/zindan-ke-andhere-nw-e393576addbf.md",
+      "task": "source",
+      "duration_seconds": 58.29,
+      "usage": {
+        "input_tokens": 77005,
+        "cached_input_tokens": 64768,
+        "output_tokens": 2090,
+        "reasoning_output_tokens": 41
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084054Z-2182747-316807.jsonl": {
+      "path": "src/data/lyrics/zindan-kha-gaya-aye-kazim-di-nojawani-lyrics-punjabi-2016-tajpoints-e8e67af730d4f768ed67.md",
+      "task": "source",
+      "duration_seconds": 60.56,
+      "usage": {
+        "input_tokens": 123108,
+        "cached_input_tokens": 109056,
+        "output_tokens": 2096,
+        "reasoning_output_tokens": 71
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084154Z-2182747-640407.jsonl": {
+      "path": "src/data/lyrics/zindan-ki-sada-dr-amir-rizvi-tajpoints-5749f5c01d4c2d051bad.md",
+      "task": "source",
+      "duration_seconds": 32.2,
+      "usage": {
+        "input_tokens": 58732,
+        "cached_input_tokens": 46208,
+        "output_tokens": 968,
+        "reasoning_output_tokens": 63
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084227Z-2182747-236747.jsonl": {
+      "path": "src/data/lyrics/zindan-may-aaj-tanha-hai-piyasi-sakina-nw-edeb03372b42.md",
+      "task": "source",
+      "duration_seconds": 53.9,
+      "usage": {
+        "input_tokens": 80326,
+        "cached_input_tokens": 66560,
+        "output_tokens": 1853,
+        "reasoning_output_tokens": 232
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084321Z-2182747-285743.jsonl": {
+      "path": "src/data/lyrics/zindan-may-sakina-3.md",
+      "task": "audit",
+      "duration_seconds": 32.5,
+      "usage": {
+        "input_tokens": 81887,
+        "cached_input_tokens": 67328,
+        "output_tokens": 908,
+        "reasoning_output_tokens": 81
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084353Z-2182747-18466.jsonl": {
+      "path": "src/data/lyrics/zindan-mein-baba-ko-bulati-hai-sakina-tajpoints-d2b50dc1f00e8acb5c05.md",
+      "task": "source",
+      "duration_seconds": 40.43,
+      "usage": {
+        "input_tokens": 79702,
+        "cached_input_tokens": 59904,
+        "output_tokens": 1298,
+        "reasoning_output_tokens": 37
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084434Z-2182747-841065.jsonl": {
+      "path": "src/data/lyrics/zindan-mein-jeena-bhi-baba-tha-koi-jeena-lyrics-2021-latest-tajpoint-079226040743487c9cb7.md",
+      "task": "source",
+      "duration_seconds": 47.02,
+      "usage": {
+        "input_tokens": 79946,
+        "cached_input_tokens": 72192,
+        "output_tokens": 1599,
+        "reasoning_output_tokens": 45
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084521Z-2182747-55799.jsonl": {
+      "path": "src/data/lyrics/zindan-mein-roti-rahi-hai-bali-sakina-tajpoints-cfedec01df222e2d25d1.md",
+      "task": "source",
+      "duration_seconds": 39.5,
+      "usage": {
+        "input_tokens": 75117,
+        "cached_input_tokens": 63488,
+        "output_tokens": 1113,
+        "reasoning_output_tokens": 39
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084601Z-2182747-231707.jsonl": {
+      "path": "src/data/lyrics/zindan-na-bhulenge.md",
+      "task": "audit",
+      "duration_seconds": 58.28,
+      "usage": {
+        "input_tokens": 83026,
+        "cached_input_tokens": 66816,
+        "output_tokens": 1700,
+        "reasoning_output_tokens": 232
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084659Z-2182747-50295.jsonl": {
+      "path": "src/data/lyrics/zindan-se-chht-ke-aabd-bimar-aaye-hain.md",
+      "task": "source",
+      "duration_seconds": 76.63,
+      "usage": {
+        "input_tokens": 79239,
+        "cached_input_tokens": 70656,
+        "output_tokens": 2947,
+        "reasoning_output_tokens": 151
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084816Z-2182747-775310.jsonl": {
+      "path": "src/data/lyrics/zindan-se-chuth-ke.md",
+      "task": "audit",
+      "duration_seconds": 58.82,
+      "usage": {
+        "input_tokens": 84095,
+        "cached_input_tokens": 75008,
+        "output_tokens": 1849,
+        "reasoning_output_tokens": 65
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T084915Z-2182747-624415.jsonl": {
+      "path": "src/data/lyrics/zindan-se-chutkar-nw-f5a004da0515.md",
+      "task": "source",
+      "duration_seconds": 61.54,
+      "usage": {
+        "input_tokens": 103203,
+        "cached_input_tokens": 86400,
+        "output_tokens": 2282,
+        "reasoning_output_tokens": 97
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085017Z-2182747-134832.jsonl": {
+      "path": "src/data/lyrics/zindan-v-ronda-aye-sun-wain-sakina-de-lyrics-in-punjabi-2026-tajpoint-6488353f7567a1b3c860.md",
+      "task": "source",
+      "duration_seconds": 39.14,
+      "usage": {
+        "input_tokens": 59351,
+        "cached_input_tokens": 46208,
+        "output_tokens": 1265,
+        "reasoning_output_tokens": 146
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085056Z-2182747-344542.jsonl": {
+      "path": "src/data/lyrics/zkhmi-hoa-hai-tiron-se-hie-tabot-hsn-ka.md",
+      "task": "roman",
+      "duration_seconds": 53.94,
+      "usage": {
+        "input_tokens": 124796,
+        "cached_input_tokens": 108544,
+        "output_tokens": 1593,
+        "reasoning_output_tokens": 134
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085150Z-2182747-692259.jsonl": {
+      "path": "src/data/lyrics/zkhmi-phlo-hai-jlta-droazh-aao-fzh-snbhalo-zehra-ko.md",
+      "task": "roman",
+      "duration_seconds": 47.25,
+      "usage": {
+        "input_tokens": 77182,
+        "cached_input_tokens": 64512,
+        "output_tokens": 1357,
+        "reasoning_output_tokens": 62
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085238Z-2182747-160140.jsonl": {
+      "path": "src/data/lyrics/zmin-pe-kt-ke-gre-srblnd-hone-lge.md",
+      "task": "roman",
+      "duration_seconds": 50.4,
+      "usage": {
+        "input_tokens": 117289,
+        "cached_input_tokens": 104192,
+        "output_tokens": 1352,
+        "reasoning_output_tokens": 183
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085328Z-2182747-487696.jsonl": {
+      "path": "src/data/lyrics/zndan-aur-bali-sakina.md",
+      "task": "roman",
+      "duration_seconds": 59.55,
+      "usage": {
+        "input_tokens": 120308,
+        "cached_input_tokens": 93184,
+        "output_tokens": 1778,
+        "reasoning_output_tokens": 201
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085428Z-2182747-585718.jsonl": {
+      "path": "src/data/lyrics/zndan-mein-sakina-aabd-se-ke-rahi-hai.md",
+      "task": "audit",
+      "duration_seconds": 43.58,
+      "usage": {
+        "input_tokens": 83004,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1516,
+        "reasoning_output_tokens": 40
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085512Z-2182747-106262.jsonl": {
+      "path": "src/data/lyrics/zndh-hai-kaise-banoie-mztr-tere-bghir.md",
+      "task": "source",
+      "duration_seconds": 52.67,
+      "usage": {
+        "input_tokens": 80603,
+        "cached_input_tokens": 66560,
+        "output_tokens": 1832,
+        "reasoning_output_tokens": 169
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085604Z-2182747-890876.jsonl": {
+      "path": "src/data/lyrics/zoaljnah-ae-zoaljnah-mera-bchh-hai-kahan.md",
+      "task": "audit",
+      "duration_seconds": 65.65,
+      "usage": {
+        "input_tokens": 85834,
+        "cached_input_tokens": 75776,
+        "output_tokens": 2213,
+        "reasoning_output_tokens": 153
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085710Z-2182747-923629.jsonl": {
+      "path": "src/data/lyrics/zoaljnah-zoaljnah.md",
+      "task": "source",
+      "duration_seconds": 74.03,
+      "usage": {
+        "input_tokens": 98411,
+        "cached_input_tokens": 85120,
+        "output_tokens": 2825,
+        "reasoning_output_tokens": 251
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085825Z-2182747-128004.jsonl": {
+      "path": "src/data/lyrics/zubaan-zubaan-pe-hai.md",
+      "task": "audit",
+      "duration_seconds": 48.44,
+      "usage": {
+        "input_tokens": 82108,
+        "cached_input_tokens": 74240,
+        "output_tokens": 695,
+        "reasoning_output_tokens": 245
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T085913Z-2182747-770936.jsonl": {
+      "path": "src/data/lyrics/zuban-e-be-zubani-se-ali-asghar-batatay-hain-tajpoints-7ad0cc5dbaa88458ccd5.md",
+      "task": "source",
+      "duration_seconds": 67.71,
+      "usage": {
+        "input_tokens": 77913,
+        "cached_input_tokens": 65024,
+        "output_tokens": 2302,
+        "reasoning_output_tokens": 57
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090021Z-2182747-73066.jsonl": {
+      "path": "src/data/lyrics/zuljana-hai-kahan.md",
+      "task": "audit",
+      "duration_seconds": 63.04,
+      "usage": {
+        "input_tokens": 107580,
+        "cached_input_tokens": 97152,
+        "output_tokens": 2393,
+        "reasoning_output_tokens": 153
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090124Z-2182747-973112.jsonl": {
+      "path": "src/data/lyrics/zuljanah-2.md",
+      "task": "audit",
+      "duration_seconds": 51.15,
+      "usage": {
+        "input_tokens": 83607,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1672,
+        "reasoning_output_tokens": 71
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090215Z-2182747-614653.jsonl": {
+      "path": "src/data/lyrics/zuljanah-3.md",
+      "task": "audit",
+      "duration_seconds": 46.51,
+      "usage": {
+        "input_tokens": 105336,
+        "cached_input_tokens": 89728,
+        "output_tokens": 1393,
+        "reasoning_output_tokens": 105
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090302Z-2182747-212680.jsonl": {
+      "path": "src/data/lyrics/zuljanah-aqbal-minal-maidaan-nadeem-sarwar.md",
+      "task": "audit",
+      "duration_seconds": 51.59,
+      "usage": {
+        "input_tokens": 83951,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1792,
+        "reasoning_output_tokens": 195
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090354Z-2182747-642493.jsonl": {
+      "path": "src/data/lyrics/zuljanah-naam-hai-shabir-ka-rahwar-hun-main.md",
+      "task": "audit",
+      "duration_seconds": 78.12,
+      "usage": {
+        "input_tokens": 114512,
+        "cached_input_tokens": 102016,
+        "output_tokens": 3057,
+        "reasoning_output_tokens": 190
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090512Z-2182747-23158.jsonl": {
+      "path": "src/data/lyrics/zuljanah-nadeem-sarwar-2001-tajpoints-ba9305bedecd543f91e9.md",
+      "task": "source",
+      "duration_seconds": 57.76,
+      "usage": {
+        "input_tokens": 80893,
+        "cached_input_tokens": 60416,
+        "output_tokens": 2108,
+        "reasoning_output_tokens": 74
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090610Z-2182747-547902.jsonl": {
+      "path": "src/data/lyrics/zuljanah-shahid-baltistani.md",
+      "task": "audit",
+      "duration_seconds": 62.18,
+      "usage": {
+        "input_tokens": 86367,
+        "cached_input_tokens": 68864,
+        "output_tokens": 2127,
+        "reasoning_output_tokens": 33
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090712Z-2182747-816620.jsonl": {
+      "path": "src/data/lyrics/zuljenah-ali-jee-tajpoints-75db646abf962588ab0e.md",
+      "task": "source",
+      "duration_seconds": 51.24,
+      "usage": {
+        "input_tokens": 99704,
+        "cached_input_tokens": 85632,
+        "output_tokens": 1398,
+        "reasoning_output_tokens": 38
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090804Z-2182747-413655.jsonl": {
+      "path": "src/data/lyrics/zulm-aisa-howa-madine-mein-tajpoints-281462f7efd576fb4992.md",
+      "task": "source",
+      "duration_seconds": 57.26,
+      "usage": {
+        "input_tokens": 80395,
+        "cached_input_tokens": 65536,
+        "output_tokens": 1974,
+        "reasoning_output_tokens": 214
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090901Z-2182747-13421.jsonl": {
+      "path": "src/data/lyrics/zulm-bad-e-mustafa-sadaat-pe-kya-ho-gaya-lyrics-2012-tajpoints-974f25704ece74ebcac0.md",
+      "task": "source",
+      "duration_seconds": 54.6,
+      "usage": {
+        "input_tokens": 100833,
+        "cached_input_tokens": 79232,
+        "output_tokens": 1640,
+        "reasoning_output_tokens": 43
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T090956Z-2182747-979150.jsonl": {
+      "path": "src/data/lyrics/zulm-jafar-pe-madina-mein-dhaya-hai-gaya-tajpoints-e111ef698ed131c53eb2.md",
+      "task": "source",
+      "duration_seconds": 47.91,
+      "usage": {
+        "input_tokens": 99701,
+        "cached_input_tokens": 87168,
+        "output_tokens": 1395,
+        "reasoning_output_tokens": 69
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091044Z-2182747-351123.jsonl": {
+      "path": "src/data/lyrics/zulm-ke-saray-taqaze-aazmane-ke-liye-tajpoints-e3ae7b378392eb60ea84.md",
+      "task": "source",
+      "duration_seconds": 50.79,
+      "usage": {
+        "input_tokens": 101150,
+        "cached_input_tokens": 85888,
+        "output_tokens": 1658,
+        "reasoning_output_tokens": 62
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091135Z-2182747-763997.jsonl": {
+      "path": "src/data/lyrics/zulm-ki-raat-dhalne-wali-hai-tajpoints-82f02315bcc78253eee4.md",
+      "task": "source",
+      "duration_seconds": 34.06,
+      "usage": {
+        "input_tokens": 59995,
+        "cached_input_tokens": 46976,
+        "output_tokens": 963,
+        "reasoning_output_tokens": 37
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091209Z-2182747-602824.jsonl": {
+      "path": "src/data/lyrics/zulm-muk-gaye-ne-musalmana-te-har-zakhm-lash-da-aye-dasda-aye-lyrics-p-tajpoints-b8c8a6908999370bd889.md",
+      "task": "source",
+      "duration_seconds": 46.71,
+      "usage": {
+        "input_tokens": 80080,
+        "cached_input_tokens": 67072,
+        "output_tokens": 1613,
+        "reasoning_output_tokens": 42
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091256Z-2182747-578978.jsonl": {
+      "path": "src/data/lyrics/zulm-o-sitam-ki-intiha-hai-ye-karbala-hai.md",
+      "task": "source",
+      "duration_seconds": 46.09,
+      "usage": {
+        "input_tokens": 75653,
+        "cached_input_tokens": 68864,
+        "output_tokens": 1432,
+        "reasoning_output_tokens": 94
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091342Z-2182747-844122.jsonl": {
+      "path": "src/data/lyrics/zulm-sehti-hai-woh-baba-ke-gham-mein-rone-par-tajpoints-82725674221659a9d6de.md",
+      "task": "source",
+      "duration_seconds": 61.16,
+      "usage": {
+        "input_tokens": 102712,
+        "cached_input_tokens": 87168,
+        "output_tokens": 2201,
+        "reasoning_output_tokens": 38
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091444Z-2182747-690579.jsonl": {
+      "path": "src/data/lyrics/zulm-toon-pehlaan-ummat-nane-di-kujh-nayi-sochiya-new-lyrics-2024-tajpoint-82199bebdc688958a067.md",
+      "task": "source",
+      "duration_seconds": 61.31,
+      "usage": {
+        "input_tokens": 81222,
+        "cached_input_tokens": 67072,
+        "output_tokens": 2275,
+        "reasoning_output_tokens": 99
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091545Z-2182747-839432.jsonl": {
+      "path": "src/data/lyrics/zulm-zahra-par-hoye-tajpoints-572406f45bc70ab1f99c.md",
+      "task": "source",
+      "duration_seconds": 47.34,
+      "usage": {
+        "input_tokens": 99945,
+        "cached_input_tokens": 85888,
+        "output_tokens": 1246,
+        "reasoning_output_tokens": 75
+      }
+    },
+    "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091633Z-2182747-919676.jsonl": {
+      "path": "src/data/lyrics/zulmat-nishaan-hai-dahr-tu-hai-roshni-ali.md",
+      "task": "audit",
+      "duration_seconds": 32.41,
+      "usage": {
+        "input_tokens": 80811,
+        "cached_input_tokens": 67072,
+        "output_tokens": 381,
+        "reasoning_output_tokens": 44
+      }
     }
   },
-  "last_transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T075658Z-2182747-228410.jsonl",
+  "last_transcript": "/home/ghayur/.local/state/kalam-codex-round2/logs/20261121T091633Z-2182747-919676.jsonl",
   "parallel_worker_count": 4,
-  "parallel_worker_index": 0,
-  "workspace_session": {
-    "id": "406bf9fdd5ca40edb41900440dc24585",
-    "path": "src/data/lyrics/rasul-e-akram-ka.md",
-    "workspace": "/home/ghayur/.local/state/kalam-codex-round2/workspaces/406bf9fdd5ca40edb41900440dc24585",
-    "baseline_sha256": "368332c820617367ad31f47e9b53e43cffcaa4e8ed435d50fe91a383c46ab3a7",
-    "guidance_sha256": "109ff30ae15748613530e1e1a5b80be4bfee7249b854e380555babd8dd4fd38f",
-    "initial_mode": 436,
-    "created_at": 1795247880.1114128,
-    "snapshot_before": "/home/ghayur/.local/state/kalam-codex-round2/snapshots/406bf9fdd5ca40edb41900440dc24585/before.md",
-    "snapshot_after": null
-  }
+  "parallel_worker_index": 0
 }

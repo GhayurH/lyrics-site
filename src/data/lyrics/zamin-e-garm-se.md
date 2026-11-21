@@ -16,19 +16,19 @@ romanLyrics: |-
   Haae Sakina haae Sakina haae Sakina
 
   Zamin-e-garm se bahr-e-Khuda utho Bibi
-  Ab aur maaṅ ka na tum imtihaan lo Bibi
+  Ab aur maaṅ ko na tum imtihaan lo Bibi
 
   1
-  Maiṅ ro chuki huṅ bahut aur tum na rulwaao
+  Main ro chuki huṅ bahut aur tum na rulwaao
   Gharib khasta jigar ko na aise tarpaao
   Na zid karo mere sine se aa ke lag jaao
   Khuda ke waaste meri sada suno Bibi
 
   2
   Likhe gaye haiṅ rihaai ke ab to parwaane
-  Rasan gale meiṅ nahiṅ ho gaye riha shaane
+  Rasan gale mein nahiṅ ho gaye riha shaane
   Qafas se ho gaye aazaad lo qafas waale
-  Khuli hawaaoṅ meiṅ ab tum bhi saaṅs lo Bibi
+  Khuli hawaaoṅ mein ab tum bhi saaṅs lo Bibi
 
   3
   Nehr se ammu sada de rahe haiṅ aa jaao
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   6
   Ye dekho lut ka saamaan mil gaya saara
-  Lo yaad-e-Karbobala phir se ho gayi taaza
+  Lo yaad-e-Karb o Bala phir se ho gayi taaza
   Tum apne haathoṅ se baali pehan lo uth ke zara
   Ye lo rida sar-e-uryaaṅ pe tum rakho Bibi
 

@@ -1,38 +1,66 @@
 ---
-title: "Qissay Yousuf Ke Kyun Sunaein Gaye"
+title: "قصے یوسف کے کیوں سنائیں گے"
+alternateTitle: "Qissay Yousuf Ke Kyun Sunaein Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Qissay Yousuf ke kyun sunaein gaye
+  Rukh se parda woh jab hataein gaye
+
+  1
+  Jashan-e-molood-e-Kaba phir har saal
+  Sehan-e-Kaba mein hum manaein gaye
+  Dekh kar youn Harm ko veeraan sa
+  Chat pe oss ki alam lagaein gaye
+
+  2
+  Totay zair-e-alam nikah jin ka
+  Paas Kabay ke kaise jaein gaye
+  Bhagay har markay se jin ke imam
+  Un ke chelon ko bhi bhagaein gaye
+
+  3
+  Jo hain ghasib Fidak ke un ke liye
+  Hukam soli ka woh sunaein gaye
+  Matami woh hai jo namazi ho
+  Dars hum ko yehi parhaein gaye
+
+  4
+  Jo hain pathar pare Baqaiya mein
+  Tubaton se woh sab hataein gaye
+  Yousufi sikka dono aalam mein
+  Naam-e-Haider ka woh chalaein gaye
 ---
 
-Qissay Yousuf Ke Kyun Sunaein Gaye.
-Rukh Se Parda Woh Jab Hataein Gaye.
+قصے یوسف کے کیوں سنائیں گے
+رخ سے پردہ وہ جب ہٹائیں گے
 
-1
-Jashan-e-Molood-e-Kaba Phir Har Saal.
-Sehan-e-Kaba Mein Hum Manaein Gaye.
-Dekh Kar Youn Harm Ko Veeraan Sa.
-Chat Pe Oss Ki Alam Lagaein Gaye.
+۱
+جشنِ مولودِ کعبہ پھر ہر سال
+صحنِ کعبہ میں ہم منائیں گے
+دیکھ کر یوں حرم کو ویراں سا
+چھت پہ اس کی علم لگائیں گے
 
-2
-Totay Zair-e-Alam Nikah Jin Ka.
-Paas Kabay Ke Kaise Jaein Gaye.
-Bhagay Har Markay Se Jin Ke Imam.
-Un Ke Chelon Ko Bhi Bhagaein Gaye.
+۲
+ٹوٹے زیرِ علم نکاح جن کا
+پاس کعبے کے کیسے جائیں گے
+بھاگے ہر معرکے سے جن کے امام
+ان کے چیلوں کو بھی بھگائیں گے
 
-3
-Jo Hain Ghasib Fidak Ke Un Ke Liye.
-Hukam Soli Ka Woh Sunaein Gaye.
-Matami Woh Hai Jo Namazi Ho.
-Dars Hum Ko Yehi Parhaein Gaye.
+۳
+جو ہیں غاصب فدک کے ان کے لیے
+حکم سولی کا وہ سنائیں گے
+ماتمی وہ ہے جو نمازی ہو
+درس ہم کو یہی پڑھائیں گے
 
-4
-Jo Hain Pathar Pare Baqaiya Mein.
-Tubaton Se Woh Sab Hataein Gaye.
- Yousufi Sikka Dono Aalam Mein.
-Naam-e-Haider Ka Woh Chalaein Gaye.
+۴
+جو ہیں پتھر پڑے بقیع میں
+تربتوں سے وہ سب ہٹائیں گے
+یوسفی سکہ دونوں عالم میں
+نامِ حیدر کا وہ چلائیں گے

@@ -1,38 +1,57 @@
 ---
-title: "Kalma Quran Te Bach Gaye Zainab Da Kuch Vi Na Reya"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "کلمہ قرآن تے بچ گئے زینب دا کجھ وی نہ رہیا"
+alternateTitle: "Kalma Quran Te Bach Gaye Zainab Da Kuch Vi Na Reya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kalma Quran tey bach gaye Zainab da kuch vi na reya
+  Nazraane veeran putran dey, pardey ghar Nana, teray deen ton sab kuch vareya
+
+  1
+  Hadh zulam di kar chori, tere kalma goan ne
+  Be jurm mere chan, veeran nu
+  Zalim lokan ne, Karbal vich pyasa mareya
+
+  2
+  Maktal vich Zainab ne, ay vain bapa keetay,
+  Mere sir te chadar, hondi jay
+  Kaj di main tera, aj laasha veeran pyareya
+
+  3
+  Ki hosla ay logon Zainab dukiyari da,
+  Ay satar qadam ton tak di rayee,
+  Eda amri jaya haye sajdey vich kusda reya
+
+  4
+  Karbal vich lut payee Quran dey qarian ney,
+  Haye burqay lut k bibian dey,
+  Baydeen lokan sada har ik khaima saraya
 ---
 
-Kalma Quran Tey Bach Gaye Zainab Da Kuch Vi Na Reya
+کلمہ قرآن تے بچ گئے زینب دا کجھ وی نہ رہیا
+نذرانے ویراں پتراں دے، پردے گھر نانا، تیرے دین توں سب کجھ واریا
 
-Nazraane Veeran Putran Dey, Pardey Ghar Nana, Teray Deen Ton Sab Kuch Vareya
+۱
+حد ظلم دی کر چھوڑی، تیرے کلمہ گوآں نے
+بے جرم میرے چن، ویراں نوں
+ظالم لوکاں نے، کربل وچ پیاسا ماریا
 
-Hadh Zulam Di Kar Chori, Tere Kalma Goan Ne
+۲
+مقتل وچ زینب نے، اے وین بپا کیتے،
+میرے سر تے چادر، ہوندی جے
+کج دی میں تیرا، اج لاشا ویراں پیاریا
 
-Be Jurm Mere Chan, Veeran Nu
+۳
+کی حوصلہ اے لوگو زینب دکھیاری دا،
+اے ستر قدم توں تکدی رہی،
+ایہدا امڑی جایا ہائے سجدے وچ کسدا رہیا
 
-Zalim Lokan Ne, Karbal Vich Pyasa Mareya
-
-Maktal Vich Zainab Ne, Ay Vain Bapa Keetay,
-
-Mere Sir Te Chadar, Hondi Jay
-
-Kaj Di Main Tera, Aj Laasha Veeran Pyareya
-
-Ki Hosla Ay Logon Zainab Dukiyari Da,
-
-Ay Satar Qadam Ton Tak Di Rayee,
-
-Eda Amri Jaya Haye Sajdey Vich Kusda Reya
-
-Karbal Vich Lut Payee Quran Dey Qarian Ney,
-
-Haye Burqay Lut K Bibian Dey,
-
-Baydeen Lokan Sada Har Ik Khaima Saraya
+۴
+کربل وچ لٹ پئی قرآن دے قاریاں نے،
+ہائے برقعے لٹ کے بیبیاں دے،
+بے دین لوکاں ساڈا ہر اک خیمہ ساڑیا

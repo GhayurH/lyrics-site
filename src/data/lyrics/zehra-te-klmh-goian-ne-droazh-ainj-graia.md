@@ -8,33 +8,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zahra tay kalma ghonn nay darvaza enjh girayah
-  Aj tak Hasan dee maa nay, paasay ton' haath nayee chaya
+  Zahra te kalma go ne darvaaza enj giraaya
+  Aj tak Hasan di maan ne, paase chon hath nain chaaya
 
   1
-  1) Babay Nabi nun aakhay, takseer kee aai meri,
-  Ghasib nay akhiaya ai, waaris nayee mai teri
-  Maslay ton' bhul gayeen haan, ilzam eh hai laaya
+  Baabe Nabi nun aakhe, taqsir ki ae meri
+  Ghaasib ne aakhiaan ae, vaaris nain main teri
+  Masle nun bhul gaiaan, ilzaam ae hai laaya
 
   2
-  2) Hur'n tera gham vee baba, Zahra mana nayee sakdi
-  Upnay hi ghar'ch bai kai, athru baha nayee sakdi
-  Haider nai shehron bahir, baitul-huzan banaya
+  Hun tera gham vi baaba, Zahra mana nain sakdi
+  Apne hi ghar ch beh ke, athru baha nain sakdi
+  Haidar ne shehro baahar, Bait-ul-Huzan banaaya
 
   3
-  3) Baba main daindee raiyaan, teray naam dee duhayee
-  Fil kurba valee ayat, kayi waar main sunayee
-  Fhir vee rova kay mainu darbar chun bulayaa
+  Baaba main dendi raiaan, tere naam di duhaai
+  Fil qurba vaali aayat, kai vaar main sunaai
+  Pher vi rava ke mainun darbaar chon bulaaya
 
   4
-  4) Ummat teri nay baba, nayee keetiyan wafawan
-  Teray baad pher laya kuch is taran di davan?
-  Mimber terai tay mera mujrim nu ay bhaitaya
-
-  5
-  5) Main jaan gayin baba keeta Batul vain aai
-  Ummat nay maar dainai merai Hasan Husain aai
-  Darbar jakay aai ho mainu nazar hai aaya
+  Main jaan gaiaan baaba, kita Batul vain ae
+  Ummat ne maar dene mere Hasan Husain ae
+  Darbaar jaake eho mainun nazar ae aaya
 ---
 
 زہرا تے کلمہ گو نے دروازہ اینج گرایا

@@ -11,28 +11,28 @@ tags: []
 aliases: ["Zindaan Day Vich Ro Ro Sakina Beemaar Nu Bulaway"]
 published: true
 romanLyrics: |-
-  Zindaan de vich ro ro Sakina bimaar nuṅ bulaawe
-  Kaleyaaṅ qaid di kothi vich darni aaṅ main viraa kithay Shimr naa aa jaawe
+  Zindaan de vich ro ro Sakina bimaar nun bulaawe
+  Kaleyaan qaid di kothi vich darni aan main viraa kithe Shimr naa aa jaawe
 
   1
-  Sajjad jadoṅ qaidaaṅ mukk jaan Karbal jaaviṅ
-  Asghar di qabar te jaa ke tuṅ haaye paani us te paaviṅ
-  Naale kavi behn nuṅ tera enjj paani mangna din raat sataawe
+  Sajjad jadon qaidaan mukk jaan Karbal jaavin
+  Asghar di qabar te jaa ke tun haaye paani us te paavin
+  Naale kaavi behn nun tera enjj paani mangna din raat sataawe
 
   2
-  Rouṅ nayi denda mainuṅ zaalim Shimar kamina
-  Kehnda chup kar jaa qaidaniya tenuṅ aap karaawaaṅ Sakina
-  Maar tamaache muṅ te zindaan de vich mainuṅ kayi vaar daraawe
+  Ron nayin denda mainun zaalim Shimr kamina
+  Kehnda chup kar jaa qaidaniyaa tenun aap karaawaan Sakina
+  Maar tamaache mun te zindaan de vich mainun kai vaar daraawe
 
   3
-  Laash Sakina di loko Sajjad jadoṅ chaayi
-  Tak khun kannaaṅ choṅ jaari Baqir eh denda duhaayi
-  Es haal ich kiweṅ loko mera Baba ujri nuṅ kiweṅ dafnaawe
+  Laash Sakina di loko Sajjad jadon chaayi
+  Tak khun kannaan chon jaari Baqir eh denda duhaayi
+  Es haal ach kiwen loko mera Baba ujri nun kiwen dafnaawe
 
   4
-  Qaidi behn diyaaṅ tuṅ sun le vir sadaawaaṅ
-  Phupphi Zainab nuṅ vi aakh deviṅ gayiaaṅ muk hun meriyaaṅ saahwaaṅ
-  Ennaaṅ qaidaaṅ ne Abid mainuṅ maar mukaaya Masuma eh kurlaawe
+  Qaidi behn diyaan tun sun le vir sadaawaan
+  Phupphi Zainab nun vi aakh devin gayiaan muk hun meriyaan saahwaan
+  Enaan qaidaan ne Abid mainun maar mukaaya Masuma eh kurlaawe
 ---
 زندان دے وچ رو رو سکینہ بیمار نوں بلاوے
 کلیاں قید دی کوٹھی وچ ڈرنی آں میں ویرا کتھے شمر نہ آ جاوے

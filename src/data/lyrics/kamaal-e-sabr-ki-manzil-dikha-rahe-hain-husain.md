@@ -12,28 +12,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kamaal-e-sabr ki manzil dikha rahe haiṅ Husain
-  Jawaan bete ki mayyat utha rahe haiṅ Husain
+  Kamaal-e-sabr ki manzil dikhaa rahe haiṅ Husain
+  Jawaan bete ki mayyat uthaa rahe haiṅ Husain
 
   1
   Ali se milti hai kitni Husain ki ghurbat
-  Bana ke turbat-e-Asghar, chhupa rahe haiṅ Husain
+  Banaa ke turbat-e-Asghar, chhupaa rahe haiṅ Husain
 
   2
   Kabhi kharaash bhi jis bete par na aane di
-  Usi ki laash se patthar hata rahe haiṅ Husain
+  Usi ki laash se patthar hataa rahe haiṅ Husain
 
   3
   Saghir bachchoṅ ki ye aas ka janaaza hai
-  Jo khuṅ meiṅ dubi hui mashk la rahe haiṅ Husain
+  Jo khuṅ meiṅ dubi hui mashk laa rahe haiṅ Husain
 
   4
   Faqat tamaache sulaayeṅge phir Sakina ko
-  Abhi to beti ko apni sula rahe haiṅ Husain
+  Abhi to beti ko apni sulaa rahe haiṅ Husain
 
   5
   Sinaaṅ ki nok pe ye aayateṅ nahiṅ Misum
-  Behen gharib ka parda bana rahe haiṅ Husain
+  Behen gharib ka parda banaa rahe haiṅ Husain
 ---
 کمالِ صبر کی منزل دکھا رہے ہیں حسین
 جوان بیٹے کی میت اُٹھا رہے ہیں حسین

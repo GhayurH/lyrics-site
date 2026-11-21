@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khaali aaya hai shabbir ka zuljana
-  Zuljana zuljana
-  Zuljanah se sakina ne ro kar kaha
-  Kiuṅ hai baage kati jism zakhmi tera
-  Zin khali hai kiuṅ aur sar hai jhuka
-  Bolta kiuṅ nahi chup hai teri zabaṅ
-  Zuljana zuljanah hai kahaṅ baba jaaṅ
-  Tere pairoṅ se lipti mai kehti rahi
-  Baad baba ke mai ji nahi paungi
-  Mere baba ko tu chor aaya kahaṅ
-  Zuljana zuljana hai kahan...
-  Ab tamachoṅ se mujhko bachayega kaun
-  Mujhko sine pe apne sulayega kaun
-  Is yatimi meiṅ ab kaun hai sayebaṅ
-  Zuljana zuljana hai kahan...
-  Jis tarha mere saare sahare gaye
+  Khaali aaya hai Shabbir ka Zuljanaah
+  Zuljanaah Zuljanaah
+  Zuljanaah se Sakina ne ro kar kaha
+  Kiuṅ hai baageṅ kati jism zakhmi tera
+  Zin khaali hai kiuṅ aur sar hai jhuka
+  Bolta kiuṅ nahiṅ chup hai teri zabaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ baba jaaṅ
+  Tere pairoṅ se lipti main kehti rahi
+  Baad baba ke main ji nahiṅ paauṅ gi
+  Mere baba ko tu chhor aaya kahaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
+  Ab tamaanchoṅ se mujhko bachaayega kaun
+  Mujhko sine pe apne sulaayega kaun
+  Is yatimi meiṅ ab kaun hai saayebaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
+  Jis tarah mere saare sahaare gaye
   Tu bata kya mere baba maare gaye
-  Kiuṅ teri aankh se hai ye aansu rawaṅ
-  Zuljana zuljana hai kahan...
-  Kund khanjar chalane laga jab layiṅ
-  Mere baba ko pani diya ya nahi
-  Ya dam e zibha bhi the wo tishna dahaṅ
-  Zuljana zuljana hai kahan...
+  Kiuṅ teri aankh se hai ye aansuṅ rawaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
+  Kund khanjar chalaane laga jab laeeṅ
+  Mere baba ko paani diya ya nahiṅ
+  Ya dam-e-zabh bhi the wo tishna dahaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
   Mujhko batla gaye zakhm tere hai jo
   Itna zakhmi hai tu kitne zakhmi the wo
-  Tir kitne lage kis khadar barchiyaṅ
-  Zuljana zuljana hai kahan...
-  Dard e furqat se dil mera phat jayega
+  Tir kitne lage kis qadar barchhiyaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
+  Dard-e-furqat se dil mera phat jaayega
   Apne baba ke sine pe chain aayega
-  Hai jahaṅ baba jaaṅ mujhko le chal wahaṅ
-  Zuljana zuljana hai kahan...
-  Haye farhan o mazhar sakina dukhi
-  Zuljana se lipat kar wo roti rahi
-  Keh rahi thi ye masum ki siskiyaṅ
-  Zuljana zuljana hai kahan...
+  Hai jahaaṅ baba jaaṅ mujhko le chal wahaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
+  Haaye Farhan o Mazhar Sakina dukhi
+  Zuljanaah se lipat kar wo roti rahi
+  Keh rahi thi ye maasum ki siskiyaaṅ
+  Zuljanaah Zuljanaah hai kahaaṅ...
 ---
 
 ۱

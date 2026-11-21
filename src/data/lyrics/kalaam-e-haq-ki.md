@@ -13,7 +13,7 @@ aliases: ["Kalame Haq Ki"]
 published: true
 romanLyrics: |-
   Kalaam-e-haq ki tilaawat hai saani-e-Zehra
-  Ke tarjumaane-risaalat hai saani-e-Zehra
+  Ke tarjumaan-e-risaalat hai saani-e-Zehra
 
   1
   Agar haiṅ Panjtan-e-paak aaya-e-tathir
@@ -41,7 +41,7 @@ romanLyrics: |-
   Hujum-e-aam meiṅ maiṅ nange sar gayi bhaiya
   Tumhaare sar ki qasam dar badar gayi bhaiya
   Sakina qaid meiṅ ro ro ke mar gayi bhaiya
-  Miyaan ranj o musibat hai saani-e-Zehra
+  Miyaan-e-ranj o musibat hai saani-e-Zehra
 
   5
   Watan ko jaati huṅ bhaiya hamaare saath chalo

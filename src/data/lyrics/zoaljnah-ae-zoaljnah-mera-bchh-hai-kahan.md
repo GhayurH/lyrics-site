@@ -8,83 +8,40 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Boli khatun-e-jina, yani Shabbir ki maa, mera bacha hay kahan
-
-  Zuljana aey zuljana Mera bacha hay kahan
-
+romanLyrics: |-
+  Boli Khatun-e-Jinaaṅ, yaani Shabbir ki maaṅ
+  Mera bachcha hai kahaaṅ
 
   1
-
-  1. Lay gaya ghar se ek pyaase ko, Rab ke mehboob ke nawase ko
-
-  Chor ker aagaya laeeno me, Gham zada maa ke tu assase ko
-
-  Dhund ne jaoon usay, is andhere me kaha(n)
-
-  Mera bachaa hay kahan
-
+  Zuljanaah ae Zuljanaah, mera bachcha haiṅ kahaaṅ
 
   2
-
-  2. Jis ne lashe uthaye the din bhar, khune asghar tha jiske chehre par
-
-  Zakhme akbar ki thi anni dil me, bhayi ki gham me jhuk gayi thi kamar,
-
-  Khaak urhaate hai nabi, hai ali mehve fughaa,
-
-
-  3
-
-  3. Raqibe dosh mustafa tha wo, tujhko bachpan se chahata tha wo
-
-  Saath kyu(n) aaj uska chor diya, jabke mushkil me agaya tha wo
-
-  Bewafayi ka sabab, kya karu(n) tujhko bayaa(n)
-
-
-  4
-
-  4. Tere mathe pe khun hai kiska, rang khu(n) ye tere sawaar ka tha
-
-  Hai mere shir ki mehek usme, kampta hai alam se dil mera,
-
-  Bol khamosh hai kyu(n), tere asu(n) hai rawaa
-
-
-  5
-
-  5. Jo teri pyaas par udaas raha, ho ke paani ki aaspaas raha
-
-  Phir bhi paani piyaa nahi usne, teri khatir wo mehwe yaas raha
-
-  Khushk tha uska ghala, khushk thi uski zabaan
-
-
-  6
-
-  6. Kaise soyegi ladli uski, jisko sine pa neend aati thi
-
-  Jisne roka tha tujhko jaate huwe, kya kahega agar wo puchhegi
-
-  Samna uska na kar, roke dedegi wo jaan
-
-
-  7
-
-  7. Qalb Zainab kaheen fighar na ho, dilpe ehle haram ke waar na ho
-
-  Tu jo khayme me jayenga khali, kon hai jo, ke soghwaar na ho
-
-  Tu jo jaayega wahaan, hashr ka honga samaan
-
-
-  8
-
-  8. Na gawaa sar sina pe aayaa nazar, zikre khaliq tha jiske honto par
-
-  Thaam kar dil larazte haathon se, boli Rehan madare sarwar
-
-  Tujhse ay aspe jhari, ab na puchengi ye maa'
+  Le gaya ghar se ek pyaase ko, Rab ke mahbub ke nawaase ko
+  Chhor kar aa gaya laainoṅ mein, gham zada maaṅ ke tu asaase ko
+  Dhundne jaauṅ use, is andhere mein kahaaṅ, mera bachcha hai kahaaṅ
+  Jis ne laashe uthaaye the din bhar, khun-e-Asghar tha jis ke chehre par
+  Zakhm-e-Akbar ki thi ani dil mein, bhaai ki gham mein jhuk gayi thi kamar
+  Khaak uraate hai Nabi, hai Ali mahv-e-fughaaṅ, mera bachcha hai kahaaṅ
+  Raaqib-e-dosh-e-Mustafa tha woh, tujh ko bachpan se chaahta tha woh
+  Saath kiuṅ aaj us ka chhor diya, jab ke mushkil mein aa gaya tha woh
+  Bewafaai ka sabab kya karuṅ tujh ko bayaaṅ, mera bachcha hai kahaaṅ
+  Fatima Zehra
+  Tere maathe pe khun hai kis ka, rang-e-khuṅ ye tere sawaar ka tha
+  Hai mere sher ki mahak us mein, kaanpta hai alam se dil mera
+  Bol khaamosh hai kiuṅ, tere aansu hai rawaaṅ, mera bachcha hai kahaaṅ
+  Jo teri pyaas par udaas raha, ho ke paani ki aas paas raha
+  Phir bhi paani piya nahiṅ us ne, teri khaatir woh mahv-e-yaas raha
+  Khushk tha us ka gala, khushk thi us ki zabaan, mera bachcha hai kahaaṅ
+  Kaise soye gi laadli us ki, jis ko sine pe nind aati thi
+  Jis ne roka tha tujh ko jaate hue, kya kahe ga agar woh puchhe gi
+  Saamna us ka na kar, rok de gi woh jahaaṅ, mera bachcha hai kahaaṅ
+  Qalb-e-Zainab kahiṅ figaar na ho, dil pe ahl-e-haram ke waar na ho
+  Tu jo khaime mein jaaye ga khaali, kaun hai jo ke sog waar na ho
+  Tu jo jaaye ga wahaaṅ, hashr ka ho ga samaaṅ, mera bachcha hai kahaaṅ
+  Naagawaaṅ sar sana pe aaya nazar, zikr-e-Khaaliq tha jis ke hontoṅ par
+  Thaam kar dil larazte haathoṅ se, boli Rehaan maadar-e-Sarwar
+  Tujh se ae asp-e-jari ab na puchhe gi ye maaṅ, mera bachcha hai kahaaṅ
+  Zuljanaah ae Zuljanaah, mera bachcha hai kahaaṅ
 ---
 
 بولی خاتونِ جناں یعنی شبیر کی ماں

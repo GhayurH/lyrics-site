@@ -8,6 +8,89 @@ reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shaam ke zindaan mein ek chhoti si qaidi
+  Haathoṅ mein paaoṅ mein aur gardan mein hai rassi
+  Aur sine pe baba ka hai sar, sar se hai lipti
+  Munh pe munh ko rakh ke bahut der woh roi
+  Haaye rote rote us ne jo li aakhri hichki
+  Zindaan mein dam tor gai shaah ki pyaari
+  Sakina
+  Sakina
+  Karte the Sajjad yeh nauha
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+
+  2
+  Qaidi agar qaid mein mar jaata hai koi
+  Laash ko rassi se chhura dete haiṅ us ki
+  Zakhmoṅ mein paiwast rasaaṅ hai tere aise
+  Main ne teri laash se rassi nahiṅ kholi
+  Laasha bikhar jaae kahiṅ na
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+
+  3
+  Khun rulaata hai yeh manzar meri behna
+  Jism tera khun mein hai tar meri behna
+  Haathoṅ pe laasha hai tera soch raha huṅ
+  Ghusl ko paani bhi mayassar nahiṅ behna
+  Tu hi bata de meri behna
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+
+  4
+  Kaisi musibat yeh pari dur watan se
+  Baba bhi mahrum hai aur tu bhi kafan se
+  Chaahuṅ chhuraana to chhura bhi nahiṅ sakta
+  Khun bhara kurta jo chipka hai badan se
+  Tera kafan hai yahi kurta
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+
+  5
+  Yaad mujhe aata hai ae ghamzada khwaahar
+  Mujh se yahi puchhti rehti thi tu aksar
+  Dafn main ho jaauṅ agar qaid-e-sitam mein
+  Shimr na aa jaae kahiṅ meri lahad par
+  Ab isi zindaan mein dukhiya
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+
+  6
+  Tu hi nahiṅ teri to saanseṅ bhi thi qaidi
+  Dekhi nahiṅ pehle kahiṅ aisi asiri
+  Sona jo chaaha to tujhe nind na aai
+  Rona jo chaaha to tamaachoṅ ki saza thi
+  Hogi teri qabr bhi tanha
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+
+  7
+  Mazhar o Farhan yahi baat hai nauha
+  Haathoṅ pe ek qaidi ke ek qaidi ka laasha
+  Kaise bandhe haathoṅ se main qabr banaao
+  Mim
+  Sab ko rulaata tha yeh Sajjad ka jumla
+  Haaye woh Sajjad ka kehna
+  Kaise main dafnaauṅ Sakina
+  Sakina
+  Kaise main dafnaauṅ Sakina
+  Kaise main dafnaauṅ Sakina
+  Sakina
 ---
 
 ۱

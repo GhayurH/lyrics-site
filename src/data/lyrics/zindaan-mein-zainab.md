@@ -46,7 +46,7 @@ romanLyrics: |-
   Maatam maiṅ karuṅ tera kaise
   Aazaad ho pehle haath mere
   Lekin hai mera waada tujh se
-  Ta hashr rahega zikr tera
+  Taa hashr rahega zikr tera
 
   6
   Tere bin jo watan jaayegi behan
@@ -58,7 +58,7 @@ romanLyrics: |-
   Puchhegi agar Sughra mujh se
   Kiuṅ aaye nahiṅ Baba mere
   Maiṅ kaise kahuṅgi ae Sughra
-  Baba ne basaayi Karbobala
+  Baba ne basaayi Karb o Bala
 
   8
   Maiṅ Aun o Muhammad ke hujre
@@ -68,8 +68,8 @@ romanLyrics: |-
 
   9
   Zindaaṅ meiṅ Sakina mar gayi hai
-  Dunya se safar wo kar gayi hai
-  Nikla na rehaai ka armaaṅ
+  Duniya se safar wo kar gayi hai
+  Nikla na rihaai ka armaaṅ
   Taabut Sakina bhi na utha
 
   10

@@ -1,28 +1,45 @@
 ---
-title: "Qurbaniyan Bhulniyan Nai Muhammad Raza Mungla Lyrics 2024"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "قربانیاں بھلنیاں نئیں"
+alternateTitle: "Qurbaniyan Bhulniyan Nai"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jawad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Qurbaniyan bhulniyan nai Muhammad Raza Mungla
+  Qurbaniyaan bhulniyan nayi Zainab de veer diyaan
+  Lut laiyaan ummat kamayan Pak Shabbir diyaan
+  Lagi nana aynj di barchi hoya jigar jawan da zakhmi
+  Tati rait te mukiyaan sahwaan teri tasveer diyaan
+  Wich maqtal sehriyaan naal aye howa banda khon ich lal aye
+  Pamal kamayan hoiyaan Hasan Ameer diyaan
+  Kita matam dard sataiyaan raj roiyaan Zahra jaiyaan
+  Jadon nehar te katiyaan bawaan Ghazi veer diyaan
+  Gaye Aoun-o-Muhammad marey Zainab de raaj dularay
+  Kiwein seh gaya kamsin Asghar nokaan teer diyaan
+  Karey ujari baba baba roya rat ghairat da kaba
+  Sajjad dohaiyaan suniyaan jadon humsheer diyaan
+  Athro Jawad wakha ke Quran nu sir te cha ke
+  Rayi gindi Zainab zarbaan be taqseer diyaan
 ---
 
-1
-Qurbaniyan Bhulniyan Nai Muhammad Raza Mungla.
-Qurbaniyaan Bhulniyan Nayi Zainab De Veer Diyaan.
-Lut Laiyaan Ummat Kamayan Pak Shabbir Diyaan.
-Lagi Nana Aynj Di Barchi Hoya Jigar Jawan Da Zakhmi.
-Tati Rait Te Mukiyaan Sahwaan Teri Tasveer Diyaan.
-Wich Maqtal Sehriyaan Naal Aye Howa Banda Khon Ich Lal Aye.
-Pamal Kamayan Hoiyaan Hasan Ameer Diyaan.
-Kita Matam Dard Sataiyaan Raj Roiyaan Zahra Jaiyaan.
-Jadon Nehar Te Katiyaan Bawaan Ghazi Veer Diyaan.
-Gaye Aoun-o-Muhammad Marey Zainab De Raaj Dularay.
-Kiwein Seh Gaya Kamsin Asghar Nokaan Teer Diyaan.
-Karey Ujari Baba Baba Roya Rat Ghairat Da Kaba.
-Sajjad Dohaiyaan Suniyaan Jadon Humsheer Diyaan.
-Athro Jawad Wakha Ke Quran Nu Sir Te Cha Ke.
-Rayi Gindi Zainab Zarbaan Be Taqseer Diyaan.
+۱
+قربانیاں بھلنیاں نئیں محمد رضا منگلا
+قربانیاں بھلنیاں نئیں زینب دے ویر دیاں
+لُٹ لئیاں اُمت کمائیاں پاک شبیر دیاں
+لگی نانا اینج دی برچھی ہویا جگر جوان دا زخمی
+تتی ریت تے مکیاں ساہواں تیری تصویر دیاں
+وچ مقتل سہریاں نال آئے ہووا بندا خون اچ لال اے
+پامال کمائیاں ہوئیاں حسن امیر دیاں
+کیتا ماتم درد ستائیاں رج روئیاں زہرا جائیاں
+جدوں نہر تے کٹیاں باہواں غازی ویر دیاں
+گئے عون و محمد مارے زینب دے راج دلارے
+کیویں سہہ گیا کم سن اصغر نوکاں تیر دیاں
+کرے اجاڑی بابا بابا رویا رت غیرت دا کعبہ
+سجاد دہائیاں سنیاں جدوں ہمشیر دیاں
+اتھرو جواد وکھا کے قرآن نوں سر تے چا کے
+رہی گندی زینب ضرباں بے تقصیر دیاں

@@ -7,47 +7,33 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Qasim ki laash le kar aate hai ran se sarwar
-
-  Hai qaimagah may mehshar aate hai ran se sarwar
-
-  Dulha jise banakar bheja tha ran may maadar
-
-  Laasha usi ka lekar aate hai ran se sarwar
-
+romanLyrics: |-
+  Qasim ki laash le kar aate haiṅ ran se Sarwar
 
   1
-
-  Qasim ki laash lekar...
-
-  Qaimon may jaake keh do masnad koi bichao
-
-  Dulha ki laash utha kar aate hai ran se sarwar
-
+  Hai khaima gaah meiṅ mahshar aate haiṅ ran se Sarwar
+  Dulha jise bana kar bheji tha ran meiṅ maadar
+  Laasha usi ka le kar aate haiṅ ran se Sarwar
 
   2
-
-  Wo garm rayg sehra pamaal gul sa laasha
-
-  Roti hai roohe shabbar aate hai ran se sarwar
-
-  Yun dhoondte hai tukde jaise hai phool chunte
-
+  Khaimoṅ meiṅ ja ke keh do masnad koi bichhao
+  Dulha ki laash utha kar aate haiṅ ran se Sarwar
 
   3
-
-  Ran may aba bichkar aate hai ran se sarwar
-
-  Dulhan shitaab dekhe laashe ke yun na tukde
-
-  Zere aba chipa kar aate hai ran se sarwar
-
+  Wo garm reg sahra paamaal gul sa laasha
+  Roti hai ruh-e-Shabbar aate haiṅ ran se Sarwar
 
   4
+  Yuṅ dhundte haiṅ tukre jaise haiṅ phul chunte
+  Ran meiṅ aba bichha kar aate haiṅ ran se Sarwar
 
-  Momin haram may ghul tha wa qasima ka barpa
+  5
+  Dulhan shitaab dekhe laashe ke yuṅ na tukre
+  Zer-e-aba chhupa kar aate haiṅ ran se Sarwar
 
-  Kya sakt tha wo manzar aate hai ran se sarwar'
+  6
+  Momin haram meiṅ ghul tha wa Qasima ka barpa
+  Kya sakht tha wo manzar aate haiṅ ran se Sarwar
 ---
 
 ؑقاسمؑ کی لاش لے کر آتے ہیں رن سے سرور

@@ -13,7 +13,7 @@ aliases: ["Qatl Hue Shere Khuda"]
 published: true
 romanLyrics: |-
   Ali Ali Ali Ali
-  Ya Ali Maula Haider Maula
+  Ya Ali Maula Haidar Maula
 
   Karte the Jibril ye noha qatl huwe Sher-e-Khuda
   Haye Ali haye
@@ -22,13 +22,13 @@ romanLyrics: |-
 
   1
   Khaana-e-Zehra meiṅ jab pahunchi ye gham ki khabar
-  Tegh-e-jafa chal gayi Haidar-e-Karraar par
+  Tegh-e-jafa chal gayi Haidar Karraar par
   Khun meiṅ duba hai musalla qatl huwe Sher-e-Khuda
   Haye Ali haye
 
   2
-  Kufe ki galiyoṅ meiṅ thi ek qayamat bapa
-  Bewa yatimoṅ meiṅ ye naala o shewan utha
+  Kufe ki galiyoṅ meiṅ thi ik qayaamat bapa
+  Bewah yatimoṅ meiṅ ye naala o shewan utha
   Kaun hameṅ dega sahaara qatl huwe Sher-e-Khuda
   Haye Ali haye
 
@@ -39,7 +39,7 @@ romanLyrics: |-
   Haye Ali haye
 
   4
-  Ek chataai pe phir unko litaaya gaya
+  Ek chataai pe phir un ko litaaya gaya
   Khaana-e-Zehra meiṅ jab Maula ko laaya gaya
   Karti thi shehzadiyaṅ noha qatl huwe Sher-e-Khuda
   Haye Ali haye
@@ -52,19 +52,19 @@ romanLyrics: |-
 
   6
   Daagh-e-yatimi mila Sayyid-e-Mazlum ko
-  Kaun sambhaalega ab Zainab o Kulsum ko
+  Kaun sambhaale ga ab Zainab o Kulsum ko
   Sab se bara hai yehi sadma qatl huwe Sher-e-Khuda
   Haye Ali haye
 
   7
-  Ro ke hi unnis aur bis ka din kat gaya
+  Ro ke hi unniswiṅ aur bis ka din kat gaya
   Aayi jo ikkiswiṅ kar gaye Maula qaza
   Gunj raha tha yehi noha qatl huwe Sher-e-Khuda
   Haye Ali haye
 
   8
   Roti haiṅ shehzadiyaṅ kunba dil afgaar hai
-  Haidar-e-Karraar ka aakhri didaar hai
+  Haidar Karraar ka aakhri didaar hai
   Ab hai tasalli na dilaasa qatl huwe Sher-e-Khuda
   Haye Ali haye
 

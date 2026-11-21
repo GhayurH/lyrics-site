@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qayamat kiuṅ nahi aayi
-  Chini sadaat ki chadar qayamat kiuṅ nahi aayi
-  Phiri aale nabi dar dar qayamat kiuṅ nahi aayi
-  Jala daaman raha khamosh ye charkhe kohan kiuṅ kar
-  Sakina ke chine gauhar qayamat kiuṅ nahi aayi
+  Qayamat kiuṅ nahiṅ aayi
+  Chhini sadaat ki chadar qayamat kiuṅ nahiṅ aayi
+  Phir li Nabi dar dar qayamat kiuṅ nahiṅ aayi
+  Jala daaman raha khamosh ye charkh-e-kohan kiuṅ kar
+  Sakina ke chhine gauhar qayamat kiuṅ nahiṅ aayi
 
   2
-  Wo nazuk sa gala aur hurmala ka tir wo bhaari
-  Tarap ke reh gaye asghar qayamat kiuṅ nahi aayi
+  Wo nazuk sa gala aur Hurmala ka tir wo bhaari
+  Tarap ke reh gaye Asghar qayamat kiuṅ nahiṅ aayi
 
   3
-  Qayaam e umme laila ka wo manzar yaad hai hum ko
-  Huwe rukhsat ali akbar qayamat kiuṅ nahi aayi
+  Qayaam-e-Umm-e-Laila ka wo manzar yaad hai hum ko
+  Hue rukhsat Ali Akbar qayamat kiuṅ nahiṅ aayi
 
   4
-  Kati sehre ki lariyaṅ hogaya zakhmi badan saara
-  Hui mehendi bhi khun may tar qayamat kiuṅ nahi aayi
+  Kati sehre ki lariyaṅ ho gaya zakhmi badan saara
+  Hui mehndi bhi khun mein tar qayamat kiuṅ nahiṅ aayi
 
   5
   Guzarta hi raha ek kund khanjar sheh ki gardan se
-  Tarapti hi rahi maadar qayamat kiuṅ nahi aayi
+  Tarapti hi rahi maadar qayamat kiuṅ nahiṅ aayi
 
   6
-  Doham ki subh se qaid-e-alam ki subhe rukhsat tha
-  Bapa hota raha mehshar qayamat kiuṅ nahi aayi
+  Daham ki subh se qaid-e-alam ki subh-e-rukhsat tha
+  Bapa hota raha mahshar qayamat kiuṅ nahiṅ aayi
 
   7
-  Ab is se bad ke zehra pe musibat aur kya hogi
-  Khule saydaniyo ke sar qayamat kiuṅ nahi aayi
+  Ab is se barh ke Zehra pe musibat aur kya ho gi
+  Khule Saydaniyoṅ ke sar qayamat kiuṅ nahiṅ aayi
 
   8
-  Lehed pe sheh ki baithe sochte hai dayam o yazdaṅ
-  Luta zehra ka pura ghar qayamat kiuṅ nahi aayi
+  Lahad pe sheh ki baithe sochte hai Dayam o Yazdaaṅ
+  Luta Zehra ka pura ghar qayamat kiuṅ nahiṅ aayi
 ---
 
 ۱

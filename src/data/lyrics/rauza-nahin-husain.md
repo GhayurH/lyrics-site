@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Aankheṅ nahiṅ hoṅ phir bhi nazar aaye raasta
   Maiṅ de raha huṅ aap ko Jabir ka waasta
-  Itna buland kijiye meinaar ishq ka
+  Itna buland kijiye miyaar ishq ka
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   2
@@ -36,7 +36,7 @@ romanLyrics: |-
   4
   Puri ho kaise Maula ziyaarat ki aarzu
   Jab tak na aap se ho mulaaqaat rubaru
-  Tab jaa ke hoga meri ziyaarat ka haq ada
+  Tab jaa ke hoga meri ziyaarat ka haq adaa
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   6
-  Pahuṅchuṅ haram meiṅ jab kaf-e-Abbas dekh kar
+  Pahunchuṅ haram meiṅ jab kaf-e-Abbas dekh kar
   Chehre ke bal gira duṅ maiṅ khud ko zamin par
   Ghazi ka pursa lijiye jab duṅ maiṅ ye sada
   Rauza nahiṅ Husain nazar aayeṅ saamne

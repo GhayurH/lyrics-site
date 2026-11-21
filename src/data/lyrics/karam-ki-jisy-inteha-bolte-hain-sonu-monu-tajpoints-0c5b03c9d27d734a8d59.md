@@ -1,44 +1,77 @@
 ---
-title: "Karam Ki Jisy Inteha Bolte Hain Sonu Monu"
+title: "کرم کی جسے انتہا بولتے ہیں، سونو مونو"
+alternateTitle: "Karam Ki Jisy Inteha Bolte Hain Sonu Monu"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Arsalan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Karam ki jisy inteha bolte hain Sonu Monu
+  Hum oss ko hi Maula Raza boltay hain
+
+  1
+  Jahan aa ke Esa shifa mangta ho
+  Ossi ko tu sehan-e-shifa boltay hain
+  Hamarey muqadar mein hai madh-e-Maula
+  Farishtay issi ko atta boltay hain
+
+  2
+  Hai sab se zarori yehi tu aqeeda
+  Jisay hum hadees-e-kisa boltay hain
+  Nikal kar yeh tasveer se shair bola
+  Issay jadogar mojza boltay hain
+
+  3
+  Raza gar na hoon tu yeh Iran kya hai?
+  Jisay aap jannat numa boltay hain!
+  Hain Mashhad mein Mamoon jaisay abhi bhi
+  Jo matam ko Sheh ke bura boltay hain
+
+  4
+  Jo Mashhad mein Maula ke dar pe lagi hai
+  Issi ko saf-e-Anbiya boltay hai
+  Hamarey tu rehbar imam-e-Raza hain
+  Na jane kisay aap kya boltay hain
+
+  5
+  Muqassar pe lanat, Nuseri pe lanat
+  Khilaf-e-aqeeda bara boltay hain
+  Main Arsalan Maula ko Rab bolta hoon
+  Kayi loag inn ko Khuda boltay hain
 ---
 
-Karam Ki Jisy Inteha Bolte Hain Sonu Monu.
-Hum Oss Ko Hi Maula Raza Boltay Hain.
+کرم کی جسے انتہا بولتے ہیں، سونو مونو
+ہم اس کو ہی مولا رضا بولتے ہیں
 
-1
-Jahan Aa Ke Esa Shifa Mangta Ho.
-Ossi Ko Tu Sehan-e-Shifa Boltay Hain.
-Hamarey Muqadar Mein Hai Madh-e-Maula.
-Farishtay Issi Ko Atta Boltay Hain.
+۱
+جہاں آ کے عیسیٰ شفا مانگتا ہو
+اسی کو تو صحنِ شفا بولتے ہیں
+ہمارے مقدر میں ہے مدحِ مولا
+فرشتے اسی کو عطا بولتے ہیں
 
-2
-Hai Sab Se Zarori Yehi Tu Aqeeda.
-Jisay Hum Hadees-e-Kisa Boltay Hain.
-Nikal Kar Yeh Tasveer Se Shair Bola.
-Issay Jadogar Mojza Boltay Hain.
+۲
+ہے سب سے ضروری یہی تو عقیدہ
+جسے ہم حدیثِ کسا بولتے ہیں
+نکل کر یہ تصویر سے شیر بولا
+اسے جادوگر معجزہ بولتے ہیں
 
-3
-Raza Gar Na Hoon Tu Yeh Iran Kya Hai?.
-Jisay Aap Jannat Numa Boltay Hain!.
-Hain Mashhad Mein Mamoon Jaisay Abhi Bhi.
-Jo Matam Ko Sheh Ke Bura Boltay Hain.
+۳
+رضا گر نہ ہوں تو یہ ایران کیا ہے؟
+جسے آپ جنت نما بولتے ہیں!
+ہیں مشہد میں مامون جیسے ابھی بھی
+جو ماتم کو شہ کے برا بولتے ہیں
 
-4
-Jo Mashhad Mein Maula Ke Dar Pe Lagi Hai.
-Issi Ko Saf-e-Anbiya Boltay Hai.
-Hamarey Tu Rehbar Imam-e-Raza Hain.
-Na Jane Kisay Aap Kya Boltay Hain.
+۴
+جو مشہد میں مولا کے در پہ لگی ہے
+اسی کو صفِ انبیا بولتے ہیں
+ہمارے تو رہبر امامِ رضا ہیں
+نہ جانے کسے آپ کیا بولتے ہیں
 
-5
-Muqassar Pe Lanat, Nuseri Pe Lanat.
-Khilaf-e-Aqeeda Bara Boltay Hain.
-Main Arsalan Maula Ko Rab Bolta Hoon.
-Kayi Loag Inn Ko Khuda Boltay Hain.
+۵
+مقصر پہ لعنت، نصیری پہ لعنت
+خلافِ عقیدہ بڑا بولتے ہیں
+میں ارسلان مولا کو رب بولتا ہوں
+کئی لوگ ان کو خدا بولتے ہیں

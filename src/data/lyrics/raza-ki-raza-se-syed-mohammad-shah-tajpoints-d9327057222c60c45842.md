@@ -1,41 +1,72 @@
 ---
-title: "Raza Ki Raza Se Syed Mohammad Shah"
+title: "رضا کی رضا سے سید محمد شاہ"
+alternateTitle: "Raza Ki Raza Se Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yeh pardah hata hai Raza ki raza se
+  Khuda mil gaya hai Raza ki raza se
+  Yeh Maroof ke sar pe nalain kab hai
+  Amama mila hai Raza ki raza se
+
+  2
+  Uthaye ga woh Qum ba izni se murday
+  Jo Qum ja raha hai Raza ki raza se
+  Main Baab-e-Raza par jo chor aaya sajdah
+  Khuda tak gaya hai Raza ki raza se
+
+  3
+  Utha Shair-e-Qaleen tu Aadam pukarey
+  Yeh zindah howa hai Raza ki raza se
+  Woh Salman hai dekho Debal ki sorat
+  Dobarah bana hai Raza ki raza se
+
+  4
+  Aye Shiyon na ghabrana rooz-e-qayamat
+  Jaza our saza hai Raza ki raza se
+  Mozeef e Haram raziq-e-do jahan hai
+  Khuda bantta hai Raza ki raza se
+
+  5
+  Dharakti hai seene mein matam ki nobat
+  Yeh dil Karbala hai Raza ki raza se
+  Aimaad iss liye zindah hain shair mere
+  Aqeeda likha hai Raza ki raza se
 ---
 
-1
-Yeh Pardah Hata Hai Raza Ki Raza Se.
-Khuda Mil Gaya Hai Raza Ki Raza Se.
-Yeh Maroof Ke Sar Pe Nalain Kab Hai.
-Amama Mila Hai Raza Ki Raza Se.
+۱
+یہ پردہ ہٹا ہے رضا کی رضا سے
+خدا مل گیا ہے رضا کی رضا سے
+یہ معروف کے سر پہ نعلین کب ہے
+عمامہ ملا ہے رضا کی رضا سے
 
-2
-Uthaye Ga Woh Qum Ba Izni Se Murday.
-Jo Qum Ja Raha Hai Raza Ki Raza Se.
-Main Baab-e-Raza Par Jo Chor Aaya Sajdah.
-Khuda Tak Gaya Hai Raza Ki Raza Se.
+۲
+اٹھائے گا وہ قُم بِاِذنی سے مردے
+جو قم جا رہا ہے رضا کی رضا سے
+میں بابِ رضا پر جو چھوڑ آیا سجدہ
+خدا تک گیا ہے رضا کی رضا سے
 
-3
-Utha Shair-e-Qaleen Tu Aadam Pukarey.
-Yeh Zindah Howa Hai Raza Ki Raza Se.
-Woh Salman Hai Dekho Debal Ki Sorat.
-Dobarah Bana Hai Raza Ki Raza Se.
+۳
+اٹھا شیرِ قالین تو آدم پکارے
+یہ زندہ ہوا ہے رضا کی رضا سے
+وہ سلمان ہے دیکھو دعبل کی صورت
+دوبارہ بنا ہے رضا کی رضا سے
 
-4
-Aye Shiyon Na Ghabrana Rooz-e-Qayamat.
-Jaza Our Saza Hai Raza Ki Raza Se.
-Mozeef e Haram Raziq-e-Do Jahan Hai.
-Khuda Bantta Hai Raza Ki Raza Se.
+۴
+اے شیعوں نہ گھبرانا روزِ قیامت
+جزا اور سزا ہے رضا کی رضا سے
+مضیفِ حرم رازقِ دو جہاں ہے
+خدا بانٹتا ہے رضا کی رضا سے
 
-5
-Dharakti Hai Seene Mein Matam Ki Nobat.
-Yeh Dil Karbala Hai Raza Ki Raza Se.
- Aimaad Iss Liye Zindah Hain Shair Mere.
-Aqeeda Likha Hai Raza Ki Raza Se.
+۵
+دھڑکتی ہے سینے میں ماتم کی نوبت
+یہ دل کربلا ہے رضا کی رضا سے
+عماد اس لیے زندہ ہیں شعر میرے
+عقیدہ لکھا ہے رضا کی رضا سے

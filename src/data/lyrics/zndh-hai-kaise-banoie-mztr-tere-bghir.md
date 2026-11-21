@@ -1,53 +1,96 @@
 ---
 title: "زندہ ہے کیسے بانوئے مضطر تیرے بغیر"
+alternateTitle: "Zindah Hai Kaise Banu-e-Muztar Tere Baghair"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Zindah hai kaise Banu-e-muztar tere baghair
+  Veeran saree duniya hai Asghar terey baghair
+
+  1
+  Aatee to hogee yaad-e Sakina tujhe bhee la-al
+  Bechain hai yahaan tery khwahar tere baghair
+
+  2
+  Sughra na sun sakegee gala chid gaya teraa
+  Waise hee jaa-n ba-lab hai woh laghar tere baghair
+
+  3
+  Jangal ke soone pan mein woh nanha sa tera s-i-n
+  Maqtal se jaai kaise yeh maadar tere baghair
+
+  4
+  Zainab ke saath saath hain Laila bhee di figaar
+  "Akbar tere baghair, Ali Asghar tere baghair"
+
+  5
+  Paane kahan ke aas bhee pani kee ab nahin
+  Tishna laboon ko sanee-e-Haider tere baghair
+
+  6
+  Abbas kuch to deejiye sahara Hussain ko
+  Kaise uthain laasha-i-Akbar tere baghair
+
+  7
+  Akbar [Edited Out]aab aao sahara pedar ko do
+  Uth-ta nahin hai laash-e-baradar tere baghair
+
+  8
+  Maula dayar-e quatl se shaer-e Rasoool tak
+  Ruswa huai-e hain aal-e payambar tere baghair
+
+  9
+  Is darjah dil kharaash theiy manzar be Karbala
+  Roo-ee zameen rooya hai Amnbar tere baghair
+
+  10
+  Sharib abus woh karte hain jannat kee aarzoo
+  Rakht-e hain deen jo dama-e Sarwar tere baghair
 ---
 
-Zindah hai kaise Banu-e-muztar tere baghair
-Veeran saree duniya hai Asghar terey baghair
+زندہ ہے کیسے بانوئے مضطر تیرے بغیر
+ویراں ساری دنیا ہے اصغر تیرے بغیر
 
-1
-AAtee to hogee yaad-e Sakina tujhe bhee la-al
-Bechain hai yahaan tery khwahar tere baghair
+۱
+آتی تو ہوگی یادِ سکینہ تجھے بھی لعل
+بے چین ہے یہاں تیری خواہر تیرے بغیر
 
-2
-Sughra na sun sakegee gala chid gaya teraa
-Waise hee jaa-n ba-lab hai woh laghar tere baghair
+۲
+صغریٰ نہ سن سکے گی گلا چھد گیا تیرا
+ویسے ہی جاں بہ لب ہے وہ لاغر تیرے بغیر
 
-3
-Jangal ke soone pan mein woh nanha sa tera s-i-n
-Maqtal se jaai kaise yeh maadar tere baghair
+۳
+جنگل کے سونے پن میں وہ ننھا سا تیرا سِن
+مقتل سے جائے کیسے یہ مادر تیرے بغیر
 
-4
-Zainab ke saath saath hain Laila bhee di figaar
-"Akbar tere baghair, Ali asghar tere baghair"
+۴
+زینب کے ساتھ ساتھ ہیں لیلیٰ بھی دل فگار
+"اکبر تیرے بغیر، علی اصغر تیرے بغیر"
 
-5
-Paane kahan ke aas bhee pani kee ab nahin
-Tishna laboon ko sanee-e-Haider tere baghair
+۵
+پانے کہاں کہ آس بھی پانی کی اب نہیں
+تشنہ لبوں کو ثانیِ حیدر تیرے بغیر
 
-6
-Abbas kuch to deejiye sahara Hussain ko
-Kaise Uthain laasha-i-Akbar tere baghair
+۶
+عباس کچھ تو دیجیے سہارا حسین کو
+کیسے اٹھائیں لاشۂ اکبر تیرے بغیر
 
-7
-Akbar [Edited Out]aab aao sahara pedar ko do
-Uth-ta nahin hai laash-e-baradar tere baghair
+۷
+اکبر اب آؤ سہارا پدر کو دو
+اٹھتا نہیں ہے لاشِ برادر تیرے بغیر
 
-8
-Maula Dayar-e quatl se shaer-e Rasoool tak
-Ruswa huai-e hain aal-e payambar tere baghair
+۸
+مولا دیارِ قتل سے شہرِ رسول تک
+رسوا ہوئے ہیں آلِ پیمبر تیرے بغیر
 
-9
-Is darjah dil kharaash theiy manzar be Karbala
-Roo-ee Zameen rooya hai Amnbar tere baghair
+۹
+اس درجہ دل خراش تھے منظر بہ کربلا
+روئی زمین رویا ہے امبر تیرے بغیر
 
-10
-Sharib abus woh karte hain jannat kee aarzoo
-Rakht-e hain deen jo dama-e Sarwar tere baghair.
+۱۰
+شارب عبث وہ کرتے ہیں جنت کی آرزو
+رکھتے ہیں دین جو دمِ سرور تیرے بغیر

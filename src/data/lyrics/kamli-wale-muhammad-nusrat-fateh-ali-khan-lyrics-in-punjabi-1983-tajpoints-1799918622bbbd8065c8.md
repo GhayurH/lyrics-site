@@ -1,29 +1,45 @@
 ---
-title: "Kamli Wale Muhammad Nusrat Fateh Ali Khan Lyrics In Punjabi 1983"
+title: "کملی والے محمد"
+alternateTitle: "Kamli Wale Muhammad"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Bari"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kamli walay Muhammad taun sadqay main jaan jinay aa ke ghareebaan di baan phar layi
+  Meri bakhshish waseela Muhammad da naa jinay aa ke ghareebaan di baan phar layi
+  Odhay bajoon koi dunya te pyara nayi odhay warga koi jag te sahara nayi
+
+  2
+  Jay naa hunday Muhammad naa hunda jahan jinay aa ke ghareebaan di baan phar layi
+  Kyun nayi mangday tusi kali kamli di chaan jinay aa ke ghareebaan di baan phar layi
+  Laya badwaan nu seene kamal hoya koi Habshi taun Hazrat Bilal hoya
+  Aaye dar te sawali nu keeti nayi naa jinay aa ke ghareebaan di baan phar layi
+
+  3
+  Naal ungli isharey de chan toriya gaya soraj agaan wal pichay moriya
+  Kalma sohne Muhammad da parhya buttaan jinay aa ke ghareebaan di baan phar layi
+  Wairi pathar v maran te hasday rahay fair v rah-e-Khuda sab nu dasday rahay
+  Bari siftaan che parya aye sara Quraan jinay aa ke ghareebaan di baan phar layi
 ---
 
-1
-Kamli Wale Muhammad Nusrat Fateh Ali Khan.
-Kamli Walay Muhammad Taun Sadqay Main Jaan Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
-Meri Bakhshish Waseela Muhammad Da Naa Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
-Odhay Bajoon Koi Dunya Te Pyara Nayi Odhay Warga Koi Jag Te Sahara Nayi.
+۱
+کملی والے محمد توں صدقے میں جاں، جنے آ کے غریباں دی بانہہ پھڑ لئی
+میری بخشش وسیلہ محمد دا ناں، جنے آ کے غریباں دی بانہہ پھڑ لئی
+اوہدے باجھوں کوئی دنیا تے پیارا نئیں، اوہدے ورگا کوئی جگ تے سہارا نئیں
 
-2
-Jay Naa Hunday Muhammad Naa Hunda Jahan Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
-Kyun Nayi Mangday Tusi Kali Kamli Di Chaan Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
-Laya Badwaan Nu Seene Kamal Hoya Koi Habshi Taun Hazrat Bilal Hoya.
-Aaye Dar Te Sawali Nu Keeti Nayi Naa Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
+۲
+جے نہ ہندے محمد نہ ہندا جہان، جنے آ کے غریباں دی بانہہ پھڑ لئی
+کیوں نئیں منگدے تسی کالی کملی دی چھاں، جنے آ کے غریباں دی بانہہ پھڑ لئی
+لایا بدواں نوں سینے کمال ہویا، کوئی حبشی توں حضرت بلال ہویا
+آئے در تے سوالی نوں کیتی نئیں ناں، جنے آ کے غریباں دی بانہہ پھڑ لئی
 
-3
-Naal Ungli Isharey De Chan Toriya Gaya Soraj Agaan Wal Pichay Moriya.
-Kalma Sohne Muhammad Da Parhya Buttaan Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
-Wairi Pathar V Maran Te Hasday Rahay Fair V Rah-e-Khuda Sab Nu Dasday Rahay.
- Bari Siftaan Che Parya Aye Sara Quraan Jinay Aa Ke Ghareebaan Di Baan Phar Layi.
+۳
+نال انگلی اشارے دے چن توڑیا گیا، سورج اگاں ول پچھے موڑیا
+کلمہ سوہنے محمد دا پڑھیا بتاں، جنے آ کے غریباں دی بانہہ پھڑ لئی
+ویری پتھر وی مارن تے ہسدے رہے، فیر وی راہِ خدا سب نوں دس دے رہے
+باری صفتاں چے پڑیا اے سارا قرآن، جنے آ کے غریباں دی بانہہ پھڑ لئی

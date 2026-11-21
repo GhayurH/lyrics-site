@@ -23,13 +23,13 @@ romanLyrics: |-
 
   2
   Husain tujh se baqa din ki nabuwwat ki
-  Husain tu ne rakhi aabru shariat ki
-  Husain tu ne kamar tor di shaqaawat ki
-  Tere sabab hai ayaaṅ la ilaha illallah
+  Husain tu ne aabru rakhi shariat ki
+  Husain tu ne kamar tor di sakhaawat ki
+  Tere sabab haiṅ ayaaṅ la ilaha illallah
 
   3
   Kisi zaif ki nazroṅ meiṅ yuṅ nahiṅ dekha
-  Ke aeriyoṅ ko ragarta hai naujawaan beta
+  Qaidiyoṅ ko ragarta hai naujawaan beta
   Ulat ke aastin keh ke ya Ali Maula
   Tu khinchta hai sinaaṅ la ilaha illallah
 
@@ -41,21 +41,21 @@ romanLyrics: |-
 
   5
   Bapa hai shor o fughaaṅ saare aasmaanoṅ par
-  Ajib yaas hai ahl-e-haram ke chehroṅ par
+  Ajib yaas hai ahl-e-haram ki chehroṅ par
   Pidar ke hukm pe maasum khushk hontoṅ par
-  Jo pherta hai zabaaṅ la ilaha illallah
+  Jo pherti hai zabaaṅ la ilaha illallah
 
   6
   Damishq ki wo sajaawat ke jaise har ghar Eid
   Ali ki betiyaaṅ darbaar-e-Shaam aur wo Yazid
-  Wo chob-e-khushk wo Sarwar ka sar wo zulm shadid
+  Wo chubhe khushk wo Sarwar ka sar wo zulm shadid
   Laraz raha hai jahaaṅ la ilaha illallah
 
   7
   Jahaaṅ bhi majlis-e-Sarwar ho shor-e-maatam ho
-  Mare to qabr meiṅ Shahid bas ek ye gham ho
+  Mere to qabr meiṅ Shahid bas ik ye gham ho
   Ye saans aaye ke ruk jaaye aankh purnam ho
-  Fida ho tujh pe jahaaṅ la ilaha illallah
+  Fida ho tujh pe jawaaṅ la ilaha illallah
 ---
 قتیل تیغ و سناں لا الہ الا اللہ
 تیرے بغیر کہاں لا الہ الا اللہ

@@ -12,56 +12,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zinda rahe Husain tera gham manaeṅge
-  Ae Fatima ke laal ye waada nibhaeṅge
+  Zinda rahe Husain tera gham manaeṅ ge
+  Ae Fatima ke laal ye waada nibhaeṅ ge
 
   1
-  Ghar meiṅ hamare aaeṅgi majlis meiṅ Fatima
-  Farsh-e-aza ke saath ye dil bhi bichhaeṅge
+  Ghar meiṅ hamaare aaeṅ gi majlis meiṅ Fatima
+  Farsh-e-aza ke saath ye dil bhi bichhaeṅ ge
 
   2
   Jhule amaariyaṅ ye shabiheṅ ye taaziye
-  Tehzib-e-gham se dard ke manzar sajaeṅge
+  Tehzib-e-gham se dard ke manzar sajaeṅ ge
 
   3
   Ye un ka hai julus jo pyaase hue shahid
-  Hum is ke raaste meiṅ sabileṅ lagaeṅge
+  Hum is ke raaste meiṅ sabileṅ lagaeṅ ge
 
   4
   Kehte haiṅ chhote chhote se bachche ye baap se
-  Ik roz baba jaan ye alam hum uthaeṅge
+  Ik roz baba jaan ye alam hum uthaeṅ ge
 
   5
   Kuchh der Zuljanah mere ghar pe rok do
-  Pyaase ki is sawari ko paani pilaeṅge
+  Pyaase ki is sawari ko paani pilaeṅ ge
 
   6
-  Bachpan se hai dua ke banaeṅge ghar jahaaṅ
-  Aashur khana ghar meiṅ wahaaṅ hum sajaeṅge
+  Bachpan se hai dua ke banaeṅ ge ghar jahaaṅ
+  Aashur khaana ghar meiṅ wahaaṅ hum sajaeṅ ge
 
   7
   Ghar meiṅ agar ho nazr-e-Sakina to hai yaqiṅ
-  Us nazr meiṅ Sakina ke ammu bhi aaeṅge
+  Us nazr meiṅ Sakina ke ammu bhi aaeṅ ge
 
   8
   Kis shaan ke mile haiṅ namazi Husain ko
-  Tiroṅ ke saamne ye musalle bichhaeṅge
+  Tiroṅ ke saamne ye musalle bichhaeṅ ge
 
   9
   Bachchoṅ ko apne sajda-e-Shabbir ki qasam
-  Maatam ke saath saath namazeṅ sikhaeṅge
+  Maatam ke saath saath namaazeṅ sikhaeṅ ge
 
   10
   Rah-e-Husainiyat ke shahido salaam lo
-  In ko na apne dil se kabhi hum bhulaeṅge
+  In ko na apne dil se kabhi hum bhulaeṅ ge
 
   11
   Baad-e-zuhur hoga Muharram ka ye hasham
-  Hum Karbala Imam ke hamraah jaaeṅge
+  Hum Karbala Imam ke hamraah jaaeṅ ge
 
   12
   Noha bhi hai safir-e-aza Sarwar o Hilal
-  Jis des bhi jaaeṅge noha sunaeṅge
+  Jis des bhi jaaeṅ ge noha sunaeṅ ge
 ---
 زندہ رہے حسین تیرا غم منائیں گے
 اے فاطمہ کے لال یہ وعدہ نبھائیں گے

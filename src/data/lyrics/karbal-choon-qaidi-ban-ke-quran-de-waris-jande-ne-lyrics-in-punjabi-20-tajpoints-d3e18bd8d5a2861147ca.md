@@ -1,32 +1,54 @@
 ---
-title: "Karbal Choon Qaidi Ban Ke Quran De Waris Jande Ne Lyrics In Punjabi 2017"
+title: "کربل چوں قیدی بن کے قرآن دے وارث جاندے نے"
+alternateTitle: "Karbal Choon Qaidi Ban Ke Quran De Waris Jande Ne"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Karbal choon qaidi ban ke Quran de waris jande ne
+  Sir nangay tak ke ayataan de lashe Quran sunande ne
+
+  1
+  Jis bhain de wal kadi takiya nahi Ghazi ne nazraan cha ke
+  Ghazi de kolon langdi aye ohh Zainab rasiyaan pa ke
+  Aynj Zaianb nu tarpande ne jiwein Ghazi nu dekhande ne
+  De hukam Sajjad aye panchiyaan nu paigham lay jawan mera
+
+  2
+  Hasde ne mar ke aye zalim teri rondi aye choti Zahra
+  Lagda aye panchi Abid aye haye Najaf de pasay jande ne
+  Majboor jadoon aye qaidi haye toor de ne safraan te
+  Pay mitiyaan naal lokande ne sir apne baaj rida de
+
+  3
+  Aye bhar bhar mitiyaan sir te chadraan di tha te panday ne
+  Ik veer da saya Rab ne ik bhain di chadar paya
+  Zeeshan si chadar Zainab di Abbas da si ohh saya
+  Iss kar ke Ghazi naal saye chadar de v uth jande ne
 ---
 
-Karbal Choon Qaidi Ban Ke Quran De Waris Jande Ne.
-Sir Nangay Tak Ke Ayataan De Lashe Quran Sunande Ne.
+کربل چوں قیدی بن کے قرآن دے وارث جاندے نے
+سر ننگے تک کے آیتاں دے لاشے قرآن سناندے نے
 
-1
-Jis Bhain De Wal Kadi Takiya Nahi Ghazi Ne Nazraan Cha Ke.
-Ghazi De Kolon Langdi Aye Ohh Zainab Rasiyaan Pa Ke.
-Aynj Zaianb Nu Tarpande Ne Jiwein Ghazi Nu Dekhande Ne.
-De Hukam Sajjad Aye Panchiyaan Nu Paigham Lay Jawan Mera.
+۱
+جس بھین دے ول کدی تکیا نہیں غازی نے نظراں چا کے
+غازی دے کولوں لنگھدی اے اوہ زینب رسیاں پا کے
+اینج زینب نوں تڑپاندے نے جیویں غازی نوں دکھاندے نے
+دے حکم سجاد اے پنچھیاں نوں پیغام لے جاون میرا
 
-2
-Hasde Ne Mar Ke Aye Zalim Teri Rondi Aye Choti Zahra.
-Lagda Aye Panchi Abid Aye Haye Najaf De Pasay Jande Ne.
-Majboor Jadoon Aye Qaidi Haye Toor De Ne Safraan Te.
-Pay Mitiyaan Naal Lokande Ne Sir Apne Baaj Rida De.
+۲
+ہسدے نے مار کے اے ظالم تیری روندی اے چھوٹی زہرا
+لگدا اے پنچھی عابد اے ہائے نجف دے پاسے جاندے نے
+مجبور جدوں اے قیدی ہائے تور دے نے سفراں تے
+پئے مٹیاں نال لکاندے نے سر اپنے باجھ ردا دے
 
-3
-Aye Bhar Bhar Mitiyaan Sir Te Chadraan Di Tha Te Panday Ne.
-IK Veer Da Saya Rab Ne Ik Bhain Di Chadar Paya.
- Zeeshan Si Chadar Zainab Di Abbas Da Si Ohh Saya.
-Iss Kar Ke Ghazi Naal saye Chadar De V Uth Jande Ne.
+۳
+اے بھر بھر مٹیاں سر تے چادراں دی تھاں تے پاندے نے
+اک ویر دا سایہ رب نے اک بھین دی چادر پایا
+ذیشان سی چادر زینب دی عباس دا سی اوہ سایہ
+اس کر کے غازی نال سائے چادر دے وی اٹھ جاندے نے

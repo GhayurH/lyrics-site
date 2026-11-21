@@ -1,7 +1,7 @@
 ---
 title: "گونجتی فضائیں ہیں"
 recitationId: "zindabad-ya-hussain"
-alternateTitle: "Zindabaad Ya Husaiṅ"
+alternateTitle: "Zindabaad Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,9 +16,9 @@ romanLyrics: |-
   Maatami sadaaeṅ haiṅ
   Jis taraf nazar daaleṅ
   Qaafile hazaaroṅ haiṅ
-  Qaafiloṅ ke sinoṅ meiṅ
-  Dard ke safinoṅ meiṅ
-  Ashk o khun ke dhaare
+  Qaafiloṅ ke sine meiṅ
+  Dard ke safine meiṅ
+  Aashk o aankhoṅ ke dhaare
   Dur tak alam saare
   Ye karorha insaaṅ
   Dekh to Ali ki jaaṅ
@@ -26,7 +26,7 @@ romanLyrics: |-
   Inki Karbala manzil hai
   Hai hatheliyoṅ par dil
   Jhel kar har ek mushkil
-  Ek sada laboṅ par hai
+  Ak sada laboṅ par hai
   Tera gham rahe aabaad
   Ae Husain zindabaad
   Ae Husain zindabaad
@@ -45,7 +45,7 @@ romanLyrics: |-
   Mohabbatoṅ ka aashiyaaṅ
   Tu Nabi ka zeb o zain hai
   Tu Ali ka nur-e-ain hai
-  Fatima ke dil ka chain hai
+  Fatima ka dil ka chain hai
   La ilaah ya Husain
   Diṅ panaah ya Husain
 
@@ -88,7 +88,7 @@ romanLyrics: |-
   Ghamoṅ se chur chur tha
   Magar wo kya shuur tha
   Sitam utha ke hosh meiṅ raha
-  Nahif hoke josh meiṅ raha
+  Zaif ho ke josh meiṅ raha
   Lahu se surkh posh meiṅ raha
   Josh kya ya Husain
   Hosh kya ya Husain
@@ -112,17 +112,17 @@ romanLyrics: |-
   Na zin na zamin par raha
   Gawaah hai dua-e-Naahiya
   Tarap rahe haiṅ Hujjat-e-Khuda
-  As-salaam ya Husain
+  Islaam ya Husain
   Ya Imaam ya Husain
 
   8
   Rehaan o Sarwar-e-aza
   Husain ka hai maujiza
-  Jo inke dar pe aa gaya
+  Jo in ke dar pe aa gaya
   Misaal-e-Hur sanwar gaya
   Pukaarti hai sab ko Karbala
   Husain ka hai dar khula hua
-  Faqir ko jo kare baadshaah
+  Faqir ko jo kar de baadshaah
   Rab tera ya Husain
   Sab tera ya Husain
 ---

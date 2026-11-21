@@ -1,30 +1,48 @@
 ---
-title: "Zikr E Murtaza Ho Jay Ga Imran Anser Lyrics 2021"
+title: "ذکرِ مرتضیٰ ہو جائے گا"
+alternateTitle: "Zikr-e-Murtaza Ho Jay Ga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chaar logon mein jo Zikar-e-Murtaza ho jaye ga
+  Haq juda ho jaye ga Batil juda ho jaye ga
+  Yeh Rajab ki terhwin hai mojzoon ki raat hai
+  Dekhna dewar mein bhi rasta ho jaye ga
+  La fata illa Ali la saif illa Zulfiqar
+  Iss sada par hi Khuda ka faisla ho jaye ga
+  Kya Khuda ka bhi iradah toot sakta hai kabhi
+  Jo iradah Murtaza ne kar liya ho jaye ga
+  Kar rahe hain hum sana-e-Murtaza yeh soch kar
+  Iss bahane aayaton ka tazkira ho jaye ga
+  Hur karey ga Syeda ke naam ka jab ayhteram
+  Aik hi lamhey mein khotay se khara ho jaye ga
+  Likh diya hai badbaan pe oss ne nam-e-Murtaza
+  Nooh ki kashti ko ab sahil atta ho jaye ga
+  Dekhna Akbar dar-e-Haider pe ik sajday ke baad
+  Yeh sitara aasmano se bara ho jaye ga
 ---
 
-1
-Zikr e Murtaza Ho Jay Ga Imran Anser
-Chaar Logon Mein Jo Zikar-e-Murtaza Ho Jaye Ga.
-Haq Juda Ho Jaye Ga Batil Juda Ho Jaye Ga.
-Yeh Rajab Ki Terhwin Hai Mojzoon Ki Raat Hai.
-Dekhna Dewar Mein Bhi Rasta Ho Jaye Ga.
-La Fata Illa Ali La Saif Illa Zulfiqar.
-Iss Sada Par Hi Khuda Ka Faisla Ho Jaye Ga.
-Kya Khuda Ka Bhi Iradah Toot Sakta Hai Kabhi.
-Jo Iradah Murtaza Ne Kar Liya Ho Jaye Ga.
-Kar Rahe Hain Hum Sana-e-Murtaza Yeh Soch Kar.
-Iss Bahane Aayaton Ka Tazkira Ho Jaye Ga.
-Hur Karey Ga Syeda Ke Naam Ka Jab Ayhteram.
-Aik Hi Lamhey Mein Khotay Se Khara Ho Jaye Ga.
-Likh Diya Hai Badbaan Pe Oss Ne Nam-e-Murtaza.
-Nooh Ki Kashti Ko Ab Sahil Atta Ho Jaye Ga.
-Dekhna Akbar Dar-e-Haider Pe Ik Sajday Ke Baad.
-Yeh Sitara Aasmano Se Bara Ho Jaye Ga.
+۱
+چار لوگوں میں جو ذکرِ مرتضیٰ ہو جائے گا
+حق جدا ہو جائے گا باطل جدا ہو جائے گا
+یہ رجب کی تیرھویں ہے معجزوں کی رات ہے
+دیکھنا دیوار میں بھی راستہ ہو جائے گا
+لا فتى إلا علي لا سيف إلا ذو الفقار
+اس صدا پر ہی خدا کا فیصلہ ہو جائے گا
+کیا خدا کا بھی ارادہ ٹوٹ سکتا ہے کبھی
+جو ارادہ مرتضیٰ نے کر لیا ہو جائے گا
+کر رہے ہیں ہم ثنائے مرتضیٰ یہ سوچ کر
+اس بہانے آیتوں کا تذکرہ ہو جائے گا
+حر کرے گا سیدہ کے نام کا جب احترام
+ایک ہی لمحے میں کھوٹے سے کھرا ہو جائے گا
+لکھ دیا ہے بادبان پہ اس نے نامِ مرتضیٰ
+نوح کی کشتی کو اب ساحل عطا ہو جائے گا
+دیکھنا اکبر درِ حیدر پہ اک سجدے کے بعد
+یہ ستارہ آسمانوں سے بڑا ہو جائے گا

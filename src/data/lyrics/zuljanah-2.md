@@ -9,90 +9,44 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Zuljanah zuljanah
-
-  Logo mere hussain ko dekha hai tumne kya
-
-  Aaker juloose me yahi
-
-  Kehta hai zuljanah
-
+romanLyrics: |-
+  Logoṅ mere Husain ko dekha hai tum ne kya
 
   1
-
-  1. Aati hai uske khun ki khushbu jo baar baar
-
-  Mehsus ho raha hai yahi hai mera sawar
-
-  Aaya hai kya juloos me
-
-  Mazlume karbala
-
+  Aa kar yahi julus mein kehta hai Zuljanah
+  Aati hai us ke khun ki khushbu jo baar baar
+  Mahsus ho raha hai yahi hai mera savaar
+  Aaya hai kya julus mein mazlum-e-Karbala
 
   2
-
-  2. saydaniya tadapti thi mehshar ki thi ghadi
-
-  Hai yaad mujko aakhri rukhsat hussain ki
-
-  Zaynab ne mujko saupa tha
-
-  Beta batool ka
-
+  Sayyidaaniyaaṅ tarapti thi mahshar ki thi ghari
+  Hai yaad mujhko aakhri rukhsat Husain ki
+  Zainab ne mujhko saunpa tha beta Batul ka
 
   3
-
-  3. Dekha jo maine pyaase ki aankho me intezaar
-
-  Kadmo ko chum chum ke kehta tha baar baar
-
-  Sughra ke paas le chalu
-
-  Gar hukm ho tera
-
+  Dekha jo main ne pyaase ki aankhoṅ mein intizaar
+  Qadmoṅ ko chum chum ke kehta tha baar baar
+  Sughra ke paas le chaluṅ gar hukm ho tera
 
   4
-
-  4. Pyaase ka mera zeen pe sambhalna muhal tha
-
-  Haay barchi jigar me teer badan me ye haal tha
-
-  Utra tha ek nasheb me
-
-  Zahra ka laadla
-
+  Pyaase ka mere ziṅ pe sambhalna muhaal tha
+  Barchhi jigar mein tir badan mein ye haal tha
+  Utra tha ik nashib mein Zahra ka laadla
 
   5
-
-  5. Muddat se hai tallash garibud dayar ki
-
-  Haay pehchaan ek ye bhi hai mere sawar ki
-
-  Chehre pe khun asghare
-
-  Besheer hai mala
-
+  Muddat se hai talaash gharib-ud-dayaar ki
+  Haay pehchaan ek ye bhi hai mere savaar ki
+  Chehre pe khun Asghar-e-Beshir hai mala
 
   6
-
-  6. Zakhmo se bewatan ke baha khun is qadar
-
-  Meri jabee pa baal pe zeen per raqaab per
-
-  Mazlume karbala ka
-
-  Lahu hai laga hua
-
+  Zakhmoṅ se bewatan ke baha khun is qadar
+  Meri jabiṅ pe baag pe ziṅ par rakaab par
+  Mazlum-e-Karbala ka lahu hai laga hua
 
   7
-
-  7. Gardan hai uski yu bhi takallum juki hui
-
-  Apna sawar dhund raha hai ye aaj bhi
-
-  Bichda hai yu hussain se
-
-  Ab tak nahi mila'
+  Gardan hai uski yuṅ bhi Takallum jhuki hui
+  Apna savaar dhundh raha hai ye aaj bhi
+  Bichhra hai yuṅ Husain se ab tak nahiṅ mila
 reciter: "Meer Hasan Meer"
 ---
 

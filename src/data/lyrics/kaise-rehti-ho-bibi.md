@@ -12,76 +12,76 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab mai bibi sakina ke rauze pe tha
-  Dekh kar unke rauze ko dil ne kaha
-  Kal ye rauza hi bibi ka zindan tha
-  Dekha rauza to maazi meiṅ mai kho gaya
-  Saamne mere zindan tha shaam ka
-  Us ghari mere lab par fughaṅ aa gayi
-  Roshni ka safar bhi nahi
-  Aur hawa ka guzar bhi nahi
-  Kis khadar habs hai al amaan
-  Kaise rehti ho bibi yahaṅ
+  Jab maiṅ Bibi Sakina ke rauze pe tha
+  Dekh kar un ke rauze ko dil ne kaha
+  Kal ye rauza hi Bibi ka zindaan tha
+  Dekha rauza to maazi meiṅ maiṅ kho gaya
+  Saamne mere zindaan tha Shaam ka
+  Us ghari mere lab par fughaaṅ aa gayi
+  Roshni ka safar bhi nahiṅ
+  Aur hawa ka guzar bhi nahiṅ
+  Kis qadar habs hai al-amaaṅ
+  Kaise rehti ho Bibi yahaaṅ
   Haye haye
-  Tum ko yaad e padar sone deti nahi
-  Aur us pe sitam hai ye khauf-e-layiṅ
-  Zabte gham ek aazaar hai
+  Tum ko yaad-e-padar sone deti nahiṅ
+  Aur us pe sitam hai ye khauf-e-laiṅ
+  Zabt-e-gham ek aazaar hai
   Saans lena bhi dushwaar hai
-  Tum to tum qaid hai sisikiyaṅ
+  Tum to tum qaid hai siskiyaaṅ
   Kaise rehti ho...
   Zakhm khaati ho aur ashk piti ho tum
-  Mujhko hairat hai kis tarha jiti ho tum
-  Taziyaane dawa ban gaye
+  Mujh ko hairat hai kis tarah jiti ho tum
+  Taaziyaane dawa ban gaye
   Ya andhere shifa ban gaye
-  Qaid meiṅ aisa mumkin kahaṅ
+  Qaid meiṅ aisa mumkin kahaaṅ
   Kaise rehti ho...
-  Meri bibi mujassam fughaṅ ho gayi
-  Kya khata thi ke qaidi yahaṅ ho gayi
+  Meri Bibi mujassam fughaaṅ ho gayi
+  Kya khata thi ke qaidi yahaaṅ ho gayi
   Kamsini meiṅ yatimi mili
   Ghar se nikli asiri mili
-  Sun raha hoo ye kehti hai maa
+  Sun raha huṅ ye kehti hai maaṅ
   Kaise rehti ho...
-  Fitrati saari baateiṅ mujhe hai khabar
+  Fitrat saari baateiṅ mujhe haiṅ khabar
   Qaid meiṅ qaidi ko yaad aata hai ghar
-  Phul ban ke chaman meiṅ rahi
-  Kitne naazoṅ se ghar meiṅ pali
-  Ab ye gham ye sitam sakhtiyaṅ
+  Phul ban ke chaman meiṅ rahiṅ
+  Kitne naazoṅ se ghar meiṅ paliṅ
+  Ab ye gham ye sitam sakhtiyaaṅ
   Kaise rehti ho...
   Shaam ki aurtoṅ se suna hai yehi
-  Tum jo roti ho sota nahi hai shaqi
-  Maarta hai wo sajjad ko
-  Seh ke sajjad uftaad ko
-  Karte rehte hai bas ye fughaṅ
+  Tum jo roti ho sota nahiṅ hai shaqi
+  Maarta hai wo Sajjad ko
+  Seh ke Sajjad uftaad ko
+  Karte rehte haiṅ bas ye fughaaṅ
   Kaise rehti ho...
-  Dil pe kohe garaṅ ek ehsaas hai
-  Chote bacche to darte hai tanhaai se
-  Har ghari pehradaron ka dar
-  Saath koi nahi nauhagar
-  Na padar na chacha aur na maa
+  Dil pe koh-e-garaaṅ ek ehsaas hai
+  Chhote bachche to darte haiṅ tanhaai se
+  Har ghari pehredaaroṅ ka dar
+  Saath koi nahiṅ nauha gar
+  Na padar na chacha aur na maaṅ
   Kaise rehti ho...
-  Tum jo ahle haram se juda qaid ho
+  Tum jo ahl-e-haram se juda qaid ho
   Phir to haq hai tumhara ke nauha karo
   Haye qismat ye na ho saka
   Hukm zaalim se tujh ko mila
-  Nauha khwani pe pabandiyaṅ
+  Nauha khwaani pe paabandiyaaṅ
   Kaise rehti ho...
-  Aayi kaano meiṅ ye qaidiyoṅ ki fughaṅ
-  Roke kehti hai zindaṅ meiṅ kuch bibiyaṅ
-  Hum ye keh keh ke matam kare
-  Is yateema ko zindaṅ meiṅ
-  Pursa deti hai tanhaiyaṅ
+  Aai kaanoṅ meiṅ ye qaidiyoṅ ki fughaaṅ
+  Ro ke kehti haiṅ zindaaṅ meiṅ kuchh bibiyaaṅ
+  Hum ye keh keh ke maatam kareiṅ
+  Is yatimaaṅ ko zindaaṅ meiṅ
+  Pursa deti haiṅ tanhaaiyaaṅ
   Kaise rehti ho...
-  Phir tasalsul tasawwur ka tuta mera
-  Mere peshe nazar rauza bibi ka tha
-  Haath masrufe matam huwe
+  Phir tasalsul tasavvur ka tuta mera
+  Mere pesh-e-nazar rauza Bibi ka tha
+  Haath masruf-e-maatam hue
   Ashk aankhoṅ se girne lage
-  Phir bhi hontoṅ pe thi ye fughaṅ
+  Phir bhi hontoṅ pe thi ye fughaaṅ
   Kaise rehti ho...
-  Lafz mazhar ke ehsaas farhan ka
-  Wo ye kehta hai bibi se maiṅ ne kaha
-  Maiṅ ne ye keh ke matam kiya
-  Jin layino ne ki thi jafa
-  Un ki aulaad ke darmiyaṅ
+  Lafz Mazhar ke ehsaas Farhan ka
+  Wo ye kehta hai Bibi se maiṅ ne kaha
+  Maiṅ ne ye keh ke maatam kiya
+  Jin lainoṅ ne ki thi jafa
+  Un ki aulaad ke darmiyaaṅ
   Kaise rehti ho...
 ---
 

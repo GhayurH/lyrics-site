@@ -1,28 +1,46 @@
 ---
-title: "Kamli Wale Nu Syed Mohammad Shah Lyrics In Punjabi 2023"
+title: "کملی والے نوں سید محمد شاہ"
+alternateTitle: "Kamli Wale Nu Syed Mohammad Shah"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Naeem"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kamli wale nu Syed Mohammad Shah
+  Madine denr layi pursa main jawaan Kamli Walay nu
+  Hoya jo haal Zahra da sunawaan Kamli Walay nu
+  Saray bohey diyaan kuj lakriyaan mil janr jay mainu
+  Jo mekhaan kha gayiyaan Mohsin wakhawaan Kamli Walay nu
+  Tere mimber te beh ke hath kisay Zahra te chaya aye
+  Nishaan banriya aye chehray te dasawaan Kamli Walay nu
+  Hataway aa ke apnri ladli di qabar taun pathar
+  Karan matam Baqiye wich bulawaan Kamli Walay nu
+  Sand tukray, jigar zakhmi, galay sartaj de rasiyaan
+  Main ki ki Fatima de dukh ginrawaan Kamli Walay nu
+  Mere aaqa tere bajoon bara Zahra da lahu dulya
+  Wakhawaan surkh lahu de naal thawaan Kamli Walay nu
+  Naeem aj v bari ghurbat de wich hai qabar Zahra di
+  Main ja ke Sabz Gunbad wich dasawaan Kamli Walay nu
 ---
 
-1
-Kamli Wale Nu Syed Mohammad Shah.
-Madine Denr Layi Pursa Main Jawaan Kamli Walay Nu.
-Hoya Jo Haal Zahra Da Sunawaan Kamli Walay Nu.
-Saray Bohey Diyaan Kuj Lakriyaan Mil Janr Jay Mainu.
-Jo Mekhaan Kha Gayiyaan Mohsin Wakhawaan Kamli Walay Nu.
-Tere Mimber Te Beh Ke Hath Kisay Zahra Te Chaya Aye.
-Nishaan Banriya Aye Chehray Te Dasawaan Kamli Walay Nu.
-Hataway Aa Ke Apnri Ladli Di Qabar Taun Pathar.
-Karan Matam Baqiye Wich Bulawaan Kamli Walay Nu.
-Sand Tukray, Jigar Zakhmi, Galay Sartaj De Rasiyaan.
-Main Ki Ki Fatima De Dukh Ginrawaan Kamli Walay Nu.
-Mere Aaqa Tere Bajoon Bara Zahra Da Lahu Dulya.
-Wakhawaan Surkh Lahu De Naal Thawaan Kamli Walay Nu.
- Naeem Aj V Bari Ghurbat De Wich Hai Qabar Zahra Di.
-Main Ja Ke Sabz Gunbad Wich Dasawaan Kamli Walay Nu.
+۱
+کملی والے نوں سید محمد شاہ
+مدینے دین لئی پرسہ میں جاواں کملی والے نوں
+ہویا جو حال زہرا دا سناواں کملی والے نوں
+سڑے بوہے دیاں کجھ لکڑیاں مل جان جے مینوں
+جو میخاں کھا گئیاں محسن وکھاواں کملی والے نوں
+تیرے منبر تے بہہ کے ہتھ کسے زہرا تے چایا اے
+نشان بنیا اے چہرے تے دساواں کملی والے نوں
+ہٹاوے آ کے اپنی لاڈلی دی قبر توں پتھر
+کرن ماتم بقیعے وچ بلاواں کملی والے نوں
+سند ٹکڑے، جگر زخمی، گلے سرتاج دے رسیاں
+میں کی کی فاطمہ دے دکھ گنواواں کملی والے نوں
+میرے آقا تیرے باجھوں بڑا زہرا دا لہو ڈلیا
+وکھاواں سرخ لہو دے نال تھاواں کملی والے نوں
+نعیم اج وی بڑی غربت دے وچ ہے قبر زہرا دی
+میں جا کے سبز گنبد وچ دساواں کملی والے نوں

@@ -12,28 +12,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaaṅ se ghul utha hai Sakina guzar gayi
+  Zindaaṅ se ghul uthaa hai Sakina guzar gayi
   Thi laadli jo shaah-e-shahidaaṅ ki mar gayi
 
   1
-  Ab hai fughaaṅ ka shor na aawaaz-e-al-atash
+  Ab to fughaaṅ ka shor na aawaaz-e-al-atash
   Milne ki aarzu hai padar se na kashmakash
   Khaamoshiyoṅ ki god meiṅ nur-e-nazar gayi
 
   2
   Rukhsaar nile nile wo kurta phata hua
-  Chehra tamaam gard-e-alam se ata hua
+  Chehra tamaam gard-e-alam se ataa hua
   Hasrat liye rehaai ki ba chashm-e-tar gayi
 
   3
   Naale Rabaab karti thi Zainab thi beqaraar
-  Maatam-kunaaṅ thi Bibiyaaṅ Sajjad sogwaar
+  Maatam kunaaṅ thi bibiyaaṅ Sajjad sogwaar
   Kehte the ro ke baali Sakina kidhar gayi
 
   4
   Bhaai tha qaid maaṅ bhi rasan basta o asir
   Ammu ki yaad dil meiṅ chubhoti thi gham ke tir
-  Soz-e-gham-e-firaaq meiṅ jaaṅ se guzar gayi
+  Soz-e-gham-e-figaar meiṅ jaaṅ se guzar gayi
 
   5
   Mar ke bhi qaid se na rehaai hui nasib

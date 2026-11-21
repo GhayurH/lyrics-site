@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye abbas haye abbas
-  Mashk chidi baazu kate qatl alamdar hua
-  Thi labe Husain par buka lachaar hua mai
-  Khaak uraye Husain dashte bayaban meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Aaj ali ka pisar ban meiṅ akela hua
-  Laashe shahidoṅ ke hai charoṅ taraf ashkiyan
-  Dil hai mera karbala aankh meri alqama
-  Kaun sahara bane zulm ke tufan meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Shiddate alaam se kaamp raha hai badan
-  Aayenge imdad ko shere khuda saf shikan
-  Bekas o laachar hai ek ghareebul watan
-  Koi masiha nahi aaj bayaban meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Bhai ki sunkar sada dasht ko sarwar chale
-  Parte huwe marsiya aankhoṅ meiṅ aansu liye
+  Haaye Abbas haaye Abbas
+  Mashk chhidi baazu kate qatl Alamdar hua
+  Thi lab-e-Husain par buka laachaar hua main
+  Khaak uraaye Husain dasht-e-bayabaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Aaj Ali ka pisar ban meiṅ akele hua
+  Laashe shahidoṅ ke haiṅ chaaroṅ taraf ashqiya
+  Dil hai mera Karbala aankh meri Alqama
+  Kaun sahara bane zulm ke tufaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Shiddat-e-alam se kaamp raha hai badan
+  Aayenge imdaad ko sher-e-Khuda saaf shikan
+  Bekas o laachar hai ik gharib-ul-watan
+  Koi masiha nahiṅ aaj bayabaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Bhai ki sun kar sada dasht ko Sarwar chale
+  Parhte hue marsiya aankhoṅ meiṅ aansuṅ liye
   Raah meiṅ mazlum ko bhai ke baazu mile
-  Ek qayamat hui gham se dil o jaan meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Baazu uthaate huwe bole shahe karbala
-  Jine se bezaar hai ibne shahe la-fata
-  Zabt ke bandhan sabhi tut gaye hai khuda
-  Koi kami ab nahi maut ke samaan meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Thokare khaate chale haath rakhe qalb par
-  Furqate abbas meiṅ tuti hui thi kamar
+  Ik qayamat hui gham se dil o jaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Baazu uthaate hue bole shah-e-Karbala
+  Jine se bezaar hai ibn-e-shah-e-la fata
+  Zabt ke bandhan sabhi tut gaye hai Khuda
+  Koi kami ab nahiṅ maut ke samaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Thokareṅ khaate chale haath rakhe qalb par
+  Furqat-e-Abbas meiṅ tuti hui thi kamar
   Kehte rahe har qadam qalb o jigar pit kar
-  Naam mera likh gaya dard ke quran meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Shaah ko al mukhtasar bhai ka laasha mila
-  Thaam ke dil shaahe diṅ karne lage marsiya
-  Saath hamara abhi choro nahi ba-wafa
-  Kehte the ahle sitam zulm ke maidan meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Dam tha laboṅ par ruka kehne laga ba-wafa
-  Aakhri dedaar ko baakhi tha ye silsila
-  Bhai ko bhai kaha jaam e shahadat piya
-  Aur barhe ranj o gham qalb e pareshan meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Khun meiṅ duba alam laaye jo shaahe zaman
-  Qaimon meiṅ kohraam tha bhai se boli bahan
-  Chor ke abbas ko aaye ho kiuṅ pur mahan
-  Shaah ne rokar kaha dashte bayaban meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
-  Safdar o mazhar bhala kaise bayaṅ ho wo gham
-  Bali sakina ke the bain ye zere alam
+  Naam mera likh gaya dard ke Quran meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Shaah ko al-mukhtasar bhai ka laasha mila
+  Thaam ke dil shah-e-diṅ karne lage marsiya
+  Saath hamara abhi chhoro nahiṅ bawafa
+  Kehte the ahl-e-sitam zulm ke maidan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Dam tha laboṅ par ruka kehne laga bawafa
+  Aakhri dedaar ko baaqi tha ye silsila
+  Bhai ko bhai kaha jaam-e-shahaadat piya
+  Aur barhe ranj o gham qalb-e-pareshaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Khun meiṅ duba alam laaye jo shah-e-zaman
+  Khaimoṅ meiṅ kahraam tha bhai se boli bahan
+  Chhor ke Abbas ko aaye ho kiuṅ pur mihan
+  Shaah ne ro kar kaha dasht-e-bayabaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
+  Safdar o Mazhar bhala kaise bayaṅ ho wo gham
+  Baali Sakina ke the bain ye zer-e-alam
   Laut bhi aao chacha aap ko meri qasam
-  Hashr utha qaima e sayyede zishan meiṅ
-  Qatl alamdar hogaya laachar hua mai
-  Khaak uraye Husain...
+  Hashr utha khaima-e-sayyid-e-zishaan meiṅ
+  Qatl Alamdar ho gaya laachar hua main
+  Khaak uraaye Husain...
 ---
 
 ۱

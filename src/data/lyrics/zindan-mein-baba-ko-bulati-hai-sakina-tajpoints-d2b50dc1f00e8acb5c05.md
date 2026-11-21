@@ -1,38 +1,66 @@
 ---
-title: "Zindan Mein Baba Ko Bulati Hai Sakina"
+title: "زندان میں بابا کو بلاتی ہے سکینہ"
+alternateTitle: "Zindan Mein Baba Ko Bulati Hai Sakina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Laeeq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zulmat ki aandhiyon mein Sakina youn kho gayi
+  Kano se khoon rawaan hai kamar lal ho gayi
+
+  1
+  Soti thi sun ke loriyaan seene pe baap ke
+  Kha kar tamachay Shimar ke zindaan mein so gayi
+  Zindan mein baba ko bulati hai Sakina
+  Ro ro ke aseeron ko rulati hai Sakina
+
+  2
+  Barh jati hai Sajjad ke ashkoon ki rawani
+  Jab neel tamachon ke dikhati hai Sakina
+  Ahsas hai Asghar ke bichar jane ka ossko
+  Har zakhm ko Banu se chupati hai Sakina
+
+  3
+  Kam hota nahi Sham ke zindaan ka andhera
+  Ashkoon ke diye roz jalati hai Sakina
+  Chup chap hi sehti hai har ik zulm-o-jafa ko
+  Baba se jo wadah tha nibhati hai Sakina
+
+  4
+  Rone pe jo pehra hai tu ab naam padar ka
+  Zindan mein likh likh ke mitati hai Sakina
+  Pursay ke liye bap ke aye Laeeq-o-Takallum
+  Har aik azakhane mein atti hai Sakina
 ---
 
-Zulmat Ki Aandhiyon Mein Sakina Youn Kho Gayi.
-Kano Se Khoon Rawaan Hai Kamar Lal Ho Gayi.
+ظلمت کی آندھیوں میں سکینہ یوں کھو گئی
+کانوں سے خون رواں ہے کمر لال ہو گئی
 
-1
-Soti Thi Sun Ke Loriyaan Seene Pe Baap Ke.
-Kha Kar Tamachay Shimar Ke Zindaan Mein So Gayi.
-Zindan Mein Baba Ko Bulati Hai Sakina.
-Ro Ro Ke Aseeron Ko Rulati Hai Sakina.
+۱
+سوتی تھی سن کے لوریاں سینے پہ باپ کے
+کھا کر طمانچے شمر کے زنداں میں سو گئی
+زندان میں بابا کو بلاتی ہے سکینہ
+رو رو کے اسیروں کو رلاتی ہے سکینہ
 
-2
-Barh Jati Hai Sajjad Ke Ashkoon Ki Rawani.
-Jab Neel Tamachon Ke Dikhati Hai Sakina.
-Ahsas Hai Asghar Ke Bichar Jane Ka Ossko.
-Har Zakhm Ko Banu Se Chupati Hai Sakina.
+۲
+بڑھ جاتی ہے سجاد کے اشکوں کی روانی
+جب نیل طمانچوں کے دکھاتی ہے سکینہ
+احساس ہے اصغر کے بچھڑ جانے کا اس کو
+ہر زخم کو بانو سے چھپاتی ہے سکینہ
 
-3
-Kam Hota Nahi Sham Ke Zindaan Ka Andhera.
-Ashkoon Ke Diye Roz Jalati Hai Sakina.
-Chup Chap Hi Sehti Hai Har Ik Zulm-o-Jafa Ko.
-Baba Se Jo Wadah Tha Nibhati Hai Sakina.
+۳
+کم ہوتا نہیں شام کے زنداں کا اندھیرا
+اشکوں کے دیے روز جلاتی ہے سکینہ
+چپ چاپ ہی سہتی ہے ہر اک ظلم و جفا کو
+بابا سے جو وعدہ تھا نبھاتی ہے سکینہ
 
-4
-Rone Pe Jo Pehra Hai Tu Ab Naam Padar Ka.
-Zindan Mein Likh Likh Ke Mitati Hai Sakina.
-Pursay Ke Liye Bap Ke Aye Laeeq-O- Takallum.
-Har Aik Azakhane Mein Atti Hai Sakina.
+۴
+رونے پہ جو پہرا ہے تو اب نام پدر کا
+زندان میں لکھ لکھ کے مٹاتی ہے سکینہ
+پرسے کے لیے باپ کے اے لئیق و تکلم
+ہر ایک عزاخانے میں آتی ہے سکینہ

@@ -26,7 +26,7 @@ romanLyrics: |-
 
   2
   Ye jo majlis hai mudaawa hai har ek gham ke liye
-  Ek saughaat hai ye dida-e-purnam ke liye
+  Ek saugaat hai ye dida-e-purnam ke liye
   Soz-e-dil chaahiye tahzib-e-Muharram ke liye
   Koi tafriq nahiṅ halqa-e-maatam ke liye
   Rone waaloṅ ke liye farsh-e-aza aam kareṅ
@@ -75,7 +75,7 @@ romanLyrics: |-
   8
   Rahnuma qatl hua qatl qiyaadat na hui
   Ik imaam aur barha khatm imaamat na hui
-  Jism rauṅde gaye paamaal shariat na hui
+  Jism raundhe gaye paamaal shariat na hui
   Chaadareṅ chhin gayiṅ baatil ki hukumat na hui
   Ye Muhammad ke gharaane ki wafa aam kareṅ
   Kya khabar tum na raho kya khabar hum na raheṅ

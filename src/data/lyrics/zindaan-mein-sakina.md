@@ -24,7 +24,7 @@ romanLyrics: |-
   Kya jaaniye kab hoga savera mere baba
 
   3
-  Is sin meiṅ judaai ka garaaṅ baar uthaauṅ
+  Is sinn meiṅ judaai ka garaaṅ baar uthaauṅ
   Laauṅ maiṅ kahaaṅ se woh kaleja mere baba
 
   4
@@ -36,7 +36,7 @@ romanLyrics: |-
   Reh jaauṅ gi maiṅ qaid meiṅ tanha mere baba
 
   6
-  Kya ab mujhe dekhoge to pehchaan sakoge
+  Kya ab mujhe dekho ge to pehchaan sako ge
   Badla hai ghamoṅ ne mera chehra mere baba
 
   7
@@ -48,7 +48,7 @@ romanLyrics: |-
   Baba mere baba mere baba mere baba
 
   9
-  Hai dil se Bilal aap ka ghamkhwaar azaadaar
+  Hai dil se Bilal aap ka ghamkhwaar azadaar
   Sadqe meiṅ use aap ke bakhsha mere baba
 ---
 زنداں میں سکینہ کا تھا نوحہ میرے بابا

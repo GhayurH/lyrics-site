@@ -27,7 +27,7 @@ romanLyrics: |-
   Duniya meiṅ bemisaal teri bandagi Ali
 
   4
-  Hai teri zaad hi wilaayat ki ibeda
+  Hai teri zaad hi wilaayat ki ibda
   Sab auliya ghulaam hai tere wali Ali
 
   5

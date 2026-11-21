@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sina pe bol raha hai Husain ibne ali
+  Sinaaṅ pe bol raha hai Husain ibn-e-Ali
   Lahu meiṅ apne naha kar
   Hazaar sadme utha kar
-  Yazeediyat ko mita kar
-  Khuda ke din ka parcham baland maiṅ ne kiya
-  Kisi yazid meiṅ taaqat kahaṅ jhukaye mujhe
-  Safar ba noke sina khud pasand maiṅ ne kiya
-  Sune ye saara zamana Husain ki awaaz
-  Qubul is liye naize ki nauk ki maiṅ ne
-  Mera kata hua sar dushmano se past na ho
-  Mai sar uthaye huwe dushmano se kehta hoo
+  Yazidiyoṅ ko mita kar
+  Khuda ke din ka parcham buland maiṅ ne kiya
+  Kisi Yazid meiṅ taaqat kahaaṅ jhukaaye mujhe
+  Safar ba nok-e-sinaaṅ qad pasand maiṅ ne kiya
+  Sune ye saara zamaana Husain ki aawaaz
+  Qubul is liye naize ki nok ki maiṅ ne
+  Mera kata hua sar dushmanoṅ se past na ho
+  Maiṅ sar uthaaye hue dushmanoṅ se kehta huṅ
   Husain hota wohi hai jise shikast na ho
-  Mere azadaroṅ ae mere ghamkharon
-  Tumhare azm ko mere salaam
-  Rahe salamat ta qayamat
-  Rahe salamat ishq e hussaini
-  Range wafa dikhlaata hai
+  Mere azaadaaroṅ ae mere gham khwaaroṅ
+  Tumhaare azm ko mere salaam
+  Rahe salamat ta qayaamat
+  Rahe salamat ishq-e-Husaini
+  Rang-e-wafa dikhlaata hai
   Warna kaun kisi ki khaatir
-  Apna khun bahata hai
-  Ye kaale kapre jo zeb e tan hai
-  Ishq-e-hussaini ki hai dalil
-  Jhule amaari taaziyadari
-  Seena zani pani ki sabil
-  Ahle aza ko ye tehzibe
-  Ishq-e-Husain sikhata hai
+  Apna khun bahaata hai
+  Ye kaale kapre jo zeb-e-tan haiṅ
+  Ishq-e-Husaini ki hai dalil
+  Jhule amaari taaziya daari
+  Sina zani paani ki sabil
+  Ahl-e-aza ko ye tahzib
+  Ishq-e-Husain sikhaata hai
   Rahe salamat...
-  Ye chote bache aur shabbe daari
+  Ye chhote bachche aur shab daari
   Yuṅ to bara mushkil hai safar
-  Socho agar tum ahle zamana
-  Ishq-e-hussaini ka hai asar
-  Ishq-e-Husain hi in bachoṅ ko
-  Farshe aza tak laata hai
+  Socho agar tum ahl-e-zamaana
+  Ishq-e-Husaini ka hai asar
+  Ishq-e-Husain hi in bachchoṅ ko
+  Farsh-e-aza tak laata hai
   Rahe salamat...
   Dekho zara tum kaabe meiṅ jaa kar
-  Sirf musalmaṅ honge wahaṅ
-  Farshe aza wo wahid jagah hai
-  Apne paraye sab hai jahaṅ
-  Aata wohi hai farshe aza par
-  Jisko Husain bulaata hai
+  Sirf musalmaaṅ honge wahaaṅ
+  Farsh-e-aza wo waahid jagah hai
+  Apne paraaye sab haiṅ jahaaṅ
+  Aata wohi hai farsh-e-aza par
+  Jis ko Husain bulaata hai
   Rahe salamat...
-  Wo jo binaye farhse aza hai
-  Hum hai usi bibi ki dua
-  Ishq-e-hussaini tha uske dil meiṅ
-  Aur hameiṅ virse meiṅ mila
-  Jisko mila virse meiṅ ye matam
-  Ahle aza kehlaata hai
+  Wo jo banaa-e-farsh-e-aza hai
+  Ham haiṅ usi Bibi ki dua
+  Ishq-e-Husaini tha us ke dil meiṅ
+  Aur hameiṅ wirse meiṅ mila
+  Jis ko mila wirse meiṅ ye maatam
+  Ahl-e-aza kehlaata hai
   Rahe salamat...
-  Ishq-e-hussaini dil meiṅ basa kar
-  Zinda rakhi ghazi ne wafa
-  Jisne wafa ko zinda rakha hai
-  Bali sakina ka hai chacha
-  Usko dua deti hai sakina
-  Jo bhi alam ko utha'ta hai
+  Ishq-e-Husaini dil meiṅ basa kar
+  Zinda rakhi Ghazi ne wafa
+  Jis ne wafa ko zinda rakha hai
+  Baali Sakina ka hai chacha
+  Us ko dua deti hai Sakina
+  Jo bhi alam ko uthaata hai
   Rahe salamat...
-  Ishq-e-hussaini se hai namazeiṅ
-  Ishq-e-hussaini farshe aza
-  Ishq-e-hussaini sholoṅ pe chalna
-  Seena zani zanjir o khama
-  Ishq-e-hussaini ti taaqat se
-  Matami khuṅ meiṅ nahata hai
+  Ishq-e-Husaini se hai namaazeṅ
+  Ishq-e-Husaini farsh-e-aza
+  Ishq-e-Husaini sholoṅ pe chalna
+  Sina zani zanjir o khama
+  Ishq-e-Husaini ki taaqat se
+  Maatami khuṅ meiṅ nahaata hai
   Rahe salamat...
-  Suno mazhar o irfan e azadaran e man
-  Yehi wo shohdaye karbala hai
-  Jinhone hal min ki sada par laabbaik kaha
-  Aur mere ishq meiṅ apni jaano ka nazrana pesh kiya
+  Suno Mazhar o Irfan ae azaadaar-e-man
+  Yehi wo shuhadaa-e-Karbala hai
+  Jinhoṅ ne hal min ki sada par labbaik kaha
+  Aur mere ishq meiṅ apni jaanoṅ ka nazraana pesh kiya
 ---
 
 ۱

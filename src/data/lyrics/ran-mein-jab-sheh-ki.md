@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ran meiṅ jab Sheh ki taraf se Hur-e-dindaar aaya
+  Ran meiṅ jab Sheh ki taraf se Hur dindaar aaya
   Kis bashaashat se uraata hua rahwaar aaya
   Ghul hua Sayyid-e-mazlum ka ghamkhwaar aaya
   Jaaṅ nisaar-e-khalaf-e-Haidar-e-Karraar aaya
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   1
   Ye sukhan sun ke pukaara pisar-e-Saad-e-sharir
-  Haaṅ tarafdaar-e-Sheh-e-diṅ pe chale naiza o tir
+  Haaṅ tarafdaar-e-Sheh-e-diṅ pe chale naiza-e-tir
   Le ke harboṅ ko barha fauj ka amboh-e-kasir
   Faatiha parh ke jawaaṅ mard ne khainchi shamshir
   Hur ka munh surkh hua fauj-e-sitam zard hui
@@ -56,19 +56,19 @@ romanLyrics: |-
   Ho gai aansuoṅ se rish-e-mubaarak sab tar
   Ali Akbar se kaha tum abhi thehro dilbar
   Hur ki imdaad ko ham jaayeṅge ae nur-e-nazar
-  Kis se is waqt kahuṅ maiṅ jo qalaq mujh par hai
+  Kis se is waqt kahuṅ main jo qalaq mujh par hai
   Laash uthaauṅga ke mehmaan ka haq mujh par hai
 
   6
   Ye sukhan keh ke chale ran ko Janaab-e-Shabbir
   Waaṅ gira khaak pe ghore se Hur-e-baa-tauqir
-  Dekh kar Shaah ko aate hue bhaage bepir
-  Pahunche laashe pe Imaam-e-do jahaaṅ waqt-e-akhir
+  Dekh kar Shaah ko aate hue baagh bepir
+  Pahuncha laasha pe Imaam-e-do jahaaṅ waqt-e-akhir
   Chaman-e-hasti-e-mehmaaṅ ko ujarte dekha
   Khaak par eriyaaṅ zakhmi ko ragarte dekha
 
   7
-  Gir ke laashe ke baraabar ye pukaare Sarwar
+  Gir ke laasha ke baraabar ye pukaare Sarwar
   Mere mehmaan o madadgaar o muin o yaawar
   Gurz kya tujh ko laga tut gai meri kamar
   Gir pare ghore se aur aah na ki ham ko khabar
@@ -87,7 +87,7 @@ romanLyrics: |-
   Mujh ko lene chale aate haiṅ farishte ya Shaah
   Malak-ul-maut bhi karta hai mohabbat ki nigaah
   Khuld se Sher-e-Khuda nikle haiṅ Allah Allah
-  Lo baraamad hue Shabbar bhi pidar ke hamraah
+  Lo baraamad hue Shabbir bhi pidar ke hamraah
   Nange sar Ahmad-e-Mukhtaar ki pyaari aai
   Dekhiye aap ke naana ki sawaari aai
 

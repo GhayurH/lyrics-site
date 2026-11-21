@@ -10,66 +10,72 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kamar ko thaame chale hai maula
-
   1
-  Jawan bete ki laash uthaane
-  Jahan pe zeen se gira tha beta
-  Wahin pe khoon e jigar bahane
-  Badan mein raasha bala ki garmi
+  Kamar ko thaame chale haiṅ Maula
+  Jawaaṅ bete ki laash uthaane
+  Jahaaṅ pe zin se girta beta
+  Wahi pe khun-e-jigar bahaane
+  Badan mein raasha balaa ki garmi
   Aur us pe ghalba hai tashnagi ka
-  Zameen pe bikhre pade hai laashe
-  Ajeeb aalam hai bekasi ka
-  Kise pukaare kise bulaye
+  Zamiṅ pe bikhre pare haiṅ laashe
+  Ajib aalam hai bekasi ka
+  Kise pukaare kise bulaae
   Juda kiya sab ko hi qaza ne
+  Kamar ko thaam...
 
   2
-  Sujhaayi deta nahi hai kuch bhi
-  Ke noor aankhon ka jaa chuka hai
-  Har ek laashe se khaye thokar
+  Sunaai deta nahiṅ hai kuchh bhi
+  Ke nur aaṅkhoṅ ka jaa chuka hai
+  Har ek laashe se khaae thokar
   Koi dilaasa hai na asa hai
-  Larazte qadmon se ja rahe hai
-  Bas ek ahde wafa nibhaane
+  Larazte qadmoṅ se jaa rahe haiṅ
+  Bas ek ahd-e-wafa nibhaane
+  Kamar ko thaam...
 
   3
-  Kiya tha yaum e alast waada
-  Mai ishq ka imtehan doonga
+  Kiya tha yaum-e-alast waada
+  Main ishq ka imtihaan dunga
   Utha ke sadme luta ke kunba
-  Mai apni sajde mein jaan doonga
-  Tamaam ahle falak ne dekha
+  Main apni sajde mein jaan dunga
+  Tamaam ahl-e-falak ne dekha
   Kaleje thaame hai ambiya ne
+  Kamar ko thaam...
 
   4
-  Na lab pe shikwa na bad'dua hai
-  Magar hai aankhon mein ek samandar
-  Zaeefi chalne se rokti hai
-  Sambhalte jaate hai khaa ke thokar
-  Koi to aaye madad ki khaatir
-  Kiye hai ye bain karbala ne
+  Na lab pe shikwa na bad dua hai
+  Magar hai aaṅkhoṅ mein ek samandar
+  Zaeifi chalne se rokti hai
+  Sambhalte jaate haiṅ khaa ke thokar
+  Koi to aae madad ki khaatir
+  Kiye haiṅ ye bain Karbala ne
+  Kamar ko thaam...
 
   5
-  Ghareeb e zehra ka hai ye nauha
-  Kahan ho noor e nazar batao
-  Mai kab se maqtal mein dhoondta hoo
-  Padar ko awaaz to sunao
+  Gharib-e-Zehra ka hai ye nauha
+  Kahaaṅ ho nur-e-nazar bataao
+  Main kab se maqtal mein dhundta huṅ
+  Padar ko aawaaz to sunaao
   Sada ye sun kar kiya hai nauha
-  Har ek shaheed e rahe khuda ne
+  Har ek shahid-e-raah-e-Khuda ne
+  Kamar ko thaam...
 
   6
-  Ye din kisi ko na rab dikhaye
-  Jawan ki mayyat padar uthaye
-  Utha raha hai jo laashe akbar
-  Husain ka ye jigar hai haye
-  Khaleel sabr e Husain dekhe
-  Ke apne dil ka lahoo bahane
+  Ye din kisi ko na Rab dikhaae
+  Jawaaṅ ki mayyat padar uthaae
+  Utha raha hai jo laash-e-Akbar
+  Husain ka ye jigar hai haae
+  Khalil sabr-e-Husain dekhe
+  Ke apne dil ka lahu bahaane
+  Kamar ko thaam...
 
   7
-  Badi qayamat ka hai ye manzar
-  Bayan kaise karun mai safdar
-  Lahoo qalam se tapak raha hai
-  Ye baat kaise likhun mai mazhar
-  Hai kaisa saabir ghareeb e zehra
-  Ye sirf mera khuda hi jaane
+  Bari qayaamat ka hai ye manzar
+  Bayaan kaise karuṅ main Safdar
+  Lahu qalam se tapak raha hai
+  Ye baat kaise likho main Mazhar
+  Hai kaisa saabir gharib-e-Zehra
+  Ye sirf mera Khuda hi jaane
+  Kamar ko thaam...
 ---
 
 ۱

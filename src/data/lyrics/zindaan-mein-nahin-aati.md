@@ -16,19 +16,19 @@ romanLyrics: |-
   Sajjad Sakina ko marne se bacha bhaiya
 
   1
-  Diwaaroṅ se zindaaṅ ki takra ke maiṅ girti huṅ
+  Diwaaroṅ se zindaaṅ ki takra ke main girti huṅ
   Phir der talak bhaiya tanha hi sisakti huṅ
   Aa ret ke bistar se behna ko utha bhaiya
 
   2
   Paani nahiṅ maanguṅ gi bachchoṅ ko sambhaaluṅ gi
-  In chhote se haathoṅ se tere kaaṅte nikaaluṅ gi
+  In chhote se haathoṅ se tere kaante nikaaluṅ gi
   Ik baar Sakina ko tu paas bula bhaiya
 
   3
   Jis ne mujhe maara tha woh khwaab meiṅ aata hai
-  Maiṅ so bhi nahiṅ sakti kuchh aise daraata hai
-  Sajjad mujhe de do baaṅhoṅ meiṅ panaah bhaiya
+  Main so bhi nahiṅ sakti kuchh aise daraata hai
+  Sajjad mujhe de do baanhoṅ meiṅ panaah bhaiya
 
   4
   Karti hai behen waada baba ko na roye gi
@@ -36,13 +36,13 @@ romanLyrics: |-
   In ghor andheroṅ se karwa de riha bhaiya
 
   5
-  Jiti thi imamat ke maiṅ paak saveroṅ meiṅ
+  Jiti thi imaamat ke main paak saveroṅ meiṅ
   Ab meri guzarti hai zindaan ke andheroṅ meiṅ
   Is waqt bhi rassi meiṅ hai mera gala bhaiya
 
   6
-  Behlaate the sab mujh ko jis waqt maiṅ roti thi
-  Hai saari khabar tujh ko jis ja pe maiṅ soti thi
+  Behlaate the sab mujh ko jis waqt main roti thi
+  Hai saari khabar tujh ko jis ja pe main soti thi
   Aa dekh Sakina ka kya haal hua bhaiya
 
   7

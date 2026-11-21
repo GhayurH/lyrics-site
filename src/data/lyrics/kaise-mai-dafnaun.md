@@ -1,6 +1,6 @@
 ---
 title: "‎شام كے زندان میں اک چھوٹی سی قیدی"
-alternateTitle: "Kaise Mai Dafnaun"
+alternateTitle: "Kaise Main Dafnaauṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaam ke zindan may ek choti si qaidi
-  Haathoṅ may paoṅ may aur gardan may hai rassi
+  Shaam ke zindaan mein ak chhoti si qaidi
+  Haathoṅ mein paaoṅ mein aur gardan mein hai rassi
   Aur sine pe baba ka hai sar sar se hai lipti
-  Moo pe moon ko rakh ke bahot dayr wo royi
-  Haye rote rote us ne jo li aakhri hichki
-  Zindan may dam tor gayi shaah ki pyari
-  Sakina sakina
-  Karte the sajjad ye nauha
-  Kaise mai dafnauṅ sakina
-  Qaidi agar qaid may mar jaata hai koi
-  Laash ko rassi se chura dete haiṅ us ki
-  Zakhmoṅ may paywast rasaṅ hai tere aise
-  Maiṅ ne teri laash se rassi nahi kholi
-  Laasha bikhar jaye kahiṅ na
-  Kaise mai dafnauṅ sakina...
+  Munh pe munh ko rakh ke bahut der woh roi
+  Haaye rote rote us ne jo li aakhri hichki
+  Zindan mein dam tor gai shaah ki pyaari
+  Sakina Sakina
+  Karte the Sajjad ye nauha
+  Kaise main dafnaauṅ Sakina
+  Qaidi agar qaid mein mar jaata hai koi
+  Laash ko rassi se chhura dete haiṅ us ki
+  Zakhmoṅ mein paywast rasaṅ hai tere aise
+  Main ne teri laash se rassi nahiṅ kholi
+  Laasha bikhar jaae kahiṅ na
+  Kaise main dafnaauṅ Sakina...
   Khun rulaata hai ye manzar meri behna
-  Jism tera khun may hai tar meri behna
-  Haathoṅ pe laasha hai tera soch raha hoo
-  Ghusl ko pani bhi mayassar nahi behna
+  Jism tera khun mein hai tar meri behna
+  Haathoṅ pe laasha hai tera soch raha huṅ
+  Ghusl ko paani bhi mayassar nahiṅ behna
   Tu hi bata de meri behna
-  Kaise mai dafnauṅ sakina...
+  Kaise main dafnaauṅ Sakina...
   Kaisi musibat ye pari dur watan se
-  Baba bhi mehrum hai aur tu bhi kafan se
-  Chaahuṅ chudhana to chura bhi nahi sakta
+  Baba bhi mahrum hai aur tu bhi kafan se
+  Chaahuṅ chhuraana to chhura bhi nahiṅ sakta
   Khun bhara kurta jo chipka hai badan se
-  Tera kafan hai yehi kurta
-  Kaise mai dafnauṅ sakina...
-  Yaad mujhe aata hai ae ghamzada khwahar
-  Mujhse yehi puchti rehti thi tu aksar
-  Dafn mai ho jaun agar qaid-e-sitam may
-  Shimr na aa jaye kahiṅ meri lehad par
-  Ab isi zindan may dukhiya
-  Kaise mai dafnauṅ sakina...
-  Tu hi nahi teri to saanseiṅ bhi thi qaidi
-  Dekhi nahi pehle kahiṅ aisi asiri
-  Sona jo chaaha to tujhe nind na aayi
-  Rona jo chaaha to tamachoṅ ki saza thi
+  Tera kafan hai yahi kurta
+  Kaise main dafnaauṅ Sakina...
+  Yaad mujhe aata hai ae ghamzada khwaahar
+  Mujh se yahi puchhti rehti thi tu aksar
+  Dafn main ho jaauṅ agar qaid-e-sitam mein
+  Shimr na aa jaae kahiṅ meri lahad par
+  Ab isi zindaan mein dukhiya
+  Kaise main dafnaauṅ Sakina...
+  Tu hi nahiṅ teri to saanseṅ bhi thi qaidi
+  Dekhi nahiṅ pehle kahiṅ aisi asiri
+  Sona jo chaaha to tujhe nind na aai
+  Rona jo chaaha to tamaachoṅ ki saza thi
   Hogi teri qabr bhi tanha
-  Kaise mai dafnauṅ sakina...
-  Mazhar o farhan yehi baat hai nauha
-  Haathoṅ pe ek qaidi ke ek qaidi ka laasha
-  Kaise bandhe haathoṅ se mai qabr banaun
-  Sab ko rulaata tha ye sajjad ka jumla
-  Haye wo sajjad ka kehna
-  Kaise mai dafnauṅ sakina...
+  Kaise main dafnaauṅ Sakina...
+  Mazhar o Farhan yahi baat hai nauha
+  Haathoṅ pe ak qaidi ke ak qaidi ka laasha
+  Kaise bandhe haathoṅ se main qabr banaao
+  Sab ko rulaata tha ye Sajjad ka jumla
+  Haaye woh Sajjad ka kehna
+  Kaise main dafnaauṅ Sakina...
 ---
 
 ۱

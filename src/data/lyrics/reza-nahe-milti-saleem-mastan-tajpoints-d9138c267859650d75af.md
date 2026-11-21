@@ -1,42 +1,74 @@
 ---
-title: "Reza Nahe Milti Saleem Mastan"
+title: "رضا نہیں ملتی سلیم مستان"
+alternateTitle: "Reza Nahe Milti Saleem Mastan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ifham"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Reza nahe milti Saleem Mastan
+  Jinhein Imam-e-Raza ki riza nahi milti
+  Unhein bahisht ki thandi hawa nahi milti
+  Yeh arz-e-Toos nahi hai shifa ka Kaba hai
+  Yahan balaon ko hargiz jagah nahi milti
+  Suna hai zair-e-maula Raza ke daman mein
+  Atta tu milti hai lekin khata nahi milti
+  Bicha hai jab se Imam-e-Raza ka dastar khuwan
+  Main bhoka pyasa hoon yeh iltija nahi milti
+  Faqat imam nahi hain Imam-e-Zamin hain
+  Salamati bhi yahan ke siwa nahi milti
+  Khula howa hai shifa khana-e-Imam-e-Raza
+  Woh aaein jin ke marz ki dawa nahi milti
+  Raza ke naam ka taweez bandh le bhai
+  Yeh pas ho tu koi bhi bala nahi milti
+  Zamana dekh le kirdar-e-Zainab-o-Abbas
+  Keh dhondne se bhi koi khata nahi milti
+  Woh door parcham-e-Ghazi se hain tu hairat kya
+  Zaleel khon mein hargiz wafa nahi milti
+  Zaror qarb ke sehra hum bhatak jate
+  Hamarey gham ko agar Karbala nahi milti
+  Zamana roza-e-Zainab ka mojza dekhey
+  Wahan pe koi behan be rida nahi milti
+  Woh aankhein roein gi Mehshar mein khon ke aanso
+  gham-e-Hussain ki jin ko giza nahi milti
+  Waseela Panjtan-e-Pak ka zarori hai
+  Beghair iss ke asar se dua nahi milti
+  Naseeb walay hi Ifham iss ko patay hain
+  Har ik jaben ko khak-e-shifa nahi milti
 ---
 
-1
-Reza Nahe Milti Saleem Mastan.
-Jinhein Imam-e-Raza Ki Riza Nahi Milti.
-Unhein Bahisht Ki Thandi Hawa Nahi Milti.
-Yeh Arz-e-Toos Nahi Hai Shifa Ka Kaba Hai.
-Yahan Balaon Ko Hargiz Jagah Nahi Milti.
-Suna Hai Zair-e-Maula Raza Ke Daman Mein.
-Atta Tu Milti Hai Lekin Khata Nahi Milti.
-Bicha Hai Jab Se Imam-e-Raza Ka Dastar Khuwan.
-Main Bhoka Pyasa Hoon Yeh Iltija Nahi Milti.
-Faqat Imam Nahi Hain Imam-e-Zamin Hain.
-Salamati Bhi Yahan Ke Siwa Nahi Milti.
-Khula Howa Hai Shifa Khana-e-Imam-e-Raza.
-Woh Aaein Jin Ke Marz Ki Dawa Nahi Milti.
-Raza Ke Naam Ka Taweez Bandh Le Bhai.
-Yeh Pas Ho Tu Koi Bhi Bala Nahi Milti.
-Zamana Dekh Le Kirdar-e-Zainab-o-Abbas.
-Keh Dhondne Se Bhi Koi Khata Nahi Milti.
-Woh Door Parcham-e-Ghazi Se Hain Tu Hairat Kya.
-Zaleel Khon Mein Hargiz Wafa Nahi Milti.
-Zaror Qarb Ke Sehra Hum Bhatak Jate.
-Hamarey Gham Ko Agar Karbala Nahi Milti.
-Zamana Roza-e-Zainab Ka Mojza Dekhey.
-Wahan Pe Koi Behan Be Rida Nahi Milti.
-Woh Aankhein Roein Gi Mehshar Mein Khon Ke Aanso.
-Gham-e-Hussain Ki Jin Ko Giza Nahi Milti.
-Waseela Panjtan-e-Pak Ka Zarori Hai.
-Beghair Iss Ke Asar Se Dua Nahi Milti.
-Naseeb Walay Hi Ifham Iss Ko Patay Hain.
-Har Ik Jaben Ko Khak-e-Shifa Nahi Milti.
+۱
+رضا نہیں ملتی سلیم مستان
+جنہیں امامِ رضا کی رضا نہیں ملتی
+انہیں بہشت کی ٹھنڈی ہوا نہیں ملتی
+یہ ارضِ طوس نہیں ہے شفا کا کعبہ ہے
+یہاں بلاؤں کو ہرگز جگہ نہیں ملتی
+سنا ہے زائرِ مولا رضا کے دامن میں
+عطا تو ملتی ہے لیکن خطا نہیں ملتی
+بچھا ہے جب سے امامِ رضا کا دسترخوان
+میں بھوکا پیاسا ہوں یہ التجا نہیں ملتی
+فقط امام نہیں ہیں امامِ ضامن ہیں
+سلامتی بھی یہاں کے سوا نہیں ملتی
+کھلا ہوا ہے شفاخانۂ امامِ رضا
+وہ آئیں جن کے مرض کی دوا نہیں ملتی
+رضا کے نام کا تعویذ باندھ لے بھائی
+یہ پاس ہو تو کوئی بھی بلا نہیں ملتی
+زمانہ دیکھ لے کردارِ زینب و عباس
+کہ ڈھونڈنے سے بھی کوئی خطا نہیں ملتی
+وہ دور پرچمِ غازی سے ہیں تو حیرت کیا
+ذلیل خون میں ہرگز وفا نہیں ملتی
+ضرور کرب کے صحرا ہم بھٹک جاتے
+ہمارے غم کو اگر کربلا نہیں ملتی
+زمانہ روضۂ زینب کا معجزہ دیکھے
+وہاں پہ کوئی بہن بے ردا نہیں ملتی
+وہ آنکھیں روئیں گی محشر میں خون کے آنسو
+غمِ حسین کی جن کو غذا نہیں ملتی
+وسیلہ پنجتنِ پاک کا ضروری ہے
+بغیر اس کے اثر سے دعا نہیں ملتی
+نصیب والے ہی افہام اس کو پاتے ہیں
+ہر اک جبیں کو خاکِ شفا نہیں ملتی

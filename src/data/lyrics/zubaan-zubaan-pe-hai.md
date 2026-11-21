@@ -20,7 +20,7 @@ romanLyrics: |-
   Hai sogwaar Madina Ali shahid hue
 
   2
-  Lagaai sajde meiṅ zarbat jo Ibn-e-Muljim ne
+  Lagaai sajde mein zarbat jo Ibn-e-Muljim ne
   Laraz ke reh gaya Kaaba Ali shahid hue
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   Utha rahe haiṅ janaaza Ali shahid hue
 
   5
-  Pachhaareṅ khaati hai ghar bhar meiṅ Zainab o Kulsum
+  Pachhaareṅ khaati hai ghar bhar mein Zainab o Kulsum
   Utha hai baap ka saaya Ali shahid hue
 
   6
@@ -44,7 +44,7 @@ romanLyrics: |-
   Ghazab hua mere Baba Ali shahid hue
 
   8
-  Namaaziyoṅ ki hai aankhoṅ meiṅ khun ke aansu
+  Namaaziyoṅ ki hai aankhoṅ mein khun ke aansu
   Udaas udaas hai sajda Ali shahid hue
 
   9

@@ -36,18 +36,18 @@ romanLyrics: |-
   Gum ho gaya woh kaise zindaaṅ meiṅ nagina
 
   5
-  Phat jaye na ghairat se Sajjad jigar tera
+  Phat jaaye na ghairat se Sajjad jigar tera
   Mere ghar ki ye raunaq hai kehta hai pidar tera
   Ye soch ke Aabid ko kuchh hosh rahi na
 
   6
-  Rukhsaar maiṅ nana ko mehshar meiṅ dikhaauṅ gi
+  Rukhsaar maiṅ naana ko mahshar meiṅ dikhaauṅ gi
   Rudaad maiṅ zindaaṅ ki ro ro ke sunaauṅ gi
   Paabandi hai rone pe kehta hai kamina
 
   7
   Ae dasht-e-ajal ruk ja bimaar ko aane de
-  Baba ke liye koi paigham sunane de
+  Baba ke liye koi paighaam sunaane de
   Shayad meri turbat pe woh aaye kabhi na
 
   8

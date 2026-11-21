@@ -8,33 +8,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kaisai Kaha Hoga Ali Akber ko Alvida Beemar Nai
-  Alwida alwida kab aao gai poocha hoga ro ro kai sogvaar nai
-
   1
-  1) Baba kai seenai sai lipat ker roti hogi
-  Mujhai chor kai mat jao main tanha mar jaun gi
-  Roun gi jab perhain in ujrai ujrai sehno' main ghurbat kai din guzaarnai
+  Kaise kaha hoga Ali Akbar ko alwida bimaar ne
+  Alwida alwida kab aao ge puchha hoga
+  Ro ro ke sogwaar ne
 
   2
-  2) Laila na jab chooma hy Sughra kai sarko
-  Hasrat sai dhaka ho ga maan nai Ali Asgher ko
-  Aankhon sai ansuyon kai moti dhaal kiyain hongai beti ko maa kai piyaar nai
+  Baba ke sine se lipat kar roti hogi
+  Mujhe chharr ke mat jaao main tanha mar jaauṅ gi
+  Rouṅ gi jab pare in ujre ujre sahnoṅ mein
+  Ghurbat ke din guzaarne
 
   3
-  3) Asgher ko reh reh ker woh gaud main laiti hogi
-  Shayad na milai phir ham tarap ker kehti hogi
-  Kiya kahain kis terha rotai huwai behan ki gaudi ko chora tha sheer khwaar nai
+  Laila ne jab chuma haae Sughra ke sar ko
+  Hasrat se taka hoga maaṅ ne Ali Akbar ko
+  Aankhoṅ se aansuoṅ ke moti tor diye hoṅ ge
+  Beti ko maaṅ ke pyaar ne
 
   4
-  4) Abbas damai rukhsat hathon ko maltay hongay
-  Gar kuch na kaha hoga to behtai hongai
-  Aayaingai ham tujhai lainaigai ahad kiya hoga bibi sai alamdar nai
+  Asghar ko rah rah kar woh god mein leti hogi
+  Shaayad na mileṅ phir ham tarap kar kahti hogi
+  Kya kaheṅ kis tarah rote hue bahan ki jholi ko
+  Chhora tha shir khwaar ne
 
   5
-  5) Hasnain kai sadaqi main karam Haider nai kiya hai
-  Mola kai gadagar kah sharaf zehra say liya hai
-  Do jahan ki duain lee hain sani-e-zehra sai Akhtar sai pursa daar nai
+  Abbas dam-e-rukhsat haathoṅ ko malte hoṅ ge
+  Gar kuchh na kaha hoga ashk to dhalte hoṅ ge
+  Aaeṅ ge ham tujhe lene ye ahd kiya hoga
+  Kamsin se alamdaar ne
+
+  6
+  Hasnain ke sadqe mein karam ye Ali ne kiya hai
+  Maula ke gadaagar ka sharaf Zehra ne diya hai
+  Do jahaaṅ ki duaaeṅ li haiṅ saani-e-Zehra se
+  Akhtar se pursa daar ne
 ---
 
 ۱

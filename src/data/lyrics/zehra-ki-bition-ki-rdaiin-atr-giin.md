@@ -16,7 +16,7 @@ romanLyrics: |-
   Tab hi bazaar-e-Shaam meiṅ uryaaṅ sar gayiṅ
 
   1
-  Laashoṅ ko rassiyoṅ meiṅ jakar kar liye phiro
+  Laashoṅ ko rassiyoṅ meiṅ jakre liye phiro
   Sayyidaaniyaṅ to ghar se nikalte hi mar gayiṅ
 
   2
@@ -36,12 +36,12 @@ romanLyrics: |-
   Zakhmi haiṅ kaan baaliyaaṅ Bibi kidhar gayiṅ
 
   6
-  Angaare pheṅkta tha koi paani khaulata
+  Angaare phenkta tha koi paani kholta
   Abbas-e-bawafa teri behneṅ jidhar gayiṅ
 
   7
   Bazaar le ke jaao na beparda zaalimo
-  Mar jaaeṅgi Husain ki behneṅ agar gayiṅ
+  Mar jaaeṅ gi Husain ki behneṅ agar gayiṅ
 
   8
   Sarwar tu kya likhega Nabi zaadiyoṅ ke gham

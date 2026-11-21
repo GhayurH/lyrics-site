@@ -18,17 +18,17 @@ romanLyrics: |-
   1
   Aaṅkh se Mehdi-e-dauraaṅ ke lahu behta hai
   Inteqaam-e-Shah-e-mazlum abhi rehta hai
-  Badla lena hai to maidaaṅ meiṅ utarna hoga
+  Badla lena hai to maidaaṅ mein utarna hoga
 
   2
-  Haalat-e-jang meiṅ hai Ahl-e-aza jaageṅge
+  Haalat-e-jang mein hai ahl-e-aza jaaeṅge
   Hum Ali waale shahaadat se nahiṅ bhaageṅge
   Maut ke khauf se zaalim ko hi darna hoga
 
   3
   Ehtejaaj apna hamesha hai usuloṅ ki tarah
   Hum janaazoṅ ko utha lete haiṅ phuloṅ ki tarah
-  Har gali aur har ek shehr meiṅ dharna hoga
+  Har gali aur har ek shehr mein dharna hoga
 
   4
   Raah hamwaar nahiṅ karte palidoṅ ke liye
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Hausla lena hai bachchoṅ ko Ali Asghar se
   Josh milta hai jawaanoṅ ko Ali Akbar se
-  Dub kar khun ke darya meiṅ ubharna hoga
+  Dub kar khun ke darya mein ubharna hoga
 
   6
   Jorna aalam-e-Islam hai beta tum ne
@@ -48,12 +48,12 @@ romanLyrics: |-
   7
   Jaan sab de chuke to baat ajab Shah ne kahi
   Jang aisi kabhi dunya ne na dekhi hogi
-  Aaj Asghar ko liye ran meiṅ utarna hoga
+  Aaj Asghar ko liye ran mein utarna hoga
 
   8
-  Qabr bachchi ki hai zindaan meiṅ taiyaar Qamar
-  Aur zanjir meiṅ Abid hai giraftaar magar
-  Le ke mayyat isi haalat meiṅ utarna hoga
+  Qabr bachchi ki hai zindaan mein taiyaar Qamar
+  Aur zanjir mein Abid hai giraftaar magar
+  Le ke mayyat isi haalat mein utarna hoga
 ---
 مستقل خونِ شہادت سے نکھرنا ہوگا
 زندہ رہنا ہے تو شبیر پہ مرنا ہوگا

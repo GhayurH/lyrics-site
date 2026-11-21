@@ -1,32 +1,54 @@
 ---
-title: "Rab Jane Kaise Kazim Qaid E Sitam Nibhai"
+title: "رب جانے کیسے کاظم قیدِ ستم نبھائی"
+alternateTitle: "Rab Jane Kaise Kazim Qaid E Sitam Nibhai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rab jane kaise Kazim qaid e sitam nibhai
+  Mar ke bhi kab mili hai, mazloom ko rehai
+
+  1
+  Misal-e-Hasan jigar hai Kazim, ka tukray tukray
+  Zehar-e-sitam shaqi ne, masoom ko pilayi
+  Paiwast ho chuki thi zanjeer pak tan mein
+  Jab be watan ki maiyyat, mazdoron ne uthai
+
+  2
+  Be warison ke jaisay karna, dafan na logo
+  Yeh hai pisar Nabi ka, Zahra ki hai duhai
+  Lashay pe be watan ke be warsi thi itni
+  Veeran tha janaza, gham ki fiza thi chayi
+
+  3
+  Chodah baras aseeri iss haal mein hai guzri
+  Masmoom baap se ik, beti bhi mil na payi
+  Haider, Nabi bhi matam, kartay hain iss khabar pe
+  Zahra ne bhi lehad mein, dil par hai chot khayi
 ---
 
-Rab Jane Kaise Kazim Qaid e Sitam Nibhai.
-Mar Ke Bhi Kab Mili Hai, Mazloom Ko Rehai.
+رب جانے کیسے کاظم قیدِ ستم نبھائی
+مر کے بھی کب ملی ہے، مظلوم کو رہائی
 
-1
-Misal-e-Hasan Jigar Hai Kazim, Ka Tukray Tukray.
-Zehar-e-Sitam Shaqi Ne, Masoom Ko Pilayi.
-Paiwast Ho Chuki Thi Zanjeer Pak Tan Mein.
-Jab Be Watan Ki Maiyyat, Mazdoron Ne Uthai.
+۱
+مثالِ حسن جگر ہے کاظم کا ٹکڑے ٹکڑے
+زہرِ ستم شقی نے، معصوم کو پلائی
+پیوست ہو چکی تھی زنجیر پاک تن میں
+جب بے وطن کی میت، مزدوروں نے اٹھائی
 
-2
-Be Warison Ke Jaisay Karna, Dafan Na Logo.
-Yeh Hai Pisar Nabi Ka, Zahra Ki Hai Duhai.
-Lashay Pe Be Watan Ke Be Warsi Thi Itni.
-Veeran Tha Janaza, Gham Ki Fiza Thi Chayi.
+۲
+بے وارثوں کے جیسے کرنا دفن نہ لوگو
+یہ ہے پسر نبی کا، زہرا کی ہے دہائی
+لاشے پہ بے وطن کے بے وارثی تھی اتنی
+ویران تھا جنازہ، غم کی فضا تھی چھائی
 
-3
-Chodah Baras Aseeri Iss Haal Mein Hai Guzri.
-Masmoom Baap Se Ik, Beti Bhi Mil Na Payi.
- Haider, Nabi Bhi Matam, Kartay Hain Iss Khabar Pe.
-Zahra Ne Bhi Lehad Mein, Dil Par Hai Chot Khayi.
+۳
+چودہ برس اسیری اس حال میں ہے گزری
+مسموم باپ سے اک، بیٹی بھی مل نہ پائی
+حیدر، نبی بھی ماتم کرتے ہیں اس خبر پہ
+زہرا نے بھی لحد میں، دل پر ہے چوٹ کھائی

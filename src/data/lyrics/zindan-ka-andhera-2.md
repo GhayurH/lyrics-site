@@ -10,51 +10,51 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Din raat sakina bibi par
+  Din raat Sakina Bibi par
   Zindaṅ ka andhera rota hai
 
   1
-  Faryad yateema ki sun kar
+  Faryaad yatima ki sun kar
 
   2
   Hai qaid meiṅ dukhiya khaak nashiṅ
-  Ammu bhi nahi baba bhi nahi
+  Ammu bhi nahiṅ baaba bhi nahiṅ
   Shehzadi ki is ghurbat par
 
   3
-  Jo naah uthane waale the
-  Ab karbobala meiṅ maare gaye
+  Jo naaz uthaane waale the
+  Ab Karb o Bala meiṅ maare gaye
   Karti hai fughaṅ wo shaam o sahar
 
   4
-  Kaano se lahu behta hi raha
-  Thi us pe tamachoṅ ki iza
+  Kaanoṅ se lahu behta hi raha
+  Thi us pe tamaanchoṅ ki iza
   Hai tashnalabi se zakhmi jigar
 
   5
-  Kamsin khwahar hai nauha kuna
-  Gardan meiṅ para hai tauq e garaṅ
+  Kamsin khwaahar hai nauha kunaaṅ
+  Gardan meiṅ para hai tauq-e-garaaṅ
   Sajjad ki ghurbat par aksar
 
   6
   Abbas ki aankhoṅ ka taara
   Aayi thi jo ban kar sheh ki dua
-  Wo karti rahi kaantoṅ pa safar
+  Wo karti rahi kaantoṅ pe safar
 
   7
-  Yaad aata hai sina e shaah e zaman
-  Aankhoṅ meiṅ bhala ab nind kahaṅ
+  Yaad aata hai sina-e-shaah-e-zaman
+  Aankhoṅ meiṅ bhala ab nind kahaaṅ
   Ghash khaati hai bekas muztar
 
   8
   Ro ro ke wo sab se kehti thi
   Ghabraata hai dil lagta hai yehi
-  Jaaungi na wapas apne ghar
+  Jaauṅ gi na waapas apne ghar
 
   9
   Us shehzadi ki khidmat meiṅ
-  Ashkon ke diye hum pesh kare
-  Sadiyoṅ se najaf is bibi par
+  Ashk ke diye hum pesh kareṅ
+  Sadiyoṅ se Najaf is Bibi par
 ---
 
 دن رات سکینہ بی‌بی پر

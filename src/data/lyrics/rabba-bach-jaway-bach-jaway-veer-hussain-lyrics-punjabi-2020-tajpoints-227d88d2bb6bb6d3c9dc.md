@@ -1,35 +1,60 @@
 ---
-title: "Rabba Bach Jaway Bach Jaway Veer Hussain Lyrics Punjabi 2020"
+title: "ربّا بچ جاوے بچ جاوے ویر حسین"
+alternateTitle: "Rabba Bach Jaway Bach Jaway Veer Hussain"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Rabba bach jaway bach jaway veer Hussain
+  Rayi kardi sain duawaan main jiwaan ya mar jawaan mere veer salamat rain
+  Sang mere Hussain jaiyaan haye wich pardais ne aayiyaan jinna wekhiyaan ne bas shaiyaan
+  Kadi dukh nayi wekhay aina na e kadi aj taun pehlaan lashaan te paye wain
+
+  2
+  Veer Ghazi rawway salamat aye saday ghar te rehmat aiday naal way meri himmat
+  Na aisa wela aaway Abbas bhira di ja te pehrey te aaway bhain
+  Sham de loki bhul gaye ne aye jannat de shehzaday Zahra di akh de taray
+  Chakiyaan pe pe ke amari kiya aisay layi palay si aye teer te naizay sain
+
+  3
+  Main udeekaan Habib aaway aj wadah aanr nibhaway mera Shabeer bachaway
+  Lakhaan ne wairi aiday sa ruk ruk jawan mere nayi aanda dil nu chain
+  Mere veraan ne aithay rehna main Sham shehar tur janra arman nayi pora hona
+  Mainu veer mere dafnaday meri turbat aap banaday haye wich Bain Al-Harmain
+
+  4
+  Saday khiyam ghair le ne te bagi kenday paye ne aj ummati aye bhul gaye ne
+  Assi waris Fi Al-Qurba de assi malik Innama de sadi malkiyaat darain
+  Veer de gal te chaliya khanjar Zainab khud takiya manzar mehshar taun pehlaan mehshar
+  Akhiyaan wich ewein wasiyaan Zainab nu teraan zarbaan kadi bhulniyaan nayi Saqlain
 ---
 
-1
-Rabba Bach Jaway Bach Jaway Veer Hussain.
-Rayi Kardi Sain Duawaan Main Jiwaan Ya Mar Jawaan Mere Veer Salamat Rain.
-Sang Mere Hussain Jaiyaan Haye Wich Pardais Ne Aayiyaan Jinna Wekhiyaan Ne Bas Shaiyaan.
-Kadi Dukh Nayi Wekhay Aina Na E Kadi Aj Taun Pehlaan Lashaan Te Paye Wain.
+۱
+ربّا بچ جاوے بچ جاوے ویر حسین
+رئی کردی سیں دعواں میں جیواں یا مر جاواں میرے ویر سلامت رہن
+سنگ میرے حسین جائیاں ہائے وچ پردیس نے آئیاں جنہاں ویکھیاں نے بس شَیاں
+کدی دکھ نئیں ویکھے ایناں نہ ای کدی اج توں پہلاں لاشاں تے پائے وین
 
-2
-Veer Ghazi Rawway Salamat Aye Saday Ghar Te Rehmat Aiday Naal Way Meri Himmat.
-Na Aisa Wela Aaway Abbas Bhira Di Ja Te Pehrey Te Aaway Bhain.
-Sham De Loki Bhul Gaye Ne Aye Jannat De Shehzaday Zahra Di Akh De Taray.
-Chakiyaan Pe Pe Ke Amari Kiya Aisay Layi Palay Si Aye Teer Te Naizay Sain.
+۲
+ویر غازی رہوے سلامت اے ساڈے گھر تے رحمت ایدے نال وے میری ہمت
+نہ ایسا ویلا آوے عباس بھرا دی جا تے پہرے تے آوے بھین
+شام دے لوکی بھل گئے نے اے جنت دے شہزادے زہرا دی اکھ دے تارے
+چکیاں پے پے کے عماری کیا ایسے لئی پالے سی اے تیر تے نیزے سیں
 
-3
-Main Udeekaan Habib Aaway Aj Wadah Aanr Nibhaway Mera Shabeer Bachaway.
-Lakhaan Ne Wairi Aiday Sa Ruk Ruk Jawan Mere Nayi Aanda Dil Nu Chain.
-Mere Veraan Ne Aithay Rehna Main Sham Shehar Tur Janra Arman Nayi Pora Hona.
-Mainu Veer Mere Dafnaday Meri Turbat Aap Banaday Haye Wich Bain Al-Harmain.
+۳
+میں اڈیکاں حبیب آوے اج وعدہ آن نبھاوے میرا شبیر بچاوے
+لکھاں نے ویری ایدے ساہ رک رک جاون میرے نئیں آندا دل نوں چین
+میرے ویراں نے ایتھے رہنا میں شام شہر تر جانا ارمان نئیں پورا ہونا
+مینوں ویر میرے دفنا دے میری تربت آپ بنا دے ہائے وچ بین الحرمین
 
-4
-Saday Khiyam Ghair Le Ne Te Bagi Kenday Paye Ne Aj Ummati Aye Bhul Gaye Ne.
-Assi Waris Fi Al-Qurba De Assi Malik Innama De Sadi Malkiyaat Darain.
-Veer De Gal Te Chaliya Khanjar Zainab Khud Takiya Manzar Mehshar Taun Pehlaan Mehshar.
-Akhiyaan Wich Ewein Wasiyaan Zainab Nu Teraan Zarbaan Kadi Bhulniyaan Nayi Saqlain.
+۴
+ساڈے خیام گھیر لے نے تے باغی کہندے پئے نے اج امتی اے بھل گئے نے
+اسیں وارث فی القربیٰ دے اسیں مالک انما دے ساڈی ملکیت دارین
+ویر دے گل تے چلیا خنجر زینب خود تکیا منظر محشر توں پہلاں محشر
+اکھیاں وچ ایویں وسیاں زینب نوں تیراں ضرباں کدی بھلنیاں نئیں ثقلین

@@ -12,8 +12,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mohabbat ki waadi meiṅ lutta lutaata
-  Masaaib ki duniya meiṅ phirta phiraata
+  Mohabbat ki waadi mein lutta lutaata
+  Masaaib ki duniya mein phirta phiraata
   Naqaahat se har gaam par dagmagaata
   Sambhaale hue beriyaṅ larkharaata
   Mazaalim ke tufaan se takraata raha hai
@@ -27,15 +27,15 @@ romanLyrics: |-
   Sawaad-e-sar-e-Shaam tharra raha hai
 
   2
-  Mukammal masaaib ke saanche meiṅ dhal ke
-  Hidaayat ki raahoṅ meiṅ kaantoṅ pe chal ke
+  Mukammal masaaib ke saanche mein dhal ke
+  Hidaayat ki raahoṅ mein kaantoṅ pe chal ke
   Faqat ye nahiṅ ke kiya sabr balke
   Zara sabr ki had se baahar nikal ke
   Imaamat ki taaqat ko dikhla raha hai
 
   3
   Sataate haiṅ behad ye paaoṅ ke chhaale
-  Aur in meiṅ wo kaante ke jaise ho bhaale
+  Aur in mein wo kaante ke jaise ho bhaale
   Magar kya kare kaise un ko nikaale
   Ye kaante nikaale ke langar sambhaale
   Taras bhi to koi nahiṅ khaa raha hai

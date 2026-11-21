@@ -1,21 +1,33 @@
 ---
-title: "Rehti Hain Ibadat Mein Azadar Ki Sansein"
+title: "رہتی ہیں عبادت میں عزادار کی سانسیں"
+alternateTitle: "Rehti Hain Ibadat Mein Azadar Ki Sansein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Matam ki tarah hoti hain Hubdar ki sansein
+  Bekar hai jeena bhi tera bugz-e-Ali mein
+  Munkir teri sansein bhi hain bekar ki sansein
+  Qurban yeh hone pe hamesha se hain teyar
+  Ghazi ki wafaon pe wafadar ki sansein
+  Aata hai Ali ko dekh ke Khaiber mein ruk gayin
+  Iss par ki sansein hoon ya oss paar ki sansein
+  Dono ke machal jane se darta tha zamana
+  Mesum ki hoon sansein yaa hoon Mukhtar ki sansein
 ---
 
-1
-Matam Ki Tarah Hoti Hain Hubdar Ki Sansein.
-Bekar Hai Jeena Bhi Tera Bugz-e-Ali Mein.
-Munkir Teri Sansein Bhi Hain Bekar Ki Sansein.
-Qurban Yeh Hone Pe Hamesha Se Hain Teyar.
-Ghazi Ki Wafaon Pe Wafadar Ki Sansein.
-Aata Hai Ali Ko Dekh Ke Khaiber Mein Ruk Gayin.
-Iss Par Ki Sansein Hoon Ya Oss Paar Ki Sansein.
-Dono Ke Machal Jane Se Darta Tha Zamana.
-Mesum Ki Hoon Sansein Yaa Hoon Mukhtar Ki Sansein.
+۱
+ماتم کی طرح ہوتی ہیں حب دار کی سانسیں
+بے کار ہے جینا بھی تیرا بغضِ علی میں
+منکر تیری سانسیں بھی ہیں بے کار کی سانسیں
+قربان یہ ہونے پہ ہمیشہ سے ہیں تیار
+غازی کی وفاؤں پہ وفادار کی سانسیں
+آتا ہے علی کو دیکھ کے خیبر میں رک گئیں
+اِس پار کی سانسیں ہوں یا اُس پار کی سانسیں
+دونوں کے مچل جانے سے ڈرتا تھا زمانہ
+میثم کی ہوں سانسیں یا ہوں مختار کی سانسیں

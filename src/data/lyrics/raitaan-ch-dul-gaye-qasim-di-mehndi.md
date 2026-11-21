@@ -1,41 +1,73 @@
 ---
-title: "Raitaanch Dul Gaye, Mityaanch Rul Gaye, Maa Nu Rawavay, Qasim Di Mehndi"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "ریتَاں چ ڈُل گئے، مِٹیاں چ رُل گئے، ماں نوں رُوَاوے، قاسم دی مہندی"
+alternateTitle: "Raitaanch Dul Gaye, Mityaanch Rul Gaye, Maa Nu Rawavay, Qasim Di Mehndi"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Raitaanch dul gaye, mityaanch rul gaye, maa nu rawavay, Qasim di mehndi
+  Kubra da baba chadar vee chakay, chun chun kay pavay, Qasim di mehndi
+
+  1
+  Khaiyaam andar jadoon mehndi aaye, banray di maa nay sir khaak paaye
+  Banree da baba behni bulaakay, ro ro vakhaa vay, Qasim di mehndi
+
+  2
+  Maqtal cho Syed ey vain paaya, kalaah hay nana Zahra da jayaa
+  Kausar kinaaray mairay turgay saray, kayra uthavay, Qasim di mehndi
+
+  3
+  Behni di ghatree Zainab utha kay, Farwah nu aakhay ohday kowl jaakay
+  Putaraan da sadma Akbar da sadma, mainu bhula vay, Qasim di mehndi
+
+  4
+  Bachra Hassan da pamaal hoya, Karbobala da rang laal hoya
+  Shabbir kewain maqtal cho puri khaimay pocha vay, Qasim di mehndi
+
+  5
+  Kuj mehndi gohvay summach lay gaye, kuj eiday tukray maqtalch ray gay
+  Syed Musafir Qasim di maa ton kewain lukaa vay, Qasim di mehndi
+
+  6
+  Putraan nu lokhoon sehray jay laa o, Qasim di pehlay majalis kara o
+  Banray nu aakho shagnaa day vailay, oh bhul nah javay, Qasim di mehndi
+
+  7
+  Tauqeer oh day tu sain raazi, Mazloom-e-Karbal di bhain raazi
+  Qasim di turbat dil vich waasa kay jeyra sajaa vay, Qasim di mehndi
 ---
 
-Raitaanch Dul Gaye, Mityaanch Rul Gaye, Maa Nu Rawavay, Qasim Di Mehndi
-Kubra Da Baba Chadar Vee Chakay, Chun Chun Kay Pavay, Qasim Di Mehndi
+ریتَاں چ ڈُل گئے، مِٹیاں چ رُل گئے، ماں نوں رُوَاوے، قاسم دی مہندی
+کبریٰ دا بابا چادر وی چکے، چُن چُن کے پاوے، قاسم دی مہندی
 
 ۱
-Khaiyaam Andar Jadoon Mehndi Aaye, Banray Di Maa Nay Sir Khaak Paaye
-Banree Da Baba Behni Bulaakay, Ro Ro Vakhaa Vay, Qasim Di Mehndi
+خیام اندر جدوں مہندی آئے، بنڑے دی ماں نے سِر خاک پائے
+بنڑی دا بابا بھینی بلا کے، رو رو وکھاوے، قاسم دی مہندی
 
 ۲
-Maqtal Cho Syed Ey Vain Paaya, Kalaah Hay Nana Zahra Da Jayaa
-Kausar Kinaaray Mairay Turgay Saray, Kayra Uthavay, Qasim Di Mehndi
+مقتل چوں سیّد ایہہ وین پایا، کلّا ہے نانا زہرا دا جایا
+کوثر کنارے میرے ٹُر گئے سارے، کیہڑا اٹھاوے، قاسم دی مہندی
 
 ۳
-Behni Di Ghatree Zainab Utha Kay, Farwah Nu Aakhay Ohday Kowl Jaakay
-Putaraan Da Sadma Akbar Da Sadma, Mainu Bhula Vay, Qasim Di Mehndi
+بھینی دی گٹھڑی زینب اٹھا کے، فروہ نوں آکھے اوہدے کول جا کے
+پُتراں دا صدمہ اکبر دا صدمہ، مینوں بھلاوے، قاسم دی مہندی
 
 ۴
-Bachra Hassan Da Pamaal Hoya, Karbobala Da Rang Laal Hoya
-Shabbir Kewain Maqtal Cho Puri Khaimay Pocha Vay, Qasim Di Mehndi
+بچڑا حسن دا پامال ہویا، کرب و بلا دا رنگ لال ہویا
+شبیر کیویں مقتل چوں پوری خیمے پہنچاوے، قاسم دی مہندی
 
 ۵
-Kuj Mehndi Gohvay Summach Lay Gaye, Kuj Eiday Tukray Maqtalch Ray Gay
-Syed Musafir Qasim Di Maa Ton Kewain Lukaa Vay, Qasim Di Mehndi
+کجھ مہندی گھوڑے سُمّاں چ لے گئے، کجھ ایہدے ٹکڑے مقتل چ رہ گئے
+سیّد مسافر قاسم دی ماں توں کیویں لُکاوے، قاسم دی مہندی
 
 ۶
-Putraan Nu Lokhoon Sehray Jay Laa O, Qasim Di Pehlay Majalis Kara O
-Banray Nu Aakho Shagnaa Day Vailay, Oh Bhul Nah Javay, Qasim Di Mehndi
+پُتراں نوں لوکوں سہرے جے لاؤ، قاسم دی پہلے مجالس کراؤ
+بنڑے نوں آکھو شگناں دے ویلے، اوہ بھُل نہ جاوے، قاسم دی مہندی
 
 ۷
-Tauqeer Oh Day Tu Sain Raazi, Mazloom-e-Karbal Di Bhain Raazi
-Qasim Di Turbat Dil Vich Waasa Kay Jeyra Sajaa Vay, Qasim Di Mehndi
+توقیر اوہ دے توں سائیں راضی، مظلومِ کربل دی بھین راضی
+قاسم دی تربت دل وچ واسا کہ جیہڑا سجاوے، قاسم دی مہندی

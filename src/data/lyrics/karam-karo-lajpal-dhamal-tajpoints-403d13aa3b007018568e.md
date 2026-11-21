@@ -1,50 +1,90 @@
 ---
-title: "Karam Karo Lajpal Dhamal"
+title: "کرم کرو لجپال دھمال"
+alternateTitle: "Karam Karo Lajpal Dhamal"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tera sawali na jaye khali sakhi qalandar mujhe atta kar laga de bera paar
+  Karam karo karam karo haan karam karo lajpal sakhi Hussain lal
+
+  1
+  Ali ka shahzada karam jo farma de
+  Mera sakhi murshad Khuda se milwa de
+  Khuda hai tujh se aye lal razi
+  Jo tu mile tu Khuda mile ga mere sakhi sarkar
+
+  2
+  Ali aqeeda hai Ali tera kalma
+  Ali hi qibla hai Ali tera kaba
+  Tera wazeefa Ali Ali hai
+  Hai dam issi se tu dam ke andar issi se dil bedar
+
+  3
+  Bulandiyon se bhi buland hai shahbaz
+  Zameen se Tooba tak hai lal ki parwaz
+  Sajay na kaise laqab yeh tum par
+  Zamana tum ko pukarta hai Ali ka wirsadar
+
+  4
+  Sada-e-nobat mein hai Karbala ka gham
+  Dhamal hai teri Hussain ka matam
+  Hussaini matam teri tamana
+  Tab hi tu aaye tumhare dar par yeh sare matamdar
+
+  5
+  Azal se khali hai bhare mera daman
+  Karam ki rangat se sajay mera daman
+  Teri atta se aye lal saeen
+  Mujhe muqadar ne phir dikhaya sakhi tera darbar
+
+  6
+  Raza ko bakhshe hai yeh soz our qalam
+  Yeh nokari teri karon younhi har dam
+  Dua hai teri nigah teri
+  Aye mere murshad mere qalandar qabool kar ashaar
 ---
 
-Tera Sawali Na Jaye Khali Sakhi Qalandar Mujhe Atta Kar Laga De Bera Paar.
-Karam Karo Karam Karo Haan Karam Karo Lajpal Sakhi Hussain Lal.
+تیرا سوالی نہ جائے خالی سخی قلندر مجھے عطا کر لگا دے بیڑا پار
+کرم کرو کرم کرو ہاں کرم کرو لجپال سخی حسین لال
 
-1
-Ali Ka Shahzada Karam Jo Farma De.
-Mera Sakhi Murshad Khuda Se Milwa De.
-Khuda Hai Tujh Se Aye Lal Razi.
-Jo Tu Mile Tu Khuda Mile Ga Mere Sakhi Sarkar.
+۱
+علی کا شہزادہ کرم جو فرما دے
+میرا سخی مرشد خدا سے ملوا دے
+خدا ہے تجھ سے اے لال راضی
+جو تُو ملے تو خدا ملے گا میرے سخی سرکار
 
-2
-Ali Aqeeda Hai Ali Tera Kalma.
-Ali Hi Qibla Hai Ali Tera Kaba.
-Tera Wazeefa Ali Ali Hai.
-Hai Dam Issi Se Tu Dam Ke Andar Issi Se Dil Bedar.
+۲
+علی عقیدہ ہے علی تیرا کلمہ
+علی ہی قبلہ ہے علی تیرا کعبہ
+تیرا وظیفہ علی علی ہے
+ہے دم اسی سے تو دم کے اندر اسی سے دل بیدار
 
-3
-Bulandiyon Se Bhi Buland Hai Shahbaz.
-Zameen Se Tooba Tak Hai Lal Ki Parwaz.
-Sajay Na Kaise Laqab Yeh Tum Par.
-Zamana Tum Ko Pukarta Hai Ali Ka Wirsadar.
+۳
+بلندیوں سے بھی بلند ہے شہباز
+زمیں سے طوبیٰ تک ہے لال کی پرواز
+سجے نہ کیسے لقب یہ تم پر
+زمانہ تم کو پکارتا ہے علی کا ورثہ دار
 
-4
-Sada-e-Nobat Mein Hai Karbala Ka Gham.
-Dhamal Hai Teri Hussain Ka Matam.
-Hussaini Matam Teri Tamana.
-Tab Hi Tu Aaye Tumhare Dar Par Yeh Sare Matamdar.
+۴
+صدائے نوبت میں ہے کربلا کا غم
+دھمال ہے تیری حسین کا ماتم
+حسینی ماتم تیری تمنا
+تب ہی تو آئے تمہارے در پر یہ سارے ماتم دار
 
-5
-Azal Se Khali Hai Bhare Mera Daman.
-Karam Ki Rangat Se Sajay Mera Daman.
-Teri Atta Se Aye Lal Saeen.
-Mujhe Muqadar Ne Phir Dikhaya Sakhi Tera Darbar.
+۵
+ازل سے خالی ہے بھرے میرا دامن
+کرم کی رنگت سے سجے میرا دامن
+تیری عطا سے اے لال سائیں
+مجھے مقدر نے پھر دکھایا سخی تیرا دربار
 
-6
- Raza Ko Bakhshe Hai Yeh Soz Our Qalam.
-Yeh Nokari Teri Karon Younhi Har Dam.
-Dua Hai Teri Nigah Teri.
-Aye Mere Murshad Mere Qalandar Qabool Kar Ashaar.
+۶
+رضا کو بخشے ہے یہ سوز اور قلم
+یہ نوکری تیری کروں یوں ہی ہر دم
+دعا ہے تیری نگاہ تیری
+اے میرے مرشد میرے قلندر قبول کر اشعار

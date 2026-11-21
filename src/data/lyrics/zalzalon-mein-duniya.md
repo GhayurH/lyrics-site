@@ -12,10 +12,10 @@ aliases: ["Zalzalon May Dunya"]
 published: true
 romanLyrics: |-
   Zalzaloṅ meiṅ duniya thi aasmaan larza tha
-  Reg-e-garm sahra par Shah-e-Diṅ ka laasha tha
+  Reh gaye garm sahra par Shaah-e-Diṅ ka laasha tha
 
   1
-  Beqaraar maujeiṅ thiṅ shola baar darya tha
+  Beqaraar maujeṅ thiṅ shola baar darya tha
   Ibn-e-Saaqi-e-Kausar tin din ka pyaasa tha
 
   2
@@ -27,16 +27,16 @@ romanLyrics: |-
   Shah ki naatawaani thi naujawaṅ ka laasha tha
 
   4
-  Kal lahu meiṅ dubegi naujawaani Akbar ki
+  Kal lahu meiṅ dube gi naujawaani Akbar ki
   Maaṅ ki chashm-e-hasrat meiṅ subh ka sannaata tha
 
   5
-  Tashnalab wo mehmaaṅ the Karbala ke jangal meiṅ
+  Tashna lab wo mehmaaṅ the Karbala ke jangal meiṅ
   Jin ke waaste paani khun se bhi mehnga tha
 
   6
-  Qalb fauj meiṅ uthi inqilaab ki maujeiṅ
-  Dasht-e-Shah par pyaasa shirkhwaar bachcha tha
+  Qalb fauj meiṅ uthi inqilaab ki maujeṅ
+  Dasht-e-Shaah par pyaasa shir khwaar bachcha tha
 ---
 زلزلوں میں دُنیا تھی آسمان لرزا تھا
 رِہ گئے گرم صحرا پر شاہِ دیں کا لاشہ تھا

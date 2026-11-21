@@ -1,38 +1,65 @@
 ---
-title: "Qayamat Aur Hai"
+title: "قیامت اور ہے"
+alternateTitle: "Qayamat Aur Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Har payambar par jo aayi wo musibat aur hai
+  Karbala walo pa jo guzri qayamat aur hai
+
+  1
+  Asr tak to janay kya ho pyas ki shiddat ka haal
+  Subha se Ashoor ke suraj ki hiddat aur hai
+
+  2
+  Kat ke sar Darul Amara par hai Sheh ka muntazir
+  Kufiyo Muslim ka andaaz-e-sifarat aur hai
+
+  3
+  Khaynchi hai sinay-e-Akbar se barchi ki ani
+  Aakhri ye Shahe Deen batey ki khidmat aur hai
+
+  4
+  Raig zar-e-garm par chadar bichatay hain Hussain
+  Kya karay ke laashay Qasim ki haalat aur hai
+
+  5
+  Baab-e-Khyber ka uthaana wo shuja-at aur thi
+  Teer kha kar muskurana ye shuja-at aur hai
+
+  6
+  Dushmanan-e-Karbala phir ma-arka aara hai aaj
+  Majlis-o-matam ki Shahid ab zaroorat aur hai
 ---
 
-har payambar par jo aayi wo musibat aur hai
+ہر پیمبر پر جو آئی وہ مصیبت اور ہے
+کربلا والوں پہ جو گزری قیامت اور ہے
 
-karbala walo pa jo guzri qayamat aur hai
+۱
+عصر تک تو جانے کیا ہو پیاس کی شدت کا حال
+صبح سے عاشور کے سورج کی حدت اور ہے
 
-asr tak to janay kya ho pyas ki shiddat ka haal
+۲
+کٹ کے سر دارالامارہ پر ہے شہ کا منتظر
+کوفیو مسلم کا اندازِ سفارت اور ہے
 
-subha se ashoor ke suraj ki hiddat aur hai
+۳
+کھینچی ہے سینۂ اکبر سے برچھی کی انی
+آخری یہ شاہِ دیں بیٹے کی خدمت اور ہے
 
-kat ke sar darul amara par hai sheh ka muntazir
+۴
+ریگ زارِ گرم پر چادر بچھاتے ہیں حسین
+کیا کرے کہ لاشۂ قاسم کی حالت اور ہے
 
-kufiyo muslim ka andaaz-e-sifarat aur hai
+۵
+بابِ خیبر کا اٹھانا وہ شجاعت اور تھی
+تیر کھا کر مسکرانا یہ شجاعت اور ہے
 
-khaynchi hai sinay-e-akbar se barchi ki ani
-
-aakhri ye shahe deen batey ki khidmat aur hai
-
-raig zar-e-garm par chadar bichatay hain hussain
-
-kya karay ke laashay qasim ki haalat aur hai
-
-baab-e-khyber ka uthaana wo shuja-at aur thi
-
-teer kha kar muskurana ye shuja-at aur hai
-
-dushmanan-e-karbala phir ma-arka aara hai aaj
-
-majlis-o-matam ki shahid ab zaroorat aur hai
+۶
+دشمنانِ کربلا پھر معرکہ آرا ہے آج
+مجلس و ماتم کی شاہد اب ضرورت اور ہے

@@ -1,50 +1,90 @@
 ---
-title: "Zuban-e-Be-Zubani Se Ali Asghar Batatay Hain"
+title: "زبانِ بے زبانی سے علی اصغر بتاتے ہیں"
+alternateTitle: "Zuban-e-Be-Zubani Se Ali Asghar Batatay Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zuban-e-be-zubani se Ali Asghar batatay hain
+  Mujhe Babul Hawaij khud mere Baba bulatay hain
+
+  1
+  Hum Ahl-e-Bait ko yeh tark-e-aula hi nahi jachta
+  Hamara dil zamane ke khilono se nahi lagta
+  Hamare dil ko behlane sitare chal ke aate hain
+  Zameen-e-Karbala pe gar mere naqsh-e-qadam aate
+
+  2
+  Tu khak-e-naqsh-e-pa se kitne aalam khalq ho jate
+  Mere ghar ke tu nokar khak se janat banate hain
+  Ali ki taig hum ko loriyaan dekar sulati ho
+  Dua-e-zindagi dene humein khud maut aati ho
+
+  3
+  Qaza darti hai hum qaza pe muskurate hain
+  Kisi ko kya khabar kaisi Ali Asghar ki qudrat hai
+  Yeh mere naam se mansoob gehrwaron ki azmat hai
+  Keh be-aulaad in gehwaron se aulad pate hain
+
+  4
+  Kabhi Walshams our Walnajam ki aayat dekhi hain
+  Jinho ne chand soraj ki tanabein thaam rakhi hain
+  Woh Rizwaan raat din aa kar mera jhola jhulate hain
+  Hum hi hain mojzoon se deen ki jo tareekh likhte hain
+
+  5
+  Hamari thokaron par qabar se murday bhi uthtay hain
+  Hum hi thokar se khud apne hi qatil ko jagate hain
+  Zameen-o-aasmaan ki sab siyahi katne wale
+  Hum hi hain zulmat-e-shab mein ujala bantne wale
+
+  6
+  Hamare dar ki miti cho ke tare jagmagate hain
+  Tabasum mein ishara tha yehi Akbar zamane se
+  Yeh kal Mukhtar ki talwar dekhein gaye tu samjhein gaye
+  Kise talwar kehte hain issay kaise chalate hain
 ---
 
-Zuban-e-Be-Zubani Se Ali Asghar Batatay Hain.
-Mujhe Babul Hawaij Khud Mere Baba Bulatay Hain.
+زبانِ بے زبانی سے علی اصغر بتاتے ہیں
+مجھے باب الحوائج خود میرے بابا بلاتے ہیں
 
-1
-Hum Ahl-e-Bait Ko Yeh Tark-e-Aula Hi Nahi Jachta.
-Hamara Dil Zamane Ke Khilono Se nahi Lagta.
-Hamare Dil Ko Behlane Sitare Chal Ke Aate Hain.
-Zameen-e-Karbala Pe Gar Mere Naqsh-e-Qadam Aate.
+۱
+ہم اہلِ بیت کو یہ ترکِ اولیٰ ہی نہیں جچتا
+ہمارا دل زمانے کے کھلونوں سے نہیں لگتا
+ہمارے دل کو بہلانے ستارے چل کے آتے ہیں
+زمینِ کربلا پہ گر میرے نقشِ قدم آتے
 
-2
-Tu Khak-e-Naqsh-e-Pa Se Kitne Aalam Khalq Ho Jate.
-Mere Ghar Ke Tu Nokar Khak Se Janat Banate Hain.
-Ali Ki Taig Hum Ko Loriyaan Dekar Sulati Ho.
-Dua-e-Zindagi Dene Humein Khud Maut Aati Ho.
+۲
+تو خاکِ نقشِ پا سے کتنے عالم خلق ہو جاتے
+میرے گھر کے تو نوکر خاک سے جنت بناتے ہیں
+علی کی تیغ ہم کو لوریاں دے کر سلاتی ہو
+دعائے زندگی دینے ہمیں خود موت آتی ہو
 
-3
-Qaza Darti Hai Hum Qaza Pe Muskurate Hain.
-Kisi Ko Kya Khabar Kaisi Ali Asghar Ki Qudrat Hai.
-Yeh Mere Naam Se Mansoob Gehrwaron Ki Azmat Hai.
-Keh Be-Aulaad In Gehwaron Se Aulad Pate Hain.
+۳
+قضا ڈرتی ہے ہم قضا پہ مسکراتے ہیں
+کسی کو کیا خبر کیسی علی اصغر کی قدرت ہے
+یہ میرے نام سے منسوب گہواروں کی عظمت ہے
+کہ بے اولاد ان گہواروں سے اولاد پاتے ہیں
 
-4
-Kabhi Walshams Our Walnajam Ki Aayat Dekhi Hain.
-Jinho Ne Chand Soraj Ki Tanabein Thaam Rakhi Hain.
-Woh Rizwaan Raat Din Aa Kar Mera Jhola Jhulate Hain.
-Hum Hi Hain Mojzoon Se Deen Ki Jo Tareekh Likhte Hain.
+۴
+کبھی والشمس اور والنجم کی آیت دیکھی ہیں
+جنھوں نے چاند سورج کی طنابیں تھام رکھی ہیں
+وہ رضوان رات دن آ کر میرا جھولا جھلاتے ہیں
+ہم ہی ہیں معجزوں سے دین کی جو تاریخ لکھتے ہیں
 
-5
-Hamari Thokaron Par Qabar Se Murday Bhi Uthtay Hain.
-Hum Hi Thokar Se Khud Apne Hi Qatil Ko Jagate Hain.
-Zameen-o-Aasmaan Ki Sab Siyahi Katne Wale.
-Hum Hi Hain Zulmat-e-Shab Mein Ujala Bantne Wale.
+۵
+ہماری ٹھوکروں پر قبر سے مردے بھی اٹھتے ہیں
+ہم ہی ٹھوکر سے خود اپنے ہی قاتل کو جگاتے ہیں
+زمین و آسمان کی سب سیاہی کاٹنے والے
+ہم ہی ہیں ظلمتِ شب میں اجالا بانٹنے والے
 
-6
-Hamare Dar Ki Miti Cho Ke Tare Jagmagate Hain.
-Tabasum Mein Ishara Tha Yehi Akbar Zamane Se.
-Yeh Kal Mukhtar Ki Talwar Dekhein Gaye Tu Samjhein Gaye.
-Kise Talwar Kehte Hain Issay Kaise Chalate Hain.
+۶
+ہمارے در کی مٹی چھو کے تارے جگمگاتے ہیں
+تبسم میں اشارہ تھا یہی اکبر زمانے سے
+یہ کل مختار کی تلوار دیکھیں گے تو سمجھیں گے
+کسے تلوار کہتے ہیں اسے کیسے چلاتے ہیں

@@ -19,13 +19,13 @@ romanLyrics: |-
   Kaise guzaare tin mahine Batul ne
 
   1
-  Taklif de rahi thi har ek saaṅs meiṅ bari
-  Wo kil jo Batul ke pehlu meiṅ thi gari
+  Taklif de rahi thi har ek saans meiṅ bari
+  Wo kil jo Batul ke pehlu meiṅ thi ghari
   Har ek qadam larazti hui pindliyoṅ ke saath
 
   2
   Larze sutun-e-Kaaba jo teora ke gir pari
-  Aisa tamaacha maara ke ghash kha ke gir pari
+  Aisa tamaancha maara ke ghash kha ke gir pari
   Tapka zamiṅ pe khun bhi kuch baaliyoṅ ke saath
 
   3
@@ -39,9 +39,9 @@ romanLyrics: |-
   Ro ro ke ghar meiṅ sehmi hui bachchiyoṅ ke saath
 
   5
-  Har dam tasawuraat meiṅ phaila raha dhuaaṅ
+  Har dam tasawwuraat meiṅ phaila raha dhuaaṅ
   Uthte hue wo shole wo darbaar al-amaan
-  Jalti hui khayaal meiṅ un lakriyoṅ ke saath
+  Jalti hui khayaal meiṅ un larkiyoṅ ke saath
 
   6
   Shole uthe aur aag lagi ghar bhi jal gaya
@@ -49,13 +49,13 @@ romanLyrics: |-
   Baandha gaya Ali ka gala rassiyoṅ ke saath
 
   7
-  Phaari thi jo lain ne tahrir-e-Mustafa
+  Phaari thi jo laiin ne tahrir-e-Mustafa
   Sine se apne haaye lagaaye rahi sada
   Baaba ki un phati hui kuch parchiyoṅ ke saath
 
   8
   Haq Fatema ka logoṅ ne Aamir nahiṅ diya
-  Sadma dil-e-Batul pe Aini yehi raha
+  Sadma dil-e-Batul pe Aini raha
   Lipta ke apne bachchoṅ ko tanhaaiyoṅ ke saath
 ---
 

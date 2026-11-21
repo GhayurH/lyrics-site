@@ -9,112 +9,69 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Riwayat-e-Mukhtar Mir Hasan Mir"
-romanLyrics: 'Riwayat-e-Mukhtar Mir Hasan Mir.
-
+romanLyrics: |-
+  Ae rone waloṅ hai yeh rawaayaat mein likha
+  Jis dam qiyaam Kufe mein Mukhtar ne kiya
 
   1
-
-  Haye Aye Rone Walo Yeh Rawayaat Mein Likha.
-
-  Jis Dam Qiyam Kofe Mein Mukhtar Ne Kiya.
-
-  Jo Bhi The Qatilan-e-Shaheedan-e-Karbala.
-
-  Arey Un Mein Se Koi Jab Bhi Giriftar Hota Tha.
-
-  Hukam-e-Ameer Par Woh Sitam Jab Sunata Tha.
-
-  Mukhtar Sar Ko Peet Ke Bas Rota Jata Tha.
-
+  Jo bhi the qaatilaan-e-shahidaan-e-Karbala
+  Are un mein se koi jab bhi giraftaar hota tha
+  Hukm-e-amir par woh sitam jab sunaata tha
+  Mukhtar sar ko pit ke bas rota jaata tha
 
   2
-
-  Haye Ik Rooz Tha Yeh Kofe Ke Darbar Ka Samaa.
-
-  Ibn-e-Numair Apne Sitam karta Tha Biyaan.
-
-  Tori Thi Main Ne Seena-e-Akbar Mein Khud Sina.
-
-  Uthta Tha Shoor Khaimo Se Mara Giya Jawaan.
-
-  Maa Jeete Ji Guzar Gayi Zainab Bhi Mar Gayi.
-
-  Ik Barchi Meri Kitne Jigar Paar Kar Gayi.
-
+  Ik roz tha yeh Kufe ke darbaar ka samaaṅ
+  Ibn-e-Numair apne sitam karta tha bayaaṅ
+  Tori thi main ne sina-e-Akbar mein khud sinaaṅ
+  Uthta tha shor khaimoṅ se maaraa gaya jawaaṅ
 
   3
-
-  Haye Ik Rooz Kar Ke Laya Giya Hurmala Aseer.
-
-  Bola Woh Ran Mein Main Ne Chalaye The Teen Teer.
-
-  Oss Waqt Pehla Teer Chalaya Tha Aye Ameer.
-
-  Bhar Kar Chala Jo Mashk Tu Mazloom Ka Safeer.
-
-  Mashkeeze Se Jo Teer Mera Paar Ho Giya.
-
-  Aisa Laga Ke Qatal Alamdar Ho Giya.
-
+  Maa jite ji guzar gayi Zainab bhi mar gayi
+  Ik barchhi meri kitne jigar paar kar gayi
+  Ik roz kar kare laaya gaya Hurmala asir
+  Bola woh ran mein main ne chalaaye the tin tir
 
   4
-
-  Haye Bola Laeen Ye Qarb Ka Hai Dosra Maqam.
-
-  Laye Jo Apni Gaud Mein Be-Sheer Ko Imam.
-
-  Sokhi Zubaan Phairata Tha Honton Pe Tishna Kaam.
-
-  Youn Qata Ibn-e-Zahra Ka Main Ne Kiya Kalam.
-
-  Hil Hil Giya Lahad Mein Jigar Boturab Ka.
-
-  Arey Maqtal Mein Nehar Ho Giya Bacha Rubab Ka.
-
+  Us waqt pahla tir chalaaya tha ae amir
+  Bhar kar chala jo mashk tu mazlum ka safir
+  Mashkize se jo tir mera paar ho gaya
+  Aisa laga ke qatl Alamdaar ho gaya
 
   5
-
-  Haye Darbar Mein Yeh Sun Ke Qayamat Ka Tha Samaa.
-
-  Arey Peer-o-Jawan Rote The Le Le Ke Hichkiyaan.
-
-  Bola Yeh Hurmala Abhi Baqi Hai Dastaan.
-
-  Jis Dam Tera Hussain Tha Teeron Ke Darmiyaa.
-
-  Woh Teer Aakhri Tha Jo Main Ne Chalaya Tha.
-
-  Arey oss Teer Ne Hussain Ko Zeen Se Giraya Tha.
-
+  Bola laiṅ yeh Karbala ka hai dusra maqaam
+  Laaye jo apni god mein beshir ko imaam
+  Sukhi zabaaṅ phiraata tha hontoṅ pe tishna kaam
+  Yuṅ qata Ibn-e-Zahra ka main ne kiya kalaam
 
   6
-
-  Haye Phir Shoor Wah Hussaina Ka Uthta Tha Bar Bar.
-
-  Jab Qaid Kar Ke Laya Giya Shimar-e-Bad Shiyar.
-
-  Bola Woh Mere Hath Mein Khanjar Tha Taiz Dhar.
-
-  Jis Se Kiye Hussain Ki Gardan Pe Terah(13) Waar.
-
-  Khanjar Rawaan Tha Halq Pe Ibn-e-Batool Ke.
-
-  Dil Kat Rahe The Sath Mein Aal-e-Rasool Ke.
-
+  Hil hil gaya lahad mein jigar Buturaab ka
+  Are maqtal mein nahr ho gaya bachcha Rubab ka
+  Darbaar mein yeh sun ke qayaamat ka tha samaaṅ
+  Are pir o jawaan rote the le le ke hichkiyaaṅ
 
   7
+  Bola yeh Hurmala abhi baaqi hai daastaaṅ
+  Jis dam tera Husain tha tiroṅ ke darmiyaaṅ
+  Woh tir aakhri tha jo main ne chalaaya tha
+  Are us tir ne Husain ko ziṅ se giraaya tha
 
-  Haye Ab Iss Ke Bad:MIR TAKALLUM: Biyaan Ho Kiya.
+  8
+  Phir shor wa Husaina ka uthta tha baar baar
+  Jab qaid kar ke laaya gaya Shimr bad shiaar
+  Bola woh mere haath mein khanjar tha tez dhaar
+  Jis se kiye Husain ki gardan pe terah waar
 
-  Aye Pursa Daro Sochna Dil Mein Kabhi Zara.
+  9
+  Khanjar rawaaṅ tha halq pe Ibn-e-Batul ke
+  Dil kat rahe the saath mein Aal-e-Rasul ke
+  Ab us ke baad Mir Takallum bayaaṅ ho kya
+  Ae pursadaaroṅ sochna dil mein kabhi zara
 
-  Kyun Itna Waqt Qatil-e-Shabir Ko Laga.
-
-  Kis Waste Hussain Ka Katta Na Tha Gala.
-
-  Mehshar Min Yeh Khule Ga Sitam Kainat Par.
-
-  Khanjar Ke Kuch Nishan Hain Zahra Ke Hath Par.'
+  10
+  Kiuṅ itna waqt qaatil-e-Shabbir ko laga
+  Kis waaste Husain ka katta na tha gala
+  Mahshar mein yeh khulega sitam kaainaat par
+  Khanjar ke kuchh nishaan hai Zahra ke haath par
 ---
 
 اے رونے والوں ہے یہ روایات میں لکھا

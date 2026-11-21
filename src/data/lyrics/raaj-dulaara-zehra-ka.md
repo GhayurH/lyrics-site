@@ -19,7 +19,7 @@ romanLyrics: |-
   Apni god meiṅ le le gi jis ki god ka paala hai
 
   2
-  Raah-e-khuda meiṅ jaldi ki, aage jaane waaloṅ ne
+  Raah-e-Khuda meiṅ jaldi ki, aage jaane waaloṅ ne
   Subh ke saathi chhut gae shaam hui ab tanha hai
 
   3

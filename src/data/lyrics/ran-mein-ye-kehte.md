@@ -1,7 +1,7 @@
 ---
 title: "رن میں یہ کہتے تھے رو کے سرور"
 recitationId: "ran-may-ye-kehte"
-alternateTitle: "Ran Meiṅ Ye Kehte"
+alternateTitle: "Ran Mein Ye Kehte"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,25 +11,25 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ran meiṅ ye kehte the ro ke Sarwar
+  Ran mein ye kehte the ro ke Sarwar
   Haaye mera Abbas nahiṅ hai
   Kaise uthaauṅ laash-e-Akbar
   Haaye mera Abbas nahiṅ hai
 
   1
   Sine se barchhi kaise nikaaluṅ
-  Piri meiṅ kaise dil ko sambhaaluṅ
-  Khuṅ meiṅ tarapta hai mera dilbar
+  Piri mein kaise dil ko sambhaaluṅ
+  Khuṅ mein tarapta hai mera dilbar
   Haaye mera Abbas nahiṅ hai
 
   2
-  Ran meiṅ the Zainab ke ye naale
+  Ran mein the Zainab ke ye naale
   Koi mere bhaai ko bachaa le
   Shimr chalaata hai kund khanjar
   Haaye mera Abbas nahiṅ hai
 
   3
-  Ran meiṅ na hota paamaal sehra
+  Ran mein na hota paamaal sehra
   Bewa na hoti mazlum Kubra
   Tukre Hasan ka hota na dilbar
   Haaye mera Abbas nahiṅ hai
@@ -41,14 +41,14 @@ romanLyrics: |-
   Haaye mera Abbas nahiṅ hai
 
   5
-  Hote na ham baazaaroṅ meiṅ ruswa
+  Hote na ham baazaaroṅ mein ruswa
   Phirta na dar dar aaj ye kunba
   Durre na khaata Aabid-e-muztar
   Haaye mera Abbas nahiṅ hai
 
   6
-  Majlis o maatam ghar meiṅ bapa kar
-  Aankhoṅ meiṅ aansu bhar ke dua kar
+  Majlis o maatam ghar mein bapa kar
+  Aankhoṅ mein aansu bhar ke dua kar
   Nauha suna Zainab ko ye Mahshar
   Haaye mera Abbas nahiṅ hai
 ---

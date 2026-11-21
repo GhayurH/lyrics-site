@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zindaṅ hai sakina hai andhera hai jafa hai
+  Zindaaṅ hai Sakina hai andhera hai jafa hai
   Kya qabr ka manzar hai ujaala na hawa hai
 
   1
-  Nind aati nahi bachoṅ ko jab tak na ho maadar
-  Paas iske na maadar hai na baba na chacha hai
+  Nind aati nahiṅ bachchoṅ ko jab tak na ho maadar
+  Paas is ke na maadar hai na baba na chacha hai
 
   2
-  Tumko nahi kuch dard ka ehsaas kahaṅ ho
-  Ghayre hai mujhe ranj o alamo yaas kahaṅ ho
+  Tum ko nahiṅ kuchh dard ka ehsaas kahaaṅ ho
+  Ghere hue haiṅ ranj o alam pyaas kahaaṅ ho
 
   3
-  Mar jaungi zindan ke andhere may tarap kar
-  Ae mere chacha jaan abbas kahaṅ ho
+  Mar jaauṅgi zindaaṅ ke andhere mein tarap kar
+  Ae mere chacha jaan Abbas kahaaṅ ho
 
   4
-  Zindaṅ may kise bali sakina ne pukara
-  Us laasha sare karbobala uthne laga hai
+  Zindaaṅ mein kise baali Sakina ne pukaara
+  Ik laasha sar-e-Karb o Bala uthne laga hai
 
   5
-  Abbas chacha aayenge ghar leke chalenge
-  Ab zulm-e-yazidi ka bharam tut raha hai
+  Abbas chacha aaeṅge ghar le ke chaleṅge
+  Ab zulm-e-Yazidi ka bharam tut raha hai
 
   6
-  Kuch moo se kaho meri masum sakina
-  Ye maa teri khamoshi pe qurban sakina
+  Kuchh munh se kaho meri maasum Sakina
+  Ye maaṅ teri khaamoshi pe qurbaan Sakina
 
   7
-  Ab rone ki awaaz bhi aati nahi beta
-  Lori to nahi deta ye zindan sakina
+  Ab rone ki aawaaz bhi aati nahiṅ beta
+  Lori to nahiṅ deta ye zindaan Sakina
 
   8
-  Khamosh ho tum kyoṅ nahi baba ko bulaati
-  Tariki zindan may ye zainab ki sada hai
+  Khaamosh ho tum kiuṅ nahiṅ baba ko bulaatiṅ
+  Taariki-e-zindaaṅ mein ye Zainab ki sada hai
 
   9
   Zakhmi hai badan saara khun kaanoṅ se jaari
   Rukhsaar bhi nile haiṅ to daaman bhi jala hai
 
   10
-  Mai bali sakina ka azadar hoo rehaan
-  Nauhe ka har ek sher sakina ki ata hai
+  Main baali Sakina ka azaadaar huṅ Rehaan
+  Nauhe ka har ik sher Sakina ki ata hai
 ---
 زنداں ہے سکینہ ہے اندھیرا ہے جفا ہے
 کیا قبر کا منظر ہے اُجالا نہ ہوا ہے

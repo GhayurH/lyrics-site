@@ -16,31 +16,31 @@ romanLyrics: |-
   Husainiyat ke charaaghoṅ ki raushni Zainab
 
   1
-  Kiya wo raah meiṅ bartaao kalma goyoṅ ne
+  Kiya wo raah mein bartaao kalma goyoṅ ne
   Ke jaise thi na nawaasi Rasul ki Zainab
 
   2
-  Aza-e-Shaah meiṅ hi zindagi tamaam hui
+  Aza-e-Shaah mein hi zindagi tamaam hui
   Na apne Aun o Muhammad ko ro saki Zainab
 
   3
   Ali ke laal ka laasha tarap utha us dam
-  Tumhaare baazu meiṅ jis dam rasan bandhi Zainab
+  Tumhaare baazu mein jis dam rasan bandhi Zainab
 
   4
   Kisi ne maara jo patthar to chup rahi lekin
   Kaha jo baaghi kisi ne to ro pari Zainab
 
   5
-  Lahu meiṅ dubi hui beriyaaṅ muhaari ki
-  Safar meiṅ thaam ke dil dekhti rahi Zainab
+  Lahu mein dubi hui beriyaaṅ muhaari ki
+  Safar mein thaam ke dil dekhti rahi Zainab
 
   6
   Husain chur the zakhmoṅ se phir bhi uth baithe
   Kaha jo Shimr ne khaime se aa gai Zainab
 
   7
-  Hijaab meiṅ bhi jahaaṅ se guzarna mushkil tha
+  Hijaab mein bhi jahaaṅ se guzarna mushkil tha
   Wahaaṅ pe kaise khule sar khari rahi Zainab
 
   8

@@ -36,12 +36,12 @@ romanLyrics: |-
   Chalte hue us halq pe khanjar Zainab ne dekha
 
   6
-  Bundeṅ chhine Shimr-e-laiṅ ne kaan hue zakhmi
+  Bundeṅ chhine Shimr laiṅ ne kaan hue zakhmi
   Lutta hua Maasuma ke gauhar Zainab ne dekha
 
   7
   Daaman us bachchi ne Najaf jab qaid meiṅ phailaaya
-  Kaise aaya god meiṅ ek sar Zainab ne dekha
+  Kaise aaya god meiṅ ik sar Zainab ne dekha
 ---
 کربوبلا میں کیسا یہ منظر زینب نے دیکھا
 سر بھائی کا زیرِ خنجر زینب نے دیکھا

@@ -8,40 +8,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zindaan main sakina aabid say keh rahi hay
-  Dam ghut raha hai bhaiya yeh raat aakhri hay
+  Zindaan mein Sakina Aabid se keh rahi hai
+  Dam ghut raha hai bhaiya yeh raat aakhri hai
 
   1
-  1. Jala maera kurta chinae gooshwaray
-  Sitam gar nay mujh ko tamachae hain maaray
-  Satatae hain mujh ko yeh baba kae qatil
-  Yeh dukhiya dukhi museebat may kis ko pukarae
-  Baba kae qatiloon say her giz qafan na laena
-  Hay yeh maeri wasiyaat khowahish maeri yehi hay
+  Jala mera kurta chhine goshwaare
+  Sitam gar ne mujh ko tamaanche haiṅ maare
+  Sataate haiṅ mujh ko yeh baba ke qaatil
+  Yeh dukhiya dukhi aur kis ko pukaare
 
   2
-  2. Sakina pae bhaiya kaThan yeh hui hai
-  Aseeri jo mujh per musibat baRi hai
-  Watan yaad aata hai bhaiya chalo ghar
-  Madinae ki rahoon pae sughra khaRi hai
-  Her shaam yeh parindae jaatae hain apnae ghar ko
-  Kub jaoon gi watan main ro kar wo poochti hay
+  Baba ke qaatiloṅ se hargiz qafan na laana
+  Hai yeh meri wasiyat khwaahish meri yahi hai
 
   3
-  3. Zameen par main zindaan ki sooteen hoon baba
-  Main ashkoon sae daman bhi dhooti hoon baba
-  Khudara mujhae paas apnae bulalo
-  Juda ho kae tum sae main roti hoon baba
-  Sadiyan guzar chukeen hain ab bhi her aik mohib ko
-  Zindan say siskiyoon ki aawaaz aa rahi hay
+  Sakina pe bhaiya kathin yeh ghari hai
+  Asiri jo mujh par musibat bari hai
+  Watan yaad aata hai bhaiya chalo ghar
+  Madine ki raahoṅ pe Sughra khari hai
 
   4
-  4. Meri dadi Zehra ka rutba hay aali
-  Yeh haq jinki chokhat se louta na khali
-  Fidak bheek may jin ko ham ne diya ho
-  Sakina kafan ki ho un se sawali
-  Baba kae qatiloon say her giz qafan na laena
-  Hay yeh maeri wasiyaat khowahish maeri yehi hay
+  Har shaam yeh parinde jaate haiṅ apne ghar ko
+  Kab jaauṅ gi watan mein ro kar woh puchhti hai
+
+  5
+  Zameeṅ par main zindaaṅ ki soti huṅ baba
+  Main ashkoṅ se daaman bhigoti huṅ baba
+  Khudaara mujhe paas apne bula lo
+  Juda ho ke tum se main roti huṅ baba
+
+  6
+  Sadiyaaṅ guzar chukiṅ haiṅ ab bhi har ek muhib ko
+  Zindaan se siskiyoṅ ki aawaaz aa rahi hai
 ---
 
 زندان میں سکینہؑ عابدؑ سے کہ رہی ہے

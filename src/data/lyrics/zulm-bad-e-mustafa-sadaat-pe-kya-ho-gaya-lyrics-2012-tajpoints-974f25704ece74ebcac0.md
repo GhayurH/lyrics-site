@@ -1,32 +1,54 @@
 ---
-title: "Zulm Baad-e-Mustafa Sadaat Pe Kya Ho Gaya"
+title: "ظلم بعدِ مصطفیٰ سادات پہ کیا ہو گیا"
+alternateTitle: "Zulm Baad-e-Mustafa Sadaat Pe Kya Ho Gaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zulm baad-e-Mustafa sadaat pe kya ho gaya
+  Zakhmi masjid mein dukhi Zainab ka baba ho gaya
+
+  1
+  Momino aanso bahao pursa do Hasnain ko
+  Aaj Kofa mein qatal Kabay ka Kaba ho gaya
+  Aye Khuda tujh ko mubarak tera yeh mah-e-siyam
+  Jis mein Zainab lut gayi our deen zindah ho gaya
+
+  2
+  Dorti aati thi Zainab gir rahi thi ja baja
+  Sani-e-Zahra ke dil par hashar barpa ho gaya
+  Chotay bachay kya karein Maula tere jane ke baad
+  Fatima Zahra ka ghar dunya mein tanha ho gaya
+
+  3
+  Zibhe Ismail pe aankhon pe bandhi patiyan
+  Farz-e-Ibrahim bhi Karbal mein chukta ho gaya
+  Zindagi Akhtar guzarey ban ke tera noha khuwaan
+  Pak Bibi yeh mera arman pora ho gaya
 ---
 
-Zulm Baad-e-Mustafa Sadaat Pe Kya Ho Gaya
-Zakhmi Masjid Mein Dukhi Zainab Ka Baba Ho Gaya
+ظلم بعدِ مصطفیٰ سادات پہ کیا ہو گیا
+زخمی مسجد میں دکھی زینب کا بابا ہو گیا
 
-1
-Momino Aanso Bahao Pursa Do Hasnain Ko
-Aaj Kofa Mein Qatal Kabay Ka Kaba Ho Gaya
-Aye Khuda Tujh Ko Mubarak Tera Yeh Mah-e-Siyam
-Jis Mein Zainab Lut Gayi Our Deen Zindah Ho Gaya
+۱
+مومنو آنسو بہاؤ پرسا دو حسنین کو
+آج کوفہ میں قتل کعبے کا کعبہ ہو گیا
+اے خدا تجھ کو مبارک تیرا یہ ماہِ صیام
+جس میں زینب لٹ گئی اور دین زندہ ہو گیا
 
-2
-Dorti Aati Thi Zainab Gir Rahi Thi Ja Baja
-Sani-e-Zahra Ke Dil Par Hashar Barpa Ho Gaya
-Chotay Bachay Kya Karein Maula Tere Jane Ke Baad
-Fatima Zahra Ka Ghar Dunya Mein Tanha Ho Gaya
+۲
+دوڑتی آتی تھی زینب گر رہی تھی جا بجا
+ثانیِ زہرا کے دل پر حشر برپا ہو گیا
+چھوٹے بچے کیا کریں مولا تیرے جانے کے بعد
+فاطمہ زہرا کا گھر دنیا میں تنہا ہو گیا
 
-3
-Zibhe Ismail Pe Aankhon Pe Bandhi Patiyan
-Farz-e-Ibrahim Bhi Karbal Mein Chukta Ho Gaya
-Zindagi Akhtar Guzarey Ban Ke Tera Noha Khuwaan
-Pak Bibi Yeh Mera Arman Pora Ho Gaya
+۳
+ذبحِ اسماعیل پہ آنکھوں پہ باندھی پٹیاں
+فرضِ ابراہیم بھی کربل میں چکتا ہو گیا
+زندگی اختر گزارے بن کے تیرا نوحہ خواں
+پاک بی‌بی یہ میرا ارمان پورا ہو گیا

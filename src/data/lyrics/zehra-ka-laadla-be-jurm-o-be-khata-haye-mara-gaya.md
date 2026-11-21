@@ -8,32 +8,87 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Husain Ya Husain Ya Husain Ya Husain
+  Husain ya Husain ya Husain ya Husain
 
   1
-  Zehra ka ladla bay jurm o bai khata haey maara gaiya
-  Yeh Zainab ka hai biradar kai lutti haey jis ki chadar,
-  Huwai Akber zibah Asgher ho khoraam hai bapa
+  Zehra ka laadla
+  Bejurm o bekhata
+  Haaye maara gaya
+  Zainab ka hai baraadar
+  Utri hai jis ki chaadar
+  Hue Akbar zabah Asghar
+  Kehraam hai bapa
 
   2
-  1) Akber diya hai tu nai, Asgher diya hai tu nai
-  Kehnai laga Khuda Mazloom Shukriya Tera Ghar Bhi Lut Gaiya
-  Yeh Zainab ka hai biradar kai lutti hai jis ki chadar,
-  Huwai Akber zibah Asgher ho khoraam hai bapa
+  Ghurbat ki - yeh shab hai
+  Beparda - Zainab hai
+  Karti hai - ro ro kar
+  Zainab yahi faghaaṅ
 
   3
-  2) Jo Lash bai qafan hai sehra main bai dafan hai
-  Hai binailaila Kehnai laga Khuda Mazloom shukriya
-  Tu rehbar hai tu sabar hai kai sajdai main tera sar hai,
-  Tu Ahmed ka ho dilbar hai ho yeh deen ki baka
-  Huwai Akber zibah Asgher ho khoraam hai bapa
+  Woh jo lahu lahu hai
+  Khaaliq ki aabru hai
+  Ae Shaah-e-Karbala
+  Mahshar talak Khuda
+  Mamnun hai tera
+  Tu haq ka - rehbar hai
+  Nabiyoṅ se - bartar hai
+  Tere hi - sadqe mein
+  Baaqi hai yeh jahaaṅ
 
   4
-  3) Chainai Rasul to hai Jigar-e-Batool Tu Hai
-  Farzand-e-Mustafa Ehsan hai taira, maira deen bach gaiya
-  Tu mer kar bhi huwa raazi kai mara gaiya tera Ghazi,
-  Tu bai misl hai ho namazi ho mazloom-e-Kerbala
-  Huwai Akber zibah Asgher ho khoraam hai bapa
+  Zainab ko bas yeh gham hai
+  Is baat ka alam hai
+  Bar khaak-e-Karbala
+  Zehra ke laal ka
+  Laasha para raha
+  Zainab ko - yaad aai
+  Bhaai ki - tanhaai
+  Jab ran se - jaata tha
+  Pyaasoṅ ka kaarwaaṅ
+
+  5
+  Sehmi hui Sakina
+  Pyaasi hai woh hazina
+  Deti rahi sada
+  Gohar mere chhine
+  Daaman bhi jal gaya
+  Suna yeh - sehra hai
+  Ae baaba - jangal mein
+  Yeh dukhiya - maqtal haiṅ
+  Dhundhe tumheṅ kahaaṅ
+
+  6
+  Baaba ko rone waali
+  Sine pe sone waali
+  Ab saari zindagi
+  Baaba ko roe gi
+  Kaise woh soe gi
+  Ghabra kar - khaimoṅ se
+  Nikle gi - pyaasi woh
+  Laashoṅ ke darmiyaaṅ
+
+  7
+  Baad-e-Husain Zainab
+  Shabbir ban gai haiṅ
+  Jab khaime jal gae
+  Laashe pe bhaai ke
+  Hamshir ne kaha
+  Ae bhaai - yeh tujh se
+  Waada hai - Zainab ka
+  Yeh teri - qurbaani
+  Ho gi na raaigaaṅ
+
+  8
+  Bas ae Muhib yeh maatam
+  Zainab ki aarzu hai
+  Jo apne bhaai ko
+  Ran mein na ro saki
+  Ae Bint-e-Murtaza
+  Qaasim ka - Akbar ka
+  Zehra ke - dilbar ka
+  Dete haiṅ - sab pursa
+  Yeh tere nauha khwaaṅ
 ---
 
 حسینؑ یا حسینؑ یا حسینؑ یا حسینؑ

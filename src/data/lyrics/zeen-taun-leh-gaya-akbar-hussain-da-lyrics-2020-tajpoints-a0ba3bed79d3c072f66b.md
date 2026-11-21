@@ -1,29 +1,46 @@
 ---
-title: "Zeen Taun Leh Gaya Akbar Hussain Da Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "زین توں لہہ گیا اکبر حسین دا"
+alternateTitle: "Zeen Taun Leh Gaya Akbar Hussain Da"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zeen taun leh gaya Akbar Hussain da
+
+  1
+  Hun Zainab kiwein jiway gi dunya te na rehya haye na rehya Akbar Hussain da
+  Zainab sain taun bangaan sikhiyaan Laila taun aye sikhiya turna
+  Karbal de har manzar kitay do mawaan pa liya haye pa liya Akbar Hussain da
+  Piyo de aan taun pehle pehle koshish karda chara laway
+  Apne seene wichon barchi karda si oh juda haye oh juda Akbar Hussain da
+  Qasad bhain da puch puch roway jay kar kidhray takiya howay
+
+  2
+  Ik dukhiya nu ronda chad ke aaya si Karbala haye Karbala Akbar Hussain da
+  Rahwaan wekhday mukiyaan sahwaan sun na sakiya hokay hawaan
+  Sughra da khat Karbal aaya te jag taun tur piya haye tur piya Akbar Hussain da
+  Shakal-e-Mustafa tak ke howray Shami koi kalma parh le
+  Akbar naizay uttay charh ke tableeg layi gaya haye layi gaya Akbar Hussain da
 ---
 
-Zeen Taun Leh Gaya Akbar Hussain Da.
+زین توں لہہ گیا اکبر حسین دا
 
-1
-Hun Zainab Kiwein Jiway Gi Dunya Te Na Rehya Haye Na Rehya Akbar Hussain Da.
-Zainab Sain Taun Bangaan Sikhiyaan Laila Taun Aye Sikhiya Turna.
-Karbal De Har Manzar Kitay Do Mawaan Pa Liya Haye Pa Liya Akbar Hussain Da.
-Piyo De Aan Taun Pehle Pehle Koshish Karda Chara Laway.
-Apne Seene Wichon Barchi Karda Si Oh Juda Haye Oh Juda Akbar Hussain Da.
-Qasad Bhain Da Puch Puch Roway Jay Kar Kidhray Takiya Howay.
+۱
+ہن زینب کیویں جی وے گی دنیا تے نہ رہیا ہائے نہ رہیا اکبر حسین دا
+زینب سائیں توں بانگاں سکھیاں لیلیٰ توں ایہہ سکھیا ٹرنا
+کربل دے ہر منظر کِتے دو ماواں پا لیا ہائے پا لیا اکبر حسین دا
+پیو دے آؤن توں پہلے پہلے کوشش کردا چارہ لاوے
+اپنے سینے وچوں برچھی کردا سی اوہ جدا ہائے اوہ جدا اکبر حسین دا
+قاصد بھین دا پچھ پچھ رووے جے کر کدھرے تکیا ہووے
 
-2
-Ik Dukhiya Nu Ronda Chad Ke Aaya Si Karbala Haye Karbala Akbar Hussain Da.
-Rahwaan Wekhday Mukiyaan Sahwaan Sun Na Sakiya Hokay Hawaan.
-Sughra Da Khat Karbal Aaya Te Jag Taun Tur Piya Haye Tur Piya Akbar Hussain Da.
-Shakal-e-Mustafa Tak Ke Howray Shami Koi Kalma Parh Le.
- Akbar Naizay Uttay Charh Ke Tableeg Layi Gaya Haye Layi Gaya Akbar Hussain Da.
-Markazi Matami Dasta Chan Pear Party Behlol Dana Parveiz Asghar Group Sialkot.
+۲
+اک دکھیا نوں روندا چھڈ کے آیا سی کربلا ہائے کربلا اکبر حسین دا
+راہواں ویکھدے مکیاں ساہواں سن نہ سکیا ہوکے ہاواں
+صغرا دا خط کربل آیا تے جگ توں ٹر پیا ہائے ٹر پیا اکبر حسین دا
+شکلِ مصطفیٰ تک کے ہورے شامی کوئی کلمہ پڑھ لے
+اکبر نیزے اُتے چڑھ کے تبلیغ لائی گیا ہائے لائی گیا اکبر حسین دا

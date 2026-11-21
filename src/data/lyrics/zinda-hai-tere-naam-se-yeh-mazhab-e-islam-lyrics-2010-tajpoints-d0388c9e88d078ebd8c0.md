@@ -1,32 +1,54 @@
 ---
-title: "Zinda Hai Tere Naam Se Yeh Mazhab E Islam Lyrics 2010"
+title: "زندہ ہے تیرے نام سے یہ مذہبِ اسلام"
+alternateTitle: "Zinda Hai Tere Naam Se Yeh Mazhab-e-Islam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zinda hai tere naam se yeh mazhab e Islam
+  Aye Hussain tujh ko salam
+
+  1
+  Har door mein roka gaya matam tera phir bhi howa
+  Dunya pe hai chaya howa Maula mere tera nizam
+  Tarpa zameen pe nojawaan khainchi kalejay se sina
+  Hilney lagay kaun-o-makaan kehne lagay mursal tamam
+
+  2
+  Katta raha sokha galla phir bhi zabaan pe shukar tha
+  Tu sabar ki hai inteha kyun na kahin gayarah imam
+  Talwar ya zakhm-e-jigar naizay hoon ya teer-o-tabar
+  Tere badan ko chom kar sab ne kiya yeh hi kalam
+
+  3
+  Matam ka hai yeh mojza seena musalla ban gaya
+  Rona ibadat kar diya jari hai tera faiz-e-aam
+  Kya tha Takallum woh samaa roney lagin sab bibiyaan
+  Chalne laga jab karwaan kehne lagay qaidi tamam
 ---
 
-Zinda Hai Tere Naam Se Yeh Mazhab e Islam
-Aye Hussain Tujh Ko Salam.
+زندہ ہے تیرے نام سے یہ مذہبِ اسلام
+اے حسین تجھ کو سلام
 
-1
-Har Door Mein Roka Gaya Matam Tera Phir Bhi Howa.
-Dunya Pe Hai Chaya Howa Maula Mere Tera Nizam.
-Tarpa Zameen Pe Nojawaan Khainchi Kalejay Se Sina.
-Hilney Lagay Kaun-o-Makaan Kehne Lagay Mursal Tamam.
+۱
+ہر دور میں روکا گیا ماتم تیرا پھر بھی ہوا
+دنیا پہ ہے چھایا ہوا مولا میرے تیرا نظام
+تڑپا زمین پہ نوجوان کھینچی کلیجے سے سناں
+ہلنے لگے کون و مکاں کہنے لگے مرسل تمام
 
-2
-Katta Raha Sokha Galla Phir Bhi Zabaan Pe Shukar Tha.
-Tu Sabar Ki Hai Inteha Kyun Na Kahin Gayarah Imam.
-Talwar Ya Zakhm-e-Jigar Naizay Hoon Ya Teer-o-Tabar.
-Tere Badan Ko Chom Kar Sab Ne Kiya Yeh Hi Kalam.
+۲
+کٹتا رہا سوکھا گلا پھر بھی زباں پہ شکر تھا
+تو صبر کی ہے انتہا کیوں نہ کہیں گیارہ امام
+تلوار یا زخمِ جگر نیزے ہوں یا تیر و تبر
+تیرے بدن کو چوم کر سب نے کیا یہ ہی کلام
 
-3
-Matam Ka Hai Yeh Mojza Seena Musalla Ban Gaya.
-Rona Ibadat Kar Diya Jari Hai Tera Faiz-e-Aam.
-Kya Tha Takallum Woh Samaa Roney Lagin Sab Bibiyaan.
-Chalne Laga Jab Karwaan Kehne Lagay Qaidi Tamam.
+۳
+ماتم کا ہے یہ معجزہ سینہ مصلیٰ بن گیا
+رونا عبادت کر دیا جاری ہے تیرا فیضِ عام
+کیا تھا تکلم وہ سماں رونے لگیں سب بیبیاں
+چلنے لگا جب کارواں کہنے لگے قیدی تمام

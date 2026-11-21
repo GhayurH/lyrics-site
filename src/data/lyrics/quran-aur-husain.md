@@ -20,7 +20,7 @@ romanLyrics: |-
   Utra wo qalb-e-Muhammad par
   Ye Zehra ke ghar meiṅ aaya
   Kaaba Kausar ek dusre se
-  Hoṅge na kabhi ye donoṅ juda
+  Honge na kabhi ye donoṅ juda
   Donoṅ haiṅ nur hai donoṅ ki
   Manzil Kaaba Qausain
 
@@ -41,10 +41,10 @@ romanLyrics: |-
   Zulfoṅ se Hasnain
 
   4
-  Jaaṅ waar ke haq par Shah ne kiya
+  Jaaṅ waar ke haq par Shih ne kiya
   Quran ke dushman ko abtar
   Quran sadaaeṅ deta hai
-  Inna aataina kal kausar
+  Inna aatainaakal Kausar
   Baaqi hai nasl Muhammad ki
   Jab tak hai nasl-e-Husain
 
@@ -57,19 +57,19 @@ romanLyrics: |-
   Ye maabain-e-Kaunain
 
   6
-  Dars-e-Quran diya Shah ne
+  Dars-e-Quran diya Shih ne
   Aalam ko usi talwaaroṅ meiṅ
-  Ek harf-e-shahaadat ki likh di
+  Ik harf-e-shahaadat ki likh di
   Tafsir bahattar paaroṅ meiṅ
-  Qurbaan tere Ae waaris-e-ilm
+  Qurbaan tere ae waaris-e-ilm
   Shaah-e-Badr o Hunain
 
   7
   Quran ko nok-e-neza par
-  Phir tir meiṅ le aae aada
+  Phir tir meiṅ le aae aadaa
   Mehmaan bulaa kar Sarwar ko
   Paani na diya sar kaat liya
-  Sar khole hue ek dukhyaari
+  Sar khole hue ik dukhiyaari
   Maaṅ karti rah gai bain
 
   8

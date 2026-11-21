@@ -1,98 +1,187 @@
 ---
-title: "Rajaz Ya Aun o Muhammad"
+title: "رجزِ یا عون و محمد"
+alternateTitle: "Rajaz Ya Aun o Muhammad"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Hajat raway-e-har do sara ya Ali madad
+  Uqdah hai paish uqdah kusha ya Ali madad
+  Ain-e-Khuda lisan-e-Khuda ya Ali madad
+  Hona hai mujh ko madah sara ya Ali madad
+  Zainab ka tazkira hai zabaan thartharati hai
+  Tafseer aayton ki kahan mujh ko aati hai
+
+  2
+  Sab kuch ayaan hai aap pe rodad ya Ali
+  Hum ko nahi hai koi sabaq yaad ya Ali
+  Paish-e-nazar hai saat-e-imdad ya Ali
+  Gongi zabaan hai mail-e-faryad ya Ali
+  Hum unn ki bargah mein midhat ko jate hain
+  Abbas bhi adab se jahan sar jhukate hain
+
+  3
+  Nad-e-Ali parhoon tu qalam ko rawan karon
+  Kausar pe hazari ho tu tahir zabaan karon
+  Ilham ho tu sar-e-khafi ko ayaan karon
+  Girahey zabaan khulay tu fazeelat biyaan karon
+  Jo khadim-e-Hussain woh khadam hai aap ka
+  Sidrat ka Jibraeel mulazim hai aap ka
+
+  4
+  Zainab shareek-e-bazam-e-shahadat ka naam hai
+  Zainab namaz-e-sabar ki niyat ka naam hai
+  Zainab khud apne baap ki zeenat ka naam hai
+  Zainab imamaton ki zarorat ka naam hai
+  Sajjad bach gaye yeh issi ka kamal tha
+  Warna Nabi ki nasal ka bachna muhaal tha
+
+  5
+  Thi aarzu ke deeda-e-Shabir num na ho
+  Tanha maiyan-e-dasht imam-e-umam na ho
+  Dil naram hai Hussain ka bar-e-alam na ho
+  Bhai ko mere foaj ki qilat ka gham na ho
+  Ghazi daleer-e-nasir-o-jarrar kar diya
+  Do kamsino ko Haider-e-Karrar kar diya
+
+  6
+  Maa ne pila ke sheer kiya hai tumhein daleer
+  Tum bhook main tawana ho tashna labi mein seer
+  Gar taig khainch lo tu zabardast bhi ho zair
+  Haan tifal bhi tu hote hain shairon ke ghar ke shair
+  Tum mazhar-e-sifaat-e-Khuda ke wali bhi ho
+  Dushman ko yeh bata do nawasay Nabi ke ho
+
+  7
+  Talwar youn chalao ke lashkar dohai de
+  Dad-e-wiga Najaf se Ali ki kalai de
+  Jhankar taig-e-haq ki flak tak sunai de
+  Bhagein jidhar yeh maut ka pehra dikhai de
+  Buzdil kahin ke ghazi-o-jarrar aa gaye
+  Kya har taraf se Haidar-e-Karrar aa gaye
+
+  8
+  Nikle jo khaima gah se Zainab ke meh laka
+  Aaye qadam barhaye ba andaz-e-lafata
+  Dekha jo bhanjo mein qayamat ka walwala
+  Maidaan ki samt dekh ke Abbas ne kaha
+  Ab dair mat karo ke charhai ki diar hai
+  Faslein khari hoi hain katai ki diar hai
+
+  9
+  Qehar-e-illah ban ke karo dushmao pe war
+  Woh war jis se aik hoon do our do se chaar
+  Sar in ke youn urao ke jaise urey ghabar
+  Larne pe aaein shair tu kya aik kya hazar
+  Meri tarha charha ke zara aasteen ko
+  Lashkar samait aaj ulat do zameen ko
+
+  10
+  Maidaan udhar ho saaf jidhar lar rahe ho tum
+  Ho jaye dushmano ko khabar lar rahe ho tum
+  Iss bheer mein idhar ke udhar lar rahe ho tum
+  Yeh tay na ho sake ke kidhar lar rahe ho tum
+  Woh zarbaton mein zoor ho Jibreel kanp jaye
+  Raftar dekh kar makal-al-maut hanp jaye
+
+  11
+  Shami mehfil mein aane ke bethe jo be-mehal
+  Danay samajh ke chugne laga tair-e-ajal
+  Kaise likhe Bilal-o- Wajhi sheh-e-azal
+  Kursi nasheen khak pe girte they munh ke bal
+  Lafzoon ke kurz zulm ke sar phoorne lagay
+  Lagta hai phir butoon ko Ali toorne lagay
 ---
 
-1
-Hajat Raway-e-Har Do Sara Ya Ali Madad
-Uqdah Hai Paish Uqdah Kusha Ya Ali Madad
-Ain-e-Khuda Lisan-e-Khuda Ya Ali Madad
-Hona Hai Mujh Ko Madah Sara Ya Ali Madad
-Zainab Ka Tazkira Hai Zabaan Thartharati Hai
-Tafseer Aayton Ki Kahan Mujh Ko Aati Hai
+۱
+حاجت روائے ہر دو سرا یا علی مدد
+عقدہ ہے پیش عقدہ کشا یا علی مدد
+عینِ خدا لسانِ خدا یا علی مدد
+ہونا ہے مجھ کو مدح سرا یا علی مدد
+زینب کا تذکرہ ہے زباں تھرتھراتی ہے
+تفسیر آیتوں کی کہاں مجھ کو آتی ہے
 
-2
-Sab Kuch Ayaan Hai Aap Pe Rodad Ya Ali
-Hum Ko Nahi Hai Koi Sabaq Yaad Ya Ali
-Paish-e-Nazar Hai Saat-e-Imdad Ya Ali
-Gongi Zabaan Hai Mail-e-Faryad Ya Ali
-Hum Unn Ki Bargah Mein Midhat Ko Jate Hain
-Abbas Bhi Adab Se Jahan Sar Jhukate Hain
+۲
+سب کچھ عیاں ہے آپ پہ روداد یا علی
+ہم کو نہیں ہے کوئی سبق یاد یا علی
+پیشِ نظر ہے ساعتِ امداد یا علی
+گونگی زباں ہے مائلِ فریاد یا علی
+ہم ان کی بارگاہ میں مدحت کو جاتے ہیں
+عباس بھی ادب سے جہاں سر جھکاتے ہیں
 
-3
-Nad-e-Ali Parhoon Tu Qalam Ko Rawan Karon
-Kausar Pe Hazari Ho Tu Tahir Zabaan Karon
-Ilham Ho Tu Sar-e-Khafi Ko Ayaan Karon
-Girahey Zabaan Khulay Tu Fazeelat Biyaan Karon
-Jo Khadim-e-Hussain Woh Khadam Hai Aap Ka
-Sidrat Ka Jibraeel Mulazim Hai Aap Ka
+۳
+نادِ علی پڑھوں تو قلم کو رواں کروں
+کوثر پہ حاضری ہو تو طاہر زباں کروں
+الہام ہو تو سرِّ خفی کو عیاں کروں
+گرہِ زباں کھلے تو فضیلت بیاں کروں
+جو خادمِ حسین وہ خدم ہے آپ کا
+سدرت کا جبرائیل ملازم ہے آپ کا
 
-4
-Zainab Shareek-e-Bazam-e-Shahadat Ka Naam Hai
-Zainab Namaz-e-Sabar Ki Niyat Ka Naam Hai
-Zainab Khud Apne Baap Ki Zeenat Ka Naam Hai
-Zainab Imamaton Ki Zarorat Ka Naam Hai
-Sajjad Bach Gaye Yeh Issi Ka Kamal Tha
-Warna Nabi Ki Nasal Ka Bachna Muhaal Tha
+۴
+زینب شریکِ بزمِ شہادت کا نام ہے
+زینب نمازِ صبر کی نیت کا نام ہے
+زینب خود اپنے باپ کی زینت کا نام ہے
+زینب امامتوں کی ضرورت کا نام ہے
+سجاد بچ گئے یہ اسی کا کمال تھا
+ورنہ نبی کی نسل کا بچنا محال تھا
 
-5
-Thi Aarzu Ke Deeda-e-Shabir Num Na Ho
-Tanha Maiyan-e-Dasht Imam-e-Umam Na Ho
-Dil Naram Hai Hussain Ka Bar-e-Alam Na Ho
-Bhai Ko Mere Foaj Ki Qilat Ka Gham Na Ho
-Ghazi Daleer-e-Nasir-o-Jarrar Kar Diya
-Do Kamsino Ko Haider-e-Karrar Kar Diya
+۵
+تھی آرزو کہ دیدۂ شبیر نم نہ ہو
+تنہا میانِ دشت امامِ امم نہ ہو
+دل نرم ہے حسین کا بارِ الم نہ ہو
+بھائی کو میرے فوج کی قلت کا غم نہ ہو
+غازی دلیرِ ناصر و جرار کر دیا
+دو کم سنوں کو حیدرِ کرار کر دیا
 
-6
-Maa Ne Pila Ke Sheer Kiya Hai Tumhein Daleer
-Tum Bhook Main Tawana Ho Tashna Labi Mein Seer
-Gar Taig Khainch Lo Tu Zabardast Bhi Ho Zair
-Haan Tifal Bhi Tu Hote Hain Shairon Ke Ghar Ke Shair
-Tum Mazhar-e-Sifaat-e-Khuda Ke Wali Bhi Ho
-Dushman Ko Yeh Bata Do Nawasay Nabi Ke Ho
+۶
+ماں نے پلا کے شیر کیا ہے تمہیں دلیر
+تم بھوک میں توانا ہو تشنہ لبی میں سیر
+گر تیغ کھینچ لو تو زبردست بھی ہو زیر
+ہاں طفل بھی تو ہوتے ہیں شیروں کے گھر کے شیر
+تم مظہرِ صفاتِ خدا کے ولی بھی ہو
+دشمن کو یہ بتا دو نواسے نبی کے ہو
 
-7
-Talwar Youn Chalao Ke Lashkar Dohai De
-Dad-e-Wiga Najaf Se Ali Ki Kalai De
-Jhankar Taig-e-Haq Ki Flak Tak Sunai De
-Bhagein Jidhar Yeh Maut Ka Pehra Dikhai De
-Buzdil Kahin Ke Ghazi-o-Jarrar Aa Gaye
-Kya Har Taraf Se Haidar-e-Karrar Aa Gaye
+۷
+تلوار یوں چلاؤ کہ لشکر دہائی دے
+دادِ وغا نجف سے علی کی کلائی دے
+جھنکار تیغِ حق کی فلک تک سنائی دے
+بھاگیں جدھر یہ موت کا پہرا دکھائی دے
+بزدل کہیں کے غازی و جرار آ گئے
+کیا ہر طرف سے حیدرِ کرار آ گئے
 
-8
-Nikle Jo Khaima Gah Se Zainab Ke Meh Laka
-Aaye Qadam Barhaye Ba Andaz-e-Lafata
-Dekha Jo Bhanjo Mein Qayamat Ka Walwala
-Maidaan Ki Samt Dekh Ke Abbas Ne Kaha
-Ab Dair Mat Karo Ke Charhai Ki Diar Hai
-Faslein Khari Hoi Hain Katai Ki Diar Hai
+۸
+نکلے جو خیمہ گاہ سے زینب کے مہ لقا
+آئے قدم بڑھائے بہ اندازِ لا فتیٰ
+دیکھا جو بھانجوں میں قیامت کا ولولہ
+میدان کی سمت دیکھ کے عباس نے کہا
+اب دیر مت کرو کہ چڑھائی کی دیر ہے
+فصلیں کھڑی ہوئی ہیں کٹائی کی دیر ہے
 
-9
-Qehar-e-Illah Ban Ke Karo Dushmao Pe War
-Woh War Jis Se Aik Hoon Do Our Do Se Chaar
-Sar In Ke Youn Urao Ke Jaise Urey Ghabar
-Larne Pe Aaein Shair Tu Kya Aik Kya Hazar
-Meri Tarha Charha Ke Zara Aasteen Ko
-Lashkar Samait Aaj Ulat Do Zameen Ko
+۹
+قہرِ الٰہ بن کے کرو دشمنوں پہ وار
+وہ وار جس سے ایک ہوں دو اور دو سے چار
+سر ان کے یوں اڑاؤ کہ جیسے اڑے غبار
+لڑنے پہ آئیں شیر تو کیا ایک کیا ہزار
+میری طرح چڑھا کے ذرا آستین کو
+لشکر سمیت آج الٹ دو زمین کو
 
-10
-Maidaan Udhar Ho Saaf Jidhar Lar Rahe Ho Tum
-Ho Jaye Dushmano Ko Khabar Lar Rahe Ho Tum
-Iss Bheer Mein Idhar Ke Udhar Lar Rahe HO Tum
-Yeh Tay Na Ho Sake Ke Kidhar Lar Rahe Ho Tum
-Woh Zarbaton Mein Zoor Ho Jibreel Kanp Jaye
-Raftar Dekh Kar Makal-Al-Maut Hanp Jaye
+۱۰
+میدان ادھر ہو صاف جدھر لڑ رہے ہو تم
+ہو جائے دشمنوں کو خبر لڑ رہے ہو تم
+اس بھیڑ میں ادھر کے ادھر لڑ رہے ہو تم
+یہ طے نہ ہو سکے کہ کدھر لڑ رہے ہو تم
+وہ ضربتوں میں زور ہو جبریل کانپ جائے
+رفتار دیکھ کر ملک الموت ہانپ جائے
 
-11
-Shami Mehfil Mein Aane Ke Bethe Jo Be-Mehal
-Danay Samajh Ke Chugne Laga Tair-e-Ajal
-Kaise Likhe Bilal-o- Wajhi Sheh-e-Azal
-Kursi Nasheen Khak Pe Girte They Munh Ke Bal
-Lafzoon Ke Kurz Zulm Ke Sar Phoorne Lagay
-Lagta Hai Phir Butoon Ko Ali Toorne Lagay
+۱۱
+شامی محفل میں آنے کے بیٹھے جو بے محل
+دانے سمجھ کے چگنے لگا طائرِ اجل
+کیسے لکھے بلال و وجہی شہِ ازل
+کرسی نشیں خاک پہ گرتے تھے منہ کے بل
+لفظوں کے گرز ظلم کے سر پھوڑنے لگے
+لگتا ہے پھر بتوں کو علی توڑنے لگے

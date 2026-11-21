@@ -12,8 +12,8 @@ tags: []
 aliases: ["Qulla Asalokum"]
 published: true
 romanLyrics: |-
-  Qul laa asalukum alaihi ajran
-  Illal mawaddata fil qurba
+  Qul laa as'alukum alaihi ajran
+  Illal mawaddata fil qurbaa
 
   1
   Mera khitaab hai Quraan parhne waaloṅ se

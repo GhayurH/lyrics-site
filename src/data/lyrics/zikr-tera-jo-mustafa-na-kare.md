@@ -14,19 +14,19 @@ published: true
 romanLyrics: |-
   Un ki dehliz pe hai sar mera
   Zikr hota hai arsh par mera
-  Kar raha huṅ Rasul ki maiṅ sana
-  Shajra kitna hai moatabar mera
+  Kar raha huṅ Rasul ki main sana
+  Shajra kitna hai motabar mera
 
   1
   Zikr tera jo Mustafa na kare
-  Ho zabaan muṅh meiṅ wo Khuda na kare
+  Ho zabaan munh mein wo Khuda na kare
 
   2
   Ghair mumkin hai ho nahiṅ sakta
   Sawaal koi kare aur ata na kare
 
   3
-  Haath meiṅ us ke bolte kankar
+  Haath mein us ke bolte kankar
   Mojiza ye to dusra na kare
 
   4
@@ -34,11 +34,11 @@ romanLyrics: |-
   Rabb-e-Akbar mujhe juda na kare
 
   5
-  Maiṅ to bimaar huṅ Madine ka
+  Main to bimaar huṅ Madine ka
   Mujh ko achchha koi dawa na kare
 
   6
-  Hashr meiṅ us pe na saaya hoga
+  Hashr mein us pe na saaya hoga
   Aal-e-Ahmad se jo wafa na kare
 
   7

@@ -1,50 +1,90 @@
 ---
-title: "Zeenat E Khandaan Hai Zainab Mir Hasan Mir"
+title: "زینتِ خاندان ہے زینب"
+alternateTitle: "Zeenat-e Khandaan Hai Zainab"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zeenat e khandaan hai Zainab Mir Hasan Mir
+  Apne baba ki shan hai Zainab
+
+  1
+  Tere athara betay hain Mola
+  Our un sab ka maan hai Zainab
+  Tere naqsh e qadam ke qabil bas
+  Satwaan aasman hai Zainab
+
+  2
+  Ba jamat namaz e matami ki
+  Tu farada azan hai Zainab
+  Koi Abid ko cho nahi sakta
+  Jab talak darmiyan hai Zainab
+
+  3
+  Tere oskut ke bad baat kare
+  Kis ke munh mein zuban hai Zainab
+  Tera Abbas jaisa bhai hai
+  Tera sara jahan hai Zainab
+
+  4
+  Hai Khuda ka makaan Ali ka makaan
+  Our malik makan hai Zainab
+  Sahib e khutbatul biyan hai jo
+  Oss Ali ki zuban hai Zainab
+
+  5
+  Bad Zahra ke aaya e tatheer
+  Tere shayad e shan hai Zainab
+  Kaisi shahi Banu Umaiyya ki
+  Sham ki hukmaran hai Zainab
+
+  6
+  Jo Ali khud Lisanullah hai
+  Oss Ali ki lisan hai Zainab
+  Hamd Akbar hai gar rukh e Shabbir
+  Hamd ki tarjuman hai Zainab
 ---
 
-Zeenat e Khandaan Hai Zainab Mir Hasan Mir.
-Apne Baba Ki Shan Hai Zainab.
+زینتِ خاندان ہے زینب میر حسن میر
+اپنے بابا کی شان ہے زینب
 
-1
-Tere Athara Betay Hain Mola.
-Our Un Sab Ka Maan Hai Zainab.
-Tere Naqsh e Qadam Ke Qabil Bas.
-Satwaan Aasman Hai Zainab.
+۱
+تیرے اٹھارہ بیٹے ہیں مولا
+اور ان سب کا مان ہے زینب
+تیرے نقشِ قدم کے قابل بس
+ساتواں آسمان ہے زینب
 
-2
-Ba Jamat Namaz e Matami Ki.
-Tu Farada Azan Hai Zainab.
-Koi Abid Ko Cho Nahi Sakta.
-Jab Talak Darmiyan Hai Zainab.
+۲
+باجماعت نمازِ ماتمی کی
+تو فرادیٰ اذاں ہے زینب
+کوئی عابد کو چھو نہیں سکتا
+جب تلک درمیاں ہے زینب
 
-3
-Tere Oskut Ke Bad Baat Kare.
-Kis Ke Munh Mein Zuban Hai Zainab.
-Tera Abbas Jaisa Bhai Hai.
-Tera Sara Jahan Hai Zainab.
+۳
+تیرے اُسْکُت کے بعد بات کرے
+کس کے منہ میں زباں ہے زینب
+تیرا عباس جیسا بھائی ہے
+تیرا سارا جہاں ہے زینب
 
-4
-Hai Khuda Ka Makaan Ali Ka Makaan.
-Our Malik Makan Hai Zainab.
-Sahib e Khutbatul Biyan Hai Jo.
-Oss Ali Ki Zuban Hai Zainab.
+۴
+ہے خدا کا مکاں علی کا مکاں
+اور مالکِ مکاں ہے زینب
+صاحبِ خطبۃ البیان ہے جو
+اُس علی کی زباں ہے زینب
 
-5
-Bad Zahra Ke Aaya e Tatheer.
-Tere Shayad e Shan Hai Zainab.
-Kaisi Shahi Banu Umaiyya Ki.
-Sham Ki Hukmaran Hai Zainab.
+۵
+بعدِ زہرا کے آیۂ تطہیر
+تیرے شایانِ شان ہے زینب
+کیسی شاہی بنو امیہ کی
+شام کی حکمران ہے زینب
 
-6
-Jo Ali Khud Lisanullah Hai.
-Oss Ali Ki Lisan Hai Zainab.
-Hamd Akbar Hai Gar Rukh e Shabbir.
-Hamd Ki Tarjuman Hai Zainab.
+۶
+جو علی خود لسان اللہ ہے
+اُس علی کی لساں ہے زینب
+حمد اکبر ہے گر رخِ شبیر
+حمد کی ترجماں ہے زینب

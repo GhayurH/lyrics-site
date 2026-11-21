@@ -1,50 +1,90 @@
 ---
-title: "Zehra Ki Azmat Shanawaz Ali"
+title: "زہرا کی عظمت شاہنواز علی"
+alternateTitle: "Zehra Ki Azmat Shanawaz Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rasool Zahra ki azmat jinhein batatay rahe
+  Wohi Madine mein Zahra pe zulm dhatay rahe
+
+  1
+  Tha bugz seeno mein jin logon ke imamat se
+  Ali ke samne Zahra pe zulm kar kar ke
+  Ali ko khon ke aanso wohi rolatay rahe
+  Maqam-e-Fatima jin logon ne na pehchana
+
+  2
+  Qalam dawaat woh jin se Rasool ne manga
+  Laga ke aag woh Zahra ka dar jalatay rahe
+  Gira ke Fatima pe dar guzar rahe they laeen
+  Batool sholon ki zad mein yeh kaisay sehti rahein
+
+  3
+  Na jane Fatima ko sans kaisay aate rahe
+  Bana ke Zahra ki turbat Ali jo uthnay lagay
+  Tha itna zakhmi jigar gham se keh woh uth na sakay
+  Tu dair tak wahin aanso Ali bahatay rahe
+
+  4
+  Sitam jo Fizza ne Zahra pe hotey dekhey hain
+  Gawah hain aanso keh Fizza ko woh na bholay hain
+  Nabi ki beti ke gham Fizza ko rolatay rahe
+  Tamacha mara gaya unn pe dar giraya gaya
+
+  5
+  Hamari maa ko Madine mein hai sataya gaya
+  Hussain, Ghazi ko har ik sitam batatay rahe
+  Yehi nahi keh faqat Fatima ko mara tha
+  Yeh waqt guzra tu ik waqt aisa bhi aaya
+
+  6
+  Keh loag Zahra ki har beti ko satatay rahe
+  Asad yehi tu faqat pochtay hain Ahl-e-Azza
+  Yeh kaisa ajar-e-risalat tha logon ne jo diya
+  Nabi ki aal ko hain loag kyun satatay rahe
 ---
 
-Rasool Zahra Ki Azmat Jinhein Batatay Rahe.
-Wohi Madine Mein Zahra Pe Zulm Dhatay Rahe.
+رسول زہرا کی عظمت جنہیں بتاتے رہے
+وہی مدینے میں زہرا پہ ظلم ڈھاتے رہے
 
-1
-Tha Bugz Seeno Mein Jin Logon Ke Imamat Se.
-Ali Ke Samne Zahra Pe Zulm Kar Kar Ke.
-Ali Ko Khon Ke Aanso Wohi Rolatay Rahe.
-Maqam-e-Fatima Jin Logon Ne Na Pehchana.
+۱
+تھا بغض سینوں میں جن لوگوں کے امامت سے
+علی کے سامنے زہرا پہ ظلم کر کر کے
+علی کو خون کے آنسو وہی رلاتے رہے
+مقامِ فاطمہ جن لوگوں نے نہ پہچانا
 
-2
-Qalam Dawaat Woh Jin Se Rasool Ne Manga.
-Laga Ke Aag Woh Zahra Ka Dar Jalatay Rahe.
-Gira Ke Fatima Pe Dar Guzar Rahe They Laeen.
-Batool Sholon Ki Zad Mein Yeh Kaisay Sehti Rahein.
+۲
+قلم دوات وہ جن سے رسول نے مانگا
+لگا کے آگ وہ زہرا کا در جلاتے رہے
+گرا کے فاطمہ پہ در گزر رہے تھے لعین
+بتول شعلوں کی زد میں یہ کیسے سہتی رہیں
 
-3
-Na Jane Fatima Ko Sans Kaisay Aate Rahe.
-Bana Ke Zahra Ki Turbat Ali Jo Uthnay Lagay.
-Tha Itna Zakhmi Jigar Gham Se Keh Woh Uth Na Sakay.
-Tu Dair Tak Wahin Aanso Ali Bahatay Rahe.
+۳
+نہ جانے فاطمہ کو سانس کیسے آتے رہے
+بنا کے زہرا کی تربت علی جو اٹھنے لگے
+تھا اتنا زخمی جگر غم سے کہ وہ اٹھ نہ سکے
+تو دیر تک وہیں آنسو علی بہاتے رہے
 
-4
-Sitam Jo Fizza Ne Zahra Pe Hotey Dekhey Hain.
-Gawah Hain Aanso Keh Fizza Ko Woh Na Bholay Hain.
-Nabi Ki Beti Ke Gham Fizza Ko Rolatay Rahe.
-Tamacha Mara Gaya Unn Pe Dar Giraya Gaya.
+۴
+ستم جو فضہ نے زہرا پہ ہوتے دیکھے ہیں
+گواہ ہیں آنسو کہ فضہ کو وہ نہ بھولے ہیں
+نبی کی بیٹی کے غم فضہ کو رلاتے رہے
+تماچہ مارا گیا ان پہ در گرایا گیا
 
-5
-Hamari Maa Ko Madine Mein Hai Sataya Gaya.
-Hussain, Ghazi Ko Har Ik Sitam Batatay Rahe.
-Yehi Nahi Keh Faqat Fatima Ko Mara Tha.
-Yeh Waqt Guzra Tu Ik Waqt Aisa Bhi Aaya.
+۵
+ہماری ماں کو مدینے میں ہے ستایا گیا
+حسین، غازی کو ہر اک ستم بتاتے رہے
+یہی نہیں کہ فقط فاطمہ کو مارا تھا
+یہ وقت گزرا تو اک وقت ایسا بھی آیا
 
-6
-Keh Loag Zahra Ki Har Beti Ko Satatay Rahe.
- Asad Yehi Tu Faqat Pochtay Hain Ahl-e-Azza.
-Yeh Kaisa Ajar-e-Risalat Tha Logon Ne Jo Diya.
-Nabi Ki Aal Ko Hain Loag Kyun Satatay Rahe.
+۶
+کہ لوگ زہرا کی ہر بیٹی کو ستاتے رہے
+اسد یہی تو فقط پوچھتے ہیں اہلِ عزا
+یہ کیسا اجرِ رسالت تھا لوگوں نے جو دیا
+نبی کی آل کو ہیں لوگ کیوں ستاتے رہے

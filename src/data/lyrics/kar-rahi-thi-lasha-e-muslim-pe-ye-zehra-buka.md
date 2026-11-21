@@ -8,71 +8,47 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ay muslim e ghareeb
-
-  Kar rahi thi laasha e muslim pe ye zahra buka
-
-  Ya ali kufe may phir aayi hai rone sayyeda
-
-  Aap par jab ibne muljim ne kiya sajde may waar
-
-  Haath pehlu par rakhe yan aayi thi mai pehli baar
-
-  Aaj phir us haal may zahra ko hai aana pada
-
+romanLyrics: |-
+  Ae Muslim-e-Gharib
+  Kar rahi thi laasha-e-Muslim pe ye Zahra buka
 
   1
-
-  Kufe waalon ne isay hai mil kar hai maara ya ali
-
-  Laasha e muslim hai aise paara paara ya ali
-
-  Jism hai saara mere bache ka zakhmon se bhara
-
+  Ya Ali, ya Ali Kufe meiṅ phir aayi hai rone Sayyeda
 
   2
-
-  Kis tarha maine sambhala kis tarha thaama isay
-
-  Kya bataun mai khadi thi haath phailaye huwe
-
-  Daarul imara se jab tha laasha e muslim gira
-
+  Aap par jab Ibn-e-Muljim ne kiya sajde meiṅ waar
+  Haath pehlu par rakhe yaaṅ aayi thi main pehli baar
+  Aaj phir is haal meiṅ Zahra ko hai aana para
 
   3
-
-  Kuch hi din may phir yahan aaungi mai roti hui
-
-  Iske bachon par chalegi jabke haaris ki churi
-
-  Mai sambhalungi unhe aa kar ruqayya ki jagah
-
+  Kufe waalo ne ise mil kar hai maara ya Ali
+  Laasha-e-Muslim hai aise paara paara ya Ali
+  Jism hai saara mere bachche ka zakhmoṅ se bhara
 
   4
-
-  Dushmani aale nabi se is tarha dikhlayege
-
-  Yun mohamed aur ibrahim maare jayenge
-
-  Naam ka bhi paas rakhenge na kuch ahle jafa
-
+  Kis tarah main ne sambhaala kis tarah thaama ise
+  Kya bataauṅ main khari thi haath phailaaye hue
+  Daarul Imaara se jab tha laasha-e-Muslim gira
 
   5
-
-  Kar rahe hai zulm ki tafseer ye chehro ke neel
-
-  Kat rahi hai aaj jo dar dar ye aulaad e aqeel
-
-  Hai yaqeenan ye mere bachon se ultaf ki saza
-
+  Kuchh hi din meiṅ phir yahaaṅ aauṅgi main roti hui
+  Is ke bachchoṅ par chalegi jab ke Haaris ki chhuri
+  Main sambhaaluṅgi unheiṅ aa kar Ruqayya ki jagah
 
   6
+  Dushmani Aal-e-Nabi se is tarah dikhlaaeṅge
+  Yuṅ Muhammad aur Ibrahim maare jaaeṅge
+  Naam ka bhi paas rakheṅge na kuchh ahl-e-jafa
 
-  Bayn thay akbar zaban e sayyeda par bas yehi
+  7
+  Kar rahe haiṅ zulm ki tafsir ye chehroṅ ke nil
+  Kat rahi hai aaj jo dar dar ye aulaad-e-Aqil
+  Hai yaqinan ye mere bachchoṅ se ulfat ki saza
 
-  Saath zainab ke yahan phir mujhko aana hai abhi
-
-  Shaam tak le jayega kufe se gham ka silsila'
+  8
+  Bain the Akbar zabaan-e-Sayyeda par bas yahi
+  Saath Zainab ke yahaaṅ phir mujhko aana hai abhi
+  Shaam tak le jaaega Kufe se gham ka silsila
 ---
 
 اے مسلمِؑ غریب

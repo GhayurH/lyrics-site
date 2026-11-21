@@ -10,53 +10,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pyara hamay hai jaan se maula ka zuljanah
+  Pyaara hameṅ hai jaan se Maula ka Zuljanah
 
   1
-  Kehte hai sab ye shaan se maula ka zuljanah
-  Taqte hawa hu mai to suleimaṅ mera sawaar
-  Hai zin meri rehl to quraṅ mera sawaar
-  Kehta ye kul jahan se maula ka zuljanah
+  Kehte haiṅ sab ye shaan se Maula ka Zuljanah
+  Takht-e-hawa huṅ main to Sulaimaaṅ mera sawaar
+  Hai zin meri rehl to Quraaṅ mera sawaar
+  Kehta ye kul jahaan se Maula ka Zuljanah
 
   2
-  Kuchle kahiṅ badan kahiṅ pamaal sar kiye
-  Aada ko raundh raundh ke sum khuṅ may tar kiye
-  Baitha na itmenaan se maula ka zuljanah
+  Kuchle kahiṅ badan kahiṅ paamaal sar kiye
+  Aada ko raundh raundh ke sum khuṅ mein tar kiye
+  Baitha na itminaan se Maula ka Zuljanah
 
   3
-  Aaya hai seena taan ke tiroṅ ke saamne
-  Takraya tan han dasht may maula ke waaste
-  Har zulm ke chataan se maula ka zuljanah
+  Aaya hai sina taan ke tiroṅ ke saamne
+  Takraaya tan haan dasht mein Maula ke waaste
+  Har zulm ke chattaan se Maula ka Zuljanah
 
   4
-  bemisl gar thi taygh to la-saani rahwaar
-  Jaise ke ran may chalti thi maula ki zulfeqar
-  Chalta tha aisi shaan se maula ka zuljanah
+  Bemisl gar thi tegh to laasaani raahwaar
+  Jaise ke ran mein chalti thi Maula ki Zulfiqaar
+  Chalta tha aisi shaan se Maula ka Zuljanah
 
   5
   Zaalim koi bhi saamne na us ke tik saka
   Rehta tha saath saath wo mazlum ke sada
-  Guzra har imtehan se maula ka zuljanah
+  Guzra har imtihaan se Maula ka Zuljanah
 
   6
-  Pucha jo mehlekha ne mere baba hai kahaṅ
-  Sar ta jhuka the aankh se aansu rawaṅ dawaṅ
-  Kehta bhi kya zaban se maula ka zuljanah
+  Puchha jo Mah Laqa ne mere baba haiṅ kahaaṅ
+  Sar taa jhuka the aaṅkh se aansuṅ rawaaṅ dawaaṅ
+  Kehta bhi kya zabaan se Maula ka Zuljanah
 
   7
-  Tiroṅ se zakhm khaata raha aspe bawafa
-  Lekin wo sheh ko chor ke aage nahi bada
-  Tiroṅ ke darmiyan se maula ka zuljanah
+  Tiroṅ se zakhm khaata raha asp-e-baawafa
+  Lekin wo shah ko chhor ke aage nahiṅ barha
+  Tiroṅ ke darmiyaan se Maula ka Zuljanah
 
   8
-  Farshe zamiṅ pe zin se ran may wo jab gire
-  Lag jaye koi tir na maula Husain ke
-  Ye dekhta tha dyaan se maula ka zuljanah
+  Farsh-e-zamiṅ pe zin se ran mein wo jab gire
+  Lag jaaye koi tir na Maula Husain ke
+  Ye dekhta tha dhyaan se Maula ka Zuljanah
 
   9
-  Aamir sawaar doshe nabi ka hai raahwaar
-  Raf raf ki tarha kiuṅ na shanawar ho ba-waqar
-  Utra hai aasman se maula ka zuljanah
+  Aamir sawaar dosh-e-Nabi ka hai raahwaar
+  Raf raf ki tarah kiuṅ na Shanawar ho baawaqaar
+  Utra hai aasmaan se Maula ka Zuljanah
 ---
 
 پیارا ہمیں ہے جان سے مولا کا ذوالجناح

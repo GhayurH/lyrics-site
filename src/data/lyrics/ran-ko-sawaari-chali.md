@@ -14,21 +14,21 @@ romanLyrics: |-
   Jaanib-e-darya chala Abbas tishna laboṅ ki aas
 
   Abbas gire paaoṅ pe gardan ko jhuka kar
-  Rone lage sheh bhai ko chhaati se laga ke
-  Bano ne kaha ghash se Sakina ko jaga kar
-  Sadqe gayiṅ dekh aao chacha jaan ko jaa kar
-  Is tarah jo Shaah-e-shuhada rote haiṅ Bibi
+  Rone lage Sheh bhai ko chhaati se laga ke
+  Baano ne kaha ghash se Sakina ko jaga kar
+  Sadqe gayiṅ dekh aao chachaa jaan ko jaa kar
+  Is tarah jo Shaah-e-shuhadaa rote haiṅ Bibi
   Sarwar se alamdaar juda hote haiṅ Bibi
 
   Sheh ke alamdaar ki ran ko sawaari chali
   Saahib-e-talwaar ki ran ko sawaari chali
 
   1
-  Kehte the Shaah-e-zaman reh gaya maiṅ bewatan
+  Kehte the Shaah-e-zaman reh gaya main bewatan
   Bhai wafaadaar ki ran ko sawaari chali
 
   2
-  Sine ko sheh kut ke kehte Sakina se the
+  Sine ko Sheh kut ke kehte Sakina se the
   Le tere ghamkhwaar ki ran ko sawaari chali
 
   3
@@ -36,12 +36,12 @@ romanLyrics: |-
   Mere madadgaar ki ran ko sawaari chali
 
   4
-  Beti se sheh ne kaha laayeṅge paani chacha
+  Beti se Sheh ne kaha laayeṅge paani chachaa
   Ghaazi o jarraar ki ran ko sawaari chali
 
   5
-  Sayyid-e-aali baham kehti the ba chashm-e-nam
-  Faatih-e-Ghaffaar ki ran ko sawaari chali
+  Sayyid-e-aali baham kehti thi baa chashm-e-nam
+  Faatihah-e-Ghaffaar ki ran ko sawaari chali
 ---
 جانبِ دریا چلا عباس تشنہ لبوں کی آس
 

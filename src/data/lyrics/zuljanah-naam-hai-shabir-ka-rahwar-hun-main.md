@@ -12,78 +12,77 @@ tags: []
 aliases: ["zuljanah-naam-hai-shabir-ka-rahwar-hoon-main-1-6"]
 published: true
 romanLyrics: |-
-
   1
-  Zuljanah Naam Hai Shabir Ka Rahwar Huṅ Maiṅ
-  Nur-e-Awal Ki Qasam Sahmil-e-Anwaar Huṅ Maiṅ
-  Khud Wafadar Yeh Kehte Haiṅ Wafadar Huṅ Maiṅ
-  Mere Hum Jins Jo Haiṅ Unka Alamdar Huṅ Maiṅ
-  Jab Se Allah Ne Iss Dar Ki Ghulami Di Hai
-  Mujh Ko Aa Aa Ke Farishtoṅ Ne Salami Di Hai
+  Zuljanah naam hai Shabir ka rahwaar huṅ maiṅ
+  Nur-e-awwal ki qasam shaamil-e-anwaar huṅ maiṅ
+  Khud wafadaar yeh kehte haiṅ wafadaar huṅ maiṅ
+  Mere ham jins jo haiṅ un ka alamdaar huṅ maiṅ
+  Jab se Allah ne is dar ki ghulaami di hai
+  Mujh ko aa aa ke farishtoṅ ne salaami di hai
 
   2
-  Woh Jo Hai Shafa-e-Batha Woh Hai Aaqa Mera
-  Jis Ki Thokar Meiṅ Hai Dunya Woh Hai Aaqa Mera
-  Jis Ke Sajde Meiṅ Hai Kaba Woh Hai Aaqa Mera
-  Jo Hai Abbas Ka Aaqa Woh Hai Aaqa Mera
-  Nur Ko Jiss Ne Uthaya Woh Amari Maiṅ Huṅ
-  Dosh-e-Ahmad Ke Sawaroṅ Ki Sawari Maiṅ Huṅ
+  Woh jo hai shaafe-e-Batha woh hai aaqa mera
+  Jis ki thokar meiṅ hai duniya woh hai aaqa mera
+  Jis ke sajde meiṅ hai Kaaba woh hai aaqa mera
+  Jo hai Abbas ka aaqa woh hai aaqa mera
+  Nur ko jis ne uthaaya woh amaari maiṅ huṅ
+  Dosh-e-Ahmad ke sawaaroṅ ki sawaari maiṅ huṅ
 
   3
-  Dar-e-Imran Ne Bakhsha Hai Yeh Faizan Mujhe
-  Ruz-e-Awal Se Hai Tuhid Pe Eman Mujhe
-  Had-e-Mumkin Meiṅ Nahi La Saka Imkan Mujhe
-  Janwar Hai Woh Samajta Hai Jo Haiwan Mujhe
-  Aaytoṅ Meiṅ Ba-Khuda Zikar Mera Aaya Hai
-  Meri Tapuṅ Ki Tu Allah Qasam Khata Hai
+  Dar-e-Imran ne bakhsha hai yeh faizaan mujhe
+  Roz-e-awwal se hai tauhid pe imaan mujhe
+  Had-e-mumkin meiṅ nahiṅ la saka imkaan mujhe
+  Jaanwar hai woh samajhta hai jo haiwaan mujhe
+  Aayatoṅ meiṅ bakhuda zikr mera aaya hai
+  Meri taapoṅ ki to Allah qasam khaata hai
 
   4
-  Nisbat-e-Khas Yeh Rakhi Hai Taharat Mujh Se
-  Dur Allah Ne Rakhi Hai Nijasat Mujh Se
-  Bateiṅ Karti Rahi Allah Ki Aayat Mujh Se
-  Kitna Khush Bakht Huṅ Maiṅ Khush Hai Imamat Mujh Se
-  Rab-e-Kaba Ki Qasam Youṅ Bhi Ibadat Ki Hai
-  Maiṅ Ne Allah Ke Chehre Ki Ziyarat Ki Hai
+  Nisbat-e-khaas yeh rakhi hai tahaarat mujh se
+  Dur Allah ne rakhi hai najaasat mujh se
+  Baateṅ karti rahi Allah ki aayat mujh se
+  Kitna khush bakht huṅ maiṅ khush hai imaamat mujh se
+  Rab-e-Kaaba ki qasam yuṅ bhi ibaadat ki hai
+  Maiṅ ne Allah ke chehre ki ziyaarat ki hai
 
   5
-  Hai Azadar Zamane Meiṅ Dua-e-Zahra
-  Hai Azadar Ke Humrah Wila-e-Zahra
-  Hai Azadar Pe Har Gaam Ata-e-Zahra
-  Saya Karti Hai Sada Oss Pe Rida-e-Zahra
-  Har Azadari-e-Shabir Ka Maimar Huṅ Maiṅ
-  Barsar-e-Lasha-e-Sheh Pehle Azadar Huṅ Maiṅ
+  Hai azaadaar zamaane meiṅ dua-e-Zahra
+  Hai azaadaar ke hamraah wila-e-Zahra
+  Hai azaadaar pe har gaam ata-e-Zahra
+  Saaya karti hai sada us pe rida-e-Zahra
+  Har azaadaari-e-Shabir ka maimaar huṅ maiṅ
+  Barsar-e-laasha-e-sheh pehle azaadaar huṅ maiṅ
 
   6
-  Amar-e-Khaliq Se Maiṅ Anwar Ke Paikar Meiṅ Dhala
-  Shab-e-Asra Meri Raftar Se Buraq Chala
-  Kab Samaj Paya Zamana Mere Rutbe Ko Bhala
-  Jahaṅ Hasnain Pale Maiṅ Bhi Ossi Ghar Meiṅ Pala
-  Dana Shehzadi Ne Palu Meiṅ Khilaya Hai Mujhe
-  Pani Saqa-e-Sakina Ne Pilaya Hai Mujhe
+  Amr-e-Khaaliq se maiṅ anwaar ke paikar meiṅ dhala
+  Shab-e-Isra miri raftaar se Buraaq chala
+  Kab samajh paaya zamaana mere rutbe ko bhala
+  Jahaṅ Hasnain pale maiṅ bhi usi ghar meiṅ pala
+  Daana shehzadi ne pallu meiṅ khilaaya hai mujhe
+  Paani saqqa-e-Sakina ne pilaaya hai mujhe
 
   7
-  Shair-e-Allah Se Payi Hai Shujat Maiṅ Ne
-  Sath Shabir Ke Ki Dein Ki Nusrat Maiṅ Ne
-  Payi Kuch Iss Liye Aalam Meiṅ Yeh Azmat Maiṅ Ne
-  Ki Hai Shabir o Alamdar Ki Baiyat Maiṅ Ne
-  Dil-e-Momin Meiṅ Sada Meri Aqidat Ho Gi
-  Hashar Tak Meri Shabihoṅ Ki Ziyarat Ho Gi
+  Sher-e-Allah se paai hai shujaat maiṅ ne
+  Saath Shabir ke ki din ki nusrat maiṅ ne
+  Paai kuchh is liye aalam meiṅ yeh azmat maiṅ ne
+  Ki hai Shabir o Alamdaar ki baiyat maiṅ ne
+  Dil-e-momin meiṅ sada meri aqidat ho gi
+  Hashr tak meri shabihoṅ ki ziyaarat ho gi
 
   8
-  Shukar-e-Khaliq Ke Mujhe Bait-e-Payamber Meiṅ Rakha
-  Do Jahaṅ Jis Ke Gadagar Haiṅ Ossi Ghar Meiṅ Rakha
-  Kissi Batil Na Kissi Ghair Ke Chakar Meiṅ Rakha..
-  Jab Bhi Rakha Mujhe Islam Ke Lashkar Meiṅ Rakha
-  Zin Jab Bhi Sheh-e-Wala Ne Sunwari Hai Meri
-  Khud Nazar-e-Sani-e-Zahra Ne Utari Hai Meri
+  Shukr-e-Khaaliq ke mujhe bait-e-paighambar meiṅ rakha
+  Do jahaṅ jis ke gadaagar haiṅ usi ghar meiṅ rakha
+  Kisi baatil na kisi ghair ke chakkar meiṅ rakha
+  Jab bhi rakha mujhe Islam ke lashkar meiṅ rakha
+  Zin jab bhi sheh-e-waala ne sanwaari hai meri
+  Khud nazar-e-saani-e-Zahra ne utaari hai meri
 
   9
-  Zuljinah Karta Hai Ae Nur Ali Ab Yeh Kalam
-  Sath Qayam Ke Karoṅ Ga Maiṅ Sar-e-Dahar Qiyam
-  Sare Aalam Ko Samaj Aaye Ga Tab Mera Muqam
-  Jab Meri Pusht Pe Aaye Ga Zamane Ka Imam
-  Chashm-e-Aagah Ko Maiṅ Did Panahi Duṅ Ga
-  Maiṅ Unheiṅ Sare Shahidoṅ Ki Gawahi Duṅ Ga
+  Zuljanah karta hai ae Nur Ali ab yeh kalaam
+  Saath Qaaim ke karuṅ ga maiṅ sar-e-dahr qiyaam
+  Saare aalam ko samajh aaye ga tab mera muqaam
+  Jab miri pusht pe aaye ga zamaane ka imaam
+  Chashm-e-aagaah ko maiṅ did panaahi duṅ ga
+  Maiṅ unheṅ saare shahidoṅ ki gawaahi duṅ ga
 ---
 
 ۱

@@ -1,32 +1,54 @@
 ---
-title: "Kalam-e-Haq Ka Ameen Hai Batool Ka Baba"
+title: "کلامِ حق کا امین ہے بتول کا بابا"
+alternateTitle: "Kalam-e-Haq Ka Ameen Hai Batool Ka Baba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Azhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kalam-e-Haq ka ameen hai Batool ka baba
+  Kamal-e-noor-e-mubeen hai Batool ka baba
+
+  1
+  Bataon kya main bhala unke husan ka aalam
+  Keh husan se bhi haseen hai Batool ka baba
+  Misal-e-Gunbad-e-Khizra kahon ga main tu ossay
+  Keh jis bhi dill mein makeen hai Batool ka baba
+
+  2
+  Woh jo hai ghaib mein rehta jahan ka khaliq
+  Oss ke hone ka yaqeen hai Batool ka baba
+  Hum un ke naam ki mehfil saja ke bethey hain
+  Hamare sath yahin hai Batool ka baba
+
+  3
+  Inhi ke zaat-e-mukaram pe hai darood-o-salam
+  Zameen pe arsh nasheen hai Batool ka baba
+  Mera aqeeda hai Azhar keh bazm-e-alam mein
+  Jahan Khuda hai wahin hai Batool ka baba
 ---
 
-Kalam-e-Haq Ka Ameen Hai Batool Ka Baba.
-Kamal-e-Noor-e-Mubeen Hai Batool Ka Baba.
+کلامِ حق کا امین ہے بتول کا بابا
+کمالِ نورِ مبین ہے بتول کا بابا
 
-1
-Bataon Kya Main Bhala Unke Husan Ka Aalam.
-Keh Husan Se Bhi Haseen Hai Batool Ka Baba.
-Misal-e-Gunbad-e-Khizra Kahon Ga Main Tu Ossay.
-Keh Jis Bhi Dill Mein Makeen Hai Batool Ka Baba.
+۱
+بتاؤں کیا میں بھلا ان کے حسن کا عالم
+کہ حسن سے بھی حسین ہے بتول کا بابا
+مثالِ گنبدِ خضرا کہوں گا میں تو اسے
+کہ جس بھی دل میں مکین ہے بتول کا بابا
 
-2
-Woh Jo Hai Ghaib MEin Rehta Jahan Ka Khaliq.
-Oss Ke Hone Ka Yaqeen Hai Batool Ka Baba.
-Hum Un Ke Naam Ki Mehfil Saja Ke Bethey Hain.
-Hamare Sath Yahin Hai Batool Ka Baba.
+۲
+وہ جو ہے غیب میں رہتا جہاں کا خالق
+اس کے ہونے کا یقین ہے بتول کا بابا
+ہم ان کے نام کی محفل سجا کے بیٹھے ہیں
+ہمارے ساتھ یہیں ہے بتول کا بابا
 
-3
-Inhi Ke Zaat-e-Mukaram Pe Hai Darood-o-Salam.
-Zameen Pe Arsh Nasheen Hai Batool Ka Baba.
-Mera Aqeeda Hai Azhar Keh Bazm-e-Alam Mein.
-Jahan Khuda Hai Wahin Hai Batool Ka Baba.
+۳
+انہی کے ذاتِ مکرم پہ ہے درود و سلام
+زمین پہ عرش نشیں ہے بتول کا بابا
+میرا عقیدہ ہے اظہر کہ بزمِ عالم میں
+جہاں خدا ہے وہیں ہے بتول کا بابا

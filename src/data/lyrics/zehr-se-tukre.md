@@ -36,7 +36,7 @@ romanLyrics: |-
   Surat-e-tarkash janaaza ho gaya
 
   6
-  Qais do aansu baha kar bazm meiṅ
+  Qais do aansu baha kar bazm mein
   Apni bakhshish ka sahaara ho gaya
 ---
 زہر سے ٹکڑے کلیجہ ہو گیا

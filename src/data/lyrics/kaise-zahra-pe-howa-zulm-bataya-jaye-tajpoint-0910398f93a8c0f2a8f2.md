@@ -1,32 +1,54 @@
 ---
-title: "Kaise Zahra Pe Howa Zulm Bataya Jaye"
+title: "کیسے زہرا پہ ہوا ظلم بتایا جائے"
+alternateTitle: "Kaise Zahra Pe Howa Zulm Bataya Jaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kaise Zahra pe howa zulm bataya jaye
+  Qatal na Bint-e-Muhammad ka chupaya jaye
+
+  1
+  Kaun tha Fatima ko jis ne tamacha mara
+  Zulm zalim ka yeh kis tarha bhulaya jaye
+  Kya Madine mein na tha koi jo kehta logo
+  Haye Nabi zadi pe na hath uthaya jaye
+
+  2
+  Pasliyaan tooti thin kyun zakhmi hoin kyun Zahra
+  Qatal Mohsin bhi hoye kaisay bataya jaye
+  Haye dunya se bohat roti gayin hain Zahra
+  Soag Zahra ka musalmano manaya jaye
+
+  3
+  Kaun kehta tha keh haq koi nahi Zahra ka
+  Kaun kehta tha Dar-e-Zahra jalaya jaye
+  Qabar-e-Zahra se Asad aati hai ab tak yeh sada
+  Noha Zahra ka zamane ko sunaya jaye
 ---
 
-Kaise Zahra Pe Howa Zulm Bataya Jaye.
-Qatal Na Bint-e-Muhammad Ka Chupaya Jaye.
+کیسے زہرا پہ ہوا ظلم بتایا جائے
+قتل نہ بنتِ محمد کا چھپایا جائے
 
-1
-1- Kaun Tha Fatima Ko Jis Ne Tamacha Mara.
-Zulm Zalim Ka Yeh Kis Tarha Bhulaya Jaye.
-2- Kya Madine Mein Na Tha Koi Jo Kehta Logo.
-Haye Nabi Zadi Pe Na Hath Uthaya Jaye.
+۱
+کون تھا فاطمہ کو جس نے طمانچہ مارا
+ظلم ظالم کا یہ کس طرح بھلایا جائے
+کیا مدینے میں نہ تھا کوئی جو کہتا لوگو
+ہائے نبی زادی پہ نہ ہاتھ اٹھایا جائے
 
-2
-3- Pasliyaan Tooti Thin Kyun Zakhmi Hoin Kyun Zahra.
-Qatal Mohsin Bhi Hoye Kaisay Bataya Jaye.
-4- Haye Dunya Se Bohat Roti Gayin Hain Zahra.
-Soag Zahra Ka Musalmano Manaya Jaye.
+۲
+پسلیاں ٹوٹی تھیں کیوں زخمی ہوئیں کیوں زہرا
+قتل محسن بھی ہوئے کیسے بتایا جائے
+ہائے دنیا سے بہت روتی گئیں ہیں زہرا
+سوگ زہرا کا مسلمانو منایا جائے
 
-3
-5- Kaun Kehta Tha Keh Haq Koi Nahi Zahra Ka.
-Kaun Kehta Tha Dar-e-Zahra Jalaya Jaye.
-6- Qabar-e-Zahra Se Asad Aati Hai Ab Tak Yeh Sada.
-Noha Zahra Ka Zamane Ko Sunaya Jaye.
+۳
+کون کہتا تھا کہ حق کوئی نہیں زہرا کا
+کون کہتا تھا درِ زہرا جلایا جائے
+قبرِ زہرا سے اسد آتی ہے اب تک یہ صدا
+نوحہ زہرا کا زمانے کو سنایا جائے

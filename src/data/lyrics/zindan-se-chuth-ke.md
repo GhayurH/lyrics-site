@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Karbala aagaye sadaat karbala aagaye sadaat
-  Uthiye Husain aap ke zawwar aaye hai
-  Zindaṅ se chuth ke abid e bemaar aaye hai
-  Bhule nahi hai shaam aur kufe ke raaste
-  Tarse huwe hai maula ye matam ke waaste
-  Sab kuch luta ke aap ke ghamkhaar aaye hai
-  Zindaṅ se chuth ke...
-  Zainab ne chalte naaqe se khud ko gira diya
-  Phir koniyo se chal ke gayi bhai se kaha
-  Hum log hoke kucha o bazaar aaye hai
-  Zindaṅ se chuth ke...
-  Gardan pe aur jism pe zanjir ke nishaṅ
-  Ek ek zakhm dard ki kehta hai daastaṅ
-  Zindaṅ se zinda laut ke lachaar aaye hai
-  Zindaṅ se chuth ke...
-  Ji khol kar yahaṅ tera matam kareṅge hum
-  Karbobala meiṅ majlis e chehlum kareṅge hum
-  Ae maula shaam waale azadar aaye hai
-  Zindaṅ se chuth ke...
-  Zindaṅ meiṅ ek teri azadar reh gayi
-  Karbobala na aayi na zindaṅ se ghar gayi
-  Dafna ke usko abid e bemaar aaye hai
-  Zindaṅ se chuth ke...
-  Zindaṅ meiṅ karke aaya hai majlis ye kaarwaṅ
-  Sab bibiyaṅ thi matami zainab thi nauhakhwan
-  Mehwe buka o dida e khuṅ khwaar aaye hai
-  Zindaṅ se chuth ke...
-  Kaisa safar batul ki beti ne te kiya
-  Dete nahi the log asiroṅ ko raasta
-  Te karke saari manzileiṅ dushwaar aaye hai
-  Zindaṅ se chuth ke...
-  bedard the wo shaam aur kufe ke sab makiṅ
-  Tang hogayi thi aale mohamed pe ye zamiṅ
-  Sadaat hoke jine se bezaar aaye hai
-  Zindaṅ se chuth ke...
-  Farhan o mazhar abdi kiuṅ na ho nauhagar
-  Sajjad chut ke qaid se baba ki qabr par
-  Lekar nishane tauq e garabaar aaye hai
-  Zindaṅ se chuth ke...
+  Karbala aa gaye Sadaat, Karbala aa gaye Sadaat
+  Uthiye Husain aap ke zawwaar aaye haiṅ
+  Zindaaṅ se chhut ke Aabid bimaar aaye haiṅ
+  Bhule nahiṅ haiṅ Shaam aur Kufe ke raaste
+  Tarse hue haiṅ Maula ye maatam ke waaste
+  Sab kuch luta ke aap ke ghamkhwaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Zainab ne chalte naaqe se qad ko gira diya
+  Phir kahniyoṅ se chal ke gayi bhaai se kaha
+  Ham log ho ke kucha o baazaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Gardan pe aur jism pe zanjir ke nishaaṅ
+  Ik ek zakhm dard ki kehta hai daastaaṅ
+  Zindaaṅ se zinda laut ke laachaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Ji khol kar yahaaṅ tera maatam kareṅ ge ham
+  Karbobala meiṅ majlis-e-chehlum kareṅ ge ham
+  Ae Maula Shaam waale azaadaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Zindaaṅ meiṅ ek teri azaadaari reh gayi
+  Karbobala na aayi na zindaaṅ se ghar gayi
+  Dafna ke us ko Aabid bimaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Zindaaṅ meiṅ kar ke aaya hai majlis ye kaarwaaṅ
+  Sab bibiyaaṅ thi maatami Zainab thi nauhakhwaaṅ
+  Mahv-e-buka o dida-e-khuṅ khwaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Kaisa safar Batul ki beti ne tai kiya
+  Dete nahiṅ the asiroṅ ko raasta
+  Tai kar ke saari manzileṅ dushwaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Bedard the wo Shaam aur Kufe ke sab makiṅ
+  Tang ho gayi thi aal-e-Muhammad pe ye zamiṅ
+  Sadaat ho ke jine se bezaar aaye haiṅ
+  Zindaaṅ se chhut ke...
+  Farhaan o Mazhar Aabidi kiuṅ na ho nauhagar
+  Sajjaad chhut ke qaid se baaba ki qabr par
+  Le kar nishaan-e-tauq-e-garaaṅ baar aaye ga
+  Zindaaṅ se chhut ke...
 ---
 
 ۱

@@ -1,42 +1,74 @@
 ---
 title: "قتل ہوئے عباسؑ علیؑ واویلا"
+alternateTitle: "Qatl Huye Abbas-e-Ali Wawaila"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Wawaila sad wawaila, wawaila
+
+  1
+  Qatl hue Abbas-e-Ali wawaila
+  Tegh-e-sitam shaanoun pa chali wawaila
+  Mashk chidi sab beh gaya pani
+  Pyasi rahi godoun ki pali wawaila
+
+  2
+  Gurz-e-sitam sir per khaya wawaila
+  Bhai ko Shah ke ghash aaya wawaila
+  Pusht-e-faras per thum na saka
+  Teora ke gira farzand-e-Ali wawaila
+
+  3
+  Aryaan ragri reti per wawaila
+  Aaey qareen sab baani-e-shar wawaila
+  Di yeh sada Zahra ke pisar ko
+  Ya Shah-e-Wala jaan chali wawaila
+
+  4
+  Aai jo Sarwar tak yeh sada wawaila
+  Daurey qamar thaamey Moula wawaila
+  Kahte thay tooti meri kamar ab
+  Bhai bala teri na tali wawaila
+
+  5
+  Rotey hue Shah jaatey thay wawaila
+  Humshakl-e-Nabi samjhatey thay wawaila
+  Jhuk gaye thay farzand-e-Payambar
+  Khaak thi sab chehre pa mali wawaila
 ---
 
-Wawaila sad Wawaila, Wawaila
+واویلا صد واویلا، واویلا
 
-1
-Qatl hue Abbas-e-Ali Wawaila
-Tegh-e-sitam shaanoun pa chali Wawaila
-Mashk chidi sab beh gaya pani
-Pyasi rahi godoun ki pali Wawaila
+۱
+قتل ہوئے عباسِ علی واویلا
+تیغِ ستم شانوں پہ چلی واویلا
+مشک چھدی سب بہہ گیا پانی
+پیاسی رہی گودوں کی پالی واویلا
 
-2
-Gurz-e-sitam sir per khaya Wawaila
-Bhai ko Shah ke ghash aaya Wawaila
-Pusht-e-faras per thum na saka
-Teora ke gira Farzand-e-Ali Wawaila
+۲
+گرزِ ستم سر پر کھایا واویلا
+بھائی کو شہ کے غش آیا واویلا
+پشتِ فرس پر تھم نہ سکا
+تیورا کے گرا فرزندِ علی واویلا
 
-3
-Aryaan ragri reti per Wawaila
-Aaey qareen sab baani-e-shar Wawaila
-Di yeh sada Zahra ke Pisar ko
-Ya Shah-e-Wala jaan chali Wawaila
+۳
+ایڑیاں رگڑی ریتی پر واویلا
+آئے قریب سب بانیِ شر واویلا
+دی یہ صدا زہرا کے پسر کو
+یا شاہِ والا جان چلی واویلا
 
-4
-Aai jo Sarwar tak yeh sada Wawaila
-Daurey qamar thaamey Moula Wawaila
-Kahte thay tooti Meri kamar ab
-Bhai bala teri na tali Wawaila
+۴
+آئی جو سرور تک یہ صدا واویلا
+دوڑے قمر تھامے مولا واویلا
+کہتے تھے ٹوٹی میری کمر اب
+بھائی بلا تیری نہ ٹلی واویلا
 
-5
-Rotey hue Shah jaatey thay Wawaila
-Humshakl-e-Nabi samjhatey thay Wawaila
-Jhuk gaye thay Farzand-e-Payambar
-Khaak thi sab chehre pa mali Wawaila
+۵
+روتے ہوئے شاہ جاتے تھے واویلا
+ہم شکلِ نبی سمجھاتے تھے واویلا
+جھک گئے تھے فرزندِ پیمبر
+خاک تھی سب چہرے پہ ملی واویلا

@@ -1,29 +1,44 @@
 ---
-title: "Zulm Zahra Par Hoye"
+title: "ظلم زہرا پر ہوئے"
+alternateTitle: "Zulm Zahra Par Hoye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zulm Zahra par hoye pohanchay gay youn anjam tak
+  Jaltay darwazay ke sholay jaein gay khiyam tak
+  Aye Khuda oss ko sahabi mantay hain kalma go
+  Jo bashar taqseer laya Syeda ke naam tak
+  Ik tamacha ibtida hai Fatima pe our phir
+  Silsila ban kar chaley ga yeh Diyar-e-Sham tak
+
+  2
+  Aap ke mimber se Maula aap ke darbar mein
+  Sun ke aayi Fatima hizyan ke ilzam tak
+  Yeh tu zahir ho chuka Zahra pe oss darbar mein
+  Be rida beti meri jaye gi balwa aam tak
+  Jaun Zainab ko wasiyat kar chuki yeh Syeda
+  Hath gasib ka phir na jaye kahin Islam tak
 ---
 
-Zulm Zahra Par Hoye
+۱
+ظلم زہرا پر ہوئے پہنچیں گے یوں انجام تک
+جلتے دروازے کے شعلے جائیں گے خیام تک
+اے خدا اس کو صحابی مانتے ہیں کلمہ گو
+جو بشر تقصیر لایا سیدہ کے نام تک
+اک طمانچہ ابتدا ہے فاطمہ پہ اور پھر
+سلسلہ بن کر چلے گا یہ دیارِ شام تک
 
-1
-Zulm Zahra Par Hoye Pohanchay Gay Youn Anjam Tak.
-Jaltay Darwazay Ke Sholay Jaein Gay Khiyam Tak.
-Aye Khuda Oss Ko Sahabi Mantay Hain Kalma Go.
-Jo Bashar Taqseer Laya Syeda Ke Naam Tak.
-Ik Tamacha Ibtida Hai Fatima Pe Our Phir.
-Silsila Ban Kar Chaley Ga Yeh Diyar-e-Sham Tak.
-
-2
-Aap Ke Mimber Se Maula Aap Ke Darbar Mein.
-Sun Ke Aayi Fatima Hizyan Ke Ilzam Tak.
-Yeh Tu Zahir Ho Chuka Zahra Pe Oss Darbar Mein.
-Be Rida Beti Meri Jaye Gi Balwa Aam Tak.
- Jaun Zainab Ko Wasiyat Kar Chuki Yeh Syeda.
-Hath Gasib Ka Phir Na Jaye Kahin Islam Tak.
+۲
+آپ کے منبر سے مولا آپ کے دربار میں
+سن کے آئی فاطمہ ہذیان کے الزام تک
+یہ تو ظاہر ہو چکا زہرا پہ اس دربار میں
+بے ردا بیٹی مری جائے گی بلوائے عام تک
+جون زینب کو وصیت کر چکی یہ سیدہ
+ہاتھ غاصب کا پھر نہ جائے کہیں اسلام تک
