@@ -1,6 +1,6 @@
 ---
 title: "بعدِ علی نہ جانے کیسے جیے گی زینب"
-alternateTitle: "Bad E Ali Na Jane Kaise Jiye Gi Zainab"
+alternateTitle: "Baad-e-Ali Na Jaane Kaise Jiye Gi Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,15 +11,15 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bad e Ali na jane kaise jiye gi Zainab
-  Pardais mein yeh sadma kaisay sahey gi Zainab
-  Amma ka gham tu ab tak beti bhula na payi
-  Baba ke gham mein haye pal pal maray gi Zainab
+  Baad-e-Ali na jaane kaise jiye gi Zainab
+  Pardais mein yeh sadma kaise sahe gi Zainab
+  Amma ka gham to ab tak beti bhula na payi
+  Baba ke gham mein haye pal pal mare gi Zainab
 
   2
-  Kaisi yeh fajar gonji layi hai jo yateemi
-  Hogi yeh fajar jab bhi roya karey gi Zainab
-  Ghazi se keh rahe they Maula Hussain ro kar
+  Kaisi yeh fajr guṅji layi hai jo yateemi
+  Hogi yeh fajr jab bhi roya karey gi Zainab
+  Ghazi se keh rahe they Maula Husain ro kar
   Tak kar shikasta sar ko seh na sakay gi Zainab
 
   3
@@ -30,9 +30,9 @@ romanLyrics: |-
 
   4
   Kehti thi ro ke beti baba mujhe batao
-  Bazar mein khulay sar kaisay chaley gi Zainab
+  Baazaar mein khule sar kaise chaley gi Zainab
   Zeeshan ro ke bolein baba karo yeh wadah
-  Sham-e-ghareebaan mein ab tum se miley gi Zainab
+  Shaam-e-ghareebaan mein ab tum se miley gi Zainab
 ---
 
 ۱

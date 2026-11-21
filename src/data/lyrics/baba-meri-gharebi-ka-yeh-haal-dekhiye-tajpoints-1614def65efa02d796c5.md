@@ -1,6 +1,6 @@
 ---
 title: "بابا میری غریبی کا یہ حال دیکھیے"
-alternateTitle: "Baba Meri Gharebi Ka Yeh Haal Dekhiye"
+alternateTitle: "Baba Meri Gharibi Ka Ye Haal Dekhiye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baba meri gharebi ka yeh haal dekhiye
-  Zalim ke hath mein hain mere baal dekhiye
-  Baba tamachon ki main aziyat sunaon kya
-  Kis kis ne kaisay kaisay hai mara bataon kya
+  Baba meri gharibi ka ye haal dekhiye
+  Zalim ke haath mein hain mere baal dekhiye
+  Baba tamaachoṅ ki main aziyat sunaauṅ kya
+  Kis kis ne kaise kaise hai mara bataauṅ kya
 
   2
-  Apni Sakina ke zarra yeh gaal dekhiye
+  Apni Sakina ke zara ye gaal dekhiye
   Rukhsaron se badan ka lahu beh gaya sabhi
   Jaisay hi gash se uthti hoon gir jati hoon tabhi
   Poshaak meri khon se hai lal dekhiye
@@ -29,16 +29,16 @@ romanLyrics: |-
   Zalim ne toor di hain sabhi pasliyaan meri
 
   4
-  Girti hoon jab yeh khainchtay hain rasiyaan meri
+  Girti hoon jab ye khainchtay hain rasiyaan meri
   Ho jaon gi main tukron mein pamal dekhiye
   Beemar boltay hain mujhe Sham ke makeen
   Baba mujhe zaeefa bulatay hain kyun laeen
 
   5
   Lagti hai umar meri kayi saal dekhiye
-  Zeeshan yeh Sakina ne zindan se kaha
-  Zindan ke andheron mein dam ghutta hai mera
-  Aa kar mera andherey mein ahwal dekhiye
+  Zeeshan ye Sakina ne zindaan se kaha
+  Zindan ke andheroṅ mein dam ghutta hai mera
+  Aa kar mera andhere mein ahvaal dekhiye
 ---
 
 ۱

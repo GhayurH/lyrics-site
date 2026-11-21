@@ -1,6 +1,6 @@
 ---
-title: "بعد میرے ظلم یہ مولا پہ ڈھایا جائے گا - جون رضوی"
-alternateTitle: "Baad Mere Zulm Yeh Mola Py Dhaya Jaye Ga - Joan Rizvi"
+title: "بعد میرے ظلم یہ مولا پہ ڈھایا جائے گا"
+alternateTitle: "Baad Mere Zulm Ye Maula Pe Dhaaya Jaae Ga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,48 +8,48 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Ho chukay bazu wafadar kay shano say juda
+  Ho chuke bazu wafadar ke shano say juda
   Seenay pa aankh main peeshani pay hai teer laga
-  Mout ka zaiqa chaya hai zaban per laikan
-  Aakhri saansoon main Abbas yehi kehta raha
-  Bad mere zulm yeh mola pa dhaya jayay ga
-  Sheh rag e Shabbir pay khanjer chalaya jayay ga
+  Mout ka zaiqa chaya hai zaban par lekin
+  Aakhri saaṅsoṅ main Abbas yehi kehta raha
+  Baad mere zulm yeh Maula pa dhaya jaae ga
+  Sheh rag e Shabbir pay khanjar chalaya jaae ga
 
   1
   Mere saansain band honay par qayamat ayay gi
   Baad mere chadar e tatheer looti jayay gi
-  Bait e Zahra ki tarhan khaima jalaya jayay ga
+  Bait e Zahra ki tarhan khaima jalaya jaae ga
 
   2
-  Mere hathoon kay qalam honay sa hai dukh yeh siwa
-  Shamioon kay hath haungay aur Zainab ki rida
-  Shaam tak kitnay hi hathoon per uthaya jayay ga
+  Mere hathoon ke qalam honay sa hai dukh yeh siwa
+  Shamioon ke hath haungay aur Zainab ki rida
+  Shaam tak kitnay hi hathoon par uthaya jaae ga
 
   3
-  Ayay gi baba ki mayyat per Sakina ronay jab
-  Syeda Zainab ki janay Shamir kay hathoon sa tab
-  Kis tarhan Bibi k baloon ko churaya jayay ga
+  Ayay gi baba ki mayyat par Sakina ronay jab
+  Syeda Zainab ki janay Shamir ke hathoon sa tab
+  Kis tarhan Bibi k baloon ko churaya jaae ga
 
   4
   Kaise be chani main hoga Syeda Zahra ka chain
-  Kis tarhan zinda rahay ga us ghari Mola Hussain
-  Teer jab Asghar ki gardan pa chalaya jayay ga
+  Kis tarhan zinda rahay ga us ghari Maula Hussain
+  Teer jab Asghar ki gardan pa chalaya jaae ga
 
   5
-  Qatil e akbar mere Mola ka lay ga imtehan
-  Tod day ga shakal e peghambar k seenay main sina
-  Sabar borhay baap ka youn aazmayay jayay ga
+  Qatil e akbar mere Maula ka lay ga imtehan
+  Tod day ga shakal e peghambar k sine main sina
+  Sabar borhay baap ka youn aazmayay jaae ga
 
   6
   Saray ghar na syeda keh ker bulaya hai jinhain
   Shaam lay jayain ker k qaid jab Shami inhain
-  Zainab o Kulsoom keh keh kar bulaya jayay ga
+  Zainab o Kulsoom keh keh kar bulaya jaae ga
 
   7
   Amad e Shabbir tak Akbar tha yeh Ghazi ka haal
-  Khud hi rota jata tha aur kerta tha khud sa sawal
-  Haal Maan ummal Baneen ko yeh sunaya jayay ga
-  Baad mere zulm yeh mola pa dhaya jayay ga
+  Khud hi rota jata tha aur karta tha khud sa sawal
+  Haal Maaṅ ummal Baneen ko yeh sunaya jaae ga
+  Baad mere zulm yeh Maula pa dhaya jaae ga
 ---
 
 ہو چکے بازو وفادار کے شانوں سے جدا

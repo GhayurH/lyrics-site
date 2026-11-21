@@ -1,6 +1,6 @@
 ---
 title: "بدن کہیں تو کہیں سر حسین بولتا ہے"
-alternateTitle: "Badan Kahin Tu Kahin Sar Hussain Bolta Hai"
+alternateTitle: "Badan Kahiṅ To Kahiṅ Sar Husain Bolta Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,32 +9,32 @@ poet: "Sahil"
 aliases: []
 published: false
 romanLyrics: |-
-  Badan kahin tu kahin sar Hussain bolta hai
-  Shikast maut ko de kar Hussain bolta hai
+  Badan kahiṅ to kahiṅ sar Husain bolta hai
+  Shikast maut ko de kar Husain bolta hai
 
   1
-  Tu phir yeh tay hai ke marta nahi shaheed kabhi
-  Sina ki nook pe bhi gar Hussain bolta hai
-  Yazeediyat ko darati rahe gi nook-e-sina
-  Hussainiyat se na lar dar Hussain bolta hai
+  Tu phir yeh tay hai ke marta nahiṅ shaheed kabhi
+  Sina ki nok pe bhi gar Husain bolta hai
+  Yazidiyat ko darati rahe gi nok-e-sina
+  Husainiyat se na lar dar Husain bolta hai
 
   2
-  Yazeed kal bhi tujhe dasht mein shikast hoi
-  Yazeed aaj bhi ghar ghar Hussain bolta hai
+  Yazid kal bhi tujhe dasht mein shikast hoi
+  Yazid aaj bhi ghar ghar Husain bolta hai
   Jahan bhi bait-e-fasiq ka ho sawal wahan
-  Zameer walon ke andar Hussain bolta hai
+  Zameer walon ke andar Husain bolta hai
 
   3
   Wahan khateeb-e-Salooni ki yaad aati hai
-  Jahan bhi lehja badal kar Hussain bolta hai
+  Jahan bhi lehja badal kar Husain bolta hai
   Bhala woh maut se dar jaye kaise mumkin hai?
-  Jo subha-o-sham brabar Hussain bolta hai
+  Jo subha-o-sham brabar Husain bolta hai
 
   4
   Zuban zuban pe issi bolne ke tazkare hain
-  Kuch aise sibt-e-Paiyamber Hussain bolta hai
-  Jahan mein aaj bhi zulm ke robaro Sahil
-  Shaoor walon ka rehbar Hussain bolta hai
+  Kuch aise sibt-e-Paighambar Husain bolta hai
+  Jahan mein aaj bhi zulm ke rubar u Sahil
+  Shaoor walon ka rehbar Husain bolta hai
 ---
 
 بدن کہیں تو کہیں سر حسین بولتا ہے

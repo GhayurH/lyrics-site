@@ -1,6 +1,6 @@
 ---
 title: "بابِ فضائل مولا ابو الفضل العباس"
-alternateTitle: "Bab-e-Fazail Mola Abul Fazal Al Abbas"
+alternateTitle: "Baab-e-Fazaail Maula Abul Fazl al-Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye Khuda aisa pisar de jo mera sani ho
-  Naam Abbas ho woh shair e nayastani ho
+  Ae Khuda aisa pisar de jo mera sani ho
+  Naam Abbas ho woh sher-e naistaani ho
 
   1
-  Hath oss ka bhi yad e quwat e Yazdani ho
-  Oss ka hamla bhi meri tarha se tofani ho
-  Ho baho meri tarha qafila salar banay
-  Main alamdar hoon tu woh bhi alamdar banay
+  Hath oss ka bhi yad e quwat e Yazdaani ho
+  Oss ka hamla bhi meri tarah se tofani ho
+  Ho baho meri tarah qaafila salar banay
+  Main alamdaar hoon tu woh bhi alamdaar banay
 
   2
   Meri guftar si guftar ka hamil thehrey
@@ -59,7 +59,7 @@ romanLyrics: |-
   Jab liya gaud mein Haider ne kaha Bismillah
   Mere arman e jigar meri dua Bismillah
   Mere khursheed-o-qamar meri zia Bismillah
-  Aye mere lakht-e-jigar meri ada Bismillah
+  Ae mere lakht-e-jigar meri ada Bismillah
 
   9
   Khoob jachta tha dar-e-ilm ko gul Yasim ka
@@ -159,7 +159,7 @@ romanLyrics: |-
 
   25
   Door ab kijiye mushkil ko sheh-e-Badar-o-Hunnain
-  Aakhir iss qaul se maqsood Hasan hai ya Hussain
+  Aakhir iss qaul se maqsood Hasan hai ya Husain
   Bolay Haider keh yeh aasan kya hai main ne
   Kab Nabi zadoon ka ayelan kya hai main ne
 

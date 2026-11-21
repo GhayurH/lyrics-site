@@ -1,6 +1,6 @@
 ---
 title: "بالی سکینہؑ رو نہیں بیمار مر نہ جائے"
-alternateTitle: "Bali Sakina Ro Nahin Bimar Mar Na Jaye"
+alternateTitle: "Baali Sakina Ro Nahiṅ Bimaar Mar Na Jaae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,44 +9,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bali Sakina ro nahi bimare mar najaye
-  Nalon se tere uske bhi dil par mazar na jaye
+  Baali Sakina ro nahiṅ bimaar mar na jaae
+  Nalon se tere uske bhi dil par mazaar na jaae
 
   1
   Kuch tu karo khayaal asiri ka bhai ki
-  Baba ki tarha tumse se biradar bechad na jaaye
+  Baba ki tarah tumse se biradar bechad na jaaye
 
   2
-  Khoon beh raha hai bhai ki gardan pe kis kadar
-  Yeh zakhm maut ka saman kar najaye
+  Khun beh raha hai bhai ki gardan pe kis qadar
+  Yeh zakhm maut ka saamaan kar na jaae
 
   3
-  Are jakda hai huwa tang na karo is tarha fuga
-  Are ghabra ke uth abide bimar gir najaye
+  Are jakda hai huwa tang na karo is tarah fuga
+  Are ghabra ke uth abide bimar gir na jaae
 
   4
   Are Zainab batado bachchi ka Abid ko sara haal
-  Are dekho Sakina Shaam ke zindan mei marna jaye
+  Are dekho Sakina Shaam ke zindan mei marna jaae
 
   5
   Are Zainab utha lo bhai ke sar se Sakina ko
-  Tareekiyon may daulate Sarwar bikhar na jaye
+  Tareekiyon may daulate Sarwar bikhar na jaae
 
   6
-  Sab bhole koi ghaam nahi Sughra ko hai yeh gham
-  Asgher hamari yaad mei ji ke guzar najaye
+  Sab bhole koi ghaam nahiṅ Sughra ko hai yeh gham
+  Asgher hamari yaad mei ji ke guzar na jaae
 
   7
   Sughra tadp tadp ke gawa dena apni jaan
-  Akbar shaheed ho gaye usko khabar najaye
+  Akbar shaheed ho gaye usko khabar na jaae
 
   8
-  Sham o seher karo yohi karo Sarwar ghame Hussain
-  Tha ek na bas hayat ka jab tak bikhar najaye
+  Sham o seher karo yohi karo Sarwar ghame Husain
+  Tha ek na bas hayat ka jab tak bikhar na jaae
 
-  9
-  Bali Sakina ro nahi bimare mar najaye
-  Nalo se tere uske bhi dil par mazar na jaye
 ---
 
 بالی سکینہ رو نہیں، بیمار مر نہ جائے
@@ -83,7 +80,3 @@ romanLyrics: |-
 ۸
 شام و سحر کرو یوں ہی کرو سرور غمِ حسین
 تا ایک نفس حیات کا جب تک بکھر نہ جائے
-
-۹
-بالی سکینہ رو نہیں، بیمار مر نہ جائے
-نالوں سے تیرے اُس کے بھی دل پر مزار نہ جائے

@@ -4,18 +4,19 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: []
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 published: false
-alternateTitle: "Baba Baba Husain Nadeem Sarwar"
+alternateTitle: "Baba Baba Husain"
 romanLyrics: |-
   Baba baba Husain
 
   1
   Shaam-e-Gharibaaṅ alamaaṅ
   Phaila hua har su dhuaaṅ
-  Noha kunaaṅ Saiyidaaniyaaṅ
+  Noha kunaaṅ Sayyidaaniyaaṅ
   Ghash mein para ik natawaaṅ
   Pyaasi Sakina noha khwaaṅ
 
@@ -88,7 +89,6 @@ romanLyrics: |-
 
   11
   Husaina
-reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 
 بابا بابا حسین
@@ -98,17 +98,17 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 پھیلا ہوا ہر سُو دھواں
 نوحہ کناں سیدانیاں
 غش میں پڑا اِک ناتواں
-پیاسی سكینہ نوحہ خواں
+پیاسی سکینہ نوحہ خواں
 
 ۲
-سكینہ کی آتی تھی صدا
+سکینہ کی آتی تھی صدا
 
 ۳
 حسینا
 جلے ہوئے خیمے اِدھر
 لاشے پڑپتے تھے اُدھر
 کرب و بلا کی خاک پر
-بولی سكینہؑ رکھ كے سر
+بولی سکینہؑ رکھ كے سر
 بابا سنو میری فغان
 
 ۴
