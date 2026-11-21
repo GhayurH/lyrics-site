@@ -1,30 +1,57 @@
 ---
-title: "Ahmed Ke Aaj Ghar Mein, Kohraam Ik Bapa Hai,"
+title: "احمد کے آج گھر میں، کہرام اک بپا ہے"
+alternateTitle: "Ahmed Ke Aaj Ghar Mein Kohraam Ik Bapa Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ahmed ke aaj ghar mein, kohraam ik bapa hai
+  Na haq jo qatl-e-Zehra, ummat ne kar diya hai
+
+  1
+  Raatoṅ ko uth ke paani, Shabbir ko pilaana
+  Zainab mere Hasan ke, tum do kafan banaana
+  Zehra ne waqt-e-rukhsat, beti se ye kaha hai
+
+  2
+  Haq maangne jo Zehra, darbaar mein hai aai
+  Haakim ne ye na socha, ye hai Rasul zaadi
+  Kaha masla-e-wiraasat, gai bhul Faatima hai
+
+  3
+  Shabbir ne kaha jo, Amma mujhe bulaao
+  Aai sada kafan se, mera Husain aao
+  Donoṅ lipat ke roe, yaad aai Karbala hai
+
+  4
+  Aayat-e-Mubahila se, waaqif agar wo hote
+  Jhutlaate na kabhi wo, Zehra ke donoṅ bete
+  Quraan na samajh mein, ummat ke aa saka hai
 ---
 
-Ahmed Ke Aaj Ghar Mein, Kohraam Ik Bapa Hai,
+احمد کے آج گھر میں، کہرام اک بپا ہے
+ناحق جو قتلِ زہرا، امت نے کر دیا ہے
 
-Na Haq Jo Qatal e Zahra, Ummat Ne Kar Diya Hai,
+۱
+راتوں کو اٹھ کے پانی، شبیر کو پلانا
+زینب میرے حسن کے، تم دو کفن بنانا
+زہرا نے وقتِ رخصت، بیٹی سے یہ کہا ہے
 
-Raatoun Ko Uth Ke Paani, Shabbir Ko Pilana,
-Zainab Meray Hassan Ke, Tum Do Qafan Bana Na,
-Zahra Ne Waqt e Rukhsat, Beti Se Yeh Kaha Hai,
+۲
+حق مانگنے جو زہرا، دربار میں ہے آئی
+حاکم نے یہ نہ سوچا، یہ ہے رسول جائی
+کہا مسئلۂ وراثت، گئی بھول فاطمہ ہے
 
-Haq Maang Ne Jo Zahra, Darbar Mein Hai Aayi,
-Haakim Ne Yeh Na Socha, Yeh Hai Rasool Jayi,
-Kaha Masla e Wirasat, Gayi Bhool Fatima Hai,
+۳
+شبیر نے کہا جو، اماں مجھے بلاؤ
+آئی صدا کفن سے، میرا حسین آؤ
+دونوں لپٹ کے روئے، یاد آئی کربلا ہے
 
-Shabbir Ne Kaha Jo, Amma Mujhe Bulao,
-Aayi Sada Qafan Se, Mera Hussain Ao,
-Dono Lipat Ke Roye, Yaad Aayi Karbala Hai,
-
-Aaya Mubahila Se, Waqif Agar Woh Hotay,
-Jhutlatey Na Kabhi Woh, Zahra Ke Dono Betay,
-Qur’aan Na Samajh Mein, Ummat Ke Aa Saka Hai,
+۴
+آیۂ مباہلہ سے، واقف اگر وہ ہوتے
+جھٹلاتے نہ کبھی وہ، زہرا کے دونوں بیٹے
+قرآن نہ سمجھ میں، امت کے آ سکا ہے

@@ -12,41 +12,42 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Chodah masoomo ka jis ko irfan hai, aik Salman hai
-  Daswein darjay pe our kis ka eman hai, aik Salman hai
+  Chaudah Masumoṅ ka jis ko irfaan hai, aik Salman hai
+  Dasveṅ darje pe aur kis ka imaan hai, aik Salman hai
 
   2
-  Jis ki sachayi par aasmaan ta zameen sare hairat mein hain
-  Woh Abuzar bhi khud jis pe hairan hai aik Salman hai
+  Jis ki sachchaai par aasmaan ta zamin saare hairat mein haiṅ
+  Wo Abuzar bhi khud jis pe hairaan hai, aik Salman hai
 
   3
-  Woh they muhtaj angushtari ke, magar yeh rahe be niyaz
-  Farq khud dekhiye ik Suleman hai aik Salman hai
+  Wo the muhtaaj angushtari ke, magar ye rahe beniyaaz
+  Farq khud dekhiye ik Sulaimaan hai aik Salman hai
 
   4
-  Our hai kaun jis se main batein karon, dil ko halka karon
-  Chaar so, jo bhi hai woh Musalman hai, aik Salman hai
+  Aur hai kaun jis se main baateṅ karuṅ, dil ko halka karuṅ
+  Chaar su jo bhi hai wo Musalmaan hai, aik Salman hai
 
   5
-  Aisay khud ko na uljha, zara ja ke oss shaks se baat kar
-  Tu Nuseri bhala kyun pareshan hai, aik Salman hai
+  Aise khud ko na uljha, zara jaa ke us shakhs se baat kar
+  Tu Nusairi bhala Kiun pareshaan hai, aik Salman hai
 
   6
-  Marifat ke liye teen chezon ko choray gaye hain Nabi
-  Aik hai Ahlebait, aik Quran hai, aik Salman hai
+  Marifat ke liye tin chizoṅ ko chhore gae haiṅ Nabi
+  Aik hai AhlulBait, aik Quraan hai, aik Salman hai
 
   7
-  Aik Allah oss ki haqeeqat samjhna tu mumkin nahi
-  Yeh bhi kafi hai gar tera eman hai aik Salman hai
+  Aik Allah us ki haqiqaat samajhna to mumkin nahiṅ
+  Ye bhi kaafi hai gar tera imaan hai aik Salman hai
 
   8
-  Yeh wazeefa parho our bachalo aqeeday ko tum shirk se
+  Ye wazifa parho aur bacha lo aqide ko tum shirk se
   Aik Salman hai, aik Salman hai, aik Salman hai
 
   9
-  Main mazameen midhat ke leta hoon Haider ossi zaat se
-  So mere wastay madah aasan hai, aik Salman hai
+  Main mazaamin-e-midhat ke leta huṅ Haidar usi zaat se
+  So mere waaste madh aasaan hai, aik Salman hai
 ---
+
 ۱
 چودہ معصوموں کا جس کو عرفان ہے، ایک سلمان ہے
 دسویں درجے پہ اور کس کا ایمان ہے، ایک سلمان ہے

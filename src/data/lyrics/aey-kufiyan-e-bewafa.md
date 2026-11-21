@@ -23,7 +23,6 @@ romanLyrics: |-
   2
   Noha ye tha Kulsum ka
   Ae Kufiyaan-e-bewafa
-  Ae Kufiyaan-e-bewafa
   Ae zaalimo ahl-e-jafa
 
   3
@@ -35,20 +34,8 @@ romanLyrics: |-
   4
   Hai zabaanoṅ par kalma-e-Khuda
   Phir bhi sinoṅ meiṅ dil hai sang ka
-  Ae Kufiyaan-e-bewafa
-  Ae zaalimo ahl-e-jafa
 
   5
-  Hai tumheṅ khabar tum ho aashna
-  Kis ka ghar luta kis ka khun baha
-  Haaye tum ne ye kya kar diya
-  Kis ko lut kar ghar jala diya
-
-  6
-  Hai zabaanoṅ par kalma-e-Khuda
-  Phir bhi sinoṅ meiṅ dil hai sang ka
-
-  7
   Us Husain ko qatl kar diya
   Jis ke paas hai marzi-e-Khuda
   Din jis ke ghar surkhru hua
@@ -57,16 +44,8 @@ romanLyrics: |-
   Jis Husain ki maaṅ hai Sayyida
   Rubaru agar ho ga saamna
   Kaise jaao ge pesh-e-Kibriya
-  Ae Kufiyaan-e-bewafa
-  Ae zaalimo ahl-e-jafa
 
-  8
-  Hai tumheṅ khabar tum ho aashna
-  Kis ka ghar luta kis ka khun baha
-  Haaye tum ne ye kya kar diya
-  Kis ko lut kar ghar jala diya
-  Hai zabaanoṅ par kalma-e-Khuda
-  Phir bhi sinoṅ meiṅ dil hai sang ka
+  6
   Zulm kaun sa ham pe na hua
   Phir bhi ham rahe raazi ba raza
   Bhaai ko mere dhoka de diya
@@ -75,16 +54,8 @@ romanLyrics: |-
   Phir gharib ka khun baha diya
   Mat zamin par tum bano Khuda
   Waqt hai qarib ho ga faisla
-  Ae Kufiyaan-e-bewafa
-  Ae zaalimo ahl-e-jafa
 
-  9
-  Hai tumheṅ khabar tum ho aashna
-  Kis ka ghar luta kis ka khun baha
-  Haaye tum ne ye kya kar diya
-  Kis ko lut kar ghar jala diya
-  Hai zabaanoṅ par kalma-e-Khuda
-  Phir bhi sinoṅ meiṅ dil hai sang ka
+  7
   Ae Kufiyo zulm ho gaya
   Aal-e-Mustafa se muqaabla
   Itrat-e-Nabi ham haiṅ bakhuda
@@ -93,17 +64,8 @@ romanLyrics: |-
   Aur phir hameṅ baaghi keh diya
   Jis ke naana se din-e-haq mila
   Us nawaase ko ye sila mila
-  Ae Kufiyaan-e-bewafa
-  Ae zaalimo ahl-e-jafa
 
-  10
-  Hai tumheṅ khabar tum ho aashna
-  Kis ka ghar luta kis ka khun baha
-  Haaye tum ne ye kya kar diya
-  Kis ko lut kar ghar jala diya
-  Hai zabaanoṅ par kalma-e-Khuda
-  Phir bhi sinoṅ meiṅ dil hai sang ka
-  Wa musibata
+  8
   Wa musibata
   Wa musibata yuṅ chaman luta
   Gher kar hameṅ laaye Karbala
@@ -113,14 +75,6 @@ romanLyrics: |-
   Zulm ki hui ham pe inteha
   Tum pe waae ho haaye kya kiya
   Ajr-e-Mustafa yuṅ ada kiya
-  Ae Kufiyaan-e-bewafa
-  Ae zaalimo ahl-e-jafa
-  Hai tumheṅ khabar tum ho aashna
-  Kis ka ghar luta kis ka khun baha
-  Haaye tum ne ye kya kar diya
-  Kis ko lut kar ghar jala diya
-  Hai zabaanoṅ par kalma-e-Khuda
-  Phir bhi sinoṅ meiṅ dil hai sang ka
 ---
 
 اے کوفیانِ بے وفا
@@ -136,7 +90,6 @@ romanLyrics: |-
 ۲
 نوحہ یہ تھا کلثوم کا
 اے کوفیانِ بے وفا
-اے کوفیانِ بے وفا
 اے ظالمو اہلِ جفا
 
 ۳
@@ -148,20 +101,8 @@ romanLyrics: |-
 ۴
 ہے زبانوں پر کلمۂ خدا
 پھر بھی سینوں میں دل ہے سنگ کا
-اے کوفیانِ بے وفا
-اے ظالمو اہلِ جفا
 
 ۵
-ہے تمہیں خبر تم ہو آشنا
-کس کا گھر لٹا کس کا خون بہا
-ہائے تم نے یہ کیا کر دیا
-کس کو لوٹ کر گھر جلا دیا
-
-۶
-ہے زبانوں پر کلمۂ خدا
-پھر بھی سینوں میں دل ہے سنگ کا
-
-۷
 اس حسین کو قتل کر دیا
 جس کے پاس ہے مرضیِ خدا
 دین جس کے گھر سرخرو ہوا
@@ -170,16 +111,8 @@ romanLyrics: |-
 جس حسین کی ماں ہے سیدہ
 روبرو اگر ہو گا سامنا
 کیسے جاؤ گے پیشِ کبریا
-اے کوفیانِ بے وفا
-اے ظالمو اہلِ جفا
 
-۸
-ہے تمہیں خبر تم ہو آشنا
-کس کا گھر لٹا کس کا خون بہا
-ہائے تم نے یہ کیا کر دیا
-کس کو لوٹ کر گھر جلا دیا
-ہے زبانوں پر کلمۂ خدا
-پھر بھی سینوں میں دل ہے سنگ کا
+۶
 ظلم کون سا ہم پہ نہ ہوا
 پھر بھی ہم رہے راضی بہ رضا
 بھائی کو میرے دھوکا دے دیا
@@ -188,16 +121,8 @@ romanLyrics: |-
 پھر غریب کا خون بہا دیا
 مت زمین پر تم بنو خدا
 وقت ہے قریب ہو گا فیصلہ
-اے کوفیانِ بے وفا
-اے ظالمو اہلِ جفا
 
-۹
-ہے تمہیں خبر تم ہو آشنا
-کس کا گھر لٹا کس کا خون بہا
-ہائے تم نے یہ کیا کر دیا
-کس کو لوٹ کر گھر جلا دیا
-ہے زبانوں پر کلمۂ خدا
-پھر بھی سینوں میں دل ہے سنگ کا
+۷
 اے کوفیو ظلم ہو گیا
 آلِ مصطفیٰ سے مقابلہ
 عترتِ نبی ہم ہیں بخدا
@@ -206,17 +131,8 @@ romanLyrics: |-
 اور پھر ہمیں باغی کہہ دیا
 جس کے نانا سے دینِ حق ملا
 اس نواسے کو یہ صلہ ملا
-اے کوفیانِ بے وفا
-اے ظالمو اہلِ جفا
 
-۱۰
-ہے تمہیں خبر تم ہو آشنا
-کس کا گھر لٹا کس کا خون بہا
-ہائے تم نے یہ کیا کر دیا
-کس کو لوٹ کر گھر جلا دیا
-ہے زبانوں پر کلمۂ خدا
-پھر بھی سینوں میں دل ہے سنگ کا
-وا مصیبتا
+۸
 وا مصیبتا
 وا مصیبتا یوں چمن لٹا
 گھیر کر ہمیں لائے کربلا
@@ -226,11 +142,3 @@ romanLyrics: |-
 ظلم کی ہوئی ہم پہ انتہا
 تم پہ وائے ہو ہائے کیا کیا
 اجرِ مصطفیٰ یوں ادا کیا
-اے کوفیانِ بے وفا
-اے ظالمو اہلِ جفا
-ہے تمہیں خبر تم ہو آشنا
-کس کا گھر لٹا کس کا خون بہا
-ہائے تم نے یہ کیا کر دیا
-کس کو لوٹ کر گھر جلا دیا
-ہے زبانوں پر کلمۂ خدا
-پھر بھی سینوں میں دل ہے سنگ کا

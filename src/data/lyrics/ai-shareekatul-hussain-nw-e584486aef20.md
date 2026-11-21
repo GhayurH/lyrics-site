@@ -1,6 +1,6 @@
 ---
 title: "اے شریکۃ الحسین"
-alternateTitle: "Ai Shareekatul Hussain"
+alternateTitle: "Ae Sharikatul Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,46 +9,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ai Shareekatul Hussain ai Binte Murtaza Zainab
-  Sadqa Hussain ka suno, ham sab ilteja Zainab
+  Ae Sharikatul Husain ae Binte Murtaza Zainab
+  Sadqa Husain ka suno, ham sab ilteja Zainab
 
   1
-  Shabbir Ri ki raza mai teri razi hai shaamil
-  Tera sabr to Mola Shabbir sahiba mil
+  Shabbir Ri ki raza mein teri razi hai shaamil
+  Tera sabr to Maula Shabbir sahiba mil
   Tu Fatima, tu Haider
-  Tu Hassan-e-Mujtaba
+  Tu Hasan-e-Mujtaba
 
   2
-  Tu ghairat Panjetan hai tu Binte Abu Talib kar ham pai karam aisa muskil pai ham ho ghalib
+  Tu ghairat Panjetan hai tu Binte Abu Talib kar ham pe karam aisa mushkil pe ham ho ghalib
   Mushkil Kusha ki beti
   Kar mushkil-e-kusha Zainab
 
   3
-  Ban kai Hussain ki hai Abid ki rehnumai
-  Laila nay Ali nay di tareekh ki gawahi
+  Ban ke Husain ki hai Abid ki rehnumai
+  Laila ne Ali ne di tareekh ki gawahi
   Tu Fatima, tu ismat
   Tu Ayat-e-Khuda Zainab
 
   4
-  Tu Faath Shaam Bibi tujh sai Imam Bibi
-  Har aik tere dar pai haajat tamaam Bibi
+  Tu Faath Shaam Bibi tujh se Imam Bibi
+  Har aik tere dar pe haajat tamaam Bibi
   Har aik pursadaar ko
-  Ab Shaam mai bula Zainab
+  Ab Shaam mein bula Zainab
 
   5
-  Khaime mai Mole ne jab Akbar ki tilwat ki
-  Qasim o Ali Asghar wo in sai khitabat ki
+  Khaime mein Mole ne jab Akbar ki tilwat ki
+  Qasim o Ali Asghar wo in se khitabat ki
   Shabbir ka bani to
   Us baat hosila Zainab
 
   6
-  Laiker dua aaye tere dhar pai azaadaryai
-  Tere bhaiyyo kai behto kai aaye haijo ghamkhaar yai
+  Laiker dua aaye tere dhar pe azaadaryai
+  Tere bhaiyyo ke behto ke aaye haijo ghamkhaar yai
   Ho mustajaab sab nai
   Maangi hai jo dua Zainab
 
   7
-  Tu woh Ali ki beti jo Shaam mai Ali hai
+  Tu woh Ali ki beti jo Shaam mein Ali hai
   Tere hi sadqe Bibi mushkil jo hal huwi hai
   Mamnoon hai jo tera
   Khud Rabbay Kibriya Zainab
