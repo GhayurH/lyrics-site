@@ -73,9 +73,6 @@ romanLyrics: |-
   Is qadar zulm musalsal the ghariboṅ pe Rashid
   Hue the Abid-e-bemaar har ek gaam shahid
   Phir bhi hoṅtoṅ pe tha bemaar ke bas shukr-e-Khuda
-# source_id: nohayonline:c33c9d8828d117350fd6
-# source_url: https://www.nohayonline.com/details_content.php?id=3528
-# raw_sha256: b50986703c2e0c06d0b43ad0972d4c395c356b1f44f06cf7a07982056ecbc7f6
 ---
 اللّٰہ بیمار دعا مانگے دعا مانگے ہے
 ہائے بیمار ہائے بیمار
@@ -131,7 +128,7 @@ romanLyrics: |-
 ہائے اس دن کے لئے رہ گیا کیوں میں زندہ
 
 ۱۱
-بی‌بیاں ساری رسن بستہ اسیری غربت
+بیبیاں ساری رسن بستہ اسیری غربت
 وہ سفر دھوپ کا وہ پیاس کی شدت
 کاش یہ دن میرا خالق نہ مجھے دکھلاتا
 

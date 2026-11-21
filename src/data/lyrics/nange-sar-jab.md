@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Ek aalam mere ehsaas meiṅ rota hai Shakib
   Sabz parcham ke tale jab bhi alamdaar chale
-# source_id: nohayonline:b6df7be5a4deff11e8be
-# source_url: https://www.nohayonline.com/details_content.php?id=654
-# raw_sha256: 6b8fd2305f642424e41415f1c3bfa9c7852306d531637d4008368d616a3175f6
 ---
 ننگے سر جب کبھی ناموسِ گرفتار چلے
 پردہ داری کے لیے سایۂ دیوار چلے
@@ -65,7 +62,7 @@ romanLyrics: |-
 پا با زنجیر اگر کوئی گرفتار چلے
 
 ۵
-بی‌بیاں ہوں تو ردائیں بھی مہیا کیجیے
+بیبیاں ہوں تو ردائیں بھی مہیا کیجیے
 قافلہ جب بھی کوئی شہر کہ بازار چلے
 
 ۶

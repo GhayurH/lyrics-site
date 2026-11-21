@@ -52,9 +52,6 @@ romanLyrics: |-
   Logoṅ ne aaj zikr-e-Shah-e-mashriqain ko
   Kaawish bana liya hai wasila kamaai ka
   Dil paash paash ho gaya Zehra ki jaayi ka
-# source_id: nohayonline:d71facb6b74e8de68bcc
-# source_url: https://www.nohayonline.com/details_content.php?id=1676
-# raw_sha256: 0bce8daffc6876d6a4532fe1519c49e0ff2918ec5bc4fb25f655f82fa848ab1d
 ---
 
 دیکھا جو زیرِ تیغ گلا اپنے بھائی کا

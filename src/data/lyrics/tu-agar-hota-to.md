@@ -65,9 +65,6 @@ romanLyrics: |-
   Mir Sajjad ye mahsus karoge tum bhi
   Aati hai rauza-e-Ghaazi pe sada Sarwar ki
   Aaj bhi qaid hai zindaan meiṅ bachchi meri
-# source_id: nohayonline:1e722ddf18caa2d44908
-# source_url: https://www.nohayonline.com/details_content.php?id=2565
-# raw_sha256: 45921b0f05d0f82f2341c3f858f4ade56dda3888896601f9545f5c69a7043149
 ---
 غازی میرے غازی
 

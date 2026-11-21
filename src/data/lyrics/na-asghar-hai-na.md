@@ -83,9 +83,6 @@ romanLyrics: |-
   Ye keh kar ae pursadaaroṅ
   Zehra ko pursa dena
   Na Asghar hai na Sakina
-# source_id: nohayonline:79339bfcd2eea1906583
-# source_url: https://www.nohayonline.com/details_content.php?id=2572
-# raw_sha256: 5fff3dd165218abb9cd1071fb316dc342c92c032230b89fea4c4e1f8ee79a805
 ---
 
 ہائے اصغر ہائے سکینہ

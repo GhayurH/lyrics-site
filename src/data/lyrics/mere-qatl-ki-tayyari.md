@@ -62,9 +62,6 @@ romanLyrics: |-
   Haaye tharraayi zamiṅ chalne laga hai khanjar
   Rakh diye haath teri maaṅ ne teri gardan par
   Bole Shabbir ke haaye meri laachaari hai
-# source_id: nohayonline:f4a9101ef27c4057b58b
-# source_url: https://www.nohayonline.com/details_content.php?id=1658
-# raw_sha256: 2fa3b9da1326f77851a6e4aafb20e7f95c6d6c1076e0b8b9531ccd4cf5600790
 ---
 
 دن ہے عاشور کا اور عصر کی آئی ہے گھڑی

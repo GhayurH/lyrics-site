@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Ae Zafar koi bhi naasir ya madadgaar na tha
   Siskiyaaṅ leti rahi raahoṅ meiṅ maaṅ Akbar ki
-# source_id: nohayonline:9b1364bfb02eef5c07f1
-# source_url: https://www.nohayonline.com/details_content.php?id=1893
-# raw_sha256: 92a4869464c9ff56a2dbc954f4593f564322a9f8782cdf303494fb65cd35baba
 ---
 ام لیلیٰ نہ بھول پائی اذاں اکبر کی
 گھٹ کے روتی رہی زنداں میں ماں اکبر کی

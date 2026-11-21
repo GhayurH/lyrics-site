@@ -47,9 +47,6 @@ romanLyrics: |-
   Zainab hai paaband-e-rasan ab chalta kuchh nahiṅ zor
   Nok-e-sinaaṅ par sar hai tan hai bhaai ka bedur
   Roti hai maaṅ jaai ki mayyat pe hasrat o yaas
-# source_id: nohayonline:2e095c61556f7e1b4838
-# source_url: https://www.nohayonline.com/details_content.php?id=506
-# raw_sha256: 96985045bbe321c9ce454b7a6e1e389a30853d97bb7e30e2652076282037f031
 ---
 زینب اور عباس
 دونوں ہی سے کرب و بلا میں شِہ کو بڑی تھی آس

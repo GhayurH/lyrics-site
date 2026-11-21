@@ -61,9 +61,6 @@ romanLyrics: |-
   Tha bahut Aamir o Nayyar ye behan ko bhi khayaal
   Kahaaṅ bepardagi-e-Ahl-e-Haram ka tha sawaal
   Khud hi ho jaata rida barh ke alam ka saaya
-# source_id: nohayonline:0cb23f54b06d0dbd72d5
-# source_url: https://www.nohayonline.com/details_content.php?id=3617
-# raw_sha256: c82329b545b267a82398f312392dc62c99e4b96ecdb65d4718f8783f91f3b7ff
 ---
 
 یوں رسن بستہ نہ ہوتی کبھی بنت زہرا

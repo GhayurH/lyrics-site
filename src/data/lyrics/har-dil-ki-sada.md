@@ -64,9 +64,6 @@ romanLyrics: |-
   Yasir kisi ki yeh ghurbat nahiṅ
   Taarikh meiṅ ik hai tiroṅ pe laasha tera
   Ya Husain ya Husain
-# source_id: nohayonline:cfe602b98200e9852bcf
-# source_url: https://www.nohayonline.com/details_content.php?id=1680
-# raw_sha256: 52ce2c8744386cf28c591d7197e031e14b7e043585dcdd994d378faf43b0947b
 ---
 
 کہتے ہیں اہلِ عزا ہر دل کی ہے یہ صدا

@@ -70,9 +70,6 @@ romanLyrics: |-
   Jao mere laal jao mere laal
   Tum pe har qadam rahe dua meri
   Aur saaya Khuda-e-Zuljalaal
-# source_id: nohayonline:1799742bcfef7c38fae7
-# source_url: https://www.nohayonline.com/details_content.php?id=448
-# raw_sha256: 987c2be269dd66e77923e3925306ace562d58504d8f0d331bcda5a75a53b5d69
 ---
 آئے جو قبرِ فاطمہ پہ سیدِ انعام
 رُخسار رکھ کے قبر پہ رو کر کیا کلام

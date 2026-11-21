@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Raza Zainab ke naale aaj bhi aate hai sehra se
   Ali Akbar Ali Akbar Ali Akbar Ali Akbar
-# source_id: nohayonline:c9033c35e3c9ab9db01d
-# source_url: https://www.nohayonline.com/details_content.php?id=2016
-# raw_sha256: 6a2a9a569c98c3d7c583d92f8690ea512d2186b7e5b248141e983e4aebe03411
 ---
 یہ بولی زینبِ مضطر علی اکبر علی اکبر
 پھپھی ہے تیری نوحہ گر علی اکبر علی اکبر

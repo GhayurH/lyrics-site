@@ -32,9 +32,6 @@ romanLyrics: |-
   Na tum raho na Ali ke haram ko rehne do
   Hamaare baad ye naachaar dar badar na phire
   Rasul zaadiyaaṅ balwe meiṅ nange sar na phire
-# source_id: nohayonline:3b40583e471b094a9601
-# source_url: https://www.nohayonline.com/details_content.php?id=2724
-# raw_sha256: 161dbc229c0da281d38ddaf227d16c10c502d686ded115a806490003773290be
 ---
 جب نہ اعدا سے کسی طرح صفائی ٹھہری
 صبحِ عاشور محرم کو لڑائی ٹھہری

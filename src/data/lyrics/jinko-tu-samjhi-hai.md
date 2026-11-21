@@ -50,9 +50,6 @@ romanLyrics: |-
   Tin din Shaam azaakhaana-e-Sarwar tha Anis
   Majlis-e-Sibt-e-payambar hui pehli barpa
   Zaakira jis ki thi khud bint-e-Ali o Zehra
-# source_id: nohayonline:b48433eddb1562a45382
-# source_url: https://www.nohayonline.com/details_content.php?id=651
-# raw_sha256: 80d8c5abffb9e8606932be0cb1f35741d3cc32bec8bbec218c571471fb85f96b
 ---
 
 جن کو توں سمجھی ہے اے ہند یہاں وہ تو نہیں
@@ -67,7 +64,7 @@ romanLyrics: |-
 بولی وہ کون ہو تم لوگ مجھے یہ تو بتاؤ
 اپنا افسانۂ غم مجھ کو مسافر تو سُناؤ
 روکو ان آنسوؤں کو اپنے خُدارا نہ بہاؤ
-سر کو اونچا کرو اے بی‌بیوں صورت تو دکھاؤ
+سر کو اونچا کرو اے بیبیوں صورت تو دکھاؤ
 بولی اک بی‌بی بڑا رنج ہے ماں جائی کو
 تیرے شوہر نے کیا قتل میرے بھائی کو
 

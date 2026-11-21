@@ -55,9 +55,6 @@ romanLyrics: |-
   Kaise bayaaṅ ho Mir Takallum wo bekasi
   Ye keh ke Bint-e-Fatima khaamosh ho gayi
   Waade meiṅ der hoti hai achchha to jaaiye
-# source_id: nohayonline:0f00f9e4cdc36955f811
-# source_url: https://www.nohayonline.com/details_content.php?id=2600
-# raw_sha256: 6d8b7b3807c2a0ac2603f732da66ca5de3239727832b2e92f2c351b17947d075
 ---
 رخصت کو آئے خیمے میں جب شاہ کربلا
 تو بنت علی نے جوڑ کے ہاتھوں کو دی صدا

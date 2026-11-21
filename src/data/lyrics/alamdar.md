@@ -10,9 +10,6 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:2a5d22e6442233175c58
-# source_url: https://www.nohayonline.com/details_content.php?id=2782
-# raw_sha256: 79142dda0442512f1db9b6ab7d5fd7d07e9c1d33da8467bfd94c0a5750043977
 romanLyrics: |-
   Alamdar Alamdar Abbas-e-Alamdar
   Saqqa-e-Haram sayyed o salaar na aamad
@@ -96,7 +93,7 @@ romanLyrics: |-
 جس کی امید پہ پردوں کی ضمانت لی تھی
 جب یہ زینب نے کہا مارا گیا وہ غازی
 خود بخود سر سے سرکنے لگی چادر سب کی
-اے بی‌بیوں چادر کا نگہدار نہ آمد
+اے بیبیوں چادر کا نگہدار نہ آمد
 
 ۵
 گونجی خیموں میں یہ آواز دلِ زہرا کی

@@ -91,9 +91,6 @@ romanLyrics: |-
   Faryaad hai ye Bano-e-dilgir ke lab par
   Baazu-e-Shabbir dekh to aa kar
   Halq hai zakhmi khaak hai sar par
-# source_id: nohayonline:241b566dfff046918f38
-# source_url: https://www.nohayonline.com/details_content.php?id=3020
-# raw_sha256: e01545c643422de1d49b39bd3cc6d81d04dc1cef632bf68eb56fa911cb2ca79d
 ---
 جب شمر لعیں شہداء کے سر کاٹ کے لایا
 شہداء کے سروں کو پسر سعد نے دیکھا

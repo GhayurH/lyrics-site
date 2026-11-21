@@ -66,9 +66,6 @@ romanLyrics: |-
   Bas aisa tha manzar
   Khaime se ke jaise koi mayyat si uthi hai
   Rukhsat ki ghari hai
-# source_id: nohayonline:675315788a3689883884
-# source_url: https://www.nohayonline.com/details_content.php?id=3199
-# raw_sha256: 8ca057c35e4948ace379e916e51310b2ecc9fe07c582ca0e059a3d46ccf1da08
 ---
 
 لیلیٰ کے چاند اکبر کڑیل جواں اکبر

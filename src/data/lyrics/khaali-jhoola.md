@@ -57,9 +57,6 @@ romanLyrics: |-
   Lori sunaane ki hasrat thi
   Jo na hui maadar ki puri
   Kehti thi maiṅ mar na jaauṅ
-# source_id: nohayonline:64830560633053d021c5
-# source_url: https://www.nohayonline.com/details_content.php?id=2682
-# raw_sha256: ea159606fb4713e050ae90a624a858f32281ac739d9a7e88f9617533cb844095
 ---
 
 آجا اصغر لوری سناؤں

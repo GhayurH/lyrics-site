@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Sar par wo khaak uraati hai Iqbal aandhiyaaṅ
   Saaber duhaai deti hai Kulsum Fatema
-# source_id: nohayonline:c105103bf30a60d9a91d
-# source_url: https://www.nohayonline.com/details_content.php?id=2880
-# raw_sha256: 29d9152a228771de0bd8e657931a9c9454edd550bd6ed35eb8d24c0f38d43ce1
 ---
 اسلام کو بچا گئی کلثوم فاطمہ
 زینب کے ساتھ ساتھ تھی کلثوم فاطمہ

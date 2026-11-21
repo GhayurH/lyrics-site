@@ -1,10 +1,10 @@
 ---
-title: دن ڈھلا تو رلانے کو شام آ گئی
-alternateTitle: Din Dhala To Rulane
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دن ڈھلا تو رلانے کو شام آ گئی"
+alternateTitle: "Din Dhala To Rulane"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Meer Nazeer Baqari"
 reciter: "Mir Hasan Mir"
 tags: []
@@ -37,12 +37,6 @@ romanLyrics: |-
   6
   Saamne hai Nazir ek jalta makaaṅ
   Kya bataauṅ zamaane ko shaam aa gayi
-# source_id: nohayonline:7b09609b51de0ec891a8
-# source_url: https://www.nohayonline.com/details_content.php?id=341
-# raw_sha256: 9ec1aef2fbac8ef52d818e65a5a38c7d9c52d889e580ce1a71ca704f8ea0b64a
-# source_id: ziyaraat:ee66f535451a5f596a5c
-# source_url: https://www.ziyaraat.net/api/noha/1315
-# raw_sha256: 6ef8cbd0ef8dbe5a0b4df42b47efcb901a2df0b141cda73d9c44be3359640f41
 ---
 دن ڈھلا تو رلانے کو شام آ گئی
 ظلم زینب پہ ڈھانے کو شام آ گئی

@@ -45,9 +45,6 @@ romanLyrics: |-
   Raat ka pichhla pahar ho gaya hai Shahid phir bhi
   Hai wohi bechaini
   Ek faryaad ki lai arsh se takraati hai
-# source_id: nohayonline:30d131361460c9fde5e3
-# source_url: https://www.nohayonline.com/details_content.php?id=744
-# raw_sha256: 3248f768b3ee82fe29fc07042b43c868bcca5eb4acf8514631862f5b67209041
 ---
 
 رات بھر دور سے آوازِ بکا آتی ہے

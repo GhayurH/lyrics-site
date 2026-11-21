@@ -1,10 +1,10 @@
 ---
-title: کربلا ایک آفتاب اور اسکی تنویریں بہت
-alternateTitle: Karbala Ek Aaftab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا ایک آفتاب اور اسکی تنویریں بہت"
+alternateTitle: "Karbala Ek Aaftab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
 tags: []
@@ -46,12 +46,6 @@ romanLyrics: |-
   8
   Beriyaaṅ pairoṅ meiṅ aur gardan meiṅ tauq-e-khaardaar
   Phir bhi pehnaai gayi Aabid ko zanjireṅ bahut
-# source_id: nohayonline:0be8abc1e391297e2cd6
-# source_url: https://www.nohayonline.com/details_content.php?id=1051
-# raw_sha256: f0d2f6464062a159fecf2056673dac0fe7fc292b531e3bf5ad6c996b6c359c63
-# source_id: ziyaraat:725020b8c77b27b50680
-# source_url: https://www.ziyaraat.net/api/noha/2383
-# raw_sha256: 03bc2b8c94082b8db1df5d347b7d9dbb0c078f78fd35f100d507309ce7d03532
 ---
 کربلا ایک آفتاب اور اسکی تنویریں بہت
 اک کتاب آگہی جسکی ہے تفسیریں بہت

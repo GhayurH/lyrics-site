@@ -61,9 +61,6 @@ romanLyrics: |-
   Rab jaane phir kab ye aabaad hoṅ ge
   Laut aaega ek din tera kunba
   Ye waqt bhi guzar jaaega
-# source_id: nohayonline:0fa550017fe111caabfa
-# source_url: https://www.nohayonline.com/details_content.php?id=1327
-# raw_sha256: 772b6297ef1ce24464f24fc37a552a2e4c0805e413f9eafd4b6b7f68bf0fedc2
 ---
 
 خود کو دلاسہ یہ دیتی ہے صغرا

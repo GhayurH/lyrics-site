@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Hazaaroṅ duaaeṅ mili tum ko Ishrat
   Suna jis ne nauha chale aaiyega
-# source_id: nohayonline:bc71abf27e182f3c14bf
-# source_url: https://www.nohayonline.com/details_content.php?id=2248
-# raw_sha256: 39313ba4bd201727a3038e54cb8c7bb852bbafbb1765eea5f8a086398bf7d8a5
 ---
 یہ صغریٰ نے لکھا چلے آئیے گا
 ملے خط جو بھیا چلے آئیے گا

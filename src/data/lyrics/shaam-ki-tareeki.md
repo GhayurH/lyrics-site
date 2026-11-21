@@ -34,9 +34,6 @@ romanLyrics: |-
   Kehti hai taarikh-e-aza
   Qatra-e-khun jab aankh meiṅ beh kar
   Farsh-e-aza meiṅ dhalta hai
-# source_id: nohayonline:bcad1aea81fc5610bf4b
-# source_url: https://www.nohayonline.com/details_content.php?id=1269
-# raw_sha256: e6bf931844ceb4ddcafda5f914921ff878497819d761d5be6c57c126df041e82
 ---
 
 شام شام شام

@@ -32,9 +32,6 @@ romanLyrics: |-
   Likhta raha rota raha
   Hilte rahe arz o samaaṅ
   Ae meri jaaṅ ae meri jaaṅ
-# source_id: nohayonline:d0ce864166893803af7c
-# source_url: https://www.nohayonline.com/details_content.php?id=712
-# raw_sha256: a5fa6edcaf455673e1982e143dbdce2286793747072af5c91e9e5d15de9b3bb6
 ---
 ماں نے دی اکبر کو صدا
 اے میری جاں اے میری جاں

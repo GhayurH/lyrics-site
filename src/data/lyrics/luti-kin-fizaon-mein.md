@@ -55,9 +55,6 @@ romanLyrics: |-
   Viqar aah kis dil se ab maiṅ bataauṅ
   Jo guzri hai Zainab ke qalb-e-haziṅ par
   Wo baazaar o darbaar Kufe ka manzar
-# source_id: nohayonline:b2588403b8d34584f2a3
-# source_url: https://www.nohayonline.com/details_content.php?id=494
-# raw_sha256: 7c06e88b271437547fd1de4425ed1ee0c1cdc6746d983ad2266d93d95704b5da
 ---
 لٹی کن فضاؤں میں آل پیمبر
 نہ میں کہہ سکوں گا نہ تم سن سکوگی

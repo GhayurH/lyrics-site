@@ -65,9 +65,6 @@ romanLyrics: |-
   Din kaisa dikhaaya hai ye taqdir ne Aasif
   Sar pit liya Zainab-e-dilgir ne Aasif
   Aamir jo utha Fatima Zehra ka janaaza
-# source_id: nohayonline:e08ea703baa0adcfd80e
-# source_url: https://www.nohayonline.com/details_content.php?id=2126
-# raw_sha256: f74620a1dff784ac8fa24a2ec3a46f4a562dc99c067d3ec61e4b639bdcef8fb0
 ---
 زہرا میری بچی آجا میری بیٹی
 آجا میری زہرا

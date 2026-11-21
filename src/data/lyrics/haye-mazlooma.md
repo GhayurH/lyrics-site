@@ -93,9 +93,6 @@ romanLyrics: |-
   Ek na ek din banega marqad-e-viraan bhi
   Dekhne aayeṅge Bibi Mazhar o Farhan bhi
   Aap ka rauza Fatema Zehra
-# source_id: nohayonline:ef1d97746c6392171c81
-# source_url: https://www.nohayonline.com/details_content.php?id=2374
-# raw_sha256: 75341e9bb03f7ffb65ba38c9fb5484e90b9d863ab1f658df4d95f6074166b887
 ---
 
 ہاے مظلومہ فاطمہ زہرا

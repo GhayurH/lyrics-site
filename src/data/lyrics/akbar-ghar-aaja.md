@@ -65,9 +65,6 @@ romanLyrics: |-
   Husain aa gaye ek jawaaṅ laash par
   Laash par laash par haye laash par
   Aa kar Sheh bole paigham hai Sughra ka haye
-# source_id: nohayonline:5fb6b3c5b57e78ab12e4
-# source_url: https://www.nohayonline.com/details_content.php?id=2828
-# raw_sha256: 91252b1cdc584e2f30f510558e93824f1eb612f860de08a9a4d10430467ea142
 ---
 اندھیرے گھر میں صغرا دیّے جلاتی ہے
 جب دل گھبراتا ہے جب یاد ستاتی ہے

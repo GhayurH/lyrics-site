@@ -45,9 +45,6 @@ romanLyrics: |-
   Khurshid tujh ko Saani-e-Zehra ki dua hai
   Tere sukhan ke phul ye abhi phule phale haiṅ
   Ik zulm ki zanjir meiṅ behnoṅ ke gale haiṅ
-# source_id: nohayonline:54d27a2f886e77d83718
-# source_url: https://www.nohayonline.com/details_content.php?id=2320
-# raw_sha256: 0999c68cd8d68d13dc9b20dbd090826c7c3dcf543ef5aa8eb465d1696c03f8cf
 ---
 کربل سے شام قیدی امام
 

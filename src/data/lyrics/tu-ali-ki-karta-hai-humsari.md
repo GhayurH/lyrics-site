@@ -25,9 +25,6 @@ romanLyrics: |-
   Use kya kahuṅ tu khud bata chalo tujh pe chhora yeh faisla
   Jise Haq ne bakhsha hai martaba jo azal se shauhar-e-Batul hai
   Raha jaagta to Imam tha kabhi so gaya to Rasul hai
-# source_id: tajpoints:4904c7f360b2ffea6e74
-# source_url: https://tajpoints.com/2017/02/tu-alias-ki-karta-hai-humsari-ye-tere.html
-# raw_sha256: 97b74fe35b848e152e6f459afd2146a39a52f9d0f0372b4a3f7d02c3ef00b240
 ---
 تو علی کی کرتا ہے ہمسری یہ تیرے ضمیر کی بھول ہے
 تجھ میں علی کی ولا نہیں تیری بندگی بھی فضول ہے

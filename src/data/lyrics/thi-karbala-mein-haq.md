@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Chhinega kaun tujh se zamaane meiṅ jite ji
   Mehshar tera qalam hai amaanat Husain ki
-# source_id: nohayonline:f50eb0158210ccb71f2e
-# source_url: https://www.nohayonline.com/details_content.php?id=261
-# raw_sha256: 6fae949a61ad2d3ed941a03a39f11d92d37868648a32cfb4b1da4fb7fd84bc91
 ---
 تھی کربلا میں حق کو ضرورت حسین کی
 لگتی وطن میں کیسے ہائے طبیعت حسین کی

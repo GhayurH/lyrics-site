@@ -62,9 +62,6 @@ romanLyrics: |-
   Aaj bhi us gham sab girya kunaaṅ hai
   Ab bhi Bilal aankhoṅ se ashk rawaaṅ hai
   Keh ke Sakina ne dam tor diya hai
-# source_id: nohayonline:03e0804cf43a701aaa0d
-# source_url: https://www.nohayonline.com/details_content.php?id=3098
-# raw_sha256: ed0dc71eeb6e4f214fe5eecc72f1027ce280f78dd18fcb4a4aa92147f6b1cbe5
 ---
 
 عمو چلے آؤ عمو چلے آؤ

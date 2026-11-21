@@ -1,10 +1,10 @@
 ---
-title: شام چلی میں شام چلی
-alternateTitle: Shaam Chali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام چلی میں شام چلی"
+alternateTitle: "Shaam Chali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []
@@ -67,12 +67,6 @@ romanLyrics: |-
   Nana se kahuṅgi jaa ke
   Maiṅ aa gai din bacha ke
   Maiṅ Shaam chali Nana
-# source_id: nohayonline:abdd4067377bf345f136
-# source_url: https://www.nohayonline.com/details_content.php?id=2970
-# raw_sha256: 299fbfd09cb3c4299ace09632244db7d860e70fb355ecac057e0ec1958fc9507
-# source_id: ziyaraat:506f183c8f23d8b8f9ab
-# source_url: https://www.ziyaraat.net/api/noha/309
-# raw_sha256: 118900efd0efb517d58f85558ce1b59c021943182e10aa30cc85a4659366c852
 ---
 شام چلی میں شام چلی
 

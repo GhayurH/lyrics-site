@@ -1,10 +1,10 @@
 ---
-title: شام جاتے ہوئے رو کے سجاد نے کہا
-alternateTitle: Bekas Pardesi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام جاتے ہوئے رو کے سجاد نے کہا"
+alternateTitle: "Bekas Pardesi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
 tags: []
@@ -67,12 +67,6 @@ romanLyrics: |-
   Bimaar Imam mera karta raha ye nauha
   Hai teri qasam mujh ko baba tera naam bachaauṅ ga
   Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
-# source_id: nohayonline:7be1f73ad18e04a58f44
-# source_url: https://www.nohayonline.com/details_content.php?id=473
-# raw_sha256: f45bbd11774af1c3f469f38cde5a0bea175a2ddb0a3b7d4aee37a99ad634627f
-# source_id: ziyaraat:7cd25ab72247679dca9d
-# source_url: https://www.ziyaraat.net/api/noha/352
-# raw_sha256: af20bed5612826d23674e79193898e5140ddaba692cb60e452fa37b2669ea8c9
 ---
 شام جاتے ہوئے رو کے سجاد نے کہا
 السلام اے بے کس بابا بے کس بیٹے کا سلام

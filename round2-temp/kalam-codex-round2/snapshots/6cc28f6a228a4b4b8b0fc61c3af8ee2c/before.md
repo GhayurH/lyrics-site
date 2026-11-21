@@ -1,0 +1,30 @@
+---
+title: "Ali Ke Qadmon Main Mehdi Rizvi And Hadi Rizvi Lyrics Urud 2025"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Ahsaan"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Ali Ke Qadmon Main Mehdi Rizvi and Hadi Rizvi.
+Sawal Kaisa Keh Hai Kya Ali Ke Qadmo Mein.
+Tu Jo Bhi Chahe Miley Ga Ali Ke Qadmo Mein.
+Har Ik Mareez Ko Esa Ne Yeh Diya Nuskha.
+Shifa Ke Wastay Gir Ja Ali Ke Qadmo Mein.
+Kissi Ko Kun Fayakon Tak Dikhai Deney Laga.
+Kissi Ne Kuch Nahi Dekha Ali Ke Qadmo Mein.
+Nikala Khuld Se Lekin Kamal Hai Aadam.
+Tu Kitne Chain Se Soya Ali Ke Qadmo Mein.
+Kabhi Bhi Oss Pe Bura Waqt Aa Nahi Sakta.
+Keh Jis Ne Waqt Guzara Ali Ke Qadmo Mein.
+Khushi Se Sang Ke Tiktay Nahi Zameen Pe Qadam.
+Woh Aik Bar Tha Aaya Ali Ke Qadmo Mein.
+Suno Imam-e-Zamana Ki Aa Rahi Hai Sada.
+Miley Ga Sara Zamana Ali Ke Qadmo Mein.
+Howa Yeh Aap Ka Ahsaan Zainab-e-Kubra.
+Qaseeda Main Ne Sunaya Ali Ke Qadmo Mein.

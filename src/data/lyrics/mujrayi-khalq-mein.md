@@ -51,6 +51,10 @@ romanLyrics: |-
   10
   Zulm hai Mujrai, Sajjad ne kya kya dekha
   Ghar luta, qaid hue, baap ka lasha dekha
+
+  11
+  Phir gaya aankhoṅ meiṅ Sheh ka rukh-e-purkhuṅ Munis
+  Jab kahiṅ maqtal-e-Shabbir ka naqsha dekha
 ---
 
 ۱
@@ -92,3 +96,7 @@ romanLyrics: |-
 ۱۰
 ظلم ہے مجرعی، سجاد نے کیا کیا دیکھا
 گھر لٹا قید ہوئے، باپ کا لاشہ دیکھا
+
+۱۱
+پھر گیا آنکھوں میں شہ کا رخِ پرخوں مونس
+جب کہیں مقتلِ شبیر کا نقشہ دیکھا

@@ -1,10 +1,10 @@
 ---
-title: کربلا کے بن میں کوئی قافلہ لُوٹا گیا
-alternateTitle: Karbala Ke Ban Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا کے بن میں کوئی قافلہ لُوٹا گیا"
+alternateTitle: "Karbala Ke Ban Meiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen; Ashraf Abbas"
 tags: []
 aliases: []
@@ -44,12 +44,6 @@ romanLyrics: |-
   8
   Hulle Jannat ke Khuda ne bheje jin ke waaste
   Pairahan tak us Shah-e-Mazlum ka luta gaya
-# source_id: nohayonline:d992d72223c8e40f5577
-# source_url: https://www.nohayonline.com/details_content.php?id=711
-# raw_sha256: 67637fa905f036d2d7a7b59c9568676af3606debe141a117b597671e15f335d2
-# source_id: nohayonline:fd2e12627751ff4bbacc
-# source_url: https://www.nohayonline.com/details_content.php?id=3516
-# raw_sha256: 9046f353755920ca3c2862dc4cac27c4a78b07906871b73d850c1f69c8aec1c6
 ---
 
 کربلا کے بن میں کوئی قافلہ لُوٹا گیا
@@ -72,8 +66,8 @@ romanLyrics: |-
 ظالم لُوٹو گے اب کیا گھر بھرا لُوٹا گیا
 
 ۵
-بولی صغریٰ بی‌بیوں کی گودیوں کو دیکھ کر
-بی‌بیوں ننھا سا وہ غنچہ بھی کیا لُوٹا گیا
+بولی صغریٰ بیبیوں کی گودیوں کو دیکھ کر
+بیبیوں ننھا سا وہ غنچہ بھی کیا لُوٹا گیا
 
 ۶
 یا خدا لُوٹا نہ جائے کوئی کنبہ اس طرح

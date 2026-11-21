@@ -58,9 +58,6 @@ romanLyrics: |-
   Ek hi paigham hai Mazhar o Farhan ka
   Pursa Muhammad ko de aaiye ahle aza
   Kijiye zanjir ka matam
-# source_id: nohayonline:5ebee6d301c58a585a01
-# source_url: https://www.nohayonline.com/details_content.php?id=2694
-# raw_sha256: 3ab0be6ad8a9e52074c13dbdf2b904bc9474695d2844d34bdc0278513ed8a958
 ---
 ہو رہا ہے دشت میں ماتم
 آج شہیدوں کا ہے چہلم
@@ -72,7 +69,7 @@ romanLyrics: |-
 اب کرے جی کھول کے ماتم
 
 ۲
-بے ردا جو بی‌بیاں تھی آج ہوئی با ردا
+بے ردا جو بیبیاں تھی آج ہوئی با ردا
 اپنے اپنے وارثوں کو رو رہی ہے غمزدہ
 کہنے لگا دشت کا عالم
 

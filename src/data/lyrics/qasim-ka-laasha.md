@@ -47,9 +47,6 @@ romanLyrics: |-
   9
   Tujhko duaaeṅ deti hai Farwa bhi Musavi
   Tu ne jo us ke laal ka noha jo ye kaha
-# source_id: nohayonline:2d0d42344cba0202e5d3
-# source_url: https://www.nohayonline.com/details_content.php?id=3781
-# raw_sha256: 19667421d31db2bb11d6ea909065e924fd8650c9d9881e895ee1afac4faa88d6
 ---
 
 قاسم کا لاشہ رن میں عجب حال میں ملا

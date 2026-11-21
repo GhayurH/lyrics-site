@@ -78,9 +78,6 @@ romanLyrics: |-
   Tum se rahe aabad ye ghar
   Tum shabih-e-Fatema ho
   Maiṅ kaise tumheṅ le jauṅ Karbala
-# source_id: nohayonline:30401ba6c46d0fbeeb17
-# source_url: https://www.nohayonline.com/details_content.php?id=2204
-# raw_sha256: f6c7c644f740c7021b35a93c53438f78af6b7a60f0867a549447ab135be5db20
 ---
 
 قافلہ جب کہ روانہ تھا سوئے کربوبلا

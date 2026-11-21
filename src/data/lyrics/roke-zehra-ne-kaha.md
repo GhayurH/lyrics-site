@@ -48,9 +48,6 @@ romanLyrics: |-
   Dard Irfan o Sharar kaise ho Zahra ka bayaaṅ
   Dil hilaati hai azaadaaroṅ ke Bibi ki aza
   Zulm kuch aisa hua pasliyaaṅ tut gayiṅ
-# source_id: nohayonline:9766bc40d45e31539a70
-# source_url: https://www.nohayonline.com/details_content.php?id=3480
-# raw_sha256: 3f7caae367d2c0e5da98e146aa422b765fc87453340e6aec6fbff88daecdfa0a
 ---
 رو کے زہرا نے کہا پسلیاں ٹوٹ گئیں
 میرا محسن نہ رہا پسلیاں ٹوٹ گئیں

@@ -33,31 +33,59 @@ romanLyrics: |-
   Har gham se guzarna aa gaya
 
   2
+  Kaindi Si Ro Payi Sainr Ae
+  Majbur Baoṅ Teri Bhainr Ae
+  Na Gal Kise De Painr Ae
+  Jiweiṅ Zalim Rasiyaaṅ Pa Gaya
+
+  3
   Le Shaam se maiṅ aa gayi
   Ghazi maiṅ kiuṅ zinda rahi
   Saaya na tha miloṅ koi
   Mujhe dhup meiṅ chalna aa gaya
 
-  3
+  4
+  Dukhi Bhainr Da Ghazi Bhira
+  Hunr Ki Karaṅ Mainu Dasa
+  Khali Veer We Maiṅ Berida
+  Tera Jhanra Mar Muka Gaya
+
+  5
   Dekhe saje adaa ke ghar
   Naizoṅ pe the pyaaroṅ ke sar
   Tukre hua mera jigar
   Mujhe yaad Madina aa gaya
 
-  4
+  6
+  Ro Bhainr Ae Dendi Sada
+  Bhainraaṅ De Aa Parde Bana
+  Lokaaṅ Da Ae Majma Bara
+  Sajjad Mainda Gash Kha Gaya
+
+  7
+  Gaya Dard Ae Dil Chir Ae
+  Wekhi Zulm Di Akhir Ae
+  Wich Zulm Di Zanjir De
+  Ruk Baqir Da Hay Kha Gaya
+
+  8
   Baazaar tha darbaar tha
   Zanjir thi bimaar tha
   Jina mera dushwaar tha
   Har dard ko sehna aa gaya
 
-  5
+  9
+  Lalaan Nu Ae Chanra Tera
+  Wich Sham De Janra Tera
+  Sang Zulm De Khanra Tera
+  Khurshid Nu Nir Rawa Gaya
+
+  10
   Ae Sarwar o Rehaan ab
   Socho zara kya tha ghazab
   Bint-e-Ali kehti thi jab
   Mujhe jina marna aa gaya
-# source_id: nohayonline:9169d410313c4b6751ee
-# source_url: https://www.nohayonline.com/details_content.php?id=404
-# raw_sha256: d1f1e305ca3baa3e3b0fb3e85f166fbe5acccb65770de5c4194f21953046e39c
+
 ---
 زندان سے رہا ہو کر جس دم
 جب کرب و بلا میں آئے حرم
@@ -81,24 +109,54 @@ romanLyrics: |-
 ہر غم سے گزرنا آ گیا
 
 ۲
+کیندی سی رو، پئی سینڑ اے
+مجبور بھوں، تیری بھینڑ اے
+نا گر کسے، دے پینڑ اے
+جیویں ظالم رسیاں پا گیا
+
+۳
 لے شام سے میں آ گئی
 غازی میں کیوں زندہ رہی
 سایہ نہ تھا میلوں کوئی
 مجھے دھوپ میں چلنا آ گیا
 
-۳
+۴
+دُکھی بھینڑ دا، غازیؑ بھرا
+ہنڑ کی کراں، مینوں ڈسا
+ہلی ویر وے، میں بے ردا
+تیرا جانڑاں مانڑ مکا گیا
+
+۵
 دیکھے سجے عدا کے گھر
 نیزوں پہ تھے پیاروں کے سر
 ٹکڑے ہوا میرا جگر
 مجھے یاد مدینہ آ گیا
 
-۴
+۶
+رو بھینڑ اے، دیندی صدا
+بھینڑاں دے آ، پردے بنا
+لوکاں دا اے، مجمع بڑا
+سجاد مینڈا غش کھا گیا
+
+۷
+گیا دردِ اے، دل چِیر اے
+ویکھی ظلم، دی اَخِیر اے
+وچ ظلم دی، زنجیر دے
+رک باقر دا اے کھا گیا
+
+۸
 بازار تھا دربار تھا
 زنجیر تھی بیمار تھا
 جینا میرا دشوار تھا
 ہر درد کو سہنا آ گیا
 
-۵
+۹
+لا لا نوں اے، جانڑاں تیرا
+وچ شام دے، جانڑاں تیرا
+سنگ ظلم دے، کھانڑا تیرا
+خورشید نوں نیر رُوا گیا
+
+۱۰
 اے سرور و ریحان اب
 سوچو ذرا کیا تھا غضب
 بنتِ علی کہتی تھی جب

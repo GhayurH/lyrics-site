@@ -58,9 +58,6 @@ romanLyrics: |-
   Abbas ki raza hai raza-e-Husain se
   Rehaan hukm-e-Fateh-e-Badr o Hunain se
   Bekhauf hum ne sikha hai jumla ye bolna
-# source_id: nohayonline:51ff1c969365470f0e2c
-# source_url: https://www.nohayonline.com/details_content.php?id=2370
-# raw_sha256: b6fa57dfbc146652cbe6ebb4277ffb69e76372a548299743871af9c279f32b74
 ---
 
 اے شامیوں فرات کو لازم ہے چھوڑنا

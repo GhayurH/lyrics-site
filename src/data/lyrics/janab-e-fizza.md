@@ -59,9 +59,6 @@ romanLyrics: |-
   Tujh ko Zahra ki kanizi ka sila aisa mila
   Jo bhi ab Shaam ziyaarat ke liye jaata hai
   Sajda karne teri chaukhat pe zarur aata hai
-# source_id: tajpoints:4ca41b9bedad517fc06e
-# source_url: https://tajpoints.com/2020/12/janab-e-fizza-manqabat-mir-hasan-mir.html
-# raw_sha256: 0a0288550f3948a253040f4211697f59842c7419df174c6a9beedd88f0106139
 ---
 ۱
 قلزمِ صبر و اطاعت کی روانی فضہ

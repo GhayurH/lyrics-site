@@ -83,9 +83,6 @@ romanLyrics: |-
   Haaye is waqt hum tum khare haiṅ jahaaṅ
   Nur hi nur hai kal thi taarikiyaaṅ
   Bara royi Sakina yahaaṅ
-# source_id: nohayonline:c128031294efc199cf3b
-# source_url: https://www.nohayonline.com/details_content.php?id=2051
-# raw_sha256: e82e4d40631545220f178f8c210837122f1b7b2679f907417869da81b5af54f7
 ---
 
 ہاں یہ ہے شہر شام
@@ -106,7 +103,7 @@ romanLyrics: |-
 بڑا روی سکینہ یہاں
 
 ۲
-سر کھلے خاک پرغمزدہ بی‌بیاں
+سر کھلے خاک پرغمزدہ بیبیاں
 اس میں قاسم کی اکبر کی اصغر کی ماں
 مانگ اجڑی ہوی خالی تھی گودیاں
 سب کی ہمت بندھاتی تھی زینب جہاں
@@ -114,7 +111,7 @@ romanLyrics: |-
 
 ۳
 ہاں اسی شام کے بیچ بازار میں
-بی‌بیاں پتھروں کی تھی بوچھار میں
+بیبیاں پتھروں کی تھی بوچھار میں
 خوں میں ڈوبی محمد کی تھی بیٹیاں
 ہر طرف شام میں جشن کا تھا سماں
 بڑا روی سکینہ یہاں

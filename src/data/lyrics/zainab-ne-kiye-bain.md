@@ -64,9 +64,6 @@ romanLyrics: |-
   Faryaad Khudaara
   Hai waqt-e-madad kijiye haalaat ko behtar
   Utho mere bhaiya utho mere bhaiya
-# source_id: nohayonline:400f28532d69663da24e
-# source_url: https://www.nohayonline.com/details_content.php?id=266
-# raw_sha256: 776bef9130b847900935d0a2122a0ab2f6e7d05bdc4a2f101a541ed9c15d1e82
 ---
 زینب نے کیے بین یہ مرقد سے لپٹ کر
 اٹھو میرے بھیا، اٹھو میرے بھیا

@@ -88,9 +88,6 @@ romanLyrics: |-
   Almadad ya Fizza almadad ya Fizza
   Meri aaghosh ka haq maut ne chhin liya
   Almadad ya Fizza mera Mohsin na raha
-# source_id: nohayonline:29c44d06fc82e742f003
-# source_url: https://www.nohayonline.com/details_content.php?id=3157
-# raw_sha256: a70fd4c8e68aab469ca6d1be11f084d6ee850d934aba1bc156ccd8b71fb352b8
 ---
 جلتا دروازہ گرا آئی زہرا کی صدا
 المدد یا فضہ میرا محسن نہ رہا

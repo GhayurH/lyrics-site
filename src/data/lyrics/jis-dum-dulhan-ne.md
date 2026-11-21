@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Chhora dulhan ko laash pe rone ke waaste
   Dulha bane the qabr meiṅ sone ke waaste
-# source_id: nohayonline:fe826f002a174f800e6f
-# source_url: https://www.nohayonline.com/details_content.php?id=2180
-# raw_sha256: e37bf6f12e7cbe8362cc1e415ac5b505dcb51221ec990acd736969786aea31b2
 ---
 جس دم دلہن نے لاش کے ٹکڑوں پہ کی نگاہ
 نکلی لہو میں ڈوبی ہوئی اک جگر سے آہ

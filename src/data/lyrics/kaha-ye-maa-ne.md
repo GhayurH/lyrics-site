@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Hazaaroṅ thokareiṅ khaayi hai is zaifi meiṅ
   Magar nasib ka likha mitaane aayi huṅ
-# source_id: nohayonline:8e9b6a5f55bf4289d801
-# source_url: https://www.nohayonline.com/details_content.php?id=1457
-# raw_sha256: 827c89838ec44df12e88f5aae32465a97205b31c99c794ee82e27502aeab59a3
 ---
 کہا یہ ماں نے کہ اکبر منانے آئی ہوں
 خفا تھے لال گلے سے لگانے آئی ہوں

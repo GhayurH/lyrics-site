@@ -58,9 +58,6 @@ romanLyrics: |-
   Farhan ho ke Mazhar bayaṅ kya kare koi
   Maaṅ ne pisar ke lashe pe faryad ki yehi
   Ae laal saath tere jahaṅ se gaye Husain
-# source_id: nohayonline:6404e7ec06c3d690e19e
-# source_url: https://www.nohayonline.com/details_content.php?id=3546
-# raw_sha256: ac8a228a9b5fa13757384db3c80464a71354ee6f3ddb2440e5674893adf44926
 ---
 اکبر کا لاشہ دیکھ کے خود مر گئے حسین
 ظالم تو بس حسین پہ خنجر چلائے گا

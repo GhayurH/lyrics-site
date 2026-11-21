@@ -90,9 +90,6 @@ romanLyrics: |-
   Ek nanhi si lahad kaaṅpte haathoṅ se bani
   Sar shahanshaah ka godi meiṅ lahu rota tha
   Wa Husaina ka bas ik shor bapa hota tha
-# source_id: nohayonline:64a740c3994e8f12f3c3
-# source_url: https://www.nohayonline.com/details_content.php?id=2056
-# raw_sha256: 56754f3f0cdfd90aea2320d1733e001f59e3c36124cc6804575449f439a19009
 ---
 سیاہ رات میں زنداں کے در پہ رو رو کے
 سکینہ کہتی ہے بابا یہ شب ستاتی ہے

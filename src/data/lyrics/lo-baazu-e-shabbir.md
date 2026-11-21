@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Ghaazi ki shahaadat jo hui Majid o Mukhtar
   Zainab ki asiri ka ye aaghaaz hua hai
-# source_id: nohayonline:34feb1301a42698bc1d3
-# source_url: https://www.nohayonline.com/details_content.php?id=1434
-# raw_sha256: 2b9f0d16fce6619048304d8d33ff8373c47e0fa53c3d882c007d1452cca1c89b
 ---
 خیموں میں بپا اہلِ حرم کی یہ بکا ہے
 لو بازوئے شبیر بھی مرنے کو چلا ہے

@@ -75,9 +75,6 @@ romanLyrics: |-
   Karte haiṅ Qum meiṅ Mir Takallum ye sab dua
   Maatam kare Baqiyya meiṅ har maatami jawaaṅ
   Ya Sahib az Zamaan
-# source_id: nohayonline:e5e7f42393848d12cb0f
-# source_url: https://www.nohayonline.com/details_content.php?id=1041
-# raw_sha256: 32bf1205c9e284244b7d279b8b2cd0f14f578a61eade22cda9f2882ee255b736
 ---
 در جل چکا ہے یوسف زہرا کب آؤ گے
 زہرا صدائیں دیتی ہیں مولا کب آؤ گے

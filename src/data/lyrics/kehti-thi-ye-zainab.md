@@ -56,9 +56,6 @@ romanLyrics: |-
   Aur Shimr ka khanjar
   Chal jaayegi mit jaayegi Haidar ki nishaani
   Maiṅ kya karuṅ Bibi
-# source_id: nohayonline:974b72aa5906da3a2101
-# source_url: https://www.nohayonline.com/details_content.php?id=310
-# raw_sha256: 4d8b9fd21df57dd39db3778540a6ca1003e14ced0d800cde6f232c0c488b0d02
 ---
 کہتی تھی یہ زینب سے محمد کی دلاری
 میں کیا کروں بی‌بی

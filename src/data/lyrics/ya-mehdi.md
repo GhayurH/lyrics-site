@@ -48,9 +48,6 @@ romanLyrics: |-
   Har azaadar ye kar raha hai dua
   Aisa Aashur ho ab ke Akbar bapa
   Karbala meiṅ mile waaris-e-Karbala
-# source_id: nohayonline:f2c80b16fa7828c479d4
-# source_url: https://www.nohayonline.com/details_content.php?id=662
-# raw_sha256: e7036b3606ad5685874176a606d6edce9a71c29ee6c83f468385ca58a8bad8af
 ---
 کربلا سے یہی آرہی ہے صدا
 العجل العجل وارثِ کربلا

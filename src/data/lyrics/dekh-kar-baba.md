@@ -1,10 +1,10 @@
 ---
-title: دیکھ کر بابا کا لاشہ ایک بیٹا رو دیا
-alternateTitle: Dekh Kar Baba
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دیکھ کر بابا کا لاشہ ایک بیٹا رو دیا"
+alternateTitle: "Dekh Kar Baba"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Afzal Mirza"
 tags: []
@@ -60,12 +60,6 @@ romanLyrics: |-
   Kar raha huṅ maiṅ bayaaṅ bimaar ka huzn o malaal
   Aa rahe haiṅ zehn meiṅ Ishrat masaaib ke khayaal
   Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
-# source_id: nohayonline:88e9bbd407c16c939bc0
-# source_url: https://www.nohayonline.com/details_content.php?id=3663
-# raw_sha256: 8e00eba3a34e11fa8afe053c66cb096bb0fbd334d9b3b7ca84bab692a7759299
-# source_id: nohayonline:eb067f153721d02e6ebd
-# source_url: https://www.nohayonline.com/details_content.php?id=2153
-# raw_sha256: bd251944016d5288632c94d7f1b4a91b456639e1df3e1e2fcc02249b21eac36c
 ---
 
 دیکھ کر بابا کا لاشہ ایک بیٹا رو دیا
@@ -75,7 +69,7 @@ romanLyrics: |-
 
 ۱
 ناتواں بیمار لاغر اور سفر کی سختیاں
-دیکھ کر ہمراہ اپنے سر برہنہ بی‌بیاں
+دیکھ کر ہمراہ اپنے سر برہنہ بیبیاں
 غم کی زنجیروں میں جکڑا ایک بیٹا رو دیا
 
 ۲

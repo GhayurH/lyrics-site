@@ -64,9 +64,6 @@ romanLyrics: |-
   Kya bayaaṅ ho ae Hamid o Safdar-e-khasta jigar
   Lashkar-e-Shabbir meiṅ ye gham ka manzar dekh kar
   Keh rahi hai khud azaaṅ Allahu Akbar Allahu Akbar
-# source_id: nohayonline:fb069a68aefa09e09c8e
-# source_url: https://www.nohayonline.com/details_content.php?id=1553
-# raw_sha256: a96db976fad0a2635010286d31c0f726f852f7a65ca4f0294c4e34fc9a6c2ffc
 ---
 
 دی جو اکبر نے اذاں اللّٰہ اکبر
@@ -91,7 +88,7 @@ romanLyrics: |-
 ۴
 اس اذاں کے بعد ہوں گی سختیاں در سختیاں
 والیوں کو دیکھنا ہے بر سرِ نوکِ سِناں
-رو رہی ہے بی‌بیاں اللّٰہ اکبر اللّٰہ اکبر
+رو رہی ہے بیبیاں اللّٰہ اکبر اللّٰہ اکبر
 
 ۵
 مضطرب ہے جو سکینہ اس کو یہ احساس ہے
@@ -104,7 +101,7 @@ romanLyrics: |-
 رو رہا ہے آسماں اللّٰہ اکبر اللّٰہ اکبر
 
 ۷
-خیمۂ شبیر میں سب بی‌بیاں ہیں دلفگار
+خیمۂ شبیر میں سب بیبیاں ہیں دلفگار
 در پہ خیمے کے اذاں سن کر ہے زینب بیقرار
 لے رہی ہے سسکیاں اللّٰہ اکبر اللّٰہ اکبر
 

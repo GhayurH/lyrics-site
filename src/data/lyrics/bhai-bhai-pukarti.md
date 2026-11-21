@@ -75,9 +75,6 @@ romanLyrics: |-
   Maiṅ ne saaṅsoṅ ko rukte dekha tha
   Haaye aakhri baar zer-e-khanjar hi
   Maiṅ ne Shabbir se suna amma
-# source_id: nohayonline:a2a6ce7cb2cd4a9850e2
-# source_url: https://www.nohayonline.com/details_content.php?id=89
-# raw_sha256: 4e146416c48a97940456a719648ead5df353f3c3e0893e737e7104ebe27b4524
 ---
 اماں رکا نہ شمر لعیں میرے بین سے
 ستر قدم تھی دور یہ زینب حسین سے

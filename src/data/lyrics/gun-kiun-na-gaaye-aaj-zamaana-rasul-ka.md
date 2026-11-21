@@ -34,9 +34,6 @@ romanLyrics: |-
   Jo naam chaahte haiṅ mitaana Rasul ka
   Hai Panjtan ke ishq ki surat meiṅ jalwa gar
   Yasir Raza ke dil meiṅ khazaana Rasul ka
-# source_id: tajpoints:b1a782fc7490ebd45450
-# source_url: https://tajpoints.com/2018/07/gun-kyun-na-gaye-aaj-zamana-rasool-ka.html
-# raw_sha256: 4a6bdb56384662fdaf15d55a6e633d7def5d70915e5ab91086794c6b351aad09
 ---
 
 ۱

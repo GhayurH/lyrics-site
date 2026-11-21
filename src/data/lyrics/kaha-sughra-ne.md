@@ -86,9 +86,6 @@ romanLyrics: |-
   Kya dam-e-marg sarhaane na parho ge Quraaṅ
   Ae mere bolte Quraan Ali Akbar-e-man
   Laut aao na watan
-# source_id: nohayonline:d25345cc8d6d111ad249
-# source_url: https://www.nohayonline.com/details_content.php?id=2554
-# raw_sha256: 046f94036294cdb5510f7e0a9c9b259625d746cb628fff82d2b00b9de3133d39
 ---
 
 کہا صغرا نے میری جان علی اکبر من

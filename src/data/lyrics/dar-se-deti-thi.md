@@ -61,9 +61,6 @@ romanLyrics: |-
   Kya malak ne khabar ye sunaai
   Sab Anis Shah-e-Karbalaai
   Jaaye jannat meiṅ nauha ye parh kar
-# source_id: nohayonline:45bb64aa89cb4df14808
-# source_url: https://www.nohayonline.com/details_content.php?id=1907
-# raw_sha256: c49a3e23ad92721e51ad27178f54136075aa1453abb091e0856f339e33cdbcbc
 ---
 
 در سے دیتی تھی آواز مادر

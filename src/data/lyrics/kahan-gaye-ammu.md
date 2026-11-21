@@ -39,9 +39,6 @@ romanLyrics: |-
   6
   Ye kehte kehte wo behosh ho gayi Anwar
   Nahiṅ koi ye bataata kahaaṅ gaye Ammu
-# source_id: nohayonline:07b2325153a8acd31e29
-# source_url: https://www.nohayonline.com/details_content.php?id=1262
-# raw_sha256: ecf4e5fd8bfad62af8177af843a5b327525bb806a28366ee4040315fa23127c2
 ---
 بتاؤ اے بابا کہاں گئے عمو
 سکینہ کہتی تھی بابا کہاں گئے عمو

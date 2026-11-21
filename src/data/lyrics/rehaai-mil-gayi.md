@@ -52,9 +52,6 @@ romanLyrics: |-
   Nanhi si wo chaadar teri Asghar ke shaluke
   Kaanoṅ ki baaliyaaṅ teri aur jhule ke tukre
   Yaadeiṅ mere bachchoṅ ki daaman meiṅ hai bandhi
-# source_id: nohayonline:ae7021a9b4ab149f04fa
-# source_url: https://www.nohayonline.com/details_content.php?id=1772
-# raw_sha256: 2ab954343b42e06c710aa32f5607ffd76e789ad0ff19b4ca7de25456353f5b0b
 ---
 رہائی مل گئی رہائی مل گئی
 سکینہ جاگ اٹھو جاگ اٹھو

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Baabar jab majlis-e-Shabbir hoti hai kisi ghar meiṅ
   Koi roye ya na roye magar Sajjad rota hai
-# source_id: nohayonline:64522cbd0ddaad6a840e
-# source_url: https://www.nohayonline.com/details_content.php?id=806
-# raw_sha256: 2dbc21cc705d448a017a8349acdae961eab4dfbfcd3c85fdd655a05d1e7b3feb
 ---
 سرِ بازار زینب کا گزر سجاد روتا ہے
 پھٹا جاتا ہے صدمے سے جگر سجاد روتا ہے

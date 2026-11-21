@@ -84,9 +84,6 @@ romanLyrics: |-
   Meri Sughra ko kya pata
   Haaye kunba ujar gaya
   Meri Sughra ko kya pata
-# source_id: nohayonline:9775e7b0b87284129ea4
-# source_url: https://www.nohayonline.com/details_content.php?id=1743
-# raw_sha256: 3e02e4a0e98b39f5997e2762556fa2415a48e016ee4c0357f6016175a60d7bb2
 ---
 میری صغرا کو کیا پتہ
 

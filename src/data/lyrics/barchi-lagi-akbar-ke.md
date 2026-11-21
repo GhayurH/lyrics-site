@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Rehaan meri aankh se behte hue aansu
   Noha Ali Akbar ka sunaate haiṅ muqarrar
-# source_id: nohayonline:5a578d61cab12fa74f33
-# source_url: https://www.nohayonline.com/details_content.php?id=3428
-# raw_sha256: 05bafff89a85ed3e58a1e09b7f61e902dfcc85324b8288f64d345cb25806e1bc
 ---
 برچھی لگی اکبر کے تو ماں کہتی تھی رو کر
 ارمان میرے خاک میں سب مل گئے اکبر

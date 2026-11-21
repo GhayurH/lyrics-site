@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Kiuṅ roe na Jawad bhi qirtaas o qalam bhi
   Ghar ghar hai tera sog manaaya gaya Zahra
-# source_id: nohayonline:d90ce6ddbd759c231bd7
-# source_url: https://www.nohayonline.com/details_content.php?id=1040
-# raw_sha256: 95928a41e751352edc7a9ee74372e6d56add187d9f94597c1a4367e4ad1d616d
 ---
 کیوں بعد نبی تجھکو ستایا گیا زہرا
 جلتا ہوا در تجھ پہ گرایا گیا زہرا

@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Meri hichki bandhi zikr-e-gham-e-Shabbir meiṅ Nayyar
   Hue haiṅ josh-e-girya se meri taqrir ke tukre
-# source_id: nohayonline:91524b265b42305ea756
-# source_url: https://www.nohayonline.com/details_content.php?id=2191
-# raw_sha256: da5f375f379470f45642686d506c1102c3b3d20a3f229a5c5753eb63bd0c907d
 ---
 سلامی کربلا میں جب ہوئے شبیر کے ٹکڑے
 اڑے قرآن کے پرزے ہوئے تفسیر کے ٹکڑے

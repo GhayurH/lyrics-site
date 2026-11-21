@@ -38,9 +38,6 @@ romanLyrics: |-
   6
   Kiuṅ na Anis ham yuṅ kareiṅ maatam
   Dil pe hai wo gham tukre hai sina
-# source_id: nohayonline:85264c769b42da3b2586
-# source_url: https://www.nohayonline.com/details_content.php?id=221
-# raw_sha256: 718de48ac23933bbb4baf1a828ae573f7c994ea9d72cebf4a00d42077b1a872c
 ---
 
 ہائے حسینا

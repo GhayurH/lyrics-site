@@ -84,9 +84,6 @@ romanLyrics: |-
   Yazdan parh raha hai marsiya
   Aaftab nikla nange sar
   Jal raha hai Fatema ka ghar
-# source_id: nohayonline:f406b39dd410d40c82b3
-# source_url: https://www.nohayonline.com/details_content.php?id=1455
-# raw_sha256: 554410ca67cb375598289b87752026424303404847a4a9280dc57bf82ecf313a
 ---
 یا ام ابیہا یا ام فقیہہ
 یا فاطمہ زہرا یا فاطمہ زہرا

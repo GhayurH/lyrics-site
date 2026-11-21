@@ -56,9 +56,6 @@ romanLyrics: |-
   Hil jaati thi qabr-e-Paighambar kehti thi ye Zahra jab ro kar
   Thi aap se ranjish jin ko un sab ne mujhe badle meiṅ
   Ji bhar ke rulaaya hai
-# source_id: nohayonline:3058103b29324ffe8d38
-# source_url: https://www.nohayonline.com/details_content.php?id=2853
-# raw_sha256: 08d1660c2c14250d5579db45a115fbcf6cb88ddf81eaa4d059952c6b0b5b7fb2
 ---
 
 بابا آپ کی زہرا پر کیا وقت یہ آیا ہے

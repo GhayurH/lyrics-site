@@ -1,0 +1,94 @@
+---
+title: "سبحان اللہ دامادِ نبیؐ کی آج شہادت ہوتی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Inna lillah daamaad-e-Nabi
+  Ki aaj shahaadat hoti hai
+  Hasnain is roz yatim hue
+  Bin baap ke Zainab hoti hai
+
+  2
+  Tha nafs-e-Nabi aur sher-e-Khuda
+  Daamaad tha paak paighambar ka
+  Qaatil ko jagaaya sote se
+  Ye shaan-e-imaamat hoti hai
+
+  3
+  Hai faateh Khandaq o Khaibar ka
+  Hai qaatil Marhab o Antar ka
+  Sajde mein zarb lagi sar par
+  Yuṅ uski ibaadat hoti hai
+
+  4
+  Abbaas ye kaise zabt kare
+  Baaba ka qaatil saamne hai
+  Maalum hai ghaazi ko har pal
+  Maula ki itaaat hoti hai
+
+  5
+  Kulsum aur Zainab roti haiṅ
+  Sar pitti haiṅ, ghash khaati haiṅ
+  Haidar ki mayyat uthti hai
+  Ik barpa qayaamat hoti hai
+
+  6
+  Abbaas ki maaṅ bhi tarapti hai
+  Bewaarisoṅ ka gham dekhti hai
+  Ghaazi ko bataati haiṅ kaise
+  Pardoṅ ki hifaazat hoti hai
+
+  7
+  Jibril zamiṅ par aate haiṅ
+  Mayyat Haidar ki uthaate haiṅ
+  Allah ke ghar se Haidar ki
+  Ab aakhiri rukhsat hoti hai
+---
+
+۱
+انا للہ دامادِ نبی
+کی آج شہادت ہوتی ہے
+حسنین اِس روز یتیم ہوئے
+بن باپ کے زینبؑ ہوتی ہے
+
+۲
+تھا نفسِ نبی اور شیرِ خدا
+داماد تھا پاک پیمبر کا
+قاتل کو جگایا سوتے سے
+یہ شانِ امامت ہوتی ہے
+
+۳
+ہے فاتح خندق و خیبر کا
+ہے قاتل مرحب و عنتر کا
+سجدے میں ضرب لگی سر پر
+یوں اسکی عبادت ہوتی ہے
+
+۴
+عباس یہ کیسے ضبط کرے
+بابا کا قاتل سامنے ہے
+معلوم ہے غازی کو ہر پل
+مولا کی اطاعت ہوتی ہے
+
+۵
+کلثوم اور زینب روتی ہیں
+سر پیٹتی ہیں غش کھاتی ہیں
+حیدرؑ کی میّت اٹھتی ہے
+اِک برپا قیامت ہوتی ہے
+
+۶
+عباسؑ کی ماں بھی تڑپتی ہے
+بے وارثوں کا غم دیکھتی ہے
+غازیؑ کو بتاتی ہیں کیسے
+پردوں کی حفاظت ہوتی ہے
+
+۷
+جبریلؑ زمیں پر آتے ہیں
+میّت حیدرؑ کی اٹھاتے ہیں
+اللہ کے گھر سے حیدرؑ کی
+اب آخری رخصت ہوتی ہے

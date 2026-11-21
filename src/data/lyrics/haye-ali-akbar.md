@@ -35,9 +35,6 @@ romanLyrics: |-
   4
   Shah ki nazroṅ meiṅ hui taarik Aashiq kaainaat
   Sar jhuka kar ro rahe haiṅ hur o ghilmaaṅ ek saath
-# source_id: nohayonline:806f8264185daa13049c
-# source_url: https://www.nohayonline.com/details_content.php?id=861
-# raw_sha256: c28f323258a6eea75e2bf249ee7e13df0987c8ca143324c9f704316a585c1ce6
 ---
 باپ سے مانگے اجازت رن کی جب کڑیل جواں
 تھام کر دل شاہ بولے پہلے دو اکبر اذاں

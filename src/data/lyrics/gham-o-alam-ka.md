@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Mere qalam ne banaaya hai Karbala ko watan
   Ye soch kar mere Maula Husain tanha hai
-# source_id: nohayonline:1b31ac5f2b00913366ce
-# source_url: https://www.nohayonline.com/details_content.php?id=1422
-# raw_sha256: df18bcee128e5cf1746b805ac1a82f0776d8092eb69247a6f1c7ecb4553c92cf
 ---
 غم و الم کا سراپا حسین تنہا ہے
 میان لشکر اعدا حسین تنہا ہے

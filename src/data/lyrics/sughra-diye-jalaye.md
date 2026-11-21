@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Behnoṅ ko aa rahe haiṅ khat bhaaiyoṅ ke paiham
   Meri dua hai nana Akbar ka khat bhi aaye
-# source_id: nohayonline:b719886da0c7d875279a
-# source_url: https://www.nohayonline.com/details_content.php?id=2084
-# raw_sha256: 229884751cc3d3edba6614b9923a2383dc7b6d45be40c56e056cb8064e007f84
 ---
 روضے پہ مصطفیٰ کے صغریٰ دیے جلائے
 رو رو کے نانا جان کو فریاد بھی سنائے

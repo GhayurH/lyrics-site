@@ -51,15 +51,6 @@ romanLyrics: |-
   Shaukat sar-e-maqtal ye kaha bint-e-Ali ne
   Zehra ki pali ne
   Bhaiya tere bin khaak teri behna ka jina barbaad hui maiṅ
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
-# source_id: nohayonline:78bf73957132f492d3aa
-# source_url: https://www.nohayonline.com/details_content.php?id=345
-# raw_sha256: fa7536ca3f97b31eed162ecece9aeef799f4dfcd71f01cb79af1e18ea147bf0a
-# source_id: nohawriteups:74ef16e7a4bd2c447336
-# source_url: https://www.nohawriteups.org/aabad-hui-karbobala/
-# raw_sha256: b46df6519944018a0d88562e61e77b9dd3ce82e48cdadae43026c2f2ffcf4053
-# editorial_note: Archived HTML supplies the additional Paaband-e-rasan stanza before the closing takhallus. It remains unnumbered to preserve existing stanza labels. Notebook stanza 6 differs from the archived wording and needs audio/print confirmation. Complete barbaad hui main returns remain attached to their verses.
 ---
 آباد ہوئی کربوبلا اجڑا مدینہ برباد ہوئی میں
 زینب کو نہ راس آیا محرم کا مہینہ برباد ہوئی میں
@@ -94,7 +85,7 @@ romanLyrics: |-
 بابا سے ملاؤ
 نیزے کے تلے بیٹھ کے روتی ہے سکینہ برباد ہوئی میں
 
-پابندِ رسن بی‌بیاں بازار کھلے سر
+پابندِ رسن بیبیاں بازار کھلے سر
 ہر موڑ پہ پتھر
 معصوم یتیموں کا بہا سرخ پسینہ برباد ہوئی میں
 

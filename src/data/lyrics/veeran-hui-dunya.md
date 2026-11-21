@@ -39,9 +39,6 @@ romanLyrics: |-
   6
   Binaai chhini Shah ki Izhaar sar-e-maqtal
   Hamshakl-e-Payambar ke dunya se guzarne se
-# source_id: nohayonline:592dec71304ad985df9e
-# source_url: https://www.nohayonline.com/details_content.php?id=2246
-# raw_sha256: 37564ee89fec39f353ecf5afbb3f2950ecf70da50b976340c6ecfab7f0af7f34
 ---
 عباس کے مرنے سے ٹوٹی ہے کمر شہ کی
 ویران ہوئی دنیا اکبر تیرے مرنے سے

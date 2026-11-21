@@ -20,9 +20,6 @@ romanLyrics: |-
   Wo ibadat haram hai Zainab
   Tujh se aage chale tu kaise chale
   Waqt tera ghulam hai Zainab
-# source_id: tajpoints:0328e662b1e9d07c8eeb
-# source_url: https://tajpoints.com/2017/02/aaj-matam-jo-aam-hai-zainabsa.html
-# raw_sha256: 529ea7259a2034e76a351ebc986c541f71b7d6c4a9dd7f50dd4b6f2396625793
 ---
 
 ۱

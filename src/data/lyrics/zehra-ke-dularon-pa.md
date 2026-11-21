@@ -1,10 +1,10 @@
 ---
-title: زہرا کے دلاروں پہ عجب ظلم و جفا ہے
-alternateTitle: Zehra Ke Dularon Pa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زہرا کے دلاروں پہ عجب ظلم و جفا ہے"
+alternateTitle: "Zehra Ke Dularoṅ Pa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
 poet: "Mohsin Mamoor"
 tags: []
@@ -56,12 +56,6 @@ romanLyrics: |-
   Mamur ka dil is liye khuṅ rota hai Maula
   Shabbir ka sar Shimr-e-laiṅ kaat raha hai
   Tu dekh raha hai
-# source_id: nohayonline:b02722d83a364c82638d
-# source_url: https://www.nohayonline.com/details_content.php?id=286
-# raw_sha256: e144220fed5e49c55c8bfff06d027feb85746ed1a79d62a1c0c6709e111008af
-# source_id: ziyaraat:390daa145fae5970084e
-# source_url: https://www.ziyaraat.net/api/noha/1866
-# raw_sha256: 290c0637132ee5edb8f0e5b9185aeba9e3838e9c02788bcaf7dc3569c9e259bd
 ---
 
 زہرا کے دلاروں پہ عجب ظلم و جفا ہے

@@ -42,9 +42,6 @@ romanLyrics: |-
   7
   Zainab ye sada deti thi sar pit ke apna
   Khaimoṅ meiṅ lagi aag zara aa ke bujha do
-# source_id: nohayonline:ce795835262bf0aecca9
-# source_url: https://www.nohayonline.com/details_content.php?id=3163
-# raw_sha256: dad841b5a88de326bce6ecca49f91363d97efa5fcb332bddf1aa5314c3bdf516
 ---
 
 سقائے سکینہ سقائے سکینہ

@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Chut Kar Pidar Se Be-Kas-O-Tanha The Askari"
 bastaPage: 318
-bastaNote: original-selection
+bastaNote: "original-selection"
 published: true
 romanLyrics: |-
   1

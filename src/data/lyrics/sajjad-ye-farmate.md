@@ -54,9 +54,6 @@ romanLyrics: |-
   Darbaar meiṅ Sajjad ke nauhe se thi riqqat
   Rote the sabhi apne paraaye sar-e-darbaar
   Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
-# source_id: nohayonline:6be3e830c735fccef434
-# source_url: https://www.nohayonline.com/details_content.php?id=3476
-# raw_sha256: d0e1c74d82f6265d625f1338f1e53e5c03e0d80f60e35031d3ae0b5be5044903
 ---
 
 سجاد یہ فرماتے تھے رو کر سر دربار

@@ -61,9 +61,6 @@ romanLyrics: |-
   Kam nahiṅ hota hai Ae Rehan kuchh ranj o malaal
   Zindagi bhar dard rehta hai bichharne ka Hilaal
   Hota hai bachchoṅ ke dil par aisa sadma baap ka
-# source_id: nohayonline:3f7b11841d71ca24a163
-# source_url: https://www.nohayonline.com/details_content.php?id=2114
-# raw_sha256: 60c6869bd59436ff00d90ea75e3a1150d6f0640f7fe6c8bcaf06b52d0ffb45cf
 ---
 گھر ہوا ویران ہو گئے ہم یتیم
 بابا بابا بابا

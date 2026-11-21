@@ -112,9 +112,6 @@ romanLyrics: |-
   Tum ko shahid-e-Karbala ne pukaara
   Karo maatam karo Shaah-e-Karbobala ka
   Kal ho na ho kya pata zindagi ka
-# source_id: nohayonline:dfaaf2b50a9ffac177a4
-# source_url: https://www.nohayonline.com/details_content.php?id=1734
-# raw_sha256: 5b2cf29f2df32f6f03d7b460e806b72d1d6acec959c2a9977f687b648062199f
 ---
 ای وا غریب حسینا
 ای وا شہید حسینا

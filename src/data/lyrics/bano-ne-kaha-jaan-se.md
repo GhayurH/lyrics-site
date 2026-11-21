@@ -59,9 +59,6 @@ romanLyrics: |-
   Kohraam tha Izzat lab-e-Bano pe bukaa thi
   Aajao ke maaṅ jaan ko waare Ali Asghar
   Pyaare Ali Asghar
-# source_id: nohayonline:9dfcc91ba84b2bddc57d
-# source_url: https://www.nohayonline.com/content_salaam.php?id=33
-# raw_sha256: 12c84b9713d9d770c55806f96717a75eba1956fdd105b6410372755d64dde3b7
 ---
 سونا جنگل گھور اندھیرا اصغر آجا پاس
 

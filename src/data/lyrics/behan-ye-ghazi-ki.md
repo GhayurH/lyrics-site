@@ -1,11 +1,11 @@
 ---
-title: بہن یہ غازی کی رو رو کے بین کرتی ہے
-alternateTitle: Behan Ye Ghazi Ki
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Nasir Asghar Party (SM)
+title: "بہن یہ غازی کی رو رو کے بین کرتی ہے"
+alternateTitle: "Behan Ye Ghazi Ki"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases: []
 published: true
@@ -40,12 +40,6 @@ romanLyrics: |-
   7
   Teri Sakina ke rukhsaar ho gaye nile
   Tamaache khaati hai jab phir tujhe bulaati hai
-# source_id: nohayonline:bf1584b4df78acdb4337
-# source_url: https://www.nohayonline.com/details_content.php?id=1505
-# raw_sha256: b147ca71d353167561ba27f6ad9f82964aa4cb8f024819947f075ad5f775ce1f
-# source_id: ziyaraat:a18f11d82effee12fcc7
-# source_url: https://www.ziyaraat.net/api/noha/188
-# raw_sha256: 96a119b2001c305d58b8c46c668646f0d50f0e5d5c47b35edf8bf857266b15e9
 ---
 
 بہن یہ غازی کی رو رو کے بین کرتی ہے

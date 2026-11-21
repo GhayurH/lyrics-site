@@ -37,9 +37,6 @@ romanLyrics: |-
   Sarkaar Muhammad ho ausat ho ke aakhir ho
   Zahra ke charaaghoṅ se har simt ujaala hai
   Har phul ne sar de ke Islam ko paala hai
-# source_id: nohayonline:999e3501bf2036c3e3ee
-# source_url: https://www.nohayonline.com/details_content.php?id=1853
-# raw_sha256: 5dc478af358d3c6e5b03298fff9dae9079cbd8306371339fbfc3df33ccfc61d0
 ---
 گلشنِ زہرا گلشنِ زہرا
 فاطمہ زہرا

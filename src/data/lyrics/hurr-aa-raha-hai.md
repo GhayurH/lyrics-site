@@ -59,9 +59,6 @@ romanLyrics: |-
   Sajjad kya bayaaṅ ho kehti thi bint-e-Zahra
   Bhaai ki jaaṅ bachaane ik aur Habib aaya
   Mera salaam Fizza pahuncha ke us ko aao
-# source_id: nohayonline:5c5c92aad5ac93a12933
-# source_url: https://www.nohayonline.com/details_content.php?id=1595
-# raw_sha256: 03aecd72097a0f10902b82f71fc141f8f63e51950e250eb4abcb8361e52196fe
 ---
 حر ابنِ رہای آجا میرے بھائی
 

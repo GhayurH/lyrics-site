@@ -53,9 +53,6 @@ romanLyrics: |-
   Nauhe ko sahab ek hi misre meiṅ utaara
   Jab Shadmaaṅ ye rauza-e-Abbas pe bola
   Haq tha ke lahad ho teri Haidar ke baraabar
-# source_id: nohayonline:b8856b57adf45a92aa28
-# source_url: https://www.nohayonline.com/details_content.php?id=1584
-# raw_sha256: b8ae6ef0a990665837c8341204507e81c8ad2fdcfcaf2e687e950d7b1142c654
 ---
 زینب کا جو عباس تھا لشکر کے برابر
 اس کی بھی لحد بن گئی اصغر کے برابر

@@ -52,9 +52,6 @@ romanLyrics: |-
   9
   Takallum keh ke ye beti se rukhsat ho gaye Maula
   Hum ab shaam-e-gharibaaṅ tum se milne aayeṅge Zainab
-# source_id: nohayonline:589c9c8b35f3c710efc2
-# source_url: https://www.nohayonline.com/details_content.php?id=2427
-# raw_sha256: ffb454d6288c13008298c43d2b60d4cbdcf2ae7382dbb3be99643c970f1b6bee
 ---
 بیان کیسے ہو کوفے کا منظر
 یہ کہتے ہوں گے جب بیٹی سے حیدر

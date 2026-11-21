@@ -63,9 +63,6 @@ romanLyrics: |-
   Misam o Rehaan ab gham ka yehi hai sabab
   Lut gae pardes meiṅ Aal-e-Nabi sab ke sab
   Kahte haiṅ Ahl-e-Aza haye Ali ya Ali
-# source_id: nohayonline:32fa0e1b43914664cfba
-# source_url: https://www.nohayonline.com/details_content.php?id=2149
-# raw_sha256: f4c0d401b7a1b4959091079ab37d845fe7537756ba03a7025b2da18a9ff0c14d
 ---
 کرتے تھے سرور بکا ہاے علی یا علی
 آئیے شیر خدا ہاے علی یا علی

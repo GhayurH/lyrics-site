@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Ye diwaana hai diwaana walaa-e-Aal-e-Ahmad ka
   Yehi kehta hai jo baa maarifat Jauhar se milta hai
-# source_id: nohayonline:cd3f9e23c7e1eb648a04
-# source_url: https://www.nohayonline.com/details_content.php?id=3531
-# raw_sha256: 81016206b6bd1e0c5c886fd0aaca566f058751a794a1eff5ea07f8da0325826b
 ---
 صلہ مداح کو یہ مدحت حیدر سے ملتا ہے
 کہ جنت میں اسے گھر مصطفیٰ کے گھر سے ملتا ہے

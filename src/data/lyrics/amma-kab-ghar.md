@@ -48,9 +48,6 @@ romanLyrics: |-
   Mar gayi ek din wo Anwar
   Jo ye kehti thi aksar
   Qabr-e-Nabi par jaayeṅge
-# source_id: nohayonline:8b13fdc4d5e692b0a479
-# source_url: https://www.nohayonline.com/details_content.php?id=453
-# raw_sha256: 7ad5ff6b3359df1f81fa019e537b665e14529b7db1e40bc1fc65cd633cb84169
 ---
 اماں کب گھر جائیں گے
 قید میں کیا مر جائیں گے

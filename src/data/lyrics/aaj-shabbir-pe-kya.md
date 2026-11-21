@@ -180,9 +180,6 @@ romanLyrics: |-
   Maghfirat ummat e aasi ki ho ae baar e khuda
   Hai gawara mujhe jo kuch ke aziyyat howe
   Unko dunya meiṅ bhi aakhirat meiṅ bhi raahat howe
-# source_id: nohayonline:6b99d636530f3250aca1
-# source_url: https://www.nohayonline.com/content_marsiya.php?id=31
-# raw_sha256: e30111b1eb57b4eae2b1b800e69ae590129f32d6fe9d34e0e17055be9c8cfd3a
 ---
 
 آج شبیر پہ کیا عالم تنہائی ہے

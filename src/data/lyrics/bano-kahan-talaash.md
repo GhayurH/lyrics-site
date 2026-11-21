@@ -1,10 +1,10 @@
 ---
-title: بانو کہاں تلاش کرے اپنے لال کو
-alternateTitle: Bano Kahan Talaash
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بانو کہاں تلاش کرے اپنے لال کو"
+alternateTitle: "Bano Kahaṅ Talaash"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Tauqeer Zaidi"
 reciter: "Nasir Zaidi"
 tags: []
@@ -45,18 +45,12 @@ romanLyrics: |-
   8
   Shabbir apne rauze pe bulwaaeṅge zarur
   Tauqir tu nikaal de dil se malaal ko
-# source_id: nohayonline:adfe146900c8f66479f4
-# source_url: https://www.nohayonline.com/content_salaam.php?id=41
-# raw_sha256: f763fe78e97a48beca074b316ab4fb1b827f6d77d87bfe65f9a699e9dbe7aa0e
-# source_id: ziyaraat:64e664027dac36a25a62
-# source_url: https://www.ziyaraat.net/api/noha/2228
-# raw_sha256: 4d230f6739f351523f0869a1922239a20666fa4124e7dffbc255ed42cdb578aa
 ---
 بانو کہاں تلاش کرے اپنے لال کو
 جنگل میں مار ڈالا ہے زہرا کے لال کو
 
 ۱
-زینب کے ساتھ روتی ہیں سب مل کے بی‌بیاں
+زینب کے ساتھ روتی ہیں سب مل کے بیبیاں
 جب دیکھتی تھی تو وہ وقتِ زوال کو
 
 ۲

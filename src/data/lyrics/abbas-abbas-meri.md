@@ -68,9 +68,6 @@ romanLyrics: |-
   Aata hai yaad wohi manzar
   Hal min ki sadaeṅ dete hue
   Shabbir ye kehte haiṅ ro kar
-# source_id: nohayonline:95b0cdb138c1f36c6161
-# source_url: https://www.nohayonline.com/details_content.php?id=1698
-# raw_sha256: b34786c438956b7aedad5edbd30a40d073252f3008109ab4263c1004de42ca2d
 ---
 
 ٹوٹے دلوں کی آس اے میرے مولا عباس

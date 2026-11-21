@@ -78,9 +78,6 @@ romanLyrics: |-
   Haaṅ Rehaan o haaṅ Sarwar ka
   Haaṅ pursa hai haaṅ ye nauha
   Maiṅ ujar gayi baba
-# source_id: nohayonline:883f5aa3ff03a4e42831
-# source_url: https://www.nohayonline.com/details_content.php?id=2063
-# raw_sha256: eac736fbf7016fa026af71371cdf6b4dfab9d11d22aac9ad1929ad9cd9e5ca7f
 ---
 شام غریباں زینب تنہا
 گھور اندھیرا موت کا سایہ

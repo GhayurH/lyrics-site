@@ -13,6 +13,7 @@ published: true
 romanLyrics: |-
   Haye ye bachi kaun hai
   Ye to Sakina lagti hai
+  Chhaayi hai jis par bebasi
 
   1
   Aati hai maqtal ki taraf
@@ -43,13 +44,11 @@ romanLyrics: |-
   Tarpa rahi hai dil mera
   Taari hai gham ki tiragi
   Ye to Sakina lagti hai
-# source_id: nohayonline:9e743b08587df5dc6807
-# source_url: https://www.nohayonline.com/details_content.php?id=227
-# raw_sha256: e8a2bf8d484a98f3317e2cee7a9685e72cb071f2a6a9289167d57438cb3f83d7
 ---
 
 ہائے یہ بچی کون ہے
 یہ تو سکینہ لگتی ہے
+چھائی ہے جس پر بے بسی
 
 ۱
 آتی ہے مقتل کی طرف

@@ -53,9 +53,6 @@ romanLyrics: |-
   Mohib saadaat ke rone ki ek shab ko sada aayi
   Sar-e-Shabbir us bachchi ne paaya to qaza aayi
   Laboṅ pe jis ke nauha tha Sakina ro rahi hai
-# source_id: nohayonline:3da2b3349f75c796d6c4
-# source_url: https://www.nohayonline.com/details_content.php?id=2496
-# raw_sha256: 58dd17ae97c5b97042301d4f85c2de2bcad5af5354e92f38bf51813a9027ccd1
 ---
 چلے آؤ میرے بابا سکینہ رو رہی ہے
 درِ زنداں پر تنہا سکینہ رو رہی ہے

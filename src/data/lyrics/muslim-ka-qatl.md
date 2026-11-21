@@ -53,9 +53,6 @@ romanLyrics: |-
   Maara gaya Kumail Kufe meiṅ ye bhi pyaasa
   Shabbir ko Haqir pyaasa shahid karna
   Ik jaisa zulm dhaana aaghaaz-e-Karbala hai
-# source_id: nohayonline:5b5983464fc24586efa3
-# source_url: https://www.nohayonline.com/details_content.php?id=1401
-# raw_sha256: 47894ab767d25c0ba2393f4e52cd828bb9b591b1403931b643b60cbdcebe7724
 ---
 مسلم کا قتل ہونا آغازِ کربلا ہے
 سید کا خوں بہانا آغازِ کربلا ہے

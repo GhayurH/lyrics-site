@@ -70,9 +70,6 @@ romanLyrics: |-
   Ae mere laal ae mere nur-e-nazar
   Dekh kar tera gehwaara ji luṅ gi maiṅ
   Keh gaye ho to ab ashk pi luṅ gi maiṅ
-# source_id: nohayonline:6269e05a27cdfd529a4b
-# source_url: https://www.nohayonline.com/details_content.php?id=3171
-# raw_sha256: 74b24d05af1c568129395e73105b5a55481715eaea7ed030836a2e5fd36338df
 ---
 میری ماں تم میرا غم نہ کرنا
 بے زباں نے یہ جھولے سے آواز دی

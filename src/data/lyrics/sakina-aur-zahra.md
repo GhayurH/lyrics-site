@@ -58,9 +58,6 @@ romanLyrics: |-
   Qayaamat ban ke aaya tha Takallum waqt-e-maghrib ka
   Idhar baali Sakina ka udhar Zahra ka dam nikla
   Jahaaṅ se in ke jaane ki bhi saaat ek jaisi hai
-# source_id: nohayonline:b580d924edb571b46035
-# source_url: https://www.nohayonline.com/details_content.php?id=2569
-# raw_sha256: baed80f603f9831e018836407ea8990e152a476ce1ff6fd1289203965d67b80f
 ---
 سکینہ اور زہرا کی مصیبت ایک جیسی ہے
 ہے ٹوٹی پسلیاں دونوں کی حالت ایک جیسی ہے

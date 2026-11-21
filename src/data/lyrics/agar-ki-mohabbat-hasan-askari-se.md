@@ -34,9 +34,6 @@ romanLyrics: |-
   Adawat rakho tum har us maulvi se
   Diyar-e-jinaṅ meiṅ Arib-e-sukhan ne
   Kiye kitne tamir ghar shairi se
-# source_id: tajpoints:9fa8fd02ad5c20f27c64
-# source_url: https://tajpoints.com/2022/11/agar-ki-mohabbat-hasan-askari-say-ali.html
-# raw_sha256: 7e33c722a98c2ba71be658f820c569f88d410bbe50d0ed811a254f49dd221ffb
 ---
 ۱
 اگر کی محبت حسن عسکری سے

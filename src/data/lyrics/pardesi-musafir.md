@@ -59,9 +59,6 @@ romanLyrics: |-
   11
   Shabbir ke rauze par Mazhar ka parhuṅ nauha
   Irfan meri maaṅ ne mannat yahi maani hai
-# source_id: nohayonline:f15dcacb2d1cd1093a2b
-# source_url: https://www.nohayonline.com/details_content.php?id=3201
-# raw_sha256: 502060ebae7008de9dbcf7e79a285ee19e4592441262add386eb0b4242cdb239
 ---
 ہل من ناصر ینصرنا
 

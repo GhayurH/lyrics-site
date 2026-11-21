@@ -67,9 +67,6 @@ romanLyrics: |-
   Sarwar o Rehaan ke baazu bano
   Dard meiṅ dubi hui aaye sada
   Kat gaya Shabbir ka sukha gala
-# source_id: nohayonline:1ffc345ae572e4cf0913
-# source_url: https://www.nohayonline.com/details_content.php?id=839
-# raw_sha256: de566d23dc8f085007c72fff051d865f7804d55771a867222c9044897544af68
 ---
 چاند محرم کا نظر آگیا
 بس گئی کربوبلا

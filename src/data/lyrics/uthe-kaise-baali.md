@@ -1,10 +1,10 @@
 ---
-title: اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ
-alternateTitle: Uthe Kaise Baali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ"
+alternateTitle: "Uthe Kaise Baali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shams Jalalpuri"
 reciter: "Anj. Zulfiqaria Jafrabad"
 tags: []
@@ -67,12 +67,6 @@ romanLyrics: |-
   Rasan basta hai sab uthe kaise mayyat
   Khuda jaane kaise hua dafn laasha
   Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
-# source_id: nohayonline:302a1ea2693b04cfb7e2
-# source_url: https://www.nohayonline.com/details_content.php?id=2893
-# raw_sha256: 8ac64593e67acbb41ee7e184e705baed8a385c39ebee54fc9ae8991cfa6ab630
-# source_id: ziyaraat:2ed7aa518d3b8e528045
-# source_url: https://www.ziyaraat.net/api/noha/1204
-# raw_sha256: 3eeb4feb6197faaf2f1053a791c1877ad3fb5c3b63693354a5143c05822056bb
 ---
 اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ
 پریشاں ہے زنداں میں ثانی زہرا

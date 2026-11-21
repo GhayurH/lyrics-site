@@ -82,9 +82,6 @@ romanLyrics: |-
   Ho gayi tamaam qabr aaṅsuoṅ se tar
   Uth ke qabr se jab Ali chale
   Thi yehi sada Batul ki
-# source_id: nohayonline:ff3673800462bcb9b01f
-# source_url: https://www.nohayonline.com/details_content.php?id=1019
-# raw_sha256: 59488c9c779cd17abdcec58af6dfdadf1234bac65ca31d48c34830becebbcd92
 ---
 تھا چہرہ زخمی شکستہ پہلو
 عجب قیامت کی وہ گھڑی تھی

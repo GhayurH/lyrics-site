@@ -48,9 +48,6 @@ romanLyrics: |-
   Shafqat o Aamir bhai se behen juda na ho
   Maut aaye pardes meiṅ waada wafa na ho
   Waqt-e-aakhir khwaahar ke hoṅtoṅ pe rahega naam
-# source_id: nohayonline:e1cd3f76517c3556ccc9
-# source_url: https://www.nohayonline.com/details_content.php?id=3657
-# raw_sha256: f2a249a34749d919158e500669f77289b95d1b7fff5213f8ab56d759cc6d8b45
 ---
 بابا میری صغرا کو کہیے گا سلام
 قاصد جب بھی لے کے آئے اس کا پیام

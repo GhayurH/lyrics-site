@@ -51,9 +51,6 @@ romanLyrics: |-
   Dil meiṅ salaamoṅ ko
   Tere ashaar meiṅ Mahir
   Jo Saalik ki ada chamki
-# source_id: nohayonline:dc46368759186377af4a
-# source_url: https://www.nohayonline.com/details_content.php?id=1215
-# raw_sha256: 07d6de5340a4c40fcd5b72b08cc1619e046f88760060385384be4e107c54a5f1
 ---
 
 کیا عباس نے حملہ

@@ -1,0 +1,113 @@
+---
+title: "تیروں کے مصّلے پر وہ سجدہِ شکرانہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Nasir"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Tiroṅ ke musalle par wo sajda-e-shukraana
+  Shabbir ne batlaaya Islam pe mar jaana
+
+  1
+  Kuchh is tarah laash aayi ik raat ke byahe ki
+  Afsos ke maadar ne bete ko na pehchaana
+
+  2
+  Socho to Musalmaanoṅ ye baat koi kam hai
+  Ahmad ki nawaasi ka darbaar meiṅ aa jaana
+
+  3
+  Ye maaṅ ki wasiyat thi Abbas dilawar ko
+  Jab din pe ban aaye tum din pe mar jaana
+
+  4
+  Dunya to na bhulegi Abbas wafa teri
+  Talwaar nahiṅ khenchi aaqa ka kaha maana
+
+  5
+  Ik tir Ali Asghar ki gardan meiṅ laga aa kar
+  Maasum ka hans dena aur maut ka ghabraana
+
+  6
+  Barchhi Ali Akbar ke sine se nikal aayi
+  Dekha na gaya Shaah se yuṅ dil ka nikal aana
+
+  7
+  Darbaar meiṅ Fizza ne logoṅ se kaha ro kar
+  Aati hai Nabi zaadi tazim ko jhuk jaana
+
+  8
+  Taa hashr rulaayega Maula ki tayyaari par
+  Duldul ki rikaaboṅ se beti ka lipat jaana
+
+  9
+  Maiyyat Ali Asghar ki haathoṅ pe utha bole
+  Allah tere aage hai Shabbir ka nazraana
+
+  10
+  Haider ki jalaalat ka andaaz nazar aaya
+  Wo Shaam-e-Gharibaaṅ meiṅ Zainab ka na ghabraana
+
+  11
+  Bhulega zamaane ko manzar na kabhi Nasir
+  Maasum ki maiyyat ko Shabbir ka dafnaana
+
+  12
+  Nasir ka ye daawa hai banta hai Husain aise
+  Saanche meiṅ imaamat ke Quraan ka dhal jaana
+---
+
+تیروں کے مصلے پر وہ سجدہ شکرانہ
+شبیرنے بتلایا اسلام پہ مر جانا
+
+۱
+کچھ اسطرح لاش آئی اک رات کے بیا ہے کی
+افسوس کہ مادر نے بیٹے کو نہ پہچانا
+
+۲
+سوچو تو مسلمانوں یہ بات کوئی کم ہے
+احمد کی نواسی کا دربار میں آجانا
+
+۳
+یہ ماں کی وصیت تھی عباس دلاور کو
+جب دین پہ بن آئے تم دین پہ مر جانا
+
+۴
+دنیا تو نہ بھولے گی عباس وفا تیری
+تلوار نہیں کھینچی آقا کا کہا مانا
+
+۵
+اک تیر علی اصغر کی گردن میںلگا آکر
+معصوم کا ہنس دینا اور موت کا گھبرانا
+
+۶
+برچھی علی اکبر کے سینے سے نکل آئی
+دیکھا نہ گیا شاہ سے یوں دل کا نکل آنا
+
+۷
+دربار میں فضہ نے لوگوں سے کہا رو کر
+آتی ہے نبی زادی تعظیم کو جھک جانا
+
+۸
+تاحشر رلائے گا مولا کی تیاری پر
+دلدل کی رکابوں سے بیٹی کا لپٹ جانا
+
+۹
+میت علی اصغر کی ہاتھوں پہ اٹھا بولے
+اللہ تیرے آگے ہے شبیر کا نذرانہ
+
+۱۰
+حیدر کی جلالت کا انداز نظر آیا
+وہ شامِ غریباں میں زینب کا نہ گھبرانا
+
+۱۱
+بھولے گا زمانے کو منظر نہ کبھی ناصر
+معصوم کی میت کو شبیر کا دفنانا
+
+۱۲
+ناصر کا یہ دعویٰ ہے بنتا ہے حسین ایسے
+سانچے میں امامت کے قرآن کا ڈھل جانا

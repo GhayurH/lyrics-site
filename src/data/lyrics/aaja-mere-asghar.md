@@ -59,9 +59,6 @@ romanLyrics: |-
   Asif Aamir tere donoṅ zaakir tere
   Asif Aamir donoṅ zaakir donoṅ shaair tere
   Donoṅ hi nauhagar mere raj dulaare aaja
-# source_id: nohayonline:0d6bae153169a457fd1b
-# source_url: https://www.nohayonline.com/details_content.php?id=2112
-# raw_sha256: e2bdbd17ce52e0da0f3f19b68cf95d98a661070845670a8b6fa2fe3b0dcecba5
 ---
 آجا میرے اصغر آجا ماں کے دلارے آ جا
 آجا میرے اصغر میرے راج دلارے آجا

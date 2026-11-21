@@ -4,7 +4,7 @@ alternateTitle: "Aqraba Kat Gaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: Salam
+kalamType: "Salam"
 reciter: "Sibte Jafar"
 tags: []
 aliases: []
@@ -44,9 +44,6 @@ romanLyrics: |-
   Baap to qatl ho jita rahe ye khasta jigar
   Ahl-e-Bait-e-Nabavi par ye jafaaeṅ hoṅ gi
   Balwa-e-aam meiṅ sar par na ridaaeṅ hoṅ gi
-# source_id: nohayonline:7e1d7e7f3f51d058dc2e
-# source_url: https://www.nohayonline.com/content_salaam.php?id=31
-# raw_sha256: 68ac7b4508261a741673c898429de592322b2a87c3d5dde889ed0eab6f39c0ca
 ---
 اقربا کٹ گئے جب شاہ کے باری باری
 اور عدم چلنے کی اس شاہ نے کی تیاری

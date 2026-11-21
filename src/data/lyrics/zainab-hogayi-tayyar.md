@@ -74,9 +74,6 @@ romanLyrics: |-
   Dunya meiṅ hoga Aashura
   Khatm na hogi qayaamat tak teri sarkaar
   Zainab ho gayi tayyaar
-# source_id: nohayonline:557c8bd9bb0fc5028316
-# source_url: https://www.nohayonline.com/details_content.php?id=3660
-# raw_sha256: c96295855281630418db377e24e82ee9860310a774cb574a055d2c224aad8fdb
 ---
 بنت علی ہوں نام بھی ہے زینب
 وعدہ ہے تجھ سے بھیا

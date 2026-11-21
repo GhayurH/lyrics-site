@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Abid tha is tarah thi musalsal ye beriyaaṅ
   Ab paaoṅ thar tharaate haiṅ zanjir ke baghair
-# source_id: nohayonline:6e130a3f0f9736bf28e5
-# source_url: https://www.nohayonline.com/details_content.php?id=733
-# raw_sha256: 25b60fafaf99d3da8ff5a81924c719fdbc76b982f90c3574df71359a9af21154
 ---
 کہتی ہیں قد عماریاں تقریر کے بغیر
 زینب وطن میں آئی ہے شبیر کے بغیر

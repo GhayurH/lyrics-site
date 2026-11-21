@@ -56,9 +56,6 @@ romanLyrics: |-
   Waaiz na likh sake ga us ghamzada ki haalat
   Bas maaeṅ jaanti hai kya hai pisar ki ulfat
   Zinda thi Umm-e-Laila jab tak ye tha laboṅ par
-# source_id: nohayonline:d2756ef44d1a5b7fd211
-# source_url: https://www.nohayonline.com/details_content.php?id=3258
-# raw_sha256: 8bc46d4bdc05a16e22dddbb99e6aedcb490c84df8a5a38d5e3393f3a27ee01a6
 ---
 
 کہتی تھی ام لیلیٰ لاش جواں پہ رو کر

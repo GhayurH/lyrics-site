@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Koi kaantoṅ pe paidal chal raha hai
   Zahir ab raah meiṅ aankheṅ bichha de
-# source_id: nohayonline:c7556dfcccc86090b6e0
-# source_url: https://www.nohayonline.com/details_content.php?id=493
-# raw_sha256: bb2d1128d98b6a003c11de30d166a1b3d1237810e22829d29986f51f316c71ab
 ---
 کوئی ایسا مجاہد تو دکھا دے
 گلے پر تیر کھا کر مسکرا دے

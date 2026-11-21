@@ -52,9 +52,6 @@ romanLyrics: |-
   Dunya se wo jaata hai jo waliyoṅ ka wali hai
   Waiz hai azaadaaroṅ ki aankhoṅ meiṅ samandar
   Kohram hai barpa kohram hai barpa
-# source_id: nohayonline:57b2a4382089ce3fd826
-# source_url: https://www.nohayonline.com/details_content.php?id=3111
-# raw_sha256: 63e5fff995537871ef8baf0d9c418da9b210cbcfb41a08f5a4a7bf16eb778e11
 ---
 
 ام البنین روتی ہے سر پیٹ پیٹ کر

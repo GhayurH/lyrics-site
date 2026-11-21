@@ -48,9 +48,6 @@ romanLyrics: |-
   Haamil alam ka pyaasoṅ ka saqqa nahiṅ raha
   Maatam tha ae Sohail alamdaar-e-Shah ka
   The bain sab ke ae Bani Haashim ke mah laqa
-# source_id: nohayonline:f066031b133f59f07b4d
-# source_url: https://www.nohayonline.com/details_content.php?id=3008
-# raw_sha256: 05591c5276eb3cb40580de159c0abd974366f80ff8c27c5658fb34ca38822d94
 ---
 
 کیا سو رہے ہو نہر پہ عباس با وفا
@@ -68,7 +65,7 @@ romanLyrics: |-
 بیکس حسین دشت میں اب کس کو دے صدا
 
 ۳
-بھیا جو تم نہیں تو ہے بے آس بی‌بیاں
+بھیا جو تم نہیں تو ہے بے آس بیبیاں
 خیموں میں شہ کے ایک قیامت کا ہے سماں
 تشنہ لبی سے بچے سبھی کرتے ہیں فغاں
 رو کر سکینہ کہتی ہے جلد آئیے چچا

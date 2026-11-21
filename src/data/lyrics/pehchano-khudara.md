@@ -65,9 +65,6 @@ romanLyrics: |-
   Irfan ye alfaaz jo Mazhar ne likhe haiṅ
   Insaan to kya chiz hai patthar ko rula de
   Jaise ke ye jumla
-# source_id: nohayonline:337601d658cdaa3c9f37
-# source_url: https://www.nohayonline.com/details_content.php?id=558
-# raw_sha256: 3fd02dabac7ad36517f91178e21e18674fc57200435d3a917f3443efeeb19c2c
 ---
 زندان کی قید کاٹ کے جب ثانیئے زہرا
 پہنچی وطن تو کوئی بھی پہچان نہ پایا

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Awaaz teri Sarwar Shabbir se wabasta
   Abbas se wabasta Rehaan qalam tera
-# source_id: nohayonline:aafc3c490260e46f08be
-# source_url: https://www.nohayonline.com/details_content.php?id=344
-# raw_sha256: b3ec165b44ddea61b3d40060de25a882df063d3ec1b603b58077a2694ec18af2
 ---
 
 آ دیکھ میرے غازی اونچا ہے علم تیرا

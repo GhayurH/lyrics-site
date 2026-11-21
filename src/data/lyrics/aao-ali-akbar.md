@@ -1,10 +1,10 @@
 ---
-title: گرتا ہے پدر رن میں سنبھالو علی اکبر
-alternateTitle: Aao Ali Akbar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گرتا ہے پدر رن میں سنبھالو علی اکبر"
+alternateTitle: "Aao Ali Akbar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hyder"
 reciter: "Anj. Masoomeen"
 tags: []
@@ -52,12 +52,6 @@ romanLyrics: |-
   Nauha gham-e-Shabbir meiṅ Haider ne likha hai
   Lab par ye dua hai
   Maqbul ye ho jaaye bara-e-Ali Akbar
-# source_id: nohayonline:1f1903af1061d4ca6ab0
-# source_url: https://www.nohayonline.com/details_content.php?id=1753
-# raw_sha256: fd7c75fc86511d5a650454da2cbda9ab778165b741b30048914b872f4ec9ed3a
-# source_id: nohayonline:dd91ac3eda258dea5000
-# source_url: https://www.nohayonline.com/details_content.php?id=3774
-# raw_sha256: 38d6c356f944bb2fc03bab83d5bb02619cb5be9f7fd1775b05a73ad225f70a40
 ---
 
 گرتا ہے پدر رن میں سنبھالو علی اکبر

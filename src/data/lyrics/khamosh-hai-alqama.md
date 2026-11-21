@@ -51,9 +51,6 @@ romanLyrics: |-
   Ridaaeṅ bewaoṅ ki chhin rahi haiṅ
   Udaasiyaaṅ puchhti hai Shahid
   Wo paasbaan-e-haram kahaaṅ hai
-# source_id: nohayonline:d9e81397aff5074fd3fb
-# source_url: https://www.nohayonline.com/details_content.php?id=209
-# raw_sha256: c27e024239bba45b810d44f1727f9dc6a8a09bdb42216dc8a595460a6cec0a5d
 ---
 
 خموش ہیں علقمہ کی موجیں

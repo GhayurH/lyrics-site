@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Khulaao aake Zainab o Kulsum ka gala
   Mushkil kusha laqab hai tumhaara Ali Ali
-# source_id: nohayonline:875e35fd28ed087066fd
-# source_url: https://www.nohayonline.com/details_content.php?id=210
-# raw_sha256: 224df10cdcec5411e3b174a992a87967bf47e8699b8fbb606790b8e7ef735d86
 ---
 مولا علی علی میرا آقا علی علی
 دینِ مُحمدی کا سہارا علی علی

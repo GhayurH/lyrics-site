@@ -9,9 +9,6 @@ reciter: "Nasir Jahan"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:b61069fe70505edeaccc
-# source_url: https://www.nohayonline.com/details_content.php?id=876
-# raw_sha256: b3fc311ce398e6819581585cfdb0d024d93460e034a3336934ced3e85c5cf6c4
 romanLyrics: |-
   Karbal ki kahaani jab koi bhi sunaaye ga
   Dil waaloṅ ki aankhoṅ se ik darya bahaaye ga
@@ -42,11 +39,13 @@ romanLyrics: |-
   Zahra Zahra Abbas ka pursa lo
 
   6
+  Mehmaan bulaaye haiṅ ae Kufiyoṅ Sarwar ko
+  Kya kunba Sheh-e-diṅ ka paani bhi na paaye ga
+
+  7
   Sarwar ne uthaaye the sab saathiyoṅ ke laashe
   Shabbir tera laasha ab kaun uthaaye ga
   Zahra Zahra Shabbir ka pursa lo
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---
 کربل کی کہانی جب کوئی بھی سنائے گا
 دل والوں کی آنکھوں سے اک دریا بہائے گا
@@ -77,6 +76,10 @@ romanLyrics: |-
 زہرا زہرا عباس کا پرسہ لو
 
 ۶
+مہمان بلائے ہیں اے کوفیو سرور کو
+کیا کنبہ شہِ دیں کا پانی بھی نہ پائے گا
+
+۷
 سرور نے اٹھائے تھے سب ساتھیوں کے لاشے
 شبیر تیرا لاشہ اب کون اٹھائے گا
 زہرا زہرا شبیر کا پرسہ لو

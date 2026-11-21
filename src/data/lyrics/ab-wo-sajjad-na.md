@@ -80,9 +80,6 @@ romanLyrics: |-
   Dil ke qirtas par yehi likha
   Kitna gehra tha gham ridaoṅ ka
   Ya Khuda jaanta hai ya Sajjad
-# source_id: nohayonline:f4804a4501515ca55b6e
-# source_url: https://www.nohayonline.com/details_content.php?id=2714
-# raw_sha256: 14d59e8c509881c5fa22a577d98f33c00608ff8af9395a1cb90fc0a2d591f74b
 ---
 ہاے ہاے شام ہاے ہاے شام
 نوکِ نیزہ سے دیکھ لو بابا

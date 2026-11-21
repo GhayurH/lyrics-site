@@ -69,9 +69,6 @@ romanLyrics: |-
   Jo dil ki sada hai
   Ro ro ke sunaaya tha Ruqayya ne jo noha
   Baba ye hua kya
-# source_id: nohayonline:1758077a3c7a8d0a2c56
-# source_url: https://www.nohayonline.com/details_content.php?id=2260
-# raw_sha256: 4bd1fe706a097fdf985633f7759b76e1dc406b3d8e7e94636913651428a136dc
 ---
 مسلم کی شہادت پہ یہ کہتی ہے رقیہ
 بابا یہ ہوا کیا

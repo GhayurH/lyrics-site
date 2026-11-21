@@ -42,9 +42,6 @@ romanLyrics: |-
   Kiun kar Suraiya ho bayaaṅ
   Larze meiṅ tha kaun o makaaṅ
   Zainab jo karti thiṅ bayaaṅ
-# source_id: nohayonline:567ce3f43765635cb151
-# source_url: https://www.nohayonline.com/details_content.php?id=260
-# raw_sha256: 2d82edd1b292358a921f27c715766a3fd690bbac61c392daaa6924663454abd9
 ---
 
 صغرا میں لٹ کر آئی ہوں
@@ -72,7 +69,7 @@ romanLyrics: |-
 ۴
 میں تھی بھرا دربار تھا
 وہ شام کا بازار تھا
-بے پردہ تھیں سب بی‌بیاں
+بے پردہ تھیں سب بیبیاں
 
 ۵
 کیونکر ثریا ہو بیاں

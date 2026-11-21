@@ -80,9 +80,6 @@ romanLyrics: |-
   Raza bahattar ke zakhm khaa kar
   Hai sar ba sajda mera baraadar
   Liye hai haathoṅ meiṅ Shimr khanjar
-# source_id: nohayonline:ddbbdd9754553b025ea5
-# source_url: https://www.nohayonline.com/details_content.php?id=2018
-# raw_sha256: e67de774d18fb10a6d436402dc7a2db9d0b111c972b4f5ba2f8fe576aa41d634
 ---
 یہ رو کے کہتی تھی بنت حیدر
 نجف سے بابا مدد کو آؤ

@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Yaad karna Surur us ki turbat
   Jab andhere meiṅ shama jalaana
-# source_id: nohayonline:0ab11d26bd39c7c52896
-# source_url: https://www.nohayonline.com/details_content.php?id=3747
-# raw_sha256: 962c00624e6dc594dc5624409ed709ac1af883d03557bc1f289982dec9f92e6d
 ---
 گھر سکینہ کا ہے قید خانہ
 اب نہ ہو گا وطن اس کا جانا

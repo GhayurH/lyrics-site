@@ -79,9 +79,6 @@ romanLyrics: |-
   Har saans pe Sughra yaad kare
   Aa jao ke Sughra yaad kare
 
-# source_id: nohayonline:ab64ea3ce3658f758ca1
-# source_url: https://www.nohayonline.com/details_content.php?id=1193
-# raw_sha256: ff086f85ebfabc56c670c153a4b0284848e63b4e991e96f7bb50879cd677296e
 ---
 
 فرقت میں سکینہ کی روئے

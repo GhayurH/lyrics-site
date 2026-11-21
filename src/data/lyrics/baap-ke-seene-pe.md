@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Keh liya kehne ko nauha ae Jamal
   Khun meiṅ khaama dubona ab kahaaṅ
-# source_id: nohayonline:05c79b9f6150374bd822
-# source_url: https://www.nohayonline.com/details_content.php?id=837
-# raw_sha256: 717271919a5fe6f76158170d71d668e63ec73bc9777da0be66faa876415a7af7
 ---
 باپ کے سینے پہ سونا اب کہاں
 اے سکینہ وہ بچھونا اب کہاں

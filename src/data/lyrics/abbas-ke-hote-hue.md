@@ -73,9 +73,6 @@ romanLyrics: |-
   Keh do ae Aamir namazi hai Bilal Kazmi
   Shayar-e-Abbas-e-Ghazi hai Bilal Kazmi
   Khauf mahshar ka bhala Abbas ke hote hue
-# source_id: nohayonline:49d1c5f0e04147217496
-# source_url: https://www.nohayonline.com/details_content.php?id=2439
-# raw_sha256: fa543614494bb501d2b9caa70e2bb4a255f1f4c97cf97c116e56eb4f14f9e180
 ---
 
 تھی حرم کی یہ صدا عباس کے ہوتے ہوئے

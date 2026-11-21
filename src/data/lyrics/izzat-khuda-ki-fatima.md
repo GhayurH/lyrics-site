@@ -24,9 +24,6 @@ romanLyrics: |-
   3
   Har shai do jahaaṅ ki un ko jahez meiṅ mili
   Mujh ko qasam Khuda ki Fidak un ke qadam ki dhul hai
-# source_id: tajpoints:6e04c40c457476920aab
-# source_url: https://tajpoints.com/2017/02/izzat-khuda-ki-fatimasa-bint-e-nabisaww.html
-# raw_sha256: 3e54c33a192655625954023b3638ba65f3ee4a2fd207e297f208f8ade39ac1de
 ---
 عزت خدا کی فاطمہ بنتِ نبی بتول ہیں
 وہ جس کے احترام میں در پہ کھڑے رسول ہیں

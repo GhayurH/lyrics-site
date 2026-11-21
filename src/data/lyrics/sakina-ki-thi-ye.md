@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Raza ke liye tu dua itni kar de
   Mile us ko raah-e-jinaaṅ Zuljanaah
-# source_id: nohayonline:248790dd094c580f4829
-# source_url: https://www.nohayonline.com/details_content.php?id=2003
-# raw_sha256: 4c816443e8fe009fe708155209ae9673b4a6668a3eab43965ae73a5a6c789abc
 ---
 سکینہ کی تھی یہ فغاں ذوالجناح
 ہیں بابا ہمارے کہاں ذوالجناح

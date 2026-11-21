@@ -57,9 +57,6 @@ romanLyrics: |-
   Aur qayamat kya guzregi
   Bazaaroṅ meiṅ beparda hai
   Parda sikhane waali Zainab
-# source_id: nohayonline:bf490706c4610b24edc4
-# source_url: https://www.nohayonline.com/details_content.php?id=893
-# raw_sha256: 2dddf29e8c38759f5c0f25d550bbd97c7c804353b3ffc021f70194a5ace1998f
 ---
 قیدی بنی مقتل میں کھڑی ہے
 قیدی چھڑانے والی زینب

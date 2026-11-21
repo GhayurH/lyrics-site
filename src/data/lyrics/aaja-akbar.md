@@ -78,9 +78,6 @@ romanLyrics: |-
   Maaṅ tujh pe fida aaja Akbar
   Haasil kya phir maiṅ qabr meiṅ jab so jaauṅ gi aaja
   Haye Akbar haye haye Akbar
-# source_id: nohayonline:07ab98b29d677c5feb3f
-# source_url: https://www.nohayonline.com/details_content.php?id=2365
-# raw_sha256: 0040d416b88044a1d147647a33c4d43b5a00871aa5bdea7e25451e711af60b99
 ---
 ارمان یہی ہوتا ہے
 بیٹے کے لئے مادر کا

@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Fizza ki hifaazat ke liye khinch gayi talwaar
   Zainab ka nahiṅ koi tarafdaar
-# source_id: nohayonline:c87c0c7a751a6ddcb76d
-# source_url: https://www.nohayonline.com/details_content.php?id=1105
-# raw_sha256: e7d9dc340e658fe58d7ed252b4d54101ae2e6a25ca1b72aad5f297f11c7f945a
 ---
 خدایا زینب بے ردا شام کا بازار
 آتے ہیں نظر حشر کے آثار

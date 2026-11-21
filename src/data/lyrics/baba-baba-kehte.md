@@ -66,9 +66,6 @@ romanLyrics: |-
   Asif Aamir kaise sunaaye mazluma ka nauha
   Ahl-e-haram ko kis tarah de masuma ka pursa
   Zulm-e-sitamgar sehte sehte so gayi Sakina
-# source_id: nohayonline:821b4121b6c1b8c8f6d2
-# source_url: https://www.nohayonline.com/details_content.php?id=2134
-# raw_sha256: ac254c6abcbbde81613afc967a52394f41ac1b309e1581a47a448e7223b24593
 ---
 سو گیء سکینہ سو گیء سکینہ
 

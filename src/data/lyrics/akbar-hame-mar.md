@@ -56,9 +56,6 @@ romanLyrics: |-
   Akbar gaye maqtal meiṅ gire ziṅ se zamiṅ par
   Laashe se Takallum ye kaha Sheh ne tarap kar
   Thehro abhi kuchh der na ho khuld rawaana
-# source_id: nohayonline:65b7f7c26969b6ea4e63
-# source_url: https://www.nohayonline.com/details_content.php?id=3622
-# raw_sha256: 39e6eee17d2b402e67077a11fd535f69aa77b37b4b629ecc12687a663734ea80
 ---
 غربت کی گھڑی یہ آئی آنکھوں سے چلی بینائی
 تم گھر سے چلے ہو ایسے جاتا ہے جنازہ جیسے

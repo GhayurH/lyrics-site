@@ -61,10 +61,6 @@ romanLyrics: |-
   Aa rahi thi sada-e-wawaila
   Bain karti thi Saani-e-Zehra
   Maaṅ ko sab kuchh sunauṅgi ja kar
-# source_id: nohayonline:d8da268b3dc6bb5d845b
-# editorial_uncertainty: Archived HTML confirms eight stanzas with complete Maaṅ ko sab kuchh refrain; abbreviated opening cues omitted. Source grammar in stanzas three/four and hogi bas intezar in stanza seven require audio/print review.
-# source_url: https://www.nohayonline.com/details_content.php?id=3186
-# raw_sha256: 684278f89ab50d117e938dbc1e997befcbb66abea03e1c622cbfa6f59ff2aeb4
 ---
 
 اب وطن جا رہی ہوں اے بھائی

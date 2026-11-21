@@ -124,9 +124,6 @@ romanLyrics: |-
   Kahta tha Shabbir se har laasha-e-besar
   Jab tak jiyeṅ ge tujh pe mareṅ ge
   Maula tere baad nahiṅ jine ka armaan
-# source_id: nohayonline:d6e7edf24868a8de108c
-# source_url: https://www.nohayonline.com/details_content.php?id=1319
-# raw_sha256: bcc8d8d70416ed8c9d0e3cd4675a186cbbbd303f455fcd3bc891381507407120
 ---
 محبتوں کی انتہا ہے تجھ سے ابنِ سیدہ
 ہماری روح میں بسا عجب ہے رشتۂ وفا

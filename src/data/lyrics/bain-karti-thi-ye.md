@@ -51,9 +51,6 @@ romanLyrics: |-
   Haaye wo ghamzada Umm-e-Farwa
   Umr bhar hi rahi mahw-e-girya
   Aaj bhi hai Suhail us ka naala
-# source_id: nohayonline:24ff78d6c16ff6202050
-# source_url: https://www.nohayonline.com/details_content.php?id=1891
-# raw_sha256: b088627724cec0ce199c5d8eea179b95be431845f3122b52205da84a76325c83
 ---
 
 بین کرتی ہے یہ ام فروا

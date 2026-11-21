@@ -59,9 +59,6 @@ romanLyrics: |-
   Hai Amud o Shaadmaaṅ ki ye dua Abbas se
   In pe ho nazar-e-karam shaam o sahar Abbas ka
   Hazrat-e-Abbas maula Hazrat-e-Abbas
-# source_id: nohayonline:65fa78ab19ec4bcef630
-# source_url: https://www.nohayonline.com/details_content.php?id=2238
-# raw_sha256: 715ecda55c978ed376ad56e9a4dd181a9d85415ff50fb58f2bf474597af58c10
 ---
 
 ہر گلی عباس کی ہے ہر نگر عباس کا

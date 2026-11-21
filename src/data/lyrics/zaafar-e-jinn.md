@@ -119,9 +119,6 @@ romanLyrics: |-
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn
-# source_id: nohayonline:3b2707f66d09984bfffe
-# source_url: https://www.nohayonline.com/details_content.php?id=2541
-# raw_sha256: 952cb238789a2aff7f375f5095b4ed04f2ebb66a2dd49e513858afb0abaa6e66
 ---
 غلام فاتح بیر العلم میں زعفر ہوں
 قوم جنات کا شاہ امم میں زعفر ہوں

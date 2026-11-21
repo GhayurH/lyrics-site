@@ -73,9 +73,6 @@ romanLyrics: |-
   Duaa-e-khair hai lab par
   Zara kuch der ruk ja
 
-# source_id: nohayonline:d8a125c40bc80e70f6f4
-# source_url: https://www.nohayonline.com/details_content.php?id=3658
-# raw_sha256: 3e16d7e410ee6be21d41f3b210e65ff87a9406a6dd61564ebe0b78034f4b42a6
 ---
 
 ہائے حسین ہائے حسین

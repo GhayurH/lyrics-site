@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Yawar chalo janaaze ko kaandhoṅ pe le chaleṅ
   Shioṅ ne ek shabiha-e-janaaza banaayi hai
-# source_id: nohayonline:b324c249412b2ba53df1
-# source_url: https://www.nohayonline.com/details_content.php?id=2915
-# raw_sha256: 155250e3f387c1d46293821a0273f001f3c7a3b15185f15cc01a87404748b482
 ---
 شیرِ خدا نے سجدے میں تلوار کھائی ہے
 امت یتیم ہوگئی یا رب دہائی ہے

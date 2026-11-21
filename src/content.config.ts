@@ -27,8 +27,12 @@ const lyrics = defineCollection({
       "English",
       "Balti",
       "Panjabi",
+      "Saraiki",
+      "Balochi",
     ]),
-    lang: z.enum(["ur", "ar", "fa", "en", "bft", "pa"]),
+    // Script-specific codes label original language, never its Roman edition.
+    // Unqualified pa/bft remain valid for Latin-script originals awaiting review.
+    lang: z.enum(["ur", "ar", "fa", "en", "pa", "pa-Arab", "skr", "skr-Arab", "bft", "bft-Arab", "bal-Arab"]),
     direction: z.enum(["rtl", "ltr"]),
     poet: z.string().optional(),
     // A source may have multiple independently searchable reciters.

@@ -75,9 +75,6 @@ romanLyrics: |-
   Baap se jab beti ne ki ilteja
   Waqt-e-shaam-e-gharibaaṅ jo duṅ maiṅ sada
   Aap aa kar barhana mera hausla
-# source_id: nohayonline:2dff4f7a204152a5e9c4
-# source_url: https://www.nohayonline.com/details_content.php?id=2851
-# raw_sha256: c3cf51a8ddd15eedfaf704f7d4f9280cede9e51abaff132dc5b291677610312d
 ---
 
 باپ کا گھر سے تابوت جس دم چلا

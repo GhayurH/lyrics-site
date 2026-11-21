@@ -56,9 +56,6 @@ romanLyrics: |-
   11
   Shaqi ne barh ke sahaara liya muazzin ka
   Jo dekha Hazrat-e-Sajjad ke jawaab ka rang
-# source_id: nohayonline:b5b46b1a68854d58b304
-# source_url: https://www.nohayonline.com/details_content.php?id=1053
-# raw_sha256: 1d3e7620eaa5b1f2677c36db1375c83473bf6ba1eccb0a967e3519eec675e72b
 ---
 رچا تھا اکبر مہرو پہ کیا شباب کا رنگ
 کہاں ہے گلشنِ ہستی میں اس گلاب کا رنگ

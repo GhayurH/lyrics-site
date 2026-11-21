@@ -17,9 +17,6 @@ romanLyrics: |-
   Kar gur ke donoṅ ke hi haathoṅ meiṅ hai taqdir
   Donoṅ hi haqiqat meiṅ wali Ibn-e-wali haiṅ
   Ik sar-e-Muhammad hai to ik sar-e-Ali haiṅ
-# source_id: tajpoints:f2bad8d94f859b86db68
-# source_url: https://tajpoints.com/2017/02/karbala-moalla-mein-bain-ul-haramain-ka.html
-# raw_sha256: a437c9c1c3d56daec015c991339033ec5cce8e930abdea00b4ac96383c1293ac
 ---
 
 ۱

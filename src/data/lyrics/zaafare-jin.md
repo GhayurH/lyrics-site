@@ -91,9 +91,6 @@ romanLyrics: |-
   Buland neze pe tha shaadmaaṅ Husain ka sar
   Machi thi lut Nabi ke qayaam jalte the
   Saroṅ ko pitte ahl-e-haram nikalte the
-# source_id: nohayonline:9ce5e835b448c43de6bf
-# source_url: https://www.nohayonline.com/details_content.php?id=999
-# raw_sha256: 78881a831e2211decd21c7f0ed57e7c3adfc2e9abe9b8a055e7e324c69c82cbd
 ---
 جو پہنچا عصر کو دشت بلا میں زعفر جن
 گھرا عجیب غم نارواں میں زعفر جن

@@ -73,9 +73,6 @@ romanLyrics: |-
   Dard meiṅ duba Zainab ka nauha
   Likhe Bilaal aur Aamir sunaaye
   Saani-e-Zahra kis ko bulaaye
-# source_id: nohayonline:72159e6f6ffdda284035
-# source_url: https://www.nohayonline.com/details_content.php?id=3603
-# raw_sha256: 796c2a0cd4826952fa0a439ef666164fcc1e2ff7ba15989e3ba2d9b732df964d
 ---
 
 کون ہے جو امداد کو آئے

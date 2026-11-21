@@ -48,9 +48,6 @@ romanLyrics: |-
   Jo hum pe ho gayi pardes meiṅ jafa sun lo
   Jo sun sako to shahaadat ka waaqia sun lo
   Jawaab deti hai himmat salaam lo ammaṅ
-# source_id: nohayonline:97e1717140c72098a2c2
-# source_url: https://www.nohayonline.com/details_content.php?id=3352
-# raw_sha256: 051a31a1006a45bce3b604a542c3c0295387da9175db024aed7c9935e0651a9d
 ---
 یہ بولی بیٹی باحسرت سلام لو اماں
 سنو ہماری مصیبت سلام لو اماں

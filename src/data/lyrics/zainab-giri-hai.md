@@ -54,9 +54,6 @@ romanLyrics: |-
   Lafzoṅ meiṅ Aini kaise musibat likhe koi
   Aamir wo rassiyoṅ se kalaai bandhi hui
   Girte hue zabaaṅ pe Ali ya Ali hi tha
-# source_id: nohayonline:fb6cc76d6eeafd4f922d
-# source_url: https://www.nohayonline.com/details_content.php?id=1296
-# raw_sha256: 5d7a5c20c7b30933743df8a996a4235e4a09a99750df8da173bd57dd47d43009
 ---
 
 زینب گری ہے ناقہ سے عباس کی طرح

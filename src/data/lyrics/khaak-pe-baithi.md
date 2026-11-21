@@ -74,9 +74,6 @@ romanLyrics: |-
   Mehsus ye Aamir aur Bilal
   Shaayad Zainab laasha-e-Sarwar
   Khun meiṅ duba dekh rahi hai
-# source_id: nohayonline:8c94c2dd1dff4cec4649
-# source_url: https://www.nohayonline.com/details_content.php?id=3581
-# raw_sha256: 13fedb387f6160d5c6f3e8f6b72d8c3249dc45795500ac8cd1517f688aecc0f4
 ---
 ہائے زینب ہائے یتیمی
 کوفے والوں لٹ گئی زینب

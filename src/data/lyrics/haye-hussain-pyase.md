@@ -1,202 +1,159 @@
 ---
-title: "ہاے حسین پیاسے حسین"
-alternateTitle: "Haye Husain Pyase"
+title: "دمشق میں جو غریبوں کا کارواں پہنچا"
+alternateTitle: "Haye Hussain Pyase"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rasheed Shaheedi"
-reciter: "Hadi Ali Khan Muslim"
 tags: []
 aliases: []
-published: true
-romanLyrics: |-
-  Haye Husain pyase Husain
+published: false
+romanLyrics: 'Haaye hussain pyaase hussain
+
 
   1
-  Jaan-e-Payambar dilbar-e-Zehra
-  Apna bhara ghar tu ne lutaya
-  Ibn-e-Ali ehsaan hai tera
-  Tu hai muhaafiz Kaaba-e-haq ka
-  Sajde meiṅ sar tera kata
+
+  Damishk mai jo gareebeon ka khafela pahoncha
+
+  Yazeede nahes ne darbar me bula bheja
+
+  Bahen se shaye ki shahadath ka waqeya poocha
+
+  Tarap ke binthe Ali ne yazeed se ye kaha
+
+  Zameen ki goad me Islam ka sitara hai
+
+  Mere gareeb ko lakheon ne milke mara hai
+
 
   2
-  Dhund rahe haiṅ ran meiṅ Sarwar
-  Bechaini se laasha-e-Akbar
-  Khaate haiṅ har gaam pe thokar
-  Kaun sahaara dega barh kar
-  Aalam-e-ghurbat dasht-e-bala
+
+  Kaha yazeed se Zainab ne aye sitham ara
+
+  Ghazab kiya tere lashkar ne roze ashora
+
+  Mere Hussain ko jangul me ghair kar mara
+
+  Ali ka kardiya barbad ghar ka ghar sara
+
+  Jo bekafan hai abhi tak nabi ka pyaara hai
+
 
   3
-  Zainab ki aankhoṅ ke ujaale
-  Aun o Muhammad ran ko sidhaare
-  Jang hui aur khuṅ meiṅ nahaaye
-  Maqtal se jab aaye laashe
-  Karti hai Zainab shukr-e-Khuda
+
+  Suhaag ojra kisi ka kisiki kook jali
+
+  Kisi ka jalgaya daman rida kisi ki chini
+
+  Kisi ki maang me karbobala ki qakh padi
+
+  Nabi ki aal hai zinda me ya Ali madadi
+
+  Shaqi ne sibthe payember ka sar othara hai
+
 
   4
-  Byaah hui kuchh der na guzri
-  Ran ko chali Qasim ki sawaari
-  Kubra baithi soch rahi thi
-  Ab ujre gi maang hamaari
-  Aa gaya dulha ka laasha
+
+  Shaheed ho gaye Abbas Qasim o Akbar
+
+  Woh meray Aon o Muhammad wo meray noor e nazar
+
+  May tujh ko dhoondo kahan be zuban Ali Asghar
+
+  Batao bibiyo may rowon aaj kis kis par
+
+  Shaqi ne sibt e payambar ka sar utara hay
+
+  Meray ghareeb ko lakhon ne mil ke mara hay
+
 
   5
-  Thaame kamar ye kehte the Sarwar
-  Dasht-e-bala meiṅ shaane kata kar
-  Qatl hue Abbas-e-dilaawar
-  De pursa mujhko meri khwaahar
-  Ho gaya Zainab maiṅ tanha
+
+  Wo mere aaono Mohammed wo mere noore nazar
+
+  Mai tujhko doondho kahan bezaban Ali Asghar
+
+  Bathao bibion roen mai aaj kiskis par
+
+  Kidhar gaye mere abbaso khasimo Akbar
+
+  Jahan mai Zainab dilger besahara hai
+
 
   6
-  Bain yehi karti thi Sakina
-  Chhor gaye kiuṅ mujhko tanha
-  Barhta hai jangal ka andhera
-  Aa jaao aa jaao baba
-  Deti huṅ kab se tum ko sada
+
+  Ye ranjo ghamo sitam aur jafa kabtak
+
+  Rasool zadiyan balwe me berida kabtak
+
+  Rahegi qaid me aulade murtuza kabtak
+
+  Nabi ki aal pe ye zulme narewa kabtak
+
+  Mujhe tho mauth hi aalam me ab gawara hai
+
 
   7
-  Soti thi sine pe tumhaare
-  Tum ne mere naaz uthaaye
-  Shimr ne maare mujhko tamaanche
-  Khuṅ tapakta hai kaanoṅ se
-  Nind nahiṅ aati baba
 
-  8
-  Kaisi ghari hai Aal-e-Nabi par
-  Ghash meiṅ pare haiṅ Aabid-e-muztar
-  Keh de koi Abbas se jaa kar
-  Chhin raha hai Shimr-e-sitamgar
-  Bint-e-Ali ke sar se rida
+  Na marte marte kisi ek ko mila paani
 
-  9
-  Zainab ke baazu meiṅ rasan hai
-  Aur laboṅ par bas ye sukhan hai
-  Laash teri begor o kafan hai
-  Aaj bahut majbur behan hai
-  Sar pe nahiṅ chaadar bhaiya
+  Na bekason ke qareeb aaya bewafa paani
 
-  10
-  Hum pe ye ehsaaṅ hai Zainab ka
-  Jis ne diya majlis ka saliqa
-  Karte raho maatam pyaasoṅ ka
-  Deṅ ge tumheṅ Abbas sahaara
-  Bint-e-Payambar deṅ gi dua
+  Tadap ke reh gaye bachche na mil saka paani
 
-  11
-  Chhalke kuchh itne aankhoṅ ke saagar
-  Phaili kuchh itni ashkoṅ ki chaadar
-  Chashm-e-falak hairaan hai is par
-  Soch rahe haiṅ saare samandar
-  Kitne haiṅ aakhir ashk-e-aza
+  Wo tadpe paani ko, unpe tadap gaya paani
 
-  12
-  Zist ka maqsad pyaasoṅ ka gham
-  Hota rahe ta hashr ye maatam
-  Le ke yuṅhi Abbas ka parcham
-  Parwaane Shabbir ke har dam
-  Dete raheṅ ge bas ye sada
-
-  13
-  Kijiye Rashid is gham ki hifaazat
-  Ashk-e-aza hai qalb ki quwwat
-  Karte rahe har dam ye ibaadat
-  Maatam hai Shabbir ki nusrat
-  Gunji faza meiṅ bas ye sada
-# source_id: nohayonline:10b811b2c7e5289da004
-# source_url: https://www.nohayonline.com/details_content.php?id=1960
-# raw_sha256: 5d43210e688b7068d970a818126359ca901b4957ca7e28632c620b240bcf9e64
+  Zameen jalti hai har zarra ek sharara hai'
 ---
 
-ہاے حسین پیاسے حسین
+دمشق میں جو غریبوں کا کارواں پہنچا
+یزید نیست نے دربار میں بلا بھیجا
+بہن نے شہہ کی شہادت کا واقعہ پوچھا
+تڑپ کے بنت علی نے یزید سے یہ کہا
 
 ۱
-جان پیمبر دلبر زہرا
-اپنا بھرا گھر تو نے لٹایا
-ابنِ علی احسان ہے تیرا
-تو ہی محافظ کعبہء حق کا
-سجدے میں سر تیرا کٹا
+زمین کی گود میں اسلام کا ستارہ ہے
+میرے غریب کو لاکھوں نے مل کر مارا ہے
+ہائے حسین پیاسے حسین
+کہا یزید سے زینب نے ستم آرائ
 
 ۲
-ڈھونڈ رہے ہیں رن میں سرور
-بے چینی سے لاشہء اکبر
-کھاتے ہیں ہر گام پہ ٹھوکر
-کون سہارا دے گا بڑھ کر
-عالم غربت دشتِ بلا
+غضب کیا تیرے لشکر نے روز عاشورہ
+میرے حسین کو جنگل میں گھیر کر مارا
+علی کا کر دیا برباد گھر کا گھر ستارہ
+جو بے کفن ہے ابھی تک نبی کا پیارا ہے
 
 ۳
-زینب کی آنکھوں کے اجالے
-عون و محمد رن کو سدھارے
-جنگ ہوئی اور خوں میں نہائے
-مقتل سے جب آئے لاشے
-کرتی ہے زینب شکر خدا
+ہائے حسین
+سہاگ اجڑا کسی کا کسی کی کوکھ جلی
+کسی کا جل گیا دامن ردا کسی کی چھنی
 
 ۴
-بیاہ ہوئی کچھ دیر نہ گزری
-رن کو چلی قاسم کی سواری
-کبریٰ بیٹھی سوچ رہی تھی
-اب اجڑے گی مانگ ہماری
-آ گیا دولہا کا لاشہ
+کسی مانگ میں کرب و بلا کی خاک پڑی
+نبی کی آل ہے زنداں میں یاعلی مددی
+جہاں میں زینب دل گیر بے سہارا ہے
 
 ۵
-تھامے کمر یہ کہتے تھے سرور
-دشتِ بلا میں شانے کٹا کر
-قتل ہوئے عباس دلاور
-دے پرسہ مجھکو میری خواہر
-ہو گیا زینب میں تنہا
+یہ رنج و غم پہ ستم جور اور جفا کب تک
+رسول زادیاں بلوے میں بے ردا کب تک
+رہے گی قید میں اولاد مرتضیٰ کب تک
 
 ۶
-بین یہی کرتی تھی سکینہ
-چھوڑ گئے کیوں مجھکو تنہا
-بڑھتا ہے جنگل کا اندھیرا
-آجاؤ آجاؤ بابا
-دیتی ہوں کب سے تم کو صدا
+نبی کی آل پر یہ ظلم ناروا کب تک
+مجھے تو موت ہی عالم میں اب گوارا ہے
 
 ۷
-سوتی تھی سینے پہ تمہارے
-تم نے میرے ناز اٹھائے
-شمر نے مارے مجھکو طمانچے
-خوں ٹپکتا ہے کانوں سے
-نیند نہیں آتی بابا
+وہ میرے عون و محمد وہ میرے نورِ نظر
+میں تجھکو ڈھونڈوں کہاں بے زباں علی اصغر
+بتاؤ بی بیوں روؤں میں آج کس کس پر
+کدھر گےء میرے عباس و قاسم و اکبر
 
 ۸
-کیسی گھڑی ہے آل نبی پر
-غش میں پڑے ہیں عابد مضطر
-کہہ دے کوئی عباس سے جا کر
-چھین رہا ہے شمر ستمگر
-بنت علی کے سر سے ردا
+جہاں میں زینب دلگیر بے سہارا ہے
+نہ مرتے مرتے کسی ایک کو ملا پانی
+نہ بیکسوں کے قریب آیا بے وفا پانی
 
 ۹
-زینب کے بازو میں رسن ہے
-اور لبوں پر بس یہ سخن ہے
-لاش تیری بے گور و کفن ہے
-آج بہت مجبور بہن ہے
-سر پہ نہیں چادر بھیا
-
-۱۰
-ہم پہ یہ احساں ہے زینب کا
-جس نے دیا مجلس کا سلیقہ
-کرتے رہو ماتم پیاسوں کا
-دیں گے تمہیں عباس سہارا
-بنت پیمبر دیں گی دعا
-
-۱۱
-چھلکے کچھ اتنے آنکھوں کے ساگر
-پھیلی کچھ اتنی اشکوں کی چادر
-چشمِ فلک حیران ہے اس پر
-سوچ رہے ہیں سارے سمندر
-کتنے ہیں آخر اشک عزا
-
-۱۲
-زیست کا مقصد پیاسوں کا غم
-ہوتا رہے تا حشر یہ ماتم
-لے کے یونہی عباس کا پرچم
-پروانے شبیر کے ہر دم
-دیتے رہیں گے بس یہ صدا
-
-۱۳
-کیجیے رشید اس غم کی حفاظت
-اشک عزا ہے قلب کی قوت
-کرتے رہے ہر دم یہ عبادت
-ماتم ہے شبیر کی نصرت
-گونجی فضا میں بس یہ صدا
+تڑپ کے رہ گےء بچے نہ مل سکا پانی
+وہ تڑپے پانی کو ان پہ تڑپ گیا پانی
+زمین جلتی ہے ہر زرہ اک شرارہ ہے

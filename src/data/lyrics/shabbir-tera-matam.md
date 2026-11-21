@@ -1,78 +1,126 @@
 ---
-title: ماتم کرو شبیر کا ہائے زینب دلگیر کا
-alternateTitle: Shabbir Tera Maatam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: "Jawad Jaffri"
-reciter: "Hasan Sadiq"
+title: "سیدانیاں کرتی ہیں شبیر تیرا ماتم"
+alternateTitle: "Shabbir Tera Matam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mazhar Abidi"
 tags: []
 aliases: []
-published: true
+published: false
 romanLyrics: |-
-  Maatam karo Shabbir ka haaye Zainab-e-dilgir ka
-  Shabbir tera maatam momin ki nishaani hai
+  Mazlum-e-Karbala
+  Zabih-e-Karbala
+  Qatil-e-Nainawa
 
-  Bakhshish ki zamaanat hai jo aankh meiṅ paani hai
-  Shabbir tera maatam momin ki nishaani hai
+  Saydaniya karti hai shabbir tera matam
 
   1
-  Ye daagh nahiṅ logoṅ hai moajiza maatam ka
-  Sine pe likhi mere Karbal ki kahaani hai
+  E waaris e quranam e shaahe shahidanam
+  Besar hai sabhi laashe pamaali ki zad par hai
+  Jalti hui reti par sadaat khule sar hai
+  Aur nauha kuna aalam
 
   2
-  Ghazi ka alam le ke baazaar meiṅ aaye haiṅ
-  Rudaad asiroṅ ki dunya ko sunaani hai
+  Naizoṅ ka ghana jangal aur raat ka sannata
+  Pehre pe nabi zaadi karti hai yehi nauha
+  Lachaar huwe ab hum
 
   3
-  Zainab ne shuru ki thi zindaaṅ meiṅ azaadaari
-  Sadiyoṅ se chali ye rit puraani hai
+  Betoṅ ko nahi roti ghamkhwar teri khwahar
+  Ghazi ko bulaati hai ek haath rakhe dil par
+  Bechain o dilafgaaram
 
   4
-  Aati hai sada ab bhi Karbal ki fazaaoṅ se
-  Shabbir haqiqat meiṅ Islam ka baani hai
+  Ab lutne aate hai sadaat ko ye zaalim
+  Kis darja rulaate hai sadaat ko ye zaalim
+  Ab jaaye kahaṅ pur gham
 
   5
-  De pursa bahattar ka Zahra ke lute ghar ka
-  Har saal Muharram meiṅ ye yaad dilaani hai
+  Haq teri mohabbat ka kulsum ada karti
+  Aulaad agar hoti to tujhpe fida karti
+  Karti hai bapa payham
 
   6
-  Mazlum ke maatam meiṅ marna hi saadat hai
-  Waise bhi Jawad ik din ye jaan to jaani hai
-# source_id: nohayonline:c132085119739b0c9752
-# source_url: https://www.nohayonline.com/details_content.php?id=2313
-# raw_sha256: 1bf0f25eff1f335faa1d42e29ad33ea8893697c8d45c89823885c193c97aabeb
-# source_id: ziyaraat:b58d620548aba19828ad
-# source_url: https://www.ziyaraat.net/api/noha/34
-# raw_sha256: 25b5971a958b69cf1a417610d8b3c878731043eedaae3c5d4965c6d1d234e1ef
----
-ماتم کرو شبیر کا ہائے زینب دلگیر کا
-شبیر تیرا ماتم مومن کی نشانی ہے
+  Baba hai kahaṅ mere hai bain sakina ke
+  Mar jaungi ro ro ke bin shaah e madina ke
+  Kya is ko bataye hum
 
-بخشش کی ضمانت ہے جو آنکھ میں پانی ہے
-شبیر تیرا ماتم مومن کی نشانی ہے
+  7
+  Beparda bahan teri bazaar meiṅ jayegi
+  Amma ki tarha zainab darbar meiṅ jayegi
+  Kya is se bara hai gham
+
+  8
+  Hamshir rasan basta jab qaid meiṅ jayegi
+  Zinda meiṅ tera matam ek roz karayegi
+  Bemonis o beyaaram
+
+  9
+  Ji bhar ke kiya matam abbas e dilawar ka
+  Qasim ali asghar ka hamshakle payambar ka
+  Ta hashr kareṅge hum
+
+  10
+  Ye mazhar o mesum ki din raat azadari
+  Manzur kare zehra ye nauhoṅ ki tayyari
+  Ek pal bhi nahi ho kam
+---
+
+مظلومِ کربلا
+ذبیحِ کربلا
+قتیلِ نینوا
+
+سیدانیاں کرتی ہیں شبیر تیرا ماتم
 
 ۱
-یہ داغ نہیں لوگوں ہے معجزہ ماتم کا
-سینے پہ لکھی میرے کربل کی کہانی ہے
+اے وارث قرآنم اے شاہ شہیدانم
+بے سر ہیں سبھی لاشے پامالی کی ضد پر ہے
+جلتی ہُوئی ریتی پر سادات کھلے سر ہے
+اور نوحہ کناں عالم
 
 ۲
-غازی کا علم لے کے بازار میں آئے ہیں
-روداد اسیروں کی دنیا کو سنانی ہے
+نیزوں کا گھنا جنگل اور رات کا سناٹا
+پہرے پہ نبی زادی کرتی ہے یہی نوحہ
+لاچار ہوے اب ہم
 
 ۳
-زینب نے شروع کی تھی زنداں میں عزاداری
-صدیوں سے چلی یہ ریت پرانی ہے
+بیٹوں کو نہیں روتی غم خوار تیری خواہر
+غازی کو بلاتی ہے اک ہاتھ رکھے دل پر
+بے چین و دل افگارم
 
 ۴
-آتی ہے صدا اب بھی کربل کی فضاؤں سے
-شبیر حقیقت میں اسلام کا بانی ہے
+اب لوٹنے آتے ہیں سادات کو یہ ظالم
+کس درجہ رلاتے ہیں سادات کو یہ ظالم
+اب جاے کہاں پر غم
 
 ۵
-دے پرسہ بہتر کا زہرا کے لٹے گھر کا
-ہر سال محرم میں یہ یاد دلانی ہے
+حق تیری محبت کا کلثوم ادا کرتی
+اولاد اگر ہوتی تو تجھ پہ فدا کرتی
+کرتی ہے بپا پیہم
 
 ۶
-مظلوم کے ماتم میں مرنا ہی سعادت ہے
-ویسے بھی جواد اک دن یہ جان تو جانی ہے
+بابا ہیں کہاں میرے ہے بین سکینہ کے
+مر جاؤں گی رو رو کے بن شاہ مدینہ کے
+کیا اس کو بتاے ہم
+
+۷
+بے پردہ بہن تیری بازار میں جاے گی
+اماں کی طرح زینب دربار میں جاے گی
+کیا اس سے بڑا ہے غم
+
+۸
+ہمشیر رسن بستہ جب قید میں جاے گی
+زنداں میں تیرا ماتم اک روز کراے گی
+بے مونس و بے یارم
+
+۹
+جی بھر کے کیا ماتم عباس دلاور کا
+قاسم علی اصغر کا ہم شکل پیمبر کا
+تا حشر کریں گے ہم
+
+۱۰
+یہ مظہر و میثم کی دن رات عزاداری
+منظور کرے زہرا یہ نوحوں کی تیاری
+اک پل بھی نہیں ہو کم

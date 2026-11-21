@@ -1,10 +1,10 @@
 ---
-title: یہ میری لاڈلی ہائے سکینہ
-alternateTitle: Ye Meri Laadli
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ میری لاڈلی ہائے سکینہ"
+alternateTitle: "Ye Meri Laadli"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Raza Abbas Zaidi"
 tags: []
@@ -69,12 +69,6 @@ romanLyrics: |-
   Raza jis ko parhe qarya ba qarya
   Har ek ahl-e-azaa ho mahv-e-girya
   Kahe Maula dua degi hamesha
-# source_id: nohayonline:cea98b048358d5e41583
-# source_url: https://www.nohayonline.com/details_content.php?id=544
-# raw_sha256: 0cc33bbaedfda38b472b159c479a3070e81492e859c220b9ca0109a185df3b82
-# source_id: ziyaraat:04b41925ad37b9cc034f
-# source_url: https://www.ziyaraat.net/api/noha/1192
-# raw_sha256: 5cac67abc562a4233d03fa3769fa098193c8c088fad458e858e6c9f3fb4bc555
 ---
 یہ میری لاڈلی ہائے سکینہ
 

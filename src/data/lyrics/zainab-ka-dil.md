@@ -48,9 +48,6 @@ romanLyrics: |-
   Hai Safdar o Mazhar nauha kunaaṅ ek ek masaaib parhte hue
   Sayyidaaniyaaṅ sab thi beparda aur des paraaya
   Zainab ka dil ghabraaya
-# source_id: nohayonline:f7f25a498a88609a6d2a
-# source_url: https://www.nohayonline.com/details_content.php?id=3740
-# raw_sha256: ec47619448088bed5ee80243c42bdf1efdac9059fa0cf33a5760328697604395
 ---
 
 شام آیا زینب کا دل گھبرایا

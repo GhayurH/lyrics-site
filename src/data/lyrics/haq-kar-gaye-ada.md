@@ -1,10 +1,10 @@
 ---
-title: حق کر گئے مادر کے ادا سارے کے سارے
-alternateTitle: Haq Kar Gaye Ada
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "حق کر گئے مادر کے ادا سارے کے سارے"
+alternateTitle: "Haq Kar Gaye Ada"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []
@@ -40,12 +40,6 @@ romanLyrics: |-
   7
   Paala tha jinheiṅ god meiṅ wo jaa base ban meiṅ
   Ab kaun hai Zainab ko jo maaṅ keh ke pukaare
-# source_id: nohayonline:2256f4e2cd0e06c610ee
-# source_url: https://www.nohayonline.com/details_content.php?id=568
-# raw_sha256: dc4e019e80a95ede8007f2b50af31ba1acee20fec789690bc148ce500a5dafe1
-# source_id: ziyaraat:55c19471c721d9f1ae86
-# source_url: https://www.ziyaraat.net/api/noha/1162
-# raw_sha256: ea258ab524f6ebad2a0b192455ba6aa5d719a42e3669f6cb5afbf7c1bd5480fd
 ---
 
 حق کر گئے مادر کے ادا سارے کے سارے

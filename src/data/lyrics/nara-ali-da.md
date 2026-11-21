@@ -11,8 +11,6 @@ year: 2021
 tags: []
 aliases: ["Nara Ali Da Nadeem Sarwar Ali Shanawar Ali Jee Lyrics 2021", "nara-ali-da-nadeem-sarwar-ali-shanawar-ali-jee-lyrics-2021"]
 published: true
-# Punjabi and Urdu wording; the schema has no Punjabi language value.
-# Source credits additional verses to Jawad Jafri and Nadeem Sarwar; principal poet unknown.
 romanLyrics: |-
   Ku ba ku, ku ba ku, ku ba ku, ku ba ku
   Jehra jehra Ali da hubdaar nayi
@@ -77,9 +75,6 @@ romanLyrics: |-
   Mastaaṅ te malangaaṅ da guzaara Ali Ali ae
   Jaanda ae haal Ali, sunda sawaal Ali
   Rakhda khayaal Ali, bara laajpaal Ali
-# source_id: tajpoints:7e23bc79cbe1fcf29bf9
-# source_url: https://tajpoints.com/2021/03/nara-ali-da-nadeem-sarwar-ali-shanawar.html
-# raw_sha256: 1d9ec88f28a54a1e5d93fedd1aa066bebe25499c1fbe324773ce4fe07e27a277
 ---
 کو بہ کو، کو بہ کو، کو بہ کو، کو بہ کو
 جیہڑا جیہڑا علی دا حب دار نئیں

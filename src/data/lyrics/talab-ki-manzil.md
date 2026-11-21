@@ -1,10 +1,10 @@
 ---
-title: طلب کی منزل مقصود کربلا تک ہے
-alternateTitle: Talab Ki Manzil
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "طلب کی منزل مقصود کربلا تک ہے"
+alternateTitle: "Talab Ki Manzil"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
 tags: []
@@ -57,12 +57,6 @@ romanLyrics: |-
   11
   Nuqush-e-paa-e-Muhammad talaash kar Izzat
   Ke hadd-e-fikr musaafir ki rehnuma tak hai
-# source_id: nohayonline:0fe1a450f673ef2ee4a9
-# source_url: https://www.nohayonline.com/details_content.php?id=3119
-# raw_sha256: cade992cb972700b44af68b0236fd666fd807c6b9fd8e4c7ae619a1af0be8877
-# source_id: nohayonline:374bf7b2d80d7208f6c4
-# source_url: https://www.nohayonline.com/details_content.php?id=1054
-# raw_sha256: 8de0e3796a5824d05a2e2e9d829eed2bb2bad1a0a093bf0b270ad91f1cfaad0d
 ---
 طلب کی منزل مقصود کربلا تک ہے
 پھر اس کے بعد نظر عرش کبریا تک ہے

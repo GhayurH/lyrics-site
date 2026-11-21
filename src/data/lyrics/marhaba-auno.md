@@ -47,9 +47,6 @@ romanLyrics: |-
   Gham-e-Shabbir meiṅ khub ro lo
   Sheh ke maatam meiṅ khuṅ baha lo
   Par Husain ki bas ye baqa ho
-# source_id: nohayonline:dc87ade4bcf4933469fb
-# source_url: https://www.nohayonline.com/details_content.php?id=869
-# raw_sha256: 71d19f978b7b3281e7fda9e7750c9c2658ddb9a3a756e8d6c0e6de7a3888b3fd
 ---
 
 مرحبا عون و محمد

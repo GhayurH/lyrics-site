@@ -45,9 +45,6 @@ romanLyrics: |-
   6
   Jawaad ashk khun ke Sajjad kiuṅ na roye
   Mulk-e-wafa ki malika dunya se ja rahi hai
-# source_id: nohayonline:312568fb94f67537e54a
-# source_url: https://www.nohayonline.com/details_content.php?id=682
-# raw_sha256: beef7689f762ba301227ead2e92eb0342943cff7c15c2b7a7bedb79776f97a69
 ---
 زینب کے ساتھ فضہ ہائے شام جا رہی ہے
 ہر گام پر ضعیفہ صدمے اُٹھا رہی ہے

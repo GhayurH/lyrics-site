@@ -89,9 +89,6 @@ romanLyrics: |-
   Zaairoṅ meiṅ ab to naam likh de mera
   Baithuṅ kabhi maiṅ bhi darbaar meiṅ aa ke
   Rota rahuṅ haaye aawaaz ye sun ke
-# source_id: nohayonline:4cfea05c28604c564759
-# source_url: https://www.nohayonline.com/details_content.php?id=3644
-# raw_sha256: dc8939aac803c0cb6d6bf05bf48cc92f3c176bf4ae2492784819fb21500f1139
 ---
 
 کہتے ہیں حسین جب بھی آؤ کربلا

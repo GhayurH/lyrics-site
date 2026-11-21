@@ -61,9 +61,6 @@ romanLyrics: |-
   Kar diye baazu nisaar apne chacha ne mujh par
   Uthega unka alam mashk-e-Sakina lekar
   Wo wafa unki thi ye meri wafadari hai
-# source_id: nohayonline:d3d416d483892178bfb2
-# source_url: https://www.nohayonline.com/details_content.php?id=12
-# raw_sha256: 1047b204ab4619b13ea969f8c8de727b8ef3f85c58ca2a0322e56b8231fca534
 ---
 بابا آجاؤ یہ بیٹی جو تمہیں پیاری ہے
 آج کی رات سکینہ پہ بہت بھاری ہے

@@ -70,11 +70,6 @@ romanLyrics: |-
   Mesum aur Mazhar Abidi kareiṅ bayan sab
   Kaar-e-numayaaṅ sabhi aap ki lachaargi
   Aap ka maqaam Zainab
-# source_id: nohayonline:9d64998896524844343b
-# source_url: https://www.nohayonline.com/details_content.php?id=1303
-# raw_sha256: 5832e011509a725e02f5b8341ae0965c39d4591755f88fd2386e1b60f5b032a8
-# parallel_source_id: tajpoints:2ae4e3d303ece5770623
-# parallel_source_url: https://tajpoints.com/2021/08/aap-par-salam-zainab-mesum-abbas-lyrics.html
 ---
 مرحبا شریکۃ الحسین
 آپ پر سلام زینب
@@ -90,9 +85,9 @@ romanLyrics: |-
 
 ۲
 قتل ہو چکا علی کا لال جب فرات پر
-بی‌بیوں کے بین چھا رہے تھے کائنات پر
+بیبیوں کے بین چھا رہے تھے کائنات پر
 ساری ذمہ داریاں اٹھائی اپنی ذات پر
-بی‌بیاں گھبرا گئیں پہرے پہ آپ آگئیں
+بیبیاں گھبرا گئیں پہرے پہ آپ آگئیں
 جب جلے خیام زینب
 
 ۳

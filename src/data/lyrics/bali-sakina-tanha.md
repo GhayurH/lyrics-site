@@ -64,9 +64,6 @@ romanLyrics: |-
   Safdar ki chashm-e-nam bhi rote haiṅ ahl-e-gham bhi
   Mazhar bhi likh ke roya qirtaas aur qalam bhi
   Kya gham ka marsiya taarikh ro pari hai
-# source_id: nohayonline:634a309fd3e05981fae8
-# source_url: https://www.nohayonline.com/details_content.php?id=1549
-# raw_sha256: 270fc68cdaacddd6d3d6b9abb407a10675ae04ed2af6bf1b7d5e56c4ea026d80
 ---
 
 جب قید سے اسیر رہا ہو گئے تمام

@@ -9,9 +9,6 @@ reciter: "Alamdar Razvi"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:e2a9316a615198c77ce5
-# source_url: https://www.nohayonline.com/details_content.php?id=2033
-# raw_sha256: 1f890789fc8271941da0dbe6278dd8a09824e3b1807d9f20a76f997affa29ae7
 romanLyrics: |-
   Laasha-e-Asghar ko rakh kar qabr meiṅ sheh ne kaha
   Ae zamin-e-Karbala
@@ -54,9 +51,6 @@ romanLyrics: |-
   Tir lagte hi wo lena hichkiyaaṅ muṅh khol ke
   Aur lipatna baap se
   Khun ka gardan se behna aur tarapna laash ka
-# source_id: nohayonline:764539ab167ed5bde467
-# source_url: https://www.nohayonline.com/details_content.php?id=3112
-# raw_sha256: ffb99f824feafa283b80a0af90295c51ecca5a6abd41b9e401620ba2579ed861
 ---
 
 لاشہء اصغر کو رکھ کر قبر میں شہ نے کہا

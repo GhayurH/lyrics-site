@@ -65,9 +65,6 @@ romanLyrics: |-
   Ke ta ba Shaam haram ki sada thi ae Majid
   Kahaṅ ho ab pa-e-imdad aao ae Abbas
   Hameṅ sitam se lain ke bachao ae Abbas
-# source_id: nohayonline:491c002c2b596e4cd09e
-# source_url: https://www.nohayonline.com/details_content.php?id=3722
-# raw_sha256: 5d8f0b1ecf65193635c51f4ee799a9f2dad3c33c36ca7f820877c48bb0d7b74b
 ---
 
 ہے بیکسوں کا غریبوں کا آسرا عباس

@@ -38,9 +38,6 @@ romanLyrics: |-
   Waqt-e-naza ho Maula Shabbir ki ziyaarat
   Is se bari nahiṅ hai mere liye saadat
   Khurshid mere dil meiṅ bas yehi aarzu hai
-# source_id: nohayonline:2740cf483d01d87b875d
-# source_url: https://www.nohayonline.com/details_content.php?id=2949
-# raw_sha256: 5521ad204cad16a01a609742f3f9a3f5d7ffb3194413a12d8bc231cbe8952a50
 ---
 اصغر نثار کر کے شبیر سرخ رو ہے
 بچ جائے دین احمد بس یہی جستجو ہے

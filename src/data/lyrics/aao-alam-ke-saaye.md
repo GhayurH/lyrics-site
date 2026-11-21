@@ -71,9 +71,6 @@ romanLyrics: |-
   Rehan o Sarwar wo din bhi aaye
   Ghazi ye keh kar hum ko bulaaye
   Hum haiṅ tumhaare tum gham na khao
-# source_id: nohayonline:0b62c0ea696a718a2ac7
-# source_url: https://www.nohayonline.com/details_content.php?id=3096
-# raw_sha256: 356bbad1e9020ce0e7705a38623b5fb0cbce00ef65e19272a5e1236981e42382
 ---
 یہ تیری دنیا یہ دنیا داری
 انسانیت ہے بے چین ساری
@@ -117,7 +114,7 @@ romanLyrics: |-
 جاؤ جہاں بھی مجلس کراؤ
 
 ۸
-میرے علم پر بی‌بیوں آنا
+میرے علم پر بیبیوں آنا
 سر کو خدارا اپنے چھپانا
 سب نے ستایا تم نہ ستاؤ
 

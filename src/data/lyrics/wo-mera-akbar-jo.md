@@ -61,9 +61,6 @@ romanLyrics: |-
   Ho bayaaṅ kaise Mubaarak Umm-e-Laila ka bayaaṅ
   Karbala meiṅ Shaam o Kufa meiṅ Madine meiṅ fughaaṅ
   Puchha jab Rehaaṅ kisi ne ro ke maadar ne kaha
-# source_id: nohayonline:149a318060f696736ade
-# source_url: https://www.nohayonline.com/details_content.php?id=794
-# raw_sha256: a406aa2c57c1bdf0ed773bb7f02c1fd203dc05d4a66e68daa6023cd1b873d1df
 ---
 سو گئے سینے پہ برچھی کھا کے اب کڑیل جواں
 امِ لیلیٰ اب علی اکبر کو پائے گی کہاں

@@ -58,9 +58,6 @@ romanLyrics: |-
   Rehaan noha goi ne Farhan kar diya
   Mazbut aur bhi mera imaan kar diya
   Mit jaaye zikr-e-Shaah ye aada ki bhul hai
-# source_id: nohayonline:f094258af041f2c3f930
-# source_url: https://www.nohayonline.com/details_content.php?id=2695
-# raw_sha256: 9e62745d48ea29032aea98bbbef3358f89b6268f329fde26cf21a2053c41ca89
 ---
 انکار آسماں کو ہے راضی زمیں نہیں
 اصغر تیرے لہو کا ٹھکانہ کہیں نہیں

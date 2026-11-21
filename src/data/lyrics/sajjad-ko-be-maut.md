@@ -53,9 +53,6 @@ romanLyrics: |-
   8
   Farhan ye Zainab ke masaaib ka asar hai
   Chaalis baras Maula mera rota raha hai
-# source_id: nohayonline:a7419656a672a1e9b02d
-# source_url: https://www.nohayonline.com/details_content.php?id=2380
-# raw_sha256: 1215b7f96bea63c71b7e24ea9b49251b4e3ee261d378d323d4751b2fe315b6a3
 ---
 ہے شام کا بازار اور عابد بیمار
 

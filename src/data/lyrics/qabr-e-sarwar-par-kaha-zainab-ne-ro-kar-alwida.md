@@ -10,9 +10,6 @@ tags: []
 aliases:
   - "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 published: true
-# source_id: nohayonline:0e4594713d735b48218b
-# source_url: https://www.nohayonline.com/details_content.php?id=3242
-# raw_sha256: b001b841f1aec5ed6544c511b3409b70a2e48503d6be0444ebf41e75bb174a68
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida
   Kuch Khabar Hai Hum Pe Kya Guzri Baradar, Alwida

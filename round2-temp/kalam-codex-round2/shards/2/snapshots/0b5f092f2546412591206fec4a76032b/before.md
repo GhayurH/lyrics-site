@@ -1,0 +1,29 @@
+---
+title: "Qaid Muk Gayi Aye Sakina Mar Gayi Aye Sajjad Wain Paway Lyrics Punjabi 2017"
+language: "Panjabi"
+lang: "pa"
+direction: "ltr"
+kalamType: "Other"
+poet: "Sabir"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Qaid Muk Gayi Aye Sakina Mar Gayi Aye Sajjad Wain Paway.
+Zindan Choon Ro Ro Ke Phophiyaan Toon Riya Puchda Kithe Bhain Nu Dafnaway.
+Khandi Rayi Tamache Abid De Samne Aine Zulam Ne Wekhay Har Ik Bazar De.
+Mar Ke V Sakina Da Darya Hoya Aye Lasha Kitay Shimar Aa Na Jaway.
+
+2
+Khamosh Dewaraan Te Zindaan Da Hanera Ik Dosre Nu Labhday Ray Bhain Te Bhira.
+Oh Veer Da Na Lay Ke Onno Kol Bulandi Rayi Aye Bhain Nu Bulaway.
+Aj So Gayi Aye Babay Nu Wajaan Mardi Sajjad Jagaonda Aye Nayi Bhain Jagdi.
+Jay Moor Deway Zalim Aye Bhain Jagawan Layi Babay Da Sir Wakhaway.
+
+3
+Waqt-e-Rehai Qaidi Zindan Chon Nikle Sab Pursa Sakina Da Bemar Nu Denday Ray.
+Ro Ro Ke Sakina Di Turbat Nu Koi Chumda Aye Koi Seene Naal Laway.
+Paband-e-Salasal Way Masoma Da Bhira Sabir Kiwein Uthaye Oh Bhain Da Lasha.
+Ohh Sochda Aye Kidhre Aidi Bhain De Lashay Nu Zanjeer Na Chubh Jaway.

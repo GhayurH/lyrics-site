@@ -86,9 +86,6 @@ romanLyrics: |-
   In sab ki haqiqat kuchh bhi nahiṅ
   Rab us ko mila, sab us ko mila
   Jo Maula ka hubdaar hua
-# source_id: tajpoints:df53f23fbe8c89b19469
-# source_url: https://tajpoints.com/2026/01/maula-hussain-jaan-nadeem-sarwar-ali.html
-# raw_sha256: 5351bb91894bb2146d2b7d70544594611f0484b75676c01114721b50d456dc5e
 ---
 جانم حسینا
 اے جانانِ مصطفیٰ

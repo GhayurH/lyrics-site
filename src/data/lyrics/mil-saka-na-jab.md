@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Tha Takallum mar ke bhi Aun o Muhammad ka jalaal
   Tegh ka qabza na shahzaadoṅ ne chhora der tak
-# source_id: nohayonline:b660336b1690d6e0644d
-# source_url: https://www.nohayonline.com/details_content.php?id=2801
-# raw_sha256: 06fc0242fcc6d3c46c3541888829b31d86f57910d673dff5fd311caed1c36af1
 ---
 مل سکا نہ جب علی اکبر کا لاشہ دیر تک
 گھٹنیوں چلتے رہے مقتل میں مولا دیر تک

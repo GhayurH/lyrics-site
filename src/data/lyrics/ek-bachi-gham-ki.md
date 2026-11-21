@@ -75,9 +75,6 @@ romanLyrics: |-
   Irfan ye bata de kaise bhulayega dil
   Ek maaṅ ki ashkbaari aur raat Karbala ki
   Haye haye haye Sakina
-# source_id: nohayonline:482af6678e0a89fe52dc
-# source_url: https://www.nohayonline.com/details_content.php?id=906
-# raw_sha256: efb0e3f7083afc8fe1af34a79dcb23f7fc0e9fba3eeef869dc211e4abd3aa9fc
 ---
 
 ہائے ہائے ہائے سکینہ

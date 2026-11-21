@@ -10,12 +10,6 @@ reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Ba Khuda Hakima-e-Kon-o-Makaan Hain Zahra"]
 published: true
-# source_id: tajpoints:0a5ad2720381ec8249d4
-# source_url: https://tajpoints.com/2017/03/ba-khuda-hakima-e-kon-o-makaan-hain.html
-# raw_sha256: adfe1bcff2b7e09fd1d1bf37e2cbbfb9d8b9c8b9b7d3df8fbfa298fc626322d9
-# source_id: tajpoints:b4358bda5c07d14e0b06
-# source_url: https://tajpoints.com/2017/03/ba-khuda-hakima-e-kon-o-makaan-hain_20.html
-# raw_sha256: 79bfe382ae62ae702c7979a982338c2a0b5dd5e8743477dd148f6fdd1d747de2
 romanLyrics: |-
   1
   Ba khuda hakima-e-kon o makaan haiṅ Zahra

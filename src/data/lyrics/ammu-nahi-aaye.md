@@ -65,9 +65,6 @@ romanLyrics: |-
   Yawar ye buka karti thi ro ro ke Sakina
   Ammu ki khabar lijiye ya Shah-e-Madina
   Ammu ke baghair mera dushwaar hai jina
-# source_id: nohayonline:028a289719968ce0f0c3
-# source_url: https://www.nohayonline.com/details_content.php?id=529
-# raw_sha256: cf75e236a74743e7e04d0b69a40237e03ea30570972adba5293986dbbd56f40f
 ---
 کہتی تھی یہ رو رو کے سکینہ میرے بابا
 عمو نہیں آئے

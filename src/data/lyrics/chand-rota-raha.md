@@ -64,9 +64,6 @@ romanLyrics: |-
   Jab bhi Akhtar ka noha sunaaya gaya
   Gham se phatne laga aasmaaṅ ka jigar
   Chaand rota raha chaand rota raha
-# source_id: nohayonline:3cb14d67f89795229e89
-# source_url: https://www.nohayonline.com/details_content.php?id=2107
-# raw_sha256: b7fdd8d2f2c06889d13992b88532f2329cdae7255e107d6fdce98f0abe3425f1
 ---
 لاش اکبر پہ میدان میں رات بھر
 چاند روتا رہا چاند روتا رہا

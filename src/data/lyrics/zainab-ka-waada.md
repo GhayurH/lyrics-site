@@ -64,9 +64,6 @@ romanLyrics: |-
   Na qaid-e-mausam na khauf-e-dunya
   Ye naukri hai qismat se paai
   Dunya meiṅ tera maatam rahega
-# source_id: nohayonline:e2d9f292226a2c6abd41
-# source_url: https://www.nohayonline.com/details_content.php?id=2942
-# raw_sha256: 1faf29f89d13eb4937ba4b95fcb43144388954a25af2f692f525d9e6d28567d8
 ---
 زینب کا تجھ سے وعدہ ہے بھائی
 دنیا میں تیرا ماتم رہے گا

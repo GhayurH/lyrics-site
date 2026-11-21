@@ -89,9 +89,6 @@ romanLyrics: |-
   Haaṅ Mazhar Abidi ka qalam likh nahiṅ saka
   Hai bas ye khulaasa ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
-# source_id: nohayonline:af2c3f70c95fe1dcdcc8
-# source_url: https://www.nohayonline.com/details_content.php?id=968
-# raw_sha256: e150e8cc4a6c04cb811983f6b362660500f0d85c40e73cb7c4600fc0c4138408
 ---
 کتنا غریب ہو گیا حسین
 

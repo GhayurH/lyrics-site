@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Tamanna daulat o hashmat ki bejaaṅ
   Dabir aakhir fana hai aur maiṅ huṅ
-# source_id: nohayonline:f1fc8917e153ae24cb78
-# source_url: https://www.nohayonline.com/details_content.php?id=2193
-# raw_sha256: 75cd4140df7d17a006629be1ba5b1b3e0c73c10955cf7ea5c25f26a59d53bd4f
 ---
 ثنائے مرتضیٰ ہے اور میں ہوں
 یہی اک مشغلہ ہے اور میں ہوں

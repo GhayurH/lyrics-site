@@ -1,0 +1,92 @@
+---
+title: "پکاری مسجدِ کوفہ اُجڑگیا کوفہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Pukaari Masjid-e-Kufa ujar gaya Kufa
+  Utha imaam ka saaya ujar gaya Kufa
+
+  1
+  Bujha ke zahr mein khanjar ko Ibn-e-Muljam ne
+  Sar-e-Ali pe jo zarbat lagaai zaalim ne
+  Jahaaṅ mein chhaaya andhera ujar gaya Kufa
+
+  2
+  Ye kaisi zarb lagi tutne lagiṅ saanseṅ
+  Do nim ho gaya sar khuṅ se bhar gaiṅ aankheṅ
+  Shahid ho gae Maula ujar gaya Kufa
+
+  3
+  Namaaz-e-subh ke dauraaṅ bapa hua mahshar
+  Sitam ki tegh se shaq ho gaya sar-e-Haider
+  Lahu mein tar hai musalla ujar gaya Kufa
+
+  4
+  Khuda ke sher ko aai jo aakhri hichki
+  Hasan Husain pe chhaai fazaa yatimi ki
+  Hai ghash mein Zainab-e-Kubra ujar gaya Kufa
+
+  5
+  Pahaar tuta hai Abbaas par musibat ka
+  Ye din hai Zainab o Kulsum par qayaamat ka
+  Ghamoṅ mein gharq hai kunba ujar gaya Kufa
+
+  6
+  Hui jahaan se rihlat jo Shaah-e-aalam ki
+  Yatim ho gai ummat Rasul-e-Akram ki
+  Imaam-e-waqt sidhaara ujar gaya Kufa
+
+  7
+  Mujib Shabbar o Shabbir khun rote haiṅ
+  Kaleje Zainab o Kulsum ke larazte haiṅ
+  Udaas ho gaya Kaaba ujar gaya Kufa
+
+  8
+  (Mujib Alipuri)
+---
+
+پکاری مسجدِ کوفہ اُجڑگیا کوفہ
+اٹھا امام کا سایہ اُجڑگیا کوفہ
+
+۱
+بُجھا کے زہر میں خنجر کو ابنِ ملجم نے
+سرِ علیؑ پہ جو ضربت لگائی ظالم نے
+جہاں میں چھایا اندھیرا اُجڑگیا کوفہ
+
+۲
+یہ کیسی ضرب لگی ٹوٹنے لگیں سانسیں
+دو نیم ہوگیا سرخوں سے بھرگئیں آنکھیں
+شہید ہو گئے مولاؑ اُجڑگیا کوفہ
+
+۳
+نمازِ صبح کے دوراں بپا ہوا محشر
+ستم کی تیغ سے شق ہوگیا سرِ حیدرؑ
+لہو میں تر ہے مصلیٰ اُجڑگیا کوفہ
+
+۴
+خدا کے شیر کو آئی جو آخری ہچکی
+حسنؑ حسینؑ پہ چھائی فضا یتیمی کی
+ہے غش میں زینبِ کبریٗ اُجڑگیا کوفہ
+
+۵
+پہاڑ ٹوٹا ہے عباسؑ پر مصیبت کا
+یہ دن ہے زینبؑ و کلثومؑ پر قیامت کا
+غموں میں غرق ہے کنبہ اُجڑگیا کوفہ
+
+۶
+ہوئی جہان سے رحلت جو شاہ عالم کی
+یتیم ہوگئی امت رسولِ اکرمﷺ کی
+امامِ وقت سدھارا اُجڑگیا کوفہ
+
+۷
+مجیبؔ شبرؑو شبیرؑ خون روتے ہیں
+کلیجے زینبؑ و کلثومؑ کے لرزتے ہیں
+اُداس ہوگیا کعبہ اُجڑگیا کوفہ
+
+۸
+شاعرِ اہلیبیت: مجیبؔ علی پوری

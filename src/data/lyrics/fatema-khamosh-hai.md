@@ -59,9 +59,6 @@ romanLyrics: |-
   Kis tarah Rehan koi ghurbat-e-Zahra likhe
   Ye wo mazluma hai jis par zulm ab tak na ruke
   Rota hai Danish bhi likh kar Fatema khaamosh hai
-# source_id: nohayonline:04591d0456104005d65d
-# source_url: https://www.nohayonline.com/details_content.php?id=1017
-# raw_sha256: 65bf9ca46b927876aec309f6bdbb38ef477a80507fb96a0964a1f2fc4a04206a
 ---
 پہلو شکستہ فاطمہ کس سے کرے بیاں
 در اس طرح گرایا کے ٹوٹی ہے پسلیاں

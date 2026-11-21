@@ -36,9 +36,6 @@ romanLyrics: |-
   5
   Shah Najm ne band kar diye is pe sukhan tamaam
   Izzat bhi bari thi to musibat bhi bari thi
-# source_id: nohayonline:a04932b64b39d4fa05e9
-# source_url: https://www.nohayonline.com/details_content.php?id=615
-# raw_sha256: f1c3f9cb82587c05829ba52bde99c4ba9412bb721043405c0fb32e6e55cee9f0
 ---
 ناتواں اور قید میں
 ہائے بیمار ہائے ہائے سجاد

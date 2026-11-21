@@ -69,9 +69,6 @@ romanLyrics: |-
   14
   Surur us ka khat aaj bhi yaad hai
   Bas itna likha tha bahut din hue
-# source_id: nohayonline:e8ee1794ca0beb0e4d3e
-# source_url: https://www.nohayonline.com/details_content.php?id=3739
-# raw_sha256: daf5a79bb186f943fe7553c2745acef5a1dd0b21d8d8813f2e3e8648d75158e7
 ---
 تھا صغرا کا نالہ بہت دن ہوئے
 کوئی بھی نہ لوٹا بہت دن ہوئے

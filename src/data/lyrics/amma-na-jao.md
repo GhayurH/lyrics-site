@@ -66,9 +66,6 @@ romanLyrics: |-
   Qirtaas par likh ke roya qalam
   Hai ek jumle ka dil par asar
   Amma na jaao mujhe chhor kar
-# source_id: nohayonline:6937444f264569dd4435
-# source_url: https://www.nohayonline.com/details_content.php?id=1545
-# raw_sha256: 3ce78718aa9ed6f458255cb012a8a28265d1cf81a7feeca6bf77a5e85b34fce4
 ---
 گھر سے جو زہرا کی میت اٹھی
 گھر میں علی کی قیامت ہوئی

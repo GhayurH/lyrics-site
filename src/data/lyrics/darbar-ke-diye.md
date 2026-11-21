@@ -100,9 +100,6 @@ romanLyrics: |-
   Jaldi chalo Madina-e-Khair-ul-Wara chalo
   Majlis bapa hai rauza-e-Bint-e-Rasul meiṅ
   Zikr-e-Husain chaahiye baagh-e-Batul meiṅ
-# source_id: nohayonline:28e74a3de35de1e0c283
-# source_url: https://www.nohayonline.com/details_content.php?id=2237
-# raw_sha256: 4403e13e31e8c48c09c0f3a6358d65b64d43c01729135d062121f921a7618416
 ---
 
 چھایا حیات بنت نبی پر وہ انتظار

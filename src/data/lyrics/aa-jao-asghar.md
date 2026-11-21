@@ -68,9 +68,6 @@ romanLyrics: |-
   Aamir jaaṅ khota hai Bilal
   Saara jahaaṅ rota hai Bilal
   Rakh qalam itna likh kar
-# source_id: nohayonline:3afdd3a5ce991f21b4b1
-# source_url: https://www.nohayonline.com/details_content.php?id=2442
-# raw_sha256: a58ac82125815de27c91295ecbdf56c8ab7524d8ac4a614f3ba21be10b93369b
 ---
 
 آجاؤ اصغر آجاؤ

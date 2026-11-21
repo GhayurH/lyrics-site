@@ -54,9 +54,6 @@ romanLyrics: |-
   Mir Sajjad jo jalta hua darwaza gira
   Al madad Fizza se pehle meri Bibi boli
   Al ajal Ya Mehdi
-# source_id: nohayonline:8af14ad1567173c40f40
-# source_url: https://www.nohayonline.com/details_content.php?id=1304
-# raw_sha256: 6a461069736e3324f061a8a122cbff15bb01e5574dcbbaec9a2e5aae5bb3bc72
 ---
 رو کے زہرا یہ پکاری العجل یا مہدی
 مجھ پہ دروازہ گرا توڑ دی پسلی میری

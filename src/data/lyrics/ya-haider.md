@@ -130,9 +130,6 @@ romanLyrics: |-
   Haideri bana de ya maula
   Haideri bana de ya maula
   Haideri bana de ya maula
-# source_id: nohayonline:60ce419e2695851a7d2c
-# source_url: https://www.nohayonline.com/details_content.php?id=435
-# raw_sha256: e7d3201afca6b51345c6e605b48c42cf6899d89ed182e908dfac61ae5ce7e98c
 ---
 
 من کنت و مولا فھازا علی یون مولا

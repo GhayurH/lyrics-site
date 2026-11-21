@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Saahil pe tarapta raha Abbas ka laasha
   Khaime meiṅ tarapti rahi aaghosh ki paali
-# source_id: nohayonline:3edb8550c58a32d5e0cc
-# source_url: https://www.nohayonline.com/details_content.php?id=491
-# raw_sha256: ae112cb262141482c5421824abf54885ef27975ba40e26127ff11097b0a13964
 ---
 شبیر کا ماتم کیا زہرا سے دُعا لی
 ہم آئے نہیں فرشِ عزا سے کبھی خالی

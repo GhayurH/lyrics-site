@@ -5,11 +5,19 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Takallum"
 reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Nazreiṅ talaash karti haiṅ tum ko Shah-e-Zamaaṅ
+  Phir de rahe haiṅ Shah ke azaadaar imtihaaṅ
+  Aaheiṅ kahiṅ pe nauhe kahiṅ par haiṅ hichkiyaaṅ
+  Ujre hue makaaṅ haiṅ viraaṅ godiyaaṅ
+  Rudaad apne gham ki sunaati hai kaainaat
+  Aakhri Husain bulaati hai kaainaat
+
   Mere Maula aao ke muddat hui hai
   Sitam zaalimoṅ ke uthaate uthaate
   Tere dushmanoṅ ki guzarti hai Maula
@@ -62,10 +70,26 @@ romanLyrics: |-
   Kaleje pe Aabid ke chalte the khanjar
   Jawaani zaifi ke dar par khari thi
   Sakina ki turbat banaate banaate
-# source_id: nohayonline:28e1c0e27045df806fd9
-# source_url: https://www.nohayonline.com/details_content.php?id=324
-# raw_sha256: 8324b49d050ba2ffb1a6e2b6e00a8111fff24523df8c5d1a1bf3837155f7fd1d
+
+  9
+  Musalmaan ke qaatil musalmaan bane haiṅ
+  Makiṅ jal rahe haiṅ makaaṅ jal rahe haiṅ
+  Marizaan-e-ghaibat ko nind aa na jaaye
+  Zamaane ke fitne sulaate sulaate
+
+  10
+  Takallum ki aur Haideri ki dua hai
+  Har ek samt maatam hai aah o buka hai
+  Na aisa ho ham bhi lahad meiṅ ye boleṅ
+  Bahut der ki mehrbaaṅ aate aate
 ---
+نظریں تلاش کرتی ہیں تم کو شہِ زماں
+پھر دے رہے ہیں شہ کے عزادار امتحاں
+آہیں کہیں پہ نوحے کہیں پر ہیں ہچکیاں
+اجڑے ہوئے مکاں ہیں ویراں گودیاں
+روداد اپنے غم کی سناتی ہے کائنات
+آخری حسین بلاتی ہے کائنات
+
 میرے مولا آؤ کہ مدت ہوئی ہے
 ستم ظالموں کے اُٹھاتے اُٹھاتے
 تیرے دشمنوں کی گزرتی ہے مولا
@@ -118,3 +142,15 @@ romanLyrics: |-
 کلیجے پہ عابد کے چلتے تھے خنجر
 جوانی ضعیفی کے در پر کھڑی تھی
 سکینہ کی تُربت بناتے بناتے
+
+۹
+مسلمان کے قاتل مسلمان بنے ہیں
+مکیں جل رہے ہیں مکاں جل رہے ہیں
+مریضانِ غیبت کو نیند آ نہ جائے
+زمانے کے فتنے سلاتے سلاتے
+
+۱۰
+تکلم کی اور حیدری کی دعا ہے
+ہر ایک سمت ماتم ہے آہ و بکا ہے
+نہ ایسا ہو ہم بھی لحد میں یہ بولیں
+بہت دیر کی مہرباں آتے آتے

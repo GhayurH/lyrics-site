@@ -97,9 +97,6 @@ romanLyrics: |-
   Maiṅ faatiha sharbat pe dilaauṅ gi ae bhai
   Haaye Husaina
   Haaṅ yaad hai bhaiya wo mujhe aap ka kehna
-# source_id: nohayonline:84282c9c8784dbc9e565
-# source_url: https://www.nohayonline.com/details_content.php?id=552
-# raw_sha256: 7f481e253b67cd0a5c407eb6405cba5c00435fa677152bdd6949a24f8d4e2532
 ---
 زینب میری بہنا یہ شِہ نے کہا
 زینب میری بہنا دُکھیا میری بہنا
@@ -140,7 +137,7 @@ romanLyrics: |-
 اُس بی‌بی کی آغوش سجانا میری بہنا
 
 ۶
-جب بی‌بیاں تابوت سکینہ کا اُٹھائیں
+جب بیبیاں تابوت سکینہ کا اُٹھائیں
 اے میری بہنا
 اور نوحہ سکینہ کی اسیری کا سُنائیں
 اے میری بہنا

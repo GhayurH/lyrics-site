@@ -73,9 +73,6 @@ romanLyrics: |-
   Abhi talak to behen uth rahi thi gir gir ke
   Sar-e-Husain kata dekh na saki Zainab
   Zamiṅ pe aise giri jaise mar gayi Zainab
-# source_id: nohayonline:f7e20f74b91629326990
-# source_url: https://www.nohayonline.com/details_content.php?id=2813
-# raw_sha256: 75925e568b7e25390a5236af971d32e355a9cf0705593a0e2f492fdfc512c075
 ---
 
 حسین والوں سنو یہ ہے قتل گاہِ حسین

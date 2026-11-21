@@ -65,9 +65,6 @@ romanLyrics: |-
   13
   Qismat ke haathoṅ ek khilona hai aadmi
   Kuchh bhi nahiṅ hai apne Raza ikhtiyar meiṅ
-# source_id: nohayonline:b6fa08d8489393403a43
-# source_url: https://www.nohayonline.com/details_content.php?id=2014
-# raw_sha256: 5142345342ac6d9170a3f327135666fcee51c717035daafb1235b427a285385a
 ---
 اکبر تجھے تلاش کروں کس دیار میں
 صغریٰ تڑپ رہی ہے تیرے انتظار میں

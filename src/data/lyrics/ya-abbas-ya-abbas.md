@@ -86,9 +86,6 @@ romanLyrics: |-
   Aap ka parcham nasb hua hai jis jis bhi ghar par Ghazi
   Mir Takallum ki hi hai dua aabaad rahe wo ghar Ghazi
   Apne alam ka saaya rakhna Haider ke akkaas
-# source_id: nohayonline:9ab347e9feac53bcc6aa
-# source_url: https://www.nohayonline.com/details_content.php?id=2734
-# raw_sha256: 3c73552beb84ddb01b733ed8bbc19b9ab08653144983a43022c73fb9f9e5a9c9
 ---
 یا عباس یا عباس
 اے شیر نیستان حیدر عباس

@@ -34,43 +34,44 @@ romanLyrics: |-
   Ab kya kisi ko aisa gharaana nasib ho
 
   5
+  Ji chaahta hai saamne baithe hoṅ Panjtan
+  Un ki sana unhi ko sunaana nasib ho
+
+  6
   Mehshar ye aarzu hai ke beghusl o bekafan
   Karbobala ki tah meiṅ samaana nasib ho
 
-  6
+  7
   Aansu gire the baali Sakina ke jis jagah
   Apna wahaaṅ pe khun bahaana nasib ho
 
-  7
+  8
   Yeh keh ke Shaah nikle mazaar-e-Rasul se
   Pardes meiṅ kafan mujhe Naana nasib ho
 
-  8
+  9
   Asghar hai mere haath bandhe kehti thi Rabaab
   Kaise tumheṅ gale se lagaana nasib ho
 
-  9
+  10
   Mashkiza le ke rauza-e-Abbaas ke qarib
   Sab zaairoṅ ko paani pilaana nasib ho
 
-  10
+  11
   Ik sar burida laashe ne bachchi ko di dua
   Zindaaṅ se tujhko laut ke aana nasib ho
 
-  11
+  12
   Nazdik khaima gaah Sakina ki yaad meiṅ
   Shaam-e-gharibaaṅ shama jalaana nasib ho
 
-  12
+  13
   Sajjad shaam tak yehi karte rahe dua
   Chaadar mujhe phuphi ko uraana nasib ho
 
-  13
+  14
   Ae kaash phir se Mir Takallum Furaat par
   Mehdi ko Shah ka nauha sunaana nasib ho
-# source_id: nohayonline:e23292f82ae77a9efc66
-# source_url: https://www.nohayonline.com/details_content.php?id=1601
-# raw_sha256: 68d8a27e947c4d945da6f6be3ebf0213360cad973a7b3706577490a14244f234
 ---
 اٹھے ہیں ہاتھ خدایا اسی دعا کے لئے
 نصیب ہو سفرِ عشق کربلا کے لئے
@@ -95,37 +96,41 @@ romanLyrics: |-
 اب کیا کسی کو ایسا گھرانہ نصیب ہو
 
 ۵
+جی چاہتا ہے سامنے بیٹھے ہوں پنجتن
+ان کی ثنا انہی کو سنانا نصیب ہو
+
+۶
 محشر یہ آرزو ہے کہ بے غسل و بے کفن
 کربوبلا کی تہہ میں سمانا نصیب ہو
 
-۶
+۷
 آنسو گرے تھے بالی سکینہ کے جس جگہ
 اپنا وہاں پہ خون بہانا نصیب ہو
 
-۷
+۸
 یہ کہہ کے شاہ نکلے مزارِ رسول سے
 پردیس میں کفن مجھے نانا نصیب ہو
 
-۸
+۹
 اصغر ہے میرے ہاتھ بندھے کہتی تھی رباب
 کیسے تمہیں گلے سے لگانا نصیب ہو
 
-۹
+۱۰
 مشکیزہ لے کے روضہء عباس کے قریب
 سب زائروں کو پانی پلانا نصیب ہو
 
-۱۰
+۱۱
 اک سر بریدہ لاشہ نے بچی کو دی دعا
 زنداں سے تجھکو لوٹ کے آنا نصیب ہو
 
-۱۱
+۱۲
 نزدیک خیمہ گاہ سکینہ کی یاد میں
 شام غریباں شمع جلانا نصیب ہو
 
-۱۲
+۱۳
 سجاد شام تک یہی کرتے رہے دعا
 چادر مجھے پھپھی کو اڑانا نصیب ہو
 
-۱۳
+۱۴
 اے کاش پھر سے میر تکلم فرات پر
 مہدی کو شہ کا نوحہ سنانا نصیب ہو

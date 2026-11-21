@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Bewaarisi ka aalam wo sar ke gird maatam
   Bachchi ki wo shahaadat Zainab ke dil se puchho
-# source_id: nohayonline:7716ea28e47d5019f5ee
-# source_url: https://www.nohayonline.com/details_content.php?id=1918
-# raw_sha256: 741f9dce7bd4e36c2e00533b42f2f4118e993c155e7756fb294036a2159090b3
 ---
 وہ شام کی مصیبت زینب کے دل سے پوچھو
 دربار کی وہ آفت زینب کے دل سے پوچھو

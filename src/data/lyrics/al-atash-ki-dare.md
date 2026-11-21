@@ -58,9 +58,6 @@ romanLyrics: |-
   Yani tum jis ki amanat ho usi ko sauṅpa
   Hum to har haal meiṅ haiṅ Sabir o Shakir Abbas
   Lo alam aur Khuda Hafiz o Nasir Abbas
-# source_id: nohayonline:b4ea0f2cc7f2493ed28d
-# source_url: https://www.nohayonline.com/details_content.php?id=52
-# raw_sha256: f4f6d762981e18c7609532575d9f2d1903ac380e0db0e1629f1d56ad8395de74
 ---
 العطش کی درِ خیمے سے صدا آنے لگی
 

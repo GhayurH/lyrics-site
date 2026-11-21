@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Tazkira kar ke Husain Ibn-e-Ali ka Saahil
   Jab talak saaṅs hai gham-e-Shah ka manaate rehna
-# source_id: nohayonline:23cabcc40bf79b8d031e
-# source_url: https://www.nohayonline.com/details_content.php?id=2773
-# raw_sha256: 6679a472a4eb591dc01b0c58af1126cb1d03cba28b63ff907a9e10a40b4bf8ac
 ---
 غازی عباس کے پرچم کو اٹھاتے رہنا
 ہم حسینی ہیں زمانے کو بتاتے رہنا

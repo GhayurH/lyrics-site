@@ -1,7 +1,7 @@
 ---
 title: "اٹھ نانا، میرے درد ونڈا، میں ویر کھو کے آئی ہاں"
-language: Panjabi
-lang: "pa"
+language: "Panjabi"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 alternateTitle: "Uth Nana Mere Dard Wandaa Main Veer Kuha K Ai Han"
@@ -38,9 +38,6 @@ romanLyrics: |-
   Khurshid haya di malka aa, ro ro ke roze te aakhe
   Maiṅ behnaṅ te bharjaaiyaṅ sang, hath rassiyaṅ te kariyaṅ paa
   Mera parda bhaaveṅ ni bachya, tera din bacha ke aayi haaṅ
-# source_id: ziyaraat:986f199d7fcf6cee5422
-# source_url: https://www.ziyaraat.net/api/noha/2887
-# raw_sha256: 82982ba04a5d909215d6bf6f4a1251f11b09c7dd45f2e979e231e2dbd28a6492
 ---
 
 اٹھ نانا، میرے درد ونڈا، میں ویر کھو کے آئی ہاں

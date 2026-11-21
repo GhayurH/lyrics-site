@@ -60,9 +60,6 @@ romanLyrics: |-
   Laasha ek nehr pe uthta tha kabhi girta tha
   Ibn-e-Zehra jo Takallum ye sada deta tha
   Aakhri waqt hai Yasin sunao Abbas
-# source_id: nohayonline:f455ab981f8fcb242545
-# source_url: https://www.nohayonline.com/details_content.php?id=127
-# raw_sha256: 9cae064006479c845b40cb14db37db07ca4d3124afdbbbbcc49b9492311c9140
 ---
 یا کاشف الکرب یا اخی یا عباس
 یا عباس شاہ عباس یا عباس

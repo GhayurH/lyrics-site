@@ -88,9 +88,6 @@ romanLyrics: |-
   Tere bharose chalta hai Sajjad ka qalam
   Is ne to de diya hai zamaane ko aasra
   Maula Husain sab ko dikhaayeṅ ge Karbala
-# source_id: nohayonline:8dcbcfcd539b5fe221f7
-# source_url: https://www.nohayonline.com/details_content.php?id=2800
-# raw_sha256: 31cd0528bbe08a0158319dc7aea8ec1b2661c0a416f32f8201841ea76ee105a6
 ---
 
 دل چھوٹا مت کرو وہ بلائیں گے کربلا

@@ -1,10 +1,10 @@
 ---
-title: عزا جاری رہے گی
-alternateTitle: Shabbir Ki Aza Ka
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عزا جاری رہے گی"
+alternateTitle: "Shabbir Ki Aza Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
 tags: []
@@ -68,12 +68,6 @@ romanLyrics: |-
   Jis ke liye sitam ka taana buna gaya tha
   Diwaar-e-shar meiṅ Aamir jis ko chuna gaya tha
   Nayyar wohi qabila ab phul phal raha hai
-# source_id: nohayonline:2f64f0ca05659c94dea4
-# source_url: https://www.nohayonline.com/details_content.php?id=2133
-# raw_sha256: a839d09b8f36e034ee8b5accd0639563015b95a321b3fa304af888d76911153b
-# source_id: nohayonline:5f23e41dd9f5d8ec5980
-# source_url: https://www.nohayonline.com/details_content.php?id=3599
-# raw_sha256: dae7819a58330e3eeba5a73c099342fe65bf00b52ffa89dfee01215bd778f8e9
 ---
 عزا جاری رہے گی
 شبیر کی عزا کا سورج نکل رہا ہے

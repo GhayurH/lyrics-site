@@ -59,9 +59,6 @@ romanLyrics: |-
   Rehan kya parhuṅ maiṅ ek baap ki wo rukhsat
   Kaise likhega Danish donoṅ ke dil ki haalat
   Rote the keh ke Maula haafiz Khuda tumhaara
-# source_id: nohayonline:e243c82537cd737011bc
-# source_url: https://www.nohayonline.com/details_content.php?id=2117
-# raw_sha256: 37a24c3a33f6eb567683fca513ee02531b5472cecba99d5078a3617f14ffbcbd
 ---
 جانے لگا مدینے سے جب شہ کا قافلہ
 صغریٰ کے پاس آ کے یہ مولا نے تب کہا

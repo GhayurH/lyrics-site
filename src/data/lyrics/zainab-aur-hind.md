@@ -54,9 +54,6 @@ romanLyrics: |-
   Haae naana ka bhara ghar ummat ne lut liya
   Ye boli Hind kiuṅ Bibi luti wo shaan aur shaukat
   Kaha Zainab ne Sarwar ki zamiṅ ko jo sajaana tha
-# source_id: nohayonline:809b3db21cf74c37a40a
-# source_url: https://www.nohayonline.com/details_content.php?id=3431
-# raw_sha256: 2f1634ccd0052522e6dff36d381f78f2f897354fb77837736c87c4b87fa05cda
 ---
 
 زینب اور ہند اور شام کا وہ قید خانہ تھا

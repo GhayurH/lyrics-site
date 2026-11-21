@@ -60,9 +60,6 @@ romanLyrics: |-
   Matlub-e-do jahaaṅ Shah-e-aali maqaam hai
   Paata raha Uruj yuṅhi gham Husain ka
   Lehra raha hai aaj bhi parcham Husain ka
-# source_id: nohayonline:e38968237ecac2a4531b
-# source_url: https://www.nohayonline.com/details_content.php?id=3445
-# raw_sha256: db5d281cf7b9d164cf2038f89ed0f94d1cb67a4bebac3fe47560e260346c16b0
 ---
 
 ہے مومنوں پہ فرض اطاعت حسین کی

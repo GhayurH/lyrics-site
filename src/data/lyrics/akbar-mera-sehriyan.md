@@ -87,9 +87,6 @@ romanLyrics: |-
   Shah kehte the bas yehi ro ke
   Zakhm dil ke dikhauṅ maiṅ kaise
   Tera laasha uthauṅ maiṅ kaise
-# source_id: nohayonline:3a9ff5c0b2042426e5f5
-# source_url: https://www.nohayonline.com/details_content.php?id=878
-# raw_sha256: 7aa102f4f078652e088efad679a9aec5c3ffe8c8f68e4b122c48718a9d07cc1d
 ---
 میرا سہریاں والا اکبر
 زخم دل کے دکھاؤں میں کیسے

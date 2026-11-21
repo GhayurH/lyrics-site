@@ -54,9 +54,6 @@ romanLyrics: |-
   Khun naize pe rota tha ye sun kar sar-e-Sarwar
   Altaf sada dete the jab naize se Asghar
   Asghar ne bhi sine pe sinaaṅ khaayi hai baba
-# source_id: nohayonline:985d45bdc63466e704ef
-# source_url: https://www.nohayonline.com/details_content.php?id=1550
-# raw_sha256: 68dda896a7356d654bb66cb3c78677d1858d7dd5bec31b0f866f741de81a22ee
 ---
 اصغر کا لاشہ ڈھونڈتے پھرتے تھے جب عدو
 نیزے چبھو چبھو کے سرِ دشت چار سوں

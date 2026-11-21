@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Un ki Amir dunya meiṅ koi nahiṅ misaal
   Raah-e-Khuda meiṅ jin ke haiṅ naizoṅ pe sar charhe
-# source_id: nohayonline:4b07d39abe8db5d0c7ad
-# source_url: https://www.nohayonline.com/details_content.php?id=3497
-# raw_sha256: d95754a87cd3d61d5d492b27ec66fb733ba539906de97dee57ca61d18e8e3bae
 ---
 شبیر تو نے ایسے بھی درد و الم سہے
 ان کا دہر میں سامنا مرسل نہ کر سکے
@@ -54,7 +51,7 @@ romanLyrics: |-
 
 ۴
 زیارت میں میرے بارہویں ہادی کا ہے سلام
-ان بی‌بیوں پہ جن کے تھے بالوں میں منہ چھپے
+ان بیبیوں پہ جن کے تھے بالوں میں منہ چھپے
 
 ۵
 ان کی امیر دنیا میں کوئی نہیں مثال

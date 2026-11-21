@@ -49,9 +49,6 @@ romanLyrics: |-
   Sada bahe yuṅhi ashk-e-paiham
   Na jaane kal ho bhi ya na ho hum
   Ye mominoṅ pe karam ke din haiṅ
-# source_id: nohayonline:f1ca153bfc18b3b6865e
-# source_url: https://www.nohayonline.com/details_content.php?id=591
-# raw_sha256: 47893ea7d5d1ed3dfa405838a0af77499ddd0980536adbb0b8a9645230a86d1c
 ---
 عزائے اہل حرم کے دن ہیں
 یہ ذکر دوہرا ستم کے دن ہیں

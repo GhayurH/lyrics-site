@@ -1,10 +1,10 @@
 ---
-title: یثرب میں آئی خواب میں زینب کے یوں بتول
-alternateTitle: Ye Maa Kahan Na
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یثرب میں آئی خواب میں زینب کے یوں بتول"
+alternateTitle: "Ye Maa Kahan Na"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Nadeem Sarwar"
 tags: []
@@ -65,12 +65,6 @@ romanLyrics: |-
   Imsaal bhi Najaf ka iraada tha ae Dabir
   Aur Karbala bhi jaauṅ ye socha tha ae Dabir
   Par rah gaye tarap ke ke qismat rasa na thi
-# source_id: nohayonline:cafe823512a3caa848fd
-# source_url: https://www.nohayonline.com/details_content.php?id=3322
-# raw_sha256: f4f397a18ecf4c23e67d862c1ef9fdb1d18393d4c411ed93039346d13e71ede2
-# source_id: ziyaraat:55e1f22b8fc9fab842ca
-# source_url: https://www.ziyaraat.net/api/noha/1232
-# raw_sha256: 84189467b6f3e11cd156c32e317f844cc0912e5b6d99474786210df381d06ee7
 ---
 یثرب میں آئی خواب میں زینب کے یوں بتول
 ماتھا بھرا تھا خون میں سر پر ردا نہ تھی

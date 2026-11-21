@@ -1,10 +1,10 @@
 ---
-title: پیارے نبی کی پیاری نواسی
-alternateTitle: Pyare Nabi Ki Pyari
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پیارے نبی کی پیاری نواسی"
+alternateTitle: "Pyare Nabi Ki Pyari"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
 tags: []
@@ -51,12 +51,6 @@ romanLyrics: |-
   Bhai ho jis ka waaris-e-Quran
   Kaise wo Bibi ashk bahaati
   Shaam ko qaidi ban ke chali hai
-# source_id: nohayonline:804749a18e6bc8b8b26c
-# source_url: https://www.nohayonline.com/details_content.php?id=781
-# raw_sha256: 0c239b324e5add62df535c5674dafd2767bfb53e6085d45a32b65c1ae085ab8d
-# source_id: ziyaraat:a258bad71e212a2366a4
-# source_url: https://www.ziyaraat.net/api/noha/428
-# raw_sha256: 4d14ed4cd3d4c9fdc711d088637b40b4dbeae9ba9857c3f3cf1325874fd24006
 ---
 پیارے نبی کی پیاری نواسی
 شام کو قیدی بن کے چلی ہے

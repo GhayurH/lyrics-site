@@ -79,9 +79,6 @@ romanLyrics: |-
   Aur bain yehi aaye lab par
   Mar jaayegi gham se jab khwaahar
   Baazaar ka manzar dekhegi
-# source_id: nohayonline:a4be94b94ece1db78bcc
-# source_url: https://www.nohayonline.com/details_content.php?id=3743
-# raw_sha256: b91b06fe57ce930ccbbb5bdcc02c78ef3ecec7b5633319cd13ea3b5f146d9264
 ---
 
 سجاد کی آنکھوں میں صغرا

@@ -77,9 +77,6 @@ romanLyrics: |-
   Mahv-e-buka lahad meiṅ hai aaj Fatima bhi
   Bhaai ke gham meiṅ sar ko piteṅ ge Mustafa bhi
   Dekheṅ ge jab wo chehra mushkil kusha Ali ka
-# source_id: nohayonline:3c739e4c03c5746f82a9
-# source_url: https://www.nohayonline.com/details_content.php?id=1335
-# raw_sha256: 49dc9115c840e3307079e40cd9b52974e0887861ec2d49405911f362655085f3
 ---
 زخمی ستم کی تیغ سے حق کا ولی ہوا
 غمگین آج عرش پہ رب جلی ہوا

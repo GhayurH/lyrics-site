@@ -1,10 +1,10 @@
 ---
-title: بازار میں یہ زینب فضّہ سے کہہ رہی ہے
-alternateTitle: Amma Mujhe Chupa Lo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بازار میں یہ زینب فضّہ سے کہہ رہی ہے"
+alternateTitle: "Amma Mujhe Chupa Lo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Hamid Baltistani"
 poet: "Mir Takallum"
 tags: []
@@ -60,12 +60,6 @@ romanLyrics: |-
   Bazaar ka Takallum kaisa asar tha jaane
   Aksar watan meiṅ Zainab ye keh ke chauṅk uthi hai
   Amma mujhe chhupa lo
-# source_id: nohayonline:3dcb731429f3014d219f
-# source_url: https://www.nohayonline.com/details_content.php?id=813
-# raw_sha256: a588a9e37109b712789a6221b64bc5bc39437cd6234630a19e174829d4b175ac
-# source_id: ziyaraat:ced82af96d42671264ac
-# source_url: https://www.ziyaraat.net/api/noha/337
-# raw_sha256: 8a811ccb07c5dc6a3c184ffdc2876523b3488bf57a2037c441b3509c9efed01d
 ---
 
 بازار میں یہ زینب فضّہ سے کہہ رہی ہے

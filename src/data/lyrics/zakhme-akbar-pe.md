@@ -70,9 +70,6 @@ romanLyrics: |-
   Ashk aankhoṅ se paighaam rawaaṅ the
   Aal-e-Ahmad meiṅ shor-e-buka tha
   Jab ye kehte the Sibt-e-Payambar
-# source_id: nohayonline:98f6e9e76e31926329d4
-# source_url: https://www.nohayonline.com/details_content.php?id=102
-# raw_sha256: 7db27100e34fa4859de7c0ff24a2cd94f29d3e0f58efa3f2c0d91e50ceee1698
 ---
 کہہ رہے تھے یہ رو رو کے سرور
 زخم اکبر پہ لیلا ردا ڈال دو

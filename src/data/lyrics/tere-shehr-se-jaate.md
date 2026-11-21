@@ -1,10 +1,10 @@
 ---
-title: تیرے شہر سے جاتے ہیں
-alternateTitle: Tere Shehr Se Jaate
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیرے شہر سے جاتے ہیں"
+alternateTitle: "Tere Shehr Se Jaate"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
@@ -65,12 +65,6 @@ romanLyrics: |-
   Marqad bhi payambar ka
   Shabbir jo kehte the
   Maiṅ marne chala naana
-# source_id: nohayonline:03f12aef0cf721dcb4ff
-# source_url: https://www.nohayonline.com/details_content.php?id=3320
-# raw_sha256: 477b3c281dd92c12100928662e5dfa7f23aa37c5605127cb8053642afe722b43
-# source_id: ziyaraat:cc6c79710760727172d6
-# source_url: https://www.ziyaraat.net/api/noha/1800
-# raw_sha256: bd8ba4101e01e9eec832c608d659ec6b8d5d161fd0b045d3a3bcbb56a0f497bb
 ---
 یا حسین یا حسین
 

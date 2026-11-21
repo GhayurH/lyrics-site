@@ -52,9 +52,6 @@ romanLyrics: |-
   Kangne ki jaa bandhi hai mere haath meiṅ rasan
   Logoṅ kaho ye zulm hua kis zamaane meiṅ
   Mere siwa dulhan hai qaid khaane meiṅ
-# source_id: nohayonline:ac83001d6ae4a3134296
-# source_url: https://www.nohayonline.com/details_content.php?id=3475
-# raw_sha256: 7a2cc97e6bcadb22521b05f8d76087ca26cb00678f989ccddcde98b2df60427e
 ---
 سر ننگے جب حرم گئے دربار شام میں
 شور و فغاں تھا مرقد خیرالانام میں

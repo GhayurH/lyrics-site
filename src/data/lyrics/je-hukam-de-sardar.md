@@ -1,0 +1,73 @@
+---
+title: "جے حکم دے سردار"
+alternateTitle: "Je Hukam De Sardar"
+recitationId: "jay-hukam-de-sardar-sundas-batool-lyrics-in-punjabi-2026"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
+kalamType: "Qasida"
+poet: "Zakir Amanat Ali Jafri"
+reciter: "Sundas Batool"
+year: 2026
+tags: []
+aliases: ["jay-hukam-de-sardar-sundas-batool-lyrics-in-punjabi-2026", "Jay Hukam De Sardar Sundas Batool Lyrics In Punjabi 2026"]
+published: true
+romanLyrics: |-
+  1
+  Je hukam de sardaar karaṅ ik waar, waar nuṅ lakh tera dewaaṅ maar
+  Jaanrde oh mainuṅ maiṅ kitna dalair aaṅ, sher jo Khuda da ae, maiṅ odha sher aaṅ
+  Hath vi na laawaaṅ howe sab da murdiyaṅ de wich shumaar
+
+  2
+  Maiṅ wekhaaṅ te maar dewaaṅ, naslaaṅ ujaar dewaaṅ, maiṅ Ali aaṅ
+  Jithe jithe nazar meri jaawe, ohnuṅ agla saah fer na aawe
+  Ghaazi rain de mainuṅ Haider banaa na, baar baar nuṅ lakh tuṅ mainuṅ sunaa na
+  Ghore de summaaṅ che rol dewaaṅ tukre kar ke chaar chaar
+
+  3
+  Maiṅ mitti udaa ke maaraaṅ, paani bola ke maaraaṅ, maiṅ khaamosh aaṅ
+  Karaaṅ maiṅ ishaare arshaaṅ toṅ digan taare, te mar jo gae saare
+  Jag te sun lo maiṅ Murtaza di shabih aaṅ, Ghaazi mainuṅ samjho na maiṅ te Ali aaṅ
+  Suraj apne hath che le ke chaawaaṅ sab nuṅ dewaaṅ saar
+
+  4
+  Husaini saalaar maiṅ aaṅ, sun le jarraar maiṅ aaṅ, je laraaṅ maiṅ
+  Laran te aawaaṅ waar kar ke hawa wich maiṅ sar sab uraawaaṅ
+  Hukam mainuṅ Akbar de baabe da howe, mere saamne aj na koi khalowe
+  Ik ik nuṅ maiṅ maar dewaaṅ zinda kar ke nuṅ nuṅ waar
+
+  5
+  Qaza mere hath de wich ae, jaza mere hath de wich ae, maiṅ Abbas aaṅ
+  Zindagi te maut waale fan mainuṅ baabe Ali ne sikhaae
+  Nur-e-Mustafa jo maiṅ ohda ghurur aaṅ, maut dur utni je jitni maiṅ dur aaṅ
+  Aaj zindagi aaṅ maut dewaaṅ mere hath che ikhtiyaar
+---
+
+۱
+جے حکم دے سردار کراں اک وار، وار نوں لاکھ تیرا دیواں مار
+جانڑدے اوہ مینوں میں کتنا دلیر آں، شیر جو خدا دا اے، میں اوہدا شیر آں
+ہتھ وی نہ لاواں ہووے سب دا مردیاں دے وچ شمار
+
+۲
+میں ویکھاں تے مار دیواں، نسلاں اجاڑ دیواں، میں علی آں
+جتھے جتھے نظر میری جاوے، اوہنوں اگلا ساہ فیر نہ آوے
+غازی رہن دے مینوں حیدر بنا نہ، بار بار نوں لاکھ توں مینوں سنا نہ
+گھوڑے دے سُماں چے رول دیواں ٹکڑے کر کے چار چار
+
+۳
+میں مٹی اڈا کے ماراں، پانی بولا کے ماراں، میں خاموش آں
+کراں میں اشارے عرشاں توں ڈگن تارے، تے مر جو گئے سارے
+جگ تے سن لو میں مرتضیٰ دی شبیہ آں، غازی مینوں سمجھو نہ میں تے علی آں
+سورج اپنے ہتھ چے لے کے چاواں سب نوں دیواں ساڑ
+
+۴
+حسینی سالار میں آں، سن لے جرار میں آں، جے لڑاں میں
+لڑن تے آواں وار کر کے ہوا وچ میں سر سب اڑاواں
+حکم مینوں اکبر دے بابے دا ہووے، میرے سامنے اج نہ کوئی کھلووے
+اک اک نوں میں مار دیواں زندہ کر کے نوں نوں وار
+
+۵
+قضا میرے ہتھ دے وچ اے، جزا میرے ہتھ دے وچ اے، میں عباس آں
+زندگی تے موت والے فن مینوں بابے علی نے سکھائے
+نورِ مصطفیٰ جو میں اوہدا غرور آں، موت دور اتنی جے جتنی میں دور آں
+آج زندگی آں موت دیواں میرے ہتھ چے اختیار

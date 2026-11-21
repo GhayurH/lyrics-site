@@ -1,10 +1,10 @@
 ---
-title: نہ رکھ اب چادر بازوؤں پہ
-alternateTitle: Na Rakh Ab Chadar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ رکھ اب چادر بازوؤں پہ"
+alternateTitle: "Na Rakh Ab Chadar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
@@ -66,12 +66,6 @@ romanLyrics: |-
   Ye ek ibaadat hai aisi
   Jo hoti kabhi bhi qaza nahiṅ
   Zahra ki jaaṅ sharma nahiṅ
-# source_id: nohayonline:6ea31efacc0b992f5254
-# source_url: https://www.nohayonline.com/details_content.php?id=3314
-# raw_sha256: 53a057c7ef383991d51b136068130403ea1381ee3bb810c905e4e4e1d8026722
-# source_id: ziyaraat:df04f8a7ca4a68d6700c
-# source_url: https://www.ziyaraat.net/api/noha/306
-# raw_sha256: 4b6a2d1aec3a2f95c14b9cfbd5abf3d9dbeec4a9daa0045430b0c4c187dad456
 ---
 
 نہ رکھ اب چادر بازوؤں پہ

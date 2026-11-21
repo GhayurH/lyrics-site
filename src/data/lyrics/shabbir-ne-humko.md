@@ -153,9 +153,6 @@ romanLyrics: |-
   Shabbir ne hum ko sikhaaya hai
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
-# source_id: nohayonline:5675aeac98d5fb7484d0
-# source_url: https://www.nohayonline.com/details_content.php?id=2637
-# raw_sha256: e6f20cdf2a3a594cfa5d3a014dbc3da33cd054dba2f266b071fd81dc6fe570af
 ---
 دنیا میں جو بیداری کی آواز ہے ہر جا
 ہے بنتِ پیمبر تیرے شبیر کا صدقہ

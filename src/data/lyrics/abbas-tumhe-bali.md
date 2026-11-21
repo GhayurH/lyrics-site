@@ -69,9 +69,6 @@ romanLyrics: |-
   Pehna hai tere naam ka tawiz bana kar
   Dil kehta hai Sarkar se bas itni dua kar
   Mazhar ko bhi Farhan si aulad ata kar
-# source_id: nohayonline:dacf67ca43f883045486
-# source_url: https://www.nohayonline.com/details_content.php?id=2346
-# raw_sha256: 5745432b01726fdc4fba4d6afe22c05e2297de1bec93ceb7433febbcfa919ce0
 ---
 تو شیر جری ہے سخیوں کا سخی ہے
 یا باب حوایج میری فریاد کو سن لے

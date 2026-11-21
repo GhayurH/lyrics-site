@@ -11,13 +11,6 @@ tags: []
 aliases: ["ali-kay-sath-hai-zehra-ki-shadi"]
 recitationId: "ali-kay-sath-hai-zehra-ki-shadi-mir-hasan-mir"
 published: true
-# source_id: tajpoints:395e0fec1a77b74b5657
-# source_url: https://tajpoints.com/2023/01/ali-kay-sath-hai-zehra-ki-shadi-mir.html
-# raw_sha256: 263ec0666aa4df096016e0649bd40c5a1139e760383363873060c2707d9048c7
-# additional_source_id: tajpoints:8dd5cd1e501ade1677c9
-# additional_source_url: https://tajpoints.com/2017/02/alias-ke-sath-hai-zahrasa-ki-shadi.html
-# source_part_poets: Qamar Jalalvi (opening couplet); Mohsin Naqvi (insert verses); Mir Takallum Mir (stanza 9); Gohar Jarchvi (later verses)
-# source_stanza_boundaries: two opening couplets and 13 lyric paragraphs verified in both archived HTML sources
 romanLyrics: |-
   Murtaza ko khaana zaad-e-Rabb-e-Akbar dekh kar
   Byah di beti Payambar ne bara ghar dekh kar

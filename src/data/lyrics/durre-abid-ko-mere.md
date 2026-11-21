@@ -65,9 +65,6 @@ romanLyrics: |-
   Nauha har waqt likhuṅ naam-e-Sarwar meiṅ maruṅ
   Gar lahad meiṅ bhi rahuṅ maatam-e-Shaah karuṅ
   Ae Raza nauha-e-Sarwar jo sunaaye koi
-# source_id: nohayonline:288edb6e5c2551a1e15f
-# source_url: https://www.nohayonline.com/details_content.php?id=3107
-# raw_sha256: 7a6e63ff77256a126279eef8c37f79f6cd4e07b87b7b57b6d548e15e92c54056
 ---
 بیمار ناتواں ہے سجاد کو نہ مارو
 روتی رہی زینب کہتی رہی زینب

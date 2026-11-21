@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Waaqia Hazrat-e-Qaasim ki shahaadat ka Rashid
   Sun ke hota hai har ek ka dil-e-muztar tukre
-# source_id: nohayonline:2d1da972b95c9ff681c0
-# source_url: https://www.nohayonline.com/details_content.php?id=1973
-# raw_sha256: c27d24f37e4b2043b69b466e0193b4c016295b3e193d6663827f12d327802a37
 ---
 کربلا میں ہوا لختِ دل شبیر ٹکڑے
 رن سے قاسم کے اٹھا لائے ہیں سرور ٹکڑے

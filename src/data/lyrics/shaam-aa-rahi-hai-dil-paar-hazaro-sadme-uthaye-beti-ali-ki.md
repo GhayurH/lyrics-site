@@ -5,6 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Gohar Jarchvi"
+reciter: "Rizwan Zaidi"
 tags: []
 aliases:
   - "Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
@@ -45,6 +47,12 @@ romanLyrics: |-
   8
   Jo ke pali thi tukro pe unke, azaad hai wo adnaa kanizeiṅ
   Kaisi qayamat aayi hai Ya Rab, qaidi hai haaye beti ali ki
+
+  9
+  Tharraye naize se ro ke sar bhi
+  Gir gir ke tarpe farsh-e-zamiṅ par
+  Haalat pe apni royi tarap kar
+  Yuṅ sar jhukaaye beti Ali ki
 ---
 
 شام آ رہی ہے دِل پر ہزاروں، صدمے اٹھائے بیٹی علیؑ کی
@@ -60,7 +68,7 @@ romanLyrics: |-
 عباسؑ آجا چادر اڑھا جا، گھبرا نہ جائے بیٹی علیؑ کی
 
 ۳
-برسا رہے ہیں پتھر ستمگر، لگتے ہیں پتھر بی بیؑ کے سر پر
+برسا رہے ہیں پتھر ستمگر، لگتے ہیں پتھر بی‌بیؑ کے سر پر
 بازو بندھے ہیں بے بس ہے خود کو، کیسے بچائے بیٹی علیؑ کی
 
 ۴
@@ -82,3 +90,9 @@ romanLyrics: |-
 ۸
 جو کہ پلی تھیں ٹکڑوں پہ اُن کے، آزاد ہیں وہ ادنیٰ کنیزیں
 کیسی قیامت آئی ہے یا رب، قیدی ہے ہائے بیٹی علیؑ کی
+
+۹
+تھرائے نیزے سے رو کے سر بھی
+گر گر کے تڑپے فرشِ زمیں پر
+حالت پہ اپنی روئی تڑپ کر
+یوں سر جھکائے بیٹی علی کی

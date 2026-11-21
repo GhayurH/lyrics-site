@@ -97,9 +97,6 @@ romanLyrics: |-
   Husain roye lipat kar tan-e-baraadar se
   Dua karo bas ab ae Fikr tum ke ya Abbas
   Qarib qabr mile rauza-e-munawwar se
-# source_id: nohayonline:710e65f23d736a1ed8ba
-# source_url: https://www.nohayonline.com/details_content.php?id=1871
-# raw_sha256: a0f6a65433ae6a4326051588597771bc116200bb9fa654408332b05b338fc6d5
 ---
 
 یہ بولے حضرت عباس آ کے سرور سے

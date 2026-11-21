@@ -36,9 +36,6 @@ romanLyrics: |-
   Dulha tha Ibn-e-Shabbar aur Bint-e-Shaah dulhan
   Paamaal ho gaya jab dulha ka phul sa tan
   Haathoṅ se maiṅ dulhan ko bewa banayi amma
-# source_id: nohayonline:6c67b2b8663f9cebde2d
-# source_url: https://www.nohayonline.com/details_content.php?id=3763
-# raw_sha256: b29596334b2d0bfa973b6c50b4cbb4a77420b27b7cbd910329d4ad451674505d
 ---
 
 اماں اماں سن لو دہائی اماں

@@ -67,9 +67,6 @@ romanLyrics: |-
   Kaleja phatta hai Irfan sab ka sun sun ke
   Jigar ke khuṅ se masaaib ke khwaab bun bun ke
   Malak bhi rone lage aasmaaṅ pe sar dhun ke
-# source_id: nohayonline:ce72fec4be2f2023cf3f
-# source_url: https://www.nohayonline.com/details_content.php?id=946
-# raw_sha256: eb0200c65c772ef96171101df45611d5f629308e1dfd0ebe67e2c32563e5d9ac
 ---
 تھا کربلا میں عجب امتحانِ تیغِ علی
 وہ اک ننھی سی میت وہ جانِ تیغِ علی

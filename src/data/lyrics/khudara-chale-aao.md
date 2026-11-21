@@ -54,9 +54,6 @@ romanLyrics: |-
   Sukun ka mujhko ek lamha
   Na aaye Ammu na aaye tum
   Khudara chale aao
-# source_id: nohayonline:355114743dd9ec69686b
-# source_url: https://www.nohayonline.com/details_content.php?id=1458
-# raw_sha256: 1e7e5c35961299538d67e1494b9e21238d0457ac332d8c38fdc6970d417667b6
 ---
 سکینہ کہتی ہے بابا
 چلے آؤ چلے آؤ

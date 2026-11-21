@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Ranj o gham o alam se Abbas ko bacha lo
   Laila ke laal kar ke Irfaaṅ pe mehrbaani
-# source_id: nohayonline:2c04f230257e5b04d26a
-# source_url: https://www.nohayonline.com/details_content.php?id=938
-# raw_sha256: 1488163c23c3e6cc4e8f3df2f0e8482398429cc44f0b3a33f3c6d150eda7f65f
 ---
 لاشے پہ کر رہی ہے لیلیٰ یہ نوحہ خوانی
 نظروں میں پھر رہی ہے اکبر تیری جوانی

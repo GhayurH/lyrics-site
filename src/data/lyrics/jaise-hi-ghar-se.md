@@ -52,9 +52,6 @@ romanLyrics: |-
   Pehchaanne se qaasir har koi Amir hoga
   Qasim bharam rakhega kuchh is tarah chacha ka
   Haaye Hasan haaye Hasan
-# source_id: nohayonline:9b0f3775caa6402296d9
-# source_url: https://www.nohayonline.com/details_content.php?id=2958
-# raw_sha256: b117b463a6ae515db8931b18cb00402a369f7a825c3ef40ef840cd9d292ef8f3
 ---
 جیسے ہی گھر سے نکلا تابوت مجتبیٰ کا
 تیروں میں گھِر گیا تھا فرزند مرتضیٰ کا

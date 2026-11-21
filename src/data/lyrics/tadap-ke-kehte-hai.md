@@ -83,9 +83,6 @@ romanLyrics: |-
   Chhupaaye rakhti hai jhule ki lakriyaaṅ ye paas
   Kaho Yazid se beshir ki khata kya hai
   Ke chhe mahine ke bachche ka khuṅ baha kya hai
-# source_id: nohayonline:8839de1d4983fcda32c4
-# source_url: https://www.nohayonline.com/details_content.php?id=1578
-# raw_sha256: b1bfbfc323b1876d2884aad3686f2d28c6482cfe1ed7ccab7c3652ab5bba6b16
 ---
 عرصۂ ہستی میں جس وقت کے آئیں گی بتول
 کہہ کے فرزندوں کا غم سب کو رلائیں گی بتول

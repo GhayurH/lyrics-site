@@ -63,9 +63,6 @@ romanLyrics: |-
   Aamir ye sada sun ke tarapti thi Sakina
   Alam yehi farmate the jab Shah-e-Madina
   Ab baad mere tum ko sataeṅge sitamgar
-# source_id: nohayonline:f9db7a6f28ec777c6bf4
-# source_url: https://www.nohayonline.com/details_content.php?id=2435
-# raw_sha256: bef93887916c8d84ab7edafe04495cf08581889bdf3aaa6bca9db7a58ded6df2
 ---
 ہے دنیا میں بیٹی بہت ایسے بچے
 سدا باپ نہیں جیتے ہیں کسی کے

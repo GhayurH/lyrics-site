@@ -53,9 +53,6 @@ romanLyrics: |-
   Har azaadaar ko majlis meiṅ bata do Yasir
   Sayyeda aayi hai kuchh ashk-e-aza ki khaatir
   Koi majlis meiṅ na roya to qayaamat hogi
-# source_id: nohayonline:934e719896be5f424266
-# source_url: https://www.nohayonline.com/details_content.php?id=1655
-# raw_sha256: c877f56823adb37e4fa10dcf10c9be1f3c85708a5766da45b252d21ab200218a
 ---
 کربلا ہوگی جو برپا تو قیامت ہو گی
 دشت میں آئیں گی زہرا تو قیامت ہوگی

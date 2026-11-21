@@ -98,9 +98,6 @@ romanLyrics: |-
   Aaṅkhoṅ ke lahu se surkh hua
   Tha Shaam ka sab rasta Jabir
   Tu dekh nahiṅ paata Jabir
-# source_id: nohayonline:858c78c11afa8fcea6a0
-# source_url: https://www.nohayonline.com/details_content.php?id=2539
-# raw_sha256: c796770b07704e209437c29baf571cf3fcaf6a1f5054b33d823b56fc1f9c0105
 ---
 اچھا ہے تیری بینائی نہیں
 تو دیکھ نہیں پاتا جابر

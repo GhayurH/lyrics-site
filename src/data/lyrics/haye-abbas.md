@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Par gayi jabke Madine pe Anis unki nazar
   Marsiya parhti thiṅ Kulsum yehi ro ro kar
-# source_id: nohayonline:295ce8adcd17d01d970b
-# source_url: https://www.nohayonline.com/details_content.php?id=81
-# raw_sha256: 9f9b6a2044b8d67771433617a0ae68f0ae96f022364b5ae3c3eb532e15df3c1f
 ---
 ومن تہرل لی یا علی قدمنا
 ہاے عباس ہاے عباس

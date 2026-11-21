@@ -77,9 +77,6 @@ romanLyrics: |-
   Ye kehti hui ghamkhwar chali
   Kunbe ke tarafdaar
   Sarwar se khabardar
-# source_id: nohayonline:7b6771cf62af89afe8ba
-# source_url: https://www.nohayonline.com/details_content.php?id=2677
-# raw_sha256: 017e5672473a5efc0af41b5d84e78c0c455e63b14db52f65b5cfd6ad66486a27
 ---
 یا مولا یا غازی عباس علمدار
 سقاے سکینہ اے جانِ حزینہ

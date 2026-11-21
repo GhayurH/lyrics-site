@@ -55,9 +55,6 @@ romanLyrics: |-
   Bayaan Aamir jo Zainab kar rahi thi
   Na puchho Shams wo kaisi ghari thi
   Ke maqtal se Madina jaa rahi hai
-# source_id: nohayonline:d04f663f4f18b810cc9a
-# source_url: https://www.nohayonline.com/details_content.php?id=3602
-# raw_sha256: bdc2e737ce9508308ec1ab7d02de1a4b0e949897e3acda7b51695a5cf50c1a90
 ---
 
 دیکھ لو عباس میرے دیکھ لو عباس

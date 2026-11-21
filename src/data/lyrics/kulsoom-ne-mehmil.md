@@ -64,9 +64,6 @@ romanLyrics: |-
   Ae Sarwar o Rehaan gham-e-Shaah-e-Huda se
   Sayyidaaniyaaṅ uthi na kabhi farsh-e-aza se
   Aaṅkhoṅ meiṅ lahu hoṅtoṅ pe nauha nazar aaya
-# source_id: nohayonline:175dc1974efa63d64744
-# source_url: https://www.nohayonline.com/details_content.php?id=27
-# raw_sha256: 0a9e0fe19e4c9f8a3125728dd12591a021ae5c60e3ad323717c7dd4c5b74f9e8
 ---
 
 یثرب نظر آیا

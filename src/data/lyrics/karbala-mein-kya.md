@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Jis ki hasrat liye dunya se gaye sabz qaba
   Subh-e-Aashur wo lutte hue sehra dekha
-# source_id: nohayonline:53c56bd69c47ed0c29dd
-# source_url: https://www.nohayonline.com/details_content.php?id=2342
-# raw_sha256: 9739a87deb5f6472d77065f6e47d8cd180a155f03d9b41b563c090a0faace61b
 ---
 کربلا میں کیا بتائیں ہم نے کیا کیا دیکھا
 ہم نے لاکھوں میں ہے شبیر کو تنہا دیکھا

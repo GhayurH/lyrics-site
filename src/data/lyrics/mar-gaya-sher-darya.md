@@ -71,9 +71,6 @@ romanLyrics: |-
   Sadaa-e-Dayam o Yazdaṅ lab-e-gharib pe thi
   Baad tere nishaan-e-mazaalim
   Haae kis ko dikhaaegi Zainab
-# source_id: nohayonline:bb581913ada7109ebbbf
-# source_url: https://www.nohayonline.com/details_content.php?id=1459
-# raw_sha256: 8bdfd9ae95e5f6a0feae4a2b97619da2f0ea24433fcac7ad4cd85d8e68530f77
 ---
 مر گیا شیر دریا پہ جا کر
 رن میں کس کو پکارے گی زینب

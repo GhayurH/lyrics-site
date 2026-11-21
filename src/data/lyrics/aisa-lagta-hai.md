@@ -1,10 +1,10 @@
 ---
-title: ایسا لگتا ہے حسن دو بار کفنائے گئے
-alternateTitle: Aisa Lagta Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ایسا لگتا ہے حسن دو بار کفنائے گئے"
+alternateTitle: "Aisa Lagta Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Asif Bijnori"
 tags: []
 aliases: []
@@ -58,12 +58,6 @@ romanLyrics: |-
   Daastaan-e-ranj o gham Asif karuṅ kaise bayaaṅ
   Dar sataata hai ye Aamir gir na jae aasmaaṅ
   Aqraba maiyyat Hasan ki lae le jae gaye
-# source_id: nohayonline:7cb9ca4e53f8f9cc7769
-# source_url: https://www.nohayonline.com/details_content.php?id=3481
-# raw_sha256: 81bc26a01c4770132553a7306ad89fc30e14e5139f5059b37458f1ada2408db1
-# source_id: nohayonline:d082c0d89e9994bd9640
-# source_url: https://www.nohayonline.com/details_content.php?id=1276
-# raw_sha256: 00e84b0b0b4936930de5797804eb5669b189f889fe28908017e5c3c77ac164af
 ---
 ایسا لگتا ہے حسن دو بار کفنائے گئے
 سوچ کر پھٹتا ہے دل کتنے ستم ڈھائے گئے

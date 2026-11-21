@@ -64,9 +64,6 @@ romanLyrics: |-
   Le gayi qabr talak pyaas ki shiddat Waiz
   Aaj tak mujh ko riwaayat meiṅ kahiṅ ye na mila
   Paani kab aur kahaaṅ baali Sakina ne piya
-# source_id: nohayonline:3dc7d4c16af4bddc5aca
-# source_url: https://www.nohayonline.com/details_content.php?id=2861
-# raw_sha256: a0600310555908a3f39e279a872d6fb1bfce2b0c011c877b81586ad3b1580257
 ---
 ہائے سکینہ ہائے سکینہ
 ہائے یتیمہ ہائے یتیمہ

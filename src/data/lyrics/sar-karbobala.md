@@ -59,9 +59,6 @@ romanLyrics: |-
   Maatam kare girya kare Sarwar ke azaadaar
   Har majlis-e-Shabbir meiṅ karti haiṅ ye izhaar
   Ta hashr buka Maadar-e-Shabbir karegi
-# source_id: nohayonline:e1a5afb57742a13a1608
-# source_url: https://www.nohayonline.com/details_content.php?id=423
-# raw_sha256: 21f1ba3b2da954a8d35f46b5766eba13c63729edbc021cafffcb91f344c8ffcb
 ---
 نہ محمل ہے نہ ہودج نہ کجاوا نہ عماری
 اس شان سے جاتی ہے سوئے شام سواری
@@ -99,7 +96,7 @@ romanLyrics: |-
 شب میں جو بکا مادر شبیر کرے گی
 
 ۵
-سر ننگے ہیں یہ بی‌بیاں اے شام کے لوگوں
+سر ننگے ہیں یہ بیبیاں اے شام کے لوگوں
 کچھ شرم و حیا چاہیے اس طرح نہ دیکھو
 لا کر انہیں کچھ ظاہری چادر تو اڑھا دو
 یہ آل نبی ہیں انہیں مجبور نہ سمجھو

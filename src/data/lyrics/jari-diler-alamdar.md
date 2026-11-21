@@ -53,9 +53,6 @@ romanLyrics: |-
   Jari ke saath shaah-e-mashraqain ka maatam
   Alam ke saath Sakina ke bain ka maatam
   Lab-e-Furaat pe pyaasa jo so gaya Abbas
-# source_id: nohayonline:d1eac575437550948e35
-# source_url: https://www.nohayonline.com/details_content.php?id=87
-# raw_sha256: 154854663028d473bfa3d45db7c482d3528493d03bd5006af8660a1608b303fb
 ---
 
 جری دلیرِ علمدار با وفا عباس

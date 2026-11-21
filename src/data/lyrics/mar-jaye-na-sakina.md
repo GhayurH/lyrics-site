@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Bas itna kaha Gohar aur mar gayi shehzaadi
   Bin baap ke dunya meiṅ jina koi jina hai
-# source_id: nohayonline:e11fe4431f4111535b4c
-# source_url: https://www.nohayonline.com/details_content.php?id=2339
-# raw_sha256: a92ac4be62028875349806215046b2acbdc9ca8b1f7c8200eea281eb265254f1
 ---
 مر جائے نہ سکینہ زندان میں تنہا ہے
 گھیرے ہوئے بچی کو غربت کا اندھیرا ہے

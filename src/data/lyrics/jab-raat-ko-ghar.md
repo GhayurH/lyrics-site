@@ -48,9 +48,6 @@ romanLyrics: |-
   Rehaan magar kaun ye Sughra ko bataaye
   Jab aisi Madine meiṅ khabar paayegi Sughra
   Mar jaayegi Sughra
-# source_id: nohayonline:2f6196dd4bbf7f378e60
-# source_url: https://www.nohayonline.com/details_content.php?id=3491
-# raw_sha256: 02ee9137ba9d1e47ed0625a79c8dde869d534f64627c22cac564c0c1ff76feec
 ---
 آجا علی اکبر آجا علی اکبر
 جب رات کو گھر میں نہ تمہیں پائے گی صغرا

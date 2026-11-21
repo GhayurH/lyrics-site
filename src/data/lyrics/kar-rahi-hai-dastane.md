@@ -54,9 +54,6 @@ romanLyrics: |-
   Allah Allah Karbala se Shaam tak ka imtihaan
   Kar nahiṅ sakta koi Asif kisi surat bayaan
   Shadmaaṅ is gham meiṅ khud hai nauhakhwaaṅ khaimoṅ ki raakh
-# source_id: nohayonline:f4513ee94f20479d70a4
-# source_url: https://www.nohayonline.com/details_content.php?id=2621
-# raw_sha256: 27f63961c17356a8aed7193214d6bc96937b2ff1414fe1e3c7620ba018ce7d0f
 ---
 
 ہائے شام غریباں

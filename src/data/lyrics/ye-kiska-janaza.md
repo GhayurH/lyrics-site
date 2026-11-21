@@ -58,9 +58,6 @@ romanLyrics: |-
   Ae Daayam o Yazdaaṅ ek mahshar hai sar-e-Kufa
   Har aaṅkh meiṅ haiṅ aaṅsu har lab pe hai ye nauha
   Bechain haiṅ Paighambar ye kis ka janaaza hai
-# source_id: nohayonline:3077b9501fee93510373
-# source_url: https://www.nohayonline.com/details_content.php?id=2526
-# raw_sha256: 8ecd30234088bb1b9d9cecc67744375c5c2abc7e969a404aaa6c2074d076a601
 ---
 ایک حشر کا ہے منظر یہ کس کا جنازہ ہے
 سادات ہے نوحہ گر یہ کس کا جنازہ ہے

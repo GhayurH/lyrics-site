@@ -49,9 +49,6 @@ romanLyrics: |-
   Saaleh na puchho maqtal ka haal
   Qaasir zabaaṅ hai jina muhaal
   Asghar ka gham hai bekali
-# source_id: nohayonline:5d4ae26fdc4ae5dd8947
-# source_url: https://www.nohayonline.com/details_content.php?id=707
-# raw_sha256: 70047f95fd08df9aa75ecdc6a540856cf94a1bde0367c2026b98c9bae6a5890e
 ---
 
 ڈھل گیا سورج شمع جلی

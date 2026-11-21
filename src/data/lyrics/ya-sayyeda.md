@@ -1,10 +1,10 @@
 ---
-title: یا سیدہ ہائے ضعیفہ فاطمہ
-alternateTitle: Ya Sayyeda
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا سیدہ ہائے ضعیفہ فاطمہ"
+alternateTitle: "Ya Sayyeda"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Shahid Baltistani"
 tags: []
@@ -75,12 +75,6 @@ romanLyrics: |-
   Bikhre haiṅ baal dard se chehra nidhaal hai
   Gham se zaif ho gayi aaṅkhoṅ se khuṅ rawaaṅ hai
   Sayyeda Fatima Tahera Sayyeda
-# source_id: nohayonline:4bf8bf22fa3b33ba10a0
-# source_url: https://www.nohayonline.com/details_content.php?id=3303
-# raw_sha256: b81716c69070b6b430b7c6d899b52ce719c68f3478da8bd41ec21043a77badcb
-# source_id: ziyaraat:fa6577e837d21b106652
-# source_url: https://www.ziyaraat.net/api/noha/1728
-# raw_sha256: bf9991bb803eeeea0c9a7de00d2e53b589a52afc2c87bd365d79293dc4785499
 ---
 
 یا سیدہ ہائے ضعیفہ فاطمہ

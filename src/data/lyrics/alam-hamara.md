@@ -71,9 +71,6 @@ romanLyrics: |-
   Na hoga mohtaj wo kisi ka
   Hamare dawe pe jin ko shak ho
   Wo aa ke qismat ko aazmaeṅ
-# source_id: nohayonline:4153c3bfd7e8e35cdf1a
-# source_url: https://www.nohayonline.com/details_content.php?id=2283
-# raw_sha256: 15236ad157b7519c9c5ee871e7f4049a1ff2ed7c3a1fceaf1a48505f72077cd0
 ---
 کتنے زمانے گزر گئے
 علم ہمارا جھکا نہیں

@@ -92,9 +92,6 @@ romanLyrics: |-
   Safdar-e-haziṅ ko sar buland kar de
   Ya Abu Turaab ya Abu Turaab
   Kar le nauhakhwaan o shaairoṅ meiṅ mera intikhaab
-# source_id: nohayonline:e7a56ad13debb87d87fc
-# source_url: https://www.nohayonline.com/details_content.php?id=3133
-# raw_sha256: 002eb3478237815f8092bd2509ce9fbb075a7b68915f6e259c4b87ea7a9a1c22
 ---
 یا اعلیا یا مرتضیٰ یا ابا الحسن مشکل کشا
 یا ابو تراب یا ابو تراب یا ابو تراب یا ابو تراب
@@ -126,7 +123,7 @@ romanLyrics: |-
 ۴
 مولا وہ کنیزیں بن گئیں سوالی
 دل ہیں جن کے مضطر گودیاں ہیں خالی
-اے ساقی کرم تو بی‌بیوں پہ کر دے
+اے ساقی کرم تو بیبیوں پہ کر دے
 بیٹے بیٹیوں سے خالی گود بھر دے
 یا ابو تراب یا ابو تراب
 تو نے ہر سوال سے پہلے ہی دیا ہے جواب
@@ -137,7 +134,7 @@ romanLyrics: |-
 غور سے سنو تم یہ صدائے زینب
 ہے تمہارے حق میں یہ دعائے زینب
 یا ابو تراب یا ابو تراب
-مجلسوں میں بی‌بیاں آئیں نہ کبھی بے حجاب
+مجلسوں میں بیبیاں آئیں نہ کبھی بے حجاب
 
 ۶
 ہر دعا سے پہلے یہ دعا کریں ہم

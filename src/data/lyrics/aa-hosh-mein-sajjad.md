@@ -69,9 +69,6 @@ romanLyrics: |-
   14
   Dekhe to Nisar aaj koi Hurr ka muqaddar
   Dozakh se chala aa gaya Kausar ke kinaare
-# source_id: nohayonline:d8041714ab3ca858f2e2
-# source_url: https://www.nohayonline.com/details_content.php?id=3229
-# raw_sha256: 3b608b4d30939975633db03cd65aa27f1518fab0459082c0c2841e8b9e071af5
 ---
 
 آ ہوش میں سجاد کے گھر جل گئے سارے

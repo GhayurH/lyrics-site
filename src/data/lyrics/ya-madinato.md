@@ -67,9 +67,6 @@ romanLyrics: |-
   Chashm-e-Tasavvur meiṅ hai aaj bhi wo shor o shain
   Kaise ye aansu ruke kaise mile dil ko chain
   Gunjti hai kaan meiṅ aaj talak wo sada
-# source_id: nohayonline:eb390d3d2056296821dd
-# source_url: https://www.nohayonline.com/details_content.php?id=3600
-# raw_sha256: cf02bed3c8cb565b9c8b93074709dbe52ba66a50002ef0acab63edb8d84ad52f
 ---
 شہر مدینہ میں پھر ہو گیا محشر بپا
 آیا ہے گھر لوٹ کر اجڑا ہوا قافلہ
@@ -100,7 +97,7 @@ romanLyrics: |-
 
 ۵
 ملنے سکینہ سے سب آئی ہے ہم جولیاں
-بی‌بیاں خاموش ہیں گونجتی ہے سسکیاں
+بیبیاں خاموش ہیں گونجتی ہے سسکیاں
 حضرتِ صغرا ادھر لینے لگی ہچکیاں
 کون بتائے بھلا درد بھرا ماجرا
 

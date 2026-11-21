@@ -63,9 +63,6 @@ romanLyrics: |-
   Hum ne Izhaar gham-e-Shaah meiṅ maatam hi kiya
   Yaad-e-Akbar meiṅ sada aankh ko purnam hi kiya
   Ho bapa shaam o sehar dil meiṅ na girya kaise
-# source_id: nohayonline:dbf8eebc29c63dbeadf0
-# source_url: https://www.nohayonline.com/details_content.php?id=1139
-# raw_sha256: e512b4ee9b9546f81092a301e8c2dd93163543684c0e18f44509d1108b2d7b9d
 ---
 
 بولی لیلیٰ کے تو مرنے کو جو آمادہ ہے

@@ -1,10 +1,10 @@
 ---
-title: اکبر تیری لاش اٹھائے کیسے حسین
-alternateTitle: Akbar Teri Laash
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر تیری لاش اٹھائے کیسے حسین"
+alternateTitle: "Akbar Teri Laash"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
@@ -79,12 +79,6 @@ romanLyrics: |-
   Sine pe pisar ke sar rakh kar
   Ye kehte rahe bas Shah-e-Diṅ
   Ab zinda rahuṅ maiṅ bhi kiuṅ kar
-# source_id: nohayonline:c7caeafca207216b05b6
-# source_url: https://www.nohayonline.com/details_content.php?id=902
-# raw_sha256: c48f463f460b027c628b5285562f9c9cc6eba65545543fc432c1a39053dec3a7
-# source_id: ziyaraat:550955510e9341140953
-# source_url: https://www.ziyaraat.net/api/noha/2394
-# raw_sha256: 655e198e32fa0f0942b826ab86e4fb39c48d83a6303a4a6747152e9e977503bf
 ---
 اکبر تیری لاش اٹھائے کیسے حسین
 

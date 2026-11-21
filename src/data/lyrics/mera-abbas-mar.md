@@ -71,9 +71,6 @@ romanLyrics: |-
   Zaairoṅ par lagi hai paabandi
   Meri maaṅ intezaar karti hai
   Kaun aayega Karbala baba
-# source_id: nohayonline:3f61331b9ff9e525c0e1
-# source_url: https://www.nohayonline.com/details_content.php?id=2416
-# raw_sha256: 775ce2e9e04a7f73e40b1b9283998c4097bbfa812d0fa668859949a18adc72ff
 ---
 
 کوئی چادر نجف سے لے آؤ

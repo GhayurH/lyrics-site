@@ -67,9 +67,6 @@ romanLyrics: |-
   Naam tere chaahne waaloṅ meiṅ raqam ho
   Kar do ata hum ko sila nauhe ka maula
   Khwaab ho pura Askari maula
-# source_id: nohayonline:335f497848d86c93c6fb
-# source_url: https://www.nohayonline.com/details_content.php?id=1306
-# raw_sha256: 4be2695c37749baf3dda3acaef275023bf6da8176ab095dc0991218d5e075dfe
 ---
 
 یہ غم وہ غم ہے کہ دونوں جہان روتے ہیں

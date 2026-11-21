@@ -68,9 +68,6 @@ romanLyrics: |-
   Hai sabr o zabt ki tasvir Asif
   Koi kaise kare tahrir Asif
   Parhe Aamir bhi kya Abbas-e-Ghazi
-# source_id: nohayonline:a595d09b95c948450f0b
-# source_url: https://www.nohayonline.com/details_content.php?id=2129
-# raw_sha256: f707c13834b0d1238475ec72b984e7e374b203ff9561fb7f978cacd3d32de86e
 ---
 عباس عباس عباس علمدار
 سکینہ کے چچا عباس غازی

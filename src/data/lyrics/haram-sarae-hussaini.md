@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Asir ho ke sab ahl-e-haram shahidoṅ ke
   Suni to hoṅgi Sakina ki imtihaan Abbas
-# source_id: nohayonline:c71fcf1c93b12ce742b9
-# source_url: https://www.nohayonline.com/details_content.php?id=1049
-# raw_sha256: 6dde1cc40ab450d6dd5293e5ae33d3fafba7e41e4324af5311206f837af6139f
 ---
 
 حرم سرائے حسینی کے پاسباں عباس

@@ -67,9 +67,6 @@ romanLyrics: |-
   Saamne Karbala aa gayi
   Jis ne jis ne ye nauha suna
   Mere bacche ka ghar lut gaya
-# source_id: nohayonline:d6cb621b66df91abb30e
-# source_url: https://www.nohayonline.com/details_content.php?id=2262
-# raw_sha256: 1eff8e8146790bb074726f75942c1f00ba22103571f6f349575ba7dd9fbfb85c
 ---
 فاطمہ کر رہی تھی بکا
 میرے بچے کا گھر لٹ گیا

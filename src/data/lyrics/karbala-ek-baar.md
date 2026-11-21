@@ -53,9 +53,6 @@ romanLyrics: |-
   Aao Majid chal ke dekheṅ wo maqaam
   Dard mandoṅ ko jo kar de shaadmaaṅ
   Waqt ko taara bana kar dekhna
-# source_id: nohayonline:26e6e638e8d4c9831776
-# source_url: https://www.nohayonline.com/details_content.php?id=886
-# raw_sha256: 49722042146c5128bb1ee3aea95c8ccb0a299f0ffcaac20669d64c21f6e0f299
 ---
 مثل حر قسمت جگا کر دیکھنا
 کربلا اک بار جا کر دیکھنا

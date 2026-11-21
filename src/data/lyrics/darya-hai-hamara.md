@@ -57,9 +57,6 @@ romanLyrics: |-
   Ro dete the qaatil
   Saahil pe kate haath jo karte the ishaara
   Darya hai hamaara
-# source_id: nohayonline:802b946d8fbd85367874
-# source_url: https://www.nohayonline.com/details_content.php?id=1766
-# raw_sha256: 1175b610d2b5d9793ed7d58ae7319eaf9fcd7c911e7b13cf1d3184fb156ac5a3
 ---
 
 عباس سے کہتی تھی یہ فوج ستم آرا

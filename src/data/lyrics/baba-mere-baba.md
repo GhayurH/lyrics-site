@@ -13,6 +13,7 @@ published: true
 romanLyrics: |-
   Baba mere baba
   Zainab ki thi fughaaṅ
+  Mahshar ka hai samaaṅ
 
   1
   Kaisi hai ye nida
@@ -28,12 +29,10 @@ romanLyrics: |-
   Jo haal-e-Anis hai
   Batlaye wo kis se
   Mushkil kare aasaaṅ
-# source_id: nohayonline:3ef40341882543419dce
-# source_url: https://www.nohayonline.com/details_content.php?id=205
-# raw_sha256: 8ed3f759700f9e0ca5760669eb6669375dd22bd700e95b6cda6f0bd033c1bead
 ---
 بابا میرے بابا
 زینب کی تھی فغاں
+محشر کا ہے سماں
 
 ۱
 کیسی ہے یہ ندا

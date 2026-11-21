@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Qabr meiṅ Yasir Muhammad Mustafa ki hai buka
   Ye mera gham hai ke Zehra ghamzada hai aaj bhi
-# source_id: nohayonline:62bd0e2555d0731c461a
-# source_url: https://www.nohayonline.com/details_content.php?id=3123
-# raw_sha256: c6fa6fa6f53f262a8d432608a325d6655d487913c7950392789eb07f01b6f6c6
 ---
 فاطمہ نے ہاتھ پہلو پر رکھا ہے آج بھی
 پسلیاں ٹوٹی ہے اور خوں رس رہا ہے آج بھی

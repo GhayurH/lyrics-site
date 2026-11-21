@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ek din aayega aisa bhi jahaaṅ meiṅ Gohar
   Har gali kuche se maatam ki sada aayegi
-# source_id: nohayonline:e62bdaf332779c5e603e
-# source_url: https://www.nohayonline.com/details_content.php?id=1514
-# raw_sha256: 4574b0d58ecd2e233a07f993c58587a7c8ace02a7f60275fb0365085ac24d9b5
 ---
 رات تو خیر کسی طور گزر جاے گی
 صبحِ عاشور قیامت کی خبر آے گی

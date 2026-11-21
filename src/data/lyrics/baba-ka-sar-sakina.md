@@ -48,9 +48,6 @@ romanLyrics: |-
   Karti rahi duaaeṅ zindaan se Sakina
   Jab tak khulus-e-dil se parhte rahe ye noha
   Irfa aur Akhtar aansu baha baha ke
-# source_id: nohayonline:06850d50aabea34b62dc
-# source_url: https://www.nohayonline.com/details_content.php?id=1174
-# raw_sha256: 0595e09088304099b91ea269e6474e4f7913e926da5f8fb484fdbd7c8c0a550f
 ---
 بابا کا سر سکینہ آغوش میں اٹھا کے
 فریاد کر رہی ہے رودادِ غم سنا کے

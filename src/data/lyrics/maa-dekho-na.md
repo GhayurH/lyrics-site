@@ -76,9 +76,6 @@ romanLyrics: |-
   Haae maaṅ god meiṅ le lo mujh ko aa kar
   Maaṅ dekho na
   Sukuṅ se maut aaye bas maiṅ ye chaahta huṅ maaṅ
-# source_id: nohayonline:ab35a2352bd989ced18f
-# source_url: https://www.nohayonline.com/details_content.php?id=3651
-# raw_sha256: a3f14f20485b45147b2477c532004ac5e89533e70be5ebd25c841542b91101ef
 ---
 گرے جو گھوڑے سے مقتل میں شاہ کربوبلا
 ہزاروں زخم تھے سارا بدن لہو سے بھرا

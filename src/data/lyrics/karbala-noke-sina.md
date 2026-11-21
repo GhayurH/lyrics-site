@@ -45,9 +45,6 @@ romanLyrics: |-
   Har zamaane ne ye taslim kiya hai Gohar
   Karbala waqt ki sab se bari sachchaayi hai
 reciter: "Tableegh-e-Imamia"
-# source_id: nohayonline:56fe6772ec6b2ebda339
-# source_url: https://www.nohayonline.com/details_content.php?id=3455
-# raw_sha256: 7420efe8f331dbdc950f38ff6fd9e1a6f4a547a8baee6de2d3fbe75745fe0b01
 ---
 کربلا نوکِ سناں سے یہ خبر لائی ہے
 زندگی موت کی سحر سے گزر آئی ہے

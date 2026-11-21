@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Shaam waaloṅ se Nazar ro ke ye Zainab ne kaha
   Ek diya roz yahaaṅ aa ke jalaate rehna
-# source_id: nohayonline:cf222b62a3586164e13d
-# source_url: https://www.nohayonline.com/details_content.php?id=1660
-# raw_sha256: 4d3de77f966e29564dd6eb794c25d6f14f626456ce69faff51e7ce3eca2b4553
 ---
 شمر کہتا تھا سکینہ کو ستاتے رہنا
 سر دکھا کر اسے بابا کا رلاتے رہنا

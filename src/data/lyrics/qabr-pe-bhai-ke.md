@@ -42,9 +42,6 @@ romanLyrics: |-
   Karti thi kham to sukuṅ paate the bachche mere
   Sidhi hone se gale bachchoṅ ke kas jaate the
   Is liye chalti thi bazaar meiṅ jhuk kar Zainab
-# source_id: nohayonline:7d52218cc8b3f5d1e0bf
-# source_url: https://www.nohayonline.com/details_content.php?id=1915
-# raw_sha256: af7f37f042f5a177fc19e94154bd8a9a9cc1ef01c94d98c2a45397df093b699c
 ---
 قبر پہ بھائی کے کہتی تھی یہ رو کر زینب
 آئی ہے شام کے زندان سے چھٹ کر زینب

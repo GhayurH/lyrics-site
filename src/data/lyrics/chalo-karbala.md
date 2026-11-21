@@ -51,9 +51,6 @@ romanLyrics: |-
   Daaim muaaf Shaah kareṅge hai ye yaqiṅ
   Ik ik se keh rahe haiṅ yehi Naasir-e-haziṅ
   Mehbub-e-Kirdigaar chalo Karbala chaleṅ
-# source_id: nohayonline:c8cc00a838dca3fc808b
-# source_url: https://www.nohayonline.com/details_content.php?id=1900
-# raw_sha256: 08b4f4746c784787fa14cd5f0d592be9398d51e454e02b6fe98a2886fdd9fb94
 ---
 چلو رونے والوں چلو پرسہ داروں
 حسین یا حسین یا حسین

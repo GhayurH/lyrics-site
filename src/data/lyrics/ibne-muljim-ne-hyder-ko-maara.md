@@ -7,7 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Mesum Abbas"
-# peshwayi: Mirza Salamat Ali Dabeer
 tags: []
 aliases:
   - "Ibne Muljim Ne Hyder Ko Maara"

@@ -80,9 +80,6 @@ romanLyrics: |-
   Naize se gir gaya sar
   Zainab ne jab kaha
   Ghazi tu laut aa
-# source_id: nohayonline:d1233a610fd1fad5f1bd
-# source_url: https://www.nohayonline.com/details_content.php?id=2823
-# raw_sha256: f02e0e5750d6cd8597b8ee18a4673ff76a8818c3fec80913995500db24506daf
 ---
 
 اے میرے غازی

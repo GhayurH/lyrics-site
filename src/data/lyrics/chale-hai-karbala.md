@@ -48,9 +48,6 @@ romanLyrics: |-
   8
   Surur agle baras tak zinda rehne ki dua maango
   Qayaamat aa gayi sar par aza ka aakhri din hai
-# source_id: nohayonline:1e204f090c07cd2e02f1
-# source_url: https://www.nohayonline.com/details_content.php?id=3746
-# raw_sha256: 2e9f7631ff26d9ee8be6073074cbc91ad385dcc96544e72456d443c880a14ff8
 ---
 
 چلے ہے کربلا سرور عزا کا آخری دن ہے

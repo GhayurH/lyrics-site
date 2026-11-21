@@ -47,9 +47,6 @@ romanLyrics: |-
   Zindaan ke andar Ae Waiz
   Hai hashr ka manzar Ae Waiz
   Ghurbat hai Ali ki beti hai
-# source_id: nohayonline:82730fce256c48851502
-# source_url: https://www.nohayonline.com/details_content.php?id=3160
-# raw_sha256: 3e33b0438f63398f46f4ca5de1b0493dbb91295986b9372bf66510c1687cf3de
 ---
 
 زندان میں زینب روتی ہے

@@ -69,9 +69,6 @@ romanLyrics: |-
   Shabbir ne ae Majid o Mukhtar di nida
   Ammaa tumhaare bete ka shaidaai mar gaya
   Dekho Hurr aa raha hai
-# source_id: nohayonline:9a55fc99a61f727ff65d
-# source_url: https://www.nohayonline.com/details_content.php?id=2824
-# raw_sha256: 11437510094e0e7becb709461a478b783efb16c5023d112be0ff4701c86a2433
 ---
 
 فوجِ ستم کو چھوڑ کے سوئے شہِ ہدیٰ

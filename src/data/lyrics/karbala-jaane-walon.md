@@ -62,9 +62,6 @@ romanLyrics: |-
   Mir Sajjad ko nauhe ka sila ye dena
   Is baras Karbobala aayega jab wo Maula
   Aap nazraane ke badle meiṅ nazar aa jaana
-# source_id: nohayonline:a71d2c9a00d1a59c2db4
-# source_url: https://www.nohayonline.com/details_content.php?id=1616
-# raw_sha256: db82fccf7cb6c042b23a7fc1806c042f02d35002a7ea200369f58fd73dcde782
 ---
 کربلا جانے والوں
 جانے والوں در عباس پہ جب تم جانا

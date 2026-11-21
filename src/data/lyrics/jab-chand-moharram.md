@@ -50,9 +50,6 @@ romanLyrics: |-
   Qismat pe bahut naaz hai ham ghamkhwaar haiṅ Bibi
   Ham sab tere bachchoṅ ke azaadaar haiṅ Bibi
   Jab kehte haiṅ Waaiz ye azaadaar tarap kar
-# source_id: nohayonline:2b8fd6a1b536715eb638
-# source_url: https://www.nohayonline.com/details_content.php?id=2986
-# raw_sha256: 73e955a275d19c9e2a355c70086849f2e524ae0d2a4c491bc96de57e20f0ff77
 ---
 
 جب چاند محرم کا نکلتا ہے فلک پر

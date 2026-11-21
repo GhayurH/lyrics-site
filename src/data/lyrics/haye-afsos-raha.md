@@ -52,9 +52,6 @@ romanLyrics: |-
   10
   Keh ke roti thi yehi Aamir o Akhtar ek maa
   Kaun sa zakhm mujhe Karb o Bala ne na diya
-# source_id: nohayonline:bf63b4fcc54b63f34ac5
-# source_url: https://www.nohayonline.com/details_content.php?id=3610
-# raw_sha256: 061482b4f5b838bd2e83ac399695190e05ec326680a7c15d02b773cdaafc3190
 ---
 
 ہاے افسوس رہا سب کو افسوس رہا
@@ -77,7 +74,7 @@ romanLyrics: |-
 
 ۵
 باپ شرمندہ ہے اس عالمِ غربت نے مجھے
-چند خطرے تجھے پانی بھی پلانے نہ دیا
+چند قطرے تجھے پانی بھی پلانے نہ دیا
 
 ۶
 لگ گئی موت کی بھرپور جوانی میں نظر

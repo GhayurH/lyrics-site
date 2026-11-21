@@ -1,0 +1,70 @@
+---
+title: "بازارِ شام میں دربار عام میں"
+alternateTitle: "Ay Bawafa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Nadeem Sarwar"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Bazaar e shaam may darbar e aam may
+  Zainab ki sadayeiṅ aati thi
+  Aa ghazi aa ghazi
+  Zainab bula rahi hai awaaz to suna do
+  Ae bawafa kahaṅ ho bhai zara sada do
+  Aa dekh teri behne bazaar may khari hai
+  Majma hai shamiyoṅ ka chadar kahiṅ se laa do
+  Zainab bula rahi hai awaaz to suna do
+  Ae bawafa kahaṅ ho...
+  Ahle haram ne ghazi kitna tujhe pukara
+  bechain hai sakina chehra use dikha do
+  Zainab bula rahi hai awaaz to suna do
+  Ae bawafa kahaṅ ho...
+  In zaalimo ne mujhko sone nahi diya hai
+  Saaye may tum alam ke kuch dayr ko sula do
+  Zainab bula rahi hai awaaz to suna do
+  Ae bawafa kahaṅ ho...
+  Darbar jaa rahe hai sajjad saarbaṅ hai
+  Ghazi musibatoṅ may kuch hausla barha do
+  Zainab bula rahi hai awaaz to suna do
+  Ae bawafa kahaṅ ho...
+  Mere ghazi mere bhaiya
+  Shabbir ke ghamoṅ ko ae dur karne waale
+  Qaidi bane khare hai azaad to kara do
+  Zainab bula rahi hai awaaz to suna do
+  Ae bawafa kahaṅ ho...
+  Mere ghazi mere bhaiya
+---
+
+۱
+بازارِ شام میں دربار عام میں
+زینب کی صداییں آتی تھی
+آ غازی آ غازی
+زینب بلا رہی ہے آواز تو سنا دو
+اے با وفا کہاں ہو بھای زرا صدا دو
+آ زرا تیری بہنیں بازار میں کھڑی ہے
+مجمع ہے شامیوں کا چادر کہیں سے لا دو
+زینب بلا رہی ہے آواز تو سنا دو
+اے با وفا کہاں ہو۔۔۔
+اہلِ حرم نے غازی کتنا تجھے پکارا
+بے چین ہے سکینہ چہرہ اسے دکھا دو
+زینب بلا رہی ہے آواز تو سنا دو
+اے با وفا کہاں ہو۔۔۔
+ان ظالموں نے مجھکو سونے نہیں دیا ہے
+ساے میں تم الم کے کچھ دیر کو سلا دو
+زینب بلا رہی ہے آواز تو سنا دو
+اے با وفا کہاں ہو۔۔۔
+دربار جا رہے سجاد سارباں ہے
+غازی مصیبتوں میں کچھ حوصلہ بڑھا دو
+زینب بلا رہی ہے آواز تو سنا دو
+اے با وفا کہاں ہو۔۔۔
+میرے غازی میرے بھیا
+شبیر کے غموں کو اے دور کرنے والے
+قیدی بنے کھڑے ہیں آزاد تو کرا دو
+زینب بلا رہی ہے آواز تو سنا دو
+اے با وفا کہاں ہو۔۔۔
+میرے غازی میرے بھیا

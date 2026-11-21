@@ -1,10 +1,10 @@
 ---
-title: عصر کا وقت قریب آ گیا لو جاتے ہیں ہم
-alternateTitle: Alwida Ahle Haram
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عصر کا وقت قریب آ گیا لو جاتے ہیں ہم"
+alternateTitle: "Alwida Ahle Haram"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Ali Zia Rizvi"
 tags: []
@@ -60,12 +60,6 @@ romanLyrics: |-
   Kar ke sine se Sakina ko juda Shah ne Naved
   Jaao khaime meiṅ Sakina se kaha Shah ne Naved
   Phir barhe su-e-faras Shah ba larzida qadam
-# source_id: nohayonline:c1ea9d2cb2839e7c7a65
-# source_url: https://www.nohayonline.com/details_content.php?id=9
-# raw_sha256: 82f955fbeeeaff0c796cf9a6aaed63b07207dd37ad55b1535aa89601ad0d7132
-# source_id: ziyaraat:665749c797407fe94bbf
-# source_url: https://www.ziyaraat.net/api/noha/402
-# raw_sha256: b9e1b74153741dacdb29c4fa86ea5539753ffd7ee03d780bd68e8f79c259259e
 ---
 
 عصر کا وقت قریب آ گیا لو جاتے ہیں ہم
@@ -79,7 +73,7 @@ romanLyrics: |-
 اور زینب کو بُلا لائو کہ اب وقت ہے کم
 
 ۲
-بی‌بیو دیکھ لو جی بھر کے چلو روئے حسین
+بیبیو دیکھ لو جی بھر کے چلو روئے حسین
 گُلِ زینب سے جُدا ہوتی ہے خوشبوئے حسین
 جانے پھر ہو کہ نہ ہو لمحہ یہ زیارت کا بہم
 
@@ -89,7 +83,7 @@ romanLyrics: |-
 جانیو اس کو غنیمت ہے جو سجاد کا دم
 
 ۴
-بی‌بیاں حلقہ کیئے تھیں تنِ مظلوم کے گرد
+بیبیاں حلقہ کیئے تھیں تنِ مظلوم کے گرد
 بال کھولے ہوئے آنسو لیے معصوم کے گرد
 نوحہِ حضرتِ زینب پہ تھا شہہ کا ماتم
 

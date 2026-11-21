@@ -61,9 +61,6 @@ romanLyrics: |-
   Bali Sakina pyaas meiṅ
   Iqbal bint-e-Shah-e-Diṅ
   Ammu ke gham meiṅ roti hai
-# source_id: nohayonline:182305338c47e9a18bcf
-# source_url: https://www.nohayonline.com/details_content.php?id=829
-# raw_sha256: 840336a3f23e95c1716e70592866216f180b29ef52cf627531223d240d023459
 ---
 آؤ سکینہ روتی ہے
 عباس عباس آؤ سکینہ روتی ہے

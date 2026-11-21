@@ -49,9 +49,6 @@ romanLyrics: |-
   Jab koi jawaaṅ laash nazar aayegi beta
   Maaṅ yaad tujhe kar ke tarap jaayegi beta
   Ek roz teri yaad meiṅ mar jaayegi beta
-# source_id: nohayonline:19bac68801d479d6a6ac
-# source_url: https://www.nohayonline.com/details_content.php?id=451
-# raw_sha256: ba4b0966a3e0abfdfc49ebb4aa91c862ea871cb48fa3727e036c9a7f496762d3
 ---
 نوحہ کرے ماں لاشِ اکبر پر
 تم قتل ہوئے بیٹے جیتی رہی مادر

@@ -1,10 +1,10 @@
 ---
-title: ایسا علم ہے کہاں
-alternateTitle: Aisa Alam Hai Kahan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ایسا علم ہے کہاں"
+alternateTitle: "Aisa Alam Hai Kahaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -13,6 +13,8 @@ reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Aisa alam hai kahaṅ
   Aisa jawaaṅ hai kahaṅ
+  Aisi wafa hai kahaṅ
+  Aisa nishaaṅ hai kahaṅ
 
   1
   Ye hai Abu Talib ka gharana
@@ -25,6 +27,16 @@ romanLyrics: |-
   Jis ko mila Haider ka alam hai
 
   2
+  Apne alam ke saaye meiṅ
+  Is ko Sher-e-Khuda ne paala hai
+  Aab-e-shujaat is ko pila kar
+  Rang-e-wafa meiṅ dhaala hai
+  Chaar alamdaaroṅ meiṅ hai shaamil
+  Ye bhi nasiboṅ waala hai
+  Hamza o Jafar ki quwwat ka
+  Ye bhi ek hawaala hai
+
+  3
   Kaisa saja hai kaisa hasiṅ hai
   Karbobala meiṅ Shah ka lashkar
   Yuṅ to sabhi haiṅ sher dilawar
@@ -34,7 +46,17 @@ romanLyrics: |-
   Apni jagah ye sab haiṅ bahadur
   Fauj meiṅ teri Ae Shah-e-Safdar
 
-  3
+  4
+  Ae mere Ghazi tere alam ke
+  Saaye meiṅ sab kuch milta hai
+  Zer-e-alam jo maaṅgeṅ duaeṅ
+  Un ki Khuda bhi sunta hai
+  Rizq-e-azadaari ka ata kar
+  Tu bhi Ali ka beta hai
+  Bab-e-Hawaij mere Ghazi
+  Daaman tu bhi bharta hai
+
+  5
   Baad-e-namaz-e-Fajr ziyarat
   Tere alam ki karta huṅ
   Sharf ghulami ka mil jaaye
@@ -44,7 +66,7 @@ romanLyrics: |-
   Saaye meiṅ chaudah masumoṅ ke
   Shukr-e-Khuda meiṅ rehta huṅ
 
-  4
+  6
   Hum to sag-e-darbar-e-Ali haiṅ
   Khaas ye tujhse rishta hai
   Jad bhi hai tera kul ka Maula
@@ -54,7 +76,7 @@ romanLyrics: |-
   Sindh meiṅ aao Maula qadam par
   Laal Qalandar kehta hai
 
-  5
+  7
   Shaam ke lashkar meiṅ halchal thi
   Kaun jari ab aata hai
   Burhe jawanoṅ se kehte the
@@ -64,7 +86,27 @@ romanLyrics: |-
   Kehna para Ahmad ko Ali se
   Tera wasi ab aata hai
 
-  6
+  8
+  Ummul Banin ki god meiṅ
+  Rab ne aisa gul-e-khaas rakha
+  Maula Husain ne ye shahzaada
+  La ke alam ke paas rakha
+  Is ki behan Zainab ne
+  Is ka naam Jari Abbas rakha
+  Maula Ali ne mustaqbil ka
+  Keh kar ye ehsaas rakha
+
+  9
+  Hum nahiṅ bhule ab tak Ghazi
+  Zainab kaise bhulegi
+  Mashk o alam ko dosh pe rakh kar
+  Haaye teri rukhsat Ghazi
+  Khaali kuza haath meiṅ thaame
+  Tujh se Sakina lipti thi
+  Gird-e-alam ke maatam kar ke
+  Har shahzaadi kehti thi
+
+  10
   Teri shahadat se kunbe par
   Kaisi qayamat tut gayi
   Jis ko kaha karte the aaqa
@@ -74,7 +116,7 @@ romanLyrics: |-
   Haye teri majburi Ghazi
   Maaṅ Zehra ye kehti rahi
 
-  7
+  11
   Ab bhi azakhanoṅ meiṅ parcham
   Tera aise rehta hai
   Shaam dhale aisa lagta hai
@@ -83,15 +125,12 @@ romanLyrics: |-
   Haye Sakina kehta hai
   Tum hi kya Rehaan o Sarwar
   Sab ki zabaṅ par rehta hai
-# source_id: nohayonline:14f8c43fff19f0141257
-# source_url: https://www.nohayonline.com/details_content.php?id=3030
-# raw_sha256: ed55c0f72d54c1582dc80391c0b5a81034bea77d7d60a0963e434ea5434182de
-# source_id: ziyaraat:c651d7507211a9ec6c67
-# source_url: https://www.ziyaraat.net/api/noha/153
-# raw_sha256: 1a4efcc810c14703a35774784aaa4032823c89ae0e2cab9ed5227f5c7b1526f1
 ---
+
 ایسا علم ہے کہاں
 ایسا جواں ہے کہاں
+ایسی وفا ہے کہاں
+ایسا نشاں ہے کہاں
 
 ۱
 یہ ہے ابو طالب کا گھرانہ
@@ -104,6 +143,16 @@ romanLyrics: |-
 جس کو ملا حیدر کا علم ہے
 
 ۲
+اپنے علم کے سائے میں
+اس کو شیرِ خدا نے پالا ہے
+آبِ شجاعت اس کو پلا کر
+رنگِ وفا میں ڈھالا ہے
+چار علمداروں میں ہے شامل
+یہ بھی نصیبوں والا ہے
+حمزہ و جعفر کی قوت کا
+یہ بھی ایک حوالہ ہے
+
+۳
 کیسا سجا ہے کیسا حسیں ہے
 کربوبلا میں شاہ کا لشکر
 یوں تو سبھی ہیں شیر دلاور
@@ -113,7 +162,17 @@ romanLyrics: |-
 اپنی جگہ یہ سب ہیں بہادر
 فوج میں تیری اے شہ صفدر
 
-۳
+۴
+اے میرے غازی تیرے علم کے
+سائے میں سب کچھ ملتا ہے
+زیرِ علم جو مانگیں دعائیں
+ان کی خدا بھی سنتا ہے
+رزقِ عزاداری کا عطا کر
+تو بھی علی کا بیٹا ہے
+باب الحوائج میرے غازی
+دامن تو بھی بھرتا ہے
+
+۵
 بعد نماز فجر زیارت
 تیرے علم کی کرتا ہوں
 شرف غلامی کا مل جائے
@@ -123,7 +182,7 @@ romanLyrics: |-
 سائے میں چودہ معصوموں کے
 شکرِ خدا میں رہتا ہوں
 
-۴
+۶
 ہم تو سگِ دربارِ علی ہیں
 خاص یہ تجھ سے رشتہ ہے
 جد بھی ہے تیرا کل کا مولا
@@ -133,7 +192,7 @@ romanLyrics: |-
 سندھ میں آؤ مولا قدم پر
 لعل قلندر کہتا ہے
 
-۵
+۷
 شام کے لشکر میں ہلچل تھی
 کون جری اب آتا ہے
 بوڑھے جوانوں سے کہتے تھے
@@ -143,7 +202,27 @@ romanLyrics: |-
 کہنا پڑا احمد کو علی سے
 تیرا وصی اب آتا ہے
 
-۶
+۸
+ام البنین کی گود میں
+رب نے ایسا گلِ خاص رکھا
+مولا حسین نے یہ شہزادہ
+لا کے علم کے پاس رکھا
+اس کی بہن زینب نے
+اس کا نام جری عباس رکھا
+مولا علی نے مستقبل کا
+کہہ کر یہ احساس رکھا
+
+۹
+ہم نہیں بھولے اب تک غازی
+زینب کیسے بھولے گی
+مشک و علم کو دوش پہ رکھ کر
+ہائے تیری رخصت غازی
+خالی کوزہ ہاتھ میں تھامے
+تجھ سے سکینہ لپٹی تھی
+گردِ علم کے ماتم کر کے
+ہر شہزادی کہتی تھی
+
+۱۰
 تیری شہادت سے کنبے پر
 کیسی قیامت ٹوٹ گئی
 جس کو کہا کرتے تھے آقا
@@ -153,7 +232,7 @@ romanLyrics: |-
 ہائے تیری مجبوری غازی
 ماں زہرا یہ کہتی رہی
 
-۷
+۱۱
 اب بھی عزاخانوں میں پرچم
 تیرا ایسے رہتا ہے
 شام ڈھلے ایسا لگتا ہے

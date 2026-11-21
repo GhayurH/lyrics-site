@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Daur ke maatha chum liya beti ne Ali ki ae Sajjad
   Ghaazi ne pehli baar jo bola Zehra sachi hai
-# source_id: nohayonline:16eeb5c556a449e6d10d
-# source_url: https://www.nohayonline.com/details_content.php?id=3074
-# raw_sha256: c54740285901f725cfd134a04d9767dee400e5ef8d6a039001d9fd3bc5da085b
 ---
 سچے ہو تو سب کو بتانا زہرا سچی ہے
 جھوٹا ہے یہ سارا زمانہ زہرا سچی ہے

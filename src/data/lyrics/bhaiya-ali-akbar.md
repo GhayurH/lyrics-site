@@ -71,9 +71,6 @@ romanLyrics: |-
   Jab sina-e-Akbar meiṅ laga zulm ka neza
   Kehti thi Sakina mere dil pe laga ghaao
   Bhaiya Ali Akbar
-# source_id: nohayonline:18675647d09692b83560
-# source_url: https://www.nohayonline.com/details_content.php?id=2653
-# raw_sha256: d97cc4d9a09270f68fed7231e32988be9090cdb157461e3ddd53b5f1769df2b7
 ---
 بابا کی ضعیفی پہ نظر کر لو تو جاؤ
 بھیا علی اکبر

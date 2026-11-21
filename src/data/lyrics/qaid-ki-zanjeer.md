@@ -61,9 +61,6 @@ romanLyrics: |-
   Aini salaam saiṅkroṅ Aamir ke ho use
   Chalta tha qaid khaane meiṅ jo baith baith ke
   Rangin us ke khun se zindaaṅ ka farsh tha
-# source_id: nohayonline:c159c67d711c0c6f71ff
-# source_url: https://www.nohayonline.com/details_content.php?id=1288
-# raw_sha256: 6a21ca028128622a96b5afbad95e40233dc95084b1e1e54747d659aef3516b27
 ---
 ماتم ہے آج مومنوں ایسے اسیر کا
 جس کے بدن کو قید کی زنجیر کھا گئی

@@ -9,7 +9,7 @@ poet: "Gulzaar Jafri"
 tags: []
 aliases: []
 published: true
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 romanLyrics: |-
   Karbala waloṅ ki zindaaṅ se rihaai ho gayi
   Turbat-e-Baali Sakina se judaai ho gayi
@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Sar kata Gulzaar jab Mushkil Kusha ke laal ka
   Ta qayaamat din ki mushkil kushaai ho gayi
-# source_id: nohayonline:bef31b1bfcf52214f76d
-# source_url: https://www.nohayonline.com/details_content.php?id=617
-# raw_sha256: 4808676fb51f72fc52f103b176a759ac180d2ad77b61ff6a00bc1ea8c1098d59
 ---
 کربلا والوں کی زنداں سے رہائی ہو گئی
 تربتِ بالی سکینہ سے جُدائی ہو گئی

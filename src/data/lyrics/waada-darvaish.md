@@ -50,9 +50,6 @@ romanLyrics: |-
   9
   Kareṅ ge sajda ye aansu Husain ke dar par
   Kisi ko Mir Takallum bura lage to lage
-# source_id: nohayonline:dacb5500aeeefba71ebb
-# source_url: https://www.nohayonline.com/details_content.php?id=3280
-# raw_sha256: b19b51550863e83bd2b00e8190e0590e09e4100c8104ad0bc54cb8ba6a6589b2
 ---
 یا فاطمہ زہرا
 کیا ہے وعدہ جو زہرا سے وہ نبھانا ہے

@@ -43,9 +43,6 @@ romanLyrics: |-
   7
   Likhne se qaasir hai Mazhar kaise likhe us raat ka manzar
   Dil meiṅ gham ka dard utha hai Allah khair kare
-# source_id: nohayonline:621cf9d59ae00ed0a8b2
-# source_url: https://www.nohayonline.com/details_content.php?id=3108
-# raw_sha256: 695412cf0878a7f2b3e1d4e1e9e8b9b99cb7238388c52531479970638a3e0a8c
 ---
 ڈھل نہ جائے رات
 

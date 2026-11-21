@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ghoroṅ se paamaal kiya hai jis ke laashe ko
   Ishrat ye us ka noha hai ghar meiṅ qayaamat hai
-# source_id: nohayonline:6a0bd0aa29699ffd0306
-# source_url: https://www.nohayonline.com/details_content.php?id=2245
-# raw_sha256: 6d35e1da0c42b9ea52dd31226fb712b5fad2149f9861dd106621e7955eb4277f
 ---
 قاسم قاسم کا نوحہ ہے گھر میں قیامت ہے
 ام فروہ کا گریہ ہے گھر میں قیامت ہے

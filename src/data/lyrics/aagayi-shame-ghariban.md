@@ -43,9 +43,6 @@ romanLyrics: |-
   Haye ye shaam-e-gharibaṅ kahaṅ le aayi Naved
   Shaah ka sar rota hai Zainab ki hai tanhaai Naved
   Kehne ko haye pareshaṅ kahaṅ jaye Zainab
-# source_id: nohayonline:73c569c4c9eef9d04f92
-# source_url: https://www.nohayonline.com/details_content.php?id=1494
-# raw_sha256: 9c61f2c7cf6365fe84702abb048c1ae9fadf49990729f7b97c868fe56d7aca01
 ---
 
 آ گئی شام غریباں کہاں جائے زینب

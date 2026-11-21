@@ -59,9 +59,6 @@ romanLyrics: |-
   Laash-e-pisar pe Maula ghash kha ke gir chuke the
   Maqtal meiṅ gunjte the Sayyidaniyoṅ ke nohe
   Rehaan aur Raza jo dohrae ja rahe haiṅ
-# source_id: nohayonline:24693a0212608e95f5c0
-# source_url: https://www.nohayonline.com/details_content.php?id=2389
-# raw_sha256: cfbdadf90728508d336e837fcad745d795916146fdb33cb66063b02db914fb77
 ---
 شبیر آ رہے ہیں مقتل میں
 جس دم سنا کہ بابا مقتل میں آ رہے ہیں

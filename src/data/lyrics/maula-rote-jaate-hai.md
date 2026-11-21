@@ -70,9 +70,6 @@ romanLyrics: |-
   Haidar se yeh aakhri saaṅsoṅ meiṅ
   Kiuṅ baazu dekhe jaate haiṅ
   Kiuṅ sar ko chume jaate haiṅ
-# source_id: nohayonline:ffa7dd03205aa47517a8
-# source_url: https://www.nohayonline.com/details_content.php?id=1938
-# raw_sha256: 33a0f50414e7582b8b7ec5d7f47d96ffbf771b89166320261de39d6a7b69b531
 ---
 زینب کا چہرہ دیکھتے ہیں
 اور مولا روتے جاتے ہیں

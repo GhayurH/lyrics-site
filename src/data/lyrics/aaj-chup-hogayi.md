@@ -82,9 +82,6 @@ romanLyrics: |-
   Sauṅp do ae Ali mujhko beti meri
   Rakh ke turbat meiṅ bole Ali
   Lijiye ya Nabi Fatima
-# source_id: nohayonline:f80bef5d5fcd405d4aab
-# source_url: https://www.nohayonline.com/details_content.php?id=2764
-# raw_sha256: f63ed0050aaed0cfb355fa698a59bc7c8fe5aaf77620652c2bc8511845a2d579
 ---
 
 اپنے بچوں سے آنسو چھپائے ہوئے

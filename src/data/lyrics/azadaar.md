@@ -161,9 +161,6 @@ romanLyrics: |-
   Salaam salaam salaam ya Husain
   Salaam salaam salaam ya Husain
   Salaam salaam salaam ya Husain
-# source_id: nohayonline:59a48c5908bbb9ee840d
-# source_url: https://www.nohayonline.com/details_content.php?id=2611
-# raw_sha256: a3969dc0f7d3922ad9fd9e7de179b0352bed3dea596fab3795e3e5356590bf07
 ---
 
 مولا تم ہمارے مولا ہم تمہارے

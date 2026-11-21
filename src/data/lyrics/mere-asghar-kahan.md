@@ -67,9 +67,6 @@ romanLyrics: |-
   Donoṅ aalam meiṅ shor-e-maatam hai
   Jis ko dahru meiṅ aaj gham kam hai
   Maaṅ ke dil ki pukaar paiham hai
-# source_id: nohayonline:664ce34bc53aca991167
-# source_url: https://www.nohayonline.com/details_content.php?id=653
-# raw_sha256: 5b85d84da48f37b3bd6bc0f798b5bcd3d093b70a80b4c911a5449530b4857dab
 ---
 میرے اصغر کہاں ہو آ جاؤ
 رات کا وقت ہونے والا ہے

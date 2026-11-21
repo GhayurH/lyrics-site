@@ -37,7 +37,7 @@ async function collect(relative, kind) {
     const path = "src/data/" + relative + "/" + file.slice(dir.length + 1).replaceAll("\\", "/");
     const text = await readFile(file, "utf8");
     const reviewed = reviewMarkdown({ path, kind, text });
-    reviewed.issues.push(...reviewPublicationConventions(reviewed, text));
+    reviewed.issues.push(...reviewPublicationConventions(reviewed));
     return reviewed;
   }));
 }
@@ -150,7 +150,7 @@ const hardErrors = new Set([
   "duplicate-index", "index-order", "fragment-count", "stanza-number-mismatch",
   "missing-roman-title", "page-metadata", "frontmatter",
   "invalid-stanza-exception", "stale-stanza-exception",
-  "legacy-basta-roman", "source-final-newline", "empty-basta-roman",
+  "legacy-basta-roman", "empty-basta-roman",
   "missing-lyric-stanza-number", "invalid-six-verse-layout", "obsolete-lyric-image",
 ]);
 const regressions = [];

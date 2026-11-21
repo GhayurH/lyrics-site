@@ -8,7 +8,7 @@ kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & M. Abdollahi"
 reciter: "Ali Jee"
 tags: []
-aliases: []
+aliases: ["Jan-e-Sakina"]
 published: true
 romanLyrics: |-
   Baba kujaai baba kujaai
@@ -63,9 +63,6 @@ romanLyrics: |-
   Ab wo sina hi nahiṅ jis pe sulaaye baba
   Apna sar rakh de mere sar pe Sakina
   Charaagh-e-zindaaṅ khamoshe em shab
-# source_id: nohayonline:d2bd21f1270c98d91187
-# source_url: https://www.nohayonline.com/details_content.php?id=2474
-# raw_sha256: 7447cf18b654c4ade46d06b41b31aa9a69726437a0146c6720daa8377802ad2e
 ---
 بابا کجای بابا کجای
 کہاں ہو بابا

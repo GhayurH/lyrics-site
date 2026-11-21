@@ -74,9 +74,6 @@ romanLyrics: |-
   Abbas ko dikhaati thi sukhi hui zabaaṅ
   Qurbaaṅ magar saghir ke is aal baan par
   Ek lafz al atash bhi na aaya zabaan par
-# source_id: nohayonline:3aa00bc622221940492d
-# source_url: https://www.nohayonline.com/details_content.php?id=54
-# raw_sha256: 722adf3dcdeecc3531777d81f82691e91cecd6284ebe64961ea62182b75ea924
 ---
 
 اصغر کا بھی شمار بہتّر میں ایک ہے

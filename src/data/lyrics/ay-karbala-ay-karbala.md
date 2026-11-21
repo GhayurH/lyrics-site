@@ -1,130 +1,72 @@
 ---
-title: "اے کربلا اے کربلا"
-alternateTitle: "Ae Karbala Ae Karbala"
+title: "بعد امام لشکر تشنہ دہاں جو کچھ ہوا"
+alternateTitle: "Ay Karbala Ay Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Gohar Jarchvi"
-reciter: "Mir Hasan Mir"
+poet: "Mustafa Zaidi"
 tags: []
-aliases: ["Ay Karbala Ay Karbala"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Ae Karbala ae Karbala
-  Qatl hui Aal-e-Nabi ghar ujar gaya
-
   1
-  Haaye tere saamne darya ke kinaare
-  Pyaase rahe saaqi-e-Kausar ke dulaare
-  Khaak meiṅ poshida hue arsh ke taare
-  Ruth gaye Zainab-e-muztar ke sahaare
-  Sibt-e-Rasul-e-do sara qatl ho gaya
+  Baad e imam e lashkar e tashnadahan jo kuch hua
+  Kis se kahuṅ kaise kahuṅ ae karbala ae karbala
+  Kaise raqam ho bekasi behurmati ki dastaaṅ
+  Ek kunba e aali meiṅ sab ki dar badar ruswaiyaṅ
 
   2
-  Maaṅ ko tha armaan bahut shaadi ka jis ki
-  Raat ko jis ki sar-e-maqtal hui shaadi
-  Subh ko maara gaya wo sher-e-jari bhi
-  Shab ko bani thi jo dulhan bewa ho gayi
-  Dasht meiṅ paamaal hua dulha ka laasha
-  Qatl hui Aal-e-Nabi ghar ujar gaya
+  Ek mashk jisko kar gayi sairaab tiroṅ ki zabaṅ
+  Ek sabz parcham jhuk gaya jo khaak o khuṅ ke darmiyaṅ
+  Ek aah jo sine se nikli aur faza meiṅ kho gayi
+  Ek roshni jo din ki dhalti saansoṅ meiṅ so gayi
 
   3
-  Parcham-e-Abbas-e-jari khun meiṅ duba
-  Kat gaye us sher ke baazu lab-e-darya
-  Pyaasa hi maara gaya saqqa-e-Sakina
-  Tut gayi Shah ki kamar waa musibata
-  Shah ne kaha haaye mera sher mar gaya
+  Wo dudh maane hyderi ki aal e paighambar ki laash
+  Wo aayatoṅ ki godh meiṅ soye hue akbar ki laash
+  Wo ek bureeda baazuoṅ waale alam parwar ki laash
+  Wo dudh pite loriyaṅ sunte ali asghar ki laash
 
   4
-  Zakhmi hua Akbar-e-zi jaah ka sina
-  Barchhiyaaṅ paiwast hui garh gaya neza
-  Koi bhi us waqt madadgaar nahiṅ tha
-  Baap ne khud bete ke laashe ko uthaaya
-  Haaye kisi ne na diya Shah ko sahaara
-  Qatl hui Aal-e-Nabi ghar ujar gaya
+  Masum bache wahshiyoṅ ki jhirkiyaṅ khaaye huwe
+  Aun o mohamed chote chote haath phailaye huwe
+  Sajjad se zainab ka ye kehna ke maula jaagiye
+  Ghaflat se aankheiṅ kholiye luta hai kunba jaagiye
 
   5
-  Lori ye raatoṅ ko jise sunaati thi ye maaṅ
-  God ke jhule meiṅ jhulaati thi jise maaṅ
-  Dulha tasawwur meiṅ banaati thi jise maaṅ
-  Sher-e-jari keh ke bulaati thi jise maaṅ
-  Maaṅ se juda haaye wo shahzaada ho gaya
-  Qatl hui Aal-e-Nabi ghar ujar gaya
-
-  6
-  Hashmi sheroṅ ka lahu beh gaya ran meiṅ
-  Lut gayi Kaunain ki shahzaadiyaaṅ ban meiṅ
-  Aag lagaai gayi Zehra ke chaman meiṅ
-  Jakra gaya haaye yatimoṅ ko rasan meiṅ
-  Kitne hue zulm o sitam is qadar jafa
-  Qatl hui Aal-e-Nabi ghar ujar gaya
-
-  7
-  Aaj bhi hai waqt ke Gohar yahi naale
-  Raakh hue jal gaye Saadaat ke khaime
-  Maare gaye baali Sakina ke tamaache
-  Qaid hue Sayyid-e-Kaunain ke pyaare
-  Ho gayi maqtal meiṅ Nabi zaadi berida
-  Qatl hui Aal-e-Nabi ghar ujar gaya
-# source_id: nohayonline:7a7d95ab9d6ecab3af74
-# source_url: https://www.nohayonline.com/details_content.php?id=1903
-# raw_sha256: c13aeeb27d51023b3adbb8d40741fbe4476a1fa5c0b500c1411288e5590f3006
+  Uth'te hai shole dekhiye jalta hai qaima jaagiye
+  Ay baaqi e zurriat e yasin o taha jaagiye
+  Saare mohafiz so rahe hai ashkiyaṅ bezaal hai
+  Tauq o salasil muntazir hai beriyaṅ tayyar hai
 ---
 
-اے کربلا اے کربلا
-قتل ہوئی آل نبی گھر اجڑ گیا
-
 ۱
-ہائے تیرے سامنے دریا کے کنارے
-پیاسے رہے ساقیِ کوثر کے دلارے
-خاک میں پوشیدہ ہوئے عرش کے تارے
-روٹھ گئے زینب مضطر کے سہارے
-سبط رسول دو سرا قتل ہو گیا
+بعد امام لشکر تشنہ دہاں جو کچھ ہوا
+کس سے کہوں کیسے کہوں اے کربلا اے کربلا
+کیسے رقم ہو بے کسی بے حرمتی کی داستاں
+اک کنبہء عالی میں سب کی در بدر رسوائیاں
 
 ۲
-ماں کو تھا ارمان بہت شادی کا جس کی
-رات کو جس کی سر مقتل ہوئی شادی
-صبح کو مارا گیا وہ شیر جری بھی
-شب کو بنی تھی جو دلہن بیوہ ہو گئی
-دشت میں پامال ہوا دولہا کا لاشہ
-قتل ہوئی آل نبی گھر اجڑ گیا
+اک مشک جس کو کر گیء سیراب تیروں کی زباں
+اک سبز پرچم جھک گیا جو خاک و خوں کے درمیاں
+اک آہ جو سینے سے نکلی اور فضا میں کھو گیء
+اک روشنی جو دن کی ڈھلتی سانسوں میں سو گیء
 
 ۳
-پرچم عباس جری خون میں ڈوبا
-کٹ گئے اس شیر کے بازو لب دریا
-پیاسا ہی مارا گیا سقائے سکینہ
-ٹوٹ گئی شہ کی کمر وا مصیبتا
-شہ نے کہا ہائے میرا شیر مر گیا
+وہ دودھ ماں نے حیدری کی آل پیغمبر کی لاش
+وہ آیتوں کی گود میں سوے ہوے اکبر کی لاش
+وہ اک بریدہ بازوؤں والے الم پرور کی لاش
+وہ دودھ پیتے لوریاں سنتے علی اصغر کی لاش
 
 ۴
-زخمی ہوا اکبر ذیجاہ کا سینہ
-برچھیاں پیوست ہوئی گڑھ گیا نیزہ
-کوئی بھی اس وقت مددگار نہیں تھا
-باپ نے خود بیٹے کے لاشے کو اٹھایا
-ہائے کسی نے نہ دیا شہ کو سہارا
-قتل ہوئی آل نبی گھر اجڑ گیا
+معصوم بچے وہشیوں کی جھڑکیاں کھاے ہوے
+عون و محمد چھوٹے چھوٹے ہاتھ پھیلائے ہوے
+سجاد سے زینب کا یہ کہنا کہ مولا جاگیے
+غفلت سے آنکھیں کھولیے لٹا ہے کنبہ جاگیے
 
 ۵
-لوری یہ راتوں کو جسے سناتی تھی یہ ماں
-گود کے جھولے میں جھلاتی تھی جسے ماں
-دولہا تصور میں بناتی تھی جسے ماں
-شیر جری کہہ کے بلاتی تھی جسے ماں
-ماں سے جدا ہائے وہ شہزادہ ہو گیا
-قتل ہوئی آل نبی گھر اجڑ گیا
-
-۶
-ہاشمی شیروں کا لہو بہہ گیا رن میں
-لٹ گئی کونین کی شہزادیاں بن میں
-آگ لگائی گئی زہرا کے چمن میں
-جکڑا گیا ہائے یتیموں کو رسن میں
-کتنے ہوئے ظلم و ستم اس قدر جفا
-قتل ہوئی آل نبی گھر اجڑ گیا
-
-۷
-آج بھی ہے وقت کے گوہر یہی نالے
-راکھ ہوئے جل گئے سادات کے خیمے
-مارے گئے بالی سکینہ کے طمانچے
-قید ہوئے سید کونین کے پیارے
-ہو گئی مقتل میں نبی زادی بے ردا
-قتل ہوئی آل نبی گھر اجڑ گیا
+اٹھتے ہیں شعلے دیکھیےء جلتا ہے خیمہ جاگیے
+اب باقیء زریت یاسین و طاہا جاگیے
+سارے محافظ سو رہے ہیں اشقیاں بے زال ہیں
+طوق و سلاسل منتظر ہیں بیڑیاں تیار ہے

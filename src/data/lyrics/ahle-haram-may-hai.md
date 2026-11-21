@@ -88,9 +88,6 @@ romanLyrics: |-
   Us par iza aur bhi di wawaila
   Kaan phate haiṅ khun hai behta
   Tarapte haiṅ bachche masum wawaila
-# source_id: nohayonline:24a264364b3f40c8ef21
-# source_url: https://www.nohayonline.com/details_content.php?id=1197
-# raw_sha256: 7a3dcc7b202b95821d8fd824423cbc3492e657130c383a6928f3bfec1a666ccb
 ---
 اہلِ حرم میں ہے رونے کی دھوم
 واویلا

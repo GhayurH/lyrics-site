@@ -43,9 +43,6 @@ romanLyrics: |-
   7
   Ki ibaadat jis ne Khaaliq ki tah-e-mehraab-e-tegh
   Us shahid-e-raah-e-Daawar ka janaaza le chalo
-# source_id: nohayonline:01e5483e1b67eb80ce28
-# source_url: https://www.nohayonline.com/details_content.php?id=3170
-# raw_sha256: c8a22ae95da43a78664a204e898a70da9bddefc657a22b1db6a4d1e86236e767
 ---
 
 شہیدِ کربلا حسین

@@ -67,11 +67,6 @@ romanLyrics: |-
   Chhin kar saaya laiṅ ne wo shajar kaat diya
   Jahaaṅ baithti thi bas ab dhup meiṅ bhi
   Hontoṅ pe yehi tha marsiya
-# source_id: nohayonline:edfb2686d114612e7356
-# source_url: https://www.nohayonline.com/details_content.php?id=1012
-# raw_sha256: 1d61fc09b2c026f20e0f6211f1996719bd312509ca295b868c4c387c518e8488
-# overlapping_source_url: https://tajpoints.com/2022/12/haye-baba-aap-ke-bad-na-soyi-zahra.html
-# overlapping_source_id: tajpoints:cd5490943c5d9f86eaa8
 ---
 اک روز مدینے والوں نے
 حیدر سے کہا زہرا سے کہے

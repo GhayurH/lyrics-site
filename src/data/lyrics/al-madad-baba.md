@@ -52,9 +52,6 @@ romanLyrics: |-
   Ab bhi Arsalan Baqayya se sada aati hai
   Pasliyaṅ tuti thiṅ kal aaj lahad tuti hai
   Jaane kis baat ki di Ahl-e-Madina ne saza
-# source_id: nohayonline:9589c8ba2338130c7dd5
-# source_url: https://www.nohayonline.com/details_content.php?id=3094
-# raw_sha256: 8749ad17fdfbe122d8d59ea9e2340c6bf28f3cb4ec1f03741762c89064a03315
 ---
 اک شور کا عالم ہے مدینے کی گلی ہے
 یہ کس کا ہے دروازہ جہاں آگ لگی ہے

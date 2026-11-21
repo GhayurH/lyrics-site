@@ -48,9 +48,6 @@ romanLyrics: |-
   Sukhi zabaaṅ hai pyaase ho tum tin roz se
   Is ke siwa hai aur bhi kitne hi marhale
   Tum ko magar hai maqsad-e-Shabbir ka khayaal
-# source_id: nohayonline:82121ce77001768814a3
-# source_url: https://www.nohayonline.com/details_content.php?id=3334
-# raw_sha256: 64caf29bf79051c8311e991bf4fb1c039c9c33ca8c00d9b7b41ea69ed069d461
 ---
 
 جاؤ سدھارو رن کی طرف میرے نونہال

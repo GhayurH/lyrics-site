@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Pehre the aansuoṅ par kya sakhtiyaṅ thiṅ Sajid
   Baba ko yaad kar ke bachchi na rone pai
-# source_id: nohayonline:0b340d72c29dd8435250
-# source_url: https://www.nohayonline.com/details_content.php?id=2875
-# raw_sha256: 00c867c5f0564e56b72020729367caf561266785be957f535aff30ed02e0da44
 ---
 عابد کو ساتھ لے کر زینب مدینے آئی
 اٹھو رسول دیکھو ہمراہ کیا کیا لائی

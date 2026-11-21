@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Tarpa khaime meiṅ jo aawaaz kamaaṅ ki sun kar
   Zinda taa umr wo maadar ka kaleja thehra
-# source_id: nohayonline:683efee844db07dbeede
-# source_url: https://www.nohayonline.com/details_content.php?id=565
-# raw_sha256: 13e784baf849cb02a512d580e67d3d49e79969247113b486b3419488c218ac3e
 ---
 زمانہ ٹھہرا دیکھ کر ہیبتِ عباس
 انتہا یہ ہے کہ بہتا ہوا دریا ٹھہرا

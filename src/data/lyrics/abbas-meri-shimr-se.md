@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Sardar ko gham tera hai aulad se pyara
   Kehta hai shab o roz mere bakht jaga do
-# source_id: nohayonline:c0c3c406f029e1d175bc
-# source_url: https://www.nohayonline.com/details_content.php?id=1496
-# raw_sha256: 75cd6bc0757b3f95b51ab8c398f22be679665b88eeba90cf7a64f2a4c4e0c0d0
 ---
 
 عباس میری شمر سے چادر تو دلا دو

@@ -131,9 +131,6 @@ romanLyrics: |-
   Jaan alamdaar alamdaar alamdaar
   Jaan alamdaar alamdaar alamdaar
   Jaan alamdaar alamdaar alamdaar
-# source_id: nohayonline:00eb0a669c60c4858448
-# source_url: https://www.nohayonline.com/details_content.php?id=2047
-# raw_sha256: 51d545900328df08419f7ed3f90b9e92459bdd88168a1a279b7eac7478a37e81
 ---
 
 جان علمدار علمدار علمدار

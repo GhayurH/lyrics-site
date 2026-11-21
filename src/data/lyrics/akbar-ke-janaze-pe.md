@@ -57,9 +57,6 @@ romanLyrics: |-
   Roti hai koi Bibi musalsal pas-e-parda
   Jab se hai suna Mir Takallum tera noha
   Bhai se gale mil ke behan boli dubara
-# source_id: nohayonline:26550b404a68bfbca5cb
-# source_url: https://www.nohayonline.com/details_content.php?id=1068
-# raw_sha256: 56a1d9e479bb23704df3f89765347e0c6354966afb8e56705792126918030670
 ---
 جس وقت گرا زین سے ہم شکلِ پیمبر
 شبیر کو زینب نے صدا دی یہ تڑپ کر

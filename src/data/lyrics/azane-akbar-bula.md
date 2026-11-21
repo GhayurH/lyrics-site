@@ -48,9 +48,6 @@ romanLyrics: |-
   Hai pyaasa Khurshid maar daala
   Usi ki mazlumiyat pe duniya
   Ye aaj aansu baha rahi hai
-# source_id: nohayonline:8d59678801996df517ef
-# source_url: https://www.nohayonline.com/details_content.php?id=2955
-# raw_sha256: b10c884071a204d2ffdcb8b3a648e454a15311ccbe327aa6e74254325d5b1619
 ---
 
 اللہ اکبر

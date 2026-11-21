@@ -42,9 +42,6 @@ romanLyrics: |-
   Ran meiṅ aaye zalzale jhula jhulaane ke liye
   Tum chale maidaaṅ meiṅ kaise tir khaane ke liye
   Ab tumheiṅ turbat se gahwaare meiṅ laa kar kya karuṅ
-# source_id: nohayonline:b594b49823c7c14ea904
-# source_url: https://www.nohayonline.com/details_content.php?id=272
-# raw_sha256: 4902f7dc9c74b679045e6382b2cfab89642ee78af474889f5fcf565969793e5a
 ---
 
 ہائے اصغر کیا کروں اے جانِ مادر کیا کروں

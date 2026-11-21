@@ -50,9 +50,6 @@ romanLyrics: |-
   Dekho Shakil parcham-e-Abbas utha hai
   Dil thaam ke Rehan ne ye nauha parha hai
   Mashk-e-Sakina dekh ke phatta hai kaleja
-# source_id: nohayonline:33fca2196073534f6ddd
-# source_url: https://www.nohayonline.com/details_content.php?id=1394
-# raw_sha256: dbdd04ecb3faa7c0c5f38630c6b446824164bf12f281e47b1433725c64461d18
 ---
 
 کربوبلا کے دشت میں گونجی ہے یہ صدا
@@ -76,7 +73,7 @@ romanLyrics: |-
 آ کے سہارا دیجئے زینب ہوئی تنہا
 
 ۴
-بچے ہیں تنہا بی‌بیاں گھبرائی ہوئی ہیں
+بچے ہیں تنہا بیبیاں گھبرائی ہوئی ہیں
 شام غریباں دیکھ کے تھرائی ہوئی ہیں
 اہلِ حرم پہ ہوتی ہے ہر طرح کی جفا
 

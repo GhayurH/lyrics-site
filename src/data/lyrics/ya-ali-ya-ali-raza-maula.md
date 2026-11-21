@@ -54,9 +54,6 @@ romanLyrics: |-
   11
   Rehbari aap hi ko zeba hai
   Maiṅ to ghar se nikal para Maula
-# source_id: tajpoints:197c41f87bb7e99faf9f
-# source_url: https://tajpoints.com/2023/05/ya-ali-ya-ali-raza-mola-faqeer-arif.html
-# raw_sha256: c876ba2fba29f63503971c1604ba52776b5acfd79c302c627f0117a24295a650
 ---
 ۱
 مظہرِ شانِ کبریا مولا

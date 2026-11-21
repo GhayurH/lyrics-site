@@ -34,9 +34,6 @@ romanLyrics: |-
   5
   Tapka lahu jo ban meiṅ Shabbir ka Amir
   Ubhra wo aaj ban kar shakl-e-gulaab meiṅ
-# source_id: nohayonline:bd65b42547327eedc826
-# source_url: https://www.nohayonline.com/details_content.php?id=664
-# raw_sha256: 89d2112779c92e99e85db43ea93f1ab85d7ffa02d4481a1a26b3a3ec243ea95c
 ---
 زینب نے جس کو پالا نوری حجاب میں
 وہ قتل ہو گیا ہے عہدِ شباب میں

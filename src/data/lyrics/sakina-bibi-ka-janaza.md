@@ -86,16 +86,13 @@ romanLyrics: |-
   Raza o Zishan maaṅ pukaari
   Ye Shaam waali ka hai janaaza
   Uthao Zainab uthao Fizza
-# source_id: nohayonline:f66c4c4a8f7c43e19466
-# source_url: https://www.nohayonline.com/details_content.php?id=2662
-# raw_sha256: d5c5e693382f0d005dbfe31c36a133544bc32a0ba6917ed8104583e5b474854e
 ---
 
 وہ شام کا زندان وہ غربت وہ اندھیرا
 کرتے کا کفن اور سکینہ کا جنازہ
 سجاد سے جب لاشہ بہن کا نہیں اُٹھا
 لاشے پہ رباب آکے یہ کرنے لگیں نوحہ
-اے بی‌بیوں تم میری مدد کرنے کو آؤ
+اے بیبیوں تم میری مدد کرنے کو آؤ
 ہائے مظلوم سکینہ کے جنازے کو اُٹھاؤ
 
 سکینہ بی‌بی کا ہے جنازہ

@@ -66,9 +66,6 @@ romanLyrics: |-
   Un ke gham meiṅ muztarib un ki khushi meiṅ shaadmaaṅ
   Un ke ban jaao ghulaam un se wafaadaari karo
   Sunnat-e-Zainab yehi hai taaziyadaari karo
-# source_id: nohayonline:04573adf995db2d0dcfe
-# source_url: https://www.nohayonline.com/details_content.php?id=3213
-# raw_sha256: 671be6a3532eb0641b589dfc05d55e1741b4ff89e2df0854cf29e0282f08de9b
 ---
 
 بچھا کے فرش عزا سیدہ کو یاد کرو

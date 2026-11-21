@@ -42,16 +42,13 @@ romanLyrics: |-
   Baatil ka sar na uthe ga aisa diya sabaq
   Bhai behan Raza hai hidaayat ke do waraq
   Hai Karbala panaah-e-mohabbat ki sar zamiṅ
-# source_id: nohayonline:cdd23bb8fb5bb801a1a0
-# source_url: https://www.nohayonline.com/details_content.php?id=3341
-# raw_sha256: 9d99c12a3b5a07820413e07116b64371fdb226d26f5ede045723afd9625f9078
 ---
 
 زینب منانے آئی ہے بھائی کا اربعین
 
 ۱
 کربوبلا میں شام غریباں کا ہے سماں
-بیٹھی ہوئی ہے خاک بسر ساری بی‌بیاں
+بیٹھی ہوئی ہے خاک بسر ساری بیبیاں
 بھائی کے ہے مزار پہ خواہر کی یہ فغاں
 ہم تھے ستم تھا اور تھی افواج اہلِ کیں
 
@@ -62,7 +59,7 @@ romanLyrics: |-
 طوق گراں تھا اور میرا عابد حزیں
 
 ۳
-لیلیٰ کا حال بی‌بیوں میں سب سے غیر تھا
+لیلیٰ کا حال بیبیوں میں سب سے غیر تھا
 ایک ایک سے کہتی تھی میرا اکبر کہاں گیا
 میں ڈھونڈتی ہوں کوئی بھی دیتا نہیں پتہ
 نیزے لیے ہوئے اسے گھیرے تھے کچھ لعیں

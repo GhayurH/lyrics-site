@@ -48,9 +48,6 @@ romanLyrics: |-
   Bura lage to lage ae Yasir Raza kisi ko
   Likha wohi hai pasand jo hai Ali Wali ko
   Nazar se parde utha raha hai Ali ka sajda
-# source_id: tajpoints:eacec9f1aa359b62b4eb
-# source_url: https://tajpoints.com/2018/07/khuda-ki-azmat-bata-raha-hai-ali-ka.html
-# raw_sha256: d960f2a767f6bec90e8aff820b35e493de56ffcc0bec1adead63884d18c50b46
 ---
 خدا کی عظمت بتا رہا ہے علی کا سجدہ
 جہاں کو شر سے بچا رہا ہے علی کا سجدہ

@@ -94,9 +94,6 @@ romanLyrics: |-
   Hai girya kunaaṅ zamin-e-Arab
   Bapa har ghari Rehaan Azmi
   Fiza maatami basad shaan hai
-# source_id: nohayonline:d87d91fc488df7139550
-# source_url: https://www.nohayonline.com/details_content.php?id=3011
-# raw_sha256: 1170ec6b6c28d61caa0b1fb7458f3da198ca4b7e07469b783dc44b70192f6893
 ---
 بابا کے لئے قید میں روتی تھی سکینہ
 یہ کون ہے کیا نام ہے حاکم نے یہ پوچھا

@@ -55,9 +55,6 @@ romanLyrics: |-
   Aaṅsuoṅ ki dard ki ehsaas ki barsaat meiṅ
   Tum ko parhna mujh ko likha mil gaya khairaat meiṅ
   Tum ko sun kar dehr ka har khushnawa khaamosh hai
-# source_id: nohayonline:ad5bcbbb06ce262dd54b
-# source_url: https://www.nohayonline.com/details_content.php?id=3209
-# raw_sha256: f2caadfd4220b19b1322dd1e7736e847e634c92a8ad91cd0fe5a730a4829a858
 ---
 آ گئی شام غریباں کربلا خاموش ہے
 ہو گیا مقتول قرآں کربلا خاموش ہے

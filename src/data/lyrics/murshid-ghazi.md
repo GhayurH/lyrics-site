@@ -82,9 +82,6 @@ romanLyrics: |-
   Us waqt julus-e-maatam meiṅ
   Har maatam daar uthaata hai
   Alam mere murshid Ghazi ka
-# source_id: nohayonline:d2d4bb1143339650325d
-# source_url: https://www.nohayonline.com/details_content.php?id=3038
-# raw_sha256: d6821e6d3e9c74dabd98c6764016361e75cc4ecb356cff81103083a9577f7231
 ---
 
 میں نوکر ہاں میں نوکر

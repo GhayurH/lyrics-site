@@ -48,9 +48,6 @@ romanLyrics: |-
   Firaaq-e-Hazrat-e-Mohsin meiṅ mar gayi Zahra
   Kisi bhi maaṅ pe na utre ye beamaaṅ sadma
   Ye dard samjhega Rehaan jo bhi momin hai
-# source_id: nohayonline:9bddb8f51ac82ce9149f
-# source_url: https://www.nohayonline.com/details_content.php?id=1828
-# raw_sha256: 20d391f52b858a03a11d3c23f8db9a2f3215ae96dc9307e734756b04a2f31142
 ---
 حسن حسین سے پہلے شہید کمسن ہے
 وہ کوئی اور نہیں سیدہ کا محسن ہے

@@ -43,9 +43,6 @@ romanLyrics: |-
   Ek hashr sa ran meiṅ utha Safdar hua maatam bapa
   Ro ke Sakina ne kaha aana hi tha jab Karbala
   Baba pe jab khanjar chala aaye nahiṅ kiuṅ dada jaan
-# source_id: nohayonline:7c503e4a2da1a142d40a
-# source_url: https://www.nohayonline.com/details_content.php?id=1547
-# raw_sha256: 3f2089a94dada64ca993a00ecad90f02ef0479f89a83c9abd15cde0efd6f1365
 ---
 
 بابا میرا مارا گیا آے نہیں کیوں دادا جان

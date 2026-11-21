@@ -1,0 +1,88 @@
+---
+title: "نہ پائے شہ کو ہے کوئی لرزش"
+recitationId: "na-paae-sheh-ko"
+alternateTitle: "Na Paa-e-Sheh Ko"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Saeed Shaheedi"
+reciter: "Alamdar Razvi"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Na paa-e-sheh ko hai koi larzish
+  Na dast-e-sheh thartharaa rahe haiṅ
+
+  1
+  Ali ko awaaz de ke laasha
+  Jawaaṅ pisar ka utha rahe haiṅ
+
+  2
+  Rabaab khoyi hui si baithi
+  Hai ashk aankhoṅ se jaa rahe haiṅ
+  Jo haath jhula jhula rahe the
+  Woh ab bhi jhula jhula rahe haiṅ
+
+  3
+  Kisi ko haathoṅ pe le ke pahunche
+  Kisi ka laasha utha ke laaye
+  Husain maqtal ko jaa rahe haiṅ
+  Husain maqtal se aa rahe haiṅ
+
+  4
+  Pahunche baaliṅ pe naujawaaṅ ki
+  Husain ba haalat-e-pareshaaṅ
+  Sadaa uthaye ye naaz jis ke
+  Ab us ka laasha utha rahe haiṅ
+
+  5
+  Khayaal Asghar ka aa raha hai
+  Awaaz gum qalb hai pareshaaṅ
+  Rabaab uth uth ke dekhti hai
+  Keh jaise Asghar bujha rahe haiṅ
+
+  6
+  Sa'id adab se jhukaye sar ko
+  Maiṅ apna nauha suna raha huṅ
+  Duaaeṅ deti hai mujh ko Zehra
+  Ali mera dil bara rahe haiṅ
+---
+
+نہ پائے شہ کو ہے کوئی لرزش
+نہ دستِ شہ تھرتھرا رہے ہیں
+
+۱
+علی کو آواز دے کے لاشہ
+جواں پسر کا اٹھا رہے ہیں
+
+۲
+رباب کھوئی ہوئی سی بیٹھی
+ہے اشک آنکھوں سے جا رہے ہیں
+جو ہاتھ جھولا جھلا رہے تھے
+وہ اب بھی جھولا جھلا رہے ہیں
+
+۳
+کسی کو ہاتھوں پہ لے کے پہنچے
+کسی کا لاشہ اٹھا کے لائے
+حسین مقتل کو جا رہے ہیں
+حسین مقتل سے آ رہے ہیں
+
+۴
+پہنچے بالیں پہ نوجواں کی
+حسین با حالتِ پریشاں
+صدا اٹھائے یہ ناز جس کے
+اب اس کا لاشہ اٹھا رہے ہیں
+
+۵
+خیال اصغر کا آ رہا ہے
+آواز گم قلب ہے پریشاں
+رباب اٹھ اٹھ کے دیکھتی ہے
+کہ جیسے اصغر بجھا رہے ہیں
+
+۶
+سعید ادب سے جھکائے سر کو
+میں اپنا نوحہ سنا رہا ہوں
+دعائیں دیتی ہے مجھ کو زہرا
+علی میرا دل بڑا رہے ہیں

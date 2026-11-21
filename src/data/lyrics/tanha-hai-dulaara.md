@@ -80,9 +80,6 @@ romanLyrics: |-
   Maqtal meiṅ Rashid ek hashr hua
   Sar ho gaya shah ka tan se juda
   Ek bekas maaṅ deti hai sada
-# source_id: nohayonline:67206b35068eaad12142
-# source_url: https://www.nohayonline.com/details_content.php?id=3262
-# raw_sha256: 18270390ae41154a2eccfb8a98c2db1e64a9a71078ae7959ea74d9ad1c16b4fc
 ---
 اجڑی ہوئی بستی ہے اسے کیسے بسائیں
 بکھرے ہوئے لاشوں پر سسکتی ہے ہوائیں

@@ -64,9 +64,6 @@ romanLyrics: |-
   Sada naam-e-Asghar pe hasrat hai meri
   Guzar jaaye Akbar ki ye umr saari
   Sabiloṅ se paani pilaate pilaate
-# source_id: nohayonline:2a272b7a00197f3a86ab
-# source_url: https://www.nohayonline.com/details_content.php?id=112
-# raw_sha256: 5217c752224f725a64ab2caf75996749db24e9c609ef07a144b1f7487b1574ed
 ---
 ہے کیسا اندھیرا یہ کیا ہو گیا ہے
 ہے کس کا جنازہ قیامت بپا ہے

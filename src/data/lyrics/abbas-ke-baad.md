@@ -62,9 +62,6 @@ romanLyrics: |-
   Jalti reti pe para reh gaya laasha uska
   Shams Aamir ye bayaṅ Fatema Zehra ne kiya
   Kaise utthega janaza mere Abbas ke baad
-# source_id: nohayonline:80090ce61d30714b05ee
-# source_url: https://www.nohayonline.com/details_content.php?id=2438
-# raw_sha256: 695df005ab556dda2a9c667cf9b5baa5b58a57b0106772f1b4ff9ee858c355e4
 ---
 
 ماں پریشان ہے کتنی حیران ہے

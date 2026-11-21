@@ -48,9 +48,6 @@ romanLyrics: |-
   7
   Sakina rote rote ho gayi khaamosh jab aakhir
   Farid us dam kaha ye Abid-e-bimaar ne ro kar
-# source_id: nohayonline:9aa6448c6afceb953c6d
-# source_url: https://www.nohayonline.com/details_content.php?id=2936
-# raw_sha256: 24f356b3c2c119f8bbfc99f9a268f1496b59293bbae71d39c4129d28b2cfc41c
 ---
 سکینہ بین کرتی تھی سر سرور سے یہ رو کر
 نہیں اب آس جینے کی ہوئے اتنے ستم ہم پر

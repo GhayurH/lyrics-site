@@ -10,9 +10,6 @@ reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:558a6476cdf55e3b6617
-# source_url: https://www.nohayonline.com/details_content.php?id=3230
-# raw_sha256: 8125a06969992674eac1f091bbf4d37b2c6b8f22730ea25ffa4b905821749e2e
 romanLyrics: |-
   Ali ke shahr-e-Kufa meiṅ samaṅ Zainab pe kya aaya
   Kuja burqa-e-shariat ka rida ka bhi nahiṅ saaya

@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Kehti thi Najaf ro kar aajao mere bhaiya
   Ho jaae munawwar ghar aajao Ali Akbar
-# source_id: nohayonline:3396ae9e661cc812d2b7
-# source_url: https://www.nohayonline.com/details_content.php?id=853
-# raw_sha256: ff8e5bcad873f38e046d62c85c8152774a6fd0b31201325ff8a9bee6eba7eed8
 ---
 
 صغرا نے کہا رو کر آجاؤ علی اکبر

@@ -65,9 +65,6 @@ romanLyrics: |-
   Aur bhala Darwesh kya hogi karimi ki sanad
   Tu ne har maatami ka dil baqayya kar diya
   Shukriya ya Fatema
-# source_id: nohayonline:825a0fdc69bbbc24be23
-# source_url: https://www.nohayonline.com/details_content.php?id=2531
-# raw_sha256: 14f9ae2c63b5ef9383363f253a420a2b91ac9817d21909dfa14b1a6133dfbf15
 ---
 
 عبد واللہ یا زہرا ما ننسا حسینا

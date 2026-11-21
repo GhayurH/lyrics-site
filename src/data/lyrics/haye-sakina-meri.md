@@ -79,9 +79,6 @@ romanLyrics: |-
   Tazkira karta hai wo Shah ke ghamkhwaar ka
   Samjho zabaaṅ ahl-e-azaa kehte haiṅ ashaar
   Haye Sakina meri haye Sakina
-# source_id: nohayonline:aae71bd745283374079d
-# source_url: https://www.nohayonline.com/details_content.php?id=2856
-# raw_sha256: 8ea205bf31a7a8bf291fd02c92fae12a66f7d4cf3730f6f53ecfa7d4018b8be8
 ---
 
 وقتِ نزع کہتا رہا شہ کا علمدار

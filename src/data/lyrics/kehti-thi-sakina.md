@@ -57,9 +57,6 @@ romanLyrics: |-
   Majlis meiṅ hui har chashm hai nam
   Hai josh pe darya matam ka
   Ab jaan nikalne wali hai
-# source_id: nohayonline:1324c04e8ed768b82256
-# source_url: https://www.nohayonline.com/details_content.php?id=281
-# raw_sha256: 97d9041f4e6b7e988d5ac08b374d581f1dadb6c56412780a89f6009aa893f384
 ---
 
 کہتی تھی سکینہ آئو چچا

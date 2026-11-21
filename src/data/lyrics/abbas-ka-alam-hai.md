@@ -54,6 +54,10 @@ romanLyrics: |-
   Laeṅge saath apne Qaim ise dobara
 
   8
+  Sir chum ke dhi Masuma da Shabbir ne vain sunaaya
+  Alam nu sine la bechaari, oh tera chacha mur na aaya
+
+  9
   Alam bhai ka lahu meiṅ bhara
   Utha laaye jab Shah-e-Karbala
   Qayaamat bapa haram meiṅ hui
@@ -63,7 +67,16 @@ romanLyrics: |-
   Kaha Shah-e-Diṅ ne mera ghar luta
   Sakina tumhara chacha na raha
 
-  9
+  10
+  Allah kisi yatim ko pardes meiṅ ye din na dikhaaye
+  Abbas ke yatimoṅ ne jis dam khabar suni
+  Qadmoṅ meiṅ Ibn-e-Zehra ke gir ke sada ye di
+  Zehmat na aap kijiye zinda haiṅ ham abhi
+  Darya pe jaaeṅ ham jo ijaazat ho aap ki
+  Kamsin haiṅ phir bhi waada hai khaali na aaeṅ ge
+  Laasha na utha sakeṅ to baazu uthaaeṅ ge
+
+  11
   Yatimoṅ ka jab suna ye bayaṅ
   Tarapne lagi Nabizadiyaṅ
   Yatimoṅ se ye kaha Shah ne
@@ -74,11 +87,7 @@ romanLyrics: |-
   Taqaaza kare na koi pyaas ka
   Alam hi janaaza hai Abbas ka
   Sakina tumhara chacha na raha
-# source_id: nohayonline:bf901a1562ade3037ca6
-# source_url: https://www.nohayonline.com/details_content.php?id=2712
-# raw_sha256: e1fb8a29fe8354ac8aa8ef2c9b4c96e9a1d47806787cd3e679c081380c3bf31c
 ---
-
 اے علمدار حسین وا عباسا
 وا عباسا وا عباسا
 پرچمِ عباس ہی پرچمِ اسلام ہے
@@ -122,6 +131,10 @@ romanLyrics: |-
 لائیں گے ساتھ اپنے قائم اسے دوبارہ
 
 ۸
+سر چوم کے دھی معصومہ دا شبیر نے وین سنایا
+علم نوں سینے لا بچاری اوہ تیرا چچا مُڑ نہ آیا
+
+۹
 علم بھائی کا لہو میں بھرا
 اٹھا لائے جب شہ کربلا
 قیامت بپا حرم میں ہوئی
@@ -131,7 +144,16 @@ romanLyrics: |-
 کہا شاہ دیں نے میرا گھر لٹا
 سکینہ تمہارا چچا نہ رہا
 
-۹
+۱۰
+اللہ کسی یتیم کو پردیس میں یہ دن نہ دکھائے
+عباس کے یتیموں نے جس دم خبر سنی
+قدموں میں ابنِ زہرا کے گر کے صدا یہ دی
+زحمت نہ آپ کیجیے زندہ ہیں ہم ابھی
+دریا پہ جائیں ہم جو اجازت ہو آپ کی
+کم سن ہیں پھر بھی وعدہ ہے خالی نہ آئیں گے
+لاشہ نہ اٹھا سکیں گے تو بازو اٹھائیں گے
+
+۱۱
 یتیموں کا جب سنا یہ بیاں
 تڑپنے لگی نبی زادیاں
 یتیموں سے یہ کہا شاہ نے

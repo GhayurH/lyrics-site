@@ -1,10 +1,10 @@
 ---
-title: کر کر کے یاد سکینہ کو بغداد کا قیدی روتا ہے
-alternateTitle: Baghdad Ka Qaidi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کر کر کے یاد سکینہ کو بغداد کا قیدی روتا ہے"
+alternateTitle: "Baghdad Ka Qaidi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Shahid Baltistani"
 tags: []
@@ -50,15 +50,6 @@ romanLyrics: |-
   Baghdad ke qaidi ne har dam Abid pe kiya hai girya
   Lekin Akbar is ghurbat par Sajjad bhi rota hoga
   Zanjiroṅ meiṅ tha jakra hua jab Kazim ne dam tora hai
-# source_id: nohayonline:49886383a6e04182158e
-# source_url: https://www.nohayonline.com/details_content.php?id=904
-# raw_sha256: c0948113e95adebcb595a0b87781c1c647291fb5f79bd92b45e7b91766d80443
-# source_id: ziyaraat:14c6b039b600e68e23f5
-# source_url: https://www.ziyaraat.net/api/noha/2521
-# raw_sha256: 5b2e0c22fa5fa43a31bf8a1d1c70346ffb381138abc48d73e5f66da7d51d7e33
-# source_id: ziyaraat:2c4d9cec3706c8d65334
-# source_url: https://www.ziyaraat.net/api/noha/2486
-# raw_sha256: d397bfeb395b3e7495d75258a9ad1f5d7c45c6c584a244df40518e4754cbbcc5
 ---
 
 یا موسیِٰ كاظمؑ، ہائے ہائے امام كاظمؑ

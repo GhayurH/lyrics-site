@@ -1,0 +1,30 @@
+---
+title: "Haye Jafar E Sadiq Ko Zehar"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Sajjad"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Haye Jafar e Sadiq Ko Zehar Lyrics Write Up
+Haye Jafar e Sadiq Ko Zehar Kis Ne Diya Hai.
+Kazim Ke Sar Pe Saya Haye Logo Yateemi Ka Yeh Kis Ne Kiya Hai.
+Jala Jis Tarha Se Khaima Karbal Mein Zainab Ka.
+Ghar Aaj Oss Tarha Se Phir Logo Madine Mein Jafar Ka Jala Hai.
+Kaha Sadiq Ne Yeh Nana Tere Madine Mein.
+Tera Deen Mitanay Ko Tere Lal Pe Hakim Ne Har Zulm Kiya Hai.
+Howa Shabbar Ka Tha Jaisay Tukray Jigar Haye.
+Phir Nana Ka Shehar Hai Jafar Ka Jigar Haye Phir Tukray Howa Hai.
+Qatal Zahra Hoin Thin Our Phir Qatal-e-Ali Kar Ke.
+Shabbar Se Hai Jafar Tak Logon Ne Wilayat Ka Haye Badlah Liya Hai.
+Yeh Zalim Jantay Hain Jafar Khon-e-Muhammad Hai.
+Ilm-e-Nabi Ka Waris Ummat Ke Zulm Seh Ke Dunya Se Chala Hai.
+Tumhein Baghdad Mein Ummat Qaidi Banaye Gi.
+Jan De Ke Dein Bachana Yeh Jafar-e-Sadiq Ne Kazim Se Kaha Hai.
+Najaf Se Karbala Se Koi Hai Sham Se Aaya.
+Aaye Hain Baqiya Walay Sajjad Youn Jafar Ka Taboot Utha Hai.

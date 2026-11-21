@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Ae Turabi muft hai aab-e-hayaat
   Maut ke haathoṅ se koi jaam le
-# source_id: nohayonline:424a5b7e70d98ce9263d
-# source_url: https://www.nohayonline.com/details_content.php?id=3524
-# raw_sha256: e748a74cc06cb842db8d883d4cbcdb078b6481dee038850a12b6787fc4d4846b
 ---
 ہے یہی وقت ان کا دامن تھام لے
 گرنے والے اب علی کا نام لے

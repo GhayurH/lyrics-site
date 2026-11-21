@@ -64,9 +64,6 @@ romanLyrics: |-
   Maqtal ne is riwaayat ko kuchh is tarah se likha tha
   Khud Mazhar Abidi jis ko nauhe meiṅ dhaal kar roya
   Aaja meri god meiṅ aaja qurbaan ho ye maaṅ
-# source_id: nohayonline:e61b596e6b9ebe2c32e8
-# source_url: https://www.nohayonline.com/details_content.php?id=3052
-# raw_sha256: b31ad03d302e8d0d0f6f35251449c321a85c4cae847922bc93b0162877f97fc4
 ---
 دیکھا جو دشتِ خونی میں زہرا کے چین نے
 فریاد اماں زہرا سے یوں کی حسین نے

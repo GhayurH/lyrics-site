@@ -1,10 +1,10 @@
 ---
-title: زینب سا زمانے میں عزادار کہاں ہے
-alternateTitle: Na Royi Zainab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینب سا زمانے میں عزادار کہاں ہے"
+alternateTitle: "Na Royi Zainab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
@@ -70,12 +70,6 @@ romanLyrics: |-
   Aansu aankhoṅ se Takallum nikle
   Pehle us din se na baad us ke kabhi
   Apne bachchoṅ ko na royi Zainab
-# source_id: nohayonline:6712c3659ab77779b673
-# source_url: https://www.nohayonline.com/details_content.php?id=3068
-# raw_sha256: 3f03d1539964f0fe986fb47435789b82b536203e0ccb0bc572c7ef773e531090
-# source_id: ziyaraat:98296a17eed4e9a878be
-# source_url: https://www.ziyaraat.net/api/noha/1713
-# raw_sha256: 31a55cc671ed82d5afe08e3e83f6d7907902ab269c828aefd0f5d257d99fa0e8
 ---
 ہائے زینب۔۔۔ زینب
 ہائے زینب۔۔۔ ہائے زینب

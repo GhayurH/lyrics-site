@@ -65,9 +65,6 @@ romanLyrics: |-
   13
   Gham-e-Shah par Raza kiuṅ kar na roye
   Haqiqat jaante haiṅ Karbala ki
-# source_id: nohayonline:a1c5c369def07c5374ec
-# source_url: https://www.nohayonline.com/details_content.php?id=2000
-# raw_sha256: 05a35ef857fcef19ec02b8c6e243e54c6ff127d25b62a671ae9a954ff1de3c06
 ---
 لٹی دنیا علی مرتضیٰ کی
 شہادت ہو گئی ہے سیدہ کی

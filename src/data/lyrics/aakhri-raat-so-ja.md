@@ -1,0 +1,136 @@
+---
+title: "سکینہ سے کہتے تھے مقتل میں سرور"
+recitationId: "aakhri-raat-soja"
+alternateTitle: "Aakhri Raat So Ja"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Zafar Abbas"
+reciter: "Rizwan Zaidi"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Sakina se kehte the maqtal meiṅ Sarwar
+  Hai ye aakhri raat so ja Sakina
+  Miri zindagi meiṅ hi aaraam kar le
+  Abhi to muyassar hai baba ka sina
+
+  1
+  Ae jaan-e-padar mujh ko maalum hai ye
+  Tujhe kal se bedard sone na deṅge
+  Miri laash-e-paamaal par bhi Sakina
+  Tujhe ye sitamgaar rone na deṅge
+  Tu ji bhar ke mujh se mulaqat kar le
+  Yehi chand lamhe haiṅ meri hazina
+
+  2
+  Tujhe is liye hi to maanga tha maiṅ ne
+  Shaboṅ ki namaazoṅ meiṅ apne Khuda se
+  Ke meri mohabbat ka jab imtehaaṅ ho
+  Judaai tiri maiṅ sahuṅ Karbala se
+  Karuṅ sabr teri yatimi pe maiṅ bhi
+  Kare sabr maqtal meiṅ tu bhi Sakina
+
+  3
+  Ye raunaq bhi kal shaam tak hai Sakina
+  Ke barh jayegi teri tashna dahani
+  Tira bhaai Asghar to pyaasa rahega
+  Dikha kar tujhe Shimr phenkega paani
+  Miri tashnagi yaad kar lena beta
+  Ke raahoṅ meiṅ jab bhi kabhi paani pina
+
+  4
+  Safar ki thaki hai kuchh aaraam kar le
+  Ae shehzadi ye raat dhalne se pehle
+  Ye sina bhi paamaal ho jayega kal
+  Katega gala dam nikalne se pehle
+  Mujhe bekhata qatl hona hai ran meiṅ
+  Miri laal ab mera mushkil hai jina
+
+  5
+  Inheṅ ye khabar hai miri laadli hai
+  Tujhe bhi satayeṅge ye Shaam wale
+  Tujhe zulm sehne haiṅ in zaalimoṅ ke
+  Tujhe kar raha huṅ Khuda ke hawaale
+  Bahut mushkileṅ hoṅ giṅ Aashur ke din
+  Musibat meiṅ ye ghir gaya hai safina
+
+  6
+  Gharib-ul-watan ki yehi aarzu hai
+  Phuphi ki tarah zulm par sabr karna
+  Tujhe dekh kar log aansu bahayeṅ
+  Yatimi ko le kar jahaṅ se guzarna
+  Tujhe Kufa o Shaam ke raaste meiṅ
+  Bahut yaad aayega shahr-e-Madina
+
+  7
+  Zafar der tak Shah-e-Diṅ aur Sakina
+  Shab-e-gham meiṅ karte rahe aah o zaari
+  Wo baap aur beti ki rukhsat ka manzar
+  Dil-e-Karbala par hai ye zakhm kaari
+  Kahaṅ Shah ki qabr Karb o Bala meiṅ
+  Kahaṅ Shaam meiṅ hai mazaar-e-Sakina
+---
+
+سکینہ سے کہتے تھے مقتل میں سرور
+ہے یہ آخری رات سوجا سکینہ
+مری زندگی میں ہی آرام کر لے
+ابھی تو میسر ہے بابا کا سینہ
+
+۱
+اے جانِ پدر مجھ کو معلوم ہے یہ
+تجھے کل سے بے درد سونے نہ دیں گے
+مری لاشِ پامال پر بھی سکینہ
+تجھے یہ ستمگار رونے نہ دیں گے
+توُ جی بھر کے مجھ سے ملاقات کر لے
+یہی چند لمحے ہیں میری حَزینہ
+
+۲
+تجھے اِس لیے ہی تو مانگا تھا میں نے
+شبوں کی نمازوں میں اپنے خدا سے
+کہ میری محبت کا جب امتحاں ہو
+جدائی تری میں سہوں کربلا سے
+کروں صبر تیری یتیمی پہ میں بھی
+کرے صبر مقتل میں تو بھی سکینہ
+
+۳
+یہ رونق بھی کل شام تک ہے سکینہ
+کہ بڑھ جائے گی تیری تشنہ دہانی
+ترا بھائی اصغر تو پیاسا رہے گا
+دِکھا کر تجھے شمر پھینکے گا پانی
+مری تشنگی یاد کر لینا بیٹا
+کہ راہوں میں جب بھی کبھی پانی پینا
+
+۴
+سفر کی تھکی ہے کچھ آرام کر لے
+اے شہزادی یہ رات ڈھلنے سے پہلے
+یہ سینہ بھی پامال ہو جائے گا کل
+کٹے گا گلا دَم نکلنے سے پہلے
+مجھے بے خطا قتل ہونا ہے رن میں
+مری لعل اب میرا مشکل ہے جینا
+
+۵
+اِنھیں یہ خبر ہے مری لاڈلی ہے
+تجھے بھی ستائیں گے یہ شام والے
+تجھے ظلم سہنے ہیں اِن ظالموں کے
+تجھے کر رہا ہوں خدا کے حوالے
+بہت مشکلیں ہوں گیں عاشور کے دن
+مصیبت میں یہ گِھر گیا ہے سفینہ
+
+۶
+غریب الوطن کی یہی آرزو ہے
+پھوپھی کی طرح ظلم پر صبر کرنا
+تجھے دیکھ کر لوگ آنسو بہائیں
+یتیمی کو لے کر جہاں سے گزرنا
+تجھے کوفہ و شام کے راستے میں
+بہت یاد آئے گا شہرِ مدینہ
+
+۷
+ظفر دیر تک شاہِ دیں اور سکینہ
+شبِ غم میں کرتے رہے آہ و زاری
+وہ باپ اور بیٹی کی رخصت کا منظر
+دلِ کربلا پر ہے یہ زخم کاری
+کہاں شاہ کی قبر کرب و بلا میں
+کہاں شام میں ہے مزارِ سکینہ

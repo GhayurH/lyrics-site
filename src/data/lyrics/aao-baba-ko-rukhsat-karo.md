@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Zeeshan Abidi"
 tags: []
 aliases:
   - "Aao Baba Ko Rukhsat Karo"
@@ -12,7 +13,7 @@ published: true
 romanLyrics: |-
   Betiyaṅ thiṅ, janaza tha, ehsaas tha
   Dur baba ki mayyat se Abbas tha
-  Waqt-e rukhsat ka faraj hataya gaya
+  Waqt-e rukhsat kafan jab hataya gaya
   Aakhri baar chehra dikhaya gaya
   Apne Abbas ka jab khayal aa gaya
   De ke awaz Shabbir ne yeh kaha
@@ -88,7 +89,7 @@ romanLyrics: |-
 
 بیٹیاں تھیں، جنازہ تھا، احساس تھا
 دور بابا کی میت سے عباس تھا
-وقتِ رخصت کا فرج ہٹایا گیا
+وقتِ رخصت کفن جب ہٹایا گیا
 آخری بار چہرہ دکھایا گیا
 اپنے عباس کا جب خیال آ گیا
 دے کے آواز شبیر نے یہ کہا

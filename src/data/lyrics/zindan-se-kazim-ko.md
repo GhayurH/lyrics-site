@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Baghdad meiṅ saadaat pe jo zulm hue haiṅ
   Har dard ki taarikh ye deti hai gawaahi
-# source_id: nohayonline:3681a50c43ce0f10a12d
-# source_url: https://www.nohayonline.com/details_content.php?id=1227
-# raw_sha256: f67faddd1a9e0e3adce9e2a4efaece1623a5a5909b6e1f6ece47156af2c91c18
 ---
 زندان سے کاظم کو ملی کیسی رہائی
 زنجیر بھی ہے تن پہ ہے اور ساتھ سپاہی

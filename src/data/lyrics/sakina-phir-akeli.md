@@ -49,9 +49,6 @@ romanLyrics: |-
   Kaho Sajjad Shaami auratoṅ se
   Na bhule Saani-e-Zehra ke waade
   Dar-e-zindaaṅ pe hai phir se andhera
-# source_id: nohayonline:2ce4b9cd282651bad20b
-# source_url: https://www.nohayonline.com/details_content.php?id=2933
-# raw_sha256: ac33585860675ff52d5269c05e8fc869ec5c10d4936634e3d948c04304cc1f17
 ---
 ہائے یتیمہ ہائے سکینہ
 نہیں تربت پہ کوئی رونے والا

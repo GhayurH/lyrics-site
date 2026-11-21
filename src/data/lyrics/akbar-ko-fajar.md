@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Laasha-e-Qaasim pe hai khaamosh khari Bint-e-Husain
   Mujh se kehti hi nahiṅ haaṅ wo magar roti hai
-# source_id: nohayonline:2d125ce3a4df49e25ecc
-# source_url: https://www.nohayonline.com/details_content.php?id=1498
-# raw_sha256: deb41651842fe71f8114a9c3f500214ae5ae3d320e5b2a2004925d56493267a3
 ---
 اکبر کو فجر شاہ کو اثر روتی ہے
 زینب کو مگر شام و سحر روتی ہے

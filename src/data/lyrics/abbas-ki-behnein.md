@@ -59,9 +59,6 @@ romanLyrics: |-
   11
   Bayaṅ Rizwan o Mazhar ho nahiṅ sakti qayamat tak
   Ghamoṅ ki hai mujassam dastaṅ Abbas ki behneṅ
-# source_id: nohayonline:fb03e3745e1210595227
-# source_url: https://www.nohayonline.com/details_content.php?id=1126
-# raw_sha256: c2120c12af85f98fbfac1929cc7a21a27e27fc5f65a54f21da3478e9b1da5e04
 ---
 
 کھا گیا شہزادیوں کو غم اسی احساس کا

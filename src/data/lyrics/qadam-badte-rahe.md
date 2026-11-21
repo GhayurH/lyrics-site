@@ -61,9 +61,6 @@ romanLyrics: |-
   Barh rahe ho aakhirat ke chain ki taraf
   Nazar meiṅ Gohar-e-aza ho bas razaa-e-Kibriya
   Ho safar Najaf se Karbala ka aaj yaadgaar
-# source_id: nohayonline:d3faa4d0aedf259e52a6
-# source_url: https://www.nohayonline.com/details_content.php?id=2632
-# raw_sha256: 5edeb84bdb5ac18d0cd4e6a73e6cf4f2e8d5c8a667d9145f807ef2e8e6e5872f
 ---
 قدم بڑھتا رہے آؤ کربلا کی طرف
 لبوں پہ یا حسین ہو اور آنکھ اشک بار

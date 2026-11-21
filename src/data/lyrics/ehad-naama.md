@@ -75,9 +75,6 @@ romanLyrics: |-
   Garajdaar lalkaar meri
   Maiṅ taarik zindaaṅ ki zulmat
   Se Mukhtar ban kar uthuṅ ga
-# source_id: nohayonline:8653ca3eaa498793a809
-# source_url: https://www.nohayonline.com/details_content.php?id=1706
-# raw_sha256: 25997a0ffb640d33482fce109123be4eaa4c550af69e48b60273282661470cc2
 ---
 زمین قلب پہ شہ کی عزا کا موسم ہے
 خطائے حر پہ حسینی عطا کا موسم ہے

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Ro diya Kufe ke darbar meiṅ Majid Mukhtar
   Sar-e-darbar sitamgar thi khule sar Zainab
-# source_id: nohayonline:1e4bc9ce97cdfbd05a0c
-# source_url: https://www.nohayonline.com/details_content.php?id=1413
-# raw_sha256: 19a435fbae6a5af7d76a31020951027d265c2f8d6d68426a97b5b13f8d6a97e7
 ---
 
 آ گئی شام کی نگری میں کھلے سر زینب

@@ -56,9 +56,6 @@ romanLyrics: |-
   Aur hum ko dar dar phiraane waale
   Na bakhshe jaayeṅge roz-e-mahshar
   Utho Sakina sehar hui hai
-# source_id: nohayonline:22894c08e6d9d9b0b6e8
-# source_url: https://www.nohayonline.com/details_content.php?id=640
-# raw_sha256: ca20b38ab29ddcfbabd960fcdcb1935306d0f134060239b15a92b9573c71edd2
 ---
 پُکاری شانہ ہلا کے مادر
 اُٹھو سکینہ سحر ہوئی ہے

@@ -48,9 +48,6 @@ romanLyrics: |-
   Fughaaṅ jis ki buland hai Shams wo baali Sakina hai
   Jo apne baap ki hai laadli taawiz-e-sina hai
   Lipat kar laash-e-besar se yehi kehti thi ro ro kar
-# source_id: nohayonline:1264ebec81fe71512b4a
-# source_url: https://www.nohayonline.com/details_content.php?id=2024
-# raw_sha256: 7b401d66f3c414885c881c43449f59e62396599e6719fd4a6728505a86769341
 ---
 اُٹھائے پھر رہے ہیں آگ خیموں کو جلاتے ہیں
 ستمگر کچھ سروں کو نوکِ نیزہ پر سجاتے ہیں

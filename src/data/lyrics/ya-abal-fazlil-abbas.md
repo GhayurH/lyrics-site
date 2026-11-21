@@ -52,9 +52,6 @@ romanLyrics: |-
   Mazhar Shah-e-diṅ le kar alam ko khaime ki jaanib chale
   Safdar laboṅ par ye marsiya tha Abbas ab na rahe
   Tuti kamar meri haaye tuti haram ki bhi aas
-# source_id: nohayonline:a7c6a9d7bfb1eed163e0
-# source_url: https://www.nohayonline.com/details_content.php?id=2289
-# raw_sha256: f7e55400593f7ba3ebdee1866d5765cec07e4048cfbac2032b7cadac66310840
 ---
 ساقی العطش ابا الفضل عباس
 یا أبا الفضل العباس

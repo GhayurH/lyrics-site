@@ -65,9 +65,6 @@ romanLyrics: |-
   13
   Kehte haiṅ ashk beh ke Raza ye Imam se
   Pursa qubul kijiye ya Saahib-uz-zamaan
-# source_id: nohayonline:d11454f7da32261461fb
-# source_url: https://www.nohayonline.com/details_content.php?id=2002
-# raw_sha256: 07b76c23056b3e93ff67f2b7b4bd9c6d294a530bbc1ebfc7876663001e802b30
 ---
 لاشے پہ مرتضیٰ کے تھی جبریل کی فغاں
 ہائے ہائے شہید ہو گئے مولائے دو جہاں

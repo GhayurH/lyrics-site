@@ -52,9 +52,6 @@ romanLyrics: |-
   Ab saare bain parh ke yeh samjha Anis ne
   Abbas ke rag rag meiṅ dileri hai aur wafa
   Wallah inkhattam yamani
-# source_id: nohayonline:8f5159e37e8bbbaee833
-# source_url: https://www.nohayonline.com/details_content.php?id=106
-# raw_sha256: 80e53be531c63268cc155ec19293c5aa6aa9d11549d0c9f81a1c0f70887856c9
 ---
 
 واللہ انختم یمنی

@@ -55,9 +55,6 @@ romanLyrics: |-
   Armaan ye turbat se Sakina ki sada hai
   Ae baba mujhe tum ne bahut pyaar kiya hai
   Ab phuloṅ ki chaadar hi charhaane chale aao
-# source_id: nohayonline:51eff1dd8ddfa905b419
-# source_url: https://www.nohayonline.com/details_content.php?id=2787
-# raw_sha256: 80392f77a3569c702356a0eff909bd061399375ed245b21195f2ec74b44a68c8
 ---
 انا للہ و انا الیہ راجعون
 سکینہ گزر گئی

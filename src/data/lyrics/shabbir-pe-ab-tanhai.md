@@ -78,9 +78,6 @@ romanLyrics: |-
   Taarikh ne ye samjhaaya hai
   Kal qaatil-e-Mohsin hai jis ne
   Khaimoṅ ko aag lagaayi hai
-# source_id: nohayonline:c6eb2c25fdec79acc528
-# source_url: https://www.nohayonline.com/details_content.php?id=920
-# raw_sha256: bc7a6f7d4f67aab5a6f29c0e64f38b7a2c134995b148089be37789545b9b97cb
 ---
 کیا غربت ہے اب کوئی نہیں
 شبیر پہ اب تنہائی ہے

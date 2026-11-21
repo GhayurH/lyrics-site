@@ -81,9 +81,6 @@ romanLyrics: |-
   Tum sab ke waalidain pe mera salaam hai
   Ae azadaroṅ utho maut se tum na daro
   Baandh lo sar se kafan in Yazidoṅ se kaho
-# source_id: nohayonline:24ea2171a99b114fe8ae
-# source_url: https://www.nohayonline.com/details_content.php?id=1542
-# raw_sha256: 14ce273cb993adde4d1fafce61694890734ecf658fa9fcb70e29c65a969fb7d4
 ---
 اونچا رہے گا علم سینے میں ہے جب تک ہے دم
 کربوبلا کی قسم زندہ رہے گا یہ غم

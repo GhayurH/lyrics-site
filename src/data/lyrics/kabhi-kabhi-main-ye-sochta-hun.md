@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: true
@@ -221,8 +222,6 @@ romanLyrics: |-
   Falak ki baheiṅ khuli hui haiṅ
   Ye kaf o kaun o makaṅ pe chha ja
   Tu nur hai nur meiṅ sama ja
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# editorial_note: Notebook has divergent Roman and Urdu stanzas; both reconciled by meaning and full wording needs independent audio confirmation
 ---
 کبھی کبھی میں یہ سوچتا ہوں
 یہ سوچتا ہوں کبھی کبھی میں

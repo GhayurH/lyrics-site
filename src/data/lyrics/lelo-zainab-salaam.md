@@ -71,9 +71,6 @@ romanLyrics: |-
   Baazuoṅ meiṅ rasan jab bandhe
   Sabr karna ae meri behen
   Kaam ye tishna kaam aakhri
-# source_id: nohayonline:c4cf21d27ff0419c2097
-# source_url: https://www.nohayonline.com/details_content.php?id=2488
-# raw_sha256: 55a86c3ee458a292bdddfbb8166fd2f7db7128fede9ed9c140bf88c97bb03988
 ---
 الوداع الوداع اے بہن الوداع
 

@@ -68,9 +68,6 @@ romanLyrics: |-
   Mashk o alam the Ali Akbar liye
   Lab pe tha noha yehi sher-e-jawaaṅ mar gaya
   Paani na maange koi sher-e-jawaaṅ mar gaya
-# source_id: nohayonline:2ae7d12d64ca6c471e9d
-# source_url: https://www.nohayonline.com/details_content.php?id=1622
-# raw_sha256: d18f338758b8b03c116c1b1a66d1ce0fcdbdee58ccad0d8809ed97e114af680b
 ---
 لاشہ عباس پہ پہنچے جو غریب زہرا
 بھائی کی لاش پہ اک بھائی نے نوحہ یہ کیا

@@ -1,10 +1,10 @@
 ---
-title: ماں کہتی تھی اٹھ جاگ میری جان سکینہ
-alternateTitle: Maa Kehti Thi Uth Jaag
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں کہتی تھی اٹھ جاگ میری جان سکینہ"
+alternateTitle: "Maa Kehti Thi Uth Jaag"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Qamar Abbas"
 tags: []
@@ -58,13 +58,6 @@ romanLyrics: |-
   Rone ki sada aati hai zindaan se aa kar
   Mar ke bhi rihaai na mili hai jise Akhtar
   Sunsaan sa hai aaj kiuṅ zindaan Sakina
-# source_id: nohayonline:23307260a79c64cb0577
-# source_url: https://www.nohayonline.com/content_salaam.php?id=13
-# raw_sha256: e8ecb3f7cd7daad8dc13aa852cd9bea97b029cce331792cc8091eae3b13b55f9
-# source_id: ziyaraat:b6e98070370690b2fdb0
-# source_url: https://www.ziyaraat.net/api/noha/2477
-# raw_sha256: c2229babed2c977d46833534642b2b7f39280d0cadcb3778536e40f00b9344dd
-# added_stanza_source: roman:kalam-nohayonline-23307260a79c64cb0577
 ---
 ماں کہتی تھی اٹھ جاگ میری جان سکینہ
 اٹھ گھر کو چلے کھل گیا زندان سکینہ

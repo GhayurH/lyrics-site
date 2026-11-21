@@ -70,9 +70,6 @@ romanLyrics: |-
   Bulwaaeṅ Karbala jaari rahe ata
   Shah ka ye gham sada karte raheṅ bapa
   Sar pe ho saaya figan teri rida
-# source_id: nohayonline:f9ff1caca3497ceb20ff
-# source_url: https://www.nohayonline.com/details_content.php?id=1488
-# raw_sha256: dd1132b5db4afff62d17ecfe156fd7956e5b57c1e2e448a9850268d8675e14e0
 ---
 یا زہرا یا زہرا یا زہرا یا زہرا
 آپ کی چوکھٹ پہ ہے یہ التجاء

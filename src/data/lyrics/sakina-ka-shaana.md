@@ -54,9 +54,6 @@ romanLyrics: |-
   Thi Takallum wo ghurbat ki kaisi ghari
   Jab andhere meiṅ bachchi ki mayyat uthi
   Qabr nanhi si Zainab banaati rahi
-# source_id: nohayonline:5a30d6f32d3496283d1e
-# source_url: https://www.nohayonline.com/details_content.php?id=2407
-# raw_sha256: 8334800ca9f3db78a6609bafe1149f9b304e96758007898d96a6590905248720
 ---
 زنداں میں جبکہ دخترِ شبیر مر گئی
 بازو ہلا کے بانوئے ناشاد نے کہا

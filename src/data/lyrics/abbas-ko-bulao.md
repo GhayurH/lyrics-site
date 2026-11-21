@@ -56,9 +56,6 @@ romanLyrics: |-
   Phir waqt aa gaya hai dunya meiṅ aaj Gohar
   Ahl-e-sitam jahaṅ meiṅ phir sar utha rahe haiṅ
   Abbas ko bulao
-# source_id: nohayonline:ccf4d7f43c8dbe297d13
-# source_url: https://www.nohayonline.com/details_content.php?id=3424
-# raw_sha256: d01b55bcce486953b3ae37d46d583dadaa8b5134ec7b84a19a8de6fd2b7e2ed8
 ---
 
 جس وقت شام آیا زینب کا دل گھبرایا

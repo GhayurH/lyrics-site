@@ -117,9 +117,6 @@ romanLyrics: |-
   20
   Jaari rahega sada
   Ye kaarwaan-e-aza
-# source_id: nohayonline:899953a10453692ea2ca
-# source_url: https://www.nohayonline.com/details_content.php?id=966
-# raw_sha256: f2830457c7c217d4437683fe404e9607135384dd888405e9c642b63296bd9412
 ---
 ہے سایہ فگن دو عالم پر
 سقائے سکینہ تیرا علم

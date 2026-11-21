@@ -42,9 +42,6 @@ romanLyrics: |-
   6
   Akbar saroṅ pe Karb o bala ki jo khaak thi
   Us par hai qaid khaane ki mitti jami hui
-# source_id: nohayonline:193027f13e17f6b0afe7
-# source_url: https://www.nohayonline.com/details_content.php?id=1374
-# raw_sha256: b78b6405fdcc13c038b135c85607e36deb5ae62f16ea0b398ebc78fb849f9b35
 ---
 شام سے لوٹ آئے ہے مدینے والے
 

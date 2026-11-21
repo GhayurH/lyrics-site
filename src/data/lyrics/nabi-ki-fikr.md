@@ -54,9 +54,6 @@ romanLyrics: |-
   Shafiq baap ka sadma kabhi biraadar ka
   Musaafirat ne diya daagh phir bahattar ka
   Azal se hi ba Khuda pur malaal hai Zainab
-# source_id: nohayonline:5803a6cbc323f42b2678
-# source_url: https://www.nohayonline.com/details_content.php?id=917
-# raw_sha256: ed0c53e152688c750d1e3e7aab50ef13977936308ca7c7afc4d4dfe190a47e91
 ---
 
 نبی کی فکر علی کا جلال ہے زینب

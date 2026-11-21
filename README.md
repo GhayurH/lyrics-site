@@ -1,38 +1,39 @@
 # Kalam Archive
 
-[Kalam Archive](https://kalamarchive.com) is a static-first archive of Urdu devotional poetry, Roman Urdu readings and original source scans. It supports browsing, search, bookmarks, offline reading and organizer-created recitation programmes without user accounts.
+[Kalam Archive](https://kalamarchive.com) preserves original-language devotional poetry, readable Roman transcriptions and the printed scans of the Basta collection. The site supports browsing, multilingual search, reading preferences, bookmarks, offline access and organizer-created Recitation Sets without requiring reader accounts.
 
-## Architecture
+## How it works
 
-Astro builds accessible HTML from editorially maintained Markdown. Pagefind indexes the rendered pages. Cloudflare Pages serves the site; R2 holds large image/PDF assets; Pages Functions and D1 are used **only** for explicitly published Recitation Sets. Saved items, reading preferences and unfinished programme drafts live in the visitor's browser.
+Astro publishes canonical Markdown as accessible static HTML. Pagefind indexes the rendered public pages; the browser adds reader controls, local storage, downloaded/offline content and optional recitation features. Cloudflare Pages serves the site, R2 stores large scans and PDFs, and Pages Functions + D1 store only explicitly published Recitation Sets. The source text—not search aliases, an import snapshot or a display component—is authoritative.
 
-Source text remains authoritative: neither the search pipeline nor browser rendering rewrites poetry. The same parsing and design contracts serve page readers, the continuous Basta reader and recitation exports.
+Standalone poems live in `src/data/lyrics/`; printed Basta pages live in `src/data/basta/pages/`. Reviewed source identities remain stable across corrections and file renames. Published original-language metadata distinguishes Urdu, Punjabi/Shahmukhi, Saraiki and Balti from Roman **transcriptions**; a Roman edition is never labeled a separate “Roman Urdu” original.
 
 ## Develop
 
-Node.js 24 is recommended (minimum 22.23.4).
+Use Node.js 24 (minimum 22.23.4) and the npm version pinned in `package.json`.
 
 ```bash
 npm ci
-npm run dev              # Local Astro development
-npm run check            # Astro + TypeScript
-npm run build            # Tests + source integrity, then Astro, Pagefind and offline manifest
-npm run preview          # Inspect the built site
+npm run dev             # Astro development server
+npm run check           # Astro/TypeScript diagnostics
+npm run build           # Unit + source checks, HTML, sitemap audit, Pagefind, offline manifest
+npm run preview         # Preview the completed static build
 ```
 
-When changing poetry, run `npm run source:sync` and **review its diff** before building. Builds run `source:check` read-only. For integration changes, run `npm run test:browser` against a production build; `test:smoke` selects tagged critical journeys (which are included in full). Use `npm run content:review` for the editorial review queue and `perf:assets` / `perf:browser` for performance checks. Browser tests require Chromium (`npx playwright install chromium`).
+For a source edit, review [Editorial standards](docs/EDITORIAL.md), run `npm run source:sync`, inspect **every** resulting source/identity change, and validate before publication. `npm run whitespace:fix` performs mechanical cleanup; `npm run content:review` reports editorial candidates without rewriting poetry. For browser tests see [Quality assurance](docs/QUALITY_ASSURANCE.md).
 
-Local Astro preview does not emulate Cloudflare D1 Functions or R2 routing; test those in an appropriate Pages deployment.
+## Documentation map
 
-## Contributor documentation
+| Guide | Authority |
+| --- | --- |
+| [Editorial standards](docs/EDITORIAL.md) | Source languages, schema, poem formatting, deduplication, Roman transliteration |
+| [Contributing](docs/CONTRIBUTING.md) | Editing and engineering workflow, safe synchronization, review requirements |
+| [Architecture](docs/ARCHITECTURE.md) | Source-of-truth boundaries, readers, search, storage and module ownership |
+| [Quality assurance](docs/QUALITY_ASSURANCE.md) | Automated/manual checks and release acceptance |
+| [Recitation Sets](docs/RECITATION_SETS.md) | Programme behavior, permanent IDs, privacy and retention |
+| [Operations](docs/OPERATIONS.md) | Cloudflare, R2, D1, scans, sitemap, indexing and deployment |
+| [Audit tools](audit/README.md) | Editorial reports and record-keeping, without publishing WIP logs |
 
-- [Architecture](docs/ARCHITECTURE.md) — dependency boundaries and **single owners** for source models, browser features and CSS.
-- [Contributing](docs/CONTRIBUTING.md) — source editing, synchronization, engineering standards and review.
-- [Transliteration](docs/TRANSLITERATION.md) — the sole Roman Urdu spelling and pronunciation standard.
-- [Quality assurance](docs/QUALITY_ASSURANCE.md) — automated checks, manual editorial acceptance and release verification.
-- [Source review tools](audit/README.md) — the active editorial review queue and read-only reporting.
-- [Assets](docs/ASSET_WORKFLOW.md) — external scans, fonts, upload and preview routing.
-- [Recitation Sets](docs/RECITATION_SETS.md) — product behavior, source identity and security.
-- [Operations](docs/RECITATION_OPERATIONS.md) — D1, scheduled cleanup and deployment.
+For repository-wide invariants, see [AGENTS.md](AGENTS.md). Suggest corrections at **lyricsadmin@gmail.com**.
 
-Suggest poetry corrections at **lyricsadmin@gmail.com**.
+Local `astro preview` cannot emulate Cloudflare D1 bindings, Pages Functions or R2 routing. Verify these on a real deployment.

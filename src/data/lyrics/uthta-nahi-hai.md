@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Bakhshish ki ik sanad hai noha tumhaara Agha
   Mil kar rahe gi jannat haaṅ Maalik-e-jinaaṅ se
-# source_id: nohayonline:b398b0584089c9ab9b51
-# source_url: https://www.nohayonline.com/details_content.php?id=133
-# raw_sha256: d2607a2a5e8863900c65d90b6abe0d5974812e6ff9c08e0d80b7338c74d6982e
 ---
 اُٹھتا نہیں ہے لاشہ شبیرِ ناتواں سے
 عباس جلد آؤ نہرِ رواں دواں سے

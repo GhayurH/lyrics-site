@@ -81,9 +81,6 @@ romanLyrics: |-
   16
   Aakif yahi hai midhat-e-Abbas ka ejaaz
   Zer-e-qadam hai apne jahaaṅ ki sikandari
-# source_id: nohayonline:acee66be7e47ca566b82
-# source_url: https://www.nohayonline.com/details_content.php?id=1474
-# raw_sha256: 5aeb3abe0f521a160c15c67a8677631646aa9baa946d98572b5b19545e9ac62d
 ---
 
 کس شیر کی آمد ہے کہ رن کانپ رہا ہے

@@ -87,9 +87,6 @@ romanLyrics: |-
   Jaldi se kanizoṅ se mangwa
   Taazim ko is ki uthega
   Quraan rehl pe rakha hua
-# source_id: nohayonline:214456480fed4de16b62
-# source_url: https://www.nohayonline.com/details_content.php?id=1816
-# raw_sha256: 71fc0b10baf895799470599e03ae386ab60f448f23dbec09e030291f1c406799
 ---
 
 جس وقت اسیروں سے ملنے

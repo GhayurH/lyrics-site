@@ -71,9 +71,6 @@ romanLyrics: |-
   Rehaan ka Mesum ka
   Ye dil hai azaakhaana
   Is dil meiṅ basaaya hai
-# source_id: nohayonline:b22c12c06771a4fcad6f
-# source_url: https://www.nohayonline.com/details_content.php?id=2536
-# raw_sha256: e2715686766706d7b6e480ae4ddee71386883a1cb4cd7b8cd23f6628ad618ca7
 ---
 پیکاں برس رہے ہیں
 تابوت پر حسن کے

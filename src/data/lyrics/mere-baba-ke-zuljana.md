@@ -61,9 +61,6 @@ romanLyrics: |-
   Ae Shadmaaṅ Mazhar bhi likhe kaise wo manzar
   Dam tora qalam ne bhi isi baat ko likh kar
   Baba jo nahiṅ hai to jiyuṅ maiṅ kiun kar
-# source_id: nohayonline:d6ddc8d6f82ed8442625
-# source_url: https://www.nohayonline.com/details_content.php?id=1059
-# raw_sha256: 59fc64aad4b3acd48b201b049b70e041c555ac9cd4db206400dbe9dc1efb6223
 ---
 جب کربوبلا میں سر شبیر کٹا
 ذوالجناح شہ والا بھی بکا کرتا رہا

@@ -80,9 +80,6 @@ romanLyrics: |-
   Maiṅ gira jaata huṅ do mujh ko sahaara Abbas
   Khaima-e-Fatema Zehra ki sipar tut gayi
   Haath bhaai ke kate meri kamar tut gayi
-# source_id: nohayonline:af0d96c8a1d57d552144
-# source_url: https://www.nohayonline.com/details_content.php?id=2358
-# raw_sha256: 039b86980fbc2ed8d9926f329d05cbf300414d4864444ca8dcca3c518c36d99d
 ---
 غرور فوج ستمگر کو توڑ سکتا ہوں
 رخ فرات نگاہوں سے موڑ سکتا ہوں
@@ -141,7 +138,7 @@ romanLyrics: |-
 
 ۷
 جب سنا نہر پہ سقائے حرم مارا گیا
-گر گئی بی‌بیوں کے سر سے یہ سنتے ہی ردا
+گر گئی بیبیوں کے سر سے یہ سنتے ہی ردا
 بی‌بی زینب کی صدا آنے لگی واویلا
 گر گیا دست سکینہ سے زمیں پر کوزہ
 بولی یہ رو کے مجھے آس نہیں ہے عمو

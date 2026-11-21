@@ -84,9 +84,6 @@ romanLyrics: |-
 
   Beti tumhaara bhaai Shah-e-mashriqain hai
   Beti tumhaare sabr meiṅ fath-e-Husain hai
-# source_id: nohayonline:be943a6a6820027c1958
-# source_url: https://www.nohayonline.com/details_content.php?id=578
-# raw_sha256: 5c9a99ac60b6cc069e4d76e2b5ab4359c7fca408331654c1cf0c4c32c179af3b
 ---
 بیٹی علی کی تربت زہرا پہ آئی ہے
 کرتہ لہو بھرا ہوا بھائی کا لائی ہے
@@ -142,7 +139,7 @@ romanLyrics: |-
 گردن میں طوق پاؤں میں زنجیر آ گئی
 
 ۹
-اماں وہ بی‌بیوں کا تڑپنا وہ شور و شین
+اماں وہ بیبیوں کا تڑپنا وہ شور و شین
 اماں رہے گی یاد وہ آہ و بکا وہ بین
 اماں رباب روتی ہے اصغر کو صبح و شام
 اکبر کو یاد کرتی ہے لیلیٰٔ تشنہ کام

@@ -48,9 +48,6 @@ romanLyrics: |-
   Haalat hai ajab Gohar maasum Sakina ki
   Khuṅ behta hai kaanoṅ se lagte haiṅ tamaanche bhi
   Naazoṅ meiṅ pali bachchi ro ro ke na mar jaaye
-# source_id: nohayonline:02f7386d97bc20a8374e
-# source_url: https://www.nohayonline.com/details_content.php?id=1922
-# raw_sha256: ec8a37b38c5f289e38b8e1eabc289b71edce4d116572bb8ba3a7c974d4cca3fd
 ---
 دریا سے کوئی جا کر غازی کو بلا لائے
 ایسا نہ ہو غربت میں گھر زہرا کا لٹ جائے

@@ -51,9 +51,6 @@ romanLyrics: |-
   Aaṅsu jo nikal aaya parvaana hai jannat ka
   Ho rutba haasil jo Maisam o Qambar ka
   Azadaar-e-Husain
-# source_id: nohayonline:856727d1f8234afe1c9b
-# source_url: https://www.nohayonline.com/details_content.php?id=1949
-# raw_sha256: 43888b429bbb09d62365ef0597d6add2971e40cf799f3e83a850346830cf52bb
 ---
 زہرا کی دُعائیں لو ماتم کرو سرور کا
 عزادارِ حسین

@@ -62,9 +62,6 @@ romanLyrics: |-
   Aamir o Yaqub gham barpa hua
   Zainab-e-dilgir ne jab ye kaha
   Mil gayi mujhko Sakina ki rida
-# source_id: nohayonline:d856e4c4d08834da5111
-# source_url: https://www.nohayonline.com/details_content.php?id=2433
-# raw_sha256: 2532e9827094c8fce223d3fef9728600787c56e65daa102ae5918d5ddbf390ed
 ---
 
 جب سرِ عباس زینب کو ملا

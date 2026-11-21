@@ -48,10 +48,6 @@ romanLyrics: |-
   Shadmaaṅ thi ye wasiyat hi Shah-e-Waala ki
   Jis ko likhte huwe Mazhar ki bandhi hai hichki
   Bas yehi keh ke chale rona hi rona hoga
-# editorial_uncertainty: Archived HTML supports hoegi in stanza 3 and Shadmaaṅ thi ye wasiyat hi in stanza 7; unusual wording retained pending audio or print confirmation.
-# source_id: nohayonline:6fa111b5d8d37a227f9a
-# source_url: https://www.nohayonline.com/details_content.php?id=2324
-# raw_sha256: a2c5d7936feff90b5ea093a4ffc37dabf5fac4f53042fb089fe139ff3c997c90
 ---
 اب کوئی گھر کوئی تکیہ نہ بچھونا ہو گا
 آج کے بعد تجھے خاک پہ سونا ہو گا

@@ -68,9 +68,6 @@ romanLyrics: |-
   Tu hai Shahzada-e-wusat-e-bahr o bar
   Ae Hakim-e-Arab tu hai Quran-ba-lab
   Maqsad-e-amr-e-kun Waris-e-Hal Ata
-# source_id: tajpoints:9b9b2f8f9415544a7dfa
-# source_url: https://tajpoints.com/2023/09/al-madad-mustafa-naat-mohsin-naqvi.html
-# raw_sha256: 2d74fb62ac72e54bac3b35cee19da5c9ba662041d7331bfcd89b78ba8c9540da
 ---
 جل رہے ہیں بدن درد کی دھوپ میں
 زندگی ڈھل گئی زخم کے روپ میں

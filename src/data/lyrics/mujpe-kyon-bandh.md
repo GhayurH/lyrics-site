@@ -1,143 +1,82 @@
 ---
-title: "مجھ پہ کیوں بند کرتے ہو پانی"
-alternateTitle: "Mujh Pe Kiuṅ Band"
+title: "میں محمد کا لختِ جگر ہوں"
+alternateTitle: "Mujpe Kyon Bandh"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehan Azmi"
-reciter: "Nadeem Sarwar"
+poet: "Mirza Murtaza Ali"
 tags: []
-aliases: ["Mujpe Kyon Bandh"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Mujh pe kiuṅ band karte ho paani
-  Kya Muhammad ka pyaara nahiṅ huṅ
+  Mai mohamed ka lakhte jigar hoo
+  Mujhpe kyoṅ bandh karte ho pani
 
   1
-  Kalma goyo Muhammad ke shaami
-  Kya maiṅ mehmaan aaya nahiṅ huṅ
-  Kya maiṅ Zehra ka jaaya nahiṅ huṅ
+  Mai hoo mushkil kusha ki nashani
+  Mai hoo fatema zehra ka jaani
 
   2
-  Mera baba hai mushkil kusha
-  Meri maadar bhi haiṅ Sayyida
-  Mera beta hai zain-ul-aba
-  Mere nana ka kalma parha
-  Jis ke saaye ko tum dhundte ho
-  Kya maiṅ us ka hi saaya nahiṅ huṅ
+  Mai hoo ahmed ke ghar ka ujaala
+  Mai hoo zehra ki godhi ka paala
 
   3
-  Tum ne maktub likhe kai
-  Aaiye jald Ibn-e-Ali
-  Din ki roshni kam hui
-  Shama-e-Islam bujhne lagi
-  Tum ne chaaha tha maiṅ aa gaya huṅ
-  Khud Madine se aaya nahiṅ huṅ
+  Kya nabi ka nawasa nahi hoo
+  Kya mai do din ka pyasa nahi hoo
 
   4
-  Dastaras meiṅ meri kya nahiṅ
-  Ilm taqwa shujaat yaqiṅ
-  Mere pairoṅ ke niche zamiṅ
-  Jis pe rakheiṅ farishte jabiṅ
-  Maiṅ hi sardaar-e-ahl-e-jinaaṅ huṅ
-  Koi tuta sitaara nahiṅ huṅ
+  Tashnagi se jigar bhun raha hai
+  Kis liye mujhpe jor o jafa hai
 
   5
-  Meri gardan pe khanjar chale
-  Aag lagti hai ghar meiṅ lage
-  Bint-e-Zehra ki chaadar chhine
-  Haath duṅ ga na apna tujhe
-  Haath mera ye dast-e-khuda hai
-  Maiṅ to munkir khuda ka nahiṅ huṅ
+  Mai hoo hyder ki aankhoṅ ka taara
+  Mai hoo sarkare aalam ka pyara
 
   6
-  Saath Zehra ki haiṅ betiyaaṅ
-  Mohtaram in sa koi kahaaṅ
-  Pyaas ki dhup ki sakhtiyaaṅ
-  Sab ke chehre hue haiṅ dhuaaṅ
-  Betiyaaṅ Fatima ki haiṅ pyaasi
-  Sirf ik maiṅ hi pyaasa nahiṅ huṅ
+  Kalmago tum nabi ka mai beta
+  Tum musalman ho mai hu nawasa
 
   7
-  Hukm Abbas ko duṅ ga agar
-  Nahr le aaye wo chhin kar
-  Karbala ho gi zer o zabar
-  Laasheiṅ taireiṅ gi har mauj par
-  Maiṅ nahiṅ chaahta jang karna
-  Fauj larne ko laaya nahiṅ huṅ
+  Mere baysheer par rehm khao
+  Kuch to bache to pani pilao
 
   8
-  Gunji hal min ki aisi sada
-  Shah ko Rehaan kahte suna
-  Ya Ali ya Ali Ailiya
-  Waqt imdaad ka aa gaya
-  Mere bachche bilakte haiṅ pyaase
-  Phir bhi kya muskuraaya nahiṅ huṅ
-# source_id: nohayonline:4dff3e48200f6eaa32fb
-# source_url: https://www.nohayonline.com/details_content.php?id=405
-# raw_sha256: 768f6ebdeaa9d19b44fe612c7075b071c0986105fe457d245859d3a429a6ba13
+  Mirza chalta tha gardan pe khanjar
+  Tha yehi nauha sheh ki zabaṅ par
 ---
+
+میں محمد کا لختِ جگر ہوں
 مجھ پہ کیوں بند کرتے ہو پانی
-کیا محمد کا پیارا نہیں ہوں
 
 ۱
-کلمہ گویو محمد کے شامی
-کیا میں مہمان آیا نہیں ہوں
-کیا میں زہرا کا جایا نہیں ہوں
+میں ہوں مشکل کشائ کی نشانی
+میں ہوں فاطمہ زہرا کا جانی
 
 ۲
-میرا بابا ہے مشکل کشا
-میری مادر بھی ہیں سیدہ
-میرا بیٹا ہے زین العبا
-میرے نانا کا کلمہ پڑھا
-جس کے سائے کو تم ڈھونڈتے ہو
-کیا میں اُس کا ہی سایہ نہیں ہوں
+میں ہوں احمد کے گھر کا اُجالا
+میں ہوں زہرا کی گودی کا پالا
 
 ۳
-تم نے مکتوب لکھے کئی
-آئیے جلد ابنِ علی
-دین کی روشنی کم ہوئی
-شمعِ اسلام بجھنے لگی
-تم نے چاہا تھا میں آ گیا ہوں
-خود مدینے سے آیا نہیں ہوں
+کیا نبی کا نواسا نہیں ہوں
+کیا میں دو دن کا پیاسا نہیں ہوں
 
 ۴
-دسترس میں میری کیا نہیں
-علم تقویٰ شجاعت یقیں
-میرے پیروں کے نیچے زمیں
-جس پہ رکھیں فرشتے جبیں
-میں ہی سردارِ اہلِ جناں ہوں
-کوئی ٹوٹا ستارا نہیں ہوں
+تشنگی سے جگر بھُن رہا ہے
+کس لیئے مجھ پہ جور و جفا ہے
 
 ۵
-میری گردن پہ خنجر چلے
-آگ لگتی ہے گھر میں لگے
-بنتِ زہرا کی چادر چھنے
-ہاتھ دوں گا نہ اپنا تجھے
-ہاتھ میرا یہ دستِ خدا ہے
-میں تو منکر خدا کا نہیں ہوں
+میں ہوں حیدر کی آنکھوں کا تارا
+میں ہوں سرکارِ عالم کا پیارا
 
 ۶
-ساتھ زہرا کی ہیں بیٹیاں
-محترم ان سا کوئی کہاں
-پیاس کی دھوپ کی سختیاں
-سب کے چہرے ہوئے ہیں دھواں
-بیٹیاں فاطمہ کی ہیں پیاسی
-صرف اک میں ہی پیاسا نہیں ہوں
+کلمہ گو تم نبی کا میں بیٹا
+تم مسلمان ہو میں ہوں نواسا
 
 ۷
-حکم عباس کو دوں گا اگر
-نہر لے آئے وہ چھین کر
-کربلا ہو گی زیر و زبر
-لاشیں تیریں گی ہر موج پر
-میں نہیں چاہتا جنگ کرنا
-فوج لڑنے کو لایا نہیں ہوں
+میرے بے شیر پر رحم کھائو
+کچھ تو بچے کو پانی پلائو
 
 ۸
-گونجی ہل من کی ایسی صدا
-شہہ کو ریحان کہتے سنا
-یا علی یا علی عیلیا
-وقت امداد کا آ گیا
-میرے بچے بلکتے ہیں پیاسے
-پھر بھی کیا مسکرایا نہیں ہوں
+مرزا چلتا تھا گردن پہ خنجر
+تھا یہی نوحہ شہہ کی زباں پر

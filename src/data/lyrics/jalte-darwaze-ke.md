@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Kiuṅ na ham maatam kare mazluma-e-kaunain ka
   Ae Mohib jo baap se ho ke juda roti rahi
-# source_id: nohayonline:51cf1ddfce1844856d88
-# source_url: https://www.nohayonline.com/details_content.php?id=3237
-# raw_sha256: 1991ba1851ae9d0844b9a06caaf9184ae4ef0ec3a66e617f5772270adc29cf61
 ---
 جلتے دروازے کے پیچھے سیدہ روتی رہی
 تھام کر پہلو شکستہ فاطمہ روتی رہی

@@ -151,9 +151,6 @@ romanLyrics: |-
 
   Baadshaah Karbala Ae Shaah-e-Nainawa
   Jald bulaana hameiṅ jald bulaana
-# source_id: nohayonline:75ba31ba10a2c373c49b
-# source_url: https://www.nohayonline.com/details_content.php?id=1855
-# raw_sha256: 38dcb7991f455f29ac652e048e798c92fa2bb30803b4a6800cc12bc2467afc8b
 ---
 کہتے ہیں جب بھی جسکو بھی جانا ہو کربلا
 زوار جس کو بننا ہو مولا حسین کا

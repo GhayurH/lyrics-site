@@ -157,13 +157,6 @@ romanLyrics: |-
   Mujh ko yaqin hai paaye ga wo bhi yehi sazaa
   Us ko maza Imam-e-Zamaana chakhaaeṅ ge
   Sar kaat kar Batul ke qadmoṅ meiṅ laaeṅ ge
-# source_parts: P1 preamble and stanzas 1-9; P2 stanzas 10-18, without overlap.
-# source_id: tajpoints:60879982e51d1c54eab5
-# source_url: https://tajpoints.com/2022/02/jang-e-khandaq-p1-khandaq-ka-waqiya-mir.html
-# raw_sha256: 468548be8bc1135db47abdf972eecdb7fffcaabab77777512ed290b732c365fb
-# source_id: tajpoints:a27dd675c83ab80ab55d
-# source_url: https://tajpoints.com/2022/02/jang-e-khandaq-p2-khandaq-ka-waqiya-mir.html
-# raw_sha256: 0102bc4688b4c90a28d05c3ae0ca2a22142b421c76cd6a3f84d1b29e43f0b850
 ---
 حیدر کی ذوالفقار کے جوہر دکھاؤں گا
 کھندک نہ کھائیں آپ میں خندق سناؤں گا

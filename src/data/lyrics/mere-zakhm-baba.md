@@ -57,9 +57,6 @@ romanLyrics: |-
   Hilal aur Irfan ghurbat bari
   Sakina ye kehte hue mar gayi
   Bahut hai judaai ka sadma
-# source_id: nohayonline:a94975bafd48309f6b45
-# source_url: https://www.nohayonline.com/details_content.php?id=1188
-# raw_sha256: 17e011d184de8dbd26609e51359939b4fae3728961f199e5ffc500dcd95c84f7
 ---
 لہو سے ہے رنگین کرتہ بابا
 بابا یہ دیکھو میرے زخم بابا

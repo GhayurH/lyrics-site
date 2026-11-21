@@ -38,9 +38,6 @@ romanLyrics: |-
   6
   Koi karta nahiṅ Haider ko Madine meiṅ salaam
   Aap ke baad Ali ho gaye tanha Baba
-# source_id: tajpoints:71d9af6225315a096140
-# source_url: https://tajpoints.com/2021/12/bint-e-payambar-e-islam-ka-noha-askari.html
-# raw_sha256: 728660d67f79542f75f64f719c7d26e3cbaa5054e10e4ae7e8f1ab79849c50ac
 ---
 بنتِ پیغمبرِ اسلام کا نوحہ بابا
 زخم پہلو کا دکھائے کسے زہرا بابا

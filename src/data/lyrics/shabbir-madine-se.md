@@ -42,9 +42,6 @@ romanLyrics: |-
   7
   Baali na koi chinti chinti na koi chaadar
   Raavan ke pujaari na khaimoṅ ko jala jaate
-# source_id: nohayonline:38e9ffe6d5aa39cfdf58
-# source_url: https://www.nohayonline.com/details_content.php?id=972
-# raw_sha256: 81f6a706d721c43d7cb63eaa5665a4f6801a265d9366857853120ad6aff12ff6
 ---
 دو جگ کے پالن ہار کل ہند کے اوتار
 شبیر میرے آقا شبیر میرے مولا

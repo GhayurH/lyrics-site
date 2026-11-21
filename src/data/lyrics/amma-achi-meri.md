@@ -55,9 +55,6 @@ romanLyrics: |-
   Jo Mazhar o Irfan ke hontoṅ ki buqa hai
   Akbar ki sada hai
   Jo kehte the amma mujhe marne ki riza do
-# source_id: nohayonline:588647744c01ba769243
-# source_url: https://www.nohayonline.com/details_content.php?id=444
-# raw_sha256: 32085e2bf4f3f1001bca9ab3ea43eaffc08ea34465db9e2b8691c7110906ee34
 ---
 آخری اذان تو سُن لی
 اماں اچھی میری اماں

@@ -63,9 +63,6 @@ romanLyrics: |-
   Banaai kaise behan ki turbat
   Shamim likhe wo kaise manzar
   Jo mera maula bhula na paaya
-# source_id: nohayonline:3e63210c7ff5b58d096c
-# source_url: https://www.nohayonline.com/details_content.php?id=2900
-# raw_sha256: fd2ea38d13a2f7360c19171d818f83c0c6737225a4a687f27bc9bac788cda106
 ---
 
 بہن سکینہ معاف کرنا

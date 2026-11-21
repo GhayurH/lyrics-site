@@ -55,9 +55,6 @@ romanLyrics: |-
   Ho jaata tha Shaukat hashr bapa
   Hilti thi zamin-e-Karb o Bala
   Kehti thi jo ro ro kar dukhiya
-# source_id: nohayonline:62928d2c8e43f8c2a967
-# source_url: https://www.nohayonline.com/details_content.php?id=579
-# raw_sha256: 47b4e75bb533824af1d372829839c72c0bed8a18025632756ee456fa1d88d039
 ---
 
 کبریٰ نے کہا قاسم دولہا

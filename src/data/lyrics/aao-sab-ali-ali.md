@@ -78,9 +78,6 @@ romanLyrics: |-
   Samajh meiṅ jis ki aa gaya Ali ka tarz-e-zindagi
   Nafas nafas qadam qadam Ali ke ishq ki qasam
   Imam-e-Asr ka use Rehan hoga intezar
-# source_id: nohayonline:4e2a680355e369ac3f76
-# source_url: https://www.nohayonline.com/details_content.php?id=2585
-# raw_sha256: 2fd1ab4565f560d559dc52de56ca7dcc116e748bf96e85167b6f66d49c2e7fc6
 ---
 علی حق ہے علی حق ہے علی حق ہے علی علی علی
 جدھر حق ہے ادھر مولا
@@ -124,7 +121,7 @@ romanLyrics: |-
 نظر جو کربلا گئی تو روح تھر تھرا گئی
 گلے پہ تھی حسین کے بقائے دین میں چھری
 زباں زباں جگر جگر حرم تمام نوحہ گر
-پکارتی تھی بی‌بیاں تمام ہو کے اشک بار
+پکارتی تھی بیبیاں تمام ہو کے اشک بار
 
 ۷
 ردا سروں سے چھن گئی بچا نہیں ستم کوئی

@@ -47,9 +47,6 @@ romanLyrics: |-
   8
   Baad-e-qatl-e-Shaah-e-diṅ ye waqt ruk jaata Naved
   Haye Abid gar na hote waqt ki raftar meiṅ
-# source_id: nohayonline:829f19d99739c4a597e6
-# source_url: https://www.nohayonline.com/details_content.php?id=3104
-# raw_sha256: 8497f12ec76dd283c2522b7bedda19c5c4ef04edcc2281d1fc69defb591897cf
 ---
 ہائے بازار شام
 

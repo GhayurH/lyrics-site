@@ -43,9 +43,6 @@ romanLyrics: |-
   Shimr aata hai bacha lo baba
   Apne daaman meiṅ chhupa lo baba
   Haaye meri yatimi haaye meri gharibi
-# source_id: nohayonline:5302d047f2af06efe880
-# source_url: https://www.nohayonline.com/details_content.php?id=1846
-# raw_sha256: 2a01d39781a9f984e756b9d62bf18a8aa7b7ce0734a6b2d4bc6cda93aa9f8bde
 ---
 
 بابا جانم بابا جانم بابا جانم

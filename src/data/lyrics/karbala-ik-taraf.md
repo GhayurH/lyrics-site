@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Faisla ye Ali ki wila se hua
   Hurr hua ik taraf Hurmala ik taraf
-# source_id: tajpoints:fb4b5f63bb4cef5ee110
-# source_url: https://tajpoints.com/2023/06/karbala-ik-taraf-syed-mohammad-shah.html
-# raw_sha256: 48efe5d24934d37fb264778c55bf52df683e07dd05142e8658f3a74da4162850
 ---
 عشق نے کر دیا فیصلہ اک طرف
 دو جہاں اک طرف کربلا اک طرف

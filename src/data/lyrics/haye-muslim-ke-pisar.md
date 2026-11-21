@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Aayi Yasrab meiṅ Bilal jab lahu ki khushbu
   Aa gaye laal mere kahe dauri maadar
-# source_id: nohayonline:6d661bf594a872ecdad0
-# source_url: https://www.nohayonline.com/details_content.php?id=1410
-# raw_sha256: a3753a0e770adafe022a226ad2f4789356719a386249e4cafb046f4c149a0590
 ---
 
 ہائے مسلم کے پسر

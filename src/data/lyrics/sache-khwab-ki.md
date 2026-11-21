@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Sabr agar ban jaata hai talwaar Uruj
   Kat jaati hai zulm ki har zanjir zarur
-# source_id: nohayonline:5f517e3411e2fb5c00aa
-# source_url: https://www.nohayonline.com/details_content.php?id=809
-# raw_sha256: f9fb02287a12d7208f6e2f32663ef643f0d1d9e7555545c052fb1ae9a1b1100d
 ---
 سچے خواب کی سچ ہو گی تعبیر ضرور
 حق پر دیں گے قربانی شبیر ضرور

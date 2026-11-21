@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Wo apne chaand se bete ka sehra dekh na paayi
   Ali Akbar ki maaṅ ko bas yahi gham khaa gaya Gohar
-# source_id: nohayonline:643153c00e29c52c528a
-# source_url: https://www.nohayonline.com/details_content.php?id=3272
-# raw_sha256: a73ec6579026d1283cbcb8796135a655be88997b9d9eb4e544f04b872ba0d3e2
 ---
 جوانی بین کرتی ہے علی اکبر کے لاشے پر
 ضعیفی آ گئی مجھ پر ترے غم میں علی اکبر

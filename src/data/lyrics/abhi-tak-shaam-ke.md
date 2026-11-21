@@ -69,9 +69,6 @@ romanLyrics: |-
   Safar hota nahiṅ hai khatm ab bhi karb-e-Zainab ka
   Hamari maaeṅ behneṅ kiuṅ Qamar hai aaj beparda
   Musiat ye Imam-e-Asr ki gardan jhukaati hai
-# source_id: nohayonline:bfeeb5e11551cbec8d1d
-# source_url: https://www.nohayonline.com/details_content.php?id=3002
-# raw_sha256: f2e8cabadf667605a3dc23ece9b4f339697213b260a03669e2ff88cd7c4096a2
 ---
 جنازہ جس کا چھپاے تھے شب کی تاریکی
 دمشق میں یہ اسی فاطمہ کی ہے بیٹی

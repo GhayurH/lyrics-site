@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Maula ka ghar ujar gaya Zehra guzar gayi
   Akhtar na puchh kaisi qayaamat bapa hui
-# source_id: nohayonline:90ef8efd078ec25277cc
-# source_url: https://www.nohayonline.com/details_content.php?id=279
-# raw_sha256: 4ea2a09a4a47648afe8a70062c49d4343c10b45b4160bfbfb2b784c0911ce2ae
 ---
 
 گھر سے علی کے رخصت خیر النسا ہوئی

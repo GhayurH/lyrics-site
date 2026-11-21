@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Taazim ko uthne lagi har Bibi Takallum
   Jab shaadmaaṅ zindaan meiṅ gaya hai sar-e-Abbas
-# source_id: nohayonline:091483a71508de2c0fd0
-# source_url: https://www.nohayonline.com/details_content.php?id=2840
-# raw_sha256: 652c561f697f9d64733d3a07b69b761b5408a0a1710d5a750bf7c0313dc5a70e
 ---
 نیزے پہ کہاں شام گیا ہے سر عباس
 رہوار کے گردن میں بندھا ہے سر عباس

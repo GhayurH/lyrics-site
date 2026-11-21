@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-# source_id: ziyaraat:aea377cac408fe9e60ca
-# source_url: https://www.ziyaraat.net/api/noha/2431
-# raw_sha256: 7b1ced0ad3acf1af722f1de4280fde8e7a988dd856671257b5b6382b600432f0
 ---
 
 Hussain a.s Hussain a.s

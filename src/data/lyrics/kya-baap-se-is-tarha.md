@@ -1,10 +1,10 @@
 ---
-title: مقتل کی زمیں اور قیامت کا وہ منظر
-alternateTitle: Kya Baap Se Is Tarha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مقتل کی زمیں اور قیامت کا وہ منظر"
+alternateTitle: "Kya Baap Se Is Tarha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
 tags: []
@@ -61,12 +61,6 @@ romanLyrics: |-
   Akbar ne jab aaghosh meiṅ li aakhri hichki
   Zishan o Raza khaime se Zainab ne sada di
   Mar jaayeṅ ge Shabbir teri laash utha kar
-# source_id: nohayonline:8f1f4dde4502ac9a968d
-# source_url: https://www.nohayonline.com/details_content.php?id=1835
-# raw_sha256: c3a7948a8ded3bdb71d108c33df853528a3209a6f02c2591cd9934ef2b37e802
-# source_id: ziyaraat:e919fd17f1ff87ecae8a
-# source_url: https://www.ziyaraat.net/api/noha/2942
-# raw_sha256: 9bd410d8ee2ff69ed6d145681da027ce8f921c73307c562370953ea92e74eb06
 ---
 
 مقتل کی زمیں اور قیامت کا وہ منظر

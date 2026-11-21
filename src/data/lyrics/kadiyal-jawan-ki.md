@@ -64,9 +64,6 @@ romanLyrics: |-
   Ibn-e-Ali ne ro ke Takallum sada ye di
   Saanseṅ bachi hai ab mere Akbar ke paas kam
   Sidhi ho ae kamar tujhe Abbas ki qasam
-# source_id: nohayonline:31e4248cfca2b6c9aef0
-# source_url: https://www.nohayonline.com/details_content.php?id=1598
-# raw_sha256: a6aa5cfd0db0411e3067c4847565b0fc56440fbb368aa4fb662edcf434a4a53e
 ---
 گھوڑے سے گر کے جب علی اکبر نے دی صدا
 اپنی کمر کو تھام کے شبیر نے کہا

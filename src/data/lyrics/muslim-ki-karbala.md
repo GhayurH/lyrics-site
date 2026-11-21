@@ -48,9 +48,6 @@ romanLyrics: |-
   Azlan aur Mesum tha Sayyeda ka noha
   Ae mere laal tujh ko maara gaya hai pyaasa
   Muslim ki laash par bhi Zehra ki ye buka hai
-# source_id: nohayonline:ccc366d47e3793c51fe3
-# source_url: https://www.nohayonline.com/details_content.php?id=1315
-# raw_sha256: 052814a9c8bc4307f533543ad96187f404f4127509ea1c67d7304c198cee3153
 ---
 لوگوں یہ شہرِ کوفہ مُسلم کی کربلا ہے
 ایک بے وطن یہاں بھی فوجوں میں گھِر گیا ہے

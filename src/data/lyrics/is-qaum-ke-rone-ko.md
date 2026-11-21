@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Taarikh zara saans ko roke hue rakhna
   Imran ki ghairat su-e-darbaar chali hai
-# source_id: nohayonline:b49c7c17ab0268935d6e
-# source_url: https://www.nohayonline.com/details_content.php?id=2179
-# raw_sha256: d8f390ec2412d18972dd8fecf13e4afbf968a8086bf1e293e96913e8b848fec9
 ---
 اس قوم کے رونے کو یہی بات بڑی ہے
 زہرا بھرے دربار میں حق مانگ رہی ہے

@@ -53,9 +53,6 @@ romanLyrics: |-
   Tere Yawar ki dua hai mere Maula Asghar
   Aisi aulaad ataa kar jo ho teri naukar
   Sun le maaoṅ ki dua goroṅ ko saja de Asghar
-# source_id: nohayonline:32200dd2f3d5927d888c
-# source_url: https://www.nohayonline.com/details_content.php?id=2556
-# raw_sha256: 7cd23359716cd989ee94063aa4ba220de15584e3cfb2c22f97e4bad56972bb4a
 ---
 ماں پکارے لوٹ آؤ میرے پیارے اصغر
 جینا مشکل ہے میرا اے ماں کے دلارے اصغر

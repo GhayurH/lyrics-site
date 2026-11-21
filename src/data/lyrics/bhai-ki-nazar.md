@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Ye tarbiyat-e-majlis-e-Sarwar hai ke Shahid
   Waaqif hue aadaab-e-samaat ke hunar se
-# source_id: nohayonline:31646efe5db504e0ccee
-# source_url: https://www.nohayonline.com/details_content.php?id=551
-# raw_sha256: 7a1d126a5040114b814c7af2b48de4e51a6e5c0d8426771ea1d125e77aca4576
 ---
 بھائی کی نظر کہتی ہے بھائی کی نظر سے
 گر اذن ہو دریا ادھر آ جائے اُدھر سے

@@ -61,9 +61,6 @@ romanLyrics: |-
   Laakhoṅ ne gharib ko gher liya
   Sayyid ka tha nauha ya Ghazi
   Bhai hai bichharta ya Ghazi
-# source_id: nohayonline:286c9a7d9b4cb913f4e8
-# source_url: https://www.nohayonline.com/details_content.php?id=1844
-# raw_sha256: fd89219de1fddf4464eba24d1712581f88145166a651a7ed0e167bb06227489a
 ---
 یا غازی یا مولا
 سب کا سہارا مولا

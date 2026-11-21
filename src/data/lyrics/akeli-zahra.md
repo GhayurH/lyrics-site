@@ -62,9 +62,6 @@ romanLyrics: |-
   Mera Mohsin hai jo parde meiṅ mera Mehdi hai
   Ab Fadak ki khaatir apne haq ki khaatir
   Kuchh na kahegi Zahra
-# source_id: nohayonline:e357c1ce3af85d89ae43
-# source_url: https://www.nohayonline.com/details_content.php?id=1015
-# raw_sha256: 75610d3a52dbea42356079321b0dde73b7b92556c1defa5ae5a66be03cd8e285
 ---
 کلمہ گویوں میں ہوئی ہائے اکیلی زہرا
 سرِ دربار گئی بابا جھٹلائی گئی

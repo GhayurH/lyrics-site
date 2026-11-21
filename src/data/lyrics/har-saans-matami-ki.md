@@ -48,9 +48,6 @@ romanLyrics: |-
   Mera bane thikana karbobala ki jannat
   Har dam hai ye Takallum momin ke dil ki hasrat
   Maiṅ bhi kafan na paauṅ Ae bekafan Imam
-# source_id: nohayonline:c1506aa9227bf0367100
-# source_url: https://www.nohayonline.com/details_content.php?id=1508
-# raw_sha256: f01c0c7180102b32d3abf25305f3fda7f4cbd67cba21ee00f83d44ffeea1d67c
 ---
 ہر سانس ماتمی کی شبیر تیرے نام
 اللّٰہ کر رہا ہے مولا تجھے سلام

@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Ik Ali ke thi gale meiṅ risma
   Ik Ali ke paaoṅ meiṅ zanjir hai
-# source_id: nohayonline:e45bd7c8d46287437e4a
-# source_url: https://www.nohayonline.com/details_content.php?id=45
-# raw_sha256: 26652258ec786b0656cfbf3253cf4d968ccf5115ef22925a6c0580370065d0b8
 ---
 
 حُر کا سر ہے زانوئے شبیر ہے

@@ -69,9 +69,6 @@ romanLyrics: |-
   Kaha kya kaha mere baba ne tum se
   Kaha kuch nahiṅ dekh kar ro diye the
   Pukaare bas ab tumko hai saath jaana
-# source_id: nohayonline:48c45be7e37df4189e7e
-# source_url: https://www.nohayonline.com/details_content.php?id=1819
-# raw_sha256: 2c80e8af263cb1cdc836f6f54489cd54fb2fe1dd153d42d9fd747b6a99ec94a7
 ---
 
 کہتی تھی روکے بالی سکینہ

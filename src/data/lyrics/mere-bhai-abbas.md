@@ -59,9 +59,6 @@ romanLyrics: |-
   Faisla kar chuki Abbas-e-Dilaawar ki bahan
   Abbas Abbas bhaiya Abbas
   Tere tukroṅ pe paleṅ ge ye khudaai Abbas
-# source_id: nohayonline:17aa7c7584edc86cdfba
-# source_url: https://www.nohayonline.com/details_content.php?id=3593
-# raw_sha256: a61fb0c5a2f94e07daf9ad11ab70fab1951ce1e883fffd2c7d77d5e6470a6257
 ---
 قافلہ ہو گیا جب شام کے زنداں سے رہا
 کربلا آنے ہی والی تھی سنو اہل عزا

@@ -13,6 +13,7 @@ romanLyrics: |-
   Shabih-e-Payambar haaye haaye Ali Akbar
   Kaise jiyegi tere bin haaye ye maadar
   Ae jaan Ali Akbar
+  Waawaila waawaila shud
 
   1
   Beta Ali Akbar maadar ko pukaaro
@@ -55,14 +56,12 @@ romanLyrics: |-
   Royegi Sughra tarpegi Sughra
   Tere bina kaise jiyegi teri khwaahar
   Ae jaan Ali Akbar
-# source_id: nohayonline:a382ebfca2adca5e214c
-# source_url: https://www.nohayonline.com/details_content.php?id=1843
-# raw_sha256: 8888db542a06bbf0534fbe666050b0284480dea656e9ba5c104eabf26356971a
 ---
 
 شبیہ پیمبر ہائے ہائے علی اکبر
 کیسے جیے گی تیرے بن ہائے یہ مادر
 اے جان علی اکبر
+واویلا واویلا شد
 
 ۱
 بیٹا علی اکبر مادر کو پکارو

@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Wafa shiaaroṅ meiṅ Hashim ka naam aa jaaye
   Bas ik nazar-e-karam mujh pe ho agar Abbas
-# source_id: nohayonline:f21c5bc75445f0c9ee10
-# source_url: https://www.nohayonline.com/details_content.php?id=2614
-# raw_sha256: 9b44d773384d0d16dd28cfd3ea85d6ae7aefb923773d1c6b9648bde7613f2b98
 ---
 
 عباس میرے بھائی

@@ -1,0 +1,26 @@
+---
+title: "Hasnain Di Amma Haq Lain Jadon Gayi Rondi Darbar Chon Aa Gayi Lyrics 2022"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Joun"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+Hasnain Di Amma Haq Lain Jadon Gayi Rondi Darbar Chon Aa Gayi.
+Rab Jane Ki Hoya Aye Ik Pal Che Zaeefi Cha Gayi.
+
+1
+Okha Turna Hoya Digdi Rayi Rahwaan Wich.
+Rab Jane Safar Kiwein Haye Aye Maut Da Sain Nibha Gayi.
+Samne Putraan De Tukray Sand Utha Ke.
+Qasim Choon Kinj Chana Aye Shabbir Nu Sain Sikha Gayi.
+
+2
+De Ke Jhirkaan Zalim Mainu Jhutlanday Reh Gaye.
+Haye Sehmey Baal Si Mere Aye Gal Zahra Nu Kha Gayi.
+ Joun Bibi Zahra Wich Darbar De Ja Ke.
+Aye Mubahila Wali Lanat Haqdar Nu Sain Pohancha Gayi.

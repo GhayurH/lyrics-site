@@ -61,9 +61,6 @@ romanLyrics: |-
   Roye haiṅ khuṅ Takallum chaalis saal Maula
   Saaṅseiṅ bhi chal rahi thi lekin nahiṅ the zinda
   Sajjad ka to maqtal darbaar-e-Shaam ka hai
-# source_id: nohayonline:17779da14984cb32072e
-# source_url: https://www.nohayonline.com/details_content.php?id=2400
-# raw_sha256: 3a8e7db68dff021f51ce6f372d46616a99bc08dade67abd780340d3e8ff7075d
 ---
 ہائے سجاد ہائے سجاد
 ہائے ہائے بازار

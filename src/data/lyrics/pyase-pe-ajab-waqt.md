@@ -1,15 +1,15 @@
 ---
-title: پیاسے پہ عجب وقت قیامت کا پڑا ہے
-alternateTitle: Pyase Pe Ajab Waqt
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پیاسے پہ عجب وقت قیامت کا پڑا ہے"
+alternateTitle: "Pyase Pe Ajab Waqt"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: true
-reciter: Nadeem Sarwar
+reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Pyase pe ajab waqt qayamat ka para hai
   Ek laash abhi laaya hai ek lene chala hai
@@ -49,12 +49,6 @@ romanLyrics: |-
   9
   Hai majlis-e-Shabbir meiṅ Abbas ka maatam
   Rehaan ye Ghaazi ki wafaaoṅ ka sila hai
-# source_id: nohayonline:82dc9a8460074073ac48
-# source_url: https://www.nohayonline.com/details_content.php?id=414
-# raw_sha256: 3318b32d33ae6ff5a92d007a4df720459c86b476aa971e20e0422f4fb4acf12d
-# source_id: ziyaraat:8ecba176755799c4a305
-# source_url: https://www.ziyaraat.net/api/noha/360
-# raw_sha256: f0b69a862f1a6282d506fc04b3e094f60f0cd5412eff7b47263f5473c4f082f5
 ---
 پیاسے پہ عجب وقت قیامت کا پڑا ہے
 اک لاش ابھی لایا ہے اک لینے چلا ہے

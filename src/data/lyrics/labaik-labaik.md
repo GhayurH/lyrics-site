@@ -75,9 +75,6 @@ romanLyrics: |-
   Ja ran ke liye Akhtar dunya meiṅ tabaahi hai
   Hum ahl-e-aza is ke lashkar ke sipaahi haiṅ
   Munkir hai jo is ka jannat na jaayega
-# source_id: nohayonline:c430e35c5ba5a43bd30f
-# source_url: https://www.nohayonline.com/details_content.php?id=960
-# raw_sha256: 0094c87e66ed184a532be90676fd95a33ca6a1bbbfa5dfb5df86fdfee70ae3f1
 ---
 آجانے دو غیبت سے وارث کو شہیدوں کے
 اڑ جائیں گے دنیا میں خود ہوش یزیدوں کے

@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Begor o kafan chhor ke aaghosh ke paale
   Zainab to rasan basta su-e-Shaam chali hai
-# source_id: nohayonline:76b257e75a32706c005f
-# source_url: https://www.nohayonline.com/details_content.php?id=2910
-# raw_sha256: 09057aa1e360f1de909f3b5b163cc031025090777e92aa988482ee94aae6a723
 ---
 جب رن میں علمدار کی شمشیر چلی ہے
 آئی ہوئی بالیں پہ قضا کس کی ٹلی ہے

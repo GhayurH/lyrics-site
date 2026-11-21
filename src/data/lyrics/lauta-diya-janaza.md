@@ -36,9 +36,6 @@ romanLyrics: |-
   5
   Rone ke waaste kya Tauqir itna kam hai
   Naana ke paas rauza ban na saka Hasan ka
-# source_id: nohayonline:31141525d85feec485fe
-# source_url: https://www.nohayonline.com/details_content.php?id=1433
-# raw_sha256: 9863fbe5e45e285b9927538a0c91c573811a670240edf32fa8b34bf83a9c0ade
 ---
 غم سے دل رسول زمن کٹ رہا ہے آج
 دنیا میں فاطمہ کا چمن کٹ رہا ہے آج

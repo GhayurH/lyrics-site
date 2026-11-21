@@ -50,9 +50,6 @@ romanLyrics: |-
   Jo bhi is naam ke ishq meiṅ mar gaya
   Zinda hai woh kabhi bhi na hoga fana
   Keh yeh waada Ali ke hai Allah ka
-# source_id: tajpoints:8b982d61ccaa3b8fac51
-# source_url: https://tajpoints.com/2023/01/nara-e-haideri-lyrics-in-urdu-abbas.html
-# raw_sha256: ad502c97137c5e73954705fc8ca55e25376392d6bccda87538005e2f00472703
 ---
 یا علی یا علی یا علی مرتضیٰ
 لا فتیٰ شیر یزداں یا ایلیا

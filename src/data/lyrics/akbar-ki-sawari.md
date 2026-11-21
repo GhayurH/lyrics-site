@@ -65,9 +65,6 @@ romanLyrics: |-
   Mujhe dekhte rehna mur mur kar
   Deta hai sadaa burha Baaba
   Akbar ki sawari jaati hai
-# source_id: nohayonline:ffe6c8c706b4848fc508
-# source_url: https://www.nohayonline.com/details_content.php?id=1861
-# raw_sha256: cf6938239c895fab334c1c4d34dd4c30f4d8719c0e0425dc4191a58a4493571b
 ---
 واویلا ہائے واویلا
 نہ جا اکبر نہ جا

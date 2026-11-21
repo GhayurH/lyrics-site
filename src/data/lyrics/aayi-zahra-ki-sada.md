@@ -11,6 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Fatima Zehra, Fatima Zehra
+  Sayyida Tahira, Sayyida Tahira
+  Ya Gharib, Ya Husain, Ya Gharib, Ya Husain
+
   Aayi Zehra ki sada pyasa hai bachcha mera
   Shimr khanjar na chala
   Jurm kya is ne kiya kuchh to kar khauf-e-Khuda
@@ -57,10 +61,11 @@ romanLyrics: |-
   Jab chhuri Shah pe Akbar thi chali
   Kya qayamat tha samaṅ tanha mazlum kahaṅ
   Qatl khanjar se hua
-# source_id: nohayonline:72643a1a678cb724d27f
-# source_url: https://www.nohayonline.com/details_content.php?id=2715
-# raw_sha256: d75afd97d1814ad9b49c7904b8200fefb9749fedae51e25165e63930282c8ee7
 ---
+فاطمہ زہرا، فاطمہ زہرا
+سیدہ طاہرہ، سیدہ طاہرہ
+یا غریب، یا حسین، یا غریب، یا حسین
+
 آی زہرا کی صدا پیاسا ہے بچہ میرا
 شمر خنجر نہ چلا
 جرم کیا اس نے کیا کچھ تو کر خوف خدا

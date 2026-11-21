@@ -45,9 +45,6 @@ romanLyrics: |-
   Har shaam diye is ki chaukhat pe jala rakhna
   Jawad ye sadiyoṅ se momin ki ibaadat hai
   Taazim karo is ki Zehra ki amaanat hai
-# source_id: nohayonline:7a1c9e557edaee9409b9
-# source_url: https://www.nohayonline.com/details_content.php?id=40
-# raw_sha256: d924c67f0d490e5f7f8e75eb4a3c5b51bf61e8ec44310a1d6f289ef15b83f82b
 ---
 بابا تیرا شیرِ خُدا توں وفاؤں کا ہے شہنشاہ
 

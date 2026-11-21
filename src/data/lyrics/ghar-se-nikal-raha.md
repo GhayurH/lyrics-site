@@ -48,9 +48,6 @@ romanLyrics: |-
   Har simt hai Madine meiṅ shor-e-Buka Mujib
   Rote haiṅ sar ko pit ke ahl-e-Aza Mujib
   Rehan ke laboṅ pe hai nauha Batul ka
-# source_id: nohayonline:09d20ee2297126e7771b
-# source_url: https://www.nohayonline.com/details_content.php?id=1393
-# raw_sha256: 63ac1fa7f376e9ede673630a521edcabd5c3fcb7a7f61e4e1601e7029710156f
 ---
 گھر سے نکل رہا ہے جنازہ بتول کا
 گریہ کناں ہے سارا گھرانہ بتول کا

@@ -105,9 +105,6 @@ romanLyrics: |-
   Umr bhar Wehab ki laazim hui pursa daari
   Haaye Rehaan bayaaṅ kaise karuṅ wo manzar
   Zauja-e-Wehab ko Zainab ne urhaai chaadar
-# source_id: nohayonline:3757216cd2f228c7a205
-# source_url: https://www.nohayonline.com/details_content.php?id=179
-# raw_sha256: 718cbe1ec9f8314d84b82326bb97a5b8730a614adc970b2cce164b659269c86d
 ---
 دن تھا عاشور کا شبیر پہ تنہائی تھی
 ہر طرف گریہ و ماتم کی گھٹا چھائی تھی

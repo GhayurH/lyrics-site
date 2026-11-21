@@ -60,9 +60,6 @@ romanLyrics: |-
   Haaris ne yatimoṅ par Waiz jo sitam dhaaye
   Wo zulm Ali kaise reh reh ke na yaad aaye
   Talwaar hai zaalim ki aur chaand se bachche haiṅ
-# source_id: nohayonline:5db22236df9e659dbb95
-# source_url: https://www.nohayonline.com/details_content.php?id=3117
-# raw_sha256: e98dac1d75088ed71d5e1c4e5da98a904905d855d60f0077c0b0b232f7c8da74
 ---
 مسلم کے دُلارے
 

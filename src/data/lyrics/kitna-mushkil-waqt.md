@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Dard ki tahrir Aabid likh ke ye kar de tamaam
   Aqif har imtihaan ek naatawaaṅ par aa gaya
-# source_id: nohayonline:4426efe6122d081256c2
-# source_url: https://www.nohayonline.com/details_content.php?id=911
-# raw_sha256: 751da446d79791fa1fa1f93af45ca8c5074b8bf2b5936bb1dabd67e0e2b772f7
 ---
 
 کتنا مشکل وقت قیدی سارباں پر آ گیا

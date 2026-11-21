@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Jaayeṅge Ishrat kabhi parhte hue aap bhi
   Saamra se Karbala qatl hue haiṅ Naqi
-# source_id: nohayonline:513aaa8a79931118040e
-# source_url: https://www.nohayonline.com/details_content.php?id=1403
-# raw_sha256: eee58f6856573571f45d89be1b807ad75c748db938db2914a2ef9d02036b2e4f
 ---
 مومنوں سر پیٹ لو قتل ہوئے ہیں نقی
 سامرہ میں زہر سے قتل ہوئے ہیں نقی
@@ -65,7 +62,7 @@ romanLyrics: |-
 پھر دیا زہرِ قضا قتل ہوئے ہیں نقی
 
 ۵
-نوحہ کناں بی‌بیاں سوگ میں دونوں جہاں
+نوحہ کناں بیبیاں سوگ میں دونوں جہاں
 کہتے ہیں سب انس و جاں قتل ہوئے ہیں نقی
 
 ۶

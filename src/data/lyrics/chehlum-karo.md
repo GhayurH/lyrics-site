@@ -56,9 +56,6 @@ romanLyrics: |-
   Batlaao Karbal meiṅ chehlum hua kaise
   Shah ke azaadaaroṅ maatam karo aise
   Bete ki mayyat par roti ho maaṅ jaise
-# source_id: nohayonline:3b2b2de42124888eeea1
-# source_url: https://www.nohayonline.com/details_content.php?id=1899
-# raw_sha256: dabb81b8e04922c0f5e6c37d526e0bd853d49a6e8e001d9252cb5da94564b4cd
 ---
 
 چہلم کرو مومنوں کربل کے میہماں کا

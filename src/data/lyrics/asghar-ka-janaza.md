@@ -1,10 +1,10 @@
 ---
-title: اے مومنوں جب خون میں ڈوبا ہوا آیا
-alternateTitle: Asghar Ka Janaza
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے مومنوں جب خون میں ڈوبا ہوا آیا"
+alternateTitle: "Asghar Ka Janaza"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Nadeem Sarwar"
 poet: "Rehan Azmi"
 tags: []
@@ -59,12 +59,6 @@ romanLyrics: |-
   Akbar sa jawaaṅ un meiṅ tha Abbas sa bhaai
   Bete se Yadullah ke magar uth nahiṅ paaya
   Asghar ka janaaza Asghar ka janaaza
-# source_id: nohayonline:56f39f38df9bb1987dc8
-# source_url: https://www.nohayonline.com/details_content.php?id=337
-# raw_sha256: 7ef69a258eb7f0f38df555b8691ce929840be4519e4fd7572937226471332987
-# source_id: ziyaraat:808a4318f246d952d24f
-# source_url: https://www.ziyaraat.net/api/noha/1052
-# raw_sha256: da8bbfdc7caf9531f4ccf3ae0aa6ea5c87548a3949b814b013e3bcc39058ee1b
 ---
 
 اے مومنوں جب خون میں ڈوبا ہوا آیا

@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Aamir bapa hai mahshar Sheh sun rahe haiṅ Nayyar
   Aur keh raha hai beta Sughra maaf karna
-# source_id: nohayonline:24efed798b49a2cc9137
-# source_url: https://www.nohayonline.com/details_content.php?id=1781
-# raw_sha256: 5b0cb65c9a7fcc4b48ba3c14e6de3cbdeef9c060578adf30d1abfd1b8034d58d
 ---
 اکبر کا تھا یہ نوحہ صغرا معاف کرنا
 دم ٹوٹتا ہے میرا صغرا معاف کرنا

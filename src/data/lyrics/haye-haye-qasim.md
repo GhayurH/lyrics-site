@@ -35,31 +35,65 @@ romanLyrics: |-
   Is khun meiṅ gir kar haye Qasim
 
   3
+  Wich Rasiyaan De Paband Hoi
+  Nayi Bhainr Ghareeb Da Was Koi
+  Honday Hath Aazad Te Mar Jandi
+  Tera Matam Kar Kar Haye Qasim
+
+  4
   Kis shaan se tum dulha the bane
   Kis shaan se thi baraat chali
   Baithi rahi dulhan hujre meiṅ
   Aaye na palat kar haye Qasim
 
-  4
+  5
+  Tainu Naal Duawaan Maa Ujari
+  Maidan De Pasay Toriya Si
+  Odhi Mehnat Kar Pamal Gaya
+  Nu Likh Da Lashkar Haye Qasim
+
+  6
   Farwa ne kaha beta Qasim
   Keh dena daadi Zehra se
   Ghurbat ki kamaai tukroṅ meiṅ
   Bheji hai sajaa kar haye Qasim
 
-  5
+  7
+  Sanu Raas Na Aayi Karb o Bala
+  Tu Baaj Kafan Main Baaj Rida
+  Taiday Qatal De Baad Laeena Ne
+  Maidi Lut Layi Chadar Haye Qasim
+
+  8
   Uth Qasim dekh teri dulhan
   Teri laash pe rone aayi hai
   Ae kaash ye shaadi raas aati
   Bas jaata tera ghar haye Qasim
 
-  6
+  9
+  Hoya Tukray Tukray Naal Zehar
+  Mainday Babay Hasan Da Pak Jigar
+  Hoi Tukray Tukray Wich Maqtal
+  Taidi Lash Baradar Haye Qasim
+
+  10
   Har saath Muharram ko mehndi teri
   Yaad meiṅ Qasim uthti hai
   Dulha dulha Qasim dulha
   Hota hai laboṅ par haye Qasim
-# source_id: nohayonline:6d96d6190b435b5b8979
-# source_url: https://www.nohayonline.com/details_content.php?id=1632
-# raw_sha256: b97f62a80477326866f9e5391e2f9a1839a402cf2379d5c4393d260f6e241dd7
+
+  11
+  Nayi Ruk Sakdi Lachari Aye
+  Sang Phophiyaan Naal Teyari Aye
+  Uth Aakhri Wari Gal La Ke
+  Ujari Nu Wida Kar Haye Qasim
+
+  12
+  Jawad Rehan Te Sarwar Nu
+  Nayi Bhulnrey Wainr Oss Bibi De
+  Jinday Sadqay Aj V Jari Aye
+  Teda Ghar Ghar Matam Haye Qasim
+
 ---
 
 ہاے ہاے قاسم ہاے قاسم

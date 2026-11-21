@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Aawaaz do Abbas ko zindaan-e-Shaam meiṅ
   Tishna dahan Sakina ki turbat bana sake
-# source_id: nohayonline:2d1c9fa041191bfc0c0e
-# source_url: https://www.nohayonline.com/details_content.php?id=38
-# raw_sha256: e9b52053b1204bf9ef9aac1433ff53f2221320d9964c2a7afed303c2a1738b12
 ---
 دریا سے لوٹ کر نہ علمدار آ سکے
 افسوس بے کسوں کے نہ غمخوار آ سکے

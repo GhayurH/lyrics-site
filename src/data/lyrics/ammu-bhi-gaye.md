@@ -60,9 +60,6 @@ romanLyrics: |-
   Karti thi Sakina jo pur gham
   Waqt-e-aakhir us ke lab par
   Naale ye rahe
-# source_id: nohayonline:7f3c613bcf8062414aa8
-# source_url: https://www.nohayonline.com/details_content.php?id=3310
-# raw_sha256: 9f9bb128fb50fc24a06b62beca43ac47d83414a435e68ecd987c39e715af7b67
 ---
 جس دم جلے قیام شہنشاہِ بحرو بر
 ایک بچی نکلی خیمے سے اس دم برہنہ سر

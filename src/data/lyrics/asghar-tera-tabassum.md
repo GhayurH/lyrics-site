@@ -42,9 +42,6 @@ romanLyrics: |-
   Asghar to khaak pe yuṅ soya jaise wo god ho maaṅ ki
   Beshir ki tadfin se lagta hai yuṅ Amir
   Jaise wo maaṅ ki god meiṅ aaraam kar gaya hai
-# source_id: nohayonline:a0a33ef5039a9ee1b0c5
-# source_url: https://www.nohayonline.com/details_content.php?id=2948
-# raw_sha256: 360d8cf3cfe01a72cf02e9a3783892b9d6777bd44e70c936d8b9580d3c743b2b
 ---
 
 ہل من ناصر ینصرنا

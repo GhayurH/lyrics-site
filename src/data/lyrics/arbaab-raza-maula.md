@@ -59,10 +59,6 @@ romanLyrics: |-
   Dibal ko sana ke liye bulwaate the jaise
   Hai arz ke mujh ko bhi bula leṅ kabhi aise
   Hai Mir Hasan Mir ka armaan
-# editorial_uncertain: "Tajpoints Roman-only transcription; Persian couplet in stanza 4 and the first stanza wording require source audio review."
-# source_id: tajpoints:b0f5c229544443f8434a
-# source_url: https://tajpoints.com/2021/06/arbaab-raza-maula-mir-hasan-mir-lyrics.html
-# raw_sha256: 0bcce265db5459a4af57422ac2665393f8329886b026d47c8545b7a82bec27ca
 ---
 
 ۱

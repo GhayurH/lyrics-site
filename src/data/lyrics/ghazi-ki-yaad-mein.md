@@ -65,9 +65,6 @@ romanLyrics: |-
   Ae sina-e-zakhmi Akbar ke
   Dekhi hai Sarosh ne ashkoṅ meiṅ
   Tere zakhm ki si gehraaiyaaṅ
-# source_id: nohayonline:4ee4b6b69c68d2000bfb
-# source_url: https://www.nohayonline.com/details_content.php?id=3211
-# raw_sha256: 00b53442ff37c34eb9d3b7e20ee9dbaddd21d7ba40f916b4334e6f12df5cbb67
 ---
 سقائے سکینہ عباس علمدار
 ہائے عباس ہائے عباس ہائے عباس

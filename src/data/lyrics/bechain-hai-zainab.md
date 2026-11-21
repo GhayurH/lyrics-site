@@ -54,9 +54,6 @@ romanLyrics: |-
   Ye Shaam ke bazaaroṅ meiṅ
   Dukhyaari phuphi kehti hai
   Akbar mere Akbar aa ja
-# source_id: nohayonline:0a504d31cc6061abe396
-# source_url: https://www.nohayonline.com/details_content.php?id=2563
-# raw_sha256: 62611eadfb40a2f01734efc60040fab18233186ffb806d202f72eea781eae832
 ---
 
 بے چین ہے زینب آجا

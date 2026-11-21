@@ -158,11 +158,6 @@ romanLyrics: |-
   Hallah hallah Husain wainah
   Bis suyuf magta'ainah
   Abad wallah ya zehra maaninsa Husaina
-# source_id: nohayonline:356f9e89ea5302c733c5
-# source_url: https://www.nohayonline.com/details_content.php?id=2586
-# raw_sha256: 9f7e38a81475e82d9bf008617fb0bbad37aefeb42cc8effdfc54e4213f386094
-# Additional opening and poet credit: https://tajpoints.com/2022/11/abad-wallah-nadeem-sarwar-lyrics-in.html
-# Opening manually transcribed into Urdu from archived Tajpoints Roman; audio wording remains unverified.
 ---
 
 تین شعبان صدائے کونین مرحبا صل علیٰ ہو گیا ظہورِ مولا حسین

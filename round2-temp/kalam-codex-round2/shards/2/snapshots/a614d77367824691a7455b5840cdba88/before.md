@@ -1,0 +1,41 @@
+---
+title: "Qasim Da Sehra Afzal Jamal Lyrics Punjabi 2019"
+language: "Panjabi"
+lang: "pa"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Shahid"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+1
+Qasim Da Sehra Afzal Jamal Lyrics Punjabi
+Le Ke Jibreel Arshon Aaya Qasim Da Sehra.
+Parh Darodaan Mariyam Sajaya Qasim Da Sehra.
+Nori Banra Nori Sehra Chan Taun Sohna Qasim Da Chehra.
+
+2
+Chum Ke Ghazi Akhiyaan Nu Laya Qasim Da Sehra.
+Sohna Banra Qasim Ameer Aye.
+Pag Badhai Maula Shabbir Aye.
+Parh Ke Yaseen Maa Pharaya Qasim Da Sehra.
+
+3
+Poray Hoye Arman Maa De.
+Dayway Sadqay Qasim De Naa De.
+Janji Bahatar Fizza Sunaya Qasim Da Sehra.
+Phar Sakina, Qasim Di Waag Aye.
+
+4
+Mangay Sughra Hissay Da Laag Aye.
+Aakhay Bibi Pardais Aaya Qasim Da Sehra.
+Janj Hasan De Chan Di Aayi.
+Bibi Zainab Khaimay Bithayi.
+
+5
+Bibi Kubra Di Maa Wadhaya Qasim Da Sehra.
+Wela Cheti Shahid Oh Aaway.
+Ujray Wehray Mehdi Wasaway.
+Jis Takhayul Wich Likhaya Qasim Da Sehra.

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Ali Akbar ka ye sadqa hai Gohar
   Khuda ka din jo ab tak jawaaṅ hai
-# source_id: nohayonline:1bab09faf18a704b2aaa
-# source_url: https://www.nohayonline.com/details_content.php?id=3444
-# raw_sha256: fbc433ddd77c936cba205adc5c1fb26e2c1a765936b516fd3d32c034c497243a
 ---
 غم شہ میں جو آنکھوں سے رواں ہے
 وہ آنسو قیمت باغ جناں ہے

@@ -69,9 +69,6 @@ romanLyrics: |-
   Tere gham meiṅ rahe muztar
   Inheṅ har pal mere dilbar
   Gham-e-duniya se bachaana
-# source_id: nohayonline:690139adfac0ee911971
-# source_url: https://www.nohayonline.com/details_content.php?id=3613
-# raw_sha256: 5e31ebe67f47151aa972753ff4790b6c610cee517d2ddf9ec4514c582c5999b9
 ---
 قتلک عطشنا
 ذبحک ابرانا
@@ -121,7 +118,7 @@ romanLyrics: |-
 سوئے زنداں ہے روانہ
 
 ۸
-کبھی روے یہ بی‌بیابان
+کبھی روے یہ بیبیابان
 کبھی تڑپے یہ تیری ماں
 تیرے غم میں ہے پریشاں
 تیرے بابا تیرے نانا

@@ -44,9 +44,6 @@ romanLyrics: |-
   8
   Yaad jab bachche ki aati thi to kehti thi Rabaab
   Maaṅ ke dil ka chain apne saath Asghar le gaye
-# source_id: nohayonline:4ba0bbe7827a63d2ee36
-# source_url: https://www.nohayonline.com/details_content.php?id=566
-# raw_sha256: d5cee9eb78cfc949d48d4b521bd4ee8bf45f6dab7e1337fdd98ac64186ea1898
 ---
 قبر میں داغ غمِ سبطِ پیمبر لے گئے
 ہم اندھیرے میں چراغوں کا یہ لشکر لے گئے

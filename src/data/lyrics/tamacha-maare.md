@@ -69,9 +69,6 @@ romanLyrics: |-
   Ya phir Aamir zara Shabbir ke sar se puchhe
   Wo namak khwaaroṅ jafaakaaroṅ meiṅ maikhaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
-# source_id: nohayonline:1aff553b01b1874273fa
-# source_url: https://www.nohayonline.com/details_content.php?id=1293
-# raw_sha256: 581452ed0ea0f85028fca187543712f3a1626a48c2927eb212e32b6405bff3e5
 ---
 دل پہ کیا گزرے گی بہنوں کو جو بازاروں میں
 بھائی کے سامنے گر کوئی طمانچہ مارے

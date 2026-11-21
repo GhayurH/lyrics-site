@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Na milti Fazl gar Sheh ki tajalli
   To moti aaṅsuoṅ se kam na hota
-# source_id: nohayonline:30f08e7084fa2c965496
-# source_url: https://www.nohayonline.com/details_content.php?id=1196
-# raw_sha256: 834ef485e5dc7bca6420080fef381d622095bbf6cb11fbd38d6e39c5eeca4cd8
 ---
 اگر شبیر کا ماتم نہ ہوتا
 تو پھر اسلام مستحکم نہ ہوتا

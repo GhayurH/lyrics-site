@@ -63,9 +63,6 @@ romanLyrics: |-
   Wo dekho aaj bhi saaya nahiṅ hai qabr-e-Zehra par
   Kisi ki ye sadaaeiṅ aa rahi haiṅ Aamir o Akhtar
   Zamane ne sitam dhaya
-# source_id: nohayonline:07cef3e236048b025b0e
-# source_url: https://www.nohayonline.com/details_content.php?id=3054
-# raw_sha256: 19601eaf8fc7973ce65c19f6bd605290f7c1b14c6f3f0b1f98ebc57e93cce6f6
 ---
 تمہارے بعد بڑھا درد اور کم نہ ہوا
 کسی کے دل پہ بھی اتنا بڑا ستم نہ ہوا

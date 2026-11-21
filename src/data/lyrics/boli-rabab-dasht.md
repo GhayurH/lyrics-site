@@ -58,9 +58,6 @@ romanLyrics: |-
   12
   Jis ko bhi dekho Shaah pa rota hai ae Raza
   Kul kaainaat hai mere Maula ki sogwaar
-# source_id: nohayonline:e6e8823519efb63c1ec6
-# source_url: https://www.nohayonline.com/details_content.php?id=1996
-# raw_sha256: e36003a60dcd65c178f6b420e18263beb990508ad8cad0ccb372f468570a365f
 ---
 
 ۱
@@ -72,7 +69,7 @@ romanLyrics: |-
 غازی کو یاد کرتے ہیں رو رو کے بار بار
 
 ۳
-دشتِ بلا میں کیسے سکوں پائے بی‌بیاں
+دشتِ بلا میں کیسے سکوں پائے بیبیاں
 ہر سوں کھڑی ہے جبر و تشدد کی اک خطار
 
 ۴

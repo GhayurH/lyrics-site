@@ -38,9 +38,6 @@ romanLyrics: |-
   6
   Aah ye majburi ka aalam uf ye asiri ye ghurbat
   Sar pe rida khwaahar ke nahiṅ hai laash-e-baraadar uryaaṅ hai
-# source_id: nohayonline:23e55fde6b46ab693e27
-# source_url: https://www.nohayonline.com/details_content.php?id=502
-# raw_sha256: a7ccce3625493e0d6fa7de74043c1376c6b1e6f89cdaf5548b780633ef3598ef
 ---
 زیرِ قدم ہے قبر کی منزل
 آگے حشر کا میداں ہے

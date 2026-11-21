@@ -58,9 +58,6 @@ romanLyrics: |-
   Ae Aamir o Aalam hai yehi dil meiṅ tamanna
   Ae kaash sada aaye yehi Sayyid-e-waala
   Bachpan ka mera nauha sunaao
-# source_id: nohayonline:5d5a5b302df883e1d470
-# source_url: https://www.nohayonline.com/details_content.php?id=1278
-# raw_sha256: 4b68012a7234f193dfc5123da12a7a559c52e41a08a1541d20742d8a4a92d62e
 ---
 ہائے اماں میری اماں
 اماں نہ ہمیں چھوڑ کے جاؤ

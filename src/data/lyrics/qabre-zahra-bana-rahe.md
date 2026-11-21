@@ -63,9 +63,6 @@ romanLyrics: |-
   Ae Takallum Batul ke gham meiṅ
   Ab bhi aansu baha rahe haiṅ Ali
   Apni ghurbat chhupa rahe haiṅ Ali
-# source_id: nohayonline:136f467afbf2ff019e16
-# source_url: https://www.nohayonline.com/details_content.php?id=1026
-# raw_sha256: dba81cee79c4a18fe8c9795d49ce27c9af94d9e7c6084ae528da00e9929968eb
 ---
 
 قبر زہرا بنا رہے ہیں علی

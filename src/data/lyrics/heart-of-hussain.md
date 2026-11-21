@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-# source_id: ziyaraat:2e8dcd7c245b9d0957fd
-# source_url: https://www.ziyaraat.net/api/noha/2036
-# raw_sha256: b010fb07e594e9ded9d867feeef06706618d7001920059c41c34a4a487da6474
 ---
 
 Imam Hussain

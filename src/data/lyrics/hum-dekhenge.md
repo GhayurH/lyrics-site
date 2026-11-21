@@ -11,6 +11,17 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Allahumma salli ala Muhammadin wa Aal-e-Muhammad
+  Bismillahir Rahmanir Rahim
+
+  Ya Muhammad ya Ali, ya Ali ya Muhammad
+  Ikfiyani fa innakuma kafiyan
+  Wansurani fa innakuma nasiran
+  Ya Maulana ya Sahib-uz-Zaman
+  Al-ghauth al-ghauth al-ghauth
+  Adrikni adrikni adrikni
+  As-saa'at as-saa'at as-saa'at
+
   Al ajal al ajal al ajal
   Yabnaz Zahra yabnaz Zahra
   Ya sayyidi ya murshidi
@@ -91,10 +102,18 @@ romanLyrics: |-
   Deti hai sada ye Karbobala
   Wo roz ke jis ka waada hai
   Wo waada aap nibhaaeṅ ge
-# source_id: nohayonline:62c61aa46ad506d225ed
-# source_url: https://www.nohayonline.com/details_content.php?id=377
-# raw_sha256: fcd9434e970105603c3db861d260a82331c583df785e87abe55279ae1c0530ee
 ---
+
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+يَا مُحَمَّدُ يَا عَلِيُّ، يَا عَلِيُّ يَا مُحَمَّدُ
+اِكْفِيَانِي فَإِنَّكُمَا كَافِيَانِ
+وَانْصُرَانِي فَإِنَّكُمَا نَاصِرَانِ
+يَا مَوْلَانَا يَا صَاحِبَ الزَّمَانِ
+الْغَوْثَ الْغَوْثَ الْغَوْثَ
+أَدْرِكْنِي أَدْرِكْنِي أَدْرِكْنِي
+السَّاعَةَ السَّاعَةَ السَّاعَةَ
 
 العجل العجل العجل
 یابن الزہرا یابن الزہرا

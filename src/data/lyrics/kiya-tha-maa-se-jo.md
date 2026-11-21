@@ -53,9 +53,6 @@ romanLyrics: |-
   Jo chaahe dekh le khud Shaam jaa ke ye manzar
   Hawaaeṅ kaanpti haiṅ jis ko dekh kar Gohar
   Charaagh Shaam meiṅ aisa jalaya Zainab ne
-# source_id: nohayonline:f0f4adfca62df2aec551
-# source_url: https://www.nohayonline.com/details_content.php?id=2335
-# raw_sha256: a926172d6524c3ed82a8a54ad0365fabdda290ae89b3744c7b93ca6c048e39aa
 ---
 کیا تھا ماں سے جو وعدہ نبھایا زینب نے
 زمانے بھر کو حسینی بنایا زینب نے

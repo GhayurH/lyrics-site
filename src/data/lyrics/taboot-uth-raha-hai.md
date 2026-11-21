@@ -51,9 +51,6 @@ romanLyrics: |-
   Akbar jo laash-e-Fizza dafna ke uthe Maula
   Haye aayi sadaa-e-Zainab Baaqir watan chala ja
   Sajjad ka janaaza tayyaar ho gaya hai
-# source_id: nohayonline:ac408f25c26bf654874d
-# source_url: https://www.nohayonline.com/details_content.php?id=2567
-# raw_sha256: 1ca4f4ead40dc6f495d2480a4a1c4194212a92ba90c723fce2fca14612805bb7
 ---
 
 پھر فاطمہ کے گھر میں فرش عزاء بچھا ہے

@@ -1,10 +1,10 @@
 ---
-title: رو رہی ہے آج تک شبیر خاک کربلا
-alternateTitle: Ro Rahi Hai Aaj
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رو رہی ہے آج تک شبیر خاک کربلا"
+alternateTitle: "Ro Rahi Hai Aaj"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
 tags: []
@@ -57,12 +57,6 @@ romanLyrics: |-
   Sajda-e-Shabbir Najfi azmat-e-Yazdaaṅ hua
   Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
-# source_id: nohayonline:06df598f40805cf731ec
-# source_url: https://www.nohayonline.com/details_content.php?id=2299
-# raw_sha256: b72b40af584a104ef873c75e5a56d5527e5a1943a80da63abb59687d327bd77a
-# source_id: ziyaraat:517c9dc92fa8aeaaeafe
-# source_url: https://www.ziyaraat.net/api/noha/141
-# raw_sha256: 7261da6537788f6545cc7b2b71ceb2c5db9fe46a64514e98a8b43f89f92a86b0
 ---
 ہائے حسین
 رو رہی ہے آج تک شبیر خاک کربلا

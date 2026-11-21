@@ -48,9 +48,6 @@ romanLyrics: |-
   Jaane kis andaaz se Bibi ne Akbar ki buka
   Sheh ne aankheṅ khol di jis dam Sakina ne kaha
   Ik nazar dam torti beti ko Baaba dekhiye
-# source_id: nohayonline:abfbd82cf4a66473c298
-# source_url: https://www.nohayonline.com/details_content.php?id=1431
-# raw_sha256: b6be9ab788bbb2d88dac6947e61e39c42b2b0ef9065a4315b613742272a0099c
 ---
 جی رہی ہے بابا جان کیسے سکینہ دیکھیے
 نیل چہرے پر ہیں کتنے میرا چہرہ دیکھیے

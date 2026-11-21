@@ -63,9 +63,6 @@ romanLyrics: |-
   Kya Mir Hasan hai teri auqaat o haqiqat
   De kar teri nasloṅ meiṅ yeh midhat yeh tilaawat
   Woh jis ne tujhe laaiq-e-taazim kiya hai
-# source_id: tajpoints:474b129685a77067ed4d
-# source_url: https://tajpoints.com/2022/06/wo-mola-raza-hai-mir-hasan-mir-lyrics.html
-# raw_sha256: 5831bf5ad1dc464de9655a10641abfa7412f4ce809c2a6b5176bade6c7933dd0
 ---
 
 وہ جس کی رضا خالقِ اکبر کی رضا ہے

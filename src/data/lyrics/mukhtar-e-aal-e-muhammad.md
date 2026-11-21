@@ -1,11 +1,11 @@
 ---
-title: مختار آل محمد
-alternateTitle: Mukhtar-e-Aal-e-Muhammad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
-poet: Mohsin Naqvi
+title: "مختار آل محمد"
+alternateTitle: "Mukhtar-e-Aal-e-Muhammad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
+poet: "Mohsin Naqvi"
 tags: []
 aliases: ["Mukhtar E Aal E Muhammad Mohsin Naqvi", "mukhtar-e-aal-e-muhammad-mohsin-naqvi"]
 published: true
@@ -57,9 +57,6 @@ romanLyrics: |-
   Haibat hai ke ik hashr sa Kufe ki zamiṅ par
   Yeh phul yeh jugnu yeh falak taab sitaare
   Mukhtar ki talwaar se jharte haiṅ sharaare
-# source_id: tajpoints:372f449a6a63e65ff2f3
-# source_url: https://tajpoints.com/2023/09/mukhtar-e-aal-e-muhammad-mohsin-naqvi.html
-# raw_sha256: 0151b103c01d08bce48e5de95bc2368cad1b4f7d761edf4517e370a40cc1fbe0
 ---
 
 ۱

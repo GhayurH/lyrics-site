@@ -43,9 +43,6 @@ romanLyrics: |-
   Ik nasihat hai jo Baqar ne likhi hai Safdar
   Naam beshak rakho nisbat se rahe dhyaan magar
   Zinda sadaat ki hurmat ko hamesha rakhna
-# source_id: nohayonline:a08959e4f8e3911bbc94
-# source_url: https://www.nohayonline.com/details_content.php?id=2814
-# raw_sha256: 699be1f5eb440579dabc282fed3a82c6c6dc5d04b3ebf3890a13c46b191b06d6
 ---
 کوئی صورت ہو مگر نرم ہی لہجہ رکھنا
 اپنی بیٹی کا اگر نام سکینہ رکھنا

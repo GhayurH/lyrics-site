@@ -46,9 +46,6 @@ romanLyrics: |-
   Dar pe aa ke maaoṅ ne jang ke hunar dekhe
   Apne chaand ke tukre khuṅ meiṅ tar ba tar dekhe
   Reg-e-garm par laasheṅ barchhiyoṅ pe sar dekhe
-# source_id: nohayonline:b87b085da5a902258e7a
-# source_url: https://www.nohayonline.com/details_content.php?id=3034
-# raw_sha256: cf904ff8796ad644ba7e666fc0f22caa531b1fa6eb382e7f25bde5aac176111b
 ---
 اے خدا کے بندوں میں منتخب خدا والوں
 تخت انما والوں تاج ہل اتیٰ والوں

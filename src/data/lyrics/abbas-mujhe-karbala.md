@@ -91,9 +91,6 @@ romanLyrics: |-
   Jald wo aaeṅge Shah bulwaeṅge
   Aur tumheṅ Karbobala saath le jaaeṅge
   Ae Mesum o Zishan sada do
-# source_id: nohayonline:0f9e323e9778f8fd58fb
-# source_url: https://www.nohayonline.com/details_content.php?id=3641
-# raw_sha256: e6b6102d579b7c46d2bf2f1b2030b838a532b4cefe657d117145f8b8b601abc8
 ---
 
 اس غم نے عزاداروں بہت مجھ کو رلایا

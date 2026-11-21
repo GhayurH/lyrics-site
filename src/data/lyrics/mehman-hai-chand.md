@@ -67,9 +67,6 @@ romanLyrics: |-
   Safdar jo sun ke rote the Maula-e-Do Jahaaṅ
   Bibi ne marte waqt pukaara Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-# source_id: nohayonline:4d3fe2547267bb23e1ba
-# source_url: https://www.nohayonline.com/details_content.php?id=2264
-# raw_sha256: eeda8355a8261c41f310641528d3d57592bcc12b6025c865cb33c6f148ba3752
 ---
 
 مہمان ہے چند روز کی زہرا اباالحسن

@@ -88,9 +88,6 @@ romanLyrics: |-
   Kya guzri thi Zainab par jab Shaam-e-alam aai
   Viraan Madina viraan Madina
   Allah Allah ye shaan Nabi ki ujar gai hai
-# source_id: nohayonline:154e691c4c82717e0c18
-# source_url: https://www.nohayonline.com/details_content.php?id=159
-# raw_sha256: 6b5f7cd0608a9d66bd5ded9c54c5740c7f0b95e01715dd879492fc2fddf91519
 ---
 اے شام غریباں
 اک شور ہوا خانۂ حیدر ہوا تاراج
@@ -126,7 +123,7 @@ romanLyrics: |-
 
 ۴
 کوئی نہ رہا باقی شبیر کے لشکر کا
-حلقہ ہے بی‌بیوں کا ماتم ہے بھرے گھر کا
+حلقہ ہے بیبیوں کا ماتم ہے بھرے گھر کا
 زینب نے لیا پرسہ رو رو کے بہتر کا
 ویران مدینہ ویران مدینہ
 اللہ اللہ یہ شان نبی کی اجڑ گئی ہے

@@ -1,0 +1,62 @@
+---
+title: "جب نہ اعدا سے کسی طرح سفای ٹہری"
+alternateTitle: "Subhe Ashura Hui"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Hasnain Akbar"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Jab na aada se kisi tarha safayi tehri
+  Subhe ashur-e-moharram ko larayi tehri
+  Pucha zainab ne ke kya ae mere bhai tehri
+  Sheh ne farmeina behan tum se judaai tehri
+  Aaj pyaroṅ se mulaqaat ghanimat jaano
+  Ae behan aaj ki ye raat ghanimat jaano
+  Aagayi shaam e gharibaṅ ghar jalaane ke liye
+  Subhe ashura hui laasheiṅ uthaane ke liye
+  Jab se zainab ne suna hai aagaye baba mere
+  Dhundti phirti hai chadar sar chupane ke liye
+  Subhe ashura hui...
+  Baazu e ghazi agar kaafi nahi tujhko furaat
+  Kya ruqayya aaye ab baazu katane ke liye
+  Subhe ashura hui...
+  Khune asghar se agar bujhti nahi tiroṅ ki pyaas
+  Khun haazir hai sakina ka bujhane ke liye
+  Subhe ashura hui...
+  Sar se chadar ka utarna maut zainab ki hai par
+  Ab bhi zinda hai to abid ko bachane ke liye
+  Subhe ashura hui...
+  Karbala ke baad asghar ke tabassum ke siwa
+  Kya sabab bachta hai akbar muskurane ke liye
+  Subhe ashura hui...
+---
+
+۱
+جب نہ اعدا سے کسی طرح سفای ٹہری
+صبحِ عاشور محرم کو لڑائی ٹہری
+پوچھا زینب نے کہ کیا اے میرے بھائی ٹہری
+شہ نے فرمایا بہن تم سے جدائی ٹہری
+آج پیاروں سے ملاقات غنیمت جانو
+اے بہن آج کی یہ رات غنیمت جانو
+آگیء شام غریباں گھر جلانے کے لئے
+صبحِ عاشورا ہوی لاشیں اٹھانے کے لئے
+جب سے زینب نے سنا ہے آ گےء بابا میرے
+ڈھونڈتی پھرتی ہے چادر سر چھپانے کے لئے
+صبحِ عاشورا ہوی۔۔۔
+بازوے غازی اگر کافی نہیں تجھکو فرات
+کیا رقیہ آے اب بازو کٹانے کے لئے
+صبحِ عاشورا ہوی۔۔۔
+خونِ اصغر سے اگر بجھتی نہیں تیروں کی پیاس
+خون حاضر ہے سکینہ کا بجھانے کے لئے
+صبحِ عاشورا ہوی۔۔۔
+سر سے چادر کا اتارنا موت زینب کی ہے پر
+اب بھی زندہ ہے تو عابد کو بچانے کے لیےء
+صبحِ عاشورا ہوی۔۔۔
+کربلا کے بعد اصغر کے تبسم کے سوا
+کیا سبب بچتا ہے اکبر مسکرانے کے لئے
+صبحِ عاشورا ہوی۔۔۔

@@ -54,9 +54,6 @@ romanLyrics: |-
   Jis waqt Mohib ghar se Maula-e-zaman nikle
   Aflaak larazte the
   Beti ka ye nauha tha baba na jaao
-# source_id: nohayonline:947e876d442c51b20218
-# source_url: https://www.nohayonline.com/details_content.php?id=3391
-# raw_sha256: 87149d4e4ac85d348a83128085676f8100655838a79e79fbe5bd1c170da21299
 ---
 
 میری دنیا اجڑ نہ جائے خدارا رک جاؤ

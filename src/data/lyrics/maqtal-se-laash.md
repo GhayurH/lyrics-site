@@ -42,9 +42,6 @@ romanLyrics: |-
   Lamhoṅ meiṅ jo khushi thi wo gham meiṅ badal gayi
   Shaadi koi jahaaṅ meiṅ hoti hai jab kabhi
   Ibn-e-Hasan ki yaad zamaane ko aayi hai
-# source_id: nohayonline:8bf8b44e6ab560674d9f
-# source_url: https://www.nohayonline.com/details_content.php?id=1971
-# raw_sha256: e0d98ef8f4450ee76aa534088b40a83ce066ebaa5457126d695270c596494885
 ---
 مقتل سے لاش قاسم نوشاہ کی آئی ہے
 

@@ -78,9 +78,6 @@ romanLyrics: |-
   Jo maut se bhi ik pal na dari
   Us Bibi ko Rehaan o Raza
   Shaam ne maar diya hai
-# source_id: nohayonline:247d174f46b0667dca24
-# source_url: https://www.nohayonline.com/details_content.php?id=1827
-# raw_sha256: 5d04c79569b10e33c13975e1e22a3137b3019b23b0f002a6e4a91ea28f46769c
 ---
 
 روضے پہ نبی کے آ کے

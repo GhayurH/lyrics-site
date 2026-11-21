@@ -57,9 +57,6 @@ romanLyrics: |-
   Ae Zafar ro ke Zainab ne us dam kaha
   Mere maa jaaye gar ho ijaazat teri
   Jaayeṅ ab ham watan alwida alwida
-# source_id: nohayonline:d33ef44bf0c2af9ef822
-# source_url: https://www.nohayonline.com/details_content.php?id=774
-# raw_sha256: 105628fbadfc241c10054ad8016bacc89b927c53c5c9ea0273a36d151d4cdb40
 ---
 قید ہوکر چلے تو یہ بولے حرم
 لاشِ شاہِ زمن الوداع الوداع

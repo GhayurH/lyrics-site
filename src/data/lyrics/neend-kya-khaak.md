@@ -55,9 +55,6 @@ romanLyrics: |-
   Kaise Farhan ye rudaad likhega Mazhar
   Baap se kehti thi maqtal meiṅ Sakina ro kar
   Baat ye mujhko jagaayegi Baba
-# source_id: nohayonline:66b5f58542d7ec5dad72
-# source_url: https://www.nohayonline.com/details_content.php?id=2766
-# raw_sha256: 8e4f321347384f5013232f66e631ac3641c2a1a6f80109f40f708bb4e7c937ba
 ---
 شام کے گھپ اَندھیرے میں سکینہ کی فغاں تھی
 

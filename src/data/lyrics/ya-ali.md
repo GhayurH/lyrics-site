@@ -83,9 +83,6 @@ romanLyrics: |-
   Maiṅ chala su-e-Kirdigaar
   Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
   Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
-# source_id: nohayonline:c49d1ace45f2ed5faacb
-# source_url: https://www.nohayonline.com/details_content.php?id=432
-# raw_sha256: e53d08abefafb41f98e3a05dfb3afe0f42c931f190b00686820d5e7cb6aa602a
 ---
 شبِ ضربت ماہِ رمضان
 علی کا یہ کہنا ہے

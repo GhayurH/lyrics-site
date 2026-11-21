@@ -60,9 +60,6 @@ romanLyrics: |-
   Shaah-e-Diṅ ke aazaar Aamir ayaaṅ the
   Kumail us ghari Shah ke aaṅsu rawaaṅ the
   Ke Sarwar se kahti thi jab Bint-e-Sarwar
-# source_id: nohayonline:2581f4555a674c22291c
-# source_url: https://www.nohayonline.com/details_content.php?id=1783
-# raw_sha256: f5f07298282401a33b59d6ed7dae2300d59a9500f43c249b14cb8ec2332761a4
 ---
 یہ کہتی تھی بالی سکینہ تڑپ کر
 ادھر بے زباں کو نہ لے جاؤ بابا

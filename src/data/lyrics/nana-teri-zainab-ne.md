@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Saughaat-e-safar nana pardes se hum qaidi
   Ye nil rasan ke haiṅ jo shaanoṅ pe laaye haiṅ
-# source_id: nohayonline:4dd3330d44365b460b46
-# source_url: https://www.nohayonline.com/details_content.php?id=612
-# raw_sha256: 273184b28f517a9b7622d2176333e6e2214a9613977456b57e1fb28f41bc1635
 ---
 نانا تیری زینب نے وہ درد اُٹھائے ہیں
 ظالم کا ظلم دیکھا آنسو نکل آئے ہیں

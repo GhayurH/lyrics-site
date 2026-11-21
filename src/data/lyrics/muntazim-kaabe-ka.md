@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Chauṅk uthti thi Sakina naam sun kar Shaah ka
   Jab kabhi roti thi Zainab apne bhaai ke liye
-# source_id: nohayonline:96c274868c80b3b1c926
-# source_url: https://www.nohayonline.com/details_content.php?id=1245
-# raw_sha256: 1340104cd056d55ed464a08d0b3c1983f90a126938d762a565287a82e2cff6e1
 ---
 
 منتظم کعبے کا آ پہنچا صفائی کے لئے

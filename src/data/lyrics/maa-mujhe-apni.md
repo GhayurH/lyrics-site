@@ -74,15 +74,12 @@ romanLyrics: |-
   Maa ki ye aawaaz thi bas Sarwar o Rehaan
   Haath ho aazaad to armaan nikaale
   Sine se laga le
-# source_id: nohayonline:db6b9755128d2b56ae97
-# source_url: https://www.nohayonline.com/details_content.php?id=3312
-# raw_sha256: c0b90e0eb2d334995e92504475983cfdeb2ea14d9da74503e2b59f82a4fcfe71
 ---
 نیزے سے اصغر کو نظر آئی جو مادر
 دیکھا کھلا سر ہے پریشان ہے مضطر
 رونے لگے کہنے لگے تب علی اصغر
 
-ماں تجھے اپنے سینے سے لگا لے
+ماں مجھے اپنے سینے سے لگا لے
 ماں مجھے اپنی گودی میں چھپالے
 ماں میں نیزے پہ ہوں
 

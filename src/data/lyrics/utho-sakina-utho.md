@@ -1,10 +1,10 @@
 ---
-title: اُٹھّو سکینہ اُٹھّو جاتا ہے کارواں
-alternateTitle: Utho Sakina Utho
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اُٹھّو سکینہ اُٹھّو جاتا ہے کارواں"
+alternateTitle: "Utho Sakina Utho"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Irfan"
 reciter: "Nasir Zaidi"
 tags: []
@@ -48,12 +48,6 @@ romanLyrics: |-
   Irfan gham-e-Sakina hai dukh bhari kahaani
   Ye dukh bhari kahaani Nasir ki hai zabaani
   Maiṅ sochta huṅ ab bhi kaise karuṅ bayaaṅ
-# source_id: nohayonline:dc79001bd5ec0eeb3b3d
-# source_url: https://www.nohayonline.com/details_content.php?id=117
-# raw_sha256: 3b453f7a71892743cf304a773211c2236c4dcf03b1ead25e71e61886e04588b5
-# source_id: ziyaraat:1a26af1dcb4e27c2d545
-# source_url: https://www.ziyaraat.net/api/noha/1588
-# raw_sha256: 58ddb242849647bfcb495657379685c5af5c58bdff75cbb7096561b5b4617c3f
 ---
 اُٹھّو سکینہ اُٹھّو جاتا ہے کارواں
 تیرے بغیر جانے کیسے جیئے گی ماں
@@ -81,7 +75,7 @@ romanLyrics: |-
 ۵
 میں اِس گھڑی سے پہلے اے کاش مر ہی جاؤں
 کس کس کو کیا بتاؤں کس کس سے منہ چھپاؤں
-پوچھیں گی مجھ سے آکر جب ساری بی‌بیاں
+پوچھیں گی مجھ سے آکر جب ساری بیبیاں
 
 ۶
 دل غم سے ہے دو پارہ ہمیں شامیوں نے مارا

@@ -24,9 +24,6 @@ romanLyrics: |-
   3
   Halq-e-Asghar meiṅ tir se pehlu
   Baanu ke mah laqaa ka maatam hai
-# source_id: nohayonline:62350bfa8f311039e56c
-# source_url: https://www.nohayonline.com/details_content.php?id=259
-# raw_sha256: 6272c877618336a597d733e365717d301c32ecb476e331b5bb6c1614e871fe88
 ---
 شاہ کے دلربا کا ماتم ہے
 عکس خیر الوارا کا ماتم ہے

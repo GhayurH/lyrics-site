@@ -58,9 +58,6 @@ romanLyrics: |-
   Ghar jaane ka armaaṅ tha Sakina ko jo Rehaan
   Mar ke bhi na pura hua us bachchi ka armaan
   Maasum Sakina ka marqad bana zindaan
-# source_id: nohayonline:a7c70d56459b19fff725
-# source_url: https://www.nohayonline.com/details_content.php?id=119
-# raw_sha256: 0591bfe83b462aa88a02509d0f81a5098fa0e295900081654ef00c28ecb7b920
 ---
 میت ہے سکینہ کی اندھیرا ہائے زندان
 اللہ نہ دِکھلائے اب ایسا زندان

@@ -42,9 +42,6 @@ romanLyrics: |-
   6
   Mashk-e-Sakina ka ab se Abbas sahaara hai
   Pyaasoṅ ki har aas ka Abbas sahaara hai
-# source_id: nohayonline:63b096308c902a446c82
-# source_url: https://www.nohayonline.com/details_content.php?id=955
-# raw_sha256: 1cc4d8bd35dd72de2c2771b3fff282239c8b525b3d48843042e824b1d5b2e907
 ---
 
 سرور کی شہادت کا انداز نرالہ ہے

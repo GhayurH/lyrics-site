@@ -58,9 +58,6 @@ romanLyrics: |-
   Wo qabr meiṅ to Takallum hai ik zamaane se
   Magar sadaaeiṅ ye aati hai qaid khaane se
   Mera rasan meiṅ gala hai bandha hua Baba
-# source_id: nohayonline:ae94bce19feb85eadbaf
-# source_url: https://www.nohayonline.com/details_content.php?id=2409
-# raw_sha256: 4e55f9e54a049f265f1b21fd8bfab74245d726a70c2a06f524f7de93d6aad22b
 ---
 رلا رلا کے تجھے قتل کر دیا بابا
 تیری سکینہ کو یہ درد کھا گیا بابا

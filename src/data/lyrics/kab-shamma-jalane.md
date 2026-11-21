@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Betoṅ ke janaazoṅ par Akbar Akbar ke liye jo roti hai
   Kab ujri hui un maaoṅ ko insaaf dilaane aaoge
-# source_id: nohayonline:cb94a77d2560628d0951
-# source_url: https://www.nohayonline.com/details_content.php?id=306
-# raw_sha256: d8c92f1739d49f50773fbf2d76331a7ed9b337e2b5fc9abbe514e5b31c7c90c8
 ---
 
 اے منتقم کب آؤ گے اے منتظر کب آؤ گے

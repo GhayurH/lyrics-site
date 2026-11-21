@@ -76,9 +76,6 @@ romanLyrics: |-
   Tu nahiṅ to zindagi meiṅ kya hai
   Koi nahiṅ dasht meiṅ ghamkhwaar
   Qatl alamdar ho gaya hai
-# source_id: nohayonline:b59e1c70c06102bfdd3d
-# source_url: https://www.nohayonline.com/details_content.php?id=970
-# raw_sha256: d21a56c5855163fbb04691adb3cd47ce3c663f3a494b28e129cc918d3e637dc9
 ---
 کہتی تھی یہ زینب لاچار
 قتل علمدار ہوگیا ہے
@@ -86,7 +83,7 @@ romanLyrics: |-
 قتل علمدار ہوگیا ہے
 
 ۱
-بین کرو بی‌بیوں ہائے علمدارِ شاہ
+بین کرو بیبیوں ہائے علمدارِ شاہ
 زیرِ علم یہ کہو ہائے علمدارِ شاہ
 بھائی کے لبوں پہ یہ بکا ہے
 زندگی اب ہوگئی دشوار

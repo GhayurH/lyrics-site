@@ -52,9 +52,6 @@ romanLyrics: |-
   Bain ye Farhan o Mazhar Zainab-e-dilgir ka
   Sun ke har laasha jafa ke dasht meiṅ tharra gaya
   Waasta logoṅ Nabi ka qaafila roko abhi
-# source_id: nohayonline:8843f9a071dbbedf1de3
-# source_url: https://www.nohayonline.com/details_content.php?id=1120
-# raw_sha256: d674fbe20a16a2cec7751bc761be85987e1cdfa0ba32e9be3f4d2225acc7ce2e
 ---
 آ گیا بازارِ شام
 

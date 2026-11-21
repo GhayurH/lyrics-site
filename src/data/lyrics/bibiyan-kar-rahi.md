@@ -1,5 +1,5 @@
 ---
-title: "بی‌بیاں کر رہی ہے یہ نوحہ"
+title: "بیبیاں کر رہی ہے یہ نوحہ"
 alternateTitle: "Bibiyaṅ Kar Rahi"
 language: "Urdu"
 lang: "ur"
@@ -49,12 +49,9 @@ romanLyrics: |-
   Kar salaam shahidoṅ ko Mahshar
   Sabr o isaar ke the jo paikar
   Hai unhiṅ ke liye mera nauha
-# source_id: nohayonline:1f6e692dffa6d5f6affe
-# source_url: https://www.nohayonline.com/details_content.php?id=3451
-# raw_sha256: 41bec0750bc55ee29138c4963dad3e5f4c5ac5240208ead3050038075f77ee69
 ---
 
-بی‌بیاں کر رہی ہے یہ نوحہ
+بیبیاں کر رہی ہے یہ نوحہ
 ہائے اکبر ہائے قاسم ہائے اصغر
 
 ۱

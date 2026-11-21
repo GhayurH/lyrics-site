@@ -12,9 +12,15 @@ published: true
 romanLyrics: |-
   Musafir Karbala wala
 
+  Dil-e-Zehra, Ali wala, Nabi wala
+  Musafir Karbala wala
+  Sakhi data, mera Maula, mera Aaqa
+  Musafir Karbala wala
+  Chala tanha, liye kunba, alam lekar, Khuda wala
+  Musafir Karbala wala
+
   Hua pamal jis tarha, na ho pamal koi mola
   (Musafir, Karbala wala musafir)
-
 
   Jinwaiṅ ujra hai karbal which, Inwaiṅ ujre na koi shala
   (Musafir, Karbala wala musafir)
@@ -51,7 +57,7 @@ romanLyrics: |-
 
   6
   Jera sarwar da chain haai, (Musafir karbala wala)
-  Tae naa jainda husain haai, (Musafir karbala wala)
+  Te naa jainda husain haai, (Musafir karbala wala)
   Ukuṅ zibha kiya ummat, Nasab jainda hai aala
   (Musafir, Karbala wala musafir)
 
@@ -82,6 +88,13 @@ romanLyrics: |-
 
 مسافر کربلا والا
 
+دل زہرا، علی والا، نبی والا
+مسافر کربلا والا
+سخی داتا، میرا مولا، میرا آقا
+مسافر کربلا والا
+چلا تنہا، لیے کنبہ، علم لے کر، خدا والا
+مسافر کربلا والا
+
 ہوا پامال جس طرح، نہ ہو پامال کوئی مولا
 مسافر کربلا والا، مسافر کربلا والا
 
@@ -97,7 +110,7 @@ romanLyrics: |-
 ۲
 لُٹا اِیوَیں ہے جنگل وچ، مسافر کربلا والا
 تِھیا پامال مقتل وچ، مسافر کربلا والا
-ہے نازاں نال بہوں اَوکھا، جِنُون زہراؑ نے ھَئی پالا
+ہے نازاں نال بہوں اَوکھا، جِنُون زہراؑ نے ہے پالا
 (مسافر, کربلا والا مسافر)
 
 ۳
@@ -126,7 +139,7 @@ romanLyrics: |-
 
 ۷
 چُھپا تیروں کے اندر تھا، مسافر کربلا والا
-بہن نے دور سے دیکھا تھا، مسافر کربلا والا
+بہن نے دور سے دیکھا، مسافر کربلا والا
 نجف کی شاہزادی نے، ہماری آقازادی نے
 کہا مارا گیا بھیا (مسافر, کربلا والا مسافر)
 

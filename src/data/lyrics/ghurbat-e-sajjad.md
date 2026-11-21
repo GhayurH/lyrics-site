@@ -58,9 +58,6 @@ romanLyrics: |-
   Sajjad pe tha sab se bara waqt-e-musibat
   Pardes se Yasrab jo nahiṅ laaya behan ko
   Zindaaṅ ki taariki meiṅ dafnaaya behan ko
-# source_id: tajpoints:85ce8a1280a0a42241af
-# source_url: https://tajpoints.com/2024/07/ghurbat-e-sajjad-saleem-mastan.html
-# raw_sha256: 09a1d8e60ad3348bdd9ab805d019754c82d6703afb63d70c4b2ab007971cf98b
 ---
 ۱
 کیسے ہو بیاں عابدِ بیمار کی غربت
@@ -105,7 +102,7 @@ romanLyrics: |-
 ۶
 اک بی‌بی نے صغریٰ سے بیاں کی یہ روایت
 غربت بھی بکا کرتی تھی ایسی تھی وہ غربت
-سب بی‌بیاں روتی تھیں کہ آئی تھی قیامت
+سب بیبیاں روتی تھیں کہ آئی تھی قیامت
 سجاد پہ تھا سب سے بڑا وقتِ مصیبت
 پردیس سے یثرب جو نہیں لایا بہن کو
 زنداں کی تاریکی میں دفنایا بہن کو

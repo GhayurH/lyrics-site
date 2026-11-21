@@ -61,9 +61,6 @@ romanLyrics: |-
   Dono hi bhai husn se barh kar hasiṅ haiṅ
   Karte ye hamle Haider-e-Karraar ki tarah
   Larte to ye bhi larte Alamdaar ki tarah
-# source_id: tajpoints:01e22b3f2921a6daac21
-# source_url: https://tajpoints.com/2024/02/tiflan-e-muslim-sajjad-o-mesum-zaidi.html
-# raw_sha256: 91f82b799a40e7ebc98363a30c71760b5a4361074153fc354dcbf8d6dcc60833
 ---
 مسلم کے دونوں لال نواسے علی کے ہیں
 

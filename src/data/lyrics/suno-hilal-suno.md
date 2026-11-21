@@ -99,9 +99,6 @@ romanLyrics: |-
   Hilal aao tumheiṅ Karbala dikhaate haiṅ
   Suno Hilal suno suno Hilal suno
 
-# source_id: nohayonline:3f79ef2dacc565581b0f
-# source_url: https://www.nohayonline.com/details_content.php?id=1324
-# raw_sha256: aab4063aa531ea09f8e0552cd0d641915a8db348d870af2e1ebe720e2f413536
 ---
 نظر میں لے کے بہتر شہادتوں کا نظام
 ہلال سے شبِ عاشور کہہ رہے ہیں امام

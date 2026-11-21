@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Mahshar ka khauf un ko hai hum ko nahiṅ Ghulam
   Hum ko nasib hogi shafaat Husain ki
-# source_id: nohayonline:a5ece2865283594665e2
-# source_url: https://www.nohayonline.com/details_content.php?id=831
-# raw_sha256: ca7be5452b4e9858f1d824c56d6dd624428e2e3c6c6f416f6db29e9e6b170663
 ---
 اللہ کی رضا ہے محبت حسین کی
 پوچھو رسول پاک سے عظمت حسین کی

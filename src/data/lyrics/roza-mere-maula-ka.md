@@ -72,9 +72,6 @@ romanLyrics: |-
   15
   Iblis o Umayya aur Abbas ki nasloṅ se
   Allah ko lena hai badla mere Maula ka
-# source_id: tajpoints:ce3fe6d3a311e7786e7c
-# source_url: https://tajpoints.com/2023/05/roza-mere-mola-ka-sibt-e-jafar-lyrics.html
-# raw_sha256: a9bb220720f6cdde4cf2fc2e372cacb0a90ee8d98ab7c6e7e9385fc67811b6c8
 ---
 
 مرجع ہے خلائق کا روضہ میرے مولا کا

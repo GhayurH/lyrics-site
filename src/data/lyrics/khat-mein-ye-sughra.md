@@ -9,7 +9,7 @@ poet: "Suroor Lakhnavi"
 tags: []
 aliases: []
 published: true
-reciter: Anj. Grohe Hussain
+reciter: "Anj. Grohe Hussain"
 romanLyrics: |-
   Khat meiṅ ye Sughra ne likha kya hua
   Kiuṅ nahiṅ aate ho bhaiya kya hua
@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Berida Aal-e-Payambar hai Surur
   Tujh ko ae ehsaas-e-dunya kya hua
-# source_id: nohayonline:3fe76e31859a5e48724a
-# source_url: https://www.nohayonline.com/details_content.php?id=3715
-# raw_sha256: f0a373fd61c6950800e993d7986efa68966a2ddf27a4ec04012b30988af9a7b4
 ---
 خط میں یہ صغرا نے لکھا کیا ہوا
 کیوں نہیں آتے ہو بھیا کیا ہوا

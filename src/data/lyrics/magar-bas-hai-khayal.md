@@ -61,9 +61,6 @@ romanLyrics: |-
   Hata kar shama parwaanoṅ se kasb-e-nur kar leṅge
   Sawaad-e-Shaam se haasil charaagh-e-Tur kar leṅge
   Hameṅ bhi dekhna hai aaj in meiṅ kitni taaqat hai
-# source_id: nohayonline:788eb7b5ba30306dd0e6
-# source_url: https://www.nohayonline.com/details_content.php?id=2975
-# raw_sha256: 37afdefed5c053b779227478f1feb12c5e34298a91763020a2b93317574c4808
 ---
 دبے جب ہم نہ اگلوں سے تو ان کی کیا حقیقت ہے
 مگر بس ہے خیال اس کا کہ یہ نانا کی امت ہے

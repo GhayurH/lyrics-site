@@ -43,9 +43,6 @@ romanLyrics: |-
   Husain tere ghamoṅ meiṅ jo rone wale hai
   Teri qasam wo niraali tauqir wale hai
   Gunahgaar ho lekin maiṅ bakhshwaauṅgi
-# source_id: nohayonline:9521e3963d2783aa9536
-# source_url: https://www.nohayonline.com/details_content.php?id=3243
-# raw_sha256: a8afefdd80802d64ea1caa6c420a998cf789a240f98578b73ab900389269a1fe
 ---
 رہائی ہوگی تو تیری قبر پہ آؤں گی
 حسین حال تمہیں شام کا سناؤں گی

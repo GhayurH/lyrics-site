@@ -42,9 +42,6 @@ romanLyrics: |-
   8
   Armaan hai ghaibat se sada aaye ke
   Sibt-e-Jafar zara ashaar sunaane chale aao
-# source_id: tajpoints:ff4e1f0145312abb3fd9
-# source_url: https://tajpoints.com/2019/04/jagay-howay-fitno-ko-solane-chale-aao.html
-# raw_sha256: 868d2a33c537e59af6df31eea6086ca73925028287626ac05991d70089920a47
 ---
 
 ۱

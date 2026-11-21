@@ -88,9 +88,6 @@ romanLyrics: |-
   Sher kehta hua jaa raha hai
   Aaj tak ba Khuda jo kaha wo kiya
   Ham badalte nahiṅ faisla
-# source_id: nohayonline:d13a41c08124db05b10d
-# source_url: https://www.nohayonline.com/details_content.php?id=2263
-# raw_sha256: 920a0e62aebc7ce5ba22451a790992952cc7d3cb77c8c94a59bc38215f35d159
 ---
 میدان میں آیا حیدر کا شیر
 نو لاکھ لشکر کرنے کو زیر

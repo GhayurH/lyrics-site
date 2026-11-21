@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Apni khairaat se bhar dijiye daamaan-e-Bilal
   Daastaaṅ us ne tere gham ki likhi hai Abbas
-# source_id: nohayonline:f6652a590ada8b6d70a3
-# source_url: https://www.nohayonline.com/details_content.php?id=1774
-# raw_sha256: b6cab01176752bae57c540ef0bc17a5a31379fdeccafc09dc97bb782509cdfb3
 ---
 تیرے مرنے سے کمر ٹوٹ گئی ہے عباس
 مرثیہ شاہ کے ہونٹوں پہ یہی ہے عباس

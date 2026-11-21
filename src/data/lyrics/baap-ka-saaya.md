@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Tujhko kahaaṅ kami thi kisi chiz ki Bober
   Jab tak ke raha sar pe tere baap ka saaya
-# source_id: nohayonline:089d158d11bb9570c6d3
-# source_url: https://www.nohayonline.com/details_content.php?id=815
-# raw_sha256: be09c711259979b9e945ba64b2cf02a839762521c6f4764d40456ea99dcbca71
 ---
 کہتی تھی سکینہ نہ اٹھے باپ کا سایہ
 بچوں کے صدا سر پہ رہے باپ کا سایہ

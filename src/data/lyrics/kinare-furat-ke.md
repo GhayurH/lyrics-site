@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Ho jaaye munharif ye zamaana to fikr kya
   Ham Fatima se leṅ ge sile nauha jaat ke
-# source_id: nohayonline:ebe8d19d4fcaf61b7e36
-# source_url: https://www.nohayonline.com/details_content.php?id=2906
-# raw_sha256: 1d921c1770a4da16b67b404b9d6d973ac6f8002b7aedf292e6c2d9e707761ce1
 ---
 کٹ کر گرے تھے کل جو کنارے فرات کے
 وہ ہاتھ آسرا ہیں ہماری نجات کے

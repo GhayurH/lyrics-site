@@ -43,9 +43,6 @@ romanLyrics: |-
   Wo waqt Takallum tha ajab bint-e-Ali par
   Kehne lage Maula jo naqaab apni utha kar
   Maiṅ baap huṅ Zainab mujhe pehchaan meri jaaṅ
-# source_id: nohayonline:6f1c7ff98245cade03ac
-# source_url: https://www.nohayonline.com/details_content.php?id=994
-# raw_sha256: 5efb3bf81a66d6dab08b8787b596e548c1d7f928a89b8fea501d49bb78593fe3
 ---
 سادات ہے پردیس ہے اور شام غریباں
 کیا وقت ہے غازی نہیں زینب ہے نگہباں

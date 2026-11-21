@@ -1,0 +1,65 @@
+---
+title: "فرس کی زین سے بیشک اتر گئے ہیں حسینؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Hasnain Akbar"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Faras ki zin se beshak utar gaye haiṅ Husain
+
+  1
+  Zamin dhund rahi hai kidhar gaye haiṅ Husain
+  Karega Shimr ka khanjar to sirf sar ko juda
+  Wagarna laasha-e-Akbar pe mar gaye haiṅ Husain
+
+  2
+  Sar-e-burida kate hont khun chehre par
+  Ajib haal meiṅ Shiriṅ ke ghar gaye haiṅ Husain
+
+  3
+  Maiṅ milne Shaam ke zindaan meiṅ aauṅga tujh se
+  Yeh baat aakhri beti se kar gaye haiṅ Husain
+
+  4
+  Kahiṅ haiṅ Qaasim o Abbaas aur kahiṅ Akbar
+  Kahaaṅ kahaaṅ tere tukre bikhar gaye haiṅ Husain
+
+  5
+  Qaza ke baad bhi bhaai bahan ke saath raha
+  Jidhar jidhar gai Zainab udhar gaye haiṅ Husain
+
+  6
+  Kisi ne maara hai patthar bahan ke kya Akbar
+  Jo karte karte tilaawat thahar gaye haiṅ Husain
+---
+
+فرس کی زین سے بے شک اُترگئے ہیں حسین
+
+۱
+زمین ڈھونڈ رہی ہے کدھر گئے ہیں حسین
+کرے گا شمر کا خنجر تو صرف سر کو جُدا
+وگرنہ لاشہِ اکبر پہ مر گئے ہیں حُسین
+
+۲
+سرِ بُریدہ کٹے ہونٹ خون چہرے پر
+عجیب حال میں شیریں کے گھر گئے ہیں حسین
+
+۳
+میں ملنے شام کے زندان میں آئوں گا تجھ سے
+یہ بات آخری بیٹی سے کر گئے ہیں حسین
+
+۴
+کہیں ہیں قاسم و عباس اور کہیں اکبر
+کہاں کہاں تیرے ٹکڑے بکھر گئے ہیں حسین
+
+۵
+قضائ کے بعد بھی بھائی بہن کے ساتھ رہا
+جدھر جدھر گئی زینب اُدھر گئے ہیں حسین
+
+۶
+کسی نے مارا ہے پتھر بہن کے کیا اکبر
+جو کرتے کرتے تلاوت ٹھہر گئے ہیں حسین

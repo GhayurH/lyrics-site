@@ -81,9 +81,6 @@ romanLyrics: |-
   Aakhri saans meiṅ jab Ali ne kaha
   Sauṅp duṅ haath Ghaazi ko Shabbir ka
   Mere bachchoṅ meri aakhri raat hai
-# source_id: nohayonline:5104ee49508515b094b6
-# source_url: https://www.nohayonline.com/details_content.php?id=2432
-# raw_sha256: c21d66eb12400f35724f1a7b3a8a398c00b39838d3e27255aa2dabd6811966fa
 ---
 وہ زخمی علی اور وہ اکیسویں کی شب
 بچوں سے علی بولے قریب آؤ میرے سب

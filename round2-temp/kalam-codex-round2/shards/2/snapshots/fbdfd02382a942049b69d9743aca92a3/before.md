@@ -1,0 +1,146 @@
+---
+title: "فلک پر چاند نظر آیا محرم کا"
+alternateTitle: "Mohamed Ka Nawasa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mazhar Abidi"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Falak par chaand nazar aaya moharram ka
+  Besaakhta aankhoṅ ne meri khun bahaya
+  Logoṅ ne mujhe rote huwe dekh ke pucha
+  Shehzadi zara ye to bata gham hai ye kaisa
+  Kiuṅ farshe aza aap ne ghar meiṅ hai bichaya
+  Sughra ne kaha ahle madina
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka nawasa
+  Pardes meiṅ mehman hua hai
+  Nana ke madine meiṅ udaasi ka hai matam
+  Hamshakle nabi hai na shehenshaah-e-do aalam
+  Wehshat si barasti hai dar o baam se har dam
+  Baba
+  Jis din se gaye hai mere baba
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Jis din se gaye hai mere baba mere ghar se
+  Ek lamha nahi aisa ke aansu nahi barse
+  Dil mera sakina se mulaqaat ko tarse
+  Dunya
+  Is gham ko samjhti nahi dunya
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Is gham ko samajhti nahi dunya mere nana
+  Sughra pe qayamat hai padar ka chale jaana
+  Dil kehta hai is ghar ko musibat se bachana
+  Allah
+  Tu dekh raha hai mere allah
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Tu dekh raha hai mere allah udaasi
+  Ahmed ka nawasa hai na ahmed ki nawasi
+  Ummat ki nigahoṅ meiṅ nahi sharm zara si
+  Kaaba
+  Is gham meiṅ siyaah posh hai kaaba
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Is gham meiṅ siyaah posh hai kaaba bhi haram bhi
+  Kulsum bhi zainab bhi shehenshaah-e-umam bhi
+  Akbar bhi chacha jaan bhi aur unka alam bhi
+  Sughra
+  Ye dard bataye kise sughra
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Ye dard bataye kise sughra ke hua kya
+  Ghar qabr sa lagta hai na akbar hai na baba
+  Is qabr meiṅ hai fatema sughra ka janaza
+  Sadma
+  Sughra ko rulaata hai ye sadma
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Sughra ko rulaata hai ye sadma ali akbar
+  Ghar waaloṅ ki furqat meiṅ guzar jayegi khwahar
+  Dekhuṅ koi gehwara to yaad aate hai asghar
+  Ab kya
+  Daaman meiṅ mere reh gaya ab kya
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+  Daaman meiṅ mere reh gaya ab kya mere nana
+  Mazhar yehi faryaad kiya karti thi sughra
+  Tum chaaho jo bimar ke zakhmoṅ ka madawa
+  Nauha
+  Irfan suna do yehi nauha
+  Ghar zehra ka veeran hua hai
+  Ae logoṅ mohamed ka...
+---
+
+۱
+فلک پر چاند نظر آیا محرم کا
+بے ساختہ آنکھوں نے میری خون بہایا
+لوگوں نے مجھے روتے ہوے دیکھ کے پوچھا
+شہزادی زرا یہ تو بتا غم ہے یہ کیسا
+کیوں فرش عزا آپ نے گھر میں ہے بچھایا
+صغرا نے کہا اہلِ مدینہ
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا نواسہ
+پردیس میں مہمان ہوا ہے
+نانا کے مدینے میں اداسی کا ہے ماتم
+ہمشکل نبی ہے نہ شہنشاہِ دو عالم
+وحشت سی برستی ہے در و بام سے ہر دم
+بابا
+جس دن سے گےء ہے میرے بابا
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+جس دن سے گےء ہے میرے بابا میرے گھر سے
+اک لمحہ نہیں ایسا کہ آنسوں نہیں برسے
+دل میرا سکینہ سے ملاقات کو ترسے
+دنیا
+اس غم کو سمجھتی نہیں دنیا
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+اس غم کو سمجھتی نہیں دنیا میرے نانا
+صغرا پہ قیامت ہے پدر کا چلے جانا
+دل کہتا ہے اس گھر کو مصیبت سے بچانا
+اللّٰہ
+تو دیکھ رہا ہے میرے اللّٰہ
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+تو دیکھ رہا ہے میرے اللّٰہ اداسی
+احمد کا نواسہ ہے نہ احمد کی نواسی
+امت کی نگاہوں میں نہیں چرم زرا سی
+کعبہ
+اس غم میں سیاہ پوش ہے کعبہ
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+اس غم میں سیاہ پوش ہے کعبہ بھی حرم بھی
+کلثوم بھی زینب بھی شہنشاہِ امم بھی
+اکبر بھی چچا جان بھی اور ان کا علم بھی
+صغرا
+یہ درد بتاے کسے صغرا
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+یہ درد بتاے کسے صغرا کے ہوا کیا
+گھر قبر سا لگتا ہے نہ اکبر ہے نہ بابا
+اس قبر میں ہے فاطمہ صغریٰ کا جنازہ
+صدمہ
+صغرا کو رلاتا ہے یہ صدمہ
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+صغرا کو رلاتا ہے یہ صدمہ علی اکبر
+گھر والوں کی فرقت میں گزر جاے گی خواہر
+دیکھوں کوئی گہوارہ تو یاد آتے ہیں اصغر
+اب کیا
+دامن میں میرے رہ گیا اب کیا
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔
+دامن میں میرے رہ گیا اب کیا میرے نانا
+مظہر یہی فریاد کیا کرتی تھی صغرا
+تم چاہو جو بیمار کے زخموں کا مداوا
+نوحہ
+عرفان سنا دو یہی نوحہ
+گھر زہرا کا ویران ہوا ہے
+اے لوگوں محمد کا۔۔۔

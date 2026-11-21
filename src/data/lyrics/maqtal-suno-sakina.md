@@ -67,9 +67,6 @@ romanLyrics: |-
   Har ek shehr meiṅ maare gaye mujhe patthar
   Maiṅ sidhi ho nahiṅ paayi chali huṅ jhuk jhuk kar
   Hai dard tuti hui pasliyoṅ meiṅ shiddat ka
-# source_id: nohayonline:d7dd94c94f761987c66b
-# source_url: https://www.nohayonline.com/details_content.php?id=3668
-# raw_sha256: b768c585049fbc514afcd9909b65b63c1f65851361b1d36e95e65ca631dccf27
 ---
 سر حسین سے یہ کہہ رہی ہے ایک دکھیا
 اے بابا جان میرے مقتل سنو سکینہ کا

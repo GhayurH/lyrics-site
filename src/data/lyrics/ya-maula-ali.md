@@ -75,9 +75,6 @@ romanLyrics: |-
   Har shakhs pukaarega ek din
   Ya Maula Ali ya Maula Ali
   Hai meri jaan Ali
-# source_id: nohayonline:ec8839fccd65a37078f1
-# source_url: https://www.nohayonline.com/details_content.php?id=2540
-# raw_sha256: 8e3043d12a4db798cddccd6a26d02dd480835a102faafb272a0a1aa9f4b2461f
 ---
 یا مولا علی یا مولا علی
 میری جان علی ایمان علی

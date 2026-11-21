@@ -48,9 +48,6 @@ romanLyrics: |-
   Ab aur jhelne haiṅ hum ko kitne aakhir gham
   Watan se dur bayaabaan-e-Karbala meiṅ hum
   Luta chuke haiṅ bhara ghar watan chalo ammaṅ
-# source_id: nohayonline:c5987d5a4404f26de621
-# source_url: https://www.nohayonline.com/details_content.php?id=2921
-# raw_sha256: 1a7df971b4e44d350f9d6d7074098f080ee855f1e62749de32ad50fa3dd0bd0a
 ---
 سکینہ کہتی تھی رو کر وطن چلو اماں
 بہت ہے دل میرا مضطر وطن چلو اماں

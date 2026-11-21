@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Azlaan ye masaaib Sajjad ne sune the
   Chaalis saal us ki aaṅkhoṅ se khuṅ baha
-# source_id: nohayonline:df4e38e935d8358228e2
-# source_url: https://www.nohayonline.com/details_content.php?id=3637
-# raw_sha256: 97eef2b70c0f49ef4e172d4615fe262caa7f5959a2bf2a91b4c5d6098b8e94bb
 ---
 تو بے کفن ہے بابا اور میں ہوں بے ردا
 نیزے پہ سر تمہارا رسن میں میرا گلا

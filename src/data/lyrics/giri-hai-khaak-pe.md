@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Na kiuṅ jhukaaye tere dar pe sar ko Nur Ali
   Ke tujh ko maaṅ kahe Zehra ke laal ae Fizza
-# source_id: nohayonline:18622e61ee64f369813d
-# source_url: https://www.nohayonline.com/details_content.php?id=884
-# raw_sha256: 7f028e40154615ae56437953c574a7e8b49f8d56cdfcaa6dcfeac04dec29505b
 ---
 گری ہے خاک پہ زینب سنبھال اے فضہ
 علی کی بیٹی کا صدقہ نکال اے فضہ

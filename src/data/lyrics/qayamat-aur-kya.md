@@ -1,10 +1,10 @@
 ---
-title: کیا قیامت سے یہ کم ہے
-alternateTitle: Qayamat Aur Kya
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیا قیامت سے یہ کم ہے"
+alternateTitle: "Qayamat Aur Kya"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
 tags: []
@@ -63,12 +63,6 @@ romanLyrics: |-
   Mere mazlum ki majlis
   Takallum hashr meiṅ ho gi
   Qayaamat aur kya ho gi
-# source_id: nohayonline:55fbe35d02ad6af4e65b
-# source_url: https://www.nohayonline.com/details_content.php?id=478
-# raw_sha256: 56241ec5a2b43aea4b32e9666c412003cfdfaf0be984b99025cabe93bc49fd32
-# source_id: ziyaraat:3501c0a0f9c96fb98a15
-# source_url: https://www.ziyaraat.net/api/noha/2078
-# raw_sha256: 784c33c62b94629602df664621cfafb46be495e65822bc71f2b360f0b7a9f396
 ---
 واویلا صد واویلا
 کیا قیامت سے یہ کم ہے

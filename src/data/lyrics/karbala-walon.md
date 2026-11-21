@@ -9,7 +9,7 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: true
-reciter: Mir Hasan Mir
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Karbala waloṅ
   Tumhaara gham rahe zinda hamesha Karbala waloṅ
@@ -24,39 +24,40 @@ romanLyrics: |-
   Tumhaara ho gaya saara zamaana Karbala waloṅ
 
   3
+  Ae chaand Karbala ke tu ne to dekhe hoṅge
+  Utre the is zamiṅ par arsh-e-bariṅ ke taare
+
+  4
   Hum apne marne waloṅ ka bhi gham karte nahiṅ is meiṅ
   Moharram hai tumhaara aur rahega Karbala waloṅ
 
-  4
+  5
   Imaam-e-Asr se keh do kisi surat chale aaye
   Sakina Shaam meiṅ ab tak hai tanha Karbala waloṅ
 
-  5
+  6
   Khuda par baat aa jaaye to sar pyaara nahiṅ karte
   Sikhaaya tum ne ye sab ko saliqa Karbala waloṅ
 
-  6
+  7
   Tumhaare naam ki majlis har ek shaadi meiṅ hoti hai
   Khushi meiṅ bhi tumhaara gham hai taaza Karbala waloṅ
 
-  7
+  8
   Tumhaara marte dam tak rasta takti rahi Sughra
   Madine tum nahiṅ aaye dobaara Karbala waloṅ
 
-  8
+  9
   Na jaane kitne din karti rahi hai dhup sehra ki
   Tumhaare bekafan laashoṅ pe saaya Karbala waloṅ
 
-  9
+  10
   Ali ki betiyoṅ ke saath patthar tum ne khaaye haiṅ
   Gaye nezoṅ pe tum Shaam o Kufa Karbala waloṅ
 
-  10
+  11
   Kahiṅ paani pilaane par Takallum ko bhi rakh lena
   Jahaaṅ meiṅ aao ge jab tum dobaara Karbala waloṅ
-# source_id: nohayonline:d1e486471d174ac9c72b
-# source_url: https://www.nohayonline.com/details_content.php?id=2735
-# raw_sha256: 6a142293bdebbcd0031f3741160c5a9e081787390dd7665f21b228628753e595
 ---
 کربلا والوں
 تمہارا غم رہے زندہ ہمیشہ کربلا والوں
@@ -71,33 +72,37 @@ romanLyrics: |-
 تمہارا ہو گیا سارا زمانہ کربلا والوں
 
 ۳
+اے چاند کربلا کے تو نے تو دیکھے ہوں گے
+اترے تھے اس زمیں پر عرشِ بریں کے تارے
+
+۴
 ہم اپنے مرنے والوں کا بھی غم کرتے نہیں اس میں
 محرم ہے تمہارا اور رہے گا کربلا والوں
 
-۴
+۵
 امام عصر سے کہہ دو کسی صورت چلے آئے
 سکینہ شام میں اب تک ہے تنہا کربلا والوں
 
-۵
+۶
 خدا پر بات آ جائے تو سر پیارا نہیں کرتے
 سکھایا تم نے یہ سب کو سلیقہ کربلا والوں
 
-۶
+۷
 تمہارے نام کی مجلس ہر ایک شادی میں ہوتی ہے
 خوشی میں بھی تمہارا غم ہے تازہ کربلا والوں
 
-۷
+۸
 تمہارا مرتے دم تک رستہ تکتی رہی صغرا
 مدینے تم نہیں آئے دوبارہ کربلا والوں
 
-۸
+۹
 نہ جانے کتنے دن کرتی رہی ہے دھوپ صحرا کی
 تمہارے بیکفن لاشوں پہ سایہ کربلا والوں
 
-۹
+۱۰
 علی کی بیٹیوں کے ساتھ پتھر تم نے کھائے ہیں
 گئے نیزوں پہ تم شام و کوفہ کربلا والوں
 
-۱۰
+۱۱
 کہیں پانی پلانے پر تکلم کو بھی رکھ لینا
 جہاں میں آؤ گے جب تم دوبارہ کربلا والوں

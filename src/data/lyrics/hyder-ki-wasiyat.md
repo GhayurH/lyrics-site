@@ -53,9 +53,6 @@ romanLyrics: |-
   Aakhir meiṅ kiya Yasir Maula ne ada kalma
   Muslim meri beti ki khaatir hai mera lahja
   Raahoṅ meiṅ bina chaadar khutbaat sunaane ko
-# source_id: nohayonline:9e1e26acf1358256a61f
-# source_url: https://www.nohayonline.com/details_content.php?id=1684
-# raw_sha256: f2928557f6b16ea0d7ef58da115d35726db8dbaa3ec52c842478f02cfd01f789
 ---
 حیدر کی وصیّت ہے یہ سارے زمانے کو
 زینب کو نہیں آئے کوئی بھی رلانے کو

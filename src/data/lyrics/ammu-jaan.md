@@ -86,9 +86,6 @@ romanLyrics: |-
   Parh kar kalma Ahmad ka
   Fatima Zehra jannat se aa
   Laashe par hai nauha kunaaṅ
-# source_id: nohayonline:23a280fa99e131c52af6
-# source_url: https://www.nohayonline.com/details_content.php?id=833
-# raw_sha256: 717979eb4cf2c4118eb2e1aafad3fd23006e46aa0a7dc1cbc55aa1e6a60a7fa8
 ---
 
 عموجان عمو جان
@@ -132,7 +129,7 @@ romanLyrics: |-
 بے کس اٹھو بے بس اٹھو
 گھیرے ہیں خیموں کو ناری
 ہاے خاری دکھیاری
-بی‌بیاں کرتے ہیں زاری
+بیبیاں کرتے ہیں زاری
 ماہ منور فدیہء داور
 نیند سے جاگو او نالان
 

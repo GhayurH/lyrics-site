@@ -1,10 +1,10 @@
 ---
-title: مولا غمزدہ ناتواں سارباں
-alternateTitle: Saarbaan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مولا غمزدہ ناتواں سارباں"
+alternateTitle: "Saarbaaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
@@ -77,19 +77,13 @@ romanLyrics: |-
   Nauhe meiṅ ho gaya ye bayaaṅ
   Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
-# source_id: nohayonline:966ad8d15c0d5e44fbed
-# source_url: https://www.nohayonline.com/details_content.php?id=2058
-# raw_sha256: a023069f67bccfec7c1e5347bec8f013df9e4a1c7018f467fe145d788b7496f7
-# source_id: ziyaraat:d36b18ebc8ae1f4469c5
-# source_url: https://www.ziyaraat.net/api/noha/411
-# raw_sha256: dd56190bc8ee163519111fdc7d68c74b48bd76adfffc1e614235d9dd441fe949
 ---
 سارباں سارباں
 مولا غمزدہ ناتواں سارباں
 
 ۱
 واپس مدینے آ گیا لو کارواں اجڑا ہوا
-اجڑی تھی ساری بی‌بیاں سجاد کا نوحہ یہ تھا
+اجڑی تھی ساری بیبیاں سجاد کا نوحہ یہ تھا
 روئیں گے طوق و بیڑیاں
 وہ شام اور میں الامان
 ایسا بنا میں سارباں

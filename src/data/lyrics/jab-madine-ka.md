@@ -29,9 +29,6 @@ romanLyrics: |-
   4
   Faiz-e-Maula se abhi sabr ki taaqat hai Amir
   Jo kari saamne aati hai utha jaata huṅ
-# source_id: nohayonline:420c27e26f399eb49805
-# source_url: https://www.nohayonline.com/details_content.php?id=2072
-# raw_sha256: b0f04810f5a5c7fb7cdd377f163922ffb4e479aeafc8fef83b36cd4c3fb5ea05
 ---
 
 جب مدینے کا مسافر کوئی پا جاتا ہوں

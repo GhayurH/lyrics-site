@@ -73,9 +73,6 @@ romanLyrics: |-
   Is se tu kar le andaza
   Pani pieṅ Farhan o Mazhar
   Pyasoṅ pe kar ke Fatiha khwani
-# source_id: nohayonline:a07998e5192141e7e0db
-# source_url: https://www.nohayonline.com/details_content.php?id=2369
-# raw_sha256: 8dc0b2efa4dba2d0c4f0dad035fbfd478b399aa16ccd51efa93fd5a6cef187e5
 ---
 آسمان برسا دے پانی
 پانی برسا دے آسمان

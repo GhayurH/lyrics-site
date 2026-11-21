@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Maiṅ Uruj chhor to duṅ ye Rasul ka gharaana
   Par shafi-e-roz-e-mahshar koi aur ho to laao
-# source_id: nohayonline:5f19c8621b20f3a12dd3
-# source_url: https://www.nohayonline.com/details_content.php?id=3464
-# raw_sha256: e4b2d3d67b970380cd8debf2906048cde2cbffd913baf576a5d583dcd313be3e
 ---
 دل و جانِ میرِ کوثر کوئی اور ہو تو لاؤ
 کہ حسین ابنِ حیدر کوئی اور ہو تو لاؤ

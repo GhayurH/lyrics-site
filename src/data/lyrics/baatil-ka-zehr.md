@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Gulshan ke phul dekh kar murjha gaye Uruj
   Lipte jo khaar Hazrat-e-Aabid ke paaoṅ meiṅ
-# source_id: nohayonline:df00b4dcab8597b398e8
-# source_url: https://www.nohayonline.com/details_content.php?id=628
-# raw_sha256: e29929770eb15e90df742ccefee204edcad13bc2028457fdc880ef42a23406ad
 ---
 باطل کا زہر پھیل رہا ہے ہوائوں میں
 رہیئے ولائے آلِ محمد کی چھائوں میں

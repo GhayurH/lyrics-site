@@ -1,10 +1,10 @@
 ---
-title: ہائے زینب رو رہی ہے کربلا خاموش ہے
-alternateTitle: Haye Zainab Ro Rahi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے زینب رو رہی ہے کربلا خاموش ہے"
+alternateTitle: "Haye Zainab Ro Rahi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []
@@ -49,12 +49,6 @@ romanLyrics: |-
   8
   Hai qalam ki nok meiṅ aansu gham-e-Shabbir ke
   Arsh pe Rehaan Shah-e-Ambiya khaamosh hai
-# source_id: nohayonline:b40d46ac71ada33f2bca
-# source_url: https://www.nohayonline.com/details_content.php?id=593
-# raw_sha256: 98bcce6d23a238f2c3890c4dc9a84d86faf80f2d73974e3dc1633e3dbec4cbf4
-# source_id: ziyaraat:0bd7b91e24021b9eccbd
-# source_url: https://www.ziyaraat.net/api/noha/311
-# raw_sha256: f9b28463805afae7cf79801c5f893a8b87b08157626abd1b952cb9a85c062a39
 ---
 
 ہائے زینب رو رہی ہے کربلا خاموش ہے

@@ -11,6 +11,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Bistar se thar thara ke uthiṅ thaam ke asa
+  Qabr-e-Nabi pe faatiha-e-aakhiri parha
+  Hamsaayoṅ ke ghar gayiṅ rukhsat ko aur kaha
+  Lo saahibo bahaal karo ab kaun hai mera
+  Iza thi tum sabhoṅ ko mere shor o shain se
+  Kal Fatima na hogi tum sona chain se
+
+  Naagaah shor utha ke Zehra guzar gayiṅ
+  Amaama sar se phenk ke roye Imam-e-Diṅ
+  Roti thiṅ mil ke Zainab o Kulsum bhi qarib
+  Aur dur the Husain jo aate na the qarib
+  Fizza pukaariṅ aap yahaaṅ kya na aaeṅge
+  Bole Husain amma pukaareṅ to jaaeṅge
+
   Tute band kafan Fatema ke
   Aur phir haath nikle kafan se
   Aayi aawaaz aa Ae Husain
@@ -66,10 +80,21 @@ romanLyrics: |-
   Apne bachche ki gardan pe tegh-e-jafa
   Dekhti hoṅgi Zahra sar-e-Karbala
   Guṅjti hogi dasht-e-bala meiṅ sada
-# source_id: nohayonline:a37b63ba821408dbdb50
-# source_url: https://www.nohayonline.com/details_content.php?id=1990
-# raw_sha256: f6270b0c0a8daf716076968d66ff713385b7e620b4b7640cb5351645ce963423
 ---
+بستر سے تھرتھرا کے اٹھیں تھام کے عصا
+قبرِ نبی پہ فاتحۂ آخری پڑھا
+ہمسایوں کے گھر گئیں رخصت کو اور کہا
+لو صاحبو بحال کرو اب کون ہے میرا
+ایذا تھی تم سبھوں کو میرے شور و شین سے
+کل فاطمہ نہ ہوگی تم سونا چین سے
+
+ناگاہ شور اٹھا کہ زہرا گزر گئیں
+عمامہ سر سے پھینک کے روئے امامِ دیں
+روتی تھیں مل کے زینب و کلثوم بھی قریب
+اور دور تھے حسین جو آتے نہ تھے قریب
+فضہ پکاریں آپ یہاں کیا نہ آئیں گے
+بولے حسین اماں پکاریں تو جائیں گے
+
 ٹوٹے بند کفن فاطمہ کے
 اور پھر ہاتھ نکلے کفن سے
 آئی آواز آ اے حسین

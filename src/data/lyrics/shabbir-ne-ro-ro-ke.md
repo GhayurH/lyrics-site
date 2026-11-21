@@ -43,9 +43,6 @@ romanLyrics: |-
   Yasir kahaa Sarwar ne ke dam tor rahe ho
   Muṅh mor rahe ho
   Hum jaan gaye tera ishaara Ali Akbar
-# source_id: nohayonline:09b307e3ab7993178eda
-# source_url: https://www.nohayonline.com/details_content.php?id=2115
-# raw_sha256: 0154add4072a28a83f271c53988746c22db19c280ea2d2ae74169482ca64641d
 ---
 شبیر نے رو رو کے پکارا علی اکبر
 یوں چھوڑ کے نہ جاؤ خدارا علی اکبر

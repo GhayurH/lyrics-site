@@ -36,9 +36,6 @@ romanLyrics: |-
   5
   Ae Amir is din ki khaatir bala ke dasht meiṅ
   Kar diye qurbaan bete khun baru Shabbir ne
-# source_id: nohayonline:4946e9cbb1b09a7d7b7f
-# source_url: https://www.nohayonline.com/details_content.php?id=3364
-# raw_sha256: 767d5a4292ec822e3df3a7300ae69b77700212f431d2b01fdcbc487428cc01ec
 ---
 یا حسین السلام
 السلام یا حسین

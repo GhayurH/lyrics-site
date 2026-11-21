@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Naize se baraabar thi Zainab pe nazar Ishrat
   Jab chhini gayi chaadar Shabbir bahot roye
-# source_id: nohayonline:4aab34969b9a38e00457
-# source_url: https://www.nohayonline.com/details_content.php?id=2211
-# raw_sha256: 53024f77b7b7444c8cbf24344480d3a69a9c59788370e9ffc0351ec748fa9f2f
 ---
 اکبر کے جنازے پر شبیر بہت روئے
 جب قتل ہوئے اصغر شبیر بہت روئے

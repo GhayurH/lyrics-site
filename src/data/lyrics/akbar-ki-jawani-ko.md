@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Lagta hai Bilaal aaj bhi Shabbir ki beti
   Zindaaṅ se rihaai ki duaa maaṅg rahi hai
-# source_id: nohayonline:7983570d514a6bf9ae90
-# source_url: https://www.nohayonline.com/details_content.php?id=3529
-# raw_sha256: 2296e8273b690f850cf3f7e5301e560830fe8ba2d5fc2170741c1fb88b29c7d4
 ---
 اکبر کی جوانی کو قضا مانگ رہی ہے
 زہرا کے چراغوں کو ہوا مانگ رہی ہے

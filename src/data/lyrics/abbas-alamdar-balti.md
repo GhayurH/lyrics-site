@@ -1,7 +1,7 @@
 ---
 title: "Abbas Alamdar Balti Noha"
 language: "Balti"
-lang: bft
+lang: "bft-Arab"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
@@ -37,9 +37,6 @@ romanLyrics: |-
   Abbas Abbas Alamdar
   Yang zamfana afsos thanging nog
   Abbas Abbas Alamdar
-# source_id: ziyaraat:0fcf6899a55abd3703ce
-# source_url: https://www.ziyaraat.net/api/noha/2701
-# raw_sha256: dc8f421629a84336d44a867241f866969d8ec6e610a29f75631cb86636800f19
 ---
 
 یانگ زمفنا افسوس تھنگینگ نوگ

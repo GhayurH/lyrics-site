@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Jo majlis-e-Sarwar meiṅ karta hai bapa matam
   Leta hai duaeṅ wo Shabbir ki dukhtar se
-# source_id: nohayonline:594543b4b8e05488153e
-# source_url: https://www.nohayonline.com/details_content.php?id=1880
-# raw_sha256: 752f0f04270a0413fd9d32c6158271e200a0142b31deb95f42d31a819caf5d4b
 ---
 
 اے میرے برادر میرے عباس

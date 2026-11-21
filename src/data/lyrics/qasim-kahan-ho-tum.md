@@ -49,9 +49,6 @@ romanLyrics: |-
   Qalam ko chum kar rakh do basad aah o fughaaṅ Aashiq
   Wo dekho aa ke pahunche haiṅ Munawar noha khwaaṅ Aashiq
   Mujhe aawaaz do Qasim jahaaṅ ho tum
-# source_id: nohayonline:e1c79e90090083c7efb7
-# source_url: https://www.nohayonline.com/details_content.php?id=1407
-# raw_sha256: 84a370bcc5b3a5cb5b6c0c94e2c504b63ce0a85dc515cf60238451fc23917b54
 ---
 اے حسن کے لاڈلے قاسم کہاں ہو تم
 قاسم کہاں ہو تم قاسم کہاں ہو تم

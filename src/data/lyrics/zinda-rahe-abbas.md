@@ -103,9 +103,6 @@ romanLyrics: |-
   Zinda rahe zinda rahe Abbas alamdar
   Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
   Alamdar alamdar alamdar alamdar
-# source_id: nohayonline:08c85c7417a0dc942bba
-# source_url: https://www.nohayonline.com/details_content.php?id=2786
-# raw_sha256: 0c1ef4480ee7cc4bb786a8b95194c74bed45d08b1c7c0723b2f5c140b87d2f56
 ---
 جان سکینہ بھی علمدار بھی
 چادر زینب کا نگہدار بھی

@@ -55,9 +55,6 @@ romanLyrics: |-
   Ae Aamir wo laash-e-jari par gayi thi
   Faqat Shams ro ro ke ye keh rahi thi
   Jo guzri hai hum pe wo kya kya bataaeṅ
-# source_id: nohayonline:3d6858ae62734c59eaf1
-# source_url: https://www.nohayonline.com/details_content.php?id=3646
-# raw_sha256: 75033d3ac18c089db73b3d049246a61095355c62e5e6bc966804c6e54ecfef17
 ---
 
 جب اتری سروں سے بھیا ردائیں

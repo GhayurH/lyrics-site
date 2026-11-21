@@ -90,9 +90,6 @@ romanLyrics: |-
   Pehchan dilai Sarwar ne
   Kya shaan barhai Sarwar ne
   Ta hashr yehi hai meri sada
-# source_id: nohayonline:335c2556b7851fda1950
-# source_url: https://www.nohayonline.com/details_content.php?id=2833
-# raw_sha256: 0be1bcb258259fad578a9b17f4be9c9b77e192b7f723c3991e8d2c48d067f399
 ---
 نیزے پہ گئے جب شاہِ امم
 سر پیٹ رہے تھے اہل حرم

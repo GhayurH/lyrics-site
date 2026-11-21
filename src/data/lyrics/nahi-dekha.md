@@ -1,69 +1,80 @@
 ---
-title: "آنکھوں سے رواں اشک کا دریا نہیں دیکھا"
-alternateTitle: "Nahiṅ Dekha"
+title: "کربلا میں کسی گھر کو اُجڑتا نہیں دیکھا"
+alternateTitle: "Nahi Dekha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Taqi Abedi"
-reciter: "Raza Ali Khan"
+poet: "Syed Qasid Abbas"
 tags: []
-aliases: ["Nahi Dekha"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Aankhoṅ se rawaaṅ ashk ka darya nahiṅ dekha
-  Har bachche ne jalta hua khaima nahiṅ dekha
-
   1
-  Yuṅ jit li Abbas ne darya pe laraai
-  Paani pe kahiṅ phir kabhi pehra nahiṅ dekha
+  Karbal may kisi ghar ko ujarta nahi dekha
+  Tarikh ne maana hai ke aisa nahi dekha
+  Asghar teri maadar pe tera sadma hai kaisa
+  Us ko kabhi saaye se guzarta nahi dekha
 
   2
-  Kya nur ke paikar shab-e-Aashur jama the
-  Shama to bujhi lekin andhera nahiṅ dekha
+  Surat to dikha jao ke bechain hai maadar
+  Armaan tha maa ne tere sehra nahi dekha
 
   3
-  Islaam to jaaga Ali Akbar ki azaaṅ se
-  Aur is ki jawaani ne sawera nahiṅ dekha
+  Gir gir ke sambhalti rahi bazaaroṅ may zainab
+  Pehle kabhi bazaar ka rasta nahi dekha
 
   4
-  Akbar ke janaaze pe qayaamat ki ghari thi
-  Shabbir ko aisa kabhi rota nahiṅ dekha
+  Yuṅ to lade dunya may kayi baar mujahid
+  Haste hue koi bache ko larta nahi dekha
 
   5
-  Dekha tha kari dhup meiṅ bete ka janaaza
-  Laila ko kabhi saaye meiṅ baitha nahiṅ dekha
+  Abbas tere baad yuṅ roti thi sakina
+  Aansu jo gire uske to tham'ta nahi dekha
 
   6
-  Kiuṅ dekh ke roye na Taqi apna bhara ghar
-  Zehra ki tarah ghar koi ujra nahiṅ dekha
-# source_id: nohayonline:c9481f010faa0dff5171
-# source_url: https://www.nohayonline.com/details_content.php?id=2188
-# raw_sha256: 8c68810f49d22bfb9d1d6b136231fcb2d98d372cf06d9f5c93d20919125ec318
+  Abbas ne bechadari zainab ki jo dekhi
+  Naize pe sar-e-ghazi sambhalta nahi dekha
+
+  7
+  Sab qatl huwe tanha hai ab sayyede sajjad
+  Aisa sipay salaar zamane ne nahi dekha
+
+  8
+  Shabbir tere sajde se zinda hai namazeiṅ
+  Tiroṅ pe kabhi aisa musalla nahi dekha
 ---
-آنکھوں سے رواں اشک کا دریا نہیں دیکھا
-ہر بچے نے جلتا ہوا خیمہ نہیں دیکھا
 
 ۱
-یوں جیت لی عباس نے دریا پہ لڑائی
-پانی پہ کہیں پھر کبھی پہرہ نہیں دیکھا
+کربلا میں کسی گھر کو اُجڑتا نہیں دیکھا
+تاریخ نے مانا ہے کے ایسا نہیں دیکھا
+اصغر تیری مادر پہ تیرا صدمہ ہے کیسا
+اُس کو کبھی سائے سے گزرتا نہیں دیکھا
 
 ۲
-کیا نور کے پیکر شب عاشور جمع تھے
-شمع تو بجھی لیکن اندھیرا نہیں دیکھا
+صورت تو دیکھا جائو کے بے چین ہے مادر
+ارمان تھا ماں نے تیرا سہرا نہیں دیکھا
 
 ۳
-اسلام تو جاگا علی اکبر کی اذاں سے
-اور اس کی جوانی نے سویرا نہیں دیکھا
+گر گر کے سنبھلتی رہی بازاروں میں زینب
+پہلے کبھی بازار کا رستہ نہیں دیکھا
 
 ۴
-اکبر کے جنازے پہ قیامت کی گھڑی تھی
-شبیر کو ایسا کبھی روتا نہیں دیکھا
+یوں تو لڈے دُنیا میں کئی بار مجاہد
+ہنستے ہوئے کوئی بچے کو لڑتا نہیں دیکھا
 
 ۵
-دیکھا تھا کڑی دھوپ میں بیٹے کا جنازہ
-لیلیٰ کو کبھی سائے میں بیٹھا نہیں دیکھا
+عباس تیرے بعد یوں روتی تھی سکینہ
+آنسو جو گرے اُس کے تو تھمتا نہیں دیکھا
 
 ۶
-کیوں دیکھ کے روئے نہ تقی اپنا بھرا گھر
-زہرا کی طرح گھر کوئی اجڑا نہیں دیکھا
+عباس نے بے چادری زینب کی جو دیکھی
+نیزے پہ سرِ غازی سنبھلتا نہیں دیکھا
+
+۷
+سب قتل ہوئے تنہا ہیں سیدِ سجاد
+ایسا سپہ سالار زمانے نے نہیں دیکھا
+
+۸
+شبیر تیرے سجدے سے زندہ ہیں نمازیں
+تیروں پہ کبھی ایسا مسلہ نہیں دیکھا

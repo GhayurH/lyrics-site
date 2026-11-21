@@ -58,9 +58,6 @@ romanLyrics: |-
   Keh do Bilal o Aamir ye barh kar
   Khaai unhoṅ ne dar dar ki thokar
   Bhule hai jo gham ki kahaani
-# source_id: nohayonline:f491589475030380562c
-# source_url: https://www.nohayonline.com/details_content.php?id=3053
-# raw_sha256: e3b54d2c2b9cd11fe455befdc385712f515aec1edb9fad310285fc530934c07e
 ---
 شاہِ ہدا کی تشنہ دہانی
 اللہ باقی من کل فانی

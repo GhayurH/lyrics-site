@@ -2,7 +2,7 @@
 title: "علی سوہنا شیر رب دا"
 alternateTitle: "Ali Sohna Sher Rab Da"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarwar Shakir"
@@ -43,9 +43,6 @@ romanLyrics: |-
   Dindiyan mubarakaan horaan thalle aa ke
   Vehre Imran vich jashan mana ke
   Kaisa Rab sada mel karaya
-# source_id: tajpoints:607cf27c9a12c556b9a1
-# source_url: https://tajpoints.com/2023/02/ali-sohna-sher-rab-da-tahseen-sakina.html
-# raw_sha256: 7b55c8bce81c2f53da090cf83c44f6a669d45e077cac54c9230d5e0d3f5fb8ca
 ---
 کعبے میں کندھے پر اٹھایا کیوں تھا
 بازو پکڑ کر خم پہ دکھایا کیوں تھا

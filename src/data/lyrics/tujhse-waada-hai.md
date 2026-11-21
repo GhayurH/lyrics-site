@@ -78,9 +78,6 @@ romanLyrics: |-
   Sar pe Abbas ka alam hoga
   Jab talak Sayyeda na chaaheṅgi
   Apni jannat meiṅ hum na jaayeṅge
-# source_id: nohayonline:fdbfe1ea5019ff7323a7
-# source_url: https://www.nohayonline.com/details_content.php?id=2074
-# raw_sha256: 2155e39c86c1d3671ed3bdaaac8f111f8fd4df20a0366ee22bdaf535bbceb35c
 ---
 یا زہرا یا زہرا یا زہرا یا زہرا
 مظلومہ محرومہ معصومہ

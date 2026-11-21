@@ -53,9 +53,6 @@ romanLyrics: |-
   Kiya tha waada jo Gohar use nibhaaya hai
   Asir ho ke bhi Islam ko bachaaya hai
   Batul zaadi alaihis salaam Zainab ne
-# source_id: nohayonline:f77c2280e4e06ec000fe
-# source_url: https://www.nohayonline.com/details_content.php?id=3203
-# raw_sha256: ad0dc812bf17301533fb6e9b930e1deb0f30b80cf6c8de4e7e321724b9c2445c
 ---
 مٹا کے رکھ دیا باطل کا نام زینب نے
 پیمبرانہ کیا ہے یہ کام زینب نے

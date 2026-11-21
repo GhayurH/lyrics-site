@@ -53,9 +53,6 @@ romanLyrics: |-
   Waaiz qarib-e-maah-e-Muharram yehi sada
   Aati hai mere kaanoṅ meiṅ reh reh ke baarha
   Likhna hai mere laal ka noha utho utho
-# source_id: nohayonline:9b8341412bd30413f6aa
-# source_url: https://www.nohayonline.com/details_content.php?id=3147
-# raw_sha256: 53ef46a0139efbab3432ce2f5c77f3d88d082b8e2264e39fa52d6eaad26d48e8
 ---
 آواز دے رہی ہے یہ زہرا اٹھو اٹھو
 پھر غم کا چاند عرش پہ نکلا اٹھو اٹھو

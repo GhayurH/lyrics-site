@@ -62,9 +62,6 @@ romanLyrics: |-
   Hairat kade meiṅ aalam-e-Islam dang hai
   Baad-e-Nabi zamaane ka kuchh aur rang hai
   Kiuṅ ke pehna hua hai kufr ne Islam ka libaas
-# source_id: nohayonline:d04589d53e384ed7ebe0
-# source_url: https://www.nohayonline.com/details_content.php?id=2810
-# raw_sha256: 37198f276d5428679c8ac5297885adb11424d81869dfe6f3ac23c1cd0add9f34
 ---
 پہنا ہوا ہے کفر اسلام کا لباس
 یہ راز فاش کر گئی سولہ پہر کی پیاس

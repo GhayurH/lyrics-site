@@ -39,9 +39,6 @@ romanLyrics: |-
   7
   Sar apna pit ke ae Saif kehti hai naadaaṅ
   Hamaare chhin gaye gauhar kahaaṅ gaye Ammu
-# source_id: nohayonline:38cea12e835891e6cf56
-# source_url: https://www.nohayonline.com/details_content.php?id=1670
-# raw_sha256: 08a8056b9d938f32a0ac4f980fb37ccc7339fa31e4f64b406ec19abb32642964
 ---
 کہا سکینہ نے رو کر کہاں گئے عمو
 ہے میری جان لبوں پر کہاں گئے عمو

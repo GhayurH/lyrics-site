@@ -49,9 +49,6 @@ romanLyrics: |-
   Khatm kar do ye nauha yahiṅ par
   Ro diya hai qalam bhi ye likh kar
   Utho utho watan ja rahi huṅ
-# source_id: nohayonline:db51930b5d06a6126e66
-# source_url: https://www.nohayonline.com/details_content.php?id=59
-# raw_sha256: 53545d41ca3323343ee4b99f2bc64f38a5521f3792ce18029c4caa0620f18309
 ---
 قبرِ شہ پر یہ کہتی تھی خواہر
 بھیا اُٹھو اُٹھو اُٹھو وطن جا رہی ہوں

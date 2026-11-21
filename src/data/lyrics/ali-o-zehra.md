@@ -95,9 +95,6 @@ romanLyrics: |-
   Ik haqiqat kahaaṅ malum hai dunya ko abhi
   Waqt-e-mushkil kahaaṅ dunya se madad leta hai
   Bas Ali Fatima Zahra se madad leta hai
-# source_id: tajpoints:0179c83677203f2ad506
-# source_url: https://tajpoints.com/2023/01/ali-o-zehra-mir-sajjad-mir-lyrics-in.html
-# raw_sha256: 5d529167d2b32076a5f0567ff02ce958bdbc6ea6259f53d1ff45301390416dd8
 ---
 فاطمہ کیا ہیں یہ دارین کے مولا سے سنیں
 اور حیدر کی ثنا فاطمہ زہرا سے سنیں

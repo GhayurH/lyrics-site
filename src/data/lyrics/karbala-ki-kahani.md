@@ -150,9 +150,6 @@ romanLyrics: |-
   Ye thi Karbala ki kahaani
   Ye thi ek pyaase ki kahaani
   Muhammad ke nawaase ki kahaani
-# source_id: nohayonline:14defbf40056b9139589
-# source_url: https://www.nohayonline.com/details_content.php?id=987
-# raw_sha256: 5d0bf3a7954994cc7207681f8ead4258c85cc05204710b7236f385c4107cda02
 ---
 
 آؤ اے اہل جہاں آؤ اے طفل و جواں
@@ -266,7 +263,7 @@ romanLyrics: |-
 
 ۱۲
 دن ڈھل گیا شام آگئی
-آگئے لوٹنے بی‌بیوں کو شقی
+آگئے لوٹنے بیبیوں کو شقی
 سارے خیمے جلے سب کی چادر چھنی
 تپتا صحرا تھا بس اور آل نبی
 اور پہرے پہ بنت علی آگئی

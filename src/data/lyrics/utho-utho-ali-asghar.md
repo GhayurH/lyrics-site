@@ -62,9 +62,6 @@ romanLyrics: |-
   Bilal rok qalam to haram meiṅ hai riqqat
   Nahiṅ hai phul mayassar yahaaṅ dam-e-rukhsat
   Lahad pe ashkoṅ ki chaadar charha rahi hai Rabab
-# source_id: nohayonline:0a2a8e8c95d4b50e4b7d
-# source_url: https://www.nohayonline.com/details_content.php?id=3120
-# raw_sha256: 93483ef961c99e2b7815d1430e524bf27cd5298665e171a87e7c164663bab456
 ---
 
 اٹھو اٹھو علی اصغر جگا رہی ہے رباب

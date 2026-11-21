@@ -62,9 +62,6 @@ romanLyrics: |-
   Kis tarah ghusl o kafan de tujhe ghurbat meiṅ Husain
   Sharm aati hai mere laal paraaya hai watan
   Tukre tukre hai badan
-# source_id: nohayonline:bd975bc62fa6c1bc47a5
-# source_url: https://www.nohayonline.com/details_content.php?id=3463
-# raw_sha256: ff61b3c42418404a16b9592ab55c0c56387198baa819c8447b2e10920c238baf
 ---
 
 لاش قاسم پہ یہ کہتے تھے شہنشاہ زمن

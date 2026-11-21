@@ -83,9 +83,6 @@ romanLyrics: |-
   Aur Zainab-e-dilgir
   Marzi hai jo Allah ki woh ho ke rahega
   Ae Fatima Sughra
-# source_id: nohayonline:3dd8cbaaaa1bf9735e0d
-# source_url: https://www.nohayonline.com/details_content.php?id=3263
-# raw_sha256: 06f5633135ef1625024264d634951089f77e95830a0b3f6b2f0df88e4934858e
 ---
 سن میری دکھیا اے فاطمہ صغرا
 

@@ -51,9 +51,6 @@ romanLyrics: |-
   Aur raakh hua hai
   Us raakh meiṅ reh reh ke bharakti hai wohi shaam
   Guzri nahiṅ wo shaam
-# source_id: nohayonline:bfacc4edacca2f1067f1
-# source_url: https://www.nohayonline.com/details_content.php?id=1682
-# raw_sha256: 8f615ee4b001c647be629de66d26f8e20210443da0eab687dd826758e818ece7
 ---
 
 جس شام جلائے گئے سادات کے قیام

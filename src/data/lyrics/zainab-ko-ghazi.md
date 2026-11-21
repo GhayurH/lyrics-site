@@ -83,9 +83,6 @@ romanLyrics: |-
   Mazhar mera kaleja
   Sadmoṅ se phat na jaaye
   Bas roko qalam ye keh kar
-# source_id: nohayonline:1d33fe5dafbea7a64a2d
-# source_url: https://www.nohayonline.com/details_content.php?id=2362
-# raw_sha256: 61958657d15c426f16e6afdcaab7ca9e33623b0995eebe37a47bb0f1f0c39b3e
 ---
 ہائے بازارِ شام جا کر
 زینب کو غازی یاد آیا
@@ -154,7 +151,7 @@ romanLyrics: |-
 یاد آیا اسے یہ منظر
 
 ۱۰
-گزری جو بی‌بیوں پر
+گزری جو بیبیوں پر
 کیا شادماں سنائے
 مظہر میرا کلیجہ
 صدموں سے پھٹ نہ جائے

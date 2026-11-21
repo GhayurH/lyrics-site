@@ -63,9 +63,6 @@ romanLyrics: |-
   Dulha kahuṅ ki Qasim-e-gulguṅ qaba kahuṅ
   Chhora dulhan ko laash pe rone ke waaste
   Dulha bane the qabr meiṅ sone ke waaste
-# source_id: nohayonline:8f3ab9b6d8ded1e9d339
-# source_url: https://www.nohayonline.com/details_content.php?id=3145
-# raw_sha256: 13ddd29622da33cdcc3e6ff1ee2c8aa4abeb7a31d970bf59becbe8f5c2f3e38b
 ---
 تھا قاسم کے لاشے پہ کبرا کا نوحہ
 اے صاحب بتاؤ میں کیا کہہ کے روؤں

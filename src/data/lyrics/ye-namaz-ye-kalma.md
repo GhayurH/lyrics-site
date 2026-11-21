@@ -53,9 +53,6 @@ romanLyrics: |-
   Dil meiṅ yaad teri hai lab pe hai sanaa teri
   Haashmi ko bhi aaqa hai sab ataa teri
   Aakhirat ka sarmaaya la ilaaha illallaah
-# source_id: nohayonline:219bc5dc5c4b75c21835
-# source_url: https://www.nohayonline.com/details_content.php?id=1117
-# raw_sha256: e5010b078fc5adeb12aa1b6ea47442a53ea1906f36547afe06e539ff20ff872a
 ---
 یہ نماز یہ کلمہ لا الہ الا اللہ
 ہے حسین کا صدقہ لا الہ الا اللہ

@@ -1,10 +1,10 @@
 ---
-title: کہتی رہی سکینہ بیمار سارباں سے
-alternateTitle: Kehti Rahi Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتی رہی سکینہ بیمار سارباں سے"
+alternateTitle: "Kehti Rahi Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sardar"
 reciter: "Nasir Asghar Party (SM)"
 tags: []
@@ -48,12 +48,6 @@ romanLyrics: |-
   Taarikh ke muarrikh insaaf se bataayeṅ
   Maasum ko mili hai kis jurm ki sazaayeṅ
   Sardar puchhta hai har ek musalmaaṅ se
-# source_id: nohayonline:e7d58a99fb103a30f898
-# source_url: https://www.nohayonline.com/details_content.php?id=1513
-# raw_sha256: 4df141500e97ccae5ec4fd6f6069d983c4fef0247f38008be71870c4bb3da973
-# source_id: ziyaraat:107c28c4ba9a5de6d3be
-# source_url: https://www.ziyaraat.net/api/noha/186
-# raw_sha256: 099ca472744ed1fe4f88a307be1b83ae4bf5623cdca4e4e240f6eece0d5d26dd
 ---
 کہتی رہی سکینہ بیمار سارباں سے
 ہو گی رہائی مر کے بھیا میری زنداں سے

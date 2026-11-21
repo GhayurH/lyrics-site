@@ -91,9 +91,6 @@ romanLyrics: |-
   Uṅcha alam Ghazi ka hai
   Dunya se ye kehte raho
   Hai qafila Shabbir ka
-# source_id: nohayonline:d7c5c5e74b64f16db0e0
-# source_url: https://www.nohayonline.com/details_content.php?id=3548
-# raw_sha256: 4d6aec01f808defc4b2c5b8d6221bc588f03ee7534917e4ae0f3ba3f56f3b534
 ---
 
 صل علی صل علی

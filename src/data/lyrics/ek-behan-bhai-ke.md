@@ -56,9 +56,6 @@ romanLyrics: |-
   Haye Irfan na tha mera muqaddar aisa
   Kya Mubarak tera kam hoga ye noha mera
   Maiṅ bhi tanha thi kahiṅ bhai kahiṅ tha tanha
-# source_id: nohayonline:cbb83c3339b17b63d380
-# source_url: https://www.nohayonline.com/details_content.php?id=1176
-# raw_sha256: 9d5fc2ac66631705bb76c7bb0888b3dd639574e4e1f3765fa4916c4303b5c4b2
 ---
 ہائے ہمشیرِ رضا
 یا معصومہ

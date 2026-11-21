@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Shahid ye azaakhaane viraan nahiṅ hoṅ ge
   Taa hashr bhi gar dushman maare hameṅ aa aa ke
-# source_id: nohayonline:7480fb3bb50bdc9a7439
-# source_url: https://www.nohayonline.com/details_content.php?id=531
-# raw_sha256: ac34f1008763b97adbd9096d869b4ee508b2a42f73f4a9abb72b173d2b1646c7
 ---
 
 دیکھے تو کوئی رونق مقتل میں ذرا آکے

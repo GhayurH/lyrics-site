@@ -37,9 +37,6 @@ romanLyrics: |-
   Rawaaṅ rakhe haiṅ jo zulm o sitam lainoṅ ne
   Tamaash binoṅ ko woh sab suna rahi hai behan
   Salaam karne ko maqtal meiṅ aa rahi hai behan
-# source_id: nohayonline:a4476daa459584d5cbd5
-# source_url: https://www.nohayonline.com/details_content.php?id=1710
-# raw_sha256: f404ee9e86c9b5e67640c794fae3a7bfd345850bb22d09f72a475e69fb5cc82a
 ---
 
 اُٹھو حُسین سوئے شام جا رہی ہے بہن

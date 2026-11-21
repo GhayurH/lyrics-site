@@ -54,9 +54,6 @@ romanLyrics: |-
   Taaziyaane khaata aaya
   Sehta sitam kai baar Maula mera
   Haye mera Sajjad
-# source_id: nohayonline:ce9c121d27e6f2dd4c54
-# source_url: https://www.nohayonline.com/details_content.php?id=3629
-# raw_sha256: cc6327222d23fad23c2867597afeb79f3ed0d04ec78bda639fd77280a69dfe5b
 ---
 
 ہاے میرا سجاد
@@ -64,7 +61,7 @@ romanLyrics: |-
 آگیا بازار مولا میرا
 ہاے میرا سجاد
 
-ساتھ ہیں بی‌بیاں کیا کرے ناتواں
+ساتھ ہیں بیبیاں کیا کرے ناتواں
 ہاے میرا سجاد
 سید سجاد
 

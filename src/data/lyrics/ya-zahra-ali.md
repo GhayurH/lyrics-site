@@ -87,9 +87,6 @@ romanLyrics: |-
   Jab ye Zainab ne kaha
   Na rahi meri rida
   Amma maiṅ aa gayi bhai na raha
-# source_id: nohayonline:0686399d5b08f34830e3
-# source_url: https://www.nohayonline.com/details_content.php?id=177
-# raw_sha256: ee462e0f98ab9d05f1059b642eb0bbe745b38bcad7d0087f9e4b7590deaaa392
 ---
 مومنوں قصہء سادات سنو
 تھام کر دل یہ میری بات سنو

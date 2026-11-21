@@ -58,9 +58,6 @@ romanLyrics: |-
   Mir Sajjad ye tha aakhri Akbar ka bayaaṅ
   Jab Madine meiṅ tumheṅ aayegi aawaaz-e-azaaṅ
   Chhup ke Sughra se kahiṅ aansu bahaana ammaaṅ
-# source_id: nohayonline:0145dfc9db90d66d08fe
-# source_url: https://www.nohayonline.com/details_content.php?id=1527
-# raw_sha256: 6d91481df52770017eceaffa1b2111c0eb7971f2791cd0f6a050107244179866
 ---
 بولے اکبر جو وطن لوٹ کے جانا اماں
 میری روٹھی ہوئی صغرا کو منانا اماں

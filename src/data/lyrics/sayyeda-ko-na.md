@@ -58,9 +58,6 @@ romanLyrics: |-
   Apna sar pit ke kehne lagi Fizza us dam
   Zakhm ye dil pe Nabi ke na lagao
   Sayyeda ko na satao
-# source_id: nohayonline:145df812f908a41e87fa
-# source_url: https://www.nohayonline.com/details_content.php?id=3143
-# raw_sha256: 1eae3309c5a27c5dddd5b2348b18d4bc73be2d461131cf4a1cb167ee0a05e366
 ---
 اے مسلمانوں خدا کا خوف کھاؤ
 سیدہ کو نہ ستاؤ

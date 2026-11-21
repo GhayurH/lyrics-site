@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Bajuz Shuja ke Abbas-e-naamwar Rehaan
   Likha hai kis ne wafa ka nisaab paani meiṅ
-# source_id: nohayonline:8c541d758055e80926b4
-# source_url: https://www.nohayonline.com/details_content.php?id=2198
-# raw_sha256: 789fa83a933b3fa417c34c0d6d0da58ad20e013932a948ce8b7468e798169cbf
 ---
 کھلی ہے تشنہ لبی کی کتاب پانی میں
 وفا دکھا گئی خیبر کا باب پانی میں

@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Ghash aa gaya Zainab ko ye kehte hue Fakhri
   Balwe meiṅ jo uryaaṅ tha wo sar laayi huṅ ammaṅ
-# source_id: nohayonline:5db6c43fcf7dcd6e40b2
-# source_url: https://www.nohayonline.com/details_content.php?id=1044
-# raw_sha256: 62e0c180d5629e8a04df932287d846fdffc436028eaf57e7ba214b7574b62df8
 ---
 بھائی نہ بھتیجے نہ پسر لائی ہوں اماں
 بس گھر کے اجڑنے کی خبر لائی ہوں اماں

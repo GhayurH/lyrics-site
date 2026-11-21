@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Sada bhi Aamir o Nayyar ka saath chhor na de
   Ke in laboṅ se ho kaise ada Khuda haafiz
-# source_id: nohayonline:43f42803140e25fb0871
-# source_url: https://www.nohayonline.com/details_content.php?id=2446
-# raw_sha256: fbb538a3ede377549e3db219b72798cce1ae0158f7684652ee9836c0be9b74db
 ---
 حسین کشتۂ تیغِ جفا خدا حافظ
 تمام ہوتی ہے فصلِ عزا خدا حافظ

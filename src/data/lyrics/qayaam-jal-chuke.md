@@ -61,9 +61,6 @@ romanLyrics: |-
   Zamin hilti thi larza falak pe tha taari
   Tarap ke kehti thi jab ek gharib dukhiyaari
   Qarib aa gaye zaalim hameiṅ bachaa jaao
-# source_id: nohayonline:653aca8061fabe38a911
-# source_url: https://www.nohayonline.com/details_content.php?id=3513
-# raw_sha256: ac91b55ab6c22ee4c27ddcd387fb2359ea8c36424985f707be1c1aa58c68473d
 ---
 
 قیام جل چکے عباس اب تو آ جاؤ

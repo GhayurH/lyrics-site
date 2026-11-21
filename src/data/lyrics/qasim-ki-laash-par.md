@@ -59,9 +59,6 @@ romanLyrics: |-
   Ishrat qiyaam-e-Shaah meiṅ kohraam hai bapa
   Sar pitta hai khaime meiṅ kunba Rasul ka
   Sheh ro rahe haiṅ dasht meiṅ Akbar ki laash par
-# source_id: nohayonline:237b89b6e734ec280934
-# source_url: https://www.nohayonline.com/details_content.php?id=2170
-# raw_sha256: 5f21335909095da18da1fce1fa384f7b0ae0e21a34c8b916d3514a4c1a6d5a29
 ---
 قاسم کی لاش پر کبھی اصغر کی لاش پر
 عباس جیسے نیک برادر کی لاش پر

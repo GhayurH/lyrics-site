@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Sajjad ye gham aise kahaaṅ milta hai sab ko
   Khush hoṅ to gham-e-Shaah dila deti haiṅ Zehra
-# source_id: nohayonline:f244286948640664f532
-# source_url: https://www.nohayonline.com/details_content.php?id=1639
-# raw_sha256: ea25f2dc7c4e16609490685827f089a99a43121148ef1b5d89ba2935aa438358
 ---
 ہم فرش بچھاتے ہیں دعا دیتی ہیں زہرا
 شبیر پہ رونے کا صلہ دیتی ہیں زہرا

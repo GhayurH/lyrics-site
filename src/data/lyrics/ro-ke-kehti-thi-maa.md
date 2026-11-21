@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Ran se paltoge kab jalte khaimoṅ se ab
   Uth raha hai dhuaaṅ tujh ko dhunduṅ kahaaṅ
-# source_id: nohayonline:c63dd9a4a4abd1d46781
-# source_url: https://www.nohayonline.com/details_content.php?id=3220
-# raw_sha256: 1b49f2878a2b0bf3aa6cde286a91d24521daf3559dec524d481a0e1bf9eca273
 ---
 رو کے کہتی تھی ماں تجھکو ڈھونڈوں کہاں
 اصغرِ بے زباں تجھکو ڈھونڈوں کہاں

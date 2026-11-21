@@ -51,9 +51,6 @@ romanLyrics: |-
   Zainab ki asiri ka dil par
   Ek fard bhi keh deta us dam
   Luta na ise Sayyidaani hai
-# source_id: nohayonline:84b5b58405cb904324fe
-# source_url: https://www.nohayonline.com/details_content.php?id=3539
-# raw_sha256: 98516f0183f39b31a41d80d599abb15b023be6f4ae34de6ebce43f23e19207a8
 ---
 میدان کی جلتی ریتی پر
 ایک پیاسے کی پیشانی ہے

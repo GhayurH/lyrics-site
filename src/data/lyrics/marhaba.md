@@ -76,9 +76,6 @@ romanLyrics: |-
   Karb se Karbala hua hai dil
   Khun tapka nigaah se paiham
   Ho saka na haq ada ya Zahra
-# source_id: nohayonline:9b794dc404bc7400d117
-# source_url: https://www.nohayonline.com/details_content.php?id=2776
-# raw_sha256: 31d257bd7f4349cea81e57497289cf137663d0a4b5f79fa348720498163e535b
 ---
 مرحبا خیرالنسا یا زہرا
 بضعت خیرالوریٰ یا زہرا

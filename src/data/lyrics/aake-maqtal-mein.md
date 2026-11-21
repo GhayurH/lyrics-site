@@ -52,9 +52,6 @@ romanLyrics: |-
   Ae Takallum ahl-e-sitam ab ghar jalane aaye haiṅ
   Ahl-e-Bait-e-Mustafa par zulm dhaane aaye haiṅ
   Bibiyoṅ ko is musibat se bachao Fatima
-# source_id: nohayonline:654d75ced1b201c6aafd
-# source_url: https://www.nohayonline.com/details_content.php?id=3255
-# raw_sha256: c204b1e323e2778b64ca8b9ba08d398e621db923d71c85ea724d4326e53c7110
 ---
 
 آ کے مقتل میں صف ماتم بچھاؤ فاطمہ
@@ -85,7 +82,7 @@ romanLyrics: |-
 بھائی کا پرسہ بہن کو دینے آؤ فاطمہ
 
 ۶
-رو رہی پیٹ کے سر غم کی ماری بی‌بیاں
+رو رہی پیٹ کے سر غم کی ماری بیبیاں
 باپ کے غم میں سکینہ لے رہی ہے ہچکیاں
 آ کے سینے سے سکینہ کو لگا لو فاطمہ
 
@@ -97,4 +94,4 @@ romanLyrics: |-
 ۸
 اے تکلم اہلِ ستم اب گھر جلانے آئے ہیں
 اہلِ بیت مصطفیٰ پر ظلم ڈھانے آئے ہیں
-بی‌بیوں کو اس مصیبت سے بچاؤ فاطمہ
+بیبیوں کو اس مصیبت سے بچاؤ فاطمہ

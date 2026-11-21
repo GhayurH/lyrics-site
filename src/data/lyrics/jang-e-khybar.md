@@ -117,15 +117,6 @@ romanLyrics: |-
   Khairaat kar di raah-e-Khuda meiṅ hansi khushi
   Dahliz-e-dar pe pahunche to Salman saath the
   Lab par Khuda ka shukr tha aur khaali haath the
-# source_id: tajpoints:f2dad01254808f34329d
-# source_url: https://tajpoints.com/2017/05/jang-e-khybar-1-4.html
-# raw_sha256: 6e4b7fb0d891019a3808b0a6869a2290d4494cb60e38b64cae657b3e06b2a9f1
-# source_id: tajpoints:f24e66fecbd2bc932e41
-# source_url: https://tajpoints.com/2017/05/jang-e-khybar-5-8.html
-# raw_sha256: 4db3694ae1ab1204e6574440187677950b5c8e6f3740bd0f19f29b6f9c9a05f9
-# source_id: tajpoints:294ce5522b2b934790cd
-# source_url: https://tajpoints.com/2017/05/jang-e-khybar-9-13.html
-# raw_sha256: 8323d6da118bbb6d8ae1db003015f785cd14cef1565261ec61b43ddb43f2a90f
 ---
 سنو سنو سنو سنو خیبر کا ماجرا سنو
 خیبر کی کارزار کا منظر سناتا ہوں

@@ -80,9 +80,6 @@ romanLyrics: |-
   Sahn-e-Khana meiṅ bana kar chaar qabreṅ ek saath
   Ek pa ashkoṅ se likha
   Abbas tu jita rahe Abbas tu jita rahe
-# source_id: nohayonline:4a5d89ad38ad49451e3b
-# source_url: https://www.nohayonline.com/details_content.php?id=1801
-# raw_sha256: 105b6eb019c7cf8f122be379afb90b4b1a28d130cc0058e7635ad135f2fe6c6d
 ---
 
 تو حرم کی شان ہے تو حرم کی جان ہے
@@ -102,7 +99,7 @@ romanLyrics: |-
 ۲
 تیری غیرت آسماں ہے نازش ام البنین
 کربلا میں فقر سے کہتا ہے زینب کا یقیں
-مطمئن سب بی‌بیاں ہیں دیکھ کر پردہ نشیں
+مطمئن سب بیبیاں ہیں دیکھ کر پردہ نشیں
 کون چھینے گا ردا
 عباس تو جیتا رہے عباس تو جیتا رہے
 

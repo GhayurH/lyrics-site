@@ -53,9 +53,6 @@ romanLyrics: |-
   Aini lab-e-Furaat qayaamat ka tha samaaṅ
   Aamir wo chhote bhai ki faryaad al amaaṅ
   Sar dekhte hi dekhte uska bhi kat gaya
-# source_id: nohayonline:f6c045412e6d5969f81a
-# source_url: https://www.nohayonline.com/details_content.php?id=1286
-# raw_sha256: f257376b7fc8ecde548b7357514a2a3789dcf5cef101786d3d1cf449fcb44794
 ---
 مسلم کے پیارے بچوں کا سر تن سے کٹ گیا
 دریا میں جا کے لاشے سے لاشہ لپٹ گیا

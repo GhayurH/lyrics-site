@@ -37,9 +37,6 @@ romanLyrics: |-
   Hashr tak hogi ab aah o zaari
   Sab uthaayeṅge mehndi tumhaari
   Bazm-e-maatam bapa hogi ghar ghar
-# source_id: nohayonline:66964ee0be2cf0ee32d6
-# source_url: https://www.nohayonline.com/details_content.php?id=1913
-# raw_sha256: 63925922667148dcd167ddee7561e548a140dcca1cea90987389c448959cf21c
 ---
 لاشے قاسم پہ چلائے اکبر
 چھوڑ کر ہم کو بھیا نہ جاؤ

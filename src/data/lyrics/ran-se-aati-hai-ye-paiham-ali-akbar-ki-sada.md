@@ -1,0 +1,116 @@
+---
+title: "رن سے آتی ہے یہ پہیم علی اکبرؑ کی صدا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Ran se aati hai ye paiham Ali Akbar ki sada
+  Haaye baba sine mein chubhi hai mere, barchhi ki ani
+
+  1
+  Dard mahsus jab hota hai to dam ghutta hai
+  Kaun sa dard hai baba jo nahiṅ thamta hai
+  Kis ko aawaaz duṅ, ab koi bhi zinda na raha
+
+  2
+  Dhup bhi tez hai aur garm hai maqtal ki zamiṅ
+  Kya kahuṅ dard hai kaisa ke sukuṅ milta nahiṅ
+  Mera sina bana zaalim ka nishaana bekhata
+
+  3
+  Ho sake aap se to is ko nikaalo baba
+  Zindagi maut se bete ki bacha lo baba
+  Warna mar jaauṅ ga, ab dard hua had se siwa
+
+  4
+  Apne sine ko main haathoṅ se dabaaye huṅ abhi
+  Zakhm-e-dil kis ko dikhaauṅ main chhupaaye huṅ abhi
+  Maut aa jaaye gi, sine se agar haath hata
+
+  5
+  Dil ki dharkan ki hai aawaaz thaharne waali
+  Jism se ruh mere ab hai nikalne waali
+  Maut ki chhaane lagi, hai meri nazroṅ mein ghata
+
+  6
+  Dekh luṅ ek nazar aap ko waqt-e-rukhsat
+  Maut phir de gi nahiṅ did ki mujh ko mohlat
+  Aakhiri hai yahi, bas ek tamanna ba Khuda
+
+  7
+  Larkharaate hue pahunche jo shah-e-jinn o bashar
+  Dekha haathoṅ se dabaaye hue Akbar ko jigar
+  Band aankheṅ thiṅ zabaaṅ, par thi yahi ek sada
+
+  8
+  Ya Ali kah ke jo khinchi shah-e-diṅ ne wo ani
+  Kya hua ye to kaleja nikal aaya ya Ali
+  Eriyaaṅ khaak pe, ragreṅ to na phir aai sada
+
+  9
+  Eriyaaṅ khaak pe bete ko ragarte dekha
+  Baap ne apne jawaaṅ laal ko marte dekha
+  Ik sada ran se ye, aai mera Akbar na raha
+
+  10
+  Ro ke maqtal mein yahi kahte the Shabbir Wasim
+  Mar na jaaye kahiṅ ab Zainab-e-dilgir Wasim
+  Mar gaya laal mera, dasht mein ye kahta hua
+---
+
+رن سے آتی ہے یہ پیہم علی اکبرؑ کی صدا
+ہائے بابا سینے میں چُبھی ہے میرے، برچھی کی انی
+
+۱
+درد محسوس جب ہوتا ہے تو دم گھٹتا ہے
+کون سا درد ہے بابا جو نہیں تھمتا ہے
+کس کو آواز دوں، اب کوئی بھی زندہ نہ رہا
+
+۲
+دھوپ بھی تیز ہے اور گرم ہے مقتل کی زمیں
+کیا کہوں درد ہے کیسا کہ سکوں ملتا نہیں
+میرا سینہ بنا ظالم کا نشانہ بے خطا
+
+۳
+ہو سکے آپ سے تو اِِس کو نکالو بابا
+زندگی موت سے بیٹے کی بچا لو بابا
+ورنہ مر جاؤں گا، اب درد ہوا حد سے سِوا
+
+۴
+اپنے سینے کو میں ہاتھوں سے دبائے ہوں ابھی
+زخمِ دل کس کو دکھاؤں میں چھپائے ہوں ابھی
+موت آ جائے گی، سینے سے اگر ہاتھ ہٹا
+
+۵
+دل کی دھڑکن کی ہے آواز ٹھہرنے والی
+جسم سے روح میرے اب ہے نکلنے والی
+موت کی چھانے لگی، ہے میری نظروں میں گھٹا
+
+۶
+دیکھ لوں ایک نظر آپ کو وقتِ رخصت
+موت پھر دے گی نہیں دید کی مجھ کو مہلت
+آخری ہے یہی، بس ایک تمنّا با خدا
+
+۷
+لڑکھڑاتے ہوئے پہنچے جو شہہ جن و بشر
+دیکھا ہاتھوں سے دبائے ہوئے اکبرؑ کو جگر
+بند آنکھیں تھیں زباں، پر تھی یہی ایک صدا
+
+۸
+یا علیؑ کہہ کے جو کھینچی شہہ دیںؑ نے وہ انی
+کیا ہوا یہ تو کلیجہ نکل آیا یا علیؑ
+ایڑیاں خاک پہ، رگڑیں تو نہ پھر آئی صدا
+
+۹
+ایڑیاں خاک پہ بیٹے کو رگڑتے دیکھا
+باپ نے اپنے جواں لال کو مرتے دیکھا
+اِک صدا رن سے یہ، آئی میرا اکبرؑ نہ رہا
+
+۱۰
+رو کے مقتل میں یہی کہتے تھے شبیرؑ وسیم
+مر نہ جائے کہیں اب زینبِؑ دلگیر وسیم
+مر گیا لال میرا، دشت میں یہ کہتا ہوا

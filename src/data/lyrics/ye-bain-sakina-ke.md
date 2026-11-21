@@ -1,10 +1,10 @@
 ---
-title: یہ بین سکینہ کے تھے بابا نہیں آئے
-alternateTitle: Ye Bain Sakina Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ بین سکینہ کے تھے بابا نہیں آئے"
+alternateTitle: "Ye Bain Sakina Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh-e-Imamia; Mukhtar Husain"
 tags: []
@@ -55,12 +55,6 @@ romanLyrics: |-
   Aur aankhoṅ meiṅ ashk-e-gham-e-Shabbir saja kar
   Hai sheh ka wafaadaar to phir zikr-e-wafa kar
   Maqtal meiṅ Uruj har ek apne gham ko bhula kar
-# source_id: nohayonline:12863dd2b7027eabceff
-# source_url: https://www.nohayonline.com/details_content.php?id=825
-# raw_sha256: fd6564f7b5c0c3a99d92d27abc729e660f837dd247b4712b6e2f5289543c1d22
-# source_id: nohayonline:bc1c760522f915095a54
-# source_url: https://www.nohayonline.com/details_content.php?id=1437
-# raw_sha256: d6ab38601710f3ea0889d306420d61c2166ace7fd848823ce40afe56ea844c1a
 ---
 یہ بین سکینہ کے تھے بابا نہیں آئے
 کیوں اے پھُوپھی اماں میرے بابا نہیں آئے

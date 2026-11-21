@@ -92,9 +92,6 @@ romanLyrics: |-
   Aa jaaye koi mushkil ghabraye bahot jab dil
   Abbas ko pukaro
   Bab-ul-Hawaij Alamdar Alamdar
-# source_id: nohayonline:2ab54e7bf0b595537226
-# source_url: https://www.nohayonline.com/details_content.php?id=1699
-# raw_sha256: b9689285f21012dfc719ce493ada8327911b3d1dc512811eca41ce368235bb59
 ---
 
 غازی تو ہے نہ ان سے ہی کہنا

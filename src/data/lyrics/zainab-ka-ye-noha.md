@@ -1,106 +1,78 @@
 ---
-title: "زینب کا یہ نوحہ تھا تم لوٹ کے آ جاؤ"
-alternateTitle: "Zainab Ka Ye Nauha"
+title: "زینب کا یہ نوحہ تھا مانجاے خدا حافظ"
+alternateTitle: "Zainab Ka Ye Noha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Ashraf"
-reciter: "Tableegh-e-Imamia"
+poet: "Suhail"
 tags: []
-aliases: ["Zainab Ka Ye Noha"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Zainab ka ye nauha tha tum laut ke aa jaao
-  Abbas mere bhaiya tum laut ke aa jaao
+  Zainab ka ye noha tha majaye khuda hafiz
 
   1
-  Ab shaam-e-gharibaaṅ ke aasaar numaayaaṅ haiṅ
-  Is dasht-e-musibat meiṅ ghar lutne ke saamaaṅ haiṅ
-  Kuchh tum ko khabar di hai ham jitne pareshaaṅ haiṅ
-  Abbas mere bhaiya tum laut ke aa jaao
+  Kya din hamay furqat ne dikhlaye khuda hafiz
+  Ek godh ke paale hai khele hai ek aangan may
+  Ab chor chale mujhko tanhai ke is ban may
+  Shikwa ye behan lab par kya laaye khuda hafiz
 
   2
-  Jab shaam hui ban meiṅ ye bain the Zainab ke
-  Khaimoṅ ko jalaane ke hote haiṅ yahaaṅ charche
-  Tum Shimr se ye keh do chaadar na meri chhine
-  Abbas mere bhaiya tum laut ke aa jaao
+  Ab kaun sakina ko sine pe sulayega
+  Roothegi agar bachi kaun usko manayega
+  Ro roke na wo bachi mar jaye khuda hafiz
 
   3
-  Lo fauj-e-Yazidi ne khaimoṅ ko jala daala
-  Lo jalne laga kurta maasum Sakina ka
-  Faryaad ghariboṅ ki koi bhi nahiṅ sunta
-  Abbas mere bhaiya tum laut ke aa jaao
+  Khud apne hi haathoṅ se amma ne siya tha jo
+  Amma ki wasiyat thi kurta wohi ab pehno
+  Puri wo wasiyat bhi hojaye khuda hafiz
 
   4
-  Ab chhin li aada ne ae bhaai meri chaadar
-  Is aalam-e-ghurbat meiṅ hai khaak mere sar par
-  Tum mere muhaafiz ho batla do unheṅ aa kar
-  Abbas mere bhaiya tum laut ke aa jaao
+  Jab haale safar jaa kar sughra ko sunaungi
+  Guzre jo alam hum par jab usko bataungi
+  Aisa na ho wo sunkar mar jaye khuda hafiz
 
   5
-  Maiṅ kitni akeli huṅ tum aa ke zara dekho
-  Kis tarah sambhaaluṅ gi sehme hue bachchoṅ ko
-  Ae bhaai mere aa kar Zainab ko sahaara do
-  Abbas mere bhaiya tum laut ke aa jaao
+  Har ghar may bicha doongi mai teri safe matam
+  Har ghar pe laga hoga ek roz tera parcham
+  Kam honge na gham ke ye saaye khuda hafiz
 
   6
-  Abbas nahiṅ aaye dukh sehti rahi Zainab
-  Abbas nahiṅ aaye roti hi rahi Zainab
-  Abbas nahiṅ aaye ye kehti rahi Zainab
-  Abbas mere bhaiya tum laut ke aa jaao
-
-  7
-  Sarwar ke muhibboṅ meiṅ mahshar hai bapa Ashraf
-  Sar pitte haiṅ ro kar sab ahl-e-aza Ashraf
-  Kaanoṅ meiṅ jo aati hai Zainab ki sada Ashraf
-  Abbas mere bhaiya tum laut ke aa jaao
-# source_id: nohayonline:106a350785c75f5e7c0b
-# source_url: https://www.nohayonline.com/details_content.php?id=659
-# raw_sha256: cec650cf9465c3489100ec19c13067a4809a9b9f9bf55e320bea1d67b009f6bf
+  Bhai ka suhail us dam kya haal hua hoga
+  Jab ruqsate aakhir may zainab ne kaha hoga
+  Majaye khudafiz majaye khuda hafiz
 ---
 
-زینب کا یہ نوحہ تھا تم لوٹ کے آ جاؤ
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+زینب کا یہ نوحہ تھا مانجاے خدا حافظ
 
 ۱
-اب شامِ غریباں کے آثار نمایاں ہیں
-اس دشتِ مُصیبت میں گھر لٹنے کے ساماں ہیں
-کچھ تم کو خبر دی ہے ہم جتنے پریشاں ہیں
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+کیا دن ہمیں فرقت نے دکھلاے خدا حافظ
+اک گود کے پالے ہیں کھیلیں ہیں اک آنگن میں
+اب چھوڑ چلے مجھکو تنہائی کے اس بن میں
+شکوہ یہ بہن لب پر کیا لاے خدا حافظ
 
 ۲
-جب شام ہوئی بن میں یہ بین تھے زینب کے
-خیموں کو جلانے کے ہوتے ہیں یہاں چرچے
-تم شمر سے یہ کہہ دو چادر نہ میری چھینے
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+اب کون سکینہ کو سینے پہ سلاے گا
+روٹھے گی اگر بچی کون اسکو مناے گا
+رو رو کے نہ وہ بچی مر جائے خدا حافظ
 
 ۳
-لو فوجِ یزیدی نے خیموں کو جلا ڈالا
-لو جلنے لگا کُرتا معصوم سکینہ کا
-فریاد غریبوں کی کوئی بھی نہیں سُنتا
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+قد اپنے ہی ہاتھوں سے اماں نے سیا تھا جو
+اماں کی وصیت تھی کرتہ وہی اب پہنو
+پوری وہ وصیت بھی ہوجاے خدا حافظ
 
 ۴
-اب چھین لی اعدا نے اے بھائی میری چادر
-اس عالمِ غربت میں ہے خاک میرے سر پر
-تم میرے محافظ ہو بتلا دو انہیں آ کر
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+جب حال سفر جا کر صغرا کو سناؤں گی
+گزرے جو الم ہم پر جب اسکو بتاؤں گی
+ایسا نہ ہو وہ سن کر مر جائے خدا حافظ
 
 ۵
-میں کتنی اکیلی ہوں تم آ کے ذرا دیکھو
-کس طرح سنبھالوں گی سہمے ہوئے بچوں کو
-اے بھائی میرے آ کر زینب کو سہارا دو
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+ہر گھر میں بچھادوں گی میں تیری صف ماتم
+ہر گھر پہ لگا ہوگا اک روز تیرا پرچم
+کم ہونگے نہ غم کے یہ ساے خدا حافظ
 
 ۶
-عباس نہیں آئے دُکھ سہتی رہی زینب
-عباس نہیں آئے روتی ہی رہی زینب
-عباس نہیں آئے یہ کہتی رہی زینب
-عباس میرے بھیا تم لوٹ کے آ جاؤ
-
-۷
-سرور کے محبوں میں محشر ہے بپا اشرف
-سر پیٹتے ہیں رو کر سب اہلِ عزا اشرف
-کانوں میں جو آتی ہے زینب کی صدا اشرف
-عباس میرے بھیا تم لوٹ کے آ جاؤ
+بھائی کا سہیل اس دم کیا حال ہوا ہوگا
+جب رخصت آخر میں زینب نے کہا ہوگا
+مانجاے خدا حافظ مانجاے خدا حافظ

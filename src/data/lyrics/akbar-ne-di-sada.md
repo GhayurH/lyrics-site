@@ -1,10 +1,10 @@
 ---
-title: اکبر نے دی صدا سینے میں ہے نیزہ
-alternateTitle: Akbar Ne Di Sada
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر نے دی صدا سینے میں ہے نیزہ"
+alternateTitle: "Akbar Ne Di Sada"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
 tags: []
@@ -57,12 +57,6 @@ romanLyrics: |-
   Farhan o Mazhar Abidi kaisi hai bekasi
   Burha pidar uthaega maiyyat jawaaṅ ki
   Pahunche Shah-e-Huda sun kar ye marsiya
-# source_id: nohayonline:2a27119b288b9e218584
-# source_url: https://www.nohayonline.com/details_content.php?id=2348
-# raw_sha256: 97a4221d385538e6e9fed6970337198fe77eb9c15fc6d00dee72b64ab940cde9
-# source_id: ziyaraat:5459e5049d3bbe98c2ce
-# source_url: https://www.ziyaraat.net/api/noha/1618
-# raw_sha256: fa3783d68caa679eb4187f5130b06bc0a9b163f9e10b339aee0309ff5278cfd9
 ---
 اکبر نے دی صدا سینے میں ہے نیزہ
 گھوڑے سے گر رہا ہوں بابا سنبھالنا

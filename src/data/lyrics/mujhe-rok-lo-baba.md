@@ -45,9 +45,6 @@ romanLyrics: |-
   Jab Shimr ne bachchi ko juda Sheh se kiya tha
   Kehti rahi Shabbir se mur mur ke Sakina
   Mujhe rok lo baba
-# source_id: nohayonline:a98b6fad2d12ece74988
-# source_url: https://www.nohayonline.com/details_content.php?id=477
-# raw_sha256: 8c1384b512b1791db5c954b7ba3e79250cf62652ce7f577395b0c727607f3a88
 ---
 میں شام جاؤں گی نہ تمہیں چھوڑ کے تنہا
 مجھے روک لو بابا

@@ -118,9 +118,6 @@ romanLyrics: |-
   Teri hi to jit ka aelaan hai azaanoṅ meiṅ
   Farhan o Mazhar ki sada
   Zinda rahe ga tera naam sada
-# source_id: nohayonline:50aa36a59ab6080bd069
-# source_url: https://www.nohayonline.com/details_content.php?id=3677
-# raw_sha256: 91de77c0e40193463f326127a79387d4a697cda1b8d7d8418976bc20e9c35b2f
 ---
 زندہ ہے حسین
 سب نے جانا سب نے مانا

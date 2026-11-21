@@ -68,9 +68,6 @@ romanLyrics: |-
   Hai Maisam o Azlaan ka Maula ye aqida
   Tum rad nahiṅ kar sakte kabhi bhi ye wasila
   Hai pura bharosa Abbas Abbas
-# source_id: nohayonline:056ba28175f5143c0811
-# source_url: https://www.nohayonline.com/details_content.php?id=2522
-# raw_sha256: 5b4976d40dbbc9176ffe1a4d1ccd24ddd2429c19809b1b186175e3555d4b6cfd
 ---
 عباس عباس عباس عباس
 سقائے سکینہ عباس عباس

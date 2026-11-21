@@ -1,0 +1,380 @@
+---
+title: "Gham E Hussain Dilam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Maula Maula Maula Husain
+  Maula Maula Maula Husain
+  Maula Maula Maula Maula Husain
+  Maula Maula Maula Maula Husain
+  Husain Husain Husain Maula
+  Husain Husain Husain Maula
+  Ae mai paighaame jahaan aar
+  Ae mai paighaame jahaan aar
+  Ae mai paighaame jahaan aar
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  1
+  Aahni majlis pachaare
+  Pyaas ni pyaas saare
+  Maula go wafa khanne
+  Hama yaada shuwa biyaare
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  2
+  Shahidaaṅ hune khatha
+  Hama bi sa khaak-e-shifa
+  Maaṅ jo sajda khuzaa'uṅ
+  Aakhta thai yaad mana
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  3
+  Gham-e-Akbar mazaaiṅ
+  Gham-e-Asghar mazaaiṅ
+  Gham-e-Zainab mazaaiṅ
+  Gham-e-chaadar mazaaiṅ
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  4
+  Khaali gham maaṅ na khuzaa'uṅ
+  Hameṅ nabiyaaṅ da khuza
+  Nokh istaare khuza
+  Hameṅ waliyaaṅ da khuza
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  5
+  Qaadir Shaah likh so rowe
+  Bas hameṅ Shaah ni gham
+  Umr bhar nauha parhaaṅ
+  Zur tho Farhaan qasam
+  Gham-e-Husain daare
+  Anrazi chhammaamu biyaare
+  Maula raazi baiye shuwaaraash
+  Daar dilaam
+  Dilaam daar dilaam daar dilaam
+  Gham-e-Husain dilaam dilaam daar dilaam
+
+  Gushe
+---
+
+مولا مولا مولا حسینؑ
+
+مولا مولا مولا حسینؑ
+
+مولا مولا مولا مولاحسینؑ
+
+مولا مولا مولا مولاحسینؑ
+
+حسینؑ حسینؑ حسینؑ مولاؑ
+
+حسینؑ حسینؑ حسینؑ مولاؑ
+
+اے مئی پیغامے جہان آر
+
+اے مئی پیغامے جہان آر
+
+(یہ ہمارا پیغام ہے جہان کو) *
+
+اے مئی پیغامے جہان آر
+
+(یہ ہمارا پیغام ہے جہان کو) *
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+غمِ حُسین(ع) دارئے(٢)
+
+( غمِ حُسین(ع) مناؤ )*
+
+انڑزی چھمّامُ بیارئے(٢)
+
+( آنکھوں سے آنسو بہاؤ )*
+
+مولا(ع) راضی بئیے شُواراش
+
+( مولا(ع) تُم سے راضی رہیں گے )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+۔۔۔۔۔۔۔۔۔
+
+آھنی مجلس پچارئے
+
+(اُن کی مجلس کرو) *
+
+پیاس نی پیاس سارئے
+
+( پیاسوں کی پیاس کو یاد کرو)*
+
+مولا گو وفا کھنئے
+
+(مولا(ع) سے وفا کرو )*
+
+ھما یادا شُوا بیارئے
+
+( اُن کی یاد مناؤ )*
+
+غمِ حُسین(ع) دارئے(٢)
+
+( غمِ حُسین(ع) مناؤ )*
+
+انڑزی چھمّامُ بیارئے(٢)
+
+( آنکھوں سے آنسو بہاؤ )*
+
+مولا(ع) راضی بئیے شُواراش
+
+( مولا(ع) تُم سے راضی رہیں گے )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+۔۔۔۔۔۔۔۔۔
+
+شہیداں ھوُنے کَھتھا
+
+(شہیدوں(ع) کا خون بہا )*
+
+ھَمہ بی سا خاکِ شفا
+
+( یہ خاکِ شفا بن گئی )*
+
+ماں جو سجدہ خُزاؤں(٢)
+
+( میں نے جب سجدہ کیا )*
+
+آختا تھئی یاد منا
+
+(اُن کی یاد آئی )*
+
+غمِ حُسین(ع) دارئے(٢)
+
+( غمِ حُسین(ع) مناؤ )*
+
+انڑزی چھمّامُ بیارئے(٢)
+
+( آنکھوں سے آنسو بہاؤ )*
+
+مولا(ع) راضی بئیے شُواراش
+
+( مولا(ع) تُم سے راضی رہیں گے )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+۔۔۔۔۔۔۔۔۔
+
+غمِ اکبر(ع) مزائیں
+
+( غمِ اکبر(ع) ہے بڑا )*
+
+غمِ اصغر(ع) مزائیں
+
+( غمِ اصغر(ع) ہے بڑا )*
+
+غمِ زینب(س) مزائیں(٢)
+
+( غمِ زینب(س) ہے بڑا )*
+
+غمِ چادر مزائیں
+
+( غمِ چادر ہے بڑا )*
+
+غمِ حُسین(ع) دارئے(٢)
+
+( غمِ حُسین(ع) مناؤ )*
+
+انڑزی چھمّامُ بیارئے(٢)
+
+( آنکھوں سے آنسو بہاؤ )*
+
+مولا(ع) راضی بئیے شُواراش
+
+( مولا(ع) تُم سے راضی رہیں گے )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+۔۔۔۔۔۔۔۔۔
+
+خالی غم ماں نہ خُزاؤں
+
+( یہ غم صرف میں نے ہی نہیں کیا )*
+
+ھَمیں نبیاں د خُزا
+
+( یہ غم نبیوں(ع) نے بھی کیا )*
+
+نوخ اِستارے خُزا(٢)
+
+( چاند, ستاروِں نےنکیا )*
+
+ھَمیں ولیاں د خزا
+
+( یہ غم ولیوں نے بھی کیا )*
+
+غمِ حُسین(ع) دارئے(٢)
+
+( غمِ حُسین(ع) مناؤ )*
+
+انڑزی چھمّامُ بیارئے(٢)
+
+( آنکھوں سے آنسو بہاؤ )*
+
+مولا(ع) راضی بئیے شُواراش
+
+( مولا(ع) تُم سے راضی رہیں گے )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+۔۔۔۔۔۔۔۔۔
+
+قادر شاہ لِکھ سو رَوئے
+
+( قادر شاہ لکھتا رہے )*
+
+بس ھَمیں شاہ(ع) نی غم
+
+( بس یہی شاہ(ع) کا غم )*
+
+عُمر بھر نوحہ پڑھاں(٢)
+
+( عُمر بھر نوحہ پڑھوں گا )*
+
+زُڈ تھو فرحان قسم
+
+(کھائی ہے فرحان نے قسم )*
+
+غمِ حُسین(ع) دارئے(٢)
+
+( غمِ حُسین(ع) مناؤ )*
+
+انڑزی چھمّامُ بیارئے(٢)
+
+( آنکھوں سے آنسو بہاؤ )*
+
+مولا(ع) راضی بئیے شُواراش
+
+( مولا(ع) تُم سے راضی رہیں گے )*
+
+دار دلام
+
+(دِل میں بساؤَ) *
+
+دلام دار دلام دار دلام
+
+(دِل میں بساؤ, دِل میں بساؤ )*
+
+غمِ حُسین(ع) دلام دلام دار دلام
+
+( غمِ حُسین(ع) دِل میں بساؤ )*
+
+۔۔۔۔۔۔۔۔۔
+
+گُشئے
+
+( بولو )*

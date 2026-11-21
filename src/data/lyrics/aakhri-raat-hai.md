@@ -64,10 +64,6 @@ romanLyrics: |-
   Laake Sajjad ne Sakina ki
   Godh meiṅ sar jo rakha baba ka
   Sar-e-Shabbir se sada aayi
-# source_id: nohayonline:cd40e7e76e8347aad5fe
-# source_url: https://www.nohayonline.com/details_content.php?id=1063
-# raw_sha256: 730a79ffe9cfc7a7e668867f8e6022a836464effabfbb952400ea1371b966895
-# overlap_source_url: https://tajpoints.com/2020/09/aakhri-raat-hai-sakina-ki-lyrics-in.html
 ---
 
 شمع زندان میں منگا دے کوئی

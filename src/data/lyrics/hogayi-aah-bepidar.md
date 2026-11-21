@@ -1,10 +1,10 @@
 ---
-title: ہو گئیں آہ بے پدر زینبؑ
-alternateTitle: Hogayi Aah Bepidar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہو گئیں آہ بے پدر زینبؑ"
+alternateTitle: "Hogayi Aah Bepidar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []
@@ -52,12 +52,6 @@ romanLyrics: |-
   10
   Sayyeda aa gayi haiṅ jannat se
   Saara maatam kada hai ghar Zainab
-# source_id: nohayonline:0a29cd907a5171476218
-# source_url: https://www.nohayonline.com/details_content.php?id=1098
-# raw_sha256: 237bc136492b0815bc3684fc26266a9a63c03037722954a7a9d85c07aaa8caba
-# source_id: ziyaraat:c61a7604c7c30bb3c261
-# source_url: https://www.ziyaraat.net/api/noha/2282
-# raw_sha256: 86fb3deb14ae1cd048285f782c147486ed8aba8e983bdc64a8c31a68beeed3dc
 ---
 
 ہو گئیں آہ بے پدر زینبؑ

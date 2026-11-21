@@ -53,9 +53,6 @@ romanLyrics: |-
   Gohar-e-Dilgir yehi lab pe tha nauha
   Haaye yehi kehte hue mar gayi Sughra
   Laut ke aaja mere bhai
-# source_id: nohayonline:ca1e65bd86639f7542fc
-# source_url: https://www.nohayonline.com/details_content.php?id=1935
-# raw_sha256: 1bc3d583b9a524b150d2a53302de47a61c3823a5d80a1b00df4031a54186db90
 ---
 
 دیتی تھی صغرا یہ دہائی

@@ -69,9 +69,6 @@ romanLyrics: |-
   Kis tarah qirtaas pe likhega Nazmi ka qalam
   Bekasi meiṅ tashna lab jaage hue haiṅ ahl-e-haram
   Aur shab bedaariyaaṅ haiṅ Karbala se shaam tak
-# source_id: nohayonline:5ddd755ea7c49a5be127
-# source_url: https://www.nohayonline.com/details_content.php?id=1874
-# raw_sha256: 22eb06899299b7a77ea2c55367392104b268923b5d31dfec4f41e4c0018e55ef
 ---
 سب کے لب پر سسکیاں ہیں کربلا سے شام تک
 بازوؤں میں رسیاں ہے کربلا سے شام تک
@@ -79,7 +76,7 @@ romanLyrics: |-
 
 ۱
 اصغر و عباس و اکبر یاد آتے جب یہاں
-قافلہ میں رو پڑی ہے چیخ کر سب بی‌بیاں
+قافلہ میں رو پڑی ہے چیخ کر سب بیبیاں
 ہچکیاں ہی ہچکیاں ہے کربلا سے شام تک
 
 ۲
@@ -100,7 +97,7 @@ romanLyrics: |-
 ۵
 ظلم احمد کے گھرانے پر ہوئے ہیں بے شمار
 چادریں سب کی چھنی ہیں کیا رقیہ کیا رباب
-سر جھکائے بی‌بیاں ہیں کربلا سے شام تک
+سر جھکائے بیبیاں ہیں کربلا سے شام تک
 
 ۶
 بیکسوں کا حال کوئی پوچھنے والا نہیں

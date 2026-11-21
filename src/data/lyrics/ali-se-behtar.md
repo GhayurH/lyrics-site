@@ -71,9 +71,6 @@ romanLyrics: |-
   Tamaam saathi bichhar chuke haiṅ
   Koi nahiṅ jo madad ko aaye
   Khare haiṅ ran meiṅ akele Sarwar
-# source_id: nohayonline:0fdb0083acc85f59de6c
-# source_url: https://www.nohayonline.com/details_content.php?id=563
-# raw_sha256: b35126bef06fec60b018142af2e1478aad293a42ec3fd1692efcef1cd7e7470d
 ---
 بیان کرنے کو یوں تو دنیا
 شرف بیان کرتی ہے سبھی کے

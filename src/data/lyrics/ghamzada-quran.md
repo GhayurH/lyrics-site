@@ -56,9 +56,6 @@ romanLyrics: |-
   Safdar o Altaf khuṅ rone lagi Ruh-e-Rasul
   Jab bhi haaye ya Nabi keh kar bulaati thi Batul
   Ye sada Zehra ki haaye dard ki tafsir hai
-# source_id: nohayonline:85d6e139b5427ae74e00
-# source_url: https://www.nohayonline.com/details_content.php?id=3139
-# raw_sha256: b893a81318b70e73ed1b21a6840ead7fd54d490f32af3c27783eea7049cb4f57
 ---
 یا فاطمہ زہرا یا ام ابیہا
 سیدہ راضیہ مرضیہ

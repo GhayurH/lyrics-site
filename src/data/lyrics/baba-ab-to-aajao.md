@@ -58,9 +58,6 @@ romanLyrics: |-
   Likh raha hai jo Majid Shadmaaṅ parho nauha
   Gunjta hai kaanoṅ meiṅ bekasoṅ ka ye naala
   Ae yatimoṅ ke yaawar baba ab to aajao
-# source_id: nohayonline:6700aa2c66ffe379a493
-# source_url: https://www.nohayonline.com/details_content.php?id=903
-# raw_sha256: c38834c8f897f49cff637531fea2db8bc19a3a48346445973c78a6ce2872a1b9
 ---
 
 شام غریباں

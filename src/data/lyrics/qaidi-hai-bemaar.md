@@ -80,9 +80,6 @@ romanLyrics: |-
   Kaise likhuṅ maiṅ Bilal
   Aage aage naize par tha
   Farq-e-shah-e-abraar
-# source_id: nohayonline:c5e4c4e2eece58e25889
-# source_url: https://www.nohayonline.com/details_content.php?id=1289
-# raw_sha256: dfebd8e02c58de2aa21fea43c14868ad476f25d72131a17aa4d367f0c86dd3db
 ---
 دیکھ کر بے کسی بھتیجے کی
 بولی رو کے زینب لاچار

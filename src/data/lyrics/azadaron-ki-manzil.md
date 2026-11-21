@@ -84,9 +84,6 @@ romanLyrics: |-
   Bichhaate haiṅ yahaaṅ apne malak par
   Hai is ki roshni Kaabe talak par
   Ab us manzil meiṅ daakhil Karbala hai
-# source_id: nohayonline:874248c4f3aaf6bcbd7c
-# source_url: https://www.nohayonline.com/details_content.php?id=3612
-# raw_sha256: 28ad9111313cbc355c73175247dd5c63bf0b5cafb83e6f66fc54148b95dc521c
 ---
 
 ہماری شان کربلا ہماری جان کربلا

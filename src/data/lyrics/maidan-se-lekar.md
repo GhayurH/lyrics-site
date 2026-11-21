@@ -60,9 +60,6 @@ romanLyrics: |-
   Jis waqt bhi Aamir Sarwar ka
   Nazraana koi maqbul hua
   Har gaam pe Aini shukr kiya
-# source_id: nohayonline:4cced5c4326c0160278a
-# source_url: https://www.nohayonline.com/details_content.php?id=3591
-# raw_sha256: 3690e795c6d2c835ed22e18da19102e9d8b8c84bb03457f8a0b920bc59882c9a
 ---
 عاشور کے دن وہ شور اٹھا
 میدان سے لے کر خیمے تک

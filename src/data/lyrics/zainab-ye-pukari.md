@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Gunji ye sada dasht meiṅ ae Maajid o Mukhtaar
   Mazlum ko majruh ko tanha ko na maaro
-# source_id: nohayonline:7a481236eeabefa8ba96
-# source_url: https://www.nohayonline.com/details_content.php?id=2082
-# raw_sha256: fe5cb325937c8fe034bdf81d9247f1dcf7288cbb8dc9af38b8b4752e72b905f3
 ---
 زینب یہ پکاری میرے بھیا کو نہ مارو
 یوں لختِ دلِ فاطمہ زہرا کو نہ مارو

@@ -73,9 +73,6 @@ romanLyrics: |-
   Amma haiṅ baazuoṅ pe mere zulm ke nishaaṅ
   Amma tumhaari beti ke dukhte haiṅ ustukhwaaṅ
   Ahsaaṅ lahad larazti thi Zainab ke bain par
-# source_id: nohayonline:29c01da175c44ea90ddb
-# source_url: https://www.nohayonline.com/details_content.php?id=2990
-# raw_sha256: 70e914e3ffe488060c13f8d4cdcc4a81f92a9a564833723cf01f828f70c090a1
 ---
 اماں تمہارا لٹ گیا جنگل میں سارا گھر
 زینب تڑپ کے کہتی تھی قبرِ بتول پر

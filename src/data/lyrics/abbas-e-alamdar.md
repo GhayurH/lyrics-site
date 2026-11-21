@@ -60,9 +60,6 @@ romanLyrics: |-
   Haathoṅ pe uthaye hue Abbas ka parcham
   Jaeṅge ziyarat ko teri Karbobala hum
   Hum tere haiṅ ghamkhwar ae Abbas-e-Alamdar
-# source_id: nohayonline:6ce8f3ff673f3e9a5e63
-# source_url: https://www.nohayonline.com/details_content.php?id=1751
-# raw_sha256: 79f619b826c0b0f9fb8ae6f65986b38d22cde1908bd6c2e28848b2013978fc7f
 ---
 
 کس شیر کی آمد ہے کہ رن کانپ رہا ہے

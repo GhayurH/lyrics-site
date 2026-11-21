@@ -63,9 +63,6 @@ romanLyrics: |-
   Maaṅ saath saath pahuṅchi bete ka gham manaane
   Aayi nazar ye dukhiya har laash ke sirhaane
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
-# source_id: nohayonline:28db991aba40ac39cbbc
-# source_url: https://www.nohayonline.com/details_content.php?id=1131
-# raw_sha256: ac317819d9c1aad53d973c9c4025edbbdaf4d52d48c955000d68b1f96fd6e4c9
 ---
 
 اماں میں جا رہا ہوں دینِ خدا بچانے

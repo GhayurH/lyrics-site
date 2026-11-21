@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Yazid naam zamaane meiṅ ho gaya laanat
   Husain is tarah Athar use mita ke chale
-# source_id: nohayonline:fa3acd78d762744d47cf
-# source_url: https://www.nohayonline.com/details_content.php?id=921
-# raw_sha256: a0e9ed8bb2f89c1a23927d07af7f0d750de4a93885ea58b87ca1147bf4ac19aa
 ---
 سناں کی نوک پہ بھی شاہ سر اٹھا کے چلے
 جہاں کو طاقت حق کیا ہے یہ دکھا کے چلے

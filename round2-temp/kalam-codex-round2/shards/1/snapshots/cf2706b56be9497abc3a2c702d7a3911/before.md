@@ -1,0 +1,233 @@
+---
+title: "ہر درود اور ہر سلام مادرِ حسینؑ تیرے نام"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
+tags: []
+aliases: []
+published: false
+romanLyrics: 'Har durood aur har salaam
+
+
+  1
+
+  Madare hussain tere naam
+
+  Zaujaye ali e sar baland
+
+  Fatema azeem arjumand
+
+  Jiske aastane paak ke
+
+  Qudsiyane arsh hai ghulam
+
+
+  2
+
+  Hai wo fatema wo fatema
+
+  Aarzoo-e-qalb e mustufa
+
+  Jiske laadle hassan hussain
+
+  Jiski betiyan falak muqaam
+
+
+  3
+
+  Kat raha tha farte shaahe deen
+
+  Chal raha tha khanjare layeen
+
+  Bibi aap dekhti rahi
+
+  Lut gaye haram jalay khayaam
+
+
+  4
+
+  Har durood aur salam
+
+  Khwahare hussain tere naam
+
+  Sani e janabe sayyeda
+
+  Allah allah tera hausla
+
+  Khoob ki hifazate haram
+
+  Baad-e-qatle sayyede anaam
+
+
+  5
+
+  Bibi gham uthaye hai bahot
+
+  Dil pe daagh khaaye hai bahot
+
+  Tujpe ay hussain ki behan
+
+  Hogayi musibatein tamaam
+
+
+  6
+
+  Karbala mein apne dilruba
+
+  Kardiye hussain par fida
+
+  Aun aur mohamed e jari
+
+  Hogaye shaheed e tashnakaam
+
+
+  7
+
+  Daulate batool lut gayi
+
+  Dukhtare rasool lut gayi
+
+  Chin gayi saro se chadarein
+
+  Jal gaye hussain ke qayam
+
+
+  8
+
+  Mayyatein padi hai bekafan
+
+  Kya kare hussain ki behan
+
+  Bekasi aur aisi bekasi
+
+  Shaam aur karbala ki shaam
+
+
+  9
+
+  Inqilaabe waqt dekhiye
+
+  Imtihane saqt dekhiye
+
+  Sar khule rasool zadiyan
+
+  Aur ahle shar ka ijtema
+
+
+  10
+
+  Har durood aur salam
+
+  Dukhtare hussain tere naam
+
+  Shimr kibriya ka waasta
+
+  Tujko mustafa ka waasta
+
+  Binte shaah be-gohar na thi
+
+  Mubtela e gham hai tashnakaam
+
+
+  11
+
+  Shimr ke tamache khaye hai
+
+  Bibi kitne gham uthaye hai
+
+  Baap ki judaai kam na thi
+
+  Tujpe qaid ke sitam khatam
+
+
+  12
+
+  Bibi aap par sitam hue
+
+  Mar gayi pidar ka gham liye
+
+  Haaye jeete ji na chut saka
+
+  Qaid qaanaye ameere shaam'
+---
+
+ہر درود اور ہر سلام
+
+۱
+مادرِ حُسینؑ تیرے نام
+زوجہِ علیِؑ سر بلند
+فاطمہؑ عظیم ارجُمند
+جس کے آستانِ پاک کے
+قُدسیانِ عرش ہیں غلام
+
+۲
+ؑہے وہ فاطمہؑ وہ فاطمہ
+ؐآرزوئے قلبِ مُصطفٰی
+ؑجس کے لاڈلے حسنؑ حُسین
+جس کی بیٹیاں فلک مقام
+
+۳
+کٹ رہا تھا فرقِ شاہِ دیں
+چل رہا تھا خنجرِ لعیں
+بی‌بی آپ دیکھتی رہیں
+مٹ گئے حرم جلے خیام
+
+۴
+ہر درود اور سلام
+خواہرِ حُسینؑ تیرے نام
+ثانیِ جنابِ سیدہؑ
+اللہ اللہ تیرا حوصلہ
+خوب کی حفاظتِ حرم
+بعدِ قتلِ سیدِ انام
+
+۵
+بی‌بی غم اُٹھائے ہیں بہت
+دل پہ داغ کھائے ہیں بہت
+تُجھ پہ اے حُسینؑ کی بہن
+ہو گئیں مصیبتیں تمام
+
+۶
+کربلا میں اپنے دلرُبا
+کر دیئے حُسینؑ پر فدا
+عونؑ اور محمدِؑ جری
+ہو گئے شہیدِ تشنہ کام
+
+۷
+دولتِ بتولؑ لُٹ گئی
+دُخترِ رسول لُٹ گئی
+چھن گئی سروں سے چادریں
+جل گئے حُسینؑ کے خیام
+
+۸
+مَیتیں پڑی ہیں بے کفن
+کیا کرے حُسینؑ کی بہن
+بے کسی اور ایسی بے کسی
+شام اور کربلا کی شام
+
+۹
+انقلابِ وقت دیکھیے
+امتحانِ سخت دیکھیے
+ؑسر کُھلے رسول زادیاں
+اور اہلِ شر کا اژدھام
+
+۱۰
+ہر درود اور سلام
+دُخترِ حُسینؑ تیرے نام
+شمر کبریا کا واسطہ
+تُجھ کو مُصطفٰیؐ کا واسطہ
+بنتِ شاہ کے گوہر نہ چھین
+مبتلائے غم ہے تشنہ کام
+
+۱۱
+شمر کے تمانچے کھائے ہیں
+بی‌بی کتنے غم اُٹھائے ہیں
+باپ کی جُدائی کم نہ تھی
+تُجھ پہ قید کے ستم ختم
+
+۱۲
+بی‌بی آپ پر ستم ہوئے
+مر گئیں پدر کا غم لیئے
+ہائے جیتے جی نہ چُھٹ سکا
+قید خانہِ امیرِ شام

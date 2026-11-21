@@ -1,0 +1,238 @@
+---
+title: "کربلا کربلا"
+alternateTitle: "Bas Maula Bulalein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "N. Sarwar & J. Jaffri"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Karbala karbala
+  Roz azadaroṅ ke hum khaafile
+  Dekhte hai karbala jaate huwe
+  Hum ko bhi sarkar bula lijiye
+  Bula lijiye bula lijiye
+  Sab ki sada karbala
+  Sab ki dua karbala
+  Poocho azadaroṅ se to sab ye kahenge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
+  Karbobala jaan e azadaar hai
+  Karbobala ishq ka darbar hai
+  Karbobala jannat e zawwar hai
+  Saara jahaṅ jis ka talabgaar hai
+  Karbobala jaan hai
+  Sab ka ye armaan hai
+  Rauza e shabbir pe sab mil ke chalenge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
+  Maula hum ne hamesha se yehi hai suna
+  Maal se daulat se nahi waasta
+  Jis pe karam hota hai abbas ka
+  Log wohi jaate hai karbobala
+  Ghazi bula lo hameiṅ
+  Rauza dikha do hameiṅ
+  Hum to bas ab tum se hi faryad kareṅge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Sab ki sada karbala
+  Sab ki dua karbala
+  Poocho azadaroṅ se to sab ye kahenge
+  Maula ab bhi caroro hai muhib aap ke
+  Karbobala jo ke nahi aa sake
+  Dil meiṅ ziyaraat ki hasrat liye
+  Kehte hai maula hameiṅ bulwaiye
+  Ya shah e karbobala
+  Un ki bhi sun lo sada
+  Wo bhi bulaawe ka intezar kareṅge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
+  Aana hai hum ko aana hai hum ko
+  Aana hai hum ko ya Husain aana hai hum ko
+  Aana hai hum ko mere maula wahaṅ
+  Asghar o qasim ali akbar jahaṅ
+  Honge shahidoṅ ke masayib bayaṅ
+  Karna hai phir matam e tishna labaṅ
+  Ganje shahidaṅ ka gham
+  Shaam e gharibaṅ ka gham
+  Hum wahaṅ ashoora o chehlum bhi kareṅge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Sab ki sada karbala
+  Sab ki dua karbala
+  Poocho azadaroṅ se to sab ye kahenge
+  Dekhna hai manzar e karbobala
+  Dur thi kitni wo nehr alqama
+  Jis jagah maula ne di hal min sada
+  Jis jagah qaimw jale sab kuch luta
+  Ghazi gira tha jahaṅ
+  Royi sakina jahaṅ
+  Nauha padhenge wahaṅ matam bhi kareṅge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
+  Karbobala waale shaheedo salaam
+  Aap ka sheda hai ye aalam tamaam
+  Dil pe likhe hai jo ye bahattar naam
+  Yaad rakhenge ye tumhare ghulam
+  Aap se waada raha
+  Aayenge jab karbala
+  Aa ke salaam ap ko sau baar kareṅge
+  Bas maula bulalein
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Sab ki sada karbala
+  Sab ki dua karbala
+  Poocho azadaroṅ se to sab ye kahenge
+  Aana hai maula aana hai hum ko
+  Aana hai hum ko ya Husain
+  Aana hai hum ko
+  Haa ganje shahidaṅ pe
+  Haa nehr e alqama pe
+  Aana hai hum ko ya Husain
+  Aana hai hum ko
+  Haa ana hai hum ko
+  Maqam e kaf e abbas
+  Haa qaima e sadaat
+  Haa maqam e ali asghar
+  Haa maqam e ali akbar
+  Wo rauza e shabbir
+  Wo rauza e abbas
+  Wo rauza e abbas
+  Hum sab ke hai ye aas
+  Bas maula bulalein
+---
+
+۱
+کربلا کربلا
+روز عزاداروں کے ہم قافلے
+دیکھتے ہیں کربلا جاتے ہوے
+ہم کو بھی سرکار بلا لیجیےء
+بلا لیجیےء بلا لیجیےء
+سب کی صدا کربلا
+سب کی دعا کربلا
+پوچھوں عزاداروں سے تو سب یہ کہیں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+کاش ہمیں حضرت عباس بلاییں
+کربوبلا کا ہمیں دیدار کرادیں
+حسین یا حسین
+کربوبلا جان عزادار ہے
+کربوبلا عشق کا دربار ہے
+کربوبلا جنت زوار ہے
+سارا جہاں جس کا طلبگار ہے
+کربوبلا جان ہے
+سب کا یہ ارمان ہے
+روضہء شبیر پہ سب مل کے چلیں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+کاش ہمیں حضرت عباس بلاییں
+کربوبلا کا ہمیں دیدار کرادیں
+حسین یا حسین
+مولا ہم نے ہمیشہ سے یہی ہے سنا
+مال سے دولت سے نہیں واسطہ
+جس پہ کرم ہوتا ہے عباس کا
+لوگ وہی جاتے ہیں کربوبلا
+غازی بلا لو ہمیں
+روضہ دکھا دو ہمیں
+ہم تو بس اب تم سے ہی فریاد کریں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+سب کی صدا کربلا
+سب کی دعا کربلا
+پوچھوں عزاداروں سے تو سب یہ کہیں گے
+مولا اب بھی کروڑوں محب آپ کے
+کربوبلا جو کہ نہیں آ سکے
+دل میں زیارت کی حسرت لیےء
+کہتے ہیں مولا ہمیں بلوایےء
+یا شاہ کربوبلا
+ان کی بھی سن لو صدا
+وہ بھی بلواوے کا انتظار کریں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+کاش ہمیں حضرت عباس بلاییں
+کربوبلا کا ہمیں دیدار کرادیں
+حسین یا حسین
+آنا ہے ہم کو آنا ہے ہم کو
+آنا ہے ہم کو یا حسین آنا ہے ہم کو
+آنا ہے ہم کو میرے مولا وہاں
+اصغر و قاسم علی اکبر جہاں
+ہونگے شہیدوں کے مصایب بیاں
+کرنا ہے پھر ماتم تشنہ لباں
+گنج شہیداں کا غم
+شام غریباں کا غم
+ہم وہاں عاشورہ و چہلم بھی کریں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+سب کی صدا کربلا
+سب کی دعا کربلا
+پوچھوں عزاداروں سے تو سب یہ کہیں گے
+دیکھنا ہے منظر کربوبلا
+دور تھی کتنی وہ نہر علقمہ
+جس جگہ مولا نے دی ھل من صدا
+جس جگہ خیمے جلے سب کچھ لٹا
+غازی گرا تھا جہاں
+روی سکینہ جہاں
+نوحہ پڑھیں گے وہاں ماتم بھی کریں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+کاش ہمیں حضرت عباس بلاییں
+کربوبلا کا ہمیں دیدار کرادیں
+حسین یا حسین
+کربوبلا والے شہیدوں سلام
+آپ کے شیدا ہے یہ عالم تمام
+دل پہ لکھے ہے جو یہ بہتر نام
+یاد رکھیں گے یہ تمہارے غلام
+آپ سے وعدہ رہا
+آےنگے جب کربلا
+آ کے سلام آپ کو سو بار کریں گے
+بس مولا بلا لیں
+سن لیں صداییں
+ہم کو دکھاییں کربوبلا
+سب کی صدا کربلا
+سب کی دعا کربلا
+پوچھوں عزاداروں سے تو سب یہ کہیں گے
+آنا ہے مولا آنا ہے ہم کو
+آنا ہے ہم کو یا حسین
+آنا ہے ہم کو
+ہاں گنج شہیداں پہ
+ہاں نہر علقمہ پہ
+آنا ہے ہم کو یا حسین
+آنا ہے ہم کو
+ہاں آنا ہے ہم کو
+مقام کف عباس
+ہاں خیمہء سادات
+ہاں مقام علی اصغر
+ہاں مقام علی اکبر
+وہ روضہء شبیر
+وہ روضہء عباس
+وہ روضہء عباس
+ہم سب کے ہیں یہ آس
+بس مولا بلا لیں

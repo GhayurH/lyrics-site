@@ -1,15 +1,15 @@
 ---
-title: اے بادِ صبا جا کے یہ عمو کو بتانا
-alternateTitle: Pyasi Hai Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے بادِ صبا جا کے یہ عمو کو بتانا"
+alternateTitle: "Pyasi Hai Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anwar Allahbadi"
 tags: []
 aliases: []
 published: true
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 romanLyrics: |-
   Ae baad-e-saba ja ke ye ammu ko bataana
   Pyasi hai Sakina
@@ -63,18 +63,20 @@ romanLyrics: |-
   Pyasi hai Sakina
 
   7
+  Thi dil ki tamanna wahi maut aaye mujhe bhi
+  Turbat hai taraai pe jahaaṅ mere chacha ki
+  Ek chhoti si saahil pe bane qabr bhi meri
+  Ye aakhri khwaahish bhi na ho paayegi puri
+  Mar kar bhi rahega mera zindaaṅ meiṅ thikaana
+  Pyasi hai Sakina
+
+  8
   Anwar ye sada parcham-e-Abbas se aayi
   Maiṅ bhul nahiṅ sakta Sakina meri bachchi
   Kaate gaye baazu mere majbur tha Bibi
   Mashkiza alam meiṅ hai laga dekh le ab bhi
   Parcham ka mere kaam hai dunya ko bataana
   Pyasi hai Sakina
-# source_id: nohayonline:c9dc830a3544bc137a4d
-# source_url: https://www.nohayonline.com/details_content.php?id=2379
-# raw_sha256: fe136ffcde4360f513d42ed1b1de9a27d8484c2f581f5e6075161c638cb614ba
-# source_id: ziyaraat:689e068cc8714bf0ded6
-# source_url: https://www.ziyaraat.net/api/noha/2479
-# raw_sha256: 3b896e488620d199563ea4d76447889065228a8774701c7a63df7e82f563c1f0
 ---
 اے بادِ صبا جا کے یہ عمو کو بتانا
 پیاسی ہے سکینہ
@@ -128,6 +130,14 @@ romanLyrics: |-
 پیاسی ہے سکینہ
 
 ۷
+تھی دل کی تمنا وہیں موت آئے مجھے بھی
+تربت ہے ترائی پہ جہاں میرے چچا کی
+اک چھوٹی سی ساحل پہ بنے قبر بھی میری
+یہ آخری خواہش بھی نہ ہو پائے گی پوری
+مر کر بھی رہے گا میرا زنداں میں ٹھکانا
+پیاسی ہے سکینہ
+
+۸
 انور یہ صدا پرچمِ عباس سے آئی
 میں بھول نہیں سکتا سکینہ میری بچی
 کاٹے گئے بازو میرے مجبور تھا بی‌بی

@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ae Musaddiq reh gayi tanha Sakina Shaam meiṅ
   Aur watan meiṅ ghamzada Sughra akeli reh gayi
-# source_id: nohayonline:49ac9efe4d81c604bf77
-# source_url: https://www.nohayonline.com/details_content.php?id=3282
-# raw_sha256: 753d5967477cd780cd91676ee1480c424ba4326a1e979253c24f998f096c83ff
 ---
 جا چکے سب کربلا صغرا اکیلی رہ گئی
 بے کس و بے آسرا صغرا اکیلی رہ گئی

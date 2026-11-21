@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Meesum Ali"
 tags: []
 aliases:
   - "Kiun Na Marjaye Pidar"
@@ -15,7 +16,7 @@ romanLyrics: |-
 
   1
   baap logoṅ se yuṅ, bete ka pata puchta tha
-  tum ne dekha hai koi, rann meiṅ Payambar jaisa
+  tum ne dekha hai koi, ran meiṅ Payambar jaisa?
 
   2
   baap ke saamne hi tor di sine meiṅ sinaaṅ
@@ -43,7 +44,7 @@ romanLyrics: |-
 
 ۱
 باپ لوگوں سے یوں، بیٹے کا پتا پوچھتا تھا
-تم نے دیکھا ہے کوئی، رن میں پیمبر جیسا
+تم نے دیکھا ہے کوئی، رن میں پیمبر جیسا؟
 
 ۲
 باپ کے سامنے، ہی توڑ دی سینے میں سناں

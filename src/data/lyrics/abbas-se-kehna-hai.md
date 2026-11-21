@@ -80,9 +80,6 @@ romanLyrics: |-
   Rauze pe bula bhejo zawwari ata kar do
   Maula ye karam kar do
   Abbas se kehna hai mujhe Abbas se kehna hai
-# source_id: nohayonline:0a086b9290198480c0a8
-# source_url: https://www.nohayonline.com/details_content.php?id=1854
-# raw_sha256: d82a42d8a69d3207b68e45c0ef2067595a340d4a523e649fbd58c7176e515ef9
 ---
 
 اے عشقِ حسینی مجھے ایجاز دکھا دے

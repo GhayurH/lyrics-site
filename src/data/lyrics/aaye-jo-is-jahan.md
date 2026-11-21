@@ -105,9 +105,6 @@ romanLyrics: |-
   Sar nange baal khole woh karne lagi fughaṅ
   Jaan-e-Husain ki mujhe is dam talaash hai
   Ae Karbala kidhar mere dulha ki laash hai
-# source_id: nohayonline:2309cf986739c3817815
-# source_url: https://www.nohayonline.com/details_content.php?id=2763
-# raw_sha256: 2fa1550e99da18412bd3628e470d4dbcd9eb720eb7cb6ec451ca1c986a0cd090
 ---
 آئے جو اس جہاں میں ہمشکل مصطفیٰ
 ایسا لگا کہ چاند زمیں پر اتر گیا

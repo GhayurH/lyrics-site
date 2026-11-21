@@ -56,9 +56,6 @@ romanLyrics: |-
   11
   Ranj meiṅ dekho na Sarwar se kuchh ho jaaye
   Dil hai insaan ka beta mere mazlum Husain
-# source_id: nohayonline:a1406f3bd1e7a4c29f1a
-# source_url: https://www.nohayonline.com/details_content.php?id=1115
-# raw_sha256: 4b33c71ce16b25d10de62ae0f42b87383608d4806a7fc01c2698941b2104733d
 ---
 فاطمہ کا تھا یہ نوحہ میرے مظلوم حسین
 مجھ کو آواز دو بیٹا میرے مظلوم حسین

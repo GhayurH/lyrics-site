@@ -1,31 +1,54 @@
-# Source and deployment audits
+# Editorial audit and maintenance tools
 
-These are maintenance tools, not an implementation diary. Run them from the repository root. Editorial rules are in [Contributing](../docs/CONTRIBUTING.md); human validation procedures are in [Quality assurance](../docs/QUALITY_ASSURANCE.md).
+The audit directory holds **reports and review records**, not the canonical poetry. Source rules are in [Editorial standards](../docs/EDITORIAL.md); review and release acceptance are in [Quality assurance](../docs/QUALITY_ASSURANCE.md).
 
-## Markdown source review
-
-Use `npm run source:sync` after changing poetry Markdown and `npm run source:check` for read-only verification. The source reviewer below reports scan-linked editorial candidates; existing OCR uncertainties remain visible, and the regression gate rejects new findings. Pagefind and offline search data are build outputs.
+## Read-only content review
 
 ```bash
-npm run content:review                           # Lists all Markdown files with findings
-npm run content:review -- --summary              # Findings counts only
-npm run --silent content:review -- --markdown > review.md  # Scan-linked report
-npm run --silent content:review -- --csv > review.csv      # Excel-friendly UTF-8 CSV
-npm run --silent content:review -- --json > review.json    # Structured report
+npm run content:review
+npm run content:review -- --summary
+npm run --silent content:review -- --markdown > review.md
+npm run --silent content:review -- --csv > review.csv
+npm run --silent content:review -- --json > review.json
+node scripts/audit-round2-language-codes.mjs
 ```
 
-`audit/manual-md-review-tracker.csv` is the **single register for open manual source decisions**. It is empty after the completed first import review, but remains available for future cohorts. When decisions are open, record duplicate adjudication, Roman transliteration, Urdu completeness, stanza alignment and metadata in the existing file. `pending`, `partial_review` and `blocked` remain unresolved regardless of automated checks; preserve source notes until the question is reviewed against the originals. Source identifiers and URLs belong in each imported poem's Markdown provenance comments. See [Quality assurance](../docs/QUALITY_ASSURANCE.md#editorial-acceptance-and-merging) for the release gate.
+These scan standalone and Basta source, checking metadata, Unicode/script issues, stanza alignment, Roman editions, unexpected Basta fragments and reviewed source mapping. Reports are **advisory** and do not change poems. The build runs a separate **read-only regression gate**; an accepted historical baseline is not automatic editorial approval. Inspect printed scans and actual source material before changing disputed readings or identities.
 
-`audit/lyric-md-rounds.csv` is the **permanent lyric Markdown cohort/provenance register**. It records which import round introduced each source file (`original`, `round_1`, and future `round_2`), its source identifiers, original branch, and historical file disposition. Preserve entries for deleted, renamed, or consolidated candidates rather than discarding their lineage. Add each later import round to this same CSV; it is distinct from `manual-md-review-tracker.csv`, which tracks ongoing editorial review decisions. Retain the provenance register permanently; keep the manual review register available whenever a new editorial round opens.
+## Which record owns what?
 
-The single source reviewer covers all standalone lyrics and both Basta editions. It checks stanza labels, verse/fragment alignment, Unicode/script contamination, extended Latin transliteration, known editorial uncertainty phrases, frontmatter, missing editions, and indexed Basta source mapping. It replaces the older separate Basta catalog and Python OCR reports. **Findings are advisory and never change source text.** Inspect scans before correcting uncertain readings. Weekly CI uploads the scan-linked `content-review` artifact with a short retention period.
+| Record | Scope | Publication rule |
+| --- | --- | --- |
+| `audit/lyric-md-rounds.csv` | Permanent, finalized source round/disposition history (`original`, `round_1`, `round_2` as applicable) | **Keep identical to `main` during Round 2 WIP**; incorporate final reviewed Round 2 decisions only during release preparation. Do not turn this into a live work log. |
+| `audit/round2-dedup-wip.csv` | Temporary adjudication and progress during Round 2, including duplicate decisions and review status | Working document **only**. Reconcile final outcomes into the permanent register at release; remove the temporary review artifact once it is no longer needed. |
+| `audit/manual-md-review-tracker.csv` | Open manual source/editing questions for the active review cohort | Keep unresolved decisions honestly marked; do not pretend that a green test, automated repair or spot check closes them. Keep this separate from finalized history. |
+
+Do **not** duplicate an import's scraper provenance in the canonical Markdown. During WIP, keep evidence in the review workflow where needed; before publication remove source-post IDs/URLs, raw file hashes and snapshot comments from poem files while retaining **editorial** data, display metadata and fixed source identities.
+
+Pending, partial or blocked work must be reviewed against the relevant source or explicitly flagged as unresolved. Do not mark a file `reviewed` merely because a batch normalizer ran.
+
+## Round 2 metadata and title cleanup
+
+`npm run lyrics:metadata:check` audits all standalone lyric headers, provenance comments and filenames without editing them. `npm run lyrics:metadata:fix` quotes strings while preserving YAML types and Roman lyric blocks, drops source-provenance lines, renames files from canonical title fields, handles filename collisions, updates published redirects and recitation identity locks, and adjusts temporary WIP tracker paths. It leaves `audit/lyric-md-rounds.csv` unchanged during the work-in-progress phase.
+
+Missing original-script or Roman titles and uncertain transliterations are review findings, **never invented automatically**. Inspect the diff and the redirect count before publication. Stop the local Codex per-file worker before running the filename-changing command.
+
+## Source synchronization
+
+```bash
+npm run whitespace:fix     # Changed text files: strip trailing ASCII whitespace and all EOF newlines
+npm run source:sync        # Controlled source normalizers/derived metadata; writes changes
+npm run source:check       # Read-only; also part of build
+```
+
+Review the diff from `source:sync` before committing. Roman spelling changes can be previewed with `npm run roman:review`. Source identity approvals are never automatic; see [Contributing](../docs/CONTRIBUTING.md#explicit-basta-approvals).
 
 ## Pages deployment cleanup
 
-`audit/cleanup-pages.sh` deletes **every deployment except the active production deployment**, including older production and preview versions. No rollback versions are retained. It requires Wrangler OAuth, `jq`, and the local Wrangler installation; it aborts if active production changes during cleanup.
+`audit/cleanup-pages.sh` deletes **all deployments except the currently active production deployment**, including older production/preview versions. This removes historical rollback deployments and is intentionally destructive; it requires Wrangler OAuth, `jq`, and local Wrangler. It aborts if active production changes mid-run.
 
 ```bash
-./audit/cleanup-pages.sh 5 # Optional maximum parallel workers
+./audit/cleanup-pages.sh 5    # Optional parallel worker count
 ```
 
-Run it only when losing historic preview and rollback deployments is acceptable.
+Run only when loss of preview and rollback deployments is acceptable. Cloudflare/R2 and recitation operations are documented in [Operations](../docs/OPERATIONS.md).

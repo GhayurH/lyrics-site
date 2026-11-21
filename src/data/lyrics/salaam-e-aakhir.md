@@ -51,9 +51,6 @@ romanLyrics: |-
   To bole shaah-e-zaman se ye Safdar o Mazhar
   Bache jo agle baras hum haiṅ aur ye gham phir hai
   Jo chal base to ye apna salaam-e-aakhir hai
-# source_id: nohayonline:92762dcf066dd875f2f3
-# source_url: https://www.nohayonline.com/details_content.php?id=1563
-# raw_sha256: f9a42d5b099c4dedfaf6b4753471eefe9202b6462bc636475e392525908acd27
 ---
 اے شہ کربلا اے شہ کربلا
 ہر عزادار کے دل کی آواز ہے

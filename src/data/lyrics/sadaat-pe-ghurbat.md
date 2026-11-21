@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Jaari hai Kalim ab tak zanjir ki aankhoṅ se
   Sajjad ke zakhmoṅ ki jo khuṅ fishaani thi
-# source_id: nohayonline:c28f0f4ae24bfa68c08a
-# source_url: https://www.nohayonline.com/details_content.php?id=3697
-# raw_sha256: a1192a5d015265424c6a02f8c1f32d8ca167411afe104317fa45952457b6012a
 ---
 سادات پہ غربت میں یہ شام بھی آنی تھی
 جان عابد مضطر کی زینب کو بچانی تھی

@@ -74,9 +74,6 @@ romanLyrics: |-
   Manzar-e-Karbobala chhaa gaya har manzar par
   Hum musalle pe ho mimbar pe ho ya bistar par
   Gunjta rehta hai soch meiṅ wohi ik nauha
-# source_id: nohayonline:1385583ec28151928af7
-# source_url: https://www.nohayonline.com/details_content.php?id=2136
-# raw_sha256: 5dc3134ca80aea8ae0f753e884c23a451c5dc7547be3443c8deb3b92b91471ee
 ---
 
 چلا خنجر تو سرہانے سے پکاری زہرا

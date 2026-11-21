@@ -11,15 +11,6 @@ tags: []
 aliases:
   - "Haye Haye Ali Akbar"
 published: true
-# source_id: nohayonline:828cd679385fb04e673e
-# source_url: https://www.nohayonline.com/details_content.php?id=58
-# raw_sha256: f3332da5d49ddb691d6e6251d1752aed3468f4e84735fecb1103029de310dde5
-# source_id: ziyaraat:2a4eb10fac9edc01a184
-# source_url: https://www.ziyaraat.net/api/noha/235
-# raw_sha256: cf1e57ed26c1a77f04f723d97f1c5310c57034e13b41411da05f2ae125996218
-# source_id: ziyaraat:9464b12d3dc842914607
-# source_url: https://www.ziyaraat.net/api/noha/345
-# raw_sha256: f95bbb08999a34e0d2a9a938592a3570216be5081704fe84ee6ba23d6230f577
 romanLyrics: |-
   Kehti thi yeh maaṅ khun bhari mayyat se lipat kar
   Haye haye ali akbar haye haye ali akbar

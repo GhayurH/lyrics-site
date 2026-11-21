@@ -45,9 +45,6 @@ romanLyrics: |-
   Kab se hai haal pareshaaṅ sawaali dar par
   Ek Anis-e-muztar
   Baat kuch us ke muqaddar ki abhi tak na bani
-# source_id: nohayonline:1841cfcb41f4deb879f0
-# source_url: https://www.nohayonline.com/details_content.php?id=263
-# raw_sha256: 09c5647cd31cca43834e2117019bc5b83a8745a09f20491377ad230d8a4c4801
 ---
 یا علی ادرکنی یا علی ادرکنی
 شاہ والا کا پدر ہوگیا چھلنی چھلنی

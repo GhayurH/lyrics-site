@@ -61,9 +61,6 @@ romanLyrics: |-
   Safdar-e-khasta jigar gham ye bayaaṅ kaise karuṅ
   Chashm-e-Zahra jo se tapka tha wo ek qatra-e-khuṅ
   Tu bhi Rehaan qalam rakh de ye keh kar ruk ja
-# source_id: nohayonline:bc282a426e927fef6b90
-# source_url: https://www.nohayonline.com/details_content.php?id=1656
-# raw_sha256: 27fa82515c756d252525333e6fc38507708159d2c5f060fac1f5d07fc7d3252e
 ---
 گرم ریتی پہ سر دشت عجب ہے منظر
 کوئی سایہ ہے جو دیتا ہے صدا رو رو کر

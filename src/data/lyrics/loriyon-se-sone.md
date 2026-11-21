@@ -33,9 +33,10 @@ romanLyrics: |-
   4
   Maut ko aaya pasina halq-e-Asghar dekh kar
   Kaaṅpta tha tir-e-Hurmala haath meiṅ larzi kamaaṅ
-# source_id: nohayonline:1a4ca26ccdec566f61bb
-# source_url: https://www.nohayonline.com/details_content.php?id=2303
-# raw_sha256: 132b779457d2a0d581625bc09809dd4e20fcc9141e344394402167216487b2bd
+
+  5
+  Qabr meiṅ Jawad o Sadiq saath le kar jaaeṅge
+  Dil meiṅ tera dard Asghar aankh se aansu rawaaṅ
 ---
 آ دوں میں لوریاں
 
@@ -60,3 +61,7 @@ romanLyrics: |-
 ۴
 موت کو آیا پسینہ حلقِ اصغر دیکھ کر
 کانپتا تھا تیرِ حرملہ ہاتھ میں لرزی کماں
+
+۵
+قبر میں جواد و صادق ساتھ لے کر جائیں گے
+دل میں تیرا درد اصغر آنکھ سے آنسو رواں

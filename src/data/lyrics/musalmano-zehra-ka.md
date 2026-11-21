@@ -65,9 +65,6 @@ romanLyrics: |-
   Jo maidaan-e-mahshar meiṅ haatif ki aayegi Safdar sada
   Jhuka lo nazar ahl-e-mahshar ke aati hai Sayyida
   Kahega Khuda is ghar ka lut kar tumheṅ kya mila
-# source_id: nohayonline:5306ea7a7859cb738cc1
-# source_url: https://www.nohayonline.com/details_content.php?id=2279
-# raw_sha256: bb252e682420fd04b82252e863672179333c914b832b3929852842558887d6e7
 ---
 پوچھتا ہے تم سے یہ دشت کربلا
 محمد کے کلمہ گو تمہیں کیا ملا
@@ -106,9 +103,9 @@ romanLyrics: |-
 وہ شہزادیاں ہو گئیں در بدر تمہیں کیا ملا
 
 ۷
-مسلمانوں تم تھے تماشائی تھی سر کھلے بی‌بیاں
+مسلمانوں تم تھے تماشائی تھی سر کھلے بیبیاں
 وہ چہرے جنہیں دیکھ پایا نہ تھا آج تک آسماں
-کھلے سر کیا بی‌بیوں نے سفر تمہیں کیا ملا
+کھلے سر کیا بیبیوں نے سفر تمہیں کیا ملا
 
 ۸
 بتاؤ مسلمانوں کیوں تم نے زینب کو بے گھر کیا

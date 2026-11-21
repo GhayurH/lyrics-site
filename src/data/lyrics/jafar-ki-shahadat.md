@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Hur baad-e-Nabi Aal-e-Nabi kaise guzaare
   Ummat hai Nabi ki jo kabhi chain na di hai
-# source_id: nohayonline:3a32fef806a2ff139b3d
-# source_url: https://www.nohayonline.com/details_content.php?id=1268
-# raw_sha256: c7b9955d481be8bc9a3b6d46da291836c81052d74c4a83da0cbf9c2af7f2682a
 ---
 جعفر کی شہادت جو مدینے میں ہوئی ہے
 پھر آلِ محمّد پہ قیامت کی گھڑی ہے

@@ -1,0 +1,58 @@
+---
+title: "بے زبان تڑپا جو کھا کے تیرِ ستم رن میں"
+recitationId: "bezaban-tadpa"
+alternateTitle: "Bezabaan Tarpa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Sachey Bhai"
+tags: []
+aliases: ["Bezaban Tadpa"]
+published: true
+romanLyrics: |-
+  Bezabaan tarpa jo khaa ke tir-e-sitam ran meiṅ
+  Zamin kaanp uthi ro ke aasmaan tarpa
+
+  1
+  Wahaaṅ wahaaṅ pe zamiṅ ran ki laalazaar bani
+  Jahaaṅ jahaaṅ pe Shah-e-diṅ ka naujawaaṅ tarpa
+
+  2
+  Jahaaṅ jahaaṅ pe tamaache lage Sakina ko
+  Sar-e-Husain sinaaṅ par wahaaṅ wahaaṅ tarpa
+
+  3
+  Sawaal-e-aab ka kya khub ye jawaab mila
+  Jo hans raha tha wo maasum bezabaan tarpa
+
+  4
+  Haram ko le ke ye naaqe kidhar se ho ke chale
+  Ke Ahl-e-Bait-e-Muhammad ka saarbaan tarpa
+
+  5
+  Kamaal-e-sabr bhi tha hadd ki naatawaani bhi
+  Ke taaziyaana laga aur na naatawaaṅ tarpa
+---
+بے زبان تڑپا جو کھا کے تیرِ ستم رن میں
+زمین کانپ اُٹھی رو کے آسمان تڑپا
+
+۱
+وہاں وہاں پہ زمیں رن کی لالہ زار بنی
+جہاں جہاں پہ شہِ دیں کا نوجواں تڑپا
+
+۲
+جہاں جہاں پہ تماچے لگے سکینہ کو
+سرِ حُسین سِناں پر وہاں وہاں تڑپا
+
+۳
+سوالِ آب کا کیا خوب یہ جواب ملا
+جو ہنس رہا تھا وہ معصوم بے زبان تڑپا
+
+۴
+حرم کو لے کے یہ ناقے کدھر سے ہو کے چلے
+کہ اہلِ بیتِ محمد کا ساربان تڑپا
+
+۵
+کمالِ صبر بھی تھا حد کی ناتوانی بھی
+کہ تازیانہ لگا اور نہ ناتواں تڑپا

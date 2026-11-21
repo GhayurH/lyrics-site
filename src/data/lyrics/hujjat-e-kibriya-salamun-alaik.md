@@ -32,9 +32,6 @@ romanLyrics: |-
   Aao Behar-e-Khuda salamun alaik
   Ab to aa jaaiye ab to aa jaaiye
   Waaris-e-Karbala salamun alaik
-# source_id: tajpoints:527938bed9421de120b8
-# source_url: https://tajpoints.com/2022/10/hujjat-e-kibriya-salamun-alaik-mir.html
-# raw_sha256: 9db19c8222e595821ab3a1fa10f72600ff4d57583bd3ee676f15e31d69e773a0
 ---
 
 حجت کبریا سلام علیک

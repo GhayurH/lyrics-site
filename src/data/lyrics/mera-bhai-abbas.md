@@ -70,9 +70,6 @@ romanLyrics: |-
   Ro ke jis waqt ye Sarwar ne kaha
   Ae behan le gayi bhai ko qaza
   Haaye ghurbat meiṅ hua hum se juda
-# source_id: nohayonline:8ba46f4e1b8150a7005b
-# source_url: https://www.nohayonline.com/details_content.php?id=2864
-# raw_sha256: 84c1368458f349a06cdc1f53d3c2386e0a01bcd76de4670f0e7639652a9611f7
 ---
 ہو کے بتیس برس والے برادر سے جدا
 لوٹے مقتل سے کمر تھامے ہوئے شاہِ ہدیٰ

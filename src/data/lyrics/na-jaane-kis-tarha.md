@@ -55,9 +55,6 @@ romanLyrics: |-
   Guzarti kya hai marg-e-naujavaaṅ se
   Sada aati hai Ahsan aasmaaṅ se
   Rahegi umr bhar sakte meiṅ dukhiya
-# source_id: nohayonline:85b255ac1404ad63459b
-# source_url: https://www.nohayonline.com/details_content.php?id=1969
-# raw_sha256: 512fd7c1281fa012224c2f72e88da8abac2bce1e4dbf6a33d5d28420dc01483a
 ---
 نہ جانے کس طرح لیلیٰ نے دیکھا
 جواں بیٹا ہے اور زخمی کلیجہ

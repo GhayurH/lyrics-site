@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Tamanna rakhte haiṅ ziyaarat ki jo Arshi o Aijaz
   Do izn donoṅ ko Karbal bulaa lo ae ammu
-# source_id: nohayonline:51da74a81b3727bf7e2e
-# source_url: https://www.nohayonline.com/details_content.php?id=1483
-# raw_sha256: 1b297ccc10e4b395c186d5b043c26ec4d922a59bfb7745e3b00d1fd27b2c447f
 ---
 پکاری روکے سکینہ بچالو اے عمو
 اسیر ہوتے ہیں ہم کو چھڑالو اے عمو

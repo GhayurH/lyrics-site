@@ -1,0 +1,78 @@
+---
+title: "قاسمؑ کی لاش لے کر آتے ہیں رن سے سرورؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: []
+aliases: []
+published: false
+romanLyrics: 'Qasim ki laash le kar aate hai ran se sarwar
+
+  Hai qaimagah may mehshar aate hai ran se sarwar
+
+  Dulha jise banakar bheja tha ran may maadar
+
+  Laasha usi ka lekar aate hai ran se sarwar
+
+
+  1
+
+  Qasim ki laash lekar...
+
+  Qaimon may jaake keh do masnad koi bichao
+
+  Dulha ki laash utha kar aate hai ran se sarwar
+
+
+  2
+
+  Wo garm rayg sehra pamaal gul sa laasha
+
+  Roti hai roohe shabbar aate hai ran se sarwar
+
+  Yun dhoondte hai tukde jaise hai phool chunte
+
+
+  3
+
+  Ran may aba bichkar aate hai ran se sarwar
+
+  Dulhan shitaab dekhe laashe ke yun na tukde
+
+  Zere aba chipa kar aate hai ran se sarwar
+
+
+  4
+
+  Momin haram may ghul tha wa qasima ka barpa
+
+  Kya sakt tha wo manzar aate hai ran se sarwar'
+---
+
+ؑقاسمؑ کی لاش لے کر آتے ہیں رن سے سرور
+
+۱
+ؑہے خیمہ گاہ میں محشر آتے ہیں رن سے سرور
+دولہا جسے بنا کر بھیجی تھا رن میں مادر
+ؑلاشہ اُسی کا لے کر آتے ہیں رن سے سرور
+
+۲
+یموں میں جا کے کہہ دو مسند کوئی بچھاؤ
+ؑدولہا کی لاش اُٹھا کر آتے ہیں رن سے سرور
+
+۳
+وہ گرم ریگ صحرا پامال گُل سا لاشہ
+ؑروتی ہے روحِ شبر آتے ہیں رن سے سرور
+
+۴
+یوں ڈھونڈتے ہیں ٹکڑے جیسے ہیں پھول چُنتے
+ؑرن میں عبا بچھا کر آتے ہیں رن سے سرور
+
+۵
+دولہن شیقاب دیکھے لاشے کے یوں نہ ٹکڑے
+ؑزیرِ عبا چھپا کر آتے ہیں رن سے سرور
+
+۶
+مومن حرم میں غُل تھا وا قاسمَ کا برپا
+ؑکیا سخت تھا وہ منظر آتے ہیں رن سے سرور

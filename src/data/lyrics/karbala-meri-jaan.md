@@ -79,9 +79,6 @@ romanLyrics: |-
   Yehi armaan har ek dil meiṅ basa hai Waaiz
   Sab ki hasrat safar-e-Karbobala hai Waaiz
   Dil ke andar bhi azadaaroṅ ne likh rakha hai
-# source_id: nohayonline:074b66344983ea04290a
-# source_url: https://www.nohayonline.com/details_content.php?id=3154
-# raw_sha256: cd05bd22019409d42ff9eb795ee69a72806ca1a8aabe44f030ed81335b692e9d
 ---
 
 ہر عزادار ہر ایک ہر وقت یہی کہتا ہے

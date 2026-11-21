@@ -52,12 +52,9 @@ romanLyrics: |-
   Misam khiyaam-e-Shah meiṅ mahshar bapa hua
   Sheh ne Raza jo Zainab-e-dilgir se kaha
   Phir kya khabar ke dekh na paao Husain ko
-# source_id: nohayonline:0e11a74706f8795e8cfc
-# source_url: https://www.nohayonline.com/details_content.php?id=2529
-# raw_sha256: 151e5672f1141605edfbf04e510f592f6f218d25e2c8d6ad3d99d2e55d4b128a
 ---
 جب آخری رخصت کو حسین آئے حرم سے
-سب بی‌بیاں لپٹی شہ والا کے قدم سے
+سب بیبیاں لپٹی شہ والا کے قدم سے
 حضرت نے کہا قطعِ محبت کرو ہم سے
 جینے کے نہیں ہم علی اکبر کے ہیں غم سے
 اک بار پھر گلے سے لگاؤ حسین کو

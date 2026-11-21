@@ -123,9 +123,6 @@ romanLyrics: |-
   Shaam jaana hai shaam jaana hai
   Shaam jaana hai shaam jaana hai
   Saqqa-e-Sakina Ae saakin al Madina
-# source_id: nohayonline:2d4ef6762f642b755310
-# source_url: https://www.nohayonline.com/details_content.php?id=2816
-# raw_sha256: 522ffe23bfc8d244fe995af919df82bed7b0a308a24829bc4cb87685be13c5fe
 ---
 لبیک یا زینب لبیک یا زینب
 لبیک یا زینب لبیک یا زینب
@@ -231,7 +228,7 @@ romanLyrics: |-
 دیکھیں زینب کا حرم اور سکینہ کی لحد
 ہے یہ ذیشان اور عرفانِ عزا کا وعدہ
 شام جس روز بھی دونوں کا بلاوا ہوگا
-بی‌بیوں کے لئے ہم اپنے وطن سے واللہ
+بیبیوں کے لئے ہم اپنے وطن سے واللہ
 لے کے جائیں گے ردا دو
 شام کا پھر ہمیں زوّار بنا دو
 مولا عباس مولا عباس مولا عباس

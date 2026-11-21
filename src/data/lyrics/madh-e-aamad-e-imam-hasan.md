@@ -65,9 +65,6 @@ romanLyrics: |-
   13
   Malaaika ke saath Jibril hai wo naara zan
   Wo aa gaye wo aa gaye Batul god meiṅ Hasan
-# source_id: tajpoints:92916c4eae07151f0269
-# source_url: https://tajpoints.com/2024/03/madh-e-aamad-e-imam-hassan-asad-ali.html
-# raw_sha256: 317b5cf6d2566258fc833d5940a9bff12e78d68cc483383b8dbd6d0106999428
 ---
 ماہِ صیام کا ہے وسط اور آمدِ حسن
 جناں میں جشن کی سجی ہوئی ہے آج انجمن

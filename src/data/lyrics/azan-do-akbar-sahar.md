@@ -81,9 +81,6 @@ romanLyrics: |-
   Baithe haiṅ uth ke saare namaazi
   Baagh-e-Iram se aaye haiṅ Haidar
   Azaan do Akbar sahar hui hai
-# source_id: nohayonline:d967fe575bb76f774ed2
-# source_url: https://www.nohayonline.com/details_content.php?id=2256
-# raw_sha256: e289db2439739709d2dd42f828517eb33a5619fe1b135d5cba7f6af38503ab42
 ---
 
 دشت بلا میں کہتی تھی مادر

@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Haae giroh-e-Husain parti hai Zainab ke bain
   Kiuṅ na ho ghamgiṅ Raza Shaam-e-gharibaaṅ bata
-# source_id: nohayonline:f18d19bf49d8411c3c31
-# source_url: https://www.nohayonline.com/details_content.php?id=1998
-# raw_sha256: a9e669f0853d5fd532619484550f280a033d3f7f5bb4ecb3f8454e7efcabec0c
 ---
 بین یہ زینب کا تھا شام غریباں بتا
 کیا ہوا کنبہ میرا شام غریباں بتا

@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Phir Takallum na Alamdar ne kholi aankheṅ
   Bint-e-Zehra ki jo chaadar ko sinaaṅ par dekha
-# source_id: nohayonline:1c62c5f4f1603f842709
-# source_url: https://www.nohayonline.com/details_content.php?id=2553
-# raw_sha256: 3bf0c5cadc369be017fc6f4caf5a2a369254632da335d27a14cf67f4a9cc43d0
 ---
 
 ہاے زینب کو زمانے نے کھلے سر دیکھا
@@ -76,3 +73,5 @@ romanLyrics: |-
 ۷
 پھر تکلم نہ علمدار نے کھولی آنکھیں
 بنت زہرا کی جو چادر کو سناں پر دیکھا
+
+<!-- Performance variant opening: ہاۓ زینبؑ / ہاۓ ہاۓ زینبؑ ہاۓ ہاۓ شام. The alternate reading has چَھری in stanza 5 and سِنا in stanza 7; the established poetic text is retained. -->

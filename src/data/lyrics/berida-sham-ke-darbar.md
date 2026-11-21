@@ -48,9 +48,6 @@ romanLyrics: |-
   Aur bazaaroṅ meiṅ tum par jo aziyat guzri
   Mukhtasar ye hai ke jo kuchh bhi qayaamat guzri
   Saari rudaad meri maaṅ ko sunaana Zainab
-# source_id: nohayonline:7d83196911f0c9dfa20d
-# source_url: https://www.nohayonline.com/details_content.php?id=192
-# raw_sha256: df68e1237a36011aa766de18932bd33035a4c18fc0460c48052f7a1626629e83
 ---
 
 بے ردا شام کے دربار میں جانا زینب

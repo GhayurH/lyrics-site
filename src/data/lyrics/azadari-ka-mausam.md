@@ -1,10 +1,10 @@
 ---
-title: ہر ایک جانب اداسی ہے عزا کی روح پیاسی ہے
-alternateTitle: Azadari Ka Mausam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہر ایک جانب اداسی ہے عزا کی روح پیاسی ہے"
+alternateTitle: "Azadari Ka Mausam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Naqvi"
 reciter: "Rizwan Zaidi"
 tags: []
@@ -67,12 +67,6 @@ romanLyrics: |-
   Kabhi Rizwan hum hote haiṅ jo haalaat se muztar
   Hawa-e-parcham-e-Abbas kehti hai suno Mazhar
   Mere saaye meiṅ aa jaao azadaari ka mausam hai
-# source_id: nohayonline:557c83209198896baf17
-# source_url: https://www.nohayonline.com/details_content.php?id=855
-# raw_sha256: 946ab81a4ab64848adec46a674dff6e22834e889d11e4110fb703ae0d0749e21
-# source_id: ziyaraat:f776a1d3fac6c03fc662
-# source_url: https://www.ziyaraat.net/api/noha/2207
-# raw_sha256: 2475ab3073b70cedc98eeec4a29edaaf2ca6a0ada79861a47ecc3d812e3b28e9
 ---
 
 ہر ایک جانب اداسی ہے عزا کی روح پیاسی ہے

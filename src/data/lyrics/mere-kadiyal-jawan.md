@@ -56,9 +56,6 @@ romanLyrics: |-
   Sinaaṅ ki nok pe roye Shaah-e-mazlum ae Waiz
   Bahut royi tarap kar Zainab o Kulsum ae Waiz
   Janaab-e-Umm-e-Laila ne parha jis waqt ye nauha
-# source_id: nohayonline:ad760a63161597b9f66c
-# source_url: https://www.nohayonline.com/details_content.php?id=3082
-# raw_sha256: d905d84cd5814b17c793d4e32e88dd8a8bd7f1b097d2c45fb5898bfe84f016a9
 ---
 
 سنان ابن انس کو دیکھ کر کہتی تھی یہ لیلیٰ

@@ -58,9 +58,6 @@ romanLyrics: |-
   Nur har laash se khuṅ ubalne laga
   Laasha-e-bawafa bhi tarapne laga
   Jab ye gunji sada chhin rahi hai rida
-# source_id: nohayonline:60be208ecccd8fd46fca
-# source_url: https://www.nohayonline.com/details_content.php?id=3273
-# raw_sha256: c7999ff66682d56fe2803ebe7d8d4c503ce932b05ef6512bd598c4dac05eb916
 ---
 غازیِ باوفا چھن رہی ہے ردا
 نہر سے لوٹ آ چھن رہی ہے ردا

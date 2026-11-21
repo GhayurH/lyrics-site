@@ -1,11 +1,11 @@
 ---
-title: شام ہائے شام
-alternateTitle: Ye Kaunsi Basti Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: "Mir Takallum"
+title: "یہ کونسی بستی ہے"
+alternateTitle: "Ye Kaunsi Basti Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
@@ -71,12 +71,6 @@ romanLyrics: |-
   Kiuṅ girta hai Abbas ka sar
   Ye kaunsi basti hai Fizza
   Shaam haaye Shaam
-# source_id: nohayonline:91a72514c8b3174c3aea
-# source_url: https://www.nohayonline.com/details_content.php?id=309
-# raw_sha256: 61c56132fa7ad1f07cd2cefcd9f521c5d951dc141b29437c1d951cdf4390325b
-# source_id: ziyaraat:ab5b6e764e6cc7cc0710
-# source_url: https://www.ziyaraat.net/api/noha/1856
-# raw_sha256: ccc202fb963ae5dc45f4d18354a8f95fd8afd3571ee5b75574124137cc822f55
 ---
 
 شام ہائے شام

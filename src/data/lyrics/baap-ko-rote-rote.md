@@ -61,9 +61,6 @@ romanLyrics: |-
   Ik diya tum jala dena aa kar
   Is andhere meiṅ ro ro ke dukhiya
   Aaj zindaaṅ meiṅ so gai hai
-# source_id: nohayonline:7f49097654260ad22451
-# source_url: https://www.nohayonline.com/details_content.php?id=2290
-# raw_sha256: c4969e953a5268f8a7ba1fb798d45c5d6b3070b1b2523635e7d58847cb0f506e
 ---
 
 باپ کو روتے روتے سکینہ

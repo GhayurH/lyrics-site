@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Kisi ko khwaahish-e-taamir hai to aaye Nasir
   Najaf ki raah meiṅ rahta huṅ naqsh-e-paa ki tarah
-# source_id: nohayonline:84aef780f5ac4301a250
-# source_url: https://www.nohayonline.com/details_content.php?id=3694
-# raw_sha256: 4c885ce1cc3e82164393f9dbfad84e749efb4c3c1cce211c65fdc0a971359e7a
 ---
 نہیں ہے کوئی بھی دنیا میں مرتضیٰ کی طرح
 کہیں بشر کی طرح ہے کہیں خدا کی طرح

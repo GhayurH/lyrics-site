@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Puchha Sajjaad se Zainab ne ye chalte chalte
   Shaam hai dur abhi kitni ham kahaaṅ aae haiṅ
-# source_id: nohayonline:f464355dcd608ff5e8c0
-# source_url: https://www.nohayonline.com/details_content.php?id=1511
-# raw_sha256: 3054f271cef0f22170ba6665ccc08bd1e20d2af939b13ce61adefeda3277ef82
 ---
 کلمہ گو یہ بتا ہم تیری کیا بات کرے
 تو نے جو آل محمّد پہ ستم ڈھائے ہیں

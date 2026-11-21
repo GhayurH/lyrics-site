@@ -75,9 +75,6 @@ romanLyrics: |-
   Shah pe qurbaaṅ kiya apne jigar ka gosha
   Aise bachchoṅ pe salaam aisi har ek maaṅ ko salaam
   Maaṅ ko salaam
-# source_id: nohayonline:2b0baded90a071b2d5ee
-# source_url: https://www.nohayonline.com/details_content.php?id=3732
-# raw_sha256: 086d687e8c63e5139a954aef2918cb44569e7d9cb5aa636e507bfcabf4c7d781
 ---
 
 نصرت شاہ میں ہر درد بھری ماں کو سلام

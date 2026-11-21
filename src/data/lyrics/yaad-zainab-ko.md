@@ -52,9 +52,6 @@ romanLyrics: |-
   Tauq o zanjir mahw-e-maatam the
   Jab rasan zaalimoṅ ne pehnaayi
   Yaad Zainab ko aa gaya Ghaazi
-# source_id: nohayonline:db2976c5b5c21efd13a7
-# source_url: https://www.nohayonline.com/details_content.php?id=2123
-# raw_sha256: 5963c4c50df53ddc62466bc5f5fe237719449a1334f1051a99c5d0ef5a4405b1
 ---
 سر سے ظالم نے چھین لی جو ردا
 یاد زینب کو آ گیا غازی

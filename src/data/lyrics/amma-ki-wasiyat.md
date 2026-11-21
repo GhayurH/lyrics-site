@@ -73,9 +73,6 @@ romanLyrics: |-
   Reh jaaye namaaz-e-shab na kabhi
   Bhai ko shaboṅ meiṅ yaad rakho
   Amma ki wasiyat puri ho
-# source_id: nohayonline:4e7b375bf6d0d66f5e77
-# source_url: https://www.nohayonline.com/details_content.php?id=2326
-# raw_sha256: ad853e0e9167ea6e6b04e7a7a970789dbb5fc81370ac17a4d4a11175de8c4357
 ---
 زینب اٹھو شبیر بڑھو
 زینب اٹھو بھائی کے گلے کو بوسہ دو

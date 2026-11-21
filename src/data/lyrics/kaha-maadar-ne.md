@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Yehi nauha tha Ishrat maadar-e-Asghar ke hontoṅ pe
   Meri bigri hui duniya bana do phir chale jaana
-# source_id: nohayonline:0a9b9b98c7b8650b0431
-# source_url: https://www.nohayonline.com/details_content.php?id=1876
-# raw_sha256: 45e2cd1931b568421bd323536baab4e88f960b8a9c919ec2d7bd1f04130ca613
 ---
 کہا مادر نے بس اتنا بتا دو پھر چلے جانا
 علی اصغر مجھے صورت دکھا دو پھر چلے جانا

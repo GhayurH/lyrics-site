@@ -66,9 +66,6 @@ romanLyrics: |-
   Mushkil hai khari har ek qadam
   Hai sirf tera darbaar khula
   Ya Maula Raza, ya Maula Raza
-# source_id: tajpoints:639364e6dd86a75bf705
-# source_url: https://tajpoints.com/2023/05/ya-mola-raza-sibtain-haider-lyrics-in.html
-# raw_sha256: 87f6a767edfd3db983902492c41b60f64e9ae4e463bc224a15d196b068f529e5
 ---
 حیدر کے پسر ابنِ زہرا یا مولا رضا، یا مولا رضا
 مشہد کے ولی ہمرازِ خدا یا مولا رضا، یا مولا رضا

@@ -47,9 +47,6 @@ romanLyrics: |-
   8
   Auroṅ ka zikr kya hai jigar thaam kar Ghulam
   Khanjar se puchh Shimr ke Sarwar ki pyas ko
-# source_id: nohayonline:7bc1e65e8755e19f6dde
-# source_url: https://www.nohayonline.com/details_content.php?id=805
-# raw_sha256: ceea9274e3153eee97339c001c0f86ab29dc7ff91f59fd35d58e1ef649953788
 ---
 بھولو نہ مومنوں کبھی سرور کی پیاس کو
 اکبر کی پیاس کو علی اصغر کی پیاس کو

@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Bhul na paayega momin ye judaai Yawar
   Gham-e-Sakina ka chale dil meiṅ basa kar Abid
-# source_id: nohayonline:306868cbb842278190bf
-# source_url: https://www.nohayonline.com/details_content.php?id=838
-# raw_sha256: 90aa464307084f0e4c8b672f3b006d398e2eaf5f4babc62350094ebc816f7d3a
 ---
 ایک چھوٹی سی لحد دیکھو بنا کر عابد
 خون رویا ہے سکینہ کو سلا کر عابد

@@ -50,9 +50,6 @@ romanLyrics: |-
   Waiz Sakina ki aah o buka par
   Rehwaar rota tha sar ko jhuka kar
   Nauha tha wo gham meiṅ duba hua
-# source_id: nohayonline:5127768a93f549026f42
-# source_url: https://www.nohayonline.com/details_content.php?id=3161
-# raw_sha256: 2b608f63d929402e82de70235a0cc84653bdbb6a98bb3d8e1c9f2c706484611d
 ---
 
 بالی سکینہ نے رو کر کہا

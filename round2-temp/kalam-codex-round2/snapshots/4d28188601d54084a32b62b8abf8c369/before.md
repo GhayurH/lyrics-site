@@ -1,0 +1,91 @@
+---
+title: "اے جان سکینہ نادان سکینہ"
+recitationId: "ay-jaan-sakina"
+alternateTitle: "Ae Jaan Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Hilmi Afandi"
+reciter: "Abbas Mirza"
+tags: []
+aliases: ["Ay Jaan Sakina"]
+published: true
+romanLyrics: |-
+  Ae jaan Sakina naadaan Sakina
+  Ae Shaam ke zindaan ki mehmaan Sakina
+
+  1
+  Dekho to utho qaid meiṅ hai kis ka ye maatam
+  Bano tere is nind ke qurbaan Sakina
+
+  2
+  Wo roz ki sayli wo tera roz ka rona
+  Bas aaj se zindaan hai sunsaan Sakina
+
+  3
+  Ye des naya log naye hum bhi naye haiṅ
+  Kis tarah se ho dafn ka saamaan Sakina
+
+  4
+  Asghar ko karuṅ pyaar luṅ Akbar ki balaaeiṅ
+  Jab khuld meiṅ tum jaao meri jaan Sakina
+
+  5
+  Do gaz ka kafan bhi tujhe maaṅ de sakti nahiṅ
+  Zindaan meiṅ Bano hai pareshaan Sakina
+
+  6
+  Uthti nazar aati nahiṅ ye nind hai kaisi
+  Ye khwaab to karta hai pareshaan Sakina
+
+  7
+  Kiuṅ haath ye kaanoṅ pe ho rakhe hue Bibi
+  Dukhte haiṅ abhi tak kaho kya kaan Sakina
+
+  8
+  Is kokh jali maaṅ ko tamanna ye na thi kya
+  Pura na hua ek bhi armaan Sakina
+
+  9
+  Ye din bhi Khuda jald hi Bano ke liye laaye
+  Kholega dar-e-qaid ko darbaan Sakina
+---
+اے جان سکینہ نادان سکینہ
+اے شام کے زندان کی مہمان سکینہ
+
+۱
+دیکھو تو اٹھو قید میں ہے کس کا یہ ماتم
+بانو تیرے اس نیند کے قربان سکینہ
+
+۲
+وہ روز کی سہلی وہ تیرا روز کا رونا
+بس آج سے زندان ہے سنسان سکینہ
+
+۳
+یہ دیس نیا لوگ نئے ہم بھی نئے ہیں
+کس طرح سے ہو دفن کا سامان سکینہ
+
+۴
+اصغر کو کروں پیار لوں اکبر کی بلائیں
+جب خلد میں تم جاؤ میری جان سکینہ
+
+۵
+دو گز کا کفن بھی تجھے ماں دے سکتی نہیں
+زندان میں بانو ہے پریشان سکینہ
+
+۶
+اٹھتی نظر آتی نہیں یہ نیند ہے کیسی
+یہ خواب تو کرتا ہے پریشان سکینہ
+
+۷
+کیوں ہاتھ یہ کانوں پہ ہو رکھے ہوئے بی‌بی
+دکھتے ہیں ابھی تک کہو کیا کان سکینہ
+
+۸
+اس کوک جلی ماں کو تمنا یہ نہ تھی کیا
+پورا نہ ہوا ایک بھی ارمان سکینہ
+
+۹
+یہ دن بھی خدا جلد ہی بانو کے لئے لائے
+کھولے گا در قید کو دربان سکینہ

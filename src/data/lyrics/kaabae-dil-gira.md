@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Jis ka haq ajr tha risaalat ka
   Us ko ummat ne kya diya haae
-# source_id: nohayonline:adcbe955b8792bc67263
-# source_url: https://www.nohayonline.com/details_content.php?id=2908
-# raw_sha256: 2b6d5676aa67d291407b204474c3049d177072946e2a7286afffd5d82861239b
 ---
 کعبۂ دل گرا دیا ہائے
 روضۂ پاک ڈھا دیا ہائے

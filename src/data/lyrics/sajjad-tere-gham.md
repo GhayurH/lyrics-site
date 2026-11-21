@@ -53,9 +53,6 @@ romanLyrics: |-
   Ro ro ke parh raha huṅ Sajjad ka ye nauha
   Rehaan Azmi ki tahrir ro rahi hai
   Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
-# source_id: nohayonline:6bbac7800a0020fb7ea7
-# source_url: https://www.nohayonline.com/details_content.php?id=2971
-# raw_sha256: 2d9a8fa291e3cd6affbeb08430e289cad5a70334449bf9f05efdba54ad462a97
 ---
 
 سجاد تیرے غم میں زنجیر رو رہی ہے

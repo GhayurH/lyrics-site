@@ -58,9 +58,6 @@ romanLyrics: |-
   Alfaaz ro rahe haiṅ aur saare maatami bhi
   Zainab ki bekasi par ek misra marsiya hai
   Abbas tu kahaṅ hai
-# source_id: nohayonline:6e2360f60322c29394e9
-# source_url: https://www.nohayonline.com/details_content.php?id=3132
-# raw_sha256: 2e15613c791f49b8cc7fb72e6824f0720ef7f332e112cedbdedb89797b839087
 ---
 
 پاسبانِ ردا اے شہنشاہِ وفا عباس

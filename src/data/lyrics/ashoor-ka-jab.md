@@ -56,9 +56,6 @@ romanLyrics: |-
   Ansar ye qayaamat kaisi thi
   Viraan hui godi is ki
   Dunya meiṅ bichha jab farsh-e-aza
-# source_id: nohayonline:f77f4717ceeb008fcb70
-# source_url: https://www.nohayonline.com/details_content.php?id=1885
-# raw_sha256: f8d0041307e1c4aae578df5adfd46ce89741ac1e64f923d190f9aa061a1da9bf
 ---
 
 آجا اصغر آجا آجا اصغر آجا

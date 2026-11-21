@@ -5,6 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Zameer Akhtar Naqvi"
+reciter: "Joan Rizvi"
 tags: []
 aliases:
   - "Jangal May Bhare Ghar Ko Luta Aayi Hai Zainab"

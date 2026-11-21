@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Maiṅ to gham-e-Sarwar ke liye khalq hua huṅ
   Meri to ibaadat hai azaadaari-e-Shabbir
-# source_id: nohayonline:0696d74e7958c09aa11d
-# source_url: https://www.nohayonline.com/details_content.php?id=503
-# raw_sha256: ccb1d4487c8c611972b4ce4f58db7627cbecb1afa3d8d4bc08486f2e80a97de6
 ---
 عزاداریِ شبیر زہرا کی امانت ہے
 عزاداریِ شبیر زہرا کی عنایت ہے

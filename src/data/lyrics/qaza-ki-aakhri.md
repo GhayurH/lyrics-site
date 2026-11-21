@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Muhammad Karbala waala muazzin tha Muhammad ka
   Kahaaṅ ki dushmani ummat ko thi Akbar kahaaṅ nikli
-# source_id: nohayonline:ba6cac2a8973712e4f0d
-# source_url: https://www.nohayonline.com/details_content.php?id=2091
-# raw_sha256: 41e33b5acef5d55d608800779411a92461486186c4f6ca209970dd18212b27a3
 ---
 قضا کی آخری ہچکی بڑی نامہربان نکلی
 ادھر صغرا کا خط آیا ادھر اکبر کی جاں نکلی

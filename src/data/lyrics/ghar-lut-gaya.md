@@ -47,9 +47,6 @@ romanLyrics: |-
   8
   Jawad Ali ki laadli Mesum yuṅ roti reh gayi
   Din-e-Khuda to bach gaya ghar mera viraaṅ ho gaya
-# source_id: nohayonline:4d1dd4063cc64e651096
-# source_url: https://www.nohayonline.com/details_content.php?id=2148
-# raw_sha256: bb05d9bee2ca18ad5600757b7f74a269a3b8af50caa8985ec3bb096429fb0e5a
 ---
 
 گھر لٹ گیا چادر چھنی ہو گئی میں بے ردا

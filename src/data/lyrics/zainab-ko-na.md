@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Taa hashr yuṅhi Mohsin hamraah Mazahir ke
   Shabbir ka gham karna tum donoṅ jidhar jaana
-# source_id: nohayonline:5c95bdba7ec13d35c126
-# source_url: https://www.nohayonline.com/details_content.php?id=2482
-# raw_sha256: 44938f076f38915c5c20257e0566d5ac16cbbac80b25c3d454c79cc68f4c18e9
 ---
 زینب کو نہ بھولے گا عباس کا مر جانا
 پردیس میں غربت میں بھائی سے بچھڑ جانا

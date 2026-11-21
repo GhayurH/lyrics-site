@@ -62,9 +62,6 @@ romanLyrics: |-
   Bil yaqiṅ dil ki zabaaṅ mera qalam bolta hai
   Saari dunya meiṅ Raza saahib-e-tauqir huṅ maiṅ
   Nauha khwaani meiṅ sar Hazrat-e-Shabbir huṅ maiṅ
-# source_id: nohayonline:dc8ed69c1453abc7702a
-# source_url: https://www.nohayonline.com/details_content.php?id=1814
-# raw_sha256: 3596eb9e08724621e4a254cfbce18fbb24c31c7070e7afe81a0bd253ea39f16b
 ---
 لاش اکبر کی میرے ساتھ اٹھاؤ اماں
 آ کے مقتل میں میرا ہاتھ بتاؤ اماں

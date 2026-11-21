@@ -68,9 +68,6 @@ romanLyrics: |-
   Raza ye kehti thi dukhiya bahut hai ham par sitam
   Madad ko aaiye baba nikal na jaaye dam
   Yehi fughaaṅ thi laboṅ par koi yatim na ho
-# source_id: nohayonline:015979fe35cdbdc6b8ab
-# source_url: https://www.nohayonline.com/details_content.php?id=2005
-# raw_sha256: e57724dff1c253fb941abd6201a50b1f16c66143c38eda19b84796827caff56b
 ---
 سکینہ کہتی تھی رو کر کوئی یتیم نہ ہو
 یہی دعا ہے لبوں پر کوئی یتیم نہ ہو

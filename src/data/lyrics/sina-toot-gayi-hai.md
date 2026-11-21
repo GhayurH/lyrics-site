@@ -48,9 +48,6 @@ romanLyrics: |-
   Akbar ne Raza apne padar se ye kaha tha
   Sau baar maiṅ ho jaata fidaa-e-Shah-e-waala
   Gham is ka rulaata hai mujhe Sibt-e-Payambar
-# source_id: nohayonline:95c10d6c6b68641fb8b8
-# source_url: https://www.nohayonline.com/details_content.php?id=1624
-# raw_sha256: 3d2a5cd25b8f3dffe598df808d868ed0d14b827da49574d7b91026d0bcd61b66
 ---
 رکھنا میری اماں سے میرے زخم چھپا کر
 بابا میرے سینے میں سناں ٹوٹ گئی ہے

@@ -83,9 +83,6 @@ romanLyrics: |-
   Donoṅ ki is gham se hi baqa hai
   Karte haiṅ nauha ye donoṅ baham
   Ae Husainiyo
-# source_id: nohayonline:d4d0ccc28c676631d2f7
-# source_url: https://www.nohayonline.com/details_content.php?id=1752
-# raw_sha256: a255c0fa0a1a6ed0d033f303c20e03973b6ff8b4c450d06a8195ea26eae671b5
 ---
 
 آؤ ہم کریں یہ شہ کا ماتم

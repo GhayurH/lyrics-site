@@ -86,9 +86,6 @@ romanLyrics: |-
   Chal gai gardan-e-mazlum pe zaalim ki husaam
   Kat gai sukhi rageiṅ hamd magar jaari thi
   Shah ka sar naize pe yeh keh ke chala jaanib-e-Shaam
-# source_id: nohayonline:6f66d1a328c2e2070960
-# source_url: https://www.nohayonline.com/details_content.php?id=3666
-# raw_sha256: bc7c4249c69e778279a6977955e819c3b0b781ce4ec876702a39dbb7acee63c5
 ---
 یہ کون ذی وقار ہے بلا کا شہ سوار ہے
 یہ کس جری کے ہاتھ میں علی کی ذوالفقار ہے

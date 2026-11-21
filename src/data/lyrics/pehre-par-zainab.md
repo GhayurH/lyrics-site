@@ -71,9 +71,6 @@ romanLyrics: |-
   Tuta neza haath meiṅ hai
   Khaak basar hai kunba saara
   Aur pehre par Zainab hai
-# source_id: nohayonline:05ae8e8945b6dd70a15f
-# source_url: https://www.nohayonline.com/details_content.php?id=1287
-# raw_sha256: 3e5e8fca59e97151609d3b5a58eab6cc74e99472b89baea249e1cf01b422c78f
 ---
 شام غریباں گھپ اندھیارا
 اور پہرے پر زینب ہے

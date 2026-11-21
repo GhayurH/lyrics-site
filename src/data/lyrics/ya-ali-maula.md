@@ -69,9 +69,6 @@ romanLyrics: |-
   Hum ne to Rehaan o Sarwar ilm ke moti paaye
   Ya Ali Maula Haider Maula tujh se aas lagaaye
   Shukr Maula shukr Maula lab pe saja ke rakha hai
-# source_id: nohayonline:af38f4e485d1b9d29145
-# source_url: https://www.nohayonline.com/details_content.php?id=3043
-# raw_sha256: 721cf9c385be8db0a71eaa6896dafc1523a84ad34c50d250309713e91e42155b
 ---
 دل میں سجا کے رکھا ہے
 یا علی مولا حیدر مولا

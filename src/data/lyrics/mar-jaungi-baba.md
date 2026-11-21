@@ -57,9 +57,6 @@ romanLyrics: |-
   Tum ko bhi ae Aijaz
   Majlis meiṅ bapa hashr hai is soz ko sun kar
   Mar jauṅ gi baba mar jauṅ gi baba
-# source_id: nohayonline:18db5bd4a97ada6f6b4a
-# source_url: https://www.nohayonline.com/details_content.php?id=1480
-# raw_sha256: 6eb1bff6be0026317b9dd00ab8c2e658eabb117ee9cd0c0ed90b6fb132791708
 ---
 
 رو رو کے صدا دیتی تھی یہ شاہ کی دختر

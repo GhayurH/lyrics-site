@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Roz-e-alam se uthta rahega dhuaaṅ Anis
   Paani ne aisi aag lagaai Furaat par
-# source_id: nohayonline:22fb1198e882974ba116
-# source_url: https://www.nohayonline.com/details_content.php?id=235
-# raw_sha256: 7d131603286d018bd1ae59eedb091280b9ac3b31b90541540534287006b3e4c0
 ---
 
 کیسا یہ غل مچا ہے الہی فرات پر

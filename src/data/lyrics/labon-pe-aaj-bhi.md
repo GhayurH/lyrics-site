@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Jo nauhe parhte haiṅ Sajid Naved likhta hai
   Sada hai donoṅ pe yaksaaṅ karam Sakina ka
-# source_id: nohayonline:bd1a99669c8f2f12ce0a
-# source_url: https://www.nohayonline.com/details_content.php?id=961
-# raw_sha256: 00014ab0d0831c3c8fcba396ef1c15df13ae61d1ca3c0c789ed4dac0ccd5ecec
 ---
 
 لبوں پہ آج بھی ہے جیسے غم سکینہ کا

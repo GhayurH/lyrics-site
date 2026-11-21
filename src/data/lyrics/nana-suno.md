@@ -64,9 +64,6 @@ romanLyrics: |-
   Qabr-e-Nabi laraz gayi Zainab ke sun ke bain
   Kaise mile ga Aamir o Farhan dil ko chain
   Lagta hai dil meiṅ tut gayi dard ki sinaaṅ
-# source_id: nohayonline:3e646a66a6e61ff379b0
-# source_url: https://www.nohayonline.com/details_content.php?id=3114
-# raw_sha256: 3e9e94794d0dd0d83caa27f2421393180803a059ac435bbb8a33c190e5101274
 ---
 آئی جو چھٹ کے قید سے زہرا کی لاڈلی
 آ کر مزارِ احمدِ مختار پر گری
@@ -110,7 +107,7 @@ romanLyrics: |-
 ۸
 نانا سنو وہ شامِ غریباں کی داستاں
 ہر سمت دکھ رہا تھا نگاہوں کو بس دھواں
-بکھرائے بال خاک پہ بیٹھی تھی بی‌بیاں
+بکھرائے بال خاک پہ بیٹھی تھی بیبیاں
 
 ۹
 ایک ایک کر کے سارے جلائے گئے قیام

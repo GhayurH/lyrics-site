@@ -110,9 +110,6 @@ romanLyrics: |-
   Aur yehi kahte raho
   Jannat hai rauza tera
   Jannat hai puri ye Karb o bala
-# source_id: nohayonline:ec3ab922b0079aeec234
-# source_url: https://www.nohayonline.com/details_content.php?id=986
-# raw_sha256: 6d6c12c9c643326576cfa0e3ef109ae33aee852696ef745e5ff7ea45a4924b45
 ---
 آتے ہیں زائرین کربوبلا
 ہاتھوں میں لے کے نشان وفا

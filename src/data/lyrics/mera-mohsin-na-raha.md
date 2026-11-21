@@ -56,9 +56,6 @@ romanLyrics: |-
   Ab bhi Zishaan ye aati hai Baqayya se sada
   Apne Mehdi ko bataauṅ gi wo jab aayega
   Jitne dukh maiṅ ne sahe gham hai ye sab se bara
-# source_id: nohayonline:3623e11cb0dbad3e43ee
-# source_url: https://www.nohayonline.com/details_content.php?id=2310
-# raw_sha256: f4807adb0bc6040660e6afcfe7d665401ea9edd121d96744cc6302a698b5d4a9
 ---
 
 ہاتھ پہلو پر رکھا اور یہ زہرا نے کہا

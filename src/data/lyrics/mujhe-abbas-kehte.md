@@ -38,6 +38,14 @@ romanLyrics: |-
   Sar tan se juda kar duṅ ga
 
   3
+  Mujh Ko Bhi Imamat Milti
+  Tauqeer Meri Barh Jati
+  Pe Leta Jo Sheer-e-Zahra
+  Konain Mein Thi Sardari
+  Hoon Apne Padar Ka Sani
+  Pathar Se Nichoron Pani
+
+  4
   Talwaar hai mere baazu
   Hai mujh meiṅ wafa ki khushbu
   Maiṅ dekh nahiṅ sakta huṅ
@@ -45,7 +53,7 @@ romanLyrics: |-
   Gar ghaiz meiṅ aa kar dekhuṅ
   Paani meiṅ aag laga duṅ
 
-  4
+  5
   Parcham ye mere baba ka
   Ta hashr rahe ga uncha
   Khaibar meiṅ mila baba ko
@@ -53,7 +61,7 @@ romanLyrics: |-
   Parcham na ye jhuk paae ga
   Har daur meiṅ lahraae ga
 
-  5
+  6
   Bachchoṅ ko tasalli de kar
   Maiṅ aaya huṅ darya par
   Bachchoṅ ki aas na tute
@@ -61,7 +69,7 @@ romanLyrics: |-
   Paani jo na pahunchaauṅ ga
   Khaimoṅ meiṅ nahiṅ jaauṅ ga
 
-  6
+  7
   Beizn-e-wagha aaya huṅ
   Talwaar nahiṅ laaya huṅ
   Thokar meiṅ hai mere paani
@@ -69,7 +77,7 @@ romanLyrics: |-
   Behta hai lahu beh jaae
   Bas naam-e-wafa reh jaae
 
-  7
+  8
   Jo tir bhi hai tarkash meiṅ
   Paiwast karo nas nas meiṅ
   Par mashk pe waar na karna
@@ -77,7 +85,7 @@ romanLyrics: |-
   Baazu bhi kata sakta huṅ
   Maiṅ khuṅ meiṅ naha sakta huṅ
 
-  8
+  9
   Abbaas-e-jari ka rauza
   Hai ahl-e-wafa ka Kaaba
   Ek roz Rehaan o Sarwar
@@ -85,14 +93,12 @@ romanLyrics: |-
   Kehta hai koi darya par
   Sab jaae pyaas bujha kar
 
-  9
+  10
   Khaimoṅ meiṅ na le jaana
   Aaqa mere laashe ko
   Sharminda na karwaana
   Seh roz ke pyaase ko
-# source_id: nohayonline:ba9aea8873ed9eec384f
-# source_url: https://www.nohayonline.com/details_content.php?id=3037
-# raw_sha256: 065408b7638d52b5b57e315c302d9871a487644da77834c4681a0adb01bdc769
+
 ---
 عباس میر لشکر
 عباس کہتے ہیں

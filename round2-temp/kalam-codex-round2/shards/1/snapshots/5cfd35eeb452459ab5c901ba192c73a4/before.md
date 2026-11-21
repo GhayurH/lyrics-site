@@ -1,0 +1,324 @@
+---
+title: "گونج رہی ہے یہ صدا یا حسینؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: []
+aliases: []
+published: false
+romanLyrics: 'Goonj rahi hai ye sada ya hussain
+
+  Tujhko layeeno ne sataya hussain
+
+
+  1
+
+  Ya hussain, ya hussain
+
+  Teen shabo roz ka pyasa hussain
+
+  Dashte bala mein tujhe maara hussain
+
+
+  2
+
+  Bayyate fasiq ke talabgaar thay
+
+  Zulmo sitam ke liye tayyar thay
+
+  Kitne tere sar ke khareedar thay
+
+  Tune magar sar na jhukaya hussain
+
+
+  3
+
+  Bhej ke khat tujhko bulaya gaya
+
+  Tera watan tujhse chudaya gaya
+
+  Qabr se nana ki hataya gaya
+
+
+  4
+
+  Paykare tasleem o raza ya hussain
+
+  Karbobala ghayr ke laaye tujhe
+
+  Tere azeez akhroba saath thay
+
+
+  5
+
+  Nehr se qaime bhi hataye gaye
+
+  Uzr zara bhi na hua ya hussain
+
+  Dasht mein thodi si jagah mil gaye
+
+
+  6
+
+  Dasht may thodi si jagah mil gaye
+
+  Aamade aada se zameen hil gaye
+
+  Aur nazar jab sue saahil gaye
+
+  Us pa layeeno ka tha pehra hussain
+
+
+  7
+
+  Kya shabe aashoor ka hangaam tha
+
+  Saara jahan larza barandaam tha
+
+  Tujhko ibadat se faqad kaam tha
+
+  Karta raha zikr khuda ka hussain
+
+
+  8
+
+  Suboh dahum ka ho bhala kya bayan
+
+  Dene laga jab tera akbar azaan
+
+  Jaise thi awaaze nabi beguman
+
+
+  9
+
+  Karbobala thi ke madina hussain
+
+  Fauje hussaini mein bada josh tha
+
+  Tune bhi pyaso ko sahara kiya
+
+
+  10
+
+  Saaniye hyder lo alam dediya
+
+  Sab ne unhe faqr se dekha hussain
+
+  Suye imam ek namazi badha
+
+
+  11
+
+  Suye imam ek namazi barha
+
+  Dil se basad shaan e niyazi barha
+
+  Fauje udoo se hure ghazi barha
+
+  Aake qadam-bosh hua ya hussain
+
+
+  12
+
+  Haaye muhibbe shahe aali maqaaam
+
+  Jinka habib ibne mazaahir hai naam
+
+  Zainabe dilgeer ne bheja salaam
+
+  Tumne gale unko lagaya hussain
+
+
+  13
+
+  Phir to ajab hashr bapa ho gaya
+
+  Ek ke baad fida hogaya
+
+  Dekhte hi dekhte kya hogaya
+
+  Ab koi nasir na raha ya hussain
+
+
+  14
+
+  Ab koi nasir na raha ya hussain
+
+  Saani e zehra ka bura haal tha
+
+  Jab ke tadaruk na koi ban pada
+
+
+  15
+
+  Aun o mohamad ko fida kar diya
+
+  Us pa bhi tu bach na saka ya hussain
+
+  Madare qasim ka jigar dekhiye
+
+
+  16
+
+  Madare qasim ka jigar dekhiye
+
+  Jazbaye emaan ka asr dekhiye
+
+  Bhej diya ran may pisar dekhiye
+
+  Jo hua pamaale jafa ya hussain
+
+
+  17
+
+  Hazrate abbas bhi marne chale
+
+  Nehr par jarraar ke baazu kate
+
+  Thaam ke aap apni kamar reh gaye
+
+  Hogayi chup roke sakina hussain
+
+
+  18
+
+  Hogaye ruqsat ko shabihe rasool
+
+  Ab shahe bekas thay bahot dil maloool
+
+  Aayi kahin se ye sadaye batool
+
+  Mai teri himmat pe fida ya hussain
+
+
+  19
+
+  Mai teri himmat pe fida ya hussain
+
+  Asghar e baysheer pe jaane fida
+
+  Khainche huve teer badha hurmala
+
+
+  20
+
+  Khasta kalaame shehe waala hua
+
+  Suye falak aap ne dekha hussain
+
+  Dhal gaya din aur khareeb aayi shaam
+
+
+  21
+
+  Phir to akele thay imame anaam
+
+  Dediya sar khatm kiya apna kaam
+
+  Deene nabi khoob bachaya hussain'
+---
+
+گونج رہی ہے یہ صدا یاحسینؑ
+تجھ کو لعینوں نے ستایا یاحسینؑ
+یا حسینؑ یا حسینؑ
+
+۱
+تین شب و روز کا پیاسہ حسین
+دشت بلا میں تجھے مارا حسین
+
+۲
+بیعت فاسق کے طلبگار تھے
+ظلم و ستم کے لئے تیار تھے
+کتنے تیرے سر کے خریدار تھے
+تو نے مگر سر نہ جھکایا حسینؑ
+
+۳
+بھیج کے خط تجھ کو بلایا گیا
+تیرا وطن تجھ سے چھڑایا گیا
+قبر سے نانا کی ہٹایا گیا
+پیکر تسلیم و رضا یاحسینؑ
+
+۴
+کرب و بلا گھیر کے لائے تجھے
+تیرے عزیز اور رفقاء ساتھ تھے
+نہر سے خیمے بھی ہٹائے گئے
+عذر ذرا بھی نہ ہوا یاحسینؑ
+
+۵
+دشت میں تھوڑی سی جگہ مل گئی
+آمد اعداء سے زمین ہل گئی
+اور نظر جب سوئے ساحل گئی
+اس پہ لعینوں کا تھا پہرہ یاحسینؑ
+
+۶
+کیا شب عاشور کا ہنگام تھا
+سارا جہاں لرزہ براندام تھا
+تجھ کو عبادت سے فقط کام تھا
+کرتا رہا ذکر خدا کا حسینؑ
+
+۷
+صبح دہم کا ہو بھلا کیا بیاں
+دینے لگا جب تیرا اکبرؑ اذاں
+جیسے تھی آواز نبیؐ بے گماں
+کرب و بلا تھی کہ مدینہ حسینؑ
+
+۸
+فوج حسینؑی میں بڑا جوش تھا
+تو نے بھی پیاسوں کو صف آراء کیا
+ثانی حیدرؑ کو علم دے دیا
+سب نے اُنہیں فخر سے دیکھا حسینؑ
+
+۹
+سوئے امام ایک نمازی بڑھا
+دل سے بصد شانِ نیازی بڑھا
+فوجِ عدو سے حرؑ غازی بڑھا
+آکے قدم بوس ہوا یاحسینؑ
+
+۱۰
+ہائے محب شہہ عالی مقام
+جس کا حبیب ابن مظاہرؑ ہے نام
+زینبؑ دلگیر نے بھیجا سلام
+تو نے گلے ان کو لگایا حسینؑ
+
+۱۱
+پھر تو عجب حشر بپا ہو گیا
+ایک کے بعد ایک فدا ہو گیا
+دیکھتے ہی دیکھتے کیا ہو گیا
+اب کوئی ناصر نہ رہا یاحسینؑ
+
+۱۲
+ثانی زہراؑ کا برا حال تھا
+جبکہ تدارک نہ کوئی بن پڑا
+عونؑ و محمدؑ کو فدا کر دیا
+اس پہ بھی تو بچ نہ سکا یاحسینؑ
+
+۱۳
+مادرِ قاسمؑ کا جگر دیکھئے
+جذبہ ایماں کا اثر دیکھئے
+بھج دیا رن میں پسر دیکھئے
+جو ہوا پامال جفا یاحسینؑ
+
+۱۴
+حضرت عباسؑ بھی مرنے چلے
+نہر پر جرار کے بازو کٹے
+تھام کے آپ اپنی کمر رہ گئے
+ہو گئی چپ روکے سکینہؑ حسینؑ
+
+۱۵
+ہو گئے رخصت جو شبیہہِ رسولؑ
+اب شہہ بے کس تھے بہت دل ملول
+آئی کہیں سے یہ صدائے بتولؑ
+میں تیری ہمت پہ فدا یاحسینؑ
+
+۱۶
+اصغرؑ بے شیر پہ جانیں فدا
+کھینچے ہوئے تیر بڑھا حرملا
+قطع کلام شہہ والا ہوا
+سوئے فلک آپ نے دیکھا حسینؑ
+
+۱۷
+ڈھل گیا دن اور قریب آئی شام
+پھر تو اکیلے تھے امامِ انامؑ
+دے دیا سر ختم کیا اپنا کام
+دینِ نبیؐ خوب بچایا حسینؑ

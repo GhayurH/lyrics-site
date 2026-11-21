@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Ae Mohib Karbobala din ka sarmaaya hai
   Karbala ishq o aqidat ki shajarkaari hai
-# source_id: nohayonline:34970481161c718fa3a4
-# source_url: https://www.nohayonline.com/details_content.php?id=3721
-# raw_sha256: 6e49b404c8d984a824fcf40b0eb8f8d88922cffbd0c94fa44654c899f464783a
 ---
 بنت زہرا کی تمنا یہ عزاداری ہے
 العجل کہتے رہو وقت مدد گاری ہے

@@ -1,10 +1,10 @@
 ---
-title: نہ دل روتا نہ غم ہوتا نہ ایسا کہیں ماتم ہوتا
-alternateTitle: Shabbir Agar Teri
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ دل روتا نہ غم ہوتا نہ ایسا کہیں ماتم ہوتا"
+alternateTitle: "Shabbir Agar Teri"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
@@ -47,12 +47,6 @@ romanLyrics: |-
   8
   Jannat meiṅ qadam rakhte nahiṅ Sarwar o Rehaan
   Jannat meiṅ jo Maula ki, azaadaari na hoti
-# source_id: nohayonline:2050b95060e446b28bda
-# source_url: https://www.nohayonline.com/details_content.php?id=420
-# raw_sha256: dbcb7cd35f86ecb99e9d3b07397561ed645f59d661c5d8e90d8cef9ccc625bc8
-# source_id: ziyaraat:d371364eacbc17c0cd1d
-# source_url: https://www.ziyaraat.net/api/noha/564
-# raw_sha256: c006d9e45206922f3d8e83a01332cbd7d92663fcf135807b52b821c12d9096cc
 ---
 نہ دل روتا نہ غم ہوتا نہ ایسا کہیں ماتم ہوتا
 

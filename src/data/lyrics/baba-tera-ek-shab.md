@@ -58,9 +58,6 @@ romanLyrics: |-
   Sone ki tere sine pe zid chhor ke baba
   So jaaye gi zindaaṅ ki zamiṅ orh ke baba
   Ho jaaye gi Islam pe qurbaan Sakina
-# source_id: nohayonline:10f2e1e8af89882e0cfc
-# source_url: https://www.nohayonline.com/details_content.php?id=3065
-# raw_sha256: c7eaaaa18ca2fbdc63d169363bc15047be44f854e227bbce33757fd97262c2df
 ---
 بیٹی سے کہا شہ نے میری جان سکینہ
 بابا تیرا ایک شب کا ہے مہمان سکینہ

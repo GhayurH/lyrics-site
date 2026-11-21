@@ -50,9 +50,6 @@ romanLyrics: |-
   8
   Ye sawaal aaj bhi Khurshid se karta hai Hilal
   Tu ne kin aankhoṅ se Shah ko tah-e-khanjar dekha
-# source_id: nohayonline:b4dc1c55f307045520f7
-# source_url: https://www.nohayonline.com/details_content.php?id=719
-# raw_sha256: 766cda1bd1586f52a28486c9cf75cf58a4fefc1a849d3b72d4bfdf93bf60aaac
 ---
 اہل حرم کو کوفی و شامی ستاتے ہیں
 مشکل کشا کے پوتی کو قیدی بناتے ہیں

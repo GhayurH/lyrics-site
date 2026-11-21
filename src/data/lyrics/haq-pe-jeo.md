@@ -48,9 +48,6 @@ romanLyrics: |-
   Ilm hai kya ye Ahl-e-Bait ke dar se puchh
   Kaun hai haq par ye Shabbir ke sar se puchh
   Nok-e-neza par hai buland hoṅtoṅ pe hai Quraan suno
-# source_id: nohayonline:bd3f077fc89ff882f0ed
-# source_url: https://www.nohayonline.com/details_content.php?id=44
-# raw_sha256: 83b27653ceca2bbe152ae7ef824218fe523096c4848dbb3a1e40bb428fd4b3ee
 ---
 
 حق پہ جیو حق پہ مرو

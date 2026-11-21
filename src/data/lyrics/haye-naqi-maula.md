@@ -46,9 +46,6 @@ romanLyrics: |-
   7
   Sab khaak basar nauha kunaaṅ ahl-e-wila hai
   Masruf-e-aza saara zamaana hai Naqi ka
-# source_id: nohayonline:04b96f20b64cb4187075
-# source_url: https://www.nohayonline.com/details_content.php?id=1271
-# raw_sha256: ac00d9ee030acce508064349dbfc0c580f106e05431e0f636c010734df7e41d1
 ---
 ہاے نقی مولا
 

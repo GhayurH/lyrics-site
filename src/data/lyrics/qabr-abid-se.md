@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Gham agar hai to yehi Nur Ali ek gham hai
   Daastaaṅ dard ki lafzoṅ meiṅ samayi na gayi
-# source_id: nohayonline:38bb17407080665412f4
-# source_url: https://www.nohayonline.com/details_content.php?id=3780
-# raw_sha256: bd2afaba0a96cde95ec63bc94b3979508934a6bd5412a855bc981363fe38ea42
 ---
 قبر عابد سے سکینہ کی بنائی نہ گئی
 طوق کا وزن اٹھا لاش اٹھائی نہ گئی

@@ -70,9 +70,6 @@ romanLyrics: |-
   Hai Bilal aur ye Sarwar ki tamanna Maula
   Rab se dilwa do shifaaoṅ ka khazaana Maula
   Ae mere Maula ya Imaam Raza
-# source_id: nohayonline:0f44dbde2a3df86b380e
-# source_url: https://www.nohayonline.com/details_content.php?id=1737
-# raw_sha256: d3586af9e09ad0fb68208b2380a0c28c7fabf9efdb7c7816f6bb2d1add20b4ca
 ---
 سلام اللّٰہ علی مولا امام رضا
 یا غریب الغربا یا معین الضعفا

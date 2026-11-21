@@ -58,9 +58,6 @@ romanLyrics: |-
   Itni pasand aayi saqqai-e-Sakina
   Haq ne inheṅ nawaza mahshar meiṅ aisa rutba
   Sab intizam-e-Kausar Abbas dekhte haiṅ
-# source_id: tajpoints:1d3da6c38332df8f05eb
-# source_url: https://tajpoints.com/2023/02/abbas-dekhtay-hain-mukhtar-hussain.html
-# raw_sha256: 109e60b5b2740cc3e63e936aa01da5d62e99143c11aac42cc881519291d6919f
 ---
 
 غازی جری غضنفر

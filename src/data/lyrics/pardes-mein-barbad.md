@@ -55,9 +55,6 @@ romanLyrics: |-
   Khud sabr kiya maiṅ ne diya sab ko dilaasa
   Waada hua pura
   Ab zabt nahiṅ paas bula lijiye maadar
-# source_id: nohayonline:20f3eb560b948cdc47cf
-# source_url: https://www.nohayonline.com/details_content.php?id=580
-# raw_sha256: 0ca9486a4bc25fd272ddcf49ad40f21f9f2d3417a0f51f2cf54efc4db00ce293
 ---
 زینب نے کہا ماں کی لحد سے یہ لپٹ کر
 پردیس میں برباد ہوا میرا بھرا گھر

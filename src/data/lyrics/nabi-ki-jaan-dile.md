@@ -60,9 +60,6 @@ romanLyrics: |-
   Raza Furaat pe apne kata ke shaanoṅ ko
   Hayaat de gaya Ghazi wafa ki raahoṅ ko
   Usi wafaaoṅ ke paikar ka aaj chehlum hai
-# source_id: nohayonline:591bfd6216e16fe4b472
-# source_url: https://www.nohayonline.com/details_content.php?id=1999
-# raw_sha256: 38f81b4487bdc093afc25a146e1b6541d0a4e2e2adde8c87d0ba33682ccaaa17
 ---
 نبی کی جان دل حیدر کا آج چہلم ہے
 مکین دوش پیمبر کا آج چہلم ہے

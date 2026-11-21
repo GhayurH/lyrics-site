@@ -53,9 +53,6 @@ romanLyrics: |-
   Akbar behan ye boli ghazab ki jafa hui
   Asghar ke jaisi laash mere bhaai ki bachi
   Aabid ne us ke tukre chune haiṅ zamin se
-# source_id: nohayonline:f0c14edc032deb86def0
-# source_url: https://www.nohayonline.com/details_content.php?id=1075
-# raw_sha256: fecc13d0ca6dd2affeae85b8aecc298ca953b678cc262483f7bb9af857726b4f
 ---
 کلثوم رو کے کہتی ہے ام البنین سے
 بن بازوؤں کے اترا ہے عباس زین سے

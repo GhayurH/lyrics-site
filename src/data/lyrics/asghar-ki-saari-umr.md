@@ -58,9 +58,6 @@ romanLyrics: |-
   Asghar ke baad karti thi faryaad ek maaṅ
   Saaṅseṅ to chal rahi hai magar zindagi kahaaṅ
   Beta tumhaare saath ye maadar bhi mar gayi
-# source_id: nohayonline:8007380c5b2401b3ab1e
-# source_url: https://www.nohayonline.com/details_content.php?id=2973
-# raw_sha256: 2c530d16dd5e026fccdfe0c9f5cde4b01322f0f140fdba322f7c676290d46f7a
 ---
 اصغر کی ساری عمر سفر میں گزر گئی
 تاریکیوں میں حق کی ضیا جس سے بھر گئی

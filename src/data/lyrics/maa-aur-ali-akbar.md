@@ -68,9 +68,6 @@ romanLyrics: |-
   Aurateṅ jab Shaam ki kehti thiṅ le kar hichkiyaṅ
   Jis jawaaṅ ka nok-e-neza par hua hai sar ayaaṅ
   Us jawaaṅ se pehle ya Rab mar gayi ho us ki maaṅ
-# source_id: nohayonline:189ca40a481d08c43dcb
-# source_url: https://www.nohayonline.com/details_content.php?id=397
-# raw_sha256: 075514aed65951b59faa1096c71f703aaff49c3f0a0457e07ab7cd7735c78b45
 ---
 جب علی اکبر سا بیٹا شاہ کو رب نے دیا
 اس عطائِ کبریا پر کربلا نے دی صدا

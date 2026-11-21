@@ -51,9 +51,6 @@ romanLyrics: |-
   Tha sab ka bura haal
   Us nanhi si mayyat pe nishaaṅ rassi ke paana
   Sajjad se puchho
-# source_id: nohayonline:3946269289719e005e0f
-# source_url: https://www.nohayonline.com/details_content.php?id=1562
-# raw_sha256: a4ec6127cc0754d17dd02078223338c78e608bbbe7f27b195aab3639f94569f7
 ---
 افسوس نبی زادیوں کا شام میں جانا
 سجاد سے پوچھو
@@ -63,7 +60,7 @@ romanLyrics: |-
 ۱
 چھپتی تھی نبی زادی نبی زادی کے پیچھے
 اس شرم و حیا سے
-اور شمر کا ان بی‌بیوں کے نام بتانا
+اور شمر کا ان بیبیوں کے نام بتانا
 سجاد سے پوچھو
 
 ۲

@@ -52,12 +52,14 @@ romanLyrics: |-
   Aahista us ko maaṅ se chhuraana Abul Hasan
 
   8
+  Kab chain se rahuṅ gi bachchoṅ ki fikr meiṅ
+  Zehmat maiṅ de rahi huṅ ye aakhri tumheṅ
+  Bachchoṅ ka mujh ko haal sunaana Abul Hasan
+
+  9
   Zishan aur Raza wo kehti thi ya Ali
   Zehra ka saath tum ne chhora nahiṅ kabhi
   Tanhaai meiṅ bhi saath nibhaana Abul Hasan
-# source_id: nohayonline:dbeedfe087bd6bf95ef6
-# source_url: https://www.nohayonline.com/details_content.php?id=1032
-# raw_sha256: b95d6e9bc4e1865ae96d64b432fa7590d01a0bfc6d29cb9f0cc6548e58c9df0a
 ---
 زہرا سے حال پوچھنے جب آئے مرتضیٰ
 رو رو کے فاطمہ نے وصیت میں یہ کہا
@@ -100,6 +102,11 @@ romanLyrics: |-
 آہستہ اس کو ماں سے چھڑانا ابوالحسن
 
 ۸
+کب چین سے رہوں گی بچوں کی فکر میں
+زحمت میں دے رہی ہوں یہ آخری تمہیں
+بچوں کا مجھ کو حال سنانا ابوالحسن
+
+۹
 ذیشان اور رضا وہ کہتی تھی یا علی
 زہرا کا ساتھ تم نے چھوڑا نہیں کبھی
 تنہائی میں بھی ساتھ نبھایا ابوالحسن

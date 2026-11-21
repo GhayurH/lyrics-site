@@ -82,9 +82,6 @@ romanLyrics: |-
   Ae sher-e-jari ek baar utho
   Zainab ka istiqbaal karo
   Abbas
-# source_id: nohayonline:eb788a0d139a9d456069
-# source_url: https://www.nohayonline.com/details_content.php?id=2886
-# raw_sha256: 765fc4cac3e4ac1a8b9cb0571c24e30763c13d85a11f28733e42dda7d600a723
 ---
 یا عباس یا عباس
 میں تیری جاگیر میں آئی ہوں عباس

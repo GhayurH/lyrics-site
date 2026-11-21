@@ -61,10 +61,6 @@ romanLyrics: |-
   Jis ghari Sher-e-Dilawar ne farmaya Bilal
   Aap par jaan fida karne ka haqdar huṅ maiṅ
   Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
-# source_id: nohayonline:8f18c35fe521c7f2d4e4
-# editorial_uncertainty: Archived HTML confirms eight stanzas with complete Ab woh lashkar refrain. Qaidi-e-azar/Urdu اعزار, Khuda-e-Shah-e-Abrar, hazina and Shah-e-nek-hizal remain unresolved source readings requiring audio/print evidence.
-# source_url: https://www.nohayonline.com/details_content.php?id=2254
-# raw_sha256: 4901e16e48f12fa90857ed45e05f0a8f4d248dd4767e897dcf3682a4257c7d0b
 ---
 
 سر جھکا کر شہ والا سے یہ غازی نے کہا

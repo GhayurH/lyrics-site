@@ -43,9 +43,6 @@ romanLyrics: |-
   Safdar jo julusoṅ meiṅ alam maiṅ ne uthaya
   Mazhar ki tarah naara yehi maiṅ ne lagaya
   Ae Sayyed o Sardar alam uncha hai tera
-# source_id: nohayonline:012a78b1dc4785e91346
-# source_url: https://www.nohayonline.com/details_content.php?id=3741
-# raw_sha256: 054b6c135ebe6707aadbb3ef9811cd12215ca9c64ee2ca2f3f3a6917a262c77e
 ---
 
 عباسِ علمدار علم اونچا ہے تیرا

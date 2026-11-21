@@ -47,9 +47,6 @@ romanLyrics: |-
   Zindaaṅ meiṅ qayaamat hai shor-e-girya maatam
   Ahsan tarap tarap ke likhta hai ab ye Aazam
   Zindaaṅ laraz raha hai Sakina guzar gayi hai
-# source_id: nohayonline:1bf9fe423941b8855240
-# source_url: https://www.nohayonline.com/details_content.php?id=1486
-# raw_sha256: 4b4cb6a349a77097f2beba5f6c70aeeb6c8e670434e621e9081069bb88c4c2e9
 ---
 
 بابا کو رونے والی سکینہ گزر گئی ہے

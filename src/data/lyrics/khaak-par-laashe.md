@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Beriyaaṅ hai paaye-e-Aabid meiṅ to gardan meiṅ hai tauq
   Roti hai zanjir lekin naqsh-e-paa khaamosh hai
-# source_id: nohayonline:052ea7f26c8b2627fe0f
-# source_url: https://www.nohayonline.com/details_content.php?id=3239
-# raw_sha256: 40e0a1103a4a57eb6677b77cf167179d4ea2b024986f7c55dbb7ad3078a4ba3f
 ---
 خاک پر لاشے پڑے ہیں کربلا خاموش ہے
 ایک سکتہ ہے بیاباں کی فضا خاموش ہے

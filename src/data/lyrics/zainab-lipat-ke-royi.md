@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Bhai se bhai bichhre jis ka to is ki haalat
   Dard aashna se puchho ya phir Anis-e-gham se
-# source_id: nohayonline:0c6dd6510adff23244f6
-# source_url: https://www.nohayonline.com/details_content.php?id=121
-# raw_sha256: b8c0b74609b2ca393d4ae3cc8b2a62845fa9642390cc5ecea2edc18c446c080b
 ---
 زینب لپٹ کے روئی عباس کے علم سے
 سیدانیاں تھی مضطر چہرے تھے زرد غم سے

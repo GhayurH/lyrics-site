@@ -51,9 +51,6 @@ romanLyrics: |-
   10
   Bakhwae tumheṅ Asad, Yaqub
   Waaris-e-Murtaza Ali Asghar
-# source_id: ziyaraat:fd8482aa6f9e27df2a45
-# source_url: https://www.ziyaraat.net/api/noha/2739
-# raw_sha256: 0a0c7c60a5e3f90f837d0e649c8b63ecf9e2f0155d34cac7a16235c20b98f226
 ---
 
 میرا علی اصغر، میرا علی اصغر

@@ -43,10 +43,6 @@ romanLyrics: |-
   Wo kaaghaz ke maidaan meiṅ lafzoṅ ka lashkar na laashe gire aur na kate gaye sar
   Faqat chand satroṅ ki tahrir likh kar qalam se laraai ye jite haiṅ Shabbar
   Kaha dekh kar Zulfiqaar-e-Ali ne Hasan par laraai ki had ho gayi hai
-# Source credit: Istefada Kalam Nawab Arif
-# source_id: tajpoints:f079eb5cfc3e3dab628c
-# source_url: https://tajpoints.com/2020/12/had-ho-gayi-hai-lyrics-in-urdu-and.html
-# raw_sha256: bdc314da3645cd81dcdac933754f752d2c33d21b514cbd38470f365fd65ebed9
 ---
 
 انہی سے چلی تھی خدا کی خدائی انہی پر خدائی کی حد ہو گئی ہے

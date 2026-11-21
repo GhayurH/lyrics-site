@@ -58,9 +58,6 @@ romanLyrics: |-
   Nauha ye lab-e-Sughra pe raha
   Gar der hui mar jaauṅ gi
   Hai waqt ab bhi aa ja Akbar
-# source_id: nohayonline:19506fbb13716b25b807
-# source_url: https://www.nohayonline.com/details_content.php?id=1674
-# raw_sha256: d29e9e1d0d5d7b2390eb081bd9f5a9352a2b77cfbcea10ca07714702a6e671e9
 ---
 
 بیمار بہن کا نوحہ تھا

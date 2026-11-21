@@ -70,9 +70,6 @@ romanLyrics: |-
   Rota rahe ga ye jahaaṅ gham meiṅ tere Shah-e-Zaman
   Keh do Hasan Yazdaṅ se ye jitne bhi haiṅ ye nauha khwaaṅ
   Is ki tijaarat na kare ye zikr hai mazlum ka
-# source_id: nohayonline:d07d81e43d132f3ff4ea
-# source_url: https://www.nohayonline.com/details_content.php?id=2676
-# raw_sha256: 0691a545ba455e0cf809701af1c7592f9b1d618fadbac6c484500f727f3b276b
 ---
 مشکل میں سہارا یا حسین
 ڈوبوں کو کنارہ یا حسین

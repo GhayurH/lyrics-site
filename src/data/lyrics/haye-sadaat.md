@@ -1,10 +1,10 @@
 ---
-title: ہائے سادات نے اس دہر میں کیا کیا دیکھا
-alternateTitle: Haye Sadaat
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے سادات نے اس دہر میں کیا کیا دیکھا"
+alternateTitle: "Haye Sadaat"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
 tags: []
@@ -53,12 +53,6 @@ romanLyrics: |-
   10
   Ro diye Sarwar o Rehaan jigar thaam ke hum
   Jab azaa khaane meiṅ rakha hua jhula dekha
-# source_id: nohayonline:b1e4b93b870dd97696ca
-# source_url: https://www.nohayonline.com/details_content.php?id=3293
-# raw_sha256: 7ff6cbb56bc913d62a6724a8139b1f5d0973982fa4afe0621b78ffaffacb82e9
-# source_id: ziyaraat:170c32c13b0945991823
-# source_url: https://www.ziyaraat.net/api/noha/1353
-# raw_sha256: f6be295526f3000959439d5ae1e64f1f84a07a5fa57a9e3b89a6d9bcbf5ba729
 ---
 
 ہائے سادات نے اس دہر میں کیا کیا دیکھا

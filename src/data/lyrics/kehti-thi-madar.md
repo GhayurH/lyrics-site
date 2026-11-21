@@ -1,12 +1,12 @@
 ---
-title: کہتی تھی مادر اے علی اکبر
-alternateTitle: Kehti Thi Madar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتی تھی مادر اے علی اکبر"
+alternateTitle: "Kehti Thi Madar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohsin Shakeeb"
-reciter: Ali Zia Rizvi
+reciter: "Ali Zia Rizvi"
 tags: []
 aliases: []
 published: true
@@ -51,12 +51,6 @@ romanLyrics: |-
   Royegi tum ko sada maadar
   Ae mere pyaase Ae mere dilbar
   Ran se do awaaz mujhe
-# source_id: nohayonline:4104a74b41b0e17cd6e3
-# source_url: https://www.nohayonline.com/details_content.php?id=280
-# raw_sha256: d7d37e9c178b49bc693870439116982778c54496fa2ea9f3af0e70364a214491
-# source_id: ziyaraat:ec8ca936f0479048afb2
-# source_url: https://www.ziyaraat.net/api/noha/1164
-# raw_sha256: 8eae25e3397c9c7bac99415d65b224ee16f9f0b6112c00e9c474a50b930dba09
 ---
 کہتی تھی مادر اے علی اکبر
 رن سے دو آواز مجھے

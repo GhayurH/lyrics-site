@@ -51,9 +51,6 @@ romanLyrics: |-
   9
   Keh dijiye Hilal us ja ek shor tha girya tha
   Jab kehti thi wo dukhiya aajao mere baba
-# source_id: nohayonline:ea7d890ed929ba8b3d73
-# source_url: https://www.nohayonline.com/details_content.php?id=722
-# raw_sha256: fec68c6a6041798521d23681bc5a79e6449ce7424aea1a05882a6c1b00b41e59
 ---
 زنداں میں سکینہ کی ہے صدا آجاؤ میرے بابا
 نوحہ تھا سکینہ کا آجاؤ میرے بابا

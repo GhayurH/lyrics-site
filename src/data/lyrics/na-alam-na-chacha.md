@@ -69,9 +69,6 @@ romanLyrics: |-
   Chashm-e-giryaaṅ ko ye hosh kab hi raha
   Kab sahar ho gayi aur kab din dhala
   Shaam ho gayi
-# source_id: nohayonline:8819bc701813e633931b
-# source_url: https://www.nohayonline.com/details_content.php?id=114
-# raw_sha256: 92d78cd41ff5ecfaf1db55b3e11cf0551c19864ae0629395c894bf6706a2a0b3
 ---
 نہ علم نہ چچا نہ شاہِ کربلا
 شام ہو گئی

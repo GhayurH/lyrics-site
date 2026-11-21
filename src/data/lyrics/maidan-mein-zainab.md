@@ -77,9 +77,6 @@ romanLyrics: |-
   Us waqt bhi tu ghar se nahiṅ aayi thi baahar
   Are dekhega tujhe ran meiṅ to mar jaayega bhaai
   Haaṅ maut se pehle hi guzar jaayega bhaai
-# source_id: nohayonline:eefb2a6cb31af2940680
-# source_url: https://www.nohayonline.com/details_content.php?id=2630
-# raw_sha256: b4c81cf9597a2f31f52e5b7ab4e3e0d1fedcadb8c101455fa92b72071d84abd7
 ---
 
 اے لال میرے اکبر

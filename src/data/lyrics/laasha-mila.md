@@ -48,9 +48,6 @@ romanLyrics: |-
   8
   Ham ne bas Darvesh maaṅgi marzi-e-Maula-e-Husain
   Warna dar se bawafa ke jis ne jo maaṅga mila
-# source_id: nohayonline:3d7f3a0ce0cc1f8a97b6
-# source_url: https://www.nohayonline.com/details_content.php?id=3556
-# raw_sha256: 5c442285cbe2f930f5dfdbd5ccc4c4a8828fbb2d6cbb478712d6408b206e8194
 ---
 
 وا غربتا وا مصیبتا
@@ -61,7 +58,7 @@ romanLyrics: |-
 شہ کو یوں عباس کا بکھرا ہوا لاشہ ملا
 
 ۱
-بی‌بیوں میں وا ہجابا کا عجب کہرام تھا
+بیبیوں میں وا ہجابا کا عجب کہرام تھا
 راستے میں با وفا کا جب کٹا شانہ ملا
 
 ۲

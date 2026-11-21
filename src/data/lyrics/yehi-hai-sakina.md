@@ -49,9 +49,6 @@ romanLyrics: |-
   Raheiṅ raunaqeiṅ majlis-e-Sheh ki qaaim
   Rahe jaari o saari maatam bhi qaaim
   Yehi Sibt-e-Jafar ke dil ki sada hai
-# source_id: nohayonline:56fac90df8cbc837f2b6
-# source_url: https://www.nohayonline.com/details_content.php?id=872
-# raw_sha256: 8b7e418728c03a97b78cf8b16b66d1cee8ef7a32cea95da45723570c928c7fa2
 ---
 یہی ہے سکینہ یہی فاطمہ ہے
 یہی دُخترِ شاہِ کرب و بلا ہے

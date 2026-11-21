@@ -1,54 +1,63 @@
-# Quality assurance
+# Quality assurance and release acceptance
 
-Test **contracts and user journeys**, not the current selector structure. Automated verification is necessary but does not replace checking representative readers and Cloudflare integrations.
+There are **two distinct gates**: technical integrity and human editorial acceptance. Neither substitutes for the other. This document covers final validation for changes to poetry, its readers, search, Recitation Sets and deployment.
 
-## Automated pipeline
+## Automated checks
 
-| Command | Purpose |
+| Command | Verification |
 | --- | --- |
 | `npm run check` | Astro and TypeScript diagnostics |
-| `npm run build` | Node unit tests + read-only editorial/source/ID regression, then production pages, Pagefind and offline manifest |
-| `npm run test:smoke` | Critical Chromium journeys explicitly tagged `@smoke` |
-| `npm run test:browser` | All functional Chromium journeys, including smoke; excludes opt-in `@perf` |
-| `npm run perf:assets` / `npm run perf:browser` | Opt-in asset and browser performance review |
+| `npm run source:check` | Read-only Bibi/Roman normalization, Basta index, IDs and editorial regression |
+| `npm run content:review -- --summary` | Advisory source findings; not an edit or sign-off |
+| `npm run build` | Node tests + `source:check` via `prebuild`; Astro HTML + sitemap inventory audit + Pagefind + offline manifest |
+| `npm run sitemap:verify` | Local generated HTML vs sitemap inventory (after build) |
+| `npm run test:smoke` | Critical `@smoke` Chromium journeys |
+| `npm run test:browser` | All functional Chromium journeys, including smoke; excludes `@perf` |
+| `npm run perf:assets` / `npm run perf:browser` | Optional asset and browser performance |
+| `git diff --check` | Patch whitespace errors |
 
-CI runs **one build** and selects smoke or full, never both. The smoke subset protects no-JS source access, homepage/browse/search, saved lyrics, a local Recitation Set, Basta page navigation, edition controls/Focus, and one-at-a-time kalam scans. Full runs on schedule, manual dispatch or a `[full-ci]` commit marker and includes smoke. Browser tests are isolated and grouped into general reader, Basta reader, recitation, site, responsive and appearance suites. CI uses file-level concurrency instead of `fullyParallel`, keeping expensive font-loading amortized within each worker. Tests use event/locator assertions, not arbitrary sleeps. Every build runs the corpus-wide source regression gate once; the separate detailed editorial artifact is reserved for scheduled/manual reviews. Existing reviewed OCR debt does not fail builds, but **new findings and structural mapping errors** do. Failure-only traces and screenshots are CI artifacts, not tracked files.
+CI builds once, then runs **smoke OR full**, never both; full includes smoke. Normal PRs get smoke. Weekly/manual and explicitly marked `[full-ci]` checks get the full browser suite; `[check-ci]` opts into Astro diagnostics. Scheduled/manual jobs also publish the detailed editorial review artifact. `[skip ci]` is for unfinished editorial commits, not the final release. Screenshots and traces belong to failing CI artifacts, not the repository.
 
-## Editorial acceptance and merging
+The review baseline permits known **historical** findings but rejects new regressions and structural mapping failures. Successful tests demonstrate code and source consistency; they do **not** establish that every imported poem, alternative title, poet, transcription or apparent duplicate has been adjudicated.
 
-**A green CI build is a technical gate, not editorial sign-off.** `source:check` enforces published structural consistency, Roman normalizer stability, Basta index labels, permanent IDs and **zero new** findings compared with the approved review baseline. It does not prove that all historical or imported poetry, transcriptions, title variants, potential duplicates or source credits have been manually verified.
+## Editorial release checklist
 
-Before merging a large import:
+For the Round 2 publishing commit/PR:
 
-1. Complete or explicitly adjudicate source decisions for duplicate comparison, original-source Urdu completeness, Roman accuracy, stanza alignment and metadata. Record open work in `audit/manual-md-review-tracker.csv`; an empty register does not replace human editorial acceptance. `pending`, `partial_review`, `spot_checked` and `blocked` are not acceptance. Compare with existing site and Basta content; preserve genuinely distinct variants and source notes.
-2. Review large normalization/content diffs **poem by poem** against originals. Resolve ambiguous readings with source images, source HTML or recitations rather than treating script conversion or a matching line count as verification.
-3. Preserve pre-existing live recitation IDs and stanza anchors. Check any removed, renamed or consolidated poem against `main`; keep published historical IDs retired, and do not invent replacements. Verify generated Basta labels, standalone titles, search URLs and recitation deep links.
-4. Run `npm run check`, `npm run build`, the **full** Chromium functional suite and `git diff --check` at the final head. Use an actual Pages preview to confirm R2 scan links and D1/Recitation Set behavior, which Astro preview cannot reproduce.
+1. **Deduplicate fully.** Compare candidates with existing standalone poems, reviewed Basta index/kalams and original sources. Merge only verified unique verses and valid metadata. Keep genuinely distinct poems. The final corpus should not contain duplicate scraper records dressed as separate poems.
+2. **Complete manual passes.** Check original-language completeness, poet and metadata, language code/direction, stanza boundaries and numbering, Roman accuracy and alignment, title/aliases, and any disputed source reading. Do not mark a bulk-normalized or spot-checked item fully reviewed. Flag unresolved material explicitly; decide whether it blocks publication rather than disguising it.
+3. **Finalize records.** Keep `audit/lyric-md-rounds.csv` unchanged from `main` while editorial work is ongoing. Immediately before merge, reconcile the resolved Round 2 decisions from `audit/round2-dedup-wip.csv` into the final round register, preserving its existing history. Remove temporary WIP-only audit data from the published branch when it is no longer needed. The separate manual review register is for **open** decisions and is not a duplicate permanent log.
+4. **Clean publication content.** Remove import `source_id`, `source_url`, scrape hashes, raw HTML/snapshot paths and redundant provenance comments from final lyric Markdown, **retaining meaningful editorial data and permanent identities**. Do not remove evidence from still-pending unpublished editorial review until it has served its purpose.
+5. **Protect URLs and identity.** Compare the final corpus with `main`. Validate published `recitationId`, Basta poem/stanza anchors, retired IDs, source-page links, alias/slug behavior and any Recitation Set references. Never replace deleted IDs with a new poem. Verify actual printed `---***---` fragment mappings before authorizing role changes.
+6. **Review exact diffs.** Run `npm run whitespace:fix`, `npm run source:sync`, inspect all Markdown and derived changes poem-by-poem, and run `git diff --check`. A normalizer changing wording is a candidate for human checking, not automatic approval.
+7. **Complete technical verification at the final head.** Run `npm run check`, `npm run build` and `npm run test:browser` (Chromium), and confirm the final commit receives **unskipped** CI validation. Verify no new source-review regressions, stale sitemap routes or dropped public pages.
+8. **Test real Cloudflare behavior.** Verify R2 image/PDF redirects on Pages preview, production/preview D1 bindings, Recitation Set create/read/expiry/capabilities, bot/sitemap fetches and private capability caching. Do not use Astro preview as evidence for Cloudflare APIs.
 
-A not-yet-reviewed import may pass automated validation, but must not be described as editorially approved. The source reviewer's scan-linked findings remain advisory until checked by a person.
+Only after these checks should the branch be described as publication-ready. Do not insert projected file counts or review totals in permanent documentation; they become stale as imports and deduplication change.
 
-## Representative manual matrix
+## Reader acceptance matrix
 
-| Environment | Essential checks |
+| Viewport or mode | Essentials |
 | --- | --- |
-| 320×568 and 390×844 portrait | Single Urdu, Roman, scan-only, stacked editions, toolbar collapse, legible headings |
-| 640×360 touch landscape | Focus entry/exit, scan not overlapping poems, safe-area controls |
-| 768×1024 portrait | Container breakpoints and bilingual index readability |
-| 1440×900 desktop | All three editions parallel where space permits, shared article width/navigation, sticky scan/toolbar |
-| 200–400% zoom | No page-wide horizontal scroll; very long lines pan **individually** with keyboard access |
+| 320×568 / 390×844 | Original-only, Roman-only and scan fallback; stacked editions; legible headers and toolbar |
+| 640×360 touch landscape | Focus controls, safe areas, scan navigation and no obstructed poetry |
+| 768×1024 | Container-based bilingual layouts and index legibility |
+| 1440×900 | All available parallel editions, adjustable Urdu/Roman widths and scan positioning |
+| 200–400% zoom | Verses fit or pan **individually**; no document-wide sideways scroll; keyboard access |
+| No JavaScript / offline / low bandwidth | Useful HTML, obvious errors, recoverable image/source access and safe cached content |
 
-Verify bilingual source coverage, permitted exceptions and spelling against [Transliteration](TRANSLITERATION.md). Poetry Markdown must end with exactly one newline while preserving internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
+Across representative pages also test Light, Dark, Sepia, AMOLED and Custom themes, a Nastaliq and Naskh face, a Roman font, reduced motion, keyboard Tab/Escape, focus restoration and readable screen-reader announcements.
 
-## Journeys to protect
+## Critical journeys
 
-1. **Standalone lyrics:** page content without JavaScript, Urdu/Roman-only stanza layout, title and poet roles, bookmarks, corrections and search aliases.
-2. **Basta:** frameless, uncropped original scans (preserving their printed borders) across page, individual-kalam, continuous and Focus readers; all eligible three-edition readers float scans beside text above 64rem and stack scans above two resizable texts below it; individual kalam pages use the same wide reader shell; adjustable bilingual width up to 85% Roman, 95%-triggered font growth with every verse justified, single-line fitting and shared scrolling, printed-page navigation, image-only/missing-Roman fallback, continuous chunk retry, `#page-N` direct links, Focus back/exit restoration, Urdu–Roman bookmark identity and verified individual-kalam scans (Previous/Next, one source visible, direct `#scan-page-N` links, Focus and mobile).
-3. **Recitation editor:** create/duplicate/reorder drafts, templates, 40-item cap, reciter/notes, borrowed/repeated Marsiya stanzas, source warnings and saved drafts after navigation.
-4. **Published programmes:** read-only public link, private capability, concurrent edit conflicts, expiry, authorized deletion, opt-in live follower, full offline HTML and browser print.
-5. **Saved/offline/search:** backup preview/restore, fresh-device offline downloads, Pagefind filters, keyboard-accessible menus and no unsafe caching of private capabilities.
+- **Standalone:** correct original/Roman titles and poet, stanza semantics, no-JS text, bookmarks, independent source types, search aliases and source links.
+- **Basta:** printed page identity; index and continuous reader; verified individual kalam; continuation/page anchors; one-at-a-time `#scan-page-N` scan navigation; missing Roman and image-only fallback; Focus exit restores location.
+- **Reader layout:** consistent toolbar; parallel three editions at sufficient width, stacked when narrow; draggable text divider; font size tracks column width without wrapping the source verse; justified Urdu, proper scroll container and no clipping.
+- **Recitation:** draft edit/reorder/duplicate, 40-entry cap, stanza selections, preserved IDs, safe export and backup; published link read-only, capability edit, concurrency conflict, retention, deletion, opt-in live following.
+- **Search/offline:** visible source verses rather than duplicated excerpts, language-agnostic Pagefind retrieval, aliases and filters, keyboard navigation, offline downloads and restoration, private API/edit token exclusion from caches.
 
-## Deployment checks
+## Deployment and investigation
 
-Local `astro preview` does not reproduce R2 redirect routing, D1 bindings or scheduled Workers. On a **preview deployment**, test source-scan redirects, blocked/slow images, API errors and 30-day programme retention. On **production**, verify configured D1 access and production retention without altering live records unnecessarily. Confirm the offline service worker never caches private edit URLs or API responses.
+`npm run sitemap:verify:live` compares the deployed sitemap to a **local build of the exact deployed commit**. A mismatch from another build is not proof of missing live pages. A Cloudflare challenge against an automation client is not proof that verified search-engine crawlers are blocked; examine Security Events and actual Google/Bing access before changing WAF settings. Search Console's historic “discovered” counts are not the current site's route count.
 
-For editorial changes, inspect original scans before updating `fragment-roles.json` or identities. See [Contributing](CONTRIBUTING.md) for the only supported approval process. Record device, viewport, zoom, font, selected editions, network conditions and reproducible steps with each defect.
+Use an actual Pages preview for API, R2 and Worker interactions and a controlled production verification for bindings/retention. Record device, viewport, zoom, selected language/edition, affected source/URL and reproducible steps for any defect. Operational commands are in [Operations](OPERATIONS.md).

@@ -62,9 +62,6 @@ romanLyrics: |-
   Phir Sakina ko tamaanche na lagaate ho laiṅ
   Keh ke ye kaampte haathoṅ se sambhaali mayyat
   Ya Ali keh ke kaleje se lagaa li mayyat
-# source_id: nohayonline:098c6dcd350dfcc8fe74
-# source_url: https://www.nohayonline.com/details_content.php?id=3523
-# raw_sha256: 6c77ba8670fca50a44a0025af389f78ad35d08be65b3859f8da843c83300ade3
 ---
 ہاے وہ عصر کا ہنگام وہ میدان بلا
 ہاے وہ طوق و رسن اف وہ غریبوں کا گلا

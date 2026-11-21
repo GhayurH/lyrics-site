@@ -63,9 +63,6 @@ romanLyrics: |-
   Sajid mere chacha ko mera payam dena
   Kehna teri bhatiji ab tak ye keh rahi hai
   Ammu mujhe bacha lo
-# source_id: nohayonline:2bff351a3b8dbb4ee272
-# source_url: https://www.nohayonline.com/details_content.php?id=1648
-# raw_sha256: 2ab83b9ed181691415aa91aa62e8d4dfd2fc61e239dd13ffec5c7cca0336c07f
 ---
 شبیر کی یتیمہ رو رو کے کہہ رہی ہے
 عمو مجھے بچا لو

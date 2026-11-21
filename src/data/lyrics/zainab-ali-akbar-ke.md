@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Rakhte the uthaate the mayyat Ali Akbar ki
   Laila kahiṅ dekh na le tum bhi ye dua maango
-# source_id: nohayonline:c0b7e78f5e1829e6090f
-# source_url: https://www.nohayonline.com/details_content.php?id=714
-# raw_sha256: edbda15162249451e6a282c4c50c369c3c505d4738790bd993ccc71f3165913a
 ---
 زینب علی اکبر کے جینے کی دُعا مانگو
 بچ جائے میرا بچہ بس اُس کی دُعا مانگو

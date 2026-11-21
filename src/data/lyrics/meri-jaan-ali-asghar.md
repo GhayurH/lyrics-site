@@ -44,9 +44,6 @@ romanLyrics: |-
   Karbala se jo Madine meiṅ hawa aati hai
   Maaṅ ki ummid to Yawar wo jaga jaati hai
   Dhup meiṅ baithi hui Bano yehi kehti hai
-# source_id: nohayonline:1b703ca6813de9294e40
-# source_url: https://www.nohayonline.com/details_content.php?id=476
-# raw_sha256: 4cb953d2c3ac8ec5459cf81937230f242dbd87d1726b191f49145f41c41b0789
 ---
 آ تجھے لوری سُناؤں علی اصغر
 آ تجھے جھولا جھُلاؤں علی اصغر

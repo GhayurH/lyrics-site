@@ -1,24 +1,15 @@
 ---
 title: "اے اہلِ حرم میر و علمدار نہ آیا"
 alternateTitle: "Alamdar Na Aaya"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:6231230682152661755e
-# source_url: https://www.nohayonline.com/details_content.php?id=2590
-# raw_sha256: 8495401ec8affb191b03ad82a6fe016e4b691a6ad62da200fee660202f3b9c96
-# source_id: ziyaraat:4b911299e96185a698ff
-# source_url: https://www.ziyaraat.net/api/noha/1839
-# raw_sha256: 3b098af754090021c795de003d045bb2914cd3027a97f3ae4c57246f1e875fa2
-# source_id: ziyaraat:e7b47ba5745df1df84e1
-# source_url: https://www.ziyaraat.net/api/noha/2468
-# raw_sha256: 02867ddc522e977ba016942c424eff767ba533a614a751050499bb803e90357b
 romanLyrics: |-
   Ae Ahl-e-Haram mir o alamdar na aaya
   Alamdar na aaya

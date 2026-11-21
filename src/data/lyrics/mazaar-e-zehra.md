@@ -99,9 +99,6 @@ romanLyrics: |-
   Fiza meiṅ kehti thi Aamir ye tegh lehraa kar
   Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
-# source_id: nohayonline:e79ac59ce38c37bcd023
-# source_url: https://www.nohayonline.com/details_content.php?id=1282
-# raw_sha256: 62decd452c212c68d59a4b64def7692a87e2fc93f20c399b18810f7bc15dba68
 ---
 بعد تدفین فاطمہ زہرا
 شور و غل یہ مدینے میں اٹھا

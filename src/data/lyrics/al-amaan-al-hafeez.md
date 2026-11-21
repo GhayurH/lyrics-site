@@ -111,9 +111,6 @@ romanLyrics: |-
   Kaisa manzar tha ajab Dayam o Yazdaṅ ba Khuda
   Ek maaṅ roti thi aur parhti thi ro kar noha
   Husain Husain Husain Husain
-# source_id: nohayonline:f091a1b319b9e7887b4e
-# source_url: https://www.nohayonline.com/details_content.php?id=1441
-# raw_sha256: b1d4ea2b473505085db4f5237c4d1f6b4714c7a176322a76cc5ca65c6787223d
 ---
 آمد ہوئی جو بر سرِ میداں حسین کی
 اور دلبرِ رسول شہِ مشرقین کی

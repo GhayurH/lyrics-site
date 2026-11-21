@@ -62,9 +62,6 @@ romanLyrics: |-
   Tiragi phail gai
   Tuta naiza liye Bibi koi maqtal ko chali
   Mere Ghaazi Abbas
-# source_id: nohayonline:9a9a6dd2241a7397dd5c
-# source_url: https://www.nohayonline.com/details_content.php?id=703
-# raw_sha256: 0064805ce797389a790f7f0e97b701dddcf2f5525f8abb5e353b8ddc009f3156
 ---
 
 میرے آقا میرے مولا

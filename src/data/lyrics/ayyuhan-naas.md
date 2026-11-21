@@ -69,9 +69,6 @@ romanLyrics: |-
   Yaad aa jaata hai jab shaam ka zindaan kabhi
   Jab bhi qirtaas pe maiṅ nauha-e-Shabbir likhuṅ
   Meri tahrir meiṅ aata hai mere qalb ka soz
-# source_id: nohayonline:3492bdb22f142a302890
-# source_url: https://www.nohayonline.com/details_content.php?id=3001
-# raw_sha256: a0ee83c70c740d05686611427911366b52a9ce4d812cbee50bc41f2b4d9886cd
 ---
 ایہا الناس شما را بحق خون حسین
 لھجہ ای گوش نمایاں ایں دری شیون و شین

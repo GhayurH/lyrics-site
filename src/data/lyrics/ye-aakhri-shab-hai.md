@@ -61,9 +61,6 @@ romanLyrics: |-
   Kal khuṅ meiṅ naha jaayega Shabbir ka lashkar
   Ae Aamir o Nayyar
   Ab hashr talak royegi pyaasoṅ ko khudaai
-# source_id: nohayonline:ecfadd4ce4e9158fe432
-# source_url: https://www.nohayonline.com/details_content.php?id=3500
-# raw_sha256: 1f6f8614fd04dde2614f43a7d07c3322a6fc4e6df0221a19e3ee22f4c402d5de
 ---
 اے شیر خدا حیدر کرار دہائی
 یہ آخری شب ہے یہ آخری شب ہے

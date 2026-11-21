@@ -65,9 +65,6 @@ romanLyrics: |-
   Na chhori sar pe jallaadoṅ ne chaadar
   Ye kehti reh gayi Sarwar ki khwaahar
   Meri chaadar na chhino
-# source_id: nohayonline:e6bad84559d2dfd6cf8a
-# source_url: https://www.nohayonline.com/details_content.php?id=1259
-# raw_sha256: 78a053cd0bdd391ffedd614ef55db96ba3a4f964c39689eb34c16f0576188540
 ---
 
 ہوا جب قتل احمد کا نواسہ

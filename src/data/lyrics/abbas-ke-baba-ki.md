@@ -38,9 +38,6 @@ romanLyrics: |-
   6
   Phaila hua Mabud hi ka khun hai Akbar
   Jis khun se rangiṅ hua Mabud ka ghar hai
-# source_id: nohayonline:afa8962e86334be29f4e
-# source_url: https://www.nohayonline.com/details_content.php?id=1363
-# raw_sha256: d6fea2bc9c9274553c84373839696a84152fbfa4e4c146d8dc4c70aa0a4274d7
 ---
 
 مسجد کوفہ سے لے کر تابہ خاک کربوبلا

@@ -58,9 +58,6 @@ romanLyrics: |-
   Udaasi tahrir par hai chhaayi
   Qalam bhi roya hai khuṅ ke aansu
   Ali ka nauha lahu lahu hai
-# source_id: nohayonline:212e6439e3119f5723d7
-# source_url: https://www.nohayonline.com/details_content.php?id=1686
-# raw_sha256: b0fb90af34ffbc707a8d77d00fb3846b1a9ca072e1d3d555ee5ee15c68cb9bb3
 ---
 
 خدا کے گھر میں سرِ مصلّٰی

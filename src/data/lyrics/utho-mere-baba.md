@@ -60,9 +60,6 @@ romanLyrics: |-
   Nahiṅ dekhi jaati hai dukhiya ki haalat
   Kahaaṅ par hai beshir Asghar ki turbat
   Har ek simt jaa jaa ke maaṅ dekhti hai
-# source_id: nohayonline:325a3aa4b8902952f76c
-# source_url: https://www.nohayonline.com/details_content.php?id=1868
-# raw_sha256: 6eeeb1e48b3230b72d8f9660a194b24a54b5db815f0433dfd59ee0ecf0a636c6
 ---
 اٹھو میرے بابا زمیں جل رہی ہے
 

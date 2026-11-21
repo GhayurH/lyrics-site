@@ -58,9 +58,6 @@ romanLyrics: |-
   Qamar Buknalvi Zainab hui jis dam rasan basta
   Bari hasrat se Aamir donoṅ laashoṅ ki taraf dekha
   Kaha phir laashoṅ se maaṅ jaati hai ab keh na paayegi
-# source_id: nohayonline:b6b828336316465939e7
-# source_url: https://www.nohayonline.com/details_content.php?id=2872
-# raw_sha256: 1498d62c383da5a0a8a3c8c27488f8da54f78dbd07087c87c975fe084e50b3b9
 ---
 پرایا دیس ہے غربت ہے ماں یہ سہ نہ پائے گی
 کفن عون و محمد تم کو زینب دے نہ پائے گی

@@ -10,9 +10,6 @@ reciter: "Imran Abbas Mani & Zawar Ali Raza"
 tags: []
 aliases: ["suno-akbar-ki-jang-imran-abbas-zawar-ali-raza"]
 published: true
-# source_id: tajpoints:bd990d35beb20e1b2a87
-# source_url: https://tajpoints.com/2023/06/suno-akbar-ki-jang-imran-abbas-zawar.html
-# raw_sha256: 4a7210f98a47226a42252589a3cac82e8e0d32aecba027722743d43568543371
 romanLyrics: |-
   1
   Ya Rab mujhe nafis sa unwaan chaahiye

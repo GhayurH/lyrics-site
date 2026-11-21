@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Waqt kuchh aur hai Khuda haafiz
   Muṅh pe chaadar to daal do baba
-# source_id: nohayonline:591dd32676cfa36d9238
-# source_url: https://www.nohayonline.com/details_content.php?id=3502
-# raw_sha256: 4aab51c180fa1b7e42f8acd08d3e28c1ae4854b54d29553ef77ac61bd0c64834
 ---
 دل اکبر سنبھال لو بابا
 چبھتی برچھی نکال لو بابا

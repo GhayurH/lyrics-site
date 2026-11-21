@@ -78,9 +78,6 @@ romanLyrics: |-
   Bibi ko qabr meiṅ bhi sukuṅ hai na chain hai
   Hai pasliyoṅ pe haath zabaaṅ par Husain hai
   Ya mazluma ya Zahra ya masuma ya Zahra
-# source_id: nohayonline:6d5754f38c09f8077bbe
-# source_url: https://www.nohayonline.com/details_content.php?id=1025
-# raw_sha256: dbfd2a56a84f3b30a6701e9e0e0c803a9c6f3078963d7673fe49959c645a27e1
 ---
 دیکھو مزار فاطمہ کتنا اداس ہے
 یا مظلومہ یا معصومہ یا زہرا

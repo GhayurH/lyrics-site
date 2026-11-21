@@ -77,9 +77,6 @@ romanLyrics: |-
   Apne Baaba ki judaai meiṅ wo jaaṅ khoti thi
   Kar ke Aamir ye dua bachchi bahut roti thi
   Ya Ilaahi meri bigri hui taqdir bana de
-# source_id: nohayonline:7e603a05be01db08027c
-# source_url: https://www.nohayonline.com/details_content.php?id=1795
-# raw_sha256: 31ad0a22c9eb57fe7176776b8eb7eb3487e098f051f326d4091b485f229e0f55
 ---
 
 رو کے کہتی تھی سکینہ میرے بابا سے ملا دے

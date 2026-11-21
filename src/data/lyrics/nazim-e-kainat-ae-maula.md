@@ -55,9 +55,6 @@ romanLyrics: |-
   11
   Hoṅ Baraahim, Isa aur Musa ya hoṅ wo Jibril o Mikaail
   Maatami sab Aimaad Naqvi bhi karte haiṅ tujh se pyaar ya Mehdi
-# source_id: tajpoints:265538441d27fde652cb
-# source_url: https://tajpoints.com/2023/03/ya-mehdi-syed-wajhi-hasan-lyrics-in.html
-# raw_sha256: 60422ffb652b9fcfec58b945770525816dae6295634ae85ecf308ce54ae66401
 ---
 ۱
 ناظمِ کائنات اے مولا صاحبِ اقتدار یا مہدی

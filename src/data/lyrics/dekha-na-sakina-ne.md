@@ -50,9 +50,6 @@ romanLyrics: |-
   8
   Salman puchhti thi Baba se ye Sakina
   Mujh se bhi ziyaada zakhmi kiuṅ aap ka chehra hai
-# source_id: nohayonline:2b01bd0756936da82ad0
-# source_url: https://www.nohayonline.com/details_content.php?id=1627
-# raw_sha256: a25e7fc609b7f77ee58e2d7420bfe7108dd78a00bb994ca35ef6d0da2d2e1637
 ---
 
 چہرہ نہ تیرا سامنے گر پاؤں گی بابا

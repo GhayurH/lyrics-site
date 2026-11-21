@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Hayaat ek ek ko hasrat se dekha karta hai pehroṅ
   Kabhi jo Karbala se Shaah ke zawwaar phirte haiṅ
-# source_id: nohayonline:5d4e1ebfd605d92e4a69
-# source_url: https://www.nohayonline.com/details_content.php?id=255
-# raw_sha256: 44cdb1cb1cfbe885bc2c599cdd30f609b62f96ec8dbf23c575141602f82cda83
 ---
 رسن بستہ حرم مجبور اور لاچار پھرتے ہیں
 برہنہ سر برہنہ پا سرِ بازار پھرتے ہیں

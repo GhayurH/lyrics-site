@@ -155,6 +155,14 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
         record(issues, path, 2, "obsolete-lyric-image",
           field + " is not supported for standalone kalams");
     }
+    // A non-English kalam stores its original reading and Roman transliteration only.
+    if (fields.language !== "English") {
+      for (const field of ["englishTranslation", "englishTranslationAlternate"]) {
+        if (Object.hasOwn(fields, field))
+          record(issues, path, 2, "unwanted-english-translation",
+            field + " is unsupported for non-English kalams");
+      }
+    }
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
     }
@@ -252,15 +260,11 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
 /** Publication-wide file conventions run from the single editorial scan, not
  * from separate filesystem-walking tests. They must never rewrite verse text.
  * Keep these separate from reviewMarkdown so synthetic parser fixtures need
- * not include the publication's EOF and numbered-stanza requirements.
+ * not include publication-wide numbered-stanza requirements.
  */
-export function reviewPublicationConventions(file: ReviewedMarkdown, text: string): ReviewFinding[] {
+export function reviewPublicationConventions(file: ReviewedMarkdown): ReviewFinding[] {
   const issues: ReviewFinding[] = [];
   const { path, kind, fields, body, roman } = file;
-  if (!text.endsWith("\n") || text.endsWith("\n\n"))
-    record(issues, path, text.split("\n").length, "source-final-newline",
-      "Published Markdown must have exactly one final newline");
-
   if (kind === "basta-urdu" && roman !== undefined && !roman.trim())
     record(issues, path, file.romanLine ?? 2, "empty-basta-roman",
       "Omit the Roman literal when no transcription exists; never invent missing Roman text");

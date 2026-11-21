@@ -61,9 +61,6 @@ romanLyrics: |-
   Roz karte haiṅ wazifa ye Kumail o Aamir
   Dil meiṅ rakhte haiṅ aqida ye Kumail o Aamir
   Jo bhi parhte haiṅ Husain ibn-e-Ali ka nauha
-# source_id: nohayonline:acab0a2045ddfd53ac90
-# source_url: https://www.nohayonline.com/details_content.php?id=2733
-# raw_sha256: 86d91a9445e9d11661ccc74639a8b04911d52690265b3cc9df36d482e197d6a4
 ---
 
 جو بچھاتے ہیں محرم میں صدا فرش عزا

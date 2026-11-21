@@ -57,9 +57,6 @@ romanLyrics: |-
   Noha parho yuṅ ashk baha kar
   Shaad ho Zehra bint-e-Payambar
   Ashk-e-aza ye kehta rahega
-# source_id: nohayonline:44971716d25bad88afa9
-# source_url: https://www.nohayonline.com/details_content.php?id=2052
-# raw_sha256: 7473272746ccf9b88fcba72e97aba2780939a5a370f4bd69ce72b716de33bba5
 ---
 
 غازی علم تیرا اونچا رہے گا

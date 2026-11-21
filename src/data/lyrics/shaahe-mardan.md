@@ -1,126 +1,174 @@
 ---
-title: "یا علی مولا حیدر مولا"
-alternateTitle: "Shaah-e-Mardaaṅ"
+title: "شاہ مرداں شیر یزداں"
+alternateTitle: "Shaahe Mardaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mehshar Lakhnavi"
-reciter: ["Sachey Bhai", "Shadman Raza"]
+poet: "Zeeshan Abidi"
 tags: []
-aliases: ["Shaahe Mardan"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Ya Ali Maula Haidar Maula
-
-  Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar
-  La fata illa Ali la saif illa Zulfiqaar
+  Shaahe mardaṅ shere yazdaṅ
 
   1
-  Kis tarah chalti thi ran meiṅ tegh-e-sher-e-Kirdigaar
-  Ashqiya meiṅ har taraf se al-amaaṅ ki thi pukaar
-  Kar chuka jab zer Marhab ko shah-e-Duldul sawaar
-  Aa rahi thi ye sada diwaar o dar se baar baar
-  Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar
+  Quwwate parwardigaar hai ali
+  Kaha misam ne daar par
+  Haaṅ mera pyaar hai ali
+  Jaaneman maula ali ishqe-man raahe najaf
+  Kiuṅ na deewana ho wo dil hai jahaṅ shaahe najaf
+  Maiṅ ne in aankhoṅ se dekhi hai karam gaahe najaf
+  Saare jahaṅ se hasiṅ hai najaf ki zamiṅ
+  Jahaṅ rehte hai do aalam ke baadshah
+  Yani dono jahaṅ meiṅ teri sarkaar hai ali
 
   2
-  Jis tarah koi Khuda-e-paak se bartar nahiṅ
-  Jis tarah koi Rasul Allah ka hamsar nahiṅ
-  Ek hai duniya meiṅ Haidar dusra Haidar nahiṅ
-  Misl-e-Haidar ye kisi ki tegh meiṅ jauhar nahiṅ
-  Is taraf saari ibaadat ek taraf Haidar ka waar
+  Baadshahoṅ ka shahenshah zabardast ali
+  Tu bulandi hai tujhe kaun kare past ali
+  Kar diya teri mohabbat ne mujhe mast ali
+  Dil meiṅ dharakta hai tu mera maula hai tu
+  Hum malango ko tujhse ishq ho gaya
+  Jahaṅ bat'ti hai shaahiyaṅ tera darbar hai ali
 
   3
-  Yaad kar lo dur kiuṅ jaate ho kal ki baat hai
-  Jang ke maidaaṅ meiṅ kaam aaya wo kis ki zaat hai
-  Mahw-e-hairat muttasil lashkar se kaainaat hai
-  Fath o nusrat aaj bhi naam-e-Ali ke saath hai
-  Guṅjta hai Haidari naaroṅ se dasht-e-kaarzaar
+  Lehja tera sunte hi baadal ne garaj kar kaha
+  Naam tera aaya chali dhup meiṅ thandi hawa
+  Dekh tere ishq ne deewana mujhe kar diya
+  Koi nahi sirf ali tu hai baadshah
 
   4
-  Kaam aaya phir wohi jab sakht aaya imtihaaṅ
-  Naam se jis ke larazte haiṅ zamin o aasmaaṅ
-  Laakh jalta huṅ Ali ke kaarnaamoṅ se jahaaṅ
-  Sab se afzal aaj hai duniya meiṅ Haidar ka nishaaṅ
-  Aaj bhi sajti hai sinoṅ par yehi ek yaadgaar
+  Saare rindoṅ ka thikana hai tera dar hyder
+  Wajd meiṅ jhumta rehta hai qalandar hyder
+  Jab bhi lagta hai wahaṅ naara e hyder hyder
+  Maula jise tu mila wo wali ban gaya
+  Dekho sehwan se aa rahi hai ye sada
+  Hyderiyam qalandaram mera sardar hai ali
 
   5
-  Juz Ali tha kaun haq ke waaste sina sipar
-  Kaun uthta tha Rasul Allah ki aawaaz par
-  Kis ne qurbaaṅ kar diya raah-e-Khuda meiṅ apna ghar
-  Is haqiqat se bhala ham kis tarah phere nazar
-  Hai isi aawaaz par takbir ka daar o madaar
+  Mere murshid mere maula mere maharaj ali
+  Sirf dil hi nahi zehno pe tera raaj ali
+  Tujhko allah ne pehnaya hai ye taaj ali
+  Shaahe wilayat hai tu meri chaahat hai tu
+  Baad allah o nabi sab se tu bara
+  Wah kya shaandaar ye teri dastaar hai ali
 
   6
-  Kehte the Aun o Muhammad maadar-e-ghamkhwaar se
-  Is tarah jang meiṅ lareṅge lashkar-e-kuffaar se
-  Sab hameiṅ tashbih deṅge Jaafar-e-Tayyaar se
-  Bach ke jaa paaega koi kya hamaare waar se
-  Kheiṅch deṅge tegh se ham Badr ke naqsh o nigaar
+  Teri baatoṅ meiṅ guzarti hai meri shaam ali
+  Hum faqiroṅ ka sahara hai tera naam ali
+  Dono aalam ki madad karna tera kaam ali
+  Chalti hai marzi teri mere maula ali
+  Tune jo keh diya samjho wo ho gaya
+  Marzi e kirdigaar ka tu kharidaar hai ali
 
   7
-  Kya koi rokega ham ko maatam-e-Shabbir se
-  Baandh de koi hameiṅ gar aahani zanjir se
-  Muttasil ho jaae gardan bhi agar shamshir se
-  Kiuṅ na ho Mehshar aqidat shaah-e-Khaibar-gir se
-  Ya Ali keh deṅge tab ruk jaaegi khanjar ki dhaar
-# source_id: nohayonline:75055e4499a1b3a18a23
-# source_url: https://www.nohayonline.com/details_content.php?id=2635
-# raw_sha256: 2492347ecadbb0eced5e8a9968eeb33c2ddef3f99c9a28661c505f937e55a92e
-# source_id: nohayonline:301b25c4f0a0ee4bb63c
-# source_url: https://www.nohayonline.com/details_content.php?id=536
-# raw_sha256: 38cb992c742a037173df5e52ed1dd526b2cb43f6cd4d2c3d7aae084e028c8ca8
+  Haye ali haye ali haye ali
+  Itni taaqat thi ke jo chaahe wo kar sakta tha
+  Wo bina taygh bhi maidaaṅ meiṅ utar sakta tha
+  Kaise talwaar chalaani hai wo sab jaanta tha
+  Baad allah ke wo hukme nabi maanta tha
+  Quwwate parwardigaar teri ghurbat pe nisaar
+  Tu ne jo sabr kiya koi nahiṅ kar sakta
+  Tera darwaza jalaya teri zahra ko rulaya
+  Teri gardan meiṅ rasan thi
+  Phir bhi tu kuch nahi bola
+  Mere maula
+  Tu hi tha baade nabi sab ka imam
+  Phir bhi karta nahi tha koi salaam
+  Tu madine meiṅ kitna tanha tha
+  Qabre zahra pe baitha rehta tha
+  Haye ali haye haye ali teri tanhaai
+  Kufe se jo karbobala tak aayi
+  Tere har waar ka yuṅ badla liya
+  Tere bacchoṅ ka gala kaat diya
+  Tera qasim tera ghazi tera akbar
+  Mar gaye aun o mohamed ali asghar
+  Tera ek beta teri tarha bahot tanha tha
+  Tha jo maidaṅ meiṅ seh roz ka bhuka pyasa
+  Haye Husain haye Husain haye Husain
+  Dekh kar jis ki taraf kehte the laakhoṅ aada
+  Ghayr kar maaro ise ye hai ali ka beta
+  Aaj rote hai isi baat pe zishan o raza
+  Maula har daur meiṅ tera hi lahu behta raha
 ---
-یا علی مولا حیدر مولا
 
-شاہ مرداں شیر یزداں قوت پروردگار
-لا فتیٰ الا علی لا سیف الا ذوالفقار
+شاہ مرداں شیر یزداں
 
 ۱
-کس طرح چلتی تھی رن میں تیغ شیر کردگار
-اشقیاء میں ہر طرف سے الامان کی تھی پکار
-کر چکا جب زیر مرحب کو شہ دلدل سوار
-آ رہی تھی یہ صدا دیوار و دَر سے بار بار
-شاہ مرداں شیر یزداں قوت پروردگار
+قوت پروردگار ہے علی
+کہا میثم نے دار پر
+ہاں میرا پیار ہے علی
+جان من مولا علی عشقِ من راہ نجف
+کیوں نہ دیوانہ ہو وہ دل ہے جہاں شاہ نجف
+میں نے ان آنکھوں سے دیکھی ہے کرم گاہ نجف
+سارے جہاں سے حسیں ہے نجف کی زمیں
+جہاں رہتے ہیں دو عالم کے بادشاہ
+یعنی دونوں جہاں میں تیری سرکار ہے علی
 
 ۲
-جس طرح کوئی خدائے پاک سے برتر نہیں
-جس طرح کوئی رسول اللہ کا ہمسر نہیں
-ایک ہے دنیا میں حیدر دوسرا حیدر نہیں
-مثل حیدر یہ کسی کی تیغ میں جوہر نہیں
-اس طرف ساری عبادت ایک طرف حیدر کا وار
+بادشاہوں کا شہنشاہ زبردست علی
+تو بلندی ہے تجھے کون کرے پست علی
+کر دیا تیری محبت نے مجھے مست علی
+دل میں دھڑکتا ہے تو میرا مولا ہے تو
+ہم ملنگوں کو تجھ سے عشق ہو گیا
+جہاں بٹتی ہے شاہیاں تیرا دربار ہے علی
 
 ۳
-یاد کر لو دور کیوں جاتے ہو کل کی بات ہے
-جنگ کے میداں میں کام آیا وہ کس کی ذات ہے
-محوِ حیرت متصل لشکر سے کائنات ہے
-فتح و نصرت آج بھی نام علی کے ساتھ ہے
-گونجتا ہے حیدری نعروں سے دشتِ کارزار
+لہجہ تیرا سنتے ہی بادل نے گرج کر کہا
+نام تیرا آیا چلی دھوپ میں ٹھنڈی ہوا
+دیکھ تیرے عشق نے دیوانہ مجھے کر دیا
+کوی نہیں صرف علی تو ہے بادشاہ
 
 ۴
-کام آیا پھر وہی جب سخت آیا امتحاں
-نام سے جس کے لرزتے ہیں زمین و آسماں
-لاکھ جلتا ہوں علی کے کارناموں سے جہاں
-سب سے افضل آج ہے دنیا میں حیدر کا نشاں
-آج بھی سجتی ہے سینوں پر یہی ایک یادگار
+سارے رندوں کا ٹھکانہ ہے تیرا در حیدر
+وجد میں جھومتا رہتا ہے قلندر حیدر
+جب بھی لگتا ہے وہاں نعرۂ حیدر حیدر
+مولا جسے تو ملا وہ ولی بن گیا
+دیکھو سہون سے آ رہی ہے یہ صدا
+حیدریم قلندرم میرا سردار ہے علی
 
 ۵
-جز علی تھا کون حق کے واسطے سینہ سپر
-کون اٹھتا تھا رسول اللہ کی آواز پر
-کس نے قرباں کر دیا راہ خدا میں اپنا گھر
-اس حقیقت سے بھلا ہم کس طرح پھیرے نظر
-ہے اسی آواز پر تکبیر کا دار و مدار
+میرے مرشد میرے مولا میرے مہاراج علی
+صرف دل ہی نہیں ذہنوں پہ تیرا راج علی
+تجھکو اللہ نے پہنایا ہے یہ تاج علی
+شاہ ولایت ہے تو میری چاہت ہے تو
+بعد اللہ و نبی سب سے بڑا
+واہ کیا شاندار یہ تیری دستار ہے علی
 
 ۶
-کہتے تھے عون و محمد مادر غمخوار سے
-اس طرح جنگ میں لڑیں گے لشکر کفار سے
-سب ہمیں تشبیہ دیں گے جعفر طیار سے
-بچ کے جا پائے گا کوئی کیا ہمارے وار سے
-کھینچ دیں گے تیغ سے ہم بدر کے نقش و نگار
+تیری باتوں میں گزرتی ہے میری شام علی
+ہم فقیروں کا سہارا ہے تیرا نام علی
+دونوں عالم کی مدد کرنا تیرا کام علی
+چلتی ہے مرضی تیری میرے مولا علی
+تو نے کہہ دیا سمجھو وہ ہو گیا
+مرضیء کردگار کا تو خریدار علی
 
 ۷
-کیا کوئی روکے گا ہم کو ماتم شبیر سے
-باندھ دے کوئی ہمیں گر آہنی زنجیر سے
-متصل ہو جائے گردن بھی اگر شمشیر سے
-کیوں نہ ہو محشر عقیدت شاہ خیبر گیر سے
-یا علی کہہ دیں گے تب رک جائے گی خنجر کی دھار
+ہاے علی ہاے علی ہاے علی
+اتنی طاقت تھی کہ چاہے وہ کر سکتا تھا
+وہ بنا تیغ بھی میداں میں اتر سکتا تھا
+کیسے تلوار چلانی ہے وہ سب جانتا تھا
+بعد اللہ کے وہ حکم نبی مانتا تھا
+قوت پروردگار تیری غربت پہ نثار
+تو نے جو صبر کیا کوی نہیں کر سکتا
+تیرا دروازہ جلایا تیری زہرا کو رلایا
+تیری گردن میں رسن تھی
+پھر بھی تو کچھ نہیں بولا
+میرے مولا
+تو ہی تھا بعد نبی سب کا امام
+پھر بھی کرتا نہیں تھا کوی سلام
+تو مدینے میں کتنا تنہا تھا
+قبر زہرا پہ بیٹھا رہتا تھا
+ہاے علی ہاے علی تیری تنہائی
+کوفے سے جو کربوبلا تک آی
+تیرے ہر وار کا یوں بدلہ لیا
+تیرے بچوں کا گلا کاٹ دیا
+تیرا قاسم تیرا غازی تیرا اکبر
+مر گیا عون و محمد علی اصغر
+تیرا ایک بیٹا تیری طرح بہت تنہا تھا
+تھا جو میداں میں سہہ روز کا بھوکا پیاسا
+ہاے حسین ہاے حسین ہاے حسین
+دیکھ کر جس کی طرف کہتے تھے لاکھوں اعدا
+گھیر کر مارو اسے یہ ہے علی کا بیٹا
+آج روتے ہیں اسی بات پہ زیشان و رضا
+مولا ہر دور میں تیرا ہی لہو بہتا رہا

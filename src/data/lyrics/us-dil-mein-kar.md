@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Ae maskan-e-Husain maiṅ huṅ zaakir-e-Husain
   Mujh ko bhi kar le khaak meiṅ apni basaa ke phul
-# source_id: nohayonline:5efc0a9b1f806482b00c
-# source_url: https://www.nohayonline.com/details_content.php?id=158
-# raw_sha256: 6cc5a3ce70ac9bdaf509515966383737a77c8d617b55ff1d7f6dbd66be00ed32
 ---
 اُس دل میں کر تلاش نہ ہر گز وفا کے پھول
 کھلتے نہیں ہیں جس میں علی کی ولا کے پھول

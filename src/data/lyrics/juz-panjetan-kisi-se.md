@@ -29,9 +29,6 @@ romanLyrics: |-
   4
   Marqad charaagh-e-daagh se roshan rahe Anis
   Shab ko akele ghar meiṅ andhera na chaahiye
-# source_id: nohayonline:113553f0e0ce22d676b8
-# source_url: https://www.nohayonline.com/details_content.php?id=2183
-# raw_sha256: 623ddad35ffd1a9cd3da03195ce9f87d1b051e213174c450335ee3e47e72e198
 ---
 جز پنجتن کسی سے تولّا نہ چاہیے
 غیر از خدا کسی کا بھروسہ نہ چاہیے
@@ -45,7 +42,7 @@ romanLyrics: |-
 زہرا کی بیٹیوں کا تماشا نہ چاہیے
 
 ۳
-یہ کون بی‌بیاں ہیں تمہیں کچھ خبر نہیں
+یہ کون بیبیاں ہیں تمہیں کچھ خبر نہیں
 آل رسول پر ستم ایسا نہ چاہیے
 
 ۴

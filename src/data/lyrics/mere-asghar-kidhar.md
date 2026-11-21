@@ -63,9 +63,6 @@ romanLyrics: |-
   Aini sada ye sunte hi khaamosh ho gayi
   Gahwaara khaali dekh ke behosh ho gayi
   Aamir kaha na phir ye dubaara kidhar gaya
-# source_id: nohayonline:fa78a0fd52be94c6666d
-# source_url: https://www.nohayonline.com/details_content.php?id=3653
-# raw_sha256: 72ef9b7342df991a7d94125c8e0cb302c2b918f3cccba8ca8ebc2c67ebd153d4
 ---
 ہاتھوں سے اپنا پکڑے کلیجہ جگر فگار
 امِ رباب ڈھونڈتی ہے اپنا گلعزار

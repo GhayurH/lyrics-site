@@ -48,9 +48,6 @@ romanLyrics: |-
   Tha hashr bapa Agha Zainab ka bayaaṅ sun kar
   Zindaaṅ meiṅ Sakina ko kho aayi teri khwaahar
   Zainab ne kaha utho Abbas ke ham aaye
-# source_id: nohayonline:32a2e2c7a3adaea90b56
-# source_url: https://www.nohayonline.com/details_content.php?id=3350
-# raw_sha256: 3a1c8909c264dcb57c71d4c45fa2bb7822727524789eb7f08d97d5a60749216b
 ---
 
 شبیر کا چہلم ہے شبیر کا چہلم ہے

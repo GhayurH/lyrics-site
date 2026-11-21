@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Farhan nauha ye Abbas ka
   Karta hai Rehaan ro ke raqam
-# source_id: nohayonline:18e63d4e06fbb30fa2b2
-# source_url: https://www.nohayonline.com/details_content.php?id=2772
-# raw_sha256: 746838ef2793ef7b65c07656a52c6296d1cb1a74d6268e961e35a4cd40168267
 ---
 غازی علمدار تیری قسم
 جھکنے نہیں دیں گے تیرا علم

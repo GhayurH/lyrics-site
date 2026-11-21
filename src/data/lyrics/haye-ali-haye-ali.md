@@ -42,9 +42,6 @@ romanLyrics: |-
   Waqt-e-Madad hai ab faqat aap is ki kijiye
   Maula Anis-e-Gham ki khabar jald lijiye
   Daur-e-Masaaib meiṅ wo ghut ghut ke na mar jaae
-# source_id: nohayonline:cddff6f648bfce809bb4
-# source_url: https://www.nohayonline.com/details_content.php?id=223
-# raw_sha256: cae7ea3e93c6aa36e2da4c433d2923207118a2c56d74105f1ae087c1283bd74a
 ---
 
 ہائے علی ہائے علی ہائے علی

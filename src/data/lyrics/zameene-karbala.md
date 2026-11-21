@@ -50,9 +50,6 @@ romanLyrics: |-
   8
   Halqa-e-maatam meiṅ aa kar ae Takallum maatami
   Tujhe aawaaz dete the tujhe aawaaz dete haiṅ
-# source_id: nohayonline:258b083d8d4f61ce43e5
-# source_url: https://www.nohayonline.com/details_content.php?id=2602
-# raw_sha256: 63392b3191ad411efaed702e488b58b53714efb51d7a9c4ed86c6df9a6d2f783
 ---
 العجل العجل العجل
 آئے کعبے سے صدا حی علی خیر العمل

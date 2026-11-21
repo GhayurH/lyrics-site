@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Madh-e-shah se do jahaaṅ meiṅ mil gaya mujh ko Uruj
   Zaat par sach hai asar parta hai uske naam ka
-# source_id: nohayonline:163a970d4ad17d07d938
-# source_url: https://www.nohayonline.com/details_content.php?id=3454
-# raw_sha256: 4fb2f5fecdd8ecb7c591cd4785acafcea2269023a59f18e6cc7e990d6ebc7eff
 ---
 کربلا ہے نقش ثانی کعبہء اسلام کا
 شکل و صورت ایک جیسی فرق ہے بس نام کا

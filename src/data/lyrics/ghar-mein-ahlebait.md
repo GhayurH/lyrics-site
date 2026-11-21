@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Sayyeda ke ghar meiṅ barpa aaj phir kohraam hai
   Haal hai behaal gham se Shabbar o Shabbir ka
-# source_id: nohayonline:980495fd42790da2ce81
-# source_url: https://www.nohayonline.com/details_content.php?id=2978
-# raw_sha256: 1f9c857b4a94c0871c54f83e079f310e2a36bec968d9dd1c206a9b4dd592fbcc
 ---
 گھر میں اہل بیت کے ماتم ہے خیبر گیر کا
 ہو گیا سورج غروب اسلام کی تقدیر کا

@@ -28,9 +28,6 @@ romanLyrics: |-
   4
   Saath chhora nahiṅ Zainab ne kabhi bhaai ka
   Sar barehna phiri dar dar sar-e-Shabbir ke saath
-# source_id: nohayonline:55e1d9d5ea7deaf04633
-# source_url: https://www.nohayonline.com/details_content.php?id=523
-# raw_sha256: 2e21b58cc03ea4dab759f834d394baed072c3dd209edb7678ceb55348736f95a
 ---
 
 اصغرِ بے شِیر کے ساتھ ہو گئے ختم جفا

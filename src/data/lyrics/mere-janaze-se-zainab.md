@@ -64,9 +64,6 @@ romanLyrics: |-
   Pukaare ro ke ae Zishaan aur Raza ye Ali
   Uthaane dena janaaza agar meri beti
   Tum us ke saamne Abbas ko bulaana Husain
-# source_id: nohayonline:8c5ccf0b5ea734c2f347
-# source_url: https://www.nohayonline.com/details_content.php?id=3382
-# raw_sha256: 2239a4dbeafc0324ae37deb26262234ae2a06f85eb4838efb26b4c840dc191ea
 ---
 علی کے گھر میں یہ کیسی علی پہ غربت تھی
 حسین سینے سے لپٹے تھے کیا قیامت تھی

@@ -75,9 +75,6 @@ romanLyrics: |-
   Likh do Majid wo apne qalam se
   Mera ghamkhwaar har dam raha hai
   Nok-e-naiza pe bhai mera
-# source_id: nohayonline:04f078ad88fa2d740f28
-# source_url: https://www.nohayonline.com/details_content.php?id=3223
-# raw_sha256: 1785c432ce2ee18b3d33a9718b3a25987866953e29f93ee1286a76ad382aa325
 ---
 ہائے بیکسی بھائی اور بہن کی
 شام ہائے شام

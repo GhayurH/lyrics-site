@@ -54,9 +54,6 @@ romanLyrics: |-
   Mazlum musaafir ae Gohar
   Mazlum ki behneṅ dar pe khari
   Kehti hi rahi ye ro ro kar
-# source_id: nohayonline:8c83aac494e40a249209
-# source_url: https://www.nohayonline.com/details_content.php?id=3244
-# raw_sha256: 82bde661301af56ea49405bbb29d61ecd51e8fcda257321bd4110bcaea920758
 ---
 یہ دشتِ کربلا میں زینب کی تھی دہائی
 رک جاؤ میرے بھائی مت جاؤ میرے بھائی

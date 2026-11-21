@@ -43,9 +43,6 @@ romanLyrics: |-
   7
   Allah gawaahi deta hai jis Bibi ki sachchaai ki
   Afsos ghulaamoṅ ne Ashtar us ki hi sanad jhutlaayi hai
-# source_id: nohayonline:99549e7c72f57a3aa45a
-# source_url: https://www.nohayonline.com/details_content.php?id=3140
-# raw_sha256: 7c998fb8c1ec45818d353be130d4809525223014b2912ced3343ab22a1c9d951
 ---
 
 ہائے زہرا ہائے دربار

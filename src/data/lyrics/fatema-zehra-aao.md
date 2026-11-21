@@ -73,9 +73,6 @@ romanLyrics: |-
   Ambiya bhi hai azaakhaane ke darwaaze par
   Aaye haiṅ Nayyar o Aamir bhi sawaali ban kar
   Kar do in par bhi ata Fatema Zehra aao
-# source_id: nohayonline:2c76c4eb51a8e65d4ebc
-# source_url: https://www.nohayonline.com/details_content.php?id=3408
-# raw_sha256: 57fca30864fbbfe3b625abaf2607181a8f67e0bf367195f533e3853c056cd8c2
 ---
 یا زہرا یا زہرا یا زہرا آجاؤ
 بچھ گیا فرش عزا فاطمہ زہرا آؤ

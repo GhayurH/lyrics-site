@@ -56,9 +56,6 @@ romanLyrics: |-
   Dasht meiṅ Aun o Muhammad ki Takallum thi sada
   Bhar na aae maaṅ ka dil lashe chhupa de Ae hawa
   Ruk na jae ye qadam hai sakht imtihan maaṅ ka
-# source_id: nohayonline:ff20dc56c9c820022b6b
-# source_url: https://www.nohayonline.com/details_content.php?id=2545
-# raw_sha256: 43d6868513067b4459d5a3833ffd27ebe4723f410b8e539b64e343a4146b08d2
 ---
 فاطمہ زہرا
 ہائے ہائے زینب ہائے ہائے شام

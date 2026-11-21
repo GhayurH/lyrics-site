@@ -1,10 +1,10 @@
 ---
-title: ہر دم ہر دم کُو بہ کُو یا علی یا علی یا علی
-alternateTitle: Janam Ali Ali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہر دم ہر دم کُو بہ کُو یا علی یا علی یا علی"
+alternateTitle: "Janam Ali Ali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 tags: []
 aliases: []
@@ -180,13 +180,7 @@ romanLyrics: |-
   Bol Ali bol Ali
 
   Ya Ali Ya Ali
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
-# source_id: nohayonline:0314df1bbf3d0aeca642
-# source_url: https://www.nohayonline.com/details_content.php?id=2043
-# raw_sha256: 79d56fa135430d7534188ae057846877844a4c75b104f6a80dbb0c37ba0a2fb8
-# source_id: ziyaraat:2c4cc00da9b351dd4bcf
-# source_url: https://www.ziyaraat.net/api/noha/2930
-# raw_sha256: 818196382dd8317ceb1e2252a5e2e70649f787260e5068a04696c911f99be931
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 
 ہر دم ہر دم کُو بہ کُو یا علی یا علی یا علی

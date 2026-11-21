@@ -63,9 +63,6 @@ romanLyrics: |-
   Na tu nikaal mere aashiq-e-gharib ki jaaṅ
   Maiṅ khud nikaal raha huṅ badan se jaan-e-Husain
   Ke khatm hone ko ab hai ye imtihaan-e-Husain
-# source_id: nohayonline:96d0bb35903379114b9e
-# source_url: https://www.nohayonline.com/details_content.php?id=885
-# raw_sha256: 82042ff0e4587b867c62e0745ee49d27d2c4fd8b345b4f567dd01d4209efd406
 ---
 خدا نے جب ملک الموت کو یہ اذن دیا
 کہ روح حضرت سرور نکال کر لے آ

@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Bose diye haiṅ baazu-e-Zainab pe kis liye
   Is ka sabab bataaiye Aaqa bataaiye
-# source_id: nohayonline:0b7270d5b2c68279a167
-# source_url: https://www.nohayonline.com/details_content.php?id=3769
-# raw_sha256: bdac73915f4367f5788410089f8f7e0095cf79c2d379895324b7f55ae143b048
 ---
 بے وارثوں کا کیا ہے ٹھکانہ بتائیے
 جاتے ہو کس پہ چھوڑ کے مولا بتائیے

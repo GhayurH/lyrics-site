@@ -58,9 +58,6 @@ romanLyrics: |-
   Hui sogwaaroṅ meiṅ barpa qayaamat
   Parha jis ne nauha suna jis ne nauha
   Kab aaoge bhaiya kab aaoge bhaiya
-# source_id: nohayonline:5bf6e1242f67f6545ad3
-# source_url: https://www.nohayonline.com/details_content.php?id=2241
-# raw_sha256: f7be8fe2503efe8b210772d999fa53853159680e1b7934092a4b9d78ae461d66
 ---
 
 یہ بیمار صغرا نے بابا کو لکھا

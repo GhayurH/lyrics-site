@@ -81,9 +81,6 @@ romanLyrics: |-
   Maah-e-Shaabaan ka mujhko
   Nazar ab chaand na aaye
   Dua karna Ali Akbar
-# source_id: nohayonline:aa1cc71e41b97882ce0d
-# source_url: https://www.nohayonline.com/details_content.php?id=985
-# raw_sha256: d13798bf4ccf780c1b16800eacbc108b928da7357ac8d794779da13ca637f5c8
 ---
 
 دعا کرنا علی اکبر

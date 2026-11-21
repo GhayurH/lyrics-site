@@ -65,9 +65,6 @@ romanLyrics: |-
   Hai pehli shab yatimi ki use nind aaegi kaise
   Ae Zishaan o Raza baali Sakina soti thi jis pe
   Wo sina ran meiṅ tiroṅ se bhara hai kya kare Zainab
-# source_id: nohayonline:a0fdcd9c2ee72c0d3cf6
-# source_url: https://www.nohayonline.com/details_content.php?id=2819
-# raw_sha256: 07ffce4741d90b79491f124843b404ab0c95fd4b5cd5c6174a0ee89f5bb2e1d5
 ---
 شام غریباں شام غریباں
 

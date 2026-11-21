@@ -48,9 +48,6 @@ romanLyrics: |-
   Kamsini ke aalam meiṅ haye dard hai kaisa
   Sar se uth gaya unke aaj baap ka saaya
   Us Imam ko pursa dete haiṅ Rashid ab hum
-# source_id: nohayonline:e7e14cee2a7432630e76
-# source_url: https://www.nohayonline.com/details_content.php?id=677
-# raw_sha256: 42e2785f4fbb7ac5eae025a96458569533393e35ed6b1523ba2c24cfc58b71da
 ---
 
 آج ہے خراساں میں اک غریب کا ماتم

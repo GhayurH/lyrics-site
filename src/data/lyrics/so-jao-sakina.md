@@ -58,12 +58,9 @@ romanLyrics: |-
   Kuch der ko nind aa gayi bachchi ko zamiṅ par
   Ye Sheh ne kaha khwaab meiṅ sine pe sulaauṅ
   So jaao Sakina
-# source_id: nohayonline:45d48aca41f4e7f05af9
-# source_url: https://www.nohayonline.com/details_content.php?id=1716
-# raw_sha256: cc8ad3cfedaff4a95a15123b5c59996c63de83b885f4852667584bce08681abd
 ---
 بیٹھے تھے جلے خیموں میں سادات بے اماں
-سہمی ہوئی تھی بی‌بیاں بچے تھے حراساں
+سہمی ہوئی تھی بیبیاں بچے تھے حراساں
 زینب نے سن کے دختر شبیر کی فغاں
 بچی کے اشک پونچھ کے دی یوں تسلیاں
 

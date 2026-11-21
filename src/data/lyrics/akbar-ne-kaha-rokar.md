@@ -55,9 +55,6 @@ romanLyrics: |-
   Kehta tha Takallum wo himmat jo meri hoti
   Khud apne hi haathoṅ se maiṅ khinchta ye barchhi
   Taklif nahiṅ apni hai dard mujhe is ka
-# source_id: nohayonline:6fb6cd82043fb2ea1534
-# source_url: https://www.nohayonline.com/details_content.php?id=295
-# raw_sha256: 2f105fa8162801a8518b0ff52286cf54e78c21995de14fedb1b28ee7979c94ea
 ---
 شبیہِ امامِ زماں کھینچتے ہیں
 تصور میں تصویرِ جاں کھینچتے ہیں

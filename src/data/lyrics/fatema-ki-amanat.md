@@ -52,9 +52,6 @@ romanLyrics: |-
   9
   Utho jo farsh-e-aza se to sar utha ke chalo
   Yahaaṅ pe aao Takallum to sar jhuka ke rakho
-# source_id: nohayonline:a4ba3398558187b4d5f1
-# source_url: https://www.nohayonline.com/details_content.php?id=2564
-# raw_sha256: 328168a0b11cb3cccd1147f889f08bcfb6be9b4b27b8a602b2b054ff8a42aadf
 ---
 
 یا حسین یا حسین

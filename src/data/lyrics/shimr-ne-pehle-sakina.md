@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Wa Husaina ka hua shor Takallum barpa
   Shimr Mukhtar ke jab saamne laaya khanjar
-# source_id: nohayonline:1ed921460efaba830786
-# source_url: https://www.nohayonline.com/details_content.php?id=1084
-# raw_sha256: 22008a57812eb4f23e4f68e1ee57b6c22247dd31da092e4caef9f448dd9a6368
 ---
 شمر نے پہلے سکینہ کو دکھایا خنجر
 بعد میں گردن سرور پہ چلایا خنجر

@@ -78,9 +78,6 @@ romanLyrics: |-
   Are kehte the ye Aabid-e-muztar
   Yaad jab aa jaata hai baba
   Dil mera phat jaata hai baba
-# source_id: nohayonline:2163f12e21b0648296c4
-# source_url: https://www.nohayonline.com/details_content.php?id=391
-# raw_sha256: 20790ecfe1b55b4d83a5803eb3d88a96469b9cb581d447a678d83614edf8b83b
 ---
 کوفے کا اور شام کا منظر
 یاد جب آجاتا ہے بابا

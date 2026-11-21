@@ -74,9 +74,6 @@ romanLyrics: |-
   Naam-e-Ali se bughz rakho ge ye to hoga, ye to hoga
   Aise hi jal, jal ke maro ge ye to hoga, ye to hoga
   Ham to kya haiṅ is naare se baat rasuloṅ ki bhi bani
-# source_id: tajpoints:eeff924e047437eace99
-# source_url: https://tajpoints.com/2023/01/dam-hama-dam-ali-ali-mir-sajjad-mir.html
-# raw_sha256: 4e8d4f86413d5ed5b4ce4c3eb2f11e19a924e3b4ed527a893fdcc77935e79668
 ---
 
 شاہِ شریعتم علی

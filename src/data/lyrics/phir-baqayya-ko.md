@@ -50,9 +50,6 @@ romanLyrics: |-
   8
   Haaṅ Baqayya meiṅ phir Takallum o Shams
   Kafsh bardaari karne jaayeṅge
-# source_id: nohayonline:3d543b06aab0d9673602
-# source_url: https://www.nohayonline.com/details_content.php?id=1079
-# raw_sha256: 0c31755670912570220e75eb58259b957e7397c5af9d77fedc0687d631686a59
 ---
 العجل اے یوسف زہرا
 

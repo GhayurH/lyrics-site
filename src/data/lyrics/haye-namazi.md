@@ -69,9 +69,6 @@ romanLyrics: |-
   Ho jaati hai is gham meiṅ har aaṅkh bhi purnam
   Aarif bhi Baabar karte haiṅ jab nauha o maatam
   Maula Ali Maula Ali Maula Ali Maula Ali
-# source_id: nohayonline:eccdab4de935b66a1421
-# source_url: https://www.nohayonline.com/details_content.php?id=1331
-# raw_sha256: 449555314dc3daf6f06459fb730109452c46741b16482d121fd71276966b67dc
 ---
 
 اک شور اٹھا ہاے نمازی

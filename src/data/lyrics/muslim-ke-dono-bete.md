@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Gohar wo apne nur ki khairaat bakhsh kar
   Islam ka wujud ujaaloṅ se bhar gaye
-# source_id: nohayonline:c7b959982c655d759049
-# source_url: https://www.nohayonline.com/details_content.php?id=1145
-# raw_sha256: 1ed58f2405a60b63ce926739ebfc24847260e84aca5883d6e0ca04471bd5cf7a
 ---
 مسلم کے دونوں بیٹے جہاں سے گزر گئے
 دو شاہزادے عالمِ غربت میں مر گئے

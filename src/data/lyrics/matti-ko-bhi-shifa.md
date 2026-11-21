@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Bibi ko har qadam pe hai izzat ka apni taab
   Chaadar nahiṅ to baaloṅ se parda bana diya
-# source_id: nohayonline:1f1e231345404acd5213
-# source_url: https://www.nohayonline.com/details_content.php?id=669
-# raw_sha256: bc213dba3ab79c7479f0a9505e25b0a945053d0a596b03cf05b061a2538fa6fd
 ---
 مٹی کو بھی شفا کا وسیلہ بنا دیا
 سرور نے کربلا کو مسیحا بنا دیا

@@ -57,9 +57,6 @@ romanLyrics: |-
   Mat bichhar jaan-e-Sayyid-e-Abraar
   Kya rahega mera yahaaṅ Akbar
   Maaṅ tujhe paaegi kahaaṅ Akbar
-# source_id: nohayonline:1c7987bda17e00c168b2
-# source_url: https://www.nohayonline.com/details_content.php?id=2357
-# raw_sha256: f63b0a62fbe8e7e1a43105926ba17211e89be04e241a13ef3d080460bf41f170
 ---
 ہائے اکبر ہائے ہائے اکبر
 

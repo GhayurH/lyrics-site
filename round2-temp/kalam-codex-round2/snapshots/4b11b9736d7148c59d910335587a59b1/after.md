@@ -1,0 +1,91 @@
+---
+title: "اے قمر بنی ہاشم غم کیسے ہو کم تیرا"
+recitationId: "ay-qamre-bani-hashim"
+alternateTitle: "Ae Qamr-e-Bani Hashim"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mir Taha Istefa"
+reciter: "Mir Arif Ali"
+tags: []
+aliases: ["Ay Qamre Bani Hashim"]
+published: true
+romanLyrics: |-
+  Ae Qamr-e-Bani Hashim gham kaise ho kam tera
+  Sadiyoṅ se rulaata hai Abbas alam tera
+
+  1
+  Is daur-e-purkhatar meiṅ is daur-e-beamaan meiṅ
+  Bas ik aasra hai sarkaar-e-haram tera
+
+  2
+  Lagta hai ke lipti hai ammu se Sakina jaan
+  Jab dekhte haiṅ ek jaa mashkiza alam tera
+
+  3
+  Phunkoṅ se nahiṅ hoga gul shama-e-aza Shah ka
+  Hai paasbaan-e-qudrat jis gham ka wo tera
+
+  4
+  Ye sina zani Shah ki maatam ye lahu aalaa
+  Ehsaan zamaane par karta hai raqam tera
+
+  5
+  Har dard ki manzil se guzre haiṅ ye keh keh kar
+  Taa hashr rahuṅ Maula mamnun-e-karam tera
+
+  6
+  Shah kehte the ae bhaai tuti hai kamar meri
+  Bardaasht karuṅ kaise ghurbat meiṅ alam tera
+
+  7
+  Kin sadmoṅ se guzra hai tu jis se mere Ghazi
+  Alfaaz nahiṅ jin meiṅ ho dard raqam tera
+
+  8
+  Tanhaai-e-Sarwar ka tha haal ajab ran meiṅ
+  Lipte huwe laashe se karte rahe gham tera
+
+  9
+  Jis naam ka bharti hai dam ab bhi wafa Arif
+  Betok kahe Taha Abbas wo dam tera
+---
+اے قمر بنی ہاشم غم کیسے ہو کم تیرا
+صدیوں سے رلاتا ہے عباس الم تیرا
+
+۱
+اس دور پر خطر میں اس دور بے امان میں
+بس اک آسرا ہے سرکار حرم تیرا
+
+۲
+لگتا ہے کہ لپٹی ہے عمو سے سکینہ جان
+جب دیکھتے ہیں ایک جا مشکیزہ الم تیرا
+
+۳
+پھونکوں سے نہیں ہوگا گل شمعِ عزا شہ کا
+ہے پاسبان قدرت جس غم کا وہ تیرا
+
+۴
+یہ سینہ زنی شہ کی ماتم یہ لہو اعلیٰ
+احسان زمانے پر کرتا ہے رقم تیرا
+
+۵
+ہر درد کی منزل سے گزرے ہیں یہ کہہ کہہ کر
+تا حشر رہوں مولا ممنون کرم تیرا
+
+۶
+شہ کہتے تھے اے بھائی ٹوٹی ہے کمر میری
+برداشت کروں کیسے غربت میں الم تیرا
+
+۷
+کن صدموں سے گزرا ہے تو جس سے میرے غازی
+الفاظ نہیں جن میں ہو درد رقم تیرا
+
+۸
+تنہائیِ سرور کا تھا حال عجب رن میں
+لپٹے ہوئے لاشے سے کرتے رہے غم تیرا
+
+۹
+جس نام کا بھرتی ہے دم اب بھی وفا عارف
+بے ٹوک کہے طاہا عباس وہ دم تیرا

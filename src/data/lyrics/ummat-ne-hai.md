@@ -39,9 +39,6 @@ romanLyrics: |-
   Karte raheṅ ge momin sina zani hamesha
   Likhta rahe ga midhat ye Amir Mustafa ki
   Paamaal ho rahi hai taswir Mustafa ki
-# source_id: nohayonline:9b7dc04e0b5521981f26
-# source_url: https://www.nohayonline.com/details_content.php?id=3359
-# raw_sha256: 5bd1ed60eda2542a5616e45a1010e53f912d5f614b62a0f060e7aa9e3e8e5d7f
 ---
 بعد رسول کیسا یہ انقلاب آیا
 

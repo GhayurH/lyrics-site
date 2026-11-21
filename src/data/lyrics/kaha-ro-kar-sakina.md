@@ -50,9 +50,6 @@ romanLyrics: |-
   8
   Tamaanche is tarah se Shimr ne maare haiṅ ke Ashhar
   Mujhe lagta hai rukhsaaroṅ ke bal ab so na paauṅ gi
-# source_id: nohayonline:dcb47bd4aa28f18394d1
-# source_url: https://www.nohayonline.com/details_content.php?id=3271
-# raw_sha256: 9c4890a5c4fb36ae7eac07888b7e58fbe0d2ed4952150ead05f9b897c599a55b
 ---
 ہائے بابا میرے بابا
 

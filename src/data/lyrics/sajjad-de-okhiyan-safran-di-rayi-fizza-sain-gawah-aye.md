@@ -2,7 +2,7 @@
 title: "سجاد دے اکھیاں سفراں دی رہی فضہ سائیں گواہ اے"
 alternateTitle: "Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 poet: "Malik Shahid Abbas Awan Karbalai"
 reciter: "Pervaiz Pilla Party"
@@ -10,10 +10,6 @@ kalamType: "Soz"
 tags: []
 aliases: ["sajjad-de-okhiyan-safran-di-rayi-fizza-sain-gawah-aye-lyrics-punjabi-2"]
 published: true
-# source_id: tajpoint:2ddc323176e39eb7e733
-# source_url: https://tajpoint.com/sajjad-de-okhiyan-safran-di-rayi-fizza-sain-gawah-aye/
-# raw_sha256: 2ddba8d1912873b71a60df7439423574dfc80b70c0622294befb647911d0e3a2
-# soz_credit: Ali Raza Janjua
 romanLyrics: |-
   1
   Sajjad de okhiyaṅ safraṅ di rayi Fizza Saiṅ gawaah aye

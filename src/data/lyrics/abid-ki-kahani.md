@@ -64,9 +64,6 @@ romanLyrics: |-
   Armaan wo qalam se kaise bayaan hoga
   Bedar ho gaye hum matam bata raha hai
   Nauhoṅ ki zubani
-# source_id: nohayonline:64b2dfb023e409f31955
-# source_url: https://www.nohayonline.com/details_content.php?id=2709
-# raw_sha256: 2465462f5f147522aa6778cb2b8ef7b61772076c66fc75d31b67af5d5e3dac1d
 ---
 ہاے بیمار ہاے بیمار
 رنج و الم میں ڈوبی عابد کی کہانی

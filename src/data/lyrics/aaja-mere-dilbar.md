@@ -44,9 +44,6 @@ romanLyrics: |-
   Aaja mere pyare maiṅ kaleje se laga luṅ
   Jab tegh ho gardan pa to zaanu pa lita luṅ
   Is dard se bhi saath hai donoṅ ko guzarna
-# source_id: nohayonline:c8b107ba170d8ab6d90c
-# source_url: https://www.nohayonline.com/details_content.php?id=3331
-# raw_sha256: 6087c9ba386e23d8eb98bc595b6b948d4bbb79f93e2ce6f23bfc546be32927bc
 ---
 تھا عصر کا ہنگام فلک کانپ رہا تھا
 زہرا کا جگر بند لعینوں نے گھرا تھا

@@ -1,0 +1,387 @@
+---
+title: "حیدر حیدر"
+alternateTitle: "Haider Haider"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Mazhar Abidi; Mirza Hasan Mujtaba"
+reciter: "Farhan Ali Waris"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.)
+
+MAN KUJA HAIDER(a.s.) KUJA
+
+MAN KUJA HAIDER(a.s.) KUJA
+
+FATAH-E-KHAIBER
+
+ROOH-E-PAYAMBER
+
+MAANIY-E-KOUSAR HAIDER(a.s.)
+
+QIBLA-E-ALAM
+
+KAABA-O- ZAM ZAM
+
+MOHRAM-O-MAHRAM
+
+HAIDER(a.s.)
+
+NAIMAL AMEERI
+
+KHUM MAIN GHADEERI
+
+SHEERE DALERI
+
+HAIDER(a.s.)
+
+ISMAY TO TAQBER
+
+KOOWAT-E-SHAMSHEER
+
+AAYA-E-TATHEER
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+HAAN
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+OOFKAAR TERE SUBHANI
+
+AQWAAL TERE QURANI
+
+ALLAH KA TU CHEHRA HAI
+
+ANDAZ TERE REHMANI
+
+TOUHEED SE KESA RISHTA
+
+YEH BAAT AGAR NA MAANI
+
+ALI(a.s.) DAST-E-KHUDA HAI
+
+ALI(a.s.) MUSHKIL KUSHA HAI
+
+NABI(s.a.w.w.) KA JANASHEEN HAI
+
+ALI(a.s.) HAQ AASHNA HAI
+
+HAAN
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+WAJIB HAI WILAYAT TERI
+
+QURAN MAIN MIDHAT TERI
+
+JINNAT FARISHTE INSAN
+
+HAR DIL PE HUKOOMAT TERI
+
+MASHKOOR KHAZANA TERA
+
+MASHOOR SAKHAWAT TERI
+
+TU HI BAHR-E-SAKHAWAT
+
+TU HI SHAH-E-WILAYAT
+
+SHAJAR DARYA SITARE
+
+KARAIN TERI ATAAAT
+
+HAAN
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAAN
+
+ALI(a.s.) SULTAN-E-ALAM
+
+ALI(a.s.) SARDAR-E-AZAM
+
+ALI(a.s.) NOOR-E-ILAHI
+
+ALI(a.s.) MEHBOOB-E-KHATAM
+
+ALI(a.s.) SHAH-E-WILAYAT
+
+ALI(a.s.) JAAN-E-RISALAT
+
+ALI(a.s.) MEHR-E-IMAMAT
+
+ALI(a.s.) BAHR-E-SAKHAWAT
+
+ALI(a.s.) AAQA
+
+ALI(a.s.) MOLA
+
+ALI(a.s.) TASKEEN-E-PAIGHAMBER(s.a.w.w.)
+
+ALI(a.s.) KAABA
+
+ALI(a.s.) QIBLA
+
+ALI(a.s.) MASJID
+
+ALI(a.s.) MEMBER
+
+ALI(a.s.) MURSHID
+
+ALI(a.s.) HAJI
+
+ALI(a.s.) QAID
+
+ALI(a.s.) RAHBER
+
+ALI(a.s.) SHAFI
+
+ALI(a.s.) KAFI
+
+ALI(a.s.) ZAM ZAM
+
+ALI(a.s.) KOUSAR
+
+ALI(a.s.) EESAA
+
+ALI(a.s.) MOOSA
+
+ALI(a.s.) KHIZRA
+
+ALI(a.s.) YAHYA
+
+ALI(a.s.) HAAKIM
+
+ALI(a.s.) AADIL
+
+ALI(a.s.) JANNAT
+
+ALI(a.s.) TOOFA
+
+ALI(a.s.) DAATA
+
+ALI(a.s.) MARJA
+
+ALI(a.s.) ASHRAF
+
+ALI(a.s.) MOLA
+
+IMAM-E-MASHRIKO MAGHRIB
+
+SHAREEF-E-YASRAB-E-BATHA
+
+AMEEN-E-WAHIYE PAIGHAMBER
+
+IMAM-E-MASJD-E-AQSA
+
+ALI(a.s.) MO AALIM-E-ASRAR-E-SUBHANALAZI ASRA
+
+ALI(a.s.) WALI
+
+ALI(a.s.) AALI
+
+ALI(a.s.) MOLA
+
+ALI(a.s.) AALA
+
+ALI(a.s.) MOLA
+
+ALI(a.s.) MOLA
+
+ALI(a.s.) MOLA
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+EK WAQIYA HIJRAT KA
+
+TAAREEKH NE AISE LIKHA
+
+KUFFAR BHI DHOKA KHAY
+
+ASHAAB NE NA PEHCHANA
+
+MABOOD KI MARZI LELI
+
+US RAAT TO AISA SOYA
+
+SHAB-E-HIJRAT KA BISTAR
+
+SABHI HERAN-O-SHASHDAR
+
+YEH SONE WALA BANDA
+
+ALI(a.s.) HAI YA PAYAMBER(s.a.w.w.)
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAI KON NAMAZI TUJH SA SOORAJ BHI GAWAHI DEGA
+
+FUST-O-KI SADA MAIN PINHA
+
+WOH RAAZ BASHAR NA SAMJHA
+
+ISLAM KI DOULAT KIA HAI
+
+EK ZARB TERI EK SAJDA
+
+TERE AUSAAF AISE
+
+KISI MAIN BHI NA DEKHE
+
+ALAM DE DE MOHAMMAD(s.a.w.w.)
+
+KHUDA TALWAAR BHEJE
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+JO ISHQ-E-ALI(a.s.) MAIN DOOBA
+
+SOORAJ KI TARHA SE UBHRA
+
+NADAN KO DE DANAYEE
+
+YEH ISHQ SAFAR HAI AISA
+
+JAB ISHQ HUNAR DEKHLAY
+
+PATHAR KO BANA DE HEERA
+
+ALI(a.s.) WARIS HAMARA
+
+ALI(a.s.) WARIS TUMHARA
+
+KAHAIN FARHAN-O-MAZHAR
+
+LAGAO MIL K NAARA
+
+DUM DUM ALI(a.s.)
+
+ZAM ZAM ALI(a.s.)
+
+HAR DUM ALI(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+HAIDER(a.s.) HAIDER(a.s.) HAIDER(a.s.)
+
+MAN KUJA HAIDER(a.s.) KUJA
+
+MAN KUJA HAIDER(a.s.) KUJA
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)
+
+YA ALI MOLA(a.s.)

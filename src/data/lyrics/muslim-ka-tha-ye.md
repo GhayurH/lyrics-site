@@ -60,9 +60,6 @@ romanLyrics: |-
   Wo masjid-e-Kufa ho ya shahr Musayyab ka
   Baaba hai udhar tanha bache haiṅ idhar tanha
   Mukhtar aur ae Majid ye guṅjta hai nauha
-# source_id: nohayonline:5bd60a05f8684936afff
-# source_url: https://www.nohayonline.com/details_content.php?id=1714
-# raw_sha256: 73ce4c91c45ca895c560679f153e2f951e722d74b4fe3e7ee8796972f5440692
 ---
 مسلم کے پسر ہائے کوفے میں بھٹکتے ہیں
 

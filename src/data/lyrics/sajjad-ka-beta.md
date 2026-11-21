@@ -105,9 +105,6 @@ romanLyrics: |-
   Na bhuluṅ ga maiṅ kabhi Karbala
   Wo qaid-e-jafa diyaar-e-saza
   Haaṅ maiṅ rouṅ ga
-# source_id: nohayonline:cce13571f4a57240df6f
-# source_url: https://www.nohayonline.com/details_content.php?id=1230
-# raw_sha256: d6348e1d6f205b839ac0813fad6bd39562a24690cbf3870735a24225fc1b18a1
 ---
 سجاد کا بیٹا شہزادہ باقر
 جب آیا مدینے سوتا ہی نہیں تھا

@@ -44,9 +44,6 @@ romanLyrics: |-
   Is zamaane ki bahaaroṅ se unheiṅ kuchh na mila
   Behte darya ke kinaaroṅ se unheiṅ kuchh na mila
   Zindagi meiṅ jinheiṅ Mahir gham-e-Sarwar na mila
-# source_id: nohayonline:ce0e6cebc12374b729ad
-# source_url: https://www.nohayonline.com/details_content.php?id=1210
-# raw_sha256: 9349e87712a7822bf47027c48aa864c881e9f199671311d6600dcf336c83e296
 ---
 
 جیسا اپنا ہے نبی کوئی پیمبر نہ ملا

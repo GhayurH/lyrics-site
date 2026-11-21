@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Kya sunaayega Bober haalaat-e-gham aur kis tarah
   Khaali jhula dekh kar roti rahi maaṅ raat bhar
-# source_id: nohayonline:9b260340e5b9ab54790d
-# source_url: https://www.nohayonline.com/details_content.php?id=846
-# raw_sha256: 0be5d289a87f93cd0226478400d4fb24e8d0b9415027465e42a82a59a7e85963
 ---
 آجا اصغر گود میں کہتی رہی ماں رات بھر
 ہر مصیبت رنج و غم سہتی رہی ماں رات بھر

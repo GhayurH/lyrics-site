@@ -60,9 +60,6 @@ romanLyrics: |-
   Rehaan ye qalam bhi bahut ashkbaar hai
   Kaisi lahu lahu bhari maaṅ ki pukaar hai
   Tukre jigar ke karti hai Zehra ki ye sada
-# source_id: nohayonline:fda5115b8b5cd749967b
-# source_url: https://www.nohayonline.com/details_content.php?id=2048
-# raw_sha256: 228bfbf6d9744146764ba80e2e4a36c511bfae64d10d4b96c78e80cfe3376ab1
 ---
 
 آ میرے پیارے حسین

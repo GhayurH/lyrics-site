@@ -57,9 +57,6 @@ romanLyrics: |-
   Karte haiṅ shah ki Mesum o Salman naukri
   Hai waqf zikr-e-Karb o Bala meiṅ ye zindagi
   Dete raheṅge hum ye duaa-e-gham-e-Husain
-# source_id: nohayonline:64747ec5b2b366756767
-# source_url: https://www.nohayonline.com/details_content.php?id=2533
-# raw_sha256: eda05e80b084d297feff626a0669ff8dabb1a42816d768dda0d6bdc07ceceb04
 ---
 مولائیوں حسینیوں رب کا ہے یہ کرم
 تم ہو دعائے فاطمہ شبیر کی قسم

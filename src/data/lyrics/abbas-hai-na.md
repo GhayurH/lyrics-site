@@ -65,9 +65,6 @@ romanLyrics: |-
   Alam gharoṅ pe lagata hai aaj saara jahaṅ
   Hai tu hi ab bhi ghariboṅ ka bekasoṅ ka maan
   Alam ko dekh ke har waqt bas yehi kehna
-# source_id: nohayonline:e0240c539120870064b8
-# source_url: https://www.nohayonline.com/details_content.php?id=2834
-# raw_sha256: 1a05fbd9f906fc3f56d5ac0a8270f1d66bc6397f6058f66773af673292a22f2f
 ---
 
 سب کی رداؤں کا نگہدار ہے

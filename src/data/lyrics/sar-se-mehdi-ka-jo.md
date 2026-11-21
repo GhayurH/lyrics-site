@@ -1,10 +1,10 @@
 ---
-title: سر سے مہدی کے جو بابا کا اُٹھا ہے سایہ
-alternateTitle: Sar Se Mehdi Ka Jo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سر سے مہدی کے جو بابا کا اُٹھا ہے سایہ"
+alternateTitle: "Sar Se Mehdi Ka Jo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Samar Zaidi"
 reciter: "Mazahir Abbas"
 tags: []
@@ -48,12 +48,6 @@ romanLyrics: |-
   Kaash ho jaaye Samar Hujjat-e-aakhir ka zuhur
   Aur nazar dekh le majlis meiṅ ke Maula ke huzur
   Haaye nauha ye Mazahir jo laboṅ par laaya
-# source_id: nohayonline:adf64b974270c08e0a88
-# source_url: https://www.nohayonline.com/details_content.php?id=1722
-# raw_sha256: df9894fc4735128510ad7348bb86f54ba85fbc96f73462241f781c2de77066f5
-# source_id: ziyaraat:2243d5dcf7767776dff0
-# source_url: https://www.ziyaraat.net/api/noha/2868
-# raw_sha256: b5f6107198fdb8bd0b75d43cdc6faaa71b773b21cb63d8f1ccc879c8b5eb3677
 ---
 سر سے مہدی کے جو بابا کا اُٹھا ہے سایہ
 یاد مولا کو سکینہ کا تڑپنا آیا

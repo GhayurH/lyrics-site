@@ -72,9 +72,6 @@ romanLyrics: |-
   Khaak se mera Maula utha
   Laash-e-Akbar pe khat rakh diya
   Aur is ke siwa kya likhuṅ
-# source_id: nohayonline:89615009e6195381d76e
-# source_url: https://www.nohayonline.com/details_content.php?id=374
-# raw_sha256: 3f25979e38781221dc717c62263eb88ba56ec884002c01fe2c0d597d6ebe0250
 ---
 
 مولا مقتل میں سر کو جھکائے

@@ -1,10 +1,10 @@
 ---
-title: جب اہلِ حرم نے شام کے زنداں سے رہائی پائی
-alternateTitle: Sakina Reh Gayi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جب اہلِ حرم نے شام کے زنداں سے رہائی پائی"
+alternateTitle: "Sakina Reh Gayi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
 tags: []
@@ -69,12 +69,6 @@ romanLyrics: |-
   Mire ammu se keh dena Sakina mar gayi pyaasi
   Nahiṅ paani ka gham haye Chacha tum kiuṅ nahiṅ aaye
   Andheri qaid meiṅ ghut ghut ke maut aayi bata dena
-# source_id: nohayonline:8a8779fe0489d8f151e1
-# source_url: https://www.nohayonline.com/details_content.php?id=1834
-# raw_sha256: 57807704e7d1d69503909e4cc0f7b0c090f52a882f631d3d4461cd8dfaf38238
-# source_id: ziyaraat:0c0689c9bde6424884c3
-# source_url: https://www.ziyaraat.net/api/noha/2927
-# raw_sha256: dfe44929a21883cd2094582a498c139ba7d639e89a581ec8ed0a9b33a7b389b6
 ---
 جب اہلِ حرم نے شام کے زنداں سے رہائی پائی
 سجاد تڑپ کے کہنے لگے جب یاد سکینہ آئی

@@ -74,9 +74,6 @@ romanLyrics: |-
   Ae Sarwar o Rehaan nigaaheṅ bhi jhuki thi
   Dikhlaa ke nishaaṅ rassi ke Zainab ye pukaari
   Allah mere Allah
-# source_id: nohayonline:adf87984599c34824637
-# source_url: https://www.nohayonline.com/details_content.php?id=164
-# raw_sha256: 30e9711695ddfa1dc976e9b1e080ac8eeeea90cfbad8766b770f1723fc497969
 ---
 
 زندان سے رہا ہو گئے سادات

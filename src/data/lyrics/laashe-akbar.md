@@ -48,9 +48,6 @@ romanLyrics: |-
   Dil tarapta hai mera bain likhuṅ kya Mazhar
   Kaifiyat dil ki bayaaṅ kar na sakega Safdar
   Hai qayaamat ki ghari haaye ajab hai manzar
-# source_id: nohayonline:ea6090994cd8126531e4
-# source_url: https://www.nohayonline.com/details_content.php?id=2744
-# raw_sha256: 4e92223b6d523263ff3fa97e7bc98c0369202524e51ed97f10a373c219d60638
 ---
 لاش اکبر کو لیے سوچ رہے ہیں سرور
 قتلِ اکبر کی خبر کیسے سنے گی مادر

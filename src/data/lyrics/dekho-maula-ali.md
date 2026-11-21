@@ -91,9 +91,6 @@ romanLyrics: |-
   Is ka mehwar to ek pyaasa hai
   Kiuṅ na Rehaan ka qalam bole
   Farsh-e-gham naam bandagi hai
-# source_id: nohayonline:40bf107bc5721a347374
-# source_url: https://www.nohayonline.com/details_content.php?id=2693
-# raw_sha256: 84e257fa05377c2c7f66f3c72b8e45afa4a49699dc2b24d16b326a02c47432e3
 ---
 
 دیکھو مولا علی سبھی کا ہے

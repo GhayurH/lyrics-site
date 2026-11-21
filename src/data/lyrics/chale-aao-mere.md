@@ -59,9 +59,6 @@ romanLyrics: |-
   Chali jaati hai Aini maaṅ to rab se izn paati hai
   Azaakhaane meiṅ Aamir haaye maaṅ ki ruh aati hai
   Ye kehti hai tarap kar Shaah ka gham aa raha hai
-# source_id: nohayonline:95414cfd61b7dadfcf52
-# source_url: https://www.nohayonline.com/details_content.php?id=1634
-# raw_sha256: 2ff4a0ff05e44ed3d88361df32f39eb602c90cacae00108841810872a969c1c5
 ---
 محرم آ رہا ہے
 چلے آؤ میرے بچوں محرم آ رہا ہے

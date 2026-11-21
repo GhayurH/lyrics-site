@@ -42,9 +42,6 @@ romanLyrics: |-
   Kaaṅpti thi bain sun kar turbat-e-Zehra Rashid
   Keh rahi thi ro ke Zainab ho gaye bhaai shahid
   Saath apne khuṅ bhara bhaai ka kurta laayi huṅ
-# source_id: nohayonline:7d727d4673815bf9bda6
-# source_url: https://www.nohayonline.com/details_content.php?id=2879
-# raw_sha256: ad56ac2275e92ef2ba85940bb60d62f8daeaced9112192bc60e104a4a81cb82b
 ---
 
 دی صدا زینب نے اماں گھر لٹا کر آئی ہوں

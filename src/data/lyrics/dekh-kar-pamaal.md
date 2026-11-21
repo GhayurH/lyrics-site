@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Anbiya Jawwaad roye su-e-maqtal dekh kar
   Aasmaaṅ larza zamin-e-Nainawa roti rahi
-# source_id: nohayonline:eee537a3ab218ed3ee25
-# source_url: https://www.nohayonline.com/details_content.php?id=1675
-# raw_sha256: 2af8c9d79ffe6e88802a13a7a23aae8d0b84ecbaaa1524c814636bfb4f4b26ed
 ---
 دیکھ کر پامال لاشے کربلا روتی رہی
 بن کے لاشوں کا کفن خاک شفا روتی رہی

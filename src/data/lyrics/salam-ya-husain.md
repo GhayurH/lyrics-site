@@ -1,15 +1,15 @@
 ---
-title: سلام سلام سلام یا حسین
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "سلام سلام سلام یا حسین"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: ["salam-ya-hussain-nadeem-sarwar"]
 published: true
-alternateTitle: Salam Ya Husain
+alternateTitle: "Salam Ya Husain"
 romanLyrics: |-
   Salaam salaam salaam ya Husain
 
@@ -83,15 +83,6 @@ romanLyrics: |-
   Salaam Shaah-e-Karbala Khuda-e-mehrbaan ka ya Husain
   Khuda ka zikr do jahaaṅ meiṅ tu ne aam kar diya
   Azim kaam kar diya
-# source_id: nohayonline:085a223ee971d41dd613
-# source_url: https://www.nohayonline.com/details_content.php?id=3084
-# raw_sha256: cdb9b1116855b03fcef5ea3b9288b2dd4863b79a792f725d04a195097208fe97
-# source_id: ziyaraat:ead1a8d95aed2b2d3c64
-# source_url: https://www.ziyaraat.net/api/noha/543
-# raw_sha256: c7b84b38b15644939ee7ec2651d9a49ffe91e993afeb517b2e3703d77045e91b
-# source_id: tajpoints:6e39bc415a2ef17453da
-# source_url: https://tajpoints.com/2022/12/salam-ya-hussain-nadeem-sarwar-lyrics.html
-# raw_sha256: d1f0b8ba66e8fd678af4ccb0ddbab3c4aa25294e08ef5ec29a9c53a01253b978
 ---
 
 سلام سلام سلام یا حسین

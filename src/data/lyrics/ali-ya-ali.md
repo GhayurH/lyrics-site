@@ -58,9 +58,6 @@ romanLyrics: |-
   Wo Kufa ho ya Karbobala
   Ummat ne Mohib har zulm o sitam
   Aulaad-e-Nabi par dhaya hai
-# source_id: nohayonline:0caf3d7f5a268f5e6cca
-# source_url: https://www.nohayonline.com/details_content.php?id=1442
-# raw_sha256: 1faa46303b66da1e7b0105a45f99d6580f69ed1d25b712274b63a388e1f25c44
 ---
 افسوس علی کا امت نے
 سجدے میں خون بہایا ہے

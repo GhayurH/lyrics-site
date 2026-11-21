@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Sadaa Anjum wo kya deta jigar tukre badan chhalni
   Na bole muṅh se wo aur maaṅ pukaare ae Ali Akbar
-# source_id: nohayonline:10df9d4359b1aed13e24
-# source_url: https://www.nohayonline.com/details_content.php?id=234
-# raw_sha256: d5ac47a757eec6c3bb5b783470cb9d3c476fbc6feb29eed53aa2ba2cff804023
 ---
 
 جوان ہو کر جہاں سے تم سدھارے اے علی اکبر

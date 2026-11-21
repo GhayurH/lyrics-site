@@ -93,9 +93,6 @@ romanLyrics: |-
   Hum ko baraabar hai bahaar aur khizaaṅ
   Chaahe khushi ho ke musibat koi
   Hum to sada kehte raheṅge yehi
-# source_id: nohayonline:42621765efb938798baa
-# source_url: https://www.nohayonline.com/details_content.php?id=2361
-# raw_sha256: ae4224bfb384a394a3558a6fc26abada274418ef3d07f89b7f3eaa7fdb3deb2e
 ---
 یا علی یا علی یا علی
 یہ وسیلہ وہ ہے جس کو نہیں رد کرتا ہے

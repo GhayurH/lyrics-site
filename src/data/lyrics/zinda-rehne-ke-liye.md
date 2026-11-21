@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Aao suraj meiṅ bichhaate haiṅ Qamar farsh-e-aza
   Har jagah par Karbala ka zikr hona chaahiye
-# source_id: nohayonline:280b25e41347c37818ee
-# source_url: https://www.nohayonline.com/details_content.php?id=1589
-# raw_sha256: ef599e604b330e3d3f6d6f747ac104c0d31171fe37a662d18b026d593d00135f
 ---
 زندہ رہنے کے لئے بس ایک جذبہ چاہیے
 کربلا بس کربلا کربلا بس کربلا

@@ -58,9 +58,6 @@ romanLyrics: |-
   Mahshar tha bapa Gohar is dasht-e-musibat meiṅ
   Tarpa to zarur hoga beshir bhi turbat meiṅ
   Jab maa ne kaha hoga aa jaao Ali Asghar
-# source_id: nohayonline:283959f7b47e4377f6d5
-# source_url: https://www.nohayonline.com/details_content.php?id=796
-# raw_sha256: d3aa5d26309ec429afdd3aeb1ae3f11785c27bd2c7a643c1e0dcde58a0e1dd83
 ---
 اک ماں کا یہ نوحہ تھا آ جائو علی اصغر
 دشوار ہوا جینا آ جائو علی اصغر

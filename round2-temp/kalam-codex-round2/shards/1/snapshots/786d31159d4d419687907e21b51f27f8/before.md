@@ -1,0 +1,50 @@
+---
+title: "Kabe Mein Aye Hain Shair-e-Khuda Ali Badshah"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Yasir"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+Kabe Mein Aye Hain Shair-e-Khuda Ali Badshah.
+Boli Jidar-e-Haram Marhaba Ali Badshah.
+
+1
+Quraan Qaseeday Sunnane Laga.
+Rutba Ali Ka Batane Laga.
+Sab Aayton Ne Kaha Barmala Ali Badshah.
+Yeh Zulfiqar Aayi Hai Arsh Se.
+
+2
+Jibreel Laye Yeh Kehte Howay.
+Yeh Lijiye Aye Sheh La-Fata Ali Badshah.
+Parh Kar Muhammad Ne Nad-e-Ali.
+Khaiber Mein Haider Ko Aawaz Di.
+
+3
+Aa Ja Madad Ko Meri Murtaza Ali Badshah.
+Dunya Mein Anmool Ban Jao Gaye.
+Haan Tum Bhi Behlool Ban Jao Gaye.
+Kehna Pare Ga Yeh Subh-o-Masa Ali Badshah.
+
+4
+Sab Hoor-o-Gilma Hain Mehway-e-Sana.
+Hai Auoj Par Aaj Dehar-e-Atta.
+Aaya Hai Dunya Mein Mula Mera Ali Badshah.
+Aylan-e-Khum Ka Hai Yeh Tazkira.
+
+5
+Man Kunto Mola Se Sabit Howa.
+Sunat Hai Kehna Kaho Barmala Ali Badshah.
+Bole Butoon Ko Gira Kar Nabi.
+Ab Na Rahe Ga Yahan Par Koi.
+
+6
+Kabay Ka Malik Hai Shair-e-Khuda Ali Badshah.
+Bad-e-Qaza Mujh Ko Kya Fikar Ho.
+Turbat Mein Yasir Ki Imdad Ko.
+Aa Jaye Ga Mera Mushkil Kusha Ali Badshah.

@@ -1,7 +1,6 @@
 ---
 title: "دم دم علی"
 alternateTitle: "Dam Dam Ali"
-# Punjabi (Shahmukhi); Urdu is the available schema label.
 language: "Urdu"
 lang: "ur"
 recitationId: "dam-dam-ali-sibtain-haider"
@@ -62,9 +61,6 @@ romanLyrics: |-
   Man yushra diyaaṅ aayataaṅ aaiyaaṅ
   Jannati huraaṅ den gawaahiyaaṅ
   Marziyaaṅ Rab ne aap lutaaiyaaṅ
-# source_id: tajpoints:6c35c559b5996688378c
-# source_url: https://tajpoints.com/2023/07/dam-dam-ali-sibtain-haider-lyrics-in.html
-# raw_sha256: 5461002a1c28194d9badfe2451f4e5db9f92db15e9a50674bc50496cc8a78082
 ---
 
 دم دم علی اے، ہر دم علی اے

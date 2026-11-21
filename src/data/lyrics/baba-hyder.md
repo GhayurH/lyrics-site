@@ -104,14 +104,11 @@ romanLyrics: |-
   Umr kat jaaye isi meiṅ saari
   Maqsad-e-zist hai maatamdaari
   Nauha maiṅ likhta huṅ bas ye keh kar
-# source_id: nohayonline:f0ed8d6b2d969365f324
-# source_url: https://www.nohayonline.com/details_content.php?id=3000
-# raw_sha256: 699dd6fdb246522bbbf28d98f74cf20cc1073b00160967e7eb9982d83863de7b
 ---
 ہ واقعہ ہے پس قتلِ شاہ کربوبلا
 
 ۱
-کوئی نہ مونس و غم خوار بی‌بیوں کا رہا
+کوئی نہ مونس و غم خوار بیبیوں کا رہا
 سکوتِ صحرا میں ٹاپوں کی گونج اٹھی صدا
 علی کی بیٹی نے بڑھ کر اٹھا لیا نیزہ
 حسار توڑ کے نزدیک آ گیا سوار

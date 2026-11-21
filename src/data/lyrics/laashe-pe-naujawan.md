@@ -1,5 +1,5 @@
 ---
-title: "لاش اکبر کی جو مقتل سے اٹھا لائے حسین"
+title: "لاشے پہ نوجواں کے چادر اڑھاؤ زینب"
 alternateTitle: "Laashe Pe Naujawan"
 language: "Urdu"
 lang: "ur"
@@ -56,9 +56,6 @@ romanLyrics: |-
   Laasha liye Takallum khaime se Sheh jo nikle
   Ro kar behan se bole
   Rukhsat yahiṅ se kar do baahar na aao Zainab
-# source_id: nohayonline:4c69c25ed8ac7a708c9e
-# source_url: https://www.nohayonline.com/details_content.php?id=3576
-# raw_sha256: 8af7d0ef25745c1f39085fa7fb0b14566a7865d07b75031b6623fb21ecec1231
 ---
 لاش اکبر کی جو مقتل سے اٹھا لائے حسین
 ایک کہرام تھا خیمے میں جو مولا نے کہا

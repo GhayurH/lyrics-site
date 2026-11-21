@@ -1,10 +1,10 @@
 ---
-title: پردیس میں حسین کی بستی اجڑ گئی
-alternateTitle: Ghazi Tere Baad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پردیس میں حسین کی بستی اجڑ گئی"
+alternateTitle: "Ghazi Tere Baad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Ali Shanawar"
 tags: []
@@ -38,12 +38,6 @@ romanLyrics: |-
   Hasnain ka tha baazu kunbe ki jaan tha wo
   Shahzaadiyoṅ ke sar pe ik saaibaan tha wo
   Sab ko judaai ye teri beaas kar gayi
-# source_id: nohayonline:17162ca5a3a024d59498
-# source_url: https://www.nohayonline.com/details_content.php?id=1847
-# raw_sha256: a3f0e39f551d98fb08a91f74622d2057d324d6eb5aa320fb9d117f2dc31f8e47
-# source_id: ziyaraat:56b431e52405e447b94c
-# source_url: https://www.ziyaraat.net/api/noha/2937
-# raw_sha256: 5991fe002fc7d6ad415b8239596dc80f55e95bbee4eb07e6ecdc53d1bf42a945
 ---
 
 پردیس میں حُسین کی بستی اُجڑ گئی

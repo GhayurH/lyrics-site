@@ -11,6 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Allah Allah Allah
+
   Kaisa imtehaan hai Husain ka
   Saat qadam aage barhe kiuṅ Husain
   Saat qadam pichhe hate kiuṅ Husain
@@ -70,10 +72,9 @@ romanLyrics: |-
   Haaye laasha juṅhi maaṅ ko dikhaaya
   Ek qayaamat hui barpa
   Thaam ke dil rone lage yuṅ Husain
-# source_id: nohayonline:0d709dbb1c1a4e6ff92f
-# source_url: https://www.nohayonline.com/details_content.php?id=3579
-# raw_sha256: f1c1fa8ebd72927bfb7c8e8ac7ed3eb1358c84db5ebf707fb5dc8811e2d56f78
 ---
+اللہ اللہ اللہ
+
 کیسا امتحان ہے حسین کا
 سات قدم آگے بڑھے کیوں حسین
 سات قدم پیچھے ہٹے کیوں حسین

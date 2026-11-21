@@ -73,9 +73,6 @@ romanLyrics: |-
   Sarwar ne kaha jab ye ro kar
   Shabbir ko bhaai keh to diya
   Lekin thi Takallum lab pe sada
-# source_id: nohayonline:a817bcceb1c028d70720
-# source_url: https://www.nohayonline.com/details_content.php?id=316
-# raw_sha256: 7bf263015b6673894a352801bea7623aadb70db988d65a04390292df5eaba171
 ---
 پہنچے سرہانے بھائی کے جب شاہِ کربلا
 غازی نے اپنی آخری سانسوں میں دی صدا

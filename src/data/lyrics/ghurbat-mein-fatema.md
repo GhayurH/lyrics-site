@@ -78,9 +78,6 @@ romanLyrics: |-
   Jaa kar watan ye dukhiya rudaad kya sunaaye
   Waaris nahiṅ hai sar par bachche bhi mujh se bichhre
   Apni lahad meiṅ waali mujh ko bhi ab chhupa le
-# source_id: nohayonline:5a7a7cbbdd78d89b3048
-# source_url: https://www.nohayonline.com/details_content.php?id=2996
-# raw_sha256: 4a4056137f2f57ed1e6543fa69ec8ec7e657804572a541fca334892777323a15
 ---
 
 غربت میں فاطمہ کا آباد گھر لٹا ہے

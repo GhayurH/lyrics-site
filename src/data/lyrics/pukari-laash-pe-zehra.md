@@ -25,9 +25,6 @@ romanLyrics: |-
   3
   Basi hai Shaam ki basti Madina wiraan hai
   Mazaar hai mera suna mere Husain Husain
-# source_id: nohayonline:de9ee24d252c3b37dd63
-# source_url: https://www.nohayonline.com/details_content.php?id=1159
-# raw_sha256: 409a966025617657112dec216f11950b107573891861b77f13f1807ea0f0f548
 ---
 پکاری لاش پہ زہرا میرے حسین حسین
 کفن بھی تو نہیں پایا میرے حسین حسین

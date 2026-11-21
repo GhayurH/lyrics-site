@@ -31,9 +31,6 @@ romanLyrics: |-
   4
   Najfi adab se chum le beri malang ki
   Jo aaj tak bataati hai taarikh Shaam ki
-# source_id: nohayonline:bd51535168633b00e46c
-# source_url: https://www.nohayonline.com/details_content.php?id=3370
-# raw_sha256: 6919693d064efdb85bc8cd8576d0f828a3afcdac9b7a2adb1e83048746999dbb
 ---
 زندان کے اندھیرے قیدی میرا امام
 

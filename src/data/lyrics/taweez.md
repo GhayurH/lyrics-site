@@ -57,9 +57,6 @@ romanLyrics: |-
   10
   Sajjad aansuoṅ se tha aakhir meiṅ ye likha
   Laasha uthaane bete ka khud aauṅga Husain
-# source_id: nohayonline:c8e3a4ca777a4d7d123d
-# source_url: https://www.nohayonline.com/details_content.php?id=2788
-# raw_sha256: f75d4140d689a9eb647f3456304498a0b11e91920a144de59c1d40f2ad1c98a5
 ---
 اے میرے بھائی حسین
 اے ماں کے دلارے بابا کے لاڈلے

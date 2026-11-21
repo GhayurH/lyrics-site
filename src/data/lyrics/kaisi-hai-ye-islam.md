@@ -43,9 +43,6 @@ romanLyrics: |-
   7
   Mahshar tere ashaar to hai apni jagah par
   Ye sina zani dekh ye Naazim ki sada dekh
-# source_id: nohayonline:ff1d16f6a790afa95029
-# source_url: https://www.nohayonline.com/details_content.php?id=3453
-# raw_sha256: 096d13d2178196a07889c78304416474d4c27082ea06256ac7ba2151f2d0c336
 ---
 
 کیسی ہے یہ اسلام کے سورج کی ضیا دیکھ

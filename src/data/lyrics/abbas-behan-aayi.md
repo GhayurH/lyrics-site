@@ -54,9 +54,6 @@ romanLyrics: |-
   Ghazi ki sada aayi na Shehzadi karo bain
   Hoti hai aziyat mujhe huṅ qabr meiṅ bechain
   Dil phatta hai khadim ka fughaṅ aap ki sun kar
-# source_id: nohayonline:ceeda213c0ce34bf0917
-# source_url: https://www.nohayonline.com/details_content.php?id=600
-# raw_sha256: aed0aa919cbca6dbb727572af2c3828be3e5cc28f46d71cf233c55038279a851
 ---
 
 
@@ -72,7 +69,7 @@ romanLyrics: |-
 عباس سنو شام غریباں کی بھی روداد
 جی بھر کے نہیں کرسکے ہم لاشوں پہ فریاد
 خیمے بھی جلے گھر بھی لٹا ہو گئے برباد
-تھی زیر سماں بی‌بیاں بے مقنہ و چادر
+تھی زیر سماں بیبیاں بے مقنہ و چادر
 
 ۳
 ہر گام پہ محشر تھا ہر ایک لمحہ قیامت

@@ -71,9 +71,6 @@ romanLyrics: |-
   Saara aalam royega
   Aansu beh ke aayeṅge
   Bali Sakina so ja
-# source_id: nohayonline:ff3d6cbc8afce636e969
-# source_url: https://www.nohayonline.com/details_content.php?id=1173
-# raw_sha256: fe0cb89c97bc6918e261bab0593a5634d531c2f35fad49a048de99880160b959
 ---
 ہم روتے رہ جائینگے
 بالی سکینہ سو جا

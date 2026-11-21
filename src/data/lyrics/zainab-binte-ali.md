@@ -1,10 +1,10 @@
 ---
-title: عقیلۃ العرب
-alternateTitle: Zainab Binte Ali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عقیلۃ العرب"
+alternateTitle: "Zainab Binte Ali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Shahid Baltistani"
 tags: []
@@ -69,12 +69,6 @@ romanLyrics: |-
   Baat Darvesh ne Rehaan ye saabit kar di
   Qabr meiṅ un se sawaalaat Nakirain kabhi
   Aa ke kar deṅ ge nahiṅ jis se bhi ho raazi
-# source_id: nohayonline:c2696c5f62a175a309a2
-# source_url: https://www.nohayonline.com/details_content.php?id=3300
-# raw_sha256: 5b1042bda64c12044a3773951fce661f4e05716a9ba17fa0b41e8e1c4cde095e
-# source_id: ziyaraat:a9c064bcfb83c1d1c34e
-# source_url: https://www.ziyaraat.net/api/noha/1154
-# raw_sha256: 11c2a49e9dc02d46a6181c5d7aaf2399c7539e4cf0e1a1e5488076a91d908cd3
 ---
 عقیلۃ العرب
 

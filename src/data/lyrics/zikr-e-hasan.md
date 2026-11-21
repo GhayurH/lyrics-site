@@ -58,9 +58,6 @@ romanLyrics: |-
   11
   Bichha ke farsh-e-wila ham ne aaj Mir Hasan
   Hasan ke jashn meiṅ Qayam ka intizaar kiya
-# source_id: tajpoints:068e7b6f71932e1491c9
-# source_url: https://tajpoints.com/2021/04/zikr-e-hasan-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 344ad011d972c4f9df28a9f5c2a77c6877fa5643743dabdf4403c8bd5f19ca22
 ---
 
 حسن کے ذکر میں جب ذکرِ کردگار کیا

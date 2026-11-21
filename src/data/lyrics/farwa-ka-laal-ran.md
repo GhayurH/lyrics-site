@@ -37,9 +37,6 @@ romanLyrics: |-
   Bikhra hua hai sehra paamaal-e-gul sa chehra
   Sabir suna raha hai Iqbal ka ye nauha
   Gham ke jahaaṅ meiṅ jaisa suraj naya uga hai
-# source_id: nohayonline:9c57a974297a3ec480e2
-# source_url: https://www.nohayonline.com/details_content.php?id=3024
-# raw_sha256: 427d1410d84984e1a39329d18a18318c5e255965a7d8d6522eacf4a2d500520f
 ---
 
 فروہ کا لال رن میں ٹکڑوں میں بٹ گیا ہے

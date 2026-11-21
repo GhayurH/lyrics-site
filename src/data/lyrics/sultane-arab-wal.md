@@ -83,9 +83,6 @@ romanLyrics: |-
   Shaayar bhi noha khwaaṅ bhi huṅ Zehra ke laal ka
   Safdar ko tu ne ek hunar aur de diya
   Ae bahr-e-inaayaat o karaamaat shukriya
-# source_id: nohayonline:1d26414980b2daedf6f1
-# source_url: https://www.nohayonline.com/details_content.php?id=3758
-# raw_sha256: 5acaefbefba6c07ba09bfe77de029178e3d40b5f2a0de9b3855015cac6c9c9a3
 ---
 یا ضامن آہو یا سیدی یا ہاشمی
 جان و دل زہرا و علی
@@ -132,7 +129,7 @@ romanLyrics: |-
 
 ۶
 اولاد کی طلب ہے جنہیں ان پہ کر نظر
-مایوس بی‌بیوں کی دعاؤں کو دے اثر
+مایوس بیبیوں کی دعاؤں کو دے اثر
 تقدیر کو بدل کے تو کر دے عطا پسر
 اے بادشاہ در پہ ہے تیرے یہ التجاء
 

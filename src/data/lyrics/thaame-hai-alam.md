@@ -50,9 +50,6 @@ romanLyrics: |-
   9
   Izhaar wohi hashr ke din shaadmaaṅ hoga
   Jis ke bhi laboṅ par tera noha hai alamdaar
-# source_id: nohayonline:aa95dfce99cb4e2e62af
-# source_url: https://www.nohayonline.com/details_content.php?id=2641
-# raw_sha256: 0d3a7f4e305f2888ffd3a523ed1924c533a0243e9cb124323e772916faaa81d4
 ---
 تھامے ہے علم خون میں ڈوبا ہے علمدار
 نرغے میں لعینوں کے اکیلا ہے علمدار

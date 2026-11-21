@@ -1,150 +1,128 @@
 ---
-title: "کل یومن عاشورہ کل ارض کربلا یا حسین یا حسین"
-alternateTitle: "Roz-e-Ashura"
+title: "روز عاشورا صبح کو دی جو اکبر نے اذاں"
+alternateTitle: "Roze Ashoora"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "N. Sarwar & J. Jaffri"
-reciter: "Nadeem Sarwar"
 tags: []
 aliases: []
-published: true
-romanLyrics: |-
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
+published: false
+romanLyrics: 'Roze ashoora subha ko di jo akbar ne azan
 
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Arsh waloṅ ne kiya farsh waloṅ ne kiya chaand taaroṅ ne kiya
-  Ya Husain Husain Husain ya Husain
-  Ya Husain Husain Husain ya Husain
 
   1
-  Jab basi Karbobala wo hai aashur ka din
-  Jis ka gham kam na hua wo hai yaad aashur ka din
-  Yaad meiṅ jis ki sadaa bichhta hai farsh-e-aza
-  Hota maatam hai bapa paara paara hai dil-e-Zehra
 
-  Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
-  Ya Husain Husain Husain ya Husain
-  Ya Husain Husain Husain ya Husain
+  Shamiyon ne haye samjhi na risalat ki zaban
+
+  Dhoondti phirti hai laashon may sakina baap ko
+
+  Haye baba mera baba bolo baba ho kahan
+
 
   2
-  Mominoṅ socho zara das Muharram jo hua
-  Ghar Nabi paak ka tha jo tha laakhoṅ meiṅ ghira
-  Jin pe har zulm hua jin ko paani na diya
-  Pyaasa hi maar diya Aal-e-Ahmad ka ujar jaana
 
-  Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Arsh waloṅ ne kiya farsh waloṅ ne kiya chaand taaroṅ ne kiya
-  Ya Husain Husain Husain ya Husain
-  Ya Husain Husain Husain ya Husain
+  Saamne laashein pade hai waarison ke jaa bajaa
+
+  Ek jalay qaime may baithi hai ali ki betiyan
+
 
   3
-  Haaṅ suno Ashura Bibi Zainab se zara
-  Saamne jis ke luta ghar sar-e-Karbobala
-  Jis ka kuchh bhi na bacha jis ka dil tukre hua
-  Jis ka ghar qaidi bana kaise Zainab ne ye sab dekha
 
-  Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
-  Ya Husain Husain Husain ya Husain
-  Ya Husain Husain Husain ya Husain
+  Rakh ke sar aaghosh may abbas se shah ne kaha
+
+  Mai tere sadqe biradar hai tere baazu kahan
+
 
   4
-  Wo Husain jis ki sadaa la ilaaha illal laah
-  Zer-e-khanjar bhi kaha la ilaaha illal laah
-  Imtihaaṅ aisa diya apna sab waar diya
-  Koi baaqi na raha jis ka paamaal hua laasha
 
-  Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Arsh waloṅ ne kiya farsh waloṅ ne kiya chaand taaroṅ ne kiya
-  Ya Husain Husain Husain ya Husain
-  Ya Husain Husain Husain ya Husain
+  Maut kehti thi mubarak ho tumhe umme rabab
+
+  Muskurakar tod di asghar ne hurmal ki kaman
+
 
   5
-  Ba khuda yaad rahe kya hai tehzib-e-aza
-  Ho azaadaari bapa aur namaazeṅ bhi adaa
-  Lab pe ya Allah rahe ya Rasul Allah rahe
-  Ya Ali Maula rahe aise hota rahe Ashura
 
-  Karo maatam karo gham aur parho nauha
-  Allah Allah roz-e-Ashura karo maatam karo gham aur parho nauha
-  Kullu yaumin Ashura kullu arzin Karbala ya Husain ya Husain
-  Ya Husain Husain Husain ya Husain
-  Ya Husain Husain Husain ya Husain
-# source_id: nohayonline:86061e53b57a7d8c9429
-# source_url: https://www.nohayonline.com/details_content.php?id=2752
-# raw_sha256: 752c34190773ee561e0ffece1dd5b2a6c2119219730378a47c094963355c4364
+  Padh ke khat sughra ka shah ne laashe akbar se kaha
+
+  Jaa bulaati hai tujhe ujde gharon ki paasban
+
+
+  6
+
+  Kar ke moo suye madine umme laila ne kaha
+
+  Aao sughra ban chuke dulha tumhare bhai jaan
+
+
+  7
+
+  Ya khaleel allah zara ye hausla to dekhiye
+
+  Khanychte shabbir hai seena e akbar se sina
+
+
+  8
+
+  Cheenli shimr e sitamgar ne tamache maar kar
+
+  Baap ne to pyar se pehnayi thi jo baaliyan
+
+
+  9
+
+  Is liye laaye nahi qaime may asghar ko hussain
+
+  Dekhli tooti hui gardan to mar jaayegi maa
+
+
+  10
+
+  Hai rasan basta saron may khaak hai sab ke nisaar
+
+  Shaam ki jaanib chala aale nabi ka kaarwan'
+reciter: "Hasan Sadiq"
 ---
 
-کل یومن عاشورہ کل ارض کربلا یا حسین یا حسین
-
-اللّٰہ اللّٰہ روز عاشورہ کرو ماتم کرو غم اور پڑھو نوحہ
-عرش والوں نے کیا فرش والوں نے کیا چاند تاروں نے کیا
-یا حسین حسین حسین یا حسین
-یا حسین حسین حسین یا حسین
+روز عاشورا صبح کو دی جو اکبر نے اذاں
 
 ۱
-جب بسی کربوبلا وہ ہے عاشور کا دن
-جس کا غم کم نہ ہوا وہ ہے یاد عاشور کا دن
-یاد میں جس کی صدا بچھتا ہے فرش عزا
-ہوتا ماتم ہے بپا پارہ پارہ ہے دل زہرا
-
-کرو ماتم کرو غم اور پڑھو نوحہ
-اللّٰہ اللّٰہ روز عاشورہ کرو ماتم کرو غم اور پڑھو نوحہ
-کل یومن عاشورہ کل ارض کربلا یا حسین یا حسین
-یا حسین حسین حسین یا حسین
-یا حسین حسین حسین یا حسین
+شامیوں نے ہاے سمجھی نہ رسالت کی زباں
+ڈھونڈتی پھرتی ہے لاشوں میں سکینہ باپ کو
+ہاے بابا میرا بابا بولو بابا ہو کہاں
 
 ۲
-مومنوں سوچو ذرا دس محرم جو ہوا
-گھر نبی پاک کا تھا جو تھا لاکھوں میں گھرا
-جن پہ ہر ظلم ہوا جن کو پانی نہ دیا
-پیاسا ہی مار دیا آل احمد کا اجڑ جانا
-
-کرو ماتم کرو غم اور پڑھو نوحہ
-اللّٰہ اللّٰہ روز عاشورہ کرو ماتم کرو غم اور پڑھو نوحہ
-عرش والوں نے کیا فرش والوں نے کیا چاند تاروں نے کیا
-یا حسین حسین حسین یا حسین
-یا حسین حسین حسین یا حسین
+سامنے لاشیں پڑے ہیں وارثوں کے جا بجا
+ایک جلے خیمے میں بیٹھی ہے علی کی بیٹیاں
 
 ۳
-ہاں سنو عاشورہ بی‌بی زینب سے ذرا
-سامنے جس کے لٹا گھر سر کربوبلا
-جس کا کچھ بھی نہ بچا جس کا دل ٹکڑے ہوا
-جس کا گھر قیدی بنا کیسے زینب نے یہ سب دیکھا
-
-کرو ماتم کرو غم اور پڑھو نوحہ
-اللّٰہ اللّٰہ روز عاشورہ کرو ماتم کرو غم اور پڑھو نوحہ
-کل یومن عاشورہ کل ارض کربلا یا حسین یا حسین
-یا حسین حسین حسین یا حسین
-یا حسین حسین حسین یا حسین
+رکھ کے سر آغوش میں عباس سے شاہ نے کہا
+میں تیرے صدقے برادر ہے تیرے بازو کہاں
 
 ۴
-وہ حسین جس کی صدا لا الٰہ الا اللّٰہ
-زیر خنجر بھی کہا لا الٰہ الا اللّٰہ
-امتحاں ایسا دیا اپنا سب وار دیا
-کوئی باقی نہ رہا جس کا پامال ہوا لاشہ
-
-کرو ماتم کرو غم اور پڑھو نوحہ
-اللّٰہ اللّٰہ روز عاشورہ کرو ماتم کرو غم اور پڑھو نوحہ
-عرش والوں نے کیا فرش والوں نے کیا چاند تاروں نے کیا
-یا حسین حسین حسین یا حسین
-یا حسین حسین حسین یا حسین
+موت کہتی تھی مبارک ہو تمہیں ام رباب
+مسکرا کر توڑ دی اصغر نے حرملہ کی کماں
 
 ۵
-با خدا یاد رہے کیا ہے تہذیب عزا
-ہو عزاداری بپا اور نمازیں بھی ادا
-لب پہ یا اللہ رہے یا رسول اللّٰہ رہے
-یا علی مولا رہے ایسے ہوتا رہے عاشورہ
+پڑھ کے خط صغرا کا شاہ نے لاش اکبر سے کہا
+جا بلاتی ہے تجھے اجڑے گھروں کی پاسباں
 
-کرو ماتم کرو غم اور پڑھو نوحہ
-اللّٰہ اللّٰہ روز عاشورہ کرو ماتم کرو غم اور پڑھو نوحہ
-کل یومن عاشورہ کل ارض کربلا یا حسین یا حسین
-یا حسین حسین حسین یا حسین
-یا حسین حسین حسین یا حسین
+۶
+کر کے منہ سوے مدینے ام لیلیٰ نے کہا
+آؤ صغرا بن چکے دولہا تمہارے بھای جاں
+
+۷
+یا خلیل اللّٰہ زرا یہ حوصلہ تو دیکھیےء
+کھینچتے شبیر ہیں سینۂ اکبر سے سناں
+
+۸
+چھین لی شمر ستمگر نے طمانچے مار کر
+باپ نے تو پیار سے پہنای تھی جو بالیاں
+
+۹
+اس لیےء لاے نہیں خیمے میں اصغر کو حسین
+دیکھ لی ٹوٹی ہوی گردن تو مر جاۓ گی ماں
+
+۱۰
+ہے رسن بستہ سروں میں خاک ہے سب کے نثار
+شام کی جانب چلا آل نبی کا کارواں

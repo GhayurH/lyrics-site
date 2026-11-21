@@ -83,9 +83,6 @@ romanLyrics: |-
   Mar gayi Shaah ki laadli
   Phir na Ishrat ye gunji sada
   Ae phuphi ab Madine chalo
-# source_id: nohayonline:9b6f9df666ca43ae23e4
-# source_url: https://www.nohayonline.com/details_content.php?id=1351
-# raw_sha256: 3e980211b0f6082f98fe1522ed3014341f48b4572d4462627b730401efe02698
 ---
 
 جب سکینہ نے رو کے کہا

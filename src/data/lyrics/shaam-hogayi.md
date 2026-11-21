@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Har shama-e-intezaar ki lau kaanp uthi Naved
   Sughra ne jab ye bain kiya shaam ho gayi
-# source_id: nohayonline:1bc09388cf41ef7c6942
-# source_url: https://www.nohayonline.com/details_content.php?id=1715
-# raw_sha256: f7b717c54d6ab7eae0faa4f1b6291cf2732613cf9635efaa6417c0d6c34ae2f4
 ---
 سونا پڑا ہے دشت بلا شام ہو گئی
 خوں رو رہی ہے باد صبا شام ہو گئی

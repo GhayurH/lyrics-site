@@ -59,9 +59,6 @@ romanLyrics: |-
   Pal bhi na Mesum saaye meiṅ aayi
   Tapti zamiṅ par tarpa tha Asghar
   Maaṅ ko wo manzar yaad reh gaya
-# source_id: nohayonline:e96976e45c4b1c1e1db2
-# source_url: https://www.nohayonline.com/details_content.php?id=2138
-# raw_sha256: bd0b3963cc3df815b748876ab895297651d360d869e863e95bd0eac06bd87082
 ---
 ماں نے دی صدا اے میرے بیٹا
 

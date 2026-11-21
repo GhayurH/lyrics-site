@@ -53,9 +53,6 @@ romanLyrics: |-
   Maamta maaṅ ki Raza hum se raqam kaise ho
   Haaye Darwesh ke us dard meiṅ bhi bachchoṅ ko
   Apne pehlu meiṅ sulaana koi aasaan na tha
-# source_id: nohayonline:333a392b526ba5f04b68
-# source_url: https://www.nohayonline.com/details_content.php?id=1039
-# raw_sha256: 7e0e0a32cc172f9dc63e539f44809360d2d54ed5a1d1645e586140bcb7dba25b
 ---
 قبر زہرا کی بنانا کوئی آسان نہ تھا
 پھر نشاں اُس کا مِٹانا کوئی آسان نہ تھا

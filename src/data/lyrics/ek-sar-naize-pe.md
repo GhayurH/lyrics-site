@@ -52,16 +52,13 @@ romanLyrics: |-
   8
   Jis pe Mazhar roye hai Maula lahu chaalis saal
   Us musibat ka bayaaṅ mumkin nahiṅ ashaar meiṅ
-# source_id: nohayonline:7dcc9f214beb7eddd791
-# source_url: https://www.nohayonline.com/details_content.php?id=3109
-# raw_sha256: b75b487c77f842919480392f536a8acc657645cdafe5e2cdd1d0a9e2c0766bbb
 ---
 ہائے شام بازار شام
 
 بام و در پہ تھا چراغ بھیڑ خاص و عام کی
 بھیڑ تھی کرب و بلا میں فتح فوج شام کی
 آگے آگے سر شہیدوں کے تھے نیزوں پہ رواں
-چل رہی تھی پیچھے پیچھے سر جھکائے بی‌بیاں
+چل رہی تھی پیچھے پیچھے سر جھکائے بیبیاں
 
 ایک سر نیزے پہ ہے ایک گردن رہوار میں
 بھائیوں کے ساتھ زینب آئی ہے بازار میں

@@ -61,9 +61,6 @@ romanLyrics: |-
   Shahaadat wo Mohsin ki Zehra ka rona
   Takallum abhi tak isi bekasi par
   Lahad meiṅ bhi Maula Ali ro rahe haiṅ
-# source_id: nohayonline:3cf541567cca086e9bb2
-# source_url: https://www.nohayonline.com/details_content.php?id=1029
-# raw_sha256: 6ae021a6635e4749e428324266457b0a38a5558d5ba105cacd512ceb01e863e7
 ---
 اندھیرے اندھیرے یتیموں سے چھپ کر
 سر قبر زہرا علی رو رہے ہیں

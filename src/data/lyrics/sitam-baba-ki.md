@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Jise Izhaar ban meiṅ kar diya paamaal aadaa ne
   Wo Shah ka bekafan laasha kabhi bhuliṅ nahiṅ Zahra
-# source_id: nohayonline:9418f95676dc661e127e
-# source_url: https://www.nohayonline.com/details_content.php?id=3283
-# raw_sha256: daaad31a75097baaa7b87ffb747b0af57d90deeda5a828df086bd08b9200b64e
 ---
 ستم بابا کی امت کا کبھی بُھولیں نہیں زہرا
 وہ جلتا گھر کا دروازہ کبھی بُھولیں نہیں زہرا

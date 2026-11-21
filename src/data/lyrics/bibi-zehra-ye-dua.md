@@ -92,9 +92,6 @@ romanLyrics: |-
   Ho jaae hum ko us ki ziyaarat
   Ae meri Bibi ye baat wo hai
   Jo har Husaini ki iltijaa hai
-# source_id: nohayonline:0dc12e80ef42ee689d44
-# source_url: https://www.nohayonline.com/details_content.php?id=2187
-# raw_sha256: 59df8dee6e33ef34d98f7302d7b1733157ba874550d2e4a7df153e61450f7810
 ---
 
 یا فاطمہ ام ابیہا

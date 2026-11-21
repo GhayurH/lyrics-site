@@ -65,9 +65,6 @@ romanLyrics: |-
   Bazm meiṅ Aamir hai ek Shor-e-Fughaaṅ
   Wo asar Nayyar magar mumkin kahaaṅ
   Fatima Zehra ke nauhe meiṅ jo tha
-# source_id: nohayonline:915216430e0c5d529e24
-# source_url: https://www.nohayonline.com/details_content.php?id=1786
-# raw_sha256: 1bf9e816a50d3377e3506bdef706ec85efabd01c9f4c9f8dca054828a91ef15f
 ---
 
 گونجتی ہے کس کے رونے کی صدا

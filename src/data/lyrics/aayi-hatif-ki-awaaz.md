@@ -45,9 +45,6 @@ romanLyrics: |-
   Rahwar apna Sarwar ne roka
   Utre Baqar wahiṅ Shah-e-Wala
   Hatif-e-ghaib jis dam pukara
-# source_id: nohayonline:083c1b5603d66b0257f5
-# source_url: https://www.nohayonline.com/details_content.php?id=2013
-# raw_sha256: 3e656fb920c60d488e360238e3c4034cdb084be16f7824b0ae33f840ab6c2291
 ---
 آی ہاتف کی آواز شہ کو
 اترو شبیر یہ کربلا ہے

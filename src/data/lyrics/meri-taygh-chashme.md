@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ye makaaye harf Shahid mere paas hai amaanat
   Ke farogh duṅ aza ko yehi mansab-e-hunar hai
-# source_id: nohayonline:c52e0290fd41f49f5b18
-# source_url: https://www.nohayonline.com/details_content.php?id=745
-# raw_sha256: e800d6876b35f66e52a851bba4c959c1901d049342508de571ddaf7f448a3f30
 ---
 میں جہاد کر رہا ہوں میری تیغ چشم تر ہے
 میرے دشمنوں کو ہر دم میرے آنسوؤں سے ڈر ہے

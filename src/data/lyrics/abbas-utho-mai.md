@@ -57,9 +57,6 @@ romanLyrics: |-
   Hadd ye hai Ali Asghar bhi nahiṅ
   Akbar bhi gaye barchhi kha kar
   Abbas utho maiṅ lutti huṅ
-# source_id: nohayonline:8ad15f2605b2f9a94b54
-# source_url: https://www.nohayonline.com/details_content.php?id=3253
-# raw_sha256: 8246378c71750f5995016dd71d224e0d59ad2490392abda7c0a53826d8d33d2f
 ---
 
 عباس اٹھو میں لٹتی ہوں

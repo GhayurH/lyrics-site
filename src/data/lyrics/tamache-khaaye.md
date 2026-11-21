@@ -10,9 +10,6 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: true
-# source_id: tajpoints:82164c5c440b1b0879ed
-# source_url: https://tajpoints.com/2019/02/pani-masooma-ne-manga-tu-tamachay-khaye.html
-# raw_sha256: bf8d9d05c1743b09c53fd3315e4df3386995e200455160850a854bc19f4980ec
 romanLyrics: |-
   Haye mazluma haye Sakina
   Haye maasuma haye Sakina
@@ -68,8 +65,6 @@ romanLyrics: |-
   12
   Mir Sajjad Sakina bhi hai Zahra ki tarah
   Ho gayi jab ye yatima to tamaache khaaye# source_id: nohayonline:9b330c5881dd9dcf8d94
-# source_url: https://www.nohayonline.com/details_content.php?id=973
-# raw_sha256: c73c20ed0289edd1bc4b98589411348ec66dd72b12b8cef64f25ef77dabffb27
 ---
 ہائے مظلوم ہائے سکینہ
 ہائے معصومہ ہائے سکینہ

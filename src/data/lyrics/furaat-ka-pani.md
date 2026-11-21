@@ -79,9 +79,6 @@ romanLyrics: |-
   Tarapti reh gayi Ali ki betiyaaṅ
   Royi jis waqt apni ghurbat par
   Naizoṅ uchhla Furaat ka paani
-# source_id: nohayonline:54377ec6466af26a0e7e
-# source_url: https://www.nohayonline.com/details_content.php?id=3023
-# raw_sha256: 61b2815dbee5c6e4b598456daea57b64c90a90003a0a354f0a3bb2bb69a3347b
 ---
 
 تھا ترای پہ حشر کا منظر

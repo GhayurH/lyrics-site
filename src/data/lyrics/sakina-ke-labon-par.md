@@ -48,9 +48,6 @@ romanLyrics: |-
   Roti jaati thi ye kehte hue Bibi Akbar
   Mil ke baba se har ek gham hua ruqsat yaksar
   Dard kaanoṅ ka mujhe bhul gaya hai bhaiya
-# source_id: nohayonline:0baad63b1d8d21a9a198
-# source_url: https://www.nohayonline.com/details_content.php?id=2934
-# raw_sha256: 46ea1f501fc4e1b84bf459f026bbb091ea477d769568dbce6e43ac9c422628b1
 ---
 مرتے مرتے تھا سکینہ کے لبوں پر نوحہ
 سر میرے ساتھ ہی دفنا دو میرے بابا کا

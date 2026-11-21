@@ -32,9 +32,6 @@ romanLyrics: |-
   Barchhi ko sambhaale soye haiṅ
   Qasim pe jawaani roti hai
   Beshir ka maatam hota hai
-# source_id: nohayonline:e649eb4ddff70d4d8d96
-# source_url: https://www.nohayonline.com/details_content.php?id=3234
-# raw_sha256: ac9131d02f17f58f881f6a12a3f52223ecaeaec5be7b9cac135aed0d3ca8b09e
 ---
 ہر وقت زمانے سارے میں
 شبیر کا ماتم ہوتا ہے

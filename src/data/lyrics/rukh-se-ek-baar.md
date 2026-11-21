@@ -58,9 +58,6 @@ romanLyrics: |-
   Ghar se jaata tha janaaza jo Ali ka baahar
   Betiyaaṅ kehti thiṅ Zishaan o Raza ro ro kar
   Aakhri baar to Baba se mila do bhaiya
-# source_id: nohayonline:877d21241d6342bc8141
-# source_url: https://www.nohayonline.com/details_content.php?id=1343
-# raw_sha256: 01d3f9cd2f2b6a0385106be198aa2555df87904c31671e3e78b83dcc41d32585
 ---
 ہائے حیدر کے جنازے پہ عجب منظر تھا
 بیٹیاں قدموں سے لپٹی تھیں بصد آہ و بکا

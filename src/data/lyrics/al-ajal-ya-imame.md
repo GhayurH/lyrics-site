@@ -72,9 +72,6 @@ romanLyrics: |-
   Ae Shabih-e-Rasul-e-Zamaṅ al madad
   Al madad Ibn-e-Khaibar-Shikan al madad
   Hai Farid aaj sab ke ye wird-e-zabaṅ
-# source_id: nohayonline:a7acae43c9df9182592c
-# source_url: https://www.nohayonline.com/details_content.php?id=2877
-# raw_sha256: 64557d752d876a3e8f9523a50c4edad551dba2ef2cc7ea667818e0656fa9a0ee
 ---
 العجل العجل یا امامِ زماں
 

@@ -1,10 +1,10 @@
 ---
-title: غازی کا علم آیا تو شہ بولے یہ رو کر
-alternateTitle: Abbas Kahan Ho
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "غازی کا علم آیا تو شہ بولے یہ رو کر"
+alternateTitle: "Abbas Kahan Ho"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar"
 tags: []
 aliases: []
@@ -64,12 +64,6 @@ romanLyrics: |-
   Sunte hi tarap jaata tha Abbas ka laasha
   Gohar lab-e-darya
   Jab kehti thi Sayyadaniyaṅ hasrat se tarap kar
-# source_id: nohayonline:6d7e360566a41e0740ee
-# source_url: https://www.nohayonline.com/details_content.php?id=3425
-# raw_sha256: 6e0d95469ea660f95da913b3ea2366cf69090cdc664c608826549562b25c1f86
-# source_id: ziyaraat:415e0a0f08a46d181d05
-# source_url: https://www.ziyaraat.net/api/noha/2202
-# raw_sha256: f7027919e63f9e24325dc964398c5846ac186ac3ce819163a524cc57bcee3513
 ---
 
 غازی کا علم آیا تو شہ بولے یہ رو کر

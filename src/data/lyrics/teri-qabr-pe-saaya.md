@@ -67,9 +67,6 @@ romanLyrics: |-
   Tere rauze pe pursa dekheṅ
   Mazlum Imam-e-Zamaana ka
   Armaan ye pura ho jaae
-# source_id: nohayonline:9ef0a690e1effec17684
-# source_url: https://www.nohayonline.com/details_content.php?id=2083
-# raw_sha256: f8de8953e7da6370d8470df27eb251cfda27fb3a4911a70d3ea017e59fc31280
 ---
 السلام علیک یا محرومہ
 السلام علیک یا مظلومہ

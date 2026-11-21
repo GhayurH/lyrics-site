@@ -63,9 +63,6 @@ romanLyrics: |-
   Ek noha Sheh ke lab par tha
   Yazdan wo kaisa manzar tha
   Sheh kehte the ro ro kar Asghar
-# source_id: nohayonline:6a1111c63b049cc18b2c
-# source_url: https://www.nohayonline.com/details_content.php?id=3723
-# raw_sha256: 0e581ff169dbf073e052b03b9317344ffb0f519f58495666cd160ff55518d746
 ---
 
 مقتل میں کہا شہ نے رو کر

@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Dua Khaaliq se uthte baithte karta huṅ ye Asghar
   Nabi ki aal hi ka zikr ho aur umr kat jaaye
-# source_id: nohayonline:1b44155d600539e0c205
-# source_url: https://www.nohayonline.com/details_content.php?id=540
-# raw_sha256: 4eefcdf567877b7fc8a0a90a1371cfd49118e544e4a1084db730ee1a37e7b1ab
 ---
 
 کہا عباس نے اِک آن میں نقشہ پلٹ جائے

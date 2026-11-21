@@ -1,10 +1,10 @@
 ---
-title: شام والوں نہ ستاؤ
-alternateTitle: Shaam Walo Na Satao
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام والوں نہ ستاؤ"
+alternateTitle: "Shaam Walo Na Satao"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []
@@ -48,12 +48,6 @@ romanLyrics: |-
   Aaj bat ti hai wahaaṅ naam pe Zainab ke rida
   Kal Takallum wahaaṅ bimaar mera kehta raha
   Ye Aal-e-Nabi haiṅ haye tum aise na in ko beparda phiraao
-# source_id: nohayonline:b2601bc40aa2fe67fcc7
-# source_url: https://www.nohayonline.com/details_content.php?id=330
-# raw_sha256: 5eb6e48dcca008d9763483684265bf93e5073439c778fe45a0129881ae8ba50e
-# source_id: ziyaraat:cbc8200191d5167612d8
-# source_url: https://www.ziyaraat.net/api/noha/1531
-# raw_sha256: 93315aab825a6e25c2f1dec404130577812a81535ba5674ef624d009a2a38770
 ---
 شام والوں نہ ستاؤ
 کہتا تھا مہاری غربت پہ ہماری بس کر نہ رلاؤ

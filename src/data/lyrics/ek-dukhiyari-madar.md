@@ -58,9 +58,6 @@ romanLyrics: |-
   Jis ghari Shimr charha sina-e-Shah par Waiz
   Ro para gardan-e-Shabbir pe khanjar Waiz
   Royi jab dukhyaari maaṅ ye nauha parh kar
-# source_id: nohayonline:eabe7360f07d319a8ab4
-# source_url: https://www.nohayonline.com/details_content.php?id=2854
-# raw_sha256: cf8b64a7af4b169612fdd5712b683f1fcc2e619f53ca69528556fa21d550c39f
 ---
 
 ایک دکھیاری مادر کہتی ہے رو رو کر

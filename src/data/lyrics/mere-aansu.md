@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Sharminda na ho jaaye sar-e-hashr Kalim aa
   Kehlaane pare haq se qaza hai mere aansuṅ
-# source_id: nohayonline:08527121a1a2548f484b
-# source_url: https://www.nohayonline.com/details_content.php?id=2917
-# raw_sha256: c45620e52dd353b8a9f65e22bab2d1a4cc36d0b5e68c22d991c25d7b6644fd86
 ---
 موتی ہے شفاعت کے شفا ہے میرے آنسوں
 نازاں ہوں کہ زہرا کی دعا ہے میرے آنسوں

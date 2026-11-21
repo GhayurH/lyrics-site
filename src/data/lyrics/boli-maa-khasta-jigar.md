@@ -55,9 +55,6 @@ romanLyrics: |-
   Karwateṅ leta tha shehzada tarapta tha kabhi
   Dard meiṅ dubi hui sun ke sada maadar ki
   Aa gaya waqt-e-safar aakhri lori sun lo
-# source_id: nohayonline:5507ad1d3df8541d07d8
-# source_url: https://www.nohayonline.com/details_content.php?id=3231
-# raw_sha256: af86b3c8fb7904262fa10c034225cd6db15288720c40a26474afa7cacad0dec4
 ---
 بولی ماں خستہ جگر آخری لوری سن لو
 اے میرے نورِ نظر آخری لوری سن لو

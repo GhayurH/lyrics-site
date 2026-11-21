@@ -38,9 +38,6 @@ romanLyrics: |-
   Har su hai andhera
   Hai kaun meri qabr pe jo shama jalaaye
   Akbar nahiṅ aaye
-# source_id: nohayonline:bb8a3a82dd8bc2bf8a3f
-# source_url: https://www.nohayonline.com/details_content.php?id=514
-# raw_sha256: 70252b96f3585dbaeae10f2844d8b1d44f1b063e60be1e485a2c7e1fa9f6bfe2
 ---
 
 صُغریٰ نے کہا ہائے برادر نہیں آئے

@@ -70,9 +70,6 @@ romanLyrics: |-
   Aamir sar-e-maidaan-e-sitam boli yatima
   Kiuṅ sunte nahiṅ meri sada Hazrat-e-Abbas
   Ulfat na rahi aap ko kya Hazrat-e-Abbas
-# source_id: nohayonline:01225099cfc0a7a144e6
-# source_url: https://www.nohayonline.com/details_content.php?id=2139
-# raw_sha256: 6cea63f8130473eaaf83139ad34eb7368537aad16945469c78adf2a96d7e34d9
 ---
 جری عباس جری
 یا حضرتِ عبّاس

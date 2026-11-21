@@ -54,9 +54,6 @@ romanLyrics: |-
   Aamir Akhtar ba Khuda ye na hota jo kahiṅ
   Rakhta kis simt bashar apni sajde meiṅ jabiṅ
   Jaan-e-Zehra pe hai ye jaan qurbaan kaho
-# source_id: nohayonline:dedf4089b3cc5005bcf6
-# source_url: https://www.nohayonline.com/details_content.php?id=3665
-# raw_sha256: a3cea24df03105f3ae4b8e0068a472ba64882a11f35ff9b84b3abc205bef0a7f
 ---
 الاعلان کہو سر میدان کہو
 ہے حسین ابن علی دین کی جان کہو

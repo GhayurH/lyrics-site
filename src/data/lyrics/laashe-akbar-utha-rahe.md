@@ -58,9 +58,6 @@ romanLyrics: |-
   Mesum ab kya bayaaṅ ho ranj o malaal
   Naam-e-Abbas le ke Mir Hilal
   Zor-e-baazu dikha rahe haiṅ Husain
-# source_id: nohayonline:69bcdf891920a38886a6
-# source_url: https://www.nohayonline.com/details_content.php?id=1657
-# raw_sha256: 5de2813eadd1f9f389330b69233afc2eb7e0b2e576b32af8a29a0e4fb475d8b5
 ---
 لاشہ اکبر اٹھا رہے ہیں حسین
 یا علی کہتے جا رہے ہیں حسین

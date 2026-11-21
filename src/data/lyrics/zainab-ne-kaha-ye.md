@@ -1,10 +1,10 @@
 ---
-title: زینب نے کہا یہ رو رو کر میں قیدی ہوں
-alternateTitle: Zainab Ne Kaha Ye
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینب نے کہا یہ رو رو کر میں قیدی ہوں"
+alternateTitle: "Zainab Ne Kaha Ye"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
 tags: []
@@ -65,14 +65,6 @@ romanLyrics: |-
   Maiṅ qaidi huṅ
 
   Baba aao dekho aa kar maiṅ qaidi huṅ
-# Source variants: id=160 supplies the retained final-stanza order and "tum ko";
-# id=2919 reverses those two stanzas and reads "tujh ko". Neither adds a unique stanza.
-# source_id: nohayonline:37bb6f5c69158c79ac33
-# source_url: https://www.nohayonline.com/details_content.php?id=160
-# raw_sha256: 930f1c1b2b7a84f2ffb68ab744466aa0eb8ef15ab43e5cf48a0d9d308b3be3a6
-# source_id: nohayonline:810c371346a701d8d32c
-# source_url: https://www.nohayonline.com/details_content.php?id=2919
-# raw_sha256: fe7257912153e2748285e6248425117f389a87f60300b1c7424c5708368b03d1
 ---
 زینب نے کہا یہ رو رو کر
 میں قیدی ہوں

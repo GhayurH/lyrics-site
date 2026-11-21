@@ -1,0 +1,48 @@
+---
+title: "بغداد کے اک پل پہ کھڑا سوچ رہا ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Baghdad ke ik pul pe kharra soch raha huṅ,
+  Masum qabile ki khata soch raha huṅ,
+
+  1
+  Kabhi khanjar, kabhi talwar, kabhi zehr ki surat,
+  SAADAAT ko kia ajar mila soch raha huṅ.
+
+  2
+  Hai Pul Pe rasan basta para Lasha-e-KAZIM
+  Islam sikhany ka sila soch raha huṅ,
+
+  3
+  Socho to wo thi Lasha-e-KAZIM k liye bhi
+  Gunji jo thi HAL MIN ki sada soch raha huṅ
+
+  4
+  Lanat hai bohat choti Saqife k liye to
+  Me lafz koi is se bara soch raha huṅ
+---
+
+بغداد كے اک پل پہ کھڑا سوچ رہا ہوں
+معصوم قبیلے کی خطا سوچ رہا ہوں
+
+۱
+کبھی خنجر، کبھی تلوار، کبھی زہر کی صورت
+سادات کو کیا اجر ملا سوچ رہا ہوں
+
+۲
+ہے پل پہ رسن بستا پڑا لاشہءِ كاظمؑ
+اسلام سکھانے کا صلہ سوچ رہا ہوں
+
+۳
+سوچو تو وہ تھی لاشہءِ كاظمؑ کے لیے بھی
+گونجی جو تھی ھل من کی صدا سوچ رہا ہوں
+
+۴
+لعنت ہے بہت چھوٹی ثقیفے کے لیے تو
+میں لفظ کوئی اِس سے بڑا سوچ رہا ہوں

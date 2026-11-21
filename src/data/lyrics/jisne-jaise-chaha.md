@@ -66,9 +66,6 @@ romanLyrics: |-
   Haae Farhan Ali kaisi ghari thi wo bhi
   Jis ghari Zill-e-Raza kund chhuri Shah pe chali
   Nauha karta hi raha pyaare Nabi ka pyaara
-# source_id: nohayonline:ba85d5f1b814d5bf55ce
-# source_url: https://www.nohayonline.com/details_content.php?id=2985
-# raw_sha256: a4b18ae2277a5aa23dafde3fcfe7022e9c66685d737fdb35150a48906b67bc63
 ---
 عصر کا وقت ہے شبیر ہے تنہائی ہے
 ایک ماں دشتِ مصیبت میں چلی آئی ہے

@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Uthuṅga qabr se rota hua Khuda ki qasam
   Mere Husain maiṅ ji bhar ke tujh ko ro na saka
-# source_id: nohayonline:d0c752970872a3725c57
-# source_url: https://www.nohayonline.com/details_content.php?id=710
-# raw_sha256: 1c1adaa3b2708d47f93fa0ec48091903d7ab877a826b6ad6f2f54aa29dd95316
 ---
 باجُز حسین کسی سے یہ کام ہو نہ سکا
 جوان بیٹے کو ہاتھوں سے کوئی کھو نہ سکا

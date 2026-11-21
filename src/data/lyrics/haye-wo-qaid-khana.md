@@ -40,14 +40,11 @@ romanLyrics: |-
   Ab bhi Mohib musalsal bimaar ro raha hai
   Aal-e-Nabi ke ghar meiṅ farsh-e-aza bichha hai
   Ye bain kar raha hai saadaat ka gharaana
-# source_id: nohayonline:9ea3f579cb6f621ca0ba
-# source_url: https://www.nohayonline.com/details_content.php?id=3235
-# raw_sha256: 862068a196d6ced0cb278c1e64810cc4d7e2aeee5d0e75f11577e6bf35564f34
 ---
 
 سجاد کیسے بھولیں غربت کا وہ زمانہ
 ہاے وہ قید خانہ ہاے وہ قید خانہ
-بے پردہ بی‌بیوں کا بالوں سے منہ چھپانا
+بے پردہ بیبیوں کا بالوں سے منہ چھپانا
 ہاے وہ قید خانہ ہاے وہ قید خانہ
 
 ۱

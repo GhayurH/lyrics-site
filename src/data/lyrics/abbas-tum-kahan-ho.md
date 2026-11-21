@@ -55,9 +55,6 @@ romanLyrics: |-
   Waiz Ali Mohammad wo dard ki ghari thi
   Darbar meiṅ ye Zainab jab ro ke keh rahi thi
   Hai hashr ka ye manzar Abbas tum kahaṅ ho
-# source_id: nohayonline:e6e1844e5c4226d95b85
-# source_url: https://www.nohayonline.com/details_content.php?id=2847
-# raw_sha256: 1b3f2d1f21b3331dfeec67ec088a3d5c635b136ea569c7881d8c7bc5913d23a0
 ---
 یا أخی ہو کہاں
 أين عباس أين عباس

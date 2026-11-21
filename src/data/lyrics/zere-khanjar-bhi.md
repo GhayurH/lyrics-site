@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Jis ko gham ho Shah-e-Karbala ka Uruj
   Wo nahiṅ hai to gham aashna kaun hai
-# source_id: nohayonline:0839a294af0cabaebb73
-# source_url: https://www.nohayonline.com/details_content.php?id=660
-# raw_sha256: b5b1cd27563a3cfa485e9c39f6b1e40144e7fdb5ef44527c51a3100e9f37bf48
 ---
 زیرِ خنجر بھی سجدہ کیا کون ہے
 جُز تیرے اے شاہِ کربلا کون ہے

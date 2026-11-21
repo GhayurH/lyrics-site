@@ -53,10 +53,7 @@ romanLyrics: |-
   Ab kahaaṅ taab-e-sukhan hai bas laboṅ par jaan hai
   Safdar o Mazhar ye nauha dard ka Quraan hai
   Ek mukammal marsiya hai Karbala tayyaar hai
-reciter: Safdar Abbas
-# source_id: nohayonline:5c241b88d5e68c5c1864
-# source_url: https://www.nohayonline.com/details_content.php?id=2273
-# raw_sha256: 3386e6e5edd4bf97651aa09374cbbe2a2386e4218c42aeac66da7b50cf422ba9
+reciter: "Safdar Abbas"
 ---
 مسجد بھی رو رہی ہے کعبہ بھی رو رہا ہے
 حیدر کا قتل کیا ہے آغاز کربلا ہے

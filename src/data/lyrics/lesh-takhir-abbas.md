@@ -1,10 +1,10 @@
 ---
-title: عباس عباس یا یا عباس
-alternateTitle: Lesh Takhir Abbas
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عباس عباس یا یا عباس"
+alternateTitle: "Lesh Takhir Abbas"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Raza Abbas Zaidi"
 tags: []
@@ -93,12 +93,6 @@ romanLyrics: |-
   Chaadaroṅ ka na ab koi zaamin raha
   Chup Sakina hui kis se ye puchhti
   Lesh taakhir Abbas
-# source_id: nohayonline:1abf345e01ca5e6685c9
-# source_url: https://www.nohayonline.com/details_content.php?id=440
-# raw_sha256: dd150b7b743037f036ae20bfbbfc4454f7f8a79b818189d22bea25734ec143ea
-# source_id: ziyaraat:f31052495bf090a3ebcb
-# source_url: https://www.ziyaraat.net/api/noha/1182
-# raw_sha256: 95bcb27b88ffc194cba53591a6712a759edd30486e5618d4bf1239fc314031fe
 ---
 
 عباس عباس یا یا عباس

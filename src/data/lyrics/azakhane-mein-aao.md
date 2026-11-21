@@ -76,9 +76,6 @@ romanLyrics: |-
   Manzur karo Mazhar o Irfan ka pursa
   Mil jaaye sanad nauhe pe gar ashk bahao
   Baithe haiṅ azadaar azakhane meiṅ aao
-# source_id: nohayonline:e7bb0ac8fbb5e7c75d68
-# source_url: https://www.nohayonline.com/details_content.php?id=3190
-# raw_sha256: 0a38e301feb9af5d58f992e6311dc98180a125124c4c5f778d2c743c634e6c7c
 ---
 
 یا فاطمہ زہرا یا فاطمہ زہرا

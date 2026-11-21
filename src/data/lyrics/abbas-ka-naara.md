@@ -66,9 +66,6 @@ romanLyrics: |-
   Ab bhi hai tarai ki zamiṅ par wo dilafgar
   Wo dekh zara rauza-e-Abbas-e-Alamdar
   Ek zinda gawahi hai ye marqad ka nazara
-# source_id: nohayonline:81cd4dd63dacf65fe396
-# source_url: https://www.nohayonline.com/details_content.php?id=1723
-# raw_sha256: f609c664eb2c3ad7c0b8fcb8c639879afc106a32b335f5005184e5b6b573cda7
 ---
 
 اک شور ہے عباس ہے عباس

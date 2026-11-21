@@ -94,9 +94,6 @@ romanLyrics: |-
   Ghoroṅ se paamaal badan aur tha kata sar
   Phir na Sakina ne kaha baba kahaaṅ ho
   Uth ke suno haal mera baba kahaaṅ ho
-# source_id: nohayonline:6e13f150156971c00298
-# source_url: https://www.nohayonline.com/details_content.php?id=2754
-# raw_sha256: 26cf9cd6c39e18440a50e89872484384c119eeef28067b6b00c81bb9b1317188
 ---
 زخمی کانوں پہ ہاتھوں کو رکھے ہوئے
 نکلی خیموں سے اک بچی روتی ہوئی

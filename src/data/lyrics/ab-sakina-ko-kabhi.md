@@ -60,10 +60,6 @@ romanLyrics: |-
   Jis ko taqdir ye ghurbat ki ghari dikhlae
   Gaam dar gaam jo patthar kabhi durre khae
   Nauha Nasir ne parha dil se ye nikla haye
-# source_id: nohayonline:037c10368093b8a5ee22
-# editorial_uncertainty: Archived HTML checked. Stanza two has badkaar/بڑھکار and to dukhenge/دیکھیں گے; stanza six has pyaas/پیاسے; stanza seven has ehwaano/اہوانوں. Existing disputed readings retained pending audio/print verification.
-# source_url: https://www.nohayonline.com/details_content.php?id=1894
-# raw_sha256: dee087a43914fce494dbf6709ea9166c98a30b85c6dd00282a27ad1fc6f3ca2f
 ---
 خون کے اشک یتیمی اسے رلوائے گی
 اب سکینہ کو کبھی نیند نہیں آئے گی

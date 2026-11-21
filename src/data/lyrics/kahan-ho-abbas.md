@@ -68,9 +68,6 @@ romanLyrics: |-
   Hai bapa Shaam ke bazaar meiṅ Aamir mahshar
   Nok-e-naize se gira jaata hai ek sar Nayyar
   Bain karte haiṅ giraftaar kahaaṅ ho Abbas
-# source_id: nohayonline:43953090e859c9a2a207
-# source_url: https://www.nohayonline.com/details_content.php?id=3585
-# raw_sha256: 07dd2aba9c414e5b015aaff9940bd1757b466aa0cafe8f3f455e006c506290c7
 ---
 آ گیا شام کا بازار کہاں ہو عباس
 میرے مونس میرے غم خوار کہاں ہو عباس

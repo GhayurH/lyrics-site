@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Kahaaṅ haiṅ Hazrat-e-Ayyub o Ibrahim ae Mirza
   Pidar ke saamne karyal jawaaṅ ki jaaṅ nikalti hai
-# source_id: nohayonline:30f4ee780f154ff93071
-# source_url: https://www.nohayonline.com/details_content.php?id=499
-# raw_sha256: fa4509dac03c391b2677f9a41742c130eca82cbbefaeb60df3a709f1c63b6638
 ---
 قیامت ہے کہ لاشِ شاہِ دین کروٹ بدلتی ہے
 کھُلے سر رن میں بنتِ فاطمہ زہرا نکلتی ہے

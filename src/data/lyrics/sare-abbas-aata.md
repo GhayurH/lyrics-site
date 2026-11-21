@@ -1,12 +1,12 @@
 ---
-title: کہا زینب نے یہ رو کر سنبھالو بی‌بیوں چادر
-alternateTitle: Sare Abbas Aata
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہا زینب نے یہ رو کر سنبھالو بیبیوں چادر"
+alternateTitle: "Sare Abbas Aata"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: true
@@ -53,17 +53,11 @@ romanLyrics: |-
   Takallum Shaamiyoṅ ki aurateiṅ bhi roti jaati haiṅ
   Ali ki betiyaaṅ jaldi se zakhmoṅ ko chhupaati haiṅ
   Khari hai haath phailaaye hue khud Zainab-e-Muztar
-# source_id: nohayonline:89cd65141727a68cc2f9
-# source_url: https://www.nohayonline.com/details_content.php?id=186
-# raw_sha256: e22e2d836fa838961d08c15e57a24bcd01d84f3abc768d3691caeaf0d0cd4539
-# source_id: ziyaraat:8dcc2ed63cce35381858
-# source_url: https://www.ziyaraat.net/api/noha/2482
-# raw_sha256: 6322c66925afc6a17fc018792d54ade0f397bfaa22617b6532121708a6e54423
 ---
 سرِ عباسؑ
 عباسؑ ہائے عباسؑ ہائے عباسؑ
 
-کہا زینبؑ نے یہ رو کر سنبھالو بی‌بیوں چادر
+کہا زینبؑ نے یہ رو کر سنبھالو بیبیوں چادر
 سرِ عباسؑ آتا ہے
 بلا لائے سکینہؑ کو کوئی زندان سے جا کر
 سرِ عباسؑ آتا ہے
@@ -79,7 +73,7 @@ romanLyrics: |-
 اگر ممکن ہے تو دے دے کوئی پانی مجھے لا کر
 
 ۳
-مجھے اٹھنا پڑے گا بی‌بیوں تعظیم کو اس کی
+مجھے اٹھنا پڑے گا بیبیوں تعظیم کو اس کی
 میں ماں ام البنینؑ کی سمت سے غازیؑ کو چوموں گی
 سنبھالے سر کوئی عونؑ و محمدؑ کے یہاں آ کر
 

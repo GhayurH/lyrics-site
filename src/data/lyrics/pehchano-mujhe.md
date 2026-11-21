@@ -68,9 +68,6 @@ romanLyrics: |-
   Haaye taqdir rihaai nahiṅ paayi us ne
   Aaj tak baali Sakina ka rasan meiṅ hai gala
   Wo qabr meiṅ parhti hai yehi aaj bhi nauha
-# source_id: nohayonline:3e739b97fd7e77c03b7b
-# source_url: https://www.nohayonline.com/details_content.php?id=2748
-# raw_sha256: 14c62f5d670aaaeeeba8a274315366c1cbf350533fb4375a8ac1c545e9c941f0
 ---
 آخری رات سکینہ کا عجب عالم تھا
 قید خانے میں تڑپتی رہی بےکس تنہا

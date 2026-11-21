@@ -56,9 +56,6 @@ romanLyrics: |-
   Hai waqt bahut kam
   Bekas ki to faryaad bhi koi nahiṅ sunta
   Kab aaoge baba
-# source_id: nohayonline:c80db041a8a087a414d2
-# source_url: https://www.nohayonline.com/details_content.php?id=1102
-# raw_sha256: 0177f905842e152a2ae5db5c63084549052404c180b7527e11f2bfcde2d2eb26
 ---
 تھا شام کے زنداں میں سکینہ کا یہ نوحہ
 کب آؤ گے بابا

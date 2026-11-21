@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Kar ke buland haathoṅ pe Asghar ko bole Shaah
   Baaqi nahiṅ hai ab koi is mehlakha ke baad
-# source_id: nohayonline:c0863857ea72683ac5d4
-# source_url: https://www.nohayonline.com/details_content.php?id=468
-# raw_sha256: a07b8f35b4851f39d1f548190ad45218276caedf6ea99245aa72c29e006f576b
 ---
 
 باقی رہا ہے کون جہاں میں فنا کے بعد

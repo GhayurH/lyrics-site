@@ -70,9 +70,6 @@ romanLyrics: |-
   Hasan imam-e-Hasan yabnaz Zahra
   Maula Hasan sabz qaba sayyidi Maula
   Ya Hasan ya Hasan ya Hasan imam Hasan
-# source_id: nohayonline:cc4cbd32ba8ea5cea5d2
-# source_url: https://www.nohayonline.com/details_content.php?id=2749
-# raw_sha256: 18285c4e0b452f021a0678002e52c2fc123136a5fdac42c7ee871a1a068d997b
 ---
 
 حسن امام حسن یبن الزہراء

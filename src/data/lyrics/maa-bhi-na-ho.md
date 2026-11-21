@@ -58,9 +58,6 @@ romanLyrics: |-
   Zishan o Raza haaye nauha tha ye Fizza ka
   Ab betiyoṅ ke sar pe saaya nahiṅ Baba ka
   Mushkil hai yatimoṅ par ye raat guzar jaaye
-# source_id: nohayonline:e80daf7ad53c33fce7ce
-# source_url: https://www.nohayonline.com/details_content.php?id=2941
-# raw_sha256: 9d2d3d6f9584091ffc244096727aeef45b5ee09750332d82ebeaadd9efd7cdaa
 ---
 احساسِ یتیمی ہے ویراں ہے علی کا گھر
 بن باپ کے یہ پہلی رات آئی ہے بچوں پر

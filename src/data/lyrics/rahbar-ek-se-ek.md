@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Zaakir o shaair o saalik hai hami meiṅ Mahir
   Apne kunbe meiṅ bhi maddaah hua ek se ek
-# source_id: nohayonline:1fc2176a472a53b42c7c
-# source_url: https://www.nohayonline.com/details_content.php?id=1222
-# raw_sha256: 59a61aa1c31cb5b25237790cdc73799d852d4b67c8bc8d46b8f62ccc88ff2fff
 ---
 رہبر اک سے اک رہنما اک سے اک
 سلسلہ نور امامت کا چلا اک سے اک

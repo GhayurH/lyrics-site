@@ -54,9 +54,6 @@ romanLyrics: |-
   Aamir o Akhtar siyaahi hai falak par har taraf
   Donoṅ aalam par musallat hai gham-e-Shaah-e-Najaf
   Arsh ko qudrat ne poshaak-e-aza pehnaayi hai
-# source_id: nohayonline:c7238a253aadab972c15
-# source_url: https://www.nohayonline.com/details_content.php?id=3375
-# raw_sha256: 46afdc8375365c2b9bb31594979ea78b50deb0af9e7be19845c50e07b58e067e
 ---
 الوداع کیسے کہے
 

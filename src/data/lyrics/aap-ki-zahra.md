@@ -52,11 +52,6 @@ romanLyrics: |-
   Baap ki qabr pe Akbar wo ye keh kar royi
   Meri ghurbat ke mera bhai nahiṅ hai koi
   Kaun hai saath jo Zehra ka nibhane aaye
-# source_id: nohayonline:b286c95fbb3c6c3f06df
-# source_url: https://www.nohayonline.com/details_content.php?id=1013
-# raw_sha256: ff30a0977ad23da1469131c178566072e84d82f820240ee674d7e9b384934478
-# parallel_source_id: tajpoints:4474dba90f366335d406
-# parallel_source_url: https://tajpoints.com/2020/01/aap-ki-zahra-pe-yeh-kaisay-zamanay-aaye.html
 ---
 آپ کی زہرا پہ یہ کیسے زمانے آئے
 دیکھیے لوگ میرے گھر کو جلانے آئے

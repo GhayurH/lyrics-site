@@ -10,9 +10,6 @@ reciter: "Ali Rizvi Sachey"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:0a29aa54254a1d1a590e
-# source_url: https://www.nohayonline.com/details_content.php?id=2902
-# raw_sha256: 918c32315e3f178fc5f66801f55b41efd9c740806c3408eeebc1f6bfb9f8a4aa
 romanLyrics: |-
   Ali Akbar sidharo
   Shah-e-Wala ne di aawaz Ae hamshakl-e-Payambar

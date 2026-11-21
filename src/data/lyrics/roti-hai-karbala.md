@@ -71,9 +71,6 @@ romanLyrics: |-
   Bakhsha nisaab-e-gham
   Majlis meiṅ jo ye gunjegi aawaaz jaa baja
   Roti hai Karbala roti hai Karbala
-# source_id: nohayonline:70f79eedb91dbfbc4217
-# source_url: https://www.nohayonline.com/details_content.php?id=1485
-# raw_sha256: e832878d6a54bf647fe9d3c1e592d355b0e3478d6760cb2b80be2487a311cc09
 ---
 
 مقتل سے بے سوار جو رہوار آ گیا

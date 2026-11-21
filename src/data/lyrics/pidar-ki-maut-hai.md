@@ -109,9 +109,6 @@ romanLyrics: |-
   Kaha ke ashhadu an la ilaaha illallaah
   Bas aur keh na sake kuchh ye haal ghair hua
   Su-e-bahisht gaye khaatima bakhair hua
-# source_id: nohayonline:f0b2b363f4e25ebd8131
-# source_url: https://www.nohayonline.com/content_marsiya.php?id=1
-# raw_sha256: 1f7c4e443e3d3f61e2c30f0876ed37721aba6ccbbf48b0f224f760ba43100677
 ---
 
 پدر کی موت ہے مرنا جوان بیٹے کا

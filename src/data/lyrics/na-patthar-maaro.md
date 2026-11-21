@@ -1,10 +1,10 @@
 ---
-title: نہ مارو نہ مارو نہ مارو
-alternateTitle: Na Patthar Maaro
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ مارو نہ مارو نہ مارو"
+alternateTitle: "Na Patthar Maaro"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []
@@ -46,12 +46,6 @@ romanLyrics: |-
   Naize pe mere bhaai ka hai sar beparda hue baazaar meiṅ ham
   Aankheṅ lahu se bhar gayiṅ waaris bhi ab koi nahiṅ
   Roya falak royi zamiṅ kehti thi Zainab ae laiṅ
-# source_id: nohayonline:23ea5a663f381fc0e81f
-# source_url: https://www.nohayonline.com/details_content.php?id=2957
-# raw_sha256: d63152dc1e7065191a12d7bccaeae9d5a57c3d66f29d61735cc3b161de2fb9ed
-# source_id: ziyaraat:bac0ba51e9e7268de313
-# source_url: https://www.ziyaraat.net/api/noha/313
-# raw_sha256: cd42b9dc376358ab4964c6e30e31d35226d767a965efef7e16ed16d210ef7b5b
 ---
 
 نہ مارو نہ مارو نہ مارو

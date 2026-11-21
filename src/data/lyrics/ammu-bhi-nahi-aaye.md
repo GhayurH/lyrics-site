@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Naaloṅ se Sakina ke muṅh ko hai jigar aaya
   Khaamoshi Anis-e-gham ye qalb na phat jaaye
-# source_id: nohayonline:2042ef317a5f33ee0a08
-# source_url: https://www.nohayonline.com/details_content.php?id=10
-# raw_sha256: d9f8d25643bac94ce73ad3733699f7c66a2588a777376f3f6b3b066dd422f353
 ---
 عمو بھی نہیں آئے بابا بھی نہیں آئے
 کیا بات ہے دریا پر جو جائے وہ رہ جائے

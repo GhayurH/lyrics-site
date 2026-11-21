@@ -80,9 +80,6 @@ romanLyrics: |-
   Diye Zainab ne ro ro kar dilaase
   Sunaaye saare manzar Karbala ke
   Tumhaari lut gayi amma kameini
-# source_id: nohayonline:67e380002151d97ff0c7
-# source_url: https://www.nohayonline.com/details_content.php?id=2654
-# raw_sha256: d06d35cf4055fcf95898bf1df07351109e02d4c36866ff511af06b2386892095
 ---
 قافلہ زنداں سے چھٹ کر جب مدینے آ گیا
 دفعتاً بابِ مدینہ پر جو نقارہ بجا

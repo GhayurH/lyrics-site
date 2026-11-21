@@ -72,9 +72,6 @@ romanLyrics: |-
   Abbas-e-bawafa ka dunya se ab safar hai
   Lekin lahu se apne woh likh ke jaa raha hai
   Ghaazi hai bawafa hai
-# source_id: nohayonline:50023901a13c33e0d93a
-# source_url: https://www.nohayonline.com/details_content.php?id=2421
-# raw_sha256: f7af940491cbd413a3022d569feccdfb05b185db8bcc31f821f1e90e3dd7a61c
 ---
 
 اے علمدار حسین وا عباسا

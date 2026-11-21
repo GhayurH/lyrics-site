@@ -1,132 +1,81 @@
 ---
-title: "جنگل میں بھرے گھر کو لٹا آئی ہے زینب"
-alternateTitle: "Ae Shehr-e-Madina"
+title: "کیا تجھ سے کہے حالِ سفر زینبِ مضطر"
+alternateTitle: "Ay Shehre Madina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mazhar Abidi"
-reciter: "Farhan Ali Waris"
+poet: "Saeed Shaheedi"
 tags: []
-aliases: ["Ay Shehre Madina"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Jangal meiṅ bhare ghar ko luta aayi hai Zainab
-  Ae Shehr-e-Madina
-  Abid ko kisi tarah bacha laayi hai Zainab
+  Kya tujhse kahe haal e safar zainabe muztar
+  Ay shehr-e-madina
 
   1
-  Na Qasim o Akbar rahe bhai bhi sidhaare
-  Sab hi gaye maare
-  Begor unheiṅ dasht meiṅ chhor aayi hai Zainab
-  Ae Shehr-e-Madina
+  Laut aayi hoo mai apne bhare ghar ko luta kar
 
   2
-  Wo shaam-e-gharibaṅ ho ya wo Shaam ka bazaar
-  Abid rahe laachaar
-  Sab zakhm isi qalb meiṅ bhar laayi hai Zainab
-  Ae Shehr-e-Madina
+  Athara baras naazon se maine jise paala
+  Wo gaysuon wala
+  Dunya se gaya seene pa phal barchi ka khakar
 
   3
-  Kya kya na sitam raah meiṅ saadaat ne jhela
-  Maiṅ tujh se kahuṅ kya
-  Baaghi ki behan Shaam meiṅ kehlaayi hai Zainab
-  Ae Shehr-e-Madina
+  Darwaze pe qaime ke mai majboor khadi thi
+  Aur dekh rahi thi
+  Jab sibte payambar ke galay par chala khanjar
 
   4
-  Parda jo sikhaati rahi wo Bibi khule sar
-  Phirti rahi dar dar
-  Bazaaroṅ meiṅ darbaaroṅ meiṅ ho aayi hai Zainab
-  Ae Shehr-e-Madina
+  Thay shah jise pyar se seene pa sulaate
+  Aur naaz uthaate
+  Zindan ke andhere mein usay aayi hoo khokar
 
   5
-  Aa ja tu kanizi meiṅ meri bola sitamgar
-  Ae shaah ki dukhtar
-  Ye lamha wohi tha jahaṅ ghabraayi hai Zainab
-  Ae Shehr-e-Madina
+  Bache hi nahi saath mai kis tarha se jaaun
+  Ye soch rahi hoo
+  Ghar dekhungi jab khaali to sabr aayega kiunkar
 
   6
-  Zindaṅ meiṅ kahiṅ kho gaya bhai ka nagina
-  Maasum Sakina
-  Do baaliyaṅ zindaan se le aayi hai Zainab
-  Ae Shehr-e-Madina
-
-  7
-  Zindaṅ se riha hoke bhi baaqi hai asiri
-  Matam kar tu bhi
-  Rassi ke nishaaṅ is liye le aayi hai Zainab
-  Ae Shehr-e-Madina
-
-  8
-  Ye zakhm mere qalb ka jine nahiṅ dega
-  Hai zulm hi aisa
-  Shabbir sar-e-dasht hai ghar aayi hai Zainab
-  Ae Shehr-e-Madina
-
-  9
-  Puchhegi yehi Fatema Sughra abhi mujh se
-  Akbar nahiṅ aaye
-  Dukhiya ke sawaaloṅ se hi ghabraayi hai Zainab
-  Ae Shehr-e-Madina
-# source_id: nohayonline:4da4842066a92c7502ed
-# source_url: https://www.nohayonline.com/details_content.php?id=982
-# raw_sha256: fe3ed89a57ffbc0f11093d98e034bf84f639211f593aba10bd97a5ef93a819b0
+  Dil tham ke rote thay saeed ahle madina
+  Jab kehti thi dukhya
+  Mai aayi hoo amma ke bhare ghar ko lutakar
 ---
 
-جنگل میں بھرے گھر کو لٹا آئی ہے زینب
+کیا تجھ سے کہے حالِ سفر زینبِ مضطر
 اے شہرِ مدینہ
-عابد کو کسی طرح بچا لائی ہے زینب
 
 ۱
-نہ قاسم و اکبر رہے بھائی بھی سدھارے
-سب ہی گئے مارے
-بے گور انہیں دشت میں چھوڑ آئی ہے زینب
-اے شہرِ مدینہ
+لوٹ آئی ہوں میں اپنے بھرے گھر کو لُٹا کر
 
 ۲
-وہ شامِ غریباں ہو یا وہ شام کا بازار
-عابد رہے لاچار
-سب زخم اسی قلب میں بھر لائی ہے زینب
-اے شہرِ مدینہ
+اٹھارہ برس نازوں سے میں نے جسے پالا
+وہ گیسوئوں والا
+دُنیا سے گیا سینے پہ پھل برچھی کا کھا کر
 
 ۳
-کیا کیا نہ ستم راہ میں سادات نے جھیلا
-میں تجھ سے کہوں کیا
-باغی کی بہن شام میں کہلائی ہے زینب
-اے شہرِ مدینہ
+کیا تُجھ سے کہے ۔۔۔
+دروازے پہ خیمے کے میں مجبور کھڑی تھی
+اور دیکھ رہی تھی
+جب سبطِ پیعمبر کے گلے پر چلا خنجر
 
 ۴
-پردہ جو سکھاتی رہی وہ بی‌بی کھلے سر
-پھرتی رہی در در
-بازاروں میں درباروں میں ہو آئی ہے زینب
-اے شہرِ مدینہ
+کیا تُجھ سے کہے ۔۔۔
+تھے شاہ جسے پیار سے سینے پہ سُلاتے
+اور ناز اُٹھاتے
+زنداں کے اندھیرے میں اُسے آئی ہوں کھو کر
 
 ۵
-آ جا تو کنیزی میں میری بولا ستمگر
-اے شاہ کی دختر
-یہ لمحہ وہی تھا جہاں گھبرائی ہے زینب
-اے شہرِ مدینہ
+کیا تُجھ سے کہے ۔۔۔
+بچے ہی نہیں ساتھ میں کس طرح سے جائوں
+یہ سوچ رہی ہوں
+گھر دیکھوں گی جب خالی تو صبر آئے گا کیونکر
 
 ۶
-زنداں میں کہیں کھو گیا بھائی کا نگینہ
-معصوم سکینہ
-دو بالیاں زندان سے لے آئی ہے زینب
-اے شہرِ مدینہ
+کیا تُجھ سے کہے ۔۔۔
+دل تھام کے روتے تھے سعید اہلِ مدینہ
+جب کہتی تھی دُکھیا
+میں آئی ہوں اماں کے بھرے گھر کو لُٹا کر
 
 ۷
-زنداں سے رہا ہوکے بھی باقی ہے اسیری
-ماتم کر تو بھی
-رسی کے نشاں اس لئے لے آئی ہے زینب
-اے شہرِ مدینہ
-
-۸
-یہ زخم میرے قلب کا جینے نہیں دے گا
-ہے ظلم ہی ایسا
-شبیر سرِ دشت ہے گھر آئی ہے زینب
-اے شہرِ مدینہ
-
-۹
-پوچھے گی یہی فاطمہ صغرا ابھی مجھ سے
-اکبر نہیں آئے
-دکھیا کے سوالوں سے ہی گھبرائی ہے زینب
-اے شہرِ مدینہ
+کیا تُجھ سے کہے ۔۔۔

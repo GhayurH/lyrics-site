@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Puchha gaya jab Shah se kiuṅ kham hai kamar Maula
   Bole ke uthaaya tha laasha Ali Akbar ka
-# source_id: nohayonline:b80d7c17343d25edec37
-# source_url: https://www.nohayonline.com/details_content.php?id=1597
-# raw_sha256: 713b54ce45d5c666f730fe6c8b37e41e32f41b2e987318e144ebce97fb1d82e2
 ---
 اس بات سے ظاہر ہے رتبہ علی اکبر کا
 ہوتا ہے اذانوں میں چرچہ علی اکبر کا

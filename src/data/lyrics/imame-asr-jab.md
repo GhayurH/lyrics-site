@@ -65,9 +65,6 @@ romanLyrics: |-
   Parhe jab Shadmaṅ barpa ho girya
   Yehi to farz hai ahl-e-wafa ka
   Alam Abbas Ghaazi ka uthaaeṅ
-# source_id: nohayonline:6e2d9999574658023a4e
-# source_url: https://www.nohayonline.com/details_content.php?id=3174
-# raw_sha256: c47e28653186b31053678eabb187bf2b1547e0e4df6af916adbb8152e6bc0638
 ---
 
 امام عصر جب تشریف لائیں

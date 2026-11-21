@@ -1,10 +1,10 @@
 ---
-title: خط فاطمہ صغریٰ نے یہ بابا کو لکھا ہے
-alternateTitle: Khat Fatema Sughra
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "خط فاطمہ صغریٰ نے یہ بابا کو لکھا ہے"
+alternateTitle: "Khat Fatema Sughra"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -52,13 +52,7 @@ romanLyrics: |-
   7
   Dekha hai Hasan Sadiq Rehaan ke nauhoṅ meiṅ
   Ashkoṅ ka samandar hai jo palkoṅ pe ruka hai
-reciter: Hasan Sadiq
-# source_id: nohayonline:e366739679a87856e29a
-# source_url: https://www.nohayonline.com/details_content.php?id=619
-# raw_sha256: fd4e9142f0ead508ce129113d7969e401cdafaba749a5de2009dae7126101164
-# source_id: ziyaraat:a9929f8bdafe3e8cfc36
-# source_url: https://www.ziyaraat.net/api/noha/1250
-# raw_sha256: ec890bf563b42395b1c071c6663ca4896370fc17c0c2789ab8ab5558714bd4f1
+reciter: "Hasan Sadiq"
 ---
 
 خط فاطمہ صغریٰ نے یہ بابا کو لکھا ہے

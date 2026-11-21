@@ -67,9 +67,6 @@ romanLyrics: |-
   Thaam le barh ke Shah ke alam ko
   Parhta reh yuṅhi noha tu Shah ka
   Sabr karna meri jaan Sakina
-# source_id: nohayonline:2cb0bd951ce91c55d51f
-# source_url: https://www.nohayonline.com/details_content.php?id=993
-# raw_sha256: 93ac46d136a997ccdca9eacb1a526e91bbe87265b66d158f63f7b0ec8a5d3aba
 ---
 ہائے سکینہ ہائے سکینہ
 صبر کرنا میری جان سکینہ

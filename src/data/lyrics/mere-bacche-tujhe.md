@@ -59,9 +59,6 @@ romanLyrics: |-
   Aaye haiṅ Nayyar o Aamir bhi salaami ke liye
   Ham to paida hi hue teri ghulaami ke liye
   Maaoṅ behnoṅ ka sharaf teri kanizi Zainab
-# source_id: nohayonline:1ae4e9e91e793d4e97ca
-# source_url: https://www.nohayonline.com/details_content.php?id=3592
-# raw_sha256: 9cf30bddec7825372466eaa2095b41948e0588d625e2dfba671a8673cf8bbeb7
 ---
 فرش مجلس کا کہیں بچھتا ہے جب بھی زینب
 میرے بچے تجھے دیتے ہیں سلامی زینب

@@ -79,9 +79,6 @@ romanLyrics: |-
   Tohfa-e-maut jo maashuq se aashiq ko mila
   Kaamyaabi ka ye andaaz niraala dekha
   Barh ke aashiq ne kaha fuzto berabbil Kaaba
-# source_id: nohayonline:c044e8b54c30bf4dc01a
-# source_url: https://www.nohayonline.com/details_content.php?id=419
-# raw_sha256: f359b06cd5ecaf7bdfa21191a3765697315be535bf804921549e25dfeea7f8fc
 ---
 
 یا علی یا علی یا علی

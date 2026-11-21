@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Mashhad ki ziyaarat se musharrab hua Izzat
   Ab rauza-e-Abbas par bulwaao Sakina
-# source_id: nohayonline:f0c329e84db8e2e150fb
-# source_url: https://www.nohayonline.com/details_content.php?id=1057
-# raw_sha256: 8666d697d2dced816bbb6e91b0820f80fb92c874188e0db251f50a0b19f8a689
 ---
 
 زینب کی صدا تھی کہ نہ تڑپاؤ سکینہ

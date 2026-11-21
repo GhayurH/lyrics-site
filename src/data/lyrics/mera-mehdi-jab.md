@@ -58,9 +58,6 @@ romanLyrics: |-
   Azaadaari ka munkir hai koi sajde ka munkir hai
   Takallum tegh-e-Haider ki wo donoṅ par chalaayega
   Mera Mehdi jab aayega
-# source_id: nohayonline:b5f3f2e4375036eaaab7
-# source_url: https://www.nohayonline.com/details_content.php?id=2557
-# raw_sha256: 5d0b82d0e3e68820699c8eb3e2b4fabbc4195096954c6af06f90d430078a4d1a
 ---
 کہا زہرا نے تربت میں مجھے کب چین آئے گا
 میرا مہدی جب آئے گا

@@ -10,9 +10,6 @@ reciter: "Mir Arif Ali"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:08475b81b08d8129a4e5
-# source_url: https://www.nohayonline.com/details_content.php?id=3399
-# raw_sha256: 1ee39f5f28fa4e953da36b6b2b97b31885015d1178e7b59950a9fe95cd1c716a
 romanLyrics: |-
   Ali Ali maula maulana Ali
   Ali Ali maula maula maulana Ali

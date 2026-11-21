@@ -1,10 +1,10 @@
 ---
-title: اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے
-alternateTitle: Utha Koi Janaza
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے"
+alternateTitle: "Utha Koi Janaza"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []
@@ -36,12 +36,6 @@ romanLyrics: |-
   6
   Kufe ka zarra zarra rota hai khuṅ ke aaṅsu
   Mehrum ho rahe haiṅ Hasnain ab pidar se
-# source_id: nohayonline:1d33ebd795fcacec3847
-# source_url: https://www.nohayonline.com/details_content.php?id=512
-# raw_sha256: 82250828f51f71c0bd3274232f053492704413828a77a8a94b8ff1d85e463a9f
-# source_id: ziyaraat:c908925cce59a489d8a3
-# source_url: https://www.ziyaraat.net/api/noha/579
-# raw_sha256: 17cd3e8ef340bad282766dd3339190412e8e4b2a5ed467b5a89a91a930ebe700
 ---
 اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے
 حسرت برس رہی ہے ایک ایک بام و در سے

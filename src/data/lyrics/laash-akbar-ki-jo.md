@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Shauq-e-ziyaarat meiṅ ye jite haiṅ Hasan aur Ahsan
   Rashk qismat jo hameiṅ rauze pe bulwaaye Husain
-# source_id: nohayonline:1edd7446ba01b7e9e363
-# source_url: https://www.nohayonline.com/details_content.php?id=912
-# raw_sha256: 9b7685d1a5638a6f3504454f7d15e6c61a806e655506525ecf76e36424e6fad2
 ---
 لاش اکبر کی جو مقتل سے اٹھا لائے حسین
 پر لہو سینے کا ماں سے نہ چھپا پائے حسین

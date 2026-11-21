@@ -11,9 +11,6 @@ tags: []
 aliases:
   - "Besar Jab Apne Baap Ko Dekha Nashaib Mein"
 published: true
-# source_id: nohayonline:52edc25b6e1abb035e7a
-# source_url: https://www.nohayonline.com/details_content.php?id=1748
-# raw_sha256: 38df8ac25255fa52f57d28d42a954f1c612c8506bc9d6df2c615b6435b4fc015
 romanLyrics: |-
   sunsaan ban wo raat wo uthta hua dhuaṅ
   nikli padar ko dhundne nanhi si ek jaaṅ

@@ -44,9 +44,6 @@ romanLyrics: |-
   7
   Sheh ka gham jab se Mujahid ko mila
   Har gham o fikr-e-jahaaṅ jaati rahi
-# source_id: nohayonline:d8a44a71fe811710ce48
-# source_url: https://www.nohayonline.com/details_content.php?id=486
-# raw_sha256: 928c69e1cdfbd577e5362e8a55e8137a5986644bdfa3e31996dd233207968058
 ---
 یاد جو بے شیر کی آتی رہی
 رات بھر ماں دل کو بہلاتی رہی

@@ -73,9 +73,6 @@ romanLyrics: |-
   Haye itne
   Zaalimoṅ ne tamaanche lagaye
   Haye haye
-# source_id: nohayonline:0c456ab5e5bab77e3b2d
-# source_url: https://www.nohayonline.com/details_content.php?id=1604
-# raw_sha256: 6f732e428b727b0ae69485c8362bbc43b3f81ca72a9d9fb01fd21f2c05916225
 ---
 
 لاشہ عباس پر شہ جو آئے

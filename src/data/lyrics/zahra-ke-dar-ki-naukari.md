@@ -49,9 +49,6 @@ romanLyrics: |-
   Aalim ko har khatib ko zaakir ko maddaah khwaab ko
   Shaair ko soz khwaaṅ ko har maatami jawaan ko
   Bunyaad-e-zarf par mili Zahra ke dar ki naukari
-# source_id: tajpoints:2925d18a68e11265bead
-# source_url: https://tajpoints.com/2018/03/zahra-ke-dar-ki-nukari.html
-# raw_sha256: f8bec053385129fc0bb076aa2daba5ed66fb9b04e2c50dce2ff873a346968738
 ---
 
 کرتے ہیں سب ولی نبی زہرا کے در کی نوکری

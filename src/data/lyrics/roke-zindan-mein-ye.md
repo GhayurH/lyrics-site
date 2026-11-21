@@ -57,9 +57,6 @@ romanLyrics: |-
   Baap ke zikr abhi hote the
   Abhi karti thi wo baateṅ mujh se
   Nind shaayad ke lagi hai usko
-# source_id: nohayonline:034c99e09abcb53cb2fa
-# source_url: https://www.nohayonline.com/details_content.php?id=2019
-# raw_sha256: 4479970a7eac98ff660a4e6f682eaa9357a4a2553c511b32e8602853390a770a
 ---
 
 روکے زندان میں بولی بانو

@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Kahiyo Sughra se ke mushkil hai watan meiṅ aana
   Ab to Bibi is jangal ko basaaya maiṅ ne
-# source_id: nohayonline:1cc3f2919d013069d9e5
-# source_url: https://www.nohayonline.com/details_content.php?id=1256
-# raw_sha256: 0800aac2f653ccc4af8aa7955b1ebdb554ba94d78b9d99e5017add07c03482d5
 ---
 ذکرِ شہ کرکے محبوں کو رلایا میں نے
 اپنا گھر مجرای جنت میں بنایا میں نے

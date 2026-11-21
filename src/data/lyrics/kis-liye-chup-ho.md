@@ -80,9 +80,6 @@ romanLyrics: |-
   Kaash khud keh deṅ Payambar ye Dabir o Shadmaaṅ
   Haiṅ tumhaare maatami in ko jaza do Fatema
   Haaye ya Zehra haaye ya Zehra
-# source_id: nohayonline:d05be2ee0082a3caae1c
-# source_url: https://www.nohayonline.com/details_content.php?id=2242
-# raw_sha256: 6e2198804bf51a0e9ad8e22389016f25e36eda1f0b883522077b58942fc6ab1e
 ---
 
 کس لئے چپ ہو مجھے اتنا بتادو فاطمہ

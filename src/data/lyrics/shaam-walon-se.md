@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Baith kar parhti hai zindaṅ meiṅ namaazeṅ wo Bilal
   Tor di yuṅ Gham-e-Abbas ne Zainab ki kamar
-# source_id: nohayonline:65b23eaf069e8184ac00
-# source_url: https://www.nohayonline.com/details_content.php?id=2636
-# raw_sha256: f5d9b9318790322f5680e3f8a347f8c534acbee29e5fe381ebee3380dd0ba260
 ---
 شام والوں سے یہ زینب نے کہا رو رو کر
 میں محمد کی نواسی ہوں نہ چھینو چادر

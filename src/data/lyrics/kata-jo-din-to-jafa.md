@@ -43,9 +43,6 @@ romanLyrics: |-
 
   Kata jo din to jafa fauj ki tamaam hui
   Charaagh bujh gaya Zehra ka jab to shaam hui
-# source_id: nohayonline:43a5c58d608694668304
-# source_url: https://www.nohayonline.com/details_content.php?id=1156
-# raw_sha256: b19db952f4eb4b11c45ee376b8c181a3e3111866d997fc4a537162715e4f5613
 ---
 کٹا جو دن تو جفا فوج کی تمام ہوئی
 چراغ بجھ گیا زہرا کا جب تو شام ہوئی

@@ -1,10 +1,10 @@
 ---
-title: ماں دُعا کرتی تھی اکبر تیرا سہرا دیکھوں
-alternateTitle: Maa Dua Karti Thi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں دُعا کرتی تھی اکبر تیرا سہرا دیکھوں"
+alternateTitle: "Maa Dua Karti Thi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []
@@ -33,12 +33,6 @@ romanLyrics: |-
   5
   Raat din karta huṅ Rehaan ye hi ek dua
   Karbala dekhuṅ Najaf aur Madina dekhuṅ
-# source_id: nohayonline:c973e6d37f8488fa4fdc
-# source_url: https://www.nohayonline.com/details_content.php?id=607
-# raw_sha256: ea4bb6730277c68303da2b8dc864cfa59486b9e6cee6991d3105662d31c8f3eb
-# source_id: ziyaraat:fbc9fd353555818e09ab
-# source_url: https://www.ziyaraat.net/api/noha/230
-# raw_sha256: eb95159246392d05684013d774ea4038e7f0b1df60ae11ac6469bb7de3e23742
 ---
 ماں دُعا کرتی تھی اکبر تیرا سہرا دیکھوں
 چاند چھُپ جائے تیرا چاند سا چہرا دیکھوں

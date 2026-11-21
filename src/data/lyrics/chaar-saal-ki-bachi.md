@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ab ye haal hai Ishrat pitti hai sar Bano
   Jab bhi yaad aati hai chaar saal ki bacchi
-# source_id: nohayonline:9de8077a8ed2db7bb3f7
-# source_url: https://www.nohayonline.com/details_content.php?id=2236
-# raw_sha256: af9eb732abae0c22158d0b7b19d79fdb90d46e009de93f6b74b37157c9893486
 ---
 سر جھکائے بیٹھی ہے چار سال کی بچی
 پانی کو ترستی ہے چار سال کی بچی

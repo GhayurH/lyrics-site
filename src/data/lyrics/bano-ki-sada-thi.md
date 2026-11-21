@@ -57,9 +57,6 @@ romanLyrics: |-
   Naazim ki sadaa ho
   Mehshar ka kalaam ban gaya hai aap ki faryaad
   Ae Sayyid-e-Sajjad
-# source_id: nohayonline:d5155455095308e81378
-# source_url: https://www.nohayonline.com/details_content.php?id=642
-# raw_sha256: 1d1c158c441ad20515cbad5f6c6c2591ba0464e4fbb5903d7b5d8822da818a4b
 ---
 
 بانو کی صدا تھی یہی فریاد ہے فریاد

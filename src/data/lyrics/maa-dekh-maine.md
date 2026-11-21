@@ -1,10 +1,10 @@
 ---
-title: گھوڑے سے جب زمین پر آئے شہِ زمن
-alternateTitle: Maa Dekh Maine
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گھوڑے سے جب زمین پر آئے شہِ زمن"
+alternateTitle: "Maa Dekh Maine"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
@@ -81,13 +81,7 @@ romanLyrics: |-
   Hai kis meiṅ itni taab ke maqtal bayaaṅ kare
   Aawaaz ab bhi aati hai dasht-e-qitaal se
   Is Karbala ko arsh-e-mualla bana diya
-reciter: Farhan Ali Waris
-# source_id: nohayonline:956ccf5f4fad2c6c5ab5
-# source_url: https://www.nohayonline.com/details_content.php?id=2378
-# raw_sha256: 42647399597d30db2b4527e5b35430923cf0b350a7e9a1158bb952903600209e
-# source_id: ziyaraat:5f518db90bb053e560fb
-# source_url: https://www.ziyaraat.net/api/noha/1506
-# raw_sha256: 12c390766f2b7ae6011b3c9b6a649ddd96ecb48a258550806d852d5d92ae780c
+reciter: "Farhan Ali Waris"
 ---
 گھوڑے سے جب زمین پر آئے شہِ زمن
 دیکھا کہ بن میں فاطمہ زہرا ہے معجزن

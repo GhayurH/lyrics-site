@@ -67,9 +67,6 @@ romanLyrics: |-
   Laashe ki tarah haathoṅ pe parcham ko utha kar
   Shabbir sada dete the rote hue Akbar
   Jaaṅ waar duṅ tujh par ae mere sher-e-dilaawar
-# source_id: nohayonline:ccc60244f9cc2c0ba025
-# source_url: https://www.nohayonline.com/details_content.php?id=3627
-# raw_sha256: a38c562ccab23ee81f9b30a39973a8e723973fee2fc0c79d60708b603da2f759
 ---
 سر چوم کے عباس کا کہتے رہے سرور
 بتیس برس وار دیے چار برس پر

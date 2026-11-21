@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Dukhzada hai Bober isi gham meiṅ
   Aaj taabut utha hai Maula ka
-# source_id: nohayonline:c9ad87357d9e5175eb84
-# source_url: https://www.nohayonline.com/details_content.php?id=1940
-# raw_sha256: 7a7e0961e00bcf6fb0be66ee04eedf1e9a49e123a3d92ef4cf2cf3ff7f1cf382
 ---
 آج ماتم بپا ہے مولا کا
 ذکر گھر گھر ہوا ہے مولا کا

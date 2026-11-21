@@ -68,9 +68,6 @@ romanLyrics: |-
   Ghamkhwaar ghamgusaar hai na koi bhi arab
   Ye sabr-e-Faatima ka bara bemisaal hai
   Gham se nidhaal ho gaya Muhammad ka Aal hai
-# source_id: nohayonline:c8fe57c40c19ea4b12e8
-# source_url: https://www.nohayonline.com/details_content.php?id=2747
-# raw_sha256: fc2a9688bb505d48ca77795458e2a14154b7e9c93e5c5d508eabe4f12b021fe0
 ---
 
 ہاے عباس پیاسے عباس
@@ -84,7 +81,7 @@ romanLyrics: |-
 فرزند تجھ کو اپنا کہا ہے بتول نے
 
 ۲
-زینب کے ساتھ ساتھ چلی ساری بی‌بیاں
+زینب کے ساتھ ساتھ چلی ساری بیبیاں
 غازی نے بڑے پیار سے دیکھی سواریاں
 آہ و بُکا میں ڈوب گئی یوں نواسیاں
 زینب کو اب ستانے لگی اور اداسیاں

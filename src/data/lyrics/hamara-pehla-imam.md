@@ -78,9 +78,6 @@ romanLyrics: |-
   Hamesha bhejiye laanat bhi Ibn-e-Muljim par
   Is ek baat pe takmil paa chuka hai kalaam
   Allahumma lan qatalata Amirul Mominin
-# source_id: nohayonline:af3d7a4800641d1e0764
-# source_url: https://www.nohayonline.com/details_content.php?id=3705
-# raw_sha256: 87ae6f64ee68399d978434b0a0a2b4ba621afc983dcc1ef9b8151130280b5771
 ---
 
 سلام یا علی سلام یا علی

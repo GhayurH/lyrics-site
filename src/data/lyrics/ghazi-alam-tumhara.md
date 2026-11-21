@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Jawad kar raha hai taazim ke jo sajde
   Ghazi tera alam bhi rauze ka hai nazaara
-# source_id: nohayonline:fc20651f29d2ae571115
-# source_url: https://www.nohayonline.com/details_content.php?id=3012
-# raw_sha256: f276cae54db89108625bf874e352e8c55ca5bf5b71b3ead540e2a877eeeeef78
 ---
 ہمیں جان سے ہے پیارا غازی علم تمہارا
 عباس یہ علم ہے قومی نشاں ہمارا

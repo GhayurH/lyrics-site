@@ -53,9 +53,6 @@ romanLyrics: |-
   Bayaaṅ kya Safdar o Mazhar kareṅge
   Wo manzar kaise lafzoṅ meiṅ likheṅge
   Qalam jab ruk gaya aaṅsu bahaa ke
-# source_id: nohayonline:5c2eeb8c3e93a550ce7c
-# source_url: https://www.nohayonline.com/details_content.php?id=3472
-# raw_sha256: 351e7c967cf658add0ca7027fbbf690f56d9d29aed651a43fcf922739b0cefc0
 ---
 اٹھا کہرام گھر میں فاطمہ کے
 چلی ہے تیغ سر پر مرتضیٰ کے

@@ -1,10 +1,10 @@
 ---
-title: قرآن وہ کتاب ہے جو درسِ انقلاب ہے
-alternateTitle: Quran Wo Kitab Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قرآن وہ کتاب ہے جو درسِ انقلاب ہے"
+alternateTitle: "Quran Wo Kitab Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar / Ali Safdar Rizvi"
 tags: []
@@ -62,12 +62,6 @@ romanLyrics: |-
   Jo Karbala meiṅ tha Rehaan o Sarwar
   Beparda saari thi Aal-e-Payambar
   Ek sar ye kahta tha nok-e-sinaaṅ par
-# source_id: nohayonline:4d69fc1566ae1b4f765f
-# source_url: https://www.nohayonline.com/details_content.php?id=2987
-# raw_sha256: 9911978c72a761d28f6ed7ce13903e1205b3f45475cea02bd30ad9d390d6dc49
-# source_id: ziyaraat:d27a5df4091a797f31a2
-# source_url: https://www.ziyaraat.net/api/noha/29
-# raw_sha256: caeab3041d73375df9e12804b436d0eb0dcf90c5807ab35bb5ee3bc93e742002
 ---
 قرآن وہ کتاب ہے جو درسِ انقلاب ہے
 ہماری درس گاہ ہے سیدھا راستہ

@@ -61,9 +61,6 @@ romanLyrics: |-
   Maqbuliyat ko Aamir o Akhtar ye kam nahiṅ
   Wo kaunsi hai aankh jo majlis meiṅ nam nahiṅ
   Nauhe meiṅ kaise keh deṅ asar khatm ho gaya
-# source_id: nohayonline:02cb497dd6d9edc80a5d
-# source_url: https://www.nohayonline.com/details_content.php?id=3110
-# raw_sha256: 097c07fe238b1d32486b1fc5230c2c3104876fa2880404351dd0e0b776347353
 ---
 
 لٹ گیا حسین لٹ گیا حسین

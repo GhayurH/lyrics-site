@@ -1,10 +1,10 @@
 ---
-title: رویا کیا جو پیاس سے اصغر تمام رات
-alternateTitle: Roya Kiya Jo Pyas Se
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رویا کیا جو پیاس سے اصغر تمام رات"
+alternateTitle: "Roya Kiya Jo Pyas Se"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true
@@ -40,12 +40,6 @@ romanLyrics: |-
   7
   Zainab se Shaah kehte the kal qatl hoṅge hum
   Ji bhar ke dekh lo hameṅ khwaahar tamaam raat
-# source_id: nohayonline:ff286f98a333e892311d
-# source_url: https://www.nohayonline.com/details_content.php?id=2189
-# raw_sha256: 1434383fa9ed30b1d54105d141add66ebbe1c038735878ca71602e045c671f4b
-# source_id: ziyaraat:14d26e9faf1753e7970b
-# source_url: https://www.ziyaraat.net/api/noha/2315
-# raw_sha256: 69c97456960b97ffc4e3baf93816209d0169cc156006c6ea41850110e7c68a67
 ---
 رویا کیا جو پیاس سے اصغر تمام رات
 تھا خیمۂ حسین میں محشر تمام رات

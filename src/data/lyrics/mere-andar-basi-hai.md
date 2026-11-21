@@ -53,9 +53,6 @@ romanLyrics: |-
   Bekafan us Sayyid o sardaar par laakhoṅ salaam
   Ek din hoga Takallum us ke khuṅ ka inteqaam
   Muntazir Ibn-e-Ali ki aaj bhi hai Karbala
-# source_id: nohayonline:d148d9dce984aafece7e
-# source_url: https://www.nohayonline.com/details_content.php?id=1007
-# raw_sha256: 89c1e41d9e15ef1e64a7d6cc5b28c8c9a0467b9c1b96bd4844d119259489bff5
 ---
 میں جہاں جاؤں جون میرے اندر بسی ہے کربلا
 بن کے دھڑکن میرے دل میں گونجتی ہے کربلا

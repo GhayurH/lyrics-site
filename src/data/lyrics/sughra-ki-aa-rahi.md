@@ -1,10 +1,10 @@
 ---
-title: مر جائے گی صغرا گھبرائے گی صغرا
-alternateTitle: Sughra Ki Aa Rahi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مر جائے گی صغرا گھبرائے گی صغرا"
+alternateTitle: "Sughra Ki Aa Rahi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Hasan Sadiq"
 tags: []
 aliases: []
@@ -39,12 +39,6 @@ romanLyrics: |-
   Akbar ko sehra chaahe Sakina hi baandh le
   De duṅgi dur hi se dua saath le chalo
   Sab ke liye karuṅgi dua saath le chalo
-# source_id: nohayonline:8f71f4c5c0552b0de823
-# source_url: https://www.nohayonline.com/details_content.php?id=2316
-# raw_sha256: 30072bb7d31f7724b8d6a612a5ae6d96b8e34225f3cbec4f1aa094eedc92c923
-# source_id: ziyaraat:be090d9daac7e4bb0109
-# source_url: https://www.ziyaraat.net/api/noha/1791
-# raw_sha256: 6b015b6a3990ec661f9766e453894e3877d42c63b3fc2e7f8b6ec4118663a174
 ---
 مر جائے گی صغرا گھبرائے گی صغرا
 

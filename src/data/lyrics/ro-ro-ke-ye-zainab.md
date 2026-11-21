@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Uftaad Sohail aisi thi ek ghamzada maaṅ par
   Thi dil ke dharakne ki sada Aun o Muhammad
-# source_id: nohayonline:5686c89142413b5adab0
-# source_url: https://www.nohayonline.com/details_content.php?id=3019
-# raw_sha256: 635b59a3db93bf480e6dda37c6c8be42ea70fe49e9bf54bd975775f4c269b03c
 ---
 رو رو کے یہ زینب نے کہا عون و محمد
 گھر کر گئے ویران میرا عون و محمد

@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Is tarah taqsim Baano ki kamaai ho gayi
   Dasht meiṅ Asghar Sakina Shaam ke zindaan meiṅ
-# source_id: nohayonline:6e8a2b08780982b165ad
-# source_url: https://www.nohayonline.com/details_content.php?id=327
-# raw_sha256: 7c93549313692d2b13e0a6c50cad870747960c0116f370650065653d614b0386
 ---
 رو رہا ہے خود اندھیرا شام کے زندان میں
 رہ گئی تنہا سکینہ شام کے زندان میں

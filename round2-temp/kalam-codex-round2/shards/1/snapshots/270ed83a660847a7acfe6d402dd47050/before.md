@@ -1,0 +1,40 @@
+---
+title: "Inj Turya Karbal Chon Sajjad Beemar Ay"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
+aliases: []
+published: false
+---
+
+Inj Turya Karbal Chon Sajjad Beemar Ay
+
+Phupiyan Da Tay Behna Da Ghazi Day Baad Lokon
+Haye Ay Salaar Ay
+
+Ruk Jaanda Jaadon Vekhe Haye Raaste Sajday
+Mor Bazaaran Day Jaad Aunday Tay Pathar Wasday
+Sut Day Nay Garam Pani Jadon Log Tay Raat Ronda
+Haye Ay Ghamkhwar Ay
+
+Rul Gaiyan Naal Beemar Day Nazaan Palliyan
+Aiytan Quriyan Diyan Rhondiyan Raiyan Kaliyan
+Mangda Reya Lokan Ton Phupiyan Daylayin Chadar
+Haye Vich Bazaar Ay
+
+Taaziyanay Mardaysan Jadon Shaami Aakay
+Bibi Zainab Rayi Bachaoundi Enu Seenay Laakay
+Na Maro Musalmano Beemar Tay Qaidi Ay
+Haye Ay Laachar Ay
+
+Khoon Rohnda Jaway Abid Gal Kapray Kalay
+Hathkariyan Vich Hathan Day Tay Pehri Chalay
+Safran Ch Reya Banda Sajjad Di Maqtalgah
+Haye Har Bazaar Ay
+
+Tere Veeran Da Ay Naukar Tay Gadagar Asghar
+Teriyan Khaas Aatawan Da Ay Milaya Ay Samar
+Kar Maaf Khatawan Nu Bibi Tere Veeran Da
+Haye Ay Azaadar Ay

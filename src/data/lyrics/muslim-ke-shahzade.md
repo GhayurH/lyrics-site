@@ -55,9 +55,6 @@ romanLyrics: |-
   Batla de bas kahaaṅ haiṅ aaqa kaniz zaade
 
   Haye Ibrahim haye Muhammad
-# source_id: nohayonline:886875c38f11a7bedff2
-# source_url: https://www.nohayonline.com/details_content.php?id=354
-# raw_sha256: 02a518ecffb75b44555660ff7884cbac387e839c8a7e2bfce0f3644a39fbf0cc
 ---
 مسلم کے شاہ زادے
 ہائے ابراہیم ہائے محمد

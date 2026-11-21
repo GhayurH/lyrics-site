@@ -64,9 +64,6 @@ romanLyrics: |-
   Kaisi behnoṅ pe judaai ye qayaamat laayi
   Saari behnoṅ ki sadaaoṅ meiṅ tha bhai bhai
   Sun ke Zishan o Raza roya Madina saara
-# source_id: nohayonline:5bd2907354cffb8c24a3
-# source_url: https://www.nohayonline.com/details_content.php?id=2939
-# raw_sha256: 3d7294f8716a27ff52a1b9333aa23f6c0e99b45627c89b41306d47f8542b9abd
 ---
 جب سنا صغرا نے لوٹ آیا وطن میں قافلہ
 ہائے جب پہنچیں تو منظر دیکھ کر رو کے کہا

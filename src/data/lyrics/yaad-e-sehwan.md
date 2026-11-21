@@ -54,9 +54,6 @@ romanLyrics: |-
   11
   Balaaoṅ se sada aazaad tha aazaad hai Sehwan
   Malangoṅ ke diloṅ meiṅ aaj bhi aabaad hai Sehwan
-# source_id: tajpoints:e6bc4102c2ec72d307e0
-# source_url: https://tajpoints.com/2020/04/yaad-e-sehwan-lyrics-in-urdu-and-roman.html
-# raw_sha256: 79b5d0215a37925db630bcc5df4f5d789a757f7ff96ff66af1123fbc79c5d150
 ---
 ۱
 گزشتہ سال دیوانوں کے یہ پرواز کے دن تھے

@@ -52,9 +52,6 @@ romanLyrics: |-
   Tha Bibiyoṅ meiṅ ek hashr barpa
   Gala kataane chala jo pyasa
   Ulat ke masnad bichhi saf-e-gham
-# source_id: nohayonline:a29babf61f91f6e40c66
-# source_url: https://www.nohayonline.com/details_content.php?id=2759
-# raw_sha256: 8a2ef72c91fe47588d243d7ea60ea878a409aa1a593b9116629cd4374191a37e
 ---
 
 عزاے سرور کریں گے ہر دم
@@ -96,6 +93,6 @@ romanLyrics: |-
 
 ۶
 وہ وقتِ رخصت پہ جان زہرا
-تھا بی‌بیوں میں ایک حشر برپا
+تھا بیبیوں میں ایک حشر برپا
 گلا کٹانے چلا جو پیاسا
 الٹ کے مسند بچھی صف غم

@@ -49,9 +49,6 @@ romanLyrics: |-
   Maula ye sher kab hai tukre haiṅ ye jigar ke
   Ye nauha teri beti Sughra ko yaad kar ke
   Ahmed ne keh diya hai Mohsin ne parh diya hai
-# source_id: nohayonline:8df1341ee27c7dfc8f8c
-# source_url: https://www.nohayonline.com/details_content.php?id=687
-# raw_sha256: a0900893a7aaebe3aa17a67752432ac0779f812548463de63108fab0ceeec3d1
 ---
 
 ویران اُداس گھر میں صغریٰ کی یہ صدا ہے

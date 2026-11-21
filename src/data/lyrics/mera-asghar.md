@@ -58,9 +58,6 @@ romanLyrics: |-
   Maaṅ Takallum ye ro ke kehti thi
   Ab to aankhoṅ ko khol de beta
   Mil gayi hai mujhe rida Asghar
-# source_id: nohayonline:e3ef975d44ec34f517fc
-# source_url: https://www.nohayonline.com/details_content.php?id=2415
-# raw_sha256: 61d25d66f5d4e11872ccaafbb755ec7e7e2b2c8db73f1ad9b3bd3d24caccded5
 ---
 
 ماں یہ مقتل میں رو کے کہتی تھی
@@ -88,7 +85,7 @@ romanLyrics: |-
 تیرا پرسہ نہیں لیا اصغر
 
 ۴
-بی‌بیوں دیکھو میرے بچے کو
+بیبیوں دیکھو میرے بچے کو
 کر لیا بند اس نے آنکھوں کو
 ماں کو نامحرموں کے مجمے میں
 کیسے دیکھے گا بے ردا اصغر

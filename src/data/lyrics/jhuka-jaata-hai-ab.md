@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Ghayour aahista aahista to ye sab kuchh hua ab tak
   Magar chalti nahiṅ khanjar ki dhaar aahista aahista
-# source_id: nohayonline:f28a40ff6bc18743ce0b
-# source_url: https://www.nohayonline.com/details_content.php?id=2031
-# raw_sha256: 6c97e34cd71e3b6f4d1c260dfb38397059b6f4293d82c4c7f7d0eea95ba2ba59
 ---
 جھکا جاتا ہے اب جسم فگار آہستہ آہستہ
 زمیں پر آ رہا ہے اک سوار آہستہ آہستہ

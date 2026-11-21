@@ -78,9 +78,6 @@ romanLyrics: |-
   Naize pe sar Husain ka us waqt ro para
   Laasha latakta dekha jo bhai ka baam par
   Waiz tarap ke roye Shahanshaah-e-bahr o bar
-# source_id: nohayonline:3fd0fc9deebed2ea817e
-# source_url: https://www.nohayonline.com/details_content.php?id=3149
-# raw_sha256: fdefc97a7d69202efdc58debf5373783c0aa4e33a4580156ca4e2f1e6341f2f6
 ---
 
 رویا کہاں کہاں سر مظلوم کربلا

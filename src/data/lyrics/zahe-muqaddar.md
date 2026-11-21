@@ -34,9 +34,6 @@ romanLyrics: |-
   5
   Yeh kehna Aaqa bahut se aashiq tarapte se chhor aaya huṅ maiṅ
   Bulaawe ke muntazir haiṅ lekin na subh o aaya na shaam aaya
-# source_id: tajpoints:cbdfbca83662edb227ef
-# source_url: https://tajpoints.com/2021/05/zahe-muqaddar-syed-mudassir-mehdi.html
-# raw_sha256: 5ff682bee2ed607057ee824731a52b67817b645bff8d0d3cf030481306322cf5
 ---
 
 زہے مقدر حضورِ حق سے سلام آیا پیام آیا

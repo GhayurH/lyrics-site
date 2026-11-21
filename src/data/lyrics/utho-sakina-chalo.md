@@ -1,10 +1,10 @@
 ---
-title: لپٹ کے تُربت سے بولی مادر
-alternateTitle: Utho Sakina Chalo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لپٹ کے تُربت سے بولی مادر"
+alternateTitle: "Utho Sakina Chalo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
 tags: []
@@ -63,12 +63,6 @@ romanLyrics: |-
   Na puchh barpa thi ek qayaamat
   Rabaab kehti thi jab tarap kar
   Utho Sakina chalo watan ko
-# source_id: nohayonline:8afe2fa16e22a66e3e34
-# source_url: https://www.nohayonline.com/details_content.php?id=428
-# raw_sha256: 35f137c7d2fcee83dbe5fd7da5143d9b73582d762af2742d5d7129c839d0c2bc
-# source_id: ziyaraat:50cb9e933b6b90ac1661
-# source_url: https://www.ziyaraat.net/api/noha/416
-# raw_sha256: 8baf061982ee3776cdfc19bdb2b8d2d62b4aaa764f0a8cd3eda84b9549bdc8bc
 ---
 لپٹ کے تُربت سے بولی مادر
 اُٹھو سکینہ چلو وطن کو

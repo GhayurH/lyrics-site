@@ -29,9 +29,6 @@ romanLyrics: |-
   4
   Khwaab meiṅ dulhe ko Karbal meiṅ sajaaya Najafi
   Jaa rahi qabr meiṅ dulhan ko bhi taqdir liye
-# source_id: nohayonline:4030a47fbfe82efc1c89
-# source_url: https://www.nohayonline.com/details_content.php?id=2960
-# raw_sha256: 1020e7c56657bd2d40bf96bf455a1691e3b434557febd525c37c3b4a51376b79
 ---
 ہائے بیمار چلے پاؤں میں سے زنجیر لیے
 ننگے سر حیدرِ کرار کی جاگیر لیے

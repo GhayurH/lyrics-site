@@ -64,9 +64,6 @@ romanLyrics: |-
   Mahw-e-girya thi Zainab-e-muztar
   Thaam ke dil Ali ye kahte the
   Mera viraan ghar hua Zehra
-# source_id: nohayonline:bfe9dacb94b82738cdd8
-# source_url: https://www.nohayonline.com/details_content.php?id=2274
-# raw_sha256: eca81e2b2a5f9786506a2353b8889f8efab6e71d6db946ea6e841dbb37ab48d8
 ---
 یہ مزارِ نبی سے آئی صدا
 حال کیا ہو گیا تیرا زہرا

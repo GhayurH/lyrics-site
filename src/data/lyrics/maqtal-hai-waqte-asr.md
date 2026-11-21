@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Zad par hai aabru-e-kalaam-e-Khuda Hilaal
   Maqtal meiṅ aayatoṅ ka sahaara Husain hai
-# source_id: nohayonline:3d5d961f285c276ae60b
-# source_url: https://www.nohayonline.com/details_content.php?id=868
-# raw_sha256: d988ca253a5de3e376e60e54f611223d330c79af3a4892a6c97e18718ab73d48
 ---
 مقتل ہے وقت عصر ہے تنہا حسین ہے
 ظالم ہے بے شمار اکیلا حسین ہے

@@ -55,9 +55,6 @@ romanLyrics: |-
   Khanjar tale bhi Sheh ko Takallum yehi tha gham
   Kitne gharib ho gaye Karb o Bala meiṅ hum
   Khanjar rawaṅ tha parhte the Maula ye marsiya
-# source_id: nohayonline:8498ee46e55938dd4f09
-# source_url: https://www.nohayonline.com/details_content.php?id=2371
-# raw_sha256: d5a5faf5afdb9df8b04255aa8d7b2fe6876027aebea6960bfaa5ec0213f715c0
 ---
 
 ہائے حسیں ہائے حسیں

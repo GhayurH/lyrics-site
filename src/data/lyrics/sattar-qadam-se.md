@@ -48,9 +48,6 @@ romanLyrics: |-
   Laasha Furaat par kabhi utha kabhi gira
   Karb o Bala meiṅ hashr Takallum bapa hua
   Abbas tum kahaaṅ ho sada jab ye sheh ne di
-# source_id: nohayonline:c1c99d901561e2dba020
-# source_url: https://www.nohayonline.com/details_content.php?id=1372
-# raw_sha256: 14d041e65682b25826f5f1cd9fe26d943474cca08ec88030ede0665e77d269fa
 ---
 پیاسے گلے پہ بھائی کے چلتی رہی چھری
 ستّر قدم سے پیاسی بہن دیکھتی رہی

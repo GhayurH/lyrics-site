@@ -40,9 +40,6 @@ romanLyrics: |-
   Ye qissa-e-husn o ishq nahiṅ
   Salman ye gham ka daftar hai
   Mohsin ye qalam se kehti hai tahrir
-# source_id: nohayonline:ca9dda73e4e93c07cfe9
-# source_url: https://www.nohayonline.com/details_content.php?id=2483
-# raw_sha256: 9f7a00ad023581eedf396113051d05dff677d5facf698d501d22cd11faab10b0
 ---
 ذرا آہستہ چل
 

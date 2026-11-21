@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Jis dam gulu-e-Asghar-e-beshir chhid gaya
   Na jaane kitne tir chhube qalb-e-shaah meiṅ
-# source_id: nohayonline:44f0d96990ce40c43811
-# source_url: https://www.nohayonline.com/details_content.php?id=2977
-# raw_sha256: d5d1f9e078039cc767474ef263d4ce3da7005cb464704f9c2abbe0ea5d8b682e
 ---
 لیلیٰ کا چاند ڈوب گیا قتل گاہ میں
 اب روشنی نہیں شہ دیں کی نگاہ میں

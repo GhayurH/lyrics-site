@@ -40,6 +40,7 @@ const stages = mode === "--check"
       review,
     ]
   : [
+      ["Repair mechanical whitespace in changed sources", "tidy-whitespace.mjs", "--write", "--changed"],
       ["Normalize Bibi spelling", "normalize-bibi.mjs", "--write"],
       ["Normalize Roman Urdu spelling", "normalize-roman.mjs", "--write"],
       ["Reconcile Basta title labels", "sync-basta-index.mjs"],

@@ -61,9 +61,6 @@ romanLyrics: |-
   Had-e-iltija ki hui khatm Ishrat
   Chala qaafila barh gayi gham ki shiddat
   Yehi bain karti rahi bint-e-Sarwar
-# source_id: nohayonline:d300d0413e8fb44336d7
-# source_url: https://www.nohayonline.com/details_content.php?id=1360
-# raw_sha256: 67e5f59b1aa876ebb89c79ba19bce9c7a6f286e8c24cae4cf10c8a70f5f2da96
 ---
 سکینہ کے یہ بین تھے رن میں رو کر
 چلو کرب و بلا سے چلیں بھائی اکبر

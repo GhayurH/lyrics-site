@@ -11,6 +11,14 @@ aliases: []
 published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
+  Yeh Jo Panja Hai Ik Bulandi Par
+  Hai Yeh Shan-e-Alam Sar-e-Manzar
+  Sar Bulandi Ka Ik Ishara Hai
+  Yeh Jo Mashkeza-e-Sakina Hai
+  Pyasay Bachoon Ka Yeh Safena Hai
+  Ashiqo Saya-e-Dua Mein Chalo
+  Haan Chalo Bazm-e-Bawafa Mein Chalo
+
   Aaj bhi ye alam hamara hai
   Har azadar ka sahara hai
 
@@ -45,9 +53,6 @@ romanLyrics: |-
   8
   Hum haiṅ Sarwar Hilal bahr-e-aza
   Ta qayamat yehi sahara hai
-# source_id: nohayonline:4c1121f408a9ff13e658
-# source_url: https://www.nohayonline.com/details_content.php?id=2607
-# raw_sha256: 28a381e563ed5188e07ad9547fb8a57eb9e617c293b08ecb8f951ac524dca774
 ---
 آج بھی یہ علم ہمارا ہے
 ہر عزادار کا سہارا ہے

@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Guzre isi tarah se musibat meiṅ tin roz
   Ikkiswiṅ shab aayi to mahshar hua bapa
-# source_id: nohayonline:8d091c8cbdd719244f47
-# source_url: https://www.nohayonline.com/details_content.php?id=2077
-# raw_sha256: b38faf7c65f1d61c139cb646fded1d7f79edd4d1d2b7d652f5f9a0d26d61123b
 ---
 زخمی ہوا جو سجدے میں دامادِ مصطفی
 ایک حشر سا نمازیوں میں ہو گیا بپا

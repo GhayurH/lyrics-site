@@ -33,9 +33,6 @@ romanLyrics: |-
   Din ko Irfan zinda is tarah shah ne kiya
   Ghar lutaaya sar kataaya Ibn-e-Khaibar-gir ne
   Ibteda bhai ne ki aur inteha hamshir ne
-# source_id: nohayonline:9fe1bf6b00a25b90b58d
-# source_url: https://www.nohayonline.com/details_content.php?id=2304
-# raw_sha256: 26b660f285559a84dc627330400c95df9940d8de8364ae37ecf4255b1bd061de
 ---
 
 خوابِ ابراہیم کی تعبیر دی شبیر نے

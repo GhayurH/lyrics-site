@@ -41,9 +41,6 @@ romanLyrics: |-
   Hai baaba beti ka tum se waada
   Maiṅ tum pe sadqe maiṅ tum pe waari
   Maiṅ tishna lab huṅ zara sa paani
-# source_id: nohayonline:028d95c74bfe612c2115
-# source_url: https://www.nohayonline.com/details_content.php?id=2055
-# raw_sha256: 75b862bff502eb31021af74ee6a660402ee68fbdc1b279b47055309a8ff49b1f
 ---
 حسین جب کہ چلے بعد دو پہر رن کو
 نہ تھا کوئی کہ جو تھامے رکاب توسن کو

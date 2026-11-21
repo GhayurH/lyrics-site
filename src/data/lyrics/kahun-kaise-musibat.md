@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Mitaaya jis ne qabr-e-aal-e-Haider
   Bober us par hai laanat Fatema ki
-# source_id: nohayonline:a942033ed28a42a2f455
-# source_url: https://www.nohayonline.com/details_content.php?id=1943
-# raw_sha256: faa04dd5c1e47bee523ad1dfd2e50ca36b4a7b00ad2f6d09b359429a7029aeb2
 ---
 کہوں کیسے مصیبت فاطمہ کی
 لحد پر بھی ہے آفت فاطمہ کی

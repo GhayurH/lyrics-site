@@ -43,9 +43,6 @@ romanLyrics: |-
   Aa gaya Shabbir ka sar bar sar-e-nok-e-sinaaṅ
   Haaye mere bhai ka hai bin sar kahaaṅ laasha para
   Unchi ho kar Ae zamiṅ tu mujhko ye manzar dikha
-# source_id: nohayonline:09bf9b5c757d198c78f5
-# source_url: https://www.nohayonline.com/details_content.php?id=2817
-# raw_sha256: 4864fde6ff878923f1438d10fd8c6ce6f5414adb6e035cfe5d0e89c369dffee4
 ---
 
 قتل بھائی ہو رہا ہے دی یہ زینب نے صدا

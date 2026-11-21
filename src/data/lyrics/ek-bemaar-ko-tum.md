@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Hashmi rote haiṅ Irfan se noha sun kar
   Munkiroṅ rone do rone se rukaaya na karo
-# source_id: nohayonline:f58693435195d3bfae12
-# source_url: https://www.nohayonline.com/details_content.php?id=1177
-# raw_sha256: 63df8488b8c060540271b230ef8768417cf06fffb8725030fc347f25f04a2b2a
 ---
 ایک بیمار کو تم اتنا رلایا نہ کرو
 ظالموں آل محمّد کو ستایا نہ کرو

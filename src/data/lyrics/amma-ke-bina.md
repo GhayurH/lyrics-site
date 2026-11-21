@@ -72,9 +72,6 @@ romanLyrics: |-
   Aini kis tarah se us waqt ka likhe manzar
   Laash par maaṅ ki ye kehte the wo Aamir ro kar
   Kaise taa zindagi ab khaayeṅge khaana tanha
-# source_id: nohayonline:bf365b6efb8c15fb1dab
-# source_url: https://www.nohayonline.com/details_content.php?id=3099
-# raw_sha256: 55f435ea4002b85078951afe4e68fd574d718923e4ff04c918f825f567b7ab3e
 ---
 اک روز شاہ زادی نے اسما سے یہ کہا
 میں جا رہی ہوں حجرے میں کرنے کو اب دعا

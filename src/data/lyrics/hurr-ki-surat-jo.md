@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Waasta de ke Husain ibn-e-Ali ka maango
   Rad nahiṅ karta Khuda koi tamannaa-e-Husain
-# source_id: nohayonline:e05946e4139cf3fae12e
-# source_url: https://www.nohayonline.com/details_content.php?id=2912
-# raw_sha256: 8c28e39e45f24dc2e3187a793fe543a2d8da966b6f371ee74ca3c39f9427d37b
 ---
 حُر کی صورت جو سمجھ میں کہیں آجائے حسین
 ایک اِک سانس صدا دینے لگے ہائے حسین

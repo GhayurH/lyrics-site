@@ -17,9 +17,6 @@ romanLyrics: |-
   Mil jaaye to kahiyo mere baba safari se
   Nargis ki tarah chashm suye garm garaṅ hai
   Jald aao ke hasti ka chaman apni khizaaṅ hai
-# source_id: nohayonline:fa2aa02d2244734fdd5e
-# source_url: https://www.nohayonline.com/details_content.php?id=2666
-# raw_sha256: 46694260d956bc34e3ee9f154f7189efc3ce78d6b622b35c9f5380d5d77386ee
 ---
 
 ۱

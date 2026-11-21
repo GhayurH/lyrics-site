@@ -52,9 +52,6 @@ romanLyrics: |-
   Ye sadaa dasht meiṅ deta tha Gharib-e-Zahra
   Haaye Akbar mera Akbar mera Akbar na raha
   Nur-e-nazar Akbar ae naaz-e-pidar Akbar
-# source_id: nohayonline:0819dbce0d807900f04d
-# source_url: https://www.nohayonline.com/details_content.php?id=1849
-# raw_sha256: 3d01ac9bc4140e7c71986046e4a299d54996dc3bfc43ee1ddffafa089fb481ea
 ---
 راحتِ جاں ورد زباں
 ساعتِ اذاں جان علی اکبرم

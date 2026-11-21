@@ -1,10 +1,10 @@
 ---
-title: کیا ستم تھا کربلا میں
-alternateTitle: Kya Sitam Tha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیا ستم تھا کربلا میں"
+alternateTitle: "Kya Sitam Tha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Bahadur"
 reciter: "Mir Raza Ali"
 tags: []
@@ -65,13 +65,6 @@ romanLyrics: |-
   Jo jo guzre unke upar
   Aaj tak aisa dekha suna hi nahiṅ jo sitam tha
   Karbala meiṅ
-# source_id: nohayonline:672a96a54118cd202ba3
-# source_url: https://www.nohayonline.com/details_content.php?id=768
-# raw_sha256: a3fd028ccb3b6e56abfa0a1d662f050da2219ecb20eaebe439df0255897f2fd3
-# source_id: ziyaraat:2c99c2d7dcb0a61f468d
-# source_url: https://www.ziyaraat.net/api/noha/1171
-# raw_sha256: 6d241b6976920fa0cd1023bfec0d48a4bd8413bee0335bae18e35506dae6b4d2
-# added_stanza_source: roman:kalam-nohayonline-672a96a54118cd202ba3
 ---
 
 کیا ستم تھا کربلا میں

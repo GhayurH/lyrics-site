@@ -51,9 +51,6 @@ romanLyrics: |-
   Safdar o Mazhar ye nauha hai Imam-e-waqt ka
   Mere Maula ke masaaib ban gaye haiṅ Naahiya
   In ke jumloṅ se abhi tak wo zamaana yaad hai
-# source_id: nohayonline:6c6de28dd9dd798130b3
-# source_url: https://www.nohayonline.com/details_content.php?id=2287
-# raw_sha256: 8884aacab75c3580644c09ef4ccf38c32e8e21261d84be1ed5ea003cac3e96d1
 ---
 شام کا بازار اے قافلہ سالار اے عابد بیمار
 سید سجاد تیرا شام جانا یاد ہے

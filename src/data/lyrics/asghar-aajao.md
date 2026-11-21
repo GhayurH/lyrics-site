@@ -48,9 +48,6 @@ romanLyrics: |-
   Chain se maqtal meiṅ sote ho
   Tarso ge maaṅ ki surat ko
   Jaati huṅ maiṅ Shaam khule sar aa jaao
-# source_id: nohayonline:ac528346d7881b5fe66e
-# source_url: https://www.nohayonline.com/details_content.php?id=528
-# raw_sha256: 1051538e55887fd684429bf8f394fe6b38b6c28860f3ca0cf47c09268273b437
 ---
 
 ماں ڈھونڈ رہی ہے کب سے اصغر آ جاؤ آ جاؤ

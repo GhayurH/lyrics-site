@@ -1,0 +1,86 @@
+---
+title: "امّاں فضّہ عبّاس کو بلانا"
+alternateTitle: "Amma Fizza Abbas Ko Bulana"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+aliases: []
+published: false
+romanLyrics: |-
+  Aa gaya baazaar-e Shaam
+  Aada ke patthroṅ ka Zainab bani nishaana, Amma Fizza Abbas ko bulana
+
+  1
+  Chaadar nahiṅ hai sar par
+  Hai behaya zamaana, Amma Fizza Abbas ko bulana
+
+  2
+  Raahoṅ mein chalte chalte Kiun qaafila ruka hai
+  Jakra hai beriyoṅ mein Sajjad gir gaya hai
+  Aata hai Shimr le kar
+  Haathoṅ mein taaziyaana, Amma Fizza Abbas ko bulana
+
+  3
+  Jakri hui rasan mein, laachaar Bibiyaaṅ hai
+  Sar par rida nahiṅ hai pur khar waadiyaaṅ hai
+  In wadiyon mein chal kar, pandrah sau mil jana, Amma Fizza Abbas ko bulana
+
+  4
+  Shabbir ki yatima khati hai jub tamaache
+  Main ro ke poochti huṅ tujhko bachaun kaise
+  Abbas ko bulale, deta hai Shimr tana, Amma Fizza Abbas ko bulana
+
+  5
+  Baaloṅ se apna chehra har gam par chupaun,
+  Main malka e haya huṅ darbaar kaise jaaun
+  Main ro rahi huṅ lekin, hasta hai yeh zamaana, Amma Fizza Abbas ko bulana
+
+  6
+  Zainab ka naam lekar zalim bula raha hai,
+  Sajjad na tawan ko phir khoon rula raha hai
+  Gairat ke us khuda ko manzar hai yeh dikhane, Amma Fizza Abbas ko bulana
+
+  7
+  Kaise bayaan karenge Farhan aur Mazhar,
+  Har gaam keh rahi thi Zainab yehi to ro kar
+  Baazaar se guzar kar zindaan tak hai jaana, Amma Fizza Abbas ko bulana
+---
+
+آ گیا بازارِ شام
+اعدا کے پتھروں کا زینبؑ بنی نشانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۱
+چادر نہیں ہے سر پر
+ہے بے حیا زمانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۲
+راہوں میں چلتے چلتے کیوں قافلہ رکا ہے
+جکڑا ہے بیڑیوں میں سجّادؑ گر گیا ہے
+آتا ہے شمر (لع) لے کر
+ہاتھوں میں تازیانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۳
+جکڑی ہوئی رسن میں، لاچار بیبیاںؑ ہیں
+سر پر ردا نہیں ہے پرخار وادیاں ہیں
+ان وادیوں میں چل کر، پندرہ سو میل جانا، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۴
+شبّیرؑ کی یتیمہؑ کھاتی ہے جب طمانچے
+میں رو کے پوچھتی ہوں تجھ کو بچاؤں کیسے
+عبّاسؑ کو بلا لے، دیتا ہے شمر (لع) طعنہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۵
+بالوں سے اپنا چہرہ ہر گام پر چھپاؤں،
+میں ملکۂ حیا ہوں دربار کیسے جاؤں
+میں رو رہی ہوں لیکن، ہنستا ہے یہ زمانہ، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۶
+زینبؑ کا نام لے کر ظالم بلا رہا ہے،
+سجّادؑ ناتواں کو پھر خون رلا رہا ہے
+غیرت کے اس خدا کو منظر ہے یہ دکھانے، امّاں فضّہؑ عبّاسؑ کو بلانا
+
+۷
+کیسے بیاں کریں گے فرحان اور مظہر،
+ہر گام کہہ رہی تھی زینبؑ یہی تو رو کر
+بازار سے گزر کر زنداں تک ہے جانا، امّاں فضّہؑ عبّاسؑ کو بلانا

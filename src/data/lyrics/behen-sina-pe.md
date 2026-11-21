@@ -62,9 +62,6 @@ romanLyrics: |-
   Kareṅge hashr talak bain Aamir o Nayyar
   Na pa sakeṅge kabhi chain Aamir o Nayyar
   Bhula na paayega dil us burida sar ki sada
-# source_id: nohayonline:f749328901291931a8e7
-# source_url: https://www.nohayonline.com/details_content.php?id=3395
-# raw_sha256: 7f0c7d9a15e8c54b26580bafef5360799311539d5b20fe82e5c5c1c2b5cad29f
 ---
 
 لہو لہو ہے وفا زخم زخم ہے وعدہ
@@ -82,7 +79,7 @@ romanLyrics: |-
 ۳
 رسول زادے بھلا یوں اسیر ہوتے ہیں
 حروفِ آیۂ تطہیر خون روتے ہیں
-ہے بال کھولے ہوئے بی‌بیاں رسن بستہ
+ہے بال کھولے ہوئے بیبیاں رسن بستہ
 
 ۴
 سناں پہ ہے میرے تشنہ دہن امام کا سر

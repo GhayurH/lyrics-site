@@ -1,0 +1,80 @@
+---
+title: "یژرب میں حشر ہے بَپا باقرؑ گزر گئے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Yasrab may hashr hai bapa Baqar guzar gaye
+  Matam bapa hai jabaja Baqar guzar gaye
+
+  1
+  Bewa ke bain haiṅ mere waali na jaye
+  Jafar pe tuta saneha Baqar guzar gaye
+
+  2
+  Hazrat ko zekr zin may Hashsham ne diya
+  He tukre jigar ho gaya Baqar guzar gaye
+
+  3
+  Mojud Karbala may the Baqar Hussainiyo
+  Dil may gham o alam liye Baqar guzar gaye
+
+  4
+  Kuch na rehm aap pe Hashsham ne kiya
+  Kaisa sitam ye dha diya Baqar guzar gaye
+
+  5
+  Jalte hue khayam ke sholoṅ may jo ghire
+  Sham-e-gharibaṅ ghul utha Baqar guzar gaye
+
+  6
+  Ro ro ke haal beton ka hota hai ghair ab
+  Saya pidar ka uth gaya Baqar guzar gaye
+
+  7
+  Jafar ke bain the yehi Mola ki laash par
+  Beta yatim ho gaya Baqar guzar gaye
+
+  8
+  Sare jahaṅ may hota hai matam Imam ka
+  Haider ne noha likh diay Baqar guzar gaye
+---
+
+یژرب میں حشر ہے بَپا باقرؑ گزر گئے
+ماتم بَپا ہے باقرؑ گزر گئے
+
+۱
+بیوہ كے بین ہیں میرے والی نہ جائے
+جعفرؑ پہ ٹوٹا سانحہ باقرؑ گزر گئے
+
+۲
+حضرت کو زہر زین میں ھشام نے دیا
+ہائے ٹکڑے جگر ہو گیا باقرؑ گزر گئے
+
+۳
+موجود کربلا میں تھے باقرؑ حسینیو
+دِل میں غم و الم لئے باقرؑ گزر گئے
+
+۴
+کچھ نہ رحم آپ پہ ھشام نے کیا
+کیسا ستم یہ ڈھا دیا باقرؑ گزر گئے
+
+۵
+جلتے ہوئے خیام كے شعلوں میں جو گھرے
+شامِ غریباں غل اٹھا باقرؑ گزر گئے
+
+۶
+رو رو كے حال بیٹو کا ہوتا ہے غیر اب
+سایہ پدر کا اٹھ گیا باقرؑ گزر گئے
+
+۷
+جعفرؑ كے بین تھے یہی مولاؑ کی لاش پر
+بیٹا یتیم ہو گیا باقرؑ گزر گئے
+
+۸
+سارے جہاں میں ہوتا ہے ماتم امامؑ کا
+حیدر نے نوحہ لکھ دیا باقرؑ گزر گئے

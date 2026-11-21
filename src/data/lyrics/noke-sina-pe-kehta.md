@@ -11,6 +11,7 @@ aliases: []
 published: true
 reciter: "Hasan Sadiq"
 romanLyrics: |-
+  Ghar ghar meiṅ hoga dekhna maatam Husain ka
   Nok-e-sinaaṅ pe kehta tha ye sar Husain ka
   Kya kar saka lain tera khanjar Husain ka
 
@@ -38,11 +39,9 @@ romanLyrics: |-
   Rehaan mujh ko dekh kar jannat pukaar uthi
   Aane do aa raha hai ye naukar Husain ka
   Kya kar saka lain tera khanjar Husain ka
-# source_id: nohayonline:d45eaa5351a13fa91c1a
-# source_url: https://www.nohayonline.com/details_content.php?id=613
-# raw_sha256: 1edc9f22bb6df84bed7c3e0d398490046f90d06022c9be4fe12550a233e1bd7d
 ---
 
+گھر گھر میں ہوگا دیکھنا ماتم حسین کا
 نوکِ سِناں پہ کہتا تھا یہ سر حُسین کا
 کیا کر سکا لعین تیرا خنجر حُسین کا
 

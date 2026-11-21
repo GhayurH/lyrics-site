@@ -61,9 +61,6 @@ romanLyrics: |-
   Payaam Misam o Salman pahuṅche ye sab tak
   Bahisht meiṅ na chale jaaye maatami jab tak
   Qasam Husain ki maiṅ khuld meiṅ na jaauṅ gi
-# source_id: nohayonline:3a0a529042900603741e
-# source_url: https://www.nohayonline.com/details_content.php?id=2519
-# raw_sha256: 17090668237501634d5d7dd8237122ac33c521a25cfbd931818e2ea96d8ea256
 ---
 
 بچھاؤ فرش عزا میں ضرور آؤں گی

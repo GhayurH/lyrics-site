@@ -66,9 +66,6 @@ romanLyrics: |-
   Luta gaya hai chain
   Ab aandhiyoṅ ki zad pe hai Zainab teri rida
   Abbas mar gaya
-# source_id: nohayonline:83ee52003c984e1d27c6
-# source_url: https://www.nohayonline.com/details_content.php?id=1127
-# raw_sha256: f7e85795f2f2d9d5b031921bb8d6a32df6c8e70ad7e403ad8289777f409184e1
 ---
 
 خیمے میں آئے مقتل غازی سے جب حسین

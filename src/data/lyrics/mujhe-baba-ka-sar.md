@@ -1,10 +1,10 @@
 ---
-title: بھیا سجاد
-alternateTitle: Mujhe Baba Ka Sar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بھیا سجاد"
+alternateTitle: "Mujhe Baba Ka Sar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shadman Raza"
 tags: []
@@ -62,12 +62,6 @@ romanLyrics: |-
   Adhuri reh gai baateiṅ hui khaamosh shahzaadi
   Faza meiṅ gunjta hai Shaadmaaṅ ab tak yahi noha
   Mujhe baba ka sar laa do
-# source_id: nohayonline:efb6182e16e0dd4420b1
-# source_url: https://www.nohayonline.com/details_content.php?id=1573
-# raw_sha256: 429a9dc5e2acdf87d958673b1794f30ff21fd9cf35b372c0db0fb842f0209a5d
-# source_id: ziyaraat:c3800d208ffccce9bc06
-# source_url: https://www.ziyaraat.net/api/noha/2684
-# raw_sha256: 78c8d3c8fac19bf520e8e9aade64992e0d0570d9f214292d4ad65b21eb39fead
 ---
 بھیا سجاد
 یہ میری آخری شب ہے سکینہ نے کہا بھیا

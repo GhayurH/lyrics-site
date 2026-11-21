@@ -48,9 +48,6 @@ romanLyrics: |-
   Aisa belafz Asghar ne khutba diya
   Jis ki haibat se maidaan larazne laga
   Mir Sajjad Khaaliq ki aai sada ae Khuda-e-Sukhan
-# source_id: tajpoints:62c6f6a3e88cdba0e7b0
-# source_url: https://tajpoints.com/2017/02/teri-kya-baat-hai.html
-# raw_sha256: a49101653a05e112118e0964c149fa5c6c5be6439d5c0bf264ab8d7f9411519f
 ---
 سن کے زینب کے خطبات دربار میں بولے شاہِ زماں تیری کیا بات ہے
 لاج رکھ لی ہے تو نے بڑے بھائی کی میری چھوٹی بہن تیری کیا بات ہے

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Zaair yahi legti tha taabut hai shaane pe
   Maula ki shahaadat ka likhta tha maiṅ jab manzar
-# source_id: nohayonline:8af64a87e64ee685da99
-# source_url: https://www.nohayonline.com/details_content.php?id=2088
-# raw_sha256: b19b9af35a881a37d204097c78bac04ef9dd8d9ba319f84ee4f6ca9ff1867719
 ---
 روتی ہے علی زادی بابا کے جنازے پر
 بند آنکھوں سے روتے ہیں ہر بین پر خود حیدر

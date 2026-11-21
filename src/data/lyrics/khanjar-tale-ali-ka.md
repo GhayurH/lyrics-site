@@ -55,9 +55,6 @@ romanLyrics: |-
   Saabir ke dil pe hai raqam
   Har baar naama reh gaya
   Pyaasa tarapta reh gaya
-# source_id: nohayonline:91933ba37a5b2e571c3e
-# source_url: https://www.nohayonline.com/details_content.php?id=3257
-# raw_sha256: dd4ca261aa7e87874a2531a058beaad2e075394d0309d1e0a4f10b5eb308a813
 ---
 
 خنجر تلے علی کا لال

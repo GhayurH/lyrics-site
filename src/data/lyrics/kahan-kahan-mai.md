@@ -40,9 +40,6 @@ romanLyrics: |-
   Mere Husain ko roye ga jo bhi shakhs Amir
   Maiṅ duṅgi ajr bhi us ke liye karuṅgi dua
   Har ek maqaam se aati hai ek maaṅ ki sada
-# source_id: nohayonline:2e52275fa28d7e6dd1ce
-# source_url: https://www.nohayonline.com/details_content.php?id=3365
-# raw_sha256: 8649d18794c0481f0446ebedf8a963e740fcc0594fc5d0af49770a23c22a1b42
 ---
 ہائے حسین میرے لال
 

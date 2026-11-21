@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
+poet: "Waiz"
 tags: []
 aliases:
   - "Khaime Mein Aake Shah Ne Jab Alwida Kaha"

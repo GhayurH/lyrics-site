@@ -54,9 +54,6 @@ romanLyrics: |-
   Farsh-e-aza bichhaao ae meri khwaahar
   Aao ab zer-e-alam barpa kare maatam
   Hum hai us baawafa ke pehle azaadaar Zainab
-# source_id: nohayonline:edbb175eda4011936709
-# source_url: https://www.nohayonline.com/details_content.php?id=3430
-# raw_sha256: d03b49c33357cd6122bdc68d5bd1d849507c5aa7833d9a34a25de5adad06b29f
 ---
 خیموں میں علم آیا علمدار نہ آیا
 شبیر نے زینب کو یہی نوحہ سنایا

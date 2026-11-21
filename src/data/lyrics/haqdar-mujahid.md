@@ -36,9 +36,6 @@ romanLyrics: |-
   Farzand-e-Nabi hota hai zibh Abbas sajde meiṅ
   Tanha hai shah-e-diṅ koi nahiṅ juz yaas sajde meiṅ
   Aa aakhri sajde meiṅ hai saajid ae Abbas
-# source_id: nohayonline:75dfdb98f3b049b6ae52
-# source_url: https://www.nohayonline.com/details_content.php?id=2874
-# raw_sha256: 6b60ba8433d40d355227996acb029bd0dfb65975ca7805d38d174b17d521cf3f
 ---
 
 حق دار مجاہد اے عباس

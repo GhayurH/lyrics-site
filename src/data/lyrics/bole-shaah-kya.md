@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Kitne tanha the Husain asr ke hangaam Anis
   Gham se phat jaye kaleja jo wo manzar likhuṅ
-# source_id: nohayonline:1e33882d5e8aac8d77fa
-# source_url: https://www.nohayonline.com/details_content.php?id=1898
-# raw_sha256: bcdbef60dfa8d7bd0427fa13fd411b9a0fec32f28e72c9acdc1a1d3c715b8f8e
 ---
 بولے شہ کے کیا میں جوابِ خطِ دختر لکھوں
 نامور دیکھ لے جو حال ہے کیوں کر لکھوں

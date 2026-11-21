@@ -64,9 +64,6 @@ romanLyrics: |-
   Daagh Rehan kaise mitega
   Bas ye Sarwar se kehti rahi maaṅ
   Laash uski sambhaal kar uthaao
-# source_id: nohayonline:e966340a7b25b819d11f
-# source_url: https://www.nohayonline.com/details_content.php?id=3699
-# raw_sha256: ee0f0b2fa7f3ce87631e00c3b3821d64a734dbaa459c32f7a74ea5730286cba1
 ---
 شاہ دیں میرے بچے کو لاؤ
 اس کا نازک گلا چھد گیا ہے

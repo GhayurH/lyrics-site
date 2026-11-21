@@ -63,9 +63,6 @@ romanLyrics: |-
   Kata Shabbir ka sar Faatima Zehra ki jholi meiṅ
   Husain ibn-e-Ali kehte rahe chalta raha khanjar
   Bas ab ammaaṅ chali jaao
-# source_id: nohayonline:57771a71746411865318
-# source_url: https://www.nohayonline.com/details_content.php?id=1307
-# raw_sha256: f7c32dfc3fac6cc69e1d44776b5c673bd33f149e13bdcb0e1cac3587bde44da5
 ---
 اپنے نزدیک جو زہرا کو تڑپتا دیکھا
 جوڑ کر ہاتھ حسین ابنِ علی نے یہ کہا
