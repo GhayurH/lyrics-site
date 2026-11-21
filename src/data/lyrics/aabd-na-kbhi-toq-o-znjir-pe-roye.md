@@ -1,5 +1,6 @@
 ---
 title: "عابدؑ نہ کبھی طوق و زنجیر پہ روئے"
+alternateTitle: "Aabid Na Kabhi Tauq O Zanjir Pe Roye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,51 +9,42 @@ poet: "Qamar Abbas"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Abid na kabhi tauq-o-zanjeer pe roye
-
-  Haan bekasi e hazrate shabbir pe roye
-
-  Jab izne wighan le chuke abbas-e-dilawar
-
-  Dil thaam ke tanhaai e shabbir pe roye
-
+romanLyrics: |-
+  Aabid na kabhi tauq o zanjir pe roye
+  Haan bekasi-e-Hazrat-e-Shabbir pe roye
 
   1
-
-  Jab aakhri ruqsat ko hussain aaye haram se
-
-  Abid pe kabhi aur kabhi hamsheer pe roye
-
+  Jab izn-e-wagha le chuke Abbas dilawar
+  Dil thaam ke tanhai-e-Shabbir pe roye
 
   2
-
-  Pani jo mila gyara moharram ki suboh ko
-
-  Sab ehle haram asghar e baysheer pe roye
-
+  Jab aakhri rukhsat ko Husain aaye haram se
+  Aabid pe kabhi aur kabhi hamshir pe roye
 
   3
+  Paani jo mila gyarah Muharram ki subah ko
+  Sab ahl-e-haram Asghar-e-beshir pe roye
 
-  Jaayega qamar khuld mein har sheh ka azadaar
-
-  Dozhak haram us pa jo shabbir pe roye'
+  4
+  Jaayega Qamar khuld mein har Shah ka azadar
+  Dozakh haram us pe jo Shabbir pe roye
 ---
 
 عابدؑ نہ کبھی طوق و زنجیر پہ روئے
-ہاں بے کسی حضرت شبیرؑ پہ روئے
+ہاں بے کسیِ حضرتِ شبیرؑ پہ روئے
 
 ۱
-جب اذن و غا لے چکے عباس دلاور
-دل تھام کے تنہائی شبیرؑ پہ روئے
+جب اذنِ وغا لے چکے عباسِ دلاور
+دل تھام کے تنہائیِ شبیرؑ پہ روئے
 
 ۲
 جب آخری رخصت کو حسینؑ آئے حرم سے
-عابدؑ پہ کبھی اور کبھی ہم شیر پہ روئے
+عابدؑ پہ کبھی اور کبھی ہمشیر پہ روئے
 
 ۳
 پانی جو ملا گیارہ محرم کی صبح کو
-سب اہل حرم اصغرِؑ بے شیر پہ روئے
+سب اہلِ حرم اصغرِ بے شیرؑ پہ روئے
 
 ۴
-جائے گا قمر خلہ میں ہر شہ کا عزادار
+جائے گا قمر خلد میں ہر شہ کا عزادار
 دوزخ حرام اس پہ جو شبیرؑ پہ روئے
