@@ -1,5 +1,6 @@
 ---
 title: "اے محمد باقرؑ اے محمد باقرؑ"
+alternateTitle: "Ae Muhammad Baqir Ae Muhammad Baqir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,85 +12,85 @@ romanLyrics: |-
   Ae Muhammad Baqir, Ae Muhammad Baqir
 
   1
-  Kehte the Abid-e-muztar
-  Ankhoṅ se lahu barsa kar
+  Kehte the Aabid-e-muztar
+  Aankhoṅ se lahu barsaa kar
 
   2
-  Rakhna hai khayal-e-Sakina
+  Rakhna hai khayaal-e-Sakina
   Dukh us ke gham hi sehna
   Jab soe wo ghabra kar
   Tum saaya karna sar par
 
   3
   Zanjir meri qismat hai
-  Aur dhup may bhi shiddat hai
+  Aur dhup mein bhi shiddat hai
   Jalti hui is bairri par
-  Tum ashk bahana dilbar
+  Tum ashk bahaana dilbar
 
   4
-  Tum sath phuphi ke rehna
-  Jo keh daiṅ wo sun lena
-  Tum hathoṅ ko phaila kar
-  Ban jana un ki chaadar
+  Tum saath phuphi ke rehna
+  Jo keh deṅ wo sun lena
+  Tum haathoṅ ko phailaa kar
+  Ban jaana un ki chaadar
 
   5
-  Jab madar-e-Asghar roe
+  Jab maadar-e-Asghar roe
   Jab tak na Sakina soe
-  Tum aise jagte rehna
-  Jis tarha chand falak par
+  Tum aise jaagte rehna
+  Jis tarah chaand falak par
 
   6
-  Jab tum ko pyas satae
-  Aur pani bhi mil jaye
-  Le jana tum wo pani
-  Pehle qabr e Asghar par
+  Jab tum ko pyaas sataae
+  Aur paani bhi mil jaae
+  Le jaana tum wo paani
+  Pehle qabr-e-Asghar par
 
   7
-  Kamsin hai abhi chuta hai
-  Tu Haider ka pota hai
-  Tum laaj hamari rakhna
+  Kamsin hai abhi chhota hai
+  Tu Haidar ka pota hai
+  Tum laaj hamaari rakhna
   Chalte rehna kaantoṅ par
 
   8
-  Zindaṅ may jab ho jana
-  Durroṅ se nahi ghabrana
-  Dat jana zulm ke aage
-  Khutbat hamare sun kar
+  Zindaaṅ mein jab ho jaana
+  Durroṅ se nahiṅ ghabraana
+  Dat jaana zulm ke aage
+  Khutbaat hamaare sun kar
 
   9
-  Rehan wo kamsin bacha
-  Jab qaid e sitam may pohoncha
-  Taiwar the Ali Akbar ke
-  Aabid ne kaha lipta kar
+  Rehan wo kamsin bachcha
+  Jab qaid-e-sitam mein pahuncha
+  Tewar the Ali Akbar ke
+  Aabid ne kaha liptaa kar
 ---
 
-ؑاے محمد باقرؑ، اے محمد باقر
+اے محمد باقرؑ، اے محمد باقرؑ
 
 ۱
 کہتے تھے عابدِ مضطر
 آنکھوں سے لہو برسا کر
 
 ۲
-رکھنا ہے خیالِ سكینہ
-دکھ اُس كے غم ہی سہنا
+رکھنا ہے خیالِ سکینہ
+دکھ اُس کے غم ہی سہنا
 جب سوئے وہ گھبرا کر
 تم سایہ کرنا سر پر
 
 ۳
 زنجیر میری قسمت ہے
 اور دھوپ میں بھی شدت ہے
-جلتی ہوئی اِس پیڑی پر
+جلتی ہوئی اِس بیڑی پر
 تم اشک بہانہ دلبر
 
 ۴
-تم ساتھ پھوپھی كے رہنا
+تم ساتھ پھوپھی کے رہنا
 جو کہہ دیں وہ سُن لینا
 تم ہاتھوں کو پھیلا کر
 بن جانا اُن کی چادر
 
 ۵
 جب مادرِ اصغرؑ روئے
-جب تک نا سكینہ سوئے
+جب تک نا سکینہ سوئے
 تم ایسے جاگتے رہنا
 جس طرح چاند فلک پر
 
@@ -108,11 +109,11 @@ romanLyrics: |-
 ۸
 زنداں میں جب ہو جانا
 دروں سے نہیں گھبرانا
-ڈٹ جانا ظلم كے آگے
+ڈٹ جانا ظلم کے آگے
 خطبات ہمارے سن کر
 
 ۹
 ریحان وہ کمسن بچہ
 جب قید ستم میں پہنچا
-تیور تھے علی اکبرؑ كے
+تیور تھے علی اکبرؑ کے
 عابدؑ نے کہا لپٹا کر

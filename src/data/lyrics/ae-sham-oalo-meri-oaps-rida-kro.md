@@ -1,5 +1,6 @@
 ---
 title: "اے شام والو میری واپس ردا کرو"
+alternateTitle: "Ae Shaam Waalo Meri Waapas Rida Karo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,27 +10,23 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Shaam walo meri wapas rida karo
-  May hoon Batool zadi kuch to haya karo
+  Ae Shaam waalo meri waapas rida karo
+  Main huṅ Batul zaadi kuch to haya karo
 
   1
-  Jis se sooraj ne parda kiya
-  Aayi baazar may be rida
-  Zainab haya ka milka Kuch to haya karo
+  Jis se suraj ne parda kiya
+  Aai baazaar mein be rida
+  Zainab haya ki malka kuch to haya karo
 
   2
-  Koi qari bataye mujhe
-  Zainab ki rida kiun chini
-  Zainab haya ki malka Kuch to jawab do
+  Koi qaari bataaye mujhe
+  Zainab ki rida kiuṅ chhini
+  Zainab haya ki malka kuch to jawaab do
 
   3
-  Ye malaek ye jinn o bashar
-  Ro rahay hain ye arz o samaa
-  Logon se keh rahi hay Chadar bacha ke do
-
-  4
-  Aur arz o sama ro rahay
-  Zainab
+  Ye malaaik ye jinn o bashar
+  Ro rahe haiṅ ye arz o samaa
+  Logoṅ se keh rahi hai chaadar bacha ke do
 ---
 
 اے شام والو میری واپس ردا کرو
@@ -43,7 +40,7 @@ romanLyrics: |-
 ۲
 کوئی قاری بتائے مجھے
 زینبؑ کی ردا کیوں چھنی
-زینبؑ حیا کی ملکر کچھ تو جواب دو
+زینبؑ حیا کی ملکہ کچھ تو جواب دو
 
 ۳
 یہ ملائک یہ جن و بشر

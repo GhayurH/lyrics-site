@@ -1,5 +1,6 @@
 ---
 title: "اے مسلماں کاش سوچا ہوتا"
+alternateTitle: "Ae Musalmaaṅ Kaash Socha Hota"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,46 +10,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae muslamaṅ kash socha hota
-  Ke Muhammad(sawaw) ka nawasa hai yeh
-  Halat-e-sajda maiṅ hai bekas or majbor bhi hai
-  Aur kaye roz ka pyasa hai yeh
+  Ae musalmaaṅ kaash socha hota
+  Ke Muhammad ka nawaasa hai yeh
+  Haalat-e-sajda mein hai bekas o majbur bhi hai
+  Aur kai roz ka pyaasa hai yeh
 
   2
-  1. Aqal haeraṅ thi ise banda ke RAHMAN kahaiṅ
-  Nokay nayza pay ise bolta Quran kahaiṅ
-  Ya to Rab hai jo k bandy sa nazar aata hai
-  Gar hai insan to Khuda sa hai yeh
+  Aql hairaaṅ thi ise banda ke Rahmaan kaheṅ
+  Nok-e-neza pe ise bolta Quraan kaheṅ
+  Ya to Rab hai jo ke bande sa nazar aata hai
+  Gar hai insaan to Khuda sa hai yeh
 
   3
-  2. Boli Zainab zulm Shabir pay dhane walo
-  Pathroo ke tale mayyat ko chupanay walo
-  Hae kandhe pay uthaty the jisy khatm e Rasul
-  Mere us bhai ka lasha hai yeh
+  Boli Zainab zulm Shabbir pe dhaane waalo
+  Pattharoṅ ke tale mayyat ko chhupaale waalo
+  Haaye kaandhe pe uthaate the jinheṅ Khatm-e-Rusul
+  Mere us bhaai ka laasha hai yeh
 
   4
-  3. Jis ka Ghazi na raha or Ali Akbar na bacha
-  Bhai ki lash pay jise khul ke rone na diya
-  Aaj matam sar e bazar jo hum karty haiṅ
-  Isi Zainab ka dilasa hai yeh
+  Jis ka Ghaazi na raha aur Ali Akbar na raha
+  Bhaai ki laash pe khul kar jise rone na diya
+  Aaj maatam sar-e-baazaar jo ham karte haiṅ
+  Isi Zainab ka dilaasa hai yeh
 
   5
-  4. Syedoṅ ka bhara ghar bar jalaya kiuṅ hai
-  Bibio ko bhary bazar pihraiya kiuṅ hai
-  Tu ne to yea bhi na socha ke jo qaidi haiṅ bane
-  Pak Zehra ka asasa hai yeh
+  Sayyidoṅ ka bhara ghar baar jalaaya kiuṅ hai
+  Bibiyoṅ ko bhare baazaar phiraaya kiuṅ hai
+  Tu ne yeh bhi na socha ke jo qaidi haiṅ bane
+  Paak Zehra ka asaasa hai yeh
 
   6
-  5. May huṅ Zainab mujhe Haider tu samajhta kiuṅ hai
+  Main huṅ Zainab mujhe Haider tu samajhta kiuṅ hai
   Sun ke khutba mera malun bigarta kiuṅ hai
-  Boli Zainab ke yeh khutba hi nahi sun ae Yazid
-  Pak Quraaṅ ka khulasa hai yeh
+  Boli Zainab ke yeh khutba hi nahiṅ sun ae Yazid
+  Paak Quraaṅ ka khulaasa hai yeh
 
   7
-  6. Sani-e-Zehra ki Akhtar yeh ata hai tujh ko
+  Saani-e-Zehra ki Akhtar yeh ata hai tujh ko
   Noha likhne ke liye dard mila hai tujh ko
-  Tere alfaz may hay Fatima Zehra ki dua
-  Tera andaz juda sa hai yeh
+  Tere alfaaz mein yeh Faatima Zehra ki dua
+  Tera andaaz juda sa hai yeh
 ---
 
 ۱
@@ -79,7 +80,7 @@ romanLyrics: |-
 سیدوں کا بھرا گھر بار جلایا کیوں ہے
 بیبیوں کو بھرے بازار پھرایا کیوں ہے
 تو نے یہ بھی نہ سوچا کہ جو قیدی ہیں بنے
-پاک زیراؑ کا اساسہ ہے یہ
+پاک زہراؑ کا اساسہ ہے یہ
 
 ۶
 میں ہوں زینبؑ مجھے حیدرؑ تو سمجھتا کیوں ہے
@@ -90,5 +91,5 @@ romanLyrics: |-
 ۷
 ثانیءِ زہراؑ کی اختر یہ عطا ہے تجھ کو
 نوحہ لکھنے کے لئے درد ملا ہے تجھ کو
-تیرے الفاظ میں یہ فاطمہ زیراؑ کی دعا
+تیرے الفاظ میں یہ فاطمہ زہراؑ کی دعا
 تیرا انداز جدا سا ہے یہ

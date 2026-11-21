@@ -1,5 +1,6 @@
 ---
 title: "اے زعفرِ جن آپ بھی آئے تھے وہاں پر"
+alternateTitle: "Ae Zafar-e-Jinn Aap Bhi Aaye The Wahaaṅ Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,12 +10,12 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae Zafar-e-Jin aap bhi aaye the wahaaṅ par
+  Ae Zafar-e-Jinn aap bhi aaye the wahaaṅ par
   Kya aap ne dekha
   Aashur ke din lut gaya Zehra ka bhara ghar
 
   1
-  Zainab ke pisar neche haathoṅ pe uthaaye
+  Zainab ke pisar ne haathoṅ pe uthaaye
   Aur khun meiṅ nahaaye
   Darya ki taraf pusht kiye mar gaye dilbar
 
@@ -31,12 +32,12 @@ romanLyrics: |-
   4
   Sunte haiṅ ke barchhi meiṅ kaleja nikal aaya
   Sakte meiṅ hai duniya
-  Khenchi hai sinaaṅ Shah ne jo Ya Ali keh kar
+  Khenchi hai sinaaṅ Shaah ne jo Ya Ali keh kar
 
   5
   Beshir ka khun lene se inkaar kiya hai
   Jab arz o samaaṅ ne
-  Tab Shah ne mala chehre pe khun-e-Ali Asghar
+  Tab Shaah ne mala chehre pe khun-e-Ali Asghar
 
   6
   Mazlum ke sine pe tha sawaar sitamgar
@@ -44,7 +45,7 @@ romanLyrics: |-
   Aur khushk gale par tha rawaaṅ Shimr ka khanjar
 
   7
-  Jab phail gayi chaaroṅ taraf Shaam-e-Gharibaṅ
+  Jab phail gayi chaaroṅ taraf Shaam-e-Gharibaaṅ
   Maahaul tha giryaaṅ
   Bachchi koi baba ko sada deti thi ro kar
 
