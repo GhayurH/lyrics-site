@@ -59,3 +59,38 @@ If all workers encounter a shared Codex quota, they will pause according
 to their existing retry logic, and overall throughput will drop. The combined
 `status` command counts processed files across shards and distinguishes
 `edited_local` from `needs_human`; a processed file is not editorially approved.
+
+## Rebalancing after a shard finishes
+
+Once worker 0 has finished its original alphabetical slice, it can safely take
+some **unstarted** kalams from the ends of workers 1–3's queues. This keeps the
+same four workers and preserves all completed results, isolated workspaces,
+logs and snapshots. No files are edited during the redistribution itself.
+
+**Stop the service first**, update the scripts, preview the new assignment,
+then apply the manifest and restart the existing service:
+
+```bash
+systemctl --user stop kalam-codex-round2.service
+git pull --ff-only
+python3 -m py_compile scripts/kalam_codex_worker.py scripts/kalam_codex_parallel.py
+python3 scripts/kalam_codex_parallel.py rebalance
+python3 scripts/kalam_codex_parallel.py rebalance --apply
+systemctl --user start kalam-codex-round2.service
+python3 scripts/kalam_codex_parallel.py status
+```
+
+The preview does not write anything. `--apply` creates the private
+`~/.local/state/kalam-codex-round2/queue-ownership.json` manifest; neither
+command changes the Git repository or clears historical results.
+
+The supervisor and all worker locks must be free when applying the rebalance.
+A previous interruption's `current_path` and `workspace_session.path` remain
+assigned to the original worker. The new worker 0 receives only previously
+unstarted files. The ownership manifest uses a checksum of the full
+alphabetical inventory; if files are later added, renamed or removed, it
+fails closed rather than risk overlapping assignments. Re-run the migration
+only with the service stopped and inspect any inventory-change error first.
+
+Do not delete shard state files, copy other shards' `results` into worker 0,
+or run the old single-worker supervisor concurrently.
