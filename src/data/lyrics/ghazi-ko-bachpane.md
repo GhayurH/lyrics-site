@@ -1,5 +1,5 @@
 ---
-title: "میرے بیٹا عباس"
+title: "غازی کو بچپنے"
 alternateTitle: "Ghazi Ko Bachpane"
 language: "Urdu"
 lang: "ur"

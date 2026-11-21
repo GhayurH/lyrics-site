@@ -1,6 +1,6 @@
 ---
 title: "ہے مدینے میں اندھیرا، بابِ زہرا جل رہا ہے"
-alternateTitle: "Hai Madine Meiṅ Andhera"
+alternateTitle: "Hai Madine Meiṅ Andhera, Baab-e-Zahra Jal Raha Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Hai khabar tujh ko ke bachcha mar gaya hai zer-e-dar
-  Hai sahabi-e-Nabi tu, phir bhi dar pe chal raha hai
+  Hai sahaabi-e-Nabi tu, phir bhi dar pe chal raha hai
 
   2
   Fatima boli ke Zainab ko chhupa lo ae Hasan

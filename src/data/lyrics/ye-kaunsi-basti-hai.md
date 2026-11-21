@@ -1,11 +1,11 @@
 ---
-title: "شام ہائے شام"
+title: "یہ کونسی بستی ہے"
 alternateTitle: "Ye Kaunsi Basti Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mir Takallum"
+poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
 tags: []
 aliases: []

@@ -1,7 +1,7 @@
 ---
-title: "میرے لہو کے ہر قطرے میں"
+title: "گونج رہا ہے یا حسین"
 recitationId: "goonj-rahi-hai-ya"
-alternateTitle: "Gunj Rahi Hai Ya"
+alternateTitle: "Gunj Raha Hai Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

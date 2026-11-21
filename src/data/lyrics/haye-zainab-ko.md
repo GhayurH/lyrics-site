@@ -73,3 +73,5 @@ romanLyrics: |-
 ۷
 پھر تکلم نہ علمدار نے کھولی آنکھیں
 بنت زہرا کی جو چادر کو سناں پر دیکھا
+
+<!-- Performance variant opening: ہاۓ زینبؑ / ہاۓ ہاۓ زینبؑ ہاۓ ہاۓ شام. The alternate reading has چَھری in stanza 5 and سِنا in stanza 7; the established poetic text is retained. -->

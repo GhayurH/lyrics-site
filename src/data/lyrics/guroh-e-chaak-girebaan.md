@@ -1,5 +1,5 @@
 ---
-title: "جو فاطمہ کی رگ جان علی کا ہے دلبر"
+title: "گروہِ چاک گریباں"
 recitationId: "gurohe-chaak-gariban"
 alternateTitle: "Guroh-e-Chaak Girebaaṅ"
 language: "Urdu"

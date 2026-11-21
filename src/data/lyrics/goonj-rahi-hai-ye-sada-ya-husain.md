@@ -1,5 +1,6 @@
 ---
 title: "گونج رہی ہے یہ صدا یا حسینؑ"
+alternateTitle: "Gunj Rahi Hai Ye Sadaa Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -1,65 +1,82 @@
 ---
-title: "ہے کون مظہرِ خدا بتا دیا حسین نے"
+title: "ہے کون مظہرِ خُدا بتا دیا حُسینؑ نے"
 alternateTitle: "Hai Kaun Mazhar-e-Khuda Bata Diya Husain Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Yasir"
+poet: "Yasir Raza Yasir"
 aliases: []
 published: false
+reciter: "Syed Wajih Hasan Zaidi"
 romanLyrics: |-
-  Hai kon mazhar-e-Khuda bata diya Hussain ne
-  Keh ikhtiyar-e-kun hai kya dikha diya Hussain ne
+  Hai kon mazhar-e-Khuda bata diya Husain ne
+  Keh ikhtiyaar-e-kun hai kya dikha diya Husain ne
 
   1
-  Malak woh Fitrus-e-hazeen uray ga kaise par nahi
-  Magar dila ke oss ko par ura diya Hussain ne
-  Yazeed dagdar kar raha tha kul khudai ko
-  Nishan oss ka dehar se mita diya Hussain ne
+  Malak woh Fitrus-e-haziṅ ure ga kaise par nahiṅ
+  Magar dila ke us ko par ura diya Husain ne
 
   2
-  Jabeen-e-Hur kahan, kahan romal-e-dast-e-Syeda
-  Jo soch mein nahi tha woh sila diya Hussain ne
-  Pata chalay marifat ki asal roshni hai kya
-  Issi liye jala diya bhuja diya Hussain ne
+  Yazid daaghdaar kar raha tha kul khudaai ko
+  Nishaan us ka dehar se mita diya Husain ne
 
   3
-  Parho namaz robaro karo Khuda se guftgu
-  Hussainiyo ko yeh bhi gur sikha diya Hussain ne
-  Sar-e-sina tu ghoor kar kalam kar raha hai sar
-  Zamane dekh maut ko hara diya Hussain ne
+  Jabin-e-Hur kahaaṅ, kahaaṅ romaal-e-dast-e-Syeda
+  Jo soch mein nahiṅ tha woh sila diya Husain ne
 
   4
-  Shaheed hona chahte hain sab miyan-e-Karbala
-  Sahabiyon ko aisa kya bata diya Hussain ne
-  Qasam hai Yasir-e-wila yeh sach hai iss mein shak hai kya
-  Main be-hunar tha ba-hunar bana diya Hussain ne
+  Pata chale marifat ki asal roshni hai kya
+  Isi liye jala diya bujha diya Husain ne
+
+  5
+  Parho namaaz robaro karo Khuda se guftgu
+  Husainiyo ko yeh bhi gur sikha diya Husain ne
+
+  6
+  Sar-e-sinaaṅ tu ghor kar kalaam kar raha hai sar
+  Zamaane dekh maut ko hara diya Husain ne
+
+  7
+  Shahid hona chaahte haiṅ sab miyaan-e-Karbala
+  Sahaabiyoṅ ko aisa kya bata diya Husain ne
+
+  8
+  Qasam hai Yasir-e-wila yeh sach hai is mein shak hai kya
+  Main be-hunar tha baa-hunar bana diya Husain ne
 ---
 
-ہے کون مظہرِ خدا بتا دیا حسین نے
-کہ اختیارِ کن ہے کیا دکھا دیا حسین نے
+ہے کون مظہرِ خُدا بتا دیا حُسینؑ نے
+کہ اختیارِ کُن ہے کیا دِکھا دیا حُسینؑ نے
 
 ۱
-ملک وہ فطرسِ حزیں اڑے گا کیسے پر نہیں
-مگر دلا کے اُس کو پر اڑا دیا حسین نے
-یزید داغدار کر رہا تھا کل خدائی کو
-نشان اُس کا دہر سے مٹا دیا حسین نے
+ملک وہ فطرسِ حزیں اُڑے گا کیسے پَر نہیں
+مگر دِلا کے اُس کو پَر اُڑا دیا حُسینؑ نے
 
 ۲
-جبینِ حر کہاں، کہاں رومالِ دستِ سیدہ
-جو سوچ میں نہیں تھا وہ صلہ دیا حسین نے
-پتا چلے معرفت کی اصل روشنی ہے کیا
-اسی لیے جلا دیا بجھا دیا حسین نے
+یزید داغدار کر رہا تھا کُل خُدائی کو
+نشان اُس کا دہر سے مِٹا دیا حُسینؑ نے
 
 ۳
-پڑھو نماز روبرو کرو خدا سے گفتگو
-حسینیوں کو یہ بھی گر سکھا دیا حسین نے
-سرِ سناں تو غور کر کلام کر رہا ہے سر
-زمانے دیکھ موت کو ہرا دیا حسین نے
+جبینِ حُرؑ کہاں، کہاں رومالِ دستِ سیّدہؑ
+جو سوچ میں نہیں تھا وہ صلہ دیا حُسینؑ نے
 
 ۴
+پتا چلے معرفت کی اصل روشنی ہے کیا
+اِسی لیے جلا دیا بُجھا دیا حُسینؑ نے
+
+۵
+پڑھو نماز روبرو کرو خُدا سے گفتگو
+حُسینیو کو یہ بھی گُر سکھا دیا حُسینؑ نے
+
+۶
+سرِ سِناں تو غور کر کلام کر رہا ہے سَر
+زمانے دیکھ موت کو ہرا دیا حُسینؑ نے
+
+۷
 شہید ہونا چاہتے ہیں سب میانِ کربلا
-صحابیوں کو ایسا کیا بتا دیا حسین نے
-قسم ہے یاسرِ ولا یہ سچ ہے اس میں شک ہے کیا
-میں بے ہنر تھا باہنر بنا دیا حسین نے
+صحابیوں کو ایسا کیا بتا دیا حُسینؑ نے
+
+۸
+قسم ہے یاسرِ وِلا یہ سچ ہے اِس میں شک ہے کیا
+میں بے ہُنر تھا با ہُنر بنا دیا حُسینؑ نے
