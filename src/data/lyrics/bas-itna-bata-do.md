@@ -22,22 +22,22 @@ romanLyrics: |-
   Bas itna bata do mera Abbas kahaaṅ tha
 
   2
-  Zehra ka pisar jaan-e-Nabi Sayyad-e-waali
+  Zehra ka pisar jaan-e-Nabi Sayyid-e-waali
   Akbar ke kaleje se sinaaṅ kaise nikaali
   Jab khaak pe dam torta Laila ka jawaaṅ tha
 
   3
-  Maidaan meiṅ beshir ko jab laaye the Shabbir
+  Maidaan meiṅ be shir ko jab laaye the Shabbir
   Nanhe Ali Asghar ki jo gardan pe laga tir
   Jab baap ke haathoṅ pe pisar tishna-dahaaṅ tha
 
   4
   Aaqa mera maidaan meiṅ kiuṅ reh gaya tanha
-  Haaṅ dudh na bakhshungi maiṅ ye kya kiya beta
+  Haaṅ dudh na bakhshuṅ gi main ye kya kiya beta
   Zehra ka pisar khaak pe jab girya-kunaaṅ tha
 
   5
-  Jab Bibiyaaṅ jalte hue khaimoṅ ke thi andar
+  Jab bibiyaaṅ jalte hue khaimoṅ ke thi andar
   Jab Zainab-e-dilgir ki chhini gayi chaadar
   Jab gardan-e-bimaar meiṅ wo tauq-e-garaaṅ tha
 
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Zainab ne kaha us ko wafa ka tha bahut paas
-  Jab zibh hue bhaai to zinda na the Abbas
+  Jab zabah hue bhaai to zinda na the Abbas
   Bin haathoṅ ke tha ghairat-e-Ilyaas ka laasha
   Saahil pe tarapta raha Abbas ka laasha
 

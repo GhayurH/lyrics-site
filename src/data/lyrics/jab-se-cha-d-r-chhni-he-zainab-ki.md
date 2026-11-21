@@ -7,6 +7,31 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Nauha Bibi Zainab
+  Jab se chaadar chhini hai Zainab ki, tab se har shaam udaas hai
+  Har alam par hai ek haath khula, is rida ki talaash hai
+
+  2
+  Laaj rakhna balaa ka tufaan hai, ya Ilaahi rida na lute koi
+  Aa rahe hain woh khaimoṅ ki jaanib, tu hi Zainab ka paas hai
+
+  3
+  Tegh khanjar hai tu magar par bhi, jaane kiuṅ dekhta hai khaimoṅ ko
+  Sar na Zainab ka berida hue, bas ye Hazrat ki aas hai
+
+  4
+  Jalte khaimoṅ se berida nikli, hil gai woh zamin Karb o Bala
+  Pusht par jaise koi mayyat ho, tarpi laash Abbas hai
+
+  5
+  Ya to Akbar sa beta ho hi nahiṅ, ya na mar jaae baap se pehle
+  Tashna lab mar gaya Ali Akbar, jab ke dariya bhi paas hai
+
+  6
+  Chaar su Shimr laeen ka chehra hai, darti huṅ Baba so nahiṅ sakti
+  Mujh se puchho kahaaṅ hain dar mere, khuṅ mein tar kiuṅ libaas hai
 ---
 
 ۱

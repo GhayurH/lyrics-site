@@ -11,75 +11,75 @@ aliases:
   - "Ya Sari'ar-Riza"
 published: true
 romanLyrics: |-
-  Ya Saria-r-Riza Ya Saria-r-Riza
-  Ighfir Liman La Yamliku Illad-Duaa
-  Fa-Innaka Faaalun Lima Tashaa
-  Ya Man Ismuhu Dawaaun Wa Zikruhu Shifaaun
-  Wa Taaatuhu Ghina
+  Ya Saria-r-Riza, ya Saria-r-Riza
+  Ighfir liman la yamliku illad-duaa
+  Fa-innaka fa'aalun lima tashaa
+  Ya man ismuhu dawaaun wa zikruhu shifaaun
+  Wa taa'atuhu ghina
 
   1
-  Tu Hi Kabir Tu Hi Kibriya Tu Rahnuma
-  Rag-e-Gulu Se Bhi Nazdik Tu Har Ek Lamha
-  Hai Tere Naam Ki Tasir Har Maraz Ki Dawa
-  Hai Tere Zikr Meiṅ Poshida Mere Haq Meiṅ Shifa
-  Baghair Maange Hi Karta Hai Tu Ata Pe Ata
-  Sada Se Pehle Hi Sunta Hai Sailoṅ Ki Sada
+  Tu hi kabir, tu hi kibriya, tu raahnuma
+  Rag-e-gulu se bhi nazdik tu har ek lamha
+  Hai tere naam ki taasir har maraz ki dawa
+  Hai tere zikr meiṅ poshida mere haq meiṅ shifa
+  Baghair maange hi karta hai tu ata pe ata
+  Sada se pehle hi sunta hai saailoṅ ki sada
 
   2
-  Ali Wasila Bane Aur Kumail Paaye Shifa
-  Usi Ke Naam Se Mansub Ho Gayi Ye Dua
-  Shab-e-Juma Hai Dua-e-Kumail Shukr Tera
-  Ye Ibtida Hai Tu Hai Inteha Hadith-e-Qissa
-  Ilahi Teri Riza Ke Siwa Kuch Aur Nahiṅ
-  Ke Mere Paas Dua Ke Siwa Kuch Aur Nahiṅ
+  Ali waasila bane aur Kumail paaye shifa
+  Usi ke naam se mansub ho gayi ye dua
+  Shab-e-juma hai dua-e-Kumail shukr tera
+  Ye ibtida hai tu hai intiha hadis-e-qissa
+  Ilahi teri riza ke siwa kuch aur nahiṅ
+  Ke mere paas dua ke siwa kuch aur nahiṅ
 
   3
-  Mere Khuda Wo Zabaneiṅ Jo Teri Hamd Kareiṅ
-  Wo Tere Panjtan-e-Pak Ki Dua Meiṅ Raheiṅ
-  Kabhi Wo Nar-e-Jahannam Ki Sakhtiyaṅ Na Saheiṅ
-  Pul-e-Siraat Se beKhauf o beKhatar Guzreiṅ
-  Gunahgaron Ko Ye Aasra Hai Subh o Masa
-  Khula Hua Hai Musalsal Tera Dar-e-Tauba
+  Mere Khuda wo zabaneiṅ jo teri hamd kareiṅ
+  Wo tere Panjtan-e-Pak ki dua meiṅ raheiṅ
+  Kabhi wo naar-e-jahannam ki sakhtiyaṅ na saheiṅ
+  Pul-e-siraat se bekhauf o bekhatar guzreiṅ
+  Gunaahgaaroṅ ko ye aasra hai subh o masa
+  Khula hua hai musalsal tera dar-e-tauba
 
   4
-  Rasul-e-Pak Ke Sadqe Meiṅ Aaye Khuda Ghar Ghar
-  Shua-e-Ilm Ki Kirnoṅ Ka Mustaqil Ho Guzar
-  Khula Rahe Mere Bachoṅ Pe Shahr-e-Ilm Ka Dar
-  Rahe Jawano Ki Har Dam Teri Riza Pe Nazar
-  Teri Riza Ke Bina Rizq-e-Ilm Kya Ho Ata
-  Jo Tu Na Chahe Dar-e-Ilm Khul Nahiṅ Sakta
+  Rasul-e-Pak ke sadqe meiṅ aaye Khuda ghar ghar
+  Shuaa-e-ilm ki kirnoṅ ka mustaqil ho guzar
+  Khula rahe mere bachchoṅ pe shahr-e-ilm ka dar
+  Rahe jawaano ki har dam teri riza pe nazar
+  Teri riza ke bina rizq-e-ilm kya ho ata
+  Jo tu na chahe dar-e-ilm khul nahiṅ sakta
 
   5
-  Tu Mere Aib Chhupata Hai Daal Kar Parda
-  Ilahi Deta Huṅ Maiṅ Tujh Ko Wasta Us Ka
-  Wohi Jo Sham-e-Gharibaṅ Meiṅ De Rahi Thi Sada
-  Nahiṅ Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
-  Rasulzadi Ke Parde Ki Laaj Rakh Lena
-  Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena
+  Tu mere aib chhupata hai daal kar parda
+  Ilahi deta huṅ maiṅ tujh ko waasta us ka
+  Wohi jo shaam-e-gharibaṅ meiṅ de rahi thi sada
+  Nahiṅ hai kuch bhi mere paas is rida ke siwa
+  Rasulzadi ke parde ki laaj rakh lena
+  Bharam duaoṅ ka meri bhi aaj rakh lena
 
   6
-  Shikasta Pehlu-e-Zahra Ka Wasta Ae Khuda
-  Jo Waqt-e-Ghusl Ali Ne Basad Buka Dekha
-  To Apne Aansu Ali Sa Jari Na Rok Saka
-  Khuda Ka Sher Bhi Ek Chikh Maar Kar Roya
-  Usi Rasul Ki Beti Ka Wasta Ae Khuda
-  Ho Walidain Ko Sehat Ke Sath Umr Ata
+  Shikasta pehlu-e-Zahra ka waasta ae Khuda
+  Jo waqt-e-ghusl Ali ne basad buka dekha
+  To apne aansu Ali sa jari na rok saka
+  Khuda ka sher bhi ek chikh maar kar roya
+  Usi rasul ki beti ka waasta ae Khuda
+  Ho walidain ko sehat ke saath umr ata
 
   7
-  Wo Ek Mariz Jo Ash-Shaam Keh Ke Rota Tha
-  Jhukaye Sar Wo Hayadar Rota Jata Tha
-  Pahan Ke Beriyaṅ Jo Karbala Se Sham Gaya
-  Usi Mariz Ke Sadqe Se Maangte Haiṅ Shifa
-  Maraz Se Pehle Dawa Khalq Tu Ne Ki Hai Khuda
-  Baraye Syed-e-Sajjad De Hameiṅ Bhi Shifa
+  Wo ek mariz jo Ash-Shaam keh ke rota tha
+  Jhukaye sar wo hayaa daar rota jata tha
+  Pahan ke beriyaaṅ jo Karbala se Shaam gaya
+  Usi mariz ke sadqe se maangte haiṅ shifa
+  Maraz se pehle dawa khalq tu ne ki hai Khuda
+  Baraa-e sayyid-e-Sajjad de hameiṅ bhi shifa
 
   8
-  Ilahi Sayyidi Maulaya Ya Aziz o Hakim
+  Ilahi sayyidi maulaaya ya Aziz o Hakim
   Jalil o Qadir o Jabbar-il-Ali o Azim
-  Teri Hi Hamd Hai Tu Rabb-ul-Alamin o Rahim
-  Gham-e-Husain Ke Sadqe Karam Ho Hum Par Karim
-  Sada-e-Sarwar o Raihan Sun Mere Allah
-  Baroz-e-Hashr Ho Saya Rida-e-Zahra Ka
+  Teri hi hamd hai tu Rabb-ul-Aalamin o Rahim
+  Gham-e-Husain ke sadqe karam ho hum par Karim
+  Sada-e-Sarwar o Raihan sun mere Allah
+  Baroz-e-hashr ho saaya rida-e-Zahra ka
 ---
 
 يَا سَرِيعَ الرِّضَا يَا سَرِيعَ الرِّضَا

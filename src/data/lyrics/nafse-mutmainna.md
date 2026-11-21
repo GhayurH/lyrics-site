@@ -1,6 +1,6 @@
 ---
 title: "کربلا کی شام ہے"
-alternateTitle: "Nafse Mutmainna"
+alternateTitle: "Nafs-e-Mutmainna"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,83 +13,83 @@ romanLyrics: |-
   1
   Karbala ki shaam hai
   Asr ka hangaam hai
-  Husain zuljanah par sawaar hai
-  Lar raha hai tin shab o roz ka pyasa
-  Haatif e ghaibi ki ye gunji sada
+  Husain Zuljanah par sawaar hai
+  Lar raha hai tin shab o roz ka pyaasa
+  Haatif-e-ghaibi ki ye gunji sada
   Ya ayatuhan nafsul mutmainnah
   Irjai ila rabbik
-  Laut aa laut aa nafse mutmainna
+  Laut aa laut aa Nafs-e-Mutmainna
   Ya Husain ya Husain
   Ghar se chala tu is emaan par
-  Aanch nahi aayegi quran par
-  Karz tera khun hai insan par
+  Aanch nahiṅ aayegi Quran par
+  Qarz tera khun hai insaan par
   Hogi khushi tujh ko yehi jaan kar
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Tin shab o roz tu pyasa raha
+  Tin shab o roz tu pyaasa raha
   Laashoṅ pe laashe bhi uthata raha
   Sabr ke johar bhi dikhata raha
   Shukr mera lab pe sajata raha
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Dub gaya nehr meiṅ bayyat ka naam
-  Teri shaja'at pe karunga kalaam
+  Teri shaja'at pe karuṅ ga kalaam
   Tu ne kiya hurr ko alaihis salaam
   Kiuṅ na kahuṅ fakhr se ae tishnakaam
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Apne bhare ghar ko luta kar Husain
-  Laasha e akbar ko utha kar Husain
+  Laasha-e-Akbar ko utha kar Husain
   Laashoṅ se maqtal ko saja kar Husain
-  Waada e tifli ko nibha kar Husain
+  Waada-e-tifli ko kabhi kar Husain
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Maut pe tu dasht meiṅ aise gira
   Maut ke maathe pe pasina mila
-  Kehte hai sab auliya sab ambiya
+  Kehte haiṅ sab auliya sab ambiya
   Jo na koi kar saka tu ne kiya
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Tu ne sitamgaaroṅ ko ruswa kiya
-  Parchame islam ko uncha kiya
+  Parcham-e-Islam ko uṅcha kiya
   Zulm saha sabr ka sajda kiya
-  Jo kisi insan ne aisa kiya
+  Jo kisi insaan ne aisa kiya
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Tu mere quran ki tafsir hai
-  Tu hi mere din ki taqdir hai
-  Karbobala khuld ki tasvir hai
+  Tu mere Quran ki tafsir hai
+  Tu hi meri din ki taqdir hai
+  Karb o Bala khuld ki tasvir hai
   Meri riza ab teri jagir hai
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Jo bhi gaya dasht meiṅ besar hua
-  Khun meiṅ ghazi ka alam tar hua
+  Jo bhi gaya dasht meiṅ be sar hua
+  Khun meiṅ Ghazi ka alam tar hua
   Kis tarha barbaad tera ghar hua
-  Qatl tere haathoṅ pe asghar hua
+  Qatl tere haathoṅ pe Asghar hua
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Maut ne maanga tha faqat ek sar
   Tu ne diye us ko bahattar magar
-  Nukta e baa sirf hai tera padar
-  Maani e zibhe azim amad pisar
+  Nuqta-e-baa sirf hai tera padar
+  Maani-e-zibh-e-azim aamad pisar
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Teri madad ke liye aaye the sab
-  Zehra thi hum raahe amir e arab
-  Zaafar e jinn aaye the behre adab
+  Zehra thi hamraah-e-Amir-e-Arab
+  Zaafar jinn aaye the bahr-e-adab
   Reh gaye khamosh magar tere lab
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Roti rahi zainab e nashaad bhi
-  Teri sakina tera sajjad bhi
+  Roti rahi Zainab-e-nashaad bhi
+  Teri Sakina tera Sajjad bhi
   Teri tarha thi teri aulaad bhi
-  Karte rahe shukr bhi faryad bhi
+  Karte rahe shukr bhi faryaad bhi
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Aur kahe mazhar o farhan kya
+  Aur kahe Mazhar o Farhan kya
   Tere bina fikr kya emaan kya
-  Din kya tauhid kai quran kya
-  Tere liye kehta hai subhaan kya
+  Din kya tauhid kya Quran kya
+  Tere liye kehta hai Subhaan kya
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
 ---

@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ya ali maula
-  Suna har ek ne jibril ne pukara hai
-  Khuda ke ghar meiṅ ali ko adu ne maara hai
-  Har ek ali ka azadaar besahara hai
-  Khuda ke ghar mein...
-  Sar e ali pe lagi zehr meiṅ bujhi shamshir
-  Shakhi ne din ke rehbar ki ki na kuch tauqir
-  Yatim hogaye abbas o shabbar o shabbir
-  Yatim hogayi kulsum zainab e dilgir
-  Lahu se surk hua kaisa ye musalla hai
-  Khuda ke ghar mein...
-  Najaf ke simt chale jayenge ali ab to
-  Palat ke aayenge ab to kabhi na kufe ko
-  Sitamgaroṅ ki sada aayegi ke aage bado
-  Nabi ali nahi ab ahlebait ko luto
-  Har ek qalb ne maula tumhe pukara hai
-  Khuda ke ghar mein...
-  Madi ke dar pe jo peshaniya lagadte the
-  Wo aur akrenge pehle se jo akarte the
-  Hasan se bhi wo larenge jo tumse larte the
-  Hasan se jhagrenge jo tumse bhi jhagarte the
-  Hai aage tufan bahot dur ab kanara hai
-  Khuda ke ghar mein...
-  Husain ko bhi shakhi ghayr kar le aayenge
-  Wo bhuke pyasoṅ pe tire sitam chalayenge
-  Badegi baani e shar qaime bhi jalayenge
-  Haram ko ya ali beinteha satayenge
-  Sada uthegi shahe karbala ko maara hai
-  Khuda ke ghar mein...
-  Nishana tir e sitam ka banega asghar bhi
-  Kaleja din pe dega jawan akbar bhi
-  Nabi ke diṅ pe fida hoyenge bahattar bhi
-  To degi apni rida murtaza ki dukhtar bhi
-  Ali rahe na jahaṅ meiṅ to ye nazara hai
-  Khuda ke ghar mein...
-  Kata ke shaane tarayi pe soyega abbas
-  Bujhayi jaa na sakegi sakina bibi ki pyaas
-  Jo bibiyoṅ se bandhegi wo tut jayegi aas
-  Sitamgaroṅ se bachane ko koi hoga na paas
-  Sitamgaroṅ ka sitam kab unhe gawara hai
-  Khuda ke ghar mein...
-  Lahu ke askhon se moo dho gaya ali maula
-  Jo jaagta tha bashar so gaya ali maula
-  Tumhare baad ghazab hogaya ali maula
-  Na jaane din kahaṅ kho gaya ali maula
-  Jo tumse bughz tha karbal meiṅ aashkaara hai
-  Khuda ke ghar mein...
-  Pidar nahi to mile unke dil ko kaise chain
-  Tarapna betoṅ ka aur haye betiyoṅ ka bain
-  Janaza saaqi e kausar ka le chale hasnain
-  Hasan kaho ke chute humse shaahe badr o hunain
-  Har ek chaahne waale ne ye pukara hai
-  Khuda ke ghar mein...
+  Ya Ali Maula
+  Suna har ek ne Jibril ne pukaara hai
+  Khuda ke ghar meiṅ Ali ko adu ne maara hai
+  Har ek Ali ka azaadaar besahaara hai
+  Khuda ke ghar meiṅ...
+  Sar-e-Ali pe lagi zehr meiṅ bujhi shamshir
+  Shaqi ne din ke rehbar ki ki na kuchh tauqir
+  Yatim ho gaye Abbas o Shabbar o Shabbir
+  Yatim ho gayi Kulsum Zainab-e-dilgir
+  Lahu se surkh hua kaisa ye musalla hai
+  Khuda ke ghar meiṅ...
+  Najaf ke simt chale jaayeṅge Ali ab to
+  Palat ke aayeṅge ab to kabhi na Kufe ko
+  Sitamgaroṅ ki sada aayegi ke aage barho
+  Nabi Ali nahiṅ ab Ahl-e-Bait ko luto
+  Har ek qalb ne Maula tumheṅ pukaara hai
+  Khuda ke ghar meiṅ...
+  Madi ke dar pe jo peshaaniyaaṅ ragarte the
+  Wo aur akreṅge pehle se jo akarte the
+  Hasan se bhi wo lareṅge jo tum se larte the
+  Hasan se jhagreṅge jo tum se bhi jhagarte the
+  Hai aage tufaan bahut dur ab kinaara hai
+  Khuda ke ghar meiṅ...
+  Husain ko bhi shaqi gher kar le aayeṅge
+  Wo bhuke pyaasoṅ pe tir-e-sitam chalaayeṅge
+  Barhegi baani-e-shar khaime bhi jalaayeṅge
+  Haram ko ya Ali beinteha sataayeṅge
+  Sada uthegi Shah-e-Karbala ko maara hai
+  Khuda ke ghar meiṅ...
+  Nishaan tir-e-sitam ka banega Asghar bhi
+  Kaleja din pe dega jawaan Akbar bhi
+  Nabi ke diṅ pe fida hoyeṅge bahattar bhi
+  To degi apni rida Murtaza ki dukhtar bhi
+  Ali rahe na jahaaṅ meiṅ to ye nazaara hai
+  Khuda ke ghar meiṅ...
+  Kata ke shaane tarai pe soyega Abbas
+  Bujhaayi jaa na sakegi Sakina Bibi ki pyaas
+  Jo bibiyoṅ se bandhegi wo tut jaayegi aas
+  Sitamgaroṅ se bachaane ko koi hoga na paas
+  Sitamgaroṅ ka sitam kab unheṅ gawaara hai
+  Khuda ke ghar meiṅ...
+  Lahu ke ashkoṅ se muṅh dho gaya Ali Maula
+  Jo jaagta tha bashar so gaya Ali Maula
+  Tumhaare baad ghazab ho gaya Ali Maula
+  Na jaane din kahaaṅ kho gaya Ali Maula
+  Jo tum se bughz tha Karbal meiṅ aashkaara hai
+  Khuda ke ghar meiṅ...
+  Pidar nahiṅ to mile un ke dil ko kaise chain
+  Tarapna betoṅ ka aur haaye betiyoṅ ka bain
+  Janaaza saaqi-e-Kausar ka le chale Hasnain
+  Hasan kaho ke chhute ham se Shah-e-Badr o Hunain
+  Har ek chaahne waale ne ye pukaara hai
+  Khuda ke ghar meiṅ...
 ---
 
 ۱

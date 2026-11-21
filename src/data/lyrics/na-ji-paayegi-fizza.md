@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Bibi tujhe maiṅ ne kabhi tanha nahiṅ chhora
-  Had ye hai masaaib meiṅ bhi rishta nahiṅ tora
+  Hadd ye hai masaaib meiṅ bhi rishta nahiṅ tora
   Nauha yehi turbat pe parhi jaayegi Fizza
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Zakhmoṅ se tapakta hai abhi khun badan pe
   Kaala hai abhi nil bhi shaanoṅ meiṅ rasan ke
-  Kis tarha kafan laash ko pehnaayegi Fizza
+  Kis tarah kafan laash ko pehnaayegi Fizza
 
   4
   Na dil ko sukuṅ hai na tasalli hai zara si

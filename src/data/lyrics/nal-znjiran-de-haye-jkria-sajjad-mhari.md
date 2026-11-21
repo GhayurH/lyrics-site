@@ -1,30 +1,51 @@
 ---
 title: "نال زنجیراں دے ہائے جکڑیا سجادؑ مہاری"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+alternateTitle: "Naal Zanjeeran Day Haye Jakhreya Sajjad Muhari"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Naal zanjeeran day
+  Naal zanjeeran day, haye jakhreya Sajjad muhari
+
+  1
+  Phuppiyan nay sir bharayna,
+  Hattan ch' rassiya payaan,
+  Hoyi Shaam tayaari
+
+  2
+  Layee jevain Shimr nay, Zainab day sir toun chaadar
+  Manzar o tak kay hogaye, rat akhiyaan cho jaari
+
+  3
+  Sajjad keewain logoun, bazaar-e-Shaam javay
+  Pairan ch' bairiya nay, gal touq hai bhaari
+
+  4
+  Enjh keeti mezbaani, vich Shaam shaamiya nay
+  Patthran day naal zakhmi, Sadaat hai saari
 ---
 
-Naal Zanjeeran Day
-Naal zanjeeran day,haye jakhreya Sajjad muhari.
+نال زنجیراں دے
+نال زنجیراں دے، ہائے جکڑیا سجاد مہاری
 
-1
-Phuppiyan nay sir bharayna,
-Hattan ch� rassiya payaan,
-Hoyi Shaam tayaari.
+۱
+پھپھیاں نے سر بھرینا،
+ہتھاں چ رسیاں پئیاں،
+ہوئی شام تیاری
 
-2
-1) Layee jevain Shimr nay, Zainab day Sir toun Chaadar
-Manzar o tak kay hogaye, rat akhiyaan cho jaari.
+۲
+لئی جیویں شمر نے، زینب دے سر توں چادر
+منظر او تک کے ہو گئے، رت اکھیاں چوں جاری
 
-3
-2) Sajjad keewain logoun, bazaar-e-shaam javay
-Pairan ch� bairiya nay, gal touq hai bhaari.
+۳
+سجاد کیویں لوگو، بازارِ شام جاوے
+پیراں چ بیڑیاں نے، گل طوق ہے بھاری
 
-4
-3) Enjh keeti mezbaani,vich Shaam shaamiya nay
-Patthran day naal Zakhmi, Sadaat hai saari.
+۴
+اینجھ کیتی میزبانی، وچ شام شامیاں نے
+پتھراں دے نال زخمی، سادات ہے ساری

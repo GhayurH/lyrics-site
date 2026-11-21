@@ -18,46 +18,46 @@ romanLyrics: |-
   Baba ko dekha khwaab meiṅ kehte the woh yehi
   Bahut ro chuki meri jaaṅ jaag jaa
   Chal Sakina chaleṅ Karbala
-  Saath Baba ke rehna sada
+  Saath Baba ke rehna sadaa
 
   1
   Mujh se bichhri to soi nahiṅ meri jaaṅ
-  Ek ek saans tum par hai koh-e-garaaṅ
+  Ek ak saans tum par hai koh-e-garaaṅ
   Aur is par sitam qaid ki sakhtiyaaṅ
-  Teri aah o buka par bhi paabandiyaaṅ
-  Is liye kar raha huṅ buka
+  Teri aah o bukaa par bhi paabandiyaaṅ
+  Is liye kar raha huṅ bukaa
 
   2
   Hai yahaaṅ sirf tanhaai taarikiyaaṅ
   Yeh ghutan aur taqdir ki beriyaaṅ
   Chaahne waale tere to sab haiṅ wahaaṅ
   Chain aata hai apnoṅ ke hi darmiyaaṅ
-  Chhor kar ab yeh shehr-e-jafa
+  Chhor kar ab yeh shehr-e-jafaa
 
   3
   Yaad karta hai Asghar tujhe meri jaaṅ
-  Tujh ko aawaaz deta hai woh bezabaaṅ
+  Tujh ko aawaaz deta hai woh be zabaaṅ
   Woh wahaaṅ reh gaya aa gayi tu yahaaṅ
   Woh wahaaṅ nauha khwaaṅ tu yahaaṅ nauha khwaaṅ
   Chain donoṅ ko aa jaaye ga
 
   4
-  Saath apne tujhe le ke jaauṅ ga maiṅ
-  Tere ammu se tujh ko milaauṅ ga maiṅ
-  Haaṅ tujhe baaliyaaṅ bhi pehnaauṅ ga maiṅ
-  Apne sine pe tujh ko sulaauṅ ga maiṅ
-  Hai wahaaṅ par jahaaṅ ek naya
+  Saath apne tujhe le ke jaauṅ ga main
+  Tere ammu se tujh ko milaauṅ ga main
+  Haaṅ tujhe baaliyaaṅ bhi pehnaauṅ ga main
+  Apne sine pe tujh ko sulaauṅ ga main
+  Hai wahaaṅ par jahaaṅ ak nayaa
 
   5
   Ab na talwaar o neza hai na tir hai
   Karbala ab to Ghaazi ki jaagir hai
   Tere Baba ke khwaaboṅ ki taabir hai
-  Ek aaghosh hai jis meiṅ beshir hai
+  Ek aaghosh hai jis meiṅ be shir hai
   Dil yeh tera behal jaaye ga
 
   6
-  Shaam se mukhtalif hai wahaaṅ ki faza
-  Kaun tujh par wahaaṅ ab kare ga jafa
+  Shaam se mukhtalif hai wahaaṅ ki fazaa
+  Kaun tujh par wahaaṅ ab kare ga jafaa
   Tera Akbar bhi hai aur tere chacha
   Saare pehroṅ se aazaad hai Alqama
   Ab to paani bhi mil jaaye ga
@@ -67,14 +67,14 @@ romanLyrics: |-
   Apne dukhre chacha ko sunaane chalo
   Jo sitam tum ne jhele bataane chalo
   Khaak-e-Karbal ko marham banaane chalo
-  Saare zakhmoṅ ki lene dawa
+  Saare zakhmoṅ ki lene dawaa
 
   8
-  Yuṅ to har roz Farhan o Mazhar yuṅhi
+  Yuṅ to har roz Farhan o Mazhar yunhi
   Baap se beti milti thi khwaaboṅ meiṅ hi
   Zindagi ka yehi khwaab tha aakhri
   Yuṅ laga saath Baba ke woh laadli
-  Chal basi sun ke bas yeh sada
+  Chal basi sun ke bas yeh sadaa
 ---
 جاگو اے بالی سکینہ دیتے ہیں آواز بابا
 

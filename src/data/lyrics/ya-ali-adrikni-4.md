@@ -9,41 +9,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya ali adrikni
+  Ya Ali adrikni
 
   1
-  Umme laila ka jigar hogaya chalni chalni
-  Dekhiye seena-e-akbar may hai barchi ki ani
+  Umm-e-Laila ka jigar ho gaya chhalni chhalni
+  Dekhiye sina-e-Akbar mein hai barchhi ki ani
 
   2
   Dekhiye dekhiye dam tut raha hai kis ka
   Hai qayamat barpa
-  Qaima-e-itrate athaar may hai seena zani
+  Khaima-e-itrat-e-athaar mein hai sina zani
 
   3
-  Sar jhukaye hue baithe hai sarane sarwar
-  Jaaṅ balab hai akbar
-  Haye mazlum ki kaisi hai gharib ul watani
+  Sar jhukaye hue baithe haiṅ sarhaane Sarwar
+  Jaaṅ balab hai Akbar
+  Haaye mazlum ki kaisi hai gharib-ul-watani
 
   4
-  Qaima-e-shaah may ghul hota ha innalilaah
+  Khaima-e-shaah mein ghul hota hai inna lillaah
   Dam-e-aakhir hai aah
-  Hichkiyaṅ leta hai hamshakle rasul-e-madani
+  Hichkiyaaṅ leta hai hamshakl-e-Rasul-e-Madani
 
   5
-  Khaak may milti hai akbar ki jawani maula
-  Keh rahi hai fizza
-  Mil gaya khaak may shabbir ka sar bechamani
+  Khaak mein milti hai Akbar ki jawaani Maula
+  Keh rahi hai Fizza
+  Mil gaya khaak mein Shabbir ka sar bechamani
 
   6
-  Laashe akbar pe ajab maadare akbar ka hai haal
+  Laash-e-Akbar pe ajab maadar-e-Akbar ka hai haal
   Haal se hai behaal
-  Rote rote wo kahiṅ jaan na dede apni
+  Rote rote wo kahiṅ jaan na de de apni
 
   7
-  Ye zaifi ye jawaaṅ laal ki mayyat maula
-  Kaise uthegi bhala
-  Aao imdad ko az behre rasul-e-madani
+  Ye zaifi ye jawaaṅ laal ki mayyat Maula
+  Kaise uthe gi bhala
+  Aao imdaad ko az bahr-e-Rasul-e-Madani
 ---
 
 یا علی ادرکنی

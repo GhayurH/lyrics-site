@@ -26,7 +26,7 @@ romanLyrics: |-
   Khuṅ meiṅ Abbas ke duba alam
 
   1
-  Jaam masumoṅ ke khaali reh gaye
+  Jaam maasumoṅ ke khaali reh gaye
   Laut kar aaye na Ghaazi ke qadam
 
   2
@@ -42,7 +42,7 @@ romanLyrics: |-
   Aaye khaime lutne ahl-e-sitam
 
   5
-  Wa hijaaba keh ke roye gi sada
+  Waa hijaabaa keh ke roye gi sada
   Gham na hoga saani-e-Zahra ka kam
 
   6

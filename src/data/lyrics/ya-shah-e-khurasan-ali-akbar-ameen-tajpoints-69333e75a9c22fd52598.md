@@ -1,53 +1,96 @@
 ---
-title: "Ya Shah E Khurasan Ali Akbar Ameen"
+title: "یا شاہِ خراسان علی اکبر امین"
+alternateTitle: "Ya Shah-e-Khurasan Ali Akbar Ameen"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Shah e Khurasan Ali Akbar Ameen
+
+  1
+  Mere Maula Raza
+  Ya Shah-e-Khurasan mere Maula Raza
+  Hai tum se jahan mein Iran ki pehchan
+  Hai itni muqadas yeh noor ki wadi
+  Kartay hain farishtay aa aa ke manadi
+  Mashhad ki zameen par janat bhi hai qurban
+
+  2
+  Woh roab tumhara hai Waris-e-Shabeer
+  Qaleen pe gar ho ik shair ki tasveer
+  Tum hukam agar do iss mein bhi paray jan
+  Har simt ghata hai chayi hoi gham ki
+  Le lijiye hum ko kashti mein karam ki
+  Hum ko na mita de barhta howa tofan
+
+  3
+  Allah-o-Nabi ke paigham ki khushbo
+  Phaili hai jahan mein Islam ki khushbo
+  Aabad rahe yeh Mashhad ka gulistan
+  Kartay hain talab jab Shehzadi-e-Qum se
+  Oqaat se barh kar mil jata hai tum se
+  Woh Nazish e Mariyam tum Fakhar-e-Suleman
+
+  4
+  Dunya ke hain Maula bigray hoye halaat
+  Sab tum se tarap kar kartay hain manajat
+  Hai waqt madad ka Zahra ke dil-o-jan
+  Mashhad mein hai yeh dil our rooh Najaf mein
+  Aa jaon tumharey zawwar ki saf mein
+  Maut aane se pehle bas hai yehi arman
+
+  5
+  Sab dil ki muradein ho jati hain hasil
+  Hotey hi tumharey darbar mein dakhil
+  Lagta hai keh jaisay janat mein hai mehman
+  Bazu mein hai unn ke jab naam ka sikka
+  Phir Akbar-o-Akhtar kis baat ka khatrah
+  Har waqt hamarey rehtey hain nigehban
 ---
 
-Ya Shah E Khurasan Ali Akbar Ameen
+یا شاہِ خراسان علی اکبر امین
 
-1
-Mere Maula Raza.
-Ya Shah-e-Khurasan Mere Maula Raza.
-Hai Tum Se Jahan Mein Iran Ki Pehchan.
-Hai Itni Muqadas Yeh Noor Ki Wadi.
-Kartay Hain Farishtay Aa Aa Ke Manadi.
-Mashhad Ki Zameen Par Janat Bhi Hai Qurban.
+۱
+میرے مولا رضا
+یا شاہِ خراسان میرے مولا رضا
+ہے تم سے جہاں میں ایران کی پہچان
+ہے اتنی مقدس یہ نور کی وادی
+کرتے ہیں فرشتے آ آ کے منادی
+مشہد کی زمین پر جنت بھی ہے قربان
 
-2
-Woh Roab Tumhara Hai Waris-e-Shabeer.
-Qaleen Pe Gar Ho Ik Shair Ki Tasveer.
-Tum Hukam Agar Do Iss Mein Bhi Paray Jan.
-Har Simt Ghata Hai Chayi Hoi Gham Ki.
-Le Lijiye Hum Ko Kashti Mein Karam Ki.
-Hum Ko Na Mita De Barhta Howa Tofan.
+۲
+وہ رعب تمہارا ہے وارثِ شبیر
+قالین پہ گر ہو اک شیر کی تصویر
+تم حکم اگر دو اس میں بھی پڑے جان
+ہر سمت گھٹا ہے چھائی ہوئی غم کی
+لے لیجیے ہم کو کشتی میں کرم کی
+ہم کو نہ مٹا دے بڑھتا ہوا طوفان
 
-3
-ALLAH-o-Nabi Ke Paigham Ki Khushbo.
-Phaili Hai Jahan Mein Islam Ki Khushbo.
-Aabad Rahe Yeh Mashhad Ka Gulistan.
-Kartay Hain Talab Jab Shehzadi-e-Qum Se.
-Oqaat Se Barh Kar Mil Jata Hai Tum Se.
-Woh Nazish e Mariyam Tum Fakhar-e-Suleman.
+۳
+اللہ و نبی کے پیغام کی خوشبو
+پھیلی ہے جہاں میں اسلام کی خوشبو
+آباد رہے یہ مشہد کا گلستان
+کرتے ہیں طلب جب شہزادیِ قم سے
+اوقات سے بڑھ کر مل جاتا ہے تم سے
+وہ نازشِ مریم تم فخرِ سلیمان
 
-4
-Dunya Ke Hain Maula Bigray Hoye Halaat.
-Sab Tum Se Tarap Kar Kartay Hain Manajat.
-Hai Waqt Madad Ka Zahra Ke Dil-o-Jan.
-Mashhad Mein Hai Yeh Dil Our Rooh Najaf Mein.
-Aa Jaon Tumharey Zawwar Ki Saf Mein.
-Maut Aane Se Pehle Bas Hai Yehi Arman.
+۴
+دنیا کے ہیں مولا بگڑے ہوئے حالات
+سب تم سے تڑپ کر کرتے ہیں مناجات
+ہے وقت مدد کا زہرا کے دل و جان
+مشہد میں ہے یہ دل اور روح نجف میں
+آ جاؤں تمہارے زوار کی صف میں
+موت آنے سے پہلے بس ہے یہی ارمان
 
-5
-Sab Dil Ki Muradein Ho Jati Hain Hasil.
-Hotey Hi Tumharey Darbar Mein Dakhil.
-Lagta Hai Keh Jaisay Janat Mein Hai Mehman.
-Bazu Mein Hai Unn Ke Jab Naam Ka Sikka.
-Phir Akbar-o- Akhtar Kis Baat Ka Khatrah.
-Har Waqt Hamarey Rehtey Hain Nigehban.
+۵
+سب دل کی مرادیں ہو جاتی ہیں حاصل
+ہوتے ہی تمہارے دربار میں داخل
+لگتا ہے کہ جیسے جنت میں ہے مہمان
+بازو میں ہے ان کے جب نام کا سکہ
+پھر اکبر و اختر کس بات کا خطرہ
+ہر وقت ہمارے رہتے ہیں نگہبان

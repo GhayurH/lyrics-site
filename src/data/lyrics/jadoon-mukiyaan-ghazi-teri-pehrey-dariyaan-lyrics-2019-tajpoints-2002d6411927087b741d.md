@@ -1,30 +1,50 @@
 ---
-title: "Jadoon Mukiyaan Ghazi Teri Pehrey Dariyaan Lyrics 2019"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "جدوں مکیاں غازی تیری پہرے داریاں"
+alternateTitle: "Jadoon Mukiyaan Ghazi Teri Pehrey Dariyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jadoon mukiyaan Ghazi teri pehrey dariyaan
+  Khaimay sar gaye qaidi ho gayiyaan sadi muk gayiyaan sardariyaan
+  Kiwein khul ke aye gal aakhaan
+  Sharam taun mar hi na jawan samjh layin jo main samjhawaan
+  Pehla suraj takna aye aj bin chadar dardaan mariyaan
+  Pichon Shami wadhi aawan
+  Magar aglay na rah dewan teri bhaina kidhar jawan
+  Tere badoon bebas veera sanu samjhiyaa aye bazariyaan
+  Onna galiyaan sajaiyaan ne
+  Asaan v sir lukaye ne othey deway aithay mitiyaan
+  Apni apni halat jitni dowaan kitiyaan ne teyariyaan
+  Asaan bhaina jo sunya si
+  Oh akhiyaan naal takiyaa aye ki darbar di peshi
+  Haye ki guzari sadi maa te sanu das chadiya darbariyaan
+  Bandhey bazu wakhaye san
+  Main kuj Akbar nayin dasiya faqat veraan nu aye puchiya
+  Sir naizay te okhay ne ya wich rasiyaan ne dushwariyaan
 ---
 
-1
-Jadoon Mukiyaan Ghazi Teri Pehrey Dariyaan Write Up
-Khaimay Sar Gaye Qaidi Ho Gayiyaan Sadi Muk Gayiyaan Sardariyaan.
-Kiwein Khul Ke Aye Gal Aakhaan.
-Sharam Taun Mar HI Na Jawan Samjh Layin Jo Main Samjhawaan.
-Pehla Suraj Takna Aye Aj Bin Chadar Dardaan Mariyaan.
-Pichon Shami Wadhi Aawan.
-Magar Aglay Na Rah Dewan Teri Bhaina Kidhar Jawan.
-Tere Badoon Bebas Veera Sanu Samjhiyaa Aye Bazariyaan.
-Onna Galiyaan Sajaiyaan Ne.
-Asaan V Sir Lukaye Ne Othey Deway Aithay Mitiyaan.
-Apni Apni Halat Jitni Dowaan Kitiyaan Ne Teyariyaan.
-Asaan Bhaina Jo Sunya Si.
-Oh Akhiyaan Naal Takiyaa Aye Ki Darbar Di Peshi.
-Haye Ki Guzari Sadi Maa Te Sanu Das Chadiya Darbariyaan.
-Bandhey Bazu Wakhaye San.
-Main Kuj Akbar Nayin Dasiya Faqat Veraan Nu Aye Puchiya.
-Sir Naizay Te Okhay Ne Ya Wich Rasiyaan Ne Dushwariyaan.
+۱
+جدوں مکیاں غازی تیری پہرے داریاں
+خیمے سڑ گئے قیدی ہو گئیاں ساڈی مک گئیاں سرداریاں
+کیویں کھل کے اے گل آکھاں
+شرم توں مر ہی نہ جاواں سمجھ لئیں جو میں سمجھاواں
+پہلا سورج تکنا اے اج بن چادر درداں ماریاں
+پچھوں شامی ودھی آون
+مگر اگلے نہ راہ دیون تیری بھیناں کدھر جاون
+تیرے بدوں بےبس ویرا سانوں سمجھیا اے بازاریاں
+اوہناں گلیاں سجائیاں نے
+اساں وی سر لکائے نے اوتھے دیوے ایتھے مٹیاں
+اپنی اپنی حالت جتنی دوواں کیتیاں نے تیاریاں
+اساں بھیناں جو سنیا سی
+اوہ اکھیاں نال تکیا اے کی دربار دی پیشی
+ہائے کی گزاری ساڈی ماں تے سانوں دس چھڈیا درباریاں
+بندھے بازو وکھائے سن
+میں کجھ اکبر نئیں دسیا فقط ویراں نوں اے پچھیا
+سر نیزے تے اوکھے نے یا وچ رسیاں نے دشواریاں

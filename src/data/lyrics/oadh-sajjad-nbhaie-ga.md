@@ -1,112 +1,214 @@
 ---
 title: "وعدہ سجادؑ نبھائے گا"
+alternateTitle: "Wada Sajjad Nibhaenga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye Sajjad
+
+  1
+  Tha yeh manzar ajab, aalm e zar mein jub
+  Ahad o paimane Karbobala ke hue
+
+  2
+  Sare wadon ki hami bhari Shah ne,
+  Manzil e sarb mein sabr mein uf na ke Shah ne
+
+  3
+  Baar Zainab ke parde ki aaie thi jub
+  Ho gaiye ro ke khamosh Shah e Arab
+
+  4
+  Bole Sajjad
+
+  5
+  Haan kaho Baba, yeh kam to mujhko karna hai
+  Yeh aap ka beta Karbal se, ek kafela le kar jaienga
+  Wada Sajjad nibaenga
+
+  6
+  Sajjad nibhaenga, wada Sajjad nibhaenga
+
+  7
+  Ghar aap lutaenge Baba, bazar mein jana hai mujhko
+  Makhtal ko aap basaienge, zindan basana hai mujhko
+  Zindan mein apni behna ko, yeh nauhakhwan dafnaenga
+  Wada Sajjad nibaenga
+
+  8
+  Sajjad nibhaenga, wada Sajjad nibhaenga
+
+  9
+  Jub gyarah (11) Moharram aaiengi, sadaat banenge jub kaidi
+  Mehmil ke bajaie uoonton par, aulad e Payambar baithengi
+  Us roz se aap ka shehzada, salar e Haram kehlaenga
+  Wada Sajjad nibaenga
+
+  10
+  Sajjad nibhaenga
+  Wada Sajjad nibhaenga
+
+  11
+  Hum basti basti jaienge, barsen gi aag kahin patthar
+  Dekhengi nigahen Baba ki, jub meri phupi ko bechadar
+  Dauran e safar bus ek hi sitam, bemar ke sar ko jhukaienga
+  Wada Sajjad nibaenga
+
+  12
+  Sajjad nibhaenga, wada Sajjad nibhaenga
+
+  13
+  Aankhon se lahu barsaenga, durre bhi badan par khaienga
+  Us tashnalabi ki shiddat mein, zanjeer ka bojh uthaienga
+  Yeh zakhm bhi dil par khaienga, baghi ka pisar kehlaenga
+  Wada Sajjad nibaenga
+
+  14
+  Sajjad nibhaenga, wada Sajjad nibhaenga
+
+  15
+  Na paak zubanon par hoga, jub naam Ali ki beti ka
+  Zanjeer bhi mujha par roienga, har gaam bhi mujh par roienga
+  Aaye Baba yeh gam ka manzar, Sajjad ko khoon rulaienga
+  Wada Sajjad nibaenga
+
+  16
+  Sajjad nibhaenga, wada Sajjad nibhaenga
+
+  17
+  Roiengi mashiyat bhi muj par, jub dekhengi yeh haal mera
+  Sadke ki khajoor e barsengi, yun hoga istakbal mera
+  Gairat ka khuda is ummat se, yeh ajr e risalat paienga
+  Wada Sajjad nibaenga
+
+  18
+  Sajjad nibhaenga, wada Sajjad nibhaenga
+
+  19
+  Kulsoom ke aage jub Khuli Abbas ke sar ko laienga
+  Us wakt sina se reti par, Abbas ka sar gir jaienga
+  Gush kha kar samblenga kaidi
+  Samblenga phir gash khaienga
+  Wada Sajjad nibaenga
+
+  20
+  Sajjad nibhaenga
+  Wada Sajjad nibhaenga
+
+  21
+  Irfan e Aza dil Zainab ka, woh dard o alam ka mazhar tha
+  Zanjeer mein jakde kaidi ka har wakt yehi ek nauha tha
+  Wada Sajjad nibhaienga
+  Wada Sajjad nibaenga
+
+  22
+  Sajjad nibhaenga
+  Wada Sajjad nibhaenga
 ---
 
-Haye SAJJAD (ASWS) …..4
+ہائے سجادؑ
 
-1
-Tha Yeh Manzar Ajab, Aalm E Zar Mein Jub
-Ahad O Paimane Karbobala Ke Hue…..2
+۱
+تھا یہ منظر عجب، عالمِ ذر میں جب
+عہد و پیمانِ کرب و بلا کے ہوئے
 
-2
-Sare Wadon Ki Hami Bhari SHAH (ASWS) Ne,
-Manzil E Sarb Mein Sabr Mein Uf Na Ke SHAH (ASWS) Ne…..2
+۲
+سارے وعدوں کی حامی بھری شاہؑ نے،
+منزلِ صعب میں صبر میں اُف نہ کی شاہؑ نے
 
-3
-Baar ZAINAB Ke Parde Ki Aaie Thi Jub……2
-Ho Gaiye Ro Ke Khamosh SHAH E ARAB (ASWS)
+۳
+بار زینبؑ کے پردے کی آئی تھی جب
+ہو گئے رو کے خاموش شاہِ عربؑ
 
-4
-Bole SAJJAD (ASWS)…..
+۴
+بولے سجادؑ
 
-5
-Haan Kaho Baba….. Yeh Kam To Mujhko Karna Hai
-Yeh Aap Ka Beta Karbal Se….. Ek Kafela Le Kar Jaienga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۵
+ہاں کہو بابا، یہ کام تو مجھ کو کرنا ہے
+یہ آپ کا بیٹا کربل سے، ایک قافلہ لے کر جائے گا
+وعدہ سجادؑ نبھائے گا
 
-6
-SAJJAD (ASWS) Nibhaenga ….. Wada SAJJAD (ASWS) Nibhaenga …..2
+۶
+سجادؑ نبھائے گا، وعدہ سجادؑ نبھائے گا
 
-7
-Ghar Aap Lutaenge Baba…..Bazar Mein Jana Hai Mujhko…..2
-Makhtal Ko Aap Basaienge…..Zindan Basana Hai Mujhko…..2
-Zindan Mein Apni BEHNA Ko ….. Yeh Nauhakhwan Dafnaenga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۷
+گھر آپ لٹائیں گے بابا، بازار میں جانا ہے مجھ کو
+مقتل کو آپ بسائیں گے، زنداں بسانا ہے مجھ کو
+زنداں میں اپنی بہنا کو، یہ نوحہ خواں دفنائے گا
+وعدہ سجادؑ نبھائے گا
 
-8
-SAJJAD (ASWS) Nibhaenga ….. Wada SAJJAD (ASWS) Nibhaenga …..2
+۸
+سجادؑ نبھائے گا، وعدہ سجادؑ نبھائے گا
 
-9
-Jub Gyarah (11) Moharram Aaiengi….SADAAT (ASWS) Banenge Jub Kaidi…..2
-Mehmil Ke Bajaie Uoonton Par….. AULAD E PAYAMBARBaithengi……2
-Us Roz Se Aap Ka SHEHZADA (ASWS) ….. Salar E Haram Kehlaenga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۹
+جب گیارہ (۱۱) محرم آئیں گی، ساداتؑ بنیں گے جب قیدی
+محمل کے بجائے اونٹوں پر، اولادِ پیمبر بیٹھیں گی
+اُس روز سے آپ کا شہزادہؑ، سالارِ حرم کہلائے گا
+وعدہ سجادؑ نبھائے گا
 
-10
-SAJJAD (ASWS) Nibhaenga …..
-Wada SAJJAD (ASWS) Nibhaenga …..2
+۱۰
+سجادؑ نبھائے گا
+وعدہ سجادؑ نبھائے گا
 
-11
-Hum Basti Basti Jaienge….. Barsen Gi Aag Kahin Patthar…..2
-Dekhengi Nigahen Baba Ki….. Jub Meri Phupi Ko Bechadar…..2
-Dauran E Safar Bus Ek Hi Sitam….. Bemar Ke Sar Ko Jhukaienga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۱۱
+ہم بستی بستی جائیں گے، برسیں گی آگ کہیں پتھر
+دیکھیں گی نگاہیں بابا کی، جب میری پھوپھی کو بے چادر
+دورانِ سفر بس ایک ہی ستم، بیمار کے سر کو جھکائے گا
+وعدہ سجادؑ نبھائے گا
 
-12
-SAJJAD (ASWS) Nibhaenga ….. Wada SAJJAD (ASWS) Nibhaenga …..2
+۱۲
+سجادؑ نبھائے گا، وعدہ سجادؑ نبھائے گا
 
-13
-Aankhon Se Lahu Barsaenga…..Durre Bhi Badan Par Khaienga…..2
-Us Tashnalabi Ki Shiddat Mein….. Zanjeer Ka Bojh Uthaienga…..2
-Yeh Zakhm Bhi Dil Par Khaienga….. Baghi Ka Pisar Kehlaenga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۱۳
+آنکھوں سے لہو برسائے گا، دُرّے بھی بدن پر کھائے گا
+اُس تشنہ لبی کی شدت میں، زنجیر کا بوجھ اٹھائے گا
+یہ زخم بھی دل پر کھائے گا، باغی کا پسر کہلائے گا
+وعدہ سجادؑ نبھائے گا
 
-14
-SAJJAD (ASWS) Nibhaenga ….. Wada SAJJAD (ASWS) Nibhaenga …..2
+۱۴
+سجادؑ نبھائے گا، وعدہ سجادؑ نبھائے گا
 
-15
-Na Paak Zubanon Par Hoga…..Jub Naam ALI (ASWS) Ki BETI Ka…..2
-Zanjeer Bhi Mujha Par Roienga…..Har Gaam Bhi Muj Hpar Roienga…..2
-Aaye Baba Yeh Gam Ka Manzar….. SAJJAD (ASWS) Ko Khoon Rulaienga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۱۵
+ناپاک زبانوں پر ہوگا، جب نام علیؑ کی بیٹی کا
+زنجیر بھی مجھ پر روئے گا، ہر گام بھی مجھ پر روئے گا
+اے بابا یہ غم کا منظر، سجادؑ کو خون رلائے گا
+وعدہ سجادؑ نبھائے گا
 
-16
-SAJJAD (ASWS) Nibhaenga ….. Wada SAJJAD (ASWS) Nibhaenga …..2
+۱۶
+سجادؑ نبھائے گا، وعدہ سجادؑ نبھائے گا
 
-17
-Roiengi Mashiyat Bhi Muj Par….. Jub Dekhengi Yeh Haal Mera…..2
-Sadke Ki Khajoor E Barsengi….. Yun Hoga Istakbal Mera…..2
-Gairat Ka Khuda Is Ummat Se….. Yeh Ajr E Risalat Paienga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۱۷
+روئیں گی مشیت بھی مجھ پر، جب دیکھیں گی یہ حال میرا
+صدقے کی کھجوریں برسیں گی، یوں ہوگا استقبال میرا
+غیرت کا خدا اِس امت سے، یہ اجرِ رسالت پائے گا
+وعدہ سجادؑ نبھائے گا
 
-18
-SAJJAD (ASWS) Nibhaenga ….. Wada SAJJAD (ASWS) Nibhaenga …..2
+۱۸
+سجادؑ نبھائے گا، وعدہ سجادؑ نبھائے گا
 
-19
-Kulsoom Ke Aage Jub Khuli (La) ABBAS (ASWS) Ke Sar Ko Laienga
-Us Wakt Sina Se Reti Par…. ABBAS (ASWS) Ka Sar Gir Jaienga
-Gush Kha Kar Samblenga Kaidi
-Samblenga Phir Gash Khaienga
-Wada SAJJAD (ASWS) Nibaenga…..2
+۱۹
+کلثوم کے آگے جب خولی (لع) عباسؑ کے سر کو لائے گا
+اُس وقت سِناں سے ریتی پر، عباسؑ کا سر گر جائے گا
+غش کھا کر سنبھلے گا قیدی
+سنبھلے گا پھر غش کھائے گا
+وعدہ سجادؑ نبھائے گا
 
-20
-SAJJAD (ASWS) Nibhaenga …..
-Wada SAJJAD (ASWS) Nibhaenga …..2
+۲۰
+سجادؑ نبھائے گا
+وعدہ سجادؑ نبھائے گا
 
-21
-Irfan E Aza Dil ZAINAB (ASWS) Ka ….. Woh Dard O Alam Ka Mazhar Tha
-Zanjeer Mein Jakde Kaidi Ka Har Wakt Yehi Ek Nauha Tha
-Wada SAJJAD (ASWS) Nibhaienga …..2
-Wada SAJJAD (ASWS) Nibaenga…..2
+۲۱
+عرفانِ عزا دل زینبؑ کا، وہ درد و الم کا مظہر تھا
+زنجیر میں جکڑے قیدی کا ہر وقت یہی ایک نوحہ تھا
+وعدہ سجادؑ نبھائے گا
+وعدہ سجادؑ نبھائے گا
 
-22
-SAJJAD (ASWS) Nibhaenga …..
-Wada SAJJAD (ASWS) Nibhaenga …..2
+۲۲
+سجادؑ نبھائے گا
+وعدہ سجادؑ نبھائے گا

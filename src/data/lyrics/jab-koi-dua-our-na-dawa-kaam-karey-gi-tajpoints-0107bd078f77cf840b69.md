@@ -1,35 +1,60 @@
 ---
-title: "Jab Koi Dua Our Na Dawa Kaam Karey Gi"
+title: "جب کوئی دعا اور نہ دوا کام کرے گی"
+alternateTitle: "Jab Koi Dua Our Na Dawa Kaam Karey Gi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab koi dua our na dawa kaam karey gi
+  Abbas ke parcham ki howa kam karey gi
+  Aksar yeh Ali kehte they Ghazi ko utha kar
+  Zahra ki dua sab se juda kam karey gi
+
+  2
+  Ab chand ka kiya kam raha ghar mein Ali ke
+  Mah-e-Bani Hashim ki zia kam karey gi
+  Khud dein gay Shehanshah-e-Wafa oss ko salami
+  Kuch iss tarha Fizza ki wafa kam karey gi
+
+  3
+  Shabeer ke rozay se kafan le ke chala hoon
+  Ab meri hifazat ka qaza kam karey gi
+  Phir bhi nahi utray ga Khadija tera qarza
+  Din raat bhi gar khalq-e-Khuda kam karey gi
+
+  4
+  Shabeer ka sar hai yeh kahin jhuk nahi sakta
+  Naizay ki anni par bhi ana kam karey gi
+  Yeh hazari-e-Hazrat-e-Abbas hai Sajjad
+  Qismat se zyada yeh giza kam karey gi
 ---
 
-1
-Jab Koi Dua Our Na Dawa Kaam Karey Gi.
-Abbas Ke Parcham Ki Howa Kam Karey Gi.
-Aksar Yeh Ali Kehte They Ghazi Ko Utha Kar.
-Zahra Ki Dua Sab Se Juda Kam Karey Gi.
+۱
+جب کوئی دعا اور نہ دوا کام کرے گی
+عباس کے پرچم کی ہوا کام کرے گی
+اکثر یہ علی کہتے تھے غازی کو اٹھا کر
+زہرا کی دعا سب سے جدا کام کرے گی
 
-2
-Ab Chand Ka Kiya Kam Raha Ghar Mein Ali Ke.
-Mah-e-Bani Hashim Ki Zia Kam Karey Gi.
-Khud Dein Gay Shehanshah-e-Wafa Oss Ko Salami.
-Kuch Iss Tarha Fizza Ki Wafa Kam Karey Gi.
+۲
+اب چاند کا کیا کام رہا گھر میں علی کے
+ماہِ بنی ہاشم کی ضیا کام کرے گی
+خود دیں گے شہنشاہِ وفا اس کو سلامی
+کچھ اس طرح فضہ کی وفا کام کرے گی
 
-3
-Shabeer Ke Rozay Se Kafan Le Ke Chala Hoon.
-Ab Meri Hifazat Ka Qaza Kam Karey Gi.
-Phir Bhi Nahi Utray Ga Khadija Tera Qarza.
-Din Raat Bhi Gar Khalq-e-Khuda Kam Karey Gi.
+۳
+شبیر کے روضے سے کفن لے کے چلا ہوں
+اب میری حفاظت کا قضا کام کرے گی
+پھر بھی نہیں اترے گا خدیجہ تیرا قرضہ
+دن رات بھی گر خلقِ خدا کام کرے گی
 
-4
-Shabeer Ka Sar Hai Yeh Kahin Jhuk Nahi Sakta.
-Naizay Ki Anni Par Bhi Ana Kam Karey Gi.
-Yeh Hazari-e-Hazrat-e-Abbas Hai Sajjad.
-Qismat Se Zyada Yeh Giza Kam Karey Gi.
+۴
+شبیر کا سر ہے یہ کہیں جھک نہیں سکتا
+نیزے کی اَنّی پر بھی انا کام کرے گی
+یہ حاضریِ حضرتِ عباس ہے سجاد
+قسمت سے زیادہ یہ غذا کام کرے گی

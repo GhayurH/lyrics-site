@@ -1,74 +1,137 @@
 ---
-title: "Bimar Ro Raha Hai Ali Kabir Ajmal"
+title: "بیمار رو رہا ہے علی کبیر اجمل"
+alternateTitle: "Bimar Ro Raha Hai Ali Kabir Ajmal"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ajmal"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Bimar ro raha hai Ali Kabir Ajmal
+  Sab hans rahe hain baba beemar ro raha hai
+
+  1
+  Baloon se munh chupaye nikli ghamo ki mari
+  Na mehramo mein haye maqna hai na amari
+  Baba ko yaad kar ke be sakhta pukari
+  Kofay ki shahzadi Kofay mein be rida hai
+
+  2
+  Sab qatal ho gaye jab Karb-o-Bala mein baba
+  Hathoon mein aag le kar Shimar laeen aaya
+  Sholon ke darmiyaan tha baba mera bhatija
+  Oss ko utha ke main ne kandhoon pe khud rakha hai
+
+  3
+  Daman jala howa hai be haal hai Sakina
+  Chila rahi hai ammo darya se jald aa ja
+  Kano se khoon rawaan hai dam ghut raha hai mera
+  Ammo rasan mein mere jakra howa gala hai
+
+  4
+  Kitna pukara main ne tum bhi na aaye baba
+  Jakra howa hai dekho rasi mein mera shana
+  Kofay mein yaad aaya baba tera zamana
+  Bhaiyya ka haye mere naizay pe sar rakha hai
+
+  5
+  Pairon mein beriyaan hain beemar na tawaan ke
+  Kitne chubhay hoye hain pairon mein oss ke kantay
+  Talwaon ke le ke bosay chilla rahe hain chalay
+  Lagtay hain taziyane jab bhi kahin ruka hai
+
+  6
+  Be goor-o-be kafan hai Zahra ka mah parah
+  Jalti hoi zameen par bikhra para hai lasha
+  Teeron se barchiyon se chalni hai sara seena
+  Maqtal mein baal kholay bas aik Fatima hai
+
+  7
+  Barah galay bandhay hain bas aik hi rasan mein
+  Kaisi khizaein aaein Zahra tere chaman mein
+  Zindah na kash jaon main laut kar watan mein
+  Atharah bhaiyon ki humsheer be rida hai
+
+  8
+  Darbar-e-Sham mein hain sab kursiyon pe baithay
+  Abid khara hai haye apni kamar ko pakray
+  Fizza khari hoi hain baba hamarey aagay
+  Tasht e tila mere bhaiyya ka sar rakha hai
+
+  9
+  Mushkil kusha ho baba aao madad ko aao
+  Qaid-e-sitam se aao Sajjad ko churao
+  Mar jaye na Sakina seene se tum lagao
+  Lo mar gayi Sakina ik hashar sa bapa hai
+
+  10
+  Hai dafan aik bachi qaid-e-sitam mein Ajmal
+  Oss dam Raza bapa hai syedaniyon mein halchal
+  Yaad aa raha hai sab ko Karb-o-Bala ka maqtal
+  Turbat mein ik behan ko khud bhai ne rakha hai
 ---
 
-Bimar Ro Raha Hai Ali Kabir Ajmal.
-Sab Hans Rahe Hain Baba Beemar Ro Raha Hai.
+بیمار رو رہا ہے علی کبیر اجمل
+سب ہنس رہے ہیں بابا بیمار رو رہا ہے
 
-1
-Baloon Se Munh Chupaye Nikli Ghamo Ki Mari.
-Na Mehramo Mein Haye Maqna Hai Na Amari.
-Baba Ko Yaad Kar Ke Be Sakhta Pukari.
-Kofay Ki Shahzadi Kofay Mein Be Rida Hai.
+۱
+بالوں سے منہ چھپائے نکلی غموں کی ماری
+نامحرموں میں ہائے مقنع ہے نہ عماری
+بابا کو یاد کر کے بے ساختہ پکاری
+کوفے کی شہزادی کوفے میں بے ردا ہے
 
-2
-Sab Qatal Ho Gaye Jab Karb-o-Bala Mein Baba.
-Hathoon Mein Aag Le Kar Shimar Laeen Aaya.
-Sholon Ke Darmiyaan Tha Baba Mera Bhatija.
-Oss Ko Utha Ke Main Ne Kandhoon Pe Khud Rakha Hai.
+۲
+سب قتل ہو گئے جب کرب و بلا میں بابا
+ہاتھوں میں آگ لے کر شمر لعین آیا
+شعلوں کے درمیان تھا بابا میرا بھتیجا
+اس کو اٹھا کے میں نے کندھوں پہ خود رکھا ہے
 
-3
-Daman Jala Howa Hai Be Haal Hai Sakina.
-Chila Rahi Hai Ammo Darya Se Jald Aa Ja.
-Kano Se Khoon Rawaan Hai Dam Ghut Raha Hai Mera.
-Ammo Rasan Mein Mere Jakra Howa Gala Hai.
+۳
+دامن جلا ہوا ہے بے حال ہے سکینہ
+چلا رہی ہے عمو دریا سے جلد آ جا
+کانوں سے خون رواں ہے دم گھٹ رہا ہے میرا
+عمو رسن میں میرے جکڑا ہوا گلا ہے
 
-4
-Kitna Pukara Main Ne Tum Bhi Na Aaye Baba.
-Jakra Howa Hai Dekho Rasi Mein Mera Shana.
-Kofay Mein Yaad Aaya Baba Tera Zamana.
-Bhaiyya Ka Haye Mere Naizay Pe Sar Rakha Hai.
+۴
+کتنا پکارا میں نے تم بھی نہ آئے بابا
+جکڑا ہوا ہے دیکھو رسی میں میرا شانہ
+کوفے میں یاد آیا بابا تیرا زمانہ
+بھیا کا ہائے میرے نیزے پہ سر رکھا ہے
 
-5
-Pairon Mein Beriyaan Hain Beemar Na Tawaan Ke.
-Kitne Chubhay Hoye Hain Pairon Mein Oss Ke Kantay.
-Talwaon Ke Le Ke Bosay Chilla Rahe Hain Chalay.
-Lagtay Hain Taziyane Jab Bhi Kahin Ruka Hai.
+۵
+پیروں میں بیڑیاں ہیں بیمار ناتواں کے
+کتنے چبھے ہوئے ہیں پیروں میں اس کے کانٹے
+تلووں کے لے کے بوسے چلا رہے ہیں چھالے
+لگتے ہیں تازیانے جب بھی کہیں رکا ہے
 
-6
-Be Goor-o-Be Kafan Hai Zahra Ka Mah Parah.
-Jalti Hoi Zameen Par Bikhra Para Hai Lasha.
-Teeron Se Barchiyon Se Chalni Hai Sara Seena.
-Maqtal Mein Baal Kholay Bas Aik Fatima Hai.
+۶
+بے گور و بے کفن ہے زہرا کا مہ پارہ
+جلتی ہوئی زمین پر بکھرا پڑا ہے لاشہ
+تیروں سے برچھیوں سے چھلنی ہے سارا سینہ
+مقتل میں بال کھولے بس ایک فاطمہ ہے
 
-7
-Barah Galay Bandhay Hain Bas Aik Hi Rasan Mein.
-Kaisi Khizaein Aaein Zahra Tere Chaman Mein.
-Zindah Na Kash Jaon Main Laut Kar Watan Mein.
-Atharah Bhaiyon Ki Humsheer Be Rida Hai.
+۷
+بارہ گلے بندھے ہیں بس ایک ہی رسن میں
+کیسی خزائیں آئیں زہرا تیرے چمن میں
+زندہ نہ کاش جاؤں میں لوٹ کر وطن میں
+اٹھارہ بھائیوں کی ہمشیر بے ردا ہے
 
-8
-Darbar-e-Sham Mein Hain Sab Kursiyon Pe Baithay.
-Abid Khara Hai Haye Apni Kamar Ko Pakray.
-Fizza Khari Hoi Hain Baba Hamarey Aagay.
-Tasht e Tila Mere Bhaiyya Ka Sar Rakha Hai.
+۸
+دربارِ شام میں ہیں سب کرسیوں پہ بیٹھے
+عابد کھڑا ہے ہائے اپنی کمر کو پکڑے
+فضہ کھڑی ہوئی ہیں بابا ہمارے آگے
+طشتِ طلا میرے بھیا کا سر رکھا ہے
 
-9
-Mushkil Kusha Ho Baba Aao Madad Ko Aao.
-Qaid-e-Sitam Se Aao Sajjad Ko Churao.
-Mar Jaye Na Sakina Seene Se Tum Lagao.
-Lo Mar Gayi Sakina Ik Hashar Sa Bapa Hai.
+۹
+مشکل کشا ہو بابا آؤ مدد کو آؤ
+قیدِ ستم سے آؤ سجاد کو چھڑاؤ
+مر جائے نہ سکینہ سینے سے تم لگاؤ
+لو مر گئی سکینہ اک حشر سا بپا ہے
 
-10
-Hai Dafan Aik Bachi Qaid-e-Sitam Mein Ajmal.
-Oss Dam Raza Bapa Hai Syedaniyon Mein Halchal.
-Yaad Aa Raha Hai Sab Ko Karb-o-Bala Ka Maqtal.
-Turbat Mein Ik Behan Ko Khud Bhai Ne Rakha Hai.
+۱۰
+ہے دفن ایک بچی قیدِ ستم میں اجمل
+اس دم رضا بپا ہے سیدانیوں میں ہلچل
+یاد آ رہا ہے سب کو کرب و بلا کا مقتل
+تربت میں اک بہن کو خود بھائی نے رکھا ہے

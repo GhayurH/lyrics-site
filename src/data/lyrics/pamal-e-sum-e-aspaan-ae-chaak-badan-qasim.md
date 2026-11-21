@@ -8,73 +8,44 @@ poet: "Shahid Jafer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Pamaal sumay aspa ay chaak badan qasim
-
+romanLyrics: |-
+  Pamaal-e-sum-e-aspaaṅ ae chaak badan Qasim
 
   1
-
-  Marne ke liye tune jab izn nahi paaya
-
-  Khidmat may shah e deen ki khat baap ka pahunchaya
-
-  Phir ashk-e-musalsal thay aur shah ka chehra tha
-
-  Yaad aagaye kuch payma ay chaak badan qasim
-
+  Marne ke liye tu ne jab izn nahiṅ paaya
+  Khidmat mein shah-e-diṅ ki khat baap ka pahunchaaya
+  Phir ashk-e-musalsal the aur shaah ka chehra tha
+  Yaad aa gaye kuchh paimaaṅ ae chaak badan Qasim
 
   2
-
-  Maidaan se jaise hi awaaz teri aayi
-
-  Faujo ki taraf jhaptay abbas bhi sarwar bhi
-
-  Bhagdar jo machi ran may har samt qayamat thi
-
-  Phir ruk na saka toofan ay chaak badan qasim
-
+  Maidaan se jaise hi aawaaz teri aayi
+  Faujoṅ ki taraf jhapte Abbas bhi Sarwar bhi
+  Bhagdar jo machi ran mein har samt qayaamat thi
+  Phir ruk na saka tufaaṅ ae chaak badan Qasim
 
   3
-
-  Qaimo may qayamat hai kubra pay falak toota
-
-  Ronay ki sadayen hai madar ko hua sadma
-
-  Nou shah ko chaadar may laatay hai shah-e-waala
-
-  Ab hogaya ghar veeran ay chaak badan qasim
-
+  Khaimoṅ mein qayaamat hai Kubra pe falak tuta
+  Rone ki sadaaeṅ haiṅ maadar ko hua sadma
+  Nau shaah ko chaadar mein laate haiṅ shah-e-waala
+  Ab ho gaya ghar wiraaṅ ae chaak badan Qasim
 
   4
-
-  Sandal hai na gehnay hai ubtan hai na mehndi hai
-
-  Is tarha ki shaadi bhi logo kahin hoti hai
-
-  Maqtal may hain baarati har samt udasi hai
-
-  Aur khaak basar hai maa ay chaak badan qasim
-
+  Sandal hai na gehne haiṅ ubtan hai na mehndi hai
+  Is tarah ki shaadi bhi logoṅ kahiṅ hoti hai
+  Maqtal mein haiṅ baaraati har samt udaasi hai
+  Aur khaak basar hai maaṅ ae chaak badan Qasim
 
   5
-
-  Kuch deyr may dulhan ke haathon may rasan hogi
-
-  Toote huye khabo ki ankhoo may chubhan hogi
-
-  Tay hoga safar tanha kya dil pe thakan hogi
-
-  Mitti may milay armaan ay chaak badan qasim
-
+  Kuchh der mein dulhan ke haathoṅ mein rasan hogi
+  Tute hue khwaaboṅ ki aankhoṅ mein chubhan hogi
+  Tai hoga safar tanha kya dil pe thakan hogi
+  Mitti mein mile armaaṅ ae chaak badan Qasim
 
   6
-
-  Sab farsh-e-aza par hai taqreeb-e-uroosi may
-
-  Soughaat hai matam ki ashko ki rawani may
-
-  Taa hashr hai gham shahid is majlis-e-shaadi may
-
-  Gham khwar hain sab giryaa ay chaak badan qasim'
+  Sab farsh-e-aza par hai taqrib-e-urusi mai
+  Saughaat hai maatam ki ashkoṅ ki rawaani mai
+  Taa hashr hai gham Shahid is majlis-e-shaadi mein
+  Ghamkhwaar haiṅ sab giryaaṅ ae chaak badan Qasim
 ---
 
 ؑپامال سُمِ اسپاں اے چاک بدن قاسم

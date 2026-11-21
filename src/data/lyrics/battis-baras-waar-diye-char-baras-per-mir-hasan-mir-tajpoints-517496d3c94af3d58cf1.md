@@ -1,49 +1,87 @@
 ---
-title: "Battis Baras Waar Diye Char Baras Per Mir Hasan Mir"
+title: "بتیس برس وار دیے چار برس پر میر حسن میر"
+alternateTitle: "Battis Baras Waar Diye Char Baras Per Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Sar chom ke Abbas ka kehte rahe Sarwar
+  Batees baras waar diye chaar baras par
+
+  1
+  Ik mashk-e-Sakina ke liye bazu kata kar
+
+  2
+  Lasha liye godi mein sada deti hain Zahra
+  Iss shair ka khoon beh gaya pani se zyada
+  Abbas ka ahsan hai yeh aal-e-Nabi par
+  Bazu ko qalam dekh ke kehne lagay Maula
+  Yeh hath mere hath mein baba ne diya tha
+  Phir soye Najaf dekh ke goya hoye Sarwar
+  Shabbir pe sadqay howa Shabbir ka banda
+  Ya Fatima Zahra mera maqbool ho hadiya
+  Kehti hain Baqiya mein yeh Abbas ki madar
+  Sadaat ki ab kaun bhujaye ga bhala pyas
+  Ik gurz laga zeen se girey khak pe Abbas
+  Yeh suntay hi khaimon mein bapa ho gaya mehshar
+  Kyun ho na dil-e-Abid-e-beemar ke tukray
+  Qasim se zyada they Alamdar ke tukray
+  Turbat bhi bani qabar-e-Sakina ke barabar
+  Majlis mein kabhi naam jo Abbas ka aata
+  Yeh kehte hoye uthta tha Shabbir ka beta
+  Qurban chacha aap pe yeh Abid-e-muztar
+  Ro ro ke sada deti thi yeh palney wali
+  Abbas hoi aaj se jholi meri khali
+  Tha shoor bapa khaima e Kulsoom ke andar
+  Kya nehar pe guzri hai yeh kehti thi Sakina
+  Kyun khon mein doba hai alam mere chacha ka
+  Sheh beti ko kehte rahe seene se laga kar
+  Zainab ko ghareebi ki khabar kaisay sunatay
+  Marey gaye Abbas yeh kis dil se batatay
+  Sheh kehte rahe chom ke humsheer ki chadar
+  Lashay ki tarha hathoon pe parcham ko utha kar
+  Shabbir sada detey they rotay hoye Akbar
+  Jaan waar doon tujh par aye mere shair-e-dilawar
 ---
 
-Sar Chom Ke Abbas Ka Kehte Rahe Sarwar.
-Batees Baras Waar Diye Chaar Baras Par.
+سر چوم کے عباس کا کہتے رہے سرور
+بتیس برس وار دیے چار برس پر
 
-1
-Ik Mashk-e-Sakina Ke Liye Bazu Kata Kar.
+۱
+اک مشکِ سکینہ کے لیے بازو کٹا کر
 
-2
-Lasha Liye Godi Mein Sada Deti Hain Zahra.
-Iss Shair Ka Khoon Beh Gaya Pani Se Zyada.
-Abbas Ka Ahsan Hai Yeh Aal-e-Nabi Par.
-Bazu Ko Qalam Dekh Ke Kehne Lagay Maula.
-Yeh Hath Mere Hath Mein Baba Ne Diya Tha.
-Phir Soye Najaf Dekh Ke Goya Hoye Sarwar.
-Shabbir Pe Sadqay Howa Shabbir Ka Banda.
-Ya Fatima Zahra Mera Maqbool Ho Hadiya.
-Kehti Hain Baqiya Mein Yeh Abbas Ki Madar.
-Sadaat Ki Ab Kaun Bhujaye Ga Bhala Pyas.
-Ik Gurz Laga Zeen Se Girey Khak Pe Abbas.
-Yeh Suntay Hi Khaimon Mein Bapa Ho Gaya Mehshar.
-Kyun Ho Na Dil-e-Abid-e-Beemar Ke Tukray.
-Qasim Se Zyada They Alamdar Ke Tukray.
-Turbat Bhi Bani Qabar-e-Sakina Ke Barabar.
-Majlis Mein Kabhi Naam Jo Abbas Ka Aata.
-Yeh Kehte Hoye Uthta Tha Shabbir Ka Beta.
-Qurban Chacha Aap Pe Yeh Abid-e-Muztar.
-Ro Ro Ke Sada Deti Thi Yeh Palney Wali.
-Abbas Hoi Aaj Se Jholi Meri Khali.
-Tha Shoor Bapa Khaima e Kulsoom Ke Andar.
-Kya Nehar Pe Guzri Hai Yeh Kehti Thi Sakina.
-Kyun Khon Mein Doba Hai Alam Mere Chacha Ka.
-Sheh Beti Ko Kehte Rahe Seene Se Laga Kar.
-Zainab Ko Ghareebi Ki Khabar Kaisay Sunatay.
-Marey Gaye Abbas Yeh Kis Dil Se Batatay.
-Sheh Kehte Rahe Chom Ke Humsheer Ki Chadar.
-Lashay Ki Tarha Hathoon Pe Parcham Ko Utha Kar.
-Shabbir Sada Detey They Rotay Hoye Akbar.
-Jaan Waar Doon Tujh Par Aye Mere Shair-e-Dilawar.
+۲
+لاشہ لیے گودی میں صدا دیتی ہیں زہرا
+اس شیر کا خون بہہ گیا پانی سے زیادہ
+عباس کا احسان ہے یہ آلِ نبی پر
+بازو کو قلم دیکھ کے کہنے لگے مولا
+یہ ہاتھ میرے ہاتھ میں بابا نے دیا تھا
+پھر سوئے نجف دیکھ کے گویا ہوئے سرور
+شبیر پہ صدقہ ہوا شبیر کا بندہ
+یا فاطمہ زہرا میرا مقبول ہو ہدیہ
+کہتی ہیں بقیع میں یہ عباس کی مادر
+سادات کی اب کون بجھائے گا بھلا پیاس
+اک گرز لگا زین سے گرے خاک پہ عباس
+یہ سنتے ہی خیموں میں بپا ہو گیا محشر
+کیوں ہو نہ دلِ عابدِ بیمار کے ٹکڑے
+قاسم سے زیادہ تھے علمدار کے ٹکڑے
+تربت بھی بنی قبرِ سکینہ کے برابر
+مجلس میں کبھی نام جو عباس کا آتا
+یہ کہتے ہوئے اٹھتا تھا شبیر کا بیٹا
+قربان چچا آپ پہ یہ عابدِ مضطر
+رو رو کے صدا دیتی تھی یہ پالنے والی
+عباس ہوئی آج سے جھولی میری خالی
+تھا شور بپا خیمۂ کلثوم کے اندر
+کیا نہر پہ گزری ہے یہ کہتی تھی سکینہ
+کیوں خون میں ڈوبا ہے علم میرے چچا کا
+شہ بیٹی کو کہتے رہے سینے سے لگا کر
+زینب کو غریبی کی خبر کیسے سناتے
+مارے گئے عباس یہ کس دل سے بتاتے
+شہ کہتے رہے چوم کے ہمشیر کی چادر
+لاشے کی طرح ہاتھوں پہ پرچم کو اٹھا کر
+شبیر صدا دیتے تھے روتے ہوئے اکبر
+جان وار دوں تجھ پر اے میرے شیرِ دلاور

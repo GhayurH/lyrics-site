@@ -16,13 +16,13 @@ romanLyrics: |-
   Ya saaratul Husain
 
   1
-  Garduṅ se aa rahi hai ye aawaaz-e-Jibrail
+  Garduṅ se aa rahi hai ye aawaaz-e-Jibril
   Begor o bekafan hai wo Islam ka qatil
   Zainab hai berida to nahiṅ zakhm ki sabil
   Ghurbat meiṅ maara daala hai Zehra ke nur-e-ain
 
   2
-  Abbas-e-naamwar ke lahu se dhula hua
+  Abbas naamwar ke lahu se dhula hua
   Ab bhi Husainiyat ka alam hai khula hua
   Niklo gharoṅ se maatam-e-Sarwar bapa hua
   Hone se paaye kam kabhi aawaaz-e-shor o shain
@@ -30,25 +30,25 @@ romanLyrics: |-
   3
   Dunya pe gir para aalam-e-Sher-e-Kirdigaar
   Barchhi sitam ki ho gayi Akbar ke dil ke paar
-  Umm-e-Rabaab ghash meiṅ Sakina hai beqaraar
+  Umm-e-Rabaab ghash meiṅ, Sakina hai beqaraar
   Asghar ko le ke aa gaye maidaan meiṅ Husain
 
   4
-  Allah re wo Shimr ka khanjar wo Shah ka sar
+  Allah re wo Shimr ka khanjar, wo shah ka sar
   Hilne lage the khaana-e-Kaaba ke baam o dar
   Dharti to kya falak ka bhi tukre hua jigar
-  Sakte meiṅ maghribain the sakte meiṅ mashriqain
+  Sakte meiṅ maghribain the, sakte meiṅ mashriqain
 
   5
-  Aal-e-Rasul qaid hue wa musibata
-  Karbobala se lut ke chale wa musibata
-  Durre laga rahe haiṅ laiṅ wa musibata
-  Paamaaliyoṅ ki zad pe hai Zehra ke nur-e-ain
+  Aal-e-Rasul qaid hue, wa musibata
+  Karbobala se lut ke chale, wa musibata
+  Durre laga rahe haiṅ laiṅ, wa musibata
+  Paamaaliyoṅ ki zid pe hai Zehra ke nur-e-ain
 
   6
   Mauj-e-Furaat sharm se daaman bhigo gayi
   Baali Sakina hichkiyaaṅ le le ke so gayi
-  Khaime jale ridaaeṅ chhiniṅ shaam aa gayi
+  Khaime jale, ridaaeṅ chhini, shaam aa gayi
   Qabr-e-Nabi hilaate haiṅ sayyidaaniyoṅ ke bain
 
   7

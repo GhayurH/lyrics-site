@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Hazaaroṅ tir the paiwast shaah ke tan par
-  Likha hai raavi ne wo khauf naak ek manzar
+  Likha hai raavi ne woh khauf naak ek manzar
   Husain tiroṅ pe kehte the aa ke ae ammaṅ
 
   2
@@ -33,19 +33,19 @@ romanLyrics: |-
   Ab haddiyoṅ ki zabaaṅ par hai pyaas ka kalma
 
   4
-  Maiṅ kaise zin se ammaṅ zamin par aauṅ
-  Zamiṅ pe aa ke maiṅ thora sa phir sukuṅ paauṅ
+  Main kaise zin se ammaṅ zamin par aauṅ
+  Zamiṅ pe aa ke main thora sa phir sukuṅ paauṅ
   Chubhan hai aisi tarapta hai aap ka beta
 
   5
-  Ye tin tir hai paiwast mere pehlu meiṅ
-  Jigar figaar hai saaṅseiṅ nahiṅ hai qaabu meiṅ
-  Hai dard itna tumheiṅ maiṅ bata nahiṅ sakta
+  Ye tin tir hai paiwast mere pehlu mein
+  Jigar figaar hai saaṅseiṅ nahiṅ hai qaabu mein
+  Hai dard itna tumheiṅ main bata nahiṅ sakta
 
   6
-  Ke dard kehte haiṅ kis ko ye maiṅ ne jaana hai
+  Ke dard kehte haiṅ kis ko ye main ne jaana hai
   Teri tarah mera pehlu bhi maaṅ shikasta hai
-  Teri rida ki tarah chaak jism hai mera
+  Teri ridaa ki tarah chaak jism hai mera
 
   7
   Rula rula ke mujhe zaalimoṅ ne maara hai
@@ -54,8 +54,8 @@ romanLyrics: |-
 
   8
   Kisi ne barchhiyaṅ maari kisi ne tir o tabar
-  Kisi ko kuch na mila to utha liya patthar
-  Kuch is tarah se badan chhalni kar diya mera
+  Kisi ko kuchh na mila to uthaa liya patthar
+  Kuchh is tarah se badan chhalni kar diya mera
 
   9
   Gala hai khushk zabaaṅ khushk kund hai khanjar
@@ -64,8 +64,8 @@ romanLyrics: |-
 
   10
   Ae Shams tera muqaddar likha hai Daawar ne
-  Uruj bakhsha hai Aamir jahaaṅ meiṅ Sarwar ne
-  Bala ki dasht meiṅ gunja tha bas yehi nauha
+  Uruj bakhsha hai Aamir jahaaṅ mein Sarwar ne
+  Balaa ki dasht mein gunja tha bas yehi nauha
 ---
 تڑپ کے فاطمہ زہرا سے شاہ نے یہ کہا
 نکال دو میرے پہلو سے تیر اے اماں

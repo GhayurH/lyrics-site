@@ -1,22 +1,35 @@
 ---
-title: "Ik Zehar Se Jawad Ke Seene Mein Ghutan Hai Lyrics New"
+title: "اک زہر سے جواد کے سینے میں گھٹن ہے"
+alternateTitle: "Ik Zehar Se Jawad Ke Seene Mein Ghutan Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ik zehar se Jawad ke seene mein ghutan hai
+  Baghdad ke zindaan mein yeh tasveer-e-Hasan hai
+  Hasil hai yeh Shabbir ke betay ko saholat
+  Muhtaj e kafan baap ke betay pe kafan hai
+
+  2
+  Pardais kisay kehte hain pocho yeh Taqi se
+  Roney ke liye lash pe bhai na behan hai
+  Sajjad ki aoulad pe Sajjad ki ghurbat
+  Zindan ki dewaron se do saal sukhan hai
 ---
 
-1
-Ik Zehar Se Jawad Ke Seene Mein Ghutan Hai.
-Baghdad Ke Zindaan Mein Yeh Tasveer-e-Hasan Hai.
-Hasil Hai Yeh Shabbir Ke Betay Ko Saholat.
-Muhtaj e Kafan Baap Ke Betay Pe Kafan Hai.
+۱
+اک زہر سے جواد کے سینے میں گھٹن ہے
+بغداد کے زنداں میں یہ تصویرِ حسن ہے
+حاصل ہے یہ شبیر کے بیٹے کو سہولت
+محتاجِ کفن باپ کے بیٹے پہ کفن ہے
 
-2
-Pardais Kisay Kehte Hain Pocho Yeh Taqi Se.
-Roney Ke Liye Lash Pe Bhai Na Behan Hai.
-Sajjad Ki Aoulad Pe Sajjad Ki Ghurbat.
-Zindan Ki Dewaron Se Do Saal Sukhan Hai.
+۲
+پردیس کسے کہتے ہیں پوچھو یہ تقی سے
+رونے کے لیے لاش پہ بھائی نہ بہن ہے
+سجاد کی اولاد پہ سجاد کی غربت
+زنداں کی دیواروں سے دو سال سخن ہے

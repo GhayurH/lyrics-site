@@ -1,7 +1,7 @@
 ---
 title: "چلا میں وعدہ نبھانے سلام ماں کے مزار"
 recitationId: "chala-main-wada-nibhane-salam-maa-ke-mazaar"
-alternateTitle: "Chala Maiṅ Waada Nibhaane Salam Maaṅ Ke Mazaar"
+alternateTitle: "Chala Maiṅ Waada Nibhaane Salaam Maaṅ Ke Mazaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ aliases: ["Chala Main Wada Nibhane Salam Maa Ke Mazaar"]
 published: true
 romanLyrics: |-
   Chala maiṅ waada nibhaane salaam maaṅ ke mazaar
-  Salaam Nana ke roze salaam maaṅ ke mazaar
+  Salaam Nana ke rauze salaam maaṅ ke mazaar
 
   1
   Maiṅ tera din bachaauṅ ga ae mere Nana
@@ -31,7 +31,7 @@ romanLyrics: |-
   Na aaye mere chaman pe sitam ki gard o ghubaar
 
   4
-  Diye jalaane ko Nana tumhaare roze par
+  Diye jalaane ko Nana tumhaare rauze par
   Zarur aaye gi Sughra har ek shaam o sahar
   Khuda kare rahe raushan sada tumhaara mazaar
 
@@ -58,7 +58,7 @@ romanLyrics: |-
   9
   Yehi hai Sarwar o Rehan zindagi ka sharaf
   Kabhi ziyaarat-e-Karb o Bala kabhi hai Najaf
-  Inhi fizaoṅ meiṅ aati hai Shaah-e-Din ki pukaar
+  Inhi fizaaoṅ meiṅ aati hai Shaah-e-Din ki pukaar
 ---
 چلا میں وعدہ نبھانے سلام ماں کے مزار
 سلام نانا کے روضے سلام ماں کے مزار

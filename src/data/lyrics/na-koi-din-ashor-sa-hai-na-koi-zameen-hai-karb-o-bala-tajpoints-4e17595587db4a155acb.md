@@ -1,56 +1,102 @@
 ---
-title: "Na Koi Din Ashor Sa Hai Na Koi Zameen Hai Karb-o-Bala"
+title: "نہ کوئی دن عاشور سا ہے نہ کوئی زمین ہے کرب و بلا"
+alternateTitle: "Na Koi Din Ashor Sa Hai Na Koi Zameen Hai Karb-o-Bala"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Na koi din Ashor sa hai na koi zameen hai Karb-o-bala
+  Kabay ka Kaba Karb-o-bala Shabir khudai ka qibla
+
+  1
+  La Youma ka Youmik ya Aba Abdillah
+  Har aik nabi ne Karbal ko khirat laho ki apne di
+  Lekin Shabir ne maqtal mein thi oss ko maseehai bakhshi
+  Ijaz hai yeh khon-e-sheh ka hai khak jo isski khak-e-shifa
+
+  2
+  Ik roz bula ke Shabar ne bhai ko lagaya apne galay
+  Phir ro ke kaha yeh Sarwar se aye bhai main tere sadqay
+  Tha charon taraf shor-e-giriya our lab pe Hasan ke thi yeh sada
+  Na roi apne bachon ko na apni rida ko roi
+
+  3
+  Bas yaad rahi ghurbat sheh ki gham apna kiya na koi
+  Phir laut ke qabar-e-madar par rakh kar kurta bhai ka kaha
+  Phatta hai kaleja Abid ka haye dekh ke apne ke lashay
+  Bhai ki amanat ko Zainab deti hai dilasa yeh keh ke
+
+  4
+  Bhole gi na dunya sheh ko kabhi wadah hai yeh rab-e-akbar ka
+  Tapoon ki zad mein jab aayi maqtal mein kamai Farwa ki
+  Mehndi ka laho rang charha haye hathon ke Kubra ki
+  Phir ran mein lash-e-qasim ke har tukray se aati thi sada
+
+  5
+  Ahsas-e-ghareebi Baba ki hoti thi pisar ko oss lamhe
+  Zindan mein ik nanhi turbat hathon se banai jab ossne
+  Noha parh ke Sajjad ne yeh dafnaya Sakina ka lasha
+  Rozon ki hifazat karte hoye jab koi jawaan hota hai shaheed
+
+  6
+  Latay hain osse phir Karb-o-bala rutba barhta hai oss ka mazeed
+  Dafna ke janaza phir oss ka dete hain sada yeh ahl-e-azza
+  Na koi zameen hai Karbal si na koi din Aashor sa hai
+  Hai qaul yeh Sadiq Mula ka farman yehi Shabar ka hai
+
+  7
+  Na kulo yomin Aashora na kulo arzin Karb-o-bala
+  Wadah hai Wajhi our Qasim ka gham karte rahein gaye Sarwar ka
+  Bholein gaye na roz-e-aashora chorein gaye na jana Karb-o-bala
+  Maninsa Hussaina ya Zahra paihum yeh rahe gi lab pe sada
 ---
 
-Na Koi Din Ashor Sa Hai Na Koi Zameen Hai Karb-o-Bala.
-Kabay Ka Kaba Karb-o-Bala Shabir Khudai Ka Qibla.
+نہ کوئی دن عاشور سا ہے نہ کوئی زمین ہے کرب و بلا
+کعبے کا کعبہ کرب و بلا شبیر خدائی کا قبلہ
 
-1
-La Youma Ka Youmik Ya Aba Abdillah.
-Har Aik Nabi Ne Karbal Ko Khirat Laho Ki Apne Di.
-Lekin Shabir Ne Maqtal Mein Thi Oss Ko Maseehai Bakhshi.
-Ijaz Hai Yeh Khon-e-Sheh Ka Hai Khak Jo Isski Khak-e-Shifa.
+۱
+لا یوم کیومک یا ابا عبداللہ
+ہر ایک نبی نے کربل کو خیرات لہو کی اپنے دی
+لیکن شبیر نے مقتل میں تھی اُس کو مسیحائی بخشی
+اعجاز ہے یہ خونِ شہ کا ہے خاک جو اس کی خاکِ شفا
 
-2
-Ik Roz Bula Ke Shabar Ne Bhai Ko Lagaya Apne Galay.
-Phir Ro Ke Kaha Yeh Sarwar Se Aye Bhai Main Tere Sadqay.
-Tha Charon Taraf Shor-e-Giriya Our Lab Pe Hasan Ke Thi Yeh Sada.
-Na Roi Apne Bachon Ko Na Apni Rida Ko Roi.
+۲
+اک روز بلا کے شبر نے بھائی کو لگایا اپنے گلے
+پھر رو کے کہا یہ سرور سے اے بھائی میں تیرے صدقے
+تھا چاروں طرف شورِ گریہ اور لب پہ حسن کے تھی یہ صدا
+نہ روئی اپنے بچوں کو نہ اپنی ردا کو روئی
 
-3
-Bas Yaad Rahi Ghurbat Sheh Ki Gham Apna Kiya Na Koi.
-Phir Laut Ke Qabar-e-Madar Par Rakh Kar Kurta Bhai Ka Kaha.
-Phatta Hai Kaleja Abid Ka Haye Dekh Ke Apne Ke Lashay.
-Bhai Ki Amanat Ko Zainab Deti Hai Dilasa Yeh Keh Ke.
+۳
+بس یاد رہی غربت شہ کی غم اپنا کیا نہ کوئی
+پھر لوٹ کے قبرِ مادر پر رکھ کر کرتا بھائی کا کہا
+پھٹتا ہے کلیجہ عابد کا ہائے دیکھ کے اپنے کے لاشے
+بھائی کی امانت کو زینب دیتی ہے دلاسا یہ کہہ کے
 
-4
-Bhole Gi Na Dunya Sheh Ko Kabhi Wadah Hai Yeh Rab-e-Akbar Ka.
-Tapoon Ki Zad Mein Jab Aayi Maqtal Mein Kamai Farwa Ki.
-Mehndi Ka Laho Rang Charha Haye Hathon Ke Kubra Ki.
-Phir Ran Mein Lash-e-Qasim Ke Har Tukray Se Aati Thi Sada.
+۴
+بھولے گی نہ دنیا شہ کو کبھی وعدہ ہے یہ ربِ اکبر کا
+ٹاپوں کی زد میں جب آئی مقتل میں کمائی فروہ کی
+مہندی کا لہو رنگ چڑھا ہائے ہاتھوں کے کبریٰ کی
+پھر رن میں لاشِ قاسم کے ہر ٹکڑے سے آتی تھی صدا
 
-5
-Ahsas-e-Ghareebi Baba Ki Hoti Thi Pisar Ko Oss Lamhe.
-Zindan Mein Ik Nanhi Turbat Hathon Se Banai Jab Ossne.
-Noha Parh Ke Sajjad Ne Yeh Dafnaya Sakina Ka Lasha.
-Rozon Ki Hifazat Karte Hoye Jab Koi Jawaan Hota Hai Shaheed.
+۵
+احساسِ غریبی بابا کی ہوتی تھی پسر کو اُس لمحے
+زندان میں اک ننھی تربت ہاتھوں سے بنائی جب اُس نے
+نوحہ پڑھ کے سجاد نے یہ دفنایا سکینہ کا لاشا
+روضوں کی حفاظت کرتے ہوئے جب کوئی جوان ہوتا ہے شہید
 
-6
-Latay Hain Osse Phir Karb-o-Bala Rutba Barhta Hai Oss Ka Mazeed.
-Dafna Ke Janaza Phir Oss Ka Dete Hain Sada Yeh Ahl-e-Azza.
-Na Koi Zameen Hai Karbal Si Na Koi Din Aashor Sa Hai.
-Hai Qaul Yeh Sadiq Mula Ka Farman Yehi Shabar Ka Hai.
+۶
+لاتے ہیں اُسے پھر کرب و بلا رتبہ بڑھتا ہے اُس کا مزید
+دفنا کے جنازہ پھر اُس کا دیتے ہیں صدا یہ اہلِ عزا
+نہ کوئی زمین ہے کربل سی نہ کوئی دن عاشور سا ہے
+ہے قول یہ صادق مولا کا فرمان یہی شبر کا ہے
 
-7
-Na Kulo Yomin Aashora Na Kulo Arzin Karb-o-Bala.
-Wadah Hai Wajhi Our Qasim Ka Gham Karte Rahein Gaye Sarwar Ka.
-Bholein Gaye Na Roz-e-Aashora Chorein Gaye Na Jana Karb-o-Bala.
-Maninsa Hussaina Ya Zahra Paihum Yeh Rahe Gi Lab Pe Sada.
+۷
+نا کل یومٍ عاشورا نا کل ارضٍ کرب و بلا
+وعدہ ہے وجہی اور قاسم کا غم کرتے رہیں گے سرور کا
+بھولیں گے نہ روزِ عاشورا چھوڑیں گے نہ جانا کرب و بلا
+ما ننسى حسيناً يا زهراء پیہم یہ رہے گی لب پہ صدا

@@ -12,7 +12,7 @@ tags: []
 aliases: ["Chadare Fatema"]
 published: true
 romanLyrics: |-
-  Ya Zahra, Ya Zahra
+  Ya Zahra, ya Zahra
 
   Rizq hai junbish-e-chaadar-e-Fatema
   Rozi-e-aalamin chaadar-e-Sayyeda
@@ -20,15 +20,15 @@ romanLyrics: |-
   Ae maadar bekas maadar mazlum maadar
 
   1
-  Teri khaak-e-paa se na hum sar uthaayeṅ
+  Tiri khaak-e-paa se na hum sar uthaayeṅ
   Wahiṅ par ajal ko gale se lagaayeṅ
-  Rahe teri chaadar ka saaya saroṅ par
+  Rahe tiri chaadar ka saaya saroṅ par
   Shafaaat ke saaye meiṅ hum sar chhupaayeṅ
 
   2
   Falak par diloṅ ke tujhi se ujaala
   Jahaanoṅ ko teri dua ne sambhaala
-  Ho kaise hi tufaaṅ ho kaisi qayaamat
+  Hoṅ kaise hi tufaaṅ hoṅ kaisi qayaamat
   Musibat se tu ne hamesha nikaala
 
   3
@@ -38,22 +38,22 @@ romanLyrics: |-
   Gharaane pe Zahra ke jaaneṅ lutaayeṅ
 
   4
-  Ghazab hai tere ghar ka wo dar jala tha
+  Ghazab hai tire ghar ka wo dar jala tha
   Jo baab-e-shifa tha jo baab-e-ataa tha
-  Payambar bhi us dar pe aate the paiham
+  Paimbar bhi us dar pe aate the paiham
   Khuda ki riza tha jo baab-e-Khuda tha
 
   5
-  Adu se lari bhi Ali ko bachaaya
+  Adu se lariṅ bhi Ali ko bachaaya
   Saha taaziyaana tamaancha bhi khaaya
   Wilaayat ki khaatir hi Mohsin ganwaaya
-  Imaamat ke mansab ko phir phir bhi bachaaya
+  Imaamat ke mansab ko phir bhi bachaaya
 
   6
-  Ali ke gale meiṅ jo rassi bandhi thi
-  Musibat ye Zahra ke dil pe bari thi
+  Ali ke gale meiṅ jo rassi pari thi
+  Musibat ye Zahra ke dil par bari thi
   Na tha koi yaawar ghazab ki ghari thi
-  Ali ke wo daaman ko pakre khari thi
+  Ali ke daaman ko pakre khari thi
 
   7
   Ye Mukhlis pe aur Shadmaṅ pe karam haiṅ

@@ -30,14 +30,14 @@ romanLyrics: |-
   Yaad aata hai Shaam ka manzar
   Bibi sar pe tere na thi chaadar
   Har taraf pattharoṅ ki baarish thi
-  Teri poshaak thi lahu meiṅ tar
+  Teri poshaak thi lahu mein tar
   Ae Bibi baani-e-aza sadma tha ye bahut bara
   Roya sar-e-Shah-e-Huda
 
   4
   Tu ne bachchoṅ ki di hai qurbaani
   Haae re tera zauq-e-imaani
-  Pyaase bhaai ki yaad meiṅ tu ne
+  Pyaase bhaai ki yaad mein tu ne
   Khuṅ bahaaya hai aankh ka paani
   Ae Bibi baani-e-aza ye zabt hausla tera
   Naize pe sar pukaarta
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   9
   Waasta us asir bachchi ka
-  Rassiyoṅ meiṅ bandha tha jis ka gala
+  Rassiyoṅ mein bandha tha jis ka gala
   Wo jo pyaasi thi mar gai pyaasi
   Koi bachcha na ab rahe pyaasa
   Ae Bibi baani-e-aza hai har sabil par likha
@@ -84,7 +84,7 @@ romanLyrics: |-
 
   10
   Likh ke Rehaan Azmi nauha
-  Maiṅ ne apne qalam ko jab dekha
+  Main ne apne qalam ko jab dekha
   Khuṅ tapakta tha us ki aankhoṅ se
   Soz kaaghaz ke qalb se utha
   Ae Bibi baani-e-aza hum se na haq ada hua

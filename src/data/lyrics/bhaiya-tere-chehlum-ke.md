@@ -38,7 +38,7 @@ romanLyrics: |-
   Begor o kafan dasht meiṅ wo bhai haiṅ Zainab
 
   7
-  Chhupne nahiṅ dege tere bhaiya ke lahu ko
+  Chhupne nahiṅ de ge tere bhaiya ke lahu ko
   Wo bazm-e-aza tu ne jo mehkaayi hai Zainab
 
   8
@@ -46,7 +46,7 @@ romanLyrics: |-
   Chhor aayi hai zindaan se nahiṅ laayi hai Zainab
 
   9
-  Rehaan kabhi nohe se ghaafil na milega
+  Rehaan kabhi nohe se ghaafil na mile ga
   Abbas ke parcham ki qasam khaayi hai Zainab
 ---
 

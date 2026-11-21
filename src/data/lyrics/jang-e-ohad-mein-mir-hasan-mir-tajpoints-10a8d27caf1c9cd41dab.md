@@ -1,28 +1,44 @@
 ---
-title: "Jang-e-Ohad Mein Mir Hasan Mir"
+title: "جنگِ اُحد میں میر حسن میر"
+alternateTitle: "Jang-e-Ohad Mein Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jang-e-Ohad mein rishta-e-eman toor ke
+  Kuch bad naseeb bhagay Muhammad ko chor ke
+  Bandhwaye jab se Hur ki nadamat ne Hur ke hath
+  Janat bola rahi hai ossay hath joor ke
+  Dunya mein aam kar ke muhabbat Hussain ki
+  Kaba bana raha hoon main dil joor joor ke
+  Aisay moarkheen pe lanat Khuda ki hai
+  Jo waqiyat paish karein toor moor ke
+  Parwardigar-e-tashna labi teri yaad mein
+  Aankhon ne rakh diye hain samandar nachor ke
+  Ungli uthaye jo bhi aza-e-Hussain par
+  Rakh do tum oss Yazid ki gardan maror ke
+  Nayab madh-e-Aal-e-Muhammad ke wastay
+  Alfaz khud jagatay hain mujh ke jhanjhor ke
 ---
 
-1
-Jang-e-Ohad Mein Mir Hasan Mir Lyrics
-Jang-e-Ohad Mein Rishta-e-Eman Toor Ke.
-Kuch Bad Naseeb Bhagay Muhammad Ko Chor Ke.
-Bandhwaye Jab Se Hur Ki Nadamat Ne Hur Ke Hath.
-Janat Bola Rahi Hai Ossay Hath Joor Ke.
-Dunya Mein Aam Kar Ke Muhabbat Hussain Ki.
-Kaba Bana Raha Hoon Main Dil Joor Joor Ke.
-Aisay Moarkheen Pe Lanat Khuda Ki Hai.
-Jo Waqiyat Paish Karein Toor Moor Ke.
-Parwardigar-e-Tashna Labi Teri Yaad Mein.
-Aankhon Ne Rakh Diye Hain Samandar Nachor Ke.
-Ungli Uthaye Jo Bhi Aza-e-Hussain Par.
-Rakh Do Tum Oss Yazid Ki Gardan Maror Ke.
- Nayab Madh-e-Aal-e-Muhammad Ke Wastay.
-Alfaz Khud Jagatay Hain Mujh Ke Jhanjhor Ke.
+۱
+جنگِ اُحد میں رشتۂ ایمان توڑ کے
+کچھ بدنصیب بھاگے محمد کو چھوڑ کے
+بندھوائے جب سے حر کی ندامت نے حر کے ہاتھ
+جنت بلا رہی ہے اسے ہاتھ جوڑ کے
+دنیا میں عام کر کے محبت حسین کی
+کعبہ بنا رہا ہوں میں دل جوڑ جوڑ کے
+ایسے مؤرخین پہ لعنت خدا کی ہے
+جو واقعات پیش کریں توڑ موڑ کے
+پروردگارِ تشنہ لبی تیری یاد میں
+آنکھوں نے رکھ دیے ہیں سمندر نچوڑ کے
+انگلی اٹھائے جو بھی عزائے حسین پر
+رکھ دو تم اس یزید کی گردن مروڑ کے
+نایاب مدحِ آلِ محمد کے واسطے
+الفاظ خود جگاتے ہیں مجھ کے جھنجھوڑ کے

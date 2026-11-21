@@ -1,66 +1,122 @@
 ---
-title: "Jab Khuda Ko Pukara Ali Aa Gaye"
+title: "جب خدا کو پکارا علی آ گئے"
+alternateTitle: "Jab Khuda Ko Pukara Ali Aa Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Mir Hasan Mir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jab Khuda ko pukara Ali aa gaye jab Ali aa gaye zindagi aa gayi
+  Zindagi bandagi roshni aa gayi roshni aa gayi aa gahi aa gayi
+
+  1
+  Ghusal-e-maiyyat na kehna marey ghusal ko ujlay malboos ko mat kafan naam do
+  Main chala hoon Ali se mulaqaat ko jis ki thi aarzu woh ghari aa gayi
+
+  2
+  Maut inn ke muhibbon ko aati nahi aa bhi jaye tu phir bach ke jati nahi
+  Maut ka kya khatar maut se kya hazzar iss se bachna bhi kya aa gayi aa gayi
+
+  3
+  Teri masnad pe ghairon ko bithla diya nayab-e-Mustafa mazhar-e-Kibriya
+  Tu wasi-o-wali-o-Ali hi raha manzalat mein teri kya kami aa gayi
+
+  4
+  Hum keh sarshar ishq our tawalla mein they jantay hi na they nafrat-o-dushmani
+  Yeh tabara bhi wallah kya cheez hai hum ko agyar se dushmani aa gayi
+
+  5
+  Maslak-e-ishq mein mangna aib hai main bhi khamosh hoon woh bhi khamosh hain
+  Unn ko sab hai khabar iss liye chup hoon main kya howa aankh mein gar nami aa gayi
+
+  6
+  Khums dena mawaddat ki ik shart hai our na dena bhi misal-e-Fidak hai gunah
+  Haq-e-sadaat-o-Zahra ke maqroz se jab tabara suna tu hansi aa gayi
+
+  7
+  Kyun na roein woh qismat ko apni sada jin ka pora muqadar hai lanat zadah
+  Jin ki qismat mein apne hi amal se bint-e-Ahmad ki narazgi aa gayi
+
+  8
+  Sorah-e-Aal-e-Imran bhi hai gawah misal-e-Kausar hoi aal unn ko atta
+  Woh jo kehte they abtar Nabi ko mere unn ki qismat mein hi abtari aa gayi
+
+  9
+  Jis ka maula tha main oss ka maula Ali jab Nabi ne kaha deen kamil howa
+  Marhaba Mustafa Rab bhi razi howa woh jo aana thi aayat wohi aa gayi
+
+  10
+  Jibreel our Qanbar par kiya munhisar dar tera chor kar koi jata nahi
+  Jo ghulami ka teri maza pa gaya raas jis ko teri nokari aa gayi
+
+  11
+  Ishq-e-Haider mein phirtay they sham-o-sahar unn ke madah hain sare jin-o-bashar
+  Unn ki aawargi ka safar dekh kar zehan mein fikar-e-aawargi aa gayi
+
+  12
+  Ishq jab tak na ho shair hota nahi mujh mein kab ahliyat thi teri madah ki
+  Mere maula main qurbaan tere ishq ke:Sibt-e-Jafar: ko bhi shayari aa gayi
+
+  13
+  Shayari ki sharait bata bhi gaye our may-e-ishq-e-Haider pilla bhi gaye
+  :Sibt-e-Jafar: main qurbaan may-e-ishq ke Ibn-e- Jafar ko bhi shayari aa gayi
 ---
-Jab Khuda Ko Pukara Ali Aa Gaye Jab Ali Aa Gaye Zindagi Aa Gayi
-Zindagi Bandagi Roshni Aa Gayi Roshni Aa Gayi Aa Gahi Aa Gayi
+جب خدا کو پکارا علی آ گئے، جب علی آ گئے زندگی آ گئی
+زندگی بندگی روشنی آ گئی، روشنی آ گئی آگہی آ گئی
 
-1
-Ghusal-e-Maiyyat Na Kehna Marey Ghusal Ko Ujlay Malboos Ko Mat Kafan Naam Do
-Main Chala Hoon Ali Se Mulaqaat Ko Jis Ki Thi Aarzu Woh Ghari Aa Gayi
+۱
+غسلِ میت نہ کہنا مرے غسل کو، اجلے ملبوس کو مت کفن نام دو
+میں چلا ہوں علی سے ملاقات کو، جس کی تھی آرزو وہ گھڑی آ گئی
 
-2
-Maut Inn Ke Muhibbon Ko Aati Nahi Aa Bhi Jaye Tu Phir Bach Ke Jati Nahi
-Maut Ka Kya Khatar Maut Se Kya Hazzar Iss Se Bachna Bhi Kya Aa Gayi Aa Gayi
+۲
+موت ان کے محبوں کو آتی نہیں، آ بھی جائے تو پھر بچ کے جاتی نہیں
+موت کا کیا خطر، موت سے کیا حذر، اس سے بچنا بھی کیا، آ گئی آ گئی
 
-3
-Teri Masnad Pe Ghairon Ko Bithla Diya Nayab-e-Mustafa Mazhar-e-Kibriya
-Tu Wasi-o-Wali-o-Ali Hi Raha Manzalat Mein Teri Kya Kami Aa Gayi
+۳
+تیری مسند پہ غیروں کو بٹھلا دیا، نائبِ مصطفیٰ مظہرِ کبریا
+تو وصی و ولی و علی ہی رہا، منزلت میں تری کیا کمی آ گئی
 
-4
-Hum Keh Sarshar Ishq Our Tawalla Mein They Jantay Hi Na They Nafrat-o-Dushmani
-Yeh Tabara Bhi Wallah Kya Cheez Hai Hum Ko Agyar Se Dushmani Aa Gayi
+۴
+ہم کہ سرشار عشق اور تولّا میں تھے، جانتے ہی نہ تھے نفرت و دشمنی
+یہ تبرّا بھی واللہ کیا چیز ہے، ہم کو اغیار سے دشمنی آ گئی
 
-5
-Maslak-e-Ishq Mein Mangna Aib Hai Main Bhi Khamosh Hoon Woh Bhi Khamosh Hain
-Unn Ko Sab Hai Khabar Iss Liye Chup Hoon Main Kya Howa Aankh Mein Gar Nami Aa Gayi
+۵
+مسلکِ عشق میں مانگنا عیب ہے، میں بھی خاموش ہوں وہ بھی خاموش ہیں
+ان کو سب ہے خبر اس لیے چپ ہوں میں، کیا ہوا آنکھ میں گر نمی آ گئی
 
-6
-Khums Dena Mawaddat Ki Ik Shart Hai Our Na Dena Bhi Misal-e-Fidak Hai Gunah
-Haq-e-Sadaat-o-Zahra Ke Maqroz Se Jab Tabara Suna Tu Hansi Aa Gayi
+۶
+خمس دینا مودّت کی اک شرط ہے اور نہ دینا بھی مثالِ فدک ہے گناہ
+حقِ سادات و زہرا کے مقروض سے جب تبرّا سنا تو ہنسی آ گئی
 
-7
-Kyun Na Roein Woh Qismat Ko Apni Sada Jin Ka Pora Muqadar Hai Lanat Zadah
-Jin Ki Qismat Mein Apne Hi Amal Se Bint-e-Ahmad Ki Narazgi Aa Gayi
+۷
+کیوں نہ روئیں وہ قسمت کو اپنی سدا، جن کا پورا مقدر ہے لعنت زدہ
+جن کی قسمت میں اپنے ہی عمل سے بنتِ احمد کی ناراضگی آ گئی
 
-8
-Sorah-e-Aal-e-Imran Bhi Hai Gawah Misal-e-Kausar Hoi Aal Unn Ko Atta
-Woh Jo Kehte They Abtar Nabi Ko Mere Unn Ki Qismat Mein Hi Abtari Aa Gayi
+۸
+سورۂ آلِ عمران بھی ہے گواہ، مثالِ کوثر ہوئی آل ان کو عطا
+وہ جو کہتے تھے ابتر نبی کو مرے، ان کی قسمت میں ہی ابتری آ گئی
 
-9
-Jis Ka Maula Tha Main Oss Ka Maula Ali Jab Nabi Ne Kaha Deen Kamil Howa
-Marhaba Mustafa Rab Bhi Razi Howa Woh Jo Aana Thi Aayat Wohi Aa Gayi
+۹
+جس کا مولا تھا میں اس کا مولا علی، جب نبی نے کہا دین کامل ہوا
+مرحبا مصطفیٰ رب بھی راضی ہوا، وہ جو آنا تھی آیت وہی آ گئی
 
-10
-Jibreel Our Qanbar Par Kiya Munhisar Dar Tera Chor Kar Koi Jata Nahi
-Jo Ghulami Ka Teri Maza Pa Gaya Raas Jis Ko Teri Nokari Aa Gayi
+۱۰
+جبرئیل اور قنبر پر کیا منحصر، در تیرا چھوڑ کر کوئی جاتا نہیں
+جو غلامی کا تیری مزا پا گیا، راس جس کو تری نوکری آ گئی
 
-11
-Ishq-e-Haider Mein Phirtay They Sham-o-Sahar Unn Ke Madah Hain Sare Jin-o-Bashar
-Unn Ki Aawargi Ka Safar Dekh Kar Zehan Mein Fikar-e-Aawargi Aa Gayi
+۱۱
+عشقِ حیدر میں پھرتے تھے شام و سحر، ان کے مداح ہیں سارے جن و بشر
+ان کی آوارگی کا سفر دیکھ کر ذہن میں فکرِ آوارگی آ گئی
 
-12
-Ishq Jab Tak Na Ho Shair Hota Nahi Mujh Mein Kab Ahliyat Thi Teri Madah Ki
-Mere Maula Main Qurbaan Tere Ishq Ke:SIBT-E-JAFAR: Ko Bhi Shayari Aa Gayi
+۱۲
+عشق جب تک نہ ہو شاعر ہوتا نہیں، مجھ میں کب اہلیت تھی تری مدح کی
+میرے مولا میں قربان تیرے عشق کے، سبطِ جعفر کو بھی شاعری آ گئی
 
-13
-Shayari Ki Sharait Bata Bhi Gaye Our May-e-Ishq-e-Haider Pilla Bhi Gaye
-:SIBT-E-JAFAR: Main Qurbaan May-e-Ishq Ke Ibn-e- Jafar Ko Bhi Shayari Aa Gayi
+۱۳
+شاعری کی شرائط بتا بھی گئے اور مۓ عشقِ حیدر پلا بھی گئے
+سبطِ جعفر میں قربان مۓ عشق کے، ابنِ جعفر کو بھی شاعری آ گئی

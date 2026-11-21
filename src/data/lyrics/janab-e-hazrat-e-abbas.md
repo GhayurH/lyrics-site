@@ -27,7 +27,7 @@ romanLyrics: |-
 
   1
   Kahaaṅ kahaaṅ wo hamaari madad nahiṅ karte
-  Qasam Sakina ki Abbas rad nahiṅ karte
+  Qasam Sakina ki Abbas radd nahiṅ karte
   Baghair maaṅge wo sab kuchh ata kareiṅge tumheiṅ
   Sakina Bibi ka farsh-e-aza bichhaaya karo
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Bahut qarib hai Abbas ke ye shahzaadi
   Jo dekhni ho mohabbat chacha bhatiji ki
   Tum apne ghar meiṅ sajaate hue azaakhaana
-  Alam pe chhoti si ek mashk bhi sajaaya karo
+  Alam pe chhoti si ik mashk bhi sajaaya karo
 
   3
   Misaal-e-Karb o Bala hai karam nawaazi ki
@@ -62,15 +62,15 @@ romanLyrics: |-
   Sakina hum se kabhi dur tum na jaaya karo
 
   7
-  Salaam uspe jo girti sambhalti rehti thi
+  Salaam us pe jo girti sambhalti rehti thi
   Wo jis ke gaaloṅ ki rangat badalti rehti thi
   Tamaache khaa ke wo zaalim se ro ke kehti rahi
-  Maiṅ ek yatim huṅ mujh par na haath uthaaya karo
+  Maiṅ ik yatim huṅ mujh par na haath uthaaya karo
 
   8
   Ye zaairin se Zishan aur Raza keh do
   Kisi ka Shaam agar Karbala se jaana ho
-  Lahad pe Bibi ki ek mashk saath le jaa kar
+  Lahad pe Bibi ki ik mashk saath le jaa kar
   Ye paani bheja hai Abbas ne bataaya karo
 ---
 مولا عباس مولا عباس

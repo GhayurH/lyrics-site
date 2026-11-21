@@ -1,34 +1,58 @@
 ---
-title: "Musallah Khon Mein Tar Hai Syed Abbas Raza Naqvi"
+title: "مصلّیٰ خون میں تر ہے سید عباس رضا نقوی"
+alternateTitle: "Musallah Khon Mein Tar Hai Syed Abbas Raza Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Abbas"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Musallah khon mein tar hai Syed Abbas Raza Naqvi
+  Musalla khon mein tar hai Ali Maula hain sajday mein
+  Hai yeh uneeswin Ramzaan qayamat jaisi Kofay mein
+  Suna Zainab ne jab Baba hoye zakhmi musallay pe
+  Tu bolein Baba ko le aao ab ghar mere jaldi se
+  Wagarna main na bethongi zara bhi apne hujray mein
+  Bin-e-Muljim ki Maula pe chali talwar hai jis dam
+  Lehad mein thartharai hain Janab-e-Fatima oss dam
+  Our unn ke sath roein hain Muhammad apne rozay mein
+  Boka kartay hoye Shabeer yeh Nana se hain bolay
+  Zara dekho musalmaan ne humein iss Eid se pehle
+  Yateemi ka bara sadma diya hai hum ko tohfay mein
+  Ali ke baad Aoulad-e-Ali ke haal hain aisay
+  Yeh aksar raton mein uth kar hain ik dojay ko yeh kehte
+  Mujhe Baba nazar aaye lahu aalod kurtay mein
+  Jo aaya Eid hai milne ossay Fizza ne yeh bola
+  Kahan ki Eid our khushiyaan yahan pursa hi bas ho ga
+  Ali ke phool se bachay hain iss tarha ke sadmay mein
+  Jo zakhmi Baba ko dekha tarap ke dil yehi bola
+  Humein na chor ke jana parha Abbas ne noha
+  Asad hai giriya-e-zainab musalsal mere nohay mein
 ---
 
-1
-Musallah Khon Mein Tar Hai Syed Abbas Raza Naqvi.
-Musalla Khon Mein Tar Hai Ali Maula Hain Sajday Mein.
-Hai Yeh Uneeswin Ramzaan Qayamat Jaisi Kofay Mein.
-Suna Zainab Ne Jab Baba Hoye Zakhmi Musallay Pe.
-Tu Bolein Baba Ko Le Aao Ab Ghar Mere Jaldi Se.
-Wagarna Main Na Bethongi Zara Bhi Apne Hujray Mein.
-Bin-e-Muljim Ki Maula Pe Chali Talwar Hai Jis Dam.
-Lehad Mein Thartharai Hain Janab-e-Fatima Oss Dam.
-Our Unn Ke Sath Roein Hain Muhammad Apne Rozay Mein.
-Boka Kartay Hoye Shabeer Yeh Nana Se Hain Bolay.
-Zara Dekho Musalmaan Ne Humein Iss Eid Se Pehle.
-Yateemi Ka Bara Sadma Diya Hai Hum Ko Tohfay Mein.
-Ali Ke Baad Aoulad-e-Ali Ke Haal Hain Aisay.
-Yeh Aksar Raton Mein Uth Kar Hain Ik Dojay Ko Yeh Kehte.
-Mujhe Baba Nazar Aaye Lahu Aalod Kurtay Mein.
-Jo Aaya Eid Hai Milne Ossay Fizza Ne Yeh Bola.
-Kahan Ki Eid Our Khushiyaan Yahan Pursa Hi Bas Ho Ga.
-Ali Ke Phool Se Bachay Hain Iss Tarha Ke Sadmay Mein.
-Jo Zakhmi Baba Ko Dekha Tarap Ke Dil Yehi Bola.
-Humein Na Chor Ke Jana Parha Abbas Ne Noha.
- Asad Hai Giriya-e-Zainab Musalsal Mere Nohay Mein.
+۱
+مصلّیٰ خون میں تر ہے سید عباس رضا نقوی
+مصلّیٰ خون میں تر ہے علی مولا ہیں سجدے میں
+ہے یہ انیسویں رمضان قیامت جیسی کوفے میں
+سنا زینب نے جب بابا ہوئے زخمی مصلّے پہ
+تو بولیں بابا کو لے آؤ اب گھر میرے جلدی سے
+وگرنہ میں نہ بیٹھوں گی ذرا بھی اپنے حجرے میں
+ابنِ ملجم کی مولا پہ چلی تلوار ہے جس دم
+لحد میں تھرتھرائی ہیں جنابِ فاطمہ اُس دم
+اور اُن کے ساتھ روئے ہیں محمد اپنے روضے میں
+بکا کرتے ہوئے شبیر یہ نانا سے ہیں بولے
+ذرا دیکھو مسلمان نے ہمیں اس عید سے پہلے
+یتیمی کا بڑا صدمہ دیا ہے ہم کو تحفے میں
+علی کے بعد اولادِ علی کے حال ہیں ایسے
+یہ اکثر راتوں میں اٹھ کر ہیں اک دوجے کو یہ کہتے
+مجھے بابا نظر آئے لہو آلود کرتے میں
+جو آیا عید ہے ملنے اسے فضہ نے یہ بولا
+کہاں کی عید اور خوشیاں یہاں پرسہ ہی بس ہو گا
+علی کے پھول سے بچے ہیں اس طرح کے صدمے میں
+جو زخمی بابا کو دیکھا تڑپ کے دل یہی بولا
+ہمیں نہ چھوڑ کے جانا پڑھا عباس نے نوحہ
+اسد ہے گریۂ زینب مسلسل میرے نوحے میں

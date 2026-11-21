@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ya habibi ya Husain ya shafi ya Husain
+  Ya habib ya Husain ya shafi ya Husain
   Ya gharibi ya Husain
-  Ya hussaina ya imamal mazlumeena
-  Ya hussaina ya imamal masumeena
-  Ya hussaina
-  Rab ki raza se jisne gardan katayi
-  Din-e-nabi ki jisne laaj bachayi
-  Har ghar may jiska farshe matam bicha hai
-  Roti hai jiske gham may saari khudaai
-  Ya hussainaṅ ya gharibun
+  Ya Husaina ya imaam al mazlumina
+  Ya Husaina ya imaam al masumina
+  Ya Husaina
+  Rab ki raza se jis ne gardan kataayi
+  Din-e-Nabi ki jis ne laaj bachaayi
+  Har ghari mein jis ka farsh-e-maatam bichha hai
+  Roti hai jis ke gham mein saari khudaai
+  Ya Husaiṅ ya gharibun
   Ya zabihuṅ bekhata
-  Mehman kar ke usko kufa bulaaya
-  Bayt-e-yazid karo masla uthaya
-  Bole Husain kabhi mai na karunga
-  Sajde may jisne apne sar ko kataya
-  Ya hussainaṅ ya gharibun
+  Mehmaan kar ke us ko Kufa bulaaya
+  Bayt-e-Yazid karo masla uthaaya
+  Bole Husain kabhi main na karuṅ ga
+  Sajde mein jis ne apne sar ko kataaya
+  Ya Husaiṅ ya gharibun
   Ya zabihuṅ bekhata
-  Zehra aur hyder jiska jhula jhulaye
-  Khatm-e-mursal bhi jiske naaz uthaye
-  Khaali sawaali jiske ghar se na jaaye
-  Hal min ki deta hai wo ban may sadayeiṅ
-  Akbar sa beta diya ghazi sa bhai
-  Luti gayi hai ran may jiski kamayi
-  Ab bhi gawah hai uski shaam e gharibaṅ
-  Apne lahu se shamma diṅ ki jalayi
-  Ya hussainaṅ ya gharibun
+  Zehra aur Haidar jis ka jhula jhulaaye
+  Khatm-e-mursal bhi jis ke naaz uthaaye
+  Khaali sawaali jis ke ghar se na jaaye
+  Hal min ki deta hai wo ban mein sadaaeṅ
+  Akbar sa beta diya Ghazi sa bhaai
+  Luti gayi hai ran mein jis ki kamaayi
+  Ab bhi gawaah hai us ki shaam-e-gharibaaṅ
+  Apne lahu se shama diṅ ki jalaayi
+  Ya Husaiṅ ya gharibun
   Ya zabihuṅ bekhata
-  Koi na dekha hum ne aisa namazi
-  Din-e-nabi pe jisne har shay luta di
-  Phul bahattar diye raah e khuda may
-  Sab kuch luta ke kiya allah ko raazi
-  Ya hussainaṅ ya gharibun
+  Koi na dekha hum ne aisa namaazi
+  Din-e-Nabi pe jis ne har shay luta di
+  Phul bahattar diye raah-e-Khuda mein
+  Sab kuchh luta ke kiya Allah ko raazi
+  Ya Husaiṅ ya gharibun
   Ya zabihuṅ bekhata
-  Jawad o mesum uska matam hai ghar ghar
-  Dhoye janaze jisne pyaroṅ ke din bhar
-  Phera gaya hai jiski gardan pe khanjar
-  Chini gayi hai jiski behna ki chadar
-  Ya hussainaṅ ya gharibun
+  Jawad o Maisam us ka maatam hai ghar ghar
+  Dhoye janaaze jis ne pyaaroṅ ke din bhar
+  Phera gaya hai jis ki gardan pe khanjar
+  Chhini gayi hai jis ki behna ki chaadar
+  Ya Husaiṅ ya gharibun
   Ya zabihuṅ bekhata
 ---
 

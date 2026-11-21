@@ -1,29 +1,47 @@
 ---
-title: "Pardais Che Zahra Jaiyaan Nu Babay Nu Lyrics 2019"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "پردیس چ زہرا جائیاں نوں بابے نوں"
+alternateTitle: "Pardais Che Zahra Jaiyaan Nu Babay Nu"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Pardais che Zahra jaiyaan nu babay nu bulaya ro ro ke
+  Safraan di azeeyat jannan layi Yasrab toon Kofay shehar taein aye safar karaya ro ro ke
+  Jiwein jiwein mehmal shehar wich dakhal hoye owein owein Ghazi de athro wadhday rey
+  Izataan di khuda di aamad layi band sara almaan walay ne haye shehar karaya ro ro ke
+
+  2
+  Wah Muhammad wah Ali diyaan hawaan uthiyaan haye Zahra haye ghurbat dhiyaan keh keh roiyaan
+  Jina akhiyaan shahi takni si onna akhiyaan nu babal ne bazar wakhaya ro ro ke
+  Ik pasay si Hasan dojay pasay Ghazi hath Shabir da phar ke Zainab turdi rayi
+  Mehmal toon Noori hujray taein ba-adab bhirawaan ne ral ke aynj pardah banaya ro ro ke
+
+  3
+  Qafila qaidiyaan da jay koi aa jaway kisay pardaisi nu na sang maray koi
+  Ik saal Ali diyaan dhiyaan ne Kofay diyaan aurtaan nu sad ke aye dars sikhaya ro ro ke
+  Baap di hasrat nu pora aynj kita Samar wich burqay de Zainab kool aa ke beh gayi
+  Babay de sir nu chum chum ke babay de lehjay wich dhi ne Quran sunaya ro ro ke
 ---
 
-1
-Pardais Che Zahra Jaiyaan Nu Babay Nu Bulaya Ro Ro Ke.
-Safraan Di Azeeyat Jannan Layi Yasrab Toon Kofay Shehar Taein Aye Safar Karaya Ro Ro Ke.
-Jiwein Jiwein Mehmal Shehar Wich Dakhal Hoye Owein Owein Ghazi De Athro Wadhday Rey.
-Izataan Di Khuda Di Aamad Layi Band Sara Almaan Walay Ne Haye Shehar Karaya Ro Ro Ke.
+۱
+پردیس چ زہرا جائیاں نوں بابے نوں بلایا رو رو کے
+سفراں دی اذیت جانن لئی یثرب توں کوفے شہر تائیں ایہہ سفر کرایا رو رو کے
+جیویں جیویں محمل شہر وچ داخل ہوئے اویویں اویویں غازی دے اتھرو ودھدے رہے
+عزتاں دی خدا دی آمد لئی بند سارا علماں والے نے ہائے شہر کرایا رو رو کے
 
-2
-Wah Muhammad Wah Ali Diyaan Hawaan Uthiyaan Haye Zahra Haye Ghurbat Dhiyaan Keh Keh Roiyaan.
-Jina Akhiyaan Shahi Takni Si Onna Akhiyaan Nu Babal Ne Bazar Wakhaya Ro Ro Ke.
-Ik Pasay Si Hasan Dojay Pasay Ghazi Hath Shabir Da Phar Ke Zainab Turdi Rayi.
-Mehmal Toon Noori Hujray Taein Ba-Adab Bhirawaan Ne Ral Ke Aynj Pardah Banaya Ro Ro Ke.
+۲
+واہ محمد واہ علی دیاں ہواں اٹھیاں ہائے زہرا ہائے غربت دھیاں کہہ کہہ روئیاں
+جِنہاں اکھیاں شاہی تکنی سی اوہناں اکھیاں نوں بابل نے بازار وکھایا رو رو کے
+اک پاسے سی حسن دوجے پاسے غازی ہتھ شبیر دا پھڑ کے زینب ٹردی رہی
+محمل توں نوری حجرے تائیں باادب بھراواں نے رل کے اینج پردہ بنایا رو رو کے
 
-3
-Qafila Qaidiyaan Da Jay Koi Aa Jaway Kisay Pardaisi Nu Na Sang Maray Koi.
-Ik Saal Ali Diyaan Dhiyaan Ne Kofay Diyaan Aurtaan Nu Sad Ke Aye Dars Sikhaya Ro Ro Ke.
-Baap Di Hasrat Nu Pora Aynj Kita Samar Wich Burqay De Zainab Kool Aa Ke Beh Gayi.
-Babay De Sir Nu Chum Chum Ke Babay De Lehjay Wich Dhi Ne Quran Sunaya Ro Ro Ke.
+۳
+قافلہ قیدیاں دا جے کوئی آ جاوے کسے پردیسی نوں نہ سنگ مارے کوئی
+اک سال علی دیاں دھیاں نے کوفے دیاں عورتاں نوں سد کے ایہہ درس سکھایا رو رو کے
+باپ دی حسرت نوں پورا اینج کیتا ثمر وچ برقعے دے زینب کول آ کے بہہ گئی
+بابے دے سر نوں چم چم کے بابے دے لہجے وچ دھی نے قرآن سنایا رو رو کے

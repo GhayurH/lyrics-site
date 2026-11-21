@@ -11,32 +11,32 @@ aliases:
   - "Bay Khata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
 published: true
 romanLyrics: |-
-  Bekhata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
-  Zehr Se Tukre Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
+  Bekhata maara gaya Sibt-e-Rasul-e-Dosara, wa Hasan-e-Sabz Qaba
+  Zehr se tukre jigar, khuṅ se kafan laal hua, wa Hasan-e-Sabz Qaba
 
   1
-  Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
-  Teri Ghurbat Pe Ae Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
+  Khuṅ ugalte hue bhaai ko behan ne dekha, aur tarap kar yeh kaha
+  Teri ghurbat pe ae bhaai, teri Zainab ho fida, wa Hasan-e-Sabz Qaba
 
   2
-  Maaṅ Ke Dukh Se Abhi Azad Kahaṅ Thi Zainab, Ho Gaya Kaisa Ghazab
-  Baap Zinda Na Raha, Bhai Su-e-Khuld Chala, Wa Hasan-e-Sabz Qaba
+  Maaṅ ke dukh se abhi aazaad kahaṅ thi Zainab, ho gaya kaisa ghazab
+  Baap zinda na raha, bhaai su-e-khuld chala, wa Hasan-e-Sabz Qaba
 
   3
-  Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukre, Aur Qasim Ke Liye
-  Kam Sini Meiṅ Hai Yeh Gham Shaam-e-Gharibaṅ Jaisa, Wa Hasan-e-Sabz Qaba
+  Kar diye zehr-e-halaahal ne jigar ke tukre, aur Qasim ke liye
+  Kam sini meiṅ hai yeh gham shaam-e-gharibaaṅ jaisa, wa Hasan-e-Sabz Qaba
 
   4
-  Ghar Se Ik Baar Janaza Jo Nikal Jata Hai, Kab Wo Phir Aata Hai
-  Yeh Woh Tabut Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
+  Ghar se ik baar janaaza jo nikal jaata hai, kab woh phir aata hai
+  Yeh woh taabut hai jo laut ke phir ghar ko chala, wa Hasan-e-Sabz Qaba
 
   5
-  Sheh Ne Us Waqt Jo Ghazi Ko Na Roka Hota, Hashr Ho Jata Bapa
-  Tir Aate Na Janaze Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
+  Sheh ne us waqt jo Ghazi ko na roka hota, hashr ho jaata bapa
+  Tir aate na janaaze pe tumhaare Maula, wa Hasan-e-Sabz Qaba
 
   6
-  Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala
-  Tukre Qasim Ke Uthate Hue Moula Ne Kaha, Wa Hasan-e-Sabz Qaba
+  Sheh ko Rehan baraadar ka jigar yaad aaya, jab sar-e-Karb o Bala
+  Tukre Qasim ke uthate hue Maula ne kaha, wa Hasan-e-Sabz Qaba
 ---
 
 بے خطا مارا گیا سبطِ رسولؐ دوسرا، وا حسنؑ سبز قبا

@@ -1,41 +1,71 @@
 ---
-title: "Neend Ayegi Baba Ko Pukaregi Sakina Sajjad Ashraf Taqvi"
+title: "نیند آئے گی بابا کو پکارے گی سکینہ سجاد اشرف تقوی"
+alternateTitle: "Neend Ayegi Baba Ko Pukaregi Sakina Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akhtar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Neend ayegi Baba ko pukaregi Sakina Sajjad Ashraf Taqvi
+  Ab raat bhala kaisay guzarey gi Sakina
+  Aye Shimar sitam dhaye ga bachi pe kahan tak
+  Mar jaye gi himmat nahi harey gi Sakina
+
+  2
+  Khuwabon mein hi maidan se kuch dair ko Asghar
+  Aa ja teri zulfoon ko sanwarey gi Sakina
+  Ammo ki nishani hai issay jan se pyari
+  Aye Shimar yeh bunday na utaray gi Sakina
+
+  3
+  Darya se chaley aaiye darbar mein Ammo
+  Kya umar kaneezi mein guzarey gi Sakina
+  Zainab ne na socha tha kabhi Nana ki ummat
+  Ghurbat mein tamachay tujhe marey gi Sakina
+
+  4
+  Afsoos phattay kurtay mein dafnaye ga bhai
+  Kis haal mein dunya se sidharay gi Sakina
+  Zindan ki yaad aaye gi jab bhai ko tere
+  Dil mein teri tasveer ubharey gi Sakina
+
+  5
+  Pori na hoi haye watan jane ki hasrat
+  Maa khud ko teri qabar pe warey gi Sakina
+  Sab Akhtar-o- Sajjad chaley jaein gay chut kar
+  Tanhai mein ik ik ko pukarey gi Sakina
 ---
 
-1
-Neend Ayegi Baba Ko Pukaregi Sakina Sajjad Ashraf Taqvi.
-Ab Raat Bhala Kaisay Guzarey Gi Sakina.
-Aye Shimar Sitam Dhaye Ga Bachi Pe Kahan Tak.
-Mar Jaye Gi Himmat Nahi Harey Gi Sakina.
+۱
+نیند آئے گی بابا کو پکارے گی سکینہ سجاد اشرف تقوی
+اب رات بھلا کیسے گزارے گی سکینہ
+اے شمر ستم ڈھائے گا بچی پہ کہاں تک
+مر جائے گی ہمت نہیں ہارے گی سکینہ
 
-2
-Khuwabon Mein Hi Maidan Se Kuch Dair Ko Asghar.
-Aa Ja Teri Zulfoon Ko Sanwarey Gi Sakina.
-Ammo Ki Nishani Hai Issay Jan Se Pyari.
-Aye Shimar Yeh Bunday Na Utaray Gi Sakina.
+۲
+خوابوں میں ہی میدان سے کچھ دیر کو اصغر
+آ جا تیری زلفوں کو سنوارے گی سکینہ
+عمو کی نشانی ہے اسے جان سے پیاری
+اے شمر یہ بُندے نہ اتارے گی سکینہ
 
-3
-Darya Se Chaley Aaiye Darbar Mein Ammo.
-Kya Umar Kaneezi Mein Guzarey Gi Sakina.
-Zainab Ne Na Socha Tha Kabhi Nana Ki Ummat.
-Ghurbat Mein Tamachay Tujhe Marey Gi Sakina.
+۳
+دریا سے چلے آئیے دربار میں عمو
+کیا عمر کنیزی میں گزارے گی سکینہ
+زینب نے نہ سوچا تھا کبھی نانا کی امت
+غربت میں طمانچے تجھے مارے گی سکینہ
 
-4
-Afsoos Phattay Kurtay Mein Dafnaye Ga Bhai.
-Kis Haal Mein Dunya Se Sidharay Gi Sakina.
-Zindan Ki Yaad Aaye Gi Jab Bhai Ko Tere.
-Dil Mein Teri Tasveer Ubharey Gi Sakina.
+۴
+افسوس پھٹے کرتے میں دفنائے گا بھائی
+کس حال میں دنیا سے سدھارے گی سکینہ
+زندان کی یاد آئے گی جب بھائی کو تیرے
+دل میں تیری تصویر ابھارے گی سکینہ
 
-5
-Pori Na Hoi Haye Watan Jane Ki Hasrat.
-Maa Khud Ko Teri Qabar Pe Warey Gi Sakina.
-Sab Akhtar-o- Sajjad Chaley Jaein Gay Chut Kar.
-Tanhai Mein Ik Ik Ko Pukarey Gi Sakina.
+۵
+پوری نہ ہوئی ہائے وطن جانے کی حسرت
+ماں خود کو تیری قبر پہ وارے گی سکینہ
+سب اختر و سجاد چلے جائیں گے چھٹ کر
+تنہائی میں اک اک کو پکارے گی سکینہ

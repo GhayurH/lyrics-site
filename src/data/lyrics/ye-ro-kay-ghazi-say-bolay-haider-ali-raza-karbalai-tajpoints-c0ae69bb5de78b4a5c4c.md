@@ -1,45 +1,80 @@
 ---
-title: "Ye Ro Kay Ghazi Say Bolay Haider Ali Raza Karbalai"
+title: "یہ رو کے غازی سے بولے حیدر علی رضا کربلائی"
+alternateTitle: "Ye Ro Kay Ghazi Say Bolay Haider Ali Raza Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ye ro kay Ghazi say bolay Haider Ali Raza Karbalai
+
+  1
+  Yeh ro ke Ghazi se bolay Haider meri wasiyat ko yaad rakhna
+  Teri hifazat mein hai mera ghar meri wasiyat ko yaad rakhna
+  Hasan ko zalim sataein gay ab woh taig oss pe uthaein gay ab
+  Bachana hai tum ne dhaal ban kar meri wasiyat ko yaad rakhna
+  Jo ghar se Karb-o-Bala nikalna tu unn ko saye mein le ke chalna
+  Keh tum ho behno ke sar ki chadar meri wasiyat ko yaad rakhna
+
+  2
+  Beghair tarpay na reh sakein gay woh tere aanso na seh sakein gay
+  Hussain-o-Zainab se rona chup kar meri wasiyat ko yaad rakhna
+  Jab aaye ga pyas ka zamana tu dasht mein tum galay lagana
+  Meri taraf se utha ke Asghar meri wasiyat ko yaad rakhna
+  Yeh Kofay walon se kehte rehna Ali ki beti ko kuch na kehna
+  Na marna logo oss ko pathar meri wasiyat ko yaad rakhna
+
+  3
+  Nisar jaan apni karni tum ne hai Zahra ke lal par kuch aisay
+  Na Zahra se sharam khaye madar meri wasiyat ko yaad rakhna
+  Tu meri janib se meri poti ko pyar karna hai tum ne Ghazi
+  Sakina jis waqt pehne gohar meri wasiyat ko yaad rakhna
+  Ghadeer-e-Khum our Karbala ka hai tere kandhoon pe bojh beta
+  Ali ko Ghazi hai maan tum par meri wasiyat ko yaad rakhna
+
+  4
+  Hussain se hai wafa nibhani woh pyasa ho tu na peena pani
+  Chaley ga oss ke galay pe khanjar meri wasiyat ko yaad rakhna
+  Bachai thi Fatima ne jaisay meri wilayat bachana aisay
+  Keh fakhar tum par karein payamber meri wasiyat ko yaad rakhna
+  Asad hain Ghazi ke chomay shaney yeh keh ke Ghazi se Murtaza ne
+  Safar karein jab bhi meri dukhtar meri wasiyat ko yaad rakhna
 ---
 
-Ye Ro Kay Ghazi Say Bolay Haider Ali Raza Karbalai.
+یہ رو کے غازی سے بولے حیدر علی رضا کربلائی
 
-1
-Yeh Ro Ke Ghazi Se Bolay Haider Meri Wasiyat Ko Yaad Rakhna.
-Teri Hifazat Mein Hai Mera Ghar Meri Wasiyat Ko Yaad Rakhna.
-Hasan Ko Zalim Sataein Gay Ab Woh Taig Oss Pe Uthaein Gay Ab.
-Bachana Hai Tum Ne Dhaal Ban Kar Meri Wasiyat Ko Yaad Rakhna.
-Jo Ghar Se Karb-o-Bala Nikalna Tu Unn Ko Saye Mein Le Ke Chalna.
-Keh Tum Ho Behno Ke Sar Ki Chadar Meri Wasiyat Ko Yaad Rakhna.
+۱
+یہ رو کے غازی سے بولے حیدر میری وصیت کو یاد رکھنا
+تیری حفاظت میں ہے میرا گھر میری وصیت کو یاد رکھنا
+حسن کو ظالم ستائیں گے اب وہ تیغ اُس پہ اٹھائیں گے اب
+بچانا ہے تم نے ڈھال بن کر میری وصیت کو یاد رکھنا
+جو گھر سے کرب و بلا نکلنا تو اُن کو سائے میں لے کے چلنا
+کہ تم ہو بہنوں کے سر کی چادر میری وصیت کو یاد رکھنا
 
-2
-Beghair Tarpay Na Reh Sakein Gay Woh Tere Aanso Na Seh Sakein Gay.
-Hussain-o-Zainab Se Rona Chup Kar Meri Wasiyat Ko Yaad Rakhna.
-Jab Aaye Ga Pyas Ka Zamana Tu Dasht Mein Tum Galay Lagana.
-Meri Taraf Se Utha Ke Asghar Meri Wasiyat Ko Yaad Rakhna.
-Yeh Kofay Walon Se Kehte Rehna Ali Ki Beti Ko Kuch Na Kehna.
-Na Marna Logo Oss Ko Pathar Meri Wasiyat Ko Yaad Rakhna.
+۲
+بغیر تڑپے نہ رہ سکیں گے وہ تیرے آنسو نہ سہ سکیں گے
+حسین و زینب سے رونا چھپ کر میری وصیت کو یاد رکھنا
+جب آئے گا پیاس کا زمانہ تو دشت میں تم گلے لگانا
+میری طرف سے اٹھا کے اصغر میری وصیت کو یاد رکھنا
+یہ کوفے والوں سے کہتے رہنا علی کی بیٹی کو کچھ نہ کہنا
+نہ مارنا لوگو اُس کو پتھر میری وصیت کو یاد رکھنا
 
-3
-Nisar Jaan Apni Karni Tum Ne Hai Zahra Ke Lal Par Kuch Aisay.
-Na Zahra Se Sharam Khaye Madar Meri Wasiyat Ko Yaad Rakhna.
-Tu Meri Janib Se Meri Poti Ko Pyar Karna Hai Tum Ne Ghazi.
-Sakina Jis Waqt Pehne Gohar Meri Wasiyat Ko Yaad Rakhna.
-Ghadeer-e-Khum Our Karbala Ka Hai Tere Kandhoon Pe Bojh Beta.
-Ali Ko Ghazi Hai Maan Tum Par Meri Wasiyat Ko Yaad Rakhna.
+۳
+نثار جاں اپنی کرنی تم نے ہے زہرا کے لال پر کچھ ایسے
+نہ زہرا سے شرم کھائے مادر میری وصیت کو یاد رکھنا
+تو میری جانب سے میری پوتی کو پیار کرنا ہے تم نے غازی
+سکینہ جس وقت پہنے گوہر میری وصیت کو یاد رکھنا
+غدیرِ خم اور کربلا کا ہے تیرے کاندھوں پہ بوجھ بیٹا
+علی کو غازی ہے مان تم پر میری وصیت کو یاد رکھنا
 
-4
-Hussain Se Hai Wafa Nibhani Woh Pyasa Ho Tu Na Peena Pani.
-Chaley Ga Oss Ke Galay Pe Khanjar Meri Wasiyat Ko Yaad Rakhna.
-Bachai Thi Fatima Ne Jaisay Meri Wilayat Bachana Aisay.
-Keh Fakhar Tum Par Karein Payamber Meri Wasiyat Ko Yaad Rakhna.
- Asad Hain Ghazi Ke Chomay Shaney Yeh Keh Ke Ghazi Se Murtaza Ne.
-Safar Karein Jab Bhi Meri Dukhtar Meri Wasiyat Ko Yaad Rakhna.
+۴
+حسین سے ہے وفا نبھانی وہ پیاسا ہو تو نہ پینا پانی
+چلے گا اُس کے گلے پہ خنجر میری وصیت کو یاد رکھنا
+بچائی تھی فاطمہ نے جیسے میری ولایت بچانا ایسے
+کہ فخر تم پر کریں پیمبر میری وصیت کو یاد رکھنا
+اسد ہیں غازی کے چومے شانے یہ کہہ کے غازی سے مرتضیٰ نے
+سفر کریں جب بھی میری دختر میری وصیت کو یاد رکھنا

@@ -9,38 +9,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Hazrat-e-Abbas-e-Alamdar Madad Kar
-  Lakht-e-Jigar-e-Haider-e-Karar Madad Kar
+  Ya Hazrat-e-Abbaas-e-Alamdaar madad kar
+  Lakht-e-jigar-e-Haider Karraar madad kar
 
   1
-  Ya Shah Tujhe Sadqa-e-Sarkar-e-Madina
-  Faryad hai faryad hai saqa-e-Sakina
-  Hai tere siwa kaun madadgar madad kar
+  Ya Shaah tujhe sadqa-e-Sarkaar-e-Madina
+  Faryaad hai faryaad hai saqqa-e-Sakina
+  Hai tere siwa kaun madadgaar madad kar
 
   2
-  Ya Shah tujhe Syed-e-Mazlum ka sadqa
-  Ya Shah tujhe Asghar-e-Masum ka sadqa
-  Huṅ banda gunah gaar Alamdar madad kar
+  Ya Shaah tujhe Sayyid-e-Mazlum ka sadqa
+  Ya Shaah tujhe Asghar-e-Masum ka sadqa
+  Huṅ banda gunehgaar Alamdaar madad kar
 
   3
-  Mushkil meiṅ tery naam ki di jis ne duhai
+  Mushkil meiṅ tere naam ki di jis ne duhaai
   Aik pal meiṅ teri zaat hai imdad ko aai
-  Kiuṅ mere lie dair hai Sarkar madad kar
+  Kiuṅ mere liye der hai Sarkaar madad kar
 
   4
-  Bigri hoi maula meri taqdir bana de
-  Hasnain k sadqe meiṅ mujhe gham se chura de
-  Qismat k mere malik o mukhtar madad kar
+  Bigri hui Maula meri taqdir bana de
+  Hasnain ke sadqe meiṅ mujhe gham se chhura de
+  Qismat ke mere maalik o mukhtaar madad kar
 
   5
   Dunya meiṅ koi misl nahiṅ teri wafa ki
-  Jaaṅ tune muhammad k niwase pay fida ki
-  Meiṅ aik Nazar ka huṅ talabgar madad kar
+  Jaaṅ tune Muhammad ke nawaase pe fida ki
+  Main aik nazar ka huṅ talabgaar madad kar
 
   6
-  Ae Shah qasam tujh ko hai Shabbir k sir ki
-  Bande ko talab hai tu Faqat teri Nazar ki
-  Mar jaiy na yuṅ Talib-e-dedaar madad kar
+  Ae Shaah qasam tujh ko hai Shabbir ke sar ki
+  Bande ko talab hai to faqat teri nazar ki
+  Mar jaae na yuṅ taalib-e-didaar madad kar
 ---
 
 یا حضرتِ عباسِؑ علمدار مدد کر

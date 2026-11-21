@@ -43,7 +43,7 @@ romanLyrics: |-
   Ye to hamaare waaste aezaaz ek hai
 
   8
-  Ek bhaai ek behan ki kahaani hai Karbala
+  Ik bhaai ik behan ki kahaani hai Karbala
   Andaaz ek hai asar andaaz ek hai
 ---
 نورِ محمدی کا یہ اعجاز ایک ہے

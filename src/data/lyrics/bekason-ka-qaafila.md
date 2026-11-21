@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Kis tarah maaṅge ghulaamoṅ se bhala Aabid rida
-  Ye hai Ghazi ka bhatija aur bara khuddaar hai
+  Ye hai Ghazi ka bhatija aur baraa khuddaar hai
 
   3
   Yuṅ hiqaarat se na dekho Sayyid-e-Sajjad ko
@@ -32,8 +32,8 @@ romanLyrics: |-
   Tauq hai zanjir hai aur Aabid-e-bimaar hai
 
   5
-  Ya Ilaahi kaise guzre ga ye naazoṅ ka pala
-  Paaoṅ meiṅ chhaale pare haiṅ raasta pur khaar hai
+  Ya Ilaahi kaise guzre ga ye naazoṅ ka paalaa
+  Paaoṅ mein chhaale pare haiṅ raasta pur khaar hai
 
   6
   Taaziyaane mat lagaao mat sataao zaalimoṅ
@@ -48,7 +48,7 @@ romanLyrics: |-
   Shaam ke baazaar ki manzil bahut dushwaar hai
 
   9
-  Jo gharaana lut gaya tha dasht meiṅ Gohar kabhi
+  Jo gharaana lut gaya tha dasht mein Gohar kabhi
   Aaj wohi do jahaaṅ ka maalik o mukhtaar hai
 ---
 بیکسوں کا قافلہ ہے شام کا بازار ہے

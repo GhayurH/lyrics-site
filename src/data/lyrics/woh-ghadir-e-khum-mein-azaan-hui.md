@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   1
   Woh Ghadir-e-Khum meiṅ azaaṅ hui woh saji khayaal ki anjuman
-  Woh rukh-e-shuur pe zu pari woh barha hayaat ka baaṅkpan
+  Woh rukh-e-shuur pe zu pari woh barha hayaat ka baankpan
 
   2
   Woh kali khatak se chatak gayi woh bhatak bhatak ke chali pawan
@@ -24,8 +24,8 @@ romanLyrics: |-
   Woh sawaariyoṅ ke qadam ruke, jhuke farsh par woh thake badan
 
   4
-  Woh falak ko dekh ke haṅs para rukh regzaar ka bholpan
-  Woh zamin ke dil meiṅ hai aarzu keh milaaye aaṅkh zara gagan
+  Woh falak ko dekh ke hans para rukh regzaar ka bholpan
+  Woh zamin ke dil meiṅ hai aarzu keh milaaye aankh zara gagan
 
   5
   Su-e-Murtaza barhe Mustafa bamizaaj-e-rasm o raah-e-kafan

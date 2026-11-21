@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Muhammad aur Ali donoṅ ka jalwa ek jalwa hai
-  Koi kaise bataaega Nabi kya hai Wasi kya hai
+  Koi kaise bataae ga Nabi kya hai Wasi kya hai
 
   4
   Kiya hamla kaha Abbas ne darya ki faujoṅ se
@@ -33,15 +33,15 @@ romanLyrics: |-
 
   5
   Sar-e-saahil qayaamat dekhna kuch der guzre to
-  Abhi to ghaiz meiṅ Abbas aate haiṅ abhi kya hai
+  Abhi to ghaiz mein Abbas aate haiṅ abhi kya hai
 
   6
   Mere Shabbir de do saat bete aaj raahib ko
-  Razaa-e-rashk maalik ho tumheiṅ Maula kami kya hai
+  Razaa-e-rashk maalik ho tumheṅ Maula kami kya hai
 
   7
-  Ali ne ik shab-e-hijrat meiṅ khud paighambari ki hai
-  Ali se puchhiye batlaaeṅge paighambari kya hai
+  Ali ne ik shab-e-hijrat mein khud paighambari ki hai
+  Ali se puchhiye batlaaeṅ ge paighambari kya hai
 
   8
   Ye hai dozakh ka angaara wohi firdaus ka maalik
@@ -52,7 +52,7 @@ romanLyrics: |-
   Wo baarah manzileṅ haiṅ nur ki baarah dari kya hai
 
   10
-  Maiṅ Mahir kya karuṅga dekh kar duniya ko nazroṅ se
+  Main Mahir kya karuṅ ga dekh kar duniya ko nazroṅ se
   Dar-e-Shabbir par baitha hua huṅ ab kami kya hai
 ---
 نہ پوچھو دشمن ایمان سے

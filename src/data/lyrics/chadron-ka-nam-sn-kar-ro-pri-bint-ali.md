@@ -9,87 +9,52 @@ reciter: "Markazi Matmi Dasta Rawalpindi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Chadaron ka naam sun kar ro padi binte ali
-
+romanLyrics: |-
+  Chaadaroṅ ka naam sun kar ro pari Bint-e-Ali
+  Shaam ke darbaar mein
 
   1
-
-  Shaam ke darbar may
-
-  Wa hijaba keh rahi thi sayyeda ki laadli
-
-  Sham ke darbar may
-
-  Kursiyon par qaatilane shaah thay baithe hue
-
-  Saaya e deewar may thay sab haram lekin khade
-
-  Ba-wafa ko dhoondti thi dukhtare shere jari
-
-  Sham ke darbar may
-
+  Wa hijaaba keh rahi thi Sayyeda ki laadli
 
   2
-
-  Shimr dekha to sakina sehm kar rone lagi
-
-  Door hoja shimr fizza cheekh kar kehne lagi
-
-  Khauf se murjha rahi hai baaghe ismat ki kali
-
+  Kursiyoṅ par qaatilaan-e-shaah the baithe hue
+  Saaya-e-diwaar mein the sab haram lekin khare
+  Ba wafa ko dhundti thi dukhtar-e-sher-e-jari
 
   3
-
-  Tasht may baba ke sar par jab padi uski nazar
-
-  Apne zakhmo ki rahi na phir sakina ko khabar
-
-  Daudti baba ki jaanib laadli beti chali
-
+  Shimr dekha to Sakina seham kar rone lagi
+  Shimr ho jaa dur, Fizza chikh kar kehne lagi
+  Khauf se murjha rahi hai baagh-e-ismat ki kali
 
   4
-
-  Kaun hai zainab pukara jis ghadi firaun e shaam
-
-  Haye ghurbat kehke utha tha mera qaidi imam
-
-  Ashk khoon ke ro raha tha shaah ka beta ali
-
+  Tasht mein baaba ke sar par jab pari uski nazar
+  Apne zakhmoṅ ki rahi na phir Sakina ko khabar
+  Daurti baaba ki jaanib laadli beti chali
 
   5
-
-  Zaalimo ko mil rahe thay zulm karne par enaam
-
-  Kehkahon par kehkahe thay jaam par chalte thay jaam
-
-  Rote rote shaam logon aal e ahmed ki dhali
-
+  Kaun hai Zainab, pukaara jis ghari Firaun-e-Shaam
+  Haaye ghurbat keh ke utha tha mera qaidi imaam
+  Ashk khuṅ ke ro raha tha shaah ka beta Ali
 
   6
-
-  Hukm haakim ne sunaya maar do bemaar ko
-
-  Is jagah hi qatl kar do khaafila salaar ko
-
-  Gir padi abid ke upar haye nazon ki pali
-
+  Zaalimoṅ ko mil rahe the zulm karne par inaam
+  Qahqahoṅ par qahqahe the, jaam par chalte the jaam
+  Rote rote shaam logo, Aal-e-Ahmad ko dhali
 
   7
-
-  Jab ali akbar ke sar ko saamne laaya gaya
-
-  Hogayi behosh maa se na sambhal paaya gaya
-
-  Dukhtarane fatema padne lagi nade ali
-
+  Hukm haakim ne sunaaya maar do bimaar ko
+  Is jagah hi qatl kar do qaafila salaar ko
+  Gir pari Aabid ke upar haaye naazoṅ se pali
 
   8
+  Jab Ali Akbar ke sar ko saamne laaya gaya
+  Ho gai behosh, maaṅ se na sambhal paaya gaya
+  Dukhtaraan-e-Faatima parhne lagiṅ Naad-e-Ali
 
-  Zainab e kubra ne rokar jis ghadi khutba diya
-
-  Haye ay tauqeer abid ka badan tha kaampta
-
-  Hathkadi par maarta tha sar wali ibne wali'
+  9
+  Zainab-e-Kubra ne ro kar jis ghari khutba diya
+  Haaye ae Tauqeer, Aabid ka badan tha kaampta
+  Hathkari par maarta tha sar Wali Ibn-e-Wali
 ---
 
 ؑچادروں کا نام سُن کر رو پڑی بنتِ علی

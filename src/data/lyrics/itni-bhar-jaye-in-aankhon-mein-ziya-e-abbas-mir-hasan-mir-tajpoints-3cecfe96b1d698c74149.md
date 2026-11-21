@@ -1,35 +1,60 @@
 ---
-title: "Itni Bhar Jaye In Aankhon Mein Ziya-e-Abbas Mir Hasan Mir"
+title: "اتنی بھر جائے ان آنکھوں میں ضیائے عباس"
+alternateTitle: "Itni Bhar Jaye In Aankhon Mein Ziya-e-Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mussadiq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Itni bhar jaye in aankhon mein ziya-e-Abbas Mir Hasan Mir
+  Mujh ko koi na nazar aaye siwaye Abbas
+  Mere alfaz mein kyun ho na rawani ka kamal
+  Main ne daryaon se seekhi hai sana-e-Abbas
+
+  2
+  Karbala aik hi misray mein suna sakta hoon
+  Azm-e-Zainab, dil-e-Shabeer, wafa-e-Abbas
+  Mere ashar bhala khuld mein maqbool na hoon
+  Itni kamzoor nahi hoti sana-e-Abbas
+
+  3
+  Main ne iss husan-e-shabahat pe bohat ghoor kiya
+  Sochta hoon keh Ali likh doon bajaye Abbas
+  Aakhri sans jo toba ke liye hoti hai
+  Main ne woh sans bhi rakh li hai bara-e-Abbas
+
+  4
+  Youn karo nam-e-Sakina zara le kar dekho
+  Ghair mumkin hai bulanay pe na aaye Abbas
+  Zaat ko chor ke rakh marzi-e-Maula pe nazar
+  Haan Mussadiq yehi hoti hai wilaye Abbas
 ---
 
-1
-Itni Bhar Jaye In Aankhon Mein Ziya-e-Abbas Mir Hasan Mir.
-Mujh Ko Koi Na Nazar Aaye Siwaye Abbas.
-Mere Alfaz Mein Kyun Ho Na Rawani Ka Kamal.
-Main Ne Daryaon Se Seekhi Hai Sana-e-Abbas.
+۱
+اتنی بھر جائے ان آنکھوں میں ضیائے عباس میر حسن میر
+مجھ کو کوئی نہ نظر آئے سوائے عباس
+میرے الفاظ میں کیوں ہو نہ روانی کا کمال
+میں نے دریاؤں سے سیکھی ہے ثنائے عباس
 
-2
-Karbala Aik Hi Misray Mein Suna Sakta Hoon.
-Azm-e-Zainab Dil-e-Shabeer Wafa-e-Abbas.
-Mere Ashar Bhala Khuld Mein Maqbool Na Hoon.
-Itni Kamzoor Nahi Hoti Sana-e-Abbas.
+۲
+کربلا ایک ہی مصرعے میں سنا سکتا ہوں
+عزمِ زینب، دلِ شبیر، وفائے عباس
+میرے اشعار بھلا خلد میں مقبول نہ ہوں
+اتنی کمزور نہیں ہوتی ثنائے عباس
 
-3
-Main Ne Iss Husan-e-Shabahat Pe Bohat Ghoor Kiya.
-Sochta Hoon Keh Ali Likh Doon Bajaye Abbas.
-Aakhri Sans Jo Toba Ke Liye Hoti Hai.
-Main Ne Woh Sans Bhi Rakh Li Hai Bara-e-Abbas.
+۳
+میں نے اس حسنِ شباہت پہ بہت غور کیا
+سوچتا ہوں کہ علی لکھ دوں بجائے عباس
+آخری سانس جو توبہ کے لیے ہوتی ہے
+میں نے وہ سانس بھی رکھ لی ہے برائے عباس
 
-4
-Youn Karo Nam-e-Sakina Zara Le Kar Dekho.
-Ghair Mumkin Hai Bulanay Pe Na Aaye Abbas.
-Zaat Ko Chor Ke Rakh Marzi-e-Maula Pe Nazar.
-Haan Mussadiq Yehi Hoti Hai Wilaye Abbas.
+۴
+یوں کرو نامِ سکینہ ذرا لے کر دیکھو
+غیر ممکن ہے بلانے پہ نہ آئے عباس
+ذات کو چھوڑ کے رکھ مرضیِ مولا پہ نظر
+ہاں مصدق یہی ہوتی ہے ولائے عباس

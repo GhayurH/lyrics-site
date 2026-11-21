@@ -1,60 +1,107 @@
 ---
-title: "Ya Fatima Mesum Abbas"
+title: "یا فاطمہ میثم عباس"
+alternateTitle: "Ya Fatima Mesum Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tujh pe Shehzadi-e-Konain meri jan fida
+  Kya mila tujh ko zamane se musayab ke siwa
+  Baad Paygamber-e-Islam hoi our jafa
+  Cheeni jageer-e-Fidak baap ka wirsa na diya
+  Tujh ko jhutlaya gaya kitna tarpaya gaya
+  Haye afsoos Muhammad ka chaman loot liya
+
+  2
+  Woh jo rehtey they shifat ke talabgar sabhi
+  Aa gaye ghar ko jalanay woh sitamgar sabhi
+  Tu ne aayat suna dein sar-e-darbar sabhi
+  Phir bhi jhutlatay rahe tujh ko gunahgar sabhi
+  Tu ne jab noha kiya hans diye ahl-e-jafa
+  Our Quran ki aayat ne yeh bain kiya
+
+  3
+  Pasliyaan toot gayin jalta howa dar jo gira
+  Our Mohsin ki shahadat ka tujhey dard mila
+  Roye iss baat pe Haider jo tujhey ghusal diya
+  Ta dam-e-marg tera hath na pehlu se hata
+  Kyun chupaya tha bhala tu ne yeh zakhm-e-jafa
+  Main tere baad issi baat pe hoon mehway boka
+
+  4
+  Maa chali jaye tu lagta hai Khuda roth gaya
+  Saibaan koi nahi dunya mein madar se bara
+  Meri bibi teri maiyyat pe yeh beton ne kaha
+  Neend raton ki gayi aap ka saya jo utha
+  Hum ko tarpao nahi chor ke jao nahi
+  Ab kahan paein gay hum aap ke aanchal ki hawa
+
+  5
+  Main tere naam ki tasbeeh jo parhta hoon kabhi
+  Khoon rulati hai mujhe teri musibat bibi
+  Woh ibadat woh musallay pe teri noha gari
+  Hath ik pehlu pe ik hath se tasbeeh parhi
+  Woh raku our sajod teri ghurbat pe darood
+  Iss aziyat mein namazein na hoin teri qaza
+
+  6
+  Aik pal ko bhi tere gham ko nahi main bhool saka
+  Teri marqad ka suna phir main Baqiya pohancha
+  Woh udasi woh andhera woh sitamgar fiza
+  Haye marqad ki alamat ko bhi rehne na diya
+  Roza ban jaye tera yeh hai arman mera
+  Phir wahan jaein ziyarat ko sabhi ahl-e-azza
 ---
 
-Ya Fatima Mesum Abbas Lyrics In Urd
+۱
+تجھ پہ شہزادیِ کونین میری جاں فدا
+کیا ملا تجھ کو زمانے سے مصائب کے سوا
+بعد پیغمبرِ اسلام ہوئی اور جفا
+چھینی جاگیرِ فدک باپ کا ورثہ نہ دیا
+تجھ کو جھٹلایا گیا کتنا تڑپایا گیا
+ہائے افسوس محمد کا چمن لوٹ لیا
 
-1
-Tujh Pe Shehzadi-e-Konain Meri Jan Fida.
-Kya Mila Tujh Ko Zamane Se Musayab Ke Siwa.
-Baad Paygamber-e-Islam Hoi Our Jafa.
-Cheeni Jageer-e-Fidak Baap Ka Wirsa Na Diya.
-Tujh Ko Jhutlaya Gaya Kitna Tarpaya Gaya.
-Haye Afsoos Muhammad Ka Chaman Loot Liya.
+۲
+وہ جو رہتے تھے شفاعت کے طلبگار سبھی
+آ گئے گھر کو جلانے وہ ستمگر سبھی
+تو نے آیات سنا دیں سرِ دربار سبھی
+پھر بھی جھٹلاتے رہے تجھ کو گناہگار سبھی
+تو نے جب نوحہ کیا ہنس دیے اہلِ جفا
+اور قرآن کی آیت نے یہ بین کیا
 
-2
-Woh Jo Rehtey They Shifat Ke Talabgar Sabhi.
-Aa Gaye Ghar Ko Jalanay Woh Sitamgar Sabhi.
-Tu Ne Aayat Suna Dein Sar-e-Darbar Sabhi.
-Phir Bhi Jhutlatay Rahe Tujh Ko Gunahgar Sabhi.
-Tu Ne Jab Noha Kiya Hans Diye Ahl-e-Jafa.
-Our Quran Ki Aayat Ne Yeh Bain Kiya.
+۳
+پسلیاں ٹوٹ گئیں جلتا ہوا در جو گرا
+اور محسن کی شہادت کا تجھے درد ملا
+روئے اس بات پہ حیدر جو تجھے غسل دیا
+تا دمِ مرگ تیرا ہاتھ نہ پہلو سے ہٹا
+کیوں چھپایا تھا بھلا تو نے یہ زخمِ جفا
+میں تیرے بعد اسی بات پہ ہوں محوِ بکا
 
-3
-Pasliyaan Toot Gayin Jalta Howa Dar Jo Gira.
-Our Mohsin Ki Shahadat Ka Tujhey Dard Mila.
-Roye Iss Baat Pe Haider Jo Tujhey Ghusal Diya.
-Ta Dam-e-Marg Tera Hath Na Pehlu Se Hata.
-Kyun Chupaya Tha Bhala Tu Ne Yeh Zakhm-e-Jafa.
-Main Tere Baad Issi Baat Pe Hoon Mehway Boka.
+۴
+ماں چلی جائے تو لگتا ہے خدا روٹھ گیا
+سائباں کوئی نہیں دنیا میں مادر سے بڑا
+میری بی‌بی تیری میت پہ یہ بیٹوں نے کہا
+نیند راتوں کی گئی آپ کا سایہ جو اٹھا
+ہم کو تڑپاؤ نہیں چھوڑ کے جاؤ نہیں
+اب کہاں پائیں گے ہم آپ کے آنچل کی ہوا
 
-4
-Maa Chali Jaye Tu Lagta Hai Khuda Roth Gaya.
-Saibaan Koi Nahi Dunya Mein Madar Se Bara.
-Meri Bibi Teri Maiyyat Pe Yeh Beton Ne Kaha.
-Neend Raton Ki Gayi Aap Ka Saya Jo Utha.
-Hum Ko Tarpao Nahi Chor Ke Jao Nahi.
-Ab Kahan Paein Gay Hum Aap Ke Aanchal Ki Hawa.
+۵
+میں تیرے نام کی تسبیح جو پڑھتا ہوں کبھی
+خون رلاتی ہے مجھے تیری مصیبت بی‌بی
+وہ عبادت وہ مصلّے پہ تیری نوحہ گری
+ہاتھ اک پہلو پہ اک ہاتھ سے تسبیح پڑھی
+وہ رکوع اور سجود تیری غربت پہ درود
+اس اذیت میں نمازیں نہ ہوئیں تیری قضا
 
-5
-Main Tere Naam Ki Tasbeeh Jo Parhta Hoon Kabhi.
-Khoon Rulati Hai Mujhe Teri Musibat Bibi.
-Woh Ibadat Woh Musallay Pe Teri Noha Gari.
-Hath Ik Pehlu Pe Ik Hath Se Tasbeeh Parhi.
-Woh Raku Our Sajod Teri Ghurbat Pe Darood.
-Iss Aziyat Mein Namazein Na Hoin Teri Qaza.
-
-6
-Aik Pal Ko Bhi Tere Gham Ko Nahi Main Bhool Saka.
-Teri Marqad Ka Suna Phir Main Baqiya Pohancha.
-Woh Udasi Woh Andhera Woh Sitamgar Fiza.
-Haye Marqad Ki Alamat Ko Bhi Rehne Na Diya.
-Roza Ban Jaye Tera Yeh Hai Arman Mera.
-Phir Wahan Jaein Ziyarat Ko Sabhi Ahl-e-Azza.
+۶
+ایک پل کو بھی تیرے غم کو نہیں میں بھول سکا
+تیری مرقد کا سنا پھر میں بقیع پہنچا
+وہ اداسی وہ اندھیرا وہ ستمگر فضا
+ہائے مرقد کی علامت کو بھی رہنے نہ دیا
+روضہ بن جائے تیرا یہ ہے ارمان میرا
+پھر وہاں جائیں زیارت کو سبھی اہلِ عزا

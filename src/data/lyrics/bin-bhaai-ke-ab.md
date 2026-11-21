@@ -16,16 +16,16 @@ romanLyrics: |-
   Haaye Husain pyaase Husain
 
   Bin bhaai ke ab kaise watan jaayegi Zainab
-  Mar jaayegi mar jaayegi mar jaayegi mar jaayegi Zainab
+  Mar jaayegi mar jaayegi mar jaayegi Zainab
 
   1
-  Puchhegi jo Sughra ke kahaaṅ haiṅ mere Baba
+  Puchhegi jo Sughra keh kahaaṅ haiṅ mere Baba
   Mujh ko mera beshir nazar kiuṅ nahiṅ aata
   Sab qatl hue kaise bata paayegi Zainab
 
   2
-  Sab chaahne waale haiṅ mere Karb o Bala meiṅ
-  Sab god ke paale haiṅ isi dasht-e-jafa meiṅ
+  Sab chaahne waale haiṅ mere Karb o Bala mein
+  Sab god ke paale haiṅ isi dasht-e-jafa mein
   Ye kehte hue jahaaṅ se guzar jaayegi Zainab
 
   3
@@ -39,9 +39,9 @@ romanLyrics: |-
   Baaghi ki behan ab nahiṅ kehlaayegi Zainab
 
   5
-  Yasrab ke makiṅ puchheṅge Sajjad se aa kar
-  Pardes meiṅ barbaad hua kaise bhara ghar
-  Khuṅ royega Sajjad to ghabraayegi Zainab
+  Yasrib ke makiṅ puchheṅge Sajjad se aa kar
+  Pardes mein barbaad hua kaise bhara ghar
+  Khuṅ roega Sajjad to ghabraayegi Zainab
 
   6
   Aayeṅge nazar Aun o Muhammad ke jo hujre
@@ -50,16 +50,16 @@ romanLyrics: |-
 
   7
   Kya koh-e-sitam qalb pe Naani ke girega
-  Amma ki lahad kaaṅp uthegi mere bhaiya
+  Ammaaṅ ki lahad kaaṅp uthegi mere bhaiya
   Jab nil-e-rasan ke unheṅ dikhlaayegi Zainab
 
   8
-  Kiuṅ aayi nahiṅ saath meiṅ farzand tumhaare
+  Kiuṅ aayi nahiṅ saath mein farzand tumhaare
   Gar puchh liya mujh se ye Abdullah ne aa ke
   Sau baar wohi waaqia dohraayegi Zainab
 
   9
-  Mazhar wo ghari kaisi thi maiṅ likh nahiṅ sakta
+  Mazhar wo ghari kaisi thi main likh nahiṅ sakta
   Mahmil se nazar aaya jo Zainab ko Madina
   Fizza ne kaha dard se mar jaayegi Zainab
 ---

@@ -1,39 +1,79 @@
 ---
-title: "Nahi Bhulna Haye Sain Ruqaiyya Nu"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "نہیں بھلنا ہائے سائیں رقیہ نوں"
+alternateTitle: "Nahi Bhulna Haye Sain Ruqaiyya Nu"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nahi bhulna haye Sain Ruqaiyya nu
+
+  Rulda vich galiyan de lasha Muslim tera, Kufay de bazaray
+
+  1
+  Bhain Ghazi di Ruqaiyya safran de vich ruldi rai ay
+  Ghazi wangu Syedan de naal har mushkil jheri ay
+  Kha kha pathar Ruqaiyya hai bachanda rai ay
+  Abid-e-Beemar ay
+
+  2
+  Jang teri veer Ghazi Karbala vich mukh gai ay
+  Bhain teri ban kay Ghazi Shaam nu hun tur pai ay
+  Ker kay sadqa veeran may Ali Akbar da
+  Saray puttar nay varay
+
+  3
+  Keway aah Lahore gaiye raz keeay Allah janay
+  Keete okhay safar keway ais gal ton dil hairan ay
+  Parda ker gai jag ton teri dhee ay Maula
+  Haidar-e-Qara ay
+
+  4
+  Ban kay Zainab khandi raiyan main bazaran vich hay pathar
+  Puttran da koi ghum nai menu bhulday nai oh sar bahatar
+  Hai liya zalim nay naaa jadon Zainab da
+  Shaam day darbaray
+
+  5
+  Nasal mukh Muntaz gaiye mar gaye Karbal veer saray
+  Vakhri jag tou kabar teri kol vi nai puttar piyare
+  Eid day din aay tenu pursa dewan
+  Tere matam daar ay
 ---
 
-Nahi Bhulna Haye Sain Ruqaiyya Nu
+نہیں بھلنا ہائے سائیں رقیہ نوں
 
-Rulda Vich Galiyan De Lasha Muslim Tera, Kufay De Bazaray
+رلدا وچ گلیاں دے لاشہ مسلم تیرا، کوفے دے بازارے
 
-Bhain Ghazi Di Ruqaiyya Safran De Vich Ruldi Rai Ay
-Ghazi Wangu Syedan De Naal Har Mushkil Jheri Ay
-Kha Kha Pathar Ruqaiyya Hai Bachanda Rai Ay
-Abid E Beemar Ay
+۱
+بھین غازی دی رقیہ سفراں دے وچ رلدی رہی اے
+غازی وانگوں سیداں دے نال ہر مشکل جھیڑی اے
+کھا کھا پتھر رقیہ ہائے بچاندا رہی اے
+عابدِ بیمار اے
 
-Jang Teri Veer Ghazi Karbala Vich Mukh Gai Ay
-Bhain Teri Ban Kay Ghazi Shaam Nu Hun Tur Pai Ay
-Ker Kay Sadqa Veeran May Ali Akbar Da
-Saray Puttar Nay Varay
+۲
+جنگ تیری ویر غازی کربلا وچ مک گئی اے
+بھین تیری بن کے غازی شام نوں ہُن تُر پئی اے
+کر کے صدقہ ویراں میں علی اکبر دا
+سارے پُتّر نیں وارے
 
-Keway Aah Lahore Gaiye Raz Keeay Allah Janay
-Keete Okhay Safar Keway Ais Gal Ton Dil Hairan Ay
-Parda Ker Gai Jag Ton Teri Dhee Ay Maula
-Haidar E Qara Ay
+۳
+کیویں آ لاہور گئی اے راز کیہ اے اللہ جانے
+کیتے اوکھے سفر کیویں ایس گل توں دل حیران اے
+پردہ کر گئی جگ توں تیری دھی اے مولا
+حیدرِ کرّا اے
 
-Ban Kay Zainab Khandi Raiyan Main Bazaran Vich Hay Pathar
-Puttran Da Koi Ghum Nai Menu Bhulday Nai Oh Sar Bahatar
-Hai Liya Zalim Nay Naaa Jadon Zainab Da
-Shaam Day Darbaray
+۴
+بن کے زینب کھاندی رہی آں میں بازاراں وچ ہائے پتھر
+پُتّراں دا کوئی غم نئیں مینوں بھلدے نئیں اوہ سر بہتر
+ہائے لیا ظالم نے ناں جدوں زینب دا
+شام دے دربارے
 
-Nasal Mukh Muntaz Gaiye Mar Gaye Karbal Veer Saray
-Vakhri Jag Tou Kabar Teri Kol Vi Nai Puttar Piyare
-Eid Day Din Aay Tenu Pursa Dewan
-Tere Matam Daar Ay
+۵
+نسل مک ممتاز گئی اے مر گئے کربل ویر سارے
+وکھری جگ توں قبر تیری کول وی نئیں پُتّر پیارے
+عید دے دن آئے تینوں پُرسا دیون
+تیرے ماتم دار اے

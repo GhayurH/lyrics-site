@@ -7,6 +7,33 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Be waarisaaṅ waangoṅ pul te pae Rahmaan janaaza Kaazim da
+  Hae chodaaṅ saal di qaid toṅ wadh armaan janaaza Kaazim da
+
+  1
+  Mazdur bulaao, enda maiyat chuaao, kai waari ae ailaan thiaa
+  Kamb wenda ha ae sunr sunr ke ailaan janaaza Kaazim da
+
+  2
+  Hik lahz maiyat kuṅ dekho, taaṅ wal did karo, haae Baqiya duṅ
+  Zahra di qabar waangoṅ disde wiraan janaaza Kaazim da
+
+  3
+  Tore jitna koi mazlum hoe, mazdur janaaza niṅ chainde
+  Chaaya kariyaaṅ wich mazduraaṅ ne Umraan janaaza Kaazim da
+
+  4
+  Jiweṅ chodaaṅ saal ruku de wich eṅ paak imaam guzaare han
+  Inweṅ aj taaiṅ koi niṅ qaid thiaa, zindaan janaaza Kaazim da
+
+  5
+  Kaazim de paak janaaze toṅ koi aa zanjir lahaave ha
+  Twaade shehar de wich kuj der da hae mahmaan janaaza Kaazim da
+
+  6
+  Waah qismat Musa Kaazim di, na watan mile na kafan mile
+  Faisal zanjiraaṅ wich gum hae, zishaan janaaza Kaazim da
 ---
 
 بے وارثاں وانگوں پُل تے پۂ رحمان جنا زہ کاظم ؑ دا

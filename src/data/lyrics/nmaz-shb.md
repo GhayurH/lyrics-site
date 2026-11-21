@@ -8,6 +8,64 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Shahid Baltistani......Noha 2015......Bibi Sakina
+  Namaaz-e-shab
+  Shab ki taariki meiṅ namaaz-e-shab ke baad
+  Mera mazlum imaam dua maaṅg raha hai
+  Mere maula tujhe waasta is gharib ke ashkoṅ ka
+  Sukun-e-dil ke le kar mujhe Sakina ataa
+  Allah Allah Allah Allah Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap maaṅgta hai dua
+  Sukun-e-dil ke le kar mujhe Sakina ataa
+
+  2
+  Diya hai chain to mujh ko qaraar bhi de de
+  Mahak Batul ki Haidar ka pyaar bhi de de
+  Maiṅ baagh baagh rahuṅ woh mujhe kahe baaba
+
+  3
+  Woh mere sine pe soye to dharkaneiṅ khush hoṅ
+  Chale woh ungli pakar kar to aahateiṅ khush hoṅ
+  Woh maaṅge paani to haathoṅ ko maiṅ karuṅ kuza
+
+  4
+  Ibaadatoṅ ka sila tujh se maaṅgta huṅ maiṅ
+  Yahi to dekh dua tujh se maaṅgta huṅ maiṅ
+  Charaagh-e-khaima bujhaao to ho woh misl-e-diya
+
+  5
+  Suna hai beti janaaze ki hoti hai raunaq
+  Mujhe bhi chaahiye Furqaan-e-zindagi ka waraq
+  Mile janaaze ki raunaq gar aaye Karbobala
+
+  6
+  Khuda ne sun li dua-e-Husain ibn-e-Ali
+  Mile woh beti jo bilkul shabih-e-Zehra thi
+  Sukun mil gaya Shah ko Sakina naam rakha
+
+  7
+  Magar sukun yeh Karbobala meiṅ jaata raha
+  Hui yatim Sakina bandha rasan meiṅ gala
+  Husain rote the yeh keh ke bar sar-e-naiza
+
+  8
+  Pas-e-Husain Sakina ne woh sitam dekhe
+  Tarap ke kehti thi bachchi pidar ke laashe se
+  Chhupa lo khun bhare daaman meiṅ mujh ko ae baaba
+
+  9
+  Sar-e-Husain se aai sadaa sar-e-maidaaṅ
+  Namaaz-e-shab ki dua ka asar Sakina jaaṅ
+  Kare ga teri hifaazat woh naam hai jis ka
+
+  10
+  Rehan Azmi kehti thi Karbala ki fazaa
+  Hai baap beti ka yeh imtihaan kaisa Khuda
+  Har ek zulm pe donoṅ ke lab pe hai yeh sadaa
+  Allah Allah Allah Allah Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap maaṅgta hai dua
 ---
 
 ۱

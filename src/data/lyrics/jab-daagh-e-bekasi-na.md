@@ -13,10 +13,10 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Jab daagh-e-bekasi na Sakina utha saki
-  Aur dard-e-dil na khauf ke maare suna saki
+  Jab daagh-e-bekasi na Sakina uthaa saki
+  Aur dard-e-dil na khauf ke maare sunaa saki
   Khaaye tamaanche Shimr ke jab tak ke khaa saki
-  Sin kam tha dukh bahut the na bardaasht laa saki
+  Sinn kam tha dukh bahut the na bardaasht laa saki
   Royi to zaalimoṅ ne jafa beshumaar ki
   Aakhir ye jabr dekh ke maut ikhtiyaar ki
 
@@ -25,32 +25,32 @@ romanLyrics: |-
   Aur chup hui to bepidari ne kaha ke ro
   Gah shiddat-e-atash se pukaari ke paani do
   Gah yaad karke reh gayi Baba ki pyaas ko
-  Soyi to aansu poṅchh ke chashm-e-puraab se
+  Soyi to aansu ponchh ke chashm-e-pur-aab se
   Haae haae Husain keh ke phir uth baithi khwaab se
 
   3
-  Dil meiṅ sama gaya tha jo Shimr-e-laiṅ ka dar
-  Sone meiṅ kaaṅp kaaṅp ye kehti thi raat bhar
+  Dil mein sama gaya tha jo Shimr-e-laiṅ ka dar
+  Sone mein kaanp kaanp ye kehti thi raat bhar
   Faryaad chhinta hai gohar Shimr-e-badgohar
-  Aata hai Ibn-e-Saad chhupuṅ jaa ke maiṅ kidhar
+  Aata hai Ibn-e-Saad chhupuṅ jaa ke main kidhar
   Zainab phuphi sambhaalo kaleja dharakta hai
   Sajjad bhaai dekho ye Khauli ghurakta hai
 
   4
-  Jab pyaas lagti ro ke chacha ko pukaarti
+  Jab pyaas lagti ro ke chachaa ko pukaarti
   Dukhte jo kaan Shaah-e-Huda ko pukaarti
   Aata na jab koi to Khuda ko pukaarti
   Jine se tang ho ke qaza ko pukaarti
-  Kehti thi ne chacha na Imam-e-Umam rahe
+  Kehti thi ne chachaa na Imam-e-Umam rahe
   Rulwaane ko adu rahe rone ko hum rahe
 
   5
   Chup thi to chup thi bolti jo thi dari hui
-  Waaṅ Shimr aaya ran meiṅ idhar tharthari hui
+  Waaṅ Shimr aaya ran mein idhar thar thari hui
   Thi aah baat baat par lab par dhari hui
   Gardan ki resmaan lahu se bhari hui
   Dam rukne lagta tha to rasan khol dete haiṅ
-  Baahar jo Shimr bolta to baaṅdh lete haiṅ
+  Baahar jo Shimr bolta to baandh lete haiṅ
 
   6
   Haal-e-shab-e-wafaat-e-Sakina hai yaadgaar
@@ -62,15 +62,15 @@ romanLyrics: |-
 
   7
   Zindaaṅ se kehti thi ye kabhi wo asir-e-gham
-  Ho jaayega kal ek tera mehmaan kam
-  Mayyat kisi ki nanhi si niklegi subh dam
-  Bano se ye khitaab kabhi tha bachashm-e-nam
-  Ik taaza maut hogi Nabi ke gharaane meiṅ
-  Amma lutogi aaj ki shab qaid khaane meiṅ
+  Ho jaaye ga kal ek tera mehmaan kam
+  Mayyat kisi ki nanhi si nikle gi subh dam
+  Bano se ye khitaab kabhi tha ba chashm-e-nam
+  Ik taaza maut ho gi Nabi ke gharaane mein
+  Ammaaṅ luto gi aaj ki shab qaid khaane mein
 
   8
   Bano pukaari lut to chuki ab lutuṅ gi kya
-  Bibi na naam lutne ka lo tum pe maiṅ fida
+  Bibi na naam lutne ka lo tum pe main fidaa
   Gohar chhine tamaanche lage kaan shaq hua
   Lutne se meri Bibi ka par dil nahiṅ bhara
   Zainab ki pusht nok-e-sinaaṅ se figaar hai
@@ -80,24 +80,24 @@ romanLyrics: |-
   Ab kya lutuṅ gi maal nahiṅ zar nahiṅ raha
   Akbar nahiṅ raha Ali Asghar nahiṅ raha
   Rehne ko qaid khaana mila ghar nahiṅ raha
-  Haathoṅ meiṅ resmaaṅ baṅdhi zewar nahiṅ raha
-  Daulat hai kaunsi jise zindaaṅ meiṅ khouṅ gi
-  Rona tha jis ko ro chuki ab kis ko rouṅ gi
+  Haathoṅ mein resmaaṅ bandhi zewar nahiṅ raha
+  Daulat hai kaun si jise zindaaṅ mein kho'uṅ gi
+  Rona tha jis ko ro chuki ab kis ko ro'uṅ gi
 
   10
   Kubra hai aur tum ho ye Sajjad-e-naatawaaṅ
   Gar ye bache to naam hai warna ho benishaaṅ
   Wo boli ab raheṅ ge salaamat pe hum kahaaṅ
-  Maaṅ ne kaha Khuda na kare Ae Sakina jaaṅ
-  Ki arz dekh luṅ gi jo pichhli ko hoyega
-  Baba ki rone waali ko sab kunba royega
+  Maaṅ ne kaha Khuda na kare ae Sakina jaaṅ
+  Ki arz dekh luṅ gi jo pichhli ko hoye ga
+  Baba ki rone waali ko sab kunba roye ga
 
   11
   Ab maut meri sab ko mubaarak kare Khuda
-  Marte hi mere qaid se sab kunba ho raha
+  Marte hi mere qaid se sab kunba ho rihaa
   Jaata rahe bukhaar baraadar ka bedawa
-  Jannat ko hum rawaana hoṅ Madine ko aqraba
-  Ghul ho Sakina le ke bala sab ki mar gayi
+  Jannat ko hum rawaana hoṅ Madine ko aqrabaa
+  Ghul ho Sakina le ke balaa sab ki mar gayi
   Haidar ki poti mushkileṅ aasaan kar gayi
 ---
 ۱

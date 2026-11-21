@@ -1,29 +1,48 @@
 ---
-title: "Munh Kar Ke Najaf Te Yasrab Wal Ro Wain Kare Zainab Dukhya New Lyrics Punjabi 2025"
+title: "منہ کر کے نجف تے یثرب ول رو وین کرے زینب دکھیا"
+alternateTitle: "Munh Kar Ke Najaf Te Yasrab Wal Ro Wain Kare Zainab Dukhya"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ijaz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Munh kar ke Najaf te Yasrab wal ro wain kare Zainab dukhya
+  Mar putar bhatijay veer gaye koi aasra nahin Sajjad siwa
+  Khat Akbar de seene uttay piya rakh ke qasad ronda aye
+  Mere aaon taun pehlaan Akbar de Sughra bibi san aakhri sah
+
+  2
+  Wich khilriyaan lashaan babal nu adh raat Sakina labhdi aye
+  Mainu kaliyaan neendar aaondi nahin uth babala mainu seene la
+  Babal di lash te roni aan te zalim ron v denda nahin
+  Chacha Ghazi hun aa v ja aa Shimar taun mere waal chura
+
+  3
+  Zalim ne dita teer chala nezay nal putya sar katiya
+  Nahin bachiya baqi zulm koi jehra nayin Asghar de naal hoya
+  Ijaz hashar tak akhiyaan choon Sajjad de athro sukne nahin
+  Be kafan Shabbir de lashay nu kiwein chad ke hoi bhain juda
 ---
 
-1
-Munh Kar Ke Najaf Te Yasrab Wal Ro Wain Kare Zainab Dukhya.
-Mar Putar Bhatijay Veer Gaye Koi Aasra Nahin Sajjad Siwa.
-Khat Akbar De Seene Uttay Piya Rakh Ke Qasad Ronda Aye.
-Mere Aaon Taun Pehlaan Akbar De Sughra Bibi San Aakhri Sah.
+۱
+منہ کر کے نجف تے یثرب ول رو وین کرے زینب دکھیا
+مر پتر بھتیجے ویر گئے کوئی آسرا نہیں سجاد سوا
+خط اکبر دے سینے اُتّے پیا رکھ کے قاصد روندا اے
+میرے آؤن توں پہلاں اکبر دے صغریٰ بی‌بی سن آخری ساہ
 
-2
-Wich Khilriyaan Lashaan Babal Nu Adh Raat Sakina Labhdi Aye.
-Mainu Kaliyaan Neendar Aaondi Nahin Uth Babala Mainu Seene La.
-Babal Di Lash Te Roni Aan Te Zalim Ron V Denda Nahin.
-Chacha Ghazi Hun Aa V Ja Aa Shimar Taun Mere Waal Chura.
+۲
+وچ کھلریاں لاشاں بابل نوں ادھ رات سکینہ لبھدی اے
+مینوں کلّیاں نیندر آؤندی نہیں اُٹھ بابلا مینوں سینے لا
+بابل دی لاش تے رونی آں تے ظالم رون وی دیندا نہیں
+چاچا غازی ہن آ وی جا آ شمر توں میرے وال چھڑا
 
-3
-Zalim Ne Dita Teer Chala Nezay Nal Putya Sar Katiya.
-Nahin Bachiya Baqi Zulm Koi Jehra Nayin Asghar De Naal Hoya.
- Ijaz Hashar Tak Akhiyaan Choon Sajjad De Athro Sukne Nahin.
-Be Kafan Shabbir De Lashay Nu Kiwein Chad Ke Hoi Bhain Juda.
+۳
+ظالم نے دِتّا تیر چلا نیزے نال پٹیا سر کٹیا
+نہیں بچیا باقی ظلم کوئی جیہڑا نئیں اصغر دے نال ہویا
+اعجاز حشر تک اکھیاں چوں سجاد دے اتھرو سکنے نہیں
+بے کفن شبیر دے لاشے نوں کیویں چھڈ کے ہوئی بھین جدا

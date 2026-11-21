@@ -1,29 +1,57 @@
 ---
-title: "Yasrab Se Karwan Jab Sadaat Ka Chala Hai"
+title: "یثرب سے کارواں جب سادات کا چلا ہے"
+alternateTitle: "Yasrab Se Karwan Jab Sadaat Ka Chala Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yasrab se karwan jab Sadaat ka chala hai
+  Mur murke har musafir Sughera ko dekhta hai
+
+  1
+  Teri teeno bhaino Baba tere sath jarahi hain,
+  Sughera ko sath leja Akbar ki iltaja hai
+
+  2
+  Teri zindagi mein na utre Binte Ali chadar,
+  Umal Baneen ne rokar Abbas se kaha hai
+
+  3
+  Marjata Karbobala mein yeh dekhta na Abid,
+  Jakri Ali ki beti aur mangti Ridha hai
+
+  4
+  Jangal mein apni basti Nana basao ga main,
+  Mere laho se hogi tere deen ki baqa hai
+
+  5
+  Azzan ki sadaein sajde Hassan namazein,
+  Ehsan Karbala tha ehsane Karbala hai
 ---
 
-Yasrab Se Karwan Jab Sadaat Ka Chala Hai
+یثرب سے کارواں جب سادات کا چلا ہے
+مڑ مڑ کے ہر مسافر صغریٰ کو دیکھتا ہے
 
-Mur Murke Har Musafir Sughera Ko Dekhta Hai
+۱
+تیری تینوں بہنیں بابا تیرے ساتھ جا رہی ہیں،
+صغریٰ کو ساتھ لے جا اکبر کی التجا ہے
 
-Teri Teeno Bhaino Baba Tere Sath Jarahi Hain,
-Sughera Ko Sath Leja Akbar Ki Iltaja Hai
+۲
+تیری زندگی میں نہ اترے بنتِ علی چادر،
+ام البنین نے رو کر عباس سے کہا ہے
 
-Teri Zindagi Mein Na Utre Binte Ali Chadar,
-Umal Baneen Ne Rokar Abbas Se Kaha Hai
+۳
+مر جاتا کرب و بلا میں یہ دیکھتا نہ عابد،
+جکڑی علی کی بیٹی اور مانگتی ردا ہے
 
-Marjata Karbobala Mein Yeh Dekhta Na Abid,
-Jakri Ali Ki Beti Aur Mangti Ridha Hai
+۴
+جنگل میں اپنی بستی نانا بساؤں گا میں،
+میرے لہو سے ہوگی تیرے دین کی بقا ہے
 
-Jangal Mein Apni Basti Nana Basao Ga Main,
-Mere Laho Se Hogi Tere Deen Ki Baqa Hai
-
-Azzan Ki Sadaein Sajde Hassan Namazein,
-Ehsan Karbala Tha Ehsane Karbala Hai
+۵
+اذان کی صدائیں سجدے حسن نمازیں،
+احسان کربلا تھا احسانِ کربلا ہے

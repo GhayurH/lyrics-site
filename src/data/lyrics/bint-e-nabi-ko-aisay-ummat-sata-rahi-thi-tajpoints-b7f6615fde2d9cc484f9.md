@@ -1,42 +1,74 @@
 ---
-title: "Bint E Nabi Ko Aisay Ummat Sata Rahi Thi"
+title: "بنتِ نبی کو ایسے امت ستا رہی تھی"
+alternateTitle: "Bint-e-Nabi Ko Aisay Ummat Sata Rahi Thi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bint-e-Nabi ko aisay ummat sata rahi thi
+  Jis ja Nabi they ruktay woh dar jala rahi thi
+  Bach jaye mera Mohsin Zahra pukarein ya Rab
+  Na paak thokaron se Tatheer wala dar jab
+  Jalta hi Fatima par ummat gira rahi thi
+  Jis ke liye jahan yeh Allah ne banaya
+  Zulm oss pe zalimo ne aisa jahan mein dhaya
+  Seh kar sitam jahan se woh bibi ja rahi thi
+  Waris hoon main Fidak ki aye logon hoon main haq par
+  Inkar kar rahe they phir bhi woh loag hans kar
+  Aayat bhi gasibon ko Zahra suna rahi thi
+  Atharwin baras mein hi aa gayi zaeefi
+  Pehlu pe hath tha our baloon mein thi safaidi
+  Itnay shadeed sadmay Zahra utha rahi thi
+  Haq-e-Ali ke gasib darbar mein they baithay
+  Waris nahi Nabi ka koi bhi keh rahe they
+  Hans hans ke Fatima ko ummat rula rahi thi
+  Zainab na seh sakay gi Kulsoom poch le gi
+  Maa ne tamacha khaya kaisay unhein kahey gi
+  Neela nishan rukh par Zahra chupa rahi thi
+  Khutbay ki taig uthaye woh tooti pasliyon se
+  Darbar mein Saqeefay ke sare fasiqon se
+  Islam our wilayat dono bana rahi thi
+  Darbar se jo lauti ghar Ghairat-e-Elahi
+  Ashab ne na mani meri koi gawahi
+  Ro ro ke yeh Ali ko Zahra bata rahi thi
+  Umm-e-Abeeha keh kar jisay Mustafa bulatay
+  Jis ke liye Nabi khud tazeem ko they uthtey
+  Ummat Asad ossi ki azmat bhula rahi thi
 ---
 
-1
-Bint-e-Nabi Ko Aisay Ummat Sata Rahi Thi.
-Jis Ja Nabi They Ruktay Woh Dar Jala Rahi Thi.
-Bach Jaye Mera Mohsin Zahra Pukarein Ya Rab.
-Na Paak Thokaron Se Tatheer Wala Dar Jab.
-Jalta Hi Fatima Par Ummat Gira Rahi Thi.
-Jis Ke Liye Jahan Yeh ALLAH Ne Banaya.
-Zulm Oss Pe Zalimo Ne Aisa Jahan Mein Dhaya.
-Seh Kar Sitam Jahan Se Woh Bibi Ja Rahi Thi.
-Waris Hoon Main Fidak Ki Aye Logon Hoon Main Haq Par.
-Inkar Kar Rahe They Phir Bhi Woh Loag Hans Kar.
-Aayat Bhi Gasibon Ko Zahra Suna Rahi Thi.
-Atharwin Baras Mein Hi Aa Gayi Zaeefi.
-Pehlu Pe Hath Tha Our Baloon Mein Thi Safaidi.
-Itnay Shadeed Sadmay Zahra Utha Rahi Thi.
-Haq-e-Ali Ke Gasib Darbar Mein They Baithay.
-Waris Nahi Nabi Ka Koi Bhi Keh Rahe They.
-Hans Hans Ke Fatima Ko Ummat Rula Rahi Thi.
-Zainab Na Seh Sakay Gi Kulsoom Poch Le Gi.
-Maa Ne Tamacha Khaya Kaisay Unhein Kahey Gi.
-Neela Nishan Rukh Par Zahra Chupa Rahi Thi.
-Khutbay Ki Taig Uthaye Woh Tooti Pasliyon Se.
-Darbar Mein Saqeefay Ke Sare Fasiqon Se.
-Islam Our Wilayat Dono Bana Rahi Thi.
-Darbar Se Jo Lauti Ghar Ghairat-e-Elahi.
-Ashab Ne Na Mani Meri Koi Gawahi.
-Ro Ro Ke Yeh Ali Ko Zahra Bata Rahi Thi.
-Umm-e-Abeeha Keh Kar Jisay Mustafa Bulatay.
-Jis Ke Liye Nabi Khud Tazeem Ko They Uthtey.
-Ummat Asad Ossi Ki Azmat Bhula Rahi Thi.
+۱
+بنتِ نبی کو ایسے امت ستا رہی تھی
+جس جا نبی تھے رکتے وہ در جلا رہی تھی
+بچ جائے میرا محسن زہرا پکاریں یا رب
+ناپاک ٹھوکروں سے تطہیر والا در جب
+جلتا ہی فاطمہ پر امت گرا رہی تھی
+جس کے لیے جہاں یہ اللہ نے بنایا
+ظلم اس پہ ظالموں نے ایسا جہاں میں ڈھایا
+سہ کر ستم جہاں سے وہ بی‌بی جا رہی تھی
+وارث ہوں میں فدک کی اے لوگوں ہوں میں حق پر
+انکار کر رہے تھے پھر بھی وہ لوگ ہنس کر
+آیت بھی غاصبوں کو زہرا سنا رہی تھی
+اٹھارویں برس میں ہی آ گئی ضعیفی
+پہلو پہ ہاتھ تھا اور بالوں میں تھی سفیدی
+اتنے شدید صدمے زہرا اٹھا رہی تھی
+حقِ علی کے غاصب دربار میں تھے بیٹھے
+وارث نہیں نبی کا کوئی بھی کہہ رہے تھے
+ہنس ہنس کے فاطمہ کو امت رلا رہی تھی
+زینب نہ سہ سکے گی کلثوم پوچھ لے گی
+ماں نے طمانچہ کھایا کیسے انہیں کہے گی
+نیلا نشان رخ پر زہرا چھپا رہی تھی
+خطبے کی تیغ اٹھائے وہ ٹوٹی پسلیوں سے
+دربار میں سقیفے کے سارے فاسقوں سے
+اسلام اور ولایت دونوں بنا رہی تھی
+دربار سے جو لوٹی گھر غیرتِ الٰہی
+اصحاب نے نہ مانی میری کوئی گواہی
+رو رو کے یہ علی کو زہرا بتا رہی تھی
+امِ ابیہا کہہ کر جسے مصطفیٰ بلاتے
+جس کے لیے نبی خود تعظیم کو تھے اٹھتے
+امت اسد اسی کی عظمت بھلا رہی تھی

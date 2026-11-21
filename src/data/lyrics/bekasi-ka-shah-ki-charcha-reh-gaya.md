@@ -7,6 +7,31 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bekasi ka Shah ki charcha reh gaya
+
+  1
+  Mujraai mehmaan pyaasa reh gaya
+  Jab hui beparda aulaad-e-Rasul
+  Phir jahaaṅ meiṅ kis ka parda reh gaya
+
+  2
+  Is qadar tha khushk Hazrat ka gala
+  Khanjar-e-qaatil bhi pyaasa reh gaya
+
+  3
+  Sab hue sairaab tujh se ae Furaat
+  Qaafila Yasrib ka pyaasa reh gaya
+
+  4
+  Faiz tha bepardagi meiṅ aal ki
+  Ham gunaahgaaroṅ ka parda reh gaya
+  Bekasi ka Shah i charcha reh gaya
+  Dagmagaah kar jab gire ghore se Shah
+  Kaaṅp kar arsh-e-Maula reh gaya
+
+  5
+  Mujraai mehmaan pyaasa reh gaya
 ---
 
 بے کسی کا شہہ کی چرچا رہ گیا

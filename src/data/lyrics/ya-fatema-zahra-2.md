@@ -10,43 +10,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya fatema zahra ya fatema zahra
+  Ya Fatema Zahra ya Fatema Zahra
 
   1
-  Jite hai faqad hum ghame sarwar ke sahare
-  Ashkoṅ ke siwa kuch bahi nahi paas hamare
-  Kya nazr kare muflis o nadaar hai bibi
-  Hum aap ke bachoṅ ke azadar hai bibi
+  Jite haiṅ faqat ham Gham-e-Sarwar ke sahaare
+  Ashkoṅ ke siwa kuchh bhi nahiṅ paas hamaare
+  Kya nazr kare muflis o nadaar hai Bibi
+  Ham aap ke bachchoṅ ke azaadaar hai Bibi
 
   2
-  Dekho to mere khaum ke bachoṅ ko bhi hai gham
-  Jo maaoṅ ki godhi may kiya karte hai matam
-  Nadaan ho ke phir bhi samajhdar hai bibi
-  Hum aap ke bachoṅ ke azadar hai bibi
+  Dekho to mere qaum ke bachchoṅ ko bhi hai gham
+  Jo maaoṅ ki godi mein kiya karte haiṅ maatam
+  Naadaan ho ke phir bhi samajhdaar hai Bibi
+  Ham aap ke bachchoṅ ke azaadaar hai Bibi
 
   3
-  Dete hai tumhe shabbar o shabbir ka pursa
-  Maqsoos bahattar may hai baysheer ka pursa
-  Qasim ke aur abbas ke ghamkhwar hai bibi
-  Hum aap ke bachoṅ ke azadar hai bibi
+  Dete haiṅ tumheṅ Shabbar o Shabbir ka pursa
+  Makhsus bahattar mein hai be shir ka pursa
+  Qaasim ke aur Abbaas ke ghamkhwaar hai Bibi
+  Ham aap ke bachchoṅ ke azaadaar hai Bibi
 
   4
   Din dhal gaya aur asr ka hangaam jo aaya
-  Sab qatl huwe reh gaye tanha shahe waala
-  Bhai na bhatije na ansaar hai bibi
-  Hum aap ke bachoṅ ke azadar hai bibi
+  Sab qatl hue reh gaye tanha Shah-e-Waala
+  Bhaai na bhatije na Ansaar hai Bibi
+  Ham aap ke bachchoṅ ke azaadaar hai Bibi
 
   5
-  Ashur ka din hai ke qayamat ka hai manzar
-  Aur gardan e shabbir pe chalta hua khanjar
-  Har simt se ab naiza o talwaar hai bibi
-  Hum aap ke bachoṅ ke azadar hai bibi
+  Aashur ka din hai ke qayaamat ka hai manzar
+  Aur gardan-e-Shabbir pe chalta hua khanjar
+  Har simt se ab neza o talwaar hai Bibi
+  Ham aap ke bachchoṅ ke azaadaar hai Bibi
 
   6
-  Kausar ki dua hai liye abbas ka parcham
-  Mohsin dar e shabbir pe jaa kar kare matam
-  Bas itni inayat ke talabgaar hai bibi
-  Hum aap ke bachoṅ ke azadar hai bibi
+  Kausar ki dua hai liye Abbaas ka parcham
+  Mohsin dar-e-Shabbir pe jaa kar kare maatam
+  Bas itni inaayat ke talabgaar haiṅ Bibi
+  Ham aap ke bachchoṅ ke azaadaar hai Bibi
 ---
 
 یا فاطمہ زہرا یا فاطمہ زہرا

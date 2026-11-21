@@ -10,43 +10,42 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jane Shaam Te Zainab Jane, Jane Shaam Te Zainab Jane
-  Sajjad Nu Lai Tur Payi Aye, Kiwein Bheer Bazaar Che Gayi Aye Zainab Jane
-
   1
-  Tur Payi Ae Din Bachawan Layi, Hizyaan Da Daagh Mitawan Layi
-  Veeran Shabbir De Sajde Nu, Wich Shaam De Rang Charhawan Layi
-  Har Zulm Nu Sehndi Rahi Ae, Kiweiṅ Wich Darbar De Gayi Ae
+  Jaane Shaam te Zainab jaane, jaane Shaam te Zainab jaane
+  Sajjad nun lai tur payi ae, kiwein bheer bazaar che gayi ae Zainab jaane
+  Tur payi ae din bachaawan layi, Hizyaan da daagh mitaawan layi
+  Veeran Shabbir de sajde nun, wich Shaam de rang charhaawan layi
+  Har zulm nun sehndi rahi ae, kiwein wich darbaar de gayi ae
 
   2
-  Karbal Di Jang Shabbir Lari, Wich Shaam De Par Okhi Si Ghari
-  Kithe Samna Si Na Mehrama Da, Kithe Zainab Rahi Khamosh Khari
-  Kithe Zakir Aye Ban Gayi Aye, Kiwein Jhirkaan Sehndi Rahi Aye
+  Karbal di jang Shabbir lari, wich Shaam de par okhi si ghari
+  Jithe saamna si naamehramaan da, kithe Zainab rai khaamosh khari
+  Kithe zaakir ae ban gayi ae, kiwein jhirkaan sehndi rai
 
   3
-  Ae Hausla Aun Di Maa Da Ae, Darbar Che Waqt Qaza Da Ae
-  Ae Jhagra Ve Nawazi Nahi, Ae Jhagra Aj Wafa Da Ae
-  Abbas Ali Ban Gayi Ae, Kiweiṅ Shamiyaṅ Samne Rahi Ae
+  Ae hausla Aun di maan da ae, darbaar che waqt qaza da ae
+  Ae jhagra we nawaazi nai, ae jhagra aj wafa da ae
+  Abbas Ali ban gayi ae, kiwein Shaamiyaan saamne rai ae
 
   4
-  Maa Zahra Vi Darbar Gayi, Wich Burqe De Guftaar Rahi
-  Gayi Zainab Vi Darbar De, Wich beParda Ae Lachar Rahi
-  Ohdi Sanad De Tukre Kite, Ae Chadar Mangdi Rahi Ae
+  Maan Zahra vi darbaar gayi, wich burqe de guftaar rai
+  Gayi Zainab vi darbaar de, wich pe parda ae laachaar rai
+  O di sanad de tukre kite, ae chaadar megdi rai ae
 
   5
-  Ik Aisa Waqt Vi Aaya Si, Zalim Ne Hukm Sunaya Si
-  Darbar Che Qatl Karo Abid, Zainab Imam Bachaya Si
-  Ehde Sadqe Imamat Rahi Ae, Kiweiṅ Nasal Bacha Gayi Ae
+  Ik aisa waqt di aaya si, zaalim ne hukm sunaaya si
+  Darbaar che qatl karo Aabid, Zainab Imaam bachaaya si
+  Ehde sadqe imaamat rahi ae, kiwein nasl bacha gayi ae
 
   6
-  Aj Qaidi Ban Ke Aayi Ae, Kadi Malka Ban Ke Aayi Si
-  Si Kita Suraj Ne Parda, Kufe Ne Fazilat Payi Si
-  Kithe Oh Shana, Kithe Aj Zainab, Kiweiṅ Kufe Toṅ Lang Gayi Ae
+  Aj qaidi ban ke aayi ae, kadi malka ban ke aayi si
+  Si kita suraj ne parda, Kufe ne fazilat paayi si
+  Kithe o shaanaan, kithe aj Zainab, kiwein Kufe ton lang gayi ae
 
   7
-  Shahruz Ae Gal Islam Di Ae, Ik Bibi Qaidan Shaam Di Ae
-  Oh Bibi Din Di Malka Ae, Naale Dukhtar Paak Imam Di Ae
-  Tauhid Azal Kar Gayi Ae, Jiweiṅ Mushkil Hal Kar Gayi Ae
+  Shahroz ae gal Islaam di ae, ik Bibi qaidan Shaam di ae
+  O Bibi din di malka ae, naale dukhtar paak Imaam di ae
+  Tauhid azal kar gayi ae, jiwein mushkil hal kar gayi ae
 ---
 
 ۱

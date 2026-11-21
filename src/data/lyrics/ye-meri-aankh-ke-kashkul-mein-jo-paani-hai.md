@@ -15,19 +15,19 @@ romanLyrics: |-
   Azaa-e-Aal-e-Payambar ki meharbaani hai
 
   1
-  Ye ek nanhe mujaahid ki hai ata karda
+  Ye ek nanhe mujaahid ki hai ataa karda
   Nabi ke din pe is waqt jo jawaani hai
   Sikha rahi hai saliqe jo sarfaraazi ke
-  Waja Sarshat bahattar ki wo kahaani hai
+  "Wajh-e-sarisht" bahattar ki wo kahaani hai
 
   2
-  Hamaari aaṅkheiṅ Muharram meiṅ hum se puchhti haiṅ
+  Hamaari aaṅkheṅ Muharram meiṅ hum se puchhti haiṅ
   Na jaane kaun se darya ki ye rawaani hai
   Bujha diye the diye shab gaye Husain ne jo
-  Jahaaṅ meiṅ aaj unhiṅ ki to zaufshaani hai
+  Jahaaṅ meiṅ aaj unhi ki to zaufashaani hai
 
   3
-  Maiṅ sar hatheli pe rakh kar salaam likhta huṅ
+  Main sar hatheli pe rakh kar salaam likhta huṅ
   Mujhe yaqin hai ke ye jaan aani jaani hai
   Mere wujud meiṅ rach bas gaya hai zikr-e-Husain
   Isi liye mere lehje meiṅ khush bayaani hai
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Aziz kiuṅ na ho mujh ko ye daagh maatam ka
   Gham-e-Husain ki ye moatabar nishaani hai
-  Agarche sabr ke saahil pe maiṅ naya huṅ magar
+  Agarche sabr ke saahil pe main naya huṅ magar
   Gham-e-Husain se nisbat bahut puraani hai
 ---
 

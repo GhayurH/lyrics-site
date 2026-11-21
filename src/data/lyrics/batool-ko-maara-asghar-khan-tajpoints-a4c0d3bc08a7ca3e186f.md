@@ -1,30 +1,50 @@
 ---
-title: "Batool Ko Maara Asghar Khan"
+title: "بتول کو مارا اصغر خان"
+alternateTitle: "Batool Ko Maara Asghar Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Batool ko maara Asghar Khan
+  Nabi ke ghar ko jala kar Batool ko mara
+  Sitam garoon ne bola kar Batool ko mara
+  Ali ko mara tha jis se laeen Qunfuz ne
+  Woh taziyana utha kar Batool ko mara
+  Galay mein aan ke dali rasan bhi Haider ke
+  Ali ko samne la kar Batool ko mara
+  Nabi ke hath ka likha bhi phaar kar phainka
+  Sand hawa mein ura kar Batool ko mara
+  Hasan ke samne mara Nabi ki beti ko
+  Hussain ko bhi rula kar Batool ko mara
+  Nishaan tamachon ke Baba hain mere chehray par
+  Har aik had ko bhula kar Batool ko mara
+  Gham-e-Batool mein ab bhi Rasool rotay hain
+  Unhein lehad mein sata kar Batool ko mara
+  Nabi bithatay they Qambar jahan pe Zahra ko
+  Wahin laeen ne hai la kar Batool ko mara
 ---
 
-1
-Batool Ko Maara Asghar Khan.
-Nabi Ke Ghar Ko Jala Kar Batool Ko Mara.
-Sitam Garoon Ne Bola Kar Batool Ko Mara.
-Ali Ko Mara Tha Jis Se Laeen Qunfuz Ne.
-Woh Taziyana Utha Kar Batool Ko Mara.
-Galay Mein Aan Ke Dali Rasan Bhi Haider Ke.
-Ali Ko Samne La Kar Batool Ko Mara.
-Nabi Ke Hath Ka Likha Bhi Phaar Kar Phainka.
-Sand Hawa Mein Ura Kar Batool Ko Mara.
-Hasan Ke Samne Mara Nabi Ki Beti Ko.
-Hussain Ko Bhi Rula Kar Batool Ko Mara.
-Nishaan Tamachon Ke Baba Hain Mere Chehray Par.
-Har Aik Had Ko Bhula Kar Batool Ko Mara.
-Gham-e-Batool Mein Ab Bhi Rasool Rotay Hain.
-Unhein Lehad Mein Sata Kar Batool Ko Mara.
-Nabi Bithatay They Qambar Jahan Pe Zahra Ko.
-Wahin Laeen Ne Hai La Kar Batool Ko Mara.
+۱
+بتول کو مارا اصغر خان
+نبی کے گھر کو جلا کر بتول کو مارا
+ستم گروں نے بلا کر بتول کو مارا
+علی کو مارا تھا جس سے لعین قنفذ نے
+وہ تازیانہ اٹھا کر بتول کو مارا
+گلے میں آن کے ڈالی رسن بھی حیدر کے
+علی کو سامنے لا کر بتول کو مارا
+نبی کے ہاتھ کا لکھا بھی پھاڑ کر پھینکا
+سند ہوا میں اڑا کر بتول کو مارا
+حسن کے سامنے مارا نبی کی بیٹی کو
+حسین کو بھی رلا کر بتول کو مارا
+نشاں طمانچوں کے بابا ہیں میرے چہرے پر
+ہر ایک حد کو بھلا کر بتول کو مارا
+غمِ بتول میں اب بھی رسول روتے ہیں
+انہیں لحد میں ستا کر بتول کو مارا
+نبی بٹھاتے تھے قمبر جہاں پہ زہرا کو
+وہیں لعین نے ہے لا کر بتول کو مارا

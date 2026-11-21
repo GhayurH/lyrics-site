@@ -17,7 +17,7 @@ romanLyrics: |-
   Kaleja puchh le duniya Ali Ali bole
 
   1
-  Murraqqa khaynch le ye hikmat-e-qalam to nahiṅ
+  Murraqqa khench le ye hikmat-e-qalam to nahiṅ
   Jihad-e-Aun o Muhammad kisi se kam to nahiṅ
   Har ek tegh ka qabza Ali Ali bole
 
@@ -29,36 +29,36 @@ romanLyrics: |-
   3
   Fazilat-e-Alawi ke diye jalaye hue
   Falak se utra hai apni jabiṅ jhukaye hue
-  Dar-e-Ali par sitara Ali Ali bole
+  Dar-e-Ali par sitaara Ali Ali bole
 
   4
-  Larai Hazrat-e-Abbas ki Khuda ki panaah
+  Laraai Hazrat-e-Abbas ki Khuda ki panaah
   Wo khun hai sar-e-saahil ke kaanpti hai nigaah
   Lahu meiṅ dubta naiza Ali Ali bole
 
   5
-  Kinara chhor diya khauf kha ke darya ne
+  Kinaara chhor diya khauf kha ke darya ne
   Ajib shaan se hamla kiya hai saqqa ne
   Alam ka kaanpta panja Ali Ali bole
 
   6
-  Hili Husain ke hamloṅ se kufr ki bunyad
-  Ghurur-e-kufr ke lab par hai naala o faryad
+  Hili Husain ke hamloṅ se kufr ki bunyaad
+  Ghurur-e-kufr ke lab par hai naala o faryaad
   Uthaye tegh to duniya Ali Ali bole
 
   7
   Khamoshiyoṅ ki haqiqat hamari samjhi hai
   Behan Husain ki Zainab Ali ki beti hai
-  Zaban khole to lehja Ali Ali bole
+  Zabaan khole to lehja Ali Ali bole
 
   8
-  Ani to khench li barchhi ki qalb-e-Akbar se
+  Aani to khench li barchhi ki qalb-e-Akbar se
   Qadam sambhaalna mushkil hai ran meiṅ Sarwar se
   Dharak dharak ke kaleja Ali Ali bole
 
   9
-  Rawaṅ hai madham-e-Mahir qalam ba-faiz-e-Ali
-  Ubal rahe haiṅ mazamin-e-gham ba-faiz-e-Ali
+  Rawaaṅ hai madham-e-Mahir qalam ba-faiz-e-Ali
+  Ubal rahe haiṅ mazaamin-e-gham ba-faiz-e-Ali
   Hamare qalb ka dhaara Ali Ali bole
 ---
 

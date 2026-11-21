@@ -13,8 +13,8 @@ aliases: ["Batees Baras Ka Saath"]
 published: true
 romanLyrics: |-
   Shabbir ke khaime meiṅ qayaamat ka tha manzar
-  Rukhsat ke liye aaye jo Abbas dilaawar
-  Jab ro chuke Abbas ko sine se laga kar
+  Rukhsat ke liye aaye jo Abbaas dilaawar
+  Jab ro chuke Abbaas ko sine se laga kar
   Bhai ki taraf dekh ke kehne lage Sarwar
 
   Battis baras ka saath hai na chhoriye bhai
@@ -22,7 +22,7 @@ romanLyrics: |-
   Na jaaiye bhai
 
   1
-  Abbas mera dil ho tum hi jaan ho meri
+  Abbaas mera dil ho tum hi jaan ho meri
   Kya meri muhabbat meiṅ kami reh gayi koi
   Bhai se zyaada tumheṅ pyaari hai taraai
   Na jaaiye bhai
@@ -40,7 +40,7 @@ romanLyrics: |-
   Na jaaiye bhai
 
   4
-  Ghazi meri behnoṅ ko bari aas hai tum se
+  Ghaazi meri behnoṅ ko bari aas hai tum se
   Zainab ko jo dhaaras hai wo ehsaas hai tum se
   Tum saath ho is waaste wo aayi hai bhai
   Na jaaiye bhai
@@ -52,8 +52,8 @@ romanLyrics: |-
   Na jaaiye bhai
 
   6
-  Jaane lage Abbas to nazroṅ meiṅ thi chaadar
-  Rote hue Abbas ne dekha tha palat kar
+  Jaane lage Abbaas to nazroṅ meiṅ thi chaadar
+  Rote hue Abbaas ne dekha tha palat kar
   Jab khaima-e-Kulsum se aawaaz ye aayi
   Na jaaiye bhai
 
@@ -64,14 +64,14 @@ romanLyrics: |-
   Na jaaiye bhai
 
   8
-  Darya pe kamar thaam ke jab pahunche sirhane
-  Ghazi se kaha ro ke Shah-e-Karb o Bala ne
+  Darya pe kamar thaam ke jab pahunche sirhaane
+  Ghaazi se kaha ro ke Shaah-e-Karb o Bala ne
   Hai aap ki furqat ne kamar meri jhukaayi
   Na jaaiye bhai
 
   9
   Zishaan o Raza tut gayi aas haram ki
-  Dam tor gaye Shaah ki aaghosh meiṅ Ghazi
+  Dam tor gaye Shaah ki aaghosh meiṅ Ghaazi
   Shabbir ye kehte rahe bhai mere bhai
   Na jaaiye bhai
 ---

@@ -1,41 +1,72 @@
 ---
-title: "Imam-e-Waqt Dua Hai Yeh Intezam Bhi Ho"
+title: "امامِ وقت دعا ہے یہ انتظام بھی ہو"
+alternateTitle: "Imam-e-Waqt Dua Hai Yeh Intezam Bhi Ho"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Imam-e-waqt dua hai yeh intezam bhi ho
+  Keh ab ke bar shaheedon mein mera naam bhi ho
+  Mjhe bhi shoq-e-shahadat hai aye mere mula
+  Mujhe bhi khidmat-e-aali ka chahiye moqa
+
+  2
+  Yeh kar-e-khair hai shamil tera ghulam bhi ho
+  Mujhe bhi rizq-e-shahadat atta karein aaqa
+  Keh apne khon se roshan karon cherag-e-wafa
+  Baray-e-khadam-e-Sarwar yeh ahtamam bhi ho
+
+  3
+  Main Hur ke jazba-e-aali ko ikhtiyar karon
+  Hussainiat ke liye main bhi jaa nisar karon
+  Tu kuch tu zaat meri laiq-e-salam bhi ho
+  Ho kash aisa sheh-e-Kazmain fakhar karein
+
+  4
+  Main hoon shaheed mere waldain fakhar karein
+  Diyar-e-khuld mein hasil mujhe muqam bhi ho
+  Yeh bat sach hai ke auqat se siwa mangi
+  Magar namaz mein har dam yehi dua mangi
+
+  5
+  Jo fakhar-e-ishq hai hasil mujhe woh jam bhi ho
+  Imam-e-hujjat-e-aakhir aye wirsa dar-e-Ali
+  Yeh iltija hai musalsal Wajhi-o- Yasir ki
+  Dua hai aaj jo lab par yehi mudaam bhi ho
 ---
 
-1
-Imam-e-Waqt Dua Hai Yeh Intezam Bhi Ho.
-Keh Ab Ke Bar Shaheedon Mein Mera Naam Bhi Ho.
-Mjhe Bhi Shoq-e-Shahadat Hai Aye Mere Mula.
-Mujhe Bhi Khidmat-e-Aali Ka Chahiye Moqa.
+۱
+امامِ وقت دعا ہے یہ انتظام بھی ہو
+کہ اب کے بار شہیدوں میں میرا نام بھی ہو
+مجھے بھی شوقِ شہادت ہے اے میرے مولا
+مجھے بھی خدمتِ عالی کا چاہیے موقع
 
-2
-Yeh Kar-e-Khair Hai Shamil Tera Ghulam Bhi Ho.
-Mujhe Bhi Rizq-e-Shahadat Atta Karein Aaqa.
-Keh Apne Khon Se Roshan Karon Cherag-e-Wafa.
-Baray-e-Khadam-e-Sarwar Yeh Ahtamam Bhi Ho.
+۲
+یہ کارِ خیر ہے شامل تیرا غلام بھی ہو
+مجھے بھی رزقِ شہادت عطا کریں آقا
+کہ اپنے خون سے روشن کروں چراغِ وفا
+برائے خدامِ سرور یہ اہتمام بھی ہو
 
-3
-Main Hur Ke Jazba-e-Aali Ko Ikhtiyar Karon.
-Hussainiat Ke Liye Main Bhi Jaa Nisar Karon.
-Tu Kuch Tu Zaat Meri Laiq-e-Salam Bhi Ho.
-Ho Kash Aisa Sheh-e-Kazmain Fakhar Karein.
+۳
+میں حر کے جذبۂ عالی کو اختیار کروں
+حسینیت کے لیے میں بھی جاں نثار کروں
+تو کچھ تو ذات میری لائقِ سلام بھی ہو
+ہو کاش ایسا شہِ کاظمین فخر کریں
 
-4
-Main Hoon Shaheed Mere Waldain Fakhar Karein.
-Diyar-e-Khuld Mein Hasil Mujhe Muqam Bhi Ho.
-Yeh Bat Sach Hai Ke Auqat Se Siwa Mangi.
-Magar Namaz Mein Har Dam Yehi Dua Mangi.
+۴
+میں ہوں شہید میرے والدین فخر کریں
+دیارِ خلد میں حاصل مجھے مقام بھی ہو
+یہ بات سچ ہے کہ اوقات سے سوا مانگی
+مگر نماز میں ہر دم یہی دعا مانگی
 
-5
-Jo Fakhar-e-Ishq Hai Hasil Mujhe Woh Jam Bhi Ho.
-Imam-e-Hujjat-e-Aakhir Aye Wirsa Dar-e-Ali.
-Yeh Iltija Hai Musalsal Wajhi-o- Yasir Ki.
-Dua Hai Aaj Jo Lab Par Yehi Mudaam Bhi Ho.
+۵
+جو فخرِ عشق ہے حاصل مجھے وہ جام بھی ہو
+امامِ حجتِ آخر اے ورثہ دارِ علی
+یہ التجا ہے مسلسل وجہی و یاسر کی
+دعا ہے آج جو لب پر یہی مدام بھی ہو

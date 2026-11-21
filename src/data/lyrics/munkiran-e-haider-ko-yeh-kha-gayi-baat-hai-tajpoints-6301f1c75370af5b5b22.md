@@ -1,29 +1,47 @@
 ---
-title: "Munkiran-e-Haider Ko Yeh Kha Gayi Baat Hai"
+title: "منکرانِ حیدر کو یہ کھا گئی بات ہے"
+alternateTitle: "Munkiran-e-Haider Ko Yeh Kha Gayi Baat Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Munkiran-e-Haider ko yeh kha gayi baat hai
+  Keh Murtaza ke hath mein kyun Mustafa ka hath hai
+  Minber Ghadeer ka saja Maula Ali hai ban gaya
+  Hukam-e-Khuda se aaj munafiq ko mili maat hai
+
+  2
+  Naimat hai aaj Khum mein Khaliq ne ki tamam
+  Khushiyon ki momino ko Malik ne di sogaat hai
+  Kar ke buland hath Ali ka kaha Nabi ne
+  Ali se mulaqaat hi Ali se mulaqaat hai
+
+  3
+  Milti nahi misal zamane mein koi our
+  Bad Nabi Ali ki aisi azeem zaat hai
+  Madh-e-Panjtan ki khatir hi tu Farman
+  Allah ne mujhe di dunya mein yeh hayat hai
 ---
 
-1
-Munkiran-e-Haider Ko Yeh Kha Gayi Baat Hai.
-Keh Murtaza Ke Hath Mein Kyun Mustafa Ka Hath Hai.
-Minber Ghadeer Ka Saja Maula Ali Hai Ban Gaya.
-Hukam-e-Khuda Se Aaj Munafiq Ko Mili Maat Hai.
+۱
+منکرانِ حیدر کو یہ کھا گئی بات ہے
+کہ مرتضیٰ کے ہاتھ میں کیوں مصطفیٰ کا ہاتھ ہے
+منبر غدیر کا سجا مولا علی ہے بن گیا
+حکمِ خدا سے آج منافق کو ملی مات ہے
 
-2
-Naimat Hai Aaj Khum Mein Khaliq Ne Ki Tamam.
-Khushiyon Ki Momino Ko Malik Ne Di Sogaat Hai.
-Kar Ke Buland Hath Ali Ka Kaha Nabi Ne.
-Ali Se Mulaqaat Hi Ali Se Mulaqaat Hai.
+۲
+نعمت ہے آج خم میں خالق نے کی تمام
+خوشیوں کی مومنو کو مالک نے دی سوغات ہے
+کر کے بلند ہاتھ علی کا کہا نبی نے
+علی سے ملاقات ہی علی سے ملاقات ہے
 
-3
-Milti Nahi Misal Zamane Mein Koi Our.
-Bad Nabi Ali Ki Aisi Azeem Zaat Hai.
-Madh-e-Panjtan Ki Khatir Hi Tu Farman.
-ALLAH Ne Mujhe Di Dunya Mein Yeh Hayat Hai.
+۳
+ملتی نہیں مثال زمانے میں کوئی اور
+بعد نبی علی کی ایسی عظیم ذات ہے
+مدحِ پنجتن کی خاطر ہی تو فرمان
+اللہ نے مجھے دی دنیا میں یہ حیات ہے

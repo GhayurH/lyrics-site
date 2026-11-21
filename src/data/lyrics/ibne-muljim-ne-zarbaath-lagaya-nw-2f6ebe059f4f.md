@@ -1,54 +1,77 @@
 ---
-title: "IBNE MULJIM NE ZARBAATH LAGAYA"
+title: "ابنِ ملجم نے ضربت لگایا"
+alternateTitle: "Ibne Muljim Ne Zarbaath Lagaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ibne Muljim ne zarbath lagaya
+  Aaj Haider ki rukhsat ghadi hai
+
+  1
+  Aaj Haider ke ghar me ye matam
+  Aaj Jibreel rote khade hai
+  Ibne Muljim ne zarbaath lagaya
+  Aaj Haider ki rukhsat ghadi hai
+
+  2
+  Mahe Ramzan vonnis ko mara
+  Azadaro ye kaisa ye din hai
+  Ibne Muljim ne zarbaath lagaya
+  Aaj Haider ki rukhsat ghadi hai
+
+  3
+  Zainab-o-Kulsoom Hasnain sabi bhi
+  Haye wo bache yateem hogaye hai
+  Ibne Muljim ne zarbaath lagaya
+  Aaj Haider ki rukhsat ghadi hai
+
+  4
+  Aaj Kufe me kohraam macha hai
+  Khoon me dooba shere Khuda
+  Ibne Muljim ne zarbaath lagaya
+  Aaj Haider ki rukhsat ghadi hai
+
+  5
+  Mere mushkil khusha mere moula
+  Apko zarb kitna laga hai
+  Ibne Muljim ne zarbaat lagaya
+  Aaj Haider ki rukhsat ghadi hai
 ---
 
-Ibne muljim ne zarbath lagaya
+ابنِ ملجم نے ضربت لگایا
+آج حیدر کی رخصت گھڑی ہے
 
-aaj haider ki rukhsat ghadi hai
+۱
+آج حیدر کے گھر میں یہ ماتم
+آج جبرئیل روتے کھڑے ہیں
+ابنِ ملجم نے ضربت لگایا
+آج حیدر کی رخصت گھڑی ہے
 
-(1) aaj haider ke ghar me ye matam
+۲
+ماہِ رمضان انیس کو مارا
+عزادارو یہ کیسا یہ دن ہے
+ابنِ ملجم نے ضربت لگایا
+آج حیدر کی رخصت گھڑی ہے
 
-aaj jibreel rote khade hai
+۳
+زینب و کلثوم حسنین سبھی بھی
+ہائے وہ بچے یتیم ہو گئے ہیں
+ابنِ ملجم نے ضربت لگایا
+آج حیدر کی رخصت گھڑی ہے
 
-ibne muljim ne zarbaath lagaya
+۴
+آج کوفے میں کہرام مچا ہے
+خون میں ڈوبا شیرِ خدا
+ابنِ ملجم نے ضربت لگایا
+آج حیدر کی رخصت گھڑی ہے
 
-aaj haider ki rukhsat ghadi hai
-
-(2) mahe ramzan vonnis ko mara
-
-azadaro ye kaisa ye din hai
-
-ibne muljim ne zarbaath lagaya
-
-aaj haider ki rukhsat ghadi hai
-
-(3) zainab-o-kulsoom hasnain sabi bhi
-
-haye wo bache yateem hogaye hai
-
-ibne muljim ne zarbaath lagaya
-
-aaj haider ki rukhsat ghadi hai
-
-(4) aaj kufe me kohraam macha hai
-
-khoon me dooba shere khuda
-
-ibne muljim ne zarbaath lagaya
-
-aaj haider ki rukhsat ghadi hai
-
-(5) mere mushkil khusha mere moula
-
-apko zarb kitna laga hai
-
-ibne muljim ne zarbaat lagaya
-
-aaj haider ki rukhsat ghadi hai
+۵
+میرے مشکل کشا میرے مولا
+آپ کو ضرب کتنا لگا ہے
+ابنِ ملجم نے ضربت لگایا
+آج حیدر کی رخصت گھڑی ہے

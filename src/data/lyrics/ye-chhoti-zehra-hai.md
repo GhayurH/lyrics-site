@@ -21,15 +21,15 @@ romanLyrics: |-
   Maasum Sakina hai maasum Sakina hai
 
   1
-  Sajjad ki behna ko Ghaazi ki bhatiji ko
-  Maaṅga hai kanizi meiṅ us phul si bachchi ko
-  Shah ne apne sajdoṅ meiṅ jise Allah se maaṅga hai
+  Sajjaad ki behna ko Ghaazi ki bhatiji ko
+  Maaṅga hai kanizi mein us phul si bachchi ko
+  Shah ne apne sajdoṅ mein jise Allah se maaṅga hai
   Maasum Sakina hai maasum Sakina hai
 
   2
-  Daureṅge agar naaqe kis tarah se sambhlegi
-  Gar raah meiṅ gir jaaye aawaaz kise degi
-  Pusht-e-naaqa par kiuṅ tanha rassi se baandha hai
+  Daureṅ ge agar naaqe kis tarah se sambhle gi
+  Gar raah mein gir jaaye aawaaz kise de gi
+  Pusht-e-naaqe par kiuṅ tanha rassi se baandha hai
   Maasum Sakina hai maasum Sakina hai
 
   3
@@ -39,33 +39,33 @@ romanLyrics: |-
   Maasum Sakina hai maasum Sakina hai
 
   4
-  Rone na diya is ko Baba ke laashe par
-  Hai nil tamaachoṅ ke maasuma ke chehre par
+  Rone na diya is ko Baba ke laasha par
+  Hai nil tamaanchoṅ ke maasum se chehre par
   Allah jaane ye is pe sitam kis baat ka badla hai
   Maasum Sakina hai maasum Sakina hai
 
   5
   Haaṅ ik raat sar-e-zindaaṅ Shabbir ka sar aaya
-  Sar le kar godi meiṅ bachchi ne kiya nauha
+  Sar le kar godi mein bachchi ne kiya nauha
   Aaṅkheṅ kholo Baba dekho ye kaun zaifa hai
   Maasum Sakina hai maasum Sakina hai
 
   6
-  Maasum ki gardan meiṅ baandhi hai rasan aise
-  Ghut jaayega dam is ka maiṅ tez chaluṅ kaise
+  Maasum ki gardan mein baandhi hai rasan aise
+  Ghut jaaye ga dam is ka main tez chaluṅ kaise
   Ye kehta hua bimaar mera kham ho kar chalta hai
   Maasum Sakina hai maasum Sakina hai
 
   7
-  Turbat pe Sakina ki Aabid ne kaha hoga
+  Turbat pe Sakina ki Aabid ne kaha ho ga
   Ye meri amaanat hai rakhna tu khayaal is ka
-  Baba bhi nahiṅ ammu bhi nahiṅ beaas yatima hai
+  Baba bhi nahiṅ ammu bhi nahiṅ be aas yatima hai
   Maasum Sakina hai maasum Sakina hai
 
   8
   Rauze pe nazar jab bhi ae Shaadmaaṅ jaati hai
   Phir qalb-e-Takallum ko ye baat rulaati hai
-  Sadiyaaṅ guzri chhoti Bibi zindaan meiṅ tanha hai
+  Sadiyaaṅ guzri chhoti Bibi zindaan mein tanha hai
   Maasum Sakina hai maasum Sakina hai
 ---
 اے شمر ذرا کچھ رحم تو کھا یہ چھوٹی زہرا ہے

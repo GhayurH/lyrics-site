@@ -9,56 +9,42 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Beh raha hay khoon ka darya laashaye Shabbir say
-
+romanLyrics: |-
+  Bah raha hai khuṅ ka darya laasha-e-Shabbir se
 
   1
-
-  Pani pani ki sada aati hay zakhme teer say
-
+  Paani paani ki sada aati hai zakhm-e-tir se
+  Bah raha hai khuṅ...
 
   2
-
-  1) Laashaye Akbar para hay khoon may dooba huwa
-
-  Kehdo wapas laut jaaye qaside hamsheer say
-
+  Laasha-e-Akbar para hai khun mein duba hua
+  Keh do waapas laut jaaeṅ qaasid-e-hamshir se
+  Bah raha hai khuṅ...
 
   3
-
-  Haey haey Hussain haey haey Hussain
-
-  2) Karbala ke dasht may tha jurm pani maangna
-
-  Ho gayay khamosh Asghar Hurmula ke teer say
-
+  Karbala ke dasht mein tha jurm paani maangna
+  Ho gae khaamosh Asghar Hurmula ke tir se
+  Bah raha hai khuṅ...
 
   4
-
-  3) Jiske bosay leke milta tha Mohammad ko sukoon
-
-  Wo gulu kaata gaya hay aaj kund shamsheer say
-
+  Jis ke bose le ke milta tha Mohammad ko sukuṅ
+  Wo gulu kaata gaya hai aaj kund shamshir se
+  Bah raha hai khuṅ...
 
   5
-
-  4) Sar barehna ho gayi hay lut gayi hain chaadarain
-
-  Jinko dhaampa tha nabi ne chaadre tatheer say
-
+  Sar barahna ho gai haiṅ lut gai haiṅ chaadreṅ
+  Jin ko dhaampa tha Nabi ne chaadar-e-tathir se
+  Bah raha hai khuṅ...
 
   6
-
-  5) Shaam may jaaogi nangay sar mere marnay ke baad
-
-  Hoke rukhsat keh rahay thay shaah-e-deen hamsheer say
-
+  Shaam mein jaaogi nange sar mere marne ke baad
+  Ho ke rukhsat keh rahe the shaah-e-diṅ hamshir se
+  Bah raha hai khuṅ...
 
   7
-
-  6) Aaye hain ahlay haram Gulzaar kyun darbaar may
-
-  Abid-e-beemaar hain jakre huay zanjeer say'
+  Aae haiṅ ahl-e-haram Gulzaar kiuṅ darbaar mein
+  Aabid-e-bimaar haiṅ jakre hue zanjir se
+  Bah raha hai khuṅ...
 ---
 
 بہہ رہا ہے خو ںکا دریا لاشہِ شبیر سے

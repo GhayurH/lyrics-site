@@ -8,79 +8,78 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Nana teri Zainab aa gayee hay
-  Nana teri Zainab lut ke aa gaye hay
+  Naana teri Zainab lut ke aa gai hai
 
   1
-  1) Darbaron mey baazaron may
-  Teray deen ki aan bacha gaye hay
-  Nana teri Zainab aa gaye hay
+  Darbaaroṅ mein baazaaroṅ mein
+  Tere deen ki aan bachaa gai hai
+  Naana teri Zainab aa gai hai
 
   2
-  2) Ye neel rasan ke shaano par
-  Ye khaak-e-balaa mere baalon par
-  Nana, meri hasti khaak banaa gaye hay
-  Nana teri Zainab aa gaye hay
+  Ye neel-e-rasan ke shaanoṅ par
+  Ye khaak-e-balaa mere baaloṅ par
+  Naana, meri hasti khaak banaa gai hai
+  Naana teri Zainab aa gai hai
 
   3
-  3) Ye khun ke chinte chadar par
-  Lipti thi may laashe Akber par
-  Nana, ik barchi dil mera khaa gayi hay
-  Nana teri Zainab aa gaye hay
+  Ye khun ke chhinte chaadar par
+  Lipti thi main laash-e-Akbar par
+  Naana, ik barchhi dil mera khaa gai hai
+  Naana teri Zainab aa gai hai
 
   4
-  4) Halqe jo paray hain aankhon may
-  Khun roti rahi hun raahon may
-  Nana, ab aankh meri pathra gaye hay
-  Nana teri Zainab aa gaye hay
+  Halqe jo pare haiṅ aankhoṅ par
+  Khuṅ roti rahi huṅ raahoṅ par
+  Naana, ab aankh meri pathraa gai
+  Hai Naana teri Zainab aa gai hai
 
   5
-  5) Kaanton pay kabhi angaaron may
-  May chalke gaye baazaaron may
-  Nana, yun mujhpe zaeefi chaa gaye hay
-  Nana teri Zainab aa gaye hay
+  Kaantoṅ pe kabhi angaaroṅ mein
+  Main chal ke gai baazaaroṅ mein
+  Naana, yuṅ mujh pe zaifi chhaa gai hai
+  Naana teri Zainab aa gai hai
 
   6
-  6) Ik rassi may baara the galay
-  Baazu bhi pase gardan thay bandhay
-  Nana, ummat ye qayamat dhaa gaye hay
-  Nana teri Zainab aa gaye hay
+  Ik rassi mein baarah the gale
+  Baazu bhi pas-e-gardan the bandhe
+  Naana, ummat ye qayaamat dhaa gai hai
+  Naana teri Zainab aa gai hai
 
   7
-  7) Girte rahay bachay unton say
-  Phainkay gaye pathar kothon say
-  Nana, khud mout meri gabraa gaye hay
-  Nana teri Zainab aa gaye hay
+  Nind aati na thi jis bachchi ko
+  Kehti thi phuphi ab ghar ko chalo
+  Naana, zindaaṅ ki zamiṅ use khaa gai hai
+  Naana teri Zainab aa gai hai
 
   8
-  8) Neend ati nahi jis bachi ko
-  Kehti thi phuphi ab ghar ko chalo
-  Nana, zindaan ki zamin use khaa gaye hay
-  Nana teri Zainab aa gaye hay
+  Parde ka muhaafiz tha Ghazi
+  Tasvir tha mere baabaa ki
+  Naana, use raas taraai aa gai hai
+  Naana teri Zainab aa gai hai
 
   9
-  9) Parday ka muhaafiz tha Ghazi
-  Tasweer tha meray baba ki
-  Nana, use raas taraaye aa gaye hay
-  Nana teri Zainab aa gaye hay
+  Tum se thi ijaazat le ke gai
+  Kis haal mein dekho ab aai
+  Naana, ab meri kamar kham khaa gai hai
+  Naana teri Zainab aa gai hai
 
   10
-  10) Tumse thi ijazat leke gaye
-  Kis haal mei dekho ab aaye
-  Nana, ab meri qamar kham khaa gaye hay
-  Nana teri Zainab aa gaye hay
+  Karti huṅ savaal ye ab tum se
+  Beparda kabhi dekha tha mujhe
+  Naana, kiuṅ qabr teri tharraa gai hai
+  Naana teri Zainab aa gai hai
 
   11
-  11) Karti hun sawal ye ab tumse
-  Be parda kabhi dekha tha mujhe
-  Nana, kiun kabr teri tharra gaye hay
-  Nana teri Zainab aa gaye hay
+  Do laal fidaa bhaai pe kiye
+  Bhaai pe ridaa bhi ki sadqe
+  Naana, Zainab ki ridaa kaam aa gai hai
+  Naana teri Zainab aa gai hai
 
   12
-  12) Do laal fida bhai pe kiye
-  Bhaai pe ridaa bhi ki sadqay
-  Nana, Zainab ki ridaa kaam aa gaye hay
-  Nana teri Zainab aa gaye hay
+  Girte rahe bachche untoṅ se
+  Phenke gae patthar kothoṅ se
+  Naana, khud maut meri ghabraa gai hai
+  Naana teri Zainab aa gai hai
 ---
 
 نانا تیری زینبؑ لٹ کے آگئی ہے

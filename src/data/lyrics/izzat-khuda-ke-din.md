@@ -20,7 +20,7 @@ romanLyrics: |-
   Asghar ki qabr ran meiṅ bana li Husain ne
 
   2
-  Aankhoṅ pe pattiyaaṅ aap ne baandhi thi Ae Khalil
+  Aankhoṅ pe pattiyaaṅ aap ne baandhi thi ae Khalil
   Kariyal jawaaṅ ki laash uthaai Husain ne
 
   3

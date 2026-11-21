@@ -1,49 +1,88 @@
 ---
 title: "نبیؐ کے بعد علیؑ کو ستایا جانے لگا"
+alternateTitle: "Nabi Ke Baad Ali Ko Sataya Janey Laga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Asif Raza Khan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nabi ke baad Ali ko sataya janey laga
+  Galey may bandh, ke rassi phiraya janey laga
+
+  1
+  Fidak to cheen liya hai, Rasool zadi se
+  Na janey kyun Dar e Zehra, giraya janey laga
+
+  2
+  Hassan Hussain ke sar par jo tha falak ki tarah
+  Jahan se abre karam ka woh saya janey laga
+
+  3
+  Malukiyat ke jahan may, farogh ki khatir
+  Hassan ko zehrey Hila Hal pilaya janey laga
+
+  4
+  Jahan pe Ahle Sakifa ki khul gayi saazish
+  Lahu jab Aal e Aba ka bahaya janey laga
+
+  5
+  Mere Nabi ki shariyat bhi khoon royi jab
+  Namaz e Asr pe khanjar chalaya janey laga
+
+  6
+  Gareeb e Zahra ka lasha, karenge ab pamaal
+  Tamam lasho ko run se uthaya janey laga
+
+  7
+  Saja ke beriyan Aabid ke jisam par logo
+  Ushey bhi kodo se paidal, chalaya janey laga
+
+  8
+  Imam e Waqt ki aankhon se khoon rawan tha idhar
+  Ali ki beti ko jab Sham laya janey laga
+
+  9
+  Asif Raza Khan
 ---
 
-Nabi ke baad ALI ko sataya janey laga.
-Galey may bandh, ke rassi phiraya janey laga.
+نبی کے بعد علی کو ستایا جانے لگا
+گلے میں باندھ کے رسی پھرایا جانے لگا
 
-1
-Fidak to cheen liya hai, rasool zadi se.
-Na janey kyun Dar e zehra,Giraya janey laga. NABI KE BAAD...
+۱
+فدک تو چھین لیا ہے، رسول زادی سے
+نہ جانے کیوں درِ زہرا، گرایا جانے لگا
 
-2
-Hassan Hussain ke sar par jo tha Falak ki tarah.
-Jahan se Abre karam ka woh saya janey laga. NABI KE BAAD....
+۲
+حسن حسین کے سر پر جو تھا فلک کی طرح
+جہاں سے ابرِ کرم کا وہ سایہ جانے لگا
 
-3
-Malukiyat ke jahan may, Farogh ki khatir.
-Hassan ko zehrey Hila Hal pilaya janey laga. NABI KE BAAD....
+۳
+ملوکیت کے جہاں میں، فروغ کی خاطر
+حسن کو زہرِ ہلاہل پلایا جانے لگا
 
-4
-Jahan pe Ahle sakifa ki khul gayi Saazish.
-Lahu jab Aal e Aba ka bahaya janey laga. NABI KE BAAD....
+۴
+جہاں پہ اہلِ سقیفہ کی کھل گئی سازش
+لہو جب آلِ عبا کا بہایا جانے لگا
 
-5
-Mere Nabi ki shariyat bhi khoon royi jab.
-Namaz e Asr pe khanjar chalaya janey laga. NABI KE BAAAD....
+۵
+میرے نبی کی شریعت بھی خون روئی جب
+نمازِ عصر پہ خنجر چلایا جانے لگا
 
-6
-Gareeb e Zahra ka lasha, Karenge ab pamaal.
-Tamam Lasho ko Run se uthaya janey laga. NABI KE BAAD...
+۶
+غریبِ زہرا کا لاشہ، کریں گے اب پامال
+تمام لاشوں کو رن سے اٹھایا جانے لگا
 
-7
-Saja ke Beriyan Aabid ke jisam par logo.
-Ushey bhi kodo se paidal, chalaya janey laga, NABI KE BAAD....
+۷
+سجا کے بیڑیاں عابد کے جسم پر لوگو
+اسے بھی کوڑوں سے پیدل، چلایا جانے لگا
 
-8
-Imam e Waqt ki Aankhon se khoon rawan tha idhar.
-Ali ki Beti ko jab sham laya janey laga. NABI KE BAAD.....
+۸
+امامِ وقت کی آنکھوں سے خون رواں تھا ادھر
+علی کی بیٹی کو جب شام لایا جانے لگا
 
-9
-ASIF RAZA KHAN.
+۹
+آصف رضا خان

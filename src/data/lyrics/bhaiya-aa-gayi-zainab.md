@@ -12,12 +12,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Qabr par bhai ki gir kar ye pukari Zainab
+  Qabr par bhaai ki gir kar ye pukaari Zainab
   Bhaiya ab wo Zainab nahiṅ rahi Zainab
   Bhaiya aa gayi Zainab
 
-  Tera chehlum manane turbat pe
-  Qaid khane se aa gayi Zainab
+  Tera chehlum manaane turbat pe
+  Qaid khaane se aa gayi Zainab
   Bhaiya aa gayi Zainab
 
   Paas tere teri Sakina ko
@@ -25,7 +25,7 @@ romanLyrics: |-
   Bhaiya aa gayi Zainab
 
   1
-  Haye atharah bhaiyoṅ wali
+  Haye athaara bhaaiyoṅ waali
   Berida Shaam ho ke aayi hai
   Nil zakhmoṅ ke aur baazu par
   Rassiyoṅ ke nishaan laayi hai
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   2
   Itne chhale pare haiṅ pairoṅ meiṅ
-  Mujh se bhaiya chala nahiṅ jaata
+  Mujh se bhaiya chalaa nahiṅ jaata
   Dil ye kehta hai keh duṅ sab tum se
   Par zabaaṅ se kaha nahiṅ jaata
   Kabhi kaantoṅ bhari zamiṅ pe chali
@@ -44,31 +44,31 @@ romanLyrics: |-
   Bekasi maaṅ ki yaad aati thi
   Apni ghurbat ko bhul jaati thi
   Mujh ko darbaar meiṅ sharaabi ke
-  Amma Zahra ki yaad aati thi
-  Log teri behan pe haṅste the
-  Sar jhukaye khari rahi Zainab
+  Ammaaṅ Zahra ki yaad aati thi
+  Log teri behan pe hanste the
+  Sar jhukaaye khari rahi Zainab
 
   4
   Meri jaanib ishaare karte the
-  Shehr-e-Kufa ke log haṅs haṅs kar
+  Shehr-e-Kufa ke log hans hans kar
   Jis se Sajjad ne rida maangi
   Us ne maare gharib ko patthar
-  Aakhri saaṅs tak na bhule gi
+  Aakhri saans tak na bhule gi
   Kufe waloṅ ki berukhi Zainab
 
   5
   Wo jo puchhe gi apne Akbar ka
-  Jaa ke Sughra ko kya batauṅ gi
+  Jaa ke Sughra ko kya bataauṅ gi
   Saath tera agar nahiṅ ho ga
-  Qabr pe maaṅ ke kaise jauṅ gi
+  Qabr pe maaṅ ke kaise jaauṅ gi
   Ae gharibul watan baghair tere
-  Laut kar ghar na jaye gi Zainab
+  Laut kar ghar na jaaye gi Zainab
 
   6
   Kabhi takti thi wo tere sar ko
   Kabhi Abbas ko bulaati thi
   Meri aankhoṅ ke saamne bhaiya
-  Teri bachchi tamaṅche khaati thi
+  Teri bachchi tamaanche khaati thi
   Haath mere bandhe the gardan se
   Shimr ko kaise rokti Zainab
 
@@ -76,8 +76,8 @@ romanLyrics: |-
   Qabr-e-mazlum par Takallum ye
   Keh rahi thi Batul ki jaayi
   Tujh se waada behan ye karti hai
-  Khatm ho jaye gi ye tanhaai
-  Tera chehlum manaye gi duniya
+  Khatm ho jaaye gi ye tanhaai
+  Tera chehlum manaaye gi duniya
   Ibtida aaj kar chuki Zainab
 ---
 قبر پر بھائی کی گر کر یہ پکاری زینب

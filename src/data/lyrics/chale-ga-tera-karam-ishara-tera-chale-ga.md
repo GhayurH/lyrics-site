@@ -16,20 +16,20 @@ romanLyrics: |-
 
   1
   Rahin-e-minnat har aik insaan tera Khudaaya
-  Koi jahaaṅ ho magar ajaara tera chale ga
-  Tere hi dast-e-nagar ye dunya o maafiha hai
+  Koi jahaaṅ ho magar ijaara tera chale ga
+  Tere hi dast-e-nagar ye duniya o maafiha hai
   Tera jahaaṅ hai nizaam saara tera chale ga
 
   2
   Bashar meiṅ insaaniyat teri shart-e-awwalin hai
   Ibaadatoṅ se kahaaṅ guzaara tera chale ga
-  Baroz-e-mahshar har ik amal ka hisaab hoga
+  Baroz-e-mahshar har ik amal ka hisaab ho ga
   Bhara hua sirf goshwaara tera chale ga
 
   3
   Wo muntahib karda abad makhsus chaudah tere
-  Azal se taaba abad adaara tera chale ga
-  Bahut khataakaar hai “Azai” maaf karna
+  Azal se taaba abad idaara tera chale ga
+  Bahut khataakaar hai "Azai" maaf karna
   Mere Khudaaya udhar ishaara tera chale ga
 ---
 چلے گا تیرا کرم اشارہ تیرا چلے گا

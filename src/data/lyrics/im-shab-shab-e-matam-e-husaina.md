@@ -9,65 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mazloom hussaina
-  Bey yaar Hussaina
+  Im shab, shab-e-maatam-e-Husaina
 
   1
-  Em shab shab-e-matam-e-Hussaina
-  Aalam hamey dar fughaan Hussaina
+  Laachaar laachaar Husaina
 
   2
-  Em shab shab-e-matam-e-Hussaina
-  Aalam hamey dar fughaan Hussaina
-  Jo kar na saki bhai ka deedaar wo behna
+  Mazlum Husaina, be yaar Husaina
 
   3
-  Baba tha jisska haider-e-karar wo behna
+  Jo kar na saki bhaai ka didaar woh behna
+  Mazlum Husaina mazlum Husaina
+  Baaba tha jis ka Haider-e-Karraar woh behna
+  Mazlum Husaina mazlum Husaina
 
   4
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-  Har qoum main hota hai ye mazloom ka matam
-  Zahra ke dil o jaan ka masoom ka matam
-  Qurbani-e-shabbir ko bhoola na zamana
+  Koi na raha jis ka madadgaar woh behna
+  Mazlum Husaina mazlum Husaina
+  Tathir ki waaris jo thi laachaar woh behna
+  Mazlum Husaina mazlum Husaina
 
   5
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-
-  6
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-  Har aik ko ro ro key rulata hai muharram
-  Aashur ka din yaad dilata hai muharram
-  Wajib hai ye paigham zamaney ko sunana
-
-  7
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-
-  8
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-  Ham zikr-e-shaheedaan-e-wafa kartey raheyn ge
-  Abbas key parcham ko sada ooncha rakheyn ge
-  Ye pursa hai zahra ko safeeraan-e-aza ka
-
-  9
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-
-  10
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina
-  Jo kar na saki bhai ka deedaar wo behna
-
-  11
-  Baba tha jisska haider-e-karar wo behna
-
-  12
-  Em shab shab-e-matam-e-hussaina
-  Aalam hamey dar fughaan hussaina 4x
+  R qaum meiṅ hota hai mazlum ka maatam
+  Zahra ke dil o jaan ka, maasum ka maatam
+  Qurbaani-e-Shabbir ko bhula na zamaana
+  Har ek ko ro ro ke rulaata hai Muharram
+  Aashur ka din yaad dilaata hai Muharram
+  Waajib hai ye paighaam zamaane ko sunaana
+  Ham zikr-e-shahidaan-e-wafa karte raheṅ ge
+  Abbas ke parcham ko sada uncha rakheṅ ge
+  Ye pursa hai Zahra ko safiraan-e-aza ka
 ---
 
 ام شب، شب ماتم حسینا

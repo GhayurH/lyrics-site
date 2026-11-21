@@ -1,38 +1,65 @@
 ---
-title: "Oh Band Akhiyaan Chum Ke Bhain Diyan Lyrics Punjabi 2018"
+title: "اوہ بند اکھیاں چم کے بھین دیاں"
+alternateTitle: "Oh Band Akhiyaan Chum Ke Bhain Diyan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Oh band akhiyaan chum ke bhain diyan akhay kafan pawa nai sakiya iss qaidi veer nu maaf karien
+  Oh tere zakhmaa da maqrooz haan main koi marham la nai sakiya iss qaidi veer nu maaf karien
+
+  1
+  Taikon lash taun babay di zalim gustakhi naal juda kita
+  Oh tere maran taein taikon babay nal tere veer mila nai sakiya iss qaidi veer nu maaf karien
+  Toan apne hisay da pani meri zanjeer te pandi rayi
+  Ghazi wangon main tere layi banwaan katwa nai sakiya iss qaidi veer nu maaf karien
+
+  2
+  Dadi da hth si pasay te tera hath zakhmi rukhsaraan te
+  Paband haan main Haider wangon tere dard muka nai sakiya iss qaidi veer nu maaf karien
+  Toan mityaan te kadi pathraan te ro ro ke waqt guzaray ne
+  Masoof saan main tableeg de wich tainu seene la nai sakiya iss qaidi veer nu maaf karien
+
+  3
+  Tainu seene soan di adat hay mere gal wich tauq zanjeraan ne
+  Haye zindagi wich taikon seene te tera veer sawa nai sakiya iss qaidi veer nu maaf karien
+  Be-waris samjh ke Sham taein tainu Shimar tamachay marda c
+  Tainu ghoriyaan nal doranda c tera veer chura nai sakiya iss qaidi veer nu maaf karien
+
+  4
+  Teri lahad hai kaba dardaan da aidhay gird ghilaf hai ghurbat da
+  Hik chdar toan mehroom haan main teri qabar te pa nai sakiya iss qaidi veer nu maaf karien
+  Dafna ke bhain nu qaid de wich aye kenda c Muhsin
+  Oh taiku Akbar di jageer de wich Abid dafna nai sakiya iss qaidi veer nu maaf karien
 ---
 
-Oh Band Akhiyaan Chum Ke Bhain Diyan Akhay Kafan Pawa Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
-Oh Tere Zakhmaa Da Maqrooz Haan Main Koi Marham La Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
+اوہ بند اکھیاں چم کے بھین دیاں آکھے کفن پوا نئیں سکیا ایس قیدی ویر نوں معاف کریں
+اوہ تیرے زخماں دا مقروض ہاں میں کوئی مرہم لا نئیں سکیا ایس قیدی ویر نوں معاف کریں
 
-1
-Taikon Lash Taun Babay Di Zalim Gustakhi Naal Juda Kita.
-Oh Tere Maran Taein Taikon Babay Nal Tere Veer Mila Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
-Toan Apne Hisay Da Pani Meri Zanjeer Te Pandi Rayi.
-Ghazi Wangon Main Tere Layi Banwaan Katwa Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
+۱
+تیکوں لاش توں بابے دی ظالم گستاخی نال جدا کیتا
+اوہ تیرے مرن تائیں تیکوں بابے نال تیرے ویر ملا نئیں سکیا ایس قیدی ویر نوں معاف کریں
+توں اپنے حصے دا پانی میری زنجیر تے پاندی رہی
+غازی وانگوں میں تیرے لئی بانہواں کٹوا نئیں سکیا ایس قیدی ویر نوں معاف کریں
 
-2
-Dadi Da Hth Si Pasay Te Tera Hath Zakhmi Rukhsaraan Te.
-Paband Haan Main Haider Wangon Tere Dard Muka Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
-Toan Mityaan Te Kadi Pathraan Te Ro Ro Ke Waqt Guzaray Ne.
-Masoof Saan Main Tableeg De Wich Tainu Seene La Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
+۲
+دادی دا ہتھ سی پاسے تے تیرا ہتھ زخمی رخساراں تے
+پابند ہاں میں حیدر وانگوں تیرے درد مکا نئیں سکیا ایس قیدی ویر نوں معاف کریں
+توں مٹیاں تے کدی پتھراں تے رو رو کے وقت گزارے نے
+مصروف ساں میں تبلیغ دے وچ تینوں سینے لا نئیں سکیا ایس قیدی ویر نوں معاف کریں
 
-3
-Tainu Seene Soan Di Adat Hay Mere Gal Wich Tauq Zanjeraan Ne.
-Haye Zindagi Wich Taikon Seene Te Tera Veer Sawa Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
-Be-Waris Samjh Ke Sham Taein Tainu Shimar Tamachay Marda C.
-Tainu Ghoriyaan Nal Doranda C Tera Veer Chura Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
+۳
+تینوں سینے سون دی عادت ہے میرے گل وچ طوق زنجیراں نے
+ہائے زندگی وچ تیکوں سینے تے تیرا ویر سوا نئیں سکیا ایس قیدی ویر نوں معاف کریں
+بے وارث سمجھ کے شام تائیں تینوں شمر تماچے ماردا سی
+تینوں گھوڑیاں نال دوڑاندا سی تیرا ویر چھڑا نئیں سکیا ایس قیدی ویر نوں معاف کریں
 
-4
-Teri Lahad Hai Kaba Dardaan Da Aidhay Gird Ghilaf Hai Ghurbat Da.
-Hik Chdar Toan Mehroom Haan Main Teri Qabar Te Pa Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
-Dafna Ke Bhain Nu Qaid De Wich Aye Kenda C Muhsin
-Oh Taiku Akbar Di Jageer De Wich Abid Dafna Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.
+۴
+تیری لحد ہے کعبہ درداں دا ایدھے گرد غلاف ہے غربت دا
+ہک چادر توں محروم ہاں میں تیری قبر تے پا نئیں سکیا ایس قیدی ویر نوں معاف کریں
+دفنا کے بھین نوں قید دے وچ اے کہندا سی محسن
+اوہ تیکوں اکبر دی جاگیر دے وچ عابد دفنا نئیں سکیا ایس قیدی ویر نوں معاف کریں

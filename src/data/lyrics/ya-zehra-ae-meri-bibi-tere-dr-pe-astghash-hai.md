@@ -9,95 +9,87 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Zehra
+  Ya Zehra ya Zehra
 
   1
-  Ay meri bibi tere dar pe istighasa hay
-  Tera mamnoon meri shehzadi ye jaha sara hay
+  Tu ne naazoṅ se jis ko paala hai
+  Tere gulshan ka jo ujaala hai
+  Us ne Karbal se ae miri Bibi
+  Waqt-e-aakhir tujhe pukaara hai
+  Ae miri Bibi
+  Tira lakht-e-jigar hai mushkil mein
+  Juz Khuda koi na sahaara hai
 
   2
-  Tu hame hifz or amaan dede,
-  Apni chadar ke saiban dede
-  Teri qudrat me kya nahi bibi,
-  Tu jise chahe do jahaan dede
+  Karbala ka ye khuniṅ manzar hai
+  Paas Abbaas hai na Akbar hai
+  Apni nazroṅ ko pher lo Bibi
+  Zulm ka chalne waala khanjar hai
 
   3
-  Ay meri bibi aansu-o mein duwa mangi hay
-  Teri tasbee hi parke dil ne tuje pukaara hay
+  Karbala mein hai zalzala Bibi
+  Koi bhi ab nahiṅ bacha Bibi
+  Terah zarboṅ ke baad maqtal mein
+  Qatl hota hai mah laqa Bibi
 
   4
-  Tera darbaar wo sakhi dar hai,
-  Har farishta jahaan gadaagar hay
-  Tere maqrooz asmaan waale
-  Tera maqrooz har sikandar hay
+  Waqt ab hai bahut musibat ka
+  Karbala mein andhera phail gaya
+  Khaime jalne lage sar-e-maidaaṅ
+  Betiyoṅ ke nahiṅ saroṅ pe rida
 
   5
-  Tu sakhi hai tere bache bhi
-  Ek raahi nahi gawaahi me jag ye saara hay
-
-  6
-  Farshe majlis pe aur musalle par,
-  Har jawaa keh raha hai roro kar
-  Ham rahain na rahain magar bibi,
-  Ta qayamat rahe ghame Sarwar
-
-  7
-  Ay meri bibi tere bacho ka gham manaa te hay
-  Apni awlaad se kahi barke gham ye pyara hay
-
-  8
-  Karz makrooz ka adaa karde,
-  Mufliso ka naseeb wa kar day
-  Jinki godi bhari nahi bibi
-  Unko awlaad tu ataa kar day
-
-  9
-  Ay meri bibi bas tuhi muraad deti hay
-  Teri chawkhat dare ilahi ka isti araa hay
-
-  10
-  Farq momin se gham juda karde,
-  Bas ghame Karbela ataa kar day
-  Be khataa qaid me hai jo momin,
-  Mojize se unhe rihaa kar day
-
-  11
-  Ay meri bibi gham koyi hussainiyo ko na de
-  Jo Hussaini hai tere baba ko jaan se pyaara hay
-
-  12
-  Un shaheedo ka ye mukadar hai,
-  Sayibaan inka teri chadar hay
-  Unke sino pe ay meri bibi
-  Daaghe maatam nishaane Haider hay
-
-  13
-  Ay meri bibi khuld me shaheed jab jaye
-  Teri awaaz aaye aane do ye hamaara hay
-
-  14
-  Majlise gham me ashk barsaane,
-  Aa sakain ya nahi Khuda jaane
-  Kya bharosa hamaari saanso ka,
-  Ab kahaan ham kahaan azaa khaane
-
-  15
-  Ay meri bibi ashke gham teri amaanat hay,
-  Teri awlaad ke hi gham ne hame sawaara hay
-
-  16
-  Tujko ummat ne yun sataaya hai,
-  Marghe Mohsin pe bhi rulaaya hay,
-  Tujko baba ke baad ummat ne,
-  Haaye darbaar me bulaaya hay
-
-  17
-  Ay meri bibi kitne sadme utha hai tune,
-  Jeetay ji tujko meri shehzadi gham ne maara hay
-
-  18
-  Ay meri bibi tere darpe sar jukaa te hay,
-  Har Hussaini ka tere tukro pe hi guzaara hay
+  Ae meri Bibi
+  Tere dar pe istighaasa hai
+  Tera mamnun meri shahzaadi ye jahaaṅ saara hai
+  Tu hameiṅ hifz aur amaaṅ de de
+  Apni chaadar ka saaibaaṅ de de
+  Teri qudrat mein kya nahiṅ Bibi
+  Tu jise chaahe do jahaaṅ de de
+  Ae meri Bibi
+  Aansuoṅ mein dua ye maangi hai
+  Teri tasbih parh ke dil ne tujhe pukaara hai
+  Majlis-e-gham mein ashk barsaane
+  Aa sakeiṅ ya nahiṅ Khuda jaane
+  Kya bharosa hamaari saansoṅ ka
+  Kal kahaaṅ ham kahaaṅ aza khaane
+  Tujh ko ummat ne yuṅ sataaya hai
+  Marg-e-Mohsin pe bhi rulaaya hai
+  Tujh ko baaba ke baad ummat ne
+  Haaye darbaar mein bulaaya hai
+  Ae meri Bibi
+  Itne sadme uthaae haiṅ tu ne
+  Jite ji tujh ko meri shahzaadi gham ne maara hai
+  Karbala mein teri shabih ban kar
+  Apne baaba ki zindagi ban kar
+  Tera bachpan hai Sakina Bibi
+  Aur jawaani hai Zainab-e-Muztar
+  Farsh-e-majlis pe aur musalle par
+  Har jawaaṅ kah raha hai ro ro kar
+  Ham raheiṅ na raheiṅ magar Bibi
+  Ta qayaamat rahe Gham-e-Sarwar
+  Ae meri Bibi
+  Bas tu hi tu muraad deti hai
+  Teri chaukhat dar-e-ilaahi ka istiaara hai
+  Waqt-e-aakhir hai bas mera Bibi
+  An ginat haiṅ mere gunaah Bibi
+  Waasta tujh ko tere bachchoṅ ka
+  Bakhshwaana mere gunaah Bibi
+  Hai yahi Mazhar Aabidi ki dua
+  Tere bachchoṅ ka gham rahe zinda
+  Saath Irfaan ke rahe jaari
+  Tere sadqe mein Kaarwaan-e-Aza
+  Tera darbaar woh sakhi dar hai
+  Har farishta jahaaṅ gadaagar hai
+  Tere maqruz aasmaaṅ waale
+  Tera maqruz har Sikandar hai
+  Ae meri Bibi
+  Ashk-e-gham teri amaanat haiṅ
+  Teri aulaad ke hi gham ne hameiṅ sanwaara hai
+  Tere bachchoṅ se jis ko pyaar nahiṅ
+  Woh tere gham ka talabgaar nahiṅ
+  Khel samjhe na woh tere gham ko
+  Ye ibaadat hai kaarobaar nahiṅ
 ---
 
 یا زہراؑ یا زہراؑ

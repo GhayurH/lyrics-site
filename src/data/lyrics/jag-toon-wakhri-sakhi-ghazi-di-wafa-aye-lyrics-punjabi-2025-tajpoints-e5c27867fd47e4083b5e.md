@@ -1,28 +1,46 @@
 ---
-title: "Jag Toon Wakhri Sakhi Ghazi Di Wafa Aye Lyrics Punjabi 2025"
+title: "جگ توں وکھری سخی غازی دی وفا اے"
+alternateTitle: "Jag Toon Wakhri Sakhi Ghazi Di Wafa Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Qasida"
 poet: "Mirza"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jag toon wakhri sakhi Ghazi di wafa aye
+  Jehra alam te ja ke sir nu aye jhokanada
+  Ghazi de dar taun nayi khali aanda
+  Sunda duawaan Ghazi shehanshah
+  Sunda duawaan Ghazi badshah
+  Matami jehra dar te aaway Ghazi ohno seene laway
+  Sutray oday bhag jagaway dar Syeda taun faiz oh paway
+  Dukh dard mokanda alam sir te lehranda
+  Munkir de seene te teer chalanda
+  Sunda duawaan Ghazi shehanshah
+  Aaya jag nu karan atawaan jantaan wangoon sajiyan rahwaan
+  Mangiya Syeda kar ke duawaan Ghazi wasda naal aye sahwaan
+  Mirza zikar sunanda te narey momin landa
+  Taqdeer jaganda khali na walanda
+  Sunda duawaan Ghazi shehanshah
 ---
 
-1
-Jag Toon Wakhri Sakhi Ghazi Di Wafa Aye.
-Jehra Alam Te Ja Ke Sir Nu Aye Jhokanada.
-Ghazi De Dar Taun Nayi Khali Aanda.
-Sunda Duawaan Ghazi Shehanshah.
-Sunda Duawaan Ghazi Badshah.
-Matami Jehra Dar Te Aaway Ghazi Ohno Seene Laway.
-Sutray Oday Bhag Jagaway Dar Syeda Taun Faiz Oh Paway.
-Dukh Dard Mokanda Alam Sir Te Lehranda.
-Munkir De Seene Te Teer Chalanda.
-Sunda Duawaan Ghazi Shehanshah.
-Aaya Jag Nu Karan Atawaan Jantaan Wangoon Sajiyan Rahwaan.
-Mangiya Syeda Kar Ke Duawaan Ghazi Wasda Naal Aye Sahwaan.
- Mirza Zikar Sunanda Te Narey Momin Landa.
-Taqdeer Jaganda Khali Na Walanda.
-Sunda Duawaan Ghazi Shehanshah.
+۱
+جگ توں وکھری سخی غازی دی وفا اے
+جیہڑا علم تے جا کے سر نوں اے جھکاؤندا
+غازی دے در توں نئیں خالی آندا
+سُندا دُعاواں غازی شہنشاہ
+سُندا دُعاواں غازی بادشاہ
+ماتمی جیہڑا در تے آوے غازی اوہنوں سینے لاوے
+سُترے اوہدے بھاگ جگاوے در سیدہ توں فیض اوہ پاوے
+دُکھ درد مکاؤندا علم سر تے لہراندا
+منکر دے سینے تے تیر چلاندا
+سُندا دُعاواں غازی شہنشاہ
+آیا جگ نوں کرن عطاواں جنتاں وانگوں سجیاں راہواں
+منگیا سیدہ کر کے دُعاواں غازی وسدا نال اے ساہواں
+مرزا ذکر سُناندا تے نعرے مومن لاندا
+تقدیر جگاؤندا خالی نہ ولاندا
+سُندا دُعاواں غازی شہنشاہ

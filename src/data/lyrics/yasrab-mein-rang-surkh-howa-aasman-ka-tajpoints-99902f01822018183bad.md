@@ -1,38 +1,65 @@
 ---
-title: "Yasrab Mein Rang Surkh Howa Aasman Ka"
+title: "یثرب میں رنگ سرخ ہوا آسمان کا"
+alternateTitle: "Yasrab Mein Rang Surkh Howa Aasman Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Yasrab mein rang surkh howa aasman ka
+  Lash-e-Hasan ki simt hai rukh har kaman ka
+
+  1
+  Teeron ki zad pe lash-e-Hasan hai marey Rasool
+  Ummat ne khon kar diya aman-o-aman ka
+  Zainab ne keh diya hai uthani nahi hai taig
+  Ghazi pe pehla waqt hai yeh imtehan ka
+
+  2
+  Lakht-e-jigar ke samne tukray jigar ke hain
+  Qasim ne haal dekha hai jo Baba Jan ka
+  Apna kafan diya hai Hasan ko Hussain ne
+  Kam de ke kafan ho gaya hai khandan ka
+
+  3
+  Maa ki taraf se behno ne bhai ki lash par
+  Bosa liya hai teer ke ik ik nishan ka
+  Apne paron ko taan ke teeron ko rook le
+  Fitrus ko hukam dijiye Maula oraan ka
+
+  4
+  Lashkar nahi janaza tha phir bhi na jane kyun
+  Rasta lahu se tar hai Ali ke makan ka
+  Akbar yeh Fatima ka hi nuqsaan nahi howa
+  Qatal-e-Hasan khasara hai sare jahan ka
 ---
 
-Yasrab Mein Rang Surkh Howa Aasman Ka.
-Lash-e-Hasan Ki Simt Hai Rukh Har Kaman Ka.
+یثرب میں رنگ سرخ ہوا آسمان کا
+لاشِ حسن کی سمت ہے رخ ہر کمان کا
 
-1
-Teeron Ki Zad Pe Lash-e-Hasan Hai Marey Rasool.
-Ummat Ne Khon Kar Diya Aman-o-Aman Ka.
-Zainab Ne Keh Diya Hai Uthani Nahi Hai Taig.
-Ghazi Pe Pehla Waqt Hai Yeh Imtehan Ka.
+۱
+تیروں کی زد پہ لاشِ حسن ہے مرے رسول
+امت نے خون کر دیا امن و امان کا
+زینب نے کہہ دیا ہے اٹھانی نہیں ہے تیغ
+غازی پہ پہلا وقت ہے یہ امتحان کا
 
-2
-Lakht-e-Jigar Ke Samne Tukray Jigar Ke Hain.
-Qasim Ne Haal Dekha Hai Jo Baba Jan Ka.
-Apna Kafan Diya Hai Hasan Ko Hussain Ne.
-Kam De Ke Kafan Ho Gaya Hai Khandan Ka.
+۲
+لختِ جگر کے سامنے ٹکڑے جگر کے ہیں
+قاسم نے حال دیکھا ہے جو بابا جان کا
+اپنا کفن دیا ہے حسن کو حسین نے
+کام دے کے کفن ہو گیا ہے خاندان کا
 
-3
-Maa Ki Taraf Se Behno Ne Bhai Ki Lash Par.
-Bosa Liya Hai Teer Ke Ik Ik Nishan Ka.
-Apne Paron Ko Taan Ke Teeron Ko Rook Le.
-Fitrus Ko Hukam Dijiye Maula Oraan Ka.
+۳
+ماں کی طرف سے بہنوں نے بھائی کی لاش پر
+بوسہ لیا ہے تیر کے اک اک نشان کا
+اپنے پروں کو تان کے تیروں کو روک لے
+فطرس کو حکم دیجیے مولا اڑان کا
 
-4
-Lashkar Nahi Janaza Tha Phir Bhi Na Jane Kyun.
-Rasta Lahu Se Tar Hai Ali Ke Makan Ka.
- Akbar Yeh Fatima Ka Hi Nuqsaan Nahi Howa.
-Qatal-e-Hasan Khasara Hai Sare Jahan Ka.
+۴
+لشکر نہیں جنازہ تھا پھر بھی نہ جانے کیوں
+راستہ لہو سے تر ہے علی کے مکان کا
+اکبر یہ فاطمہ کا ہی نقصان نہیں ہوا
+قتلِ حسن خسارہ ہے سارے جہان کا

@@ -1,107 +1,203 @@
 ---
 title: "یا ابن الزھراؑ یا حسینؑ"
+alternateTitle: "Ya Ibne Zehra Ya Husain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Husain
+  Yabna Zehra, ya Husain Husain
+
+  1
+  Ye meri izzat o taukeer tera sadqa hai
+  Ye meri ashkon ki jageer tera sadqa hai
+  Mujhe jo kuch bhi mila Maula tere dar se mila
+  Meri dhadkan se hama waqt sada aati hai
+  Ya Husain ya Husain, Haza min karame Husain ibne Ali
+
+  2
+  Sayyeda Fatema Zehra ka hua mujh pe karam
+  Mil gaya farshe aza aur alam
+  Aur kya manngu bhala, tujh se mujhe kya na mila
+  Aank kholi toh ghar me aza khana mila
+  Jab alam dekha toh ye baat kahi
+
+  3
+  Haza min karame Husain ibne Ali
+
+  4
+  Mujh ko maa baap se virse me mila farshe aza
+  Ye muqaddar na farishton ko mila
+  Tarbiyat aaisi mili, khud hi sajata hu alam
+  Bhul jata hu zamane ke sabhi ranjo alam
+  Likhne wale ne ye taqdeer likhi
+
+  5
+  Haza min karame Husain ibne Ali
+
+  6
+  Aag par chalna ye zanjeer zani aur qama
+  Zindagi jeete hai bus ahle aza
+  Khoon theleel hua, parna mujhe aai qaza
+  Ek zanjeer se 10 logon ne matam bhi kia
+  Khoon bhehne se meri maut tali
+
+  7
+  Haza min karame Husain ibne Ali
+
+  8
+  Hath seeno pe agar maaro to rukh jata hai dil
+  Saans lene se bhi qatrata hai dil
+  Umr bhar karta raha, matame Shabbir bapa
+  Na ruki saans na is dil ne dhakana choda
+  Dil ki dhadkan se sada ane lagi
+
+  9
+  Haza min karame Husain ibne Ali
+
+  10
+  Aagaya mere bulawa to sue Karbobala
+  Mai bina zade safar ghar se chala
+  Aank me ashke aza, lab pe buqa sina zani
+  Jab chala ghar se mere sath tha saaman yahi
+  Karbala dekhi to mai bola yehi
+
+  11
+  Haza min karame Husain ibne Ali
+  Karbala ho ya Madina ho ke Mashad ya Najaf
+  Ha ziyarat ka mila mujh ko sharaf
+  Sari duniya me gaya, aur yehi nauha padha
+  Mai toh Shabbir ka zakir hu meri baat hi kya
+  Maujh ko is dar se he taukeer mili
+
+  12
+  Haza min karame Husain ibne Ali
+
+  13
+  Mera hamrah woh karta hai aqeede ka safar
+  Mere jaisa hai mere lakhte jigar
+  Kaam kuch aur nahi, majlis aur matam ke siwa
+  Shukr sar shukr ke aulaad ko virsa ye mila
+  Nauha padhta hai mera Nade Ali
+
+  14
+  Haza min karame Husain ibne Ali
+
+  15
+  Hur ke lashe pe ju hi pohche shansha e huda
+  Aankh me ashq the aur lab pe buqa
+  Hur ki peshani ko, ko rumaal jo Zehra ka mila
+  Tapni taqdeer pe naza who gilagftaar hua
+  Hur ke laashe se sada aane lagi
+
+  16
+  Haza min karame Husain ibne Ali
+
+  17
+  Roz ek nauha naya likta hai Mazhar ka kalam
+  Mujh pe Maula ka hai ye khaas karam
+  Aaur 37 baras, ho gaye Irfan e aza
+  Zikre Shabbir se ek pal bhi tu gaafil na raha
+  Ham ne member pe yehi baat kahi
+  Haza…
 ---
 
-HUSAIN (ASWS)…..6
-Yabna ZEHRA…Ya HUSAIN (ASWS) HUSAIN (ASWS)
+حسینؑ
+یا ابنِ زہراؑ، یا حسینؑ حسینؑ
 
-1
-Ye Meri Izzat O Taukeer Tera Sadqa Hai
-Ye Meri Ashkon Ki Jageer Tera Sadqa Hai……2
-Mujhe Jo Kuch Bhi Mila MAULA (ASWS) Tere Dar Se Mila
-Meri Dhadkan Se Hama Waqt Sada Aati Hai
-Ya HUSAIN (ASWS) Ya HUSAIN (ASWS)…..Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۱
+یہ میری عزت و توقیر تیرا صدقہ ہے
+یہ میری اشکوں کی جاگیر تیرا صدقہ ہے
+مجھے جو کچھ بھی ملا مولاؑ، تیرے در سے ملا
+میری دھڑکن سے ہمہ وقت صدا آتی ہے
+یا حسینؑ یا حسینؑ، ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-2
-SAYYEDA FATEMA ZEHRA Ka Hua Mujh Pe Karam
-Mil Gaya Farshe Aza Aur Alam
-Aur Kya Manngu Bhala…..2….. Tujh Se Mujhe Kya Na Mila
-Aank Kholi Toh Ghar Me Aza Khana Mila
-Jab Alam Dekha Toh Ye Baat Kahi
+۲
+سیدہ فاطمہ زہراؑ کا ہوا مجھ پہ کرم
+مل گیا فرشِ عزا اور علم
+اور کیا مانگوں بھلا، تجھ سے مجھے کیا نہ ملا
+آنکھ کھولی تو گھر میں عزاخانہ ملا
+جب علم دیکھا تو یہ بات کہی
 
-3
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۳
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-4
-Mujh Ko Maa Baap Se Virse Me Mila Farshe Aza
-Ye Muqaddar Na Farishton Ko Mila
-Tarbiyat Aaisi Mili…..2….. Khud Hi Sajata Hu Alam
-Bhul Jata Hu Zamane Ke Sabhi Ranjo Alam
-Likhne Wale Ne Ye Taqdeer Likhi
+۴
+مجھ کو ماں باپ سے ورثے میں ملا فرشِ عزا
+یہ مقدر نہ فرشتوں کو ملا
+تربیت ایسی ملی، خود ہی سجاتا ہوں علم
+بھول جاتا ہوں زمانے کے سبھی رنج و الم
+لکھنے والے نے یہ تقدیر لکھی
 
-5
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۵
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-6
-Aag Par Chalna Ye Zanjeer Zani Aur Qama
-Zindagi Jeete Hai Bus Ahle Aza
-Khoon Theleel Hua….2 …..Parna Mujhe Aai Qaza
-Ek Zanjeer Se 10 Logon Ne Matam Bhi Kia
-Khoon Bhehne Se Meri Maut Tali
+۶
+آگ پر چلنا یہ زنجیر زنی اور قمہ
+زندگی جیتے ہیں بس اہلِ عزا
+خون تحلیل ہوا، پر نہ مجھے آئی قضا
+ایک زنجیر سے ۱۰ لوگوں نے ماتم بھی کیا
+خون بہنے سے میری موت ٹلی
 
-7
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۷
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-8
-Hath Seeno Pe Agar Maaro To Rukh Jata Hai Dil
-Saans Lene Se Bhi Qatrata Hai Dil
-Umr Bhar Karta Raha…..2 …..Matame SHABBIR (ASWS) Bapa
-Na Ruki Saans Na Is Dil Ne Dhakana Choda
-Dil Ki Dhadkan Se Sada Ane Lagi
+۸
+ہاتھ سینوں پہ اگر مارو تو رک جاتا ہے دل
+سانس لینے سے بھی کتراتا ہے دل
+عمر بھر کرتا رہا، ماتمِ شبیرؑ بپا
+نہ رکی سانس نہ اس دل نے دھڑکنا چھوڑا
+دل کی دھڑکن سے صدا آنے لگی
 
-9
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۹
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-10
-Aagaya Mere Bulawa To Sue Karbobala
-Mai Bina Zade Safar Ghar Se Chala
-Aank Me Ashke Aza……2….. Lab Pe Buqa Sina Zani
-Jab Chala Ghar Se Mere Sath Tha Saaman Yahi
-Karbala Dekhi To Mai Bola Yehi
+۱۰
+آ گیا میرے بلاوا تو سوئے کرب و بلا
+میں بنا زادِ سفر گھر سے چلا
+آنکھ میں اشکِ عزا، لب پہ بکا سینہ زنی
+جب چلا گھر سے میرے ساتھ تھا سامان یہی
+کربلا دیکھی تو میں بولا یہی
 
-11
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
-Karbala Ho Ya Madina Ho Ke Mashad Ya Najaf
-Ha Ziyarat Ka Mila Mujh Ko Sharaf
-Sari Duniya Me Gaya …..2….. Aur Yehi Nauha Padha
-Mai Toh SHABBIR (ASWS) Ka Zakir Hu Meri Baat Hi Kya
-Maujh Ko Is Dar Se He Taukeer Mili
+۱۱
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
+کربلا ہو یا مدینہ ہو کہ مشہد یا نجف
+ہاں زیارت کا ملا مجھ کو شرف
+ساری دنیا میں گیا، اور یہی نوحہ پڑھا
+میں تو شبیرؑ کا ذاکر ہوں میری بات ہی کیا
+مجھ کو اس در سے ہی توقیر ملی
 
-12
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۱۲
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-13
-Mera Hamrah WohKarta Hai Aqeede Ka Safar
-Mere Jaisa Hai Mere Lakhte Jigar
-Kaam Kuch Aur Nahi…..2 …..Majlis Aur Matam Ke Siwa
-Shukr Sar Shukr Ke Aulaad Ko Virsa Ye Mila
-Nauha Padhta Hai Mera Nade ALI
+۱۳
+میرا ہمراہ وہ کرتا ہے عقیدے کا سفر
+میرے جیسا ہے میرے لختِ جگر
+کام کچھ اور نہیں، مجلس اور ماتم کے سوا
+شکر سر شکر کہ اولاد کو ورثہ یہ ملا
+نوحہ پڑھتا ہے میرا نادِ علی
 
-14
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۱۴
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-15
-Hur Ke Lashe Pe Ju Hi Pohche Shansha E Huda
-Aankh Me Ashq The Aur Lab Pe Buqa
-HUR Ki Peshani Ko…..2 …..Ko Rumaal Jo ZEHRAKa Mila
-Tapni Taqdeer Pe Naza Who Gilagftaar Hua
-HUR Ke Laashe Se Sada Aane Lagi
+۱۵
+حر کے لاشے پہ جوں ہی پہنچے شہنشاہِ ہدیٰ
+آنکھ میں اشک تھے اور لب پہ بکا
+حر کی پیشانی کو، کو رومال جو زہراؑ کا ملا
+اپنی تقدیر پہ نازاں وہ گرفتار ہوا
+حر کے لاشے سے صدا آنے لگی
 
-16
-Haza Min Karame HUSAIN (ASWS) Ibne ALI (ASWS)…..4
+۱۶
+ہٰذا من کرمِ حسینؑ ابنِ علیؑ
 
-17
-Roz Ek Nauha Naya Likta Hai Mazhar Ka Kalam
-Mujh Pe MAULA (ASWS) Ka Hai Ye Khaas Karam
-Aaur 37 Baras….2 …..Ho Gaye Irfan E Aza
-Zikre SHABBIR (ASWS) Se Ek Pal Bhi Tu Gaafil Na Raha
-Ham Ne Member Pe Yehi Baat Kahi
-Haza…..
+۱۷
+روز ایک نوحہ نیا لکھتا ہے مظہر کا کلام
+مجھ پہ مولاؑ کا ہے یہ خاص کرم
+اور ۳۷ برس، ہو گئے عرفانِ عزا
+ذکرِ شبیرؑ سے ایک پل بھی تو غافل نہ رہا
+ہم نے منبر پہ یہی بات کہی
+ہٰذا…

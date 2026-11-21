@@ -7,58 +7,37 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Jab yaad sakina ko teri aati hai baba
-
+romanLyrics: |-
+  Jab yaad Sakina ko teri aati hai baba
 
   1
-
-  Sar zindan ki deewaron se takrati hai baba
-
-  Kaano say tapakta hai lahoo shaano pe mere
-
-  Zaalim ki aziyat mujhe tadpati hai baba
-
+  Sar zindaan ki divaaroṅ se takraati hai baba
+  Kaanoṅ se tapakta hai lahu shaanoṅ pe mere
+  Zaalim ki aziyat mujhe tarpaati hai baba
 
   2
-
-  Mar jaungi pyasi na kabhi maangungi pani
-
+  Mar jaauṅ gi pyaasi na kabhi maangoṅ gi paani
   Asghar ki mujhe pyaas jo yaad aati hai baba
 
-
   3
-
-  Jab tak tere seene pe na so jaye sakina
-
-  Zindan may usay neend kahan aati hai baba
-
+  Jab tak tere sine pe na so jaaye Sakina
+  Zindaaṅ mein use nind kahaaṅ aati hai baba
 
   4
-
-  Hai kaun mere paas jiyun kiske sahare
-
+  Hai kaun mere paas jiyuṅ kis ke sahaare
   Tanhaai meri maut bani jaati hai baba
 
-
   5
-
-  Jalte huwe qaimon ke nazaare hai nazar may
-
-  Ye baat khayalon se kahan jaati hai baba
-
+  Jalte hue khaimoṅ ke nazaare haiṅ nazar mein
+  Ye baat khayaaloṅ se kahaaṅ jaati hai baba
 
   6
-
-  Yaad aate hai jab shimr e sitamgar ke mazaalim
-
-  Ye nanhi si dukhtar teri ghabrathi hai baba
-
+  Yaad aate haiṅ jab Shimr-e-sitamgar ke mazaalim
+  Ye nanhi si dukhtar teri ghabraati hai baba
 
   7
-
-  Darbar e yazidi may bhala kaise mai jaaun
-
-  Hai chaak gareban haya aati hai baba'
+  Darbaar-e-Yazidi mein bhala kaise main jaauṅ
+  Hai chaak garebaan haya aati hai baba
 ---
 
 جب یاد سکینہؑ کو تیری آتی ہے بابا

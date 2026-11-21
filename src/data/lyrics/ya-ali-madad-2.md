@@ -10,78 +10,78 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hyder hyder hyder hyder
-  Hyder ali maula ali maula hyder
+  Ya Haidar Haidar Haidar Haidar
+  Haidar Ali Maula Ali Maula Haidar
 
   1
-  Ali ibne abi talib ghalib alaa kulle ghalib
-  Agha jaanam agha jaanam agha jaanam ya ali
-  Ishqe ali rehmatullah bughz-e-ali lanatullah
-  Madhosh huṅ mai jaam-e-wilayat pi kar
-  Baitha huṅ dar-e-ishq pe misle qambar
-  Mat chero mujhe mai sag e hyder huṅ mawali huṅ
-  Abbas ke baba ka mai aashiq huṅ jalaali huṅ
-  Log deewana o mastana samajhte hai mujhe
-  Aur mai hazrate behlol ki danaayi huṅ
-  Mera qibla hai najaf aur manzil hai ali
-  Jo dharakta hai mere sine meiṅ wo dil hai ali
-  Mujhko pehchanle dunya mai ali waala huṅ
-  Jor kar haath mai karta huṅ salaam aur kehta huṅ
-  Ya ali madad hyder ya ali madad hyder
-  Ye sunnat-e-nabi hai kaho ya ali madad
-  Ya ali mujhko tere ishq-e-muqaddas ki qasam
-  Tu ne har daur meiṅ rakha hai malango ka bharam
-  Laal shahbaaz qalandar bhi yehi kehte hai
-  Hyderiam qalandaram mastam
-  Bakhuda aaj bhi sehwan se ye aati hai sada
-  Aasmano meiṅ yehi kehte huwe mai urta huṅ
-  Ya ali madad hyder ya ali madad hyder
-  Ye sunnat-e-nabi hai kaho ya ali madad
+  Ali ibn-e-Abi Taalib ghaalib alaa kull-e-ghaalib
+  Aagha jaanam Aagha jaanam Aagha jaanam ya Ali
+  Ishq-e-Ali rahmatullah bughz-e-Ali laanatullah
+  Madhosh huṅ main jaam-e-wilaayat pi kar
+  Baitha huṅ dar-e-ishq pe misl-e-Qambar
+  Mat chhero mujhe main sag-e-Haidar huṅ mawaali huṅ
+  Abbas ke baaba ka main aashiq huṅ jalaali huṅ
+  Log diwaana o mastaana samajhte haiṅ mujhe
+  Aur main Hazrat Bahlol ki daanaai huṅ
+  Mera qibla hai Najaf aur manzil hai Ali
+  Jo dharakta hai mere sine meiṅ woh dil hai Ali
+  Mujh ko pehchaan le duniya meiṅ Ali waala huṅ
+  Jor kar haath main karta huṅ salaam aur kehta huṅ
+  Ya Ali madad Haidar ya Ali madad Haidar
+  Ye sunnat-e-Nabi hai kaho ya Ali madad
+  Ya Ali mujh ko tere ishq-e-muqaddas ki qasam
+  Tu ne har daur meiṅ rakha hai malangoṅ ka bharam
+  Laal Shahbaaz Qalandar bhi yahi kehte haiṅ
+  Haidar yam qalandaram mastam
+  Baa Khuda aaj bhi Sehwan se ye aati hai sadaa
+  Aasmaanoṅ meiṅ yahi kehte hue main urta huṅ
+  Ya Ali madad Haidar ya Ali madad Haidar
+  Ye sunnat-e-Nabi hai kaho ya Ali madad
   Aaj lagta hai mujhe daar pe aana mera
-  Ya ali aap ki nalayn thikana mera
+  Ya Ali aap ki naalain thikaana mera
   Jo bhi munkir hai use maut nazar aata hai
-  Naara-e-hyder-e-karrar lagana mera
-  Muskura kar ye sar-e-daar kaha misum ne
-  Wird ye karte huwe mai bhi yahaṅ tak pahuncha huṅ
-  Ya ali madad hyder ya ali madad hyder
-  Ye sunnat-e-nabi hai kaho ya ali madad
-  Saari dunya ne ye ilzaam lagaya mujh par
-  Maiṅ ne iqraar kiya mai huṅ ali ka naukar
-  Dost ehbaab halaali bhi hai maulayi bhi
-  Baith kar shaam o sehar karte hai hyder hyder
+  Naara-e-Haidar-e-Karraar lagaana mera
+  Muskura kar ye sar-e-daar kaha Maisam ne
+  Wird ye karte hue main bhi yahaaṅ tak pahuncha huṅ
+  Ya Ali madad Haidar ya Ali madad Haidar
+  Ye sunnat-e-Nabi hai kaho ya Ali madad
+  Saari duniya ne ye ilzaam lagaaya mujh par
+  Main ne iqraar kiya main huṅ Ali ka naukar
+  Dost ahbaab halaali bhi huṅ maulaai bhi
+  Baith kar shaam o sahar karte haiṅ Haidar Haidar
   Bas wohi shakhs mujhe apna nazar aata hai
-  Jis ke pakizah laboṅ se mai ye jumla sunta huṅ
-  Ya ali madad hyder ya ali madad hyder
-  Ye sunnat-e-nabi hai kaho ya ali madad
-  Kaash din aisa bhi aaye ke ali mujhse kahe
-  Aa ke mimbar pe meri jang sunao mujhko
-  Kaisa lagta huṅ mai jab mujhpe jalaal aata hai
-  Ran meiṅ jab hazrat-e-imran ka laal aata hai
-  Unke qadmoṅ se lipat kar ye kahunga maula
-  Jang larna koi sikhe to ali se sikhe
-  Jis ke chehre se chalakte ho elaahi tewar
-  Aur lehje se dahal jaate ho lashkar ke jigar
-  Taygh haathoṅ meiṅ jo aajaye kahe jinn o bashar
-  Al-amaan sher e khuda faatah e khyber hyder
-  Tera hamla meri sarkaar nahi rok saka
-  Aaj tak koi tera waar nahi rok saka
-  Ali waliyullah ali karamallah
-  Ali asadullah ali wajhullah
-  Ali ainullah ali janbullah
-  Ali baabullah ali izzatullah
-  Sher e jari tu hai nafs e nabi tu hai
-  Khyber meiṅ utri jo naade ali tu hai
-  Jab bhi koi mushkil aayi to maulaji
-  Maiṅ ne kaha ya ali madad
-  Aag se tu ne hi ibrahim bachaya
-  Aur hazrate yaqub ko yusuf se milaya
-  Tu sab ki madad karta raha jis ne pukara
-  Ya ali madad hyder ya ali madad hyder
-  Ye sunnat-e-nabi hai kaho ya ali madad
-  Akhtar aur irfan-e-aza naade ali par
-  Khaas karam hai ye tera saaqi e kausar
-  Aate hai majlis meiṅ ye jab bar sar-e-mimbar
-  Hota hai sab ke laboṅ par ali hyder hyder
+  Jis ke paakiza laboṅ se main ye jumla sunta huṅ
+  Ya Ali madad Haidar ya Ali madad Haidar
+  Ye sunnat-e-Nabi hai kaho ya Ali madad
+  Kaash din aisa bhi aaye ke Ali mujh se kaheṅ
+  Aa ke mimbar pe meri jang sunaao mujh ko
+  Kaisa lagta huṅ main jab mujh pe jalaal aata hai
+  Ran meiṅ jab Hazrat-e-Imraan ka laal aata hai
+  Un ke qadmoṅ se lipat kar ye kahuṅ ga Maula
+  Jang larna koi sikhe to Ali se sikhe
+  Jis ke chehre se chhalakte huṅ ilaahi tewar
+  Aur lehje se dahal jaate huṅ lashkar ke jigar
+  Tegh haathoṅ meiṅ jo aa jaaye kahe jinn o bashar
+  Al-amaaṅ sher-e-Khuda faateh-e-Khaibar Haidar
+  Tera jumla meri sarkaar nahiṅ rok saka
+  Aaj tak koi tera waar nahiṅ rok saka
+  Ali waliyullah Ali karamullah
+  Ali asadullah Ali wajhullah
+  Ali ainullah Ali janbullah
+  Ali baabullah Ali izzatullah
+  Sher-e-jari tu hai nafs-e-Nabi tu hai
+  Khaibar meiṅ utri jo naad-e-Ali tu hai
+  Jab bhi koi mushkil aayi to Maula ji
+  Main ne kaha ya Ali madad
+  Aag se tu ne hi Ibraahim bachaaya
+  Aur Hazrat-e-Yaaqub ko Yusuf se milaaya
+  Tu sab ki madad karta raha jis ne pukaara haaṅ
+  Ya Ali madad Haidar ya Ali madad Haidar
+  Ye sunnat-e-Nabi hai kaho ya Ali madad
+  Akhtar o Irfaan-e-Aza naad-e-Ali par
+  Khaas karam hai ye tera saaqi-e-Kausar
+  Aate haiṅ majlis meiṅ ye jab barsar-e-mimbar
+  Hota hai sab ke laboṅ par Ali Haidar Haidar
 ---
 
 یا حیدر حیدر حیدر حیدر

@@ -34,17 +34,17 @@ romanLyrics: |-
   Nusairi ne Khuda maana
   Khuda ne laafata jaana
   Khuda ko wohi samjhega
-  Ali ko jis ne pehchana
+  Ali ko jis ne pehchaana
 
   4
-  Ali suraj ko palta de
+  Ali suraj palta de
   Ali darya ko thahra de
   Ali chaahe to munkir par
   Qaza ki aag barsa de
 
   5
-  Ali aamil ali kaamil
-  Ali kashti ali saahil
+  Ali aamil Ali kaamil
+  Ali kashti Ali saahil
   Agar insaaf se puchho
   Ali Islam ka hai dil
 

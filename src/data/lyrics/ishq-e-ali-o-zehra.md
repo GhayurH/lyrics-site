@@ -20,7 +20,7 @@ romanLyrics: |-
   Arsh-e-bariṅ ho jis ka musalla
   Sajda jise karta huṅ qibla
   Jis ki sukunat sahn-e-Kaaba
-  Jis ka imaamiya gumbad-e-Khazra
+  Jis ka imaamiya gumbad-e-Khazraa
   Jis se hai aabru din-e-Khuda ki wo Husain
   Haidari zeb o zain Fatema Zehra ka hai chain
 
@@ -49,10 +49,10 @@ romanLyrics: |-
   Khud kahega Khuda bas wo mera Shabbir hai
 
   5
-  Karbobala ab hum ko bulaye
+  Karbobala ab hum ko bulaaye
   Farsh-e-zamiṅ par arsh dikhaaye
   Khaak-e-shifa dastaar banaaye
-  Rauze pe tere sar ko jhukaye
+  Rauze pe tere sar ko jhukaaye
   Karbala naam hai ishq ki us meraaj ka
   Paa sake koshisheṅ kar ke bhi na jise ambiya
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   Fakhr hameṅ Salman o Raza hai
   Hum ko muyassar farsh-e-aza hai
   Fatema Zehra ki ye ataa hai
-  Lab pe hamare jo nauha hai
+  Lab pe hamaare jo nauha hai
   Baadshaahi se barh kar hai hamaari naukri
   Dharkan-e-qalb hai naam-e-Husain ibn-e-Ali
 ---

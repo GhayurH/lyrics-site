@@ -1,22 +1,35 @@
 ---
-title: "Yeh Hum Jo Hijar Mein Dewar-o-Dar Ko Dekhte Hain"
+title: "یہ ہم جو ہجر میں دیوار و در کو دیکھتے ہیں"
+alternateTitle: "Yeh Hum Jo Hijar Mein Dewar-o-Dar Ko Dekhte Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yeh hum jo hijar mein dewar-o-dar ko dekhte hain
+  Kabhi saba ko kabhi namah bar ko dekhte hain
+  Woh aaye ghar mein hamare Khuda ki qudrat hai!
+  Kabhi hum un ko kabhi apne ghar ko dekhte hain
+
+  2
+  Nazar lage na kahin oss ke dast-o-bazo ko
+  Yeh loag kyun mere zakhm-e-jigar ko dekhte hain
+  Tere jowahir-e-taraf-e-kulah ko kya dekhein!
+  Hum aoj-e-tal-e-lal-o-gohar ko dekhte hain
 ---
 
-1
-Yeh Hum Jo Hijar Mein Dewar-o-Dar Ko Dekhte Hain.
-Kabhi Saba Ko Kabhi Namah Bar Ko Dekhte Hain.
-Woh Aaye Ghar Mein Hamare Khuda Ki Qudrat Hai!
-Kabhi Hum Un Ko Kabhi Apne Ghar Ko Dekhte Hain.
+۱
+یہ ہم جو ہجر میں دیوار و در کو دیکھتے ہیں
+کبھی صبا کو کبھی نامہ بر کو دیکھتے ہیں
+وہ آئے گھر میں ہمارے خدا کی قدرت ہے!
+کبھی ہم ان کو کبھی اپنے گھر کو دیکھتے ہیں
 
-2
-Nazar Lage Na Kahin Oss Ke Dast-o-Bazo Ko.
-Yeh Loag Kyun Mere Zakhm-e-Jigar Ko Dekhte Hain.
-Tere Jowahir-e-Taraf-e-Kulah Ko Kya Dekhein!
-Hum Aoj-e-Tal-e-Lal-o-Gohar Ko Dekhte Hain.
+۲
+نظر لگے نہ کہیں اس کے دست و بازو کو
+یہ لوگ کیوں میرے زخمِ جگر کو دیکھتے ہیں
+تیرے جواہرِ طرفِ کلاہ کو کیا دیکھیں!
+ہم اوجِ طالعِ لعل و گوہر کو دیکھتے ہیں

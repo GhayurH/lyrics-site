@@ -1,37 +1,64 @@
 ---
-title: "Biyaan Ayat Ko Ayat Kar Rahi Hai"
+title: "بیان آیت کو آیت کر رہی ہے"
+alternateTitle: "Biyaan Ayat Ko Ayat Kar Rahi Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rida sar ki tilawat kar rahi hai
+
+  1
+  Ali Akbar hai apni bandagi mein
+  Azaan apni ibadat kar rahi hai
+  Khuda mehfooz rakhe Karbala ko
+  Khudai ki hifazat kar rahi hai
+  Yeh Zainab hai bhare darbar mein jo
+  Imamat ki imamat kar rahi hai
+
+  2
+  Janab-e-Fatima Zahra ke faqe
+  Raboobiyat bhi bait kar rahi hai
+  Kali chatkhe tu samjho fitrat-e-Haq
+  Ali Asghar ki midhat kar rahi hai
+  Yeh pairon mein jo beri hai yeh meri
+  Aqeedat ki wazahat kar rahi hai
+
+  3
+  Bina Mehdi ke hajj Kabe ka kaisa
+  Abhi dunya ziyarat kar rahi hai
+  Alam our taziye ki guftagu ko
+  Faqat Zainab samaat kar rahi hai
+  Adab Akbar yeh madh-e-Karbala hai
+  Isse Zahra samaat kar rahi hai
 ---
 
-Rida Sar Ki Tilawat Kar Rahi Hai
+ردا سر کی تلاوت کر رہی ہے
 
-1
-Ali Akbar Hai Apni Bandagi Mein.
-Azaan Apni Ibadat Kar Rahi Hai.
-Khuda Mehfooz Rakhe Karbala Ko.
-Khudai Ki Hifazat Kar Rahi Hai.
-Yeh Zainab Hai Bhare Darbar Mein Jo.
-Imamat Ki Imamat Kar Rahi Hai.
+۱
+علی اکبر ہے اپنی بندگی میں
+اذان اپنی عبادت کر رہی ہے
+خدا محفوظ رکھے کربلا کو
+خدائی کی حفاظت کر رہی ہے
+یہ زینب ہے بھرے دربار میں جو
+امامت کی امامت کر رہی ہے
 
-2
-Janab-e-Fatima Zahra Ke Faqe.
-Raboobiyat Bhi Bait Kar Rahi Hai.
-Kali Chatkhe Tu Samjho Fitrat-e-Haq.
-Ali Asghar Ki Midhat Kar Rahi Hai.
-Yeh Pairon Mein Jo Beri Hai Yeh Meri.
-Aqeedat Ki Wazahat Kar Rahi Hai.
+۲
+جنابِ فاطمہ زہرا کے فاقے
+ربوبیت بھی بیعت کر رہی ہے
+کلی چٹخے تو سمجھو فطرتِ حق
+علی اصغر کی مدحت کر رہی ہے
+یہ پیروں میں جو بیڑی ہے یہ میری
+عقیدت کی وضاحت کر رہی ہے
 
-3
-Bina Mehdi Ke Hajj Kabe Ka Kaisa.
-Abhi Dunya Ziyarat Kar Rahi Hai.
-Alam Our Taziye Ki Guftagu Ko.
-Faqat Zainab Samaat Kar Rahi Hai.
-Adab Akbar Yeh Madh-e-Karbala Hai.
-Isse Zahra Samaat Kar Rahi Hai.
+۳
+بنا مہدی کے حج کعبے کا کیسا
+ابھی دنیا زیارت کر رہی ہے
+علم اور تعزیے کی گفتگو کو
+فقط زینب سماعت کر رہی ہے
+ادب اکبر یہ مدحِ کربلا ہے
+اسے زہرا سماعت کر رہی ہے

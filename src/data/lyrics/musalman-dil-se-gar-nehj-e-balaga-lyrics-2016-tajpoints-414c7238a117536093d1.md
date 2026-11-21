@@ -1,32 +1,53 @@
 ---
-title: "Musalman Dil Se Gar Nehj E Balaga Lyrics 2016"
+title: "مسلمان دل سے گر نہج البلاغہ"
+alternateTitle: "Musalman Dil Se Gar Nehj-e-Balaga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Musalman dil se gar Nehj-e-Balaga dekhte rehte
+  Ali ke khutboon mein chehra Khuda ka dekhte rehte
+
+  1
+  Muhammad Mustafa doran-e-sajda dekhte rehte
+  Kab aaye pusht pe Shabir rasta dekhte rehte
+  Na jane kya Shab-e-Mairaj dekha tha payamber ne
+  Keh aksar muskura ke dar ka parda dekhte rehte
+
+  2
+  Abu Talib Muhammad ko Muhammad wajah-e-Haider ko
+  Youn ik dojay mein wehdat ka jalwa dekhte rehte
+  Pakane rotiyaan jab bethtin Fizza tu hasrat se
+  Farishte aasmaan se Bait-e-Zahra dekhte rehte
+
+  3
+  Ali ke naam se aasaniyaan kya kya moyassar hain
+  Wagarna shehar mein kis kis ka shajra dekhte rehte
+  Musalsal bandagi hoti Nabi ke door mein Akbar
+  Jo hum hote tu bas Mula ka chehra dekhte rehte
 ---
 
-Musalman Dil Se Gar Nehj-e-Balaga Dekhte Rehte.
-Ali Ke Khutboon Mein Chehra Khuda Ka Dekhte Rehte.
+مسلمان دل سے گر نہج البلاغہ دیکھتے رہتے
+علی کے خطبوں میں چہرہ خدا کا دیکھتے رہتے
 
-1
-Muhammad Mustafa Doran-e-Sajda Dekhte Rehte.
-Kab Aaye Pusht Pe Shabir Rasta Dekhte Rehte.
-Na Jane Kya Shab-e-Mairaj Dekha Tha Payamber Ne.
-Keh Aksar Muskura Ke Dar Ka Parda Dekhte Rehte.
+۱
+محمد مصطفیٰ دورانِ سجدہ دیکھتے رہتے
+کب آئے پشت پہ شبیر راستہ دیکھتے رہتے
+نہ جانے کیا شبِ معراج دیکھا تھا پیامبر نے
+کہ اکثر مسکرا کے در کا پردہ دیکھتے رہتے
 
-2
-Abu Talib Muhammad Ko Muhammad Wajah-e-Haider Ko.
-Youn Ik Dojay Mein Wehdat Ka Jalwa Dekhte Rehte.
-Pakane Rotiyaan Jab Bethtin Fizza Tu Hasrat Se.
-Farishte Aasmaan Se Bait-e-Zahra Dekhte Rehte.
+۲
+ابو طالب محمد کو محمد وجہِ حیدر کو
+یوں اک دوجے میں وحدت کا جلوہ دیکھتے رہتے
+پکانے روٹیاں جب بیٹھتیں فضہ تو حسرت سے
+فرشتے آسماں سے بیتِ زہرا دیکھتے رہتے
 
-3
-Ali Ke Naam Se Aasaniyaan Kya Kya Moyassar Hain.
-Wagarna Shehar Mein Kis Kis Ka Shajra Dekhte Rehte.
-Musalsal Bandagi Hoti Nabi Ke Door Mein Akbar.
-Jo Hum Hote Tu Bas Mula Ka Chehra Dekhte Rehte.
+۳
+علی کے نام سے آسانیاں کیا کیا میسر ہیں
+وگرنہ شہر میں کس کس کا شجرہ دیکھتے رہتے
+مسلسل بندگی ہوتی نبی کے دور میں اکبر
+جو ہم ہوتے تو بس مولا کا چہرہ دیکھتے رہتے

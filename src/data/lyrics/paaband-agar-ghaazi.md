@@ -15,7 +15,7 @@ romanLyrics: |-
   Zainab ka khula sar sar-e-baazaar na hota
 
   1
-  Abbas ko larne ki agar hoti ijaazat
+  Abbaas ko larne ki agar hoti ijaazat
   Phir Ghaazi Sakina se sharmsaar na hota
 
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
   Is tarah yatimi ka bhi izhaar na hota
 
   5
-  Sajjad ko ghash aata na raahoṅ meiṅ kabhi yuṅ
+  Sajjaad ko ghash aata na raahoṅ meiṅ kabhi yuṅ
   Zainab teri chaadar ka jo takraar na hota
 
   6

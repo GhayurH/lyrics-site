@@ -67,7 +67,7 @@ romanLyrics: |-
   8
   Kumla rahi hai pyaas gulaab-e-hayaat ko
   Benur kar na jaaye pisar kaainaat ko
-  Hasrat se dekhti haiṅ nigaaheṅ Furaat ko
+  Hasrat se dekhti hai nigaaheṅ Furaat ko
   Sharma raha hai burha pidar apne aap se
   Do ghunt paani maanga hai bete ne baap se
 

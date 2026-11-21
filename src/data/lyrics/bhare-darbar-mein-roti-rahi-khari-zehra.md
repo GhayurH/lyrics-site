@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bhare Darbar Meiṅ Roti Rahi Khari Zehra
-  Na Jaane Kis Tarah Haq Maangti Rahi Zehra
+  Bhare darbaar meiṅ roti rahi khari Zehra
+  Na jaane kis tarah haq maangti rahi Zehra
 
-  ۱
-  Ye Us Ki Beti Hai Jis Ne Do Lakht Chand Kiya
-  Wo Jis Ke Nur Ne Har Roshni Ko Maand Kiya
-  Ise Sataao Na Dukhiyaari Hai Bari Zehra
+  1
+  Ye us ki beti hai jis ne do lakht chaand kiya
+  Wo jis ke nur ne har roshni ko maand kiya
+  Ise sataao na dukhiyaari hai bari Zehra
 
-  ۲
-  Nabi Ke Baad Ye Kya Ho Gaya Zamaane Ko
-  Kiuṅ Kalma Go Haiṅ Chale Tera Ghar Jalaane Ko
-  Sahegi Kis Tarah Tu Ye Sitamgari Zehra
+  2
+  Nabi ke baad ye kya ho gaya zamaane ko
+  Kiuṅ kalma go haiṅ chale tera ghar jalaane ko
+  Sahe gi kis tarah tu ye sitamgari Zehra
 
-  ۳
-  Wo Apne Baba Ko Marzi Se Ro Nahi Sakti
-  Kiuṅ Apne Ashkoṅ Se Palkeiṅ Bhigo Nahi Sakti
-  Dikhai Waqt Ne Kaisi Sitamgari Zehra
+  3
+  Wo apne baaba ko marzi se ro nahiṅ sakti
+  Kiuṅ apne ashkoṅ se palkeiṅ bhigo nahiṅ sakti
+  Dikhaai waqt ne kaisi sitamgari Zehra
 
-  ۴
-  Sanad Ke Tukre Hawa Meiṅ Ura Ke Hansne Laga
-  Rasul Zaadi Se Gustaakh Aise Kehne Laga
-  Bata Ab Kaun Si Jaagir Hai Teri Zehra
+  4
+  Sanad ke tukre hawa meiṅ ura ke hansne laga
+  Rasul zaadi se gustaakh aise kehne laga
+  Bata ab kaun si jaagir hai teri Zehra
 
-  ۵
-  Khudaara Soch Ke Daanishwaroṅ Ye Batlaao
-  Nahi Sataai Gayi Bibi Phir Ye Samjhaao
-  To Rone Kis Liye Baitul Huzn Gayi Zehra
+  5
+  Khudaara soch ke daanishwaroṅ ye batlaao
+  Nahiṅ sataai gayi Bibi phir ye samjhaao
+  To rone kis liye Baitul Huzn gayi Zehra
 
-  ۶
-  Hasan Husain Se Sachche Gawaah Bhi Jhutlaaye
-  Rula Ke Bibi Ko Zaalim Zara Na Sharmaaye
-  Bhula Na Paayegi Ummat Ki Berukhi Zehra
+  6
+  Hasan Husain se sachche gawaah bhi jhutlaaye
+  Rula ke Bibi ko zaalim zara na sharmaaye
+  Bhula na paaeṅ gi ummat ki berukhi Zehra
 
-  ۷
-  Gale Meiṅ Daale Rasan Murtaza Ko Le Ke Chale
-  Manaat o Laat Ke Pairau Kuduuratoṅ Ke Pale
-  Rahi Ye Zulm Bhi Chaukhat Se Dekhti Zehra
+  7
+  Gale meiṅ daale rasan Murtaza ko le ke chale
+  Manaat o Laat ke pairau kuduratoṅ ke pale
+  Rahi ye zulm bhi chaukhat se dekhti Zehra
 
-  ۸
-  Siyaah Baal Jo Maa Ke Safed Tar Dekhe
-  Tauqir Kaise Kahuṅ Betiyoṅ Ne Sar Pite
-  Gayi Hai Jis Tarah Ghar Se Thaki Thaki Zehra
+  8
+  Siyaah baal jo maaṅ ke safed tar dekhe
+  Tauqir kaise kahuṅ betiyoṅ ne sar pite
+  Gayi hai jis tarah ghar se thaki thaki Zehra
 ---
 
 بھرے دربار میں روتی رہی کھڑی زہراؑ

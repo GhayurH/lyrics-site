@@ -28,7 +28,7 @@ romanLyrics: |-
   Nok pe barchhi ki Akbar ka kaleja reh gaya
 
   4
-  Sehra-e-Akbar ki lariyaṅ khun meiṅ tar ho gayiṅ
+  Sehra-e-Akbar ki lariyaaṅ khun meiṅ tar ho gayiṅ
   Haaye Sughra ka har ik armaaṅ adhura reh gaya
 
   5

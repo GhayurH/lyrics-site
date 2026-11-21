@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Mere Rasul-e-Paak haiṅ Quraan ki tarah
   Sher-e-Khuda ki zaat hai juzdaan ki tarah
-  Aur Sayyeda haiṅ Sura-e-Rehmaan ki tarah
+  Aur Sayyeda haiṅ Sura-e-Rahmaan ki tarah
   Sulh-e-Hasan hai amn ke maidaan ki tarah
   Ruh-e-Kalaam-e-Paak ke haiṅ darmiyaaṅ Husain
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Badnaam o benishaan lashkar Yazid ka
   Dozakh ki aag ban gayi bistar Yazid ka
-  Ruswaayi ban gayi hai muqaddar Yazid ka
+  Ruswaai ban gayi hai muqaddar Yazid ka
   Koi mehal hai ghar na koi dar Yazid ka
   Jannat se barh gaya hai tera aastaaṅ Husain
 

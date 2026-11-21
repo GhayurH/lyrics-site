@@ -1,47 +1,84 @@
 ---
-title: "Bazar Me Zainab Ka Jana Laeeq Raza"
+title: "بازار میں زینب کا جانا لئیق رضا"
+alternateTitle: "Bazar Me Zainab Ka Jana Laeeq Raza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bazar me Zainab ka jana Laeeq Raza
+  Bazar mein Zainab ka jana yaad aata hai dil rota hai
+  Sadaat ka woh pathar ka khana yaad aata hai dil rota hai
+  Baloon se chupaye chehray ko bazar jo Zainab aaein thin
+
+  2
+  Afsoos nawasi Ahmad ki kya kya na wahan kehlaein thin
+  Bagi ki behan woh kehlana yaad aata hai dil rota hai
+  Woh jis ne hamesha ghar mein bhi parday mein phophi ko dekha tha
+  Thi sath phophi be chadar woh kis tarha uthata sar apna
+
+  3
+  Sajjad ke sar ka jhuk jana yaad aata hai dil rota hai
+  Bhai ki amanat ko Zainab kis tarha bachati zalim se
+  Har aik qadam par bachi ke chehray pe tamachay lagtay they
+  Haye woh tamachon ka khana yaad aata hai dil rota hai
+
+  4
+  Bazar mein behnein be pardah bas baat yehi tarpati thi
+  Zainab ke khulay sar par haye jis waqt nazar par jati thi
+  Abbas ke sar ka gir jana yaad aata hai dil rota hai
+  Darbar bulaya zalim ne Abbas ki behno ko jis dam
+
+  5
+  Darbar ki jab baat aayi tu kehtin thin yehi Zainab oss dam
+  Darbar mein amma ka jana yaad aata hai dil rota hai
+  Kis tarha samajh paye koi haye woh musibat bhai ki
+  Masoom Sakina ko haye zindaan mein qaza jab aayi thi
+
+  6
+  Kurtay mein behan ko dafnana yaad aata hai dil rota hai
+  Pardais se lut kar ahl-e-haram Zeeshan-o- Laeeq aaye jis dam
+  Marqad pe Muhammad ki aa kar Zainab ne kaha ro kar oss dam
+  Pardais ka har manzar nana yaad aata hai dil rota hai
 ---
 
-1
-Bazar Me Zainab Ka Jana Laeeq Raza
-Bazar Mein Zainab Ka Jana Yaad Aata Hai Dil Rota Hai.
-Sadaat Ka Woh Pathar Ka Khana Yaad Aata Hai Dil Rota Hai.
-Baloon Se Chupaye Chehray Ko Bazar Jo Zainab Aaein Thin.
+۱
+بازار میں زینب کا جانا لئیق رضا
+بازار میں زینب کا جانا یاد آتا ہے دل روتا ہے
+سادات کا وہ پتھر کا کھانا یاد آتا ہے دل روتا ہے
+بالوں سے چھپائے چہرے کو بازار جو زینب آئی تھیں
 
-2
-Afsoos Nawasi Ahmad Ki Kya Kya Na Wahan Kehlaein Thin.
-Bagi Ki Behan Woh Kehlana Yaad Aata Hai Dil Rota Hai.
-Woh Jis Ne Hamesha Ghar Mein Bhi Parday Mein Phophi Ko Dekha Tha.
-Thi Sath Phophi Be Chadar Woh Kis Tarha Uthata Sar Apna.
+۲
+افسوس نواسی احمد کی کیا کیا نہ وہاں کہلائیں تھیں
+باغی کی بہن وہ کہلانا یاد آتا ہے دل روتا ہے
+وہ جس نے ہمیشہ گھر میں بھی پردے میں پھوپھی کو دیکھا تھا
+تھی ساتھ پھوپھی بے چادر وہ کس طرح اٹھاتا سر اپنا
 
-3
-Sajjad Ke Sar Ka Jhuk Jana Yaad Aata Hai Dil Rota Hai.
-Bhai Ki Amanat Ko Zainab Kis Tarha Bachati Zalim Se.
-Har Aik Qadam Par Bachi Ke Chehray Pe Tamachay Lagtay They.
-Haye Woh Tamachon Ka Khana Yaad Aata Hai Dil Rota Hai.
+۳
+سجاد کے سر کا جھک جانا یاد آتا ہے دل روتا ہے
+بھائی کی امانت کو زینب کس طرح بچاتی ظالم سے
+ہر ایک قدم پر بچی کے چہرے پہ طمانچے لگتے تھے
+ہائے وہ طمانچوں کا کھانا یاد آتا ہے دل روتا ہے
 
-4
-Bazar Mein Behnein Be Pardah Bas Baat Yehi Tarpati Thi.
-Zainab Ke Khulay Sar Par Haye Jis Waqt Nazar Par Jati Thi.
-Abbas Ke Sar Ka Gir Jana Yaad Aata Hai Dil Rota Hai.
-Darbar Bulaya Zalim Ne Abbas Ki Behno Ko Jis Dam.
+۴
+بازار میں بہنیں بے پردہ بس بات یہی تڑپاتی تھی
+زینب کے کھلے سر پر ہائے جس وقت نظر پڑ جاتی تھی
+عباس کے سر کا گر جانا یاد آتا ہے دل روتا ہے
+دربار بلایا ظالم نے عباس کی بہنوں کو جس دم
 
-5
-Darbar Ki Jab Baat Aayi Tu Kehtin Thin Yehi Zainab Oss Dam.
-Darbar Mein Amma Ka Jana Yaad Aata Hai Dil Rota Hai.
-Kis Tarha Samajh Paye Koi Haye Woh Musibat Bhai Ki.
-Masoom Sakina Ko Haye Zindaan Mein Qaza Jab Aayi Thi.
+۵
+دربار کی جب بات آئی تو کہتی تھیں یہی زینب اُس دم
+دربار میں اماں کا جانا یاد آتا ہے دل روتا ہے
+کس طرح سمجھ پائے کوئی ہائے وہ مصیبت بھائی کی
+معصوم سکینہ کو ہائے زنداں میں قضا جب آئی تھی
 
-6
-Kurtay Mein Behan Ko Dafnana Yaad Aata Hai Dil Rota Hai.
-Pardais Se Lut Kar Ahl-e-Haram Zeeshan-o- Laeeq Aaye Jis Dam.
-Marqad Pe Muhammad Ki Aa Kar Zainab Ne Kaha Ro Kar Oss Dam.
-Pardais Ka Har Manzar Nana Yaad Aata Hai Dil Rota Hai.
+۶
+کرتے میں بہن کو دفنانا یاد آتا ہے دل روتا ہے
+پردیس سے لٹ کر اہلِ حرم ذیشان و لئیق آئے جس دم
+مرقد پہ محمد کی آ کر زینب نے کہا رو کر اُس دم
+پردیس کا ہر منظر نانا یاد آتا ہے دل روتا ہے

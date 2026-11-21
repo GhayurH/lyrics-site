@@ -27,7 +27,7 @@ romanLyrics: |-
   Humak kar liya tum ne apne gale par
   Bahut khush hai is par tumhaari ye maadar
   Mujhe surkh ru pesh-e-bint-e-Payambar
-  Tum hi kar gaye ho mere pyaare Asghar
+  Tumhiṅ kar gaye ho mere pyaare Asghar
 
   3
   Gila to nahiṅ hai tumheṅ apni maaṅ se

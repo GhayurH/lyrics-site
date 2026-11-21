@@ -7,6 +7,29 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bhaiya mujhe maqtal se sada kiuṅ nahiṅ dete
+  Bach jaauṅ ya jal jaauṅ bata kiuṅ nahiṅ dete
+
+  1
+  Ghurbat mein sahi phir bhi hai kaunain ke malika
+  Phuloṅ se dar o baam, saja kiuṅ nahiṅ dete
+
+  2
+  Aabid, sar-e-darbaar sahi kab se khari hai
+  Thak jaae gi Zainab ko bitha kiuṅ nahiṅ dete
+
+  3
+  Sar nange, bandhe haath, utar aai hai Zainab
+  Baazaar se logoṅ ko hata kiuṅ nahiṅ dete
+
+  4
+  Kuchh der sahi phir bhi ye ruk jaae gi baarish
+  Neza pe hi Quraan suna kiuṅ nahiṅ dete
+
+  5
+  Karta hai Safi arz ke ae saani-e-Zehra
+  Nauhe ye tere arsh hila kiuṅ nahiṅ dete
 ---
 
 بھیا مجھے مقتل سے صدا کیوں نہیں دیتے

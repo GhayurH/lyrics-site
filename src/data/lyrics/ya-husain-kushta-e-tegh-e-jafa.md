@@ -14,72 +14,72 @@ romanLyrics: |-
   1
   Ya Husain kushta-e-tegh-e-jafa
   Ya Husain sibt-e-Rasul-e-Khuda
-  Hae sar bar sare naiza tera
+  Haae sar bar sar-e-naiza tera
   Dar badar le gaye baani-e-jafa
-  Bedafan laasha e besar hai gharib e Zehra
-  Hai badan ghoroṅ se pamal tera wa waila
+  Bedafan laasha-e-besar hai gharib-e-Zehra
+  Hai badan ghoroṅ se paamaal tera wa waila
 
   2
-  Nainawa dasht-e-bala Karbala
-  Kiuṅ hui joar o jafa Karbala
-  Kia thi pyasoṅ ki khata Karbala
-  Kuch to keh kuch to bata Karbala
-  Apne mehman pe ye bandish-e-pani kiunkar
-  Jis ki madar ko mehr may mila hoaz-e-Kausar
+  Nainawa, Nainawa dasht-e-bala Karbala
+  Kiuṅ hui jaur o jafa Karbala
+  Kya thi pyaasoṅ ki khata Karbala
+  Kuchh to keh kuchh to bata Karbala
+  Apne mehmaan pe ye bandish-e-paani kiunkar
+  Jis ki maadar ko mila mehr mein hauz-e-Kausar
 
   3
-  Aik maqtal may bahattar lashe
-  Bhanje bete bhatije pyase
-  Para para hue sare aise
-  Aik Quran ke pare jaise
-  Khaak urr urr shahidoṅ ka kafan banti thi
+  Aik maqtal mein bahattar laashe
+  Bhaanje bete bhatije pyaase
+  Paara paara hue saare aise
+  Aik Quraan ke pare jaise
+  Khaak ur ur ke shahidoṅ ka kafan banti thi
   Khuld se Fatima Zehra ka sada aati thi
 
   4
   Ik taraf behta tha darya-e-Furaat
-  Ik taraf pyasoṅ pe mushkil thi hayaat
+  Ik taraf pyaasoṅ pe mushkil thi hayaat
   Baad-e-Shabbir asiroṅ ki wo raat
-  Kaise guzri tan-e-sad pash ke sath
-  Koi bhai ko koi roti thi betoṅ ke liye
-  Bekasi wo thi ke anson na the ankhoṅ ke liye
+  Kaise guzri tan-e-sad paash ke saath
+  Koi bhaai ko koi roti thi betoṅ ke liye
+  Bekasi wo thi ke aansu na the aankhoṅ ke liye
 
   5
   Tashna lab bewatan o bekhata
-  Sar tha sajde may tehe taigh gala
+  Sar tha sajde mein tah-e-tegh gala
   Aik ik zakhm se khuṅ behta tha
-  Noha karti thiṅ janab e Zehra
-  Khaime ke dar pe bahan karti thi faryad o fughaṅ
-  Jaise sehra may kisi shakhs ki aawaz-e-azaaṅ
+  Noha karti thiṅ janaab Zehra
+  Khaime ke dar pe bahan karti thi faryaad o fughaaṅ
+  Jaise sehra mein kisi shakhs ki aawaaz-e-azaaṅ
 
   6
-  Mar gaya sher-e-alamdar-e-jari
-  Chal gayi Qasim-e-mehru pe churi
-  Mar gaya dasht may hamshakl-e-Nabi
-  Kha ke sine pe sitam ki barchi
-  Ghar ka ghar Zainab-e-mazlum ka barbad hua
-  Lut gaya shehr-e-Nabi Karbala aabad hua
+  Mar gaya sher-e-alamdaar-e-jari
+  Chal gayi Qaasim-e-mehru pe chhuri
+  Mar gaya dasht mein hamshakl-e-Nabi
+  Kha ke sine pe sitam ki barchhi
+  Ghar ka ghar Zainab-e-mazlum ka barbaad hua
+  Lut gaya shehr-e-Nabi Karbala aabaad hua
 
   7
-  Kat gaye bazoo e saqqa e haram
-  Chid gayi mashk hua thanda alam
-  Khaima-e-sheh may tha barpa matam
-  Noha karte the sabhi Ahle haram
-  Ae alamdar utho chinti hai Zainab ki rida
-  Koi baqi na raha Abid-e-muztar ke siwa
+  Kat gaye baazu-e-saqqa-e-haram
+  Chhid gayi mashk hua thanda alam
+  Khaima-e-sheh mein tha barpa maatam
+  Noha karte the sabhi ahl-e-haram
+  Ae alamdaar utho chhinti hai Zainab ki rida
+  Koi baaqi na raha Aabid-e-muztar ke siwa
   Fatima Zehra ye deti haiṅ dua
-  Ta qayamt rahe ye farsh-e-aza
-  Yunhi aati rahe matam ki sada
-  Ho har ik lab pe Hussaini noha
-  Hashr may sheh ke azadaroṅ se pursa luṅ gi
-  May azadaroṅ ko jannat ki basharat duṅ gi
+  Ta qayaamat rahe ye farsh-e-aza
+  Yuṅhi aati rahe maatam ki sada
+  Ho har ik lab pe Husaini noha
+  Hashr mein sheh ke azadaaroṅ se pursa luṅ gi
+  Main azadaaroṅ ko jannat ki bashaarat duṅ gi
 
   8
-  Kar ke Rehan may likhon Noha
-  Gham se seena hai mera Karb o bala
-  Ankh se behta hai khuṅ ka darya
+  Kar ke Rehan main likhuṅ noha
+  Gham se sina hai mera Karb o bala
+  Aankh se behta hai khuṅ ka darya
   Karte haiṅ qalb o jigar bhi girya
-  Hae wo bekas o mazlum wo beyaar Husain
-  Roiṅ ge hashar talak tujh ko azadar Husain
+  Haae wo bekas o mazlum wo beyaar Husain
+  Roeṅ ge hashr talak tujh ko azadaar Husain
 ---
 
 یا حسینؑ یا حسینؑ یا حسینؑ

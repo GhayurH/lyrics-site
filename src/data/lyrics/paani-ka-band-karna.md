@@ -19,8 +19,8 @@ romanLyrics: |-
   Dam torta hai beta aur baap dekhta hai
 
   2
-  Maare Shimr ne baaba muṅh par mere tamaache
-  Bint-e-Husain tarpi mere dur bhi khenchta hai
+  Maare Shimr ne baaba muṅh par tamaache
+  Bint-e-Husain tarpi mere dur khenchta hai
 
   3
   Abbas-e-Baawafa ne aisi wafa dikhaai

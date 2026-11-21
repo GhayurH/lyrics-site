@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dushman ko bhi na bhai ka matam khuda dikhaye
+  Dushman ko bhi na bhai ka maatam Khuda dikhaye
   Logoṅ batao bhai ko bhai kahaṅ se laaye
-  Bhai ko khuda bhai ka laasha na dikhaye
-  Bhai ko khuda bhai...
-  Laashe pe alamdar ke sheh kehte the haye
-  Bhai ko khuda bhai...
-  Kya saani e zehra ko mai batlaunga bhaiya
-  Mai laash se uthkar to nahi jaunga bhaiya
-  Ab shimr yahin aake churi mujhpe chalaye
-  Bhai ko khuda bhai...
-  Phat jayega gham se mera dil thaam lo abbas
-  Ab dayr bahot ho gayi ghar ko chalo abbas
-  Aisa na ho maqtal meiṅ sakina chali aaye
-  Bhai ko khuda bhai...
-  Ab haatoṅ meiṅ larza hai kahaṅ jaan rahi hai
-  Mazlum ki ghurbat meiṅ kamar tut gayi hai
-  Ya rab kisi dushman pe bhi ye waqt na aaye
-  Ho gaya marna sitam abbas ka
-  Abbas pani lao abbas pani lao
-  Haatoṅ meiṅ khaali kuze bache liye huwe hai
-  Ghirde sakina dekho halqa kiye huwe hai
-  Bache na jaane kab ka pani piye huwe hai
-  Bin aab mar na jaye pani inhe pilao
-  Abbas abbas abbas pani lao abbas pani lao
-  Bhai ko khuda bhai...
-  Pehlu meiṅ sada maiṅ ne bithaya tumhe bhai
-  Jis bhai ne godi meiṅ uthaya tumhe bhai
-  Wo bhai bhala kaise teri laash uthaye
-  Bhai ko khuda bhai...
-  Maa behne hai hamshakle payambar ke hawale
-  Mai mashk o alam karta hoo akbar ke hawale
-  Himmat nahi shabbir meiṅ jo qaimon meiṅ jaye
-  Bhai ko khuda bhai...
-  Sadaat hai ye shaam ke lashkar ko batao
-  Jaate huwe ye shimr se kehte huwe jao
-  Wo meri sakina ko tamache na lagaye
+  Bhai ko Khuda bhai ka laasha dikhaye
+  Bhai ko Khuda bhai...
+  Laashe pe na Alamdar ke Shah kehte the haaye
+  Bhai ko Khuda bhai...
+  Kya Saani-e-Zehra ko main batlaaunga bhaiya
+  Main laash se uth kar to nahiṅ jaaunga bhaiya
+  Ab Shimr yahi aake chhuri mujh pe chalaye
+  Bhai ko Khuda bhai...
+  Phat jayega gham se mera dil thaam lo Abbas
+  Ab der bahut ho gayi ghar ko chalo Abbas
+  Aisa na maqtal mein Sakina chali aaye
+  Bhai ko Khuda bhai...
+  Ab haathoṅ mein larza hai kahaṅ jaan rahi hai
+  Mazlum ki ghurbat mein kamar tut gayi hai
+  Ya Rab kisi dushman pe bhi ye waqt na aaye
+  Ho gaya marna sitam Abbas ka
+  Abbas paani lao Abbas paani lao
+  Haathoṅ mein khaali kuze bachche liye hue hain
+  Girde Sakina dekho halq kiye hue hain
+  Bachche na jaane kab ka paani piye hue hain
+  Bin aab mar na jaaye paani inheṅ pilao
+  Abbas Abbas Abbas paani lao Abbas paani lao
+  Bhai ko Khuda bhai...
+  Pehlu mein sada main ne bithaaya tumheṅ bhai
+  Jis bhai ne godi mein uthaaya tumheṅ bhai
+  Wo bhai bhala kaise teri laash uthaaye
+  Bhai ko Khuda bhai...
+  Maaṅ behneṅ hai hamshakl-e-Payambar ke hawaale
+  Main mashk o alam karta huṅ Akbar ke hawaale
+  Himmat nahiṅ Shabbir mein jo khaimoṅ mein jaaye
+  Bhai ko Khuda bhai...
+  Saadaat hai ye Shaam ke lashkar ko batao
+  Jaate hue ye Shimr se kehte hue jao
+  Wo meri Sakina ko tamaanche na lagaaye
   Tut gayi aas meri tut gayi aas
-  In shab shabe matame hussaina
-  Laachar laachar laachar hussaina
-  Dayr hui mere chacha jaaṅ ko sidhare
-  Akbar o baba hai gaye nehr kanare
-  Amma mera qalb jala pyaas ke maare
-  Tut'te jaate hai mere dil ke sahare
+  In shab shab-e-maatam-e-Husaina
+  Laachaar laachaar laachaar Husaina
+  Der hui mere chacha jaaṅ ko sidhaare
+  Akbar o baba hai gaye nahr kinaare
+  Ammaaṅ mera qalb jala pyaas ke maare
+  Tutte jaate hain mere dil ke sahaare
   Tut gayi aas meri tut gayi aas
-  Bhai ko khuda bhai...
-  Akbar ko abhi jaane do humne to kaha tha
-  Aulaad to mil jaati hai bhai nahi milta
-  Shabbir kahaṅ se tumhe ab dhund ke laaye
-  Bhai ko khuda bhai...
-  Sadaat ye kehte hai ke hum pyase rahenge
-  Tum ne na piya pani to hum bhi na piyenge
-  Allah hameiṅ pyasa hi dunya se uthaye
-  Bhai ko khuda bhai...
-  Mur mur ke take jaate the abbas ka laasha
-  Girte kabhi uth'te the takallum shahe waala
-  Akbar bari mushkil se sambhale huwe aaye
-  Bhai ko khuda bhai...
+  Bhai ko Khuda bhai...
+  Akbar ko abhi jaane do hum ne to kaha tha
+  Aulaad to mil jaati hai bhai nahiṅ milta
+  Shabbir kahaṅ se tumheṅ ab dhunr ke laaye
+  Bhai ko Khuda bhai...
+  Saadaat ye kehte hain ke hum ne pyaase rahenge
+  Tum ne na piya paani to hum bhi na piyenge
+  Allah hameṅ pyaasa hi duniya se uthaaye
+  Bhai ko Khuda bhai...
+  Mur mur ke take jaate the Abbas ka laasha
+  Girte kabhi uthte the Takallum Shah-e-Waala
+  Akbar bari mushkil se sambhaale hue aaye
+  Bhai ko Khuda bhai...
 ---
 
 ۱

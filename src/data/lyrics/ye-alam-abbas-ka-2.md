@@ -10,42 +10,42 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ye alam abbas ka hai ye alam abbas ka
+  Ye alam Abbas ka hai ye alam Abbas ka
 
   1
-  Ye alam ahle wafa ki aabru hai jaan hai
-  Ye alam mazlumi e shabbir ki pehchaan hai
-  Ye alam abbas hai islam hai quran hai
+  Ye alam ahl-e-wafa ki aabru hai jaan hai
+  Ye alam mazlum-e-Shabbir ki pehchaan hai
+  Ye alam Abbas hai Islam hai Quraan hai
 
   2
-  Is alam ke saaye ne islam ko di hai amaaṅ
-  Ye alam kehta rahega tashnagi ki daastaṅ
-  Ye alam hai hazrate abbas-e-ghazi ka nashaṅ
+  Is alam ke saaye ne Islam ko di hai amaaṅ
+  Ye alam kehta rahega tashnagi ki daastaaṅ
+  Ye alam hai Hazrat-e-Abbas Ghazi ka nishaaṅ
 
   3
-  Ye alam deta hai dhaaras lashkare islam ko
-  Ye alam zinda rakhega karbala ke naam ko
-  Ye alam dega sukuṅ in gardishe ayyaam ko
+  Ye alam deta hai dhaaras lashkar-e-Islam ko
+  Ye alam zinda rakhega Karbala ke naam ko
+  Ye alam dega sukuṅ in gardish-e-ayyaam ko
 
   4
-  Ye alam aale nabi ke pyaas ki tasvir hai
-  Ye alam par bekasi ki daastaṅ tehrir hai
-  Ye alam armaan e qalb e zainab e dilgir hai
+  Ye alam aal-e-Nabi ke pyaas ki tasvir hai
+  Ye alam par bekasi ki daastaaṅ tahrir hai
+  Ye alam armaan-e-qalb-e-Zainab-e-dilgir hai
 
   5
-  Ye alam ek bekas o mazlum ki awaaz hai
-  Ye alam meiṅ din e haq ki azmatoṅ ka raaz hai
-  Ye alam ek bawafa jarraar ka ejaaz hai
+  Ye alam ik bekas o mazlum ki aawaaz hai
+  Ye alam meiṅ din-e-haq ki azmatoṅ ka raaz hai
+  Ye alam ik baawafa jarraar ka ijaaz hai
 
   6
-  Ahle emaaaṅ ahle irfaṅ ki zarurat hai alam
-  Har jari har mard e maidaṅ ki zarurat hai alam
-  Ye alam to shaahe zishaṅ ki zarurat hai alam
+  Ahl-e-imaaṅ ahl-e-irfaaṅ ki zarurat hai alam
+  Har jari har mard-e-maidaaṅ ki zarurat hai alam
+  Ye alam to shaah-e-zishaaṅ ki zarurat hai alam
 
   7
-  E zahir e ghamnawa nauha likho abbas ka
-  Ek sakina ke liye aur shaahe diṅ ki pyaas ka
-  Jayeza tum le sake na ek haram ki aas ka
+  Ae Zaheer-e-gham nawa nauha likho Abbas ka
+  Ik Sakina ke liye aur shaah-e-diṅ ki pyaas ka
+  Jaaiza tum le sake na ik haram ki aas ka
 ---
 
 یہ الم عباس کا ہے یہ الم عباس کا

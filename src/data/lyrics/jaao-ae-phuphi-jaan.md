@@ -15,12 +15,12 @@ romanLyrics: |-
   Deti thi sada qabr se Shabbir ki dukhtar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
-  Maiṅ qaid rahuṅ qaid meiṅ hai mera muqaddar
+  Main qaid rahuṅ qaid mein hai mera muqaddar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   1
   Ae phuphi meri rida Karbobala le jaana
-  Dhup meiṅ tha mere mazlum padar ka laasha
+  Dhup mein tha mere mazlum padar ka laasha
   Laashe pe urha dena meri nanhi si chaadar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
@@ -31,31 +31,31 @@ romanLyrics: |-
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   3
-  Kehna baaba se ke ik pal bhi nahiṅ soyi maiṅ
-  Aap jis din se gaye shaam o sahar royi maiṅ
+  Kehna baaba se ke ik pal bhi nahiṅ soyi main
+  Aap jis din se gaye shaam o sahar royi main
   Ab jaa ke mujhe chain mila qabr ke andar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   4
   Bhaiya Akbar jo mile kehna ye mere kalimaat
   Puchhne aaye na ek din bhi behan ke haalaat
-  Keh dena behan baandhi gayi rassi meiṅ kas kar
+  Keh dena behan baandhi gayi rassi mein kas kar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   5
-  Karbala meiṅ jo mera Asghar-e-maasum mile
-  God meiṅ lena use aur laga lena gale
-  Muṅh chumna bhaiya ka meri simt se jaa kar
+  Karbala mein jo mera Asghar-e-maasum mile
+  God mein lena use aur laga lena gale
+  Munh chumna bhaiya ka meri simt se jaa kar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   6
   Nehr pe jaa ke chacha jaan se keh dena salaam
   Kehna aada ke sitam seh na saki tishna kaam
-  Keh dena ke wo mar gayi zindaaṅ meiṅ ghut kar
+  Keh dena ke wo mar gayi zindaaṅ mein ghut kar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   7
-  Mere ammu ko dikhaana mere donoṅ bunde
+  Mere ammu ko dikhaana mere donoṅ bandeṅ
   Eid ke din jo bare pyaar se pehnaaye the
   Keh dena laweṅ chir ke chhine gaye gauhar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
@@ -69,19 +69,19 @@ romanLyrics: |-
   9
   Ae phuphi aaye nazar shehr-e-Madina jis dam
   Kehna leti thi tera naam Sakina har dam
-  Qismat meiṅ nahiṅ tha ki aaye wo muztar
+  Qismat mein nahiṅ tha ki aaye wo muztar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   10
-  Jis ghari pahunchega Yasrab meiṅ ye ujra kunba
+  Jis ghari pahunchega Yasrab mein ye ujra kunba
   Puchhne aayegi mujh ko meri pyaari Sughra
   Rona meri behna ko kaleje se laga kar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   11
-  Reh gayi qaid-e-sitamgar meiṅ wo dukhiya Waiz
-  Gunjta reh gaya zindaaṅ meiṅ ye nauha Waiz
-  Maiṅ qaid rahuṅ qaid meiṅ hai mera muqaddar
+  Reh gayi qaid-e-sitamgar mein wo dukhiya Waiz
+  Gunjta reh gaya zindaaṅ mein ye nauha Waiz
+  Main qaid rahuṅ qaid mein hai mera muqaddar
   Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 ---
 

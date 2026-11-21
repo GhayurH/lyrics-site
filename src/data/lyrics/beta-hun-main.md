@@ -31,7 +31,7 @@ romanLyrics: |-
   Mere liye Rasul ke sajdoṅ meiṅ tul hai
   Marzi meri Khuda ko Nabi ko qubul hai
   Sukhe gale pe mere jo khanjar chalaae ga
-  Marqad meiṅ Fatima ko Ali ko sataae ga
+  Marqad meiṅ Faatima ko Ali ko sataae ga
 
   3
   Utra tha aasmaaṅ se sitaara hamaare ghar

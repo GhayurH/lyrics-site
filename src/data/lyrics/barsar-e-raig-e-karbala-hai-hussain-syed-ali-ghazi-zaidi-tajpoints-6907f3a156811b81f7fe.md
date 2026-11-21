@@ -1,30 +1,48 @@
 ---
-title: "Barsar E Raig E Karbala Hai Hussain Syed Ali Ghazi Zaidi"
+title: "بر سرِ ریگِ کربلا ہے حسین سید علی غازی زیدی"
+alternateTitle: "Barsar E Raig E Karbala Hai Hussain Syed Ali Ghazi Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Ahsan"
-tags: ["noUrdu"]
+poet: "Syed Ahsan Zaidi"
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Barsar e Raig e Karbala hai Hussain Syed Ali Ghazi Zaidi
+  Aakhri sansein le raha hai Hussain
+  Dekhta jata hai soye darya
+  Apne Ghazi ko dhondta hai Hussain
+  Zakhm khaye hain jab se pehlu pe
+  Maa ki ghurbat pe ro raha hai Hussain
+  Lagta hai aa gayi hai maa iss ki
+  Aik janib simat raha hai Hussain
+  Kuch hai zakhmo ka, kuch hai apno ka
+  Paon tak khon mein bhara hai Hussain
+  Fojein kehti thin mar gaya Shabeer
+  Maa yeh kehti thi so raha hai Hussain
+  Kaisay beti padar ko dhondney gi
+  Pathron ne chupa diya hai Hussain
+  Aik naizay pe hai rida Ahsan
+  Jis ko naizay se dekhta hai Hussain
 ---
 
-1
-Barsar e Raig e Karbala Hai Hussain Syed Ali Ghazi Zaidi.
-Aakhri Sansein Le Raha Hai Hussain.
-Dekhta Jata Hai Soye Darya.
-Apne Ghazi Ko Dhondta Hai Hussain.
-Zakhm Khaye Hain Jab Se Pehlu Pe.
-Maa Ki Ghurbat Pe Ro Raha Hai Hussain.
-Lagta Hai Aa Gayi Hai Maa Iss Ki.
-Aik Janib Simat Raha Hai Hussain.
-Kuch Hai Zakhmo Ka, Kuch Hai Apno Ka.
-Paon Tak Khon Mein Bhara Hai Hussain.
-Fojein Kehti Thin Mar Gaya Shabeer.
-Maa Yeh Kehti Thi So Raha Hai Hussain.
-Kaisay Beti Padar Ko Dhondney Gi.
-Pathron Ne Chupa Diya Hai Hussain.
-Aik Naizay Pe Hai Rida Ahsan.
-Jis Ko Naizay Se Dekhta Hai Hussain
-Poete::Syed Ahsan Zaidi:
+۱
+بر سرِ ریگِ کربلا ہے حسین سید علی غازی زیدی
+آخری سانسیں لے رہا ہے حسین
+دیکھتا جاتا ہے سوئے دریا
+اپنے غازی کو ڈھونڈتا ہے حسین
+زخم کھائے ہیں جب سے پہلو پہ
+ماں کی غربت پہ رو رہا ہے حسین
+لگتا ہے آ گئی ہے ماں اس کی
+ایک جانب سمٹ رہا ہے حسین
+کچھ ہے زخموں کا، کچھ ہے اپنوں کا
+پاؤں تک خون میں بھرا ہے حسین
+فوجیں کہتی تھیں مر گیا شبیر
+ماں یہ کہتی تھی سو رہا ہے حسین
+کیسے بیٹی پدر کو ڈھونڈے گی
+پتھروں نے چھپا دیا ہے حسین
+ایک نیزے پہ ہے ردا احسن
+جس کو نیزے سے دیکھتا ہے حسین

@@ -1,35 +1,59 @@
 ---
-title: "Jaan Lay Jaway Ga Meri Aye Wichora Veer Raza Lyrics In Punjabi 2026"
+title: "جان لے جاوے گا میری ایہہ وچھوڑا ویر رضا"
+alternateTitle: "Jaan Lay Jaway Ga Meri Aye Wichora Veer Raza"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jaan lay jaway ga meri aye wichora Veer Raza
+  Chad watan Madina toon liya Mashhad veer wasa
+  Tere hijar de dukh ne veran mainu kar chadiya beemar
+  Ainj lagda mar jana mere muk na jawan sah
+
+  2
+  Safraan wich rul gayi aye tere babay di jayi
+  Mera waqt akheri aye deway veer nu koi itela
+  Hoi Zainab Sham dafan Qum shehar che Masooma
+  Yasrab wich Sughra nu dukh veer da mar gaya
+
+  3
+  Main Syed zadi haan koi mehram nahin mera
+  Ayeh bhain di hasrat aye aa meri qabar bana
+  Pardais de wich kali dhi Mosa Kazim di
+  Baghdad, Najaf Karbal chad aaye sab Baqiya
+
+  4
+  Farmaya Maula main ohdi janat da zamin
+  Meri bhain Masooma nu jehra deway ga pursa
+  Kuj dair di dunya te mehman haan main veran
+  Sajjad, Masooma kehway mainu veran aa dafna
 ---
 
-1
-Jaan Lay Jaway Ga Meri Aye Wichora Veer Raza.
-Chad Watan Madina Toon Liya Mashhad Veer Wasa.
-1- Tere Hijar De Dukh Ne Veran Mainu Kar Chadiya Beemar.
-Ainj Lagda Mar Jana Mere Muk Na Jawan Sah.
+۱
+جان لے جاوے گا میری ایہہ وچھوڑا ویر رضا
+چھڈ وطن مدینہ توں لیا مشہد ویر وسا
+تیرے ہجر دے دکھ نے ویراں مینوں کر چھڈیا بیمار
+اینج لگدا مر جانا میرے مک نہ جاون ساہ
 
-2
-2- Safraan Wich Rul Gayi Aye Tere Babay Di Jayi.
-Mera Waqt Akheri Aye Deway Veer Nu Koi Itela.
-3- Hoi Zainab Sham Dafan Qum Shehar Che Masooma.
-Yasrab Wich Sughra Nu Dukh Veer Da Mar Gaya.
+۲
+سفراں وچ رل گئی اے تیرے بابے دی جائی
+میرا وقت اَخیری اے دیوے ویر نوں کوئی اطلاع
+ہوئی زینب شام دفن قم شہر چ معصومہ
+یثرب وچ صغریٰ نوں دکھ ویر دا مار گیا
 
-3
-4- Main Syed Zadi Haan Koi Mehram Nahin Mera.
-Ayeh Bhain Di Hasrat Aye Aa Meri Qabar Bana.
-5- Pardais De Wich Kali Dhi Mosa Kazim Di.
-Baghdad, Najaf Karbal Chad Aaye Sab Baqiya.
+۳
+میں سید زادی ہاں کوئی محرم نہیں میرا
+ایہہ بھین دی حسرت اے آ میری قبر بنا
+پردیس دے وچ کلی دھی موسیٰ کاظم دی
+بغداد، نجف کربل چھڈ آئے سب بقیع
 
-4
-6- Farmaya Maula Main Ohdi Janat Da Zamin.
-Meri Bhain Masooma Nu Jehra Deway Ga Pursa.
-7- Kuj Dair Di Dunya Te Mehman Haan Main Veran.
- Sajjad, Masooma Kehway Mainu Veran Aa Dafna.
+۴
+فرمایا مولا میں اوہدی جنت دا ضامن
+میری بھین معصومہ نوں جیہڑا دیوے گا پرسا
+کجھ دیر دی دنیا تے مہمان ہاں میں ویراں
+سجاد، معصومہ کہوے مینوں ویراں آ دفنا

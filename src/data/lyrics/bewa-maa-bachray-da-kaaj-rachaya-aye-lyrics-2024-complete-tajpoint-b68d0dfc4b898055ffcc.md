@@ -1,31 +1,52 @@
 ---
-title: "Bewa Maa Bachray Da Kaaj Rachaya Aye Lyrics 2024 Complete"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بیوہ ماں بچڑے دا کاج رچایا اے"
+alternateTitle: "Bewa Maa Bachray Da Kaaj Rachaya Aye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Bewa maa bachray da kaaj rachaya aye
+  Odhay sadqay haye kul nabiyaan da sarmaya aye
+
+  1
+  Kadi bachray nu wich maqtal de nayi tordiyan mawaan
+  Rab janrey kiwein laindiyaan ne putraan de baaj sahwaan
+  Ro aakhay haye kisay putar nu aynj parnaya aye
+  Jiday sehrey de phul sajray ne haye mariya hazaran
+
+  2
+  Teri lash taun Qasim bachra apni main jan waraan
+  Tere te haye nayi taras kisay nu aaya aye
+  Main leh gaya waan zeen utton apna farz nibhaya
+  Taqseem ho ke wich Karbal babay nu aye wikhaya
+
+  3
+  Zahra de haye bachray mainu jholi paya aye
+  Aynj mariya musalmana tareekh ne wikhaya
+  Qurban karan layi mawaan putraan nu aye sajaya
+  Qasim nu haye Farwa ne sehra laya aye
 ---
 
-Bewa Maa Bachray Da Kaaj Rachaya Aye.
-Odhay Sadqay Haye Kul Nabiyaan Da Sarmaya Aye.
+بیوہ ماں بچڑے دا کاج رچایا اے
+اوہدے صدقے ہائے کل نبیاں دا سرمایہ اے
 
-1
-Kadi Bachray Nu Wich Maqtal De Nayi Tordiyan Mawaan.
-Rab Janrey Kiwein Laindiyaan Ne Putraan De Baaj Sahwaan.
-Ro Aakhay Haye Kisay Putar Nu Aynj Parnaya Aye.
-Jiday Sehrey De Phul Sajray Ne Haye Mariya Hazaran.
+۱
+کدی بچڑے نوں وچ مقتل دے نئیں ٹوردیاں ماواں
+رب جانڑے کیویں لیندیاں نے پتراں دے باج ساہواں
+رو آکھے ہائے کسے پتر نوں اینج پرنایا اے
+جیدے سہرے دے پھل سجرے نے ہائے ماریا ہزاراں
 
-2
-Teri Lash Taun Qasim Bachra Apni Main Jan Waraan.
-Tere Te Haye Nayi Taras Kisay Nu Aaya Aye.
-Main Leh Gaya Waan Zeen Utton Apna Farz Nibhaya.
-Taqseem Ho Ke Wich Karbal Babay Nu Aye Wikhaya.
+۲
+تیری لاش توں قاسم بچڑا اپنی میں جان واراں
+تیرے تے ہائے نئیں ترس کسے نوں آیا اے
+میں لہہ گیا واں زین اتوں اپنا فرض نبھایا
+تقسیم ہو کے وچ کربل بابے نوں اے وکھایا
 
-3
-Zahra De Haye Bachray Mainu Jholi Paya Aye.
-Aynj Mariya Musalmana Tareekh Ne Wikhaya.
-Qurban Karan Layi Mawaan Putraan Nu Aye Sajaya.
-Qasim Nu Haye Farwa Ne Sehra Laya Aye.
+۳
+زہرا دے ہائے بچڑے مینوں جھولی پایا اے
+اینج ماریا مسلمانا تاریخ نے وکھایا
+قربان کرن لئی ماواں پتراں نوں اے سجایا
+قاسم نوں ہائے فروہ نے سہرا لایا اے

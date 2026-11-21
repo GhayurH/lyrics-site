@@ -1,35 +1,60 @@
 ---
-title: "Jab Kar Chukey Jahan Se Safar Aakhri Rasool"
+title: "جب کر چکے جہاں سے سفر آخری رسول"
+alternateTitle: "Jab Kar Chukey Jahan Se Safar Aakhri Rasool"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akhtar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab kar chukey jahan se safar aakhri Rasool
+  Badli hawa keh deen ke badlay gaye usool
+  Samjhay na baat sarway chaman ki kabhi babool
+  Na jins kar sakay na Nabi ka asar qabool
+
+  2
+  Kuch loag ghar Nabi ka jalanay tu aa gaye
+  Pocha magar kissi ne na hal-e-dil-e-Batool
+  Islam ka kissi tarha pardah bacha rahe
+  Zainab ki qaid Abid-e-beemar ko qabool
+
+  3
+  Darbar-e-Meer-e-Sham mein Bint-e-Ali na thi
+  Baloon se munh ko dhanp ke roti rahi Batool
+  Allah ki kitab ko kafi samajh liya
+  Farman-e-Mustafa ko gaye loag jald bhool
+
+  4
+  Do nazriyon ke naam hain Shabeer our Yazid
+  Karb-o-Bala ki jang mein lartay rahe usool
+  Akhtar kuch our mang le sodagari na kar
+  Silla e gham-e-Hussain mein janat na kar qabool
 ---
 
-1
-Jab Kar Chukey Jahan Se Safar Aakhri Rasool.
-Badli Hawa Keh Deen Ke Badlay Gaye Usool.
-Samjhay Na Baat Sarway Chaman Ki Kabhi Babool.
-Na Jins Kar Sakay Na Nabi Ka Asar Qabool.
+۱
+جب کر چکے جہاں سے سفر آخری رسول
+بدلی ہوا کہ دین کے بدلے گئے اصول
+سمجھے نہ بات سروِ چمن کی کبھی ببول
+ناجنس کر سکے نہ نبی کا اثر قبول
 
-2
-Kuch Loag Ghar Nabi Ka Jalanay Tu Aa Gaye.
-Pocha Magar Kissi Ne Na Hal-e-Dil-e-Batool.
-Islam Ka Kissi Tarha Pardah Bacha Rahe.
-Zainab Ki Qaid Abid-e-Beemar Ko Qabool.
+۲
+کچھ لوگ گھر نبی کا جلانے تو آ گئے
+پوچھا مگر کسی نے نہ حالِ دلِ بتول
+اسلام کا کسی طرح پردہ بچا رہے
+زینب کی قید عابدِ بیمار کو قبول
 
-3
-Darbar-e-Meer-e-Sham Mein Bint-e-Ali Na Thi.
-Baloon Se Munh Ko Dhanp Ke Roti Rahi Batool.
-ALLAH Ki Kitab Ko Kafi Samajh Liya.
-Farman-e-Mustafa Ko Gaye Loag Jald Bhool.
+۳
+دربارِ میرِ شام میں بنتِ علی نہ تھی
+بالوں سے منہ کو ڈھانپ کے روتی رہی بتول
+اللہ کی کتاب کو کافی سمجھ لیا
+فرمانِ مصطفیٰ کو گئے لوگ جلد بھول
 
-4
-Do Nazriyon Ke Naam Hain Shabeer Our Yazid.
-Karb-o-Bala Ki Jang Mein Lartay Rahe Usool.
- Akhtar Kuch Our Mang Le Sodagari Na Kar.
-Silla e Gham-e-Hussain Mein Janat Na Kar Qabool.
+۴
+دو نظریوں کے نام ہیں شبیر اور یزید
+کرب و بلا کی جنگ میں لڑتے رہے اصول
+اختر کچھ اور مانگ لے سوداگری نہ کر
+صلۂ غمِ حسین میں جنت نہ کر قبول

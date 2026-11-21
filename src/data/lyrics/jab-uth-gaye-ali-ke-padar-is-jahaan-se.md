@@ -29,10 +29,10 @@ romanLyrics: |-
   Sab pursa do Nabi pe qayaamat guzar gayi
 
   3
-  Wo abd-e-khaas Baari-e-Taala nahiṅ raha
+  Wo abd-e-khaas Baari-e-Ta'aalaa nahiṅ raha
   Makka ki waadiyoṅ ka ujaala nahiṅ raha
   Jis ne Nabi-e-Haq ko sambhaala nahiṅ raha
-  Haye haye Nabi ka paalne waala nahiṅ raha
+  Haaye haaye Nabi ka paalne waala nahiṅ raha
   Daada ke baad jis ne Nabi ko sambhaala tha
   Wo jis ne baap ban ke Muhammad ko paala tha
 
@@ -40,12 +40,12 @@ romanLyrics: |-
   Jis ne kiye Rasul pe ehsaan mar gaye
   Din-e-Khuda ke the jo nigehbaan mar gaye
   Sad haif Mustafa ke chacha jaan mar gaye
-  Haiṅ muztarib Rasul ke Imran mar gaye
-  Sar par uraao khaak ke Haidar malul haiṅ
-  Ru chacha ke gham meiṅ Payambar malul haiṅ
+  Haiṅ muztarib Rasul keh Imran mar gaye
+  Sar par uraao khaak keh Haidar malul haiṅ
+  Ro chacha ke gham mein Payambar malul haiṅ
 
   5
-  Sine pe jo ke apne Nabi ko sulaata tha
+  Sine pe jo keh apne Nabi ko sulaata tha
   Betoṅ se barh ke naaz jo un ke uthaata tha
   Har dam Nabi ko garm hawa se bachaata tha
   Khud bhuka reh ke khaana Nabi ko khilaata tha
@@ -54,11 +54,11 @@ romanLyrics: |-
 
   6
   Dekha jo aaṅkh khol ke baaba na sar pe the
-  Tha bachpana ke maaṅ bhi gayiṅ is jahaan se
-  Thi aath saal umr ke daada chale gaye
-  Naazo nam se paala chacha jaan ne jise
-  Haye haye jahaan se wo chacha jaan chale gaye
-  Aayi nida-e-ghaib ke Imran chale gaye
+  Tha bachpana keh maaṅ bhi gayiṅ is jahaan se
+  Thi aath saal umr keh daada chale gaye
+  Naaz o nam se paala chacha jaan ne jise
+  Haaye haaye jahaan se wo chacha jaan chale gaye
+  Aayi nida-e-ghaib keh Imran chale gaye
 ---
 
 ۱

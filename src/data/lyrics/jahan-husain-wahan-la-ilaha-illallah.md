@@ -1,7 +1,7 @@
 ---
 title: "جہاں حسین وہاں لا إله إلا الله"
 recitationId: "jahan-hussain-wahan-la-ilaha-illallah"
-alternateTitle: "Jahaṅ Husain Wahaṅ La Ilaha Illallah"
+alternateTitle: "Jahaaṅ Husain Wahaaṅ La Ilaha Illallah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,47 +11,47 @@ aliases:
   - "Jahan Husain Wahan La Ilaha Illallah"
 published: true
 romanLyrics: |-
-  La ilaha illa Allah, La ilaha illa Allah
-  La ilaha illa Allah, La ilaha illa Allah
+  Laa ilaaha illa Allaah, Laa ilaaha illa Allaah
+  Laa ilaaha illa Allaah, Laa ilaaha illa Allaah
 
-  Na puchiye hai kahaṅ La ilaha illa Allah
-  Jahaṅ Husain wahaṅ La ilaha illa Allah
+  Na puchhiye hai kahaaṅ Laa ilaaha illa Allaah
+  Jahaaṅ Husain wahaaṅ Laa ilaaha illa Allaah
 
   1
-  Ali ki tegh se tarikh puchiye sab ki
-  Parha tha kis ne kahaṅ La ilaha illa Allah
+  Ali ki tegh se taarikh puchhiye sab ki
+  Parha tha kis ne kahaaṅ Laa ilaaha illa Allaah
 
   2
-  Agar wilayat-e Haider nahiṅ hai kalma meiṅ
-  To phir hai wahm o gumaṅ La ilaha illa Allah
+  Agar wilaayat-e-Haider nahiṅ hai kalma mein
+  To phir hai wahm o gumaaṅ Laa ilaaha illa Allaah
 
   3
-  Ali ko dil meiṅ basa kar to dekh lo ae waiz
-  To khud kahegi zabaṅ La ilaha illa Allah
+  Ali ko dil mein basa kar to dekh lo ae waaiz
+  To khud kahegi zabaaṅ Laa ilaaha illa Allaah
 
   4
-  Nasiriyoṅ ko yaqiṅ La ilaha illa Ali
-  Hai Muslimoṅ ko gumaṅ La ilaha illa Allah
+  Nusairiyoṅ ko yaqiṅ Laa ilaaha illaa Ali
+  Hai Muslimoṅ ko gumaaṅ Laa ilaaha illa Allaah
 
   5
-  Jise nasib nahiṅ hubb-e Ahl-e Bait-e Rasul
-  Use nasib kahaṅ La ilaha illa Allah
+  Jise nasib nahiṅ hubb-e-Ahl-e-Bait-e-Rasul
+  Use nasib kahaaṅ Laa ilaaha illa Allaah
 
   6
-  Husain zinda hai jab tak zamana baqi hai
-  Kahaṅ Yazid kahaṅ La ilaha illa Allah
+  Husain zinda hai jab tak zamaana baaqi hai
+  Kahaaṅ Yazid kahaaṅ Laa ilaaha illa Allaah
 
   7
-  Pata Khuda ka batate agar na Aal-e Nabi
-  Azaan meiṅ tha kahaṅ La ilaha illa Allah
+  Pata Khudaa ka bataate agar na Aal-e-Nabi
+  Azaan mein tha kahaaṅ Laa ilaaha illa Allaah
 
   8
-  Azaan meiṅ Ali Akbar ne La ilaha illa Allah kaha
-  To aaj tak hai jawaaṅ La ilaha illa Allah
+  Azaan mein Ali Akbar ne Laa ilaaha illa Allaah kaha
+  To aaj tak hai jawaaṅ Laa ilaaha illa Allaah
 
   9
-  Dar-e Batul nahiṅ jal raha tha ae Majid
-  Woh ho raha tha dhuaṅ La ilaha illa Allah
+  Dar-e-Batul nahiṅ jal raha tha ae Maajid
+  Woh ho raha tha dhuaaṅ Laa ilaaha illa Allaah
 ---
 
 لا إله إلا الله لا إله إلا الله

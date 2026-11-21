@@ -10,49 +10,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya fatema zahra
+  Ya Fatema Zahra
 
   1
-  Ya zahra
-  Maadar do jahaṅ fatema jaaṅ dil bado basti
-  Mohibbaane do hasti
-  Ae umme abiha ae umme faqiha
-  E umme abiha bajaza baghair e dasti
-  Mohibbaane do hasti
-  Umid e shifa zi tu hai fatema zahra
-  Khatun e jina waaris e tathir sarapa
-  Ashraaf e nisa aks e nabi aks e khudaija
-  Mizan e wafa ruh e dua fatema zahra
+  Ya Zahra
+  Maadar-e do jahaaṅ, Fatema jaaṅ, dil ba do basti
+  Mohibbaan-e do hasti
+  Ae Umm-e Abiha, ae Umm-e Faqiha
+  Ae Umm-e Abiha bajuz baghair-e dasti
+  Mohibbaan-e do hasti
+  Ummid-e shifa zi tu hai Fatema Zahra
+  Khatun-e jinaaṅ, waaris-e tathir saraapa
+  Ashraaf-e nisa, aks-e Nabi, aks-e Khadija
+  Mizaan-e wafa, ruh-e dua, Fatema Zahra
 
   2
-  Uftaad dar e khaana tora pehlu shakista
-  Ummat ne tera haq na diya fatema zahra
-  Mohsin ki shahadat ka sabab ban gayi dunya
-  Wirsa hai tera ashk e aza fatema zahra
+  Uftaad dar-e khaana, tora pehlu shikasta
+  Ummat ne tera haq na diya Fatema Zahra
+  Mohsin ki shahaadat ka sabab ban gayi duniya
+  Wirsa hai tera ashk-e aza Fatema Zahra
 
   3
-  E ashk fishaṅ baad e nabi binte payambar
-  Tha sog meiṅ baba ke azakhana tera ghar
-  Rote the tere saath ali sarwar o shabbar
-  Ae khasta jigar mehwe buka fatema zahra
+  Ae ashk-fishaaṅ baad-e Nabi, bint-e Payambar
+  Tha sog meiṅ Baba ke azakhaana tera ghar
+  Rote the tere saath Ali, Sarwar o Shabbar
+  Ae khasta-jigar, mahv-e buka, Fatema Zahra
 
   4
-  Dar karbobala tishna labi tere pisar ki
-  Taraaji hui kis tarha zahra tere ghar ki
-  begor o kafan laash rahi nur-e-nazar ki
-  Aalam ba khuda sog meiṅ tha fatema zahra
+  Dar Karb o Bala tishna labi tere pisar ki
+  Taaraaji hui kis tarah Zahra tere ghar ki
+  Be gor o kafan laash rahi nur-e nazar ki
+  Aalam ba Khuda sog meiṅ tha Fatema Zahra
 
   5
-  Bacchoṅ pe tere fauje sitamgaar ki yalghaar
-  Zanjir bakaf tauq e garaṅ abid e bemaar
-  Darbare alam qaide sitam dukhtare ghamkhwar
-  Aada ke sitam kunba tera fatema zahra
+  Bachchoṅ pe tere fauj-e sitamgaar ki yalghaar
+  Zanjir ba kaf, tauq-e garaaṅ, aabid-e bimaar
+  Darbaar-e aalam, qaid-e sitam, dukhtar-e ghamkhwaar
+  Aadaa ke sitam, kunba tera Fatema Zahra
 
   6
-  E sarwar o rehaan sar e majlis e shabbir
-  Jab fatema hoti hai dilafgaar o gulu gir
-  Manzar wo kahaṅ tak koi kar sakta hai tehrir
-  Rota hai qalam likh ke sada fatema zahra
+  Ae Sarwar o Rehaan, sar-e majlis-e Shabbir
+  Jab Fatema hoti hai dilfigaar o gulu gir
+  Manzar woh kahaaṅ tak koi kar sakta hai tahrir
+  Rota hai qalam likh ke sada Fatema Zahra
 ---
 
 یا فاطمہ زہرا

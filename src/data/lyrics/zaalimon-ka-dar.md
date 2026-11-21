@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Sadaaeṅ de rahi hai aaj tak ye Karbala
-  Husain tum nahiṅ rahe tumhara ghar nahiṅ raha
+  Husain tum nahiṅ rahe tumhare ghar nahiṅ raha
   Magar tumhare baad zaalimoṅ ka dar nahiṅ raha
 
   1
@@ -30,9 +30,9 @@ romanLyrics: |-
 
   3
   Ghazab tha wo sabaat o azm raah meiṅ ruke nahiṅ
-  Bas apni ek baat pe date rahe jhuke nahiṅ
-  Muarrikhoṅ ne jo likha wo lafz bhi mite nahiṅ
-  Mayaan-e-Karbala kisi ye jigar nahiṅ raha
+  Bas apni ek baat pe dete rahe jhuke nahiṅ
+  Muarriqoṅ ne jo likha wo lafz bhi mite nahiṅ
+  Miyaan-e-Karbala kisi ye jigar nahiṅ raha
 
   4
   Tumhari baat ka asar jo Hur ke dil pe ho gaya
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Kisi ne Hur ko dur se bas ek dikha diya diya
-  Ye kaar-e-khair tha ke qalb meiṅ jala diya diya
+  Ye kaar-e-khaatir tha ke qalb meiṅ jala diya diya
   Ajib tarz-e-imtehaan tha Ali ke laal ka
   Kabhi jala diya diya kabhi bujha diya diya
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   9
   Bata rahe haiṅ Safdar aur Mazhar Abidi yehi
   Husain ke hi dam se aaj ho rahi hai zindagi
-  Namaaz kalma o azaan sab ne paai zindagi
+  Namaaz kalima o azaan sab ne paai zindagi
   Kisi Yazid ka asar kisi ka dar nahiṅ raha
 ---
 صدائیں دے رہی ہے آج تک یہ کربلا

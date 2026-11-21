@@ -9,52 +9,78 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab rida sar se chini mai sada deti rahi
+  Haae mere Abbaas, haae mere Abbaas
 
   1
+  Jab rida sar se chhini
+  Main sada deti rahi
   Tu na aaya Ghazi
-  Aale imran kahan aur zindaa kahan
-  Ye behan qaid hui tu na aaya Ghazi
+  Aal-e-Imran kahaaṅ, aur zindaan kahaaṅ
+  Ye behan qaid hui, tu na aaya Ghazi
 
   2
-  Humko pani na milay, teri khusboo to rahe
-  Tere baazu na kate, chahe mashkeeza chiday
-  Ye magar ho na saka, tere baazu hai juda
-  Mujhpe hai tashalabi, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Hum ko paani na mile, teri khushbu to rahe
+  Tere baazu na kateṅ, chaahe mashkiza chhide
+  Ye magar ho na saka, tere baazu haiṅ juda
+  Hum pe hai tishna labi, tu na aaya Ghazi
 
   3
-  Dhoop may tu tha shajar, tujhse aabaad tha ghar
-  Hai barehna mera sar, kya nahi tujhko khabar
-  Ay alamdare wafa, is behan ko ba-khuda
-  Tujhse dhaaras thi badi, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Dhup mein tu tha shajar, tujh se aabaad tha ghar
+  Hai barehna mera sar, kya nahiṅ tujh ko khabar
+  Ae alamdaar-e-wafa, is behan ko ba khuda
+  Tujh se dhaaras thi bari, tu na aaya Ghazi
 
   4
-  Aagayi shame-alam, lutgaye ahle haram
-  Rayt par jalti huvi, hogaya thanda alam
-  Pursa dene ke liye, mujhse milne ke liye
-  Aagaye baba ali, tu na aaya Ghazi
-  Kya kahoo sher mere, berida humko liye
-  Ye musalman saare, shehr dar shehr gaye
-  Khilqate koofa kabhi, khilqate shaam kabhi
-  Aur haa hum pe hasi, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Aa gai shaam-e-alam, lut gae ahl-e-haram
+  Ret par jalti hui, ho gaya thanda alam
+  Pursa dene ke liye, tujh se milne ke liye
+  Aa gae Baba Ali, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Kya kahuṅ sher mere, berida hum ko liye
+  Ye musalmaaṅ saare, shehr dar shehr gae
+  Khilqat-e-Kufa kabhi, khilqat-e-Shaam kabhi
+  Baar haa hum pe hansi, tu na aaya Ghazi
 
   5
-  Kitni bebas thi behan, ay shehenshahe wafa
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Kitni bebas thi behan, ae shahanshaah-e-wafa
   Naam le le ke mera, jab ye zaalim ne kaha
-  Naaz tha jispe tujhe, ab bulao na usay
-  Aur mai roti rahi, tu na aaya Ghazi
+  Naaz tha jis pe tujhe, ab bulaao na use
+  Aur main roti rahi, tu na aaya Ghazi
 
   6
-  Qaid-khane may qaza, jab sakina ko mili
-  Deke kurte ka kafan, bachi dafnayi gayi
-  Us ghadi naam tera, surate nade-ali
-  Dukh may dohrati rahi, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Qaid khaane mein khazaaṅ, jab Sakina ko mili
+  De ke kurte ka kafan, bachi dafnaai gai
+  Us ghari naam tera, surat-e-Naad-e-Ali
+  Bas main dohraati rahi, tu na aaya Ghazi
 
   7
-  Roya rehaan qalam, karke ye baat raqam
-  Khoon may doob gaya, mere ghazi ka alam
-  Zakhmi zainab ka jigar, khoon-fishan shaah ka sar
-  Aaye qaimon may shaqi, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
+  Roya Rehaan qalam, kar ke ye baat raqam
+  Khun mein dub gaya, mere Ghazi ka alam
+  Zakhmi Zainab ka jigar, khuṅ fishaaṅ shaah ka sar
+  Aae khaimoṅ mein shaqi, tu na aaya Ghazi
+  Jab rida sar se chhini
+  Main sada deti rahi
+  Tu na aaya Ghazi
 ---
 
 ہاۓ میرے عباسؑ ‘ ہاۓ میرے عباسؑ

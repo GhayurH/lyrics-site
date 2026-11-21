@@ -1,32 +1,53 @@
 ---
-title: "Oss Shaksh Ka Naseeb Na Kyun Ooj Par Mile Naat"
+title: "اس شخص کا نصیب نہ کیوں اوج پر ملے (نعت)"
+alternateTitle: "Oss Shaksh Ka Naseeb Na Kyun Ooj Par Mile Naat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Mumtaz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Oss shaksh ka naseeb na kyun ooj par mile naat
+  Jis ko shaoor e midhat-e-Khair ul Bashar miley
+
+  1
+  Kis ko nahi diyar-e-Madina ki justaju
+  Mere Hazoor mujh ko bhi izn-e-safar miley
+  Ho jaein surkhuru meri sajdah guzariyan
+  Meri jabeen ko kash tera sang-e-dar miley
+
+  2
+  Mujh ko atta ho Buzar-o-Salman jaisa zarf
+  Yeh tu talab nahi hai mujhe same-o-zar miley
+  Hasrat yeh hai Hazoor ke qadmo pe jan doon
+  Yeh ikhteyar maut se pehle agar miley
+
+  3
+  Chashm zadan mein urr ke main jata soye haram
+  Jibreel ki tarha jo mujhe baal-o-par miley
+  Mumtaz tere dar ka gada hai tu phir issay
+  Jo kuch miley Khuda se tere naam par miley
 ---
 
-Oss Shaksh Ka Naseeb Na Kyun Ooj Par Mile Naat.
-Jis Ko Shaoor e Midhat-e-Khair Ul Bashar Miley.
+اس شخص کا نصیب نہ کیوں اوج پر ملے نعت
+جس کو شعورِ مدحتِ خیر البشر ملے
 
-1
-Kis Ko Nahi Diyar-e-Madina Ki Justaju.
-Mere Hazoor Mujh Ko Bhi Izn-e-Safar Miley.
-Ho Jaein Surkhuru Meri Sajdah Guzariyan.
-Meri Jabeen Ko Kash Tera Sang-e-Dar Miley.
+۱
+کس کو نہیں دیارِ مدینہ کی جستجو
+میرے حضور مجھ کو بھی اذنِ سفر ملے
+ہو جائیں سرخرو میری سجدہ گزاریاں
+میری جبیں کو کاش تیرا سنگِ در ملے
 
-2
-Mujh Ko Atta Ho Buzar-o-Salman Jaisa Zarf.
-Yeh Tu Talab Nahi Hai Mujhe Same-o-Zar Miley.
-Hasrat Yeh Hai Hazoor Ke Qadmo Pe Jan Doon.
-Yeh Ikhteyar Maut Se Pehle Agar Miley.
+۲
+مجھ کو عطا ہو بوذر و سلمان جیسا ظرف
+یہ تو طلب نہیں ہے مجھے سیم و زر ملے
+حسرت یہ ہے حضور کے قدموں پہ جاں دوں
+یہ اختیار موت سے پہلے اگر ملے
 
-3
-Chashm Zadan Mein Urr Ke Main Jata Soye Haram.
-Jibreel Ki Tarha Jo Mujhe Baal-o-Par Miley.
- Mumtaz Tere Dar Ka Gada Hai Tu Phir Issay.
-Jo Kuch Miley Khuda Se Tere Naam Par Miley.
+۳
+چشم زدن میں اڑ کے میں جاتا سوئے حرم
+جبریل کی طرح جو مجھے بال و پر ملے
+ممتاز تیرے در کا گدا ہے تو پھر اسے
+جو کچھ ملے خدا سے تیرے نام پر ملے

@@ -14,11 +14,11 @@ published: true
 romanLyrics: |-
   1
   Paakizgi-e-nafs ka unwaan hai Fatima
-  Hasnain aayateiṅ haiṅ to Quraan hai Fatima
+  Hasnain aayateṅ haiṅ to Quraan hai Fatima
   Mushkil Kusha ki zist ka saamaan hai Fatima
   Misaal-e-Ali muhaafiz-e-imaan hai Fatima
   Chaukhat ka jis ki saara zamaana ghulaam hai
-  Beta usi ka ab bhi jahaaṅ ka Imam hai
+  Beta usi ka ab bhi jahaaṅ ka imam hai
 
   2
   Qalb-e-Nabi ki khaas musarrat hai Fatima
@@ -34,12 +34,12 @@ romanLyrics: |-
   Rab ne mubaahale meiṅ pukaara hai Fatima
   Likha hai jo Nabi ne woh paara hai Fatima
   Jis ne parha woh saahib-e-imaan ho gaya
-  Jis ne bhula diya wohi Shaitaan ho gaya
+  Jis ne bhula diya wohi shaitaan ho gaya
 
   4
   Hai Fatima Ali ke iraadoṅ ki pukhtagi
   Imran ke chaman ko bhi bakhshi hai taazgi
-  Karti rahi Ali ki itaaat meiṅ bandagi
+  Karti rahi Ali ki itaat meiṅ bandagi
   Faaqoṅ meiṅ jis ne kaat di khush ho ke zindagi
   Duniya ko sabr o zabt ki taswir de gayi
   Jo Karbala ke waaste Shabbir de gayi
@@ -47,7 +47,7 @@ romanLyrics: |-
   5
   Kaafir bata raha hai musalmaan usi ko tu
   Daulat kade ki jis ke bani Fatima bahu
-  Aangan meiṅ jis ke roz Payambar kareiṅ wuzu
+  Aangan meiṅ jis ke roz Payambar kareṅ wuzu
   Shabbir ki ragoṅ meiṅ hai jis nur ka lahu
   Shabbir haq parastoṅ ke rehbar ka naam hai
   Shabbir anbiya ke muqaddar ka naam hai

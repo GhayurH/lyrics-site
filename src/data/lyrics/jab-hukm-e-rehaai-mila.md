@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Ik ghar bhi muyassar hua tarsida-e-gham ko
-  Us ghar pe lagaaya gaya ik siyaah alam ko
+  Us ghar pe lagaaya ik siyaah alam ko
   Zainab ne kaha rona hai dil khol ke hum ko
   Phir farsh-e-aza mil ke asiroṅ ne bichhaaya
   Aur Shaam ke ghar ghar se pa-e-pursa o girya
@@ -27,7 +27,7 @@ romanLyrics: |-
   Us majlis-e-awwal ki jo awwal thi khatiba
   Ghar bhar ki azaadaar wohi Zainab-e-Kubra
   Khutba parha aaghaaz kiya majlis-e-gham ka
-  Haaye khutba abhi jaari tha ke ik shor sa utha
+  Haaye khutba abhi jaari tha ik shor sa utha
   Ke sar aate haiṅ majlis meiṅ shahidaan-e-sitam ke
 
   3
@@ -46,7 +46,7 @@ romanLyrics: |-
   Shahzaadiyaaṅ rotiṅ hoṅ sage bhaai ko jaise
 
   5
-  Haaye ik chaand sa sar dekha ke jo khun meiṅ tar hai
+  Haaye ik chaand sa sar dekha jo khun meiṅ tar hai
   Sab kehne lage ye kisi naushaah ka sar hai
   Farwa ne kaha haaṅ ye mera lakht-e-jigar hai
   Are Qasim mujhe sehra bhi dikhaane nahiṅ aaye
@@ -57,21 +57,21 @@ romanLyrics: |-
   Zainab ne kaha Aun o Muhammad mere aaye
   Are qurbaan gayi koi meri god meiṅ laaye
   Royi nahiṅ maatam na kiya pyaar to kar luṅ
-  Ae bhaai ijaazat hai inheiṅ aaj to ro luṅ
+  Ae bhaai ijaazat hai inheṅ aaj to ro luṅ
 
   7
   Haaye jaise hi azaakhaane meiṅ Akbar ka sar aaya
   Zainab ne sar-e-Aun o Muhammad ko hataaya
   Aaghosh se bhaabhi ki sar Akbar ka uthaaya
-  Are chillaayi mere laal zara aaṅkheiṅ to kholo
+  Are chillaayi mere laal zara aaṅkheṅ to kholo
   Are Sughra ke liye hai koi paighaam to bolo
 
   8
-  Haaye ik chhote se Sayyid ka jo sar saamne jo aaya
+  Haaye ik chhote se Sayyid ka jo sar saamne aaya
   Munh ashkoṅ se maaṅ ne Ali Asghar ka dhulaaya
   Har Bibi ne us sar ko kaleje se lagaaya
   Are ro ro ke Sakina ko sada deti thi maadar
-  Are aa jaao tumheiṅ dhund raha hai Ali Asghar
+  Are aa jaao tumheṅ dhund raha hai Ali Asghar
 
   9
   Haaye sar aaya wahaaṅ jab Bani Haashim ke qamar ka
@@ -88,7 +88,7 @@ romanLyrics: |-
   Maatam tera is majlis-e-awwal meiṅ bapa hai
 
   11
-  Haaye lute hue asbaab meiṅ jo chizeiṅ mili thiṅ
+  Haaye lute hue asbaab meiṅ jo chizeṅ mili thiṅ
   Saadaat se ye Shaam-e-Gharibaaṅ meiṅ chhini thiṅ
   Tar khun meiṅ do baaliyaaṅ bhi un meiṅ rakhi thiṅ
   Ae Sarwar o Rehaan azaadaari-e-Shah ka

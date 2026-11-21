@@ -8,48 +8,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bolo ahle aza Fatima Fatima
-  Mar gayi Syyeda Fatima Fatima
+  Bolo ahl-e-azaa Fatima Fatima
 
   1
-  Shor girya hai aaj, aale-athaar may
-  Haaye kya hogaya fathima fathima
-  Bolo ehle azaa...
+  Mar gayi Sayyeda Fatima Fatima
+  Shor girya hai aaj, aal-e-athaar meiṅ
+  Haaye kya ho gaya Fatima Fatima
 
   2
-  Hai sirahnay ali, painti betiyaan
-  Hai nabi ki sada fathima fathima
-  Bolo ehle azaa...
+  Hai sirhaane Ali, painti betiyaaṅ
+  Hai Nabi ki sada Fatima Fatima
 
   3
-  Maa ke laashay se hai, bete lipte huye
-  Hai qayamat bapa fathima fathima
-  Bolo ehle azaa...
+  Maaṅ ke laashe se haiṅ, bete lipte hue
+  Hai qayaamat bapa Fatima Fatima
 
   4
-  Haye baad-e-nabi, zulm kya kya hue
-  Aag aur ghar tera fathima fathima
-  Bolo ehle azaa...
+  Haaye baad-e-Nabi, zulm kya kya hue
+  Aag aur ghar tera Fatima Fatima
 
   5
-  Dar giraya gaya, pehlu-e-paak par
-  Tujpe aur yeh jafa fathima fathima
-  Bolo ehle azaa...
+  Dar giraaya gaya, pahlu-e-paak par
+  Tujh pe aur ye jafa Fatima Fatima
 
   6
-  Khatl mohsin hua, badn-e-athar may
-  Zulm kaisa hua fathima fathima
-  Bolo ehle azaa...
+  Qatl Mohsin hua, badan-e-athaar meiṅ
+  Zulm kaisa hua Fatima Fatima
 
   7
-  Haaye kya kya sitam, besabab seh gayi
-  Ay khuda ay khuda fathima fathima
-  Bolo ehle azaa...
+  Haaye kya kya sitam, besabab sah gayi
+  Ae Khuda ae Khuda Fatima Fatima
 
   8
-  Mustarib hai nageen, waqt-e-imdaad hai
-  Hai tera aasra fathima fathima
-  Bolo ehle azaa..
+  Muztarib hai Nagin, waqt-e-imdaad hai
+  Hai tera aasra Fatima Fatima
 ---
 
 بولو اہلِ عزا فاطمہؑ فاطمہؑ

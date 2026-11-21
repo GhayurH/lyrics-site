@@ -1,50 +1,90 @@
 ---
-title: "Bas Woh Hussain Hai"
+title: "بس وہ حسین ہے"
+alternateTitle: "Bas Woh Hussain Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mukhtar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Islam ki ragon mein hai jis ka lahoo rawan
+  Elan jis ki jeet ka karti hai yeh azaan
+
+  1
+  Aisa kkhuda parast nahi kaayenaat mein
+  Toheed ki jo baat kere baat baat mein
+  Noke sinaan bana day jo guldasta-e-azaan
+  Khaimay mein baantta hai jo nuskhay nijaat ke
+
+  2
+  Heeron ko jis ne parkhaa andheray mein raat ke
+  Jis ke bujhe chairag se roshan hai do jahan
+  Aisa nahi hai koi zamane mein den panah
+  Qaim usi ki laa se hai duniya mein lailah
+
+  3
+  Remaniyat milati hai khud jis ki haan mein haan
+  Ho kar jawan boorhay bhi jannat mein jayengay
+  Yeh dekhna jisay ho zara Karbala chalay
+  So saal ke zaeef ko kar day jo nuwjawan
+
+  4
+  Hal min pukarnay lagey jab shah-e-mashreqain
+  Aawaz di saghir ne labaik ya Hussain
+  Jis ki zuban samjhta hai jhulay mein be-zubaan
+  Jis ne jabeen-e-waqt pay daali hain silwatein
+
+  5
+  Toofan jis ki pyaas pay laita hai karvatein
+  Jis ke diye se chalti hain katra ke aandhiyan
+  Jo bakhash day khataien woh ghafar hai yahi
+  Jo aib ko chhupa day woh sitaar hai yahi
+
+  6
+  Hur se gunahgaar ko deta hai jo ammaan
+  Ehley zamana door na jao yahin raho
+  Mukhtar aur Mir Takallum ko dekh lo
+  Gurbat mein baantta hai jo duniya ko shahiyan
 ---
 
-Islam Ki Ragon Mein Hai Jis Ka Lahoo Rawan.
-Elan Jis Ki Jeet Ka Karti Hai Yeh Azaan.
+اسلام کی رگوں میں ہے جس کا لہو رواں
+اعلان جس کی جیت کا کرتی ہے یہ اذاں
 
-1
-Aisa Kkhuda Parast Nahi Kaayenaat Mein.
-Toheed Ki Jo Baat Kere Baat Baat Mein.
-Noke Sinaan Bana Day Jo Guldasta-E-Azaan.
-Khaimay Mein Baantta Hai Jo Nuskhay Nijaat Ke.
+۱
+ایسا خدا پرست نہیں کائنات میں
+توحید کی جو بات کرے بات بات میں
+نوکِ سناں بنا دے جو گلدستۂ اذاں
+خیمے میں بانٹتا ہے جو نسخے نجات کے
 
-2
-Heeron Ko Jis Ne Parkhaa Andheray Mein Raat Ke.
-Jis Ke Bujhe Chairag Se Roshan Hai Do Jahan.
-Aisa Nahi Hai Koi Zamane Mein Den Panah.
-Qaim Usi Ki Laa Se Hai Duniya Mein Lailah.
+۲
+ہیروں کو جس نے پرکھا اندھیرے میں رات کے
+جس کے بجھے چراغ سے روشن ہے دو جہاں
+ایسا نہیں ہے کوئی زمانے میں دیں پناہ
+قائم اسی کی لا سے ہے دنیا میں لا الٰہ
 
-3
-Remaniyat Milati Hai Khud Jis Ki Haan Mein Haan.
-Ho Kar Jawan Boorhay Bhi Jannat Mein Jayengay.
-Yeh Dekhna Jisay Ho Zara Karbala Chalay.
-So Saal Ke Zaeef Ko Kar Day Jo Nuwjawan.
+۳
+رحمانیت ملاتی ہے خود جس کی ہاں میں ہاں
+ہو کر جواں بوڑھے بھی جنت میں جائیں گے
+یہ دیکھنا جسے ہو ذرا کربلا چلے
+سو سال کے ضعیف کو کر دے جو نوجوان
 
-4
-Hal Min Pukarnay Lagey Jab Shah-e-Mashreqain.
-Aawaz Di Saghir Ne Labaik Ya Hussain.
-Jis Ki Zuban Samjhta Hai Jhulay Mein Be-Zubaan.
-Jis Ne Jabeen-e-Waqt Pay Daali Hain Silwatein.
+۴
+ہل من پکارنے لگے جب شاہِ مشرقین
+آواز دی صغیر نے لبیک یا حسین
+جس کی زباں سمجھتا ہے جھولے میں بے زباں
+جس نے جبینِ وقت پہ ڈالی ہیں سلوٹیں
 
-5
-Toofan Jis Ki Pyaas Pay Laita Hai Karvatein.
-Jis Ke Diye Se Chalti Hain Katra Ke Aandhiyan.
-Jo Bakhash Day Khataien Woh Ghafar Hai Yahi
-Jo Aib Ko Chhupa Day Woh Sitaar Hai Yahi.
+۵
+طوفاں جس کی پیاس پہ لیتا ہے کروٹیں
+جس کے دیے سے چلتی ہیں کترا کے آندھیاں
+جو بخش دے خطائیں وہ غفار ہے یہی
+جو عیب کو چھپا دے وہ ستار ہے یہی
 
-6
-Hur Se Gunahgaar Ko Deta Hai Jo Ammaan.
-Ehley Zamana Door Na Jao Yahin Raho.
- Mukhtar Aur:MIR TAKALLUM: Ko Dekh Lo.
-Gurbat Mein Baantta Hai Jo Duniya Ko Shahiyan.
+۶
+حر سے گناہ گار کو دیتا ہے جو اماں
+اہلِ زمانہ دور نہ جاؤ یہیں رہو
+مختار اور میر تکلم کو دیکھ لو
+غربت میں بانٹتا ہے جو دنیا کو شاہیاں

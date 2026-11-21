@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab aayi shaam ki basti meiṅ nange sar zainab
-  Asir o muztar o betaab o nauhagar zainab
-  Moo apna baaloṅ se dhaampe thi oonth par zainab
-  Ye roke kehti thi har dam ba chashme tar zainab
-  Behen husain ki huṅ fatema ki jaayi huṅ
-  Mai karbala e moalla se lut ke aayi huṅ
-  Ujaar maariya meiṅ ho gaya chaman mera
-  Bichar gaya ali akbar sa gul badan mera
+  Jab aayi shaam ki basti meiṅ nange sar Zainab
+  Asir o muztar o betaab o nauhagar Zainab
+  Munh apna baaloṅ se dhaampe thi unt par Zainab
+  Ye roke kehti thi har dam ba chashm-e-tar Zainab
+  Behen Husain ki khuṅ Fatema ki jaayi huṅ
+  Main Karbala-e-Moalla se lut ke aayi huṅ
+  Ujaar Maariya meiṅ ho gaya chaman mera
+  Bichar gaya Ali Akbar sa gul badan mera
   Hua shahid har ek sher saf shikan mera
-  Lahu rulaata hai khud mujhko ye sukhan mera
-  Behen husain ki huṅ...
-  Sakina bibi ne tab haath jor kar ye kaha
-  Sina se dekho to ye zulm ye sitam baba
-  Phupi ke nauhe se dil hota hai taho baala
-  Ke shaam waaloṅ ne mujhko nahi hai pehchana
-  Behen husain ki huṅ...
-  Na koi raah meiṅ aaram hai na soti huṅ
+  Lahu rulaata hai khud mujh ko ye sukhan mera
+  Behen Husain ki huṅ...
+  Sakina Bibi ne tab haath jor kar ye kaha
+  Sinaaṅ se dekho to ye zulm ye sitam Baba
+  Phupi ke nauhe se dil hota hai tah o baala
+  Ke shaam waaloṅ ne mujhko nahiṅ hai pehchaana
+  Behen Husain ki huṅ...
+  Na koi raah meiṅ aaraam hai na soti huṅ
   Tarapti rehti huṅ behaal gham se hoti huṅ
-  Ghame faraaq meiṅ moo aansuoṅ se dhoti huṅ
-  Ye bain karti huṅ aur subho shaam roti huṅ
-  Behen husain ki huṅ...
-  Nahaar oonto ki thaame hai abid e muztar
-  Kahiṅ se aag barasti hai aur kahiṅ pathar
-  Asir e tauq o salasil hai kya kare laaghar
+  Gham-e-firaaq meiṅ munh aansuoṅ se dhoti huṅ
+  Ye bain karti huṅ aur subh shaam roti huṅ
+  Behen Husain ki huṅ...
+  Mahaar untoṅ ki thaame hai Aabid-e-muztar
+  Kahiṅ se aag barasti hai aur kahiṅ patthar
+  Asir-e-tauq o salaasil hai kya kare laaghar
   Wo mar na jaaye kahiṅ mera marsiya sun kar
-  Behen husain ki huṅ...
+  Behen Husain ki huṅ...
   Ye baat shaam ke logoṅ ko kya khabar na hui
   Ke ye jo untoṅ pe aaye hai sar khule qaidi
-  Falak nashiṅ hai in qaidiyoṅ meiṅ har bibi
-  Khudara shaam ke logo ko ye bataye koi
-  Behen husain ki huṅ...
-  Suna hai hoga ta'arruf abhi yahaṅ mera
-  Zamiṅ chupale mujhe ya uthale mujhko khuda
-  Na sun sakungi shaqi ki zabaṅ se naam apna
-  Sunu bhi kaise gawara lahu nahi karta
-  Behen husain ki huṅ...
-  Zamiṅ dabir ki tazmeen hai ye mazhar ki
-  Fughaṅ laboṅ pe hai irfan gham ke manzar ki
-  Azaan e ranjo alam hai ye qalbe muztar ki
-  Sada rulayegi ta hashr binte hyder ki
-  Behen husain ki huṅ...
+  Falak nashiṅ hai in qaidiyoṅ meiṅ har Bibi
+  Khudaara shaam ke logoṅ ko ye bataane koi
+  Behen Husain ki huṅ...
+  Suna hai hoga ta'arruf abhi yahaaṅ mera
+  Zamiṅ chhupa le mujhe ya utha le mujhko Khuda
+  Na sun sakuṅ gi shaqi ki zabaaṅ se naam apna
+  Sunuṅ bhi kaise gawaara lahu nahiṅ karta
+  Behen Husain ki huṅ...
+  Zamiṅ Dabir ki taazim hai ye Mazhar ki
+  Fughaaṅ laboṅ pe hai irfaan gham ke manzar ki
+  Azaan-e-ranj o alam hai ye qalb-e-muztar ki
+  Sada rulaayegi ta hashr bint-e-Haidar ki
+  Behen Husain ki huṅ...
 ---
 
 ۱

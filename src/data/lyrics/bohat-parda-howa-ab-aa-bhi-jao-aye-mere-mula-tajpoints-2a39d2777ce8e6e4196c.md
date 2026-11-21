@@ -1,36 +1,62 @@
 ---
-title: "Bohat Parda Howa Ab Aa Bhi Jao Aye Mere Mula"
+title: "بہت پردہ ہوا اب آ بھی جاؤ اے میرے مولا"
+alternateTitle: "Bohat Parda Howa Ab Aa Bhi Jao Aye Mere Mula"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bohat parda howa ab aa bhi jao aye mere mula
+  Naqab-e-ghaib ko rukh se hatao aye mere mula
+  Yazeedi taqaton ne phir se apna sar uthaya hai
+  Mazar-e-Fatima Zahra ke gunbad ko giraya hai
+  Ali ki taig se un ko mitao aye mere mula
+  Diye hain rone walon ko bare aazar batil ne
+  Azadaron ka jeena kar diya dushwar batil ne
+  Karo imdad lillah aa bhi jao aye mere mula
+  Suna hai raat din ghaib mein tum be-chain hote ho
+  Suna hai sorat-e-Sajjad tum bhi khon rote ho
+  Tum apne gham humein aa kar sunao aye mere mula
+  Sitam ne masjidon ko maqtal-e-insaan banaya hai
+  Jawan-o-kamsin ki hum ne lashon ko uthaya hai
+  Azza khane hain weraan aa bhi jao aye mere mula
+  Shaheed-e-Karbala ke waris-e-dastar tum hi ho
+  Rida-e-Zainab-e-muztar ke matamdardar tum hi ho
+  Chale aao safa-e-matam bichao aye mere mula
+  Chali barchi jab Akbar par wahan mojood tum bhi the
+  Chala jab teer Asghar par wahan mojood tum bhi the
+  Humein bhi dastan-e-gham sunao aye mere mula
+  Yehi Tauqeer tere dar pe karta hai dua mula
+  Humein apne gharane ka sahi arif bana mula
+  Humein apni ziyarat bhi karao aye mere mula
 ---
 
-1
-Bohat Parda Howa Ab Aa Bhi Jao Aye Mere Mula.
-Naqab-e-Ghaib Ko Rukh Se Hatao Aye Mere Mula.
-Yazeedi Taqaton Ne Phir Se Apna Sar Uthaya Hai.
-Mazar-e-Fatima Zahra Ke Gunbad Ko Giraya Hai.
-Ali Ki Taig Se Un Ko Mitao Aye Mere Mula.
-Diye Hain Rone Walon Ko Bare Aazar Batil Ne.
-Azadaron Ka Jeena Kar Diya Dushwar Batil Ne.
-Karo Imdad Lillah Aa Bhi Jao Aye Mere Mula.
-Suna Hai Raat Din Ghaib Mein Tum Be-Chain Hote Ho.
-Suna Hai Sorat-e-Sajjad Tum Bhi Khon Rote Ho.
-Tum Apne Gham Humein Aa Kar Sunao Aye Mere Mula.
-Sitam Ne Masjidon Ko Maqtal-e-Insaan Banaya Hai.
-Jawan-o-Kamsin Ki HUm Ne Lashon Ko Uthaya Hai.
-Azza Khane Hain Weraan Aa Bhi Jao Aye Mere Mula.
-Shaheed-e-Karbala Ke Waris-e-Dastar Tum Hi HO.
-Rida-e-Zainab-e-Muztar Ke Matamdardar Tum Hi HO.
-Chale Aao Safa-e-Matam Bichao Aye Mere Mula.
-Chali Barchi Jab Akbar Par Wahan Mojood Tum Bhi The.
-Chala Jab Teer Asghar Par Wahan Mojood Tum Bhi The.
-Humein Bhi Dastan-e-Gham Sunao Aye Mere Mula.
-Yehi Tauqeer Tere Dar Pe Karta Hai Dua Mula.
-Humein Apne Gharane Ka Sahi Arif Bana Mula.
-Humein Apni Ziyarat Bhi Karao Aye Mere Mula.
+۱
+بہت پردہ ہوا اب آ بھی جاؤ اے میرے مولا
+نقابِ غیب کو رخ سے ہٹاؤ اے میرے مولا
+یزیدی طاقتوں نے پھر سے اپنا سر اٹھایا ہے
+مزارِ فاطمہ زہرا کے گنبد کو گرایا ہے
+علی کی تیغ سے ان کو مٹاؤ اے میرے مولا
+دیے ہیں رونے والوں کو بڑے آزار باطل نے
+عزاداروں کا جینا کر دیا دشوار باطل نے
+کرو امداد للہ آ بھی جاؤ اے میرے مولا
+سنا ہے رات دن غیب میں تم بے چین ہوتے ہو
+سنا ہے صورتِ سجاد تم بھی خون روتے ہو
+تم اپنے غم ہمیں آ کر سناؤ اے میرے مولا
+ستم نے مسجدوں کو مقتلِ انساں بنایا ہے
+جوان و کم سن کی ہم نے لاشوں کو اٹھایا ہے
+عزا خانے ہیں ویراں آ بھی جاؤ اے میرے مولا
+شہیدِ کربلا کے وارثِ دستار تم ہی ہو
+ردائے زینبِ مضطر کے ماتم داردار تم ہی ہو
+چلے آؤ صفِ ماتم بچھاؤ اے میرے مولا
+چلی برچھی جب اکبر پر وہاں موجود تم بھی تھے
+چلا جب تیر اصغر پر وہاں موجود تم بھی تھے
+ہمیں بھی داستانِ غم سناؤ اے میرے مولا
+یہی توقیر تیرے در پہ کرتا ہے دعا مولا
+ہمیں اپنے گھرانے کا صحیح عارف بنا مولا
+ہمیں اپنی زیارت بھی کراؤ اے میرے مولا

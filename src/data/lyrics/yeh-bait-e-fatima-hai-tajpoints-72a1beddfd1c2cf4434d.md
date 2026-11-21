@@ -1,35 +1,60 @@
 ---
-title: "Yeh Bait E Fatima Hai"
+title: "یہ بیتِ فاطمہ ہے"
+alternateTitle: "Yeh Bait-e-Fatima Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ali"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yeh bait e Fatima hai yeh baab e qabool hai
+  Iss dar pe qudsiyoon ka musalsal nazool hai
+  Had-e-adab hai Fatima Zahra ke baab mein
+  Aankhon ke sath dil bhi jhukay yeh usool hai
+
+  2
+  Zahra ke dar ko chor ke janat mein jao gay
+  Jo bhi yeh sochta hai tu oss ki yeh bhool hai
+  Zahra uthaein hath dua ke liye tu phir
+  Darzi ka martaba bhi malak ko qabool hai
+
+  3
+  Allah re Hussain ki madar ki azmatein
+  Har baat Syeda ki Khuda ko qabool hai
+  Jis rastay se jati hain masjid ko Fatima
+  Oss rah mein tu paon ka kanta bhi phool hai
+
+  4
+  Pohanchay na ja ke jo dar-e-bint-e-Rasool tak
+  Hum ko woh rasta na woh manzil qabool hai
+  Midhat hai Fatima ki faqat iss liye Ali
+  Maqsad mera riza-e-Khuda ka hasool hai
 ---
 
-1
-Yeh Bait e Fatima Hai Yeh Baab e Qabool Hai Dr Syed Ali Abbas Rizvi.
-Iss Dar Pe Qudsiyoon Ka Musalsal Nazool Hai.
-Had-e-Adab Hai Fatima Zahra Ke Baab Mein.
-Aankhon Ke Sath Dil Bhi Jhukay Yeh Usool Hai.
+۱
+یہ بیتِ فاطمہ ہے یہ بابِ قبول ہے
+اِس در پہ قدسیوں کا مسلسل نزول ہے
+حدِ ادب ہے فاطمہ زہرا کے باب میں
+آنکھوں کے ساتھ دل بھی جھکے یہ اصول ہے
 
-2
-Zahra Ke Dar Ko Chor Ke Janat Mein Jao Gay.
-Jo Bhi Yeh Sochta Hai Tu Oss Ki Yeh Bhool Hai.
-Zahra Uthaein Hath Dua Ke Liye Tu Phir.
-Darzi Ka Martaba Bhi Malak Ko Qabool Hai.
+۲
+زہرا کے در کو چھوڑ کے جنت میں جاؤ گے
+جو بھی یہ سوچتا ہے تو اُس کی یہ بھول ہے
+زہرا اٹھائیں ہاتھ دعا کے لیے تو پھر
+درزی کا مرتبہ بھی مَلَک کو قبول ہے
 
-3
-ALLAH Re Hussain Ki Madar Ki Azmatein.
-Har Baat Syeda Ki Khuda Ko Qabool Hai.
-Jis Rastay Se Jati Hain Masjid Ko Fatima.
-Oss Rah Mein Tu Paon Ka Kanta Bhi Phool Hai.
+۳
+اللہ رے حسین کی مادر کی عظمتیں
+ہر بات سیدہ کی خدا کو قبول ہے
+جس رستے سے جاتی ہیں مسجد کو فاطمہ
+اُس راہ میں تو پاؤں کا کانٹا بھی پھول ہے
 
-4
-Pohanchay Na Ja Ke Jo Dar-e-Bint-e-Rasool Tak.
-Hum Ko Woh Rasta Na Woh Manzil Qabool Hai.
-Midhat Hai Fatima Ki Faqat Iss Liye Ali.
-Maqsad Mera Riza-e-Khuda Ka Hasool Hai.
+۴
+پہنچے نہ جا کے جو درِ بنتِ رسول تک
+ہم کو وہ رستا نہ وہ منزل قبول ہے
+مدحت ہے فاطمہ کی فقط اِس لیے علی
+مقصد میرا رضائے خدا کا حصول ہے

@@ -14,45 +14,45 @@ romanLyrics: |-
 
   1
   Kya khabar thi tujhe zaalim ki nazar khaayegi
-  Tere sine meiṅ ani barchhi ki dhaar aayegi
+  Tere sine meiṅ ani barchhi ki dhar jaayegi
   Chaand si shakl teri khaak meiṅ mil jaayegi
-  Maut bhi aayegi baali se to sharmaayegi
+  Maut bhi aayegi baali pe to sharmaayegi
   Dur nazroṅ se hue ghar ke ujaale Akbar
 
   2
   Aaye the saath Madine se phuphi ke beta
   Ghir ke is dasht meiṅ ab saath tumhara chhuta
-  Baap majbur hai ke aankh ka taara tuta
-  Haye pardes meiṅ aada ne bhara ghar luta
-  Maa khari roti hai sine se laga le Akbar
+  Baap majbur hai ke aankhoṅ taara tuta
+  Haye pardes meiṅ aadaa ne bhara ghar luta
+  Maaṅ khari roti hai sine se lagaaye Akbar
 
   3
-  Apni taqdir ka tera ye tamaasha dekha
-  Baap ke haathoṅ pe bin-jaaye ka laasha dekha
+  Apni taqdir ka teri ye tamaasha dekha
+  Baap ke haathoṅ pe bin jaaye ka laasha dekha
   Phul qismat meiṅ na the khun ka sehra dekha
-  Maa ki aankhoṅ se woh behta hua darya dekha
-  Teri ghamkhwaar ko ab kaun sambhaale Akbar
+  Maaṅ ki aankhoṅ se woh behta hua darya dekha
+  Teri ghamkhwaar ko ab kaun sambhaaye Akbar
 
   4
   Koi Abbas ko darya se bula le jaa kar
   Ho khabar kaise unheiṅ mar gaye ran meiṅ Akbar
-  Kiuṅ nahi lete khabar ammu ki Aun o Jafar
-  Baap se uthegi kis tarah laash-e-pisar
+  Kiuṅ nahiṅ lete khabar ammu ki Aun o Jafar
+  Baap se uthegi kis tarah se laash-e-pisar
   Kaun baaqi hai jo ab Sheh ko sambhaale Akbar
 
   5
-  Khaime jalte haiṅ nahi koi sahaara beta
+  Khaime jalte haiṅ nahiṅ koi sahaara beta
   Dhal chuki shaam hua shab ka andhera beta
-  Daad-ras koi nahi gham meiṅ hamaara beta
-  Teri furqat meiṅ nahi jina gawaara beta
+  Daad ras koi nahiṅ gham meiṅ hamaara beta
+  Teri furqat meiṅ nahiṅ jina gawaara beta
   Sar se chhinti hai rida aa ke bacha le Akbar
 
   6
-  Haatif-e-ghaibi ki naagah sada ye aayi
+  Haatif-e-ghaibi ki naagah sada pe aayi
   Waqt tha asr ka jab Sheh ne shahaadat paayi
-  Kaisi Anjum ye qayaamat ki ghari thi aayi
+  Kaise Anjum ye qayaamat ki ghari thi aayi
   Laash pe rone ko beta tha na koi bhai
-  Kaun bachoṅ ko bhala aa ke sambhaale Akbar
+  Kaun bachchoṅ ko bhala aa ke sambhaale Akbar
 ---
 
 نوحہ زینبؑ کا تھا اے گیسوؤں والے اکبر

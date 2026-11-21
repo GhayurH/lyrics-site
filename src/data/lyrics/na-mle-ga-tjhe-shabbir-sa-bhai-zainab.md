@@ -9,68 +9,43 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Na milega tujhe shabbir sa bhai zainab
-
+romanLyrics: |-
+  Na mile ga tujhe Shabbir sa bhaai Zainab
 
   1
-
-  Dhoondne jaayegi gar saari khudai zainab
-
+  Dhundne jaaye gi gar saari khudaai Zainab
 
   2
-
-  Apne ashkon se jala shaam-e-ghareeban ke charaag
-
-  Tu hai atthara chirago ki ek-aayi zainab
-
+  Apne ashkoṅ se jala Shaam-e-Gharibaaṅ ke charaagh
+  Tuṅ hai athaara charaaghoṅ ki akaai Zainab
 
   3
-
-  Jaane kya shaam-e-ghareeban my sitam toote hain
-
-  Umr bhar chain se phir so nahi paayi zainab
-
+  Jaane kya Shaam-e-Gharibaaṅ mein sitam tute haiṅ
+  Umr bhar chain se phir so nahiṅ paayi Zainab
 
   4
-
-  Do pisar tunay to do baazu diye ghazi ne
-
-  Pehle to rasmay wafa tune nibhaai zainab
-
+  Do pisar tuṅ ne to do baazu diye Ghazi ne
+  Pehle to rasm-e-wafa tuṅ ne nibhaai Zainab
 
   5
-
-  Surkh yeh kiske lahoo se hui poshaak teri
-
-  Laash kya seenay se akbar ki lagaai zainab
-
+  Surkh ye kis ke lahu se hui poshaak teri
+  Laash kya sine se Akbar ki lagaai Zainab
 
   6
-
-  Pani ko dekh ke kyon kar na jigar tukday ho
-
-  Kha gayi hai tere ghazi ko taraai zainab
-
+  Paani ko dekh ke kiuṅ kar na jigar tukre ho
+  Kha gayi hai tere Ghazi ko taraai Zainab
 
   7
-
-  Haaye kis shaan se nikli thi watan se zainab
-
-  Kaisi ghurbat ko samayte huwe aayi zainab
-
+  Haaye kis shaan se nikli thi watan se Zainab
+  Kaisi ghurbat ko samete hue aayi Zainab
 
   8
-
-  Roohay abbas-e-alamdaar na tadpe kyon kar
-
-  Be-rida shaam ke darbar may aayi zainab
-
+  Ruh-e-Abbas-e-Alamdaar na tarpe kiuṅ kar
+  Berida Shaam ke darbaar mein aayi Zainab
 
   9
-
-  Saare gham bhool gaye sarwar-o-rehaan magar
-
-  Farsh-e-gham hai tere bhaai ki bichai zainab'
+  Saare gham bhul gaye Sarwar o Rehaan magar
+  Farsh-e-gham hai tere bhaai ki bichhaai Zainab
 ---
 
 نہ ملے گا تجھے شبیر سا بھائی زینب

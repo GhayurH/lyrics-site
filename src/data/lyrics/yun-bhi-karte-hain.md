@@ -31,11 +31,11 @@ romanLyrics: |-
   Yuṅ Sakina keh rahi thi laasha-e-beshir se
 
   5
-  Saani-e-Zehra ne logoṅ aap hoke berida
+  Saani-e-Zehra ne logoṅ aap ho ke berida
   Din par saaya kiya hai chaadar-e-tathir se
 
   6
-  Jafari qiyaam namaaz o roza o haj o zakaat
+  Jafari qiyaam namaaz o roza o hajj o zakaat
   Aaj bhi hai Murtaza ke khun ki taasir se
 ---
 یوں بھی کرتے ہیں جدا قرآن کو تفسیر سے

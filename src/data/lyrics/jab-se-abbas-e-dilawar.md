@@ -12,31 +12,31 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab se Abbas-e-dilawar ne uthaya hai alam
+  Jab se Abbas-e-dilawar ne uthaaya hai alam
   Aasmaan kya arsh-e-aala se bhi baala hai alam
 
   1
-  Chaand suraj khud bichhate haiṅ wahaaṅ par roshni
-  Jis jagah barhne raha par aane wala hai alam
+  Chaand suraj khud bichhaate haiṅ wahaaṅ par roshni
+  Jis jagah barhne raha par aane waala hai alam
 
   2
   Kitne maare haiṅ tamaache zulm ke rukhsaar par
-  Saaf wo panja zamane ko dikhata hai alam
+  Saaf wo panja zamaane ko dikhaata hai alam
 
   3
   Hai rasaai arsh-e-aazam tak faqad us haath ki
-  Maatam-e-Shabbir meiṅ jo haath hota hai alam
+  Maatam-e-Shabbir mein jo haath hota hai alam
 
   4
-  De rahi haiṅ ye hawaeiṅ aandhiyaaṅ ban kar sada
-  Saare jhande sar jhuka deṅ aane wala hai alam
+  De rahi haiṅ ye hawaaeiṅ aandhiyaaṅ ban kar sada
+  Saare jhande sar jhuka deṅ aane waala hai alam
 
   5
-  Shah-e-diṅ se berukhi ke jurm meiṅ de kar sada
-  Qaid kar ke mashk meiṅ darya ko laaya hai alam
+  Shaah-e-diṅ se berukhi ke jurm mein de kar sada
+  Qaid kar ke mashk mein darya ko laaya hai alam
 
   6
-  Aa gai khaime ke dar par haath meiṅ kuza liye
+  Aa gai khaime ke dar par haath mein kuza liye
   Jab Sakina ne suna darya se aata hai alam
 
   7
@@ -44,12 +44,12 @@ romanLyrics: |-
   Haaye ye kaisi khabar maqtal se laaya hai alam
 
   8
-  Apne sine se lagaaye mashk ek mazlum ki
+  Apne sine se lagaaye mashk ik mazlum ki
   Tashnagi ki daastaaṅ dohraaye jaata hai alam
 
   9
   Dunya Abbas Gohar jis ke sar ka taaj hai
-  Saad war aisa zamane meiṅ hamara hai alam
+  Saad war aisa zamaane mein hamaara hai alam
 ---
 جب سے عباسِ دلاور نے اُٹھایا ہے علم
 آسمان کیا عرشِ اعلیٰ سے بھی بالا ہے علم

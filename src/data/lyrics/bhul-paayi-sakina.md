@@ -16,7 +16,7 @@ romanLyrics: |-
   Haaṅ Sakina ki hai ye fughaaṅ
 
   1
-  Meri gardan meiṅ baandhi gayi rassiyaaṅ
+  Meri gardan mein baandhi gayi rassiyaaṅ
   Mere kaanoṅ se nochi gayi baaliyaaṅ
   Khun behta raha dard barhta raha
   Taaziyaane lainoṅ ke aur wo jafa
@@ -26,43 +26,43 @@ romanLyrics: |-
   Mujh ko kaantoṅ pe paidal chalaaya gaya
   Baap ka sar dikha kar rulaaya gaya
   Tha wo kaisa safar bibiyaaṅ nange sar
-  Ek ek zakhm se khun behta raha
+  Ek ak zakhm se khun behta raha
 
   3
-  Maiṅ jo royi to mujh ko tamaanche lage
+  Main jo royi to mujh ko tamaanche lage
   Thak ke soyi to Aabid ko durre lage
-  Bich baazaar meiṅ shahr-e-aghyaar meiṅ
+  Bich baazaar mein shahr-e-aghyaar mein
   Haaye saadaat ka jo tamaasha bana
 
   4
-  Bola darbaar meiṅ aa ke yuṅ ek shaqi
-  Tu kanizi meiṅ ja haakim-e-waqt ki
+  Bola darbaar mein aa ke yuṅ ak shaqi
+  Tu kanizi mein ja haakim-e-waqt ki
   Kaisa lamha tha wo kaisa sadma tha wo
-  Ro ke us dam pukaari maiṅ haaye chacha
+  Ro ke us dam pukaari main haaye chacha
 
   5
-  Mere baaba ka sar tasht meiṅ tha rakha
+  Mere baaba ka sar tasht mein tha rakha
   Us se gustaakhiyaaṅ karte the ashqiyaa
   Koi haami na tha kis ko deti sada
   Ek ghayur beti ko ghaiz aa gaya
 
   6
-  Raah meiṅ paani aata mayassar agar
+  Raah mein paani aata mayassar agar
   Daal deti thi Aabid ki zanjir par
-  Har qadam ek jafa rona bhi jurm tha
+  Har qadam ak jafa rona bhi jurm tha
   Darmiyaaṅ Shaamiyoṅ ke thi Aal-e-Aba
 
   7
-  Puchha haakim ne darbaar meiṅ Shimr se
-  In asiroṅ meiṅ bint-e-Ali kaun hai
+  Puchha haakim ne darbaar mein Shimr se
+  In asiroṅ mein Bint-e-Ali kaun hai
   Ro rahi thi phuphi thi wo kaisi ghari
-  Naam phuphiyoṅ ka leta tha wo behaaya
+  Naam phuphiyoṅ ka leta tha wo behaya
 
   8
   Dil pe patthar rakha aur jiti rahi
   Taaziyaane lainoṅ ke sehti rahi
-  Dushmanoṅ ka watan maiṅ asiri mihan
-  Jis jagah ek lamha tha ek saal sa
+  Dushmanoṅ ka watan main asiri mihan
+  Jis jagah ek lamha tha ak saal sa
 
   9
   Kam sini aur asiri wo zindaan ki

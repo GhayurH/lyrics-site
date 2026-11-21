@@ -1,6 +1,6 @@
 ---
 title: "جب شام کے بازار میں سیدانیاں آئی"
-alternateTitle: "Noke Naiza Pe Teharta"
+alternateTitle: "Nok-e-Naiza Pe Thaharta"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,57 +10,57 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab shaam ke bazaar may saydaniya aayi
-  Are chadar ki jagah khaake safar baaloṅ pe laayi
-  Nagaah jab ghazi ki nazar kulsum tak aayi
-  Are sar khaak par abbas ne naize se giraya
-  Darr hai kulsum ke chehre pe na par jaye nazar
-  Noke naiza pe teharta nahi abbas ka sar
+  Jab shaam ke baazaar mein Sayyidaaniyaaṅ aayi
+  Are chaadar ki jagah khaak-e-safar baaloṅ pe laayi
+  Naagaah jab Ghaazi ki nazar Kulsum tak aayi
+  Are sar khaak par Abbas ne naize se giraaya
+  Dar hai Kulsum ke chehre pe na par jaaye nazar
+  Nok-e-naiza pe thaharta nahiṅ Abbas ka sar
 
   1
-  Ek ghaiyur wafadar pe ab aur sitam kya hoga
-  Jiski chadar ka mohafiz tha wohi aaj hui beparda
-  Shaam waloṅ isi ehsaas se douran-e-safar
+  Ek ghayur wafaadaar pe ab aur sitam kya hoga
+  Jiski chaadar ka muhaafiz tha woh hi aaj hui beparda
+  Shaam waaloṅ isi ehsaas se dauraan-e-safar
 
   2
-  Girgayi raah may naaqe se sakina to ye zainab ne kaha
-  Ek chacha aur bhatiji ki mohabat to zara dekh khuda
-  Pushte naaqa pe sambalti nahi sheh ki dukhtar
+  Gir gayi raah mein naaqe se Sakina to yeh Zainab ne kaha
+  Ek chacha aur bhatije ki mohabbat to zara dekh Khuda
+  Pusht-e-naaqa pe sambhalti nahiṅ sheh ki dukhtar
 
   3
-  Shaam ke log tamashayi bane aur tamasha sadaat
-  Bewatan aur khule sar hai sare raah kare kya sadaat
-  Khun aankhoṅ se bahaate shahe jinn o bashar
+  Shaam ke log tamaashaayi bane aur tamaasha Saadaat
+  Bewatan aur khule sar hai sar-e-raah kare kya Saadaat
+  Khun aankhoṅ se bahaate shaah-e-jinn o bashar
 
   4
-  Andhiyon khaak urao ke bane is se haram ka parda
-  Gunji jab shaam ke ghamnaak fazaoṅ may ye zainab ki sada
-  Aasmaaṅ rone laga royi zamiṅ ye keh kar
+  Aandhiyo khaak uraao ke bane is se haram ka parda
+  Gunji jab shaam ki ghamnaak fazaaoṅ mein yeh Zainab ki sada
+  Aasmaaṅ rone laga royi zamiṅ yeh keh kar
 
   5
-  Chasme sajjad se behne lage us waqt lahu ke dhaare
-  Jab ke masum sakina ko sitamgar ne tamache maare
+  Chashm-e-Sajjaad se behne lage us waqt lahu ke dhaare
+  Jab ke maasum Sakina ko sitamgar ne tamaache maare
   Laasha saahil pe tarapta hai udhar aur idhar
 
   6
-  Rone walon sare bazaar khule sar thi ali ki beti
-  Girgarya farqe wafadar jo naize se to hairaaṅ the shaqi
-  Pucha abid se sitamgar ne batao kiun kar
+  Rone waalo sar-e-baazaar khule sar thi Ali ki beti
+  Gir gaya farq-e-wafaadaar jo naize se to hairaaṅ the shaqi
+  Puchha Aabid se sitamgar ne bataao kiunkar
 
   7
-  Saat sadaat ke shehzadi-e-kounain safar karti rahi
-  Nauha karte hai nabi khaak urhate hai hasan aur ali
-  Haye kya waqt hai rote hai sina par sarwar
+  Saath Saadaat ke shehzaadi-e-kaunain safar karti rahi
+  Nauha karte haiṅ Nabi khaak uraate haiṅ Hasan aur Ali
+  Haaye kya waqt rote haiṅ sinaaṅ par Sarwar
 
   8
-  Kabhi laila kabhi farwa kabhi kulsum kahe wawaila
-  Chehra baaloṅ se chupate hue zainab ne yehi roke kaha
-  Amma fizza zara dekho to ye gham ka manzar
+  Kabhi Laila kabhi Farwa kabhi Kulsum kahe waawaila
+  Chehra baaloṅ se chhupaate hue Zainab ne yahi ro ke kaha
+  Ammaaṅ Fizza zara dekho to yeh gham ka manzar
 
   9
-  Nauha likhte huwe irfan ye mazhar ne kaha tha rokar
-  Kaun khirtaas pe la sakta hai aulade payambar ka safar
-  Ro diye qalb o jigar ek hi misra likh kar
+  Nauha likhte hue Irfan yeh Mazhar ne kaha tha ro kar
+  Kaun qirtaas pe la sakta hai aulaad-e-payambar ka safar
+  Ro diya qalb o jigar ek hi misra likh kar
 ---
 جب شام کے بازار میں سیدانیاں آئی
 ارے چادر کی جگہ خاکِ سفر بالوں پہ لائی

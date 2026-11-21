@@ -11,8 +11,8 @@ tags: []
 aliases: ["Bezaban Tadpa"]
 published: true
 romanLyrics: |-
-  Bezabaan tarpa jo kha ke tir-e-sitam ran meiṅ
-  Zamin kaaṅp uthi ro ke aasmaan tarpa
+  Bezabaan tarpa jo khaa ke tir-e-sitam ran meiṅ
+  Zamin kaanp uthi ro ke aasmaan tarpa
 
   1
   Wahaaṅ wahaaṅ pe zamiṅ ran ki laalazaar bani
@@ -24,14 +24,14 @@ romanLyrics: |-
 
   3
   Sawaal-e-aab ka kya khub ye jawaab mila
-  Jo haṅs raha tha wo maasum bezabaan tarpa
+  Jo hans raha tha wo maasum bezabaan tarpa
 
   4
   Haram ko le ke ye naaqe kidhar se ho ke chale
   Ke Ahl-e-Bait-e-Muhammad ka saarbaan tarpa
 
   5
-  Kamaal-e-sabr bhi tha had ki naatawaani bhi
+  Kamaal-e-sabr bhi tha hadd ki naatawaani bhi
   Ke taaziyaana laga aur na naatawaaṅ tarpa
 ---
 بے زبان تڑپا جو کھا کے تیرِ ستم رن میں

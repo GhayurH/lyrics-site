@@ -1,6 +1,6 @@
 ---
 title: "جعفر کا رونے والوں تابوت اُٹھ رہا ہے"
-alternateTitle: "Jafar Ka Rone Waloṅ"
+alternateTitle: "Jafar Ka Rone Waaloṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jafar ka rone waaloṅ tabut uth raha hai
+  Jafar ka rone waaloṅ taabut uth raha hai
 
   1
-  Phir fatema ke ghar meiṅ farsh-e-aza bicha hai
-  Kazim tarap tarap kar ye bain kar rahe hai
-  Afsos mera baba mujh se bichar gaya hai
+  Phir Fatema ke ghar meiṅ farsh-e-aza bichha hai
+  Kaazim tarap tarap kar ye bain kar rahe haiṅ
+  Afsos mera baaba mujh se bichhar gaya hai
 
   2
-  Misle Hasan jigar hai jafar ka tukre tukre
-  Haakim ne zehr haye masum ko diya hai
+  Misl-e-Hasan jigar hai Jafar ka tukre tukre
+  Haakim ne zehr haaye maasum ko diya hai
 
   3
-  Har zulm seh rahe hai jafar imam-e-sadiq
-  Farzande sayyeda par kaisa sitam hua hai
+  Har zulm seh rahe haiṅ Jafar Imaam-e-Saadiq
+  Farzand-e-Sayyeda par kaisa sitam hua hai
 
   4
-  Har zulm kalmago ne sadaat par hai dhaaya
-  Aulaad-e-mustafa par ghurbat ki inteha hai
+  Har zulm kalma go ne saadaat par hai dhaaya
+  Aulaad-e-Mustafa par ghurbat ki intehaa hai
 
   5
-  Qaid-e-sitam meiṅ jafar rote hai shaah-e-din ko
-  Maula ki chashm e tar meiṅ sehra e karbala hai
+  Qaid-e-sitam meiṅ Jafar rote haiṅ shaah-e-din ko
+  Maula ki chashm-e-tar meiṅ sehraa-e-Karbala hai
 
   6
-  Keh do muhib ye jaa kar kam zarf muftiyoṅ se
-  Sab se bari ibadat matam e Husain ka hai
+  Keh do Muhib ye jaa kar kam zarf muftiyoṅ se
+  Sab se bari ibaadat maatam-e-Husain ka hai
 ---
 
 جعفر کا رونے والوں تابوت اُٹھ رہا ہے

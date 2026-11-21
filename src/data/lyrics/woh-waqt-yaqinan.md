@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Woh waqt yaqinan aayega
 
-  Kabhi Ae haqiqat-e-muntazar
+  Kabhi ae haqiqat-e-muntazar
   Nazar aa libaas-e-majaaz meiṅ
   Keh hazaaroṅ sajde tarap rahe haiṅ
   Meri jabin-e-niyaaz meiṅ
@@ -27,13 +27,13 @@ romanLyrics: |-
   Woh waqt yaqinan aayega
 
   2
-  Jis din Sajjad ke ashkoṅ ki taadaad bataai jaayegi
+  Jis din Sajjaad ke ashkoṅ ki taadaad bataai jaayegi
   Aur un ashkoṅ ke badle meiṅ talwaar chalaai jaayegi
   Us sar se jism juda hoga talwaar se jo takraayega
 
   3
   Har ek mazlum ki aas hai yeh hujjat ka shams tulu hoga
-  Phir shaam jigar se utregi Sajjad ka khatm ruku hoga
+  Phir shaam jigar se utregi Sajjaad ka khatm ruku hoga
   Phir nur-e-aman yuṅ phailega har zulm ko raunda jaayega
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
   Tathir ke ghar ki surat phir koi ghar na luta jaayega
 
   5
-  Aabaad baqayya tha jis jaa woh rauza kaise tuta hai
+  Aabaad baqiyya tha jis jaa woh rauza kaise tuta hai
   Kis kis ne yahaaṅ kaise kaise saadaat ke ghar ko luta hai
   Talwaar bataati jaayegi woh khuṅ behta jaayega
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   7
   Phir Ahl-e-Bait Madine meiṅ aabaad kareṅge ghar apna
   Aur leṅge Bani Haashim mil kar kuchh parda daaroṅ ka badla
-  Abbas ki chup bhi tutegi beshir bhi tegh uthaayega
+  Abbaas ki chup bhi tutegi beshir bhi tegh uthaayega
 
   8
   Gohar mulkoṅ ki sarhad se insaan taqsim nahiṅ hoga

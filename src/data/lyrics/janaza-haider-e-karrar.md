@@ -23,11 +23,11 @@ romanLyrics: |-
   Haaye tanhaai ka aalam Shaah ke ghar baar ka
 
   2
-  Zainab o Kulsum kaise dekheṅ gi baaba ka haal
+  Zainab o Kulsum kaise dekhe gi baaba ka haal
   Sar do paara ho chuka hai zakhm hai talwaar ka
 
   3
-  Kehte haiṅ Abbas ro kar ae mere bhaiya Husain
+  Kehte haiṅ Abbaas ro kar ae mere bhaiya Husain
   Ye safar hai aakhri Khaaliq ke roze daar ka
 
   4
@@ -39,7 +39,7 @@ romanLyrics: |-
   Dekha jaaye ga na manzar aakhri didaar ka
 
   6
-  Hazrat-e-Abbas ki chhoti behan behaal hai
+  Hazrat-e-Abbaas ki chhoti behan behaal hai
   Ab yatima hai laqab is kamsin o naachaar ka
 
   7
@@ -51,7 +51,7 @@ romanLyrics: |-
   Yaad us dam aa gaya manzar bhare darbaar ka
 
   9
-  Dafn Majid kar rahe the Murtaza ko jab Hasan
+  Dafn Maajid kar rahe the Murtaza ko jab Hasan
   Haath ubhra qabr se tab Ahmad-e-Mukhtaar ka
 ---
 غل پڑ گیا کہ سید ابرار مر گئے

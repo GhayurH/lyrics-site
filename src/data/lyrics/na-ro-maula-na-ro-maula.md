@@ -9,156 +9,73 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Na Ro Maula Na Ro Maula"
-romanLyrics: 'Minhal Ne Ik Din Aa Ke Kaha.
-
-  Aye Maula Mere Aye Zeen Al Aba.
-
-  Gham Zyada Kahan Guzrey Tum Par.
-
-  Dil Tham Liya Khoon Roney Lagay.
-
+romanLyrics: |-
+  Minhaal ne ik din aa ke kaha
+  Ae Maula mere ae Zain al-Aba
+  Gham zyaada kahaaṅ guzre tum par
+  Dil thaam liya khuṅ rone lage
 
   1
-
-  Khoon Rotay Hoye Bas Itna Kaha.
-
-  Assham Assham Assham.
-
-  Minhal Tarap Kar Kehne Laga.
-
-  Roney Ka Sabab Maula Hai Kya.
-
+  Khuṅ rote hue bas itna kaha
+  Ash-Shaam Ash-Shaam Ash-Shaam
+  Minhaal tarap kar kehne laga
+  Rone ka sabab Maula hai kya
 
   2
-
-  Miras Shahadat Aap Ki Hai.
-
-  Maula Ne Kaha La Raib Magar.
-
-  Uff Tu Ne Nahi Insaf Kiya.
-
-  Beshak Miras Shahadat Hai.
-
+  Miraas-e-shahaadat aap ki hai
+  Maula ne kaha la raib magar
+  Uf tuṅ ne nahiṅ insaaf kiya
+  Beshak miraas-e-shahaadat hai
 
   3
-
-  Yeh Aal-e-Nabi Ki Fitrat Hai.
-
-  Sar Be Pardah Maa Behno Ka.
-
-  Ik Yeh Bhi Meri Miras Thi Kya.
-
-  Assham Assham Assham.
-
+  Yeh aal-e-Nabi ki fitrat hai
+  Sar beparda maaṅ behnoṅ ka
+  Ik yeh bhi meri miraas thi kya
+  Ash-Shaam Ash-Shaam ...
 
   4
-
-  Minhal Main Kaisay Zindah Hoon.
-
-  Pal Pal Jeeta Hoon Marta Hoon.
-
-  Inn Aankhon Ne Jo Kuch Dekha.
-
+  Minhaal main kaise zinda huṅ
+  Pal pal jita huṅ marta huṅ
+  In aaṅkhoṅ ne jo kuchh dekha
 
   5
-
-  Ek ye bhi meri miraas thi kya
-
-  As-shaam as-shaam…
-
-  Kaise bhoolun us manzar ko
-
-  Naize pe phupi ki chadar ko
-
+  Aaghaaz hai Shaam-e-Gharibaaṅ se
+  Khuṅ tapka chashm-e-girya se
+  Behnoṅ ka khula sar saamne tha
 
   6
-
-  Saahil se jo ghazi ne dekha
-
-  Namoose payambar be-chadar
-
+  Kaise bhuluṅ us manzar ko
+  Naize pe phuphi ki chaadar ko
 
   7
-
-  Aagaz Hai Sham-e-Ghareebaan Se.
-
-  Khoon Tapka Chashm-e-Giriyaan Se.
-
-  Behno Ka Khula Sar Samne Tha.
-
-  Ik Yeh Bhi Meri Miras Thi Kiya.
-
+  Saahil se jo Ghazi ne dekha
+  Naamus-e-payambar bechaadar
 
   8
-
-  Kaisay Bholon Oss Manzar Ko.
-
-  Naizay Pe Phophi Ki Chadar Ko.
-
-  Sahil Se Jo Ghazi Ne Dekha.
-
+  Aur sar pe baraste hoṅ patthar
+  Tar khun mein tha sab ka chehra
 
   9
-
-  Namoos-e-Payamber Be Chadar.
-
-  Our Sar Pe Barastay Woh Pathar.
-
-  Tar Khon Mein Tha Sab Ka Chehra.
-
+  Na gham tauq o zanjir ka tha
+  Gham phuphiyoṅ ka hamshir ka tha
+  Baazaar ke gham ne maar diya
 
   10
-
-  Na Gham Tauq-o-Zanjeer Ka Tha.
-
-  Gham Phophiyon Ka Humsheer Ka Tha.
-
-  Bazar Ke Gham Ne Mar Diya.
-
+  Allah mere yeh had-e-sitam
+  Pe rote khare darbaar mein ham
+  Aur takht pe qaatil baitha tha
 
   11
-
-  Allah mere ye hadde sitam
-
-  Peh rote khade darbar mein hum
-
-  Aur taqt pe qaatil baitha tha
-
+  Ik Shaam ka ik zindaan ka gham
+  Maasum si nanhi jaan ka gham
 
   12
-
-  Jo ho na saki marke bhi reha
-
-  Rehaan o sarwar shaam chalo
-
+  Jo ho na saki mar ke bhi riha
+  Rehaan o Sarwar Shaam chalo
 
   13
-
-  ALLAH Mere Yeh Had-e-Sitam.
-
-  Pehron They Kharey Darbar Mein Hum.
-
-  Our Takht Pe Qatil Betha Tha.
-
-
-  14
-
-  Ik Sham Ka Ik Zindan Ka Gham.
-
-  Masoom Si Nanhi Jan Ka Gham.
-
-  Jo Ho Na Saki Mar Ke Bhi Reha.
-
-  Ik Yeh Bhi Meri Miras Thi Kiya.
-
-
-  15
-
-  :REHAN-o-SARWAR: Sham Chalo.
-
-  Our Sham Ki Woh Galiyaan Dekho.
-
-  Beemar Jahan Kehta Hi Raha.'
+  Aur Shaam ki woh galiyaaṅ dekho
+  Bimaar jahaaṅ kehta hi raha
 ---
 
 منہال نے اک دن آ کے کہا

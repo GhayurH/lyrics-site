@@ -1,52 +1,125 @@
 ---
-title: "Bulalo Karbobala Mujhko Haider Rizvi"
+title: "بلا لو کرب و بلا مجھ کو، حیدر رضوی"
+alternateTitle: "Bulalo Karbobala Mujhko Haider Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Haider"
-tags: ["noUrdu"]
+poet: "Haider Rizvi"
 aliases: []
 published: false
+romanLyrics: |-
+  Bola lo Karb-o-Bala mujh ko aik bar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  1
+  Imam ab tu watan mein yeh dil nahi lagta
+  Karam ki aik nazar kar do meri simt zara
+  Hai dil tumhari ziyarat ko be qarrar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  2
+  Main door door se kab tak karon ga tum ko salam
+  Suna hai likhtay hain Abbas zaireen ke naam
+  Main kar raha hoon bulaway ka intezar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  3
+  Yeh manta hoon gunahgar hoon bohat Maula
+  Main jaisa bhi hoon tumhara hoon chahney wala
+  Nahi hai kam mere dil mein tumhara pyar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  4
+  Dua karon ga agar Karbala gaya aik bar
+  Ho kash naam mera aisay zairon mein shumar
+  Woh khush naseeb jo aate hain bar bar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  5
+  Tawaf kartay hain jis pak sehan ka Konain
+  Jo sehan hai dar-e-Ghazi-o-Shah ke ma bain
+  Rahon main ban ke ossi sehan ka ghubar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  6
+  Bola lo unn ko jo rozay pe aa nahi saktay
+  Jo Karbala ki fizaon ko pa nahi saktay
+  Hain jo bhi gardish-e-halaat ka shikar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  7
+  Parhon main noha girey they jahan Ali Akbar
+  Jholaon hathoon se gehwara e Ali Asghar
+  Rawaan ho aankhon se ashkon ka aabshar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  8
+  Katay they bazu-e-Abbas jis jagah Maula
+  Main ho ke chak girebaan wahan parhon noha
+  Ho mera kurta bhi matam se taar taar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
+
+  9
+  Dua yeh hai lab-e- Haider pe aye Shah e wala
+  Hasan ke dil mein bhi arman hai yehi Maula
+  Hamara Karb-o-Bala mein banay mazar Hussain
+  Keh zindagi ka nahi koi aytbar Hussain
 ---
 
-1
-Bulalo Karbobala Mujhko Haider Rizvi.
-Bola Lo Karb-o-Bala Mujh Ko Aik Bar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Imam Ab Tu Watan Mein Yeh Dil Nahi Lagta.
-Karam Ki Aik Nazar Kar Do Meri Simt Zara.
-Hai Dil Tumhari Ziyarat Ko Be Qarrar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Main Door Door Se Kab Tak Karon Ga Tum Ko Salam.
-Suna Hai Likhtay Hain Abbas Zaireen Ke Naam.
-Main Kar Raha Hoon Bulaway Ka Intezar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Yeh Manta Hoon Gunahgar Hoon Bohat Maula.
-Main Jaisa Bhi Hoon Tumhara Hoon Chahney Wala.
-Nahi Hai Kam Mere Dil Mein Tumhara Pyar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Dua Karon Ga Agar Karbala Gaya Aik Bar.
-Ho Kash Naam Mera Aisay Zairon Mein Shumar.
-Woh Khush Naseeb Jo Aate Hain Bar Bar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Tawaf Kartay Hain Jis Pak Sehan Ka Konain.
-Jo Sehan Hai Dar-e-Ghazi-o-Shah Ke Ma Bain.
-Rahon Main Ban Ke Ossi Sehan Ka Ghubar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Bola Lo Unn Ko Jo Rozay Pe Aa Nahi Saktay.
-Jo Karbala Ki Fizaon Ko Pa Nahi Saktay.
-Hain Jo Bhi Gardish-e-Halaat Ka Shikar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Parhon Main Noha Girey They Jahan Ali Akbar.
-Jholaon Hathoon Se Gehwara e Ali Asghar.
-Rawaan Ho Aankhon Se Ashkon Ka Aabshar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Katay They Bazu-e-Abbas Jis Jagah Maula.
-Main Ho Ke Chak Girebaan Wahan Parhon Noha.
-Ho Mera Kurta Bhi Matam Se Taar Taar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
-Dua Yeh Hai Lab-e- Haider Pe Aye Shah e Wala.
- Hasan Ke Dil Mein Bhi Arman Hai Yehi Maula.
-Hamara Karb-o-Bala Mein Banay Mazar Hussain.
-Keh Zindagi Ka Nahi Koi Aytbar Hussain.
+بلا لو کرب و بلا مجھ کو ایک بار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۱
+امام اب تو وطن میں یہ دل نہیں لگتا
+کرم کی ایک نظر کر دو میری سمت ذرا
+ہے دل تمہاری زیارت کو بے قرار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۲
+میں دور دور سے کب تک کروں گا تم کو سلام
+سنا ہے لکھتے ہیں عباس زائرین کے نام
+میں کر رہا ہوں بلاوے کا انتظار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۳
+یہ مانتا ہوں گناہ گار ہوں بہت، مولا
+میں جیسا بھی ہوں تمہارا ہوں چاہنے والا
+نہیں ہے کم میرے دل میں تمہارا پیار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۴
+دعا کروں گا اگر کربلا گیا ایک بار
+ہو کاش نام میرا ایسے زائروں میں شمار
+وہ خوش نصیب جو آتے ہیں بار بار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۵
+طواف کرتے ہیں جس پاک صحن کا کونین
+جو صحن ہے درِ غازی و شاہ کے مابین
+رہوں میں بن کے اسی صحن کا غبار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۶
+بلا لو ان کو جو روضے پہ آ نہیں سکتے
+جو کربلا کی فضاؤں کو پا نہیں سکتے
+ہیں جو بھی گردشِ حالات کا شکار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۷
+پڑھوں میں نوحہ گرے تھے جہاں علی اکبر
+جھلاؤں ہاتھوں سے گہوارۂ علی اصغر
+رواں ہو آنکھوں سے اشکوں کا آبشار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۸
+کٹے تھے بازوئے عباس جس جگہ، مولا
+میں ہو کے چاک گریباں وہاں پڑھوں نوحہ
+ہو میرا کرتا بھی ماتم سے تار تار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین
+
+۹
+دعا یہ ہے لبِ حیدر پہ، اے شاہِ والا
+حسن کے دل میں بھی ارمان ہے یہی، مولا
+ہمارا کرب و بلا میں بنے مزار، حسین
+کہ زندگی کا نہیں کوئی اعتبار، حسین

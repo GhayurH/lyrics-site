@@ -7,6 +7,45 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ye meri kab se hai khwahish ke ae Khuda-e-Husain
+  Main rauza dekh luṅ ja kar agar bulaaye Husain
+
+  1
+  Jo thori saanseṅ miri zindagi ki baaqi haiṅ
+  Main naam un ko bhi kar duṅ faqat baraaye Husain
+
+  2
+  Hameṅ bulaaya hai Maula ne tab hi aaye haiṅ
+  Aza meṅ aa nahiṅ sakte agar na laaye Husain
+
+  3
+  Khuda ke saamne mahshar meṅ surkhru hoga
+  Woh jis ke paas ho ashk-e-gham-e-aza-e-Husain
+
+  4
+  Main raah-e-haq se kabhi bhi bhatak nahiṅ sakta
+  Har ek dharkan-e-dil meṅ miri samaaye Husain
+
+  5
+  Khuda kamaal ko pahuncha de meri khilqat ko
+  Mire khamir ko kar de tu khaak-e-paa-e-Husain
+
+  6
+  Tha khincha Hur ko bahut zulmat-e-samandar ne
+  Magar woh dube hi kaise jise bachaaye Husain
+
+  7
+  Kiya Husain ne woh sab ke jo Khuda ne kaha
+  Khuda bhi ab woh karega ke jo bataaye Husain
+
+  8
+  Woh dozakhi hai yaqinan woh jannati hai yahiṅ
+  Jise giraaye Husain aur jise uthaaye Husain
+
+  9
+  Bahut ujaala har ik simt phaile ga Rizwan
+  Jo ek pal ko hi teri lahad meṅ aaye Husain
 ---
 
 یہ میری کب سے ہے خواہش کہ اے خدائے حسینؑ

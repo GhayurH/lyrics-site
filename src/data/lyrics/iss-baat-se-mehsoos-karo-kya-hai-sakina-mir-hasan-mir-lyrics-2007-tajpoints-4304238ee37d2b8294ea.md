@@ -1,50 +1,90 @@
 ---
-title: "Iss Baat Se Mehsoos Karo Kya Hai Sakina Mir Hasan Mir Lyrics 2007"
+title: "اس بات سے محسوس کرو کیا ہے سکینہ"
+alternateTitle: "Iss Baat Se Mehsoos Karo Kya Hai Sakina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Iss baat se mehsoos karo kya hai Sakina
+  Abbas ke honton ka qaseeda hai Sakina
+
+  1
+  Jo harf-e-sana zehan par utra hai Sakina
+  Abbas-e-alamdar ne bakhsha hai Sakina
+  Aaina-e-Zahra mein jo dekha tera bachpan
+  Har aks pukara keh tu Zahra hai Sakina
+
+  2
+  Jo pyas ke parcham ki alamdar hai ab tak
+  Abbas ki woh pyari Sakina hai Sakina
+  Rad ho nahi sakti woh dua shehar-e-wafa mein
+  Jis harf-e-dua ko tu waseela hai Sakina
+
+  3
+  Abbas ki nazron se koi parh ke tu dekhey
+  Ahsas ki ik nehj-e-balaga hai Sakina
+  Jo mashk mein bhar sakta hai dunya ke samandar
+  Konain mein bas woh tera saqqa hai Sakina
+
+  4
+  Har umar ke Haider ne jholaya tera jhola
+  Yeh aouj faqat tu ne hi paya hai Sakina
+  Daryaon ke lab nook-e-qalam chom rahe hain
+  Main ne abhi likha nahi socha hai Sakina
+
+  5
+  Alfaz ke lashkar meri chokhat pe kharey hain
+  Yeh aap ki midhat ka natija hai Sakina
+  Peshani-e-zindaan pe yeh tehreer hai ab tak
+  Zalim tu fana ho gaya zindah hai Sakina
+
+  6
+  Hai sabar radeef our atash qafia jis ka
+  Rehan ke nohon ka woh misra hai Sakina
+  Rehan ki sorat woh saraf raaz rahe ga
+  Jis ne teri dehleez ko choma hai Sakina
 ---
 
-Iss Baat Se Mehsoos Karo Kya Hai Sakina Mir Hasan Mir
-Abbas Ke Honton Ka Qaseeda Hai Sakina.
+اس بات سے محسوس کرو کیا ہے سکینہ
+عباس کے ہونٹوں کا قصیدہ ہے سکینہ
 
-1
-Jo Harf-e-Sana Zehan Par Utra Hai Sakina.
-Abbas-e-Alamdar Ne Bakhsha Hai Sakina.
-Aaina-e-Zahra Mein Jo Dekha Tera Bachpan.
-Har Aks Pukara Keh Tu Zahra Hai Sakina.
+۱
+جو حرفِ ثنا ذہن پر اترا ہے سکینہ
+عباسِ علمدار نے بخشا ہے سکینہ
+آئینۂ زہرا میں جو دیکھا تیرا بچپن
+ہر عکس پکارا کہ تو زہرا ہے سکینہ
 
-2
-Jo Pyas Ke Parcham Ki Alamdar Hai Ab Tak.
-Abbas Ki Woh Pyari Sakina Hai Sakina.
-Rad Ho Nahi Sakti Woh Dua Shehar-e-Wafa Mein.
-Jis Harf-e-Dua Ko Tu Waseela Hai Sakina.
+۲
+جو پیاس کے پرچم کی علمدار ہے اب تک
+عباس کی وہ پیاری سکینہ ہے سکینہ
+رد ہو نہیں سکتی وہ دعا شہرِ وفا میں
+جس حرفِ دعا کو تو وسیلہ ہے سکینہ
 
-3
-Abbas Ki Nazron Se Koi Parh Ke Tu Dekhey.
-Ahsas Ki Ik Nehj-e-Balaga Hai Sakina.
-Jo Mashk Mein Bhar Sakta Hai Dunya Ke Samandar.
-Konain Mein Bas Woh Tera Saqqa Hai Sakina.
+۳
+عباس کی نظروں سے کوئی پڑھ کے تو دیکھے
+احساس کی اک نہج البلاغہ ہے سکینہ
+جو مشک میں بھر سکتا ہے دنیا کے سمندر
+کونین میں بس وہ تیرا سقّا ہے سکینہ
 
-4
-Har Umar Ke Haider Ne Jholaya Tera Jhola.
-Yeh Aouj Faqat Tu Ne Hi Paya Hai Sakina.
-Daryaon Ke Lab Nook-e-Qalam Chom Rahe Hain.
-Main Ne Abhi Likha Nahi Socha Hai Sakina.
+۴
+ہر عمر کے حیدر نے جھلایا تیرا جھولا
+یہ اوج فقط تو نے ہی پایا ہے سکینہ
+دریاؤں کے لب نوکِ قلم چوم رہے ہیں
+میں نے ابھی لکھا نہیں، سوچا ہے سکینہ
 
-5
-Alfaz Ke Lashkar Meri Chokhat Pe Kharey Hain.
-Yeh Aap Ki Midhat Ka Natija Hai Sakina.
-Peshani-e-Zindaan Pe Yeh Tehreer Hai Ab Tak.
-Zalim Tu Fana Ho Gaya Zindah Hai Sakina.
+۵
+الفاظ کے لشکر مری چوکھٹ پہ کھڑے ہیں
+یہ آپ کی مدحت کا نتیجہ ہے سکینہ
+پیشانیِ زنداں پہ یہ تحریر ہے اب تک
+ظالم تو فنا ہو گیا، زندہ ہے سکینہ
 
-6
-Hai Sabar Radeef Our Atash Qafia Jis Ka.
- Rehan Ke Nohon Ka Woh Misra Hai Sakina.
- Rehan Ki Sorat Woh Saraf Raaz Rahe Ga.
-Jis Ne Teri Dehleez Ko Choma Hai Sakina.
+۶
+ہے صبر ردیف اور آتش قافیہ جس کا
+ریحان کے نوحوں کا وہ مصرع ہے سکینہ
+ریحان کی صورت وہ سرفراز رہے گا
+جس نے تری دہلیز کو چوما ہے سکینہ

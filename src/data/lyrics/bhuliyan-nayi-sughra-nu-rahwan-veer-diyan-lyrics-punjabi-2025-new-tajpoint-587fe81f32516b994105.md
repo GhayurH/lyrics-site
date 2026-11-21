@@ -1,26 +1,42 @@
 ---
-title: "Bhuliyan Nayi Sughra Nu Rahwan Veer Diyan Lyrics Punjabi 2025 New"
+title: "بھلیاں نئیں صغریٰ نوں راہواں ویر دیاں"
+alternateTitle: "Bhuliyan Nayi Sughra Nu Rahwan Veer Diyan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bhuliyan nayi Sughra nu rahwan veer diyan
+  Manzalaan kiniyaan okhiyaan ne humsheer diyaan
+
+  1
+  Akbar te nayi aouna kis nu pochay gi
+  Kehriyan das majboriyaan san takheer diyaan
+  Sughra khab ich veer de sehrey takdi rayi
+  Neziyaan rahwaan rokiyaan ne tabeer diyaan
+
+  2
+  Banwaan de wich lash aye sohne Akbar di
+  Sahwaan kiwein chaldiyan ne Shabbir diyaan
+  Akbar jag te doja Akbar nayi ona
+  Aj taein aykho wajaan ne taqdeer diyaan
 ---
 
-Bhuliyan Nayi Sughra Nu Rahwan Veer Diyan.
-Manzalaan Kiniyaan Okhiyaan Ne Humsheer Diyaan.
+بھلیاں نئیں صغریٰ نوں راہواں ویر دیاں
+منزلاں کنیاں اوکھیاں نیں ہمشیر دیاں
 
-1
-Akbar Te Nayi Aouna Kis Nu Pochay Gi.
-Kehriyan Das Majboriyaan San Takheer Diyaan.
-Sughra Khab Ich Veer De Sehrey Takdi Rayi.
-Neziyaan Rahwaan Rokiyaan Ne Tabeer Diyaan.
+۱
+اکبر تے نئیں آؤنا کس نوں پچھے گی
+کیہڑیاں دس مجبوریاں سن تاخیر دیاں
+صغریٰ خواب وچ ویر دے سہرے تکدی رہی
+نیزیاں راہواں روکیاں نیں تعبیر دیاں
 
-2
-Banwaan De Wich Lash Aye Sohne Akbar Di.
-Sahwaan Kiwein Chaldiyan Ne Shabbir Diyaan.
- Akbar Jag Te Doja Akbar Nayi Ona.
-Aj Taein Aykho Wajaan Ne Taqdeer Diyaan.
+۲
+بانہواں دے وچ لاش اے سوہنے اکبر دی
+ساہواں کیویں چلدیاں نیں شبیر دیاں
+اکبر جگ تے دوجا اکبر نئیں آؤنا
+اج تائیں ایکو واجاں نیں تقدیر دیاں

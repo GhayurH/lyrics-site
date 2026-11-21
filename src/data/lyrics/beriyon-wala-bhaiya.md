@@ -18,17 +18,17 @@ romanLyrics: |-
   Haaṅ yatimi meiṅ mere naaz uthaata bhaiya
 
   2
-  Raah-e-pur khaar meiṅ kuch mujhko aziyat na mili
+  Raah-e-pur khaar meiṅ kuchh mujhko aziyat na mili
   Seh li taklif to lekin meri gardan na khinchi
   Bas yehi soch ke phir sar na uthaaya bhaiya
 
   3
   Pair jalte the mere bhai ke har gaam magar
-  Dhup meiṅ jalti zamiṅ par maiṅ qadam rakhti jidhar
+  Dhup meiṅ jalti zamiṅ par main qadam rakhti jidhar
   Apne saaye se wahaaṅ saaya banaata bhaiya
 
   4
-  Jab tamaache mujhe lagte to wo ruk jaata wahiṅ
+  Jab tamaanche mujhe lagte to wo ruk jaata wahiṅ
   Chhor kar mujhko use durre lagaate the laiṅ
   Durre khud khaa ke mujhe un se bachaata bhaiya
 
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   7
   Baat bas Mesum o Salman ye ehsaas ki hai
-  Yuṅ dua karti thi Shahzaadi rihaai ke liye
+  Yuṅ dua karti thi shahzaadi rihaai ke liye
   Kaise haathoṅ se bandhe qabr banaata bhaiya
 ---
 

@@ -25,9 +25,9 @@ romanLyrics: |-
   Masnad-e-shaadi jo bichhaana
 
   2
-  Baba ki aaghosh meiṅ maiṅ bhi to pali huṅ
-  Bhaiya teri ungli pakar kar maiṅ chali huṅ
-  Kiuṅ maiṅ teri chhaaoṅ se mahrum rahi huṅ
+  Baba ki aaghosh meiṅ main bhi to pali huṅ
+  Bhaiya teri ungli pakar kar main chali huṅ
+  Kiuṅ main teri chhaaoṅ se mahrum rahi huṅ
   Baba ki jab chhaaoṅ meiṅ jaana
 
   3
@@ -38,13 +38,13 @@ romanLyrics: |-
 
   4
   Bhaiya tere baad jo din Id ka aaya
-  Id ke din idi meiṅ gham maiṅ ne hai paaya
+  Id ke din idi meiṅ gham main ne hai paaya
   Mujh ko bhare ghar ki judaai ne rulaaya
   Dukh ye mera sab ko bataana
 
   5
   Sunti huṅ Karbal ki bahut garm hawa hai
-  Amma se kehna ke ye Sughra ne kaha hai
+  Ammaṅ se kehna ke ye Sughra ne kaha hai
   Phul sa Asghar jo mera saath gaya hai
   Dhup se jab us ko bachaana
 
@@ -61,7 +61,7 @@ romanLyrics: |-
   Aas meri tor na jaana
 
   8
-  Amma se kehna ke Sakina ki qasam hai
+  Ammaṅ se kehna ke Sakina ki qasam hai
   Faasla ab qabr se bemaar ka kam hai
   Der na karna ke mere hontoṅ pe dam hai
   Haath dua ko jo uthaana

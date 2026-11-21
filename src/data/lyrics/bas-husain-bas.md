@@ -22,7 +22,7 @@ romanLyrics: |-
   Ab imtihaan khatm hua bas Husain bas
 
   2
-  Roz qalam pe arsh pe rote the Ambiya
+  Roz qalam pe arsh pe rote the ambiya
   Hille meiṅ tir jor raha tha jo Hurmala
   Is imtihaan-e-sabr pe khud maut ne kaha
   Baano ke mah laqa ko bacha bas Husain bas

@@ -14,26 +14,26 @@ romanLyrics: |-
   1
   Sad tehniyat hai aamad Khair-un-Nisa ka jashn
   Dil meiṅ mawaaliyoṅ ke hai husn-e-wila ka jashn
-  Hureiṅ paro ke laai haiṅ gajre durud ke
-  Ghar meiṅ Nabi ke aaj hai sal-e-ala ka jashn
+  Hureiṅ piro ke laai haiṅ gajre durud ke
+  Ghar meiṅ Nabi ke aaj hai salli alaa ka jashn
 
   2
   Hureiṅ behishti aa ke paaye tehniyat tamaam
   Karti haiṅ jhuk ke maadar-e-Zahra ko salaam
-  Haiṅ arsh jaisi sehn Khadija ki raunqeiṅ
+  Haiṅ arsh jaisi sahn Khadija ki raunaqeiṅ
   Bait sharf meiṅ haiṅ mai o akhtar yuṅ khush kharaam
 
   3
   Mastur-e-kaainaat haiṅ mamnun Fatima
   Sharm o haya jahaan meiṅ hai marhun Fatima
   Itrat hai in ki sarwar o sardaar do jahaan
-  Yakta-e-dahr haiṅ dar-e-maknun Fatima
+  Yakta-e-dahr haiṅ durr-e-maknun Fatima
 
   4
   Haiṅ aisi Taahira ke tahaarat nisaar hai
   Saadiqa zaman pe sadaaqat nisaar hai
   Faizaan in ke dar ka Khuda ki sabi khaas
-  Mojaz numa wo haiṅ ke karaamaat nisaar hai
+  Mojaz numa woh haiṅ ke karaamaat nisaar hai
 
   5
   Jo bhi muraadeiṅ dil meiṅ haiṅ sab aaj maang leiṅ

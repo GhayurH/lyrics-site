@@ -1,23 +1,43 @@
 ---
-title: "Na Maar Tamachay Masoom Bhari Hai"
+title: "نہ مار طمانچے معصوم بھری ہے"
+alternateTitle: "Na Maar Tamachay Masoom Bhari Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Na maar tamachay masoom bhari hai
+
+  Shabbir nay naizay peh ik ah ha bhari hain
+
+  1
+  Jo Baba kay seenay kay siva soh bhi na paayi
+  Woh khaakh kay bistaar peh chup chap paari hain
+
+  2
+  Ghazi say kaho ja kay koyi nehar kinaray
+  Masooma kay khaano say durr chini gayi hain
+
+  3
+  Na Shimar chala paye galay paak pay khanjaar
+  Masoom say hatoon say woh rok rahi hain
 ---
 
-Na Maar Tamachay Masoom Bhari Hai.
+نہ مار طمانچے معصوم بھری ہے
 
-Shabbir Nay Naizay Peh Ik Ah Ha Bhari Hain.
+شبیر نے نیزے پہ اک آہ ہا بھری ہیں
 
-Jo Baba Kay Seenay Kay Siva Soh Bhi Na Paayi
-Woh Khaakh Kay Bistaar Peh Chup Chap Paari Hain.
+۱
+جو بابا کے سینے کے سوا سو بھی نہ پائی
+وہ خاک کے بستر پہ چپ چاپ پڑی ہیں
 
-Ghazi Say Kaho Ja Kay Koyi Nehar Kinaray
-Masooma Kay Khaano Say Durr Chini Gayi Hain.
+۲
+غازی سے کہو جا کے کوئی نہر کنارے
+معصومہ کے کانوں سے دُر چھینی گئی ہیں
 
-Na Shimar Chala Paye Galay Paak Pay Khanjaar
-Masoom Say Hatoon Say Woh Rok Rahi Hain.
+۳
+نہ شمر چلا پائے گلے پاک پہ خنجر
+معصوم سے ہاتھوں سے وہ روک رہی ہیں

@@ -1,44 +1,77 @@
 ---
-title: "Jab Choot Ke Kunba Yeh Watan Jaye Ga Asghar"
+title: "جب چھوٹ کے کنبہ یہ وطن جائے گا اصغر"
+alternateTitle: "Jab Choot Ke Kunba Yeh Watan Jaye Ga Asghar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Shahi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Jab choot ke kunba yeh watan jaye ga Asghar
+  Kya Fatima Sughra ko yeh batlaye ga Asghar
+
+  1
+  Behna ko teri khon yeh rulwaye ga Asghar
+  Yadein kabhi jhola tera yaad aaye ga Asghar
+  Badle gi tasawar mein Sakina tere kapre
+  Zindaan mein nazar jab na kahin aaye ga Asghar
+
+  2
+  Maa soch ke yeh roti hai ab kon lahad mein
+  Gesu tere uljhe howay suljhaye ga Asghar
+  Youn bhai behan bichron gaye socha bhi nahi tha
+  Woh qaid mein tu dasht mein reh jaye ga Asghar
+
+  3
+  Kulsoom ko Kubra ko Sakina ko mere lal
+  Zainab ko bhi chuta tera tarpaye ga Asghar
+  Jholay mein na aagosh mein maa ki na behan ki
+  Shabir ke hathon pe sakoon paye ga Asghar
+
+  4
+  Maa kehti thi Shabir se le aaiye Maula
+  Zakhmi hai kahan rait pe so paye ga Asghar
+  Main waqif anjam thi ran jane se pehle
+  Pani tu mile ga nahi mar jaye ga Asghar
+
+  5
+  Jab samne aankhon ke kabhi aaye ga pani
+  Zindaan mein Sakina ko tu yaad aaye ga Asghar
+  Paye ga qarar oss ghari Shahi dil-e-muztar
+  Jab Roza-e-Shabir pe bulwaye ga Asghar
 ---
 
-Jab Choot Ke Kunba Yeh Watan Jaye Ga Asghar.
-Kya Fatima Sughra Ko Yeh Batlaye Ga Asghar.
+جب چھوٹ کے کنبہ یہ وطن جائے گا اصغر
+کیا فاطمہ صغریٰ کو یہ بتلائے گا اصغر
 
-1
-Behna Ko Teri Khon Yeh Rulwaye Ga Asghar.
-Yadein Kabhi Jhola Tera Yaad Aaye Ga Asghar.
-Badle Gi Tasawar Mein Sakina Tere Kapre.
-Zindaan Mein Nazar Jab Na Kahin Aaye Ga Asghar.
+۱
+بہنا کو تیری خون یہ رلوائے گا اصغر
+یادیں کبھی جھولا تیرا یاد آئے گا اصغر
+بدلے گی تصور میں سکینہ تیرے کپڑے
+زنداں میں نظر جب نہ کہیں آئے گا اصغر
 
-2
-Maa Soch Ke Yeh Roti Hai Ab Kon Lahad Mein.
-Gesu Tere Uljhe Howay Suljhaye Ga Asghar.
-Youn Bhai Behan Bichron Gaye Socha Bhi Nahi Tha.
-Woh Qaid Mein Tu Dasht Mein Reh Jaye Ga Asghar.
+۲
+ماں سوچ کے یہ روتی ہے اب کون لحد میں
+گیسو تیرے الجھے ہوئے سلجھائے گا اصغر
+یوں بھائی بہن بچھڑوں گے سوچا بھی نہیں تھا
+وہ قید میں تو دشت میں رہ جائے گا اصغر
 
-3
-Kulsoom Ko Kubra Ko Sakina Ko Mere Lal.
-Zainab Ko Bhi Chuta Tera Tarpaye Ga Asghar.
-Jholay Mein Na Aagosh Mein Maa Ki Na Behan Ki.
-Shabir Ke Hathon Pe Sakoon Paye Ga Asghar.
+۳
+کلثوم کو کبریٰ کو سکینہ کو میرے لال
+زینب کو بھی چھوٹا تیرا تڑپائے گا اصغر
+جھولے میں نہ آغوش میں ماں کی نہ بہن کی
+شبیر کے ہاتھوں پہ سکون پائے گا اصغر
 
-4
-Maa Kehti Thi Shabir Se Le Aaiye Maula.
-Zakhmi Hai Kahan Rait Pe So Paye Ga Asghar.
-Main Waqif Anjam Thi Ran Jane Se Pehle.
-Pani Tu Mile Ga Nahi Mar Jaye Ga Asghar.
+۴
+ماں کہتی تھی شبیر سے لے آئیے مولا
+زخمی ہے کہاں ریت پہ سو پائے گا اصغر
+میں واقف انجام تھی رن جانے سے پہلے
+پانی تو ملے گا نہیں مر جائے گا اصغر
 
-5
-Jab Samne Aankhon Ke Kabhi Aaye Ga Pani.
-Zindaan Mein Sakina Ko Tu Yaad Aaye Ga Asghar.
-Paye Ga Qarar Oss Ghari Shahi Dil-e-Muztar.
-Jab Roza-e-Shabir Pe Bulwaye Ga Asghar.
+۵
+جب سامنے آنکھوں کے کبھی آئے گا پانی
+زنداں میں سکینہ کو تو یاد آئے گا اصغر
+پائے گا قرار اس گھڑی شاہی دلِ مضطر
+جب روضۂ شبیر پہ بلوائے گا اصغر

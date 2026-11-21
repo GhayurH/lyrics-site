@@ -1,56 +1,87 @@
 ---
-title: "Yeh Baat Rulati Hai Ruqayya (A.S) Ko Safar"
+title: "یہ بات رلاتی ہے رقیہؑ کو سفر"
+alternateTitle: "Yeh Baat Rulati Hai Ruqayya Ko Safar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh baat rulati hai Ruqayya ko safar main
+  Kis haal main hain laal meray Kufa shehar main
+
+  1
+  Maan betoon ko har Eid pay hatoon say saja kay
+  Daytee hai duwa betoon ko seenay say laga kay
+  Haay Eid kay din khak pari hai meray sir main
+
+  2
+  Kehti hai yeh roo roo kay Ghazi say Ruqayya
+  Aye na meray laal tu mar jawoon gi bhayya
+  Yeh zakham judaie kay huway meray jigar main
+
+  3
+  Haye bichray hoon jis maan kay doo laal pyaray
+  Woo zinda rahin kaisay yaadoon kay saharay
+  Uss maan ko na aye ga kabhi chain qabar main
+
+  4
+  Har simt khari maut hai bahoon ko pasaray
+  Masoom hain sehmay howay darya kay kinaray
+  Ujray na Ruqayya ki tarha koi dehar main
+
+  5
+  Haris (Maloon) ko yatimoon pay zara reham na aaya
+  Aik ujri hoi maan ko hai rahoon main rulaya
+  Sir kaat kay tan phehkay hain darya kay bhanwar main
+
+  6
+  Darvasay pay deaka saray Muslim ko latak tay
+  Aur Ghazi meray lal hain galioon may batak tay
+  Aik kabay parayshan ka naksha hay nazar main
+
+  7
+  Sardar Ruqayya nay sahay kaisay yeh sadmay
+  Abbas ki humsheer tu rooti hai lahad main
+  Doo betay maray Sham tu doo Kufa shehar main
 ---
 
-Yeh Baat Rulati Hai Ruqayya (A.S) Ko Safar Main
+یہ بات رلاتی ہے رقیہؑ کو سفر میں
+کس حال میں ہیں لال میرے کوفہ شہر میں
 
-Kis Haal Main Hain Laal Meray Kufa Shehar Main
+۱
+ماں بیٹوں کو ہر عید پہ ہاتھوں سے سجا کے
+دیتی ہے دعا بیٹوں کو سینے سے لگا کے
+ہائے عید کے دن خاک پڑی ہے میرے سر میں
 
-Maan Betoon Ko Har Eid Pay Hatoon Say Saja Kay
+۲
+کہتی ہے یہ رو رو کے غازیؑ سے رقیہؑ
+آئے نہ میرے لال تو مر جاؤں گی بھیا
+یہ زخم جدائی کے ہوئے میرے جگر میں
 
-Daytee Hai Duwa Betoon Ko Seenay Say Laga Kay
+۳
+ہائے بچھڑے ہوں جس ماں کے دو لال پیارے
+وہ زندہ رہیں کیسے یادوں کے سہارے
+اس ماں کو نہ آئے گا کبھی چین قبر میں
 
-Haay Eid Kay Din Khak Pari Hai Meray Sir Main
+۴
+ہر سمت کھڑی موت ہے بانہوں کو پسارے
+معصوم ہیں سہمے ہوئے دریا کے کنارے
+اجڑے نہ رقیہ کی طرح کوئی دہر میں
 
-Kehti Hai Yeh Roo Roo Kay Ghazi (A.S) Say Ruqayya (A.S)
+۵
+حارث (ملعون) کو یتیموں پہ ذرا رحم نہ آیا
+ایک اجڑی ہوئی ماں کو ہے راہوں میں رلایا
+سر کاٹ کے تن پھینکے ہیں دریا کے بھنور میں
 
-Aye Na Meray Laal Tu Mar Jawoon Gi Bhayya
+۶
+دروازے پہ دیکھا سرِ مسلم کو لٹکتے
+اور غازی میرے لال ہیں گلیوں میں بھٹکتے
+ایک کعبۂ پریشاں کا نقشہ ہے نظر میں
 
-Yeh Zakham Judaie Kay Huway Meray Jigar Main
-
-Haye Bichray Hoon Jis Maan Kay Doo Laal Pyaray
-
-Woo Zinda Rahin Kaisay Yaadoon Kay Saharay
-
-Uss Maan Ko Na Aye Ga Kabhi Chain Qabar Main
-
-Har Simt Khari Maut Hai Bahoon Ko Pasaray
-
-Masoom Hain Sehmay Howay Darya Kay Kinaray
-
-Ujray Na Ruqayya Ki Tarha Koi Dehar Main
-
-Haris (Maloon) Ko Yatimoon Pay Zara Reham Na Aaya
-
-Aik Ujri Hoi Maan Ko Hai Rahoon Main Rulaya
-
-Sir Kaat Kay Tan Phehkay Hain Darya Kay Bhanwar Main
-
-Darvasay pay deaka saray Muslim ko latak tay
-
-Aur ghazi meray lal hain galioon may batak tay
-
-Aik kabay parayshan ka naksha hay nazar main
-
-Sardar Ruqayya (A.S) Nay Sahay Kaisay Yeh Sadmay
-
-Abbas (A.S) Ki Humsheer Tu Rooti Hai Lahad Main
-
-Doo Betay Maray Sham Tu Doo Kufa Shehar Main
+۷
+سردار رقیہؑ نے سہے کیسے یہ صدمے
+عباسؑ کی ہمشیر تو روتی ہے لحد میں
+دو بیٹے مرے شام تو دو کوفہ شہر میں

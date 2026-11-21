@@ -4,9 +4,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Khuda zulm kaisa barpa hua
+
+  Haq mein Zehra ke faisla na hua
+
+  Tukre tahrir-e-Mustafa ke nahiṅ
+
+  Din darbaar mein hai bikhra hua
+
+  Dar-e-Zehra se aag uthti hai
+
+  Koi hansta hai dar jalaata hua
+
+  Zer-e-dar hai Rasul ki beti
+
+  Koi jaata hai dar pe chalta hua
+
+  Betiyaaṅ kaise baap se puchheṅ
+
+  Maaṅ ka rukhsaar kaise nila hua
+
+  Pasliyaaṅ ho gaiṅ shikasta kya
+
+  Haath pahlu pe kiuṅ hai rakha hua
+
+  Duniya waalo ko kya khabar Saqalain
+
+  Aaj nuqsaan jo hai Ali ka hua
 ---
 
 ——————

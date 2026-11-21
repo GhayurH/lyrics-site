@@ -1,65 +1,120 @@
 ---
-title: "Imam Hasan Mujtaba Manqabat"
+title: "امام حسن مجتبیٰ منقبت"
+alternateTitle: "Imam Hasan Mujtaba Manqabat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Main ne aman-o-amma ke sultaan ki
+  Aik likhi hai manqabat sun lo
+  Yeh zameen aasmaan yeh dono jahan
+  Yeh Hasan ki hai saltanat sun lo
+
+  2
+  Haq bajanib nahi haqeer e Sham
+  De diya phir bhi oss ko takht-e-Sham
+  Maula Shabbar ki oss mein lazim hai
+  Koi na koi maslehat sun lo
+
+  3
+  Jo muhiban e Ibn-e-Haider hain
+  Unn ke chehron pe shadmani hai
+  Our jo Mujtaba se jalta hai
+  Oss pe lanat hai unginat sun lo
+
+  4
+  Tum ko gali kahey ga our tum pe
+  Khoob fatway karey ga sadar woh
+  Zikar e sibt e Nabi se jalna hi
+  Hai muqassir ki khasiyat sun lo
+
+  5
+  Kibriya ka yehi iradah hai
+  Yeh Hasan se Khuda ka wadah hai
+  Bilyaqeen unn ke sare ada ki
+  Ho na paye gi magfirat sun lo
+
+  6
+  Aman ke shah ki shujat bhi
+  Ik alag hi moqam rakhti hai
+  Taig-e-Shabbar ke aagay mat aana
+  Hai issi mein hi afiyat sun lo
+
+  7
+  Mujtaba ki mili muhabbat jo
+  Hum ne yeh Mustafa se seekhi hai
+  Bugz sabz e qaba ka rakho gay
+  Tu bigaro gay aakhrat sun lo
+
+  8
+  Khud ko nokar Hasan ka kehta hai
+  Our adoye Hasan ka hami hai
+  Kehta hai sab ko mantay hain hum
+  Sheikh jee ki munafiqat sun lo
+
+  9
+  Shukar-e-maula main aik syed hoon
+  Mera shajrah Hasan se milta hai
+  Hai yeh Hasnain ka sharaf bhi our
+  Yehi iss ki hai qaumiyat sun lo
 ---
 
-1
-Main Ne Aman-o-Amma Ke Sultaan Ki.
-Aik Likhi Hai Manqabat Sun Lo.
-Yeh Zameen Aasmaan Yeh Dono Jahan.
-Yeh Hasan Ki Hai Saltanat Sun Lo.
+۱
+میں نے امن و اماں کے سلطان کی
+ایک لکھی ہے منقبت سن لو
+یہ زمین آسمان یہ دونوں جہاں
+یہ حسن کی ہے سلطنت سن لو
 
-2
-Haq Bajanib Nahi Haqeer e Sham.
-De Diya Phir Bhi Oss Ko Takht-e-Sham.
-Maula Shabbar Ki Oss Mein Lazim Hai.
-Koi Na Koi Maslehat Sun Lo.
+۲
+حق بجانب نہیں حقیرِ شام
+دے دیا پھر بھی اس کو تختِ شام
+مولا شبّر کی اس میں لازم ہے
+کوئی نہ کوئی مصلحت سن لو
 
-3
-Jo Muhiban e Ibn-e-Haider Hain.
-Unn Ke Chehron Pe Shadmani Hai.
-Our Jo Mujtaba Se Jalta Hai.
-Oss Pe Lanat Hai Unginat Sun Lo.
+۳
+جو محبانِ ابنِ حیدر ہیں
+ان کے چہروں پہ شادمانی ہے
+اور جو مجتبیٰ سے جلتا ہے
+اس پہ لعنت ہے ان گنت سن لو
 
-4
-Tum Ko Gali Kahey Ga Our Tum Pe.
-Khoob Fatway Karey Ga Sadar Woh.
-Zikar e Sibt e Nabi Se Jalna Hi.
-Hai Muqassir Ki Khasiyat Sun Lo.
+۴
+تم کو گالی کہے گا اور تم پہ
+خوب فتوے کرے گا صدر وہ
+ذکرِ سبطِ نبی سے جلنا ہی
+ہے مقصّر کی خاصیت سن لو
 
-5
-Kibriya Ka Yehi Iradah Hai.
-Yeh Hasan Se Khuda Ka Wadah Hai.
-Bilyaqeen Unn Ke Sare Ada Ki.
-Ho Na Paye Gi Magfirat Sun Lo.
+۵
+کبریا کا یہی ارادہ ہے
+یہ حسن سے خدا کا وعدہ ہے
+بالیقین ان کے سارے اعدا کی
+ہو نہ پائے گی مغفرت سن لو
 
-6
-Aman Ke Shah Ki Shujat Bhi.
-Ik Alag Hi Moqam Rakhti Hai.
-Taig-e-Shabbar Ke Aagay Mat Aana.
-Hai Issi Mein Hi Afiyat Sun Lo.
+۶
+امن کے شاہ کی شجاعت بھی
+اک الگ ہی مقام رکھتی ہے
+تیغِ شبّر کے آگے مت آنا
+ہے اسی میں ہی عافیت سن لو
 
-7
-Mujtaba Ki Mili Muhabbat Jo.
-Hum Ne Yeh Mustafa Se Seekhi Hai.
-Bugz Sabz e Qaba Ka Rakho Gay.
-Tu Bigaro Gay Aakhrat Sun Lo.
+۷
+مجتبیٰ کی ملی محبت جو
+ہم نے یہ مصطفیٰ سے سیکھی ہے
+بغض سبزِ قبا کا رکھو گے
+تو بگاڑو گے آخرت سن لو
 
-8
-Khud Ko Nokar Hasan Ka Kehta Hai.
-Our Adoye Hasan Ka Hami Hai.
-Kehta Hai Sab Ko Mantay Hain Hum.
-Sheikh Jee Ki Munafiqat Sun Lo.
+۸
+خود کو نوکر حسن کا کہتا ہے
+اور عدوئے حسن کا حامی ہے
+کہتا ہے سب کو مانتے ہیں ہم
+شیخ جی کی منافقت سن لو
 
-9
-Shukar-e-Maula Main Aik Syed Hoon.
-Mera Shajrah Hasan Se Milta Hai.
-Hai Yeh Hasnain Ka Sharaf Bhi Our.
-Yehi Iss Ki Hai Qaumiyat Sun Lo.
+۹
+شکرِ مولا میں ایک سید ہوں
+میرا شجرہ حسن سے ملتا ہے
+ہے یہ حسنین کا شرف بھی اور
+یہی اس کی ہے قومیت سن لو

@@ -8,45 +8,29 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Na Ro Na Ro Na Ro Masoom Sakina Hasan Sadiq"
-romanLyrics: 'Na ro na ro na ro, masoom Sakina
-
-  Zindaan main ab yad na ker Baba ka seena
-
+romanLyrics: |-
+  Na ro na ro na ro, masum Sakina
 
   1
-
-  1) Charon simt andhera paas nahi koi
-
-  Ab to ghazi ki bhi aas nahi koi
-
-  Kon sunai faryadain hain door Medina
-
+  Zindaan mein ab yaad na kar Baba ka sina
+  Chaaroṅ simt andhera paas hai nahiṅ koi
+  Ab to Ghazi ki bhi aas nahiṅ koi
+  Kaun sune faryaadeṅ hai dur Madina
 
   2
-
-  2) Tuj ko qaid na milti ghar tanhai main
-
-  Beemari na bharti terai bahi ki
-
-  Rota khoon ankhon sai Sajjad kabhi na
-
+  Tujh ko qaid na milti gar tanhaai ki
+  Bimaari na barhti tere bhaai ki
+  Rota khun aaṅkhoṅ se Sajjad kabhi na
 
   3
-
-  3) Bibi teri ma ko aik pal chain nahi
-
-  Zainab-o-Kulsoom ka ruktai bain nahi
-
-  Goud Rubab ki ujri Abaad huwi na
-
+  Bibi teri maaṅ ko ek pal chain nahiṅ
+  Zainab o Kulsum ke rukte bain nahiṅ
+  God Rabaab ki ujri aabaad hui na
 
   4
-
-  4) Yaad sai baba ki jab tarp aati hai
-
-  Sar apna deevaron sai takrati hai
-
-  Ro Ro Kai Kehti Hai Dushwar Hai Jeena'
+  Yaad use Baba ki jab tarpaati hai
+  Sar apna divaaroṅ se takraati hai
+  Ro ro ke kehti hai dushwaar hai jina
 ---
 
 نہ رو نہ رو نہ رومعصوم سکینہ

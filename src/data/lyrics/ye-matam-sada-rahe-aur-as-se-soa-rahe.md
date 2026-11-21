@@ -9,119 +9,79 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ye Matam Sada Rahay Aur Iss Sai Siva Rahay
-
-  Ye Farsh-e-Aza-e-Sibtai Nabhi Ta Mehshar Bicha Rahay
-
+romanLyrics: |-
+  Ye maatam sada rahe aur is se siwa rahe
+  Ye farsh-e-aza ae Sibt-e-Nabi taa mahshar bichha rahe
 
   1
-
-  Kitni Hi Uthai, Zulmat Ki Ghata
-
-  Ho Kitni Hi Tareek Fiza
-
-  Bujhnay Nahi Paaey Shammay Aza
-
-  Kitnay Hi Uthain Toofaan Magar Roshan Yai Diya Rahay
-
+  Kitni hi uthe zulmat ki ghata
+  Ho kitni hi taarik faza
+  Bujhne nahiṅ paaye shamma-e-aza
+  Kitne hi utheṅ tufaan magar
+  Roshan ye diya rahe
 
   2
-
-  Aik Nasal Hatay, Aik Nasal Barhay
-
-  Aik Shamma Bujhay Aik Shamma Jalay
-
-  Shabbir Ka Matam Hota Rahay
-
-  Naslam Baday Naslin Yoonhi, Jaari Silsila Rahay
-
+  Ik nasl hate, ik nasl barhe
+  Ik shamma bujhe, ik shamma jale
+  Shabbir ka maatam hota rahe
+  Naslan baad-e-naslan yunhi
+  Jaari silsila rahe
 
   3
-
-  Kat Tai Rahain Sar, Luthay Rahain Ghaar
-
-  Dhaati Rahai Dunya Zulm Magar
-
-  Chootai Na Kabhi Shabbir Ka Ghaar
-
-  Shabbir Kai Gham Sai Aalam Ka Har Gosha Sada Rahai
-
+  Katte raheṅ sar, lutte raheṅ ghar
+  Dhaati rahaai duniya zulm magar
+  Chhute na kabhi Shabbir ka dar
+  Shabbir ke gham se aalam ka
+  Har gosha saja rahe
 
   4
-
-  Yai Zulm-o-Situm, Yai Joar-o-Jafa
-
-  Kya Rokaingai Rasta Tera
-
-  Barh Aur Do Alaam Parcha Ja
-
-  Ta Arsh Zameen Par Chaee Huwi, Matam Ki Ghata Rahai
-
+  Ye zulm o sitam, ye jaur o jafa
+  Kya rokeṅge rasta tera
+  Barh aur do aalam par chha ja
+  Taa arsh zamin par chhaai hui
+  Maatam ki ghata rahe
 
   5
-
-  Gham Khuwaar-e-Shah-e-Abrar Hai Hum,
-
-  Baatil Kai Liyai Talwaar Hai Hum,
-
-  Tareekh Ka Wo Kirdaar Hai Hum,
-
-  Marsaktay Hain Mit Saktay Nahi, Zehnon’ Main Zara Rahay
-
+  Gham khwaar-e-Shah-e-Abraar haiṅ ham
+  Baatil ke liye talwaar haiṅ ham
+  Taarikh ka wo kirdaar haiṅ ham
+  Mar sakte haiṅ mit sakte nahiṅ
+  Zehnoṅ mein zara rahe
 
   6
-
-  Hum Paltai Rahay Toofanon’ Main
-
-  Behtai Rahay Khoon Ki Dhaaron’ Main
-
-  Choonwaaey Gaey Deewaron Main,
-
-  Khud Mit Gaey Baani-e-zulm Magar, Hum Ahlay-aza Rahay
-
+  Ham palte rahe tufaanoṅ mein
+  Behte rahe khuṅ ki dhaaroṅ mein
+  Chunwaaye gaye diwaaroṅ mein
+  Khud mit gaye baani-e-zulm magar
+  Ham ahl-e-aza rahe
 
   7
-
-  Khoon-e-Dil Sai, Haan Ahlay Aza
-
-  Har Moar Sai Ta’aba Karbobala
-
-  Roshan Rakho Aik Aik Zarra
-
-  Har Aanay Walay Hurr Kai Liyai, Yai Rasta Khula Rahay
-
+  Khun-e-dil se haaṅ ahl-e-aza
+  Har mor se taa ba Karb o Bala
+  Roshan rakho ik ik zarra
+  Har aane waale Hur ke liye
+  Ye rasta khula rahe
 
   8
-
-  Kitnon’ Kai Chehrai Utar Gaey
-
-  Yai Hukm Jub Aaya Jis Jis Kai
-
-  Masjid Main Hain Khultai Darwaazay
-
-  Sab Band Hon’ Bas Aik Zahra Ka Darwaaza Khula Rahay
-
+  Kitnoṅ ke chehre utar gaye
+  Ye hukm jab aaya jis jis ke
+  Masjid mein haiṅ khulte darwaaze
+  Sab band hoṅ bas ik Zehra ka
+  Darwaaza khula rahe
 
   9
-
-  Thak Haar Kai Laskhar Lot Aaya
-
-  Sar Maar Gaey Khaibar Na Huwa
-
-  Di Hans Kai Sada Ahmad Nai Kai Aah,
-
-  Ai Dast-e-Khuda Khaibar Dar Khaibar Kai, Hain Tuj Ko Bula rahay
-
+  Thak haar ke lashkar laut aaya
+  Sar maaraka-e-Khaibar na hua
+  Di hans ke sada Ahmad ne ke aa
+  Ae dast-e-Khuda dar Khaibar ke
+  Haiṅ tujh ko bula rahe
 
   10
-
-  Sookhay Huway Lab, Halmin Ki Sada
-
-  Tareekh Bhula Sakti Hai Bhala
-
-  Kya Alam-e-ghurbat Hai Ba Khuda
-
-  Hai Kon Situm Seh Kar Itnai, Raazi Ba Raza Rahay'
+  Sukhe hue lab, hal min ki sada
+  Taarikh bhula sakti hai bhala
+  Kya aalam-e-ghurbat hai ba Khuda
+  Hai kaun sitam seh kar itna
+  Raazi ba raza rahe
 ---
 
 یہ ماتم صدا رہے اور اِس سے سوا رہے

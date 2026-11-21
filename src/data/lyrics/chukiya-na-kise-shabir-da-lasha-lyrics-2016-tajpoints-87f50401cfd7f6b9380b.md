@@ -1,30 +1,50 @@
 ---
-title: "Chukiya Na Kise Shabir Da Lasha Lyrics 2016"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "چکیا نہ کسے شبیر دا لاشہ"
+alternateTitle: "Chukiya Na Kise Shabir Da Lasha Lyrics 2016"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chukiya na kise Shabir da lasha Asghar Khan
+  Chukda v kera koi na bachiya bemar de siwa
+  Teelay tu rondiyaan jadon khaimiyaan che ayi
+  Walaan che mitiyaan pa ke kite wain Zahra jayi
+  Bemar nu gal ke kiya Bibi tera baba mar giya
+  Ghurbat di inteha Ghazi de bad hoi
+  Lokaan ne zakhmi kiti maiyat Shabir di
+  Lashay te waar kar ke ohh kainday ray Abbas nu bula
+  Lathiya jo zeee tu zakhma de naal bhariya
+  Onay wekhiya farsh te bethi hoi aye Zahra
+  Kiya maa ne mera laal mera bachra aa meri godi aa
+  Teeraan te lash si Mazloom-e-Karbala di
+  Lashay nu ghaira pa lo zalim keeti manadi
+  Teraan te e lut lasha liya lokaan Zahra de lal da
+  Tauheed-e-Kibriya nabiyaan de naam saray
+  Kaba namaz rozay Quran de aye paray
+  Sab dunya te Saqlain aye baqi ne Shabir da sadqa
 ---
 
-1
-Chukiya Na Kise Shabir Da Lasha Asghar Khan.
-Chukda V Kera Koi Na Bachiya Bemar De Siwa.
-Teelay Tu Rondiyaan Jadon Khaimiyaan Che Ayi.
-Walaan Che Mitiyaan Pa Ke Kite Wain Zahra Jayi.
-Bemar Nu Gal Ke Kiya Bibi Tera Baba Mar Giya.
-Ghurbat Di Inteha Ghazi De Bad Hoi.
-Lokaan Ne Zakhmi Kiti Maiyat Shabir Di.
-Lashay Te Waar Kar Ke Ohh Kainday Ray Abbas Nu Bula.
-Lathiya Jo Zeee Tu Zakhma De Naal Bhariya.
-Onay Wekhiya Farsh Te Bethi Hoi Aye Zahra.
-Kiya Maa Ne Mera Laal Mera Bachra Aa Meri Godi Aa.
-Teeraan Te Lash Si Mazloom-e-Karbala Di.
-Lashay Nu Ghaira Pa Lo Zalim Keeti Manadi.
-Teraan Te E Lut Lasha Liya Lokaan Zahra De Lal Da.
-Tauheed-e-Kibriya Nabiyaan De Naam Saray.
-Kaba Namaz Rozay Quran De Aye Paray.
-Sab Dunya Te Saqlain Aye Baqi Ne Shabir Da Sadqa.
+۱
+چکیا نہ کسے شبیر دا لاشہ اصغر خان
+چکدا وی کیہڑا کوئی نہ بچیا بیمار دے سوا
+ٹیلے توں روندیاں جدوں خیمیاں چے آئی
+والاں چے مٹیاں پا کے کیتے وین زہرا جائی
+بیمار نوں گَل کے کہیا بی‌بی تیرا بابا مر گیا
+غربت دی انتہا غازی دے بعد ہوئی
+لوکاں نے زخمی کیتی میت شبیر دی
+لاشے تے وار کر کے اوہ کہندے رہے عباس نوں بلا
+لتھیا جو زین توں زخماں دے نال بھریا
+اوہنے ویکھیا فرش تے بیٹھی ہوئی اے زہرا
+کہیا ماں نے میرا لال میرا بچڑا آ میری گودی آ
+تیراں تے لاش سی مظلومِ کربلا دی
+لاشے نوں گھیرا پا لو ظالم کیتی منادی
+تیراں تے ای لُٹ لاشہ لیا لوکاں زہرا دے لال دا
+توحیدِ کبریا نبیاں دے نام سارے
+کعبہ نماز روزے قرآن دے اے پارے
+سب دنیا تے ثقلین اے باقی نے شبیر دا صدقہ

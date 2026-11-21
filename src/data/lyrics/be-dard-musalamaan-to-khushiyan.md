@@ -1,6 +1,6 @@
 ---
 title: "بے درد مسلماں تو خوشیاں منا رہے ہیں"
-alternateTitle: "Be Dard Musalamaaṅ To Khushiyaṅ"
+alternateTitle: "Be Dard Musalamaaṅ To Khushiyaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,36 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bedard musalamaaṅ to khushiyaṅ mana rahay haiṅ
-  Arb o ajam ke Mola dunya se ja rahay haiṅ
+  Bedard musalamaaṅ to khushiyaaṅ mana rahe haiṅ
+  Arab o Ajam ke Mola duniya se ja rahe haiṅ
 
   1
-  Kuch to laihaaz kertai damaad-e-Mustafa ka
-  Sajdai maiṅ jo Ali pai hy zulm dha rahai haiṅ
+  Kuchh to lihaaz karte damaad-e-Mustafa ka
+  Sajde meiṅ jo Ali pe haaye zulm dhaa rahe haiṅ
 
   2
-  Ahmed kai baad Zahra ab chal perhai Ali bhi
-  Asaar Panjatan ke zalim mita rahy haiṅ
+  Ahmad ke baad Zahra ab chal pare Ali bhi
+  Aasaar Panjatan ke zaalim mita rahe haiṅ
 
   3
-  Baloṅ ko kholai Zainab Kulsum ro rahi hain
-  Ghar ghar charag Kufi shami jala rahai haiṅ
+  Baaloṅ ko khole Zainab Kulsum ro rahi hai
+  Ghar ghar charaagh Kufi Shaami jala rahe haiṅ
 
   4
-  Barsai gain tir paiham tabut per Hasan kai
-  Mola yeh waqat-e-aakhir ro kai bata rahai haiṅ
+  Barseṅ ge tir paiham taabut par Hasan ke
+  Mola yeh waqt-e-aakhir ro ke bata rahe haiṅ
 
   5
-  Niklai gain aag lai ker kuch log saqifa sai
-  Sadaat kai gharoṅ ko ab tak jala rahain haiṅ
+  Nikle haiṅ aag le kar kuchh log Saqifa se
+  Saadaat ke gharoṅ ko ab tak jala rahe haiṅ
 
   6
-  Tu sikh ghar maiṅ chalna woh shaam ka safar hai
-  Teri qaid kai zamanai nasdeeq aarahain haiṅ
+  Tu sikh ghar meiṅ chalna woh Shaam ka safar hai
+  Teri qaid ke zamaane nazdik aa rahe haiṅ
 
   7
-  Mola kai janazai per Jibril ro kai bolai
-  Sarkaar-e-Ambiya kai gham khaar ja rahain haiṅ
+  Mola ke janaaze par Jibril ro ke bole
+  Sardaar-e-Ambiya ke ghamkhwaar ja rahe haiṅ
 ---
 
 بے درد مسلماں تو خوشیاں منارہے ہیں

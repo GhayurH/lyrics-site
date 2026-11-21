@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Paamaal laasha dekh ke kehti haiṅ Bibiyaaṅ
+  Paamaal laasha dekh ke kehti haiṅ bibiyaaṅ
   Zahra ki tarah tuti haiṅ Qasim ki pasliyaaṅ
 
   1

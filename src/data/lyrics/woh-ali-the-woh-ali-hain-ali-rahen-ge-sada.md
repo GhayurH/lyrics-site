@@ -21,11 +21,11 @@ romanLyrics: |-
 
   3
   Do jahaanoṅ ke sabhi ilm ke maalik ne kaha
-  Is se har haal meiṅ guzro ge hai Ali darwaaza
+  Is se har haal mein guzro ge hai Ali darwaaza
 
   4
   Ali ko sochna aur dekhna ibaadat hai
-  Keh rahe haiṅ yeh Muhammad keh keh raha hai Khuda
+  Keh rahe haiṅ yeh Muhammad ke keh raha hai Khuda
 ---
 ۱
 وہ علی تھے وہ علی ہیں علی رہیں گے سدا

@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Ya Husain ya mazlum
-  Ya Husain mehrum
+  Ya Husain mahrum
   Ya Husain mahmum
   Ya Husain habibi
 
@@ -51,7 +51,7 @@ romanLyrics: |-
   4
   Tu meri shariat ae shaafi-e-mahshar
   Tu meri aqidat ae shaafi-e-mahshar
-  Sabab-e-shafaaat ae shaafi-e-mahshar
+  Sabab-e-shafaat ae shaafi-e-mahshar
   Hai teri ziyaarat ae shaafi-e-mahshar
   Tu mera asaasa ya Husain
   Tu meri masiha ya Husain
@@ -82,7 +82,7 @@ romanLyrics: |-
   Tu hamaari himmat ya Husain
   Tu hamaari quwwat ya Husain
   Tu hamaari taaqat ya Husain
-  Ya Husain ya masum
+  Ya Husain ya maasum
   Ya Husain ya makhdum
   Ya Husain ya maghmum
   Ya Husain habibi

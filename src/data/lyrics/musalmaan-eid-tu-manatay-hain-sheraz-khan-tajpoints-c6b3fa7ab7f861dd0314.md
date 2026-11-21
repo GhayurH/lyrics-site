@@ -1,32 +1,54 @@
 ---
-title: "Musalmaan Eid Tu Manatay Hain Sheraz Khan"
+title: "مسلمان عید تو مناتے ہیں شیراز خان"
+alternateTitle: "Musalmaan Eid Tu Manatay Hain Sheraz Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Musalmaan Eid tu manatay hain Sheraz Khan
+  Zahra ke ghar mein jo kuhram bapa hai kyun oss ko bhool jate hain
+
+  1
+  Ik Eid mein Haider qatal kiye ik Eid mein Muslim
+  Har Eid mein saf-e-matam yeh kalma go Zainab ke ghar bichatay hain
+  Do phool se nazuk bachoon ke sar kar ke youn juda
+  Haye zulm-o-sitam se darya mein unn ke kyun jismo ko youn bahatay hain
+
+  2
+  Maqtal mein jate jate Sarwar na jane kyun bhala
+  Karbal ki khak ko behno ke saron pe rotay hoye uratay hain
+  Ik bar Fatima ke ghar ko Yasrab mein jala kar
+  Phir dosri dafa Karb-o-Bala mein yeh Zahra ka ghar jalatay hain
+
+  3
+  Zainab ki aakhri sans talak Zainab ko rula kar
+  Dozakh ke musafir bad bakht yeh kafir khud hanstay nazar aate hain
+  Kul arz-o-samaa mein dekhey hain Zahra ke ladlay
+  Ghar bar luta kar Zeeshan Khuda ka Islam jo bachatay hain
 ---
 
-Musalmaan Eid Tu Manatay Hain Sheraz Khan.
-Zahra Ke Ghar Mein Jo Kuhram Bapa Hai Kyun Oss Ko Bhool Jate Hain.
+مسلمان عید تو مناتے ہیں شیراز خان
+زہرا کے گھر میں جو کہرام بپا ہے کیوں اس کو بھول جاتے ہیں
 
-1
-Ik Eid Mein Haider Qatal Kiye Ik Eid Mein Muslim.
-Har Eid Mein Saf-e-Matam Yeh Kalma Go Zainab Ke Ghar Bichatay Hain.
-Do Phool Se Nazuk Bachoon Ke Sar Kar Ke Youn Juda.
-Haye Zulm-o-Sitam Se Darya Mein Unn Ke Kyun Jismo Ko Youn Bahatay Hain.
+۱
+اک عید میں حیدر قتل کیے اک عید میں مسلم
+ہر عید میں صفِ ماتم یہ کلمہ گو زینب کے گھر بچھاتے ہیں
+دو پھول سے نازک بچوں کے سر کر کے یوں جدا
+ہائے ظلم و ستم سے دریا میں ان کے کیوں جسموں کو یوں بہاتے ہیں
 
-2
-Maqtal Mein Jate Jate Sarwar Na Jane Kyun Bhala.
-Karbal Ki Khak Ko Behno Ke Saron Pe Rotay Hoye Uratay Hain.
-Ik Bar Fatima Ke Ghar Ko Yasrab Mein Jala Kar.
-Phir Dosri Dafa Karb-o-Bala Mein Yeh Zahra Ka Ghar Jalatay Hain.
+۲
+مقتل میں جاتے جاتے سرور نہ جانے کیوں بھلا
+کربل کی خاک کو بہنوں کے سروں پہ روتے ہوئے اڑاتے ہیں
+اک بار فاطمہ کے گھر کو یثرب میں جلا کر
+پھر دوسری دفعہ کرب و بلا میں یہ زہرا کا گھر جلاتے ہیں
 
-3
-Zainab Ki Aakhri Sans Talak Zainab Ko Rula Kar.
-Dozakh Ke Musafir Bad Bakht Yeh Kafir Khud Hanstay Nazar Aate Hain.
-Kul Arz-o-Samaa Mein Dekhey Hain Zahra Ke Ladlay.
-Ghar Bar Luta Kar Zeeshan Khuda Ka Islam Jo Bachatay Hain.
+۳
+زینب کی آخری سانس تلک زینب کو رلا کر
+دوزخ کے مسافر بدبخت یہ کافر خود ہنستے نظر آتے ہیں
+کل ارض و سما میں دیکھے ہیں زہرا کے لاڈلے
+گھر بار لٹا کر ذیشان خدا کا اسلام جو بچاتے ہیں

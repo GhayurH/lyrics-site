@@ -13,7 +13,7 @@ aliases: ["Ya Hussain Ya"]
 published: true
 romanLyrics: |-
   Bichh gaya farsh-e-aza ho gaya maatam bapa
-  Aati hai dil se sada haaye Shaah-e-Karbala
+  Aati hai dil se sada haaye Shah-e-Karbala
   Karte haiṅ maatam tera haaye qatil-e-jafa
   Chaand falak par dikha aa gaya maah-e-aza
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   Naam lene se mere dil ko aata hai chain
 
   4
-  Mere Maula meri har saaṅs tere gham pe nisaar
+  Mere Maula meri har saans tere gham pe nisaar
   Hai hawa sog meiṅ dube hue parcham pe nisaar
   Hai tere maatami Maula tere maatam pe nisaar
   Phir safeṅ bichh gayi maatam ki sada gunj uthi

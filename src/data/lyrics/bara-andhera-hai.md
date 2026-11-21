@@ -14,18 +14,18 @@ tags: []
 aliases: ["Bada Andhera Hai"]
 published: true
 romanLyrics: |-
-  Sakina qaid ho kar Sham ke zindaan meiṅ jab aayi
+  Sakina qaid ho kar Sham ke zindaan mein jab aayi
   Wo bachchi us andhere ghar ki taariki se ghabraayi
   Muqaddar ne ajab aafat ki pehli raat dikhlaayi
-  Zamiṅ to farsh tha saaya fagan tha charkh-e-minaai
-  Phuphi ke saath rehti thi na maaṅ ke paas soti thi
+  Zamiṅ to farsh tha saaya fagan tha charkh-e-neminaai
+  Phuppi ke saath rehti thi na maaṅ ke paas soti thi
   Barahna sar khari zindaan ke darwaaze pe roti thi
 
   Pukaari ro ke Sakina bara andhera hai
   Ye kaisi qaid hai baba bara andhera hai
 
   1
-  Maiṅ ek kone meiṅ baithi hui huṅ sehmi hui
+  Main ek kone mein baithi hui huṅ sehmi hui
   Dikhaayi kuchh nahiṅ deta bara andhera hai
 
   2
@@ -38,11 +38,11 @@ romanLyrics: |-
 
   4
   Agar ho aana to Asghar ko saath mat laana
-  Jahaaṅ maiṅ qaid huṅ baba bara andhera hai
+  Jahaaṅ main qaid huṅ baba bara andhera hai
 
   5
   Tamaanche lagte haiṅ mere jo dar ke roti huṅ
-  Magar maiṅ kya karuṅ baba bara andhera hai
+  Magar main kya karuṅ baba bara andhera hai
 
   6
   Behan se milne ko aao agar Ali Akbar

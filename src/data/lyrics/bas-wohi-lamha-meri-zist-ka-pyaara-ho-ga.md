@@ -15,11 +15,11 @@ romanLyrics: |-
   Jis ghari Gunbad-e-Khazra ka nazaara ho ga
 
   1
-  Khwaab meiṅ aa ke mujhe Rehmat-e-Aalam ne kaha
+  Khwaab mein aa ke mujhe Rehmat-e-Aalam ne kaha
   Naat likho keh karam tum pe hamaara ho ga
 
   2
-  Mujh ko mehshar ki kari dhup meiṅ mere Aaqa
+  Mujh ko mehshar ki kari dhup mein mere Aaqa
   Aap ke saaya-e-rehmat ka sahaara ho ga
 
   3

@@ -12,54 +12,54 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bemaqna o chaadar sar-e-bazaar hai Zainab
-  Abbas khule sar sar-e-bazaar hai Zainab
+  Bemaqna o chaadar sar-e-baazaar hai Zainab
+  Abbas khule sar sar-e-baazaar hai Zainab
   Ya Abbas ya Abbas
 
   1
   Ek baar bas ek baar mujhe dekh le bhaiya
   Ae mere madadgaar mujhe dekh le bhaiya
-  Mar jaae gi khwaahar sar-e-bazaar hai Zainab
+  Mar jaae gi khwaahar sar-e-baazaar hai Zainab
 
   2
   Maiṅ teri behan huṅ ye zamaane ko khabar hai
   Har dekhne waale ki mere sar pe nazar hai
-  Pur dard hai manzar sar-e-bazaar hai Zainab
+  Pur dard hai manzar sar-e-baazaar hai Zainab
 
   3
   Bin bhaai ke ek behan ka kya jine meiṅ jina
   Abbas sehan kaise karuṅ phatta hai sina
-  Mar jaana hai behtar sar-e-bazaar hai Zainab
+  Mar jaana hai behtar sar-e-baazaar hai Zainab
 
   4
   De hukm ke phat jaae zamiṅ mujh ko sama le
   Bedard zamaane ki jafaaoṅ se bacha le
-  Ae waqt ke Haidar sar-e-bazaar hai Zainab
+  Ae waqt ke Haidar sar-e-baazaar hai Zainab
 
   5
   Dauraan-e-safar sar pe tera haath hai bhaiya
   Itna hi bahut hai tu mere saath hai bhaiya
-  Ek tere hi dam par sar-e-bazaar hai Zainab
+  Ek tere hi dam par sar-e-baazaar hai Zainab
 
   6
   Kal tere bharose pe chali thi maiṅ watan se
   Kya baat hai kuchh bol do ae bhaai behan se
-  Ae azm ke paikar sar-e-bazaar hai Zainab
+  Ae azm ke paikar sar-e-baazaar hai Zainab
 
   7
-  Rahwaar ki gardan meiṅ hai is waqt tera sar
+  Raahwaar ki gardan meiṅ hai is waqt tera sar
   Abbas magar phir bhi larazte haiṅ sitamgar
-  Is dar ki bina par sar-e-bazaar hai Zainab
+  Is dar ki bina par sar-e-baazaar hai Zainab
 
   8
   Is waaste deti huṅ musalsal maiṅ sadaaeṅ
   Hoti haiṅ yahaaṅ mujh pe jafaaoṅ pe jafaaeṅ
-  Ae mere Ghazanfar sar-e-bazaar hai Zainab
+  Ae mere Ghazanfar sar-e-baazaar hai Zainab
 
   9
   Asif ho raqam kaise gham-e-Zainab-e-muztar
-  Aamir ho bayaaṅ kaise ke Zainab ke tha lab par
-  Ye mera muqaddar sar-e-bazaar hai Zainab
+  Aamir ho bayaaṅ kaise ke Zainab tha lab par
+  Ye mera muqaddar sar-e-baazaar hai Zainab
 ---
 
 بے مقنہ و چادر سر بازار ہے زینب

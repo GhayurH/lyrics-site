@@ -1,56 +1,101 @@
 ---
-title: "Jab Hoi Mujh Par Attaye Askari"
+title: "جب ہوئی مجھ پر عطائے عسکری"
+alternateTitle: "Jab Hoi Mujh Par Attaye Askari"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Jab hoi mujh par Attaye Askari
+  Tab likhi main ne sana-e-Askari
+
+  1
+  Aya-e-Tatheer dam ki klick par
+  Likhney betha phir sana-e-Askari
+  Misal-e-Quraan Pak hain alfaz sab
+  Main ne jo likhe bara-e-Askari
+
+  2
+  Aik sorah hi nahi Quran sab
+  Rehta hai midhat saraye Askari
+  Ho gaye roshan, mili khairat mein
+  Chand taroon ko ziya-e-Askari
+
+  3
+  Rehmatein our barkatein nazil hoi
+  Aap jab bhi muskuraye Askari
+  Ho mubarak aap ko Maula Naqi
+  Aap ke daman mein aaye Askari
+
+  4
+  Pohanch jaye Khaliq-e-Akbar talak
+  Marifat teri jo paye Askari
+  Sar bulandi chahta hai gar koi
+  Tere dar par sar jhukaye Askari
+
+  5
+  Umar bhar inki sana likhta rahon
+  Khud agar mujh se likhaye Askari
+  Meri bakhshish ke liye kafi hai yeh
+  Gar miley jo khak paye Askari
+
+  6
+  Aaj bin mangay hi sab mil jaye ga
+  Aaj hai shadaan Khuda-e-Askari
+  Mujh pe Khaliq ka hai yeh fazal-o-karam
+  Main azal se hoon gadaye Askari
+
+  7
+  Main, mere maa baap our ajdad sab
+  Hain dil-o-jaan se fida-e-Askari
+  Aik pal mein pohanch jaon Samarra
+  Mohtasham ko gar bulaye Askari
 ---
 
-Jab Hoi Mujh Par Attaye Askari.
-Tab Likhi Main Ne Sana-e-Askari.
+جب ہوئی مجھ پر عطائے عسکری
+تب لکھی میں نے ثنائے عسکری
 
-1
-Aya-e-Tatheer Dam Ki Klick Par.
-Likhney Betha Phir Sana-e-Askari.
-Misal-e-Quraan Pak Hain Alfaz Sab.
-Main Ne Jo Likhe Bara-e-Askari.
+۱
+آیۂ تطہیر دم کی کلک پر
+لکھنے بیٹھا پھر ثنائے عسکری
+مثالِ قرآنِ پاک ہیں الفاظ سب
+میں نے جو لکھے برائے عسکری
 
-2
-Aik Sorah Hi Nahi Quran Sab.
-Rehta Hai Midhat Saraye Askari.
-Ho Gaye Roshan, Mili Khairat Mein.
-Chand Taroon Ko Ziya-e-Askari.
+۲
+ایک سورہ ہی نہیں قرآن سب
+رہتا ہے مدحت سرائے عسکری
+ہو گئے روشن، ملی خیرات میں
+چاند تاروں کو ضیائے عسکری
 
-3
-Rehmatein Our Barkatein Nazil Hoi.
-Aap Jab Bhi Muskuraye Askari.
-Ho Mubarak Aap Ko Maula Naqi.
-Aap Ke Daman Mein Aaye Askari.
+۳
+رحمتیں اور برکتیں نازل ہوئیں
+آپ جب بھی مسکرائے عسکری
+ہو مبارک آپ کو مولا نقی
+آپ کے دامن میں آئے عسکری
 
-4
-Pohanch Jaye Khaliq-e-Akbar Talak.
-Marifat Teri Jo Paye Askari.
-Sar Bulandi Chahta Hai Gar Koi.
-Tere Dar Par Sar Jhukaye Askari.
+۴
+پہنچ جائے خالقِ اکبر تلک
+معرفت تیری جو پائے عسکری
+سربلندی چاہتا ہے گر کوئی
+تیرے در پر سر جھکائے عسکری
 
-5
-Umar Bhar Inki Sana Likhta Rahon.
-Khud Agar Mujh Se Likhaye Askari.
-Meri Bakhshish Ke Liye Kafi Hai Yeh.
-Gar Miley Jo Khak Paye Askari.
+۵
+عمر بھر ان کی ثنا لکھتا رہوں
+خود اگر مجھ سے لکھائے عسکری
+میری بخشش کے لیے کافی ہے یہ
+گر ملے جو خاکِ پائے عسکری
 
-6
-Aaj Bin Mangay Hi Sab Mil Jaye Ga.
-Aaj Hai Shadaan Khuda-e-Askari.
-Mujh Pe Khaliq Ka Hai Yeh Fazal-o-Karam.
-Main Azal Se Hoon Gadaye Askari.
+۶
+آج بن مانگے ہی سب مل جائے گا
+آج ہے شاداں خدائے عسکری
+مجھ پہ خالق کا ہے یہ فضل و کرم
+میں ازل سے ہوں گدائے عسکری
 
-7
-Main, Mere Maa Baap Our Ajdad Sab.
-Hain Dil-o-Jaan Se Fida-e-Askari.
-Aik Pal Mein Pohanch Jaon Samarra.
- Mohtasham Ko Gar Bulaye Askari.
+۷
+میں، میرے ماں باپ اور اجداد سب
+ہیں دل و جاں سے فدائے عسکری
+ایک پل میں پہنچ جاؤں سامرا
+محتشم کو گر بلائے عسکری

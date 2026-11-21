@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Aal-e-Nabi ka qaafila jab Shaam ko chala
   Kehne lagi Husain se hamshir alwida
-  Aane lagi ek laasha-e-besar se ye sada
+  Aane lagi ak laasha-e-be-shir se ye sada
   Ye qaafila le ja Zainab qaafila le ja
   Maiṅ ne basaai Karbala tu Shaam ko basa
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   Kehna ke pura ho gaya waada ae ghamzada
 
   3
-  Ae Zainab teri raah meiṅ aae ga ek maqaam
+  Ae Zainab teri raah meiṅ aae ga ak maqaam
   Haakim bulaae ga wahaaṅ le le ke sab ka naam
   Karna wahaaṅ bhi sabr tu karna na baddua
 
@@ -39,7 +39,7 @@ romanLyrics: |-
   Quraaṅ sunaae ga wahiṅ naize pe sar mera
 
   5
-  Ek aisi basti aae gi kuchh pehle Shaam se
+  Ak aisi basti aae gi kuchh pehle Shaam se
   Taqsim ho gi chaadar-e-raahib ke naam se
   Phir chhin leṅ ge chaadareṅ aa kar wo ashqiya
 

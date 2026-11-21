@@ -13,58 +13,58 @@ aliases: ["Jab Laashae Hussain"]
 published: true
 romanLyrics: |-
   Jab laasha-e-Husain na khaime meiṅ jaa sake
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
-  Laasha uthaane wala to koi nahiṅ raha
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Laasha uthaane waala to koi nahiṅ raha
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   1
   Khaime meiṅ laash-e-Shaah ki ab le ke jaaye kaun
   Koi nahiṅ hai laasha-e-Sarwar uthaaye kaun
   Haaṅ dekh kar Husain ki ghurbat ka maajra
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   2
   Beta bacha hai ke wo bimaar hai magar
   Maqtal se kar na paaye ga khaime talak safar
-  Maqtal talak qiyaam se karti hui buka
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Maqtal talak qiyaam se karti hui bukaa
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   3
-  Haṅsne lage ye dekh ke saare sitam shiaar
+  Hansne lage ye dekh ke saare sitam shiaar
   Aapas meiṅ ek duje se kehte the baar baar
   Is se siwa Husain pe hogi bhi kya jafa
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   4
-  Na jaane kaisa hoga wahaaṅ Bibiyoṅ ka haal
+  Na jaane kaisa hoga wahaaṅ bibiyoṅ ka haal
   Laashe se bhi shahidoṅ ke karne lage malaal
-  Aah o buka se un ko ye mehsus ho gaya
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Aah o bukaa se un ko ye mahsus ho gaya
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   5
   Dil par Husain apne har ek gham ko seh gaye
   Laasha har ek shahid ka khaime meiṅ le gaye
   Laasha magar Husain ka maqtal meiṅ hi raha
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   6
-  Jin Bibiyoṅ ka saaya bhi dekha nahiṅ gaya
-  Wo Bibiyaaṅ hai laasha-e-Sarwar pe berida
+  Jin bibiyoṅ ka saaya bhi dekha nahiṅ gaya
+  Wo bibiyaaṅ hai laasha-e-Sarwar pe berida
   Hilne laga ye dekh ke maidaan-e-Karbala
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   7
   Maqtal meiṅ jab ke ho gaya kohraam ek bapa
   Abbas ke janaaze pe Fizza ne ye kaha
   Uth kar zara ye dekh le ae mere baawafa
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   8
   Jauhar para tha laasha-e-Shabbir beamaaṅ
   Rukti bhi kaise khaime meiṅ Zehra ki betiyaaṅ
   Safdar bala ke dasht meiṅ aakhir yehi hua
-  Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
+  Khud bibiyaaṅ Husain ke laashe pe aa gayiṅ
 ---
 
 جب لاشۂ حسین نہ خیمے میں جا سکے

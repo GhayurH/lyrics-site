@@ -8,64 +8,67 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jaan e Zehra ka matam hay kam na ho ga
+  Jaan-e-Zehra ka maatam hai kam na ho ga
 
   1
-  Haey pardes may us ka cheda gala
-  Samnay maa ke veeran jhoola hua
-  Dafn kartay hi ye Shah e deen ne kaha
-  Pyasay Asghar ka matam hay matam
-  Pyasay Asghar ka matam hay,  kam na ho ga
+  Sher o Safdar ka maatam hai kam na ho ga
+  Koi mehmaan par zulm dhaata nahiṅ
+  Koi ghurbat mein hargiz sataata nahiṅ
+  Koi sajde mein khanjar chalaata nahiṅ
+  Halq-e-Sarwar ka maatam hai maatam
+  Halq-e-Sarwar ka maatam hai kam na ho ga
 
   2
-  Koi mehmaan par zulm dhata nahi
-  Koi ghurbat may hargiz satata nahi
-  Koi sajday may khanjar chalata nahi
-  Halq e Sarwar ka matam hay matam
-  Halq e Sarwar ka matam hay,  kam na ho ga
+  Naujawaaṅ ke jigar par jo barchhi lagi
+  Shaah ki binaai woh saath mein le gai
+  Umm-e-Laila ke dil mein ani hai gari
+  Ali Akbar ka maatam hai maatam
+  Ali Akbar ka maatam hai kam na ho ga
 
   3
-  Khoon peeti raheen zulm ki barchiyan
-  Zakhm seenay pe khaye ga har naujawan
-  Kat ke bhi ye kahay gi hamari zubaan
-  Ali Akbar ka matam hay matam
-  Ali Akbar ka matam hay,  kam na ho ga
+  Kar ke qabza taraai pe pyaasa raha
+  Pura mashkiza tiroṅ se chhalni hua
+  Donoṅ baazu kata kar jo maara gaya
+  Us dilaawar ka maatam hai maatam
+  Us dilaawar ka maatam hai kam na ho ga
 
   4
-  Khoon e Abid jahan may bahain gay ham
-  Karbala har jagha par banayain gay ham
-  Shamaa mazloomiat ki jalayain gay ham
-  Ye bahattar ka matam hay matam
-  Ye bahattar ka matam hay,  kam na ho ga
+  Shaah ne bachche ko jalti zamiṅ par rakha
+  Badle paani ke sukha gala chhid gaya
+  Khun-e-Asghar ko Sarwar ne muṅh par mala
+  Ali Asghar ka maatam hai maatam
+  Ali Asghar ka maatam hai kam na ho ga
 
   5
-  Jang karnay ko Zainab ke do laadlay
-  Aaye maqtal se khoon may nahaye huay
-  Aon o Jafar ka matam hay kam na ho ga
+  Jang karne ko Zainab ke do laadle
+  Aaye maqtal se khuṅ mein nahaaye hue
+  Apne maamuṅ pe donoṅ fida ho gae
+  Aun o Jafar ka maatam hai maatam
+  Aun o Jafar ka maatam hai kam na ho ga
 
   6
-  Dasht may ik qayamat bapa ho gayi
-  Lash tukron may nohshah ki bat gayi
-  Jaan e Shabbar ka matam hay Kam na ho ga
+  Khun-e-Aabid jahaaṅ mein bahaaeṅ ge ham
+  Karbala har jagah par banaaeṅ ge ham
+  Shama mazlumiyat ki jalaaeṅ ge ham
+  Ye bahattar ka maatam hai maatam
+  Ye bahattar ka maatam hai kam na ho ga
 
   7
-  Kar ke qabza tarae pe pyasa raha
-  Jo tha mashkeeza teeron se chalni hua
-  Dono baazo kata ke wo maara gaya
-  Us dilawar ka matam hay matam
-  Us dilawar ka matam hay kam na ho ga
-
-  8
-  Nojawan ke jigar par jo barchi lagi
-  Ran may pyaray Nabi ki nishani miti
-  Seena Akbar ka haey naizay ki ani
-  Ali Akbar ka matam hay kam na ho ga
-
-  9
-  Sheh ne bachay ko jalti zameen par rakha
-  Badlay pani ke sookha gala chid gaya
-  Choom ke nanhay Asghar ko Sheh ne kaha
-  Ali Asghar ka matam hay kam na ho ga
+  Dasht mein ik qayaamat bapa ho gai
+  Laash tukroṅ mein Naushaah ki bat gai
+  Laash dulha ki gathri mein laai gai
+  Jaan-e-Shabbar ka maatam hai maatam
+  Jaan-e-Shabbar ka maatam hai kam na ho ga
+  Haaye pardes mein us ka chheda gala
+  Saamne maaṅ ke wiraan jhula hua
+  Dafn karte hi ye Shaah-e-Din ne kaha
+  Pyaase Asghar ka maatam hai maatam
+  Pyaase Asghar ka maatam hai kam na ho ga
+  Khun piti rahiṅ zulm ki barchhiyaaṅ
+  Zakhm sine pe khaaye ga har naujawaan
+  Kat ke bhi ye kahe gi hamaari zubaaṅ
+  Ali Akbar ka maatam hai maatam
+  Ali Akbar ka maatam hai kam na ho ga
 ---
 
 جان زہراؑ کا ماتم ہے کم نہ ہو گا

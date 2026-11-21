@@ -9,53 +9,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hai Soag Jis Jagah Bhi Sheh-e-Mashreqain Ka
-  Khud Pursa Zahra Leti Haiṅ Is Nur-e-Ain Ka
-  Rona Sawab Jis Pe Na Rona Haram Hai
-  Yeh Majlis-e-Husain Alaihissalam Hai
-  Chashm-e-Khuda Meiṅ Is Ka Bara Ehteram Hai
+  Hai sog jis jagah bhi sheh-e-mashriqain ka
+  Khud pursa Zahra leti haiṅ is nur-e-ain ka
+  Rona sawab jis pe na rona haraam hai
+  Yeh majlis-e-Husain alaihissalam hai
+  Chashm-e-Khuda meiṅ is ka bara ehtiraam hai
 
   1
-  Yeh Majliseiṅ Haiṅ Hamd-e-Khuda Naat-e-Mustafa
-  In Majlisoṅ Meiṅ Hota Hai Quran Lab Kusha
-  In Majlisoṅ Se Milta Hai Jannat Ka Rasta
-  In Majlisoṅ Ki Hoti Hai Kuch Aisi Ibtida
-  Zakir Ke Lab Pe Pehle Khuda Ka Kalam Hai
+  Yeh majliseiṅ haiṅ hamd-e-Khuda naat-e-Mustafa
+  In majlisoṅ meiṅ hota hai Quran lab kusha
+  In majlisoṅ se milta hai jannat ka raasta
+  In majlisoṅ ki hoti hai kuch aise ibtida
+  Zakir ke lab par pehle Khuda ka kalaam hai
 
   2
-  In Majlisoṅ Meiṅ Hoti Hai Insaniyat Ki Baat
-  Zikr-e-Gham-e-Husain Hai Wahdaniyat Ki Baat
-  Yeh Majliseiṅ Rasul Ki Haqqaniyat Ki Baat
-  Radd Karti Haiṅ Yeh Majliseiṅ Sufyaniyat Ki Baat
-  In Ke Sabab To Hurr Bhi Alaihissalam Hai
+  In majlisoṅ meiṅ hoti hai insaaniyat ki baat
+  Zikr-e-gham-e-Husain hai wahdaaniyat ki baat
+  Yeh majliseiṅ Rasul ki haqqaaniyat ki baat
+  Radd karti haiṅ yeh majliseiṅ safaaniyat ki baat
+  In ke sabab to Hurr bhi alaih salaam hai
 
   3
-  In Majlisoṅ Ko Ajr-e-Risalat Kaha Gaya
-  Roz-e-Azal Se Rone Ko Fitrat Kaha Gaya
-  Dil Ki Lughat Meiṅ Is Ko Muhabbat Kaha Gaya
-  Yaani Ise Batul Ki Sunnat Kaha Gaya
-  Har Rone Wali Aankh Ko Mera Salam Hai
+  In majlisoṅ ko ajr-e-risaalat kaha gaya
+  Roz-e-azal se rone ko fitrat kaha gaya
+  Dil ki lughat meiṅ is ko muhabbat kaha gaya
+  Yaani ise Batul ki sunnat kaha gaya
+  Har rone wali aankh ko mera salaam hai
 
   4
-  Ek Majlis-e-Aza Jo Hui Mulk-e-Shaam Meiṅ
-  Zainab Ne Saf Bichayi Thi Yaad-e-Imam Meiṅ
-  Aansu Chhupe Hue The Shahidoṅ Ke Naam Meiṅ
-  Matam Hua Jo Yaad-e-Sheh-e-Tashna Kaam Meiṅ
-  Tab Se Gham-e-Husain Zamane Meiṅ Aam Hai
+  Ek majlis-e-aza jo hui mulk-e-Shaam meiṅ
+  Zainab ne saf bichhai thi yaad-e-imaam meiṅ
+  Aansu chhupe hue the shahidoṅ ke naam meiṅ
+  Maatam hua jo yaad-e-sheh-e-tashna kaam meiṅ
+  Tab se gham-e-Husain zamaane meiṅ aam hai
 
   5
-  Majlis Meiṅ Zikr-e-Bali Sakina Kiya Karo
-  Pani Piyo To Yaad Sheh-e-Karbala Ki Ho
-  Majlis Meiṅ Tazkira Ali Asghar Ka Jab Suno
-  Ik Aah Sard Bhar Ke Tarap Kar Yehi Kaho
-  Asghar Bara Tera Shahidoṅ Meiṅ Maqam Hai
+  Majlis meiṅ zikr-e-baali Sakina kiya karo
+  Paani piyo to yaad sheh-e-Karbala ki ho
+  Majlis meiṅ tazkira Ali Asghar ka jab suno
+  Ik aah sard bhar ke tarap kar yehi kaho
+  Asghar bara tera shahidoṅ meiṅ maqaam hai
 
   6
-  Is Majlis-e-Husain Ka Sarwar Hai Noha Khwaṅ
-  Thakti Nahi Hai Zikr-e-Hussaini Meiṅ Yuṅ Zabaṅ
-  Ghutti Meiṅ Ashk-e-Gham Ko Pilati Rahi Hai Maa
-  Walid Ne Di Hai Kaan Meiṅ Nohoṅ Ki Woh Azaaṅ
-  Rehan Jis Se Sare Zamane Meiṅ Naam Hai
+  Is majlis-e-Husain ka Sarwar hai noha khwaaṅ
+  Thakti nahiṅ hai zikr-e-Husaini meiṅ yuṅ zabaaṅ
+  Ghutti meiṅ ashk-e-gham ko pilaati rahi hai maaṅ
+  Waalid ne di hai kaan meiṅ nohoṅ ki woh azaaṅ
+  Rehan jis se saare zamaane meiṅ naam hai
 ---
 ہے سوگ جس جگہ بھی شہہ مشرقین کا
 خود پرسہ زہراؑ لیتی ہیں اس نور عین کا

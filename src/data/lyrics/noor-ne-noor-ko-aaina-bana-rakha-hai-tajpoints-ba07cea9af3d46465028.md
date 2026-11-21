@@ -1,44 +1,78 @@
 ---
-title: "Noor Ne Noor Ko Aaina Bana Rakha Hai"
+title: "نور نے نور کو آئینہ بنا رکھا ہے"
+alternateTitle: "Noor Ne Noor Ko Aaina Bana Rakha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Noor ne noor ko aaina bana rakha hai
+  Hamd pe meem ka amama saja rakha hai
+
+  1
+  Fatima bint-e-Hasan our Ali ibn-e-Hussain
+  Do charagon ke musallay pe diya rakha hai
+  Roye roshan, nafs e pak, kalam-e-tatheer
+  Hoo ne batin tere zahir mein chupa rakha hai
+
+  2
+  Baqir al arz-o-samawaat ke khutboon se khula
+  Kaun sa tarah hai our kaun si ja rakha hai
+  Ishq our aqal ke behtay hoye daryaon par
+  Ilm ne ik khat-e-tadeel laga rakha hai
+
+  3
+  Baqir ul ilm ki chokhat pe yaqeenan Rab ne
+  Looh-e-mehfooz ka darwaza saja rakha hai
+  Gaysoon ke tere hai naam ghataon ka chalan
+  Paish qadmi ka teri naam hawa rakha hai
+
+  4
+  Makhfiyat e shab-e-Ashor ke kamsin mashaf
+  Tu ne aabad gham-e-Karb-o-Bala rakha hai
+  Tere soraj ki zia hotey hoye bhi sab ne
+  Aaj ki roshni ko kal pe utha rakha hai
+
+  5
+  Aye Kareem ibn-e-Kareem ibn-e-Imam ibn-e-Imam
+  Mere kasay mein tera rizq atta rakha hai
+  Aayatein parhne mein jo lutf hai shamil Akbar
+  Madh-e-Baqir mein woh Khaliq ne maza rakha hai
 ---
 
-Noor Ne Noor Ko Aaina Bana Rakha Hai.
-Hamd Pe Meem Ka Amama Saja Rakha Hai.
+نور نے نور کو آئینہ بنا رکھا ہے
+حمد پہ میم کا عمامہ سجا رکھا ہے
 
-1
-Fatima Bint-e-Hasan Our Ali Ibn-e-Hussain.
-Do Charagon Ke Musallay Pe Diya Rakha Hai.
-Roye Roshan, Nafs e Pak, Kalam-e-Tatheer.
-Hoo Ne Batin Tere Zahir Mein Chupa Rakha Hai.
+۱
+فاطمہ بنتِ حسن اور علی ابنِ حسین
+دو چراغوں کے مصلّے پہ دیا رکھا ہے
+روئے روشن، نفسِ پاک، کلامِ تطہیر
+ہو نے باطن تیرے ظاہر میں چھپا رکھا ہے
 
-2
-Baqir Al Arz-o-Samawaat Ke Khutboon Se Khula.
-Kaun Sa Tarah Hai Our Kaun Si Ja Rakha Hai.
-Ishq Our Aqal Ke Behtay Hoye Daryaon Par.
-Ilm Ne Ik Khat-e-Tadeel Laga Rakha Hai.
+۲
+باقر الارض و سماوات کے خطبوں سے کھلا
+کون سا طرح ہے اور کون سی جا رکھا ہے
+عشق اور عقل کے بہتے ہوئے دریاؤں پر
+علم نے اک خطِ تعدیل لگا رکھا ہے
 
-3
-Baqir Ul Ilm Ki Chokhat Pe Yaqeenan Rab Ne.
-Looh-e-Mehfooz Ka Darwaza Saja Rakha Hai.
-Gaysoon Ke Tere Hai Naam Ghataon Ka Chalan.
-Paish Qadmi Ka Teri Naam Hawa Rakha Hai.
+۳
+باقر العلم کی چوکھٹ پہ یقیناً رب نے
+لوحِ محفوظ کا دروازہ سجا رکھا ہے
+گیسوؤں کے تیرے ہے نام گھٹاؤں کا چلن
+پیش قدمی کا تیری نام ہوا رکھا ہے
 
-4
-Makhfiyat e Shab-e-Ashor Ke Kamsin Mashaf.
-Tu Ne Aabad Gham-e-Karb-o-Bala Rakha Hai.
-Tere Soraj Ki Zia Hotey Hoye Bhi Sab Ne.
-Aaj Ki Roshni Ko Kal Pe Utha Rakha Hai.
+۴
+مخفیتِ شبِ عاشور کے کم سن مصحف
+تو نے آباد غمِ کرب و بلا رکھا ہے
+تیرے سورج کی ضیا ہوتے ہوئے بھی سب نے
+آج کی روشنی کو کل پہ اٹھا رکھا ہے
 
-5
-Aye Kareem Ibn-e-Kareem Ibn-e-Imam Ibn-e-Imam.
-Mere Kasay Mein Tera Rizq Atta Rakha Hai.
-Aayatein Parhne Mein Jo Lutf Hai Shamil Akbar.
-Madh-e-Baqir Mein Woh Khaliq Ne Maza Rakha Hai.
+۵
+اے کریم ابنِ کریم ابنِ امام ابنِ امام
+میرے کاسے میں تیرا رزق عطا رکھا ہے
+آیتیں پڑھنے میں جو لطف ہے شامل اکبر
+مدحِ باقر میں وہ خالق نے مزا رکھا ہے

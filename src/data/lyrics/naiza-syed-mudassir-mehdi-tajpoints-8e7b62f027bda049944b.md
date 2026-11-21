@@ -1,44 +1,78 @@
 ---
-title: "Naiza Syed Mudassir Mehdi"
+title: "نیزہ سید مدثر مہدی"
+alternateTitle: "Naiza Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jary"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kar gaya zakhmi Sheh-e-Dein ka kaleja naiza
+  Jab sitamgar ne Akbar ko tha mara naiza
+
+  1
+  Gir paray khak pe ghorey se ya Akbar keh kar
+  Jis ghari seene pe Shabir ke aaya naiza
+  Khanjar-e-Shimar na jab kaat saka khushk gala
+  Sheh rag-e-shah mein zalim ne utara naiza
+
+  2
+  Karbala kanp gayi aa ke sitamgar ne jab
+  Qabar-e-Be Sheer pe mara jo dobarah naiza
+  Dar ke Sajjad ke pichey woh chupi jati thi
+  Shimar ne jab bhi Sakina ko dikhaya naiza
+
+  3
+  De rahe hongay sada Sham-e-Ghareebaan mein Ali
+  Ban ke Abbas utha Sani-e-Zahra naiza
+  De ke Ghazi ko sada Zainab-e-Muztar roein
+  Ibn-e-Nofal ne jonhi pusht pe mara naiza
+
+  4
+  Terah zarbain bhi lagin Shimar ki lekin pehle
+  Barh ke Sanaan ne Sarwar pe chalaya naiza
+  Zulm yeh ruk na saka Karbala ke maqtal tak
+  Aal-e-Ahmad ne Madina mein bhi khaya naiza
+
+  5
+  Haye jis naizay ne Akbar ka jigar chera tha
+  Cheenaney Chadar-e-Zainab ko woh mara naiza
+  Shimar ne Sham ke bazar mein afsoos Jary
+  Rakh ke Zainab ki rida hans ke uthaya naiza
 ---
 
-Kar Gaya Zakhmi Sheh-e-Dein Ka Kaleja Naiza.
-Jab Sitamgar Ne Akbar Ko Tha Mara Naiza.
+کر گیا زخمی شہِ دیں کا کلیجہ نیزہ
+جب ستمگر نے اکبر کو تھا مارا نیزہ
 
-1
-Gir Paray Khak Pe Ghorey Se Ya Akbar Keh Kar.
-Jis Ghari Seene Pe Shabir Ke Aaya Naiza.
-Khanjar-e-Shimar Na Jab Kaat Saka Khushk Gala.
-Sheh Rag-e-Shah Mein Zalim Ne Utara Naiza.
+۱
+گر پڑے خاک پہ گھوڑے سے یا اکبر کہہ کر
+جس گھڑی سینے پہ شبیر کے آیا نیزہ
+خنجرِ شمر نہ جب کاٹ سکا خشک گلا
+شہ رگِ شاہ میں ظالم نے اتارا نیزہ
 
-2
-Karbala Kanp Gayi Aa Ke Sitamgar Ne Jab.
-Qabar-e-Be Sheer Pe Mara Jo Dobarah Naiza.
-Dar Ke Sajjad Ke Pichey Woh Chupi Jati Thi.
-Shimar Ne Jab Bhi Sakina Ko Dikhaya Naiza.
+۲
+کربلا کانپ گئی آ کے ستمگر نے جب
+قبرِ بے شیر پہ مارا جو دوبارہ نیزہ
+ڈر کے سجاد کے پیچھے وہ چھپی جاتی تھی
+شمر نے جب بھی سکینہ کو دکھایا نیزہ
 
-3
-De Rahe Hongay Sada Sham-e-Ghareebaan Mein Ali.
-Ban Ke Abbas Utha Sani-e-Zahra Naiza.
-De Ke Ghazi Ko Sada Zainab-e-Muztar Roein.
-Ibn-e-Nofal Ne Jonhi Pusht Pe Mara Naiza.
+۳
+دے رہے ہوں گے صدا شامِ غریباں میں علی
+بن کے عباس اٹھا ثانیِ زہرا نیزہ
+دے کے غازی کو صدا زینبِ مضطر روئیں
+ابنِ نوفل نے جونہی پشت پہ مارا نیزہ
 
-4
-Terah Zarbain Bhi Lagin Shimar Ki Lekin Pehle.
-Barh Ke Sanaan Ne Sarwar Pe Chalaya Naiza.
-Zulm Yeh Ruk Na Saka Karbala Ke Maqtal Tak.
-Aal-e-Ahmad Ne Madina Mein Bhi Khaya Naiza.
+۴
+تیرہ ضربیں بھی لگیں شمر کی لیکن پہلے
+بڑھ کے سنان نے سرور پہ چلایا نیزہ
+ظلم یہ رک نہ سکا کربلا کے مقتل تک
+آلِ احمد نے مدینہ میں بھی کھایا نیزہ
 
-5
-Haye Jis Naizay Ne Akbar Ka Jigar Chera Tha.
-Cheenaney Chadar-e-Zainab Ko Woh Mara Naiza.
-Shimar Ne Sham Ke Bazar Mein Afsoos Jary.
-Rakh Ke Zainab Ki Rida Hans Ke Uthaya Naiza.
+۵
+ہائے جس نیزے نے اکبر کا جگر چیرا تھا
+چھیننے چادرِ زینب کو وہ مارا نیزہ
+شمر نے شام کے بازار میں افسوس جری
+رکھ کے زینب کی ردا ہنس کے اٹھایا نیزہ

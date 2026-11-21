@@ -1,35 +1,59 @@
 ---
-title: "Paish-e-Rab Nazar Aayi Oss Ki Zaat Sajday Mein Lyrics 2016"
+title: "پیشِ رب نظر آئی اس کی ذات سجدے میں"
+alternateTitle: "Paish-e-Rab Nazar Aayi Oss Ki Zaat Sajday Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Paish-e-Rab nazar aayi oss ki zaat sajday mein
+  Jis ke dar pe rehti hai kainat sajday mein
+  Barsar-e-Saf-e-Matam ja-namaz hai seena
+  Our hain musalsal yeh mere hath sajday mein
+
+  2
+  Ja ke turbat-e-ghazi dekh apni aankhon se
+  Tishnagi ke qadmo par hai Furat sajday mein
+  Karbala ke maqtal mein Sheh ka dekh kar sajda
+  Anbiya ke sajday hain aik sath sajday mein
+
+  3
+  Dekhna zara Fiza, yeh Hussain hai shayad
+  Fatima yeh karti hain kis se baat sajday mein
+  Aasmaan ne dekha hai rooz Hazrat-e-Salmaan
+  Aik dar pe rehte hain sari raat sajday mein
+
+  4
+  Pusht par Muhammad ki aa gaya nawasa kya
+  Ruk gayi hai kyun aa kar ab salaat sajday mein
+  Khud assa-e-Mosa ke lab pe yeh Takallum hai
+  Hain alam pe Ghazi ke moajzaat sajday mein
 ---
 
-1
-Paish-e-Rab Nazar Aayi Oss Ki Zaat Sajday Mein.
-Jis Ke Dar Pe Rehti Hai Kainat Sajday Mein.
-Barsar-e-Saf-e-Matam Ja-Namaz Hai Seena.
-Our Hain Musalsal Yeh Mere Hath Sajday Mein.
+۱
+پیشِ رب نظر آئی اس کی ذات سجدے میں
+جس کے در پہ رہتی ہے کائنات سجدے میں
+برسرِ صفِ ماتم جا نماز ہے سینہ
+اور ہیں مسلسل یہ میرے ہاتھ سجدے میں
 
-2
-Ja Ke Turbat-e-Ghazi Dekh Apni Aankhon Se.
-Tishnagi Ke Qadmo Par Hai Furat Sajday Mein.
-Karbala Ke Maqtal Mein Sheh Ka Dekh Kar Sajda.
-Anbiya Ke Sajday Hain Aik Sath Sajday Mein.
+۲
+جا کے تربتِ غازی دیکھ اپنی آنکھوں سے
+تشنگی کے قدموں پر ہے فرات سجدے میں
+کربلا کے مقتل میں شہ کا دیکھ کر سجدہ
+انبیا کے سجدے ہیں ایک ساتھ سجدے میں
 
-3
-Dekhna Zara Fiza Yeh Hussain Hai Shayad.
-Fatima Yeh Karti Hain Kis Se Baat Sajday Mein.
-Aasmaan Ne Dekha Hai Rooz Hazrat-e-Salmaan.
-Aik Dar Pe Rehte Hain Sari Raat Sajday Mein.
+۳
+دیکھنا ذرا فضہ، یہ حسین ہے شاید
+فاطمہ یہ کرتی ہیں کس سے بات سجدے میں
+آسمان نے دیکھا ہے روز حضرتِ سلمان
+ایک در پہ رہتے ہیں ساری رات سجدے میں
 
-4
-Pusht Par Muhammad Ki Aa Gaya Nawasa Kya.
-Ruk Gayi Hai Kyun Aa Kar Ab Salaat Sajday Mein.
-Khud Assa-e-Mosa Ke Lab Pe Yeh Takallum Hai.
-Hain Alam Pe Ghazi Ke Moajzaat Sajday Mein.
+۴
+پشت پر محمد کی آ گیا نواسہ کیا
+رک گئی ہے کیوں آ کر اب صلات سجدے میں
+خود عصائے موسیٰ کے لب پہ یہ تکلم ہے
+ہیں علم پہ غازی کے معجزات سجدے میں

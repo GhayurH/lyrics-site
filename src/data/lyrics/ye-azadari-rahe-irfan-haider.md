@@ -9,114 +9,54 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Ye Azadari Rahe Irfan Haider"
-romanLyrics: 'Hum Rahain Ya Na Rahain Yeh Azadari Rahay
-
-  Shama se Shama Jale.......
-
+romanLyrics: |-
+  Shama se shama jale, silsila jaari rahe
+  Hum raheṅ ya na raheṅ, yeh azadaari rahe
 
   1
-
-  1. Apni Naslon Lo Sikhate Raho, Matam ka hunar,
-
-  Seena dar Seena Kare, Bus Yeh Azadari Safar,
-
-  Jaise Halaat Bhi Ho, rasm yeh Jaari Rahe,
-
-  Hum Rahe Ya Na Rahe Yeh Azadari Rahe.
-
+  Apni nasloṅ ko sikhaate raho maatam ka hunar
+  Sina dar sina kare bas yeh azadaari safar
+  Jaise haalaat bhi hoṅ, yeh amal jaari rahe
 
   2
-
-  2. Laakh Badle yeh Zamane Ki ravish aur Mausam
-
-  Ek Pal Bhi Na Ruke Ashk E Aza Aur Matam,
-
-  Matam E Sheh Ka Junoon Zehen Par taari rahe
-
+  Laakh badle yeh zamaane ki ravish aur mausam
+  Ek pal bhi na ruke ashk-e-aza aur maatam
+  Maatam-e-Sheh ka junuṅ, zehan par taari hi rahe
 
   3
-
-  Chahe Iss Gham Ke Liye Sar Bhi Katay Ghar Bhi Jalay.
-
-  Hurmat-e-Farsh-e-Azza Jan Se Pyari Rahe.
-
-  Yeh Sabeelein Younhi Aabad Rahein Ahl-e-Azza.
-
-  Our Ghar Ghar Pe Nazar Aaye Alam Ghazi Ka.
-
+  Tum agar zaakir Shabbir ho yeh yaad rahe
+  Chaahe is gham ke liye sar bhi kate ghar bhi jale
+  Hurmat-e-farsh-e-aza, jaan se pyaari rahe
 
   4
-
-  3. Tum agar Zakir E Shabbir Ho Yeh Yaad Rahe,
-
-  Chahe Is gham ke Liye sar Bhi kate Ghar Bhi Jale
-
-  Hurmat E Farsh E Aza, Jaan Se Pyari Rahe,
-
+  Yeh sabileṅ yuṅhi aabaad raheṅ ahl-e-aza
+  Aur ghar ghar pe nazar aaye alam Ghazi ka
+  Yeh alam uṅcha rahe, yeh alamdaari rahe
 
   5
-
-  4. Yeh Sabile yunhi Aabad rahe Ahle Aza,
-
-  Aur Ghar Ghar Pe Nazar Aaye Alam Ghazi Ka,
-
-  Ye alam Ooncha Rahe Yeh Alamdari Rahe,
-
+  Duniya waaloṅ ki na parwaah na kuchh baat karo
+  Mannati beriyaaṅ Sajjad ke gham mein pehno
+  Raunaq-e-farsh-e-aza, girya o zaari hi rahe
 
   6
-
-  5. Duniya Walon Ki Na Parvah haan na kuch baat Karo,
-
-  Mannati Bediyan Sajjad ke gham Me Pehno,
-
-  Raunake Farsh E Aza Girya O Zaari Rahe
-
+  Maaoṅ behnoṅ ko hai paighaam mera sirf yahi
+  Apne bachchoṅ ko julusoṅ se nahiṅ roko kabhi
+  Yeh shahaadat hai sharaf, yeh sharaf jaari rahe
 
   7
-
-  6. Maao Behno Ko Hai Paigam mera sirf yehi,
-
-  Aapne Bacchon Julooson Se Nahi Roko Kabhi,
-
-  Yeh Shahadat Hai Sharaf, Yeh Sharaf Jaari Rahe,
-
+  Apne ghar mein bhi aza khaana sajaana hai mujhe
+  Apne bachchoṅ ko azadaar banaana hai mujhe
+  Taa ke is nasl mein bhi, taziya daari rahe
 
   8
-
-  Apne Bachoon Ko Azadar Banana Hai Mujhe.
-
-  Ta Keh Iss Nasal Mein Bhi Taziya Dari Rahe.
-
-  Majlis-e-Shah Ki Zindaan Mein Jo Bunyad Rakhi.
-
-  Asal Mein Zainab-o-Sajjad Ki Khuwaish Thi Yehi.
-
+  Majlis-e-Shah ki zindaaṅ mein jo bunyaad rakhi
+  Asl mein Bibiyoṅ Sajjad ki khwaahish thi yahi
+  Yeh azadaar raheṅ, yeh azadaari rahe
 
   9
-
-  7. Apne Ghar Mein Bhi azakhaana Sajana hai Mujhe
-
-  Apne Bacchon Ko Azadar Banana Hai Mujhe
-
-  TaaKe Is Nasl Mein bhi Taziadaari Rahe,
-
-
-  10
-
-  8. Majlis E Shah Ki Zindan Mein Jo Buniad Rakhi,
-
-  Asl Me Zainab O Sajjad Ki Khwaish Thi Yahi
-
-  Yeh Azadar Rahe Yeh Azadari Rahe,
-
-
-  11
-
-  9. Majlis O Matam E Shabbir ki Tableegh Karo,
-
-  Baat Yeh Mazhar O Irfan Zamane Se Kaho,
-
-  Munkir E Zahra Se Har Haal Me Bezaari Rahe,'
+  Majlis o maatam-e-Shabbir ki tabligh karo
+  Baat yeh Mazhar o Irfan zamaane se kaho
+  Munkir-e-Bibi se har haal mein bezaari rahe
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 ---
 

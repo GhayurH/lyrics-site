@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aakhri baar mera haale musibat sunlo
-  Bhai sajjad sakina ki wasiyat sunlo
-  Jab bhi ho karbobala aap ka jaana bhaiya
-  Meri rudad chacha jaaṅ ko sunana bhaiya
+  Aakhri baar mera haal-e-musibat sun lo
+  Bhai Sajjad Sakina ki wasiyat sun lo
+  Jab bhi ho Karb o Bala aap ka jaana bhaiya
+  Meri rudaad chacha jaaṅ ko sunaana bhaiya
   Ye wasiyat meri tum bhul na jaana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Wo agar puche mere haal chacha se kehna
-  Meri nindeiṅ hui pamaal chacha se kehna
-  Taaziyano ka sab ehwaal chacha se kehna
-  Ab bhi nile hai mere gaal chacha se kehna
-  Jo sitam mujhpe huwe saare batana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Paoṅ jalte the mere hoti thi iza mujhko
-  Chaoṅ meiṅ baithne dete na the aada mujhko
-  Jab bhi chalte huwe ghash dhup meiṅ aaya mujhko
-  Unt ki pusht se jallad ne baandha mujhko
-  Mai bahot royi magar shimr na maana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Jab haram qaid huwe maiṅ ne chacha ko dhunda
-  Jab bandhe baara gale maiṅ ne chacha ko dhunda
-  Jab gohar mere chine maiṅ ne chacha ko dhunda
-  Jab mujhe durre lage maiṅ ne chacha ko dhunda
-  Wo agar hote satata na zamana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Qaid khane se hi mansub hai ab raat meri
-  Hoga ehsaan nibhadoge agar baat meri
-  Chain se qabr meiṅ ghat jayegi har raat meri
-  Jite ji unse na ho paayi mulaqaat meri
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Wo agar puchhe mere haal chacha se kehna
+  Meri nindeṅ hui paamaal chacha se kehna
+  Taaziyanoṅ ka sab ahwaal chacha se kehna
+  Ab bhi nile haiṅ mere gaal chacha se kehna
+  Jo sitam mujh pe hue saare bataana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Paaoṅ jalte the mere hoti thi iza mujhko
+  Chhaaoṅ mein baithne dete na the aada mujhko
+  Jab bhi chalte hue ghash dhup mein aaya mujhko
+  Unt ki pusht se jallaad ne baandha mujhko
+  Main bahut roi magar Shimr na maana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Jab haram qaid hue main ne chacha ko dhunda
+  Jab bandhe baarah gale main ne chacha ko dhunda
+  Jab gauhar mere chhine main ne chacha ko dhunda
+  Jab mujhe durre lage main ne chacha ko dhunda
+  Wo agar hote sataata na zamaana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Qaid khaane se hi mansub hai ab raat meri
+  Hoga ehsaan nibha doge agar baat meri
+  Chain se qabr mein ghat jaaegi har raat meri
+  Jite ji unse na ho paai mulaaqaat meri
   Sar chacha jaaṅ ka meri qabr pe laana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Karbala jao to aisa nahi hone dena
-  Unko tanhai ka sadma nahi hone dena
-  Mere ammu ko akela nahi hone dena
-  Qabr e ghazi pe andhera nahi hone dena
-  Ek diya meri taraf se bhi jalana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Mere ehsaas e gharibi se bachana unko
-  Yaad wo waqt e musibat na dilana unko
-  Mera ehwaal e kanizi na sunana unko
-  Hashmi sher hai mat yaad dilana unko
-  Mai nahi chahti phir hashr uthana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Qaid se chut ke jab karbobala jaoge
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Karbala jaao to aisa nahiṅ hone dena
+  Unko tanhai ka sadma nahiṅ hone dena
+  Mere ammu ko akela nahiṅ hone dena
+  Qabr-e-Ghaazi pe andhera nahiṅ hone dena
+  Ik diya meri taraf se bhi jalaana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Mere ehsaas-e-gharibi se bachaana unko
+  Yaad wo waqt-e-musibat na dilaana unko
+  Mere ahwaal-e-kanizi na sunaana unko
+  Haashmi sher hai mat yaad dilaana un ko
+  Main nahiṅ chaahti phir hashr uthaana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Qaid se chhut ke jab Karbobala jis jaaoge
   Pehle to karna salaam unko meri jaanib se
-  Phir batana ke ye din kaise guzare maiṅ ne
-  Aur jab phul charhane lago us turbat pe
-  Meri jaanib se rida meri urana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
-  Sunke arif ye wasiyat thi qayamat barpa
-  Laashe abbas tarapti thi sar e karbobala
-  Aur sajjad ki aankhoṅ se lahu jaari tha
-  Jis ghari baali sakina ne ye aahista kaha
-  Meri mayyat ko andhere meiṅ uthana bhaiya
-  Meri rudad chacha...
-  Jab bhi ho karbobala...
+  Phir bataana ke ye din kaise guzaare main ne
+  Aur jab phul charhaane lago us turbat pe
+  Meri jaanib se rida meri urhaana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
+  Sun ke Arif ye wasiyat thi qayaamat barpa
+  Laash-e-Abbaas tarapti thi sar-e-Karbobala
+  Aur Sajjad ki aankhoṅ se lahu jaari tha
+  Jis ghari baali Sakina ne ye aahista kaha
+  Meri mayyat ko andhere mein uthaana bhaiya
+  Meri rudaad chacha
+  Jab bhi ho Karb o Bala
 ---
 
 ۱

@@ -1,28 +1,46 @@
 ---
-title: "Ya Hussain Marahaba Ya Hussain Sajjad Ashraf Taqvi"
+title: "یا حسین مرحبا یا حسین سجاد اشرف تقوی"
+alternateTitle: "Ya Hussain Marahaba Ya Hussain Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ya Hussain marahaba ya Hussain Sajjad Ashraf Taqvi
+  Deen-e-Muhammadi ka nigehban aa gaya
+  Zahra ke ghar mein bolta Quran aa gaya
+  Rahib ko atta kar diye betay Hussain ne
+  Fitrus bhi lainay par soye zeeshan aa gaya
+  Aane se iss ke ho gayi takmeel-e-Panjtan
+  Quraan mein jaisay sorah-e-Rehman aa gaya
+  Razi Khuda hai iss se yeh razi Khuda se hai
+  Kehta howa yeh arsh se Rizwan aa gaya
+  Iss ke liye Rasool ke sajday mein tool hai
+  Waqt-e-namaz Rab ka yeh farman aa gaya
+  Zulmat se deen-e-haq ko bachaney ke wastay
+  Dast-e-Ali pe deen ka sultan aa gaya
+  Hai yeh dua Hussain se Sajjad our Aqeel
+  Tal jaye yeh jahan se jo bohran aa gaya
 ---
 
-1
-Ya Hussain Marahaba Ya Hussain Sajjad Ashraf Taqvi.
-Deen-e-Muhammadi Ka Nigehban Aa Gaya.
-Zahra Ke Ghar Mein Bolta Quran Aa Gaya.
-Rahib Ko Atta Kar Diye Betay Hussain Ne.
-Fitrus Bhi Lainay Par Soye Zeeshan Aa Gaya.
-Aane Se Iss Ke Ho Gayi Takmeel-e-Panjtan.
-Quraan Mein Jaisay Sorah-e-Rehman Aa Gaya.
-Razi Khuda Hai Iss Se Yeh Razi Khuda Se Hai.
-Kehta Howa Yeh Arsh Se Rizwan Aa Gaya.
-Iss Ke Liye Rasool Ke Sajday Mein Tool Hai.
-Waqt-e-Namaz Rab Ka Yeh Farman Aa Gaya.
-Zulmat Se Deen-e-Haq Ko Bachaney Ke Wastay.
-Dast-e-Ali Pe Deen Ka Sultan Aa Gaya.
-Hai Yeh Dua Hussain Se Sajjad Our Aqeel.
-Tal Jaye Yeh Jahan Se Jo Bohran Aa Gaya.
+۱
+یا حسین مرحبا یا حسین سجاد اشرف تقوی
+دینِ محمدی کا نگہبان آ گیا
+زہرا کے گھر میں بولتا قرآن آ گیا
+راہب کو عطا کر دیے بیٹے حسین نے
+فطرس بھی لینے پر سوئے ذی شان آ گیا
+آنے سے اس کے ہو گئی تکمیلِ پنج تن
+قرآن میں جیسے سورۂ رحمن آ گیا
+راضی خدا ہے اس سے یہ راضی خدا سے ہے
+کہتا ہوا یہ عرش سے رضوان آ گیا
+اس کے لیے رسول کے سجدے میں طول ہے
+وقتِ نماز رب کا یہ فرمان آ گیا
+ظلمت سے دینِ حق کو بچانے کے واسطے
+دستِ علی پہ دین کا سلطان آ گیا
+ہے یہ دعا حسین سے سجاد اور عقیل
+ٹل جائے یہ جہاں سے جو بحران آ گیا

@@ -1,12 +1,15 @@
 ---
-title: "Yeh Oss Ki Marzi Hai Aye Na Khakdaan Ki Taraf"
+title: "یہ اُس کی مرضی ہے آئے نہ خاکدان کی طرف"
+alternateTitle: "Yeh Oss Ki Marzi Hai Aye Na Khakdaan Ki Taraf"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Humein tu dekhte rehna hai aasmaan ki taraf
 ---
 
-Humein Tu Dekhte Rehna Hai Aasmaan Ki Taraf
+ہمیں تو دیکھتے رہنا ہے آسمان کی طرف

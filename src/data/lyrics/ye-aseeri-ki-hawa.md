@@ -9,72 +9,54 @@ poet: "Bilal Kazmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ye aseeri ki hawa kaise chali hai abbas
-
+romanLyrics: |-
+  Ye aseeri ki hawa kaisi chali hai Abbas
 
   1
-
-  Aaj zainab sar e darbar khadi hai abbas
-
-  Jin ke waali bhi nahi godh mein bacche bhi nahi
-
-  Ye behan saath unhe le ke chali hai abbas
-
+  Aaj Zainab sar-e-darbaar khari hai Abbas
+  Jin ke waali bhi nahiṅ god ke bachche bhi nahiṅ
+  Ye behan saath unheṅ le le chali hai Abbas
+  Ye aseeri ki ho...
 
   2
-
-  Ab bhala aur ghareebul watani kya hogi
-
-  Sar pa chadar nahi aur dhoop kadi hai abbas
-
+  Ab bhala aur gharib-ul-watani kya hogi
+  Sar par chaadar nahiṅ aur dhup kari hai Abbas
+  Ye aseeri ki ho...
 
   3
-
-  Bujh gaye shaam e ghariban ke wo sholay lekin
-
-  Dil e zainab mein abhi aag lagi hai abbas
-
+  Bujh gaye shaam-e-gharibaaṅ ke woh shole lekin
+  Dil-e-Zainab mein abhi aag lagi hai Abbas
+  Ye aseeri ki ho...
 
   4
-
-  Ek bemaar bhatija hai faqath saath mere
-
-  Us ke pairon mein bhi zanjeer padi hai abbas
-
+  Ek bimaar bhatija tha faqat saath mere
+  Us ke pairoṅ mein bhi zanjir pari hai Abbas
+  Ye aseeri ki ho...
 
   5
-
-  Log sadqe ke khajoorein meri jaanib phaynke
-
-  Kya yehi martaba e aal e nabi hai abbas
-
+  Log sadqe ke khajureṅ meri jaanib phainke
+  Kya yahi martaba-e-aal-e-Nabi hai Abbas
+  Ye aseeri ki ho...
 
   6
-
-  Lab e sarwar pa chadi maar raha hai zaalim
-
-  Aur hasrat se behan dekh rahi hai abbas
-
+  Lab-e-Sarwar par chhari maar raha hai zaalim
+  Aur hasrat se behan dekh rahi hai Abbas
+  Ye aseeri ki ho...
 
   7
-
-  Baith kar padti hoo raaton ko namazein bhaiya
-
-  Ab to meri bhi kamar toot gayi hai abbas
-
+  Baith kar parhti huṅ raatoṅ ko namaazeṅ bhaiya
+  Ab to meri bhi kamar tut gayi hai Abbas
+  Ye aseeri ki ho...
 
   8
-
-  Ye aseeri hai faqath maqsad e sheh ki khaatir
-
-  Warna zainab tere saanche mein dhali hai abbas
-
+  Ye aseeri hai faqat maqsad-e-shah ki khaatir
+  Warna Zainab teri saanche mein dhali hai Abbas
+  Ye aseeri ki ho...
 
   9
-
-  Shaksiyat zainab e muztar ki bayan kya ho bilal
-
-  Kabhi zehra kabhi sarwar to kabhi hai abbas'
+  Shakhsiyat-e-Zainab-e-muztar ki bayaaṅ kya ho Bilal
+  Kabhi Zehra kabhi Sarwar to kabhi hai Abbas
+  Ye aseeri ki ho...
 ---
 
 یہ اسیری کی ہوا کیسی چلی ہے عباس

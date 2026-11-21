@@ -12,65 +12,65 @@ aliases: []
 published: false
 romanLyrics: |-
   Alam jo darya se aata hua dikhayi diya
-  Sakina dar pe jo pahunchi to baap ko dekha
-  Ye ro ke bacchi ne pucha kahaṅ hai mere chacha
-  Alam sakina ke haathoṅ meiṅ de ke sheh ne kaha
-  Alam barha do sakina chala gaya abbas
-  Husain hogaya tanha chala gaya abbas
+  Sakina dar pe jo pahunchiṅ to baap ko dekha
+  Ye ro ke bachchi ne puchha kahaṅ haiṅ mere chacha
+  Alam Sakina ke haathoṅ meiṅ de ke sheh ne kaha
+  Alam barha do Sakina chala gaya Abbas
+  Husain ho gaya tanha chala gaya Abbas
 
   1
-  Yaqin aata nahi tha ke mar gaya ghazi
-  Mai thap thapata raha uske gaal ae beti
-  Magar Husain ki us waqt aas tut gayi
-  Jab aake maa ne bataya chala gaya abbas
+  Yaqin aata nahiṅ tha ke mar gaya Ghazi
+  Main thap thapaata raha us ke gaal ae beti
+  Magar Husain ki us waqt aas tut gai
+  Jab aa ke maaṅ ne bataya chala gaya Abbas
 
   2
-  Sakina pani se kis ki nazar utarogi
-  Tum ammu jaan kise keh ke ab pukarogi
-  Wo yaad aayega jab shaam tum sidharogi
-  Nahi milega dobara chala gaya abbas
+  Sakina paani se kis ki nazar utaarogi
+  Tum ammu jaan kise keh ke ab pukaarogi
+  Wo yaad aayega jab shaam tum sidhaarogi
+  Nahiṅ milega dobara chala gaya Abbas
 
   3
-  Pahunch ke nehr pe mashkeeza jab bhara us ne
+  Pahunch ke nehr pe mashkiza jab bhara us ne
   Sakina yaad teri pyaas ko rakha us ne
-  Tha us ke saamne pani nahi piya us ne
-  Tumhari tarha se pyasa chala gaya abbas
+  Tha us ke saamne paani nahiṅ piya us ne
+  Tumhari tarah se pyaasa chala gaya Abbas
 
   4
   Kisi ne gurz jo maara to wo sambhal na saka
-  Kate the haath sahara wo kis tarha leta
+  Kate the haath sahaara wo kis tarah leta
   Zamiṅ pe aise gira zakhmi ho gaya chehra
-  Dobara uth nahi paaya chala gaya abbas
+  Dobara uth nahiṅ paaya chala gaya Abbas
 
   5
   Kahaṅ kahaṅ use royi hai meri tanhaai
   Kahiṅ badan tha kahiṅ haath kya ghari aayi
-  Bikhar gaya mera battis saal ka bhai
-  Para hai dasht meiṅ laasha chala gaya abbas
+  Bikhar gaya mera batis saal ka bhai
+  Para hai dasht meiṅ laasha chala gaya Abbas
 
   6
   Jawan bhai ka mar jaana sakht manzil hai
-  Mai kaise zinda hoo ye jaanta mera dil hai
-  Magar sakina ye ek kaam sab se mushkil hai
-  Teri phupi ko batana chala gaya abbas
+  Main kaise zinda huṅ ye jaanta mera dil hai
+  Magar Sakina ye ik kaam sab se mushkil hai
+  Tiri phupi ko batana chala gaya Abbas
 
   7
   Laga hai haath pe jo khun ye usi ka hai
-  Tha uski aankh meiṅ jo tir maiṅ ne khayncha hai
+  Tha uski aankh meiṅ jo tir main ne khaincha hai
   Wo jaanta tha mere dil meiṅ kya tamanna hai
-  Pukaar kar mujhe bhaiya chala gaya abbas
+  Pukaar kar mujhe bhaiya chala gaya Abbas
 
   8
-  Zamiṅ pe girne se dandaan uske zakhmi the
+  Zamiṅ pe girne se dandaan us ke zakhmi the
   Kate the hont badan chur chur zakhmoṅ se
-  Tum aise haal meiṅ ghazi ko dekhti kaise
-  Jabhi to ghar nahi aaya chala gaya abbas
+  Tum aise haal meiṅ Ghazi ko dekhti kaise
+  Jabhi to ghar nahiṅ aaya chala gaya Abbas
 
   9
-  Ghari wo aayi thi zishan aur raza kaisi
-  Kaha ye qaimon meiṅ jab sheh ne mar gaya ghazi
-  Giri zamin pe ghash khaa ke bibyaṅ saari
-  Koi bhi sun nahi paaya chala gaya abbas
+  Ghari wo aayi thi Zishaan aur Raza kaisi
+  Kaha ye khaimoṅ meiṅ jab sheh ne mar gaya Ghazi
+  Giriṅ zamin pe ghash khaa ke bibiyaaṅ saari
+  Koi bhi sun nahiṅ paaya chala gaya Abbas
 ---
 علم جو دریا سے آتا ہوا دکھائی دیا
 سکینہ در پہ جو پہنچیں تو باپ کو دیکھا

@@ -8,76 +8,53 @@ poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Woh Hath Kat Gaye"
-romanLyrics: 'Ghurbat Mein They Jo Shah Ki Behno Ka Aasra.
-
-  Pehra Sada Jo Detey They Zahra Ki Aal Ka.
-
+alternateTitle: "Woh Haath Kat Gaye"
+romanLyrics: |-
+  Ghurbat mein the jo Shah ki behnoṅ ka aasra
+  Woh haath kat gaye
 
   1
-
-  Khushiyaan Manao Sham Ke Lashkar Mein Shoor Tha.
-
-  Ab Hum Ko Koi Rokney Wala Nahi Bacha.
-
-  Lo Ho Gaya Hussain Ki Ghurbat Ka Faisla.
-
-  Hanstay They Shami Dekh Ke Aanso Hussain Ke.
-
+  Pehra sada jo dete the Zahra ki aal ka
 
   2
-
-  Haye Shikasta Ho Gaye Bazu Hussain Ke.
-
-  Tooti Kamar Jo Shah Ki Lashkar Samajh Gaya.
-
-  Maidan Mein Hussain Ko Jin Ki Talash Hai.
-
-  Haye Do Hath Hain Ya Sheh Ke Bharay Ghar Ki Lash Hai.
-
+  Khushiyaaṅ manao Shaam lashkar mein shor tha
+  Ab ham ko koi rokne wala nahiṅ bacha
+  Lo ho gaya Husain ki ghurbat ka faisla
 
   3
-
-  Iss Ghar Ke Parday Daro Ne Samjha Jinhein Rida.
-
-  Rukh Kar Ke Yeh Madine Ka Abbas Ne Kaha.
-
-  Haye Amma Moaf Karna Main Majboor Ho Gaya.
-
-  Ab Tak Rahe Imam Ke Qadmo Pe Jo Sada.
-
+  Hanste the Shaami dekh ke aansuṅ Husain ke
+  Haaye shikasta ho gaye baazu Husain ke
+  Tuti kamar jo Shah ki lashkar samajh gaya
 
   4
-
-  Akbar Tarap Rahe Hain Mera Dil Hai Be Qarrar.
-
-  Haye Ro Ro Ke Shah Kehte They Zainab Se Bar Bar.
-
-  Lasha Utha Ke Latay Jo Kariyal Jawan Ka.
-
-  Hai Teer Aankh Mein Meri Rasta Bataiye.
-
+  Maidaan mein Husain ko in ki talaash hai
+  Do haath hai ya Shah ke bhare ghar ki laash hai
+  Is ghar ke parda daaroṅ ne samjha inheṅ rida
 
   5
-
-  Haye Ghazi Pukara Mashk-e-Sakina Bachaiye.
-
-  Baba Najaf Se Aaiye Imdad Ko Zara.
-
-  Hasrat Se Dekhti Hai Sakina Soye Furat.
-
-  Haye Do Hath Bhi Taraptay Hain Lashay Ke Sath Sath.
-
+  Rukh kar ke ye Madine ka Abbas ne kaha
+  Ammaaṅ maaf karna main majbur ho gaya
+  Ab tak rahe Imam ke qadmoṅ pe jo sada
 
   6
+  Akbar tarap rahe hain mera dil hai beqaraar
+  Ro ro ke Shah kehte the Zainab se baar baar
+  Laasha utha ke laate jo kariyal jawaan ka
 
-  Jo Hath Rook Saktay They Shimar-e-Laeen Ka.
+  7
+  Hai tir aankh mein meri rasta bataiye
+  Ghazi pukaare mashk-e-Sakina bachaiye
+  Baba Najaf se aaiye imdaad ko zara
 
-  Qasad Ki Baat Par Tu Takallum Yaqeen Na Tha.
+  8
+  Hasrat se dekhti hai Sakina su-e-Furaat
+  Do haath bhi tarapte hain laashe ke saath saath
+  Jo haath rok sakte the Shimar-e-Laeen ka
 
-  Haye Dekhey Jo Neel Hathoon Pe Zainab Ke Ja Baja.
-
-  Aakhir Yaqeen Madar-e-Ghazi Ko Aa Gaya.'
+  9
+  Qaasid ki baat par to Takallum yaqiṅ na tha
+  Dekhe jo nil haathoṅ pe Zainab ke ja ba ja
+  Aakhir yaqin maadar-e-Ghazi ko aa gaya
 ---
 
 غربت میں تھے جو شاہ کی بہنوں کا آسرا

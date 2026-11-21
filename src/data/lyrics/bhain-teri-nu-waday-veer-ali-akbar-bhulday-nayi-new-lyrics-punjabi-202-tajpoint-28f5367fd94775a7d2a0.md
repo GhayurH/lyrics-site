@@ -1,29 +1,48 @@
 ---
-title: "Bhain Teri Nu Waday Veer Ali Akbar Bhulday Nayi New Lyrics Punjabi 2025"
+title: "بھین تیری نوں وعدے ویر علی اکبر بھلدے نئیں"
+alternateTitle: "Bhain Teri Nu Waday Veer Ali Akbar Bhulday Nayi"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bhain teri nu waday veer Ali Akbar bhulday nayi
+  Jerhay bohay taun band kitay san oh main Sughra taun khulday nayi
+  Charon pasay taiz hawawaan uddiyan khakaan har pasay
+  Ainj veer charag udeekaan de mitiyaan raitaan wich rulday nayi
+
+  2
+  Lagda aye jinj dadi Zahra wich romal de ban di aye
+  Jitna v Akbar roni aan mere athro khak te dulday nayi
+  Jane kehrey dais gaye oh khaimay sarhday wekhni aan
+  Ghar walay pak rasolaan de ainj sehrawan wich rulday nayi
+
+  3
+  Khushk pyalay baal pyasay daryawaan te pehrey ne
+  Rataan di jagi Sughra nu aye khab darone bhulday nayi
+  Akbar khabaan mari Sughra rati uth uth wain karey
+  Chan Asghar te Akbar wargay teraan sanghaan te tulday nayi
 ---
 
-1
-Bhain Teri Nu Waday Veer Ali Akbar Bhulday Nayi.
-Jerhay Bohay Taun Band Kitay San Oh Main Sughra Taun Khulday Nayi.
-Charon Pasay Taiz Hawawaan Uddiyan Khakaan Har Pasay.
-Ainj Veer Charag Udeekaan De Mitiyaan Raitaan Wich Rulday Nayi.
+۱
+بھین تیری نوں وعدے ویر علی اکبر بھلدے نئیں
+جیہڑے بوہے توں بند کیتے سن اوہ میں صغریٰ توں کھلدے نئیں
+چاروں پاسے تیز ہواواں اُڈیاں خاکاں ہر پاسے
+اینج ویر چراغ اُڈیکاں دے مٹیاں ریتاں وچ رُلدے نئیں
 
-2
-Lagda Aye Jinj Dadi Zahra Wich Romal De Ban Di Aye.
-Jitna V Akbar Roni Aan Mere Athro Khak Te Dulday Nayi.
-Jane Kehrey Dais Gaye Oh Khaimay Sarhday Wekhni Aan.
-Ghar Walay Pak Rasolaan De Ainj Sehrawan Wich Rulday Nayi.
+۲
+لگدا اے جِنج دادی زہرا وچ رومال دے بنھ دی اے
+جتنا وی اکبر رونی آں میرے اتھرو خاک تے ڈُلدے نئیں
+جانے کیہڑے دیس گئے اوہ خیمے سڑدے ویکھنی آں
+گھر والے پاک رسولاں دے اینج صحراواں وچ رُلدے نئیں
 
-3
-Khushk Pyalay Baal Pyasay Daryawaan Te Pehrey Ne.
-Rataan Di Jagi Sughra Nu Aye Khab Darone Bhulday Nayi.
- Akbar Khabaan Mari Sughra Rati Uth Uth Wain Karey.
-Chan Asghar Te Akbar Wargay Teraan Sanghaan Te Tulday Nayi.
+۳
+خشک پیالے بال پیاسے دریاواں تے پہرے نے
+راتاں دی جاگی صغریٰ نوں اے خواب ڈراؤنے بھلدے نئیں
+اکبر خواباں ماری صغریٰ راتی اُٹھ اُٹھ وین کرے
+چن اصغر تے اکبر ورگے تیراں سنگھاں تے تُلدے نئیں

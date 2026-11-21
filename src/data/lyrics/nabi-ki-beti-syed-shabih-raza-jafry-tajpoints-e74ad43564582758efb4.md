@@ -1,35 +1,60 @@
 ---
-title: "Nabi Ki Beti Syed Shabih Raza Jafry"
+title: "نبی کی بیٹی سید شبیہ رضا جعفری"
+alternateTitle: "Nabi Ki Beti Syed Shabih Raza Jafry"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Shabih"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Nabi ke jane ke bad noha kunaa hai haye Nabi ki beti
+  Mosibaton ka ik aasmaan hai guzar na jaye Nabi ki beti
+  Idhar gham-e-furqat-e-Nabi hai udhar zamane ki be-rukhi hai
+  Ali ko tanha hi raste mein na choor jaye Nabi ki beyti
+
+  2
+  Tumhare dar par Rasool aate the our jhuk kar salam karte
+  Tumhare dar ko hi ummati kuch jalane aaye Nabi ki beyti
+  Jhuki kamar hai safaid hain baal our haton mein bhi assa hai
+  Bhari jawani mein tum ne kitne sitam uthaye Nabi ki beyti
+
+  3
+  Tumhara pehlu shadeed zakhmi tumhari tooti hoi hai pasli
+  Ali ne ta marg ashk yeh soch kar bahaye Nabi ki beyti
+  Yeh kam qayamat nahi hai logon woh apna haq mangne gayin thin
+  Laein baithay hoye the sare khari thi haye Nabi ki beyti
+
+  4
+  Nabi ki tehreer le ke darbar apna haq mangne ko jaye
+  Yeh kya ghazab hai ke hath khali hi laut aaye Nabi ki beyti
+  Shabih our Zain ki dua hai koi tu aisa bhi roz aaye
+  Parhein Baqaiya mein je ke noha humein bulaye Nabi ki beyti
 ---
 
-1
-Nabi Ke Jane Ke Bad Noha Kunaa Hai Haye Nabi Ki Beti.
-Mosibaton Ka Ik Aasmaan Hai Guzar Na Jaye Nabi Ki Beti.
-Idhar Gham-e-Furqat-e-Nabi Hai Udhar Zamane Ki Be-Rukhi Hai.
-Ali Ko Tanha Hi Raste Mein Na Choor Jaye Nabi Ki Beyti.
+۱
+نبی کے جانے کے بعد نوحہ کناں ہے ہائے نبی کی بیٹی
+مصیبتوں کا اک آسماں ہے گزر نہ جائے نبی کی بیٹی
+اِدھر غمِ فرقتِ نبی ہے اُدھر زمانے کی بے رخی ہے
+علی کو تنہا ہی راستے میں نہ چھوڑ جائے نبی کی بیٹی
 
-2
-Tumhare Dar Par Rasool Aate The Our Jhuk Kar Salam Karte.
-Tumhare Dar Ko Hi Ummati Kuch Jalane Aaye Nabi Ki Beyti.
-Jhuki Kamar Hai Safaid Hain Baal Our Haton Mein Bhi Assa Hai.
-Bhari Jawani Mein Tum Ne Kitne Sitam Uthaye Nabi Ki Beyti.
+۲
+تمہارے در پر رسول آتے تھے اور جھک کر سلام کرتے
+تمہارے در کو ہی امتی کچھ جلانے آئے نبی کی بیٹی
+جھکی کمر ہے سفید ہیں بال اور ہاتھوں میں بھی عصا ہے
+بھری جوانی میں تم نے کتنے ستم اٹھائے نبی کی بیٹی
 
-3
-Tumhara Pehlu Shadeed Zakhmi Tumhari Tooti Hoi Hai Pasli.
-Ali Ne Ta Marg Ashk Yeh Soch Kar Bahaye Nabi Ki Beyti.
-Yeh Kam Qayamat Nahi Hai Logon Woh Apna Haq Mangne Gayin Thin.
-Laein Baithay Hoye The Sare Khari Thi Haye Nabi Ki Beyti.
+۳
+تمہارا پہلو شدید زخمی تمہاری ٹوٹی ہوئی ہے پسلی
+علی نے تا مرگ اشک یہ سوچ کر بہائے نبی کی بیٹی
+یہ کم قیامت نہیں ہے لوگوں وہ اپنا حق مانگنے گئیں تھیں
+لعین بیٹھے ہوئے تھے سارے کھڑی تھی ہائے نبی کی بیٹی
 
-4
-Nabi Ki Tehreer Le Ke Darbar Apna Haq Mangne Ko Jaye.
-Yeh Kya Ghazab Hai Ke Hath Khali Hi Laut Aaye Nabi Ki Beyti.
- Shabih Our Zain Ki Dua Hai Koi Tu Aisa Bhi Roz Aaye.
-Parhein Baqaiya Mein Je Ke Noha Humein Bulaye Nabi Ki Beyti.
+۴
+نبی کی تحریر لے کے دربار اپنا حق مانگنے کو جائے
+یہ کیا غضب ہے کہ ہاتھ خالی ہی لوٹ آئے نبی کی بیٹی
+شبیہ اور زین کی دعا ہے کوئی تو ایسا بھی روز آئے
+پڑھیں بقیع میں جا کے نوحہ ہمیں بلائے نبی کی بیٹی

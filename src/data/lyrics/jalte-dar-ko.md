@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae khuda mujhko ghame zahra meiṅ wo taufeek de
-  Is qadar girya karuṅ ke phasliyaṅ dukhne lage
-  Haye zahra haye zahra
-  Fizza fizza madad ko aao
-  Jalte dar ko mere pehlu se hatao fizza
-  Boli zahra meri imdad ko aao fizza
-  Meri ghurbat ka kisi ko bhi nahi andaza
-  Aag ummat ne lagayi to jala darwaza
-  Aake is zulm se ab mujhko bachao fizza
-  Boli zahra meri imdad ko aao fizza
+  Ae Khuda mujhko gham-e-Zahra meiṅ woh taufiq de
+  Is qadar girya karuṅ ke pasliyaaṅ dukhne lage
+  Haaye Zahra haaye Zahra
+  Fizza Fizza madad ko aao
+  Jalte dar ko mere pehlu se hatao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
+  Meri ghurbat ka kisi ko bhi nahiṅ andaaza
+  Aag ummat ne lagaai to jala darwaaza
+  Aa ke is zulm se ab mujhko bachao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
-  Kaise mujhpar ye musalmaṅ ne qayamat dhaayi
-  Mujpe dhaaye wo sitam tuti hai meri phasli
-  Tum khudara na ali ko ye batao fizza
-  Boli zahra meri imdad ko aao fizza
+  Kaise mujh par ye musalmaaṅ ne qayaamat dhaayi
+  Mujh pe dhaaye woh sitam tuti hai meri pasli
+  Tum khudaara na Ali ko ye batao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
-  Zakhmi pehlu hai asaa ka hai sahara dekho
-  Phir bhi bacchoṅ se chupati huṅ mai in zakhmoṅ ko
-  Tum bhi un se mere zakhmoṅ ko chupao fizza
-  Boli zahra meri imdad ko aao fizza
+  Zakhmi pehlu hai asaa ka hai sahaara dekho
+  Phir bhi bachchoṅ se chhupaati huṅ main in zakhmoṅ ko
+  Tum bhi un se mere zakhmoṅ ko chhupao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
-  Rukhe baatil pe para parda uthane ke liye
-  Haq wilayat ka zamane ko batane ke liye
-  Sar e darbar mera saath nibhao fizza
-  Boli zahra meri imdad ko aao fizza
+  Rukh-e-baatil pe para parda uthaane ke liye
+  Haq wilaayat ka zamaane ko bataane ke liye
+  Sar-e-darbaar mera saath nibhao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
-  Wo sitam kaunsa hai mujhpe jo dhaaya na gaya
-  Mere bacche ko to dunya meiṅ bhi aane na diye
-  Farshe matam mere mohsin ka bichao fizza
-  Boli zahra meri imdad ko aao fizza
+  Woh sitam kaunsa hai mujh pe jo dhaaya na gaya
+  Mere bachche ko to duniya meiṅ bhi aane na diye
+  Farsh-e-maatam mere Mohsin ka bichhao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
-  Rauza e ahmad e mukhtar laraz uthega
-  Meri rudad e masayib jo sunenge baba
-  Tum bhi baba ko mera haal sunao fizza
-  Boli zahra meri imdad ko aao fizza
+  Rauza-e-Ahmad-e-Mukhtaar laraz uthega
+  Meri rudaad-e-masaaib jo suneṅge Baba
+  Tum bhi Baba ko mera haal sunao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
-  Hum bhi dekhenge munawar jab imam aayenge
-  Phir baqiya meiṅ wo nauha yehi parhwayenge
-  Jalte dar ko mere pehlu se hatao fizza
-  Boli zahra meri imdad ko aao fizza
+  Hum bhi dekheṅge Munawwar jab Imam aaeṅge
+  Phir Baqiya meiṅ woh nauha yahi parhwaaeṅge
+  Jalte dar ko mere pehlu se hatao Fizza
+  Boli Zahra meri imdaad ko aao Fizza
   Jalte dar ko mere...
 ---
 

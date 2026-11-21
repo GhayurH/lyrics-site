@@ -1,77 +1,143 @@
 ---
-title: "Bus Haider Haider Hoga Mesum Abbas"
+title: "بس حیدر حیدر ہوگا میثم عباس"
+alternateTitle: "Bus Haider Haider Hoga Mesum Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mesum"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Bus Haider Haider hoga Mesum Abbas
+
+  1
+  Nabiyon ne pukara Haider
+  Waliyon ne pukara Haider
+  Lamhon ne pukara Haider
+  Sadiyon ne pukara Haider
+  Arsh-o-zameen kya jin-o-bashar kya sab ke labon par hoga
+  Terah 13 Rajab ki eid aayi hai shoor yeh ghar ghar hoga
+
+  2
+  Charon taraf khushiyon ka sama hai jhoom ke sare bolo
+  Tum bhi misal-e-Buzar-o-Qanbar raaz wila ke kholo
+  Aaj fiza mein zikar-e-Ali damad-e-payamber hoga
+  Jis ke liye khaliq ne banaya tha yeh khana-e-Kaba
+  Yani Khuda ke ghar ka malik ghar mein hai aane wala
+  Wadah hai yeh Allah ka jab tak Allah ho akbar hoga
+
+  3
+  Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haiderium
+  Pochein gay jab farishtay laya hai kis ki nisbat
+  Tu keh doon ga main saaf unn se keh sun lo yeh
+  Baad qaza ka khof nahi hai yeh aqeeda mera
+  Jo momin hai oss ki lehad mein aa jate hain Maula
+  Yeh hai yaqeen jab Maula meri qabar ke andar hoga
+
+  4
+  Kaisa nizam-e-ishq rakha hai rab ne bashar ke aagay
+  Sare jahan ke sar ko jhokana tha Haider ke aagay
+  Aik zacha khane ki charon samt jo chakar hoga
+  Ali da malang main te Ali da
+  Maula Ali nal nisbat meri
+  Charh gaya mainu haidery rang
+
+  5
+  Zikar-e-Ali hai ain ibadat qaul hai peygamber ka
+  Wajib hai Haider ki wilayat qaul hai peygamber ka
+  Ishq-e-Ali ko dil mein basa le tu bhi qalandar hoga
+  Arsh-e-barin pohanchay jo Muhammad baat Khuda se karne
+  Suntay hi aawaz kaha Jibreel se yeh sarwar ne
+  Rab tu nahi parday ke pichey mera baradar hoga
+
+  6
+  Sare nabi our sare farishtay bolay zameen par aa kar
+  Sab se bari tu eid yehi hai aaye jahan mein Haider
+  Khuld-e-barin mein jashan bapa hai jashan zameen par hoga
+  Bint-e-asad ko deney mubarak Mariyam-o-Sarah aaein
+  Lab pe saja ke midhat-e-Haider phool ke tohfay laein
+  Madah-o-sara jab arsh-e-barin par saqi-e-Kausar hoga
+
+  7
+  Narah Ali ka kyun na lagaein Mesum-o- Mazhar dono
+  Aaj qasiday sab ko sunaein Mesum-o- Mazhar dono
+  Tifal-o-jawaan-o-peer sabhi ke narah labon par hoga
+  Hum ashiq kis ke Haider ke
+  Dewane kis ke Haider ke
+  Hum chahney walay Haider ke
+
+  8
+  Mar mitne walay Haider ke
+  Qamber, Qanbar Buzar, Buzar Haider, Haider
+  Malik, Malik Ashtar, Ashtar Haider, Haider
+  Murdah bolay kha kar thokar Haider, Haider
+  Hum ko le chal khuld ke andar Haider, Haider
+  Fatah-e-Khaybar fatah-e-lashkar Haider, Haider
 ---
 
-Bus Haider Haider Hoga Mesum Abbas.
+بس حیدر حیدر ہوگا میثم عباس
 
-1
-Nabiyon Ne Pukara Haider.
-Waliyon Ne Pukara Haider.
-Lamhon Ne Pukara Haider.
-Sadiyon Ne Pukara Haider.
-Arsh-o-Zameen Kya Jin-o-Bashar Kya Sab Ke Labon Par Hoga.
-Terah 13 Rajab Ki Eid Aayi Hai Shoor Yeh Ghar Ghar Hoga.
+۱
+نبیوں نے پکارا حیدر
+ولیوں نے پکارا حیدر
+لمحوں نے پکارا حیدر
+صدیوں نے پکارا حیدر
+عرش و زمیں کیا جن و بشر کیا سب کے لبوں پر ہوگا
+تیرہ (۱۳) رجب کی عید آئی ہے شور یہ گھر گھر ہوگا
 
-2
-Charon Taraf Khushiyon Ka Sama Hai Jhoom Ke Sare Bolo.
-Tum Bhi Misal-e-Buzar-o-Qanbar Raaz Wila Ke Kholo.
-Aaj Fiza Mein Zikar-e-Ali Damad-e-Payamber Hoga.
-Jis Ke Liye Khaliq Ne Banaya Tha Yeh Khana-e-Kaba.
-Yani Khuda Ke Ghar Ka Malik Ghar Mein Hai Aane Wala.
-Wadah Hai Yeh ALLAH Ka Jab Tak ALLAH Ho Akbar Hoga.
+۲
+چاروں طرف خوشیوں کا سماں ہے جھوم کے سارے بولو
+تم بھی مثالِ بوذر و قنبر رازِ ولا کے کھولو
+آج فضا میں ذکرِ علی دامادِ پیمبر ہوگا
+جس کے لیے خالق نے بنایا تھا یہ خانۂ کعبہ
+یعنی خدا کے گھر کا مالک گھر میں ہے آنے والا
+وعدہ ہے یہ اللہ کا جب تک اللہ ہو اکبر ہوگا
 
-3
-Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haideriyum, Haiderium.
-Pochein Gay Jab Farishtay Laya Hai Kis Ki Nisbat.
-Tu Keh Doon Ga Main Saaf Unn Se Keh Sun Lo Yeh.
-Baad Qaza Ka Khof Nahi Hai Yeh Aqeeda Mera.
-Jo Momin Hai Oss Ki Lehad Mein Aa Jate Hain Maula.
-Yeh Hai Yaqeen Jab Maula Meri Qabar Ke Andar Hoga.
+۳
+حیدریم، حیدریم، حیدریم، حیدریم، حیدریم، حیدریم، حیدریم
+پوچھیں گے جب فرشتے لایا ہے کس کی نسبت
+تو کہہ دوں گا میں صاف اُن سے کہ سن لو یہ
+بعدِ قضا کا خوف نہیں ہے یہ عقیدہ میرا
+جو مومن ہے اُس کی لحد میں آ جاتے ہیں مولا
+یہ ہے یقین جب مولا میری قبر کے اندر ہوگا
 
-4
-Kaisa Nizam-e-Ishq Rakha Hai Rab Ne Bashar Ke Aagay.
-Sare Jahan Ke Sar Ko Jhokana Tha Haider Ke Aagay.
-Aik Zacha Khane Ki Charon Samt Jo Chakar Hoga.
-Ali Da Malang Main Te Ali Da.
-Maula Ali Nal Nisbat Meri.
-Charh Gaya Mainu Haidery Rang.
+۴
+کیسا نظامِ عشق رکھا ہے رب نے بشر کے آگے
+سارے جہاں کے سر کو جھکانا تھا حیدر کے آگے
+ایک زچہ خانے کی چاروں سمت جو چکر ہوگا
+علی دا ملنگ میں تے علی دا
+مولا علی نال نسبت میری
+چڑھ گیا مینوں حیدری رنگ
 
-5
-Zikar-e-Ali Hai Ain Ibadat Qaul Hai Peygamber Ka.
-Wajib Hai Haider Ki Wilayat Qaul Hai Peygamber Ka.
-Ishq-e-Ali Ko Dil Mein Basa Le Tu Bhi Qalandar Hoga.
-Arsh-e-Barin Pohanchay Jo Muhammad Baat Khuda Se Karne.
-Suntay Hi Aawaz Kaha Jibreel Se Yeh Sarwar Ne.
-Rab Tu Nahi Parday Ke Pichey Mera Baradar Hoga.
+۵
+ذکرِ علی ہے عین عبادت قول ہے پیغمبر کا
+واجب ہے حیدر کی ولایت قول ہے پیغمبر کا
+عشقِ علی کو دل میں بسا لے تو بھی قلندر ہوگا
+عرشِ بریں پہنچے جو محمد بات خدا سے کرنے
+سنتے ہی آواز کہا جبریل سے یہ سرور نے
+رب تو نہیں پردے کے پیچھے میرا برادر ہوگا
 
-6
-Sare Nabi Our Sare Farishtay Bolay Zameen Par Aa Kar.
-Sab Se Bari Tu Eid Yehi Hai Aaye Jahan Mein Haider.
-Khuld-e-Barin Mein Jashan Bapa Hai Jashan Zameen Par Hoga.
-Bint-e-Asad Ko Deney Mubarak Mariyam-o-Sarah Aaein.
-Lab Pe Saja Ke Midhat-e-Haider Phool Ke Tohfay Laein.
-Madah-o-Sara Jab Arsh-e-Barin Par Saqi-e-Kausar Hoga.
+۶
+سارے نبی اور سارے فرشتے بولے زمین پر آ کر
+سب سے بڑی تو عید یہی ہے آئے جہاں میں حیدر
+خلدِ بریں میں جشن بپا ہے جشن زمین پر ہوگا
+بنتِ اسد کو دینے مبارک مریم و سارہ آئیں
+لب پہ سجا کے مدحتِ حیدر پھول کے تحفے لائیں
+مدح و سرا جب عرشِ بریں پر ساقیِ کوثر ہوگا
 
-7
-Narah Ali Ka Kyun Na Lagaein Mesum-o- Mazhar Dono.
-Aaj Qasiday Sab Ko Sunaein Mesum-o- Mazhar Dono.
-Tifal-o-Jawaan-o-Peer Sabhi Ke Narah Labon Par Hoga.
-Hum Ashiq Kis Ke Haider Ke.
-Dewane Kis Ke Haider Ke.
-Hum Chahney Walay Haider Ke.
+۷
+نعرہ علی کا کیوں نہ لگائیں میثم و مظہر دونوں
+آج قصیدے سب کو سنائیں میثم و مظہر دونوں
+طفل و جوان و پیر سبھی کے نعرہ لبوں پر ہوگا
+ہم عاشق کس کے حیدر کے
+دیوانے کس کے حیدر کے
+ہم چاہنے والے حیدر کے
 
-8
-Mar Mitne Walay Haider Ke.
-Qamber, Qanbar Buzar, Buzar Haider, Haider.
-Malik, Malik Ashtar, Ashtar Haider, Haider.
-Murdah Bolay Kha Kar Thokar Haider, Haider.
-Hum Ko Le Chal Khuld Ke Andar Haider, Haider.
-Fatah-e-Khaybar Fatah-e-Lashkar Haider, Haider.
+۸
+مر مٹنے والے حیدر کے
+قنبر، قنبر بوذر، بوذر حیدر، حیدر
+مالک، مالک اشتر، اشتر حیدر، حیدر
+مردہ بولے کھا کر ٹھوکر حیدر، حیدر
+ہم کو لے چل خلد کے اندر حیدر، حیدر
+فتحِ خیبر فتحِ لشکر حیدر، حیدر

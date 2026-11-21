@@ -13,11 +13,11 @@ aliases: ["Pamaal Hoke Hazrate"]
 published: true
 romanLyrics: |-
   Paamaal ho ke Hazrat-e-Qasim guzar gaye
-  Phuloṅ ki tarah dasht-e-bala meiṅ bikhar gaye
+  Phuloṅ ki tarah dasht-e-balaa meiṅ bikhar gaye
 
   1
-  Farwa ke laal Ibn-e-Hasan jaan-e-Shaah-e-diṅ
-  Terah baras ke sin meiṅ bara kaam kar gaye
+  Farwa ke laal Ibn-e-Hasan jaan-e-shaah-e-diṅ
+  Terah baras ke sin meiṅ baraa kaam kar gaye
 
   2
   Ro kar Sakina kehti hai hum se yeh baar baar
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Kya hum pe dekho aaj qayaamat guzar gayi
-  Dulha se pehle hum hi bhala kiuṅ na mar gaye
+  Dulha se pehle hum hi bhalaa kiuṅ na mar gaye
 
   4
   Kubra ka tha bayaaṅ na liya saath hum ko bhi
@@ -44,11 +44,11 @@ romanLyrics: |-
   Qasim gham-e-hayaat se tum bekhabar gaye
 
   8
-  Ab qaid kar ke aada hameiṅ le ke jaate haiṅ
+  Ab qaid kar ke aadaa hameiṅ le ke jaate haiṅ
   Aao chhuraane ae mere Qasim kidhar gaye
 
   9
-  Qasim tumhaare baad bala ke sitam hue
+  Qasim tumhaare baad balaa ke sitam hue
   Darbaar meiṅ Yazid ke hum nange sar gaye
 
   10

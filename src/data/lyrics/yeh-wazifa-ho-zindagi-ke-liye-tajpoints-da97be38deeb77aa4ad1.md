@@ -1,41 +1,72 @@
 ---
-title: "Yeh Wazifa Ho Zindagi Ke Liye"
+title: "یہ وظیفہ ہو زندگی کے لیے"
+alternateTitle: "Yeh Wazifa Ho Zindagi Ke Liye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yeh wazifa ho zindagi ke liye
+  Shayari ho, Ali Naqi ke liye
+  Teri midhat hi tu sahara hai
+  Mere amal ki kami ke liye
+
+  2
+  Tere pichey namaz ada karna
+  Hai zarori yeh Askari ke liye
+  Misal-e-Tauheed lazmi hai Naqi
+  Teri ulfat payambari ke liye
+
+  3
+  Naam kafi hai Fatima Zahra
+  Ba zameer aankh mein nami ke liye
+  Tera Mehdi bhi Maula dekhon ga
+  Tu dikha rukh mujhe abhi ke liye
+
+  4
+  Meri hajaat abhi rawa ho jaein
+  Kya bari baat hai sakhi ke liye
+  Mujh ko zawwar kar do rozay ka
+  Hai zarori yeh aashiqui ke liye
+
+  5
+  Jaisay 13 terah Rajab manatay ho
+  Aisay mailad hoon sabhi ke liye
+  Baith kar ja namaz par Taseer
+  Ne likhi manqabat Naqi ke liye
 ---
 
-1
-Yeh Wazifa Ho Zindagi Ke Liye Lyrics
-Shayari Ho, Ali Naqi Ke Liye.
-Teri Midhat Hi Tu Sahara Hai.
-Mere Amal Ki Kami Ke Liye.
+۱
+یہ وظیفہ ہو زندگی کے لیے
+شاعری ہو، علی نقی کے لیے
+تیری مدحت ہی تو سہارا ہے
+میرے عمل کی کمی کے لیے
 
-2
-Tere Pichey Namaz Ada Karna.
-Hai Zarori Yeh Askari Ke Liye.
-Misal-e-Tauheed Lazmi Hai Naqi.
-Teri Ulfat Payambari Ke Liye.
+۲
+تیرے پیچھے نماز ادا کرنا
+ہے ضروری یہ عسکری کے لیے
+مثالِ توحید لازمی ہے نقی
+تیری الفت پیامبری کے لیے
 
-3
-Naam Kafi Hai Fatima Zahra.
-Ba Zameer Aankh Mein Nami Ke Liye.
-Tera Mehdi Bhi Maula Dekhon Ga.
-Tu Dikha Rukh Mujhe Abhi Ke Liye.
+۳
+نام کافی ہے فاطمہ زہرا
+با ضمیر آنکھ میں نمی کے لیے
+تیرا مہدی بھی مولا دیکھوں گا
+تو دکھا رخ مجھے ابھی کے لیے
 
-4
-Meri Hajaat Abhi Rawa Ho Jaein.
-Kya Bari Baat Hai Sakhi Ke Liye.
-Mujh Ko Zawwar Kar Do Rozay Ka.
-Hai Zarori Yeh Aashiqui Ke Liye.
+۴
+میری حاجات ابھی روا ہو جائیں
+کیا بڑی بات ہے سخی کے لیے
+مجھ کو زوار کر دو روضے کا
+ہے ضروری یہ عاشقی کے لیے
 
-5
-Jaisay 13 Terah Rajab Manatay Ho.
-Aisay Mailad Hoon Sabhi Ke Liye.
-Baith Kar Ja Namaz Par Taseer.
-Ne Likhi Manqabat Naqi Ke Liye.
+۵
+جیسے تیرہ رجب مناتے ہو
+ایسے میلاد ہوں سبھی کے لیے
+بیٹھ کر جائے نماز پر تاثیر
+نے لکھی منقبت نقی کے لیے

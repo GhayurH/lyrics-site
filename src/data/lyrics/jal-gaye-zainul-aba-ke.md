@@ -20,7 +20,7 @@ romanLyrics: |-
   Maaṅ ne dekha raat bhar rakh kar nazar ke saamne
 
   2
-  Qibla rukh maula ne rakh kar shukr ka sajda kiya
+  Qibla rukh Maula ne rakh kar shukr ka sajda kiya
   Khun meiṅ duba laasha-e-Akbar nazar ke saamne
 
   3
@@ -37,10 +37,10 @@ romanLyrics: |-
 
   6
   Girti parti bhaai ke nazdik jab pahunchi behan
-  Bhaai ka tha laasha-e-besar nazar ke saamne
+  Bhaai ka tha laasha-e-be sar nazar ke saamne
 
   7
-  Paani aada ko diya lekin Sakina ko nahiṅ
+  Paani adaa ko diya lekin Sakina ko nahiṅ
   Shimr ne phenka hai dikhla kar nazar ke saamne
 
   8

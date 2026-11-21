@@ -14,44 +14,44 @@ romanLyrics: |-
   Is jawaaṅ ki magar baat hi aur hai
 
   1
-  Naaz-e-har do jahaaṅ Shah ke lashkar meiṅ haiṅ
-  Saare sher-e-jahaaṅ Shah ke lashkar meiṅ haiṅ
-  Kitne abru kamaaṅ Shah ke lashkar meiṅ haiṅ
-  Kaise kaise jawaaṅ Shah ke lashkar meiṅ haiṅ
+  Naaz-e-har do jahaaṅ Shih ke lashkar meiṅ haiṅ
+  Saare sher-e-jahaaṅ Shih ke lashkar meiṅ haiṅ
+  Kitne abru kamaaṅ Shih ke lashkar meiṅ haiṅ
+  Kaise kaise jawaaṅ Shih ke lashkar meiṅ haiṅ
 
   2
-  Un meiṅ Haidar ke sarwe sahi khad bhi haiṅ
-  Baagh-e-Muslim ke saywo bahi khad bhi hai
+  Un meiṅ Haidar ke sarwe sahih kad bhi haiṅ
+  Baagh-e-Muslim ke saywo bhaai khad bhi haiṅ
   Maadan-e-haq ke laal o zabarjad bhi haiṅ
-  Yuṅ to Qasim bhi Aun o Muhammad bhi haiṅ
+  Yuṅ to Qaasim bhi Aun o Muhammad bhi haiṅ
 
   3
   Kaun hai jaan ko jis ne waara nahiṅ
   Kaun hai jo ke aankhoṅ ka taara nahiṅ
-  Kaun hai jo Shah-e-diṅ ko pyaara nahiṅ
+  Kaun hai jo ke Shah-e-diṅ ko pyaara nahiṅ
   Kis ne ghore se gir kar pukaara nahiṅ
 
   4
-  Kis ne Shah se balaaoṅ ko taala nahiṅ
+  Kis ne Shih se balaaoṅ ko taala nahiṅ
   Khud ko dushman ki faujoṅ meiṅ daala nahiṅ
   Kaun hai jo ke ghar ka ujaala nahiṅ
   Kaun hai jis ko Zainab ne paala nahiṅ
 
   5
-  Khaa ke teghe gire ran meiṅ kya kya hasiṅ
+  Khaa ke tegheṅ gire ran meiṅ kya kya hasiṅ
   Laash par jin ki tanha gaye Shah-e-diṅ
-  Kaaṅp utha falak aur larzi zamiṅ
+  Kaanp utha falak aur larzi zamiṅ
   Bibiyaaṅ phir bhi khaime se nikli nahiṅ
 
   6
   Kis ne zakhm-e-sinaaṅ dil pe khaaya nahiṅ
   Kis ne sine ko chhalni banaaya nahiṅ
-  Kis ke laashe ko Shah ne uthaaya nahiṅ
-  Haath lekin behan ne bataaya nahi
+  Kis ke laashe ko Shih ne uthaaya nahiṅ
+  Haath lekin behan ne bataaya nahiṅ
 
   7
   Ran meiṅ har ek aisa tha shiriṅ zabaan
-  Jis ke lahje pe Daud bhi de de jaan
+  Jis ke lahje pe Daaud bhi de de jaan
   In meiṅ jis ko bhi kahte Shah-e-ins o jaan
   Subh-e-Aashur wo barh ke deta azaan
 ---

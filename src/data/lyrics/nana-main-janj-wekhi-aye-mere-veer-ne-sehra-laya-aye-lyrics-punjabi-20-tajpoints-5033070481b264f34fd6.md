@@ -1,36 +1,62 @@
 ---
-title: "Nana Main Janj Wekhi Aye Mere Veer Ne Sehra Laya Aye Lyrics Punjabi 2024"
+title: "نانا میں جنج ویکھی اے میرے ویر نے سہرا لایا اے"
+alternateTitle: "Nana Main Janj Wekhi Aye Mere Veer Ne Sehra Laya Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Nana main janj wekhi aye mere veer ne sehra laya aye
+  Akbar di shadi da Sughra Nanay nu khuwab sunaya aye
+  Mere poor de har ik chehray te muskan main Nana wekhi aye
+  Khush qismat bhain Sakina aye jehri kool Akbar de bethi aye
+  Hath chum ke Nanay Ghazi ne Akbar nu gana paya aye
+  Akbar de kool khalotiyan ne sab bhaina aasay pasay
+  Koi waag pharay koi khush hokay mangdi aye laag batheray
+  Aye tak ke veran Abid ne mainu Akbar kool bulaya aye
+  Khush ho ke phophi Zainab v Akbar duawaan dendi aye
+  Sir sehrey wala chum chum ke veran di balawan laindi aye
+  Fair kool bola ke putraan nu mere veer da sadqa liya aye
+  Fair Sughra aakhiya Nanay nu ais khuwab da manzar hoor v aye
+  Jehray hath paye gana bandh de san darya te qalam oh ho gaye ne
+  Babay di kamar v jhuk gayi aye bas khali alam le aaya aye
+  Akbar di shadi wekhi si Akbar da sehra wekhiya aye
+  Main dar gayi aan main khon che tar babay da chehra wekhiya aye
+  Main wekhiya babay ne maa taun Asghar da zakhm lukaya aye
+  Mere sehriyaan walay Akbar de seene te barchi wekhi main
+  Meri maa Laila payi rondi aye phophi Zainab tarapdi wekhi main
+  Meri sariyaan hasrataan nu ummat Karbal wich mar mukaya aye
+  Akbar de sadqay bibi ne aynj mera maan wadhaya aye
+  Zeeshan da koi hunar nayi ais dar da sadqa paya aye
+  Aye khas atta aye Sughra di jehra noha pak likhaya aye
 ---
 
-1
-Nana Main Janj Wekhi Aye Mere Veer Ne Sehra Laya Aye.
-Akbar Di Shadi Da Sughra Nanay Nu Khuwab Sunaya Aye.
-Mere Poor De Har Ik Chehray Te Muskan Main Nana Wekhi Aye.
-Khush Qismat Bhain Sakina Aye Jehri Kool Akbar De Bethi Aye.
-Hath Chum Ke Nanay Ghazi Ne Akbar Nu Gana Paya Aye.
-Akbar De Kool Khalotiyan Ne Sab Bhaina Aasay Pasay.
-Koi Waag Pharay Koi Khush Hokay Mangdi Aye Laag Batheray.
-Aye Tak Ke Veran Abid Ne Mainu Akbar Kool Bulaya Aye.
-Khush Ho Ke Phophi Zainab V Akbar Duawaan Dendi Aye.
-Sir Sehrey Wala Chum Chum Ke Veran Di Balawan Laindi Aye.
-Fair Kool Bola Ke Putraan Nu Mere Veer Da Sadqa Liya Aye.
-Fair Sughra Aakhiya Nanay Nu Ais Khuwab Da Manzar Hoor V Aye.
-Jehray Hath Paye Gana Bandh De San Darya Te Qalam Oh Ho Gaye Ne.
-Babay Di Kamar V Jhuk Gayi Aye Bas Khali Alam Le Aaya Aye.
-Akbar Di Shadi Wekhi Si Akbar Da Sehra Wekhiya Aye.
-Main Dar Gayi Aan Main Khon Che Tar Babay Da Chehra Wekhiya Aye.
-Main Wekhiya Babay Ne Maa Taun Asghar Da Zakhm Lukaya Aye.
-Mere Sehriyaan Walay Akbar De Seene Te Barchi Wekhi Main.
-Meri Maa Laila Payi Rondi Aye Phophi Zainab Tarapdi Wekhi Main.
-Meri Sariyaan Hasrataan Nu Ummat Karbal Wich Mar Mukaya Aye.
-Akbar De Sadqay Bibi Ne Aynj Mera Maan Wadhaya Aye.
- Zeeshan Da Koi Hunar Nayi Ais Dar Da Sadqa Paya Aye.
-Aye Khas Atta Aye Sughra Di Jehra Noha Pak Likhaya Aye.
+۱
+نانا میں جنج ویکھی اے میرے ویر نے سہرا لایا اے
+اکبر دی شادی دا صغریٰ نانے نوں خواب سنایا اے
+میرے پور دے ہر اک چہرے تے مسکان میں نانا ویکھی اے
+خوش قسمت بھین سکینہ اے جیہڑی کول اکبر دے بیٹھی اے
+ہتھ چم کے نانے غازی نے اکبر نوں گانا پایا اے
+اکبر دے کول کھلوتیاں نے سب بھیناں آسے پاسے
+کوئی واگ پھڑے کوئی خوش ہو کے منگدی اے لاگ بتھیرے
+ایہہ تک کے ویرن عابد نے مینوں اکبر کول بلایا اے
+خوش ہو کے پھوپھی زینب وی اکبر دعاواں دیندی اے
+سر سہرے والا چم چم کے ویرن دی بلاواں لیندی اے
+فیر کول بلا کے پتراں نوں میرے ویر دا صدقہ لیا اے
+فیر صغریٰ آکھیا نانے نوں ایس خواب دا منظر ہور وی اے
+جیہڑے ہتھ پئے گانا بندھدے سن دریا تے قلم اوہ ہو گئے نے
+بابے دی کمر وی جھک گئی اے بس خالی علم لے آیا اے
+اکبر دی شادی ویکھی سی اکبر دا سہرا ویکھیا اے
+میں ڈر گئی آں میں خون چے تر بابے دا چہرہ ویکھیا اے
+میں ویکھیا بابے نے ماں توں اصغر دا زخم لکایا اے
+میرے سہریاں والے اکبر دے سینے تے برچھی ویکھی میں
+میری ماں لیلا پئی روندی اے پھوپھی زینب تڑپدی ویکھی میں
+میری ساریاں حسرتاں نوں امت کربل وچ مار مکایا اے
+اکبر دے صدقے بی‌بی نے اینج میرا مان ودھایا اے
+ذیشان دا کوئی ہنر نئیں ایس در دا صدقہ پایا اے
+ایہہ خاص عطا اے صغریٰ دی جیہڑا نوحہ پاک لکھایا اے

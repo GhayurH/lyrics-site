@@ -1,36 +1,62 @@
 ---
-title: "Bazoo Jo Nahi Hain"
+title: "بازو جو نہیں ہیں"
+alternateTitle: "Bazoo Jo Nahi Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ro ro ke behan kehti thi kis tarha se aaye bazoo jo nahi hain
+  Abbas ko koi na sada de ke bulaye bazoo jo nahi hain
+  Sar choom ke kehti thin Sakina se phophi jaan
+  Ab koza gira de nahi kuch pani ka imkaan
+  Kis tarha se Abbas woh mashkiza uthaye bazoo jo nahi hain
+  Rukhsaron pe kuch neel bane jate hain lekin
+  Ab hath sitamgar ke barhe aate hain lekin
+  Dur chintey howay kaisay Sakina ke bachaye bazoo jo nahi hain
+  Uth kar abhi aa jaye ga Maula ko yaqeen hai
+  Yeh soch ke lekin woh sada deta nahi hai
+  Humrah mere kaise woh Akbar ko uthaye bazoo jo nahi hain
+  Yeh soch ke roti rahi Be-Sheer ki madar
+  Labaik abhi keh de ga Abbas-e-Dilawar
+  Kis dil se kahon dhond ke Be-Sheer ko laye bazoo jo nahi hain
+  Sahil ki taraf dekh ke roti rahi Zainab
+  Kis tarha se Abbas ko yeh bolti Zainab
+  Shabir ke seene se sitamgar ko hataye bazoo jo nahi hain
+  Naqoon pe haram aate hain tasleem ko uthay
+  Lasha bhi tarapta hai keh tazeem ko uthay
+  Aadab baja laye tu kis tarha se laye bazoo jo nahi hain
+  Akbar lab-e-Kausar tha ajab pyas ka manzar
+  Abbas ka sar choom ke kehte they yeh Haider
+  Pani bhi tujhe Fatima Zahra hi pilaye bazoo jo nahi hain
 ---
 
-1
-Ro Ro Ke Behan Kehti Thi Kis Tarha Se Aaye Bazoo Jo Nahi Hain.
-Abbas Ko Koi Na Sada De Ke Bulaye Bazoo Jo Nahi Hain.
-Sar Choom Ke Kehti Thin Sakina Se Phophi Jaan.
-Ab Koza Gira De Nahi Kuch Pani Ka Imkaan.
-Kis Tarha Se Abbas Woh Mashkiza Uthaye Bazoo Jo Nahi Hain.
-Rukhsaron Pe Kuch Neel Bane Jate Hain Lekin.
-Ab Hath Sitamgar Ke Barhe Aate Hain Lekin.
-Dur Chintey Howay Kaisay Sakina Ke Bachaye Bazoo Jo Nahi Hain.
-Uth Kar Abhi Aa Jaye Ga Maula Ko Yaqeen Hai.
-Yeh Soch Ke Lekin Woh Sada Deta Nahi Hai.
-Humrah Mere Kaise Woh Akbar Ko Uthaye Bazoo Jo Nahi Hain.
-Yeh Soch Ke Roti Rahi Be-Sheer Ki Madar.
-Labaik Abhi Keh De Ga Abbas-e-Dilawar.
-Kis Dil Se Kahon Dhond Ke Be-Sheer Ko Laye Bazoo Jo Nahi Hain.
-Sahil Ki Taraf Dekh Ke Roti Rahi Zainab.
-Kis Tarha Se Abbas Ko Yeh Bolti Zainab.
-Shabir Ke Seene Se Sitamgar Ko Hataye Bazoo Jo Nahi Hain.
-Naqoon Pe Haram Aate Hain Tasleem Ko Uthay.
-Lasha Bhi Tarapta Hai Keh Tazeem Ko Uthay.
-Aadab Baja Laye Tu Kis Tarha Se Laye Bazoo Jo Nahi Hain.
- Akbar Lab-e-Kausar Tha Ajab Pyas Ka Manzar.
-Abbas Ka Sar Choom Ke Kehte They Yeh Haider.
-Pani Bhi Tujhe Fatima Zahra Hi Pilaye Bazoo Jo Nahi Hain.
+۱
+رو رو کے بہن کہتی تھی کس طرح سے آئے، بازو جو نہیں ہیں
+عباس کو کوئی نہ صدا دے کے بلائے، بازو جو نہیں ہیں
+سر چوم کے کہتی تھیں سکینہ سے پھوپھی جان
+اب کوزہ گرا دے، نہیں کچھ پانی کا امکان
+کس طرح سے عباس وہ مشکیزہ اٹھائے، بازو جو نہیں ہیں
+رخساروں پہ کچھ نیل بنے جاتے ہیں لیکن
+اب ہاتھ ستمگر کے بڑھے آتے ہیں لیکن
+دُر چھینتے ہوئے کیسے سکینہ کے بچائے، بازو جو نہیں ہیں
+اٹھ کر ابھی آ جائے گا، مولا کو یقین ہے
+یہ سوچ کے لیکن وہ صدا دیتا نہیں ہے
+ہمراہ میرے کیسے وہ اکبر کو اٹھائے، بازو جو نہیں ہیں
+یہ سوچ کے روتی رہی بے شیر کی مادر
+لبیک ابھی کہہ دے گا عباسِ دلاور
+کس دل سے کہوں ڈھونڈ کے بے شیر کو لائے، بازو جو نہیں ہیں
+ساحل کی طرف دیکھ کے روتی رہی زینب
+کس طرح سے عباس کو یہ بولتی زینب
+شبیر کے سینے سے ستمگر کو ہٹائے، بازو جو نہیں ہیں
+ناقوں پہ حرم آتے ہیں تسلیم کو اٹھے
+لاشہ بھی تڑپتا ہے کہ تعظیم کو اٹھے
+آداب بجا لائے تو کس طرح سے لائے، بازو جو نہیں ہیں
+اکبر لبِ کوثر تھا عجب پیاس کا منظر
+عباس کا سر چوم کے کہتے تھے یہ حیدر
+پانی بھی تجھے فاطمہ زہرا ہی پلائے، بازو جو نہیں ہیں

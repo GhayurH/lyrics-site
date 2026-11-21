@@ -12,7 +12,7 @@ aliases: ["Boodha Baap"]
 published: true
 reciter: "Ali Mohd. Sultanpuri"
 romanLyrics: |-
-  Barchhi ki ani khench chuke jab Shah-e-waala
+  Barchhi ki ani khench chuke jab Shaah-e-waala
   Aur dam jawaaṅ bete ka jab saamne nikla
   Sar ko jhuka ke khaak pe baithe mere Maula
   Zaanu pe apne laal ka sar Shaah ne rakha
@@ -20,43 +20,43 @@ romanLyrics: |-
   Tha Sayyid-e-mazlum ka Waiz yehi nauha
   Ae mere laal ae mere laal
 
-  Maqtal meiṅ Shaah-e-waala kehte the ye ro kar ae mere laal
+  Maqtal mein Shaah-e-waala kehte the ye ro kar ae mere laal
   Tujh bin tera burha baap jiyega kiuṅ kar ae mere laal
 
   1
-  Maiṅ huṅ tanha meri tanhaai pe taras khaao Akbar
-  Ghurbat meiṅ is tarah mujhko chhor ke na jaao Akbar
+  Main huṅ tanha meri tanhaai pe taras khaao Akbar
+  Ghurbat mein is tarah mujhko chhor ke na jaao Akbar
   Chaaroṅ taraf se ghere haiṅ mujhko zulm ka lashkar ae mere laal
 
   2
-  Hai tujhko maalum maiṅ tujhse kitni mohabbat karta huṅ
-  Yaad aate hai jab naana maiṅ teri ziyaarat karta huṅ
+  Hai tujhko maalum main tujhse kitni mohabbat karta huṅ
+  Yaad aate hai jab naana main teri ziyaarat karta huṅ
   Baaba jaan se na rutho hamshakl-e-Payambar ae mere laal
 
   3
   Beta apne baaba ki aankhoṅ ka taara hota hai
-  Beta rahe nazdik to aankhoṅ meiṅ ujiyaara hota hai
+  Beta rahe nazdik to aankhoṅ mein ujiyaara hota hai
   Mujhko nazar ab kuchh nahiṅ aata tujhse bichhar kar ae mere laal
 
   4
-  Maiṅ kaise samjhaauṅ tujhko apni ulfat ka mafhum
+  Main kaise samjhaauṅ tujhko apni ulfat ka mafhum
   Tere bhi aulaad agar hoti to tujhe hota maalum
-  Tujhko rukhsat kar ke kya guzri hai mujhpar ae mere laal
+  Tujhko rukhsat kar ke kya guzri hai mujh par ae mere laal
 
   5
   Mujhko tanha jaan ke zaalim aur sataayeṅge beta
-  Bahr-e-madad ab ghurbat meiṅ hum kisko bulaayeṅge beta
-  Ab nahiṅ zinda tere chacha Abbas-e-dilaawar ae mere laal
+  Bahr-e-madad ab ghurbat mein ham kis ko bulaayeṅge beta
+  Ab nahiṅ zinda tere chacha Abbaas tere dilaawar ae mere laal
 
   6
-  Ae Akbar maiṅ ab kis tarah se khaime meiṅ jaauṅga
-  Teri phuphi ammaaṅ ko jaakar kaise muṅh dikhlaauṅga
-  Baali Sakina ko samjhaauṅga kya keh kar ae mere laal
+  Ae Akbar main ab kis tarah se khaime mein jaauṅ ga
+  Teri phuphi ammaaṅ ko ja kar kaise muṅh dikhlaauṅ ga
+  Baali Sakina ko samjhaauṅ ga kya keh kar ae mere laal
 
   7
-  Laash jawaaṅ bete ki ran se leke chale hai jab Sarwar
+  Laash jawaaṅ bete ki ran se le ke chale hai jab Sarwar
   Khench rahe the khat Akbar ke pair zamin-e-Karbal par
-  Shah ki zaifi roti thi Waiz ye keh kar ae mere laal
+  Shaah ki zaifi roti thi Waiz ye keh kar ae mere laal
 ---
 
 برچھی کی انی کھینچ چکے جب شہِ والا

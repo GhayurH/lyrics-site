@@ -12,10 +12,10 @@ aliases: ["Ye Waqia Hai Moharam"]
 published: true
 romanLyrics: |-
   1
-  Ye waaqia hai Muharram ki gyaarah ka ba Khuda
+  Ye waaqia hai Muharram ki gyaarah ka bakhuda
   Baghair gor o kafan the shahid-e-Karb o Bala
   Haram tamaam the chhote bare rasan basta
-  Na sar pe maqna o chaadar na koi daad rasa
+  Na koi maqna o chaadar na koi daad rasa
   Adu ne Aal-e-Nabi ko ye aake hukm diya
   Sawaar naaqoṅ pe ho jaao jaana hai Kufa
 
@@ -24,29 +24,29 @@ romanLyrics: |-
   Ba jabr Aal-e-Muhammad sawaar un pe hue
   Kahuṅ maiṅ kis tarah ke haath pusht par the bandhe
   Saghir bachche the maaoṅ ki chhaatiyoṅ se lage
-  Laiṅ bhagaate the naaqoṅ ko is shaqaawat se
+  Laiṅ bhagaate the naaqoṅ ko is saqaawat se
   Na rakh sake kisi bachche ko maaṅ hifaazat se
 
   3
   Dhuaaṅ tha qaafila bachcha jo koi girta tha
   Wo dekhti thi use aur wo maaṅ ko takta tha
   Jo bachcha girta tha naaqe se dab ke marta tha
-  Sadaa-e-Ya Ali ka ek shor uthta tha
+  Sadaa-e-Ya Ali ka ik shor uthta tha
   Adu ye haadsa hone par bhi na rukte the
-  Bajaaye rukne wo aur tez chalte the
+  Bajaaye rukne ke wo aur tez chalte the
 
   4
   Sakina gir gayi naaqe se ek shor utha
-  Sar-e-Husain meine naize ke zamiṅ meiṅ gaara
-  Kaha ye Shimr ne Abid se jaake puchho zara
+  Sar-e-Husain meine neze ke zamiṅ meiṅ gaara
+  Kaha ye Shimr ne Abid se ke ye puchho zara
   Sar ab ye kiuṅ nahiṅ chalta hai kya hua jo ruka
-  Ye puchh kar mujhe batlaao dur jaana hai
+  Ye puchh kar hameṅ batlaao dur jaana hai
   Lagi jo der to phir tum ho taaziyaana hai
 
   5
-  Sambhaale hathkari aur beriyaṅ chale Sajjad
+  Sambhaale hatkari aur beriyaṅ chale Sajjad
   Qarib-e-sar hue Shabbir ke to ki faryaad
-  Nida ye sar ne ba ejaaz di ke sun rudaad
+  Nida ye sar ne ba ijaaz di ke sun rudaad
   Sakina gir gayi naaqe se ban meiṅ Zainul Aba
   Meri Sakina ko jab tak na koi laae ga
   Sar-e-Husain yahaṅ se na aage jaae ga
@@ -54,26 +54,26 @@ romanLyrics: |-
   6
   Chali talaash ko jangal meiṅ Zainab-e-muztar
   Sadaaeṅ deti thi kis ja ho ae meri dilbar
-  Ye ittefaaq se ek samt par gayi jo nazar
+  Ye ittefaaq se ik samt par gayi jo nazar
   Ye dekha baithi hai ek Bibi yuṅ jhukaae sar
   Siyaah posh khule sar hai aur roti hai
   Sakina god meiṅ un ki hai aur soti hai
 
   7
-  Qarib jaake ye Zainab ne un se farmaaya
+  Qarib ja ke ye Zainab ne un se farmaaya
   Tumhaara shukriya ae Bibi jo taras khaaya
   Is ek neki se parwaana-e-Iram paaya
   Magar ae mohsina chehra na apna dikhlaaya
   Maiṅ roz-e-hashr jo dekhuṅ to tum ko pahchaanuṅ
-  Jo maaṅgo is ke sile meiṅ wo tum ko dilwa duṅ
+  Jo maaṅgo is ke sile meiṅ wo tum ko dilwaa duṅ
 
   8
   Ye sun ke sabr ka paimaana Bibi ka chhalka
   Hata ke baaloṅ ko rukh se ba dard o yaas kaha
-  Maiṅ teri maaṅ huṅ tu pahchaan mujh ko maah liqa
+  Maiṅ teri maaṅ huṅ tu pahchaan mujh ko maah-e-liqa
   Ae meri Zainab-e-muztar salaam le maaṅ ka
   Mala hai chehre pe apne Husain ka ye lahu
-  Tu suṅgh le tere bhaai ki is meiṅ hai khushbu
+  Tu sungh le tere bhaai ki is meiṅ hai khushbu
 ---
 ۱
 یہ واقعہ ہے محرم کی گیارہ کا باخدا

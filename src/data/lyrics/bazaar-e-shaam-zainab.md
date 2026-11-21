@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab Aur Shaam
+  Zainab aur Shaam
 
   Nabi ke rauze par saadaat ye karte the buka
   Gharib Zainab kaise bhulaaye Shaam
@@ -29,7 +29,7 @@ romanLyrics: |-
   Kaise bhulaaye
 
   2
-  Gyaarah Muharram Karb o Bala se
+  Gyaarah Muharram Karb o Bala meiṅ
   Shaam chali Ahmad ki nawaasi
   Saath alam ke surkh pharera
   Nezoṅ pe sar chehroṅ pe udaasi
@@ -65,7 +65,7 @@ romanLyrics: |-
   Mar gai ho teri maadar dukhiya
   Lab tishna kaam Zainab
   Haaṅ wo kalaam Zainab
-  Badr ut tamaam Zainab
+  Badr-ut-ta'aam Zainab
   Kaise bhulaaye
 
   6
@@ -80,7 +80,7 @@ romanLyrics: |-
 
   7
   Shaam ki galiyoṅ aur kuchoṅ meiṅ
-  Nauha kunaṅ Aulaad-e-Nabi thi
+  Nauha kunaaṅ Aulaad-e-Nabi the
   Ahl-e-haram sab beparda the
   Chaaroṅ taraf maahaul sharaabi
   Bint-e-Amir Zainab
@@ -92,7 +92,7 @@ romanLyrics: |-
   Ahl-e-haram ke dil pe likhi hai
   Kaaṅtoṅ bhari Aabid ki musaafat
   Wo tis ghante kaise bhulaaye
-  Aal-e-Nabi aur Baab-e-Saaat
+  Aal-e-Nabi aur Baab-e-Sa'at
   Jab pehli baar Zainab
   Pahunchi darbaar Zainab
   Wo intizaar Zainab

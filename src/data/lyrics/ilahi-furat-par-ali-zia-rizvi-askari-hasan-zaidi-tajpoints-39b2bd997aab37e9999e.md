@@ -1,30 +1,48 @@
 ---
-title: "Ilahi Furat Par Ali Zia Rizvi Askari Hasan Zaidi"
+title: "الٰہی فرات پر"
+alternateTitle: "Ilahi Furat Par Ali Zia Rizvi Askari Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Anees"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kaisa yeh gul macha hai Elahi Furat par
+  Mara gaya Hussain ka bhai Furat par
+  Aaya nazar na jab keh alam, gash hoye Hussain
+  Jab dekhney ko chashm uthai Furat par
+  Beta padar ko le chalo apne chacha ke pas
+  Bhai ne kafi dair lagai Furat par
+  Kyun shoor uth raha hai tarai se bar bar
+  Akbar chalo karein tu rasai Furat par
+  Ammo tu khairiyat se hain, batlaiye phophi
+  Baba gaye hain detey duhai Furat par
+  Darya ki simt dekho keh Zainab ne yeh kaha
+  Bhai, Sakina tu nahi aayi Furat par
+  Ghurbat mein paye kya karein dolat Baneen ki
+  Batees saal baad ganwayi Furat par
+  Soz-e-alam se uthta rahe ga dhowaan, Anees
+  Pani ne aisi aag lagai Furat par
 ---
 
-1
-Ilahi Furat Par Ali Zia Rizvi Askari Hasan Zaidi.
-Kaisa Yeh Gul Macha Hai Elahi Furat Par.
-Mara Gaya Hussain Ka Bhai Furat Par.
-Aaya Nazar Na Jab Keh Alam Gash Hoye Hussain.
-Jab Dekhney Ko Chashm Uthai Furat Par.
-Beta Padar Ko Le Chalo Apne Chacha Ke Pas.
-Bhai Ne Kafi Dair Lagai Furat Par.
-Kyun Shoor Uth Raha Hai Tarai Se Bar Bar.
-Akbar Chalo Karein Tu Rasai Furat Par.
-Ammo Tu Khairiyat Se Hain Batlaiye Phophi.
-Baba Gaye Hain Detey Duhai Furat Par.
-Darya Ki Simt Dekho Keh Zainab Ne Yeh Kaha.
-Bhai Sakina Tu Nahi Aayi Furat Par.
-Ghurbat Mein Paye Kya Karein Dolat Baneen Ki.
-Batees Saal Baad Ganwayi Furat Par.
-Soz-e-Alam Se Uthta Rahe Ga Dhowaan Anees.
-Pani Ne Aisi Aag Lagai Furat Par.
+۱
+کیسا یہ غل مچا ہے الٰہی فرات پر
+مارا گیا حسین کا بھائی فرات پر
+آیا نظر نہ جب کہ علم، غش ہوئے حسین
+جب دیکھنے کو چشم اٹھائی فرات پر
+بیٹا، پدر کو لے چلو اپنے چچا کے پاس
+بھائی نے کافی دیر لگائی فرات پر
+کیوں شور اٹھ رہا ہے ترائی سے بار بار
+اکبر، چلو کریں تو رسائی فرات پر
+عمو تو خیریت سے ہیں، بتلائیے پھوپھی
+بابا گئے ہیں دیتے دہائی فرات پر
+دریا کی سمت دیکھو کہ زینب نے یہ کہا
+بھائی، سکینہ تو نہیں آئی فرات پر
+غربت میں پائے کیا کریں دولت بنین کی
+بتیس سال بعد گنوائی فرات پر
+سوزِ الم سے اٹھتا رہے گا دھواں، انیس
+پانی نے ایسی آگ لگائی فرات پر

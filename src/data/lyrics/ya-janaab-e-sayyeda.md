@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Al madad Sayyeda al madad Fatema
-  Hum azaadaaroṅ ki aap se hai iltejaa
+  Hum azaadaaroṅ ki aap se hai iltijaa
   Ya Janaab-e-Sayyeda ya Janaab-e-Sayyeda
 
   Har Husaini se rahe dur har maraz o bala
@@ -26,8 +26,8 @@ romanLyrics: |-
   Jaae ghamkhwaar kahaaṅ aap ke dar ke siwa
 
   2
-  Hai bahut paas meiṅ ab maah-e-aza Shehzaadi
-  Har azaadaar ye karta hai dua Shehzaadi
+  Hai bahut paas mein ab maah-e-aza shehzaadi
+  Har azaadaar ye karta hai dua shehzaadi
   Al madad Fatema al madad Sayyeda
   Ek ishaara kar do dur ho jaae waba
 
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   5
   Haath aur pair bahut maar chuki hai duniya
-  La dawa hai ye maraz haar chuki hai duniya
+  Laa dawa hai ye maraz haar chuki hai duniya
   Al madad Fatema al madad Sayyeda
   Sadqa Hasnain ka do ab mile sab ko shifa
 
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   7
   Hum agar aap ke bachchoṅ ko na ro paaeṅ ge
-  Bakhuda chain se ek pal bhi na so paaeṅ ge
+  Baakhuda chain se ek pal bhi na so paaeṅ ge
   Al madad Fatema al madad Sayyeda
   Ab madad jald karo hai ye Waaiz ki dua
 ---

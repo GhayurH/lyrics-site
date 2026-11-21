@@ -10,43 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Haaye Musa-e-Kazim
+  Ik ghareebul watan qaid mein mar gaya
+
   1
-  Haye moosa-e-kazim
-  Ek ghareebul watan qaid mein mar gaya
-  Pul pe baghdad ke hai janaza rakha
-  Khun aankhoṅ se apni bahate hue
-  Hatkari beriyaṅ tauq pehne hue
-  Qaid sajjad ki yaad karta hua
+  Pul pe Baghdaad ke hai janaaza rakha
+  Khun aankhoṅ se apni bahaate hue
+  Hathkari beriyaaṅ tauq pehne hue
+  Qaid Sajjad ki yaad karta hua
 
   2
-  Jis ke athara bete jawaaṅ saal ke
-  Uski mayyat ko mazdur le kar chale
-  Bain karti chali saath meiṅ sayyeda
+  Jis ke athaarah bete jawaaṅ saal ke
+  Us ki mayyat ko mazdur le kar chale
+  Bain karti chali saath mein Sayyeda
 
   3
-  Ajnabi shehr hai dur ahle watan
+  Ajnabi shehr hai dur ahl-e-watan
   Tere baba ko de kaun ghusl o kafan
-  Aao jaldi watan se imam-e-raza
+  Aao jaldi watan se Imaam-e-Raza
 
   4
-  Sabr karna hai sughra ke jaisa tujhe
-  Raasta dekhna baap ka chor de
-  Jaa ke masoom-e-qum se kehde hawa
+  Sabr karna hai Sughra ke jaisa tujhe
+  Raasta dekhna baap ka chhor de
+  Jaa ke Maasuma-e-Qum se keh de hawa
 
   5
-  Qaid meiṅ chal basa shaahe kaun o makaṅ
-  Ab to mazlum ki khol do beriyaṅ
-  Tumne chaaha tha jo lo wohi hogaya
+  Qaid mein chal basa shaah-e-kaun o makaaṅ
+  Ab to mazlum ki khol do beriyaaṅ
+  Tum ne chaaha tha jo lo wohi ho gaya
 
   6
-  Laash par bhi nahi rone wala koi
-  Warise din ki haye bewaarsi
-  Dhunti hai khaza dafn karne ki jaa
+  Laash par bhi nahiṅ rone waala koi
+  Waaris-e-din ki haaye bewaarsi
+  Dhundti hai qaza dafn karne ki jaa
 
   7
-  Bayn karte takkalum sabhi aa gaye
-  Karbala se madine se aur sham se
-  Chauda barsoṅ ka qaidi reha hogaya
+  Bain karte Takallum sabhi aa gaye
+  Karbala se Madine se aur Shaam se
+  Chaudah barsoṅ ka qaidi rihaa ho gaya
 ---
 
 ؑہائے موسیٰءِ کاظم

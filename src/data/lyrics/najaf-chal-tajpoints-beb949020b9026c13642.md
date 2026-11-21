@@ -1,35 +1,60 @@
 ---
-title: "Najaf Chal"
+title: "نجف چل"
+alternateTitle: "Najaf Chal"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chal le ke mujhe tair-e-afkar Najaf chal
+  Karna hai dar-e-ilm ka dedar Najaf chal
+  Lag jaein gay qismat ko teri chand sitarey
+  Dar dar na bhatak maan le ik bar Najaf chal
+
+  2
+  Aamad hai janab-e-Abu Talib ke pisar ki
+  Dekhein gay wahan barish-e-anwar Najaf chal
+  Hai terah Rajab khul gaya may khana-e-wahdat
+  Chal jaam utha Haidery may khar Najaf chal
+
+  3
+  Phir aaein gay khud loag teri karne ziyarat
+  Ban Haider-e-Karrar ka zawwar Najaf chal
+  Har roz yehi baat main samjhata hoon khud ko
+  Bas chor de yeh shehar mere yaar Najaf chal
+
+  4
+  Irfan-e-Ali tujh ko Madine se miley ga
+  Irfan qalandar ka hai darkar Najaf chal
+  Aa kar yeh nakerain meri qabar mein bolay
+  Yasir tera teyar hai ghar bar Najaf chal
 ---
 
-1
-Chal Le Ke Mujhe Tair-e-Afkar Najaf Chal.
-Karna Hai Dar-e-Ilm Ka Dedar Najaf Chal.
-Lag Jaein Gay Qismat Ko Teri Chand Sitarey.
-Dar Dar Na Bhatak Maan Le Ik Bar Najaf Chal.
+۱
+چل لے کے مجھے طائرِ افکار نجف چل
+کرنا ہے درِ علم کا دیدار نجف چل
+لگ جائیں گے قسمت کو تیری چاند ستارے
+در در نہ بھٹک مان لے اک بار نجف چل
 
-2
-Aamad Hai Janab-e-Abu Talib Ke Pisar Ki.
-Dekhein Gay Wahan Barish-e-Anwar Najaf Chal.
-Hai Terah Rajab Khul Gaya May Khana-e-Wahdat.
-Chal Jaam Utha Haidery May Khar Najaf Chal.
+۲
+آمد ہے جنابِ ابو طالب کے پسر کی
+دیکھیں گے وہاں بارشِ انوار نجف چل
+ہے تیرہ رجب کھل گیا مے خانۂ وحدت
+چل جام اٹھا حیدری مے خوار نجف چل
 
-3
-Phir Aaein Gay Khud Loag Teri Karne Ziyarat.
-Ban Haider-e-Karrar Ka Zawwar Najaf Chal.
-Har Roz Yehi Baat Main Samjhata Hoon Khud Ko.
-Bas Chor De Yeh Shehar Mere Yaar Najaf Chal.
+۳
+پھر آئیں گے خود لوگ تیری کرنے زیارت
+بن حیدرِ کرار کا زوار نجف چل
+ہر روز یہی بات میں سمجھاتا ہوں خود کو
+بس چھوڑ دے یہ شہر میرے یار نجف چل
 
-4
-Irfan-e-Ali Tujh Ko Madine Se Miley Ga.
-Irfan Qalandar Ka Hai Darkar Najaf Chal.
-Aa Kar Yeh Nakerain Meri Qabar Mein Bolay.
- Yasir Tera Teyar Hai Ghar Bar Najaf Chal.
+۴
+عرفانِ علی تجھ کو مدینے سے ملے گا
+عرفان قلندر کا ہے درکار نجف چل
+آ کر یہ نکیرین میری قبر میں بولے
+یاسر تیرا تیار ہے گھر بار نجف چل

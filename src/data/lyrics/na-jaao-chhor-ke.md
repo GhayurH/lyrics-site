@@ -32,25 +32,25 @@ romanLyrics: |-
 
   3
   Pidar se betiyoṅ ko aas hoti hai bahut saari
-  Maiṅ tum par hoti huṅ waari
+  Main tum par hoti huṅ waari
   Utho sine se phir mujh ko laga lo ae mere Baaba
   Na jaao chhor ke Baaba
 
   4
   Zara aankheṅ to kholo dekh lo roti hai bahut Zainab
   Tarapti hai bahut Zainab
-  Kafan meiṅ dekh ke tum ko mera dil khuṅ hai rota
+  Kafan mein dekh ke tum ko mera dil khuṅ hai rota
   Na jaao chhor ke Baaba
 
   5
   Kafan ko thaam kar boli mujhe bhi saath lete jaao
-  Na muṅ yuṅ mor kar jaao
+  Na munh yuṅ mor kar jaao
   Sahaara hai bara tum se nahiṅ chhoro mujhe tanha
   Na jaao chhor ke Baaba
 
   6
   Hasan bhaiya hata do tum kafan Baaba ke chehre se
-  Maiṅ dekhuṅ chehra ji bhar ke
+  Main dekhuṅ chehra ji bhar ke
   Tarap ke chehra dekha phir jabiṅ ko keh ke ye chuma
   Na jaao chhor ke Baaba
 

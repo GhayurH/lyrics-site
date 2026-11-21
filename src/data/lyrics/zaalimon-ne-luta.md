@@ -14,28 +14,28 @@ romanLyrics: |-
   Zaalimoṅ ne luta hai haaye ghar Payambar ka
 
   1
-  Haaye kya fiza chhaai gulshan-e-Muhammad par
-  Karbala ke maidaan meiṅ kheṅch ke aa gaya lashkar
+  Haaye kya fizaa chhaai gulshan-e-Muhammad par
+  Karbala ke maidaan meiṅ kheṅch ke aa gaye lashkar
   Kufiyoṅ ne dhoke se Shaah-e-diṅ ko bulwa kar
   Zulm se gala kaata haaye Ibn-e-Haidar ka
 
   2
-  Garche zof-e-piri se jhuk gai kamar dekho
+  Garche zof-e-piri se jhuk gayi kamar dekho
   Phir bhi Sarwar-e-ziṅ hai kitne bejigar dekho
-  Fath ho gaya Khaibar ya Ali idhar dekho
+  Fatah ho gaya Khaibar ya Ali idhar dekho
   Sheh ke dosh par laasha hai jawaaṅ Akbar ka
 
   3
   Haaye kya mazaalim hai haaye kya giraawat hai
   Barchhiyoṅ ki tiroṅ ki kitni sansanaahat hai
-  Phir bhi khushk hoṅtoṅ par ek muskuraahat hai
+  Phir bhi khushk hoṅtoṅ par ik muskuraahat hai
   Khuṅ piya hai naawak ne bezabaaṅ Asghar ka
 
   4
   Jab ke aakhri dam tak makr ke dilasoṅ par
-  Ya Nabi khabar lije aap ke nawaasoṅ par
+  Ya Nabi khabar lijiye aap ke nawaasoṅ par
   Aab-e-tegh barsaaya tin din ke pyaasoṅ par
-  Sar charhaya naize par din-e-haq ke Sarwar ka
+  Sar charhaaya naize par din-e-haq ke Sarwar ka
 
   5
   Raaz-e-dil daraata hai sab adu puraane hai

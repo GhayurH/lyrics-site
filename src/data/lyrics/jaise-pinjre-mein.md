@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Aise chakraati phirti thi bachchi
   Jaise pinjre meiṅ zakhmi ho panchi
-  Kaise kaare qafas tor daale
+  Kaise kaar-e-qafas tor daale
   Ho rihaai ka koi qarina
   Aao baaba jaaṅ
 
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   4
   Ae phuphi ab mera dil hai kehta
-  Mujh ko mil jaayega mera baaba
+  Mujh ko mil jaaye ga mera baaba
   Daadi Zehra ki maano kahaani
   Mil gaya tha suna ran ka beta
   Aao baaba jaaṅ

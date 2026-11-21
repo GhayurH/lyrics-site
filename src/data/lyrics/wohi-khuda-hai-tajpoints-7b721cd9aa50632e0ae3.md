@@ -1,29 +1,48 @@
 ---
-title: "Wohi Khuda Hai"
+title: "وہی خدا ہے"
+alternateTitle: "Wohi Khuda Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Hamd"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Koi tu hai jo Nizam-e-Hasti chala raha hai wohi Khuda hai
+
+  1
+  Durood Aal-e-Nabi pe har dam jo bhaijta hai wohi Khuda hai
+  Jo ho ke Mabood inn ki midhat sikha raha hai wohi Khuda hai
+  Na hum ne dekha na hum ne socha kisay khabar thi keh hai woh kaisa?
+  Hamarey sadiq Nabi ne jis ko Khuda kaha hai wohi Khuda hai
+  Yehi mashiyat hai mere Rab ki chaley gi beton se nasal sab ki
+  Nabi ka shajrah jo Fatima se chala raha hai wohi Khuda hai
+
+  2
+  Nabi ka sajdah taveel kar de kabhi libas-e-Jinna woh bhaijay
+  Jo naaz Zahra ke ladloon ke utha raha hai wohi Khuda hai
+  Bazurg hota hai ghar ka jo bhi wohi tu karta hai faislay bhi
+  Woh jis ne rishta Ali-o-Zahra ka tey kiya hai wohi Khuda hai
+  Woh kam aata hai har kissi ke Takallum iss ki daleel yeh hai
+  Ossi ne parday mein apna qayam chupa rakha hai wohi Khuda hai
 ---
 
-Koi Tu Hai Jo Nizam-e-Hasti Chala Raha Hai Wohi Khuda Hai.
+کوئی تو ہے جو نظامِ ہستی چلا رہا ہے وہی خدا ہے
 
-1
-Durood Aal-e-Nabi Pe Har Dam Jo Bhaijta Hai Wohi Khuda Hai.
-Jo Ho Ke Mabood Inn Ki Midhat Sikha Raha Hai Wohi Khuda Hai.
-Na Hum Ne Dekha Na Hum Ne Socha Kisay Khabar Thi Keh Hai Woh Kaisa?.
-Hamarey Sadiq Nabi Ne Jis Ko Khuda Kaha Hai Wohi Khuda Hai.
-Yehi Mashiyat Hai Mere Rab Ki Chaley Gi Beton Se Nasal Sab Ki.
-Nabi Ka Shajrah Jo Fatima Se Chala Raha Hai Wohi Khuda Hai.
+۱
+درود آلِ نبی پہ ہر دم جو بھیجتا ہے وہی خدا ہے
+جو ہو کے معبود ان کی مدحت سکھا رہا ہے وہی خدا ہے
+نہ ہم نے دیکھا نہ ہم نے سوچا کسے خبر تھی کہ ہے وہ کیسا؟
+ہمارے صادق نبی نے جس کو خدا کہا ہے وہی خدا ہے
+یہی مشیت ہے میرے رب کی چلے گی بیٹوں سے نسل سب کی
+نبی کا شجرہ جو فاطمہ سے چلا رہا ہے وہی خدا ہے
 
-2
-Nabi Ka Sajdah Taveel Kar De Kabhi Libas-e-Jinna Woh Bhaijay.
-Jo Naaz Zahra Ke Ladloon Ke Utha Raha Hai Wohi Khuda Hai.
-Bazurg Hota Hai Ghar Ka Jo Bhi Wohi Tu Karta Hai Faislay Bhi.
-Woh Jis Ne Rishta Ali-o-Zahra Ka Tey Kiya Hai Wohi Khuda Hai.
-Woh Kam Aata Hai Har Kissi Ke Takallum Iss Ki Daleel Yeh Hai.
-Ossi Ne Parday Mein Apna Qayam Chupa Rakha Hai Wohi Khuda Hai.
+۲
+نبی کا سجدہ طویل کر دے کبھی لباسِ جناں وہ بھیجے
+جو ناز زہرا کے لاڈلوں کے اٹھا رہا ہے وہی خدا ہے
+بزرگ ہوتا ہے گھر کا جو بھی وہی تو کرتا ہے فیصلے بھی
+وہ جس نے رشتہ علی و زہرا کا طے کیا ہے وہی خدا ہے
+وہ کام آتا ہے ہر کسی کے تکلم اس کی دلیل یہ ہے
+اسی نے پردے میں اپنا قیام چھپا رکھا ہے وہی خدا ہے

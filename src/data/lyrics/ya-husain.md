@@ -10,51 +10,59 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khake karbobala kar rahi hai buka
+  Khaak-e-Karb o Bala kar rahi buka
   Ya Husain ya Husain
 
   1
-  Ho sake na labe nehr qaime bapa
+  Ho sake na lab-e-nehr khaime bapa
 
   2
-  Bhai abbas tha tera maara gaya
-  Laasha ibne Hasan ka bhi tukde hua
-  Tere akbar ke seene pe naiza laga
+  Bhai Abbas tha tera maara gaya
+  Laasha Ibn-e-Hasan ka bhi tukre hua
+  Tere Akbar ke sine pe naiza laga
+  Ya Husain ya Husain
 
   3
-  Teer gardan pe asghar ne khaya magar
-  Teri himmat ke sadqe ali ke pisar
-  Tune har haal mein shukre khaaliq kiya
+  Tir gardan pe Asghar ne khaaya magar
+  Teri himmat ke sadqe Ali ke pisar
+  Tune har haal meiṅ shukr-e-Khaaliq kiya
+  Ya Husain ya Husain
 
   4
-  Haye yalghaar tujpe wo kuffar ki
-  Kaisi baarish hui teer o talwar ki
-  Sar tera haye sajde mein kaata gaya
+  Haaye yalghaar tujh pe woh kuffaar ki
+  Kaisi baarish hui tir o talwaar ki
+  Sar tera haaye sajde meiṅ kaata gaya
+  Ya Husain ya Husain
 
   5
-  Phool zainab ne apne fida kar diye
-  Dil ke tukde thay dono luta kar diye
-  Hausla teri hamsheer ka marhaba
+  Phul Zainab ne apne fida kar diye
+  Dil ke tukre the donoṅ luta kar diye
+  Hausla teri hamshir ka marhaba
+  Ya Husain ya Husain
 
   6
-  Baad tere sakina ke gowhar chine
-  Qaid abid huwe aur qaime jale
-  Tera sar noke naiza pe rakha gaya
+  Baad tere Sakina ke gauhar chhine
+  Qaid Abid hue aur khaime jale
+  Tera sar nok-e-naiza pe rakha gaya
+  Ya Husain ya Husain
 
   7
-  Reesma teri zainab ke baandhi gayi
-  Sar pe baakhi kise ke rida na rahi
-  Aale ahmed pe kaisa ajab waqt tha
+  Risma teri Zainab ke baandhi gayi
+  Sar pe baaqi kisi ke rida na rahi
+  Aal-e-Ahmad pe kaisa ajab waqt tha
+  Ya Husain ya Husain
 
   8
-  Tere seene pe soti thi jo laadli
-  Teri furqat mein wo ghut'ke mar hi gayi
-  Is tarha se hui zulm ki inteha
+  Tere sine pe soti thi jo laadli
+  Teri furqat meiṅ woh ghut ke mar hi gayi
+  Is tarah se hui zulm ki inteha
+  Ya Husain ya Husain
 
   9
-  Khaak e paye ghulamane shabbir hoo
-  Mai rehan azmi gham ki taqreer hoo
-  Hai mere lab pe har dam yehi ibteda
+  Khaak-e-paa-e-ghulaamaan-e-Shabbir huṅ
+  Main Rehaan Azmi gham ki taqrir huṅ
+  Hai mere lab pe har dam yahi ibtida
+  Ya Husain ya Husain
 ---
 
 خاک کربوبلا کر رہی بکا

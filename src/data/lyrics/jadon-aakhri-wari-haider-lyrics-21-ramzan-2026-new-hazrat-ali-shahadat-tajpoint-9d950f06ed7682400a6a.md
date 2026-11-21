@@ -1,38 +1,66 @@
 ---
-title: "Jadon Aakhri Wari Haider Lyrics 21 Ramzan 2026 New Hazrat Ali Shahadat Noha"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "جدوں آخری واری حیدر"
+alternateTitle: "Jadon Aakhri Wari Haider"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Izan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jadon aakhri wari Haider haye sir sajday wich rakhiya
+  Karbal Sham da manzar sara Maula ne hai takiya
+
+  1
+  Abbas nu apne gal la ke aye Maula ne farmaya
+  Toon ayein zamin pardiyaan da hun tera piyo tur chaliya
+  Kiwein Sham bazar nu jaway gi kiwein bheer choon langna aye Bibi
+  Meri dhi te ghar de wich v turna nayi ajay sikhiya
+
+  2
+  Hai teer nu kad ke gal wichon Shabbir ne aakhiya Asghar
+  Khon aye Hashmi Haider da taun Hurmal nu aye dasiya
+  Kar qatal namaz che Haider nu re Kofi jashan mananday
+  Takraan marda reh gaya Ghazi koi was na chaliya
+
+  3
+  Jis Kofay shehar di aurtaan nu Bibi Quran parhaya
+  Aj shehar choon qafila bibiyaan da haye sar nangay hai langiya
+  Jadon pak janaza cha ke tur paye Shabbir te Shabar
+  Nabiyaan ne ral wain hai paye arsh Khuda da kanbiya
+
+  4
+  Naam Allah te nayi hoi jang na e naam Nabi te
+  Kalma pak Ali da parh ke sar Shabbir ne dasiya
+  Sun noha pak Ali da khud kagaz qalam v roye
+  Maula de main Izan da shahid aye Quran hai likhiya
 ---
 
-Jadon Aakhri Wari Haider Haye Sir Sajday Wich Rakhiya.
-Karbal Sham Da Manzar Sara Maula Ne Hai Takiya.
+جدوں آخری واری حیدر ہائے سر سجدے وچ رکھیا
+کربل شام دا منظر سارا مولا نے ہے تکیا
 
-1
-Abbas Nu Apne Gal La Ke Aye Maula Ne Farmaya.
-Toon Ayein Zamin Pardiyaan Da Hun Tera Piyo Tur Chaliya.
-Kiwein Sham Bazar Nu Jaway Gi Kiwein Bheer Choon Langna Aye Bibi.
-Meri Dhi Te Ghar De Wich V Turna Nayi Ajay Sikhiya.
+۱
+عباس نوں اپنے گل لا کے اے مولا نے فرمایا
+توں ایں ضامن پردیاں دا ہن تیرا پیو تر چلیا
+کیویں شام بازار نوں جاوے گی کیویں بھیڑ چوں لنگھنا اے بیبی
+میری دھی تے گھر دے وچ وی ترنا نئیں اجے سکھیا
 
-2
-Hai Teer Nu Kad Ke Gal Wichon Shabbir Ne Aakhiya Asghar.
-Khon Aye Hashmi Haider Da Taun Hurmal Nu Aye Dasiya.
-Kar Qatal Namaz Che Haider Nu Re Kofi Jashan Mananday.
-Takraan Marda Reh Gaya Ghazi Koi Was Na Chaliya.
+۲
+ہائے تیر نوں کڈھ کے گل وچوں شبیر نے آکھیا اصغر
+خون اے ہاشمی حیدر دا توں حرمل نوں اے دسیا
+کر قتل نماز چے حیدر نوں رے کوفی جشن مناندے
+ٹکراں ماردا رہ گیا غازی کوئی وس نہ چلیا
 
-3
-Jis Kofay Shehar Di Aurtaan Nu Bibi Quran Parhaya.
-Aj Shehar Choon Qafila Bibiyaan Da Haye Sar Nangay Hai Langiya.
-Jadon Pak Janaza Cha Ke Tur Paye Shabbir Te Shabar.
-Nabiyaan Ne Ral Wain Hai Paye Arsh Khuda Da Kanbiya.
+۳
+جس کوفے شہر دی عورتاں نوں بیبی قرآن پڑھایا
+اج شہر چوں قافلہ بیبیاں دا ہائے سر ننگے ہے لنگھیا
+جدوں پاک جنازہ چا کے تر پئے شبیر تے شبر
+نبیاں نے رل وین ہے پائے عرش خدا دا کمبیا
 
-4
-Naam ALLAH Te Nayi Hoi Jang Na E Naam Nabi Te.
-Kalma Pak Ali Da Parh Ke Sar Shabbir Ne Dasiya.
-Sun Noha Pak Ali Da Khud Kagaz Qalam V Roye.
-Maula De Main Izan Da Shahid Aye Quran Hai Likhiya.
+۴
+نام اللہ تے نئیں ہوئی جنگ نہ ای نام نبی تے
+کلمہ پاک علی دا پڑھ کے سر شبیر نے دسیا
+سن نوحہ پاک علی دا خود کاغذ قلم وی روئے
+مولا دے میں اذان دا شاہد اے قرآن ہے لکھیا

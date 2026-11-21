@@ -1,7 +1,7 @@
 ---
 title: "نجف سے کرب و بلا چل کے جا رہا ہوں میں"
 recitationId: "najaf-se-karbobala-chal-ke-ja-raha-hu-main"
-alternateTitle: "Najaf Se Karb o Bala Chal Ke Ja Raha Huṅ Maiṅ"
+alternateTitle: "Najaf Se Karb o Bala Chal Ke Ja Raha Huṅ Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Najaf se Karb o Bala chal ke ja raha huṅ maiṅ
-  Ali ke laal ke rauze pa ja raha huṅ maiṅ
+  Najaf se Karb o Bala chal ke ja raha huṅ main
+  Ali ke laal ke rauze pa ja raha huṅ main
 
   1
   Khule haiṅ haath na zanjir, tauq, langar hai
-  Asir pyaasoṅ ka nauha suna raha huṅ maiṅ
+  Asir pyaasoṅ ka nauha suna raha huṅ main
 
   2
-  Hai haath sin pa aankhoṅ meiṅ ashk haaye Husain
-  Manaane chehlum-e-Sarwar ko ja raha huṅ maiṅ
+  Hai haath sin pa aankhoṅ mein ashk haaye Husain
+  Manaane chehlum-e-Sarwar ko ja raha huṅ main
 
   3
   Jagah jagah haiṅ sabil-e-Husain maukab bhi
-  Sakhi Husain ke sadqe ko khaa raha huṅ maiṅ
+  Sakhi Husain ke sadqe ko khaa raha huṅ main
 
   4
   Janaab-e-saani-e-Zahra ki aarzu thi jo
-  Wahi tamanna-e-Zainab nibha raha huṅ maiṅ
+  Wahi tamannaa-e-Zainab nibha raha huṅ main
 
   5
-  Farishte asl meiṅ haiṅ ye nahiṅ hai koi bashar
-  Har ik ko shah pa qurbaan paa raha huṅ maiṅ
+  Farishte asl mein haiṅ ye nahiṅ hai koi bashar
+  Har ik ko shah pa qurbaan paa raha huṅ main
 
   6
-  Ye bachche raah meiṅ kehte haiṅ paani pi kar jaayeṅ
-  Sakina Bibi pa aansu baha raha huṅ maiṅ
+  Ye bachche raah mein kehte haiṅ paani pi kar jaayeṅ
+  Sakina Bibi pa aansu baha raha huṅ main
 
   7
   Janaab-e-Hazrat-e-Abbas ke alam ke tale
-  Watan ka apne tiranga utha raha huṅ maiṅ
+  Watan ka apne tirangaa utha raha huṅ main
 
   8
-  Karuṅ ga rauza-e-Shabbir ki ziyaarat maiṅ
-  Ye soch soch ke aansu baha raha huṅ maiṅ
+  Karuṅ ga rauza-e-Shabbir ki ziyaarat main
+  Ye soch soch ke aansu baha raha huṅ main
 
   9
   Khuda ka shukr hai rauze pa apne Maula ke
-  Duaaeṅ Fatima Zahra ki paa raha huṅ maiṅ
+  Duaaeṅ Fatima Zahra ki paa raha huṅ main
 
   10
-  Shujaa daakhila mera hai shah ke rauze meiṅ
-  Mere Husain ki jannat meiṅ ja raha huṅ maiṅ
+  Shujaa daakhila mera hai shah ke rauze mein
+  Mere Husain ki jannat mein ja raha huṅ main
 ---
 نجف سے کرب و بلا چل کے جا رہا ہوں میں
 علی کے لال کے روضے پہ جا رہا ہوں میں

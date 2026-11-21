@@ -8,24 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Baghdad ke ik pul pe kharra soch raha huṅ,
-  Masum qabile ki khata soch raha huṅ,
+  Baghdad ke ik pul pe khara soch raha huṅ
+  Maasum qabile ki khata soch raha huṅ
 
   1
-  Kabhi khanjar, kabhi talwar, kabhi zehr ki surat,
-  SAADAAT ko kia ajar mila soch raha huṅ.
+  Kabhi khanjar, kabhi talwar, kabhi zehr ki surat
+  Saadaat ko kya ajr mila soch raha huṅ
 
   2
-  Hai Pul Pe rasan basta para Lasha-e-KAZIM
-  Islam sikhany ka sila soch raha huṅ,
+  Hai pul pe rasan basta para laasha-e-Kaazim
+  Islam sikhaane ka sila soch raha huṅ
 
   3
-  Socho to wo thi Lasha-e-KAZIM k liye bhi
-  Gunji jo thi HAL MIN ki sada soch raha huṅ
+  Socho to woh thi laasha-e-Kaazim ke liye bhi
+  Gunji jo thi Hal Min ki sada soch raha huṅ
 
   4
-  Lanat hai bohat choti Saqife k liye to
-  Me lafz koi is se bara soch raha huṅ
+  Laanat hai bohat chhoti Saqife ke liye to
+  Main lafz koi is se bara soch raha huṅ
 ---
 
 بغداد كے اک پل پہ کھڑا سوچ رہا ہوں

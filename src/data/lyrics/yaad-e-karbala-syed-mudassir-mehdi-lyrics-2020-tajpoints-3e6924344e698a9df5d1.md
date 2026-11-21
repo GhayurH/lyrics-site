@@ -1,34 +1,58 @@
 ---
-title: "Yaad E Karbala Syed Mudassir Mehdi Lyrics 2020"
+title: "یادِ کربلا"
+alternateTitle: "Yaad-e-Karbala"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yaad e Karbala Syed Mudassir Mehdi
+  Sakoon-e-qalb kuch nahi siwaye yaad-e-Karbala
+  Ghulam-e-Shah-e-Deen ko rulaye yaad-e-Karbala
+  Tarap raha hai kis qadar zyarat-e-Hussain ko
+  Dil-e-hazeen ko cheer kar dikhaye yaad-e-Karbala?
+  Yeh ishq ka usool hai keh ikhteyar na rahe
+  Main waqf kar diya gaya bara-e-yaad-e-Karbala
+  Woh din hoon arbaeen ke main Karbala se door hoon
+  Yeh soch kar baras pari ghataye yaad-e-Karbala
+  Fiza mein be yaqeeniyan dilon mein izterab hai
+  Yeh kis tarha ki chal pari hawa-e-yaad-e-Karbala
+  Kahin sagheer ka gala chida howa hai teer se
+  Kahin pe seena e jawan haye yaad-e-Karbala
+  Woh dhondti hai qaid mein bhi seena apne baap ka
+  Hussain ki yateem ko sataye yaad-e-Karbala
+  Koi bhi zakhm aap ka sila nahi bhara nahi
+  Lahu Imam-e-Waqt ko rulaye yaad-e-Karbala
+  Imam ke zahoor ki naveed bhi sunai de
+  Boland iss qadar karo sada-e-yaad-e-Karbala
+  Aye Badshah e Deen dekh Haider e hazen ko
+  Bilak bilak ke ro paray jab aaye yaad-e-Karbala
 ---
 
-1
-Yaad e Karbala Syed Mudassir Mehdi.
-Sakoon-e-Qalb Kuch Nahi Siwaye Yaad-e-Karbala.
-Ghulam-e-Shah-e-Deen Ko Rulaye Yaad-e-Karbala.
-Tarap Raha Hai Kis Qadar Zyarat-e-Hussain Ko.
-Dil-e-Hazeen Ko Cheer Kar Dikhaye Yaad-e-Karbala?.
-Yeh Ishq Ka Usool Hai Keh Ikhteyar Na Rahe.
-Main Waqf Kar Diya Gaya Bara-e-Yaad-e-Karbala.
-Woh Din Hoon Arbaeen Ke Main Karbala Se Door Hoon.
-Yeh Soch Kar Baras Pari Ghataye Yaad-e-Karbala.
-Fiza Mein Be Yaqeeniyan Dilon Mein Izterab Hai.
-Yeh Kis Tarha Ki Chal Pari Hawa-e-Yaad-e-Karbala.
-Kahin Sagheer Ka Gala Chida Howa Hai Teer Se.
-Kahin Pe Seena e Jawan Haye Yaad-e-Karbala.
-Woh Dhondti Hai Qaid Mein Bhi Seena Apne Baap Ka.
-Hussain Ki Yateem Ko Sataye Yaad-e-Karbala.
-Koi Bhi Zakhm Aap Ka Sila Nahi Bhara Nahi.
-Lahu Imam-e-Waqt Ko Rulaye Yaad-e-Karbala.
-Imam Ke Zahoor Ki Naveed Bhi Sunai De.
-Boland Iss Qadar Karo Sada-e-Yaad-e-Karbala.
-Aye Badshah e Deen Dekh Haider E Hazen Ko.
-Bilak Bilak Ke Ro Paray Jab Aaye Yaad-e-Karbala.
+۱
+یادِ کربلا سید مدثر مہدی
+سکونِ قلب کچھ نہیں سوائے یادِ کربلا
+غلامِ شاہِ دین کو رلائے یادِ کربلا
+تڑپ رہا ہے کس قدر زیارتِ حسین کو
+دلِ حزیں کو چیر کر دکھائے یادِ کربلا؟
+یہ عشق کا اصول ہے کہ اختیار نہ رہے
+میں وقف کر دیا گیا برائے یادِ کربلا
+وہ دن ہوں اربعین کے میں کربلا سے دور ہوں
+یہ سوچ کر برس پڑی گھٹائے یادِ کربلا
+فضا میں بے یقینیاں دلوں میں اضطراب ہے
+یہ کس طرح کی چل پڑی ہوائے یادِ کربلا
+کہیں صغیر کا گلا چھدا ہوا ہے تیر سے
+کہیں پہ سینۂ جواں، ہائے یادِ کربلا
+وہ ڈھونڈتی ہے قید میں بھی سینہ اپنے باپ کا
+حسین کی یتیم کو ستائے یادِ کربلا
+کوئی بھی زخم آپ کا سلا نہیں بھرا نہیں
+لہو امامِ وقت کو رلائے یادِ کربلا
+امام کے ظہور کی نوید بھی سنائی دے
+بلند اس قدر کرو صدائے یادِ کربلا
+اے بادشاہِ دین دیکھ حیدرِ حزیں کو
+بلک بلک کے رو پڑے جب آئے یادِ کربلا

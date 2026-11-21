@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jalte hue qaimon may sada gunj rahi hai
-  Abbas abbas abbas ab aao
-  Ye lashkare bedeen rida chin raha hai
-  Saydaniyo pa shimr ki durro se jafa hai
-  Abbas abbas abbas bachao
-  Na mehramo ka majma hai aur hum hai khule sar
-  Ghayre hue hai dushmane diṅ aur sitamgar
-  Abbas abbas abbas hatao
-  Zaalim hamay lachaar samjhte hai baradar
-  Naizo ki chubote hai ani pusht pa aa kar
-  Abbas abbas abbas bachao
-  Durr bali sakina ke sitamgar ne utaare
-  Rukhsaar pa bejurm tamache bhi hai maare
-  Abbas abbas abbas bulao
-  Zid karti hai soti nahi roti hai sakina
-  Aagosh tumhari hai na hai baap ka seena
-  Abbas abbas abbas sulao
-  Aada ne jala dala bayabaṅ may maskan
-  Jalta hai sakina ka teri aag se daaman
-  Abbas abbas abbas bujhao
-  Ae kaash anis itna hi ban jaye muqaddar
-  Bosa lu zarih e shah e abrar ka ja kar
-  Abbas abbas abbas bulao
+  Jalte hue khaimoṅ meiṅ sada gunj rahi hai
+  Abbas Abbas Abbas ab aao
+  Ye lashkar-e-bedin rida chhin raha hai
+  Saydaaiyoṅ pe Shimr ki durroṅ se jafa hai
+  Abbas Abbas Abbas bachao
+  Na mehramoṅ ka majma hai aur ham haiṅ khule sar
+  Ghere hue haiṅ dushman-e-diṅ aur sitamgar
+  Abbas Abbas Abbas hatao
+  Zaalim hameiṅ laachaar samajhte haiṅ baraadar
+  Nezoṅ ki chubhote haiṅ ani pusht pe aa kar
+  Abbas Abbas Abbas bachao
+  Durr baakli Sakina ke sitamgar ne utaare
+  Rukhsaar pe hai bejurm tamaanche bhi haiṅ maare
+  Abbas Abbas Abbas bulao
+  Zid karti hai soti nahiṅ roti hai Sakina
+  Aaghosh tumhaari hai na hai baap ka seena
+  Abbas Abbas Abbas sulao
+  Aada ne jala daala bayaabaaṅ meiṅ maskan
+  Jalta hai Sakina ka teri aag se daaman
+  Abbas Abbas Abbas bujhao
+  Ae kaash Anees itna hi ban jaaye muqaddar
+  Bosa lo zarih-e-Shaah-e-Abraar ka jaa kar
+  Abbas Abbas Abbas bulao
 ---
 
 ۱

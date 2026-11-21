@@ -1,29 +1,48 @@
 ---
-title: "Yeh Jo Ik Raiza Almas Meri Khaak Mein Hai"
+title: "یہ جو اک ریزۂ الماس میری خاک میں ہے"
+alternateTitle: "Yeh Jo Ik Raiza Almas Meri Khaak Mein Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azai"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bas issi juz ke sabab roshni adrak mein hai
+
+  1
+  Ik udasi ka jazeerah hi nahi malkiyat
+  Aik ashkon ka samandar meri imlak mein hai
+  Apni taqdeer kissi din tu chamakti aakhir
+  Apni qismat ka sitarah agar iflaq mein hai
+  Mosam gul ho tu, mushtaq hawa khushbu ki
+  Kashish nazbala ki khas-o-khashak mein hai
+
+  2
+  Loag kirdar adda karte hain ain fitrat
+  Jazba-e-raham kahan seena-e-safaak mein hai
+  Jab se elan kiya hai keh Hussaini hoon main
+  Ab koi taig bakaf hai jo meri taak mein hai
+  Bais-e-karb bakhane ho Azai kab tak
+  Woh girah jo abhi halaat ke paichak mein hai
 ---
 
-Bas Issi Juz Ke Sabab Roshni Adrak Mein Hai.
+بس اسی جز کے سبب روشنی ادراک میں ہے
 
-1
-Ik Udasi Ka Jazeerah Hi Nahi Malkiyat.
-Aik Ashkon Ka Samandar Meri Imlak Mein Hai.
-Apni Taqdeer Kissi Din Tu Chamakti Aakhir.
-Apni Qismat Ka Sitarah Agar Iflaq Mein Hai.
-Mosam Gul Ho Tu, Mushtaq Hawa Khushbu Ki.
-Kashish Nazbala Ki Khas-o-Khashak Mein Hai.
+۱
+اک اداسی کا جزیرہ ہی نہیں ملکیت
+ایک اشکوں کا سمندر میری املاک میں ہے
+اپنی تقدیر کسی دن تو چمکتی آخر
+اپنی قسمت کا ستارہ اگر افلاک میں ہے
+موسمِ گل ہو تو، مشتاق ہوا خوشبو کی
+کشش نازِ بالا کی خس و خاشاک میں ہے
 
-2
-Loag Kirdar Adda Karte Hain Ain Fitrat.
-Jazba-e-Raham Kahan Seena-e-Safaak Mein Hai.
-Jab Se Elan Kiya Hai Keh Hussaini Hoon Main.
-Ab Koi Taig Bakaf Hai Jo Meri Taak Mein Hai.
-Bais-e-Karb Bakhane Ho Azai Kab Tak.
-Woh Girah Jo Abhi Halaat Ke Paichak Mein Hai.
+۲
+لوگ کردار ادا کرتے ہیں عین فطرت
+جذبۂ رحم کہاں سینۂ سفاک میں ہے
+جب سے اعلان کیا ہے کہ حسینی ہوں میں
+اب کوئی تیغ بکف ہے جو میری تاک میں ہے
+باعثِ کرب بکھانے ہو عزائی کب تک
+وہ گرہ جو ابھی حالات کے پیچک میں ہے

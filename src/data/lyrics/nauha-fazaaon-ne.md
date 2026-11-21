@@ -17,18 +17,18 @@ romanLyrics: |-
 
   1
   Pyaase ka khun beh gaya mashkiza chhid gaya
-  Lehroṅ ke shor meiṅ tarapna Furaat ka
+  Lehroṅ ke shor mein tarapna Furaat ka
 
   2
   Bachche taras ke reh gaye paani ki bund ko
   Shaane kata ke soya masiha Furaat ka
 
   3
-  Waapas na aa sakega Sakina tera chacha
+  Waapas na aa sakega Sakina tera chachaa
   Kya dekhti hai har ghari rasta Furaat ka
 
   4
-  Hai sabil mashk-e-Sakina ki yaad meiṅ
+  Hai sabil mashk-e-Sakina ki yaad mein
   Taqsim ho raha hai ye sadqa Furaat ka
 
   5
@@ -36,11 +36,11 @@ romanLyrics: |-
   Abbas ka mazaar hai Kaaba Furaat ka
 
   6
-  Karbobala se Shaam Sakina ki qabr tak
+  Karb o Bala se Shaam Sakina ki qabr tak
   Bachchi ko paani dhundta aaya Furaat ka
 
   7
-  Pyaasoṅ ke gham meiṅ sukh gaya zard ho gaya
+  Pyaasoṅ ke gham mein sukh gaya zard ho gaya
   Jaaved hum ne dekha hai chehra Furaat ka
 ---
 نوحہ فضاؤں نے سنایا فرات کا

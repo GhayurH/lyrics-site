@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Yuṅ to saara Saamra tha rone waaloṅ meiṅ magar
   Haaye bhaai keh ke roye koi teri laash par
-  Ek behan Zainab ke jaisi kaash ke hoti teri
+  Ik behan Zainab ke jaisi kaash ke hoti teri
 
   5
   Ghar meiṅ daakhil ho gaye the zulm dhaane ke liye

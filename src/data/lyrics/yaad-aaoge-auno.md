@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae mere pyaroṅ ae mere betoṅ
+  Ae mere pyaaroṅ ae betoṅ
   Ae mere bachoṅ
-  Dasht meiṅ boli zainab ye rokar
-  Yaad aaoge aun o mohamed
-  Zinda jab tak rahegi ye maadar
-  Yaad aaoge aun o mohamed
-  Laut kar jab watan jaaungi mai
-  Aur veeran ghar paaungi mai
-  Nanhe nanhe jo dekhungi bistar
-  Yaad aaoge aun o mohamed
+  Dasht meiṅ boli Zainab ye ro kar
+  Yaad aao ge Aun o Muhammad
+  Zinda jab tak rahe gi ye maadar
+  Yaad aao ge Aun o Muhammad
+  Laut kar jab watan jaauṅ gi main
+  Aur viraan ghar paauṅ gi main
+  Nanhe nanhe jo dekhuṅ gi bistar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
   Gham meiṅ tanha mujhe kar gaye ho
-  Saamne maa ke tum mar gaye ho
+  Saamne maaṅ ke tum mar gaye ho
   Ye hua hai sitam kaisa hum par
-  Yaad aaoge aun o mohamed
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Eid jab jab bhi aayegi bachoṅ
-  Khun maa ko rulayegi bachoṅ
-  Dil pe chal jayega mere khanjar
-  Yaad aaoge aun o mohamed
+  Eid jab jab bhi aaye gi bachoṅ
+  Khun maaṅ ko rulaaye gi bachoṅ
+  Dil pe chal jaaye ga mere khanjar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Chote hote musalle tumhare
+  Chhote hote musalle tumhaare
   Ghar ke hujre meiṅ khaali jo honge
-  Aankheiṅ ashkoṅ se ho jayengi tar
-  Yaad aaoge aun o mohamed
+  Aaṅkheiṅ ashkoṅ se ho jaayengi tar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Khuoṅ meiṅ dube tumhare amaame
+  Khuṅ meiṅ dube tumhaare amaame
   Saamne aayenge jab bhi mere
-  Khaaungi ghash bapa hoga mehshar
-  Yaad aaoge aun o mohamed
+  Khaauṅ gi ghash bapaa ho ga mahshar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Har qadam jaan khoti rahungi
-  Umr bhar sirf roti rahungi
-  Dil meiṅ dono ka gham hai barabar
-  Yaad aaoge aun o mohamed
+  Har qadam jaan khoti rahuṅ gi
+  Umr bhar sirf roti rahuṅ gi
+  Dil meiṅ donoṅ ka gham hai baraabar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Khuṅ meiṅ dube tumhare janaze
-  Meri nazroṅ meiṅ aa kar rahegne
-  Kis tarha bhuluṅ gham ka wo manzar
-  Yaad aaoge aun o mohamed
+  Khuṅ meiṅ dube tumhaare janaaze
+  Meri nazroṅ meiṅ aa kar raheṅ ge
+  Kis tarah bhuluṅ gham ka wo manzar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Dasht e ghurbat meiṅ tashna dahan the
-  Mamu ki tarha tum bekafan the
-  Qabr tak tum ko royegi maadar
-  Yaad aaoge aun o mohamed
+  Dasht-e-ghurbat meiṅ tashna dahan the
+  Maamu ki tarah tum bekafan the
+  Qabr tak tum ko roye gi maadar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
-  Kya hilaal ab likhe gham ka manzar
-  Sajid aale nabi meiṅ tha mehshar
-  Bain karti thi ye binte hyder
-  Yaad aaoge aun o mohamed
+  Kya Hilaal ab likhe gham ka manzar
+  Saajid Aal-e-Nabi meiṅ tha mahshar
+  Bain karti thi ye Bint-e-Haidar
+  Yaad aao ge Aun o Muhammad
   Dasht meiṅ boli...
 ---
 

@@ -23,7 +23,7 @@ romanLyrics: |-
   Jise Yazid ke lashkar talaash karte haiṅ
 
   2
-  Laain naize se Asghar talaash kar ke bhi
+  La'in naize se Asghar talaash kar ke bhi
   Zibh ke waaste khanjar talaash karte haiṅ
 
   3

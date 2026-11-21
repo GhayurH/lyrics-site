@@ -1,41 +1,72 @@
 ---
-title: "Noor Ki Anjuman Fatima Mir Hasan Mir"
+title: "نور کی انجمن فاطمہ میر حسن میر"
+alternateTitle: "Noor Ki Anjuman Fatima Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarosh"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Noor ki anjuman Fatima Mir Hasan Mir
+  Markaz-e-Panjtan Fatima
+  Arsh se ban ke aayi hai tu
+  Murtaza ki dulhan Fatima
+
+  2
+  Kehkashan se bhi zyada haseen
+  Tere ghar ka chaman Fatima
+  Khuld ka arsh par hai damag
+  Cho ke tere charan Fatima
+
+  3
+  Kab kissi maa ne paida kiye
+  Phir Hussain-o-Hasan Fatima
+  Ban gaya tera bag-e-Fidak
+  Gasibon ka kafan Fatima
+
+  4
+  Tere shohar ke dar se mila
+  Hum ko rizq-e-sukhan Fatima
+  Hai mashiyat tere sath youn
+  Jaisi choti behan Fatima
+
+  5
+  Boli Zainab se roh-e-Ali
+  Sar utha our ban Fatima
+  Hai yeh qaul-e-Nabi aye Sarosh
+  Mera tan mera man Fatima
 ---
 
-1
-Noor Ki Anjuman Fatima Mir Hasan Mir.
-Markaz-e-Panjtan Fatima.
-Arsh Se Ban Ke Aayi Hai Tu.
-Murtaza Ki Dulhan Fatima.
+۱
+نور کی انجمن فاطمہ میر حسن میر
+مرکزِ پنجتن فاطمہ
+عرش سے بن کے آئی ہے تو
+مرتضیٰ کی دلہن فاطمہ
 
-2
-Kehkashan Se Bhi Zyada Haseen.
-Tere Ghar Ka Chaman Fatima.
-Khuld Ka Arsh Par Hai Damag.
-Cho Ke Tere Charan Fatima.
+۲
+کہکشاں سے بھی زیادہ حسین
+تیرے گھر کا چمن فاطمہ
+خلد کا عرش پر ہے دماغ
+چھو کے تیرے چرن فاطمہ
 
-3
-Kab Kissi Maa Ne Paida Kiye.
-Phir Hussain-o-Hasan Fatima.
-Ban Gaya Tera Bag-e-Fidak.
-Gasibon Ka Kafan Fatima.
+۳
+کب کسی ماں نے پیدا کیے
+پھر حسین و حسن فاطمہ
+بن گیا تیرا باغِ فدک
+غاصبوں کا کفن فاطمہ
 
-4
-Tere Shohar Ke Dar Se Mila.
-Hum Ko Rizq-e-Sukhan Fatima.
-Hai Mashiyat Tere Sath Youn.
-Jaisi Choti Behan Fatima.
+۴
+تیرے شوہر کے در سے ملا
+ہم کو رزقِ سخن فاطمہ
+ہے مشیت تیرے ساتھ یوں
+جیسی چھوٹی بہن فاطمہ
 
-5
-Boli Zainab Se Roh-e-Ali.
-Sar Utha Our Ban Fatima.
-Hai Yeh Qaul-e-Nabi Aye Sarosh.
-Mera Tan Mera Man Fatima.
+۵
+بولی زینب سے روحِ علی
+سر اٹھا اور بن فاطمہ
+ہے یہ قولِ نبی اے سروش
+میرا تن میرا من فاطمہ

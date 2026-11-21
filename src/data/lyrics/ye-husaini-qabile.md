@@ -30,10 +30,10 @@ romanLyrics: |-
   Apne bachchoṅ ko taalim de hum sada
   Majlis-e-Shaah-e-diṅ hai tera madrasa
   Maaṅ ki aaghosh meiṅ tu ne nauhe sune
-  Inhi nauhoṅ se dunya ko batlaayega
+  Inheṅ nauhoṅ se dunya ko batlaaye ga
 
   3
-  Aankh meiṅ aansuoṅ ka ye saawan liye
+  Aankh meiṅ aansuoṅ ka samandar liye
   Sirf maatam kare haath jab bhi uthe
   Ye nishaani hai Sheh ke azaadaar ki
   Kaale kapre badan par gawaahi bane
@@ -45,22 +45,22 @@ romanLyrics: |-
   Is alam ki hi nisbat se kehte haiṅ hum
 
   5
-  Aathviṅ ko jo parcham sajaate haiṅ hum
+  Aathveṅ ko jo parcham sajaate haiṅ hum
   Aur bachchoṅ ko saqqa banaate haiṅ hum
   Faaqa karte haiṅ hum roz-e-Aashur ko
   Pyaasa reh kar jahaaṅ ko bataate haiṅ hum
 
   6
   Tum ne socha nahiṅ ahl-e-dunya zara
-  Jaa baja in sabiloṅ ka matlab hai kya
-  Apna naam o nasab khud bataati hai ye
+  Ja baja in sabiloṅ ka matlab hai kya
+  Apne naam o nasab khud bataati hai ye
   Aur tum ko bataate haiṅ ahl-e-aza
 
   7
   Shaah raahoṅ pe hai jo julus-e-aza
-  Karbala ke shahidoṅ ka hai maujiza
+  Karbala ke shahidoṅ ka hai mojiza
   Apne khuṅ meiṅ nahaaye haiṅ sab maatami
-  Khun beh kar badan pe ye kehne laga
+  Khun beh kar badan se ye kehne laga
 
   8
   Hai hamaare laboṅ par jo naam-e-Ali
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   10
   Is qabile ki maaoṅ ko mera salaam
-  Aur salaam is qabile ki behnoṅ ke naam
+  Aur salaam in qabile ki behnoṅ ke naam
   Bhaaiyoṅ aur betoṅ ka gham bhul kar
   Karti rehti hai zikr-e-Sheh-e-tishna kaam
 
@@ -84,7 +84,7 @@ romanLyrics: |-
   Deta rehta hai Farhan paighaam-e-gham
   Haq bataata hai jo us ko mera qalam
   Ghar meiṅ shaadi ho Mazhar to majlis bhi ho
-  Faqr hai ye hamaara Khuda ki qasam
+  Farq hai ye hamaara Khuda ki qasam
 ---
 صد شکر میرے مولا
 

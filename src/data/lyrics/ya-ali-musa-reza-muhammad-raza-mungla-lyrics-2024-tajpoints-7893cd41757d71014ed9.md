@@ -1,65 +1,120 @@
 ---
-title: "Ya Ali Musa Reza Muhammad Raza Mungla Lyrics 2024"
+title: "یا علی موسیٰ رضا محمد رضا منگلا (کلام ۲۰۲۴)"
+alternateTitle: "Ya Ali Musa Reza Muhammad Raza Mungla Lyrics 2024"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ya Ali Musa Reza Muhammad Raza Mungla
+  Jan-o-dil tum pe fida Ya Ali Mosa Raza
+  Aye shehanshah-e-ajam teri azmat ki qasam
+  Tu hai arbab mera Maula Raza Maula Raza
+
+  2
+  Teri shahi ka hai ayelan yeh nobat ki sada
+  Tere darbar se jari hai sada fazal-e-Khuda
+  Aye Khurasaan ke Ali aye wali ibn-e-wali
+  Faiz jari hai tera Maula Raza, Maula Raza
+
+  3
+  Shehar-e-Mashhad bhi humein Karb-o-Bala lagta hai
+  Tera roza hi humein arsh-e-Olla lagta hai
+  Dekha jo tera nagar anbiya aaye nazar
+  Tera dar baab-e-Khuda Maula Raza, Maula Raza
+
+  4
+  Zikar janat ka jo Allah ke Quran mein hai
+  Aisa lagta hai keh tafseer Khurasan mein hai
+  Har taraf noor hi noor jaisay tha jalwa e Toor
+  Aisa roza hai tera Maula Raza, Maula Raza
+
+  5
+  Mushkilon mein tujhe aawaz jo deta hai yeh dil
+  Aik pal mein tu mita deta hai sari mushkil
+  Aye kareem ibn-e-kareem aye raheem ibn-e-raheem
+  Sab ka tu uqdah kusha Maula Raza, Maula Raza
+
+  6
+  Ibn-e-Shabbir ho tum noor-e-payamber maula
+  Tum ho masooma-e-Qum ke liye akbar maula
+  Ho tum aoulad-e-Ali ho tumhi aal-e-Nabi
+  Tum ho khaliq ki riza Maula Raza, Maula Raza
+
+  7
+  Tere rozay pe faqat hum hi nahi jate hain
+  Aasmaan our zameeno se mareez aate hain
+  Jag pe karta hai yeh raaj karta hai sab ka elaj
+  Yeh shifa khana tera Maula Raza, Maula Raza
+
+  8
+  Aik Shabar ka hai our aik tera dastar khuwaan
+  Paltay hain jis ke tofail aaj bhi yeh dono jahan
+  Maida ki hai sada khuld jaisa hai maza
+  Tere rozay ki giza Maula Raza, Maula Raza
+
+  9
+  Aye Aimaad aaein gay jis waqt Imam-e-Mehdi
+  Dil yeh kehta hai azadaron ki khuwaish hogi
+  Sath maula ke sabhi wird dohraein yehi
+  Marhaba sallay ala Maula Raza, Maula Raza
 ---
 
-1
-Ya Ali Musa Reza Muhammad Raza Mungla
-Jan-o-Dil Tum Pe Fida Ya Ali Mosa Raza.
-Aye Shehanshah-e-Ajam Teri Azmat Ki Qasam.
-Tu Hai Arbab Mera Maula Raza Maula Raza.
+۱
+یا علی موسیٰ رضا محمد رضا منگلا
+جان و دل تم پہ فدا یا علی موسیٰ رضا
+اے شہنشاہِ عجم تیری عظمت کی قسم
+تو ہے ارباب میرا مولا رضا مولا رضا
 
-2
-Teri Shahi Ka Hai Ayelan Yeh Nobat Ki Sada.
-Tere Darbar Se Jari Hai Sada Fazal-e-Khuda.
-Aye Khurasaan Ke Ali Aye Wali Ibn-e-Wali.
-Faiz Jari Hai Tera Maula Raza, Maula Raza.
+۲
+تیری شاہی کا ہے اعلان یہ نوبت کی صدا
+تیرے دربار سے جاری ہے سدا فضلِ خدا
+اے خراسان کے علی اے ولی ابنِ ولی
+فیض جاری ہے تیرا مولا رضا، مولا رضا
 
-3
-Shehar-e-Mashhad Bhi Humein Karb-o-Bala Lagta Hai.
-Tera Roza Hi Humein Arsh-e-Olla Lagta Hai.
-Dekha Jo Tera Nagar Anbiya Aaye Nazar.
-Tera Dar Baab-e-Khuda Maula Raza, Maula Raza.
+۳
+شہرِ مشہد بھی ہمیں کرب و بلا لگتا ہے
+تیرا روضہ ہی ہمیں عرشِ اعلیٰ لگتا ہے
+دیکھا جو تیرا نگر انبیا آئے نظر
+تیرا در بابِ خدا مولا رضا، مولا رضا
 
-4
-Zikar Janat Ka Jo ALLAH Ke Quran Mein Hai.
-Aisa Lagta Hai Keh Tafseer Khurasan Mein Hai.
-Har Taraf Noor Hi Noor Jaisay Tha Jalwa e Toor.
-Aisa Roza Hai Tera Maula Raza, Maula Raza.
+۴
+ذکر جنت کا جو اللہ کے قرآن میں ہے
+ایسا لگتا ہے کہ تفسیر خراسان میں ہے
+ہر طرف نور ہی نور جیسے تھا جلوۂ طور
+ایسا روضہ ہے تیرا مولا رضا، مولا رضا
 
-5
-Mushkilon Mein Tujhe Aawaz Jo Deta Hai Yeh Dil.
-Aik Pal Mein Tu Mita Deta Hai Sari Mushkil.
-Aye Kareem Ibn-e-Kareem Aye Raheem Ibn-e-Raheem.
-Sab Ka Tu Uqdah Kusha Maula Raza, Maula Raza.
+۵
+مشکلوں میں تجھے آواز جو دیتا ہے یہ دل
+ایک پل میں تو مٹا دیتا ہے ساری مشکل
+اے کریم ابنِ کریم اے رحیم ابنِ رحیم
+سب کا تو عقدہ کشا مولا رضا، مولا رضا
 
-6
-Ibn-e-Shabbir Ho Tum Noor-e-Payamber Maula.
-Tum Ho Masooma-e-Qum Ke Liye Akbar Maula.
-Ho Tum Aoulad-e-Ali Ho Tumhi Aal-e-Nabi.
-Tum Ho Khaliq Ki Riza Maula Raza, Maula Raza.
+۶
+ابنِ شبیر ہو تم نورِ پیمبر مولا
+تم ہو معصومۂ قم کے لیے اکبر مولا
+ہو تم اولادِ علی ہو تمہی آلِ نبی
+تم ہو خالق کی رضا مولا رضا، مولا رضا
 
-7
-Tere Rozay Pe Faqat Hum Hi Nahi Jate Hain.
-Aasmaan Our Zameeno Se Mareez Aate Hain.
-Jag Pe Karta Hai Yeh Raaj Karta Hai Sab Ka Elaj.
-Yeh Shifa Khana Tera Maula Raza, Maula Raza.
+۷
+تیرے روضے پہ فقط ہم ہی نہیں جاتے ہیں
+آسمان اور زمینوں سے مریض آتے ہیں
+جگ پہ کرتا ہے یہ راج کرتا ہے سب کا علاج
+یہ شفا خانہ تیرا مولا رضا، مولا رضا
 
-8
-Aik Shabar Ka Hai Our Aik Tera Dastar Khuwaan.
-Paltay Hain Jis Ke Tofail Aaj Bhi Yeh Dono Jahan.
-Maida Ki Hai Sada Khuld Jaisa Hai Maza.
-Tere Rozay Ki Giza Maula Raza, Maula Raza.
+۸
+ایک شبر کا ہے اور ایک تیرا دسترخوان
+پلتے ہیں جس کے طفیل آج بھی یہ دونوں جہان
+مائدہ کی ہے صدا خلد جیسا ہے مزا
+تیرے روضے کی غذا مولا رضا، مولا رضا
 
-9
-Aye Aimaad Aaein Gay Jis Waqt Imam-e-Mehdi.
-Dil Yeh Kehta Hai Azadaron Ki Khuwaish Hogi.
-Sath Maula Ke Sabhi Wird Dohraein Yehi.
-Marhaba Sallay Ala Maula Raza, Maula Raza
+۹
+اے عماد آئیں گے جس وقت امامِ مہدی
+دل یہ کہتا ہے عزاداروں کی خواہش ہوگی
+ساتھ مولا کے سبھی ورد دہرائیں یہی
+مرحبا صلِّ علیٰ مولا رضا، مولا رضا

@@ -1,35 +1,59 @@
 ---
-title: "Woh Aaj Mehfil-e-Imkaan Mein Aane Wale Hain"
+title: "وہ آج محفلِ امکاں میں آنے والے ہیں"
+alternateTitle: "Woh Aaj Mehfil-e-Imkaan Mein Aane Wale Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Woh aaj mehfil-e-imkaan mein aane wale hain
+  Khuda ke ghar ko jo Kaba banane wale hain
+  So woh bhi dekh lein dil mein jo unki hai tasveer
+  Hum apne dil ko areeza banane wale hain
+
+  2
+  Ali ne tora tha Lato Manato Uzza ko
+  So yeh bhi teeno se qabza churane wale hain
+  Jo aaj hum ne uthaye hain kal ba-waqt-e-zahoor
+  Imam-e-Asar woh parcham uthane wale hain
+
+  3
+  Hamare wastay tu woh hain Hazrat-e-Jibreel
+  Magar Hussain ka jhola jholane wale hain
+  Nazool-e-amar shab-e-qadar par nahi moqoof
+  Malak tu rooz yahan aane jane wale hain
+
+  4
+  Main rooz maut se karta hoon iss liye inkar
+  Keh roz sunta hoon woh aaj aane wale hain
+  Barhe ga lutf jo gonjay ki yeh sada Majid
+  Sipah-e-Mula mein Mukhtar aane wale hain
 ---
 
-1
-Woh Aaj Mehfil-e-Imkaan Mein Aane Wale Hain.
-Khuda Ke Ghar Ko Jo Kaba Banane Wale Hain.
-So Woh Bhi Dekh Lein Dil Mein Jo Unki Hai Tasveer.
-Hum Apne Dil Ko Areeza Banane Wale Hain.
+۱
+وہ آج محفلِ امکاں میں آنے والے ہیں
+خدا کے گھر کو جو کعبہ بنانے والے ہیں
+سو وہ بھی دیکھ لیں دل میں جو ان کی ہے تصویر
+ہم اپنے دل کو عریضہ بنانے والے ہیں
 
-2
-Ali Ne Tora Tha Lato Manato Uzza Ko.
-So Yeh Bhi Teeno Se Qabza Churane Wale Hain.
-Jo Aaj Hum Ne Uthaye Hain Kal Ba-Waqt-e-Zahoor.
-Imam-e-Asar Woh Parcham Uthane Wale Hain.
+۲
+علی نے توڑا تھا لات و منات و عزیٰ کو
+سو یہ بھی تینوں سے قبضہ چرانے والے ہیں
+جو آج ہم نے اٹھائے ہیں کل بہ وقتِ ظہور
+امامِ عصر وہ پرچم اٹھانے والے ہیں
 
-3
-Hamare Wastay Tu Woh Hain Hazrat-e-Jibreel.
-Magar Hussain Ka Jhola Jholane Wale Hain.
-Nazool-e-Amar Shab-e-Qadar Par Nahi Moqoof.
-Malak Tu Rooz Yahan Aane Jane Wale Hain.
+۳
+ہمارے واسطے تو وہ ہیں حضرتِ جبریل
+مگر حسین کا جھولا جھولانے والے ہیں
+نزولِ امر شبِ قدر پر نہیں موقوف
+مَلَک تو روز یہاں آنے جانے والے ہیں
 
-4
-Main Rooz Maut Se Karta Hoon Iss Liye Inkar.
-Keh Roz Sunta Hoon Woh Aaj Aane Wale Hain.
-Barhe Ga Lutf Jo Gonjay Ki Yeh Sada Majid.
-Sipah-e-Mula Mein Mukhtar Aane Wale Hain.
+۴
+میں روز موت سے کرتا ہوں اس لیے انکار
+کہ روز سنتا ہوں وہ آج آنے والے ہیں
+بڑھے گا لطف جو گونجے گی یہ صدا ماجد
+سپاہِ مولا میں مختار آنے والے ہیں

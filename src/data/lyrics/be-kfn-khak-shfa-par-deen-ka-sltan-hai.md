@@ -6,32 +6,32 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza"
 romanLyrics: |-
-  Bekafan Khak-e-Shifa Par Din Ka Sultan Hai
-  Noha Gar Qaidi Gaye Aur Karbala Veeran Hai
+  Bekafan khaak-e-Shifa par din ka sultaan hai
+  Noha gar qaidi gaye Karbala viraan hai
 
   1
-  Jism Hai Ke Aayatoṅ Pe Aayateiṅ Likhi Hui
-  Aur Sar-e-Aqdas Ani Par Bolta Quran Hai
+  Jism hai ke aayatoṅ pe aayateṅ likhi hui
+  Aur sar-e-aqdas ani pe bolta Quraan hai
 
   2
-  Lash-e-Akbar Pe Ye Ro Ro Ke Muhari Ne Kaha
-  Karbala Mushkil Hai Lekin Shaam Se Aasan Hai
+  Laash-e-Akbar pe ye ro ro ke Muhari ne kaha
+  Karbala mushkil hai lekin Shaam se aasaan hai
 
   3
-  Ae Ali Akbar Ye Dasht-e-Karbala Hai Dhyan Se
-  Tere Pehlu Meiṅ Ali Asghar Ki Nanhi Jaan Hai
+  Ae Ali Akbar ye dasht-e-Karbala hai dhyaan se
+  Tere pehlu meiṅ Ali Asghar ki nanhi jaan hai
 
   4
-  Halq-e-Asghar Pe Jafa Ka Tir Chal Jaane Ke Baad
-  Zindagi Khamosh Hai Aur Maut Bhi Hairan Hai
+  Halq-e-Asghar pe jafa ka tir chal jaane ke baad
+  Zindagi khamosh hai aur maut bhi hairaan hai
 
   5
-  Ghairat-e-Islam Kya Tujh Ko Gawara Hai Ye Baat
-  Malik-e-Kaun o Makaaṅ Aur Shaam Ka Zindan Hai
+  Ghairat-e-Islam kya tujh ko gawaara hai ye baat
+  Maalik-e-kaun o makaaṅ aur Shaam ka zindaan hai
 
   6
-  Matam-e-Zanjir Aur Seena Zani Keh De Raza
-  Ye Muqaddar Hai Hamara Aur Yehi Pehchan Hai
+  Maatam-e-zanjir aur sina zani keh de Raza
+  Ye muqaddar hai hamaara aur yehi pehchaan hai
 reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []

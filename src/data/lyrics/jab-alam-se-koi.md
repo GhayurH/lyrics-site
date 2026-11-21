@@ -10,40 +10,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab alam se koi mashkeeza bandha hota hai
+  Jab alam se koi mashkiza bandha hota hai
 
   1
-  Kisi bedast ka izhare wafa hota hai
-  Kaise rehwar se girta hai koi bebaazu
-  Gurz ka zakhm bhi jab sar pe laga hota hai
+  Kisi bedast ka izhaar-e-wafa hota hai
+  Kaise rehwaar se girta hai koi
+  Bebaazu gurz ka zakhm bhi jab sar pe laga hota hai
 
   2
-  Isko lilaah na kholo ke hai pamaal badan
-  Aisa laasha kahiṅ chadar may khula hota hai
+  Is ko lillaah na kholo ke hai paamaal badan
+  Aisa laasha kahiṅ chaadar mein khula hota hai
 
   3
-  Shahe din sirf alam qaimae may laaye hoṅge
+  Shaah-e-din sirf alam khaime mein laaeṅ hoṅ ge
   Ye jo ek shor qayamat ka bapa hota hai
 
   4
-  Khun barasta hai fizaoṅ se larazti hai zamin
-  Kundh khanjar se jo sar sheh ka juda hota hai
+  Khun barasta hai fizaaoṅ se larazti hai zamin
+  Kund khanjar se jo sar sheh ka juda hota hai
 
   5
-  Haye sajjad ke pairoṅ may wo zanjir-e-garan
-  Aabiloṅ ke liye har kaanta laga hota hai
+  Haaye Sajjad ke pairoṅ mein zanjir-e-garam
+  Aabloṅ ke liye har kaanta laga hota hai
 
   6
-  Mashk dikhlake bahate hai zamin par pani
-  Roz ek zulm sakina pe naya hota hai
+  Mashk dikhla ke bahaata hai zamin par paani
+  Roz ek zulm Sakina pe naya hota hai
 
   7
-  Qalbe akbar se sina gardan e bayshir se tir
-  Khaynche waala shahe karbobala hota hai
+  Qalb-e-Akbar se sinaaṅ gardan-e-Beshir se tir
+  Khinchne waala sheh-e-Karb o Bala hota hai
 
   8
-  Ek awaaz haram sunte hai har shab shahid
-  Pase zindaṅ koi noha sada hota hai
+  Ek aawaaz Haram sunte hain har shab shahid
+  Pas-e-zindaaṅ koi nauha sadaa hota hai
 ---
 
 جب علم سے کوئی مشکیزہ بندھا ہوتا ہے

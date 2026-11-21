@@ -9,118 +9,54 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ya ali ya aeyliya ya bul-hasan ya bu-turaab
-
+romanLyrics: |-
+  Ya Ali ya Aeliya ya bul-Hasani ya bu-Turaab
 
   1
-
-  Bhai mera qatl huwa aaiye baba shitaab
-
-  Bul hasan ya bu turab
-
-  Lo phayl gaya shaam-e-gharebaan ka andhera
-
-  Asbaab luta jal gaya saadaat ka khaima
-
-  Be gor-o-kafan ran may hai shabbir ka laasha
-
-  Sab maare gaye dasht may Zainab huwi tanha
-
-  Asghar-e-baysheer ko ronay lagi Umm-e-Rabaab
-
-
-  2
-
-  Haaye wo behan jiske ho atthaara biraadar
-
-  Aur baap bhi jis beti ka ho faatahay khybar
-
-  Narghay may layeeno kay wo mazloom khule sar
-
-  Kaise na karay nauha wo phir khaak udaa kar
-
-  Nauha kuna khuld may hai rooh-e-risalat muaab
-
-
-  3
-
-  Maari gayi ek roz may sub fauj-e-hussaini
-
-  Har lamha musibat thi nayi hum ne jo dekhi
-
-  Be monis-o-ghamkhwar thay yaawar na tha koyi
-
-  Tha asr ka hangaam ke aawaaz ye goonji
-
-  Mara gaya Hyder ka pisar dashat may be aab
-
-
-  4
-
-  Ab baali Sakina ko sata-tay hai sitamgar
-
-  Kuch kar nahi sakti kay rasan basta hai maadar
-
-  Paaband-e-salaasil hai mera Abid-e-Muztar
-
-  Zainab kay kalayjay pe chalay zulm kay khanjar
-
-  Kya karoon baba mere may dijiye kuch to jawaab
-
-
-  5
-
-  Kat ke jo giray khaakh pe Abbas ke baazu
-
-  Ruktay hi na thay aankh may Shabbir ke aansoo
-
-  Mai khaime may roti thi wo rotay thay lab-e-joo
-
-  Matam hi tha matam hi tha matam tha hi tha har soo
-
-  Kehtay thay Shabbir kay ya laitani kuntu turaab
-
-
-  6
-
-  Akbar ka jigar ho gaya barchi say do paara
-
-  Aur asghar-e-masoom bhi maara gaya pyaasa
-
-  Tukrray huwa maidaan may naushah ka laasha
-
-  Mara gaya wo sher jo tha sab ka sahaara
-
-  Aun-o-Mohammad ka mila khaakh may kaisa shabaab
-
-
-  7
-
-  Asghar ko laga teer mai roti rahi baba
-
-  Maaray gaye Shabbir mai roti rahi baba
-
-  Hastay rahay be-peer mai roti rahi baba
-
-  Sheh pe chali shamsheer mai roti rahi baba
-
-  Dekhiye pardes may kismat huvi meri kharaab
-
-
-  8
-
-  Rehaan bahot ho-chuki ab ashk fishani
-
-  Zainab pe musibat ki ye purdard kahani
-
-  Sab ehl-e-azaa sun chuke Sarwar ki zubani
-
-  Thamti hi nahi aankhon say ashqon ki rawaani
-
-  Kaun sunay kissa-e-gham kis may rahi itni taab'
+  Bhaai mera qatl hua, aaiye baaba shitaab
+  Lo phail gaya shaam-e-gharibaaṅ ka andhera
+  Asbaab luta, jal gaya saadaat ka khaima
+  Be gor o kafan ran mein hai Shabbir ka laasha
+  Sab maare gaye dasht mein Zainab hui tanha
+  Asghar-e-besher ko rone lagi Umm-e-Rabaab
+  Maari gayi ek roz mein sab fauj-e-Husaini
+  Har lamha musib thi nayi ham ne jo dekhi
+  Be monis o ghamkhwaar the, yaawar na tha koi
+  Tha asr ka hangaam ke aawaaz ye gunji
+  Maara gaya Haidar ka pisar dasht mein be aab
+  Haaye wo bahan jis ke hoṅ atthaara baraadar
+  Aur baap bhi jis beti ka ho faateh-e-Khaibar
+  Narghe mein lainoṅ ke wo mazlum khule sar
+  Kaise na kare nauha wo phir khaak ura kar
+  Nauha kunaaṅ khuld mein hai ruh-e-risaalat maab
+  Kat ke jo gire khaak pe Abbaas ke baazu
+  Rukte hi na the aaṅkh se Shabbir ke aansu
+  Main khaime mein roti thi, wo rote the lab-e-ju
+  Maatam hi tha, maatam hi tha, maatam hi tha har su
+  Kehte the Shabbir ke ya laitani kuntu turaab
+  Akbar ka jigar ho gaya barchhi se do paara
+  Aur Asghar-e-masum bhi maara gaya pyaasa
+  Tukre hua maidaan mein naushaah ka laasha
+  Maara gaya wo sher jo tha sab ka sahaara
+  Aun o Muhammad ka mila khaak mein kaisa shabaab
+  Asghar ke laga tir, main roti rahi baaba
+  Maare gaye Shabbir, main roti rahi baaba
+  Hanste rahe be tir, main roti rahi baaba
+  Shah pe chali shamshir, main roti rahi baaba
+  Dekhiye pardes mein qismat hui meri kharaab
+  Ab baali Sakina ko sataate haiṅ sitamgar
+  Kuchh kar nahiṅ sakti ke rasan basta hai maadar
+  Paaband-e-salaasil hai mera Aabid-e-Muztar
+  Zainab ke kaleja pe chale zulm ke khanjar
+  Kya karuṅ baaba mere main, dijiye kuchh to jawaab
+  Rehaan bahut ho chuki ab ashk fishaani
+  Zainab pe musibat ki ye purdard kahaani
+  Sab ahl-e-azaa sun chuke Sarwar ki zabaani
+  Thamti hi nahiṅ aaṅkhoṅ se ashqoṅ ki rawaani
+  Kaun sune qissa-e-gham kis mein rahi itni taab
 ---
 
-یا علیؑ یا ایلیاؑ یا ابو الحسنؑ یا ابوترابؑ
+یا علیؑ یا ایلیاؑ یا بوالحسنؑ یا بوترابؑ
 
 ۱
 بھائی میرا قتل ہوا آئيے بابا شتاب
@@ -143,7 +79,7 @@ romanLyrics: 'Ya ali ya aeyliya ya bul-hasan ya bu-turaab
 رکتے ہی نہ تھے آنکھ سے شبیرؑ کے آنسو
 میں خیمے میں روتی تھی وہ روتے تھے لب جُو
 ماتم ہی تھا ماتم ہی تھا ماتم ہی تھا ہر سو
-کہتے تھے شبیرؑ کہ يـالـيـتـني كنت تراب
+کہتے تھے شبیرؑ کہ ياليتني كنت تراب
 اکبرؑ کا جگر ہو گيا برچھی سے دوپارہ
 اور اصغرِؑ مصعوم بھی مارا گيا پیاسا
 ٹکڑے ہوا میدان میں نوشاہ کا لاشہ

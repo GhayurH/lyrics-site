@@ -1,59 +1,90 @@
 ---
-title: "Bholin Nahi Zehra S.A"
+title: "بھولیں نہیں زہرا سلام اللہ علیہا"
+alternateTitle: "Bholin Nahi Zehra S.A"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Rasolallah Ya Habiballah
+
+  Baba teri furqat aor ummat kay sitam dhana bhuli nahi Zehra
+  Haq mangnay ay baba darbar sitam jana bhuli nahi Zahra
+
+  1
+  Din rat trapti hung tanhai main ay baba
+  Pursa muje dainay ko koi bhi nahi ata
+  Baba tere jaty hi, ummat ka badal jana bhuli …
+
+  2
+  Tehreer teray tukry zalim nay hay kar dali
+  Bachon ki gawahi bhi zalim nay nahi mani
+  Jhuti muj keh kar darbar main rulwana bhuli …
+
+  3
+  Dehleez pay jis ghar ki aty thy salami ko
+  Bad ap kay us ghar ki toqer zara daikho
+  Ummat ka usi dar par hay aag ka le ana bhuli nahi Zahra
+
+  4
+  Jalta hua darwaza dewar thi aor main thi
+  Kia arz karun baba main soch nahi sakti
+  Ik zarb ki shiddat say Mohsin ka guzar ajana bhuli nahi Zahra
+
+  5
+  Wo zulm hua baba jo main na socha tha
+  Zalim nay mere muu par jab mara tamacha tha
+  Sehmay huay bacchon ka madar say lipat jana bhuli nahi Zahra
+
+  6
+  Baba meray Haider ki gardan main rasan bandi
+  Phir galion main phirvaya us waqt bhi main tarpi
+  Baba mery wali ka rotay huay ghar ana bhuli …
+
+  7
+  Reehan say bolaingi mehsar main yea shahzadi
+  Tum mujh ko nahi bhuli main tumko nahi bhuli
+  Farhan ko tum le kar jannat main chalay ana, bhuli nahin Zehra
 ---
 
-Ya Rasolallah SAWW Ya Habiballah
+یا رسول اللہ ﷺ یا حبیب اللہ
 
-Baba Teri Furqat Aor Ummat Kay Sitam Dhana Bhuli Nahi Zehra SA
-Haq Mangnay Ay Baba Darbar Sitam Jana Bhuli Nahi Zahra SA
+بابا تیری فرقت اور امت کے ستم ڈھانا، بھولی نہیں زہرا سلام اللہ علیہا
+حق مانگنے اے بابا دربارِ ستم جانا، بھولی نہیں زہرا سلام اللہ علیہا
 
-Din Rat Trapti Hung Tanhai Main Ay Baba
+۱
+دن رات تڑپتی ہوں تنہائی میں اے بابا
+پرسہ مجھے دینے کو کوئی بھی نہیں آتا
+بابا تیرے جاتے ہی، امت کا بدل جانا بھولی …
 
-Pursa Muje Dainay Ko Koi Bhi Nahi ata
+۲
+تحریر تیرے ٹکڑے ظالم نے ہے کر ڈالی
+بچوں کی گواہی بھی ظالم نے نہیں مانی
+جھوٹی مجھ کہہ کر دربار میں رلوانا بھولی …
 
-Baba Tere Jaty Hi , Ummat Ka Badal Jana Bhuli …
+۳
+دہلیز پہ جس گھر کی آتے تھے سلامی کو
+بعد آپ کے اس گھر کی توقیر ذرا دیکھو
+امت کا اسی در پر ہے آگ کا لے آنا، بھولی نہیں زہرا سلام اللہ علیہا
 
-Tehreer Teray Tukry Zalim Nay Hay Kar Dali
+۴
+جلتا ہوا دروازہ دیوار تھی اور میں تھی
+کیا عرض کروں بابا میں سوچ نہیں سکتی
+اک ضرب کی شدت سے محسنؑ کا گزر آ جانا، بھولی نہیں زہرا سلام اللہ علیہا
 
-Bachon Ki Gawahi Bhi Zalim Nay Nahi Mani
+۵
+وہ ظلم ہوا بابا جو میں نے سوچا تھا
+ظالم نے میرے منہ پر جب مارا تماچا تھا
+سہمے ہوئے بچوں کا مادر سے لپٹ جانا، بھولی نہیں زہرا سلام اللہ علیہا
 
-Jhuti Muj Keh Kar Darbar Main Rulwana Bhuli ….
+۶
+بابا میرے حیدرؑ کی گردن میں رسن باندھی
+پھر گلیوں میں پھروایا اس وقت بھی میں تڑپی
+بابا میرے ولی کا روتے ہوئے گھر آنا بھولی …
 
-Dehleez Pay Jis Ghar Ki Aty Thy Salami Ko
-
-Bad Ap Kay Us Ghar Ki Toqer Zara Daikho
-
-Ummat Ka Usi Dar Par Hay Aag Ka Le Ana Bhuli Nahi Zahra SA
-
-Jalta Hua Darwaza Dewar Thi Aor Main Thi
-
-Kia Arz Karun Baba Main Soch Nahi Sakti
-
-Ik Zarb Ki Shiddat Say y Mohsin AS Ka Guzar Ajana Bhuli Nahi Zahra SA
-
-Wo Zulm Hua Baba Jo Main Na Socha Tha
-
-Zalim Nay Mere Muu Par Jab Mara Tamacha Tha
-
-Sehmay Huay Bacchon Ka Madar Say Lipat Jana Bhuli Nahi Zahra SA
-
-Baba Meray Haider AS Ki Gardan Main Rasan Bandi
-
-Phir Galion Main Phirvaya Us Waqt Bhi Main Tarpi
-
-Baba Mery Wali Ka Rotay Huay Ghar Ana Bhuli ….
-
-Reehan Say Bolaingi Mehsar Main Yea Shahzadi SA
-
-Tum Mujh Ko Nahi Bhuli Main Tumko Nahi Bhuli
-
-Farhan Ko Tum Le Kar Jannat Main Chalay Ana , Bhuli Nahin Zehra SA
-
-Shared via Nohay Writeups for iOS
+۷
+ریحان سے بولیں گی محشر میں یہ شہزادی سلام اللہ علیہا
+تم مجھ کو نہیں بھولی میں تم کو نہیں بھولی
+فرحان کو تم لے کر جنت میں چلے آنا، بھولی نہیں زہرا سلام اللہ علیہا

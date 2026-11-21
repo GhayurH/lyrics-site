@@ -14,23 +14,23 @@ published: true
 romanLyrics: |-
   1
   Bilqis paasbaaṅ hai ye kis ki janaab hai
-  Maryam durud-khwaaṅ hai ye kis ki janaab hai
-  Shaan-e-Khuda ayaaṅ hai ye kis ki janaab hai
+  Maryam durud khwaaṅ hai ye kis ki janaab hai
+  Shaan-e-Khuda hai ye kis ki janaab hai
   Dehliz aasmaaṅ hai ye kis ki janaab hai
   Kursi zamiṅ se leti hai gosh-e-panaah ke
   Baitha hai arsh saaye meiṅ kis baargaah ke
 
   2
   Ulfat Khuda ke baad Habib-e-Khuda ki hai
-  Munsif ke paas ye bhi wila kibriya ki hai
-  Parwa na faaqe ki na shikaayat ghiza ki hai
-  Iza faqat judaai-e-Khairulwara ki hai
+  Musannif ke paas ye bhi wila-e-Kibriya ki hai
+  Parwaah faaqa ki na shikaayat ghiza ki hai
+  Izaa faqat judaai-e-Khairulwara ki hai
   Aab o ghiza ki fikr na sone ka dhyaan hai
   Aaṅkhoṅ meiṅ shakl baap ki rone ka dhyaan hai
 
   3
   Bete pukaarte haiṅ ke lillaah baahar aao
-  Amma na itna rou ghulaamoṅ pe rahm khaao
+  Ammaaṅ na itna ro'o ghulaamoṅ pe rahm khaao
   Naana kahaaṅ gaye haiṅ bula laayeṅ hum bataao
   Hum kapre phaarte haiṅ nahiṅ to gale lagaao
   Naana ke baad haaye ye beqadr hum hue
@@ -40,20 +40,20 @@ romanLyrics: |-
   Aakhir wufur-e-girya se aajiz hue Arab
   Haidar ke paas rone ki faryaad laaye sab
   Ki arz Fatima se kaho ae wali-e-Rab
-  Ya Sayyida tumhaari raiyat hai jaaṅ balab
+  Ya Sayyida tumhaari raiyat hai jaaṅ ba-lab
   Khaane ka koi waqt na sone ka waqt hai
   Jo waqt hai wo aap ke rone ka waqt hai
 
   5
   Baahar se Murtaza gaye ghar meiṅ jhukaaye sar
-  Muṅh dhaaṅpe ro rahi thi akeli wo qushsiyar
+  Munh dhaanpe ro rahi thi akeli wo khush sair
   Dene lage payaam-e-Arab Shaah-e-bahr o bar
   Ghabra ke boli haaye karuṅ kya maiṅ bepidar
-  Khaabu meiṅ maut hue to mar jaauṅ Ya Ali
-  Baba ka sog le ke kidhar jaauṅ Ya Ali
+  Khaabu meiṅ maut hue to mar jaauṅ ya Ali
+  Baba ka sog le ke kidhar jaauṅ ya Ali
 
   6
-  Meri taraf se ahl-e-Madina ko do payaam
+  Meri taraf se ahl-e-Madina ko de payaam
   Logoṅ khafa na ho meri rukhsat hai subh shaam
   Do chaar din tumhaare muhalle meiṅ hai maqaam
   Rone ki dhum ho chuki ab kaam hai tamaam
@@ -61,7 +61,7 @@ romanLyrics: |-
   Baba sidhaare kaam mujhe kya Madine se
 
   7
-  Ik din nigaah karte haiṅ kya Shaah-e-La Fata
+  Ik din nigaah karte haiṅ kya Shaah-e-La Fataa
   Matbakh hai garm aard-e-jau hai gundha hua
   Nahla rahi hai bachchoṅ ko mal mal ke dast o paa
   Phaila diye haiṅ kurte bhi dho kar juda juda
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   8
   Boli ke aaj raat ko ho jaauṅgi bahaal
-  Kal mere kaarobaar meiṅ tum hoṅge khud nidhaal
+  Kal mere kaarobaar meiṅ tum hoṅge qad nidhaal
   Khidmat ka mere bachchoṅ ki hoga kise khayaal
   Nahla dhula diya ke pareshaaṅ tha un ka haal
   Kurte bhi dhoye qut bhi kal tak ka de chali
@@ -80,9 +80,9 @@ romanLyrics: |-
   Phir to har ek muhalle meiṅ mahshar bapa hua
   Apne paraaye daure ke haaye haaye ye kya hua
   Fizza pukaari Sayyida ka waaqia hua
-  Hujra Batul-e-paak ka maatam sara hua
-  Chhaati khalaq se dekhne waaloṅ ki phat gayi
-  Muṅh rakh ke muṅh pe murde ke Zainab lipat gayi
+  Hujra-e-Batul-e-paak ka maatam sara hua
+  Chhaati khalq se dekhne waaloṅ ki phat gayi
+  Munh rakh ke munh pe murde ke Zainab lipat gayi
 
   10
   Maiṅ dudh bakhshwaane na paayi ke chal basi
@@ -93,19 +93,19 @@ romanLyrics: |-
   Haaye haaye abhi to sin tha kul athaarah saal ka
 
   11
-  Ae meri faaqa kash meri naadaar Amma jaaṅ
-  Ae meri bedawa meri bimaar Amma jaaṅ
-  Kaabe ki aabru meri sardaar Amma jaaṅ
-  Ae meri saabira meri naachaar Amma jaaṅ
+  Ae meri faaqakash meri naadaar Ammaaṅ jaaṅ
+  Ae meri bedawa meri bimaar Ammaaṅ jaaṅ
+  Kaabe ki aabru meri sardaar Ammaaṅ jaaṅ
+  Ae meri saabira meri naachaar Ammaaṅ jaaṅ
   Naana mui to thi koi taaza khitaab do
-  Amma jawaab do meri Amma jawaab do
+  Ammaaṅ jawaab do meri Ammaaṅ jawaab do
 
   12
   Nanhe se sar khule haiṅ nahiṅ sar pe topiyaaṅ
-  Kehte haiṅ kuchh to muṅh se nikalta hai haaye Maaṅ
-  Likha hai jab janaaze pa pahuṅche wo nim jaaṅ
-  Hasrat se dekha murde ka muṅh aur ye ki fughaaṅ
-  Amma ghulaam aaye haiṅ rukhsat ke waaste
+  Kehte haiṅ kuchh to munh se nikalta hai haaye Maaṅ
+  Likha hai jab janaaza pe pahunche wo nim jaaṅ
+  Hasrat se dekha murde ka munh aur ye ki fughaaṅ
+  Ammaaṅ ghulaam aaye haiṅ rukhsat ke waaste
   Jaati ho tum Nabi ki ziyaarat ke waaste
 ---
 ۱

@@ -4,9 +4,32 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yateem Karb o Bala ke rulaaye jaate hain
+  Woh sang maaoṅ ke qaidi banaaye jaate hain
+
+  1
+  Yuṅ nanhe haathoṅ se chhuta hai haath maaoṅ ka
+  Haaye nanhe haathoṅ pe kore lagaaye jaate hain
+
+  2
+  Gale mein rassi hai aur unt par savaar bhi hai
+  Gale se khainch ke rassi giraaye jaate hain
+
+  3
+  Yeh mar gaye hain ya behosh puchhta na koi
+  Na in ke kaandhe pakar kar hilaaye jaate hain
+
+  4
+  Bandhe hain haath to chehra chhupaaeṅ ge kaise
+  Tabhi tamaache musalsal lagaaye jaate hain
+
+  5
+  Imaam aaeṅ to phir Jaun ho ayaaṅ saare
+  Haaye Sayyida ke jo qaatil chhupaaye jaate hain
 ---
 
 Yateem Karbobala Ka Rolay Jatay ha | Anjuman e Hussania | New Noha |Saqib Khan Party| 07 Shawal 2026

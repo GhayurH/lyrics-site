@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Ye rukhsat-e-aakhir hai pukaare Shah-e-waala
   Ae Zainab o Kulsum Rabaab aur Ruqayya
-  Tum sab pe salaam aakhri Allah ko sauṅpa
+  Tum sab pe salaam aakhri Allah ko saunpa
   Lipti hui qadmoṅ se ye kehti thi Sakina
   Ae kul ke madadgaar madad karne ko aao
   Ya Fatima Zehra mere baaba ko bachaao
@@ -27,11 +27,11 @@ romanLyrics: |-
   Baaba na kaho baaba tum saath raho baaba
   Kuchh hum se suno baaba aage na barho baaba
   Aaraam karo baaba baraaye dil-e-dukhtar
-  Baraaye dil-e-dukhtar khaime meiṅ chalo baaba
+  Baraaye dil-e-dukhtar khaime mein chalo baaba
 
   3
-  Maiṅ jaan gayi baaba pahchaan gayi baaba
-  Qurbaan gayi baaba talwaaroṅ meiṅ jaaoge
+  Main jaan gayi baaba pahchaan gayi baaba
+  Qurbaan gayi baaba talwaaroṅ mein jaaoge
   Phir tum bhi na aaoge baraaye dil-e-dukhtar
   Baraaye dil-e-dukhtar tum hum ko na tarpaana
 
@@ -42,13 +42,13 @@ romanLyrics: |-
   Baraaye dil-e-dukhtar tum laut ke aa jaana
 
   5
-  Shah bole Sakina jaaṅ sau jaan se maiṅ qurbaaṅ
+  Shah bole Sakina jaaṅ sau jaan se main qurbaaṅ
   Is tarah se na ho giryaaṅ ik waada nibhaana hai
   Ik qarz puraana hai baraaye dil-e-dukhtar
   Baraaye dil-e-baaba tum aaj dua karna
 
   6
-  Pursa hai pa-e-Maula Raihaan o Ali Ji ka
+  Pursa hai pa-e-Maula Rehan o Ali Ji ka
   Karte the haram nauha Sarwar ne kaha beti
   Sarwar ne kaha beti saaat hai judaai ki
   Baraaye dil-e-dukhtar baraaye dil-e-baaba

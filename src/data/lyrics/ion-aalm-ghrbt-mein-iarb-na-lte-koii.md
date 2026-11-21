@@ -8,24 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Yuṅ aalam-e-ghurbat may Ya Rab na lute koi
+  Yuṅ aalam-e-ghurbat mein Ya Rab na lute koi
   Darya ke qarib aa kar pyasa na rahe koi
 
   1
-  Akbar ki jawani par khud roye jawani bhi
-  Arman kisi maa ke dil may na rahe koi
+  Akbar ki jawaani par khud royi jawaani bhi
+  Armaan kisi maaṅ ke dil mein na rahe koi
 
   2
-  Yeh keh ke giri Zainab Shabbir ke lashe par
-  Begor o kafan lasha ban may na rahe koi
+  Yeh keh ke giri Zainab Shabbir ke laashe par
+  Begor o kafan laasha ban mein na rahe koi
 
   3
-  Kat-ti hui gardan se aati thi sada paiham
+  Katti hui gardan se aati thi sadaa paiham
   Yuṅ pyase ki gardan par khanjar na chale koi
 
   4
-  Bazar may Kufe ke Zainab ne kaha ro kar
-  Yuṅ parda nashiṅ ya Rab dar dar na phire koi
+  Baazaar mein Kufe ke Zainab ne duaa maaṅgi
+  Yuṅ parda nashiṅ Ya Rab dar dar na phire koi
 ---
 
 یوں عالمِ غربت میں یارب نہ لٹے کوئی

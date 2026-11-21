@@ -18,7 +18,7 @@ romanLyrics: |-
   Dast-e-adab jor ke kehne lagi ro kar
 
   Ye lo mashk o alam tum ko meri qasam
-  Aao dila duṅ maiṅ izn-e-Shaah-e-Umam
+  Aao dila duṅ main izn-e-Shaah-e-Umam
   Rakh lo Sakina ka ye maan
   Paani le aao ammu jaan
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   Paani le aao ammu jaan
 
   2
-  Bachche tashna jigar baithe haiṅ nauhagar
+  Bachche tashna jigar baithe haiṅ nauha gar
   Pyaas ke chhaale haiṅ in sab ke hontoṅ par
   Pyaasoṅ ke tum ho nigehbaan
   Paani le aao ammu jaan
@@ -55,7 +55,7 @@ romanLyrics: |-
   6
   Waada nibhana hai darya pe jaana hai
   Paani bhi laana hai tum ko bhi aana hai
-  Tum mujh pe maiṅ tum pe qurbaan
+  Tum mujh pe main tum pe qurbaan
   Paani le aao ammu jaan
 
   Sakina meri pyaari Sakina

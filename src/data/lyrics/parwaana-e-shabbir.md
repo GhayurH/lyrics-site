@@ -12,14 +12,14 @@ tags: []
 aliases: ["Parwanae Shabbir"]
 published: true
 romanLyrics: |-
-  Sinoṅ meiṅ yehi dil hai aza-khaana-e-Shabbir
+  Sinoṅ meiṅ yehi dil hai aza khaana-e-Shabbir
   Sar hai yehi sang-e-dar-e-kaashaana-e-Shabbir
-  Pahuṅchaayeṅ ge duniya meiṅ ham afsaana-e-Shabbir
+  Pahunchaayeṅ ge duniya meiṅ ham afsaana-e-Shabbir
   Ae salle alaa jalwa-e-jaanaan-e-Shabbir
   Ham aashiq-e-Shabbir hai parwaana-e-Shabbir
 
   1
-  Sar jis ka utaara gaya sajde meiṅ Khuda ke
+  Sar jis ka utaara sajde meiṅ Khuda ke
   Nind aai jise saare zamaane ko jaga ke
   Jo so gaya aandhi meiṅ charaagh apna jala ke
   Ae salle alaa jalwa-e-jaanaan-e-Shabbir
@@ -34,13 +34,13 @@ romanLyrics: |-
   Dekha na suna yuṅ kisi sultaan ka maatam
   Aisa na hua naashir-e-Quraan ka maatam
   Terah sau baras se hai ajab shaan ka maatam
-  Ae salle alaa jalwa-e-jaanaana-e-Shabbir
+  Ae salle alaa jalwa-e-jaanaan-e-Shabbir
 
   4
   Maqbul ye koshish ho kahaaṅ aisa muqaddar
   Shaayad isi tadbir se bakhshish ho mayassar
   Tum bhi kaho ae Najm ye parwaanoṅ meiṅ mil kar
-  Ae salle alaa jalwa-e-jaanaana-e-Shabbir
+  Ae salle alaa jalwa-e-jaanaan-e-Shabbir
 ---
 سینوں میں یہی دل ہے عزا خانۂ شبیر
 سر ہے یہی سنگ در کاشانۂ شبیر

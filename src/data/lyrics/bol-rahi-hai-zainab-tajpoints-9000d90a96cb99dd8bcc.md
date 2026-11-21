@@ -1,28 +1,47 @@
 ---
-title: "Bol Rahi Hai Zainab"
+title: "بول رہی ہے زینب"
+alternateTitle: "Bol Rahi Hai Zainab"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Khatam hai fasl-e-kamaan bool rahi hai Zainab
+  Kaun bolay ga jahan bool rahi hai Zainab
+  Teer-o-shamsheer-o-sina ho ke sitam ke lashkar
+  Thak gayi sab ki zabaan bool rahi hai Zainab
+
+  2
+  Mudatton baad suna phir se Ali ka lehja
+  Kaisay jhomey na azaan bool rahi hai Zainab
+  Chun raha hai adab-e-Nehj-e-Balaga lafzein
+  Apne baba ki zabaan bool rahi hai Zainab
+
+  3
+  Ho gayi jeet bahatar shuhda ki sabit
+  Le ke Ghazi ka nishaan bool rahi hai Zainab
+  Aye Yazid iss se bari haar teri kya hogi
+  Woh tera ghar hai jahan bool rahi hai Zainab
 ---
 
-1
-Khatam Hai Fasl-e-Kamaan Bool Rahi Hai Zainab.
-Kaun Bolay Ga Jahan Bool Rahi Hai Zainab.
-Teer-o-Shamsheer-o-Sina Ho Ke Sitam Ke Lashkar.
-Thak Gayi Sab Ki Zabaan Bool Rahi Hai Zainab.
+۱
+ختم ہے فصلِ کماں بول رہی ہے زینب
+کون بولے گا جہاں بول رہی ہے زینب
+تیر و شمشیر و سناں ہو کہ ستم کے لشکر
+تھک گئی سب کی زباں بول رہی ہے زینب
 
-2
-Mudatton Baad Suna Phir Se Ali Ka Lehja.
-Kaisay Jhomey Na Azaan Bool Rahi Hai Zainab.
-Chun Raha Hai Adab-e-Nehj-e-Balaga Lafzein.
-Apne Baba Ki Zabaan Bool Rahi Hai Zainab.
+۲
+مدتوں بعد سنا پھر سے علی کا لہجہ
+کیسے جھومے نہ اذاں بول رہی ہے زینب
+چن رہا ہے ادبِ نہجِ بلاغہ لفظیں
+اپنے بابا کی زباں بول رہی ہے زینب
 
-3
-Ho Gayi Jeet Bahatar Shuhda Ki Sabit.
-Le Ke Ghazi Ka Nishaan Bool Rahi Hai Zainab.
-Aye Yazid Iss Se Bari Haar Teri Kya Hogi.
-Woh Tera Ghar Hai Jahan Bool Rahi Hai Zainab.
+۳
+ہو گئی جیت بہتّر شہدا کی ثابت
+لے کے غازی کا نشاں بول رہی ہے زینب
+اے یزید اس سے بڑی ہار تیری کیا ہوگی
+وہ تیرا گھر ہے جہاں بول رہی ہے زینب

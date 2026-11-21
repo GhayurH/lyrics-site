@@ -1,44 +1,77 @@
 ---
-title: "Muslim Diyaan Dhiyaan Fajar Wailay Ayiyaan Kool Hussain Sakhi De Lyrics 2009"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "مسلم دیاں دھیاں فجر ویلے آئیاں کول حسین سخی دے"
+alternateTitle: "Muslim Diyaan Dhiyaan Fajar Wailay Ayiyaan Kool Hussain Sakhi De"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sarwar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Muslim diyaan dhiyaan fajar wailay ayiyaan kool Hussain Sakhi de
+  Tekoon wasta Akbar Asghar da sakoon veer mila aj Eid aye
+
+  1
+  Muslim ki betiyaan fajar mein jab ayin paas Hussain Sakhi ke
+  Tumhein wasta Akbar Asghar ka humein bhai mila aj Eid aye
+  Rab khair kare tere Akbar di howay umar daraz Ali Asghar di
+  Sughra de veraan da sadqa sakoon veer mila aj Eid aye
+
+  2
+  Jadoon Eid da waila aanda aye kul manwaan putar sajandiyaan ne
+  Payi wekhdi aye raah sadi maa sakoon veer mila aj Eid aye
+  Shehzai Umm-ul-Banin ki yeh masoom nasiyaan roti hain
+  Sunti hain Ruqiya ye noha sakoon veer mila aj Eid aye
+
+  3
+  Khaliq ne behan bhirawan de boan wakhray joor banray ne
+  Behnri de honde maanr bhira sakoon veer mila aj Eid aye
+  Sakoon piyo di yaad standi aye jera hun taein wal ke nayi aya
+  Saday babal da kuj haal suna sakoon veer mila aj Eid aye
+
+  4
+  Gal la ke cholay putran de dhi Umm-ul-Banin di rondi aye
+  Kithe muk na jawan oday saa sakoon veer mila aj Eid aye
+  Hath joor ke mamay Ghazi koo ayho wain kita shehzadiyaan ne
+  Dil baaj bhirawan nayi lagda sakoon veer mila aj Eid aye
+
+  5
+  Jab roein betiyaan Muslim ki Shabir ko Sughra yaad ayi
+  Atti thi Madine se ye sada sakoon veer mila aj Eid aye
+  Sarwar, Jawad, Rehan de sang jag sara matam karda aye
+  Ayho sun ke wain yateema da sakoon veer mila aj Eid aye
 ---
 
-Muslim Diyaan Dhiyaan Fajar Wailay Ayiyaan Kool Hussain Sakhi De.
-Tekoon Wasta Akbar Asghar Da Sakoon Veer Mila Aj Eid Aye.
+مسلم دیاں دھیاں فجر ویلے آئیاں کول حسین سخی دے
+تیکوں واسطہ اکبر اصغر دا، ساکوں ویر ملا اج عید اے
 
-1
-Muslim Ki Betiyaan Fajar Mein Jab Ayin Paas Hussain Sakhi Ke.
-Tumhein Wasta Akbar Asghar Ka Humein Bhai Mila Aj Eid Aye.
-Rab Khair Kare Tere Akbar Di Howay Umar Daraz Ali Asghar Di.
-Sughra De Veraan Da Sadqa Sakoon Veer Mila Aj Eid Aye.
+۱
+مسلم کی بیٹیاں فجر میں جب آئیں پاس حسین سخی کے
+تمہیں واسطہ اکبر اصغر کا، ہمیں بھائی ملا آج عید اے
+رب خیر کرے تیرے اکبر دی، ہووے عمر دراز علی اصغر دی
+صغریٰ دے ویراں دا صدقہ، ساکوں ویر ملا اج عید اے
 
-2
-Jadoon Eid Da Waila Aanda Aye Kul Manwaan Putar Sajandiyaan Ne.
-Payi Wekhdi Aye Raah Sadi Maa Sakoon Veer Mila Aj Eid Aye.
-Shehzai Umm-ul-Banin Ki Yeh Masoom Nasiyaan Roti Hain.
-Sunti Hain Ruqiya Ye Noha Sakoon Veer Mila Aj Eid Aye.
+۲
+جدوں عید دا ویلا آندا اے، کل ماواں پتر سجاندیاں نے
+پئی ویکھدی اے راہ ساڈی ماں، ساکوں ویر ملا اج عید اے
+شہزائی ام البنین کی یہ معصوم ناسیاں روتی ہیں
+سنتی ہیں رقیہ یہ نوحہ، ساکوں ویر ملا اج عید اے
 
-3
-Khaliq Ne Behan Bhirawan De Boan Wakhray Joor Banray Ne.
-Behnri De Honde Maanr Bhira Sakoon Veer Mila Aj Eid Aye.
-Sakoon Piyo Di Yaad Standi Aye Jera Hun Taein Wal Ke Nayi Aya.
-Saday Babal Da Kuj Haal Suna Sakoon Veer Mila Aj Eid Aye.
+۳
+خالق نے بہن بھراواں دے بہوں وکھرے جوڑ بنائے نے
+بہنڑی دے ہوندے مان بھرا، ساکوں ویر ملا اج عید اے
+ساکوں پیو دی یاد ستاندی اے، جیڑا ہن تائیں ول کے نئیں آیا
+ساڈے بابل دا کجھ حال سنا، ساکوں ویر ملا اج عید اے
 
-4
-Gal La Ke Cholay Putran De Dhi Umm-ul-Banin Di Rondi Aye.
-Kithe Muk Na Jawan Oday Saa Sakoon Veer Mila Aj Eid Aye.
-Hath Joor Ke Mamay Ghazi Koo Ayho Wain Kita Shehzadiyaan Ne.
-Dil Baaj Bhirawan Nayi Lagda Sakoon Veer Mila Aj Eid Aye.
+۴
+گل لا کے چولے پتراں دے، دھی ام البنین دی روندی اے
+کتھے مک نہ جاون اوہ دے ساہ، ساکوں ویر ملا اج عید اے
+ہتھ جوڑ کے مامے غازی کوں ایہو وین کیتا شہزادیاں نے
+دل باجھ بھراواں نئیں لگدا، ساکوں ویر ملا اج عید اے
 
-5
-Jab Roein Betiyaan Muslim Ki Shabir Ko Sughra Yaad Ayi.
-Atti Thi Madine Se Ye Sada Sakoon Veer Mila Aj Eid Aye.
- Sarwar, Jawad, Rehan De Sang Jag Sara Matam Karda Aye.
-Ayho Sun Ke Wain Yateema Da Sakoon Veer Mila Aj Eid Aye.
+۵
+جب روئیں بیٹیاں مسلم کی، شبیر کو صغریٰ یاد آئی
+آتی تھی مدینے سے یہ صدا، ساکوں ویر ملا اج عید اے
+سرور، جواد، ریحان دے سنگ جگ سارا ماتم کردا اے
+ایہو سن کے وین یتیماں دا، ساکوں ویر ملا اج عید اے

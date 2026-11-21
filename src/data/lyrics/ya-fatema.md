@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tum ne humko na bhulaya
-  Hum ne tumko na bhulaya
-  Ya fatema salamullah alaiha
-  Tujhpe shehzadi e kaunain meri jaan fida
-  Kya mila tujhko zamane se masayib ke siwa
-  Baad paighambar e islam hui aur jafa
-  Chini jagir e fidak baap ka virsa na diya
-  Tujhko jhuthlaya gaya kitna tarpaya gaya
-  Haye afsos mohamed ka chaman lut liya
-  Ya fatema salamullah alaiha...
-  Wo jo rehte the shifa’at ke talabgaar sabhi
-  Aa gaye ghar ko jalane wo sitamgaar sabhi
-  Tune aayaat suna di sar e darbar sabhi
+  Tum ne hum ko na bhulaaya
+  Hum ne tum ko na bhulaaya
+  Ya Fatema salaamullaah alaiha
+  Tujh pe shehzaadi-e-kaunain meri jaan fida
+  Kya mila tujhko zamaane se masaaib ke siwa
+  Baad paighambar-e-Islaam hui aur jafa
+  Chhini jaagir-e-Fadak baap ka virsa na diya
+  Tujhko jhutlaaya gaya kitna tarpaaya gaya
+  Haaye afsos Muhammad ka chaman lut liya
+  Ya Fatema salaamullaah alaiha...
+  Wo jo rehte the shafaat ke talabgaar sabhi
+  Aa gaye ghar ko jalaane wo sitamgaar sabhi
+  Tu ne aayaat suna di sar-e-darbaar sabhi
   Phir bhi jhutlaate rahe tujhko gunehgaar sabhi
-  Tune jab nauha kiya has diye ahl e jafa
-  Aur quran ki aayat ne ye bain kiya
-  Ya fatema salamullah alaiha...
-  Phasliyaṅ tut gayi jalta hua dar jo gira
-  Aur mohsin ki shahadat ka tujhe dard mila
-  Roye is baat pe hyder jo tujhe ghusl diya
-  Ta dame marg tera haath na pehlu se hata
-  Kiuṅ chupaya tha bhala tune ye zakhme jafa
-  Mai tere baad isi baat pe hoo mehve buka
-  Ya fatema salamullah alaiha...
-  Maa chali jaye to lagta hai khuda ruth gaya
-  Sayebaṅ koi nahi dunya may maadar se bara
-  Meri bibi teri mayyat pe ye betoṅ ne kaha
-  Nind raatoṅ ki gayi aap ka saaya jo utha
-  Humko tadpao nahi chor ke jao nahi
-  Ab kahaṅ payenge hum aap ke anchal ki hawa
-  Ya fatema salamullah alaiha...
-  Mai tere naam ki tasbih jo parta hoo kabhi
-  Khuṅ rulati hai mujhe teri musibat bibi
-  Wo ibadat wo musalle pe teri nauha gari
+  Tu ne jab nauha kiya hans diye ahl-e-jafa
+  Aur Quraan ki aayat ne ye bain kiya
+  Ya Fatema salaamullaah alaiha...
+  Pasliyaaṅ tut gai jalta hua dar jo gira
+  Aur Mohsin ki shahaadat ka tujhe dard mila
+  Roye is baat pe Haidar jo tujhe ghusl diya
+  Ta dam-e-marg tera haath na pehlu se hata
+  Kiuṅ chhupaaya tha bhala tu ne ye zakhm-e-jafa
+  Main tere baad isi baat pe huṅ mahv-e-buka
+  Ya Fatema salaamullaah alaiha...
+  Maaṅ chali jaaye to lagta hai Khuda ruth gaya
+  Saayebaaṅ koi nahiṅ duniya mein maadar se bara
+  Meri Bibi teri mayyat pe ye betoṅ ne kaha
+  Nind raatoṅ ki gai aap ka saaya jo utha
+  Humko tadpaao nahiṅ chhor ke jaao nahiṅ
+  Ab kahaaṅ paayeṅge hum aap ke aanchal ki hawa
+  Ya Fatema salaamullaah alaiha...
+  Main tere naam ki tasbih jo parhta huṅ kabhi
+  Khuṅ rulaata hai mujhe teri musibat Bibi
+  Wo ibaadat wo musalle pe teri nauha gari
   Haath ek pehlu pe ek haath se tasbih pari
-  Wo ruku aur sujud teri gurbat pe durud
-  Is aziyat may namazeiṅ na hui teri qaza
-  Ya fatema salamullah alaiha...
-  Ek pal ko bhi tere gham ko na mai bhul saka
-  Teri marqad ka suna phir mai baqayya pahuncha
+  Wo ruku aur sujud teri ghurbat pe durud
+  Is aziyat mein namaazeṅ na hui teri qaza
+  Ya Fatema salaamullaah alaiha...
+  Ik pal ko bhi tere gham ko na main bhul saka
+  Teri marqad ka suna phir main Baqayya pahuncha
   Wo udaasi wo andhera wo sitamgaar fiza
-  Haye marqad ki alamat ko bhi rehne na diya
-  Rauza ban jaye tera ye hai armaan mera
-  Phir wahaṅ jaaye ziyarat ko sabhi ahle aza
-  Ya fatema salamullah alaiha...
+  Haaye marqad ki alaamat ko bhi rehne na diya
+  Rauza ban jaaye tera ye hai armaan mera
+  Phir wahaaṅ jaaye ziyaarat ko sabhi ahl-e-aza
+  Ya Fatema salaamullaah alaiha...
 ---
 
 ۱

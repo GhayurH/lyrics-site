@@ -13,18 +13,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Ye madar-e-Asghar ne kaha khaak ura kar
-  Asghar tujhe dhunduṅ maiṅ kahaaṅ dasht meiṅ jaa kar
+  Asghar tujhe dhunduṅ main kahaaṅ dasht mein jaa kar
 
   1
-  Hai zakhm gale meiṅ bhala nind aayegi kaise
+  Hai zakhm gale mein bhala nind aayegi kaise
   Aa jaao sula duṅ tumheiṅ sine se laga kar
 
   2
-  Sannaata hai maqtal meiṅ andhera bhi bahut hai
-  Aise meiṅ meri jaaṅ kahaaṅ reh gaye jaa kar
+  Sannaata hai maqtal mein andhera bhi bahut hai
+  Aise mein meri jaaṅ kahaaṅ reh gai jaa kar
 
   3
-  Kiuṅ aate nahiṅ laal mere god meiṅ mere
+  Kiuṅ aate nahiṅ laal mere god mein meri
   Kya milta hai is dard ki maari ko rula kar
 
   4
@@ -36,12 +36,12 @@ romanLyrics: |-
   Armaan se dekhuṅ gi tumheiṅ dulha bana kar
 
   6
-  Tum reh gaye maqtal meiṅ khayaal aaya na tum ko
+  Tum reh gaye maqtal mein khayaal aaya na tum ko
   Maaṅ kis ko sulaayegi kaleje se laga kar
 
   7
-  Bemaqna o chaadar huṅ haya aati hai warna
-  Maiṅ khud hi tumheiṅ dhundti maidaan meiṅ aa kar
+  Bemakhna o chaadar huṅ haya aati hai warna
+  Main khud hi tumheiṅ dhundti maidaan mein aa kar
 
   8
   Alfaaz ye nauhe ke nahiṅ likhe haiṅ Gohar

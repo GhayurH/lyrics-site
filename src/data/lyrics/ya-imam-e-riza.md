@@ -18,12 +18,12 @@ romanLyrics: |-
   Waaris-e-Bekafan ya Imam-e-Riza
 
   1
-  Haae sitam zeher ka donoṅ seh kar gaye
-  Bil-yaqiṅ laadle donoṅ Zehra ke the
+  Haaye sitam zeher ka donoṅ seh kar gaye
+  Bilyaqiṅ laadle donoṅ Zehra ke the
   Ik Imam-e-Hasan ya Imam-e-Riza
 
   2
-  Shaah-e-Karbobala se ye nisbat teri
+  Shaah-e-Karb o Bala se ye nisbat teri
   Un ke laashe pe bhi tere laashe pe bhi
   Ro na paayi behen ya Imam-e-Riza
 
@@ -33,22 +33,22 @@ romanLyrics: |-
   Tha kafan pairahan ya Imam-e-Riza
 
   4
-  Jo chubhan tere sine meiṅ thi zeher ki
+  Jo chubhan tere sine mein thi zeher ki
   Ab bhi mehsus karte haiṅ wo maatami
-  Apne dil meiṅ chubhan ya Imam-e-Riza
+  Apne dil mein chubhan ya Imam-e-Riza
 
   5
   Ae bin-e-Sayyeda ae bin-e-Murtaza
-  Mushkiloṅ meiṅ hameiṅ hai tera aasra
+  Mushkiloṅ mein hameiṅ hai tera aasra
   Baadshaah-e-Zaman ya Imam-e-Riza
 
   6
-  Haq-e-Ajdaad ko tujh se chhina gaya
-  Haae Madina tera tujh se chhurwa diya
-  Ae asir-e-mehan ya Imam-e-Riza
+  Haq-e-ajdaad ko tujh se chhina gaya
+  Haaye Madina tera tujh se chhurwa diya
+  Ae asir-e-mihan ya Imam-e-Riza
 
   7
-  Jaae Salman o Mesum Khuraasaan meiṅ
+  Jaaye Salman o Mesum Khuraasaan mein
   Tere rauze pe jaa kar ye nauha parhe
   De de izn-e-sukhan ya Imam-e-Riza
 ---

@@ -1,32 +1,54 @@
 ---
-title: "Jafar Ke Gham Mein Royi Sari Hi Kainat Lyrics 2024"
+title: "جعفر کے غم میں روئی ساری ہی کائنات"
+alternateTitle: "Jafar Ke Gham Mein Royi Sari Hi Kainat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jarrar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jafar ke gham mein royi sari hi kainat
+  Surkhi hai aasmaan par chayi jahan pe raat
+
+  1
+  Tum ne Nabi ko logo kaisa ajar diya
+  Qatil ho Aal ke tum milni nahi shifat
+  Sadiq Imam sachay darbar mein bulaye
+  Beta inhi ka Kazim qaidi raha hayat
+
+  2
+  Mansor iss tarha ka tu ne zehar diya hai
+  Niklay hai khoon jigar ka karne lagin jo baat
+  Noha parhein farishtay matam karein Nabi
+  Parday mein khon roye jane hai kaun zaat
+
+  3
+  Itna bara janaza tareekh ne na dekha
+  Betay ki lash tanha pul par pari hai raat
+  Jarrar matami hum Zahra ki Aal ke
+  Seene pe daag-e-matam mehshar mein hain nijat
 ---
 
-Jafar Ke Gham Mein Royi Sari Hi Kainat.
-Surkhi Hai Aasmaan Par Chayi Jahan Pe Raat.
+جعفر کے غم میں روئی ساری ہی کائنات
+سرخی ہے آسماں پر چھائی جہاں پہ رات
 
-1
-Tum Ne Nabi Ko Logo Kaisa Ajar Diya.
-Qatil Ho Aal Ke Tum Milni Nahi Shifat.
-Sadiq Imam Sachay Darbar Mein Bulaye.
-Beta Inhi Ka Kazim Qaidi Raha Hayat.
+۱
+تم نے نبی کو لوگو کیسا اجر دیا
+قاتل ہو آل کے تم ملنی نہیں شفاعت
+صادق امام سچے دربار میں بلائے
+بیٹا انہی کا کاظم قیدی رہا حیات
 
-2
-Mansor Iss Tarha Ka Tu Ne Zehar Diya Hai.
-Niklay Hai Khoon Jigar Ka Karne Lagin Jo Baat.
-Noha Parhein Farishtay Matam Karein Nabi.
-Parday Mein Khon Roye Jane Hai Kaun Zaat.
+۲
+منصور اس طرح کا تو نے زہر دیا ہے
+نکلے ہے خون جگر کا کرنے لگیں جو بات
+نوحہ پڑھیں فرشتے ماتم کریں نبی
+پردے میں خون روئے جانے ہے کون ذات
 
-3
-Itna Bara Janaza Tareekh Ne Na Dekha.
-Betay Ki Lash Tanha Pul Par Pari Hai Raat.
- Jarrar Matami Hum Zahra Ki Aal Ke.
-Seene Pe Daag-e-Matam Mehshar Mein Hain Nijat.
+۳
+اتنا بڑا جنازہ تاریخ نے نہ دیکھا
+بیٹے کی لاش تنہا پل پر پڑی ہے رات
+جرار ماتمی ہم زہرا کی آل کے
+سینے پہ داغِ ماتم محشر میں ہیں نجات

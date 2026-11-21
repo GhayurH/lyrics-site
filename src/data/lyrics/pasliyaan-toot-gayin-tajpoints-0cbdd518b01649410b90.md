@@ -1,38 +1,65 @@
 ---
-title: "Pasliyaan Toot Gayin"
+title: "پسلیاں ٹوٹ گئیں"
+alternateTitle: "Pasliyaan Toot Gayin"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mirza"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Pasliyaan toot gayin zakhm chupaya na gaya
+  Dard itna tha keh Haider ko bulaya na gaya
+
+  1
+  Ro ke Hasnain ko di Fatima Zahra ne sada
+  Jalta darwaza jo Fizza se uthaya na gaya
+  Aik zalim tu yehi kehta raha umar tamam
+  Jitna Zahra ko satana tha sataya na gaya
+
+  2
+  Iss tarha phaar ke phainki thi sand Ahmad ki
+  Aik bhi tukra woh Zahra se uthaya na gaya
+  Jaisay jalta howa darwaza gira Zahra par
+  Iss tarha kissi bibi pe giraya na gaya
+
+  3
+  Pocha Haider ne jo rukhsar pe kaisa hai nishaan
+  Hichkiyaan lag gayin Zahra se bataya na gaya
+  Hath pasli se hatatay hoye kyun roye Ali
+  Our phir hath kyun Zahra ka hataya na gaya
+
+  4
+  Bad-e-Zahra yehi kehte they Ali ro ro kar
+  Zakhm pasli ka mujhe kyun yeh dikhaya na gaya
+  Mirza ghairon ki na par jaye janazay pe nazar
+  Din mein Zahra ka janaza youn uthaya na gaya
 ---
 
-Pasliyaan Toot Gayin Zakhm Chupaya Na Gaya.
-Dard Itna Tha Keh Haider Ko Bulaya Na Gaya.
+پسلیاں ٹوٹ گئیں زخم چھپایا نہ گیا
+درد اتنا تھا کہ حیدر کو بلایا نہ گیا
 
-1
-Ro Ke Hasnain Ko Di Fatima Zahra Ne Sada.
-Jalta Darwaza Jo Fizza Se Uthaya Na Gaya.
-Aik Zalim Tu Yehi Kehta Raha Umar Tamam.
-Jitna Zahra Ko Satana Tha Sataya Na Gaya.
+۱
+رو کے حسنین کو دی فاطمہ زہرا نے صدا
+جلتا دروازہ جو فضہ سے اٹھایا نہ گیا
+ایک ظالم تو یہی کہتا رہا عمر تمام
+جتنا زہرا کو ستانا تھا ستایا نہ گیا
 
-2
-Iss Tarha Phaar Ke Phainki Thi Sand Ahmad Ki.
-Aik Bhi Tukra Woh Zahra Se Uthaya Na Gaya.
-Jaisay Jalta Howa Darwaza Gira Zahra Par.
-Iss Tarha Kissi Bibi Pe Giraya Na Gaya.
+۲
+اس طرح پھاڑ کے پھینکی تھی سند احمد کی
+ایک بھی ٹکڑا وہ زہرا سے اٹھایا نہ گیا
+جیسے جلتا ہوا دروازہ گرا زہرا پر
+اس طرح کسی بی‌بی پہ گرایا نہ گیا
 
-3
-Pocha Haider Ne Jo Rukhsar Pe Kaisa Hai Nishaan.
-Hichkiyaan Lag Gayin Zahra Se Bataya Na Gaya.
-Hath Pasli Se Hatatay Hoye Kyun Roye Ali.
-Our Phir Hath Kyun Zahra Ka Hataya Na Gaya.
+۳
+پوچھا حیدر نے جو رخسار پہ کیسا ہے نشان
+ہچکیاں لگ گئیں زہرا سے بتایا نہ گیا
+ہاتھ پسلی سے ہٹاتے ہوئے کیوں روئے علی
+اور پھر ہاتھ کیوں زہرا کا ہٹایا نہ گیا
 
-4
-Bad-e-Zahra Yehi Kehte They Ali Ro Ro Kar.
-Zakhm Pasli Ka Mujhe Kyun Yeh Dikhaya Na Gaya.
- Mirza Ghairon Ki Na Par Jaye Janazay Pe Nazar.
-Din Mein Zahra Ka Janaza Youn Uthaya Na Gaya.
+۴
+بعدِ زہرا یہی کہتے تھے علی رو رو کر
+زخم پسلی کا مجھے کیوں یہ دکھایا نہ گیا
+مرزا غیروں کی نہ پڑ جائے جنازے پہ نظر
+دن میں زہرا کا جنازہ یوں اٹھایا نہ گیا

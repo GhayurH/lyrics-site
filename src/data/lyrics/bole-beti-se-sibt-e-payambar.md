@@ -17,9 +17,9 @@ romanLyrics: |-
   Maaṅ ki godi meiṅ sona Sakina
 
   1
-  Hum bahut dur jaaeṅge Bibi
-  Ab na surat dikhaaeṅge Bibi
-  Hum agar yaad aaeṅge Bibi
+  Hum bahut dur jaaeṅ ge Bibi
+  Ab na surat dikhaaeṅ ge Bibi
+  Hum agar yaad aaeṅ ge Bibi
   Tum na bechain hona Sakina
 
   2
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Shimr koroṅ se dega aziyat
-  Aur tamaachoṅ se hogi himaayat
+  Aur tamaanchoṅ se hogi himaayat
   Tum ko dega yatimi meiṅ zehmat
   Yaad apni na khona Sakina
 
@@ -42,14 +42,14 @@ romanLyrics: |-
 
   5
   Laash par meri jab tum lipat kar
-  Roogi meri ae jaan-e-dukhtar
-  Kore maarega Shimr-e-badakhtar
+  Rou gi meri ae jaan-e-dukhtar
+  Kore maareṅ ge Shimr-e-badakhtar
   Hai ye sab tum ko sehna Sakina
 
   6
   Bibi aaye tumheṅ gar meri yaad
   Ro ke karna na tum zaar o faryaad
-  Warna tum par bahut hogi bedaar
+  Warna tum par bahut hogi be daar
   Maar khaana na rona Sakina
 ---
 بولے بیٹی سے سبط پیمبر

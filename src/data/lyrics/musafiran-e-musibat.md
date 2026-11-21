@@ -33,13 +33,13 @@ romanLyrics: |-
   Madine gardan-e-Shabbir par chala khanjar
   Madine Kufe meiṅ sar nange hum phire dar dar
   Madine daagh-e-rasan hai hamaare shaanoṅ par
-  Hum aaye zinda pa Zehra ka nur-e-ain nahiṅ
+  Hum aaye zinda pe Zehra ka nur-e-ain nahiṅ
   Madine Akbar o Qasim nahiṅ Husain nahiṅ
 
   4
   Ujaar Maariya meiṅ ho gaya chaman mera
   Bichhar gaya Ali Akbar sa gulbadan mera
-  Hua shahid har ek sher-e-saf shikan mera
+  Hua shahid har ak sher-e-saf shikan mera
   Para hai bhai bayaabaṅ meiṅ bekafan mera
   Nabi ki aal ko ahl-e-jafa ne lut liya
   Hamaare kunbe ko ran meiṅ qaza ne lut liya
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   6
   Chala Bashir ye dete hua khabar har jaa
-  Magar mohalla-e-Hashim meiṅ dekhta hai kya
+  Magar mohalla-e-Haashim meiṅ dekhta hai kya
   Ke ek mariza sar-e-raah hai khari tanha
   Jo naam puchha to ro ro ke boli wo Sughra
   Bashir kahne laga kiuṅ tu shor o shain meiṅ hai
@@ -71,7 +71,7 @@ romanLyrics: |-
   8
   Bashir samjha ye bint-e-Husain hai Sughra
   Khaamosh rah gaya Sughra ke muṅh pe kuchh na kaha
-  Pukaari Fatima gardan meiṅ dekh shaal-e-aza
+  Pukaari Faatima gardan meiṅ dekh shaal-e-aza
   Tu bhai laaya hai kis ki sunaani mujh ko suna
   Wo bola qaasid-e-bimaar-e-Karbala huṅ maiṅ
   Sunaani qabr-e-Payambar pe le chala huṅ maiṅ
@@ -80,24 +80,24 @@ romanLyrics: |-
   Wo boli ro ro ke bhai ye kya sunaata hai
   Wo kaun hai jise bimaar tu bataata hai
   Sunaani kis ki hai ye mujh ko haul aata hai
-  Ke Mustafa ki lahad par tu kahne jaata hai
+  Ke masaafat ki lahad par tu kahne jaata hai
   Amaama pheṅk ke us ne kaha duhaai hai
   Tere Husain ki Sughra sunaani aayi hai
 
   10
-  Zamin pa haaye pidar kah ke gir pari Sughra
+  Zamin pe haaye pidar kah ke gir pari Sughra
   Khabar ye phaili to maatam har ek ghar meiṅ hua
   Tamaam aurateṅ nikli gharoṅ se karti buka
-  Nabi ki qabr pa jaa kar Bashir ne ye kaha
-  Safar se lut ke idhar bhuki pyaasiyaṅ aayiṅ
+  Nabi ki qabr pe jaa kar Bashir ne ye kaha
+  Safar se lut kar idhar bhuki pyaasiyaṅ aayiṅ
   Utho Rasul tumhaari nawaasiyaṅ aayiṅ
 
   11
   Bashir kahta hai wallah rauza kaaṅp gaya
-  Lahad se naala hua wa Husain ka paida
-  Idhar zamiṅ pe tarapti thi Fatima Sughra
-  Zanaan-e-Hashmiya ne wahaaṅ hujum kiya
-  Hila ke shaana kaha Shaah-e-Mashraqain aaye
+  Lahad se naala hua wa Husaina ka paida
+  Idhar zamiṅ pe tarapti thi Faatima Sughra
+  Zanaan-e-Haashimiya ne wahaaṅ hujum kiya
+  Hila ke shaana kaha Shaah-e-Mashriqain aaye
   Utho Husain ki aashiq utho Husain aaye
 
   12

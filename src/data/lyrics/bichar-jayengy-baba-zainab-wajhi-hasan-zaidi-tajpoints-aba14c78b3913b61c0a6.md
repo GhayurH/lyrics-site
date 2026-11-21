@@ -1,62 +1,114 @@
 ---
-title: "Bichar Jayengy Baba Zainab Wajhi Hasan Zaidi"
+title: "بچھڑ جائیں گے بابا، زینب، وجہی حسن زیدی"
+alternateTitle: "Bichar Jayengy Baba Zainab Wajhi Hasan Zaidi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bichar jayengy baba Zainab Wajhi Hasan Zaidi
+  Shab-e-Ikeeswin Ramzan woh ghurbat ki ghari
+
+  1
+  Ghar mein Zahra ke udasi thi Ali they zakhmi
+  Sun ke baba ki sada pas jab aayi beti
+  Aakhri sansoon mein kehne lagay ro ro ke Ali
+  Aaj tum sab se bichar jaein gay baba Zainab
+
+  2
+  Mujh ko lainay ke liye aa gayin Zahra, Zainab
+  Haye kuch dair mein ruk jaein gi sansein meri
+  Band ho jaein gi yeh khoon bhari aankhein meri
+  Aakhri raat hai bas sath hamara Zainab
+
+  3
+  Jane Hasnain ne kis tarha se dekha manzar
+  Itni shiddat se woh talwar chali thi mujh par
+  Ab bhi jari hai lahu sar hai shikasta Zainab
+  Kyun dua mang rahi hai tu mere jeene ki
+
+  4
+  Mar gaya tha tera baba tu ossi din bibi
+  Jab laga Fatima Zahra ko tamacha Zainab
+  Keh do Kofay ke yateemo se keh wapis jaein
+  Ab na mere liye woh doodh ke pyalay laein
+
+  5
+  Zehar ne kar diya mushkil mera jeena Zainab
+  Sakht mushkil mein mere sath guzarey do din
+  Uth ke ik bar galay tum ko lagata lekin
+  Uthna chahon bhi tu utha nahi jata Zainab
+
+  6
+  Ronaqein betiyaan hoti hain janazay ke liye
+  Tum ho Kulsoom-o-Ruqaiya hain yahin sath mere
+  Shan se uthay ga ab mera janaza Zainab
+  Dekha Ghazi ko tu kehne lagay Zainab se Ali
+
+  7
+  Jab mere baad tumhein yaad sataye meri
+  Dekh lena mere Abbas ka chehra Zainab
+  Aik din tum issi Kofay mein bano gi qaidi
+  Be rida aao gi hathoon mein rasan bhi hogi
+
+  8
+  Aa ja le loon tere shano ka main bosa Zainab
+  Kitni beti se muhabbat thi aye Zeeshan-o- Wajih
+  Yeh judai bhi qayamat thi aye Zeeshan-o- Wajih
+  Aakhri hichki jab aayi tu pukara Zainab
 ---
 
-Bichar Jayengy Baba Zainab Wajhi Hasan Zaidi.
-Shab-e-Ikeeswin Ramzan Woh Ghurbat Ki Ghari.
+بچھڑ جائیں گے بابا، زینب، وجہی حسن زیدی
+شبِ اکیسویں رمضان وہ غربت کی گھڑی
 
-1
-Ghar Mein Zahra Ke Udasi Thi Ali They Zakhmi.
-Sun Ke Baba Ki Sada Pas Jab Aayi Beti.
-Aakhri Sansoon Mein Kehne Lagay Ro Ro Ke Ali.
-Aaj Tum Sab Se Bichar Jaein Gay Baba Zainab.
+۱
+گھر میں زہرا کے اداسی تھی علی تھے زخمی
+سن کے بابا کی صدا پاس جب آئی بیٹی
+آخری سانسوں میں کہنے لگے رو رو کے علی
+آج تم سب سے بچھڑ جائیں گے بابا، زینب
 
-2
-Mujh Ko Lainay Ke Liye Aa Gayin Zahra, Zainab.
-Haye Kuch Dair Mein Ruk Jaein Gi Sansein Meri.
-Band Ho Jaein Gi Yeh Khoon Bhari Aankhein Meri.
-Aakhri Raat Hai Bas Sath Hamara Zainab.
+۲
+مجھ کو لینے کے لیے آ گئیں زہرا، زینب
+ہائے کچھ دیر میں رک جائیں گی سانسیں میری
+بند ہو جائیں گی یہ خون بھری آنکھیں میری
+آخری رات ہے بس ساتھ ہمارا زینب
 
-3
-Jane Hasnain Ne Kis Tarha Se Dekha Manzar.
-Itni Shiddat Se Woh Talwar Chali Thi Mujh Par.
-Ab Bhi Jari Hai Lahu Sar Hai Shikasta Zainab.
-Kyun Dua Mang Rahi Hai Tu Mere Jeene Ki.
+۳
+جانے حسنین نے کس طرح سے دیکھا منظر
+اتنی شدت سے وہ تلوار چلی تھی مجھ پر
+اب بھی جاری ہے لہو سر ہے شکستہ زینب
+کیوں دعا مانگ رہی ہے تو میرے جینے کی
 
-4
-Mar Gaya Tha Tera Baba Tu Ossi Din Bibi.
-Jab Laga Fatima Zahra Ko Tamacha Zainab.
-Keh Do Kofay Ke Yateemo Se Keh Wapis Jaein.
-Ab Na Mere Liye Woh Doodh Ke Pyalay Laein.
+۴
+مر گیا تھا تیرا بابا تو اسی دن بی‌بی
+جب لگا فاطمہ زہرا کو طمانچہ زینب
+کہہ دو کوفے کے یتیموں سے کہ واپس جائیں
+اب نہ میرے لیے وہ دودھ کے پیالے لائیں
 
-5
-Zehar Ne Kar Diya Mushkil Mera Jeena Zainab.
-Sakht Mushkil Mein Mere Sath Guzarey Do Din.
-Uth Ke Ik Bar Galay Tum Ko Lagata Lekin.
-Uthna Chahon Bhi Tu Utha Nahi Jata Zainab.
+۵
+زہر نے کر دیا مشکل میرا جینا زینب
+سخت مشکل میں میرے ساتھ گزارے دو دن
+اٹھ کے اک بار گلے تم کو لگاتا لیکن
+اٹھنا چاہوں بھی تو اٹھا نہیں جاتا زینب
 
-6
-Ronaqein Betiyaan Hoti Hain Janazay Ke Liye.
-Tum Ho Kulsoom-o-Ruqaiya Hain Yahin Sath Mere.
-Shan Se Uthay Ga Ab Mera Janaza Zainab.
-Dekha Ghazi Ko Tu Kehne Lagay Zainab Se Ali.
+۶
+رونقیں بیٹیاں ہوتی ہیں جنازے کے لیے
+تم ہو کلثوم و رقیہ ہیں یہیں ساتھ میرے
+شان سے اٹھے گا اب میرا جنازہ زینب
+دیکھا غازی کو تو کہنے لگے زینب سے علی
 
-7
-Jab Mere Baad Tumhein Yaad Sataye Meri.
-Dekh Lena Mere Abbas Ka Chehra Zainab.
-Aik Din Tum Issi Kofay Mein Bano Gi Qaidi.
-Be Rida Aao Gi Hathoon Mein Rasan Bhi Hogi.
+۷
+جب میرے بعد تمھیں یاد ستائے میری
+دیکھ لینا میرے عباس کا چہرہ زینب
+ایک دن تم اسی کوفے میں بنو گی قیدی
+بے ردا آؤ گی ہاتھوں میں رسن بھی ہوگی
 
-8
-Aa Ja Le Loon Tere Shano Ka Main Bosa Zainab.
-Kitni Beti Se Muhabbat Thi Aye Zeeshan-o- Wajih.
-Yeh Judai Bhi Qayamat Thi Aye Zeeshan-o- Wajih.
-Aakhri Hichki Jab Aayi Tu Pukara Zainab.
+۸
+آ جا لے لوں تیرے شانوں کا میں بوسہ زینب
+کتنی بیٹی سے محبت تھی اے ذیشان و وجیہ
+یہ جدائی بھی قیامت تھی اے ذیشان و وجیہ
+آخری ہچکی جب آئی تو پکارا زینب

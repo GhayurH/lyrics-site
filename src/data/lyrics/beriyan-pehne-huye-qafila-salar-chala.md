@@ -8,116 +8,69 @@ poet: "Gohar Jarchvi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haye bemaar chala
-
+romanLyrics: |-
+  Haaye bimaar chala
 
   1
-
-  Bediyan pehne huwe khaafila salaar chala
-
+  Beriyaaṅ pehne hue qaafila salaar chala
 
   2
-
-  Aa rahi hai dar o dewaar se rone ki sada
-
+  Aa rahi hai dar o diwaar se rone ki sada
 
   3
-
-  Haye jalti hai zameen aag ugalti hai zameen
-
-  Koi saaya bhi nahi
-
-  Aabile pad gaye pairon mein badan tapne laga
-
+  Haaye jalti hai zamiṅ, aag ugalti hai zamiṅ
+  Koi saaya bhi nahiṅ
+  Aable par gaye pairoṅ mein badan tapne laga
 
   4
-
-  Pair kya haathon pe gardan pe pade hai chaale
-
-  Koi pani daale
-
-  Tapte hai tauq o salasil hai bahot garm hawa
-
+  Pair kya haathoṅ pe gardan pe pare haiṅ chhaale
+  Koi paani daale
+  Tapte haiṅ tauq o salaasil hai bahut garam hawa
 
   5
-
-  Kaante chub jaate hai chaale kabhi chil jaate hai
-
-  Haye dukh paate hai
-
-  Haye kis haal mein hai ibne shahe karbobala
-
+  Kaante chubh jaate haiṅ, chhaale kabhi chhil jaate haiṅ
+  Haaye dukh paate haiṅ
+  Haaye kis haal mein Ibn-e-Shah-e-Karbobala
 
   6
-
-  Aah karte hai to durron ki saza paate hai
-
-  Yun tadap jaate hai
-
-  Pa barehna ye aziyat ka safar aur ye jafa
-
+  Aah karte haiṅ to durroṅ ki saza paate haiṅ
+  Yuṅ tarap jaate haiṅ
+  Pa barahna ye aziyat ka safar aur ye jafa
 
   7
-
-  Loriyan deke jise sulaate thay jise shaahe umam
-
-  Hogaya kaisa sitam
-
-  Ab wohi naazon ka paala hai giraftaar e bala
-
+  Loriyaaṅ de ke jise sulaate the jise Shah-e-Umam
+  Ho gaya kaisa sitam
+  Ab wohi naazoṅ ka paala hai giraftaar-e-bala
 
   8
-
-  Taziyane kabhi maare kabhi pathar maare
-
-  Haye sheh ke pyare
-
-  Kis khadar zakhmi musafir pe hui jor o jafa
-
+  Taaziyaane kabhi maare kabhi patthar maare
+  Haaye shah ke pyaare
+  Kis qadar zakhmi musaafir pe hui jaur o jafa
 
   9
-
-  Cheekh uth''ti hai to zakhmon se lahoo behta hai
-
+  Chikh uthti hai to zakhmoṅ se lahu behta hai
   Har sitam sehta hai
-
-  Kis se faryad kare bhai na baba na chacha
-
+  Kis se faryaad kare bhai na baaba na chacha
 
   10
-
-  Shimr se bali sakina ko chudaye kaise
-
-  Jaan bachaye kaise
-
-  Hatkadi haathon mein hai tauq mein jakda hai gala
-
+  Shimr se baali Sakina ko chhuraaye kaise
+  Jaaṅ bachaaye kaise
+  Hathkari haathoṅ mein hai, tauq mein jakra hai gala
 
   11
-
-  Sar khule maayein hai behnein hai sitamgaaron mein
-
-  Haye bazaron mein
-
-  Sar jhukaye huwe rota hua khuddar chala
-
+  Sar khule maayeṅ haiṅ, bahneṅ haiṅ sitamgaaroṅ mein
+  Haaye baazaaroṅ mein
+  Sar jhukaaye hue rota hua khuddaar chala
 
   12
-
-  Dekh kar bete ki haalat ko tadap uth''ti ha maa
-
-  Ye bhi hota hai gumaan
-
-  Aa na jaaye kahin bemaar ko raste mein qaza
-
+  Dekh kar bete ki haalat ko tarap uthti hai maaṅ
+  Ye bhi hota hai gumaaṅ
+  Aa na jaaye kahiṅ bimaar ko raste mein qaza
 
   13
-
-  Haye kis haal mein hai sibte payambar ka pisar
-
-  Khaak udao gohar
-
-  Peet kar seena o sar bain karo ahle aza'
+  Haaye kis haal mein hai Sibt-e-Payambar ka pisar
+  Khaak uraao Gohar
+  Pit kar sina o sar bain karo ahl-e-aza
 ---
 
 ہاے بیمار چلا

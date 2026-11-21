@@ -13,39 +13,39 @@ aliases: ["Chala Jab Khafile"]
 published: true
 romanLyrics: |-
   Chala jab qaafile ko le ke su-e-Kufa o Shaam
-  Mera mazlum Imam
+  Mera mazlum Imaam
   Sar khule Zainab-e-muztar thi aur tha majma-e-aam
-  Mera mazlum Imam
+  Mera mazlum Imaam
 
   1
   Sar jhukaaye hue yuṅ chalte rahe Shaah-e-Umam
   Aur barh jaata tha yeh dekh ke bimaar ka gham
   Berida thi phuphi aur Shaam ka baazaar-e-aam
-  Mera mazlum Imam
+  Mera mazlum Imaam
 
   2
   Paaoṅ meiṅ beriyaaṅ thiṅ tauq gale meiṅ tha para
   Pusht-e-bimaar ke haathoṅ pe adu ke durra
-  Ghash kai baar safar meiṅ hue bimaar Imam
-  Mera mazlum Imam
+  Ghash kai baar safar meiṅ hue bimaar Imaam
+  Mera mazlum Imaam
 
   3
   Ro ro kehti thi Sakina phuphi ab kya ho ga
   Jhula jalne laga bhaai bhi mera ran ko gaya
   Aag khaimoṅ meiṅ lagi jal gaya asbaab tamaam
-  Mera mazlum Imam
+  Mera mazlum Imaam
 
   4
-  Laash-e-Qasim ko sameta Shaah-e-Diṅ ne jis dam
+  Laash-e-Qaasim ko sameta Shaah-e-Diṅ ne jis dam
   Mehndi haathoṅ pe lagi dekh ke rote the haram
   Rang yeh sehre ki mili khaak meiṅ kaisa tha sitam
-  Mera mazlum Imam
+  Mera mazlum Imaam
 
   5
   Khun tapakta hai Hasan nok-e-qalam se ab to
   Dil phata jaata hai is soz-e-aalam se ab to
   Girya karte haiṅ malak ro ke yehi subh o shaam
-  Mera mazlum Imam
+  Mera mazlum Imaam
 ---
 چلا جب قافلے کو لے کے سوئے کوفہ و شام
 میرا مظلوم امام

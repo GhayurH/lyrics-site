@@ -12,45 +12,45 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab gulu-e-khushk par khanjar chalaaya jaayega
-  Kis tarah se Zainab se ye sadma uthaaya jaayega
+  Jab gulu-e-khushk par khanjar chalaaya jaaye ga
+  Kis tarah se Zainab se ye sadma uthaaya jaaye ga
   Sayyeda ya Sayyeda ya Sayyeda ya Sayyeda
 
   1
-  Chhini jaayegi ridaaeṅ Zainab o Kulsum ki
-  Dar badar unko rasan basta phiraaya jaayega
+  Chhini jaaye gi ridaaeṅ Zainab o Kulsum ki
+  Dar badar un ko rasan basta phiraaya jaaye ga
 
   2
   Qatl-e-Akbar ki sadaaeṅ aa rahi hai dasht se
-  Kis tarah Shabbir se laasha uthaaya jaayega
+  Kis tarah Shabbir se laasha uthaaya jaaye ga
 
   3
   Saaqi-e-Kausar ka waaris hai alamdaar-e-Husain
-  Ab Sakina ka use saqqa banaaya jaayega
+  Ab Sakina ka use saqqa banaaya jaaye ga
 
   4
   Ik bhi aisa na tha jo zaalimoṅ se puchhta
-  Aur mazlum pe kab tak zulm dhaaya jaayega
+  Aur mazlum pe kab tak zulm dhaaya jaaye ga
 
   5
   Jin ke parde ke muhaafiz Akbar o Abbas the
-  Aah unko bar sar-e-darbaar laaya jaayega
+  Aah un ko bar sar-e-darbaar laaya jaaye ga
 
   6
   Ran meiṅ Qasim ke sarhaane chup khare haiṅ Shaah-e-Diṅ
-  Kis tarah paamaal laashe ko uthaaya jaayega
+  Kis tarah paamaal laashe ko uthaaya jaaye ga
 
   7
   Puchhte haiṅ zulm ke maasum rukhsaaroṅ ke nil
-  Kab tak aakhir in yatimoṅ ko rulaaya jaayega
+  Kab tak aakhir in yatimoṅ ko rulaaya jaaye ga
 
   8
   Waqt kaisa aa gaya Aal-e-Nabi par baad-e-Shaah
-  Ret par maasum bachchoṅ ko sulaaya jaayega
+  Ret par maasum bachchoṅ ko sulaaya jaaye ga
 
   9
   Dekhna hoga wahaaṅ bhi Shah ka maatam ae Faraaz
-  Hashr ke din jab Dilawar ko bulaaya jaayega
+  Hashr ke din jab Dilawar ko bulaaya jaaye ga
 ---
 جب گلوئے خشک پر خنجر چلایا جائے گا
 کس طرح سے زینب سے یہ صدمہ اٹھایا جائے گا

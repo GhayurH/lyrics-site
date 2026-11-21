@@ -1,7 +1,7 @@
 ---
 title: "پانچ اماموں کا رہا بن کے سہارا عباس"
 recitationId: "paanch-imamo-ka-raha"
-alternateTitle: "Paanch Imamoṅ Ka Raha"
+alternateTitle: "Paanch Imaamoṅ Ka Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,18 +12,18 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Paanch imamoṅ ka raha ban ke sahaara Abbas
+  Paanch imaamoṅ ka raha ban ke sahaara Abbas
 
   1
   Fatima Zehra ka beta Banu Haashim ka qamar
-  Chaudah maasumoṅ ki hai aaṅkh ka taara Abbas
+  Chaudah maasumoṅ ki hai aankh ka taara Abbas
 
   2
   Koi kya samjhe use jis ko kahe Aal-e-Nabi
   Hum haiṅ ghamkhwaar zamaane ke hamaara Abbas
 
   3
-  Khud hi mashkize meiṅ Abbas ke aa jaati Furaat
+  Khud hi mashkize mein Abbas ke aa jaati Furaat
   Us ko kar dete agar ek ishaara Abbas
 
   4
@@ -31,12 +31,12 @@ romanLyrics: |-
   Alqama par hai tera ab bhi ijaara Abbas
 
   5
-  Shah ne Abbas ko sauṅpi jo sipah saalaari
+  Shah ne Abbas ko saunpi jo sipah saalaari
   Har zabaan par hai faqat ek hi naara Abbas
 
   6
   Wo to kahiye na mila izn-e-wigha Ghaazi ko
-  Warna kis jang meiṅ afwaaj se haara Abbas
+  Warna kis jang mein afwaaj se haara Abbas
 
   7
   De ke mashkiza Sakina se kaha Sarwar ne
@@ -47,11 +47,11 @@ romanLyrics: |-
   Le ke mashkiza jo maidaaṅ ko sidhaara Abbas
 
   9
-  Rakh ke sar zaanu pe Abbas ka kehte the Husain
-  Saath ghurbat meiṅ na yuṅ chhoro khudaara Abbas
+  Rakh ke sar baazu pe Abbas ka kehte the Husain
+  Saath ghurbat mein na yuṅ chhoro khudaara Abbas
 
   10
-  Sar barehna jo haram the to sar-e-nok-e-sina
+  Sar barehna jo haram the sar-e-nok-e-sina
   Dekhta kaise bhala sharm ka maara Abbas
 
   11

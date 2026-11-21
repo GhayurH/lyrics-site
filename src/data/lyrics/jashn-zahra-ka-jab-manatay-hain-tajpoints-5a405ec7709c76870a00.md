@@ -1,59 +1,107 @@
 ---
-title: "Jashn Zahra Ka Jab Manatay Hain"
+title: "جشنِ زہرا کا جب مناتے ہیں"
+alternateTitle: "Jashn Zahra Ka Jab Manatay Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jashn Zahra ka jab manatay hain
+  Arsh walay bhi sunnay aatay hain
+  Yeh woh midhat hai jis ko sunne ko
+  Choda taray zameen pa aatay hain
+
+  2
+  Aaj pori hoi Nabi ki dua
+  Dil ka arman ab howa pora
+  Tana abtar ka ab na de koi
+  Khud Nabi keh ke muskuratay hain
+
+  3
+  Bolay rahib muqabila na karo
+  Aise chehron ka samna na karo
+  Reza reza pahar ho jaein
+  Ik ishara jo in ka patay hain
+
+  4
+  Thay Kisa mein Rasool our Imam
+  Zahra tera magar alag hai muqam
+  Tu taruf ke sab ka zariya hai
+  Markazi noor tujh ko patay hain
+
+  5
+  Baat Zahra ne jo agar keh di
+  Hukam ban kar woh arsh par pohanchi
+  Tere bachoon ke Eid ke kapre
+  Phir tu Rizwan si ke latay hain
+
+  6
+  Tere dar ke ghulam hain sare
+  Hoon woh jin-o-bashar falak walay
+  Tere dar se to rotiyaan lenay
+  Arsh walay zameen pe aate hain
+
+  7
+  Fikar-e-Dozakh na fikar-e-janat hai
+  Tere bachoon se agar muhabbat hai
+  Jab bhi jatay hain Karbala Zahra
+  Apni janat zameen pe patay hain
+
+  8
+  Joan jab bhi Quran parhte hain
+  Rizvi jitna bhi ghoor karte hain
+  Aisa lagta hai aye meri bibi
+  Woh qasida tera sunatay hain
 ---
 
-1
-Jashn Zahra Ka Jab Manatay Hain.
-Arsh Walay Bhi Sunnay Aatay Hain.
-Yeh Woh Midhat Hai Jis Ko Sunne Ko.
-Choda Taray Zameen Pa Aatay Hain.
+۱
+جشنِ زہرا کا جب مناتے ہیں
+عرش والے بھی سننے آتے ہیں
+یہ وہ مدحت ہے جس کو سننے کو
+چودہ تارے زمین پہ آتے ہیں
 
-2
-Aaj Pori Hoi Nabi Ki Dua.
-Dil Ka Arman Ab Howa Pora.
-Tana Abtar Ka Ab Na De Koi.
-Khud Nabi Keh Ke Muskuratay Hain.
+۲
+آج پوری ہوئی نبی کی دعا
+دل کا ارمان اب ہوا پورا
+طعنۂ ابتر کا اب نہ دے کوئی
+خود نبی کہہ کے مسکراتے ہیں
 
-3
-Bolay Rahib Muqabila Na Karo.
-Aise Chehron Ka Samna Na Karo.
-Reza Reza Pahar Ho Jaein.
-Ik Ishara Jo In Ka Patay Hain.
+۳
+بولے راہب مقابلہ نہ کرو
+ایسے چہروں کا سامنا نہ کرو
+ریزہ ریزہ پہاڑ ہو جائیں
+اک اشارہ جو ان کا پاتے ہیں
 
-4
-Thay Kisa Mein Rasool Our Imam.
-Zahra Tera Magar Alag Hai Muqam.
-Tu Taruf Ke Sab Ka Zariya Hai.
-Markazi Noor Tujh Ko Patay Hain.
+۴
+تھے کسا میں رسول اور امام
+زہرا تیرا مگر الگ ہے مقام
+تو تعارف کے سب کا ذریعہ ہے
+مرکزی نور تجھ کو پاتے ہیں
 
-5
-Baat Zahra Ne Jo Agar Keh Di.
-Hukam Ban Kar Woh Arsh Par Pohanchi.
-Tere Bachoon Ke Eid Ke Kapre.
-Phir Tu Rizwan Si Ke Latay Hain.
+۵
+بات زہرا نے جو اگر کہہ دی
+حکم بن کر وہ عرش پر پہنچی
+تیرے بچوں کے عید کے کپڑے
+پھر تو رضوان سی کے لاتے ہیں
 
-6
-Tere Dar Ke Ghulam Hain Sare.
-Hoon Woh Jin-o-Bashar Falak Walay.
-Tere Dar Se To Rotiyaan Lenay.
-Arsh Walay Zameen Pe Aate Hain.
+۶
+تیرے در کے غلام ہیں سارے
+ہوں وہ جن و بشر فلک والے
+تیرے در سے تو روٹیاں لینے
+عرش والے زمین پہ آتے ہیں
 
-7
-Fikar-e-Dozakh Na Fikar-e-Janat Hai.
-Tere Bachoon Se Agar Muhabbat Hai.
-Jab Bhi Jatay Hain Karbala Zahra.
-Apni Janat Zameen Pe Patay Hain.
+۷
+فکرِ دوزخ نہ فکرِ جنت ہے
+تیرے بچوں سے اگر محبت ہے
+جب بھی جاتے ہیں کربلا زہرا
+اپنی جنت زمین پہ پاتے ہیں
 
-8
- Joan Jab Bhi Quran Parhte Hain.
- Rizvi Jitna Bhi Ghoor Karte Hain.
-Aisa Lagta Hai Aye Meri Bibi.
-Woh Qasida Tera Sunatay Hain.
+۸
+جون جب بھی قرآن پڑھتے ہیں
+رضوی جتنا بھی غور کرتے ہیں
+ایسا لگتا ہے اے میری بی‌بی
+وہ قصیدہ تیرا سناتے ہیں

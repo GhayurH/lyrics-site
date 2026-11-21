@@ -9,33 +9,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Begunah mara gaya sibte rasool e dosara wa Hasan e sabz e qaba
+  Begunaah maara gaya Rasul-e-dosara wa Hasan-e-sabz qaba
 
   1
-  Kalma goyo nai kiya khoob kiya wada wafa
+  Kalma goyoṅ ne kya khub kiya waada-e-wafa
 
   2
-  Bhai ki lash peh ro ro keh yeh Zainab nai kaha
-  Arzoo thi bhaiya
-  Kash Abudullah o Qasim ko banateh doolah
-  Wa Hasan e sabz qaba.
-  Aik toh bagh e fidaq or khilafaat cheeni
-  Uss pay ki bay deeni
-  Pehlu main nana keh bhi dafn nahin hone diya
-  Wa Hasan e sabz qaba
-  Tere taboot peh kis wasteh mare gaye teer
-  Aye musalamano keh peer
-  Kalma parhte na theh jud ka tere Ahle- Jafa
+  Khuṅ ugalte hue bhaai ko behan ne dekha
+  Yuṅ tarap kar ye kaha
+  Teri ghurbat pe ae bhaai teri Zainab ho fida
+  Maaṅ ke gham se abhi aazaad kahaaṅ thi Zainab
+  Ho gaya kaisa ghazab
+  Baaba zinda na raha bhaai su-e-khuld chala
 
   3
-  Khuld seh aaye sada baita Hasan jaldi aa
-  Takeh doon tujh ko dekha
-  Teer mare tujh chalnee hai kaleja mera
-  Wa Hasan e sabz qaba
-  Waqt e rehlat teray nana hai waseeat ki thi
-  Uspeh takeed e ye kee
-  Ahlebait aur e kalamul lah heh bas mere siwa
-  Wa Hasan e sabz qaba
+  Ghar se ik baar janaaza jo nikal jaata hai
+  Bhar wo kab aata hai
+  Ye wo taabut hai jo laut ke phir ghar ko chala
+
+  4
+  Shah ne us waqt jo Ghaazi ko na roka hota
+  Hashr ho jaata bapa
+  Chhor aate na janaaze ko utha kar Maula
+
+  5
+  Bhaai ki laash pe ro ro keh ye Zainab ne kaha
+  Aarzu thi bhaiya
+  Kaash Abdullah o Qaasim ko banaate dulha
+
+  6
+  Ek to baagh-e-Fadak aur khilaafat chhini
+  Us pe ki bedini
+  Pehlu meiṅ naana ke bhi dafn nahiṅ hone diya
+
+  7
+  Tere taabut pe kis waaste maare gaye tir
+  Ae musalmaanoṅ ke pir
+  Kalma parhte na the jad ka tere ahl-e-jafa
+
+  8
+  Khuld se aai sada beta Hasan jaldi aa
+  Taake duṅ tujh ko dikha
+  Tir maare tujhe chhalni hai kaleja mera
+
+  9
+  Waqt-e-rehlat tere naana ne wasiyat ki thi
+  Us pe taaqid ye ki
+  Ahl-e-bait aur Kalaam-Allah bas mere siwa
 ---
 
 بےگناہ مارا گیا رسول دوسرا وا حسن سبز قبا

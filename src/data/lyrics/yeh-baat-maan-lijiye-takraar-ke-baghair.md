@@ -34,7 +34,7 @@ romanLyrics: |-
 
   6
   Chaahe Ali Ali kar chaaho parho namaaz
-  Dono adhure lagte haiṅ kirdaar ke baghair
+  Donoṅ adhure lagte haiṅ kirdaar ke baghair
 
   7
   Dil kehta hai woh aate hi pahoncheṅ ge Karbala

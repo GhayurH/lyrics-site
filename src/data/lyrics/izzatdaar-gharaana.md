@@ -40,7 +40,7 @@ romanLyrics: |-
   3
   Sardaar farishtoṅ ka aa kar
   Is ghar meiṅ jhulaata hai jhula
-  Takht aur taaj ko thukra kar
+  Takht aur taaj ko thukraa kar
   Aai haiṅ kanizi meiṅ Fizza
   Naukar jo bhi hai is ghar ka
   Andaaz uska shaahaana hai
@@ -83,7 +83,7 @@ romanLyrics: |-
 
   9
   Kaabe meiṅ zuhur hua jis ka
-  Masjid meiṅ usko qatl kiya
+  Masjid meiṅ us ko qatl kiya
   Izzat bhi bari ghurbat bhi bari
 
   10
@@ -93,7 +93,7 @@ romanLyrics: |-
 
   11
   Jise khuld se kapre bheje gae
-  Bekafan raha uska laasha
+  Bekafan raha us ka laasha
   Izzat bhi bari ghurbat bhi bari
 
   12

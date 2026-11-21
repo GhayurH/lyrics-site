@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Farsh-e-zamin pe baith ke rone lage Husain
-  Bhai ke saath ek safar mukhtasar hua
+  Bhai ke saath ik safar mukhtasar hua
 
   4
   Larzaaṅ thi qabr haaye Nabi o Batul ki
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Tukre gire Hilal bahattar jo tasht meiṅ
-  Aaghaaz-e-Karbala se jahaaṅ baa khabar hua
+  Aaghaaz-e-Karbala se jahaaṅ baakhabar hua
 ---
 جب زہر کا امام حسن پر اثر ہوا
 خون جگر سے داور دیدر بتر ہوا

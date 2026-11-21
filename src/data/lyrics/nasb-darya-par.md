@@ -20,11 +20,11 @@ romanLyrics: |-
 
   2
   Nahr ki thandi hawa aati hai jab bimaar ko
-  Kahte haiṅ Sajjad ae Baba maiṅ achchha ho chuka
+  Kehte haiṅ Sajjad ae Baba main achchha ho chuka
 
   3
   Aakhri ghar ke liye lete haiṅ Hazrat kuchh rabib
-  Karbala meiṅ hashr tak maalum rahna ho chuka
+  Karbala mein hashr tak maalum rehna ho chuka
 
   4
   Neza o shamshir o khanjar jama laakhoṅ ho chuke

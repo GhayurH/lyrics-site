@@ -13,7 +13,7 @@ aliases: ["Ye Azakhanae Hussain"]
 published: true
 romanLyrics: |-
   Ae azaadaaroṅ suno
-  Ae naunihaaloṅ suno
+  Ae naunihaal suno
   Ae pursadaaroṅ suno
   Husain ya Husain
   Ya Husain ya Husain
@@ -42,7 +42,7 @@ romanLyrics: |-
   Ye azaakhaana-e-Husain hai
 
   4
-  Ek alam baawafa ka sajta hai
+  Ik alam baawafa ka sajta hai
   Is alam par Khuda ka saaya hai
   Ho ke bedast wo sakhi ab tak
   Saari duniya ki jholi bharta hai
@@ -61,9 +61,9 @@ romanLyrics: |-
 
   6
   Shab ki tanhaai meiṅ suno aksar
-  Ek Bibi yahaaṅ hai nauhagar
+  Ik Bibi yahaaṅ hai nauhagar
   Apne bete ka pursa lene ko
-  Khud baqayya se aayi hai maadar
+  Qad baqayya se aayi hai maadar
   Rone waaloṅ se ro ke kehti hai
   Is ko aabaad hi sada rakhna
   Ye azaakhaana-e-Husain hai
@@ -92,7 +92,7 @@ romanLyrics: |-
   Maaṅ ki aaghosh meiṅ suna nauha
   Maaṅ ki aaghosh meiṅ kiya maatam
   Aur Irfan jab alam dekhe
-  Maiṅ ne rote hue parha nauha
+  Main ne rote hue parha nauha
   Ye azaakhaana-e-Husain hai
 ---
 اے عزاداروں سنو

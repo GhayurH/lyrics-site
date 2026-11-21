@@ -8,89 +8,52 @@ poet: "Saqlain"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Boli zehra zainab ka yun saath nibhana
-
+romanLyrics: |-
+  Boli Zehra Zainab ka yuṅ saath nibhaana
 
   1
-
-  Aghyaar ke majme mein fizza tu rida banke
-
-  Zainab ko chupana
-
+  Aghyaar ke majme mein Fizza tu rida ban ke
+  Zainab ko chhupaana
 
   2
-
-  Pehli manzil to karbala hai magar
-
-  Saath abbas bhi wahan hoga
-
-  Dard karbobala ka apni jagah
-
-  Bas mujhe shaam ka hai gham fizza
-
-  Khud dekh chuki hoo mai mushkil hai bahot fizza
-
-  Darbar mein jaana
-
+  Pehli manzil to Karbala hai magar
+  Saath Abbas bhi wahaaṅ ho ga
+  Dard Karb o Bala ka apni jagah
+  Bas mujhe Shaam ka hai gham Fizza
+  Khud dekh chuki huṅ main mushkil hai bahut Fizza
+  Darbaar mein jaana
 
   3
-
-  Tashnagi hadh se bad gayi hogi
-
-  Rote bachon ko wo sambhalegi
-
-  Apne hisse ka aab bhi zainab
-
-  Pyase bachon mein baat daalegi
-
-  Khud apne hi hisse se kuch pani bacha kar tum
-
-  Zainab ko pilana
-
+  Tashnagi had se barh gayi ho gi
+  Rote bachchoṅ ko woh sambhaale gi
+  Apne hisse ka aab bhi Zainab
+  Pyaase bachchoṅ mein baant daale gi
+  Khud apne hi hisse se kuchh paani bacha kar tum
+  Zainab ko pilaana
 
   4
-
-  Mujh ko maloom hai yateemi mein
-
-  Log jab rokte hai rone se
-
-  Us ghadi dil pe kya guzarti hai
-
-  Mai samajhti hoo dukh sakina ke
-
-  Dil khol ke baba ki mayyat pe wo role to
-
-  Mayyat se uthana
-
+  Mujh ko maalum hai yatimi mein
+  Log jab rokte haiṅ rone se
+  Us ghari dil pe kya guzarti hai
+  Main samajhti huṅ dukh Sakina ke
+  Dil khol ke baaba ki mayyat pe woh roye to
+  Mayyat se uthaana
 
   5
-
-  Khaafila jab chalega sehra se
-
-  Koi maqtal mein choot jaayegi
-
-  Issay pehle ke pahunche zainab tak
-
-  Shimr ke haath aayegi bachi
-
-  Tab shimr ke haaton se tum meri sakina ke
-
-  Baalon ko chudana
-
+  Qaafila jab chale ga sehra se
+  Koi maqtal mein chhut jaaye gi
+  Is se pehle ke pahunche Zainab tak
+  Shimr ke haath aaye gi bachchi
+  Tab Shimr ke haathoṅ se tum meri Sakina ke
+  Baaloṅ ko chhuraana
 
   6
-
-  Sun ke binte nabi ki baaton ko
-
-  Boli saqlain fizza zehra se
-
-  Tumse bibi yehi guzaarish hai
-
-  Jitne waade kiye hai fizza ne
-
-  Mai kaise nibhati hoo un shaam ke galiyon mein
-
-  Tum dekhne aana'
+  Sun ke Bint-e-Nabi ki baatoṅ ko
+  Boli Saqlain Fizza Zehra se
+  Tum se Bibi yahi guzaarish hai
+  Jitne waade kiye haiṅ Fizza ne
+  Main kaise nibhaati huṅ un Shaam mein galiyoṅ mein
+  Tum dekhne aana
 ---
 
 بولی زہراؑ زینبؑ کا یوں ساتھ نبھانا

@@ -18,43 +18,43 @@ romanLyrics: |-
   Yuṅ maadar-e-Shabbir pareshaan hai ban meiṅ
   Roti hai tarapti hai wo hairaan hai ban meiṅ
   Kahti hai ke duniya meri viraan hai ban meiṅ
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 
   2
   Sar ek hai lekin hai talabgaar hazaaroṅ
   Tanha mera Shabbir sitamgaar hazaaroṅ
   Ik jaan pe tute haiṅ jafaakaar hazaaroṅ
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 
   3
   Mazlum ke bachne ki koi aas nahiṅ hai
   Sab mar gaye hamdard koi paas nahiṅ hai
   Akbar nahiṅ Qaasim nahiṅ Abbaas nahiṅ hai
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 
   4
   Barhte hue aate haiṅ idhar barchhiyoṅ waale
   Koi bhi nahiṅ jo mere bachche ko bacha le
   Hai koi jo is maadar-e-bekas ki dua le
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 
   5
-  Sad haif wo hai nargha-e-aada meiṅ giraftaar
+  Sad haif wo hai nargha-e-aadaa meiṅ giraftaar
   Tiroṅ ki hai bauchhaar to shamshir ke haiṅ waar
   Lo jhumta hai pusht-e-faras par mera dildaar
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 
   6
   Hilti hai zamiṅ aur falak hota hai larzaaṅ
   Khaime se nikal aai hai Zainab su-e-maidaaṅ
   Hone laga bachche ke mere qatl ka saamaaṅ
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 
   7
   Baad-e-Shah-e-mazlum Mujaahid ye hua tha
   Sab jal gaye khaime ye falak dekh raha tha
   Noha yahi Zehra ka faqat gunj raha tha
-  Hai laal mera aaj lainoṅ ke hawaale
+  Hai laal mera aaj la'inoṅ ke hawaale
 ---
 
 نزدیک نجف ہے کوئی حیدر کو بلالے

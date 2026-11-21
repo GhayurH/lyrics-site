@@ -8,60 +8,60 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Chadarein sar pe nahi, saath alamdar nahi
-  Des begana, yahan koi madadgar nahi
+  Chaadareṅ sar pe nahiṅ, saath alamdaar nahiṅ
+  Des begaana, yahaaṅ koi madadgaar nahiṅ
 
   1
-  Shamiyon sharm karo, dur hato parda karo
-  Zehra-e-Sani hai, kabhi aayi ye bazaar nahi
+  Shaamiyoṅ sharm karo, dur hato parda karo
+  Zehra saani hai, kabhi aayi ye bazaar nahiṅ
 
   2
   Ae Shimr zulm na kar, ro ke ye Fizza ne kaha
-  Taziyanon ke qabil Abid-e-bimar nahi
+  Taaziyanoṅ ke qabil Aabid-e-bimaar nahiṅ
 
   3
-  Tisra din hai dar-e-saat pe Zainab hai khari
-  Hai abhi der, saja Sham ka darbar nahi
+  Tisra din hai dar-e-saa'at pe Zainab hai khari
+  Hai abhi der, saja Shaam ka darbar nahiṅ
 
   4
-  Ae Musalmano mujhe chand ridaein de do
-  Mangta is ke siwa kuchh bhi ye bimar nahi
+  Ae Musalmaano mujhe chand ridaaeṅ de do
+  Maaṅgta is ke siwa kuchh bhi ye bimaar nahiṅ
 
   5
-  Chadarein gar nahi dete to batao mujh ko
-  Kya Nabi zadiyan ye khums ki haqdar nahi
+  Chaadareṅ gar nahiṅ dete to batao mujh ko
+  Kya Nabi zaadiyaaṅ ye khums ki haqdaar nahiṅ
 
   6
-  Chashm-e-Sajjad mein ye khun ke dhare kiun hain
-  Is ke rone ka sabab tauq-e-giranbar nahi
+  Chashm-e-Sajjad meiṅ ye khun ke dhaare kiuṅ haiṅ
+  Is ke rone ka sabab tauq-e-giraaṅ baar nahiṅ
 
   7
-  Raste kaise hain, ye kaisi hain galiyan logo
-  In se waqif ye meri itrat-e-athar nahi
+  Raaste kaise haiṅ, ye kaisi haiṅ galiyaaṅ logo
+  In se waqif ye mere itrat-e-athaar nahiṅ
 
   8
-  Kiun ye har gaam mujhe khun rulae ghairat
-  Meri in aankhon ne dekhe kabhi bazaar nahi
+  Kiuṅ ye har gaam mujhe khun rulae ghairat
+  Meri in aaṅkhoṅ ne dekhe kabhi bazaar nahiṅ
 
   9
-  Saath amma hain meri aur sinan par baba
-  Mujh ko le jana abhi zulm ke darbar nahi
+  Saath ammaaṅ haiṅ meri aur sinaaṅ par baba
+  Mujh ko le jaana abhi zulm ke darbar nahiṅ
 
   10
   Meri ghairat bhi buka karne lagi hai mujh par
-  berida Ahl-e-Haram, koi madadgar nahi
+  Berida Ahl-e-Haram, koi madadgaar nahiṅ
 
   11
-  Dhoop hai sar pe kari, us pe sitam khak-e-safar
-  Meri taqdir mein ab saya-e-divar nahi
+  Dhup hai sar pe kari, us pe sitam khak-e-safar
+  Meri taqdir meiṅ ab saaya-e-diwaar nahiṅ
 
   12
-  Imtehan kaisa hai ye bhai mujhe batla do
-  Jang larni hai magar haath mein talwar nahi
+  Imtihaaṅ kaisa hai ye bhai mujhe batla do
+  Jang larni hai magar haath meiṅ talwaar nahiṅ
 
   13
-  Raaz Mazhar ye khula qaid-e-sitam mein ik din
-  Jis ko bimar samajhte the wo bimar nahi
+  Raaz Mazhar ye khula qaid-e-sitam meiṅ ik din
+  Jis ko bimaar samajhte the wo bimaar nahiṅ
 ---
 
 چادریں سر پہ نہیں ساتھ علمدار نہیں

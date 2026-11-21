@@ -9,163 +9,87 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Betiyan To Sab Ko Pyari Hoti Hain Syed Raza Abbas Zaidi"
-romanLyrics: 'Zindan-e-Sham Mein Woh Qayamat Ka Waqt Tha.
-
-  Sonpa Gaya Sakina Ko Jab Sar Hussain Ka.
-
+romanLyrics: |-
+  Zindaan-e-Shaam mein woh qayaamat ka waqt tha
+  Saunpa gaya Sakina ko jab sar-e-Husain ka
 
   1
-
-  Baba Ke Zakhmi Chehray Se Khoon Saaf Jab Kiya.
-
-  Baloon Se Khak Jhar Ke Beti Ne Yeh Kaha.
-
-  Tum Tu Kehte They Sakina, Tum Bin Mera Dil Nahi Lagta.
-
-  Phir Kyun Itni Dair Ki Aane Mein Tum Ne Baba.
-
+  Baaba ke zakhmi chehre se khuṅ saaf jab kiya
+  Baaloṅ se khaak jhaar ke beti ne yeh kaha
+  Tum to kehte the Sakina
+  Tum bhi mera dil nahiṅ lagta
 
   2
-
-  Betiyaan Tu Sab Ko Pyari Hoti Hain Na Baba.
-
-  Dekho Mujh Ko Sham Ke Logon Ne Kitna Mara.
-
-  Aap They Jab Tak Sath Aye Baba Yeh Beti Shehzadi Thi.
-
-  Naaz Uthatay They Sab Mere Sab Ki Pyari Beti Thi.
-
+  Phir kiuṅ itni der ki aane tum ne Baaba
+  Betiyaaṅ to sab ko pyaari hoti hai na Baaba
+  Dekho mujh ko Shaam ke logoṅ ne kitna maara
+  Aap the jab tak saath ae Baaba yeh beti shehzaadi thi
 
   3
-
-  Hath Chacha Rakhtay They Zameen Par Ghar Mein Jab Main Chalti Thi.
-
-  Mujh Ko Sahara Deney Sab Uth Jate They Jab Girti Thi.
-
-  Lekin Yeh Masoom Sakina, Jab Giri Naqay Se Baba.
-
-  Mujhe Sahara Kyun Deney Koi Bhi Na Aaya.
-
+  Naaz uthaate the sab mere sab ki pyaari beti thi
+  Haath chacha rakhte the zamiṅ par ghar mein jab main chalti thi
+  Mujh ko sahaara dene sab uth jaate the jab girti thi
+  Lekin yeh maasum Sakina jab giri naaqe se Baaba
 
   4
-
-  Mujhe sahara kyun dene koi bhi na aaya baba
-
-  Betiyan to sab ko pyari...
-
-  Pyare ammu chod gaye thay pani ko mai tarsi thi
-
-  Bas ye mai hi jaanti hoon bazaar mein kaise chalti thi
-
+  Mujhe sahaara kiuṅ dene koi bhi na aaya Baaba
+  Betiyaaṅ to sab ko pyaari...
+  Pyaare ammu chhor gaye the paani ko main tarasti thi
+  Bas yeh main hi jaanti huṅ baazaar mein kaise chalti thi
 
   5
-
-  Pyaray Ammo Chor Gaye They Pani Ko Main Tarsi Thi.
-
-  Bas Yeh Main Hi Janti Hoon Bazar Mein Kaisay Chalti Thi.
-
-  Shimar Tamachay Marta Tha Jab Bhi Thak Kar Main Rukti Thi.
-
-  Mujh Ko Yeh Bhi Yaad Nahi Tha Ke Main Kab Se Pyasi Thi.
-
+  Shimar tamaanche maarte tha jab bhi thak kar main rukti thi
+  Mujh ko yeh bhi yaad nahiṅ tha ke main kab se pyaasi thi
+  Apni betiyoṅ ko yeh Shaami laa laa kar dete the paani
+  Jab main paani maangti thi khaati thi kiuṅ durra
 
   6
-
-  Apni Betiyon Ko Yeh Shami, La La Kar Detey They Pani.
-
-  Jab Main Pani Mangti Thi Khati Thi Kyun Durrah.
-
-  Chom Ke Baba Ka Zakhmi Sar Beti Boli Aye Baba.
-
-  Kuch Din Pehle Qaid Mein Mujh Se Milney Aayi Thi Ramla.
-
+  Chum ke Baaba ka zakhmi sar beti boli ae Baaba
+  Kuchh din pehle qaid mein mujh se milne aayi thi Ramla
+  Mere gauhar pehne thi mujh ko us baat ka gham na tha
 
   7
-
-  Mere Gohar Pehni Thi Mujh Ko Iss Baat Ka Gham Na Tha.
-
-  Main Yeh Soch Ke Roney Lagi Jab Dekha Ramla Ka Chehra.
-
-  Zalim Ne Darbar Mein Baba, Mujhe Kaneezi Mein Jab Manga.
-
-  Oss Ke Ghar Mein Bhi Tu Ik Beti Hai Kyun Na Socha.
-
+  Main yeh soch ke rone lagi jab dekha Ramla ka chehra
+  Zaalim ne darbaar mein Baaba mujhe kanizi mein jab maanga
+  Us ke ghar mein bhi to ek beti hai kiuṅ na socha
 
   8
-
-  Baba Aap Ka Qatil Mere Samne Jab Bhi Aata Tha.
-
-  Aap Ka Jis Pe Khon Laga Tha Woh Khanjar Lehrata Tha.
-
-  Bandh Ke Mujh Ko Rasi Se Rahwar Woh Jab Dorata Tha.
-
-  Nook-e-Sina Se Mere Chacha Abbas Ka Sar Gir Jata Tha.
-
+  Baaba aap ka qaatil mere saamne jab bhi aata tha
+  Aap ka jis pe khuṅ laga tha woh khanjar lehraata tha
+  Baandh ke mujh ko rassi se rahwaar woh jab dauraata tha
+  Nok-e-sinaaṅ se mere chacha Abbas ka sar gir jaata tha
 
   9
-
-  Lekin mera haal kyun tumne na aa kar poocha
-
-  Betiyan to sab ko pyari...
-
-  Sar e hussain pukara beti yaad karo na wo manzar
-
-  Baba baba kehte huwe jab girti thi tum laashon par
-
+  Neze par us waqt ae Baaba ko main rote dekha
+  Aalam ne jab raah mein baaloṅ se mujhe khaincha
+  Aag lagi thi daaman mein aur haath tha zakhmi kaanoṅ par
 
   10
-
-  Nezay Par Oss Waqt Aye Baba, Aap Ko Main Ne Rotay Dekha.
-
-  Zalim Ne Jab Rah Mein Baloon Se Mujhe Khaincha.
-
-  Aag Lagi Thi Daman Mein Our Hath Tha Zakhmi Kano Par.
-
-  Sham-e-Ghareebaan Mein Jab Tum Ko Dhondney Nikli Main Bahir.
-
+  Shaam-e-Gharibaaṅ mein jab tum ko dhundne nikli main baahar
+  Baaba main ne dekha tha apni aankhoṅ se woh manzar
+  Daada ko aawaaz phuphi Zainab ne jab di ro ro kar
+  Beti ki aawaaz pe haaye Daada Ali to milne aaye
 
   11
-
-  Baba Main Ne Dekha Tha Apni Aankhon Se Woh Manzar.
-
-  Dada Ko Aawaz Phophi Zainab Ne Jab Di Ro Ro Kar.
-
-  Beti Ki Aawaz Pe Haye, Dada Ali Tu Milney Aaye.
-
-  Lekin Mera Haal Kyun Tum Ne Na Aa Kar Pocha.
-
+  Lekin mera haal kiuṅ tum ne na aa kar puchha
+  Sar-e-Husain pukaara beti yaad karo na woh manzar
+  Baaba Baaba kehte hue jab girti thi tum laashoṅ par
 
   12
-
-  Sar-e-Hussain Pukara Beti Yaad Karo Na Woh Manzar.
-
-  Baba Baba Kehte Hoye Jab Girti Thi Tum Lashon Par.
-
-  Main Ne Hi Tu Pas Bulaya Tha Shehzadi Yeh Keh Kar.
-
-  So Ja Meri Bachi Zakhmi Seene Pe Tu Sar Rakh Kar.
-
+  Main ne hi to paas bulaaya tha shehzaadi yeh keh kar
+  So ja meri bachchi zakhmi sine pe tu sar rakh ke
+  Be sar tha beti yeh Baaba paas tumhaare kaise aata
+  Tum ne jab aawaaz de kar bola tha ae Baaba
 
   13
-
-  Be Sar Tha Beti Yeh Baba, Pas Tumhare Kaisay Aata.
-
-  Tum Ne Jab Aawaz De Kar Bola Tha Aye Baba.
-
-  Beti Baba Se Boli Ab Chor Ke Mujh Ko Mat Jana.
-
-  Kab Tak Hai Meri Qismat Mein Zalim Ke Durray Khana.
-
+  Beti Baaba se boli ab chhor ke mujh ko mat jaana
+  Kab tak hai meri qismat mein zaalim ke durre khaana
+  Tum bhaiya Sajjad se keh do mujh ko yahi par dafnaana
 
   14
-
-  Tum Bhaiyya Sajjad Se Keh Do Mujh Ko Yahin Par Dafnana.
-
-  Baap Se Batein Kartay Kartay Aakhri Hichki Ka Aana.
-
-  Aye Zeeshan-o- Raza Ro Ro Kar, Baba Ke Munh Pe Munh Rakh Kar.
-
-  Bali Sakina Ne Bas Yeh Kehte Hoye Dam Tora.'
+  Baap se baateiṅ karte karte aakhri hichki ka aana
+  Ae Zeeshan o Raza ro ro kar Baaba ke munh pe munh rakh kar
+  Baali Sakina ne bas yeh kehte hue dam tora
 ---
 
 زندان شام میں وہ قیامت کا وقت تھا

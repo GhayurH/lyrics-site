@@ -1,53 +1,96 @@
 ---
-title: "Jang E Sifeen Moula Abbas Ka Hamla Naeem Raza Haider"
+title: "جنگِ صفین، مولا عباس کا حملہ، نعیم رضا حیدر"
+alternateTitle: "Jang-e-Sifeen Moula Abbas Ka Hamla Naeem Raza Haider"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Azhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jang e Sifeen Moula Abbas ka hamla Naeem Raza Haider
+  Fair main Abbas nayi
+  14 ki raza ban ke yeh almas laray ga
+  Al-Hamd ki meezan pe Wal Naas laray ga
+
+  2
+  Shabeer ka nasir hai shujat ki sand hai
+  Yeh jang Ali ban ke Abbas laray ga
+  Aj Jang-e-Khaybar da tawano naqsha jay na wikhawaan
+  Khaybar de dar wangoon dushmana da sar na uranwaan
+
+  3
+  Larda aye Haider way har koi aakhay ga
+  Jang meri pehli aye Khaliq v wekhay ga
+  Band meri muthi che sab di qaza aye
+  Taig-e-Wafa chalsi le ke qaza chalsi Ghazi da wadah riya
+
+  4
+  Dushman tere di Baba nasal jay aj na mokanwaan
+  Maidaan ko batil ka maqtal main bana doon ga
+  Shamsheer-e-Imraan ka jalwa main dikha doon ga
+  Ban ke Ali ka Ali main laron ga
+
+  5
+  Aagay barhoon ga keh jab main laron ga sametay ga Jibreel par
+  Hamza se ab main daad-e-shujat le jo na paon
+  Sani nayi koi mainda Siffeen bolay ga
+  Wekhay ga jang maindi Khaybar v dolay ga
+
+  6
+  Taray likh de lashkar koon pal wich muka saan
+  Dewo ijazat taan looh-e-imamat taan Baba jee likho zara
+  Dushman tainday taun jay na Ali de narey lawawaan
+  Muhammad jo aan tu Haider Moazma jo haan maa Haider
+
+  7
+  Nabiyan jo tu nasir aan imaman jo haan maa nasir
+  Rajaz parhi jadhan hamlo kundus maa
+  Arshan khaan dad aindi eha aawaz aindi Azhar ko ayehro na aa
+  Siffeen khayi har munkir jay laye dozakh na thahiyaan
 ---
 
-1
-Jang e Sifeen Moula Abbas Ka Hamla Naeem Raza Haider.
-Fair Main Abbas Nayi.
-14 Ki Raza Ban Ke Yeh Almas Laray Ga.
-Al-Hamd Ki Meezan Pe Wal Naas Laray Ga.
+۱
+جنگِ صفین، مولا عباس کا حملہ، نعیم رضا حیدر
+فیر میں عباس نئیں
+۱۴ کی رضا بن کے یہ الماس لڑے گا
+الحمد کی میزان پہ والناس لڑے گا
 
-2
-Shabeer Ka Nasir Hai Shujat Ki Sand Hai.
-Yeh Jang Ali Ban Ke Abbas Laray Ga.
-Aj Jang-e-Khaybar Da Tawano Naqsha Jay Na Wikhawaan.
-Khaybar De Dar Wangoon Dushmana Da Sar Na Uranwaan.
+۲
+شبیر کا ناصر ہے، شجاعت کی سند ہے
+یہ جنگ علی بن کے عباس لڑے گا
+اج جنگِ خیبر دا تہانوں نقشہ جے نہ وکھاواں
+خیبر دے در وانگوں دشمناں دا سر نہ اڑاواں
 
-3
-Larda Aye Haider Way Har Koi Aakhay Ga.
-Jang Meri Pehli Aye Khaliq V Wekhay Ga.
-Band Meri Muthi Che Sab Di Qaza Aye.
-Taig-e-Wafa Chalsi Le Ke Qaza Chalsi Ghazi Da Wadah Riya.
+۳
+لڑدا اے حیدر وے، ہر کوئی آکھے گا
+جنگ میری پہلی اے، خالق وی ویکھے گا
+بند میری مٹھی چے سب دی قضا اے
+تیغِ وفا چلسی، لے کے قضا چلسی، غازی دا وعدہ ریا
 
-4
-Dushman Tere Di Baba Nasal Jay Aj Na Mokanwaan.
-Maidaan Ko Batil Ka Maqtal Main Bana Doon Ga.
-Shamsheer-e-Imraan Ka Jalwa Main Dikha Doon Ga.
-Ban Ke Ali Ka Ali Main Laron Ga.
+۴
+دشمن تیرے دی بابا نسل جے اج نہ مکاواں
+میدان کو باطل کا مقتل میں بنا دوں گا
+شمشیرِ عمران کا جلوہ میں دکھا دوں گا
+بن کے علی کا علی میں لڑوں گا
 
-5
-Aagay Barhoon Ga Keh Jab Main Laron Ga Sametay Ga Jibreel Par.
-Hamza Se Ab Main Daad-e-Shujat Le Jo Na Paon.
-Sani Nayi Koi Mainda Siffeen Bolay Ga.
-Wekhay Ga Jang Maindi Khaybar V Dolay Ga.
+۵
+آگے بڑھوں گا کہ جب میں لڑوں گا، سمیٹے گا جبریل پر
+حمزہ سے اب میں دادِ شجاعت لے جو نہ پاؤں
+ثانی نئیں کوئی میندا، صفین بولے گا
+ویکھے گا جنگ میندی، خیبر وی ڈولے گا
 
-6
-Taray Likh De Lashkar Koon Pal Wich Muka Saan.
-Dewo Ijazat Taan Looh-e-Imamat Taan Baba Jee Likho Zara.
-Dushman Tainday Taun Jay Na Ali De Narey Lawawaan.
-Muhammad Jo Aan Tu Haider Moazma Jo Haan Maa Haider.
+۶
+ترے لکھ دے لشکر کوں پل وچ مکا ساں
+دیوو اجازت تاں لوحِ امامت تاں بابا جی لکھو ذرا
+دشمن تیندے توں جے نہ علی دے نعرے لواواں
+محمد جو آں تُوں حیدر، معظمہ جو ہاں ماں حیدر
 
-7
-Nabiyan Jo Tu Nasir Aan Imaman Jo Haan Maa Nasir.
-Rajaz Parhi Jadhan Hamlo Kundus Maa.
-Arshan Khaan Dad Aindi Eha Aawaz Aindi Azhar Ko Ayehro Na Aa.
-Siffeen Khayi Har Munkir Jay Laye Dozakh Na Thahiyaan.
+۷
+نبین جو تُوں ناصر آں، امامن جو ہاں ماں ناصر
+رجز پڙهي جڏهن حملو ڪندس مان
+عرشن کان داد ايندي، اها آواز ايندي، اظهر ڪو اهڙو نہ آ
+صفين کائي هر منڪر جي لاءِ دوزخ نہ ٺهيان

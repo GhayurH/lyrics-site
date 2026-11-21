@@ -1,89 +1,167 @@
 ---
-title: "Parhte Raho Sare Nad E Ali Joan Rizvi"
+title: "پڑھتے رہو سارے نادِ علی"
+alternateTitle: "Parhte Raho Sare Nad-e-Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Joan"
-tags: ["noUrdu"]
+poet: "Joan Rizvi"
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Parhte raho sare Nad-e-Ali Joan Rizvi
+  Parhtay raho sare Nad-e-Ali
+  Logo pareshan, hotey ho kyun tum, har kam ho jaye ga
+  Aaein gay woh jab bulao gay tum
+
+  2
+  Mushkil mein pas unn ko pao gay tum
+  Tum baat kar ke tu dekho kabhi
+  Jo bhi kaho gay sunein gay abhi
+  Hajat rawa hain, woh mushkil kusha hain, sab ka hain woh aasra
+
+  3
+  Mosa ke mujh ko assa ki qasam
+  Mushkil mein unn par howa youn karam
+  Be khof pani pe rakha qadam
+  Kehte hoye ya Ali dam ba dam
+
+  4
+  Pani pe mara, assa tu bana phir, unn ke liye rasta
+  Ghaira ho tujh ko balaon ne gar
+  Lag jaye koi agar bad nazar
+  Ya sehar-o-jado ka ho koi dar
+
+  5
+  Inn sab pe hota hai iss ka asar
+  Yeh hi wazifa, hai toor sab ka, hai yeh hi rad-e-bala
+  Aa kar qaza jin ke dar par ruki
+  Jin se Nabi ne shifa payi thi
+
+  6
+  Our jin ki chakki se dunya chali
+  Thin khud woh mushkil kusha e Ali
+  Phir bhi jo hoti, thi mushkil koi tu, parhtin thin khud Fatima
+  Mujhe qabar mein jab litaya gaya
+
+  7
+  Kafan mere rukh se hataya gaya
+  Kandah mera phir hilaya gaya
+  Mujhe yaad aqeeda karaya gaya
+  Sun ke yeh sab kuch, main dil hi dil mein, Nad-e-Ali parhta tha
+
+  8
+  Parhday rahwo sare Nad-e-Ali
+  Dunya che aa ke iss ik naa diyaan
+  Oh jinna ne sunriyaan ne loriyaan
+  Bhul jaway kiwein ohna di zabaan
+
+  9
+  Pilaya jinna nu ne aye ghuti che maa
+  Kuj v ho jaway, zabaan te khud aaway, haq ya Ali Murtaza
+  Gal changi khak-e-shifa di v aye
+  Jhola alam taziya di v aye
+
+  10
+  Shohrat hadees-e-kisa di v aye
+  Kahanri sunri Syeda di v aye
+  Mojaz numai, che aina de naal e, hai aye v ik mojza
+  Mere Nabi ke wasi ke siwa
+
+  11
+  Hai kaun mera Ali ke siwa
+  Dar dar sada kyun lagaye faqeer
+  Shah-e-Najaf ki ghali ke siwa
+  Kya kya bataein keh kya kya mila
+
+  12
+  Jo kuch bhi Maula se manga mila
+  Itraein kyun na yeh kam tu nahi
+  Hasnain ka hum ko sadqa mila
+  Joan-o-Asad ka yeh paigham hai
+
+  13
+  Shahi-o-kafi Ali naam hai
+  Dil mein Ali ki wilayat rakho
+  Khaliq ka hum par yeh inaam hai
+  Daman Ali ka, nahi chorna tum, khush hoon gay phir Mustafa
 ---
 
-1
-Parhte Raho Sare Nad E Ali Joan Rizvi.
-Parhtay Raho Sare Nad-e-Ali.
-Logo Pareshan, Hotey Ho Kyun Tum, Har Kam Ho Jaye Ga.
-Aaein Gay Woh Jab Bulao Gay Tum.
+۱
+پڑھتے رہو سارے نادِ علی جون رضوی
+پڑھتے رہو سارے نادِ علی
+لوگو پریشان، ہوتے ہو کیوں تم، ہر کام ہو جائے گا
+آئیں گے وہ جب بلاؤ گے تم
 
-2
-Mushkil Mein Pas Unn Ko Pao Gay Tum.
-Tum Baat Kar Ke Tu Dekho Kabhi.
-Jo Bhi Kaho Gay Sunein Gay Abhi.
-Hajat Rawa Hain, Woh Mushkil Kusha Hain, Sab Ka Hain Woh Aasra.
+۲
+مشکل میں پاس اُن کو پاؤ گے تم
+تم بات کر کے تو دیکھو کبھی
+جو بھی کہو گے سنیں گے ابھی
+حاجت روا ہیں، وہ مشکل کشا ہیں، سب کا ہیں وہ آسرا
 
-3
-Mosa Ke Mujh Ko Assa Ki Qasam.
-Mushkil Mein Unn Par Howa Youn Karam.
-Be Khof Pani Pe Rakha Qadam.
-Kehte Hoye Ya Ali Dam Ba Dam.
+۳
+موسیٰ کے مجھ کو عصا کی قسم
+مشکل میں اُن پر ہوا یوں کرم
+بے خوف پانی پہ رکھا قدم
+کہتے ہوئے یا علی دم بہ دم
 
-4
-Pani Pe Mara, Assa Tu Bana Phir, Unn Ke Liye Rasta.
-Ghaira Ho Tujh Ko Balaon Ne Gar.
-Lag Jaye Koi Agar Bad Nazar.
-Ya Sehar-o-Jado Ka Ho Koi Dar.
+۴
+پانی پہ مارا، عصا تو بنا پھر، اُن کے لیے رستا
+گھیرا ہو تجھ کو بلاؤں نے گر
+لگ جائے کوئی اگر بد نظر
+یا سحر و جادو کا ہو کوئی ڈر
 
-5
-Inn Sab Pe Hota Hai Iss Ka Asar.
-Yeh Hi Wazifa, Hai Toor Sab Ka, Hai Yeh Hi Rad-e-Bala.
-Aa Kar Qaza Jin Ke Dar Par Ruki.
-Jin Se Nabi Ne Shifa Payi Thi.
+۵
+اِن سب پہ ہوتا ہے اِس کا اثر
+یہی وظیفہ، ہے توڑ سب کا، ہے یہی ردِ بلا
+آ کر قضا جن کے در پر رکی
+جن سے نبی نے شفا پائی تھی
 
-6
-Our Jin Ki Chakki Se Dunya Chali.
-Thin Khud Woh Mushkil Kusha e Ali.
-Phir Bhi Jo Hoti, Thi Mushkil Koi Tu, Parhtin Thin Khud Fatima.
-Mujhe Qabar Mein Jab Litaya Gaya.
+۶
+اور جن کی چکی سے دنیا چلی
+تھیں خود وہ مشکل کشائے علی
+پھر بھی جو ہوتی، تھی مشکل کوئی تو، پڑھتی تھیں خود فاطمہ
+مجھے قبر میں جب لٹایا گیا
 
-7
-Kafan Mere Rukh Se Hataya Gaya.
-Kandah Mera Phir Hilaya Gaya.
-Mujhe Yaad Aqeeda Karaya Gaya.
-Sun Ke Yeh Sab Kuch, Main Dil Hi Dil Mein, Nad-e-Ali Parhta Tha.
+۷
+کفن میرے رخ سے ہٹایا گیا
+کندھا میرا پھر ہلایا گیا
+مجھے یاد عقیدہ کرایا گیا
+سن کے یہ سب کچھ، میں دل ہی دل میں، نادِ علی پڑھتا تھا
 
-8
-Parhday Rahwo Sare Nad-e-Ali.
-Dunya Che Aa Ke Iss Ik Naa Diyaan.
-Oh Jinna Ne Sunriyaan Ne Loriyaan.
-Bhul Jaway Kiwein Ohna Di Zabaan.
+۸
+پڑھدے رہو سارے نادِ علی
+دنیا چ آ کے اِس اِک ناں دیاں
+اوہ جنہاں نے سنڑیاں نے لوریاں
+بھل جاوے کیویں اوہناں دی زبان
 
-9
-Pilaya Jinna Nu Ne Aye Ghuti Che Maa.
-Kuj V Ho Jaway, Zabaan Te Khud Aaway, Haq Ya Ali Murtaza.
-Gal Changi Khak-e-Shifa Di V Aye.
-Jhola Alam Taziya Di V Aye.
+۹
+پلایا جنہاں نوں نے اے گھٹی چ ماں
+کجھ وی ہو جاوے، زبان تے خود آوے، حق یا علی مرتضیٰ
+گل چنگی خاکِ شفا دی وی اے
+جھولا علم تعزیہ دی وی اے
 
-10
-Shohrat Hadees-e-Kisa Di V Aye.
-Kahanri Sunri Syeda Di V Aye.
-Mojaz Numai, Che Aina De Naal E, Hai Aye V Ik Mojza.
-Mere Nabi Ke Wasi Ke Siwa.
+۱۰
+شہرت حدیثِ کسا دی وی اے
+کہانی سنڑی سیدہ دی وی اے
+معجز نمائی، چ ایناں دے نال ای، ہے اے وی اِک معجزہ
+میرے نبی کے وصی کے سوا
 
-11
-Hai Kaun Mera Ali Ke Siwa.
-Dar Dar Sada Kyun Lagaye Faqeer.
-Shah-e-Najaf Ki Ghali Ke Siwa.
-Kya Kya Bataein Keh Kya Kya Mila.
+۱۱
+ہے کون میرا علی کے سوا
+در در صدا کیوں لگائے فقیر
+شاہِ نجف کی گلی کے سوا
+کیا کیا بتائیں کہ کیا کیا ملا
 
-12
-Jo Kuch Bhi Maula Se Manga Mila.
-Itraein Kyun Na Yeh Kam Tu Nahi.
-Hasnain Ka Hum Ko Sadqa Mila.
- Joan-o- Asad Ka Yeh Paigham Hai.
+۱۲
+جو کچھ بھی مولا سے مانگا ملا
+اترائیں کیوں نہ یہ کم تو نہیں
+حسنین کا ہم کو صدقہ ملا
+جون و اسد کا یہ پیغام ہے
 
-13
-Shahi-o-Kafi Ali Naam Hai.
-Dil Mein Ali Ki Wilayat Rakho.
-Khaliq Ka Hum Par Yeh Inaam Hai.
-Daman Ali Ka, Nahi Chorna Tum, Khush Hoon Gay Phir Mustafa.
+۱۳
+شاہی و کافی علی نام ہے
+دل میں علی کی ولایت رکھو
+خالق کا ہم پر یہ انعام ہے
+دامن علی کا، نہیں چھوڑنا تم، خوش ہوں گے پھر مصطفیٰ

@@ -1,6 +1,6 @@
 ---
 title: "جانے والے کربلا کے کربلا لے چل مجھے"
-alternateTitle: "Jane Wale Karbala Ke Karbala Le Chal Mujhe"
+alternateTitle: "Jaane Wale Karbala Ke Karbala Le Chal Mujhe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,36 +11,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jane Wale Karbala Ke Karbala Le Chal Mujhe
-  Roza-e-Shabir Par Doon Ga Dua Le Chal Mujhe
+  Karbala Karbala Karbala ae Karbala
+  Jaane wale Karbala ke Karbala le chal mujhe
+  Roza-e-Shabir par duṅ ga dua le chal mujhe
 
   1
-  Hai Jahan Ganj-e-Shaheedan Hai Jahan Nehr-e-Furat
-  Jiss Jagah Syed Mera Piyasa Raha Le Chal Mujhe
+  Hai jahaaṅ ganj-e-shahidaaṅ hai jahaaṅ nahr-e-Furat
+  Jis jagah Sayyid mera piyaasa raha le chal mujhe
+
   2
-  Jiss Jagah Jagi Thi Qismat Hur Ki Wo Dekhon Ga Main
-  Aasiyon Par Kaise Hoti Hai Atta Le Chal Mujhe
+  Jis jagah jaagi thi qismat Hurr ki wo dekhuṅ ga main
+  Aasiyoṅ par kaise hoti hai ata le chal mujhe
+
   3
-  Iss Qadar Nadaar Hoon Zaad-e-Safar Kuch Bhi Nahi
-  Doosh Par Apne Bitha Kar Aye Hawa Le Chal Mujhe
+  Is qadar nadaar huṅ zaad-e-safar kuchh bhi nahiṅ
+  Dosh par apne bitha kar ae hawa le chal mujhe
+
   4
-  Jiss Jagah Abbas Ke Bazoo Qalam Ho Kar Gire
-  Oss Jagah Main Bhi Karon Matam Zara Le Chal Mujhe
+  Jis jagah Abbas ke baazu qalam ho ke gire
+  Us jagah main bhi karuṅ maatam zara le chal mujhe
+
   5
-  Dil Ulajh Kar Aa Giya Barchi Mein Akbar Ka Jahan
-  Dil Wahan Main Bhi Karon Apna Fida Le Chal Mujhe
+  Dil ulajh kar aa gaya barchhi mein Akbar ka jahaaṅ
+  Dil wahaaṅ main bhi karuṅ apna fida le chal mujhe
+
   6
-  Jal Gay Shaam-e-Gharebaan Mein Jahan Khaimay Tamam
-  Jiss Jagah Nanah Sa Ik Jhola Jhala Le Chal Mujhe
+  Jal gaye shaam-e-gharibaaṅ mein jahaaṅ khaime tamaam
+  Jis jagah nanha sa ik jhula jala le chal mujhe
+
   7
-  Haye Wo Maqtal Jahan Bali Sakina Raat Mein
-  Dhoondti Phirti Thi Seena Baap Ka Le Chal Mujhe
+  Haaye wo maqtal jahaaṅ baali Sakina raat mein
+  Dhundti phirti thi seena baap ka le chal mujhe
+
   8
-  Muskura Kar Teer Kha Kar So Giya Asghar Jahan
-  Khoon Jahan Chehray Pe Sarwar Ne Mala Le Chal Mujhe
+  Muskura kar tir kha kar so gaya Asghar jahaaṅ
+  Khun jahaaṅ chehre pe Sarwar ne mala le chal mujhe
+
   9
-  Sarwar o Rehan Har Majlis Mein Karte Hain Dua
-  Haq Wahin Nohoon Ka Aab Ho Ga Adda Le Chal Mujhe
+  Sarwar o Rehan har majlis mein karte haiṅ dua
+  Haq wahiṅ nohoṅ ka ab hoga ada le chal mujhe
 ---
 
 کربلا کربلا کربلا اے کربلا

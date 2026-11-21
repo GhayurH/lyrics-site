@@ -1,35 +1,60 @@
 ---
-title: "Youn Bhai Ke Chehlum Ki Zainab Ne Ibtida Ki"
+title: "یوں بھائی کے چہلم کی زینب نے ابتدا کی"
+alternateTitle: "Youn Bhai Ke Chehlum Ki Zainab Ne Ibtida Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Dilawar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Youn bhai ke chehlum ki Zainab ne ibtida ki
+  Farsh-e-azza bichaya our majlis bapa ki
+  Kehti thi yeh lipat kar turbat se bhai ki
+  Zulm-o-sitam ki hum pe logon ne inteha ki
+
+  2
+  Kaise bataon tum ko bhaiyya ahwal-e-Sham
+  Har moor pe Zainab ne marne ki bas dua ki
+  Ghairat ka Khuda ro ke chadarein mangta tha
+  Abid ko bari fikar thi bhaiyya meri rida ki
+
+  3
+  Main la saki na sath Sakina ko Karbala
+  Do baliyan rida magar lai hoon Sakina ki
+  Woh maqtal-e-Abid tha main be-rida jahan thi
+  Rab jane kitni baar Abid ne youn qaza ki
+
+  4
+  Naqay ki pusht par kabhi zindan-e-Sham mein
+  Shab ki namazein kaise bataon main ne adda ki
+  Chehlum karon Dilawar Maula ka Karbala mein
+  Farsh-e-azza pe main ne bas aik yeh dua ki
 ---
 
-1
-Youn Bhai Ke Chehlum Ki Zainab Ne Ibtida Ki.
-Farsh-e-Azza Bichaya Our Majlis Bapa Ki.
-Kehti Thi Yeh Lipat Kar Turbat Se Bhai Ki.
-Zulm-o-Sitam Ki Hum Pe Logon Ne Inteha Ki.
+۱
+یوں بھائی کے چہلم کی زینب نے ابتدا کی
+فرشِ عزا بچھایا اور مجلس بپا کی
+کہتی تھی یہ لپٹ کر تربت سے بھائی کی
+ظلم و ستم کی ہم پہ لوگوں نے انتہا کی
 
-2
-Kaise Bataon Tum Ko Bhaiyya Ahwal-e-Sham.
-Har Moor Pe Zainab Ne Marne Ki Bas Dua Ki.
-Ghairat Ka Khuda Ro Ke Chadarein Mangta Tha.
-Abid Ko Bari Fikar Thi Bhaiyya Meri Rida Ki.
+۲
+کیسے بتاؤں تم کو بھیا احوالِ شام
+ہر موڑ پہ زینب نے مرنے کی بس دعا کی
+غیرت کا خدا رو کے چادریں مانگتا تھا
+عابد کو بڑی فکر تھی بھیا میری ردا کی
 
-3
-Main La Saki Na Sath Sakina Ko Karbala.
-Do Baliyan Rida Magar Lai Hoon Sakina Ki.
-Woh Maqtal-e-Abid Tha Main Be-Rida Jahan Thi.
-Rab Jane Kitni Baar Abid Ne Youn Qaza Ki.
+۳
+میں لا سکی نہ ساتھ سکینہ کو کربلا
+دو بالیاں ردا مگر لائی ہوں سکینہ کی
+وہ مقتلِ عابد تھا میں بے ردا جہاں تھی
+رب جانے کتنی بار عابد نے یوں قضا کی
 
-4
-Naqay Ki Pusht Par Kabhi Zindan-e-Sham Mein.
-Shab Ki Namazein Kaise Bataon Main Ne Adda Ki.
-Chehlum Karon Dilawar Maula Ka Karbala Mein.
-Farsh-e-Azza Pe Main Ne Bas Aik Yeh Dua Ki.
+۴
+ناقے کی پشت پر کبھی زندانِ شام میں
+شب کی نمازیں کیسے بتاؤں میں نے ادا کی
+چہلم کروں دلاور مولا کا کربلا میں
+فرشِ عزا پہ میں نے بس ایک یہ دعا کی

@@ -12,53 +12,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye sakina haye haye haye shaam
+  Haye Sakina haye haye haye Shaam
   Din raat sada jo aati hai
-  Har dil ko jo tarpati hai
-  Ye bali sakina hai
-  Zindaṅ meiṅ jo roti hai
+  Har dil ko jo tarpaati hai
+  Ye baali Sakina hai
+  Zindaaṅ meiṅ jo roti hai
   Baba ko bulaati hai
-  Ye bali sakina hai
-  Naazoṅ se pali hai ye bachi
+  Ye baali Sakina hai
+  Naazoṅ se pali hai ye bachchi
   Sab us ke naaz uthaate the
-  Kabhi maa kabhi baba bhai chacha
+  Kabhi maaṅ kabhi baba bhai chacha
   Sab is pe waari jaate the
-  Kabhi ye godhi kabhi wo godhi
-  Masooma ko yaad aati hai
-  Ye bali sakina hai
-  Zindaṅ meiṅ jo roti hai...
+  Kabhi ye godi kabhi wo godi
+  Masuma ko yaad aati hai
+  Ye baali Sakina hai
+  Zindaaṅ meiṅ jo roti hai...
   Baba se bichar kar beti ne
-  Kya kya na masayab dekhe hai
+  Kya kya na masaaib dekhe haiṅ
   Pyasi bhi rahi qaidi bhi bani
-  Zaalim se tamache khaaye hai
-  Jo sina e shaah pe soti thi
+  Zaalim se tamaanche khaaye haiṅ
+  Jo sina-e-shaah pe soti thi
   Ab wohi khaak pe soti hai
-  Ye bali sakina hai
-  Zindaṅ meiṅ jo roti hai...
+  Ye baali Sakina hai
+  Zindaaṅ meiṅ jo roti hai...
   Zindan ke dar se jo guzre
   Bibi har ek se kehti hai
   Baba se milo to keh dena
-  Tumhe yaad sakina karti hai
+  Tumheṅ yaad Sakina karti hai
   Tum paas chale aao baba
   Ro ro ke wo chillaati hai
-  Ye bali sakina hai
-  Zindaṅ meiṅ jo roti hai...
-  Ashur se lekar zindaṅ tak
+  Ye baali Sakina hai
+  Zindaaṅ meiṅ jo roti hai...
+  Aashur se le kar zindaaṅ tak
   Har zulm use yaad aata hai
-  Abbas akbar qasim asghar
-  Baba ka gham tarpata hai
-  Zindan meiṅ matam kar kar ke
-  Jo sab ka sogh manaati hai
-  Ye bali sakina hai
-  Zindaṅ meiṅ jo roti hai...
-  Sajjad se ro ro kehti hai
+  Abbaas Akbar Qaasim Asghar
+  Baba ka gham tarpaata hai
+  Zindan meiṅ maatam kar kar ke
+  Jo sab ka sog manaati hai
+  Ye baali Sakina hai
+  Zindaaṅ meiṅ jo roti hai...
+  Sajjaad se ro ro kehti hai
   Kab milne baba aayenge
-  Ache bhaiya ye batla do
-  Kya hum bhi kabhi ghar jayenge
-  Kabhi bhai se kabhi amma se
+  Achchhe bhaiya ye batla do
+  Kya hum bhi kabhi ghar jaayenge
+  Kabhi bhai se kabhi ammaaṅ se
   Har waqt sawaal jo karti hai
-  Ye bali sakina hai
-  Zindaṅ meiṅ jo roti hai...
+  Ye baali Sakina hai
+  Zindaaṅ meiṅ jo roti hai...
 ---
 
 ۱

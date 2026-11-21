@@ -12,43 +12,43 @@ tags: []
 aliases: ["Berida Zainab Khadi"]
 published: true
 romanLyrics: |-
-  Berida Zainab khari hai Shaam ka darbar hai
+  Be rida Zainab khari hai Shaam ka darbaar hai
 
   1
-  Aalam-e-ghurbat meiṅ Aal-e-Ahmed-e-Mukhtar hai
-  Ab na lashkar hai na Abbas-e-alambardar hai
-  Haye kya badli hui ab waqt ki raftaar hai
-  Saamne rakha hua farq-e-Shah-e-abraar hai
+  Aalam-e-ghurbat meiṅ Aal-e-Mukhtar haiṅ
+  Ab na lashkar hai na Abbas Alamdar hai
+  Haaye kya badli hui waqt ki raftaar hai
+  Saamne rakha hua farq-e-Shaah-e-Abraar hai
 
   2
   Zulm hai kursi nashiṅ kunba Nabi ka hai khara
-  Aur ek bimar hai zanjir meiṅ jakra hua
-  Hai rasan meiṅ sab ke shaane aur Sakina ka gala
-  Haye bachchi ke liye ab saaṅs lena baar hai
+  Aur ak bimaar hai zanjir meiṅ jakra hua
+  Haiṅ rasan meiṅ sab ke shaane aur Sakina ka gala
+  Haaye bachchi ke liye ab saans lena baar hai
 
   3
   Tasht meiṅ rakha hua hai baap ka sar saamne
-  Saaṅs rukti hai tarapti hai jo khaahar saamne
+  Saans rukti hai tarapti hai jo jawaahir saamne
   Khun meiṅ dube hue haiṅ kitne manzar saamne
-  Kis qadar zakhmi nigaah-e-Abid-e-bimar hai
+  Kis qadar zakhmi nigaah-e-Abid-e-bimaar hai
 
   4
   Ghamzada maadar ki aaṅkhoṅ meiṅ andhera chha gaya
-  Naujavaaṅ bete ka sar darbar meiṅ laaya gaya
+  Naujavaaṅ bete ka sar darbaar meiṅ laaya gaya
   Jaane Laila se ye manzar kis tarah dekha gaya
-  Kaisi ghurbat meiṅ shabih-e-Ahmed-e-Mukhtar hai
+  Kaisi ghurbat meiṅ shabih-e-Ahmad-e-Mukhtar hai
 
   5
   Wo Ali Asghar ka sar jaise koi taaza kali
   Maadar-e-beshir ki jis dam nazar us par pari
   God meiṅ lekar sulaane ki tamanna jaag uthi
-  Haath rassi meiṅ bandhe haiṅ maaṅ bahut laachaar hai
+  Haath meiṅ rassi bandhe hai maaṅ bahut laachaar hai
 
   6
-  Har ghari nazroṅ ke aage ek qayamat hai nayi
-  Sar pa bhai ke behan ki hai nazar thehri hui
-  Hont wo Shabbir ke aur dast-e-zaalim mein chhari
-  Ye behan ke dil pa ek chalti hui talwaar hai
+  Har ghari nazroṅ ke aage ak qayaamat hai nayi
+  Sar pe bhaai ke behan ki hai nazar thehri hui
+  Hont wo Shabbir ke aur dast-e-zaalim ki chhari
+  Ye behan ke dil pe ak chalti hui talwaar hai
 
   7
   Yaad aata hai Madine se safar ka wo samaaṅ
@@ -59,8 +59,8 @@ romanLyrics: |-
   8
   Paas baba bhi nahiṅ koi nahiṅ ab aasra
   Fatema ki betiyoṅ par waqt kaisa aa gaya
-  Dil yehi kehta hai Akhtar ab Ali ko de sada
-  Aap ki beti ko Maula ek rida darkaar hai
+  Dil yehi kehta hai Akhtar ab Ali ko deṅ sada
+  Aap ki beti ko Maula ak rida darkaar hai
 ---
 
 بے ردا زینب کھڑی ہے شام کا دربار ہے

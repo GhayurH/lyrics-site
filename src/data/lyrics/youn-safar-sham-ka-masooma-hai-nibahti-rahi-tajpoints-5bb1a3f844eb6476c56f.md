@@ -1,29 +1,48 @@
 ---
-title: "Youn Safar Sham Ka Masooma Hai Nibahti Rahi"
+title: "یوں سفر شام کا معصومہ ہے نبھاتی رہی"
+alternateTitle: "Youn Safar Sham Ka Masooma Hai Nibahti Rahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Youn safar Sham ka masooma hai nibahti rahi
+  Tamachay bali Sakina Shimar se khati rahi
+  Kahan ki pyas rahi baqi baad Asghar ke
+  Woh pani tauq pe Sajjad ke bahati rahi
+
+  2
+  Chacha ka sar na kahin phir se khon roney lagay
+  Woh neel chehray ke Abbas se chupati rahi
+  Woh apni aankhon se aanso bhi na baha payi
+  Sakina, Shimar se pani ko youn chupati rahi
+
+  3
+  Thi qaid khane mein Akbar ka wasta deti
+  Youn Umm-e-Laila, Sakina ko hai solati rahi
+  Na neend aaye issay our na chain aaye Samar
+  Sakina qaid mein Shabeer ko bulati rahi
 ---
 
-1
-Youn Safar Sham Ka Masooma Hai Nibahti Rahi.
-Tamachay Bali Sakina Shimar Se Khati Rahi.
-Kahan Ki Pyas Rahi Baqi Baad Asghar Ke.
-Woh Pani Tauq Pe Sajjad Ke Bahati Rahi.
+۱
+یوں سفر شام کا معصومہ ہے نبھاتی رہی
+طمانچے بالی سکینہ شمر سے کھاتی رہی
+کہاں کی پیاس رہی باقی بعدِ اصغر کے
+وہ پانی طوق پہ سجاد کے بہاتی رہی
 
-2
-Chacha Ka Sar Na Kahin Phir Se Khon Roney Lagay.
-Woh Neel Chehray Ke Abbas Se Chupati Rahi.
-Woh Apni Aankhon Se Aanso Bhi Na Baha Payi.
-Sakina, Shimar Se Pani Ko Youn Chupati Rahi.
+۲
+چچا کا سر نہ کہیں پھر سے خون رونے لگے
+وہ نیل چہرے کے عباس سے چھپاتی رہی
+وہ اپنی آنکھوں سے آنسو بھی نہ بہا پائی
+سکینہ، شمر سے پانی کو یوں چھپاتی رہی
 
-3
-Thi Qaid Khane Mein Akbar Ka Wasta Deti.
-Youn Umm-e-Laila, Sakina Ko Hai Solati Rahi.
-Na Neend Aaye Issay Our Na Chain Aaye Samar.
-Sakina Qaid Mein Shabeer Ko Bulati Rahi.
+۳
+تھی قید خانے میں اکبر کا واسطہ دیتی
+یوں اُمِّ لیلیٰ، سکینہ کو ہے سلاتی رہی
+نہ نیند آئے اسے اور نہ چین آئے ثمر
+سکینہ قید میں شبیر کو بلاتی رہی

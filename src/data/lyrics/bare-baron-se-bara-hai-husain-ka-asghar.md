@@ -13,8 +13,8 @@ romanLyrics: |-
   Husainiyat ki baqa hai Husain ka Asghar
 
   1
-  Jo mangna hai to jhule ki simt aa jaao
-  Amir-e-Karbobala hai Husain ka Asghar
+  Jo maangna hai to jhule ki simt aa jaao
+  Amir-e-Karb o Bala hai Husain ka Asghar
 
   2
   Yazidiyat ko khilona bana ke jhule meiṅ
@@ -25,11 +25,11 @@ romanLyrics: |-
   Usi pe ran meiṅ hansa hai Husain ka Asghar
 
   4
-  Kabhi shauur ki aankhoṅ se parh kitab-e-atash
+  Kabhi shuur ki aankhoṅ se parh kitaab-e-atash
   Waraq waraq pe likha hai Husain ka Asghar
 
   5
-  Qadam utha nahi paaya magar Yazid tere
+  Qadam utha nahiṅ paaya magar Yazid tere
   Qadam ukhaar gaya hai Husain ka Asghar
 
   6

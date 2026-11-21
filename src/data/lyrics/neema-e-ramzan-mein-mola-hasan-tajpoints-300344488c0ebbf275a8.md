@@ -1,41 +1,71 @@
 ---
-title: "Neema E Ramzan Mein Mola Hasan"
+title: "نیمۂ رمضان میں مولا حسن"
+alternateTitle: "Neema-e-Ramzan Mein Mola Hasan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Neema e Ramzan mein Mola Hasan
+  Ghar mein Zahra ke hoye paida Hasan
+  Aap hi ke noor se kaun-o-makaan
+  Hashar tak roshan rahein gay ya Hasan
+
+  2
+  Gaud mein le kar Rasool Allah ne
+  Muskura kar naam hai rakha Hasan
+  Ho mubarak Fatima, bolay Nabi
+  Hai attaye Kibriya beta Hasan
+
+  3
+  Apne seene se laga kar Mustafa
+  Bolay mere dil ka chain aaya Hasan
+  Ashabahat khalqi-o-khulqi kehte they
+  Mustafa khud aap ko Maula Hasan
+
+  4
+  Bolay Yousuf dekh kar husan-e-Hasan
+  Hai hasen-o-meh jabeen kitna Hasan
+  Ho gayi dugni baharein khuld ki
+  Pehla malik khuld ka aaya Hasan
+
+  5
+  Affo esiyaan ho gaye, main ne likha
+  Jab sar-e-qirtas ya Maula Hasan
+  Umar bhar likhta rahe teri sana
+  Mohtasham tera gada Maula Hasan
 ---
 
-1
-Neema e Ramzan Mein Mola Hasan Lyrics
-Ghar Mein Zahra Ke Hoye Paida Hasan.
-Aap Hi Ke Noor Se Kaun-o-Makaan.
-Hashar Tak Roshan Rahein Gay Ya Hasan.
+۱
+نیمۂ رمضان میں مولا حسن
+گھر میں زہرا کے ہوئے پیدا حسن
+آپ ہی کے نور سے کون و مکاں
+حشر تک روشن رہیں گے یا حسن
 
-2
-Gaud Mein Le Kar Rasool ALLAH Ne.
-Muskura Kar Naam Hai Rakha Hasan.
-Ho Mubarak Fatima, Bolay Nabi.
-Hai Attaye Kibriya Beta Hasan.
+۲
+گود میں لے کر رسول اللہ نے
+مسکرا کر نام ہے رکھا حسن
+ہو مبارک فاطمہ، بولے نبی
+ہے عطائے کبریا بیٹا حسن
 
-3
-Apne Seene Se Laga Kar Mustafa.
-Bolay Mere Dil Ka Chain Aaya Hasan.
-Ashabahat Khalqi-o-Khulqi Kehte They.
-Mustafa Khud Aap Ko Maula Hasan.
+۳
+اپنے سینے سے لگا کر مصطفیٰ
+بولے میرے دل کا چین آیا حسن
+شباہتِ خَلقی و خُلقی کہتے تھے
+مصطفیٰ خود آپ کو مولا حسن
 
-4
-Bolay Yousuf Dekh Kar Husan-e-Hasan.
-Hai Hasen-o-Meh Jabeen Kitna Hasan.
-Ho Gayi Dugni Baharein Khuld Ki.
-Pehla Malik Khuld Ka Aaya Hasan.
+۴
+بولے یوسف دیکھ کر حسنِ حسن
+ہے حسین و مہ جبیں کتنا حسن
+ہو گئی دگنی بہاریں خلد کی
+پہلا مالک خلد کا آیا حسن
 
-5
-Affo Esiyaan Ho Gaye, Main Ne Likha.
-Jab Sar-e-Qirtas Ya Maula Hasan.
-Umar Bhar Likhta Rahe Teri Sana.
- Mohtasham Tera Gada Maula Hasan.
+۵
+عفوِ عصیاں ہو گئے، میں نے لکھا
+جب سرِ قرطاس یا مولا حسن
+عمر بھر لکھتا رہے تیری ثنا
+محتشم تیرا گدا مولا حسن

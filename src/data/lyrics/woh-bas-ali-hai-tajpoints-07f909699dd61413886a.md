@@ -1,44 +1,78 @@
 ---
-title: "Woh Bas Ali Hai"
+title: "وہ بس علی ہے"
+alternateTitle: "Woh Bas Ali Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Ali jhukti hai jab teri yeh pur noor jabeen
+  Tab musalay pe koi noor bikharta ho ga
+
+  1
+  Teri khairat pe aayat utarti hain tu phir
+  Tere sajdoon mein tu Rab aap utarta ho ga
+  Bashar ka idrak jis haqeeqat se ajnabi hai woh bas Ali hai
+  Woh jis ki thokar ka dosra naam zindagi hai woh bas Ali hai
+
+  2
+  Yeh sab hain iss ki wila ke darjay silay hain sab iss ki marifat ke
+  Woh jis ke sadqay koi nabi hai koi wali hai woh bas Ali hai
+  Wohi nabi ko bata raha hai jo aayatein le ke aa raha hai
+  Yaqeen hai mujh ko jo zaat aayat bhaijti hai woh bas Ali hai
+
+  3
+  Nabi ke humrah do jahan jis Batool ke wastay kharey hain
+  Wohi Batool uth ke jiski tazeem kar rahi hai woh bas Ali hai
+  Amal sabhi mohtaram hain jin ke khiloney loh -o- qalam hain jin ke
+  Woh jis ki aoulad chand soraj se khailti hai woh bas Ali hai
+
+  4
+  Kabhi yeh sajday mein sar jhukaye kabhi yeh so kar Khuda banaye
+  Woh jis ki ik neend Rab ki marzi se qeemati hai woh bas Ali hai
+  Woh iss taraf ho tu Murtaza hai ho oss taraf tu Khuda Khuda hai
+  Nishani sab se bari jo Mairaj mein chupi hai woh bas Ali hai
+
+  5
+  Khulay ga yeh raaz rooz-e- mehshar woh kul-e- naimat hain sirf Haider
+  Hisab jis ki wila ka Tauheed mangti hai woh bas Ali hai
+  Hai Muhsin apna tu yeh aqeeda Ali khazana hai Fatima ka
+  Jisay bananey Batool darbar tak gayi hai woh bas Ali hai
 ---
 
-Ya Ali Jhukti Hai Jab Teri Yeh Pur Noor Jabeen.
-Tab Musalay Pe Koi Noor Bikharta Ho Ga.
+یا علی جھکتی ہے جب تیری یہ پرنور جبیں
+تب مصلّے پہ کوئی نور بکھرتا ہوگا
 
-1
-Teri Khairat Pe Aayat Utarti Hain Tu Phir.
-Tere Sajdoon Mein Tu Rab Aap Utarta Ho Ga.
-Bashar Ka Idrak Jis Haqeeqat Se Ajnabi Hai Woh Bas Ali Hai.
-Woh Jis Ki Thokar Ka Dosra Naam Zindagi Hai Woh Bas Ali Hai.
+۱
+تیری خیرات پہ آیت اترتی ہیں تو پھر
+تیرے سجدوں میں تو رب آپ اترتا ہوگا
+بشر کا ادراک جس حقیقت سے اجنبی ہے وہ بس علی ہے
+وہ جس کی ٹھوکر کا دوسرا نام زندگی ہے وہ بس علی ہے
 
-2
-Yeh Sab Hain Iss Ki Wila Ke Darjay Silay Hain Sab Iss Ki Marifat Ke.
-Woh Jis Ke Sadqay Koi Nabi Hai Koi Wali Hai Woh Bas Ali Hai.
-Wohi Nabi Ko Bata Raha Hai Jo Aayatein Le Ke Aa Raha Hai.
-Yaqeen Hai Mujh Ko Jo Zaat Aayat Bhaijti Hai Woh Bas Ali Hai.
+۲
+یہ سب ہیں اس کی ولا کے درجے صلے ہیں سب اس کی معرفت کے
+وہ جس کے صدقے کوئی نبی ہے کوئی ولی ہے وہ بس علی ہے
+وہی نبی کو بتا رہا ہے جو آیتیں لے کے آ رہا ہے
+یقین ہے مجھ کو جو ذات آیت بھیجتی ہے وہ بس علی ہے
 
-3
-Nabi Ke Humrah Do Jahan Jis Batool Ke Wastay Kharey Hain.
-Wohi Batool Uth Ke Jiski Tazeem Kar Rahi Hai Woh Bas Ali Hai.
-Amal Sabhi Mohtaram Hain Jin Ke Khiloney Loh -o- Qalam Hain Jin Ke.
-Woh Jis Ki Aoulad Chand Soraj Se Khailti Hai Woh Bas Ali Hai.
+۳
+نبی کے ہمراہ دو جہاں جس بتول کے واسطے کھڑے ہیں
+وہی بتول اٹھ کے جس کی تعظیم کر رہی ہے وہ بس علی ہے
+عمل سبھی محترم ہیں جن کے کھلونے لوح و قلم ہیں جن کے
+وہ جس کی اولاد چاند سورج سے کھیلتی ہے وہ بس علی ہے
 
-4
-Kabhi Yeh Sajday Mein Sar Jhukaye Kabhi Yeh So Kar Khuda Banaye.
-Woh Jis Ki Ik Neend Rab Ki Marzi Se Qeemati Hai Woh Bas Ali Hai.
-Woh Iss Taraf Ho Tu Murtaza Hai Ho Oss Taraf Tu Khuda Khuda Hai.
-Nishani Sab Se Bari Jo Mairaj Mein Chupi Hai Woh Bas Ali Hai.
+۴
+کبھی یہ سجدے میں سر جھکائے کبھی یہ سو کر خدا بنائے
+وہ جس کی اک نیند رب کی مرضی سے قیمتی ہے وہ بس علی ہے
+وہ اس طرف ہو تو مرتضیٰ ہے ہو اُس طرف تو خدا خدا ہے
+نشانی سب سے بڑی جو معراج میں چھپی ہے وہ بس علی ہے
 
-5
-Khulay Ga Yeh Raaz Rooz-e- Mehshar Woh Kul-e- Naimat Hain Sirf Haider.
-Hisab Jis Ki Wila Ka Tauheed Mangti Hai Woh Bas Ali Hai.
-Hai Muhsin Apna Tu Yeh Aqeeda Ali Khazana Hai Fatima Ka.
-Jisay Bananey Batool Darbar Tak Gayi Hai Woh Bas Ali Hai.
+۵
+کھلے گا یہ راز روزِ محشر وہ کُلِ نعمت ہیں صرف حیدر
+حساب جس کی ولا کا توحید مانگتی ہے وہ بس علی ہے
+ہے محسن اپنا تو یہ عقیدہ علی خزانہ ہے فاطمہ کا
+جسے بنانے بتول دربار تک گئی ہے وہ بس علی ہے

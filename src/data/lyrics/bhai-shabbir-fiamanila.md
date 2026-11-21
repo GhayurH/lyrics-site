@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab aayi gyara moharam meinane karbobala
-  Behan ne bhai ke pahile huve lahu se kaha
-  Ae shahe bekasan khudahafiz
-  Ae mere bhai jaaṅ khudahafiz
-  Lo chala karwaṅ khuda hafiz
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Zamiṅ pe bikhre huve nur is behan ka salaam
+  Jab aayi gyaarah Muharram miyaan-e-Karb o Bala
+  Behan ne bhai ke phaile hue lahu se kaha
+  Ae shah-e-bekasaaṅ Khuda haafiz
+  Ae mere bhai jaaṅ Khuda haafiz
+  Lo chala kaarwaaṅ Khuda haafiz
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Zamiṅ pe bikhre hue nur is behan ka salaam
   Badan darida o majbur is behan ka salaam
-  Chali hai tumse bahot dur is behan ka salaam
-  Misaale fatema har dukh meiṅ muskura'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Salaam umme abiha ke godh ke paale
-  Salaam karte hai zehra ke haath ke chaale
-  Salaam zulfe mohamed se khelne waale
-  Padenge durre to mai sabr aazma'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Ye gham nahi hai ke mai sogwaar qaidi hoo
-  Abu turab ki aur fatema ki beti hoo
-  Mai is kaleje meiṅ quwwat ali ki rakhti hoo
-  Yazid-e-waqt ke khyber ki mai gira'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Rahe wafa ke bahatar masafiroṅ ki qasam
-  Labe faraat sulagte huwe gharon ki qasam
-  Sina ki nok pe rakhe huwe saron ki qasam
-  Jalaale hazrate abbas banke cha'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Khushi se ehle sitam baandh le mere baazu
-  Banenge nuh ka tufan ab mere ansuu
-  Na chup sakegi ye khune Husain ki khushbu
-  Mai sar khule huwe darbar-e-shaam ja'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
+  Chali hai tum se bahut dur is behan ka salaam
+  Misaal-e-Faatima har dukh mein muskuraauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Salaam Umm-e-Abiha ke god ke paale
+  Salaam karte haiṅ Zehra ke haath ke chhaale
+  Salaam zulf-e-Muhammad se khelne waale
+  Pareṅ ge durre to main sabr aazmaauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Ye gham nahiṅ hai ke main sogwaar qaidi huṅ
+  Abu Turaab ki aur Faatima ki beti huṅ
+  Main is kaleje mein quwwat Ali ki rakhti huṅ
+  Yazid-e-waqt ke Khaibar ko main giraauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Raah-e-wafa ke bahattar musaafiroṅ ki qasam
+  Lab-e-Furaat sulagte hue gharoṅ ki qasam
+  Sinaaṅ ki nok pe rakhe hue saroṅ ki qasam
+  Jalaal-e-Hazrat-e-Abbaas ban ke chhaauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Khushi ahl-e-sitam baandh leṅ mere baazu
+  Bane ge Nuh ka tufaan ab mere aansu
+  Na chhup sakegi ye khun-e-Husain ki khushbu
+  Main sar khule hue darbaar-e-Shaam jaauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
   Nigaah jaanib-e-darya uthi to itna kaha
-  Mere diler alamdar faatahe darya
-  Tujhe khabar hai mere sar se chin gayi hai rida
-  Tere alam ka pharera rida bana'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Jo pahunchi shaam to bazaar ko saja dekha
-  Kabhi najaf to kabhi suye karbala dekha
-  Pukari baba mera tumne hausla dekha
-  Jahaṅ bhi jaungi farshe aza bicha'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
-  Suna hai sarwar o rehaan khahare shabbir
-  Ali ke lehje meiṅ karti thi jis ghari taqrir
-  Yazeed o shimr ke sine pe chalti thi shamshir
-  Wo jab ye kehti thi waade ko mai nibha'ungi
-  Husain zinda hai dunya ko mai bata'ungi
-  Bhai shabbir fi-amanillah
-  Chali hamshir fi-amanillah
+  Mere diler alamdaar faatih-e-darya
+  Tujhe khabar hai mere sar se chhin gayi hai rida
+  Tere alam ka pharera rida banaauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Jo pahunchi Shaam to baazaar ko saja dekha
+  Kabhi Najaf to kabhi su-e-Karbala dekha
+  Pukaari baaba mera tum ne hausla dekha
+  Jahaaṅ bhi jaauṅ gi farsh-e-aza bichhaauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
+  Suna hai Sarwar o Rehaan khwaahar-e-Shabbir
+  Ali ke lehje mein karti thi jis ghari taqrir
+  Yazid o Shimr ke sine pe chalti thi shamshir
+  Wo jab ye kehti thi waade ko main nibhaauṅ gi
+  Husain zinda hai duniya ko ye bataauṅ gi
+  Bhai Shabbir fi amaan Allah
+  Chali hamshir fi amaan Allah
 ---
 
 ۱

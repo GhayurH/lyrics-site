@@ -10,61 +10,61 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Dasht may luti gaye aale rasule madani
-  Ya ali adrikni ya ali adrikni
+  Dasht meiṅ luti gai aal-e-rasul-e-Madani
+  Ya Ali adrikni ya Ali adrikni
 
   1
-  Haye beaab huwe qatl hussaini hassani
+  Haaye be aab hue qatl Husaini Hasani
 
   2
-  Dasht wo tapta huwa dhup may aal-e-abaa
-  Khaak pe baitha huwa karta hai ro kar buka
-  Kaisi taqdir may likhi thi gharibul watani
+  Dasht woh tapta hua dhup meiṅ aal-e-abaa
+  Khaak pe baitha hua karta hai ro kar bukaa
+  Kaisi taqdir meiṅ likhi thi gharib-ul-watani
 
   3
-  Shaah ka wo nusrati kaisa huwa jannati
-  Zaanu-e-sibte nabi aur sare hurr-e-jari
-  Koi hurr jaisa nahi dunya may qismat ka dhani
+  Shaah ka woh nusrati kaisa hua jannati
+  Zaanu-e-sibt-e-nabi aur sar-e-Hur-e-jari
+  Koi Hur jaisa nahiṅ duniya meiṅ qismat ka dhani
 
   4
-  Fatema zehra ka laal pyaas se ran may nidhaal
-  Aata hai aksar khayal kis se karoo ye sawaal
-  Maalike kausar o tasnim ye tashna dahani
+  Fatema Zehra ka laal pyaas se ran meiṅ nidhaal
+  Aata hai aksar khayaal kis se karuṅ ye sawaal
+  Maalik-e-Kausar o Tasnim ye tashna dahani
 
   5
-  Bacha bhi cheh maah ka pyaas se tarpa kiya
-  Tire sitam kya chala chid gaya nanha gala
-  Tir seh pehlu aur asghar ki ye ghuncha dahani
+  Bachcha bhi chhe maah ka pyaas se tarpa kiya
+  Tir-e-sitam kya chala chhid gaya nanha gala
+  Tir sahe pehlu aur Asghar ki ye ghuncha dahani
 
   6
-  Kehti thi rokar ye maa haye mera bezuban
-  Haye ye nanhi si jaaṅ tuta na kiuṅ aasmaṅ
-  Ye sitam aur mere asghar ki ye nazuk badani
+  Kehti thi ro kar ye maaṅ haaye mera bezubaaṅ
+  Haaye ye nanhi si jaaṅ tuta na kiuṅ aasmaaṅ
+  Ye sitam aur mere Asghar ki ye naazuk badani
 
   7
-  Haye wo kariyal jawaaṅ gir para kha kar sina
-  Ro diya ye aasmaṅ baap ka azme jawaaṅ
-  Shahe diṅ khaynchte hai sine se barchi ki ani
+  Haaye woh kariyal jawaaṅ gur para khaa kar sinaaṅ
+  Ro diya ye aasmaaṅ baap ka azm-e-jawaaṅ
+  Shaah-e-diṅ khinchte haiṅ sine se barchhi ki ani
 
   8
-  Laash pe kehti hai maa ae mere kariyal jawaaṅ
-  Saal tha atharwaṅ haye ye zakhme sina
+  Laash pe kehti hai maaṅ ae mere kariyal jawaaṅ
+  Saal tha athaarwaaṅ haaye ye zakhm-e-sinaaṅ
   Dekhiye aa ke jawaaṅ laal ki gul pairahani
 
   9
-  Sayed-e-abraar hai nargha-e-kufaar hai
-  Dar paye aazaar hai tiroṅ ki bouchaar hai
-  Jism shabbir ka tiroṅ se hai chalni chalni
+  Saiyad-e-abraar hai nargha-e-kuffaar hai
+  Dar paye aazaar hai tiroṅ ki bauchhaar hai
+  Jism Shabbir ka tiroṅ se hai chhalni chhalni
 
   10
-  Zainab-e-aali muqam tumpe hai laakhoṅ salaam
-  Ummat-e-khairul anaam khub kiya ehteraam
-  Berida saani-e-zehra huwi baazu rasani
+  Zainab, aali maqaam tum pe hai laakhoṅ salaam
+  Ummat-e-khair-ul-inaam khub kiya ehtiraam
+  Be ridaa saani-e-Zehra hui baazu rasni
 
   11
-  Ya mere mushkil kusha khalq ke haajat rawa
-  Aap pe mehshar fida kardo ishara zara
-  Sang reze abhi hojayenge laale yamani
+  Ya mere mushkil kushaa khaaliq ke haajat rawaa
+  Aap pe Mehshar fidaa kar do ishaara zaraa
+  Sang reze abhi ho jaaeṅ ge laal-e-Yamani
 ---
 
 دشت میں لُوٹی گئی آلِ رسولِ مدنی

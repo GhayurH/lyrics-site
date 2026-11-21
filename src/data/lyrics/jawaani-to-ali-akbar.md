@@ -11,28 +11,28 @@ tags: []
 aliases: ["Jawani To Ali Akbar"]
 published: true
 romanLyrics: |-
-  Jawaani to Ali Akbar luta di
-  Magar Islam ki quwwat barha di
+  Jawaani to Ali Akbar lutaa di
+  Magar Islaam ki quwwat barhaa di
 
   1
-  Azaadaaro! tumhaare aaṅsuoṅ ne
-  Bahisht o khuld ki qimat barha di
+  Azaadaaro! tumhaare aansuoṅ ne
+  Bahisht o khuld ki qimat barhaa di
 
   2
   Tarap kar gir pare jhule se Asghar
-  Husain Ibn-e-Ali kaisi sada di
+  Husain ibn-e-Ali kaisi sadaa di
 
   3
   Ali Asghar ne ran meiṅ muskaraa kar
-  Yazidi fauj meiṅ halchal machaa di
+  Yazidi fauj meiṅ hal chal machaa di
 
   4
   Kahaa Baano ne Asghar ki lahad par
-  Hameiṅ kis jurm ki beta saza di
+  Hameiṅ kis jurm ki betaa sazaa di
 
   5
-  Khuda ke naam par Sarwar ne ran meiṅ
-  Kamaai zindagi bhar ki luta di
+  Khudaa ke naam par Sarwar ne ran meiṅ
+  Kamaai zindagi bhar ki lutaa di
 ---
 
 جوانی تو علی اکبر لُٹا دی

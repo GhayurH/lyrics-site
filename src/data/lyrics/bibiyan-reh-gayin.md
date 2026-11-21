@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  So gaya lashkar Ae Shaam-e-Gharibaṅ
+  So gaya lashkar ae Shaam-e-Gharibaṅ
   Bibiyaṅ reh gayiṅ
 
   Jalte hue khaimoṅ ki bujhti raakh par
@@ -29,7 +29,7 @@ romanLyrics: |-
   Bibiyaṅ reh gayiṅ
 
   2
-  Haan ye Abu Talib ka kunba
+  Hai ye Abu Talib ka kunba
   Betiyaṅ saari Haidar ki
   Azmat-e-Zahra azmat-e-Maryam
   Izzat thi Payghambar ki
@@ -63,7 +63,7 @@ romanLyrics: |-
   6
   Sochoṅ zara Rehaan aur Sarwar
   Shaam-e-Gharibaṅ ka wo manzar
-  Chaak garebaṅ aaye jo Haidar
+  Chaak garebaaṅ aaye jo Haidar
   Dekh ke Zainab ko pehre par
   Ro diye Haidar khaime maqtal dekh kar
   Bibiyaṅ reh gayiṅ

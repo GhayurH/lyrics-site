@@ -1,36 +1,62 @@
 ---
-title: "Muslim Ke Ladloon Par Yeh Kaisi Jafa Hai"
+title: "مسلم کے لاڈلوں پر یہ کیسی جفا ہے"
+alternateTitle: "Muslim Ke Ladloon Par Yeh Kaisi Jafa Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Dilawar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Muslim ke ladloon par yeh kaisi jafa hai
+  Sar katne ko inn ka zalim ne kaha hai
+  Kofay ke makeeno kahan ghairat hai tumhari
+  Iss tarha se yateemo pe sitam karta hai koi
+  Bichrey inhein baba se ik roz howa hai
+  Phirtey hain darbadar yeh Kofay ke sataye
+  Baba hai na madar hai bhala kis ko bulaye
+  Tiflan-e-Ruqaiya par yeh waqt bhi aaya hai
+  Kaisi hai musibat yeh yateemo pe khudara
+  Kofay mein ajnabi hai nahi koi sahara
+  Baba ko dhondtey howay kya haal ho gaya hai
+  Bhai samjhta ho ga bhai ki muhabbat ko
+  Dono ki muhabbat ko aye logo zara dekho
+  Qurban yahan bhai bhai pe ho raha hai
+  Pyasay hain ghamzada hain bhokay hain dono bhai
+  Ro ro ke Kofiyon se kehtey hain dono bhai
+  Batlao bhala hum se kya ho gayi khata hai
+  Baba se iss tarha se bichrey hain dono bachay
+  Koi bhi nahi de jo aa ke inhein dilasay
+  Bhai se lipat kar youn ik bhai ro raha hai
+  Karta hai yeh Dilawar ro ro ke biyaan manzar
+  Lashoon pe yateemo ki sar apna peet kar
+  Rone ke liye aayi khud Fatima Zahra hai
 ---
 
-1
-Muslim Ke Ladloon Par Yeh Kaisi Jafa Hai.
-Sar Katne Ko Inn Ka Zalim Ne Kaha Hai.
-Kofay Ke Makeeno Kahan Ghairat Hai Tumhari.
-Iss Tarha Se Yateemo Pe Sitam Karta Hai Koi.
-Bichrey Inhein Baba Se Ik Roz Howa Hai.
-Phirtey Hain Darbadar Yeh Kofay Ke Sataye.
-Baba Hai Na Madar Hai Bhala Kis Ko Bulaye.
-Tiflan-e-Ruqaiya Par Yeh Waqt Bhi Aaya Hai.
-Kaisi Hai Musibat Yeh Yateemo Pe Khudara.
-Kofay Mein Ajnabi Hai Nahi Koi Sahara.
-Baba Ko Dhondtey Howay Kya Haal Ho Gaya Hai.
-Bhai Samjhta Ho Ga Bhai Ki Muhabbat Ko.
-Dono Ki Muhabbat Ko Aye Logo Zara Dekho.
-Qurban Yahan Bhai Bhai Pe Ho Raha Hai.
-Pyasay Hain Ghamzada Hain Bhokay Hain Dono Bhai.
-Ro Ro Ke Kofiyon Se Kehtey Hain Dono Bhai.
-Batlao Bhala Hum Se Kya Ho Gayi Khata Hai.
-Baba Se Iss Tarha Se Bichrey Hain Dono Bachay.
-Koi Bhi Nahi De Jo Aa Ke Inhein Dilasay.
-Bhai Se Lipat Kar Youn Ik Bhai Ro Raha Hai.
-Karta Hai Yeh Dilawar Ro Ro Ke Biyaan Manzar.
-Lashoon Pe Yateemo Ki Sar Apna Peet Kar.
-Rone Ke Liye Aayi Khud Fatima Zahra Hai.
+۱
+مسلم کے لاڈلوں پر یہ کیسی جفا ہے
+سر کٹنے کو ان کا ظالم نے کہا ہے
+کوفے کے مکینو کہاں غیرت ہے تمہاری
+اس طرح سے یتیموں پہ ستم کرتا ہے کوئی
+بچھڑے انہیں بابا سے اک روز ہوا ہے
+پھرتے ہیں دربدر یہ کوفے کے ستائے
+بابا ہے نہ مادر ہے بھلا کس کو بلائے
+طفلانِ رقیہ پر یہ وقت بھی آیا ہے
+کیسی ہے مصیبت یہ یتیموں پہ خدارا
+کوفے میں اجنبی ہے نہیں کوئی سہارا
+بابا کو ڈھونڈتے ہوئے کیا حال ہو گیا ہے
+بھائی سمجھتا ہو گا بھائی کی محبت کو
+دونوں کی محبت کو اے لوگو ذرا دیکھو
+قربان یہاں بھائی بھائی پہ ہو رہا ہے
+پیاسے ہیں غمزدہ ہیں بھوکے ہیں دونوں بھائی
+رو رو کے کوفیوں سے کہتے ہیں دونوں بھائی
+بتلاؤ بھلا ہم سے کیا ہو گئی خطا ہے
+بابا سے اس طرح سے بچھڑے ہیں دونوں بچے
+کوئی بھی نہیں دے جو آ کے انہیں دلاسے
+بھائی سے لپٹ کر یوں اک بھائی رو رہا ہے
+کرتا ہے یہ دلاور رو رو کے بیاں منظر
+لاشوں پہ یتیموں کی سر اپنا پیٹ کر
+رونے کے لیے آئی خود فاطمہ زہرا ہے

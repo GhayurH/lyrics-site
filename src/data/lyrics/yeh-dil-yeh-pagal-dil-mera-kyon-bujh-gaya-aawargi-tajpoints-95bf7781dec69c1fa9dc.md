@@ -1,38 +1,66 @@
 ---
-title: "Yeh Dil Yeh Pagal Dil Mera Kyon Bujh Gaya Aawargi"
+title: "یہ دل یہ پاگل دل میرا کیوں بجھ گیا آوارگی"
+alternateTitle: "Yeh Dil Yeh Pagal Dil Mera Kyon Bujh Gaya Aawargi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mohsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh dil yeh pagal dil mera kyon bujh gaya aawargi
+  Iss dasht mein ik shehar tha woh kya howa aawargi
+
+  1
+  Kal shab mujhe be shakal ki awaz ne chunka diya
+  Main ne kaha tu koan tu koan hai oss ne kaha aawargi
+  Ik tu ke sadiyon se mere humrah bhi humraz bhi
+  Ik main ke tere naam se na aashna aawargi
+
+  2
+  Logo bhala oss shehar mein kaise jiyein gay hum jahan
+  Ho jurm tanha sochna lekin saza aawargi
+  Yeh dard ki tanhaiyaan yeh dasht ka veeraan safar
+  Hum loag tu ukta gay apni suna aawargi
+
+  3
+  Ik ajnabi jhonke ne jab pocha mere gham ka sabab
+  Sehra ki bheegi rait par main ne likha aawargi
+  Oss simt wehshi khowahison ki zid mein peman-e-wafa
+  Iss simt lehron ki dhamak kacha ghara aawargi
+
+  4
+  Le aab tu dasht-e-shab ki sari wosatein sone lagein
+  Ab jagna ho ga humein ab tak bata aawargi
+  Kal raat tanha chand ko dekha tha main ne khowab mein
+  Mohsin mujhe raas aye gi shayad sada aawargi
 ---
 
-Yeh Dil Yeh Pagal Dil Mera Kyon Bujh Gaya Aawargi.
-Iss Dasht Mein Ik Shehar Tha Woh Kya Howa Aawargi.
+یہ دل یہ پاگل دل میرا کیوں بجھ گیا آوارگی
+اس دشت میں اک شہر تھا وہ کیا ہوا آوارگی
 
-1
-Kal Shab Mujhe Be Shakal Ki Awaz Ne Chunka Diya.
-Main Ne Kaha Tu Koan Tu Koan Hai Oss Ne Kaha Aawargi.
-Ik Tu Ke Sadiyon Se Mere Humrah Bhi Humraz Bhi.
-Ik Main Ke Tere Naam Se Na Aashna Aawargi.
+۱
+کل شب مجھے بے شکل کی آواز نے چونکا دیا
+میں نے کہا تو کون تو کون ہے اس نے کہا آوارگی
+اک تو کہ صدیوں سے میرے ہمراہ بھی ہمراز بھی
+اک میں کہ تیرے نام سے ناآشنا آوارگی
 
-2
-Logo Bhala Oss Shehar Mein Kaise Jiyein Gay Hum Jahan.
-Ho Jurm Tanha Sochna Lekin Saza Aawargi.
-Yeh Dard Ki Tanhaiyaan Yeh Dasht Ka Veeraan Safar.
-Hum Loag Tu Ukta Gay Apni Suna Aawargi.
+۲
+لوگو بھلا اس شہر میں کیسے جیئیں گے ہم جہاں
+ہو جرم تنہا سوچنا لیکن سزا آوارگی
+یہ درد کی تنہائیاں یہ دشت کا ویراں سفر
+ہم لوگ تو اکتا گئے اپنی سنا آوارگی
 
-3
-Ik Ajnabi Jhonke Ne Jab Pocha Mere Gham Ka Sabab.
-Sehra Ki Bheegi Rait Par Main Ne Likha Aawargi.
-Oss Simt Wehshi Khowahison Ki Zid Mein Peman-e-Wafa.
-Iss Simt Lehron Ki Dhamak Kacha Ghara Aawargi.
+۳
+اک اجنبی جھونکے نے جب پوچھا میرے غم کا سبب
+صحرا کی بھیگی ریت پر میں نے لکھا آوارگی
+اس سمت وحشی خواہشوں کی ضد میں پیمانِ وفا
+اس سمت لہروں کی دھمک کچا گھڑا آوارگی
 
-4
-Le Aab Tu Dasht-e-Shab Ki Sari Wosatein Sone Lagein.
-Ab Jagna Ho Ga Humein Ab Tak Bata Aawargi.
-Kal Raat Tanha Chand Ko Dekha Tha Main Ne khowab Mein.
- Mohsin Mujhe Raas Aye Gi Shayad Sada Aawargi.
+۴
+لے اب تو دشتِ شب کی ساری وسعتیں سونے لگیں
+اب جاگنا ہو گا ہمیں اب تک بتا آوارگی
+کل رات تنہا چاند کو دیکھا تھا میں نے خواب میں
+محسن مجھے راس آئے گی شاید سدا آوارگی

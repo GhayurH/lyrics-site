@@ -21,7 +21,7 @@ romanLyrics: |-
   Tujh se hai naam-e-Khuda zinda Husain
 
   2
-  Tera naana rehmatul lil aalamin
+  Tera naana rahmat lil aalamin
   Tera baaba hai Amir ul Mominin
   Aur pisar tera hai Zain ul Aabidin
   Teri maaṅ hai Fatima Zehra Husain
@@ -46,15 +46,15 @@ romanLyrics: |-
 
   6
   Thi Ali Akbar ke sine meiṅ sinaaṅ
-  Muztarib tha khaak par kariyal jawaaṅ
+  Muztarib tha khaak par kari jawaaṅ
   Dasht-e-ghurbat meiṅ hai kaisa imtihaaṅ
-  Khinchte haiṅ qalb se neza Husain
+  Khinchti hai qalb se neza Husain
 
   7
   Tut jaati Hurmala ki ungliyaaṅ
   Kholta gar jhule waala mutthiyaaṅ
   Ab rukh-e-Islam par hai jaawidaaṅ
-  Ek tabassum tere Asghar ka Husain
+  Ek tabassum tera Asghar ka Husain
 
   8
   Jaan-e-Haidar dilbar-e-Umm ul Banin
@@ -84,7 +84,7 @@ romanLyrics: |-
   Bekajaawa unt pyaasa kaarwaaṅ
   Berida hai Fatima ki betiyaaṅ
   Shimr ke durre Sakina ki fughaaṅ
-  Tum kahaaṅ ho Ae mere baaba Husain
+  Tum kahaaṅ ho ae mere baaba Husain
 
   13
   Hashr tak lehraayega parcham tera
@@ -130,7 +130,7 @@ romanLyrics: |-
 
   20
   Pesh hona hai Khuda ke rubaru
-  Bas gham-e-Sheh meiṅ bahaao tum lahu
+  Bas gham-e-sheh meiṅ bahaao tum lahu
   Yeh ibaadat hi karegi surkhru
   Kehte jaao ya Husainam ya Husain
 

@@ -1,38 +1,66 @@
 ---
-title: "Ya Ali Murtaza Salamun Alaik"
+title: "یا علی مرتضیٰ سلامٌ علیک"
+alternateTitle: "Ya Ali Murtaza Salamun Alaik"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Najam"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Ali Murtaza salamun alaik ya wali e Khuda salamun alaik
+  Behar-e-jod-o-sakha salamun alaik dilbar-e-Mustafa salamun alaik
+
+  1
+  Aye Habib-e-Khuda ke wasi-o-akhi, Aoun e Sardar-e-Mursal khafi-o-jali
+  Shair e Yazdaan-o-Eman-e-Kul Hashmi, nasir-e-anbiya salamun alaik
+  Sare aalam pe wajib wilayat teri our ajar-e-risalat mawaddat teri
+  Juzway eman hai bas itaat teri, aye sirat-e-Khuda salamun alaik
+
+  2
+  Aye Saloni ke mazhar aye nutaq e Khuda behar-e-ilm-e-laduni aye nuqta e Ba
+  Bas Khuda-o-Nabi janein rutba tera, feham se mawara salamun alaik
+  Bad-e-Ahmad hai khilqat pe burhan tu, haq-o-batil ke ma bain meezan tu
+  Sare aalam mein haq ki hai pehchan tu, hadi-o-rehnuma salamun alaik
+
+  3
+  Aye Imam-e-Mobeen hami e bekasan, ain-e-haq, dast-e-haq, sir e kaun-o-makaan
+  Aye sifat-e-Elahi ke roshan nishaan, Syed ul Osiya salamun alaik
+  Lashkar-e-deen-e-haq ka alamdar tu, our fath-e-mubeen ka hai salar tu
+  Mard-e-maidan, karrar-o-jarrar tu, zoor-e-dast-e-Khuda salamun alaik
+
+  4
+  Sari khilqat mein aala gharana tera, aasmano mein hai aana jana tera
+  Kaun jane kahan hai thikana tera, mazhar-e-kibriya salamun alaik
+  Ya Abalghous e Aalam aye uqda kusha, ho Najam ko mawaddat ki khilat atta
+  Maula nazar-e-karam ho, Asad par sada, Sahib-e-Hal Atta salamun alaik
 ---
 
-Ya Ali Murtaza Salamun Alaik Ya Wali e Khuda Salamun Alaik.
-Behar-e-Jod-o-Sakha Salamun Alaik Dilbar-e-Mustafa Salamun Alaik.
+یا علی مرتضیٰ سلامٌ علیک یا ولیِ خدا سلامٌ علیک
+بحرِ جود و سخا سلامٌ علیک دلبرِ مصطفیٰ سلامٌ علیک
 
-1
-Aye Habib-e-Khuda Ke Wasi-o-Akhi, Aoun e Sardar-e-Mursal Khafi-o-Jali.
-Shair e Yazdaan-o-Eman-e-Kul Hashmi, Nasir-e-Anbiya Salamun Alaik.
-Sare Aalam Pe Wajib Wilayat Teri Our Ajar-e-Risalat Mawaddat Teri.
-Juzway Eman Hai Bas Itaat Teri, Aye Sirat-e-Khuda Salamun Alaik.
+۱
+اے حبیبِ خدا کے وصی و اخی، عونِ سردارِ مرسل خفی و جلی
+شیرِ یزداں و ایمانِ کل ہاشمی، ناصرِ انبیا سلامٌ علیک
+سارے عالم پہ واجب ولایت تیری اور اجرِ رسالت مودّت تیری
+جزوِ ایماں ہے بس اطاعت تیری، اے صراطِ خدا سلامٌ علیک
 
-2
-Aye Saloni Ke Mazhar Aye Nutaq e Khuda Behar-e-Ilm-e-Laduni Aye Nuqta e Ba.
-Bas Khuda-o-Nabi Janein Rutba Tera, Feham Se Mawara Salamun Alaik.
-Bad-e-Ahmad Hai Khilqat Pe Burhan Tu, Haq-o-Batil Ke Ma Bain Meezan Tu.
-Sare Aalam Mein Haq Ki Hai Pehchan Tu, Hadi-o-Rehnuma Salamun Alaik.
+۲
+اے سلونی کے مظہر اے نطقِ خدا بحرِ علمِ لدنی اے نقطۂ با
+بس خدا و نبی جانیں رتبہ تیرا، فہم سے ماورا سلامٌ علیک
+بعدِ احمد ہے خلقت پہ برہان تو، حق و باطل کے مابین میزان تو
+سارے عالم میں حق کی ہے پہچان تو، ہادی و رہنما سلامٌ علیک
 
-3
-Aye Imam-e-Mobeen Hami e Bekasan, Ain-e-Haq, Dast-e-Haq, Sir e Kaun-o-Makaan.
-Aye Sifat-e-Elahi Ke Roshan Nishaan, Syed Ul Osiya Salamun Alaik.
-Lashkar-e-Deen-e-Haq Ka Alamdar Tu, Our Fath-e-Mubeen Ka Hai Salar Tu.
-Mard-e-Maidan, Karrar-o-Jarrar Tu, Zoor-e-Dast-e-Khuda Salamun Alaik.
+۳
+اے امامِ مبین حامیِ بے کساں، عینِ حق، دستِ حق، سرِّ کون و مکاں
+اے صفاتِ الٰہی کے روشن نشاں، سید الاوصیا سلامٌ علیک
+لشکرِ دینِ حق کا علمدار تو، اور فتحِ مبین کا ہے سالار تو
+مردِ میداں، کرّار و جرّار تو، زورِ دستِ خدا سلامٌ علیک
 
-4
-Sari Khilqat Mein Aala Gharana Tera, Aasmano Mein Hai Aana Jana Tera.
-Kaun Jane Kahan Hai Thikana Tera, Mazhar-e-Kibriya Salamun Alaik.
-Ya Abalghous e Aalam Aye Uqda Kusha, Ho Najam Ko Mawaddat Ki Khilat Atta.
-Maula Nazar-e-Karam Ho, Asad Par Sada, Sahib-e-Hal Atta Salamun Alaik.
+۴
+ساری خلقت میں اعلیٰ گھرانا تیرا، آسمانوں میں ہے آنا جانا تیرا
+کون جانے کہاں ہے ٹھکانا تیرا، مظہرِ کبریا سلامٌ علیک
+یا ابا الغوثِ عالم اے عقدہ کشا، ہو نجم کو مودّت کی خلعت عطا
+مولا نظرِ کرم ہو، اسد پر سدا، صاحبِ ہَلْ أَتَىٰ سلامٌ علیک

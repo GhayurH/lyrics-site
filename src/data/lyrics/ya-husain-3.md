@@ -26,7 +26,7 @@ romanLyrics: |-
   Ya Husain kushta-e-tegh-e-jafa
   Ya Husain Sibt-e-Rasul-e-Khuda
   Haaye sar bar sar-e-neza tera
-  Dar badar le gayi fauj-e-aada
+  Dar badar le gaye baani-e-jafa
   Bekafan laasha-e-besar hai gharib-e-Zahra
   Hai badan ghoroṅ se paamaal tera waawaila
 
@@ -41,30 +41,30 @@ romanLyrics: |-
   4
   Ek maqtal meiṅ bahattar laashe
   Bhaanje bete bhatije pyaase
-  Paara paara huwe saare aise
+  Paara paara hue saare aise
   Ek Quraan ke paare jaise
   Khaak ur ur ke shahidoṅ ka kafan banti thi
   Khuld se Faatima Zehra ki sada aati thi
 
   5
   Ek taraf behta tha daryaa-e-Furaat
-  Ek taraf pyaasoṅ pe mushkil thi hayaat
+  Ik taraf pyaasoṅ pe mushkil thi hayaat
   Baad-e-Shabbir asiroṅ ki ye raat
   Kaise guzri tan-e-sadpaash ke saath
-  Koi bhaai ko koi roti thi betoṅ ke liye
-  Bekasi wo thi ke aaṅsu na the aaṅkhoṅ ke liye
+  Koi bhaai to koi roti thi betoṅ ke liye
+  Bekasi wo thi ke aaṅsu na the rone ke liye
 
   6
   Faatima Zehra ye deti haiṅ dua
   Ta qayaamat rahe ye farsh-e-aza
   Yuṅhi aati rahe maatam ki sada
-  Ho har ek lab pe Husaini noha
+  Ho har ik lab pe Husaini noha
   Hashr meiṅ Shah ke azaadaaroṅ se pursa luṅgi
   Maiṅ azaadaaroṅ ko jannat ki bashaarat duṅgi
 
   7
   Alwida laash-e-gharib-ul-ghuraba
-  Alwida laash-e-jamil-ul-shuhada
+  Alwida laash-e-jami-ush-shuhada
   Alwida bekafan o bewatana
   Alwida aal-e-gharib-e-Zehra
   Zindagi hai to ye sine ye aaṅsu haazir

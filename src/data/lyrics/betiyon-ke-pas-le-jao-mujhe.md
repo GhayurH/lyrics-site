@@ -8,59 +8,60 @@ poet: "Zeeshan Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Betiyoṅ Ke Pas Le Jao Mujhe"
+alternateTitle: "Betiyoṅ Ke Paas Le Jao Mujhe"
 reciter: "Syed Raza Abbas Zaidi"
 romanLyrics: |-
-  Betiyon Kay Pass Lejao Mujhe Syed Raza Abbas Zaidi
-  Jab Chali Talwar Haye Zehar Mein Dobi Hoi.
+  Jab chali talwaar haaye zehar mein dubi hui
+  Sar shikasta ho gaya uth na sake Maula Ali
+  The sirhaane Shabar o Shabbir aur Abbas bhi
+  Baap ko jab betiyoṅ ki yaad aai us ghari
+  Dekh kar betoṅ ka chehra yeh Ali kehne lage
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
 
   1
-  Sar Shikasta Ho Gaya Uth Na Sakay Maula Ali.
-  They Sirhaney Shabar o Shabeer Our Abbas Bhi.
-  Baap Ko Jab Betiyoṅ Ki Yaad Tarpaney Lagi.
-  Dekh Kar Beton Ka Chehra Yeh Ali Kehne Lagay.
+  Dekh kar Zainab ko meri saaṅs mein saaṅs aayegi
+  Dekh kar Kulsum ko yeh zindagi barh jaayegi
+  Baap kuchh din aur ji le betiyoṅ ke saamne
 
   2
-  Waqt Kam Hai Betiyon Ke Pas Le Jao Mujhe.
-  Dekh Kar Zainab Ko Meri Sans Mein Sans Aaye Gi.
-  Dekh Kar Kulsoom Ko Yeh Zindagi Barh Jaye Gi.
-  Baap Kuch Din Our Jee Le Betiyon Ke Samne.
+  Zakhm zarbat ka wahaaṅ par dekhna zaahir na ho
+  Khun sar se saaf kar ke phir amaama baaṅdh do
+  Betiyaaṅ ghabra na jaaeṅ meri haalat dekh ke
 
   3
-  Zakhm Zarbat Ka Wahan Yeh Dekhna Zahir Na Ho.
-  Khon Sar Se Saaf Kar Ke Phir Amama Bandh Do.
-  Betiyaan Ghabra Na Jaein Meri Halat Dekh Ke.
-  Haye Phir Shabeer Se Rotay Hoye Bolay Ali.
+  Haaye phir Shabbir se rote hue bole Ali
+  Woh agar maaṅge to de dena nishaani baap ki
+  Yeh musalla saath rakh lo meri Zainab ke liye
 
   4
-  Woh Agar Mangay Tu De Dena Nishani Baap Ki.
-  Yeh Musalla Sath Rakh Lo Meri Zainab Ke Liye.
-  Iss Liye Hi Baap Se Beti Ka Rishta Hai Ajab.
-  Betiyaan Hain Baap Ki Maiyyat Pe Ronaq Ka Sabab.
+  Is liye hi baap se beti ka hai rishta ajab
+  Betiyaaṅ haiṅ baap ki maiyyat pe raunaq ka sabab
+  Khush nasibi hai Khuda beti ata kar de jise
 
   5
-  Khush Naseebi Hai Khuda Beti Atta Kar De Jisay.
-  Apne Baba Ke Janazay Par Jo Roein Fatima.
-  Oss Ghari Main Apni Zainab Ke Liye Rota Raha.
-  Kitna Mushkil Hai Bicharna Betiyon Ka Baap Se.
+  Apne baba ke janaaze par jo roeṅ Fatima
+  Us ghari main apni Zainab ke liye rota raha
+  Kitna mushkil hai bichharna betiyoṅ ka baap se
 
   6
-  Kal Main Jab Kulsoom Ke Ghar Se Chala Roney Lagi.
-  Mere Seene Se Lipat Kar Mujh Se Yeh Kehne Lagi.
-  Ja Rahe Hain Laut Kar Phir Aaeingay Kab Ghar Mere.
-  Le Chalo Ab Betiyoṅ Se Dur Maiṅ Kaise Rahoṅ.
+  Kal main jab Kulsum ke ghar se chala rone lagi
+  Mere sine se lipat kar mujh se yeh kehne lagi
+  Ja rahe haiṅ laut kar phir aaeṅge kab ghar mere
 
   7
-  Zainab o Kulsoom Ke Ja Kar Maiṅ Shaney Chom Loon.
-  Haan Issi Kofay Mein Hoon Gay Hath Dono Ke Bandhay.
-  Dekh Kar Abbas Ka Chehra Ali Ne Yeh Kaha.
-  Samne Rehna Hamesha Orh Kar Meri Abba.
+  Le chalo ab betiyoṅ se dur main kaise rahuṅ
+  Zainab o Kulsum ke ja kar main shaaneṅ chum luṅ
+  Haaṅ isi Kufe mein hoṅge haath donoṅ ke bandhe
 
   8
-  Betiyaan Jeeti Rahein Chehra Tumhara Dekh Ke.
-  Haye Zishan-o- Raza Jab Hukam Baba Ka Suna.
-  Ghar Ki Janib Le Chale Bete Basad Aah o Baqa.
-  Our Ali Betoṅ Se Ro Ro Kar Yehi Kehte Rahe.
+  Dekh kar Abbas ka chehra Ali ne yeh kaha
+  Saamne rehna hamesha orh kar meri aba
+  Betiyaaṅ jiti raheṅ chehra tumhaara dekh ke
+
+  9
+  Haaye Zishan o Raza jab hukm baba ka suna
+  Ghar ki jaanib le chale bete basad aah o baqa
+  Aur Ali betoṅ se ro ro kar yehi kehte rahe
 ---
 
 جب چلی تلوار ہائے زہر میں ڈوبی ہوئی

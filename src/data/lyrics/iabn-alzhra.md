@@ -8,43 +8,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Yabnaz Zehra
+  Ya Ibn az-Zehra
 
   1
   Nehr-e-Alqama pe ik udasi hai
-  Dukhtar e Husain bhuki pyasi hai
-  Bawafa ke ho gaye qalam shane
+  Dukhtar-e-Husain bhuki pyaasi hai
+  Baawafa ke ho gaye qalam shaane
   Ghamzada Rasul ki nawasi hai
 
   2
-  Ya Husain aakhri nishan-e-Panjtan
-  Tashnagi se hai nidhal teri anjuman
-  Tapte ban may aayi kaisi zulm ki khizaaṅ
+  Ya Husain aakhri nishaan-e-Panjtan
+  Tashnagi se hai nidhaal teri anjuman
+  Tapte ban mein aayi kaisi zulm ki khizaaṅ
   Asr ke qarib lut gaya tera chaman
 
   3
-  Bezuban ki lash qabr se nikal kar
-  Zalimon ne kar diya juda badan se sar
-  Arsh kanpne laga laraz gaye zamin
-  Gir parreṅ Ruba aah bhar ke khaak par
+  Bezubaan ki laash qabr se nikaal kar
+  Zaalimon ne kar diya juda badan se sar
+  Arsh kaanpne laga laraz gayi zamin
+  Gir pariṅ Rubab aah bhar ke khaak par
 
   4
-  Asr ko tamam sar qalam kiye gaye
-  Sham ko khayam bhi jala diye gaye
-  Lut gaya hai mal o zar ridayaiṅ chin gayiṅ
-  Qaid Abid-e-hazin bana diye gaye
+  Asr ko tamaam sar qalam kiye gaye
+  Shaam ko khiyaam bhi jala diye gaye
+  Lut gaya hai maal o zar ridaaeṅ chhin ga'iṅ
+  Qaid Abid-e-Hazin bana diye gaye
 
   5
-  Ado ne ki haiṅ Abid e hazin pe sakhtiaṅ
-  Gale may toaq pauṅ may bhi dali berriyaṅ
+  Adu ne ki haiṅ Abid-e-Hazin pe sakhtiyaṅ
+  Gale mein tauq paa'uṅ mein bhi daali beriyaṅ
   Jala diya jo bistar-e-mariz-e-Karbala
-  Hili zamin-e-dasht aayeṅ surkh andhiyaṅ
+  Hili zamin-e-dasht aa'iṅ surkh aandhiyaṅ
 
   6
-  Fikr io Mujib ke Taqi ki hai zubaaṅ
-  Maqsad-e-aza jo ho raha hai yuṅ bayaṅ
-  Shah e Karbala ke zaer e saya e karam
-  Madha khawan aik hai to ik hai noha khawaṅ
+  Fikr hai Mujib ki Taqi ki hai zubaaṅ
+  Maqsad-e-aza jo ho raha hai yuṅ bayaaṅ
+  Shaah-e-Karbala ke zer-e-saaya-e-karam
+  Madh khwaan ek hai to ik hai noha khwaaṅ
 ---
 
 یاابن الزہراؑ

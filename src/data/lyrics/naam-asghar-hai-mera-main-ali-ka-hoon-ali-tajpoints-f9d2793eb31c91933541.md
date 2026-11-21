@@ -1,65 +1,120 @@
 ---
-title: "Naam Asghar Hai Mera Main Ali Ka Hoon Ali"
+title: "نام اصغر ہے میرا، میں علی کا ہوں علی"
+alternateTitle: "Naam Asghar Hai Mera Main Ali Ka Hoon Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Naam Asghar hai mera main Ali ka hoon Ali Mukhtar Hussain Fatehpuri
+  Hurmala tujh ko batata hoon main oqaat teri
+  Fakhar-e-Khursheed hoon main khak ka paiwand nahi
+  Ibn-e-Shabir sin-o-saal ka paband nahi
+
+  2
+  Abhi maqtal mein rolaye gi tujhe meri hansi
+  Tu samajhta hai keh pani ki zarorat hai mujhe
+  Sahib-e-amar ka beta hoon khabar bhi hai tujhe
+  Main jo chahoon abhi lag jaye gi sawan ki jahri
+
+  3
+  Aaj se jang ke dastoor badal jaein gay hum
+  Faisla saaf yeh likhein gay morikh ke qalam
+  Haar kar jeet meri jeet hoi haar teri
+  Hashar se pehle sama hashar ka ho jaye abhi
+
+  4
+  Zindagi moat ki aagosh mei so jaye abhi
+  Band konain ki taqdeer hai muthi mein meri
+  Zoor dadad ka dikhane ki zarorat kya hai
+  Mujh ko talwar uthane ki zarorat kya hai
+
+  5
+  Main isharah kar do ho abhi har aik shaqi
+  Sham walo ke muqadar mein andehra kar doon
+  Muntazir hai wo meri koi isharah kar doon
+  Hath bandeh howay khud moat hai maqtal mein khari
+
+  6
+  Meri madar ne barhai mere larne ki umang
+  Kabhi Khaibar kabhi Khandaq kabhi Safeen ki jang
+  Cheh mahine mujhe lori mein sunaya hai yehi
+  Khandaan ayse kareemo ka kahan our bhala
+
+  7
+  Apne qatil pe karam shewah-e-aal-e-Zahra
+  Hurmala ja tujhe khairat mein shohrat de di
+  Do jahan ko mera paigham suna do ja kar
+  Koi rahib koi Fitrus abhi baqi hai agar
+
+  8
+  Mere gehwarey ke nazdeek chala aaye abhi
+  Qowatein shar ki hain jitni unhein yakja kar le
+  Kam hain nu lakh tu ja our ikatha kar le
+  Mill ke bhi dono jahan mujh se na jeetein gaye kabhi
+
+  9
+  Chodah sadiyon se Takallum yeh koi kehta hai
+  Oss ko olaad atta ho gi mera dawa hai
+  Sar aqeedat se rakhe tu mere jholay pe koi
+  Manqabat shehzadah Ali Asghar
 ---
 
-1
-Naam Asghar Hai Mera Main Ali Ka Hoon Ali Mukhtar Hussain Fatehpuri.
-Hurmala Tujh Ko Batata Hoon Main Oqaat Teri.
-Fakhar-e-Khursheed Hoon Main Khak Ka Paiwand Nahi
-Ibn-e-Shabir Sin-o-Saal Ka Paband Nahi.
+۱
+نام اصغر ہے میرا، میں علی کا ہوں علی مختار حسین فتح پوری
+حرملہ تجھ کو بتاتا ہوں میں اوقات تیری
+فخرِ خورشید ہوں میں خاک کا پیوند نہیں
+ابنِ شبیر سن و سال کا پابند نہیں
 
-2
-Abhi Maqtal Mein Rolaye Gi Tujhe Meri Hansi.
-Tu Samajhta Hai Keh Pani Ki Zarorat Hai Mujhe.
-Sahib-e-Amar Ka Beta Hoon Khabar Bhi Hai Tujhe.
-Main Jo Chahoon Abhi Lag Jaye Gi Sawan Ki Jahri.
+۲
+ابھی مقتل میں رلائے گی تجھے میری ہنسی
+تو سمجھتا ہے کہ پانی کی ضرورت ہے مجھے
+صاحبِ امر کا بیٹا ہوں، خبر بھی ہے تجھے
+میں جو چاہوں ابھی لگ جائے گی ساون کی جھڑی
 
-3
-Aaj Se Jang Ke Dastoor Badal Jaein Gay Hum.
-Faisla Saaf Yeh Likhein Gay Morikh Ke Qalam.
-Haar Kar Jeet Meri Jeet Hoi Haar Teri.
-Hashar Se Pehle Sama Hashar Ka Ho Jaye Abhi.
+۳
+آج سے جنگ کے دستور بدل جائیں گے ہم
+فیصلہ صاف یہ لکھیں گے مورخ کے قلم
+ہار کر جیت میری جیت ہوئی ہار تیری
+حشر سے پہلے سماں حشر کا ہو جائے ابھی
 
-4
-Zindagi Moat Ki Aagosh Mei So Jaye Abhi.
-Band Konain Ki Taqdeer Hai Muthi Mein Meri.
-Zoor Dadad Ka Dikhane Ki Zarorat Kya Hai.
-Mujh Ko Talwar Uthane Ki Zarorat Kya Hai.
+۴
+زندگی موت کی آغوش میں سو جائے ابھی
+بند کونین کی تقدیر ہے مٹھی میں میری
+زورِ داداد کا دکھانے کی ضرورت کیا ہے
+مجھ کو تلوار اٹھانے کی ضرورت کیا ہے
 
-5
-Main Isharah Kar Do Ho Abhi Har Aik Shaqi.
-Sham Walo Ke Muqadar Mein Andehra Kar Doon.
-Muntazir Hai Wo Meri Koi Isharah Kar Doon.
-Hath Bandeh Howay Khud Moat Hai Maqtal Mein Khari.
+۵
+میں اشارہ کر دوں، ہو ابھی ہر ایک شقی
+شام والوں کے مقدر میں اندھیرا کر دوں
+منتظر ہے وہ میری کوئی اشارہ کر دوں
+ہاتھ باندھے ہوئے خود موت ہے مقتل میں کھڑی
 
-6
-Meri Madar Ne Barhai Mere Larne Ki Umang.
-Kabhi Khaibar Kabhi Khandaq Kabhi Safeen Ki Jang.
-Cheh Mahine Mujhe Lori Mein Sunaya Hai Yehi.
-Khandaan Ayse Kareemo Ka Kahan Our Bhala.
+۶
+میری مادر نے بڑھائی میرے لڑنے کی امنگ
+کبھی خیبر کبھی خندق کبھی صفین کی جنگ
+چھ مہینے مجھے لوری میں سنایا ہے یہی
+خاندان ایسے کریموں کا کہاں اور بھلا
 
-7
-Apne Qatil Pe Karam Shewah-e-Aal-e-Zahra.
-Hurmala Ja Tujhe Khairat Mein Shohrat De Di.
-Do Jahan Ko Mera Paigham Suna Do Ja Kar.
-Koi Rahib Koi Fitrus Abhi Baqi Hai Agar.
+۷
+اپنے قاتل پہ کرم شیوۂ آلِ زہرا
+حرملہ جا تجھے خیرات میں شہرت دے دی
+دو جہاں کو میرا پیغام سنا دو جا کر
+کوئی راہب کوئی فطرس ابھی باقی ہے اگر
 
-8
-Mere Gehwarey Ke Nazdeek Chala Aaye Abhi.
-Qowatein Shar Ki Hain Jitni Unhein Yakja Kar Le.
-Kam Hain Nu Lakh Tu Ja Our Ikatha Kar Le.
-Mill Ke Bhi Dono Jahan Mujh Se Na Jeetein Gaye Kabhi.
+۸
+میرے گہوارے کے نزدیک چلا آئے ابھی
+قوتیں شر کی ہیں جتنی انہیں یکجا کر لے
+کم ہیں نو لاکھ، تو جا اور اکٹھا کر لے
+مل کے بھی دونوں جہاں مجھ سے نہ جیتیں گے کبھی
 
-9
-Chodah Sadiyon Se Takallum Yeh Koi Kehta Hai.
-Oss Ko Olaad Atta Ho Gi Mera Dawa Hai.
-Sar Aqeedat Se Rakhe Tu Mere Jholay Pe Koi.
-Manqabat Shehzadah Ali Asghar
+۹
+چودہ صدیوں سے تکلم یہ کوئی کہتا ہے
+اس کو اولاد عطا ہو گی، میرا دعویٰ ہے
+سر عقیدت سے رکھے تو میرے جھولے پہ کوئی
+منقبت شہزادہ علی اصغر

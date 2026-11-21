@@ -1,33 +1,53 @@
 ---
-title: "Bharay Darbar Main Zahra Ko Bulaya"
+title: "بھرے دربار میں زہرا کو بلایا"
+alternateTitle: "Bharay Darbar Main Zahra Ko Bulaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bharay darbar may Zahra ko bulaya ay musalma tunay
+
+  1
+  Khatam e mursal ka kaleja kyu jhalaya ay musalmaan tunay
+
+  2
+  Phaar kar penkdi, jo sanad dikaayee Zahra
+  Day kay jherkain dil Mohammed ka dukaya
+
+  3
+  Ghair muslim tha koyi, Sikh tha Yahoodi yan Masi
+  Kisne darbaar main Zahra ko rulaya
+
+  4
+  Aisa hosak ta nahi, jaayega tu jannat main
+  Haath khaali jesay Zahra ko lowtaya
+
+  5
+  Haq adaa khob howaa ajarerisalat naa milaa
+  Daar pay Ahmad kay hay darvaza giraya
 ---
 
-Bharay Darbar May Zahra Ko Bulaya Ay Musalma Tunay
+بھرے دربار میں زہرا کو بلایا اے مسلماں تو نے
 
-Khatam e mursal ka kaleja
-Kyu jhalaya
-Ay musalmaan tunay
+۱
+خاتمِ مرسل کا کلیجہ کیوں جلایا اے مسلمان تو نے
 
-Phaar kar penkdi, jo sanad dikaayee zahra
-Day kay jherkain dil mohammed
-Ka dukaya
+۲
+پھاڑ کر پھینک دی، جو سند دکھائی زہرا
+دے کے جھڑکیں دلِ محمد کا دکھایا
 
-Ghair muslim tha koyi, sikh tha yahoodi yan masi
-Kisne darbaar main zahra
-Ko rulaya
+۳
+غیر مسلم تھا کوئی، سکھ تھا یہودی یاں مسیح
+کس نے دربار میں زہرا کو رلایا
 
-Aisa hosak ta nahi, jaayega tu jannat main
-Haath khaali jesay zahra
-Ko lowtaya
+۴
+ایسا ہو سکتا نہیں، جائے گا تو جنت میں
+ہاتھ خالی جیسے زہرا کو لوٹایا
 
-Haq Adaa Khob Howaa AjareRisalat Naa Milaa
-Daar Pay Ahmad Kay Hay Darvaza Giraya
-
-Bharay Darbar Mai Zahra Ko Bulaya | MSH | Shahadat Bibi Fatima S.A | IEC Husaini | 2025
+۵
+حق ادا خوب ہوا اجرِ رسالت نہ ملا
+در پہ احمد کے ہے دروازہ گرایا

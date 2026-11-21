@@ -13,10 +13,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Ya hamshir-e-Raza
-  Assalaamo alaika ya Karima
+  Assalaamu alaika ya Karima
 
   1
-  Tera bhaai Imam-e-Zaamin hai
+  Tera bhaai Imaam-e-Zaamin hai
   Tera baaba dar-e-hawaaij hai
 
   2
@@ -39,15 +39,15 @@ romanLyrics: |-
 
   5
   Shaahzaadi jo tere rauze par
-  Moatariz ho rahe haiṅ sajde par
-  Ehteraaman hai shukr ka sajda
+  Muatariz ho rahe haiṅ sajde par
+  Ehtiraaman hai shukr ka sajda
   Aur wo bhi Khuda ke kehne par
 
   6
   Saath donoṅ jahaan aate haiṅ
   Jab bhi wo Jamkaraan aate haiṅ
   Tujh se milne ko tere rauze par
-  Khud Imam-e-Zamaan aate haiṅ
+  Khud Imaam-e-Zamaan aate haiṅ
 
   7
   Pahunchi jo Qum ajib manzar tha

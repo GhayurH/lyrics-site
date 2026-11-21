@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Daawat koi deta to ye farmaate the Sajjad
-  Gar mujh ko bulaana hai to majlis tu bapa kar
+  Gar mujh ko bulaana hai to majlis tu bapaa kar
 
   5
   Dekhe the jo Aashur ko bujhte hue shole
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Kya guzri dil-e-Sayyid-e-Sajjad pe us dam
-  Jab luta gaya Bibiyoṅ ka makhna o chaadar
+  Jab luta gaya bibiyoṅ ka makhna o chaadar
 
   7
   Kis mard meiṅ hai hausla juz Aabid-e-bimaar

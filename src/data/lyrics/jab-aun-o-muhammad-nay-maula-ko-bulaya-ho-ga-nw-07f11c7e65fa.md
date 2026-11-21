@@ -1,26 +1,49 @@
 ---
-title: "Jab Aun O Muhammad Nay Maula Ko Bulaya Ho Ga"
+title: "جب عون و محمد نے مولا کو بلایا ہو گا"
+alternateTitle: "Jab Aun O Muhammad Nay Maula Ko Bulaya Ho Ga"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jab Aun o Muhammad nay Maula ko bulaya ho ga
+  Masooma kee lashon pe Akbar ka baba janay, kis haal mai aaya ho ga
+
+  1
+  Sadqa hai Aun o Mohammad, Akbar aur Ali Asghar ka
+  Do baiton kee lashon pe ye soch ke maa ujri ne, na ashk bahaya ho ga
+
+  2
+  In dono kee lashain toe ik doojay se dur pari theen
+  Mazloom ne kaisay in kee lashon ko jaa ke, tanha maqtal se uthaya ho ga
+
+  3
+  Zainab kee goad bhi ujri aur bhai kata maqtal mai
+  Khaimon ko aag lagee thee, Sajjad beemar ko kaisay, jalnay se bachaya ho ga
+
+  4
+  Koofa aur Shaam kee faujain, girtay huay bhaagee hon gee
+  Abbas ke shagirdon ne, Akhtar jab zor Ali ka, maqtal mai dikhaya ho ga
 ---
 
-Jab Aun O Muhammad Nay Maula Ko Bulaya Ho Ga
+جب عون و محمد نے مولا کو بلایا ہو گا
+معصومہ کی لاشوں پہ اکبر کا بابا جانے، کس حال میں آیا ہو گا
 
-Masooma Kee Lashon Pe Akbar Ka Baba Janay, Kis Haal Mai Aaya Ho Ga
+۱
+صدقہ ہے عون و محمد، اکبر اور علی اصغر کا
+دو بیٹوں کی لاشوں پہ یہ سوچ کے ماں اجڑی نے، نہ اشک بہایا ہو گا
 
-Sadqa Hai Aun O Mohammad, Akbar Aur Ali Asghar Ka
-Do Baiton Kee Lashon Pe Ye Soch Ke Maa Ujri Ne, Na Ashk Bahaya Ho Ga
+۲
+ان دونوں کی لاشیں تو اک دوجے سے دور پڑی تھیں
+مظلوم نے کیسے ان کی لاشوں کو جا کے، تنہا مقتل سے اٹھایا ہو گا
 
-In Dono Kee Lashain Toe Ik Doojay Se Dur Pari Theen
-Mazloom Ne Kaisay In Kee Lashon Ko Jaa Ke, Tanha Maqtal Se Uthaya Ho Ga
+۳
+زینب کی گود بھی اجڑی اور بھائی کٹا مقتل میں
+خیموں کو آگ لگی تھی، سجاد بیمار کو کیسے، جلنے سے بچایا ہو گا
 
-Zainab Kee Goad Bhi Ujri Aur Bhai Kata Maqtal Mai
-Khaimon Ko Aag Lagee Thee, Sajjad Beemar Ko Kaisay, Jalnay Se Bachaya Ho Ga
-
-Koofa Aur Shaam Kee Faujain, Girtay Huay Bhaagee Hon Gee
-Abbas Ke Shagirdon Ne, Akhtar Jab Zor Ali Ka, Maqtal Mai Dikhaya Ho Ga
+۴
+کوفہ اور شام کی فوجیں، گرتے ہوئے بھاگی ہوں گی
+عباس کے شاگردوں نے، اختر جب زور علی کا، مقتل میں دکھایا ہو گا

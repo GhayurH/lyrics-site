@@ -1,36 +1,62 @@
 ---
-title: "Jab Dekha Khoon Mein Tar Lasha-e-Hassan Ko"
+title: "جب دیکھا خون میں تر لاشۂ حسن کو"
+alternateTitle: "Jab Dekha Khoon Mein Tar Lasha-e-Hassan Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab dekha khoon mein tar lasha-e-Hassan ko
+  Behane tarap ke roein shehzada-e-aman ko
+  Shabir ko bula ke seene se hai lagaya
+  Bose diye gale par ashkon ko hai bahaya
+  Piyasa zibah yeh ho ga maloom tha Hassan ko
+  Dil thak ke Hassan ne Zainab ko hai pukara
+  Baba ke bad saya uthta hai ab hamara
+  Qismat mein teri Zainab rona hai Panjtan ko
+  Piyase gale pe bahi khanjar tere chale ga
+  Pamal ho ga lasha haye kafan na mile ga
+  Naizon pe dikhaein gaye sar kaat ke behan ko
+  Jab lasha-e-Hassan ko teeron ne hai chupaya
+  Chehre ka rang badla aankhon mein khon aaya
+  Aaya jalal aise Abbas ke badan ko
+  Maiyat se lipat kar yeh Shabir ne pukara
+  Mazloom mera bahi kyun be-khata hai mera
+  Rangeen kiya khoon se mazloom ke kafan ko
+  Bad-e-Hassan ke shah ko Karbal ki yaad ayi
+  Aankhon mein ayi jisse Zainab ki be-ridai
+  Mehsoos kar rahe the bazaar mein behan ko
+  Zahra teri dua se matam sada rahe ga
+  Matam ke dushmano ka seena youn hi jale ga
+  Zeeshan de ga pursa Zahra tere chaman ko
 ---
 
-1
-Jab Dekha Khoon Mein Tar Lasha-e-Hassan Ko.
-Behane Tarap Ke Roein Shehzada-e-Aman Ko.
-Shabir Ko Bula Ke Seene Se Hai Lagaya.
-Bose Diye Gale Par Ashkon Ko Hai Bahaya.
-Piyasa Zibah Yeh Ho Ga Maloom Tha Hassan Ko.
-Dil Thak Ke Hassan Ne Zainab Ko Hai Pukara.
-Baba Ke Bad Saya Uthta Hai Ab Hamara.
-Qismat Mein Teri Zainab Rona Hai Panjtan Ko.
-Piyase Gale Pe Bahi Khanjar Tere Chale Ga.
-Pamal Ho Ga Lasha Haye Kafan Na Mile Ga.
-Naizon Pe Dikhaein Gaye Sar Kaat Ke Behan Ko.
-Jab Lasha-e-Hassan Ko Teeron Ne Hai Chupaya.
-Chehre Ka Rang Badla Aankhon Mein Khon Aaya.
-Aaya Jalal Aise Abbas Ke Badan Ko.
-Maiyat Se Lipat Kar Yeh Shabir Ne Pukara.
-Mazloom Mera Bahi Kyun Be-Khata Hai Mera.
-Rangeen Kiya Khoon Se Mazloom Ke Kafan Ko.
-Bad-e-Hassan Ke Shah Ko Karbal Ki Yaad Ayi.
-Aankhon Mein Ayi Jisse Zainab Ki Be-Ridai.
-Mehsoos Kar Rahe The Bazaar Mein Behan Ko.
-Zahra Teri Dua Se Matam Sada Rahe Ga.
-Matam Ke Dushmano Ka Seena Youn Hi Jale Ga.
- Zeeshan De Ga Pursa Zahra Tere Chaman Ko.
+۱
+جب دیکھا خون میں تر لاشۂ حسن کو
+بہنیں تڑپ کے روئیں شہزادۂ امن کو
+شبیر کو بلا کے سینے سے ہے لگایا
+بوسے دیے گلے پر اشکوں کو ہے بہایا
+پیاسا ذبح یہ ہو گا معلوم تھا حسن کو
+دل تھک کے حسن نے زینب کو ہے پکارا
+بابا کے بعد سایہ اٹھتا ہے اب ہمارا
+قسمت میں تیری زینب رونا ہے پنجتن کو
+پیاسے گلے پہ بھائی خنجر تیرے چلے گا
+پامال ہو گا لاشہ ہائے کفن نہ ملے گا
+نیزوں پہ دکھائیں گے سر کاٹ کے بہن کو
+جب لاشۂ حسن کو تیروں نے ہے چھپایا
+چہرے کا رنگ بدلا آنکھوں میں خون آیا
+آیا جلال ایسے عباس کے بدن کو
+میت سے لپٹ کر یہ شبیر نے پکارا
+مظلوم میرا بھائی کیوں بے خطا ہے میرا
+رنگین کیا خون سے مظلوم کے کفن کو
+بعدِ حسن کے شاہ کو کربل کی یاد آئی
+آنکھوں میں آئی جس سے زینب کی بے ردائی
+محسوس کر رہے تھے بازار میں بہن کو
+زہرا تیری دعا سے ماتم سدا رہے گا
+ماتم کے دشمنوں کا سینہ یوں ہی جلے گا
+ذیشان دے گا پرسہ زہرا تیرے چمن کو

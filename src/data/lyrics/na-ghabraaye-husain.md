@@ -43,7 +43,7 @@ romanLyrics: |-
   Na ghabraaye Husain
 
   5
-  Kat chuki jab fauj saari dil tha gham se paayemaal
+  Kat chuki jab fauj saari dil tha gham se paaymaal
   Tin din ke bhuke pyaase aur zakhmoṅ se nidhaal
   Jang larne aaye Husain
   Na ghabraaye Husain
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   8
   Shaah ki mazlumiyat par ho gayi Zehra gawaah
-  Jhaarti thi apne baaloṅ se pisar ki qatl gaah
+  Jhaarti thi apne baaloṅ se pisar ki qatlgaah
   Maaṅ pukaari haaye Husain
   Na ghabraaye Husain
 

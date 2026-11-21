@@ -1,35 +1,59 @@
 ---
-title: "Murtaza Ki Betiyoon Par Zulm Ki Yalgar Hai Asghar Khan"
+title: "مرتضیٰ کی بیٹیوں پر ظلم کی یلغار ہے اصغر خان"
+alternateTitle: "Murtaza Ki Betiyoon Par Zulm Ki Yalgar Hai Asghar Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Batool"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Murtaza ki betiyoon par zulm ki yalgar hai
+  Qatal sajday mein howa jo woh Ali Karrar hai
+  Kibriya ka naam zindah kar diya khud chal diya
+  Deen ka jo qafila hai oss ka yeh salar hai
+
+  2
+  Baap ki maiyyat pe aa kar sochti hain betiyaan
+  Karbala hai samne our Sham ka bazar hai
+  Masjid-e-Kofa hai our sajday ka aalam hai magar
+  Khon mein doba howa kyun Syed-e-Abrar hai
+
+  3
+  Aliya kehti hain ro ke sakht mushkil hai ghari
+  Rasta bazar ka tu our bhi dushwar hai
+  Mustafa ka aaj roza hil gaya hai ba Khuda
+  Khak sar pe jis ke hai woh khuld ka sardar hai
+
+  4
+  Qatal-e-Haider mein Saqeefa bhi hai shamil sochiye
+  Jis ne darwaza giraya tha wohi kirdar hai
+  Aaj Kofay mein Ali ke ghar qayamat hai Batool
+  Syeda ki betiyaan hain Karbala teyar hai
 ---
 
-1
-Murtaza Ki Betiyoon Par Zulm Ki Yalgar Hai.
-Qatal Sajday Mein Howa Jo Woh Ali Karrar Hai.
-Kibriya Ka Naam Zindah Kar Diya Khud Chal Diya.
-Deen Ka Jo Qafila Hai Oss Ka Yeh Salar Hai.
+۱
+مرتضیٰ کی بیٹیوں پر ظلم کی یلغار ہے
+قتل سجدے میں ہوا جو وہ علی کرار ہے
+کبریا کا نام زندہ کر دیا خود چل دیا
+دین کا جو قافلہ ہے اس کا یہ سالار ہے
 
-2
-Baap Ki Maiyyat Pe Aa Kar Sochti Hain Betiyaan.
-Karbala Hai Samne Our Sham Ka Bazar Hai.
-Masjid-e-Kofa Hai Our Sajday Ka Aalam Hai Magar.
-Khon Mein Doba Howa Kyun Syed-e-Abrar Hai.
+۲
+باپ کی میت پہ آ کر سوچتی ہیں بیٹیاں
+کربلا ہے سامنے اور شام کا بازار ہے
+مسجدِ کوفہ ہے اور سجدے کا عالم ہے مگر
+خون میں ڈوبا ہوا کیوں سیدِ ابرار ہے
 
-3
-Aliya Kehti Hain Ro Ke Sakht Mushkil Hai Ghari.
-Rasta Bazar Ka Tu Our Bhi Dushwar Hai.
-Mustafa Ka Aaj Roza Hil Gaya Hai Ba Khuda.
-Khak Sar Pe Jis Ke Hai Woh Khuld Ka Sardar Hai.
+۳
+عالیہ کہتی ہیں رو کے سخت مشکل ہے گھڑی
+راستہ بازار کا تو اور بھی دشوار ہے
+مصطفیٰ کا آج روضہ ہل گیا ہے بخدا
+خاک سر پہ جس کے ہے وہ خلد کا سردار ہے
 
-4
-Qatal-e-Haider Mein Saqeefa Bhi Hai Shamil Sochiye.
-Jis Ne Darwaza Giraya Tha Wohi Kirdar Hai.
-Aaj Kofay Mein Ali Ke Ghar Qayamat Hai Batool.
-Syeda Ki Betiyaan Hain Karbala Teyar Hai.
+۴
+قتلِ حیدر میں سقیفہ بھی ہے شامل سوچیے
+جس نے دروازہ گرایا تھا وہی کردار ہے
+آج کوفے میں علی کے گھر قیامت ہے بتول
+سیدہ کی بیٹیاں ہیں کربلا تیار ہے

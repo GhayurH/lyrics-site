@@ -7,6 +7,57 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Naana dar basta rahe hameṅ mur ke kabhi nahiṅ aana
+  Karb o bala ke jangal mein hameṅ apna des basaana
+
+  1
+  Jab bhi teri yaad aaye gi
+  Mujh ko safar mein rulwaaye gi
+  Saamne Akbar ko bithla ke
+  Teri yaad manaana
+
+  2
+  Sughra ko bhi rulwaaye gi
+  Yaad hamaari tarpaaye gi
+  Sab ki taraf se Sughra beti
+  Roz hai diya jalaana
+
+  3
+  Tapti ret pe laasheṅ hoṅ gi
+  Dil mein teri yaadeṅ hoṅ gi
+  Waada Naana bachpan ka hameṅ
+  Karbal ja ke nibhaana
+
+  4
+  Qatl Ali ke laal hoiṅ ge
+  Laashe sab paamaal hoiṅ ge
+  Jab mazlum ke khushk gale pe
+  Khanjar Shimr chalaana
+
+  5
+  Khaak mein sab hi mil jaaeṅ ge
+  Khaime saare jal jaaeṅ ge
+  Zainab ko sholoṅ mein ghir ke
+  Aabid ko hai bachaana
+
+  6
+  Dete haiṅ Shabbir duhaaiyaaṅ
+  Saath mere haiṅ Zahra jaaiyaaṅ
+  Zainab, Farwa aur Sakina
+  Shaam safar pe jaana
+
+  7
+  Darbaaroṅ mein peshi ho gi
+  Koi na khair andeshi ho gi
+  Sayyid zaadiyoṅ ko baaloṅ se
+  Chehra apna chhupaana
+
+  8
+  Maaṅ Zahra bhi bulaati hoṅ gi
+  Ashk-e-aza bhi bahaati hoṅ gi
+  Kaash Husain kaheṅ Rizwaan se
+  Noha aa ke sunaana
 ---
 
 نانا در بَستا رہے ہمیں مڑ کے کبھی نہیں آنا

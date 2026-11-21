@@ -1,46 +1,83 @@
 ---
-title: "Ya Fatima Zahra Shahid Ali Shahid"
+title: "یا فاطمہ زہرا شاہد علی شاہد"
+alternateTitle: "Ya Fatima Zahra Shahid Ali Shahid"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ya Fatima Zahra Shahid Ali Shahid
+  Zakhmi dar-o-dewar hain ya Fatima Zahra
+  Yawar hain na ansar hain ya Fatima Zahra
+  Ik shehar-e-Muhammad mein madadgar nahi hai
+
+  2
+  Yasrab hai koi Sham ka bazar nahi hai
+  Sholay hain sitamgar hain ya Fatima Zahra
+  Iss alam-e-ghurbat mein Muhammad ko sada do
+  Fizza marey Hasnain ko daman mein chupa lo
+
+  3
+  Mushkil mein giraftar hain ya Fatima Zahra
+  Youn sare Madine ne tujhe mil ke sataya
+  Jhutla ke tere haq ko tujhe khon rulaya
+  Gasib sar-e-darbar hain ya Fatima Zahra
+
+  4
+  Youn teer-e-jafa mara hai seene mein kissi ne
+  Ik phool ko masla hai Madine mein kissi ne
+  Mohsin ke azadar hain ya Fatima Zahra
+  Tum khat-e-wilayat ko kabhi bhool na jana
+
+  5
+  Tanha ho tu phir Fatima Zahra ko bolana
+  Haider ki madadgar hain ya Fatima Zahra
+  Ab bar-e-garaan uthta nahi sokhta jaan se
+  Gir jata hai Abbas ka sar nook-e-sina se
+
+  6
+  Zainab sar-e-bazar hain ya Fatima Zahra
+  Ya Fatima yeh:Haider-o-Shahid: ko dua dein
+  Dunya mein humein Yousuf-e-Zahra se mila dein
+  Hum tere azadar hain ya Fatima Zahra
 ---
 
-1
-Ya Fatima Zahra Shahid Ali Shahid.
-Zakhmi Dar-o-Dewar Hain Ya Fatima Zahra.
-Yawar Hain Na Ansar Hain Ya Fatima Zahra.
-Ik Shehar-e-Muhammad Mein Madadgar Nahi Hai.
+۱
+یا فاطمہ زہرا شاہد علی شاہد
+زخمی در و دیوار ہیں یا فاطمہ زہرا
+یاور ہیں نہ انصار ہیں یا فاطمہ زہرا
+اک شہرِ محمد میں مددگار نہیں ہے
 
-2
-Yasrab Hai Koi Sham Ka Bazar Nahi Hai.
-Sholay Hain Sitamgar Hain Ya Fatima Zahra.
-Iss Alam-e-Ghurbat Mein Muhammad Ko Sada Do.
-Fizza Marey Hasnain Ko Daman Mein Chupa Lo.
+۲
+یثرب ہے کوئی شام کا بازار نہیں ہے
+شعلے ہیں ستمگر ہیں یا فاطمہ زہرا
+اس عالمِ غربت میں محمد کو صدا دو
+فضہ میرے حسنین کو دامن میں چھپا لو
 
-3
-Mushkil Mein Giraftar Hain Ya Fatima Zahra.
-Youn Sare Madine Ne Tujhe Mil Ke Sataya.
-Jhutla Ke Tere Haq Ko Tujhe Khon Rulaya.
-Gasib Sar-e-Darbar Hain Ya Fatima Zahra.
+۳
+مشکل میں گرفتار ہیں یا فاطمہ زہرا
+یوں سارے مدینے نے تجھے مل کے ستایا
+جھٹلا کے تیرے حق کو تجھے خون رلایا
+غاصب سرِ دربار ہیں یا فاطمہ زہرا
 
-4
-Youn Teer-e-Jafa Mara Hai Seene Mein Kissi Ne.
-Ik Phool Ko Masla Hai Madine Mein Kissi Ne.
-Mohsin Ke Azadar Hain Ya Fatima Zahra.
-Tum Khat-e-Wilayat Ko Kabhi Bhool Na Jana.
+۴
+یوں تیرِ جفا مارا ہے سینے میں کسی نے
+اک پھول کو مسلا ہے مدینے میں کسی نے
+محسن کے عزادار ہیں یا فاطمہ زہرا
+تم خطِ ولایت کو کبھی بھول نہ جانا
 
-5
-Tanha Ho Tu Phir Fatima Zahra Ko Bolana.
-Haider Ki Madadgar Hain Ya Fatima Zahra.
-Ab Bar-e-Garaan Uthta Nahi Sokhta Jaan Se.
-Gir Jata Hai Abbas Ka Sar Nook-e-Sina Se.
+۵
+تنہا ہو تو پھر فاطمہ زہرا کو بلانا
+حیدر کی مددگار ہیں یا فاطمہ زہرا
+اب بارِ گراں اٹھتا نہیں سوختہ جاں سے
+گر جاتا ہے عباس کا سر نوکِ سناں سے
 
-6
-Zainab Sar-e-Bazar Hain Ya Fatima Zahra.
-Ya Fatima Yeh:HAIDER-o-SHAHID: Ko Dua Dein.
-Dunya Mein Humein Yousuf-e-Zahra Se Mila Dein.
-Hum Tere Azadar Hain Ya Fatima Zahra.
+۶
+زینب سرِ بازار ہیں یا فاطمہ زہرا
+یا فاطمہ یہ حیدر و شاہد کو دعا دیں
+دنیا میں ہمیں یوسفِ زہرا سے ملا دیں
+ہم تیرے عزادار ہیں یا فاطمہ زہرا

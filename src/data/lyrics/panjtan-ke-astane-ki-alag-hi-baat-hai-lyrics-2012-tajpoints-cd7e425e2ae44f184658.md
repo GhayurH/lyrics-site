@@ -1,35 +1,60 @@
 ---
-title: "Panjtan Ke Astane Ki Alag Hi Baat Hai Lyrics 2012"
+title: "پنجتن کے آستانے کی الگ ہی بات ہے"
+alternateTitle: "Panjtan Ke Astane Ki Alag Hi Baat Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Panjtan ke astane ki alag hi baat hai
+  Sar yahan aa kar jhukane ki alag hi baat hai
+  Youn tu janat ki ghiza khud bhi tabaruk hai magar
+  Nazar-e-Maula keh ke kahne ki alag hi baat hai
+
+  2
+  Ishq-e-Haider ka junoon kehta raha Behlol se
+  Muft mein janat lutane ki alag hi baat hai
+  Baad-e-takbeer-o-risalat mehfil-e-Shabir mein
+  Haider narah lagane ki alag hi baat hai
+
+  3
+  Ishq mein Shabir ke taqleed-e-Hur karte howay
+  Kashtiyaan apni jalane ki alag hi baat hai
+  Lakh hum karte rahe mimber pe Haider ki sana
+  Daar se midhat sunane ki alag hi baat hai
+
+  4
+  Youn tu har mushkil mein hi aate hain Mula bil-yaqeen
+  Waqt-e-aakhir un ke aane ki alag hi baat hai
+  Barsar-e-qirtaas Akbar manqabat ki shakal mein
+  Khuld ke naqshe banane ki alag hi baat hai
 ---
 
-1
-Panjtan Ke Astane Ki Alag Hi Baat Hai Write Up
-Sar Yahan Aa Kar Jhukane Ki Alag Hi Baat Hai.
-Youn Tu Janat Ki Ghiza Khud Bhi Tabaruk Hai Magar.
-Nazar-e-Maula Keh Ke Kahne Ki Alag Hi Baat Hai.
+۱
+پنجتن کے آستانے کی الگ ہی بات ہے
+سر یہاں آ کر جھکانے کی الگ ہی بات ہے
+یوں تو جنت کی غذا خود بھی تبرک ہے مگر
+نذرِ مولا کہہ کے کہنے کی الگ ہی بات ہے
 
-2
-Ishq-e-Haider Ka Junoon Kehta Raha Behlol Se.
-Muft Mein Janat Lutane Ki Alag Hi Baat Hai.
-Baad-e-Takbeer-o-Risalat Mehfil-e-Shabir Mein.
-Haider Narah Lagane Ki Alag Hi Baat Hai.
+۲
+عشقِ حیدر کا جنوں کہتا رہا بہلول سے
+مفت میں جنت لٹانے کی الگ ہی بات ہے
+بعدِ تکبیر و رسالت محفلِ شبیر میں
+حیدر نعرہ لگانے کی الگ ہی بات ہے
 
-3
-Ishq Mein Shabir Ke Taqleed-e-Hur Karte Howay.
-Kashtiyaan Apni Jalane Ki Alag Hi Baat Hai.
-Lakh Hum Karte Rahe Mimber Pe Haider Ki Sana.
-Daar Se Midhat Sunane Ki Alag Hi Baat Hai.
+۳
+عشق میں شبیر کے تقلیدِ حر کرتے ہوئے
+کشتیاں اپنی جلانے کی الگ ہی بات ہے
+لاکھ ہم کرتے رہے منبر پہ حیدر کی ثنا
+دار سے مدحت سنانے کی الگ ہی بات ہے
 
-4
-Youn Tu Har Mushkil Mein Hi Aate Hain Mula Bil-Yaqeen.
-Waqt-e-Aakhir Un Ke Aane Ki Alag Hi Baat Hai.
-Barsar-e-Qirtaas Akbar Manqabat Ki Shakal Mein.
-Khuld Ke Naqshe Banane Ki Alag Hi Baat Hai.
+۴
+یوں تو ہر مشکل میں ہی آتے ہیں مولا بالیقین
+وقتِ آخر ان کے آنے کی الگ ہی بات ہے
+بر سرِ قرطاس اکبر منقبت کی شکل میں
+خلد کے نقشے بنانے کی الگ ہی بات ہے

@@ -1,74 +1,105 @@
 ---
-title: "Bazar e Shaam Agaya"
+title: "بازارِ شام آ گیا"
+alternateTitle: "Bazar e Shaam Agaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bazare Shaam aagaya
+  Akbar mere jawan, kisko bulaae maa
+  Zainab ki lo khabar, Abid hai natawan
+  Bazare Shaam…
+
+  1
+  Dashte bala ko chor kar khake shifa ko od kar
+  Ay faqre kibriya suno kehti hoon hath jodh kar
+  Kaise chalegi maa ay mere noujawan
+  Bazare Shaam…
+
+  2
+  Qismat ki paasban hai wo Khairunnisa ki jaan hai wo
+  Ghurbath ki intehaan hui ghairon ke darmiyan hai wo
+  Shazadiye jina sehti hai saqtiyaan
+  Bazare Shaam…
+
+  3
+  Qatil tera mere pisar Sajjad ka hai humsafar
+  Kam to nahi hai ye sitam sehta raha hai wo magar
+  Kaise sahe bhala bemaar saar baan
+  Bazare Shaam…
+
+  4
+  Maine suni hai ye sada kehte hai Shaam may sabhi
+  Badla Ali ka lenge hum Binte Ali se aaj hi
+  Pathar se hai bhari logon ki jholiyaan
+  Bazare Shaam…
+
+  5
+  Na-Mehrumo ki bheed may uth-thi nahi nazar meri
+  Abbas ki kasam nahi tashnalabi ka gham koi
+  Dukh hai ye meri jaan sehmi hai bibiyaan
+  Bazare Shaam…
+
+  6
+  Paala hai jisne umr bhar Akbar tujhe hijab may
+  Ghazi ke saamne bhi wo beta rahi naqaab may
+  Ghairon may berida jaati hai Allama
+  Bazare Shaam…
+
+  7
+  Noke sina ko dekh-kar Yawar ye keh rahi thi maa
+  Aa dekh tu bhi noujawan maadar ka apni imtehan
+  Aankhen na band kar ghairath se aasman
+  Bazare Shaam…
 ---
 
-Bazare Shaam Aagaya
+بازارِ شام آ گیا
+اکبر میرے جواں، کس کو بلائے ماں
+زینب کی لو خبر، عابد ہے ناتواں
+بازارِ شام…
 
-Akbar Mere Jawan, Kisko Bulaae Maa
+۱
+دشتِ بلا کو چھوڑ کر خاکِ شفا کو اوڑھ کر
+اے فخرِ کبریا سنو کہتی ہوں ہاتھ جوڑ کر
+کیسے چلے گی ماں اے میرے نوجواں
+بازارِ شام…
 
-Zainab Ki Lo Khabar, Abid Hai Natawan
+۲
+قسمت کی پاسباں ہے وہ خیرالنسا کی جاں ہے وہ
+غربت کی انتہا ہوئی غیروں کے درمیاں ہے وہ
+شہزادیِ جناں سہتی ہے سختیاں
+بازارِ شام…
 
-Bazare Shaam….
+۳
+قاتل تیرا میرے پسر سجاد کا ہے ہم سفر
+کم تو نہیں ہے یہ ستم سہتا رہا ہے وہ مگر
+کیسے سہے بھلا بیمار سارباں
+بازارِ شام…
 
-Dashte Bala Ko Chor Kar Khake Shifa Ko Od Kar
+۴
+میں نے سنی ہے یہ صدا کہتے ہیں شام میں سبھی
+بدلہ علی کا لیں گے ہم بنتِ علی سے آج ہی
+پتھر سے ہے بھری لوگوں کی جھولیاں
+بازارِ شام…
 
-Ay Faqre Kibriya Suno Kehti Hoon Hath Jodh Kar
+۵
+نامحرموں کی بھیڑ میں اٹھتی نہیں نظر میری
+عباس کی قسم نہیں تشنہ لبی کا غم کوئی
+دکھ ہے یہ میری جاں سہمی ہیں بیبیاں
+بازارِ شام…
 
-Kaise Chalegi Maa Ay Mere Noujawan
+۶
+پالا ہے جس نے عمر بھر اکبر تجھے حجاب میں
+غازی کے سامنے بھی وہ بیٹا رہی نقاب میں
+غیروں میں بے ردا جاتی ہے علّامہ
+بازارِ شام…
 
-Bazare Shaam….
-
-Qismat Ki Paasban Hai Wo Khairunnisa Ki Jaan Hai Wo
-
-Ghurbath Ki Intehaan Hui Ghairon Ke Darmiyan Hai Wo
-
-Shazadiye Jina Sehti Hai Saqtiyaan
-
-Bazare Shaam….
-
-Qatil Tera Mere Pisar Sajjad Ka Hai Humsafar
-
-Kam To Nahi Hai Ye Sitam Sehta Raha Hai Wo Magar
-
-Kaise Sahe Bhala Bemaar Saar Baan
-
-Bazare Shaam….
-
-Maine Suni Hai Ye Sada Kehte Hai Shaam May Sabhi
-
-Badla Ali Ka Lenge Hum Binte Ali Se Aaj Hi
-
-Pathar Se Hai Bhari Logon Ki Jholiyaan
-
-Bazare Shaam….
-
-Na-Mehrumo Ki Bheed May Uth-Thi Nahi Nazar Meri
-
-Abbas Ki Kasam Nahi Tashnalabi Ka Gham Koi
-
-Dukh Hai Ye Meri Jaan Sehmi Hai Bibiyaan
-
-Bazare Shaam….
-
-Paala Hai Jisne Umr Bhar Akbar Tujhe Hijab May
-
-Ghazi Ke Saamne Bhi Wo Beta Rahi Naqaab May
-
-Ghairon May Berida Jaati Hai Allama
-
-Bazare Shaam….
-
-Noke Sina Ko Dekh-Kar Yawar Ye Keh Rahi Thi Maa
-
-Aa Dekh Tu Bhi Noujawan Maadar Ka Apni Imtehan
-
-Aankhen Na Band Kar Ghairath Se Aasman
-
-Bazare Shaam….
+۷
+نوکِ سناں کو دیکھ کر یاور یہ کہہ رہی تھی ماں
+آ دیکھ تو بھی نوجواں مادر کا اپنی امتحاں
+آنکھیں نہ بند کر غیرت سے آسماں
+بازارِ شام…

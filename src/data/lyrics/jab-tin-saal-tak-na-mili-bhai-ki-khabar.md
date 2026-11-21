@@ -12,68 +12,68 @@ aliases:
 published: true
 romanLyrics: |-
   1
-  Jab Tin Saal Tak Na Mili Bhai Ki Khabar
-  Ghar Se Hui Rawanah Wo Qum Ko Neko Seir
-  Pahunchi Wahaṅ To Dekhi Kya Hai Wo Nauhagar
-  Kala Libaas Pehne Huye Hai Har Ek Bashar
-  Aisi Khabar Suni Ke Jigar Gham Se Hil Gaya
-  Didar Ka Jo Shauq Tha Mitti Meiṅ Mil Gaya
+  Jab tin saal tak na mili bhai ki khabar
+  Ghar se hui rawana wo Qum ko neko sair
+  Pahunchi wahaṅ to dekhi kya hai wo nauha gar
+  Kaala libaas pehne huye hai har ek bashar
+  Aisi khabar suni ke jigar gham se hil gaya
+  Didaar ka jo shauq tha mitti meiṅ mil gaya
 
   2
-  Ashraf-e-Shahr Ko Hui Maalum Ye Khabar
-  Aayi Hai Qum Meiṅ Khwahar-e-Sultan Bahr o Bar
-  Purse Ke Waste Huye Sab Jama Nauhagar
-  Jo Sunte Chaak Garebaṅ Barahna Sar
-  Har Su Ye Dil Figar Jo Surat Ayaṅ Hui
-  Masuma Ek Shia Ke Ghar Mehmaan Hui
+  Ashraaf-e-shahr ko hui maalum ye khabar
+  Aayi hai Qum meiṅ khwaahar-e-sultaan-e-bahr o bar
+  Purse ke waaste huye sab jama nauha gar
+  Jo sunte chaak garebaaṅ barahna sar
+  Har su ye dil figaar jo surat ayaaṅ hui
+  Maasuma ek Shia ke ghar mehmaan hui
 
   3
-  Din Raat Gham Meiṅ Bhai Ke Rehti Thi Dil Haziṅ
-  Har Waqt Ashk-e-Gham Se Thi Aaludah Aastiṅ
-  Chhote Bare Nauha Karte The Har Aan Mominin
-  Matam Sara Meiṅ Aurateiṅ Rone Ko Aati Thiṅ
-  Gham Tha Musafarat Meiṅ Musibat Uthati Hai
-  Matam Ki Saf Gharib Behan Ne Bichhai Hai
+  Din raat gham meiṅ bhai ke rehti thi dil haziiṅ
+  Har waqt ashk-e-gham se thi aaluda aastiiṅ
+  Chhote bare nauha karte the har aan mominin
+  Maatam sara meiṅ aurateiṅ rone ko aati thiṅ
+  Gham tha musaafarat meiṅ musibat uthaati hai
+  Maatam ki saf gharib behan ne bichhaai hai
 
   4
-  Phir Yaad Aaya Waqia Ek Karbalai Ka
-  Pursa Diya Kisi Ne Na Zainab Ko Bhai Ka
-  Jo Haal Karbala Meiṅ Tha Zahra Ki Jai Ka
-  Gham Khwahar-e-Raza Ko Tha Shah Ki Judai Ka
-  Koh-e-Malal Dil Pe Uthane Se Uth Gayiṅ
-  Aakhir Usi Qalaq Meiṅ Zamane Se Uth Gayiṅ
+  Phir yaad aaya waaqia ek Karbalaai ka
+  Pursa diya kisi ne na Zainab ko bhai ka
+  Jo haal Karbala meiṅ tha Zahra ki jaai ka
+  Gham khwaahar-e-Raza ko tha shah ki judaai ka
+  Koh-e-malaal dil pe uthaane se uth gayiṅ
+  Aakhir usi qalaq meiṅ zamaane se uth gayiṅ
 
   5
-  Kal Solah Roz Qum Meiṅ Rahiṅ Badal Haziṅ
-  Jannat Meiṅ Ki Ziyarat Shah-e-Falak Nashiṅ
-  Taklif Dard-e-Hijr Se Jaaṅ Bar Hui Nahiṅ
-  Bhai Ki Shakl Aankhoṅ Meiṅ Thi Waqt-e-Wapasiṅ
-  Bagh-e-Jahaṅ Se Sue Jinaaṅ Kuch Kar Gayiṅ
-  Bas Haye Bhai Keh Aur Mar Gayiṅ
+  Kul solah roz Qum meiṅ rahiṅ ba dil haziiṅ
+  Jannat meiṅ ki ziyaarat shah-e-falak nashiiṅ
+  Taklif dard-e-hijr se jaaṅ bar hui nahiṅ
+  Bhai ki shakl aankhoṅ meiṅ thi waqt-e-waapasiiṅ
+  Baagh-e-jahaaṅ se su-e-jinaaṅ kuch kar gayiṅ
+  Bas haaye bhai keh aur mar gayiṅ
 
   6
-  Shiyoṅ Ka Ek Hujum Janaze Ke Sath Tha
-  Ghusl o Kafan Ke Baad Ye Aapas Meiṅ The Goya
-  Qadir Ghulam Aap Ka Hai Mard-e-Parsa
-  Masuma Ko Muhammad Ne Utare Wo Ba-Haya
-  Is Khidmat-e-Jalil Ke Qabil Koi Nahiṅ
-  Yaaṅ Koi Aur Is Se Siwa Muttaqi Nahiṅ
+  Shioṅ ka ek hujum janaaze ke saath tha
+  Ghusl o kafan ke baad ye aapas meiṅ the goya
+  Qaadir ghulaam aap ka hai mard-e-paarsa
+  Maasuma ko Muhammad ne utaare wo ba haya
+  Is khidmat-e-jalil ke qaabil koi nahiṅ
+  Yaaṅ koi aur is se siwa muttaqi nahiṅ
 
   7
-  Ye Bateiṅ Ho Rahi Thiṅ Yakayak Utha Ghubar
-  Rukh Par Naqab Dale Nazar Aaya Ek Sawar
-  Barh Kar Zaban-e-Haal Se Bola Wo Sogwar
-  Haaṅ Haaṅ Phuphi Ki Laash Ko Chhuna Na Zinhar
-  Mujh Ko Yahi Umid Thi Tum Sab Ki Zaat Se
-  Dafnaunga Phuphi Ko Magar Apne Hath Se
+  Ye baateiṅ ho rahi thiṅ yakayak utha ghubaar
+  Rukh par naqaab daale nazar aaya ek sawaar
+  Barh kar zabaan-e-haal se bola wo sogwaar
+  Haaṅ haaṅ phuphi ki laash ko chhuna na zinhaar
+  Mujh ko yahi umid thi tum sab ki zaat se
+  Dafnaauṅ ga phuphi ko magar apne haath se
 
   8
-  Wo Tha Nawas-e-Imam Janaze Par Aa Gaya
-  Parh Kar Namaz Dafn Kiya Laasha Aap Ka
-  Pinhaṅ Hua Nigahoṅ Se Aalam Ka Peshwa
-  Aayi Jinaaṅ Se Fatima Zahra Ki Ye Nida
-  Zainab Ki Tarah Hai To Musibat Zadah Behan
-  Ghurbat Nasib Bhai Hai Ghurbat Zadah Behan
+  Wo tha nawaas-e-imaam janaaze par aa gaya
+  Parh kar namaaz dafn kiya laasha aap ka
+  Pinhaaṅ hua nigaahoṅ se Aalam ka peshwa
+  Aayi jinaaṅ se Faatima Zahra ki ye nida
+  Zainab ki tarah hai tu musibat zada behan
+  Ghurbat nasib bhai hai ghurbat zada behan
 ---
 
 ۱

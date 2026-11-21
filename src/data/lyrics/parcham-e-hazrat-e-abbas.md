@@ -26,7 +26,7 @@ romanLyrics: |-
   Aandhiyoṅ meiṅ bhi diya haq ka jalaaye rakhna
 
   3
-  Ro-e-dastaar fazilat meiṅ na aa jaana kahiṅ
+  Ro-e-dastaar-e-fazilat meiṅ na aa jaana kahiṅ
   Shak o shubhaat meiṅ par kar na ganwa dena yaqiṅ
   Gham-e-Shabbir ibaadat hai koi rasm nahiṅ
   Shor-e-maatam se zamaane ko jagaaye rakhna
@@ -38,14 +38,14 @@ romanLyrics: |-
   Zikr-e-Shabbir ko imaan banaaye rakhna
 
   5
-  Hashr tak raah-e-mawaddat yuṅhi aabaad rahe
+  Hashr tak raah-e-mawaddat yunhi aabaad rahe
   Ye dua-e-dil-e-Zehra hai zara yaad rahe
-  Umr bhar rote yuṅhi the nahiṅ Sajjad rahe
+  Umr bhar rote yunhi the nahiṅ Sajjad rahe
   Apni nasloṅ ko azaadaar banaaye rakhna
 
   6
   Gham-e-Shabbir se aabaad mera sina hai
-  Maiṅ azaadaar huṅ chehra mera aaina hai
+  Main azaadaar huṅ chehra mera aaina hai
   Sar buland ho ke zamaane meiṅ agar jina hai
   Sar dar-e-Sibt-e-Payambar pe jhukaaye rakhna
 ---

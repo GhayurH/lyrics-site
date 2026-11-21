@@ -16,7 +16,7 @@ romanLyrics: |-
   Bint-e-Zehra ne kahaaṅ par nahiṅ khaaye patthar
 
   Sar jhukaaye hue roti hai Ali ki beti
-  Aur laiṅ haṅste haiṅ haathoṅ meiṅ uthaaye patthar
+  Aur la'iṅ haṅste haiṅ haathoṅ meiṅ uthaaye patthar
 
   1
   Kya karimi hai ke baazaar meiṅ chalte chalte
@@ -35,7 +35,7 @@ romanLyrics: |-
   Kuchh musalmaanoṅ ke jab haath na aaye patthar
 
   5
-  Tera bhaai na raha Bint-e-Ali haaye ghazab
+  Tera bhaai na raha bint-e-Ali haaye ghazab
   Warna mumkin tha koi tujh pe uthaaye patthar
 
   6

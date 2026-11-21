@@ -8,42 +8,42 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab Chaand Muharram Ka Aata Hai Nazar Logo
-  Zara Socha Karo Kis Tarha Ujra Hoga
-  Khatun Ka Ghar Logo
+  Jab chaand Muharram ka aata hai nazar logo
+  Zara socha karo kis tarah ujra hoga
+  Khatun ka ghar logo
 
   1
-  Ye Chaand To Chamka Hai Aflaak Ke Sine Meiṅ
-  Zahra Ka Chaand Chhupa Hai Khaak Ke Sine Meiṅ
-  Khuṅ Meiṅ Nehla Diya
-  Tiroṅ Aur Talwaroṅ Se
-  Haider Ka Pisar Logo
+  Ye chaand to chamka hai aflaak ke sine mein
+  Zahra ka chaand chhupa hai haaye khaak ke sine mein
+  Khuṅ mein nehla diya
+  Tiroṅ aur talwaaroṅ se
+  Haider ka pisar logo
 
   2
-  Akbar Ki Azaaṅ Aise Gunji Hai Zamane Meiṅ
-  Nabiyoṅ Ne Suni Aa Kar Karbal Ke Veerane Meiṅ
-  Laila Ke Chaand Ka
-  Chir Dala Hai Pal Meiṅ
-  Barchhi Ne Jigar Logo
+  Akbar ki azaaṅ aise gunji hai zamaane mein
+  Nabiyoṅ ne suni aa ke Karbal ke viraane mein
+  Laila ke chaand ka
+  Chir daala hai pal mein
+  Barchhi ne jigar logo
 
   3
-  Is Chaand Meiṅ Ujri Haiṅ Bimar Ki Ummideiṅ
-  Dukhiya Ne Guzari Haiṅ Rote Hue Do Eideiṅ
-  Phir Bhi Na Mili
-  Karbala Se Aane Ki
-  Akbar Ki Khabar Logo
+  Is chaand mein ujri haiṅ bimaar ki ummideṅ
+  Dukhiya ne guzaari haiṅ rote hue do eideṅ
+  Phir bhi na mili
+  Karbala se aane ki
+  Akbar ki khabar logo
 
   4
-  Zahra Ke Bhare Ghar Ko Ummat Ne Rulaya Hai
-  Shabbir Ki Gardan Pe Khanjar Bhi Chalaya Hai
-  Mustafa Ko Diya
-  Kalma Parhne Waloṅ Ne
-  Kya Khub Ajr Logo
+  Zahra ke bhare ghar ko ummat ne rulaaya hai
+  Shabbir ki gardan pe khanjar bhi chalaaya hai
+  Mustafa ko diya
+  Kalma parhne waaloṅ ne
+  Kya khub ajr logo
 
   5
-  Zainab Bhi Chaliṅ Ghar Se Ghazi Ke Sahare Pe
-  So Jayega Jo Ja Kar Darya Ke Kinare Pe
-  Aur Nabi Zadiyaṅ Sar Barehna Jayengi Karne Ko Safar Logo
+  Zainab bhi chaliṅ ghar se ghaazi ke sahaare pe
+  So jaayega jo jaa kar darya ke kinaare pe
+  Aur nabi zaadiyaaṅ sarbarehna jaaeṅ gi karne ko safar logo
 ---
 
 جب چاند محرم کا آتا ہے نظر لوگو

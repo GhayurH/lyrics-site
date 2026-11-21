@@ -1,33 +1,57 @@
 ---
-title: "Jandi War Sun Lay Ghazi Haye"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "جاندی وار سن لے غازی ہائے"
+alternateTitle: "Jandi War Sun Lay Ghazi Haye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jandi war sun lay Ghazi haye behan diyaan hawaan
+  Bazaran wich main kiwein be parda munh lokawaan
+
+  1
+  Tere jaan tu jaway gi Zainab de sir di chadar
+  Fair safar nibahawan gi kinj Shaam de khule sar
+  Tere jeondiyaan jee rayi aye behnaan diyaan ridawaan
+
+  2
+  Zainab tu ro ke puchda Abbas tur piya aye
+  Na behan bole roway aynj sadme de giya aye
+  Aynj lash wangon chad ke odhi lay giya sanhwaan
+
+  3
+  Khaime che jad si aya Ghazi da alam tanha
+  Haye behna wain kitey sada lut giya aye parda
+  Behnaan nu nazar ayiyaan bazar diyaan rawaan
+
+  4
+  Karday dua aye pori behna de sadqe Ghazi
+  Zeeshan de qalam tun ho jaway Bibi razi
+  Bin marzi aye Zahra kadi qalam ne uthawaan
 ---
-Jandi War Sun Lay Ghazi Haye Behan Diyaan Hawaan
-Bazaran Wich Main Kiwein Be Parda Munh Lokawaan
+جاندی وار سن لے غازی ہائے بہن دیاں ہاواں
+بازاراں وچ میں کیویں بے پردہ منہ لوکاواں
 
-1
-Tere Jaan Tu Jaway Gi Zainab De Sir Di Chadar
-Fair Safar Nibahawan Gi Kinj Shaam De Khule Sar
-Tere Jeondiyaan Jee Rayi Aye Behnaan Diyaan Ridawaan
+۱
+تیرے جان توں جاوے گی زینب دے سر دی چادر
+فیر سفر نبھاواں گی کنج شام دے کھلے سر
+تیرے جیوندیاں جی رہی اے بھیناں دیاں رداواں
 
-2
-Zainab Tu Ro Ke Puchda Abbas Tur Piya Aye
-Na Behan Bole Roway Aynj Sadme De Giya Aye
-Aynj Lash Wangon Chad Ke Odhi Lay Giya Sanhwaan
+۲
+زینب توں رو کے پچھدا عباس ٹر پیا اے
+نہ بہن بولے رووے اینج صدمے دے گیا اے
+اینج لاش وانگوں چھڈ کے اوہدی لے گیا سانہواں
 
-3
-Khaime Che Jad Si Aya Ghazi Da Alam Tanha
-Haye Behna Wain Kitey Sada Lut Giya Aye Parda
-Behnaan Nu Nazar Ayiyaan Bazar Diyaan Rawaan
+۳
+خیمے چے جد سی آیا غازی دا علم تنہا
+ہائے بھیناں وین کیتے ساڈا لٹ گیا اے پردہ
+بھیناں نوں نظر آئیاں بازار دیاں راواں
 
-4
-Karday Dua Aye Pori Behna De Sadqe Ghazi
-Zeeshan De Qalam Tun Ho Jaway Bibi Razi
-Bin Marzi Aye Zahra Kadi Qalam Ne Uthawaan
+۴
+کر دے دعا اے پوری بھیناں دے صدقے غازی
+ذیشان دے قلم توں ہو جاوے بیبی راضی
+بن مرضیِ زہرا کدی قلم نئیں اٹھاواں

@@ -9,193 +9,119 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Husain Husain.....
+  Chale aao, chale aao, chale aao
+  Chale aao ae zawwaroṅ chale aao
 
   1
-  Salam Ya Husain.....(2)
-  Bas Ya Husain.....(2)
-  Ya Ali Ya Husain.....(2)
-  Jahan Husain Wahan Laelha Illallah.....(2)
-  Hamare hai ya Husain.....(2)
-  Abad wallah Ya Zehra Manind sa Hussaina.....(2)
+  Meri aawaaz pe labbaik pukaare chale aao
+  Labbaik ya Husain
+  Naam tum sab ke mere dar pe likhe haiṅ aao
+  Apne maaṅ baap ko is paak safar mein laao
+  Apne bachchoṅ ko bhi ehraam-e-aza pehnaao
+  Mere zawwaroṅ meri Karb o Bala aa jaao
+  Ahd karta huṅ azadaaroṅ shafaat ke liye
+  Aao zawwaroṅ chale aao ziyaarat ke liye
 
   2
-  Labbaik ya Husain.....(2)
+  Khush raho ae meri rudaad sunaane waaloṅ
+  Apni khushiyoṅ mein mera sog manaane waaloṅ
+  Saare aalam mein mera farsh bichhaane waaloṅ
+  Garmi sardi mein meri qabr pe aane waaloṅ
+  Mujh ko maalum hai tum logoṅ ki haajat aao
+  Tum pe ho jaaegi Allah ki inaayat aao
 
   3
-  Maula labbaik labbaik ya Abaabdillah
-  Aqa Labbaik Labbail Ya Abaabdillah.
-  Aai Mere Maula Shahe Karbala
-  Bakshia Ka Shifa,Hai Aap Wasila,
-  Rauze pe Bulalo,Zawwar bana do,
-  Qismat Ko jaga do,aai Shahe Shahida,
-  Aijaz dikha do,
-  Maula ab hum ko sada do.....(2)
-  Ezuruni Ezuruni.......Ezuruni aa hitto...
-  Taarefuni Shafie kum.
+  Jaanib-e-Karb o Bala jab koi barhta hai qadam
+  Har qadam pe mere zawwaar pe hota hai karam
+  Saaya karta hua Abbas ka chalta hai alam
+  Mutanazzir rehti haiṅ Zehra mere baba ki qasam
+  Mere zawwaroṅ mere dard ke maaro aao
+  Meri maaṅ Fatema Zehra ke dulaaroṅ aao
 
   4
-  Chale Aao, Chale Aao,
-  Chale aao aye zawwar chale aao,
-  Meri aawaz pe labbaik pukare jaao.
-  Maula ab hum ko sada do.....(2)
+  Tum jo kehte ho abad wallah maaninsa Husain
+  Ammaaṅ Zehra bhi yahi karti haiṅ ro ro kar bain
+  Meri mazlumi pe roye haiṅ Shah-e-Badr o Hunain
+  Mere baba bhi haiṅ ab tak mere am mein bechain
+  Tum nahiṅ bhule to main bhi nahiṅ bhula tum ko
+  Yaad chalte hue khanjar mein bhi rakha tum ko
 
   5
-  Naam tum subke mere dil pe hai likhe aao,
-  Apne maa baap ko is paak safar me laao,
-  Apne bacchon ko bhi ehram e aza pahanao,
-  Mere zawwaro meri karbobala aajaao,
-  Ahed karta hun azadaro shifaat ke liye,
-  Aao zawwaro chale aao ziyarat ke liye,
+  Tum jo lehraate ho haathoṅ mein uthaae parcham
+  Tum ko maalum hai ho jaata hai taaza mera gham
+  Yaad aata hai mujhe khun mein duba woh alam
+  Jis ke jhuk jaane se tuta mere bachchoṅ pe sitam
+  Meri Abbas ki jaagir sajaane aao
+  Haaziri rauza-e-Abbas pe khaane aao
 
   6
-  Chale Aao, Chale Aao,........
+  Mere zawwaroṅ suno
+  Yeh zamiṅ Karb o Bala
+  Is se pehle to yahaaṅ
+  Koi bhi bas na saka
+  Yeh zamin Karb o Bala to karb ka majmua hai
+  Hazrat Aadam o Hawwa ka yahi girya hai
+  Sher ne Hazrat Isa ko yahiṅ roka hai
+  Aur phir takht-e-Sulaimaan yahiṅ larza hai
+  Is zamiṅ par hi Ibrahim ka rahwaar dhansa
+  Paae Musa mein lagi shot lahu behne laga
+  Zabihullah ke rahwaar rahe pyaase yahaaṅ
+  Kashti-e-Nuh se takraaya yahiṅ par tufaaṅ
+  Is zamiṅ par to pareshaaṅ hua har insaaṅ
+  Mere baba bhi yahaaṅ karte rahe aah o fughaaṅ
+  Meri hijrat thi Madine se hidaayat ke liye
+  Yeh zamiṅ main ne kharidi thi shahaadat ke liye
 
   7
-  Khush raho aai meri rudaad sunane walo,
-  Apni khushion me mera shog manane walo,
-  Sare aalam me mera farsh bichane walo,
-  Garmi sardi me meri kabr pe aane walo,
-  Mujhko malum hai tumlogon ki haalat aao,
-  Tumpe ho jaiengi Allah (s.w.t.) ki inayat aao,
-
-  8
-  Chale Aao, Chale Aao,........
-
-  9
-  Janibe karbobala gar koi badhta hai kadam,
-  Har kadam per mere zawwar pe hota hai karam,
-  Saya karta hua abbas ka chalta hai alam,
-  Muntazir rehti hai Zehra mere baba ki kasam,
-  Mere zawaaron mere dard ke maaro aao,
-  Meri maa Fatema Zehra ke dularo aao,
-
-  10
-  Chale Aao, Chale Aao,........
-
-  11
-  Tum jo kehte ho abad wallah manind sa Husain,
-  Amma Zehra (s.w.) bhi yahin karti hai ro ro kar bain,
-  Mere mazloomi pe rote hai shahe badro hunnain,
-  Mere baba bhi abtak hai mere gam me bechain,
-  Tum nahi bhoole to main bhi nahi bhoola tumko,
-  Yaad chalte hue khanjar me bhi rakha aao.
-
-  12
-  Chale Aao, Chale Aao,........
-
-  13
-  Tum jo lehrate ho hatha o me uthaie parcham,
-  Tum ko maloom hai ho jaata hai taaza mera gam,
-  Yad aata hai mujhe khoon me dooba woh alam,
-  Jis ke jhuk jaane se toota mere bacchon pe sitam,
-  Mere Abbas ki jagir sajane aao,
-  Hazri rauze Abbas pe kahne aao.
-
-  14
-  Chale Aao, Chale Aao,........
-
-  15
-  Mere zawwaron suno, yeh zameen karbobala,
-  Mujhse pehle to yahan koi bhi bas na saka,
-
-  16
-  Yeh zameen karbobala karb ka majmua hai,
-  Hazrat e Adam o Hawwa ka yahani girya hai,
-
-  17
-  Shere ne hazrat esa e ko yahani roka hai,
-  Aur phir takhte suleman yahani larza hai,
-
-  18
-  Yeh zameen per Ibrahim ka rahwar thasa,
-  Paie moosa me lagi chot lahu behne laga,
-
-  19
-  Zabi Allah (s) ke haiwan rahe pyase yahan,
-  Kashti e Nooh se takraya yahin par toofan,
-
-  20
-  Is zameen par to pareshan hua har insan,
-  Mere baba bhi yahan karte rahe aa ho fuga,
-
-  21
-  Meri hijrat thi madine ki hidayat ke liye,
-  Yeh zameen main ne kharidi thi shahadat ke liye,
-
-  22
-  Chale Aao, Chale Aao,........
-
-  23
-  Do moharram ko yahan, mera rahwar ruka,
-  Sath kunba tha mera, mai akela bhi na tha,
-
-  24
-  Aao zawwaro mere sath chalo,
-  Tham kar dil, mera makhtal dekho
-
-  25
-  Yeh makame, Aliakbar hai yahan,
-  Mere bacche pe jahan roi aza,
-
-  26
-  Yeh makame Aliasgar hai jahan,
-  Aaj bhi baithi hui roti hai maan,
-
-  27
-  Yeh jaga woh hai mere zawwaro,
-  Lash e Qasim hui paamal jidhar,
-
-  28
-  Woh makamat jo aate hai nazar,
-  Kate Abbas ke bazu the jidhar,
-
-  29
-  Hai zara door jo Rauze ke zara,
-  Hai mere Aun O Mohammed ke mazar,
-
-  30
-  Ashr e Ashoor se turbat ke kareeb,
-  Mera hur aur mera lashkar hai yahain,
-
-  31
-  Aao yeh killae zainabya hai, Yahin zainab ne yeh manzar dekha,
-  Mujhpe chalta hua khanjar dekha,
-
-  32
-  Mera Aashor ya Chehlum ho mera,
-  Karbala aata hai Kunba mera,
-
-  33
-  Phir Sakina jo yahan aati hai,
-  Meri turbat se lipat jaati hai.
-
-  34
-  Ya Husain
-  Mein hun Husain
-  Abd-e-Khuda
-  Khoon-e-Nabi
-  Khoon-e-Ali
-  Khoon-e-Hasan
-  Zehra nasab
-  Shah-e-Arab
-  Mein hun ata
-  Mein hun shifa
-  Ahl-e-aza
-  Roz-e-jaza
-  Denge tumhein
-  Lutf o karam
-  Bagh-e-Iram
-  Mein hun Husain
-  Tum pe salaam-e-Karbala maatami
-  Tum pe salaam-e-shohada maatami
-  Tum pe salaam-e-Sayyida maatami
-  Tum pe salaam-e-Murtaza maatami
-  Tum pe salaam-e-Mustafa maatami
-  Tum pe salaam-e-bawafa maatami
-  Tum ho dil-e-Zainab-e-Kubra ka chain
-  Kehte raho kehte raho Ya Husain
-  Sayyadena Sayyadena Ya Husain
+  Do Muharram ko yahaaṅ mera rahwaar ruka
+  Saath kunba tha mera main akela bhi na tha
+  Aao zawwaroṅ mere saath chalo
+  Thaam kar dil, mera maqtal dekho
+  Yeh maqaam-e-Ali Akbar hai jahaaṅ
+  Mere bachche pe jahaaṅ roi azaaṅ
+  Yeh maqaam-e-Ali Asghar hai jahaaṅ
+  Aaj bhi baithi hui roti hai maaṅ
+  Yeh jagah woh hai mere zawwaroṅ
+  Laash-e-Qaasim hui paamaal idhar
+  Do maqaamaat jo aate haiṅ nazar
+  Kate Abbas ke baazu the jidhar
+  Haiṅ zara dur jo do dil ke qaraar
+  Haiṅ mere Aun o Muhammad ke mazaar
+  Asr-e-Aashur se tarbiyat ke qariṅ
+  Mera Hur aur mera lashkar hai yahiṅ
+  Aur yeh tilla-e-Zainabiyya hai
+  Yahiṅ Zainab ne yeh manzar dekha
+  Mujh pe chalta hua khanjar dekha
+  Mera Aashur ya Chehlum ho mera
+  Karbala aata hai kunba mera
+  Phir Sakina jo yahaaṅ aati hai
+  Meri turbat se lipat jaati hai
+  Ya Husain, ya Husain, ya Husain
+  Main huṅ Husain - Husain Husain
+  Abd-e-Khuda - Husain Husain
+  Khun-e-Nabi - Husain Husain
+  Khun-e-Ali - Husain Husain
+  Khun-e-Hasan - Husain Husain
+  Zehra - Husain Husain
+  Shah-e-Arab - Husain Husain
+  Main huṅ al-ghata - Husain Husain
+  Main huṅ shifa - Husain Husain
+  Ahl-e-aza - Husain Husain
+  Roz-e-jaza - Husain Husain
+  Deṅ ge tujhe - Husain Husain
+  W___ o karam - Husain Husain
+  Baagh-e-Iram - Husain Husain
+  Main huṅ Husain - Husain Husain
+  Tum pe salaam-e-Karbala, maatami - Husain Husain
+  Tum pe salaam-e-shuhada, maatami - Husain Husain
+  Tum pe salaam-e-Sayyida, maatami - Husain Husain
+  Tum pe salaam-e-Murtaza, maatami - Husain Husain
+  Tum pe salaam-e-Mustafa, maatami - Husain Husain
+  Tum pe salaam-e-bawafa, maatami - Husain Husain
+  Tum ho dil-e-Zainab-e-Kubra ka chain - Husain Husain
+  Karte raho, kehte raho ya Husain - Husain Husain
+  Sayyidna, Sayyidna ya Husain - Husain Husain
+  Ya Husain - alaih salaam
 ---
 
 چلے آؤ، چلے آؤ، چلے آؤ

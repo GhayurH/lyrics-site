@@ -8,81 +8,49 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Bole padar se akbar barchi na khenchna
-
+romanLyrics: |-
+  Bole padar se Akbar barchhi na khenchna
+  Hai jaan ab laboṅ par barchhi na khenchna
 
   1
-
-  Hai jaan ab labon par barchi na khenchna
-
-  Baba nazar ko phayr lo dum tootne laga
-
-  Barchi ke phal se khoon hai dil ka ruka hua
-
-  Ubhlega khoon zameen par barchi na khenchna
-
+  Baba nazar ko pher lo dam tutne laga
+  Barchhi ke phal se khun hai dil ka ruka hua
+  Uble ga khuṅ zamiṅ par barchhi na khenchna
 
   2
-
-  Maine tumhe bulaya tha taake mai keh sakun
-
-  Bilkul na gham karo mere dil ko hai ab sukoon
-
-  Baithe raho yahan magar barchi na khenchna
-
+  Main ne tumheṅ bulaya tha taake main keh sakuṅ
+  Bilkul na gham karo mere dil ko hai ab sukuṅ
+  Baithe raho yahaṅ magar barchhi na khenchna
 
   3
-
-  Amma ko ye khabar na ho mere sina lagi
-
-  Ghash aa gaya hai bas zara shiddat ki pyas ki
-
-  Mai aa raha hoo jao ghar barchi na khenchna
-
+  Ammaṅ ko ye khabar na ho mere sina lagi
+  Ghash aa gaya hai bas zara shiddat thi pyaas ki
+  Main aa raha huṅ chhaaoṅ kar barchhi na khenchna
 
   4
-
-  Bole hussain baap ko behla rahe hai aap
-
-  Maloom hai ke yan se kahan ja rahe hai aap
-
-  Kehte ho moo ko phayr kar barchi na khenchna
-
+  Bole Husain baap ko behla rahe haiṅ aap
+  Maalum hai ke yaaṅ se kahaaṅ ja rahe haiṅ aap
+  Kehte ho muṅh ko pher kar barchhi na khenchna
 
   5
-
-  Saansein ukhad rahi to madham hai nafz bhi
-
-  Karte ho aah humko hai takeed sabr ki
-
-  Kehte ho thaam ke jigar barchi na khenchna
-
+  Saanseṅ ukhar rahi haiṅ to madham hai nabz bhi
+  Karte ho aah ham ko hai taakid sabr ki
+  Kehte ho thaam ke jigar barchhi na khenchna
 
   6
-
-  Akbar pukare baap se dil ko sambhaliye
-
-  Tooti sina kaleje mein rehne hi dijiye
-
-  Niklega saath mein jigar barchi na khenchna
-
+  Akbar pukaare baap se dil ko sambhaaliye
+  Tuti sinaaṅ kaleje meiṅ rehne hi dijiye
+  Nikle ga saath meiṅ jigar barchhi na khenchna
 
   7
-
-  Maula ne ya ali kaha dil ko sambhaal kar
-
-  Phir khud hi ladkhada gaye barchi nikaal kar
-
-  Kehta raha jawan pisar barchi na khaynchna
-
+  Maula ne Ya Ali kaha dil ko sambhaal kar
+  Phir khud hi larkhara gaye barchhi nikaal kar
+  Kehta raha jawaaṅ pisar barchhi na khenchna
 
   8
-
-  Rehaan saath barchi ke dil bhi nikal pada
-
-  Padte rahe hussain bhi ta dayr marsiya
-
-  Maa kehti aayi nange sar barchi na khaynchna'
+  Rehaan saath barchhi ke dil bhi nikal para
+  Parhte rahe Husain bhi ta der marsiya
+  Maa kehti aayi nange sar barchhi na khenchna
 ---
 
 بولے پدر سے اکبرؑ برچھی نہ کھینچنا

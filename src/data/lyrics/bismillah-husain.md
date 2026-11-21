@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Allhu akbar allahu akbar Husain Husain
-  Ba waqt e asr karbala raazi ba zuljana
-  Pusht e zuljana pe faateh khyber ka laal
-  Aayi sada e ghaib zehra ke nur e ain
-  Shehenshah-e-mashraqain bismillah husssain
-  Marhaba marhaba shaahe karbobala
-  Aagaye hai ali aur rasul-e-khuda
-  Apni sawari ran ko barhao
-  Taygh uthao ya Husain
-  Faatah-e-lashkar ho ibne hyder
-  Sabko batao ya Husain
-  Bismillah husssain...
-  Taygh e yadullahi e shuja e arab
-  Dine mohamed ki tu baqa ka sabab
-  Shaane imamat shaane qayadat
-  Teri wirasat ya Husain
-  Ye fauje aada yaad karegi
-  Teri shuja'at ya Husain
-  Bismillah husssain...
+  Allahu akbar Allahu akbar Husain Husain
+  Ba waqt-e-asr Karbala raazi ba Zuljanaah
+  Pusht-e-Zuljanaah pe faateh Khaibar ka laal
+  Aayi sada-e-ghaib Zehra ke nur-e-ain
+  Shahanshaah-e-mashriqain Bismillah Husain
+  Marhaba marhaba shaah-e-Karbobala
+  Aa gaye haiṅ Ali aur Rasul-e-Khuda
+  Apni sawaari ran ko barhaao
+  Tegh uthaao ya Husain
+  Faateh-e-lashkar ho Ibn-e-Haidar
+  Jabke bataao ya Husain
+  Bismillah Husain...
+  Tegh-e-Yadullah ae shuja-e-Arab
+  Din-e-Muhammad ki tu baqa ka sabab
+  Shaan-e-imaamat shaan-e-qayaadat
+  Teri wiraasat ya Husain
+  Ye fauj-e-aada yaad karegi
+  Teri shujaat ya Husain
+  Bismillah Husain...
   Jab ke tera faras ran ki jaanib chala
-  Jaaṅ bachane laga lashkare ashqiyan
-  Ran ko ulat kar maidaṅ palat kar
-  Tu ne dikhaya ya Husain
-  Khandaq o khyber badr ka manzar
-  Yaad dilaya ya Husain
-  Bismillah husssain...
-  Taygh teri chali hashr barpa hua
-  Ek hone laga maimana maisara
-  Tayghoṅ pe taygheiṅ dhaaloṅ pe dhaaleiṅ
-  Laashoṅ pe laasheiṅ ya Husain
+  Jaaṅ bachaane laga lashkar-e-ashqiya
+  Ran ko ulat kar maidaaṅ palat kar
+  Tu ne dikhaaya ya Husain
+  Khanduq Khaibar Badr ka manzar
+  Yaad dilaaya ya Husain
+  Bismillah Husain...
+  Tegh teri chali hashr barpa hua
+  Ik hone laga maimana maisara
+  Teghoṅ pe tegheṅ dhaaloṅ pe dhaaleṅ
+  Laashoṅ pe laasheṅ ya Husain
   Sehmi hui thi bikhri hui thi
-  Faujoṅ ki saanseiṅ ya Husain
-  Bismillah husssain...
+  Faujoṅ ki saanseṅ ya Husain
+  Bismillah Husain...
   Shaah larte rahe shaah larte rahe
-  Jang ko dekhne ambiya aagaye
-  Pyaas ke aalam meiṅ ye larayi
+  Jang ko dekhne ambiya aa gaye
+  Pyaas ke aalam meiṅ ye laraayi
   Tera jigar hai ya Husain
-  Tu ne bataya ke sher e daawar
+  Tu ne bataaya ke sher-e-Daawar
   Ka tu pisar hai ya Husain
-  Bismillah husssain...
-  Daf'atan ruk gaye daste shaahe huda
+  Bismillah Husain...
+  Dafatan ruk gaye dast-e-shaah-e-huda
   Aayi aflaak se irjai ki sada
-  Rab tera tujhse raazi hua hai
+  Rab tera tujh se raazi hua hai
   Aao palat kar ya Husain
-  Sajda e aakhir ka waqt hai ye
-  Mehbub e daawar ya Husain
-  Bismillah husssain...
+  Sajda-e-aakhiri ka waqt hai ye
+  Mahbub-e-Daawar ya Husain
+  Bismillah Husain...
   Tir chalte the kahiṅ se kahiṅ naize hai chale
-  Pusht e rahwaar se shabbir sar e farsh gire
-  Dar se qaime ke behan dekh rahi thi dukhiya
-  Aur sakina ki sada thi mere baba baba
-  Hashr barpa hua salman o raza
-  Aayi jab fatema zehra ki sada
+  Pusht-e-rahwaar se Shabbir sar-e-farsh gire
+  Dar se khaime ke bahan dekh rahi thi dukhiya
+  Aur Sakina ki sada thi mere baba baba
+  Hashr barpa hua Salman o Raza
+  Aayi jab Fatima Zehra ki sada
   Hai tanha tu pyaasa
   Zakhmi jabiṅ zakhmi badan
-  Khaak e watan tera kafan
-  Haye Husain
+  Khaak-e-watan tera kafan
+  Haaye Husain
 ---
 
 ۱

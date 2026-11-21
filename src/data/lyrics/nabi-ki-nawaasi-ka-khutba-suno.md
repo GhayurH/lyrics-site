@@ -27,13 +27,13 @@ romanLyrics: |-
   Baaba hi ke andaaz meiṅ taqrir karuṅ gi
   Darbaar meiṅ bas midhat-e-Shabbir karuṅ gi
   Taarikh ke sine pe ye tahrir karuṅ gi
-  Maidan meiṅ dar jaati hai Farraar ki beti
+  Maidaan meiṅ dar jaati hai Farraar ki beti
   Darbaar meiṅ dat jaati hai Karraar ki beti
 
   3
-  Aaeiṅ ge nazar Haidar-e-Karraar ke tewar
+  Aaeṅ ge nazar Haidar-e-Karraar ke tewar
   Lehje se dikha duṅ gi maiṅ talwaar ke tewar
-  Yaad aaeiṅ ge aada ko Alamdaar ke tewar
+  Yaad aaeṅ ge aada ko Alamdaar ke tewar
   Dekhe ga Khuda khud meri guftaar ke tewar
   Tabrik mile mujh ko Muhammad ki taraf se
   Khutba jo parhuṅ Shaam meiṅ daad aaye Najaf se
@@ -44,7 +44,7 @@ romanLyrics: |-
   Har raah ki diwaar gira sakti huṅ maiṅ bhi
   Phir dar pe sitaaroṅ ko bula sakti huṅ maiṅ bhi
   Yuṅ dast-e-Yadullaah ka ejaaz dikha duṅ
-  Chaahuṅ to abhi Shaam ko dunya se mita duṅ
+  Chaahuṅ to abhi Shaam ko dunyaa se mita duṅ
 
   5
   Haq se bhi gaya haq ko chhupaane ke liye tu
@@ -64,8 +64,8 @@ romanLyrics: |-
 
   7
   Taarikh male gi tere chehre pe siyaahi
-  Thukeiṅ ge teri qabr pe ghairat ke sipaahi
-  Deiṅ gi teri zillat ki sab aqwaam gawaahi
+  Thukeṅ ge teri qabr pe ghairat ke sipaahi
+  Deṅ gi teri zillat ki sab aqwaam gawaahi
   Ab aa hi gai huṅ to karuṅ gi yahaaṅ shaahi
   Kar duṅ gi qalam mufti-e-kaazib ke qalam ko
   Ghar ghar pe laga duṅ gi maiṅ Ghaazi ke alam ko

@@ -12,7 +12,7 @@ tags: []
 aliases: ["ya-ali-tu-waliyan-da-sultan-wajhi-hasan-zaidi-son"]
 published: true
 romanLyrics: |-
-  Sab tauṅ uchchiyaaṅ sab tauṅ wadhya shaan
+  Sab tauṅ uchchiyaaṅ sab tauṅ wadhiyaa shaan
   Ya Ali tu waliyaaṅ da sultaan
 
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
   Maatami saare tere sawaali
   Dar pe khare haiṅ ban ke bhikaari
   Naukar haiṅ tere hur o malak
-  Qadmoṅ meiṅ para hai tere falak
+  Qadmoṅ mein para hai tere falak
   Darzi hai tere Hasnain ka woh Rizwaan
 
   3
@@ -38,10 +38,10 @@ romanLyrics: |-
 
   4
   Maula Ali hai jo tera munkir
-  Dushman-e-Khaaliq hai woh muqassar
+  Dushman-e-Khaaliq hai woh muqassir
   Shaitaan ka pisar munkir hai tera
   Milti hai use laanat ki saza
-  Bas tera muhib dunya meiṅ hai insaan
+  Bas tera muhib dunya mein hai insaan
 
   5
   Apna aqida sirf yehi hai
@@ -55,7 +55,7 @@ romanLyrics: |-
   Marhab ko pachhaara Haider ne
   Jab Ali Wali ki tegh chali
   Khush ho ke bole pyaare Nabi
-  Ae mere Ali maiṅ waari maiṅ qurbaan
+  Ae mere Ali main waari main qurbaan
 
   7
   Mere Ali ki zaat ajab hai
@@ -65,7 +65,7 @@ romanLyrics: |-
   Rehmat pe Ali ki dunya hai hairaan
 
   8
-  Shafa-e-mehshar Ali Ali saaqi-e-Kausar Ali Ali
+  Shifaa-e-mehshar Ali Ali saaqi-e-Kausar Ali Ali
   Nafs-e-Payambar Ali Ali Zahra ka shauhar Ali Ali
   Maula-e-Qanbar ya Haider
   Aaqa-e-Abuzar ya Haider
@@ -75,7 +75,7 @@ romanLyrics: |-
   Raas hai hum ko teri faqiri
   Roz-e-azal se hum haiṅ Ghadiri
   Mairaaj nazar ko hone lagi
-  Palaan pe juṅhi aaye Nabi
+  Palaan pe juṅ hi aaye Nabi
   Tha Tur se uncha Khum ka woh palaan
 
   10

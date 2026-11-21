@@ -1,46 +1,64 @@
 ---
-title: "Nayi Aaya Alma Wala Pani Lain Gaya"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "نئیں آیا علم والا پانی لین گیا"
+alternateTitle: "Nayi Aaya Alma Wala Pani Lain Gaya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Nayi aaya alma wala pani lain gaya
+
+  1
+  Sayeda day baal piyasay kharay dar khamay tey rowan
+  Naa lay lay kay Ghazi da
+
+  2
+  Jhino darya tay Sakina torya mashak pawa kay
+  Onay takya na khaimay aakay
+  Latha zeen tu jis welay Ghazi
+  Pani nu bhul kay Asghar di
+  Reya parhda Inalillah
+
+  3
+  Sir jholi vich Shah nay rakh kay akhiya Ghazi
+  Menu veer bula main haan razi
+  Teri laash tay pohchan lai tak lay
+  Raawan vich main seh aya
+  Mee teeran tay patharan da
+
+  4
+  Sain Fiza vain paundi aa dig paye khaimay andar
+  Hurn saambhalay Zainab tou chadar
+  Main vekh aiyan meri dhi ujri
+  Kerbal di khaak uthay lashay
+  Teray Ghazi sher bhira da
 ---
 
-Nayi Aaya Alma Wala Pani Lain Gaya
+نئیں آیا علم والا پانی لین گیا
 
-Sayeda Day Baal Piyasay Kharay Dar Khamay Tey Rowan
+۱
+سیدہ دے بال پیاسے کھڑے در خیمے تے روون
+ناں لے لے کے غازی دا
 
-Naa Lay Lay Kay Ghazi Da
+۲
+جیہنوں دریا تے سکینہ ٹوریا مشک پوا کے
+اوہنے تکیا نہ خیمے آ کے
+لتھا زین توں جس ویلے غازی
+پانی نوں بھل کے اصغر دی
+ریا پڑھدا انا للہ
 
-Jhino Darya Tay Sakina Torya Mashak Pawa Kay
+۳
+سر جھولی وچ شاہ نے رکھ کے آکھیا غازی
+مینوں ویر بلا میں ہاں راضی
+تیری لاش تے پہنچن لئی تک لے
+راہواں وچ میں سہہ آیا
+مینہ تیراں تے پتھراں دا
 
-Onay Takya Na Khaimay Aakay
-
-Latha Zeen Tu Jis Welay Ghazi
-
-Pani Nu Bhul Kay Asghar Di
-
-Reya Parhda Inalillah
-
-Sir Jholi Vich Shah Nay Rakh Kay Akhiya Ghazi
-
-Menu Veer Bula Main Haan Razi
-
-Teri Laash Tay Pohchan Lai Tak Lay
-
-Raawan Vich Main Seh Aya
-
-Mee Teeran Tay Patharan Da
-
-Sain Fiza Vain Paundi Aa Dig Paye Khaimay Andar
-
-Hurn Saambhalay Zainab Tou Chadar
-
-Main Vekh Aiyan Meri Dhi Ujri
-
-Kerbal Di Khaak Uthay Lashay
-
-Teray Ghazi Sher Bhira Da
+۴
+سائیں فضہ وین پاؤندی آ ڈگ پئے خیمے اندر
+ہُن سنبھالے زینب توں چادر
+میں ویکھ آئیاں میری دھی اجڑی
+کربل دی خاک اتھے لاش اے
+تیرے غازی شیر بھرا دا

@@ -1,38 +1,66 @@
 ---
-title: "Bas Bibi Razi Ho Jaein"
+title: "بس بی‌بی راضی ہو جائیں"
+alternateTitle: "Bas Bibi Razi Ho Jaein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bas Bibi razi ho jaein
+  Mula tere faqeer ke ashkon ki hai dua
+
+  1
+  Razi humein yaqeen hai ho jaye ga Khuda
+  Dolat-o-shohrat hai kya yeh zindagi kuch bhi nahi
+  Marzi-e-Zahra na ho tu bandagi kuch bhi nahi
+  Mafhoom hai Mawadat-e-Aal-e-Rasool ka
+
+  2
+  Dars-e-aadab-e-wafadari humein jis se mila
+  Mardrasa Abbas hai har ashiq-e-Shabir ka
+  Jis ki hayat-o-maut ka maqsad yehi raha
+  Kat gaye bazu Jari ke ho giya thanda alam
+
+  3
+  Mashk se pani baha our reh gaye pyase haram
+  Zakhmo ko apne bhool ke Ghazi ne ki dua
+  Waqt-e-aakhir rakh ke sar zanu pe yeh Sheh ne kaha
+  Koi hasrat dill mein ho tu keh do mere ba-wafa
+
+  4
+  Nazrein jhuka ke Ghazi ne Shabir se kaha
+  Jab suni Umm-ul-Baneen ne aye Takallum yeh khabar
+  Ho giya qurban Ghazi Fatima ke lal par
+  Yeh keh ke maa ne shukar ka sajda adda kiya
 ---
 
-Bas Bibi Razi Ho Jaein.
-Mula Tere Faqeer Ke Ashkon Ki Hai Dua.
+بس بی‌بی راضی ہو جائیں
+مولا تیرے فقیر کے اشکوں کی ہے دعا
 
-1
-Razi Humein Yaqeen Hai Ho Jaye Ga Khuda.
-Dolat-o-Shohrat Hai Kya Yeh Zindagi Kuch Bhi Nahi.
-Marzi-e-Zahra Na Ho Tu Bandagi Kuch Bhi Nahi.
-Mafhoom Hai Mawadat-e-Aal-e-Rasool Ka.
+۱
+راضی ہمیں یقین ہے ہو جائے گا خدا
+دولت و شہرت ہے کیا یہ زندگی کچھ بھی نہیں
+مرضیِ زہرا نہ ہو تو بندگی کچھ بھی نہیں
+مفہوم ہے مودّتِ آلِ رسول کا
 
-2
-Dars-e-Aadab-e-Wafadari Humein Jis Se Mila.
-Mardrasa Abbas Hai Har Ashiq-e-Shabir Ka.
-Jis Ki Hayat-o-Maut Ka Maqsad Yehi Raha.
-Kat Gaye Bazu Jari Ke Ho Giya Thanda Alam.
+۲
+درسِ آدابِ وفاداری ہمیں جس سے ملا
+مدرسہ عباس ہے ہر عاشقِ شبیر کا
+جس کی حیات و موت کا مقصد یہی رہا
+کٹ گئے بازو جری کے ہو گیا ٹھنڈا علم
 
-3
-Mashk Se Pani Baha Our Reh Gaye Pyase Haram.
-Zakhmo Ko Apne Bhool Ke Ghazi Ne Ki Dua.
-Waqt-e-Aakhir Rakh Ke Sar Zanu Pe Yeh Sheh Ne Kaha.
-Koi Hasrat Dill Mein Ho Tu Keh Do Mere Ba-Wafa.
+۳
+مشک سے پانی بہا اور رہ گئے پیاسے حرم
+زخموں کو اپنے بھول کے غازی نے کی دعا
+وقتِ آخر رکھ کے سر زانو پہ یہ شہ نے کہا
+کوئی حسرت دل میں ہو تو کہہ دو میرے باوفا
 
-4
-Nazrein Jhuka Ke Ghazi Ne Shabir Se Kaha.
-Jab Suni Umm-ul-Baneen Ne Aye Takallum Yeh Khabar.
-Ho Giya Qurban Ghazi Fatima Ke Lal Par.
-Yeh Keh Ke Maa Ne Shukar Ka Sajda Adda Kiya.
+۴
+نظریں جھکا کے غازی نے شبیر سے کہا
+جب سنی ام البنین نے اے تکلم یہ خبر
+ہو گیا قربان غازی فاطمہ کے لال پر
+یہ کہہ کے ماں نے شکر کا سجدہ ادا کیا

@@ -12,30 +12,30 @@ tags: []
 aliases: ["Jalte Hue Qaime Hai"]
 published: true
 romanLyrics: |-
-  Hai Dukhtar-e-Sher-e-Khuda jo Karbala meiṅ hai berida
+  Hai dukhtar-e-sher-e-Khudaa jo Karbala meiṅ hai beridaa
 
-  Jalte hue khaime haiṅ na bhai na rida hai
-  Ummat se mila kaisa ye Zainab ko sila hai
+  Jalte hue khaime haiṅ na bhaai na ridaa hai
+  Ummat se milaa kaisaa ye Zainab ko silaa hai
 
   1
-  Aal-e-Aba ke sar haiṅ charhe nok-e-sinaaṅ par
+  Aal-e-Abaa ke sar haiṅ charhe nok-e-sinaaṅ par
   Laashe pare haiṅ har su jo sab rag-e-tapaaṅ par
-  Pehnaati unheiṅ ban meiṅ kafan khaak-e-shifa hai
+  Pehnaati unheiṅ ban meiṅ kafan khaak-e-shifaa hai
 
   2
-  Abid ko laa rahi hai wo kaandhoṅ pe uthaa kar
-  Aur Shimr ko kehti hai zara khauf-e-Khuda kar
-  Koi na raha ek ye hi bimaar bacha hai
+  Aabid ko laa rahi hai wo kaandhoṅ pe uthaa kar
+  Aur Shimr ko kehti hai zaraa khauf-e-Khudaa kar
+  Koi na rahaa ek ye hi bimaar bacha hai
 
   3
   Karte haiṅ sab farishte Shabbir ka maatam
   Karti haiṅ hur o ghilmaaṅ beshir ka maatam
-  Maatam Shah-e-bekas ka sar-e-arsh bapa hai
+  Maatam Shah-e-bekas ka sar-e-arsh bapaa hai
 
   4
   Is baat ki ae shaam-e-gharibaaṅ hai gawaah tu
-  Taare nahiṅ ye Saani-e-Zehra ke haiṅ aaṅsu
-  Khurshid nahiṅ aaj to khud rota Khuda hai
+  Taare nahiṅ ye Saani-e-Zehra ke haiṅ aansu
+  Khurshid nahiṅ aaj to khud rotaa Khudaa hai
 ---
 ہے دُخترِ شیرِ خُدا جو کربلا میں ہے بے ردا
 

@@ -8,82 +8,68 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Zahra Ya Zahra
-  Ya Zahra Ya Zahra..(8)
+  Ya Zahra ya Zahra
 
   1
-  Aadhi raat ki taariki me lekar chashme tar..(2)
-  Mere maula aa jate hai kabre Zahra par
-  Haaye karbe imaame zamaana kabre Zahra par
-  Ya Zahra Ya Zahra..(2)
+  Aadhi raat ki taariki meiṅ lekar chashm-e-tar
+  Mere maula aa jaate hai qabr-e-Zahra par
+  Haaye karb-e-imaam-e-zamaana qabr-e-Zahra par
 
   2
-  Sar ko jhuka kar kabr pe aakar rote rehte hai
-  Chupke chupke jaane kya kya maula kehte hai
-  Subbat alaiyya ki hai sadae marqad ke andar
-  Ya Zahra Ya Zahra..(2)
+  Sar ko jhuka kar qabr pe aa kar rote rehte haiṅ
+  Chupke chupke jaane kya kya maula kehte haiṅ
+  Subbat alaiyya ki haiṅ sadaaeṅ marqad ke andar
 
   3
-  Jaise baade asr hua tha laashe pisar ka haal
-  Maa ki marqad ko kar daala zaalim ne paamaal
-  Door talak bus ret hai phaili mitti aur kankar
-  Ya Zahra Ya Zahra..(2)
+  Jaise baad-e-asr hua kya laash-e-pisar ka haal
+  Maaṅ ki marqad ko kar daala zaalim ne paamaal
+  Dur talak bas ret hai phaili mitti aur kankar
 
   4
-  Ek shikasta pehlu ki aawaaz me kya hai dard
-  Arshe ilaahi kaap raha hai chehrae dee hai zar
-  Ashk mei doobi hui mitti hai rote hai patthar
-  Ya Zahra Ya Zahra..(2)
+  Ek shikasta pehlu ki aawaaz meiṅ kya hai dard
+  Arsh-e-ilaahi kaaṅp raha hai chehra-e-diṅ hai zard
+  Ashk meiṅ dubi hui mitti hai rote haiṅ patthar
 
   5
-  Ghaibat ke parde me hu mehroomi toh dekhe
-  Dadi apne pote ki mazloomi toh dekhe
-  Daadi meri ankho me hai shaam kaa har manzar
-  Ya Zahra Ya Zahra..(2)
+  Ghaibat ke parde meiṅ huṅ mehrumi to dekheṅ
+  Daadi apne pote ki mazlumi to dekheṅ
+  Daadi meri aaṅkhoṅ meiṅ hai Shaam ka har manzar
 
   6
-  Raat ki aus hai din ki dhoop ka hai aazaar yaha
-  Qabr ke upar saaye kaa bhi koi nahi imkaa
-  Jaise zainab aur kulsum ke sar pe nahi chaadar
-  Ya Zahra Ya Zahra..(2)
+  Raat ki aus hai din ki dhup ka hai aazaar yahaaṅ
+  Qabr ke upar saaye ka bhi koi nahiṅ imkaaṅ
+  Jaise Zainab aur Kulsum ke sar pe nahiṅ chaadar
 
   7
-  Bibi farmaati hai baaba aapke baad mujhpe wo musibate aayi
-  Jo dino par padti to taareek raaton me badal jaate
-  Jo pahaado par padti to pahaad surme me badal jaate
-  Aaj bhi mahal shaah ke roushan hai
-  Magar teri kabr mutahhar pe na koi saaebaa hai na koi diya jalta hai
-  Ajab nahi ke kabre paighambar se aawaaz aati ho
+  Bibi farmaati hai baaba aap ke baad mujh pe woh musibateṅ aaiṅ
+  Jo dinoṅ par partiṅ to taarik raatoṅ meiṅ badal jaate
+  Jo pahaaroṅ pe partiṅ to pahaar surme meiṅ badal jaate
+  Aaj bhi mahal shaah ke roshan hai
+  Magar teri qabr-e-mutahhar par na koi saaibaan hai na koi diya jalta hai
+  Ajab nahiṅ ke qabr-e-paighambar se aawaaz aati ho
+  Beti teri qabr pe ab tak koi nahiṅ saaya
+  Jaise tha be gor o kafan Karbal meiṅ tera jaaya
+  Kehti hai mitti meiṅ ati yeh qabr-e-paighambar
 
   8
-  Beti teri qabr pe abtak koi nahi saaya
-  Jaise tha begoro kafan karbal me tera jaaya
-  Kehti hai mitti mei ati yeh qabre paighambar
-  Ya Zahra Ya Zahra..(2)
+  Arsh-e-ilaahi larzaaṅ hai aur taare rote haiṅ
+  Daadi aap ki mazlumi pe saare rote haiṅ
+  Girya kunaaṅ haiṅ saare imaam aur saare paighambar
 
   9
-  Arshe ilaahi hiltaa hai toh taare rote hai
-  Dadi aapki mazlumi pe saare rote hai
-  Girya kunaa hai saare imaam aur saare paighambar
-  Ya Zahra Ya Zahra..(2)
+  Marqad se aati hai sada yeh bint-e-payambar ki
+  Beta tere karb se waaqif hai teri daadi
+  Mohsin ke bhi khun ka badla waajib hai tujh par
 
   10
-  Marqad se aati hai sada yeh binte payambar ki
-  Beta tere karb se waqif hai teri daadi
-  Mohsin ke bhi khoon ka badlaa wajib hai tujhpar
-  Ya Zahra Ya Zahra..(2)
+  Daadi aap ke paas hai ab bhi kurta Asghar ka
+  Daadi mujh ko bas lena hai Mohsin ka badla
+  Aap dua deṅ khul jaae bas ghaibat ka yeh dar
 
   11
-  Dadi aapke paas hai ab bhi kurta asgar ka
-  Dadi mujhko bus lena hai mohsin kaa badlaa
-  Aap dua de khul jaae bus ghaibat kaa yeh dar
-  Ya Zahra Ya Zahra..(2)
-
-  12
-  Haath me hai is waqt bhi mere haider ki talwaar
-  Mai toh har ek surat me hu aane ko tayyar
-  Roke qamar maula ne kaha tayyar nahi lashkar
-  Ya Zahra Ya Zahra..(2)
+  Haath meiṅ hai is waqt bhi mere Haidar ki talwaar
+  Main to har ek surat meiṅ huṅ aane ko tayyaar
+  Roke Qamar maula ne kaha tayyaar nahiṅ lashkar
 ---
 
 یا زھراؑ یا زھراؑ

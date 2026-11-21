@@ -1,32 +1,53 @@
 ---
-title: "Jang Nayi Karni Mukhtar Bhira Main Wich Darbar De Aayi Khari Aan Lyrics In Saraiki 2008"
+title: "جنگ نئیں کرنی مختار بھرا میں وچ دربار دے آئی کھڑی آں"
+alternateTitle: "Jang Nayi Karni Mukhtar Bhira Main Wich Darbar De Aayi Khari Aan"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 poet: "Gohar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jang nayi karni Mukhtar bhira main wich darbar de aayi khari aan
+
+  1
+  Mukhtar mujhe pehchan main Zainab haan haye main Zainab haan haye main Zainab haan
+
+  2
+  Rat ronda bachra bach poway e aas te kariyaan payi khari aan
+  Talwar di loor si Karbal wich hun jang de zawiye badal gaye
+  Main toor ke naal Sakina koon tableeg da zimma chayi khari aan
+  Abbas di taig te choor ondi aye chubday waar nayi jhal sakday
+  Aj Fazal te v Ghazi wali main khud pabandiyaan layi khari aan
+  Toray jang Karbal di muk gayi aye nayi silsila rukya lashaan da
+  Rahwaan de wich masooma de main kayi lashay dafnai khari aan
+  Agay Karbal de maidan de wich be kafan janazay chor aayi aan
+  Daday Imran di nasal wichon hun hik Sajjad bachai khari aan
+  Taun sir nayi chainda jandi haan nayi wekhna chahnda baaj rida
+  Main khud Sajjad di kand ohlay sir apna veer lukayi khari aan
+  Gohar Mukhtar koon sain aakhay be kafan bhira di bhain haan main
+  Chadar di ja sir athar te main Sham-e-Ghareebaan payi khari aan
 ---
 
-Jang Nayi Karni Mukhtar Bhira Main Wich Darbar De Aayi Khari Aan.
+جنگ نئیں کرنی مختار بھرا میں وچ دربار دے آئی کھڑی آں
 
-1
-Mukhtar Mujhe Pehchan Main Zainab Haan Haye Main Zainab Haan Haye Main Zainab Haan.
+۱
+مختار مجھے پہچان میں زینب ہاں ہائے میں زینب ہاں ہائے میں زینب ہاں
 
-2
-Rat Ronda Bachra Bach Poway E Aas Te Kariyaan Payi Khari Aan.
-Talwar Di Loor Si Karbal Wich Hun Jang De Zawiye Badal Gaye.
-Main Toor Ke Naal Sakina Koon Tableeg Da Zimma Chayi Khari Aan.
-Abbas Di Taig Te Choor Ondi Aye Chubday Waar Nayi Jhal Sakday.
-Aj Fazal Te V Ghazi Wali Main Khud Pabandiyaan Layi Khari Aan.
-Toray Jang Karbal Di Muk Gayi Aye Nayi Silsila Rukya Lashaan Da.
-Rahwaan De Wich Masooma De Main Kayi Lashay Dafnai Khari Aan.
-Agay Karbal De Maidan De Wich Be Kafan Janazay Chor Aayi Aan.
-Daday Imran Di Nasal Wichon Hun Hik Sajjad Bachai Khari Aan.
-Taun Sir Nayi Chainda Jandi Haan Nayi Wekhna Chahnda Baaj Rida.
-Main Khud Sajjad Di Kand Ohlay Sir Apna Veer Lukayi Khari Aan.
- Gohar Mukhtar Koon Sain Aakhay Be Kafan Bhira Di Bhain Haan Main.
-Chadar Di Ja Sir Athar Te Main Sham-e-Ghareebaan Payi Khari Aan.
+۲
+رت روندا بچڑا بچ پووے ایہ آس تے کریاں پئی کھڑی آں
+تلوار دی لوڑ سی کربل وچ ہن جنگ دے زاویے بدل گئے
+میں ٹور کے نال سکینہ کوں تبلیغ دا ذمہ چائی کھڑی آں
+عباس دی تیغ تے چور آندی اے چبھدے وار نئیں جھل سکدے
+اج فضل تے وی غازی والی میں خود پابندیاں لائی کھڑی آں
+توڑے جنگ کربل دی مک گئی اے نئیں سلسلہ رکیا لاشاں دا
+راہواں دے وچ معصوماں دے میں کئی لاشے دفنائی کھڑی آں
+اگے کربل دے میدان دے وچ بے کفن جنازے چھوڑ آئی آں
+دادے عمران دی نسل وچوں ہن ہک سجاد بچائی کھڑی آں
+توں سر نئیں چائیںدا جاندی ہاں نئیں ویکھنا چاہندا باج ردا
+میں خود سجاد دی کندھ اوہلے سر اپنا ویر لکائی کھڑی آں
+گوہر مختار کوں سائیں آکھے بے کفن بھرا دی بھین ہاں میں
+چادر دی جا سر اطہر تے میں شامِ غریباں پئی کھڑی آں

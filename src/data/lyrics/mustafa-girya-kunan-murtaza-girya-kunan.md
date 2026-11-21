@@ -9,8 +9,8 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mustafa girya kuna murtaza girya kuna
-  Fatema noha kuna mere mazlum Husain
+  Mustafa girya kunaṅ Murtaza girya kunaṅ
+  Fatema noha kunaṅ mera mazlum Husain
 
   1
   Khun sine se ubalta hai koi to roke
@@ -19,33 +19,33 @@ romanLyrics: |-
 
   2
   Kisi naushah ki laash aayi hai maqtal se abhi
-  Aur dulhan koi khamosh hai sakte may khari
-  Sare khaima hai qayamat ka sama
+  Aur dulhan koi khamosh hai sakte mein khari
+  Saara khaima hai qayamat ka samaaṅ
 
   3
-  Gurz ka waar laga sar pa to sambhla na gaya
-  Apne rehwaar se bedast zamin par aaya
+  Guzar ka waar laga sar pe to sambhla na gaya
+  Apne rehwaar se be dast zamin par aaya
   Mashk sine se magar hai chispaṅ
 
   4
-  Laashe baysheer liye khaime ke simt aate hai
-  Jaane kya soch ke phir shah palat jaate hai
-  Muntazir hai dare khaima par maa
+  Laash be shir liye khaime ki simt aate haiṅ
+  Jaane kya soch ke phir shah palat jaate haiṅ
+  Muntazir hai dar-e-khaima par maaṅ
 
   5
-  Khun barasta hai fizaoṅ se larazti hai zamiṅ
-  Shah-e-diṅ sajdaye aakhir may jhukate hai jabin
-  Yehi sar hoga sare nokay sina
+  Khun barasta hai fazaaoṅ se larazti hai zamiṅ
+  Shah-e-diṅ sajda-e-aakhir mein jhukate haiṅ jabin
+  Yehi sar hoga sar-e-nok-e-sinaaṅ
 
   6
-  Zakhme sajjad ka is tarha se rista jaye
-  Tauq gardan may lahu tauq pa girta jaye
-  Aur paoṅ may wo zanjire garaṅ
+  Zakhm-e-Sajjad ka is tarah se rista jaaye
+  Tauq gardan mein lahu tauq par girta jaaye
+  Aur paaoṅ mein wo zanjir garaaṅ
 
   7
-  Shimr barchi se utarega jo zainab ki rida
-  Ran may shahid tarap uthega jari ka laasha
-  Ab haram ka nahi koi nigaraṅ
+  Shimr barchhi se utaarega jo Zainab ki rida
+  Ran mein Shahid tarap uthega jari ka laasha
+  Ab haram ka nahiṅ koi nigaraaṅ
 ---
 
 مصطفی گریہ کناں مرتضیٰ گریہ کناں

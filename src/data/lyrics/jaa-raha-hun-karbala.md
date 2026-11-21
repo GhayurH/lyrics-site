@@ -28,8 +28,8 @@ romanLyrics: |-
   Us zamiṅ ki khaak ko shah ne kiya khaak-e-shifa
 
   3
-  Karbala kya hai mualla Aadam o Isa ka hai
-  Karbala daarul khilaafa khum ke us Maula ka hai
+  Karbala kya hai muallaa Aadam o Isa ka hai
+  Karbala daarul khilaafa Khum ke us Maula ka hai
   Jo ke nafs-e-Payambar jo ke hai dast-e-Khuda
 
   4
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Gardan-e-Shabbir par khanjar chala tha jis jagah
   Sina-e-Akbar meiṅ neza tha jahaaṅ tuta hua
-  Gulshan-e-Zehra ke gul bute jahaaṅ hai jaa baja
+  Gulshan-e-Zehra ke gul bute jahaaṅ hai jaa bajaa
 
   6
   Marqad-e-Shabbir par Rehaan ho jaana agar

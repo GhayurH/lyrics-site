@@ -55,15 +55,15 @@ romanLyrics: |-
   6
   Ye wo Husain hai mila hai jis ko dosh-e-Mustafa
   Yehi waqaar-e-arsh hai yehi hai naaz-e-Kibriya
-  Ana minal Husain keh ke ye Nabi ne keh diya
+  Ana min al-Husain keh ke ye Nabi ne keh diya
   Isi sabab se aaj ham bhi de rahe haiṅ ye sada
   Hamaara rishta Husain se hai
   Bas ek rishta Husain se hai
 
   7
-  Husain ko diloṅ meiṅ tum bithaalo ae Husainiyoṅ
-  Husain ko nazar meiṅ tum basaalo ae Husainiyoṅ
-  Ye keh ke apna dahr ko banaalo ae Husainiyoṅ
+  Husain ko diloṅ meiṅ tum bithaa lo ae Husainiyoṅ
+  Husain ko nazar meiṅ tum basaa lo ae Husainiyoṅ
+  Ye keh ke apna dahr ko banaa lo ae Husainiyoṅ
   Hamaara rishta Husain se hai
   Bas ek rishta Husain se hai
 
@@ -83,9 +83,9 @@ romanLyrics: |-
   Bas ek rishta Husain se hai
 
   10
-  Raheiṅge yaum-e-hashr bhi wohi to log shaadmaaṅ
+  Raheiṅ ge yaum-e-hashr bhi wohi to log shaadmaaṅ
   Gham-e-Husain meiṅ jo kar rahe haiṅ naala o fughaaṅ
-  Ae Maajid apne paas aana paayega gham-e-jahaaṅ
+  Ae Maajid apne paas aana paaye ga gham-e-jahaaṅ
   Hamaara rishta Husain se hai
   Bas ek rishta Husain se hai
 ---

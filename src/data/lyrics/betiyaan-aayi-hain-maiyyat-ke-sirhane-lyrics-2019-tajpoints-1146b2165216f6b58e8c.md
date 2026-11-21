@@ -1,42 +1,74 @@
 ---
-title: "Betiyaan Aayi Hain Maiyyat Ke Sirhane Lyrics 2019"
+title: "بیٹیاں آئی ہیں میت کے سرہانے"
+alternateTitle: "Betiyaan Aayi Hain Maiyyat Ke Sirhane"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Di sada Kofay mein rooh-e-Fatima ne Ya Ali
+  Betiyaan aayi hain maiyyat ke sirhane Ya Ali
+  Zulm Kofay mein kiya hai kaisa ahl-e-Sham ne
+  Umar bhar Zainab na aayi thi padar ke samne
+  Aaj kaise aayi hai maiyyat pe jane Ya Ali
+  Gham ke aalam mein Ruqaiyya ki wafa tu dekhiye
+  Kis tarha woh Zainab-o-Kulsoom se aagay barhe
+  Lash par aati nahi aanso bahane Ya Ali
+  Dekh kar Zainab ki halat yaad aata hai mujhe
+  Oss ghar Ummal Musayab mere baba kehte the
+  Jis ghar di thi humein Zainab Khuda ne Ya Ali
+  Kya bataon kya guzarti hai tere Abbas par
+  Hosla kaise kare Zainab ko rota dekh kar
+  Ghar se bahir hai woh pehray ke bahane Ya Ali
+  Teen din se shoor hai har ik azaan par bain ka
+  Kis tarha se gham bataon boliye Hasnain ka
+  Mere bache our yateemi ke zamane Ya Ali
+  Aap ki maiyyat pe kaise aayi hain yeh dekhiye
+  Jate jate beti ka lehja tu sunte jaiye
+  Sham jana hai isse khutbay sunane Ya Ali
+  Kya kahon baba ka kaisa haal tha aflak par
+  Gir gayi thi main Baqiya mein tarap kar khak par
+  Aap ne chomay the jab Ghazi ke shane Ya Ali
+  Maa ka saya ho na baqi baap hi zinda rahe
+  Jate jate betiyon ko itna batla dijiye
+  Kaise paltay hain bhala aise gharane Ya Ali
+  Zulm ki Akbar hoi hai har taraf youn inteha
+  Karbala, Kofa, Najaf, Yasrab, se aati hai sada
+  Aaye ab Ibn-e-Hasan in ko basane Ya Ali
 ---
 
-1
-Di Sada Kofay Mein Rooh-e-Fatima Ne Ya Ali.
-Betiyaan Aayi Hain Maiyyat Ke Sirhane Ya Ali.
-Zulm Kofay Mein Kiya Hai Kaisa Ahl-e-Sham Ne.
-Umar Bhar Zainab Na Aayi Thi Padar Ke Samne.
-Aaj Kaise Aayi Hai Maiyyat Pe Jane Ya Ali.
-Gham Ke Aalam Mein Ruqaiyya Ki Wafa Tu Dekhiye.
-Kis Tarha Woh Zainab-o-Kulsoom Se Aagay Barhe.
-Lash Par Aati Nahi Aanso Bahane Ya Ali.
-Dekh Kar Zainab Ki Halat Yaad Aata Hai Mujhe.
-Oss Ghar Ummal Musayab Mere Baba Kehte The.
-Jis Ghar Di Thi Humein Zainab Khuda Ne Ya Ali.
-Kya Bataon Kya Guzarti Hai Tere Abbas Par.
-Hosla Kaise Kare Zainab Ko Rota Dekh Kar.
-Ghar Se Bahir Hai WOh Pehray Ke Bahane Ya Ali.
-Teen Din Se Shoor Hai Har Ik Azaan Par Bain Ka.
-Kis Tarha Se Gham Bataon Boliye Hasnain Ka.
-Mere Bache Our Yateemi Ke Zamane Ya Ali.
-Aap Ki Maiyyat Pe Kaise Aayi Hain Yeh Dekhiye.
-Jate Jate Beti Ka Lehja Tu Sunte Jaiye.
-Sham Jana Hai Isse Khutbay Sunane Ya Ali.
-Kya Kahon Baba Ka Kaisa Haal Tha Aflak Par.
-Gir Gayi Thi Main Baqiya Mein Tarap Kar Khak Par.
-Aap Ne Chomay The Jab Ghazi Ke Shane Ya Ali.
-Maa Ka Saya Ho Na Baqi Baap Hi Zinda Rahe.
-Jate Jate Betiyon Ko Itna Batla Dijiye.
-Kaise Paltay Hain Bhala Aise Gharane Ya Ali.
-Zulm Ki Akbar Hoi Hai Har Taraf Youn Inteha.
-Karbala,Kofa,Najaf,Yasrab, Se Aati Hai Sada.
-Aaye Ab Ibn-e-Hasan In Ko Basane Ya Ali.
+۱
+دی صدا کوفے میں روحِ فاطمہ نے یا علی
+بیٹیاں آئی ہیں میت کے سرہانے یا علی
+ظلم کوفے میں کیا ہے کیسا اہلِ شام نے
+عمر بھر زینب نہ آئی تھی پدر کے سامنے
+آج کیسے آئی ہے میت پہ جانے یا علی
+غم کے عالم میں رقیہ کی وفا تو دیکھیے
+کس طرح وہ زینب و کلثوم سے آگے بڑھے
+لاش پر آتی نہیں آنسو بہانے یا علی
+دیکھ کر زینب کی حالت یاد آتا ہے مجھے
+اس گھر ام المصائب میرے بابا کہتے تھے
+جس گھر دی تھی ہمیں زینب خدا نے یا علی
+کیا بتاؤں کیا گزرتی ہے تیرے عباس پر
+حوصلہ کیسے کرے زینب کو روتا دیکھ کر
+گھر سے باہر ہے وہ پہرے کے بہانے یا علی
+تین دن سے شور ہے ہر اک اذان پر بین کا
+کس طرح سے غم بتاؤں بولیے حسنین کا
+میرے بچے اور یتیمی کے زمانے یا علی
+آپ کی میت پہ کیسے آئی ہیں یہ دیکھیے
+جاتے جاتے بیٹی کا لہجہ تو سنتے جائیے
+شام جانا ہے اسے خطبے سنانے یا علی
+کیا کہوں بابا کا کیسا حال تھا افلاک پر
+گر گئی تھی میں بقیع میں تڑپ کر خاک پر
+آپ نے چومے تھے جب غازی کے شانے یا علی
+ماں کا سایہ ہو نہ باقی باپ ہی زندہ رہے
+جاتے جاتے بیٹیوں کو اتنا بتلا دیجیے
+کیسے پلتے ہیں بھلا ایسے گھرانے یا علی
+ظلم کی اکبر ہوئی ہے ہر طرف یوں انتہا
+کربلا، کوفہ، نجف، یثرب، سے آتی ہے صدا
+آئے اب ابنِ حسن ان کو بسانے یا علی

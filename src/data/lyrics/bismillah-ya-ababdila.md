@@ -13,68 +13,68 @@ romanLyrics: |-
   1
   Naiza sine se nikaalne ki jo baari aayi
   Shaah par haye musibat bhi ye bhaari aayi
-  Arsh se farsh pe nabiyoṅ ki sawari aayi
-  Roti sar pitti ahmed ki dulaari aayi
-  Aastiṅ ulte huwe shaah e huda baithe the
-  Haath kaandhe pe dhare sher e khuda kehte the
-  Khaynch le sine se barchi ki ani bismillah
-  Ya aba abdillah
-  Bismillah ya aba abdillah
-  Ro ke kehte the ye bete se ali bismillah
-  Ya aba abdillah
-  Ek mehshar hai malayak meiṅ sabhi rote hai
-  Tere pehlu meiṅ rasul e arabi rote hai
-  Daad dete hai ibrahim nabi
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Arsh se farsh pe nabiyoṅ ki sawaari aayi
+  Roti sar pitti Ahmad ki dulaari aayi
+  Aastiṅ ulte hue shaah-e-huda baithe the
+  Haath kaandhe pe dhare sher-e-khuda kehte the
+  Khaynch le sine se barchi ki ani, bismillah
+  Ya Aba Abdillah
+  Bismillah ya Aba Abdillah
+  Ro ke kehte the ye bete se Ali, bismillah
+  Ya Aba Abdillah
+  Ek mahshar hai malaayak meiṅ sabhi rote haiṅ
+  Tere pehlu meiṅ rasul-e-Arabi rote haiṅ
+  Daad dete haiṅ Ibrahim nabi
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
   Tu mera laal hai ye sab ko bata de beta
-  Baap ke khun ki taasir dikha de beta
+  Baap ke khun ko taasir dikha de beta
   Haath larze na tera mere jari
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
-  Ae mere laal akela tu nahi jangal meiṅ
+  Ae mere laal akela tu nahiṅ jangal meiṅ
   Ambiya auliya hai bhai Hasan maqtal meiṅ
-  Teri maa fatema zahra hai khari
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Teri maaṅ Fatema Zahra hai khari
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
   Waada tifli ka kiya tha jo ada kar beta
   Ro le akbar ko kaleje se laga kar beta
-  Thaam le sine ko parh naad e ali
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Thaam le sine ko parh naad-e-Ali
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
   Sher zakhmi hai ye jangal meiṅ para dekh na le
   Naiza akbar ke kaleje meiṅ gara dekh na le
-  Roti sar pitti zainab hai chali
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Roti sar pitti Zainab hai chali
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
   Laashe ghar bhar ke hai kaandhe pe uthaye tu ne
-  Shaane abbas ke sine se lagaye tu ne
+  Shaane Abbas ke sine se lagaye tu ne
   Imtihaṅ aur ye khanjar ka sahi
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
   Ae mere laal na kar dayr taqaddum waladi
-  Warna ho jayega andhayr taqaddum waladi
+  Warna ho jaayega andhayr taqaddum waladi
   Jald aasaan ho mushkil ki ghari
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
-  Mujhko malum hai dunya se safar karta hai
-  Saamne aankhoṅ ke ek laal jawaaṅ marta hai
+  Mujhko maalum hai dunya se safar karta hai
+  Saamne aankhoṅ ke ik laal jawaaṅ marta hai
   Hoti hai sine meiṅ taklif bari
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
-  Naiza sine se junhi sheh ne nikala aamir
-  Ho gaya sab ka kaleja to ho baala aamir
+  Naiza sine se junhi sheh ne nikaala Aamir
+  Ho gaya sab ka kaleja to ho baala Aamir
   Aini kehta raha wo rab ka wali
-  Bismillah ya aba abdillah
-  Bismillah ya aba abdillah
+  Bismillah ya Aba Abdillah
+  Bismillah ya Aba Abdillah
   Khaynch le sine se...
 ---
 

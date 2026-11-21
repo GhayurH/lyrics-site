@@ -7,6 +7,45 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yaad aai na tumheṅ Fatima Sughra Baba
+  Karbala jaa ke hameṅ bhul gaye kya Baba
+
+  1
+  Haaye kis kis ka gila kis ki shikaayat likhuṅ
+  Ek naama bhi kisi ne to na likha Baba
+
+  2
+  Keh gaye the mere bhaai tumheṅ le jaauṅ ga
+  Kya hua aaye na lene mujhe bhaiya Baba
+
+  3
+  Ab to Asghar bhi mera ghutniyoṅ chalta hoga
+  Mere bhaiya ko mera naam bataana Baba
+
+  4
+  So rahe hoṅ Ali Asghar jo agar jhule mein
+  Meri jaanib se use jhula jhulaana Baba
+
+  5
+  Noha-e-hasrat meri tum ghaur se sun lo un ko
+  Mere bhaiya ko meri qabr pe laana Baba
+
+  6
+  Main tarapte hi tarapte hi guzar jaauṅ gi
+  Ab jo aana to meri qabr pe aana Baba
+
+  7
+  Main samajhti huṅ ke bhaai ne racha li shaadi
+  Is liye aaye na lene mujhe bhaiya Baba
+
+  8
+  Naam sun kar mera hamke to tumheṅ meri qasam
+  Meri jaanib se kaleje se lagaana Baba
+
+  9
+  Roz-e-mahshar tumheṅ Sughra Ali Asghar ki qasam
+  Kehna Baba se na Jafar ko bhulaana Baba
 ---
 
 یاد آئی نہ تمہیں فاطمہ صغرا بابا

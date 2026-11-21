@@ -1,47 +1,84 @@
 ---
-title: "Ya Fatima Zehra Madad Saleem Mastan"
+title: "یا فاطمہ زہرا مدد سلیم مستان"
+alternateTitle: "Ya Fatima Zehra Madad Saleem Mastan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ya Fatima Zehra madad Saleem Mastan
+  Al-madad sallay ala ya Fatima Zahra madad
+  Syeda ya Tahira ya Fatima Zahra madad
+  Haan muqadar jhoom utha chomay qadam taqdeer ne
+
+  2
+  Khud galay oss ko lagaya Hazrat-e-Shabeer ne
+  Wird jab Hur ne kiya ya Fatima Zahra madad
+  Jis ke hain muhtaj sare auliya sab anbiya
+  Qadar-e-mutliq hai our dunya ka hai mushkil kusha
+
+  3
+  Oss Ali ki hai sada ya Fatima Zahra madad
+  Mushkilon mein jo ghiray hain unn ki tu imdad kar
+  Momino ko ranj-o-gham ki qaid se aazad kar
+  Tujh ko Hur ka wasta ya Fatima Zahra madad
+
+  4
+  Hain dua se aap ki aabad sare matami
+  Sar jhuka kar raat din jo wird kartay hain yehi
+  Al-madad ya Syeda ya Fatima Zahra madad
+  Aye hijab-e-Khaliq-e-Akbar salami ya Batool
+
+  5
+  Zoaf jab mehsos kartay hain zamane ke rasool
+  Kehte hain phir Mustafa ya Fatima Zahra madad
+  Tu hai Kausar gaib mein hai aaj bhi beta tera
+  Pardah-e-ghaibat mein oss Mehdi ki hai yeh hi sada
+
+  6
+  Izn kar dijay atta ya Fatima Zahra madad
+  Zoja-e-mushkil kusha aye Kibriya ka etimad
+  Jis ke dar par sar jhukaye anbiya bhi hain Aimaad
+  Do jahan ki malika ya Fatima Zahra madad
 ---
 
-1
-Ya Fatima Zehra Madad Saleem Mastan.
-Al-Madad Sallay Ala Ya Fatima Zahra Madad.
-Syeda Ya Tahira Ya Fatima Zahra Madad.
-Haan Muqadar Jhoom Utha Chomay Qadam Taqdeer Ne.
+۱
+یا فاطمہ زہرا مدد سلیم مستان
+المدد صلِ علیٰ یا فاطمہ زہرا مدد
+سیدہ یا طاہرہ یا فاطمہ زہرا مدد
+ہاں مقدر جھوم اٹھا چومے قدم تقدیر نے
 
-2
-Khud Galay Oss Ko Lagaya Hazrat-e-Shabeer Ne.
-Wird Jab Hur Ne Kiya Ya Fatima Zahra Madad.
-Jis Ke Hain Muhtaj Sare Auliya Sab Anbiya.
-Qadar-e-Mutliq Hai Our Dunya Ka Hai Mushkil Kusha.
+۲
+خود گلے اس کو لگایا حضرتِ شبیر نے
+ورد جب حر نے کیا یا فاطمہ زہرا مدد
+جس کے ہیں محتاج سارے اولیا سب انبیا
+قادرِ مطلق ہے اور دنیا کا ہے مشکل کشا
 
-3
-Oss Ali Ki Hai Sada Ya Fatima Zahra Madad.
-Mushkilon Mein Jo Ghiray Hain Unn Ki Tu Imdad Kar.
-Momino Ko Ranj-o-Gham Ki Qaid Se Aazad Kar.
-Tujh Ko Hur Ka Wasta Ya Fatima Zahra Madad.
+۳
+اس علی کی ہے صدا یا فاطمہ زہرا مدد
+مشکلوں میں جو گھرے ہیں ان کی تو امداد کر
+مومنوں کو رنج و غم کی قید سے آزاد کر
+تجھ کو حر کا واسطہ یا فاطمہ زہرا مدد
 
-4
-Hain Dua Se Aap Ki Aabad Sare Matami.
-Sar Jhuka Kar Raat Din Jo Wird Kartay Hain Yehi.
-Al-Madad Ya Syeda Ya Fatima Zahra Madad.
-Aye Hijab-e-Khaliq-e-Akbar Salami Ya Batool.
+۴
+ہیں دعا سے آپ کی آباد سارے ماتمی
+سر جھکا کر رات دن جو ورد کرتے ہیں یہی
+المدد یا سیدہ یا فاطمہ زہرا مدد
+اے حجابِ خالقِ اکبر سلامی یا بتول
 
-5
-Zoaf Jab Mehsos Kartay Hain Zamane Ke Rasool.
-Kehte Hain Phir Mustafa Ya Fatima Zahra Madad.
-Tu Hai Kausar Gaib Mein Hai Aaj Bhi Beta Tera.
-Pardah-e-Ghaibat Mein Oss Mehdi Ki Hai Yeh Hi Sada.
+۵
+ضعف جب محسوس کرتے ہیں زمانے کے رسول
+کہتے ہیں پھر مصطفیٰ یا فاطمہ زہرا مدد
+تو ہے کوثر غیب میں ہے آج بھی بیٹا تیرا
+پردۂ غیبت میں اس مہدی کی ہے یہ ہی صدا
 
-6
-Izn Kar Dijay Atta Ya Fatima Zahra Madad.
-Zoja-e-Mushkil Kusha Aye Kibriya Ka Etimad.
-Jis Ke Dar Par Sar Jhukaye Anbiya Bhi Hain Aimaad.
-Do Jahan Ki Malika Ya Fatima Zahra Madad.
+۶
+اذن کر دیجیے عطا یا فاطمہ زہرا مدد
+زوجۂ مشکل کشا اے کبریا کا اعتماد
+جس کے در پر سر جھکائے انبیا بھی ہیں عماد
+دو جہاں کی ملکہ یا فاطمہ زہرا مدد

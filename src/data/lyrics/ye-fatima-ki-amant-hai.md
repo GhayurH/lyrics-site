@@ -8,6 +8,50 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bismillah ir-Rahman ir-Rahim
+  Ye Fatima ki amaanat hai
+
+  1
+  Sada rahe ga Husain ka gham ye Fatima ki amaanat hai itna yaad rakho
+  Gham-e-Husain nai nasl ke supurd karo ye Fatima ki amaanat hai itna yaad rakho
+
+  2
+  Ye keh ke laao julusoṅ meiṅ apne bachchoṅ ko
+  Chalo hamaare qadam se qadam mila ke chalo
+
+  3
+  Mila tha jaise buzurgoṅ se tum ko vaise hi
+  Alam jawaanoṅ ke haathoṅ meiṅ apne haath se do
+
+  4
+  Ba-rang-e-majlis o maatam ba-rang-e-zikr-e-Husain
+  Imaam-e-waqt se har waqt raabte meiṅ raho
+
+  5
+  Ye baab-e-tauba khula hai har ek Hur ke liye
+  Imaam waaloṅ ke darwaazoṅ par ye baat likho
+
+  6
+  Ye kya kareṅ ge dhamaake Imaam saath haiṅ jab
+  Hato na pichhe azaadaaroṅ aur aage barho
+
+  7
+  Khilaaf-e-maatam-e-Shabbir jo zabaaṅ khole
+  Koi jawaab na do sirf ya Husain kaho
+
+  8
+  Ye khwaab meiṅ Ali Akbar behan se kehte the
+  Ham aaye haiṅ tumheṅ lene hamaare saath chalo
+
+  9
+  Khudaara rok le khanjar thahar ja ae zaalim
+  Na zabah saamne behnoṅ ke kar baraadar ko
+
+  10
+  Utho jo farsh-e-aza se to sar utha ke chalo
+  Yahaaṅ pe aao Takallum to sar jhuka ke rakho
+  Ye Fatima ki amaanat hai itna yaad rakho ye Fatima ki amaanat hai itna yaad rakho
 ---
 
 بسم اللہ الرحمن الرحیم

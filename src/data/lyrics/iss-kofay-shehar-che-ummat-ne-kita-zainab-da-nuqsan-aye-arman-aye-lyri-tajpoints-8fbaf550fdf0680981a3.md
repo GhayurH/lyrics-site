@@ -1,32 +1,54 @@
 ---
-title: "Iss Kofay Shehar Che Ummat Ne Kita Zainab Da Nuqsan Aye Arman Aye Lyrics Punjabi 2021"
+title: "اِس کوفے شہر چے اُمت نے کیتا زینب دا نقصان، اے ارمان اے"
+alternateTitle: "Iss Kofay Shehar Che Ummat Ne Kita Zainab Da Nuqsan Aye Arman Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Iss Kofay shehar che ummat ne kita Zainab da nuqsan aye arman aye
+  Kadi piyo da sar zakhmi kita kadi dhi da sar uryan aye arman aye
+
+  1
+  Aye khuwab che dasya Zahra ne tere ujran di rut aa gayi aye
+  Aye Eid da chan nahin dhi Zainab tere ujran da ayelan aye arman aye
+  Mera ghairatan wala baba taun kyun rona ayein chum ke gisniyaan nu
+  Tere athro wekh ke lagda aye meri qismat wich zindan aye arman aye
+
+  2
+  Teri shahi wekhanr aayi saan tera maqtal ummat wikhaya aye
+  Ashor taun ghat nahin Zainab te baba unwin Ramzan aye arman aye
+  Iss Kofay wich mehmana da pathraan nal istaqbal honda aye
+  Kinj tur sain wich bazaraan de tera hosi sar uryan aye arman aye
+
+  3
+  Dastoor te nahin aynj dhiyaan nu bazar wikhaye nahin wainday
+  Aye sondi rayi baon dair taein Zahra di dhi hairan aye arman aye
+  Muhsin masjid wich Pak Ali jadaan aap jagaya qatil nu
+  Har paygambar da wainr aaya tere hoslay taun qurban aye arman aye
 ---
 
-Iss Kofay Shehar Che Ummat Ne Kita Zainab Da Nuqsan Aye Arman Aye.
-Kadi Piyo Da Sar Zakhmi Kita Kadi Dhi Da Sar Uryan Aye Arman Aye.
+اِس کوفے شہر چے اُمت نے کیتا زینب دا نقصان اے ارمان اے
+کدی پیو دا سر زخمی کیتا کدی دھی دا سر عریاں اے ارمان اے
 
-1
-Aye Khuwab Che Dasya Zahra Ne Tere Ujran Di Rut Aa Gayi Aye.
-Aye Eid Da Chan Nahin Dhi Zainab Tere Ujran Da Ayelan Aye Arman Aye.
-Mera Ghairatan Wala Baba Taun Kyun Rona Ayein Chum Ke Gisniyaan Nu.
-Tere Athro Wekh Ke Lagda Aye Meri Qismat Wich Zindan Aye Arman Aye.
+۱
+اے خواب چے دسیا زہرا نے تیرے اُجڑن دی رُت آ گئی اے
+اے عید دا چن نہیں دھی زینب تیرے اُجڑن دا اعلان اے ارمان اے
+میرا غیرتاں والا بابا توں کیوں رونا ایں چُم کے گِسنیاں نوں
+تیرے اتھرو ویکھ کے لگدا اے میری قسمت وچ زنداں اے ارمان اے
 
-2
-Teri Shahi Wekhanr Aayi Saan Tera Maqtal Ummat Wikhaya Aye.
-Ashor Taun Ghat Nahin Zainab Te Baba Unwin Ramzan Aye Arman Aye.
-Iss Kofay Wich Mehmana Da Pathraan Nal Istaqbal Honda Aye.
-Kinj Tur Sain Wich Bazaraan De Tera Hosi Sar Uryan Aye Arman Aye.
+۲
+تیری شاہی ویکھݨ آئی ساں تیرا مقتل اُمت وکھایا اے
+عاشور توں گھٹ نہیں زینب تے بابا اُنویں رمضان اے ارمان اے
+اِس کوفے وچ مہماناں دا پتھراں نال استقبال ہوندا اے
+کِنج تُر سیں وچ بازاراں دے تیرا ہوسی سر عریاں اے ارمان اے
 
-3
-Dastoor Te Nahin Aynj Dhiyaan Nu Bazar Wikhaye Nahin Wainday.
-Aye Sondi Rayi Baon Dair Taein Zahra Di Dhi Hairan Aye Arman Aye.
- Muhsin Masjid Wich Pak Ali Jadaan Aap Jagaya Qatil Nu.
-Har Paygambar Da Wainr Aaya Tere Hoslay Taun Qurban Aye Arman Aye.
+۳
+دستور تے نہیں اینج دھیاں نوں بازار وکھائے نہیں ویندے
+اے سوندی رہی بہوں دیر تائیں زہرا دی دھی حیران اے ارمان اے
+محسن مسجد وچ پاک علی جداں آپ جگایا قاتل نوں
+ہر پیغمبر دا ویݨ آیا تیرے حوصلے توں قربان اے ارمان اے

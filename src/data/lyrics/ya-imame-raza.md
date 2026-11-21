@@ -12,38 +12,38 @@ published: false
 romanLyrics: |-
   1
   Mangtoṅ ki sun le maula
-  Hum dar pe tere dete hai sada
-  Ya imam e raza ya gharib al ghurba
-  Har matami ki sun lo karte hai sab dua
-  Ya imam e raza ya gharib al ghurba
+  Hum dar pe tere dete haiṅ sada
+  Ya Imam-e-Raza ya Gharib al Ghuraba
+  Har maatami ki sun lo karte haiṅ sab dua
+  Ya Imam-e-Raza ya Gharib al Ghuraba
   Tere dar pe aaye maula sab aas ye laga ke
-  Jo mariz la-dawa hai use dard se shifa de
-  Tere sehan may shifa hai hai yahin kahiṅ khuda
-  Ya imam e raza...
-  Wo jo godiyaṅ hai khaali tere dar pe hai sawali
-  Sabhi aa ke chumti hai teri shehnashi ki jaali
-  Asghar ke sadke un ko aulaad ho ata
-  Ya imam e raza...
-  Tu hi jaanta hai maula bichre huwoṅ ka sadma
-  Teri behan fatema ho akbar ho ya ke sughra
-  Bhai behan jo bichre maula unhe mila
-  Ya imam e raza...
-  Nazre karam ho teri rahe dur tang dasti
-  Tere matami ko maula na rizq ki ho tangi
-  Ho karz momino ka ab ghaib se ada
-  Ya imam e raza...
-  Angur may zehr tha mamun ne jo bheja
+  Jo mariz la dawa hai use dard se shifa de
+  Tere sehan meiṅ shifa hai hai yahi kahiṅ Khuda
+  Ya Imam-e-Raza...
+  Wo jo godiyaaṅ hai khaali tere dar pe hai sawaali
+  Sabhi aa ke chumti hai teri shahanshaahi ki jaali
+  Asghar ke sadqe ko aulaad ho ata
+  Ya Imam-e-Raza...
+  Tu hi jaanta hai maula bichhre huoṅ ka sadma
+  Teri behan Fatema ho Akbar ho ya ke Sughra
+  Bhaai behan jo bichhre maula unheiṅ mila
+  Ya Imam-e-Raza...
+  Nazar-e-karam ho teri rahe dur tangdasti
+  Tere maatami ko maula na rizq ki ho tangi
+  Ho qarz mominoṅ ka ab ghaib se sada
+  Ya Imam-e-Raza...
+  Angur meiṅ zehr tha Mamun ne jo bheja
   Us zehr ne kiya tha tukre tera kaleja
-  Ro kar utha rahe hai tabut hum tera
-  Ya imam e raza...
-  Qum ki wo shahazadi masooma behan teri
-  Tujhse bichar ke maula zainab ki tarha royi
-  Tujhko hai us ka pursa pursa use tera
-  Ya imam e raza...
-  Farhan ki duayeiṅ maula unhe bualyeiṅ
-  Mehrum hai jo ab tak iran wo bhi jaayeiṅ
-  Hamrah khaafile ke mazhar ko bhi bula
-  Ya imam e raza...
+  Ro kar utha rahe haiṅ taabut hum tera
+  Ya Imam-e-Raza...
+  Qum ki wo shaahzaadi Masuma behan teri
+  Tujh se bichhar ke maula Zainab ki tarha royi
+  Tujh ko hai us ka pursa pursa use tera
+  Ya Imam-e-Raza...
+  Farhan ki duaaeiṅ maula unheiṅ bulaaeiṅ
+  Mahrum hai jo ab tak Iran wo bhi jaaeiṅ
+  Hamraah qaafile ke Mazhar ko bhi bula
+  Ya Imam-e-Raza...
 ---
 
 ۱

@@ -1,59 +1,108 @@
 ---
-title: "Jab Mola Mehdi Aaein Gaye Mir Hasan"
+title: "جب مولا مہدی آئیں گے میر حسن"
+alternateTitle: "Jab Mola Mehdi Aaein Gaye Mir Hasan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Tehzeeb"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab Mola Mehdi aaein gaye
+  Jo ghasib-e-haq-e-zahra hain qabroon se uthaye jaein gaye
+  Kabe ko sajaya jaye ga badle ga zamane ka manzar
+  Teyari-e-jashan-e-eid-e-ghadeer iss tarha karein gay wo aakar
+
+  2
+  Janat ke porane darzi se malboos naye silwaein gaye
+  Kuch Ibn-e-Adam aise hain Adam ke amal par hain barham
+  Masjid ke agay hote howay jo dekh nahi sakte matam
+  Jab matam ho ga Kabe mein wo jal jal kar mar jaein gaye
+
+  3
+  Qaiyam ki adalat mein ik din wo paish sabhi mujrim hoon gaye
+  Haar door mein mimbar par charh kar jo bugaz-e-ali mein bolte the
+  Hai mujh ko yaqeen Mula unn ko Mesum se zubaan khichwaein gaye
+  :Nasir Abbas:, :Taqi Hadi:, :Sibt-e-Jafar:, :Mohsin Naqvi:
+
+  4
+  Tehzeeb, Wajahat, Asif hoon ya Aoun sa matamdar koi
+  Jab ho gi Baqiya mein majis ye sare humein mil jaei gaye
+  Dekhe ga jahan youn ahl-e-azza ka rutba barhaya jaye ga
+  Khatoon-e-qayamat ka roza jab phir se banaya jaye ga
+
+  5
+  Chun chun kar matami halqoon se mazdoor bolaye jaein gaye
+  Kya ho ga qayamat ka manzar kufaar ki dunya larze gi
+  Baloon se chura ke khak ko jab uthein gaye lahad se Mula Ali
+  Phir foaj mein apne baite ki wo khud shamil ho jaein gaye
+
+  6
+  Haider ki wilayat ka dushman touheed ka dushman hota hai
+  Touheed ke waris hain Mehdi tab hi ye mera dil kehta hai
+  Dushman hain wilayat ke jitne wo pehle mare jaein gaye
+  Kuch bhi tu nahi hai teyari honto pe zubani dawa hai
+
+  7
+  Aa jaein agar wo milne tu kya koi aisa gosha hai
+  Jhanko tu makano mein apne hum un ko kahan thehraein gaye
+  Walla dhari reh jaye gi har nasal-e-umayya ki sazish
+  Kya Jundallah, kya Al-Nusra, Al-Qaeda kya kaisi Daesh
+
+  8
+  Jab taig Haider ki chamke gi sab mati mein mil jaein gaye
+  Nazdeek Takallum hai wo ghari dekhein gaye jab ye ahl-e-nazar
+  Kya mufti, hafiz, maulana sab rashk karein gaye khud mujh par
+  Mimbar pe qaseeda Zahra ka wo parhne mujhe bulwaein gaye
 ---
 
-1
-Jab Mola Mehdi Aaein Gaye.
-Jo Ghasib-e-Haq-e-Zahra Hain Qabroon Se Uthaye Jaein Gaye.
-Kabe Ko Sajaya jaye Ga Badle Ga Zamane Ka Manzar.
-Teyari-e-Jashan-e-Eid-e-Ghadeer Iss Tarha Karein Gay Wo Aakar.
+۱
+جب مولا مہدی آئیں گے
+جو غاصبِ حقِ زہرا ہیں قبروں سے اٹھائے جائیں گے
+کعبے کو سجایا جائے گا بدلے گا زمانے کا منظر
+تیاریِ جشنِ عیدِ غدیر اس طرح کریں گے وہ آ کر
 
-2
-Janat Ke Porane Darzi Se Malboos Naye Silwaein Gaye.
-Kuch Ibn-e-Adam Aise Hain Adam Ke Amal Par Hain Barham.
-Masjid Ke Agay Hote Howay Jo Dekh Nahi Sakte Matam.
-Jab Matam Ho Ga Kabe Mein Wo Jal Jal Kar Mar Jaein Gaye.
+۲
+جنت کے پرانے درزی سے ملبوس نئے سلوائیں گے
+کچھ ابنِ آدم ایسے ہیں آدم کے عمل پر ہیں برہم
+مسجد کے آگے ہوتے ہوئے جو دیکھ نہیں سکتے ماتم
+جب ماتم ہوگا کعبے میں وہ جل جل کر مر جائیں گے
 
-3
-Qaiyam Ki Adalat Mein Ik Din Wo Paish Sabhi Mujrim Hoon Gaye.
-Haar Door Mein Mimbar Par Charh Kar Jo Bugaz-e-Ali Mein Bolte The.
-Hai Mujh Ko Yaqeen Mula Unn Ko Mesum Se Zubaan Khichwaein Gaye.
-:NASIR ABBAS:,:TAQI HADI:,:SIBT-E-JAFAR:,:MOHSIN NAQVI:.
+۳
+قیام کی عدالت میں اک دن وہ پیش سبھی مجرم ہوں گے
+ہر دور میں منبر پر چڑھ کر جو بغضِ علی میں بولتے تھے
+ہے مجھ کو یقین مولا ان کو میثم سے زبان کھچوائیں گے
+ناصر عباس، تقی ہادی، سبطِ جعفر، محسن نقوی
 
-4
- Tehzeeb, Wajahat, Asif Hoon Ya Aoun Sa Matamdar Koi.
-Jab Ho Gi Baqiya Mein Majis Ye Sare Humein Mil Jaei Gaye.
-Dekhe Ga Jahan Youn Ahl-e-Azza Ka Rutba Barhaya Jaye Ga.
-Khatoon-e-Qayamat Ka Roza Jab Phir Se Banaya Jaye Ga.
+۴
+تہذیب، وجاہت، آصف ہوں یا عون سا ماتمدار کوئی
+جب ہوگی بقیع میں مجلس یہ سارے ہمیں مل جائیں گے
+دیکھے گا جہاں یوں اہلِ عزا کا رتبہ بڑھایا جائے گا
+خاتونِ قیامت کا روضہ جب پھر سے بنایا جائے گا
 
-5
-Chun Chun Kar Matami Halqoon Se Mazdoor Bolaye Jaein Gaye.
-Kya Ho Ga Qayamat Ka Manzar Kufaar Ki Dunya Larze Gi.
-Baloon Se Chura Ke Khak Ko Jab Uthein Gaye Lahad Se Mula Ali.
-Phir Foaj Mein Apne Baite Ki Wo Khud Shamil Ho Jaein Gaye.
+۵
+چن چن کر ماتمی حلقوں سے مزدور بلائے جائیں گے
+کیا ہوگا قیامت کا منظر کفار کی دنیا لرزے گی
+بالوں سے چرا کے خاک کو جب اٹھیں گے لحد سے مولا علی
+پھر فوج میں اپنے بیٹے کی وہ خود شامل ہو جائیں گے
 
-6
-Haider Ki Wilayat Ka Dushman Touheed Ka Dushman Hota Hai.
-Touheed Ke Waris Hain Mehdi Tab Hi Ye Mera Dil Kehta Hai.
-Dushman Hain Wilayat Ke Jitne Wo Pehle Mare Jaein Gaye.
-Kuch Bhi Tu Nahi Hai Teyari Honto Pe Zubani Dawa Hai.
+۶
+حیدر کی ولایت کا دشمن توحید کا دشمن ہوتا ہے
+توحید کے وارث ہیں مہدی تب ہی یہ میرا دل کہتا ہے
+دشمن ہیں ولایت کے جتنے وہ پہلے مارے جائیں گے
+کچھ بھی تو نہیں ہے تیاری ہونٹوں پہ زبانی دعویٰ ہے
 
-7
-Aa Jaein Agar Wo Milne Tu Kya Koi Aisa Gosha Hai.
-Jhanko Tu Makano Mein Apne Hum Un Ko Kahan Thehraein Gaye.
-Walla Dhari Reh Jaye Gi Har Nasal-e-Umayya Ki Sazish.
-Kya Jundallah, Kya Al-Nusra, Al-Qaeda Kya Kaisi Daesh.
+۷
+آ جائیں اگر وہ ملنے تو کیا کوئی ایسا گوشہ ہے
+جھانکو تو مکانوں میں اپنے ہم ان کو کہاں ٹھہرائیں گے
+واللہ دھری رہ جائے گی ہر نسلِ امیہ کی سازش
+کیا جنداللہ، کیا النصرہ، القاعدہ کیا کیسی داعش
 
-8
-Jab Taig Haider Ki Chamke Gi Sab Mati Mein Mil Jaein Gaye.
-Nazdeek Takallum Hai Wo Ghari Dekhein Gaye Jab Ye Ahl-e-Nazar.
-Kya Mufti,Hafiz,Maulana Sab Rashk Karein Gaye Khud Mujh Par.
-Mimbar Pe Qaseeda Zahra Ka Wo Parhne Mujhe Bulwaein Gaye.
+۸
+جب تیغِ حیدر کی چمکے گی سب مٹی میں مل جائیں گے
+نزدیک تکلم ہے وہ گھڑی دیکھیں گے جب یہ اہلِ نظر
+کیا مفتی، حافظ، مولانا سب رشک کریں گے خود مجھ پر
+منبر پہ قصیدہ زہرا کا وہ پڑھنے مجھے بلوائیں گے

@@ -1,7 +1,7 @@
 ---
 title: "بھائی میں لٹی آئی ہوں زینب کی صدا ہے"
 recitationId: "bhai-mai-luti-aayi"
-alternateTitle: "Bhai Maiṅ Luti Aayi"
+alternateTitle: "Bhai Main Luti Aayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,24 +12,24 @@ tags: []
 aliases: ["Bhai Mai Luti Aayi"]
 published: true
 romanLyrics: |-
-  Bhai maiṅ luti aayi huṅ Zainab ki sada hai
+  Bhai main luti aayi huṅ Zainab ki sada hai
   Rassi ke nishaaṅ laayi huṅ Zainab ki sada hai
 
   1
-  Baazaar meiṅ baaloṅ se hi muṅh apna chhupa kar
-  Kis tarah se maiṅ aayi huṅ Zainab ki sada hai
+  Baazaar mein baaloṅ se hi muṅh apna chhupa kar
+  Kis tarah se main aayi huṅ Zainab ki sada hai
 
   2
-  Dil sine meiṅ phatta tha mera yaad meiṅ tere
-  Ab jaa ke maiṅ ro paayi huṅ Zainab ki sada hai
+  Dil sine mein phatta tha mera yaad mein tere
+  Ab jaa ke main ro pari huṅ Zainab ki sada hai
 
   3
-  Pyaasi hi Sakina mari zindaan meiṅ Abbas
-  Us ko maiṅ sula aayi huṅ Zainab ki sada hai
+  Pyaasi hi Sakina mari zindaan mein Abbas
+  Us ko main sula aayi huṅ Zainab ki sada hai
 
   4
   Sunte hi tarapne laga Abbas ka laasha
-  Maiṅ qaid-e-sitam paayi huṅ Zainab ki sada hai
+  Main qaid-e-sitam paayi huṅ Zainab ki sada hai
 
   5
   Ik laash ki tarah tha khara Aabid-e-bimaar
@@ -40,12 +40,12 @@ romanLyrics: |-
   Manzar bhi ye dekh aayi huṅ Zainab ki sada hai
 
   7
-  Ye keh ke diya Shaam ke darbaar meiṅ khutba
+  Ye dekh diya Shaam ke darbaar mein khutba
   Hasnain ki maaṅ jaayi huṅ Zainab ki sada hai
 
   8
   Uthi ye Najaf qabr se Shabbir ki keh kar
-  Ab bhai maiṅ bin bhai huṅ Zainab ki sada hai
+  Ab bhai main bin bhai huṅ Zainab ki sada hai
 ---
 بھائی میں لٹی آئی ہوں زینب کی صدا ہے
 رسی کے نشاں لائی ہوں زینب کی صدا ہے

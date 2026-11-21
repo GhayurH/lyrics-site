@@ -13,18 +13,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Ye sochta huṅ ke Aabid ka haal kya hoga
-  Asir ho ke wo jab Shaam mein gaya hoga
+  Asir ho ke wo jab Shaam se gaya hoga
 
   1
   Suna hai Shaam meiṅ jaate hi khun rone laga
   Na jaane Shimr ne us waqt kya kaha hoga
 
   2
-  Gale ke tauq ne Aabid ko kya jhukaana tha
+  Gale ki tauq ne Aabid ko kya jhukaana tha
   Wo apne khoye hue laal dhundta hoga
 
   3
-  Wo zulm dekhe haiṅ Sajjad ne Husain ke baad
+  Wo zulm dekheṅ haiṅ Sajjad ne Husain ke baad
   Mujhe yaqin hai ab tak bhi ro raha hoga
 
   4

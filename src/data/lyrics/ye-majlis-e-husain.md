@@ -21,8 +21,8 @@ romanLyrics: |-
   Chashm-e-Khuda meiṅ is ka bara ehtiraam hai
 
   1
-  Ye majliseiṅ hai hamd-e-Khuda naat-e-Mustafa
-  In majlisoṅ meiṅ hota hai Quraan lab kusha
+  Ye majliseṅ hai hamd-e-Khuda naat-e-Mustafa
+  In majlisoṅ meiṅ hota hai Quraan lab kushaa
   In majlisoṅ se milta hai jannat ka raasta
   In majlisoṅ ki hoti hai kuchh aisi ibtida
   Zaakir ke lab pe pehle Khuda ka kalaam hai
@@ -30,29 +30,29 @@ romanLyrics: |-
   2
   In majlisoṅ meiṅ hoti hai insaaniyat ki baat
   Zikr-e-gham-e-Husain hai wahdaaniyat ki baat
-  Ye majliseiṅ Rasul ki haqqaaniyat ki baat
-  Radd karti hai ye majliseiṅ Sufyaaniyat ki baat
+  Ye majliseṅ Rasul ki haqqaaniyat ki baat
+  Radd karti hai ye majliseṅ Sufyaaniyat ke baat
   In ke sabab to Hur bhi alaihis salaam hai
 
   3
   In majlisoṅ ko ajr-e-risaalat kaha gaya
-  Roz-e-azal se rone ka fitrat kaha gaya
-  Dil ki lughat meiṅ isko mohabbat kaha gaya
+  Roz-e-azal se rone ko fitrat kaha gaya
+  Dil ki lughat meiṅ is ko mohabbat kaha gaya
   Yaani ise Batul ki sunnat kaha gaya
   Har rone waali aaṅkh ko mera salaam hai
 
   4
-  Ek majlis-e-aza jo hui mulk-e-Shaam meiṅ
+  Ik majlis-e-azaa jo hui mulk-e-Shaam meiṅ
   Zainab ne saf bichhaai thi yaad-e-Imaam meiṅ
   Aaṅsu chhupe hue the shahidoṅ ke naam meiṅ
-  Maatam hua jo yaad-e-Shah-e-tashnakaam meiṅ
+  Maatam hua jo yaad-e-Shah-e-tashna kaam meiṅ
   Tab se gham-e-Husain zamaane meiṅ aam hai
 
   5
   Majlis meiṅ zikr-e-baali Sakina kiya karo
   Paani piyo to yaad Shah-e-Karbala ki ho
-  Majlis meiṅ tazkira Ali Asghar ka jab suno
-  Ek aah sard bhar ke tarap kar yehi kaho
+  Majlis meiṅ tazkira Ali Akbar ka jab suno
+  Ik aah sard bhar ke tarap kar yehi kaho
   Asghar bara shahidoṅ meiṅ tera maqaam hai
 
   6

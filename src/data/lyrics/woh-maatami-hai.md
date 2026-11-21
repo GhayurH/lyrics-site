@@ -14,35 +14,35 @@ published: true
 romanLyrics: |-
   1
   Sukun-e-qalb-e-Rasul ka jo sukun bana hai woh maatami hai
-  Qasam hai dil ki woh jis ki dharkan meiṅ Karbala hai woh maatami hai
+  Qasam hai dil ki woh jis ki dharkan mein Karbala hai woh maatami hai
 
   2
-  Namaazi saare qataar meiṅ haiṅ abhi hai jaari hisaab un ka
-  Bina hisaab o kitaab Jannat meiṅ jo gaya hai woh maatami hai
+  Namaazi saare qataar mein haiṅ abhi hai jaari hisaab un ka
+  Bina hisaab o kitaab Jannat mein jo gaya hai woh maatami hai
 
   3
   Khuda hai baani to nauha khwaaṅ Nuh aur Daawud soz khwaaṅ hai
   To mera dil yeh pukaara Yaaqub aur kya hai woh maatami hai
 
   4
-  Rida-e-Bint-e-Nabi ke saaye meiṅ jo pala hai, to woh hai Abbas
-  Dua-e-Bint-e-Nabi ke saaye meiṅ jo pala hai woh maatami hai
+  Rida-e-Bint-e-Nabi ke saaye mein jo pala hai, to woh hai Abbas
+  Dua-e-Bint-e-Nabi ke saaye mein jo pala hai woh maatami hai
 
   5
   Taqaabul is ka nahiṅ karo tum jahaaṅ ke mashhur muttaqi se
-  Qasam ibaadat ki jo ibaadat meiṅ beriya hai woh maatami hai
+  Qasam ibaadat ki jo ibaadat mein beriya hai woh maatami hai
 
   6
   Woh ghaib waala bhi pursa daar-e-rida-e-Zainab hai to yeh keh duṅ?
   Koi to hai jo nizaam-e-hasti chala raha hai woh maatami hai
 
   7
-  Ise na Jannat ki kuchh talab hai na dar hai dozakh ka is ke dil meiṅ
+  Ise na Jannat ki kuchh talab hai na dar hai dozakh ka is ke dil mein
   Husain ko woh baghair laalach ke chaahta hai woh maatami hai
 
   8
-  Yeh roz-e-mehshar ka ek manzar hai dil ki aaṅkhoṅ se maiṅ ne dekha
-  Jo sab se pehle Janaab-e-Hur ke gale laga hai woh maatami hai
+  Yeh roz-e-mehshar ka ek manzar hai dil ki aaṅkhoṅ se main ne dekha
+  Jo sab se pehle Janaab-e-Hurr ke gale laga hai woh maatami hai
 
   9
   Qasam Khuda ki aza Husain Ibn-e-Faatima ki hai kaam Rab ka

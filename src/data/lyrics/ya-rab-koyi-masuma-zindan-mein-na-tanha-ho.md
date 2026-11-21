@@ -1,7 +1,7 @@
 ---
 title: "یا رب کوئی معصومہ، زندان میں نہ تنہا ہو"
 recitationId: "ya-rab-koyi-masooma-zindan-main-na-tanha-ho"
-alternateTitle: "Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho"
+alternateTitle: "Ya Rab Koyi Maasuma, Zindaan Meiṅ Na Tanha Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,32 +13,32 @@ aliases:
   - "Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
 published: true
 romanLyrics: |-
-  Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho
-  Paband Na Hoṅ Aaheiṅ, Rone Pe Na Pehra Ho
+  Ya Rab koyi maasuma, zindaan meiṅ na tanha ho
+  Paaband na hoṅ aaheṅ, rone pe na pehra ho
 
   1
-  Thi Jis Ko Nind Aati, Shabbir Ke Sine Par
-  Zinda Dar-e-Zindaṅ, Uske Liye Qaza Ho
+  Thi jis ko nind aati, Shabbir ke sine par
+  Zinda dar-e-zindaaṅ, us ke liye qaza ho
 
   2
-  Zindanoṅ Se Aati Thi, Awaaz Sisakne Ki
-  Jaise Ke Sakina Ko, Har Zindaṅ Ro Raha Ho
+  Zindaanoṅ se aati thi, aawaaz sisakne ki
+  Jaise ke Sakina ko, har zindaaṅ ro raha ho
 
   3
-  Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaroṅ Se
-  Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
+  Takraaye na woh kiuṅ kar, zindaan ki diwaaroṅ se
+  Bhaai se aur phuphi se, jis ko juda kiya ho
 
   4
   Haaye Shaam ki galiyoṅ meiṅ roti hai qaza jis ko
-  Jaise ke Sakina ka koi na janaaza ho
+  Jaise ke Sakina ka koyi na janaaza ho
 
   5
   Bekafan use Aabid tanha hi utha laaye
   Kaunain ka waaris hai jis Bibi ka daada ho
 
   6
-  Zindan Maiṅ Ae Najafi, Yaad Aayi Sakina Ki
-  Dil Ro Ro Keh Raha Hai, Ab Na Ujala Ho
+  Zindaan meiṅ ae Najafi, yaad aayi Sakina ki
+  Dil ro ro ke keh raha hai, ab na ujaala ho
 ---
 
 یا رب کوئی معصومہ، زندان میں نہ تنہا ہو

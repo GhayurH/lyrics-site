@@ -9,118 +9,69 @@ reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ya rabbul mashraqain ya rabbul maghrabain
-
-  Ya rab be-haqqe zehra taufeeq ye ata ho
-
-  Marne se pehle ya rab deedar e karbala ho
-
-  Jo arze karbala hai har arz se siwa hai
-
-  Is khaak e karbala mein sheh ka lahoo mila hai
-
+romanLyrics: |-
+  Ya Rabbul Mashriqain ya Rabbul Maghribain
+  Ya Rab be-haqq-e-Zehra taufiq ye ata ho
+  Marne se pehle ya Rab didaar-e-Karbala ho
+  Jo arz-e-Karbala hai har arz se siwa hai
+  Is khaak-e-Karbala mein sheh ka lahu mila hai
   Har la dawa maraz ki ye khaak hi dawa ho
-
-  Marne se pehle ya rab...
-
+  Marne se pehle ya Rab...
 
   1
-
-  Mai bhi to matami hoo zakir hoo sayyeda ka
-
-  Nauha padha hai maine hamshakle mustafa ka
-
-  Is zaakri ka meri qismat mein ye sila ho
-
+  Main bhi to maatami huṅ zaakir huṅ Karbala ka
+  Nauha parha hai main ne hamshakl-e-Mustafa ka
+  Is zaakiri ka meri qismat mein ye sila ho
 
   2
-
-  Ya rab namaz e shab mein bas ye dua karun mai
-
-  Kuch dayr us zameen par majlis bapa karun mai
-
-  Har matami ke lab par har dam yehi dua ho
-
+  Ya Rab namaaz-e-shab mein bas ye dua karuṅ main
+  Kuchh der us zamiṅ par majlis bapa karuṅ main
+  Har maatami ke lab par har dam yahi dua ho
 
   3
-
-  Mazloomiyat pe jiski rota hai ye zamana
-
-  Us be-khata ke dar par ek baar to hai jaana
-
-  Jo karz hai lahoo par wo is tarha ata ho
-
+  Mazlumiyat pe jis ke rota hai ye zamaana
+  Us bekhata ke dar par ik baar to hai jaana
+  Jo qarz hai lahu par wo is tarah ada ho
 
   4
-
-  Wo sar zameen jahan par goonji azane akbar
-
-  Tasbeeh aansuon ki padni hai us zameen par
-
-  Ek sajdaye aqeedat us khaak par ata ho
-
+  Wo sar zamiṅ jahaaṅ par gunji azaan-e-Akbar
+  Tasbih aansuoṅ ki parhni hai us zamiṅ par
+  Ik sajda-e-aqidat us khaak par ata ho
 
   5
-
-  Qurban hogaya jo kulsoom ki dua par
-
-  Rauza mai uska dekhun jo margaya wafa par
-
-  Gar ye sharaf bhi meri taqdeer mein likha ho
-
+  Qurbaan ho gaya jo Kulsum ki dua par
+  Rauza main uska dekhuṅ wo mar gaya wafa par
+  Gar ye sharaf bhi meri taqdir mein likha ho
 
   6
-
-  Nanhi si jis lehad mein sotay hai ab bhi asghar
-
-  Us par chadaunga mai phoolon ki ek chadar
-
-  Pursa wahan ho aisa pehle nahi hua ho
-
+  Nanhi si jis lahad mein sote haiṅ ab bhi Asghar
+  Us par charhaaunga main phuloṅ ki ek chaadar
+  Pursa wahaaṅ ho aisa pehle nahiṅ hua ho
 
   7
-
-  Subhe dahum falak se barsa lahoo jahan par
-
-  Ibne hassan ka laasha tha char soo jahan par
-
-  Aaza''on ki jagah par farshe aza bicha ho
-
+  Subh-e-dahum falak se barsa lahu jahaaṅ par
+  Ibn-e-Hasan ka laasha tha chaar su jahaaṅ par
+  Aazaa'on ki jagah par farsh-e-aza bichha ho
 
   8
-
-  Hurr aun aur mohamed be-sar jahan hue thay
-
-  Ansar o aqroba ke bikhre jahan thay laashe
-
-  Pursa wahan mai doonga gar roohe fatema ho
-
+  Hurr Aun aur Muhammad be sar jahaaṅ hue the
+  Ansaar o aqraba ke bikhre jahaaṅ the laashe
+  Pursa wahaaṅ main dunga gar ruh-e-Fatima ho
 
   9
-
-  Sajda jahan kiya tha mazloome karbala ne
-
-  Jhada tha jis zameen ko balon se sayyeda ne
-
-  Jab mai wahan pe jaun honton pe dam ruka ho
-
+  Sajda jahaaṅ kiya tha mazlum-e-Karbala ne
+  Jhaara tha jis zamiṅ ko baaloṅ se Sayyeda ne
+  Jab main wahaaṅ pe jaauṅ hontoṅ pe dam ruka ho
 
   10
-
-  Jis khaak ki fazeelat kaabe se bhi siwa hai
-
+  Jis khaak ki fazilat Kaabe se bhi siwa hai
   Sajda har ek nabi ne jis khaak par kiya hai
-
-  Sajda wahan karun mai zehra ki gar ata ho
-
+  Sajda wahaaṅ karuṅ main Zehra ki gar ata ho
 
   11
-
-  Farhan lafz mere dete hai ye sadayein
-
-  Har majlise aza mein karta hoo ye duayein
-
-  Bas mazhar abidi par ye aakhri ata ho'
+  Farhan lafz mere dete haiṅ ye sadaaeṅ
+  Har majlis-e-aza mein karta huṅ ye duaaeṅ
+  Bas Mazhar Abidi par ye aakhri ata ho
 ---
 
 یا رب المشرقین یا رب المغربین

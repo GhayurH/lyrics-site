@@ -4,9 +4,189 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+  Subh rahe aur shaam rahe
+  Maula tera uncha sada naam rahe
+  Subh rahe aur shaam rahe
+  Maula tera uncha sada naam rahe
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  1
+  Mulkoṅ mulkoṅ mein tera maatam ya Husain
+  Shehroṅ shehroṅ mein tera maatam ya Husain
+  Gaaoṅ gaaoṅ mein tera maatam ya Husain
+  Halkaaye aashiqaṅ Husain ya Husaina
+  Maatam kare jawaaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  2
+  Ghar se hamaara nikalna ya Husain
+  Paidal julusoṅ mein chalna ya Husain
+  Pairoṅ ka dhup mein jalna ya Husain
+  Lekar tera nishaaṅ Husain ya Husaina
+  Sarkoṅ pe haiṅ rawaaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  3
+  Laakhoṅ karoroṅ azaadaar tere
+  Aaye haiṅ shauq-e-ziyaarat le ke
+  Aashur ho ya ho tera chehlum
+  Hontoṅ pe nauha sinoṅ pe maatam
+  Dil mein hai ye junuṅ Husain ya Husaina
+  Zawwaar main banuṅ Husain ya Husaina
+  Paidal safar karuṅ Husain ya Husaina
+  Tujh se aakar miluṅ Husain ya Husaina
+  Tera nauha parhuṅ Husain ya Husaina
+  Aisa maatam karuṅ Husain ya Husaina
+  Ye jism aur ye khuṅ Husain ya Husaina
+  Tujh pe main waar duṅ Husain ya Husaina
+  Tere liye jiyuṅ Husain ya Husaina
+  Tere liye maruṅ Husain ya Husaina
+  Subh rahe aur shaam rahe
+  Maula tera uncha sada naam rahe
+  Maula tera uncha sada naam rahe
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  4
+  Teri behen ki dua hai ya Husain
+  Ghar ghar mein farsh-e-aza hai ya Husain
+  Ye Sayyida ki ata hai ya Husain
+  Hai mir-e-kaarwaaṅ Husain ya Husaina
+  Tu aur teri maaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  5
+  Ham haiṅ tere tu hamaara ya Husain
+  Gunje ka ab yahi naara ya Husain
+  Tu hameṅ jaan se pyaara ya Husain
+  De denge tujh pe jaan Husain ya Husaina
+  Tere pairau jawaaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  6
+  Ya Husain
+  Aaqa Husain
+  Rehnuma Husain
+  Daastaaṅ Husain
+  Hausla Husain
+  Maujiza Husain
+  Ku ba ku,
+  Su ba su,
+  Ru ba ru Husain
+  Aarzu,
+  Justuju,
+  Guftugu Husain
+  Aayateṅ,
+  Neamateṅ,
+  Rehmateṅ Husain
+  Aasmaaṅ,
+  Saaibaaṅ,
+  Kahkashaaṅ Husain
+  Haiṅ zamaaṅ Husain
+  Haiṅ makaaṅ Husain
+  Haiṅ nihaaṅ Husain
+  Haiṅ ayaaṅ Husain
+  Bahr o bar,
+  Chaaragar,
+  Sher-e-nar Husain
+  Hai idhar,
+  Hai idhar,
+  Arsh par Husain
+  La ila Husain
+  Karbala Husain
+  Ibtida Husain
+  Intiha Husain
+  Subh rahe aur shaam rahe
+  Maula tera uncha sada naam rahe
+  Maula tera uncha sada naam rahe
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  7
+  Mujh ko wo din bhi dikhaana ya Husain
+  Khul ke ho rona rulaana ya Husain
+  Aake Imaam-e-Zamaana ya Husain
+  Maatam kareṅ yahaaṅ Husain ya Husaina
+  Sab ho mahw-e-faghaaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  8
+  Jis din se hosh sambhaala ya Husain
+  Ghar mein alam tera dekha ya Husain
+  Phir nauha parhna sikha ya Husain
+  Jab se wird-e-zabaaṅ Husain ya Husaina
+  Main tera nauha khwaaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  9
+  Saanseṅ rawaaṅ haiṅ Maula tere liye
+  Ye dil o jaaṅ hai Maula tere liye
+  Pairau jawaaṅ haiṅ Maula tere liye
+  Ye kaarwaaṅ hai Maula tere liye
+  Kaun o makaaṅ hai Maula tere liye
+  Saare jahaaṅ hai Maula tere liye
+  Subh rahe aur shaam rahe
+  Maula tera uncha sada naam rahe
+  Maula tera uncha sada naam rahe
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+
+  10
+  Apne ghamoṅ ko bhula kar ya Husain
+  Rote haiṅ teri aza par ya Husain
+  Ye tere Farhaan o Mazhar ya Husain
+  Ye jism aur ye jaaṅ Husain ya Husaina
+  Tere liye haiṅ haaṅ Husain ya Husaina
+  Kal bhi diloṅ pe tera raaj tha Maula
+  Ab bhi diloṅ pe tera raaj hai Maula
+  Bole saara jahaaṅ Husain ya Husaina
+  Tifl o pir o jawaaṅ Husain ya Husaina
+  Husain Husain Husain Husain Husain Husain
+  Husain Husain Husain Husain Husain Husain
+  Aaqa Husain
 ---
 
 حسینؑ حسینؑ حسینؑ حسینؑ حسینؑ حسینؑ

@@ -1,47 +1,84 @@
 ---
-title: "Zaeef Ho Keh Ho Kamsin Darood Parhta Hai"
+title: "ضعیف ہو کہ ہو کمسن درود پڑھتا ہے"
+alternateTitle: "Zaeef Ho Keh Ho Kamsin Darood Parhta Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Mohsin"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Zaeef ho keh ho kamsin darood parhta hai
+  Nabi ke zikar pe momin darood parhta hai
+  Yeh keh ke rehmatein mujh par nazool karti hain
+  Gunahgar hai lekin darood parhta hai
+
+  2
+  Hai khatam jis pe risalat ka silsila oss par
+  Shorow hotey hoye din darood parhta hai
+  Zameen walay ossi ko salam kartay hain
+  Ossi pe arsh ka sakin darood parhta hai
+
+  3
+  Nahi hai aisay kissi shaks ki namaz qabool
+  Jo pyar Ali se kiye bin darood parhta hai
+  Darood parhta hai har ik wajood ka johar
+  Har ik zahoor ka batin darood parhta hai
+
+  4
+  Hai apne zabtay mein naat, hamd se pehle
+  Azaan se pehle moazin darood parhta hai
+  Mujhe pata hai meri magfirat darood se hai
+  Meri nijat ka zamin darood parhta hai
+
+  5
+  Hain jis ke an ginat ahsan teri basti par
+  Tu aisi hasti pe gin gin darood parhta hai
+  Tere naseeb ka likha badal nahi sakta
+  Yeh ho bhi sakta hai mumkin, darood parhta hai?
+
+  6
+  Jo tang dast hain yeh jan kar darood parhein
+  Sabhi khazano ka khazan darood parhta hai
+  Yehi lehad mein farishton ke sath bolay gi
+  Yeh jis zaban se Mohsin darood parhta hai
 ---
 
-1
-Zaeef Ho Keh Ho Kamsin Darood Parhta Hai.
-Nabi Ke Zikar Pe Momin Darood Parhta Hai.
-Yeh Keh Ke Rehmatein Mujh Par Nazool Karti Hain.
-Gunahgar Hai Lekin Darood Parhta Hai.
+۱
+ضعیف ہو کہ ہو کمسن درود پڑھتا ہے
+نبی کے ذکر پہ مومن درود پڑھتا ہے
+یہ کہہ کے رحمتیں مجھ پر نزول کرتی ہیں
+گناہگار ہے لیکن درود پڑھتا ہے
 
-2
-Hai Khatam Jis Pe Risalat Ka Silsila Oss Par.
-Shorow Hotey Hoye Din Darood Parhta Hai.
-Zameen Walay Ossi Ko Salam Kartay Hain.
-Ossi Pe Arsh Ka Sakin Darood Parhta Hai.
+۲
+ہے ختم جس پہ رسالت کا سلسلہ اس پر
+شروع ہوتے ہوئے دن درود پڑھتا ہے
+زمین والے اسی کو سلام کرتے ہیں
+اسی پہ عرش کا ساکن درود پڑھتا ہے
 
-3
-Nahi Hai Aisay Kissi Shaks Ki Namaz Qabool.
-Jo Pyar Ali Se Kiye Bin Darood Parhta Hai.
-Darood Parhta Hai Har Ik Wajood Ka Johar.
-Har Ik Zahoor Ka Batin Darood Parhta Hai.
+۳
+نہیں ہے ایسے کسی شخص کی نماز قبول
+جو پیار علی سے کیے بن درود پڑھتا ہے
+درود پڑھتا ہے ہر اک وجود کا جوہر
+ہر اک ظہور کا باطن درود پڑھتا ہے
 
-4
-Hai Apne Zabtay Mein Naat, Hamd Se Pehle.
-Azaan Se Pehle Moazin Darood Parhta Hai.
-Mujhe Pata Hai Meri Magfirat Darood Se Hai.
-Meri Nijat Ka Zamin Darood Parhta Hai.
+۴
+ہے اپنے ضابطے میں نعت، حمد سے پہلے
+اذان سے پہلے مؤذن درود پڑھتا ہے
+مجھے پتا ہے میری مغفرت درود سے ہے
+میری نجات کا ضامن درود پڑھتا ہے
 
-5
-Hain Jis Ke An Ginat Ahsan Teri Basti Par.
-Tu Aisi Hasti Pe Gin Gin Darood Parhta Hai.
-Tere Naseeb Ka Likha Badal Nahi Sakta.
-Yeh Ho Bhi Sakta Hai Mumkin, Darood Parhta Hai?
+۵
+ہیں جس کے ان گنت احسان تیری بستی پر
+تو ایسی ہستی پہ گن گن درود پڑھتا ہے
+تیرے نصیب کا لکھا بدل نہیں سکتا
+یہ ہو بھی سکتا ہے ممکن، درود پڑھتا ہے؟
 
-6
-Jo Tang Dast Hain Yeh Jan Kar Darood Parhein.
-Sabhi Khazano Ka Khazan Darood Parhta Hai.
-Yehi Lehad Mein Farishton Ke Sath Bolay Gi.
-Yeh Jis Zaban Se Mohsin Darood Parhta Hai.
+۶
+جو تنگ دست ہیں یہ جان کر درود پڑھیں
+سبھی خزانوں کا خازن درود پڑھتا ہے
+یہی لحد میں فرشتوں کے ساتھ بولے گی
+یہ جس زبان سے محسن درود پڑھتا ہے

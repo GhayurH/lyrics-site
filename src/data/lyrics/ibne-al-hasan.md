@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ek beta hai Hasan ek hai Husain
-  Dono hai zehra ka dil ka chain
+  Ik beta hai Hasan ek hai Husain
+  Donoṅ haiṅ Zehra ke dil ka chain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
-  Ek ka janaza tiroṅ par aa gaya
-  Ek ke janaze par tiroṅ ki hai bauchaar
-  Boli ye ro kar maa ae mere nur-e-ain
+  Pukaari maaṅ mere shahzaade
+  Ik ka janaaza tiroṅ par aa gaya
+  Ik ke janaaze par tiroṅ ki hai bauchaar
+  Boli ye ro kar maaṅ ae mere nur-e-ain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
+  Pukaari maaṅ mere shahzaade
   Ek ka kafan haye sabz qabaa ka tha
-  Ek ka kafan haye khaake karbala hua
-  Nure chashme ahmed zehra ke dil ka chain
+  Ik ka kafan haye khaak-e-Karbala hua
+  Nur-e-chashm-e-Ahmad Zehra ke dil ka chain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
+  Pukaari maaṅ mere shahzaade
   Girya zamiṅ hui girya falak hua
-  Gham meiṅ shehzadoṅ ke khun roye mustufa
-  Hai hashr ka samaa barpa hai shor o shain
+  Gham mein shahzaadoṅ ke khun roye Mustafa
+  Hai hashr ka samaaṅ barpa hai shor o shain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
-  Turbat e mujtaba teht e shams o qamar
-  Laasha e shaahe diṅ aur jalti rayt par
-  Haye re haye re ye ghurbat e sibtain
+  Pukaari maaṅ mere shahzaade
+  Turbat-e-Mujtaba taht-e-shams o qamar
+  Laasha-e-shaah-e-diṅ aur jalti ret par
+  Haye re haye re ye ghurbat-e-sibtain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
-  Haye baade qaza tiroṅ ka silsila
-  Dono ki laashoṅ ka manzar hai ek sa
-  Ummat ne kab diya aale nabi ko chain
+  Pukaari maaṅ mere shahzaade
+  Haye baad-e-qaza tiroṅ ka silsila
+  Donoṅ ki laashoṅ ka manzar hai ek sa
+  Ummat ne kab diya aal-e-Nabi ko chain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
-  Qalb e maula Hasan tukroṅ meiṅ bat gaya
-  Qalb e shaahe zaman zakhmoṅ se phat gaya
-  Kehti rahi ye maa haye haye hasnain
+  Pukaari maaṅ mere shahzaade
+  Qalb-e-Maula Hasan tukroṅ mein bat gaya
+  Qalb-e-shaah-e-zaman zakhmoṅ se phat gaya
+  Kehti rahi ye maaṅ haye haye Hasnain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
-  Itrat pe royenge ye arz ye samaa
-  Royegi ta-abad tum dono ko ye maa
+  Pukaari maaṅ mere shahzaade
+  Itrat pe royeṅge ye arz ye samaaṅ
+  Roye gi ta abad tum donoṅ ko ye maaṅ
   Ae meri jaaṅ Hasan ae meri jaaṅ Husain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
-  Dayam e gul figaar kaise paaye qaraar
-  Chashme yazdaṅ lahu roti hai zaar zaar
-  Sunke sar e majlis ek dukhiya maa ke bain
+  Pukaari maaṅ mere shahzaade
+  Dayam-e-gul figaar kaise paaye qaraar
+  Chashm-e-Yazdaaṅ lahu roti hai zaar zaar
+  Sun ke sar-e-majlis ek dukhiya maaṅ ke bain
   Ibne al Hasan ibne al Husain
   Haye Hasan waye Husain
-  Pukari maa mere shahzaade
+  Pukaari maaṅ mere shahzaade
 ---
 
 ۱

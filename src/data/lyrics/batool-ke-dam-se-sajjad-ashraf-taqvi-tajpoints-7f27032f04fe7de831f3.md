@@ -1,37 +1,64 @@
 ---
-title: "Batool Ke Dam Se Sajjad Ashraf Taqvi"
+title: "بتول کے دم سے سجاد اشرف تقوی"
+alternateTitle: "Batool Ke Dam Se Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Batool ke dam se Sajjad Ashraf Taqvi
+
+  1
+  Chali hai nasal-e-payamber Batool ke dam se
+  Mita hai tana-e-abtar Batool ke dam se
+  Laqab hai Zahra ka Kausar ba Sorah-e-Kausar
+  Ali hain saqi-e-Kausar Batool ke dam se
+  Khula yeh lashkar-e-Maula mein Hur ke aane se
+  Chunay gaye hain bahatar Batool ke dam se
+
+  2
+  Dikha ke nabiyon ko romal Hur yeh kehta hai
+  Aroj par hai muqadar Batool ke dam se
+  Muqadma youn wilayat ka lar gayin Bibi
+  Ali ka zikar hai ghar ghar Batool ke dam se
+  Rakha tha jis mein Khuda ne ilaj-e-zoaf-e-Rasool
+  Mili Nabi ko woh chadar Batool ke dam se
+
+  3
+  Nasara kartay hain ayelan fatheyab hoye
+  Mubahlay mein payamber Batool ke dam se
+  Marey kahey mein hai soraj Bilal kehta tha
+  Karam Khuda ka hai mujh par Batool ke dam se
+  Janab-e-Mariyam-o-Esa se kam nahi Akbar
+  Janab-e-Fizza-o-Qanbar Batool ke dam se
 ---
 
-Batool Ke Dam Se Sajjad Ashraf Taqvi.
+بتول کے دم سے سجاد اشرف تقوی
 
-1
-Chali Hai Nasal-e-Payamber Batool Ke Dam Se.
-Mita Hai Tana-e-Abtar Batool Ke Dam Se.
-Laqab Hai Zahra Ka Kausar Ba Sorah-e-Kausar.
-Ali Hain Saqi-e-Kausar Batool Ke Dam Se.
-Khula Yeh Lashkar-e-Maula Mein Hur Ke Aane Se.
-Chunay Gaye Hain Bahatar Batool Ke Dam Se.
+۱
+چلی ہے نسلِ پیمبر بتول کے دم سے
+مٹا ہے طعنۂ ابتر بتول کے دم سے
+لقب ہے زہرا کا کوثر با سورۂ کوثر
+علی ہیں ساقیِ کوثر بتول کے دم سے
+کھلا یہ لشکرِ مولا میں حر کے آنے سے
+چنے گئے ہیں بہتر بتول کے دم سے
 
-2
-Dikha Ke Nabiyon Ko Romal Hur Yeh Kehta Hai.
-Aroj Par Hai Muqadar Batool Ke Dam Se.
-Muqadma Youn Wilayat Ka Lar Gayin Bibi.
-Ali Ka Zikar Hai Ghar Ghar Batool Ke Dam Se.
-Rakha Tha Jis Mein Khuda Ne Ilaj-e-Zoaf-e-Rasool.
-Mili Nabi Ko Woh Chadar Batool Ke Dam Se.
+۲
+دکھا کے نبیوں کو رومال حر یہ کہتا ہے
+عروج پر ہے مقدر بتول کے دم سے
+مقدمہ یوں ولایت کا لڑ گئیں بی‌بی
+علی کا ذکر ہے گھر گھر بتول کے دم سے
+رکھا تھا جس میں خدا نے علاجِ ضعفِ رسول
+ملی نبی کو وہ چادر بتول کے دم سے
 
-3
-Nasara Kartay Hain Ayelan Fatheyab Hoye.
-Mubahlay Mein Payamber Batool Ke Dam Se.
-Marey Kahey Mein Hai Soraj Bilal Kehta Tha.
-Karam Khuda Ka Hai Mujh Par Batool Ke Dam Se.
-Janab-e-Mariyam-o-Esa Se Kam Nahi Akbar.
-Janab-e-Fizza-o-Qanbar Batool Ke Dam Se.
+۳
+نصاریٰ کرتے ہیں اعلان فتح یاب ہوئے
+مباہلے میں پیمبر بتول کے دم سے
+میرے کہے میں ہے سورج بلال کہتا تھا
+کرم خدا کا ہے مجھ پر بتول کے دم سے
+جنابِ مریم و عیسیٰ سے کم نہیں اکبر
+جنابِ فضہ و قنبر بتول کے دم سے

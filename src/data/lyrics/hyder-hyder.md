@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dard may dubi fiza hai saara aalam soghwaar
-  Har taraf se naala o shewan ki aati hai pukar
-  Tera matam mere maula kare dunya haye
-  Har lab par tera nauha rahe maula haye
-  Hyder hyder hyder hyder
-  Uneeswi ramzaṅ ki kaisi sehar aayi
-  Daaghe yatimi zainab o kulsum ki laayi
-  Jibril ki faryad sun ke royi maajayi
-  Fizza musalla chor ke ek baar chillayi
-  Sar e masjid bain karte hai rozadaar
-  Hai apne khun may ghaltaṅ syed sardar
-  Hyder hyder hyder hyder...
-  Jab masjid e kufa se ghar aap ko laaye
-  Sab betiyaṅ sar pit ke kehne lagi haye
-  Kis shaan se baba gaye kis haal may aaye
-  Hum log abhi tak maa ka sadma bhul na paaye
-  Nahi baba zabt ka yaara hui jo bedaar
-  Saara kufa ro ro kar kar ye faryaad
-  Hyder hyder hyder hyder...
-  Jarrah ne jab zakm ko dekha to ye bola
-  Tukre jabin maula ki hai aur zakhm hai gehra
+  Dard mein dubi fiza hai saara aalam sogwaar
+  Har taraf se naala o shevan ki aati hai pukaar
+  Tera maatam mere maula kare duniya haaye
+  Har lab par tera nauha rahe maula haaye
+  Haidar Haidar Haidar Haidar
+  Unnisviṅ Ramzaaṅ ki kisi sahar aayi
+  Daagh-e-yatimi Zainab o Kulsum ki laayi
+  Jibril ki faryaad sun ke royi maanjaayi
+  Fizza musalla chhor ke ek baar chillaayi
+  Sar-e-masjid bain karte haiṅ rozadaar
+  Hai apne khun mein ghaltaaṅ Sayyid sardaar
+  Haidar Haidar Haidar Haidar...
+  Jab masjid-e-Kufa se ghar aap ko laaye
+  Sab betiyaaṅ sar pit ke kehne lagi haaye
+  Kis shaan se baba gaye kis haal mein aaye
+  Ham log abhi tak maa ka sadma bhul na paaye
+  Nahiṅ baba zabt ka yaara hui jo bedaar
+  Saara Kufa ro ro kar kar ye faryaad
+  Haidar Haidar Haidar Haidar...
+  Jarraah ne jab zakhm ko dekha to ye bola
+  Tukre jabin-e-maula ki hai aur zakhm hai gehra
   Khun beh chuka hai is qadar ke zard hai chehra
-  Kuch roz ka mehman hai ab khalq ka maula
-  Ae logoṅ farsh bichao ab matam ka
+  Kuchh roz ka mehmaan hai ab khalq ka maula
+  Ae logoṅ farsh bichhaao ab maatam ka
   Karo mil ke aah o zaari kaho alwida
-  Hyder hyder hyder hyder...
-  Saare namazi ro diye is baat ko sun kar
-  Milke gale rone lage shabbir se shabbar
-  Wa hasrata ke bain the sadaat ke lab par
-  Kulsum ghash khane lagi aur zainb e muztar
-  Sabhi karte the wavaila pir o jawaaṅ
-  Karte the ahle kufa bas ye fughaṅ
-  Hyder hyder hyder hyder...
-  Ghar se chale tabut ko lekar pisar jis dam
-  Tha khaana e zehra may ek kohraam ka aalam
-  Karte the sab hi seena o sar pit ke matam
-  Zainab pukari ji nahi payenge baba hum
+  Haidar Haidar Haidar Haidar...
+  Saare namaazi ro diye is baat ko sun kar
+  Mil ke gale rone lage Shabbir se Shabbar
+  Wa hasrata ke bain the saadaat ke lab par
+  Kulsum ghash khaane lagi aur Zainab-e-muztar
+  Sabhi karte the vaavailaa pir o jawaaṅ
+  Karte the ahl-e-Kufa bas ye fughaaṅ
+  Haidar Haidar Haidar Haidar...
+  Ghar se chale taabut ko le kar pisar jis dam
+  Tha khaana-e-Zehra mein ek kohraam ka aalam
+  Karte the sab hi sina o sar pit ke maatam
+  Zainab pukaari ji nahiṅ paayenge baba ham
   Chale sab hi khaak uraate tere hubdaar
-  Tere gham may nauha parte hai matamdar
-  Hyder hyder hyder hyder...
-  Safdar bara dushwaar hai tehrir may laana
-  Alfaaz may sadaat ke ehwaal batlaana
-  Hai aansuoṅ se zabt ka labrayz paimana
-  Ek maujiza hai lafz ka nauhe may dhal jaana
-  Kahe ye qirtaas aur khaama hyder maula
-  Tere gham ashur jaisa hyder maula
-  Hyder hyder hyder hyder...
+  Tere gham mein nauha parhte haiṅ maatamdaar
+  Haidar Haidar Haidar Haidar...
+  Safdar bara dushwaar hai tahrir mein laana
+  Alfaaz mein saadaat ke ahvaal batlaana
+  Hai aansuoṅ se zabt ka labrez paimaana
+  Ik mojiza hai lafz ka nauhe mein dhal jaana
+  Kahe ye qirtaas aur khaama Haidar maula
+  Tere gham Aashur jaisa Haidar maula
+  Haidar Haidar Haidar Haidar...
 ---
 
 ۱

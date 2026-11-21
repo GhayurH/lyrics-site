@@ -1,56 +1,87 @@
 ---
-title: "Bhulna Nahi Sajjad Nu, Hy Sham Zainab Di Rida"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "بھلنا نہیں سجاد نوں، ہائے شام زینب دی ردا"
+alternateTitle: "Bhulna Nahi Sajjad Nu, Hy Sham Zainab Di Rida"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bhulna nahi Sajjad nu, hy Sham Zainab di rida
+  Bazar tay durbar da, Sughra mai manzer vekhiya
+
+  1
+  Sughra tery Akbar da sir, nezaay tay mai takda reyaa
+  Qatil uda Sughra meri kundtay zulam kerda riyaa
+  Tuk kay meri zukhmi qamer, Akbar da sir digda reyaa
+
+  2
+  Sughra meri ankhiya chiain, babay da laasha beykafan
+  Meray samnay mazdorano bunda reya zalim rasan
+  Kerbobala di her jafa, yaad avaygi meino sada
+
+  3
+  Roundi rahi tuk kay zakhum, meray Sakeena beywatan
+  Sughra nae logaa ditaa teri Sakeena nu kafun
+  Wich qaid tay hokay uday, sun sun kay mai rounda reyaa
+
+  4
+  Elaan ye hoya jado, budlay utaaro shamiyo
+  Nul k pathar hai dus diya veera nu maro shamiyoo
+  Rub janay mai Sughra kiway, elaan ye sunta reyaa
+
+  5
+  Nazay tay ja kay chaadra, zalim wahaan taseereaa
+  Bazar which Zainab da naam Sughra o jaanda si reyaa
+  Moo tey meray matam reyaa, gash kha kay mai digda reyaa
+
+  6
+  Derbar da velaa para, o khaa gaya Sajjad tay
+  Inj mushkila sir agaiya Zahra di haye olaad tay
+  Boli shraab peeta rahe, Zahra didi haye bey rida
+
+  7
+  Ferman ye imam da, joher hay which tareekh tay
+  Rat ro waanga mein tahasher hy Sham Zainab cheekh kay
+  Apnay masaaib bhen nu, rat rondiya dus da reyaa
 ---
 
-Bhulna Nahi Sajjad Nu, Hy Sham Zainab Di Rida
+بھلنا نہیں سجاد نوں، ہائے شام زینب دی ردا
+بازار تے دربار دا، صغریٰ میں منظر ویکھیا
 
-Bazar Tay Durbar Da (2), Sughra Mai Manzer Vekhiya
+۱
+صغریٰ تیرے اکبر دا سر، نیزے تے میں تکدا ریا
+قاتل اوہدا صغریٰ میری کنڈ تے ظلم کردا ریا
+تک کے میری زخمی کمر، اکبر دا سر ڈگدا ریا
 
-Sughra Tery Akbar Da Sir, Nezaay Tay Mai Takda Reyaa
+۲
+صغریٰ میری انکھیاں چھائیں، بابے دا لاشہ بے کفن
+میرے سامنے مزدوراں نوں بُندا ریا ظالم رسن
+کرب و بلا دی ہر جفا، یاد آوے گی مینوں صدا
 
-Qatil Uda Sughra Meri Kundtay Zulam Kerda Riyaa
+۳
+روندی رہی تک کے زخم، میرے سکینہ بے وطن
+صغریٰ نئیں لوکاں دتا تیری سکینہ نوں کفن
+وچ قید تے ہو کے اوہدے، سن سن کے میں روندا ریا
 
-Tuk Kay Meri Zukhmi Qamer(2), Akbar Da Sir Digda Reyaa
+۴
+اعلان یہ ہویا جدوں، بدلے اتارو شامیو
+نال کے پتھر ہائے دس دیاں ویراں نوں مارو شامیو
+رب جانے میں صغریٰ کیویں، اعلان یہ سنتا ریا
 
-Sughra Meri Ankhiya Chiain, Babay Da Laasha Beykafan
+۵
+نیزے تے جا کے چادرا، ظالم وہاں تسیریا
+بازار وچ زینب دا نام صغریٰ او جاندا سی ریا
+منہ تے میرے ماتم ریا، غش کھا کے میں ڈگدا ریا
 
-Meray Samnay Mazdorano Bunda Reya Zalim Rasan
+۶
+دربار دا ویلا پیا، اوکھا گیا سجاد تے
+انج مشکلاں سر آ گئیاں زہرا دی ہائے اولاد تے
+بولی شراب پیتا رہے، زہرا دیدی ہائے بے ردا
 
-Kerbobala Di Her Jafa(2), Yaad Avaygi Meino Sada
-
-Roundi Rahi Tuk Kay Zakhum, Meray Sakeena Beywatan
-
-Sughra Nae Logaa Ditaa Teri Sakeena Nu Kafun
-
-Wich Qaid Tay Hokay Uday(2), Sun Sun Kay Mai Rounda Reyaa
-
-Elaan Ye Hoya Jado, Budlay Utaaro Shamiyo
-
-Nul K Pathar Hai Dus Diya Veera Nu Maro Shamiyoo
-
-Rub Janay Mai Sughra Kiway(2), Elaan Ye Sunta Reyaa
-
-Nazay Tay Ja Kay Chaadra, Zalim Wahaan Taseereaa
-
-Bazar Which Zainab Da Naam Sughra O Jaanda Si Reyaa
-
-Moo Tey Meray Matam Reyaa(2), Gash Kha Kay Mai Digda Reyaa
-
-Derbar Da Velaa Para, O Khaa Gaya Sajjad Tay
-
-Inj Mushkila Sir Agaiya Zahra Di Haye Olaad Tay
-
-Boli Shraab Peeta Rahe(2), Zahra Didi Haye Bey Rida
-
-Ferman Ye Imam Da, Joher Hay Which Tareekh Tay
-
-Rat Ro Waanga Mein Tahasher Hy Sham Zainab Cheekh Kay
-
-Apnay Masaaib Bhen Nu, Rat Rondiya Dus Da Reyaa
+۷
+فرمان یہ امام دا، جوہر ہے وچ تاریخ تے
+رات روواں گا میں تا حشر ہائے شام زینب چیخ کے
+اپنے مصائب بھین نوں، رات روندیاں دسدا ریا

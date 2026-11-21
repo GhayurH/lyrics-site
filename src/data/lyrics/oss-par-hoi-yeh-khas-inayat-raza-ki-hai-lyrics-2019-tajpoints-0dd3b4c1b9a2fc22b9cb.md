@@ -1,41 +1,71 @@
 ---
-title: "Oss Par Hoi Yeh Khas Inayat Raza Ki Hai Lyrics 2019"
+title: "اُس پر ہوئی یہ خاص عنایت رضا کی ہے"
+alternateTitle: "Oss Par Hoi Yeh Khas Inayat Raza Ki Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Oss par hoi yeh khas inayat Raza ki hai
+  Ki jis ne Toos ja ke zyarat Raza ki hai
+  Kya pochte ho mujhe se kya azmat Raza ki hai
+  Mashoor do jahan mein sakhawat Raza ki hai
+
+  2
+  Aik baar ja ke choom lo chokhat imam ki
+  Janat mile gi tum ko basharat Raza ki hai
+  Jana ho jab bhi Qum ki muqadas zameen par
+  Jo mangna ho mango zamanat Raza ki hai
+
+  3
+  Tauheed wale baste hain Iran mein har ja
+  Kyunkar na hoon wahan pe hakomat Raza ki hai
+  Zainab ki jis tarha se thi nisbat Hussain se
+  Masoom-e-Qum se wohi nisbat Raza ki hai
+
+  4
+  Ashiq Raza ka jo bhi namazoon se door hai
+  Har ja parhi hai main ne mazamat Raza ki hai
+  Kyun na sajaein mehfil-e-mailad momineen
+  Kazim ke ghar mein aaj wiladat Raza ki hai
+
+  5
+  Iran jao jab bhi zawwaro khiyal ho
+  Jana hai pehle Qum yeh nasihat Raza ki hai
+  Kehdo jahan walon se hairaan ho kis liye
+  Afraz-o- Yousufi pe inayat Raza ki hai
 ---
 
-1
-Oss Par Hoi Yeh Khas Inayat Raza Ki Hai.
-Ki Jis Ne Toos Ja Ke Zyarat Raza Ki Hai.
-Kya Pochte Ho Mujhe Se Kya Azmat Raza Ki Hai.
-Mashoor Do Jahan Mein Sakhawat Raza Ki Hai.
+۱
+اُس پر ہوئی یہ خاص عنایت رضا کی ہے
+کہ جس نے طوس جا کے زیارت رضا کی ہے
+کیا پوچھتے ہو مجھے سے کیا عظمت رضا کی ہے
+مشہور دو جہاں میں سخاوت رضا کی ہے
 
-2
-Aik Baar Ja Ke Choom Lo Chokhat Imam Ki.
-Janat Mile Gi Tum Ko Basharat Raza Ki Hai.
-Jana Ho Jab Bhi Qum Ki Muqadas Zameen Par.
-Jo Mangna Ho Mango Zamanat Raza Ki Hai.
+۲
+ایک بار جا کے چوم لو چوکھٹ امام کی
+جنت ملے گی تم کو بشارت رضا کی ہے
+جانا ہو جب بھی قم کی مقدس زمین پر
+جو مانگنا ہو مانگو ضمانت رضا کی ہے
 
-3
-Tauheed Wale Baste Hain Iran Mein Har Ja.
-Kyunkar Na Hoon Wahan Pe Hakomat Raza Ki Hai.
-Zainab Ki Jis Tarha Se Thi Nisbat Hussain Se.
-Masoom-e-Qum Se Wohi Nisbat Raza Ki Hai.
+۳
+توحید والے بستے ہیں ایران میں ہر جا
+کیوں کر نہ ہوں وہاں پہ حکومت رضا کی ہے
+زینب کی جس طرح سے تھی نسبت حسین سے
+معصومِ قم سے وہی نسبت رضا کی ہے
 
-4
-Ashiq Raza Ka Jo Bhi Namazoon Se Door Hai.
-Har Ja Parhi Hai Main Ne Mazamat Raza Ki Hai.
-Kyun Na Sajaein Mehfil-e-Mailad Momineen.
-Kazim Ke Ghar Mein Aaj Wiladat Raza Ki Hai.
+۴
+عاشق رضا کا جو بھی نمازوں سے دور ہے
+ہر جا پڑھی ہے میں نے مذمت رضا کی ہے
+کیوں نہ سجائیں محفلِ میلاد مومنین
+کاظم کے گھر میں آج ولادت رضا کی ہے
 
-5
-Iran Jao Jab Bhi Zawwaro Khiyal Ho.
-Jana Hai Pehle Qum Yeh Nasihat Raza Ki Hai.
-Kehdo Jahan Walon Se Hairaan Ho Kis Liye.
- Afraz-o- Yousufi Pe Inayat Raza Ki Hai.
+۵
+ایران جاؤ جب بھی زوّارو خیال ہو
+جانا ہے پہلے قم یہ نصیحت رضا کی ہے
+کہہ دو جہاں والوں سے حیراں ہو کس لیے
+افراز و یوسفی پہ عنایت رضا کی ہے

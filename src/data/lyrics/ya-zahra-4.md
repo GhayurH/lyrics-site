@@ -10,70 +10,70 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya zahra mazlooma mazlooma mazlooma
+  Ya Zahra mazluma mazluma mazluma
 
   1
-  Ya zahra masooma masooma masooma
-  Ae bibi tum jaisi dekhi nahi mazlooma
-  Gham koi aisa ho jo tum ne nahi dekha
+  Ya Zahra masuma masuma masuma
+  Ae Bibi tum jaisi dekhi nahiṅ mazluma
+  Gham koi aisa ho jo tum ne nahiṅ dekha
   Ummat ke taane bhi faaqe bhi sahe tum ne
   Baba ki furqat mein din raat kiya nauha
   Sadmoṅ se bhara har din hai tera
-  Dil kehne laga ya zahra
+  Dil kehne laga ya Zahra
 
   2
-  Pehle to zaalim ne jagir teri chini
-  Maani na logoṅ ne tehrir mohamed ki
-  Tujhko bi jhutlaya betoṅ ko bhi jhutlaya
-  Moo dhaampe chadar se tu roti rahi bibi
+  Pehle to zaalim ne jaagir teri chhini
+  Maani na logoṅ ne tahrir Muhammad ki
+  Tujhko bhi jhutlaya betoṅ ko bhi jhutlaya
+  Munh dhaanpe chaadar se tu roti rahi Bibi
   Par kis ne suna wo nauha tera
-  Ye bhi hai jafa ya zahra
+  Ye bhi hai jafa ya Zahra
 
   3
   Baad iske logoṅ ne jab ghar ko tere ghera
-  Bachoṅ ko dhamkaya ek shor hua barpa
-  Talwareiṅ naize the aur mashale haathoṅ meiṅ
+  Bachchoṅ ko dhamkaya ek shor hua barpa
+  Talwaareṅ naize the aur mashaaleṅ haathoṅ mein
   Yuṅ tute wo zaalim ghar phunk diya saara
   Ghar tera luta darwaza jala
-  Ye gham hai bara ya zahra
+  Ye gham hai baraa ya Zahra
 
   4
-  Jab jalta darwaza pehlu pe gira bibi
-  Baazu bhi zakhmi the pehlu bhi hua zakhmi
-  Darwaze ke upar se ahle sitam guzre
-  Is tarha ae bibi ek aur jafa dekhi
-  Mohsin bhi tera dunya se gaya
-  Ye gham bhi saha ya zahra
+  Jab jalta darwaza pehlu pe gira Bibi
+  Baazu bhi sar zakhmi the pehlu bhi hua zakhmi
+  Darwaze ke upar se ahl-e-sitam guzre
+  Is tarah ae Bibi ek aur jafa dekhi
+  Mohsin bhi tera duniya se gaya
+  Ye gham bhi sawaa ya Zahra
 
   5
-  Teri ghurbat ki qasam haye meri shehzadi
-  Tu bhi mazlum hai mazlum ali maula bhi
-  Ek taraf tayghe ali ek taraf hukme nabi
-  Zakhmi pehlu hai tera unke gale meiṅ rassi
-  Jab rasan baandhi gayi teri faryad suni
-  Al madad sher e jali haye kya karte ali
-  Aisi to dunya meiṅ ghurbat na kabhi dekhi
-  Aaya na mayyat meiṅ yasrab ka makiṅ koi
-  Bas dono shehzade the nauha kuna tujh par
-  Dafnaya maula ne jab tujhko meri bibi
-  Chalis jagah marqad tha tera
-  Kiuṅ aisa kiya ya zahra
+  Teri ghurbat ki qasam haye meri shehzaadi
+  Tu bhi mazlum hai mazlum Ali Maula bhi
+  Ek taraf tegh-e-Ali ek taraf hukm-e-Nabi
+  Zakhmi pehlu hai tera un ke gale mein rassi
+  Jab rasan baandhi gayi teri faryaad suni
+  Al madad sher-e-jali haye kya karte Ali
+  Aisi to duniya mein ghurbat na kabhi dekhi
+  Aaya na mayyat mein Yasrib ka makiṅ koi
+  Bas dono shehzaade the nauha kunaaṅ par
+  Dafnaaya Maula ne jab tujhko meri Bibi
+  Chaalis jagah marqad tha tera
+  Kiuṅ aisa kiya ya Zahra
 
   6
-  Waise to posheeda bibi teri turbat hai
-  Lekin jo zaahir meiṅ marqad ki alaamat hai
-  Tariki roti hai marqad pe tere ab tak
+  Waise to poshida Bibi teri turbat hai
+  Lekin jo zaahir mein marqad ki alaamat hai
+  Taariki roti hai marqad pe tere ab tak
   Rone par paabandi ye kaisi mohabbat hai
-  Yuṅ kar ke buka ye ahle aza
-  Royenge sada ya zahra
+  Yuṅ kar ke buka ye ahl-e-aza
+  Royenge sadaa ya Zahra
 
   7
-  Lafzoṅ meiṅ likh paaye wo zakhm koi kaise
-  Ummat se jo tum ne hai baade nabi khaaye
-  Royenge ta mehshar ye ahle aza bibi
-  Mesum bhi mazhar bhi royenge yehi keh ke
-  Aankhoṅ ki aza matam ki fiza
-  Ye haq hai tera ya zahra
+  Lafzoṅ mein likh paaye wo zakhm koi kaise
+  Ummat se jo tum ne haiṅ baad-e-Nabi khaaye
+  Royenge taa mahshar ye ahl-e-aza Bibi
+  Maisam bhi Mazhar bhi royenge yehi keh ke
+  Aankhoṅ ki aza maatam ki fiza
+  Ye haq hai tera ya Zahra
 ---
 
 یا زہرا مظلومہ مظلومہ مظلومہ

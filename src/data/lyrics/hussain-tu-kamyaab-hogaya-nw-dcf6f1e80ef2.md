@@ -1,86 +1,154 @@
 ---
-title: "HUSSAIN TU KAMYAAB HOGAYA"
+title: "حسین تو کامیاب ہو گیا"
+alternateTitle: "Hussain Tu Kamyaab Hogaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hussain tu kamyaab hogaya
+
+  Ya Hussain
+
+  Hussain tu ne dee(n) bacha ke kamyaab hogaya
+
+  Aye maqsad e Yazid tu na kamyaab hai
+
+  Mera Hussain sir katake zindabad hogaya
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  1
+  Hussain tum ne nana ka wada nibhaliya
+  Hussain tum ne sir katake dee(n) bachaliya
+  Pani jo tumse chin liya sabr tho kiya
+
+  Hussain tu kamyaab kamyaab hogaya
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  2
+  Yazid jhoota khaath bhija ke dhooka de diya
+  Noor e Khuda pe tune jo khanjar chala diya
+  Ghareeb ka jo khoo(n) baha kar qatl kar diya
+  Yazid tu tho ab bhi na muraad hogaya
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  3
+  Yeh farsh e aza, tera liye bichti hai Shabbir
+  Tum deen e Islam ki tasweer hu Shabbir
+  Tera naam se milti hai shifa aye mere Shabbir
+  Ya Hussain aati hai parcham se sada
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  4
+  Koshish kiya Yazid ne na ho saka wo kaam
+  Hussain ne jo sab ke liye dediya wo jaan
+  Wo ahle aza aaj bhi lete hai uska naam
+  Tu ab bhi zindabad hai Hussain
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  5
+  Yazid ka tho qabr ka nishan bhi nahi
+  Yazid ka Quran me bayan bhi nahi
+  Yazid ki wo nasl ka koyi pata nahi
+  Yazid wo murdabad murdabad hi rahega
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  6
+  Aye Mazhar o Rizvi o Syed Raza Hussain
+  Ta hashr rahegi ye azadari aye Hussain
+  Ye farsh e aza bichti rahegi mere Hussain
+  Shabbir baherehal tera naam rahega
+
+  Hussain tu kamyaab hogaya
+  Yazid tu na kamyaab hai
+
+  Salam
+  Salam
+  Salam ya Hussain
 ---
 
-Hussain (A.S) Tu Kamyaab Hogaya
+حسین تو کامیاب ہو گیا
 
-Hussain tu kamyaab hogaya
+یا حسین
 
-ya hussain (x4)
+حسین تو نے دیں بچا کے کامیاب ہو گیا
 
-hussain tu ne dee(n) bacha ke kamyaab hogaya
+اے مقصدِ یزید تو ناکامیاب ہے
 
-aye maqsad e yazid tu na kamyaab hai
+میرا حسین سر کٹا کے زندہ باد ہو گیا
 
-mera hussain sir katake (zindabad hogaya x3)
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
+۱
+حسین تم نے نانا کا وعدہ نبھا لیا
+حسین تم نے سر کٹا کے دیں بچا لیا
+پانی جو تم سے چھین لیا صبر تو کیا
 
-(1) hussain tum ne nana ka wada nibhaliya
-hussain tum ne sir katake dee(n) bachaliya
-pani jo tumse chin liya sabr tho kiya
+حسین تو کامیاب کامیاب ہو گیا
 
-hussain tu kamyaab kamyaab hogaya
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
+۲
+یزید جھوٹا خط بھیجا کے دھوکا دے دیا
+نورِ خدا پہ تو نے جو خنجر چلا دیا
+غریب کا جو خوں بہا کر قتل کر دیا
+یزید تو تو اب بھی نامراد ہو گیا
 
-(2) yazid jhoota khaath bhija ke dhooka de diya
-noor e khuda pe tune jo khanjar chala diya
-ghareeb ka jo khoo(n) baha kar qatl kar diya
-yazid tu tho ab bhi na muraad hogaya
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
+۳
+یہ فرشِ عزا، تیرا لیے بچھتی ہے شبیر
+تم دینِ اسلام کی تصویر ہو شبیر
+تیرا نام سے ملتی ہے شفا اے میرے شبیر
+یا حسین آتی ہے پرچم سے صدا
 
-(3) (yeh farsh e aza x3) tera liye bichti hai shabbir
-tum deen e islam ki tasweer hu shabbir
-tera naam se milti hai shifa aye mere shabbir
-ya hussain aati hai parcham se sada
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
+۴
+کوشش کیا یزید نے نہ ہو سکا وہ کام
+حسین نے جو سب کے لیے دے دیا وہ جان
+وہ اہلِ عزا آج بھی لیتے ہیں اس کا نام
+تو اب بھی زندہ باد ہے حسین
 
-(4) koshish kiya yazid ne na ho saka wo kaam
-hussain ne jo sab ke liye dediya wo jaan
-wo ahle aza aaj bhi lete hai uska naam
-tu ab bhi zindabad hai hussain
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
+۵
+یزید کا تو قبر کا نشان بھی نہیں
+یزید کا قرآن میں بیان بھی نہیں
+یزید کی وہ نسل کا کوئی پتا نہیں
+یزید وہ مردہ باد مردہ باد ہی رہے گا
 
-(5) yazid ka tho qabr ka nishan bhi nahi
-yazid ka quran me bayan bhi nahi
-yazid ki wo nasl ka koyi pata nahi
-yazid wo murdabad murdabad hi rahega
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
+۶
+اے مظہر و رضوی و سید رضا حسین
+تا حشر رہے گی یہ عزاداری اے حسین
+یہ فرشِ عزا بچھتی رہے گی میرے حسین
+شبیر بہرحال تیرا نام رہے گا
 
-(6) aye mazhar o rizvi o syed raza hussain
-ta hashr rahegi ye azadari aye hussain
-ye farsh e aza bichti rahegi mere hussain
-shabbir baherehal tera naam rahega
+حسین تو کامیاب ہو گیا
+یزید تو ناکامیاب ہے
 
-hussain tu kamyaab hogaya
-yazid tu na kamyaab hai
-
-salam….
-salam….
-salam ya hussain (x3)
-
-More Nohay Lyrics Available On The APP
-
-iOS Basic APP
-
-iOS PRO APP
-
-Android APP
+سلام
+سلام
+سلام یا حسین

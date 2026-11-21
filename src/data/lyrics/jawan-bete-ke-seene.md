@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gire zamin pe maqtal may jab ali akbar
+  Gire zamin pe maqtal mein jab Ali Akbar
   Tarap ke qaime se nikle Husain thaame kamar
-  Chaluṅ mai saath pukari jo zainab e muztar
+  Chaluṅ main saath pukari jo Zainab-e-muztar
   Behan ko dekh ke bhai ne ye kaha ro kar
-  Jawan bete ke sine may hai sina zainab
-  Na dekh paaogi tum bhi ho us ki maa zainab
-  Layiṅ ne sine may jab se sina ko tora hai
+  Jawan bete ke sine mein hai sinaṅ Zainab
+  Na dekh paaogi tum bhi ho us ki maaṅ Zainab
+  La'iṅ ne sine mein jab se sinaṅ ko tora hai
   Mera gharib pisar dard se tarapta hai
-  Ragad raha hai wo maidaṅ may aeriyaṅ zainab
+  Ragar raha hai wo maidaṅ mein eriyaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
-  Wo jis ko naazoṅ se athara saal paala hai
-  Meri hi godh may wo laal marne waala hai
-  Mai jab uthaunga wo laasha e jawaaṅ zainab
+  Jawan bete ke sine mein...
+  Wo jis ko naazoṅ se athaarah saal paala hai
+  Meri hi god mein wo laal marne waala hai
+  Main jab uthaauṅgi wo laasha-e-jawaaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
-  Wo tum ko dekh ke royega khud ko samjhao
-  Hai us ki aakhri saanseiṅ na saamne jao
-  Bohat rulayegi akbar ki hichkiyaṅ zainab
+  Jawan bete ke sine mein...
+  Wo tum ko dekh ke roega khud ko samjhao
+  Hai us ki aakhri saanseṅ na saamne jao
+  Bahut rulaegi Akbar ki hichkiyaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
-  Meri taraf bhi to dekho mai uska baba hoo
-  Nazar bhi kam hai kamar kham hai aur pyasa hoo
-  Girunga raah may jaane kahaṅ kahaṅ zainab
+  Jawan bete ke sine mein...
+  Meri taraf bhi to dekho main us ka baba huṅ
+  Nazar bhi kam hai kamar kham hai aur pyaasa huṅ
+  Giruṅga raah mein jaane kahaṅ kahaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
-  Dua karo ke ye mushkil ka waqt tal jaye
-  Sukun se mere bete ka dam nikal jaye
-  Na sun sakunga mai akbar ki siskiyaṅ zainab
+  Jawan bete ke sine mein...
+  Dua karo ke ye mushkil ka waqt tal jae
+  Sukun se mere bete ka dam nikal jae
+  Na sun sakuṅga main Akbar ki siskiyaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
-  Wo baar baar madine ki simt dekhta hai
-  Sadayeiṅ deta hai sughra ko aur rota hai
-  Behan ki yaad may uljhi hai uski jaaṅ zainab
+  Jawan bete ke sine mein...
+  Wo baar baar Madine ki simt dekhta hai
+  Sadayeṅ deta hai Sughra ko aur rota hai
+  Behan ki yaad mein uljhi hai us ki jaaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
-  Chale Husain ye zishan aur raza keh kar
-  Sina ke saath kaleja bhi aayega baahar
-  Hai baap bete ki ghurbat ka imtehaṅ zainab
+  Jawan bete ke sine mein...
+  Chale Husain ye Zeeshan aur Raza keh kar
+  Sinaṅ ke saath kaleja bhi aaega baahar
+  Hai baap bete ki ghurbat ka imtihaaṅ Zainab
   Na dekh paaogi tum bhi ho...
-  Jawan bete ke sine may...
+  Jawan bete ke sine mein...
 ---
 
 ۱

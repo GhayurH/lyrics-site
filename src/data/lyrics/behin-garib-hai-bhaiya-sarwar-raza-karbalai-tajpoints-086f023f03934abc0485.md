@@ -1,29 +1,48 @@
 ---
-title: "Behin Garib Hai Bhaiya Sarwar Raza Karbalai"
+title: "بہن غریب ہے بھیا سرور رضا کربلائی"
+alternateTitle: "Behin Garib Hai Bhaiya Sarwar Raza Karbalai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Muhib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Behin garib hai bhaiya Sarwar Raza Karbalai
+
+  1
+  Behan ghareeb hai bhaiyya kafan bhi na la saki
+  Aye bhai ahl-e-sitam se tujhe bacha na saki
+  Dafan tamam shaheedon ke ho gaye lashay
+  Main apne bhai ki turbat magar bana na saki
+  Jalaya aag ne daman ko iss tarha bhaiyya
+  Tumhari beti Sakina ossay bhuja na saki
+
+  2
+  Kaha Rubab ne ro kar yeh pyasay Asghar se
+  Mujhe yeh gham hai ke pani tujhey pila na saki
+  Aye bhai Sham-e-Ghareebaan keh ghoop andherey mein
+  Tumhari bali Sakina ko neend aa na saki
+  Yazidiyat ne tu chaha Hussainiyat na rahe
+  Gham-e-Hussain ko dunya Muhib mita na saki
 ---
 
-Behin Garib Hai Bhaiya Sarwar Raza Karbalai.
+بہن غریب ہے بھیا سرور رضا کربلائی
 
-1
-Behan Ghareeb Hai Bhaiyya Kafan Bhi Na La Saki.
-Aye Bhai Ahl-e-Sitam Se Tujhe Bacha Na Saki.
-Dafan Tamam Shaheedon Ke Ho Gaye Lashay.
-Main Apne Bhai Ki Turbat Magar Bana Na Saki.
-Jalaya Aag Ne Daman Ko Iss Tarha Bhaiyya.
-Tumhari Beti Sakina Ossay Bhuja Na Saki.
+۱
+بہن غریب ہے بھیا کفن بھی نہ لا سکی
+اے بھائی اہلِ ستم سے تجھے بچا نہ سکی
+دفن تمام شہیدوں کے ہو گئے لاشے
+میں اپنے بھائی کی تربت مگر بنا نہ سکی
+جلایا آگ نے دامن کو اس طرح بھیا
+تمہاری بیٹی سکینہ اسے بجھا نہ سکی
 
-2
-Kaha Rubab Ne Ro Kar Yeh Pyasay Asghar Se.
-Mujhe Yeh Gham Hai Ke Pani Tujhey Pila Na Saki.
-Aye Bhai Sham-e-Ghareebaan Keh Ghoop Andherey Mein.
-Tumhari Bali Sakina Ko Neend Aa Na Saki.
-Yazidiyat Ne Tu Chaha Hussainiyat Na Rahe.
-Gham-e-Hussain Ko Dunya Muhib Mita Na Saki.
+۲
+کہا رباب نے رو کر یہ پیاسے اصغر سے
+مجھے یہ غم ہے کہ پانی تجھے پلا نہ سکی
+اے بھائی شامِ غریباں کے گھپ اندھیرے میں
+تمہاری بالی سکینہ کو نیند آ نہ سکی
+یزیدیت نے تو چاہا حسینیت نہ رہے
+غمِ حسین کو دنیا محب مٹا نہ سکی

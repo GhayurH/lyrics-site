@@ -17,11 +17,11 @@ romanLyrics: |-
 
   1
   Haasil nahiṅ hai misl-e-Ali sab ko martaba
-  Garche baargaah-e-risaalat maab meiṅ
+  Garje baargaah-e-risaalat maab meiṅ
 
   2
   Nur-e-Ali meiṅ nur-e-Muhammad meiṅ farq kya
-  Hai aaftaab hai ke deha maahtaab meiṅ
+  Hai aaftaab hai ke diha mahtaab meiṅ
 
   3
   Jhule meiṅ kah rahe the ye tewar saghir ke
@@ -32,7 +32,7 @@ romanLyrics: |-
   Wo khun aa gaya hai simat kar gulaab meiṅ
 
   5
-  Ek tir to nikal gaya Asghar ke halq se
+  Ik tir to nikal gaya Asghar ke halq se
   Paiwast ek tir hai qalb-e-Rabaab meiṅ
 
   6
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Bas wo fishaar-e-qabr se Mahshar bachaaega
-  Jis ne shigaaf daal diya maahtaab meiṅ
+  Jis ne shigaaf daal diya mahtaab meiṅ
 ---
 یا رب یہ التماس ہے تیری جناب میں
 مُجھ کو ملا دے خاکِ درِ بو تراب میں

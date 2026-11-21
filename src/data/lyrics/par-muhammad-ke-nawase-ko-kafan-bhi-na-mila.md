@@ -8,44 +8,37 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Par Muhammad Ke Nawasay Ko Kafan Bhi Na Mila
-  Had Hua Karti Hai Har Zulm Ke Afsane Ki
+  Par Muhammad ke nawaase ko kafan bhi na mila
 
   1
-  Zulm Sehne Ki Sitam Sehne Ki Ghum Khaane Ki
-  Kalma Goyon Yehi Aik Baat Hai Rulwane Ki
-  Array Rasm Hai Saare Musalmano Mein Dafna Ne Ki
-  Par Muhammad Ke Nawase Ko Kafan Bhi Na Mila
+  Had hua karti hai har zulm ke afsaane ki
+  Zulm sehne ki sitam sehne ki gham khaane ki
+  Kalma go'oṅ yahi ek baat hai rulwaane ki
+  Are rasm hai saare Musalmaanoṅ meiṅ dafnaane ki
 
   2
-  Ahl E Daulat Bhi Thy Sardar Ke Saman Bhi Thy
-  Mazhab O Millat O Aqwam Ke Sultan Bhi Thy
-  Haakim E Shara Bhi Thy Hamil E Emaan Bhi Thy
-  Aur Sath Sau Zaalimo Me Haafiz E Quran Bhi Thy
+  Ahl-e-daulat bhi the sardaar ke saamaan bhi the
+  Mazhab o millat o aqwaam ke sultaan bhi the
+  Haakim-e-shara bhi the haamil-e-imaan bhi the
+  Aur saat sau zaalimoṅ meiṅ haafiz-e-Quraan bhi the
 
   3
-  Par Muhammad Ke Nawase Ko Kafan Bhi Na Mila
-  Aray Jab Kisi Ghar Mein Koi Shaks Bhi Mar Jata Hai
-  Taziyat Karne Ko Har Aik Wahan Ata Hai
-  Ghusl Deta Hai Koi Phool Koi Lata Hai
+  Are jab kisi ghar meiṅ koi shakhs bhi mar jaata hai
+  Taaziyat karne ko har ek wahaaṅ aata hai
+  Ghusl deta hai koi phul koi laata hai
+  Koi deta hai kafan aur koi dafnaata hai
 
   4
-  Koi Deta Hai Kafan Or Koi Dafnata Hai
-  Par Muhammad Ke Nawase Ko Kafan Bhi Na Mila
-  Yeh Hai Paigham Mohammad Ka Ittat Karna
-  Jis Ka Mar Jaye Koi Uska Pe Sitam Mat Karna
+  Yeh hai paighaam Muhammad ka itaat karna
+  Jis ka mar jaaye koi us ka pe sitam mat karna
+  Chaahiye tum ko yatimoṅ se bhi shafqat karna
+  Re sab pe laazim hai janaaze ki mashiyyat karna
 
   5
-  Chahiye Tumko Yateemo Se Bhi Shafqat Karna
-  Array Sab Pe Laazim Hai Janaze Ki Mashayat Karna
-  Par Muhammad Ke Nawase Ko Kafan Bhi Na Mila
-  Ghusal Maiyaat Ko Basad Ranj O Mahan Dete Hain
-
-  6
-  Dost Ahbab Tashaffi Ke Sukhan Dete Hain
-  Be Watan Ho Tou Madad Ahl E Watan Dete Hain
-  Chanda Kar Kar Ke Musalman Kafan Dete Hain
-  Par Muhammad Ke Nawase Ko Kafan Bhi Na Mila
+  Ghusl mayyat ko basad ranj o mihan dete haiṅ
+  Dost ahbaab tashaffi ke sukhan dete haiṅ
+  Be watan ho to madad ahl-e-watan dete haiṅ
+  Chanda kar kar ke Musalmaan kafan dete haiṅ
 ---
 
 پر محمد ؑکے نواسے کو کفن بھی نہ ملا

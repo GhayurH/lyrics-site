@@ -18,39 +18,39 @@ romanLyrics: |-
   Zainab ki lo khabar Aabid haiṅ naatawaaṅ
 
   2
-  Dasht-e-bala ko chhor kar khaak-e-shifa ko orh kar
-  Ae fakhr-e-kibriya suno kehti hai haath jor kar
+  Dasht-e-balaa ko chhor kar khaak-e-shifaa ko orh kar
+  Ae fakhr-e-kibriyaa suno kehti hai haath jor kar
   Kaise chale gi maaṅ ae mere naujawaaṅ
 
   3
   Qismat ki paasbaaṅ hai wo Khair-un-Nisa ki jaaṅ hai wo
-  Ghurbat ki intiha hui ghairoṅ ke darmiyaaṅ hai wo
+  Ghurbat ki intihaa hui ghairoṅ ke darmiyaaṅ hai wo
   Shahzaadi-e-jinaaṅ sehti haiṅ sakhtiyaaṅ
 
   4
   Qaatil tera mere pisar Sajjad ka hai hamsafar
   Kam to nahiṅ hai ye sitam sehta raha hai wo magar
-  Kaise sahe bhala bimaar saarabaaṅ
+  Kaise sahe bhalaa bimaar saarbaaṅ
 
   5
-  Maiṅ ne suni hai ye sada kehte haiṅ Shaam meiṅ sabhi
-  Badla Ali ka leiṅ ge ham bint-e-Ali se aaj hi
+  Main ne suni hai ye sadaa kehte haiṅ Shaam mein sabhi
+  Badla Ali ka leṅ ge ham bint-e-Ali se aaj hi
   Patthar se hai bhari logoṅ ki jholiyaaṅ
 
   6
-  Naamahramoṅ ki bhir meiṅ uthti nahiṅ nazar meri
+  Naamahramoṅ ki bhir mein uthti nahiṅ nazar meri
   Abbas ki qasam nahiṅ tashna labi ka gham koi
   Dukh hai ye meri jaaṅ sehmi haiṅ bibiyaaṅ
 
   7
-  Paala hai jis ne umr bhar Akbar tujhe hijaab meiṅ
-  Ghaazi ke saamne bhi wo beta rahi naqaab meiṅ
-  Ghairoṅ meiṅ berida aati hai alamaaṅ
+  Paala hai jis ne umr bhar Akbar tujhe hijaab mein
+  Ghaazi ke saamne bhi wo beta rahi naqaab mein
+  Ghairoṅ mein beridaa aati hai alamaaṅ
 
   8
   Nok-e-sinaaṅ ko dekh kar Yawar ye keh rahi thi maaṅ
   Aa dekh tu bhi naujawaaṅ maadar ka apni imtihaaṅ
-  Aankheiṅ na band kar ghairat ke aasmaaṅ
+  Aankheṅ na band kar ghairat ke aasmaaṅ
 reciter: "Shahid Baltistani"
 ---
 

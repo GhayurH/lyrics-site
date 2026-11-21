@@ -1,6 +1,6 @@
 ---
 title: "ڈوبی ہوئی دکھ کے ساگر میں"
-alternateTitle: "Is Chand Ki Das"
+alternateTitle: "Is Chaand Ki Das"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,33 +13,33 @@ romanLyrics: |-
   1
   Dubi hui dukh ke saagar meiṅ
   Suraj ki sunehri thaali thi
-  Is chand ki das ko saanj talak
+  Is chaand ki das ko saanjh talak
   Shabbir se dunya khaali thi
-  Baba hi ke dam ke saathi the
-  Akbar bhi gaye qasim bhi gaye
-  Moo takne ko ek ek ka rahi
-  Chaati pe jo sone waali thi
-  Is chand ki das ko...
+  Baba hi ke dam ki saathi the
+  Akbar bhi gaye Qasim bhi gaye
+  Munh takne ko ek ek ka raahi
+  Chhaati pe jo sone waali thi
+  Is chaand ki das ko...
   Is dhab se na ujra baagh kahiṅ
   Is dhab se na laagi aag kahiṅ
   Sukhi hui patti patti thi
   Tuti hui daali daali thi
-  Is chand ki das ko...
+  Is chaand ki das ko...
   Sarwar ke Hasan ki widwa ne
-  Do chand se tukre waar diye
-  Bacche to jiyale the thi magar
+  Do chaand se tukre waar diye
+  Bachche to jiyaale the thi magar
   Maata bhi bari dil waali thi
-  Is chand ki das ko...
-  Kya lutke gaye karbal se haram
-  Jab aayi hai sakhiyaṅ milne ko
+  Is chaand ki das ko...
+  Kya lut ke gaye Karbal se haram
+  Jab aayi hai sakhiyaaṅ milne ko
   Jis maang ko dekha ujri thi
-  Jis godh ko dekha khaali thi
-  Is chand ki das ko...
-  Najmi ye hussaini chaukhat hai
-  Yaṅ aa ke muraeiṅ milti hai
+  Jis god ko dekha khaali thi
+  Is chaand ki das ko...
+  Najmi ye Husaini chaukhat hai
+  Yaaṅ aa ke muraadeṅ milti hai
   Is daawar se bhiksha le ke chale
   Aaye the to jholi khaali thi
-  Is chand ki das ko...
+  Is chaand ki das ko...
 ---
 
 ۱

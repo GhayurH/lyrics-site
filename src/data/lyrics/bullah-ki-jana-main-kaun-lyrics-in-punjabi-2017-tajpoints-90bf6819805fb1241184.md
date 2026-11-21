@@ -1,30 +1,50 @@
 ---
-title: "Bullah Ki Jana Main Kaun Lyrics In Punjabi 2017"
+title: "بلھا کی جاناں میں کون"
+alternateTitle: "Bullah Ki Jana Main Kaun"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Bullah"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bullah ki jana main kaun?
+  Na main momin wich maseetan
+  Na main wich kufar di reet aaan
+  Na main pakaan wich paleet aaan
+  Na main Mosa na Firon
+  Na main wich paleeti paki
+  Na wich shadi na ghamnaki
+  Nain main aabi na main khaki
+  Na main aatish na main paun
+  Na main bheait mazab da paya
+  Na main Adam Hawa jaya
+  Na kuj apna naam duhraya
+  Na wich bethan na wich bhaun
+  Awal akhir aap nu jana
+  Na koi doja hoor pachana
+  Metho wadh na koi siyana
+  Bullah ohh khara hai kaun
 ---
 
-1
-Bullah Ki Jana Main Kaun?
-Na Main Momin Wich Maseetan.
-Na Main Wich Kufar Di Reet Aaan.
-Na Main Pakaan Wich Paleet Aaan.
-Na Main Mosa Na Firon.
-Na Main Wich Paleeti Paki.
-Na Wich Shadi Na Ghamnaki.
-Nain Main Aabi Na Main Khaki.
-Na Main Aatish Na Main Paun.
-Na Main Bheait Mazab Da Paya.
-Na Main Adam Hawa Jaya.
-Na Kuj Apna Naam Duhraya.
-Na Wich Bethan Na Wich Bhaun.
-Awal Akhir Aap Nu Jana.
-Na Koi Doja Hoor Pachana.
-Metho Wadh Na Koi Siyana.
- Bullah Ohh Khara Hai Kaun.
+۱
+بلھا کی جاناں میں کون؟
+نہ میں مومن وچ مسیتاں
+نہ میں وچ کفر دی ریت آں
+نہ میں پاکاں وچ پلید آں
+نہ میں موسیٰ نہ فرعون
+نہ میں وچ پلیدی پاکی
+نہ وچ شادی نہ غمناکی
+نئیں میں آبی نہ میں خاکی
+نہ میں آتش نہ میں پون
+نہ میں بھیت مذہب دا پایا
+نہ میں آدم حوا جایا
+نہ کجھ اپنا نام دہرایا
+نہ وچ بیٹھاں نہ وچ بھون
+اول آخر آپ نوں جاناں
+نہ کوئی دوجا ہور پچھانا
+میتھوں ودھ نہ کوئی سیانا
+بلھا اوہ کھرا ہے کون

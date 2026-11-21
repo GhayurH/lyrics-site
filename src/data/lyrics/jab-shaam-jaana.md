@@ -12,44 +12,44 @@ published: false
 romanLyrics: |-
   1
   Jab shaam jaana
-  Bibi ko jaa kar nauha sunana
-  Ahle aza tum jab shaam jaana
-  Tum hamesha yaad rakhna us zamane ka mehal
-  Jis jagah tum ho wahin zainab rasan basta thi kal
-  The yahin zanjir meiṅ jakre huwe zainuleba
-  Ahle aza tum jab...
-  Ye sakina ki lehed hai jis jagah hai roshni
-  Sochiye ek din yahaṅ par kis khadar thi tiragi
+  Bibi ko jaa kar nauha sunaana
+  Ahl-e-aza tum jab shaam jaana
+  Tum hamesha yaad rakhna us zamaane ka mahal
+  Jis jagah tum ho wahi Zainab rasan basta thi kal
+  The yahi zanjir mein jakre hue Zain-ul-Aba
+  Ahl-e-aza tum jab...
+  Ye Sakina ki lahad hai jis jagah hai roshni
+  Sochiye ik din yahaṅ par kis qadar thi tiragi
   Band thi saari sabileiṅ khatm tha har aasra
-  Ahle aza tum jab...
-  Bibiyaṅ paoṅ uthaati thi magar uthta na tha
-  Abid e bimar ka ghairat se sar uthta na tha
-  Har taraf baazar meiṅ tha aaina hi aaina
-  Ahle aza tum jab...
-  Ye wo darwaza hai tehri thi jahaṅ par bibiyaṅ
-  Kam nahi the hashr ke manzar se wo ruswaiyaṅ
-  Has rahe the berida sadaat par ahle jafa
-  Ahle aza tum jab...
-  Har taraf se zulm ke patthar baraste the yahin
-  Waaris e tathir chadar ko taraste the yahin
-  Goya barpa thi yahin par dusri ek karbobala
-  Ahle aza tum jab...
-  Moo ko aata tha kaleja zainabe dilgir ka
-  Jis jagah ek tasht meiṅ rakha tha sar shabbir ka
-  Tha yahin baitha hua haakim sharabi behaya
-  Ahle aza tum jab...
-  Ya khuda qaidi na ho aise yatimi meiṅ koi
-  Phir na maange is tarha bacchi kanizi meiṅ koi
-  Tha sakina ke liye ek hashr ka wo samaa
-  Ahle aza tum jab...
-  Zulm ki rudad batlayenge tumko raaste
-  The yahin par ek rassi meiṅ bandhe baara gale
-  Ye ali ki betiyaṅ hai thi munadi ki nida
-  Ahle aza tum jab...
-  Nayyar o aamir ki hai tum se guzarish zaairoṅ
-  Ho sake to ek yateema ke liye lekar chalo
-  Nanhi si do baliyaṅ aur ek choti si rida
-  Ahle aza tum jab...
+  Ahl-e-aza tum jab...
+  Bibiyaaṅ paaoṅ uthaati thi magar uthta na tha
+  Aabid-e-bimaar ka ghairat se sar uthta na tha
+  Har taraf baazaar mein tha aaina hi aaina
+  Ahl-e-aza tum jab...
+  Ye wo darwaaza hai tehri thi jahaṅ par Bibiyaaṅ
+  Kam nahiṅ the hashr ke manzar se wo ruswaaiyaaṅ
+  Hans rahe the berida saadaat par ahl-e-jafa
+  Ahl-e-aza tum jab...
+  Har taraf se zulm ke patthar baraste the yahi
+  Waaris-e-tathir chaadar ko taraste the yahi
+  Goya parda thi yahi par dusri ik Karb o Bala
+  Ahl-e-aza tum jab...
+  Muṅh ko aata tha kaleja Zainab-e-dilgir ka
+  Jis jagah ek tasht mein rakha tha sar Shabbir ka
+  Tha yahi baitha hua haakim sharaabi behaya
+  Ahl-e-aza tum jab...
+  Ya Khuda qaidi na ho aise yatimi mein koi
+  Phir na maang is tarah bachchi kanizi mein koi
+  Tha Sakina ke liye ek hashr ka wo samaaṅ
+  Ahl-e-aza tum jab...
+  Zulm ki rudaad batlaayeṅ ge tum ko raaste
+  The yahi par ek rassi mein bandhe baarah gale
+  Ye Ali ki betiyaaṅ hai thi munaadi ki nida
+  Ahl-e-aza tum jab...
+  Nayyar o Aamir ki hai tum se guzaarish zaairoṅ
+  Ho sake to ek yatima ke liye le kar chalo
+  Nanhi si do baaliyaaṅ aur ek chhoti si rida
+  Ahl-e-aza tum jab...
 ---
 
 ۱

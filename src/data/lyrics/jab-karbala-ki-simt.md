@@ -9,170 +9,96 @@ poet: "Qaisar Barhvi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Jab karbala ki simt badha haq ka rahnuma
-
+romanLyrics: |-
+  Jab Karbala ki simt barha haq ka rahnuma
 
   1
-
-  Kuch aagaya khayaal jo maa ke mazaar ka
-
-  Aaya suye baqi wo zehra ka laadla
-
-  Rukhsaar rakh ke sadre lehad par ye di sada
-
-  Chut''ta hai ab madina mere dil ko thaam lo
-
-  Amma ghareeb bete ka aakhir salaam lo
-
+  Kuch aa gaya khayaal jo maaṅ ke mazaar ka
+  Aaya su-e-Baqi woh Zehra ka laadla
+  Rukhsaar rakh ke sadr-e-lahad par ye di sada
+  Chhutta hai ab Madina mere dil ko thaam lo
+  Ammaaṅ ghareeb bete ka aakhir salaam lo
 
   2
-
-  Amma tumhare laal se chut''ta hai aaj ghar
-
-  Amma tumhare laal ka dushman hai har bashar
-
-  Amma tumhare laal se bar gashta har nazar
-
-  Amma tumhare laal ka hai aakhri safar
-
-  Sehra mein dil ke tukdon ki basti basayega
-
-  Amma hussain ab na madine mein aayega
-
+  Ammaaṅ tumhaare laal se chhutta hai aaj ghar
+  Ammaaṅ tumhaare laal se bargashta har nazar
+  Ammaaṅ tumhaare laal ka dushman hai har bashar
+  Ammaaṅ tumhaare laal ka hai aakhri safar
+  Sehra meiṅ dil ke tukroṅ ki basti basaayega
+  Ammaaṅ Husain ab na Madine meiṅ aayega
 
   3
-
-  Amma dua karo ke mai saabit qadam rahoo
-
-  Dunya khilaaf ho pa hirasa zara na hoo
-
-  Har lamha muskurake sitam par sitam sahoo
-
-  Nazron ke saamne jo lute ghar na kuch kahoo
-
-  Amma ye aankh roye na akbar ke waaste
-
-  Raasha na aaye haathon mein asghar ke waaste
-
+  Ammaaṅ dua karo ke maiṅ saabit qadam rahuṅ
+  Dunya khilaaf ho pa hiraasaa zara na huṅ
+  Har lamha muskura ke sitam par sitam sahuṅ
+  Nazroṅ ke saamne jo lute ghar na kuch kahuṅ
+  Ammaaṅ ye aaṅkh roye na Akbar ke waaste
+  Raasha na aaye haathoṅ meiṅ Asghar ke waaste
 
   4
-
-  Amma mere iradon ko aaye na kuch zawaal
-
-  Jis waqt payemal ho bhaiya hassan ka laal
-
-  Amma na kaamp uthe ye qadam bedh ki misaal
-
-  Ghode se jab giray meri khwahar ke naunehaal
-
-  Amma kamar jhuke na tumhare fidaayi ki
-
-  Laaun jo laash utha ke barabar ke bhai ki
-
+  Ammaaṅ mere iraadoṅ ko aaye na kuch zawaal
+  Jis waqt paayemaal ho bhaiya Hasan ka laal
+  Ammaaṅ na kaaṅp uthe ye qadam berh ki misaal
+  Ghore se jab giraaya meri khwaahar ke naunihaal
+  Ammaaṅ kamar jhuke na tumhaare fidaai ki
+  Laauṅ jo laash utha ke baraabar ke bhaai ki
 
   5
-
-  Maa se ye keh raha tha abhi maa ka laadla
-
-  Aawaz aayi qabr se ay mere mehlekha
-
-  Sadqe teri musibat o ghurbat ke fatema
-
-  Bas ay hussain bas ke hila arshe kibriya
-
-  Tadpe abul hassan jo dil e beqaraar se
-
-  Beta rasool e haq nikal aaye mazaar se
-
+  Maaṅ se ye keh raha tha abhi maaṅ ka laadla
+  Aawaaz aayi qabr se ae mere Mahlaqa
+  Sadqe teri musibat o ghurbat ke Fatema
+  Bas ae Husain bas ke hila arsh-e-kibriya
+  Tarpe Abul Hasan bhi dil-e-beqaraar se
+  Beta Rasul-e-haq nikal aaye mazaar se
 
   6
-
-  Ay mere laal tere iraadon ke mai nisaar
-
-  Ye aakhri safar hai mere dil ka izteraab
-
-  Kaise kahun jo dil pe guzarti hai gul azaar
-
-  Hota hai be-charagh mere baap ka mazaar
-
-  Jo tujhpe zulm honge ye dukhiya uthayegi
-
-  Beta ye gham naseeb tere saath jayegi
-
+  Ae mere laal tere iraadoṅ ke maiṅ nisaar
+  Ye aakhri safar hai mere dil ka iztiraab
+  Kaise kahuṅ jo dil pe guzarti hai gul azaar
+  Hota hai becharaagh mere baap ka mazaar
+  Jo tujh pe zulm hoṅge ye dukhiya uthaayegi
+  Beta ye gham naseeb tere saath jaayegi
 
   7
-
-  Aansu bahaungi tere ranj o alam ke saath
-
-  Aankhein bichaungi tere nakshe qadam ke saath
-
+  Aansu bahaauṅgi tere ranj o alam ke saath
+  Aaṅkheṅ bichhaauṅgi tere naqsh-e-qadam ke saath
   Zehra nidhaal hogi har ek taaza gham ke saath
-
-  Mera kaleja niklega pothay ke dam ke saath
-
-  Ghabra na mere laal har ek dukh bata''ungi
-
-  Mai tere saath laasha e akbar utha''ungi
-
+  Mera kaleja niklega pothe ke dam ke saath
+  Ghabra na mere laal har ek dukh bataauṅgi
+  Maiṅ tere saath laasha-e-Akbar uthaauṅgi
 
   8
-
-  Jayega tu jo nehr pe bhai ki laash par
-
-  Mai tere saath saath chalungi ba-rehna sar
-
-  Beta hussain kya tujhe iski nahi khabar
-
-  Abbas tera bhai to mera dil o jigar
-
-  Tu laash uthayega to saf e gham bicha''ungi
-
-  Mai godh mein kate huwe haathon ko laa''ungi
-
+  Jaayega tu jo nahr pe bhaai ki laash par
+  Maiṅ tere saath saath chaluṅgi barahna sar
+  Beta Husain kya tujhe is ki nahiṅ khabar
+  Abbas tera bhaai to mera dil o jigar
+  Tu laash uthaayega to saff-e-gham bichhaauṅgi
+  Maiṅ god meiṅ kate hue haathoṅ ko laauṅgi
 
   9
-
-  Beta hassan ke laal ki khaatir ye kya malaal
-
-  Mere hassan ne tujhpe nichawar kiya wo laal
-
-  Fidye ke waaste koi karta hai yun malaal
-
-  Beta mai us ghadi bhi rahungi shareek e haal
-
-  Gham hai qadam utha ke dil e paash paash ke
-
-  Tukde chunungi ran se mai qasim ki laash ke
-
+  Beta Hasan ke laal ki khaatir ye kya malaal
+  Mere Hasan ne tujh pe nichhaawar kiya woh laal
+  Fidye ke waaste koi karta hai yuṅ malaal
+  Beta maiṅ us ghari bhi rahuṅgi sharik-e-haal
+  Gham hai qadam utha ke dil-e-paash paash ke
+  Tukre chunuṅgi ran meiṅ maiṅ Qasim ki laash ke
 
   10
-
-  Haan mere laadle meri zainab se hoshiyaar
-
-  Be-parda ho na jaye kahin meri pardadaar
-
-  Mehmil ke saath saath ho abbas e zeewiqar
-
-  Takeed ho ye akbar e mehroo ko baar baar
-
-  Aamada har qadam pe rahe peshwayi ko
-
-  Takleef ho na raah mein zehra ki jaayi ko
-
+  Haaṅ mere laadle meri Zainab se hoshiyaar
+  Beparda ho na jaaye kahiṅ meri pardadaar
+  Mahmil ke saath saath hoṅ Abbas-e-ziṅ waqaar
+  Taakid ho ye Akbar-e-mahru ko baar baar
+  Aamaada har qadam pe rahe peshwaai ko
+  Taklif ho na raah meiṅ Zehra ki jaai ko
 
   11
-
-  Jaa marqade rasool pe ay mere laal afaam
-
-  Laazim hai nana jaan ko bhi aakhri salaam
-
+  Jaa marqad-e-Rasul pe ae mere laala faam
+  Laazim hai naana jaan ko bhi aakhri salaam
   Dena meri taraf se ye hasrat bhara payaam
-
-  Mumkin nahi madine mein zehra kare qayaam
-
-  Tum bhi lahoo mein apna chaman dekhne chalo
-
-  Zainab ke baazuon mein rasan dekhne chalo'
+  Mumkin nahiṅ Madine meiṅ Zehra kare qayaam
+  Tum bhi lahu meiṅ apna chaman dekhne chalo
+  Zainab ke baazuoṅ meiṅ rasan dekhne chalo
+  Zainab ke baazuoṅ meiṅ rasan dekhne chalo
 reciter: "Farhan Ali"
 ---
 

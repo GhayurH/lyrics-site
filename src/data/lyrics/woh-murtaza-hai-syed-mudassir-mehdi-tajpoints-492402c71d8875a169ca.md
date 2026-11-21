@@ -1,56 +1,102 @@
 ---
-title: "Woh Murtaza Hai Syed Mudassir Mehdi"
+title: "وہ مرتضیٰ ہے سید مدثر مہدی"
+alternateTitle: "Woh Murtaza Hai Syed Mudassir Mehdi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Woh Murtaza hai Syed Mudassir Mehdi
+  Koi tu hai jo malaika ki dua raha hai
+
+  1
+  Jisay Muhammad wazeer apna bana raha hai
+  Naseeb Kabay ke hain jagane
+  Asad ki beti Asad ki maa ne
+  Khuda ke ghar ko jo aaj qibla bana raha hai
+
+  2
+  Nabi bhi jis ke parhey qasiday
+  Woh jis ka sona Khuda khareday
+  Jo Hoz-e-Kausar se jaam bhar kar pila raha hai
+  Yeh kaun parday mein bolta hai?
+
+  3
+  Chupay hoye bhaid kholta hai
+  Khuda ke lehjay mein jo kahani suna raha hai
+  Wali hai shair-e-jali hai ghazi
+  Kaha Ali ne Ali hai ghazi
+
+  4
+  Ali ka beta Ali ki sorat mein aa raha hai
+  Ali ki azmat Ali hi jane
+  Halaliyon ke hain yeh taraney
+  Jo munkiron ke dilon ko har pal jala raha hai
+
+  5
+  Bana hai maula ameer dekho
+  Saja raha hai Ghadeer dekho
+  Woh jis ko dulha Rasool-e-Haq khud bana raha hai
+  Nuseriyon ka Khuda hai jo bhi
+
+  6
+  Muqassaron ki qaza hai woh hi
+  Jo aik sajday se dono fitney mita raha hai
+  Jo anbiya ki madad ko aaye
+  Jo asiyon ko wali banaye
+
+  7
+  Jahan bhar ke jo aaj bhi kam aa raha hai
+  Batool likhe tere taraney
+  Hain tere mamnon sab zamane
+  Farishtay nokar hain Kibriya ko bacha raha hai
 ---
 
-Woh Murtaza Hai Syed Mudassir Mehdi.
-Koi Tu Hai Jo Malaika Ki Dua Raha Hai.
+وہ مرتضیٰ ہے سید مدثر مہدی
+کوئی تو ہے جو ملائکہ کی دعا رہا ہے
 
-1
-Jisay Muhammad Wazeer Apna Bana Raha Hai.
-Naseeb Kabay Ke Hain Jagane.
-Asad Ki Beti Asad Ki Maa Ne.
-Khuda Ke Ghar Ko Jo Aaj Qibla Bana Raha Hai.
+۱
+جسے محمد وزیر اپنا بنا رہا ہے
+نصیب کعبے کے ہیں جگانے
+اسد کی بیٹی اسد کی ماں نے
+خدا کے گھر کو جو آج قبلہ بنا رہا ہے
 
-2
-Nabi Bhi Jis Ke Parhey Qasiday.
-Woh Jis Ka Sona Khuda Khareday.
-Jo Hoz-e-Kausar Se Jaam Bhar Kar Pila Raha Hai.
-Yeh Kaun Parday Mein Bolta Hai?.
+۲
+نبی بھی جس کے پڑھے قصیدے
+وہ جس کا سونا خدا خریدے
+جو حوضِ کوثر سے جام بھر کر پلا رہا ہے
+یہ کون پردے میں بولتا ہے؟
 
-3
-Chupay Hoye Bhaid Kholta Hai.
-Khuda Ke Lehjay Mein Jo Kahani Suna Raha Hai.
-Wali Hai Shair-e-Jali Hai Ghazi.
-Kaha Ali Ne Ali Hai Ghazi.
+۳
+چھپے ہوئے بھید کھولتا ہے
+خدا کے لہجے میں جو کہانی سنا رہا ہے
+ولی ہے شیرِ جلی ہے غازی
+کہا علی نے علی ہے غازی
 
-4
-Ali Ka Beta Ali Ki Sorat Mein Aa Raha Hai.
-Ali Ki Azmat Ali Hi Jane.
-Halaliyon Ke Hain Yeh Taraney.
-Jo Munkiron Ke Dilon Ko Har Pal Jala Raha Hai.
+۴
+علی کا بیٹا علی کی صورت میں آ رہا ہے
+علی کی عظمت علی ہی جانے
+حلالیوں کے ہیں یہ ترانے
+جو منکروں کے دلوں کو ہر پل جلا رہا ہے
 
-5
-Bana Hai Maula Ameer Dekho.
-Saja Raha Hai Ghadeer Dekho.
-Woh Jis Ko Dulha Rasool-e-Haq Khud Bana Raha Hai.
-Nuseriyon Ka Khuda Hai Jo Bhi.
+۵
+بنا ہے مولا امیر دیکھو
+سجا رہا ہے غدیر دیکھو
+وہ جس کو دولہا رسولِ حق خود بنا رہا ہے
+نصیریوں کا خدا ہے جو بھی
 
-6
-Muqassaron Ki Qaza Hai Woh Hi.
-Jo Aik Sajday Se Dono Fitney Mita Raha Hai.
-Jo Anbiya Ki Madad Ko Aaye.
-Jo Asiyon Ko Wali Banaye.
+۶
+مقصروں کی قضا ہے وہ ہی
+جو ایک سجدے سے دونوں فتنے مٹا رہا ہے
+جو انبیا کی مدد کو آئے
+جو عاصیوں کو ولی بنائے
 
-7
-Jahan Bhar Ke Jo Aaj Bhi Kam Aa Raha Hai.
- Batool Likhe Tere Taraney.
-Hain Tere Mamnon Sab Zamane.
-Farishtay Nokar Hain Kibriya Ko Bacha Raha Hai.
+۷
+جہان بھر کے جو آج بھی کام آ رہا ہے
+بتول لکھے تیرے ترانے
+ہیں تیرے ممنون سب زمانے
+فرشتے نوکر ہیں کبریا کو بچا رہا ہے

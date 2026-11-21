@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Hirni ko wo pakre hue jaane laga phir ghar apne
-  Guzra shikaari us ja se Maula jahaaṅ par baithe the
+  Guzra shikaari us jaa se Maula jahaaṅ par baithe the
 
   3
   Dekh ke Maula ko hirni karne lagi faryaad apni
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Guzri thi kuchh der abhi aa gai waapas wo hirni
-  Dekh ke saare hairaan the saath meiṅ us ke the bachche
+  Dekh ke saare hairaan the saath mein us ke the bachche
 
   7
   Chum ke qadmoṅ ko ye kaha shukriya ae Ibn-e-Zahra
@@ -45,9 +45,9 @@ romanLyrics: |-
 
   8
   Ro ke shikaari kehne laga chhor diya is ko Maula
-  Ishq meiṅ tere Ibn-e-Ali ye aazaad haiṅ maiṅ qaidi
+  Ishq mein tere Ibn-e-Ali ye aazaad haiṅ main qaidi
 
-  Pyaare bachcho jab hamaare Imaam ne ek maasum jaanwar ki madad ki to Imaam-e-Rauf aur Zaamin-e-Aahu Imaam hamaari madad kiuṅ nahiṅ kareṅ ge. Aao mil kar dua kareṅ apne aathweṅ Imaam ke huzur ke wo hamaari tamaam mushkilaat ko aasaan farmaaeṅ. Aur ham ko apne darbaar meiṅ jald az jald talab farmaaeṅ (Ilaahi aamin).
+  Pyaare bachcho jab hamaare Imaam ne ek maasum jaanwar ki madad ki to Imaam-e-Rauf aur Zaamin-e-Aahu Imaam hamaari madad kiuṅ nahiṅ kareṅ ge. Aao mil kar dua kareṅ apne aathweṅ Imaam ke huzur ke wo hamaari tamaam mushkilaat ko aasaan farmaaeṅ. Aur ham ko apne darbaar mein jald az jald talab farmaaeṅ (Ilaahi aamin).
 ---
 ضامنِ آہو مولا رضا
 

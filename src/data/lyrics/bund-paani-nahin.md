@@ -26,7 +26,7 @@ romanLyrics: |-
   Yaad aata hai mujhe baaba ka sina bhaiya
   Sakht dushwaar hai mera jina bhaiya
   Aao zindaaṅ se andheroṅ se nikaalo mujhko
-  Warna mar jaayegi ro ro ke Sakina bhaiya
+  Warna mar jaaye gi ro ro ke Sakina bhaiya
 
   3
   Sona chaahuṅ gi jo zindaaṅ ki zamiṅ par bhaiya
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   Haathoṅ pe Sakina ka uthaaye hue laasha
   Zindaan se rota hua bimaar chala hai
-  Chehre pe tamaachoṅ ke nishaaṅ dekh le ya Rab
+  Chehre pe tamaanchoṅ ke nishaaṅ dekh le ya Rab
   Aulaad-e-Payambar se ye ummat ki wafa hai
 
   5

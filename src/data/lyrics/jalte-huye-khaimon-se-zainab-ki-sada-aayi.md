@@ -8,62 +8,42 @@ poet: "Akhtar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Jaltay huay khaimo se, Zainab ki sada aayi, Abbas kahan ho tum
-
-  Na sar pe rahi chadar, na mera bacha bhai, Abbas kahan ho tum
-
+romanLyrics: |-
+  Jalte hue khaimoṅ se, Zainab ki sada aayi
 
   1
-
-  Abbas chalay aao, Khaimo may ghareebon ke
-
-  Bhokay aur pyasay hain, loatay hain naseebon ke
-
-  Sajjad ko hosh nahi, Kulsoom hay ghabrai, Abbas kahan ho tum
-
+  Abbas kahaaṅ ho ho tum
+  Na sar pe rahi chaadar, na mera bacha bhai
+  Abbas kahaaṅ ho tum
+  Abbas chale aao, khaimoṅ meiṅ ghariboṅ ke
+  Bhuke aur pyaase haiṅ, lute haiṅ nasiboṅ ke
+  Sajjad ko hosh nahiṅ, Kulsum hai ghabraayi
+  Abbas kahaaṅ ho tum
 
   2
-
-  Jalti hui reti par, mazloom ki lash pari
-
-  Roti hay Sakina bhi, baba ke pas khari
-
-  Hay haal yateemana, ghurbat ki ghata chayi, Abbas kahan ho tum
-
+  Jalti hui dharti pe, mazlum ki laash pari
+  Roti hai Sakina bhi, baaba ke paas khari
+  Hai haal yatimaana, ghurbat ki ghata chhaayi
 
   3
-
-  Haey Shimr kameenay ne, Masoom Sakina ke
-
-  Maray hain tamachay bhi, haey phool se galon pe
-
-  Aa jao chacha Ghazi, ro ro ke wo chillay, Abbas kahan ho tum
-
+  Haaye Shimr kamine ne, maasum Sakina ke
+  Maare haiṅ tamaanche bhi, haaye phul se gaaloṅ pe
+  Aa jao chacha Ghazi, ro ro ke woh chillaayi
 
   4
-
-  Shabbir bara ran may, kayi roz ka pyasi hay
-
-  Teeron se hui chalni, mazloom ka lasha hay
-
-  Na kafan mila is ko, na qabar hi ban payi, Abbas kahan ho tum
-
+  Shabbir bara ran meiṅ, kai roz ka pyaasa hai
+  Tiroṅ se hua chhalni, mazlum ka laasha hai
+  Na kafan mila is ko, na qabr hi ban paayi
 
   5
-
-  Kulsoom ne sar peeta, maqtal may kharay ho ke
-
-  Haey baap ke hathon se, Zainab se ro ro ke
-
-  Dastar imamat ki, Sajjad ko pehnayi, Abbas kahan ho tum
+  Kulsum ne sar pita, maqtal meiṅ khare ho ke
+  Haaye kaanpte haathoṅ se, Zainab ne ro ro ke
+  Dastaar imaamat ki, Sajjad ko pehnaayi
 
   6
-
-  Bachchon ko daraya hai Karbal ki udasi ne
-
-  Akhtar ye kaha hoga Ahmad ki nawasi ne
-
-  Maqtal mein hai sannata aur maut ki tanhai, Abbas kahan ho tum'
+  Bachchoṅ ko daraaya hai Karbal ki udaasi ne
+  Akhtar ye kaha hoga Ahmad ki nawaasi ne
+  Maqtal meiṅ hai sannaata aur maut ki tanhaai
 ---
 
 جلتے ہوئے خیموں سے، زینبؑ کی صدا آئی

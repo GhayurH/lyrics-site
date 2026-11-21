@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jangal meiṅ mujhko chhor kar Akbar kahaaṅ gaye
+  Jangal meiṅ mujhko chhor ke Akbar kahaaṅ gaye
   Chilla rahi hai der se maadar kahaaṅ gaye
 
   1
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Sine meiṅ iztiraab hai dar par nigaah hai
-  Ae mere ham-shabih-e-Payambar kahaaṅ gaye
+  Ae mere ham shabih-e-Payambar kahaaṅ gaye
 
   3
   Paighaam maut ka tha ye athaarwaaṅ baras
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Maaṅ tum ko dhundti hai andhere meiṅ raat ke
-  Ghar bhar ki raushni maah-e-anwar kahaaṅ gaye
+  Ghar bhar ki raushni mah-e-anwar kahaaṅ gaye
 
   9
   Aadaa-e-din le gaye asbaab lut kar
@@ -56,16 +56,16 @@ romanLyrics: |-
   Chaadar haram ki chhinti hai Akbar kahaaṅ gaye
 
   11
-  Jaa kar Madine waaloṅ ko maiṅ duṅgi kya jawaab
-  Puchheṅge jab jawaan Ali Akbar kahaaṅ gaye
+  Jaa kar Madine waaloṅ ko maiṅ duṅ gi kya jawaab
+  Puchheṅ ge jab jawaan Ali Akbar kahaaṅ gaye
 
   12
   Sayyidaaniyoṅ ke bich meiṅ Laila ke the ye bain
   Maaṅ ko akela chhor kar Akbar kahaaṅ gaye
 
   13
-  Jab silsila hayaat ka tutega ae Qamar
-  Puchheṅge log khaadima-e-Sarwar kahaaṅ gaye
+  Jab silsila hayaat ka tute ga ae Qamar
+  Puchheṅ ge log khaadima-e-Sarwar kahaaṅ gaye
 ---
 جنگل میں مجھکو چھوڑ کے اکبر کہاں گئے
 چلا رہی ہے دیر سے مادر کہاں گئے

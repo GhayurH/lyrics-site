@@ -9,74 +9,37 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Barchi ali akbar ke kaleje may lagi hai
-
+romanLyrics: |-
+  Barchhi Ali Akbar ke kaleje mein lagi hai
+  Dam torte farzand ko maaṅ dekh rahi hai
 
   1
-
-  Dam tod''te farzand ko maa dekh rahi hai
-
-  Ay maut tehar ja mere akbar ko na leja
-
-  Rasta ali akbar ka behan dekh rahi hai
-
-  Dum todte farzand...
-
+  Ae maut thehar ja mere Akbar ko na le ja
+  Raasta Ali Akbar ka bahan dekh rahi hai
 
   2
-
-  -
-
-  Samjha hai tumhe aun-o-mohammed se zyaada,
-
-  Athara baras paala hai aanchal may chupake
-
-  Tumko to abhi baap ka banna tha sahaara,
-
-  Tum sogaye maidaan may phal barchi ka khaake
-
-  -
-
-  Zainab ne kaha haaye mere naazon ke paale
-
-  Barchi tere seene pe nahi mere lagi hai
-
+  Samjha hai tumheṅ Aun o Muhammad se zyaada
+  Athaara baras paala hai aanchal mein chhupa ke
+  Tum ko to abhi baap ka banna tha sahaara
+  Tum so gaye maidaan mein phal barchhi ka kha ke
+  Zainab ne kaha haaye mere naazoṅ ke paale
+  Barchhi tere sine pe nahiṅ mere lagi hai
 
   3
-
-  Laila ne kaha jiska jawan laal ho aisa
-
-  Us maa ki rida fauje shaqi cheen rahi hai
-
-  Dum todte farzand ko maa dekh rahi hai
-
+  Laila ne kaha jis ka jawaaṅ laal ho aisa
+  Us maaṅ ki rida fauj-e-shaqi chhin rahi hai
 
   4
-
-  Maa kehti din byaah ke jab aaye to beta
-
-  Dunya se sawaari teri jannat ko chali hai
-
-  Dum todte farzand ko maa dekh rahi hai
-
+  Maaṅ kehti din byaah ke jab aaye to beta
+  Duniya se sawaari teri jannat ko chali hai
 
   5
-
-  -
-
-  Marne ke liye izme-wafa maang rahe hai,
-
-  Din jeene ke hai phir bhi khaza maang rahe hai
-
-  Do ghoont mile paani ye akbar ne sada di,
-
-  Shabbir se kis waqt ye kya maang rahe hai
-
-  -
-
-  Rehaan ka nowha hai ke ye bazm-e-aza may
-
-  Akbar teri awaaz-e-azaan goonj rahi hai'
+  Marne ke liye izn-e-wagha maang rahe haiṅ
+  Din jine ke haiṅ phir bhi qaza maang rahe haiṅ
+  Do ghunt mile paani ye Akbar ne sada di
+  Shabbir se kis waqt ye kya maang rahe haiṅ
+  Rehaan ka nauha hai ke ye bazm-e-aza mein
+  Akbar teri aawaaz-e-azaaṅ gunj rahi hai
 ---
 
 برچھی علی اکبر کے کلیجے میں لگی ہے

@@ -36,8 +36,8 @@ romanLyrics: |-
   Haathoṅ pe tarapta Ali Asghar nazar aaya
 
   6
-  Kya haal hua hoga sitam-dida behan ka
-  Jab tasht-e-tila meiṅ sar-e-Sarwar nazar aaya
+  Kya haal hua hoga sitamdida behan ka
+  Jab tasht-e-tilaa meiṅ sar-e-Sarwar nazar aaya
 
   7
   Samjhuṅ ga Nisar aankhoṅ ne dekha dar-e-jannat

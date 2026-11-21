@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Khaimoṅ meiṅ Bibiyoṅ ke hosh o hawaas gum hai
-  Bewa ka laal Qasim dunya se chal basa hai
+  Bewa ka laal Qasim duniya se chal basa hai
 
   5
   Shabbir sar jhukaaye mayyat ko laa rahe haiṅ

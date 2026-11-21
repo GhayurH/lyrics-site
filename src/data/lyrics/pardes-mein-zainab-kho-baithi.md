@@ -23,7 +23,7 @@ romanLyrics: |-
   Athaara baras ke paale ko
 
   2
-  Naazoṅ se muraadoṅ se paala
+  Naazoṅ se, muraadoṅ se paala
   Shaadi ka zamaana jab aaya
   Maidan meiṅ kho kar baith gayi
   Athaara baras ke paale ko
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Dil thaam ke Akbar ki maadar
   Sarwar se ye kehti thi ro kar
-  Kho aaye kahaaṅ Ae Ibn-e-Ali
+  Kho aaye kahaaṅ, ae Ibn-e-Ali
   Athaara baras ke paale ko
 
   4

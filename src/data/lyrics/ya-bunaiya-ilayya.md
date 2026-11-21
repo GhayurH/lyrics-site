@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Dur darya hai laashe pare haiṅ
   Abhi zaalim wahaaṅ par khare haiṅ
-  Tum ko bhi qatl kar deṅ na aada
+  Tum ko bhi qatl kar deṅ na aadaa
 
   3
   Tum ko hai apne ammu se ulfat
@@ -42,7 +42,7 @@ romanLyrics: |-
   Tujh se sharminda ammu hai tera
 
   6
-  Hai pare ran meiṅ talwaar o neze
+  Hai pare ran mein talwaar o neze
   Zakhm koi tumheṅ aa na jaaye
   Dekh kar aana ban hai andhera
 

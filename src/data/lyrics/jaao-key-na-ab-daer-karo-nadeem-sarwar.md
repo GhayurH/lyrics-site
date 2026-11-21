@@ -10,56 +10,56 @@ aliases: []
 published: false
 alternateTitle: "Jaao Key Na Ab Daer Karo Nadeem Sarwar"
 romanLyrics: |-
-  Qafila lut gaya amma mera lashkar na raha
-  Amma nana ki nishani Ali Akbar na raha
-  Reh gaya dard-e-kamar haye baradar na raha
+  Qaafila lut gaya ammaaṅ mera lashkar na raha
+  Ammaaṅ nana ki nishani Ali Akbar na raha
+  Reh gaya dard-e-kamar haaye baradar na raha
   Ab khabar aap ne li ghar ki ke jab ghar na raha
-  Aur ab dam-e-zibh ye pure mere armaaṅ karna
+  Ab dam-e-zibh ye pure mere armaaṅ karna
   Arsh ke niche na baaloṅ ko pareshaṅ karna
-  Jao ke na ab der karo dekho na amma
+  Jaao ke na ab der karo dekho na ammaaṅ
   Ab laal tera zin pe hai aur na zamiṅ par
 
   1
-  Aap aayi haiṅ amma maiṅ salaami ko na utha
-  Hai dard kaleje meiṅ jo uthne nahi deta
-  Hasrat thi tere pehlu meiṅ dam mera nikalta
-  Maiṅ chain se so jata teri god meiṅ maadar
+  Aap aayi haiṅ ammaaṅ main salaami ko na utha
+  Hai dard kaleje mein jo uthne nahiṅ deta
+  Hasrat thi tere pehlu mein dam mera nikalta
+  Main chain se so jaata teri god mein maadar
 
   2
-  Kuch der meiṅ neze pe rakha hoga mera sar
+  Kuch der mein neze pe rakha hoga mera sar
   Na dekhna us waqt mujhe maadar-e-muztar
-  Chal jaega us waqt tere qalb pe khanjar
-  Ghore abhi daurenge meri laash ke upar
+  Chal jaaega us waqt tere qalb pe khanjar
+  Ghore abhi daureṅge meri laash ke upar
 
   3
-  Maiṅ subh se ta asr uthata raha laashe
-  Daaman meiṅ chune Qasim-e-naushah ke tukre
-  Lipta Ali Akbar ka kaleja tha sina se
-  Amma mere chehre pe hai khun-e-Ali Asghar
+  Main subh se ta asr uthata raha laashe
+  Daaman mein chune Qasim-e-naushah ke tukre
+  Lipta Ali Akbar ka kaleja tha sanaaṅ se
+  Ammaaṅ mere chehre pe hai khun-e-Ali Asghar
 
   4
-  Kis haal meiṅ amma hai teri god ka paala
-  Maqtal meiṅ mera kho gaya har ek ujala
-  Hai kaun Sakina ko meri puchhne wala
+  Kis haal mein ammaaṅ hai teri god ka paala
+  Maqtal mein mera kho gaya har ek ujaala
+  Hai kaun Sakina ko meri puchhne waala
   Soegi mere sine pe kaise meri dukhtar
 
   5
-  Dekho to qayamat hai bapa ahl-e-haram meiṅ
-  Khaime se nikal aayi hai Zainab mere gham meiṅ
-  Ab aane ko haiṅ bibiyaaṅ baahar koi dam meiṅ
-  Samjhao unheiṅ amma raheiṅ khaime ke andar
+  Dekho to qayamat hai bapa ahl-e-haram mein
+  Khaime se nikal aayi hai Zainab mere gham mein
+  Ab aane ko haiṅ bibiyaaṅ baahar koi dam mein
+  Samjhaao unheṅ ammaaṅ raheṅ khaime ke andar
 
   6
   Lo saans ukharne lagi dil dub raha hai
-  Nazroṅ meiṅ meri Zainab-e-muztar ki rida hai
-  Abid se thi ummid so wo ghash meiṅ para hai
+  Nazroṅ mein meri Zainab-e-muztar ki rida hai
+  Abid se thi ummid so wo ghash mein para hai
   Kya hoga mere baad Sakina ka muqaddar
 
   7
   Ae Sarwar o Rehan bayaaṅ kaise ho manzar
-  Sheh kehte the amma ye kara waqt hai mujh par
-  Kis tarha kaleje se laguṅ aap ke uth kar
-  Chumunga qadam aap ke ab maiṅ lab-e-kausar
+  Sheh kehte the ammaaṅ ye kara waqt hai mujh par
+  Kis tarah kaleje se laguṅ aap ke uth kar
+  Chumuṅ ga qadam aap ke ab main lab-e-kausar
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 قافلہ لُٹ گیا اماں میرا لشکر نہ رہا

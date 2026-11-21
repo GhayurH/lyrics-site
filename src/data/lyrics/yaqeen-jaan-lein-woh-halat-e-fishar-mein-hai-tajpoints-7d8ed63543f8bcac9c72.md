@@ -1,38 +1,66 @@
 ---
-title: "Yaqeen Jaan Lein Woh Halat-e-Fishar Mein Hai"
+title: "یقین جان لیں وہ حالتِ فشار میں ہے"
+alternateTitle: "Yaqeen Jaan Lein Woh Halat-e-Fishar Mein Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yaqeen jaan lein woh halat-e-fishar mein hai
+  Bagair hub-e-Ali dafan jo mazar mein hai
+
+  1
+  Kahan woh roab kissi ghair ki talwar mein hai
+  Jo roab jang mein Haider ki Zulfiqar mein hai
+  Faqat hadaf hai keh pani ko laein khaimo mein
+  Kahan ghazi abhi maidan-e-karzar mein hai
+
+  2
+  Khuda ko ja ke bool karta hai kyun zikar-e-Ali
+  Quran-e-Pak kahan mere ikhtiyar mein hai
+  Kharab hoti hai jaldi tabiyat-e-waiz
+  Na jane kaisa asar mere beshumar mein hai
+
+  3
+  Kaha yeh hanpte kufar ne bhagte howay
+  Tumhara shaikh aaj barq si raftar mein hai
+  Mite ga kaise azadar bomb dhamakon se
+  Woh Fatima ki duaon ke inehisar mein hai
+
+  4
+  Alam ko thame jo chalta hai sabhi se aagay
+  Shumar lashkar-e-Abbas-e-Alamdar mein hai
+  Alam ke saye mein mango aye Yousufi tum bhi
+  Dua-e-Aal-e-Nabi tere intezar mein hai
 ---
 
-Yaqeen Jaan Lein Woh Halat-e-Fishar Mein Hai.
-Bagair Hub-e-Ali Dafan Jo Mazar Mein Hai.
+یقین جان لیں وہ حالتِ فشار میں ہے
+بغیر حبِ علی دفن جو مزار میں ہے
 
-1
-Kahan Woh Roab Kissi Ghair Ki Talwar Mein Hai.
-Jo Roab Jang Mein Haider Ki Zulfiqar Mein Hai.
-Faqat Hadaf Hai Keh Pani Ko Laein Khaimo Mein.
-Kahan Ghazi Abhi Maidan-e-Karzar Mein Hai.
+۱
+کہاں وہ رعب کسی غیر کی تلوار میں ہے
+جو رعب جنگ میں حیدر کی ذوالفقار میں ہے
+فقط ہدف ہے کہ پانی کو لائیں خیموں میں
+کہاں غازی ابھی میدانِ کارزار میں ہے
 
-2
-Khuda Ko Ja Ke Bool Karta Hai Kyun Zikar-e-Ali.
-Quran-e-Pak Kahan Mere Ikhtiyar Mein Hai.
-Kharab Hoti Hai Jaldi Tabiyat-e-Waiz.
-Na Jane Kaisa Asar Mere Beshumar Mein Hai.
+۲
+خدا کو جا کے بول کرتا ہے کیوں ذکرِ علی
+قرآنِ پاک کہاں میرے اختیار میں ہے
+خراب ہوتی ہے جلدی طبیعتِ واعظ
+نہ جانے کیسا اثر میرے بے شمار میں ہے
 
-3
-Kaha Yeh Hanpte Kufar Ne Bhagte Howay.
-Tumhara Shaikh Aaj Barq Si Raftar Mein Hai.
-Mite Ga Kaise Azadar Bomb Dhamakon Se.
-Woh Fatima Ki Duaon Ke Inehisar Mein Hai.
+۳
+کہا یہ ہانپتے کفار نے بھاگتے ہوئے
+تمہارا شیخ آج برق سی رفتار میں ہے
+مٹے گا کیسے عزادار بم دھماکوں سے
+وہ فاطمہ کی دعاؤں کے انحصار میں ہے
 
-4
-Alam Ko Thame Jo Chalta Hai Sabhi Se Aagay.
-Shumar Lashkar-e-Abbas-e-Alamdar Mein Hai.
-Alam Ke Saye Mein Mango Aye Yousufi Tum Bhi.
-Dua-e-Aal-e-Nabi Tere Intezar Mein Hai.
+۴
+علم کو تھامے جو چلتا ہے سبھی سے آگے
+شمار لشکرِ عباسِ علمدار میں ہے
+علم کے سائے میں مانگو اے یوسفی تم بھی
+دعائے آلِ نبی تیرے انتظار میں ہے

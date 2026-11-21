@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Ya Ali keh ke sinaaṅ khinch to li sine se
   Ae payambar zaade
-  Khuṅ rulwaaega lakht-e-dil-e-Umm-e-Laila
+  Khuṅ rulwaae ga lakht-e-dil-e-Umm-e-Laila
   Ya Aba Abdillah
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   Ya Aba Abdillah
 
   4
-  Arsh hilta hai fiza meiṅ hai tamaachoṅ ki sada
+  Arsh hilta hai fiza meiṅ hai tamaanchoṅ ki sada
   Aasmaaṅ kiuṅ na gira
   Ek maasum ko milti hai yatimi ki saza
   Ya Aba Abdillah
@@ -45,12 +45,12 @@ romanLyrics: |-
 
   6
   Sadma-e-bewagi Faatima Kubra nahiṅ kam
-  Ban-e-Qaasim ki qasam
+  Bin-e-Qaasim ki qasam
   Ek yeh daagh bhi Aashure ke din tu ne saha
   Ya Aba Abdillah
 
   7
-  Dafn ke baad bhi qabroṅ ko lain khodte haiṅ
+  Dafn ke baad bhi qabroṅ ko la'in khodte haiṅ
   Aur sar kaatte haiṅ
   Farq-e-beshir hai Shahid sar-e-nok-e-naiza
   Ya Aba Abdillah

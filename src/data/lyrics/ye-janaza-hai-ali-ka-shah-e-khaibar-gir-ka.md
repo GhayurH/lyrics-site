@@ -8,71 +8,75 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ye janaza hay Ali ka
-
-  Ye janaza hay Ali ka shahe khaibar geer ka
-  Aaj baba mar gaya hay Shabbar o Shabbir ka
+romanLyrics: |-
+  Ye janaaza hai Ali ka shaah-e-Khaibar gir ka
+  Aaj baaba mar gaya hai Shabbar o Shabbir ka
 
   1
-  Fatema Zehra ke marqad se sada aanay lagi
-  Haey sada aanay lagi
-  Ye masaeb reh gaya tha kya meri taqdeer ka
+  Kiuṅ chalaai taigh Haidar par Bin Muljam bata
+  Ae Bin Muljam bata
+  Qatl Quraaṅ kar diya kaata gala tafsir ka
 
   2
-  Ya Rasool Allah ye Jibreel ne ro kar kaha
-  Haey ye ro kar kaha
-  Aik halqa aur toota noor ki zanjeer ka
+  Faatema Zahra ke marqad se sadaa aane lagi
+  Haaye sadaa aane lagi
+  Ye masaaib reh gaya tha kya meri taqdir ka
 
   3
-  Kyun chalayi taigh Haider par bine muljim bata
-  Aey bine muljim bata
-  Qatl Quran kar diya kaata gala tafseer ka
+  Ya Rasul Allah ye Jibril ne ro kar kaha
+  Haaye ye ro kar kaha
+  Ek halqa aur tuta nur ki zanjir ka
 
   4
-  Gham Ali ki betiyo ke phir se taaza ho gaye
+  Gham Ali ki betiyoṅ ke phir se taaza ho gaye
   Haaye taaza ho gaye
-  Gham abhi bhooli kahan theen maadare dilgeer ka
+  Gham abhi bhuli kahaaṅ thiṅ maadar-e-dilgir ka
 
   5
-  Nazaa me jaane Ali ko kya khayal aata raha
-  Haey khayal aata raha
-  Muh kabhi Zainab ka dekha aur kabhi Shabbir ka
+  Nazaa mein jaane Ali ko kya khayaal aata raha
+  Haaye khayaal aata raha
+  Muṅh kabhi Zainab ka dekha aur kabhi Shabbir ka
 
   6
-  Betiyo ko dekhtay hain aur rotay hain Ali
-  Haey rotay hain Ali
-  Haey woh zaalim tasawwur Shaam ki tashheer ka
+  Betiyoṅ ko dekhte haiṅ aur rote haiṅ Ali
+  Haaye rote haiṅ Ali
+  Haaye woh zaalim tasavvur Shaam ki tashhir ka
 
   7
-  Chote se Abbas bhi rote hay sar ko peet kar
-  Haey sar ko peet kar
-  Bachpana Abbas ka aur zakhm dil par teer ka
+  Chhote se Abbaas bhi rote haiṅ sar ko pit kar
+  Haaye sar ko pit kar
+  Bachpana Abbaas ka aur zakhm dil pe tir ka
 
   8
-  Baap ki mayyat se zainab ka lipatna baar baar
-  Haye lipatna baar baar
-  Dil hila deta tha rona shah ki hamsheer ka
-  Khoon rulata tha tasavvur Shaam ki tashhir ka
+  Sajda-e-Khaaliq mein sar par chal gayi taigh-e-sitam
+  Haaye woh taigh-e-sitam
+  Kar gaya hai surkhru Haidar ko phal shamshir ka
 
   9
-  Thapkiyan dete rahe Hazrat kabhi Abbas ko
-  Haey kabhi Abbas ko
-  Aur bazu choom-te thay chand si tasveer ka
+  Thapkiyaaṅ dete rahe Hazrat kabhi Abbaas ko
+  Haaye kabhi Abbaas ko
+  Aur baazu chumte the chaand ki tasvir ka
 
   10
-  Masjide kufa me zarbat haey sajde me lagi
-  Haey sajde me lagi
-  Qatl Kaaba ho gaya ye nala hay Jibreel ka
+  Baap ki mayyat se Zainab ka lipatna baar baar
+  Haaye lipatna baar baar
+  Khuṅ rulaata tha tasavvur Shaam ki tashhir ka
+  Dil hila deta tha rona shaah ki hamshir ka
 
   11
-  Rote thay jiske liye wo sab ka tha mushkil kusha
-  Haey tha mushkil kusha
-  Haey Sakina ka tha dada baba tha Shabbir ka
+  Masjid-e-Kufa mein zarbat haaye sajde mein lagi
+  Haaye sajde mein lagi
+  Qatl-e-Kaaba ho gaya ye naala tha Jibril ka
 
   12
-  Mach gaya kohram ghar me haey qayamat aa gayi
-  Haey qayamat aa gayi
-  Kehtay hain bacchay Ali ke kya gazab ye ho gaya'
+  Rote the jis ke liye woh sab ka tha mushkil kusha
+  Haaye tha mushkil kusha
+  Haaye Sakina ka tha daada, baaba tha Shabbir ka
+
+  13
+  Mach gaya kohraam ghar mein haaye qayaamat aa gayi
+  Haaye qayaamat aa gayi
+  Kehte haiṅ bachche Ali ke kya ghazab ye ho gaya
 ---
 
 یہ جنازہ ہے علیؑ کا شاہ خیبر گیر کا

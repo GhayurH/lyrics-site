@@ -1,29 +1,50 @@
 ---
-title: "Nanay De Rozay Te Ja Ke Sughra Arzaan Kardi Aye Lyrics Punjabi 2026 Bibi Sughra Noha MSO Party Silkot"
+title: "نانے دے روضے تے جا کے صغریٰ عرضاں کردی اے"
+alternateTitle: "Nanay De Rozay Te Ja Ke Sughra Arzaan Kardi Aye"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nanay de rozay te ja ke Sughra arzaan kardi aye
+  Mainu veer mila Nana Saein payi ro ro hawaan bhardi aye
+
+  1
+  Lafzaan wich kaj athro rakh ke paij dittay ne main Akbar nu
+  Khat wich khul ke aye nayi likhiya kis dukh taun bhain guzardi aye
+
+  2
+  Takiya aye ik khuwab drona Nana mainu bhul gaya sona
+  Main takiyaan meri phophiyaan de walaan te khak safar di aye
+  Ruk ruk jawan meriyaan sahwaan bhul gayiyaan aj Akbar diyaan rahwaan
+  Lagda aye safar de wich Akbar denda aazan fajar di aye
+
+  3
+  Tur gaya teri sorat wala reh gayi si hum shakal-e-Zahra
+  Lailatul Qadar de ghar kaisi aye aayi raat Qadar di aye
+  Akbar pehla din wichran da ainj Bibi Sughra layi hoya
+  Jiwein hashar de din aye pehla din te pehli raat qabar di aye
 ---
 
-1
-Nanay De Rozay Te Ja Ke Sughra Arzaan Kardi Aye.
-Mainu Veer Mila Nana Saein Payi Ro Ro Hawaan Bhardi Aye.
-1- Lafzaan Wich Kaj Athro Rakh Ke Paij Dittay Ne Main Akbar Nu.
-Khat Wich Khul Ke Aye Nayi Likhiya Kis Dukh Taun Bhain Guzardi Aye.
+نانے دے روضے تے جا کے صغریٰ عرضاں کردی اے
+مینوں ویر ملا نانا سائیں پئی رو رو ہاواں بھردی اے
 
-2
-2- Takiya Aye Ik Khuwab Drona Nana Mainu Bhul Gaya Sona.
-Main Takiyaan Meri Phophiyaan De Walaan Te Khak Safar Di Aye.
-3- Ruk Ruk Jawan Meriyaan Sahwaan Bhul Gayiyaan Aj Akbar Diyaan Rahwaan.
-Lagda Aye Safar De Wich Akbar Denda Aazan Fajar Di Aye.
+۱
+لفظاں وچ کجھ اتھرو رکھ کے پیج دتے نے میں اکبر نوں
+خط وچ کھل کے اے نئیں لکھیا کس دکھ توں بھین گزاردی اے
 
-3
-4- Tur Gaya Teri Sorat Wala Reh Gayi Si Hum Shakal-e-Zahra.
-Lailatul Qadar De Ghar Kaisi Aye Aayi Raat Qadar Di Aye.
-5- Akbar Pehla Din Wichran Da Ainj Bibi Sughra Layi Hoya.
-Jiwein Hashar De Din Aye Pehla Din Te Pehli Raat Qabar Di Aye.
+۲
+تکیا اے اک خواب ڈرونا نانا مینوں بھل گیا سونا
+میں تکیاں میری پھپھیاں دے والاں تے خاک سفر دی اے
+رک رک جاون میریاں ساہواں بھل گئیاں اج اکبر دیاں راہواں
+لگدا اے سفر دے وچ اکبر دیندا اذان فجر دی اے
+
+۳
+ٹر گیا تیری صورت والا رہ گئی سی ہم شکلِ زہرا
+لیلۃ القدر دے گھر کیسی اے آئی رات قدر دی اے
+اکبر پہلا دن وچھڑن دا اینج بیبی صغریٰ لئی ہویا
+جیویں حشر دے دن اے پہلا دن تے پہلی رات قبر دی اے

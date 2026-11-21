@@ -26,7 +26,7 @@ romanLyrics: |-
   Aayi hai tum se milne Sakina kahaaṅ ho tum
   Aawaaz do ke kuchh nahiṅ dikhta kahaaṅ ho tum
   Beti ke bain sun ke wo Baba ne ki fughaaṅ
-  Besar ki laash ne kaha beti huṅ maiṅ yahaaṅ
+  Be sar ki laash ne kaha beti huṅ main yahaaṅ
 
   3
   Beti ne apne Baba ki aawaaz jab suni
@@ -34,15 +34,15 @@ romanLyrics: |-
   Rote hue Husain ke laashe pe gir gayi
   Baba ki zakhmi laash se beti lipat gayi
   Faryaad ki ke jal gaya kurta tumhaare baad
-  Mar jaayegi tumhaari Sakina tumhaare baad
+  Mar jaaye gi tumhaari Sakina tumhaare baad
 
   4
   Baba zamiṅ surkh hai aur surkh aasmaaṅ
   Zaalim ne mere kaanoṅ se chhini haiṅ baaliyaaṅ
-  Dekhoṅ na mere kaanoṅ se ab tak hai khun rawaaṅ
+  Dekhuṅ na mere kaanoṅ se ab tak hai khun rawaaṅ
   Asghar bhi qatl ho gaya tanha hui hai maaṅ
-  Baba bataao mujh ko ke maiṅ kya karuṅgi ab
-  Is kamsini meiṅ tanha maiṅ kaise rahuṅgi ab
+  Baba bataao mujh ko ke main kya karuṅ gi ab
+  Is kamsini meiṅ tanha main kaise rahuṅ gi ab
 
   5
   Maqtal meiṅ Baba laashe haiṅ bikhre pare hue
@@ -55,13 +55,13 @@ romanLyrics: |-
   6
   Akbar kahaaṅ hai Baba bataao na tum mujhe
   Laasha kahaaṅ hai us ka bataao na tum mujhe
-  Puchhegi mujh se Sughra bataao na tum mujhe
+  Puchhe gi mujh se Sughra bataao na tum mujhe
   Kaise gaya wo maara bataao na tum mujhe
-  Dhunduṅgi us ko kaise maiṅ laashoṅ ke darmiyaaṅ
-  Maiṅ ne suna hai sine meiṅ us ke lagi sinaaṅ
+  Dhunduṅ gi us ko kaise main laashoṅ ke darmiyaaṅ
+  Main ne suna hai sine meiṅ us ke lagi sinaaṅ
 
   7
-  Baba bataao na mera bhaiya kahaaṅ gaya
+  Baba bataao na mera bhayya kahaaṅ gaya
   Mera gharib ghutniyoṅ waala kahaaṅ gaya
   Baba wo tin roz ka pyaasa kahaaṅ gaya
   Zaalim ne jis ko tiroṅ se maara kahaaṅ gaya
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   8
   Mashkiza mujh se le ke gaye the mere chacha
-  Mujh se kaha tha darya se paani maiṅ laauṅga
+  Mujh se kaha tha darya se paani main laauṅ ga
   Baba mujhe bataaiye aisa bhi kya hua
   Baba bataaeṅ kaise wo mashkiza chhid gaya
   Kis tarah un ko tir lage baazu kat gaye

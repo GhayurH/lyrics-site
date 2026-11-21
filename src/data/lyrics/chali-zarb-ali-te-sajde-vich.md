@@ -11,26 +11,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Chali Zarb Ali Te Sajday Wich Karo Masjid Wich Ayelan Aye
-  Zainab, Kulsoom De Ujran Di Diyo Har Pasay Azan Aye
+  Chali zarb Ali te sajde vich karo masjid vich ailaan ae
+  Zainab, Kulsoom de ujran di diyo har paase azaan ae
 
   1
-  Oh Fajar Namaz Da Wela Si Walfajar Te Hamla Hoya
-  Tauheed De Khon Ich Tar Hoya Pehla Natiq Quran Aye
-  Har Masjid De Wich Jan Diyo Taboot Ali Da Loko
-  Assi Pursa Dewan Aaye Aan Sadhi Rah Takda Rehman Aye
+  Oh fajr namaaz da vela si Walfajr te hamla hoya
+  Tauhid de khun ich tar hoya pehla naatiq Quran ae
+  Har masjid de vich jaan diyo taabut Ali da loko
+  Asi pursa devan aaye aaṅ saadhi raah takda Rahmaan ae
 
   2
-  Assi Khol Ke Dar Har Bargah Da Rah Sogwaran Da Takiye
-  Aye Musalmano Piyo Zainab Da Tada Tin Din Layi Mehman Aye
-  Babay Da Badlah Nayi Lena Nayi Taig Chalani Ghazi
-  Ghazi Nu Rook Ke Shabar Ne Kita Kofay Te Ahsan Aye
+  Aao khol ke dar har baargaah da sab mil ke maatam kariye
+  Ae Musalmaano piyo Zainab da saada tin din lai mehmaan ae
+  Baabe da badla nai lena nai Ghazi tegh chalaani
+  Ghazi nuṅ rok ke Shabar ne kita Kufe te ehsaan ae
 
   3
-  Rayiyaan Rondiyaan Dhiyaan Babay Nu Ray Loki Eid Mananday
-  Wich Kofay Shehar Yateema Nu Koi Aaya Na Parchaan Aye
-  Saqlain Ghareebi Malkaan Di Wajhullah Khon Ich Tar Si
-  Ohno Loki Nayi Pehchan Sakay Jehra Allah Di Pehchan Aye
+  Raiyaaṅ rondiyaaṅ dhiyaaṅ Baabe nuṅ rae loki Eid manaande
+  Vich Kufe shehar yatimaaṅ nuṅ koi aaya na parchaan ae
+  Saqlain gharibi maalkaaṅ di Wajhullah khun ich tar si
+  Ohnuṅ loki nai pehchaan sake jehra Allah di pehchaan ae
 ---
 چلی ضرب علیؑ تے سجدے وچ کرو مسجد وچ اعلان اے
 زینبؑ کلثومؑ دے اجڑن دی دیو ہر پاسے آذان اے

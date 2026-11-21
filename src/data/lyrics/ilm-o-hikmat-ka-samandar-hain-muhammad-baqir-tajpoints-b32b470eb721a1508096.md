@@ -1,35 +1,60 @@
 ---
-title: "Ilm-o-Hikmat Ka Samandar Hain Muhammad Baqir"
+title: "علم و حکمت کا سمندر ہیں محمد باقر"
+alternateTitle: "Ilm-o-Hikmat Ka Samandar Hain Muhammad Baqir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ilm-o-hikmat ka samandar hain Muhammad Baqir
+  Sorat-e-saqiy-e-Kausar hain Muhammad Baqir
+  Waris-e-ayat-e-tatheer hain mula mere
+  Be badal hadi-o-rehbar hain Muhammad Baqir
+
+  2
+  Khoob ro ayse keh dunya ko zeyaein bantein
+  Noor hi noor hain anwar hain Muhammad Baqir
+  Ye fasahat mein balagat mein Ali ka partu
+  Meharbaan misal-e-paimbaer hain Muhammad Baqir
+
+  3
+  Paak Hasnain ka pakeeza laho hai inn mein
+  Unn ke ausaaf ka johar hain Muhammad Baqir
+  Dein-e-ki nashr-o-ashaat raha maqsad inn ka
+  Aqal walon ka muqadar hain Muhammad Baqir
+
+  4
+  Unn pe idrak ke khul jaien dareche sare
+  Jin ke azhaan ke andar hain Muhammad Baqir
+  Naaz karte hain muqadar pe wo apne Sahil
+  Jinn Ali walon ke sarwar hain Muhammad Baqir
 ---
 
-1
-Ilm-o-Hikmat Ka Samandar Hain Muhammad Baqir.
-Sorat-e-Saqiy-e-Kausar Hain Muhammad Baqir.
-Waris-e-Ayat-e-Tatheer Hain Mula Mere.
-Be Badal Hadi-o-Rehbar Hain Muhammad Baqir.
+۱
+علم و حکمت کا سمندر ہیں محمد باقر
+صورتِ ساقیِ کوثر ہیں محمد باقر
+وارثِ آیتِ تطہیر ہیں مولا میرے
+بے بدل ہادی و رہبر ہیں محمد باقر
 
-2
-Khoob Ro Ayse Keh Dunya Ko Zeyaein Bantein.
-Noor Hi Noor Hain Anwar Hain Muhammad Baqir.
-Ye Fasahat Mein Balagat Mein Ali Ka Partu.
-Meharbaan Misal-e-Paimbaer Hain Muhammad Baqir.
+۲
+خوب رو ایسے کہ دنیا کو ضیائیں بانٹیں
+نور ہی نور ہیں انور ہیں محمد باقر
+یہ فصاحت میں بلاغت میں علی کا پرتو
+مہرباں مثالِ پیمبر ہیں محمد باقر
 
-3
-Paak Hasnain Ka Pakeeza Laho Hai Inn Mein.
-Unn Ke Ausaaf Ka Johar Hain Muhammad Baqir.
-Dein-e-Ki Nashr-o-Ashaat Raha Maqsad Inn Ka.
-Aqal Walon Ka Muqadar Hain Muhammad Baqir.
+۳
+پاک حسنین کا پاکیزہ لہو ہے ان میں
+ان کے اوصاف کا جوہر ہیں محمد باقر
+دین کی نشر و اشاعت رہا مقصد ان کا
+عقل والوں کا مقدر ہیں محمد باقر
 
-4
-Unn Pe Idrak Ke Khul Jaien Dareche Sare.
-Jin Ke Azhaan Ke Andar Hain Muhammad Baqir.
-Naaz Karte Hain Muqadar Pe Wo Apne Sahil.
-Jinn Ali Walon Ke Sarwar Hain Muhammad Baqir.
+۴
+ان پہ ادراک کے کھل جائیں دریچے سارے
+جن کے اذہان کے اندر ہیں محمد باقر
+ناز کرتے ہیں مقدر پہ وہ اپنے ساحل
+جن علی والوں کے سرور ہیں محمد باقر

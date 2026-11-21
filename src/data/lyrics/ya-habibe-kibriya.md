@@ -18,11 +18,11 @@ romanLyrics: |-
   1
   Chal base Aun o Muhammad mere do wo nur-e-ain
   Aise aalam meiṅ bhala kiuṅ kar milega dil ko chain
-  Phir bhi maiṅ karti rahi us haal meiṅ shukr-e-Khuda
+  Phir bhi main karti rahi us haal meiṅ shukr-e-Khuda
 
   2
   Laash-e-Qaasim tukre tukre hoke bikhri khaak par
-  Kaash mujhko maut aati maiṅ na sunti ye khabar
+  Kaash mujh ko maut aati main na sunti ye khabar
   Maadar-e-Qaasim ka ab is dunya meiṅ kya reh gaya
 
   3
@@ -46,7 +46,7 @@ romanLyrics: |-
   Jaanib-e-maqtal chala hokar sawaar-e-Zuljanaah
 
   7
-  Raah-e-haq anwar Husain ibn-e-Ali sar raabedaar
+  Raah-e-haq anwar Husain ibn-e-Ali sar ra bidaar
   Dast dar dast-e-Yazid-e-behaya hargiz na daar
   Gufta Aashiq Zainab-e-muztar basad aah o buka
 ---

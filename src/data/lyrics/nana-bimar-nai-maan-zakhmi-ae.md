@@ -1,7 +1,7 @@
 ---
 title: "نانا بیمار نئیں ماں زخمی اے"
 recitationId: "nana-beemar-nai-maan-zakhmi-ae"
-alternateTitle: "Nana Bimar Nai Maaṅ Zakhmi Ae"
+alternateTitle: "Nana Bimar Naiṅ Maaṅ Zakhmi Ae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,66 +11,66 @@ aliases:
   - "Nana Beemar Nai Maan Zakhmi Ae"
 published: true
 romanLyrics: |-
-  Nana Di Qabar Te Kehnde Rae
-  Ro Ro Ke Hasan Husain
-  Tur Chali Ae Nana Dunya Tuṅ
-  Teri Dhi Tere Dil Da Chain
-  Atuṅ Apne Zulm Chupaon Layi Darbari Aehon Kehan
-  Bimar Taiyuṅ Kardi Ae Dhi Paak Nabi Di Ven
+  Nane di qabar te kehnde rae
+  Ro ro ke Hasan Husain
+  Tur chali ae Nana duniya toṅ
+  Teri dhi tere dil da chain
+  Attoṅ apne zulm chhupaon lai darbari eho kehan
+  Bimar taaiyuṅ kardi ae dhi paak Nabi di ven
 
-  Nana Bimar Nai Maaṅ Zakhmi Ae
-  Jis Roz Tuṅ Buha Dugya Ae
-  Hath Paase Te Rakh Ke
-  Bas Rondi Rehndi Ae
+  Nana bimar naiṅ maaṅ zakhmi ae
+  Jis roz tuṅ buha digya ae
+  Hath paase te rakh ke
+  Bas rondi rehndi ae
 
   1
-  Zainab Diyaṅ Banwaṅ Te Umri
-  De De Ke Bose Aakhe
-  Ae Si Darbar Madine Da
-  U Sham Ae Zainab
-  Teri Peshi Ukhi Ae
+  Zainab diyaaṅ baanwaaṅ te amri
+  De de ke bose aakhe
+  Ae si darbar Madine da
+  O Shaam ae Zainab
+  Teri peshi okhi ae
 
   2
-  Ki Haal Dasa Tuṅ Janda Aen
-  Darwaze Heath Si Umri
-  Bas Ae Das Daaṅ Teri Ummat
-  Darwaze Tuṅ Nana
-  Turdi Hui Guzri Ae
+  Ki haal da saaṅ tuṅ jaanda ae
+  Darwaze heth si amri
+  Bas ae das daaṅ teri ummat
+  Darwaze toṅ Nana
+  Turdi hui guzri ae
 
   3
-  Raataṅ Di Khamoshi De Ander
-  Jiveṅ Gunjan Azanaaṅ
-  Udhi Pasliyaṅ De Do Howan Di
-  Awaaz Vi Nana
-  Yasrab Vich Gunji Ae
+  Raataaṅ di khamoshi de andar
+  Jiveṅ gunjan azaanaaṅ
+  Odi pasliyaaṅ de do hovan di
+  Aawaaz vi Nana
+  Yasrab vich gunji ae
 
   4
-  Ae Ven Si Mere Babe Da
-  Haye Kaash Ali Mar Janda
-  Umri Nal Hui Gustakhi
-  Tere Vir Ali Ne
-  Ankhiyaṅ Nal Wekhi Ae
+  Ae ven si mere baabe da
+  Haaye kaash Ali mar jaanda
+  Amri nal hui gustakhi
+  Tere vir Ali neṅ
+  Akhiyaaṅ nal vekhi ae
 
   5
-  Tehrir De Tukre Jis Din Di
-  Darbaroṅ Naal Liyai
-  Rab Jane Kis Taiyari Layi
-  Har Tukre Di Sitraṅ
-  Zainab Nuṅ Sunandi Ae
+  Tehrir de tukre jis din di
+  Darbaroṅ naal liaai
+  Rab jaane kis taiyari lai
+  Har tukre di satraaṅ
+  Zainab nuṅ sunaandi ae
 
   6
-  Jaduṅ Putar De Samne Umri De
-  Chehre Te Aya Nil Ae
-  Is Roz Tuṅ Izzataṅ Wali Maaṅ
-  Mere Vir Hasan De
-  Nai Samne Aandi Ae
+  Jadoṅ putar de saamne amri de
+  Chehre te aaya nil ae
+  Is roz toṅ izzataaṅ wali maaṅ
+  Mere vir Hasan de
+  Naiṅ saamne aandi ae
 
   7
-  Akbar Shabbir Ne Ven Kita
-  Yaqub Vi Khun Si Roya
-  Jinaṅ Yousuf Layi U Roya Si
-  Maaṅ Roz Hi Ohnaṅ
-  Mohsin Layi Rondi Ae
+  Akbar Shabbir ne ven kita
+  Yaqub vi khun si roya
+  Jinaaṅ Yusuf lai o roya si
+  Maaṅ roz hi ohnaaṅ
+  Mohsin lai rondi ae
 ---
 
 نانے دی قبر تے کہندے رئے

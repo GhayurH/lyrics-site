@@ -8,6 +8,115 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jaan alamdaar alamdaar alamdaar
+  Sher aaraam kare jab to asad hota hai
+
+  1
+  Soche hamle ka to zarghaam kaha jaata hai
+  Hota zaigham hai banaata hai woh jab mansuba
+  Jab nazar gaare ghazanfar jo daboche Hamza
+  Rok de saaṅs
+  Rok de saaṅs hadaf ki to hai Abbaas magar
+  Kar de do tukre shikaar apna to
+  Haidar Haidar Haidar Haidar Haidar
+  Abbaas-e-alamdaar Abbaas-e-alamdaar
+  Abbaas-e-alamdaar Abbaas-e-alamdaar
+  Abbaas-e-alamdaar Abbaas-e-alamdaar
+  Abbaas-e-alamdaar Abbaas-e-alamdaar
+  Hazrat-e-Abbaas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
+  Abbaas hai baawafa
+  Abbaas hai la fath
+  Jaise Ali Haidar-e-karraar, alamdaar
+  Abbaas-e-alamdaar Abbaas-e, alamdaar
+  Aisa na saalaar dubaara hua
+  Aisa na sardaar dubaara hua
+  Aise jari Shaah ke lashkar mein the
+  Aisa na jarraar dubaara hua
+  Alamdaar
+  Maidaaṅ mein jama raha aada mein data raha
+  Dekha na aisa koi ji daar
+  Alamdaar
+  Abbaas-e-alamdaar Abbaas-e-alamdaar
+  Abbaas-e-alamdaar Abbaas-e-alamdaar
+  Hazrat-e-Abbaas-e-alamdaar, alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
+  Alamdaar baawafa alamdaar
+  Alamdaar-e-Karbala alamdaar
+  Hazrat-e-Abbaas alaihis salaam
+  Jitna bara naam hai waisa hi kaam
+  Utna buland aap ka Maula muqaam
+  Aap ke mashkur haiṅ saare imaam
+  Alamdaar
+  Dil dil mein basa hua
+  Ghar ghar mein saja hua
+  Paak alam aur alamdaar
+  Alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Hazrat-e-Abbaas alamdaar, alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
+  Abbaas hai baawafa
+  Abbaas hai la fata
+  Jaise Ali Haidar-e-karraar
+  Abbaas alamdaar Abbaas alamdaar
+  Aisa jari sher hai sher-e-Ali
+  Sher bhi sher se darte haiṅ ji
+  Jis ko zarurat nahiṅ talwaar ki
+  Ghaiz ki kaafi hai nazar ek hi
+  Alamdaar
+  Laakhoṅ se ruka nahiṅ
+  Faujoṅ se daba nahiṅ
+  Naam hai Abbaas khabardaar
+  Alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Hazrat-e-Abbaas alamdaar, alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
+  Alamdaar-e-baawafa alamdaar
+  Alamdaar-e-Karbala alamdaar
+  Jang ki khaatir to na Ghaazi gaya
+  Us ka to dil mashk-e-Sakina mein tha
+  Pyaas pe Saadaat ki qurbaaṅ hua
+  Warna ye nau laakh ka lashkar tha kya
+  Paani jo na la saka darya pe hi so gaya
+  Pyaasi Sakina ka woh ghamkhwaar
+  Alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Hazrat-e-Abbaas alamdaar, alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
+  Abbaas hai baawafa
+  Abbaas hai la fata
+  Jaise Ali Haidar-e-karraar
+  Alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Parcham-e-Abbaas pe aaya karo
+  Saaye mein is ke sada baitha karo
+  Chaahte ho gar dua manzur ho
+  Noha Sakina ka sunaaya karo
+  Alamdaar
+  Parcham si jure raho Ghaazi se wafa karo
+  Mil ke kaho saare azaadaar
+  Alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Hazrat-e-Abbaas alamdaar, alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
+  Alamdaar-e-baawafa alamdaar
+  Alamdaar-e-Karbala alamdaar
+  Jab hua Shabbir se Ghaazi juda
+  Khaima-e-Saadaat mein kuhraam tha
+  Zainab o Kulsum ki gunji sada
+  Haaye re Abbaas mera na raha
+  Ham sab pe fida hua Ghaazi ab nahiṅ raha
+  Aal-e-Muhammad ka madadgaar
+  Alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Abbaas alamdaar Abbaas alamdaar
+  Hazrat-e-Abbaas alamdaar, alamdaar
+  Lashkar-e-Shabbir ka saalaar, alamdaar
 ---
 
 جان علمدار علمدار علمدار

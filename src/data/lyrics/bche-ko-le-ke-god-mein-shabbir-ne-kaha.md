@@ -7,6 +7,61 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bachche ko le ke god mein Shabbir ne kaha
+  Ab mere saath jaae ga ran mein ye mah laqa
+
+  1
+  Shaayad sabil nikle koi paani ki zara
+  Mumkin hua to main ise paani pilaauṅ ga
+
+  2
+  Ummat ko bakhshwaane ka saamaaṅ liye hue
+  Maidaaṅ mein aae rahl par Qur'aaṅ liye hue
+  -
+  Bole ye fauj-e-Shaam se ae fauj-e-ashqiyaa
+  Fart-e-atash se marta hai ye mera laadla
+
+  3
+  Gar tum hamaare darpe-e-aazaar ho to kya
+  Bachche ka kya qusur hai batlaao tum zara
+
+  4
+  Kis jurm par ye paani se mahrum hota hai
+  Bachcha har ek din mein maasum hota hai
+  -
+  Is baat ke jawaab mein phenka gaya tha tir
+  Wo tin bhaal ka tha wo paik-e-qaza ka tir
+
+  5
+  Wo tifl-e-shir khwaar ke qad se bara tha tir
+  Halq-e-Saghir o baazu-e-Shah par laga tha tir
+
+  6
+  Baazu pe apne rok na lete jo tir ko
+  Ur jaata saath le ke wo laash-e-Saghir ko
+  -
+  Rukhsat hua jo hichkiyaaṅ le ke wo maah ru
+  Munh par mala Husain ne beshir ka lahu
+
+  7
+  Dekha ajib yaas se maqtal mein chaar su
+  Bachche ko dafn karne chale Shaah-e-nek khu
+
+  8
+  Dekha na tha sitam ko kabhi aise rang mein
+  Bachche bhi dafn hote haiṅ maidaan-e-jang mein
+  -
+  Asghar ne jang jit ke ye jang khatm ki
+  Thi waqt-e-asr sajda-e-Shabbir ki kami
+
+  9
+  Sajda ada hua to gale par chhuri chali
+  Khaime jale basi hui sarkaar lut gai
+
+  10
+  Ahl-e-haram ke dil mein naya zakhm par gaya
+  Ik dopahar mein jin ka bhara ghar ujar gaya
 ---
 
 بچّے کو لے کے گود میں شبیرؑ نے کہا

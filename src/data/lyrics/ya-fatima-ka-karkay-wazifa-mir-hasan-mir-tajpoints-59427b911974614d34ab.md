@@ -1,34 +1,56 @@
 ---
-title: "Ya Fatima Ka Karkay Wazifa Mir Hasan Mir"
+title: "یا فاطمہ کا کر کے وظیفہ میر حسن میر"
+alternateTitle: "Ya Fatima Ka Karkay Wazifa Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ya Fatima ka kar ke wazeefa abhi abhi
+  Chaho tu kar lo murday ko zindah abhi abhi
+  Bolay Rasool ab koi rishta na mangna
+  Dar par Ali ke utra hai Zohra abhi abhi
+  Kar ke tawaf midhat-e-Zahra ki baiyat ka
+  Alhaaj ho gaya mera khama abhi abhi
+  Bibi ko le ke gaud mein rehmat ne di sada
+  Nazil howa hai Qadar ka sorah abhi abhi
+  Dohra rahi hain Sorah-e-Washams Fatima
+  Pora howa hai Ghazi ka kurta abhi abhi
+  Zahra ne rizq bant diya kainat ko
+  Chakar howa hai chakki ka pora abhi abhi
+  Hozay mein anbiya ke hai sallay Alla ka shoor
+  Sheh se mila hai Hur ko amama abhi abhi
+  Zahra se bolay Fatah e Khaybar yeh khuld mein
+  Zainab ulat ke aayi hai Kofa abhi abhi
+  Chodah so saal baad bhi taza hai woh nishaan
+  Jaisay hansa ho Khana e Kaba abhi abhi
+  Honi hai soz khuwani Takallum bahisht mein
+  Ustad (Sibt e Jafar Zaidi) le ke pohanchay hain basta abhi abhi
 ---
 
-1
-Ya Fatima Ka Karkay Wazifa Mir Hasan Mir.
-Ya Fatima Ka Kar Ke Wazeefa Abhi Abhi.
-Chaho Tu Kar Lo Murday Ko Zindah Abhi Abhi.
-Bolay Rasool Ab Koi Rishta Na Mangna.
-Dar Par Ali Ke Utra Hai Zohra Abhi Abhi.
-Kar Ke Tawaf Midhat-e-Zahra Ki Baiyat Ka.
-Alhaaj Ho Gaya Mera Khama Abhi Abhi.
-Bibi Ko Le Ke Gaud Mein Rehmat Ne Di Sada.
-Nazil Howa Hai Qadar Ka Sorah Abhi Abhi.
-Dohra Rahi Hain Sorah-e-Washams Fatima.
-Pora Howa Hai Ghazi Ka Kurta Abhi Abhi.
-Zahra Ne Rizq Bant Diya Kainat Ko.
-Chakar Howa Hai Chakki Ka Pora Abhi Abhi.
-Hozay Mein Anbiya Ke Hai Sallay Alla Ka Shoor.
-Sheh Se Mila Hai Hur Ko Amama Abhi Abhi.
-Zahra Se Bolay Fatah e Khaybar Yeh Khuld Mein.
-Zainab Ulat Ke Aayi Hai Kofa Abhi Abhi.
-Chodah So Saal Baad Bhi Taza Hai Woh Nishaan.
-Jaisay Hansa Ho Khana e Kaba Abhi Abhi.
-Honi Hai Soz Khuwani Takallum Bahisht Mein.
-Ustad (Sibt e Jafar Zaidi) Le Ke Pohanchay Hain Basta Abhi Abhi.
+۱
+یا فاطمہ کا کر کے وظیفہ ابھی ابھی
+چاہو تو کر لو مردے کو زندہ ابھی ابھی
+بولے رسول اب کوئی رشتہ نہ مانگنا
+در پر علی کے اترا ہے زہرہ ابھی ابھی
+کر کے طواف مدحتِ زہرا کی بیعت کا
+الحاج ہو گیا میرا خامہ ابھی ابھی
+بی‌بی کو لے کے گود میں رحمت نے دی صدا
+نازل ہوا ہے قدر کا سورہ ابھی ابھی
+دہرا رہی ہیں سورۂ والشمس فاطمہ
+پورا ہوا ہے غازی کا کرتا ابھی ابھی
+زہرا نے رزق بانٹ دیا کائنات کو
+چکر ہوا ہے چکی کا پورا ابھی ابھی
+حوزے میں انبیا کے ہے صلِّ علیٰ کا شور
+شہ سے ملا ہے حر کو عمامہ ابھی ابھی
+زہرا سے بولے فاتحِ خیبر یہ خلد میں
+زینب الٹ کے آئی ہے کوفہ ابھی ابھی
+چودہ سو سال بعد بھی تازہ ہے وہ نشان
+جیسے ہنسا ہو خانۂ کعبہ ابھی ابھی
+ہونی ہے سوز خوانی تکلم بہشت میں
+استاد (سبطِ جعفر زیدی) لے کے پہنچے ہیں بستہ ابھی ابھی

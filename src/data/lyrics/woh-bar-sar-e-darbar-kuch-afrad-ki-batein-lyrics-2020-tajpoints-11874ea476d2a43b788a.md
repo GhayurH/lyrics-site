@@ -1,38 +1,66 @@
 ---
-title: "Woh Bar Sar E Darbar Kuch Afrad Ki Batein Lyrics 2020"
+title: "وہ بر سرِ دربار کچھ افراد کی باتیں"
+alternateTitle: "Woh Bar Sar E Darbar Kuch Afrad Ki Batein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Woh bar sar e darbar kuch afrad ki batein
+  Dam Toor gayin lashkar-o-tadad ki batein
+
+  1
+  Tha zair-e-nazar aik duaon ka saheefa
+  Pehle se nazar aane lagin baad ki batein
+  Zindan mein hoti rahi Quraan ki tilawat
+  Ajdad se jari rahein aoulad ki batein
+
+  2
+  Al-Hamd ke rad par thin yeh tainu pe tabarah
+  Kufran ki tashkaik ki alhad ki batein
+  Tab dad rasaan tha yeh saheefa tera Maula
+  Jab sunta nahi tha koi be dad ke batein
+
+  3
+  Hairat mein moarikh hain tere khutbay ko sun kar
+  Yeh qaidi ki batein hain keh aazad ki batein
+  Sajjad ka khaima tha keh taqdeer ka markaz
+  Hal jis mein hoin deen ki uftad ki batein
+
+  4
+  Kal shab mujhe tauheed sikhayi hai Khuda ne
+  Sajday mein hoin Syed-e-Sajjad ki batein
+  Zanjeer se aati hain Saloni ki sadaein
+  Akbar koi pochay abad aabad ki batein
 ---
 
-Woh Bar Sar e Darbar Kuch Afrad Ki Batein Write Up
-Dam Toor Gayin Lashkar-o-Tadad Ki Batein.
+وہ بر سرِ دربار کچھ افراد کی باتیں
+دمِ طور گئیں لشکر و تعداد کی باتیں
 
-1
-Tha Zair-e-Nazar Aik Duaon Ka Saheefa.
-Pehle Se Nazar Aane Lagin Baad Ki Batein.
-Zindan Mein Hoti Rahi Quraan Ki Tilawat.
-Ajdad Se Jari Rahein Aoulad Ki Batein.
+۱
+تھا زیرِ نظر ایک دعاؤں کا صحیفہ
+پہلے سے نظر آنے لگیں بعد کی باتیں
+زندان میں ہوتی رہی قرآن کی تلاوت
+اجداد سے جاری رہیں اولاد کی باتیں
 
-2
-Al-Hamd Ke Rad Par Thin Yeh Tainu Pe Tabarah.
-Kufran Ki Tashkaik Ki Alhad Ki Batein.
-Tab Dad Rasaan Tha Yeh Saheefa Tera Maula.
-Jab Sunta Nahi Tha Koi Be Dad Ke Batein.
+۲
+الحمد کے رد پر تھیں یہ طعنوں پہ تبرّا
+کفران کی تشکیک کی الحاد کی باتیں
+تب داد رساں تھا یہ صحیفہ تیرا مولا
+جب سنتا نہیں تھا کوئی بے داد کے باتیں
 
-3
-Hairat Mein Moarikh Hain Tere Khutbay Ko Sun Kar.
-Yeh Qaidi Ki Batein Hain Keh Aazad Ki Batein.
-Sajjad Ka Khaima Tha Keh Taqdeer Ka Markaz.
-Hal Jis Mein Hoin Deen Ki Uftad Ki Batein.
+۳
+حیرت میں مؤرخ ہیں تیرے خطبے کو سن کر
+یہ قیدی کی باتیں ہیں کہ آزاد کی باتیں
+سجاد کا خیمہ تھا کہ تقدیر کا مرکز
+حل جس میں ہوئیں دین کی افتاد کی باتیں
 
-4
-Kal Shab Mujhe Tauheed Sikhayi Hai Khuda Ne.
-Sajday Mein Hoin Syed-e-Sajjad Ki Batein.
-Zanjeer Se Aati Hain Saloni Ki Sadaein.
- Akbar Koi Pochay Abad Aabad Ki Batein.
+۴
+کل شب مجھے توحید سکھائی ہے خدا نے
+سجدے میں ہوئیں سیدِ سجاد کی باتیں
+زنجیر سے آتی ہیں سلونی کی صدائیں
+اکبر کوئی پوچھے ابد آباد کی باتیں

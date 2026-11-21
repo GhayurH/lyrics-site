@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Riwayat may hai jab bhi
-  Khafela dauraya jaata tha
-  Sar e shabbir naize se
+  Riwayat mein hai jab bhi
+  Qaafila dauraya jaata tha
+  Sar-e-Shabbir naize se
   Sada ye deta jaata tha
-  Sambhalo tum ise zainab
-  Abhi bazaar jaana hai
-  Yatimi hai sakina hai
-  Bara zaalim zamana hai
-  Layiṅ isko daraate hai
-  Kabhi durre lagate hai
-  Sitamgar tayz naaqoṅ se
-  Ise niche giraate hai
+  Sambhaalo tum ise Zainab
+  Abhi baazaar jaana hai
+  Yateemi hai Sakina hai
+  Bara zaalim zamaana hai
+  Laiṅ is ko daraate hain
+  Kabhi durre lagaate hain
+  Sitamgar tez naaqoṅ se
+  Ise niche giraate hain
   Sakina jab bhi roti hai
-  Tamache bhi lagate hai
-  Meri bachi ko ae zainab
-  Layino se bachana hai
-  Yatimi hai sakina hai...
+  Tamaanche bhi lagaate hain
+  Meri bachi ko ae Zainab
+  Lainoṅ se bachaana hai
+  Yateemi hai Sakina hai...
   Kahaṅ ye phul si bachi
   Kahaṅ seh roz ke faaqe
-  Abhi dekhe hai khud isne
+  Abhi dekhe hain khud is ne
   Chacha aur bhai ke laashe
-  Bare sadme uthaaye hai
-  Kayi raatoṅ ki jaagi hai
-  Hamare baad sine par
-  Tumhe isko sulaana hai
-  Yatimi hai sakina hai...
-  Kaleja thaam lo zainab
+  Bare sadme uthaaye hain
+  Kai raatoṅ ki jaagi hai
+  Hamaare baad sine par
+  Tumheṅ is ko sulaana hai
+  Yateemi hai Sakina hai...
+  Kaleja thaam lo Zainab
   Ye manzar khuṅ rulaata hai
-  Mera sajjad ghairat se
-  Nigahoṅ ko jhukata hai
-  Ke zaalim ab sakina ko
-  Kanizi may bulaata hai
-  Behan na-paak nazroṅ se
-  Sakina ko chupana hai
-  Yatimi hai sakina hai...
-  Yazid e nehs kehta hai
-  Meri baali sakina se
-  Agar hai pyar baba ko
-  To kehdo sar se khud aaye
-  Hai waqt e imtehaṅ zainab
+  Mera Sajjad ghairat se
+  Nigaahoṅ ko jhukaata hai
+  Ke zaalim ab Sakina ko
+  Kanizi mein bulaata hai
+  Behan napaak nazroṅ se
+  Sakina ko chhupaana hai
+  Yateemi hai Sakina hai...
+  Yazid-e-nahs kehta hai
+  Meri baali Sakina se
+  Agar hai pyaar baaba ko
+  To keh do sar se khud aaye
+  Hai waqt-e-imtihaaṅ Zainab
   Meri bachi na mar jaaye
-  Hamare sar ko khud uth kar
-  Ab uske paas jaana hai
-  Yatimi hai sakina hai...
-  Gaye qabr e sakina par
-  Jyunhi farhan aur mazhar
-  Bahot roye kiya matam
-  Jo dekha shaam ka manzar
-  Unhi logoṅ ke narghe may
+  Hamaare sar ko khud uth kar
+  Ab us ke paas jaana hai
+  Yateemi hai Sakina hai...
+  Gaye qabr-e-Sakina par
+  Juṅhi Farhan aur Mazhar
+  Bahut roye kiya maatam
+  Jo dekha Shaam ka manzar
+  Unheṅ logoṅ ke narghe mein
   Ghiri hai aaj bhi muztar
   Wohi tanhaai ab bhi hai
   Andhera qaid khaana hai
-  Yatimi hai sakina hai...
+  Yateemi hai Sakina hai...
 ---
 
 ۱

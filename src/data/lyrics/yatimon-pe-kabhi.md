@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Darakhtoṅ ke tale ghore khare ho Shaamiyoṅ ke bich
-  Safar meiṅ kiuṅ Sakina pe laiṅ saaya nahiṅ karte
+  Safar meiṅ kiuṅ Sakina pe la'iṅ saaya nahiṅ karte
 
   6
   Yatimi ki saroṅ pe khaak ho jin ke Musalmaanoṅ
   Kabhi patthar saroṅ pe un ke barsaaya nahiṅ karte
 
   7
-  Jinheṅ Maasuma bulwaaye wo aashiq Shaam jaate haiṅ
+  Jinheṅ Maasum bulwaaye wo aashiq Shaam jaate haiṅ
   Sabhi sharf-e-ziyaarat ba Khuda paaya nahiṅ karte
 ---
 یتیموں پہ کبھی لوگوں ستم ڈھایا نہیں کرتے

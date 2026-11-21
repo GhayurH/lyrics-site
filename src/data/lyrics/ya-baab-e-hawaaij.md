@@ -17,7 +17,7 @@ romanLyrics: |-
   Chhote Hazrat ke bhatije chhote shehzaade mere
   Chhote shehzaade mere Baab-e-Hawaaij Asghar
 
-  Puri kar do ye dua meri haajat ho rawa
+  Puri kar do ye dua meri haajat ho rawaa
   Khatm ho gham ka safar
   Chhote shehzaade mere Baab-e-Hawaaij Asghar
 
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   2
   Chhe Muharram ko jo utha hai tumhaara jhula
-  Muntazir rehte haiṅ us din ke liye ahl-e-aza
+  Muntazir rehte haiṅ us din ke liye ahl-e-azaa
   Maaṅgte haiṅ ye dua kar de aulaad ataa
   Mere Maula ke pisar Baab-e-Hawaaij Asghar
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   Girwi karte haiṅ yuṅ bachchoṅ ko tere jhule se
   Doriyaaṅ baaṅdh ke karte haiṅ hawaale tere
   Hai zamaanat meiṅ teri maatami bachche sabhi
-  In pe rakhiyega nazar Baab-e-Hawaaij Asghar
+  In pe rakhiye ga nazar Baab-e-Hawaaij Asghar
 
   4
   Jo jhulaati hai azaakhaanoṅ meiṅ jhula khaali
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   7
   Hausla hum ko bhi kar de wohi mushkil meiṅ ataa
-  Azm jo tu ne dikhaaya tha sar-e-Karbobala
+  Azm jo tu ne dikhaaya tha sar-e-Karb o Balaa
   Tir gardan pe laga to diye ahl-e-jafa
   Aap roye na magar Baab-e-Hawaaij Asghar
 

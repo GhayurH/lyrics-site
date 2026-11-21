@@ -24,21 +24,21 @@ romanLyrics: |-
   Sar pe chaadar hai aur na saaya hai
 
   2
-  Balwa-e-aam meiṅ khari Zainab
+  Balwa-e-aam mein khari Zainab
   De rahi hai sadaaeṅ ro ro kar
-  Meri imdaad kar mere Ghaazi
+  Meri imdaad kar mire Ghaazi
   Ab qayaamat ka waqt aaya hai
 
   3
   Beriyaṅ ro ke bain karti haiṅ
   Aa rahi haiṅ sadaaeṅ maatam ki
-  Bekhata tauq aur salaasil meiṅ
+  Bekhata tauq aur salaasil mein
   Qaid Yasrab ka shaahzaada hai
 
   4
   Koi aa kar bacha lo bachchi ko
   Mar na jaaye Husain ki beti
-  Nile rukhsaar haiṅ tamaaṅchoṅ se
+  Nile rukhsaar haiṅ tamaanchoṅ se
   Aur kaanoṅ se khun behta hai
 
   5

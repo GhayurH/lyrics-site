@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Chhoro jannat nu jaldi saare Nabi vi jaao
   Arshi te farshi mil ke baraat nu sajaao
-  Sehra bandi de wele main aap aaona ae
+  Sehra bandi de wele main aap aawna ae
 
   3
   Kulla Ali de sir te haajat rawaai waala
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Zahra de paak sir te tathir di rida ae
   Malbus Hal Ata ae naalain Innama ae
-  Horaaṅ de naal Mariyam ne sohaag gaawna ae
+  Huraaṅ de naal Mariyam ne sohaag gaawna ae
 
   5
   Yaaqub Yahya Yusuf ral ke dhamaalaaṅ paasan
@@ -42,7 +42,7 @@ romanLyrics: |-
   Ilyas te Khizar ne sharbat pilaawna ae
 
   6
-  Raah rokiya ae horaaṅ Sarkaar di gali da
+  Raah rokiya ae huraaṅ Sarkaar di gali da
   Inaam le ke chhadna ae rasta Ali Wali da
   Sab nu pata ae mauqa mur ke naiiṅ aawna ae
 

@@ -7,6 +7,39 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bara armaan ae tainuṅ kafan pawa na saki
+  Shahid-e-Karbala teri qabr bana na saki
+
+  1
+  Yatim baalaaṅ nuṅ lab lab ke main liaandi raiyaaṅ
+  Tamaam raat i Naad-e-Ali sunaandi raiyaaṅ
+  Main teri laash te taaioṅ Husain aa na saki
+
+  2
+  Tere toṅ baad la'iinaaṅ ne khaime saare ne
+  Teri Sakina nuṅ zaalim tamaanche maare ne
+  Main teri laadli nuṅ Shimr toṅ chhura na saki
+
+  3
+  Watan ch makhmali masnad te jehra bainda raiya
+  O faasiqaaṅ de bazaaraaṅ ch kore sainda raiya
+  Jidoṅ vi gir gaya Sajjad main utha na saki
+
+  4
+  Begaane des ch bhul gai main apne saare waram
+  Bhulaaya patraaṅ da sadma Husain teri qasam
+  O tera zain toṅ girna magar bhula na saki
+
+  5
+  Yazid tere labaaṅ te chhari chalaai Husain
+  Diwaar naal khari rai Batul jaai Husain
+  Main tere sar nuṅ utha ke gale laga na saki
+
+  6
+  Ae log kainde ne Shiaaṅ di sirf aadat ae
+  Tauqir maatam-e-Shabbir o di sunnat ae
+  O jehri vir de laashe te vain pa na saki
 ---
 
 ڑا اِرمان اے تینوں کفن پوا نہ سکی

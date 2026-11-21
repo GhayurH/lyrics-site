@@ -48,7 +48,7 @@ romanLyrics: |-
 
   6
   Kufe meiṅ qayaamat barpa thi
-  Hur jinn o bashar rote the sabhi
+  Hur jin o bashar rote the sabhi
   Sar pit ke kehti thi Zahra
 ---
 واویلا واویلا

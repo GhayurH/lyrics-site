@@ -33,7 +33,7 @@ romanLyrics: |-
   Karbala ke ban meiṅ tere hausle
   Har taraf se tir aur tabar chale
   Par paaoṅ dasht meiṅ jame rahe
-  Ek do pahar meiṅ ghar luta ke garm ret par
+  Ik do pahar meiṅ ghar luta ke garm ret par
   Misl-e-sher-e-kibriya jo tori zulm ki kamar
   Har ek Nabi ka hai bayaaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai
@@ -51,7 +51,7 @@ romanLyrics: |-
   4
   Aaj bhi zamaana saara dang hai
   Kiuṅ Khuda Husainiyoṅ ke sang hai
-  Qatl-e-aam ho rahe haiṅ jaa baja
+  Qatl-e-aam ho rahe haiṅ jaa bajaa
   Phir bhi majlisoṅ ka wo hi rang hai
   Aayi ghaib se sada bataauṅ tum ko aur kya
   Tum na rok paaoge ye majlisoṅ ka silsila
@@ -64,7 +64,7 @@ romanLyrics: |-
   Ek jaisi hai fiza ek jaisa hai chalan
   De rahe haiṅ jo sada ye tere khuni badan
   Karbala meri zamiṅ Karbala mera watan
-  Is watan ka shaah jahaaṅ bas mera Husain hai
+  Is watan ka shaah-e-jahaaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai
 
   6
@@ -72,7 +72,7 @@ romanLyrics: |-
   Karbala meiṅ keh raha tha la ilaah
   Kaun hai jahaaṅ meiṅ aisa surma
   Jo mujhe Yazid se bachaayega
-  Sun ke din ki sada Husain ibn-e-Sayyada
+  Sun ke din ki sada Husain ibn-e-Sayyida
   Din ko bachaayega lahu meiṅ jo nahaayega
   Tarap ke boli ek maaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai

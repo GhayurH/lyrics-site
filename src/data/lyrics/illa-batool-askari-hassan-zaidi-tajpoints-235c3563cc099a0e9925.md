@@ -1,37 +1,60 @@
 ---
-title: "ILLA BATOOL Askari Hassan Zaidi"
+title: "اِلّا بتول"
+alternateTitle: "Illa Batool"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Askari"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Kaun hogi aisi aali martaba Illa Batool
+  Jis ko hum keh dein hijab-e-kibriya Illa Batool
+  Jab Khuda bola tha mango jo hai tum ko mangna
+  Mustafa ne kuch bhi tu manga na tha Illa Batool
+  Kar ke dulhan zindah yeh sajdah agar karti nahi
+  Aaj dunya walay kehte la ilaha Illa Batool
+
+  2
+  Aik dojay ke liye Khaliq ne bhaija ho jinhein
+  La fata illa Ali-o-la nisa Illa Batool
+  Kaun parhne kaun sunney aaye ga iss bazm mein
+  Koi kar sakta nahi hai faisla Illa Batool
+  Jis ke pichey jana chaho jao lekin soch lo
+  Koi janat mein na le ke jaye ga Illa Batool
+
+  3
+  Jab bahey ga matam-e-Shabbir mein mera lahu
+  Kaun de ga mujh ko jeene ki dua Illa Batool
+  Aurtein tu our bhi mojood thin oss dam magar
+  Innama ko mil na payi Tahira Illa Batool
+  Askari our Naqsh tum bhi dawa yeh dair karo
+  Kaun hai bag-e-Fidak ki malika Illa Batool
 ---
 
-ILLA BATOOL Askari Hassan Zaidi Lyrics
+۱
+کون ہوگی ایسی عالی مرتبہ اِلّا بتول
+جس کو ہم کہہ دیں حجابِ کبریا اِلّا بتول
+جب خدا بولا تھا مانگو جو ہے تم کو مانگنا
+مصطفیٰ نے کچھ بھی تو مانگا نہ تھا اِلّا بتول
+کر کے دلہن زندہ یہ سجدہ اگر کرتی نہیں
+آج دنیا والے کہتے لا الٰہ اِلّا بتول
 
-1
-Kaun Hogi Aisi Aali Martaba Illa Batool.
-Jis Ko Hum Keh Dein Hijab-e-Kibriya Illa Batool.
-Jab Khuda Bola Tha Mango Jo Hai Tum Ko Mangna.
-Mustafa Ne Kuch Bhi Tu Manga Na Tha Illa Batool.
-Kar Ke Dulhan Zindah Yeh Sajdah Agar Karti Nahi.
-Aaj Dunya Walay Kehte La Ilaha Illa Batool.
+۲
+ایک دوجے کے لیے خالق نے بھیجا ہو جنہیں
+لا فتیٰ اِلّا علی و لا نسا اِلّا بتول
+کون پڑھنے کون سننے آئے گا اس بزم میں
+کوئی کر سکتا نہیں ہے فیصلہ اِلّا بتول
+جس کے پیچھے جانا چاہو جاؤ لیکن سوچ لو
+کوئی جنت میں نہ لے کے جائے گا اِلّا بتول
 
-2
-Aik Dojay Ke Liye Khaliq Ne Bhaija Ho Jinhein.
-La Fata Illa Ali-o-La Nisa Illa Batool.
-Kaun Parhne Kaun Sunney Aaye Ga Iss Bazm Mein.
-Koi Kar Sakta Nahi Hai Faisla Illa Batool.
-Jis Ke Pichey Jana Chaho Jao Lekin Soch Lo.
-Koi Janat Mein Na Le Ke Jaye Ga Illa Batool.
-
-3
-Jab Bahey Ga Matam-e-Shabbir Mein Mera Lahu.
-Kaun De Ga Mujh Ko Jeene Ki Dua Illa Batool.
-Aurtein Tu Our Bhi Mojood Thin Oss Dam Magar.
-Innama Ko Mil Na Payi Tahira Illa Batool.
- Askari Our Naqsh Tum Bhi Dawa Yeh Dair Karo.
-Kaun Hai Bag-e-Fidak Ki Malika Illa Batool.
+۳
+جب بہے گا ماتمِ شبیر میں میرا لہو
+کون دے گا مجھ کو جینے کی دعا اِلّا بتول
+عورتیں تو اور بھی موجود تھیں اس دم مگر
+اِنّما کو مل نہ پائی طاہرہ اِلّا بتول
+عسکری اور نقش تم بھی دعویٰ یہ دائر کرو
+کون ہے باغِ فدک کی ملکہ اِلّا بتول

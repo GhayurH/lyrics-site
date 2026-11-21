@@ -16,7 +16,7 @@ romanLyrics: |-
   Zainab ki tarah koi asir-e-mihan na ho
 
   1
-  Athaara bhaaiyoṅ ki behen tanha ho gai
+  Athaara bhaaiyoṅ ki behen tanhaa ho gai
   Barbaad is tarah se kisi ka chaman na ho
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
   Laachaar aisi khalq meiṅ koi behen na ho
 
   3
-  Halchal sipaah-e-Shaam meiṅ hai Sibt-e-Mustafa
+  Halchal sipaah-e-Shaam meiṅ hai Sibt-e-Mustafaa
   Ghoroṅ ki zad pe laasha-e-Ibn-e-Hasan na ho
 
   4

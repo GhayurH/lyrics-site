@@ -1,30 +1,50 @@
 ---
-title: "Behan Sughra Tarapti Hai Kab Akbar Laut Aao Gaye"
+title: "بہن صغریٰ تڑپتی ہے کب اکبر لوٹ آؤ گے"
+alternateTitle: "Behan Sughra Tarapti Hai Kab Akbar Laut Aao Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Behan Sughra tarapti hai kab Akbar laut aao gaye
+  Yehi ro kar woh kehti hai kab Akbar laut aao gaye
+  Kiya tha tum ne keh bohat jaldi main aaonga
+  Diye mujhko dilasay they bohat jaldi main aaonga
+  Bas ab yeh jaan nikalti hai kab Akbar laut aao gaye
+  Sawera din ka lagta hai mujh shab ki tarha Akbar
+  Hai dadi Umm-e-Salma ko pata har gham mera Akbar
+  Behan haye yhe roti hai kab Akbar laut aao gaye
+  Tera chehra main takne ko bohat be-chain hoon bhai
+  Azaan main teri sunne ko bohat be-chain hoon bhai
+  Yeh keh ke sham hoti hai kab Akbar laut aao gaye
+  Hai dil mein mere hasrat keh tujhe dulha banaongi
+  Tere hathon pe aye bhai main mehndi khud lagaongi
+  Saja ke sehra behti hai kab Akbar laut aao gaye
+  Suna Karbal ka jab qissa bohat Afraz roi hai
+  Fugaan pehle jo karti thi woh ab faryad karti hai
+  Yeh keh ke chonk uthti hai kab Akbar laut aao gaye
 ---
 
-1
-Behan Sughra Tarapti Hai Kab Akbar Laut Aao Gaye.
-Yehi Ro Kar Woh Kehti Hai Kab Akbar Laut Aao Gaye.
-Kiya Tha Tum ne Keh Bohat Jaldi Main Aaonga.
-Diye Mujhko Dilasay They Bohat Jaldi Main Aaonga.
-Bas Ab Yeh Jaan Nikalti Hai Kab Akbar Laut Aao Gaye.
-Sawera Din Ka Lagta hai Mujh Shab Ki Tarha Akbar.
-Hai Dadi Umm-e-Salma Ko Pata Har Gham Mera Akbar.
-Behan Haye Yhe Roti Hai Kab Akbar Laut Aao Gaye.
-Tera Chehra Main Takne Ko Bohat Be-Chain Hoon Bhai.
-Azaan Main Teri Sunne Ko Bohat Be-Chain Hoon Bhai.
-Yeh Keh Ke Sham Hoti Hai Kab Akbar Laut Aao Gaye.
-Hai Dil Mein Mere Hasrat Keh Tujhe Dulha Banaongi.
-Tere Hathon Pe Aye Bhai Main Mehndi Khud Lagaongi.
-Saja Ke Sehra Behti Hai Kab Akbar Laut Aao Gaye.
-Suna Karbal Ka Jab Qissa Bohat Afraz Roi Hai.
-Fugaan Pehle Jo Karti Thi Woh Ab Faryad Karti Hai.
-Yeh Keh Ke Chonk Uthti Hai Kab Akbar Laut Aao Gaye.
+۱
+بہن صغریٰ تڑپتی ہے، کب اکبر لوٹ آؤ گے
+یہی رو کر وہ کہتی ہے، کب اکبر لوٹ آؤ گے
+کہا تھا تم نے کہ بہت جلدی میں آؤں گا
+دیے مجھ کو دلاسے تھے، بہت جلدی میں آؤں گا
+بس اب یہ جان نکلتی ہے، کب اکبر لوٹ آؤ گے
+سویرا دن کا لگتا ہے مجھ شب کی طرح اکبر
+ہے دادی امِ سلمہ کو پتا ہر غم میرا اکبر
+بہن ہائے یہ روتی ہے، کب اکبر لوٹ آؤ گے
+تیرا چہرہ میں تکنے کو بہت بے چین ہوں بھائی
+اذان میں تیری سننے کو بہت بے چین ہوں بھائی
+یہ کہہ کے شام ہوتی ہے، کب اکبر لوٹ آؤ گے
+ہے دل میں میرے حسرت کہ تجھے دولہا بناؤں گی
+تیرے ہاتھوں پہ اے بھائی میں مہندی خود لگاؤں گی
+سجا کے سہرا بیٹھی ہے، کب اکبر لوٹ آؤ گے
+سنا کربل کا جب قصہ، بہت افراز روئی ہے
+فغاں پہلے جو کرتی تھی وہ اب فریاد کرتی ہے
+یہ کہہ کے چونک اٹھتی ہے، کب اکبر لوٹ آؤ گے

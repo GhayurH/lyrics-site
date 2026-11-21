@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mai jaane nahi dene thi baba ke sawari
-  Maqtal ko nahi jaaiye ruk jaye khudara
-  Kya beti se pyari hai qaza ae mere baba
-  Zakhmoṅ ke aziyat se sakina ko bacha leṅ
-  Jaate huwe haathoṅ se inhe aap chupa leṅ
-  Kaano se gauhar nochne aa jayenge adaa
-  Kya beti se pyari hai...
-  Zehra hoo samajhti hoo mai ismat ke ishaare
-  Shayad na rahe chadareiṅ ab sar pe hamare
-  Kiuṅ yaas se hai chadar e tathir ko chuma
-  Kya beti se pyari hai...
-  Ruqsaron pe is tarha mujhe bose kiye hai
-  Jaise ke mere gaaloṅ pe kuch nil pare hai
-  Mai kis ko pukarungi agar shimr ne maara
-  Kya beti se pyari hai...
-  Jis tarha utaara hai mujhe sine se baba
-  Yaad aaya hai manzar mujhe yasrab ke safar ka
-  Bhaiya ne tha mehmil se yuṅ sughra ko utaara
-  Kya beti se pyari hai...
+  Main jaane nahiṅ dene thi baba ke sawaari
+  Maqtal ko nahiṅ jaaiye ruk jaae khudaara
+  Kya beti se pyaari hai qaza ae mere baba
+  Zakhmoṅ ke aziyat se Sakina ko bacha leṅ
+  Jaate hue haathoṅ se inheṅ aap chhupa leṅ
+  Kaanoṅ se gauhar nochne aa jaaeṅge ada
+  Kya beti se pyaari hai...
+  Zehra huṅ samajhti huṅ mai ismat ke ishaare
+  Shaayad na rahe chaadareṅ ab sar pe hamaare
+  Kiuṅ yaas se hai chaadar-e-tathir ko chuma
+  Kya beti se pyaari hai...
+  Rukhsaaroṅ pe is tarah mujhe bose kiye hai
+  Jaise ke mere gaaloṅ pe kuchh nil pare hai
+  Main kis ko pukaaruṅ gi agar Shimr ne maara
+  Kya beti se pyaari hai...
+  Jis tarah utaara hai mujhe sine se baba
+  Yaad aaya hai manzar mujhe Yasrab ke safar ka
+  Bhaiya ne tha mahmil se yuṅ Sughra ko utaara
+  Kya beti se pyaari hai...
   Yasrab meiṅ mere naaz uthaate rahe jaise
-  Taskin e dil o jaaṅ bulaate rahe jaise
-  Ab kaun kahega mujhe is tarha sakina
-  Kya beti se pyari hai...
-  Pardes meiṅ hojaye jo bewa koi beti
+  Taskin-e-dil o jaaṅ bulaate rahe jaise
+  Ab kaun kahega mujhe se tarah Sakina
+  Kya beti se pyaari hai...
+  Pardes meiṅ ho jaae jo bewa koi beti
   Bas baap hi reh jaata hai umid dukhi ke
-  Ro ro ke ye puchti hai aap se kubra
-  Kya beti se pyari hai...
-  Ye bain jo uth'te hai abhi aap ke gham meiṅ
-  Shaamil hai meri daadi bhi in ahle haram meiṅ
-  Roti hui takti hai mujhe fatema zehra
-  Kya beti se pyari hai...
-  Pani ki zarurat hi nahi pyasi nahi hoo
-  Kis aas pe ruqsat ki ijazat tumhe de doo
-  Maiṅ ne to koi laut ke aata nahi dekha
-  Kya beti se pyari hai...
-  Akbar tha ajab sajda e shabbir ka manzar
-  Gardan pe layiṅ waar kiye jaata tha gin kar
-  Har waar pe kaano meiṅ yehi goonjh raha tha
-  Kya beti se pyari hai...
+  Ro ro ke ye puchhti hai aap se Kubra
+  Kya beti se pyaari hai...
+  Ye bain jo uthte hai abhi aap ke gham meiṅ
+  Shaamil hai meri daadi bhi in ahl-e-haram meiṅ
+  Roti hui takti hai mujhe Fatima Zehra
+  Kya beti se pyaari hai...
+  Paani ki zarurat hi nahiṅ pyaasi nahiṅ huṅ
+  Kis aas pe rukhsat ki ijaazat tumheṅ de duṅ
+  Main ne to koi laut ke aata nahiṅ dekha
+  Kya beti se pyaari hai...
+  Akbar tha ajab sajda-e-Shabbir ka manzar
+  Gardan pe la'iṅ waar kiye jaata tha gin kar
+  Har waar pe kaanoṅ meiṅ yahi gunj raha hai
+  Kya beti se pyaari hai...
 ---
 
 ۱

@@ -1,41 +1,72 @@
 ---
-title: "Ik Dard Ki Kainaat Hai Sajjad Ke Dil Mein"
+title: "اک درد کی کائنات ہے سجاد کے دل میں"
+alternateTitle: "Ik Dard Ki Kainaat Hai Sajjad Ke Dil Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Adil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ik dard ki kainaat hai Sajjad ke dil mein
+  Ghairat ki har ik baat hai Sajjad ke dil mein
+  Naizoon pe barati they our sang tha dulha
+  Dulhan ki aseeri ko salar na bhola
+
+  2
+  Qasim ki woh baraat hai Sajjad ke dil mein
+  Shabir ke lashay pe beemar jo aaya
+  Kar zulm laeeno ne lashay se uthaya
+  Woh dafn mulaqaat hai Sajjad ke dil mein
+
+  3
+  Sadmo ki chatano ko seene se lagaya
+  Phir ashkoon ke pani ko haye khon banaya
+  Kya qowat-e-jazbaat hai Sajjad ke dil mein
+  Hairat se kabhi dekhey darbar ke dar ko
+
+  4
+  Ghairat se kabhi dekhey Abbas ke sar ko
+  Haye malik-e-Farat hai Sajjad ke dil mein
+  Paband-e-salasal bhi johar woh dikhata
+  Zainab ka tu saya bhi darbar na jata
+
+  5
+  Khamosh koi zaat hai Sajjad ke dil mein
+  Zindaan mein Sakina jo baba ko bulaye
+  Masooma ke rone ki aawaz rulaye
+  Adil woh siyah raat hai Sajjad ke dil mein
 ---
 
-1
-Ik Dard Ki Kainaat Hai Sajjad Ke Dil Mein.
-Ghairat Ki Har Ik Baat Hai Sajjad Ke Dil Mein.
-Naizoon Pe Barati They Our Sang Tha Dulha.
-Dulhan Ki Aseeri Ko Salar Na Bhola.
+۱
+اک درد کی کائنات ہے سجاد کے دل میں
+غیرت کی ہر اک بات ہے سجاد کے دل میں
+نیزوں پہ باراتی تھے اور سنگ تھا دولہا
+دلہن کی اسیری کو سالار نہ بھولا
 
-2
-Qasim Ki Woh Baraat Hai Sajjad Ke Dil Mein.
-Shabir Ke Lashay Pe Beemar Jo Aaya.
-Kar Zulm Laeeno Ne Lashay Se Uthaya.
-Woh Dafn Mulaqaat Hai Sajjad Ke Dil Mein.
+۲
+قاسم کی وہ بارات ہے سجاد کے دل میں
+شبیر کے لاشے پہ بیمار جو آیا
+کر ظلم لعینوں نے لاشے سے اٹھایا
+وہ دفن ملاقات ہے سجاد کے دل میں
 
-3
-Sadmo Ki Chatano Ko Seene Se Lagaya.
-Phir Ashkoon Ke Pani Ko Haye Khon Banaya.
-Kya Qowat-e-Jazbaat Hai Sajjad Ke Dil Mein.
-Hairat Se Kabhi Dekhey Darbar Ke Dar Ko.
+۳
+صدموں کی چٹانوں کو سینے سے لگایا
+پھر اشکوں کے پانی کو ہائے خون بنایا
+کیا قوتِ جذبات ہے سجاد کے دل میں
+حیرت سے کبھی دیکھے دربار کے در کو
 
-4
-Ghairat Se Kabhi Dekhey Abbas Ke Sar Ko.
-Haye Malik-e-Farat Hai Sajjad Ke Dil Mein.
-Paband-e-Salasal Bhi Johar Woh Dikhata.
-Zainab Ka Tu Saya Bhi Darbar na Jata.
+۴
+غیرت سے کبھی دیکھے عباس کے سر کو
+ہائے مالکِ فرات ہے سجاد کے دل میں
+پابندِ سلاسل بھی جوہر وہ دکھاتا
+زینب کا تو سایہ بھی دربار نہ جاتا
 
-5
-Khamosh Koi Zaat Hai Sajjad Ke Dil Mein.
-Zindaan Mein Sakina Jo Baba Ko Bulaye.
-Masooma Ke Rone Ki Aawaz Rulaye.
- Adil WOh Siyah Raat Hai Sajjad Ke Dil Mein.
+۵
+خاموش کوئی ذات ہے سجاد کے دل میں
+زنداں میں سکینہ جو بابا کو بلائے
+معصومہ کے رونے کی آواز رلائے
+عادل وہ سیاہ رات ہے سجاد کے دل میں

@@ -1,32 +1,54 @@
 ---
-title: "Woh Murtaza Hai"
+title: "وہ مرتضیٰ ہے"
+alternateTitle: "Woh Murtaza Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Rajab ki terah Khuda ke ghar mein jo aa raha hai woh Murtaza hai
+  Jo aa ke Kabay ko sab ka qibla bana raha hai woh Murtaza hai
+
+  1
+  Nabi ke hathoon pe aankh kholi Nabi ko dekha guftago ki
+  Jo apne Maula ko naat pehli suna raha hai woh Murtaza hai
+  Badar ka fatahe, Ohad ka Karrar, jang-e-Khandaq mein kul-e-emaan
+  Alam jo Khaybar mein deen-e-Haq ka laga raha hai woh Murtaza hai
+
+  2
+  Nabi ke bistar pe shab-e-hijrat Ali ka sona Khuda ki marzi
+  Jo door-e-zulmat mein jaan Nabi ki bacha raha hai woh Murtaza hai
+  Ahad ne Ahmad ko pas apne bulaya arsh-e-barin pe jis dam
+  Jo hath parday mein Mustafa se mila raha hai woh Murtaza hai
+
+  3
+  Nusehriyon ne Khuda kaha tu Ali wali ne yeh unn se bola
+  Jo apne sar ko Khuda ke aagay jhuka raha hai woh Murtaza hai
+  Mila na Hasnain martaba yeh kisi ko bhi masawaye Haider
+  Keh ghar mein Allah ke oss ka aana bata raha hai woh Murtaza hai
 ---
 
-Rajab Ki Terah Khuda Ke Ghar Mein Jo Aa Raha Hai Woh Murtaza Hai.
-Jo Aa Ke Kabay Ko Sab Ka Qibla Bana Raha Hai Woh Murtaza Hai.
+رجب کی تیرہ خدا کے گھر میں جو آ رہا ہے وہ مرتضیٰ ہے
+جو آ کے کعبے کو سب کا قبلہ بنا رہا ہے وہ مرتضیٰ ہے
 
-1
-Nabi Ke Hathoon Pe Aankh Kholi Nabi Ko Dekha Guftago Ki.
-Jo Apne Maula Ko Naat Pehli Suna Raha Hai Woh Murtaza Hai.
-Badar Ka Fatahe, Ohad Ka Karrar, Jang-e-Khandaq Mein Kul-e-Emaan.
-Alam Jo Khaybar Mein Deen-e-Haq Ka Laga Raha Hai Woh Murtaza Hai.
+۱
+نبی کے ہاتھوں پہ آنکھ کھولی نبی کو دیکھا گفتگو کی
+جو اپنے مولا کو نعت پہلی سنا رہا ہے وہ مرتضیٰ ہے
+بدر کا فاتح، احد کا کرار، جنگِ خندق میں کلِ ایماں
+علم جو خیبر میں دینِ حق کا لگا رہا ہے وہ مرتضیٰ ہے
 
-2
-Nabi Ke Bistar Pe Shab-e-Hijrat Ali Ka Sona Khuda Ki Marzi.
-Jo Door-e-Zulmat Mein Jaan Nabi Ki Bacha Raha Hai Woh Murtaza Hai.
-Ahad Ne Ahmad Ko Pas Apne Bulaya Arsh-e-Barin Pe Jis Dam.
-Jo Hath Parday Mein Mustafa Se Mila Raha Hai Woh Murtaza Hai.
+۲
+نبی کے بستر پہ شبِ ہجرت علی کا سونا خدا کی مرضی
+جو دورِ ظلمت میں جان نبی کی بچا رہا ہے وہ مرتضیٰ ہے
+احد نے احمد کو پاس اپنے بلایا عرشِ بریں پہ جس دم
+جو ہاتھ پردے میں مصطفیٰ سے ملا رہا ہے وہ مرتضیٰ ہے
 
-3
-Nusehriyon Ne Khuda Kaha Tu Ali Wali Ne Yeh Unn Se Bola.
-Jo Apne Sar Ko Khuda Ke Aagay Jhuka Raha Hai Woh Murtaza Hai.
-Mila Na Hasnain Martaba Yeh Kisi Ko Bhi Masawaye Haider.
-Keh Ghar Mein ALLAH Ke Oss Ka Aana Bata Raha Hai Woh Murtaza Hai.
+۳
+نصیریوں نے خدا کہا تو علی ولی نے یہ ان سے بولا
+جو اپنے سر کو خدا کے آگے جھکا رہا ہے وہ مرتضیٰ ہے
+ملا نہ حسنین مرتبہ یہ کسی کو بھی ماسوائے حیدر
+کہ گھر میں اللہ کے اس کا آنا بتا رہا ہے وہ مرتضیٰ ہے

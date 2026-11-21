@@ -1,38 +1,66 @@
 ---
-title: "Neelay Rukhsar Thay Kya Dadi Ke"
+title: "نیلے رخسار تھے کیا دادی کے"
+alternateTitle: "Neelay Rukhsar Thay Kya Dadi Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hilal"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Neelay rukhsar thay kya dadi ke
+
+  1
+  Janib-e-naiza nazar kar ke basad ranj-o-malal
+  Sar-e-Shabir se kartin thin Sakina yeh sawal
+
+  2
+  Kyun mujhe kehte hain baba yeh sitamgar Zahra
+  Ro nahi payi thi kya apne padar ko woh bhi
+  Baliyaan kano se kya cheeni gayin thin unki
+  Surkh tha khon se kya unka bhi kurta baba
+  Pasliyan toti thin dadi ki kamar mein kham tha
+  Shidat-e-gham ne yahan tora hai pehlu mera
+  Kya kya kartin thin meri tarha woh bhi noha
+  Pusht-e-naqa se giraya gaya raste mein mujhe
+  Kya sitam yeh bhi uthaya tha meri dadi ne
+  Kya unhein bandha gaya tha sar-e-pusht-e-naqa
+  Main badal pati nahi karwatein baba dekho
+  Dard sone nahi deta tha unhein raton ko
+  Raat din zakhmo se kya unke laho rista tha
+  Dil pe woh apne uthati rahin har pal sadme
+  Neelay rukhsar the meri hi tarha dadi ke
+  Rukh pe kya unn ke bhi barse the tamache baba
+  Aye Hilal our Wajhi gham ka ajab tha manzar
+  Nook-e-naiza pe laho rota tha Shabir ka sar
+  Aa ke jab karti thin maqtal mein Sakina giriya
 ---
 
-Neelay Rukhsar Thay Kya Dadi Ke.
+نیلے رخسار تھے کیا دادی کے
 
-1
-Janib-e-Naiza Nazar Kar Ke Basad Ranj-o-Malal.
-Sar-e-Shabir Se Kartin Thin Sakina Yeh Sawal.
+۱
+جانبِ نیزہ نظر کر کے بصد رنج و ملال
+سرِ شبیر سے کرتی تھیں سکینہ یہ سوال
 
-2
-Kyun Mujhe Kehte Hain Baba Yeh Sitamgar Zahra.
-Ro Nahi Payi Thi Kya Apne Padar Ko Woh Bhi.
-Baliyaan Kano Se Kya Cheeni Gayin Thin Unki.
-Surkh Tha Khon Se Kya Unka Bhi Kurta Baba.
-Pasliyan Toti Thin Dadi Ki Kamar Mein Kham Tha.
-Shidat-e-Gham Ne Yahan Tora Hai Pehlu Mera.
-Kya Kya Kartin Thin Meri Tarha Woh Bhi Noha.
-Pusht-e-Naqa Se Giraya Gaya Raste Mein Mujhe.
-Kya Sitam Yeh Bhi Uthaya Tha Meri Dadi Ne.
-Kya Unhein Bandha Gaya Tha Sar-e-Pusht-e-Naqa.
-Main Badal Pati Nahi Karwatein Baba Dekho.
-Dard Sone Nahi Deta Tha Unhein Raton Ko.
-Raat Din Zakhmo Se Kya Unke Laho Rista Tha.
-Dil Pe Woh Apne Uthati Rahin Har Pal Sadme.
-Neelay Rukhsar The Meri Hi Tarha Dadi Ke.
-Rukh Pe Kya Unn Ke Bhi Barse The Tamache Baba.
-Aye Hilal Our Wajhi Gham Ka Ajab Tha Manzar.
-Nook-e-Naiza Pe Laho Rota Tha Shabir Ka Sar.
-Aa Ke Jab Karti Thin Maqtal Mein Sakina Giriya.
+۲
+کیوں مجھے کہتے ہیں بابا یہ ستمگر زہرا
+رو نہیں پائی تھی کیا اپنے پدر کو وہ بھی
+بالیاں کانوں سے کیا چھینی گئی تھیں ان کی
+سرخ تھا خون سے کیا ان کا بھی کرتا بابا
+پسلیاں ٹوٹی تھیں دادی کی کمر میں خم تھا
+شدتِ غم نے یہاں توڑا ہے پہلو میرا
+کیا کیا کرتی تھیں میری طرح وہ بھی نوحہ
+پشتِ ناقہ سے گرایا گیا راستے میں مجھے
+کیا ستم یہ بھی اٹھایا تھا میری دادی نے
+کیا انہیں باندھا گیا تھا سرِ پشتِ ناقہ
+میں بدل پاتی نہیں کروٹیں بابا دیکھو
+درد سونے نہیں دیتا تھا انہیں راتوں کو
+رات دن زخموں سے کیا ان کے لہو رستا تھا
+دل پہ وہ اپنے اٹھاتی رہیں ہر پل صدمے
+نیلے رخسار تھے میری ہی طرح دادی کے
+رخ پہ کیا ان کے بھی برسے تھے طمانچے بابا
+اے ہلال اور وجہی غم کا عجب تھا منظر
+نوکِ نیزہ پہ لہو روتا تھا شبیر کا سر
+آ کے جب کرتی تھیں مقتل میں سکینہ گریہ

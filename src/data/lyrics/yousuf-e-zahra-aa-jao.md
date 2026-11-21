@@ -12,7 +12,7 @@ tags: []
 aliases: ["yousuf-e-zahra-ajao-joan-rizvi", "Yousuf E Zahra Ajao Joan Rizvi"]
 published: true
 romanLyrics: |-
-  Ae Yousuf-e-Zahra kahaaṅ ho aa jao
+  Ae Yusuf-e-Zahra kahaaṅ ho aa jao
 
   1
   Ae waqt ke Husain hamaara salaam ho
@@ -20,15 +20,15 @@ romanLyrics: |-
   Woh hai yatim ghaib meiṅ jis ka Imam ho
   Ae Maula ab hamaari yatimi tamaam ho
   Kuch to bataaiye mere Maula kahaaṅ haiṅ aap
-  Ham ko bhi paas apne bula leiṅ jahaaṅ haiṅ aap
+  Ham ko bhi paas apne bulaa leiṅ jahaaṅ haiṅ aap
 
   2
   Ae Ibn-e-Murtaza meri bas Eid aap haiṅ
   Baaqi hai jo woh hujjat-e-tauhid aap haiṅ
   Jis ki hameiṅ talaash hai woh did aap haiṅ
   Maula hamaari aakhri ummid aap haiṅ
-  Ham muntazir haiṅ jald sada dijiye hameiṅ
-  Kab aaeṅ ge bas itna bata dijiye hameiṅ
+  Ham muntazir haiṅ jald sadaa dijiye hameiṅ
+  Kab aaeṅ ge bas itna bataa dijiye hameiṅ
 
   3
   Har din hi ab udaas hai har din lahu lahu
@@ -41,8 +41,8 @@ romanLyrics: |-
   4
   Maatam kareiṅ Baqi meiṅ hasrat hai bas yehi
   Har dam Ali Wali ki amaanat hai zindagi
-  Yeh ishq ki sada hai yeh ruk na sake kabhi
-  Kehte raheiṅ azaan meiṅ bila fasl hai Ali
+  Yeh ishq ki sadaa hai yeh ruk na sake kabhi
+  Kehte raheiṅ azaan meiṅ bilaa fasl hai Ali
   Rakh lijiye Imam-e-Zamaana bharam mera
   Nikle Ali Wali ki wilaayat pe dam mera
 
@@ -63,9 +63,9 @@ romanLyrics: |-
   Maula hamaara tin sau terah meiṅ naam ho
 
   7
-  Paidal Najaf se Karb o Bala jab chala huṅ maiṅ
+  Paidal Najaf se Karb o Bala jab chalaa huṅ maiṅ
   Maula har ik qadam pe tumheiṅ dhundta huṅ maiṅ
-  Khidmatguzaar-e-ishq se jab bhi mila huṅ maiṅ
+  Khidmat guzaar-e-ishq se jab bhi milaa huṅ maiṅ
   Dekha hai mere Maula ko yeh puchhta huṅ maiṅ
   Ham zaairoṅ pe Maula karam ki nazar kareiṅ
   Is Arbain aap ke pichhe safar kareiṅ
@@ -75,16 +75,16 @@ romanLyrics: |-
   Baaqi hai jis ke dam se jahaaṅ woh yaqin haiṅ aap
   Sab haiṅ nazar ke saamne lekin nahiṅ haiṅ aap
   Dhundne jise hamaari nazar woh hasin haiṅ aap
-  Ae Yousuf-e-Batul yeh parda uthaaiye
+  Ae Yusuf-e-Batul yeh parda uthaaiye
   Tarsi hui nigaahoṅ ko chehra dikhaaiye
 
   9
   Aapas meiṅ lar rahe haiṅ yeh kaise nasib haiṅ
   Ghaali khatib koi muqassir khatib haiṅ
   Kiuṅ bekhabar haiṅ aap hamaare qarib haiṅ
-  Yeh sab amir hoke bhi kitne gharib haiṅ
+  Yeh sab amir ho ke bhi kitne gharib haiṅ
   Kijiye khud aap jhute aqidoṅ ka ikhtitaam
-  Zishan o Jaun ki hai sada al-ajal Imam
+  Zishan o Jaun ki hai sadaa al-ajal Imam
 ---
 اے یوسفِ زہرا کہاں ہو آ جاؤ
 

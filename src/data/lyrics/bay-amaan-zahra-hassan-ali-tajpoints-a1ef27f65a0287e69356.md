@@ -1,36 +1,62 @@
 ---
-title: "Bay Amaan Zahra Hassan Ali"
+title: "بے اماں زہرا حسن علی"
+alternateTitle: "Bay Amaan Zahra Hassan Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Bay Amaan Zahra Hassan Ali
+
+  1
+  Nabi ke baad hoi aisi be amma Zahra
+  Madine walon ki sehti hai jhirkiyaan Zahra
+  Wohi jo aag se sab ko bachaney aayi hai
+  Khari hoi hai woh sholon ke darmiyaan Zahra
+  Tujhe Hussain se kam tu nahi hai mara gaya
+  Gawahi deti hain yeh teri pasliyaan Zahra
+
+  2
+  Hain oss ke roney pe pabandiyaan Madine mein
+  Pidar ko roye bhala ja ke ab kahan Zahra
+  Khuda ke hathoon ne tujh ko sapurd-e-khak kiya
+  Mitaya phir teri turbat ka bhi nishaan Zahra
+  Sahabiyon se woh haq mangney ko aayi thi
+  Chali hai le ke tamachay ka ik nishaan Zahra
+
+  3
+  Jo kalma goyon ne bandhi Ali ki gardan mein
+  Chupaye kaisay woh Zainab se rasiyaan Zahra
+  Ali se chup ke hai roti Ali ki ghurbat pe
+  Keh le rahi jo musallay pe siskiyaan Zahra
+  Woh kalma parh ke Nabi ka bhi kab musalmaan hai
+  Jo qatal karta hai teri gawahiyaan Zahra
 ---
 
-Bay Amaan Zahra Hassan Ali.
+بے اماں زہرا حسن علی
 
-1
-Nabi Ke Baad Hoi Aisi Be Amma Zahra.
-Madine Walon Ki Sehti Hai Jhirkiyaan Zahra.
-Wohi Jo Aag Se Sab Ko Bachaney Aayi Hai.
-Khari Hoi Hai Woh Sholon Ke Darmiyaan Zahra.
-Tujhe Hussain Se Kam Tu Nahi Hai Mara Gaya.
-Gawahi Deti Hain Yeh Teri Pasliyaan Zahra.
+۱
+نبی کے بعد ہوئی ایسی بے اماں زہرا
+مدینے والوں کی سہتی ہے جھڑکیاں زہرا
+وہی جو آگ سے سب کو بچانے آئی ہے
+کھڑی ہوئی ہے وہ شعلوں کے درمیاں زہرا
+تجھے حسین سے کم تو نہیں ہے مارا گیا
+گواہی دیتی ہیں یہ تیری پسلیاں زہرا
 
-2
-Hain Oss Ke Roney Pe Pabandiyaan Madine Mein.
-Pidar Ko Roye Bhala Ja Ke Ab Kahan Zahra.
-Khuda Ke Hathoon Ne Tujh Ko Sapurd-e-Khak Kiya.
-Mitaya Phir Teri Turbat Ka Bhi Nishaan Zahra.
-Sahabiyon Se Woh Haq Mangney Ko Aayi Thi.
-Chali Hai Le Ke Tamachay Ka Ik Nishaan Zahra.
+۲
+ہیں اس کے رونے پہ پابندیاں مدینے میں
+پدر کو روئے بھلا جا کے اب کہاں زہرا
+خدا کے ہاتھوں نے تجھ کو سپردِ خاک کیا
+مٹایا پھر تیری تربت کا بھی نشاں زہرا
+صحابیوں سے وہ حق مانگنے کو آئی تھی
+چلی ہے لے کے طمانچے کا اک نشاں زہرا
 
-3
-Jo Kalma Goyon Ne Bandhi Ali Ki Gardan Mein.
-Chupaye Kaisay Woh Zainab Se Rasiyaan Zahra.
-Ali Se Chup Ke Hai Roti Ali Ki Ghurbat Pe.
-Keh Le Rahi Jo Musallay Pe Siskiyaan Zahra.
-Woh Kalma Parh Ke Nabi Ka Bhi Kab Musalmaan Hai.
-Jo Qatal Karta Hai Teri Gawahiyaan Zahra.
+۳
+جو کلمہ گویوں نے باندھی علی کی گردن میں
+چھپائے کیسے وہ زینب سے رسیاں زہرا
+علی سے چھپ کے ہے روتی علی کی غربت پہ
+کہ لے رہی جو مصلے پہ سسکیاں زہرا
+وہ کلمہ پڑھ کے نبی کا بھی کب مسلمان ہے
+جو قتل کرتا ہے تیری گواہیاں زہرا

@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Koi ahwaal in ka kaise puchhe
-  Har ek ke lab pe hai khaamosh nauhe
+  Har ek ke lab hai khaamosh nauhe
   Yahaaṅ ashkoṅ pe bhi pehra laga hai
 
   8
@@ -65,7 +65,7 @@ romanLyrics: |-
   Koi zanjir meiṅ jakra hua hai
 
   11
-  Bahut phaile hue hai zakhmi manzar
+  Bahut phaile hue zakhmi manzar
   Rashid un ko sametuṅ ab maiṅ kiuṅ kar
   Ke ye to ek musalsil marsiya hai
 ---

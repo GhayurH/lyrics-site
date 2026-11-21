@@ -1,53 +1,95 @@
 ---
-title: "Nahnu Ushaq Ul Hussain"
+title: "نحن عشاق الحسین"
+alternateTitle: "Nahnu Ushaq Ul Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Minhaj"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab mere ghar mein tera farsh-e-azza bichta hai
+  Kaise batlaon mujhe kitna sakoon milta hai
+  Wadah hai mera bichta rahe ga
+  Ghar mein tera farsh-e-azza Zahra ke chain
+
+  2
+  Kalay kapray jo Muharram mein pehan kar nikle
+  Hum ko dekha jo guzarta howa sab logon ne
+  Sab ne sada di yeh hain Hussaini
+  Sun ke bara fakhar howa Zahra ke chain
+
+  3
+  Aye mere maula tera gham hai meri aankhon mein
+  Hai basa naam tumhara hi meri sansoon mein
+  Tum ho hamare hum hain tumhare
+  Dil pe mere hai yeh likha Zahra ke chain
+
+  4
+  Tu chalata hai tu dunya yeh chala karti hai
+  Tere tukron pe hi dunya yeh pala karti hai
+  Aye mere maula sadqa hai tera
+  Jisko mila jo bhi mila Zahra ke chain
+
+  5
+  Hum azadar zamane mein juda hain sab se
+  Hum ko Zahra ne duaon mein hai manga Rab se
+  Har ik byaan mein sare jahan mein
+  Gonj rahi hai yeh sada Zahra ke chain
+
+  6
+  Main ne tareekh ke har moor pe dhonda maula
+  Tere ashab sa koi nahi dekha maula
+  Rah-e-wafa mein Karab-o-Bala mein
+  Sab ne kataya sar apna Zahra ke chain
+
+  7
+  Apne Minhaj ko zeeshan bana de maula
+  Apna darbar bas ik bar dikha de maula
+  Matam karon ga nohay parhoon ga
+  Hai yehi honton pe dua Zahra ke chain
 ---
 
-1
-Jab Mere Ghar Mein Tera Farsh-e-Azza Bichta Hai.
-Kaise Batlaon Mujhe Kitna Sakoon Milta Hai.
-Wadah Hai Mera Bichta Rahe Ga.
-Ghar Mein Tera Farsh-e-Azza Zahra Ke Chain.
+۱
+جب میرے گھر میں تیرا فرشِ عزا بچھتا ہے
+کیسے بتلاؤں مجھے کتنا سکون ملتا ہے
+وعدہ ہے میرا بچھتا رہے گا
+گھر میں تیرا فرشِ عزا زہرا کے چین
 
-2
-Kalay Kapray Jo Muharram Mein Pehan Kar Nikle.
-Hum KO Dekha Jo Guzarta Howa Sab Logon Ne.
-Sab Ne Sada Di Yeh Hain Hussaini.
-Sun Ke Bara Fakhar Howa Zahra Ke Chain.
+۲
+کالے کپڑے جو محرم میں پہن کر نکلے
+ہم کو دیکھا جو گزرتا ہوا سب لوگوں نے
+سب نے صدا دی یہ ہیں حسینی
+سن کے بڑا فخر ہوا زہرا کے چین
 
-3
-Aye Mere Maula Tera Gham Hai Meri Aankhon Mein.
-Hai Basa Naam Tumhara Hi Meri Sansoon Mein.
-Tum Ho Hamare Hum Hain Tumhare.
-Dil Pe Mere Hai Yeh Likha Zahra Ke Chain.
+۳
+اے میرے مولا تیرا غم ہے میری آنکھوں میں
+ہے بسا نام تمہارا ہی میری سانسوں میں
+تم ہو ہمارے ہم ہیں تمہارے
+دل پہ میرے ہے یہ لکھا زہرا کے چین
 
-4
-Tu Chalata Hai Tu Dunya Yeh Chala Karti Hai.
-Tere Tukron Pe Hi Dunya Yeh Pala Karti Hai.
-Aye Mere Maula Sadqa Hai Tera.
-Jisko Mila Jo Bhi Mila Zahra Ke Chain.
+۴
+تو چلاتا ہے تو دنیا یہ چلا کرتی ہے
+تیرے ٹکڑوں پہ ہی دنیا یہ پلا کرتی ہے
+اے میرے مولا صدقہ ہے تیرا
+جس کو ملا جو بھی ملا زہرا کے چین
 
-5
-Hum Azadar Zamane Mein Juda Hain Sab Se.
-Hum Ko Zahra Ne Duaon Mein Hai Manga Rab Se.
-Har Ik Byaan Mein Sare Jahan Mein.
-Gonj Rahi Hai Yeh Sada Zahra Ke Chain.
+۵
+ہم عزادار زمانے میں جدا ہیں سب سے
+ہم کو زہرا نے دعاؤں میں ہے مانگا رب سے
+ہر اک بیان میں سارے جہاں میں
+گونج رہی ہے یہ صدا زہرا کے چین
 
-6
-Main ne Tareekh Ke Har Moor Pe Dhonda Maula.
-Tere Ashab Sa Koi Nahi Dekha Maula.
-Rah-e-Wafa Mein Karab-o-Bala Mein.
-Sab Ne Kataya Sar Apna Zahra Ke Chain.
+۶
+میں نے تاریخ کے ہر موڑ پہ ڈھونڈا مولا
+تیرے اصحاب سا کوئی نہیں دیکھا مولا
+راہِ وفا میں کرب و بلا میں
+سب نے کٹایا سر اپنا زہرا کے چین
 
-7
-Apne Minhaj Ko Zeeshan Bana De Maula.
-Apna Darbar Bas Ik Bar Dikha De Maula.
-Matam Karon Ga Nohay Parhoon Ga.
-Hai Yehi Honton Pe Dua Zahra Ke Chain.
+۷
+اپنے منہاج کو ذیشان بنا دے مولا
+اپنا دربار بس اک بار دکھا دے مولا
+ماتم کروں گا نوحے پڑھوں گا
+ہے یہی ہونٹوں پہ دعا زہرا کے چین

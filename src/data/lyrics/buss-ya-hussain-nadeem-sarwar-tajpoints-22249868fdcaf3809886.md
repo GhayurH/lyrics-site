@@ -1,121 +1,231 @@
 ---
-title: "Buss Ya Hussain Nadeem Sarwar"
+title: "بس یا حسین"
+alternateTitle: "Buss Ya Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Aye Hur kisay mili yeh shahadat ki zaib-o-zeen
+
+  1
+  Baleen pe tere aaein hain khud madar-e-Hussain
+  Iss martabay ke baad tu sab tujh ko mil gaya
+  Aye Hur Hussain mil gaye Rab tujh ko mil gaya
+  Kuch nahi mila ossay tu nahi mila jisay
+
+  2
+  Tu jis ko mil gaya Rab oss ko mil gaya
+  Yeh bas Hussain ki atta yeh bas Hussain ka jigar
+  Jo keh diya woh moatbar jo de diya tu sara ghar
+  Karam Hussain ka karam kissi pe ho gaya agar
+
+  3
+  Miley kissi ko baal-o-par kissi ko mil gaye pisar
+  Hur bana diya ossay jo aik bar mil gaya
+  Tu jis ko mil gaya Rab oss ko mil gaya
+  Bas ya Hussain, bas ya Hussain, bas ya Hussain, bas ya Hussain
+
+  4
+  Wa tu izzu man tasha wa tu zillu man tasha
+  Aadam ki pori nasal pe ahsan kaun tha
+  Jis par Khuda ko naaz woh insan kaun tha
+  Kunbay ke sath deen pe qurban kaun tha
+
+  5
+  Nook-e-sina pe qari-e-Quran kaun tha
+  Aye Karbala bata tera mehman kaun tha
+  Bas ya Hussain, bas ya Hussain, bas ya Hussain, bas ya Hussain
+  Bas Hussain tha jisay yeh ikhteyar mil gaya
+
+  6
+  Yeh ikhteyar kitna wasee-o-boland hai
+  Sara jahan Hussain ki muthi mein band hai
+  Badla hai Karbala mein taqaza-e-inqalab
+  Naizay pe ab jo sar hai wohi sar boland hai
+
+  7
+  Aiwan inbesat mein janat na kar talash
+  Yeh tu gham-e-Hussain ke aanso mein band hai
+  Shayar Syed Waheed Al Hasan Hashmi
+  Dastaan Hussain ki samajh mein aa gayi agar
+
+  8
+  Tu Hur ki reh guzar par karey ga ishq ka safar
+  Tarap tarap uthay ga tu kahey ga raat raat bhar
+  Hussain bas Hussain hai sina pe ya zameen par
+  Shah-e-Karbala se jis ke dil ka taar mil gaya
+
+  9
+  Bas ya Hussain, bas ya Hussain, bas ya Hussain, bas ya Hussain
+  Ik do pehar mein jis ne bhara ghar luta diya
+  Nazaan Khuda hai jis pe woh sajdah ada kiya
+  Apne lahu se khak ko khak-e-shifa kiya
+
+  10
+  Ashor aik roz tha sadiyon pe cha gaya
+  Karb-o-Bala ko arsh-e-mualla bana diya
+  Bas ya Hussain, bas ya Hussain, bas ya Hussain, bas ya Hussain
+  Jab ran mein Zulfiqar-e-Ali na gehaan chali
+
+  11
+  Bich bich gayin safon pe safein woh jahan chali
+  Chamki tu iss taraf udhar aayi wahan chali
+  Deney ko dad arsh se pyasay ki maa chali
+  Muddat ka taal meel tha barson ka sath tha
+
+  12
+  Jaisi woh Zulfiqar thi waisa hi hath tha
+  Kha kha gayi safon ko jidhar aayi Zulfiqar
+  Geh chup gayi tu ga nazar aayi Zulfiqar
+  Sar par chamak ke taba kamar aayi Zulfiqar
+
+  13
+  Zeen kaat kar zameen par utar aayi Zulfiqar
+  Phir tu yeh gul howa keh duhai Hussain ki
+  Allah ka ghazab hai larai Hussain ki
+  Aayi nida-e-gaib keh Shabeer marhaba
+
+  14
+  Iss kam ke liye thi yeh shamsheer marhaba
+  Yeh aabro yeh jang yeh tauqeer marhaba
+  Bas bas Hussain bas mere dilgeer marhaba
+  Waqt-e-namaz asar hai takbeer marhaba
+
+  15
+  Bas ya Hussain, bas ya Hussain, bas ya Hussain, bas ya Hussain
+  Labaik keh keh taig rakhi sheh ne mayan mein
+  Palti sipah aayi qayamat jahan mein
+  Lo khanjron mein taigon mein bhalo mein ghir gaye
+
+  16
+  Tanha Hussain barchiyon walon mein ghir gaye
+  Bas ya Hussain, bas ya Hussain, bas ya Hussain, bas ya Hussain
+  :Rehan-o-Sarwar-e-: hazeen suno yeh aisa raaz hai
+  Hussain keh rahe they bas Khuda pe mujh ko naaz hai
+
+  17
+  Na bhai na pisar raha na koi charah saaz hai
+  Azan hai Hussain hai Khuda-e-be niyaz hai
+  Na zeen na zameen par yeh aakhri namaz hai
+  Jis ke dil mein Hussain rehta hai
+
+  18
+  Farsh majlis ka jo bichata hai
+  Jo bhi noha kahin sunata hai
+  Le ke nam-e-Hussain rota hai
+  Oss ko Zahra salam karti hain
 ---
 
-Buss Ya Hussain Nadeem Sarwar Lyrics
-Aye Hur Kisay Mili Yeh Shahadat Ki Zaib-o-Zeen.
+اے حر کسے ملی یہ شہادت کی زیب و زین
 
-1
-Baleen Pe Tere Aaein Hain Khud Madar-e-Hussain.
-Iss Martabay Ke Baad Tu Sab Tujh Ko Mil Gaya.
-Aye Hur Hussain Mil Gaye Rab Tujh Ko Mil Gaya.
-Kuch Nahi Mila Ossay Tu Nahi Mila Jisay.
+۱
+بالیں پہ تیرے آئیں ہیں خود مادرِ حسین
+اس مرتبے کے بعد تو سب تجھ کو مل گیا
+اے حر حسین مل گئے رب تجھ کو مل گیا
+کچھ نہیں ملا اسے تو نہیں ملا جسے
 
-2
-Tu Jis Ko Mil Gaya Rab Oss Ko Mil Gaya.
-Yeh Bas Hussain Ki Atta Yeh Bas Hussain Ka Jigar.
-Jo Keh Diya Woh Moatbar Jo De Diya Tu Sara Ghar.
-Karam Hussain Ka Karam Kissi Pe Ho Gaya Agar.
+۲
+تو جس کو مل گیا رب اس کو مل گیا
+یہ بس حسین کی عطا یہ بس حسین کا جگر
+جو کہہ دیا وہ معتبر جو دے دیا تو سارا گھر
+کرم حسین کا کرم کسی پہ ہو گیا اگر
 
-3
-Miley Kissi Ko Baal-o-Par Kissi Ko Mil Gaye Pisar.
-Hur Bana Diya Ossay Jo Aik Bar Mil Gaya.
-Tu Jis Ko Mil Gaya Rab Oss Ko Mil Gaya.
-Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain.
+۳
+ملے کسی کو بال و پر کسی کو مل گئے پسر
+حر بنا دیا اسے جو ایک بار مل گیا
+تو جس کو مل گیا رب اس کو مل گیا
+بس یا حسین، بس یا حسین، بس یا حسین، بس یا حسین
 
-4
-Wa Tu Izzu Man Tasha Wa Tu Zillu Man Tasha.
-Aadam Ki Pori Nasal Pe Ahsan Kaun Tha.
-Jis Par Khuda Ko Naaz Woh Insan Kaun Tha.
-Kunbay Ke Sath Deen Pe Qurban Kaun Tha.
+۴
+وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ
+آدم کی پوری نسل پہ احسن کون تھا
+جس پر خدا کو ناز وہ انسان کون تھا
+کنبے کے ساتھ دین پہ قربان کون تھا
 
-5
-Nook-e-Sina Pe Qari-e-Quran Kaun Tha.
-Aye Karbala Bata Tera Mehman Kaun Tha.
-Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain.
-Bas Hussain Tha Jisay Yeh Ikhteyar Mil Gaya.
+۵
+نوکِ سناں پہ قاریِ قرآن کون تھا
+اے کربلا بتا تیرا مہمان کون تھا
+بس یا حسین، بس یا حسین، بس یا حسین، بس یا حسین
+بس حسین تھا جسے یہ اختیار مل گیا
 
-6
-Yeh Ikhteyar Kitna Wasee-o-Boland Hai.
-Sara Jahan Hussain Ki Muthi Mein Band Hai.
-Badla Hai Karbala Mein Taqaza-e-Inqalab.
-Naizay Pe Ab Jo Sar Hai Wohi Sar Boland Hai.
+۶
+یہ اختیار کتنا وسیع و بلند ہے
+سارا جہاں حسین کی مٹھی میں بند ہے
+بدلا ہے کربلا میں تقاضائے انقلاب
+نیزے پہ اب جو سر ہے وہی سر بلند ہے
 
-7
-Aiwan Inbesat Mein Janat Na Kar Talash.
-Yeh Tu Gham-e-Hussain Ke Aanso Mein Band Hai.
-Shayar Syed Waheed Al Hasan Hashmi.
-Dastaan Hussain Ki Samajh Mein Aa Gayi Agar.
+۷
+ایوانِ انبساط میں جنت نہ کر تلاش
+یہ تو غمِ حسین کے آنسو میں بند ہے
+شاعر سید وحید الحسن ہاشمی
+داستانِ حسین کی سمجھ میں آ گئی اگر
 
-8
-Tu Hur Ki Reh Guzar Par Karey Ga Ishq Ka Safar.
-Tarap Tarap Uthay Ga Tu Kahey Ga Raat Raat Bhar.
-Hussain Bas Hussain Hai Sina Pe Ya Zameen Par.
-Shah-e-Karbala Se Jis Ke Dil Ka Taar Mil Gaya.
+۸
+تو حر کی رہ گزر پر کرے گا عشق کا سفر
+تڑپ تڑپ اٹھے گا تو کہے گا رات رات بھر
+حسین بس حسین ہے سناں پہ یا زمین پر
+شاہِ کربلا سے جس کے دل کا تار مل گیا
 
-9
-Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain.
-Ik Do Pehar Mein Jis Ne Bhara Ghar Luta Diya.
-Nazaan Khuda Hai Jis Pe Woh Sajdah Ada Kiya.
-Apne Lahu Se Khak Ko Khak-e-Shifa Kiya.
+۹
+بس یا حسین، بس یا حسین، بس یا حسین، بس یا حسین
+اک دوپہر میں جس نے بھرا گھر لٹا دیا
+نازاں خدا ہے جس پہ وہ سجدہ ادا کیا
+اپنے لہو سے خاک کو خاکِ شفا کیا
 
-10
-Ashor Aik Roz Tha Sadiyon Pe Cha Gaya.
-Karb-o-Bala Ko Arsh-e-Mualla Bana Diya.
-Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain.
-Jab Ran Mein Zulfiqar-e-Ali Na Gehaan Chali.
+۱۰
+عاشور ایک روز تھا صدیوں پہ چھا گیا
+کرب و بلا کو عرشِ معلیٰ بنا دیا
+بس یا حسین، بس یا حسین، بس یا حسین، بس یا حسین
+جب رن میں ذوالفقارِ علی ناگہاں چلی
 
-11
-Bich Bich Gayin Safon Pe Safein Woh Jahan Chali.
-Chamki Tu Iss Taraf Udhar Aayi Wahan Chali.
-Deney Ko Dad Arsh Se Pyasay Ki Maa Chali.
-Muddat Ka Taal Meel Tha Barson Ka Sath Tha.
+۱۱
+بچھ بچھ گئیں صفوں پہ صفیں وہ جہاں چلی
+چمکی تو اس طرف ادھر آئی وہاں چلی
+دینے کو داد عرش سے پیاسے کی ماں چلی
+مدت کا تال میل تھا برسوں کا ساتھ تھا
 
-12
-Jaisi Woh Zulfiqar Thi Waisa Hi Hath Tha.
-Kha Kha Gayi Safon Ko Jidhar Aayi Zulfiqar.
-Geh Chup Gayi Tu Ga Nazar Aayi Zulfiqar.
-Sar Par Chamak Ke Taba Kamar Aayi Zulfiqar.
+۱۲
+جیسی وہ ذوالفقار تھی ویسا ہی ہاتھ تھا
+کھا کھا گئی صفوں کو جدھر آئی ذوالفقار
+گہ چھپ گئی تو گاہ نظر آئی ذوالفقار
+سر پر چمک کے تا بہ کمر آئی ذوالفقار
 
-13
-Zeen Kaat Kar Zameen Par Utar Aayi Zulfiqar.
-Phir Tu Yeh Gul Howa Keh Duhai Hussain Ki.
-ALLAH Ka Ghazab Hai Larai Hussain Ki.
-Aayi Nida-e-Gaib Keh Shabeer Marhaba.
+۱۳
+زین کاٹ کر زمین پر اتر آئی ذوالفقار
+پھر تو یہ غل ہوا کہ دہائی حسین کی
+اللہ کا غضب ہے لڑائی حسین کی
+آئی ندائے غیب کہ شبیر مرحبا
 
-14
-Iss Kam Ke Liye Thi Yeh Shamsheer Marhaba.
-Yeh Aabro Yeh Jang Yeh Tauqeer Marhaba.
-Bas Bas Hussain Bas Mere Dilgeer Marhaba.
-Waqt-e-Namaz Asar Hai Takbeer Marhaba.
+۱۴
+اس کام کے لیے تھی یہ شمشیر مرحبا
+یہ آبرو یہ جنگ یہ توقیر مرحبا
+بس بس حسین بس میرے دلگیر مرحبا
+وقتِ نمازِ عصر ہے تکبیر مرحبا
 
-15
-Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain.
-Labaik Keh Keh Taig Rakhi Sheh Ne Mayan Mein.
-Palti Sipah Aayi Qayamat Jahan Mein.
-Lo Khanjron Mein Taigon Mein Bhalo Mein Ghir Gaye.
+۱۵
+بس یا حسین، بس یا حسین، بس یا حسین، بس یا حسین
+لبیک کہہ کہہ تیغ رکھی شہ نے میان میں
+پلٹی سپاہ آئی قیامت جہاں میں
+لو خنجروں میں تیغوں میں بھالوں میں گھر گئے
 
-16
-Tanha Hussain Barchiyon Walon Mein Ghir Gaye.
-Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain, Bas Ya Hussain.
-:REHAN-o-SARWAR-E-: Hazeen Suno Yeh Aisa Raaz Hai.
-Hussain Keh Rahe They Bas Khuda Pe Mujh Ko Naaz Hai.
+۱۶
+تنہا حسین برچھیوں والوں میں گھر گئے
+بس یا حسین، بس یا حسین، بس یا حسین، بس یا حسین
+ریحان و سرورِ حزیں سنو یہ ایسا راز ہے
+حسین کہہ رہے تھے بس خدا پہ مجھ کو ناز ہے
 
-17
-Na Bhai Na Pisar Raha Na Koi Charah Saaz Hai.
-Azan Hai Hussain Hai Khuda-e-Be Niyaz Hai.
-Na Zeen Na Zameen Par Yeh Aakhri Namaz Hai.
-Jis Ke Dil Mein Hussain Rehta Hai.
+۱۷
+نہ بھائی نہ پسر رہا نہ کوئی چارہ ساز ہے
+اذان ہے حسین ہے خدائے بے نیاز ہے
+نہ زین نہ زمین پر یہ آخری نماز ہے
+جس کے دل میں حسین رہتا ہے
 
-18
-Farsh Majlis Ka Jo Bichata Hai.
-Jo Bhi Noha Kahin Sunata Hai.
-Le Ke Nam-e-Hussain Rota Hai.
-Oss Ko Zahra Salam Karti Hain.
+۱۸
+فرشِ مجلس کا جو بچھاتا ہے
+جو بھی نوحہ کہیں سناتا ہے
+لے کے نامِ حسین روتا ہے
+اس کو زہرا سلام کرتی ہیں

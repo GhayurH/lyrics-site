@@ -1,34 +1,56 @@
 ---
-title: "Ik Mazloom Kay Tun Pay Baarish Teero Ki"
+title: "اک مظلوم کے تن پہ بارش تیروں کی"
+alternateTitle: "Ik Mazloom Kay Tun Pay Baarish Teero Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ik mazloom kay tun pay baarish teero ki
+  Dasht ki garmi chaaoon thee hai, dasht ki garmee chaaoon thee shamsheero ki
+
+  1
+  Asghar aaja lori sunaao, bin Akber kay chain na paaoo
+  Sughra khair duaain karti bhaiyya ki
+
+  2
+  Deen ki khaatir sir kutwaayaa, nayzaay per quraan sunaaya
+  Laaj rakee Shabbir nay laa ilaha ki
+
+  3
+  Abid kyun hain tauq sambhaalee, aankhoon say kyun khoon hai jaari
+  Roeye zaar-o-zaar lari zanjeero ki
+
+  4
+  Punjaten ki jaagir ki waaris, bay parda tatheer ki waaris
+  Sir nungay baazaaro main hain bint-e-Ali
+
+  5
+  Bhai ki laash pay ro kar boli, khoon kay aansoo Zahra jaaee
+  Bin chadar hai maut teri hamsheera ki
 ---
 
-Ik mazloom kay tun pay baarish teero ki
+اک مظلوم کے تن پہ بارش تیروں کی
+دشت کی گرمی چھاؤں تھی ہے، دشت کی گرمی چھاؤں تھی شمشیروں کی
 
-dasht ki garmi chaaoon thee hai, dasht ki garmee chaaoon thee shamsheero ki
+۱
+اصغر آ جا لوری سناؤ، بن اکبر کے چین نہ پاؤں
+صغریٰ خیر دعائیں کرتی بھیا کی
 
-Asghar aaja lori sunaao, bin Akber kay chain na paaoo
+۲
+دین کی خاطر سر کٹوایا، نیزے پر قرآن سنایا
+لاج رکھی شبیر نے لا الٰہ کی
 
-sughra khair duaain karti bhaiyya ki
+۳
+عابد کیوں ہیں طوق سنبھالے، آنکھوں سے کیوں خون ہے جاری
+روئے زار و زار لڑی زنجیروں کی
 
-deen ki khaatir sir kutwaayaa, nayzaay per quraan sunaaya
+۴
+پنجتن کی جاگیر کی وارث، بے پردہ تطہیر کی وارث
+سر ننگے بازاروں میں ہیں بنتِ علی
 
-laaj rakee Shabbir nay laa ilaha ki
-
-Abid kyun hain tauq sambhaalee, aankhoon say kyun khoon hai jaari
-
-roeye zaar-o-zaar lari zanjeero ki
-
-punjaten ki jaagir ki waaris, bay parda tatheer ki waaris
-
-sir nungay baazaaro main hain bint-e-Ali
-
-Bhai ki laash pay ro kar boli, khoon kay aansoo Zahra jaaee
-
-bin chadar hai maut teri hamsheera ki
+۵
+بھائی کی لاش پہ رو کر بولی، خون کے آنسو زہرا جائی
+بن چادر ہے موت تیری ہمشیرہ کی

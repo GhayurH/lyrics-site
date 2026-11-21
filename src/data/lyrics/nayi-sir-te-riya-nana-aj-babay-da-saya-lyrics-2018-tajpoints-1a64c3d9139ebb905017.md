@@ -1,30 +1,50 @@
 ---
-title: "Nayi Sir Te Riya Nana Aj Babay Da Saya Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "نئیں سر تے ریا نانا اج بابے دا سایہ"
+alternateTitle: "Nayi Sir Te Riya Nana Aj Babay Da Saya"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Nayi sir te riya Nana aj babay da saya
+  Assi ujar gaye aan Nana haye dais paraya
+  Hasnain te yateemi pardais wich aye aayi
+  Zahra de lal rowan payi rondi aye khudai
+  Jadon babay de janaze nu Hasnain ne chaya
+  Keeta qatal musallay te Islam di baqa da
+  Zainab Khuda aye hafiz tatheer di rida da
+  Aj Kofay de musalmana ki zulm kamaya
+  Wasday ne naal babal dhiyaan layi paikay wehray
+  Kisay dhi de naal piyo de na pain aynj nakheray
+  Zahra di dhi ne ro ke haye wain aye paya
+  Baqiya che ro ke aakhay maa sun ke wain mere
+  Kar sabar meri bachari shala veer joon tere
+  Gal naal la bhirawaan nu jiwein Zahra ne laya
+  Sajday che mariya aye haye veer Mustafa da
+  Najfi arsh farash te pursa aye Murtaza da
+  Kar le qabool mula gham-e-Zahra sunaya
 ---
 
-1
-Nayi Sir Te Riya Nana Aj Babay Da Saya.
-Assi Ujar Gaye Aan Nana Haye Dais Paraya.
-Hasnain Te Yateemi Pardais Wich Aye Aayi.
-Zahra De Lal Rowan Payi Rondi Aye Khudai.
-Jadon Babay De Janaze Nu Hasnain Ne Chaya.
-Keeta Qatal Musallay Te Islam Di Baqa Da.
-Zainab Khuda Aye Hafiz Tatheer Di Rida Da.
-Aj Kofay De Musalmana Ki Zulm Kamaya.
-Wasday Ne Naal Babal Dhiyaan Layi Paikay Wehray.
-Kisay Dhi De Naal Piyo De Na Pain Aynj Nakheray.
-Zahra Di Dhi Ne Ro Ke Haye Wain Aye Paya.
-Baqiya Che Ro Ke Aakhay Maa Sun Ke Wain Mere.
-Kar Sabar Meri Bachari Shala Veer Joon Tere.
-Gal Naal La Bhirawaan Nu Jiwein Zahra Ne Laya.
-Sajday Che Mariya Aye Haye Veer Mustafa Da.
- Najfi Arsh Farash Te Pursa Aye Murtaza Da.
-Kar Le Qabool Mula Gham-e-Zahra Sunaya.
+۱
+نئیں سر تے ریا نانا اج بابے دا سایہ
+اسیں اجڑ گئے آں نانا ہائے دیس پرایا
+حسنین تے یتیمی پردیس وچ اے آئی
+زہرا دے لال روون پئی روندی اے خدائی
+جدوں بابے دے جنازے نوں حسنین نے چایا
+کیتا قتل مصلے تے اسلام دی بقا دا
+زینب خدا اے حافظ تطہیر دی ردا دا
+اج کوفے دے مسلمانا کی ظلم کمایا
+وسدے نے نال بابل دھیاں لئی پیکے ویہڑے
+کسے دھی دے نال پیو دے نہ پین اینج نخرے
+زہرا دی دھی نے رو کے ہائے وین اے پایا
+بقیع چے رو کے آکھے ماں سن کے وین میرے
+کر صبر میری بچاری شالا ویر جیون تیرے
+گل نال لا بھراواں نوں جیویں زہرا نے لایا
+سجدے چے ماریا اے ہائے ویر مصطفیٰ دا
+نجفی عرش فرش تے پرسا اے مرتضیٰ دا
+کر لے قبول مولا غمِ زہرا سنایا

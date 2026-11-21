@@ -1,35 +1,59 @@
 ---
-title: "Jab Kiya Kahin Main Ne Tazkira Wilayat Ka"
+title: "جب کیا کہیں میں نے تذکرہ ولایت کا"
+alternateTitle: "Jab Kiya Kahin Main Ne Tazkira Wilayat Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jab kiya kahin main ne tazkira wilayat ka
+  Aaye zikar sunne ko anbiya wilayat ka
+  Aasmaan se pathar ka barq ki tarha girna
+  Hai saboot yeh bhi munh bolta wilayat ka
+
+  2
+  Chahta hai gar teri malkiyaat bane jannt
+  Phir yaqeen se tum daman thamna wilayat ka
+  Munkir-e-Wila tujh ko chir wila se hai kyun kar
+  Mil raha hai Haider se silsila wilayat ka
+
+  3
+  Jo banaya jata hai zikar ke lafafoon se
+  Oss mehfil se behter hai jhopara wilayat ka
+  Sath apne bachoon ko tum zaror le jao
+  Hain Majalis-e-Sarwar jama wilayat ka
+
+  4
+  Shair miltey jatey hain dukhtar-e-payamber se
+  Kyun ke manqabat mein hai qafiya wilayat ka
+  Iltija main karta hoon Yousufi woh aa jaein
+  Bool hoga phir bala jabaja wilayat ka
 ---
 
-1
-Jab Kiya Kahin Main Ne Tazkira Wilayat Ka.
-Aaye Zikar Sunne Ko Anbiya Wilayat Ka.
-Aasmaan Se Pathar Ka Barq Ki Tarha Girna.
-Hai Saboot Yeh Bhi Munh Bolta Wilayat Ka.
+۱
+جب کیا کہیں میں نے تذکرہ ولایت کا
+آئے ذکر سننے کو انبیا ولایت کا
+آسمان سے پتھر کا برق کی طرح گرنا
+ہے ثبوت یہ بھی منہ بولتا ولایت کا
 
-2
-Chahta Hai Gar Teri Malkiyaat Bane Jannt.
-Phir Yaqeen Se Tum Daman Thamna Wilayat Ka.
-Munkir-e-Wila Tujh Ko Chir Wila Se Hai Kyun Kar.
-Mil Raha Hai Haider Se Silsila Wilayat Ka.
+۲
+چاہتا ہے گر تیری ملکیت بنے جنت
+پھر یقین سے تم دامن تھامنا ولایت کا
+منکرِ ولا تجھ کو چڑ ولا سے ہے کیوں کر
+مل رہا ہے حیدر سے سلسلہ ولایت کا
 
-3
-Jo Banaya Jata Hai Zikar Ke Lafafoon Se.
-Oss Mehfil Se Behter Hai Jhopara Wilayat Ka.
-Sath Apne Bachoon Ko Tum Zaror Le Jao.
-Hain Majalis-e-Sarwar Jama Wilayat Ka.
+۳
+جو بنایا جاتا ہے ذکر کے لفافوں سے
+اس محفل سے بہتر ہے جھونپڑا ولایت کا
+ساتھ اپنے بچوں کو تم ضرور لے جاؤ
+ہیں مجالسِ سرور جمع ولایت کا
 
-4
-Shair Miltey Jatey Hain Dukhtar-e-Payamber Se.
-Kyun Ke Manqabat Mein Hai Qafiya Wilayat Ka.
-Iltija Main Karta Hoon Yousufi Woh Aa Jaein.
-Bool Hoga Phir Bala Jabaja Wilayat Ka.
+۴
+شعر ملتے جاتے ہیں دخترِ پیمبر سے
+کیوں کہ منقبت میں ہے قافیہ ولایت کا
+التجا میں کرتا ہوں یوسفی وہ آ جائیں
+بول ہوگا پھر بالا جابجا ولایت کا

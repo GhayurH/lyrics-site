@@ -34,7 +34,7 @@ romanLyrics: |-
   Ghar lut gaya Shabbir ka
   Maaṅ aa gayi Shabbir ki
   Maatam karo Shabbir ka
-  Khanjar tale naize pe bhi
+  Khanjar tale neze pe bhi
   Karte rahe shukr-e-Khuda
 
   2
@@ -48,13 +48,13 @@ romanLyrics: |-
   3
   Sughra udhar roti rahi
   Maula idhar rote rahe
-  Waaṅ muntazir bimaar thi
+  Maaṅ muntazir bimaar thi
   Yaaṅ qatl sab hote rahe
   Sehra meiṅ ghar lutta raha
   Karte rahe shukr-e-Khuda
 
   4
-  Lipti sumeiṅ aspa se thi
+  Lipti sum aspaaṅ se thi
   Wo laadli beti teri
   Maalum tha Maula tujhe
   Ab na milegi ye kabhi
@@ -74,11 +74,11 @@ romanLyrics: |-
   Zindaan meiṅ har aan meiṅ
   Kaise sitam sehti rahi
   Beti teri behna teri
-  Dekha kiye naize se sab
+  Dekha kiye neze sahe sab
   Karte rahe shukr-e-Khuda
 
   7
-  Naize pe bhi sar hai tera
+  Neze pe bhi sar hai tera
   Phir bhi teri kya shaan hai
   Ye sar hai ae Maula tera
   Ya bolta Quraan hai

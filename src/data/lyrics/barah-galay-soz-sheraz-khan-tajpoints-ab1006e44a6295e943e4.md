@@ -1,37 +1,60 @@
 ---
-title: "Barah Galay Soz Sheraz Khan"
+title: "بارہ گلے، سوز شیراز خان"
+alternateTitle: "Barah Galay Soz Sheraz Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Soz"
 poet: "Jaun"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aik rasi mein bandhay barah galay
+  Ja baja kichtay rahe barah galay
+  Sham ki rahoon se pocho Sham tak
+  Kis tarha baqi bachay barah galay
+  Sham bholay kis tarha Sajjad ko
+  Jis ne zakhmo se bharay barah galay
+
+  2
+  Tashnagi se sans bhi mushkil hoi
+  Band kuch aisay hoye barah galay
+  Seena-e-Akbar ki yaad aane lagi
+  Zulm se aisa laray barah galay
+  Unn mein chota tha Sakina ka gala
+  Iss liye jhuk kar chaley barah galay
+
+  3
+  Deed se na mehramo ki Sham mein
+  Sharam se pal pal katay barah galay
+  De rahe they aasra Sajjad ko
+  Lashkar-e-Zainab jo they barah galay
+  Ashk Abid ki hain surkhi ka sabab
+  Jaun koi kya likhe barah galay
 ---
 
-Barah Galay Soz Sheraz Khan Lyrics
+۱
+ایک رسی میں بندھے بارہ گلے
+جا بجا کھنچتے رہے بارہ گلے
+شام کی راہوں سے پوچھو شام تک
+کس طرح باقی بچے بارہ گلے
+شام بھولے کس طرح سجاد کو
+جس نے زخموں سے بھرے بارہ گلے
 
-1
-Aik Rasi Mein Bandhay Barah Galay.
-Ja Baja Kichtay Rahe Barah Galay.
-Sham Ki Rahoon Se Pocho Sham Tak.
-Kis Tarha Baqi Bachay Barah Galay.
-Sham Bholay Kis Tarha Sajjad Ko.
-Jis Ne Zakhmo Se Bharay Barah Galay.
+۲
+تشنگی سے سانس بھی مشکل ہوئی
+بند کچھ ایسے ہوئے بارہ گلے
+سینۂ اکبر کی یاد آنے لگی
+ظلم سے ایسا لڑے بارہ گلے
+ان میں چھوٹا تھا سکینہ کا گلا
+اس لیے جھک کر چلے بارہ گلے
 
-2
-Tashnagi Se Sans Bhi Mushkil Hoi.
-Band Kuch Aisay Hoye Barah Galay.
-Seena-e-Akbar Ki Yaad Aane Lagi.
-Zulm Se Aisa Laray Barah Galay.
-Unn Mein Chota Tha Sakina Ka Gala.
-Iss Liye Jhuk Kar Chaley Barah Galay.
-
-3
-Deed Se Na Mehramo Ki Sham Mein.
-Sharam Se Pal Pal Katay Barah Galay.
-De Rahe They Aasra Sajjad Ko.
-Lashkar-e-Zainab Jo They Barah Galay.
-Ashk Abid Ki Hain Surkhi Ka Sabab.
- Jaun Koi Kya Likhe Barah Galay.
+۳
+دید سے نامحرموں کی شام میں
+شرم سے پل پل کٹے بارہ گلے
+دے رہے تھے آسرا سجاد کو
+لشکرِ زینب جو تھے بارہ گلے
+اشکِ عابد کی ہیں سرخی کا سبب
+جون کوئی کیا لکھے بارہ گلے

@@ -12,16 +12,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye nind khaak pa kaisi utho utho Bibi
+  Ye nind khaak pe kaisi utho utho Bibi
 
   1
-  Pidar jo khwaab mein aaye machal gayi bachchi
-  Fazaaeṅ qaid haram ki buka se hilne lagi
+  Pidar jo khwaab aaye machal gayi bachchi
+  Fazaaeṅ qaid-e-haram ki bukaa se hilne lagi
   Lipat ke baap ke sar se jo mar gayi beti
   To qaid khaane meiṅ Bano ki ye fughaaṅ gunji
 
   2
-  Fasaana-e-gham-e-furqat sunaao Baba ko
+  Fasaana-e-gham-e-Furaat sunaao Baba ko
   Hua jo baad-e-shahaadat sunaao Baba ko
   Safar ki saari musibat sunaao Baba ko
   Lipat ke Baba se khaamosh mat raho Bibi
@@ -34,8 +34,8 @@ romanLyrics: |-
 
   4
   Yaqiṅ tha tumheṅ lene ko aaeṅ ge Baba
-  Tumheṅ sukuṅ hua meri lut gayi dunya
-  Hamesha tum ne sunaaya hai haal-e-dil apna
+  Tumheṅ sukuṅ hua meri lut gayi duniya
+  Hamesha tum sunaaya hai haal-e-dil apna
   Gharib maaṅ ke bhi dil ki to kuchh suno Bibi
 
   5
@@ -45,19 +45,19 @@ romanLyrics: |-
   Hamaare gham ka sahaara na chhin lo Bibi
 
   6
-  Jo aise haal meiṅ dekhe khafa na ho Baba
-  Zara maiṅ saaf to kar duṅ ye khun kaanoṅ ka
+  Jo jaise haal meiṅ dekhe khafa na ho Baba
+  Zara main saaf to kar duṅ ye khun kaanoṅ ka
   Na pehne jaao Sakina phata hua kurta
-  Lahu meiṅ dubi ye zulfeṅ saṅwaar lo Bibi
+  Lahu meiṅ dubi ye zulfeṅ sanwaar lo Bibi
 
   7
-  Maiṅ qatl gaah meiṅ Asghar ko aayi huṅ kho kar
+  Main qatl gaah meiṅ Asghar ko aayi huṅ kho kar
   Suhaag ujar gaya waaris nahiṅ raha sar par
   Gharib maaṅ ka sahaara nahiṅ koi dilbar
   Tum is tarah mujhe tanha na chhor do Bibi
 
   8
-  Khule hue dar-e-zindaaṅ hai khatm ranj o mehan
+  Khule hue dar-e-zindaaṅ hai khatm ranj o mihan
   Tamaam kunbe ke haathoṅ se khul gayi hai rasan
   Kahaaṅ gaya meri bachchi tumhaara shauq-e-watan
   Rihaai mil gayi zindaaṅ se ghar chalo Bibi

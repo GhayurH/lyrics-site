@@ -10,49 +10,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya ali adrikni
+  Ya Ali Adrikni
 
   1
-  Ro ke bazaar may deti thi sada binte ali
-  Ya ali adrikni ya ali adrikni
-  Nok-e-naiza se sada deta hai ibne zehra
-  Log zainab ki taraf dekh rahe hai baba
-  Zer e khanjar nazar aati hai tumhari beti
+  Ro ke bazaar meiṅ deti thi sada Bint-e-Ali
+  Ya Ali Adrikni ya Ali Adrikni
+  Nok-e-naiza se sada deta hai Ibn-e-Zehra
+  Log Zainab ki taraf dekh rahe haiṅ baba
+  Zer-e-khanjar nazar aati hai tumhaari beti
 
   2
-  Imtehaṅ ghairat-e-sajjad ka kaisa hoga
-  Qatl darbar may sajjad dobara hoga
-  Maangne aaya hai bacchi ko kanizi may shaqi
+  Imtehaaṅ ghairat-e-Sajjad ka kaisa hoga
+  Qatl darbaar meiṅ Sajjad dobaara hoga
+  Maangne aaya hai bachchi ko kanizi meiṅ shaqi
 
   3
   Keh do zaalim se mujhe maar le aa kar durra
-  Baba zainab se ye manzar nahi dekha jaata
-  Maarta hai wo mere bhai ke hontoṅ pe chari
+  Baba Zainab se ye manzar nahiṅ dekha jaata
+  Maarta hai wo mere bhaai ke hontoṅ pe chhari
 
   4
-  Sar khule shaam may sadaat jidhar jaate hai
-  Log patthar liye pehle hi nazar aate hai
-  Aaj bazaar may mar jaaye na koi bibi
+  Sar khule Shaam meiṅ Saadaat jidhar jaate haiṅ
+  Log patthar liye pehle hi nazar aate haiṅ
+  Aaj bazaar meiṅ mar jaaye na koi Bibi
 
   5
-  Aap ke samne jo baat nahi karti thi
-  Aaj bazaar may wo beti bhi khutbe degi
+  Aap ke saamne jo baat nahiṅ karti thi
+  Aaj bazaar meiṅ wo beti bhi khutbe degi
   Aap ke lehje ki is waqt zarurat hai bari
 
   6
-  Abhi darbar se pehle hi guzar jayegi
-  Sun liya saani e zahra ne to mar jayegi
-  Log kehte hai Husain ibne ali ko baaghi
+  Abhi darbaar se pehle hi guzar jaayegi
+  Sun liya Saani-e-Zahra ne to mar jaayegi
+  Log kehte haiṅ Husain Ibn-e-Ali ko baaghi
 
   7
-  Saare bazaar ne has has ke tamasha dekha
-  Aur bhi shimr ne is baat pe is ko maara
-  Jab tamanchoṅ pe sakina ye tarap kar boli
+  Saare bazaar ne hans hans ke tamaasha dekha
+  Aur bhi Shimr ne is baat pe is ko maara
+  Jab tamaanchoṅ pe Sakina ye tarap kar boli
 
   8
-  Baab e sa’at ka jo bazaar se dekha manzar
-  The takallum wahaṅ sab log uthaye patthar
-  Saani e zehra ye kehti hui naaqe se giri
+  Baab-e-saat ka jo bazaar se dekha manzar
+  The Takallum wahaaṅ sab log uthaaye patthar
+  Saani-e-Zehra ye kehti hui naaqe se giri
 ---
 
 یا علی ادرکنی

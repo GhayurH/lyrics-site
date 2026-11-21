@@ -10,35 +10,35 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aake sarwar ye bain karte hai
-  Haye zainab nahi raha ghazi
-  Binte zehra ka aasra ghazi
-  Hua karbal may jab juda ghazi
-  Binte zehra ka...
-  Ab bhi binte Husain roti hai
-  Qaid se aake tu chura ghazi
-  Binte zehra ka...
-  Sar se zainab ki gir gayi chadar
-  Jis ghari ran ko tu chala ghazi
-  Binte zehra ka...
-  Kund khanjar se shimr yuṅ maare
-  Jaanta hai nahi raha ghazi
-  Binte zehra ka...
-  Meri chadar khuda ka parda hai
-  Meri chadar ki tu baqa ghazi
-  Binte zehra ka...
-  Kaise jaungi shaam aur kufa
-  Mujhko mehmil may tu bitha ghazi
-  Binte zehra ka...
-  Puche ummul baneen zainab se
-  Kis tarha zin se gira ghazi
-  Binte zehra ka...
-  Cheh jagah se Husain chun aaye
-  Phir bhi pura na mil saka ghazi
-  Binte zehra ka...
-  Qaime jalte rahe bulaati rahi
-  Shimr se aake tu bacha ghazi
-  Binte zehra ka...
+  Aake Sarwar ye bain karte haiṅ
+  Haye Zainab nahiṅ raha Ghazi
+  Bint-e-Zehra ka aasra Ghazi
+  Hua Karbal mein jab juda Ghazi
+  Bint-e-Zehra ka...
+  Ab bhi Bint-e-Husain roti hai
+  Qaid se aake tu chhura Ghazi
+  Bint-e-Zehra ka...
+  Sar se Zainab ki gir gayi chaadar
+  Jis ghari ran ko tu chala Ghazi
+  Bint-e-Zehra ka...
+  Kund khanjar se Shimr yuṅ maare
+  Jaanta hai nahiṅ raha Ghazi
+  Bint-e-Zehra ka...
+  Meri chaadar Khuda ka parda hai
+  Meri chaadar ki tu baqa Ghazi
+  Bint-e-Zehra ka...
+  Kaise jaauṅ gi Shaam aur Kufa
+  Mujhko mahmil mein tu bitha Ghazi
+  Bint-e-Zehra ka...
+  Puchhe Ummul Banin Zainab se
+  Kis tarha zin se gira Ghazi
+  Bint-e-Zehra ka...
+  Chhe jagah se Husain chun aaye
+  Phir bhi pura na mil saka Ghazi
+  Bint-e-Zehra ka...
+  Khaime jalte rahe bulaati rahi
+  Shimr se aake tu bacha Ghazi
+  Bint-e-Zehra ka...
 ---
 
 ۱

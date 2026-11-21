@@ -3,40 +3,71 @@ title: "جب گئی آلِ پیمبر کربلا سے شام تک"
 alternateTitle: "Jab Gayi Aal-e-Payambar Karbala Se Sham Tak"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jab gayi Aal-e-Payamber Karbala se Sham tak
+  Saath tha zalim ka lashkar Karbala se Sham tak
+
+  1
+  Ik rasan mein bazu-e-Zainab Sakina ka gala
+  Larkharaye har qadam par Karbala se Sham tak
+
+  2
+  Ummat-e-aasi se ro kar Shah ke ahl-e-haram
+  Maangte jaate the chadar Karbala se Sham tak
+
+  3
+  Be rida ahl-e-haram ko har qadam aati rahi
+  Yaad-e-Abbas-e-Dilawar Karbala se Sham tak
+
+  4
+  Chehra baalon se chhupaye ashk aankhon se rawaan
+  Ja rahi hai bint-e-Haider Karbala se Sham tak
+
+  5
+  Allah Allah yeh wafa yeh jaan nisari dekhiye
+  Saath the Sheh ke bahattar Karbala se Sham tak
+
+  6
+  Ja rahi thi Umm-e-Laila zair-e-lab kehti hui
+  Haye Akbar Haye Akbar Karbala se Sham tak
+
+  7
+  Choomta palkon se naqsh-e-paye bint-e-Murtaza
+  Khwab mein jaata jo Mehshar Karbala se Sham tak
 ---
-Jab Gayi Aal-e-Payamber Karbala Se Sham Tak
-Saath Tha Zalim Ka Lashkar Karbala Se Sham Tak
+جب گئی آلِ پیمبر کربلا سے شام تک
+ساتھ تھا ظالم کا لشکر کربلا سے شام تک
 
-1
-Ik Rasan Mein Bazu-e-Zainab Sakina Ka Gala
-Larkharaye Har Qadam Par Karbala Se Sham Tak
+۱
+اک رسن میں بازوئے زینب، سکینہ کا گلا
+لڑکھڑائے ہر قدم پر کربلا سے شام تک
 
-2
-Ummat-e-Aasi Se Ro Kar Shah Ke Ahl-e-Haram
-Maangte Jaate The Chadar Karbala Se Sham Tak
+۲
+امتِ عاصی سے رو کر شاہ کے اہلِ حرم
+مانگتے جاتے تھے چادر کربلا سے شام تک
 
-3
-Be Rida Ahl-e-Haram Ko Har Qadam Aati Rahi
-Yaad-e-Abbas-e-Dilawar Karbala Se Sham Tak
+۳
+بے ردا اہلِ حرم کو ہر قدم آتی رہی
+یادِ عباسِ دلاور کربلا سے شام تک
 
-4
-Chehra Baalon Se Chhupaye Ashk Aankhon Se Rawaan
-Ja Rahi Hai Bint-e-Haider Karbala Se Sham Tak
+۴
+چہرہ بالوں سے چھپائے، اشک آنکھوں سے رواں
+جا رہی ہے بنتِ حیدر کربلا سے شام تک
 
-5
-Allah Allah Yeh Wafa Yeh Jaan Nisari Dekhiye
-Saath The Sheh Ke Bahattar Karbala Se Sham Tak
+۵
+اللہ اللہ، یہ وفا، یہ جاں نثاری دیکھیے
+ساتھ تھے شہ کے بہتر کربلا سے شام تک
 
-6
-Ja Rahi Thi Umm-e-Laila Zair-e-Lab Kehti Hui
-Haye Akbar Haye Akbar Karbala Se Sham Tak
+۶
+جا رہی تھی امِ لیلیٰ زیرِ لب کہتی ہوئی
+ہائے اکبر، ہائے اکبر کربلا سے شام تک
 
-7
-Choomta Palkon Se Naqsh-e-Paye Bint-e-Murtaza
-Khwab Mein Jaata Jo Mehshar Karbala Se Sham Tak
+۷
+چومتا پلکوں سے نقشِ پائے بنتِ مرتضیٰ
+خواب میں جاتا جو محشر کربلا سے شام تک

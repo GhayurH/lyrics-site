@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   So gaya dasht meiṅ har naaz uthaane waala
-  Kis ko dikhlaati Sakina wo tamaachoṅ ke nishaaṅ
+  Kis ko dikhlaati Sakina wo tamaanchoṅ ke nishaaṅ
   Mere bhaiya ho kahaaṅ
 
   5

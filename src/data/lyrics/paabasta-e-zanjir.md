@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Lehje meiṅ wohi faateh-e-Khaibar ki garaj hai
-  Karraar ki jarraar ki Safdar ki garaj hai
+  Karraar ki Jarraar ki Safdar ki garaj hai
   Pyaase ke garajte hue khutbe ko bhi dekho
 
   2

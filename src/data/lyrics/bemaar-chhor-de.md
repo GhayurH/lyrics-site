@@ -57,7 +57,7 @@ romanLyrics: |-
   Hujre ko yuṅ sanwaarna bemaar chhor de
 
   8
-  Abid ki khuṅ roti hui chashm-e-gham Samar
+  Aabid ki khuṅ roti hui chashm-e-gham Samar
   Kehti thi haaye dasht meiṅ maare gaye pidar
   Raatoṅ ko uth ke dhundna bemaar chhor de
 ---

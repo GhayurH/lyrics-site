@@ -1,38 +1,66 @@
 ---
-title: "Bete Abu Talib Ko Diye Aise Khuda Ne"
+title: "بیٹے ابو طالب کو دیے ایسے خدا نے"
+alternateTitle: "Bete Abu Talib Ko Diye Aise Khuda Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bete Abu Talib ko diye aise Khuda ne
+  Jo deen ka sar ban gaye Islam ke shaney
+
+  1
+  Takhleeq kiya jab humein Zahra ki dua ne
+  Qudrat ne kaha farsh-e-azza jao bichanay
+  Paida hoye Sajjad tu sajdoon ne sada di
+  Ik our Ali aa gaya Quran bachaney
+
+  2
+  Sajjad se seekhay koi aadab-e-ibadat
+  Saf basta namazein hoon khari jis ke sirhaney
+  Jab chahein gay janat mein chaley jaein hum loag
+  Majlis ke bahane kabhi matam ke bahane
+
+  3
+  Aanso ki tarha rakh diye aankhon mein yeh kis ne
+  Aye Fatima Zahra teri tasbeeh ke danay
+  Sajjad ne youn bar-e-imamat ko uthaya
+  Nezay se kaha sallay ala sab shuhda ne
+
+  4
+  Sajjad ne bakhsha hai saheefa woh dua ka
+  Rukh badla jisay dekh ke mandlati qaza ne
+  Sajjad ke sadqay mujhe mashoor kiya hai
+  Rehan zamane mein Shah e Karb-o-Bala ne
 ---
 
-Bete Abu Talib Ko Diye Aise Khuda Ne.
-Jo Deen Ka Sar Ban Gaye Islam Ke Shaney.
+بیٹے ابو طالب کو دیے ایسے خدا نے
+جو دین کا سر بن گئے اسلام کے شانے
 
-1
-Takhleeq Kiya Jab Humein Zahra Ki Dua Ne.
-Qudrat Ne Kaha Farsh-e-Azza Jao Bichanay.
-Paida Hoye Sajjad Tu Sajdoon Ne Sada Di.
-Ik Our Ali Aa Gaya Quran Bachaney.
+۱
+تخلیق کیا جب ہمیں زہرا کی دعا نے
+قدرت نے کہا فرشِ عزا جاؤ بچھانے
+پیدا ہوئے سجاد تو سجدوں نے صدا دی
+اک اور علی آ گیا قرآن بچانے
 
-2
-Sajjad Se Seekhay Koi Aadab-e-Ibadat.
-Saf Basta Namazein Hoon Khari Jis Ke Sirhaney.
-Jab Chahein Gay Janat Mein Chaley Jaein Hum Loag.
-Majlis Ke Bahane Kabhi Matam Ke Bahane.
+۲
+سجاد سے سیکھے کوئی آدابِ عبادت
+صف بستہ نمازیں ہوں کھڑی جس کے سرہانے
+جب چاہیں گے جنت میں چلے جائیں ہم لوگ
+مجلس کے بہانے کبھی ماتم کے بہانے
 
-3
-Aanso Ki Tarha Rakh Diye Aankhon Mein Yeh Kis Ne.
-Aye Fatima Zahra Teri Tasbeeh Ke Danay.
-Sajjad Ne Youn Bar-e-Imamat Ko Uthaya.
-Nezay Se Kaha Sallay Ala Sab Shuhda Ne.
+۳
+آنسو کی طرح رکھ دیے آنکھوں میں یہ کس نے
+اے فاطمہ زہرا تیری تسبیح کے دانے
+سجاد نے یوں بارِ امامت کو اٹھایا
+نیزے سے کہا صلِّ علیٰ سب شہدا نے
 
-4
-Sajjad Ne Bakhsha Hai Saheefa Woh Dua Ka.
-Rukh Badla Jisay Dekh Ke Mandlati Qaza Ne.
-Sajjad Ke Sadqay Mujhe Mashoor Kiya Hai.
- Rehan Zamane Mein Shah e Karb-o-Bala Ne.
+۴
+سجاد نے بخشا ہے صحیفہ وہ دعا کا
+رخ بدلا جسے دیکھ کے منڈلاتی قضا نے
+سجاد کے صدقے مجھے مشہور کیا ہے
+ریحان زمانے میں شاہِ کرب و بلا نے

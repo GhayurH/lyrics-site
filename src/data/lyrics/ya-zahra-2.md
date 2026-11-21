@@ -10,47 +10,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Fatema zahra fatema zahra
-  Ya zahra ya zahra
+  Fatema Zahra Fatema Zahra
+  Ya Zahra ya Zahra
 
   1
-  Ae meri bibi tere dar pe istghasa hai
+  Ae meri Bibi tere dar pe istighaasa hai
   Tera mamnun meri shahzadi ye jahaṅ saara hai
 
   2
-  Tu hamay hifz aur amaaṅ de de
-  Apni chadar ka saibaṅ de de
-  Teri khudrat meiṅ kya nahi bibi
+  Tu hameṅ hifz aur amaaṅ de de
+  Apni chadar ka saayabaaṅ de de
+  Teri qudrat mein kya nahiṅ Bibi
   Tu jise chaahe do jahaṅ de de
 
   3
   Tujhko ummat ne yuṅ sataya hai
-  Marg e mohsin pe bhi rulaya hai
+  Marg-e-Mohsin pe bhi rulaya hai
   Tujhko baba ke baad ummat ne
-  Haye darbar meiṅ bulaya hai
+  Haye darbar mein bulaya hai
 
   4
-  Boli zahra ali se ya maula
-  Gham ye mujhse nahi saha jaata
-  Qatle mohsin se barh ke mushkil tha
-  Bhare darbar meiṅ mera jaana
+  Boli Zahra Ali se ye Maula
+  Gham ye mujhse nahiṅ saha jaata
+  Qatl-e-Mohsin se barh ke mushkil tha
+  Bhare darbar mein mera jaana
 
   5
-  Jab tha rassi meiṅ murtaza ka gala
-  Imtehaṅ zabt ka wo tha tera
-  Haaṅ madina ujar gaya hota
-  Tu jo de deti bad dua zahra
+  Jab tha rassi mein Murtaza ka gala
+  Imtihaaṅ zabt ka wo tha tera
+  Haaṅ Madina ujar gaya hota
+  Tu jo de deti bad dua Zahra
 
   6
-  Tu hijabe khuda hai ya zahra
-  Dard tere hai sab se posheeda
+  Tu hijaab-e-Khuda hai ya Zahra
+  Dard tere haiṅ sab se poshida
   Kitni muztar hai kitni zakhmi hai
-  Ya ali jaante hai ya fizza
+  Ya Ali jaante haiṅ ya Fizza
 
   7
-  Ae mohamed ki laadli dukhtar
-  Gham meiṅ tere hai murtaza muztar
-  Jis ne dhaaya tha baab kyber ka
+  Ae Muhammad ki laadli dukhtar
+  Gham mein tere hai Murtaza muztar
+  Jis ne dhaaya tha baab-e-Khaibar ka
   Gir gaya khaak par wo ye keh kar
 
   8
@@ -60,26 +60,26 @@ romanLyrics: |-
   Jo bhi kuch hai teri badolat hai
 
   9
-  Karz makruz ka ada kar de
-  Muflisoṅ ka nasib wa kar de
-  Jin ki godhi hari nahi bibi
+  Qarz maqruz ka ada kar de
+  Muflisoṅ ka nasib waa kar de
+  Jin ki godi hari nahiṅ Bibi
   Unko aulaad tu ataa kar de
 
   10
-  Waqt-e-aakhir hai bas mera bibi
-  Anginat hai mere gunaah bibi
-  Waasta tujhko tere bacchoṅ ka
-  Bakhshwana mere gunaah bibi
+  Waqt-e-aakhir hai bas mera Bibi
+  Anginat haiṅ mere gunaah Bibi
+  Waasta tujhko tere bachchoṅ ka
+  Bakhshwana mere gunaah Bibi
 
   11
-  Farshe majlis pe aur musalle par
+  Farsh-e-majlis pe aur musalle par
   Har jawaaṅ keh raha hai ro ro kar
-  Hum rahe na rahe magar bibi
-  Ta qayamat rahe gham e sarwar
+  Hum raheṅ na raheṅ magar Bibi
+  Taa qayaamat rahe gham-e-Sarwar
 
   12
-  Ae meri bibi tere bacchoṅ ka gham maante hai
-  Apni aulaad se kahiṅ bad ke gham ye pyara hai
+  Ae meri Bibi tere bachchoṅ ka gham manaate haiṅ
+  Apni aulaad se kahiṅ barh ke gham ye pyara hai
 ---
 
 فاطمہ زہرا فاطمہ زہرا

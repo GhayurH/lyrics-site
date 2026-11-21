@@ -1,7 +1,7 @@
 ---
 title: "بیڑیاں روتی رہی عابد بیمار کے ساتھ"
 recitationId: "bediyan-roti-rahi"
-alternateTitle: "Beriyaṅ Roti Rahi"
+alternateTitle: "Beriyaaṅ Roti Rahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Beriyaṅ roti rahi Aabid-e-bimaar ke saath
+  Beriyaaṅ roti rahi Aabid-e-bimaar ke saath
   Khun behta raha zanjir ki jhankaar ke saath
 
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
   Aisa jakra tha gala tauq-e-giraaṅ baar ke saath
 
   3
-  Sar jhukaaye haiṅ phuphi ammaṅ se haiṅ sharminda
+  Sar jhukaaye haiṅ phuphi ammaaṅ se haiṅ sharminda
   Chaadareṅ laake urha bhi nahiṅ sakte Maula
   Rubaru kaise ho wo Zainab laachaar ke saath
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   7
   Aake majlis meiṅ Hasan sar ko jhukaaye rakhna
   Ro ke Sajjad ko Shabbir ka pursa dena
-  Baithe hoṅge wo kisi Shah ke azaadaar ke saath
+  Baithe honge wo kisi Shah ke azaadaar ke saath
 ---
 بیڑیاں روتی رہی عابد بیمار کے ساتھ
 خون بہتا رہا زنجیر کی جھنکار کے ساتھ

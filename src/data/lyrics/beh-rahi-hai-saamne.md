@@ -32,7 +32,7 @@ romanLyrics: |-
   Gharq khuṅ meiṅ kaukab-e-Islam hai
 
   6
-  Shaam ke baadal meiṅ hai mehve mubin
+  Shaam ke baadal meiṅ hai mahv-e-mubin
   Hai andhera hashr ka hangaam hai
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   11
   Chaahta huṅ maiṅ ye mar jaae abhi
-  Tere ek tir-e-sitam ka kaam hai
+  Tere ik tir-e-sitam ka kaam hai
 
   12
   Waada-e-tifli bapa hone ko hai

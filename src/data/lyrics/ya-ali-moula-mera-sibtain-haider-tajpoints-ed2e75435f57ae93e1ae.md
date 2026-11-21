@@ -1,92 +1,173 @@
 ---
-title: "Ya Ali Moula Mera Sibtain Haider"
+title: "یا علی مولا میرا سبطین حیدر"
+alternateTitle: "Ya Ali Moula Mera Sibtain Haider"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Ali moula mera Sibtain Haider
+  Maula mera, ya Ali maula mera
+
+  1
+  Jan-e-man shah-e-zaman noor-e-azal shair-e-Khuda
+  Yeh hai Allah ki har aik jhalak se waqif
+  Yeh zameen se bhi zyada hai falak se waqif
+  Sab ke eman se shajron se namak se waqif
+
+  2
+  Chand ki roshni taroon ki chamak se waqif
+  Yeh jo chahe tu zameen arsh se opar rakhday
+  Khak bosa le qadam apne jahan par rakhday
+  Oss ki har baat alag shan bhi sab se hai juda
+
+  3
+  Mere maula ka zamane mein jo dewana hai
+  Ishq-e-Haider mein wilayat ka woh parwana hai
+  Tu ne Haider ko bila fasal agar mana hai
+  Mera dawa hai keh janat mein tujhe jana hai
+
+  4
+  Jis tarha ki hai Muhammad se muhabbat wajib
+  Hai ossi tarha se Haider ki wilayat wajib
+  Khalq mein bad-e-Khuda bad-e-Nabi sab se bara
+  Tere rutbay tere aousaf boland-o-bala
+
+  5
+  Tu haqeeqat mein kamalat mein sab se aala
+  Oss ka beta hai tu woh jis ne Muhammad pala
+  Dono aalam ko tu hi tu hai bananey wala
+  Haan Yadullah ka bas tujh pe laqab jachta hai
+
+  6
+  Kab teri taig ke hamlay se koi bachta hai
+  Jab se jana hai tujhe bas hai yehi wird mera
+  Haye uneeswin Ramzan woh ghurbat ki ghari
+  Pyar bachoon ko kiya ghar se chaley maula Ali
+
+  7
+  Rakha masjid mein qadam haye zameen roney lagi
+  Jab howa fajar ka aagaz qayamat guzri
+  Dosrey sajday mein talwar chali maula par
+  Ibn-e-Muljim ne kiya waar shikasta howa sar
+
+  8
+  Our sajday mein sada detey rahe shair-e-Khuda
+  Haan Ali kehne lagay samne aao aye Hasan
+  Sar uthata hoon nahi uthta uthao aye Hasan
+  Jab uthaya tu Ali ne kaha jao aye Hasan
+
+  9
+  Dekho baqi hai abhi fajar parhao aye Hasan
+  Meri halat ke sabab kaisay adhori ho namaz
+  Mere betay ki imamat mein hi pori ho namaz
+  Jab ada fajar hoi karta raha shukar ada
+
+  10
+  Ro ke beton se kaha betiyaan yaad aati hain
+  Main jo ghar dair se pohancho tu woh ghabrati hain
+  Woh rida orh ke darwazay pe aa jati hain
+  Jab talak dekh na lein chain kahan pati hain
+
+  11
+  Phir Ali kehne lagay haye chalo ghar ki taraf
+  Ghar se Zainab na nikal aaye chalo ghar ki taraf
+  Aaj hone ko hai Kofay mein qayamat barpa
+  Ghar Ali pohanchay tu kuhram utha wawela
+
+  12
+  Betiyaan roein jo sar baap ka zakhmi dekha
+  Din guzartay gaye ikeeswin ka din nikla
+  Haye Zeeshan yeh din sab pe qayamat laya
+  Haye Kofay keh yateemo ka sahara na raha
+
+  13
+  Shoor uthta tha keh Abbas ka baba na raha
+  Aa ke Jibreel ne Kofay mein sunaya noha
+  Haye Ali marey gaye, haye Ali marey gaye
+  Haye Ali marey gaye, haye Ali marey gaye
 ---
 
-Ya Ali Moula Mera Sibtain Haider
-Maula Mera, Ya Ali Maula Mera.
+یا علی مولا میرا سبطین حیدر
+مولا میرا، یا علی مولا میرا
 
-1
-Jan-e-Man Shah-e-Zaman Noor-e-Azal Shair-e-Khuda.
-Yeh Hai ALLAH Ki Har Aik Jhalak Se Waqif.
-Yeh Zameen Se Bhi Zyada Hai Falak Se Waqif.
-Sab Ke Eman Se Shajron Se Namak Se Waqif.
+۱
+جانِ من شاہِ زماں نورِ ازل شیرِ خدا
+یہ ہے اللہ کی ہر ایک جھلک سے واقف
+یہ زمین سے بھی زیادہ ہے فلک سے واقف
+سب کے ایماں سے شجروں سے نمک سے واقف
 
-2
-Chand Ki Roshni Taroon Ki Chamak Se Waqif.
-Yeh Jo Chahe Tu Zameen Arsh Se Opar Rakhday.
-Khak Bosa Le Qadam Apne Jahan Par Rakhday.
-Oss Ki Har Baat Alag Shan Bhi Sab Se Hai Juda.
+۲
+چاند کی روشنی تاروں کی چمک سے واقف
+یہ جو چاہے تو زمین عرش سے اوپر رکھ دے
+خاک بوسہ لے قدم اپنے جہاں پر رکھ دے
+اس کی ہر بات الگ شان بھی سب سے ہے جدا
 
-3
-Mere Maula Ka Zamane Mein Jo Dewana Hai.
-Ishq-e-Haider Mein Wilayat Ka Woh Parwana Hai.
-Tu Ne Haider Ko Bila Fasal Agar Mana Hai.
-Mera Dawa Hai Keh Janat Mein Tujhe Jana Hai.
+۳
+میرے مولا کا زمانے میں جو دیوانہ ہے
+عشقِ حیدر میں ولایت کا وہ پروانہ ہے
+تو نے حیدر کو بلا فصل اگر مانا ہے
+میرا دعویٰ ہے کہ جنت میں تجھے جانا ہے
 
-4
-Jis Tarha Ki Hai Muhammad Se Muhabbat Wajib.
-Hai Ossi Tarha Se Haider Ki Wilayat Wajib.
-Khalq Mein Bad-e-Khuda Bad-e-Nabi Sab Se Bara.
-Tere Rutbay Tere Aousaf Boland-o-Bala.
+۴
+جس طرح کی ہے محمد سے محبت واجب
+ہے اسی طرح سے حیدر کی ولایت واجب
+خلق میں بعدِ خدا بعدِ نبی سب سے بڑا
+تیرے رتبے تیرے اوصاف بلند و بالا
 
-5
-Tu Haqeeqat Mein Kamalat Mein Sab Se Aala.
-Oss Ka Beta Hai Tu Woh Jis Ne Muhammad Pala.
-Dono Aalam Ko Tu Hi Tu Hai Bananey Wala.
-Haan Yadullah Ka Bas Tujh Pe Laqab Jachta Hai.
+۵
+تو حقیقت میں کمالات میں سب سے اعلیٰ
+اس کا بیٹا ہے تو وہ جس نے محمد پالا
+دونوں عالم کو تو ہی تو ہے بنانے والا
+ہاں ید اللہ کا بس تجھ پہ لقب جچتا ہے
 
-6
-Kab Teri Taig Ke Hamlay Se Koi Bachta Hai.
-Jab Se Jana Hai Tujhe Bas Hai Yehi Wird Mera.
-Haye Uneeswin Ramzan Woh Ghurbat Ki Ghari.
-Pyar Bachoon Ko Kiya Ghar Se Chaley Maula Ali.
+۶
+کب تیری تیغ کے حملے سے کوئی بچتا ہے
+جب سے جانا ہے تجھے بس ہے یہی ورد میرا
+ہائے انیسویں رمضان وہ غربت کی گھڑی
+پیار بچوں کو کیا گھر سے چلے مولا علی
 
-7
-Rakha Masjid Mein Qadam Haye Zameen Roney Lagi.
-Jab Howa Fajar Ka Aagaz Qayamat Guzri.
-Dosrey Sajday Mein Talwar Chali Maula Par.
-Ibn-e-Muljim Ne Kiya Waar Shikasta Howa Sar.
+۷
+رکھا مسجد میں قدم ہائے زمین رونے لگی
+جب ہوا فجر کا آغاز قیامت گزری
+دوسرے سجدے میں تلوار چلی مولا پر
+ابنِ ملجم نے کیا وار شکستہ ہوا سر
 
-8
-Our Sajday Mein Sada Detey Rahe Shair-e-Khuda.
-Haan Ali Kehne Lagay Samne Aao Aye Hasan.
-Sar Uthata Hoon Nahi Uthta Uthao Aye Hasan.
-Jab Uthaya Tu Ali Ne Kaha Jao Aye Hasan.
+۸
+اور سجدے میں صدا دیتے رہے شیرِ خدا
+ہاں علی کہنے لگے سامنے آؤ اے حسن
+سر اٹھاتا ہوں نہیں اٹھتا اٹھاؤ اے حسن
+جب اٹھایا تو علی نے کہا جاؤ اے حسن
 
-9
-Dekho Baqi Hai Abhi Fajar Parhao Aye Hasan.
-Meri Halat Ke Sabab Kaisay Adhori Ho Namaz.
-Mere Betay Ki Imamat Mein Hi Pori Ho Namaz.
-Jab Ada Fajar Hoi Karta Raha Shukar Ada.
+۹
+دیکھو باقی ہے ابھی فجر پڑھاؤ اے حسن
+میری حالت کے سبب کیسے ادھوری ہو نماز
+میرے بیٹے کی امامت میں ہی پوری ہو نماز
+جب ادا فجر ہوئی کرتا رہا شکر ادا
 
-10
-Ro Ke Beton Se Kaha Betiyaan Yaad Aati Hain.
-Main Jo Ghar Dair Se Pohancho Tu Woh Ghabrati Hain.
-Woh Rida Orh Ke Darwazay Pe Aa Jati Hain.
-Jab Talak Dekh Na Lein Chain Kahan Pati Hain.
+۱۰
+رو کے بیٹوں سے کہا بیٹیاں یاد آتی ہیں
+میں جو گھر دیر سے پہنچوں تو وہ گھبراتی ہیں
+وہ ردا اوڑھ کے دروازے پہ آ جاتی ہیں
+جب تلک دیکھ نہ لیں چین کہاں پاتی ہیں
 
-11
-Phir Ali Kehne Lagay Haye Chalo Ghar Ki Taraf.
-Ghar Se Zainab Na Nikal Aaye Chalo Ghar Ki Taraf.
-Aaj Hone Ko Hai Kofay Mein Qayamat Barpa.
-Ghar Ali Pohanchay Tu Kuhram Utha Wawela.
+۱۱
+پھر علی کہنے لگے ہائے چلو گھر کی طرف
+گھر سے زینب نہ نکل آئے چلو گھر کی طرف
+آج ہونے کو ہے کوفے میں قیامت برپا
+گھر علی پہنچے تو کہرام اٹھا واویلا
 
-12
-Betiyaan Roein Jo Sar Baap Ka Zakhmi Dekha.
-Din Guzartay Gaye Ikeeswin Ka Din Nikla.
-Haye Zeeshan Yeh Din Sab Pe Qayamat Laya.
-Haye Kofay Keh Yateemo Ka Sahara Na Raha.
+۱۲
+بیٹیاں روئیں جو سر باپ کا زخمی دیکھا
+دن گزرتے گئے اکیسویں کا دن نکلا
+ہائے ذیشان یہ دن سب پہ قیامت لایا
+ہائے کوفے کے یتیموں کا سہارا نہ رہا
 
-13
-Shoor Uthta Tha Keh Abbas Ka Baba Na Raha.
-Aa Ke Jibreel Ne Kofay Mein Sunaya Noha.
-Haye Ali Marey Gaye, Haye Ali Marey Gaye.
-Haye Ali Marey Gaye, Haye Ali Marey Gaye.
+۱۳
+شور اٹھتا تھا کہ عباس کا بابا نہ رہا
+آ کے جبریل نے کوفے میں سنایا نوحہ
+ہائے علی مارے گئے، ہائے علی مارے گئے
+ہائے علی مارے گئے، ہائے علی مارے گئے

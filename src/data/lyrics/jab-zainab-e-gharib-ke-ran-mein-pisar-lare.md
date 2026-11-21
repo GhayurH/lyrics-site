@@ -14,13 +14,13 @@ romanLyrics: |-
   Jab Zainab-e-Gharib ke ran meiṅ pisar lare
   Tanha lare ye aah wo sab ahl-e-shar lare
   Kis khubsurti se Ali ke jigar lare
-  Ek shor par gaya ke ghazab sher-e-nar lare
+  Ak shor par gaya ke ghazab sher-e-nar lare
   Wirsa unheṅ mila hai Janaab-e-Amir ka
   Ye zor sab hai sher ki beti ke sher ka
 
   1
   Zainab jo nange paauṅ khari thi qarib-e-dar
-  Abbas jaa ke dete the ye dam badam khabar
+  Abbas jaa ke dete the ye dam ba dam khabar
   Roye na ab huzur muhim ho chuki hai sar
   Laakhoṅ se lar rahe haiṅ ghazab aap ke pisar
   Zor aaj phir dikha diya Khaibar kushaai ka
@@ -31,7 +31,7 @@ romanLyrics: |-
   De aur himmateṅ unheṅ Khallaaq-e-ins o jaaṅ
   Bachche kahaaṅ hazaaroṅ ka wo maaraka kahaaṅ
   Kuchh ho unheṅ falak ne na hone diya jawaaṅ
-  Bekas huṅ aur us pe mujhe ehtemaam hai
+  Bekas huṅ aur us pe mujhe ehtimaam hai
   Khaaliq wo de ke jo mere dil ki muraad hai
 
   3
@@ -40,7 +40,7 @@ romanLyrics: |-
   Sadqe karuṅ hazaar jo aise hoṅ naunihaal
   Sab daulateṅ luteṅ pe bache Fatima ka laal
   Aaye behan pe wo jo balaa un pe aayi ho
-  Dunya meiṅ koi ho ke na ho mera bhai ho
+  Duniya meiṅ koi ho ke na ho mera bhai ho
 
   4
   Ye zikr tha ke bhai ko Hazrat ne di sada
@@ -54,7 +54,7 @@ romanLyrics: |-
   Pyaari behan ke betoṅ ka dekha jo Shah ne haal
   Tan chaak chaak hai gul-e-sad barg ki misaal
   Uljhe haiṅ pech khaaye hue gesuoṅ ke baal
-  Ude haiṅ hoṅt chaand se chehre lahu se laal
+  Ude haiṅ hont chaand se chehre lahu se laal
   Maathe hai shaq saroṅ se amaame bhi dur haiṅ
   Sab chhoti chhoti pasliyaaṅ teghoṅ se chur hai
 
@@ -62,8 +62,8 @@ romanLyrics: |-
   Chillaaye gardanoṅ ke tale haath de ke Shah
   Muṅh se milaao muṅh ke mera haal hai tabaah
   Aankhoṅ meiṅ dam tha bolte kiuṅ kar wo rashk-e-maah
-  Rote the nabz dekh ke Abbas se arsh jaah
-  Dunya se kuch karte the bachche pale hue
+  Rote the nabz dekh ke Abbas-e-arsh jaah
+  Duniya se kuch karte the bachche pale hue
   Haathoṅ meiṅ the Husain ke manke dhale hue
 
   7
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   8
   Kuchh kuchh abhi tha dam ke unheṅ le chale Imam
-  Ek laash ko to aap liye the Shah-e-anaam
+  Ak laash ko to aap liye the Shah-e-anaam
   Aur ek laash Hazrat-e-Abbas-e-nek naam
   Khaima tha saamne ke bizaaat hui tamaam
   Jite na pahunche haye ghazab khaima gaah meiṅ

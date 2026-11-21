@@ -15,12 +15,12 @@ romanLyrics: |-
   Ye intezaar ibaadat guzaar karte haiṅ
 
   1
-  Wo aaeṅ ge unheṅ aana hai aane waale haiṅ
+  Wo aaiṅ ge unheṅ aana hai aane waale haiṅ
   Nazar jamaaye hue sab zamaane waale haiṅ
   Unhi ke waade pe ham aitbaar karte haiṅ
 
   2
-  Abhi bhi waqt hai ae munkir-e-Husain sambhal
+  Abhi bhi waqt hai ae munkir-e-Husain sanbhal
   Ye waqt haath se nikla to roe ga tu kal
   Hamaara farz hai ham hoshiyaar karte haiṅ
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Ye al-ajal ki jo ham sab pukaar karte haiṅ
 
   4
-  Ye aakhri hai Muhammad ye baarahwaṅ hai Ali
+  Ye aakhri hai Muhammad ye baarahwaaṅ hai Ali
   Inhi ke qabza-e-qudrat meiṅ hai qayaamat bhi
   Ye khushk per ko bhi saaya daar karte haiṅ
 
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Sadaaeṅ deta hai Kaaba bhi Karbala bhi inheṅ
-  Imam-e-Asr alaih assalaam aa jaaeṅ
+  Imam-e-Asr alaihissalaam aa jaaiṅ
   Yazid-e-waqt kaleja figaar karte haiṅ
 
   8

@@ -1,37 +1,64 @@
 ---
-title: "Ikhtiyar E Hussain Allay Hassan Rizvi"
+title: "اختیارِ حسین آلِ حسن رضوی"
+alternateTitle: "Ikhtiyar-e-Hussain Allay Hassan Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mushaf"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ikhtiyar e Hussain Allay Hassan Rizvi
+
+  1
+  Khuda ki marzi pe aisa hai ikhteyar e Hussain
+  Rasool sajday mein kartay hain intezar-e-Hussain
+  Zameen pe koi mualla ho jo mera ghar ho
+  So muntahib kiya Allah ne mazar-e-Hussain
+  Ali pe jaisay kiya kartay they Rasool-e-kareem
+  Hai issi tarha se Ghazi pe ayetabar e Hussain
+
+  2
+  Habib Ibn-e-Mazahir ka yeh taruf hai
+  Muhib, rafeeq e madadgar e janisar e Hussain
+  Jab aik raat ki mohlat ka raaz jan gaya
+  Tu totney na diya Hur ne ayetabar e Hussain
+  Gala kata ke padar ne banaya inn ko imam
+  Banay youn Syed-e-Sajjad wirsa dar-e-Hussain
+
+  3
+  Yeh ayhtiyaat bara-e-sawar-e-dosh-e-Rasool
+  Keh sans leta hai dheray se rahwar e Hussain
+  Khuda ka jaisay hain shahkar Mustafa-o-Ali
+  Hain aisay Akbar-o-Abbas shahkar e Hussain
+  Hussain naam hai Mushaf magar main chahta hoon
+  Zamana mujh ko pukarey sana guzar e Hussain
 ---
 
-Ikhtiyar e Hussain Allay Hassan Rizvi.
+اختیارِ حسین آلِ حسن رضوی
 
-1
-Khuda Ki Marzi Pe Aisa Hai Ikhteyar e Hussain.
-Rasool Sajday Mein Kartay Hain Intezar-e-Hussain.
-Zameen Pe Koi Mualla Ho Jo Mera Ghar Ho.
-So Muntahib Kiya ALLAH Ne Mazar-e-Hussain.
-Ali Pe Jaisay Kiya Kartay They Rasool-e-Kareem.
-Hai Issi Tarha Se Ghazi Pe Ayetabar e Hussain.
+۱
+خدا کی مرضی پہ ایسا ہے اختیارِ حسین
+رسول سجدے میں کرتے ہیں انتظارِ حسین
+زمین پہ کوئی معلیٰ ہو جو میرا گھر ہو
+سو منتخب کیا اللہ نے مزارِ حسین
+علی پہ جیسے کیا کرتے تھے رسولِ کریم
+ہے اسی طرح سے غازی پہ اعتبارِ حسین
 
-2
-Habib Ibn-e-Mazahir Ka Yeh Taruf Hai.
-Muhib, Rafeeq e Madadgar e Janisar e Hussain.
-Jab Aik Raat Ki Mohlat Ka Raaz Jan Gaya.
-Tu Totney Na Diya Hur Ne Ayetabar e Hussain.
-Gala Kata Ke Padar Ne Banaya Inn Ko Imam.
-Banay Youn Syed-e-Sajjad Wirsa Dar-e-Hussain.
+۲
+حبیب ابنِ مظاہر کا یہ تعارف ہے
+محب، رفیقِ مددگارِ جاں نثارِ حسین
+جب ایک رات کی مہلت کا راز جان گیا
+تو ٹوٹنے نہ دیا حر نے اعتبارِ حسین
+گلا کٹا کے پدر نے بنایا ان کو امام
+بنے یوں سیدِ سجاد ورثہ دارِ حسین
 
-3
-Yeh Ayhtiyaat Bara-e-Sawar-e-Dosh-e-Rasool.
-Keh Sans Leta Hai Dheray Se Rahwar e Hussain.
-Khuda Ka Jaisay Hain Shahkar Mustafa-o-Ali.
-Hain Aisay Akbar-o-Abbas Shahkar e Hussain.
-Hussain Naam Hai Mushaf Magar Main Chahta Hoon.
-Zamana Mujh Ko Pukarey Sana Guzar e Hussain.
+۳
+یہ احتیاط برائے سوارِ دوشِ رسول
+کہ سانس لیتا ہے دھیرے سے رہوارِ حسین
+خدا کا جیسے ہیں شاہکار مصطفیٰ و علی
+ہیں ایسے اکبر و عباس شاہکارِ حسین
+حسین نام ہے مصحف مگر میں چاہتا ہوں
+زمانہ مجھ کو پکارے ثنا گزارِ حسین

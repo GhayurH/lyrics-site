@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Virde zabaṅ hai ek pyase ki kahani
-  Muztarib dajla ka pani
-  Sawa naize pe suraj aa gaya har su dhuaṅ hai
-  Ro rahe hai pyase bache alqama bhi dur hai
-  Ye roze ashur hai ye roze ashur hai
-  Har taraf bikhre hai laashe sar kahiṅ baazu kahiṅ
-  Aasmaṅ se khun barsa khuṅ ugalti hai zamiṅ
-  Ambiya hai mahwe matam karbala hai soghwaar
-  Ek pyase ke gale par shimr ke khanjar ki dhaar
-  Rayt ke tile pe zainab hai magar majbur hai
-  Ye roze ashur hai...
-  Kya yehi hota hai logoṅ ek musafir se suno
-  Saathvi se band pani aath pehroṅ ki hai bhuk
-  Iski ghurbat par to roye zulm bhi aur sabr bhi
-  Mayyatein bhi khud uthayi khud banayi qabr bhi
-  Jism hai tiroṅ se chalni dil ghamoṅ se chur hai
-  Ye roze ashur hai...
-  Zindagi ke maalikoṅ par zindagi hai nauhakhan
-  Bayn karte hai kanare alqama mehwe fughaṅ
-  Ro rahe hai zinda laashe mayyatoṅ par sar nahi
-  Kya kare kisko bulaaye wo ke jinke ghar nahi
-  Maut khud karti hai matam zindagi na-soor hai
-  Ye roze ashur hai...
-  Jis taraf uthe nigaheiṅ bas yehi aaye nazar
-  Bebadan laashe sina par tir talwar o tabar
-  Dasht ki jalti zamiṅ par baithe hai ahle haram
-  Ek sakina ek baqir chand bache mehwe gham
-  Aur musafir keh raha hai sab mujhe manzur hai
-  Ye roze ashur hai...
-  Baant'ta the dhup suraj aaj kiuṅ gahen aa gaya
-  Ek libaase sog saare dasht ko pehna gaya
-  Usne dekha ek beta jiska bigra bakht hai
-  Waarise shabbir hai aur wo imame waqt hai
-  Aaj wo bemaar bhi hai bekas o ranjur hai
-  Ye roze ashur hai...
-  Kis khadar pur nur laashe reh gaye jo bekafan
-  Ek hamshakle payambar ek qasim gulbadan
-  Hai kahiṅ aun o mohamed aur kahiṅ hai bezaban
-  So gaya darya pe jaake bekason ka paasbaṅ
-  Inke gham meiṅ asmaaṅ par chaand bhi benoor hai
-  Ye roze ashur hai...
-  Nauhakhan irfan haider maadare shabbir bhi
-  Kya masayib aaj likhe tune mazhar abidi
-  Beridayi bikhre laashe aur ye jalte qayaam
-  Aa gaye kaghaz pe jaise dasht ke manzar tamaam
-  Lafz hai ya jalte qaime har satar ashur hai
-  Ye roze ashur hai...
+  Vird-e-zabaaṅ hai ik pyaase ki kahaani
+  Muztarib Dajla ka paani
+  Sawa neze pe suraj aa gaya har suṅ dhuaaṅ hai
+  Ro rahe haiṅ pyaase bachche, Alqama bhi dur hai
+  Ye roz-e-Ashur hai ye roz-e-Ashur hai
+  Har taraf bikhre haiṅ laashe sar kahiṅ baazu kahiṅ
+  Aasmaaṅ se khun barsa khuṅ ugalti hai zamiṅ
+  Ambiya haiṅ mahv-e-maatam Karbala hai sogvaar
+  Ek pyaase ke gale par Shimr ke khanjar ki dhaar
+  Ret ke tile pe Zainab hai magar majbur hai
+  Ye roz-e-Ashur hai...
+  Kya yahi hota hai logoṅ ik musaafir se suno
+  Saatveṅ se band paani aath pehroṅ ki hai bhuk
+  Is ki ghurbat par to roye zulm bhi aur sabr bhi
+  Mayyat bhi khud uthaai khud banaai qabr bhi
+  Jism hai tiroṅ se chhalni dil ghamoṅ se chur hai
+  Ye roz-e-Ashur hai...
+  Zindagi ke maalikoṅ par zindagi hai nauhakhwaaṅ
+  Bain karte haiṅ kinaare Alqama mahv-e-fughaaṅ
+  Ro rahe haiṅ zinda laashe mayyatoṅ par sar nahiṅ
+  Kya kare kis ko bulaaye vo ke jin ke ghar nahiṅ
+  Maut khud karti hai maatam zindagi naasur hai
+  Ye roz-e-Ashur hai...
+  Jis taraf uthe nigaaheṅ bas yahi aaye nazar
+  Bebadan laashe sinaaṅ par tir talvaar o tabar
+  Dasht ki jalti zamiṅ par baithe haiṅ ahl-e-haram
+  Ik Sakina ek Baaqir chand bachche mahv-e-gham
+  Aur musaafir keh rahe haiṅ sab mujhe manzur hai
+  Ye roz-e-Ashur hai...
+  Baantta tha dhup suraj aaj kiuṅ gahan aa gaya
+  Ik libaas-e-sog saare dasht ko pehna gaya
+  Us ne dekha ik beta jis ka bigra bakht hai
+  Vaaris-e-Shabbir hai aur vo imaam-e-vaqt hai
+  Aaj vo bimaar bhi hai bekas o ranjur hai
+  Ye roz-e-Ashur hai...
+  Kis qadar purnur laashe reh gaye jo bekafan
+  Ek hamshakl-e-Payambar ek Qaasim gulbadan
+  Hai kahiṅ Aun o Muhammad aur kahiṅ hai bezabaaṅ
+  So gaya darya pe ja ke bekasoṅ ka paasbaaṅ
+  In ke gham meiṅ aasmaaṅ par chaand bhi benur hai
+  Ye roz-e-Ashur hai...
+  Nauhakhwaaṅ Irfaan Haidar maadar-e-Shabbir bhi
+  Kya masaaib aaj likhe tu ne Mazhar Aabidi
+  Beridaai bikhre laashe aur ye jalte qiyaam
+  Aa gaye kaaghaz pe jaise dasht ke manzar tamaam
+  Lafz haiṅ ye jalte khaime har satar Ashur hai
+  Ye roz-e-Ashur hai...
 ---
 
 ۱

@@ -9,45 +9,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jab ho ker reha qaid se ghar jaayegi Zainab.
+  Jab ho ke riha qaid se ghar jaaye gi Zainab
+  Ghabraaye gi Zainab
 
   1
-  Gar tum na hue sath to, mar jaegi Zainab.
+  Aaghosh ke paaloṅ ko kahaaṅ paaye gi Zainab
 
   2
-  1) Acha mai chali janibay, Zindaan mere bhaia.
-  Karti hui matam tera, Parhti hui nauha.
-  Seene pe liye zakhm-e, Jigar jaegi Zainab.
+  Bin bhaai ke viraan nazar aaye ga Madina
+  Ho ga yeh kharina
+  Puchhe gi yeh Sughra to tarap jaaye gi Zainab
 
   3
-  2) Tum qatl hue aur, Ajal mujhko na aayi.
-  Kis tarhan mai zindan hoon, Na poocho mere bhai.
-  Dhoondegi tumhe ab to, Jidhar jaaegi Zainab
+  Chhaaye gi rauze pe Muhammad ke udaasi
+  Roye gi nawaasi
+  Ashkoṅ meiṅ lahu qalb ka barsaaye gi Zainab
 
   4
-  3) Bahi tere mazloomi ki, Kahti hoon qasam mai
-  Bahr dar e zinda say, Na rahkoon gi qadam mai.
-  Jab tak na fana zulm ko, kar jahe gi Zainab.
+  Kya dil pe guzar jaaye gi apne hi makaan meiṅ
+  Aur aah o faghaaṅ meiṅ
+  Sunsaan jo betiyoṅ ki jagah paaye gi Zainab
 
   5
-  5) Pegham zamanay mai, Tera naam karon gi.
-  Bahi tere Qatil ka, Ton anjaam karoon gi.
-  Sar tann se joda Shimr ka, Kar jaaegi Zainab.
+  Barchhi lagi sine pe laga tir gale par
+  Barbaad hua ghar
+  Ab Akbar o Asghar ko kahaaṅ paaye gi Zainab
 
   6
-  6) Jee khol ker Bhai mai, Tujhe roo nahi paayi.
-  Afsos teri laash pay, Mai nange sarr ayi.
-  Maloom nahi yahan se, Kidhar jaaegi Zainab.
+  Bechainiyaaṅ barh jaaye gi ho jaaye gi muztar
+  Yaad aaeṅ ge Asghar
+  Paani kahiṅ thora sa agar paaye gi Zainab
 
   7
-  7) Soogat mai yeh khoon barah, Kurtah tere Bahi.
-  Kahdoon gi yeh saman, Bacha kar hoon mai lahi
-  Roze pay Muhammed, Agar jaaegi Zainab.
+  Viraan nazar aaye ga makaan ka har ek hujra
+  Shaq ho ga kaleja
+  Akbar se bhatije ko kahaaṅ paaye gi Zainab
 
   8
-  8) Sharminda hoon mai, tumhko kafan deti to Kaisay.
-  Bah azane rida cheen li, Bhaiya mere sirr se.
-  Is ranjh mein duniya se, guzar jaaegi Zainab.
+  Aaghosh ke paaloṅ ko kahaaṅ paaye gi Zainab
 ---
 
 جب ہو کے رہا قید سے گھر جائے گی زینب

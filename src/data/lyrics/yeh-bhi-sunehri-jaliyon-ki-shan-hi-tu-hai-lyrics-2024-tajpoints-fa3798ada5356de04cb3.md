@@ -1,35 +1,59 @@
 ---
-title: "Yeh Bhi Sunehri Jaliyon Ki Shan Hi Tu Hai Lyrics 2024"
+title: "یہ بھی سنہری جالیوں کی شان ہی تو ہے"
+alternateTitle: "Yeh Bhi Sunehri Jaliyon Ki Shan Hi Tu Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yeh bhi sunehri jaliyon ki shan hi tu hai Hasnain Akbar
+  Dunya Ali ke rozay ka dalan hi tu hai
+  Har shaks zindagi se pareshan hi tu hai
+  Ghaibat hamarey asar ka nuqsan hi tu hai
+
+  2
+  Mohsin ne jate jate qayamat bhi rook di
+  Sar ta qadam woh Sorah-e-Rehman hi tu hai
+  Mansab pazeer e samat-o-natiq ke bain bain
+  Fizza bhi aik bolta Quran hi tu
+
+  3
+  Jibraeel pochta hai yeh zair-e-kisa hain kaun
+  Lehja bata raha hai woh hairan hi tu hai
+  Tum our yeh tumhari hakomat ke takht-o-taj
+  Sab kuch Fidak hai laut ka saman hi tu hai
+
+  4
+  Tum bhi utaro seene mein Karb-o-Bala ka gham
+  Noha likho Hussain ka aasan hi tu hai?
+  Dunya ka kiya hai manay na manay magar yeh zikar
+  Akbar yeh mujh pe Zahra ka ahsan hi tu hai
 ---
 
-1
-Yeh Bhi Sunehri Jaliyon Ki Shan Hi Tu Hai Hasnain Akbar
-Dunya Ali Ke Rozay Ka Dalan Hi Tu Hai.
-Har Shaks Zindagi Se Pareshan Hi Tu Hai.
-Ghaibat Hamarey Asar Ka Nuqsan Hi Tu Hai.
+۱
+یہ بھی سنہری جالیوں کی شان ہی تو ہے حسنین اکبر
+دنیا علی کے روضے کا دالان ہی تو ہے
+ہر شخص زندگی سے پریشان ہی تو ہے
+غیبت ہمارے عصر کا نقصان ہی تو ہے
 
-2
-Mohsin Ne Jate Jate Qayamat Bhi Rook Di.
-Sar Ta Qadam Woh Sorah-e-Rehman Hi Tu Hai.
-Mansab Pazeer e Samat-o-Natiq Ke Bain Bain.
-Fizza Bhi Aik Bolta Quran Hi Tu.
+۲
+محسن نے جاتے جاتے قیامت بھی روک دی
+سر تا قدم وہ سورۂ رحمن ہی تو ہے
+منصب پذیرِ سماعت و ناطق کے بین بین
+فضہ بھی ایک بولتا قرآن ہی تو
 
-3
-Jibraeel Pochta Hai Yeh Zair-e-Kisa Hain Kaun.
-Lehja Bata Raha Hai Woh Hairan Hi Tu Hai.
-Tum Our Yeh Tumhari Hakomat Ke Takht-o-Taj.
-Sab Kuch Fidak Hai Laut Ka Saman Hi Tu Hai.
+۳
+جبرائیل پوچھتا ہے یہ زیرِ کسا ہیں کون
+لہجہ بتا رہا ہے وہ حیران ہی تو ہے
+تم اور یہ تمہاری حکومت کے تخت و تاج
+سب کچھ فدک ہے لوٹ کا سامان ہی تو ہے
 
-4
-Tum Bhi Utaro Seene Mein Karb-o-Bala Ka Gham.
-Noha Likho Hussain Ka Aasan Hi Tu Hai?.
-Dunya Ka Kiya Hai Manay Na Manay Magar Yeh Zikar.
- Akbar Yeh Mujh Pe Zahra Ka Ahsan Hi Tu Hai.
+۴
+تم بھی اتارو سینے میں کرب و بلا کا غم
+نوحہ لکھو حسین کا آسان ہی تو ہے؟
+دنیا کا کیا ہے مانے نہ مانے مگر یہ ذکر
+اکبر یہ مجھ پہ زہرا کا احسان ہی تو ہے

@@ -28,10 +28,10 @@ romanLyrics: |-
   Hazrat ka rauza aa gaya
 
   3
-  Khafela da aale nabi
-  Paysh bande aame rawa shudh
-  Yasrab da chhe niside shud
-  Fizza zainab da howe
+  Qaafile da Aal-e-Nabi
+  Pesh bande aam-e-rawaaṅ shud
+  Yasrab da chhi nisid-e-shud
+  Fizza Zainab da hoe
 
   4
   Basti se hat kar kuchh qadam
@@ -49,7 +49,7 @@ romanLyrics: |-
   Ahl-e-Madina aayeṅ ge
   Barbaad ham ko paayeṅ ge
   Betaab sab ho jaayeṅ ge
-  Ho jaaye ga mahshar bapa
+  Ho jaaye ga mahshar bapaa
 
   7
   Sarwar na aayeṅ ge nazar

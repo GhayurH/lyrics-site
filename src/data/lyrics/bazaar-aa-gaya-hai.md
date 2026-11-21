@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Athaara bhaaiyoṅ ki behan aur berida
-  Dekho khare haiṅ kitne tamaashaai jaa baja
+  Dekho khare haiṅ kitne tamaashaai jaa bajaa
   Dil ro ke puchhta hai behan kya kare bata
 
   2
@@ -35,12 +35,12 @@ romanLyrics: |-
 
   4
   Naapaak in zabaanoṅ pe ab naam hai mera
-  Hai qaafile ka saarabaaṅ ghairat ka ek khuda
+  Hai qaafile ka saarbaaṅ ghairat ka ek khuda
   Ye gham bahut bara hai behan kya kare bata
 
   5
   Aankhoṅ se kiuṅ na ho meri sailaab-e-gham rawaaṅ
-  Qaidi Rasul zaadiyaaṅ hai Sajjad saarabaaṅ
+  Qaidi Rasul zaadiyaaṅ hai Sajjad saarbaaṅ
   Sadmoṅ ki inteha hai behan kya kare bata
 
   6

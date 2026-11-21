@@ -11,93 +11,93 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Wo jisko saare hussaini salaam kehte hai
-  Use Husain alaihis salaam kehte hai
+  Wo jis ko saare Husaini salaam kehte haiṅ
+  Use Husain alaihis salaam kehte haiṅ
   Husain Husain maula Husain
   Ya Husain maula
   Husain Husain maula Husain
   Ya Husain maula
-  Maahe aza ka chaand nikla
-  Aagayi ghar meiṅ fatema zahra
-  Libaas kaale pehan ke saare
-  Husain waale farshe aza pe aaye
-  Utha ke parcham kareṅge matam
+  Maah-e-aza ka chaand nikla
+  Aa gai ghar meiṅ Fatema Zahra
+  Libaas kaale pahan ke saare
+  Husain waale farsh-e-aza pe aaye
+  Utha ke parcham kareṅge maatam
   Diloṅ meiṅ har dam zinda rahega ye gham
-  Dekhna ek din ban kar hussaini bolega ye zamana
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Chauda sadiyaṅ bit chuki hai
+  Dekhna ek din ban kar Husaini bolega ye zamaana
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Chauda sadiyoṅ bit chuki hai
   Gham ye koi bhi na bhula
   Dekho hamare ghar meiṅ saja hai
-  Babul hawaij ka jhula
-  Jhule se behne lipti hui hai
+  Baab-ul-Hawaaij ka jhula
+  Jhule se bahneṅ lipti hui hai
   Le kar haathoṅ meiṅ kurta
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Dekho julusoṅ meiṅ jo hussaini
-  Baandhe huwe hai sar pe kafan
-  Aashiq e maula hai ye saare
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Dekho julusoṅ meiṅ jo Husaini
+  Baandhe hue haiṅ sar pe kafan
+  Aashiq-e-maula hai ye saare
   Karbobala hai in ka watan
-  Dil meiṅ udaasi aankhoṅ meiṅ aansu
+  Dil meiṅ udaasi aankhoṅ meiṅ aansuṅ
   Hontoṅ pe maula maula
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Rahe salamat ishq-e-hussaini
-  Rahe salamat saare hussaini
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Rahe salaamat ishq-e-Husaini
+  Rahe salaamat saare Husaini
   Husain ya Husain maula
   Husain ya Husain maula
-  Qasim ki mehndi akbar ka sehra
-  Tabut o zuljanah
-  Wo sheh nashiṅ meiṅ patke alam ke
-  Tasbih e fatema
+  Qaasim ki mehndi Akbar ka sehra
+  Taabut Zuljanaah
+  Wo shah-nashiṅ meiṅ patke alam ke
+  Tasbih-e-Fatema
   Laa kar koi jo baante to
-  Yaad aati hai bibiyaṅ
-  Aur choti choti shehzadiyoṅ
-  Meiṅ bat'ti hai baaliyaṅ
-  Saath alam ke mashk e sakina
+  Yaad aati hai bibiyaaṅ
+  Aur chhoti chhoti shahzaadiyaaṅ
+  Meiṅ batti hai baaliyaaṅ
+  Saath alam ke mashk-e-Sakina
   Dekhi to dil ye bola
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Aat moharam hum karte hai
-  Haazri maula ghazi ki
-  Bachoṅ ko apne saqqa bana kar
-  Sab ko pilaate hai pani
-  Ghazi ka sadqa milta hai us ko
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Aath Muharram hum karte haiṅ
+  Haazir maula Ghaazi ki
+  Bachchoṅ ko apne saqqa bana kar
+  Sab ko pilaate haiṅ paani
+  Ghaazi ka sadqa milta hai us ko
   Aata hai jo bhi pyaasa
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Paoṅ dabata hai koi khadim
-  Koi hataata hai pathar
-  Karbobala ki samt najaf se
-  Jaate hai jab zaair chal kar
-  Ek sada hai sab ke laboṅ par
-  Labbaika ya hussaina
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Ashur ki shab saare hussaini
-  Ghar ghar charaghaṅ karte hai
-  Aur azakhano meiṅ jaa kar
-  Rote hai nauha parhte hai
-  Karte hai matam sun kar azaane
-  Akbar subhe ashura
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Aag pe chalna khuṅ bahana
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Paaoṅ dabaata hai koi khaadim
+  Koi hataata hai patthar
+  Karbobala ki samt Najaf se
+  Jaate haiṅ jab zaair chal kar
+  Ek sadaa hai sab ke laboṅ par
+  Labbaik ya Husaina
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Aashur ki shab saare Husaini
+  Ghar ghar charaaghaaṅ karte haiṅ
+  Aur azaakhaanoṅ meiṅ jaa kar
+  Rote haiṅ nauha parhte haiṅ
+  Karte haiṅ maatam sun kar azaaneṅ
+  Akbar subh-e-Aashura
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Aag pe chalna khuṅ bahaana
   Baap se hum ne sikha hai
-  Rokega hum ko kya ye zamana
-  Matam hamara virsa hai
+  Rokega hum ko kya ye zamaana
+  Maatam hamaare virsa hai
   Jab tak badan meiṅ khun hai baaqi
   Maula ko deṅge pursa
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
-  Zishan aur irfan e aza
-  Hum khalq huwe is gham ke liye
-  Maa ne hamari paala hai hum ko
-  Majlis aur matam ke liye
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
+  Zishaan aur Irfaan-e-aza
+  Hum khalq hue is gham ke liye
+  Maa ne hamaari paala hai hum ko
+  Majlis aur maatam ke liye
   Ungli pakar kar majlis meiṅ laa kar
   Maa ne bataya beta
-  Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya Husain
+  Ye saare nazaare ishq ke hai
+  Hum ho na ho hamesha hota rahega Ya Husain
 ---
 
 ۱

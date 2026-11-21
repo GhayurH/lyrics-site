@@ -10,110 +10,110 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Nauhagar zamin hai khoon ro raha hai aasmaṅ
-  Masnad-e-azaa bichi hui hai bar sare jinaa
+  Nauha gar zamin hai masnad ro raha hai aasmaaṅ
+  Masnad-e-aza bichhi hui hai bar sar-e-jinaaṅ
 
   1
-  Daastan e panjatan pe ro rahe hai do jahaṅ
-  Kaampti hai ye sadayeiṅ sun ke qabre mustafa
-  Ya ali o ya ali o ya ali e murtaza
-  Aasmaṅ se de raha hai ek manadi ye sada
+  Daastaan-e-Panjtan pe ro rahe haiṅ do jahaaṅ
+  Kaanpti hai ye sadaaeṅ sun ke qabr-e-Mustafa
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Aasmaaṅ se de raha hai ik munaadi ye sada
 
   2
-  Ya ali o ya ali o ya ali e murtaza
-  Baad e payambar wo zulm hua
-  Aale nabi ka koi na raha
-  Rassi se hyder ka baandha gala
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Baad-e-payambar wo zulm hua
+  Aal-e-Nabi ka koi na raha
+  Rassi se Haidar ka baandha gala
 
   3
-  Pehlu e zehra bhi tora gaya
-  Roti thi binte nabi yani hamraaz e ali
-  Haye ye zamana hum se kitni jaldi phir gaya
-  Ya ali o ya ali o ya ali e murtaza...
+  Pehlu-e-Zehra bhi tora gaya
+  Roti thi Bint-e-Nabi yaani hamraaz-e-Ali
+  Haaye ye zamaana hum se kitni jaldi phir gaya
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
 
   4
-  Baandh ke hyder ko rassiyoṅ se
+  Baandh ke Haidar ko rassiyoṅ se
   Galiyoṅ meiṅ zaalim jab leke chale
-  Naala o shewan zehra ne kiye
+  Naala o shevan Zehra ne kiya
   Baazu pe shamshir ke kund pare
 
   5
-  Fatema par ye jafa wo bhi pesh e murtaza
-  Ek shikasta pehlu bibi par sitam ki inteha
-  Ya ali o ya ali o ya ali e murtaza...
-  Dil meiṅ liye gham zehra mar gayi
+  Fatema par ye jafa wo bhi pesh-e-Murtaza
+  Is shikasta pehlu Bibi par sitam ki inteha
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Dil meiṅ liye gham Zehra mar gayi
 
   6
-  Khaana e hyder suna kar gayi
-  Fatema pesh e paigambar gayi
+  Khaana-e-Haidar suna kar gayi
+  Fatema pesh-e-paigambar gayi
   Pehlu shikasta hi le kar gayi
-  Hogaye tanha ali dekhlije ya nabi
+  Ho gaye tanha Ali dekh lijiye ya Nabi
 
   7
-  Dard e dil bayaṅ karega kis se shaah e laafata
-  Ya ali o ya ali o ya ali e murtaza...
-  Zainab o kulsum hasnain sabhi
-  Karte hai mehsus amma ki kami
+  Dard-e-dil bayaaṅ karega kis se Shaah-e-Laafata
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Zainab o Kulsum Hasnain sabhi
+  Karte haiṅ mahsus ammaaṅ ki kami
 
   8
   Kaisi musibat ye aan pari
-  Rote hai tanhaiyoṅ meiṅ ali
-  Sabr e ayubi kahaṅ sabr e hyderi kahaṅ
-  Qabr ka nishaṅ bhi bamasl hai chupa diya
+  Rote haiṅ tanhaaiyoṅ meiṅ Ali
+  Sabr-e-Ayubi kahaaṅ sabr-e-Haidari kahaaṅ
+  Qabr ka nishaaṅ bhi ba masl hai chhupa diya
 
   9
-  Ya ali o ya ali o ya ali e murtaza...
-  Silsila e zulm phir bhi na ruka
-  Qatl ali ko masjid me kiya
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Silsila-e-zulm phir bhi na ruka
+  Qatl Ali ko masjid meiṅ kiya
   Khuṅ se musalla rangin hua
 
   10
-  Ghar meiṅ khuda ke hai hashr bapa
-  Chal gayi taygh e jafa zakhmi hai sher e khuda
-  Kaun rotiyaṅ yatim bacchon ko khilayega
-  Ya ali o ya ali o ya ali e murtaza...
+  Ghar meiṅ Khuda ke hai hashr bapa
+  Chal gayi tegh-e-jafa zakhmi hai sher-e-Khuda
+  Kaun rotiyaaṅ yatim choṅ ko khilaayega
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
 
   11
-  Zehr e dagha phir shabbar ko diya
+  Zehr-e-dagha phir Shabbar ko diya
   Jis ke asar se dil tukre hua
-  Daagh e yatimi qasim ko mila
-  Tiroṅ se lashe ko chalni kiya
+  Daagh-e-yatimi Qasim ko mila
+  Tiroṅ se laashe ko chhalni kiya
 
   12
-  Hasan e sabzqaba bhi na dunya meiṅ raha
-  Juz Husain panjetan meiṅ ab koi nahi bacha
-  Ya ali o ya ali o ya ali e murtaza...
-  Daste sitam aur kuch aage barha
+  Hasan-e-Sabz Qaba bhi na duniya meiṅ raha
+  Juz Husain Panjtan meiṅ ab koi nahiṅ bacha
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Dast-e-sitam aur kuchh aage barha
 
   13
-  Saamne aayi phir karbobala
+  Saamne aayi phir Karb o Bala
   Shimr ka khanjar bekas pe chala
-  Behno ke aage sar sheh ka kata
-  Chikhti thi fatema rehm kar behre khuda
+  Behnoṅ ke aage sar-e-shah ka kata
+  Chikhti thi Fatema rahm kar bahr-e-Khuda
 
   14
-  Kar diya sitamgaroṅ ne panjetan ka khatema
-  Ya ali o ya ali o ya ali e murtaza...
-  Laashoṅ pe ghore dauraye gaye
-  Bibiyno ke dil dehlaye gaye
+  Kar diya sitamgaroṅ ne Panjtan ka khaatema
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Laashoṅ pe ghore dauraaye gaye
+  Bibiyoṅ ke dil dahlaaye gaye
 
   15
-  Haath rasan se bandhwaye gaye
-  Pushtoṅ pe durre barsaye gaye
-  Shab ki tarikiyoṅ meiṅ jiska taabut utha
-  Uski betiyaṅ phirayi jaa rahi hai berida
+  Haath rasan se bandhwaaye gaye
+  Pushtoṅ pe durre barsaaye gaye
+  Shab ki taarikiyoṅ meiṅ jis ka taabut utha
+  Us ki betiyaaṅ phiraayi jaa rahi hai berida
 
   16
-  Ya ali o ya ali o ya ali e murtaza...
-  Nauha wo naushad jo tu ne likha
-  Shadmaṅ ye hai zehra ki ataa
-  Qabr e nabi aur shaah e laafata
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
+  Nauha wo Naushad jo tu ne likha
+  Shaadmaaṅ ye hai Zehra ki ataa
+  Qabr-e-Nabi aur Shaah-e-Laafata
 
   17
-  Zer e kafan khud karte hai buka
-  Pito sar ahle aza fatema dengi jaza
-  Ye wo gham hai ahle aasmaṅ meiṅ bhi hai bapa
-  Ya ali o ya ali o ya ali e murtaza...
+  Zer-e-kafan khud karte haiṅ buka
+  Pito sar Ahl-e-Aza Fatema deṅgi jaza
+  Ye wo gham hai Ahl-e-Aasmaaṅ meiṅ bhi hai bapa
+  Ya Ali o ya Ali o ya Ali-e-Murtaza
 ---
 
 نوحہ گر زمین ہے مسند رو رہا ہے آسماں

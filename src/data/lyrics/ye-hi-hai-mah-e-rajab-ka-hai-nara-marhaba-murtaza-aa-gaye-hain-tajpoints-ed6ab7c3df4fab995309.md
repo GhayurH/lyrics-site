@@ -1,32 +1,53 @@
 ---
-title: "Ye Hi Hai Mah-e-Rajab Ka Hai Nara Marhaba Murtaza Aa Gaye Hain"
+title: "یہ ہی ہے ماہِ رجب کا ہے نعرہ، مرحبا مرتضیٰ آ گئے ہیں"
+alternateTitle: "Ye Hi Hai Mah-e-Rajab Ka Hai Nara Marhaba Murtaza Aa Gaye Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ye hi hai mah-e-Rajab ka hai nara, marhaba Murtaza aa gaye hain
+  Muskurata hai khan-e-Kaba, marhaba Murtaza aa gaye hain
+
+  1
+  Qafilay qudsiyon ke jina se dene tabreek Aaqa ko aaye
+  Har nabi bhi yehi keh raha tha, marhaba Murtaza aa gaye hain
+  Aankh kholi jo Mula Ali ne chehra dekha Nabi ka tha pehle
+  Noor hi noor charon taraf tha, marhaba Murtaza aa gaye hain
+
+  2
+  Khana-e-Haq mein barson se tehre boat yeh kehte the aapas mein ro ke
+  Kijiye khali ghar yeh Khuda ka, marhaba Murtaza aa gaye hain
+  Jang-e-Khaiber ka kaisa tha manzar khush hoye the bohat hi payamber
+  Jibraeel-e-Ameen jab pukara, marhaba Murtaza aa gaye hain
+
+  3
+  Qabar mein main jo utha aye logo tang kijo issay na farishto
+  Yeh sirhane se koi pukara, marhaba Murtaza aa gaye hain
+  Mutmain mera Afraz hai dil aaj tera Rajab ki hai mehfil
+  Aaj ho ga tabara zyda, marhaba Murtaza aa gaye hain
 ---
 
-Ye Hi Hai Mah-e-Rajab Ka Hai Nara Marhaba Murtaza Aa Gaye Hain.
-Muskurata Hai Khan-e-Kaba Marhaba Murtaza Aa Gaye Hain.
+یہ ہی ہے ماہِ رجب کا ہے نعرہ، مرحبا مرتضیٰ آ گئے ہیں
+مسکراتا ہے خانِ کعبہ، مرحبا مرتضیٰ آ گئے ہیں
 
-1
-Qafilay Qudsiyon Ke Jina Se Dene Tabreek Aaqa Ko Aaye.
-Har Nabi Bhi Yehi Keh Raha Tha Marhaba Murtaza Aa Gaye Hain.
-Aankh Kholi Jo Mula Ali Ne Chehra Dekha Nabi Ka Tha Pehle.
-Noor Hi Noor Charon Taraf Tha Marhaba Murtaza Aa Gaye Hain.
+۱
+قافلے قدسیوں کے جِناں سے دینے تبریک آقا کو آئے
+ہر نبی بھی یہی کہہ رہا تھا، مرحبا مرتضیٰ آ گئے ہیں
+آنکھ کھولی جو مولا علی نے چہرہ دیکھا نبی کا تھا پہلے
+نور ہی نور چاروں طرف تھا، مرحبا مرتضیٰ آ گئے ہیں
 
-2
-Khana-e-Haq Mein Barson Se Tehre Boat Yeh Kehte The Aapas Mein Ro Ke.
-Kijiye Khali Ghar Yeh Khuda Ka Marhaba Murtaza Aa Gaye Hain.
-Jang-e-Khaiber Ka Kaisa Tha Manzar Khush Hoye The Bohat Hi Payamber.
-Jibraeel-e-Ameen Jab Pukara Marhaba Murtaza Aa Gaye Hain.
+۲
+خانۂ حق میں برسوں سے ٹھہرے بت یہ کہتے تھے آپس میں رو کے
+کیجیے خالی گھر یہ خدا کا، مرحبا مرتضیٰ آ گئے ہیں
+جنگِ خیبر کا کیسا تھا منظر خوش ہوئے تھے بہت ہی پیمبر
+جبرائیلِ امین جب پکارا، مرحبا مرتضیٰ آ گئے ہیں
 
-3
-Qabar Mein Main Jo Utha Aye Logo Tang Kijo Issay Na Farishto.
-Yeh Sirhane Se Koi Pukara Marhaba Murtaza Aa Gaye Hain.
-Mutmain Mera Afraz Hai Dil Aaj Tera Rajab Ki Hai Mehfil.
-Aaj Ho Ga Tabara Zyda Marhaba Murtaza Aa Gaye Hain.
+۳
+قبر میں میں جو اٹھا اے لوگو تنگ کیجو اسے نہ فرشتو
+یہ سرہانے سے کوئی پکارا، مرحبا مرتضیٰ آ گئے ہیں
+مطمئن میرا افراز ہے دل آج تیرا رجب کی ہے محفل
+آج ہو گا تبرّا زیادہ، مرحبا مرتضیٰ آ گئے ہیں

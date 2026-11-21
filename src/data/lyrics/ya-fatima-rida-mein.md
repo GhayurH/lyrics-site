@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Zainab sada ye deti hai ae beqaraar maaṅ
-  Zakhmoṅ ko mil ke baaṅdheṅgi Haidar ki betiyaaṅ
+  Zakhmoṅ ko mil ke baandheṅ gi Haidar ki betiyaaṅ
   Khaime meiṅ ek baar bulaalo Husain ko
 
   8

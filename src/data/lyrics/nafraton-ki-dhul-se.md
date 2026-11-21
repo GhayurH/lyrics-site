@@ -19,7 +19,7 @@ romanLyrics: |-
   Jo pas-e-parda nahiṅ hai Karbala dekhe ga kaun
 
   2
-  Ghurbateiṅ to dekhte haiṅ sab guloṅ se haar ke
+  Ghurbateṅ to dekhte haiṅ sab guloṅ se haar ke
   Wo jo in ke darmiyaaṅ hai faasla dekhe ga kaun
 
   3

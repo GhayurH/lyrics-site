@@ -1,29 +1,48 @@
 ---
-title: "Paltay Zindaan Se Tu Zanjeer Utha Ke Ley Aaye Hasan Sadiq Lyrics 1994"
+title: "پلٹے زنداں سے تو زنجیر اٹھا کے لے آئے"
+alternateTitle: "Paltay Zindaan Se Tu Zanjeer Utha Ke Ley Aaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Paltay zindaan se tu zanjeer utha ke ley aaye Hasan Sadiq
+  Khuwab-e-ajdad ki tabeer utha kar le aaye
+  Ran se lash-e-Ali Akbar ko na laye Shabeer
+  Khak se nana ki tasveer utha kar le aaye
+
+  2
+  Tum se lash-e-Ali Akbar na uthay gi bhaiyya
+  Hukam do Zainab-e-dilgeer utha kar le aaye
+  Shah ne Asghar ko tu dafna diya maqtal mein magar
+  Shahrbanu ke liye teer utha kar le aaye
+
+  3
+  Lut ke sab ahl-e-haram aaye watan mein lekin
+  Mustaqil dard ki jageer utha kar le aaye
+  Rab ne Rehan kiya nama-e-amal talab
+  Hum gaye nohon ki tehreer utha kar le aaye
 ---
 
-1
-Paltay Zindaan Se Tu Zanjeer Utha Ke Ley Aaye Hasan Sadiq.
-Khuwab-e-Ajdad Ki Tabeer Utha Kar Le Aaye.
-Ran Se Lash-e-Ali Akbar Ko Na Laye Shabeer.
-Khak Se Nana Ki Tasveer Utha Kar Le Aaye.
+۱
+پلٹے زنداں سے تو زنجیر اٹھا کے لے آئے حسن صادق
+خوابِ اجداد کی تعبیر اٹھا کر لے آئے
+رن سے لاشِ علی اکبر کو نہ لائے شبیر
+خاک سے نانا کی تصویر اٹھا کر لے آئے
 
-2
-Tum Se Lash-e-Ali Akbar Na Uthay Gi Bhaiyya.
-Hukam Do Zainab-e-Dilgeer Utha Kar Le Aaye.
-Shah Ne Asghar Ko Tu Dafna Diya Maqtal Mein Magar.
-Shahrbanu Ke Liye Teer Utha Kar Le Aaye.
+۲
+تم سے لاشِ علی اکبر نہ اٹھے گی بھیا
+حکم دو زینبِ دلگیر اٹھا کر لے آئے
+شاہ نے اصغر کو تو دفنا دیا مقتل میں مگر
+شہربانو کے لیے تیر اٹھا کر لے آئے
 
-3
-Lut Ke Sab Ahl-e-Haram Aaye Watan Mein Lekin.
-Mustaqil Dard Ki Jageer Utha Kar Le Aaye.
-Rab Ne Rehan Kiya Nama-e-Amal Talab.
-Hum Gaye Nohon Ki Tehreer Utha Kar Le Aaye.
+۳
+لٹ کے سب اہلِ حرم آئے وطن میں لیکن
+مستقل درد کی جاگیر اٹھا کر لے آئے
+رب نے ریحان کیا نامۂ عمل طلب
+ہم گئے نوحوں کی تحریر اٹھا کر لے آئے

@@ -1,26 +1,42 @@
 ---
-title: "Ikiswein Rozay Fajar De Waqt Ho Gaye Alwida Lyrics New Noha 21 Ramzan 2026 Shahadat Hazrat Ali"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اکیسویں روزے فجر دے وقت ہو گئے الوداع"
+alternateTitle: "Ikiswein Rozay Fajar De Waqt Ho Gaye Alwida"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Ijaz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ikiswein rozay fajar de waqt ho gaye alwida
+  Rondiyaan chad ke Nabi di aal nu Shair-e-Khuda
+
+  1
+  Kar ke munh Yasrab de wal Zainab kehway Nana tere
+  Kalma gowaan sadhay sir taun piyo da saya kho liya
+  Shabar-o-Shabbir, Ghazi nu bola ke waro waar
+  Ghamzada putraan nu denday re dilasay Murtaza
+
+  2
+  Chadraan chum ke siraan diyaan kehn Ali hasrat de naal
+  Meriyaan dhiyaan kuja te Sham de rastay kuja
+  Ronday ne Ijaz jin-o-malak aisay gham de wich
+  Chad chaley mushkil de wich aoulad nu Mushkil Kusha
 ---
 
-Ikiswein Rozay Fajar De Waqt Ho Gaye Alwida Lyrics.
-Rondiyaan Chad Ke Nabi Di Aal Nu Shair-e-Khuda.
+اکیسویں روزے فجر دے وقت ہو گئے الوداع
+روندیاں چھڈ کے نبی دی آل نوں شیرِ خدا
 
-1
-Kar Ke Munh Yasrab De Wal Zainab Kehway Nana Tere.
-Kalma Gowaan Sadhay Sir Taun Piyo Da Saya Kho Liya.
-Shabar-o-Shabbir, Ghazi Nu Bola Ke Waro Waar.
-Ghamzada Putraan Nu Denday Re Dilasay Murtaza.
+۱
+کر کے منہ یثرب دے ول زینب کہوے نانا تیرے
+کلمہ گواں ساڈے سر توں پیو دا سایہ کھو لیا
+شبر و شبیر، غازی نوں بلا کے وارو وار
+غمزدہ پتراں نوں دیندے رہے دلاسے مرتضیٰ
 
-2
-Chadraan Chum Ke Siraan Diyaan Kehn Ali Hasrat De Naal.
-Meriyaan Dhiyaan Kuja Te Sham De Rastay Kuja.
-Ronday Ne Ijaz Jin-o-Malak Aisay Gham De Wich.
-Chad Chaley Mushkil De Wich Aoulad Nu Mushkil Kusha.
+۲
+چادراں چم کے سراں دیاں کہن علی حسرت دے نال
+میریاں دھیاں کجا تے شام دے رستے کجا
+روندے نے اعجاز جن و ملک ایسے غم دے وچ
+چھڈ چلے مشکل دے وچ اولاد نوں مشکل کشا

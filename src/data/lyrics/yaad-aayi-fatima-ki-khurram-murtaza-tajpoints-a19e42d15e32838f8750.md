@@ -1,47 +1,84 @@
 ---
-title: "Yaad Aayi Fatima Ki Khurram Murtaza"
+title: "یاد آئی فاطمہ کی خرم مرتضیٰ"
+alternateTitle: "Yaad Aayi Fatima Ki Khurram Murtaza"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yaad aayi Fatima ki Khurram Murtaza
+  Haider ne apne khoon mein jab dekha tar musalla yaad aayi Fatima ki
+  Mushkil howa jo karna mushkil kusha se sajdah yaad aayi Fatima ki
+  Qatil ne zehar aisa tha taig ko pilaya
+
+  2
+  Aisi thi zarb oss ki keh zakhm bhar na paya
+  Oss zehar ke asar se chehra howa jo neela yaad aayi Fatima ki
+  Zakhmi Ali ko betay masjid se ghar jo laye
+  Roti thin betiyaan sab chadar mein munh chupaye
+
+  3
+  Bachoon ko jab Ali ne ro kar galay lagaya yaad aayi Fatima ki
+  Nazoon se Fatima ne bachay hain mere palay
+  Main ja raha hoon sab ko kar ke tere hawalay
+  Bolay Ali jo Fizza inn ka khiyal rakhna yaad aayi Fatima ki
+
+  4
+  Laein gay meri tarha qaidi tujhey bana kar
+  Sare Ali ke dushman marein gay tujh ko pathar
+  Zainab ko jab Ali ne ro ro ke yeh bataya yaad aayi Fatima ki
+  Dekha Hussain ko tu bolay galay laga ke
+
+  5
+  Khaye gi bad-e-Zahra beti teri tamachay
+  Roye jo keh ke Haider haye meri Sakina yaad aayi Fatima ki
+  Kaisi yeh taig Ali par qatil ne hai chalai
+  Lash-e-Hussain-o-Muslim jis ne unhein dikhai
+
+  6
+  Kofay mein Karbala ka manzar nazar jo aaya yaad aayi Fatima ki
+  Jin logon ne kiya hai aal-e-Nabi pe hamla
+  Mehdi hamara aa kar unn sab se le ga badlah
+  Mazlomiyat pe apni roye Asad jo maula yaad aayi Fatima ki
 ---
 
-1
-Yaad Aayi Fatima Ki Khurram Murtaza.
-Haider Ne Apne Khoon Mein Jab Dekha Tar Musalla Yaad Aayi Fatima Ki.
-Mushkil Howa Jo Karna Mushkil Kusha Se Sajdah Yaad Aayi Fatima Ki.
-Qatil Ne Zehar Aisa Tha Taig Ko Pilaya.
+۱
+یاد آئی فاطمہ کی خرم مرتضیٰ
+حیدر نے اپنے خون میں جب دیکھا تر مصلّٰی یاد آئی فاطمہ کی
+مشکل ہوا جو کرنا مشکل کشا سے سجدہ یاد آئی فاطمہ کی
+قاتل نے زہر ایسا تھا تیغ کو پلایا
 
-2
-Aisi Thi Zarb Oss Ki Keh Zakhm Bhar Na Paya.
-Oss Zehar Ke Asar Se Chehra Howa Jo Neela Yaad Aayi Fatima Ki.
-Zakhmi Ali Ko Betay Masjid Se Ghar Jo Laye.
-Roti Thin Betiyaan Sab Chadar Mein Munh Chupaye.
+۲
+ایسی تھی ضرب اس کی کہ زخم بھر نہ پایا
+اس زہر کے اثر سے چہرہ ہوا جو نیلا یاد آئی فاطمہ کی
+زخمی علی کو بیٹے مسجد سے گھر جو لائے
+روتی تھیں بیٹیاں سب چادر میں منہ چھپائے
 
-3
-Bachoon Ko Jab Ali Ne Ro Kar Galay Lagaya Yaad Aayi Fatima Ki.
-Nazoon Se Fatima Ne Bachay Hain Mere Palay.
-Main Ja Raha Hoon Sab Ko Kar Ke Tere Hawalay.
-Bolay Ali Jo Fizza Inn Ka Khiyal Rakhna Yaad Aayi Fatima Ki.
+۳
+بچوں کو جب علی نے رو کر گلے لگایا یاد آئی فاطمہ کی
+نازوں سے فاطمہ نے بچے ہیں میرے پالے
+میں جا رہا ہوں سب کو کر کے تیرے حوالے
+بولے علی جو فضہ ان کا خیال رکھنا یاد آئی فاطمہ کی
 
-4
-Laein Gay Meri Tarha Qaidi Tujhey Bana Kar.
-Sare Ali Ke Dushman Marein Gay Tujh Ko Pathar.
-Zainab Ko Jab Ali Ne Ro Ro Ke Yeh Bataya Yaad Aayi Fatima Ki.
-Dekha Hussain Ko Tu Bolay Galay Laga Ke.
+۴
+لائیں گے میری طرح قیدی تجھے بنا کر
+سارے علی کے دشمن ماریں گے تجھ کو پتھر
+زینب کو جب علی نے رو رو کے یہ بتایا یاد آئی فاطمہ کی
+دیکھا حسین کو تو بولے گلے لگا کے
 
-5
-Khaye Gi Bad-e-Zahra Beti Teri Tamachay.
-Roye Jo Keh Ke Haider Haye Meri Sakina Yaad Aayi Fatima Ki.
-Kaisi Yeh Taig Ali Par Qatil Ne Hai Chalai.
-Lash-e-Hussain-o-Muslim Jis Ne Unhein Dikhai.
+۵
+کھائے گی بعدِ زہرا بیٹی تری طمانچے
+روئے جو کہہ کے حیدر ہائے میری سکینہ یاد آئی فاطمہ کی
+کیسی یہ تیغ علی پر قاتل نے ہے چلائی
+لاشِ حسین و مسلم جس نے انھیں دکھائی
 
-6
-Kofay Mein Karbala Ka Manzar Nazar Jo Aaya Yaad Aayi Fatima Ki.
-Jin Logon Ne Kiya Hai Aal-e-Nabi Pe Hamla.
-Mehdi Hamara Aa Kar Unn Sab Se Le Ga Badlah.
-Mazlomiyat Pe Apni Roye Asad Jo Maula Yaad Aayi Fatima Ki.
+۶
+کوفے میں کربلا کا منظر نظر جو آیا یاد آئی فاطمہ کی
+جن لوگوں نے کیا ہے آلِ نبی پہ حملہ
+مہدی ہمارا آ کر ان سب سے لے گا بدلہ
+مظلومیت پہ اپنی روئے اسد جو مولا یاد آئی فاطمہ کی

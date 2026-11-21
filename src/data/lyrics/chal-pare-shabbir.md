@@ -17,21 +17,21 @@ romanLyrics: |-
 
   1
   Sar bhi duṅga ghar bhi duṅga behnoṅ ki chaadar bhi duṅga
-  Diṅ bachaane ke liye naujavaaṅ Akbar bhi duṅga
-  Ab na zinda laut kar maiṅ aauṅ ga Nana Madina
+  Din bachaane ke liye naujawaaṅ Akbar bhi duṅga
+  Ab na zinda laut kar main aauṅ ga Nana Madina
 
   2
   Behneṅ le kar haram le kar Karbala ko jaa raha huṅ
-  Ek gham hai mere dil meiṅ jis ko le kar jaa raha huṅ
+  Ek gham hai mere dil mein jis ko le kar jaa raha huṅ
   Nana ummat ne nahiṅ di qabr ki bhi jaa Madina
 
   3
-  Ro raha hai ek sehra de raha hai woh sadaaeṅ
+  Ro raha hai ek sahra de raha hai woh sadaaeṅ
   Khuṅ khudaara de ke apna Maula mujh ko aa basaaeṅ
-  Ban jaauṅ ga maiṅ muqaddas jis tarah Makka Madina
+  Ban jaauṅ ga main muqaddas jis tarah Makka Madina
 
   4
-  Subh-e-Aashur jo gunji ban meiṅ Akbar ki azaaṅ
+  Subh-e-Aashur jo gunji ban mein Akbar ki azaaṅ
   Behneṅ roi phuphiyaaṅ roi roti hai Akbar ki maaṅ
   Sun ke roi behan bichhri bhaai ki azaaṅ Madina
 

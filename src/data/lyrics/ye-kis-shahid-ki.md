@@ -1,7 +1,7 @@
 ---
 title: "یہ کس شہید کی میت حسین لاتے ہیں"
 recitationId: "ye-kis-shaheed-ki"
-alternateTitle: "Ye Kis Shahid Ki"
+alternateTitle: "Ye Kis Shaahid Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,52 +11,52 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye kis shahid ki mayyat Husain laate haiṅ
+  Ye kis shaahid ki mayyat Husain laate haiṅ
   Zamiṅ larazti hai aflaak thar tharaate haiṅ
 
   1
   Pari hai bikhri hui tan pe sehre ki lariyaaṅ
-  Ye phul zakhmoṅ ke tan pe sajaae aate haiṅ
+  Ye phul zakhmon ke tan pe sajaae aate haiṅ
 
   2
   Khari hai dar pe jo maaṅ pitti hui sar ko
   Dikhaae laashe ko kaise ye soche jaate haiṅ
 
   3
-  Lipat ke laate haiṅ chaadar ke goshe meiṅ rakh kar
-  Saroṅ pe khaak baraati sabhi uraate haiṅ
+  Lipat ke laate haiṅ chaadar ke goshe mein rakh kar
+  Saron pe khaak baraati sabhi uraate haiṅ
 
   4
   Dulhan na aae kahiṅ shor-e-girya ko sun kar
-  Jo baar baar aba meiṅ ise chhupaate haiṅ
+  Jo baar baar abaa mein ise chhupaate haiṅ
 
   5
-  Ye kaisi laash hai baandhi hui hai gathri meiṅ
-  Bata rahe haiṅ kisi ko kabhi chhupaate haiṅ
+  Ye kaisi laash hai baandhi hui hai ghatri mein
+  Bataa rahe haiṅ kisi ko kabhi chhupaate haiṅ
 
   6
   Utha ke laate haiṅ Shabbir laash dulha ki
-  Laraz raha hai badan paaoṅ thar tharaate haiṅ
+  Laraz raha hai badan paaon thar tharaate haiṅ
 
   7
   Khare haiṅ khaime ke dar par jo aa ke ahl-e-haram
   Baraat dekh ke dulha ki rote jaate haiṅ
 
   8
-  Macha hai khaimoṅ meiṅ kohraam haae Qasim ka
-  Husain laash se chaadar ko ab hataate haiṅ
+  Macha hai khaimon mein kohraam haae Qasim ka
+  Husain laash se chaadar ko ab bahaate haiṅ
 
   9
   Le aai laash pe baazu ko thaam kar maadar
   Dulhan ko dulha ka didaar ab karaate haiṅ
 
   10
-  Sajaae the abhi sandal se maaṅg haae ghazab
-  Usi ko bewa ka ab pairahan pinhaate haiṅ
+  Sajaae the abhi sandal se maang haae ghazab
+  Usi ko bewa ka ab pairahan pehnaate haiṅ
 
   11
-  Saroṅ pe khaak uraao Mujaab pito sar
-  Ye aisa gham hai ke is gham meiṅ khuṅ bahaate haiṅ
+  Saron pe khaak uraao Mujaab pito sar
+  Ye aisa gham hai ke is gham mein khuṅ bahaate haiṅ
 ---
 یہ کس شہید کی میت حسین لاتے ہیں
 زمیں لرزتی ہے افلاک تھر تھراتے ہیں

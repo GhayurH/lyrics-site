@@ -13,14 +13,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Sayyida Taahira
-  Wa hijaba wa ghurbata
+  Wa hijaaba wa ghurbataa
 
   Bazaar meiṅ beparda Nabi zaadi khari hai
   Har mor pe marne ki dua maang rahi hai
 
   1
   Hai haathoṅ meiṅ patthar abhi aayi nahiṅ Zainab
-  Bazaar meiṅ pehle se hi ek bhir lagi hai
+  Bazaar meiṅ pehle se hi ik bhir lagi hai
 
   2
   Is gham ki aziyat koi Sajjad se puchhe
@@ -35,7 +35,7 @@ romanLyrics: |-
   Maqtal ki taraf shaah ki hamshir chali hai
 
   5
-  Tasbih ke daanoṅ ki tarah ek rasan meiṅ
+  Tasbih ke daanoṅ ki tarah ik rasan meiṅ
   Har umr ki Zahra hai jo paaband khari hai
 
   6

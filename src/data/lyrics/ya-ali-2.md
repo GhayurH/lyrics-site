@@ -11,112 +11,112 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali ka ishq mere khun ki taharat hai
-  Ali ka ishq mere nafs ki ibadat hai
-  Jaanam ali ali dinam ali ali
-  Qiblma lai ali ruham ali ali
+  Ali ka ishq mere khun ki tahaarat hai
+  Ali ka ishq mere nafs ki ibaadat hai
+  Jaanam Ali Ali dinam Ali Ali
+  Qibla laae Ali ruham Ali Ali
 
   2
-  Ya ali ya ali ya ali ya ali
-  Ya ali ya ali ya ali
-  Mai tere ishq may jita hoo mere maula ali
-  Ya ali ya ali ya ali ya ali
+  Ya Ali ya Ali ya Ali ya Ali
+  Ya Ali ya Ali ya Ali
+  Main tere ishq mein jita huṅ mere Maula Ali
+  Ya Ali ya Ali ya Ali ya Ali
 
   3
-  Ya ali ya ali ya ali
-  Ishq aashiq ko tabaahi se bachata bhi hai
-  Ishq hyder ke ghulamoṅ ka sahara bhi hai
-  Ishq ka kheemti anmol khazana bhi hai
+  Ya Ali ya Ali ya Ali
+  Ishq aashiq ko tabaahi se bachaata bhi hai
+  Ishq Haidar ke ghulaamoṅ ka sahaara bhi hai
+  Ishq ka qimti anmol khazaana bhi hai
 
   4
-  Ishq allah ke ausaaf ka chehra bhi hai
-  Jine marne ka maza ishq may tab aata hai
-  Ishq jab paikar e aashiq may sama jaata hai
-  Ya ali ya ali ya ali...
+  Ishq Allah ke ausaaf ka chehra bhi hai
+  Jine marne ka maza ishq mein tab aata hai
+  Ishq jab paikar-e-aashiq mein samaa jaata hai
+  Ya Ali ya Ali ya Ali...
 
   5
-  Mai tere ishq may...
-  Saare nabiyon ne kaha hai mera sarkar ali
-  Saare waliyoṅ ke liye tu hai madagaar ali
-  Ae mere murshid o aaqa mera sarkar ali
+  Main tere ishq mein...
+  Saare anbiya ne kaha hai mera sarkaar Ali
+  Saare waliyoṅ ke liye tu hai madadgaar Ali
+  Ae mere murshid o aaqa mera sarkaar Ali
 
   6
-  Bin tere hogi meri zindagi dushwaar ali
-  Mujhko naukar teri chaukat ka bana de maula
-  Teri naalain ka irfan kara de maula
-  Ya ali ya ali ya ali...
+  Bin tere hogi meri zindagi dushwaar Ali
+  Mujhko naukar teri chaukhat ka bana de Maula
+  Teri naalain ka irfaan karaa de Maula
+  Ya Ali ya Ali ya Ali...
 
   7
-  Mai tere ishq may...
-  Ashk aankhoṅ se bahata hoo teri yaadoṅ may
-  Apne daaman ko bhigota hoo teri yaadoṅ may
-  Raat din rota mai rehta hoo teri yaadoṅ may
+  Main tere ishq mein...
+  Ashk aankhoṅ se bahaata huṅ teri yaadoṅ mein
+  Apne daaman ko bhigota huṅ teri yaadoṅ mein
+  Raat din rota main rehta huṅ teri yaadoṅ mein
 
   8
-  Bas ali kehke tarapta hoo teri yaadoṅ may
-  Ae wali ibne wali mujhko sahara de de
-  E madadgaar e nabi mujhko sahara de de
-  Ya ali ya ali ya ali...
+  Bas Ali keh ke tarapta huṅ teri yaadoṅ mein
+  Ae wali ibn-e-wali mujhko sahaara de de
+  Ae madadgaar-e-Nabi mujhko sahaara de de
+  Ya Ali ya Ali ya Ali...
 
   9
-  Mai tere ishq may...
-  Apne rauze se mujhe lad sada de maula
-  Apna dedaar to ek baar kara de maula
-  Meri soyi hui kismat ko jaga de maula
+  Main tere ishq mein...
+  Apne rauze se mujhe laad sadaa de Maula
+  Apna didaar to ik baar karaa de Maula
+  Meri soi hui qismat ko jagaa de Maula
 
   10
-  Hoo mai betaab izn zara de maula
-  Gar ziyarat na hui saans hi ruk jayegi
-  Maut hi mujhko ziyarat teri karwaegi
-  Ya ali ya ali ya ali...
+  Huṅ main betaab izn zaraa de Maula
+  Gar ziyaarat na hui saans hi ruk jaaegi
+  Maut hi mujhko ziyaarat teri karwaaegi
+  Ya Ali ya Ali ya Ali...
 
   11
-  Mai tere ishq may...
-  Maiṅ ne saansoṅ may basaya hai tera naam ali
-  Meri dharkan ne pukara hai tera naam ali
-  Meri rag rag may samaya hai tera naam ali
+  Main tere ishq mein...
+  Main ne saansoṅ mein basaaya hai tera naam Ali
+  Meri dharkan ne pukaara hai tera naam Ali
+  Meri rag rag mein samaaya hai tera naam Ali
 
   12
-  Mere hontoṅ pe to rehta hai tera naam ali
-  Tera dar chor ke maula mai kidhar jaaunga
-  Mai agar tujhse bichar jaauṅ to mar jaaunga
-  Ya ali ya ali ya ali...
+  Mere hontoṅ pe to rehta hai tera naam Ali
+  Tera dar chhor ke Maula main kidhar jaauṅ ga
+  Main agar tujh se bichhar jaauṅ to mar jaauṅ ga
+  Ya Ali ya Ali ya Ali...
 
   13
-  Mai tere ishq may...
-  Ghar may khaalik ke huwe qatl ali wavaila
-  Arsh par ro ke tarapte hai nabi wavaila
-  Ro ke zehra ne kaha haye ali wavaila
+  Main tere ishq mein...
+  Ghar mein Khaaliq ke hue qatl Ali waawailaa
+  Arsh par ro ke tarapte haiṅ Nabi waawailaa
+  Ro ke Zehra ne kaha haae Ali waawailaa
 
   14
-  Hai ye kohraam mohamed ke wasi wavaila
-  Zakhm ko dekhte jaate hai Hasan aur jari
-  Aankh se khun bahaate hai Husain ibne ali
-  Ya ali ya ali ya ali...
+  Hai ye kohraam Muhammad ke wasi waawailaa
+  Zakhm ko dekhte jaate haiṅ Hasan aur Jari
+  Aankh se khun bahaate haiṅ Husain ibn-e-Ali
+  Ya Ali ya Ali ya Ali...
 
   15
-  Mai tere ishq may...
-  Sar ko pito ke huwe jaate hai maula ruqsat
-  Masjidoṅ ne bhi kaha hote hai qibla ruqsat
-  Kehta hai kaaba hota hai mera kaaba ruqsat
+  Main tere ishq mein...
+  Sar ko pito ke hue jaate haiṅ Maula rukhsat
+  Masjidoṅ ne bhi hue jaate haiṅ Maula rukhsat
+  Kehta hai Kaaba hota hai mera Kaaba rukhsat
 
   16
-  Hai farishtoṅ ki sada hote hai aaqa ruqsat
-  E azadar e ali qalb se ye gham kar lo
-  Kal rahe ya na rahe khun ka matam kar lo
-  Ya ali ya ali ya ali...
+  Hai farishtoṅ ki sadaa hote haiṅ aaqa rukhsat
+  Ae azaadaar-e-Ali qalb se ye gham kar lo
+  Kal rahe ya na raheṅ khun ka maatam kar lo
+  Ya Ali ya Ali ya Ali...
 
   17
-  Mai tere ishq may...
-  Qatl huwe sher e khuda haye ali ali ali
-  Hote hai hum se juda haye ali ali ali
-  Zulm ye kaisa hai hua haye ali ali ali
+  Main tere ishq mein...
+  Qatl hue sher-e-Khuda haae Ali Ali Ali
+  Hote haiṅ hum se juda haae Ali Ali Ali
+  Zulm ye kaisa hai hua haae Ali Ali Ali
 
   18
-  Taygh lagi sar pe tere haye ali ali ali
-  Khun namzi ka baha haye ali ali ali
-  Rote hai marqaq may nabi haye ali ali ali
-  Zakhmi hai zehra ka jigar haye ali ali ali
+  Tegh lagi sar pe tere haae Ali Ali Ali
+  Khun namaazi ka baha haae Ali Ali Ali
+  Rote haiṅ marqad mein Nabi haae Ali Ali Ali
+  Zakhmi haiṅ Zehra ka jigar haae Ali Ali Ali
 ---
 
 ۱

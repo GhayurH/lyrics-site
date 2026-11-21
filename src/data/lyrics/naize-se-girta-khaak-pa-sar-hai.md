@@ -49,7 +49,7 @@ romanLyrics: |-
   Bachchoṅ ke dil meiṅ Shimr ka dar hai
 
   8
-  Dhup meiṅ saaya dhundh rahe haiṅ
+  Dhup meiṅ saaya dhund rahe haiṅ
   Tuti saanseṅ jor rahe haiṅ
   Kya kahe Zainab dida-e-tar hai
 
@@ -69,8 +69,8 @@ romanLyrics: |-
   Maathe pe mere gard-e-safar hai
 
   12
-  Kaise raqam ho dard wafa se
-  Harf bayaaṅ ho kaise Shuja se
+  Kaise raqam ho dard-e-wafa se
+  Harf-e-bayaaṅ ho kaise Shujaa se
   Khun meiṅ Hashim ka jo qamar hai
 ---
 نیزے سے گرتا خاک پہ سر ہے

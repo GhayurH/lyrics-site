@@ -1,28 +1,43 @@
 ---
-title: "Yun Sakina Ko Mila Hai Tera Pursa Baba Muhammad Raza Mungla"
+title: "یوں سکینہ کو ملا ہے تیرا پرسہ بابا محمد رضا منگلا"
+alternateTitle: "Yun Sakina Ko Mila Hai Tera Pursa Baba Muhammad Raza Mungla"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Youn Sakina ko mila hai tera pursa Baba
+  Tere qatil ne mujhe mara tamacha Baba
+  Tum bohat pyar se kehte they Sakina mujh ko
+  Sham walay mujhe kehte hain yateema Baba
+  Aap ke baad mujhe itnay tamachay marey
+  Ab bhi kano se mere khoon nahi rukta Baba
+  Shimar nezay pe uthaye tera sar kehta hai
+  Dekh le bali Sakina yeh hai tera Baba
+  Itna mara hai mujhe chal nahi sakti hoon main
+  Main bhi dadi ki tarha ab hoon zaeefa Baba
+  Sham tak marey hain har moor pe pathar mujh ko
+  Iss tarha detey hain kya bachoon ko pursa Baba
+  Ab main mar jaon gi kehti thi Sakina, Haider
+  Oss se pehle hi mujhe milney ko aana Baba
 ---
 
-1
-Yun Sakina Ko Mila Hai Tera Pursa Baba Muhammad Raza Mungla.
-Youn Sakina Ko Mila Hai Tera Pursa Baba.
-Tere Qatil Ne Mujhe Mara Tamacha Baba.
-Tum Bohat Pyar Se Kehte They Sakina Mujh Ko.
-Sham Walay Mujhe Kehte Hain Yateema Baba.
-Aap Ke Baad Mujhe Itnay Tamachay Marey.
-Ab Bhi Kano Se Mere Khoon Nahi Rukta Baba.
-Shimar Nezay Pe Uthaye Tera Sar Kehta Hai.
-Dekh Le Bali Sakina Yeh Hai Tera Baba.
-Itna Mara Hai Mujhe Chal Nahi Sakti Hoon Main.
-Main Bhi Dadi Ki Tarha Ab Hoon Zaeefa Baba.
-Sham Tak Marey Hain Har Moor Pe Pathar Mujh Ko.
-Iss Tarha Detey Hain Kya Bachoon Ko Pursa Baba.
-Ab Main Mar Jaon Gi Kehti Thi Sakina, Haider.
-Oss Se Pehle Hi Mujhe Milney Ko Aana Baba.
+۱
+یوں سکینہ کو ملا ہے تیرا پرسہ بابا
+تیرے قاتل نے مجھے مارا تماچا بابا
+تم بہت پیار سے کہتے تھے سکینہ مجھ کو
+شام والے مجھے کہتے ہیں یتیمہ بابا
+آپ کے بعد مجھے اتنے تماچے مارے
+اب بھی کانوں سے میرے خون نہیں رکتا بابا
+شمر نیزے پہ اٹھائے تیرا سر کہتا ہے
+دیکھ لے بالی سکینہ یہ ہے تیرا بابا
+اتنا مارا ہے مجھے چل نہیں سکتی ہوں میں
+میں بھی دادی کی طرح اب ہوں ضعیفہ بابا
+شام تک مارے ہیں ہر موڑ پہ پتھر مجھ کو
+اس طرح دیتے ہیں کیا بچوں کو پرسہ بابا
+اب میں مر جاؤں گی کہتی تھی سکینہ، حیدر
+اس سے پہلے ہی مجھے ملنے کو آنا بابا

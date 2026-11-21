@@ -9,24 +9,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pani nahi manguṅ gi Ammo mere aa jao
-  Hajat nahi ab mujh ko mashkeeza bhi chorr aao
+  Paani nahiṅ maanguṅ gi Ammo mere aa jaao
+  Haajat nahiṅ ab mujh ko mashkiza bhi chhor aao
 
   1
-  Aamada haiṅ jane ko baba bhi soe maidaṅ
-  Wo jayaiṅ na yuṅ tanha aa kar inhaiṅ sajahao
+  Aamaada haiṅ jaane ko Baba bhi su-e-maidaaṅ
+  Woh jaaeṅ na yuṅ tanha aa kar inheṅ samjhaao
 
   2
-  Karti hay chachi girya munh dhanp ke aanchal se
-  Aur fazal bhi rota hai aa kar ise behlao
+  Karti haiṅ chachi girya munh dhaanp ke aanchal se
+  Aur Fazal bhi rota hai aa kar ise behlaao
 
   3
-  Pani ki kahiṅ khaatir bazo na kata dena
-  Tum ko hai qasam meri Ammo mere loat aao
+  Paani ki kahiṅ khaatir baazu na kataa dena
+  Tum ko hai qasam meri Ammo mere laut aao
 
   4
-  Abbas ki mehshar may ae kash sada aaye
-  Parrhte hue woh noha jannat may Anis aao
+  Abbas ki mahshar mein ae kaash sada aaye
+  Parhte hue woh noha jannat mein Anis aao
 ---
 
 پانی نہیں مانگوں گی عمو میرے آ جاؤ

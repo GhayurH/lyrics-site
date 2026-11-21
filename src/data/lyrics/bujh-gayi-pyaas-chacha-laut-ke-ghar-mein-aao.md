@@ -9,81 +9,49 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Bujhgayi pyaas chacha laut ke ghar may aao
-
+romanLyrics: |-
+  Bujh gayi pyaas chacha, laut ke ghar mein aao
 
   1
-
-  Poori kardo ye dua laut ke ghar may aao
-
-  Jaanti hoo ke katay aap ke baazu ran may
-
-  Aap ke baad bacha kya hai mera daaman may
-
-  Kuch nahi karti gila laut ke ghar may aao
-
+  Puri kar do ye dua, laut ke ghar mein aao
+  Jaanti huṅ ke kate aap ke baazu ran mein
+  Aap ke baad bacha kya hai mere daaman mein
+  Kuchh nahiṅ karti gila laut ke ghar mein aao
 
   2
-
-  Hotay jaate hai bahot shaam ke gehre saaye
-
-  Koi bhi gar may nahi kaun mujhe behlaye
-
-  Tum ko deti hoo sada laut ke ghar may aao
-
+  Hote jaate haiṅ bahut shaam ke gehre saaye
+  Koi bhi ghar mein nahiṅ kaun mujhe behlaaye
+  Tum ko deti huṅ sada laut ke ghar mein aao
 
   3
-
-  Mujhko maloom na tha door watan se aa kar
-
-  Aap sojayenge darya pe alam lehrakar
-
-  Lo chacha din bhi dhala laut ke ghar may aao
-
+  Mujh ko maalum na tha dur watan se aa kar
+  Aap so jaaeṅge darya pe alam lehra kar
+  Lo chacha din bhi dhala laut ke ghar mein aao
 
   4
-
-  Ay chacha dekhiye chinti hai phupi ki chadar
-
-  Bhai sajjad ka khayncha hai layeen ne bistar
-
-  Kya nahi tum ko pata laut ke ghar may aao
-
+  Ae chacha dekhiye chhinti hai phuphi ki chaadar
+  Bhaai Sajjad ka khaincha hai la'iṅ ne bistar
+  Kya nahiṅ tum ko pata laut ke ghar mein aao
 
   5
-
-  Maa ye kehti hai ke hum qaid bhi honge ammu
-
-  Chingayi baliyan khaye hai tamache ammu
-
-  Dekho daaman bhi jala laut ke ghar may aao
-
+  Maaṅ ye kehti hai ke ham qaidi bhi hoṅge ammuṅ
+  Chhin gayiṅ baaliyaaṅ khaae haiṅ tamaanche ammuṅ
+  Dekho daaman bhi jala laut ke ghar mein aao
 
   6
-
-  Nanhe jhoole may kabhi godh may madar ki kabhi
-
-  Dekhti hoo ke mehek paa''un kahin asghar ki
-
-  Saath asghar ke chacha laut ke ghar may aao
-
+  Nanhe jhule mein kabhi god mein maadar ki kabhi
+  Dekhti huṅ ke mehak paauṅ kahiṅ Asghar ki
+  Saath Asghar ke chacha laut ke ghar mein aao
 
   7
-
-  Roke zainab ne kaha, bali sakina meri
-
-  Be-chacha aur be-padar hona hai kismat teri
-
-  Kis ko deti hai sada laut ke ghar may aao
-
+  Ro ke Zainab ne kaha baali Sakina meri
+  Be chacha aur be padar hona hai qismat teri
+  Kis ko deti hai sada laut ke ghar mein aao
 
   8
-
-  Shaam se aaj bhi zaayir jo koi aata hai
-
-  Saath rehaan wo paigham yehi laata hai
-
-  Mai hoo zindan may chacha laut ke ghar may aao'
+  Shaam se aaj bhi zaair jo koi aata hai
+  Saath Rehaan woh paighaam yahi laata hai
+  Main huṅ zindaaṅ mein chacha laut ke ghar mein aao
 ---
 
 بجھ گئی پیاس چچا، لَوٹ کے گھر میں آئو

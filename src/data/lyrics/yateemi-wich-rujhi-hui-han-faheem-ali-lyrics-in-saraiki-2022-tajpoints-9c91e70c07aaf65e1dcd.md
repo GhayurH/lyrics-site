@@ -1,59 +1,107 @@
 ---
-title: "Yateemi Wich Rujhi Hui Han Faheem Ali Lyrics In Saraiki 2022"
+title: "یتیمی وچ رُجھی ہوئی ہاں فہیم علی"
+alternateTitle: "Yateemi Wich Rujhi Hui Han Faheem Ali"
 language: "Saraiki"
-lang: "skr"
-direction: "ltr"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Gohar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Yateemi wich rujhi hui han Faheem Ali
+  Yateemi wich rujhi hoi haan aman di kaini ja baba samanr aayiyaan sama baba
+  Maikon taan neendar nayi aandi taiday seene siwa baba samanr aayiyaan sama baba
+  Taqseem theye hoye lashay di main kya tarteeb banrawaan
+
+  2
+  Haye nahin mundri wali ungal mili ajaan kitne pathar hatawaan
+  Dil aahday luti hoi lash kitay taikun Mehshar taein parchawaan
+  Taidi lash lutendi wekh Khiyam unn rehyaan rondiyaan phophiyaan manwaan
+  Janaza hai khandiya hoya mukamal kiwein theenda hai
+
+  3
+  Dasa baba masooma koon kiwein lasha churenda hai
+  Main joraan ha janazay koon magar aanda nayi wa baba samanr aayiyaan sama baba
+  Athaan lut de aawazay aj main sunr sunr ke thaki hoi haan
+  Zohar koon jang khatam thayi hai oon welay di turi hoi haan
+
+  4
+  Milyoon adh raat de welay maikon jaldi luka baba samanr aayiyaan sama baba
+  Aye putraan walay kam hondan main dhi was la nami sagdi
+  Main kal haan chaar salaan di janaza na nami sagdi
+  Maikon taan lorh seene di taun teraan koon hata baba samanr aayiyaan sama baba
+
+  5
+  Aayi choon salaan di masooma jawaan piyo di lash de kool aye
+  Haye teraan pathraan de dhair wichon bethi lash babay di golay
+  Taiday baajh nahin aandi neendar maikon ro aahdi aye holay holay
+  Uthi wekh taan sahi hun veerah gaye Khiyam koon bhah de sholay
+
+  6
+  Lathi Sham-e-Ghareebaan taan main manwaan taun nikhar gayiyaan
+  Samanr di aas hai baba taidi maqtal de wich aayiyaan
+  Taikun tahiyoon aanr go liya hum sama nayi sagdi maa baba samanr aayiyaan sama baba
+  Taiday be ant qatil hun jairha khanjar chalendi rahe
+
+  7
+  Teda sar na turya hayi jo maiday dar v chukenda rahe
+  Baon maikon rawaya oon teda qatil jo ha baba samanr aayiyaan sama baba
+  Lakhaan jhinrkaan wichon baba main taiday kool aayi khariyaan
+  Main sunariye Sham wanjraan hai main v teyar thayi khariyaan
+
+  8
+  Milanr taikun hai baon okha main na aasaan wila baba samanr aayiyaan sama baba
+  Aye Gohar wainr dhi de hun ayho lehza alawin ha
+  Yateemi wich kiwein samanrey maikon samraan sikhawin ha
+  Main aakhir chor wanjri hai taidi aye Karbala baba samanr aayiyaan sama baba
 ---
 
-1
-Yateemi Wich Rujhi Hui Han Faheem Ali.
-Yateemi Wich Rujhi Hoi Haan Aman Di Kaini Ja Baba Samanr Aayiyaan Sama Baba.
-Maikon Taan Neendar Nayi Aandi Taiday Seene Siwa Baba Samanr Aayiyaan Sama Baba.
-Taqseem Theye Hoye Lashay Di Main Kya Tarteeb Banrawaan.
+۱
+یتیمی وچ رُجھی ہوئی ہاں فہیم علی
+یتیمی وچ رُجھی ہوئی ہاں اماں دی کائنی جا بابا سمݨ آئیاں سما بابا
+میکوں تاں نیندر نئیں آندی تیڈے سینے سوا بابا سمݨ آئیاں سما بابا
+تقسیم تھئے ہوئے لاشے دی میں کیا ترتیب بݨاواں
 
-2
-Haye Nahin Mundri Wali Ungal Mili Ajaan Kitne Pathar Hatawaan.
-Dil Aahday Luti Hoi Lash Kitay Taikun Mehshar Taein Parchawaan.
-Taidi Lash Lutendi Wekh Khiyam Unn Rehyaan Rondiyaan Phophiyaan Manwaan.
-Janaza Hai Khandiya Hoya Mukamal Kiwein Theenda Hai.
+۲
+ہائے نہیں مُندری والی اُنگل ملی اجاں کتنے پتھر ہٹاواں
+دل آہدے لُٹی ہوئی لاش کِتے تیکوں محشر تائیں پرچاواں
+تیڈی لاش لُٹیندی ویکھ خیام اُن رہیاں روندیاں پھوپھیاں ماواں
+جنازہ ہے کھنڈیا ہویا مکمل کیویں تھیندا ہے
 
-3
-Dasa Baba Masooma Koon Kiwein Lasha Churenda Hai.
-Main Joraan Ha Janazay Koon Magar Aanda Nayi Wa Baba Samanr Aayiyaan Sama Baba.
-Athaan Lut De Aawazay Aj Main Sunr Sunr Ke Thaki Hoi Haan.
-Zohar Koon Jang Khatam Thayi Hai Oon Welay Di Turi Hoi Haan.
+۳
+دسا بابا معصوما کوں کیویں لاشہ چُریندا ہے
+میں جوڑاں ہاں جنازے کوں مگر آندا نئیں وا بابا سمݨ آئیاں سما بابا
+اتھاں لُٹ دے آوازے اج میں سُݨ سُݨ کے تھکی ہوئی ہاں
+ظہر کوں جنگ ختم تھئی ہے اُن ویلے دی ٹُری ہوئی ہاں
 
-4
-Milyoon Adh Raat De Welay Maikon Jaldi Luka Baba Samanr Aayiyaan Sama Baba.
-Aye Putraan Walay Kam Hondan Main Dhi Was La Nami Sagdi.
-Main Kal Haan Chaar Salaan Di Janaza Na Nami Sagdi.
-Maikon Taan Lorh Seene Di Taun Teraan Koon Hata Baba Samanr Aayiyaan Sama Baba.
+۴
+ملیوں ادھ رات دے ویلے میکوں جلدی لُکا بابا سمݨ آئیاں سما بابا
+ایہ پُتراں والے کم ہوندن میں دھی وس لا نمی سگدی
+میں کلّ ہاں چار سالاں دی جنازہ نا نمی سگدی
+میکوں تاں لوڑ سینے دی تُوں تیراں کوں ہٹا بابا سمݨ آئیاں سما بابا
 
-5
-Aayi Choon Salaan Di Masooma Jawaan Piyo Di Lash De Kool Aye.
-Haye Teraan Pathraan De Dhair Wichon Bethi Lash Babay Di Golay.
-Taiday Baajh Nahin Aandi Neendar Maikon Ro Aahdi Aye Holay Holay.
-Uthi Wekh Taan Sahi Hun Veerah Gaye Khiyam Koon Bhah De Sholay.
+۵
+آئی چؤں سالاں دی معصوما جوان پیو دی لاش دے کول اے
+ہائے تیراں پتھراں دے ڈھیر وچوں بیٹھی لاش بابے دی گولے
+تیڈے باجھ نہیں آندی نیندر میکوں رو آہدی اے ہولے ہولے
+اُٹھی ویکھ تاں سہی ہُن ویرھا گئے خیام کوں بھاہ دے شولے
 
-6
-Lathi Sham-e-Ghareebaan Taan Main Manwaan Taun Nikhar Gayiyaan.
-Samanr Di Aas Hai Baba Taidi Maqtal De Wich Aayiyaan.
-Taikun Tahiyoon Aanr Go Liya Hum Sama Nayi Sagdi Maa Baba Samanr Aayiyaan Sama Baba.
-Taiday Be Ant Qatil Hun Jairha Khanjar Chalendi Rahe.
+۶
+لتھی شامِ غریباں تاں میں ماواں توں نکھڑ گئیاں
+سمݨ دی آس ہے بابا تیڈی مقتل دے وچ آئیاں
+تیکوں تہِیوں آݨ گولیا ہُم سما نئیں سگدی ماں بابا سمݨ آئیاں سما بابا
+تیڈے بے انت قاتل ہُن جیہڑا خنجر چلیندی رہے
 
-7
-Teda Sar Na Turya Hayi Jo Maiday Dar V Chukenda Rahe.
-Baon Maikon Rawaya Oon Teda Qatil Jo Ha Baba Samanr Aayiyaan Sama Baba.
-Lakhaan Jhinrkaan Wichon Baba Main Taiday Kool Aayi Khariyaan.
-Main Sunariye Sham Wanjraan Hai Main V Teyar Thayi Khariyaan.
+۷
+تیڈا سر نہ تُڑیا ہئی جو میڈے ڈر وی چُکیندا رہے
+بہوں میکوں روایا اُن تیڈا قاتل جو ہا بابا سمݨ آئیاں سما بابا
+لکھاں جھِنڑکاں وچوں بابا میں تیڈے کول آئی کھڑیاں
+میں سُݨی اے شام ونجݨ ہے میں وی تیار تھئی کھڑیاں
 
-8
-Milanr Taikun Hai Baon Okha Main Na Aasaan Wila Baba Samanr Aayiyaan Sama Baba.
-Aye Gohar Wainr Dhi De Hun Ayho Lehza Alawin Ha.
-Yateemi Wich Kiwein Samanrey Maikon Samraan Sikhawin Ha.
-Main Aakhir Chor Wanjri Hai Taidi Aye Karbala Baba Samanr Aayiyaan Sama Baba.
+۸
+ملݨ تیکوں ہے بہوں اوکھا میں نہ آساں ویلا بابا سمݨ آئیاں سما بابا
+ایہ گوہر ویݨ دھی دے ہُن ایہو لہجہ الاویں ہاں
+یتیمی وچ کیویں سمݨے میکوں سمراں سکھاویں ہاں
+میں آخر چھوڑ ونجڑی ہے تیڈی ایہ کربلا بابا سمݨ آئیاں سما بابا

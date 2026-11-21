@@ -1,7 +1,7 @@
 ---
 title: "یہ عزاداریِ سرور ہے ہماری زندگی"
 recitationId: "ye-azadari-e-sarwar"
-alternateTitle: "Ye Azadaari-e-Sarwar"
+alternateTitle: "Ye Azaadaari-e-Sarwar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,15 +12,15 @@ tags: []
 aliases: ["Ye Azadari E Sarwar"]
 published: true
 romanLyrics: |-
-  Ye azadaari-e-Sarwar hai hamaari zindagi
-  Is azadaari se paayi raah-e-haq ki roshni
+  Ye azaadaari-e-Sarwar hai hamaari zindagi
+  Is azaadaari se paayi raah-e-haq ki roshni
 
   1
   Kuch zabaanoṅ par tha kal labbaik ya Maula Husain
   Ab ye naara banta jaata hai sada-e-aalami
 
   2
-  Ham nahiṅ mit paayeṅge kar le koi kitna sitam
+  Ham nahiṅ mit paayeṅ ge kar le koi kitna sitam
   Jabr o istibdaad duniya aazmaati hi rahi
 
   3
@@ -28,19 +28,19 @@ romanLyrics: |-
   Ham se larza hai dahr ke marhabi o antari
 
   4
-  Pehle Allah phir Muhammad baad meiṅ Maula Ali
-  Hai yehi haq maa siwa is ke hai din-e-aazari
+  Pehle Allah phir Muhammad baad mein Maula Ali
+  Hai yehi haq maa siwa is ke haiṅ din-e-aazari
 
   5
-  Is azadaari ke dar pe hai zamaana gham nahiṅ
+  Is azaadaari ke dar pe hai zamaana gham nahiṅ
   Maatam-e-Sarwar ke zaamin haiṅ jab Ibn-e-Askari
 
   6
-  Ambiya maatam kunaaṅ hai jis ke gham meiṅ wo Husain
+  Ambiya maatam kunaaṅ hai jis ke gham mein wo Husain
   Hai hameiṅ bhi fakhr ke ham haiṅ Husaini maatami
 
   7
-  Haaṅ yuṅhi jaari rahega shor o girya taa abad
+  Haaṅ yunhi jaari rahe ga shor o girya taa abad
   Majlis o maatam ki Bint-e-Zehra hai baani bani
 
   8
@@ -53,14 +53,14 @@ romanLyrics: |-
 
   10
   Ek naize se kiya Abbas ne darya fatah
-  Ashqiya meiṅ khauf o hairat ki faraawaani hui
+  Ashqiya mein khauf o hairat ki faraawaani hui
 
   11
   Kab kahaaṅ thehra hai baatil Shah ke gham se saamne
   Haq falak baatil zamiṅ ke se ho koi hamsari
 
   12
-  Hai dua nauhe meiṅ Aijaz o Hasan ke Ishtiaq
+  Hai dua nauhe mein Aijaz o Hasan ke Ishtiaq
   Ae Khuda marham ho qalb-e-Zehra ka ye shaayari
 ---
 یہ عزاداریِ سرور ہے ہماری زندگی

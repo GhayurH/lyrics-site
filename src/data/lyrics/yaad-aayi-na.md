@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baba ka karte karte intezar jab thak gayi sughra
-  Ro ro ke apne baba ko sughra ne khat likha
-  Tum gaye ghar se meri lut gayi dunya baba
-  Yaad aayi na tumhe fatema sughra baba
-  Karbala jaa ke hamay bhul gaye kya baba
-  Kya kahuṅ usne hai kis tarha se tarpaya mujhe
-  Eid ka chand falak par jo nazar aaya mujhe
-  Us ghari dil meiṅ mere dard utha tha baba
-  Yaad aayi na tumhe...
-  Baba tin eideiṅ guzari hai yahaṅ ro ro kar
-  Mujhko eidi meiṅ mile askhe aza zakhme jigar
-  Maiṅ ne har eid pe ye nauha parha tha baba
-  Yaad aayi na tumhe...
-  Ab to asghar bhi mera ghutniyoṅ chalta hoga
-  Yaad kar ke mujhe jhule meiṅ machalta hoga
+  Baba ka karte karte intezaar jab thak gayi Sughra
+  Ro ro ke apne baba ko Sughra ne khat likha
+  Tum gaye ghar se meri lut gayi duniya baba
+  Yaad aayi na tumheiṅ Fatema Sughra baba
+  Karbala jaa ke hameiṅ bhul na jaana
+  Kya kahuṅ us ne hai kis tarah se tarpaya mujhe
+  Eid ka chaand falak par jo nazar aaya mujhe
+  Us ghari dil mein mere dard utha tha baba
+  Yaad aayi na tumheiṅ...
+  Baba tin eideiṅ guzri hai yahaaṅ ro ro kar
+  Mujhko eidi mein mile ashk-e-aza zakhm-e-jigar
+  Main ne har eid pe ye nauha parha tha baba
+  Yaad aayi na tumheiṅ...
+  Ab to Asghar bhi mera ghutniyoṅ chalta hoga
+  Yaad kar ke mujhe jhule mein machalta hoga
   Mujhko sab yaad hai par zulm hai kaisa baba
-  Yaad aayi na tumhe...
-  Sunti huṅ dasht meiṅ akbar ki rachayi shadi
-  Bhai qasim ke bhi haatoṅ meiṅ lagi hai mehendi
-  Jab sakina ko wahaṅ neg diya tha baba
-  Yaad aayi na tumhe...
-  Baba kismat se muqaddar se gila kya karna
-  Mere akbar ne bhula daala jo waada apna
-  Khat mera dasht meiṅ jab aap ne paaya baba
-  Yaad aayi na tumhe...
-  Jab nazar aate hai bacchoṅ ke ye khaali hujre
-  Yaad phir aun o mohamed ki satati hai mujhe
-  Sab ki yaadoṅ ne mujhe khun rulaya baba
-  Yaad aayi na tumhe...
-  Kaise farhan ye mazhar ye masayib likhe
-  Fatema sughra ke ehsaas qalam band kiye
+  Yaad aayi na tumheiṅ...
+  Sunti huṅ dasht mein Akbar ki rachaayi shaadi
+  Bhai Qasim ke bhi haathoṅ mein lagaayi mehndi
+  Jab Sakina ko wahaaṅ neg diya tha baba
+  Yaad aayi na tumheiṅ...
+  Baba qismat se muqaddar se gila kya karna
+  Mere Akbar ne bhula daala jo waada apna
+  Khat mera dasht mein jab aap ne paaya baba
+  Yaad aayi na tumheiṅ...
+  Jab nazar aate haiṅ bachchoṅ ke ye khaali hujre
+  Yaad phir Aun o Muhammad ki sataati hai mujhe
+  Sab ke yaadoṅ ne mujhe khun rulaaya baba
+  Yaad aayi na tumheiṅ...
+  Kaise Farhan ye Mazhar ye masaaib likhe
+  Fatema Sughra ke ehsaas qalam band kiye
   Kaun ab aa ke mujhe dega dilaasa baba
-  Yaad aayi na tumhe...
+  Yaad aayi na tumheiṅ...
 ---
 
 ۱

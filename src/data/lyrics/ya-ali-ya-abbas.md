@@ -10,113 +10,49 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Ali
+  Ya Ali ya Abbas
 
   1
-  Ya Abbas
-  Wallah ya Abbas haayer shard e gul
-
-  2
-  Ya Ali ya Abbas
-  Wo bik tizh il marjaley li seh tish hid Karbaley
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas ya Ali ya Abbas
-  Ek Ali ye Murtaza ek Ali ye Karbalaya
-  Ali ya Abbas
-  Haa
+  Ek Ali Murtaza ek Ali Karbala
   Wallah ya Abbas ya Ali kaho
   Wallah ya Ghazi ya Wali kaho
-  Ya kaho ilm o alam
-  Ya kaho lauh o kalam
-  Kehdo dono ko Ali
-  Saiyadi mottalabi
-  Hai yeh dono hi Ali dono hi Abbas
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas
-  Ya Ali ya Abbas
-  Wo bik tizh il marjaley li seh tish hid Karbaley
-  Hai wo bik tizh il marjalab gid izzilim
-  Raaye takseemo khatat minakk azim
-  Bik tizh il marjalab gid izzilim
-  Raaye takseemo khatat minakk azim
-  Entaa aayaat aateefe o bikin bu al wafeh
-  Wo judak maayan qaas
-  Ya gheere, gheere, gheere ya Abbas
-  Ya Ali ya Abbas
-  Ek Ali ye Murtaza ek Ali ye Karbala ya Ali ya Abbas
-  Ya gheere yaa no maas ya Ali ya Abbas
-  Haa
-  Noor e do ain e Ali ye mahjabeen
-  Kuwat e jaan o jigar Ummul Baneen
-  Hai sakhi ibne sakhi ilmul yaqeen
-  Daste Haider ki anghuti ka nageen
-  Wo judak maayan qaas wole in haarelraas
-  Ya gheere, gheere, gheere ya Abbas
-  Ya Ali ya Abbas
-  Ek Ali ye Murtaza ek Ali ye Karbala
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas
-  Ya Ali ya Abbas
-  Haa
-  Allah Allah chala hhere jari
+  Ya kaho ilm o amal ya kaho lauh o qalam
+  Keh do donoṅ ko Ali Sayyidi Matlabi
+  Haiṅ ye donoṅ hi Ali donoṅ hi Abbas
+
+  2
+  Nur-e-do ain-e-Ali ye mahjabiṅ
+  Quwwat-e-jaan o jigar Ummul Banin
+  Hai saqi ibn-e-saqi ain-ul-yaqiṅ
+  Dast-e-Haidar ki anguthi ki nagiṅ
+
+  3
+  Allah Allah chala sher-e-jari
   Ya Abal Fazl sada aane lagi
-  Aamad e misl e Ali
-  Uski aamad jo huwi
-  Aisa lehraya alam
-  Ukhde aadaa ke qadam
-  Dasht me dur talak rehgaya Abbas
-  Ya Ali ya Abbas
-  Wo bik tizh il marjaley li seh tish hid Karbaley
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas
-  Ya Ali ya Abbas
-  Wallah ya Abbas haayer shard e gul
-  Haa
-  Wallah ya Abbas haayer shard e gul
-  Busfak inta tahyerat kulil uqul
-  Wazhat li yaa badar shems raasak mo qamar
-  Wole in haarelraas
-  Ya gheere, gheere, gheere ya Abbas
-  Ya Ali ya Abbas
-  Wo bik tizh il marjaley li seh tish hid Karbaley
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas
-  Ya Ali ya Abbas
-  Haa
-  Bakhuda aisa alamdar kahaan
-  Saniye Haider e qarrar kahaan
-  Ye Alamdar e jawaan
-  Alawi azm o nishaan
-  Ye Sakina ka chachaa
-  Mashq jab bhar ke chalaa
-  Mashq pe teer laga rodiya Abbas
-  Ya Ali ya Abbas
-  Ek Ali ye Murtaza ek Ali ye Karbala
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas
-  Ya Ali ya Abbas
-  Haa
-  Haa wo Abbas Ali ka beta
-  Chhidgayi mashq to phir kya ladta
-  Jaise hi paani baha
-  Uska khoon uspe gira
-  Laut ke ghar na gaya
-  Mashq pe sar ko rakha
+  Aamad-e-misl-e-Ali us ki aamad jo hui
+  Aisa lehraya alam ukhre aada ke qadam
+  Dasht mein dur talak reh gaya Abbas
+
+  4
+  Ba Khuda aisa alamdar kahaaṅ
+  Saani-e-Haidar-e-Qarrar kahaaṅ
+  Ye alamdar jawaaṅ Alawi azm nishaaṅ
+  Ye Sakina ka chacha mashk jab bhar ke chala
+  Mashk pe tir laga ro diya Abbas
+
+  5
+  Haaṅ wo Abbas Ali ka beta
+  Chhid gai mashk to phir kya larta
+  Jaise hi paani baha us ka khuṅ us pe gira
+  Laut ke ghar na gaya mashk pe sar ko rakha
   Ya Sakina kaha aur so gaya Abbas
-  Ya Ali ya Abbas
-  Ek Ali ye Murtaza ek Ali ye Karbala
-  Ya Ali ya Abbas
-  Ya gheere yaa no maas
-  Ya Ali ya Abbas
-  Haa
-  Uske hain Sarwar o Rehaan gada
-  Hoke bedast jo karta hai ataa
-  Wo shehenshah e wafa
-  Haider e Karbobala
-  Jiske parcham ki hawa
-  Sabko deti hai shifa
+
+  6
+  Us ke haiṅ Sarwar o Rehan gada
+  Ho ke bedast jo karta hai ataa
+  Wo shahanshah-e-wafa Haidar-e-Karbobala
+  Jis ke parcham ki hawa sab ko deti hai shifa
   Marhaba marhaba sad marhaba Abbas
-  Ya Ali ya Abbas
 ---
 
 یا علی یا عباس

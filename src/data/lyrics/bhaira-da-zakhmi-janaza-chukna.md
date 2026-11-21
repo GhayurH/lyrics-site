@@ -6,9 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Haider Ali Kashi"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bhra da zakhmi janaaza chukna
+  Ali de bachiaaṅ da hausla si
+  Hasan di mayyat choṅ tir khichna
+
+  1
+  Lahu lahu si Hasan di mayyat
+  Te raah ch Baqiya vi aa gaya si
+  Haaye maaṅ di turbat de koloṅ langhna
+
+  2
+  Ghamaaṅ ch hanjuaaṅ nuṅ apne dak ke
+  Yatim Qaasim da haal tak ke
+  Dilaase de de ke chup karaana
+
+  3
+  Hanere kamre ch laash rakh ke
+  Hasan di dhiaaṅ de koloṅ chhup ke
+  Lahu ch dubya kafan badalna
+
+  4
+  Janaaza tiraaṅ toṅ vi bachaana
+  Te vasde tiraaṅ toṅ aap bachna
+  Paamaal mayyat te sabr karna
+
+  5
+  Gharib de lai qabr bana ke
+  Nigaah naane de dar te paa ke
+  Hasan nuṅ Baqiye ch dafn karna
+
+  6
+  Abbaas toṅ tegh nuṅ chhura ke
+  Bhra te Saqlain pehre laa ke
+  Aabaad naane da shehr rakhna
 ---
 
 بھرا دا زخمی جنازہ چکنا

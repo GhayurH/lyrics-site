@@ -1,59 +1,108 @@
 ---
-title: "Jafar De Janaze Te Ainj Wain Dhiyan Ne Paye Ne New Lyrics Punjabi 2025"
+title: "جعفر دے جنازے تے اینج وین دھیاں نے پائے نے"
+alternateTitle: "Jafar De Janaze Te Ainj Wain Dhiyan Ne Paye Ne"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Sajjad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jafar de janaze te ainj wain dhiyan ne paye ne
+  Chad Sham Najaf te Karbal sab pursa dewan aaye ne
+  Nana tere shehar Madine wich
+  Be watna wangoon rehne aan
+
+  2
+  Paye zulm ummat de sehney aan
+  Sah tere Jafar Sadiq de
+  Haye zehar de naal mokaye ne
+  Babay di qabar te ro ro ke
+
+  3
+  Mosa Kazim farmaya aye
+  Fair zalimaan zulm kamaya aye
+  Asaan shehar-e-aman de wich nana
+  Kayi waar janazay chaye ne
+
+  4
+  Be jurm-o-khata kar qatal ditti
+  Ais ummat ne aoulad-e-Nabi
+  Bhul qadar gaye ne baad Nabi
+  Ona ghar Jafar da jala chadiya
+
+  5
+  Jinna Karbal khaimay jalaye ne
+  Jehra ilm-e-Nabi da waris aye
+  Mehman way oh kuj lahzay da
+  Fair ghar Zahra da ujar gaya
+
+  6
+  Haye Kazim ne Jafar maula
+  Wich Baqiye de dafnaye ne
+  Farmaya Jafar Sadiq ne
+  Asaan deen di laaj bachani
+
+  7
+  Aye Kazim toon qaid nibhani aye
+  Main dekh rehyaan tainu kafan de wich
+  Ummat zanjeer pawaye ne
+  Jiday dam naal logo dunya wich
+
+  8
+  Mojood fiqha aye Jafri aye
+  Ohda waqt Madine aakhri aye
+  Oss maula Jafar Sadiq de
+  Dukh dard Sajjad sunaye ne
 ---
 
-1
-Jafar De Janaze Te Ainj Wain Dhiyan Ne Paye Ne.
-Chad Sham Najaf Te Karbal Sab Pursa Dewan Aaye Ne.
-Nana Tere Shehar Madine Wich.
-Be Watna Wangoon Rehne Aan.
+۱
+جعفر دے جنازے تے اینج وین دھیاں نے پائے نے
+چھڈ شام نجف تے کربل سب پُرسا دیون آئے نے
+نانا تیرے شہر مدینے وچ
+بے وطناں وانگوں رہنے آں
 
-2
-Paye Zulm Ummat De Sehney Aan.
-Sah Tere Jafar Sadiq De.
-Haye Zehar De Naal Mokaye Ne.
-Babay Di Qabar Te Ro Ro Ke.
+۲
+پئے ظلم اُمت دے سہنے آں
+ساہ تیرے جعفر صادق دے
+ہائے زہر دے نال مکائے نے
+بابے دی قبر تے رو رو کے
 
-3
-Mosa Kazim Farmaya Aye.
-Fair Zalimaan Zulm Kamaya Aye.
-Asaan Shehar-e-Aman De Wich Nana.
-Kayi Waar Janazay Chaye Ne.
+۳
+موسیٰ کاظم فرمایا اے
+فیر ظالماں ظلم کمایا اے
+اساں شہرِ امن دے وچ نانا
+کئی وار جنازے چائے نے
 
-4
-Be Jurm-o-Khata Kar Qatal Ditti.
-Ais Ummat Ne Aoulad-e-Nabi.
-Bhul Qadar Gaye Ne Baad Nabi.
-Ona Ghar Jafar Da Jala Chadiya.
+۴
+بے جرم و خطا کر قتل دِتّی
+ایس اُمت نے اولادِ نبی
+بھُل قدر گئے نے بعدِ نبی
+اُنھاں گھر جعفر دا جلا چھڈیا
 
-5
-Jinna Karbal Khaimay Jalaye Ne.
-Jehra Ilm-e-Nabi Da Waris Aye.
-Mehman Way Oh Kuj Lahzay Da.
-Fair Ghar Zahra Da Ujar Gaya.
+۵
+جِنّاں کربل خیمے جلائے نے
+جیہڑا علمِ نبی دا وارث اے
+مہمان وے اوہ کجھ لحظے دا
+فیر گھر زہرا دا اُجڑ گیا
 
-6
-Haye Kazim Ne Jafar Maula.
-Wich Baqiye De Dafnaye Ne.
-Farmaya Jafar Sadiq Ne.
-Asaan Deen Di Laaj Bachani.
+۶
+ہائے کاظم نے جعفر مولا
+وچ بقیع دے دفنائے نے
+فرمایا جعفر صادق نے
+اساں دین دی لاج بچانی
 
-7
-Aye Kazim Toon Qaid Nibhani Aye.
-Main Dekh Rehyaan Tainu Kafan De Wich.
-Ummat Zanjeer Pawaye Ne.
-Jiday Dam Naal Logo Dunya Wich.
+۷
+اے کاظم توں قید نبھانی اے
+میں دیکھ رہیاں تینوں کفن دے وچ
+اُمت زنجیر پوائے نے
+جیہدے دم نال لوکو دنیا وچ
 
-8
-Mojood Fiqha Aye Jafri Aye.
-Ohda Waqt Madine Aakhri Aye.
-Oss Maula Jafar Sadiq De.
-Dukh Dard Sajjad Sunaye Ne.
+۸
+موجود فقہ اے جعفری اے
+اوہدا وقت مدینے آخری اے
+اوس مولا جعفر صادق دے
+دکھ درد سجاد سنائے نے

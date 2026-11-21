@@ -20,7 +20,7 @@ romanLyrics: |-
   Lahu jo ponchha hai Zehra ne apni chaadar se
 
   2
-  Hua hai kaise ye paiwast gaal meiṅ gohar
+  Hua hai kaise ye paiwast gaal mein gohar
   Lahu tapakta hai kaisa Batul rone se
 
   3
@@ -29,11 +29,11 @@ romanLyrics: |-
 
   4
   Ye kaun hai ke jo karta hai zulm se jaari
-  Nabi ki beti pe fatwa Nabi ke mimbar se
+  Nabi ki beti pe fatwa Nabi ke minbar se
 
   5
   Chhupaayi kiuṅ gayi Zehra ki qabr baat khuli
-  Hasan ki laash pe Yasrab meiṅ tir jab barse
+  Hasan ki laash pe Yasrab mein tir jab barse
 
   6
   Jo kaainaat ki maalik hai us ki turbat ka
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   7
   Hai aab o daana to haq mehr-e-Faatima lekin
-  Hai us ka kunba jo sehra meiṅ aab-e-Kausar se
+  Hai us ka kunba jo sehra mein aab-e-Kausar se
 
   8
   Safed ho gaye kiuṅ sar ke baal Zahra ke

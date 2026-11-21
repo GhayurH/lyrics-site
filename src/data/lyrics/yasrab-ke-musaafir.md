@@ -12,11 +12,11 @@ aliases: ["Yasrab Ke Musafir"]
 published: true
 romanLyrics: |-
   Yasrab ke musaafir se qarib maut ka ban hai
-  Hamraah-e-qaza Sayyad-e-aawaara watan hai
+  Hamraah-e-qaza Sayyid-e-aawaara watan hai
 
   1
   Manzil se hai nazdik Muhammad ka nawaasa
-  Ab khatm safar ho chuka Shaah-e-shuhada ka
+  Ab khatm-e-safar ho chuka Shaah-e-shuhada ka
   Rah rah ke dahal jaata hai Zainab ka kaleja
   Muṅh dekh ke bhaai ka pareshaan bahan hai
 
@@ -27,20 +27,20 @@ romanLyrics: |-
   Dar tha mujhe lutne ka jahaaṅ ye wohi ban hai
 
   3
-  Is dasht meiṅ paaega tu har tarah ki iza
+  Is dasht meiṅ paaega tu har tarah ki izaa
   Is dasht meiṅ dushman teri ho jaaegi duniya
-  Laayi hai tujhe maut yahaaṅ kheṅch ke beta
+  Laayi hai tujhe maut yahaaṅ khinch ke beta
   Shabbir ye tera hi bas ab tera watan hai
 
   4
-  Pyaasa tujhe jab zibh kare ye sitam aara
+  Pyaasa tujhe jab zabh kare ye sitam aaraa
   Laashe ka bhi hoga na koi gaarne waala
   Beta teri mazlumi ke qurbaan ye dukhiya
   Ne ghusl qismat meiṅ teri aur na kafan hai
 
   5
   Lut jaaega pyaasa tera ye chhota sa lashkar
-  Ek bund bhi paani ki na dega koi khudsar
+  Ik bund bhi paani ki na dega koi khudsar
   Chillaaega beshir ko tu haathoṅ pe le kar
   Logoṅ mera maasum bahut tashna dahan hai
 ---

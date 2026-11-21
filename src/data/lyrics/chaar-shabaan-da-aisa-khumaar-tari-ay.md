@@ -1,6 +1,6 @@
 ---
 title: "چار شعبان دا ایسا خمار طاری اے"
-alternateTitle: "Chaar Shabaan Da Aisa Khumaar Tari Ay"
+alternateTitle: "Chaar Shabaan Da Aisa Khumaar Taari Ay"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,52 +10,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  4 Shabaan da aisa khumaar tari ay Khurram Murtaza
-  Shabeer de dil da sakoon Abbas aye Abbas aye
-  Chaar Shaban da aisa khumar tari aye
-  Lab-e-Hussain te Ghazi da zikar jari aye
+  Chaar Shabaan da aisa khumaar taari ay Khurram Murtaza
+  Shabbir de dil da sukun Abbas aaye Abbas aaye
+  Chaar Shabaan da aisa khumaar taari ay
+  Lab-e-Husain te Ghazi da zikr jaari ay
 
   2
-  Abbas wekhay tainu koi badnazar kiwein
-  Teri Ali diyaan nazraan nazar utari aye
-  Sawar zeen te Ashal di hoye jad Ghazi
-  Nehar taun har koi chup chup ke Shami takda si
+  Abbas vekhe tainu koi badnazar kiven
+  Teri Ali diyaan nazraan nazar utaari ay
+  Sawaar zain te Ashal di hoye jad Ghazi
+  Nehar ton har koi chup chup ke Shaami takda si
 
   3
-  Buraq kainda si kar ke tawaf Mashallah
-  Qadam sawar nal Ashal jithay v rakhda si
-  Buraq Ghazi te Ashal nu wekh ke aakhay
-  Sawar jaisa aye oho jayi sawari aye
+  Buraaq kehnda si kar ke tawaaf ma sha Allah
+  Qadam sawaar naal Ashal jithe vi rakhda si
+  Buraaq Ghazi te Ashal nu vekh ke aakhe
+  Sawaar jaisa ay oho jai sawaari ay
 
   4
-  Tu mang te Ghazi kolon jo v tainu chayida aye
-  Oh le ke dena Sakina di zimmay dari aye
-  Aye Karbala che lagi mashk kardi aye ayelan
-  Keh hunr v pani te Ghazi di pehrey dari aye
+  Tu mang te Ghazi kolon jo vi tainu chaahida ay
+  Oh le ke dena Sakina di zimme daari ay
+  Aye Karbala ch lagi mashk kardi ay ailaan
+  Keh hun vi paani te Ghazi di pehre daari ay
 
   5
-  Ali Ali di sada aye Siffeen wich har so
-  Abbas kita ajay waar pehli wari aye
-  Maranr gay sare jay dushman nu ik nazar wekhay
-  Keh takraan Ghazi da ik waar Zulfiqari aye
+  Ali Ali di sadaa ay Siffin vich har su
+  Abbas kita aje waar pehli waari ay
+  Maran ge saare je dushman nu ik nazar vekhe
+  Keh takraan Ghazi da ik waar Zulfiqaari ay
 
   6
-  Abbas rook ke talwar nu niyam de wich
-  Aye bolay jang de aadab de manafi aye
-  Laraan ga main v barabar da koi howay te
-  Aina de layi te bas Asghar da hasna kafi aye
+  Abbas rok ke talwaar nu niyaam de vich
+  Aye bole jang de aadaab de manaafi ay
+  Laraan ga main vi barabar da koi hove te
+  Aina de lai te bas Asghar da hasna kaafi ay
 
   7
-  Kehya aye Ghazi nu Ghazi di be qarari aye
-  Main jang lar laan par Asghar di ajay wari aye
-  Jab kabhi tum Gardish-e-Doraan se ghabraya karo
-  Parcham-e-Abbas ke saye mein aa jaya karo
+  Keha ay Ghazi nu Ghazi di beqaraari ay
+  Main jang lar laan par Asghar di aje waari ay
+  Jab kabhi tum gardish-e-dauraaṅ se ghabraaya karo
+  Parcham-e-Abbas ke saaye mein aa jaaya karo
 
   8
-  Oh jehray Ghazi de dar te gaye ne jeenday jee
-  Ohna ne zindagi janat de wich guzari aye
-  Sana Abbas di karday rahwo Khurram te Asad
-  Hussain layi sahdi nokari sarkari aye
+  Oh jehre Ghazi de dar te gaye ne jinde ji
+  Ohnaan ne zindagi jannat de vich guzaari ay
+  Sanaa Abbas di karde rahvo Khurram te Asad
+  Husain lai saadi naukari sarkaari ay
 ---
 
 ۱

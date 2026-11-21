@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bazaar ho kar zindaṅ se chut kar
-  Zainab aagayi nana
+  Bazaar ho kar zindaaṅ se chhut kar
+  Zainab aa gayi Nana
   Pardes jaa kar ujra mera ghar
-  Bichre baradar sab kuch luta kar
-  Nana tere shehr meiṅ zainab ujar ke aagayi
-  Mai to ujar gayi hoo karbobala basa gayi
-  Nana tere shehr mein...
-  Ae nana sun sako to rudaad-e-gham sunauṅ
-  Jo zakhm maiṅ ne khaye wo sab tumhe dikhauṅ
-  Sare karbala mera ghar luta
-  Baradar gaye chini hai rida
-  Mai to ujar gayi hoo
-  Bhai se jo kiye wo waade sabhi nibha gayi
-  Nana tere shehr mein...
-  Maahe rajab meiṅ mera bhai watan se nikla
-  Ae nana baad tere ummat ne yuṅ sataya
-  Suye karbala chala khaafla
-  Musafir bana tera laadla
-  Mai to ujar gayi hoo
+  Bichhre baraadar sab kuch luta kar
+  Nana tere shehr meiṅ Zainab ujar ke aa gayi
+  Maiṅ to ujar gayi huṅ Karb o Bala basa gayi
+  Nana tere shehr meiṅ...
+  Ae Nana sun sako to rudaad-e-gham sunaauṅ
+  Jo zakhm maiṅ ne khaaye woh sab tumheiṅ dikhaauṅ
+  Sar-e-Karbala mera ghar luta
+  Baraadar gaye chhini hai rida
+  Maiṅ to ujar gayi huṅ
+  Bhai se jo kiye woh waade sabhi nibha gayi
+  Nana tere shehr meiṅ...
+  Maah-e-Rajab meiṅ mera bhai watan se nikla
+  Ae Nana baad tere ummat ne yuṅ sataaya
+  Su-e-Karbala chala qaafila
+  Musaafir bana tera laadla
+  Maiṅ to ujar gayi huṅ
   Ab mera ghar lutega ye baat dil ko kha gayi
-  Nana tere shehr mein...
-  Sheh ne zamiṅ kharidi karbal hai naam jiska
-  Itne meiṅ ashkiyan ki faujoṅ ne hum ko ghera
-  Qayaam-e-haram khuda ki qasam
+  Nana tere shehr meiṅ...
+  Sheh ne zamiṅ kharidi Karbal hai naam jis ka
+  Itne meiṅ ashqiya ki faujoṅ ne hum ko ghera
+  Qiyaam-e-haram Khuda ki qasam
   Hate nehr se hua ye sitam
-  Mai to ujar gayi hoo
-  Ye baat mujhko nana tasvir e gham bata gayi
-  Nana tere shehr mein...
-  Phir saatvi se nana pehre the alqama par
-  Pani ki bandisheiṅ thi aulaad e fatema par
-  Mere tifl sab huwe jaaṅ balab
-  Gharib ul watan huwe tashna lab
-  Mai to ujar gayi hoo
-  Ye dard sehte sehte ashur ki shab aa gayi
-  Nana tere shehr mein...
-  Ashur ki wo shab to rote huwe guzaari
-  Subhe daham ki nana akbar ne jab azaaṅ di
-  Wigha zulm ki shuru hogayi
-  Sare karbala qayamat hui
-  Mai to ujar gayi hoo
+  Maiṅ to ujar gayi huṅ
+  Ye baat mujhko Nana tasvir-e-gham bata gayi
+  Nana tere shehr meiṅ...
+  Phir saatviṅ se Nana pehre the Alqama par
+  Paani ki bandisheiṅ thi aulaad-e-Fatema par
+  Mere tifl sab hue jaaṅ ba lab
+  Gharib-ul-watan hue tashna lab
+  Maiṅ to ujar gayi huṅ
+  Ye dard sehte sehte Aashur ki shab aa gayi
+  Nana tere shehr meiṅ...
+  Aashur ki woh shab to rote hue guzaari
+  Subh-e-daham ki Nana Akbar ne jab azaaṅ di
+  Wagha zulm ki shuru ho gayi
+  Sar-e-Karbala qayaamat hui
+  Maiṅ to ujar gayi huṅ
   Bhai ne jo kharidi sab ko zamiṅ ye kha gayi
-  Nana tere shehr mein...
-  Ek ek kar ke nana pir o jawaaṅ sidhare
-  Maqtal meiṅ koi soya koi nehr kinare
-  Gule tan mere baradar mere
-  Khafa hogaye kahiṅ khogaye
-  Mai to ujar gayi hoo
-  Naioṅ pe sab ke sar the kaisi ghari ye aa gayi
-  Nana tere shehr mein...
-  Khanjar chala tha jis dum shabbir ke gale par
-  Sab zulm dekhti thi ye bad nasib khwahar
+  Nana tere shehr meiṅ...
+  Ak ek kar ke Nana pir o jawaaṅ sidhaare
+  Maqtal meiṅ koi soya koi nehr kinaare
+  Gul-e-tan mere baraadar mere
+  Khafa ho gaye kahiṅ kho gaye
+  Maiṅ to ujar gayi huṅ
+  Naizoṅ pe sab ke sar the kaisi ghari ye aa gayi
+  Nana tere shehr meiṅ...
+  Khanjar chala tha jis dam Shabbir ke gale par
+  Sab zulm dekhti thi ye badnasib khwaahar
   Gala kat gaya mere bhai ka
-  Kafan bhi use nahi mil saka
-  Mai to ujar gayi hoo
-  Phir iske baad nana aandhi ghamoṅ ki cha gayi
-  Nana tere shehr mein...
-  Larza nabi ka rauza mazhar ye bain sun kar
-  Kaise bayaṅ karega farshe aza pe safdar
-  Kahaṅ ho saka bayaṅ qaid ka
-  Yahin khatm hai mera marsiya
-  Mai to ujar gayi hoo
-  Kehti thi binte zehra nana mai lutke aa gayi
-  Nana tere shehr mein...
+  Kafan bhi use nahiṅ mil saka
+  Maiṅ to ujar gayi huṅ
+  Phir is ke baad Nana aandhi ghamoṅ ki chhaa gayi
+  Nana tere shehr meiṅ...
+  Larza Nabi ka rauza Mazhar ye bain sun kar
+  Kaise bayaaṅ karega farsh-e-aza pe Safdar
+  Kahaaṅ ho saka bayaaṅ qaid ka
+  Yahi khatm hai mera marsiya
+  Maiṅ to ujar gayi huṅ
+  Kehti thi bint-e-Zehra Nana maiṅ lut ke aa gayi
+  Nana tere shehr meiṅ...
 ---
 
 ۱

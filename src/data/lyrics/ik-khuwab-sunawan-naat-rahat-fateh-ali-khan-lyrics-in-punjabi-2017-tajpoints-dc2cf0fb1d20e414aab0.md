@@ -1,53 +1,92 @@
 ---
-title: "Ik Khuwab Sunawan Naat Rahat Fateh Ali Khan Lyrics In Punjabi 2017"
+title: "اک خواب سناواں"
+alternateTitle: "Ik Khuwab Sunawan"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Sadiq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ik khuwab sunawan pur noor fizawaan
+  Aaqa muhallah jiwein arsh moalla
+  Kadi aoun farishte kadi jaon farishte
+  Saday azloon jur gaye Aaqa naal rishte
+  Ohh karmaa wala wehra
+  Palkaan nal chumda janwaan
+
+  2
+  Rab lay giya menu jadoon shehar Madine
+  Ik haji laya menu kut ke seene
+  Kadi peewaan Zam Zam kadi parhaan namazaan
+  Meri pohanch jithon tak main diyaan niyazaan
+  Rab sohne pal wich suniyaan
+  Mere dil diyaan sab duwaan
+
+  3
+  Aaqa da wehra palkaan di bari
+  Dill kare guzaraan othe umar main sari
+  Kabe de chakar main lay paj paj ke
+  Main Hajray Aswad chumiya raj raj ke
+  Mere sir te Rab ne kitiyaan
+  Rehmat diyaan thandiyaan chawaan
+
+  4
+  Ohh sohniyaan galiyaan wich rehmat Rab di
+  Mera Aaqa sohna gal sunrda sab di
+  Mere ramal di chadar utay daag hazaraan
+  Kis maan te wajaan tere karam nu maraan
+  Kehray munh nal bakhshish mangaan
+  Menu aoundiyaan bohat hayawaan
+
+  5
+  Chup kar ke beh giya roze de nerey
+  Hoya noor da chanan mere dill de wehray
+  Fair sufna tutiyaa ohho kachi kuli
+  Main ro piya Sadiq meri aakh kyun khuli
+  Fair Aaqa sadiya dar te hoiyaan
+  Dill diyaan poriyaan chawaan
 ---
 
-Ik Khuwab Sunawan Naat Rahat Fateh Ali Khan.
+۱
+اک خواب سناواں پر نور فضاواں
+آقا محلہ جیویں عرشِ معلّیٰ
+کدی آؤن فرشتے کدی جاؤن فرشتے
+ساڈے ازلوں جڑ گئے آقا نال رشتے
+اوہ کرماں والا ویہڑا
+پلکاں نال چمدا جانواں
 
-1
-Ik Khuwab Sunawan Pur Noor Fizawaan.
-Aaqa Muhallah Jiwein Arsh Moalla.
-Kadi Aoun Farishte Kadi Jaon Farishte.
-Saday Azloon Jur Gaye Aaqa Naal Rishte.
-Ohh Karmaa Wala Wehra.
-Palkaan Nal Chumda Janwaan.
+۲
+رب لے گیا مینوں جدوں شہر مدینے
+اک حاجی لایا مینوں گھٹ کے سینے
+کدی پیواں زم زم کدی پڑھاں نمازاں
+میری پہنچ جتھوں تک میں دیاں نیازاں
+رب سوہنے پل وچ سنیاں
+میرے دل دیاں سب دعاواں
 
-2
-Rab Lay Giya Menu Jadoon Shehar Madine.
-Ik Haji Laya Menu Kut Ke Seene.
-Kadi Peewaan Zam Zam Kadi Parhaan Namazaan.
-Meri Pohanch Jithon Tak Main Diyaan Niyazaan.
-Rab Sohne Pal Wich Suniyaan.
-Mere Dil Diyaan Sab Duwaan.
+۳
+آقا دا ویہڑا پلکاں دی باری
+دل کرے گزاراں اوتھے عمر میں ساری
+کعبے دے چکر میں لَے بھج بھج کے
+میں حجرِ اسود چمیا رج رج کے
+میرے سر تے رب نے کیتیاں
+رحمت دیاں ٹھنڈیاں چھاواں
 
-3
-Aaqa Da Wehra Palkaan Di Bari.
-Dill Kare Guzaraan Othe Umar Main Sari.
-Kabe De chakar Main Lay Paj Paj Ke.
-Main Hajray Aswad Chumiya Raj Raj Ke.
-Mere Sir Te Rab Ne Kitiyaan.
-Rehmat Diyaan Thandiyaan Chawaan.
+۴
+اوہ سوہنیاں گلیاں وچ رحمت رب دی
+میرا آقا سوہنا گل سُنڑدا سب دی
+میرے رومال دی چادر اُتے داغ ہزاراں
+کس مان تے واجاں تیرے کرم نوں ماراں
+کیہڑے منہ نال بخشش منگاں
+مینوں آؤندیاں بہت حیاواں
 
-4
-Ohh Sohniyaan Galiyaan Wich Rehmat Rab Di.
-Mera Aaqa Sohna Gal Sunrda Sab Di.
-Mere Ramal Di Chadar Utay Daag Hazaraan.
-Kis Maan Te Wajaan Tere Karam Nu Maraan.
-Kehray Munh Nal Bakhshish Mangaan.
-Menu Aoundiyaan Bohat Hayawaan.
-
-5
-Chup Kar Ke Beh Giya Roze De Nerey.
-Hoya Noor Da Chanan Mere Dill De Wehray.
-Fair Sufna Tutiyaa Ohho Kachi Kuli.
-Main Ro Piya Sadiq Meri Aakh Kyun Khuli.
-Fair Aaqa Sadiya Dar Te Hoiyaan.
-Dill Diyaan Poriyaan Chawaan.
+۵
+چپ کر کے بہہ گیا روضے دے نیڑے
+ہویا نور دا چانن میرے دل دے ویہڑے
+فیر سفنا ٹٹیا اوہو کچی کُلّی
+میں رو پیا صادق میری اکھ کیوں کھلی
+فیر آقا ساڈیا در تے ہوئیاں
+دل دیاں پوریاں چاواں

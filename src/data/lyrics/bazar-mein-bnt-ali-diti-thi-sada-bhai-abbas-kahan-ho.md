@@ -10,33 +10,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bazaar meiṅ Bint-e-Ali deti thi sada bhai
+  Bazaar meiṅ Bint-e-Ali deti thi sada bhaai
   Sar par bhi nahiṅ chaadar laakhoṅ haiṅ tamashaai
-  Abbas kahaṅ ho
+  Abbas kahaaṅ ho
   Abbas Abbas
 
   1
   Is aalam-e-ghurbat meiṅ koi bhi nahiṅ mera
   Hai khaak-e-safar sar par aur haath rasan basta
-  Pardes meiṅ Zainab ko taqdir kahaṅ laayi
+  Pardes meiṅ Zainab ko taqdir kahaaṅ laayi
 
   2
   Paiwast hai neze meiṅ sar Shah-e-Shahidaaṅ ka
   Ye dekh ke ae Ghazi phatta hai mera sina
-  Mar jaayegi is gham meiṅ Shabbir ki maajaayi
+  Mar jaaye gi is gham meiṅ Shabbir ki maaṅ jaayi
 
   3
   Darya ke kinaare tum aada se gaye larne
-  Sab dekh rahi thi maiṅ darwaaza-e-khaima se
+  Sab dekh rahi thi main darwaaza-e-khaima se
   Ab jang hamaari bhi dekho to zara bhaai
 
   4
   Dunya ka sahaara hai baba jo hamaara hai
-  Mushkil meiṅ magar maiṅ ne tumko hi pukaara hai
-  Ab dhundti hai tumko bhaiya meri binaai
+  Mushkil meiṅ magar main ne tum ko hi pukaara hai
+  Ab dhundti hai tum ko bhaiya meri binaai
 
   5
-  bemonis o yaawar hai batlaao kidhar jaaye
+  Be monis o yaawar hai batlaao kidhar jaaye
   Is tarah to jine se behtar hai ke mar jaaye
   Faryaad kare kis se hoti nahiṅ sunwaai
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   7
   Ahmed ki nawaasi ka Yasir yehi nauha tha
   Na bhaai bache mere na koi bacha beta
-  Ab ji ke karuṅgi kya gar maut nahiṅ aayi
+  Ab ji ke karuṅ gi kya gar maut nahiṅ aayi
 ---
 
 بازار میں بنتِ علی دیتی تھی صدا بھائی

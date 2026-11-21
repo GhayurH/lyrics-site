@@ -1,29 +1,48 @@
 ---
-title: "Be Watan Qaid Mein Baba Kya Main Mar Jaon Gi"
+title: "بے وطن قید میں بابا کیا میں مر جاؤں گی"
+alternateTitle: "Be Watan Qaid Mein Baba Kya Main Mar Jaon Gi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Be watan qaid mein Baba kya main mar jaon gi
+  Aap ke baad na ab laut ke ghar jaon gi
+  Main Sakina hoon mujhe aap ne manga Rab se
+  Main bhi Zahra hoon yeh ik bar keh dein sab se
+  Kya nahi aaein gay Baba main jab bulaon gi
+  Main ne jaltay hoye Fitrus ki shifa dekhi hai
+  Sani-e-Zahra ki nezay pe rida dekhi hai
+  Aap ke sar ko na nezay pe dekh paon gi
+  Mere rukhsaron pe likha hai yateemi Baba
+  Tere Nana ki yeh bholay hain kareemi Baba
+  Kaisay rukhsar tamachon se main bachaon gi
+  Dhondne aayi hoon maqtal mein aap ko Baba
+  De ke aawaz apne pas bola lo Baba
+  Dard guzrey hain jo mujh par woh main sunaon gi
+  Aap ne rait ke bistar pe sulaya jis ko
+  Kaisay ummat ne tha nezon se jagaya oss ko
+  Ab solaon gi na Asghar ko na jagaon gi
 ---
 
-1
-Be Watan Qaid Mein Baba Kya Main Mar Jaon Gi.
-Aap Ke Baad Na Ab Laut Ke Ghar Jaon Gi.
-Main Sakina Hoon Mujhe Aap Ne Manga Rab Se.
-Main Bhi Zahra Hoon Yeh Ik Bar Keh Dein Sab Se.
-Kya Nahi Aaein Gay Baba Main Jab Bulaon Gi.
-Main Ne Jaltay Hoye Fitrus Ki Shifa Dekhi Hai.
-Sani-e-Zahra Ki Nezay Pe Rida Dekhi Hai.
-Aap Ke Sar Ko Na Nezay Pe Dekh Paon Gi.
-Mere Rukhsaron Pe Likha Hai Yateemi Baba.
-Tere Nana Ki Yeh Bholay Hain Kareemi Baba.
-Kaisay Rukhsar Tamachon Se Main Bachaon Gi.
-Dhondne Aayi Hoon Maqtal Mein Aap Ko Baba.
-De Ke Aawaz Apne Pas Bola Lo Baba.
-Dard Guzrey Hain Jo Mujh Par Woh Main Sunaon Gi.
-Aap Ne Rait Ke Bistar Pe Sulaya Jis Ko.
-Kaisay Ummat Ne Tha Nezon Se Jagaya Oss Ko.
-Ab Solaon Gi Na Asghar Ko Na Jagaon Gi.
+۱
+بے وطن قید میں بابا کیا میں مر جاؤں گی
+آپ کے بعد نہ اب لوٹ کے گھر جاؤں گی
+میں سکینہ ہوں مجھے آپ نے مانگا رب سے
+میں بھی زہرا ہوں یہ اک بار کہہ دیں سب سے
+کیا نہیں آئیں گے بابا میں جب بلاؤں گی
+میں نے جلتے ہوئے فطرس کی شفا دیکھی ہے
+ثانیِ زہرا کی نیزے پہ ردا دیکھی ہے
+آپ کے سر کو نہ نیزے پہ دیکھ پاؤں گی
+میرے رخساروں پہ لکھا ہے یتیمی بابا
+تیرے نانا کی یہ بھولے ہیں کریمی بابا
+کیسے رخسار طمانچوں سے میں بچاؤں گی
+ڈھونڈنے آئی ہوں مقتل میں آپ کو بابا
+دے کے آواز اپنے پاس بلا لو بابا
+درد گزرے ہیں جو مجھ پر وہ میں سناؤں گی
+آپ نے ریت کے بستر پہ سلایا جس کو
+کیسے امت نے تھا نیزوں سے جگایا اس کو
+اب سلاؤں گی نہ اصغر کو نہ جگاؤں گی

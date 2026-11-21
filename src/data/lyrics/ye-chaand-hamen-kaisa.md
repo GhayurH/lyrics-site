@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Jo zakhm bhare dil the phir taaza hue saare
-  Nauha Ali Akbar ka in hoṅtoṅ ne dohraaya
+  Nauha Ali Akbar ka hontoṅ ne dohraaya
 
   4
   Phir sajne lagi mehndi naushaah ki ghar ghar meiṅ
@@ -36,11 +36,11 @@ romanLyrics: |-
   Jab saamne aaṅkhoṅ ke Ghaazi ka alam aaya
 
   6
-  Ik nanhe se jhule par pahuṅchi jo nazar meri
+  Ik nanhe se jhule par pahunchi jo nazar meri
   Dil tukre hua mera khuṅ aaṅkhoṅ se barsaaya
 
   7
-  Jab haaye Husaina ki har samt sada guṅji
+  Jab haaye Husaina ki har samt sada gunji
   Maatam ki sadaaoṅ se phir charkh bhi tharraaya
 
   8

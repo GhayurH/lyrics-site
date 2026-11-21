@@ -35,7 +35,7 @@ romanLyrics: |-
 
   4
   Maatam o majlis azaadaari Shah-e-Mazlum ki
-  Saari duniya ke liye haq ka yehi paighaam hai
+  Saari duniya ke liye haq ka ye hi paighaam hai
 
   5
   Jab lage patthar barasne to Sakina ne kaha
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Hai Amir apni ibaadat tazkira Shabbir ka
-  Madh-e-Aal-e-Rasul karna yehi apna kaam hai
+  Madh-e-Aal-e-Rasul karna ye hi apna kaam hai
 ---
 پرچمِ اسلام تجھ پر سلام
 مولا غازی کا علم ہی پرچمِ اسلام ہے

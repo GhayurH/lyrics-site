@@ -13,10 +13,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Na puchh karb o bala kis tarah basaayi gayi
-  Falak rida se lahu se zamiṅ banaayi gayi
+  Falak ridaa se lahu se zamiṅ banaayi gayi
 
   1
-  Saja diya gaya har ek ashk Aabid ka
+  Sajaa diyaa gaya har ek ashk Aabid ka
   Ridaa-e-arsh se taaroṅ se jab sajaayi gayi
 
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
   Sabil paani ki ye kis tarah lagaayi gayi
 
   4
-  Woh ek diya shab-e-Aashur jo bujhaaya gaya
+  Woh ek diyaa shab-e-Aashur jo bujhaaya gaya
   Usi ke sadqe meiṅ ye roshni banaayi gayi
 
   5
@@ -36,8 +36,8 @@ romanLyrics: |-
   Ahad ke parde meiṅ tauhid jab chhupaayi gayi
 
   6
-  Qasam hai asr ki hal min se li gayi awaaz
-  Sadaa-e-kun jo ba-roz-e-azal lagaayi gayi
+  Qasam hai asr ki hal min se li gayi aawaaz
+  Sadaa-e-kun jo ba roz-e-azal lagaayi gayi
 
   7
   Ye nauha tab kahiṅ jaa kar hua supurd-e-qalam

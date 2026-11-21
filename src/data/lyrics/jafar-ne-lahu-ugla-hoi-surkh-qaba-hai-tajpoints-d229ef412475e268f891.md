@@ -1,35 +1,59 @@
 ---
-title: "Jafar Ne Lahu Ugla Hoi Surkh Qaba Hai"
+title: "جعفر نے لہو اگلا ہوئی سرخ قبا ہے"
+alternateTitle: "Jafar Ne Lahu Ugla Hoi Surkh Qaba Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Safdar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jafar ne lahu ugla hoi surkh qaba hai
+  Haye zakhm-e-dil-e-Zahra hara phir se howa hai
+  Kat kat ke jigar dahan mein Mula ka hai aaya
+  Sadiq ko sadaqat ka sila zehar mila hai
+
+  2
+  Mansoor ko wirsay mein mili zulm ki taufeeq
+  Mazloom ko hisay mein faqat Karb-o-Bala hai
+  Chadar mein gala bandh ke darbar bulaya
+  Baqir ka pisar waqt ka Sajjad bana hai
+
+  3
+  Darbar mein yaad aate rahe Sham ke manzar
+  Abid ki ghareebi pe lahu rota raha hai
+  Hai khak basar chak giraybaan jo Kazim
+  Syedanio ke sar pe yateemi ki rida hai
+
+  4
+  Ik baar hai phir ghar mein Nabi zadi ke matam
+  Ik our janaza sar-e-dehleez rakha hai
+  Zahra ke chaman lutne ka gham paya hai Safdar
+  Matam ke siwa dahar mein kya baqi bacha hai
 ---
 
-1
-Jafar Ne Lahu Ugla Hoi Surkh Qaba Hai.
-Haye Zakhm-e-Dil-e-Zahra Hara Phir Se Howa Hai.
-Kat Kat Ke Jigar Dahan Mein Mula Ka Hai Aaya.
-Sadiq Ko Sadaqat Ka Sila Zehar Mila Hai.
+۱
+جعفر نے لہو اگلا ہوئی سرخ قبا ہے
+ہائے زخمِ دلِ زہرا ہرا پھر سے ہوا ہے
+کٹ کٹ کے جگر دہن میں مولا کا ہے آیا
+صادق کو صداقت کا صلہ زہر ملا ہے
 
-2
-Mansoor(L) Ko Wirsay Mein Mili Zulm Ki Taufeeq.
-Mazloom Ko Hisay Mein Faqat Karb-o-Bala Hai.
-Chadar Mein Gala Bandh Ke Darbar Bulaya.
-Baqir Ka Pisar Waqt Ka Sajjad Bana Hai.
+۲
+منصور کو ورثے میں ملی ظلم کی توفیق
+مظلوم کو حصے میں فقط کرب و بلا ہے
+چادر میں گلا باندھ کے دربار بلایا
+باقر کا پسر وقت کا سجاد بنا ہے
 
-3
-Darbar Mein Yaad Aate Rahe Sham Ke Manzar.
-Abid Ki Ghareebi Pe Lahu Rota Raha Hai.
-Hai Khak Basar Chak Giraybaan Jo Kazim.
-Syedanio Ke Sar Pe Yateemi Ki Rida Hai.
+۳
+دربار میں یاد آتے رہے شام کے منظر
+عابد کی غریبی پہ لہو روتا رہا ہے
+ہے خاک بسر چاک گریباں جو کاظم
+سیدانیوں کے سر پہ یتیمی کی ردا ہے
 
-4
-Ik Baar Hai Phir Ghar Mein Nabi Zadi Ke Matam.
-Ik Our Janaza Sar-e-Dehleez Rakha Hai.
-Zahra Ke Chaman Lutne Ka Gham Paya Hai Safdar.
-Matam Ke Siwa Dahar Mein Kya Baqi Bacha Hai.
+۴
+اک بار ہے پھر گھر میں نبی زادی کے ماتم
+اک اور جنازہ سرِ دہلیز رکھا ہے
+زہرا کے چمن لٹنے کا غم پایا ہے صفدر
+ماتم کے سوا دہر میں کیا باقی بچا ہے

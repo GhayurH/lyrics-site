@@ -11,7 +11,7 @@ tags: []
 aliases: ["Jab Kiya Jayega"]
 published: true
 romanLyrics: |-
-  Jab kiya jaaye ga mahshar meiṅ ibaadat ka sawaal
+  Jab kiya jaaye ga mahshar mein ibaadat ka sawaal
   Aaye ga Aal-e-Payambar ki mohabbat ka sawaal
 
   1
@@ -23,11 +23,11 @@ romanLyrics: |-
   Jab kabhi aata hai jurat aur shujaat ka sawaal
 
   3
-  Baddua karti lainoṅ ke liye Zainab zarur
+  Baddua karti la'inoṅ ke liye Zainab zarur
   Saamne hota na gar Naana ki ummat ka sawaal
 
   4
-  Baap ki aaghosh meiṅ Asghar humak kar aa gaye
+  Baap ki aaghosh mein Asghar humak kar aa gaye
   Jab kiya Sarwar ne imaaṅ ki himaayat ka sawaal
 
   5
@@ -35,8 +35,8 @@ romanLyrics: |-
   Ik taraf din-e-Ilaahi aur nusrat ka sawaal
 
   6
-  Puchha Qasim ne chale aayeṅ ge kya ghar meiṅ adu
-  Aaya jab nanhe se Asghar ki shahaadat ka sawaal
+  Puchha Qasim ne chale aayeṅ ge kya ghar mein adu
+  Aaya jab nannhe se Asghar ki shahaadat ka sawaal
 ---
 جب کیا جائے گا محشر میں عبادت کا سوال
 آئے گا آلِ پیمبر کی محبت کا سوال

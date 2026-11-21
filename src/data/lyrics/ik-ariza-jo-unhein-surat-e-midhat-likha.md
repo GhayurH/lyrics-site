@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ik ariza jo unheiṅ surat-e-midhat likha
-  Aik ik harf ko az ru-e-muhabbat likha
+  Ek ik harf ko az ru-e-muhabbat likha
 
   1
   Shart ye thi ke shariat ki zabaan meiṅ likhuṅ
@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Jab kabhi aap ki aamad ki khabar dil ko mili
-  Ham ne us lamhe ko lamhaat-e-qayaamat likha
+  Ham ne us lamhe ko lamhaat-e-qiyaamat likha
 
   3
   Aap aa jaaeṅ to badle ye nizaam-e-hasti
   Ham ne is baat ko har saal ba shiddat likha
 
   4
-  Kabhi qayaam kabhi Mehdi bhi Maula Aaqa
+  Kabhi qiyaam kabhi Mehdi bhi Maula Aaqa
   Wasf ko in ke sada hasb-e-zarurat likha
 ---
 اک عریضہ جو انہیں صورتِ مدحت لکھا

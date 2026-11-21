@@ -25,11 +25,11 @@ romanLyrics: |-
   2
   Na takht raha na taaj raha
   Na zulm raha na raaj raha
-  Ek shor hai maatam daari ka
+  Ik shor hai maatam daari ka
   Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   3
-  Na qaatil na baatil hai
+  Na qaatil hai na baatil hai
   Ae duniya aa ke dekh zara
   Shabbir ke maatam ki hai sada
   Bazaaroṅ meiṅ darbaaroṅ meiṅ
@@ -66,7 +66,7 @@ romanLyrics: |-
 
   9
   Paaband-e-rasan majbur huṅ maiṅ
-  Ae Shiyoṅ khule ho haath to phir
+  Ae Shaamiyoṅ khule ho haath to phir
   Shabbir ka tum maatam kar lo
   Bazaaroṅ meiṅ darbaaroṅ meiṅ
 

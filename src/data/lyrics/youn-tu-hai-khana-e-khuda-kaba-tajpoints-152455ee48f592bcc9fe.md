@@ -1,38 +1,65 @@
 ---
-title: "Youn Tu Hai Khana-e-Khuda Kaba"
+title: "یوں تو ہے خانۂ خدا کعبہ"
+alternateTitle: "Youn Tu Hai Khana-e-Khuda Kaba"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Youn tu hai khana-e-Khuda Kaba
+  Par hai Kabay ka Karbala Kaba
+
+  1
+  Ahtemam-e-nazool-e-Haider hai
+  Khud banate hain anbiya Kaba
+  Hum ne dekha Rajab ki tera ko
+  Aik Kabay mein dosra Kaba
+
+  2
+  Dosh-e-Ahmad pe hain Ali dekho
+  Mustafa ne utha liya Kaba
+  Panch Kabay moqeem hain iss mein
+  Bait-e-Zahra hai youn bara Kaba
+
+  3
+  In ke emaan pe shak na kar waiz
+  Abu Talib hain bolta Kaba
+  Jhuk na bait-e-Ali ko aye munkir
+  Ja tu apna koi bana Kaba
+
+  4
+  Sare sajday samait kar shab mein
+  Roz jata hai Karbala Kaba
+  Yeh siyah posh kyun na ho Muhsin
+  Matami hai Hussain ka Kaba
 ---
 
-Youn Tu Hai Khana-e-Khuda Kaba.
-Par Hai Kabay Ka Karbala Kaba.
+یوں تو ہے خانۂ خدا کعبہ
+پر ہے کعبے کا کربلا کعبہ
 
-1
-Ahtemam-e-Nazool-e-Haider Hai.
-Khud Banate Hain Anbiya Kaba.
-Hum Ne Dekha Rajab Ki Tera Ko.
-Aik Kabay Mein Dosra Kaba.
+۱
+اہتمامِ نزولِ حیدر ہے
+خود بناتے ہیں انبیا کعبہ
+ہم نے دیکھا رجب کی تیرہ کو
+ایک کعبے میں دوسرا کعبہ
 
-2
-Dosh-e-Ahmad Pe Hain Ali Dekho.
-Mustafa Ne Utha Liya Kaba.
-Panch Kabay Moqeem Hain Iss Mein.
-Bait-e-Zahra Hai Youn Bara Kaba.
+۲
+دوشِ احمد پہ ہیں علی دیکھو
+مصطفیٰ نے اٹھا لیا کعبہ
+پانچ کعبے مقیم ہیں اس میں
+بیتِ زہرا ہے یوں بڑا کعبہ
 
-3
-In Ke Emaan Pe Shak Na Kar Waiz.
-Abu Talib Hain Bolta Kaba.
-Jhuk Na Bait-e-Ali Ko Aye Munkir.
-Ja Tu Apna Koi Bana Kaba.
+۳
+ان کے ایمان پہ شک نہ کر واعظ
+ابو طالب ہیں بولتا کعبہ
+جھک نہ بیتِ علی کو اے منکر
+جا تو اپنا کوئی بنا کعبہ
 
-4
-Sare Sajday Samait Kar Shab Mein.
-Roz Jata Hai Karbala Kaba.
-Yeh Siyah Posh Kyun Na Ho Muhsin.
-Matami Hai Hussain Ka Kaba.
+۴
+سارے سجدے سمیٹ کر شب میں
+روز جاتا ہے کربلا کعبہ
+یہ سیاہ پوش کیوں نہ ہو محسن
+ماتمی ہے حسین کا کعبہ

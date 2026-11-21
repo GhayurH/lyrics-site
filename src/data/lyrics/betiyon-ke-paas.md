@@ -11,55 +11,55 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab chali talwaar haye zehr may dubi hui
-  Sar shikasta hogaya uth na sake maula ali
-  The sirhane shabbar o shabbir aur abbas bhi
-  Baap ko jab betiyoṅ ki yaad tadpane lagi
-  Dekh kar betoṅ ka chehra ye ali kehne lage
+  Jab chali talwaar haaye zehr mein dubi hui
+  Sar shikasta ho gaya uth na sake Maula Ali
+  The sirhaane Shabbar o Shabbir aur Abbas bhi
+  Baap ko jab betiyoṅ ki yaad aai us ghari
+  Dekh kar betoṅ ka chehra ye Ali kehne lage
   Waqt kam hai betiyoṅ ke paas le jao mujhe
-  Dekh kar zainab ko meri saans may saans aayegi
-  Dekh kar kulsum ko ye zindagi barh jayegi
+  Dekh kar Zainab ko meri saans mein saans aayegi
+  Dekh kar Kulsum ko ye zindagi barh jaayegi
   Baap kuch din aur ji le betiyoṅ ke saamne
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Zakhm zarbat ka wahaṅ ye dekhna zaahir na ho
+  Zakhm zarbat ka wahaṅ par dekhna zaahir na ho
   Khun sar se saaf kar ke phir amaama baandh do
-  Betiyaṅ ghabra na jaaye meri haalat dekh ke
+  Betiyaṅ ghabra na jaaeṅ meri haalat dekh ke
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Haye phir shabbir se rote huwe bole ali
-  Wo agar maange to de dena nishani baap ki
-  Ye musalla saath rakh lo meri zainab ke liye
+  Haaye phir Shabbir se rote hue bole Ali
+  Wo agar maaṅge to de dena nishaani baap ki
+  Ye musalla saath rakh lo meri Zainab ke liye
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
   Is liye hi baap se beti ka hai rishta ajab
-  Betiyaṅ hai baap ki mayyat pe raunaq ka sabab
-  Khush nasibi hai khuda beti ataa kar de jise
+  Betiyaṅ haiṅ baap ki mayyat pe raunaq ka sabab
+  Khush nasibi hai Khuda beti ataa kar de jise
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Apne baba ke janaze par jo royi fatema
-  Us ghari mai apni zainab ke liye rota raha
-  Kitna mushkil hai bicharna betiyoṅ ka baap se
+  Apne baaba ke janaaze par jo roiṅ Fatema
+  Us ghari main apni Zainab ke liye rota raha
+  Kitna mushkil hai bichharna betiyoṅ ke baap se
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Kal mai jab kulsum ke ghar se chala rone lagi
-  Mere sine se lipat kar mujhse ye kehne lagi
-  Jaa rahe hai laut kar phir aayenge kab ghar mere
+  Kal main jab Kulsum ke ghar se chala rone lagi
+  Mere sine se lipat kar mujh se ye kehne lagi
+  Jaa rahe haiṅ laut kar phir aaeṅge kab ghar mere
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Le chalo ab betiyoṅ se dur mai kaise rahuṅ
-  Zainab o kulsum ke jaa kar mai shaane chum luṅ
-  Haaṅ isi kufe may honge haath dono ke bandhe
+  Le chalo ab betiyoṅ se dur main kaise rahuṅ
+  Zainab o Kulsum ke jaa kar main shaaneṅ chum luṅ
+  Haaṅ isi Kufe mein hoṅge haath donoṅ ke bandhe
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Dekh kar abbas ka chehra ali ne ye kaha
+  Dekh kar Abbas ka chehra Ali ne ye kaha
   Saamne rehna hamesha orh kar meri abaa
-  Betiyaṅ jiti rahe chehra tumhara dekh ke
+  Betiyaṅ jiti raheṅ chehra tumhaara dekh ke
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-  Haye zishan o raza jab hukm baba ka suna
+  Haaye Zishan o Raza jab hukm baaba ka suna
   Ghar ki jaanib le chale bete basad aah o buka
-  Aur ali betoṅ se ro ro kar yehi kehte rahe
+  Aur Ali betoṅ se ro ro kar yehi kehte rahe
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
 ---

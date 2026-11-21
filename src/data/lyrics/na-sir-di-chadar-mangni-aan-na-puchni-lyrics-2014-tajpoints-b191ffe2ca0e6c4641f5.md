@@ -1,30 +1,50 @@
 ---
-title: "Na Sir Di Chadar Mangni Aan Na Puchni Lyrics 2014"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "نہ سر دی چادر منگنی آں نہ پچھنی"
+alternateTitle: "Na Sir Di Chadar Mangni Aan Na Puchni"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Na sir di chadar mangni aan na puchni aan Sham de rah Baba
+  Kinj kafan Hussain layi mangna aye bas aina dasda ja Baba
+  Tu aakhna aye lokaan paidal turana mainu
+  Mushkil Kusha madad kar karni aan arz tainu
+  Main turan da aj aghaz karan menu maiyat de naal tura Baba
+  Tu hi Abuturab ayein tu hi ayein Baba mera
+  Karbal che mere sir te jis wailay re na parda
+  Iss dhi di chadar ban jawein oss dhi nu kainda ja Baba
+  Tera Hussain tera sajda kare ga pora
+  Main pora khud karan gi tera adhora khutba
+  Aj teri lash te karne aan assi wada bhain bhira Baba
+  Dunya te mere kite sab kuj badal giya aye
+  Shehzadi ban ke pehle main Kofa wekhiya aye
+  Hun jiwein qaidi takde ne aynj Kofa shehar wikha Baba
+  Akbar aye Bibi aakhe zulma di inteha nayi
+  Karbal Najaf Madina mere layi koi ja nayi
+  Bas Sham shehar wich reh gayi aye Zainab layi qabar di ja Baba
 ---
 
-1
-Na Sir Di Chadar Mangni Aan Na Puchni Aan Sham De Rah Baba.
-Kinj Kafan Hussain Layi Mangna Aye Bas Aina Dasda Ja Baba.
-Tu Aakhna Aye Lokaan Paidal Turana Mainu.
-Mushkil Kusha Madad Kar Karni Aan Arz Tainu.
-Main Turan Da Aj Aghaz Karan Menu Maiyat De Naal Tura Baba.
-Tu Hi Abuturab Ayein Tu Hi Ayein Baba Mera.
-Karbal Che Mere Sir Te Jis Wailay Re Na Parda.
-Iss Dhi Di Chadar Ban Jawein Oss Dhi Nu Kainda Ja Baba.
-Tera Hussain Tera Sajda Kare Ga Pora.
-Main Pora Khud Karan Gi Tera Adhora Khutba.
-Aj Teri Lash Te Karne Aan Assi Wada Bhain Bhira Baba.
-Dunya Te Mere Kite Sab Kuj Badal Giya Aye.
-Shehzadi Ban Ke Pehle Main Kofa Wekhiya Aye.
-Hun Jiwein Qaidi Takde Ne Aynj Kofa Shehar Wikha Baba.
- Akbar Aye Bibi Aakhe Zulma Di Inteha Nayi.
-Karbal Najaf Madina Mere Layi Koi Ja Nayi.
-Bas Sham Shehar Wich Reh Gayi Aye Zainab Layi Qabar Di Ja Baba
+۱
+نہ سر دی چادر منگنی آں نہ پچھنی آں شام دے راہ بابا
+کنج کفن حسین لئی منگنا اے، بس اینا دسدا جا بابا
+توں آکھنا اے لوکاں پیدل تُرانا مینوں
+مشکل کشا مدد کر، کرنی آں عرض تینوں
+میں تُرن دا اج آغاز کراں، مینوں میت دے نال تُرا بابا
+توں ہی ابوتراب ایں، توں ہی ایں بابا میرا
+کربل چے میرے سر تے جس ویلے رہے نہ پردہ
+اِس دھی دی چادر بن جاویں، اُس دھی نوں کہندا جا بابا
+تیرا حسین تیرا سجدہ کرے گا پورا
+میں پورا خود کراں گی تیرا ادھورا خطبہ
+اج تیری لاش تے کرنے آں اسیں وعدہ بھین بھرا بابا
+دنیا تے میرے کِیتے سب کجھ بدل گیا اے
+شہزادی بن کے پہلے میں کوفہ ویکھیا اے
+ہن جیویں قیدی تکدے نے، اینج کوفہ شہر وکھا بابا
+اکبر اے بی بی آکھے، ظلماں دی انتہا نئیں
+کربل نجف مدینہ میرے لئی کوئی جا نئیں
+بس شام شہر وچ رہ گئی اے زینب لئی قبر دی جا بابا

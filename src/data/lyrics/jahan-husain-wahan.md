@@ -1,7 +1,7 @@
 ---
 title: "جہاں حسین وہاں"
 recitationId: "jahan-hussain-wahan"
-alternateTitle: "Jahaṅ Husain Wahaṅ"
+alternateTitle: "Jahaaṅ Husain Wahaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,7 +18,7 @@ romanLyrics: |-
   Charaagh jalta raha
   Jo qaafila tha rawaaṅ wo qaafila hai rawaaṅ
   Safar ba nok-e-sinaaṅ sinaaṅ ke saath azaaṅ
-  Burida sar ki sadaaeṅ faza meiṅ phail gayiṅ
+  Burida sar ki sadaaeṅ fazaa meiṅ phail gayiṅ
   Darichoṅ aanganoṅ galiyoṅ meiṅ tapte sehra se
   Zamin o arsh khilaaoṅ se aur fazaaoṅ se
   Dinoṅ meiṅ raat meiṅ jangal meiṅ kohsaaroṅ se
@@ -29,7 +29,7 @@ romanLyrics: |-
   Sinaaṅ ki nok pe subhaana rabbi al aala
   Pukaara kalma-e-tauhid bhi jazaak Allah
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
   Husain baara Imaamoṅ ki kaainaat bhi hai
   Husain se hai ayaaṅ la ilaha illallah
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   4
@@ -49,7 +49,7 @@ romanLyrics: |-
   Na dekhe tir na talwaar gar ho hukm-e-azaaṅ
   Husain ka hai bayaaṅ la ilaha illallah
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   5
@@ -59,7 +59,7 @@ romanLyrics: |-
   Husain waaloṅ ka aelaan hai azaadaari
   Husainiyat ki zabaaṅ la ilaha illallah
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   6
@@ -69,7 +69,7 @@ romanLyrics: |-
   Baraa-e-naaz bahattar ki wo namaaz bhi hai
   Isi ka sirr-e-nihaaṅ la ilaha illallah
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   7
@@ -98,26 +98,26 @@ romanLyrics: |-
   Ada kiya jise Baaqir ne sakhtiyaṅ seh kar
   Bayaaṅ kiya jise Jafar ne bar sar-e-mimbar
   Ruku meiṅ barsoṅ rahe jis ke Kaazim-e-muztar
-  Raza ne lab pe sari ar riza saja ke parhi
+  Raza ne lab pe sariur-riza saja ke parhi
   Taqi ne taqwa-e-Bu Taalibi bata ke parhi
   Naqi ne naqwat-e-baatil mita mita ke parhi
   Aur Askari ne khabar aakhri suna ke parhi
   Pas-e-namaaz musalle pe ro raha hai koi
   Imam-e-asr hai aur hujjat-e-Khuda hai wohi
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   10
   Wo khaima gaah wo sayyidaaniyaṅ wo zikr-e-Khuda
-  Jahaṅ musalle pe Zainab Rabaab aur Fizza
+  Jahaaṅ musalle pe Zainab Rabaab aur Fizza
   Hasan ki bewa Ruqayya Sakina ka sajda
   Tamaam Bibiyaṅ karti thiṅ sirf ek dua
   Mere Khuda hameṅ manzur kehte aab rahe
   Husain apne iraadoṅ meiṅ kaamyaab rahe
   Sadaa-e-tishna labaaṅ la ilaha illallah
 
-  Jahaṅ Husain wahaṅ la ilaha illallah
+  Jahaaṅ Husain wahaaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
   11
@@ -161,23 +161,23 @@ romanLyrics: |-
   Tiroṅ ne chhaan daale the pehlu Husain ke
 
   14
-  Neze ka bine Wahaab ne pehlu pe kiya waar
+  Neze ka Bane Wahaab ne pehlu pe kiya waar
   Kaandhe pe chali saath Zaraara ki bhi talwaar
   Naawak bin Kaahil ka kaleje ke hua waar
-  Baazu meiṅ dar aaya tabar-e-Khuli-e-khun khaar
+  Baazu meiṅ dar aaya tabar-e-Khuli-e-khun khwaar
   Tegheṅ upi hui jo baraabar se chal gayiṅ
   Ghash aa gaya qadam se rikaabeṅ nikal gayiṅ
 
   15
   Kiuṅ kar kahuṅ ke arsh-e-Khuda khaak par gira
-  Khairunnisa ka maah laqa khaak par gira
+  Khairunnisa ka maah laqaa khaak par gira
   Reti pe Mustafa ke jigar ka lahu gira
   Sayyid gira Imam gira nek khuṅ gira
   Wo zulm ho raha tha ke dunya ulatti thi
   Jab zer-e-tegh gardan-e-Shabbir katti thi
   Wo kund tegh Zainab o Zehra pe chalti thi
-  Maatam kunaṅ namaaz thi aur khun roti thi
-  Jaari thi ye sada ke Nabi ka nawaasa huṅ
+  Maatam kunaaṅ namaaz thi aur khun roti thi
+  Jaari thi ye sadaa ke Nabi ka nawaasa huṅ
   Ammaaṅ pilaao paani maiṅ pyaasa huṅ
 
   16
@@ -185,7 +185,7 @@ romanLyrics: |-
   Behen ke saamne nok-e-sinaaṅ pe charh ke gaya
   Nazar meiṅ bhaai ke sajde ki aab o taab jo thi
   Behen ne sar khule maqtal meiṅ maghribain parhi
-  Nazar ke saamne har mah laqa ki laash rahi
+  Nazar ke saamne har mah laqaa ki laash rahi
   Magar jale hue khaimoṅ ki jaanamaaz bichhi
   Gham-e-Husain ki barchhi utha gayi Zainab
   Magar namaaz ki dunya basa gayi Zainab

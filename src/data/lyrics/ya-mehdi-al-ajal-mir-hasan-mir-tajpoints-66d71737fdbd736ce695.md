@@ -1,47 +1,82 @@
 ---
-title: "Ya Mehdi Al Ajal Mir Hasan Mir"
+title: "یا مہدی العجل میر حسن میر"
+alternateTitle: "Ya Mehdi Al Ajal Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Al-ajal al-ajal Waris-e-Karbala
+  Karbala se yehi aa rahi hai sada
+  Lash-e-Shabeer par jo giraye gaye
+
+  2
+  Main woh pathar hoon kab se sanbhalay hoye
+  De inhi pathron se tu unn ko saza
+  Maa ki nazrein na dekhein yehi soch kar
+  Seena apne chupaye hoye hai magar
+
+  3
+  Zakhm dikhlaye ga tujh ko Akbar tera
+  Inteqam aa ke Zainab ki chadar ka le
+  Sar se pehle tu oss hath ko kaat de
+  Bint-e-Zahra ki jis ne rida ko chowa
+
+  4
+  Ik ziyarat chupaye hoye hoon abhi
+  Tum ko diklaongi aao gay jis ghari
+  Khoon Sakina ka jo khak par tha gira
+  Sar juda tan juda dono bazu juda
+
+  5
+  Phir bhi Ghazi ko arman hai jang ka
+  Hath uthaye bina de raha hai sada
+  Sath khaimon ke har aik shey jal gayi
+  Zulm bhi thak gaya aag bhi bujh gayi
+
+  6
+  Jal raha hai magar ab bhi seena mera
+  Har azadar yeh kar raha hai dua
+  Aisa Ashor ho ab ke Akbar bapa
+  Karbala mein miley Waris-e-Karbala
 ---
 
-1
-Ya Mehdi Al Ajal Mir Hasan Mir Write Up
-Al-Ajal Al-Ajal Waris-e-Karbala.
-Karbala Se Yehi Aa Rahi Hai Sada.
-Lash-e-Shabeer Par Jo Giraye Gaye.
+۱
+العجل العجل وارثِ کربلا
+کربلا سے یہی آ رہی ہے صدا
+لاشِ شبیر پر جو گرائے گئے
 
-2
-Main Woh Pathar Hoon Kab Se Sanbhalay Hoye.
-De Inhi Pathron Se Tu Unn Ko Saza.
-Maa Ki Nazrein Na Dekhein Yehi Soch Kar.
-Seena Apne Chupaye Hoye Hai Magar.
+۲
+میں وہ پتھر ہوں کب سے سنبھالے ہوئے
+دے انہی پتھروں سے تو اُن کو سزا
+ماں کی نظریں نہ دیکھیں یہی سوچ کر
+سینہ اپنے چھپائے ہوئے ہے مگر
 
-3
-Zakhm Dikhlaye Ga Tujh Ko Akbar Tera.
-Inteqam Aa Ke Zainab Ki Chadar Ka Le.
-Sar Se Pehle Tu Oss Hath Ko Kaat De.
-Bint-e-Zahra Ki Jis Ne Rida Ko Chowa.
+۳
+زخم دکھلائے گا تجھ کو اکبر تیرا
+انتقام آ کے زینب کی چادر کا لے
+سر سے پہلے تو اُس ہاتھ کو کاٹ دے
+بنتِ زہرا کی جس نے ردا کو چھوا
 
-4
-Ik Ziyarat Chupaye Hoye Hoon Abhi.
-Tum Ko Diklaongi Aao Gay Jis Ghari.
-Khoon Sakina Ka Jo Khak Par Tha Gira.
-Sar Juda Tan Juda Dono Bazu Juda.
+۴
+اک زیارت چھپائے ہوئے ہوں ابھی
+تم کو دکھلاؤں گی آؤ گے جس گھڑی
+خون سکینہ کا جو خاک پر تھا گرا
+سر جدا تن جدا دونوں بازو جدا
 
-5
-Phir Bhi Ghazi Ko Arman Hai Jang Ka.
-Hath Uthaye Bina De Raha Hai Sada.
-Sath Khaimon Ke Har Aik Shey Jal Gayi.
-Zulm Bhi Thak Gaya Aag Bhi Bujh Gayi.
+۵
+پھر بھی غازی کو ارمان ہے جنگ کا
+ہاتھ اٹھائے بنا دے رہا ہے صدا
+ساتھ خیموں کے ہر ایک شے جل گئی
+ظلم بھی تھک گیا آگ بھی بجھ گئی
 
-6
-Jal Raha Hai Magar Ab Bhi Seena Mera.
-Har Azadar Yeh Kar Raha Hai Dua.
-Aisa Ashor Ho Ab Ke Akbar Bapa.
-Karbala Mein Miley Waris-e-Karbala.
+۶
+جل رہا ہے مگر اب بھی سینہ میرا
+ہر عزادار یہ کر رہا ہے دعا
+ایسا عاشور ہو اب کے اکبر بپا
+کربلا میں ملے وارثِ کربلا

@@ -32,7 +32,7 @@ romanLyrics: |-
   Hum sab ke baad khalq se jaane ko reh gaye
   Sar pitne ko ashk bahaane ko reh gaye
   Us naujawaaṅ ka daagh uthaane ko reh gaye
-  Piri meiṅ aah thokareṅ khaane ko reh gaye
+  Piri mein aah thokareṅ khaane ko reh gaye
   Beta kahaaṅ khabar jo dam-e-inteqaal le
   Itna nahiṅ koi ke giruṅ to sambhaal le
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Chillaaye dil ko thaam ke sultaan-e-bahr o bar
   Sote ho kya dhare hue rukhsaar khaak par
   Akbar utho ke ghore se girta hai ab pidar
-  Bhule pidar ko nind meiṅ qurbaan aap ke
+  Bhule pidar ko nind mein qurbaan aap ke
   Aao namaaz-e-asr parho saath baap ke
 
   5
@@ -57,8 +57,8 @@ romanLyrics: |-
   Lo gher lo Husain ko sab mil ke ek baar
   Palte pare sawaaroṅ ke le kar risaala daar
   Do ghol baandhe aaye kamaaṅ daar das hazaar
-  Tir afghanoṅ meiṅ teghoṅ meiṅ bhaaloṅ meiṅ ghir gaye
-  Bekas Husain barchhiyoṅ waaloṅ meiṅ ghir gaye
+  Tir afghanoṅ mein teghoṅ mein bhaaloṅ mein ghir gaye
+  Bekas Husain barchhiyoṅ waaloṅ mein ghir gaye
 
   7
   Sayyid ke martabe ko na jaana hazaar haif
@@ -73,13 +73,13 @@ romanLyrics: |-
   Sine se kaun tir nikaale koi nahiṅ
   Sab mar chuke haiṅ chaahne waale koi nahiṅ
   Bejaaṅ pare haiṅ god ke paale koi nahiṅ
-  Bedas pare haiṅ aap zor sipaah adu ka hai
+  Be das pare haiṅ aap zor sipaah adu ka hai
   Munh jis ka dekhta huṅ woh pyaasa lahu ka hai
 
   9
-  Fizza ne jaa ke khaimoṅ meiṅ bewaaoṅ ko di khabar
+  Fizza ne jaa ke khaimoṅ mein bewaaoṅ ko di khabar
   Haae haae mere khazaade ka katta hai tan se sar
-  Bistar se uth ke gir pare Sajjad nauhagar
+  Bistar se uth ke gir pare Sajjad nauha gar
   Khaime se nikli bibiyaaṅ bachchoṅ ko chhor kar
   Hilta tha arsh Hazrat-e-Zainab ke bain se
   Gir gir ke daurti thi ke miluṅ Husain se
@@ -90,13 +90,13 @@ romanLyrics: |-
   Darya kidhar hai khuṅ ka taraai hai kis taraf
   Sone ki jaa Husain ne paai hai kis taraf
   Rasta de ae zamiṅ ke falak ki sataai huṅ
-  Maiṅ apne pyaare bhaai se milne ko aai huṅ
+  Main apne pyaare bhaai se milne ko aai huṅ
 
   11
-  Maiṅ Sayyida huṅ rahm karo laash ko bataao
+  Main Sayyida huṅ rahm karo laash ko bataao
   Ae ahl-e-qarya bint-e-Ali ki madad ko aao
-  Dunya meiṅ khush tum raho uqba meiṅ chain paao
-  Sayyid kidhar hai khun meiṅ ghaltaaṅ bataate jaao
+  Dunya mein khush tum raho uqba mein chain paao
+  Sayyid kidhar hai khun mein ghaltaaṅ bataate jaao
   Yaaṅ lut gaye falak ne yeh dukh hum pe daale haiṅ
   Ae bhaaiyoṅ Madine ke hum rehne waale haiṅ
 

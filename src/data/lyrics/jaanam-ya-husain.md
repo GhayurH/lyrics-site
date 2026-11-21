@@ -21,7 +21,7 @@ romanLyrics: |-
   Muharram o Safar na ho to gham na hoga saath kya
   Zindagi ke saath bhi zindagi ke baad bhi
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -29,17 +29,17 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
-  Maula awaaz do hameiṅ parwaaz do
-  Hum azadaroṅ ki taqdir jaga do
+  Maula awaaz do hameiṅ parwaaz parwaaz do
+  Hum azaadaaroṅ ki taqdir jaga do
   Aap ka saath ho aap ki baat ho
-  Dil mera apna azakhana bana do
+  Dil mera apna azaakhaana bana do
 
   2
   Maula maula Husain ya maula Husain
 
   3
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -48,11 +48,11 @@ romanLyrics: |-
   Jaanam ya Husain Husain Husain
 
   4
-  Zinda wafadari rahe farsh-e-azadari rahe
+  Zinda wafadari rahe farsh-e-azaadaari rahe
   Tujh pe jiye tujh pe mare naukri ye chalti rahe
   Hum rahe na rahe hum jiye na jiye hum chale ya ruke
   Is jahaaṅ ke saath bhi is jahaaṅ ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -60,18 +60,18 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
-  Baadshah baadshah baadshah ya Husain
-  Baadshah baadshah baadshah ya Husain
+  Baadshaah baadshaah baadshaah ya Husain
+  Baadshaah baadshaah baadshaah ya Husain
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
 
   5
   Tera ye gham saath rahe tera karam saath rahe
-  Chalte rahe ahl-e-aza aur alam saath rahe
+  Chalte rahe ahl-e-azaa aur alam saath rahe
   Har qadam dam badam saath ho tera gham
   Karbala ki qasam
   Dharkanoṅ ke saath bhi dharkanoṅ ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -79,23 +79,23 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
-  Maula awaaz do hameiṅ parwaaz do
-  Hum azadaroṅ ki taqdir jaga do
+  Maula awaaz do hameiṅ parwaaz parwaaz do
+  Hum azaadaaroṅ ki taqdir jaga do
   Aap ka saath ho aap ki baat ho
-  Dil mera apna azakhana bana do
+  Dil mera apna azaakhaana bana do
 
   Maula maula Husain ya maula Husain
   Maula maula Husain ya maula Husain
 
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
 
   6
   Maula mere dil ki sada maang raha huṅ ye dua
   Maula tere naam rahe jina mera marna mera
   Ae Khuda sun sada hai yehi ilteja tu dikha Karbala
   Is dua ke saath bhi is dua ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -103,17 +103,17 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
-  Baadshah baadshah baadshah ya Husain
-  Baadshah baadshah baadshah ya Husain
+  Baadshaah baadshaah baadshaah ya Husain
+  Baadshaah baadshaah baadshaah ya Husain
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
 
   7
-  Aaqa Shah-e-Karbobala tu ne bara kaam kiya
+  Aaqa Shah-e-Karb o Bala tu ne bara kaam kiya
   Din pe sab waar diya phir bhi tera sar na jhuka
-  Ghar diya sar diya bach gaya la ilaah saj gayi Karbala
+  Ghar diya sar diya bach gaya la ilaah bach gayi Karbala
   Karbala ke saath bhi Karbala ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -121,23 +121,23 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
-  Maula awaaz do hameiṅ parwaaz do
-  Hum azadaroṅ ki taqdir jaga do
+  Maula awaaz do hameiṅ parwaaz parwaaz do
+  Hum azaadaaroṅ ki taqdir jaga do
   Aap ka saath ho aap ki baat ho
-  Dil mera apna azakhana bana do
+  Dil mera apna azaakhaana bana do
 
   Maula maula Husain ya maula Husain
   Maula maula Husain ya maula Husain
 
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
 
   8
-  Jite raho ahl-e-aza dil meiṅ rahe Karbobala
-  Shaad raho chalte raho pehne hue shaal-e-aza
-  Hai dua ho sada har jagah ye aza ye sada ye nawa
+  Jite raho ahl-e-azaa dil meiṅ rahe Karb o Bala
+  Shaad raho chalte raho pehne hue shaal-e-azaa
+  Hai dua ho sada har jagah ye azaa ye sada ye nawa
   Majlisoṅ ke saath bhi majlisoṅ ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
   Husain
 
   Jaanam ya Husain jaanam ya Husain
@@ -145,16 +145,16 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
-  Maula awaaz do hameiṅ parwaaz do
-  Hum azadaroṅ ki taqdir jaga do
+  Maula awaaz do hameiṅ parwaaz parwaaz do
+  Hum azaadaaroṅ ki taqdir jaga do
   Aap ka saath ho aap ki baat ho
-  Dil mera apna azakhana bana do
+  Dil mera apna azaakhaana bana do
 
   Maula maula Husain ya maula Husain
   Maula maula Husain ya maula Husain
 
   Zindagi ke saath bhi zindagi ke baad bhi
-  Baadshah hamara ya Husain
+  Baadshaah hamara ya Husain
 
   9
   Nabi Ali o Fatima Hasan ke chain marhaba
@@ -171,7 +171,7 @@ romanLyrics: |-
   Salaam jaan-e-Mustafa
   Salaam qalb-e-Murtaza
   Salaam ruh-e-Fatima
-  Salaam Shah-e-Karbala
+  Salaam Shaah-e-Karbala
   Gharib-e-Nainawa
   Gharib-e-Fatima
   Gharib-e-Murtaza

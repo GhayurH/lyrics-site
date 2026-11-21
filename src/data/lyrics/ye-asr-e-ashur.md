@@ -13,9 +13,9 @@ aliases: ["Ye Asre Ashoor"]
 published: true
 romanLyrics: |-
   Maare gaye sab ansaar-e-Husaini
-  Faraat behti hai bala ki garmi hai
+  Faraat behti hai balaa ki garmi hai
   Hai mutmain tin din ka pyaasa
-  Qayaam-e-sadaat se musalsal
+  Qiyaam-e-sadaat se musalsal
   Sada ye aati hai
   Husain ya Husain Husain ya Husain
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Takte haiṅ su-e-aasmaaṅ
   Jaari hai kuch wird-e-zabaaṅ
   Chehre pe Asghar ka lahu
-  Ab mar chuke Shah-e-zaman
+  Ab mar chuke Shaah-e-zaman
   Hai dhup sar par nahiṅ hai saaya
 
   3
@@ -43,10 +43,10 @@ romanLyrics: |-
   4
   Tir o tabar ke waar se
   Maara kabhi talwaar se
-  Haaye qayaamat ho gayi
+  Haaye qiyaamat ho gayi
   Jab wo gira rahwaar se
   Na zin par na zamin par tha
-  Nabi ka shehzaada
+  Nabi ka shahzaada
 
   5
   Laashe utha kar thak chuka
@@ -64,10 +64,10 @@ romanLyrics: |-
 
   7
   Ye arsh se aayi sada
-  Raazi huṅ maiṅ aa laut aa
-  Talwaar rakh kar niyam meiṅ
-  Palte jo Shah-e-Karbala
-  Ali ke bete ko sab ne maara
+  Raazi huṅ main aa laut aa
+  Talwaar rakh kar nim meiṅ
+  Palte jo Shaah-e-Karbala
+  Ali ke baawajud bete ko sab ne maara
 
   8
   Zishaan o Irfan-e-aza

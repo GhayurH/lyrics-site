@@ -20,16 +20,16 @@ romanLyrics: |-
   Shah-e-waala ko chakkar aa raha hai
 
   2
-  Shah-e-diṅ tir khaate ja rahe haiṅ
+  Shah-e-diṅ tir khaate jaa rahe haiṅ
   Lahu tan se tapakta jaa raha hai
 
   3
-  Barho darya ki maujoṅ le ke saaghar
+  Barho darya ki maujoṅ le ke saagar
   Ali ka sher pyaasa aa raha hai
 
   4
-  Wo moti ban raha hai shah ke gham meiṅ
-  In aankhoṅ meiṅ jo aansu aa raha hai
+  Wo moti ban raha hai shah ke gham mein
+  In aankhoṅ mein jo aansu aa raha hai
 
   5
   Ishaare madh-e-Maula ke hai Salik

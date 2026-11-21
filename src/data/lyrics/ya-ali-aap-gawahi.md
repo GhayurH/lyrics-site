@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dam e ruqsat tha yehi nauha labe zehra par
-  Jo huwe mujhpe sitam baade padar
-  Ya ali aap gawahi dena
-  Mera kis tarha jalaya gaya ghar
-  Ya ali aap gawahi dena
-  Mere pehlu pe jo darwaza gira
-  Mujhko bacchoṅ ne tarapte dekha
+  Dam-e-rukhsat tha yehi nauha lab-e-Zehra par
+  Jo hue mujh pe sitam baad-e-padar
+  Ya Ali aap gawahi dena
+  Mera kis tarah jalaya gaya ghar
+  Ya Ali aap gawahi dena
+  Mere pehlu pe jo darwaaza gira
+  Mujhko bachchoṅ ne tarapte dekha
   Zakhmi pehlu se lahu behta raha
-  Mera mohsin bhi hua mujhse juda
-  Bain jarte hai mere zakhm e jigar
-  Ya ali aap gawahi dena...
+  Mera Mohsin bhi hua mujhse juda
+  Bain karte haiṅ mere zakhm-e-jigar
+  Ya Ali aap gawahi dena...
   Apni aankhoṅ se qayamat dekhi
-  Yani darbar e sitam ki peshi
-  Apna haq lene ki khaatir maiṅ ne
-  Us ko dikhlayi sanad baba ki
-  Mujhko jhutlaata raha wo has kar
-  Ya ali aap gawahi dena...
-  Tazkira kya ho namaze shab ka
-  Kar saki mai na ruku aur sajda
-  Zakhm pehlu ka chupa kar tumse
-  Uth ke raatoṅ ko mai karti thi buka
-  Meri ghurbat pa ba-roz e mehshar
-  Ya ali aap gawahi dena...
-  Jisko siddiqa kahaṅ tha rab ne
-  Usko jhutla ke layiṅ haste rahe
-  Chaar sau kursi nasheeṅ baithe rahe
-  Mai khari roti rahi dil thaame
+  Yani darbaar-e-sitam ki peshi
+  Apna haq lene ki khaatir main ne
+  Us ko dikhlai sanad baba ki
+  Mujhko jhutlaata raha woh hans kar
+  Ya Ali aap gawahi dena...
+  Tazkira kya ho namaaz-e-shab ka
+  Kar saki main na ruku aur sajda
+  Zakhm pehlu ka chhupa kar tum se
+  Uth ke raatoṅ ko main karti thi bukaa
+  Meri ghurbat pe ba roz-e-mahshar
+  Ya Ali aap gawahi dena...
+  Jis ko Siddiqa kahaṅ tha rab ne
+  Usko jhutla ke laiṅ hanste rahe
+  Chaar sau kursi nashiṅ baithe rahe
+  Main khari roti rahi dil thaame
   Kaisi badli hai zamane ki nazar
-  Ya ali aap gawahi dena...
-  Mere mohsin ki shahadat ka ye gham
+  Ya Ali aap gawahi dena...
+  Mere Mohsin ki shahadat ka ye gham
   Hai mere dil ki aziyyat paiham
-  Kya khata thi mere bacche ki bhala
-  Qabr tak jayenge ye ranj o alam
-  Taaziyat ko bhi aaya na koi ghar
-  Ya ali aap gawahi dena...
-  Hai faqat ek wasiyat ye meri
-  Tum mujhe ghusl o kafan dena ali
-  Tum janaze ko uthaana shab meiṅ
+  Kya khata thi mere bachche ki bhala
+  Qabr tak jaaenge ye ranj o alam
+  Taziyat ko bhi aaya na koi ghar
+  Ya Ali aap gawahi dena...
+  Hai faqat ek wasiyyat ye meri
+  Tum mujhe ghusl o kafan dena Ali
+  Tum janaaze ko uthaana shab mein
   Meri marqad bhi na dekhe koi
-  Kaise dunya se kiya maiṅ ne safar
-  Ya ali aap gawahi dena...
-  Hai ghazab safdar o mazhar ye bayaṅ
-  Khun hai chashme qalam se bhi rawaṅ
-  Qabre zehra ki thi chalis jagah
-  Sun ke rote the ali bas ye fughaṅ
-  Ta dame marg raha darde jigar
-  Ya ali aap gawahi dena...
+  Kaise duniya se kiya main ne safar
+  Ya Ali aap gawahi dena...
+  Hai ghazab Safdar o Mazhar ye bayaṅ
+  Khun hai chashm-e-qalam se bhi rawaṅ
+  Qabr-e-Zehra ki thi chaalis jagah
+  Sun ke rote the Ali bas ye fughaṅ
+  Ta dam-e-marg raha dard-e-jigar
+  Ya Ali aap gawahi dena...
 ---
 
 ۱

@@ -1,38 +1,65 @@
 ---
-title: "Batool Haq Par Hain"
+title: "بتول حق پر ہیں"
+alternateTitle: "Batool Haq Par Hain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hai anbiya ka aqeeda Batool haq par hain
+  Har aik haq se zyada Batool haq par hain
+
+  1
+  Agar yeh deen-e-Khuda hai tu phir Khuda ki qasam
+  Usool-e-deen hai pehla Batool haq par hain
+  Woh shaks chor de kehna Rasool ko sadiq
+  Jo shaks keh nahi sakta Batool haq par hain
+
+  2
+  Qabool ho ga faqat oss ka hajj jo Kabay ko
+  Tawaf kar ke kahey ga Batool haq par hain
+  Jo chahtey ho karein matami qiyam wahan
+  Dar-e-bahisht pe likhna Batool haq par hain
+
+  3
+  Woh jin ko ahl-e-Saqeefa se dar nahi lagta
+  Lagaein mil ke yeh narah Batool haq par hain
+  Agar azaan mein azafa ki kuch ijazat ho
+  Kahon ga ashado ana Batool haq par hain
+
+  4
+  Janab-e-Zahra ka dushman Khuda ka dushman hai
+  So kahiye kar ke tabarah Batool haq par hain
+  Naeem apne kafan par zaror likhwana
+  Gawahi deta hai banda Batool haq par hain
 ---
 
-Hai Anbiya Ka Aqeeda Batool Haq Par Hain.
-Har Aik Haq Se Zyada Batool Haq Par Hain.
+ہے انبیا کا عقیدہ بتول حق پر ہیں
+ہر ایک حق سے زیادہ بتول حق پر ہیں
 
-1
-Agar Yeh Deen-e-Khuda Hai Tu Phir Khuda Ki Qasam.
-Usool-e-Deen Hai Pehla Batool Haq Par Hain.
-Woh Shaks Chor De Kehna Rasool Ko Sadiq.
-Jo Shaks Keh Nahi Sakta Batool Haq Par Hain.
+۱
+اگر یہ دینِ خدا ہے تو پھر خدا کی قسم
+اصولِ دین ہے پہلا بتول حق پر ہیں
+وہ شخص چھوڑ دے کہنا رسول کو صادق
+جو شخص کہہ نہیں سکتا بتول حق پر ہیں
 
-2
-Qabool Ho Ga Faqat Oss Ka Hajj Jo Kabay Ko.
-Tawaf Kar Ke Kahey Ga Batool Haq Par Hain.
-Jo Chahtey Ho Karein Matami Qiyam Wahan.
-Dar-e-Bahisht Pe Likhna Batool Haq Par Hain.
+۲
+قبول ہو گا فقط اس کا حج جو کعبے کو
+طواف کر کے کہے گا بتول حق پر ہیں
+جو چاہتے ہو کریں ماتمی قیام وہاں
+درِ بہشت پہ لکھنا بتول حق پر ہیں
 
-3
-Woh Jin Ko Ahl-e-Saqeefa Se Dar Nahi Lagta.
-Lagaein Mil Ke Yeh Narah Batool Haq Par Hain.
-Agar Azaan Mein Azafa Ki Kuch Ijazat Ho.
-Kahon Ga Ashado Ana Batool Haq Par Hain.
+۳
+وہ جن کو اہلِ سقیفہ سے ڈر نہیں لگتا
+لگائیں مل کے یہ نعرہ بتول حق پر ہیں
+اگر اذاں میں اضافہ کی کچھ اجازت ہو
+کہوں گا اشہد اَنَّ بتول حق پر ہیں
 
-4
-Janab-e-Zahra Ka Dushman Khuda Ka Dushman Hai.
-So Kahiye Kar Ke Tabarah Batool Haq Par Hain.
- Naeem Apne Kafan Par Zaror Likhwana.
-Gawahi Deta Hai Banda Batool Haq Par Hain.
+۴
+جنابِ زہرا کا دشمن خدا کا دشمن ہے
+سو کہیے کر کے تبرّا بتول حق پر ہیں
+نعیم اپنے کفن پر ضرور لکھوانا
+گواہی دیتا ہے بندہ بتول حق پر ہیں

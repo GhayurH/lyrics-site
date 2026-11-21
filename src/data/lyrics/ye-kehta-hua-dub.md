@@ -32,7 +32,7 @@ romanLyrics: |-
   Allah ke ghar jaata hai Allah ka pyaara
 
   5
-  Unniswiṅ ki subh qayaamat se nahiṅ kam
+  Unnisweṅ ki subh qayaamat se nahiṅ kam
   Haae sar-e-Haider hua sajde meiṅ do paara
 
   6

@@ -8,86 +8,64 @@ poet: "Sachey Bhai"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Paigham-e-Hussain Ibn-e-Ali Zinda Rahe Ga"
-romanLyrics: 'Paigham-e-Hussain Ibn-e-Ali Zinda Rahe Ga.
-
-  Islam Sada Zindah-o-Painda Rahe Ga.
-
+alternateTitle: "Paighaam-e-Husain Ibn-e-Ali Zinda Rahe Ga"
+romanLyrics: |-
+  Zinda rahe ga paighaam-e-Husain ibn-e-Ali
+  Islaam sada zinda paainda rahe ga
 
   1
-
-  Mit Jaye Ga Har Naqsh Har Ik Shey Ko Fana Hai.
-
-  Lekin Shah-e-Mardaan Ki Qasam Haq Ko Baqa Hai.
-
-  Shabeer Ne Khanjar Ke Talay Wadah Liya Hai.
-
+  Paighaam-e-Husain ibn-e-Ali
+  Mit jaaye ga har naqsh har ik shai ko fana hai
+  Lekin Shaah-e-Mardaaṅ ki qasam haq ko baqa hai
+  Shabbir ne khanjar ke tale wada liya hai
 
   2
+  Ahmad ke nawaase ka haqiqat mein karam hai
+  Islaam salaamat hai hifaazat mein haram hai
+  Shabbir tu insaan ki azmat ka bharam hai
+  Hai azmat ka yeh taara yuṅhi rakhshanda rahe ga
 
-  Ahmad Ke Nawasay Ka Haqeeqat Mein Karam Hai.
+  3
+  Phir soch le hai waqt abhi khub samajh le
+  Shabbir ko azmat ki kasauti pe parakh le
+  Yeh baat haqiqat hai ise zehan mein rakh le
+  Haq ubhre ga baatil sada sharminda rahe ga
 
-  Islam Salamat Hai Hifazat Mein Haram Hai.
+  4
+  Har saal Muharram mein manaate hain yahi gham
+  Karte hain yuṅhi Sayyid-e-Abraar ka maatam
+  Hum ahl-e-aza daur badalte nahiṅ har dam
+  Jo kal tha wohi aaj hai aainda rahe ga
 
-  Shabeer Tu Insan Ki Azmat Ka Bharam Hai.
+  5
+  Shabbir ka maatam na ruke ga na ruka hai
+  Wallaah yeh Maasuma-e-Aalam ki dua hai
+  Is gham ke muqaabil mein jo gham laaya gaya hai
+  Baatil hai woh mit jaaye ga haq zinda rahe ga
 
-  Azmat Ka Yeh Tara Younhi Rakhshanda Rahe Ga.
+  6
+  Phir khel rahe hain woh wohi khel puraana
+  Iblaagh ki quwwat se haqiqat ka dabaana
+  Yeh sach hai ke jhutoṅ ka jahannam hai thikaana
+  Sharminda sada zulm ka kaarinda rahe ga
 
-  Phir Soch Le Hai Waqt Abhi Khoob Samajh Le.
+  7
+  Sach sach hai zamaane mein fasaana hai fasaana
+  Aasaan nahiṅ haq ki yeh aawaaz dabaana
+  Aalam mein hai mumtaaz Muhammad ka gharaana
+  Yeh taa baa abd haq ka numaainda rahe ga
 
-  Shabeer Ko Azmat Ki Kasoti Pe Parkh Le.
+  8
+  Aaine ki surat se har ek chehra ayaaṅ hai
+  Ghar kis ka hai saudaagar imaaṅ kahaaṅ hai
+  Kuchh dushman yeh aal ki had ahl-e-jahaaṅ hai
+  Kab tak yeh diloṅ mein te sar-e-Hinda rahe ga
 
-  Yeh Baat Haqeeqat Hai Issay Zehan Mein Rakh Le.
-
-  Haq Ubhrey Ga Batil Sada Sharminda Rahe Ga.
-
-  Har Saal Muharram Mein Manatay Hain Yehi Gham.
-
-  Kartay Hain Younhi Syed-e-Abrar Ka Matam.
-
-  Hum Ahl-e-Azza Toor Badaltay Nahi Har Dam.
-
-  Jo Kal Tha Wohi Aaj Hai Aainda Rahe Ga.
-
-  Shabeer Ka Matam Na Rukay Ga Na Ruka Hai.
-
-  Wallah Yeh Masooma-e-Aalam Ki Dua Hai.
-
-  Iss Gham Ke Muqabil Mein Jo Gham Laya Gaya Hai.
-
-  Batil Hai Woh Mit Jaye Ga Haq Zindah Rahe Ga.
-
-  Phir Khail Rahe Hain Woh Wohi Khail Porana.
-
-  Ablag Ki Qowat Se Haqeeqat Ka Dabana.
-
-  Yeh Sach Hai Keh Jhoton Ka Jahanum Hai Thikana.
-
-  Sharminda Sada Zulm Ka Karinda Rahe Ga.
-
-  Sach Sach Hai Zamane Mein Fasana Hai Fasana.
-
-  Aasan Nahi Haq Ki Yeh Aawaz Dabana.
-
-  Aalam Mein Hai Mumtaz Muhammad Ka Gharana.
-
-  Yeh Taba Abad Haq Ka Namainda Rahe Ga.
-
-  Aainay Ki Sorat Se Har Aik Chehra Ayyaan Hai.
-
-  Zar Kis Ka Hai Sodagar Eman Kahan Hai.
-
-  Kuch Dushman Aal Ki Had Ahl-e-Jahan Hai.
-
-  Kab Tak Yeh Dilon Mein Pisar Hinda Rahe Ga.
-
-  Shabeer Ne Wallah Bara Kam Kiya Hai.
-
-  Islam Pe Jo Teer Chala Dil Pe Liya Hai.
-
-  Khon-e-Rag-e-Gardan Se Issay Ghusal Diya Hai.
-
-  Islam Ka Chehra Younhi Tabinda Rahe Ga.'
+  9
+  Shabbir ne wallaah bara kaam kiya hai
+  Islaam pe jo tir chala dil pe liya hai
+  Khun-e-rag-e-gardan se ise ghusl diya hai
+  Islaam ka chehra yuṅhi taabinda rahe ga
 ---
 
 زندہ رہے گا پیغامِ حُسین ابنِ علی

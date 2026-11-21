@@ -8,36 +8,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ye kaun hai jo sina par kalam karta hai
-  Bhala bashar bhi koi aisa kam karta hai
+  Ye kaun hai jo sina par kalaam karta hai
+  Bhala bashar bhi koi aisa kaam karta hai
 
   1
-  1) Husain fakhr-e-Nabi fakhr-e-Ali fakhr-e-Batul
-  Khuda bhi is ka bohot ehteram karta hai
+  Husain fakhr-e-Nabi fakhr-e-Ali fakhr-e-Batul
+  Khuda bhi is ka bohot ehteraam karta hai
 
   2
-  2) Husain sirf tumhara nahi musalmano
-  Husain ko to zamana salam karta hai
+  Husain sirf tumhaara nahiṅ musalmaano
+  Husain ko to zamaana salaam karta hai
 
   3
-  3) Gham-e-Husain ka hai bughz gar tere dil maiṅ
-  Halal koh bhi tu apne haram karta hai
+  Gham-e-Husain ka hai bughz gar tere dil meiṅ
+  Halaal ko bhi tu apne haraam karta hai
 
   4
-  4) Thehr gaya koi manzar nigah main us ki
-  Woh jis jagha bhi rahay shaam shaam karta hai
+  Sina pe bolna jhutoṅ ke bas ki baat nahiṅ
+  Ye kaam sirf hamaara Imaam karta hai
 
   5
-  5) Kami nahin hay koi matami Husain ka hoon
-  Woh mere rizq ka khud hi intezaam karta hai
+  Thehr gaya koi manzar nigaah meiṅ us ki
+  Woh jis jagah bhi rahe shaam shaam karta hai
 
   6
-  6) Sina pe bolna jhooton ke bas ki baat nahi
-  Yeh kam sirf hamara Imam karta hai
+  Kami nahiṅ hai koi maatami Husain ka huṅ
+  Woh mere rizq ka khud hi intezaam karta hai
 
   7
-  7) Nidar bana diya tum ko Husain ne Shehzad
-  Tu khas baat bhi logoṅ may aam karta hai
+  Nidar bana diya tum ko Husain ne Shehzaad
+  Tu khaas baat bhi logoṅ meiṅ aam karta hai
 ---
 
 یہ کون ہے جو سِنا پر کلام کرتا ہے

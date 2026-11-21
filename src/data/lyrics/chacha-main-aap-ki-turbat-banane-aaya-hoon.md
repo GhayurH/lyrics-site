@@ -8,110 +8,65 @@ poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Chacha Main Aap Ki Turbat Banane Aaya Hoon"
-romanLyrics: 'Jab dafn karne aaye tan e paash paash ko
-
-  Abid pukare dekh ke ghazi ki laash ko
-
-  Chacha mai aap ki turbat banane aaya hoo
-
-  Sakina ab bhi hai pyasi batane aaya hoo
-
+alternateTitle: "Chacha Main Aap Ki Turbat Banaane Aaya Huṅ"
+romanLyrics: |-
+  Jab dafn karne aaye tan-e-paash paash ko
+  Aabid pukaare dekh ke Ghazi ki laash ko
+  Chacha main aap ki turbat banaane aaya huṅ
+  Sakina ab bhi hai pyaasi bataane aaya huṅ
 
   1
-
-  Bataun kaise chacha kya guzar gayi ham par
-
-  Har ek shehr mein maare gaye hamein pathar
-
-  Thi maa''ein phupiyan mere saath ay ali ke pisar
-
-  Ye saare zulm ke khisse sunane aaya hoo
-
+  Bataauṅ kaise chacha kya guzar gayi ham par
+  Har ek shehr meiṅ maare gaye hameṅ patthar
+  Thi maaeṅ phuphiyaaṅ mere saath ae Ali ke pisar
+  Ye saare zulm ke qisse sunaane aaya huṅ
 
   2
-
-  Chacha mai aap ki...
-
-  Haram ko chod ke koofe se aa raha hoo chacha
-
-  Bata gaye hai tumhari wasiyatein baba
-
-  Wahin ho qabr chida tha jahan pe mashkeeza
-
+  Chacha main aap ki
+  Haram ko chhor ke Kufe se aa raha huṅ chacha
+  Bata gaye haiṅ tumhaari wasiyateṅ baba
+  Wahi ho qabr chhida tha jahaaṅ pe mashkiza
 
   3
-
-  Kiya tha sheh se jo waada nibhane aaya hoo
-
-  Hai teen roz se laashe pe dhoop ka saaya
-
-  Ye haal dekh ke rota hai khoon dil mera
-
+  Kiya tha shah se jo waada nibhaane aaya huṅ
+  Haiṅ tin roz se laashe pe dhup ka saaya
+  Ye haal dekh ke rota hai khun dil mera
 
   4
-
-  Ghareeb hoo mai kafan tum ko de nahi sakta
-
-  Tumhari laash ke tukde uthane aaya hoo
-
-  Sakina raah mein naaqe se gir gayi thi abhi
-
+  Gharib huṅ main kafan tum ko de nahiṅ sakta
+  Tumhaari laash ke tukre uthaane aaya huṅ
+  Sakina raah meiṅ naaqe se gir gayi thi abhi
 
   5
-
-  Wahin hai taaza riwayat kamar pe likhi huwi
-
-  Hai jaari khoon jo is waqt aediyon se meri
-
-  Layeen se khaake abhi taaziyane aaya hoo
-
+  Wahi hai taaza riwaayat kamar pe likhi hui
+  Hai jaari khun jo is waqt eriyoṅ se meri
+  Laiṅ se kha ke abhi taaziyaane aaya huṅ
 
   6
-
-  Tumhare saamne aati hai sharm kehte huwe
-
-  Ye baat karta bhala kaise saamne unke
-
-  Abhi hai door yahan se bani asad waale
-
-  Phupi ki chin gayi chadar batane aaya hoo
-
+  Tumhaare saamne aati hai sharm kehte hue
+  Ye baat karta bhala kaise saamne us ke
+  Abhi hai dur yahaaṅ se Bani Asad waale
+  Phuphi ki chhin gayi chaadar bataane aaya huṅ
 
   7
-
-  Layeen bachi ke gohar ko aise cheena tha
-
-  Giri zameen pe sakina mai khoon rota tha
-
-  Wo jis zameen pe kano se khoon tapka tha
-
+  Lain bachchi ke gauhar ko aise chhina tha
+  Giri zamiṅ pe Sakina main khun rota tha
+  Wo jis zamin pe kaanoṅ se khun tapka tha
 
   8
-
-  Wo khaak rakhne tumhare sirhane aaya hoo
-
-  Baghair inke tum uthre thay zeen se kaise
-
+  Wo khaak rakhne tumhaare sirhaane aaya huṅ
+  Baghair in ke tum utre the zin se kaise
   Haram to lut gaye ye baazu kat gaye jab se
 
-
   9
-
-  Pade thay door ye laashe se aap ke kab se
-
-  Kate ye baazu badan se milane aaya hoo
-
-  Bana ke qabr takallum wo bola ro ro kar
-
+  Pare the dur ye laashe se aap ke kab se
+  Kate ye baazu badan se milaane aaya huṅ
+  Bana ke qabr Takallum wo bola ro ro kar
 
   10
-
-  Yahan pe aayenge ab zayareen shaam o sahar
-
-  Jale qayaam ki rakh kar lahad pe khaak magar
-
-  Mai pehla farsh aza ka bichane aaya hoo'
+  Yahaaṅ pe aayeṅge ab zaairin shaam o sahar
+  Jale qiyaam ki rakh kar lahad pe khaak magar
+  Main pehla farsh-e-aza ka bichhaane aaya huṅ
 ---
 
 جب دفن کرنے آے تن پاش پاش کو

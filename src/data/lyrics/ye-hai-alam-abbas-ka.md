@@ -11,13 +11,12 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae logo aao tum ko bataauṅ
+  Ae logoṅ aao tum ko bataauṅ
   Rehmat-e-Baari tum ko dikhaauṅ
   Saare jahaaṅ ka hai ek sahaara
   Ye jo alam mere ghar pe laga hai
   Ye hai alam Abbas ka
-
-  Gham se nikaale mushkileiṅ taale
+  Gham se nikaale mushkileṅ taale
   Kaisa wasila Rab ne diya
 
   1
@@ -37,23 +36,23 @@ romanLyrics: |-
 
   4
   Aisa alam duniya meiṅ dikhaao jis ki ataa ho Rab ki ataa
-  Shaan-e-azaadaari ye alam hai, dekho azaakhaano meiṅ zara
-  Mannateiṅ puri karta hai sab ki, zinda hai is ke dam se wafa
+  Shaan-e-azaadaari ye alam hai, dekho azaakhaanoṅ meiṅ zara
+  Mannateṅ puri karta hai sab ki, zinda hai is ke dam se wafa
 
   5
-  Hamza o Jafar ka ye alam hai, hai ye alam Haider ka alam
-  Deinge gawaahi Shaah-e-Zamaan bhi, hai ye mere lashkar ka alam
-  Baarhwa Haider Kaabe ki chhat par lehra ke is ko dega sada
+  Hamza o Jafar ka ye alam hai, hai ye alam Haider ka alam hai
+  Denge gawaahi Shaah-e-Zaman bhi, hai ye mere lashkar ka alam hai
+  Baarwaaṅ Haider Kaabe ki chhat par lehra ke is ko dega sada
 
   6
   Qatl hua jab darya pe Ghazi, tut gayi Maula ki kamar
-  Laasha nahi Sheh laaye Jarri ka, laaye alam hi khun meiṅ tar
-  Beti se bole Shabbir ro ke aaye nahi darya se chacha
+  Laasha nahiṅ Sheh laaye Jarri ka, laaye alam hi khun meiṅ tar
+  Beti se bole Shabbir ro ke aaye nahiṅ darya se chacha
 
   7
-  Karbala ke dasht ka manzar kaise likhuṅ rota hai qalam
-  Baad-e-Jarri aulaad-e-Payambar nauhakunaaṅ thi zer-e-alam
-  Baali Sakina karti thi nauha saaye meiṅ is ke aayi qaza
+  Karb o Bala ke dasht ka manzar kaise likhuṅ rota hai qalam
+  Baad-e-Jarri aulaad-e-Payambar nauha kunaaṅ thi zer-e-alam
+  Baali Sakina karti thi nauha saaye meiṅ is ke aaye qaza
 
   8
   Panja alam ka Mesum o Mazhar dast-e-karam Abbas ka hai

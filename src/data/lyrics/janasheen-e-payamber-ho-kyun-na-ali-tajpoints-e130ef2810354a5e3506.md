@@ -1,44 +1,78 @@
 ---
-title: "Janasheen-e-Payamber Ho Kyun Na Ali"
+title: "جانشینِ پیمبر ہو کیوں نہ علی"
+alternateTitle: "Janasheen-e-Payamber Ho Kyun Na Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Janasheen-e-payamber ho kyun na Ali woh bhi mukhtar hai yeh bhi mukhtar hai
+  Dein ko khon se seinchne ke liye woh bhi teyar hai yeh bhi teyar hai
+
+  1
+  Baap par kibriyai ka dhoka howa our wafaon ne bete ko sajda kiya
+  Dast-e-wehdaniyat ka tarasha howa woh bhi shahkar hai yeh bhi shahkar hai
+  Ik taraf hai dar-e-khana-e-Kibriya aik janib hai Shabir ka tazia
+  Jis se jee chahe dil khol kar mang lo woh bhi darbar hai yeh bhi darbar hai
+
+  2
+  Ik ne samjha nahi rutba-e-murtaza ik ne itna barhaya khuda keh diya
+  Naqs dono mein kache aqeede ka hai woh bhi bemar hai yeh bhi bemar hai
+  Aik dast-e-muhammad se bandhi gayi ik saqeefa mein khud hi pehan li gayi
+  Farq ab asli nasli ka khud dhondiye woh bhi dastar hai yeh bhi dastar hai
+
+  3
+  Ik ne Bint-e-Asad ko diya rasta aik se koi aagay nahi barh saka
+  Woh jiddar-e-haram hai yeh khat-e-jari woh bhi dewar hai yeh bhi dewar hai
+  Roz-e-Aashor barh kar sar-e-Karbala khon-e-Qasim ne yeh raz afshan kiya
+  Sulh-e-Shabar ho yah jang-e-Shabir ki woh bhi inkar hai yeh bhi inkar hai
+
+  4
+  Ghar mein maar ke dar se roye koi our taigon ke saye mein soye koi
+  Ab jise chahiye aap apnaiye woh bhi kirdar hai yeh bhi kirdar hai
+  Aap sajdon pe sajday kiye jaiye our Quran dho kar piye jaiye
+  Sach tu yeh keh ishq-e-Ali ke bina woh bhi bekar hai yeh bhi bekar hai
+
+  5
+  Ik ne taig-e-tabasum se hamla kiya ik ki nazron pe lakhon ka lashkar ruka
+  Kamsini our jawani pe mat jaiye woh bhi karar hai yeh bhi karar hai
+  Dekh kar hamla-e-nara-e-Haideri sun ke Nayab-e-Taqreer-e-Bint-e-Ali
+  Kufar-o-bidat ke dil kyun na ghatne lage woh bhi talwar hai yeh bhi talwar hai
 ---
 
-Janasheen-e-Payamber Ho Kyun Na Ali Woh Bhi Mukhtar Hai Yeh Bhi Mukhtar Hai.
-Dein Ko Khon Se Seinchne Ke Liye Woh Bhi Teyar Hai Yeh Bhi Teyar Hai.
+جانشینِ پیمبر ہو کیوں نہ علی وہ بھی مختار ہے یہ بھی مختار ہے
+دیں کو خون سے سینچنے کے لیے وہ بھی تیار ہے یہ بھی تیار ہے
 
-1
-Baap Par Kibriyai Ka Dhoka Howa Our Wafaon Ne Bete Ko Sajda Kiya.
-Dast-e-Wehdaniyat Ka Tarasha Howa Woh Bhi Shahkar Hai Yeh Bhi Shahkar Hai.
-Ik Taraf Hai Dar-e-Khana-e-Kibriya Aik Janib Hai Shabir Ka Tazia.
-Jis se Jee Chahe Dil Khol Kar Mang Lo Woh Bhi Darbar Hai Yeh Bhi Darbar Hai.
+۱
+باپ پر کبریائی کا دھوکا ہوا اور وفاؤں نے بیٹے کو سجدہ کیا
+دستِ وحدانیت کا تراشا ہوا وہ بھی شاہکار ہے یہ بھی شاہکار ہے
+اک طرف ہے درِ خانۂ کبریا ایک جانب ہے شبیر کا تعزیہ
+جس سے جی چاہے دل کھول کر مانگ لو وہ بھی دربار ہے یہ بھی دربار ہے
 
-2
-Ik Ne Samjha Nahi Rutba-e-Murtaza Ik Ne Itna Barhaya Khuda Keh Diya.
-Naqs Dono Mein Kache Aqeede Ka Hai WOh Bhi Bemar Hai Yeh Bhi Bemar Hai.
-Aik Dast-e-Muhammad Se Bandhi Gayi Ik Saqeefa Mein Khud Hi Pehan Li Gayi.
-Farq Ab Asli Nasli Ka Khud Dhondiye Woh Bhi Dastar Hai Yeh Bhi Dastar Hai.
+۲
+اک نے سمجھا نہیں رتبۂ مرتضیٰ اک نے اتنا بڑھایا خدا کہہ دیا
+نقص دونوں میں کچے عقیدے کا ہے وہ بھی بیمار ہے یہ بھی بیمار ہے
+ایک دستِ محمد سے بندھی گئی اک سقیفہ میں خود ہی پہن لی گئی
+فرق اب اصلی نسلی کا خود ڈھونڈیے وہ بھی دستار ہے یہ بھی دستار ہے
 
-3
-Ik Ne Bint-e-Asad Ko Diya Rasta Aik Se Koi Aagay Nahi Barh Saka.
-Woh Jiddar-e-Haram Hai Yeh Khat-e-Jari Woh Bhi Dewar Hai Yeh Bhi Dewar Hai.
-Roz-e-Aashor Barh Kar Sar-e-Karbala Khon-e-Qasim Ne Yeh Raz Afshan Kiya.
-Sulh-e-Shabar Ho Yah Jang-e-Shabir Ki Woh Bhi Inkar Hai Yeh Bhi Inkar Hai.
+۳
+اک نے بنتِ اسد کو دیا راستہ ایک سے کوئی آگے نہیں بڑھ سکا
+وہ جدارِ حرم ہے یہ خطِ جری وہ بھی دیوار ہے یہ بھی دیوار ہے
+روزِ عاشور بڑھ کر سرِ کربلا خونِ قاسم نے یہ راز افشاں کیا
+صلحِ شبر ہو یا جنگِ شبیر کی وہ بھی انکار ہے یہ بھی انکار ہے
 
-4
-Ghar Mein Maar Ke Dar Se Roye Koi Our Taigon Ke Saye Mein Soye Koi.
-Ab Jise Chahiye Aap Apnaiye Woh Bhi Kirdar Hai Yeh Bhi Kirdar Hai.
-Aap Sajdon Pe Sajday Kiye Jaiye Our Quran Dho Kar Piye Jaiye.
-Sach Tu Yeh Keh Ishq-e-Ali Ke Bina WOh Bhi Bekar Hai Yeh Bhi Bekar Hai.
+۴
+گھر میں مار کے ڈر سے روئے کوئی اور تیغوں کے سائے میں سوئے کوئی
+اب جسے چاہیے آپ اپنائیے وہ بھی کردار ہے یہ بھی کردار ہے
+آپ سجدوں پہ سجدے کیے جائیے اور قرآن دھو کر پیے جائیے
+سچ تو یہ کہ عشقِ علی کے بنا وہ بھی بیکار ہے یہ بھی بیکار ہے
 
-5
-Ik Ne Taig-e-Tabasum Se Hamla Kiya Ik Ki Nazron Pe Lakhon Ka Lashkar Ruka.
-Kamsini Our Jawani Pe Mat Jaiye Woh Bhi Karar Hai Yeh Bhi Karar Hai.
-Dekh Kar Hamla-e-Nara-e-Haideri Sun Ke Nayab-e-Taqreer-e-Bint-e-Ali.
-Kufar-o-Bidat Ke DIl Kyun Na Ghatne Lage Woh Bhi Talwar Hai Yeh Bhi Talwar Hai.
+۵
+اک نے تیغِ تبسم سے حملہ کیا اک کی نظروں پہ لاکھوں کا لشکر رکا
+کمسنی اور جوانی پہ مت جائیے وہ بھی قرار ہے یہ بھی قرار ہے
+دیکھ کر حملۂ نعرۂ حیدری سن کے نایابِ تقریرِ بنتِ علی
+کفر و بدعت کے دل کیوں نہ گھٹنے لگے وہ بھی تلوار ہے یہ بھی تلوار ہے

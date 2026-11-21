@@ -7,72 +7,44 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Chalay jo ghar ko to Aabid ye kaam kar ke chalay
-
-  Sab ansoo qabr e Sakina ke naam kar ke chalay
-
+romanLyrics: |-
+  Chale jo ghar ko to Aabid ye kaam kar ke chale
+  Sab aansu qabr-e-Sakina ke naam kar ke chale
 
   1
-
-  Ye ahle Shaam se bolay aar na ho zehmat
-
-  Diya jala diya karna agar milay fursat
-
-  Behan ke waastay ye ehtamam kar ke chalay
-
+  Ye ahl-e-Shaam se bole agar na ho zahmat
+  Diya jala diya karna agar mile fursat
+  Behan ke waaste ye ehtimaam kar ke chale
 
   2
-
-  Dua jo karti thi ro ro ke wo bhi din aayey
-
-  Wo jis ke dil may ye armaan tha watan jaye
-
-  Usay hawala e zindan e Shaam kar ke chala
-
+  Dua jo karti thi ro ro ke wo bhi din aaye
+  Wo jis ke dil meiṅ ye armaan tha watan jaaye
+  Use hawaala-e-zindaan-e-Shaam kar ke chala
 
   3
-
-  Sakina Shaam ke zindan may reh gayi tanha
-
-  Chalay aseer reha ho ho ke sooey Karb o bala
-
-  Ye marka bhi to Aabid tamam kar ke chalay
-
+  Sakina Shaam ke zindaan meiṅ reh gayi tanha
+  Chale asir riha ho ho ke su-e-Karb o Bala
+  Ye maraka bhi to tamaam kar ke chale
 
   4
-
-  Watan bhi ja ke ye roeen gay Shah ke gham may
-
-  Ab in ki umr basar ho gi Sheh ke matam may
-
-  Jo zeest apni bahattar ke naam kar ke chalay
-
+  Watan bhi ja ke ye ge Shaah ke gham meiṅ
+  Ab in ki umr basar ho gi Sheh ke maatam meiṅ
+  Jo zist apni bahattar ke naam kar ke chale
 
   5
-
-  Wo kaise bhoolain gay jo lag gaye judai ke daagh
-
-  Jalaye qabr pe ro ro ke ansooyon ke charagh
-
-  Dilon pe sabr ki khaatir ye kaam kar ke chalay
-
+  Wo kaise bhuleṅ ge jo lag gaye judaai ke daagh
+  Jalaaye qabr pe ro ro ke ke charaagh
+  Diloṅ pe sabr ki khaatir ye kaam kar ke chale
 
   6
-
-  Koi hamara mara to kaha Hussain Hussain
-
-  Aza ka farsh bicha do kaha Hussain Hussain
-
-  Ye intezaam bhi chothay Imam kar ke chalay
-
+  Koi hamaara maara to kaha Husain Husain
+  Iza ka farsh bichha do kaha Husain Husain
+  Ye intizaam bhi chauthe Imaam kar ke chale
 
   7
-
-  Zafar sada yehi aati thi aey meray baba
-
-  Sabhi watan gayay may qaid may rahi tanha
-
-  Lahad se ahl e haram jab salam kar ke chalay'
+  Zafar sada yahi aati thi ae mere baba
+  Sabhi watan gaye maiṅ qaid meiṅ rahi tanha
+  Lahad se ahl-e-haraam jab salaam kar ke chale
 ---
 
 چلے جو گھر کو تو عابدؑ یہ کام کر كے چلے

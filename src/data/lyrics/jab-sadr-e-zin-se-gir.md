@@ -12,7 +12,7 @@ aliases: ["Jab Sadre Zeen Se Gir"]
 published: true
 romanLyrics: |-
   Jab sadr-e-ziṅ se gir pare Abbas bawafa
-  Jangal se aayi girya-e-Zehra ki bhi sada
+  Jangal se aayi girya-e-Zehra ki bhi sadaa
   Akbar ne daur kar shah-e-waala se ye kaha
   Chaliye huzur nehr pe maare gaye chacha
   Bedast dushmanoṅ ne kiya us diler ko
@@ -31,11 +31,11 @@ romanLyrics: |-
   Maanind-e-bed kaanpte the shah ke dast o paa
   Amaama tha na farq pe ne dosh par rida
   Tasvir waar the hama tan Sibt-e-Mustafa
-  Maqtal ki khaak se tan-e-anwar ata hua
+  Maqtal ki khaak se tan-e-anwar ataa hua
   Sina khula hua tha garebaaṅ phata hua
 
   3
-  Pahunche juṅhi taraai meiṅ ba-dida-e-pur aab
+  Pahunche juṅhi taraai meiṅ ba-dida-e-puraab
   Dekha hai tapaaṅ hai khaak pe farzand-e-Buturaab
   Shaanoṅ pe ki nazar to jigar ko rahi na taab
   Bas haaye bhaai keh ke gira wo falak janaab
@@ -43,23 +43,23 @@ romanLyrics: |-
   Le aaye laash tak Ali Akbar sambhaal ke
 
   4
-  Muṅh rakh ke khuṅ bhare hue chehre pe di sada
+  Muṅh rakh ke khuṅ bhare hue chehre pe di sadaa
   Bhaiya Husain aaya hai aawaaz do zara
   Hai. Haath donoṅ haath badan se hue juda
-  Baazu ke sadqe in tere shaanoṅ ke maiṅ fida
+  Baazu ke sadqe in tere shaanoṅ ke main fida
   Bhaiya hamaare haath to bekaar ho gaye
   Tum haath kho ke Jafar-e-Tayyaar ho gaye
 
   5
   Muṅh rakh ke muṅh pe kehne lage shaah-e-khush khisaal
-  Abbas maiṅ kin aankhoṅ se dekhuṅ tera ye haal
+  Abbas main kin aankhoṅ se dekhuṅ tera ye haal
   Is dam bhi hai tumheṅ mere aadaab ka khayaal
-  Jab zabah hoṅge ham to kise hoega malaal
+  Jab zabah hoṅge ham to kise hoye ga malaal
   Sadqe Husain tere tan-e-paash paash ke
-  Ek baar ham ko gird to phirne do laash ke
+  Ak baar ham ko gird to phirne do laash ke
 
   6
-  Sun kar sada ye Hazrat-e-Shabbir-e-naamdaar
+  Sun kar sadaa ye Hazrat-e-Shabbir-e-naamdaar
   Khola lahu bhari hui aankhoṅ ko ek baar
   Sar rakh ke paaye shaah pe bola wo zi waqaar
   Tashrif aap laaye zahe izz o iftikhaar
@@ -67,7 +67,7 @@ romanLyrics: |-
   Kis tarah uth ke gird phiruṅ chur chur huṅ
 
   7
-  Baithe haiṅ aap aur maiṅ leta huṅ aah aah
+  Baithe haiṅ aap aur main leta huṅ aah aah
   Kya daur hai huzur agar bakhsh deṅ gunaah
   Sar shaq hai zarb-e-gurz se yaa shaah-e-diṅ panaah
   Karwat bhi ab to le nahiṅ sakta hai khairkhwaah
@@ -75,7 +75,7 @@ romanLyrics: |-
   Dekheṅ huzur mere haiṅ baazu kate hue
 
   8
-  Ye sun ke us diler ne ek sard aah ki
+  Ye sun ke us diler ne ak sard aah ki
   Mashkize pe tarap ke ba-hasrat nigaah ki
   Muṅh sharm se jhuka liya godi meiṅ shaah ki
   Haalat tabaah ho gayi Haidar ke maah ki
@@ -84,7 +84,7 @@ romanLyrics: |-
 
   9
   Farmaaya shah ne kis liye rote ho zaar zaar
-  Lo ab kuchh apna haal kaho tum pe maiṅ nisaar
+  Lo ab kuchh apna haal kaho tum pe main nisaar
   Kya ji pe hai bani jo tarapte ho baar baar
   Ki arz us jari ne ke hai waqt-e-ehtizaar
   Aaqa se chhutne ka khalal hai ghulaam ko
@@ -96,12 +96,12 @@ romanLyrics: |-
   Hasrat se dekh kar taraf-e-shaah-e-ins o jaaṅ
   Dunya se kuch kar gaye Abbas naujawaaṅ
   Chhora jari ne saath shah-e-mashriqain ka
-  Ek ghul utha ke mar gaya aashiq Husain ka
+  Ak ghul uthaa ke mar gaya aashiq Husain ka
 
   11
   Chillaati thi ye zauja-e-Abbas-e-naamwar
   Chhoro mujhe Khuda ke liye pitne do sar
-  Waaris mera guzar gaya luta ajal ne ghar
+  Waaris mera guzar gaya lutaa ajal ne ghar
   Haaye haaye yatim ho gaye donoṅ mere pisar
   Pardes meiṅ Ali ke pisar se bichhar gayi
   Ab khaak uraane do ke meri maang ujar gayi

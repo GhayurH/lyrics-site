@@ -9,46 +9,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Nana(sawaw) tere Hasnain hain hum
-  Gham-e-madar sunane aaye hain
-  Teri turbat pe ladle tere
-  Chand tukre sanad ke laye hain
+  Nana tere Hasnain haiṅ hum gham-e-maadar sunaane aaye haiṅ
+  Teri turbat pe laadle tere chand tukre sanad ke laaye haiṅ
 
   1
-  Innama rooz jiss pe parhte thay
-  Ab wo darwaza jal gaya Nana(sawaw)
-  Tere dar pe diya jalane hum
-  Ossi dar ko bhuja ke aaye hain
+  Innama roz jis pe parhte the ab woh darwaaza jal gaya Nana
+  Tere dar pe diya jalaane hum usi dar ko bujha ke aaye haiṅ
 
   2
-  Daagh duroon ke kaise dikhlati
-  Baap ho tum se beti kiya kehti
-  Jiss kissa ke taley thay hum sare
-  Neil us ke talay chupaye hain
+  Daagh daroṅ ke kaise dikhlaati baap ho tum se beti kya kehti
+  Jis Kisaa ke tale the hum saare nil us ke tale chhupaaye haiṅ
 
   3
-  Dil pe aayi thi moat ki zarbat
-  Sar ke baloon tak aa gayi gurbat
-  Jab ye kehte thay log Zahra
-  Ne Dein Ke Maslay Bhulaye Hain
+  Dil pe aayi thi maut ki zarbat sar ke baaloṅ pe aa gayi ghurbat
+  Jab yeh kehte the log Zahra ne din ke masle bhulaaye haiṅ
 
   4
-  Mushkilon se qadam uthati hay
-  Do qadam chal ke baith jati hay
-  Bin sahare wo chal nahi sakti
-  Zakhm aise jigar peh khaye hain
+  Mushkiloṅ se qadam uthaati hai do qadam chal ke baith jaati hai
+  Bin sahaare woh chal nahiṅ sakti zakhm aise jigar pe khaaye haiṅ
 
   5
-  Hath uthta nahi hai pehlo Se
-  Haye Mohsin ke bain uthtay hain
-  Maa Ka cachna mohaal hai Nana(sawaw)
-  Ab yateemi ke sar pe saaye hain
+  Haath uthta nahiṅ hai pehlu se, haaye Mohsin ke bain uthte haiṅ
+  Maaṅ ka bachna mahaal hai Nana, ab yatimi ke sar pe saaye haiṅ
 
   6
-  Boli "Akbar" yeh ro ke Shehzaday
-  Sirf trehreer hi nahi thi wo
-  Bizat o minni ke wo tukre thay
-  Jo hawa mein gaye uraye hain
+  Bole Akbar yeh ro ke shehzaade sirf tahrir hi nahiṅ thi woh
+  Bizat minni ke woh tukre the jo hawa meiṅ gaye uraaye haiṅ
 ---
 
 نانا تیرے حسنینؑ ہیں ہم غمِ مادر سنانے آئے ہیں

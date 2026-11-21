@@ -1,26 +1,42 @@
 ---
-title: "Jahan Mein Sorah-e-Kausar Ki Jab Tafseer Bole Gi"
+title: "جہاں میں سورۂ کوثر کی جب تفسیر بولے گی"
+alternateTitle: "Jahan Mein Sorah-e-Kausar Ki Jab Tafseer Bole Gi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jahan mein Sorah-e-Kausar ki jab tafseer bole gi
+  Tu oss tafseer mein Shabar ki tasveer bole gi
+
+  1
+  Mere Mula Hasan ki zair-e-chadar aa tu lene do
+  Malak ke bolne se pehle khud tatheer bole gi
+  Hasan ne sulho nama likh ke khamoshi se batlaya
+  Keh hara kon yeh qirtas ki tehreer bole gi
+
+  2
+  Hasan bole harees-e-Sham ko qaidi bana loon ga
+  Qalam ban jaye ga zanjeer tu zanjeer bole gi
+  Rahon ga qabar mein main mutmain khamosh aye Majid
+  Mere likhe howay ashar ki tehreer bole gi
 ---
 
-Jahan Mein Sorah-e-Kausar Ki Jab Tafseer Bole Gi.
-Tu Oss Tafseer Mein Shabar Ki Tasveer Bole Gi.
+جہاں میں سورۂ کوثر کی جب تفسیر بولے گی
+تو اُس تفسیر میں شبر کی تصویر بولے گی
 
-1
-Mere Mula Hasan Ki Zair-e-Chadar Aa Tu Lene Do.
-Malak Ke Bolne Se Pehle Khud Tatheer Bole Gi.
-Hasan Ne Sulho Nama Likh Ke Khamoshi Se Batlaya.
-Keh Hara Kon Yeh Qirtas Ki Tehreer Bole Gi.
+۱
+میرے مولا حسن کی زیرِ چادر آ تو لینے دو
+ملک کے بولنے سے پہلے خود تطہیر بولے گی
+حسن نے صلح نامہ لکھ کے خاموشی سے بتلایا
+کہ ہارا کون یہ قرطاس کی تحریر بولے گی
 
-2
-Hasan Bole Harees-e-Sham Ko Qaidi Bana Loon Ga.
-Qalam Ban Jaye Ga Zanjeer Tu Zanjeer Bole Gi.
-Rahon Ga Qabar Mein Main Mutmain Khamosh Aye Majid.
-Mere Likhe Howay Ashar Ki Tehreer Bole Gi.
+۲
+حسن بولے حریصِ شام کو قیدی بنا لوں گا
+قلم بن جائے گا زنجیر تو زنجیر بولے گی
+رہوں گا قبر میں میں مطمئن خاموش اے ماجد
+میرے لکھے ہوئے اشعار کی تحریر بولے گی

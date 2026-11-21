@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Na bhulne dengi na bhulne dengi
-  Dunya ko faramosh yuṅ karne nahi dengi
-  Bhaiya tujhe zainab kabhi marne nahi dengi
-  Parcham mai teri fatha ka lehra ke rahungi
-  Ghar ghar meiṅ tera naam mai pahuncha ke rahungi
-  Aankhoṅ ko kabhi ashkoṅ se bharne nahi dengi
-  Bhaiya tujhe zainab...
-  Baatil se kabhi haq ka wali dar nahi sakta
-  Waada hai mera mar ke bhi tu mar nahi sakta
-  Khurshid e imamat kabhi bujhne nahi dengi
-  Bhaiya tujhe zainab...
-  Mar jaaye mera laal fida ho mera akbar
+  Na bhulne deṅ gi na bhulne deṅ gi
+  Dunya ko faraamosh yuṅ karne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab kabhi marne nahiṅ deṅ gi
+  Parcham maiṅ teri fatah ka lehra ke rahuṅ gi
+  Ghar ghar meiṅ tera naam maiṅ pahuncha ke rahuṅ gi
+  Aankhoṅ ko kabhi ashkoṅ se bharne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Baatil se kabhi haq ka wali dar nahiṅ sakta
+  Waada hai mera mar ke bhi tu mar nahiṅ sakta
+  Khurshid-e-imamat kabhi bujhne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Mar jaaye mera laal fida ho mera Akbar
   Allah ki is raah meiṅ lut jaaye bhara ghar
-  Asghar ko bhi ab maut se darne nahi dengi
-  Bhaiya tujhe zainab...
-  Rutba jo tera hai wo kabhi ghat nahi sakta
-  Jite ji mere naam tera mit nahi sakta
-  Parcham tere inkaar ka jhukne nahi dengi
-  Bhaiya tujhe zainab...
-  Ab naala o shewan bhi na ghabra ke karungi
-  Matam tere qatil ke hi ghar jaa ke karungi
-  Bayyat ka kabhi naam bhi utne nahi dengi
-  Bhaiya tujhe zainab...
-  Ek ek ko sunaungi teri tashna dahani
-  Paaya na mere bhai ne do boond bhi pani
-  Hal min ki sada ab kabhi dabne nahi dengi
-  Bhaiya tujhe zainab...
-  Bhaiya mai bandhe haathoṅ se ye kaam karungi
-  Ek ek musibat mai teri aam karungi
-  Dil soz shahadat teri chipne nahi dengi
-  Bhaiya tujhe zainab...
-  Hai meri rasaayi meri awaaz jahaṅ tak
-  Pahunchaungi mai ab tera paigham wahaṅ tak
-  Is rang e azadari ko ghatne nahi dengi
-  Bhaiya tujhe zainab...
-  Aamir ye azadaar hai zainab ki dua se
-  Aini ye sada aati hai har farshe aza se
-  Matam kabhi mazlum ka rukne nahi dengi
-  Bhaiya tujhe zainab....
+  Asghar ko bhi ab maut se darne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Rutba jo tera hai wo kabhi ghat nahiṅ sakta
+  Jite ji mere naam tera mit nahiṅ sakta
+  Parcham tere inkaar ka jhukne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Ab naala o shewan bhi na ghabra ke karuṅ gi
+  Maatam tere qaatil ke hi ghar jaa ke karuṅ gi
+  Baiat ka kabhi naam bhi uthne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Ik ek sunaauṅ gi teri tashna dahaani
+  Paaya na mere bhai ne do bundh bhi paani
+  Hal min ki sada ab kabhi dabne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Bhaiya maiṅ bandhe haathoṅ se ye kaam karuṅ gi
+  Ik ek musibat maiṅ teri aam karuṅ gi
+  Dil soz shahaadat teri chhupne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Hai meri rasaayi meri aawaaz jahaṅ tak
+  Pahunchaauṅ gi maiṅ ab tera paighaam wahaṅ tak
+  Is rang-e-azaadaari ko ghatne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
+  Aamir ye azaadaar haiṅ Zainab ki dua se
+  Aini ye sada aati hai har farsh-e-aza se
+  Maatam kabhi mazlum ka rukne nahiṅ deṅ gi
+  Bhaiya tujhe Zainab...
 ---
 
 ۱

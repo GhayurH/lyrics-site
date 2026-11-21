@@ -14,19 +14,19 @@ published: true
 romanLyrics: |-
   Ae Baba maaf karna Ae Baba maaf karna
 
-  Qabr meiṅ rakh ke Sakina ko ye Abid ne kaha
+  Qabr mein rakh ke Sakina ko ye Aabid ne kaha
   Baba ye chaar baras waali amaanat lijiye
 
-  Shimr ke durroṅ se maiṅ is ko bacha bhi na saka
+  Shimr ke durroṅ se main is ko bacha bhi na saka
   Baba ye chaar baras waali amaanat lijiye
 
   1
   Laash aahista se beti ki sambhaalo Baba
-  God meiṅ le ke kaleje se laga lo Baba
+  God mein le ke kaleje se laga lo Baba
   Aap ke pyaar ko tarsi hai bahut ye dukhiya
 
   2
-  Baba gaaloṅ pe tamaachoṅ ke nishaaṅ mat dekho
+  Baba gaaloṅ pe tamaanchoṅ ke nishaaṅ mat dekho
   Halq-e-majruh pe rassi ke nishaaṅ mat dekho
   Ye tahaaif use ummat ne diye haiṅ Baba
 
@@ -41,19 +41,19 @@ romanLyrics: |-
   Khaal bhi saath utarti thi jo karte the juda
 
   5
-  Har tamaache pe mujhe is ne pukaara Baba
-  Maiṅ tha zanjiroṅ meiṅ aur tauq meiṅ jakra Baba
+  Har tamaanche pe mujhe is ne pukaara Baba
+  Main tha zanjiroṅ mein aur tauq mein jakra Baba
   Dekh kar reh gai hasrat se ye mera chehra
 
   6
-  Maiṅ amaanat ki hifaazat nahiṅ kar paaya huṅ
-  Puri maiṅ ek bhi chaahat nahiṅ kar paaya huṅ
-  Jaisi saumpi thi amaanat maiṅ wo lauta na saka
+  Main amaanat ki hifaazat nahiṅ kar paaya huṅ
+  Puri main ek bhi chaahat nahiṅ kar paaya huṅ
+  Jaisi saumpi thi amaanat main wo lauta na saka
 
   7
   Laash khwaahar ki uthaauṅ to uthaauṅ kaise
   Is ke marne ka sabab haye bataauṅ kaise
-  Kuchh samajh meiṅ nahiṅ aata hai sunaauṅ kya kya
+  Kuchh samajh mein nahiṅ aata hai sunaauṅ kya kya
 
   8
   Haye do haath baraamad hue Aamir us dam

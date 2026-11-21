@@ -1,38 +1,65 @@
 ---
-title: "Chal Pari Tu Karbala Haq Aashna Walon Ke Sath"
+title: "چل پڑی تو کربلا حق آشنا والوں کے ساتھ"
+alternateTitle: "Chal Pari Tu Karbala Haq Aashna Walon Ke Sath"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Azai"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Chal pari tu Karbala Haq aashna walon ke sath
+  Zindagi guzari teri Fizza Khuda walon ke sath
+
+  1
+  Tu Dar-e-Zahra pe ayi takht-e-shahi choor kar
+  Our jhailay hain sitam Haq ki riza walon ke sath
+  Zindagi bhar tu Kaneez-e-Fatima Zahra rahi
+  Tu ne bhi har dukh saha hai Hal-Atta walon ke sath
+
+  2
+  Barish-e-Sang tujh pe bhi barsi Sar-e-Bazaar-e-Sham
+  Be-Rida tu bhi hoi hai be-rida walon ke sath
+  Nange-e-Sar Aal-e-Nabi our Sham ke darbar mein
+  Yeh salook-e-narwa kyun Innama walon ke sath
+
+  3
+  Tere din guzre Nabi Aal-e-Nabi ke darmiyaan
+  Teri qurbat inteha par ibtida walon ke sath
+  Kalmago ajar-e-risalat youn adda karte rahe
+  Zulm-o-Joor-o-Barbariyaat Mustafa walon ke sath
+
+  4
+  Oss ke marqad par salami ko utarte hain malak
+  Chal pare jo koi mushkil mein Khuda walon ke sath
+  Jo Azai matam-e-mazloom karte hain yahan
+  Rooz-e-Mehshar woh uthein gaye Karbala walon ke sath
 ---
 
-Chal Pari Tu Karbala Haq Aashna Walon Ke Sath.
-Zindagi Guzari Teri Fizza Khuda Walon Ke Sath.
+چل پڑی تو کربلا حق آشنا والوں کے ساتھ
+زندگی گزاری تیری فضہ خدا والوں کے ساتھ
 
-1
-Tu Dar-e-Zahra Pe Ayi Takht-e-Shahi Choor Kar.
-Our Jhailay Hain Sitam Haq Ki Riza Walon Ke Sath.
-Zindagi Bhar Tu Kaneez-e-Fatima Zahra Rahi.
-Tu Ne Bhi Har Dukh Saha Hai Hal-Atta Walon Ke Sath.
+۱
+تو درِ زہرا پہ آئی تختِ شاہی چھوڑ کر
+اور جھیلے ہیں ستم حق کی رضا والوں کے ساتھ
+زندگی بھر تو کنیزِ فاطمہ زہرا رہی
+تو نے بھی ہر دکھ سہا ہے ہل اتیٰ والوں کے ساتھ
 
-2
-Barish-e-Sang Tujh Pe Bhi Barsi Sar-e-Bazaar-e-Sham.
-Be-Rida Tu Bhi Hoi Hai Be-Rida Walon Ke Sath.
-Nange-e-Sar Aal-e-Nabi Our Sham Ke Darbar Mein.
-Yeh Salook-e-Narwa Kyun Innama Walon Ke Sath.
+۲
+بارشِ سنگ تجھ پہ بھی برسی سرِ بازارِ شام
+بے ردا تو بھی ہوئی ہے بے ردا والوں کے ساتھ
+ننگے سر آلِ نبی اور شام کے دربار میں
+یہ سلوکِ ناروا کیوں انما والوں کے ساتھ
 
-3
-Tere Din Guzre Nabi Aal-e-Nabi Ke Darmiyaan.
-Teri Qurbat Inteha Par Ibtida Walon Ke Sath.
-Kalmago Ajar-e-Risalat Youn Adda Karte Rahe.
-Zulm-o-Joor-o-Barbariyaat Mustafa Walon Ke Sath.
+۳
+تیرے دن گزرے نبی آلِ نبی کے درمیان
+تیری قربت انتہا پر ابتدا والوں کے ساتھ
+کلمہ گو اجرِ رسالت یوں ادا کرتے رہے
+ظلم و جور و بربریت مصطفیٰ والوں کے ساتھ
 
-4
-Oss Ke Marqad Par Salami Ko Utarte Hain Malak.
-Chal Pare Jo Koi Mushkil Mein Khuda Walon Ke Sath.
-Jo Azai Matam-e-Mazloom Karte Hain Yahan.
-Rooz-e-Mehshar Woh Uthein Gaye Karbala Walon Ke Sath.
+۴
+اس کے مرقد پر سلامی کو اترتے ہیں ملک
+چل پڑے جو کوئی مشکل میں خدا والوں کے ساتھ
+جو عزائی ماتمِ مظلوم کرتے ہیں یہاں
+روزِ محشر وہ اٹھیں گے کربلا والوں کے ساتھ

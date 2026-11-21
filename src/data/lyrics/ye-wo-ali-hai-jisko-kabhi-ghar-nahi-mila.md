@@ -8,76 +8,45 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Haey Asghar..........
-
-  Asghar ko le ke goad may kehti hay Karbala.....
-
-  Yeh Woh Ali Hai Jisko Kabhi Ghar Nahi Mila.....
-
+romanLyrics: |-
+  Asghar ko le ke god mein kehti hai Karbala
+  Yeh woh Ali hai jisko kabhi ghar nahiṅ mila
 
   1
-
-  Cheh Mah Ke Garib, Musafir Ko Soup Ke.....
-
-  Kehhne Lage Hussain (xAs) Yeh, Kabre Sagreer Se....
-
-  Rakhna Zara Khayal Mera Tashnadahan Ka.....
-
-  Yeh Who Ali Hai Jisko Kabhi Ghar Nahi Mila.....
-
+  Chhe maah ke gharib musaafir ko sauṅp ke
+  Kehne lage Husain yeh qabr-e-saghir se
+  Rakhna zara khayaal mere tashna kaam ka
+  Yeh woh Ali hai jis ko...
 
   2
-
-  Madar Yeh Bain Karti Thi Dil Me Hai Yeh Kasak.....
-
-  Sugra Tumhari Godh Se Aagosh E Kabr Tak.....
-
-  Asghar Ko Maut Ne Kahin Rukne Nahi Diya....
-
+  Maadar yeh bain karti thi dil mein hai yeh kasak
+  Sughra tumhaari god se aaghosh-e-qabr tak
+  Asghar ko maut ne kahiṅ rukne nahiṅ diya
 
   3
-
-  Maa Soch Ti Thi Dhalta Hai Din Ho Rahi Hai Shaam.....
-
-  Jhule Me Laut Aaienga Shayad Who Tashnadahan.....
-
-  Lekin Gazab Hua ke Woh Jhula Bhi Jal Gaya.....
-
+  Maaṅ sochti thi dhalta hai din ho rahi hai shaam
+  Jhule mein laut aaega shaayad woh tashna kaam
+  Lekin ghazab hua ke woh jhula bhi jal gaya
 
   4
-
-  Galion Me Shehr E Kufa Ke Bazaar E Sham Me.....
-
-  Shiri Ke Ghar Kabhi, Kabhi Darbar e Sham Me....
-
-  Marne Ke Baad Bhi Abhi Asghar Safar Me Tha....
-
+  Galiyoṅ mein shahr-e-Kufa ki baazaar-e-Shaam mein
+  Shiriṅ ke ghar kabhi, kabhi darbaar-e-Shaam mein
+  Marne ke baad bhi Ali Asghar safar mein tha
 
   5
-
-  Nanhe Se Sar Ko Naaz Se Bus Takte Rahte The....
-
-  Phir Khoon Ro Ke Sayyad E Sajjad (xAs) Kehte The....
-
-  Main Who Ali Hun Jiska, Bhara Ghar Ujad Gaya.....
-
+  Nane se sar ko yaas se bas takte rehte the
+  Phir khun ro ke Sayyad-e-Sajjad kehte the
+  Main woh Ali huṅ jis ka bhara ghar ujar gaya
 
   6
-
-  Aane Laga Watan Jo, Garibon Ka Karwan
-
-  Mud Mud Ke Kehti Jaati Thi Ek Khali Godh Ma
-
-  Rakhio Sambhal Kar Ise Aai Arze Nainawa
-
+  Jaane laga watan jo ghariboṅ ka kaarwaaṅ
+  Mur mur ke kehti jaati thi ek khaali god maaṅ
+  Rakhiyo sambhaal kar ise ae arz-e-Nainawa
 
   7
-
-  Dar Hai Yeh Phir se koi Sina Par Utha Na Le....
-
-  Lipta Hua Hai Abbhi Seene Se Baap Ke.....
-
-  Ro Ro Ke Keh Rahi Hai Takallum Yeh Karbal....'
+  Dar hai yeh phir se koi sanaaṅ par utha na le
+  Lipta hua hai ab bhi woh sine se baap ke
+  Ro ro ke keh rahi hai Takallum yeh Karbala
 reciter: "Meer Hasan Meer"
 ---
 

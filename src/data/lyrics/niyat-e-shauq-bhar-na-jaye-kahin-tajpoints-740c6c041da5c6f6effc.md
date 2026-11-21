@@ -1,24 +1,38 @@
 ---
-title: "Niyat-e-Shauq Bhar Na Jaye Kahin"
+title: "نیتِ شوق بھر نہ جائے کہیں"
+alternateTitle: "Niyat-e-Shauq Bhar Na Jaye Kahin"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Nasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Tu bhi dil se utar na jaye kahin
+  Aaj dekha hai tujh ko dair ke bad
+  Aaj ka din guzar na jaye kahin
+  Na mila kar udas logon se
+  Husan tera bikhar na jaye kahin
+  Aarzo hai keh tu yahan aaye
+  Our phir umar bhar na jaye kahin
+  Ji jalata hoon our sochta hoon
+  Raigaan yeh hunar na jaye kahin
+  Ayo kuch dair ro hi lein Nasir
+  Phir yeh darya utar na jaye kahin
 ---
 
-1
-Tu Bhi Dil Se Utar Na Jaye Kahin.
-Aaj Dekha Hai Tujh Ko Dair Ke Bad.
-Aaj Ka Din Guzar Na Jaye Kahin.
-Na Mila Kar Udas Logon Se.
-Husan Tera Bikhar Na Jaye Kahin.
-Aarzo Hai Keh Tu Yahan Aaye.
-Our Phir Umar Bhar Na Jaye Kahin.
-Ji Jalata Hoon Our Sochta Hoon.
-Raigaan Yeh Hunar Na Jaye Kahin.
-Ayo Kuch Dair Ro Hi Lein Nasir.
-Phir Yeh Darya Utar Na Jaye Kahin.
+۱
+تو بھی دل سے اتر نہ جائے کہیں
+آج دیکھا ہے تجھ کو دیر کے بعد
+آج کا دن گزر نہ جائے کہیں
+نہ ملا کر اداس لوگوں سے
+حسن تیرا بکھر نہ جائے کہیں
+آرزو ہے کہ تو یہاں آئے
+اور پھر عمر بھر نہ جائے کہیں
+جی جلاتا ہوں اور سوچتا ہوں
+رائیگاں یہ ہنر نہ جائے کہیں
+آؤ کچھ دیر رو ہی لیں ناصر
+پھر یہ دریا اتر نہ جائے کہیں

@@ -12,7 +12,7 @@ aliases: []
 published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
-  Oqado zalilan fi damishqa qa annani
+  Oqado zalilan fi Damishqa qa annani
   Minaz zanje abdun ghaaba anhu nasirun
 
   1
@@ -40,7 +40,7 @@ romanLyrics: |-
   Le le ke apne haathoṅ meiṅ patthar
 
   5
-  Kha ke tamaache mujh ko hazina
+  Kha ke tamaanche mujh ko hazina
   Dekhti hai hasrat se Sakina
   Kehti hai ab pahuncha do Madina
   Bhaiya yahaaṅ jina hua dubhar
@@ -64,7 +64,7 @@ romanLyrics: |-
   Kaun kahe Abbas se jaa kar
 
   9
-  Yuṅhi ada ho gham ka fariza
+  Yunhi ada ho gham ka fariza
   Hai ye Bilal is dil ki tamanna
   Kar le qubul is ko mere aaqa
   Laaya huṅ nauha ashkoṅ se likh kar

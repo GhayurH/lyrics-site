@@ -21,55 +21,55 @@ romanLyrics: |-
   Kis ko sada de kis ko bulaaeṅ
 
   1
-  Ek zanjir-e-sitam baarah asiroṅ ke gale
+  Ik zanjir-e-sitam baarah asiroṅ ke gale
   Us pe ye hukm ke har pir o jawaaṅ tez chale
-  Ee sitam haaye Husaina
+  I sitam haaye Husaina
   Pusht pe parte rahe saath durroṅ ke nishaaṅ
 
   2
-  Ek bimaar asiroṅ ka jo salaar bana
+  Ik bimaar asiroṅ ka jo salaar bana
   Thaame zanjir-e-sitam jaanib-e-darbaar chala
-  Ee sitam haaye Husaina
+  I sitam haaye Husaina
   Roya Shabbir ka sar bar sar-e-nok-e-sinaaṅ
 
   3
   Dhup se pyaar hai saaye se sarokaar nahiṅ
   Koi Bano ki tarah bekas o ghamkhwaar nahiṅ
-  Ee sitam haaye Husaina
-  Kaise Asghar ke bina saaye meiṅ jaayegi maaṅ
+  I sitam haaye Husaina
+  Kaise Asghar ke bina saaye mein jaayegi maaṅ
 
   4
   Umm-e-Laila ka jigar ho gaya paara paara
-  Us ne dekha hai jawaaṅ laal ke dil meiṅ neza
-  Ee sitam haaye Husaina
-  Muṅh ko aata hai jigar sunti hai jab bhi azaaṅ
+  Us ne dekha hai jawaaṅ laal ke dil mein neza
+  I sitam haaye Husaina
+  Munh ko aata hai jigar sunti hai jab bhi azaaṅ
 
   5
   Ek naushaah ki mayyat ke bahattar tukre
   Maadar-e-Qasim-e-muztar ki nazar se guzre
-  Ee sitam haaye Husaina
+  I sitam haaye Husaina
   Sar kahaaṅ jism kahaaṅ dil kahaaṅ haath kahaaṅ
 
   6
-  Wo jo lashkar ka alamdaar tha dasht Shabbir
+  Wo jo lashkar ka alamdaar tha dasht-e-Shabbir
   Bar lab-e-nehr likhi jis ne wafa ki tahrir
-  Ee sitam haaye Husaina
-  Wo nahiṅ hai to nahiṅ ab mere jism meiṅ jaaṅ
+  I sitam haaye Husaina
+  Wo nahiṅ hai to nahiṅ ab mere jism mein jaaṅ
 
   7
   Kaan zakhmi hai gala khushk jala hai daaman
-  Saaṅs lene nahiṅ deti hai Sakina ko rasan
-  Ee sitam haaye Husaina
+  Saans lene nahiṅ deti hai Sakina ko rasan
+  I sitam haaye Husaina
   Nind aati hai use wo magar soye kahaaṅ
 
   8
   Beridaai ki aziyyat ko uthaane waale
   Haaye wo Aal-e-Muhammad ke gharaane waale
-  Ee sitam haaye Husaina
+  I sitam haaye Husaina
   Apne is haal pe bhi kar nahiṅ paaye fughaaṅ
 
   9
-  Nauha Rehaan asiroṅ ki zabaaṅ meiṅ likh kar
+  Nauha Rehaan asiroṅ ki zabaaṅ mein likh kar
   Is qadar roya qalam ho gaya qirtaas bhi tar
   Ae meri jaan Husaina
   Farsh-e-majlis pe hue qalb o jaaṅ nauha kunaaṅ

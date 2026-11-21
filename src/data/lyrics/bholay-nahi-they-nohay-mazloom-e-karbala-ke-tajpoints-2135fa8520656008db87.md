@@ -1,28 +1,46 @@
 ---
-title: "Bholay Nahi They Nohay Mazloom-e-Karbala Ke"
+title: "بھولے نہیں تھے نوحے مظلومِ کربلا کے"
+alternateTitle: "Bholay Nahi They Nohay Mazloom-e-Karbala Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bholay nahi they nohay Mazloom-e-Karbala ke
+  Hone lage hain matam Zainab teri rida ke
+  Paya na Shah ka seena guzra sawa mahina
+  Our mar gayi Sakina ro ro ke bilbila ke
+
+  2
+  Ujari hoi yeh maein kis dil se Sham jaein
+  Asghar se ladlon ko zair-e-zameen sula ke
+  Bethi na chaon mein our thanda piya na pani
+  Soi na Bibi Zainab bistar kabhi bicha ke
+
+  3
+  Sajjad natawaan ko pehna ke toaq-o-beri
+  Kehta hai koray wala chalna qadam utha ke
+  Baqir hain itne kamsin ya toaq itna bhari
+  Sajjad chal rahe hain gardan ko youn jhuka ke
 ---
 
-1
-Bholay Nahi They Nohay Mazloom-e-Karbala Ke.
-Hone Lage Hain Matam Zainab Teri Rida Ke.
-Paya Na Shah Ka Seena Guzra Sawa Mahina.
-Our Mar Gayi Sakina Ro Ro Ke Bilbila Ke.
+۱
+بھولے نہیں تھے نوحے مظلومِ کربلا کے
+ہونے لگے ہیں ماتم زینب تیری ردا کے
+پایا نہ شاہ کا سینہ گزرا سوا مہینہ
+اور مر گئی سکینہ رو رو کے بلبلا کے
 
-2
-Ujari Hoi Yeh Maein Kis Dil Se Sham Jaein.
-Asghar Se Ladlon Ko Zair-e-Zameen Sula Ke.
-Bethi Na Chaon Mein Our Thanda Piya Na Pani.
-Soi Na Bibi Zainab Bistar Kabhi Bicha Ke.
+۲
+اجڑی ہوئی یہ مائیں کس دل سے شام جائیں
+اصغر سے لاڈلوں کو زیرِ زمین سلا کے
+بیٹھی نہ چھاؤں میں اور ٹھنڈا پیا نہ پانی
+سوئی نہ بی‌بی زینب بستر کبھی بچھا کے
 
-3
-Sajjad Natawaan Ko Pehna Ke Toaq-o-Beri.
-Kehta Hai Koray Wala Chalna Qadam Utha Ke.
-Baqir Hain Itne Kamsin Ya Toaq Itna Bhari.
-Sajjad Chal Rahe Hain Gardan Ko Youn Jhuka Ke.
+۳
+سجاد ناتواں کو پہنا کے طوق و بیڑی
+کہتا ہے کوڑے والا چلنا قدم اٹھا کے
+باقر ہیں اتنے کم سن یا طوق اتنا بھاری
+سجاد چل رہے ہیں گردن کو یوں جھکا کے

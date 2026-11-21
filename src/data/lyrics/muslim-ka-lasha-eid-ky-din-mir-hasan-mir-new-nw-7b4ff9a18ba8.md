@@ -1,51 +1,91 @@
 ---
-title: "Muslim Ka Lasha Eid Ky Din"
+title: "مسلم کا لاشہ عید کے دن"
+alternateTitle: "Muslim Ka Lasha Eid Ke Din"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Kofay mein phiraya jata hai Muslim ka lasha Eid ke din
+  Koi bhi uthane aata nahi bekas ka janaza Eid ke din
+
+  1
+  Bhai bhi nahi betay bhi nahi koi bhi nahi roney wala
+  Muslim ke janazay par bethi roti rahi Zahra Eid ke din
+
+  2
+  Ik aah sunai deti hai ik lash dikhai deti hai
+  Be sakhta aanso aate hain yaad aaye jo Kofa Eid ke din
+
+  3
+  Tooti hai qayamat yeh kaisi dono pe nazar hai Maula ki
+  Muslim ki Hameeda roti hai be taab hai Sughra Eid ke din
+
+  4
+  Zalim se bachaney ki khatir zindaan se churanay ki khatir
+  Umeed yehi hai bachoon ko aaein gay Baba Eid ke din
+
+  5
+  Muslim ke yateemo ko Sheh ne seene se laga kar pyar kiya
+  Yeh haal yateemi ka logo samjhi thi Sakina Eid ke din
+
+  6
+  Ik waar Ali ke sajday se Muslim ki shahadat tak pohancha
+  Youn Aal-e-Nabi ko ummat ne har bar rulaya Eid ke din
+
+  7
+  Jis ghar mein koi mar jata hai sab aa kar pursa detey hain
+  Hum kis ko dein Maula Mehdi, Muslim ka pursa Eid ke din
+
+  8
+  Dastoor zamane se hai yehi hum Ahl-e-Azza ka bad-e-namaz
+  Hum sun ke musayab detey hain Zahra ko pursa Eid ke din
+
+  9
+  Dafnaya nahi kafnaya nahi kaisi yeh Takallum ghurbat hai
+  Kofay mein Musalmaan sare they Muslim tha akela Eid ke din
 ---
 
-Kofay Mein Phiraya Jata Hai Muslim Ka Lasha Eid Ke Din
-Koi Bhi Uthane Aata Nahi Bekas Ka Janaza Eid Ke Din
+کوفے میں پھرایا جاتا ہے مسلم کا لاشہ عید کے دن
+کوئی بھی اٹھانے آتا نہیں بے کس کا جنازہ عید کے دن
 
-1
-Bhai Bhi Nahi Betay Bhi Nahi Koi Bhi Nahi Roney Wala
-Muslim Ke Janazay Par Bethi Roti Rahi Zahra Eid Ke Din
+۱
+بھائی بھی نہیں بیٹے بھی نہیں کوئی بھی نہیں رونے والا
+مسلم کے جنازے پر بیٹھی روتی رہی زہرا عید کے دن
 
-2
-Ik Aah Sunai Deti Hai Ik Lash Dikhai Deti Hai
-Be Sakhta Aanso Aate Hain Yaad Aaye Jo Kofa Eid Ke Din
+۲
+اک آہ سنائی دیتی ہے اک لاش دکھائی دیتی ہے
+بے ساختہ آنسو آتے ہیں یاد آئے جو کوفہ عید کے دن
 
-3
-Tooti Hai Qayamat Yeh Kaisi Dono Pe Nazar Hai Maula Ki
-Muslim Ki Hameeda Roti Hai Be Taab Hai Sughra Eid Ke Din
+۳
+ٹوٹی ہے قیامت یہ کیسی دونوں پہ نظر ہے مولا کی
+مسلم کی حمیدہ روتی ہے بے تاب ہے صغریٰ عید کے دن
 
-4
-Zalim Se Bachaney Ki Khatir Zindaan Se Churanay Ki Khatir
-Umeed Yehi Hai Bachoon Ko Aaein Gay Baba Eid Ke Din
+۴
+ظالم سے بچانے کی خاطر زنداں سے چرانے کی خاطر
+امید یہی ہے بچوں کو آئیں گے بابا عید کے دن
 
-5
-Muslim Ke Yateemo Ko Sheh Ne Seene Se Laga Kar Pyar Kiya
-Yeh Haal Yateemi Ka Logo Samjhi Thi Sakina Eid Ke Din
+۵
+مسلم کے یتیموں کو شہ نے سینے سے لگا کر پیار کیا
+یہ حال یتیمی کا لوگو سمجھی تھی سکینہ عید کے دن
 
-6
-Ik Waar Ali Ke Sajday Se Muslim Ki Shahadat Tak Pohancha
-Youn Aal-e-Nabi Ko Ummat Ne Har Bar Rulaya Eid Ke Din
+۶
+اک وار علی کے سجدے سے مسلم کی شہادت تک پہنچا
+یوں آلِ نبی کو امت نے ہر بار رلایا عید کے دن
 
-7
-Jis Ghar Mein Koi Mar Jata Hai Sab Aa Kar Pursa Detey Hain
-Hum Kis Ko Dein Maula Mehdi, Muslim Ka Pursa Eid Ke Din
+۷
+جس گھر میں کوئی مر جاتا ہے سب آ کر پرسہ دیتے ہیں
+ہم کس کو دیں مولا مہدی، مسلم کا پرسہ عید کے دن
 
-8
-Dastoor Zamane Se Hai Yehi Hum Ahl-e-Azza Ka Bad-e-Namaz
-Hum Sun Ke Musayab Detey Hain Zahra Ko Pursa Eid Ke Din
+۸
+دستور زمانے سے ہے یہی ہم اہلِ عزا کا بعدِ نماز
+ہم سن کے مصائب دیتے ہیں زہرا کو پرسہ عید کے دن
 
-9
-Dafnaya Nahi Kafnaya Nahi Kaisi Yeh Takallum Ghurbat Hai
-Kofay Mein Musalmaan Sare They Muslim Tha Akela Eid Ke Din
+۹
+دفنایا نہیں کفنایا نہیں کیسی یہ تکلم غربت ہے
+کوفے میں مسلمان سارے تھے مسلم تھا اکیلا عید کے دن

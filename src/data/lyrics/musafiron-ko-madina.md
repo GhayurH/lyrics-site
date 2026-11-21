@@ -11,35 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Safar hai kis ka ke tuba salaam kehta hai
-  Faraaz e arshe mo'alla salaam kehta hai
-  Ye kaun jaata hai kaaba salaam kehta hai
-  Musafiroṅ ko madina salaam kehta hai
-  Husain ye karam e kaar saaz kya kehna
-  Durud o ishq o salaam e niyaz kya kehna
-  Ye husn ki nigaye imtiyaz kya kehna
-  Kisi ka jalwa e yakta salaam kehta hai
-  Musafiroṅ ko madina...
-  Kidhar se dard ke maalik hawaye dard aayi
-  Ye kis ki aah tarap kar faza may lehrayi
-  Chale ho leke kidhar naazish e masihayi
-  Koi mariz tumhara salaam kehta hai
-  Musafiroṅ ko madina...
-  Ye jaante hai bane ho rahe riza ke liye
-  Bahot dino se ho bechain karbala ke liye
-  Husain mur ke zara dekh lo khuda ke liye
-  Rawaqe mashad e zehra salaam kehta hai
-  Musafiroṅ ko madina...
-  Nazar ke hai ye ishare zabaṅ nahi khulti
-  Kisi ke dard ke maare zabaṅ nahi khulti
-  Nabi ke raaj dulaare zabaṅ nahi khulti
-  Diloṅ ka dard e masiha salaam kehta hai
-  Musafiroṅ ko madina...
-  Salaam lijiye aaqa ab apne bando ka
-  Har ek qaum ke millat ke haq pasando ka
-  Salaam saare zamane ke dard mandoṅ ka
-  Husain saara zamana salaam kehta hai
-  Musafiroṅ ko madina...
+  Safar hai kis ka ke Tuba salaam kehta hai
+  Faraaz-e-arsh-e-mualla salaam kehta hai
+  Ye kaun jaata hai Kaaba salaam kehta hai
+  Musaafiroṅ ko Madina salaam kehta hai
+  Husain ye karam-e-kaarsaaz ye kehna
+  Durud o ishq o salaam-e-niyaaz kya kehna
+  Ye husn ki nigaah-e-imtiyaaz kya kehna
+  Kisi ka jalwa-e-yakta salaam kya kehta hai
+  Musaafiroṅ ko Madina...
+  Kidhar se dard ke maalik hawaa-e-dard aayi
+  Ye kis ki aah tarap kar fazaa mein lehraayi
+  Chale ho leke kidhar naazish-e-masihaayi
+  Koi mariz tumhaara salaam kehta hai
+  Musaafiroṅ ko Madina...
+  Ye jaante haiṅ bane ho raah-e-rizaa ke liye
+  Bahut dinoṅ se ho bechain Karbala ke liye
+  Husain mur ke zaraa dekh lo Khudaa ke liye
+  Riwaaq-e-mashhad-e-Zehra salaam kehta hai
+  Musaafiroṅ ko Madina...
+  Nazar ke hai ye ishaara zabaaṅ nahiṅ khulti
+  Kisi ke dard ke maare zabaaṅ nahiṅ khulti
+  Nabi ke raaj dulaare zabaaṅ nahiṅ khulti
+  Diloṅ ka dard-e-Masiha salaam kehta hai
+  Musaafiroṅ ko Madina...
+  Salaam lijiye aaqaa ab apne bandoṅ ka
+  Har ek qaum ke millat ke haq pasandoṅ ka
+  Salaam saare zamaane ke dard o mandoṅ ka
+  Husain saara zamaana salaam kehta hai
+  Musaafiroṅ ko Madina...
 ---
 
 ۱

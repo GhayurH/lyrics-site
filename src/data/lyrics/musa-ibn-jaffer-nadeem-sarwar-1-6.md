@@ -8,227 +8,91 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Musa Ibn Jaffer Nadeem Sarwar 1-6"
-romanLyrics: 'Saiyadi MAULA.....5
-
-  Al Salam Alaika Ya MUSA E KAZIM.....2
-
-  Saiyadi MAULA.....4
-
+alternateTitle: "Ya Ibn Az-Zehra Ya Musa Bin-e-Jafar"
+romanLyrics: |-
+  Sayyidi maula
 
   1
-
-  Yab Naz ZEHRA Ya Moosa Ibne Jafar.....2
-
-  Babul Hawaij Ya MUSA IBNE JAFAR
-
+  Assalaam alaika ya Musa Kaazim
+  Ya ibn az-Zehra ya Musa bin Jafar
+  Baab-ul-hawaaij ya Musa bin Jafar
 
   2
-
-  Kaisa Kaidi Hai Ke Marne Pe Bhi Azad Nahi
-
-  Kaisi Gurbat Hai, Janaze Pe Bhi Faryad Nahi
-
-  Mere MAULA Pe Hui Kaunsi????? Nahi
-
-  Hai Nazdeek Koi Rone Ko Aulad Nahi
-
-  Bekas O Tanha,Ya MUSA IBNE JAFAR
-
+  Kaisa qaidi hai ke marne pe bhi aazaad nahiṅ
+  Kaisi ghurbat hai janaaze pe bhi faryaad nahiṅ
+  Mere maula pe hui kaunsi uftaad nahiṅ
+  Haae nazdeek koi rone ko aulaad nahiṅ
+  Bekas o tanha, ya Musa bin-e-Jafar
+  Ya ibn az-Zehra, ya Musa bin-e-Jafar
 
   3
-
-  Musa Ibn Jaffer Nadeem Sarwar 1-6
-
-  Kaisa Qaidi Hai Ke Marne Pe Bhi Aazad Nahi.
-
-  Kaisi Ghurbat Hai Janaze Pe Bhi Faryad Nahi.
-
-  Mere Mula Pe Hoi Koan Si Be-Daad Nahi.
-
+  Bekas o tanha ya Musa bin Jafar
+  Ya ibn az-Zehra ya...
+  Malika-e-Qum ka padar waali-e-Mashhad ka padar
+  Seerat-e-Mustafa bhi waaris hauz Kausar
 
   4
-
-  Bekas o tanha ya musa bine jafar
-
-  Yabnaz zahra ya...
-
-  Malka e qum ka padar waali e mashad ka padar
-
-  Seerat e mustufa bhi waaris e hauz e kausar
-
+  Malika-e-Qum ka padar waali-e-Mashhad ka padar
+  Seerat Mustafavi waaris-e-hauz-e-Kausar
+  Haae mazloomi janaaza hai sar-e-raah-e-guzar
+  Jab ke maujood haiṅ rone ko pisar aur dukhtar
+  Pul pe tha laasha, ya Musa bin-e-Jafar
 
   5
-
-  Yab Naz ZEHRA MUSA IBNE JAFAR.....2
-
-  Saiyadi MAULA.....3
-
+  Qaid mein chaudah baras kaise guzaare hoṅge
+  Surat-e-ashk musalle pe sitaare hoṅge
+  Tauq o zanjeer bhala kis ne utaare hoṅge
+  Ghamzada arsh pe Quran ke paare hoṅge
+  Kaise duṅ pursa, ya Musa bin-e-Jafar
 
   6
-
-  Malka e qum ka padar waali e mashad ka padar
-
-  Seerat e mustufavi waarise hauze kausar
-
-  Haye mazloomi janaza hai sare raahe guzar
-
-  Jabke maujood hai rone ko pisar aur dukhtar
-
-  Pul pe tha laasha ya musa bine jafar
-
-  Yabna zehra ya...
-
+  Qaid-e-tanhaai thi aur Musa-e-Kaazim maula
+  Khatm binaai thi aur Musa-e-Kaazim maula
+  Sitam aaraai thi aur Musa-e-Kaazim maula
+  Maut ghabraai thi aur Musa-e-Kaazim maula
+  Waqt khara tha, ya Musa bin-e-Jafar
 
   7
-
-  Qaid mein chauda baras kaise guzaare honge
-
-  Surate ashk musalle pe sitaare honge
-
-  Tauq o zanjeer bhala kisne utaare honge
-
-  Ghamzada arsh pe quran ke paara honge
-
-  Kaise doo pursa ya musa bine jafar
-
+  Kasrat-e-sajda se gathri sa badan aap ka tha
+  Log kehte the musalle pe hai kapra sa para
+  Par qaza ho na saka waqt-e-shahaadat sajda
+  Dam ba dam aati rahi arsh se aawaaz-e-Khuda
+  Der na kar aa, ya Musa bin-e-Jafar
 
   8
-
-  Kaise doo pursa ya musa bine jafar
-
-  Qaid e tanhaai thi aur musa e kazim maula
-
-  Khatm beenayi thi aur musa e kazim maula
-
+  Haakim-e-waqt ne kaisa ye sitam dhaaya hai
+  Qabr mein maadar-e-Hasnain ko tarpaaya hai
+  Zehr khurmoṅ mein mere maula ko dilwaaya hai
+  Jasad-e-paak ko mazduroṅ se uthwaaya hai
+  Roti thiṅ Zehra, ya Musa bin-e-Jafar
 
   9
-
-  Qaid E Tanhi Thi Aur MUSA E KAZIM MAULA
-
-  Khatm Beenai Thi Aur MUSA E KAZIM MAULA
-
-  Sitam Aaraie Thi Aur MUSA E KAZIM MAULA
-
-  Maut Ghabraie Thi Aur MUSA E KAZIM MAULA
-
-  Waqt Ka Aqa, Ya MUSA IBNE JAFAR
-
+  Koi aisa na tha mayyat ko kafan pehnaae
+  Mashhad o Qum mein koi ja ke khabar pahunchaae
+  Rone wale na the mazdur janaaza laae
+  Girya karne ko janaaze pe parinde aae
+  Aasmaaṅ roya, ya Musa bin-e-Jafar
 
   10
-
-  Zehar Khurmo Mein Mere Mula Ko Pilwaya Hai.
-
-  Jasad-e-Pak Ko Mazdoron Se Uthwaya Hai.
-
-  Roti Thin Zahra Ya Musa Ibn-e-Jafar.
-
-  25 Rajab Shahadat Imam Musa Kazim Noha.
-
+  Ibn-e-Jafar na asiri pe sitam par roye
+  Tauq par roye na zanjeer-e-qadam par roye
+  Haaṅ agar roye to bas shaah-e-umam par roye
+  Apne jad Aabid-e-bimaar ke gham par roye
+  Parhte the nauha, ya Musa bin-e-Jafar
 
   11
-
-  Kasrate sajda se gathri sa badan aap ka tha
-
-  Log kehte thay musalle pe hai kapda sa pada
-
-  Par qaza ho na saka waqte shahadat sajda
-
-  Dam ba dam aati rahi arsh se awaaz e khuda
-
-  Dayr na kar aa ya musa bine jafar
-
+  Rote rehte the shah-e-Karb o Bala ke gham mein
+  Bandagi se hue faarigh to rahe maatam mein
+  Akbar o Qaasim o Abbaas the chashm-e-nam mein
+  Saans ki doriyaaṅ tuti haiṅ isi aalam mein
+  Haaṅ mere maula, ya Musa bin-e-Jafar
 
   12
-
-  Dayr na kar aa ya musa bine jafar
-
-  Haakim e waqt ne kaisa ye sitam dhaaya hai
-
-  Qabr may maadar e hasnain to tadpaya hai
-
-
-  13
-
-  Haakim e waqt ne kaisa ye sitam dhaaya hai
-
-  Qabr mein maadare hasnain ko tadpaya hai
-
-  Zehr khurmo mein mere maula ko dilwa hai
-
-  Jasade paak ko mazdooron se uthwaya hai
-
-  Roti thi zehra ya musa bine jafar
-
-
-  14
-
-  Koi Aais Ana Tha Maiyat Ko Kafan Pehnaie
-
-  Mashad O Qum Koi Jaake Khabar Pohuchai
-
-  Rone Wale Na The Mazdoor Janaza Laaie
-
-  Girya Karne Ko Janaze Pe Parinde Aaie
-
-  Aasma Roya,Ya MUSA IBNE JAFAR
-
-
-  15
-
-  Aasman roya ya musa bine jafar
-
-  Ibne jafar na aseeri pe sitam par roye
-
-  Tauq par roye na zanjeer e kadam par roye
-
-
-  16
-
-  Ibne Jafar Na Aseeri Pe Sitam Par Roie
-
-  Tauk Par Roie Na Zanjeer E Kadam Par Roie
-
-  Haan Magar Roie To Bus Shahe Umam Par Roie
-
-  Apne Jad Aabid E Beemar Ke Gam Par Roie
-
-  Padh Te The Nauha, Ya MUSA IBNE JAFAR
-
-
-  17
-
-  Rote rehte thay shahe karbobala ke gham mein
-
-  Bandagi se hue faariq to rahe matam mein
-
-  Akbar o qasim o abbas thay chashme nam mein
-
-  Saans ki doriyan tooti hai isi aalam mein
-
-  Ya mere maula ya musa bine jafar
-
-
-  18
-
-  Ya mere maula ya musa bine jafar
-
-  As salaam ay mere mazloom ghareebul ghurba
-
-  As salaam ay rasan o jor may paaband e jafa
-
-
-  19
-
-  As Salam Aai Mere Mazloom Garibul Gurba
-
-  As Salam Aai Rasan O Tauk Me Paband E Jafa
-
-  As Salam Aai Sharaf E Bab E Hawaij MAULA
-
-  Alvida Sarwar O Rehan Ke MAULA Aaqa
-
-  Dete Hai Pursa, Ya MUSA IBNE JAFAR'
+  Assalaam ae mere mazlum gharib-ul-ghurabaa
+  Assalaam ae rasan o jaur mein paaband-e-jafa
+  Assalaam ae sharaf-e-baab-e-hawaaij maula
+  Alvida Sarwar o Rehaan ke aaqa maula
+  Dete haiṅ pursa, ya Musa bin-e-Jafar
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

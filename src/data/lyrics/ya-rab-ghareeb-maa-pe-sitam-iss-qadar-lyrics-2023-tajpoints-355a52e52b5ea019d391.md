@@ -1,32 +1,54 @@
 ---
-title: "Ya Rab Ghareeb Maa Pe Sitam Iss Qadar Lyrics 2023"
+title: "یا رب غریب ماں پہ ستم اس قدر"
+alternateTitle: "Ya Rab Ghareeb Maa Pe Sitam Iss Qadar"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Rab ghareeb maa pe sitam iss qadar na ho
+  Zahra ke neelay rukh pe Hasan ki nazar na ho
+
+  1
+  Darwazay par se loag guzartay hain bar bar
+  Dekhey koi keh Zahra kahin zair-e-dar na ho
+  Pathar rakhay gaye sar-e-taboot iss liye
+  Maiyyat ka wazan kya hai kissi ko khabar na ho
+
+  2
+  Chalees qabrein khodi gayin thin Batool ki
+  Haider yeh chahtey they sitam qabar par na ho
+  Dafna ke Fatima ko abhi lauttay hain ghar
+  Our tey Ali se wapisi ka yeh safar na ho
+
+  3
+  Darbar kis ko kehte hain peshi hai kis ka naam
+  Maa chahti hai beti ko iss ki khabar na ho
+  Akbar thi Syedon pe yateemi ki aisi raat
+  Aisi taveel raat keh jis ki sahar na ho
 ---
 
-Ya Rab Ghareeb Maa Pe Sitam Iss Qadar Na Ho
-Zahra Ke Neelay Rukh Pe Hasan Ki Nazar Na Ho.
+یا رب غریب ماں پہ ستم اس قدر نہ ہو
+زہرا کے نیلے رخ پہ حسن کی نظر نہ ہو
 
-1
-Darwazay Par Se Loag Guzartay Hain Bar Bar.
-Dekhey Koi Keh Zahra Kahin Zair-e-Dar Na Ho.
-Pathar Rakhay Gaye Sar-e-Taboot Iss Liye.
-Maiyyat Ka Wazan Kya Hai Kissi Ko Khabar Na Ho.
+۱
+دروازے پر سے لوگ گزرتے ہیں بار بار
+دیکھے کوئی کہ زہرا کہیں زیرِ در نہ ہو
+پتھر رکھے گئے سرِ تابوت اس لیے
+میت کا وزن کیا ہے کسی کو خبر نہ ہو
 
-2
-Chalees Qabrein Khodi Gayin Thin Batool Ki.
-Haider Yeh Chahtey They Sitam Qabar Par Na Ho.
-Dafna Ke Fatima Ko Abhi Lauttay Hain Ghar.
-Our Tey Ali Se Wapisi Ka Yeh Safar Na Ho.
+۲
+چالیس قبریں کھودی گئیں تھیں بتول کی
+حیدر یہ چاہتے تھے ستم قبر پر نہ ہو
+دفنا کے فاطمہ کو ابھی لوٹتے ہیں گھر
+اور طے علی سے واپسی کا یہ سفر نہ ہو
 
-3
-Darbar Kis Ko Kehte Hain Peshi Hai Kis Ka Naam.
-Maa Chahti Hai Beti Ko Iss Ki Khabar Na Ho.
- Akbar Thi Syedon Pe Yateemi Ki Aisi Raat.
-Aisi Taveel Raat Keh Jis Ki Sahar Na Ho.
+۳
+دربار کس کو کہتے ہیں پیشی ہے کس کا نام
+ماں چاہتی ہے بیٹی کو اس کی خبر نہ ہو
+اکبر تھی سیدوں پہ یتیمی کی ایسی رات
+ایسی طویل رات کہ جس کی سحر نہ ہو

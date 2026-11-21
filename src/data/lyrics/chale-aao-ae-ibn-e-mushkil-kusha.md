@@ -12,61 +12,61 @@ aliases:
   - "Munajat Imam E Zamana"
 published: true
 romanLyrics: |-
-  Bulate haiṅ ro ro ke ahl-e aza
-  Chale aao ae Ibn-e Mushkil Kusha
+  Bulaate haiṅ ro ro ke ahl-e-aza
+  Chale aao ae Ibn-e-Mushkil Kusha
 
   1
-  Tumheiṅ haq-e Zahra ka hai wasta
-  Chale aao ae Ibn-e Mushkil Kusha
+  Tumheiṅ haq-e-Zahra ka hai waasta
+  Chale aao ae Ibn-e-Mushkil Kusha
 
   2
-  Hai phaili jahaṅ meiṅ ajab si waba
-  Ata sare alam ko kijiye shifa
-  Wasila haiṅ bimar-e Karb o Bala
+  Hai phaili jahaaṅ mein ajab si waba
+  Ata saare aalam ko kije shifa
+  Wasila haiṅ bimaar-e-Karb o Bala
 
   3
   Khuda ki shariat ka dil shaad ho
-  Yeh viran Kaaba phir abad ho
-  Lagane alam is pe Abbas ka
+  Yeh viraan Kaaba phir aabaad ho
+  Lagaane alam is pe Abbas ka
 
   4
   Huṅ hum pichhe pichhe, tum aage chalo
-  Nasib-e Arbain ek aisa bhi ho
-  Tumhari qayadat meiṅ ho qafila
+  Nasib-e-Arbain ek aisa bhi ho
+  Tumhaari qayaadat mein ho qaafila
 
   5
-  Jise dekhiye hai pareshaṅ yahaṅ
-  Yeh waqt-e karam hai Imam-e Zamaṅ
-  Karo har sawali ki hajat rawa
+  Jise dekhiye hai pareshaaṅ yahaaṅ
+  Yeh waqt-e-karam hai Imaam-e-Zamaaṅ
+  Karo har sawaali ki haajat rawa
 
   6
-  Mera khwab bhi mahv-e tabir ho
+  Mera khwaab bhi mahv-e-taabir ho
   Ae Maula Baqiyya ki taamir ho
   Laboṅ par musalsal yahi hai dua
 
   7
-  Mariz-e muhabbat tarapta rahe
-  Magar tera didar kar na sake
+  Mariz-e-muhabbat tarapta rahe
+  Magar tera didaar kar na sake
   Bhala aisa jina bhi kis kaam ka
 
   8
-  Hamare amal meiṅ dikhawa na ho
-  Muhabbat ka bas jhuta dawa na ho
-  Phir ashkoṅ ke lab khud yeh deṅge sada
+  Hamaare amal mein dikhaawa na ho
+  Muhabbat ka bas jhuta daawa na ho
+  Phir ashkoṅ ke lab khud yeh deṅ ge sada
 
   9
-  Zamane meiṅ hote hue aap ke
-  Kaheṅ apni rodaad kiuṅ ghair se
+  Zamaane mein hote hue aap ke
+  Kaheṅ apni rudaad kiuṅ ghair se
   Meri ghairatoṅ ki tumhi ho ana
 
   10
-  Tumheiṅ to zamane ke ho chara-gar
+  Tumheiṅ to zamaane ke ho chaara gar
   Meri mujh se behtar tumheiṅ hai khabar
-  Kahuṅ kya maiṅ haal-e dil-e gham-zada
+  Kahuṅ kya main haal-e-dil-e-gham zada
 
   11
   Hilal aur Misam ki hai iltija
-  Tumhari zabaṅ se ae kaash ek dafa
+  Tumhaari zabaaṅ se ae kaash ek dafa
   Suneiṅ hum bhi rote hue Nahiya
 ---
 

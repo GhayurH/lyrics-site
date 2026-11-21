@@ -1,29 +1,47 @@
 ---
-title: "Woh Deen-e-Ilahi Ko Baqa Deney Chala Hai"
+title: "وہ دینِ الٰہی کو بقا دینے چلا ہے"
+alternateTitle: "Woh Deen-e-Ilahi Ko Baqa Deney Chala Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Qambar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Woh Deen-e-Ilahi ko baqa deney chala hai
+  Sajjad shariyat ko shifa deney chala hai
+  Zanjeer mein sath apne liye foaj ko apni
+  Shabeer ke qatil ko saza deney chala hai
+
+  2
+  Har sahib-e-izzat ka rahe pardah salamat
+  Bazar mein Abid yeh dua deney chala hai
+  Zindaan se raha ho ke Sakina ki lehad par
+  Woh khon ke ashkon ki rida deney chala hai
+
+  3
+  Bazar mein darbar mein kyun Aal-e-Nabi hain
+  Bazar mein Abid yeh sada deney chala hai
+  Sajjad nigehban azadar ka Qambar
+  Shabeer pe sab kuch hi luta deney chala hai
 ---
 
-1
-Woh Deen-e-Ilahi Ko Baqa Deney Chala Hai.
-Sajjad Shariyat Ko Shifa Deney Chala Hai.
-Zanjeer Mein Sath Apne Liye Foaj Ko Apni.
-Shabeer Ke Qatil Ko Saza Deney Chala Hai.
+۱
+وہ دینِ الٰہی کو بقا دینے چلا ہے
+سجاد شریعت کو شفا دینے چلا ہے
+زنجیر میں ساتھ اپنے لیے فوج کو اپنی
+شبیر کے قاتل کو سزا دینے چلا ہے
 
-2
-Har Sahib-e- Izzat Ka Rahe Pardah Salamat.
-Bazar Mein Abid Yeh Dua Deney Chala Hai.
-Zindaan Se Raha Ho Ke Sakina Ki Lehad Par.
-Woh Khon Ke Ashkon Ki Rida Deney Chala Hai.
+۲
+ہر صاحبِ عزت کا رہے پردہ سلامت
+بازار میں عابد یہ دعا دینے چلا ہے
+زنداں سے رہا ہو کے سکینہ کی لحد پر
+وہ خون کے اشکوں کی ردا دینے چلا ہے
 
-3
-Bazar Mein Darbar Mein Kyun Aal-e- Nabi Hain.
-Bazar Mein Abid Yeh Sada Deney Chala Hai.
-Sajjad Nigehban Azadar Ka Qambar.
-Shabeer Pe Sab Kuch Hi Luta Deney Chala Hai.
+۳
+بازار میں دربار میں کیوں آلِ نبی ہیں
+بازار میں عابد یہ صدا دینے چلا ہے
+سجاد نگہبان عزادار کا قنبر
+شبیر پہ سب کچھ ہی لٹا دینے چلا ہے

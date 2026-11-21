@@ -1,44 +1,77 @@
 ---
-title: "Is Tarha Se Jeene Ka Hunar Dete Hain Abbas Mir Hasan Mir"
+title: "اس طرح سے جینے کا ہنر دیتے ہیں عباس میر حسن میر"
+alternateTitle: "Is Tarha Se Jeene Ka Hunar Dete Hain Abbas Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Is tarha se jeene ka hunar dete hain Abbas Mir Hasan Mir
+  Rag rag mein wafadariyaan bhar detey hain Abbas
+
+  1
+  Yeh aisay sakhi aisay sakhi aisay sakhi hain
+  Kuch mangay bina jholiyaan bhar detey hain Abbas
+  Jo shehar-e-wafa ke liye jate hain safar ko
+  Unn logon ko saman-e-safar detey hain Abbas
+
+  2
+  Rozay ki ziyarat se yeh ahsas howa hai
+  Binayi tawanayi se bhar detey hain Abbas
+  Jo kufar ke lashkar se bhara hota hai aksar
+  Maidan wohi lashon se bhar detey hain Abbas
+
+  3
+  Jo shaks yahan rota hai Shabeer ke gham mein
+  Khush ho ke ossay khuld mein ghar detey hain Abbas
+  Jab koi biyaan karta hai Shabeer ki midhat
+  Lehjay mein qayamat ka asar detey hain Abbas
+
+  4
+  Shabeer ka dushman ho muqabil tu zabaan ko
+  Lafzoon ke tabarayi tabar detey hain Abbas
+  Sadqay mein Sakina ke kabhi mang ke dekho
+  Koza hi nahi jholi bhi bhar detey hain Abbas
+
+  5
+  Masoom Sakina ko jo pani na pila paein
+  Woh hath juda jism se kar detey hain Abbas
+  Ghazi ka qaseeda kiya tehreer tu jana
+  Lafzoon ke ewaz lal-o- Gohar detey hain Abbas
 ---
 
-Is Tarha Se Jeene Ka Hunar Dete Hain Abbas Mir Hasan Mir.
-Rag Rag Mein Wafadariyaan Bhar Detey Hain Abbas.
+اس طرح سے جینے کا ہنر دیتے ہیں عباس میر حسن میر
+رگ رگ میں وفاداریاں بھر دیتے ہیں عباس
 
-1
-Yeh Aisay Sakhi Aisay Sakhi Aisay Sakhi Hain.
-Kuch Mangay Bina Jholiyaan Bhar Detey Hain Abbas.
-Jo Shehar-e-Wafa Ke Liye Jate Hain Safar Ko.
-Unn Logon Ko Saman-e-Safar Detey Hain Abbas.
+۱
+یہ ایسے سخی ایسے سخی ایسے سخی ہیں
+کچھ مانگے بنا جھولیاں بھر دیتے ہیں عباس
+جو شہرِ وفا کے لیے جاتے ہیں سفر کو
+ان لوگوں کو سامانِ سفر دیتے ہیں عباس
 
-2
-Rozay Ki Ziyarat Se Yeh Ahsas Howa Hai.
-Binayi Tawanayi Se Bhar Detey Hain Abbas.
-Jo Kufar Ke Lashkar Se Bhara Hota Hai Aksar.
-Maidan Wohi Lashon Se Bhar Detey Hain Abbas.
+۲
+روضے کی زیارت سے یہ احساس ہوا ہے
+بینائی توانائی سے بھر دیتے ہیں عباس
+جو کفر کے لشکر سے بھرا ہوتا ہے اکثر
+میدان وہی لاشوں سے بھر دیتے ہیں عباس
 
-3
-Jo Shaks Yahan Rota Hai Shabeer Ke Gham Mein.
-Khush Ho Ke Ossay Khuld Mein Ghar Detey Hain Abbas.
-Jab Koi Biyaan Karta Hai Shabeer Ki Midhat.
-Lehjay Mein Qayamat Ka Asar Detey Hain Abbas.
+۳
+جو شخص یہاں روتا ہے شبیر کے غم میں
+خوش ہو کے اسے خلد میں گھر دیتے ہیں عباس
+جب کوئی بیان کرتا ہے شبیر کی مدحت
+لہجے میں قیامت کا اثر دیتے ہیں عباس
 
-4
-Shabeer Ka Dushman Ho Muqabil Tu Zabaan Ko.
-Lafzoon Ke Tabarayi Tabar Detey Hain Abbas.
-Sadqay Mein Sakina Ke Kabhi Mang Ke Dekho.
-Koza Hi Nahi Jholi Bhi Bhar Detey Hain Abbas.
+۴
+شبیر کا دشمن ہو مقابل تو زباں کو
+لفظوں کے تبرّائی تبر دیتے ہیں عباس
+صدقے میں سکینہ کے کبھی مانگ کے دیکھو
+کوزہ ہی نہیں جھولی بھی بھر دیتے ہیں عباس
 
-5
-Masoom Sakina Ko Jo Pani Na Pila Paein.
-Woh Hath Juda Jism Se Kar Detey Hain Abbas.
-Ghazi Ka Qaseeda Kiya Tehreer Tu Jana.
-Lafzoon Ke Ewaz Lal-o- Gohar Detey Hain Abbas.
+۵
+معصوم سکینہ کو جو پانی نہ پلا پائیں
+وہ ہاتھ جدا جسم سے کر دیتے ہیں عباس
+غازی کا قصیدہ کیا تحریر تو جانا
+لفظوں کے عوض لعل و گوہر دیتے ہیں عباس

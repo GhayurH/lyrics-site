@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Godi meiṅ tujhe le kar maiṅ socha ye karti thi
-  Is sher ko maiṅ apne Abbas banaauṅ gi
+  Is sher ko maiṅ apne Abbaas banaauṅ gi
 
   7
   Ye kehte huwe Gohar ghash kar gayi wo maadar

@@ -13,25 +13,25 @@ aliases: []
 published: true
 romanLyrics: |-
   Hai shaam-e-gharibaaṅ ka nauha
-  Bimaar bahut taklif meiṅ hai
+  Bimaar bahut taklif mein hai
 
   Aaraam se hai zaalim dunya
-  Bimaar bahut taklif meiṅ hai
+  Bimaar bahut taklif mein hai
 
   1
   Kuch din se ghashi ka aalam tha
   Jab aankh khuli to sannaata
-  Dubi hai lahu meiṅ Karb o Bala
+  Dubi hai lahu mein Karb o Bala
 
   2
   Hai chaaroṅ taraf khaimoṅ ka dhuaaṅ
-  Aada to manaate haiṅ khushiyaṅ
+  Aadaa to manaate haiṅ khushiyaaṅ
   Ab kaun sune Zainab ki sada
 
   3
   Har dil pe bahattar sadme hai
   Faryaad pe durre lagte haiṅ
-  Hai ganj-e-shahidaaṅ meiṅ kunba
+  Hai ganj-e-shahidaaṅ mein kunba
 
   4
   Ye zulm ki kaisi manzil hai
@@ -41,7 +41,7 @@ romanLyrics: |-
   5
   Dushman hai ye sab dunya waale
   Wo apni musibat kis se kahe
-  Wo bhir meiṅ reh kar bhi tanha
+  Wo bhir mein reh kar bhi tanha
 
   6
   Zakhmoṅ se bhara har pehlu hai
@@ -55,12 +55,12 @@ romanLyrics: |-
 
   8
   Jine ka nahiṅ koi armaaṅ
-  Balwe meiṅ khule sar hai phuphiyaaṅ
+  Balwe mein khule sar hai phuphiyaaṅ
   Bechain bahut hai dil ye mera
 
   9
-  Gir gir ke sambhalna hai usko
-  Har haal meiṅ chalna hai usko
+  Gir gir ke sambhalna hai us ko
+  Har haal mein chalna hai us ko
   Ruk jaaye to parta hai durra
 
   10
@@ -69,24 +69,24 @@ romanLyrics: |-
   Qismat ne dikhaaya hai kya kya
 
   11
-  Zindaaṅ meiṅ behen ko maut aayi
+  Zindaaṅ mein behen ko maut aayi
   De ghusl o kafan kaise bhai
   Rakha hai Sakina ka laasha
 
   12
-  Kab isko milegi azaadi
-  Zanjir hai iski faryaadi
+  Kab is ko milegi aazaadi
+  Zanjir hai is ki faryaadi
   Kab chhut ke ghar jaana hoga
 
   13
   Kab tauq khulega gardan se
   Kab khun rukega gardan se
-  Hai surkh lahu se uski aba
+  Hai surkh lahu se us ki aba
 
   14
   Ye likhna Surur aasaan nahiṅ
-  Lagta hai badan meiṅ jaan nahiṅ
-  Tahrir karuṅ kaise maiṅ bhala
+  Lagta hai badan mein jaan nahiṅ
+  Tahrir karuṅ kaise main bhala
 ---
 
 ہے شام غریباں کا نوحہ

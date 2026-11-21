@@ -1,32 +1,54 @@
 ---
-title: "Bazaar Araha Hai Kazmi Brothers"
+title: "بازار آ رہا ہے کاظمی برادران"
+alternateTitle: "Bazaar Araha Hai Kazmi Brothers"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Haider"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh kaun khon rota bazar aa raha hai
+  Lab pe sawal-e-chadar aankhon mein Karbala hai
+
+  1
+  Mahool hai sharabi uryan aayatein hain
+  Ghairat ke na khuda par ghurbat ki inteha hai
+  Abid hayya ka Kaba kaisay na khon roye
+  Namoos oss jari ki balway mein be rida hai
+
+  2
+  Ghairat se khon mein tar har aankh hai sina par
+  Darbar waqt-e-peshi nazdeek aa chuka hai
+  Hilney lagi zameen our bazar thartharaya
+  Zainab ka pathron se jab zakhmi sar howa hai
+
+  3
+  Baloon mein aa chuki hai Masooma ke safaidi
+  Shimar laeen ne oss pe itna sitam kiya hai
+  Haider karein gay matam iss baat ka hashar tak
+  Sajjad ki jawani bazar kha gaya hai
 ---
 
-Yeh Kaun Khon Rota Bazar Aa Raha Hai.
-Lab Pe Sawal-e-Chadar Aankhon Mein Karbala Hai.
+یہ کون خوں روتا بازار آ رہا ہے
+لب پہ سوالِ چادر آنکھوں میں کربلا ہے
 
-1
-Mahool Hai Sharabi Uryan Aayatein Hain.
-Ghairat Ke Na Khuda Par Ghurbat Ki Inteha Hai.
-Abid Hayya Ka Kaba Kaisay Na Khon Roye.
-Namoos Oss Jari Ki Balway Mein Be Rida Hai.
+۱
+ماحول ہے شرابی عریاں آیتیں ہیں
+غیرت کے ناخدا پر غربت کی انتہا ہے
+عابد حیا کا کعبہ کیسے نہ خوں روئے
+ناموس اس جری کی بلوے میں بے ردا ہے
 
-2
-Ghairat Se Khon Mein Tar Har Aankh Hai Sina Par.
-Darbar Waqt-e-Peshi Nazdeek Aa Chuka Hai.
-Hilney Lagi Zameen Our Bazar Thartharaya.
-Zainab Ka Pathron Se Jab Zakhmi Sar Howa Hai.
+۲
+غیرت سے خوں میں تر ہر آنکھ ہے سناں پر
+دربار وقتِ پیشی نزدیک آ چکا ہے
+ہلنے لگی زمین اور بازار تھرتھرایا
+زینب کا پتھروں سے جب زخمی سر ہوا ہے
 
-3
-Baloon Mein Aa Chuki Hai Masooma Ke Safaidi.
-Shimar Laeen Ne Oss Pe Itna Sitam Kiya Hai.
- Haider Karein Gay Matam Iss Baat Ka Hashar Tak.
-Sajjad Ki Jawani Bazar Kha Gaya Hai.
+۳
+بالوں میں آ چکی ہے معصومہ کے سفیدی
+شمر لعین نے اس پہ اتنا ستم کیا ہے
+حیدر کریں گے ماتم اس بات کا حشر تک
+سجاد کی جوانی بازار کھا گیا ہے

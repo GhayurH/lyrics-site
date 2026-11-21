@@ -1,6 +1,6 @@
 ---
 title: "شب کی تاریکی میں نمازِ شب کے بعد"
-alternateTitle: "Namaze Shab Meiṅ"
+alternateTitle: "Namaaz-e-Shab Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shab ki tariki meiṅ namaze shab ke baad
-  Mera mazlum imam dua maang raha hai
+  Shab ki taariki meiṅ namaaz-e-shab ke baad
+  Mera mazlum imaam dua maang raha hai
   Mere maula tujhe waasta is gharib ke ashkoṅ ka
-  Sukune dil ke liye kar mujhe sakina ata
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap maangta hai dua
-  Allah allah allah allah
-  Sukune dil ke liye kar mujhe sakina ata
-  Diya hai sabr to mujhko qaraar bhi dede
-  Mehek batul ki hyder ka pyar bhi dede
-  Use mai dekhun to yaad aaye mujhko maa zahra
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Wo mere sine pe soye to dharkane khush ho
-  Chale wo ungli pakar kar to aahateiṅ khush ho
-  Wo maange pani to haathoṅ ko mai karuṅ kooza
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Suna hai beti janaze ki hoti hai raunaq
-  Mujhe bhi chahiye quran e zindagi ka waraq
-  Mile janaze ki raunaq bara e karbobala
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Ibadaton ka sila tujhse maangta hoo mai
-  Yehi to ek dua tujhse maangta hoo mai
-  Charaghe qaima bhujaun to wo ho misle diya
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Sataye yaad use jab hamare sine ki
-  To qaid khane meiṅ majlis bapa kare meri
-  Phupi ke saath musalle pe wo kare girya
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Khuda ne sunli dua-e-Husain ibne ali
-  Mili wo beti jo bilkul shabihe zahra thi
-  Sukun mil gaya sheh ko sakina naam rakha
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Magar sukun ye karbobala meiṅ jaata raha
-  Hui yatim sakina bandha rasan meiṅ gala
-  Hussein rote the kehke barsare naiza
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Sitam ye shaam ke darbar meiṅ hua kaisa
-  Jise Husain ne apne khuda se maanga tha
+  Sukun-e-dil ki liye kar mujhe Sakina ata
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap maangta hai dua
+  Allah Allah Allah Allah
+  Sukun-e-dil ki liye kar mujhe Sakina ata
+  Diya hai sabr to mujhko qaraar bhi de de
+  Mehek Batul ki Haidar ka pyaar bhi de de
+  Use main dekh luṅ to yaad aaye mujhko maaṅ Zahra
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Wo mere sine pe soye to dharkaneṅ khush ho
+  Chale wo ungli pakar kar to aahateṅ khush ho
+  Wo maange paani to haathoṅ ko main karuṅ kuza
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Suna hai beti janaaze ki hoti hai raunaq
+  Mujhe bhi chaahiye Quraan-e-zindagi ka waraq
+  Mile janaaze ki raunaq baraa-e-Karb o Bala
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Aadatoṅ ka sila tujh se maangta huṅ main
+  Yahi to ek dua tujh se maangta huṅ main
+  Charaagh-e-khaima bujhaauṅ to wo ho misl diya
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Sataaye yaad use jab hamaare sine ki
+  To qaid khaane meiṅ majlis bapa kare meri
+  Phuphi ke saath musalle pe wo kare girya
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Khuda ne sun li dua-e-Husain Ibn-e-Ali
+  Mili wo beti jo bilkul shabih-e-Zahra thi
+  Sukun mil gaya shah ko Sakina naam rakha
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Magar sukun ye Karb o Bala meiṅ jaata raha
+  Hui yatim Sakina bandha rasan meiṅ gala
+  Husain rote the keh ke bar sar-e-naiza
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Sitam ye Shaam ke darbaar meiṅ hua kaisa
+  Jise Husain ne apne Khuda se maanga tha
   Use kanizi meiṅ apni kisi ne maang liya
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Pasay Husain sakina ne wo sitam dekhe
-  Tarap ke kehti thi bacchi padar ke laashe se
-  Chupalo khuṅ bhare daaman meiṅ mujhko ae baba
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Sar e Husain se aayi sada sar e maidaṅ
-  Namaz e shab ki dua ka asar sakina jaaṅ
-  Karenga teri hifazat wo naam hai jiska
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
-  Rehaan azmi kehti thi karbala ki faza
-  Hai baap beti ka ye imtehan kaisa khuda
-  Har ek zulm pe dono ke lab pe hai ye sada
-  Allah allah allah allah
-  Namaze shab meiṅ koi baap...
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Pas-e-Husain Sakina ne wo sitam dekha
+  Tarap ke kehti thi bachchi padar ke laashe se
+  Chhupa lo khuṅ bhare daaman meiṅ mujhko ae Baba
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Sar-e-Husain se aayi sada sar-e-maidaaṅ
+  Namaaz-e- shab ki dua ka asar Sakina jaaṅ
+  Kareṅ ge teri hifaazat wo naam hai jis ka
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
+  Rehaan Azmi kehti thi Karbala ki faza
+  Hai baap beti ka ye imtehaan kaisa Khuda
+  Har ek zulm pe donoṅ ke lab pe hai ye sada
+  Allah Allah Allah Allah
+  Namaaz-e-shab meiṅ koi baap...
 ---
 
 ۱

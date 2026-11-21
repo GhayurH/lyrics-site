@@ -10,9 +10,9 @@ tags: []
 aliases: ["NA BHUL JANA WASIYAT MERI, MERE QASIM (a.s.)"]
 published: true
 romanLyrics: |-
-  Shahid hone ka duniya meiṅ waqt jab aaya
+  Shahid hone ka duniya mein waqt jab aaya
   Farishta maut ka paighaam jis ghari laaya
-  Hasan ne baazu-e-Qasim meiṅ baandh kar taawiz
+  Hasan ne baazu-e-Qasim mein baandh kar taawiz
   Lagaaya sine se Qasim ko aur ye farmaaya
 
   1
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Chacha ko apne ye taawiz tum dikha dena
-  Riza mile na agar marne ki mere Qasim
+  Raza mile na agar marne ki mere Qasim
 
   4
   Tumhaari shaadi ki mujh ko bari tamanna thi
@@ -40,20 +40,20 @@ romanLyrics: |-
   Ye aarzu hai meri aakhiri mere Qasim
 
   7
-  Hamesha yaad rakhoge meri wasiyat ko
+  Hamesha yaad rakho ge meri wasiyat ko
   Ye waada mujh se karo tum abhi mere Qasim
 
   8
-  Mere Husain pa aayegi bekasi aisi
-  Na kar sakega tumheṅ dafn bhi mere Qasim
+  Mere Husain pe aaye gi bekasi aisi
+  Na kar sake ga tumheṅ dafn bhi mere Qasim
 
   9
-  Tumhaari laash ko dekhegi jab tumhaari maaṅ
-  Tarap ke khaak pe gir jaayegi mere Qasim
+  Tumhaari laash ko dekhe gi jab tumhaari maaṅ
+  Tarap ke khaak pe gir jaaye gi mere Qasim
 
   10
   Kaha Imaam ne Yaqub aur Asad ro kar
-  Tumheṅ bhi royega har maatami mere Qasim
+  Tumheṅ bhi roye ga har maatami mere Qasim
 ---
 شہید ہونے کا دنیا میں وقت جب آیا
 فرشتہ موت کا پیغام جس گھڑی لایا

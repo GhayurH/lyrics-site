@@ -1,38 +1,66 @@
 ---
-title: "Hussain Waris Hai"
+title: "حسین وارث ہے"
+alternateTitle: "Hussain Waris Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Navaid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Suno Khuda-o-khudi ka Hussain waris hai
+  Lawaye Mustafvi ka Hussain waris hai
+
+  1
+  Hain yani waris-e-har do jahan Nabi-o-Ali
+  Magar Nabi-o-Ali ka Hussain waris hai
+  Woh jis ka koi bhi waris nahi zamane mein
+  Qasam Khuda ki ossi ka Hussain waris hai
+
+  2
+  Gham-e-Hussain ko dil se laga ke dekh zara
+  Teri har aik khushi ka Hussain waris hai
+  Tu aansoon ki laga kar sabeel dekh zara
+  Keh teri tashna labi ka Hussain waris hai
+
+  3
+  Tu sans rook ke sheesha giri mein woh masroof
+  Keh teri sheesha giri ka Hussain waris hai
+  Lag apni rah humein dar ba dar hi rehne de
+  Hamari dar ba dari ka Hussain waris hai
+
+  4
+  Tum ahl-e-makar raho apne makar mein masroof
+  Hamari sadah dili ka Hussain waris hai
+  Asar talash karo tum dua mein apni Navaid
+  Hamari be asari ka Hussain waris hai
 ---
 
-Suno Khuda-o-Khudi Ka Hussain Waris Hai.
-Lawaye Mustafvi Ka Hussain Waris Hai.
+سنو خدا و خودی کا حسین وارث ہے
+لوائے مصطفوی کا حسین وارث ہے
 
-1
-Hain Yani Waris-e-Har Do Jahan Nabi-o-Ali.
-Magar Nabi-o-Ali Ka Hussain Waris Hai.
-Woh Jis Ka Koi Bhi Waris Nahi Zamane Mein.
-Qasam Khuda Ki Ossi Ka Hussain Waris Hai.
+۱
+ہیں یعنی وارثِ ہر دو جہاں نبی و علی
+مگر نبی و علی کا حسین وارث ہے
+وہ جس کا کوئی بھی وارث نہیں زمانے میں
+قسم خدا کی اُسی کا حسین وارث ہے
 
-2
-Gham-e-Hussain Ko Dil Se Laga Ke Dekh Zara.
-Teri Har Aik Khushi Ka Hussain Waris Hai.
-Tu Aansoon Ki Laga Kar Sabeel Dekh Zara.
-Keh Teri Tashna Labi Ka Hussain Waris Hai.
+۲
+غمِ حسین کو دل سے لگا کے دیکھ ذرا
+تیری ہر ایک خوشی کا حسین وارث ہے
+تو آنسوؤں کی لگا کر سبیل دیکھ ذرا
+کہ تیری تشنہ لبی کا حسین وارث ہے
 
-3
-Tu Sans Rook Ke Sheesha Giri Mein Woh Masroof.
-Keh Teri Sheesha Giri Ka Hussain Waris Hai.
-Lag Apni Rah Humein Dar Ba Dar Hi Rehne De.
-Hamari Dar Ba Dari Ka Hussain Waris Hai.
+۳
+تو سانس روک کے شیشہ گری میں وہ مصروف
+کہ تیری شیشہ گری کا حسین وارث ہے
+لگ اپنی راہ ہمیں در بہ در ہی رہنے دے
+ہماری در بہ دری کا حسین وارث ہے
 
-4
-Tum Ahl-e-Makar Raho Apne Makar Mein Masroof.
-Hamari Sadah Dili Ka Hussain Waris Hai.
-Asar Talash Karo Tum Dua Mein Apni Navaid.
-Hamari Be Asari Ka Hussain Waris Hai.
+۴
+تم اہلِ مکر رہو اپنے مکر میں مصروف
+ہماری سادہ دلی کا حسین وارث ہے
+اثر تلاش کرو تم دعا میں اپنی نوید
+ہماری بے اثری کا حسین وارث ہے

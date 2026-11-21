@@ -11,77 +11,77 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hum se na pucho
+  Hum se na puchho
   Aaj ye sadma azim hai
   Mar jaaye jis ka baap
   Wo ummat yatim hai
-  Ya ali ye kya ghazab hua
-  Haye hum yatim hogaye
+  Ya Ali ye kya ghazab hua
+  Haye hum yatim ho gaye
   Saaya sar se aap ka utha
-  Haye hum yatim hogaye
+  Haye hum yatim ho gaye
   Hai siyaah posh sogwaar
-  Jin ke dil meiṅ hai ali ka pyar
-  Momino ki hai yehi sada
-  Alwida shaahe zulfiqar
+  Jin ke dil mein hai Ali ka pyar
+  Mominoṅ ki hai yehi sada
+  Alwida Shaah-e-Zulfiqar
   Kis ne qatl aap ko kiya
-  Haye hum yatim hogaye
-  Ya ali ye kya...
-  Hai amaama surkh ae imam
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
+  Hai amaama surkh ae Imaam
   Ho qubul aakhri salaam
-  Aansu aankh meiṅ liye huwe
-  Pursa de rahe hai sab ghulam
-  Ghar meiṅ bich gayi safe aza
-  Haye hum yatim hogaye
-  Ya ali ye kya...
+  Aansuṅ aankh mein liye hue
+  Pursa de rahe haiṅ sab ghulam
+  Ghar mein bichh gayi saf-e-aza
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
   Dekha jab Hasan ne zakhmi sar
   Roye baba baba bol kar
-  Ibne muljim-e-layiṅ ne
-  Ek namazi rozadaar par
-  Waar itni zor se kiya
-  Haye hum yatim hogaye
-  Ya ali ye kya...
-  Kehti hai ali ki betiyaṅ
+  Ibn-e-Muljim laiṅ ne
+  Ek namazi roza daar par
+  Waar itni roz se kiya
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
+  Kehti hai Ali ki betiyaṅ
   Aankheiṅ kholiye ae baba jaan
-  Dekhenge kafan meiṅ aap ko
-  Hum ne aisa socha tha kahaṅ
-  Dil ko kaise chain aayega
-  Haye hum yatim hogaye
-  Ya ali ye kya...
-  Kaun pyar se bulayega
-  Kaun ab gale lagayega
+  Dekheṅ ge kafan mein aap ko
+  Hum ne aisa soch tha kahaṅ
+  Dil ko kaise chain aaye ga
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
+  Kaun pyar se bulaaye ga
+  Kaun ab gale lagaaye ga
   Sar pe haath rakh ke baba jaaṅ
   Kaun hum ko dega ab dua
-  Kaise guzrega din eid ka
-  Haye hum yatim hogaye
-  Ya ali ye kya...
-  Maa ke baad baap hi to tha
+  Kaise guzre din Eid ka
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
+  Maaṅ ke baad baap hi to tha
   Jis ne hum ko rone na diya
-  Jab bhi maa ki yaad aayi to
+  Jab bhi maaṅ ki yaad aayi to
   Baba ne gale laga liya
   Kaun dega hum ko hausla
-  Haye hum yatim hogaye
-  Ya ali ye kya...
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
   Lipti jab janaze se behan
   Bole ye Husain se Hasan
-  Teher jao thori dayr aur
-  Baandhna nahi abhi kafan
+  Tehar jaao thori der aur
+  Baandhna nahiṅ abhi kafan
   Dekhne do chehra baap ka
-  Haye hum yatim hogaye
-  Ya ali ye kya...
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
   Jab se ye tabib ne kaha
   Dudh hai ilaaj marz ka
   Aaye the jo pyale thaam kar
   Kaun un yatimoṅ ko bhala
-  Jaa ke ye khabar sunayega
-  Haye hum yatim hogaye
-  Ya ali ye kya...
-  Zakhmi sar wo khun ya ali
-  Bhul na sakenge hum kabhi
-  Haaṅ shahadat e ali ke din
-  Mesum aur zishan abidi
-  De rahe hai ro ke ye sada
-  Haye hum yatim hogaye
-  Ya ali ye kya...
+  Jaa ke ye khabar sunaaye ga
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
+  Zakhmi sar wo khun ya Ali
+  Bhul na sakeṅ ge hum kabhi
+  Haaṅ shahaadat-e-Ali ke din
+  Mesum aur Zishan Abidi
+  De rahe haiṅ ro ke ye sada
+  Haye hum yatim ho gaye
+  Ya Ali ye kya...
 ---
 
 ۱

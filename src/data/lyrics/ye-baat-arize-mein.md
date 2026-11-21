@@ -12,41 +12,41 @@ tags: []
 aliases: ["Ye Baat Areeze May"]
 published: true
 romanLyrics: |-
-  Sadiyoṅ ke har ek zulm ko kaise likhuṅ
-  Jo dard hai sine meiṅ nahiṅ likh sakta
-  Aap aaeṅ to qadmoṅ pa giruṅ arz karuṅ
+  Sadiyoṅ ke har ik zulm ko kaise likhuṅ
+  Jo hai dard sine meiṅ nahiṅ likh sakta
+  Aap aaeṅ to qadmoṅ meiṅ giruṅ arz karuṅ
   Har baat arize meiṅ nahiṅ likh sakta
   Ya Imam ya Imam ya Imam ya Imam
   Ye baat arize meiṅ nahiṅ likh sakta
 
   1
   Dukh ye hai ke ghairoṅ ke ilaawa hum ne
-  Apnoṅ se bhi hum saaye meiṅ paaya hum ne
+  Apnoṅ se bhi hum saaya meiṅ paaya hum ne
   Ye minbar o mihraab ke saudaagar log
   Jin ke liye khud ko bhi mitaaya hum ne
 
   2
-  Is tarah se is din ki khidmat ki hai
+  Is tarah is din ki khidmat ki hai
   Majlis meiṅ dil o jaan se khitaabat ki hai
   Aur baith ke minbar pe bare fakhr ke saath
   Is zikr ki laakhoṅ meiṅ tijaarat ki hai
 
   3
-  Fankaar bhi shaayar bhi sadaakaar bhi hum
+  Fankaar bhi shaayar bhi sadaa gar bhi hum
   Ehsaas nahiṅ hai ke adaakaar bhi hum
   Naghmoṅ ko bhi nauhoṅ meiṅ badalte haiṅ hum hi
   Kehne ko Shaah-e-diṅ ke azaadaar bhi hum
 
   4
   Aur dusri jaanib ye rawayya barta
-  Maatam ki sakhaawat ko bhi tabdil kiya
+  Maatam ki taqaawat ko bhi tabdil kiya
   Aur maaṅg ke asnaad-e-kisa apnoṅ se
   Khud aaya-e-tathir ko mashkuk kiya
 
   5
-  Lekin ye haqiqat hai ke ae amr-e-Khuda
-  Kam wo haiṅ jinheṅ daulat o shohrat ne dasa
-  Ae aksariyat qaum ki mukhlis ke jise
+  Lekin ye haqiqat hai ke ye amr-e-Khuda
+  Kaam wo hai jinheṅ daulat o shohrat ne dasa
+  Ae aksariyat qaum ki mukhlis ke
   Maqsad hai hata hi nahiṅ sakte wallaah
 
   6
@@ -59,13 +59,13 @@ romanLyrics: |-
   Nazroṅ meiṅ hai wo Karb o Bala ka manzar
   Barchhi meiṅ tha jis dam Ali Akbar ka jigar
   Maqtal ki zamin surkh hui jaati thi
-  Dam torta tha baap ke haathoṅ pa pisar
+  Dam torta tha baap ke haathoṅ meiṅ pisar
 
   8
-  Chalta hai wo ek tir jo seh-shoba hai
+  Chalta hai wo ik tir jo seh shoba hai
   Is zulm pe taarikh bhi sharminda hai
   Wo tir jo Asghar ke gale par hai laga
-  Wo tir har ek qalb meiṅ paiwasta hai
+  Wo tir har ik qalb meiṅ paiwasta hai
 
   9
   Bedasti ke aankhoṅ meiṅ jo ye aansu haiṅ

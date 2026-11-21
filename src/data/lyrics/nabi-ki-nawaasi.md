@@ -17,28 +17,28 @@ romanLyrics: |-
 
   1
   Ye ismat ki malka ye bint-e-Ali hai
-  Jo pattharoṅ ki baarish meiṅ kab se khari hai
+  Jo pattharoṅ ki baarish mein kab se khari hai
   Faqat do qadam raasta maangti hai
 
   2
   Zibh ho gaye is ke bemisl bhaai
-  Rasan meiṅ kahaaṅ se kahaaṅ tak hai aai
+  Rasan mein kahaaṅ se kahaaṅ tak hai aai
   Ye tum se ba naam-e-Khuda maangti hai
 
   3
-  Karo na charaaghaaṅ se raushan ye raaheiṅ
-  Khudaara jhuka lo ye apni nigaaheiṅ
+  Karo na charaaghaaṅ se raushan ye raaheṅ
+  Khudaara jhuka lo ye apni nigaaheṅ
   Bhala kya ye is ke siwa maangti hai
 
   4
   Nabi zaadiyoṅ ko sataate ho kiuṅ tum
-  Inheiṅ naam le kar bulaate ho kiuṅ tum
+  Inheṅ naam le kar bulaate ho kiuṅ tum
   Ye marne ki apne dua maangti hai
 
   5
   The Farhan aur Qurban Bibi ke jumle
   Mujhe mera bhaai khule sar na dekhe
-  Ye keh ke laiṅ se ridaa maangti hai
+  Ye keh ke la'iṅ se ridaa maangti hai
 ---
 رسالت کا لوگوں صلہ مانگتی ہے
 نبی کی نواسی ردا مانگتی ہے

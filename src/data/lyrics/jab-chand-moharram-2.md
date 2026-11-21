@@ -1,6 +1,6 @@
 ---
 title: "جب چاند محرم کا دیکھا"
-alternateTitle: "Jab Chand Moharram"
+alternateTitle: "Jab Chaand Moharram"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,68 +10,68 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab chand moharram ka dekha
-  Mazlum ka khissa yaad aaya
+  Jab chaand Moharram ka dekha
+  Mazlum ka qissa yaad aaya
   Yasrab ki udaasi yaad aayi
-  Aur ujra madina yaad aaya
+  Aur ujra Madina yaad aaya
 
   2
-  Dekha jo mahe nau garduṅ par
-  Khuṅ behne laga aansu ban kar
+  Dekha jo mah-e-nau garduṅ par
+  Khuṅ behne laga aansuṅ ban kar
   Naize ki ani ke saath jawaaṅ
-  Bete ka kaleje yaad aaya
+  Bete ka kaleja yaad aaya
 
   3
   Yasrab ki udaasi...
   Qaabu na raha kuch bhi dil par
   Sine meiṅ laga gham ka nishtar
-  Jab chand ko dekha misle kamaaṅ
+  Jab chaand ko dekha misl-e-kamaaṅ
 
   4
-  Baysheer ka khissa yaad aaya
+  Beshir ka qissa yaad aaya
   Yasrab ki udaasi...
-  Maqtal meiṅ jo pahunchi fauje khuda
+  Maqtal meiṅ jo pahunchi fauj-e-Khuda
   Tharrayi zamiṅ garduṅ kaampa
 
   5
-  Shabbir ko sehra yaad aaya
+  Shabbir ko sahra yaad aaya
   Abbas ko darya yaad aaya
   Yasrab ki udaasi...
   Haathoṅ se kaleja thaam liya
 
   6
   Aur dekh ke maqtal ko roye
-  Jab sarwar e diṅ ko waqte safar
+  Jab sarwar-e-diṅ ko waqt-e-safar
   Sughra ka tarapna yaad aaya
   Yasrab ki udaasi...
 
   7
-  Jab bazme hussaini meiṅ dekha
-  Lehrate huwe parcham haq ka
+  Jab bazm-e-Husaini meiṅ dekha
+  Lehrate hue parcham-e-haq ka
   Darya ki taraayi yaad aayi
   Abbas ka shaana yaad aaya
 
   8
   Yasrab ki udaasi...
-  Naaqe se tarap kar maajayi
+  Naaqe se tarap kar maanjayi
   Maqtal meiṅ giri behosh hui
-  Jab zer e falak begor o kafan
+  Jab zer-e-falak begor o kafan
 
   9
-  Maajaye ka laasha yaad aaya
+  Maanjaye ka laasha yaad aaya
   Yasrab ki udaasi...
-  Chaunk uth'ti thi sote meiṅ aksar
-  Raatoṅ ko rabab e khasta jigar
+  Chaunk uthti thi sote meiṅ aksar
+  Raatoṅ ko Rabab-e-khasta-jigar
 
   10
-  Zindaṅ ke andhere meiṅ usko
-  Godhi ka ujaala yaad aaya
+  Zindaṅ ke andhere meiṅ us ko
+  Godi ka ujaala yaad aaya
   Yasrab ki udaasi...
-  Kufe meiṅ jo pahunche aale nabi
+  Kufe meiṅ jo pahunche aal-e-Nabi
 
   11
-  Pabande rasan the sab qaidi
-  Hyder ki dulaari beti ko
+  Paaband-e-rasan the sab qaidi
+  Haidar ki dulaari beti ko
   Baba ka zamana yaad aaya
   Yasrab ki udaasi...
 ---

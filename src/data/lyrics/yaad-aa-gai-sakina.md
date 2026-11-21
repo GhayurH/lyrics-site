@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Phir us ne mujh se puchha ye kaun thi Sakina
-  Baaba bataao us ke Baaba ka naam kya tha
+  Baaba bataao us ke baaba ka naam kya tha
   Aankhoṅ ne meri sun kar khun-e-jigar bahaaya
 
   4
@@ -53,7 +53,7 @@ romanLyrics: |-
   Aankhoṅ se ashk barse kuchh munh se kehna paaya
 
   8
-  Ahl-e-aza tarap kar sun sun ke ro rahe the
+  Ahl-e-azaa tarap kar sun sun ke ro rahe the
   Gham ka samaaṅ bandha tha sar dhun ke ro rahe the
   Akhtar ye tera nauha Aamir ne jab sunaaya
 ---

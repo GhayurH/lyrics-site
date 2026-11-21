@@ -1,32 +1,53 @@
 ---
-title: "Woh Fatima Hai Rajab Ali Khan"
+title: "وہ فاطمہ ہے رجب علی خان"
+alternateTitle: "Woh Fatima Hai Rajab Ali Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Woh Fatima hai
+  Woh jis ke dam se Khuda Khuda hai woh Fatima hai
+
+  1
+  Hasan hain jis mein Hussain bhi hain
+  Nabi bhi Shah-e-Hunain bhi hain
+  Woh jis ki chadar mein sara aalam chupa howa hai
+  Sula rahi hai woh shah zaday
+
+  2
+  Magar nahi ruktay kam ghar ke
+  Woh jis ke badlay farishta chaki chala raha hai
+  Janab-e-Aadam bhi keh rahe hain
+  Hain Rab ke badlay usool iss ne
+
+  3
+  Libas bachoon ka jis ki janat se ja raha hai
+  Zaban-e-Sajjad kya bataye
+  Yeh Bibi kis kis ka aasra hai
+  Ali ne Mushkil Kusha khud apna jisay kaha hai
 ---
 
-Woh Fatima Hai
-Woh Jis Ke Dam Se Khuda Khuda Hai Woh Fatima Hai.
+وہ فاطمہ ہے
+وہ جس کے دم سے خدا خدا ہے وہ فاطمہ ہے
 
-1
-Hasan Hain Jis Mein Hussain Bhi Hain.
-Nabi Bhi Shah-e-Hunain Bhi Hain.
-Woh Jis Ki Chadar Mein Sara Aalam Chupa Howa Hai.
-Sula Rahi Hai Woh Shah Zaday.
+۱
+حسن ہیں جس میں حسین بھی ہیں
+نبی بھی شاہِ حنین بھی ہیں
+وہ جس کی چادر میں سارا عالم چھپا ہوا ہے
+سلا رہی ہے وہ شہزادے
 
-2
-Magar Nahi Ruktay Kam Ghar Ke.
-Woh Jis Ke Badlay Farishta Chaki Chala Raha Hai.
-Janab-e-Aadam Bhi Keh Rahe Hain.
-Hain Rab Ke Badlay Usool Iss Ne.
+۲
+مگر نہیں رکتے کام گھر کے
+وہ جس کے بدلے فرشتہ چکی چلا رہا ہے
+جنابِ آدم بھی کہہ رہے ہیں
+ہیں رب کے بدلے اصول اس نے
 
-3
-Libas Bachoon Ka Jis Ki Janat Se Ja Raha Hai.
-Zaban-e- Sajjad Kya Bataye.
-Yeh Bibi Kis Kis Ka Aasra Hai.
-Ali Ne Mushkil Kusha Khud Apna Jisay Kaha Hai.
+۳
+لباس بچوں کا جس کی جنت سے جا رہا ہے
+زبانِ سجاد کیا بتائے
+یہ بی‌بی کس کس کا آسرا ہے
+علی نے مشکل کشا خود اپنا جسے کہا ہے

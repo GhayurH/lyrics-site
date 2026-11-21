@@ -13,11 +13,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Nikla hai janaaza koi Allah ke ghar se
-  Aflaak meiṅ ik shor hai maatam ke asar se
+  Aflaak mein ik shor hai maatam ke asar se
 
   1
-  Afsos ke masjid meiṅ namaazi gaya maara
-  Kuch kam nahiṅ ye mehshar qayaamat ke asar se
+  Afsos ke masjid mein namaazi gaya maara
+  Kuch kam nahiṅ ye mahshar qayaamat ke asar se
 
   2
   Zainab se ye keh do ke woh dil khol ke roye
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Abbas zara Zainab-e-Muztar se khabardaar
-  Faryaad meiṅ hat jaaye na chaadar kahiṅ sar se
+  Faryaad mein hat jaaye na chaadar kahiṅ sar se
 
   4
   Haaṅ bhul na jaana inheiṅ Kufe ke makinoṅ

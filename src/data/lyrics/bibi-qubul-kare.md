@@ -34,7 +34,7 @@ romanLyrics: |-
   Sajaaya aza khaana Shabbir ka
   Alam nasb karte hue meri maaṅ
   Bahaati thi aaṅkhoṅ se ashk-e-aza
-  Aur us ke laboṅ par thi bas ek dua
+  Aur us ke laboṅ par thi bas ik dua
 
   4
   Salaamat rahe pur mehan maatami
@@ -44,7 +44,7 @@ romanLyrics: |-
   Lahu ka ye pursa jo hum ne diya
 
   5
-  Ye hai ishq-e-Shabbir ki ek dalil
+  Ye hai ishq-e-Shabbir ki ik dalil
   Sajaae alam ya banaae sabil
   Sabiloṅ pe likh kar Sakina ka naam
   Aqidat ko karte haiṅ apna wakil
@@ -59,14 +59,14 @@ romanLyrics: |-
 
   7
   Shabih-e-alam aur taabut par
-  Kabhi Zuljanaah pe hue nauhagar
+  Kabhi Zuljanaah pe hue nauha gar
   Kisi haal meiṅ bhi ho ahl-e-aza
   Na rukne diya majlisoṅ ka safar
   Nahiṅ kar sake haq-e-girya ada
 
   8
-  Wo maulaai maaeṅ hai ek saayabaaṅ
-  Mile jin ki aaghosh meiṅ nauhakhwaaṅ
+  Wo maulaai maaeṅ hai ik saayabaaṅ
+  Mile jin ki aaghosh meiṅ nauha khwaaṅ
   Jo bachchoṅ ko saqqa banaati rahi
   Sajaae hue baawafa ka nishaaṅ
   Ye un ki aqidat ye tarz-e-wafa
@@ -76,7 +76,7 @@ romanLyrics: |-
   Nahiṅ jaa sake Karbala jo kabhi
   Bapa chaar logoṅ meiṅ ki majliseṅ
   Imam-e-Zamaana se faryaad ki
-  Ye zikr-e-Shahanshaah-e-Karbobala
+  Ye zikr-e-Shahanshaah-e-Karb o Bala
 
   10
   Ye koshish hai Maisam ki Mazhar kaho

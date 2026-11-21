@@ -15,51 +15,51 @@ romanLyrics: |-
 
   1
   Sun raha huṅ sada aa hi jaauṅ ga magar
-  Dil meiṅ jad ka gham liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Dil mein jadd ka gham liye main
+  Parda-e-ghaibat mein huṅ
   Ya Imam-e-Zamana ya Imam-e-Zamana
 
   2
   Inteqaam-e-Karbala ho
   Parda-e-ghaibat uthe
-  Aas ye har dam liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Aas ye har dam liye main
+  Parda-e-ghaibat mein huṅ
 
   3
   Har shahid-e-Karbala pe
   Girya karne ke liye
-  Ashk-e-khuṅ ka naam liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Ashk-e-khuṅ ka naam liye main
+  Parda-e-ghaibat mein huṅ
 
   4
   Daadi Zahra jis se barham
   Thi unhiṅ ke waaste
-  Jazba-e-barham liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Jazba-e-barham liye main
+  Parda-e-ghaibat mein huṅ
 
   5
-  Jo kata ke haath Ghaazi ne
+  Jo kataa ke haath Ghaazi ne
   Nahiṅ jhukne diya
-  Din ka parcham liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Din ka parcham liye main
+  Parda-e-ghaibat mein huṅ
 
   6
   Tishnagi maasum-e-Zahra ki
   Mitaane ke liye
-  Aab-e-chashm-e-nam liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Aab-e-chashm-e-nam liye main
+  Parda-e-ghaibat mein huṅ
 
   7
-  Chaadar-e-Zainab ke gham meiṅ
+  Chaadar-e-Zainab ke gham mein
   Har ghari sar pitte
-  Isa o Aadam liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Isa o Aadam liye main
+  Parda-e-ghaibat mein huṅ
 
   8
-  Chir daale jis sinaṅ ne
+  Chir daale jis sinaaṅ ne
   Meri do maaoṅ ke dil
-  Zakhm wo paiham liye maiṅ
-  Parda-e-ghaibat meiṅ huṅ
+  Zakhm wo paiham liye main
+  Parda-e-ghaibat mein huṅ
 ---
 العجل العجل العجل العجل
 

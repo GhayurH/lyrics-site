@@ -9,255 +9,145 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Yad E Kal Khair Nadeem Sarwar"
-romanLyrics: 'Yad e kal khair
-
-  Ya Hussain, ya Hussain, ya hussain, ya hussain
-
-  Haye!! Aseer qafila darbar e sham jab aaya,
-
-  Yazeed (LA) Zainab-e-Kubra se yun huya goya
-
+romanLyrics: |-
+  Haaye asir-e-qaafila darbaar-e-Shaam jab aaya
+  Yazid Zainab-e-Kubra se yuṅ hua goya
 
   1
-
-  Lo aj raaz “Wa tu izzu man tasha” ka khula
-
-  Kay bawaqar hua kon, kon hay ruswa
-
-  O! Bad kalam tehar, O! Bad kalam tehar, Bolen Zainab-e-Kubra
-
-  Nashay mai mast hay aayat yeh poori sab ko suna,
-
+  Lo aaj raaz "Wa tu'izzu man tashaa" ka khula
+  Ke bawaqaar hua kaun, kaun hai ruswa
+  O badkalaam thehar, boli Zainab-e-Kubra
+  Nashe meiṅ mast hai aayat yeh puri sab ko suna
 
   2
-
-  Wo hath khair ka hay kon mujh ko yeh to bata
-
-  Kay jis se zilat o toqeer bant’ta hay khuda
-
-  Wo hath tu hay k hum? Wo hath tu hay k hum?
-
-  Hum Ahlebait hain us kay, hum he hain izzat o zillat k bantnay walay
-
+  Woh haath khair ka hai kaun mujh ko yeh to bata
+  Ke jis se zillat o taukhir baantta hai Khuda
+  Woh haath tu hai ke hum Ahl-e-Bait haiṅ us ke
+  Hum hi haiṅ izzat o zillat ke baantne waale
 
   3
-
-  Yad e kal khair bhi hum, Rab e kaaba ki qasam
-
-  Unhi hathon mai rasan, sar e darbar e sitam
-
-  Zainabi lehjay mai awaz e Ali goonj uthi
-
-  Zulm or jabr k darbar par bijli se giri
-
+  Yadikal khair bhi hum, Rabb-e-Kaaba ki qasam
+  Unhi haathoṅ meiṅ rasan, sar-e-darbaar-e-sitam
+  Zainabi lehje meiṅ aawaaz-e-Ali gunj uthi
+  Zulm aur jabr ke darbaar pe bijli si giri
 
   4
-
-  Laiq e hamd hay jis ne hamain izzat bakhshi
-
-  Surah e Rom se shehzadi ne aayat yeh parhi
-
-  Jo buray thay so bura he un ka anjam hua
-
-  Jis ne Quran ko jhutlaya wo nakaam hua
-
+  Laa'iq-e-hamd hai jis ne hameiṅ izzat bakhshi
+  Surah-e-Rum se shahzaadi ne aayat yeh parhi
+  Jo bure the so bura un ka hi anjaam hua
+  Jis ne Quran ko jhutlaaya woh naakaam hua
 
   5
-
-  Kia kaha tu ne? kay haq se hamain ruswai mili
-
-  Hum yeh kehtay hain hamain izzat o sachai mili
-
+  Yadikal khair bhi hum...
+  Unhi haathoṅ meiṅ rasan...
+  Kya kaha tu ne ke haq se hameiṅ ruswaai mili
+  Hum yeh kehte haiṅ hameiṅ izzat o sachchaai mili
 
   6
-
-  Hum ko Quran mila Rab ki shanasaye mili
-
-  Mere pyaro ko sina par bhi pazeraye mili
-
-  Ibn e Marjana teray jubba o dastar talak
-
-  Karbala aagaye ab sham kay darbar talak
-
+  Hum ko Quran mila Rabb ki shanaasaai mili
+  Mere pyaaroṅ ko sinaaṅ par bhi paziraai mili
+  Ibn-e-Marjaana tere jubba o dastaar talak
+  Karbala aa gai ab Shaam ke darbaar talak
 
   7
-
-  Aye mere bhai kay qatil hawas e zar k ghulam
-
-  Imtehan yeh bhi hay or mai karun tujh se kalam
-
+  Ae mere bhaai ke qaatil, hawas-e-zar ke ghulaam
+  Intihaa yeh bhi hai maiṅ aur karuṅ tujh se kalaam
 
   8
-
-  Yun mukhatib hunk ay dil mai mere gham ki
-
-  Mujh ko dena hay Hussain ibn e Ali ka paygham
-
-  Kar kay tazheek e Nabi, tujh ko maza aata hay
-
-  Inteqam e badr o ohad pe itrata hay
-
+  Yuṅ mukhaatib huṅ ke dil meiṅ hai mere gham ki husaam
+  Mujh ko dena hai Husain ibn-e-Ali ka paighaam
+  Kar ke tazhik-e-Nabi tujh ko maza aata hai
+  Intiqaam-e-Uhud o Badr pe itraata hai
 
   9
-
-  Aye Yazeed! Aye sitmai! Jag bohat shaad hay tu
-
-  Qaid karke hamain samjha hay kay azad hay tu
-
+  Ae Yazid, sitami jaag, bahut shaad hai tu
+  Qaid kar ke hameiṅ samjha hai ke aazaad hai tu
 
   10
-
-  Yeh teri khaam khayali hay k aabad hay tu
-
-  Nasl dar nasl sada kay liye barbad hay tu
-
-  Faisla Rab ka hay, mohlat hay sambhal janay ki
-
-  Dheel dee jati hay zalim ko sambhal janay ki
-
+  Yeh teri khaam khayaali hai ke aabaad hai tu
+  Nasl dar nasl sada ke liye barbaad hai tu
+  Faisla Rabb ka hai, mohlat hai sambhal jaane ki
+  Dhil di jaati hai zaalim ko sambhal jaane ki
 
   11
-
-  Aaj kis zom mai ashraf ka khoon peeta hay
-
-  Kat kay bagh e Risalat ko tu khush hota hay
-
+  Aaj kis zaum meiṅ ashraaf ka khuṅ pita hai
+  Kaat ke baagh-e-risaalat ko tu khush hota hai
 
   12
-
-  Cheekhta phirta hay tu badr ka yeh badla hay
-
-  Mujh ko herat nahi hinda he ka tu beta hay
-
-  Hoga maloom shaqawat, ka nateeja us din
-
-  Badla yeh kia hay, liya jaye ga badla us din
-
+  Chikhta phirta hai tu Badr ka yeh badla hai
+  Mujh ko hairat nahiṅ Hindah hi ka tu beta hai
+  Hoga maalum shaqaawat ka natija us din
+  Badla yeh kiya hai, liya jaae ga badla us din
 
   13
-
-  Kardia qatal hamain tu ne ghalat socha hay
-
-  Gosht apna he chabaya hay badan nocha hay
-
+  Kar diya qatl hameiṅ tu ne ghalat socha hai
+  Gosht apna hi chabaaya hai badan nocha hai
 
   14
-
-  Kia khabar tujh ko k hum logo ka rutba kia hay
-
-  Aal e Imran mai Allah ka yeh waada hay
-
-  Shohada surat e Quran, sada zinda hain
-
-  Wo to wo un kay muhiban sada zinda hain
-
+  Kya khabar tujh ko ke hum logoṅ ka rutba kya hai
+  Aal-e-Imraan meiṅ Allah ka yeh waada hai
+  Shuhada surat-e-Quran sada zinda haiṅ
+  Woh to woh un ke muhibbaan sada zinda haiṅ
 
   15
-
-  Haye! Mehv e heart hun jinhain Rab ne sar afraz kiya
-
-  Ilm e Quran diya or yad e kal khair kaha
-
+  Mahv-e-hairat huṅ ke jinheiṅ Rabb ne sarfaraaz kiya
+  Ilm-e-Quran diya aur Yadikal khair kaha
 
   16
-
-  Ah! Un Bagh e Risalat kay guloo ko masla
-
-  Aasteeno se tumhari hay lahoo un ka baha
-
-  Pak o pakeeza banaye, thay jo khud rab ne badan
-
-  Aj sehra mai paray hain wohi be gor o kafan
-
+  Aah un baagh-e-risaalat ke guloṅ ko masla
+  Aastinoṅ se tumhaari hai lahu un ka baha
+  Paak o paakiza banaae the jo khud Rabb ne badan
+  Aaj sahra meiṅ pare haiṅ woh hi begor o kafan
 
   17
-
-  Aazma lay sitami jag sitam kay harbay
-
-  Dekh baqi koi dil mai teray hasrat na rahay
-
+  Aazma le sitami zaad sitam ke harbe
+  Dekh baaqi tere dil meiṅ koi hasrat na rahe
 
   18
-
-  Reh gaya ho jo koi sitam toe wo bhi karlay
-
-  Jeet kar har gaye teri hukumat hum say
-
-  Fikr e Shabbir to phaylay gi, Muhammad ki qasam
-
-  Yeh teray bus mai nahi malik o mukhtar hain hum
-
+  Reh gaya ho jo sitam koi to woh bhi kar le
+  Jit kar haar gai teri hukumat hum se
+  Fikr-e-Shabbir to phaile gi, Muhammad ki qasam
+  Yeh tere bas meiṅ nahiṅ maalik o mukhtaar haiṅ hum
 
   19
-
-  Hafiz e Nehj e Balagha ka tha wo rob o jalal
-
-  Maut ki khamoshi jesa hua darbar ka haal
-
+  Haafiza-e-Nahj-ul-Balaagha ka tha woh raub o jalaal
+  Maut ki khaamoshi jaisa hua darbaar ka haal
 
   20
-
-  Jag utheen bibiyan jo theen gham se musalsal nidhal
-
-  Bharay darbar se mazloom khateeba ka sawal
-
-  Kalma jis ka parha, us ka jigar kat liya
-
-  Apne Mohsin he kay nawasay he ka sir kat liya
-
+  Jaag uthi bibiyaaṅ jo gham se musalsal thiṅ nidhaal
+  Bhare darbaar se mazlum khatiba ka sawaal
+  Kalma jis ka parha us ka jigar kaat liya
+  Apne Mohsin ke nawaase ka hi sar kaat liya
 
   21
-
-  Tum thay nau lakh darinday wo bahatar (72) insaan
-
-  Un bahatar mai bhi tha ik Asghar sa tishna dahan
-
+  Tum the nau laakh darinde woh bahattar insaaṅ
+  Un bahattar meiṅ bhi Asghar sa tha ik tishna-dahaaṅ
 
   22
-
-  Aisa masoom qasam khata hay jin ki Qur’an
-
-  Haye un pyaso kay hulqoom pe khanjar tha rawan
-
-  Tum yeh kehtay ho paye jung Hussain aaya tha
-
-  Betio behno ko phir sath mai kyun laya tha?
-
+  Aise maasum qasam khaata hai jin ki Quraaṅ
+  Haaye un pyaasoṅ ke hulqum pe khanjar tha rawaaṅ
+  Tum yeh kehte ho pa-e-jang Husain aaya tha
+  Betiyoṅ behnoṅ ko phir saath meiṅ kiuṅ laaya tha
 
   23
-
-  Aye Yazeed(LA)! Aj kyun na tujh pe falak toot paray
-
-  Tu ne who zulm diye jis ne Muhammad roye
-
+  Ae Yazid aaj na kiuṅ tujh pe falak tut pare
+  Tu ne woh zulm kiye jis pe Muhammad roe
 
   24
-
-  Haye namoos e Nabi kocha o bazaar phiray
-
-  Dar o deewar sajay kothon se pathar barsay
-
-  Shamio hum pe naya, ab yeh ghazab kartay ho
-
-  Choti Zehra ko kaneezi mai talab kartay ho?
-
+  Haaye naamus-e-Nabi kucha o baazaar phire
+  Dar o diwaar saje kothoṅ se patthar barse
+  Shaamiyoṅ hum pe naya ab yeh ghazab karte ho
+  Chhoti Zehra ko kanizi meiṅ talab karte ho
 
   25
-
-  Khatam taqreer hui, mehshar e khamosh utha
-
-  Ya Ali! Ap ki beti ka ajab khutba tha
-
+  Khatm taqrir hui, mahshar-e-khaamosh utha
+  Ya Ali aap ki beti ka ajab khutba tha
 
   26
-
-  Murda darbar pe chahi thi khateeba ki sada
-
-  Bich gaye Sarwar o Rehan wahan farsh e Aza
-
-  Bhai kay sir pe nazar, Zainab e Kubra ki pari
-
-  Jhuk gaye Bali Sakina pe Ali ki'
+  Murda darbaar pe chhaai thi khatiba ki sada
+  Bichh gai Sarwar o Rehan wahaaṅ farsh-e-aza
+  Bhaai ke sar pe nazar Zainab-e-Kubra ki pari
+  Jhuk gai Baali Sakina pe Ali ki beti
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

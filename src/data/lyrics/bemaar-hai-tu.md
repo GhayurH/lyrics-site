@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Yasrab se shaahe diṅ jo suye karbala chale
+  Yasrab se Shaah-e-diṅ jo su-e-Karbala chale
   Ba hasrat o masaib o aah o buka chale
-  Israar tha ye fatema sughra ka shaah se
+  Israar tha ye Fatema Sughra ka shaah se
   Baba khudara saath mujhe le ke jaaiye
-  Sunkar fughaṅ ye fatema sughra se bole shaah
-  Bemaar hai tu sughra batlade mujhe itna
+  Sun kar fughaṅ ye Fatema Sughra se bole shaah
+  Bemaar hai tu Sughra batla de mujhe itna
   Le jauṅ tujhe kaise
-  Aasan nahi beta raahoṅ ki jafa sehna
+  Aasan nahiṅ beta raahoṅ ki jafa sehna
+  Le jauṅ tujhe
+  Har gaam musibat hai raahoṅ mein aziyat hai
+  Tu chal nahiṅ payegi kaantoṅ pe musafat hai
+  Tu ghar ka ujaala hai Sughra
+  Tu surat-e-Zahra ae Sughra
+  Kar sabr kar yaara ae Sughra
+  Kar zabt khudara ae Sughra
+  Tu seh nahiṅ payegi hai sakht safar beta
   Le jauṅ tujhe kaise
-  Har gaam musibat hai raahoṅ meiṅ aziyat hai
-  Tu chal nahi payegi kantoṅ pe musafat hai
-  Tu ghar ka ujaala ay sughra
-  Tu surate zahra ae sughra
-  Kar sabr kar yaara ae sughra
-  Kar zapt khudara ae sughra
-  Tu seh nahi payegi hai sakht safar beta
-  Le jauṅ tujhe kaise
-  Bemaar hai tu sughra...
+  Bemaar hai tu Sughra
   Humko hai jahaṅ rukna pur haul hai wo sehra
-  Kehte hai jise karbal humko hai wahaṅ lutna
-  Har simt kaza hai ae sughra
-  Na aabo ghiza hai ae sughra
-  Karbal wo jagah hai ae sughra
-  Bas zulm o jafa hai ae sughra
-  Is gham to behtar hai tu ghar meiṅ rahe tanha
+  Kehte haiṅ jise Karbal humko hai wahaṅ lutna
+  Har simt qaza hai ae Sughra
+  Na aab o ghiza hai ae Sughra
+  Karbal wo jagah hai ae Sughra
+  Bas zulm o jafa hai ae Sughra
+  Is gham se to behtar hai tu ghar mein rahe tanha
   Le jauṅ tujhe kaise
-  Bemaar hai tu sughra...
-  Le godh meiṅ asghar ko is nanhe musafir ko
-  Ji bhar ke tu ae sughra ab dekh le akbar ko
-  Ek mera guletar ae sughra
-  Ek shakle payambar ae sughra
-  De ruqsat mil kar ae sughra
-  Tayyar hai dilbar ae sughra
-  Ye khafila jaata hai ab jaanibe karbobala
+  Bemaar hai tu Sughra
+  Le god mein Asghar ko is nanhe musafir ko
+  Ji bhar ke tu ae Sughra ab dekh le Akbar ko
+  Ik mera gul-e-tar ae Sughra
+  Ik shakl-e-payambar ae Sughra
+  De ruqsat mil kar ae Sughra
+  Tayyar hai dilbar ae Sughra
+  Ye qaafila jaata hai ab jaanib-e-Karb o Bala
   Le jauṅ tujhe kaise
-  Bemaar hai tu sughra...
-  Soyi ek din sughra aur khwaab meiṅ ye dekha
-  Lut'ta hai bhara kunba shabbir huwe tanha
-  Kehte the tarap kar ae sughra
-  Meri pyari dukhtar ae sughra
-  Tu dekh ye manzar ae sughra
-  Koi nahi yawar ae sughra
-  Ab jaan liya tune mai is liye kehta tha
+  Bemaar hai tu Sughra
+  Soyi ik din Sughra aur khwaab mein ye dekha
+  Lutta hai bhara kunba Shabbir hue tanha
+  Kehte the tarap kar ae Sughra
+  Meri pyari dukhtar ae Sughra
+  Tu dekh ye manzar ae Sughra
+  Koi nahiṅ yawar ae Sughra
+  Ab jaan liya tu ne main is liye kehta tha
   Le jauṅ tujhe kaise
-  Bemaar hai tu sughra...
+  Bemaar hai tu Sughra
   Ghabra ke uthi muztar nani se kaha ro kar
-  Dekha hai abhi maiṅ ne kehte the yehi sarwar
-  Ab mere gale par ae sughra
-  Chalne ko hai khanjar ae sughra
-  Koi nahi yawar ae sughra
-  Maare gaye dilbar ae sughra
-  Ye soch ke hi maiṅ ne bola tha tujhe beta
+  Dekha hai abhi main ne kehte the yahiṅ Sarwar
+  Ab mere gale par ae Sughra
+  Chalne ko hai khanjar ae Sughra
+  Koi nahiṅ yawar ae Sughra
+  Maare gaye dilbar ae Sughra
+  Ye soch ke hi main ne bola tha tujhe beta
   Le jauṅ tujhe kaise
-  Bemaar hai tu sughra...
-  Shabbir ka jab kunba nana ke shehar pahuncha
-  Farhan aur safdar ye zainab ne kaha sughra
-  Barbaad hua ghar ae sughra
-  Hua qatl baradar ae sughra
-  Abbas aur akbar ae sughra
-  Koi nahi sar par ae sughra
+  Bemaar hai tu Sughra
+  Shabbir ka jab kunba nana ke shahr pahuncha
+  Farhan aur Safdar ye Zainab ne kaha Sughra
+  Barbaad hua ghar ae Sughra
+  Hua qatl baradar ae Sughra
+  Abbas aur Akbar ae Sughra
+  Koi nahiṅ sar par ae Sughra
   Is waaste bhai ne bola tha tujhe beta
   Le jauṅ tujhe kaise
-  Bemaar hai tu sughra...
+  Bemaar hai tu Sughra
 ---
 
 ۱

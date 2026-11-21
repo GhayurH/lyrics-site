@@ -1,71 +1,130 @@
 ---
-title: "Parh Naad-e-Ali Mesum Abbas"
+title: "پڑھ نادِ علی"
+alternateTitle: "Parh Naad-e-Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Meesum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jis ne liya hai nam-e-ali oss ki mushkil tali
+  Mayousiyon hain kaisi dil kyun udas hai
+  Aik waseela rab ka apne jo pas hai
+
+  2
+  Ik mashwara sun le mera gham na hoga koi
+  Dunya ki chahat apne dil se nikal de
+  Dil mein basa ossay jo gham tere taal de
+  Tera Nabi Allah bhi bolay tujh se yehi
+
+  3
+  Meri kashi paar laga de soyi taqdeer jaga de
+  Tere ishq mein doba jaon aisi barkha barsa de
+  Apna mera tere siwa koi nahi mushkil kusha
+  Mashriq magrib Makka our Najaf bas tu hi tu hai chaar taraf
+
+  4
+  Dar dar bhatakne walay ik baat sun zara
+  Nad-e-Ali se bahatar koi nahi dawa
+  Talay qaza bantay shifa ik din tu bhi kabhi
+  Ik baat keh doon tujh se kya tujhey qabool hai
+
+  5
+  Nad-e-Ali ko parhna sunat-e-Rasool hai
+  Qaul-e-Nabi hai bas yehi bigri ban jaye gi
+  Sare malang lagaein narah Lajpal ka
+  Nobat baje tu aaye lutf dhamal ka
+
+  6
+  Lal Sakhi our Bo Ali bolein sab hi yehi
+  Nad-e-Ali se pehle Nad-e-Ali ke baad
+  Aisa wazeefa koi kya hai kissi ko yaad
+  Maidan-e-Jang ya dil ho tang aaye jo bhi ghari
+
+  7
+  Ghar mein Khuda ke logo jis ka zahoor hai
+  Kabay ki dewaron ko oss ka shaoor hai
+  Shaq ho gayi dewar bhi sun ke nam-e-ali
+  Zahra ko shohar Ali Ali
+
+  8
+  Hai nafs-e-payamber Ali Ali
+  Hasnain ka baba Ali Ali
+  Molood-e-Kaba Ali Ali
+  Bhatko tu sahara Ali Ali
+
+  9
+  Dobo tu kinara Ali Ali
+  Nabiyon ne pukara Ali Ali
+  Eman hamara Ali Ali
+  Tofan ke rukh par behta ja
+
+  10
+  Bas Haider Haider kehta ja
+  Jholay Lal kehne walay Maula ke sang hain
+  Meesum ki tarha Mazhar Ali ke malang hain
+  Ta zindagi yeh wird bhi hum na bholein kabhi
 ---
 
-1
-Parh Naad-e-Ali Mesum Abbas Lyrics
-Jis Ne Liya Hai Nam-e-Ali Oss Ki Mushkil Tali.
-Mayousiyon Hain Kaisi Dil Kyun Udas Hai.
-Aik Waseela Rab Ka Apne Jo Pas Hai.
+۱
+جس نے لیا ہے نامِ علی اُس کی مشکل ٹلی
+مایوسیوں ہیں کیسی دل کیوں اداس ہے
+ایک وسیلہ رب کا اپنے جو پاس ہے
 
-2
-Ik Mashwara Sun Le Mera Gham Na Hoga Koi.
-Dunya Ki Chahat Apne Dil Se Nikal De.
-Dil Mein Basa Ossay Jo Gham Tere Taal De.
-Tera Nabi ALLAH Bhi Bolay Tujh Se Yehi.
+۲
+اک مشورہ سن لے میرا غم نہ ہوگا کوئی
+دنیا کی چاہت اپنے دل سے نکال دے
+دل میں بسا اُسے جو غم تیرے ٹال دے
+تیرا نبی اللہ بھی بولے تجھ سے یہی
 
-3
-Meri Kashi Paar Laga De Soyi Taqdeer Jaga De.
-Tere Ishq Mein Doba Jaon Aisi Barkha Barsa De.
-Apna Mera Tere Siwa Koi Nahi Mushkil Kusha.
-Mashriq Magrib Makka Our Najaf Bas Tu Hi Tu Hai Chaar Taraf.
+۳
+میری کشتی پار لگا دے سوئی تقدیر جگا دے
+تیرے عشق میں ڈوبا جاؤں ایسی برکھا برسا دے
+اپنا میرا تیرے سوا کوئی نہیں مشکل کشا
+مشرق مغرب مکہ اور نجف بس تو ہی تو ہے چار طرف
 
-4
-Dar Dar Bhatakne Walay Ik Baat Sun Zara.
-Nad-e-Ali Se Bahatar Koi Nahi Dawa.
-Talay Qaza Bantay Shifa Ik Din Tu Bhi Kabhi.
-Ik Baat Keh Doon Tujh Se Kya Tujhey Qabool Hai.
+۴
+در در بھٹکنے والے اک بات سن ذرا
+نادِ علی سے بہتر کوئی نہیں دوا
+ٹالے قضا بانٹے شفا اک دن تو بھی کبھی
+اک بات کہہ دوں تجھ سے کیا تجھے قبول ہے
 
-5
-Nad-e-Ali Ko Parhna Sunat-e-Rasool Hai.
-Qaul-e-Nabi Hai Bas Yehi Bigri Ban Jaye Gi.
-Sare Malang Lagaein Narah Lajpal Ka.
-Nobat Baje Tu Aaye Lutf Dhamal Ka.
+۵
+نادِ علی کو پڑھنا سنتِ رسول ہے
+قولِ نبی ہے بس یہی بگڑی بن جائے گی
+سارے ملنگ لگائیں نعرہ لجپال کا
+نوبت بجے تو آئے لطف دھمال کا
 
-6
-Lal Sakhi Our Bo Ali Bolein Sab Hi Yehi.
-Nad-e-Ali Se Pehle Nad-e-Ali Ke Baad.
-Aisa Wazeefa Koi Kya Hai Kissi Ko Yaad.
-Maidan-e-Jang Ya Dil Ho Tang Aaye Jo Bhi Ghari.
+۶
+لال سخی اور بو علی بولیں سب ہی یہی
+نادِ علی سے پہلے نادِ علی کے بعد
+ایسا وظیفہ کوئی کیا ہے کسی کو یاد
+میدانِ جنگ یا دل ہو تنگ آئے جو بھی گھڑی
 
-7
-Ghar Mein Khuda Ke Logo Jis Ka Zahoor Hai.
-Kabay Ki Dewaron Ko Oss Ka Shaoor Hai.
-Shaq Ho Gayi Dewar Bhi Sun Ke Nam-e-Ali.
-Zahra Ko Shohar Ali Ali.
+۷
+گھر میں خدا کے لوگو جس کا ظہور ہے
+کعبے کی دیواروں کو اُس کا شعور ہے
+شق ہو گئی دیوار بھی سن کے نامِ علی
+زہرا کو شوہر علی علی
 
-8
-Hai Nafs-e-Payamber Ali Ali.
-Hasnain Ka Baba Ali Ali.
-Molood-e-Kaba Ali Ali.
-Bhatko Tu Sahara Ali Ali.
+۸
+ہے نفسِ پیمبر علی علی
+حسنین کا بابا علی علی
+مولودِ کعبہ علی علی
+بھٹکو تو سہارا علی علی
 
-9
-Dobo Tu Kinara Ali Ali.
-Nabiyon Ne Pukara Ali Ali.
-Eman Hamara Ali Ali.
-Tofan Ke Rukh Par Behta Ja.
+۹
+ڈوبو تو کنارا علی علی
+نبیوں نے پکارا علی علی
+ایمان ہمارا علی علی
+طوفان کے رخ پر بہتا جا
 
-10
-Bas Haider Haider Kehta Ja.
-Jholay Lal Kehne Walay Maula Ke Sang Hain.
- Meesum Ki Tarha Mazhar Ali Ke Malang Hain.
-Ta Zindagi Yeh Wird Bhi Hum Na Bholein Kabhi.
+۱۰
+بس حیدر حیدر کہتا جا
+جھولے لال کہنے والے مولا کے سنگ ہیں
+میثم کی طرح مظہر علی کے ملنگ ہیں
+تا زندگی یہ ورد بھی ہم نہ بھولیں کبھی

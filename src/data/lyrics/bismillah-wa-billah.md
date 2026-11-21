@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zakhmoṅ se chur hoke jo quran gir gaya
-  Ro'o saroṅ ko pito qayamat hui bapa
-  Naiza sambhale daaye se ibne anas bara
-  Baayi taraf se maarne ibne ashas chala
-  Dono ne waar shaah pe jo ek saath kar diya
-  Phasli meiṅ jaake naize meiṅ naiza ulajh gaya
-  Ibne anas ne chaaha ke naiza nikaale
-  Shabbir chaahte the ke khud ko sambhale
-  Is kashma kash meiṅ phasliyaṅ baahar nikal pari
-  Roti bilakti qabr se zehra nikal pari
-  Girte huwe zamiṅ pe ye shabbir ne kaha
-  Bismillah wabillah wala millate rasoolillah
-  Ghore se gir ke baithe hi the sibte mustafa
-  Ek tir san sanata hua tin bhaal ka
-  Sine meiṅ aake shaahe shahidaṅ ke gar gaya
-  Haathoṅ se usko khinch ke shabbir ne kaha
-  Bismillah wabillah...
+  Zakhmoṅ se chur ho ke jo Quran gir gaya
+  Ro'o saroṅ ko pito qayaamat hui bapa
+  Naiza sambhaale daae se Ibn-e-Anas bara
+  Baaiṅ taraf se maarne Ibn-e-Ashas chala
+  Donoṅ ne waar shaah pe jo ek saath kar diya
+  Pasli meiṅ ja ke naize meiṅ naiza ulajh gaya
+  Ibn-e-Anas ne chaaha ke naiza nikaale
+  Shabbir chaahte the ke khud ko sambhaale
+  Is kashmakash meiṅ the pasliyaaṅ baahar nikal pari
+  Roti bilakti qabr se Zehra nikal pari
+  Girte hue zamiṅ pe ye Shabbir ne kaha
+  Bismillah billah wa la millat-e-Rasulillah
+  Ghore se gir ke baithe hi the Sibt-e-Mustafa
+  Ek tir sansanaata hua tin bhaal ka
+  Sine meiṅ aa ke Shaah-e-Shahidaaṅ ke gar gaya
+  Haathoṅ se us ko khinch ke Shabbir ne kaha
+  Bismillah billah...
   Sadme hazaar hone lage naaznin par
-  Patthar kisi ne khaynch ke maara jabiṅ par
-  Teora ke aah gir pare maula zamin par
-  Girte hi tir jism meiṅ chubne lage siwa
-  Bismillah wabillah...
-  Zakhmoṅ se chur chur huṅ yawar nahi raha
-  Akbar nahi raha mera asghar nahi raha
-  Chautis saal waala baradar nahi raha
-  Ab kya karunga ji ke bhara ghar nahi raha
-  Bismillah wabillah...
-  Tha khuṅ meiṅ joshe faatahe khyber ki al amaaṅ
-  Uth kar khare huwe kabhi baithe shahe zamaaṅ
-  Naiza jigar se khayncha to khinchi kabhi sina
-  Phir leke khuṅ haath meiṅ bole shahe huda
-  Bismillah wabillah...
-  Chullu ka khun phaynka jo hi aasman par
-  Sakta sa taari hogaya saare jahaṅ par
-  Laakhoṅ layin tooth pare ek jaan par
-  Aandhi chali larazne lagi arze karbala
-  Bismillah wabillah...
-  Khanjar liye wo haath meiṅ shimr e layiṅ barha
-  Sarwar ne sar ko sajda e khaaliq meiṅ rakh diya
-  Subhana rabbi aala wo mabud hai mera
-  Khanjar chala to shaah ne besaakta kaha
-  Bismillah wabillah...
-  Khanjar chalaya pyase pe ek baara martaba
-  Pehli jo zarb khaayi kaha wa mohammada
-  Aur dusri pe kehne lage haye murtuza
-  Din e nabi pe hota hai ab khaatma mera
-  Bismillah wabillah...
-  Phir tisri pe tarpe kaha amma fatema
-  Chauti lagi to kehne lage bhai mujtaba
-  Phir uske baad sheh ne kisi se na kuch kaha
+  Patthar kisi ne khinch ke maara jabiṅ par
+  Teora ke aah gir pare Maula zamin par
+  Girte hi tir jism meiṅ chubhne lage siwa
+  Bismillah billah...
+  Zakhmoṅ se chur chur huṅ Yawar nahiṅ raha
+  Akbar nahiṅ raha mera Asghar nahiṅ raha
+  Chauntis saal waala baraadar nahiṅ raha
+  Ab kya karuṅ gi ji ke bhara ghar nahiṅ raha
+  Bismillah billah...
+  Tha khuṅ meiṅ josh-e-Faateh-e-Khaibar ki al-amaaṅ
+  Uth kar khare hue kabhi baithe Shah-e-Zamaaṅ
+  Naiza jigar se khincha to khinchi kabhi sinaaṅ
+  Phir le ke khuṅ haath meiṅ bole Shah-e-Huda
+  Bismillah billah...
+  Chullu ka khun phenka junhi aasmaan par
+  Sakta sa taari ho gaya saare jahaaṅ par
+  Laakhoṅ lain tut pare ek jaan par
+  Aandhi chali larazne lagi arz-e-Karbala
+  Bismillah billah...
+  Khanjar liye wo haath meiṅ Shimr laiṅ barha
+  Sarwar ne sar ko sajda-e-Khaaliq meiṅ rakh diya
+  Subhaana rabbi aala wo maabud hai mera
+  Khanjar chala to shaah ne besaakhta kaha
+  Bismillah billah...
+  Khanjar chalaaya pyaase pe ek baarah martaba
+  Pehli jo zarb khaai kaha wa Muhammada
+  Aur dusri pe kehne lage haae Murtaza
+  Din-e-Nabi pe hota hai ab khaatma mera
+  Bismillah billah...
+  Phir tisri pe tarpe kaha ammaaṅ Fatema
+  Chauthi lagi to kehne lage bhaai Mujtaba
+  Phir us ke baad shah ne kisi se na kuchh kaha
   Sukhi hui ragoṅ se ye aati rahi sada
-  Bismillah wabillah...
-  Aamir ali ka laal wo zehra ka dil ka chain
-  Aini lahu meiṅ lot'te the shaahe mashraqain
-  Chalti rahi churi aur ye kehte rahe Husain
-  Kat'te huwe gale se ye aati rahi sada
-  Abbas abbas abbas abbas
+  Bismillah billah...
+  Aamir Ali ka laal wo Zehra ka dil ka chain
+  Aini lahu meiṅ lotte the Shaah-e-Mashriqain
+  Chalti rahi chhuri aur ye kehte rahe Husain
+  Katte hue gale se ye aati rahi sada
+  Abbas Abbas Abbas Abbas
 ---
 
 ۱

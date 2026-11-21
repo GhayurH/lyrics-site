@@ -8,63 +8,63 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zakhmi peshani hai Murtaza ki
-  Ibne Muljim pe lanat Khuda ki
+  Zakhmi peshaani hai Murtaza ki
+  Ibn-e-Muljim pe laanat Khuda ki
 
   1
-  Asman par udasi hai chayi
-  Gham may dubi hui hai Khudayi
-  Shair e dawar pe jis ne jafai ki
+  Aasmaan par udaasi hai chhaai
+  Gham meiṅ dubi hui hai Khudaai
+  Sher-e-Dawar pe jis ne jafa ki
 
   2
-  Khuld may Fatima ro rahi hai
-  Jan Ummul Baneen kho rahi hai
-  Muztarib hay safiṅ ambiya ki
+  Khuld meiṅ Fatima ro rahi hai
+  Jaan Ummul Banin kho rahi hai
+  Muztarib haiṅ safeṅ ambiya ki
 
   3
-  Kiuṅ na huran-e-jannat ho giryaṅ
-  Zainab-e-ghamzada hai pareshan
+  Kiuṅ na huraan-e-jannat ho giryaaṅ
+  Zainab-e-ghamzada hai pareshaan
   Hai jabiṅ khun khairul wara ki
 
   4
   Kaise Fizza jigar ko sambhale
-  Bibi Kulsum karti hai nale
-  Lash uthti hai shah e huda ki
+  Bibi Kulsum karti hai naale
+  Laash uthti hai Shaah-e-Huda ki
 
   5
-  Hashr aalam may hai aaj barpa
-  Ro ke Jibril karte haiṅ Noha
-  Hae hae Ali ne qaza ki
+  Hashr aalam meiṅ hai aaj barpa
+  Ro ke Jibril karte haiṅ noha
+  Haaye haaye Ali ne qaza ki
 
   6
-  Ambiya karte haiṅ hae hae
+  Karte haiṅ haaye haaye
   Kaise Hasnain ko chain aaye
-  Ghair halat hai aal e aba ki
+  Ghair haalat hai Aal-e-Aba ki
 
   7
   Sar patakte haiṅ Abbas Ghazi
-  Khun may tar hua hai namazi
-  Inteha ho gayi hai jafa ki
+  Khun meiṅ tar hua hai namaazi
+  Inteha ho gai hai jafa ki
 
   8
-  Rozadaron may mehshar bapa hai
-  Ya Ali Ya Ali ki sada hai
-  He azdari mushkil kusha ki
+  Roza daaroṅ meiṅ mahshar bapa hai
+  Ya Ali ya Ali ki sada hai
+  Haaye Mushkil Kusha ne qaza ki
 
   9
-  Gir na jaye kahiṅ aaj Kaaba
-  Uth raha hai Ali ka janaza
+  Gir na jaae kahiṅ aaj Kaaba
+  Uth raha hai Ali ka janaaza
   Aa rahi hai sada kibriya ki
 
   10
-  Subh ikisviṅ ki hai qayamat
+  Subh ikkisviṅ ki hai qayaamat
   Murtaza par hai tuti musibat
-  Ibtida ho gayi Karbala ki
+  Ibtida ho gai Karbala ki
 
   11
-  Ae Azim o Najaf gham manao
-  Tum bhi Haider ka tabut uthao
-  Tum jaza pao ge is aza ki
+  Ae Azim o Najaf gham manaao
+  Tum bhi Haider ka taabut uthaao
+  Tum jaza paao ge is aza ki
 ---
 
 زخمی پیشانی ہے مرتضیٰؑ کی

@@ -1,35 +1,60 @@
 ---
-title: "Baqir Ne Pocha Abid Se Baba Bazar Saja Hai Kyun"
+title: "باقر نے پوچھا عابد سے بابا بازار سجا ہے کیوں"
+alternateTitle: "Baqir Ne Pocha Abid Se Baba Bazar Saja Hai Kyun"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Baqir ne pocha Abid se baba bazar saja hai kyun?
+  Hathon mein liye pathar baba har so har shaks khara hai kyun?
+  Baba Shabir namazi ke ho aap pisar hai sab ko khabar
+  Phir aap ko Sham ke logon ne baghi ka lal kaha hai kyun?
+
+  2
+  Baba ho aap rasan basta our jari hai koron ka sitam
+  Our garam kabhi pani hum par in logon ne phainka hai kyun?
+  Meri our aap ki gardan hai baba iss ik rasan mein bandhi
+  Baba meri gardan dukhti hai haan aisa zulm howa hai kyun?
+
+  3
+  Be-parda dekh ke ahl-e-haram har bar batein mujhko keh
+  Baba Abbas Dilawar ka sar naizay se girta hai kyun?
+  Athara azanein hum ne suni ik ja pe khare ho kar baba
+  Iss Bab-E-Saat par baba yeh apna qafila ruka hai kyun?
+
+  4
+  Be-parda meri maein hain bas chand ridaein mangtey hain
+  Iss Sham ke logon mein koi nahi deta humko rida hai kyun?
+  Afraz yeh ro kar Abid ne kaha deen bachana hai hum ne
+  Mat pocho Baqir baba se keh itna zulm saha hai kyun?
 ---
 
-1
-Baqir Ne Pocha Abid Se Baba Bazar Saja Hai Kyun?
-Hathon Mein Liye Pathar Baba Har So Har Shaks Khara Hai Kyun?
-Baba Shabir Namazi Ke Ho Aap Pisar Hai Sab Ko Khabar.
-Phir Aap Ko Sham Ke Logon Ne Baghi Ka Lal Kaha Hai Kyun?
+۱
+باقر نے پوچھا عابد سے بابا بازار سجا ہے کیوں؟
+ہاتھوں میں لیے پتھر بابا ہر سو ہر شخص کھڑا ہے کیوں؟
+بابا شبیر نمازی کے ہو آپ پسر ہے سب کو خبر
+پھر آپ کو شام کے لوگوں نے باغی کا لال کہا ہے کیوں؟
 
-2
-Baba Ho Aap Rasan Basta Our Jari Hai Koron Ka Sitam.
-Our Garam Kabhi Pani Hum Par In Logon Ne Phainka Hai Kyun?
-Meri Our Aap Ki Gardan Hai Baba Iss Ik Rasan Mein Bandhi.
-Baba Meri Gardan Dukhti Hai Haan Aisa Zulm Howa Hai Kyun?
+۲
+بابا ہو آپ رسن بستہ اور جاری ہے کوڑوں کا ستم
+اور گرم کبھی پانی ہم پر ان لوگوں نے پھینکا ہے کیوں؟
+میری اور آپ کی گردن ہے بابا اس اک رسن میں بندھی
+بابا میری گردن دکھتی ہے ہاں ایسا ظلم ہوا ہے کیوں؟
 
-3
-Be-Parda Dekh Ke Ahl-e-Haram Har Bar Batein Mujhko Keh.
-Baba Abbas Dilawar Ka Sar Naizay Se Girta Hai Kyun?
-Athara Azanein Hum Ne Suni Ik Ja Pe Khare Ho Kar Baba.
-Iss Bab-e-Saat Par Baba Yeh Apna Qafila Ruka Hai Kyun?
+۳
+بے پردہ دیکھ کے اہلِ حرم ہر بار باتیں مجھ کو کہہ
+بابا عباس دلاور کا سر نیزے سے گرتا ہے کیوں؟
+اٹھارہ اذانیں ہم نے سنیں اک جا پہ کھڑے ہو کر بابا
+اس بابِ ساعت پر بابا یہ اپنا قافلہ رکا ہے کیوں؟
 
-4
-Be-Parda Meri Maein Hain Bas Chand Ridaein Mangtey Hain.
-Iss Sham Ke Logon Mein Koi Nahi Deta Humko Rida Hai Kyun?
- Afraz Yeh Ro Kar Abid Ne Kaha Deen Bachana Hai Hum Ne.
-Mat Pocho Baqir Baba Se Keh Itna Zulm Saha Hai Kyun?
+۴
+بے پردہ میری مائیں ہیں بس چند ردائیں مانگتے ہیں
+اس شام کے لوگوں میں کوئی نہیں دیتا ہم کو ردا ہے کیوں؟
+افراز یہ رو کر عابد نے کہا دین بچانا ہے ہم نے
+مت پوچھو باقر بابا سے کہ اتنا ظلم سہا ہے کیوں؟

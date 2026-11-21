@@ -1,38 +1,66 @@
 ---
-title: "Naib E Dast E Elahi Ki Atta Hai Qasim"
+title: "نائبِ دستِ الٰہی کی عطا ہے قاسم"
+alternateTitle: "Naib E Dast E Elahi Ki Atta Hai Qasim"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Naib e dast e elahi ki atta hai Qasim
+  Umm-e-Farwa ke liye hamd-e-Khuda hai Qasim
+
+  1
+  Waar karne mein teri taig hai tofan-e-qaza
+  Our chalne mein yehi bad-e-saba hai Qasim
+  Jaisay Shabar hi bata saktay hain Shabbir ki shan
+  Aisay Akbar hi bata saktay hain kya hai Qasim
+
+  2
+  Zaiqa maut ka sun kar dil-e-quraan tujh se
+  Zaiqay aayaton ke poch raha hai Qasim
+  Lagta hai tu ne rajaz parhne ki teyari mein
+  Khutba-e-Bag-e-Fidak hifz kiya hai Qasim
+
+  3
+  Tera andaz-e-waga dekh ke andaza howa
+  Qasim-e-Khuld ne khud naam rakha hai Qasim
+  Khuld yani keh kahin Karb-o-Bala mein turbat
+  Kam se kam yeh teri midhat ka sila hai Qasim
+
+  4
+  Husan-e-Yousuf ki qasam hai keh musanif ki jagah
+  Husan ke sare sahefon pe likha hai Qasim
+  Ran mein 9 lakh zirah posh kharey hain Akbar
+  Be zirah unn mein Ali ban ke gaya hai Qasim
 ---
 
-Naib e Dast e Elahi Ki Atta Hai Qasim.
-Umm-e-Farwa Ke Liye Hamd-e-Khuda Hai Qasim.
+نائبِ دستِ الٰہی کی عطا ہے قاسم
+امِ فروہ کے لیے حمدِ خدا ہے قاسم
 
-1
-Waar Karne Mein Teri Taig Hai Tofan-e-Qaza.
-Our Chalne Mein Yehi Bad-e-Saba Hai Qasim.
-Jaisay Shabar Hi Bata Saktay Hain Shabbir Ki Shan.
-Aisay Akbar Hi Bata Saktay Hain Kya Hai Qasim.
+۱
+وار کرنے میں تیری تیغ ہے طوفانِ قضا
+اور چلنے میں یہی بادِ صبا ہے قاسم
+جیسے شبر ہی بتا سکتے ہیں شبیر کی شان
+ایسے اکبر ہی بتا سکتے ہیں کیا ہے قاسم
 
-2
-Zaiqa Maut Ka Sun Kar Dil-e-Quraan Tujh Se.
-Zaiqay Aayaton Ke Poch Raha Hai Qasim.
-Lagta Hai Tu Ne Rajaz Parhne Ki Teyari Mein.
-Khutba-e-Bag-e-Fidak Hifz Kiya Hai Qasim.
+۲
+ذائقہ موت کا سن کر دلِ قرآن تجھ سے
+ذائقے آیتوں کے پوچھ رہا ہے قاسم
+لگتا ہے تو نے رجز پڑھنے کی تیاری میں
+خطبۂ باغِ فدک حفظ کیا ہے قاسم
 
-3
-Tera Andaz-e-Waga Dekh Ke Andaza Howa.
-Qasim-e-Khuld Ne Khud Naam Rakha Hai Qasim.
-Khuld Yani Keh Kahin Karb-o-Bala Mein Turbat.
-Kam Se Kam Yeh Teri Midhat Ka Sila Hai Qasim.
+۳
+تیرا اندازِ وغا دیکھ کے اندازہ ہوا
+قاسمِ خلد نے خود نام رکھا ہے قاسم
+خلد یعنی کہ کہیں کرب و بلا میں تربت
+کم سے کم یہ تیری مدحت کا صلہ ہے قاسم
 
-4
-Husan-e-Yousuf Ki Qasam Hai Keh Musanif Ki Jagah.
-Husan Ke Sare Sahefon Pe Likha Hai Qasim.
-Ran Mein 9 Lakh Zirah Posh Kharey Hain Akbar.
-Be Zirah Unn Mein Ali Ban Ke Gaya Hai Qasim.
+۴
+حسنِ یوسف کی قسم ہے کہ مصنف کی جگہ
+حسن کے سارے صحیفوں پہ لکھا ہے قاسم
+رن میں ۹ لاکھ زرہ پوش کھڑے ہیں اکبر
+بے زرہ ان میں علی بن کے گیا ہے قاسم

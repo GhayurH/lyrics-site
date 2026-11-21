@@ -9,78 +9,49 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Chehlum ke liye bhaiya aayi hai teri zainab
-
-  Ay mere bhai hussain
-
-  Bhaiya mai aagayi hoo nana ka deen bacha ke
-
-  Jaa''ungi ab madina chehlum tera mana ke
-
+romanLyrics: |-
+  Chehlum ke liye bhaiya aayi hai teri Zainab
+  Ae mere bhai Husain
 
   1
-
-  Maloom hai ye tum ko zainab ujad chuki hai
-
-  Lekin teri shahadat ghar ghar pahonch gayi hai
-
-  Shabaash do behan ko bhaiya galay laga ke
-
-  Bhaiya mai aagayi hoo…
-
+  Bhaiya main aa gayi huṅ Nana ka diṅ bacha ke
+  Jaauṅ gi ab Madina chehlum tera mana ke
 
   2
-
-  Bhaiya tumhari zainab ab wo nahi rahi hai
-
-  Pehchan loge mujhko haalat badal gayi hai
-
-  Chalti hai ye zaeefa bhai kamar jhuka ke
-
+  Maalum hai ye tum ko Zainab ujar chuki hai
+  Lekin teri shahaadat ghar ghar pahunch chuki hai
+  Shaabaash do behan ko bhaiya gale laga ke
+  Bhaiya main aa gayi huṅ...
 
   3
-
-  Sajjad aur baaqir denge gawahi meri
-
-  Khaye hai taaziyane binte ali ne phir bhi
-
-  Le aayi shamiyon se waaris tere bacha ke
-
+  Bhaiya tumhaari Zainab ab wo nahiṅ rahi hai
+  Pehchaan loge mujh ko haalat badal gayi hai
+  Chalti hai ye zaifa bhai kamar jhuka ke
 
   4
-
-  Kaise bata''un bhaiya bazaar mein jo guzri
-
-  Kehte sab ke maaro ye hai ali ki beti
-
-  Baba ke bhi mai badle sab aayi hoo chuka ke
-
+  Sajjaad aur Baaqir deṅge gawaahi meri
+  Khaaye haiṅ taaziyaane Bint-e-Ali ne phir bhi
+  Le aayi Shaamiyoṅ se waaris tere bacha ke
 
   5
-
-  Ummat ne tujh pe bhai rone kahan diya hai
-
-  Jee bhar ke maine tera matam kahan kiya hai
-
-  Roegi aaj zainab farshe aza bicha ke
-
+  Kaise bataauṅ bhaiya baazaar mein jo guzri
+  Kehte the jab ke maaro ye hai Ali ki beti
+  Baba ke bhi main badle sab aayi huṅ chuka ke
 
   6
-
-  Ghar ja ke kya karoongi pehlu mein hi sula lo
-
-  Akbar se kehke mujhko turbat ki jaa dila do
-
-  Maalik ho tum to bhai jageer e karbala ke
-
+  Ummat ne tujh pe bhai rone kahaaṅ diya hai
+  Ji bhar ke main ne tera maatam kahaaṅ kiya hai
+  Royegi aaj Zainab Farsh-e-Aza bichha ke
 
   7
+  Ghar ja ke kya karuṅ gi pehlu mein hi sula lo
+  Akbar se keh ke mujh ko turbat ki jaa dila do
+  Maalik ho tum to bhai Jaagir-e-Karbala ke
 
-  Ye kehke ay takallum uthi ali ki beti
-
-  Abbas ki lehad par pahuncha de mujhko koi
-
-  Dikhladun ba-wafa ko rassi ke neel jaake'
+  8
+  Ye keh ke ae Takallum uthi Ali ki beti
+  Abbaas ki lahad par pahuncha de mujh ko koi
+  Dikhla duṅ bawaafa ko rassi ke nil ja ke
 ---
 
 چہلم کے لئے بھیاآئی ہے تیری زینبؑ

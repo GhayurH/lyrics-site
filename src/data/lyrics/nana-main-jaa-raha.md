@@ -18,7 +18,7 @@ romanLyrics: |-
   Maiṅ jaa raha huṅ
 
   2
-  Katenge baazu bhi bawafa ke
+  Kateṅ ge baazu bhi bawafa ke
   Chunuṅ ga Ibn-e-Hasan ke tukre
   Jawaaṅ bete ki laash uthane
   Maiṅ jaa raha huṅ

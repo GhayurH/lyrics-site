@@ -18,14 +18,14 @@ romanLyrics: |-
   1
   Do tohfe laai huṅ maiṅ aap ke liye
   Ik bhaai ka kurta aur baazuoṅ ke nil
-  Karbala se Shaam tak bemaqna o chaadar
+  Karbala se Shaam tak bemakna o chaadar
   Purkhaar raahoṅ par chalti rahi Naana
 
   2
   Kya bekasi bhari aai wo shaam-e-gham
   Asbaab lut gaya khaime bhi jal gaye
   Jis dam mere sar se chhini gai rida
-  Abbas ko sada deti rahi Naana
+  Abbaas ko sada deti rahi Naana
 
   3
   Baaloṅ ka tha parda baazu meiṅ resmaaṅ
@@ -34,15 +34,15 @@ romanLyrics: |-
   Har ranj o musibat sehti rahi Naana
 
   4
-  Sajjad naatawaaṅ pe zulm ka tufaaṅ
+  Sajjaad naatawaaṅ pe zulm ka tufaaṅ
   Haathoṅ meiṅ hathkari pairoṅ meiṅ beriyaaṅ
   Durre lagaate the har gaam pe aada
   Us bekasi pe maiṅ roti rahi Naana
 
   5
   Bano ka laadla Asghar bhi chal basa
-  Akbar bhi chal basa Qasim bhi chal basa
-  Maah-e-Bani Hashim Ghaazi bhi chal basa
+  Akbar bhi chal basa Qaasim bhi chal basa
+  Maah-e-Bani Haashim Ghaazi bhi chal basa
   Aashur ko din bhar lutti rahi Naana
 
   6

@@ -8,6 +8,29 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nanga sar bint-e-Paighambar ka chhupaane ke liye
+  Shaam mein shaam hui parda banaane ke liye
+
+  1
+  Sar khule pandrah azaaneṅ bhi suni Zainab ne
+  Khun mein duba hua sajda bachaane ke liye
+
+  2
+  Bint-e-Zehra ne ujar kar bhi sambhaale rakha
+  Lehja-e-sher-e-Khuda khutba sunaane ke liye
+
+  3
+  Haaye kya waqt ye aulaad-e-Nabi par aaya
+  Sirf Zainab thi masaaib ko uthaane ke liye
+
+  4
+  Ghash mein bimaar ko paani se baghaawat jo hui
+  Reh gaya sirf lahu ashk bahaane ke liye
+
+  5
+  Shaami hanste rahe be jurm asiroṅ pe Aqil
+  Is se barh kar bhi koi gham hai zamaane ke liye
 ---
 
 ننگا سر بنتِ پیغمبر کا چھپانے کیلئے

@@ -9,33 +9,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Rab mere dardan da koi te sila de
-  Maiṅ ujri Sakina nu mera baba mila de
+  Ya Rab mere dardaaṅ da koi te sila de
+  Maiṅ ujri Sakina nuṅ mera baba mila de
 
   1
-  Maiṅ jaandi haaṅ veeraṅ Abid teri majburi
-  Nahiṅ koi gila menu kar rasm-e-dafan puri
-  Bhaaveṅ raahaaṅ de wich meri tu qabr bana de
+  Maiṅ jaandi haaṅ veeraan
+  Abid teri majburi
+  Nahiṅ khoi gila menu
+  kar rasm-e-dafan puri
+  Bhaaveṅ raavaaṅ de wich meri
+  tu qabr bana de
 
   2
-  Jiveṅ paak Nabi kiti taazim Fatima di
-  Ainj jaan toṅ hai pyaari menu meri Sakina vi
-  Chaar saalaaṅ di Zahra nu na Shimr saza de
+  Jiveṅ paak Nabi kiti
+  tazim Fatima di
+  Inj jaan toṅ hai pyaari
+  menu meri Sakina vi
+  Chao saalan di Zahra nuṅ
+  na Shimr saza de
 
   3
-  Masum behan meri zindaaṅ da hanera
-  Kar yaad mar na jaave bimar veer tera
-  Kiveṅ wakhri qaid teri Sajjad bhula de
+  Masum behan meri
+  zindaan da hanera
+  Kar yaad mar ni jaave
+  bimar veer tera
+  Kiveṅ wakhri qaid teri
+  Sajjad bhula de
 
   4
-  Nahiṅ maut koloṅ dardi seh laṅgi maiṅ sazaavaaṅ
-  Ik vaar mile baba bhaaveṅ phir maiṅ mar jaavaaṅ
-  Parwardigaar menu kujh der bachaave
+  Nahiṅ maut koloṅ dardi
+  seh laaṅ gi maiṅ sazaavaaṅ
+  Ik vaar mila baba
+  paaveṅ fer maiṅ mar jaavaaṅ
+  Parwardigaar menu
+  kuj der bachaave
 
   5
-  Sajjad hath utha ke maangdi rahe duaavaaṅ
-  Koi yatim hove na qaidi hon maavaaṅ
-  Ohda vain Shaam waala zindaaṅ hila de
+  Sajjad haath utha ke
+  mangdi rowe duaavaaṅ
+  Khoi yatim hove
+  na qaidi hon maavaan
+  Ohda vain Shaam waala
+  zindaan hila de
 ---
 
 یا رب میرے درداں دا کوئی تے صلہ دے

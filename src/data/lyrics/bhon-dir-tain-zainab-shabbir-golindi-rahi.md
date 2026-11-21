@@ -7,6 +7,49 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bahuṅ der taiṅ Zainab Shabbir golindi rahi
+  Jith dher hin pathraaṅ de uṅ jhaate jhanrdi rahi
+
+  1
+  Khar satar qadam tuṅ maiṅ tekuṅ kusda dehdi rahi
+  Teraaṅ zarbaaṅ gal te chaliaaṅ maiṅ ganrdi rahi
+  Har zarb te Ghazi da naaṅ val val cheindi rahi
+
+  2
+  Unuṅ mayyat bah tarpe inuṅ khaimagaah vich bhaa
+  Koi aa nar chuaave haa Sajjad naiṅ chonda
+  Mana kar darya duṅ ro ae vain karindi rahi
+
+  3
+  Kal zuhr vele lokoṅ enjha haa qatl thiaa
+  Aao madad karo medi meda vir nahiṅ labhda
+  Akbar Qasim Ghazi kuṅ Sin sadendi rahi
+
+  4
+  Tede zakhmaaṅ di koi viran taadaad nahiṅ
+  Iveṅ lagda paye jinda teda Sajjad nahiṅ
+  Parh parh Inna Lillah Sajjad jagendi rahi
+
+  5
+  Taiyaar hin safraaṅ vich bharjeaaṅ naal mede
+  Aa dekh taaṅ sahi viran hin khulle hoe vaal mede
+  Kiveṅ tarneṅ bheer de vich haae Sin puchhendi rahi
+
+  6
+  Honda vatan taaṅ Zam Zam da tekuṅ ghusl devaavaaṅ haa
+  Hondi chaadar mayyat teda viran kafnaavaaṅ haa
+  Cham vir de zakhmaaṅ kuṅ ro ro farmendi rahi
+
+  7
+  Jaagir hoe apnre na koi bevatan hoe
+  Tede vaangoṅ vir meda na koi bekafan hoe
+  Kar maatam Sin dua bahuṅ der karindi rahi
+
+  8
+  Faisal Jandaaṅ maiṅ ujri de thi gae qatl bharaa
+  Neze de naal luti mede sar tuṅ Shimr rida
+  Kar vain Ali di dhi sar mittiaaṅ paindi rahi
 ---
 
 بہوں دیر تایں زینب ؑ شبیر ؑ گولیندی رہی

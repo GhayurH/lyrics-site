@@ -58,7 +58,7 @@ romanLyrics: |-
 
   7
   Darbaar tha khataar meiṅ behneṅ asir thi
-  Thaame chhari wo takht pe baitha tha ik laiṅ
+  Thaame chhari wo takht pe baitha tha ik la'iṅ
   Aur tasht meiṅ kata hua sar tha Husain ka
   Insaaf maangti huṅ maiṅ Zehra Husain ka
 

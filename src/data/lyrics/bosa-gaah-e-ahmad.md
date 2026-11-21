@@ -16,11 +16,11 @@ romanLyrics: |-
   Yuṅ khwaab-e-Khalili ki taabir nazar aayi
 
   1
-  Kya Hur ki basirat thi jis ko shab-e-isyaaṅ meiṅ
+  Kya Hur ki basirat thi jis ko shab-e-isyaaṅ mein
   Taqdir banaane ki tadbir nazar aayi
 
   2
-  Ashk-e-gham-e-Sarwar ke aaina-e-roshan meiṅ
+  Ashk-e-gham-e-Sarwar ke aaina-e-roshan mein
   Jannat bhi hameṅ apni jaagir nazar aayi
 
   3
@@ -32,12 +32,12 @@ romanLyrics: |-
   Maasum ki kya tujh ko taqsir nazar aayi
 
   5
-  Aghyaar bhi ro uthe muṅh pher ke raahoṅ meiṅ
-  Jab paaoṅ meiṅ Abid ke zanjir nazar aayi
+  Aghyaar bhi to uthe munh pher ke raahoṅ mein
+  Jab paaoṅ mein Abid ke zanjir nazar aayi
 
   6
-  Aansu gham-e-Sarwar meiṅ nikle jo Uruj apne
-  Har ashk meiṅ Kausar ke tasvir nazar aayi
+  Aansu gham-e-Sarwar mein nikle jo Uruj apne
+  Har ashk mein Kausar ke tasvir nazar aayi
 ---
 بوسہ گاہِ احمد پر شمشیر نظر آئی
 یوں خوابِ خلیلی کی تعبیر نظر آئی

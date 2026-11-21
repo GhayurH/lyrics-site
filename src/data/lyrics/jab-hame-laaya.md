@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye bazaar haye sajjad haye bazaar haye sajjad
-  Ae momino sunata huṅ mai gham ka waqeya
-  Parhte the subho-shaam ye sajjad marsiya
-  Baba pe haye apne mai qurban na ho saka
-  Ash shaam haye shaam yehi lab pe thi sada
-  Minhal ne jo zulm ki puchi hai inteha
-  Ro ro ke tab ye sayyede sajjad ne kaha
-  Jab hamay laaya gaya khaynchte bazaaroṅ meiṅ
+  Haye bazaar haye Sajjad haye bazaar haye Sajjad
+  Ae momino sunaata huṅ main gham ka waqeya
+  Parhte the subh o shaam ye Sajjad marsiya
+  Baba pe haye apne main qurbaan na ho saka
+  Ash shams haye shaam yahi lab pe thi sada
+  Minhaal ne jo zulm ki puchhi hai inteha
+  Ro ro ke tab ye Sayyid Sajjad ne kaha
+  Jab hameṅ laaya gaya khinchte bazaaroṅ meiṅ
   Dhum tha jashn ka us waqt sitamgaaroṅ meiṅ
-  Haye minhal bayaṅ kaise karuṅ wo manzar
+  Haye Minhaal bayaaṅ kaise karuṅ wo manzar
   Ek rassi meiṅ bandhe baara gale the kas kar
-  Sab se choti thi behen meri giraftaaroṅ meiṅ
-  Jab hamay laaya gaya...
-  Haye mai sayyede sajjad na bhoolunga wo din
-  Sab mere qatl huwe karbobala meiṅ lekin
-  Haye mai qatl hua shaam ke bazaaroṅ meiṅ
-  Jab hamay laaya gaya...
-  Jis ghari shaam ke bazaar meiṅ hum laaye gaye
-  Haye patthar bhi saroṅ par mere barsaye gaye
-  Khun meiṅ tar the khare sang ki baucharoṅ meiṅ
-  Jab hamay laaya gaya...
-  Nok e naiza pe jo baysheer nazar aata tha
-  Dil mera farte masayab se phata jaata tha
-  Sab se chota tha mera bhai fidakaron meiṅ
-  Jab hamay laaya gaya...
-  Ho jo minhal agar shaam ke zindaṅ se guzar
+  Sab se chhoti thi behen meri giraftaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Haye main Sayyid Sajjad na bhuluṅ ga wo din
+  Sab mere qatl hue Karb o Bala meiṅ lekin
+  Haye main qatl hua Shaam ke bazaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Jis ghari Shaam ke bazaar meiṅ ham laaye gaye
+  Haye patthar bhi saroṅ par mere barsaaye gaye
+  Khun meiṅ tar the khare sang ki bauchhaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Nok-e-naiza pe jo beshir nazar aata tha
+  Dil mera fart-e-masaaib se phata jaata tha
+  Sab se chhota tha mera bhai fida kaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Ho jo Minhaal agar Shaam ke zindaaṅ se guzar
   Apni aankhoṅ se zara dekhna manzar jaa kar
-  Aaj bhi khun ke hai chite dar o diwaroṅ meiṅ
-  Jab hamay laaya gaya...
-  Haye sajjad pe thi kaisi qayamat aayi
-  Aake ye sayyede sajjad se puche koi
-  Kitni taklif hui shaam ke bazaaroṅ meiṅ
-  Jab hamay laaya gaya...
-  Haal tab bali sakina ka ajab hota tha
-  Shimr jab pani dikha kar wo baha deta tha
-  Rehem khaata na tha koi bhi jafakaron meiṅ
-  Jab hamay laaya gaya...
-  Kiuṅ na us pehle azadaar ko roye aalam
-  Haye aamir na kare ahle aza kiuṅ matam
-  Ek azadaar ka matam hai azadaaroṅ meiṅ
-  Jab hamay laaya gaya...
+  Aaj bhi khun ke hai chhite dar o diwaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Haye Sajjad pe thi kaisi qayamat aayi
+  Aa ke ye Sayyid Sajjad se puchhe koi
+  Kitni taklif hui Shaam ke bazaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Haal tab baali Sakina ka ajab hota tha
+  Shimr jab paani dikha kar wo baha deta tha
+  Reham khaata na tha koi bhi jafa kaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
+  Kiuṅ na us pehle azaadaar ko roye Aalam
+  Haye Aamir na kare ahl-e-aza kiuṅ maatam
+  Ek azaadaar ka maatam hai azaadaaroṅ meiṅ
+  Jab hameṅ laaya gaya...
 ---
 
 ۱

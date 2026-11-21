@@ -22,7 +22,7 @@ romanLyrics: |-
   Wo haqdaar nahiṅ
 
   1
-  Tehrir Muhammad ki jo khaatir meiṅ na laaye
+  Tahrir Muhammad ki jo khaatir meiṅ na laaye
   Jo hoke Musalmaan dil-e-Zahra ko dukhaaye
   Batlaao tumhiṅ kya wo gunahgaar nahiṅ hai
   Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   2
   Sina zani ye aansuṅ hai momin ki nishaani
-  Jannat meiṅ le ke jaayega aankhoṅ ka ye paani
+  Jannat meiṅ le ke jaaye ga aankhoṅ ka ye paani
   Gham meiṅ Husain ke jo sogwaar nahiṅ hai
   Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   3
   Beyaar o madadgaar Muhammad ka nawaasa
-  Karbobala ke ban meiṅ hai maara gaya pyaasa
+  Karb o Bala ke ban meiṅ hai maara gaya pyaasa
   Aal-e-Rasul ka jo azaadaar nahiṅ hai
   Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   4
   Allah ne bare pyaar se Panjetan ko banaaya
-  Ye mere haiṅ maiṅ in ka huṅ ye sab ko bataaya
+  Ye mere haiṅ main in ka huṅ ye sab ko bataaya
   Farmaan-e-Khuda se jise aetbaar nahiṅ hai
   Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
@@ -56,7 +56,7 @@ romanLyrics: |-
   5
   Aa jaaiye Khudaara mere baarahweṅ Imam
   Khurshid ki aankheṅ haiṅ muntazir ye subh shaam
-  Jis jis ko bhi qaayam ka intezaar nahiṅ hai
+  Jis jis ko bhi qiyaam ka intezaar nahiṅ hai
   Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ

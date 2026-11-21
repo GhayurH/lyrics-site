@@ -1,55 +1,100 @@
 ---
-title: "Boli Zehra Zainab Ka Yun Saath Nibhana"
+title: "بولی زہرا زینب کا یوں ساتھ نبھانا"
+alternateTitle: "Boli Zehra Zainab Ka Yun Saath Nibhana"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Boli Zehra Zainab ka yun saath nibhana
+  Aghyar ke majme mein Fizza tu rida ban ke
+  Zainab ko chhupana
+
+  1
+  Pehli manzil to Karbala hai magar
+  Saath Abbas bhi wahan hoga
+  Dard Karbobala ka apni jagah
+  Bas mujhe Shaam ka hai gham Fizza
+  Khud dekh chuki hun main mushkil hai bohat Fizza
+  Darbar mein jaana
+
+  2
+  Tashnagi had se barh gayi hogi
+  Rote bachon ko wo sambhaalegi
+  Apne hisse ka aab bhi Zainab
+  Pyaase bachon mein baant daalegi
+  Khud apne hi hisse se kuch paani bacha kar tum
+  Zainab ko pilaana
+
+  3
+  Mujh ko maloom hai yateemi mein
+  Log jab rokte hain rone se
+  Us ghari dil pe kya guzarti hai
+  Main samajhti hun dukh Sakina ke
+  Dil khol ke baba ki mayyat pe wo roye to
+  Mayyat se uthaana
+
+  4
+  Qafila jab chalega sehra se
+  Koi maqtal mein chhoot jaayegi
+  Is se pehle ke pahunche Zainab tak
+  Shimr ke haath aayegi bachi
+  Tab Shimr ke haathon se tum meri Sakina ke
+  Baalon ko chhuraana
+
+  5
+  Sun ke Bint-e-Nabi ki baaton ko
+  Boli Saqlain Fizza Zehra se
+  Tum se Bibi yehi guzaarish hai
+  Jitne waade kiye hain Fizza ne
+  Main kaise nibhaati hun un Shaam ki galiyon mein
+  Tum dekhne aana
 ---
 
-Boli Zehra Zainab Ka Yun Saath Nibhana
-Aghyar Ke Majme Mein Fizza Tu Rida Ban Ke
-Zainab Ko Chhupana
+بولی زہرا زینب کا یوں ساتھ نبھانا
+اغیار کے مجمعے میں فضہ تو ردا بن کے
+زینب کو چھپانا
 
-1
-Pehli Manzil To Karbala Hai Magar
-Saath Abbas Bhi Wahan Hoga
-Dard Karbobala Ka Apni Jagah
-Bas Mujhe Shaam Ka Hai Gham Fizza
-Khud Dekh Chuki Hun Main Mushkil Hai Bohat Fizza
-Darbar Mein Jaana
+۱
+پہلی منزل تو کربلا ہے مگر
+ساتھ عباس بھی وہاں ہوگا
+دردِ کرب و بلا کا اپنی جگہ
+بس مجھے شام کا ہے غم فضہ
+خود دیکھ چکی ہوں میں مشکل ہے بہت فضہ
+دربار میں جانا
 
-2
-Tashnagi Had Se Barh Gayi Hogi
-Rote Bachon Ko Wo Sambhaalegi
-Apne Hisse Ka Aab Bhi Zainab
-Pyaase Bachon Mein Baant Daalegi
-Khud Apne Hi Hisse Se Kuch Paani Bacha Kar Tum
-Zainab Ko Pilaana
+۲
+تشنگی حد سے بڑھ گئی ہوگی
+روتے بچوں کو وہ سنبھالے گی
+اپنے حصے کا آب بھی زینب
+پیاسے بچوں میں بانٹ ڈالے گی
+خود اپنے ہی حصے سے کچھ پانی بچا کر تم
+زینب کو پلانا
 
-3
-Mujh Ko Maloom Hai Yateemi Mein
-Log Jab Rokte Hain Rone Se
-Us Ghari Dil Pe Kya Guzarti Hai
-Main Samajhti Hun Dukh Sakina Ke
-Dil Khol Ke Baba Ki Mayyat Pe Wo Roye To
-Mayyat Se Uthaana
+۳
+مجھ کو معلوم ہے یتیمی میں
+لوگ جب روکتے ہیں رونے سے
+اس گھڑی دل پہ کیا گزرتی ہے
+میں سمجھتی ہوں دکھ سکینہ کے
+دل کھول کے بابا کی میت پہ وہ روئے تو
+میت سے اٹھانا
 
-4
-Qafila Jab Chalega Sehra Se
-Koi Maqtal Mein Chhoot Jaayegi
-Is Se Pehle Ke Pahunche Zainab Tak
-Shimr Ke Haath Aayegi Bachi
-Tab Shimr Ke Haathon Se Tum Meri Sakina Ke
-Baalon Ko Chhuraana
+۴
+قافلہ جب چلے گا صحرا سے
+کوئی مقتل میں چھوٹ جائے گی
+اس سے پہلے کہ پہنچے زینب تک
+شمر کے ہاتھ آئے گی بچی
+تب شمر کے ہاتھوں سے تم میری سکینہ کے
+بالوں کو چھڑانا
 
-5
-Sun Ke Bint-e-Nabi Ki Baaton Ko
-Boli Saqlain Fizza Zehra Se
-Tum Se Bibi Yehi Guzaarish Hai
-Jitne Waade Kiye Hain Fizza Ne
-Main Kaise Nibhaati Hun Un Shaam Ki Galiyon Mein
-Tum Dekhne Aana
+۵
+سن کے بنتِ نبی کی باتوں کو
+بولی ثقلین فضہ زہرا سے
+تم سے بی‌بی یہی گزارش ہے
+جتنے وعدے کیے ہیں فضہ نے
+میں کیسے نبھاتی ہوں اُن شام کی گلیوں میں
+تم دیکھنے آنا

@@ -17,9 +17,9 @@ romanLyrics: |-
   Jalaal chehre pe chhaa raha hai
 
   1
-  Jale pare ek taraf hai khaime
-  Hai ek taraf bekasoṅ ki zaari
-  Hai godiyoṅ meiṅ bilakte bachche
+  Jalaae paraae ik taraf haiṅ khaimeṅ
+  Hai ik taraf bekasoṅ ki zaari
+  Haiṅ godiyoṅ meiṅ bilakte bachche
   Samaaṅ wo un ko dara raha hai
 
   2
@@ -30,14 +30,14 @@ romanLyrics: |-
 
   3
   Us aane wale pe sab haiṅ hairaaṅ
-  Ke uske aane ka kya hai maqsad
-  Ye aur kya lut lega aa kar
+  Ke us ke aane ka kya hai maqsad
+  Ye aur kya lut le ga aa kar
   Yahaaṅ bhala kya dhara raha hai
 
   4
   Idhar ye sab baithe sochte haiṅ
   Udhar wo barhta hai barhne wala
-  Sawaar asp-e-safed pe hai
+  Sawaar us ke safed pe hai
   Niqaab se rukh chhupa raha hai
 
   5
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Ghazab ke aalam meiṅ keh rahi hai
   Ke barhne wale zara sambhal ja
-  Maiṅ bint-e-khilla shikan huṅ tu sun le
+  Main bint-e-khalaa shikan huṅ tu sun le
   Mujhe bhala tu dara raha hai
 
   7

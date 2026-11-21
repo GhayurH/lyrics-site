@@ -7,6 +7,37 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nabi ke haq se use aagahi nahiṅ hoti
+  Ke jis ke dil meiṅ wilaa-e-Ali nahiṅ hoti
+
+  1
+  Hazaar sajdoṅ se behtar hai ye samajh lena
+  Binaa-e-ishq-e-Ali bandagi nahiṅ hoti
+
+  2
+  Nusairiyoṅ ka bhi andaaz hai ghalat lekin
+  Munafiqat se koi shai pari nahiṅ hoti
+
+  3
+  Jahaaṅ zabaan ho mahrum zikr-e-Haidar se
+  Wahaaṅ khayaal meiṅ paakizagi nahiṅ hoti
+
+  4
+  Kabhi se nazr-e-Khuda aur kabhi niyaaz-e-Husain
+  Hamaare rizq meiṅ hargiz kamah nahiṅ hoti
+
+  5
+  Wo jin ke chehroṅ pe likha hua hai bughz-e-Ali
+  Hamaari un se kabhi dosti nahiṅ hoti
+
+  6
+  Nabi hai saath magar khauf bhi hai rona bhi
+  Ye kaun hai jise sharmindagi nahiṅ hoti
+
+  7
+  Jo Hasbuna ki taraf chal pare koi Farrukh
+  Jatan hazaar kare waapsi nahiṅ hoti
 ---
 
 نبیؐ کے حق سے اُسے آگہی نہیں ہوتی

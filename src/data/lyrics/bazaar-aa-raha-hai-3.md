@@ -13,29 +13,29 @@ romanLyrics: |-
   Ye kaun khun rota bazaar aa raha hai
 
   1
-  Lab pe sawaal-e-chadar aankhoṅ meiṅ karbala hai
-  Mahol hai sharabi uryan aayateiṅ hai
-  Ghairat ke na khuda par ghurbat ki imtehan hai
+  Lab pe sawaal-e-chaadar aankhoṅ meiṅ Karbala hai
+  Maahaul hai sharaabi uryaan aayateṅ haiṅ
+  Ghairat ke naakhuda par ghurbat ki intiha hai
 
   2
-  Abid haya ka kaaba kaise na khun roye
-  Namus us jari ki balwe meiṅ berida hai
+  Aabid haya ka Kaaba kaise na khun roye
+  Naamus us jari ki balwe meiṅ berida hai
 
   3
-  Ghairat se khun meiṅ tar har aankh hai sina par
-  Darbar waqt e payshi nazdik aa chuka hai
+  Ghairat se khun meiṅ tar har aankh hai sinaaṅ par
+  Darbaar waqt-e-peshi nazdik aa chuka hai
 
   4
-  Hilne lagi zamiṅ aur bazaar thar tharaya
-  Zainab ka patharoṅ se jab zakhmi sar hua hai
+  Hilne lagi zamiṅ aur bazaar thartharaaya
+  Zainab ka pattharoṅ se jab zakhmi sar hua hai
 
   5
-  Baloṅ meiṅ aa chuki hai masooma ke safedi
-  Shimr-e-layiṅ ne uspe itna sitam kiya hai
+  Baaloṅ meiṅ aa chuki hai maasuma ke safedi
+  Shimr-e-laiṅ ne us par itna sitam kiya hai
 
   6
-  Haider kareṅge matam is baat ka hashr tak
-  Sajjad ki jawani bazaar kha gaya hai
+  Haider kareṅ ge maatam is baat ka hashr tak
+  Sajjaad ki jawaani bazaar kha gaya hai
 ---
 
 یہ کون خون روتا بازار آرہا ہے

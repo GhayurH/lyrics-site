@@ -32,7 +32,7 @@ romanLyrics: |-
   Naize pe charh gaya hai wohi sar Ali ke baad
 
   5
-  Kuch khun-e-Murtaza ki hai kuch Karbala ki hai
+  Kuchh khun-e-Murtaza ki hai kuchh Karbala ki hai
   Surkhi jo chha gayi hai falak par Ali ke baad
 
   6
@@ -60,7 +60,7 @@ romanLyrics: |-
   Sehri na aisi hogi mayassar Ali ke baad
 
   12
-  Sab raunaqeiṅ hi ho gayiṅ rukhsat Ali ke saath
+  Sab raunaqeṅ hi ho gayiṅ rukhsat Ali ke saath
   Suna kuchh is tarah se hua ghar Ali ke baad
 
   13
@@ -68,7 +68,7 @@ romanLyrics: |-
   Bigra kuchh is tarah se muqaddar Ali ke baad
 
   14
-  Abbas ro rahe the sambhaale hue alam
+  Abbas ro rahe the sambhaalne hue alam
   Ghar meiṅ tha ek hashr ka manzar Ali ke baad
 
   15
@@ -76,7 +76,7 @@ romanLyrics: |-
   Kya Eid karte Aal-e-Payambar Ali ke baad
 
   16
-  Nauhe Ali ke parhti thiṅ Zainab jigar figaar
+  Nauhe Ali ke parhtiṅ thiṅ Zainab jigar figaar
   Hujre meiṅ roz sham'a jala kar Ali ke baad
 
   17

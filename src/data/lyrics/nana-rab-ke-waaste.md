@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zahra haye zahra
-  Qabre nabi udaas madina udaas hai
+  Zahra haaye Zahra
+  Zahra nabi udaas, Madina udaas hai
   Kamsin Husain nana ke rauze pe aa gaya
-  Nana mere nana mai Husain
+  Nana mere nana, main Husain
   Nana rab ke waaste sun meri dua
-  Bemaar hai ye maa meri dukhiya ko de shifa
-  Jur sakti hai to jor de amma ki phasliyaṅ
-  Ummat ne meri maa ko zakhmi bahot kiya
+  Bimaar hai ye maaṅ meri, dukhiya ko de shifa
+  Jur sakti hai to jor de ammaṅ ki pasliyaṅ
+  Ummat ne meri maaṅ ko zakhmi bahut kiya
   Nana rab ke waaste...
-  Lagte rahe tamache mai dekhta reh gaya
-  Bebas Husain reh gaya maa ko bacha na saka
+  Lagte rahe tamaanche, main dekhta reh gaya
+  Bebas Husain reh gaya, maaṅ ko bacha na saka
   Nana rab ke waaste...
-  Diwar o dar ke darmiyaṅ maa pis ke reh gayi
-  Chilla rahi thi dard se mohsin guzar gaya
+  Divaar o dar ke darmiyaṅ maaṅ pis ke reh gayi
+  Chilla rahi thi dard se, Mohsin guzar gaya
   Nana rab ke waaste...
-  Leti hai jab bhi saans to dukhti hai phasliyaṅ
-  Maa ka ye haal dekh kar phat'ta hai dil mera
+  Leti jab bhi saans to dukhti hai pasliyaṅ
+  Maaṅ ka ye haal dekh kar phat'ta hai dil mera
   Nana rab ke waaste...
-  Pehlu ke dard ke sabab so bhi nahi saki
-  Bacche na roye is liye chup chup ke ki buka
+  Pehlu ke dard ke sabab so bhi nahiṅ saki
+  Bachche na roye is liye chhup chhup ke ki buka
   Nana rab ke waaste...
-  Ummat nahi samajh saki rutba batul ka
-  Darbar meiṅ batul ko jhutla diya gaya
+  Ummat nahiṅ samajh saki rutba Batul ka
+  Darbaar mein Batul ko jhutla diya gaya
   Nana rab ke waaste...
-  Farhan aur mazhar o nashad ro diye
-  Sun kar yeh bain kaamp utha rauza rasul ka
+  Farhan aur Mazhar o Nashad ro diye
+  Sun kar ye bain kaamp utha rauza rasul ka
   Nana rab ke waaste...
 ---
 

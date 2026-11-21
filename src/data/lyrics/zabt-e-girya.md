@@ -27,8 +27,8 @@ romanLyrics: |-
   Aab-e-Zamzam se wuzu bhi jis ko dho sakta nahiṅ
 
   3
-  Aatish-e-dozakh bujha deta hai jab ashk-e-aza
-  Kya ye aaṅsu zulm ki duniya dubo sakta nahiṅ
+  Aatish-e-dozakh bujha deta hai jab ashk-e-azaa
+  Kya ye aansu zulm ki duniya dubo sakta nahiṅ
 
   4
   Karwateṅ jalti zamiṅ par Sheh ki jis ko yaad hai
@@ -39,7 +39,7 @@ romanLyrics: |-
   Mar gaya beta jawaaṅ aur baap ro sakta nahiṅ
 
   6
-  Nazm hai ye ya dur-e-shahwaar ki lariyaaṅ Anis
+  Nazm hai ye ya durr-e-shahwaar ki lariyaaṅ Anis
   Jauhari bhi is tarah moti piro sakta nahiṅ
 ---
 حیّ علی العزا حیّ علی البکا

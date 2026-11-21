@@ -10,53 +10,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab hawaoṅ may nami mehsus ki abbas ne
-  Ehtiyatan saans rokli abbas ne
-  Mauje kausar sar utha kar dekhti hi reh gayi
-  Itni unchayi par rakh di tashnagi abbas ne
-  Ya abbas ya abbas
-  Saja rakhi thi darya par ajab baarat pani ki
-  Bahot karte the ashrare yazidi baat pani ki
-  Magar darya pe pahunche thokare maari chale aaye
-  Batadi hazrate abbas ne auqaad pani ki
-  Kate baazu chidi mashkeeza bachi reh gayi pyasi
-  Zamiṅ pe khun bankar hogayi barsaat pani ki
-  Ya abbas ya abbas
-  Jahaṅ bhi pani o mashk o alam ki baat chali
-  Ali ke laal ke qadmoṅ tale faraat chali
-  Wafa-e-ishq o mohabbat ki kaayanat chali
-  Dua-e-fatema zehra bhi saat saat chali
-  Alam ke dam se hai ab tak hayaat pani ki
-  Jari ki jit hui aur maath pani ki
-  Ya abbas ya abbas
-  Wo ek mashk jo kausar samayt kar nikli
-  Laboṅ pe apne samandar samayt kar nikli
-  Tabassum-e-ali asghar samayt kar nikli
-  Jo ek zarb se laskhar samayt kar nikli
-  Agar na kehti ye aab-e-hayaat pani ki
-  Har ek nigaah se gir jaati zaat pani ki
-  Ya abbas ya abbas
-  Sakina bibi ke saqqe ali ke laal salam
-  Jari sakhi asad-e-sher-e-zuljalaal salam
-  Wafa ki aakhri hadke mahay kamaal salam
-  Nahi hai dono jahaṅ may teri misaal salam
-  Tere kate hue baazu nijaat pani ki
-  Tere badan ka pasina zakaat pani ki
-  Ya abbas ya abbas
-  Himayat-e-shah-e-mazlum may panah abbas
-  Tabaat o jurrat o ghairat ki inteha abbas
-  Janab-e-zainab-e-bekas ka aasra abbas
-  Lab-e-faraath fakad tune ye likha abbas
-  Hamari tashnalabi hai faraath pani ki
-  Hayaat pyasoṅ ki thairi wafaat pani ki
-  Ya abbas ya abbas
-  Meri hayaat ka samaan nasir-e-shabbir
-  Badalta rehta hai jo kaayanat ki taqdir
-  Faraat o mashq o alam jis ki hashr tak jagir
-  Mai aur ye meri tanzim iske dar ke fakheer
-  Bahegi chasm-e-aza se faraat pani ki
-  Chalegi majlis o matam may baat pani ki
-  Ya abbas ya abbas
+  Jab hawaaoṅ mein nami mahsus ki Abbas ne
+  Ehtiyaatan saans rok li Abbas ne
+  Mauj-e-Kausar sar utha kar dekhti hi reh gayi
+  Itni unchaai pe rakh di tashnagi Abbas ne
+  Ya Abbas ya Abbas
+  Saja rakhi thi darya par ajab baaraat paani ki
+  Bahut karte the ashraar-e-Yazidi baat paani ki
+  Magar darya pe pahunche thokreṅ maareṅ chale aaye
+  Bata di Hazrat-e-Abbas ne auqaat paani ki
+  Kate baazoṅ chhidi mashkiza bachi reh gayi pyaasi
+  Zamiṅ pe khun ban kar ho gayi barsaat paani ki
+  Ya Abbas ya Abbas
+  Jahaaṅ bhi paani o mashk o alam ki baat chali
+  Ali ke laal ke qadmoṅ tale Faraat chali
+  Wafa o ishq o mohabbat ki kaainaat chali
+  Duaa-e-Fatema Zehra bhi saath saath chali
+  Alam ke dam se hai ab tak hayaat paani ki
+  Jari ki jit hui aur maat paani ki
+  Ya Abbas ya Abbas
+  Wo ek mashk jo Kausar samet kar nikli
+  Laboṅ pe apne samandar samet kar nikli
+  Tabassum-e-Ali Asghar samet kar nikli
+  Jo ek zarb se lashkar samet kar nikli
+  Agar na kehti ye aab-e-hayaat paani ki
+  Har ek nigaah se gir jaati zaat paani ki
+  Ya Abbas ya Abbas
+  Sakina Bibi ke saqqe Ali ke laal salaam
+  Jari sakhi Asad-e-Sher-e-Zuljalaal salaam
+  Wafa ki aakhri had ke mah-e-kamaal salaam
+  Nahiṅ hai donoṅ jahaaṅ mein teri misaal salaam
+  Tere kate hue baazu najaat paani ki
+  Tere badan ka pasina zakaat paani ki
+  Ya Abbas ya Abbas
+  Himaayat-e-Shaah-e-Mazlum mein panaah Abbas
+  Shujaat o jurrat o ghairat ki intehaa Abbas
+  Janaab-e-Zainab o bekas ka aasra Abbas
+  Lab-e-Faraat faqat tu ne ye likha Abbas
+  Hamaari tashna labi hai Faraat paani ki
+  Hayaat pyaasoṅ ki thehri wafaat paani ki
+  Ya Abbas ya Abbas
+  Meri hayaat ka saamaan Naasir-e-Shabbir
+  Badalta rehta hai jo kaainaat ki taqdir
+  Faraat o mashk o alam jis ki hashr tak jaagir
+  Main aur ye meri tanzim is ke dar ke faqir
+  Bahegi chashm-e-aza se Faraat paani ki
+  Chalegi majlis o maatam mein baat paani ki
+  Ya Abbas ya Abbas
 ---
 
 ۱

@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   Bismillahi nur-e-Khuda
   Bismillahi shams uz zuha
-  Bismillahi ain ul yaqin
+  Bismillahi ain ul yaqiṅ
   Yabna Amir ul mominin
 
   1
@@ -22,7 +22,7 @@ romanLyrics: |-
   Ae dilbar o dildaar-e-man
   Ae sayyid o sardaar-e-man
   Ae rehbar o saalaar-e-man
-  Ali Ali Ali Ali
+  Ali Ali Ali
 
   Ae naazeman daftar-e-man
   Ae mahram o ghamkhwaar-e-man
@@ -33,7 +33,7 @@ romanLyrics: |-
   2
   Bismillahi nur-e-Khuda
   Bismillahi shams uz zuha
-  Bismillahi ain ul yaqin
+  Bismillahi ain ul yaqiṅ
   Yabna Amir ul mominin
   Saarallah Aba Abdillah
 
@@ -64,8 +64,8 @@ romanLyrics: |-
   Wo ibtida ye intiha
   Donoṅ shahaadat ka sila
   Tai silsila tai silsila
-  Har jaa Ali ka khuṅ baha
-  Baha Ali ka khuṅ baha
+  Har jaa Ali ka khuṅ bahaa
+  Bahaa Ali ka khuṅ bahaa
 
   Na aisa koi surma
   Na aisa koi raahbar
@@ -80,14 +80,14 @@ romanLyrics: |-
 
   Haaṅ Ahmad ka nawaasa hai
   Haaṅ Haider ka saraapa hai
-  Haaṅ Zehra ka dulaara hai
+  Haaṅ Zehra ka dilaara hai
   Haaṅ Shabbar ka ye bhaiya hai
   Haaṅ Zainab ka sahaara hai
-  Abbas ka aaqa hai Akbar ka ye Baba hai
+  Abbas ka aaqa hai Akbar ka ye baba hai
   Haaṅ ye Husain hai haaṅ ye Husain hai
 
   Ye ishq-e-rabbaani ye gauhar-e-jaani
-  Ye fahim-e-Quraani ye ahl-e-furqaani
+  Ye fahm-e-Quraani ye ahl-e-furqaani
   Ye zikr-e-tufaani ye nur-e-taabaani
   Yabna Amir ul mominin
   Saarallah Aba Abdillah
@@ -96,10 +96,10 @@ romanLyrics: |-
   Husain phir Husain hai
   Rehaan o Sarwar-e-aza
   Baraa-e-din-e-Mustafa
-  Ye apna ghar luta chuka
+  Ye apna ghar lutaa chuka
   Hazaar zakhm kha chuka
   Jhuka nahiṅ daba nahiṅ
-  Thama raha data raha
+  Thama raha dataa raha
   Jhuka nahiṅ hila nahiṅ
   Daba nahiṅ thama nahiṅ
   Thaka nahiṅ ruka nahiṅ

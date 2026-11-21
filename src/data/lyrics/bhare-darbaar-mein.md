@@ -12,7 +12,7 @@ tags: []
 aliases: ["Bhare Darbar May"]
 published: true
 romanLyrics: |-
-  Bhare darbaar meiṅ Zainab ne sada di Ghaazi
+  Bhare darbaar mein Zainab ne sada di Ghaazi
 
   1
   Teri khwaahar ko kisi ne na rida di Ghaazi
@@ -28,24 +28,24 @@ romanLyrics: |-
   Yuṅ Muhammad ki nawaasi ko saza di Ghaazi
 
   4
-  Aaṅsuoṅ ne likhi tahrir jale daaman par
+  Aansuoṅ ne likhi tahrir jale daaman par
   Dard hote gaye taswir jale daaman par
   Aisi haalat hai Sakina ki bana di Ghaazi
 
   5
-  Dekha jab khun meiṅ tar Fatima jaaya maiṅ ne
-  Bhai ki laash pe tha khud ko giraaya maiṅ ne
-  Maiṅ ne Allah ko ya tujh ko sada di Ghaazi
+  Dekha jab khun mein tar Faatima jaaya main ne
+  Bhai ki laash pe tha khud ko giraaya main ne
+  Main ne Allah ko ya tujh ko sada di Ghaazi
 
   6
   Tez khanjar se kahiṅ tez hai nazroṅ ki chubhan
-  Ab nishaaṅ daal chuki meri kalaai meiṅ rasan
+  Ab nishaaṅ daal chuki meri kalaai mein rasan
   Aane jaane ki na thi behan ye aadi Ghaazi
 
   7
-  Saiṅkroṅ kursi nashiṅ baithe haiṅ darbaar meiṅ dekh
-  Teri khwaahar hai ghiri majma-e-aghyaar meiṅ dekh
-  Karbala Shaamiyoṅ ne Shaam meiṅ laa di Ghaazi
+  Sainkroṅ kursi nashiṅ baithe haiṅ darbaar mein dekh
+  Teri khwaahar hai ghiri majma-e-aghyaar mein dekh
+  Karbala Shaamiyoṅ ne Shaam mein laa di Ghaazi
 
   8
   Ghair ki nazroṅ se Zainab ko chhupaane ke liye
@@ -53,9 +53,9 @@ romanLyrics: |-
   Nok-e-naiza se Kahf sar ne suna di Ghaazi
 
   9
-  Maaf karna hai unheṅ Ahsan o Abid haiṅ kahaaṅ
-  Kal haqiqat meiṅ dhale aaj hai donoṅ ka gumaaṅ
-  Kaash ho hashr meiṅ ik ye bhi munaadi Ghaazi
+  Maaf karna hai unheṅ Ahsan o Aabid haiṅ kahaaṅ
+  Kal haqiqat mein dhale aaj hai donoṅ ka gumaaṅ
+  Kaash ho hashr mein ik ye bhi munaadi Ghaazi
 ---
 
 بھرے دربار میں زینب نے صدا دی غازی

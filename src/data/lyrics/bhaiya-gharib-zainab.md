@@ -15,29 +15,29 @@ romanLyrics: |-
   Laash-e-Husain par hai Zainab ki ye duhaai
 
   1
-  Misl-e-Batul haq se mahrum huṅ maiṅ ab tak
-  Shabbir tere gham meiṅ maghmum huṅ maiṅ ab tak
+  Misl-e-Batul haq se mahrum huṅ main ab tak
+  Shabbir tere gham mein maghmum huṅ main ab tak
   Tarpa rahi hai mujh ko Abbas ki judaai
 
   2
   Afsos ke Sakina naazoṅ se jo pali hai
-  Jo tum ko yaad kar ke zindaan meiṅ chal basi hai
+  Jo tum ko yaad kar ke zindaan mein chal basi hai
   Us ko mili na bhaiya zindaan se rihaai
 
   3
   Hum par sitam ae bhaiya dhaate rahe sitamgar
-  Sayyidaaniyoṅ ke sar meiṅ aati thi khaak ur kar
+  Sayyidaaniyoṅ ke sar mein aati thi khaak ur kar
   Bazaar ka wo manzar Zainab na bhul paayi
 
   4
-  Baaloṅ se muṅh chhupa kar bazaar meiṅ gayi thi
-  Narghe meiṅ ashqiya ke beparda maiṅ khari thi
-  Guzri hai kya behan par kaise batauṅ bhai
+  Baaloṅ se muṅh chhupa kar bazaar mein gayi thi
+  Narghe mein ashqiya ke beparda main khari thi
+  Guzri hai kya behan par kaise bataauṅ bhai
 
   5
   Sajjad ke ye sar par dushwaar marhala tha
   Zanjir ko sambhaale bimaar ro raha tha
-  Aal-e-Nabi khule sar darbaar meiṅ jo aayi
+  Aal-e-Nabi khule sar darbaar mein jo aayi
 
   6
   Sab se bari musibat kya hai kisi ne puchha
@@ -47,7 +47,7 @@ romanLyrics: |-
   7
   Is ek saanihe par aksar Muhib ne socha
   Barbaad ho gaya jab Aal-e-Nabi ka kunba
-  Baad-e-Husain kiuṅ kar baaqi rahi khudaai
+  Baad-e-Husain kiunkar baaqi rahi khudaai
 ---
 بھیا غریب زینب تیرا کفن نہ لائی
 لاشِ حُسین پر ہے زینب کی یہ دُہائی

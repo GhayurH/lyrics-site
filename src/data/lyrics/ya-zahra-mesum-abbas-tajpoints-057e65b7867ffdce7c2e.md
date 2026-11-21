@@ -1,83 +1,156 @@
 ---
-title: "Ya Zahra Mesum Abbas"
+title: "یا زہرا میثم عباس"
+alternateTitle: "Ya Zahra Mesum Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Meesum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Aye Bibi tum jaisi dekhi nahi mazlooma
+  Gham koi aisa ho jo tum ne nahi dekha
+  Ummat ke tanay bhi faqay bhi sahey tum ne
+  Baba ki furqat mein din raat kiya noha
+
+  2
+  Sadmon se bhara har din hai tera
+  Dil kehne laga ya Zahra
+  Pehle tu zalim ne jageer teri cheeni
+  Mani na logon ne tehreer Muhammad ki
+
+  3
+  Tujh ko bhi jhutlaya beton ko bhi jhutlaya
+  Munh dhanpey chadar se tu roti rahi Bibi
+  Par kis ne suna woh noha tera
+  Yeh bhi hai jafa ya Zahra
+
+  4
+  Baad iss ke logon ne jab ghar ko tere ghaira
+  Bachoon ko dhamkaya ik shoor howa barpa
+  Talwarein nezay they our mashalein hathoon mein
+  Youn totay woh zalim ghar phonk diya sara
+
+  5
+  Ghar tera luta darwaza jala
+  Yeh gham hai bara ya Zahra
+  Jab jalta darwaza pehlu pe gira Bibi
+  Bazu bhi zakhmi they pehlu bhi howa zakhmi
+
+  6
+  Darwazay ke opar se ahl-e-sitam guzrey
+  Iss tarha aye Bibi ik our jafa dekhi
+  Mohsin bhi tera dunya se gaya
+  Yeh gham bhi saha ya Zahra
+
+  7
+  Teri ghurbat ki qasam haye meri shehzadi
+  Tu bhi mazloom hai mazloom Ali Maula bhi
+  Ik taraf taig-e-Ali ik taraf hukam-e-Nabi
+  Zakhmi pehlu hai tera unn ke galay mein rasi
+
+  8
+  Jab rasan bandhi gayi teri faryad suni
+  Al-madad shair-e-jali haye kya kartay Ali
+  Aisi tu dunya mein ghurbat na kabhi dekhi
+  Aaya na maiyyat mein Yasrab ka makeen koi
+
+  9
+  Bas dono shehzaday they noha kuna tujh par
+  Dafnaya Maula ne jab tujh ko meri Bibi
+  Chalees jagah marqad tha tera
+  Kyun aisa kiya ya Zahra
+
+  10
+  Waisay tu poshida Bibi teri turbat hai
+  Lekin jo zahir mein marqad ki alamat hai
+  Tareeki roti hai marqad pe tere ab tak
+  Roney par pabandi yeh kaisi muhabbat hai
+
+  11
+  Youn kar ke boka yeh ahl-e-azza
+  Roein gay sada ya Zahra
+  Lafzoon mein likh paye woh zakhm koi kaisay
+  Ummat se jo tum ne hain bad-e-Nabi khaye
+
+  12
+  Roein gay ta mehshar yeh ahl-e-azza Bibi
+  Meesum bhi Mazhar bhi roein gay yehi keh ke
+  Aankhon ki azza matam ki fiza
+  Yeh haq hai tera ya Zahra
 ---
 
-1
-Aye Bibi Tum Jaisi Dekhi Nahi Mazlooma.
-Gham Koi Aisa Ho Jo Tum Ne Nahi Dekha.
-Ummat Ke Tanay Bhi Faqay Bhi Sahey Tum Ne.
-Baba Ki Furqat Mein Din Raat Kiya Noha.
+۱
+اے بی‌بی تم جیسی دیکھی نہیں مظلومہ
+غم کوئی ایسا ہو جو تم نے نہیں دیکھا
+امت کے طعنے بھی فاقے بھی سہے تم نے
+بابا کی فرقت میں دن رات کیا نوحہ
 
-2
-Sadmon Se Bhara Har Din Hai Tera.
-Dil Kehne Laga Ya Zahra.
-Pehle Tu Zalim Ne Jageer Teri Cheeni.
-Mani Na Logon Ne Tehreer Muhammad Ki.
+۲
+صدموں سے بھرا ہر دن ہے تیرا
+دل کہنے لگا یا زہرا
+پہلے تو ظالم نے جاگیر تیری چھینی
+مانی نہ لوگوں نے تحریر محمد کی
 
-3
-Tujh Ko Bhi Jhutlaya Beton Ko Bhi Jhutlaya.
-Munh Dhanpey Chadar Se Tu Roti Rahi Bibi.
-Par Kis Ne Suna Woh Noha Tera.
-Yeh Bhi Hai Jafa Ya Zahra.
+۳
+تجھ کو بھی جھٹلایا بیٹوں کو بھی جھٹلایا
+منہ ڈھانپے چادر سے تو روتی رہی بی‌بی
+پر کس نے سنا وہ نوحہ تیرا
+یہ بھی ہے جفا یا زہرا
 
-4
-Baad Iss Ke Logon Ne Jab Ghar Ko Tere Ghaira.
-Bachoon Ko Dhamkaya Ik Shoor Howa Barpa.
-Talwarein Nezay They Our Mashalein Hathoon Mein.
-Youn Totay Woh Zalim Ghar Phonk Diya Sara.
+۴
+بعد اس کے لوگوں نے جب گھر کو تیرے گھیرا
+بچوں کو دھمکایا اک شور ہوا برپا
+تلواریں نیزے تھے اور مشعلیں ہاتھوں میں
+یوں ٹوٹے وہ ظالم گھر پھونک دیا سارا
 
-5
-Ghar Tera Luta Darwaza Jala.
-Yeh Gham Hai Bara Ya Zahra.
-Jab Jalta Darwaza Pehlu Pe Gira Bibi.
-Bazu Bhi Zakhmi They Pehlu Bhi Howa Zakhmi.
+۵
+گھر تیرا لٹا دروازہ جلا
+یہ غم ہے بڑا یا زہرا
+جب جلتا دروازہ پہلو پہ گرا بی‌بی
+بازو بھی زخمی تھے پہلو بھی ہوا زخمی
 
-6
-Darwazay Ke Opar Se Ahl-e-Sitam Guzrey.
-Iss Tarha Aye Bibi Ik Our Jafa Dekhi.
-Mohsin Bhi Tera Dunya Se Gaya.
-Yeh Gham Bhi Saha Ya Zahra.
+۶
+دروازے کے اوپر سے اہلِ ستم گزرے
+اس طرح اے بی‌بی اک اور جفا دیکھی
+محسن بھی تیرا دنیا سے گیا
+یہ غم بھی سہا یا زہرا
 
-7
-Teri Ghurbat Ki Qasam Haye Meri Shehzadi.
-Tu Bhi Mazloom Hai Mazloom Ali Maula Bhi.
-Ik Taraf Taig-e-Ali Ik Taraf Hukam-e-Nabi.
-Zakhmi Pehlu Hai Tera Unn Ke Galay Mein Rasi.
+۷
+تیری غربت کی قسم ہائے میری شہزادی
+تو بھی مظلوم ہے مظلوم علی مولا بھی
+اک طرف تیغِ علی اک طرف حکمِ نبی
+زخمی پہلو ہے تیرا ان کے گلے میں رسی
 
-8
-Jab Rasan Bandhi Gayi Teri Faryad Suni.
-Al-Madad Shair-e-Jali Haye Kya Kartay Ali.
-Aisi Tu Dunya Mein Ghurbat Na Kabhi Dekhi.
-Aaya Na Maiyyat Mein Yasrab Ka Makeen Koi.
+۸
+جب رسن باندھی گئی تیری فریاد سنی
+المدد شیرِ جلی ہائے کیا کرتے علی
+ایسی تو دنیا میں غربت نہ کبھی دیکھی
+آیا نہ میت میں یثرب کا مکیں کوئی
 
-9
-Bas Dono Shehzaday They Noha Kuna Tujh Par.
-Dafnaya Maula Ne Jab Tujh Ko Meri Bibi.
-Chalees Jagah Marqad Tha Tera.
-Kyun Aisa Kiya Ya Zahra.
+۹
+بس دونوں شہزادے تھے نوحہ کناں تجھ پر
+دفنایا مولا نے جب تجھ کو میری بی‌بی
+چالیس جگہ مرقد تھا تیرا
+کیوں ایسا کیا یا زہرا
 
-10
-Waisay Tu Poshida Bibi Teri Turbat Hai.
-Lekin Jo Zahir Mein Marqad Ki Alamat Hai.
-Tareeki Roti Hai Marqad Pe Tere Ab Tak.
-Roney Par Pabandi Yeh Kaisi Muhabbat Hai.
+۱۰
+ویسے تو پوشیدہ بی‌بی تیری تربت ہے
+لیکن جو ظاہر میں مرقد کی علامت ہے
+تاریکی روتی ہے مرقد پہ تیرے اب تک
+رونے پر پابندی یہ کیسی محبت ہے
 
-11
-Youn Kar Ke Boka Yeh Ahl-e-Azza.
-Roein Gay Sada Ya Zahra.
-Lafzoon Mein Likh Paye Woh Zakhm Koi Kaisay.
-Ummat Se Jo Tum Ne Hain Bad-e-Nabi Khaye.
+۱۱
+یوں کر کے بکا یہ اہلِ عزا
+روئیں گے صدا یا زہرا
+لفظوں میں لکھ پائے وہ زخم کوئی کیسے
+امت سے جو تم نے ہیں بعدِ نبی کھائے
 
-12
-Roein Gay Ta Mehshar Yeh Ahl-e-Azza Bibi.
- Meesum Bhi Mazhar Bhi Roein Gay Yehi Keh Ke.
-Aankhon Ki Azza Matam Ki Fiza.
-Yeh Haq Hai Tera Ya Zahra.
+۱۲
+روئیں گے تا محشر یہ اہلِ عزا بی‌بی
+میثم بھی مظہر بھی روئیں گے یہی کہہ کے
+آنکھوں کی عزا ماتم کی فضا
+یہ حق ہے تیرا یا زہرا

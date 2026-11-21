@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kisi ka ran meiṅ muqaddar bigar gaya jaago
+  Kisi ka ran mein muqaddar bigar gaya jaago
   Nabi ki beti ka ghar baar ujar gaya jaago
 
   Ajal ki nind se tum ko jagaane aaye haiṅ
@@ -31,8 +31,8 @@ romanLyrics: |-
   Utho utho ke gham-e-Shaah manaane aaye haiṅ
 
   3
-  Suno Husain pe Karb o Bala meiṅ kya guzri
-  Jawaan laal ke sine meiṅ gar gayi barchhi
+  Suno Husain pe Karb o Bala mein kya guzri
+  Jawaan laal ke sine mein gar gayi barchhi
   Tumhaare saath hum aansu bahaane aaye haiṅ
   Utho utho ke gham-e-Shaah manaane aaye haiṅ
 
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   5
   Wo jis ka ho gaya barbaad ghar ka ghar saara
-  Jise lainoṅ ne jangal meiṅ gher kar maara
+  Jise lainoṅ ne jangal mein gher kar maara
   Usi ki farsh-e-aza hum bichhaane aaye haiṅ
   Utho utho ke gham-e-Shaah manaane aaye haiṅ
 
@@ -62,12 +62,12 @@ romanLyrics: |-
 
   8
   Tumhaari ruhoṅ ko Allah shaadmaaṅ rakhe
-  Har ek qabr meiṅ jannat ka gulsitaaṅ rakhe
+  Har ek qabr mein jannat ka gulistaaṅ rakhe
   Lahad pe ashkoṅ se shama jalaane aaye haiṅ
   Utho utho ke gham-e-Shaah manaane aaye haiṅ
 
   9
-  Kahiṅ bhi dunya meiṅ hoṅge zarur aayeṅge
+  Kahiṅ bhi dunyaa mein hoṅge zarur aayeṅge
   Tumhaari qabroṅ pe farsh-e-aza bichhaayeṅge
   Jo dil ka haal hai tum ko bataane aaye haiṅ
   Utho utho ke gham-e-Shaah manaane aaye haiṅ

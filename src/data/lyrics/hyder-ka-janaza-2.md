@@ -11,66 +11,66 @@ aliases: []
 published: false
 romanLyrics: |-
   Kufe meiṅ har ek samt ajab shor bapa hai
-  Sajde meiṅ namazi pa bada zulm hua hai
+  Sajde meiṅ namazi pe bapa zulm hua hai
 
   1
-  Is zulm ki shiddat se jahaṅ kaamp raha hai
-  Sab rote hai maghmoon zamane ki sada hai
-  Hyder ka janaza hai ye hyder ka janaza
-  Hasnain ke kaandhoṅ pe hai hyder ka janaza
+  Is zulm ki shiddat se jahaaṅ kaamp raha hai
+  Sab rote haiṅ maghmum zamane ki sada hai
+  Hyder ka janaza hai ye Hyder ka janaza
+  Hasnain ke kaandhoṅ pe hai Hyder ka janaza
 
   2
-  Ae momino sarwar ki yatimi ka hai ye waqt
-  Kulsum ki shabbar ki yatimi ka hai ye waqt
+  Ae mominoṅ Sarwar ki yatimi ka hai ye waqt
+  Kulsum ki Shabbar ki yatimi ka hai ye waqt
   Ab uthne ko tayyar hai rehbar ka janaza
   Hyder ka janaza...
 
   3
-  Zainab ki bhi aankhoṅ meiṅ nazar aate hai aansu
-  Abbas jo rote hai ajab hashr hai har soo
-  Ae shio hai ye diṅ ke muqaddar ka janaza
+  Zainab ki bhi aankhoṅ meiṅ nazar aate haiṅ aansuṅ
+  Abbas jo rote haiṅ ajab hashr hai har suṅ
+  Ae Shioṅ hai ye diṅ ke muqaddar ka janaza
   Hyder ka janaza...
 
   4
-  Rone ki sadayeiṅ hai ajab aah o fughaṅ hai
-  Jibril ke hontoṅ pe musalsal ye bayaṅ hai
-  Kufe meiṅ utha faatahe khyber ka janaza
+  Rone ki sadaeṅ haiṅ ajab aah o fughaaṅ hai
+  Jibril ke hontoṅ pe musalsal ye bayaaṅ hai
+  Kufe meiṅ utha faateh-e-Khaibar ka janaza
   Hyder ka janaza...
 
   5
-  Hasnain se ek ye bhi wasiyat thi ali ki
+  Hasnain se ek ye bhi wasiyat thi Ali ki
   Le jaana ujaale meiṅ na mayyat ko hamari
   Betoṅ hai payambar ke dilawar ka janaza
   Hyder ka janaza...
 
   6
-  Wo bibi ke jis bibi ki tori gayi phasli
-  Mazlooma wohi bibi payambar ki thi beti
-  Hai ye us gham-khayi ke shohar ka janaza
+  Wo Bibi ke jis Bibi ki tori gai phansli
+  Mazluma wohi Bibi payambar ki thi beti
+  Hai ye us gham khai ke shohar ka janaza
   Hyder ka janaza...
 
   7
-  Ae momino rowo ke ali hogaye ruqsat
-  Hai qaana e zehra meiṅ bapa ek qayamat
-  Uthta hai zamane ke bahadar ka janaza
+  Ae mominoṅ ro'o ke Ali ho gae rukhsat
+  Hai khana-e-Zehra meiṅ bapa ek qayamat
+  Uthta hai zamane ke bahadur ka janaza
   Hyder ka janaza...
 
   8
-  Kis tarha bhala inki musibat likhe koi
-  Rone ke liye momino jumla hai ye kaafi
-  Hyder ka janaza hai ye hyder ka janaza ye
+  Kis tarah bhala in ki musibat likhe koi
+  Rone ke liye mominoṅ jumla hai ye kaafi
+  Hyder ka janaza hai ye Hyder ka janaza
   Hyder ka janaza...
 
   9
-  Is waaste ghazi ne ki sarwar se wasiyat
-  Maula nahi le jaana meri qaimon meiṅ mayyat
-  Uthta nahi bhai se baradar ka janaza
+  Is waaste Ghazi ne ki Sarwar se wasiyat
+  Maula nahiṅ le jaana meri khaimoṅ meiṅ mayyat
+  Uthta nahiṅ bhai se baradar ka janaza
   Hyder ka janaza...
 
   10
-  Hyder ke janaze ko bhi sarwar ne uthaya
-  Irfan sharar phat'ta hai ye sunke kaleja
-  Maidan se utha nahi sarwar ka janaza
+  Hyder ke janaze ko bhi Sarwar ne uthaya
+  Irfan Sharar phatta hai ye sun ke kaleja
+  Maidan se uthta nahiṅ Sarwar ka janaza
   Hyder ka janaza...
 ---
 

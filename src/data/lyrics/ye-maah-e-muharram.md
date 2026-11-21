@@ -23,7 +23,7 @@ romanLyrics: |-
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   2
-  Is maah-e-Muharram ne qayaamat ye dikhaai
+  Is maah-e-Muharram ne qayaamat ye dikhaaya
   Is chaand ne Sughra ko khabar jaa ke sunaai
   Viraan Madina hai basi Karb o Bala hai
   Maatam ye Muhammad ke nawaase ka bapa hai
@@ -41,9 +41,9 @@ romanLyrics: |-
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   5
-  Aashur ka din bhul na paayega zamaana
+  Aashur ka din bhul na paaye ga zamaana
   Luta gaya us roz Muhammad ka gharaana
-  Us roz se dunya meiṅ bichhi farsh-e-aza hai
+  Us roz se duniya meiṅ bichhi farsh-e-aza hai
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   6
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   7
   Wo Aun o Muhammad Ali Akbar Ali Asghar
-  Wo Qaasim-e-naushaah wo Abbaas-e-dilaawar
+  Wo Qaasim-e-Naushaah wo Abbaas-e-Dilaawar
   Maqtal inhiṅ shehzaadoṅ ke zakhmoṅ se saja hai
   Maatam ye Muhammad ke nawaase ka bapa hai
 

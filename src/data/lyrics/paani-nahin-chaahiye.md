@@ -15,38 +15,38 @@ romanLyrics: |-
   Dhal gaya din wo takti rahi raasta
   Haath se daamaan-e-sabr jaata raha
   Rukh kiya su-e-darya ye ro kar kaha
-  Chacha jaan paani nahiṅ chaahiye
+  Chaacha jaan paani nahiṅ chaahiye
 
-  Bas ab aap darya se aa jaiye
+  Bas ab aap darya se aa jaaiye
 
   1
   Meri pyaas to tum se barh kar nahiṅ
-  Maiṅ mar jaauṅ gi mera kar lo yaqin
-  Mujhe raas aai na ye sar zamin
+  Main mar jaauṅ gi mera kar luṅ yaqin
+  Mujhe raas na aai na ye sar zamin
   Khudaara na ab aur tarpaaiye
 
   2
-  Chacha mujh ko maalum hota agar
+  Chaacha mujh ko maalum hota agar
   Nahiṅ aaeṅ ge aap bhi laut kar
-  To phir mashk deti nahiṅ nauhagar
+  To phir mashk deti nahiṅ nauha gar
   Meri mashk khaali hi le aaiye
 
   3
   Na jaane wo kaisi ghari aai thi
   Padar se ijaazat jo dilwaai thi
-  Maiṅ khud apni ghurbat se ghabraai thi
+  Main khud apni ghurbat se ghabraai thi
   Khata darguzar meri farmaaiye
 
   4
-  Chacha ye Sakina ka waada raha
+  Chaacha ye Sakina ka waada raha
   Ke ab al-atash ki na duṅ gi sada
   Bina aap ke hai ye jina saza
   Jiuṅ kaise itna to batlaaiye
 
   5
-  Sakina pe jaaṅ dene wale chacha
-  Kiya mujh ko kis ke hawaale chacha
-  Bhula duṅ gi hontoṅ ke chhaale chacha
+  Sakina pe jaaṅ dene wale chaacha
+  Kiya mujh ko kis ke hawaale chaacha
+  Bhula duṅ gi hontoṅ ke chhaale chaacha
   Mujhe aa ke sine se liptaaiye
 
   6
@@ -58,14 +58,14 @@ romanLyrics: |-
   7
   Chhidi mashk meri koi gham nahiṅ
   Meri aas tuti koi gham nahiṅ
-  Maiṅ pyaasi rahuṅ gi koi gham nahiṅ
-  Dawa mere zakhmoṅ ki ban jaiye
+  Main pyaasi rahuṅ gi koi gham nahiṅ
+  Dawa mere zakhmoṅ ki ban jaaiye
 
   8
   Ye Mazhar ye Mesum ye ahl-e-aza
   Yehi keh ke karte haiṅ maatam bapa
   Ye jumla Sakina ka hai marsiya
-  Bas ab aap darya se aa jaiye
+  Bas ab aap darya se aa jaaiye
 ---
 ڈھل گیا دن وہ تکتی رہی راستہ
 ہاتھ سے دامانِ صبر جاتا رہا

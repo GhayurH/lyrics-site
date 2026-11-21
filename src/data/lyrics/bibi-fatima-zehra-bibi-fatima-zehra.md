@@ -7,6 +7,44 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bibi Faatima Zehra, Bibi Faatima Zehra
+  Ummat ne diya tujh ko, sadma bara gehra
+
+  1
+  Ji bhar ke main Baaba par, girya bhi na kar paai
+  Is gham se mire dil par, ranjida ghataa chhaai
+  Zaalim ne lagaaya hai, rone pe bhi pehra
+
+  2
+  Kitne hi masaaib ko, Haidar se chhupaaya hai
+  Sadme haiṅ sahe dil par, kuchh bhi na bataaya hai
+  Ghut ghut ke tira Bibi, har lamha hai guzra
+
+  3
+  Jalta hua darwaaza, faasiq ne giraaya hai
+  Baazu pe tire Bibi, durra bhi lagaaya hai
+  Yuṅ Bint-e-Paighambar ko, ummat ne hai maara
+
+  4
+  Darbaar bulaaya hai, naamoos-e-risaalat ko
+  Tukroṅ meiṅ uraaya hai, Ahmad ki ibaarat ko
+  Donoṅ ka hai is dil par, sadma bara gehra
+
+  5
+  Roti hi rahiṅ Zehra, hanste rahe darbaari
+  Haq chhina gaya Bibi, thi pehle se tayaari
+  Jhutlaana hai Zehra ko, ye faisla thehra
+
+  6
+  Zainab ke gham-e-maadar, meiṅ aansu nahiṅ rukte
+  Dil maaṅ ki judaai par, Hasnain ke haiṅ dukhte
+  Aulaad-e-Paighambar ko, hai sadmoṅ ne ghera
+
+  7
+  Rizwaan sadaa de kar, Mahdi ko bulaaeṅ ge
+  Zehra pe jo dhaae haiṅ, sab zulm bataaeṅ ge
+  Phir chhup nahiṅ paae ka, qaatil tira chehra
 ---
 
 بی‌بی فاطمہ زہراؑ، بی‌بی فاطمہ زہراؑ

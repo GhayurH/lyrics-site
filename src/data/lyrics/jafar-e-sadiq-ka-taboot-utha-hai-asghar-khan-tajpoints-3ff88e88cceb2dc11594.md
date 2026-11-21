@@ -1,29 +1,48 @@
 ---
-title: "Jafar E Sadiq Ka Taboot Utha Hai Asghar Khan"
+title: "جعفرِ صادق کا تابوت اٹھا ہے اصغر خان"
+alternateTitle: "Jafar-e-Sadiq Ka Taboot Utha Hai Asghar Khan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Basharat"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Jafar e Sadiq ka taboot utha hai Asghar Khan
+  Kazim ke baba ko zehar ummat ne diya hai
+  Jis tarha Zahra ke ghar ko aag lagai gayi
+  Jafar ka ghar bhi aisay hi ummat se jala hai
+
+  2
+  Zehar ka howa asar tu yaad Hasan aaye they
+  Jafar ne apne dada ki sunat ki ada hai
+  Betiyaan Jafar ki ro ro ho gayin be haal thin
+  Sadiq Imam ke ghar mein kuhram bapa hai
+
+  3
+  Nikla hai phir se janaza Fatima ke ghar se
+  Aoulad-e-Syeda se yeh ummat ki wafa hai
+  Miltay hain alfaz Basharat jo tujhey likhney ko
+  Syeda ki dua hai yeh Qayam ki atta hai
 ---
 
-1
-Jafar e Sadiq Ka Taboot Utha Hai Asghar Khan.
-Kazim Ke Baba Ko Zehar Ummat Ne Diya Hai.
-Jis Tarha Zahra Ke Ghar Ko Aag Lagai Gayi.
-Jafar Ka Ghar Bhi Aisay Hi Ummat Se Jala Hai.
+۱
+جعفرِ صادق کا تابوت اٹھا ہے اصغر خان
+کاظم کے بابا کو زہر امت نے دیا ہے
+جس طرح زہرا کے گھر کو آگ لگائی گئی
+جعفر کا گھر بھی ایسے ہی امت سے جلا ہے
 
-2
-Zehar Ka Howa Asar Tu Yaad Hasan Aaye They.
-Jafar Ne Apne Dada Ki Sunat Ki Ada Hai.
-Betiyaan Jafar Ki Ro Ro Ho Gayin Be Haal Thin.
-Sadiq Imam Ke Ghar Mein Kuhram Bapa Hai.
+۲
+زہر کا ہوا اثر تو یاد حسن آئے تھے
+جعفر نے اپنے دادا کی سنت کی ادا ہے
+بیٹیاں جعفر کی رو رو ہو گئیں بے حال تھیں
+صادق امام کے گھر میں کہرام بپا ہے
 
-3
-Nikla Hai Phir Se Janaza Fatima Ke Ghar Se.
-Aoulad-e-Syeda Se Yeh Ummat Ki Wafa Hai.
-Miltay Hain Alfaz Basharat Jo Tujhey Likhney Ko.
-Syeda Ki Dua Hai Yeh Qayam Ki Atta Hai.
+۳
+نکلا ہے پھر سے جنازہ فاطمہ کے گھر سے
+اولادِ سیدہ سے یہ امت کی وفا ہے
+ملتے ہیں الفاظ بشارت جو تجھے لکھنے کو
+سیدہ کی دعا ہے یہ قائم کی عطا ہے

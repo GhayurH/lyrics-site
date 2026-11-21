@@ -7,57 +7,35 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Yeh qaid mein Ali Akbar ki maa ka naala hai
-
+romanLyrics: |-
+  Yeh qaid meiṅ Ali Akbar ki maaṅ ka naala hai
 
   1
-
-  Nahi woh chand jo dil ka mere ujala hai
-
-  Merey jawan ko, naizon se maar daala hai
-
-  Kaleyja cheer ke barchhi ka phal nikala hai
-
-  Ghazab hai laash ko ghoron se rond daala hai
-
+  Nahiṅ woh chaand jo ghar ka mere ujaala hai
+  Mere jawaan ko nezoṅ se maar daala hai
+  Kaleja tor ke barchhi ka phal nikaala hai
+  Ghazab hai laash ko ghoroṅ se raund daala hai
 
   2
-
-  Batao logon usey dhoondney kahan jaoon
-
-  Main apney Akbar e mah roo ko kis tarha paoon
-
-  Miley to apney kalejey se usko liptaoon
-
-  Woh mer gaya hai yeh kis tarha dil ko samjhaoon
-
-  Arey kahan mera atthara saal wala hai
-
+  Bataao logo! Ke dhundne kidhar jaauṅ
+  Main apne Akbar Mahru ko kis tarah paauṅ
+  Mile to apne kaleje se usko liptaauṅ
+  Mar gaya hai yeh kis tarah dil ko apne samjhaauṅ
+  Are kahaaṅ mera athaarah saal waala hai
 
   3
-
-  Khuda ke waastey ab ran se ao ae Akbar
-
-  Laeen satatey hain aa ker bachao ae Akbar
-
-  Khuley seron pey ridayein urhao ae Akbar
-
-  Phupi ke haal pe ab rehem khao ae Akbar
-
-  Tarap ke kehti theen kin kin dukhon se paala hai
-
+  Khuda ke waaste ab ran se aao ae Akbar
+  Laa'iṅ sataate haiṅ aa ke bachaao ae Akbar
+  Khule saroṅ pe ridaaeṅ urhaao ae Akbar
+  Phuphi ke haal pe ab rahm khaao ae Akbar
+  Tarap ke kehti thi kin kin dukhoṅ se paala hai
 
   4
-
-  Batao sabr karey kis tarha dil e madar
-
-  Shabeeh e Ahmed e Mukhtaar they tum ae Akbar
-
-  Tumharey ghum mein merey dil pe chaltey hain khanjar
-
-  Tumharey baad jahan se gaye Ali Asghar
-
-  Malaal doona hai, dil ko qalaq dobaala hai'
+  Bataao sabr kar le kis tarah se yeh maadar
+  Shabih Ahmad-e-Mukhtaar the tum ae dilbar
+  Tumhaare gham meiṅ mere dil pe chalte haiṅ khanjar
+  Tumhaare baad jahaaṅ se gaye Ali Asghar
+  Malaal dugna hai dil ko khalq dobaala hai
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 ---
 

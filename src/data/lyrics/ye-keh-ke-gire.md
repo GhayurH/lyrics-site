@@ -37,7 +37,7 @@ romanLyrics: |-
   Kuchh bhi na kiya dasht meiṅ taqdir ne meri
   Ghurbat meiṅ kamar torti taqdir ne meri
   Khaime meiṅ bare naaz se hamshir ne meri
-  Taawiz dua ka abhi baandha tha inhiṅ par
+  Taawiz-e-dua ka abhi baandha tha inhi par
 
   3
   Armaan mere bhaai ke tukroṅ meiṅ bate haiṅ
@@ -71,7 +71,7 @@ romanLyrics: |-
   Akhtar hai pharere se ayaaṅ khun ki laali
   Kohraam hai Aamir ke alam aaya hai khaali
   Pyaasoṅ ki har ummid hai ab tutne waali
-  Do haath haiṅ haathoṅ meiṅ liye Sayyad-e-Aali
+  Do haath hai haathoṅ meiṅ liye Sayyid-e-Aali
   Har Bibi se kehti hai Sakina ye tarap kar
 
   8

@@ -9,40 +9,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Bas Aik Janaza Baaqi Hai
-  Aajaye Imam-e-Zaman Abhi, Bas Aik Janaza Baaqi Hai
+  Aajaa ae Imam-e-Zaman abhi, bas aik janaza baaqi hai
 
   1
-  Sab lashe uthakar lekeh gaye, Shabbir ka lasha baaqi hai
-  Wo burz aur teero se na pathar kitna tardpa Zehra ka pisar
-  Hai jism zameen par karbal ki, aur sar hai noke nayza par
-  Garden hai qati qible ki taraf, Wo aakhri sajda baaqi hai
-  Kahta hai koi mazloom hame, koi to chahe wala hai
+  Sab laashe utha kar le bhi gaye, Shabbir ka laasha baaqi hai
+  Wo gurz o tir o sinaaṅ patthar, kitna tarpa Zehra ka pisar
+  Hai jism zamiṅ par Karbal ki, aur sar hai nok-e-neza par
+  Gardan hai kati qible ki taraf, wo aakhri sajda baaqi hai
+  Kehta hai har ik mazlum hameṅ, koi to chaahne wala hai
   Jo adl se duniya ko bhar de, aisa koi aane wala hai
-  Har qoum ki ek ummeed hai bus aye deen ka sahara baaqi hai
-  Sab ahle aza maanga ab,ho jaaye zahoor abhi logo
-  Athara baras ka ek jawaan, dam tordh raha hai deko to
-  Sehra akbar ke sar pe saja, wo qaaishe sughra baaqi hai
-  Aako mein imam-e-asr ke hai, wo sham e gareeba ka manzar
-  Naize ki anee se cheeni gayi zehra ke beti se chaadar
-  Naize se jo sar pa zakm laga, us zakhm ka badla baaqi hai.
-  Wo waasib tha darbare shaqi wo, manzil shaam aur kufa ki
-  Zehra se fiddak ko cheena gaya, zainab se chaadar cheeni gayi
-  Dono darbar thay zalim ke, dono ka badla baaqi hai.
-  Ek laash hai qaima-e-qaibat mein, ek pal maula ko qaraar nahi
-  Kis karb se maula kahte hai, naser mera taiyaar nahi,
-  Wo laasha-e-sheh ke tukde hai, taboot uthana baaqi hai.
-  Maae phupiya hai saat qaadhi, hai sar ko jhukaaee gairat se
-  Nabiyo valiyo to sakta hai Sajjad ke gham ki shiddat se
-  Yeh shaam ki galiyo se guzarna hai, darbaar mein jana baaqi hai
-  Saaye mein kabhi nahi aati hai, maa qaali jhula jhulati hai
-  Pamaal lahad ki baqaiye se zehra ki saada yeh aati hai
-  Pyaasa hai ali asghar ab bhi, mohsin ka badla baaqi hai
-  Rone nahi dete baba ko hai koaf sakina par tariff
-  Zindaan se sakina mar bhi gayi, kaano se khoon ab bhi jaari
-  Wo shimr ke muh par lagna hai, har aik tamacha baaqi hai
-  Be maqna aur chaadar ahle haram, hai kufa aur shaam mein mehva safar
-  Yeh saatwe dar par zainab ne, sajaad ko phoocha ro ro kar
-  Ab kitni manzil rahti hai ab kitna rasta baaqi hai,
+  Har qaum ki ik umid hai bas, Mahdi ka sahaara baaqi hai
+  Sab ahl-e-aza maaṅgeṅ ye dua, ho jaaye zuhur abhi logo
+  Athaarah baras ka aik jawaaṅ, dam tor raha hai dekho to
+  Sehra Akbar ke sar pe saje, wo khwaahish-e-Kubra baaqi hai
+  Aankhoṅ mein Imam-e-Asr ke hai, wo shaam-e-gharibaaṅ ka manzar
+  Neze ki ani se chhini gayi, Zehra ki beti se chaadar
+  Neze se jo sar pe zakhm laga, us zakhm ka badla baaqi hai
+  Wo ghaasib ka darbaar-e-shaqi, wo manzil Shaam aur Kufa ki
+  Zehra se Fadak ko chhina gaya, Zainab se chaadar chhini gayi
+  Donoṅ darbaar the zaalim ke, donoṅ ka badla baaqi hai
+  Ik laash hai khaima-e-ghaibat mein, ik pal Maula ko qaraar nahiṅ
+  Kis karb se Maula kehte haiṅ, naukar mere taiyaar nahiṅ
+  Ye laasha-e-Shah ke tukre haiṅ, taabut uthaana baaqi hai
+  Haaye phuphiyaaṅ haiṅ saath khari, hai sar ko jhukaaye ghairat se
+  Nabiyoṅ waliyoṅ ko sakta hai, Sajjad ke gham ki shiddat se
+  Ye Shaam ki galiyoṅ se guzra, darbaar mein jaana baaqi hai
+  Saaye mein kabhi nahiṅ aati hai, maaṅ khaali jhula jhulaati hai
+  Paamaal lahad se Baqiye ki, Zehra ki sada ye aati hai
+  Pyaasa hai Ali Asghar ab bhi, Mohsin ka badla baaqi hai
+  Rone nahiṅ dete Baba ko, hai khauf Sakina par taari
+  Zindaan mein Sakina mar bhi gayi, kaanoṅ se hai khuṅ ab bhi jaari
+  Jo Shimr ke muṅh par lagna hai, har aik tamaancha baaqi hai
+  Be maqna o chaadar ahl-e-haram, haiṅ Kufa o Shaam mein mahv-e-safar
+  Ye saatveṅ dar par Zainab ne, Sajjad se puchha ro ro kar
+  Ab kitni manzileṅ rehti haiṅ, ab kitna rasta baaqi hai
+  Roya hai Qamar lamha lamha, aur khun-e-jigar se likha bhi
+  Parhta huṅ ziyarat-e-Naahiya, parhta huṅ dua-e-Nudba bhi
+  Jo karb-e-Imam bayaaṅ kar de, wo nauha likhna baaqi hai
 ---
 
 بس ایک جنازہ باقی ہے

@@ -18,35 +18,35 @@ romanLyrics: |-
   Bas alam khalq hua hai to bara-e-Abbas
   Kaun sartaaj-e-wafa ka hai siwa-e-Abbas
   Jab tak is sher ka ik naqsh-e-qadam baaqi hai
-  Yuṅ samajhiye ke wafaoṅ ka bharam baaqi hai
+  Yuṅ samajhiye ke wafaaoṅ ka bharam baaqi hai
 
   2
   Nazd-e-gahwara-e-Abbas jo Shabbir gaye
   Dekh kar chehra-e-maulud sana karne lage
   Aur jabiṅ dekh ke Abbas ki phir yuṅ bole
   Keh do ye ja ke ibaadat se ke wo aah bhare
-  Ittibaa aur itaaat ka nizaam aaya hai
-  Mazhab-e-zabt o shujaaat ka imaam aaya hai
+  Ittibaa aur itaat ka nizaam aaya hai
+  Mazhab-e-zabt o shujaat ka imaam aaya hai
 
   3
   Dekha Haidar ne jo Shabbir ka Abbas se pyaar
   Muskura kar kaha bete se pidar tum pe nisaar
-  Chhote bhai ka koi naam bhi rakha Zinihar
+  Chhote bhaai ka koi naam bhi rakha zinhaar
   Ki Husain Ibn-e-Ali ne ye Ali se guftaar
-  Ewaz-e-tauhid ka aks kaheṅ ge in ko
+  Iwaz-e-tauhid ka aks kaheṅ ge in ko
   Baaba ham aaj se Abbas kaheṅ ge in ko
 
   4
   Koi Abbas ke kirdaar ki kya de ga misaal
   In ki aankhoṅ meiṅ hai Quraan-e-muhabbat ka jamaal
   Hai khayaal in ka wohi jo hai imaamat ka khayaal
-  In ke kirdaar ki rifaat meiṅ nahiṅ koi sawaal
-  Aisi rifaat ke jahaaṅ sarhad-e-ismat mil jaaye
+  In ke kirdaar ki rifat meiṅ nahiṅ koi sawaal
+  Aisi rifat ke jahaaṅ sarhad-e-ismat mil jaaye
   Do qadam aage barhe aur imaamat mil jaaye
 
   5
   Ye mawaddat ke gulistaaṅ ki bemisaal bahaar
-  Wo chacha hai jo bhatiji ki adaaoṅ pe nisaar
+  Wo chaacha hai jo bhatiji ki adaaoṅ pe nisaar
   Aas bachchoṅ ki bhi aur ahl-e-haram ka haiṅ hisaar
   Aaj bhi fauj-e-Husaini ke haiṅ parcham bardaar
   Ye alam chum ke jannat ki hawa paao ge

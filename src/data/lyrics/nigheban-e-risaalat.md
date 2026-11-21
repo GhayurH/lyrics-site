@@ -25,19 +25,19 @@ romanLyrics: |-
   Dafn kar di jis ne istibdaad ki ghaaratgari
   But taraashi, but parasti, but nawaazi, but gari
   Jis ne bakhshi thi tujhe tauqir-e-irfaaṅ yaad kar
-  Ae Bani Aadam Abu Talib ke ehsaan yaad kar
+  Ae Bani Aadam Abu Taalib ke ehsaan yaad kar
 
   3
   Shaikh-e-Batha, Naasir-e-din, Sayyid-e-aali nasab
   Bahr-e-ilm o fazl o shahr-e-jud o miyaar-e-adab
-  Pa liye jis ne rumuz-e-aadmiyat betalab
+  Pa liye jis ne rumuz-e-aadmiyat be talab
   Jis ki haibat se larazte the khad o khaal-e-Arab
   Woh sakhi jo askhiya meiṅ misaal apni aap tha
   Woh bahaadur jo shujaaat meiṅ Ali ka baap tha
 
   4
   Woh nabuwwat ka musaddiq woh ukhuwwat ka madaar
-  Jis ne bakhsha zof-e-insaani ko Yazdaaṅ ka waqaar
+  Jis ne bakhsha zaf-e-insaani ko Yazdaaṅ ka waqaar
   Woh mizaaj-e-aashti ki saltanat ka taajdaar
   Jis ki nasloṅ meiṅ nihaaṅ thi quwwat-e-Parwardigaar
   Hausla jis ka mizaaj-e-azm-e-Sarwar ho gaya
@@ -47,7 +47,7 @@ romanLyrics: |-
   Jis ke chehre pe farozaaṅ thi shujaaat ki shafaq
   Jis ki aaṅkhoṅ meiṅ rawaaṅ thi aadmiyat ki ramaq
   Jis ki peshaani thi taarikh-e-sadaaqat ka waraq
-  Woh Abu Talib jise matlub tha irfaan-e-Haq
+  Woh Abu Taalib jise matlub tha irfaan-e-Haq
   Jis ne sine se lagaaya haadisoṅ ko jhum ke
   Chha gaya jo zindagi par maut ka muṅh chum ke
 
@@ -69,14 +69,14 @@ romanLyrics: |-
 
   8
   Jis ne har mushkil meiṅ ki ho waaris-e-din ki madad
-  Jis ki gard-e-pa ko chume Fatima bint-e-Asad
-  Jo Ali se Mehdi-e-din tak imaamat ki ho jad
+  Jis ki gard-e-pa ko chume Faatima bint-e-Asad
+  Jo Ali se Mahdi-e-din tak imaamat ki ho jad
   Jis ke bete ko mili ho kul-e-imaan ki sanad
   Kaun kehta hai ke us ke dil meiṅ jazb-e-dil na tha
   Kaun kehta hai ke woh khud momin-e-kaamil na tha
 
   9
-  Jis ke lab sarchashma-e-ejaaz-e-sad hamd o durud
+  Jis ke lab sarchashma-e-ijaaz-e-sad hamd o durud
   Jis ke lehje meiṅ khumaar-e-aaya-e-Haq ka durud
   Jis ke paikar jalwa-e-sad rang ki jaaye namud
   Tor daaleiṅ jis ne aasaar-e-jahl ki saari quyud
@@ -95,14 +95,14 @@ romanLyrics: |-
   Woh shuur o ilm o hikmat ka haqiqi imtizaaj
   Jis ke farq-e-naaz par jachta ho sardaari ka taaj
   Ye bhi kya kam hai, bashar ki aadmiyat ka mizaaj
-  Aaj tak Shaib-e-Abi Talib ko deta hai khiraaj
+  Aaj tak Shaib-e-Abi Taalib ko deta hai khiraaj
   Kis ko andaaza hai us ki azmat-e-imaan ka
-  Baani-e-Islam khud mamnun hai Imran ka
+  Baani-e-Islam khud mamnun hai Imraan ka
 
   12
   Ae muarrikh waqt ke maghrur kirdaaroṅ se puchh
   Puchh, taarikh-e-Arab ke sab sitamgaroṅ se puchh
-  Karbala meiṅ tuti beloch talwaaroṅ se puchh
+  Karbala meiṅ tuti be loch talwaaroṅ se puchh
   Shaam ki galiyoṅ se, chauraahoṅ se, baazaaroṅ se puchh
   Zurriyat kis ki Yazidi hausloṅ par chha gayi?
   Kis ki poti zulm o istibdaad se takra gayi?
@@ -111,7 +111,7 @@ romanLyrics: |-
   Bol ae taarikh ke zinda usuloṅ ki zabaaṅ
   Kis ke baam o dar se takraati rahi haiṅ bijliyaaṅ?
   Kaun baatil ke muqaabil aaj tak hai kaamraan?
-  Su-e-Kufa pa bajolaaṅ tha woh kis ka kaarwaaṅ?
+  Su-e-Kufa paa ba jaulaaṅ tha woh kis ka kaarwaaṅ?
   Kis ne sadmoṅ ko sada di Haq pasandi ke liye?
   Kis ka ghar ujra tha din ki sarbulandi ke liye?
 ---

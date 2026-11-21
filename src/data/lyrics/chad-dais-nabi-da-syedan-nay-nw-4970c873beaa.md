@@ -1,40 +1,59 @@
 ---
-title: "Chad Dais Nabi Da Syedan Nay"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "چھڈ دیس نبی دا سیداں نے"
+alternateTitle: "Chad Dais Nabi Da Syedan Nay"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chad dais Nabi da Syedan nay vich Karbal deray laye nay
+  Mehman nawazi khoob howi, ghut paani toh tarsaye nay
+
+  1
+  Meri khoob tazeem howi Nana, teri aal yateem howi Nana
+  Meray piyo day maran diyan khabran
+  Kujh rahi lay kay aaye nay
+
+  2
+  Teray putar Qasim di shaadi tay,
+  Ditay laag Syedaniyan wadh wadh kay
+  Kaye sir ran diyan chadaran day chadiyan
+  Kay bachray vail karaye nay
+
+  3
+  Ro kehndi Hussain di jaaye ay, kay raat suhag di aaye ay
+  Meray na sohray na paykay rahay
+  Kai din shagna day aaye nay
+
+  4
+  Mera Akhtar peer namazi ay jainda veer Abbas na Ghazi ay
+  Jinhay deen di bachawan laye
+  Apnay bazoon katwaye nay
 ---
 
-Chad Dais Nabi Da Syedan Nay Vich Karbal Deray Laye Nay.
+چھڈ دیس نبی دا سیداں نے وچ کربل ڈیرے لائے نے
+مہمان نوازی خوب ہوئی، گھٹ پانی توں ترسائے نے
 
-Mehman Nawazi Khoob Howi  Ghut Paani Toh Tarsaye Nay.
+۱
+میری خوب تعظیم ہوئی نانا، تیری آل یتیم ہوئی نانا
+میرے پیو دے مرن دیاں خبراں
+کجھ راہی لے کے آئے نے
 
-Meri Khoob Tazeem Howi Nana, Teri Aal Yateem Howi Nana
+۲
+تیرے پتر قاسم دی شادی تے،
+دتے لاگ سیدانیاں ودھ ودھ کے
+کئی سر رن دیاں چادراں دے چھڈیاں
+کہ بچڑے ویل کرائے نے
 
-Meray Piyo Day Maran Diyan Khabran
+۳
+رو کہندی حسین دی جائی اے، کہ رات سہاگ دی آئی اے
+میرے نہ سوہرے نہ پیکے رہے
+کئی دن شگناں دے آئے نے
 
-Kujh Rahi Lay Kay Aaye Nay.
-
-Teray Putar Qasim Di Shaadi Tay,
-
-Ditay Laag Syedaniyan Wadh Wadh Kay
-
-Kaye Sir Ran Diyan Chadaran Day Chadiyan
-
-Kay Bachray Vail Karaye Nay.
-
-Ro Kehndi Hussain Di Jaaye Ay, Kay Raat Suhag Di Aaye Ay
-
-Meray Na Sohray Na Paykay Rahay
-
-Kai Din Shagna Day Aaye Nay.
-
-Mera Akhtar Peer Namazi Ay Jainda Veer Abbas Na Ghazi Ay
-
-Jinhay Deen Di Bachawan Laye
-
-Apnay Bazoon Katwaye Nay.
+۴
+میرا اختر پیر نمازی اے جیندا ویر عباس ناں غازی اے
+جِنھیں دین دی بچاون لئی
+اپنے بازوں کٹوائے نے

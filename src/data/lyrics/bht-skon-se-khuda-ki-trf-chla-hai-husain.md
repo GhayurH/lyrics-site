@@ -8,44 +8,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bohot sukuṅ sai khuda ki taraf chala hai Husain
+  Bohot sukuṅ se Khuda ki taraf chala hai Husain
   Pata chale na yeh maaṅ ko tarap raha hai Husain
 
   1
-  Jo mera farz tha amma ada kia maiṅ ne
-  Zamiṅ maiṅ lasha-e-Asghar chupa dia maiṅ ne
-  Jawan baite ka lasha utha liya maiṅ ne
-  Maiṅ ab bhi pyasa huṅ pani nahi piya maiṅ ne
+  Jo mera farz tha ammaṅ ada kiya main ne
+  Zamiṅ mein lasha-e-Asghar chhupa diya main ne
+  Jawaan bete ka lasha utha liya main ne
+  Main ab bhi pyaasa huṅ paani nahiṅ piya main ne
 
   2
-  Ghamoṅ sai bhai ke tuti hui hai meri qamar
-  Jigar sai Akbar-e-mehru ke kat raha hai jigar
+  Ghamoṅ se bhai ke tuti hui hai meri qamar
+  Jigar se Akbar-e-mehru ke kat raha hai jigar
   Khuda ka shukr ada kar raha huṅ lashoṅ par
-  Na royeṅ aap bohot mutmain huṅ maiṅ madar
+  Na royeṅ aab bohot mutmain huṅ main maadar
 
   3
-  Meri hi goad mai bachcha hua mera beda
-  Jigar sai apne jawaaṅ ke nikali mai ne sina
-  Gale pey kund jo khunjar yeh ho raha hai rawaṅ
-  Bas aakhri yeh mera imtehaaṅ hai amma
+  Meri hi god mein bachcha hua mera zibha
+  Jigar se apne jawaaṅ ke nikaali main ne sina
+  Gale pe kund jo khanjar yeh ho raha hai rawaṅ
+  Bas aakhri yeh mera imtehaaṅ hai ae ammaṅ
 
   4
   Zamin aa na saki raas koi baat nahiṅ
-  Nahi madad koi pass koi baat nahiṅ
+  Nahiṅ madad ko koi paas koi baat nahiṅ
   Hui na khatm meri pyaas koi baat nahiṅ
   Khuda ko de diya Abbas koi baat nahiṅ
 
   5
-  Nikal ke kabr se nana meri taraf haiṅ rawaṅ
-  Yeh dekho amma ke baba bhi aa gaye haiṅ yahaṅ
-  Hai muntazir mera is dam Khuda-e-kaun o makaṅ
+  Nikal ke qabr se nana meri taraf haiṅ rawaṅ
+  Yeh dekho ammaṅ ke baba bhi aa gaye haiṅ yahaṅ
+  Haiṅ muntazir mera is dam Khuda-e-kaun o makaaṅ
   Sabhi yeh kehte haiṅ Shabbir hai mera mehmaaṅ
 
   6
-  Qamar yeh kehte hue mutmain hue maula
+  Qamar yeh kehte hue mutmain hue Maula
   Nikal ke aayega ghaibat se jab pisar mera
-  Woh apne saath meri zulfiqar laye ga
-  Woh lega karb o bala aur shaam ka badla
+  Woh apne saath meri Zulfiqar laaye ga
+  Woh le ga Karb o Bala aur Shaam ka badla
 ---
 
 بہت سکوں سے خدا کی طرف چلا ہے حسینؑ

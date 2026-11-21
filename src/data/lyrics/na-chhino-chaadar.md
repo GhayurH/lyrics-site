@@ -15,7 +15,7 @@ romanLyrics: |-
   Mere naana ka kalma parhte ho
   Insaaf karo ae Shaam waloṅ
   Meri maaṅ Zahra baaba hai Ali
-  Wavaila haaye wavaila
+  Waawaila hai waawaila
 
   Ae logoṅ mera naana hai Nabi
   Maiṅ Zainab huṅ kuchh sharm karo
@@ -24,11 +24,11 @@ romanLyrics: |-
 
   1
   Maiṅ Yasrab ki shehzaadi huṅ
-  Hai bhaai mere sardaar-e-jinaaṅ
+  Hai bhaai mera sardaar-e-jinaaṅ
   Maiṅ sharm o haya ki makhduma
   Hai is ki gawaahi kaun o makaaṅ
   Hai mere laboṅ par gham ki azaaṅ
-  Chaadar jo chhini mar jaauṅgi
+  Chaadar jo chhini mar jaauṅ gi
 
   2
   Bhaai pe mere kiuṅ baaghi ke
@@ -57,7 +57,7 @@ romanLyrics: |-
   5
   Baaloṅ ki safedi par meri
   Miloṅ ki musaafat roti hai
-  Napaak nigaaheṅ uthti hai
+  Naapaak nigaaheṅ uthti hai
   Sajjad ki ghairat roti hai
   Is baat pe qismat roti hai
   Bejurm o khata kiuṅ qaidi bani
@@ -79,7 +79,7 @@ romanLyrics: |-
   Darbaar talak ye kehti gayi
 
   8
-  Hai kund zabaane aur qalam
+  Hai kund zabaan aur qalam
   Ashkoṅ ko zabaaṅ kar sakte nahiṅ
   Irfan aur Mazhar chaahe bhi
   Zakhmoṅ ko ayaaṅ kar sakte nahiṅ

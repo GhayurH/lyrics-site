@@ -13,76 +13,76 @@ romanLyrics: |-
   Assalam o alaiki ya
 
   1
-  Sayyeda tahira raziya marzia fatema
-  Ya sayyeda khairunnisa
-  Ya marzia ya fatema
-  Dunya tumhari khaak e paa
-  Ya marziya ya fatema
-  Chakki chalayi deher ki
+  Sayyeda Tahira Raziya Marziya
+  Ya Sayyeda Khairunnisa
+  Ya Marziya ya Fatema
+  Dunya tumhari khaak-e-paa
+  Ya Marziya ya Fatema
+  Chakki chalayi dahr ki
 
   2
-  Fuqra ko naano zarr diye
-  Khud faaqa kash reh reh ke bhi
+  Fuqra ko naan o zar diye
+  Khud faaqa-kash reh reh ke bhi
   Saael ke kaase bhar diye
-  Jo kuch bhi tha chup chap wo
-  Raahe khuda meiṅ de diya
-  Ya sayyeda...
+  Jo kuch bhi tha chup chaap wo
+  Raah-e-Khuda mein de diya
+  Ya Sayyeda...
 
   3
-  Tazim yuṅ baba ne ki
-  Umme abiha ban gayi
+  Taazim yuṅ baba ne ki
+  Umm-e-Abiha ban gayi
   Is waaste ashraaf ne
-  Tazim tere ghar ki thi
+  Taazim tere ghar ki thi
   Dar par tere utre malak
-  Khud chal ke taara aagaya
+  Khud chal ke taara aa gaya
 
   4
-  Ya sayyeda...
-  Tum maalik e lau laak ho
-  Aur saahib e aflaak ho
-  Tum tahira tum marzia
+  Ya Sayyeda...
+  Tum maalik-e-laulaak ho
+  Aur saahib-e-aflaak ho
+  Tum Tahira tum Marziya
   Tum rijz se bhi paak ho
   Bas ek teri dehliz par
 
   5
   Sajde kare sab ambiya
-  Ya sayyeda...
+  Ya Sayyeda...
   Jannat ke jo sardaar hai
   Wo aap ke hubdaar hai
-  Jinka zamana muntazir
-  Wo aapke ghamkhwar hai
+  Jin ka zamaana muntazir
+  Wo aap ke ghamkhwaar hai
 
   6
-  Shehzadi e kaunain ki
+  Shehzaadi-e-kaunain ki
   Tausif kaise ho bhala
-  Ya sayyeda...
-  Gham tujhpe hai itne pare
-  Umme masayeb hogayi
-  Baba ka gham mohsin ka gham
+  Ya Sayyeda...
+  Gham tujh pe hai itne pare
+  Umm-e-masaaib ho gayi
+  Baba ka gham Mohsin ka gham
 
   7
-  Dil meiṅ liye hi mar gayi
-  Teri shahadat ka sabab
-  Darbaar jana hogaya
-  Ya sayyeda...
-  Baad e mohamed aap par
-  Tute masayeb kis khadar
+  Dil mein liye hi mar gayi
+  Teri shahaadat ka sabab
+  Darbaar jaana ho gaya
+  Ya Sayyeda...
+  Baad-e-Muhammad aap par
+  Tute masaaib kis qadar
 
   8
   Pehlu shikasta kar gaye
   Jo aag laaye tere ghar
   Ummat ne baba ko tere
-  Ajre risalat yuṅ diya
-  Ya sayyeda...
-  Subbat alaiyya baba jaaṅ
+  Ajr-e-risaalat yuṅ diya
+  Ya Sayyeda...
+  Subbat alaiyya Baba jaaṅ
 
   9
-  Kehti rahi jab fatema
-  Likhuṅ bhala mai shadmaṅ
-  Kis tarha se ye marsiya
-  Binte rasule paak par
-  Jo zulm baqar ho gaya
-  Ya sayyeda...
+  Kehti rahi jab Fatema
+  Likhuṅ bhala main shaadmaaṅ
+  Kis tarah se ye marsiya
+  Bint-e-Rasul-e-paak par
+  Jo zulm Baqar ho gaya
+  Ya Sayyeda...
 ---
 
 السلام و علیک یا

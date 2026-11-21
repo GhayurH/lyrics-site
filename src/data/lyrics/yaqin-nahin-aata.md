@@ -19,12 +19,12 @@ romanLyrics: |-
 
   1
   Mujhe yaqin nahiṅ aata tere baazu kate
-  Nazar utaar ke bheja tha maiṅ ne ghar se tujhe
+  Nazar utaar ke bheja tha main ne ghar se tujhe
 
   2
   Ye soch soch ke is maaṅ ki jaan jaati hai
   Kya tere jaise jawaaṅ ko bhi maut aati hai
-  Tu mujh ko chhor gaya maiṅ ye maan luṅ kaise
+  Tu mujh ko chhor gaya main ye maan luṅ kaise
 
   3
   Kata ke haath mere laal jab tu ziṅ se gira
@@ -34,17 +34,17 @@ romanLyrics: |-
   4
   Suna hai kaanoṅ se tere rasan guzaari gayi
   Hua hai ghore ke pairoṅ se tera sar zakhmi
-  Tha raahwaar ki gardan meiṅ tera sar aise
+  Tha raahwaar ki gardan mein tera sar aise
 
   5
-  Balaaeṅ leti thi maiṅ ghar meiṅ jab tu chalta tha
-  Maiṅ jaanti huṅ tu qaamat meiṅ sher jaisa tha
-  Phir itni chhoti si turbat meiṅ aa gaya kaise
+  Balaaeṅ leti thi main ghar mein jab tu chalta tha
+  Main jaanti huṅ tu qaamat mein sher jaisa tha
+  Phir itni chhoti si turbat mein aa gaya kaise
 
   6
   Hai Fatima se ye Ummul Banin ka waada
-  Hamesha baad meiṅ roegi maaṅ tujhe beta
-  Abhi maiṅ aayi huṅ qabr-e-Husain pe ro ke
+  Hamesha baad mein roye gi maaṅ tujhe beta
+  Abhi main aayi huṅ qabr-e-Husain pe ro ke
 
   7
   Mujhe bataaya tha Sajjad ne ye ro ro kar
@@ -52,14 +52,14 @@ romanLyrics: |-
   Sitamgaroṅ ne tere kitne kar diye tukre
 
   8
-  Magar maiṅ khush huṅ ke tu ne wafa nibhaayi hai
+  Magar main khush huṅ ke tu ne wafa nibhaayi hai
   Jabhi to maaṅ ye Madine se milne aayi hai
   Tu zinda hota to tujh ko lagaati sine se
 
   9
   Pakar ke baaloṅ se naaqe se jab utaarta tha
   Sakina tum ko pukaare to Shimr maarta tha
-  Tamaache khaaye haiṅ tere liye Sakina ne
+  Tamaanche khaaye haiṅ tere liye Sakina ne
 
   10
   Tarap ke Bibi ne Zishan aur Raza ye kaha

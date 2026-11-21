@@ -1,56 +1,87 @@
 ---
-title: "Ye Aun o Mohamed Hai"
+title: "یہ عون و محمد ہیں"
+alternateTitle: "Ye Aun o Mohamed Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Zainab ke ye dilbar hai ye Auno Mohamed hai
+  Ye warise Jafar hai ye Auno Mohamed hai
+
+  1
+  Maidan may bhari hai ye dono hazaro par
+  Ye shere dilawar hai ye Auno Mohamed hai
+  Zainab ke ye…
+
+  2
+  Dewaar se Kufe ki takradiya faujo ko
+  Ye saniye Hyder hai ye Auno Mohamed hai
+  Zainab ke ye…
+
+  3
+  Darbar may logon ko ye Shimr batata tha
+  Chote se jo do sar hai ye Auno Mohamed hai
+  Zainab ke ye…
+
+  4
+  Zainab ne kaha bhaiya ye aap ka sadqa hai
+  Ye azm ke paykar ye Auno Mohamed hai
+  Zainab ke ye…
+
+  5
+  Hyder ki shuja-at ke waris hai zamane may
+  Ye dono barabar hai ye Auno Mohamed hai
+  Zainab ke ye…
+
+  6
+  Hai sin bhhi abhi chotay hai ghuncha dahan dono
+  Aur azm may Akbar hai ye Auno Mohamed hai
+  Zainab ke ye…
+
+  7
+  Maqtal se Riyaz aayi Zehra ki sada mujhko
+  Ye khoon may jo tar hai ye Auno Mohamed hai
+  Zainab ke ye…
 ---
 
-zainab ke ye dilbar hai ye auno mohamed hai
+زینب کے یہ دلبر ہیں یہ عون و محمد ہیں
+یہ وارثِ جعفر ہیں یہ عون و محمد ہیں
 
-ye warise jafar hai ye auno mohamed hai
+۱
+میدان میں بھاری ہیں یہ دونوں ہزاروں پر
+یہ شیرِ دلاور ہیں یہ عون و محمد ہیں
+زینب کے یہ…
 
-maidan may bhari hai ye dono hazaro par
+۲
+دیوار سے کوفے کی ٹکرا دیا فوجوں کو
+یہ ثانیِ حیدر ہیں یہ عون و محمد ہیں
+زینب کے یہ…
 
-ye shere dilawar hai ye auno mohamed hai
+۳
+دربار میں لوگوں کو یہ شمر بتاتا تھا
+چھوٹے سے جو دو سر ہیں یہ عون و محمد ہیں
+زینب کے یہ…
 
-zainab ke ye….
+۴
+زینب نے کہا بھیا یہ آپ کا صدقہ ہے
+یہ عزم کے پیکر یہ عون و محمد ہیں
+زینب کے یہ…
 
-dewaar se kufe ki takradiya faujo ko
+۵
+حیدر کی شجاعت کے وارث ہیں زمانے میں
+یہ دونوں برابر ہیں یہ عون و محمد ہیں
+زینب کے یہ…
 
-ye saniye hyder hai ye auno mohamed hai
+۶
+ہیں سِن بھی ابھی چھوٹے ہیں غنچہ دہن دونوں
+اور عزم میں اکبر ہیں یہ عون و محمد ہیں
+زینب کے یہ…
 
-zainab ke ye….
-
-darbar may logon ko ye shimr batata tha
-
-chote se jo do sar hai ye auno mohamed hai
-
-zainab ke ye….
-
-zainab ne kaha bhaiya ye aap ka sadqa hai
-
-ye azm ke paykar ye auno mohamed hai
-
-zainab ke ye….
-
-hyder ki shuja-at ke waris hai zamane may
-
-ye dono barabar hai ye auno mohamed hai
-
-zainab ke ye….
-
-hai sin bhhi abhi chotay hai ghuncha dahan dono
-
-aur azm may akbar hai ye auno mohamed hai
-
-zainab ke ye….
-
-maqtal se riyaz aayi zehra ki sada mujhko
-
-ye khoon may jo tar hai ye auno mohamed hai
-
-zainab ke ye….
+۷
+مقتل سے ریاض، آئی زہرا کی صدا مجھ کو
+یہ خون میں جو تر ہیں یہ عون و محمد ہیں
+زینب کے یہ…

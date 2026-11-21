@@ -1,50 +1,89 @@
 ---
-title: "Ya Shah-e-Khurasan"
+title: "یا شاہِ خراسان"
+alternateTitle: "Ya Shah-e-Khurasan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Dunya hi nahi meri Khurasan se aagay
+  Momin hoon main barhta nahi iman se aagay
+
+  1
+  Hasil kabhi Maroof ki nalain karon main
+  Phir sir pe ossay bandh ke be khoof phiron main
+  Tofan se piche kabhi tofan se aagay
+  Tha Kamil-e-Quran ki tilawat ka iradah
+
+  2
+  Rehmat ki ghataon ne mujhe aan ke gherah
+  Main barh na saka Sorah Rehman se aagay
+  Har ilm ki ik had hai tu har had se mubara
+  Kab siraf kitabon se pata milta hai tera
+
+  3
+  Basti hai teri Wadi-e-Irfan se aagay
+  Zindah jo howa shair dhagon mein pari jaan
+  Tasveer ko hairat thi masawar tha pareshan
+  Hai kaisi yeh qudrat Had-e-Imkan se aagay
+
+  4
+  Dono hi molazim hain mere Shah-e-Arab ke
+  Phir bhi jo ziyarat ke liye aye adab se
+  Rizwan nahi barhta tere darban se aagay
+  Yeh Zamin-e-Aaho ka laqab kehta hai sab se
+
+  5
+  Bas Marifat-e-Aal-e-Muhammad ke sabab se
+  Hewan bhi barh jata hai insan se aagay
+  Behlol ki dewangi kehti hai hamesha
+  Jab ishq kiya jaye takaluf nahi hota
+
+  6
+  Kiya sochna Maula tere farman ke aagay
+  Akbar wo Nabi hoon ke raiyat hi rahe ga
+  Ye apni itaat se howa Shamil-e-Mina
+  Salman ko paya hai Suleman se aagay
 ---
 
-Dunya Hi Nahi Meri Khurasan Se Aagay.
-Momin Hoon Main Barhta nahi Iman Se Aagay.
+دنیا ہی نہیں میری خراسان سے آگے
+مومن ہوں میں بڑھتا نہیں ایمان سے آگے
 
-1
-Hasil Kabhi Maroof Ki Nalain Karon Main.
-Phir sir Pe Ossay Bandh Ke Be Khoof Phiron Main.
-Tofan Se Piche Kabhi Tofan se Aagay.
-Tha Kamil-e-Quran Ki Tilawat Ka Iradah.
+۱
+حاصل کبھی معروف کی نعلین کروں میں
+پھر سر پہ اسے باندھ کے بے خوف پھروں میں
+طوفان سے پیچھے کبھی طوفان سے آگے
+تھا کاملِ قرآن کی تلاوت کا ارادہ
 
-2
-Rehmat Ki Ghataon Ne Mujhe Aan Ke Gherah.
-Main Barh Na Saka Sorah Rehman Se Aagay.
-Har Ilm Ki Ik Had Hai Tu Har Had Se Mubara.
-Kab Siraf Kitabon Se Pata Milta Hai Tera.
+۲
+رحمت کی گھٹاؤں نے مجھے آن کے گھیرا
+میں بڑھ نہ سکا سورۂ رحمن سے آگے
+ہر علم کی اک حد ہے تو ہر حد سے مبرا
+کب صرف کتابوں سے پتا ملتا ہے تیرا
 
-3
-Basti Hai Teri Wadi-e-Irfan Se Aagay.
-Zindah Jo Howa Shair Dhagon Mein Pari Jaan.
-Tasveer Ko Hairat Thi Masawar Tha Pareshan.
-Hai Kaisi Yeh Qudrat Had-e-Imkan Se Aagay.
+۳
+بستی ہے تیری وادیِ عرفان سے آگے
+زندہ جو ہوا شیر دھاگوں میں پڑی جان
+تصویر کو حیرت تھی مصور تھا پریشان
+ہے کیسی یہ قدرت حدِ امکان سے آگے
 
-4
-Dono Hi Molazim Hain Mere Shah-e-Arab Ke.
-Phir Bhi Jo Ziyarat Ke Liye Aye Adab Se.
-Rizwan Nahi Barhta Tere Darban Se Aagay.
-Yeh Zamin-e-Aaho Ka Laqab Kehta Hai Sab Se.
+۴
+دونوں ہی ملازم ہیں میرے شاہِ عرب کے
+پھر بھی جو زیارت کے لیے آئے ادب سے
+رضوان نہیں بڑھتا تیرے دربان سے آگے
+یہ ضامنِ آہو کا لقب کہتا ہے سب سے
 
-5
-Bas Marifat-e-Aal-e-Muhammad Ke Sabab Se.
-Hewan Bhi Barh Jata Hai Insan Se Aagay.
-Behlol Ki Dewangi Kehti Hai Hamesha.
-Jab Ishq Kiya Jaye Takaluf Nahi Hota.
+۵
+بس معرفتِ آلِ محمد کے سبب سے
+حیوان بھی بڑھ جاتا ہے انسان سے آگے
+بہلول کی دیوانگی کہتی ہے ہمیشہ
+جب عشق کیا جائے تکلف نہیں ہوتا
 
-6
-Kiya Sochna Maula Tere Farman Ke Aagay.
- Akbar Wo Nabi Hoon Ke Raiyat Hi Rahe Ga.
-Ye Apni Itaat Se HOwa Shamil-e-Mina.
-Salman Ko Paya Hai Suleman Se Aagay.
+۶
+کیا سوچنا مولا تیرے فرمان کے آگے
+اکبر وہ نبی ہوں کہ رعیت ہی رہے گا
+یہ اپنی اطاعت سے ہوا شاملِ منیٰ
+سلمان کو پایا ہے سلیمان سے آگے

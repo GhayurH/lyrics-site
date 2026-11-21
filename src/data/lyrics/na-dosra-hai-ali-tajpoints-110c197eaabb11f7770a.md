@@ -1,35 +1,60 @@
 ---
-title: "Na Dosra Hai Ali"
+title: "نہ دوسرا ہے علی"
+alternateTitle: "Na Dosra Hai Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Na dosra hai Muhammad na dosra hai Ali
+  Azal se zaat-e-Muhammad ka tarjuma hai Ali
+  Khuda ka dil ho keh woh baat Mustafa se karey
+  Tu phir zaban-e-Khuda ban ke bolta hai Ali
+
+  2
+  Farishtay janein our ab jane paishwa mera
+  Keh main ne qabar mein jate hi keh diya hai Ali
+  Kaha Nabi ne main kal mard ko alam doon ga
+  Samajh gaye they yeh Salman aa raha hai Ali
+
+  3
+  Koi samajh nahi sakta haqeeqat-e-Zainab
+  Unhein duaon mein Khaliq se mangta hai Ali
+  Khuda ne marziyaan de kar kaha shab-e-hijrat
+  Khuda ke pas hai jo kuch woh aap ka hai Ali
+
+  4
+  Khuda ko mannay wala woh shaks hai jhota
+  Khuda ko maan ke jo tujh ko sochta hai Ali
+  Nuseriyon ke Khuda ka bhi woh Khuda hai Asad
+  Woh jis ko Kabay mein khud sar jhuka raha hai Ali
 ---
 
-1
-Na Dosra Hai Muhammad Na Dosra Hai Ali.
-Azal Se Zaat-e-Muhammad Ka Tarjuma Hai Ali.
-Khuda Ka Dil Ho Keh Woh Baat Mustafa Se Karey.
-Tu Phir Zaban-e-Khuda Ban Ke Bolta Hai Ali.
+۱
+نہ دوسرا ہے محمد نہ دوسرا ہے علی
+ازل سے ذاتِ محمد کا ترجمہ ہے علی
+خدا کا دل ہو کہ وہ بات مصطفیٰ سے کرے
+تو پھر زبانِ خدا بن کے بولتا ہے علی
 
-2
-Farishtay Janein Our Ab Jane Paishwa Mera.
-Keh Main Ne Qabar Mein Jate Hi Keh Diya Hai Ali.
-Kaha Nabi Ne Main Kal Mard Ko Alam Doon Ga.
-Samajh Gaye They Yeh Salman Aa Raha Hai Ali.
+۲
+فرشتے جانیں اور اب جانے پیشوا میرا
+کہ میں نے قبر میں جاتے ہی کہہ دیا ہے علی
+کہا نبی نے میں کل مرد کو علم دوں گا
+سمجھ گئے تھے یہ سلمان آ رہا ہے علی
 
-3
-Koi Samajh Nahi Sakta Haqeeqat-e-Zainab.
-Unhein Duaon Mein Khaliq Se Mangta Hai Ali.
-Khuda Ne Marziyaan De Kar Kaha Shab-e-Hijrat.
-Khuda Ke Pas Hai Jo Kuch Woh Aap Ka Hai Ali.
+۳
+کوئی سمجھ نہیں سکتا حقیقتِ زینب
+انہیں دعاؤں میں خالق سے مانگتا ہے علی
+خدا نے مرضیاں دے کر کہا شبِ ہجرت
+خدا کے پاس ہے جو کچھ وہ آپ کا ہے علی
 
-4
-Khuda Ko Mannay Wala Woh Shaks Hai Jhota.
-Khuda Ko Maan Ke Jo Tujh Ko Sochta Hai Ali.
-Nuseriyon Ke Khuda Ka Bhi Woh Khuda Hai Asad.
-Woh Jis Ko Kabay Mein Khud Sar Jhuka Raha Hai Ali.
+۴
+خدا کو ماننے والا وہ شخص ہے جھوٹا
+خدا کو مان کے جو تجھ کو سوچتا ہے علی
+نصیریوں کے خدا کا بھی وہ خدا ہے اسد
+وہ جس کو کعبے میں خود سر جھکا رہا ہے علی

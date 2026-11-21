@@ -1,41 +1,72 @@
 ---
-title: "Ik Wela Aaway Ga Ghazi Jadon Paini Loor Lyrics 2023"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اک ویلا آوے گا غازی جدوں پینی لوڑ"
+alternateTitle: "Ik Wela Aaway Ga Ghazi Jadon Paini Loor"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Samar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ik wela aaway ga Ghazi jadon paini loor wafawaan di
+  Mera lal Ali da shair ayein taun Shabeer di chup taun de dewin qurbani dowaan banwaan di
+  Ayeh pehli wafa di lori aye jehri Umm Ul-Banin sunai aye
+  Zainab jo aakhay kar dewin oh Pak Batool di jayi aye
+
+  2
+  Abbas wafa da malik taun tere wangoon Zainab malik aye dunya te teriyaan sahwaan di
+  Dehleez te sajdah kar ke taun fair hujray samne jaya kar
+  Jadon waaj paway Abbas bhira jee malka aakh bulaya kar
+  Assi Hasan, Hussain de nokar aan Zainab teri murshid zadi aye taun marzi bhain bhirawaan di
+
+  3
+  Taun ban ke amanat aaya ayein tainu warsaan kool pachona si
+  Ayeh sari fazeelat teri aye ais ghar wich main v aaouna si
+  Ghazi ayeh Zahra chahndi si tere hondiyaan ohdiyaan dhiyaan nu na howay fikar ridawaan di
+  Panj hastiyaan da taun ladla ayein tera chehra Ali da chehra aye
+
+  4
+  Zahra de dukh da waris taun tere naal aabad ayeh wehra aye
+  Tainu bhaina gaud khadaya aye tere baaj mukamal hondi nayi koi tasveer hayawaan di
+  Ohday veer sataraan hoor v ne bas veer nayi taun chadar ayein
+  Tere aawan da maqsad pehra aye ais pehrey layi taun Haider ayein
+
+  5
+  Tere naal Batool di azmat da pardah mehfooz aye dunya te taun ghairat ayein do mawaan di
+  Main khon jigar da dena waan dardaan nu Samar prona waan
+  Ik pal wich Sham bazar andar ik pal wich Karbal hona waan
+  Meri har parwaz te qabza aye mere almaan walay murshid da ohday hath wich laaj atawaan di
 ---
 
-1
-Ik Wela Aaway Ga Ghazi Jadon Paini Loor Wafawaan Di
-Mera Lal Ali Da Shair Ayein Taun Shabeer Di Chup Taun De Dewin Qurbani Dowaan Banwaan Di.
-Ayeh Pehli Wafa Di Lori Aye Jehri Umm Ul-Banin Sunai Aye.
-Zainab Jo Aakhay Kar Dewin Oh Pak Batool Di Jayi Aye.
+۱
+اک ویلا آوے گا غازی جدوں پینی لوڑ وفاواں دی
+میرا لال علی دا شیر ایں تُوں شبیر دی چپ تُوں دے دیویں قربانی دوواں بانواں دی
+ایہہ پہلی وفا دی لوری اے جیہڑی ام البنین سنائی اے
+زینب جو آکھے کر دیویں اوہ پاک بتول دی جائی اے
 
-2
-Abbas Wafa Da Malik Taun Tere Wangoon Zainab Malik Aye Dunya Te Teriyaan Sahwaan Di.
-Dehleez Te Sajdah Kar Ke Taun Fair Hujray Samne Jaya Kar.
-Jadon Waaj Paway Abbas Bhira Jee Malka Aakh Bulaya Kar.
-Assi Hasan, Hussain De Nokar Aan Zainab Teri Murshid Zadi Aye Taun Marzi Bhain Bhirawaan Di.
+۲
+عباس وفا دا مالک تُوں تیرے وانگوں زینب مالک اے دنیا تے تیریاں ساہواں دی
+دہلیز تے سجدہ کر کے تُوں فیر حجرے سامنے جایا کر
+جدوں واج پَوے عباس بھرا جی ملکا آکھ بلایا کر
+اسیں حسن، حسین دے نوکر آں زینب تیری مرشد زادی اے تُوں مرضی بھین بھراواں دی
 
-3
-Taun Ban Ke Amanat Aaya Ayein Tainu Warsaan Kool Pachona Si.
-Ayeh Sari Fazeelat Teri Aye Ais Ghar Wich Main V Aaouna Si.
-Ghazi Ayeh Zahra Chahndi Si Tere Hondiyaan Ohdiyaan Dhiyaan Nu Na Howay Fikar Ridawaan Di.
-Panj Hastiyaan Da Taun Ladla Ayein Tera Chehra Ali Da Chehra Aye.
+۳
+تُوں بن کے امانت آیا ایں تینوں وارثاں کول پہنچونا سی
+ایہہ ساری فضیلت تیری اے ایس گھر وچ میں وی آؤنا سی
+غازی ایہہ زہرا چاہندی سی تیرے ہوندیاں اوہدیاں دھیاں نوں نہ ہووے فکر رداواں دی
+پنج ہستیاں دا تُوں لاڈلا ایں تیرا چہرہ علی دا چہرہ اے
 
-4
-Zahra De Dukh Da Waris Taun Tere Naal Aabad Ayeh Wehra Aye.
-Tainu Bhaina Gaud Khadaya Aye Tere Baaj Mukamal Hondi Nayi Koi Tasveer Hayawaan Di.
-Ohday Veer Sataraan Hoor V Ne Bas Veer Nayi Taun Chadar Ayein.
-Tere Aawan Da Maqsad Pehra Aye Ais Pehrey Layi Taun Haider Ayein.
+۴
+زہرا دے دکھ دا وارث تُوں تیرے نال آباد ایہہ ویہڑا اے
+تینوں بھیناں گود کھڈایا اے تیرے باج مکمل ہوندی نئیں کوئی تصویر حیاواں دی
+اوہدے ویر ستاراں حور وی نے بس ویر نئیں تُوں چادر ایں
+تیرے آون دا مقصد پہرا اے ایس پہرے لئی تُوں حیدر ایں
 
-5
-Tere Naal Batool Di Azmat Da Pardah Mehfooz Aye Dunya Te Taun Ghairat Ayein Do Mawaan Di.
-Main Khon Jigar Da Dena Waan Dardaan Nu Samar Prona Waan.
-Ik Pal Wich Sham Bazar Andar Ik Pal Wich Karbal Hona Waan.
-Meri Har Parwaz Te Qabza Aye Mere Almaan Walay Murshid Da Ohday Hath Wich Laaj Atawaan Di.
+۵
+تیرے نال بتول دی عظمت دا پردہ محفوظ اے دنیا تے تُوں غیرت ایں دو ماواں دی
+میں خون جگر دا دینا واں درداں نوں ثمر پرونا واں
+اک پل وچ شام بازار اندر اک پل وچ کربل ہونا واں
+میری ہر پرواز تے قبضہ اے میرے علماں والے مرشد دا اوہدے ہتھ وچ لاج عطاواں دی

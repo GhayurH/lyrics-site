@@ -14,57 +14,57 @@ romanLyrics: |-
 
   1
   Sharm o haya ki malka bemaqna o rida hai
-  Sab qatl ho chuke hai shabbir ke fidaayi
+  Sab qatl ho chuke haiṅ Shabbir ke fidaai
   Ansar o aqraba bhi
-  Kis ko bulaye haye sunta nahi hai koi
-  Faryad bekasoṅ ki
-  Behaal gham ke maare bemaar e karbla hai
+  Kis ko bulaae haae sunta nahiṅ hai koi
+  Faryaad bekasoṅ ki
+  Behaal gham ke maare bimaar-e-Karbala hai
 
   2
   Kaisi hai ye qayamat hai kaisi ye ghari hai
   Hai kaisi bekasi hai
-  Sar berida hai sab ke haathoṅ meiṅ bibiyoṅ ke
+  Sar berida hai sab ke haathoṅ mein bibiyoṅ ke
   Rassi bandhi hui hai
-  Bemaar ke gale meiṅ tauq e garaṅ para hai
+  Bimaar ke gale mein tauq-e-garaaṅ para hai
 
   3
   Kya zulm kya sitam hai aayi hai qaid hokar
-  Aulaad mustafa ki
-  Bemaar saarbaṅ ke pairoṅ pe sar ko rakh ke
+  Aulaad-e-Mustafa ki
+  Bimaar saarbaaṅ ke pairoṅ pe sar ko rakh ke
   Roti hai beriyaṅ bhi
-  Sun sun ke ye sadayeiṅ har zakhm ro raha hai
+  Sun sun ke ye sadaaeṅ har zakhm ro raha hai
 
   4
-  Baaloṅ se moo chupa kar saydaniyaṅ pukari
-  Aa kar hamay bachao
-  Abbas jald aao abbas jald aao abbas jald aao
+  Baaloṅ se munh chhupa kar saiyidaaniyaaṅ pukaari
+  Aa kar hameṅ bachaao
+  Abbas jald aao Abbas jald aao Abbas jald aao
   Ek ghul hai chaar jaanib ek shor uth raha hai
 
   5
-  Mazlum bibiyoṅ ko hote hai khush rula kar
-  Ahle sitam jafagar
-  Faryad kar rahi hai saydaniya tarap kar
-  Koi dilaade chadar
-  Abbas ko bulao zainab ki ye sada hai
+  Mazlum bibiyoṅ ko hote haiṅ khush rula kar
+  Ahl-e-sitam jafaagar
+  Faryaad kar rahi hai saiyidaaniyaaṅ tarap kar
+  Koi dila de chaadar
+  Abbas ko bulaao Zainab ki ye sada hai
 
   6
-  Chaaroṅ taraf sakina qaidi yatim bacchi
+  Chaaroṅ taraf Sakina qaidi yatim bachchi
   Hasrat se dekhti hai
-  Kya waqt aagaya hai abbas ki bhatiji
-  Chup chup ke ro rahi hai
-  Sehmi hui hai bacchi ye khauf khaa raha hai
+  Kya waqt aa gaya hai Abbas ki bhatiji
+  Chhup chhup ke ro rahi hai
+  Sehmi hui hai bachchi ye khauf khaa raha hai
 
   7
-  Ghaiz o ghazab ke maare larza hai ek sina par
-  Kariyal jawan ka sar
-  Rukta nahi hai haye ghazi ka sar sina par
+  Ghaiz o ghazab ke maare larza hai ek sinaaṅ par
+  Kariyal jawaan ka sar
+  Rukta nahiṅ hai haae ghaazi ka sar sinaaṅ par
   Gir jaata hai zamiṅ par
-  Aankhoṅ se sheh ki khuṅ ka behna bata raha hai
+  Aankhoṅ se shah ki khuṅ ka behna bata raha hai
 
   8
-  Zainab ne ro ke jis dam pucha ye shaahe diṅ se
-  Hukme imam kya hai
-  Aayi sada ye gohar shaahe umam ke sar se
+  Zainab ne ro ke jis dam puchha ye Shaah-e-Diṅ se
+  Hukm-e-Imaam kya hai
+  Aayi sada ye Gohar Shaah-e-Umam ke sar se
   Bhai bhi chal raha hai
   Chal meri dukhiya behna haafiz tera khuda hai
 ---

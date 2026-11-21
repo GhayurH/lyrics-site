@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae meri sakina
+  Ae meri Sakina
   Tum bhej to rahi ho bas itna yaad rakhna
-  Yaad aayega abbas magar laut kar nahi
+  Yaad aayega Abbas magar laut kar nahiṅ
   Jaane ki tum ijazat in ko dila rahi ho
-  Tum ko khabar nahi hai kya karne jaa rahi ho
-  Ye jaa ke laut aaye mumkin nahi sakina
-  Yaad aayega abbas magar...
-  Bachpan meiṅ in ki godhi gehwara tha tumhara
-  Maa ban ke tumko bibi abbas ne hai paala
-  Ro'ogi jab to kis ka tumko milega shaana
-  Yaad aayega abbas magar...
-  Saaya utha jo inka phir chain na milega
-  Phir kaun haath sar pe yuṅ pyar se rakhega
-  Ro ro ke phir sadayeiṅ ammu ko tum na dena
-  Yaad aayega abbas magar...
-  Ye baat raaz ki hai tum ko bata raha hoo
-  Zainab se aaj tak mai jis ko chupa raha hoo
-  Baad unke phir mera bhi mumkin nahi hai jina
-  Yaad aayega abbas magar...
-  Do haath khuṅ meiṅ dube dekho agar kahiṅ to
-  Sine se dam nikalta mehsus hoga tum ko
-  Wo haath chum kar bas sine se tum lagana
-  Yaad aayega abbas magar...
-  Barsaat patharoṅ ki dekhi to kya karogi
-  Thaamogi haath kis ka naaqe se jab girogi
-  Taqdir meiṅ hai likha bazaar e shaam jaana
-  Yaad aayega abbas magar...
-  Zindan ke andhere tanhaiyoṅ ka aalam
-  Us par sitam ye hoga duba lahu meiṅ parcham
-  Ek zakhmi mashk us par dekho to khub rona
-  Yaad aayega abbas magar...
-  Kehti hai ye sakina rehaan jaise ab bhi
-  Ammu ko mere laa do maangungi ab na pani
-  Nauha kuna raza ho jaise ke qaid khaana
-  Yaad aayega abbas magar...
+  Tum ko khabar nahiṅ hai kya karne ja rahi ho
+  Ye jaa ke laut aaye mumkin nahiṅ Sakina
+  Yaad aayega Abbas magar...
+  Bachpan mein in ki godi gahwaara tha tumhaara
+  Maaṅ ban ke tum ko Bibi Abbas ne hai paala
+  Ro'ogi jab to kis ka tum ko mile ga shaana
+  Yaad aayega Abbas magar...
+  Saaya utha jo in ka phir chain na mile ga
+  Phir kaun haath sar pe yuṅ pyaar se rakhega
+  Ro ro ke phir sadaaeṅ Ammu ko tum na dena
+  Yaad aayega Abbas magar...
+  Ye baat raaz ki hai tum ko bata raha huṅ
+  Zainab se aaj tak main jis ko chhupa raha huṅ
+  Baad unke phir mera bhi mumkin nahiṅ hai jina
+  Yaad aayega Abbas magar...
+  Do haath khuṅ mein dube dekho agar kahiṅ to
+  Sine se dam nikalta mahsus hoga tum ko
+  Woh haath chum kar bas sine se tum lagana
+  Yaad aayega Abbas magar...
+  Barsaat pattharoṅ ki dekhi to kya karo gi
+  Thaamo gi haath kis ka naaqe se jab giro gi
+  Taqdir mein hai likha bazaar-e-Shaam jaana
+  Yaad aayega Abbas magar...
+  Zindaan ke andhere tanhaaiyoṅ ka aalam
+  Us par sitam ye hoga duba lahu mein parcham
+  Ik zakhmi mashk us par dekho to khub rona
+  Yaad aayega Abbas magar...
+  Kehti hai ye Sakina Rehaan jaise ab bhi
+  Ammu ko mere laa do maangungi ab na paani
+  Nauha kanaaṅ raza ho jaise ke qaid khaana
+  Yaad aayega Abbas magar...
 ---
 
 ۱

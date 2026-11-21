@@ -7,6 +7,42 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ye janaaza hai Hasan ka, shaahzaada-e-amn ka
+  Ye janaaza hai Hasan ka
+
+  1
+  Surkh hota ja raha hai rang ik ujle kafan ka
+
+  2
+  Faatima ke laadle ko zehr-e-qaatil de diya
+  Zehr-e-qaatil de diya
+  Khun jaari ho ke maatam karta hai zakhmi dahan ka
+
+  3
+  Rota hai dil sun ke naale Zainab o Kulsum ke
+  Zainab o Kulsum ke
+  Girya o maatam bapa hai har taraf shaah-e-zaman ka
+
+  4
+  Dafn karne laaye mayyat ko Baqia meiṅ Husain
+  Ko Baqia meiṅ Husain
+  Tiroṅ ki baarish meiṅ mushkil marhala ab hai dafan ka
+
+  5
+  Zindagi bhar zulm sehta hi raha tha jo imaam
+  Hi raha tha jo imaam
+  Khun mar kar bhi baha hai tiroṅ se us ke badan ka
+
+  6
+  Hukm-e-sheh ne kar diya paaband tha Abbaas ko
+  Haaye tha Abbaas ko
+  Warna sab ko qatl karna kaam tha chashm-e-zadan ka
+
+  7
+  Pursa lene Faatima bhi aa gai haiṅ ab yahaaṅ
+  Aa gai haiṅ ab yahaaṅ
+  Kuchh sila mil jaaega Rizwaan ko ranj o mahan ka
 ---
 
 یہ جنازہ ہے حسنؑ کا شاہزادہءِ امن کا

@@ -14,13 +14,13 @@ published: true
 romanLyrics: |-
   Ye chaand taare ye phul kaliyaaṅ
   Husain ka gham mana rahe haiṅ
-  Jahaaṅ meiṅ saare Husain waale
+  Jahaaṅ mein saare Husain waale
   Husain ka gham mana rahe haiṅ
 
   1
   Khalil-e-Kaaba kahaaṅ ho aao
-  Khalil-e-Karbobala ko dekho
-  Husain jalti hui zamiṅ se
+  Khalil-e-Karb o Bala ko dekho
+  Husain jalti hui zamiṅ par
   Pisar ki mayyat utha rahe haiṅ
 
   2

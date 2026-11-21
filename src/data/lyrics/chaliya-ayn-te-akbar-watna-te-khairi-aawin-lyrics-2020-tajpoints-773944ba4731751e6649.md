@@ -1,29 +1,48 @@
 ---
-title: "Chaliya Ayn Te Akbar Watna Te Khairi Aawin Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "چلیا ایں تے اکبر وطناں تے خیری آویں"
+alternateTitle: "Chaliya Ayn Te Akbar Watna Te Khairi Aawin"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Chaliya ayn te Akbar watna te khairi aawin
+  Tere rah main takney roog wichoray de veer na lawin
+  Bhain haan bhaijaan gi watna taun tere nawein veer chithiyaan
+  Mere khat jad aaway veran ik wari seene te lawin
+
+  2
+  Sham aawaan gi phophi Zainab kita Shereen naal wadah
+  Tusi Sham gaye te veer na mere bin sehra sajawin
+  Raat din veer main rowaan gi aidi yaad jad sataya
+  Mera veer Asghar nu naal Madine taun moor leyawin
+
+  3
+  Ain mumkin aye tere badoon mainu maut aa sawaway
+  Mainu qabar choon aa ke shakal wakhawan layi aap jagawin
+  Sain Saqlain aye kaindi si teri Karbala taun wari
+  Jadon shehar wasawin bhain nu aap Akbar lain layi aawein
 ---
 
-1
-Chaliya Ayn Te Akbar Watna Te Khairi Aawin.
-Tere Rah Main Takney Roog Wichoray De Veer Na Lawin.
-Bhain Haan Bhaijaan Gi Watna Taun Tere Nawein Veer Chithiyaan.
-Mere Khat Jad Aaway Veran Ik Wari Seene Te Lawin.
+۱
+چلیا ایں تے اکبر وطناں تے خیری آویں
+تیرے راہ میں تکنے روگ وچھوڑے دے ویر نہ لاویں
+بھین ہاں بھیجاں گی وطناں توں تیرے ناویں ویر چٹھیاں
+میرے خط جد آوے ویراں اک واری سینے تے لاویں
 
-2
-Sham Aawaan Gi Phophi Zainab Kita Shereen Naal Wadah.
-Tusi Sham Gaye Te Veer Na Mere Bin Sehra Sajawin.
-Raat Din Veer Main Rowaan Gi Aidi Yaad Jad Sataya.
-Mera Veer Asghar Nu Naal Madine Taun Moor Leyawin.
+۲
+شام آواں گی پھوپھی زینب کیتا شیریں نال وعدہ
+تسی شام گئے تے ویر نہ میرے بن سہرا سجاویں
+رات دن ویر میں روواں گی ایہدی یاد جد ستایا
+میرا ویر اصغر نوں نال مدینے توں موڑ لیاویں
 
-3
-Ain Mumkin Aye Tere Badoon Mainu Maut Aa Sawaway.
-Mainu Qabar Choon Aa Ke Shakal Wakhawan Layi Aap Jagawin.
-Sain Saqlain Aye Kaindi Si Teri Karbala Taun Wari.
-Jadon Shehar Wasawin Bhain Nu Aap Akbar Lain Layi Aawein.
+۳
+عین ممکن اے تیرے بدوں مینوں موت آ سواوے
+مینوں قبر چوں آ کے شکل وکھاون لئی آپ جگاویں
+سائیں ثقلین اے کہندی سی تیری کربلا توں واری
+جدوں شہر وساویں بھین نوں آپ اکبر لین لئی آویں

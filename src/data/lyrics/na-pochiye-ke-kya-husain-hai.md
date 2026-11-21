@@ -12,79 +12,80 @@ aliases:
   - "Na Pochiye Ke Kya Husain Hai"
 published: true
 romanLyrics: |-
-  Na puchiye ke kya Husain hai
-  Khuda Ke Din Ka Na-Khuda
-  Har Ibtida Ki Ibtida
-  Karam Ki Inteha Husain Hai
+  Na puchhiye ke kya Husain hai
+
+  Khuda ke din ka naakhuda
+  Har ibtida ki ibtida
+  Karam ki intiha Husain hai
 
   1
-  Kare Jo Humsari Kisi Ki Kya Majal Hai
-  Jahaṅ Meiṅ Har Lehaz Se Husain beMisal Hai
-  Yeh Ho Chuka Hai Faisla, Na Koi Dosra Khuda
-  Na Koi Dosra Husain Hai
+  Kare jo hamsari kisi ki kya majaal hai
+  Jahaaṅ meiṅ har lihaaz se Husain bemisaal hai
+  Yeh ho chuka hai faisla, na koi dusra Khuda
+  Na koi dusra Husain hai
 
   2
-  Asir-e-Sham Par Nigah Ki To Hurr Bana Diya
-  Jo Mar Rahe The Unko Zindagi Ka Gur Sikha Diya
-  Husain Hai Hayat Gar, Husain Azmatoṅ Ka Ghar
-  Azim Rehnuma Husain Hai
-  Thi har taraf jahaṅ sada
-  Khula ye raaz bhi wahaṅ
-  Hayat baantta Husain hai
+  Asir-e-Shaam par nigaah ki to Hurr bana diya
+  Jo mar rahe the un ko zindagi ka gur sikha diya
+  Husain hai hayaat gar, Husain azmatoṅ ka ghar
+  Azim rehnuma Husain hai
+  Thi har taraf jahaaṅ sada
+  Khula yeh raaz bhi wahaaṅ
+  Hayaat baaṅtta Husain hai
 
   3
-  Karo Ge Gar Mukhalifat Gham-e-Husain Ki Yahaṅ
-  Woh Hashar Hoga Hashar Meiṅ Ke Al-Hafiz o Al-Amaaṅ
-  Jahaṅ Bhi Chupne Jao Ge, Kahiṅ Pe Bach Na Pao Ge
-  Ke Har Jagah Mera Husain Hai
+  Karo ge gar mukhaalifat Gham-e-Husain ki yahaaṅ
+  Woh hashr hoga hashr meiṅ ke al-Hafiz o al-Amaaṅ
+  Jahaaṅ bhi chhupne jaao ge, kahiṅ pe bach na paao ge
+  Ke har jagah mira Husain hai
 
   4
-  Miyan-e-Dasht-e-Nainwa Ulatne Fauj-e-Ashqiya
-  Barha Jo Shah-e-Karbala Utha Ke Taig-e-La-Fatah
-  Lagi Jo Sar Utarne, Kaha Yeh Zulfiqar Ne
-  Ghazab Ka Sorma Husain Hai
+  Miyaan-e-dasht-e-Nainwa ulatne fauj-e-ashqiya
+  Barha jo Shaah-e-Karbala utha ke tegh-e-la fata
+  Lagi jo sar utaarne, kaha yeh Zulfiqar ne
+  Ghazab ka surma Husain hai
 
   5
-  Qaza Ke Baad Phir Mujhe Nayi Hayat Mil Gayi
-  Fishar Se Azab Se Mujhe Nijat Mil Gayi
-  Sawal Jab Kiya Gaya Hai, Kaun Tera Rehnuma
-  To Maiṅ Ne Keh Diya Husain Hai
+  Qaza ke baad phir mujhe nayi hayaat mil gayi
+  Fishaar se azaab se mujhe najaat mil gayi
+  Sawaal jab kiya gaya hai, kaun tera rehnuma
+  To main ne keh diya Husain hai
 
   6
-  Hai Jis Ki Fikr Karbala, Husain Woh Dimagh Hai
-  Yeh Panjtan Ki Anjuman Ka Panchwaṅ Charagh Hai
-  Hasan Ka Pehla Humsafar, Ali Ka Dosra Pisar
-  Imam Tisra Husain Hai
+  Hai jis ki fikr Karbala, Husain woh dimaagh hai
+  Yeh Panjtan ki anjuman ka paanchwaaṅ charaagh hai
+  Hasan ka pehla hamsafar, Ali ka dusra pisar
+  Imaam tisra Husain hai
 
   7
-  Shahid-e-Karbala Ka Gham Jise Bhi Na-Gawar Hai
-  Woh Bad-Amal Hai, Bad-Nasab, Usi Pe beShumar Hai
-  Are O Dushman-e-Aza, Tu Mar Zara Lehad Meiṅ Ja
-  Pata Chalega Kya Husain Hai
+  Shahid-e-Karbala ka gham jise bhi naagawaar hai
+  Woh badamal hai, badnasab, usi pe beshumaar hai
+  Are o dushman-e-aza, tu mar zara lahad meiṅ ja
+  Pata chalega kya Husain hai
 
   8
-  Woh Jis Ne Baandh Kar Hawa, Jala Diya Bujha Diya
-  Zamin Ko Jis Ne Arsh Se Buland Martaba Diya
-  Woh Jis Ne Kainat Ka Nizam Hi Badal Diya
-  Ek Aisa Mojiza Husain Hai
+  Woh jis ne baaṅdh kar hawa, jala diya bujha diya
+  Zamin ko jis ne arsh se buland martaba diya
+  Woh jis ne kaainaat ka nizaam hi badal diya
+  Ik aisa mojiza Husain hai
 
   9
-  Kisi Ko Hosla Diya, Kisi Ko Bakhsh Di Sehar
-  Diye Kisi Ko Baal o Par, Kisi Ko De Diye Pisar
-  Pukari Banda-Parwari, Lughat Meiṅ Ahl-e-Ishq Ki
-  Madad Ka Tarjuma Husain Hai
+  Kisi ko hausla diya, kisi ko bakhsh di sehar
+  Diye kisi ko baal o par, kisi ko de diye pisar
+  Pukaari banda parwari, lughat meiṅ ahl-e-ishq ki
+  Madad ka tarjuma Husain hai
 
   10
-  Hidayat-e-Husain Par Amal Karo Husainiyo
-  Rahenge Hum Bahisht Meiṅ, Yaqin Rakho Husainiyo
-  Qabul Hogi Har Dua, Kisi Se Kiuṅ Dareiṅ Bhala
-  Hamara Wasta Husain Hai
+  Hidaayat-e-Husain par amal karo Husainiyo
+  Raheṅ ge ham bahisht meiṅ, yaqin rakho Husainiyo
+  Qabul hogi har dua, kisi se kiuṅ dareiṅ bhala
+  Hamaara waasta Husain hai
 
   11
-  Surur Gohar-e-Hunar Hua Yeh Khwab Dekh Kar
-  Saje Huye Haiṅ Khuld Meiṅ Tamam Momino Ke Ghar
-  Nishan-e-Gham Hai Jalwagar Har Aadmi Ke Sine Par
-  Har Ek Lab Pe Ya Husain Hai
+  Surur Gohar-e-hunar hua yeh khwaab dekh kar
+  Saje huye haiṅ khuld meiṅ tamaam mominoṅ ke ghar
+  Nishaan-e-gham hai jalwagar har aadmi ke sine par
+  Har ek lab pe ya Husain hai
 ---
 
 نہ پوچھیے کہ کیا حسینؑ ہے

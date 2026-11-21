@@ -12,39 +12,39 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mere liye Firdaus se aaya hai tabarruk.
+  Mere liye Firdaus se aaya hai tabarruk
 
   1
-  Tu ne bhi ajab martaba paaya hai tabarruk.
-  Palkoṅ pe farishtoṅ ne uthaaya hai tabarruk.
+  Tu ne bhi ajab martaba paaya hai tabarruk
+  Palkoṅ pe farishtoṅ ne uthaaya hai tabarruk
 
   2
-  Jibril se keh do mera muṅh chum leiṅ aa kar.
-  Maiṅ ne bhi abhi Shabbir ka khaaya hai tabarruk.
+  Jibril se keh do mera muṅh chum leiṅ aa kar
+  Maiṅ ne bhi abhi Shabbir ka khaaya hai tabarruk
 
   3
-  Ae Faatima Zahra inheiṅ de dijiye roti.
-  Jannat ne farishtoṅ se maṅgaaya hai tabarruk.
+  Ae Faatima Zahra inheiṅ de dijiye roti
+  Jannat ne farishtoṅ se maṅgaaya hai tabarruk
 
   4
-  In bachchoṅ ko dunya ki nazar lag nahiṅ sakti.
-  Jin bachchoṅ ko maaoṅ ne khilaaya hai tabarruk.
+  In bachchoṅ ko dunya ki nazar lag nahiṅ sakti
+  Jin bachchoṅ ko maaoṅ ne khilaaya hai tabarruk
 
   5
-  Ye nazr ye langar ye sabiloṅ ki qataareiṅ.
-  Dunya meiṅ jahaaṅ dekhiye chhaaya hai tabarruk.
+  Ye nazr ye langar ye sabiloṅ ki qataareiṅ
+  Dunya meiṅ jahaaṅ dekhiye chhaaya hai tabarruk
 
   6
-  Paida kiya dunya ko baraa-e-gham-e-Shabbir.
-  Allah ne Jannat ko banaaya hai tabarruk.
+  Paida kiya dunya ko baraa-e-gham-e-Shabbir
+  Allah ne Jannat ko banaaya hai tabarruk
 
   7
-  Shahzaadi-e-kaunain ka rumaal hai sar par.
-  Hur ne ajab andaaz ka paaya hai tabarruk.
+  Shahzaadi-e-kaunain ka rumaal hai sar par
+  Hur ne ajab andaaz ka paaya hai tabarruk
 
   8
-  Shaayad ye Nakirain ke kaam aa sake Nayyar.
-  Is waaste kuchh maiṅ ne bachaaya hai tabarruk.
+  Shaayad ye Nakirain ke kaam aa sake Nayyar
+  Is waaste kuchh maiṅ ne bachaaya hai tabarruk
 ---
 
 میرے لئے فردوس سے آیا ہے تبرک۔

@@ -1,44 +1,67 @@
 ---
-title: "Nanni Si Lehed Shaam Ke Zindaan Main"
+title: "ننھی سی لحد شام کے زنداں میں"
+alternateTitle: "Nanni Si Lehed Shaam Ke Zindaan Main"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nanni si lehed Shaam ke zindaan main bana ke,
+  Maa laut ke jaati hai, Sakina ko sula ke,
+
+  1
+  Ik tasht main aaya hai, jo saaman e rihayi,
+  Abbas ka sar bhi hai, Sakina ke gohar bhi,
+  Sar rakhay kahan dur kahan maa rakhay chupa ke,
+
+  2
+  Rassi se jakarte huway, kharoun pe chala te,
+  Har roz sazayen nayi, uss bachi ko detay,
+  Maani bhi samajhti na thi jo bachi saza ke,
+
+  3
+  Kal tak thi jo lori wohi, ab hogaya noha,
+  Un baatoun ko jab sochti, dil kat tha maa ka,
+  Dil beti ka behlati thi kal tak jo suna ke,
+
+  4
+  Abbas ke mashkeezay ko, naizay pe uthatay,
+  Baatain kabhi Ghazi ki, shahadat ki sunatay,
+  Khush hotay rahay Shaami, Sakina ko sata ke,
+
+  5
+  Akbar jo lehed Abid e Muztar ne banayi,
+  Woh matti bhi turbat main, Sakina ki milayi,
+  Thi matti jo zindaan main kaam aayi rida ke,
 ---
 
-Nanni Si Lehed Shaam Ke Zindaan Main Bana Ke,
+ننھی سی لحد شام کے زنداں میں بنا کے،
+ماں لوٹ کے جاتی ہے، سکینہ کو سلا کے،
 
-Maa Laut Ke Jaati Hai, Sakina Ko Sula Ke,
+۱
+اک طشت میں آیا ہے، جو سامانِ رہائی،
+عباس کا سر بھی ہے، سکینہ کے گوہر بھی،
+سر رکھے کہاں دُر کہاں ماں رکھے چھپا کے،
 
-Ik Tasht Main Aaya Hai, Jo Saaman e Rihayi,
+۲
+رسی سے جکڑتے ہوئے، خروں پہ چلاتے،
+ہر روز سزائیں نئی، اس بچی کو دیتے،
+معنی بھی سمجھتی نہ تھی جو بچی سزا کے،
 
-Abbas Ka Sar Bhi Hai, Sakina Ke Gohar Bhi,
+۳
+کل تک تھی جو لوری وہی، اب ہو گیا نوحہ،
+ان باتوں کو جب سوچتی، دل کٹتا ماں کا،
+دل بیٹی کا بہلاتی تھی کل تک جو سنا کے،
 
-Sar Rakhay Kahan Dur Kahan Maa Rakhay Chupa Ke,
+۴
+عباس کے مشکیزے کو، نیزے پہ اٹھاتے،
+باتیں کبھی غازی کی، شہادت کی سناتے،
+خوش ہوتے رہے شامی، سکینہ کو ستا کے،
 
-Rassi Se Jakarte Huway, Kharoun Pe Chala Te,
-
-Har Roz Sazayen Nayi, Uss Bachi Ko Detay,
-
-Maani Bhi Samajhti Na Thi Jo Bachi Saza Ke,
-
-Kal Tak Thi Jo Lori Wohi, Ab Hogaya Noha,
-
-Un Baatoun Ko Jab Sochti, Dil Kat Tha Maa Ka,
-
-Dil Beti Ka Behlati Thi Kal Tak Jo Suna Ke,
-
-Abbas Ke Mashkeezay Ko, Naizay Pe Uthatay,
-
-Baatain Kabhi Ghazi Ki, Shahadat Ki Sunatay,
-
-Khush Hotay Rahay Shaami, Sakina Ko Sata Ke,
-
-Akbar Jo Lehed Abid e Muztar Ne Banayi,
-
-Woh Matti Bhi Turbat Main, Sakina Ki Milayi,
-
-Thi Matti Jo Zindaan Main Kaam Aayi Rida Ke,
+۵
+اکبر جو لحد عابدِ مضطر نے بنائی،
+وہ مٹی بھی تربت میں، سکینہ کی ملائی،
+تھی مٹی جو زنداں میں کام آئی ردا کے،

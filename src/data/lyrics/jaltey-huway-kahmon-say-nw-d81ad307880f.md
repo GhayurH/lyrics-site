@@ -1,50 +1,75 @@
 ---
-title: "Jaltey Huway Kahmon Say"
+title: "جلتے ہوئے خیموں سے"
+alternateTitle: "Jaltey Huway Kahmon Say"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jathay huway kehmon say, Zainab key sada aaii Abbas kahan ho tum
+  Na sar pay rahi chadar, na mera bacha bhai
+
+  1
+  Abbas chalay aho, khemon may gharebon kay
+  Bhukay aur piyasay hain, lootay hain naseebon kay
+  Sajjad ko hosh nahi, Kulsum hay ghabayrahey
+
+  2
+  Jalthi huwi darthi pay, mazloom ki lash pari
+  Rothi hay Sakina bhi, baba kay paas khari
+  Haay haalay yatimana, ghurbat ki ghata chaee
+
+  3
+  Ha ay Shimray kaminay nay, masoom Sakina kay
+  Maaray hain thamachay bhi, haay phool say galoon pay
+  Ah jao chacha ghazi, roh roh kay wo chilayey
+
+  4
+  Shabir chala run may, ka hi roz ka piyasa hay
+  Teeron say huwa chalni, mazloom ka piyasa hay
+  Na kafan mila us ko, na khabar hey bun payee
+
+  5
+  Kulsum nay sar peeta, maktal may karay ho kay
+  Haay kamptay hathoon say, Zainub nay roh roh kay
+  Dastar imamat key, Sajjad ko pehnaey
+
+  Jaltey howey kahymon se
+  Zainab ki sada aai
+  Jaltay howay khaymon se
 ---
 
-Jathay huway kehmon say, Zainab key sada aaii Abbas kahan ho tum
+جلتے ہوئے خیموں سے، زینب کی صدا آئی عباس کہاں ہو تم
+نہ سر پہ رہی چادر، نہ میرا بچا بھائی
 
-Na sar pay rahi chadar, na mera bacha bhai
+۱
+عباس چلے آؤ، خیموں میں غریبوں کے
+بھوکے اور پیاسے ہیں، لٹے ہیں نصیبوں کے
+سجاد کو ہوش نہیں، کلثوم ہے گھبرائی
 
-) Abbas chalay aho, khemon may gharebon kay
+۲
+جلتی ہوئی دھرتی پہ، مظلوم کی لاش پڑی
+روتی ہے سکینہ بھی، بابا کے پاس کھڑی
+ہائے حالِ یتیمانہ، غربت کی گھٹا چھائی
 
-bhukay aur piyasay hain, lootay hain naseebon kay
+۳
+ہائے شمر کمینے نے، معصوم سکینہ کے
+مارے ہیں طمانچے بھی، ہائے پھول سے گالوں پہ
+آ جاؤ چچا غازی، رو رو کے وہ چلّائی
 
-Sajjad ko hosh nahi, Kulsum hay ghabayrahey
+۴
+شبیر چلا رن میں، کئی روز کا پیاسا ہے
+تیروں سے ہوا چھلنی، مظلوم کا پیاسا ہے
+نہ کفن ملا اس کو، نہ قبر ہی بن پائی
 
-) Jalthi huwi darthi pay, mazloom ki lash pari
+۵
+کلثوم نے سر پیٹا، مقتل میں کھڑے ہو کے
+ہائے کانپتے ہاتھوں سے، زینب نے رو رو کے
+دستارِ امامت کی، سجاد کو پہنائی
 
-rothi hay Sakina bhi, baba kay paas khari
-
-haay haalay yatimana, ghurbat ki ghata chaee
-
-) Ha ay shimray kaminay nay, masoom Sakina kay
-
-maaray hain thamachay bhi, haay phool say galoon pay
-
-ah jao chacha ghazi, roh roh kay wo chilayey
-
-) Shabir chala run may, ka hi roz ka piyasa hay
-
-teeron say huwa chalni, mazloom ka piyasa hay
-
-na kafan mila us ko, na khabar hey bun payee
-
-) Kulsum nay sar peeta, maktal may karay ho kay
-
-haay kamptay hathoon say, Zainub nay roh roh Kay
-
-dastar imamat key, Sajjad ko pehnaey
-
-Jaltey Howey Kahymon Se
-
-Zainab ki sada aai
-
-Jaltay Howay Khaymon se
+جلتے ہوئے خیموں سے
+زینب کی صدا آئی
+جلتے ہوئے خیموں سے

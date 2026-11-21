@@ -24,29 +24,29 @@ romanLyrics: |-
   Teri taraf jab dil jaata hai
   Banda Khuda se mil jaata hai
   Zakhm jigar ka sil jaata hai
-  Gham ki dawa hum tujh se hi paaye
+  Gham ki dawaa hum tujh se hi paaye
 
   3
-  Farsh-e-aza aur tera maatam
+  Farsh-e-azaa aur tera maatam
   Aise namaaz-e-ishq pare hum
-  Eid ho ya ho maah-e-Muharram
+  Eid ho ya maah-e-Muharram
   Aati rahe har ghar se sadaaeṅ
 
   4
   Shajroṅ ki tasdiq tera gham
   Nasloṅ ke tahqiq tera gham
-  Baais-e-takhliq tera gham
+  Baasi-e-takhliq tera gham
   Kiuṅ na sadaaeṅ dil se ye aaye
 
   5
-  Ashk-e-aza jaagir hamaari
+  Ashk-e-azaa jaagir hamaari
   Maatam hai tafsir hamaari
-  Farsh-e-aza taamir hamaari
-  Farsh-e-aza phir kiuṅ na bichhaaye
+  Farsh-e-azaa taamir hamaari
+  Farsh-e-azaa phir kiuṅ na bichhaaye
 
   6
   Ahl-e-jahaaṅ maane na maane
-  Inko to mukhtaar hi jaane
+  In ko to mukhtasar hi jaane
   Zinda hai tujh se hi azaaneṅ
   Batlaati hai khuni qabaaeṅ
 
@@ -69,8 +69,8 @@ romanLyrics: |-
   Jalti zamiṅ aur garm hawaaeṅ
 
   10
-  Mazhar ki har waqt dua hai
-  Dunya ki har shai ko fana hai
+  Mazhar ki har waqt duaa hai
+  Dunya ki har shai ko fanaa hai
   Jab tak baaqi ye dunya hai
   Aati rahe maatam ki sadaaeṅ
 ---

@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jo dard fatema ne ali se chupaye hai
-  Tanhaai may kaniz ko apni sunaye hai
-  Batul ro pari fizza ko ye bataate huye
-  Hasan ne dekha hai mujhko tamache khaate huye
-  Batul ro pari fizza ko ye bataate huye
-  Na jaane kya kiya zaalim ne fatema pe sitam
-  Zaif ho gayi beti rasul ki ek dam
-  Sanad ke tukroṅ ko darbar may uthaate huye
+  Jo dard Fatema ne Ali se chhupaaya hai
+  Tanhaai meiṅ kaniz ko apni sunaaye hai
+  Batul ro pari Fizza ko ye bataate hue
+  Hasan ne dekha hai mujhko tamaanche khaate hue
+  Batul ro pari Fizza ko ye bataate hue
+  Na jaane kya kiya zaalim ne Fatema pe sitam
+  Zaif ho gayi beti Rasul ke ek dam
+  Sanad ke tukroṅ ko darbaar meiṅ uthaate hue
   Batul ro pari...
-  Mai aaj shehr e madina ko hi mita dungi
-  Agar ali ko na chora tu bad'dua dungi
-  Kaha batul ne sar se rida hataate huye
+  Maiṅ aaj shehr-e-Madina ko hi mita dungi
+  Agar Ali ko na chhora to bad dua dungi
+  Kaha Batul ne sar se rida hataate hue
   Batul ro pari...
-  Jo mujhpe guzri hai mujhse na ho sakegi bayaṅ
-  Wo dekho ab bhi hai dewaar par lahu ke nishaṅ
-  Mai dekhti hu inhe roz aate jaate huye
+  Jo mujh pe guzri hai mujh se na ho sakegi bayaaṅ
+  Woh dekho ab bhi hai dewaar par lahu ke nishaaṅ
+  Maiṅ dekhti huṅ inheṅ roz aate jaate hue
   Batul ro pari...
-  Bataya sab ko jo mafhum hai wilayat ka
-  Laboṅ pe shikwa na binte rasul ki aaya
-  Ali ali hi kiya taaziyane khaate huye
+  Bataaya sab ko jo mafhum hai wilaayat ka
+  Laboṅ pe shikwa na Bint-e-Rasul ki aaya
+  Ali Ali hi kiya taaziyaane khaate hue
   Batul ro pari...
-  Woh mujhse chup ke meri bekasi pe rota hai
-  Khayaal rakhna ye nazuk mizaaj beta hai
-  Mere janaze se shabbir ko hataate huye
+  Woh mujh se chhup ke meri bekasi pe rota hai
+  Khayaal rakhna ye naazuk mizaaj beta hai
+  Mere janaaze se Shabbir ko hataate hue
   Batul ro pari...
-  Abu haasan ko tha patke se maiṅ ne thaama huwa
-  Magar layin ne durre se yuṅ mujhe maara
-  Zamiṅ pe gar gayi fizza mai larkhadate huye
+  Abu Hasan ko tha patke se maiṅ ne thaama hua
+  Magar lain ne durre se yuṅ mujhe maara
+  Zamiṅ pe gar gayiṅ Fizza maiṅ larkharaate hue
   Batul ro pari...
-  Ba roze hashr mai mehdi ko yeh bataungi
-  Tamaam phasliyaṅ tuti hai is liye meri
-  Layiṅ ne maara tha thokar se aate jaate huye
+  Ba roz-e-hashr maiṅ Mahdi ko ye bataauṅ gi
+  Tamaam pasliyaaṅ tuti haiṅ is liye meri
+  Laiṅ ne maara tha thokar se aate jaate hue
   Batul ro pari...
-  Mera fareeza nibhayegi laadli meri
-  Ghirayga sholoṅ may jis waqt ek aur ali
-  Chalegi aag pe zainab use bachate huye
+  Mera fariza nibhaaye gi laadli meri
+  Ghire ga sholoṅ meiṅ jis waqt ek aur Ali
+  Chalegi aag pe Zainab use bachaate hue
   Batul ro pari...
-  Padar ki qabr pe akbar wo ro ke kehti thi
-  Hifaazat aap ne mujhko ali ki saunpi thi
-  Tamache maiṅ ne hai khaaye unhe bachate huye
+  Padar ki qabr pe Akbar woh ro ke kehti thi
+  Hifaazat aap ne mujhko Ali ki saunpi thi
+  Tamache maiṅ ne haiṅ khaaye unheṅ bachaate hue
   Batul ro pari...
 ---
 

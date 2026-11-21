@@ -16,12 +16,12 @@ romanLyrics: |-
   Waqt-e-madad hai waali ab der mat lagaao
 
   1
-  Kis yaas se sadaaeiṅ hal min ki de rahe haiṅ
-  Narghe meiṅ haiṅ adu ke aaqa unheiṅ bachaao
+  Kis yaas se sadaaeṅ hal min ki de rahe haiṅ
+  Narghe meiṅ haiṅ adu ke aaqa unheṅ bachaao
 
   2
   Tanhaai bekasi ne ghera hai har taraf se
-  Lillaah is bala se aa kar unheiṅ chhuraao
+  Lillaah is bala se aa kar unheṅ chhuraao
 
   3
   Chhalni badan hai saara zakhmoṅ se khuṅ rawaaṅ hai
@@ -40,8 +40,8 @@ romanLyrics: |-
   Mushkil kusha ke dilbar aao madad ko aao
 
   7
-  Kuchh saaatoṅ ki bewa karti rahi jo ro kar
-  Tum bhi Anis nauha wohi hameiṅ sunaao
+  Kuchh saa'atoṅ ki bewa karti rahi jo ro kar
+  Tum bhi Anis nauha wohi hameṅ sunaao
 ---
 نوحہ لبابہ کا تھا عباس جلد آؤ
 وقتِ مدد ہے والی اب دیر مت لگاؤ

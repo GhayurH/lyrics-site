@@ -1,5 +1,6 @@
 ---
-title: "Yehi Charagh Jalenge To Roshni Hogi"
+title: "یہی چراغ جلیں گے تو روشنی ہو گی"
+alternateTitle: "Yehi Charagh Jaleṅge To Roshni Hogi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,57 +9,56 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  ay ahle aza ay ahle aza
-  khoon se jala gaye jo shaheedane karbala
-  yehi charagh jalenge to roshni hogi
-  ghar ghar biche farshe aza
-  dil mein ho gham shabbir ka
-  aankhon mein ho ashk e aza
-  majlis Husain ki ho
-  ya matam Husain ka
-  yehi charagh jalenge..
-  abbas saqqa e haram
-  jiske huwe baazu qalam
-  phir bhi raha ooncha alam
-  har ghar pe bawafa ka
-  ye parcham rahe sada
-  yehi charagh jalenge..
-  malboos ho tan par siyaah
-  ghar ho hussaini baargah
-  mashk o alam ye zuljanah
-  ye taaziye ye jhoole
-  sabeelon ka silsila
-  yehi charagh jalenge..
-  emaan ki pehchan hai
-  ye zeenat e maidan hai
-  nusrat ka ye aelaan hai
-  naara e hyderi hum
-  lagayenge jaa bajaa
-  yehi charagh jalenge..
-  paidal najaf ta karbala
-  jaari safar hai ishq ka
-  tay ho raha hai faasla
-  ta hashr na ruke ye
-  azadaar khaafela
-  yehi charagh jalenge..
-  abid ka gham akbar ka gham
-  qasim ka gham asghar ka gham
-  ye gham kabhi hoga na kam
-  sog aal e mustafa ka
-  manayenge hum sada
-  yehi charagh jalenge..
-  karbobala kufa o shaam
-  ahl e haram balwa e aam
-  hum yaad rakhenge tamaam
-  binte ali ke khutbe
-  na bhoolenge ba khuda
-  yehi charagh jalenge..
-  tum bhi jawad o shadman
-  nauhon ki do mil kar azan
-  matam kuna ho ye jahan
-  labbaik ya hussaina
-  labon par ho ye sada
-  yehi charagh jalenge..
+  Khuṅ se jala gaye jo shahidaan-e-Karbala
+  Yehi charagh jaleṅge to roshni hogi
+  Ghar ghar bichhe farsh-e-aza
+  Dil meiṅ ho gham Shabbir ka
+  Aaṅkhoṅ meiṅ ho ashk-e-aza
+  Majlis Husain ki ho
+  Ya maatam Husain ka
+  Yehi charagh jaleṅge
+  Abbas saqqa-e-haram
+  Jis ke hue baazu qalam
+  Phir bhi raha uṅcha alam
+  Har ghar pe baawafa ka
+  Ye parcham rahe sada
+  Yehi charagh jaleṅge
+  Malbus ho tan par siyaah
+  Ghar ho Husaini baargaah
+  Mashk o alam ye Zuljanaah
+  Ye taaziye ye jhule
+  Sabiloṅ ka silsila
+  Yehi charagh jaleṅge
+  Imaan ki pehchaan hai
+  Ye zinat-e-maidaan hai
+  Nusrat ka ye ailaan hai
+  Naara-e-Haidari hum
+  Lagaaeṅge jaa bajaa
+  Yehi charagh jaleṅge
+  Paidal Najaf ta Karbala
+  Jaari safar hai ishq ka
+  Tai ho raha hai faasla
+  Ta hashr na ruke ye
+  Azaadaar qaafila
+  Yehi charagh jaleṅge
+  Abid ka gham Akbar ka gham
+  Qaasim ka gham Asghar ka gham
+  Ye gham kabhi hoga na kam
+  Sog Aal-e-Mustafa ka
+  Manaaeṅge hum sada
+  Yehi charagh jaleṅge
+  Karb o Bala Kufa o Shaam
+  Ahl-e-haram balwa-e-aam
+  Hum yaad rakheṅge tamaam
+  Bint-e-Ali ke khutbe
+  Na bhuleṅge ba khuda
+  Yehi charagh jaleṅge
+  Tum bhi Jawaad o Shaadmaaṅ
+  Nauhoṅ ki do mil kar azaaṅ
+  Maatam kunaaṅ ho ye jahaaṅ
+  Labbaik ya Husaina
+  Laboṅ par ho ye sada
+  Yehi charagh jaleṅge
 ---
 
 خوں سے جلا گےء جو شہیدانِ کربلا

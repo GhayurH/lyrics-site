@@ -17,19 +17,19 @@ romanLyrics: |-
 
   1
   Bibiyoṅ hoshiyaar ho bachchoṅ ko godi meiṅ lo
-  Hilti hai arz-e-bala haaye qayaamat hui
+  Hilti hai arz-e-balaa haaye qayaamat hui
 
   2
-  Kaat liya Shah ka sar aate haiṅ aada idhar
+  Kaat liya Shah ka sar aate haiṅ adaa idhar
   Kaun unheiṅ rokega haaye qayaamat hui
 
   3
   Kya kare bekas behan hota hai paamaal tan
-  Baad-e-qaza ye jafa haaye qayaamat hui
+  Baad-e-qazaa ye jafaa haaye qayaamat hui
 
   4
   Uthne laga hai dhuaaṅ khaimoṅ se jaaeiṅ kahaaṅ
-  Aada ne chhini rida haaye qayaamat hui
+  Adaa ne chhini ridaa haaye qayaamat hui
 
   5
   Khaimoṅ se baahar chalo jaaṅ ki hifaazat karo

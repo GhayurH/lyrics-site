@@ -1,26 +1,41 @@
 ---
-title: "Nabi Apne Betey Ki Ghurbat Pe Roye"
+title: "نبی اپنے بیٹے کی غربت پہ روئے"
+alternateTitle: "Nabi Apne Betey Ki Ghurbat Pe Roye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Farman"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Nabi apne betey ki ghurbat pe roye
+  Imam-e-Raza ki shahdat pe roye
+
+  1
+  Ghareeb-ul-watan hai yeh mazloom kaisa
+  Jin-o-malak yeh keh ke turbat pe roye
+  Diya gham hai meri hi aulad ko kyun
+  Nabi yeh hi keh kar hain ummat pe roye
+
+  2
+  Kya afsos apne Nabi ko diya hai
+  Tumhari woh ajar-e-risalat pe roye
+  Likhon kya main Farman ab is se barh kar
+  They Quran-o-Kaba naqahat pe roye
 ---
 
-Nabi Apne Betey Ki Ghurbat Pe Roye.
-Imam-e-Raza Ki Shahdat Pe Roye.
+نبی اپنے بیٹے کی غربت پہ روئے
+امامِ رضا کی شہادت پہ روئے
 
-1
-Ghareeb-ul-Watan Hai Yeh Mazloom Kaisa.
-Jin-o-Malak Yeh Keh Ke Turbat Pe Roye.
-Diya Gham Hai Meri Hi Aulad Ko Kyun.
-Nabi Yeh Hi Keh Kar Hain Ummat Pe Roye.
+۱
+غریب الوطن ہے یہ مظلوم کیسا
+جن و ملک یہ کہہ کے تربت پہ روئے
+دیا غم ہے میری ہی اولاد کو کیوں
+نبی یہ ہی کہہ کر ہیں امت پہ روئے
 
-2
-Kya Afsos Apne Nabi Ko Diya Hai.
-Tumhari Woh Ajar-e-Risalat Pe Roye.
-Likhon Kya Main Farman Ab Is Se Barh Kar.
-They Quran-o-Kaba Naqahat Pe Roye.
+۲
+کیا افسوس اپنے نبی کو دیا ہے
+تمہاری وہ اجرِ رسالت پہ روئے
+لکھوں کیا میں فرمان اب اس سے بڑھ کر
+تھے قرآن و کعبہ نقاہت پہ روئے

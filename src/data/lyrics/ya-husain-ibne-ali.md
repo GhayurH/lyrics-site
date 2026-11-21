@@ -10,66 +10,58 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Husain ibne ali ya ali ibne Husain
-
   1
-  Hai inhi ka to lahoo deen ki buniyadon mein
-
-  2
-  Sulhe shabbar se mili thi shahe deen ko mohlat
-  Kuch dino baad phir utha jo sawale bayyat
-  Dil ne samjhaya ke bas aagaya waqt e hijrat
-  Khaafila leke chale suye haram jo hazrat
-  Zalzale aane lage jabr ke aywano mein
-
-  3
-  Aise halaat bigaade gaye phir kaabe ke
-  Haram e paak mein bhi shaah na rehne paaye
-  Haj ko umre se badal kar shahe laulaak chale
-  Aur phir ghayr ke maqtal ki taraf laaye gaye
-  Kuch taras kuch nahi tauheed ke rakhwalon mein
-
-  4
-  Nainawa par jo ruka ashqe shahe jinn o bashar
-  Sheh ne logon se khareedi wo zameene mehshar
-  Kufa o shaam se aate rahe payham lashkar
-  Subhe ashoor ko phir goonji azane akbar
-  Hurrate roz chala roshni bardaron mein
-
-  5
-  Kaunsa dukh hai wo dukh shahe deen ne na saha
-  Jung karte hue ghazi ko bahot yaad kiya
-  Shahe mazloom pe har tarha ka hathyar chala
-  Khanjar o taygh o tabar pathar o barchi bhaala
-  Jism teero pe raha khoon ki bocharon mein
-
-  6
-  Aandhiyan chalne lagi asr ka aaya hungaam
-  Parda e qaima utha uthgaya bemaar imam
-  Hujjate haq ne kiya farqe bureeda ko sal am
-  Hashr tak phailgayi shaam e ghariban teri shaam
-  Juz ali kaun hai itrat ke nigehwaron mein
-
-  7
-  Khaafla leke chala dashte bala se bemaar
-  Jarase kaarwan zanjeere garan ki jhankaar
-  Garm reti pa sulagte hue chaalon ki bahaar
-  Sar khule bibiyan aur sar pe wo sehra ka ghubaar
-  Kayi atfaal giray oonth se maidano mein
-
-  8
-  Qaid khane mein sakina ki jo tadfeen hui
-  Haram e shaah ke azaadi ki bunyad rakhi
-  Ghar mein qaatil ke aza e shahe dilgeer rakhi
-  Karbala kya hai ye pehchan to zainab ne bhi di
-  Phir qadam rakh diya sajjad ne toofano mein
-
-  9
-  Arbaeen marqad e sarwar pe kiya abid ne
-  Gham ki rodaad ko nana se kaha abid ne
-  Baad e ashoor bhi har zulm saha abid ne
-  Phir bhi paaya hai laqab zainul-liban abid ne
-  Sabhi shahid hai ke maula hai azadaron mein
+  Ya Husain ibn-e-Ali ya Ali ibn-e-Husain
+  Hai inhi ka to lahu din ki buniyaadoṅ mein
+  Ya Husain ibn-e-Ali
+  Sulh-e-Shabbar se mili thi shah-e-diṅ ko mohlat
+  Kuchh dinoṅ baad phir uthao jo sawaal-e-baiat
+  Dil ne samjhaaya ke bas aa gaya waqt-e-hijrat
+  Qaafila le ke chale su-e-haram jo Hazrat
+  Zalzale aane lage jabr ke aiwaanoṅ mein
+  Ya Husain ibn-e-Ali
+  Aise haalaat bigaare gaye phir Kaabe ke
+  Haram-e-paak mein bhi shaah na rehne paaye
+  Haj ko umre se badal kar shah-e-Laulaak chale
+  Aur phir ghair ke maqtal ki taraf laaye gaye
+  Kuchh taras kuchh nahiṅ tauhid ke rakhwaaloṅ mein
+  Ya Husain ibn-e-Ali
+  Nainawa par jor ka aashiq shah-e-jinn o bashar
+  Shah na logoṅ se kharidi wo zamin-e-mahshar
+  Kufa o Shaam se aate rahe paiham lashkar
+  Shab-e-Aashur ko phir gunji azaan-e-Akbar
+  Hurat-e-roz chala roshni bardaaroṅ mein
+  Ya Husain ibn-e-Ali
+  Kaun sa dukh hai wo dukh shah-e-diṅ ne na saha
+  Jang karte hue ghaazi ko bahut yaad kiya
+  Shah-e-mazlum pe har tarah ka hathiyaar chala
+  Khanjar o tegh o tabar patthar o barchhi chala
+  Jism tiroṅ pe raha khun ki bochhaaroṅ mein
+  Ya Husain ibn-e-Ali
+  Aandhiyaaṅ chalne lagi asr ka aaya
+  Parda-e-khaima utha uth gaya bimaar imaam
+  Hujjat-e-haq ne kiya farq-e-burida ko salaam
+  Hashr tak phail gai shaam-e-gharibaaṅ ko salaam
+  Juz Ali kaun hai itrat ke nigahwaaroṅ mein
+  Ya Husain ibn-e-Ali
+  Qaafila le ke chala dasht-e-bala se bimaar
+  Jaras-e-kaarwaan zanjir-e-garoṅ ki jhankaar
+  Garm reti pe sulagte hue chhaaloṅ ki bahaar
+  Sar khule Bibiyaaṅ aur sar pe wo sehre ka ghubaar
+  Kai atfaal gire unt se maidaanoṅ mein
+  Ya Husain ibn-e-Ali
+  Qaid khaane mein Sakina ki jo tadfin hui
+  Haram-e-shaah ki aazaadi ki buniyaad rakhi
+  Ghar mein qaatil ke azaa-e-shah-e-dilgir rakhi
+  Karbala kya hai ye pehchaan to Zainab ne bhi di
+  Phir qadam rakh diya Sajjad ne tufaanoṅ mein
+  Ya Husain ibn-e-Ali
+  Arbain marqad-e-Sarwar pe kiya Aabid ne
+  Gham ki rudaad ko naana se kaha Aabid ne
+  Baad-e-Aashur bhi har zulm saha Aabid ne
+  Phir bhi paaya hai laqab Zain-ul-Abaa Aabid ne
+  Sabhi Shahid haiṅ ke Maula haiṅ azaadaaroṅ mein
+  Ya Husain ibn-e-Ali
 ---
 
 ۱

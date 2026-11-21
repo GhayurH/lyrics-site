@@ -1,29 +1,46 @@
 ---
-title: "Okhiyaan Rahwaan Te Painday Karne Pay Gaye Lyrics 2020"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اوکھیاں راہواں تے پینڈے کرنے پے گئے"
+alternateTitle: "Okhiyaan Rahwaan Te Painday Karne Pay Gaye"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Okhiyaan rahwaan te painday karne pay gaye
+
+  1
+  Dukh ridawaan de jino naal kharney pay gaye
+  Khon da pardah banaya Imam akhiyaan te
+  Be rida phophiyaan de sir ohno takney pay gaye
+  Bhar beemar uttay thora nahin si ghairat da
+  Chodaan so meel kiwein ohno turney pay gaye
+  Lafz Quran te aawaz jidi ba pardah
+
+  2
+  Ohno bazaraan de wich khutbay parhne pay gaye
+  Hath jiday chumda si Shabeer naal ronda si
+  Tapday zanjeer tere ohno pharney pay gaye
+  Bhajdiyaan onthaan utton jehray jhan de ray Najfi
+  Tapday sehrawan de wich baal chadney pay gaye
 ---
 
-Okhiyaan Rahwaan Te Painday Karne Pay Gaye
+اوکھیاں راہواں تے پینڈے کرنے پے گئے
 
-1
-Dukh Ridawaan De Jino Naal Kharney Pay Gaye.
-Khon Da Pardah Banaya Imam Akhiyaan Te.
-Be Rida Phophiyaan De Sir Ohno Takney Pay Gaye.
-Bhar Beemar Uttay Thora Nahin Si Ghairat Da.
-Chodaan So Meel Kiwein Ohno Turney Pay Gaye.
-Lafz Quran Te Aawaz Jidi Ba Pardah.
+۱
+دکھ رداواں دے جنوں نال کھڑنے پے گئے
+خون دا پردہ بنایا امام اکھیاں تے
+بے ردا پھپھیاں دے سر اوہنوں تکنے پے گئے
+بھار بیمار اُتے تھوڑا نہیں سی غیرت دا
+چوداں سو میل کیویں اوہنوں ترنے پے گئے
+لفظ قرآن تے آواز جیدی باپردہ
 
-2
-Ohno Bazaraan De Wich Khutbay Parhne Pay Gaye.
-Hath Jiday Chumda Si Shabeer Naal Ronda Si.
-Tapday Zanjeer Tere Ohno Pharney Pay Gaye.
-Bhajdiyaan Onthaan Utton Jehray Jhan De Ray Najfi.
-Tapday Sehrawan De Wich Baal Chadney Pay Gaye.
-Noha Khuwan Party Ch Faiyaz Party Sialkot.
+۲
+اوہنوں بازاراں دے وچ خطبے پڑھنے پے گئے
+ہتھ جیدے چمدا سی شبیر نال روندا سی
+تپدے زنجیر تیرے اوہنوں پھڑنے پے گئے
+بھجدیاں اونٹھاں اُتوں جیہڑے جاں دے رئے نجفی
+تپدے صحراواں دے وچ بال چھڈنے پے گئے

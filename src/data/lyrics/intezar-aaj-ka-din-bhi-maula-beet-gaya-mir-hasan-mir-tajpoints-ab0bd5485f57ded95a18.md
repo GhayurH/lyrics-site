@@ -1,50 +1,90 @@
 ---
-title: "Intezar Aaj Ka Din Bhi Maula Beet Gaya Mir Hasan Mir"
+title: "انتظار – آج کا دن بھی مولا بیت گیا – میر حسن میر"
+alternateTitle: "Intezar Aaj Ka Din Bhi Maula Beet Gaya Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Intezar – aaj ka din bhi Maula beet gaya
+  Phir mera intezar jeet gaya
+
+  1
+  Main tere hijar mein tarapta hoon
+  Sans leta hoon phir bhi murda hoon
+  Lailatul Qadr meri ratein kar
+  Khuwab mein aa ke mujh se batein kar
+
+  2
+  Dil hai furqat mein be-qarar bohat
+  Pee chuka zehar-e-intezar bohat
+  Apne Suqrat ko bacha aa kar
+  Sharbat-e-deed se pila la kar
+
+  3
+  Faris-e-teergi se nikala hoon
+  Main bhi Salman banna chahta hoon
+  Ghar ki masjid se ta had-e-Kaba
+  Main ne tujh ko kahan nahi dhonda
+
+  4
+  Maut barsoon se hai taaqub mein
+  Dair kitni hai ab takhatub mein
+  Aye haqeeqat majaz mein aa ja
+  Mujh se milne namaz mein aa ja
+
+  5
+  Lutf kab aye ga azano mein
+  Kab sada aye gi yeh kano mein
+  Sahib-e-Zulfiqar aata hai
+  Badalon par sawar aata hai
+
+  6
+  Mere iss khuwab ko haqeeqat kar
+  Reham kar tu mere qabilay par
+  Hai Takallum ki iltija aa ja
+  Mere ann dekhe Mustafa aa ja
 ---
 
-Intezar – Aaj Ka Din Bhi Maula Beet Gaya.
-Phir Mera Intezar Jeet Gaya.
+انتظار – آج کا دن بھی مولا بیت گیا
+پھر میرا انتظار جیت گیا
 
-1
-Main Tere Hijar Mein Tarapta Hoon.
-Sans Leta Hoon Phir Bhi Murda Hoon.
-Lailatul Qadr Meri Ratein Kar.
-Khuwab Mein Aa Ke Mujh Se Batein Kar.
+۱
+میں تیرے ہجر میں تڑپتا ہوں
+سانس لیتا ہوں پھر بھی مردہ ہوں
+لیلۃ القدر میری راتیں کر
+خواب میں آ کے مجھ سے باتیں کر
 
-2
-Dil Hai Furqat Mein Be-Qarar Bohat.
-Pee Chuka Zehar-e-Intezar Bohat.
-Apne Suqrat Ko Bacha Aa Kar.
-Sharbat-e-Deed Se Pila La Kar.
+۲
+دل ہے فرقت میں بے قرار بہت
+پی چکا زہرِ انتظار بہت
+اپنے سقراط کو بچا آ کر
+شربتِ دید سے پلا لا کر
 
-3
-Faris-e-Teergi Se Nikala Hoon.
-Main Bhi Salman Banna Chahta Hoon.
-Ghar Ki Masjid Se Ta Had-e-Kaba.
-Main Ne Tujh Ko Kahan Nahi Dhonda.
+۳
+فارسِ تیرگی سے نکالا ہوں
+میں بھی سلمان بننا چاہتا ہوں
+گھر کی مسجد سے تا حدِ کعبہ
+میں نے تجھ کو کہاں نہیں ڈھونڈا
 
-4
-Maut Barsoon Se Hai Taaqub Mein.
-Dair Kitni Hai Ab Takhatub Mein.
-Aye Haqeeqat Majaz Mein Aa Ja.
-Mujh Se Milne Namaz Mein Aa Ja.
+۴
+موت برسوں سے ہے تعاقب میں
+دیر کتنی ہے اب تخاطب میں
+اے حقیقت مجاز میں آ جا
+مجھ سے ملنے نماز میں آ جا
 
-5
-Lutf Kab Aye Ga Azano Mein.
-Kab Sada Aye Gi Yeh Kano Mein.
-Sahib-e-Zulfiqar Aata Hai.
-Badalon Par Sawar Aata Hai.
+۵
+لطف کب آئے گا اذانوں میں
+کب صدا آئے گی یہ کانوں میں
+صاحبِ ذوالفقار آتا ہے
+بادلوں پر سوار آتا ہے
 
-6
-Mere Iss Khuwab Ko Haqeeqat Kar.
-Reham Kar Tu Mere Qabilay Par.
-Hai Takallum Ki Iltija Aa Ja.
-Mere Ann Dekhe Mustafa Aa Ja.
+۶
+میرے اس خواب کو حقیقت کر
+رحم کر تو میرے قبیلے پر
+ہے تکلم کی التجا آ جا
+میرے اَن دیکھے مصطفیٰ آ جا

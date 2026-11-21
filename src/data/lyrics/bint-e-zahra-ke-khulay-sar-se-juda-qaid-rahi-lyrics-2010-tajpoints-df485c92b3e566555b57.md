@@ -1,32 +1,54 @@
 ---
-title: "Bint E Zahra Ke Khulay Sar Se Juda Qaid Rahi Lyrics 2010"
+title: "بنتِ زہرا کے کھلے سر سے جدا قید رہی"
+alternateTitle: "Bint-e-Zahra Ke Khulay Sar Se Juda Qaid Rahi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Bint e Zahra ke khulay sar se juda qaid rahi
+  Saal bhar Mal-e-Ghaneemat mein rida qaid rahi
+
+  1
+  Kar liya logon ne Abbas ke sar ko qaidi
+  Haye youn Fatima Zahra ki dua qaid rahi
+  Sar ke baloon mein jami pairon ke chalon mein chupi
+  Sath har qaidi ke youn Karb-o-Bala qaid rahi
+
+  2
+  Waqt ne rozay mein zindaan ko badal dala magar
+  Woh jo qaidi thi woh bachi tu sada qaid rahi
+  Sham bazar pe thehri rahi Abid ki hayat
+  Zindagi aik hi manzil mein sada qaid rahi
+
+  3
+  Pocha Abdullah ne jab Sham ka sab Hal-e-Safar
+  Jane kis dil se yeh Zainab ne kaha qaid rahi
+  Farsh-e-Matam pe dua hoti keh matam Akbar
+  Aankh behti rahi honton pe dua qaid rahi
 ---
 
-Bint e Zahra Ke Khulay Sar Se Juda Qaid Rahi Write Up
-Saal Bhar Mal-e-Ghaneemat Mein Rida Qaid Rahi.
+بنتِ زہرا کے کھلے سر سے جدا قید رہی
+سال بھر مالِ غنیمت میں ردا قید رہی
 
-1
-Kar Liya Logon Ne Abbas Ke Sar Ko Qaidi.
-Haye Youn Fatima Zahra Ki Dua Qaid Rahi.
-Sar Ke Baloon Mein Jami Pairon Ke Chalon Mein Chupi.
-Sath Har Qaidi Ke Youn Karb-o-Bala Qaid Rahi.
+۱
+کر لیا لوگوں نے عباس کے سر کو قیدی
+ہائے یوں فاطمہ زہرا کی دعا قید رہی
+سر کے بالوں میں جمی پیروں کے چھالوں میں چھپی
+ساتھ ہر قیدی کے یوں کرب و بلا قید رہی
 
-2
-Waqt Ne Rozay Mein Zindaan Ko Badal Dala Magar.
-Woh Jo Qaidi Thi Woh Bachi Tu Sada Qaid Rahi.
-Sham Bazar Pe Thehri Rahi Abid Ki Hayat.
-Zindagi Aik Hi Manzil Mein Sada Qaid Rahi.
+۲
+وقت نے روضے میں زنداں کو بدل ڈالا مگر
+وہ جو قیدی تھی وہ بچی تو سدا قید رہی
+شام بازار پہ ٹھہری رہی عابد کی حیات
+زندگی ایک ہی منزل میں سدا قید رہی
 
-3
-Pocha Abdullah Ne Jab Sham Ka Sab Hal-e-Safar.
-Jane Kis Dil Se Yeh Zainab Ne Kaha Qaid Rahi.
-Farsh-e-Matam Pe Dua Hoti Keh Matam Akbar.
-Aankh Behti Rahi Honton Pe Dua Qaid Rahi.
+۳
+پوچھا عبداللہ نے جب شام کا سب حالِ سفر
+جانے کس دل سے یہ زینب نے کہا قید رہی
+فرشِ ماتم پہ دعا ہوتی کہ ماتم اکبر
+آنکھ بہتی رہی ہونٹوں پہ دعا قید رہی

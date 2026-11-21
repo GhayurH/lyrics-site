@@ -24,7 +24,7 @@ romanLyrics: |-
   Saaya kiya kisi ne rida ka to ro diye
 
   3
-  Abbas ki wafa ka shujaaat ka zikr tha
+  Abbas ki wafa ka shujaat ka zikr tha
   Bete ne aake baap ko puchha to ro diye
 
   4

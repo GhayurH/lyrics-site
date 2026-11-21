@@ -1,29 +1,48 @@
 ---
-title: "Bheer Barhti Ja Rahi Hai Sham Ke Bazar Ki Lyrics 2023"
+title: "بھیڑ بڑھتی جا رہی ہے شام کے بازار کی"
+alternateTitle: "Bheer Barhti Ja Rahi Hai Sham Ke Bazar Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Bheer barhti ja rahi hai Sham ke bazar ki
+  Sans na ruk jaye ya Rab qafila salar ki
+  Cheen kar Zainab ki chadar Shimar yeh kehta raha
+  Loot li dastar main ne Ahmad-e-Mukhtar ki
+
+  2
+  Sirf chalees saal hoon gay khon roney ke liye
+  Umar hi kitni bachi thi Abid-e-Beemar ki?
+  Zulm se neelay hoye neelay se kalay ho gaye
+  Sham tak rangat badalti hi rahi rukhsar ki
+
+  3
+  Ik manadi Sham ki galiyon mein deta hai sada
+  Rasiyon mein betiyaan hain Haider-e-Karrar ki
+  Aaj tak Saqlain khul kar likh na paya hai koi
+  Sham ki ik ik ghali Zainab ne kaisay paar ki
 ---
 
-1
-Bheer Barhti Ja Rahi Hai Sham Ke Bazar Ki.
-Sans Na Ruk Jaye Ya Rab Qafila Salar Ki.
-Cheen Kar Zainab Ki Chadar Shimar Yeh Kehta Raha.
-Loot Li Dastar Main Ne Ahmad-e-Mukhtar Ki.
+۱
+بھیڑ بڑھتی جا رہی ہے شام کے بازار کی
+سانس نہ رک جائے یا رب قافلہ سالار کی
+چھین کر زینب کی چادر شمر یہ کہتا رہا
+لوٹ لی دستار میں نے احمدِ مختار کی
 
-2
-Sirf Chalees Saal Hoon Gay Khon Roney Ke Liye.
-Umar Hi Kitni Bachi Thi Abid-e-Beemar Ki?.
-Zulm Se Neelay Hoye Neelay Se Kalay Ho Gaye.
-Sham Tak Rangat Badalti Hi Rahi Rukhsar Ki.
+۲
+صرف چالیس سال ہوں گے خون رونے کے لیے
+عمر ہی کتنی بچی تھی عابدِ بیمار کی؟
+ظلم سے نیلے ہوئے نیلے سے کالے ہو گئے
+شام تک رنگت بدلتی ہی رہی رخسار کی
 
-3
-Ik Manadi Sham Ki Galiyon Mein Deta Hai Sada.
-Rasiyon Mein Betiyaan Hain Haider-e-Karrar Ki.
-Aaj Tak Saqlain Khul Kar Likh Na Paya Hai Koi.
-Sham Ki Ik Ik Ghali Zainab Ne Kaisay Paar Ki.
+۳
+اک منادی شام کی گلیوں میں دیتا ہے صدا
+رسیوں میں بیٹیاں ہیں حیدرِ کرار کی
+آج تک ثقلین کھل کر لکھ نہ پایا ہے کوئی
+شام کی اک اک گلی زینب نے کیسے پار کی

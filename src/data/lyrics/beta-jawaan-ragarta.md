@@ -12,7 +12,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Beta jawaaṅ ragarta hua aeriyaṅ mila
+  Beta jawaaṅ ragarta hua eriyaṅ mila
   Shabbir ko zamiṅ pe gira aasmaaṅ mila
 
   1
@@ -41,18 +41,18 @@ romanLyrics: |-
 
   7
   Ansaar the na bhai na gham khwaar tha koi
-  Tanha pisar ke paas Shaah-e-bekasaaṅ mila
+  Tanha pisar ke paas Shah-e-bekasaaṅ mila
 
   8
   Maqtal meiṅ dhundta hua bete ki laash ko
   Aalam meiṅ bekasi meiṅ Imam-e-zaman mila
 
   9
-  Bete ke baad jiski koi zindagi na thi
+  Bete ke baad jis ki koi zindagi na thi
   Gardan pe us gharib ke khanjar rawaaṅ mila
 
   10
-  Ummat ne jisko qatl kiya qaid kar diya
+  Ummat ne jis ko qatl kiya qaid kar diya
   Aisa kisi Nabi ka na phir khaandaaṅ mila
 
   11

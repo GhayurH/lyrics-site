@@ -24,43 +24,43 @@ romanLyrics: |-
 
   2
   Khuṅ kaise ruke logoṅ
-  Akbar ka jawaani meiṅ
+  Akbar ka jawaani mein
   Hai khun naya lekin
   Barchhi to puraani hai
 
   3
   Ye to mujhe lagta hai
   Laasha kisi dulha ka
-  Patka jo kamar meiṅ hai
+  Patka jo kamar mein hai
   Rang is ka to dhaani hai
 
   4
   Maalum na tha Sheh ko
   Khud apne hi haathoṅ se
   Shabbar ki nishaani bhi
-  Mitti meiṅ milaani hai
+  Mitti mein milaani hai
 
   5
   Shabbir ko khanjar se
-  Ziyaada ye aziyat hai
-  Taklif jo zindaṅ meiṅ
+  Ziyaada ye aziyyat hai
+  Taklif jo zindaaṅ mein
   Bachchi ko uthaani hai
 
   6
   Zainab ne kaha thehro
-  Maiṅ dasht meiṅ aati huṅ
+  Main dasht mein aati huṅ
   Bhaiya tumheṅ Akbar ki
   Ab laash uthaani hai
 
   7
-  Har gham ko bhula deṅge
-  Har yaad mita deṅge
+  Har gham ko bhula deṅ ge
+  Har yaad mita deṅ ge
   Zahra tere bachchoṅ ki
   Bas yaad manaani hai
 
   8
   Rehaan ki Sarwar ki
-  Pehchaan hai jannat meiṅ
+  Pehchaan hai jannat mein
   In donoṅ ke sinoṅ pe
   Maatam ki nishaani hai
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"

@@ -1,38 +1,67 @@
 ---
-title: "Chal Paray Shabbir Karbal Ho Gaya Veeran Madina"
+title: "چل پڑے شبیر کربل، ہو گیا ویران مدینہ"
+alternateTitle: "Chal Paray Shabbir Karbal Ho Gaya Veeran Madina"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chal paray Shabbir Karbal ho gaya veeran Madina
+  Roti Akbar tujhko Sughra, reh gayi tanha Madina
+
+  1
+  Sir bhi doonga ghar bhi doonga, behno ki chaadar bhi doonga
+  Deen bachaane ke liye, naw jawan Akbar bhi doonga
+  Ab na zinda laut kar main, aoonga nana Madina
+
+  2
+  Bhenein le kar haram le kar, Karbala ko jaa raha hoon
+  Ek ghum hai mere dil mai, jisko le kar jaa raha hoon
+  Nana ummat ne nahi di, kabr ki bhi jaa Madina
+
+  3
+  Ro raha hai ek sehra, de raha hai woh sadayein
+  Khoon khudara de ke apna, mola mujhko aa basaayein
+  Ban jaoonga mai muqaddas, jis terhan Makkah Madina
+
+  4
+  Subhe aashura jo goonji, ban mai Akbar ki azaaan
+  Behnain royi phupiyan royi, roti hai Akbar ki maan
+  Sun ke royi behen bichri, bhai ki azaa Madina
+
+  5
+  Jab chala tha kafila ye, oonthon ki thi sow qatarein
+  Aaj Shahid bibiyon ki, koi sunta na pukarein
+  Teen mehmil ek muhari, kaafila lauta Madina
 ---
 
-Chal Paray Shabbir Karbal Ho Gaya Veeran Madina
-Roti Akbar tujhko sughra, reh gayi tanha madina
+چل پڑے شبیر کربل، ہو گیا ویران مدینہ
+روتی اکبر تجھ کو صغریٰ، رہ گئی تنہا مدینہ
 
-1
-sir bhi doonga ghar bhi doonga, behno ki chaadar bhi doonga
-Deen bachaane ke liye, naw jawan Akbar bhi doonga
-Ab na Zinda laut kar main, aoonga nana madina
+۱
+سر بھی دوں گا گھر بھی دوں گا، بہنوں کی چادر بھی دوں گا
+دین بچانے کے لیے، نوجوان اکبر بھی دوں گا
+اب نہ زندہ لوٹ کر میں، آؤں گا نانا مدینہ
 
-2
-bhenein le kar haram le kar, Karbala ko jaa raha hoon
-Ek Ghum hai mere dil Mai, jisko le kar jaa raha hoon
-Nana ummat ne nahi di, kabr ki bhi jaa madina
+۲
+بہنیں لے کر حرم لے کر، کربلا کو جا رہا ہوں
+ایک غم ہے میرے دل میں، جس کو لے کر جا رہا ہوں
+نانا امت نے نہیں دی، قبر کی بھی جا مدینہ
 
-3
-ro raha hai ek sehra, de raha hai woh sadayein
-Khoon khudara de ke apna, mola mujhko Aa basaayein
-Ban jaoonga mai muqaddas, Jis terhan Makkah madina
+۳
+رو رہا ہے ایک صحرا، دے رہا ہے وہ صدائیں
+خون خدارا دے کے اپنا، مولا مجھ کو آ بسائیں
+بن جاؤں گا میں مقدس، جس طرح مکہ مدینہ
 
-4
-subhe aashura jo goonji, ban Mai akbar ki azaaan
-Behnain royi phupiyan royi, roti hai Akbar ki maan
-Sun ke royi behen bichri, Bhai ki azaa madina
+۴
+صبحِ عاشورا جو گونجی، بن میں اکبر کی اذان
+بہنیں روئیں پھپھیاں روئیں، روتی ہے اکبر کی ماں
+سن کے روئی بہن بچھڑی، بھائی کی عزا مدینہ
 
-5
-jab Chala tha kafila ye, oonthon ki thi sow qatarein
-Aaj shahid bibiyon ki, koi sunta na pukarein
-Teen mehmil ek muhari, kaafila lauta madina
+۵
+جب چلا تھا قافلہ یہ، اونٹوں کی تھیں سو قطاریں
+آج شاہد بیبیوں کی، کوئی سنتا نہ پکاریں
+تین محمل ایک مہاری، قافلہ لوٹا مدینہ

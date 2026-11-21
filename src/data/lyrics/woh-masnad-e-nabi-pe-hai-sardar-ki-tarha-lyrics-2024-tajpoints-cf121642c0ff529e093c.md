@@ -1,35 +1,60 @@
 ---
-title: "Woh Masnad E Nabi Pe Hai Sardar Ki Tarha Lyrics 2024"
+title: "وہ مسندِ نبی پہ ہے سردار کی طرح"
+alternateTitle: "Woh Masnad-e-Nabi Pe Hai Sardar Ki Tarha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Woh masnad e Nabi pe hai sardar ki tarha
+  Hain takht-o-taj muflis-o-nadaar ki tarha
+  Khairat-e-Mujtaba ne bataya keh Sham ne
+  Kashkool sar pe rakha hai dastar ki tarha
+
+  2
+  Kagaz pe aik lafzoon ka lashkar hai saf ba saf
+  Andaz shart shart ka hai waar ki tarha
+  Hikmat se rait kar diya Ibn-e-Batool ne
+  Lashkar jo aaya rah mein dewar ki tarha
+
+  3
+  Barsay gi har mahaz pe baiyat ke munh pe la
+  Aisi Hasan ne dali hai inkar ki tarha
+  Rishton ki be wafayi se tehreer-e-aman tak
+  Maula Hasan hain Ahmad-e-Mukhtar ki tarha
+
+  4
+  Sulh-e-Hudaybiya ki sukhan parwari ke sath
+  Sulh-e-Hasan hai qowat-e-guftar ki tarha
+  Akbar hazar barson se kehti hai Zulfiqar
+  Khama Hasan ka chalta hai talwar ki tarha
 ---
 
-1
-Woh Masnad e Nabi Pe Hai Sardar Ki Tarha
-Hain Takht-o-Taj Muflis-o-Nadaar Ki Tarha.
-Khairat-e-Mujtaba Ne Bataya Keh Sham Ne.
-Kashkool Sar Pe Rakha Hai Dastar Ki Tarha.
+۱
+وہ مسندِ نبی پہ ہے سردار کی طرح
+ہیں تخت و تاج مفلس و نادار کی طرح
+خیراتِ مجتبیٰ نے بتایا کہ شام نے
+کشکول سر پہ رکھا ہے دستار کی طرح
 
-2
-Kagaz Pe Aik Lafzoon Ka Lashkar Hai Saf Ba Saf.
-Andaz Shart Shart Ka Hai Waar Ki Tarha.
-Hikmat Se Rait Kar Diya Ibn-e-Batool Ne.
-Lashkar Jo Aaya Rah Mein Dewar Ki Tarha.
+۲
+کاغذ پہ ایک لفظوں کا لشکر ہے صف بہ صف
+انداز شرط شرط کا ہے وار کی طرح
+حکمت سے ریت کر دیا ابنِ بتول نے
+لشکر جو آیا راہ میں دیوار کی طرح
 
-3
-Barsay Gi Har Mahaz Pe Baiyat Ke Munh Pe La.
-Aisi Hasan Ne Dali Hai Inkar Ki Tarha.
-Rishton Ki Be Wafayi Se Tehreer-e-Aman Tak.
-Maula Hasan Hain Ahmad-e-Mukhtar Ki Tarha.
+۳
+برسے گی ہر محاذ پہ بیعت کے منہ پہ لا
+ایسی حسن نے ڈالی ہے انکار کی طرح
+رشتوں کی بے وفائی سے تحریرِ امن تک
+مولا حسن ہیں احمدِ مختار کی طرح
 
-4
-Sulh-e-Hudaybiya Ki Sukhan Parwari Ke Sath.
-Sulh-e-Hasan Hai Qowat-e-Guftar Ki Tarha.
- Akbar Hazar Barson Se Kehti Hai Zulfiqar.
-Khama Hasan Ka Chalta Hai Talwar Ki Tarha.
+۴
+صلحِ حدیبیہ کی سخن پروری کے ساتھ
+صلحِ حسن ہے قوّتِ گفتار کی طرح
+اکبر ہزار برسوں سے کہتی ہے ذوالفقار
+خامہ حسن کا چلتا ہے تلوار کی طرح

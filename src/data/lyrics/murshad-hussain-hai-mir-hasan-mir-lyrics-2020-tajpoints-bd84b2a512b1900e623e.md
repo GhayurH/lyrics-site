@@ -1,80 +1,148 @@
 ---
-title: "Murshad Hussain Hai Mir Hasan Mir Lyrics 2020"
+title: "مرشد حسین ہے"
+alternateTitle: "Murshad Hussain Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dabeer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Mera aaqa mera maula mera saein mera data
+
+  1
+  Mera murshid mera malik mera qibla mera Kaba
+  Yeh dunya ho ya woh dunya mera maula Hussain hai
+  Mera murshid Hussain hai mera malik Hussain hai
+  Nook-e-sina par tu ne Quraan sunaya hai
+
+  2
+  LaIlaha ilaha Allah ko tu ne bachaya hai
+  Aawaz yeh kalma deta hai mera kalma Hussain hai
+  Loh-o-qalam ka malik Zahra ka Lal hai
+  Fitrus ka istekhara rahib ki faal hai
+
+  3
+  Hur ne yeh kaha milta hai Khuda jisay milta Hussain hai
+  Kar midhat-e-Hussain issi mein nijat hai
+  Dunya-e-be sabaat ka inn se sabaat hai
+  Be aib Haq ki zaat hai ya inn ki zaat hai
+
+  4
+  Hukam inn ka our kalam Majeed aik baat hai
+  Oss manzil-e-niyaz ke salik Hussain hai
+  Jab tak Khuda ka mulk hai malik Hussain hai
+  Sarkar-e- Dabeer ne farmaya mera maula Hussain hai
+
+  5
+  Arfay di aye riwayat satar hazar hajj
+  Aehram kalay pa ke kehnday zawwar aj
+  Assi Karb-o-Bala de haji aan sada maka Hussain aye
+  Rang-o-nasal di koi tafreeq na rayi
+
+  6
+  Matam di saf te aa ke koi v ghair nayi
+  Sada matamdar qabeela aye sada rishta Hussain aye
+  Karam Hussain ka mujh par mazeed ho jaye
+  Maron jo farsh-e-Azza par tu Eid ho jaye
+
+  7
+  Ajeeb jazba hai har maa duaein karti hai
+  Khuda karey mera bacha shaheed ho jaye
+  Har maa ne kaha mera bacha tera sadqa Hussain hai
+  Dunya mein Sheh ka sajdah sajdoon ka taj hai
+
+  8
+  Nabiyon ke sab sajdoon par iss ka hi raaj hai
+  Khud khana-e-Kaba kehta hai mera qibla Hussain hai
+  Inn jaisay kitne tere ashiq mazeed hain
+  Khawaja, Bhittai, Bahu tere mureed hain
+
+  9
+  Jisay Lal Qalandar kehte hain tera banda Hussain hai
+  Mere dil ke andar Hussain Hussain
+  Meri rooh ka mehwar Hussain Hussain
+  Dosh-e-Nabi ka sawar hai
+
+  10
+  Woh naz-e-Parwardigar hai
+  Fatima ka chain hai
+  Woh Nabi ka noor-e-ain hai
+  Woh ba Khuda Hussain hai
+
+  11
+  Jehra Nabi da pyara Zahra da chain aye
+  Waris waseela sada bas oh Hussain aye
+  Akbar te Takallum kehnday ne
+  Sanu denda Hussain aye
 ---
 
-Murshad Hussain Hai Mir Hasan Mir Write Up
-Mera Aaqa Mera Maula Mera Saein Mera Data.
+میرا آقا میرا مولا میرا سائیں میرا داتا
 
-1
-Mera Murshid Mera Malik Mera Qibla Mera Kaba.
-Yeh Dunya Ho Ya Woh Dunya Mera Maula Hussain Hai.
-Mera Murshid Hussain Hai Mera Malik Hussain Hai.
-Nook-e-Sina Par Tu Ne Quraan Sunaya Hai.
+۱
+میرا مرشد میرا مالک میرا قبلہ میرا کعبہ
+یہ دنیا ہو یا وہ دنیا میرا مولا حسین ہے
+میرا مرشد حسین ہے میرا مالک حسین ہے
+نوکِ سناں پر تو نے قرآن سنایا ہے
 
-2
-LaIlaha Ilaha ALLAH Ko Tu Ne Bachaya Hai.
-Aawaz Yeh Kalma Deta Hai Mera Kalma Hussain Hai.
-Loh-o-Qalam Ka Malik Zahra Ka Lal Hai.
-Fitrus Ka Istekhara Rahib Ki Faal Hai.
+۲
+لا الٰہ الا اللہ کو تو نے بچایا ہے
+آواز یہ کلمہ دیتا ہے میرا کلمہ حسین ہے
+لوح و قلم کا مالک زہرا کا لال ہے
+فطرس کا استخارہ راہب کی فال ہے
 
-3
-Hur Ne Yeh Kaha Milta Hai Khuda Jisay Milta Hussain Hai.
-Kar Midhat-e-Hussain Issi Mein Nijat Hai.
-Dunya-e-Be Sabaat Ka Inn Se Sabaat Hai.
-Be Aib Haq Ki Zaat Hai Ya Inn Ki Zaat Hai.
+۳
+حر نے یہ کہا ملتا ہے خدا جسے ملتا حسین ہے
+کر مدحتِ حسین اسی میں نجات ہے
+دنیائے بے ثبات کا ان سے ثبات ہے
+بے عیب حق کی ذات ہے یا ان کی ذات ہے
 
-4
-Hukam Inn Ka Our Kalam Majeed Aik Baat Hai.
-Oss Manzil-e-Niyaz Ke Salik Hussain Hai.
-Jab Tak Khuda Ka Mulk Hai Malik Hussain Hai.
-Sarkar-e- Dabeer Ne Farmaya Mera Maula Hussain Hai.
+۴
+حکم ان کا اور کلامِ مجید ایک بات ہے
+اس منزلِ نیاز کے سالک حسین ہے
+جب تک خدا کا ملک ہے مالک حسین ہے
+سرکارِ دبیر نے فرمایا میرا مولا حسین ہے
 
-5
-Arfay Di Aye Riwayat Satar Hazar Hajj.
-Aehram Kalay Pa Ke Kehnday Zawwar Aj.
-Assi Karb-o-Bala De Haji Aan Sada Maka Hussain Aye.
-Rang-o-Nasal Di Koi Tafreeq Na Rayi.
+۵
+عرفے دی اے روایت ستر ہزار حج
+احرام کالے پا کے کہندے زوار اج
+اسی کرب و بلا دے حاجی آں ساڈا مکہ حسین اے
+رنگ و نسل دی کوئی تفریق نہ رہی
 
-6
-Matam Di Saf Te Aa Ke Koi V Ghair Nayi.
-Sada Matamdar Qabeela Aye Sada Rishta Hussain Aye.
-Karam Hussain Ka Mujh Par Mazeed Ho Jaye.
-Maron Jo Farsh-e-Azza Par Tu Eid Ho Jaye.
+۶
+ماتم دی صف تے آ کے کوئی وی غیر نئیں
+ساڈا ماتمدار قبیلہ اے ساڈا رشتہ حسین اے
+کرم حسین کا مجھ پر مزید ہو جائے
+مروں جو فرشِ عزا پر تو عید ہو جائے
 
-7
-Ajeeb Jazba Hai Har Maa Duaein Karti Hai.
-Khuda Karey Mera Bacha Shaheed Ho Jaye.
-Har Maa Ne Kaha Mera Bacha Tera Sadqa Hussain Hai.
-Dunya Mein Sheh Ka Sajdah Sajdoon Ka Taj Hai.
+۷
+عجیب جذبہ ہے ہر ماں دعائیں کرتی ہے
+خدا کرے میرا بچہ شہید ہو جائے
+ہر ماں نے کہا میرا بچہ تیرا صدقہ حسین ہے
+دنیا میں شہ کا سجدہ سجدوں کا تاج ہے
 
-8
-Nabiyon Ke Sab Sajdoon Par Iss Ka Hi Raaj Hai.
-Khud Khana-e-Kaba Kehta Hai Mera Qibla Hussain Hai.
-Inn Jaisay Kitne Tere Ashiq Mazeed Hain.
-Khawaja, Bhittai, Bahu Tere Mureed Hain.
+۸
+نبیوں کے سب سجدوں پر اس کا ہی راج ہے
+خود خانۂ کعبہ کہتا ہے میرا قبلہ حسین ہے
+ان جیسے کتنے تیرے عاشق مزید ہیں
+خواجہ، بھٹائی، باہو تیرے مرید ہیں
 
-9
-Jisay Lal Qalandar Kehte Hain Tera Banda Hussain Hai.
-Mere Dil Ke Andar Hussain Hussain.
-Meri Rooh Ka Mehwar Hussain Hussain.
-Dosh-e-Nabi Ka Sawar Hai.
+۹
+جسے لال قلندر کہتے ہیں تیرا بندہ حسین ہے
+میرے دل کے اندر حسین حسین
+میری روح کا محور حسین حسین
+دوشِ نبی کا سوار ہے
 
-10
-Woh Naz-e-Parwardigar Hai.
-Fatima Ka Chain Hai.
-Woh Nabi Ka Noor-e-Ain Hai.
-Woh Ba Khuda Hussain Hai.
+۱۰
+وہ نازِ پروردگار ہے
+فاطمہ کا چین ہے
+وہ نبی کا نورِ عین ہے
+وہ بخدا حسین ہے
 
-11
-Jehra Nabi Da Pyara Zahra Da Chain Aye.
-Waris Waseela Sada Bas Oh Hussain Aye.
- Akbar Te Takallum Kehnday Ne.
-Sanu Denda Hussain Aye.
+۱۱
+جیہڑا نبی دا پیارا زہرا دا چین اے
+وارث وسیلہ ساڈا بس اوہ حسین اے
+اکبر تے تکلم کہندے نے
+سانوں دیندا حسین اے

@@ -13,7 +13,7 @@ aliases: ["Ye Baade Nabi Ro"]
 published: true
 romanLyrics: |-
   Ye baad-e-Nabi ro ke kehti thi Zehra
-  Ke ek haath pehlu se uthta nahiṅ hai
+  Ke ik haath pehlu se utha nahiṅ hai
 
   1
   Mere baba tum jo sidhaare jahaaṅ se
@@ -27,37 +27,37 @@ romanLyrics: |-
 
   3
   Bahut khub ajr-e-risaalat hai paaya
-  Hai ek haath masruf maatam meiṅ baba
-  Maiṅ kaise sambhaaluṅ gi apna kaleja
+  Hai ik haath masruf maatam mein baba
+  Main kaise sambhaaluṅ gi apna kaleja
 
   4
   Wohi log Mohsin ke qaatil haiṅ baba
-  Ke jin ke liye aap the misl-e-saaya
+  Ke jin ke liye aap the misl-e-Zehra
   Wohi log dete haiṅ ab mujhko taana
 
   5
   Sajega jo baazaar roz-e-jaza ka
   Khuda mujh se puchhega ahwaal mera
-  Ye hi marsiya hoga us din bhi mera
+  Yehi marsiya hoga us din bhi mera
 
   6
-  Bulaaya gaya mujhko darbaar meiṅ bhi
+  Bulaaya gaya mujhko darbaar mein bhi
   Lainoṅ ne jhutlaai meri gawaahi
-  Aur ab mujhpe ye bhi sitam ek tuta
+  Aur ab mujh pe ye bhi sitam ek tuta
 
   7
   Mera dil bhi aur mera ghar bhi jalaaya
-  Maiṅ bint-e-Payambar huṅ ye bhi na socha
+  Main bint-e-Payambar huṅ ye bhi na socha
   Diya kaisa zakhm ye ummat ne baba
 
   8
-  Jinhoṅ ne diye haiṅ mujhe zakhm itne
-  Yehi kal jalaaenge Zainab ke khaime
-  To Zainab ko kaise maiṅ duṅ gi sahaara
+  Jinhoṅ ne diye haiṅ zakhm itne
+  Yehi kal jalaaeṅ ge Zainab ke khaime
+  To Zainab ko kaise main duṅ gi sahaara
 
   9
   Kahe mujh se ae kaash Zainab ki maadar
-  Rahe shaadmaaṅ is jahaaṅ meiṅ tu Mazhar
+  Rahe shaadmaaṅ is jahaaṅ mein tu Mazhar
   Ye nauha wasila banega tumhaara
 ---
 یہ بعد نبی رو کے کہتی تھی زہرا

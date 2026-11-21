@@ -1,34 +1,56 @@
 ---
-title: "Naizay Ka Na Khanjar Ka Na Talwar Ka Lyrics 2017"
+title: "نیزے کا نہ خنجر کا نہ تلوار کا"
+alternateTitle: "Naizay Ka Na Khanjar Ka Na Talwar Ka"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Naizay ka na khanjar ka na talwar ka sikka
+  Bhari hai hai har ik sikkay pe kirdar ka sikka
+  Yeh Karb-o-Bala saltanat-e-tishna labi hai
+  Iss shehar mein chalta hai wafadar ka sikka
+  Yousuf ki nahi yeh Ali Akbar ki zameen hai
+  Hai khak yahan Misar ke bazar ka sikka
+  Barh barh ke shaqi thak gaye dewar-e-haram mein
+  Har bar pighal jata hai dewar ka sikka
+  Khaiber se mitti sarey Madine ki ghareebi
+  Ghar ghar mein chala Haider-e-Karar ka sikka
+  Ik simt Ali likh diya Khum mein Khuda ne
+  Tab pora howa Ahmad-e-Mukhtar ka sikka
+  Romal mein Zahra ne jisse band rakha hai
+  Woh ashk hai janat ke khareedar ka sikka
+  The khuld ke sikke tu shaheedon ka muqadar
+  Baiyat ke muqadar mein tha inkar ka sikka
+  Sehat ki zamanat mein kiya karte hain taqseem
+  Bemaron mein hum Abid-e-Bemar ka sikka
+  Matam ke nishaan sath liye jaon ga Akbar
+  Kam aye ga turbat mein azzadar ka sikka
 ---
 
-1
-Naizay Ka Na Khanjar Ka Na Talwar Ka Write Up
-Naizay Ka Na Khanjar Ka Na Talwar Ka Sikka Mukhtar Hussain Fatehpuri.
-Bhari Hai Hai Har Ik Sikkay Pe Kirdar Ka Sikka.
-Yeh Karb-o-Bala Saltanat-e-Tishna Labi Hai.
-Iss Shehar Mein Chalta Hai Wafadar Ka Sikka.
-Yousuf Ki Nahi Yeh Ali Akbar Ki Zameen Hai.
-Hai Khak Yahan Misar Ke Bazar Ka Sikka.
-Barh Barh Ke Shaqi Thak Gaye Dewar-e-Haram Mein.
-Har Bar Pighal Jata Hai Dewar Ka Sikka.
-Khaiber Se Mitti Sarey Madine Ki Ghareebi.
-Ghar Ghar Mein Chala Haider-e-Karar Ka Sikka.
-Ik Simt Ali Likh Diya Khum Mein Khuda Ne.
-Tab Pora Howa Ahmad-e-Mukhtar Ka Sikka.
-Romal Mein Zahra Ne Jisse Band Rakha Hai.
-Woh Ashk Hai Janat Ke Khareedar Ka Sikka.
-The Khuld Ke Sikke Tu Shaheedon Ka Muqadar.
-Baiyat Ke Muqadar Mein Tha Inkar Ka Sikka.
-Sehat Ki Zamanat Mein Kiya Karte Hain Taqseem.
-Bemaron Mein Hum Abid-e-Bemar Ka Sikka.
-Matam Ke Nishaan Sath Liye Jaon Ga Akbar.
-Kam Aye Ga Turbat Mein Azzadar Ka Sikka.
+۱
+نیزے کا نہ خنجر کا نہ تلوار کا سکہ
+بھاری ہے ہے ہر اک سکے پہ کردار کا سکہ
+یہ کرب و بلا سلطنتِ تشنہ لبی ہے
+اس شہر میں چلتا ہے وفادار کا سکہ
+یوسف کی نہیں یہ علی اکبر کی زمین ہے
+ہے خاک یہاں مصر کے بازار کا سکہ
+بڑھ بڑھ کے شقی تھک گئے دیوارِ حرم میں
+ہر بار پگھل جاتا ہے دیوار کا سکہ
+خیبر سے مٹی سارے مدینے کی غریبی
+گھر گھر میں چلا حیدرِ کرار کا سکہ
+اک سمت علی لکھ دیا خم میں خدا نے
+تب پورا ہوا احمدِ مختار کا سکہ
+رومال میں زہرا نے جسے باندھ رکھا ہے
+وہ اشک ہے جنت کے خریدار کا سکہ
+تھے خلد کے سکے تو شہیدوں کا مقدر
+بیعت کے مقدر میں تھا انکار کا سکہ
+صحت کی ضمانت میں کیا کرتے ہیں تقسیم
+بیماروں میں ہم عابدِ بیمار کا سکہ
+ماتم کے نشاں ساتھ لیے جاؤں گا اکبر
+کام آئے گا تربت میں عزادار کا سکہ

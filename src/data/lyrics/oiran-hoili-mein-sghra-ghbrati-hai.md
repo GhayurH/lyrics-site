@@ -1,34 +1,58 @@
 ---
 title: "ویران حویلی میں صغراؑ گھبراتی ہے"
+alternateTitle: "Veeran Haveli Main Sughra Ghabrati Hay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Veeran haveli main Sughra ghabrati hay
+  Ab lot kai aa Akbter, beemar bulati hay
+
+  1
+  Pardais gayai aaisai Sughra ki na yad aayi
+  Nana kai rozai pai, faryad sunati hay
+
+  2
+  Qadmon kai nishano ko kabhi dekh kai roti hai
+  Asgher ka kabhi jhoola, beemar jhulati hay
+
+  3
+  Ab in deevaron main damn ghuta hai Sughra ka
+  Lay kai naam Akber ka, wo ashk bahati hay
+
+  4
+  Akber ki shadi ka layengai payam chacha
+  Is baat pai do sehra, Bahi kai banati hay
+
+  5
+  Uljah huwa barchi main Akber ka jigar dekh
+  Is khaab ki Sughra ko, tabeer rulati hay
 ---
 
-1) Veeran Haveli Main Sughra Ghabrati Hay
-Ab lot kai aa Akbter,  Beemar bulati hay
+ویران حویلی میں صغرا گھبراتی ہے
+اب لوٹ کے آ اکبر، بیمار بلاتی ہے
 
-1
-2) Pardais Gayai Aaisai Sughra Ki Na Yad Aayi
-Nana kai rozai pai,  Faryad sunati hay
+۱
+پردیس گئے ایسے صغرا کی نہ یاد آئی
+نانا کے روضے پہ، فریاد سناتی ہے
 
-2
-3) Qadmon kai nishano ko kabhi dekh kai roti hai
-Asgher ka kabhi jhoola,  Beemar jhulati hay
+۲
+قدموں کے نشانوں کو کبھی دیکھ کے روتی ہے
+اصغر کا کبھی جھولا، بیمار جھلاتی ہے
 
-3
-4) Ab in deevaron main damn ghuta hai Sughra ka
-Lay Kai naam Akber ka,  Wo Ashk bahati hay
+۳
+اب ان دیواروں میں دم گھٹا ہے صغرا کا
+لے کے نام اکبر کا، وہ اشک بہاتی ہے
 
-4
-5) Akber ki shadi ka layengai payam chacha
-Is baat pai do sehra,  Bahi kai banati hay
+۴
+اکبر کی شادی کا لائیں گے پیام چچا
+اس بات پہ دو سہرا، بھائی کے بناتی ہے
 
-5
-6) Uljah huwa barchi main Akber ka jigar dekh
-Is khaab ki Sughra ko,  Tabeer Rulati hay
+۵
+الجھا ہوا برچھی میں اکبر کا جگر دیکھ
+اس خواب کی صغرا کو، تعبیر رلاتی ہے

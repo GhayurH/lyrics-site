@@ -1,38 +1,66 @@
 ---
-title: "Jab Riza Rab Se Thi Payi Sheh Ne"
+title: "جب رضا رب سے تھی پائی شہ نے"
+alternateTitle: "Jab Riza Rab Se Thi Payi Sheh Ne"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 poet: "Afraz"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jab Riza Rab se thi payi Sheh ne
+  Karbala aa ke basai Sheh ne
+
+  1
+  Bola gehware se Labaik Ali
+  Di jo Hal Min dohai Sheh ne
+  Lash Akbar ki utha kar kar di
+  Sar hairan khudai Sheh ne
+
+  2
+  Pocha Farwa ne kahan hai Qasim
+  Khool ke ghatri dikhai Sheh ne
+  Tapti raiti ke tale kaise thi
+  Lash Asghar ki chupai Sheh ne
+
+  3
+  Bhaij ke sare jawaan baad mein phir
+  Bhaija Abbas sa bahi Sheh ne
+  Nook-e-naiza se sar Kofa-o-Shaam
+  Haan sana Rab ki sunai Sheh ne
+
+  4
+  Kar ke qurban ridaye Zainab
+  Deen ki laaj bachai Sheh ne
+  Keh do Afraz jahan se janat
+  Karbala mein hai basai Sheh ne
 ---
 
-Jab Riza Rab Se Thi Payi Sheh Ne.
-Karbala Aa Ke Basai Sheh Ne.
+جب رضا رب سے تھی پائی شہ نے
+کربلا آ کے بسائی شہ نے
 
-1
-Bola Gehware Se Labaik Ali.
-Di Jo Hal Min Dohai Sheh Ne.
-Lash Akbar Ki Utha Kar Kar Di.
-Sar Hairan Khudai Sheh Ne.
+۱
+بولا گہوارے سے لبیک علی
+دی جو ہل من دہائی شہ نے
+لاش اکبر کی اٹھا کر کر دی
+سر حیران خدائی شہ نے
 
-2
-Pocha Farwa Ne Kahan Hai Qasim.
-Khool Ke Ghatri Dikhai Sheh Ne.
-Tapti Raiti Ke Tale Kaise Thi.
-Lash Asghar Ki Chupai Sheh Ne.
+۲
+پوچھا فروہ نے کہاں ہے قاسم
+کھول کے گٹھڑی دکھائی شہ نے
+تپتی ریتی کے تلے کیسے تھی
+لاش اصغر کی چھپائی شہ نے
 
-3
-Bhaij Ke Sare Jawaan Baad Mein Phir.
-Bhaija Abbas Sa Bahi Sheh Ne.
-Nook-e-Naiza Se Sar Kofa-o-Shaam.
-Haan Sana Rab Ki Sunai Sheh Ne.
+۳
+بھیج کے سارے جواں بعد میں پھر
+بھیجا عباس سا بھائی شہ نے
+نوکِ نیزہ سے سرِ کوفہ و شام
+ہاں ثنا رب کی سنائی شہ نے
 
-4
-Kar Ke Qurban Ridaye Zainab.
-Deen Ki Laaj Bachai Sheh Ne.
-Keh Do Afraz Jahan Se Janat.
-Karbala Mein Hai Basai Sheh Ne.
+۴
+کر کے قربان ردائے زینب
+دین کی لاج بچائی شہ نے
+کہہ دو افراز جہاں سے جنت
+کربلا میں ہے بسائی شہ نے

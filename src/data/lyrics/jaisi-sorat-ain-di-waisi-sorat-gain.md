@@ -1,12 +1,15 @@
 ---
-title: "Jaisi Sorat Ain Di Waisi Sorat Gain"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "جیسی صورت عین دی ویسی صورت غین"
+alternateTitle: "Jaisi Sorat Ain Di Waisi Sorat Gain"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ik nuqte da faraq hai buhli phirey konain
 ---
 
-Ik Nuqte Da Faraq Hai Buhli Phirey Konain
+اک نقطے دا فرق ہے بھُلّی پھرے کونین

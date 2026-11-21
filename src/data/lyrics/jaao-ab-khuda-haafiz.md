@@ -33,7 +33,7 @@ romanLyrics: |-
   Qalb tukre hota hai kis tarah kahe maadar
 
   4
-  Har qadam pe hoega saamna andheroṅ ka
+  Har qadam pe hoye ga saamna andheroṅ ka
   Ab charaagh bujhta hai zindagi ki raahoṅ ka
   Nur le ke jaate ho tum hamaari aankhoṅ ka
   Tum ko dhundne nikleṅ kis ka aasra le kar
@@ -51,9 +51,9 @@ romanLyrics: |-
   Ji ke kya kare maadar tere bin Ali Akbar
 
   7
-  Zindagi ka har lamha hum pe bojh hoega
-  Aankh khushk hoegi qalb khun royega
-  Sar zamin-e-maqtal par mera laal soyega
+  Zindagi ka har lamha hum pe bojh hoye ga
+  Aankh khushk hoye gi qalb khun roye ga
+  Sar zamin-e-maqtal par mera laal soye ga
   Haaye ye bhi kehne ko zinda reh gayi maadar
 
   8

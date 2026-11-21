@@ -1,26 +1,41 @@
 ---
-title: "Barchi Nu Hath C Pa Ke Takda Riya Pisar Nu Lyrics Punjabi 2020"
+title: "برچھی نوں ہتھ چ پا کے تکدا ریا پسر نوں"
+alternateTitle: "Barchi Nu Hath C Pa Ke Takda Riya Pisar Nu"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Jarrar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Barchi nu hath c pa ke takda riya pisar nu
+  Seene choon kad ke barchi chumda riya putar nu
+
+  1
+  Godi che sir nu rakh ke zulfaan che hath si phairay
+  Akbar na jawein bachra ronda piya hijar nu
+  Kiwein kadan main barchi seene choon tere Akbar
+  Ro ro aye keh riya aye Ashor di sahar nu
+
+  2
+  Akbar kiwein le jawaan tera lasha khaimiyaan wich
+  Dewaan main kiwein haye khaimay teri khabar nu
+  Zafar v ro riya aye manzar Jarrar tak ke
+  Kehnda Shabeer nu si manya tere sabar nu
 ---
 
-Barchi Nu Hath C Pa Ke Takda Riya Pisar Nu.
-Seene Choon Kad Ke Barchi Chumda Riya Putar Nu.
+برچھی نوں ہتھ چ پا کے تکدا ریا پسر نوں
+سینے چوں کڈھ کے برچھی چمدا ریا پتر نوں
 
-1
-Godi Che Sir Nu Rakh Ke Zulfaan Che Hath Si Phairay.
-Akbar Na Jawein Bachra Ronda Piya Hijar Nu.
-Kiwein Kadan Main Barchi Seene Choon Tere Akbar.
-Ro Ro Aye Keh Riya Aye Ashor Di Sahar Nu.
+۱
+گودی چ سر نوں رکھ کے زلفاں چ ہتھ سی پھیرے
+اکبر نہ جاویں بچڑا روندا پیا ہجر نوں
+کیویں کڈھاں میں برچھی سینے چوں تیرے اکبر
+رو رو ایہہ کہہ ریا اے عاشور دی سحر نوں
 
-2
-Akbar Kiwein Le Jawaan Tera Lasha Khaimiyaan Wich.
-Dewaan Main Kiwein Haye Khaimay Teri Khabar Nu.
-Zafar V Ro Riya Aye Manzar Jarrar Tak Ke.
-Kehnda Shabeer Nu Si Manya Tere Sabar Nu.
+۲
+اکبر کیویں لے جاواں تیرا لاشہ خیمیاں وچ
+دیواں میں کیویں ہائے خیمے تیری خبر نوں
+ظفر وی رو ریا اے منظر جرار تک کے
+کہندا شبیر نوں سی منیا تیرے صبر نوں

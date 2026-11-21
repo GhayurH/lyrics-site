@@ -8,79 +8,47 @@ reciter: "Nasir Jehan"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ye inayaton ki jaza mili
-
-  Ye hidayaton ka sila diya
-
-  Wo charagh qabre nabi ka tha
-
-  Jise karbala mein bujha diya
-
+romanLyrics: |-
+  Ye inaayatoṅ ki jaza mili
+  Ye hidaayatoṅ ka sila diya
+  Wo charaagh qabr-e-Nabi ka tha
+  Jise Karbala meiṅ bujha diye
 
   1
-
-  Ye hussain tera hi kaam tha
-
+  Ye Husain tera hi kaam tha
   Ke sab apne laal fida kiye
-
-  Tujhe un sitaron ne doob kar
-
-  Shab e gham ka chand bana diya
-
+  Tujhe un sitaaroṅ ne dub kar
+  Shab-e-gham ka chand bana diya
 
   2
-
-  Ye ali ke laal ki himmatein
-
-  Ye sina o teer ki dawatein
-
+  Ye Ali ke laal ki himmateṅ
+  Ye sinaan o tir ki daawateṅ
   Kabhi naujawan ka jigar diya
-
-  Kabhi bezaban ka gala diya
-
+  Kabhi bezabaaṅ ka gala diya
 
   3
-
-  Kaho dil kahan se ye layenge
-
-  Jo hussain qaime mein jayenge
-
-  Jise maa ki godh se laaye thay
-
-  Usay zer e khaak sula diya
-
+  Kaho dil kahaaṅ se ye laaeṅge
+  Jo Husain khaime meiṅ jaaeṅge
+  Jise maaṅ ki god se laae the
+  Use zer-e-khaak sula diya
 
   4
-
-  Na hussain ghode pe tham sake
-
-  Jo sada azan ki buland thi
-
-  Wo namaz e asr ka waqt tha
-
-  Ke zameen pe khud ko gira diya
-
+  Na Husain ghore pe tham sake
+  Jo sada azaan ki buland thi
+  Wo namaaz-e-asr ka waqt tha
+  Ke zamin pe khud ko gira diya
 
   5
-
-  Teri sarfaroshi ki shaan thi
-
-  Jo hayat e deen e khuda bani
-
-  Na mila kisi ko hayat mein
-
+  Teri sarfarosh ki shaan thi
+  Jo hayaat-e-din-e-Khuda bani
+  Na mila kisi ko hayaat meiṅ
   Tujhe maut ne jo maza diya
 
-
   6
-
-  Chaman aap apna mita gaye
-
-  Ke bahaar e deen e khuda rahe
-
-  Na jama jo rang bahaar se
-
-  To lahoo bhi apna mila diya'
+  Chaman aap apna mita gae
+  Ke bahaar-e-din-e-Khuda rahe
+  Na jama jo rang bahaar ka
+  To lahu bhi apna mila diya
 ---
 
 یہ عنایتوں کی جزا ملی

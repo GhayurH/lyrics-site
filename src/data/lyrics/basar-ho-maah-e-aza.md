@@ -17,7 +17,7 @@ romanLyrics: |-
   Basar ho maah-e-aza is tarah Khuda-e-Husain
   Ho haath sine pe lab par rahe sada-e-Husain
 
-  Namaaz-e-ishq hai parhni ke bawuzu ho kar
+  Namaaz-e-ishq hai parhni ke baawuzu ho kar
   Maiṅ intezaar meiṅ huṅ kab mujhe bulaaye Husain
 
   1
@@ -45,7 +45,7 @@ romanLyrics: |-
   Chale jo mayyat-e-beshir ko uthaaye Husain
 
   7
-  Kaleja phatta hai Rehan aur Khadim ka
+  Kaleja phatta hai Rehan aur Khaadim ka
   Batul kehti hai jis waqt ro ke haaye Husain
 ---
 اے خدا آ گیا ماہِ عزا

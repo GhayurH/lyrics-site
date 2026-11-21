@@ -1,34 +1,55 @@
 ---
-title: "Muqaddar Ko Bab E Raza Mil Gaya Lyrics 2024"
+title: "مقدر کو بابِ رضا مل گیا"
+alternateTitle: "Muqaddar Ko Bab-e-Raza Mil Gaya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Muqadar ko Baab-e-Raza mil gaya hai
+  Khurasan ja kar Khuda mil gaya hai
+  Main Mashhad chala hoon Madine ke logo
+  Mujhe ik Madina niya mil gaya hai
+  Sabeel-e-Raza se piye ja raha hoon
+  Khizar mujh ko Aab-e-Baqa mil gaya hai
+  Chaley gi masihayi aalam pe iss ki
+  Keh Esa ko Sehan-e-Shifa mil gaya hai
+  Najaf ki ziaein hain Mashhad mein roshan
+  Ali se Ali ka pata mil gaya hai
+  Samandar pe karne lagay ho hakomat
+  Aye Maroof tum ko sila mil gaya hai
+  Issay kaun rokay ga jannat ke dar par
+  Jisay matami qafila mil gaya hai
+  Kaha Hur ne khaima badaltay hain beta
+  Mujhe khuld ka rasta mil gaya hai
+  Dar-e-Syeda par yeh Jibreel bolay
+  Zameen par bhi Arsh-e-Olla mil gaya hai
+  Qaseeda Ali ka phir ik bar Akbar
+  Muhammad se likha howa mil gaya hai
 ---
 
-1
-Muqaddar Ko Bab E Raza Mil Gaya Mohammad Shah 2024
-Muqadar Ko Baab-e-Raza Mil Gaya Hai.
-Khurasan Ja Kar Khuda Mil Gaya Hai.
-Main Mashhad Chala Hoon Madine Ke Logo.
-Mujhe Ik Madina Niya Mil Gaya Hai.
-Sabeel-e-Raza Se Piye Ja Raha Hoon.
-Khizar Mujh Ko Aab-e-Baqa Mil Gaya Hai.
-Chaley Gi Masihayi Aalam Pe Iss Ki.
-Keh Esa Ko Sehan-e-Shifa Mil Gaya Hai.
-Najaf Ki Ziaein Hain Mashhad Mein Roshan.
-Ali Se Ali Ka Pata Mil Gaya Hai.
-Samandar Pe Karne Lagay Ho Hakomat.
-Aye Maroof Tum Ko Sila Mil Gaya Hai.
-Issay Kaun Rokay Ga Jannat Ke Dar Par.
-Jisay Matami Qafila Mil Gaya Hai.
-Kaha Hur Ne Khaima Badaltay Hain Beta.
-Mujhe Khuld Ka Rasta Mil Gaya Hai.
-Dar-e-Syeda Par Yeh Jibreel Bolay.
-Zameen Par Bhi Arsh-e-Olla Mil Gaya Hai.
-Qaseeda Ali Ka Phir Ik Bar Akbar.
-Muhammad Se Likha Howa Mil Gaya Hai.
+۱
+مقدر کو بابِ رضا مل گیا ہے
+خراسان جا کر خدا مل گیا ہے
+میں مشہد چلا ہوں مدینے کے لوگو
+مجھے اک مدینہ نیا مل گیا ہے
+سبیلِ رضا سے پیے جا رہا ہوں
+خضر مجھ کو آبِ بقا مل گیا ہے
+چلے گی مسیحائی عالم پہ اس کی
+کہ عیسیٰ کو صحنِ شفا مل گیا ہے
+نجف کی ضیائیں ہیں مشہد میں روشن
+علی سے علی کا پتا مل گیا ہے
+سمندر پہ کرنے لگے ہو حکومت
+اے معروف تم کو صلہ مل گیا ہے
+اسے کون روکے گا جنت کے در پر
+جسے ماتمی قافلہ مل گیا ہے
+کہا حر نے خیمہ بدلتے ہیں بیٹا
+مجھے خلد کا راستہ مل گیا ہے
+درِ سیدہ پر یہ جبریل بولے
+زمین پر بھی عرشِ اعلیٰ مل گیا ہے
+قصیدہ علی کا پھر اک بار اکبر
+محمد سے لکھا ہوا مل گیا ہے

@@ -1,31 +1,52 @@
 ---
-title: "Mur Aaya Janaza Alman Wale Day Veer Da Lyrics In Punjabi 2023"
+title: "مڑ آیا جنازہ علماں والے دے ویر دا"
+alternateTitle: "Mur Aaya Janaza Alman Wale Day Veer Da"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mur aaya janaza alman wale day veer da
+  Teer lashay te wasa ke lokaan ne badlah liya Ghadeer da
+
+  1
+  Hukam-e-Shabeer da paband aye ohlay beh ke roway Ghazi
+  Haal kiwein main dasawaan veer di haye lash te Shabeer da
+  Haye masmoom janazay te aynj na koi zulm kamaway
+  Teraan nal sajiya janaza wekh ke haye wain si taqdeer da
+
+  2
+  Ghurbat de wain kar kar ke Innalillah parhdi reh gayi
+  Hajra ne wekhiya jo teer kadday hosla humsheer da
+  Lash Shabeer di Karbal wich be kafan reh jaway gi hun
+  Kyun Shabar nu Madine mil gaya doja kafan Shabbir da
+
+  3
+  Kitay zulm-o-sitam ne Syedaan te Kofiyaan te Shamiyaan wangoon
+  Ahl-e-Yasrab v lehaz aye rakhiya na koi aina di tauqeer da
+  Samne roza-e-Mursal de hun shala ban jaye roza-e-Shabbar
+  Aa ke Sahib Al-Zaman aye kam karaway Baqiya di tameer da
 ---
 
-Mur Aaya Janaza Alman Wale Day Veer Da.
-Teer Lashay Te Wasa Ke Lokaan Ne Badlah Liya Ghadeer Da.
+مڑ آیا جنازہ علماں والے دے ویر دا
+تیر لاشے تے وسا کے لوکاں نے بدلہ لیا غدیر دا
 
-1
-Hukam-e-Shabeer Da Paband Aye Ohlay Beh Ke Roway Ghazi.
-Haal Kiwein Main Dasawaan Veer Di Haye Lash Te Shabeer Da.
-Haye Masmoom Janazay Te Aynj Na Koi Zulm Kamaway.
-Teraan Nal Sajiya Janaza Wekh Ke Haye Wain Si Taqdeer Da.
+۱
+حکمِ شبیر دا پابند اے اوہلے بہہ کے رووے غازی
+حال کیویں میں دساواں ویر دی ہائے لاش تے شبیر دا
+ہائے مسموم جنازے تے اینج نہ کوئی ظلم کماوے
+تیراں نال سجیا جنازہ ویکھ کے ہائے وین سی تقدیر دا
 
-2
-Ghurbat De Wain Kar Kar Ke Innalillah Parhdi Reh Gayi.
-Hajra Ne Wekhiya Jo Teer Kadday Hosla Humsheer Da.
-Lash Shabeer Di Karbal Wich Be Kafan Reh Jaway Gi Hun.
-Kyun Shabar Nu Madine Mil Gaya Doja Kafan Shabbir Da.
+۲
+غربت دے وین کر کر کے انا للہ پڑھدی رہ گئی
+ہاجرہ نے ویکھیا جو تیر کڈے حوصلہ ہمشیر دا
+لاش شبیر دی کربل وچ بے کفن رہ جاوے گی ہن
+کیوں شبر نوں مدینے مل گیا دوجا کفن شبیر دا
 
-3
-Kitay Zulm-o-Sitam Ne Syedaan Te Kofiyaan Te Shamiyaan Wangoon.
-Ahl-e-Yasrab V Lehaz Aye Rakhiya Na Koi Aina Di Tauqeer Da.
-Samne Roza-e-Mursal De Hun Shala Ban Jaye Roza-e-Shabbar.
-Aa Ke Sahib Al-Zaman Aye Kam Karaway Baqiya Di Tameer Da.
+۳
+کیتے ظلم و ستم نے سیداں تے کوفیاں تے شامیاں وانگوں
+اہلِ یثرب وی لحاظ اے رکھیا نہ کوئی ایناں دی توقیر دا
+سامنے روضۂ مرسل دے ہن شالا بن جائے روضۂ شبر
+آ کے صاحب الزماں اے کم کراوے بقیع دی تعمیر دا

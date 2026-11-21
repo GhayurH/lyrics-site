@@ -10,92 +10,92 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rasan may bandh chuka gala lo chal para wo khafila
-  Behan gharib nawhagar sina pe jab pari nazar
-  Khamosh the shahid sab aqi ke hil rahe the lab
-  Sina pe ho to kya huwa tu hausla na haarna
-  Behan mai saath saath hoo
+  Rasan mein bandh chuka gala, lo chal para woh qaafila
+  Behan gharib nauha gar, sinaaṅ pe jab pari nazar
+  Khamosh the shahid sab, akhi ke hil rahe the lab
+  Sinaaṅ pe huṅ to kya hua, tu hausla na haarna
+  Behan main saath saath huṅ
 
   2
-  Gharibe karbala behan
-  Diler e ba-wafa behan
-  Ghamo ki alqama behan
-  Meri musafira behan
+  Gharib-e-Karbala behan
+  Dilero bawafa behan
+  Ghamoṅ ki Alqama behan
+  Meri musaafira behan
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   3
-  Wafae wada ho chuka
-  Sina talak mai aagaya
-  Mai apna kaam kar chuka
-  Meri sharike karbala
+  Wafa-e-waada ho chuka
+  Sinaaṅ talak main aa gaya
+  Main apna kaam kar chuka
+  Meri sharik-e-Karbala
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   4
-  Ye rassiyaṅ ye beriyaṅ
-  Qadam qadam be sakhtiyaṅ
-  Rida baghair bibiyaṅ
-  Behan kada hai imtehaṅ
+  Ye rassiyaaṅ ye beriyaaṅ
+  Qadam qadam pe sakhtiyaaṅ
+  Rida baghair bibiyaaṅ
+  Behan kara hai imtehaaṅ
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   5
-  Agar hai raasta kathan
-  Zara na darr meri behan
-  Tu berida mai bekafan
+  Agar hai raasta kathin
+  Zara na dar meri behan
+  Tu be rida main be kafan
   Hai waqt hausla shikan
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   6
-  Qadam qadam shahadateiṅ
-  Guzar gayi qayamateiṅ
-  Abhi hai aur aafateiṅ
-  Sambhaal ab amaanateiṅ
+  Qadam qadam shahaadateṅ
+  Guzar gaiṅ qayaamateṅ
+  Abhi haiṅ aur aafateṅ
+  Sambhaal ab amaanateṅ
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   7
-  Koi bhi ab nahi bacha
-  Bas abid-e-shakista pa
-  Ye saare baane ghamzada
-  Gire jo khaake ghash zara
+  Koi bhi ab nahiṅ bacha
+  Bas Aabid-e-shikasta pa
+  Ye saaribaan-e-gham zada
+  Gire jo kha ke ghash zara
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   8
-  Behan teher teher yahiṅ
+  Behan thahar thahar yahiṅ
   Laraz rahi hai kiuṅ zamiṅ
-  Sakina girgayi kahiṅ
+  Sakina gir gai kahiṅ
   Na mil sake jo woh haziṅ
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   9
-  Bahot qarib shaam hai
-  Hujume khaaso aam hai
-  Yazide bad kalaam hai
-  Ye waqte inteqaam haio
+  Bahut qarib shaam hai
+  Hujum-e-khaas o aam hai
+  Yazid bad kalaam hai
+  Ye waqt-e-inteqaam hai
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath...
 
   10
-  Rehaan o sarwar-e-aza
-  Jo shaam pahuncha khafila
-  Sare Husain ne kaha
+  Rehaan o Sarwar-e-aza
+  Jo shaam pahuncha qaafila
+  Sar-e-Husain ne kaha
   Ulat de takht shaam ka
   Tu hausla na haarna
-  Sina pe hoo to kya....
-  Behan mai saath....
+  Sinaaṅ pe huṅ to kya...
+  Behan main saath..
 ---
 
 ۱

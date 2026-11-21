@@ -1,69 +1,128 @@
 ---
-title: "Yeh Karbala Hai Yeh Karbala Hai Mir Hasan Lyrics 2016"
+title: "یہ کربلا ہے یہ کربلا ہے"
+alternateTitle: "Yeh Karbala Hai Yeh Karbala Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh Karbala hai yeh Karbala hai Mir Hasan Mir
+
+  1
+  Yahan sanbhal kar qadam uthana yeh Karbala hai yeh Karbala hai
+  Yeh baat hargiz na bhool jana yeh Karbala hai yeh Karbala hai
+  Jahan-e-sabar-o-riza yehi hai
+  Khuda-e-sabar-o-riza yehi hai
+  Yahan pe aate hain chal ke Mehdi
+  Behisht-e-Zahra yeh sar zameen hai
+
+  2
+  Yahan hai Zahra ka aana jana
+  Duaein dein gaye Hussain tum ko
+  Yahan pe aanso agar bahaye
+  Jahan pe beti ne be-watan ki
+  Sitamgaron se tamache khaye
+  Yahan pe khushiyon ko bhool jana
+
+  3
+  Yahan pe guzri hai woh qayamat
+  Mila na oss ko sakoon ab tak
+  Ridaein chinne ke gham mein Abid
+  Lahad mein rota hai khon ab tak
+  Yahan pe hargiz na muskurana
+  Yahan pe Hur bhi tha Hurmala bhi
+
+  4
+  Kitab-e-hasti ko parh ke dekho
+  Sada yeh Hal Min Tu aa rahi hai
+  Tum iss taraf ho ya oss taraf ho
+  Tumhein amal se hai ab batana
+  Kahin pe Qasim howay hain tukrey
+  Kahin pe zeen se gire the mula
+
+  5
+  Kahin Sakina sumo se lipati
+  Kahin pe Asghar ne teer khaya
+  Yehin ghareebi ka hai thikana
+  Sawari aaye gi ik wahan se
+  Najaf ki janib nigah rakhna
+  Jab aaye sham-e-ghareeban oss dam
+
+  6
+  Ali ko Zainab ka pursa dena
+  Tum aasnson ke diye jalana
+  Kisi ke dil mein lagi hai barchi
+  Kissi ke bazu kate yahin par
+  Ali ki beti ke kitne Yousuf
+  Lahu mein dobay hain iss zameen par
+
+  7
+  Luta hai Sadaat ka gharana
+  Rahe kahin bhi jahan mein ja kar
+  Hussain wale yeh jante hain
+  Hum ahl-e-matam ke dil Takallum
+  Yahan ki miti se hi bane hain
+  Yahan hai wapis palat ke aana
 ---
 
-Yeh Karbala Hai Yeh Karbala Hai Mir Hasan Mir.
+یہ کربلا ہے یہ کربلا ہے میر حسن میر
 
-1
-Yahan Sanbhal Kar Qadam Uthana Yeh Karbala Hai Yeh Karbala Hai.
-Yeh Baat Hargiz Na Bhool JanaYeh Karbala Hai Yeh Karbala Hai.
-Jahan-e-Sabar-o-Riza Yehi Hai.
-Khuda-e-Sabar-o-Riza Yehi Hai.
-Yahan Pe Aate Hain Chal Ke Mehdi.
-Behisht-e-Zahra Yeh Sar Zameen Hai.
+۱
+یہاں سنبھل کر قدم اٹھانا یہ کربلا ہے یہ کربلا ہے
+یہ بات ہرگز نہ بھول جانا یہ کربلا ہے یہ کربلا ہے
+جہانِ صبر و رضا یہی ہے
+خدائے صبر و رضا یہی ہے
+یہاں پہ آتے ہیں چل کے مہدی
+بہشتِ زہرا یہ سرزمین ہے
 
-2
-Yahan Hai Zahra Ka Aana Jana.
-Duaein Dein Gaye Hussain Tum Ko.
-Yahan Pe Aanso Agar Bahaye.
-Jahan Pe Beti Ne Be-Watan Ki.
-Sitamgaron Se Tamache Khaye.
-Yahan Pe Khushiyon Ko Bhool Jana.
+۲
+یہاں ہے زہرا کا آنا جانا
+دعائیں دیں گے حسین تم کو
+یہاں پہ آنسو اگر بہائے
+جہاں پہ بیٹی نے بے وطن کی
+ستمگروں سے طمانچے کھائے
+یہاں پہ خوشیوں کو بھول جانا
 
-3
-Yahan Pe Guzri Hai Woh Qayamat.
-Mila Na Oss Ko Sakoon Ab Tak.
-Ridaein Chinne Ke Gham Mein Abid.
-Lahad Mein ROta Hai Khon Ab Tak.
-Yahan Pe Hargiz Na Muskurana.
-Yahan Pe Hur Bhi Tha Hurmala Bhi.
+۳
+یہاں پہ گزری ہے وہ قیامت
+ملا نہ اس کو سکون اب تک
+ردائیں چھننے کے غم میں عابد
+لحد میں روتا ہے خون اب تک
+یہاں پہ ہرگز نہ مسکرانا
+یہاں پہ حر بھی تھا حرملہ بھی
 
-4
-Kitab-e-Hasti Ko Parh Ke Dekho.
-Sada Yeh Hal Min Tu Aa Rahi Hai.
-Tum Iss Taraf Ho Ya Oss Taraf Ho.
-Tumhein Amal Se Hai Ab Batana.
-Kahin Pe Qasim Howay Hain Tukrey.
-Kahin Pe Zeen Se Gire The Mula.
+۴
+کتابِ ہستی کو پڑھ کے دیکھو
+صدا یہ ہل من تو آ رہی ہے
+تم اس طرف ہو یا اس طرف ہو
+تمہیں عمل سے ہے اب بتانا
+کہیں پہ قاسم ہوئے ہیں ٹکڑے
+کہیں پہ زین سے گرے تھے مولا
 
-5
-Kahin Sakina Sumo Se Lipati.
-Kahin Pe Asghar(AS( Ne Teer Khaya.
-Yehin Ghareebi Ka Hai Thikana.
-Sawari Aaye Gi Ik Wahan Se.
-Najaf Ki Janib Nigah Rakhna.
-Jab Aaye Sham-e-Ghareeban Oss Dam.
+۵
+کہیں سکینہ سموں سے لپٹی
+کہیں پہ اصغرؑ نے تیر کھایا
+یہیں غریبی کا ہے ٹھکانا
+سواری آئے گی اک وہاں سے
+نجف کی جانب نگاہ رکھنا
+جب آئے شامِ غریباں اس دم
 
-6
-Ali Ko Zainab Ka Pursa Dena.
-Tum Aasnson Ke Diye Jalana.
-Kisi Ke Dil Mein Lagi Hai Barchi.
-Kissi Ke Bazu Kate Yahin Par.
-Ali Ki Beti Ke Kitne Yousuf.
-Lahu Mein Dobay Hain Iss Zameen Par.
+۶
+علی کو زینب کا پرسا دینا
+تم آنسوؤں کے دیے جلانا
+کسی کے دل میں لگی ہے برچھی
+کسی کے بازو کٹے یہیں پر
+علی کی بیٹی کے کتنے یوسف
+لہو میں ڈوبے ہیں اس زمین پر
 
-7
-Luta Hai Sadaat Ka Gharana.
-Rahe Kahin Bhi Jahan Mein Ja Kar.
-Hussain Wale Yeh Jante Hain.
-Hum Ahl-e-Matam Ke Dil Takallum.
-Yahan Ki Miti Se Hi Bane Hain.
-Yahan Hai Wapis Palat Ke Aana.
+۷
+لٹا ہے سادات کا گھرانا
+رہے کہیں بھی جہاں میں جا کر
+حسین والے یہ جانتے ہیں
+ہم اہلِ ماتم کے دل تکلم
+یہاں کی مٹی سے ہی بنے ہیں
+یہاں ہے واپس پلٹ کے آنا

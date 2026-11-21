@@ -8,43 +8,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Berriyaṅ royeen kabhi paoṅ ke chaale roye
-  Kaise qaidi the jinhe qaid ke taale roye
+  Beriyaaṅ royi kabhi paaoṅ ke chhaale roye
+  Kaise qaidi the jinheṅ qaid ke taale roye
 
   1
-  Jab suna maara gaya pani pilane wala
-  Kaampte hatoṅ may sukhe hue pyale roye
-  Bediya royeyṅ...
+  Jab suna maara gaya paani pilaane waala
+  Kaanpte haathoṅ mein sukhe hue pyaale roye
+  Beriyaaṅ roiṅ
 
   2
-  Jane kya sochke shabbir bahot dayr talak
-  Karke baysheer ko turbat ke hawale roye
-  Bediya royeyṅ....
+  Jaane kya soch ke Shabbir bahut der talak
+  Kar ke Be Shir ko turbat ke hawaale roye
+  Beriyaaṅ roiṅ
 
   3
-  Bhulne wale tujhe kaise bataye koi
-  Kis khadar tujhko tere chahne wale roye
-  Bediya royeyṅ....
+  Bhulne waale tujhe kaise bataaye koi
+  Kis qadar tujh ko tere chaahne waale roye
+  Beriyaaṅ roiṅ
 
   4
   Bekasi baap ko le aayi hai kis manzil par
-  Barchi bete ke kaleje se nikale roye
-  Bediya royeyṅ...
+  Barchhi bete ke kaleje se nikaali roye
+  Beriyaaṅ roiṅ
 
   5
-  Haye afsos ke jis waqt jale the qaime
-  Dayr tak shame gharibaṅ ko ujale roye
-  Bediya royeyṅ...
+  Haaye afsos ke jis waqt jale the khaime
+  Der tak shaam-e-gharibaaṅ ko ujaale roye
+  Beriyaaṅ roiṅ
 
   6
-  Pyase jismo may ye paywast hue jab bhi kabhi
-  Dekh kar sukhi ragay barchiya bhaale roye
-  Bediya royeyṅ...
+  Pyaase jismoṅ mein ye paiwast hue jab bhi kabhi
+  Dekh kar sukhi rageṅ barchhiyaaṅ bhaale roye
+  Beriyaaṅ roiṅ
 
   7
-  Bhai ki laash hai aur shor yateemo ka nazir
-  Ek behan aise may bachon sambhale roye
-  Bediya royeyṅ...
+  Bhaai ki laash hai aur shor yatimoṅ ka Nazir
+  Ik bahan aise mein bachche ko sambhaale roiṅ
+  Beriyaaṅ roiṅ
 ---
 
 بیڑیاں روئی کبھی پائوں کے چھالے روئے

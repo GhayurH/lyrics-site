@@ -12,33 +12,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Naala ba-lab-e-Zainab-e-laachaar Husaina
-  Maujud hai asbaab na ansaar Husaina
-  Hai chaaroṅ taraf nargha-e-kuffaar Husaina
+  Naala ba-lab-e-Zainab naachaar Husaina
+  Maujud hain asbaab na ansaar Husaina
+  Hain chaaroṅ taraf nargha-e-kuffaar Husaina
   Faryaad nahiṅ koi madadgaar Husaina
 
   1
-  Ab koi nahiṅ sab mah-e-anwar gaye maare
+  Ab koi nahiṅ sab maah-e-anwar gaye maare
   Saath aaye the jitne wo dilaawar gaye maare
   Hamshakl-e-Muhammad Ali Akbar gaye maare
-  Soya hai lab-e-nehr alamdaar Husaina
+  Soya hai lab-e-nahr alamdaar Husaina
 
   2
   Jo mar gaye un pe bhi ajab zulm o jafa hai
   Ya dhup hai ya khaak ya maqtal ki hawa hai
   Mazlumoṅ ke laashoṅ pe na saaya na rida hai
-  Wa hasrata wa aalam-e-dara baar Husaina
+  Wa hasrata wa aalaam-e-darbaar Husaina
 
   3
-  Ye saath the ammo hai giraaṅ shaam-e-gharibaṅ
-  Aur sehme hue ahl-e-haram dard badaama
-  Zakhmoṅ pa namak paashi ka hone laga saamaaṅ
+  Ye saath the ammu hai giraaṅ shaam-e-gharibaaṅ
+  Aur sehme hue ahl-e-haram dard baadamaaṅ
+  Zakhmoṅ pe namak paashi ka hone laga saamaaṅ
   Ab koi nahiṅ munis o ghamkhwaar Husaina
 
   4
-  Kya azm tha ghurbat meiṅ bhi ae saani-e-Zehra
-  Bachchoṅ ko sambhaala kabhi bewaoṅ ko dekha
-  Sajjad ko Baqir ko Sakina ko sulaaya
+  Kya azm tha ghurbat mein bhi ae saani-e-Zehra
+  Bachchoṅ ko sambhaala kabhi bewaaoṅ ko dekha
+  Sajjaad ko Baaqir ko Sakina ko sulaaya
   Maujud hai Akbar na alamdaar Husaina
 ---
 نالہ بالب زینب ناچار حسینا

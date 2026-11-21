@@ -1,30 +1,50 @@
 ---
-title: "Ye Sakina Ki Aai Sada Haider Rizvi"
+title: "یہ سکینہ کی آئی صدا حیدر رضوی"
+alternateTitle: "Ye Sakina Ki Aai Sada Haider Rizvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Hasan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Ye Sakina ki aai sada Haider Rizvi
+  Yeh Sakina ki aayi sada sath mujh ko bhi le jaiye
+  Ho ke jaein watan jab reha sath mujh ko bhi le jaiye
+  Dekh kar mujh ko tanha yahan aap ke baad aye bhai jaan
+  Roz marein gay yeh ashqiya sath mujh ko bhi le jaiye
+  Ghar ki yaad aa rahi hai mujhe our tarpa rahi hai mujhe
+  Dam hai ghutta yahan par mera sath mujh ko bhi le jaiye
+  Sath jab mujh ko paein gay woh pani mujh ko pilaein gay woh
+  Khush bohat hoonge mere chacha sath mujh ko bhi le jaiye
+  Roz Sughra ko waan baith kar main sunaon gi hal-e-safar
+  Dil behal jaye beemar ka sath mujh ko bhi le jaiye
+  Door unn se rahon gi nahi hoonge Baba yaqeenan wahin
+  Chut ke jaein agar Karbala sath mujh ko bhi le jaiye
+  Khak par main bohat so chuki zakhm-e-rukhsar par ro chuki
+  Seena mil jaye ga baap ka sath mujh ko bhi le jaiye
+  Boli ro kar Hasan Kazmi laut aaye gi teri phophi
+  Jab yeh Zainab se oss ne kaha sath mujh ko bhi le jaiye
 ---
 
-1
-Ye Sakina Ki Aai Sada Haider Rizvi.
-Yeh Sakina Ki Aayi Sada Sath Mujh Ko Bhi Le Jaiye.
-Ho Ke Jaein Watan Jab Reha Sath Mujh Ko Bhi Le Jaiye.
-Dekh Kar Mujh Ko Tanha Yahan Aap Ke Baad Aye Bhai Jaan.
-Roz Marein Gay Yeh Ashqiya Sath Mujh Ko Bhi Le Jaiye.
-Ghar Ki Yaad Aa Rahi Hai Mujhe Our Tarpa Rahi Hai Mujhe.
-Dam Hai Ghutta Yahan Par Mera Sath Mujh Ko Bhi Le Jaiye.
-Sath Jab Mujh Ko Paein Gay Woh Pani Mujh Ko Pilaein Gay Woh.
-Khush Bohat Hoonge Mere Chacha Sath Mujh Ko Bhi Le Jaiye.
-Roz Sughra Ko Waan Baith Kar Main Sunaon Gi Hal-e-Safar.
-Dil Behal Jaye Beemar Ka Sath Mujh Ko Bhi Le Jaiye.
-Door Unn Se Rahon Gi Nahi Hoonge Baba Yaqeenan Wahin.
-Chut Ke Jaein Agar Karbala Sath Mujh Ko Bhi Le Jaiye.
-Khak Par Main Bohat So Chuki Zakhm-e-Rukhsar Par Ro Chuki.
-Seena Mil Jaye Ga Baap Ka Sath Mujh Ko Bhi Le Jaiye.
-Boli Ro Kar Hasan Kazmi Laut Aaye Gi Teri Phophi.
-Jab Yeh Zainab Se Oss Ne Kaha Sath Mujh Ko Bhi Le Jaiye.
+۱
+یہ سکینہ کی آئی صدا حیدر رضوی
+یہ سکینہ کی آئی صدا ساتھ مجھ کو بھی لے جائیے
+ہو کے جائیں وطن جب رہا ساتھ مجھ کو بھی لے جائیے
+دیکھ کر مجھ کو تنہا یہاں آپ کے بعد اے بھائی جان
+روز ماریں گے یہ اشقیا ساتھ مجھ کو بھی لے جائیے
+گھر کی یاد آ رہی ہے مجھے اور تڑپا رہی ہے مجھے
+دم ہے گھٹتا یہاں پر مرا ساتھ مجھ کو بھی لے جائیے
+ساتھ جب مجھ کو پائیں گے وہ پانی مجھ کو پلائیں گے وہ
+خوش بہت ہوں گے میرے چچا ساتھ مجھ کو بھی لے جائیے
+روز صغریٰ کو واں بیٹھ کر میں سناؤں گی حالِ سفر
+دل بہل جائے بیمار کا ساتھ مجھ کو بھی لے جائیے
+دور ان سے رہوں گی نہیں ہوں گے بابا یقیناً وہیں
+چھٹ کے جائیں اگر کربلا ساتھ مجھ کو بھی لے جائیے
+خاک پر میں بہت سو چکی زخمِ رخسار پر رو چکی
+سینہ مل جائے گا باپ کا ساتھ مجھ کو بھی لے جائیے
+بولی رو کر حسن کاظمی لوٹ آئے گی تری پھوپھی
+جب یہ زینب سے اس نے کہا ساتھ مجھ کو بھی لے جائیے

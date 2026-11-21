@@ -12,42 +12,42 @@ tags: []
 aliases: ["jab-ap-ayeinge-mukhtar-hussain-fatehpuri"]
 published: true
 romanLyrics: |-
-  Gale milo sab durud parh kar hasad ki diwaar tor waalo.
-  Diloṅ meiṅ bughz o hasad raha to Husain ka gham kahaaṅ rahe ga.
-  Laboṅ pe ghibat diloṅ meiṅ nafrat farebi aankheiṅ makaan ghaasibi.
-  Bula rahe ho jise bataao woh aa gaya to kahaaṅ rahe ga?
+  Gale milo sab durud parh kar hasad ki diwaar tor waalo
+  Diloṅ meiṅ bughz o hasad raha to Husain ka gham kahaaṅ rahe ga
+  Laboṅ pe ghibat, diloṅ meiṅ nafrat, farebi aankheiṅ, makaan ghaasibi
+  Bula rahe ho jise, bataao woh aa gaya to kahaaṅ rahe ga?
 
   1
-  Utha ke ghaib ka parda jab aap aaeṅ ge.
-  Dikhaai de ga sawera jab aap aaeṅ ge.
+  Utha ke ghaib ka parda jab aap aaeṅ ge
+  Dikhaai de ga sawera jab aap aaeṅ ge
 
   2
-  Sikhaaya kis ne tha godi meiṅ bolna un ko.
-  Ye khud bataaeṅ ge Isa jab aap aaeṅ ge.
+  Sikhaaya kis ne tha godi meiṅ bolna un ko
+  Ye khud bataaeṅ ge Isa jab aap aaeṅ ge
 
   3
-  Sukun se baitha ho pahlu meiṅ sher ke aahu.
-  Ye dekhne ko mile ga jab aap aaeṅ ge.
+  Sukun se baitha ho pahlu meiṅ sher ke aahu
+  Ye dekhne ko mile ga jab aap aaeṅ ge
 
   4
-  Abhi to nikla hai suraj magar andhera hai.
-  Nasib ho ga ujaala jab aap aaeṅ ge.
+  Abhi to nikla hai suraj magar andhera hai
+  Nasib ho ga ujaala jab aap aaeṅ ge
 
   5
-  Nikaale jaaeṅ ge Ahl-e-nifaaq qabroṅ se.
-  Nabi ko chain mile ga jab aap aaeṅ ge.
+  Nikaale jaaeṅ ge ahl-e-nifaaq qabroṅ se
+  Nabi ko chain mile ga jab aap aaeṅ ge
 
   6
-  Khajureiṅ Chaak-e-shikam se nikaali jaaeṅ gi.
-  Hisaab ho ga Fadak ka jab aap aaeṅ ge.
+  Khajureiṅ chaak-e-shikam se nikaali jaaeṅ gi
+  Hisaab ho ga Fadak ka jab aap aaeṅ ge
 
   7
-  Kabhi Ali ki zabaan se jo log sunte the.
-  Sunaai de ga woh khutba jab aap aaeṅ ge.
+  Kabhi Ali ki zabaan se jo log sunte the
+  Sunaai de ga woh khutba jab aap aaeṅ ge
 
   8
-  Abhi to dhup meiṅ fatwoṅ ki haiṅ Abu Taalib.
-  Shajar bhi orhe ga saaya jab aap aaeṅ ge.
+  Abhi to dhup meiṅ fatwoṅ ki haiṅ Abu Taalib
+  Shajar bhi orhe ga saaya jab aap aaeṅ ge
 ---
 
 گلے ملو سب درود پڑھ کر حسد کی دیوار توڑ والو۔

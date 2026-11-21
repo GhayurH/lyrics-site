@@ -1,30 +1,50 @@
 ---
-title: "Nayi Jandi Main Ghazi Haye Sham Diyaan Lyrics 2018"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "نئیں جاندی میں غازی ہائے شام دیاں"
+alternateTitle: "Nayi Jandi Main Ghazi Haye Sham Diyaan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Najfi"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Nayi jandi main Ghazi haye Sham diyaan rawaan
+  Bimar tur nahi sakda kinu veer main bulawaan
+  Hathaan che rasiyaan paiyaan zalim ne veer Ghazi
+  Kiwein veer di maiyat choon khich di main teer Ghazi
+  Lath gayiyaan tere wangoon haye meriyaan ne banwaan
+  Aag khaimiyaan di Ghazi aa wekh bhujdi payi aye
+  Jera jhola sar giya aye maa onno labdhi payi aye
+  Jaiday lal diyaan aina haye kho laiyaan ne sanwaan
+  Jeri waday te jiyondi aye onnay veer mar aye jana
+  Dasna aye kiwein onno Akbar nayi mur ke anna
+  Jeri wichari na milan layi ohda dard kinj wandawaan
+  Teri pyari Sakina de aag cholay nu lag gayi aye
+  Ujari Rubab Ghazi aye wain kar di payi aye
+  Kadi naal yateema de na qaid howan mawaan
+  Mula Hussain di maa howay aona te razi
+  Jeray dein aye pursa tainu veer da aye Ghazi
+  Mangda aye ro ke Najfi tere alam te duawaan
 ---
 
-1
-Nayi Jandi Main Ghazi Haye Sham Diyaan Rawaan.
-Bimar Tur Nahi Sakda Kinu Veer Main Bulawaan.
-Hathaan Che Rasiyaan Paiyaan Zalim Ne Veer Ghazi.
-Kiwein Veer Di Maiyat Choon Khich Di Main Teer Ghazi.
-Lath Gayiyaan Tere Wangoon Haye Meriyaan Ne Banwaan.
-Aag Khaimiyaan Di Ghazi Aa Wekh Bhujdi Payi Aye.
-Jera Jhola Sar Giya Aye Maa Onno Labdhi Payi Aye.
-Jaiday Lal Diyaan Aina Haye Kho Laiyaan Ne Sanwaan.
-Jeri Waday Te Jiyondi Aye Onnay Veer Mar Aye Jana.
-Dasna Aye Kiwein Onno Akbar Nayi Mur Ke Anna.
-Jeri Wichari Na Milan Layi Ohda Dard Kinj Wandawaan.
-Teri Pyari Sakina De Aag Cholay Nu Lag Gayi Aye.
-Ujari Rubab Ghazi Aye Wain Kar Di Payi Aye.
-Kadi Naal Yateema De Na Qaid Howan Mawaan.
-Mula Hussain Di Maa Howay Aona Te Razi.
-Jeray Dein Aye Pursa Tainu Veer Da Aye Ghazi.
-Mangda Aye Ro Ke Najfi Tere Alam Te Duawaan.
+۱
+نئیں جاندی میں غازی ہائے شام دیاں راواں
+بیمار ٹر نہیں سکدا کنوں ویر میں بلاواں
+ہتھاں چے رسیاں پئیاں ظالم نے ویر غازی
+کیویں ویر دی میت چوں کھچ دی میں تیر غازی
+لتھ گئیاں تیرے وانگوں ہائے میریاں نے بانواں
+اگ خیمیاں دی غازی آ ویکھ بجھدی پئی اے
+جیڑا جھولا سڑ گیا اے ماں اونوں لبھدی پئی اے
+جیدے لال دیاں ایناں ہائے کھو لئیاں نے سانواں
+جیڑی وعدے تے جیوندی اے اونّے ویر مر اے جانا
+دسنا اے کیویں اونوں اکبر نئیں مڑ کے آنا
+جیڑی وچاری نہ ملن لئی اوہدا درد کنج ونڈاواں
+تیری پیاری سکینہ دے اگ چولے نوں لگ گئی اے
+اجڑی رباب غازی اے وین کر دی پئی اے
+کدی نال یتیماں دے نہ قید ہوون ماواں
+مولا حسین دی ماں ہووے اوہناں تے راضی
+جیڑے دیندے اے پرسہ تینوں ویر دا اے غازی
+منگدا اے رو کے نجفی تیرے علم تے دعاواں

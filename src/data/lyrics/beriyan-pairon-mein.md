@@ -18,7 +18,7 @@ romanLyrics: |-
   Kya chale Sajjad rasta beriyaṅ pairoṅ meiṅ hai
 
   2
-  Bole Aabid dafn maiṅ kaise karuṅ kiuṅ kar karuṅ
+  Bole Aabid dafn main kaise karuṅ kiuṅ kar karuṅ
   Bekafan baba ka laasha beriyaṅ pairoṅ meiṅ hai
 
   3
@@ -27,11 +27,11 @@ romanLyrics: |-
 
   4
   Bhai se umid-e-hamdardi kare to kya kare
-  Ro ke kehte hai Sakina beriyaṅ pairoṅ meiṅ hai
+  Ro ke kehti hai Sakina beriyaṅ pairoṅ meiṅ hai
 
   5
   Boli Zainab Sayyid-e-Sajjad se ae mere laal
-  Shaam tak tum ko hai jaana beriyaṅ pairoṅ meiṅ hai
+  Shaam tak ham ko hai jaana beriyaṅ pairoṅ meiṅ hai
 
   6
   Baad-e-Sarwar dekhiye to Aabid-e-bimaar ko

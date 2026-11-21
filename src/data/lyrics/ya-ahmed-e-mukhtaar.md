@@ -20,12 +20,12 @@ romanLyrics: |-
   1
   Bhaai se hui daswiṅ Muharram ko judaai
   Maqtal meiṅ sahar gyaarah Muharram ki jab aai
-  Naize pe hua bhaai ka didaar
+  Neze pe hua bhaai ka didaar
   Ya Ahmed-e-Mukhtaar
 
   2
   Karte haiṅ bare zulm Sakina pe sitamgaar
-  The bosa-gaah-e-Hazrat-e-Shabbir jo rukhsaar
+  The bosa gaah-e-Hazrat-e-Shabbir jo rukhsaar
   Hai surkh tamaachoṅ se wo rukhsaar
   Ya Ahmed-e-Mukhtaar
 
@@ -38,11 +38,11 @@ romanLyrics: |-
   4
   Ye saani-e-Zehra pe musibat ki ghari hai
   Wo majma-e-aghyaar meiṅ beparda khari hai
-  Aur naize pe hai farq-e-Alamdaar
+  Aur neze pe hai farq-e-Alamdaar
   Ya Ahmed-e-Mukhtaar
 
   5
-  Jab Shimr lagaata hai Sakina ko tamaacha
+  Jab Shimr lagaata hai Sakina ko tamaache
   Naachaar ye Sajjaad se ho jaata hai khadsha
   Bimaar na ji paaye ga zinhaar
   Ya Ahmed-e-Mukhtaar

@@ -1,38 +1,65 @@
 ---
-title: "Palat Ke Agaya Lasha Qaiser Abbas"
+title: "پلٹ کے آ گیا لاشہ قیصر عباس"
+alternateTitle: "Palat Ke Agaya Lasha Qaiser Abbas"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zaheer"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Palat ke agaya lasha Qaiser Abbas
+  Palat ke aa gaya lasha Nabi ki turbat se
+
+  1
+  Nahi thi kam yeh ghari haye ik qayamat se
+  Pukari Zainab-e-Dukhiya aye bhai jaan mere
+  Kafan safaid diya tha tumhein tu hum sab ne
+  Batao guzrey ho kis kis bhala aziyat se
+
+  2
+  Badan se teeron ko Shabeer kar rahe hain juda
+  Rawaan hai aankhon se khoon lab pe hai yehi noha
+  Hoon sharmsar aye bhai teri wasiyat se
+  Sanbhalein behno ko Shabeer kis tarha haye
+
+  3
+  Bataein kaisay Hasan ko woh le ke ghar aaye
+  Hussain totay hoye hain Hasan ki rehlat se
+  Tarap rahi hai sabhi Aal-e-Mustafa dekho
+  Pukartay hain falak par malaika ro ro
+
+  4
+  Kaleja tukray hai zehar-e-daga ki shiddat se
+  Zaheer maa ke bagal mein Hasan ko dafnaya
+  Phir oss ke baad Sheh-e-Karbala ne farmaya
+  Rakhein gi maa tumhein bhai bari hifazat se
 ---
 
-Palat Ke Agaya Lasha Qaiser Abbas.
-Palat Ke Aa Gaya Lasha Nabi Ki Turbat Se.
+پلٹ کے آ گیا لاشہ قیصر عباس
+پلٹ کے آ گیا لاشہ نبی کی تربت سے
 
-1
-Nahi Thi Kam Yeh Ghari Haye Ik Qayamat Se.
-Pukari Zainab-e-Dukhiya Aye Bhai Jaan Mere.
-Kafan Safaid Diya Tha Tumhein Tu Hum Sab Ne.
-Batao Guzrey Ho Kis Kis Bhala Aziyat Se.
+۱
+نہیں تھی کم یہ گھڑی ہائے اک قیامت سے
+پکاری زینبِ دکھیّا اے بھائی جان میرے
+کفن سفید دیا تھا تمہیں تو ہم سب نے
+بتاؤ گزرے ہو کس کس بھلا اذیت سے
 
-2
-Badan Se Teeron Ko Shabeer Kar Rahe Hain Juda.
-Rawaan Hai Aankhon Se Khoon Lab Pe Hai Yehi Noha.
-Hoon Sharmsar Aye Bhai Teri Wasiyat Se.
-Sanbhalein Behno Ko Shabeer Kis Tarha Haye.
+۲
+بدن سے تیروں کو شبیر کر رہے ہیں جدا
+رواں ہے آنکھوں سے خون لب پہ ہے یہی نوحہ
+ہوں شرمسار اے بھائی تیری وصیت سے
+سنبھالیں بہنوں کو شبیر کس طرح ہائے
 
-3
-Bataein Kaisay Hasan Ko Woh Le Ke Ghar Aaye.
-Hussain Totay Hoye Hain Hasan Ki Rehlat Se.
-Tarap Rahi Hai Sabhi Aal-e-Mustafa Dekho.
-Pukartay Hain Falak Par Malaika Ro Ro.
+۳
+بتائیں کیسے حسن کو وہ لے کے گھر آئے
+حسین ٹوٹے ہوئے ہیں حسن کی رحلت سے
+تڑپ رہی ہے سبھی آلِ مصطفیٰ دیکھو
+پکارتے ہیں فلک پر ملائکہ رو رو
 
-4
-Kaleja Tukray Hai Zehar-e-Daga Ki Shiddat Se.
- Zaheer Maa Ke Bagal Mein Hasan Ko Dafnaya.
-Phir Oss Ke Baad Sheh-e-Karbala Ne Farmaya.
-Rakhein Gi Maa Tumhein Bhai Bari Hifazat Se.
+۴
+کلیجہ ٹکڑے ہے زہرِ دغا کی شدت سے
+ظہیر ماں کے بغل میں حسن کو دفنایا
+پھر اس کے بعد شہِ کربلا نے فرمایا
+رکھیں گی ماں تمہیں بھائی بڑی حفاظت سے

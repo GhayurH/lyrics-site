@@ -1,42 +1,73 @@
 ---
-title: "Jal Gayay Khaimay Humaray Reh Gayay"
+title: "جل گئے خیمے ہمارے رہ گئے"
+alternateTitle: "Jal Gayay Khaimay Humaray Reh Gayay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Jal gayay khaimay humaray reh gayay ghazi kahan
+  Ro kay Zainub yeh pukaray reh gayay ghazi kahan
+
+  1
+  Aayay na Aun o Muhammad/ laut kay maidan say
+  Kho gayay meray saharay/ reh gayay/ ghazi kahan
+
+  2
+  Jo tumhari laadli thi/ uss ko mara Shimar nay
+  Uskay bunday bhi utaray/ reh gayay/ ghazi kahan
+
+  3
+  Bhai kay haatoon pay dekho/ garden-e-baysheer say
+  Beh rahay hain khoon kay dharay/ reh gayay/ ghazi kahan
+
+  4
+  Mil chuki hai Karbala key/ khaak main sab rooshni
+  Bujh gayay saray sitaray/ reh gayay/ ghazi kahan
+
+  5
+  Soochta hai baap ki maie/yat pay Aabid yeh khara
+  Qabar main kaisay utaray/ reh gayay/ ghazi kahan
+
+  6
+  Tum ko maqtal main Sakina/ dhoond ayi har jagha
+  Kya ho darya kay kinaray/ reh gayay/ ghazi kahan
+
+  7
+  Kampta hai lasha-e-Abbas Kashif nehar par
+  Ro kay jab kehtay hain saray reh gayay ghazi kahan
 ---
 
-Jal gayay khaimay humaray reh gayay ghazi kahan
+جل گئے خیمے ہمارے رہ گئے غازی کہاں
+رو کے زینب یہ پکارے رہ گئے غازی کہاں
 
-Ro kay zainub yeh pukaray reh gayay ghazi kahan
+۱
+آئے نہ عون و محمد، لوٹ کے میدان سے
+کھو گئے میرے سہارے، رہ گئے غازی کہاں
 
-Aayay na aun o Muhammad/ laut kay maidan say
+۲
+جو تمہاری لاڈلی تھی، اس کو مارا شمر نے
+اس کے بُندے بھی اتارے، رہ گئے غازی کہاں
 
-Kho gayay meray saharay/ reh gayay/ ghazi kahan
+۳
+بھائی کے ہاتھوں پہ دیکھو، گردنِ بے شیر سے
+بہہ رہے ہیں خون کے دھارے، رہ گئے غازی کہاں
 
-Jo tumhari laadli thi/ uss ko mara shimar nay
+۴
+مل چکی ہے کربلا کی خاک میں سب روشنی
+بجھ گئے سارے ستارے، رہ گئے غازی کہاں
 
-Uskay bunday bhi utaray/ reh gayay/ ghazi kahan
+۵
+سوچتا ہے باپ کی میت پہ عابد یہ کھڑا
+قبر میں کیسے اتارے، رہ گئے غازی کہاں
 
-Bhai kay haatoon pay dekho/ garden-e-baysheer say
+۶
+تم کو مقتل میں سکینہ ڈھونڈ آئی ہر جگہ
+کیا ہو دریا کے کنارے، رہ گئے غازی کہاں
 
-Beh rahay hain khoon kay dharay/ reh gayay/ ghazi kahan
-
-Mil chuki hai karbala key/ khaak main sab rooshni
-
-Bujh gayay saray sitaray/ reh gayay/ ghazi kahan
-
-Soochta hai baap ki maie/yat pay aabid yeh khara
-
-Qabar main kaisay utaray/ reh gayay/ ghazi kahan
-
-Tum ko maqtal main sakina/ dhoond ayi har jagha
-
-Kya ho darya kay kinaray/ reh gayay/ ghazi kahan
-
-Kampta hai lasha-e-abbas kashif nehar par
-
-Ro kay jab kehtay hain saray reh gayay ghazi kahan
+۷
+کانپتا ہے لاشۂ عباس، کاشف، نہر پر
+رو کے جب کہتے ہیں سارے رہ گئے غازی کہاں

@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Baap ki mayyat ki raunaq betiyoṅ ke dam se hai
-  Aa rahi hai zainab o kulsum haye sar khule
-  Betiyaṅ aayi hai mayyat ke sirhane ya ali
-  Di sada kufe meiṅ ruh-e-fatema ne ya ali
-  Betiyaṅ aayi hai mayyat ke sirhane ya ali
-  Zulm kufe meiṅ kiya hai kaisa ahle shaam ne
-  Umr bhar zainab na aayi thi padar ke saamne
-  Aaj kaise aayi hai mayyat pe jaane ya ali
-  Betiyaṅ aayi hai...
-  Gham ke aalam meiṅ ruqayya ki wafa to dekhiye
-  Kis tarha wo zainab o kulsum se aage barhe
-  Laash par aayi nahi aansu bahane ya ali
-  Betiyaṅ aayi hai...
-  Dekh kar zainab ki haalat yaad aata hai mujhe
-  Us ghari ummul masayib mere baba kehte the
-  Jis ghari di thi hamay zainab khuda ne ya ali
-  Betiyaṅ aayi hai...
-  Kya batauṅ kya guzarti hai tere abbas par
-  Hausla kaise kare zainab ko rota dekh kar
-  Ghar se baahar hai wo pehre ke bahane ya ali
-  Betiyaṅ aayi hai...
-  Tin din se shor hai har ek azaaṅ par bain ka
-  Kis tarha se gham batta'un boliye hasnain ka
-  Mere bacche aur yatimi ke zamane ya ali
-  Betiyaṅ aayi hai...
+  Aa rahi hai Zainab o Kulsum haaye sar khule
+  Betiyaṅ aaiṅ haiṅ mayyat ke sirhaane ya Ali
+  Di sada Kufe meiṅ ruh-e-Fatema ne ya Ali
+  Betiyaṅ aaiṅ haiṅ mayyat ke sirhaane ya Ali
+  Zulm Kufe meiṅ kiya hai kaisa ahl-e-Shaam ne
+  Umr bhar Zainab na aayi thi padar ke saamne
+  Aaj kaise aayi hai mayyat pe jaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
+  Gham ke aalam meiṅ Ruqayya ki wafa to dekhiye
+  Kis tarah woh Zainab o Kulsum se aage barhe
+  Laash par aayi nahiṅ aansu bahaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
+  Dekh kar Zainab ki haalat yaad aata hai mujhe
+  Us ghari Ummul Masaib mere baba kehte the
+  Jis ghari di thi hameiṅ Zainab Khuda ne ya Ali
+  Betiyaṅ aaiṅ haiṅ...
+  Kya bataauṅ kya guzarti hai tire Abbas par
+  Hausla kaise kare Zainab ko rota dekh kar
+  Ghar se baahar hai woh pehre ke bahaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
+  Tin din se shor hai har ik azaaṅ par bain ka
+  Kis tarah se gham bataauṅ boliye Hasnain ka
+  Mere bachche aur yatimi ke zamaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
   Aap ki mayyat pe kaise aayi hai ye dekhiye
-  Jaate jaate beti ka lehja to sunt jaaiye
-  Shaam jaana hai ise khutbe sunane ya ali
-  Betiyaṅ aayi hai...
+  Jaate jaate beti ka lehja to sunte jaaiye
+  Shaam jaana hai ise khutba sunaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
   Kya kahuṅ baba ka kaisa haal tha aflaak par
-  Gir gayi thi mai baqayya meiṅ tarap kar khaak par
-  Aap ne chume the jab ghazi ke shaane ya ali
-  Betiyaṅ aayi hai...
+  Gir gayi thi main Baqia meiṅ tarap kar khaak par
+  Aap ne chume the jab Ghazi ke shaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
   Maa ka saaya ho na baaqi baap hi zinda rahe
   Jaate jaate betiyoṅ ko itna batla dijiye
-  Kaise palthe hai bhala aise gharane ya ali
-  Betiyaṅ aayi hai...
-  Zulm ki akbar hui hai har taraf yuṅ inteha
-  Karbala kufa najaf yasrab se aati hai sada
-  Aaye ab ibe Hasan inko basaane ya ali
-  Betiyaṅ aayi hai...
+  Kaise palte haiṅ bhala aise gharaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
+  Zulm ki Akbar hui hai har taraf yuṅ inteha
+  Karbala Kufa Najaf Yasrab se aati hai sada
+  Aaye ab Ibnul Hasan in ko basaane ya Ali
+  Betiyaṅ aaiṅ haiṅ...
 ---
 
 ۱

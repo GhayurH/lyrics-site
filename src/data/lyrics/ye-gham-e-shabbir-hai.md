@@ -15,27 +15,27 @@ romanLyrics: |-
   Ye gham-e-Shabbir hai dunya ko bataate chalo
 
   1
-  Is gham-e-Shabbir ko kaise bhulaayeṅge hum
-  Hashr tak ahl-e-jahaaṅ is ko sunaayeṅge hum
-  Daagh jo maatam ke haiṅ sab ko dikhaayeṅge hum
+  Is gham-e-Shabbir ko kaise bhulaayeṅ ge hum
+  Hashr tak ahl-e-jahaaṅ is ko sunaayeṅ ge hum
+  Daagh jo maatam ke haiṅ sab ko dikhaayeṅ ge hum
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   2
-  Ashk-e-aza-e-Husain hashr meiṅ kaam aayeṅge
-  Saamne Zehra ke hum rote hue jaayeṅge
-  Shaafi-e-mahshar se hum is ka ajr paayeṅge
+  Ashk-e-aza-e-Husain hashr meiṅ kaam aayeṅ ge
+  Saamne Zehra ke hum rote hue jaayeṅ ge
+  Shaafi-e-mahshar se hum is ka ajr paayeṅ ge
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   3
   Ahl-e-aza aap ko deti hai Zehra dua
   In ko to aabaad rakh paalne wale Khuda
-  Ye mere farzand par rote raheṅge sada
+  Ye mere farzand par rote raheṅ ge sada
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   4
   Kitna alamnaak hai maaraka-e-Karbala
-  Is ka har ek baab hai khun meiṅ duba hua
-  Kehte the khud Jibrail zulm tha had se siwa
+  Is ka har ik baab hai khun meiṅ duba hua
+  Kehte the khud Jibraail zulm tha had se siwa
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   5
@@ -51,8 +51,8 @@ romanLyrics: |-
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   7
-  Saani-e-Zehra ke laal haq pe fida ho gaye
-  Qasim-e-naushaah bhi maaṅ se juda ho gaye
+  Saani-e-Zehra ka laal haq pe fida ho gaye
+  Qasim-e-Naushaah bhi maaṅ se juda ho gaye
   Qatl Alamdaar bhi ahl-e-aza ho gaye
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 

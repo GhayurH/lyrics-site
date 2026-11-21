@@ -9,28 +9,28 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bayad-e-Sibt-e-Nabi jo bahaye jate haiṅ
-  Un ansuwoṅ se muqaddar sajaye banaye jate haiṅ
+  Ba-yaad-e-Sibt-e-Nabi jo bahaaye jaate haiṅ
+  Un aansuoṅ se muqaddar banaaye jaate haiṅ
 
   1
-  Yaqiṅ na ho to wahiṅ Karbala may chal kar dekh
-  Kis ihetemam se jangal basaye jate haiṅ
+  Yaqiṅ na ho to wahiṅ Karbala mein chal kar dekh
+  Kis ihtimaam se jangal basaaye jaate haiṅ
 
   2
-  Ye naam-e-Shah-e-do aalam kahi karam hai ke ham
-  Gham-e-jahan se daman bachaye jate haiṅ
+  Ye naam-e-Shaah-e-do aalam ka hi karam hai ke ham
+  Gham-e-jahaan se daaman bachaaye jaate haiṅ
 
   3
-  Uduwe aal ko zid hai ke zikr-e-aal na ho
-  Kaheen ye naam bhi dil se bhulaye jate haiṅ
+  Aduv-e-aal ko zid hai ke zikr-e-aal na ho
+  Kabhi ye naam bhi dil se bhulaaye jaate haiṅ
 
   4
-  Hai hota jin ko ata hukm-e-Hazrat-e-Ghazi
-  Wohi to roza-e-Sheh par bulaye jate haiṅ
+  Hai hota jin ko ataa hukm-e-Hazrat-e-Ghaazi
+  Wohi to roza-e-Sheh par bulaaye jaate haiṅ
 
   5
-  Kami Husain ki baqi hai Kazmi warna
-  Yazid aaj bhi dunya may paye jate haiṅ
+  Kami Husain ki baaqi hai Kaazmi warna
+  Yazid aaj bhi duniya mein paaye jaate haiṅ
 ---
 
 بیادِ سبطِ نبی جو بہائے جاتے ہیں

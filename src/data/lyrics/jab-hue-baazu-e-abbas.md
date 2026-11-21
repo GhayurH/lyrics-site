@@ -13,13 +13,13 @@ published: true
 romanLyrics: |-
   Jab hue baazu-e-Abbas qalam darya par
   Gir ke thanda hua Hazrat ka alam darya par
-  Gharq-e-khuṅ ho gaya wo bahr-e-karam darya par
+  Gharq-e-khuṅ ho gaya woh bahr-e-karam darya par
   Ghul tha zakhmi hua saqqa-e-haram darya par
   Mashk ko daantoṅ meiṅ pakre hue yuṅ laata hai
   Dahan-e-sher meiṅ jis tarah shikaar aata hai
 
   1
-  Ghash kiya madhe jigar soz-e-atash se hai kabaab
+  Ghash kiya madh-e-jigar soz-e-atash se hai kabaab
   Hai jo bedast thaharti nahiṅ paaoṅ meiṅ rakaab
   Pyaase bachchoṅ ke liye sine meiṅ dil hai betaab
   Gham yahi hai ke kahiṅ mashk se zaaye na ho aab
@@ -27,17 +27,17 @@ romanLyrics: |-
   Ya Ali kehte haiṅ aur mashk pe jhuk jaate haiṅ
 
   2
-  Kar ke muṅh su-e-Najaf kehte the ba dida-e-tar
+  Kar ke munh su-e-Najaf kehte the ba dida-e-tar
   Ya Ali lijiye mujh bekas o muztar ki khabar
-  Ae Shaah-e-Khuda kusha baadshaah-e-jinn o bashar
-  Chaahta huṅ maiṅ ke is mashk ko pahuṅche na zahr
+  Ae shaah-e-Khuda kusha baadshaah-e-jinn o bashar
+  Chaahta huṅ maiṅ ke is mashk ko pahunche na zahr
   Aap ke bete ka shaida huṅ madad laazim hai
   Aap ki poti ka saqqa huṅ madad laazim hai
 
   3
   Asp se kehte the Abbas ye ba chashm-e-pur aab
   Yaaṅ se le chal mujhe ae asp-e-wafaadaar shitaab
-  Pyaase hoṅge jo sairaab to hoga sawaab
+  Pyaase hoṅge jo sairaab hoga sawaab
   Kahiṅ aisa na ho saari meri mehnat ho kharaab
   Haae kya jaaniye kya bachchoṅ ki haalat hogi
   Mar gai pyaasi Sakina to qayaamat hogi

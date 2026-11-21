@@ -1,37 +1,65 @@
 ---
-title: "Yeh Watan Tumhara Hai Tum Ho Pasban Is Ke"
+title: "یہ وطن تمہارا ہے تم ہو پاسباں اس کے"
+alternateTitle: "Yeh Watan Tumhara Hai Tum Ho Pasban Is Ke"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Yeh watan tumhara hai tum ho pasban is ke
+  Yeh chaman tumhara hai tum ho naghma khowan is ke
+
+  1
+  Is chaman ke pholon par rang-o-aab tum se hai
+  Is zameen ka har zarah aftab tum se hai
+  Yeh fiza tumhari hai behr-o-bar tumhare hain
+  Kehkashan ke yeh jale rehguzar tumhare hain
+
+  2
+  Is zameen ki mati mein khon hai shaheedon ka
+  Arz-e-Pak markaz hai qaum ki umeedon ka
+  Nazam-o-zabt ko apna meer-e-karwaan jano
+  Waqt ke andehron mein apna aap pehchano
+
+  3
+  Yeh zameen muqadas hai maan ke pyar ki sorat
+  Is chaman mein tum sab ho barg-o-baar ki sorat
+  Dekhna ganwana mat dolat-e-yaqeen logo
+  Yeh watan amanat hai our tum ameen logo
+
+  4
+  Meer-e-karwaan hum the rooh-e-karwaan tum ho
+  Hum tu sirf unwaan the asal dastaan tum ho
+  Nafraton ke darwaze khud pe band hi rakhna
+  Is watan ke parcham ko sar buland hi rakhna
 ---
 
-Yeh Watan Tumhara Hai Tum Ho Pasban Is Ke.
-Yeh Chaman Tumhara Hai Tum Ho Naghma Khowan Is Ke.
+یہ وطن تمہارا ہے تم ہو پاسباں اس کے
+یہ چمن تمہارا ہے تم ہو نغمہ خواں اس کے
 
-1
-Is Chaman Ke Pholon Par Rang-o-Aab Tum Se Hai.
-Is Zameen Ka Har Zarah Aftab Tum Se Hai.
-Yeh Fiza Tumhari Hai Behr-o-Bar Tumhare Hain.
-Kehkashan Ke Yeh Jale Rehguzar Tumhare Hain.
+۱
+اس چمن کے پھولوں پر رنگ و آب تم سے ہے
+اس زمین کا ہر ذرہ آفتاب تم سے ہے
+یہ فضا تمہاری ہے بحر و بر تمہارے ہیں
+کہکشاں کے یہ جالے رہگزر تمہارے ہیں
 
-2
-Is Zameen Ki Mati Mein Khon Hai Shaheedon Ka.
-Arz-e-Pak Markaz Hai Qaum Ki Umeedon Ka.
-Nazam-o-Zabt Ko Apna Meer-e-Karwaan Jano.
-Waqt Ke Andehron Mein Apna Aap Pehchano.
+۲
+اس زمین کی مٹی میں خون ہے شہیدوں کا
+ارضِ پاک مرکز ہے قوم کی امیدوں کا
+نظم و ضبط کو اپنا میرِ کارواں جانو
+وقت کے اندھیروں میں اپنا آپ پہچانو
 
-3
-Yeh Zameen Muqadas Hai Maan Ke Pyar Ki Sorat.
-Is Chaman Mein Tum Sab Ho Barg-o-Baar Ki Sorat.
-Dekhna Ganwana Mat Dolat-e-Yaqeen Logo.
-Yeh Watan Amanat Hai Our Tum Ameen Logo.
+۳
+یہ زمین مقدس ہے ماں کے پیار کی صورت
+اس چمن میں تم سب ہو برگ و بار کی صورت
+دیکھنا گنوانا مت دولتِ یقین لوگو
+یہ وطن امانت ہے اور تم امین لوگو
 
-4
-Meer-e-Karwaan Hum The Rooh-e-Karwaan Tum Ho.
-Hum Tu Sirf unwaan The Asal Dastaan Tum Ho.
-Nafraton Ke Darwaze Khud Pe Band Hi Rakhna.
-Is Watan Ke Parcham Ko Sar Buland Hi Rakhna.
+۴
+میرِ کارواں ہم تھے روحِ کارواں تم ہو
+ہم تو صرف عنوان تھے اصل داستاں تم ہو
+نفرتوں کے دروازے خود پہ بند ہی رکھنا
+اس وطن کے پرچم کو سربلند ہی رکھنا

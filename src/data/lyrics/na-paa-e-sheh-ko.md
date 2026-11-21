@@ -13,7 +13,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Na paa-e-sheh ko hai koi larzish
-  Na dast-e-sheh tharthara rahe haiṅ
+  Na dast-e-sheh thartharaa rahe haiṅ
 
   1
   Ali ko awaaz de ke laasha
@@ -33,18 +33,18 @@ romanLyrics: |-
 
   4
   Pahunche baaliṅ pe naujawaaṅ ki
-  Husain ba-haalat-e-pareshaaṅ
-  Sada uthaye ye naaz jis ke
+  Husain ba haalat-e-pareshaaṅ
+  Sadaa uthaye ye naaz jis ke
   Ab us ka laasha utha rahe haiṅ
 
   5
   Khayaal Asghar ka aa raha hai
   Awaaz gum qalb hai pareshaaṅ
   Rabaab uth uth ke dekhti hai
-  Keh jaise Asghar bjhula rahe haiṅ
+  Keh jaise Asghar bujha rahe haiṅ
 
   6
-  Said adab se jhukaye sar ko
+  Sa'id adab se jhukaye sar ko
   Maiṅ apna nauha suna raha huṅ
   Duaaeṅ deti hai mujh ko Zehra
   Ali mera dil bara rahe haiṅ

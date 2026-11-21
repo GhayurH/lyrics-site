@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Do haath haathoṅ par liye kehte the ye sibte nabi
+  Do haath haathoṅ par liye kehte the ye Sibt-e-Nabi
   Bhai mera maara gaya kis kaam ki ab zindagi
-  In kasarata zahri ya aqi in kasarata zahri ya aqi
-  Monis nahi hamdam nahi nasir nahi yawar nahi
-  Dushman ke lashkar char su mera koi lashkar nahi
-  Abbas aankheiṅ khol kar dekho to tanhaai meri
-  In kasarata zahri ya aqi...
-  Kis se kahuṅ dunya ne jo tujhpar mazalim dhaaye hai
-  Aankhoṅ se dekhuṅ kis tarha jo zakhm tu ne khaaye hai
-  Shaane kate sar shak hua aankhoṅ meiṅ aaye tir bhi
-  In kasarata zahri ya aqi...
-  Keh dunga kya kulsum se zainab se kya batlaunga
-  Teri sakina ko bhala kya keh ke mai samjhaunga
-  Khaali alam le jaunga qaime ke dar par jis ghari
-  In kasarata zahri ya aqi...
-  Qaime meiṅ hai mehwe dua sab behne teri chaah meiṅ
-  Bacche bhi hai muntazir aankheiṅ bichaye raah meiṅ
-  Kuze liye hai haath meiṅ teri bhatiji laadli
-  In kasarata zahri ya aqi...
-  Dil meiṅ koi dehshat na thi khatra koi sar par na tha
-  Bhaiya tere hote huwe dushman ka koi darr na tha
-  Ab wo bhi ruqsat hogayi bacchoṅ ko ek dhaaras jo thi
-  In kasarata zahri ya aqi...
-  Jab karbala ke dasht meiṅ shaam e gharibaṅ aayegi
-  Qaimon se uthega dhuaaṅ kaali ghata cha jayegi
-  Aakhir sada degi kise meri behen ki bekasi
-  In kasarata zahri ya aqi...
-  Beti wo jis ke naaz khud hyder uthaate aaye ho
-  Hamraah jis hamshir ko athara bhai laaye ho
-  Ab us behen ke sar se bhi us ki rida chin jayegi
-  In kasarata zahri ya aqi...
-  Kya alqama ke ghaat par matam kuna hai koi maa
-  Kya baal apne khol kar roti hai khatune jina
-  Ye kis ke nauhe ki sada lohe se takrane lagi
-  In kasarata zahri ya aqi...
-  Nayyar nahi likh payega aamir nahi pad payega
-  Abbas ka matam hai ye sine meiṅ dil phat jayega
-  Jo marsiya sheh ne parha wo marsiya soche koi
-  In kasarata zahri ya aqi...
+  In kasarata zahri ya akhi in kasarata zahri ya akhi
+  Monis nahiṅ hamdam nahiṅ naasir nahiṅ yaawar nahiṅ
+  Dushman ke lashkar chaar su mera koi lashkar nahiṅ
+  Abbas aankheṅ khol kar dekho to tanhaai meri
+  In kasarata zahri ya akhi...
+  Kis se kahuṅ duniya ne jo tujh par mazaalim dhaaye haiṅ
+  Aankhoṅ se dekhuṅ kis tarah jo zakhm tu ne khaaye haiṅ
+  Shaane kate sar shaq hua aankhoṅ mein aaye tir bhi
+  In kasarata zahri ya akhi...
+  Keh duṅ ga kya Kulsum se Zainab se kya batlaauṅ ga
+  Teri Sakina ko bhala kya keh ke main samjhaauṅ ga
+  Khaali alam le jaauṅ ga khaime ke dar par jis ghari
+  In kasarata zahri ya akhi...
+  Khaime mein hai mahv-e-dua sab behneṅ teri chaah mein
+  Bachche bhi haiṅ muntazir aankheṅ bichhaaye raah mein
+  Kuze liye haiṅ haath mein teri bhatiji laadli
+  In kasarata zahri ya akhi...
+  Dil mein koi dehshat na thi khatra koi sar par na tha
+  Bhaiya teri hote hue dushman ka koi dar na tha
+  Ab wo bhi rukhsat ho gai bachchoṅ ko ek dhaaras jo thi
+  In kasarata zahri ya akhi...
+  Jab Karbala ke dasht mein Shaam-e-Gharibaaṅ aaye gi
+  Khaimoṅ se uthe ga dhuaaṅ kaali ghata chhaa gai
+  Aakhir sada de gi kise meri behen ki bekasi
+  In kasarata zahri ya akhi...
+  Beti wo jis ke khud Haidar uthaate aaye ho
+  Hamraah jis hamshir ko athaarah bhai laaye ho
+  Ab us behen ke sar se bhi us ki rida chhin jaaye gi
+  In kasarata zahri ya akhi...
+  Kya Alqama ke ghaat par maatam kunaaṅ hai koi maaṅ
+  Kya baal apne khol kar roti hai Khaatun-e-Jinaaṅ
+  Ye kis ke nauhe ki sada lohe se takraane lagi
+  In kasarata zahri ya akhi...
+  Nayyar nahiṅ likh paaye ga Aamir nahiṅ parh paaye ga
+  Abbas ka maatam hai ye sine mein dil phat jaaye ga
+  Jo marsiya Sheh ne parha wo marsiya soche koi
+  In kasarata zahri ya akhi...
 ---
 
 ۱

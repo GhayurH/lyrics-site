@@ -1,7 +1,7 @@
 ---
 title: "بکھرے پڑے ہیں لاشے اولاد مرتضیٰ کے"
 recitationId: "bikhre-pade-hai"
-alternateTitle: "Bikhre Pare Hai"
+alternateTitle: "Bikhre Pare Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,8 +15,8 @@ romanLyrics: |-
   Zainab ujar gayi hai Karbobala meiṅ aa ke
 
   1
-  Dam torte haiṅ Akbar ae naamwar thehar ja
-  Ab kya milega tujh ko Sughra ka khat suna ke
+  Dam torte haiṅ Akbar ae naamwar thehar jaa
+  Ab kya milega tujh ko Sughra ka khat sunaa ke
 
   2
   Paamaal kar diya hai lashkar ne jism-e-Qaasim
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Haathoṅ se dil ko thaame daure haiṅ Shaah ran ko
-  Shaayad gire hai Akbar barchhi jigar pe kha ke
+  Shaayad gire hai Akbar barchhi jigar pe khaa ke
 
   5
   Bhule gi kaise maadar Asghar ka tir khaana

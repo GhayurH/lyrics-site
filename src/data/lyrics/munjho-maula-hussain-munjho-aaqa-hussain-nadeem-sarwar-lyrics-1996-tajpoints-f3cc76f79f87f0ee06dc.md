@@ -1,91 +1,173 @@
 ---
-title: "Munjho Maula Hussain Munjho Aaqa Hussain Nadeem Sarwar Lyrics 1996"
+title: "منهنجو مولا حسين منهنجو آقا حسين"
+alternateTitle: "Munjho Maula Hussain Munjho Aaqa Hussain"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Munjho Maula Hussain munjho aaqa Hussain Nadeem Sarwar
+  Aahey har momin jay dil jee sada
+
+  1
+  Munjho Maula Hussain munjho aaqa Hussain
+  Gulzar banraya e deen-e-Khudaya
+  Tu pyasa teri pyas bari
+  Hai deen ko tujh se aas bari
+
+  2
+  Tere naam se zindah deen-e-Khuda
+  Tere dam se hai Islam bacha
+  Tu ibn-e-baye Bismillah
+  Tu la se taba Illallah
+
+  3
+  Aye ibn-e-Ali aye abad-e-Khuda
+  Quran Khuda naizay pe parha
+  Tu Karb-o-Bala ka Haider hai
+  Tu deen-e-Khuda ka rehbar hai
+
+  4
+  Tu ibn-e-saqi-e-Kausar hai
+  Tu sabar ka hai behta darya
+  Sardar-e-jinna sardar-e-Iram
+  Yeh sara Arab yeh sara Ajam
+
+  5
+  Sab tere liye hain Rab ki qasam
+  Hai noor-e-Muhammad noor tera
+  Makhdoom meray, mere syed
+  Hoi khatam sitam ki tujh par had
+
+  6
+  Par sabar tera Allah ho Allah hus Samad
+  Allah ne de di apni riza
+  Kiya taig talay aisa sajdah
+  Konain ke dil par naqsh howa
+
+  7
+  Kabay ne tujhey samjha kaba
+  Aala hai tujhi se Karb-o-Bala
+  Shahbaz jo hain Sehwan walay
+  Nalain ki tere rakhwalay
+
+  8
+  Mehran mein deray hain dalay
+  Hai Lal Qalandar ki bhi sada
+  Hum sab hain matam daar tere
+  Zindah hain teri majlis ke liye
+
+  9
+  Aye Maula tere gham ke sadqay
+  Jo manga Khuda ne hum ko diya
+  Majlis mein teri Ghazi ka alam
+  Karta hai tere gham mein matam
+
+  10
+  Aawaz yeh aati hai har dam
+  Zindah hai dilon mein dard tera
+  Bazar mein nangay sar aayi
+  Humsheer teri Zahra jayi
+
+  11
+  Shikwa na zabaan par woh layi
+  Tha paish-e-nazar maqsad jo tera
+  Allah-o-Nabi Zahra-o-Ali
+  Hain sab hi tere qudsi-o-wali
+
+  12
+  Rehan-o-Nadeem Sarwar bhi
+  Aye Maula tere dar ke hain gada
+  Mera ishq bhi tu meri jan bhi tu
+  Mera deen bhi tu eman bhi tu
+
+  13
+  Meri aan bhi tu meri shan bhi tu
+  Mera peer bhi tu sultan bhi tu
+  Sab waliyaan ja agwan bhi tu
+  Aahey har momin jay dil jee sada munjho Maula Hussain
 ---
 
-Munjho Maula Hussain Munjho Aaqa Hussain Nadeem Sarwar.
-Aahey Har Momin Jay Dil Jee Sada.
+منهنجو مولا حسين منهنجو آقا حسين نديم سرور
+آهي هر مومن جي دل جي صدا
 
-1
-Munjho Maula Hussain Munjho Aaqa Hussain.
-Gulzar Banraya E Deen-e-Khudaya.
-Tu Pyasa Teri Pyas Bari.
-Hai Deen Ko Tujh Se Aas Bari.
+۱
+منهنجو مولا حسين منهنجو آقا حسين
+گلزار بڻایا اے دینِ خدایا
+تو پیاسا تیری پیاس بڑی
+ہے دین کو تجھ سے آس بڑی
 
-2
-Tere Naam Se Zindah Deen-e-Khuda.
-Tere Dam Se Hai Islam Bacha.
-Tu Ibn-e-Baye Bismillah.
-Tu La Se Taba Illallah.
+۲
+تیرے نام سے زندہ دینِ خدا
+تیرے دم سے ہے اسلام بچا
+تو ابنِ بائے بسم اللہ
+تو لا سے تا بہ الا اللہ
 
-3
-Aye Ibn-e-Ali Aye Abad-e-Khuda.
-Quran Khuda Naizay Pe Parha.
-Tu Karb-o-Bala Ka Haider Hai.
-Tu Deen-e-Khuda Ka Rehbar Hai.
+۳
+اے ابنِ علی اے آبادِ خدا
+قرآن خدا نیزے پہ پڑھا
+تو کرب و بلا کا حیدر ہے
+تو دینِ خدا کا رہبر ہے
 
-4
-Tu Ibn-e-Saqi-e-Kausar Hai.
-Tu Sabar Ka Hai Behta Darya.
-Sardar-e-Jinna Sardar-e-Iram.
-Yeh Sara Arab Yeh Sara Ajam.
+۴
+تو ابنِ ساقیِ کوثر ہے
+تو صبر کا ہے بہتا دریا
+سردارِ جناں سردارِ ارم
+یہ سارا عرب یہ سارا عجم
 
-5
-Sab Tere Liye Hain Rab Ki Qasam.
-Hai Noor-e-Muhammad Noor Tera.
-Makhdoom Meray, Mere Syed.
-Hoi Khatam Sitam Ki Tujh Par Had.
+۵
+سب تیرے لیے ہیں رب کی قسم
+ہے نورِ محمد نور تیرا
+مخدوم میرے، میرے سید
+ہوئی ختم ستم کی تجھ پر حد
 
-6
-Par Sabar Tera ALLAH Ho Allah Hus Samad.
-ALLAH Ne De Di Apni Riza.
-Kiya Taig Talay Aisa Sajdah.
-Konain Ke Dil Par Naqsh Howa.
+۶
+پر صبر تیرا اللہ ہو اللہ الصمد
+اللہ نے دے دی اپنی رضا
+کیا تیغ تلے ایسا سجدہ
+کونین کے دل پر نقش ہوا
 
-7
-Kabay Ne Tujhey Samjha Kaba.
-Aala Hai Tujhi Se Karb-o-Bala.
-Shahbaz Jo Hain Sehwan Walay.
-Nalain Ki Tere Rakhwalay.
+۷
+کعبے نے تجھے سمجھا کعبہ
+اعلیٰ ہے تجھی سے کرب و بلا
+شہباز جو ہیں سیہون والے
+نعلین کی تیرے رکھوالے
 
-8
-Mehran Mein Deray Hain Dalay.
-Hai Lal Qalandar Ki Bhi Sada.
-Hum Sab Hain Matam Daar Tere.
-Zindah Hain Teri Majlis Ke Liye.
+۸
+مہران میں ڈیرے ہیں ڈالے
+ہے لال قلندر کی بھی صدا
+ہم سب ہیں ماتم دار تیرے
+زندہ ہیں تیری مجلس کے لیے
 
-9
-Aye Maula Tere Gham Ke Sadqay.
-Jo Manga Khuda Ne Hum Ko Diya.
-Majlis Mein Teri Ghazi Ka Alam.
-Karta Hai Tere Gham Mein Matam.
+۹
+اے مولا تیرے غم کے صدقے
+جو مانگا خدا نے ہم کو دیا
+مجلس میں تیری غازی کا علم
+کرتا ہے تیرے غم میں ماتم
 
-10
-Aawaz Yeh Aati Hai Har Dam.
-Zindah Hai Dilon Mein Dard Tera.
-Bazar Mein Nangay Sar Aayi.
-Humsheer Teri Zahra Jayi.
+۱۰
+آواز یہ آتی ہے ہر دم
+زندہ ہے دلوں میں درد تیرا
+بازار میں ننگے سر آئی
+ہمشیر تیری زہرا جائی
 
-11
-Shikwa Na Zabaan Par Woh Layi.
-Tha Paish-e-Nazar Maqsad Jo Tera.
-ALLAH-o-Nabi Zahra-o-Ali.
-Hain Sab Hi Tere Qudsi-o-Wali.
+۱۱
+شکوہ نہ زباں پر وہ لائی
+تھا پیشِ نظر مقصد جو تیرا
+اللہ و نبی زہرا و علی
+ہیں سب ہی تیرے قدسی و ولی
 
-12
-:REHAN-o-NADEEM SARWAR: Bhi.
-Aye Maula Tere Dar Ke Hain Gada.
-Mera Ishq Bhi Tu Meri Jan Bhi Tu.
-Mera Deen Bhi Tu Eman Bhi Tu.
+۱۲
+ریحان و ندیم سرور بھی
+اے مولا تیرے در کے ہیں گدا
+میرا عشق بھی تو میری جاں بھی تو
+میرا دیں بھی تو ایماں بھی تو
 
-13
-Meri Aan Bhi Tu Meri Shan Bhi Tu.
-Mera Peer Bhi Tu Sultan Bhi Tu.
-Sab Waliyaan Ja Agwan Bhi Tu.
-Aahey Har Momin Jay Dil Jee Sada Munjho Maula Hussain.
+۱۳
+میری آن بھی تو میری شان بھی تو
+میرا پیر بھی تو سلطان بھی تو
+سب ولین جا اڳواڻ بھی تو
+آهي هر مومن جي دل جي صدا منهنجو مولا حسين

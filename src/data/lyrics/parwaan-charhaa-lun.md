@@ -17,19 +17,19 @@ romanLyrics: |-
 
   1
   Yuṅ ghar se mere laal ko le jaaiye na Hazrat
-  Saaya kare aanchal ka maiṅ behnoṅ ko bula luṅ
+  Saaya kare aanchal ka main behnoṅ ko bula luṅ
 
   2
   Ae laal tere byaah ka Zainab ko tha armaan
-  In khun bhare haathoṅ meiṅ maiṅ mehndi to laga luṅ
+  In khun bhare haathoṅ mein main mehndi to laga luṅ
 
   3
   Shaayad yuṅ hi tham jaaye lahu zakhm-e-jigar ka
-  Utho Ali Akbar maiṅ kaleje se laga luṅ
+  Utho Ali Akbar main kaleje se laga luṅ
 
   4
   Thahraao janaaza mujhe hasrat to na reh jaaye
-  Taabut pe phuloṅ ka maiṅ sehra to charhaa luṅ
+  Taabut pe phuloṅ ka main sehra to charhaa luṅ
 
   5
   Shaukat pe zara rehm kar ae maut thahar jaa

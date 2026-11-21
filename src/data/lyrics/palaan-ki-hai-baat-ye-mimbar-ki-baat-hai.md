@@ -15,40 +15,40 @@ romanLyrics: |-
   Maydan-e-Khum wilayat-e-Haidar ki baat hai
 
   1
-  Jibril laykay jao ye balligh ki ayateiṅ
-  Kehdo ke ab ye kaare Payambar ki baat hai
+  Jibrail le ke jaao ye balligh ki aayateṅ
+  Keh do ke ab ye kaar-e-Payambar ki baat hai
 
   2
-  Baade Nabi Ali haiṅ wali keh chuke Rasul
-  Bhule wo kis tarha ke yay ghar ghar ki baat hai
+  Baad-e-Nabi Ali haiṅ, wali keh chuke Rasul
+  Bhule wo kis tarah ke ye ghar ghar ki baat hai
 
   3
   Fath-e-Hunain o Khandaq o Khaybar ki baat hai
-  Ik fard hai lage hai ke lashkar ki baat hai
+  Ik fard hai, lage hai ke lashkar ki baat hai
 
   4
-  Gunjayga ab fiza may Ali-e-Wali ka naam
+  Gunjega ab fiza mein Ali-e-Wali ka naam
   Qalb-e-munafiqin pe khanjar ki baat hai
 
   5
-  Momin ke dil haiṅ shaad munafiq jale huwe
-  Saahab ye apne apne muqaddar ki baat hai
+  Momin ke dil haiṅ shaad, munafiq jale hue
+  Saahib ye apne apne muqaddar ki baat hai
 
   6
-  Kiuṅ kar na ata arsh se patthar pae sanad
-  Akhir ko yay wilayat-e-Haidar ki baat hai
+  Kiuṅ kar na aata arsh se patthar paye sanad
+  Aakhir ko ye wilayat-e-Haidar ki baat hai
 
   7
-  Bhage na aj koyi karo aisa intizam
-  Buzar ke kaan may yahi Qambar ki baat hai
+  Bhaage na aaj koi, karo aisa intizam
+  Buzar ke kaan mein yahi Qambar ki baat hai
 
   8
-  Qaayam hai ab bhi akhri Mawla Ghadir ka
-  Meri nahi ye Sura-e-Kawsar ki baat hai
+  Qaaim hai ab bhi aakhri Mawla Ghadir ka
+  Meri nahiṅ ye Sura-e-Kawsar ki baat hai
 
   9
-  Baade Ghadir bazm-e-saqifa meiṅ baithna
-  Aawaragi-e-fikar hai yay shar ki baat hai
+  Baad-e-Ghadir bazm-e-Saqifa mein baithna
+  Aawaaragi-e-fikr hai, ye shar ki baat hai
 ---
 
 پالان کی ہے بات یہ منبر کی بات ہے

@@ -53,30 +53,30 @@ romanLyrics: |-
   Badla hai Karbala meiṅ taqaaza-e-inqilaab
   Neze pe ab jo sar hai wohi sar buland hai
   Aiwaan-e-inbisaat meiṅ jannat na kar talab
-  Ye to gham-e-Husain ke aansu meiṅ band hai
+  Ye to gham-e-Husain ke aaṅsu meiṅ band hai
   Bas ya Husain bas ya Husain bas ya Husain bas ya Husain
   Tu jis ko mil gaya Rab us ko mil gaya
 
   5
   Daastaaṅ Husain ki samajh meiṅ aa gayi agar
   Samajh meiṅ aa gayi agar
-  To Hur ki rah guzaar par kare ga ishq ka safar
+  To Hur ki rahguzaar par kare ga ishq ka safar
   Kare ga ishq ka safar
   Tarap tarap uthe ga tu kahe ga raat raat bhar
   Husain bas Husain hai sinaaṅ pe ya zamin par
-  Shah-e-Karbala
-  Shah-e-Karbala se jis ke dil ka taar mil gaya
+  Shaah-e-Karbala
+  Shaah-e-Karbala se jis ke dil ka taar mil gaya
   Tu jis ko mil gaya Rab us ko mil gaya
 
   6
-  Ek dopehar meiṅ jis ne bhara ghar luta diya
+  Ak dopehar meiṅ jis ne bhara ghar luta diya
   Naazaaṅ Khuda hai jis pe wo sajda ada kiya
   Apne lahu se khaak ko khaak-e-shifa kiya
   Aashur ek roz ka sadiyoṅ pe chhaa gaya
   Karb o Bala ko arsh-e-mualla bana diya
   Bas ya Husain bas ya Husain bas ya Husain bas ya Husain
   Salaam ya Husain
-  Salaam ya Husain Rab ka aitbaar mil gaya
+  Salaam ya Husain Rab ka itibaar mil gaya
   Tu jis ko mil gaya Rab us ko mil gaya
 
   7
@@ -102,7 +102,7 @@ romanLyrics: |-
   Waqt-e-namaaz-e-asr hai taqdir marhaba
   Bas ya Husain bas ya Husain bas ya Husain bas ya Husain
 
-  Labbaik keh ke tegh rakhi Shah ne miyaan meiṅ
+  Labbaik keh ke tegh rakhi Shaah ne miyaan meiṅ
   Palti sipaah aayi qayaamat jahaan meiṅ
   Lo khanjaroṅ meiṅ teghoṅ meiṅ bhaalo meiṅ ghir gaye
   Tanha Husain barchhiyoṅ waaloṅ meiṅ ghir gaye
@@ -111,7 +111,7 @@ romanLyrics: |-
   9
   Rehan o Sarwar-e-haziṅ suno ye aisa raaz hai
   Husain keh rahe the bas Khuda pe mujh ko naaz hai
-  Na bhaai na pisar raha na koi chaara saaz hai
+  Na bhaai na pisar raha na koi chaarasaaz hai
   Azaan hai Husain hai Khuda-e-beniyaaz hai
   Na zin na zamin par ye aakhri namaaz hai
   Bas ya Husain bas ya Husain bas ya Husain bas ya Husain
@@ -122,7 +122,7 @@ romanLyrics: |-
   Jo bhi nauha kahiṅ sunaata hai
   Le ke naam-e-Husain rota hai
   Us ko Zehra salaam karti haiṅ
-  Husain ya Husain Husain ya Husain Husain ya Husain
+  Husain ya Husain, Husain ya Husain, Husain ya Husain
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 ---
 

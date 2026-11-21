@@ -12,45 +12,45 @@ published: false
 romanLyrics: |-
   1
   Chadar na kafan hai dur watan
-  Be parda behan haathoṅ meiṅ rasan
-  Abbas ki behan ko shaami rula rahe hai
-  Chadar dhika dhika ke
-  Rasta bana rahi hai binte ali ka fizza
+  Ba parda behan haathoṅ meiṅ rasan
+  Abbas ki behan ko Shaami rula rahe haiṅ
+  Chadar dikha dikha ke
+  Rasta bana rahi hai Bint-e-Ali ka Fizza
   Kaante hata hata ke
   Pardes meiṅ kisi par aisa na waqt aaye
-  Na mehramoṅ meiṅ koi yuṅ berida na jaye
-  Karte hai ye duayeiṅ ahle haram ke bache
+  Na mahramoṅ meiṅ koi yuṅ berida na jaaye
+  Karte haiṅ ye duaaeiṅ Ahl-e-Haram ke bachche
   Jholi utha utha ke
   Abbas ki behan ko...
   Bhai behan ki aankheiṅ nam hoti jaa rahi hai
-  Binte ali ki saanseiṅ kam hoti jaa rahi hai
-  Khanjar chala raha hai zainab ke dil pe zaalim
-  Khanjar dhika dhika ke
+  Bint-e-Ali ki saanseiṅ kam hoti jaa rahi hai
+  Khanjar chala raha hai Zainab ke dil pe zaalim
+  Khanjar dikha dikha ke
   Abbas ki behan ko...
-  Ek bachi keh rahi hai aao madad ko baba
-  Dadi ki tarha mai bhi ab ho gayi zaeefa
-  Zakhmi kiya hai pehlu naaqe se zalimoṅ ne
+  Ik bachchi keh rahi hai aao madad ko Baba
+  Daadi ki tarah main bhi ab gayi zaeefa
+  Zakhmi kiya hai pehlu naaqe se zaalimoṅ ne
   Mujhko gira gira ke
   Abbas ki behan ko...
-  Parde meiṅ bhi jo bibi chalti na thi zyada
+  Parde meiṅ bhi jo Bibi chalti na thi zyaada
   Pardes meiṅ ab un par aaya hai waqt kaisa
-  Laaye hai shaam waale un shaahzadiyoṅ ko
+  Laaye haiṅ Shaam waale un shaahzaadiyoṅ ko
   Paidal chala chala ke
   Abbas ki behan ko...
-  Wo shaamiyoṅ ke taane wo muskurate chehre
-  beparda saath apne binte ali ko le ke
+  Wo Shaamiyoṅ ke taane wo muskuraate chehre
+  Beparda saath apne Bint-e-Ali ko le ke
   Sajjad kaise bhule us bhir se guzarna
   Nazreiṅ jhuka jhuka ke
   Abbas ki behan ko...
-  Jaate hai jis taraf bhi ahle haram khule sar
-  Khaati hai pehle durra khaati hai pehle pathar
-  Apne lahu meiṅ tar hai zehra ki betiyoṅ ko
+  Jaate haiṅ jis taraf bhi Ahl-e-Haram khule sar
+  Khaati hai pehle durra khaati hai pehle patthar
+  Apne lahu meiṅ tar hai Zehra ki betiyoṅ ko
   Fizza bacha bacha ke
   Abbas ki behan ko...
-  Zakhmo ki wo takallum tadaad jaante hai
-  Mehdi ko bhi khabar hai sajjad jaante hai
-  Maare hai kis ne kitne hyder ki laadli ko
-  Pathar utha utha ke
+  Zakhmoṅ ki wo Takallum taadaad jaante haiṅ
+  Mehdi ko bhi khabar hai Sajjad jaante haiṅ
+  Maare haiṅ kis ne kitne Haidar ki laadli ko
+  Patthar utha utha ke
   Abbas ki behan ko...
 ---
 

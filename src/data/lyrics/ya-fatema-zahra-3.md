@@ -12,51 +12,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ya zahra ya zahra
-  Aelaan suno ae dunya waaloṅ
-  Ayyame aza e zahra hai
+  Ya Zahra ya Zahra
+  Ailaan suno ae dunya waaloṅ
+  Ayyaam-e-aza-e-Zahra hai
   Aur pyare nabi ki beti ka
   Har ghar meiṅ matam barpa hai
   Jo kehti thi ye ro ro kar
-  Daffini fil layl ya ali
-  Aao mil kar ek kaam karo zahra ka matam aam karo
-  Ban jao matamdar raazi honge sarkar
-  Haq banta is bibi ka ho shaam o sahar bas ek sada
-  Ya fatema zahra ya zahra
-  Fatema baz'ato minni hai ye farman e nabi
-  Ummat ne jaan kar bhi aap ko rulaya bibi
-  Jab dar giraya bibi maare gaye mohsin bhi
-  Na bhoolenge hum bibi zakhmi pehlu aap ka
-  Ya fatema zahra ya zahra...
-  Aap darbar se jab laut ke aayi shehzadi
-  Athara saaloṅ meiṅ lagti thi ek zaifa jaisi
+  Daffini fil layl ya Ali
+  Aao mil kar ek kaam karo Zahra ka matam aam karo
+  Ban jaao matam daar raazi honge sarkaar
+  Haq banta is Bibi ka ho shaam o sahar bas ek sada
+  Ya Fatema Zahra ya Zahra
+  Fatema baz'ato minni hai ye farmaan-e-nabi
+  Ummat ne jaan kar bhi aap ko rulaaya Bibi
+  Jab dar giraya Bibi maare gaye Mohsin bhi
+  Na bhuleṅge hum Bibi zakhmi pehlu aap ka
+  Ya Fatema Zahra ya Zahra...
+  Aap darbaar se jab laut ke aayi shehzaadi
+  Atthaara saaloṅ meiṅ lagti thi ek zaif jaisi
   Baaloṅ meiṅ thi safedi aur kamar bhi kham thi
-  Ye haal tha ke zainab ne bhi na pehchana
-  Ya fatema zahra ya zahra...
+  Ye haal tha ke Zainab ne bhi na pehchaana
+  Ya Fatema Zahra ya Zahra...
   Ghurbat meiṅ saath apne waali ka nibhaati rahi
-  Zakhmi haalat meiṅ bhi wilayat ko bachati rahi
-  Dar khat khatati rahi sab ko bataati rahi
-  Jab tak zinda rahi ali ko na tanha chora
-  Ya fatema zahra ya zahra...
-  Chup chup ke aap ne hasnain se aansu bahaye
-  Apne baba ke madine meiṅ itne zakhm khaaye
-  Ghusl dene ke liye haye ali jab aaye
-  Tuti phasliyaṅ dekhi chikh ke roye maula
-  Ya fatema zahra ya zahra...
-  De chuke aap ko jab saath ridaoṅ ka kafan
-  Rakh kar janaza wahin baith gaye khyber shikan
-  Bole hat akar kafan aao Husain o Hasan
-  Bacche jab maa se lipte ghar meiṅ ye kohram tha
-  Ya fatema zahra ya zahra...
-  Aaye hai dekh ke zishan aur irfan e aza
+  Zakhmi haalat meiṅ bhi wilaayat ko bachaati rahi
+  Dar khatkhataati rahi sab ko bataati rahi
+  Jab tak zinda rahi Ali ko na tanha chhora
+  Ya Fatema Zahra ya Zahra...
+  Chup chup ke aap ne Hasnain se aansuṅ bahaaye
+  Apne baaba ke Madine meiṅ itne zakhm khaaye
+  Ghusl dene ke liye haaye Ali jab aaye
+  Tuti pasliyaaṅ dekhi chikh ke roye Maula
+  Ya Fatema Zahra ya Zahra...
+  De chuke aap ko jab saath ridaaoṅ ka kafan
+  Rakh ke janaaza wahi baith gaye Khaibar shikan
+  Bole hata kar kafan aao Husain o Hasan
+  Bachche jab maaṅ se lipte ghar meiṅ ye kohraam tha
+  Ya Fatema Zahra ya Zahra...
+  Aaye haiṅ dekh ke Zishan aur Irfan-e-aza
   Kitni udaasi hai turbat pe na saaya na diya
-  Tamir ho baqayya khatm ho ab andhera
-  Roshan ho aap ka rauza bhi misle karbala
-  Ya fatema zahra ya zahra...
-  Na bhoolenge na bhoolenge darbar kabhi na bhoolenge
-  Ae bibi aap ka hum zakhmi rukhsar kabhi na bhoolenge
-  Hum kehte rahenge ro ro kar ae bibi aap ke haathoṅ par
-  Talwaar ke daste se jo hua wo waar kabhi na bhoolenge
+  Taamir ho baqiyya khatm ho ab andhera
+  Roshan ho aap ka rauza bhi misl-e-Karbala
+  Ya Fatema Zahra ya Zahra...
+  Na bhuleṅge na bhuleṅge darbaar kabhi na bhuleṅge
+  Ae Bibi aap ka hum zakhmi rukhsaar kabhi na bhuleṅge
+  Hum kehte raheṅge ro ro kar ae Bibi aap ke haathoṅ par
+  Talwaar ke dast se jo hua wo waar kabhi na bhuleṅge
 ---
 
 ۱

@@ -1,40 +1,73 @@
 ---
-title: "Baqir Nay Kamsini Main Jahilay"
+title: "باقر نے کمسنی میں جھیلے"
+alternateTitle: "Baqir Nay Kamsini Main Jahilay"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Haye haye Baqir haye haye Sham
+  Haye haye Sham haye haye Sham
+  Baqir nay kamsini main Jhalay sitam tamam
+  Ye hai Gahwa e Karbal, ye hai aseer e Sham
+
+  1
+  Baba na sir uthao ghutta hai dam mera
+  Sajjad se ye kehtey Baqir har aik ghaaam
+
+  2
+  Dekhi phuppi Masooma zakhmon se chur chur
+  Chup kar kay sehgaye gham, kamsin mere imam
+
+  3
+  Moula ki Shamion se rahi pochti nazar
+  Bachon se kis kahta hai, leytey ho inteqam
+
+  4
+  Kartey thay girya matam ye hujjat e Khuda
+  Durron ka jab mila tha, beemaar ko inaam
+
+  5
+  Ay pursadaray Karbal ay pursadaray Sham
+  Ahlay aza ka Moula, ho aap par salam
+
+  6
+  Yarab saray Baqaiya pursa naseeb ho
+  Jawad keh rahay hain, Baqir k yun gulaam
+
+  Haye haye Baqir haye haye Sham
 ---
 
-Haye Haye Baqir Haye Haye Sham
+ہائے ہائے باقر ہائے ہائے شام
+ہائے ہائے شام ہائے ہائے شام
+باقر نے کمسنی میں جھیلے ستم تمام
+یہ ہے گواہِ کربل، یہ ہے اسیرِ شام
 
-Haye Haye Sham Haye Haye Sham
+۱
+بابا نہ سر اٹھاؤ گھٹتا ہے دم میرا
+سجاد سے یہ کہتے باقر ہر ایک گام
 
-Baqir Nay Kamsini Main Jhalay Sitam Tamam
+۲
+دیکھی پھپھی معصومہ زخموں سے چور چور
+چپ کر کے سہ گئے غم، کمسن میرے امام
 
-Ye hai Gahwa e Karbal , Ye Hai Aseer e Sham
+۳
+مولا کی شامیوں سے رہی پوچھتی نظر
+بچوں سے کس کہتا ہے، لیتے ہو انتقام
 
-Baba Na Sir Uthao Ghutta Hai Dam Mera
-Sajjad Se Ye Kehtey  Baqir Har Aik Ghaaam
+۴
+کرتے تھے گریہ ماتم یہ حجتِ خدا
+دُرّوں کا جب ملا تھا، بیمار کو انعام
 
-Dekhi Phuppi Masooma Zakhmon Se Chur Chur
-Chup Kar Kay Sehgaye Gham , Kamsin Mere Imam
+۵
+اے پرسہ دارِ کربل اے پرسہ دارِ شام
+اہلِ عزا کا مولا، ہو آپ پر سلام
 
-Moula Ki Shamion Se Rahi Pochti Nazar
-Bachon Se Kis Kahta Hai , Leytey Ho Inteqam
+۶
+یا رب سرِ بقیع پرسہ نصیب ہو
+جواد کہہ رہے ہیں، باقر کے یوں غلام
 
-Kartey Thay Girya Matam Ye Hujjat e Khuda
-Durron Ka Jab Mila Tha , Beemaar Ko Inaam
-
-Ay Pursadaray Karbal Ay Pursadaray Sham
-Ahlay Aza Ka Moula , Ho Aap Par Salam
-
-Yarab Saray Baqaiya Pursa Naseeb Ho
-Jawad Keh Rahay Hain , Baqir K Yun Gulaam
-
-Haye Haye Baqir Haye Haye Sham
-
-Shared via Nohay Writeups for iOS
+ہائے ہائے باقر ہائے ہائے شام

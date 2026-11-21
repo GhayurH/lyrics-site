@@ -19,7 +19,7 @@ romanLyrics: |-
   Ye to bidat nahiṅ ulfat hai zamaane waaloṅ
 
   1
-  Hashr tak mit nahiṅ sakta Shah-e-mazlum ka gham
+  Hashr tak mit nahiṅ sakta Shah-e-Mazlum ka gham
   Is ko tauhid se nisbat hai zamaane waaloṅ
 
   2

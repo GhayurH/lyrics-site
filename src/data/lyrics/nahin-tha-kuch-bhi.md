@@ -22,7 +22,7 @@ romanLyrics: |-
   Tawaaf karte ho farishte
   Wo jis ke daada ke zer-e-saaya
   Rasul-e-Haq aur imaam palte
-  Koi to dikhlaao is jahaaṅ meiṅ
+  Koi to dikhlaao is jahaaṅ mein
   Ke jis ka aisa hasab nasab hai
   Husain kaise kahaaṅ o kab hai
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Husain ki ibtida hui hai
   Shuur o fikr o nazar ke daaghoṅ
   Se jis ki basti bari hui hai
-  Husain tum ko samajh meiṅ aae
+  Husain tum ko samajh mein aae
   Qasam Khuda ki bahut ajab hai
   Husain kaise kahaaṅ o kab hai
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   Wo jo ke baad az Khuda hai sab se
   Azim izzat ye bhi bari hai
   Husain ki maaṅ ko dekh kar wo
-  Rasul taazim meiṅ khare hai
+  Rasul taazim mein khare hai
   Rasul-e-Aazam pe jis ki maadar
   Ka dekho waajib hua adab hai
   Husain kaise kahaaṅ o kab hai
@@ -57,7 +57,7 @@ romanLyrics: |-
   Sinaaṅ ko dosh-e-Nabi samajh ke
   Namaaz-e-wahdat ada kare jo
   Yazidiyat ke bhanwar ke aage
-  Chataan ban ke utha kare jo
+  Chattaan ban ke utha kare jo
   Hayaat-e-din-e-Khuda ka sun lo
   Husain ibn-e-Ali sabab hai
   Husain kaise kahaaṅ o kab hai

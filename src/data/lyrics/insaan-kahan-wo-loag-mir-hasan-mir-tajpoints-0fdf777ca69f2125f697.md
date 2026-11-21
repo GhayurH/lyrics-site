@@ -1,29 +1,44 @@
 ---
-title: "Insaan Kahan Wo Loag Mir Hasan Mir"
+title: "انسان کہاں وہ لوگ میر حسن میر"
+alternateTitle: "Insaan Kahan Wo Loag Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Farazdaq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Insan kahan woh loag humein shetan dikhai detey hain
+  Jo Aal-e-Nabi ki azmat se anjan dikhai detey hain
+  Ho koi payamber koi nabi Kaba ho keh Deen-e-Ahmad ho
+  Aye Maula Ali har ik pe tere ahsan dikhai detey hain
+  Janat ko jo doray jate hain be izn-o-jawaz-e-Wilaye Ali
+  Hotey hoye pul par unn sab ke chalan dikhai detey hain
+
+  2
+  Main chashm-e-tasawar mein jab bhi palaan ka mimber dekhta hoon
+  Palaan talay mujh ko lakhon arman dikhai detey hain
+  Maidan-e-Mubahila ho ya Kisa khalwat ho ya jalwat panchon tan
+  Hoon jama jahan har sorat mein Quran dikhai detey hain
+  Jab madah ki mehfil sajti hai tab Mir Hasan, Sibt-e-Jafar
+  Jibreel, Farazdaq, Debal our Hasaan dikhai detey hain
 ---
 
-Insaan Kahan Wo Loag Mir Hasan Mir.
+۱
+انسان کہاں وہ لوگ ہمیں شیطان دکھائی دیتے ہیں
+جو آلِ نبی کی عظمت سے انجان دکھائی دیتے ہیں
+ہو کوئی پیمبر کوئی نبی کعبہ ہو کہ دینِ احمد ہو
+اے مولا علی ہر اک پہ تیرے احسان دکھائی دیتے ہیں
+جنت کو جو دوڑے جاتے ہیں بے اذن و جوازِ ولائے علی
+ہوتے ہوئے پل پر ان سب کے چلن دکھائی دیتے ہیں
 
-1
-Insan Kahan Woh Loag Humein Shetan Dikhai Detey Hain.
-Jo Aal-e-Nabi Ki Azmat Se Anjan Dikhai Detey Hain.
-Ho Koi Payamber Koi Nabi Kaba Ho Keh Deen-e-Ahmad Ho.
-Aye Maula Ali Har Ik Pe Tere Ahsan Dikhai Detey Hain.
-Janat Ko Jo Doray Jate Hain Be Izn-o-Jawaz-e-Wilaye Ali.
-Hotey Hoye Pul Par Unn Sab Ke Chalan Dikhai Detey Hain.
-
-2
-Main Chashm-e-Tasawar Mein Jab Bhi Palaan Ka Mimber Dekhta Hoon.
-Palaan Talay Mujh Ko Lakhon Arman Dikhai Detey Hain.
-Maidan-e-Mubahila Ho Ya Kisa Khalwat Ho Ya Jalwat Panchon Tan.
-Hoon Jama Jahan Har Sorat Mein Quran Dikhai Detey Hain.
-Jab Madah Ki Mehfil Sajti Hai Tab:MIR HASAN:,:SIBT-E-JAFAR:.
-Jibreel, Farazdaq, Debal Our Hasaan Dikhai Detey Hain.
+۲
+میں چشمِ تصور میں جب بھی پالان کا منبر دیکھتا ہوں
+پالان تلے مجھ کو لاکھوں ارمان دکھائی دیتے ہیں
+میدانِ مباہلہ ہو یا کسا خلوت ہو یا جلوت پانچوں تن
+ہوں جمع جہاں ہر صورت میں قرآن دکھائی دیتے ہیں
+جب مدح کی محفل سجتی ہے تب میر حسن، سبطِ جعفر
+جبریل، فرزدق، دعبل اور حسان دکھائی دیتے ہیں

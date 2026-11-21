@@ -8,56 +8,55 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Nanhay Asghar aa jao
-  Aey meray dilbar aa jao
+  Nanhe Asghar aa jao Ae mere dilbar aa jao
 
   1
-  Dair se madar dhoond rahi hay
-  Raah tumhari dekh rahi hay
-  Dhoodh pila kar lori sunayoon
+  Der se maadar dhund rahi hai
+  Raah tumhaari dekh rahi hai
+  Dudh pila kar lori sunaa'uṅ
   Ran se palat kar aa jao
 
   2
-  Baad teray ab koi nahi hay
-  Maa ka sahara koi nahi hay
-  .
-  .
+  Baad tere ab koi nahiṅ hai
+  Maaṅ ka sahaara koi nahiṅ hai
+  Ran se palat kar paani pi kar
+  Faateh ban kar aa jao
 
   3
-  Qasim e nausha paas nahi hay
-  Jeenay ki koi aas nahi hay
-  Seenay pe barchi kha ke tarap kar
+  Qaasim-e-Naushaah paas nahiṅ hai
+  Jine ki koi aas nahiṅ hai
+  Sine pe barchhi khaa ke tarap kar
   Mar gaye Akbar aa jao
 
   4
-  Bali Sakina dar pe kharri hay
-  Raah chahcha ki dekh rahi hay
-  Mashk chidda kar mar gaye ammo
+  Baali Sakina dar pe khari hai
+  Raah chacha ki dekh rahi hai
+  Mashk chhida kar mar gaye ammu
   Bekas o muztar aa jao
 
   5
-  Ran may akailay Shah kharray hain
-  Charon taraf sab dushman e deen hain
-  Teeron se chalni ho gaya haey haey
-  Jism e mutahhar aa jao
+  Ran meiṅ akele Shaah khare haiṅ
+  Chaaroṅ taraf sab dushman-e-diṅ haiṅ
+  Tiroṅ se chhalni ho gaya haaye haaye
+  Jism-e-mutahhar aa jao
 
   6
-  Asar ka ye hangam hay baita
-  Hashr se pehlay hashr ye ho ga
-  Khanjar utha kar seenay e sheh par
+  Asar ka ye hangaam hai beta
+  Hashr se pehle hashr ye ho ga
+  Khanjar utha kar sina-e-Sheh par
   Ho ga sitamgar aa jao
 
   7
-  Haey ghazab kia zulm hua hay
-  Seena e sheh par Shimr charrha hay
-  Sajda e aakhir may ab ho ga
+  Haaye ghazab kya zulm hua hai
+  Sina-e-Sheh par Shimr charha hai
+  Sajda-e-aakhir meiṅ ab ho ga
   Tan se juda sar aa jao
 
   8
-  Sooya Raza tha jaan e hazeen se
-  Aayi sada Karbal ki zameen se
-  Sani e Hamid zaakir e Sarwar
-  Bekas o baypar aa jao
+  Soya Raza tha jaan-e-haziṅ se
+  Aayi sadaa Karbal ki zamiṅ se
+  Saani-e-Haamid zaakir-e-Sarwar
+  Bekas o muztar aa jao
 ---
 
 ننھے اصغرؑ آ جاؤ اے میرے دلبر آ جاؤ

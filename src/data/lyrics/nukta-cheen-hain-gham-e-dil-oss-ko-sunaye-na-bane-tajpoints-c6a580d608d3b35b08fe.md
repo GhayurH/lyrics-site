@@ -1,38 +1,65 @@
 ---
-title: "Nukta Cheen Hain Gham-e-Dil Oss Ko Sunaye Na Bane"
+title: "نکتہ چیں ہیں غمِ دل اس کو سنائے نہ بنے"
+alternateTitle: "Nukta Cheen Hain Gham-e-Dil Oss Ko Sunaye Na Bane"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Ghalib"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Nukta cheen hain gham-e-dil oss ko sunaye na bane
+  Kiya bane baat jahan baat banaye na bane
+
+  1
+  Main bulata tu hoon oss ko magar aye jazba-e-dil!
+  Oss pe ban jaye kuch aysi keh bin aye na bane
+  Kahail samja hai kahin choor na de bhool na jaye
+  Kash! Youn bhi ho keh bin merer sitaye na bane
+
+  2
+  Ghair phirta hai liye youn tere khat ko keh agar
+  Koi poche keh yeh kiya hai? Tu chupaye na bane
+  Iss nazakat ka bura ho wo bhale hain tu kiya!
+  Hath awein tu unhein haath lagaye na bane
+
+  3
+  Keh sake koan keh yeh jalwa giri kis ki hai?
+  Pardah chora hai wo oss ne keh uthaye na bane
+  Maout ki rah na dekhon? Keh bin aye na rahe
+  Tum ko chahoon? Keh na ayo tu bulaye na bane
+
+  4
+  Boaj wo sir se gira hai keh uthaye na uthe
+  Kaam woh aan para hai keh banaye na bane
+  Ishq per zoor nahi hai yeh wo aatish Ghalib
+  Keh lagaye na lage our buhjaye na bane
 ---
 
-Nukta Cheen Hain Gham-e-Dil Oss Ko Sunaye Na Bane.
-Kiya Bane Baat Jahan Baat Banaye Na Bane.
+نکتہ چیں ہیں غمِ دل اس کو سنائے نہ بنے
+کیا بنے بات جہاں بات بنائے نہ بنے
 
-1
-Main Bulata Tu Hoon Oss Ko Magar Aye Jazba-e- Dil!.
-Oss Pe Ban Jaye Kuch Aysi Keh Bin Aye Na Bane.
-Kahail Samja Hai Kahin Choor Na De Bhool Na Jaye.
-Kash! Youn Bhi Ho Keh Bin Merer Sitaye Na Bane.
+۱
+میں بلاتا تو ہوں اس کو مگر اے جذبۂ دل!
+اس پہ بن جائے کچھ ایسی کہ بن آئے نہ بنے
+کھیل سمجھا ہے کہیں چھوڑ نہ دے بھول نہ جائے
+کاش! یوں بھی ہو کہ بن مرے ستائے نہ بنے
 
-2
-Ghair Phirta Hai Liye Youn Tere Khat Ko Keh Agar.
-Koi Poche Keh Yeh Kiya Hai? Tu Chupaye Na Bane.
-Iss Nazakat Ka Bura Ho Wo Bhale Hain Tu Kiya!.
-Hath Awein Tu Unhein Haath Lagaye Na Bane.
+۲
+غیر پھرتا ہے لیے یوں تیرے خط کو کہ اگر
+کوئی پوچھے کہ یہ کیا ہے؟ تو چھپائے نہ بنے
+اس نزاکت کا برا ہو وہ بھلے ہیں تو کیا!
+ہاتھ آویں تو انھیں ہاتھ لگائے نہ بنے
 
-3
-Keh Sake Koan Keh Yeh Jalwa Giri Kis Ki Hai?
-Pardah Chora Hai Wo Oss Ne Keh Uthaye Na Bane.
-Maout Ki Rah Na Dekhon? Keh Bin Aye Na Rahe.
-Tum Ko Chahoon? Keh Na Ayo Tu Bulaye Na Bane.
+۳
+کہہ سکے کون کہ یہ جلوہ گری کس کی ہے؟
+پردہ چھوڑا ہے وہ اس نے کہ اٹھائے نہ بنے
+موت کی راہ نہ دیکھوں؟ کہ بن آئے نہ رہے
+تم کو چاہوں؟ کہ نہ آؤ تو بلائے نہ بنے
 
-4
-Boaj Wo sir Se Gira Hai KehUthaye Na Uthe.
-Kaam Woh Aan Para Hai Keh Banaye Na Bane.
-Ishq Per Zoor Nahi Hai Yeh Wo Aatish Ghalib.
-Keh Lagaye Na Lage Our Buhjaye Na Bane.
+۴
+بوجھ وہ سر سے گرا ہے کہ اٹھائے نہ اٹھے
+کام وہ آن پڑا ہے کہ بنائے نہ بنے
+عشق پر زور نہیں ہے یہ وہ آتش غالب
+کہ لگائے نہ لگے اور بجھائے نہ بنے

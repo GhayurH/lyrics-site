@@ -17,9 +17,9 @@ romanLyrics: |-
   Shah kahte the Bibi hameṅ ro kar na rulaao
   Phir pyaar kareṅ ham tumheṅ muṅh aage ko laao
   Wo kahti thi hamraah mujhe le ke to jaao
-  Maiṅ kya karuṅ maidaan meiṅ gar jaa ke na aao
+  Main kya karuṅ maidaan meiṅ gar jaa ke na aao
   Nind aayegi jab aap ki bu paauṅgi Baba
-  Maiṅ raat ko maqtal meiṅ chali aauṅgi Baba
+  Main raat ko maqtal meiṅ chali aauṅgi Baba
 
   1
   Farmaaya nikalti nahiṅ sayyidaaniyaaṅ baahar
@@ -29,27 +29,27 @@ romanLyrics: |-
   2
   Nanhe se kaleje pe mere chalti hai talwaar
   Khulta nahiṅ kiuṅ aap ne baandhe haiṅ ye hathyaar
-  Maiṅ aap ko kho kar na kabhi paauṅgi Baba
+  Main aap ko kho kar na kabhi paauṅgi Baba
 
   3
   Aati hai bala sar pe to pahle mujhe waaro
   Mar jaauṅgi Baba na sidhaaro na sidhaaro
-  Jaaoge jahaaṅ maiṅ bhi wahiṅ jaauṅgi Baba
+  Jaaoge jahaaṅ main bhi wahiṅ jaauṅgi Baba
 
   4
   Shab hogi to phir khaak pe soyeṅge kahaaṅ aap
   Sine pe to Asghar ko sulaayeṅge wahaaṅ aap
-  Achchha maiṅ wahiṅ khaak pe so jaauṅgi Baba
+  Achchha main wahiṅ khaak pe so jaauṅgi Baba
 
   5
   Aane do agar pyaas se ghash aayega Baba
   Tum jite raho paani bhi mil jaayega Baba
-  Maiṅ aap ko dekhuṅgi to ji jaauṅgi Baba
+  Main aap ko dekhuṅgi to ji jaauṅgi Baba
 
   6
   Kuchh dur na the ham ke tumheṅ nind na aaye
   Kya hovega jab hogi mahinoṅ ki judaai
-  Bibi na kaho maiṅ nahiṅ so paauṅgi Baba
+  Bibi na kaho main nahiṅ so paauṅgi Baba
 
   7
   Wo haal Anis ab nahiṅ ho sakta hai marqum

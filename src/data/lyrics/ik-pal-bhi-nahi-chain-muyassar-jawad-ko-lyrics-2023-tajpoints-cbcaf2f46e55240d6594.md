@@ -1,38 +1,66 @@
 ---
-title: "Ik Pal Bhi Nahi Chain Muyassar Jawad Ko Lyrics 2023"
+title: "اک پل بھی نہیں چین میسر جواد کو"
+alternateTitle: "Ik Pal Bhi Nahi Chain Muyassar Jawad Ko"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Taseer"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Ik pal bhi nahi chain muyassar Jawad ko
+  Aati hai sada Toos se aksar Jawad ko
+
+  1
+  Mara gaya hai zehar se Kazim ke lal ko
+  Ro kar batatay hain Ali Akbar, Jawad ko
+  Aati hai sada, ghusal-o-kafan do ghareeb ko
+  Paigham hawaon yeh do ja kar Jawad ko
+
+  2
+  Martay hoye Raza ne yeh ro ro ke kiye bain
+  Marein gay jawani mein sitamgar Jawad ko
+  Sun kar zehar ka, mar hi na jaye mera pisar
+  Dein ja ke sahara zara Shabbar, Jawad ko
+
+  3
+  Jaisay kissi badan mein ho dakhil dobarah rooh
+  Khush aisay Raza ho gaye pa kar Jawad ko
+  Dekha padar ka haal tu bolay Taqi Imam
+  Dadi sahara dijiye aa kar Jawad ko
+
+  4
+  Mehdi se koi bant le Maula Raza ka gham
+  Ghaibat mein ro rahe hain woh yaksar Jawad ko
+  Taseer youn yateem howa tha Bin-e-Raza
+  Rotay they sar ko peet ke Sarwar, Jawad ko
 ---
 
-Ik Pal Bhi Nahi Chain Muyassar Jawad Ko.
-Aati Hai Sada Toos Se Aksar Jawad Ko.
+اک پل بھی نہیں چین میسر جواد کو
+آتی ہے صدا طوس سے اکثر جواد کو
 
-1
-Mara Gaya Hai Zehar Se Kazim Ke Lal Ko.
-Ro Kar Batatay Hain Ali Akbar, Jawad Ko.
-Aati Hai Sada, Ghusal-o-Kafan Do Ghareeb Ko.
-Paigham Hawaon Yeh Do Ja Kar Jawad Ko.
+۱
+مارا گیا ہے زہر سے کاظم کے لال کو
+رو کر بتاتے ہیں علی اکبر، جواد کو
+آتی ہے صدا، غسل و کفن دو غریب کو
+پیغام ہواؤں یہ دو جا کر جواد کو
 
-2
-Martay Hoye Raza Ne Yeh Ro Ro Ke Kiye Bain.
-Marein Gay Jawani Mein Sitamgar Jawad Ko.
-Sun Kar Zehar Ka, Mar Hi Na Jaye Mera Pisar.
-Dein Ja Ke Sahara Zara Shabbar, Jawad Ko.
+۲
+مرتے ہوئے رضا نے یہ رو رو کے کیے بین
+ماریں گے جوانی میں ستمگر جواد کو
+سن کر زہر کا، مر ہی نہ جائے میرا پسر
+دیں جا کے سہارا ذرا شبر، جواد کو
 
-3
-Jaisay Kissi Badan Mein Ho Dakhil Dobarah Rooh.
-Khush Aisay Raza Ho Gaye Pa Kar Jawad Ko.
-Dekha Padar Ka Haal Tu Bolay Taqi Imam.
-Dadi Sahara Dijiye Aa Kar Jawad Ko.
+۳
+جیسے کسی بدن میں ہو داخل دوبارہ روح
+خوش ایسے رضا ہو گئے پا کر جواد کو
+دیکھا پدر کا حال تو بولے تقی امام
+دادی سہارا دیجیے آ کر جواد کو
 
-4
-Mehdi Se Koi Bant Le Maula Raza Ka Gham.
-Ghaibat Mein Ro Rahe Hain Woh Yaksar Jawad Ko.
- Taseer Youn Yateem Howa Tha Bin-e-Raza.
-Rotay They Sar Ko Peet Ke Sarwar, Jawad Ko.
+۴
+مہدی سے کوئی بانٹ لے مولا رضا کا غم
+غیبت میں رو رہے ہیں وہ یکسر جواد کو
+تاثیر یوں یتیم ہوا تھا ابنِ رضا
+روتے تھے سر کو پیٹ کے سرور، جواد کو

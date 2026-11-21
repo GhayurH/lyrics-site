@@ -1,29 +1,59 @@
 ---
-title: "Nai Soun Ditta Pal Zainab"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "نئیں سون دِتّا پل زینب"
+alternateTitle: "Nai Soun Ditta Pal Zainab"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Nai soun ditta pal Zainab nu Ibne Nofal tarpaanda raya
+
+  Ohdi neend di haar ik jhonkay tay ohnu naiziyaan naal jagaanda reya
+
+  1
+  Akh meetay na vich safraan day ay thaki hoyi Shaam-e-Gharibaan di
+  Karbal tun Shaam taayein jaakar haakim da hukam nibhaanda reya
+
+  2
+  Zainab diyaan akhiyaan di laali Sajjad nu khoon ruwayi si
+  Dukh Zainab di jagraateyan da beemar nu khoon ruwaanda reya
+
+  3
+  Main aakhri had haan ismat di Sajjad Khuda tu ghairat da
+  Meray Kabay wargay mahmal di haar Kufi pathar vasaanda reya
+
+  4
+  Zahra diyaan nuwaan saab roiyaan ay haalat vekh kay Zainab di
+  Shabbir nay saang tay vain kitay Abbas da saar takraanda reya
+
+  5
+  Ik ujray rukh tay haith kita maa Awn di lay aaram ay
+  Meri sain di kayi ab chehre tay zaalim koray barsaanda reya
 ---
 
-Nai Soun Ditta Pal Zainab Nu Ibne Nofal Tarpaanda Raya.
+نئیں سون دِتّا پل زینب نوں ابنِ نوفل تڑپاندا ریا
 
-Ohdi Neend Di Haar Ik Jhonkay Tay  Ohnu Naiziyaan Naal Jagaanda Reya.
+اوہدی نیند دی ہر اک جھونکے تے اوہنوں نیزیاں نال جگاؤندا ریا
 
-Akh Meetay Na Vich Safraan Day Ay Thaki Hoyi Shaam-e-gharibaan Di
-Karbal Tun Shaam Taayein Jaakar  Haakim Da Hukam Nibhaanda Reya.
+۱
+اکھ میٹے نہ وچ سفراں دے اے تھکی ہوئی شامِ غریباں دی
+کربل توں شام تائیں جا کر حاکم دا حکم نبھاندا ریا
 
-Zainab Diyaan Akhiyaan Di Laali Sajjad Nu Khoon Ruwayi Si
-Dukh Zainab Di Jagraateyan Da  Beemar Nu Khoon Ruwaanda Reya.
+۲
+زینب دیاں اکھیاں دی لالی سجاد نوں خون روائی سی
+دکھ زینب دی جگ راتیاں دا بیمار نوں خون رواؤندا ریا
 
-Main Aakhri Had Haan Ismat Di Sajjad Khuda Tu Ghairat Da
-Meray Kabay Wargay Mahmal Di  Haar Kufi Pathar Vasaanda Reya.
+۳
+میں آخری حد ہاں عصمت دی سجاد خدا توں غیرت دا
+میرے کعبے ورگے محمل دی ہر کوفی پتھر وساؤندا ریا
 
-Zahra Diyaan Nuwaan Saab Roiyaan Ay Haalat Vekh Kay Zainab Di
-Shabbir Nay Saang Tay Vain Kitay  Abbas Da Saar Takraanda Reya.
+۴
+زہرا دیاں نوہاں سبھ روئیاں اے حالت ویکھ کے زینب دی
+شبیر نے سانگ تے وین کیتے عباس دا سر ٹکراؤندا ریا
 
-Ik Ujray Rukh Tay Haith Kita Maa Awn Di Lay Aaram Ay
-Meri Sain Di Kayi Ab Chehre Tay  Zaalim Koray Barsaanda Reya.
+۵
+اک اجڑے رُکھ تے ہیٹھ کیتا ماں عون دی لے آرام اے
+میری سائیں دی کئی اب چہرے تے ظالم کوڑے برساؤندا ریا
