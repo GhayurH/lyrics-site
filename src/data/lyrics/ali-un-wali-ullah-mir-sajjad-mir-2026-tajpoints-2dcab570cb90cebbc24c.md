@@ -1,6 +1,6 @@
 ---
-title: "علیٌ ولی اللہ میر سجاد میر 2026"
-alternateTitle: "Ali Un Wali Ullah Mir Sajjad Mir 2026"
+title: "علیٌ ولی اللہ"
+alternateTitle: "Aliyun Waliullah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,30 +11,30 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Islam howa pora har kam howa pora
-  Jaisay hi Nabi ne farmaya Ali un wali Ullah
-  Hath Ali ka Khum mein utha ke Aaqa ne farmaya
-  Main jis jis ka maula hoon oss ka yeh Ali hai maula
+  Islam hua pura har kaam hua pura
+  Jaise hi Nabi ne farmaya Aliyun Waliullah
+  Haath Ali ka Khum mein utha ke Aaqa ne farmaya
+  Main jis jis ka maula hoon us ka yeh Ali hai maula
   Phir pyaray Nabi bolay har koi issay dekhey
-  Hai ab se yehi sab ka maula Ali un wali Ullah
+  Hai ab se yehi sab ka maula Aliyun Waliullah
   Al youma akmalto la kum ki aayat jonhi utari
   Kuch logon ki aayi nazar sorat bhi utari utari
   Dil tham ke kehte they hum kyun aaye ghar se
-  Yeh jeene nahi de ga sadma Ali un wali Ullah
+  Yeh jeene nahi de ga sadma Aliyun Waliullah
   Qanbar se yeh pyaray Nabi ne hanstay hoye farmaya
-  Khuwaish thi jis ki dil ko woh hukam-e-Khuda hai aaya
+  Khuwaish thi jis ki dil ko woh hukaam-e-Khuda hai aaya
   Le lo sab ke palaan jaye na koi insaan
-  Behron ko bhi yeh sunna ho ga Ali un wali Ullah
+  Behron ko bhi yeh sunna ho ga Aliyun Waliullah
   Bacho! Ik munkir yeh bola qaul-e-Nabi kyun mano
   Hain sari batein jhoti Haider ko wali kyun mano
-  Tha Haris oss ka naam jis ka howa yeh anjam
-  Pathar se ossay Rab ne mara Ali un wali Ullah
+  Tha Haris us ka naam jis ka hua yeh anjam
+  Pathar se ossay Rab ne mara Aliyun Waliullah
   Apna maula koi nahi ho sakta siwaye Haider
-  Zahra ne mushkil se bachai hai yeh wilaye Haider
+  Zehra ne mushkil se bachai hai yeh wilaye Haider
   Bibi ko muhabbat hai Haider ki wilayat se
-  Hai unn ka pasandida jumla Ali un wali Ullah
+  Hai unn ka pasandida jumla Aliyun Waliullah
   Khaliq ka wali hai Ali Ali, Ahmad ka wasi hai Ali Ali
-  Damad-e-payamber Ali Ali, Zahra ka shohar Ali Ali
+  Damad-e-payamber Ali Ali, Zehra ka shohar Ali Ali
   Hum sab ka maula Ali Ali, Hasnain ka baba Ali Ali
   Ahmad ka baradar Ali Ali, hai saqi-e-Kausar Ali Ali
   Esa ka maula Ali Ali, Mosa ka maula Ali Ali
@@ -45,7 +45,7 @@ romanLyrics: |-
   Quraan ki tilawat Ali Ali, hai ain ibadat Ali Ali
   Sajjad ki chahat Ali Ali, hai sab ki zarorat Ali Ali
   Momin ki hai pehchan, kalmay ki yehi hai jan
-  Samjhota na tum iss par karna Ali un wali Ullah
+  Samjhota na tum iss par karna Aliyun Waliullah
 ---
 
 ۱

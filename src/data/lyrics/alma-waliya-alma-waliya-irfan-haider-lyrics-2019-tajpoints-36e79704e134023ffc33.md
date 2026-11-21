@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Alma Waliya Alma Waliya Irfan Haider
-  Tere Bajoon Teriyaan Bhaina Nu Lokaan Qaidi Bana Liya
-  Jeri Ja Te Mere Veraan Mere Putraan Da Lahu Digiya Khak Utay
-  Oss Ja Di Rait Nu Chum Ke Main Ghazi Sir Te Saja Liya
+  Alma Waliya Alma Waliya
+  Tere Baajoṅ Teriyaaṅ Bhainaaṅ Nu Lokaaṅ Qaidi Bana Liya
+  Jehri Ja Te Mere Viraaṅ Mere Putraan Da Lahu Digiya Khak Utte
+  Us Ja Di Ret Nu Chum Ke Main Ghazi Sir Te Saja Liya
 
   2
   Teri Zainab Tere Sadqay Mere Walaan Te Veeran Teri Nazraan Na Pawan
@@ -23,14 +23,14 @@ romanLyrics: |-
   Mere Samne Veer Hussain Da Sir Zalim Naizay Te Cha Liya
 
   3
-  Shamiyaan Nu Teri Qeemat Da Bhala Ki Si Pata Toun Ayein Zahra Di Dua
-  Maa Da Farman Samaj Ke Kinj Tenu Bhaina Ne Pa Liya
-  Allah Jane Zahra Jaiyaan Nu Si Abbas Utay Maan Saqlain Kina
-  Har Bhain Si Okhay Welay Te Kendi Haye Alma Waliya
+  Shaamiyaan Nu Teri Qeemat Da Bhala Ki Si Pata Toun Ayein Zehra Di Dua
+  Maa Da Farman Samaj Ke Kinj Tenu Bhainaaṅ Ne Pa Liya
+  Allah Jane Zehra Jaiyaan Nu Si Abbas Utte Maan Saqlain Kina
+  Har Bhain Si Okhay Welay Te Kendi Hae Alma Waliya
 ---
 
 ۱
-عَلَما والیا عَلَما والیا عرفان حیدر
+عَلَما والیا عَلَما والیا
 تیرے باجھوں تیریاں بھیناں نوں لوکاں قیدی بنا لیا
 جیڑی جا تے میرے ویراں میرے پتراں دا لہو ڈگیا خاک اُتے
 اوس جا دی ریت نوں چم کے میں غازی سر تے سجا لیا

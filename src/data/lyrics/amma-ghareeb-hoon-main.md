@@ -1,6 +1,6 @@
 ---
 title: "امّاں غریب ہوں میں"
-alternateTitle: "Amma Ghareeb Hoon Main"
+alternateTitle: "Amma Gharib Huṅ Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,57 +10,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Noke sina ke upar kehta tha farqe sarwar
-  Ghar lutgaya hai mera maara gaya baradar
-  Amma ghareeb hoo mai
+  Nok-e sinaaṅ ke upar kehta tha farq-e sarwar
+  Ghar lut gaya hai mera maara gaya baraadar
+  Amma gharib huṅ main
 
   2
-  Asghar ke khoon se maine dekho wazoo kiya hai
+  Asghar ke khuṅn se mainne dekho wazoo kiya hai
   Is imtehan may usne bhi surkh roo kiya hai
   Iski lehad banakar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   3
-  Mai kis khadar hoo pyasa amma batun kyun kar
-  Sookha gala tha itna chalta nahi tha khanjar
+  Mai kis khadar huṅ pyasa amma batun kyun kar
+  Sookha gala tha itna chalta nahiṅ tha khanjar
   Qabze may rakhke Kausar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   4
   Mai kaisa baap tha jo ay daure imtehani
-  Roti rahi Sakina mai de saka na pani
+  Roti rahi Sakina main de saka na pani
   Aaye yaqeen na kyun kar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   5
-  Barchi jawan pisar ke seene se mai ne khaynchi
+  Barchi jawan pisar ke seene se main ne khaynchi
   Ansar o aqraba ki Qasim ki laash dekhi
   Ibne ameer hokar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   6
-  Ghodon ke daudne se pamaal ho chuka hoo
-  Kya ab bhi mai wohi hoo hairan hoo sochta hoo
+  Ghodon ke daudne se pamaal ho chuka huṅ
+  Kya ab bhi main wohi huṅ hairan huṅ sochta huṅ
   Naaqa bane payambar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   7
   Aap aagayi hai amma yaad aa raha hai bachpan
   Wo saath saath chalna aur apne ghar ka aangan
   Ab khaak ka hai bistar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   8
   Dil gham se chaak bhi hai zakhmo may khaak bhi hai
   Udthi hui nazar may qaimo ki raakh bhi hai
   Zainab ka hai khula sar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 
   9
   Rehaan phat na jaye ahle aza ka seena
   Bas rokle yahin par Shabbir ka ye nauha
   Sab ro rahe hai sunkar
-  Amma ghareeb hoo....
+  Amma gharib huṅ....
 ---
 
 ۱

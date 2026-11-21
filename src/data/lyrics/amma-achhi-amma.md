@@ -1,7 +1,7 @@
 ---
 title: "داخل جو مدینے میں ہوئے اہلِ مدینہ"
 recitationId: "amma-achi-amma"
-alternateTitle: "Amma Achhi Amma"
+alternateTitle: "Daakhil Jo Madine Mein Hue Ahl-e-Madina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,7 +9,7 @@ kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
-aliases: []
+aliases: ["Amma Achhi Amma"]
 published: true
 romanLyrics: |-
   Daakhil jo Madine meiṅ hue ahl-e-Madina
@@ -70,6 +70,7 @@ romanLyrics: |-
   Jis waqt phuphi ne ro ke kaha
   Mat puchh kahaaṅ hai ab kunba
 ---
+
 داخل جو مدینے میں ہوئے اہلِ مدینہ
 جاتے ہوئے کچھ اور تھے اب کیا ہے قرینہ
 نہ اکبر و عباس نہ ہمراہ سکینہ

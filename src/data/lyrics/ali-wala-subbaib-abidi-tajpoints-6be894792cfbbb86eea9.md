@@ -1,6 +1,6 @@
 ---
-title: "علی والا سبیب عابدی"
-alternateTitle: "Ali Wala Subbaib Abidi"
+title: "علی والا"
+alternateTitle: "Ali Wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,9 +12,9 @@ published: false
 romanLyrics: |-
   1
   Ali wala hamesha bolta hai
-  Sar-e-Mimber aqeeda bolta hai
-  Agar parh dein tu khul jaein gay shajrey
-  Qalam kagaz pe jitna bolta hai
+  Sar-e-Mimbar aqeeda bolta hai
+  Agar parh dein to khul jaaeṅ ge shajre
+  Qalam kaaghaz pe jitna bolta hai
 
   2
   Kabhi majlis mein aao aa ke dekho
@@ -25,11 +25,11 @@ romanLyrics: |-
   3
   Yahin par zooj Zahra ko miley ga
   Dar-e-Haider pe Zohra bolta hai
-  Abhi khud bool tu sakta nahi woh
+  Abhi khud bool to sakta nahi woh
   Ali Asghar ka hamla bolta hai
 
   4
-  Hussain Ibn-e-Ali rakhein gay zindah
+  Husain Ibn-e-Ali rakhein gay zindah
   Kafan Karb-o-Bala ka bolta hai
   Tere qadmo ko lehrein chomti hain
   Tere hathoon pe darya bolta hai

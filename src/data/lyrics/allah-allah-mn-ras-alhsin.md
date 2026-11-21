@@ -1,6 +1,6 @@
 ---
 title: "اللہ اللہ مِن رأس الحسینؑ"
-alternateTitle: "Allah Allah Min Rasil Hussain"
+alternateTitle: "Allah Allah Min Raas al-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,73 +9,73 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Allah Allah Min Rasil Hussain
+  Allah Allah Min Raas al-Husain
 
   1
-  Ya Hussain Ya Hussain
-  (Rasil Hussain Dil-e-Jahan)
+  Ya Husain Ya Husain
+  (Raas al-Husain Dil-e-Jahan)
   Salam Bar Muharam
   Salam Bar Karbala
   Salam Bar Aashura
-  Salam Bar (Hussain)
-  Assalamo Alal Hussain
-  Wa Ali Ibnil Hussain
-  Wa Auladil Hussain
-  Wa Ashaabil Hussain
-  Asalamo Alal Shaibil Khazeeb
-  Asalamo Alal Khadit Tareeb
-  Asalamo Alal Badan-e-Saleeb
-  Asalamo Alal Taghril Maqro-e-Bil Qazeeb
-  Asalamo Alal Rasil Marfoo
+  Salam Bar (Husain)
+  Assalamo Alal Husain
+  Wa Ali Ibnil Husain
+  Wa Auladil Husain
+  Wa Ashaabil Husain
+  Assalaamo Alal Shaibil Khazeeb
+  Assalaamo Alal Khadit Tareeb
+  Assalaamo Alal Badan-e-Saleeb
+  Assalaamo Alal Taghril Maqro-e-Bil Qazeeb
+  Assalaamo Alal Rasil Marfoo
 
   2
-  Haan (Aey Naiza Sawaaron Ki Qayadat Ke Shehanshaah)
+  Haan (Ae Naiza Sawaaron Ki Qayadat Ke Shehanshaah)
   Zulfain Teri Wal Lail Hain WaShams Hai Chehra
-  Aankhon Se Ayaan Noor-e-Muhammad Ka Ujala
-  Lab Terey Hain Masroof-e-Tilawat Bin-e-Zahra
-  Sajday Main Jhuka Sar To Ibadat Ka Sharaf Tha
-  Naizey Pe Uthha Sar To Ye Sar Dur-e-Najjaf Tha
+  Aankhoṅ Se Ayaaṅ Noor-e-Muhammad Ka Ujala
+  Lab Tere Hain Masroof-e-Tilawat Bin-e-Zehra
+  Sajday Mein Jhuka Sar To Ibadat Ka Sharaf Tha
+  Neze Pe Uthha Sar To Ye Sar Dur-e-Najaf Tha
 
   3
-  Thi Pusht-e-Muhammad To Issi Sar Ka Mussalla
+  Thi Pusht-e-Muhammad To Issi Sar Ka Musalla
   Aur Chaader-e-Tatheer Hai Iss Sar Ka Ammama
   Man Kunto Ka Khutba Hai Issi Sar Ka Khulaasa
-  Iss Sar Ke Sabab Karbobala Ab Hai Mualla
+  Iss Sar Ke Sabab Karb o Bala Ab Hai Mualla
   Ye Sar Na Jhuka Khanjar O Talwaar Ke Aagey
-  Sar Zulm Ka Kham Hai Terey Inkaar Ke Aagey
+  Sar Zulm Ka Kham Hai Tere Inkaar Ke Aagey
 
   4
-  Rooh-e-Hussain
-  Jabeen-e-Hussain
-  Abru-e-Hussain
-  Chashm-e-Hussain
-  Rukhsaar-e-Hussain
-  Dahan-e-Hussain
-  Lab-e-Hussain
-  Dandaan-e-Hussain
-  Rukhsar-e-Hussain
-  Reesh-e-Hussain
-  Gulu-e-Hussain
-  Zulf-e-Hussain
-  Khushbu-e-Hussain
-  Zehn-e-Hussain
-  Fikr-e-Hussain
-  Guftaar-e-Hussain
+  Rooh-e-Husain
+  Jabeen-e-Husain
+  Abru-e-Husain
+  Chashm-e-Husain
+  Rukhsaar-e-Husain
+  Dahan-e-Husain
+  Lab-e-Husain
+  Dandaan-e-Husain
+  Rukhsar-e-Husain
+  Reesh-e-Husain
+  Gulu-e-Husain
+  Zulf-e-Husain
+  Khushbu-e-Husain
+  Zehn-e-Husain
+  Fikr-e-Husain
+  Guftaar-e-Husain
   Haan
-  In Aankhon Ko Hai Ahmed-e-Mukhtar Ne Chooma
-  Zahra O Ali Ne Lab O Rukhsaar Ko Chooma
-  Zulfon Ko Hassan Ne Hai Barey Payaar Se Chooma
+  In Aankhoṅ Ko Hai Ahmed-e-Mukhtar Ne Chooma
+  Zehra O Ali Ne Lab O Rukhsaar Ko Chooma
+  Zulfon Ko Hasan Ne Hai Barey Payaar Se Chooma
   Behno Ne Gala Isska Kaai Baar Hai Chooma
   Sardari-e-Abbas Issi Sar Se Juri Hai
   Aur Zainab O Kulsoom Ko Ye Misl-e-Ali Hai
 
   5
-  Mojood Tha Iss Sar Main Muhammad Ka Khazana
+  Mojood Tha Iss Sar Mein Muhammad Ka Khazana
   Maqsad Tha Issi Sar Ka To Islam Bachana
   Zalim Ne Bohat Chaaha Tha Iss Sar Ko Jhukaana
-  Ye Sar Na Jhuka Kat Gaya Zahra Ka Gharaana
+  Ye Sar Na Jhuka Kat Gaya Zehra Ka Gharaana
   Iss Sar Ka Safar Sun Ke Jahaan Rota Hai Ab Tak
-  Ghaibat Main Jo Hai Marsiya Khuwaan Rota Hai Ab Tak Allah (Allah Allah Allah Min Rasil Hussain)
+  Ghaibat Mein Jo Hai Marsiya Khuwaan Rota Hai Ab Tak Allah (Allah Allah Allah Min Raas al-Husain)
   Aashur Ko Ye Sar Pas-e-Gardan Se Kata Tha
   Zarbain Thin Lagi Teerah Bohat Khushk Gala Tha
   Zainab Ke Liye Waqt Qayamat Se Karra Tha
@@ -85,47 +85,47 @@ romanLyrics: |-
 
   6
   Iss Sar Ke Masaayeb Ka Ye Pur Dard Hai Qissa
-  Khooli Ne Issey Ghar Main Jo Tandoor Main Rakha
-  Raat Aai To Phir Zoja-e-Khooli Ne Ye Dekha
+  Khauli Ne Issey Ghar Mein Jo Tandoor Mein Rakha
+  Raat Aai To Phir Zoja-e-Khauli Ne Ye Dekha
   Tandoor Sey Ek Noor Ka Darya Hai Ubaltaa
   Ik Bibi Siyaah Posh Ney Iss Sar Ko Uthhayaa
   Ro Ro Ke Kaha Haaye Ghareeb-e-Bin-e-Zehra
 
   7
   Rahib Ne Ye Sar Dekha Tha Jab Nok-e-Sina Per
-  Khooli Se Kaha Kon Hai Ye Kisska Hai Sar
+  Khauli Se Kaha Kon Hai Ye Kisska Hai Sar
   Bola Wo Bad Atwaar Ke Ye Hai Bin-e-Haider
-  Rahib Ne Wo Sar Ley Lia Khooli Ko Dia Sar
-  Sar Goud Main Rakhey Huey Rota Raha Rahib
-  Aawaz-e-Fughaan Zahra Ki Sunta Raha Rahib
+  Rahib Ne Wo Sar Ley Lia Khauli Ko Dia Sar
+  Sar Goud Mein Rakhey Huey Rota Raha Rahib
+  Aawaz-e-Fughaan Zehra Ki Sunta Raha Rahib
 
   8
-  Ye Sar Kabhi Sandooq Main Tandoor Main Rakha
+  Ye Sar Kabhi Sandooq Mein Tandoor Mein Rakha
   Iss Sar Ko Darakhton Pe Laeenon Ne Sajaaya
-  Naizey Pe Issey Shehar Ki Galiyon Main Phiraaya
+  Neze Pe Issey Shehar Ki Galiyon Mein Phiraaya
   Ham Raah Aseeron Ke Ye Sar Sham Jab Aaya
   Sajjad Ko Zainab Ko Rulaatey They Sitamgar
   Sar Baali Sakina Ko Dekhaatey They Sitamgar
 
   9
-  Darbar-e-Yazeedi Main Bapa Jashan-e-Taraf Tha
+  Darbar-e-Yazidi Mein Bapa Jashan-e-Taraf Tha
   They Aik Taraf Ahl-e-Haram Muztar O Giryaa
   Aur Saamney Tha Takht Pe Marjaana Ka Beyta
-  Uss Takht Taley Sar Tha Hussain-e-Bekhata Ka
-  Badmast Laeen Nashey Main Lalkaar Raha Tha
+  Uss Takht Taley Sar Tha Husain-e-Bekhata Ka
+  Badmast Laeen Nashey Mein Lalkaar Raha Tha
   Dandaan-e-Shah-e-Deen Pe Chharri Maar Raha Tha
 
   10
-  Jiss Waqt Ye Sar Shaam Ke Zindaan Main Aaya
+  Jiss Waqt Ye Sar Shaam Ke Zindaan Mein Aaya
   Sar Bhai Ka Zainab Ne Kalejey Se Lagaya
   Sajjad Ne Beyhosh Sakina Ko Jagaya
-  Sar Baba Ka Pehlu Main Sakeena Ne Jo Paaya
-  Aey Sarwar O Rehan Qayamat Ka Samaa Tha
+  Sar Baba Ka Pehlu Mein Sakeena Ne Jo Paaya
+  Ae Sarwar O Rehan Qayamat Ka Samaa Tha
   Shabbir Ka Sar Rota Tha Aur Shor O Fughaan Tha
 
   11
-  Asalamo Alal Hussain
-  Asalamo Alal Rasil Marfoo
+  Assalaamo Alal Husain
+  Assalaamo Alal Rasil Marfoo
 ---
 
 اللہ اللہ مِن رأس الحسین

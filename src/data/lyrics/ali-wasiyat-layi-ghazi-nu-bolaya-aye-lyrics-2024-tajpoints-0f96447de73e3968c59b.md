@@ -1,6 +1,6 @@
 ---
 title: "علی وصیت لئی غازی نوں بلایا اے"
-alternateTitle: "Ali Wasiyat Layi Ghazi Nu Bolaya Aye"
+alternateTitle: "Ali Wasiyat Lai Ghazi Nu Bulaaya Ae"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,23 +10,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali wasiyat layi Ghazi nu bulaya aye
-  Main aj taun Zainab da pardah tainu banaya aye
-  Toon nigehban aye Ghazi Rasool de ghar da
-  Ali aj apni fazeelat aye tere naa karda
-  Khuda ne tere choon Ghazi Ali wikhaya aye
-  Toon v paband rawin ga sabar Hussain tera
+  Ali wasiyat lai Ghazi nu bulaya ae
+  Main aj toṅ Zainab da pardah tainu banaya ae
+  Tuṅ nigehbaan ae Ghazi Rasul de ghar da
+  Ali aj apni fazilat ae tere naa karda
+  Khuda ne tere choon Ghazi Ali wikhaya ae
+  Tuṅ v paband rawin ga sabar Hussain tera
   Aa wekh Masjid-e-Kofa de wich sabar mera
-  Main apne qatil nu Ghazi kiwein jagaya aye
-  Silsila lashaan da Ghazi aye hoan rukna nahin
+  Main apne qatil nu Ghazi kiven jagaya ae
+  Silsila lashaan da Ghazi ae hoan rukna nahin
   Badar, Siffeen da Ghazi oh wair mukna nahin
-  Main sir kata ke sajday wich Khuda bachaya aye
-  Mainu miliya aye imamat da aye sila Ghazi
-  Mere musallay te likhiya aye Karbala Ghazi
-  Rawin taun veraan te ban ke Ali da saya aye
-  Qatal Ali da nayi Najfi qatal Rasool da aye
-  Madine ujray yaan Kofay oh ghar Batool da aye
-  Jidi qabar de nishaan nu Ali mitaya aye
+  Main sir kata ke sajday wich Khuda bachaya ae
+  Mainu miliya ae imamat da ae sila Ghazi
+  Mere musallay te likhiya ae Karbala Ghazi
+  Rawin toṅ veraan te ban ke Ali da saya ae
+  Qatal Ali da nayi Najfi qatal Rasul da ae
+  Madine ujray yaan Kofay oh ghar Batool da ae
+  Jidi qabar de nishaan nu Ali mitaya ae
 ---
 
 ۱

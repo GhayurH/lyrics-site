@@ -1,6 +1,6 @@
 ---
 title: "علی مولا دکھائے جا رہے ہیں"
-alternateTitle: "Ali Mola Dikhaye Ja Rahey Hain"
+alternateTitle: "Ali Maula Dikhaae Jaa Rahe Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,36 +10,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Wahi Ahmad sunaye ja rahe hain
+  Wahi Ahmad sunaye jaa rahe haiṅ
 
   1
-  Ali Maula dikhaye ja rahe hain
-  Yeh kyun Maidan-e-Khum ko anbiya sab
-  Sitaron se sajay ja rahe hain
-  Falak neechay nazar aane laga hai
+  Ali Maula dikhaye jaa rahe haiṅ
+  Yeh Kiun Maidan-e-Khum ko anbiya sab
+  Sitaron se sajaae jaa rahe haiṅ
+  Falak niche nazar aane laga hai
 
   2
-  Ali itna uthaye ja rahe hain
+  Ali itna uthaye jaa rahe haiṅ
   Charha kar doosh pe apne Ali ko
-  Kayi chehray jalaye ja rahe hain
+  Kayi chehray jalaye jaa rahe haiṅ
   Aye Mosa dekh le Noor-e-Khuda ko
 
   3
-  Ali phir se dikhaye ja rahe hain
+  Ali phir se dikhaye jaa rahe haiṅ
   Yeh seena hai azadaron ka seena
-  Yahan tamgay lagaye ja rahe hain
+  Yahan tamgay lagaye jaa rahe haiṅ
   Laga kar narah-e-Haider aye logo
 
   4
-  Yahan shajrey bataye ja rahe hain
+  Yahan shajrey bataye jaa rahe haiṅ
   Yeh dekha khuwab mein ik raat main ne
-  Najaf mein hum bulaye ja rahe hain
+  Najaf mein hum bulaye jaa rahe haiṅ
   Dar-e-Janat pe bhi ik saf hai jis se
 
   5
-  Kayi mulla hataye ja rahe hain
+  Kayi mulla hataye jaa rahe haiṅ
   Karam hai Ain par Meesum ka keh woh
-  Mujhe likhna sikhaye ja rahe hain
+  Mujhe likhna sikhaye jaa rahe haiṅ
 ---
 
 وحی احمد سنائے جا رہے ہیں

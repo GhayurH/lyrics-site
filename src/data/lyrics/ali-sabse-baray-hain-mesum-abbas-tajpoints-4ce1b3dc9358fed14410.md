@@ -1,6 +1,6 @@
 ---
 title: "علی سب سے بڑے ہیں"
-alternateTitle: "Ali Sab Se Baray Hain"
+alternateTitle: "Ali Sab Se Bare Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sarkar-e-Do Alim Tu Yehi Kehte They Har Bar Ali Sab Se Barey Hain
-  Yeh Keh Ke Khuda Ne Bhi Unhein Bheji Hai Talwar Ali Sab Se Barey Hain
+  Sarkar-e-Do Aalam To Yehi Kehte The Har Baar Ali Sab Se Bare Haiṅ
+  Yeh Keh Ke Khuda Ne Bhi Unhein Bheji Hai Talwaar Ali Sab Se Bare Haiṅ
 
   2
   Jab Chahe Sitarey Ko Woh Chokhat Pe Utaray
   Dobay Hoye Soraj Ko Isharey Se Bola Le
   Qissay Yeh Sunay Maa Se Bhi Bachpan Mein Kayi Bar
-  Antar Ko Kiya Qatal Tu Marhab Ko Pachara
+  Antar Ko Kiya Qatal To Marhab Ko Pachara
 
   3
   Angusht e Yadullah Ne Khaybar Ko Ukhara
@@ -33,7 +33,7 @@ romanLyrics: |-
   Kya Khum Ka Woh Manzar Bhi Tumhein Yaad Nahi Hai
 
   5
-  Man Kuntu Ke Alfaz Mein Poshida They Asrar
+  Man Kuntu Ke Alfaz Mein Poshida The Asrar
   Na Mariyam-o-Esa Ko Mila Aisa Muqadar
   Aaye Hain Ali Terah 13 Rajab Kabay Ke Andar
   Phir Kyun Na Kahey Kabay Ki Chatkhi Hoi Dewar
@@ -45,16 +45,16 @@ romanLyrics: |-
   Hijrat Ki Shab Rasool Ke Bistar Pe Hain Ali
 
   7
-  Mehrab Par Ali Hain Tu Mimber Pe Hain Ali
+  Mehrab Par Ali Hain To Mimber Pe Hain Ali
   Kaba Gawah Hai Dosh-e-Payamber Pe Hain Ali
   Har Ja Ali Milein Gay Na Daman Bachaiye
-  Bachna Ali Se Hai Tu Jahanum Mein Jaiye
+  Bachna Ali Se Hai To Jahanum Mein Jaiye
 
   8
   Bistar Pe Nabi Apni Jagah Jis Ko Sula De
   Murday Ko Kabhi Mar Ke Thokar Woh Jaga De
   Maula Ke Fazail Mein Manazir Hain Lagatar
-  Dunya Ko Daleelein Tu Bohat Deta Hai Mazhar
+  Dunya Ko Daleelein To Bahut Deta Hai Mazhar
 
   9
   Manay Ga Wohi Jis Ko Howa Ishq Muyassar
@@ -69,8 +69,8 @@ romanLyrics: |-
   Qibla Hai Ali, Kaba Hai Ali
 
   11
-  Dil Mein Tujhey Hai Basaya Rab Ko Pukara Tu Aaya
-  Tu Ishq Ka Sarmaya Sab Ke Dilon Pe Hai Chaya
+  Dil Mein Tujhey Hai Basaya Rab Ko Pukara To Aaya
+  To Ishq Ka Sarmaya Sab Ke Dilon Pe Hai Chaya
   Dein Ka Muqaddar, Aaqa-e-Qanbar
   Maula-e-Abuzar, Fatah-e-Khaybar
 

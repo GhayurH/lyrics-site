@@ -1,6 +1,6 @@
 ---
-title: "علی نے دیکھا ہے ذیشان عابدی"
-alternateTitle: "Ali Ne Dekha Hai Zeeshan Abidi"
+title: "علی نے دیکھا ہے"
+alternateTitle: "Ali Ne Dekha Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,10 +11,10 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khuda hai kaun yeh Maula Ali ne dekha hai
+  Khuda hai kaun ye Maula Ali ne dekha hai
   Jo koi dekh na paya Ali ne dekha hai
-  Idhar se dekha Muhammad ne parda e Mairaj
-  Our oss taraf se woh pardah Ali ne dekha hai
+  Idhar se dekha Muhammad ne parda-e Meraaj
+  Aur us taraf se woh parda Ali ne dekha hai
   Yeh muskura ke kaha shukriya Janab-e-Batool
   Jab apne dar pe sitara Ali ne dekha hai
 
@@ -22,8 +22,8 @@ romanLyrics: |-
   Jo tum se Toor pe dekha nahi gaya Mosa
   Qasam Khuda ki woh jalwa Ali ne dekha hai
   Galay pe jis ke bas ik bar Zulfiqar rakhi
-  Kab oss ko mur ke dobarah Ali ne dekha hai
-  Aye Jibraeel yeh Sidrah hai laut jao tum
+  Kab us ko mur ke dobarah Ali ne dekha hai
+  Ae Jibraeel ye Sidrah hai laut jao tum
   Yahan se aagay ka rasta Ali ne dekha hai
 
   3

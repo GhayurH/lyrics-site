@@ -1,6 +1,6 @@
 ---
-title: "اللہ کے اسم سارے بکھرے ہیں کربلا – گڈی خان پارٹی"
-alternateTitle: "Allah Ke Ism Sare Bikhrey Hain Karbala – Gudi Khan Party"
+title: "اللہ کے اسم سارے بکھرے ہیں کربلا"
+alternateTitle: "Allah Ke Ism Saare Bikhre Haiṅ Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Allah ke ism sare bikhrey hain Karbala
-  Ghoron ke hai summo mein lasha Hussain ka
-  Akbar ke seene barchi dekhi hai main ne jo
-  Zindah hai dekh kar yeh kaisay Hussain woh
+  Allah ke ism saare bikhre haiṅ Karbala
+  Ghoroṅ ke hai sumoṅ mein laasha Husain ka
+  Akbar ke sine barchhi dekhi hai main ne jo
+  Zinda hai dekh kar yeh kaise Husain woh
 
   2
   Zakhmi Khuda hai chehra tere Habib ka
-  Gathri mein lash kis ki laye Hussain hain
-  Beta hai yeh Hasan ka aaye yeh bain hain
+  Gathri mein lash kis ki laye Husain haiṅ
+  Beta hai yeh Hasan ka aaye yeh bain haiṅ
   Dekha hai main ne Qasim tukron mein hai para
 
   3
   Qaidi bana hai Abid galiyon mein aa gaya
   Chadar tu koi de do deta hai woh sada
   Sabir hai roop tera Abid hai jo Khuda
-  Tere hijab hain yeh chadar nahi hai sar pe
+  Tere hijab haiṅ yeh chadar nahi hai sar pe
 
   4
   Ummat ne hai kiya youn hamla yeh tere ghar pe
   Barish hai pathron ki unn pe hi ja baja
   Aawaz hai jo aati zindaan se aaj bhi
-  Baba kahan hain mere kehti hai woh yehi
+  Baba kahan haiṅ mere kehti hai woh yehi
 
   5
-  Beti Hussain ki hai roti hai har jagah
+  Beti Husain ki hai roti hai har jagah
   Koi na janta hai guzri hai aal par kya
   Likhe Jarrar nohay iss ki majal hai kya
   Aaye bataye hum ko woh Karbala hai kya

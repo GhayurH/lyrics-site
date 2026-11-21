@@ -1,6 +1,6 @@
 ---
 title: "اللہ حسین، صبر تیرا کتنا بڑا ہے"
-alternateTitle: "Allah Hussain Sabar Tera Kitna Bara Hai"
+alternateTitle: "Allah Husain Sabr Tera Kitna Bara Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Allah Hussain sabar tera kitna bara hai
-  Betay ka jigar nikla howa dekh raha hai
-  Zalim hai keh Akbar ki haye reesh noch kar
-  Phir samne padar ke sar kaat raha hai
+  Allah Husain sabr tera kitna bara hai
+  Betay ka jigar nikla hua dekh raha hai
+  Zaalim hai ke Akbar ki haaye reesh noch kar
+  Phir saamne padar ke sar kaat raha hai
 
   2
   Laila tu apni dunya bas dekhti rahi
-  Sartaj par ghareebi betay pe qaza hai
-  Bolay Hussain, Akbar se bheer hatatay
+  Sartaj par ghareebi bete pe qaza hai
+  Bolay Husain, Akbar se bheer hatatay
   Aye zalimo na kuchlo yeh nazoon se pala hai
 
   3
   Haye tooti pasliyon se uthati thi maa jisay
   Tooti kamar se beta uthane woh chala hai
-  Aisay gira keh chehra ja khak par laga
-  Itna Hussain logo zaeefi se lara hai
+  Aisay gira ke chehra ja khak par laga
+  Itna Husain logo zaeefi se lara hai
 
   4
   Zainab ke sar se chadar utari thi iss liye

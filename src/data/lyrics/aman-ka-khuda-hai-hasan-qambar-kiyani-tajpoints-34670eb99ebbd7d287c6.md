@@ -1,6 +1,6 @@
 ---
-title: "امن کا خدا ہے حسن قمبر کیانی"
-alternateTitle: "Aman Ka Khuda Hai Hasan Qambar Kiyani"
+title: "امن کا خدا ہے حسن"
+alternateTitle: "Amn Ka Khuda Hai Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aman ka Khuda hai Hasan Qambar Kiyani
+  Amn ka Khuda hai Hasan
 
   1
   Jahan bhar mein faqat aman ka Khuda hai Hasan
-  Rasool par hai jo Zahra ki woh atta hai Hasan
+  Rasul par hai jo Zehra ki woh ata hai Hasan
   Kul anbiya ka zamane mein aasra hai Hasan
-  Khuda-e-Pak ke razoon ki ibtida hai Hasan
-  Har ik Nabi ko Khuda se yehi milata hai
+  Khuda-e-Pak ke raazoṅ ki ibtida hai Hasan
+  Har ik Nabi ko Khuda se yei milata hai
   Yeh farsh se hi qalam Loh par chalata hai
 
   2
@@ -25,8 +25,8 @@ romanLyrics: |-
   Nabi ke qalb pe jaisay Quran utra hai
   Zameen pe aman ki deney aazan utra hai
   Dahan mein le ke Khuda ki zaban utra hai
-  Kaha Batool ne keh aks-e-Mustafa hai yeh
-  Yeh meri gaud mein utra hai Mujtaba hai yeh
+  Kaha Batool ne keh aks-e-Mustafa hai ye
+  Yeh meri gaud mein utra hai Mujtaba hai ye
 
   3
   Hasan ka bugz tu amal masal deta hai
@@ -38,30 +38,30 @@ romanLyrics: |-
 
   4
   Namaz-e-Ahmad-e-Mursal ka tu qiyam Hasan
-  Hussain jis ke hai pichey tu woh imam Hasan
+  Husain jis ke hai pichey tu woh imam Hasan
   Khuda ne Arsh se bhaija tujhe salam Hasan
   Kaleem Rab hai tu oss ka hai tu kalam Hasan
-  Tere hi dar pe malaik jaben rakhtay hain
-  Sajod chand sitarey tujhe hi kartay hain
+  Tere hi dar pe malaik jaben rakhtay haiṅ
+  Sajod chand sitarey tujhe hi kartay haiṅ
 
   5
-  Rasool ka jo sukhan dekhna agar chaho
+  Rasul ka jo sukhan dekhna agar chaho
   Jo Murtaza ka chalan dekhna agar chaho
   Yeh aman ka hai chaman dekhna agar chaho
   Nijat ki jo kiran dekhna agar chaho
-  Ali ke ghar mein bani aaj yeh Adan dekho
+  Ali ke ghar mein bani aaj ye Adan dekho
   Nabi ke hath pe utra howa Hasan dekho
 
   6
-  Zamane bhar ko tu yeh baat bhi bata Qambar
-  Hasan ki walidah ki tujh pe hai atta Qambar
+  Zamane bhar ko tu ye baat bhi bata Qambar
+  Hasan ki walidah ki tujh pe hai ata Qambar
   Suna jo tu ne faqeron se woh suna Qambar
   Namaz-e-ishq-e-Hasan ki nahi qaza Qambar
-  Faqat yeh arz-o-sama hi nahi hain mehway sukhan
+  Faqat ye arz-o-sama hi nahi haiṅ mehway sukhan
   Khuda bhi Arsh pe khud kar raha hai zikar-e-Hasan
 ---
 
-امن کا خدا ہے حسن قمبر کیانی
+امن کا خدا ہے حسن
 
 ۱
 جہاں بھر میں فقط امن کا خدا ہے حسن

@@ -1,6 +1,6 @@
 ---
 title: "الوداع الوداع الوداع اے حسین"
-alternateTitle: "Alvida Alvida Alvida Eh Hussain"
+alternateTitle: "Alvida Alvida Alvida Ae Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Alvida alvida alvida eh Hussain
+  Alvida alvida alvida ae Husain
 
   1
-  Yay sada ay fughan aur^ yay majlisay
-  Matham aur noha aur gham key yay zeenathay
-  Chaha tha hay yay dil yoon hey khiyam ra hain
-  Aha put tha hay dil kis tarhan say kahain
+  Ye sadaa-e-fughaaṅ aur ye majliseṅ
+  Maatam aur nauha aur gham ki ye zinateṅ
+  Chaahta hai ye dil yuṅ hi khayaam raheṅ
+  Aah uthta hai dil kis tarah se kaheṅ
 
   2
-  Kiun farishton nay Adam ko sajda kiya
-  Rozay Ashoor^ alam pay roshan huwa
-  Kund^ khunjar thalay rak kar sooka gala
-  Thu nay tho insaniyat ka bahram rak diya
+  Kiun farishtoṅ ne Aadam ko sajda kiya
+  Roz-e-Aashur aalam pe roshan hua
+  Kund khanjar tale rakh kar sukha gala
+  Tu ne to insaaniyat ka bharam rakh diya
 
   3
-  Pir raha hay nigahoon may manzar abi
-  Lasha kariyal jawan alamay ja kani
-  Their himat kay khurban^ ibn Ali
-  Khalb^ Akbar say thu nay sina kaych ley
+  Phir raha hai nigaahoṅ mein manzar abhi
+  Laasha kariyal javaaṅ aalam-e-jaaṅ kani
+  Teri himmat ke qurbaan Ibn-e-Ali
+  Qalb-e-Akbar se tu ne sinaaṅ khainch li
 
   4
-  Meray mehman^ hay akhirey yay salam
-  Tuj pay khurban^ hay akhirey yay salam
-  Shahay zeeshan^ hay akhirey yay salam
-  Dil hay veeran^ hay akhirey yay salam
+  Mere mehmaaṅ hai aakhri ye salaam
+  Tujh pe qurbaan hai aakhri ye salaam
+  Shah-e-zishaan hai aakhri ye salaam
+  Dil hai viraaṅ hai aakhri ye salaam
 
   5
-  Gar jeyay saal^ bahr pir karayngay yay ghum
-  Roayn gay pir theray ghum may milkar baham
-  Aur agar mar gayay tho yay hoga alam
-  Haey ufsoos jeebar kay roay na hum
+  Gar jiye saal bhar phir kareṅ ge ye gham
+  Roeṅ ge phir tere gham mein mil kar baaham
+  Aur agar mar gae to ye ho ga alam
+  Haaye afsos ji bhar ke roe na ham
 
   6
-  Alvida eh Hussain eh Hussain alvida
-  Alivida eh shahay mushra khen alvida
-  Binte ahmad kar eh noori en alvida
-  Hay mujahid kay lub pay yay ben alvida
+  Alvida ae Husain ae Husain alvida
+  Alvida ae Shah-e-Mashriqain alvida
+  Bint-e-Ahmad ke ae nur-e-ain alvida
+  Hai Mujaahid ke lab pe ye bain alvida
 ---
 
 الوداع الوداع الوداع اے حسین

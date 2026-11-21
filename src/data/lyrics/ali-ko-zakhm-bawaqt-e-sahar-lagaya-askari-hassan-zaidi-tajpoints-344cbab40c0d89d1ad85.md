@@ -10,12 +10,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ko zakhm bawaqt-e-sahar lagaya gaya
-  Khuda ke ghar mein namazi ka khoon bahaya gaya
+  Khuda ke ghar mein namazi ka khun bahaya gaya
 
   1
-  Chalai taig kuch iss tarha Ibn-e-Muljam ne
-  Rawaan hai khon ki ik dhaar sar se Haider ke
-  Bapa hai hashar hidayat ka rukan dhaya gaya
+  Chalai taigh kuch is tarah Ibn-e-Muljam ne
+  Rawaan hai khun ki ik dhaar sar se Haider ke
+  Barpa hai hashr hidayat ka rukn dhaya gaya
 
   2
   Namaz karti thi giriya udas tha sajdah
@@ -28,19 +28,19 @@ romanLyrics: |-
   Ali ka soag farishton mein bhi manaya gaya
 
   4
-  Bapa hai Kofay har ghar mein karb se mehshar
-  Jabeen pa zakhm laga hai Ali hain khon mein tar
+  Barpa hai Kofay har ghar mein karb se mehshar
+  Jabeen pa zakhm laga hai Ali haiṅ khun mein tar
   Nabi ki aal ko yeh kaisa din dikhaya gaya
 
   5
   Lahu mein dobi hai mehrab aaj masjid ki
-  Kiya hai sajday mein shair-e-Khuda ka sar zakhmi
+  Kiya hai sajde mein shair-e-Khuda ka sar zakhmi
   Nabi se wadah e ulfat ko youn nibhaya gaya
 
   6
-  Hasan Hussain uratay hain khak gham hai bapa
-  Tarap ke Zainab-o-Kulsoom kar rahi hain boka
-  Nabi ki aal ka Kofay mein khoon bahaya gaya
+  Hasan Husain uratay haiṅ khak gham hai bapa
+  Tarap ke Zainab-o-Kulsoom kar rahi haiṅ boka
+  Nabi ki aal ka Kofay mein khun bahaya gaya
 
   7
   Pukarein Zainab-o-Kulsoom peet kar chehra

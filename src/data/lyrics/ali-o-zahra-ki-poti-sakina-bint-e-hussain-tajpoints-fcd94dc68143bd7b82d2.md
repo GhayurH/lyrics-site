@@ -1,6 +1,6 @@
 ---
 title: "علی و زہرا کی پوتی سکینہ بنتِ حسین"
-alternateTitle: "Ali-o-Zahra Ki Poti Sakina Bint-e-Hussain"
+alternateTitle: "Ali o Zehra Ki Poti Sakina Bint-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali-o-Zahra ki poti Sakina bint-e-Hussain
-  Hai shah zadi ki beti Sakina bint-e-Hussain
-  Jahan Rubab-o-Sakina na hoon woh ghar hi nahi
-  Hussain kehte the ye hi Sakina bint-e-Hussain
+  Ali o Zehra ki poti Sakina bint-e-Husain
+  Hai shahzaadi ki beti Sakina bint-e-Husain
+  Jahaaṅ Rubab o Sakina na hoṅ woh ghar hi nahi
+  Husain kehte the ye hi Sakina bint-e-Husain
 
   2
-  Tumhein Hussain ne manga jo behar-e-Karb-o-Bala
-  Tu tum ne jan bhi de di Sakina bint-e-Hussain
+  Tumhein Husain ne manga jo behar-e-Karb-o-Bala
+  Tu tum ne jan bhi de di Sakina bint-e-Husain
   Chacha ki ladli ghar bhar ki aankh ka tara
-  Na kyun har ik ko ho pyari Sakina bint-e-Hussain
+  Na kyun har ik ko ho pyari Sakina bint-e-Husain
 
   3
-  Hussain-o-Abid-o-Zainab duaein detey rahe
-  Shareek-e-kar thi sab ki Sakina bint-e-Hussain
-  Woh jis ko kehte hain Shami Ruqaiya bint-e-Hussain
-  Hai Hind-o-Paak mein woh hi Sakina bint-e-Hussain
+  Husain-o-Abid-o-Zainab duaein detey rahe
+  Shareek-e-kar thi sab ki Sakina bint-e-Husain
+  Woh jis ko kehte hain Shami Ruqaiya bint-e-Husain
+  Hai Hind-o-Paak mein woh hi Sakina bint-e-Husain
 
   4
   Shaheed khud bhi hai yeh bint-e-Syed-us-Shuhda
-  Kissi se kam tu nahi thi Sakina bint-e-Hussain
+  Kissi se kam tu nahiṅ thi Sakina bint-e-Husain
   Yeh jin-o-ins-o-malak balke auliya bhi karein
-  Tumhare dar ki ghulami Sakina bint-e-Hussain
+  Tumhare dar ki ghulami Sakina bint-e-Husain
 
   5
   Imam aa ke rehai osse dilaein gaye
-  Hai qaid khane mein ab bhi Sakina bint-e-Hussain
+  Hai qaid khane mein ab bhi Sakina bint-e-Husain
   Wajhi ho ke woh ho:Sibt-e-Jafar-e-Zaidi:
-  Hain tere dar ke bhikhari Sakina bint-e-Hussain
+  Hain tere dar ke bhikhari Sakina bint-e-Husain
 ---
 
 ۱

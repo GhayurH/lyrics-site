@@ -1,6 +1,6 @@
 ---
 title: "امیر مسلم غریب مسلم"
-alternateTitle: "Ameer Muslim Ghareeb Muslim"
+alternateTitle: "Amir Muslim Gharib Muslim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ameer Muslim Ghareeb Muslim
+  Amir Muslim Gharib Muslim
   Hai teri qismat ajeeb Muslim
 
   1
-  Safeer hai tu Hussain ka our
-  Wila ka pehla khateeb Muslim
-  Giraya jata hai chat se lasha
-  Hai yeh bhi tera naseeb Muslim
+  Safir hai tu Husain ka aur
+  Wila ka pehla khatib Muslim
+  Giraya jata hai chhat se laasha
+  Hai yeh bhi tera nasib Muslim
 
   2
   Nabi ki beti ne aa sanbhala
@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Tabeeb e Futrus ka hai yeh naib
   Hakeem e ummat tabeeb Muslim
-  Yeh baat Hasnain ko rulaye
+  Ye baat Hasnain ko rulaye
   Kyun hai mara naqeeb Muslim
 ---
 

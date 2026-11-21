@@ -1,6 +1,6 @@
 ---
 title: "علی ملیں گے"
-alternateTitle: "Ali Milein Gaye"
+alternateTitle: "Ali Mileṅ Ge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,62 +10,62 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mera aqeeda hai mujh se aa kar Ali milein gaye
-  Lehad ke andar falak ke opar Ali milein gaye
+  Mera aqeeda hai mujh se aa kar Ali mileṅ ge
+  Lahad ke andar falak ke opar Ali mileṅ ge
 
   1
-  Rasool jaisay ko Karbala mein madad ki khatir
-  Bashakal-e-Ghazi bashakal-e-Asghar Ali milein gaye
-  Chaley hain Sidrah pe Rab se milne magar yeh sun lein
-  Khuda nahi aye Nabi wahan par Ali milein gaye
+  Rasul jaise ko Karbala mein madad ki khatir
+  Ba shakal-e-Ghazi bashakal-e-Asghar Ali mileṅ ge
+  Chale hain Sidrah pe Rab se milne magar yeh sun lein
+  Khuda nahiṅ ae Nabi wahaaṅ par Ali mileṅ ge
 
   2
   Abhi tu jhutla rahe ho unn ki wila ko lekin
-  Karo gaye kiya jab baroz-e-mehshar Ali milein gaye
+  Karo gaye kiya jab baroz-e-mehshar Ali mileṅ ge
   Hain kun pe qadir magar woh sajday mein sar ko rakh kar
-  Nuseriyat ko laga ke thokar Ali milein gaye
+  Nusairiyat ko laga ke thokar Ali mileṅ ge
 
   3
   Nahi hai aagaz-e-zindagi tu batao kiya hai
-  Jo waqt-e-naza sirhaney aa kar Ali milein gaye
+  Jo waqt-e-naza sirhaney aa kar Ali mileṅ ge
   Yeh Haiderium Qalandarium ki le pukari
-  Jhukao Sehwan mein sar ko aa kar Ali milein gaye
+  Jhukao Sehwan mein sar ko aa kar Ali mileṅ ge
 
   4
   Kissi ne pocha ke dar se Zahra ke pao gaye kiya
-  Yeh bolay Salman our Abuzar Ali milein gaye
+  Yeh bolay Salman our Abuzar Ali mileṅ ge
   Yeh naimaton ka tamam hona bata raha hai
-  Khuda ki har ik atta ka mehwar Ali milein gaye
+  Khuda ki har ik atta ka mehwar Ali mileṅ ge
 
   5
   Nabi ke ashab tu bohat they pa mushkilon mein
-  Kitab-e-Tareekh chup hai keh kar Ali milein gaye
+  Kitab-e-Tareekh chup hai keh kar Ali mileṅ ge
   Koi tu mere maiyar ka ik sawal lao
-  Saloni kehte hoye yeh aksar Ali milein gaye
+  Saloni kehte hoye yeh aksar Ali mileṅ ge
 
   6
   Jo dar pe Zahra ke dil ko rakh kar karey ga sajday
-  Ossi bashar ko Khuda-o-sarwar Ali milein gaye
+  Ossi bashar ko Khuda-o-sarwar Ali mileṅ ge
   Yeh Kuluna tu hai ghar ke logon ki baat lekin
-  Yahan tu inn ke gharon ke nokar Ali milein gaye
+  Yahan tu inn ke gharon ke nokar Ali mileṅ ge
 
   7
   Khuda ne ik dosrey ki khatir jinhein banaya
-  Woh bas hain Zahra ya unn ke shohar Ali milein gaye
-  Hussain ghurbat teri mitanay ko aa rahe hain
-  Tujhe aye karb-o-bala bahatar Ali milein gaye
+  Woh bas hain Zahra ya unn ke shohar Ali mileṅ ge
+  Husain ghurbat teri mitanay ko aa rahe hain
+  Tujhe aye karb-o-bala bahatar Ali mileṅ ge
 
   8
   Haan aik hi waqt ho ga sun lo na aazmao
-  Karo tu dawat tumhare ghar ghar Ali milein gaye
+  Karo tu dawat tumhare ghar ghar Ali mileṅ ge
   Namaz totay na our sail ki jholi bhar de
-  Khuda ke bandon mein banda parwar Ali milein gaye
+  Khuda ke bandon mein banda parwar Ali mileṅ ge
 
   9
   Paray jo deen-e-Nabi pe mushkil tu meri sorat
-  Hussain kehte hain zair-e-khanjar Ali milein gaye
+  Husain kehte hain zair-e-khanjar Ali mileṅ ge
   Jo Naqsh pyason ka gham manaya tu iss ke badlay
-  Wajih hum ko pilaney Kausar Ali milein gaye
+  Wajih hum ko pilaney Kausar Ali mileṅ ge
 ---
 
 میرا عقیدہ ہے مجھ سے آ کر علی ملیں گے

@@ -1,6 +1,6 @@
 ---
-title: "علی مولا ہمارا علی آقا ہمارا ندیم سرور"
-alternateTitle: "Ali Mola Humara Ali Aaqa Hamara Nadeem Sarwar"
+title: "علی مولا ہمارا علی آقا ہمارا"
+alternateTitle: "Ali Maula Hamaara Ali Aaqa Hamaara"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali Mola Humara Ali Aaqa Hamara Nadeem Sarwar
-  Hai Sab Ka Yeh Narah Ali Maula Hamara Ali Aaqa Hamara
-  Koi Rabia Basri Tu Koi Lal Qalandar
-  Koi Bo Ali Shah Hai Tu Koi Hum Sa Hussaini
+  Ali Maula Hamaara Ali Aaqa Hamaara
+  Hai Sab Ka Ye Naara Ali Maula Hamaara Ali Aaqa Hamaara
+  Koi Rabia Basri To Koi Lal Qalandar
+  Koi Bo Ali Shah Hai To Koi Hum Sa Husaini
 
   2
   Seeno Ki Taraf Hath Jo Matam Ko Uthay Hain
-  Rishta Kissi Mazloom Se Yeh Joor Rahe Hain
-  Yeh Munkir-e-Matam Ki Kamar Toor Rahe Hain
-  Yeh Matami Dastay Nahi Haider Ka Hai Lashkar
+  Rishta Kissi Mazloom Se Ye Joor Rahe Hain
+  Ye Munkir-e-Matam Ki Kamar Toor Rahe Hain
+  Ye Matami Dastay Nahi Haider Ka Hai Lashkar
 
   3
   Tareekh Ke Oraaq Ke Munh Mein Jo Zabaan Doon
-  Jo Narah-e-Haider Ki Fazeelat Hai Bata Doon
+  Jo Naara-e-Haider Ki Fazeelat Hai Bata Doon
   Woh Marka Khaybar Ka Tumhein Yaad Dila Doon
   Mushkil Mein Jo Ik Bar Pukarey They Payamber
 
   4
   Narey Tu Bohat Our Bhi Logon Ne Lagaye
-  Narah Koi Aisa Na Tha Khaybar Jo Hilaye
-  Bas Narah-e-Haider Mein Woh Aousaf Hain Sare
+  Naara Koi Aisa Na Tha Khaybar Jo Hilaye
+  Bas Naara-e-Haider Mein Woh Aousaf Hain Sare
   Doba Howa Soraj Bhi Nikalta Hai Ubhar Kar
 
   5
   Aao Dar-e-Haider Ki Taraf Sorat-e-Qanbar
   Iss Dar Ki Jabeen Sayi Banati Hai Qalandar
   Salmaan Yahin Bantay Hain Yahin Meesum-o-Buzar
-  Yeh Dar Tu Badal Deta Hai Hur Ka Bhi Muqadar
+  Ye Dar Tu Badal Deta Hai Hur Ka Bhi Muqadar
 
   6
-  Hoti Hai Yahan Aa Ke Yeh Haq Baat Mukamal
+  Hoti Hai Yahan Aa Ke Ye Haq Baat Mukamal
   Sach Baat Kahey Jao Hama Waqt Musalsal
   Sach Baat Ko Manein Gay Sabhi Aaj Nahi Kal
   Bas Nam-e-Ali Wird Karo Misal-e-Qalandar
 
   7
-  Girtay Hoye Logon Ko Yeh Maidaan Mein Utha Dein
+  Girtay Hoye Logon Ko Ye Maidaan Mein Utha Dein
   Quraan Ki Zabaan Bolna Pathar Ko Sikha Dein
   Tofan Ka Rukh Moor Dein Aandhi Ko Bhaga Dein
-  Yeh Jam-e-Shahadat Peein Qatil Ko Jaga Kar
+  Ye Jam-e-Shahadat Peein Qatil Ko Jaga Kar
 
   8
   Dar Kabay Ki Dewar Mein Qudrat Ne Kiya Ho
@@ -61,7 +61,7 @@ romanLyrics: |-
   9
   Man Kuntu Kahin Jis Ko Nabi Shaks Woh Kya Hai
   Aaqa Wohi Maula Hai Wohi Haq Ki Sada Hai
-  Maula Woh Hamara Hai Nuseri Ka Khuda Hai
+  Maula Woh Hamaara Hai Nuseri Ka Khuda Hai
   Aousaf Kissi Mein Nahi Haider Ke Barabar
 
   10
@@ -84,7 +84,7 @@ romanLyrics: |-
 
   13
   Jo Taig Talay Sajda-e-Mabood Mein Sar Ho
-  Maut Aaye Gi Sajday Mein Jisay Yeh Bhi Khabar Ho
+  Maut Aaye Gi Sajday Mein Jisay Ye Bhi Khabar Ho
   Masroof-e-Boka Oss Liye Kyun Na Bashar Ho
   Woh Jis Ne Na Chalne Diya Islam Pe Khanjar
 
@@ -95,7 +95,7 @@ romanLyrics: |-
   Marqad Mein Boka Kartay They Woh Khak Ura Kar
 
   15
-  Woh Asar Ka Hangam Woh Shabeer Ka Sajdah
+  Woh Asar Ka Hangam Woh Shabbir Ka Sajdah
   Woh Pyas Woh Garmi Woh Chamakta Howa Darya
   Uth Uth Ke Woh Girta Howa Ik Khaimay Ka Pardah
   Aati Thi Dar-e-Khaima Se Aawaz Barabar
@@ -108,7 +108,7 @@ romanLyrics: |-
 ---
 
 ۱
-علی مولا ہمارا علی آقا ہمارا ندیم سرور
+علی مولا ہمارا علی آقا ہمارا
 ہے سب کا یہ نعرہ علی مولا ہمارا علی آقا ہمارا
 کوئی رابعہ بصری تو کوئی لال قلندر
 کوئی بو علی شاہ ہے تو کوئی ہم سا حسینی

@@ -1,6 +1,6 @@
 ---
 title: "علماں والے دے پیو نوں وچ مسجد دے"
-alternateTitle: "Almaa Wale De Piyo Nu Wich Masjid De"
+alternateTitle: "Almaaṅ Wale De Piyo Nu Vich Masjid De"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -8,20 +8,20 @@ kalamType: "Other"
 aliases: []
 published: false
 romanLyrics: |-
-  Almaa Wale De Piyo Nu Wich Masjid De Mariya Aye
-  Roza Haliya Aye Nabiyaan De Shehanshah Da Haye Fatima Zahra Da Ghar Kyun Ujariya Aye
+  Almaaṅ Wale De Piyo Nu Wich Masjid De Mariya Ae
+  Rauza Haliya Ae Nabiyaan De Shehanshah Da Hae Fatima Zehra Da Ghar Kiun Ujariya Ae
 
   1
-  Kulsoom Ro Le Pehle Zainab V Wain Pa Le Piyo Di Maiyyat Te
-  Abbas Te Ruqaiya Nu Baba Keh Ke Rowan Taun Maa Ne Rokiya Aye
-  Sharmaan Di Pak Malik Aye Hosla Wikhaya Zakhmi Babay Da
-  Aj Samne Khalu Ke Aye Pehli Waar Ro Ke Munh Raj Ke Wekhiya Aye
+  Kulsum Ro Le Pehle Zainab Vi Wain Pa Le Piyo Di Mayyat Te
+  Abbas Te Ruqayya Nu Baba Keh Ke Rowan Toṅ Maa Ne Rokiya Ae
+  Sharmaan Di Pak Malik Ae Hosla Wikhaya Zakhmi Babay Da
+  Aj Samne Khalu Ke Ae Pehli Waar Ro Ke Munh Raj Ke Wekhiya Ae
 
   2
-  Babay De Baaj Kiwein Watna Te Onay Jana Aye Te Oh Jane
-  Pardais De Wich Maiyyat Veraan De Naal Jis Ne Babay Da Toriya Aye
-  Tere Laran De Badlay Zainab Taun Lainay Lokaan Kar Ke Sham Walay
-  Bazar Yaad Sare Abbas Nu Laran Taun Hasnain Rokiya Aye
+  Babay De Baaj Kiwein Watna Te Onay Jana Ae Te Oh Jane
+  Pardais De Wich Mayyat Veraan De Naal Jis Ne Babay Da Toriya Ae
+  Tere Laran De Badlay Zainab Toṅ Lainay Lokaan Kar Ke Sham Walay
+  Bazar Yaad Sare Abbas Nu Laran Toṅ Hasnain Rokiya Ae
 ---
 
 علماں والے دے پیو نوں وچ مسجد دے ماریا اے

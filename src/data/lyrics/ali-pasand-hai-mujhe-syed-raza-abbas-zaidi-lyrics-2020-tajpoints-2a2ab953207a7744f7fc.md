@@ -11,30 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali pasand hai mujhe Syed Raza Abbas Zaidi
   Dam hama dam Ali Ali Ali Maula
   Haider Haider Haider Haider
   Jalal-e-Zuljalal hai Ali Ali
-  Khuda ka hum khiyal hai Ali Ali
+  Khuda ka hum khayaal hai Ali Ali
   Bulandiyaan yeh dekh ke pukara dil mera
-  Ali pasand hai bohat pasand hai Ali pasand hai mujhe
-  Rajab ki terhwin ko yeh buttoon se Kaba bool utha
+  Ali pasand hai bahut pasand hai Ali pasand hai mujhe
+  Rajab ki terhviṅ ko yeh butoṅ se Kaaba bol utha
   Chalo yahan se jao ab tha jitna rehna reh liya
-  Khuda ka hai yeh faisla hai jis ka ghar woh aa gaya
+  Khuda ka hai yeh faisla hai jis ka ghar wo aa gaya
   Nahi pasand mujh ko tum mujhe tu bas mera
-  Manao jashan yeh kaha Khuda ne khud khudai se
-  Miley hain aaj Mustafa zameen pe apne bhai se
+  Manao jashan yeh kaha Khuda ne khud Khudai se
+  Mile hain aaj Mustafa zameen pe apne bhai se
   Nabi ki gaud mein Ali jab aaye tu nazar
   Ali jo muskuraye tu yeh bolay Mustafa
   Na jane kitne loag they jo so sakay na raat bhar
   They muntazir Batool ka bany ga kaun hum safar
   Sitara arsh se chala liye riza-e-Fatima
-  Ali ke dar pe aa ke yeh sitara bool utha
-  Mujhe pasand nahi hai kissi ki baat karo
+  Ali ke dar pe aa ke yeh sitara bol utha
+  Mujhe pasand nahiṅ hai kissi ki baat karo
   Khuda ke baad Khuda ke wali ki baat karo
   Farishton qabar mein kaisay sawal kaisay jawab
   Ab aa gaye ho tu baitho Ali ki baat karo
-  Liye kitab hath mein har ik hisab mangney
+  Liye kitab haath mein har ik hisab mangney
   Farishtay qabar mein jab aa gaye jawab mangney
   Main mutmain tha sath hai mere liye nijat hain
   Farishtay kuch na keh sakay yeh main ne jab kaha
@@ -42,36 +41,35 @@ romanLyrics: |-
   Ali ka ishq sath hai tu jan kya zaban kya
   Hai had mere janoon ki na rook paye ga koi
   Tu jitni bar poch le kahon ga main sada
-  Khaybar mein jab Ali ko Muhammad ne di sada
+  Khaibar mein jab Ali ko Muhammad ne di sada
   Sun kar sada Ali ne yeh rahwar se kaha
   Chal aye Mujalli hum ko bulatay hain Mustafa
   Aisay pohanch ke teri muqalid banay hawa
-  Dora woh oss tarha ke hawa kanpne lagi
+  Dora wo oss tarha ke hawa kanpne lagi
   Kehta tha har qadam pe Mujalli Ali Ali
   Aaein gay kis tarha se Ali bas yeh soch kar
-  Khaybar mein sab ke lab pe rawaan tha agar magar
+  Khaibar mein sab ke lab pe rawaan tha agar magar
   Nazrein jami hoin thin Madine ki rah par
   Kehne lagay yeh Hazrat-e-Salman dekh kar
   Kyun dekhtey ho rah tum itnay dehyan se
-  Woh dekho aa rahe hain Ali aasman se
+  Wo dekho aa rahe hain Ali aasman se
   Pohanchay Ali salam Nabi ko kiya ada
   Parcham diya Nabi ne chala shair-e-kibriya
   Marhab ko iss tarha se pachara na uth saka
   Har simt wird-e-nam-e-Ali gonjney laga
-  Khaybar ka dar ukhar ke phainka Ali ne jab
+  Khaibar ka dar ukhar ke phainka Ali ne jab
   Kehne lagay yeh dekh ke ashiq Ali ke sab
-  Ali ka hath tham kar Nabi ne Khum mein yeh kaha
+  Ali ka haath tham kar Nabi ne Khum mein yeh kaha
   Baghor dekh lein sabhi yehi hai jansheen mera
   Kaha yeh jab Rasool ne hain sab ke Maula aaj se
   Tu jhoom ke har ashiq-e-Ali ne di sada
   Zeeshan ho ya Raza ho sab hain tere dar ke nokar (Maula)
   Shah Shams Sachal Bhattai Khuwaja hoon ya hoon Qalandar
   Mila hai sab ko martaba yeh sab hai bas karam tera
-  Wohi bana wali ke jis ke lab pe wird tha
+  Woi bana wali ke jis ke lab pe wird tha
 ---
 
 ۱
-علی پسند ہے مجھے سید رضا عباس زیدی
 دم ہمہ دم علی علی علی مولا
 حیدر حیدر حیدر حیدر
 جلالِ ذوالجلال ہے علی علی

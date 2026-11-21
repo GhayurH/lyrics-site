@@ -1,6 +1,6 @@
 ---
 title: "علی پہ ظلم کی جو"
-alternateTitle: "Ali Pay Zulm Ki Jo"
+alternateTitle: "Ali Pe Zulm Ki Jo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,8 +10,8 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ali pay zulm ki jo hoti inteyha dekhi
-  Har ek beti ki roti howi rida dekhi
+  Ali pe zulm ki jo hoti intiha dekhi
+  Har ek beti ki roti hui rida dekhi
 
   2
   Jo kul e eema o wajhay Khuda pay zarab chali
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   5
   Galay Hussain ko mola nay lagaya shaiyad
-  Lahoo may doobi howi arzay Karbala dekhi
+  Lahoo may doobi hui arzay Karbala dekhi
 
   6
   Kuch esa kar kay dekhana hai bolay Ghazi say
