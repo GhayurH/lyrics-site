@@ -1,6 +1,6 @@
 ---
 title: "اصغر آجا اصغر آجا"
-alternateTitle: "Aaja Ay Laal Asghar"
+alternateTitle: "Asghar Aa Ja Asghar Aa Ja"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,61 +10,71 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Asghar aa ja Asghar aa ja
+  Veeran aa ja veeran aa ja
+  Aa ja ae Lal Asghar jhula jhulaun aa ja
+
   1
-  Asghar aaja asghar aaja
-  Veeran aaja veeran aaja
-  Aaja ae laal asghar jhula jhulauṅ aaja
-  Paaya na tin din se pani ka tu ne khatra
-  Gul ki tarha se beta nazuk hai jism tera
-  Shole ugal rahi hai ran ki zamiṅ aaja
-  Aaja ae laal asghar...
-  Socha nahi tha aise lut jayegi kameini
-  Is kamsini meiṅ teri ho jayegi judaai
-  Tere baghair beta kis kaam hai dunya
-  Aaja ae laal asghar...
-  Zufeiṅ teri sawaruṅ chehra tera sajauṅ
-  Teri balayieṅ leluṅ sadqa tea utaaruṅ
-  Maangu duayeiṅ rab se jine ki tere beta
-  Aaja ae laal asghar...
-  Tufaṅ utha rahe hai har simt zalzaleiṅ hai
-  Aandhi bhi chal rahi hai qaime bhi jal rahe hai
-  Aaja ke jald beta ab jal na jaaye jhula
-  Aaja ae laal asghar...
+  Paaya na teen din se paani ka tu ne qatra
+  Gul ki tarah se beta naazuk hai jism tera
+  Shole ugal rahi hai ran ki zameen aa ja
+
+  2
+  Socha nahi tha aise lut jayegi kamai
+  Is kamsini mein teri ho jayegi judai
+  Tere baghair beta kis kaam hai duniya
+
+  3
+  Zulfen teri sanwarun chehra tera sajaun
+  Teri balayen le lun sadqa tera utarun
+  Maangun duayen Rab se jeene ki tere beta
+
+  4
+  Tufan utha raha hai har simt zalzale hain
+  Aandhi bhi chal rahi hai khaime bhi jal rahe hain
+  Aa ja ke jald beta ab jal na jaye jhula
+
+  5
   Tere baghair kaise ab chain se rahungi
-  Asghar mai tujhko khokar pal bhar na ji sakungi
-  Maadar ko bhi bulaale tu jis jagah hai beta
-  Aaja ae laal asghar...
-  Zahid wo tera nauha mohsin suna raha hai
-  Har maa ke dil ka armaaṅ isme raqam hua hai
-  Tufan e gham hai isme hai hasratoṅ ka darya
-  Aaja ae laal asghar...
+  Asghar main tujh ko kho kar pal bhar na ji sakungi
+  Madar ko bhi bula le tu jis jagah hai beta
+
+  6
+  Zahid woh tera noha Mohsin suna raha hai
+  Har maan ke dil ka arman is mein raqam hua hai
+  Tufan-e-gham hai is mein hai hasraton ka darya
 ---
 
-۱
 اصغر آجا اصغر آجا
 ویراں آجا ویراں آجا
-آجا اے لال اصغر جھولا جھلاوں آجا
-پایا نہ تین دن سے پانی کا تو نے خطرہ
+آجا اے لال اصغر جھولا جھلاؤں آجا
+
+۱
+پایا نہ تین دن سے پانی کا تو نے قطرہ
 گل کی طرح سے بیٹا نازک ہے جسم تیرا
 شعلے اگل رہی ہے رن کی زمیں آجا
-آجا اے لال اصغر۔۔۔
-سوچا نہیں تھا ایسے لٹ جاے گی کمای
-اس کمسنی میں تیری ہو جاے گی جدائی
+
+۲
+سوچا نہیں تھا ایسے لٹ جائے گی کمائی
+اس کمسنی میں تیری ہو جائے گی جدائی
 تیرے بغیر بیٹا کس کام ہے دنیا
-آجا اے لال اصغر۔۔۔
-ذوالفیں تیری سواروں چہرہ تیرا سجاؤں
-تیری بلاییں لے لوں صدقہ تیرا اتاروں
-مانگو دعائیں رب سے جینے کی تیرے بیٹا
-آجا اے لال اصغر۔۔۔
-طوفاں اٹھا رہا ہے ہر سمت زلزلیں ہیں
+
+۳
+زلفیں تیری سنواروں چہرہ تیرا سجاؤں
+تیری بلائیں لے لوں صدقہ تیرا اتاروں
+مانگوں دعائیں رب سے جینے کی تیرے بیٹا
+
+۴
+طوفاں اٹھا رہا ہے ہر سمت زلزلے ہیں
 آندھی بھی چل رہی ہے خیمے بھی جل رہے ہیں
-آجا کہ جلد بیٹا اب جل نہ جاے جھولا
-آجا اے لال اصغر۔۔۔
+آجا کہ جلد بیٹا اب جل نہ جائے جھولا
+
+۵
 تیرے بغیر کیسے اب چین سے رہوں گی
-اصغر میں تجھکو کھو کر پل بھر نہ جی سکوں گی
-مادر کو بھی بلالے تو جس جگہ ہے بیٹا
-آجا اے لال اصغر۔۔۔
+اصغر میں تجھ کو کھو کر پل بھر نہ جی سکوں گی
+مادر کو بھی بلا لے تو جس جگہ ہے بیٹا
+
+۶
 زاہد وہ تیرا نوحہ محسن سنا رہا ہے
 ہر ماں کے دل کا ارماں اس میں رقم ہوا ہے
-طوفان غم ہے اس میں ہے حسرتوں کا دریا
-آجا اے لال اصغر۔۔۔
+طوفانِ غم ہے اس میں ہے حسرتوں کا دریا
