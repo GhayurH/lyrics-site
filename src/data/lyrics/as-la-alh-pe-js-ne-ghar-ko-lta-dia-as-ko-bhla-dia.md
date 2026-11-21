@@ -1,6 +1,6 @@
 ---
 title: "اِس لا الہ پہ جس نے گھر کو لٹا دیا اُس کو بھلا دیا"
-alternateTitle: "Is La-Ilah Pe Jis Ne Ghar Ko Luta Diya Us Ko Bhula Diya"
+alternateTitle: "Is La Ilaha Pe Jis Ne Ghar Ko Luta Diya Us Ko Bhula Diya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,53 +9,53 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Is la-ila pe jis ne ghar ko luta diya
-  Us ko bhula dia tum kaise kalma go ho
+  Is la ilaha pe jis ne ghar ko luta diya
+  Us ko bhula diya tum kaise kalma go ho
 
   1
-  Sajde may jis ne apna,  sar bhi kata dia
+  Sajde meiṅ jis ne apna,  sar bhi kata diya
 
   2
-  Tum apni ghairaton ko bazar may phirao
+  Tum apni ghairaton ko bazar meiṅ phiraao
   Royain gay ham kabhi na
-  Apna maiyar e ghairat dunya ko tum dikao
+  Apna miyaar e ghairat duniya ko tum dikhaao
   Royain gay ham kabhi na
-  Ghairat teri ko jis ne,  sharm o haya dia
+  Ghairat teri ko jis ne,  sharm o haya diya
 
   3
   Insaniat ke jis dam sansan atak rahi theen
-  Kis ne dia sahara
-  Dunya may jab shariat dar dar bhatak rahi thi
-  Kis ne dia sahara
-  Woh haq parast jis ne,  haq se mila dia
+  Kis ne diya sahara
+  Dunya meiṅ jab shariat dar dar bhatak rahi thi
+  Kis ne diya sahara
+  Woh haq parast jis ne,  haq se mila diya
 
   4
-  Aey moatriz bata yeh kaabay pe sang bari
-  Yeh kaisa deen hay
+  Aey moatriz bata ye kaabay pe sang bari
+  Ye kaisa deen hay
   Aal e nabi ke dushman Islam se ayari
-  Yeh kaisa deen hay
-  Baatil ke rukh se parda,  jis ne hata dia
+  Ye kaisa deen hay
+  Baatil ke rukh se parda,  jis ne hata diya
 
   5
   Ye Karbala na hoti aala kabhi na hoti
   Tum kalma go na hotay
-  Dunya may la ilah ki pehchan kabhi na hoti
+  Dunya meiṅ la ilah ki pehchan kabhi na hoti
   Tum kalma go na hotay
-  Tuhfe may jis ne tum ti yeh La ilah dia
+  Tuhfe meiṅ jis ne tum ti ye La ilah diya
 
   6
   Insaniat na hoti, insaniat na hoti
-  Hoti yazeediat gar
+  Hoti yazeediyat gar
   Sab but parast hotay wahdaniat na hoti
-  Hoti yazeediat gar
-  Jist ne yazeediat ka naqsha mita dia
+  Hoti yazeediyat gar
+  Jist ne yazeediyat ka naqsha mita diya
 
   7
   Naqvi Nabi ke ghar ka kuch darad in ko hota
-  Matam may ye bhi aatay
-  Khon e Hussain ka gar kuch pas in ko hota
-  Matam may ye bhi aatay
-  Gardan kata ke jist ne jeena sikha dia
+  Matam meiṅ ye bhi aatay
+  Khon e Husain ka gar kuchh paas in ko hota
+  Matam meiṅ ye bhi aatay
+  Gardan kata ke jist ne jeena sikha diya
 ---
 
 اِس لا الٰہ پہ جس نے گھر کو لٹا دیا

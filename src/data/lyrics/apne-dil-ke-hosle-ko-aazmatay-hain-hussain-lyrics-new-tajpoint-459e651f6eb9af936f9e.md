@@ -1,6 +1,6 @@
 ---
 title: "اپنے دل کے حوصلے کو آزماتے ہیں حسین"
-alternateTitle: "Apne Dil Ke Hosle Ko Aazmatay Hain Hussain"
+alternateTitle: "Apne Dil Ke Hausle Ko Aazmaate Haiṅ Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Apne dil ke hosle ko aazmatay hain Hussain
-  Lash Akbar ki akelay hi uthatay hain Hussain
+  Apne dil ke hausle ko aazmaate hain Husain
+  Lash Akbar ki akele hi uthaate hain Husain
 
   1
-  Apne hathoon se zameen par dhondtay hain lash ko
-  Chaar so Akbar ko aawazein lagatay hain Hussain
-  Ghair kar Akbar ke qatil kartay hain gustakhiyan
-  Jab sada de kar Ali Akbar bulatay hain Hussain
+  Apne haathoṅ se zamin par dhoondte hain laash ko
+  Chaar so Akbar ko aawaazeṅ lagatay hain Husain
+  Gher kar Akbar ke qatil kartay hain gustakhiyan
+  Jab sada de kar Ali Akbar bulaate hain Husain
 
   2
   Kis tarha zahir karein woh hal-e-dil aoulad par
-  Aanson ko zakhmi betay se chupatay hain Hussain
+  Aanson ko zakhmi betay se chupatay hain Husain
   Shano par zakhmi pisar hai our aada chaar so
-  Pathron se betay ki maiyyat bachatay hain Hussain
+  Pathron se betay ki maiyyat bachatay hain Husain
 
   3
   Khaimon tak jane mein Akbar dam na apna torna
-  Muntazir hain Umm-e-Laila kehte jate hain Hussain
+  Muntazir hain Umm-e-Laila kehte jate hain Husain
   Maa ne tazeeman bicha di khak par sar ki rida
-  Lash hum shakal-e-nabi ki khaimay latay hain Hussain
+  Lash hum shakal-e-nabi ki khaimay latay hain Husain
 
   4
-  Chom letey hain kabhi ja kar Ali Akbar ki lash
-  Hosla aa kar kabhi maa ka barhatay hain Hussain
+  Chom letey hain kabhi ja kar Ali Akbar ki laash
+  Hosla aa kar kabhi maa ka barhatay hain Husain
   Yeh khat-e-sughra hai yeh poshaak yeh dastar hai
-  Hasraton ko lash ke har so bichatay hain Hussain
+  Hasraton ko laash ke har so bichatay hain Husain
 
   5
   Le ke aaye they Ali Akbar ko khaimon mein abhi
-  Ab Ali Asghar ko le ke ran mein jate hain Hussain
-  Apne ik ik ladlay ki lash Akbar dhondh kar
-  Khaima e Zainab ke pichey rakhtay jate hain Hussain
+  Ab Ali Asghar ko le ke ran mein jate hain Husain
+  Apne ik ik ladlay ki laash Akbar dhondh kar
+  Khaima e Zainab ke pichhe rakhtay jate hain Husain
 ---
 
 اپنے دل کے حوصلے کو آزماتے ہیں حسین

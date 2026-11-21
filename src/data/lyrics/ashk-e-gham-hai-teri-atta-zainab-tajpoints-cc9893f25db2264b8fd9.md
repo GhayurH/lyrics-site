@@ -1,6 +1,6 @@
 ---
 title: "اشکِ غم ہے تیری عطا زینب"
-alternateTitle: "Ashk-e-Gham Hai Teri Atta Zainab"
+alternateTitle: "Ashk-e-Gham Hai Teri Ata Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,39 +10,39 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Dono aalam ki pardah dari ho teri nalain pe fida Zainab
+  Dono aalam ki parda daari ho teri nalain pe fida Zainab
 
   1
   Apne baba ki pak seerat bhi baap ka hosla bhi dikhlaya
-  Gayi darbar mein Hasan bach kar sabar-e-Shabeer ko bhi dohraya
-  Kiya darbar-e-Sham mein tu ne maa ke khutbay ka tarjuma Zainab
+  Gayi darbaar mein Hasan bach kar sabr-e-Shabbir ko bhi dohraya
+  Kiya darbaar-e-Shaam mein tu ne maa ke khutbe ka tarjuma Zainab
   Tere baba sa hai padar koi na koi maa hai teri madar si
   Na mohafiz hai koi Ghazi sa na hi chadar hai teri chadar si
-  Our tere Hasan Hussain sa bhi koi bhai nahi howa Zainab
+  Aur tere Hasan Husain sa bhi koi bhai nahiṅ hua Zainab
 
   2
   Ro paray be kafan janazay bhi dekh kar tera hosla bibi
-  Tu ne aankhon ke samne dekha kattay Shabeer ka gala bibi
-  Khon khanjar ka ponchne ke liye kam aayi teri rida Zainab
+  Tu ne aankhon ke samne dekha kattay Shabbir ka gala bibi
+  Khun khanjar ka ponchne ke liye kam aayi teri rida Zainab
   Zakhm hi zakhm hain sahey tu ne Sheh ke maqtal se qaid khane tak
-  Aazmaye gaye sabhi tujh par kund khanjar se taziyane tak
-  Had tu yeh hai barastay sholon mein tu ne sajdah ada kiya Zainab
+  Aazmaae gaye sabhi tujh par kund khanjar se taziyane tak
+  Had tu yeh hai baraste sholon mein tu ne sajdah ada kiya Zainab
 
   3
-  Solah so meel tak barehna sar Shamiyon ne tujhe phiraya hai
+  Solah so meel tak barehna sar Shaamiyon ne tujhe phiraya hai
   Ibn-e-Nofal ne mar kar naiza rastay bhar tujhe jagaya hai
-  Tu hai Shabeer ki behan oss ka kar diya tu ne haq ada Zainab
+  Tu hai Shabbir ki behan oss ka kar diya tu ne haq ada Zainab
   Ajar itna mila risalat ka tere chehray ka rang badla hai
-  Our jahan se guzar howa tera ossi rastay ka rang badla hai
+  Aur jahan se guzar hua tera ossi rastay ka rang badla hai
   Tha Hasan ke kafan ke jaisa hi rang tere libas ka Zainab
 
   4
   Tera Ghazi jo sehan-e-ismat mein bhi tere naqsh-e-pa mitata tha
-  Baat karta tu tere qadmo se apni nazrein nahi uthata tha
-  Kaisay dekha hai Sham tak oss ne tujh ko naizay se be rida Zainab
-  Zakhm-e-madar mila tha Yasrab mein khums Kofay mein phir yateemi ka
-  Phir Hasan our Karbala ka gham dard phir Sham our Sakina ka
-  Zindagi mein hoi nahi Muhsin ranj-o-gham se kabhi raha Zainab
+  Baat karta tu tere qadmo se apni nazrein nahiṅ uthata tha
+  Kaisay dekha hai Shaam tak oss ne tujh ko naizay se be rida Zainab
+  Zakhm-e-madar mila tha Yasrab mein khums Kufe mein phir yateemi ka
+  Phir Hasan our Karbala ka gham dard phir Shaam our Sakina ka
+  Zindagi mein hoi nahiṅ Muhsin ranj-o-gham se kabhi raha Zainab
 ---
 
 دونوں عالم کی پردہ داری ہو تیری نعلین پہ فدا زینب

@@ -1,67 +1,67 @@
 ---
 title: "السلام علیک یا سیدہ الوداع الوداع سیدہ الوداع"
-alternateTitle: "Asalam O Alaika Ya Sayeda Alwida Alwida Sayeda Alwida"
-language: "Urdu"
-lang: "ur"
+alternateTitle: "Assalaam Alaika Ya Sayyida Alvida Sayyida Alvida"
+language: "Panjabi"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Asalam o alaika ya Sayeda
-  Alwida alwida Sayeda alwida
+  Assalaam alaika ya Sayyida
+  Alwida alwida Sayyida alwida
 
   1
-  Haye rang li jawani Akbar di
-  Haye tashnadahani ashgar di
-  Jeri pal vich huee yeh fana Sayeda
+  Haaye rang li jawani Akbar di
+  Haaye tashnadahani Asghar di
+  Jehri pal vich hui yeh fana Sayyida
 
   2
-  Jeda tur paye Zainab veer kuhan
+  Jehra tur paye Zainab veer kuhan
   Kahin vaar chali vich Karbobala
-  Aaye kapay huee gal chon sada Sayeda
+  Aaye kapay hui gal chon sada Sayyida
 
   3
   Sab lashay taraptay rehgaye hain
-  Ab lashon pay aakay kehnday hain
-  Jeda tur paye rasiyan paa Sayeda
+  Ab lashon pay aakay kehnde hain
+  Jehra tur paye rasiyan paa Sayyida
 
   4
   Akbar Asghar paye rhondain hin
-  Qasim day tukray tarapday hin
-  Haye rhondain sab shohoda Sayeda
+  Qasim de tukray tarapde hin
+  Haaye rhondain sab shohoda Sayyida
 
   5
   Ro Fazal da baba aandha haan
-  Jeda suraj sharam karenda haan
-  Chin gaye teri pak rida Sayeda
+  Jehra suraj sharam karenda haan
+  Chin gaye teri pak rida Sayyida
 
   6
   Meri seenay samar di aandhi hain
-  Ro laash Hussain di aandhi hain
-  Meri dhi kun seenay la Sayeda
+  Ro laash Husain di aandhi hain
+  Meri dhi kun seenay la Sayyida
 
   7
   Kithay bachri Mushkil Kusha di hai
-  Nanay da deen bacha Sayeda
+  Nanay da deen bacha Sayyida
 
   8
-  Jeda par Jabril te samda haan
-  Gaya khaak te dere la Sayeda
+  Jehra par Jabril te samda haan
+  Gaya khaak te dere la Sayyida
 
   9
   Tera sar kateya mera ghar lutiya
-  Dovay ujray behn bhira Sayeda
+  Dovay ujray behn bhira Sayyida
 
   10
   Chakki pees ke Zahra ne paala jissay
-  Sar hai naizay pe uska chara Sayeda
+  Sar hai naizay pe uska chara Sayyida
 
   11
-  Main kafan day vich vi rovangi
-  Meri lut layi Shimr rida Sayeda
-  Ho salam aakhri sada Sayeda
+  Main kafan de vich vi rovaaṅ gi
+  Meri lut layi Shimr rida Sayyida
+  Ho salam aakhri sada Sayyida
 ---
 
 السلام علیک یا سیدہ

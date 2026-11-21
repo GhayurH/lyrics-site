@@ -1,6 +1,6 @@
 ---
 title: "أنا مجنون الحسين"
-alternateTitle: "Ana Majnoon Al Hussain"
+alternateTitle: "Ana Majnun al-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,17 +9,17 @@ poet: "Akbar"
 aliases: []
 published: false
 romanLyrics: |-
-  Dewana-e-Hussain hoon
+  Diwaana-e-Husain huṅ
 
   1
-  Shabeer ka main hoon dewana aa maut mujhe seene se laga
-  Chehray ki siyahi noor bani maqtal ki taraf jab jaun chala
-  Our aakhri lamhey mein paya Shabeer ke zanu ka takiya
+  Shabbir ka main huṅ diwaana aa maut mujhe seene se laga
+  Chehre ki siyahi noor bani maqtal ki taraf jab jaauṅ chala
+  Aur aakhri lamhe mein paaya Shabbir ke zanu ka takiya
   Aaram mila jab dard utha har zakhm ne khul kar di yeh sada
 
   2
-  Shabeer ke dast qudrat mein Esa se zyada qudrat hai
-  Hathoon ka hunar phir kya hoga gehwarey mein jab yeh taqat hai
+  Shabbir ke dast qudrat mein Isa se zyada qudrat hai
+  Hathuṅ ka hunar phir kya hoga gehwarey mein jab yeh taqat hai
   Fitrus ne jo baal-o-par paye jholay se lipat kar kehne laga
   Sar kab se rakha hai sajday mein tasbeeh ki kya tadad hoi
 
@@ -31,15 +31,15 @@ romanLyrics: |-
 
   4
   Ghazi ki zabaan mein kehta hai ab tak yeh alam lehrata howa
-  Hum Karb-o-Bala ke dewanay jab taziya le kar chalte hain
+  Hum Karb-o-Bala ke diwaanay jab taziya le kar chalte hain
   Ashor ke din bhokay pyasay mazloom ka matam kartay hain
-  Gir gir ke sadaein deta hai behtay hoye khoon ka har qatra
+  Gir gir ke sadaein deta hai behtay hoye khuṅ ka har qatra
 
   5
   Tewar yeh batatay they oss ke aye bani-e-shar ik teer hai kya
-  Main dhaal hoon apne baba ki lashkar ke tu sare teer chala
+  Main dhaal huṅ apne baba ki lashkar ke tu sare teer chala
   Asghar ne tabasum ki sorat maqtal mein rajaz bas itna parha
-  Pohancha jo dar-e-Shabeer pe woh marzi-e-Shah-e-Abrar mili
+  Pohancha jo dar-e-Shabbir pe woh marzi-e-Shah-e-Abrar mili
 
   6
   Romal-e-Batool ki sorat mein anmool ossay dastar mili
@@ -48,10 +48,10 @@ romanLyrics: |-
   Makkay ki zameen ko chor ke woh khud Karb-o-Bala mein aa pohanchay
 
   7
-  Har waqt Hussain ke rozay ka yeh parh ke tawaf karey Kaba
-  Socho tu sahi aye Mir Hasan, lamhey woh bhala kaisay hoon gay
-  Jab bazm-e-Imam-e-Mehdi mein tum shair parho gay Akbar ke
-  Our sath tumhare mehfil mein har shaks yehi kehta hoga
+  Har waqt Husain ke rozay ka yeh parh ke tawaf karey Kaba
+  Socho tu sahi aye Mir Hasan, lamhe woh bhala kaise huṅ gay
+  Jab bazm-e-Imam-e-Mehdi mein tum sher parho ge Akbar ke
+  Aur saath tumhare mehfil mein har shaks yehi kehta hoga
 ---
 
 دیوانۂ حسین ہوں

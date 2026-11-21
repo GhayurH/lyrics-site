@@ -1,7 +1,7 @@
 ---
 title: "انا مجنونِ علی فقیرِ مولا"
 recitationId: "anna-majnoonal-ali-faqeer-e-mula"
-alternateTitle: "Ana Majnunal Ali Faqir-e-Maula"
+alternateTitle: "Ana Majnun-e-Ali Faqir-e-Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

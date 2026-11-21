@@ -1,6 +1,6 @@
 ---
 title: "عشقِ شبیرؑ نہیں دل میں براۓ جنت"
-alternateTitle: "Ishqe Shabbir Nahi Dil Mein Baraye Jannat"
+alternateTitle: "Ishq-e-Shabbir Nahiṅ Dil Mein Baraae Jannat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,16 +9,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ishqe Shabbir nahi dil mein baraye jannat
-  Hoon azadaar nahi rakhta wilaye jannat
+  Ishq-e- Shabbir nahiṅ dil mein baraae jannat
+  Huṅ azadaar nahiṅ rakhta wila-e jannat
 
   1
-  Jis ne Shabbir ke rozay ki ziyarat karli
-  Kuch nazar aata nahi usko siwaye jannat
+  Jis ne Shabbir ke roze ki ziyarat kar li
+  Kuch nazar aata nahiṅ us ko siwaae jannat
 
   2
-  Karbala dekh tera bakht badalne ko Hussain
-  Apne paaon ke talay sath le aaye jannat
+  Karbala dekh tera bakht badalne ko Husain
+  Apne paaon ke tale saath le aaye jannat
 
   3
   Ye bahatar ka hai aijaaz-e-taharat warna
@@ -29,12 +29,12 @@ romanLyrics: |-
   Jaa ke Rizwan se kaho aisi sajaye jannat
 
   5
-  Aur dar pe Rizwan khara hai nahi janay de ga
+  Aur dar pe Rizwan khara hai nahiṅ janay de ga
   Munkir-e-Aal-e-Nabi jaa ke dikhaye jannat
 
   6
   Kam nazar ghor se tu parchame Abbas ko dekh
-  Hum liye phirte hain hathon pe uthaye jannat
+  Hum liye phirte hain haathoṅ pe uthaye jannat
 
   7
   Aur tu bhi Hurr ban jaa to phir mujh se shikayat karna
@@ -42,11 +42,11 @@ romanLyrics: |-
 
   8
   Unki nazron mein bhala khuld ki keemat kya ho
-  Array jinka deewana bhi kya hathon se banaye jannat
+  Are jinka deewana bhi kya haathoṅ se banaye jannat
 
   9
   Baad marne ke Khuda se yeh kahe ga Yasir
-  Bhej de Karbobala mujhko bajaye jannat
+  Bhej de Karb o Bala mujh ko bajaye jannat
 ---
 
 عشقِ شبیرؑ نہیں دل میں برائے جنت

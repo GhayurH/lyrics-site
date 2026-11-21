@@ -1,6 +1,6 @@
 ---
-title: "اوّل و آخر ایلیا جون رضوی"
-alternateTitle: "Awal O Aakhir Aeeliya Joan Rizvi"
+title: "اوّل و آخر ایلیا"
+alternateTitle: "Awwal o Aakhir Aeliya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Aala hai Ali, aali hai Ali, Quraan hai Ali, burhaan hai Ali
-  Sultan-e-zaman, har dil ka chaman, qayam bhi Ali, daim bhi Ali
-  Hazir bhi Ali, nazir bhi Ali, kul aalam ka, nasir bhi Ali
-  Ghuti mein piya, yehi naam liya, har sans jiya, Ali Ali hi kiya
-  Iss mein nahi shak, yeh baat hai haq, hai nafs-e-Nabi, Allah talak
-  Aeliya Aeliya awwal-o-aakhir Aeliya, fatah-e-Khaybar Aeliya, Ali maula Ali maula
+  Sultaan-e-zamaaṅ, har dil ka chaman, qaayim bhi Ali, daim bhi Ali
+  Haazir bhi Ali, naazir bhi Ali, kul aalam ka, nasir bhi Ali
+  Ghutti mein piya, yei naam liya, har saaṅs jiya, Ali Ali hi kiya
+  Is mein nahi shak, ye baat hai haq, hai nafs-e-Nabi, Allah talak
+  Aeliya Aeliya awwal-o-aakhir Aeliya, faateh-e-Khaibar Aeliya, Ali maula Ali maula
 
   1
-  Ali ilm-e-Khuda ka waris hai yeh baat Aadam bhi manta hai
+  Ali ilm-e-Khuda ka waris hai ye baat Aadam bhi manta hai
   Qudrat jo Ali ke hath mein hai Jibreel ossay pehchanta hai
   Banda hai Ali par kam Khuda ke sare hi woh janta hai
   Allah ka mehram Haiderrr hai waris-e-Aadam Haiderrr
@@ -26,8 +26,8 @@ romanLyrics: |-
   Woh Ali hai, woh Ali hai, woh Ali hai
 
   2
-  Kiya ishq-e-Ali ke nashay mein, Meesum ne daar pe yeh ayelan
-  Subh-e-mehshar tak Ali Ali hoga, hai yeh hi mera eman
+  Kiya ishq-e-Ali ke nashay mein, Meesum ne daar pe ye ayelan
+  Subh-e-mehshar tak Ali Ali hoga, hai ye hi mera eman
   Na zikar-e-Ali ruk paye ga khanjar se bhalay kat jaye zaban
   Meesum ka hai narah Haiderrr, sar-e-daar pukara Haiderrr
   Marne nahi deti jis ki wila
@@ -62,9 +62,9 @@ romanLyrics: |-
   Zamana roz chal ke sar ke bal soye Najaf jaye
 
   7
-  Ali hi qowat-e-Yazdaan hai yeh emaan hamara hai
-  Ali shair-e-jali hai woh kissi se bhi na hara hai
-  Ho Ibn-e-abad-e-wod khandaq mein ya Khaybar Marhab ho
+  Ali hi qowat-e-Yazdaan hai ye emaan hamara hai
+  Ali sher-e-jali hai woh kissi se bhi na hara hai
+  Ho Ibn-e-abad-e-wod khandaq mein ya Khaibar Marhab ho
   Ali ne mar kar dushman ko har maidan mara hai
 
   8
@@ -76,9 +76,9 @@ romanLyrics: |-
   Hoor kisay da naa nayi lairaan
 
   9
-  Ali ka jashan yeh Joan-o- Asad jo bhi manaye ga
-  Ali ke naam par Allah se khairat paye ga
-  Ali ki shan sun kar sar jhukaye ga jo tazeeman
+  Ali ka jashan ye Joan-o- Asad jo bhi manaye ga
+  Ali ke naam par Allah se khairaat paye ga
+  Ali ki shan sun kar sar jhukaye ga jo taaziman
   Woh apna sar utha kar shan se mehshar mein aaye ga
 ---
 

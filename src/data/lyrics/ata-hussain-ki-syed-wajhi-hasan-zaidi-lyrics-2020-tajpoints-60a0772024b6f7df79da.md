@@ -1,6 +1,6 @@
 ---
 title: "عطا حسین کی"
-alternateTitle: "Ata Hussain Ki"
+alternateTitle: "Ata Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Atta Hussain ki Fitrus ki shan dekhtey hain
-  Thehar thehar ke farishtay oraan dekhtey hain
-  Habib teri zaeefi ki taab maqtal mein
-  Palat palat ke tujhe nojawan dekhtey hain
-  Yeh sehan-e-Zahra mein chalte hoye Hussain-o-Hasan
-  Zameen pe baithay hoye aasman dekhtey hain
+  Ata Husain ki Fitrus ki shaan dekhte hain
+  Thahar thehar ke farishte uraaṅ dekhte hain
+  Habib teri zaifi ki taab maqtal mein
+  Palat palat ke tujhe naujawaan dekhte hain
+  Ye sahn-e-Zehra mein chalte hue Husain-o-Hasan
+  Zameen pe baithay hue aasmaan dekhte hain
 
   2
   Sunao Karb-o-Bala our aazmao inhein
-  Kahan badalta hai kis ka biyan dekhtey hain
+  Kahan badalta hai kis ka biyan dekhte hain
   Woh rishta dein gay kissi ghair khandani ko
-  Jo rahwar ka bhi khandan dekhtey hain
-  Howa Khuda ka bhi zair Hussain ka zawwar
-  Youn la makan ka hum bhi makan dekhtey hain
+  Jo rahwar ka bhi khandan dekhte hain
+  Howa Khuda ka bhi zair Husain ka zawwar
+  Youn la makan ka hum bhi makan dekhte hain
 
   3
   Nabi yeh kehte they woh dekho aa raha hai Habib
-  Chalo Hussain ke nokar ki shan dekhtey hain
-  Yeh bolay mujh se nakerain le hi lein gay hisab
-  Abhi tu matam-e-Sheh ke nishan dekhtey hain
+  Chalo Husain ke nokar ki shaan dekhte hain
+  Ye bolay mujh se nakerain le hi lein gay hisab
+  Abhi tu matam-e-Sheh ke nishaan dekhte hain
   Namaz bhi Ali Akbar ka pursa hai Akbar
-  Musallay hum ko bawaqt-e-azan dekhtey hain
+  Musallay hum ko ba waqt-e-azaan dekhte hain
 ---
 
 ۱

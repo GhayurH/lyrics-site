@@ -1,6 +1,6 @@
 ---
 title: "انا غدیری"
-alternateTitle: "Anna Ghadeeri"
+alternateTitle: "Ana Ghadiri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aye Dunya Walo Yehi Hai Sab Se Bari Ameeri
-  Ali Ke Dar Ki Hai Raas Aayi Mujhe Faqeeri
+  Ae Duniya Waalo Yehi Hai Sab Se Bari Amiri
+  Ali Ke Dar Ki Hai Raas Aayi Mujhe Faqiri
 
   1
-  Falak Se Dekha Jo Khum Ka Manzar
-  Uthaye Haider Ko Hain Pyamber
-  Tu Har Farishta Yeh Keh Raha Tha
-  Falak Pe Ik Dosray Se Hans Kar
+  Falak Se Dekha Jo Khumm Ka Manzar
+  Uthaae Haider Ko Hain Paighambar
+  To Har Farishta Ye Keh Raha Tha
+  Falak Pe Ik Dusre Se Hans Kar
 
   2
   Ghadeer Jaisi Fiza Hai Dil Mein
@@ -26,7 +26,7 @@ romanLyrics: |-
   Wilayat-e-Murtaza Hai Dil Mein
 
   3
-  Jahan Ne Dekha Hai Yeh Bhi Aksar
+  Jahan Ne Dekha Hai Ye Bhi Aksar
   Banata Hoon Soliyon Ka Mimber
   Ajal Mujhe Khob Janti Hai
   Kahin Hoon Meesum Kahin Abuzar
@@ -53,11 +53,11 @@ romanLyrics: |-
   Riza-e-Khaliq Jisay Mili Hai
   Khuda Ne Talwar Jis Ko Di Hai
   Ali Hain Aoula Ali Hai Maula
-  Mera Aqeeda Bhi Tu Yehi Hai
+  Mera Aqeeda Bhi To Yehi Hai
 
   8
   Zaban-e-Akbar Se Jo Mila Hai
-  Maza Yeh Jamay Ghadeer Ka Hai
+  Maza Ye Jamay Ghadeer Ka Hai
   Asar Hai Sohbat Ka Aayaton Ki
   Qalam Bhi Abbas Keh Raha Hai
 ---

@@ -1,6 +1,6 @@
 ---
-title: "ارمان ملے خاک میں سارے علی اکبر حیدر رضوی"
-alternateTitle: "Arman Milay Khak Main Sary Ali Akbar Haider Rizvi"
+title: "ارمان ملے خاک میں سارے علی اکبر"
+alternateTitle: "Armaan Mile Khaak Mein Saare Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Arman milay khak main sary Ali Akbar Haider Rizvi
+  Armaan mile khaak mein saare Ali Akbar
 
   1
-  Arman bohat tha keh tujhe dulha banati
-  Iss chand se chehray pe tere sehra sajati
-  Inn hathoon pe main khoon ki jagah mehndi lagati
-  Our shan se dulhan main teri biyah ke lati
-  Arman miley khak mein sare Ali Akbar
+  Armaan bahut tha ke tujhe dulha banati
+  Iss chaand se chehray pe tere sehra sajati
+  Inn haathoṅ pe main khun ki jagah mehndi lagati
+  Aur shan se dulhan main teri biyah ke lati
+  Armaan miley khaak mein sare Ali Akbar
   Maa zindah rahe kis ke saharey Ali Akbar
 
   2
@@ -25,11 +25,11 @@ romanLyrics: |-
   Taqdeer ne bakhsha hai inhein ashkon ka tohfa
   Khushiyaan nahi qismat mein hamarey Ali Akbar
   Batlao tu ab dulha banaon gi main kis ko
-  Aye lal marey mehndi lagaon gi main kis ko
+  Ae lal marey mehndi lagaon gi main kis ko
   Kyun roth gaye maa ke dularay Ali Akbar
 
   3
-  Aye noor-e-nazar, lakht-e-jigar, qalb ki rahat
+  Ae noor-e-nazar, lakht-e-jigar, qalb ki rahat
   Tum they tu yeh dunya bhi mujhe lagti thi janat
   Be rang hain ab sare nazarey Ali Akbar
   Halat jo marey dil ki hai iss aan na pocho
@@ -41,11 +41,11 @@ romanLyrics: |-
   Seh paein gay woh teri judai ka na sadma
   Shabeer hain marqad ke kinaray Ali Akbar
   Dekho tu woh Haider ka bhi dil kaat rahi hai
-  Aakash ka bhi khon-e-jigar chaat rahi hai
-  Jo barchi hai seene mein tumhare Ali Akbar
+  Aakaash ka bhi khon-e-jigar chaat rahi hai
+  Jo barchhi hai seene mein tumhare Ali Akbar
 ---
 
-ارمان ملے خاک میں سارے علی اکبر حیدر رضوی
+ارمان ملے خاک میں سارے علی اکبر
 
 ۱
 ارمان بہت تھا کہ تجھے دولہا بناتی

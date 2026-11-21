@@ -10,17 +10,17 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Amma tere Hussain ka sab ghar ujar gaya
-  Amma lab-e-Furat yeh kaisa sitam howa
+  Amma tere Husain ka sab ghar ujar gaya
+  Amma lab-e-Furat yeh kaisa sitam hua
 
   1
-  Kitni ghareeb ho gayi dekho Nabi ki aal
-  Ik bond ko taras gaya Asghar sa no nehal
-  Pani ke badlay teer se chaida gaya gala
-  Aaya watan ko choor ke tera yeh noor-e-ain
+  Kitni gharib ho gayi dekho Nabi ki aal
+  Ik buṅd ko taras gaya Asghar sa nau nihaal
+  Pani ke badle tir se chheda gaya gala
+  Aaya watan ko chhor ke tera yeh nur-e-ain
 
   2
-  No lakh qatilon mein hai tanha Hussain
+  No lakh qatilon mein hai tanha Husain
   Serab mere khon se ho gi yeh Karbala
   Subh-e-daham se asar tak so baar mar chuka
   Abbas jaise shair ko qurban kar chuka
@@ -29,7 +29,7 @@ romanLyrics: |-
   Abbas jab nahi raha jee kar karon main kya
   Iss dil ne aik roz mein kya zakhm khaye hain
   Zainab le ladloon ke bhi lashay uthaye hain
-  Aye amma khoon rula gaya Zainab ka hosla
+  Ae amma khoon rula gaya Zainab ka hosla
 
   4
   Tukray chunay hain dasht mein Qasim ki lash ke
@@ -45,9 +45,9 @@ romanLyrics: |-
 
   6
   Mujh ko bula rahe hain ab maqtal mein ashqiya
-  Noha Laeeq kya likhe ab:Mazhar Abidi:
-  Ik misray mein samait di rodad dard ki
-  Khanjar talay Hussain ki aati thi yeh sada
+  Noha Laeeq kya likhe abMazhar Abidi
+  Ik misray mein samet di rudaad dard ki
+  Khanjar tale Husain ki aati thi yeh sada
 ---
 
 اماں تیرے حسین کا سب گھر اجڑ گیا
@@ -85,6 +85,6 @@ romanLyrics: |-
 
 ۶
 مجھ کو بلا رہے ہیں اب مقتل میں اشقیا
-نوحہ لئیق کیا لکھے اب:مظہر عابدی:
+نوحہ لئیق کیا لکھے ابمظہر عابدی
 اک مصرعے میں سمیٹ دی رودادِ درد کی
 خنجر تلے حسین کی آتی تھی یہ صدا

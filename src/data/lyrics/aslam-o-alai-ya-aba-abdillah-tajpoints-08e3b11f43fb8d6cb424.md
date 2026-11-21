@@ -1,6 +1,6 @@
 ---
 title: "السلام علیک یا ابا عبداللہ"
-alternateTitle: "Aslam O Alai Ya Aba Abdillah"
+alternateTitle: "Assalaam Alaika Ya Aba Abdillah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aslam o alai Ya Aba Abdillah
-  Aye Hussain ibn-e-ali tera khoon Saarallah
+  Assalaam alaika Ya Aba Abdillah
+  Ae Husain ibn-e-Ali tera khun Thaarullah
 
   1
-  Syeda Khair-un-Nisa aap ki hain madar-e-jaan
-  Aap ke ghar mein howa hai yeh nazool-e-quraan
-  Hai teri zaat ka sadqa yeh sabhi kon-o-makaan
-  Kyun na har sans tere naam pe ho jaye fida
+  Sayyida Khairun Nisa aap ki hain maadar-e-jaan
+  Aap ke ghar mein hua hai yeh nuzul-e-Quraan
+  Hai teri zaat ka sadqa yeh sabhi kaun o-makaan
+  Kiun na har saaṅs tere naam pe ho jaae fida
 
   2
   Khak urti thi musibat ki sar-e-karb-o-bala
   Jis ki ghurbat pe ghareebi bhi rahi mehway buka
-  Dam-e-Aakhir bhi jise pani muassar na howa
+  Dam-e-Aakhir bhi jise pani muassar na hua
   Haye sokhi hoi gardan pe chali taig-e-jafa
 
   3
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Aag khaimo mein lage gi meri pyari dukhtar
-  Baliyaan kano se chin jaye gi sar se chadar
+  Baliyaan kano se chin jaae gi sar se chadar
   Jab pas-e-qatal mere dekho gi tum yeh manzar
   Yad ghurbat mein bohat aaein gaye tum ko Baba
 
@@ -59,7 +59,7 @@ romanLyrics: |-
   Siskiyaan sham-e-musibat mein Hasan le le kar
   Sar Sakina ne rakha baap ka jab seene par
   Boli ghurbat abhi durron ki chubhan barsa kar
-  Osko lashay se hataeingay abhi ahl-e-jafa
+  Us ko lashay se hataeingay abhi ahl-e-jafa
 ---
 
 السلام علیک یا ابا عبداللہ

@@ -1,6 +1,6 @@
 ---
 title: "اصغرؑ کا تیر کیسے کھنچے گا حسینؑ سے"
-alternateTitle: "Asghar Ka Teer Kaise Khinchega Hussain Se"
+alternateTitle: "Asghar Ka Teer Kaise Khinchega Husain Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,38 +8,38 @@ kalamType: "Noha"
 aliases: []
 published: false
 romanLyrics: |-
-  Asghar ye teer kaise khinchay ga Hussain se
-  Dekha na jaye ga tera chehra Hussain se
+  Asghar ye tir kaise khinche ga Husain se
+  Dekha na jaae ga tera chehra Husain se
 
   1
-  Baba ke pass aur sahara nahi koi
-  Sab chal basay hain baqi hamara nahi koi
-  Is waqt may bicharrtay ho beta Hussain se
+  Baba ke paas aur sahaara nahiṅ koi
+  Sab chal base hain baaqi hamara nahiṅ koi
+  Is waqt mein bichharte ho beta Husain se
 
   2
-  Allah re ghareebi ye ibn e Ameer ki
+  Allah re gharibi ye ibn e Amir ki
   Ham se tumhari aakhri khidmat na ho sahi
-  Badla gaya na khoon bhara kurta Hussain se
+  Badla gaya na khoon bhara kurta Husain se
 
   3
   Karryal jawan ke seenay se barchi nikaal li
-  Teray galay se teer nikalon ga may abhi
-  Kia kaam sakht leta hay tanha Hussain se
+  Teray galay se tir nikalon ga mein abhi
+  Kia kaam sakht leta hay tanha Husain se
 
   4
   May chup rahoon ya qabr pe Bano ko bhaij doon
-  Aey meray be zubaan bata-o may kia karoon
-  Madar jo poochay haal tumhara Hussain se
+  Aey meray be zubaan bata-o mein kia karoon
+  Madar jo poochay haal tumhara Husain se
 
   5
   May hath khaali jaoon ga kis tarha meray laal
-  Kia doon ga may jawab karay gi wo jab sawal
-  Mangay gi apna bhai Sakina Hussain se
+  Kia doon ga mein jawab karay gi wo jab sawal
+  Mangay gi apna bhai Sakina Husain se
 
   6
-  Sheh ne nikala teer to mehshar bapa hua
-  Maqtal may har shaheed Takallum laraz gaya
-  Rukhsat hua Hussain ka beta Hussain se
+  Shah ne nikala tir to mahshar bapa hua
+  Maqtal mein har shaheed Takallum laraz gaya
+  Rukhsat hua Husain ka beta Husain se
 ---
 
 اصغر یہ تیر کیسے کھنچے گا حسین سے

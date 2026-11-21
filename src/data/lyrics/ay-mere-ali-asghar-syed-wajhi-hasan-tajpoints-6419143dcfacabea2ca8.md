@@ -1,6 +1,6 @@
 ---
-title: "اے میرے علی اصغر سید وجیہ حسن"
-alternateTitle: "Ay Mere Ali Asghar Syed Wajhi Hasan"
+title: "اے میرے علی اصغر"
+alternateTitle: "Ae Mere Ali Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,53 +10,51 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ay mere Ali Asghar Syed Wajhi Hasan
-  Maa ke lab pe tha noha aye mere Ali Asghar
+  Maa ke lab pe tha noha ae mere Ali Asghar
 
   1
-  Lut gayi meri dunya aye mere Ali Asghar
+  Lut gayi meri duniya ae mere Ali Asghar
   Dast-e-shah-e-wala pe bekasi keh maqtal mein
-  Kya khabar thi madar ko Karbala ke jangal mein
-  Qatal ho ga tu pyasa aye mere Ali Asghar
+  Kya khabar thi maadar ko Karbala ke jangal mein
+  Qatal ho ga tu pyasa ae mere Ali Asghar
 
   2
   Khilqat-e-Khuda sari hans ke khon roti thi
-  Tum ne khushk honton par jab zaban phairi thi
-  Abar kyun nahi barsa aye mere Ali Asghar
+  Tum ne khushk hontoṅ par jab zaban phairi thi
+  Abar kyun nahi barsa ae mere Ali Asghar
   Meri aankh ke taray kyun kiye dil-e-Sarwar
 
   3
   Hurmala ne mara hai teer teri gardan par
-  Zakhm hai bohat gehra aye mere Ali Asghar
+  Zakhm hai bohat gehra ae mere Ali Asghar
   Gard saaf kehti hai nanhay nanhay zulfoon ki
-  Jalti rait par tu ne ragri ayeriyaan apni
+  Jalti ret par tu ne ragri ayeriyaan apni
 
   4
-  Kanp utha jigar maa ka aye mere Ali Asghar
+  Kanp utha jigar maa ka ae mere Ali Asghar
   Fatima ka Mohsin khud yaad aa gaya hoga
   Khoon bhira tera lasha sheh ne jab liya ho ga
-  Jan-e-dilbar e Zahra aye mere Ali Asghar
+  Jan-e-dilbar e Zahra ae mere Ali Asghar
 
   5
-  Door tujh ko madar se kis tarha sulaein gay
-  Zair-e-khak turbat mein kaisay sheh chupaein gay
-  Phool sa tera chehra aye mere Ali Asghar
-  Kya khabar thi madar ko yeh ghari bhi aaye gi
+  Door tujh ko maadar se kis tarha sulaein gay
+  Zair-e-khaak turbat mein kaisay sheh chupaein gay
+  Phool sa tera chehra ae mere Ali Asghar
+  Kya khabar thi maadar ko yeh ghari bhi aae gi
 
   6
   Maut aa ke maqtal mein tum ko loriyaan de gi
-  Maa uthaye gi sadma aye mere Ali Asghar
+  Maa uthae gi sadma ae mere Ali Asghar
   Tujh ko yaad kar kar ke be basi pe royon gi
-  Jab talak main zindah hoon saye mein na jaon gi
+  Jab talak main zindah hoon sae mein na jaon gi
 
   7
-  Tujh se hai mera wadah aye mere Ali Asghar
+  Tujh se hai mera wadah ae mere Ali Asghar
   Aye Wajih kya likhe yeh Hilal woh manzar
   Ro ke sham-e-Ashora kehti thi jab ik nadaar
-  Jal gaya tera jhola aye mere Ali Asghar
+  Jal gaya tera jhola ae mere Ali Asghar
 ---
 
-اے میرے علی اصغر سید وجیہ حسن
 ماں کے لب پہ تھا نوحہ اے میرے علی اصغر
 
 ۱

@@ -1,6 +1,6 @@
 ---
 title: "عون دی ماں آئے عون نوں رو سمجھاوے"
-alternateTitle: "Aoun Di Maa Aye Aoun Nu Ro Samjhaway"
+alternateTitle: "Aun Di Maa Ae Aun Nu Ro Samjhaave"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aoun di maa aye Aoun nu ro samjhaway
-  Tere jeenday jee Shabir mera Akbar di lash na chaway
-  Zakhma wich choor v ho ke tu Shabir nu waaj na marein
-  Jitna v mumkin howay bas maqtal wich waqat guzarein
+  Aun di maa ae Aun nu ro samjhaave
+  Tere jeenday jee Shabbir mera Akbar di laash na chaway
+  Zakhma wich choor vi ho ke tu Shabbir nu waaj na marein
+  Jitna vi mumkin howay bas maqtal wich waqat guzarein
 
   2
   Aynj veer di pak ziyarat da menu hoor waqat mil jaway
-  Tere akhri sa wich maa Zahra ne lash teri te aana aye
-  Tu bose de ke qadma te sir khud jholi wich pana aye
+  Tere akhri sa wich maa Zehra ne laash teri te aana ae
+  Tu bose de ke qadma te sir khud jholi wich pana ae
   Tenu chawan layi meri zakhmi maa pase tu hath na chaway
 
   3
-  Tu takiya aye main bachpan tu aonu keeta kitna pyar aye
-  Meri jholi wango Akbar e mere hanjwaan da haqdar aye
-  Na amri te naraz howein jay lash te wain na paway
-  Jay chana aye maa razi re te rakhein paas adab da
+  Tu takiya ae main bachpan tu aonu keeta kitna pyar ae
+  Meri jholi wango Akbar e mere hanjwaan da haqdar ae
+  Na amri te naraz howein jay laash te wain na paway
+  Jay chana ae maa razi re te rakhein paas adab da
 
   4
-  Jadoon lash teri te maqtal wich away sardar Arab da
-  Aye wajab aye tazeem layi khud lash teri uth jaway
-  Do putar te sir di chadar aye teri maa da kul sarmaya
-  Ayna tu wadh ke qeemti aye meri maa Zahra da jaya
+  Jadoon laash teri te maqtal wich away sardar Arab da
+  Ae wajab ae tazeem layi khud laash teri uth jaway
+  Do putar te sir di chadar ae teri maa da kul sarmaya
+  Ayna tu wadh ke qeemti ae meri maa Zehra da jaya
 
   5
-  Bas Zainab nu aye fikraan ne kiwein veer Hussain bachaway
-  Tusi Hashmi oh aye yaad raway rayi Akbar ro farmandi
-  Medaan wich hoslay larday ne talwar nayi wekhi jandi
-  Ik Haider de ik Jafar de rang wich talwar chalaway
+  Bas Zainab nu ae fikraan ne kiwein veer Husain bachaway
+  Tusi Hashmi oh ae yaad raway rayi Akbar ro farmandi
+  Medaan wich hausle larday ne talwaar naiṅ wekhi jandi
+  Ik Haider de ik Jafar de rang wich talwaar chalaway
 ---
 
 ۱

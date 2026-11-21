@@ -1,6 +1,6 @@
 ---
-title: "اماں میں غریب ہو گیا سرور رضا کربلائی"
-alternateTitle: "Amma Main Ghareeb Ho Gaya Sarwar Raza Karabalai"
+title: "اماں میں غریب ہو گیا"
+alternateTitle: "Amma Main Gharib Ho Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,42 +9,42 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Amma main ghareeb ho gaya Sarwar Raza Karabalai
+  Amma main gharib ho gaya
 
   1
-  Utha ke gaud mein mujhe kaha tha tum ne ba Khuda
-  Hussain mera badshah Hussain mera ladla
-  Bina tumhare kaun ab sunaye mujh ko loriyaan
-  Bina tumhare kis tarha jiyon bhala meri maa
-  Janaza maa ka jab utha yeh Shah-e-Dein ne di sada
+  Utha ke god mein mujhe kaha tha tum ne bakhuda
+  Husain mera baadshah Husain mera laadla
+  Bina tumhare kaun ab sunaye mujh ko loriyaaṅ
+  Bina tumhare kis tarah jiuṅ bhala meri maaṅ
+  Janaaza maaṅ ka jab utha yeh Shah-e-Dein ne di sada
   Haan aakhri dafa mujhe laga lo seene se zara
 
   2
-  Tumhare bina bhala mujhe sakon aaye kis tarha
+  Tumhare bina bhala mujhe sakon aaye kis tarah
   Sakon mera kho gaya qarrar mera kho gaya
-  Tamacha maa ko jis ghari Hasan ke samne laga
+  Tamacha maaṅ ko jis ghari Hasan ke samne laga
   Batool roti reh gayi Hasan bhi rota reh gaya
   Haan aasman hill gaya woh farsh pe hai zalzala
   Hasan ne bhar ke siskiyaan haan zair-e-lab yeh keh diya
 
   3
-  Pukari Zainab-e-Hazeen na chor jao maa abhi
-  Yateem ban ke kis tarha guzaron gi main zindagi
+  Pukari Zainab-e-Hazeen na chor jao maaṅ abhi
+  Yateem ban ke kis tarah guzaron gi main zindagi
   Addo jo ho gaye sabhi zamana hai yeh ajnabi
   Roi Bint-e-Syeda sun ke bhai ki sada
-  Laga jo neza seene par Hussain ke jawan ko
-  Tu hath rakh ke seene par Hussain ne ki guftgu
+  Laga jo neza seene par Husain ke jawan ko
+  Tu hath rakh ke seene par Husain ne ki guftgu
 
   4
   Hai neza seene mein gara karon main kaisay justaju
   Sada yeh tab suni gayi hai Karbala mein chaar so
-  Utha janaza Bibi ka malak bhi roye ba Khuda
-  Aye:ASIF-E-: hazeen abhi qalam ko rook lo zara
-  Parho yeh dil se ja baja Aye:SARWAR-E-RAZ: sada
-  Haan kano mein jo aati hai Hussain ki woh ik sada
+  Utha janaza Bibi ka malak bhi roye bakhuda
+  Ae Aasif-e- hazeen abhi qalam ko rok lo zara
+  Parho yeh dil se ja baja Ae Sarwar-e-Raaz sada
+  Haan kaanoṅ mein jo aati hai Husain ki woh ik sada
 ---
 
-اماں میں غریب ہو گیا سرور رضا کربلائی
+اماں میں غریب ہو گیا
 
 ۱
 اٹھا کے گود میں مجھے کہا تھا تم نے بخدا

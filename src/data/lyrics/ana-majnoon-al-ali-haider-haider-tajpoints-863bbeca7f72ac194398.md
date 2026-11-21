@@ -1,6 +1,6 @@
 ---
 title: "انا مجنون آلِ علی حیدر حیدر"
-alternateTitle: "Ana Majnoon Al Ali Haider Haider"
+alternateTitle: "Ana Majnun Aal-e-Ali Haider Haider"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,19 +10,19 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kul-e-eman Ali
+  Kul-e-imaan Ali
   Mera sultan Ali
-  Noor-e-yazdan Ali
-  Momin ka eman Ali hai
+  Nur-e-Yazdaan Ali
+  Momin ka imaan Ali hai
 
   2
-  Sajdoon ki meezan Ali hai
-  Terah Rajab ko ho gaya zahir
-  Kabay ki pehchan Ali hai
+  Sajdoṅ ki mizan Ali hai
+  Terah Rajab ko ho gaya zaahir
+  Kaabay ki pehchan Ali hai
   Aayat Allah Ali
 
   3
-  Kabatu Allah Ali
+  Kaabato Allah Ali
   Izzat Allah Ali
   Kaun hai tere jaisa saein
   Mere murshid Maula saein
@@ -60,7 +60,7 @@ romanLyrics: |-
   9
   Taray ko bulwaya Ali ne
   Apni khatir do nabiyon se
-  Kabay ko banwaya Ali ne
+  Kaabay ko banwaya Ali ne
   Shah-e-mehrab Ali
 
   10
