@@ -1,6 +1,6 @@
 ---
-title: "اکبر توں کر لئیاں نیں کربل تیاریاں، راوی روڈ ۲۰۰۷"
-alternateTitle: "Akbar Tu Kar Layiyan Ne Karbal Teyariyan (Ravi Road, 2007)"
+title: "اکبر توں کر لئیاں نیں کربل تیاریاں"
+alternateTitle: "Akbar Tu Kar Laiyaaṅ Ne Karbal Taiyaariyaaṅ"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Akbar tu kar layiyan ne Karbal teyariyan Ravi Road
+  Akbar tu kar laiyaaṅ ne Karbal taiyaariyaaṅ
   Barbad wehriyaan wich ujari nu mar chadna veran bemariyaan
-  Baba maikon dasa cha Sughra da ki qasoor aye
-  Meri bhain chori wainda aye tere naal sara poor aye
+  Baba maikon dasa cha Sughra da ki qasoor ae
+  Meri bhain chori wainda ae tere naal sara poor ae
 
   2
   Le apne naal turya bhaina tu sariyaan
   Sughra beemar ujari sikdi rayi bhira koon
   Tarsay na bhain koi aynj veer de wiyah nu
-  Rab jane kyun kaliyaan ghariyaan guzariyan
+  Rab jane Kiun kaliyaan ghariyaan guzariyan
 
   3
-  Karbal taun wal ke Asghar ujari de aawein wehray
+  Karbal toṅ wal ke Asghar ujari de aawein wehray
   Tainu raj ke main khadoran karne ne chah batheray
-  Asghar taun karda ho sain galaan v pyariyan
+  Asghar toṅ karda ho sain galaan v pyariyan
   Nana main khuwab takiya Karbal che wairi lokaan
 
   4
-  Panri de ghut de badlay tin teer diyaan nokaan
+  Paani de ghut de badlay tin teer diyaan nokaan
   Be sheer be khata di gardan te mariyaan
-  Qasad beemar da si oss waqt kool aaya
-  Akbar da lasha Shah ne jadon modiyaan te chaya
+  Qasad beemar da si us waqt kool aaya
+  Akbar da laasha Shah ne jadon modiyaan te chaya
 
   5
   Khaimay de dar te rowanr bhaina wachariyan
   Akhtar kiwein dasaway jiwein Shimar kamina
-  Riya dabda Shah de gal nu takdi rayi Sakina
+  Riha dabda Shah de gal nu takdi rayi Sakina
   Babay de gal te zarbaan kiwein sahariyan
 ---
 
 ۱
-اکبر توں کر لئیاں نیں کربل تیاریاں راوی روڈ
+اکبر توں کر لئیاں نیں کربل تیاریاں
 برباد ویہڑیاں وچ اجاڑی نوں مار چھڈنا ویرن بیماریاں
 بابا میکوں دسا چا صغریٰ دا کی قصور اے
 میری بھین چوری ویندا اے تیرے نال سارا پور اے

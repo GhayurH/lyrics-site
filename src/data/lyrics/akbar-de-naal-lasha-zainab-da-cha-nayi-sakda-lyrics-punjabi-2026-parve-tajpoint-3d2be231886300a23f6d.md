@@ -1,6 +1,6 @@
 ---
 title: "اکبر دے نال لاشا زینب دا چا نئیں سکدا"
-alternateTitle: "Akbar De Naal Lasha Zainab Da Cha Nayi Sakda"
+alternateTitle: "Akbar De Naal Laasha Zainab Da Chaa Naiṅ Sakda"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Akbar de naal lasha Zainab da cha nayi sakda
-  Ais layi Hussain zakhm-e-Akbar wakha nayi sakda
-  Barchi de naal tera aa jaye na kaleja
-  Tere seene taun aye barchi tera piyo chura nayi sakda
+  Akbar de naal laasha Zainab da cha naiṅ sakda
+  Ais lai Husain zakhm-e-Akbar wakha naiṅ sakda
+  Barchhi de naal tera aa jae na kaleja
+  Tere sine toṅ ae barchi tera piyo chhura naiṅ sakda
 
   2
-  Ashab mar gaye ne Shabbir hun kisay nu
-  Lasha uthan de layi maqtal bola nayi sakda
-  Akbar nu kiwein lara das Sughra main banawaan
-  Akbar di lash nu main haye sehra la nayi sakda
+  Ashaab mar gae ne Shabbir hun kise nu
+  Laasha uthan de lai maqtal bola naiṅ sakda
+  Akbar nu kiven lara das Sughra main banawaan
+  Akbar di lash nu main hae sehra la naiṅ sakda
 
   3
-  Ghazi bikhar gaya aye maqtal che waang Qasim
-  Tukray samait ke Shah maiyyat bana nayi sakda
-  Kiwein zaeefi wich main tera janaza chawaan
-  Tera jawan lasha Baba utha nayi sakda
+  Ghazi bikhar gaya ae maqtal che waang Qasim
+  Tukre samet ke Shah maiyyat bana naiṅ sakda
+  Kiven zaifi wich main tera janaaza chaavaaṅ
+  Tera javaan laasha Baba utha naiṅ sakda
 
   4
-  Seene che barchi kha ke tera veer mar gaya aye
-  Akbar nu khat aye tera Sughra suna nayi sakda
-  Dig dig ke kinj leaye khaimay che Shah pisar nu
-  Zeeshan lafzaan de wich manzar dasa nayi sakda
+  Seene che barchi kha ke tera vir mar gaya ae
+  Akbar nu khat ae tera Sughra suna naiṅ sakda
+  Dig dig ke kinj leae khaimay che Shah pisar nu
+  Zeeshan lafzaaṅ de wich manzar dassa naiṅ sakda
 ---
 
 ۱

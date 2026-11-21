@@ -1,6 +1,6 @@
 ---
 title: "اکبر کہیں پہ ہیں کہیں اصغر زمین پر"
-alternateTitle: "Akbar Kahi Pe Hain Kahi Asghar Zameen Par"
+alternateTitle: "Akbar Kahiṅ Pe Haiṅ Kahiṅ Asghar Zamin Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,26 +9,26 @@ poet: "Akbar"
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar kahi pe hain kahi Asghar zameen par
-  Lashay idhar hain our udhar sar zameen par
+  Akbar kahiṅ pe hain kahiṅ Asghar zamin par
+  Laashe idhar hain aur udhar sar zamin par
 
   1
-  Naizon pe thin ridaein khulay sar thin bibiyaan
-  Be ghusal-o-be kafan they bahatar zameen par
-  Tukray nahi they Hazrat-e-Qasim ki lash ke
-  Bikhra howa tha Sorah-e-Kausar zameen par
+  Nezoṅ pe thin ridaaeṅ khule sar thin Bibiyaaṅ
+  Be ghusl-o-be kafan the bahattar zamin par
+  Tukre nahiṅ the Hazrat-e-Qasim ki lash ke
+  Bikhra hua tha Sura-e-Kausar zamin par
 
   2
-  Lasha juda tarapta hai ghazi ka sar juda
-  Zalim ne ik girai hai chadar zameen par
-  Shab bhar sipah Sham ki peeti rahi sharab
-  Sehra mein sar Hussain ka rakh kar zameen par
+  Laasha juda tarapta hai ghazi ka sar juda
+  Zaalim ne ik girai hai chaadar zamin par
+  Shab bhar sipah Shaam ki peeti rahi sharaab
+  Sehra mein sar Husain ka rakh kar zamin par
 
   3
-  Asghar ki jane kaun se telay pe qabar ho
-  Chalti hai soch soch ke madar zameen par
-  Sheh kohniyo ke bal gaye chalte hoye wahan
-  Akbar ka khoon baha jahan Akbar zameen par
+  Asghar ki jaane kaun se tile pe qabr ho
+  Chalti hai soch soch ke maadar zamin par
+  Sheh kohniyoṅ ke bal gae chalte hue wahaaṅ
+  Akbar ka khun baha jahaaṅ Akbar zamin par
 ---
 
 اکبر کہیں پہ ہیں کہیں اصغر زمین پر

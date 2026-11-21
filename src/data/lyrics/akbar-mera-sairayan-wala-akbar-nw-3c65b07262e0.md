@@ -1,36 +1,62 @@
 ---
-title: "Akbar Mera Sairayan Wala Akbar"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+title: "اکبر میرا سِہریاں والا اکبر"
+alternateTitle: "Akbar Mera Sairayan Wala Akbar"
+language: "Saraiki"
+lang: "skr-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
+romanLyrics: |-
+  Akbar, mera sairayaaṅ wala Akbar, Akbar, mera chotiyan wala Akbar
+
+  1
+  Sikhday wailay jawaan bachray koun, pagh bha daindeh, Husain thak ponde
+  Inalillah dee sirf ik ayat, paar sunayndeh, Husain thak ponde
+
+  2
+  Dekh tehtul halak Pyambar da, dhal gaey hun Batool di chadar
+  Kambdeh hath naal sir Batool Andeh, burkay dendeh, Husain thak ponde
+
+  3
+  Putreh mehman hove lazay da, Peyoo di sehwaan tu deed hath di nai
+  Jug toh tooran tu pehleh Akbar de, sah genayndeh, Husain thak ponde
+
+  4
+  Hai janaza teyar Akbar da, Mustafa alameen de sadkay
+  Akhrie waar sonai Akbar daa, mu dekhayn de, Husain thak ponde
+
+  5
+  Ai vai desdai jo vuct nai melna, peyoo ko ai da jigar chunan keeteh
+  Senai barchi lagun toh boh pehlay, ha malayndeh Husain thak ponde
+
+  6
+  Enj pug putur ko juhan otay, koi Pyambar nahi banda sakeya
+  Mout di pug jo hai tow hun pug da, larvalayndeh, Husain thak ponde
 ---
 
-Akbar, mera sairayan wala Akbar, Akbar, Mera Chotiyan wala Akbar
+اکبر، میرا سِہریاں والا اکبر، اکبر، میرا چوٹیوں والا اکبر
 
-Sikhday wailay jawaan bachray koun, Pagh Bha Daindeh, Hussain thak’ pondeh.
+۱
+سکھ دے ویلے جوان بچڑے کوں، پگ بھا دیندے، حسین تھک پوندے
+انا للہ دی صرف اک آیت، پڑھ سنَیندے، حسین تھک پوندے
 
-Inalillah dee sirf ik ayat, paar sunayndeh, Hussain thak’ pondeh.
+۲
+دیکھ تحت الحلق پیغمبر دا، ڈھل گئی ہُن بتول دی چادر
+کمبدے ہتھ نال سر بتول اَندے، بُرکے دیندے، حسین تھک پوندے
 
-Dekh’ tehtul halak’ Pyambar dah, dhal gaey hun Batool di chadar
+۳
+پتر مہمان ہووے لحظے دا، پیو دی سَہواں تُوں دید ہٹدی نئیں
+جگ توں ٹورن توں پہلے اکبر دے، ساہ گنَیندے، حسین تھک پوندے
 
-Kambdeh hath naal sir Batool Andeh, Burkay dendeh, Hussain thak’ pondeh.
+۴
+ہے جنازہ تیار اکبر دا، مصطفیٰ عالمین دے صدقے
+آخری وار سوہنے اکبر دا، منہ دیکھَین دے، حسین تھک پوندے
 
-Putreh mehman’ hove lazay da, Peyoo di sehwaan tu deed hath di nai
+۵
+ایہ وی دسدا اے جو وقت نئیں ملنا، پیو کوں ایہدا جگر چُنن کیتے
+سینے برچھی لگن توں بہوں پہلے، ہتھ ملَیندے حسین تھک پوندے
 
-Jug toh tooran tu pehleh Akbar deh, Sah genayndeh, Hussain thak’ pondeh.
-
-Hai janaza teyar’ Akbar dah, Mustafa alameen deh sad’kay
-
-Akhrie waar’ sonai Akbar daa, Mu dekhayn deh, Hussain thak’ pondeh.
-
-Ai vai desdai jo vuct’ nai melna, peyoo ko ai da jigar chunan keeteh
-
-Senai barchi lagun toh boh pehlay, ha malayndeh Hussain thak’ pondeh.
-
-Enj pug putur ko juhan’ otay, koi Pyambar nahi banda sak’eya
-
-Mout’ di pug’ jo hai tow hun’ pug’ da, larvalayndeh, Hussain thak’ pondeh.
+۶
+اینج پگ پتر کوں جہان اُتے، کوئی پیغمبر نئیں بنھا سکیا
+موت دی پگ جو ہے توں ہُن پگ دا، لڑ ولَیندے، حسین تھک پوندے
