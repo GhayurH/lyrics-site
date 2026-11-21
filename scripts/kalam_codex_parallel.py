@@ -207,11 +207,11 @@ def rebalance(*, apply: bool = False) -> None:
                     "version": 1,
                     "worker_count": workers,
                     "inventory_sha256": hashlib.sha256(
-                        "\\n".join(paths).encode("utf-8")).hexdigest(),
+                        "\n".join(paths).encode("utf-8")).hexdigest(),
                     "moved_to_zero": sorted(moved),
                     "created_at": dt.datetime.now(dt.timezone.utc).isoformat(),
                 }
-                raw = json.dumps(document, ensure_ascii=False, indent=2) + "\\n"
+                raw = json.dumps(document, ensure_ascii=False, indent=2) + "\n"
                 tmp = directory / f"queue-ownership.json.tmp.{os.getpid()}"
                 descriptor = os.open(tmp, os.O_WRONLY | os.O_CREAT | os.O_EXCL, 0o600)
                 try:
